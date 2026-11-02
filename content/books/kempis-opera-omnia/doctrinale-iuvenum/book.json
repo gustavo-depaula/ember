@@ -1,0 +1,114 @@
+{
+  "id": "kempis-doctrinale-iuvenum",
+  "cover": "classic",
+  "name": {
+    "la": "Doctrinale iuvenum",
+    "en-US": "The Doctrine for Young Men",
+    "pt-BR": "A Doutrina dos Jovens"
+  },
+  "author": {
+    "la": "Thomas a Kempis",
+    "en-US": "Thomas à Kempis",
+    "pt-BR": "Tomás de Kempis"
+  },
+  "description": {
+    "la": "Libellus qui dicitur Doctrinale iuvenum: de sacra Scriptura, de clerico et laico, de bonis scriptoribus et libris, de cantu ecclesiae, de superbo et pigro fratre, de desiderio caelestium.",
+    "en-US": "Counsel for young religious: the reading of Scripture, the difference between cleric and layman, good copyists and the care of books, church song, the proud and the slothful brother, the desire of heaven. Latin only: Pohl's critical edition (Freiburg 1918), from a raw OCR of the printed volume; no public-domain English translation has been found.",
+    "pt-BR": "Conselhos para jovens religiosos: a leitura da Escritura, clérigo e leigo, bons copistas e o cuidado dos livros, o canto da Igreja, o irmão soberbo e o preguiçoso, o desejo do céu."
+  },
+  "composed": "c. 1425-1440",
+  "languages": [
+    "la"
+  ],
+  "work": "thomas-a-kempis/doctrinale-iuvenum",
+  "editions": {
+    "la": {
+      "editor": "Michael Joseph Pohl",
+      "year": 1918
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia0000thom_q8k7",
+      "edition": "Thomae Hemerken a Kempis Doctrinale iuvenum, ed. M. J. Pohl (Freiburg: Herder 1918), Opera omnia IV; archive.org raw OCR (Pohl 1918 volume).",
+      "description": "Chapters as Pohl divides them, with his upper-case chapter titles recased (u/v normalised by script). Line numbers, running heads and page breaks stripped by script; Pohl's critical footnotes and introduction are not imported. Raw OCR: drop capitals at chapter openings and isolated letters are often garbled; a chapter heading lost to OCR runs two chapters together.",
+      "tier": "A",
+      "tierEvidence": "Pohl 1918; Thomas died in 1471."
+    }
+  ],
+  "toc": [
+    {
+      "id": "p1-01",
+      "title": {
+        "la": "1. De recommendatione sacrae scripturae"
+      }
+    },
+    {
+      "id": "p1-02",
+      "title": {
+        "la": "2. De differentia clerici et monachi"
+      }
+    },
+    {
+      "id": "p1-03",
+      "title": {
+        "la": "3. De thesauro eloquiorum divinorum"
+      }
+    },
+    {
+      "id": "p1-04",
+      "title": {
+        "la": "4. De bonis scriptoribus libroru m"
+      }
+    },
+    {
+      "id": "p1-05",
+      "title": {
+        "la": "5. De firma custodia librorum"
+      }
+    },
+    {
+      "id": "p1-06",
+      "title": {
+        "la": "6. De ornatu claustri bene fundati"
+      }
+    },
+    {
+      "id": "p1-07",
+      "title": {
+        "la": "7. De indocto clerico sine sacris libris"
+      }
+    },
+    {
+      "id": "p1-08",
+      "title": {
+        "la": "8. De cantu ecclesiae in hymnis et. psalmis"
+      }
+    },
+    {
+      "id": "p1-09",
+      "title": {
+        "la": "9. De festis Christi, et reliquiis sanctorum"
+      }
+    },
+    {
+      "id": "p1-10",
+      "title": {
+        "la": "10. De moribus humilis fratris, et vitiis superbi et pigri"
+      }
+    },
+    {
+      "id": "p1-11",
+      "title": {
+        "la": "11. De abnegatione sui et omnium rerum"
+      }
+    },
+    {
+      "id": "p1-12",
+      "title": {
+        "la": "12. De desiderio caelestium gaudiorum"
+      }
+    }
+  ]
+}
