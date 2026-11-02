@@ -1,0 +1,91 @@
+{
+  "id": "bellarmine-dottrina-cristiana-breve",
+  "cover": "classic",
+  "name": {
+    "it": "Dottrina cristiana breve",
+    "en-US": "The Short Christian Doctrine",
+    "pt-BR": "Doutrina cristã breve"
+  },
+  "author": {
+    "it": "Roberto Bellarmino",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "it": "Il catechismo breve, composto per ordine di Clemente VIII (1597), in quattro classi di domande e risposte da imparare a memoria, con gli atti delle virtù. Testo dell'edizione Vivès (1870-74), da scansione OCR.",
+    "en-US": "The short catechism composed by order of Clement VIII (1597), in four classes of questions and answers to be learned by heart, with the acts of the virtues. Italian only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "O catecismo breve composto por ordem de Clemente VIII (1597), em quatro classes de perguntas e respostas para decorar."
+  },
+  "composed": "1597",
+  "languages": [
+    "it"
+  ],
+  "work": "bellarmine/dottrina-cristiana-breve",
+  "editions": {
+    "it": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://archive.org/details/operaomnia12bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 12 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. Italian.",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduzione",
+      "title": {
+        "it": "Introduzione",
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "classe1",
+      "title": {
+        "it": "Prima classe",
+        "en-US": "First class"
+      }
+    },
+    {
+      "id": "classe2",
+      "title": {
+        "it": "Seconda classe",
+        "en-US": "Second class"
+      }
+    },
+    {
+      "id": "classe3",
+      "title": {
+        "it": "Terza classe",
+        "en-US": "Third class"
+      }
+    },
+    {
+      "id": "classe4",
+      "title": {
+        "it": "Quarta classe",
+        "en-US": "Fourth class"
+      }
+    },
+    {
+      "id": "atti-delle-virtu",
+      "title": {
+        "it": "Atti delle virtù",
+        "en-US": "Acts of the virtues"
+      }
+    },
+    {
+      "id": "istruzione",
+      "title": {
+        "it": "Istruzione",
+        "en-US": "Instruction"
+      }
+    }
+  ]
+}
