@@ -1,0 +1,81 @@
+{
+  "id": "newman-dream-of-gerontius",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Dream of Gerontius",
+    "pt-BR": "O Sonho de Gerôncio"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "Newman's poem of 1865 on the journey of a dying Christian: the prayers of the assistants at the deathbed, the soul's passage with its guardian angel, the choirs of angels, the demons, and the Angel of the Agony bringing the soul to Purgatory. Seven parts. It contains the hymn \"Praise to the Holiest in the height\".",
+    "pt-BR": "O poema de Newman (1865) sobre a jornada de um cristão moribundo: as orações dos assistentes à cabeceira, a passagem da alma com o anjo da guarda, os coros dos anjos, os demônios e o Anjo da Agonia que leva a alma ao Purgatório. Sete partes. Contém o hino \"Praise to the Holiest in the height\"."
+  },
+  "composed": "1865",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/dream-of-gerontius",
+  "editions": {
+    "en-US": {
+      "editor": "John Henry Newman (author's text; Gutenberg copy from Longmans 1910, ed. Maurice Francis Egan)",
+      "year": 1865
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/48927",
+      "edition": "The Dream of Gerontius, Project Gutenberg #48927 (Longmans, Green, 1910, with introduction and notes by Maurice Francis Egan, first published 1903).",
+      "description": "The poem only (the seven parts, 1,190 lines of text): Egan's introduction, biographical sketch and 33 endnotes are left out, as are the Gutenberg licence and transcriber's notes; footnote markers and marginal line numbers removed; \"Kyrie eleison\" spelled \"eleïson\" as in the Newman Reader text; hard breaks keep the verse lines. Word count (6,324) agrees with the Newman Reader text of the poem (6,349 with page navigation).",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890, the poem is of 1865, and the Longmans edition of 1910 (Egan's 1903 introduction and notes) is a US-public-domain edition. Proofread Project Gutenberg text, with no claim of copyright on the poem."
+    }
+  ],
+  "toc": [
+    {
+      "id": "part-1",
+      "title": {
+        "en-US": "Part I"
+      }
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "Part II"
+      }
+    },
+    {
+      "id": "part-3",
+      "title": {
+        "en-US": "Part III"
+      }
+    },
+    {
+      "id": "part-4",
+      "title": {
+        "en-US": "Part IV"
+      }
+    },
+    {
+      "id": "part-5",
+      "title": {
+        "en-US": "Part V"
+      }
+    },
+    {
+      "id": "part-6",
+      "title": {
+        "en-US": "Part VI"
+      }
+    },
+    {
+      "id": "part-7",
+      "title": {
+        "en-US": "Part VII"
+      }
+    }
+  ]
+}
