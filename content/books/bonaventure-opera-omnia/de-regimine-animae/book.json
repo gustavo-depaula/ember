@@ -1,0 +1,48 @@
+{
+  "id": "bonaventure-de-regimine-animae",
+  "cover": "classic",
+  "name": {
+    "la": "De regimine animae",
+    "en-US": "The Government of the Soul",
+    "pt-BR": "O governo da alma"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Brevis tractatus de regimine animae, ad quendam religiosum. Textus ex editione Quaracchi (Decem opuscula, 1900), ex scanno OCR, sine notis criticis.",
+    "en-US": "A short rule for the soul’s conduct, in the form of counsels on thinking rightly of God, oneself and one’s neighbour. The Latin is the Quaracchi text of the Decem opuscula (1900), from an OCR scan, without the editors’ critical notes.",
+    "pt-BR": "Breve regra para a conduta da alma, em forma de conselhos sobre o modo de pensar bem de Deus, de si e do próximo."
+  },
+  "composed": "c. 1260",
+  "languages": [
+    "la"
+  ],
+  "work": "bonaventure/de-regimine-animae",
+  "editions": {
+    "la": {
+      "editor": "PP. Collegii S. Bonaventurae (Quaracchi)",
+      "year": 1900
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/decemopusculaadt00bona",
+      "edition": "S. Bonaventurae Decem opuscula ad theologiam mysticam spectantia, ed. 2 (Ad Claras Aquas, Quaracchi: Collegium S. Bonaventurae, 1900).",
+      "description": "Archive.org OCR of the octavo edition. Page heads, the editors’ footnotes (variant readings and cross-references) and note markers are removed; line-end hyphens are joined; recognisable OCR slips are corrected by comparison with the other Quaracchi scans, so some remain.",
+      "tier": "A",
+      "tierEvidence": "Bonaventure died in 1274; the Quaracchi edition of 1900 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "textus",
+      "title": {
+        "la": "De regimine animae"
+      }
+    }
+  ]
+}
