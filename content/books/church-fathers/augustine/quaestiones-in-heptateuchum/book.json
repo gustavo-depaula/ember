@@ -1,0 +1,135 @@
+{
+  "id": "augustine-quaestiones-in-heptateuchum",
+  "cover": "quarter",
+  "name": {
+    "la": "Quaestionum in Heptateuchum libri septem",
+    "en-US": "Questions on the Heptateuch",
+    "pt-BR": "Questões sobre o Heptateuco"
+  },
+  "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
+  },
+  "description": {
+    "la": "Quaestionum in Heptateuchum libri septem. Textus Latinus secundum editionem Maurinorum.",
+    "en-US": "Questions on the Heptateuch (419), by St. Augustine of Hippo. Latin text of the Maurist edition; no public-domain English translation has been imported yet.",
+    "pt-BR": "Questões sobre o Heptateuco (419), de Santo Agostinho de Hipona. Texto latino da edição dos Maurinos."
+  },
+  "composed": "419",
+  "languages": [
+    "la"
+  ],
+  "work": "augustine/quaestiones-in-heptateuchum",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/questioni_ettateuco/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages questioni_ettateuco of augustinus.it, one page per book, long pages split at chapter boundaries. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Liber I (Genesis), Quaestiones 1–70"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I (Genesis), Quaestiones 71–136"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Liber I (Genesis), Quaestiones 137–173"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Liber II (Exodus), Quaestiones 1–55"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Liber II (Exodus), Quaestiones 56–104"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Liber II (Exodus), Quaestiones 105–160"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "la": "Liber II (Exodus), Quaestiones 161–177"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "la": "Liber III (Leviticus), Quaestiones 1–33"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "la": "Liber III (Leviticus), Quaestiones 34–72"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "la": "Liber III (Leviticus), Quaestiones 73–94"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "la": "Liber IV (Numeri), Quaestiones 1–33"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "la": "Liber IV (Numeri), Quaestiones 34–65"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "la": "Liber V (Deuteronomium)"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "la": "Liber VI (Iesus Nave)"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "la": "Liber VII (Iudicum), Quaestiones 1–56"
+      }
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  }
+}
