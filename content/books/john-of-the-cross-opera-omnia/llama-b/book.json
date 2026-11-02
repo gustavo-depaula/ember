@@ -1,0 +1,77 @@
+{
+  "id": "john-of-the-cross-llama-b",
+  "name": {
+    "es-ES": "Llama de amor viva (segunda redacción)",
+    "en-US": "The Living Flame of Love (second redaction)",
+    "pt-BR": "Chama viva de amor (segunda redação)"
+  },
+  "author": {
+    "es-ES": "San Juan de la Cruz",
+    "en-US": "St. John of the Cross",
+    "pt-BR": "São João da Cruz"
+  },
+  "description": {
+    "es-ES": "Declaración de las canciones de la Llama de amor viva, escrita para doña Ana de Peñalosa (1585–1586), sobre la unión transformante del alma en Dios; segunda redacción, retocada y ampliada por el Santo. Texto crítico del P. Silverio de Santa Teresa, con sus notas.",
+    "en-US": "St. John of the Cross's commentary on his poem of the Living Flame of Love, written for Doña Ana de Peñalosa (1585–1586), on the transforming union of the soul in God; the second redaction, revised and enlarged by the saint. Spanish critical text of P. Silverio de Santa Teresa with his notes.",
+    "pt-BR": "Comentário de São João da Cruz ao seu poema da Chama viva de amor, escrito para Dona Ana de Peñalosa (1585–1586), sobre a união transformante da alma em Deus; segunda redação, revista e ampliada pelo Santo."
+  },
+  "composed": "1585–1586",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "john-of-the-cross/llama-b",
+  "editions": {
+    "es-ES": {
+      "editor": "P. Silverio de Santa Teresa",
+      "year": 1931
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrasdesanjuande04john",
+      "edition": "Obras de San Juan de la Cruz, Doctor de la Iglesia, ed. P. Silverio de Santa Teresa, C.D., t. IV (Biblioteca Mística Carmelitana), Burgos: El Monte Carmelo, 1931, second redaction, from p. 103. Princeton Theological Seminary scan.",
+      "description": "Spanish critical text with Silverio's notes (manuscript variants, scripture references) kept as footnotes. OCR of the scan; page furniture removed; footnotes matched to their references page by page; OCR errors corrected by consulting P. Eulogio Pacho's modern text (Editorial Monte Carmelo, via Documenta Catholica Omnia), which was used only to find errors and never copied. Chapter summaries are taken from Silverio's own table of contents.",
+      "tier": "A",
+      "tierEvidence": "San Juan de la Cruz died in 1591. Silverio's edition was published in 1931 (before 1931: public domain in the US) and P. Silverio de Santa Teresa died in 1954, so his text and notes are public domain under life+70 since 1 January 2025. Caveat: Spain applies life+80 to authors who died before 1987, so in Spain alone his notes stay protected until 2035."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologo",
+      "title": {
+        "es-ES": "Prólogo"
+      }
+    },
+    {
+      "id": "canciones",
+      "title": {
+        "es-ES": "Canciones del alma"
+      }
+    },
+    {
+      "id": "c1",
+      "title": {
+        "es-ES": "Canción I"
+      }
+    },
+    {
+      "id": "c2",
+      "title": {
+        "es-ES": "Canción II"
+      }
+    },
+    {
+      "id": "c3",
+      "title": {
+        "es-ES": "Canción III"
+      }
+    },
+    {
+      "id": "c4",
+      "title": {
+        "es-ES": "Canción IV"
+      }
+    }
+  ]
+}
