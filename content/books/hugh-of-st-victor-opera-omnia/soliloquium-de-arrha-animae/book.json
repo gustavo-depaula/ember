@@ -1,0 +1,66 @@
+{
+  "id": "hugh-soliloquium-de-arrha-animae",
+  "cover": "classic",
+  "name": {
+    "la": "Soliloquium de arrha animae",
+    "en-US": "Soliloquy on the Earnest Money of the Soul",
+    "pt-BR": "Solilóquio sobre o penhor da alma"
+  },
+  "author": {
+    "la": "Hugo de Sancto Victore",
+    "en-US": "Hugh of St. Victor",
+    "pt-BR": "Hugo de São Vítor"
+  },
+  "description": {
+    "la": "Soliloquium de arrha animae: colloquium hominis cum anima de arrha sponsi, quae est gratia visibilis.",
+    "en-US": "Hugh’s dialogue of a man with his soul about the earnest money (arrha) of the Bridegroom: the visible gifts of grace that foretell the eternal wedding, one of the most tender pieces of twelfth-century spirituality. Latin only, from the Migne text (Patrologia Latina 176, 1854), a machine-corrected OCR.",
+    "pt-BR": "O diálogo de Hugo entre o homem e a sua alma sobre o penhor (arrha) do Esposo: os dons visíveis da graça que anunciam as núpcias eternas."
+  },
+  "composed": "c. 1130",
+  "languages": [
+    "la"
+  ],
+  "work": "hugh/soliloquium-de-arrha-animae",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 176)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.SoDeArA",
+      "edition": "Migne, Patrologia Latina 176 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.SoDeArA, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Prologus."
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Soliloquium de arrha animae. Interlocutores sunt homo et anima. (pars 1)"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Soliloquium de arrha animae. Interlocutores sunt homo et anima. (pars 2)"
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "Confessio."
+      }
+    }
+  ]
+}
