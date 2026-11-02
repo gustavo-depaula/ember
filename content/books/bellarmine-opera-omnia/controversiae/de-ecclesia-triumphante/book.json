@@ -1,0 +1,517 @@
+{
+  "id": "bellarmine-controversiae-de-ecclesia-triumphante",
+  "cover": "classic",
+  "name": {
+    "la": "De ecclesia triumphante",
+    "en-US": "On the Church Triumphant",
+    "pt-BR": "Sobre a Igreja triunfante"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Ex Disputationibus de controversiis christianae fidei adversus huius temporis haereticos (1586-93): De ecclesia triumphante. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "From the Disputations on the Controversies of the Christian Faith (1586-93): the Church triumphant: the beatitude and canonization of saints, relics and images, the means by which the Church is shown holy. Latin only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "Das Disputas sobre as controvérsias da fé cristã (1586-93): Sobre a Igreja triunfante."
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/controversiae-de-ecclesia-triumphante",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia03bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 3 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "b1",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "b1c01",
+          "title": {
+            "la": "Caput I. Argumenta haereticorum, quibus illi probare nituntur, Sanctos nondum esse beatos etc",
+            "en-US": "Caput I. Argumenta haereticorum, quibus illi probare nituntur, Sanctos nondum esse beatos etc"
+          }
+        },
+        {
+          "id": "b1c02",
+          "title": {
+            "la": "Caput II. Animas Sanctorum jam nunc frui Dei visione, demonstratur testimonio Ecclesire",
+            "en-US": "Caput II. Animas Sanctorum jam nunc frui Dei visione, demonstratur testimonio Ecclesire"
+          }
+        },
+        {
+          "id": "b1c03",
+          "title": {
+            "la": "Caput III. Idem Scripturarum testimoniis demonstratur",
+            "en-US": "Caput III. Idem Scripturarum testimoniis demonstratur"
+          }
+        },
+        {
+          "id": "b1c04",
+          "title": {
+            "la": "Caput IV. CAPUT IV",
+            "en-US": "Caput IV. CAPUT IV"
+          }
+        },
+        {
+          "id": "b1c05",
+          "title": {
+            "la": "Caput V. Idem probatur testimoniis Latinorum",
+            "en-US": "Caput V. Idem probatur testimoniis Latinorum"
+          }
+        },
+        {
+          "id": "b1c06",
+          "title": {
+            "la": "Caput VI. Idem confirmatur rationibus, quce tamen in Scripturis fundamentum habeant",
+            "en-US": "Caput VI. Idem confirmatur rationibus, quce tamen in Scripturis fundamentum habeant"
+          }
+        },
+        {
+          "id": "b1c07",
+          "title": {
+            "la": "Caput VII. Sanctos recte ab Ecclesia canonizari",
+            "en-US": "Caput VII. Sanctos recte ab Ecclesia canonizari"
+          }
+        },
+        {
+          "id": "b1c08",
+          "title": {
+            "la": "Caput VIII. Cujus sit Sanctos canonizare",
+            "en-US": "Caput VIII. Cujus sit Sanctos canonizare"
+          }
+        },
+        {
+          "id": "b1c09",
+          "title": {
+            "la": "Caput IX. Credendum esse, Pontificem non errare in Sanctorum canonizalione",
+            "en-US": "Caput IX. Credendum esse, Pontificem non errare in Sanctorum canonizalione"
+          }
+        },
+        {
+          "id": "b1c10",
+          "title": {
+            "la": "Caput X",
+            "en-US": "Caput X"
+          }
+        },
+        {
+          "id": "b1c11",
+          "title": {
+            "la": "Caput XI. Proponitur quaestio de cultu Sanctorum cum argumentis adversariorum",
+            "en-US": "Caput XI. Proponitur quaestio de cultu Sanctorum cum argumentis adversariorum"
+          }
+        },
+        {
+          "id": "b1c12",
+          "title": {
+            "la": "Caput XII",
+            "en-US": "Caput XII"
+          }
+        },
+        {
+          "id": "b1c13",
+          "title": {
+            "la": "Caput XIII",
+            "en-US": "Caput XIII"
+          }
+        },
+        {
+          "id": "b1c14",
+          "title": {
+            "la": "Caput XIV. Solvuntur argumenta initio proposita",
+            "en-US": "Caput XIV. Solvuntur argumenta initio proposita"
+          }
+        },
+        {
+          "id": "b1c15",
+          "title": {
+            "la": "Caput XV. Proponitur controversia de invocatione Sanctorum",
+            "en-US": "Caput XV. Proponitur controversia de invocatione Sanctorum"
+          }
+        },
+        {
+          "id": "b1c17",
+          "title": {
+            "la": "Caput XVII. Quomodo Sancti invocandi non sint",
+            "en-US": "Caput XVII. Quomodo Sancti invocandi non sint"
+          }
+        },
+        {
+          "id": "b1c18",
+          "title": {
+            "la": "Caput XVIII",
+            "en-US": "Caput XVIII"
+          }
+        },
+        {
+          "id": "b1c19",
+          "title": {
+            "la": "Caput XIX. Sanctos esse invocandos",
+            "en-US": "Caput XIX. Sanctos esse invocandos"
+          }
+        },
+        {
+          "id": "b1c20",
+          "title": {
+            "la": "Caput XX. Solvuntur argumenta adversariorum",
+            "en-US": "Caput XX. Solvuntur argumenta adversariorum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "b2c01",
+          "title": {
+            "la": "Caput I. Proponuntur argumenta contra cultum reliquiarum",
+            "en-US": "Caput I. Proponuntur argumenta contra cultum reliquiarum"
+          }
+        },
+        {
+          "id": "b2c02",
+          "title": {
+            "la": "Caput II. Deteguntur mendacia Centuriatorum",
+            "en-US": "Caput II. Deteguntur mendacia Centuriatorum"
+          }
+        },
+        {
+          "id": "b2c03",
+          "title": {
+            "la": "Caput III. Assetitur veritas, et probatur",
+            "en-US": "Caput III. Assetitur veritas, et probatur"
+          }
+        },
+        {
+          "id": "b2c04",
+          "title": {
+            "la": "Caput IV. Solvuntur argumenta adversariorum",
+            "en-US": "Caput IV. Solvuntur argumenta adversariorum"
+          }
+        },
+        {
+          "id": "b2c05",
+          "title": {
+            "la": "Caput V. De nomine Imaginis et Idoli",
+            "en-US": "Caput V. De nomine Imaginis et Idoli"
+          }
+        },
+        {
+          "id": "b2c06",
+          "title": {
+            "la": "Caput VI. De principibus Iconomachorum",
+            "en-US": "Caput VI. De principibus Iconomachorum"
+          }
+        },
+        {
+          "id": "b2c07",
+          "title": {
+            "la": "Caput VII. Licere imagines et facere, et habere",
+            "en-US": "Caput VII. Licere imagines et facere, et habere"
+          }
+        },
+        {
+          "id": "b2c08",
+          "title": {
+            "la": "Caput VIII. Non esse prohibitas imagines Dei",
+            "en-US": "Caput VIII. Non esse prohibitas imagines Dei"
+          }
+        },
+        {
+          "id": "b2c10",
+          "title": {
+            "la": "Caput X. Imagines utiles esse etiam extra historiam",
+            "en-US": "Caput X. Imagines utiles esse etiam extra historiam"
+          }
+        },
+        {
+          "id": "b2c11",
+          "title": {
+            "la": "Caput XI. Proponitur queestio de cultu imaginum, cum argumentis adversariorum",
+            "en-US": "Caput XI. Proponitur queestio de cultu imaginum, cum argumentis adversariorum"
+          }
+        },
+        {
+          "id": "b2c12",
+          "title": {
+            "la": "Caput XII. Imagines Christi et Sanctorum recte coli",
+            "en-US": "Caput XII. Imagines Christi et Sanctorum recte coli"
+          }
+        },
+        {
+          "id": "b2c13",
+          "title": {
+            "la": "Caput XIII. Solvuntur argumenta adve?'sariorum",
+            "en-US": "Caput XIII. Solvuntur argumenta adve?'sariorum"
+          }
+        },
+        {
+          "id": "b2c15",
+          "title": {
+            "la": "Caput XV. Solvitur argumentum tertium",
+            "en-US": "Caput XV. Solvitur argumentum tertium"
+          }
+        },
+        {
+          "id": "b2c16",
+          "title": {
+            "la": "Caput XVI. Solvitur argumentum quartum",
+            "en-US": "Caput XVI. Solvitur argumentum quartum"
+          }
+        },
+        {
+          "id": "b2c17",
+          "title": {
+            "la": "Caput XVII. Solvitui' argumentum quintum",
+            "en-US": "Caput XVII. Solvitui' argumentum quintum"
+          }
+        },
+        {
+          "id": "b2c18",
+          "title": {
+            "la": "Caput XVIII. Solvitur argumentum Sextum",
+            "en-US": "Caput XVIII. Solvitur argumentum Sextum"
+          }
+        },
+        {
+          "id": "b2c19",
+          "title": {
+            "la": "Caput XIX. Solvitur argumentum septimum",
+            "en-US": "Caput XIX. Solvitur argumentum septimum"
+          }
+        },
+        {
+          "id": "b2c20",
+          "title": {
+            "la": "Caput XX. Proponitur quaestio: Quo genere cultus imagines sint honoranda!",
+            "en-US": "Caput XX. Proponitur quaestio: Quo genere cultus imagines sint honoranda!"
+          }
+        },
+        {
+          "id": "b2c21",
+          "title": {
+            "la": "Caput XXI. Imagines per se et proprie colendas",
+            "en-US": "Caput XXI. Imagines per se et proprie colendas"
+          }
+        },
+        {
+          "id": "b2c22",
+          "title": {
+            "la": "Caput XXII. Non esse dicendum, imaginibus deberi cultum latriae",
+            "en-US": "Caput XXII. Non esse dicendum, imaginibus deberi cultum latriae"
+          }
+        },
+        {
+          "id": "b2c23",
+          "title": {
+            "la": "Caput XXIII. Imagines Christi improprie, vel per accidens posse honorari cultu latriae",
+            "en-US": "Caput XXIII. Imagines Christi improprie, vel per accidens posse honorari cultu latriae"
+          }
+        },
+        {
+          "id": "b2c24",
+          "title": {
+            "la": "Caput XXIV. Imagines per se, et proprie non esse colendas eo cultu, quo exemplar ipsum colitur",
+            "en-US": "Caput XXIV. Imagines per se, et proprie non esse colendas eo cultu, quo exemplar ipsum colitur"
+          }
+        },
+        {
+          "id": "b2c25",
+          "title": {
+            "la": "Caput XXV. Quo genere cultus adorentur imagines",
+            "en-US": "Caput XXV. Quo genere cultus adorentur imagines"
+          }
+        },
+        {
+          "id": "b2c26",
+          "title": {
+            "la": "Caput XXVI. De adoratione Crucis",
+            "en-US": "Caput XXVI. De adoratione Crucis"
+          }
+        },
+        {
+          "id": "b2c27",
+          "title": {
+            "la": "Caput XXVII. De Cruce vera Domini",
+            "en-US": "Caput XXVII. De Cruce vera Domini"
+          }
+        },
+        {
+          "id": "b2c28",
+          "title": {
+            "la": "Caput XXVIII. De imagine Crucis",
+            "en-US": "Caput XXVIII. De imagine Crucis"
+          }
+        },
+        {
+          "id": "b2c29",
+          "title": {
+            "la": "Caput XXIX. De signo Crucis",
+            "en-US": "Caput XXIX. De signo Crucis"
+          }
+        },
+        {
+          "id": "b2c30",
+          "title": {
+            "la": "Caput XXX. Solvuntur objectiones haereticorum",
+            "en-US": "Caput XXX. Solvuntur objectiones haereticorum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III"
+      },
+      "children": [
+        {
+          "id": "b3intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b3c01",
+          "title": {
+            "la": "Caput I. De erroribus circa templa",
+            "en-US": "Caput I. De erroribus circa templa"
+          }
+        },
+        {
+          "id": "b3c02",
+          "title": {
+            "la": "Caput II. An templa, sint erigenda",
+            "en-US": "Caput II. An templa, sint erigenda"
+          }
+        },
+        {
+          "id": "b3c03",
+          "title": {
+            "la": "Caput III. De fonna",
+            "en-US": "Caput III. De fonna"
+          }
+        },
+        {
+          "id": "b3c04",
+          "title": {
+            "la": "Caput IV. De fine",
+            "en-US": "Caput IV. De fine"
+          }
+        },
+        {
+          "id": "b3c06",
+          "title": {
+            "la": "Caput VI",
+            "en-US": "Caput VI"
+          }
+        },
+        {
+          "id": "b3c07",
+          "title": {
+            "la": "Caput VII. De benedictionibus aquee, salis, cinerum, cerei etc. i",
+            "en-US": "Caput VII. De benedictionibus aquee, salis, cinerum, cerei etc. i"
+          }
+        },
+        {
+          "id": "b3c08",
+          "title": {
+            "la": "Caput VIII. De Peregrinationibus",
+            "en-US": "Caput VIII. De Peregrinationibus"
+          }
+        },
+        {
+          "id": "b3c09",
+          "title": {
+            "la": "Caput IX. De votis quce nuncupantur Sanctis",
+            "en-US": "Caput IX. De votis quce nuncupantur Sanctis"
+          }
+        },
+        {
+          "id": "b3c10",
+          "title": {
+            "la": "Caput X. An sint festi dies a Christianis celebrandi",
+            "en-US": "Caput X. An sint festi dies a Christianis celebrandi"
+          }
+        },
+        {
+          "id": "b3c11",
+          "title": {
+            "la": "Caput XI. De Dominica die",
+            "en-US": "Caput XI. De Dominica die"
+          }
+        },
+        {
+          "id": "b3c12",
+          "title": {
+            "la": "Caput XII. De Pascha",
+            "en-US": "Caput XII. De Pascha"
+          }
+        },
+        {
+          "id": "b3c13",
+          "title": {
+            "la": "Caput XIII. De Pentecoste",
+            "en-US": "Caput XIII. De Pentecoste"
+          }
+        },
+        {
+          "id": "b3c14",
+          "title": {
+            "la": "Caput XIV. De Septuagesima et sequentibus Dominicis",
+            "en-US": "Caput XIV. De Septuagesima et sequentibus Dominicis"
+          }
+        },
+        {
+          "id": "b3c15",
+          "title": {
+            "la": "Caput XV. De reliquis festis Domini",
+            "en-US": "Caput XV. De reliquis festis Domini"
+          }
+        },
+        {
+          "id": "b3c16",
+          "title": {
+            "la": "Caput XVI. De festis Sanctorum",
+            "en-US": "Caput XVI. De festis Sanctorum"
+          }
+        },
+        {
+          "id": "b3c17",
+          "title": {
+            "la": "Caput XVII. De Vigiliis",
+            "en-US": "Caput XVII. De Vigiliis"
+          }
+        }
+      ]
+    }
+  ]
+}
