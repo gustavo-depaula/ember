@@ -1,0 +1,94 @@
+{
+  "id": "bernard-vita-sancti-malachiae-lawlor",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Life of St. Malachy of Armagh",
+    "pt-BR": "Vida de São Malaquias de Armagh"
+  },
+  "author": {
+    "la": "Bernardus Claraevallensis",
+    "en-US": "St. Bernard of Clairvaux",
+    "pt-BR": "São Bernardo de Claraval"
+  },
+  "description": {
+    "en-US": "H. J. Lawlor’s English translation (SPCK, 1920) of Bernard’s Life of his friend Malachy, archbishop of Armagh, who died at Clairvaux in 1148: the preface (Bernard’s prologue to Abbot Congan) and the eight chapters, with Lawlor’s footnotes. Lawlor’s own chapter division follows the modern critical text and differs from the finer Maurist capitula of the Latin book, so the Latin is a separate book of the same work.",
+    "pt-BR": "A tradução inglesa de H. J. Lawlor (SPCK, 1920) da vida de Malaquias, arcebispo de Armagh, escrita por Bernardo: o prefácio e os oito capítulos, com as notas de Lawlor."
+  },
+  "composed": "1148-1151",
+  "languages": [
+    "en-US"
+  ],
+  "work": "bernard/vita-sancti-malachiae",
+  "editions": {
+    "en-US": {
+      "translator": "H. J. Lawlor",
+      "year": 1920
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/25761",
+      "edition": "St. Bernard of Clairvaux’s Life of St. Malachy of Armagh, translated into English with introduction and notes by H. J. Lawlor (London: SPCK, 1920); Project Gutenberg e-text 25761.",
+      "description": "Bernard’s Life only: the preface and chapters I-VIII with the footnotes after each; Bernard’s section numbers are dropped. Lawlor’s long introduction, the translation of Bernard’s letters and sermons on Malachy and the appendices are not imported; the marginal dates are dropped.",
+      "tier": "A",
+      "tierEvidence": "Published in London in 1920, before 1931: public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "en-US": "Chapter I. The early life of Malachy. Having been admitted to Holy Orders he associates with Malchus"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "en-US": "Chapter II. Malachy's pity for his deceased sister. He restores the Monastery of Bangor. His first Miracles"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "en-US": "Chapter III. St. Malachy becomes Bishop of Connor; he builds the Monastery of Iveragh"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "en-US": "Chapter IV. Being made Archbishop of Armagh, he suffers many troubles. Peace being made, from being Archbishop of Armagh he becomes Bishop of Down"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "en-US": "Chapter V. The Roman Pilgrimage: the Miracles which were wrought in it"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "en-US": "Chapter VI. St. Malachy's Apostolic Labours, Praises and Miracles"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "en-US": "Chapter VII. He does battle for the faith; he restores peace among those who were at variance; he takes in hand to build a stone church"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "en-US": "Chapter VIII. Departure from Ireland. Death and Burial at Clairvaux"
+      }
+    }
+  ]
+}
