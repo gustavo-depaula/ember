@@ -1,0 +1,204 @@
+{
+  "id": "hugh-de-tribus-diebus",
+  "cover": "classic",
+  "name": {
+    "la": "De tribus diebus",
+    "en-US": "On the Three Days",
+    "pt-BR": "Sobre os três dias"
+  },
+  "author": {
+    "la": "Hugo de Sancto Victore",
+    "en-US": "Hugh of St. Victor",
+    "pt-BR": "Hugo de São Vítor"
+  },
+  "description": {
+    "la": "De tribus diebus, quem Migne librum septimum Didascalici nominat: visibilia mundi opera tribus attributis divinae Trinitatis (potentia, sapientia, benignitas) illustrantur.",
+    "en-US": "The treatise that Migne prints as the seventh book of the Didascalicon: the visible world as a book written by the finger of God, read as a mirror of the Trinity’s power, wisdom and goodness. Latin only, from the Migne text (Patrologia Latina 176, 1854), a machine-corrected OCR.",
+    "pt-BR": "O tratado que Migne imprime como sétimo livro do Didascálicon: o mundo visível como livro escrito pelo dedo de Deus, lido como espelho do poder, da sabedoria e da bondade da Trindade."
+  },
+  "composed": "c. 1130",
+  "languages": [
+    "la"
+  ],
+  "work": "hugh/de-tribus-diebus",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 176)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.EruDid",
+      "edition": "Migne, Patrologia Latina 176 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.EruDid, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Caput I. De tribus invisibilibus Dei, a quibus emanant omnia, quae sunt potentia, sapientia, benignitas."
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Caput II. De immensitate divinae potentiae quam perspicimus ex creaturarum multitudine."
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Caput III. De creaturarum magnitudine."
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "Caput IV. De earumdem pulchritudine in quatuor."
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "la": "Caput V. De situ et dispositione rerum in loco."
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "la": "Caput VI. De dispositione temporum."
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "la": "Caput VII. De ordine qui in unaquaque re consideratur ex dispositione partium."
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "la": "Caput VIII. De omnifario rerum motu."
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "la": "Caput IX. De specie figurisque rerum."
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "la": "Caput X. De iis quae, quia rara sunt, miranda sunt."
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "la": "Caput XI. De iis quae, quia pulchra sunt, mirabilia."
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "la": "Caput XII. De rerum variis coloribus."
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "la": "Caput XIII. De sensibilibus rerum qualitatibus."
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "la": "Caput XIV. De utilitate rerum quadruplici."
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "la": "Caput XV. De tribus similibus et quanta sit divini opificii supra humanum excellentia."
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "la": "Caput XVI. Quod inter tria invisibilia Dei, sapientia sit prima investiganda."
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "la": "Caput XVII. Quomodo per rationalem creaturam ostenditur rerum Creator esse aeternus."
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "la": "Caput XVIII. Ex motu rerum quadruplici Creatoris quoque aeternitatem comprobari."
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "la": "Caput XIX. Quod rerum Creator unus est et immutabilis."
+      }
+    },
+    {
+      "id": "c020",
+      "title": {
+        "la": "Caput XX. Mutationem secundum quantitatem aut qualitatem Deo competere non posse."
+      }
+    },
+    {
+      "id": "c021",
+      "title": {
+        "la": "Caput XXI. Ex anima rationali divinam ostendi posse Trinitatem."
+      }
+    },
+    {
+      "id": "c022",
+      "title": {
+        "la": "Caput XXII. Quod in divinis Pater suam sapientiam propter eam ipsam diligit."
+      }
+    },
+    {
+      "id": "c023",
+      "title": {
+        "la": "Caput XXIII. In summa Trinitate mutuam esse dilectionem."
+      }
+    },
+    {
+      "id": "c024",
+      "title": {
+        "la": "Caput XXIV. Summi Patris ad homines ut Filium suum audiant exhortatio, et per eam antedictorum probatio."
+      }
+    },
+    {
+      "id": "c025",
+      "title": {
+        "la": "Caput XXV. Quod ordo conditionis et cognitionis rerum e diverso se habeant."
+      }
+    },
+    {
+      "id": "c026",
+      "title": {
+        "la": "Caput XXVI. De tribus diebus invisibilis lucis."
+      }
+    },
+    {
+      "id": "c027",
+      "title": {
+        "la": "Caput XXVII. Quod dicti dies mystici prius in genere humano completi sint, et in nobis compleri debeant, et quomodo."
+      }
+    }
+  ]
+}
