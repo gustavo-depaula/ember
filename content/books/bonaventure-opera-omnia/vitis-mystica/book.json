@@ -1,0 +1,180 @@
+{
+  "id": "bonaventure-vitis-mystica",
+  "cover": "classic",
+  "name": {
+    "la": "Vitis mystica seu tractatus de passione Domini",
+    "en-US": "The Mystical Vine",
+    "pt-BR": "A videira mística"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Tractatus de passione Domini sub figura vitis, in viginti quattuor capitibus: de proprietatibus vitis, foliis, floribus et fructu. Textus ex editione Quaracchi (Decem opuscula, 1900), ex scanno OCR, sine notis criticis.",
+    "en-US": "A treatise on the Lord’s Passion under the figure of the vine, in twenty-four chapters: its properties, leaves (the seven words on the cross), flowers and fruit. The Latin is the Quaracchi text of the Decem opuscula (1900), from an OCR scan, without the editors’ critical notes.",
+    "pt-BR": "Tratado sobre a Paixão do Senhor sob a figura da videira, em vinte e quatro capítulos: suas propriedades, folhas (as sete palavras na cruz), flores e fruto."
+  },
+  "composed": "c. 1260",
+  "languages": [
+    "la"
+  ],
+  "work": "bonaventure/vitis-mystica",
+  "editions": {
+    "la": {
+      "editor": "PP. Collegii S. Bonaventurae (Quaracchi)",
+      "year": 1900
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/decemopusculaadt00bona",
+      "edition": "S. Bonaventurae Decem opuscula ad theologiam mysticam spectantia, ed. 2 (Ad Claras Aquas, Quaracchi: Collegium S. Bonaventurae, 1900).",
+      "description": "Archive.org OCR of the octavo edition. Page heads, the editors’ footnotes (variant readings and cross-references) and note markers are removed; line-end hyphens are joined; recognisable OCR slips are corrected by comparison with the other Quaracchi scans, so some remain.",
+      "tier": "A",
+      "tierEvidence": "Bonaventure died in 1274; the Quaracchi edition of 1900 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologus",
+      "title": {
+        "la": "Prologus"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. De proprietatibus vitis,"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. De eircumfossione vitis"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. De lif/alura vitis"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. De similitiidine ipsius viiis et primo quoad eius corpus"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. De secunda similitudine sive de foliis vitis , et pynmo in generali"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. De foliis vitis in speciali et de primo verho Christi in cruce"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII. De secundo folio vitis sive verbo ChrisLi in cruce"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX. De tertio folio vitis sive verbo Christi in cruce"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput X. De quarto folio vitis sive uerbo Christi in cruce"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput XI. De quinto folio vitis sive verbo Christi in cruce"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Caput XIII. De septimo folio vitis sive verbo Clwisti in aruce"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "la": "Caput XIV. De tertia similitudine vitis quoad flores"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "la": "Caput XV. De flore rosae rubentis et ardentis in genere"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "la": "Caput XVI. De rosa caritatis,"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "la": "Caput XVII. De rosa passionis"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "la": "Caput XVIII. De prima effusione sanguinis Jesu Christi,"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "la": "Caput XIX. De secunda effusione sanguinis"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "la": "Caput XX. De tertia effusione sanguinis,"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "la": "Caput XXI. De quarta effusione sanguinis"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "la": "Caput XXII. De quinta effusione sanguinis"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "la": "Caput XXIII. De sexta et septima effusione sanguinis"
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "la": "Caput XXIV. Hortatio ad contemplandam passionem et caritatem Christi"
+      }
+    }
+  ]
+}
