@@ -1,0 +1,1318 @@
+{
+  "id": "anselm-epistolae-iii-iv",
+  "cover": "classic",
+  "name": {
+    "la": "Epistolae (libri III-IV)",
+    "en-US": "Letters (Books III-IV)",
+    "pt-BR": "Cartas (livros III-IV)"
+  },
+  "author": {
+    "la": "Anselmus Cantuariensis",
+    "en-US": "St. Anselm of Canterbury",
+    "pt-BR": "Santo Anselmo de Cantuária"
+  },
+  "description": {
+    "la": "Epistolae Anselmi archiepiscopi Cantuariensis, libri tertius et quartus, ex Patrologia Latina 159 (1853), secundum Gerberonem. Textus ex imagine paginarum per OCR prima vice descriptus, mendis plenus.",
+    "en-US": "The letters of Anselm as archbishop of Canterbury, Books III and IV of the Gerberon–Migne order (Patrologia Latina 159, 1853), the letters to and from kings, popes and bishops in the investiture dispute. Latin only, from a fresh OCR of the page scan: no clean transcription exists, so the text still carries many recognition errors, running heads and fragments of the printed apparatus. It is a draft to be corrected against the Migne scan; the first two books are the separate book Letters (Books I-II).",
+    "pt-BR": "As cartas de Anselmo como arcebispo de Cantuária, livros III e IV da ordem de Gerberon e Migne (PL 159): cartas a reis, papas e bispos na questão das investiduras. Texto em rascunho, obtido por OCR de uma digitalização, ainda com muitos erros de reconhecimento."
+  },
+  "composed": "1093-1109",
+  "languages": [
+    "la"
+  ],
+  "work": "anselm/epistolae",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 159)",
+      "year": 1853
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.documentacatholicaomnia.eu/02m/1033-1109,_Anselmus_Cantuariensis,_Epistolarum_Libri_Quatuor,_MLT.pdf",
+      "edition": "S. Anselmi Cantuariensis archiepiscopi opera omnia, ed. J.-P. Migne, Patrologia Latina 159 (Paris 1853), Epistolae, libri III-IV; page scan from Documenta Catholica Omnia, re-read with Tesseract 5 (Latin model, tessdata_best) at 200 dpi.",
+      "description": "Letters numbered in sequence within each book (the printed numerals are not always legible); addressee lines, running heads and the printed apparatus are only partly removed, and common recognition slips (ae read as z, and so on) are corrected against the vocabulary of the other imported Latin. Expect errors.",
+      "tier": "A",
+      "tierEvidence": "Anselm died in 1109; Migne’s 1853 printing is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "liber-3",
+      "title": {
+        "la": "Liber III. Epistolae Anselmi archiepiscopi Cantuariensis"
+      },
+      "children": [
+        {
+          "id": "l3-e001",
+          "title": {
+            "la": "Epistola I. Ad Monachos Bdccenses"
+          }
+        },
+        {
+          "id": "l3-e002",
+          "title": {
+            "la": "Epistola II. Osberai ad Anselmum"
+          }
+        },
+        {
+          "id": "l3-e003",
+          "title": {
+            "la": "Epistola III. Sondulti Episcopi ad Monachos Beccenses"
+          }
+        },
+        {
+          "id": "l3-e004",
+          "title": {
+            "la": "Epistola IV. Ad Monachos Dlccenses"
+          }
+        },
+        {
+          "id": "l3-e005",
+          "title": {
+            "la": "Epistola V. Monachorum Beccensium ad Ansdlmum"
+          }
+        },
+        {
+          "id": "l3-e006",
+          "title": {
+            "la": "Epistola VI. Ad Monachos Beccdases"
+          }
+        },
+        {
+          "id": "l3-e007",
+          "title": {
+            "la": "Epistola VII. Ad Monachos Beccenses"
+          }
+        },
+        {
+          "id": "l3-e008",
+          "title": {
+            "la": "Epistola VIII. Ad Fupconem Lpiscopum Belvacensem"
+          }
+        },
+        {
+          "id": "l3-e009",
+          "title": {
+            "la": "Epistola IX. Ad Goffridum Episcopum Parisiensdm"
+          }
+        },
+        {
+          "id": "l3-e010",
+          "title": {
+            "la": "Epistola X. Ad Waleramnnum -cantorem Parisidnsis"
+          }
+        },
+        {
+          "id": "l3-e011",
+          "title": {
+            "la": "Epistola XI. Ad Monachos Deccdnses"
+          }
+        },
+        {
+          "id": "l3-e012",
+          "title": {
+            "la": "Epistola XII. Ad Monachos Beccenses"
+          }
+        },
+        {
+          "id": "l3-e013",
+          "title": {
+            "la": "Epistola XIII. Ansclmi ad Monachos Beccenses"
+          }
+        },
+        {
+          "id": "l3-e014",
+          "title": {
+            "la": "Epistola XIV. Ansdlni ad Comitissam Idam"
+          }
+        },
+        {
+          "id": "l3-e015",
+          "title": {
+            "la": "Epistola XV. Ad Osbernum Exoniensem Episcopum"
+          }
+        },
+        {
+          "id": "l3-e016",
+          "title": {
+            "la": "Epistola XVI. Ad Willelmum Abbatem et ad Monachos"
+          }
+        },
+        {
+          "id": "l3-e017",
+          "title": {
+            "la": "Epistola XVII. Ad Rodultum Abdatem et Ejus Moacios"
+          }
+        },
+        {
+          "id": "l3-e018",
+          "title": {
+            "la": "Epistola XVIII. Ad Hugonem Lugdunensem Archicpiscopum"
+          }
+        },
+        {
+          "id": "l3-e019",
+          "title": {
+            "la": "Epistola XIX. Ad Bosonlm"
+          }
+        },
+        {
+          "id": "l3-e020",
+          "title": {
+            "la": "Epistola XX. Ad Willelmum Abbatlm et Fratres Beccenses"
+          }
+        },
+        {
+          "id": "l3-e021",
+          "title": {
+            "la": "Epistola XXI. Ad Baldhicum .priorlm"
+          }
+        },
+        {
+          "id": "l3-e022",
+          "title": {
+            "la": "Epistola XXII. Ad Nlnricum Priordm, Antomum Subpriorfm, En-"
+          }
+        },
+        {
+          "id": "l3-e023",
+          "title": {
+            "la": "Epistola XXIII. Ad Mathildam Abbatissam L3 Momalecs Winto-"
+          }
+        },
+        {
+          "id": "l3-e024",
+          "title": {
+            "la": "Epistola XXIV. Ad Lanfridum Abbatem Cocnoei S. Wlmari"
+          }
+        },
+        {
+          "id": "l3-e025",
+          "title": {
+            "la": "Epistola XXV. Ad Gervjnum Ambianensem Episcopum. -"
+          }
+        },
+        {
+          "id": "l3-e026",
+          "title": {
+            "la": "Epistola XXVI. Ad Lumdlm"
+          }
+        },
+        {
+          "id": "l3-e027",
+          "title": {
+            "la": "Epistola XXVII. r, AD URBANUM DPAPAM"
+          }
+        },
+        {
+          "id": "l3-e028",
+          "title": {
+            "la": "Epistola XXVIII. Ad Momachos Beccenses"
+          }
+        },
+        {
+          "id": "l3-e029",
+          "title": {
+            "la": "Epistola XXIX. Ad Paschaium Papa"
+          }
+        },
+        {
+          "id": "l3-e030",
+          "title": {
+            "la": "Epistola XXX. Eiusdem ad eumdem"
+          }
+        },
+        {
+          "id": "l3-e031",
+          "title": {
+            "la": "Epistola XXXI. Ad Paschalem Papam"
+          }
+        },
+        {
+          "id": "l3-e032",
+          "title": {
+            "la": "Epistola XXXII. Ansdlmi ad Monachos Cestrenses"
+          }
+        },
+        {
+          "id": "l3-e033",
+          "title": {
+            "la": "Epistola XXXIII. Anseimi ad Stephanum Archidiaconum"
+          }
+        },
+        {
+          "id": "l3-e034",
+          "title": {
+            "la": "Epistola XXXIV. Ad Gehardum Archilpiscopum Ldoracemsem"
+          }
+        },
+        {
+          "id": "l3-e035",
+          "title": {
+            "la": "Epistola XXXV. EILDEBERTi CENOMANLSIS EPISCOPI AD ANSELMTM"
+          }
+        },
+        {
+          "id": "l3-e036",
+          "title": {
+            "la": "Epistola XXXVI. Ad Monachos Albanecnses"
+          }
+        },
+        {
+          "id": "l3-e037",
+          "title": {
+            "la": "Epistola XXXVII. Ansclmi ad Ciementiam Comitissam"
+          }
+        },
+        {
+          "id": "l3-e038",
+          "title": {
+            "la": "Epistola XXXVIII. Ad Monachos S. Dadmumndi"
+          }
+        },
+        {
+          "id": "l3-e039",
+          "title": {
+            "la": "Epistola XXXIX. Ad Willelmum Archidiaconom"
+          }
+        },
+        {
+          "id": "l3-e040",
+          "title": {
+            "la": "Epistola XL. uJ"
+          }
+        },
+        {
+          "id": "l3-e041",
+          "title": {
+            "la": "Epistola XLI. Ad Bdrguadium Lt Ríchezam Uxold3"
+          }
+        },
+        {
+          "id": "l3-e042",
+          "title": {
+            "la": "Epistola XLII. Ad Richeram"
+          }
+        },
+        {
+          "id": "l3-e043",
+          "title": {
+            "la": "Epistola XLIII. Anseimi ad Paschalem H Papam"
+          }
+        },
+        {
+          "id": "l3-e044",
+          "title": {
+            "la": "Epistola XLIV. Ad Atiilliz Adbatissam Wintonlnsem"
+          }
+        },
+        {
+          "id": "l3-e045",
+          "title": {
+            "la": "Epistola XLV. Üratoiii villaque suburbana monachis Gantuariensi-"
+          }
+        },
+        {
+          "id": "l3-e046",
+          "title": {
+            "la": "Epistola XLVI. Ad Samullem Dubline Civitatis Episcopum"
+          }
+        },
+        {
+          "id": "l3-e047",
+          "title": {
+            "la": "Epistola XLVII. Ad Paschalem Papam"
+          }
+        },
+        {
+          "id": "l3-e048",
+          "title": {
+            "la": "Epistola XLVIII. Paschalis Papjs ad Anselmum"
+          }
+        },
+        {
+          "id": "l3-e049",
+          "title": {
+            "la": "Epistola XLIX. Ad Ernulfum Priorem et A3ionaciios"
+          }
+        },
+        {
+          "id": "l3-e050",
+          "title": {
+            "la": "Epistola L. Ansdlmí ad Eosdtim"
+          }
+        },
+        {
+          "id": "l3-e051",
+          "title": {
+            "la": "Epistola LI. ÁNSELMl AD HENRICUM REGEM ANGLORUM"
+          }
+        },
+        {
+          "id": "l3-e052",
+          "title": {
+            "la": "Epistola LII. Ad Ernultum Lt Monachos Cantuarienmsls"
+          }
+        },
+        {
+          "id": "l3-e053",
+          "title": {
+            "la": "Epistola LIII. Ad Matiildem Reginam"
+          }
+        },
+        {
+          "id": "l3-e054",
+          "title": {
+            "la": "Epistola LIV. Ad Eustachidm"
+          }
+        },
+        {
+          "id": "l3-e055",
+          "title": {
+            "la": "Epistola LV. Ad Matiiildam Adbatissam Cadomensem"
+          }
+        },
+        {
+          "id": "l3-e056",
+          "title": {
+            "la": "Epistola LVI. Ad Henricum Regem Anglorum"
+          }
+        },
+        {
+          "id": "l3-e057",
+          "title": {
+            "la": "Epistola LVII. Ad Gerontonev Adbatdm"
+          }
+        },
+        {
+          "id": "l3-e058",
+          "title": {
+            "la": "Epistola LVIII. Ad Henricum Regem Anglorum"
+          }
+        },
+        {
+          "id": "l3-e059",
+          "title": {
+            "la": "Epistola LIX. Ad Ernulfum"
+          }
+        },
+        {
+          "id": "l3-e060",
+          "title": {
+            "la": "Epistola LX. Ansei Mi ad Antonium Subpriorem"
+          }
+        },
+        {
+          "id": "l3-e061",
+          "title": {
+            "la": "Epistola LXI. Ad Gondui Fum"
+          }
+        },
+        {
+          "id": "l3-e062",
+          "title": {
+            "la": "Epistola LXII. Mathildis Reginje Anglorum ad Anselmum"
+          }
+        },
+        {
+          "id": "l3-e063",
+          "title": {
+            "la": "Epistola LXIII. Henrici Regis Anglorum ad Anselvum"
+          }
+        },
+        {
+          "id": "l3-e064",
+          "title": {
+            "la": "Epistola LXIV. Ad Hdmricum"
+          }
+        },
+        {
+          "id": "l3-e065",
+          "title": {
+            "la": "Epistola LXV. Matiildis Regini Anglorum ad Anselmum"
+          }
+        },
+        {
+          "id": "l3-e066",
+          "title": {
+            "la": "Epistola LXVI. Mathildis Riginjg Anglorum ad Paschallm Ji Papam"
+          }
+        },
+        {
+          "id": "l3-e067",
+          "title": {
+            "la": "Epistola LXVII. Ad Quosdam Monachos Apostatas"
+          }
+        },
+        {
+          "id": "l3-e068",
+          "title": {
+            "la": "Epistola LXVIII. Ad Raymaldum"
+          }
+        },
+        {
+          "id": "l3-e069",
+          "title": {
+            "la": "Epistola LXIX. Ad Guillelmuw Wintonilnsem Lpiscoplm"
+          }
+        },
+        {
+          "id": "l3-e070",
+          "title": {
+            "la": "Epistola LXX. Ad Mathildem Reginam Amnglordm"
+          }
+        },
+        {
+          "id": "l3-e071",
+          "title": {
+            "la": "Epistola LXXI. Anselme ad Tarmanaum, Orduvinum et Denmjamin"
+          }
+        },
+        {
+          "id": "l3-e072",
+          "title": {
+            "la": "Epistola LXXII. Ansei Mi 4d Henmricum Regem. Anglorum"
+          }
+        },
+        {
+          "id": "l3-e073",
+          "title": {
+            "la": "Epistola LXXIII. Ansdlmi ad Lrnulfum Priorem et Fratres"
+          }
+        },
+        {
+          "id": "l3-e074",
+          "title": {
+            "la": "Epistola LXXIV. Aiselmi ad Henricum Regem Anglorum"
+          }
+        },
+        {
+          "id": "l3-e075",
+          "title": {
+            "la": "Epistola LXXV. Anselmi Ad, Gundulfum Lpiscopum, Drnulfum"
+          }
+        },
+        {
+          "id": "l3-e076",
+          "title": {
+            "la": "Epistola LXXVI. Ad Guarnerium"
+          }
+        },
+        {
+          "id": "l3-e077",
+          "title": {
+            "la": "Epistola LXXVII. Ad G... Abbaten"
+          }
+        },
+        {
+          "id": "l3-e078",
+          "title": {
+            "la": "Epistola LXXVIII. Ad Odonem"
+          }
+        },
+        {
+          "id": "l3-e079",
+          "title": {
+            "la": "Epistola LXXIX. ANSELWMI AD ALILRUM PRiOREM LT MONACHOS -SAMCTI"
+          }
+        },
+        {
+          "id": "l3-e080",
+          "title": {
+            "la": "Epistola LXXX. Mathildis Reginol Anglorum ad Armselmum"
+          }
+        },
+        {
+          "id": "l3-e081",
+          "title": {
+            "la": "Epistola LXXXI. Ad Mathildem"
+          }
+        },
+        {
+          "id": "l3-e082",
+          "title": {
+            "la": "Epistola LXXXII. Rugonis Llgdunensis Archicpiscopi ad Anselmum"
+          }
+        },
+        {
+          "id": "l3-e083",
+          "title": {
+            "la": "Epistola LXXXIII. Ad Hugoncm Archiepiscopum Lugdumensim"
+          }
+        },
+        {
+          "id": "l3-e084",
+          "title": {
+            "la": "Epistola LXXXIV. ANSLLMI AD HLNMiCL4 ANGLORUM RDGÉM"
+          }
+        },
+        {
+          "id": "l3-e085",
+          "title": {
+            "la": "Epistola LXXXV. Anselwmi ad Mabiliam Sanctimomallm"
+          }
+        },
+        {
+          "id": "l3-e086",
+          "title": {
+            "la": "Epistola LXXXVI. PASCHALIS Il PAPA AD GLPRARDUM LBORACLNSEM EDi-"
+          }
+        },
+        {
+          "id": "l3-e087",
+          "title": {
+            "la": "Epistola LXXXVII. Anselme ab Valerannlm"
+          }
+        },
+        {
+          "id": "l3-e088",
+          "title": {
+            "la": "Epistola LXXXVIII. Anselvi ad Valeranaum"
+          }
+        },
+        {
+          "id": "l3-e089",
+          "title": {
+            "la": "Epistola LXXXIX. ANSELNI AD mASILIAM"
+          }
+        },
+        {
+          "id": "l3-e090",
+          "title": {
+            "la": "Epistola XC. Paschalis Pape ad Anselmum"
+          }
+        },
+        {
+          "id": "l3-e091",
+          "title": {
+            "la": "Epistola XCI. Anseemi ad Mucriardachum Regd Yibermg"
+          }
+        },
+        {
+          "id": "l3-e092",
+          "title": {
+            "la": "Epistola XCII. Ad Monachum Apostatam"
+          }
+        },
+        {
+          "id": "l3-e093",
+          "title": {
+            "la": "Epistola XCIII. Walteri ad Anxselmum"
+          }
+        },
+        {
+          "id": "l3-e094",
+          "title": {
+            "la": "Epistola XCIV. Ad Walterum"
+          }
+        },
+        {
+          "id": "l3-e095",
+          "title": {
+            "la": "Epistola XCV. Ad Odonem Monachum"
+          }
+        },
+        {
+          "id": "l3-e096",
+          "title": {
+            "la": "Epistola XCVI. Ad Gottridum"
+          }
+        },
+        {
+          "id": "l3-e097",
+          "title": {
+            "la": "Epistola XCVII. Ad Willelmum Abbatem Bdccensem"
+          }
+        },
+        {
+          "id": "l3-e098",
+          "title": {
+            "la": "Epistola XCVIII. Ad Willelmum Abbatem Lt Congregationem"
+          }
+        },
+        {
+          "id": "l3-e099",
+          "title": {
+            "la": "Epistola XCIX. De Nuptis Consanguineorum"
+          }
+        },
+        {
+          "id": "l3-e100",
+          "title": {
+            "la": "Epistola C. KkNSELWI AD WILLE MUM ABBATEM"
+          }
+        },
+        {
+          "id": "l3-e101",
+          "title": {
+            "la": "Epistola CI. Ejusdem ad Amselmum"
+          }
+        },
+        {
+          "id": "l3-e102",
+          "title": {
+            "la": "Epistola CII. Ejusdem ad Anselmuwm"
+          }
+        },
+        {
+          "id": "l3-e103",
+          "title": {
+            "la": "Epistola CIII. Il cc et sequentes epistole habentui infia. in His'oiia"
+          }
+        },
+        {
+          "id": "l3-e104",
+          "title": {
+            "la": "Epistola CIV. AssrtMo, Dei gratia Anglorum archiepiscopo"
+          }
+        },
+        {
+          "id": "l3-e105",
+          "title": {
+            "la": "Epistola CV. Hennicus rex Angl. Assrruo archiop., ctc"
+          }
+        },
+        {
+          "id": "l3-e106",
+          "title": {
+            "la": "Epistola CVI. Domino... ANsrLMo Cantuar... illius cevotissimus Non debeo elc"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-4",
+      "title": {
+        "la": "Liber IV. Epistolae Anselmi archiepiscopi Cantuariensis"
+      },
+      "children": [
+        {
+          "id": "l4-e001",
+          "title": {
+            "la": "Epistola I. Ad Paschalem Papam"
+          }
+        },
+        {
+          "id": "l4-e002",
+          "title": {
+            "la": "Epistola II. Vulstani Episcop Wigornieasis ad Anselmum 42"
+          }
+        },
+        {
+          "id": "l4-e003",
+          "title": {
+            "la": "Epistola III. Ad Paschalem Papam"
+          }
+        },
+        {
+          "id": "l4-e004",
+          "title": {
+            "la": "Epistola IV. Ad Henricum Rdgdm Anglorum"
+          }
+        },
+        {
+          "id": "l4-e005",
+          "title": {
+            "la": "Epistola V. Anselmi Àd Paschallm Papax"
+          }
+        },
+        {
+          "id": "l4-e006",
+          "title": {
+            "la": "Epistola VI. Anselmi Àd Guillelmum W Intonle Electum Epi"
+          }
+        },
+        {
+          "id": "l4-e007",
+          "title": {
+            "la": "Epistola VII. Ad Joanaem Priortwm"
+          }
+        },
+        {
+          "id": "l4-e008",
+          "title": {
+            "la": "Epistola VIII. Ansdlmi ad Balduinum Regem Hilrusalem"
+          }
+        },
+        {
+          "id": "l4-e009",
+          "title": {
+            "la": "Epistola IX. Ad Ambelitem Abbatissam Ejusqut Sancti-"
+          }
+        },
+        {
+          "id": "l4-e010",
+          "title": {
+            "la": "Epistola X. Ad Nhildecbertum Cenomanensem Episco-"
+          }
+        },
+        {
+          "id": "l4-e011",
+          "title": {
+            "la": "Epistola XI. Ad Mathildem Reginam Anglorum"
+          }
+        },
+        {
+          "id": "l4-e012",
+          "title": {
+            "la": "Epistola XII. Ad Robertum Comitem Flandrle"
+          }
+        },
+        {
+          "id": "l4-e013",
+          "title": {
+            "la": "Epistola XIII. Ad Gerardum Lboracdnsem Archiepiscopum"
+          }
+        },
+        {
+          "id": "l4-e014",
+          "title": {
+            "la": "Epistola XIV. Anselmi ad eumdem"
+          }
+        },
+        {
+          "id": "l4-e015",
+          "title": {
+            "la": "Epistola XV. Hugonis Abbatis Cluniacensis ad Anselmum"
+          }
+        },
+        {
+          "id": "l4-e016",
+          "title": {
+            "la": "Epistola XVI. Anselmt ad Tugonlm Lugdunensem Archiepiscopum 45"
+          }
+        },
+        {
+          "id": "l4-e017",
+          "title": {
+            "la": "Epistola XVII. Ad Diacun S. Jacobi Lfiscopum"
+          }
+        },
+        {
+          "id": "l4-e018",
+          "title": {
+            "la": "Epistola XVIII. Anmselmi ad Guillelmumn Rothomagensem"
+          }
+        },
+        {
+          "id": "l4-e019",
+          "title": {
+            "la": "Epistola XIX. Ad Elferum Lt Altos Monachos"
+          }
+        },
+        {
+          "id": "l4-e020",
+          "title": {
+            "la": "Epistola XX. Ad Robfrtum, Ernulfum, Radulucum, Philip"
+          }
+        },
+        {
+          "id": "l4-e021",
+          "title": {
+            "la": "Epistola XXI. Ad Robertum Northmannle Principdm"
+          }
+        },
+        {
+          "id": "l4-e022",
+          "title": {
+            "la": "Epistola XXII. r"
+          }
+        },
+        {
+          "id": "l4-e023",
+          "title": {
+            "la": "Epistola XXIII. Ad Rogerium-suum Amicum"
+          }
+        },
+        {
+          "id": "l4-e024",
+          "title": {
+            "la": "Epistola XXIV. Ad Malchum Watpzrtordiensem Episcopum"
+          }
+        },
+        {
+          "id": "l4-e025",
+          "title": {
+            "la": "Epistola XXV. Ad Guillelmum Rothomagensem Antai-"
+          }
+        },
+        {
+          "id": "l4-e026",
+          "title": {
+            "la": "Epistola XXVI. Ad Gonddltum Episcopum"
+          }
+        },
+        {
+          "id": "l4-e027",
+          "title": {
+            "la": "Epistola XXVII. Ad Matiildem Reginam"
+          }
+        },
+        {
+          "id": "l4-e028",
+          "title": {
+            "la": "Epistola XXVIII. Ad Anselmum Nepotem"
+          }
+        },
+        {
+          "id": "l4-e029",
+          "title": {
+            "la": "Epistola XXIX. Ad Goxdultum Rofensem Episcopum"
+          }
+        },
+        {
+          "id": "l4-e030",
+          "title": {
+            "la": "Epistola XXX. Ad Lumden"
+          }
+        },
+        {
+          "id": "l4-e031",
+          "title": {
+            "la": "Epistola XXXI. Ansdlmi ad eumdem"
+          }
+        },
+        {
+          "id": "l4-e032",
+          "title": {
+            "la": "Epistola XXXII. Ad Balduincm Regem Ihdrosolymitanum"
+          }
+        },
+        {
+          "id": "l4-e033",
+          "title": {
+            "la": "Epistola XXXIII. Ad Matiiilden Covitissam"
+          }
+        },
+        {
+          "id": "l4-e034",
+          "title": {
+            "la": "Epistola XXXIV. Paschalis Pap 1 ad Gerardum Eboracensem"
+          }
+        },
+        {
+          "id": "l4-e035",
+          "title": {
+            "la": "Epistola XXXV. Sirardi ad Amselnum"
+          }
+        },
+        {
+          "id": "l4-e036",
+          "title": {
+            "la": "Epistola XXXVI. Ad Ernultum Priorem"
+          }
+        },
+        {
+          "id": "l4-e037",
+          "title": {
+            "la": "Epistola XXXVII. Ansllvi ad eumdem"
+          }
+        },
+        {
+          "id": "l4-e038",
+          "title": {
+            "la": "Epistola XXXVIII. Ad Theodoricum"
+          }
+        },
+        {
+          "id": "l4-e039",
+          "title": {
+            "la": "Epistola XXXIX. Ad Mathildem Rdginam Anglorum"
+          }
+        },
+        {
+          "id": "l4-e040",
+          "title": {
+            "la": "Epistola XL. Ad Adruinum harissimum"
+          }
+        },
+        {
+          "id": "l4-e041",
+          "title": {
+            "la": "Epistola XLI. - Anmsllmi ad eumdem"
+          }
+        },
+        {
+          "id": "l4-e042",
+          "title": {
+            "la": "Epistola XLII. Ad Joarnem Tusculamensem Lt Joanneh"
+          }
+        },
+        {
+          "id": "l4-e043",
+          "title": {
+            "la": "Epistola XLIII. Ansdlmi ad Paschalem Papam"
+          }
+        },
+        {
+          "id": "l4-e044",
+          "title": {
+            "la": "Epistola XLIV. Philippus Rex Francorum ad Anselmum"
+          }
+        },
+        {
+          "id": "l4-e045",
+          "title": {
+            "la": "Epistola XLV. Ludoyicus Rdà Trancorum ad Ansdlmuw"
+          }
+        },
+        {
+          "id": "l4-e046",
+          "title": {
+            "la": "Epistola XLVI. Ad Nepotem suum"
+          }
+        },
+        {
+          "id": "l4-e047",
+          "title": {
+            "la": "Epistola XLVII. Ad G. Canonicum Sancti Quintini"
+          }
+        },
+        {
+          "id": "l4-e048",
+          "title": {
+            "la": "Epistola XLVIII. Ad Mathildem Ardginam Anglorum"
+          }
+        },
+        {
+          "id": "l4-e049",
+          "title": {
+            "la": "Epistola XLIX. Mathildis Marcise ad Paschaleum Ii Papam"
+          }
+        },
+        {
+          "id": "l4-e050",
+          "title": {
+            "la": "Epistola L. Ad Haimonlm Vicecomitem"
+          }
+        },
+        {
+          "id": "l4-e051",
+          "title": {
+            "la": "Epistola LI. Ad Guillelmum Calwellum"
+          }
+        },
+        {
+          "id": "l4-e052",
+          "title": {
+            "la": "Epistola LII. Anselwi ad Gundultum Episcopum"
+          }
+        },
+        {
+          "id": "l4-e053",
+          "title": {
+            "la": "Epistola LIII. PASCHAJIS PAPJb AD ROBERTUM COMITEM DE WfL-"
+          }
+        },
+        {
+          "id": "l4-e054",
+          "title": {
+            "la": "Epistola LIV. Henrici Regis Anglorum ad Anselmum"
+          }
+        },
+        {
+          "id": "l4-e055",
+          "title": {
+            "la": "Epistola LV. Ad Lumdem"
+          }
+        },
+        {
+          "id": "l4-e056",
+          "title": {
+            "la": "Epistola LVI. Ad Gerardum Eboracenslem"
+          }
+        },
+        {
+          "id": "l4-e057",
+          "title": {
+            "la": "Epistola LVII. Henrici Regis Anglorum ad Anselmum"
+          }
+        },
+        {
+          "id": "l4-e058",
+          "title": {
+            "la": "Epistola LVIII. Guillelmi ad Anselmum"
+          }
+        },
+        {
+          "id": "l4-e059",
+          "title": {
+            "la": "Epistola LIX. Ad Odonem Episcopum"
+          }
+        },
+        {
+          "id": "l4-e060",
+          "title": {
+            "la": "Epistola LX. Anselmi Àd theodoricum"
+          }
+        },
+        {
+          "id": "l4-e061",
+          "title": {
+            "la": "Epistola LXI. Anstlmi Ad. Gundulfum Episcopum"
+          }
+        },
+        {
+          "id": "l4-e062",
+          "title": {
+            "la": "Epistola LXII. Ad Guidonla"
+          }
+        },
+        {
+          "id": "l4-e063",
+          "title": {
+            "la": "Epistola LXIII. Hdwruci Regis Anglorum ad Anselmum"
+          }
+        },
+        {
+          "id": "l4-e064",
+          "title": {
+            "la": "Epistola LXIV. Mathildis Reginjz ad Anselmum"
+          }
+        },
+        {
+          "id": "l4-e065",
+          "title": {
+            "la": "Epistola LXV. Ad Elterum Priorem et Monachos"
+          }
+        },
+        {
+          "id": "l4-e066",
+          "title": {
+            "la": "Epistola LXVI. Hugoms Clumacensis Abbatis ad Anselmum"
+          }
+        },
+        {
+          "id": "l4-e067",
+          "title": {
+            "la": "Epistola LXVII. Ihugonis ad eumdem"
+          }
+        },
+        {
+          "id": "l4-e068",
+          "title": {
+            "la": "Epistola LXVIII. Ad Hlgoncm Comitem"
+          }
+        },
+        {
+          "id": "l4-e069",
+          "title": {
+            "la": "Epistola LXIX. Paschalis J Papjc ad Anseclmum"
+          }
+        },
+        {
+          "id": "l4-e070",
+          "title": {
+            "la": "Epistola LXX. Amselmí Ad. Henricum Regem Anglorum"
+          }
+        },
+        {
+          "id": "l4-e071",
+          "title": {
+            "la": "Epistola LXXI. Muriardacei Regis Hiberni, ad Anselmum"
+          }
+        },
+        {
+          "id": "l4-e072",
+          "title": {
+            "la": "Epistola LXXII. GISLEBERTi LUNICFNSIS AD. ANSELMLM"
+          }
+        },
+        {
+          "id": "l4-e073",
+          "title": {
+            "la": "Epistola LXXIII. Anstlmi ad Jotserannum Archiepiscopum Lugdu-"
+          }
+        },
+        {
+          "id": "l4-e074",
+          "title": {
+            "la": "Epistola LXXIV. Ad Archiepiscopum Lindonensem"
+          }
+        },
+        {
+          "id": "l4-e075",
+          "title": {
+            "la": "Epistola LXXV. Ansdlmi ad Adam Comitissam"
+          }
+        },
+        {
+          "id": "l4-e076",
+          "title": {
+            "la": "Epistola LXXVI. Ad Haconem Comitem"
+          }
+        },
+        {
+          "id": "l4-e077",
+          "title": {
+            "la": "Epistola LXXVII. Ad Iiemuclum Reglm Aagiorlm"
+          }
+        },
+        {
+          "id": "l4-e078",
+          "title": {
+            "la": "Epistola LXXVIII. Anselwi ad Paschaldm Papam"
+          }
+        },
+        {
+          "id": "l4-e079",
+          "title": {
+            "la": "Epistola LXXIX. Anselvmi ad Savsonlm Wigornensem Tfpiscopum"
+          }
+        },
+        {
+          "id": "l4-e080",
+          "title": {
+            "la": "Epistola LXXX. Anselni ad Liiam Comitem"
+          }
+        },
+        {
+          "id": "l4-e081",
+          "title": {
+            "la": "Epistola LXXXI. Ad Robfrtum Comitem"
+          }
+        },
+        {
+          "id": "l4-e082",
+          "title": {
+            "la": "Epistola LXXXII. Anstlmi ad Roduitum Cicdstrensem Ipiscopum"
+          }
+        },
+        {
+          "id": "l4-e083",
+          "title": {
+            "la": "Epistola LXXXIII. Ad Wr. Lpiscopum"
+          }
+        },
+        {
+          "id": "l4-e084",
+          "title": {
+            "la": "Epistola LXXXIV. Ad Abbatissam T. Fjusque Congrega-"
+          }
+        },
+        {
+          "id": "l4-e085",
+          "title": {
+            "la": "Epistola LXXXV. Ad Gisledertum"
+          }
+        },
+        {
+          "id": "l4-e086",
+          "title": {
+            "la": "Epistola LXXXVI. Anselvi ad Ricardum Monachum"
+          }
+        },
+        {
+          "id": "l4-e087",
+          "title": {
+            "la": "Epistola LXXXVII. Ad Robertim, Seyt, Edit"
+          }
+        },
+        {
+          "id": "l4-e088",
+          "title": {
+            "la": "Epistola LXXXVIII. Ad Willermun"
+          }
+        },
+        {
+          "id": "l4-e089",
+          "title": {
+            "la": "Epistola LXXXIX. Ad Iierdcrtum Tiijoforddnsem Episcopum"
+          }
+        },
+        {
+          "id": "l4-e090",
+          "title": {
+            "la": "Epistola XC. Amselmi ad Nepotfm"
+          }
+        },
+        {
+          "id": "l4-e091",
+          "title": {
+            "la": "Epistola XCI. Ad Walterun Cardinallm"
+          }
+        },
+        {
+          "id": "l4-e092",
+          "title": {
+            "la": "Epistola XCII. Ad Donnaldum, Donatum et Alios Elpi-"
+          }
+        },
+        {
+          "id": "l4-e093",
+          "title": {
+            "la": "Epistola XCIII. Anstlm ad Hugonem Arlghidiaconem"
+          }
+        },
+        {
+          "id": "l4-e094",
+          "title": {
+            "la": "Epistola XCIV. Ad Lambertum Atredatemsem Episcopusi"
+          }
+        },
+        {
+          "id": "l4-e095",
+          "title": {
+            "la": "Epistola XCV. Ansdlmi ad Eumddm"
+          }
+        },
+        {
+          "id": "l4-e096",
+          "title": {
+            "la": "Epistola XCVI. Ad Adllidem"
+          }
+        },
+        {
+          "id": "l4-e097",
+          "title": {
+            "la": "Epistola XCVII. Amselmi ad Jilrnostum"
+          }
+        },
+        {
+          "id": "l4-e098",
+          "title": {
+            "la": "Epistola XCVIII. Ad Lantrancum"
+          }
+        },
+        {
+          "id": "l4-e099",
+          "title": {
+            "la": "Epistola XCIX. Anselni ad Hdmricum"
+          }
+        },
+        {
+          "id": "l4-e100",
+          "title": {
+            "la": "Epistola C. Ad Mainerium Abbatem. S"
+          }
+        },
+        {
+          "id": "l4-e101",
+          "title": {
+            "la": "Epistola CI. Ad Tienricum Regem Anglorum"
+          }
+        },
+        {
+          "id": "l4-e102",
+          "title": {
+            "la": "Epistola CII. Ad Atserldm Luxdexsem Archilpiscopum"
+          }
+        },
+        {
+          "id": "l4-e103",
+          "title": {
+            "la": "Epistola CIII. Ad Eulaliam Ejusque Sanctimoniales"
+          }
+        },
+        {
+          "id": "l4-e104",
+          "title": {
+            "la": "Epistola CIV. Ad Lasdem"
+          }
+        }
+      ]
+    }
+  ]
+}
