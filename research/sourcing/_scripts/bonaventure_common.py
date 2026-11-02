@@ -187,3 +187,41 @@ def join_lines(ls):
 
 def strip_notes(t):
     return re.sub(r'\s?\((?:[0-9!lIti*]{1,3}|[0-9]+\^?)\)(?=[\s.,;:)»]|$)', '', t)
+
+# ---- Quaracchi folio pages (two columns, marginalia, footnotes) --------------------------
+FN_START = re.compile(r"^[\^'’\"»*‘“•§]\s?[A-Z0-9(\[]|^[\^'’\"»*‘“•]\s")
+SUMM = re.compile(r'^su[mn][mn]ar', re.I)
+PNUM = re.compile(r'^(\d{1,3})\s?[.,]\s+(?=\S)')
+
+def folio_paragraphs(lines, is_header, skip_summarium=True):
+    """Body paragraphs of folio pages: footnotes (from the first note marker of a page), marginal notes
+    (set off by 3+ spaces), page heads, signatures and the editors' Summarium are dropped."""
+    pages = [[]]
+    for l in lines:
+        if is_header(l): pages.append([]); continue
+        pages[-1].append(l)
+    paras = []; in_summ = False
+    for pg in pages:
+        body = []
+        for l in pg:
+            if FN_START.match(l.strip()) and not l.strip().startswith('« '): break
+            if re.match(r'^\s*S\. Bonav\.', l): break
+            body.append(l)
+        for l in body:
+            s = l.rstrip()
+            if not s.strip(): continue
+            if SUMM.match(s.strip()): in_summ = True
+            if in_summ:
+                if PNUM.match(s.strip()) and s.strip().startswith('1'): in_summ = False
+                else: continue
+            parts = [p.strip() for p in re.split(r' {3,}', s.strip()) if p.strip()]
+            s = max(parts, key=len) if parts else ''
+            s = re.sub(r'\s+', ' ', s)
+            if not s: continue
+            if PNUM.match(s) or not paras: paras.append([s])
+            else: paras[-1].append(s)
+    out = []
+    for p in paras:
+        t = join_lines(p)
+        out.append(t)
+    return out
