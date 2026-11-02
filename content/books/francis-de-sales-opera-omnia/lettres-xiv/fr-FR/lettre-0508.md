@@ -1,0 +1,7 @@
+# Lettre DVIII. La Charité Envers le Prochain Ne Doit Pas Nous Faire Couvrir le Mal. Blâmons le Vice, Épargnons les Personnes. - Comment Nous Devons Considérer les Actions du Prochain. - la Charité et les Pécheurs
+
+*Je vous conjure de ne dire jamais mal du prochain ni rien qui tant soit peu le puisse offencer. Il ne faut pas toutesfois favoriser le mal, le flatter ou le couvrir, ains parler rondement et dire franchement mal du mal, et blasmer les choses blasmables, quand l'utilité de celuy de qui l'on parle le requiert ; car en cela, Dieu est glorifié. Et sur tout, blasmer le vice et espargner le plus que l'on peut la personne auquel il est, d'autant plus que la bonté de Dieu est si grande, qu'un moment seul suffit pour impetrer sa grace. Et qui pourra asseurer que celuy qui estoit hier pecheur et meschant le soit aujourd'huy ?*
+
+Quand nous regardons les actions du prochain, [voyons les] dans le biais qui est le plus doux, et quand [ nous] ne pouvons excuser ni le fait ni l'intention de celuy que, d'ailleurs, nous connoissons estre bon, n'en jugeons point, mais ostons cela de nostre esprit et laissons le jugement a Dieu. Quand nous ne pouvons excuser le peché, rendons le au moins digne de compassion, l'attribuant a la cause la plus supportable, comme a l'ignorance ou infirmité.
+
+La charité craint de rencontrer .le mal, tant s'en faut qu'elle l'aille chercher (1 Co 13,5); quand elle le treuve, elle s'en destourne, elle le dissimule, ains elle ferme les yeux avant que de le voir ; que s'il faut le voir, elle s'en destourne
