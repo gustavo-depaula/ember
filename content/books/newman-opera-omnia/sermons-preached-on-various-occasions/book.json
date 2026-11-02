@@ -1,0 +1,135 @@
+{
+  "id": "newman-sermons-preached-on-various-occasions",
+  "cover": "classic",
+  "name": {
+    "en-US": "Sermons Preached on Various Occasions",
+    "pt-BR": "Sermões Pregados em Várias Ocasiões"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "Fifteen of Newman's Catholic sermons and lectures, 1850 to 1873, with his notes: intellect as the instrument of religious training, the secret power of divine grace, St. Paul's gifts, Christ upon the waters, the sermon The Second Spring preached at the first Provincial Synod of Westminster in 1852, the mission of St. Philip Neri, and the Pope and the Revolution.",
+    "pt-BR": "Quinze sermões e conferências católicos de Newman, de 1850 a 1873, com suas notas: a inteligência como instrumento da formação religiosa, o poder secreto da graça divina, os dons de São Paulo, Cristo sobre as águas, o sermão A Segunda Primavera, pregado no primeiro Sínodo Provincial de Westminster em 1852, a missão de São Filipe Néri e o Papa e a Revolução."
+  },
+  "composed": "1850-1873",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/sermons-preached-on-various-occasions",
+  "editions": {
+    "en-US": {
+      "editor": "John Henry Newman (Longmans, 1874 edition; Newman Reader)",
+      "year": 1874
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.newmanreader.org/works/occasions/index.html",
+      "edition": "Sermons Preached on Various Occasions (London: Longmans, Green; first published 1857, enlarged 1874), as transcribed by the Newman Reader.",
+      "description": "16 chapters: Newman Reader page numbers, navigation and its editorial remarks are dropped; Newman's own notes are kept as footnotes. Sermons 9 and 12 each join two Newman Reader pages. Raw page text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890 and the text is of a Longmans impression (or earlier edition) before 1930. The Newman Reader page footers claim copyright in the site's transcription (c) 2007 NINS; a plain transcription of a public-domain text adds no authorship under US law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "sermon-1",
+      "title": {
+        "en-US": "Sermon 1. Intellect, the Instrument of Religious Training"
+      }
+    },
+    {
+      "id": "sermon-2",
+      "title": {
+        "en-US": "Sermon 2. The Religion of the Pharisee, the Religion of Mankind"
+      }
+    },
+    {
+      "id": "sermon-3",
+      "title": {
+        "en-US": "Sermon 3. Waiting for Christ"
+      }
+    },
+    {
+      "id": "sermon-4",
+      "title": {
+        "en-US": "Sermon 4. The Secret Power of Divine Grace"
+      }
+    },
+    {
+      "id": "sermon-5",
+      "title": {
+        "en-US": "Sermon 5. Dispositions for Faith"
+      }
+    },
+    {
+      "id": "sermon-6",
+      "title": {
+        "en-US": "Sermon 6. Omnipotence in Bonds"
+      }
+    },
+    {
+      "id": "sermon-7",
+      "title": {
+        "en-US": "Sermon 7. St. Paul's Characteristic Gift"
+      }
+    },
+    {
+      "id": "sermon-8",
+      "title": {
+        "en-US": "Sermon 8. St. Paul's Gift of Sympathy"
+      }
+    },
+    {
+      "id": "sermon-9",
+      "title": {
+        "en-US": "Sermon 9. Christ upon the Waters"
+      }
+    },
+    {
+      "id": "sermon-10",
+      "title": {
+        "en-US": "Sermon 10. The Second Spring"
+      }
+    },
+    {
+      "id": "sermon-11",
+      "title": {
+        "en-US": "Sermon 11. Order, the Witness and Instrument of Unity"
+      }
+    },
+    {
+      "id": "sermon-12",
+      "title": {
+        "en-US": "Sermon 12. The Mission of St. Philip Neri"
+      }
+    },
+    {
+      "id": "sermon-13",
+      "title": {
+        "en-US": "Sermon 13. The Tree beside the Waters"
+      }
+    },
+    {
+      "id": "sermon-14",
+      "title": {
+        "en-US": "Sermon 14. In the World, but not of the World"
+      }
+    },
+    {
+      "id": "sermon-15",
+      "title": {
+        "en-US": "Sermon 15. The Pope and the Revolution"
+      }
+    },
+    {
+      "id": "notes",
+      "title": {
+        "en-US": "Notes"
+      }
+    }
+  ]
+}

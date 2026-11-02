@@ -1,0 +1,96 @@
+{
+ "slug": "sermons-preached-on-various-occasions",
+ "id": "newman-sermons-preached-on-various-occasions",
+ "name": "Sermons Preached on Various Occasions",
+ "name_pt": "Sermões Pregados em Várias Ocasiões",
+ "desc": "Fifteen of Newman's Catholic sermons and lectures, 1850 to 1873, with his notes: intellect as the instrument of religious training, the secret power of divine grace, St. Paul's gifts, Christ upon the waters, the sermon The Second Spring preached at the first Provincial Synod of Westminster in 1852, the mission of St. Philip Neri, and the Pope and the Revolution.",
+ "desc_pt": "Quinze sermões e conferências católicos de Newman, de 1850 a 1873, com suas notas: a inteligência como instrumento da formação religiosa, o poder secreto da graça divina, os dons de São Paulo, Cristo sobre as águas, o sermão A Segunda Primavera, pregado no primeiro Sínodo Provincial de Westminster em 1852, a missão de São Filipe Néri e o Papa e a Revolução.",
+ "composed": "1850-1873",
+ "editor": "John Henry Newman (Longmans, 1874 edition; Newman Reader)",
+ "year": 1874,
+ "index": "occasions/index.html",
+ "edition": "Sermons Preached on Various Occasions (London: Longmans, Green; first published 1857, enlarged 1874), as transcribed by the Newman Reader.",
+ "note": "Sermons 9 and 12 each join two Newman Reader pages.",
+ "chapters": [
+  [
+   "occasions/sermon1.html",
+   "sermon-1",
+   null
+  ],
+  [
+   "occasions/sermon2.html",
+   "sermon-2",
+   null
+  ],
+  [
+   "occasions/sermon3.html",
+   "sermon-3",
+   null
+  ],
+  [
+   "occasions/sermon4.html",
+   "sermon-4",
+   null
+  ],
+  [
+   "occasions/sermon5.html",
+   "sermon-5",
+   null
+  ],
+  [
+   "occasions/sermon6.html",
+   "sermon-6",
+   null
+  ],
+  [
+   "occasions/sermon7.html",
+   "sermon-7",
+   null
+  ],
+  [
+   "occasions/sermon8.html",
+   "sermon-8",
+   null
+  ],
+  [
+   "occasions/sermon9-1.html+occasions/sermon9-2.html",
+   "sermon-9",
+   "Sermon 9. Christ upon the Waters"
+  ],
+  [
+   "occasions/sermon10.html",
+   "sermon-10",
+   null
+  ],
+  [
+   "occasions/sermon11.html",
+   "sermon-11",
+   null
+  ],
+  [
+   "occasions/sermon12-1.html+occasions/sermon12-2.html",
+   "sermon-12",
+   "Sermon 12. The Mission of St. Philip Neri"
+  ],
+  [
+   "occasions/sermon13.html",
+   "sermon-13",
+   null
+  ],
+  [
+   "occasions/sermon14.html",
+   "sermon-14",
+   null
+  ],
+  [
+   "occasions/sermon15.html",
+   "sermon-15",
+   null
+  ],
+  [
+   "occasions/notes.html",
+   "notes",
+   "Notes"
+  ]
+ ]
+}
