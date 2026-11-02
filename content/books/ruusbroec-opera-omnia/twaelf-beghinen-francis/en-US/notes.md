@@ -44,7 +44,7 @@ Chapter I., p. 50, Note (3). — Literally : —
 
 Chapter I., p. 50, Note (4). — " fickle lover." The word is " truwant."
 
-The Abbe Cuylits translates " vilain," but has a note to the effect that only the exigencies of rhyme have pre-vented him from using the word " truand."
+The Abbe Cuylits translates " vilain," but has a note to the effect that only the exigencies of rhyme have prevented him from using the word " truand."
 
 The rendering of Surius, " instar hospitis instabilis aufugit," is faulty, as the Editors of the Flemish text have pointed out. The true Latin equivalent for " truwant " is " vagabundus " or " deceptor."
 
@@ -52,7 +52,7 @@ Chapter I., p. 50, Note (5). — " making me no fair return." Literally " This i
 
 Chapter I., p. 52, Note (6). — The original is, " Ic pleghe sijns soe gherne." The word " pleghen " means " to follow," " to cultivate." It is allied to our English word " cult."
 
-Chapter II., p. 56, Note (7). — A more exact rendering would be " stumbling-blocks " ; the literal meaning is " unspeeding," used in an active sense. Surius has trans-lated, " Quod est infelix hominum genus," and I have followed his intention.
+Chapter II., p. 56, Note (7). — A more exact rendering would be " stumbling-blocks " ; the literal meaning is " unspeeding," used in an active sense. Surius has translated, " Quod est infelix hominum genus," and I have followed his intention.
 
 Chapter III., p. 59, Note (8).— Literally " Thy highness."
 
@@ -64,7 +64,7 @@ Chapter V., p. 63, Note ( 1 1 ).— Literally " digest."
 
 Chapter V., p. 64, Note (12). — The editors of the Flemish text continue the quotation-marks to the end of the Chapter. It is impossible, however, that the last twelve lines or so can be addressed by the soul to God, and I have made the necessary break at the most probable place.
 
-Chapter V., p. 64, Note (13).—" With Mode," " Modeless." These words are the literal translation of the two words " Wise," " onwise " : which are continually used by Ruysbroeck. It is impossible to explain all that they convey ; but the student of mystical theology will have no difficulty in placing them among their appropriate corre-spondences.
+Chapter V., p. 64, Note (13).—" With Mode," " Modeless." These words are the literal translation of the two words " Wise," " onwise " : which are continually used by Ruysbroeck. It is impossible to explain all that they convey ; but the student of mystical theology will have no difficulty in placing them among their appropriate correspondences.
 
 Chapter VI., p. 65, Note (14). — Literally. " These men have every hindrance."
 
@@ -134,7 +134,7 @@ Cuylits, however, striving to give due value to the nominative used by Ruysbroec
 
 As will be seen, I have differed from all these renderings, although I have still some doubt as to whether that of Cuylits is not the correct one.
 
-Chapter XIV., p. 103, Note (36).—" Ce Chapitre XIV. est simplement vertigineux," says Cuylits in the note of appreciation which he has appended to it. It is, however, none the less most explicit and detailed in the differ-entiations of the Four Modes of Loving given therein, and will bear close comparison with other well-known diagrams of the Mystic Life.
+Chapter XIV., p. 103, Note (36).—" Ce Chapitre XIV. est simplement vertigineux," says Cuylits in the note of appreciation which he has appended to it. It is, however, none the less most explicit and detailed in the differentiations of the Four Modes of Loving given therein, and will bear close comparison with other well-known diagrams of the Mystic Life.
 
 Chapter XV., p. 106, Note (37). — " hoechste kennisse." The French translators render " kennisse " by " con-naissance." Surius translates " cognitio."
 

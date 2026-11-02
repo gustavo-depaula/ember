@@ -4,9 +4,9 @@ Preface
 
 The Booh of the Twelve Beguines has been here translated from the original Flemish Texts, collated and published by the Society of Flemish Bibliophiles in 1863.
 
-In the Flemish, the first eight Chapters are in rhymed verse ; but I have preferred to follow the example of Surius, and to make no attempt to reproduce the metre or the rhymes of the original, believing that such a course results only in increasing the difficulty of obtaining an exact and accurate rendering ; and in this I am confirmed by a comparison of the existing translations in French, which are often little more than para-phrases of the author's meaning. I have, however, in those Chapters, kept to the original lines, beginning each in turn with a capital letter.
+In the Flemish, the first eight Chapters are in rhymed verse ; but I have preferred to follow the example of Surius, and to make no attempt to reproduce the metre or the rhymes of the original, believing that such a course results only in increasing the difficulty of obtaining an exact and accurate rendering ; and in this I am confirmed by a comparison of the existing translations in French, which are often little more than paraphrases of the author's meaning. I have, however, in those Chapters, kept to the original lines, beginning each in turn with a capital letter.
 
-The old Manuscripts were not consistently divided into Chapters, and the 7 usual numeration is that of Surius, who also added a brief descriptive heading to each Chapter. While his division is occasionally at fault, it seems less con-fusing to the reader to adopt it, subdividing the longer Chapters, where necessary, into two parts ; and this I have done. The descriptive headings are my own, although they follow, in the main, the intention of the headings added by Surius.
+The old Manuscripts were not consistently divided into Chapters, and the 7 usual numeration is that of Surius, who also added a brief descriptive heading to each Chapter. While his division is occasionally at fault, it seems less confusing to the reader to adopt it, subdividing the longer Chapters, where necessary, into two parts ; and this I have done. The descriptive headings are my own, although they follow, in the main, the intention of the headings added by Surius.
 
 The language chosen has been always the simplest possible, in order to retain, as far as practicable, the primitive flavour of the original ; but it should be remembered that Ruysbroeck himself often uses long words, though always in their simplest signification.
 
@@ -24,21 +24,21 @@ THE student of mystical literature has, to-day, no greater or more pressing need
 
 And, at the threshold, we must needs ask ourselves what it is that we mean by this word " Mysticism " ; for upon the answer which we make to that question will depend the whole meaning of this book — and indeed of all other books — for us.
 
-" Mysticism,'* then, as we speak of it to-day, is no phantasy of mystery and legend, no foolish tale of useless occult adeptship, no farrago of ancient and dis-credited heresies. It imports a deep and earnest striving of the soul, to live, first, the life enjoined by all the authorised teachers, and then — and not till then — to pass, if she be called, beyond, into the
+" Mysticism,'* then, as we speak of it to-day, is no phantasy of mystery and legend, no foolish tale of useless occult adeptship, no farrago of ancient and discredited heresies. It imports a deep and earnest striving of the soul, to live, first, the life enjoined by all the authorised teachers, and then — and not till then — to pass, if she be called, beyond, into the
 
 Life of Love in God, and into intimate communion with Himself.
 
-It is not a science or a philosophy, exploring, by the light of the intellect, the secret places of the soul. It is, in the deepest and truest sense, the living of a Life — a Life of continual realisa-tion, in which every deed and word and thought is for ever governed and made holy by the Love that rules in all.
+It is not a science or a philosophy, exploring, by the light of the intellect, the secret places of the soul. It is, in the deepest and truest sense, the living of a Life — a Life of continual realisation, in which every deed and word and thought is for ever governed and made holy by the Love that rules in all.
 
 To those who live this Life there comes at length a reward wh(ich is past all telling, when the life of eager quest and longing is taken up into the Life of consciousness with God.
 
 Such is the claim of those who have left their record with us — a tale of stammering lips, and spoken in strange tongues. They have turned to us radiant faces, and in their eyes we have read unutterable things.
 
-They have given us scattered land-marks on the road that they have travelled, and we come, in time, to understand that " there are many paths to the ' ' Centre, ' ' and that hardly any one of them has followed in the footsteps of another.
+They have given us scattered landmarks on the road that they have travelled, and we come, in time, to understand that " there are many paths to the ' ' Centre, ' ' and that hardly any one of them has followed in the footsteps of another.
 
 Each in his turn has taken up his staff, and struck out across the desert, if haply he might come one day to see the gilded spires and temples of his early vision. Each in his turn has felt the " Song of " Joy " swelling in his inmost heart, the Song " that no man knoweth, save him " that hath conceived it." *
 
-Ruysbroeck, in other words, tells us of all that this Song meant for him. He finds within himself a constant craving, a continual inward longing. He de-scribes how the attitude of the true lover of God is "an intellectual gazing and " a loving inclination " 2 towards Him, mind and will aspiring to intimate communion with the God of All. " Behold," he cries, " we are one life in God," 3 and, through love and virtue, we shall come to our Eternal Life and Rest in Him.
+Ruysbroeck, in other words, tells us of all that this Song meant for him. He finds within himself a constant craving, a continual inward longing. He describes how the attitude of the true lover of God is "an intellectual gazing and " a loving inclination " 2 towards Him, mind and will aspiring to intimate communion with the God of All. " Behold," he cries, " we are one life in God," 3 and, through love and virtue, we shall come to our Eternal Life and Rest in Him.
 
 He calls to those who hear him in a voice that thrills with earnestness, bidding them to follow where he leads : —
 
@@ -76,7 +76,7 @@ Only the enthusiast will hear the voice of Jan van Ruysbroeck, and only enthusia
 
 Of such was Ruysbroeck, and of such are those to whom alone his message will sound in understanding ears.
 
-To the difficulty of translating his writings, witness has been borne continually by many of those who have entered into that labour, and M. Maeter-linck, in the incomparable Introduction to his translation into French of the Adornment of the Spiritual Marriage, has given some of the reasons therefor.1
+To the difficulty of translating his writings, witness has been borne continually by many of those who have entered into that labour, and M. Maeterlinck, in the incomparable Introduction to his translation into French of the Adornment of the Spiritual Marriage, has given some of the reasons therefor.1
 
 This " humble Flemish priest," as M. Maeterlinck calls him,2 had, in truth, at his service, one of the most primitive of modern tongues, adapted only to the simplest expression of the thoughts of daily life. He writes, in this medium, of things that pass beyond all expression, of abstract ideas just caught upon the uttermost limits of that territory in which alone the human intellect can live, and he employs, at times, the boldest and most amazing imagery, the subtlest analogies, and the utmost refinements of abstract
 
@@ -84,7 +84,7 @@ This " humble Flemish priest," as M. Maeterlinck calls him,2 had, in truth, at h
 
 thought, in seeking to tell of the ineffable in the terms of human speech.
 
-He is like a child who has seen a vision of the Infinite. He understands, although he knows not how ; but he cannot formulate his knowledge even in his thought ; and, at the attempt to convey his meaning into words, all but the least fragments of the Vision fade and pass away. It is those least frag-ments alone that we can see, shining through the short phrases and the simple stumbling sentences. In rough and uncouth analogy, in tortured rhythm, and in weird flights of strange imagination, we grasp and reconstruct, little by little, piece by piece, and, as it were, rebuilding it out of the material of our own original thought, the tumbled fragments of his scattered edifice.
+He is like a child who has seen a vision of the Infinite. He understands, although he knows not how ; but he cannot formulate his knowledge even in his thought ; and, at the attempt to convey his meaning into words, all but the least fragments of the Vision fade and pass away. It is those least fragments alone that we can see, shining through the short phrases and the simple stumbling sentences. In rough and uncouth analogy, in tortured rhythm, and in weird flights of strange imagination, we grasp and reconstruct, little by little, piece by piece, and, as it were, rebuilding it out of the material of our own original thought, the tumbled fragments of his scattered edifice.
 
 " The Unutterable remains for ever " unuttered," but we have with us some memory of a moment spent upon the edge of all the world, gazing out across the mists of far Eternity.
 
@@ -94,11 +94,11 @@ Or again, he is horrified at some rugged metaphor of mediaeval flavour, and stri
 
 And, after all, it is the duty of a translator just to translate ; altering nothing, if he can avoid it ; omitting nothing ; and, if he does not wholly understand the hidden meaning of the plain words upon his written page, leaving them undisturbed, and the understanding of them to wiser men.
 
-In the midst of the great awakening of recent years, this Flemish saint has, for us and for our generation, emerged from the obscurity of centuries, and we have been able to read, for ourselves, even in our own tongue, some few selections from his writings. It is in no disrespect of those admirable translations that one can but feel once more the diffi-culties of which I have just spoken, as well as the great limitation of selected passages for the purpose of enabling the student to follow the connected thought of the author, no less than one realises the disadvantage of what M. Maeterlinck calls a " double translation."
+In the midst of the great awakening of recent years, this Flemish saint has, for us and for our generation, emerged from the obscurity of centuries, and we have been able to read, for ourselves, even in our own tongue, some few selections from his writings. It is in no disrespect of those admirable translations that one can but feel once more the difficulties of which I have just spoken, as well as the great limitation of selected passages for the purpose of enabling the student to follow the connected thought of the author, no less than one realises the disadvantage of what M. Maeterlinck calls a " double translation."
 
 So far as I am acquainted therewith, all the English versions of Ruysbroeck that have yet appeared are limited to selections from the original, and are, moreover, translations, not of the Flemish, but of some rendering thereof in French or Latin. Miss Stoddart has translated the Introduction and some few extracts from M. Maeterlinck's French rendering of the Adornment of the Spiritual Marriage,1 while Dean Inge's abridged version of that work, given in Light, Life, and Loue^ is from the French version and from the Latin translation by Surius.
 
-With these two exceptions, all the English selections have been translated from the French of Ernest Hello, who, as M. Maeterlinck points out,3 does not claim to have done more than loosely paraphrase the Latin text of Surius, himself the translator, nearly two cen-turies after Ruysbroeck's death, of the then existing manuscripts.
+With these two exceptions, all the English selections have been translated from the French of Ernest Hello, who, as M. Maeterlinck points out,3 does not claim to have done more than loosely paraphrase the Latin text of Surius, himself the translator, nearly two centuries after Ruysbroeck's death, of the then existing manuscripts.
 
 In so many retranslations and re-renderings, the opportunities of missing the exact shade of thought or the subtle turn of phrase, which were long ago in
 
@@ -110,19 +110,19 @@ In so many retranslations and re-renderings, the opportunities of missing the ex
 
 the mind of him who wrote, or of toning down some too bold analogy or some too vivid imagery, are almost endless ; and it has seemed to me that even the most elementary attempt at an exact rendering of the original text, while it must, of necessity, lack much of the literary merit of a freer translation, may well be of more general utility in reproducing the true meaning of the author.
 
-I have translated, then, as a whole, and, so far as possible, without omission of any kind. One may be forgiven some passing impatience when, in the midst of an amazing flood of eloquence, the writer pauses to digress upon the fate, let us say, which in mediaeval times was reserved for the unbeliever and the Jew. But I cannot think that this impatience is an excuse for depriving others of the privilege of forming their own judgment ; and, indeed, in the Booh of the Twelue Btguines these digres-sions are so rare, and so short when they do occur, that their omission would have resulted in no gain either of clearness or of brevity. Moreover, in all his works, what Ruysbroeck has written he has written as a whole ; and there never was, perhaps, a writer who passed more subtly from point to point of exposition, or whose digressions it was more dangerous to omit. He troubles us little, after all, with the usual mediaeval condemnation of the wicked man : and, if these digressions, almost essential as they were in those days for the orthodox son of Holy Church, be faults indeed, we may surely forgive them for the sake of the great love and the tender charity that are so conspicuous in all his teachings.
+I have translated, then, as a whole, and, so far as possible, without omission of any kind. One may be forgiven some passing impatience when, in the midst of an amazing flood of eloquence, the writer pauses to digress upon the fate, let us say, which in mediaeval times was reserved for the unbeliever and the Jew. But I cannot think that this impatience is an excuse for depriving others of the privilege of forming their own judgment ; and, indeed, in the Booh of the Twelue Btguines these digressions are so rare, and so short when they do occur, that their omission would have resulted in no gain either of clearness or of brevity. Moreover, in all his works, what Ruysbroeck has written he has written as a whole ; and there never was, perhaps, a writer who passed more subtly from point to point of exposition, or whose digressions it was more dangerous to omit. He troubles us little, after all, with the usual mediaeval condemnation of the wicked man : and, if these digressions, almost essential as they were in those days for the orthodox son of Holy Church, be faults indeed, we may surely forgive them for the sake of the great love and the tender charity that are so conspicuous in all his teachings.
 
 Jan van Ruysbroeck was born in 1293 A.D. in the village of Ruysbroeck, or Ruusbroec, near Brussels, to which he owes his name. The circumstances of his outer life need delay us but one moment, and have often been set out before. His mother, a good and pious woman, was yet too fond of her son to wish him to leave her for the stern life of a mediaeval priest ; and at the age of eleven, he ran away from home to his Uncle John Hinckaert, who was a Canon of the first degree at the Church of Saint Michael and Saint Gudule in Brussels.
 
 With him he studied hard in all kinds for four years, and then abandoned these labours as beside the point of his one enthusiasm, and devoted himself exclusively to theology.
 
-Those who saw his wonderful progress in this respect thought him inspired from Heaven, and in his Uncle Hinckaert and the latter 's colleague, Franc van Couden-berg, a minor canon, he found ready and invaluable assistance.
+Those who saw his wonderful progress in this respect thought him inspired from Heaven, and in his Uncle Hinckaert and the latter 's colleague, Franc van Coudenberg, a minor canon, he found ready and invaluable assistance.
 
 More and more as the years went on he devoted himself to the life of contemplation, till, at the age of twenty-four, when he was ordained priest, his uncle made him Chaplain of the Church of Saint Gudule.
 
-In 1343, at Coudenberg's suggestion, the three friends left Brussels for Groen-nendael in the Forest of Soignes, hoping for greater peace and seclusion, and took up their abode in the old hermitage of Jean de Buscho, vacated for that purpose by the recluse Lambert, who was then in occupation. In 1344 they built a chapel which was duly consecrated by the Bishop of Trebizonde, and many clergy and laymen came to join them.
+In 1343, at Coudenberg's suggestion, the three friends left Brussels for Groennendael in the Forest of Soignes, hoping for greater peace and seclusion, and took up their abode in the old hermitage of Jean de Buscho, vacated for that purpose by the recluse Lambert, who was then in occupation. In 1344 they built a chapel which was duly consecrated by the Bishop of Trebizonde, and many clergy and laymen came to join them.
 
-In 1349, upon a remonstrance from the Abbot of Saint Victor, they took the habit of regular Canons of Saint Augus-tine ; and while Coudenberg became Provost, Ruysbroeck himself became the Prior of the new settlement.
+In 1349, upon a remonstrance from the Abbot of Saint Victor, they took the habit of regular Canons of Saint Augustine ; and while Coudenberg became Provost, Ruysbroeck himself became the Prior of the new settlement.
 
 From this time forward his fame spread far and wide. Sometimes, we are told, his words flowed forth like wine from a broken vessel, and it is on record that he often spoke of God and of Eternal happiness until the dawn was breaking, and that the brethren who joined him after compline would find him still beside them at the bell for matins.
 
@@ -140,9 +140,9 @@ Of that heritage it would be hard to speak too highly. It is almost unknown
 
 to English readers ; and what they lose thereby it is impossible to estimate.
 
-I have chosen to translate the Booh of the Twelve Beguines because, so far as we can tell, it was one of the last treatises he ever wrote, and because it seems to contain, in a remarkable degree, the summary and the crown of his life's teaching. Surius includes it in a collection of treatises which he entitles " De " vera Contemplatione, opus praeclarum, " variis divinis institutionibus, eo quo " Spiritus Sanctus suggessit ordine de- " scriptis, exuberans," and these treatises, under the comprehensive title oi"Dat Boec " van den twaelf beghinen " have, together with all the other known works of Ruys-broeck, been collected and edited from the original manuscripts by the Society of Flemish Bibliophiles.
+I have chosen to translate the Booh of the Twelve Beguines because, so far as we can tell, it was one of the last treatises he ever wrote, and because it seems to contain, in a remarkable degree, the summary and the crown of his life's teaching. Surius includes it in a collection of treatises which he entitles " De " vera Contemplatione, opus praeclarum, " variis divinis institutionibus, eo quo " Spiritus Sanctus suggessit ordine de- " scriptis, exuberans," and these treatises, under the comprehensive title oi"Dat Boec " van den twaelf beghinen " have, together with all the other known works of Ruysbroeck, been collected and edited from the original manuscripts by the Society of Flemish Bibliophiles.
 
-The Society, for this particular collection, drew mainly from three manu-scripts, known, respectively, as Codex D, Codex F, and Codex G ; and it is perhaps needless to say more on this head, save that, for various reasons, I have, when in doubt, given the preference to Codex
+The Society, for this particular collection, drew mainly from three manuscripts, known, respectively, as Codex D, Codex F, and Codex G ; and it is perhaps needless to say more on this head, save that, for various reasons, I have, when in doubt, given the preference to Codex
 
 G, which was copied in 1480 by " Sister " Martin van Woolputte, procuratress at " Bergen in the enclosed cloister of Saint " Margaret in the Valley of Josaphat." * Ruysbroeck himself never gave any title to his works, and the name of " The Twelve " Beguines " is, in consequence, the addition of some copyist or critic at a later date.
 
@@ -180,7 +180,7 @@ It has been said of the mediaeval mystics, and most frequently by those who do n
 
 1 Light, Life, and Loue, Intro., p. x.
 
-ward life, and to the inward life alone ; that their message has no meaning for the wider outlook and the deeper sym-pathies of modern thought ; and that, whereas they sought to rouse and exercise the " emotions " only, we need, to-day, a using of the " intellect " and " will " as well. I think it is Henry Suso who says somewhere that " he " who seeks to find the inward in the out- " ward, is in better case than he who only " finds the inward in the inward " ; and indeed there is abundant testimony that the mystics, mediaeval or otherwise, all, or nearly all, teach, in the end, the same great lesson ; that it is love and understanding of the outward things that lead those who are called thereto into the unity of the Inward Life.1
+ward life, and to the inward life alone ; that their message has no meaning for the wider outlook and the deeper sympathies of modern thought ; and that, whereas they sought to rouse and exercise the " emotions " only, we need, to-day, a using of the " intellect " and " will " as well. I think it is Henry Suso who says somewhere that " he " who seeks to find the inward in the out- " ward, is in better case than he who only " finds the inward in the inward " ; and indeed there is abundant testimony that the mystics, mediaeval or otherwise, all, or nearly all, teach, in the end, the same great lesson ; that it is love and understanding of the outward things that lead those who are called thereto into the unity of the Inward Life.1
 
 The value of Ruysbroeck lies in his perpetual recognition of this fact, no less than in his continual implicit that " intellect " and " will " must play their due part in the life of love and virtue. Again and again he distinguishes between
 
@@ -236,7 +236,7 @@ THE THIRD CHAPTER contains the prayer of the devout soul who would partake of th
 
 THE FOURTH CHAPTER sets forth God's answer to this soul, and the offer of His own Flesh and Blood for food and drink thereto.
 
-THE FIFTH CHAPTER contains the soul's appreciation of God's Love and Goodness to her, and her ecstasy in receiving the Holy Sacrament. It con-cludes with a distinction between man, who is created according to " mode," and the Infinite God, Who is " modeless." For the finite soul cannot apprehend the
+THE FIFTH CHAPTER contains the soul's appreciation of God's Love and Goodness to her, and her ecstasy in receiving the Holy Sacrament. It concludes with a distinction between man, who is created according to " mode," and the Infinite God, Who is " modeless." For the finite soul cannot apprehend the
 
 Infinite God, while she is still bound by the limits of mortality.
 
@@ -254,7 +254,7 @@ In Part 2, Our Lord Jesus Christ, telling the soul of all His love for her and H
 
 THE TENTH CHAPTER, which I have also divided into two parts, gives, in Part 1, the soul's reply to this demand, and, in Part 2, sets out the First Mode of Contemplation. Ruysbroeck describes the joy of the loving heart, which is opened to God and closed to all created things ; he tells of the " Song of Joy " and of " Joyfulness," which belong to the lowest degree of the Contemplative Life, and he shows how the Fire of the Divine Love descends on him who, in purity of heart, high aim, and tender love, comes into the Presence of the Holy Majesty of God.
 
-THE ELEVENTH CHAPTER sets out the Second Mode of Contemplation, in which the soul, uplifted above all sem-blances, beyond and without the reason, is illuminated by the uncreated Light, which is not God, but is the intermediary between Him and the " seeing thought." Therein the soul knows God.
+THE ELEVENTH CHAPTER sets out the Second Mode of Contemplation, in which the soul, uplifted above all semblances, beyond and without the reason, is illuminated by the uncreated Light, which is not God, but is the intermediary between Him and the " seeing thought." Therein the soul knows God.
 
 THE TWELFTH CHAPTER describes the Third Mode of Contemplation, consisting of—
 
@@ -278,7 +278,7 @@ The Third Mode belongs to the " Sons of God," who, uplifted above all in a bare 
 
 Part 2 describes the Fourth Mode, in which the soul is made one with God in Love, and finds herself one Breadth and Length and Height and Depth with Him. We are told of the Outpouring and Indrawing of God, and how, in Outpouring, He works in a living differentiation of His Persons, but, in Indrawing, rests in an Eternal Repose without differentiation. We are One with God in both ways ; and, for our better realisation thereof, Jesus Christ has given us His Spirit, that we may grow in grace.
 
-THE FIFTEENTH CHAPTER de-scribes the operation of the Holy Spirit within us, Who (a) sends us out to live in the practice of Love, and (b) draws us in to be One in Love with Him.
+THE FIFTEENTH CHAPTER describes the operation of the Holy Spirit within us, Who (a) sends us out to live in the practice of Love, and (b) draws us in to be One in Love with Him.
 
 THE SIXTEENTH CHAPTER, Part 1, tells of the six points of communion between God and man.
 

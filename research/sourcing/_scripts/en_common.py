@@ -2,6 +2,9 @@
 import re
 W=set(w.strip().lower() for w in open('/usr/share/dict/words',errors='ignore'))
 PREF={'super','sub','inter','over','under','self','dis','con','mis','pre','pro','sup','un','re','in','de','ex','im','com','trans','con'}
+def inW(w):
+    w=w.lower()
+    return w in W or (w.endswith('s') and w[:-1] in W) or (w.endswith('es') and w[:-2] in W) or (w.endswith('ed') and (w[:-2] in W or w[:-1] in W)) or (w.endswith('ing') and (w[:-3] in W or w[:-3]+'e' in W)) or (w.endswith('ly') and w[:-2] in W)
 def fix_join(a,b):
     ma=re.search(r"([A-Za-z]+)$",a); mb=re.match(r"([A-Za-z]+)",b)
     return ma,mb
@@ -14,7 +17,7 @@ def join_lines(ls):
         if ma and mb:
             w1,hy=ma.group(1).lower(),ma.group(2); w2=mb.group(1).lower()
             if hy:
-                if (w1+w2) in W: out=out[:-1]+ln; continue
+                if inW(w1+w2) or not (inW(w1) and inW(w2)): out=out[:-1]+ln; continue
                 out=out+ln; continue
             if w1 not in W and (w1+w2) in W and len(w1)>1: out=out+ln; continue
             if w2 not in W and (w1+w2) in W and len(w2)>=3: out=out+ln; continue
@@ -79,7 +82,7 @@ def drop_head(t):
     if len(t.split())==1 and t.isupper(): return True
     w=t.split()
     if len(w)>9 or len(w)<1: return False
-    if re.search(r'[.!?]$',t): return False
+    if re.search(r'[.!?]$',t) and not re.fullmatch(r'\d{1,3}\s+[A-Z][A-Z ,\'’-]+\.?|[A-Z][A-Z ,\'’-]+\.?\s+\d{1,3}',t): return False
     if not (re.match(r'^\d{1,3}\s',t) or re.search(r'\s\d{1,3}$',t)): return False
     caps=sum(x[:1].isupper() for x in w)
     return caps>=len(w)/2

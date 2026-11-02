@@ -33,7 +33,7 @@ def vita():
     md='# Prologue\n\n'+'\n\n'.join(pro[1:] if pro and pro[0].upper().startswith('PROLOGUE') else pro)+'\n'; wr(d,'en-US','prologue',md); words+=len(md.split())
     toc.append({'id':'prologue','title':{'en-US':'Prologue'}})
     for n,((i,seg),t) in enumerate(zip(chs,titles),1):
-        ps=paras(seg,junk); label=f'{n}. {t}'
+        ps=paras(seg,junk); ps=[p for p in ps if p.rstrip('.').lower()!=t.rstrip('.').lower()]; label=f'{n}. {t}'
         md=f'# {label}\n\n'+'\n\n'.join(ps)+'\n'; wr(d,'en-US',f'c{n:02d}',md); words+=len(md.split())
         toc.append({'id':f'c{n:02d}','title':{'en-US':label}})
     meta={"id":"suso-vita","cover":"classic","name":{"en-US":"The Life of Blessed Henry Suso by Himself","pt-BR":"A Vida do Beato Henrique Suso, por ele mesmo"},"author":AUTH,
