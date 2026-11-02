@@ -1,0 +1,101 @@
+{
+  "id": "luis-cantar-de-los-cantares",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Declaración del Cantar de los cantares",
+    "en-US": "Exposition of the Song of Songs",
+    "pt-BR": "Declaração do Cântico dos cânticos"
+  },
+  "description": {
+    "es-ES": "Traducción literal del hebreo del Cantar de los cantares, con su declaración, que Fray Luis hizo en romance hacia 1561 y que le valió el proceso de la Inquisición; impresa en 1798. Prólogo, introducción y ocho capítulos.",
+    "en-US": "A literal translation of the Song of Songs from the Hebrew with its commentary, made in Castilian by Fray Luis about 1561, which brought him before the Inquisition; printed in 1798. Prologue, introduction and eight chapters.",
+    "pt-BR": "Tradução literal do hebraico do Cântico dos cânticos, com a sua declaração, que Frei Luís fez em romance por volta de 1561 e que lhe valeu o processo da Inquisição; impressa em 1798. Prólogo, introdução e oito capítulos."
+  },
+  "composed": "1561",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "luis-de-leon/cantar-de-los-cantares",
+  "editions": {
+    "es-ES": {
+      "editor": "es.wikisource transcription of the text in BAE 37",
+      "year": 1855
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://es.wikisource.org/wiki/Declaración_del_cantar_de_los_cantares",
+      "edition": "Cantar de los cantares: Prólogo, Introducción, Capítulo 1-8 and 'declaración' pages, es.wikisource, from Obras de Fray Luis de León, BAE 37 (Madrid 1855).",
+      "description": "Transcription of a public-domain edition.",
+      "tier": "A"
+    }
+  ],
+  "author": {
+    "es-ES": "Fray Luis de León",
+    "en-US": "Fray Luis de León",
+    "pt-BR": "Frei Luís de León"
+  },
+  "toc": [
+    {
+      "id": "prologo",
+      "title": {
+        "es-ES": "Prólogo"
+      }
+    },
+    {
+      "id": "introduccion",
+      "title": {
+        "es-ES": "Introducción"
+      }
+    },
+    {
+      "id": "cap-01",
+      "title": {
+        "es-ES": "Capítulo 1"
+      }
+    },
+    {
+      "id": "cap-02",
+      "title": {
+        "es-ES": "Capítulo 2"
+      }
+    },
+    {
+      "id": "cap-03",
+      "title": {
+        "es-ES": "Capítulo 3"
+      }
+    },
+    {
+      "id": "cap-04",
+      "title": {
+        "es-ES": "Capítulo 4"
+      }
+    },
+    {
+      "id": "cap-05",
+      "title": {
+        "es-ES": "Capítulo 5"
+      }
+    },
+    {
+      "id": "cap-06",
+      "title": {
+        "es-ES": "Capítulo 6"
+      }
+    },
+    {
+      "id": "cap-07",
+      "title": {
+        "es-ES": "Capítulo 7"
+      }
+    },
+    {
+      "id": "cap-08",
+      "title": {
+        "es-ES": "Capítulo 8"
+      }
+    }
+  ]
+}
