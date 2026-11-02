@@ -1,0 +1,210 @@
+{
+  "id": "bellarmine-controversiae-de-baptismo",
+  "cover": "classic",
+  "name": {
+    "la": "De baptismo",
+    "en-US": "On Baptism",
+    "pt-BR": "Sobre o batismo"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Ex Disputationibus de controversiis christianae fidei adversus huius temporis haereticos (1586-93): De baptismo. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "From the Disputations on the Controversies of the Christian Faith (1586-93): the sacrament of baptism. Latin only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "Das Disputas sobre as controvérsias da fé cristã (1586-93): Sobre o batismo."
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/controversiae-de-baptismo",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia03bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 3 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. De nomine, definitione, et partibus Baptismi",
+        "en-US": "Caput I. De nomine, definitione, et partibus Baptismi"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. De materia Baptismi",
+        "en-US": "Caput II. De materia Baptismi"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. De forma Baptismi",
+        "en-US": "Caput III. De forma Baptismi"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. De necessitate et institutione Baptismi",
+        "en-US": "Caput IV. De necessitate et institutione Baptismi"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. Quo tempore coeperit Baptismus esse necessarius",
+        "en-US": "Caput V. Quo tempore coeperit Baptismus esse necessarius"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. De Baptismo sanguinis et flaminis",
+        "en-US": "Caput VI. De Baptismo sanguinis et flaminis"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. De ministro Baptismi",
+        "en-US": "Caput VII. De ministro Baptismi"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII. De Baptismo infantium, contra Anabaptistas",
+        "en-US": "Caput VIII. De Baptismo infantium, contra Anabaptistas"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput XI",
+        "en-US": "Caput XI"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput XII. Qui sint veri, aut falsi effectus Baptismi",
+        "en-US": "Caput XII. Qui sint veri, aut falsi effectus Baptismi"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Caput XIII. Quod Baptismus vere tollat peccatum",
+        "en-US": "Caput XIII. Quod Baptismus vere tollat peccatum"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "la": "Caput XIV. Quod Baptismus non faciat homines impeccabiles",
+        "en-US": "Caput XIV. Quod Baptismus non faciat homines impeccabiles"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "la": "Caput XV. Per Baptismum non liberari homines a servanda lege Dei",
+        "en-US": "Caput XV. Per Baptismum non liberari homines a servanda lege Dei"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "la": "Caput XVI. Per Baptismum non liberari homines ab obligatione legis Ecclesiasticae",
+        "en-US": "Caput XVI. Per Baptismum non liberari homines ab obligatione legis Ecclesiasticae"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "la": "Caput XVII",
+        "en-US": "Caput XVII"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "la": "Caput XVIII",
+        "en-US": "Caput XVIII"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "la": "Caput XIX. De Baptismo Joannis, qui fuerint errores",
+        "en-US": "Caput XIX. De Baptismo Joannis, qui fuerint errores"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "la": "Caput XXI. Baptismum Joannis non habuisse eamdem vim et efficaciam, quam habet Baptismus Christi",
+        "en-US": "Caput XXI. Baptismum Joannis non habuisse eamdem vim et efficaciam, quam habet Baptismus Christi"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "la": "Caput XXII. Quod post Baptismum Joannis necessario percipiendus erat Christi Baptismus",
+        "en-US": "Caput XXII. Quod post Baptismum Joannis necessario percipiendus erat Christi Baptismus"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "la": "Caput XXIII. Solvuntur objectiones",
+        "en-US": "Caput XXIII. Solvuntur objectiones"
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "la": "Caput XXIV. De cceremoniis Baptismi",
+        "en-US": "Caput XXIV. De cceremoniis Baptismi"
+      }
+    },
+    {
+      "id": "c25",
+      "title": {
+        "la": "Caput XXV. Caeremoniae ante Baptismum, sunt duodecim",
+        "en-US": "Caput XXV. Caeremoniae ante Baptismum, sunt duodecim"
+      }
+    },
+    {
+      "id": "c26",
+      "title": {
+        "la": "Caput XXVI",
+        "en-US": "Caput XXVI"
+      }
+    },
+    {
+      "id": "c27",
+      "title": {
+        "la": "Caput XXVII. De caeremoniis, quce sequuntur Baptismum",
+        "en-US": "Caput XXVII. De caeremoniis, quce sequuntur Baptismum"
+      }
+    }
+  ]
+}
