@@ -1,0 +1,279 @@
+{
+  "id": "augustine-sermones-latini-03",
+  "cover": "quarter",
+  "name": {
+    "la": "Sermones 47–149",
+    "en-US": "Sermons 47–149 (Latin)",
+    "pt-BR": "Sermões 47–149 (latim)"
+  },
+  "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
+  },
+  "description": {
+    "la": "Sermones Augustini 47–149, quae in versione Anglica non exstant. Textus Latinus.",
+    "en-US": "39 of Augustine's sermons (47 to 149), Latin text of the Maurist edition (with the post-Maurist additions of Divjak, Dolbeau and others where the source numbers them). These are the sermons not in the English NPNF book; no English translation imported.",
+    "pt-BR": "39 sermões de Santo Agostinho (47 a 149), texto latino da edição dos Maurinos e dos acréscimos posteriores."
+  },
+  "composed": "date varies",
+  "languages": [
+    "la"
+  ],
+  "work": "augustine/sermones",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/discorsi/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages discorsi of augustinus.it, one page per book, long pages split at chapter boundaries. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Sermo 47"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Sermo 48"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Sermo 49"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Sermo 49/A"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Sermo 50"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Sermo 53/A"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "la": "Sermo 60/A"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "la": "Sermo 61/A"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "la": "Sermo 62/A"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "la": "Sermo 63/A"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "la": "Sermo 63/B"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "la": "Sermo 64/A"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "la": "Sermo 65/A"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "la": "Sermo 70/A"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "la": "Sermo 72/A"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "la": "Sermo 73/A"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "la": "Sermo 77/A"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "la": "Sermo 77/B"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "la": "Sermo 77/C"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "la": "Sermo 79/A"
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "la": "Sermo 94/A"
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "la": "Sermo 97/A"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "la": "Sermo 105/A"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "la": "Sermo 107/A"
+      }
+    },
+    {
+      "id": "ch025",
+      "title": {
+        "la": "Sermo 112/A"
+      }
+    },
+    {
+      "id": "ch026",
+      "title": {
+        "la": "Sermo 113/A"
+      }
+    },
+    {
+      "id": "ch027",
+      "title": {
+        "la": "Sermo 113/B"
+      }
+    },
+    {
+      "id": "ch028",
+      "title": {
+        "la": "Sermo 114/A"
+      }
+    },
+    {
+      "id": "ch029",
+      "title": {
+        "la": "Sermo 125/A"
+      }
+    },
+    {
+      "id": "ch030",
+      "title": {
+        "la": "Sermo 132/A"
+      }
+    },
+    {
+      "id": "ch031",
+      "title": {
+        "la": "Sermo 136/A"
+      }
+    },
+    {
+      "id": "ch032",
+      "title": {
+        "la": "Sermo 136/B"
+      }
+    },
+    {
+      "id": "ch033",
+      "title": {
+        "la": "Sermo 136/C"
+      }
+    },
+    {
+      "id": "ch034",
+      "title": {
+        "la": "Sermo 139/A"
+      }
+    },
+    {
+      "id": "ch035",
+      "title": {
+        "la": "Sermo 140/A"
+      }
+    },
+    {
+      "id": "ch036",
+      "title": {
+        "la": "Sermo 145/A"
+      }
+    },
+    {
+      "id": "ch037",
+      "title": {
+        "la": "Sermo 147/A"
+      }
+    },
+    {
+      "id": "ch038",
+      "title": {
+        "la": "Sermo 148"
+      }
+    },
+    {
+      "id": "ch039",
+      "title": {
+        "la": "Sermo 149"
+      }
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  }
+}
