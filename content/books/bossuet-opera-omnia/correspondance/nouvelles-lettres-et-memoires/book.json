@@ -1,0 +1,210 @@
+{
+  "id": "bossuet-nouvelles-lettres-et-memoires",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Nouvelles lettres et mémoires",
+    "en-US": "Further Letters and Memoranda",
+    "pt-BR": "Novas cartas e memoriais"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Lettres de Bossuet découvertes après la publication des tomes précédents (à M. de Lagutère, à Mme de Maintenon, correspondance de Malebranche), et les mémoires et lettres de 1702 au cardinal de Noailles et au chancelier sur l’impression des ouvrages de doctrine des évêques. Édition Lachat (1864), tomes XXX-XXXI.",
+    "en-US": "Letters by Bossuet discovered after the earlier volumes were printed (to M. de Lagutère, to Madame de Maintenon, the Malebranche correspondence), and the memoranda and letters of 1702 to Cardinal de Noailles and the Chancellor on the printing of bishops’ doctrinal works. Lachat edition (1864), volumes XXX-XXXI.",
+    "pt-BR": "Cartas de Bossuet descobertas depois da impressão dos tomos anteriores (ao sr. de Lagutère, à sra. de Maintenon, correspondência de Malebranche) e os memoriais e cartas de 1702 ao cardeal de Noailles e ao chanceler sobre a impressão das obras de doutrina dos bispos. Edição Lachat (1864), tomos XXX-XXXI."
+  },
+  "composed": "1687–1703",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/nouvelles-lettres-et-memoires",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume030/018.htm and volume031/003.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XXX page 018 (Nouvelles lettres) and volume XXXI page 003 (Mémoires et lettres de 1702). The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "l001",
+      "title": {
+        "fr-FR": "Lettre première. Bossuet à M. de Lagutère, Promoteur de C0nd0m. Paris, 29 décembre 1669"
+      }
+    },
+    {
+      "id": "l002",
+      "title": {
+        "fr-FR": "Lettre II. Bossuet à M. de Lagutère, Promoteur de Condom. À Paris, 4 mai 1670"
+      }
+    },
+    {
+      "id": "l003",
+      "title": {
+        "fr-FR": "Lettre III. Bossuet à M. de Lagutère, Promoteur de Condom. À Saint-Germain, 10 mai 1671"
+      }
+    },
+    {
+      "id": "l004",
+      "title": {
+        "fr-FR": "Lettre IV. Bossuet à M. de Lagutère, Promoteur de Condom. À Saint-Germain, 19 février 1672"
+      }
+    },
+    {
+      "id": "l005",
+      "title": {
+        "fr-FR": "Lettre V. (extrait). Malebranche à Bossuet. 1687"
+      }
+    },
+    {
+      "id": "l006",
+      "title": {
+        "fr-FR": "Lettre VI. (extrait). M. d’Allemans à Malebranche. À Champniers, le 30 mars 1667"
+      }
+    },
+    {
+      "id": "l007",
+      "title": {
+        "fr-FR": "Lettre VII. (extrait). M. d’Allemans à Malebranche. À Montardy, ce 1er juin 1687"
+      }
+    },
+    {
+      "id": "l008",
+      "title": {
+        "fr-FR": "Lettre VIII. (extrait). M. d’Allemans à Malebranche. Champniers, 30 octobre 1687"
+      }
+    },
+    {
+      "id": "l009",
+      "title": {
+        "fr-FR": "Lettre IX. Bossuet à M. de Vernon, Procureur du Roi au Présidial de Meaux. À Paris, ce 18 novembre 1686"
+      }
+    },
+    {
+      "id": "l010",
+      "title": {
+        "fr-FR": "Lettre X. Bossuet à la Marquise de Laval. À Germigny, ce 19 août 1689"
+      }
+    },
+    {
+      "id": "l011",
+      "title": {
+        "fr-FR": "Lettre XI. Bossuet à Madame de Maintenon. Paris, 9 juin 1703"
+      }
+    },
+    {
+      "id": "l012",
+      "title": {
+        "fr-FR": "Extrait des Lettres du Chancelier de Pontchartrain"
+      }
+    },
+    {
+      "id": "l013",
+      "title": {
+        "fr-FR": "Mémoire de Bossuet au Chancelier"
+      }
+    },
+    {
+      "id": "l014",
+      "title": {
+        "fr-FR": "Lettre à M. le Cardinal de Noailles. À Germigny, ce 25 octobre 1702"
+      }
+    },
+    {
+      "id": "l015",
+      "title": {
+        "fr-FR": "Premier Mémoire. Présenté à Sa Majesté, le 2 novembre 1702"
+      }
+    },
+    {
+      "id": "l016",
+      "title": {
+        "fr-FR": "Lettre à M. le Cardinal de Noailles. À Germigny, ce 24 octobre 1702"
+      }
+    },
+    {
+      "id": "l017",
+      "title": {
+        "fr-FR": "Iie Mémoire, Ou Requête au Roi, Présentée par M. l’évêque de Meaux"
+      }
+    },
+    {
+      "id": "l018",
+      "title": {
+        "fr-FR": "Iiie Memoire. Sur la Censure d’Un Docteur, à Laquelle On Voudrait Assujettir les Évêques"
+      }
+    },
+    {
+      "id": "l019",
+      "title": {
+        "fr-FR": "Lettre à M. le Cardinal de Noailles. Ce 27 octobre 1702"
+      }
+    },
+    {
+      "id": "l020",
+      "title": {
+        "fr-FR": "Lettre à M. le Cardinal de Noailles. À Meaux, ce 30 octobre 1702"
+      }
+    },
+    {
+      "id": "l021",
+      "title": {
+        "fr-FR": "Lettre à M. le Cardinal de Noailles. À Meaux, ce 31 octobre 1702"
+      }
+    },
+    {
+      "id": "l022",
+      "title": {
+        "fr-FR": "Lettre à M. A Meaux, ce 1er novembre 1702"
+      }
+    },
+    {
+      "id": "l023",
+      "title": {
+        "fr-FR": "Lettre à M. le Cardinal de Noailles. À Germigny, ce 5 novembre 1702"
+      }
+    },
+    {
+      "id": "l024",
+      "title": {
+        "fr-FR": "Lettre à Madame de Maintenon. À Versailles, ce jeudi 16 novembre 1702"
+      }
+    },
+    {
+      "id": "l025",
+      "title": {
+        "fr-FR": "Lettre à M. le Cardinal de Noailles. À Versailles, samedi matin 18 novembre 1702"
+      }
+    },
+    {
+      "id": "l026",
+      "title": {
+        "fr-FR": "Lettre à M. le Cardinal de Noailles. À Versailles, samedi soir 18 novembre 1702"
+      }
+    },
+    {
+      "id": "l027",
+      "title": {
+        "fr-FR": "Ive Mémoire. sur les Ordonnances des Évêques, Pour répondre à la difficulté principale que faisait M. le chancelier"
+      }
+    },
+    {
+      "id": "l028",
+      "title": {
+        "fr-FR": "Ve Mémoire. Sur les Règlements de l’Imprimerie"
+      }
+    }
+  ]
+}
