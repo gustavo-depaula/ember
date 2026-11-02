@@ -1,0 +1,66 @@
+{
+  "id": "bonaventure-sermones-de-beata-virgine-maria",
+  "cover": "classic",
+  "name": {
+    "la": "Sermones de beata Virgine Maria",
+    "en-US": "Sermons on the Blessed Virgin Mary",
+    "pt-BR": "Sermões sobre a bem-aventurada Virgem Maria"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Sermones de festis beatae Virginis Mariae: Purificatione, Annuntiatione, Assumtione, Nativitate. Textus ex editione Quaracchi (Opera omnia IX, 1901), ex scanno OCR, sine notis criticis.",
+    "en-US": "Bonaventure’s sermons for the feasts of the Blessed Virgin: the Purification, Annunciation, Assumption and Nativity. The Latin is the Quaracchi edition (Opera omnia IX, 1901) from an OCR scan, without the editors’ critical notes.",
+    "pt-BR": "Sermões sobre a bem-aventurada Virgem Maria."
+  },
+  "composed": "1250-1274",
+  "languages": [
+    "la"
+  ],
+  "work": "bonaventure/sermones-de-beata-virgine-maria",
+  "editions": {
+    "la": {
+      "editor": "PP. Collegii S. Bonaventurae (Quaracchi)",
+      "year": 1901
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/doctorisseraphic09bona",
+      "edition": "S. Bonaventurae Opera omnia, tom. IX (Ad Claras Aquas, Quaracchi: Collegium S. Bonaventurae, 1901), pp. 633-721.",
+      "description": "Archive.org OCR (djvu.xml word coordinates) of the folio edition. Each page is read in two columns; marginal notes, running heads, the editors’ footnotes (variant readings, cross-references) and small-type notes are removed by layout (line pitch and measure); line-end hyphens are joined; recognisable OCR slips are corrected by a lexicon pass, so some remain. Sermon numbers within each feast follow the edition; where the OCR lost a sermon head the number is inferred.",
+      "tier": "A",
+      "tierEvidence": "Bonaventure died in 1274; the Quaracchi edition of 1901 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "s01",
+      "title": {
+        "la": "De Purificatione beatae Virginis Mariae"
+      }
+    },
+    {
+      "id": "s02",
+      "title": {
+        "la": "De Annuntiatione beatae Virginis Mariae"
+      }
+    },
+    {
+      "id": "s03",
+      "title": {
+        "la": "De Assumtione beatae Virginis Mariae"
+      }
+    },
+    {
+      "id": "s04",
+      "title": {
+        "la": "De Nativitate beatae Virginis Mariae"
+      }
+    }
+  ]
+}
