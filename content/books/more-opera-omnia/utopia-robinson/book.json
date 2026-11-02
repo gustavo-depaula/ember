@@ -1,0 +1,125 @@
+{
+  "id": "more-utopia-robinson",
+  "cover": "classic",
+  "name": {
+    "en-US": "Utopia (Ralph Robinson's translation)",
+    "pt-BR": "Utopia (tradução de Ralph Robinson)"
+  },
+  "author": {
+    "en-US": "St. Thomas More",
+    "pt-BR": "São Tomás More"
+  },
+  "description": {
+    "en-US": "Ralph Robinson's English version (1551) of More's Utopia, in the old spelling of the first printing: Raphael Hythloday's account of the island of Utopia in two books.",
+    "pt-BR": "A versão inglesa de Ralph Robinson (1551) da Utopia de More, na grafia antiga da primeira edição: o relato de Rafael Hitlodéu sobre a ilha de Utopia em dois livros."
+  },
+  "composed": 1516,
+  "languages": [
+    "en-US"
+  ],
+  "work": "more/utopia",
+  "editions": {
+    "en-US": {
+      "editor": "Ralph Robinson, tr. (London: Abraham Vele, 1551)",
+      "year": 1551
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/textcreationpartnership/A07706",
+      "edition": "A fruteful and pleasaunt worke of the beste state of a publyque weale, and of the newe yle called Vtopia (London: 1551), EEBO-TCP A07706.",
+      "description": " EEBO-TCP hand-keyed transcription, original spelling kept. 1031 illegible places in the source are marked […]. Raw TEI in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "St. Thomas More died in 1535; the edition is of 1551 and the TCP transcription is released to the public domain (CC0)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Chapter 1"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "To the right honourable, and his verie singuler good maister, maister William Cecylle esquiere, one of the two"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "Thomas More to Peter Giles sēdeth gretynge"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "The fyrste boke of the communycacion of Raphaell hythlodaye concernynge the best state of a commen wealthe"
+      }
+    },
+    {
+      "id": "part-5",
+      "title": {
+        "en-US": "The second Boke of the communication of Raphael Hythlodaye, concernyng the best state of a common wealthe: cō"
+      },
+      "children": [
+        {
+          "id": "chapter-05",
+          "title": {
+            "en-US": "The second Boke of the communication of Raphael Hythlodaye, concernyng the best state of a common wealthe: cō"
+          }
+        },
+        {
+          "id": "chapter-06",
+          "title": {
+            "en-US": "Of the cyties and namely of Amauro • te"
+          }
+        },
+        {
+          "id": "chapter-07",
+          "title": {
+            "en-US": "Of the Magystrates"
+          }
+        },
+        {
+          "id": "chapter-08",
+          "title": {
+            "en-US": "Of scyences Craftes and Occupatyons"
+          }
+        },
+        {
+          "id": "chapter-09",
+          "title": {
+            "en-US": "Of their lyuing and mutuall conuersatiō together"
+          }
+        },
+        {
+          "id": "chapter-10",
+          "title": {
+            "en-US": "Of their iourneyenge or trauaylynge a brode, with dyuers other matters cunnyngly reasoned & wittilie discussed"
+          }
+        },
+        {
+          "id": "chapter-11",
+          "title": {
+            "en-US": "Of Bondemen, sicke persons, wedlocke, and dyuers other matters"
+          }
+        },
+        {
+          "id": "chapter-12",
+          "title": {
+            "en-US": "Of warfare▪"
+          }
+        },
+        {
+          "id": "chapter-13",
+          "title": {
+            "en-US": "Of the religyons in Vtopia"
+          }
+        }
+      ]
+    }
+  ]
+}

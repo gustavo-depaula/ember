@@ -1,0 +1,21 @@
+{
+ "id": "more-utopia-robinson",
+ "dir": "more-opera-omnia/utopia-robinson",
+ "slug": "utopia-robinson",
+ "work": "more/utopia",
+ "author": "St. Thomas More",
+ "author_pt": "São Tomás More",
+ "died": 1535,
+ "src": "A07706.xml",
+ "name": "Utopia (Ralph Robinson's translation)",
+ "name_pt": "Utopia (tradução de Ralph Robinson)",
+ "desc": "Ralph Robinson's English version (1551) of More's Utopia, in the old spelling of the first printing: Raphael Hythloday's account of the island of Utopia in two books.",
+ "desc_pt": "A versão inglesa de Ralph Robinson (1551) da Utopia de More, na grafia antiga da primeira edição: o relato de Rafael Hitlodéu sobre a ilha de Utopia em dois livros.",
+ "composed": 1516,
+ "editor": "Ralph Robinson, tr. (London: Abraham Vele, 1551)",
+ "year": 1551,
+ "url": "https://github.com/textcreationpartnership/A07706",
+ "edition": "A fruteful and pleasaunt worke of the beste state of a publyque weale, and of the newe yle called Vtopia (London: 1551), EEBO-TCP A07706.",
+ "front": true,
+ "parts": true
+}
