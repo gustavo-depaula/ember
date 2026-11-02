@@ -1,0 +1,1154 @@
+{
+  "id": "caussade-lettres-spirituelles",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Lettres sur la pratique de l’abandon à la Providence divine",
+    "en-US": "Letters on the Practice of Abandonment to Divine Providence",
+    "pt-BR": "Cartas sobre a prática do abandono à Providência divina"
+  },
+  "author": {
+    "fr-FR": "Jean-Pierre de Caussade",
+    "en-US": "Jean-Pierre de Caussade",
+    "pt-BR": "Jean-Pierre de Caussade"
+  },
+  "description": {
+    "fr-FR": "La seconde partie de l’ouvrage publié par le P. Henri Ramière en 1861 : cent quarante-huit lettres spirituelles du P. Jean-Pierre de Caussade, S.J. (1675-1751), pour la plupart aux visitandines de Nancy, rangées en sept livres selon l’ordre de Ramière : estime et amour de l’abandon, son exercice, ses obstacles, puis les épreuves successives des âmes (sécheresses, souffrances, craintes, agonie et mort mystique). Texte de la 7e édition de 1874, avec les notes de l’éditeur. Les lettres sont aujourd’hui contestées en partie : l’édition de J. Gagey (2001) n’en tient que trente-deux pour authentiques. L’Appendice de Ramière (dissertation, textes de Bossuet, de Surin, de François de Sales) n’est pas repris.",
+    "en-US": "The second part of the work published by Fr. Henri Ramière in 1861: one hundred and forty-eight spiritual letters of Fr. Jean-Pierre de Caussade, S.J. (1675-1751), most of them to the Visitation nuns of Nancy, arranged in seven books in Ramière’s order: esteem and love of abandonment, its exercise, its obstacles, then the successive trials of souls (dryness, sufferings, fears, agony and mystic death). The text of the 7th edition of 1874 in French, with the editor’s notes, and E. J. Strickland’s 1921 English, which keeps Ramière’s books and letters one for one. The authenticity of many of the letters is now disputed: J. Gagey’s 2001 edition accepts only thirty-two as genuine. Ramière’s Appendix (a dissertation, texts of Bossuet, Surin and Francis de Sales) is not included.",
+    "pt-BR": "A segunda parte da obra publicada pelo P. Henri Ramière em 1861: cento e quarenta e oito cartas espirituais do P. Jean-Pierre de Caussade, S.J. (1675-1751), na maioria dirigidas às visitandinas de Nancy, dispostas em sete livros na ordem de Ramière: estima e amor do abandono, seu exercício, seus obstáculos e, depois, as provações sucessivas das almas (securas, sofrimentos, temores, agonia e morte mística). A autenticidade de muitas das cartas é hoje contestada: a edição de J. Gagey (2001) tem apenas trinta e duas por autênticas."
+  },
+  "composed": "1730-1744",
+  "languages": [
+    "fr-FR",
+    "en-US"
+  ],
+  "work": "caussade/lettres-spirituelles",
+  "editions": {
+    "fr-FR": {
+      "editor": "P. Henri Ramière, S.J. (7th ed., Paris: Périsse)",
+      "year": 1874
+    },
+    "en-US": {
+      "translator": "E. J. Strickland",
+      "year": 1921
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/labandonlaprovid0001caus",
+      "edition": "L’Abandon à la Providence divine, ouvrage posthume du P. J.-P. de Caussade, 7e édition augmentée, revue et mise en ordre par le P. H. Ramière, Paris: Librairie catholique de Périsse Frères, 1874: t. I (archive.org labandonlaprovid0001caus, Seconde partie, livres I-III) and t. II (archive.org labandonlaprovid0000caus, livres IV-VII). Internet Archive scans, OCR text.",
+      "description": "The 148 letters of the seven books with their addressee, summary and date, and the editor’s notes. The Avant-propos, the Première partie, the approbations, the tables and the Appendice of t. II are not imported. Running heads, page numbers and line-end hyphens were stripped and recurrent OCR misreadings corrected from a vocabulary check against the corpus’s French books (about 125 word-level fixes); some residual OCR slips and a few footnotes cut at a page break remain. Year digits in the headings are as printed; where the OCR was garbled the English heading was followed.",
+      "tier": "A",
+      "tierEvidence": "Caussade died in 1751 and Ramière in 1884; the 1874 edition is public domain everywhere."
+    },
+    {
+      "language": "en-US",
+      "url": "https://ccel.org/ccel/d/decaussade/abandonment/cache/abandonment.txt",
+      "edition": "Abandonment to Divine Providence, translated by E. J. Strickland from the 10th French edition (Ramière), with a preface by Dom Arnold, St. Louis: B. Herder / Exeter: Catholic Records Press, 1921. Christian Classics Ethereal Library plain text (proofed).",
+      "description": "The Second Part, Letters on the practice of abandonment, seven books and 148 letters, with Strickland’s titles, addressees and dates and her two footnotes. Strickland’s indexes and the CCEL link lists are left out.",
+      "tier": "A",
+      "tierEvidence": "Published 1921 (before 1931); CCEL marks it Public Domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "livre-1",
+      "title": {
+        "fr-FR": "Livre premier. Estime et amour de l’abandon",
+        "en-US": "First Book. On the Esteem for and Love of this Virtue"
+      },
+      "children": [
+        {
+          "id": "l1-01",
+          "title": {
+            "fr-FR": "Lettre I. Bonheur et paix inaltérable de l’âme qui s’abandonne entièrement à Dieu",
+            "en-US": "Letter I. Happiness and Peace of Abandonment"
+          }
+        },
+        {
+          "id": "l1-02",
+          "title": {
+            "fr-FR": "Lettre II. L abandon est la voie la plus courte pour arriver au pur amour et à la perfection",
+            "en-US": "Letter II. A Short Way to Perfection"
+          }
+        },
+        {
+          "id": "l1-03",
+          "title": {
+            "fr-FR": "Lettre III. Application à lui-même, Paix profonde dont l’abandon le fait jouir au milieu du tracas des affaires",
+            "en-US": "Letter III. Peace in Turmoil"
+          }
+        },
+        {
+          "id": "l1-04",
+          "title": {
+            "fr-FR": "Lettre IV. Même sujet",
+            "en-US": "Letter IV. Liberty of Spirit"
+          }
+        },
+        {
+          "id": "l1-05",
+          "title": {
+            "fr-FR": "Lettre V. Même sujet",
+            "en-US": "Letter V. Recourse to Providence"
+          }
+        },
+        {
+          "id": "l1-06",
+          "title": {
+            "fr-FR": "Lettre VI. L’’abandon adoucit les énnuis de la solitude",
+            "en-US": "Letter VI. Alone with God"
+          }
+        },
+        {
+          "id": "l1-07",
+          "title": {
+            "fr-FR": "Lettre VII. Bonheur que l’abandon fait goûter à une communauté de Clarisses",
+            "en-US": "Letter VII. A Holy Community"
+          }
+        },
+        {
+          "id": "l1-08",
+          "title": {
+            "fr-FR": "Lettre VIII. Motifs de l’abandon du côté de Dieu : grandeur et bonté divines",
+            "en-US": "Letter VIII. Our Dependence on God"
+          }
+        },
+        {
+          "id": "l1-09",
+          "title": {
+            "fr-FR": "Lettre IX. Nouveau motif de nous abandonner à Dieu : sa paternelle Providence",
+            "en-US": "Letter IX. The Goodness of God"
+          }
+        },
+        {
+          "id": "l1-10",
+          "title": {
+            "fr-FR": "Lettre X. Même sujet",
+            "en-US": "Letter X. Continued Troubles"
+          }
+        },
+        {
+          "id": "l1-11",
+          "title": {
+            "fr-FR": "Lettre XI. Souhaits mutuels des âmes qui ne cherchent que Dieu",
+            "en-US": "Letter XI. Good Wishes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-2",
+      "title": {
+        "fr-FR": "Livre deuxième. Exercice de la vertu d’abandon",
+        "en-US": "Second Book. On the Exercise of the Virtue of Abandonment"
+      },
+      "children": [
+        {
+          "id": "l2-01",
+          "title": {
+            "fr-FR": "Lettre I. Principes et pratique de l’abandon",
+            "en-US": "Letter I. Some General Principles"
+          }
+        },
+        {
+          "id": "l2-02",
+          "title": {
+            "fr-FR": "Lettre II. Plan général du combat spirituel",
+            "en-US": "Letter II. The Three Degrees of Virtue"
+          }
+        },
+        {
+          "id": "l2-03",
+          "title": {
+            "fr-FR": "Lettre III. Premier travail de Dieu dans l’âme",
+            "en-US": "Letter III. The First Work of God in the Soul"
+          }
+        },
+        {
+          "id": "l2-04",
+          "title": {
+            "fr-FR": "Lettre IV. Exercice général de l’abandon",
+            "en-US": "Letter IV. Practice of Abandonment"
+          }
+        },
+        {
+          "id": "l2-05",
+          "title": {
+            "fr-FR": "Lettre V. Moyen d’acquérir l’abandon",
+            "en-US": "Letter V. Means of Acquiring this Practice"
+          }
+        },
+        {
+          "id": "l2-06",
+          "title": {
+            "fr-FR": "Lettre VI. Direction générale",
+            "en-US": "Letter VI. Rules for General Direction"
+          }
+        },
+        {
+          "id": "l2-07",
+          "title": {
+            "fr-FR": "Lettre VII. Même sujet",
+            "en-US": "Letter VII. Rules for Direction"
+          }
+        },
+        {
+          "id": "l2-08",
+          "title": {
+            "fr-FR": "Lettre VIII. Oraison des âmes appelées à la vie d’abandon ; excellents avis sur l’oraison 4° Appliquez-vous à l’oraison par une simple vue du sujet, c’est-à-dire à la seule appréhension de l’objet par la foi, sans autre raisonnement",
+            "en-US": "Letter VIII. Advice on Prayer"
+          }
+        },
+        {
+          "id": "l2-09",
+          "title": {
+            "fr-FR": "Lettre IX. Même sujet; danger de l’illusion dans l’oraison de recueillement",
+            "en-US": "Letter IX. Danger of Delusion Explained"
+          }
+        },
+        {
+          "id": "l2-10",
+          "title": {
+            "fr-FR": "Lettre X. Même sujet",
+            "en-US": "Letter X. Delusions in Prayer"
+          }
+        },
+        {
+          "id": "l2-11",
+          "title": {
+            "fr-FR": "Lettre XI. Exercice de l’abandon dans les divers états de l’âme",
+            "en-US": "Letter XI. The Impressions of the Holy Spirit"
+          }
+        },
+        {
+          "id": "l2-12",
+          "title": {
+            "fr-FR": "Lettre XII. Exercice de l’abandon par la paix de l’âme",
+            "en-US": "Letter XII. Peace and Submission"
+          }
+        },
+        {
+          "id": "l2-13",
+          "title": {
+            "fr-FR": "Lettre XIII. Même sujet",
+            "en-US": "Letter XIII. Peace and Confidence"
+          }
+        },
+        {
+          "id": "l2-14",
+          "title": {
+            "fr-FR": "Lettre XIV. Exercice de l’abandon dans les congolations",
+            "en-US": "Letter XIV. Singular Favours of God"
+          }
+        },
+        {
+          "id": "l2-15",
+          "title": {
+            "fr-FR": "Lettre XV. Même sujet",
+            "en-US": "Letter XV. Heartfelt Prayer"
+          }
+        },
+        {
+          "id": "l2-16",
+          "title": {
+            "fr-FR": "Lettre XVI. Même sujet",
+            "en-US": "Letter XVI. The Operations of Grace"
+          }
+        },
+        {
+          "id": "l2-17",
+          "title": {
+            "fr-FR": "Lettre XVII. Docilité aux impressions intérieures du divin Esprit; attentes pacifiques",
+            "en-US": "Letter XVII. Attraction to the Interior Life"
+          }
+        },
+        {
+          "id": "l2-18",
+          "title": {
+            "fr-FR": "Lettre XVIII. Modérer ses désirs et ses craintes",
+            "en-US": "Letter XVIII. Desires to be Moderated"
+          }
+        },
+        {
+          "id": "l2-19",
+          "title": {
+            "fr-FR": "Lettre XIX. Tendre à la simplicité",
+            "en-US": "Letter XIX. To Aim at Simplicity"
+          }
+        },
+        {
+          "id": "l2-20",
+          "title": {
+            "fr-FR": "Lettre XX. Même sujet",
+            "en-US": "Letter XX. Holy Simplicity"
+          }
+        },
+        {
+          "id": "l2-21",
+          "title": {
+            "fr-FR": "Lettre XXI. Divers attraits de la grâce",
+            "en-US": "Letter XXI. Different Attractions of Grace"
+          }
+        },
+        {
+          "id": "l2-22",
+          "title": {
+            "fr-FR": "Lettre XXII. Abandon dans les épreuves auxquelles est soumise la vocation. Tout ce que vous m’avez dit et écrit me fait connaitre que Dieu vous appelle véritablement à la religion, et en particulier à l’ordre de la Visitation",
+            "en-US": "Letter XXII. Fidelity to the Call of God"
+          }
+        },
+        {
+          "id": "l2-23",
+          "title": {
+            "fr-FR": "Lettre XXIII. Même sujet L’augmentation du désir de vous consacrer à Dieu est une nouvelle grâce de sa miséricorde. Souffrir toute la peine de ne pouvoir accomplir ces ardents désirs, pourvu",
+            "en-US": "Letter XXIII. The Value of Good Desires"
+          }
+        },
+        {
+          "id": "l2-24",
+          "title": {
+            "fr-FR": "Lettre XXIV. Même sujet Vous avez raison de regarder comme une des plus grandes grâces le dessein que Dieu vous a inspiré. C’est",
+            "en-US": "Letter XXIV. The Call of God a Sign of Predestination"
+          }
+        },
+        {
+          "id": "l2-25",
+          "title": {
+            "fr-FR": "Lettre XXV. Mêrre sujet",
+            "en-US": "Letter XXV. God Only Desires What We are Able to Give"
+          }
+        },
+        {
+          "id": "l2-26",
+          "title": {
+            "fr-FR": "Lettre XXVI. Abandon dans les emplois et les entreprises",
+            "en-US": "Letter XXVI. Abandonment as to Employments and Undertakings"
+          }
+        },
+        {
+          "id": "l2-27",
+          "title": {
+            "fr-FR": "Lettre XXVII. Abandon dans l’acceptation des emplois Que la paix de Jésus-Christ règne toujours dans votre cœur, et que la très-sainte volonté de Dieu s’accomplisse toujours en vous et par vous",
+            "en-US": "Letter XXVII. Acceptance of Duties"
+          }
+        },
+        {
+          "id": "l2-28",
+          "title": {
+            "fr-FR": "Lettre XXVIII. Même sujet",
+            "en-US": "Letter XXVIII. To Will Only What God Wills"
+          }
+        },
+        {
+          "id": "l2-29",
+          "title": {
+            "fr-FR": "Lettre XXIX. Même sujet, application à soi-même",
+            "en-US": "Letter XXIX. To Leave All to God"
+          }
+        },
+        {
+          "id": "l2-30",
+          "title": {
+            "fr-FR": "Lettre XXX. Abandon dans les maladies, +",
+            "en-US": "Letter XXX. Resignation in Sickness"
+          }
+        },
+        {
+          "id": "l2-31",
+          "title": {
+            "fr-FR": "Lettre XXXI. Même sujet",
+            "en-US": "Letter XXXI. Conduct in Sickness"
+          }
+        },
+        {
+          "id": "l2-32",
+          "title": {
+            "fr-FR": "Lettre XXXII. Sûüpport du prochain et de soi-même",
+            "en-US": "Letter XXXII. Patience with the Faults of Others"
+          }
+        },
+        {
+          "id": "l2-33",
+          "title": {
+            "fr-FR": "Lettre XXXIII. Support de soi-même",
+            "en-US": "Letter XXXIII. Patience with Oneself"
+          }
+        },
+        {
+          "id": "l2-34",
+          "title": {
+            "fr-FR": "Lettre XXXIV. Préparation aux Sacrements, oraisons, lectures, conduite",
+            "en-US": "Letter XXXIV. Preparation for the Sacraments"
+          }
+        },
+        {
+          "id": "l2-35",
+          "title": {
+            "fr-FR": "Lettre XXXV. Conduite pour le temps passé à la campagne",
+            "en-US": "Letter XXXV. Conduct in a Time of Rest"
+          }
+        },
+        {
+          "id": "l2-36",
+          "title": {
+            "fr-FR": "Lettre XXXVI. Vie et mort. — Consolations et épreuves",
+            "en-US": "Letter XXXVI. On Life and Death"
+          }
+        },
+        {
+          "id": "l2-37",
+          "title": {
+            "fr-FR": "Lettre XXXVII. Même sujet",
+            "en-US": "Letter XXXVII. Not to Desire Consolations"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-3",
+      "title": {
+        "fr-FR": "Livre troisième. Obstacles à l’abandon",
+        "en-US": "Third Book. On the Obstacles to Abandonment"
+      },
+      "children": [
+        {
+          "id": "l3-01",
+          "title": {
+            "fr-FR": "Lettre I. Sentiments de vanité. — Infidélités fréquentes",
+            "en-US": "Letter I. About Vanity and Infidelities"
+          }
+        },
+        {
+          "id": "l3-02",
+          "title": {
+            "fr-FR": "Lettre II. Défauts des commençants",
+            "en-US": "Letter II. The Defects of Beginners"
+          }
+        },
+        {
+          "id": "l3-03",
+          "title": {
+            "fr-FR": "Lettre III. Troubles intérieurs volontairement entretenus ; faiblesse",
+            "en-US": "Letter III. The Illusions of the Devil"
+          }
+        },
+        {
+          "id": "l3-04",
+          "title": {
+            "fr-FR": "Lettre IV. Même sujet",
+            "en-US": "Letter IV. Interior Troubles"
+          }
+        },
+        {
+          "id": "l3-05",
+          "title": {
+            "fr-FR": "Lettre V. Amour des proches. Nancy, 1735",
+            "en-US": "Letter V. On the Love of One’s Neighbour"
+          }
+        },
+        {
+          "id": "l3-06",
+          "title": {
+            "fr-FR": "Lettre VI. Attachements trop sensibles",
+            "en-US": "Letter VI. On Attachments"
+          }
+        },
+        {
+          "id": "l3-07",
+          "title": {
+            "fr-FR": "Lettre VII",
+            "en-US": "Letter VII. Personal Attachments"
+          }
+        },
+        {
+          "id": "l3-08",
+          "title": {
+            "fr-FR": "Lettre VIII. Activité de caractère",
+            "en-US": "Letter VIII. On Natural Activity"
+          }
+        },
+        {
+          "id": "l3-09",
+          "title": {
+            "fr-FR": "Lettre IX. Ardeur excessive des bons désirs",
+            "en-US": "Letter IX. On Excessive Fervour"
+          }
+        },
+        {
+          "id": "l3-10",
+          "title": {
+            "fr-FR": "Lettre X. Empressement dans les bonnes lectures",
+            "en-US": "Letter X. Restraint of Over-Eagerness"
+          }
+        },
+        {
+          "id": "l3-11",
+          "title": {
+            "fr-FR": "Lettre XI. Zèle intempérant et indiscret",
+            "en-US": "Letter XI. Intemperate Zeal"
+          }
+        },
+        {
+          "id": "l3-12",
+          "title": {
+            "fr-FR": "Lettre XII. Répugnance à prendre les soulagements ordonnés",
+            "en-US": "Letter XII. On Obedience"
+          }
+        },
+        {
+          "id": "l3-13",
+          "title": {
+            "fr-FR": "Lettre XIII. Même sujet; attachement à son propre sens",
+            "en-US": "Letter XIII. On being Self-Opinionated"
+          }
+        },
+        {
+          "id": "l3-14",
+          "title": {
+            "fr-FR": "Lettre XIV. Répugnance à se faire connaitre",
+            "en-US": "Letter XIV. On Reserve with a Director"
+          }
+        },
+        {
+          "id": "l3-15",
+          "title": {
+            "fr-FR": "Lettre XV. Découragement",
+            "en-US": "Letter XV. On Discouragement"
+          }
+        },
+        {
+          "id": "l3-16",
+          "title": {
+            "fr-FR": "Lettre XVI. Crainte de se démentir et de se singulariser",
+            "en-US": "Letter XVI. Fear of Singularity"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-4",
+      "title": {
+        "fr-FR": "Livre quatrième. Premières épreuves des âmes appelées à l’état d’abandon : sécheresses, impuissances, dégoûts",
+        "en-US": "Fourth Book. First Trials of Souls called to the State of Abandonment: Dryness, Powerlessness, Disgust"
+      },
+      "children": [
+        {
+          "id": "l4-01",
+          "title": {
+            "fr-FR": "Lettre I. Ensemble de ces épreuves ; direction générale",
+            "en-US": "Letter I. Aridity and Weakness"
+          }
+        },
+        {
+          "id": "l4-02",
+          "title": {
+            "fr-FR": "Lettre II. Vicissitudes intérieures",
+            "en-US": "Letter II. Different States of the Soul"
+          }
+        },
+        {
+          "id": "l4-03",
+          "title": {
+            "fr-FR": "Lettre III. Même sujet. — Abandon",
+            "en-US": "Letter III. Abandonment During Trials"
+          }
+        },
+        {
+          "id": "l4-04",
+          "title": {
+            "fr-FR": "Lettre IV. Obscurités; impuissances",
+            "en-US": "Letter IV. Darkness and Doubts"
+          }
+        },
+        {
+          "id": "l4-05",
+          "title": {
+            "fr-FR": "Lettre V. Impuissances ; distractions",
+            "en-US": "Letter V. Distractions in Prayer"
+          }
+        },
+        {
+          "id": "l4-06",
+          "title": {
+            "fr-FR": "Lettre VI. Même sujet; révoltes intérieures ; pauvreté spirituelle",
+            "en-US": "Letter VI. Fear of Wasting Time"
+          }
+        },
+        {
+          "id": "l4-07",
+          "title": {
+            "fr-FR": "Lettre VII. Ténèbres ; insensibilité",
+            "en-US": "Letter VII. On Darkness and Want of Feeling"
+          }
+        },
+        {
+          "id": "l4-08",
+          "title": {
+            "fr-FR": "Lettre VIII. Sécheresses ; distractions dans l’oraison",
+            "en-US": "Letter VIII. On Dryness and Distractions"
+          }
+        },
+        {
+          "id": "l4-09",
+          "title": {
+            "fr-FR": "Lettre IX. Distractions, ennuis, vivacités",
+            "en-US": "Letter IX. Passive Recollection"
+          }
+        },
+        {
+          "id": "l4-10",
+          "title": {
+            "fr-FR": "Lettre X. Dégoût; paresse",
+            "en-US": "Letter X. The Use of Faults"
+          }
+        },
+        {
+          "id": "l4-11",
+          "title": {
+            "fr-FR": "Lettre XI. Impuissances; souvenir des fautes passéex ; fatigues ; craintes",
+            "en-US": "Letter XI. Remembrance of Past Sins"
+          }
+        },
+        {
+          "id": "l4-12",
+          "title": {
+            "fr-FR": "Lettre XII. Ctilité des épreuves, conduite à tenir",
+            "en-US": "Letter XII. How to make use of trials"
+          }
+        },
+        {
+          "id": "l4-13",
+          "title": {
+            "fr-FR": "Lettre XIII. Même sujet",
+            "en-US": "Letter XIII. The Use of Trials continued"
+          }
+        },
+        {
+          "id": "l4-14",
+          "title": {
+            "fr-FR": "Lettre XIV. Même sujet",
+            "en-US": "Letter XIV. Remedies for Troubles"
+          }
+        },
+        {
+          "id": "l4-15",
+          "title": {
+            "fr-FR": "Lettre XV. Même sujet",
+            "en-US": "Letter XV. Trials to be Endured Peacefully"
+          }
+        },
+        {
+          "id": "l4-16",
+          "title": {
+            "fr-FR": "Lettre XVI. Même sujet",
+            "en-US": "Letter XVI. Sensitiveness about Defects"
+          }
+        },
+        {
+          "id": "l4-17",
+          "title": {
+            "fr-FR": "Lettre XVII. Même sujet",
+            "en-US": "Letter XVII. Confidence in God"
+          }
+        },
+        {
+          "id": "l4-18",
+          "title": {
+            "fr-FR": "Lettre XVIII. Même sujet",
+            "en-US": "Letter XVIII. Sacrifice and Fidelity"
+          }
+        },
+        {
+          "id": "l4-19",
+          "title": {
+            "fr-FR": "Lettre XIX. Utilité des épreuves, lors même qu’elles sont des punitions",
+            "en-US": "Letter XIX. Glorified by Sufferings"
+          }
+        },
+        {
+          "id": "l4-20",
+          "title": {
+            "fr-FR": "Lettre XX. Fruit de ces épreuves : paix profonde",
+            "en-US": "Letter XX. The Fruit of Trials"
+          }
+        },
+        {
+          "id": "l4-21",
+          "title": {
+            "fr-FR": "Lettre XXI. Même sujet",
+            "en-US": "Letter XXI. Things Painful to Nature"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-5",
+      "title": {
+        "fr-FR": "Livre cinquième. Nouvelles épreuves : souffrances, afflictions, privations",
+        "en-US": "Fifth Book. New Trials: Sufferings, Afflictions, Privations"
+      },
+      "children": [
+        {
+          "id": "l5-01",
+          "title": {
+            "fr-FR": "Lettre I. Maladie, son utilité, Règles à suivre",
+            "en-US": "Letter I. Rules to be Observed in Illness"
+          }
+        },
+        {
+          "id": "l5-02",
+          "title": {
+            "fr-FR": "Lettre II. Souffrances de divers genres",
+            "en-US": "Letter II. Different Sufferings"
+          }
+        },
+        {
+          "id": "l5-03",
+          "title": {
+            "fr-FR": "Lettre III. Désastres et calamités publics",
+            "en-US": "Letter III. On Public Calamities"
+          }
+        },
+        {
+          "id": "l5-04",
+          "title": {
+            "fr-FR": "Lettre IV. Opposition d’humeurs et de caractères |",
+            "en-US": "Letter IV. Opportunities for Practising Charity"
+          }
+        },
+        {
+          "id": "l5-05",
+          "title": {
+            "fr-FR": "Lettre V. Même sujet",
+            "en-US": "Letter V. Profit to be gained by Patient Endurance"
+          }
+        },
+        {
+          "id": "l5-06",
+          "title": {
+            "fr-FR": "Lettre VI. Contrariétés de divers genres",
+            "en-US": "Letter VI. Difficulties"
+          }
+        },
+        {
+          "id": "l5-07",
+          "title": {
+            "fr-FR": "Lettre VII. Même sujet. — Règles à suivre",
+            "en-US": "Letter VII. Rules for Difficult Circumstances"
+          }
+        },
+        {
+          "id": "l5-08",
+          "title": {
+            "fr-FR": "Lettre VIII. Contrariétés de la part des gens de bien",
+            "en-US": "Letter VIII. Annoyances caused by Good People"
+          }
+        },
+        {
+          "id": "l5-09",
+          "title": {
+            "fr-FR": "Lettre IX. Même sujet",
+            "en-US": "Letter IX. How to Bear these Trials"
+          }
+        },
+        {
+          "id": "l5-10",
+          "title": {
+            "fr-FR": "Lettre X. Voir Dieu dans ces épreuves",
+            "en-US": "Letter X. To see God in our Trials"
+          }
+        },
+        {
+          "id": "l5-11",
+          "title": {
+            "fr-FR": "Lettre XI. Privation des appuis humains",
+            "en-US": "Letter XI. To Seek God’s Help Alone"
+          }
+        },
+        {
+          "id": "l5-12",
+          "title": {
+            "fr-FR": "Lettre XII. Eloignement du directeur",
+            "en-US": "Letter XII. God Alone"
+          }
+        },
+        {
+          "id": "l5-13",
+          "title": {
+            "fr-FR": "Lettre XIII. Même sujet",
+            "en-US": "Letter XIII. Reliance on God Alone"
+          }
+        },
+        {
+          "id": "l5-14",
+          "title": {
+            "fr-FR": "Lettre XIV. Abandon dans les épreuves de ce genre",
+            "en-US": "Letter XIV. Abandonment in Trials"
+          }
+        },
+        {
+          "id": "l5-15",
+          "title": {
+            "fr-FR": "Lettre XV. Utilité de ces afflictions",
+            "en-US": "Letter XV. The Use of Afflictions"
+          }
+        },
+        {
+          "id": "l5-16",
+          "title": {
+            "fr-FR": "Lettre XVI. Même sujet",
+            "en-US": "Letter XVI. Detachment"
+          }
+        },
+        {
+          "id": "l5-17",
+          "title": {
+            "fr-FR": "Lettre XVII. Conduite à tenir dans ces épreuves",
+            "en-US": "Letter XVII. Conduct during Trials"
+          }
+        },
+        {
+          "id": "l5-18",
+          "title": {
+            "fr-FR": "Lettre XVIII. Même sujet",
+            "en-US": "Letter XVIII. Will of God to be Preferred"
+          }
+        },
+        {
+          "id": "l5-19",
+          "title": {
+            "fr-FR": "Lettre XIX. Bonheur des âmes qui s’abandonnent à Dieu dans leurs afflictions",
+            "en-US": "Letter XIX. The Happiness of Resignation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-6",
+      "title": {
+        "fr-FR": "Livre sixième. Suites des épreuves : crainte, incertitude, abandon apparent",
+        "en-US": "Sixth Book. Continuation of the Trials: Fear, Uncertainty, Apparent Abandonment"
+      },
+      "children": [
+        {
+          "id": "l6-01",
+          "title": {
+            "fr-FR": "Lettre I. Tentations, craintes d’y céder",
+            "en-US": "Letter I. On Temptations"
+          }
+        },
+        {
+          "id": "l6-02",
+          "title": {
+            "fr-FR": "Lettre II. Crainte des tentations elles-mêmes",
+            "en-US": "Letter II. The Fear of Temptation"
+          }
+        },
+        {
+          "id": "l6-03",
+          "title": {
+            "fr-FR": "Lettre III. Explication de l’état d’une âme tentée, et des desseins de Dieu sur elle",
+            "en-US": "Letter III. The State of One Tempted"
+          }
+        },
+        {
+          "id": "l6-04",
+          "title": {
+            "fr-FR": "Lettre IV. Diverses tentations",
+            "en-US": "Letter IV. Different Temptations"
+          }
+        },
+        {
+          "id": "l6-05",
+          "title": {
+            "fr-FR": "Lettre V. Crainte de manquer de souinission envers Dieu",
+            "en-US": "Letter V. The Fear of Being Wanting in Submission"
+          }
+        },
+        {
+          "id": "l6-06",
+          "title": {
+            "fr-FR": "Lettre VI. La crainte de déplaire à Dieu peut être l’effet de l’’amour-propre",
+            "en-US": "Letter VI. Fear Caused by Self-Love"
+          }
+        },
+        {
+          "id": "l6-07",
+          "title": {
+            "fr-FR": "Lettre VII. Crainte de manquer de bonne volonté",
+            "en-US": "Letter VII. The Want of Good-Will"
+          }
+        },
+        {
+          "id": "l6-08",
+          "title": {
+            "fr-FR": "Lettre VIII. Crainte d’aimer les créatures plus que Dieu",
+            "en-US": "Letter VIII. The Love of Creatures and of God"
+          }
+        },
+        {
+          "id": "l6-09",
+          "title": {
+            "fr-FR": "Lettre IX. Crainte de déplaire à Dieu et de tromper les créatures",
+            "en-US": "Letter IX. The Love of Creatures and of God"
+          }
+        },
+        {
+          "id": "l6-10",
+          "title": {
+            "fr-FR": "Lettre X. © A LA SŒUR MARIE-THÉRÈSE DE VIOMÉNIL Crainte de ne pas avancer et de ne pas faire assez de pénitence",
+            "en-US": "Letter X. Fear of Making No Progress"
+          }
+        },
+        {
+          "id": "l6-11",
+          "title": {
+            "fr-FR": "Lettre XI. Crainte au sujet des confessions",
+            "en-US": "Letter XI. On Fears About Confession"
+          }
+        },
+        {
+          "id": "l6-12",
+          "title": {
+            "fr-FR": "Lettre XII. Même sujet",
+            "en-US": "Letter XII. Rules to Free Oneself from these Fears"
+          }
+        },
+        {
+          "id": "l6-13",
+          "title": {
+            "fr-FR": "Lettre XIII. Crainte au sujet de la contrition",
+            "en-US": "Letter XIII. On Fears About Contrition"
+          }
+        },
+        {
+          "id": "l6-14",
+          "title": {
+            "fr-FR": "Lettre XIV. Confession générale",
+            "en-US": "Letter XIV. On General Confession"
+          }
+        },
+        {
+          "id": "l6-15",
+          "title": {
+            "fr-FR": "Lettre XV. Même sujet.— Diverses craintes",
+            "en-US": "Letter XV. Different Fears"
+          }
+        },
+        {
+          "id": "l6-16",
+          "title": {
+            "fr-FR": "Lettre XVI. Même sujet. — Diverses craintes",
+            "en-US": "Letter XVI. Hatred of Sin"
+          }
+        },
+        {
+          "id": "l6-17",
+          "title": {
+            "fr-FR": "Lettre XVII. Reproches de la conscience. — Révoltes des passions",
+            "en-US": "Letter XVII. Remorse and Rebellion"
+          }
+        },
+        {
+          "id": "l6-18",
+          "title": {
+            "fr-FR": "Lettre XVIII. Même sujet",
+            "en-US": "Letter XVIII. God Alone can Remove These Trials"
+          }
+        },
+        {
+          "id": "l6-19",
+          "title": {
+            "fr-FR": "Lettre XIX. Même sujet ; rechutes",
+            "en-US": "Letter XIX. On Relapses"
+          }
+        },
+        {
+          "id": "l6-20",
+          "title": {
+            "fr-FR": "Lettre XX. Abattement dans les épreuves, distractions, ressentiment",
+            "en-US": "Letter XX. Depression under Trials"
+          }
+        },
+        {
+          "id": "l6-21",
+          "title": {
+            "fr-FR": "Lettre XXI. Même sujet",
+            "en-US": "Letter XXI. On Humble Silence and Patience During Trials"
+          }
+        },
+        {
+          "id": "l6-22",
+          "title": {
+            "fr-FR": "Lettre XXII. Sentiment de sa misère; embarras extérieurs",
+            "en-US": "Letter XXII. To Bear With Oneself"
+          }
+        },
+        {
+          "id": "l6-23",
+          "title": {
+            "fr-FR": "Lettre XXIII. Fautes passées Alby, 23 juillet 1733",
+            "en-US": "Letter XXIII. On Past Sins"
+          }
+        },
+        {
+          "id": "l6-24",
+          "title": {
+            "fr-FR": "Lettre XXIV. Suites fâcheuses de nos imprudences",
+            "en-US": "Letter XXIV. Results of Imprudence"
+          }
+        },
+        {
+          "id": "l6-25",
+          "title": {
+            "fr-FR": "Lettre XXV. Règles à suivre dans ces épreuves",
+            "en-US": "Letter XXV. Interior Suffering"
+          }
+        },
+        {
+          "id": "l6-26",
+          "title": {
+            "fr-FR": "Lettre XXVI. Même sujet Atby, 1733",
+            "en-US": "Letter XXVI. On Different States of Resignation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-7",
+      "title": {
+        "fr-FR": "Livre septième. Dernières épreuves : agonie et mort mystique",
+        "en-US": "Seventh Book. Last Trials: Agony and Mystic Death"
+      },
+      "children": [
+        {
+          "id": "l7-01",
+          "title": {
+            "fr-FR": "Lettre I. Nudité intérieure. — Anéantissement. — Tentation de désespoii",
+            "en-US": "Letter I. Temptation to Despair"
+          }
+        },
+        {
+          "id": "l7-02",
+          "title": {
+            "fr-FR": "Lettre II. Même sujet",
+            "en-US": "Letter II. Good Symptoms"
+          }
+        },
+        {
+          "id": "l7-03",
+          "title": {
+            "fr-FR": "Lettre III. Accablement intérieur",
+            "en-US": "Letter III. Interior Oppression"
+          }
+        },
+        {
+          "id": "l7-04",
+          "title": {
+            "fr-FR": "Lettre IV. Même sujet",
+            "en-US": "Letter IV. Purification of the Heart"
+          }
+        },
+        {
+          "id": "l7-05",
+          "title": {
+            "fr-FR": "Lettre V. Vide du cœur",
+            "en-US": "Letter V. On Emptiness of Heart"
+          }
+        },
+        {
+          "id": "l7-06",
+          "title": {
+            "fr-FR": "Lettre VI. Même sujet ; redoublement de peines",
+            "en-US": "Letter VI. Fresh Suffering"
+          }
+        },
+        {
+          "id": "l7-07",
+          "title": {
+            "fr-FR": "Lettre VII. Même sujet",
+            "en-US": "Letter VII. Supernatural Fears"
+          }
+        },
+        {
+          "id": "l7-08",
+          "title": {
+            "fr-FR": "Lettre VIII. Tentations violentes",
+            "en-US": "Letter VIII. Violent Temptations"
+          }
+        },
+        {
+          "id": "l7-09",
+          "title": {
+            "fr-FR": "Lettre IX. Anéantissement et agonie spirituelle",
+            "en-US": "Letter IX. Death of Self-Love"
+          }
+        },
+        {
+          "id": "l7-10",
+          "title": {
+            "fr-FR": "Lettre X. Mort mystique. Son utilité Lunéville, 1133",
+            "en-US": "Letter X. On Mystical Death"
+          }
+        },
+        {
+          "id": "l7-11",
+          "title": {
+            "fr-FR": "Lettre XI. Même sujet. — Avant la retraite",
+            "en-US": "Letter XI. For the Time of Retreat"
+          }
+        },
+        {
+          "id": "l7-12",
+          "title": {
+            "fr-FR": "Lettre XII. Même sujet. — Après la retraite, 4 novembre 1734",
+            "en-US": "Letter XII. After the Retreat"
+          }
+        },
+        {
+          "id": "l7-13",
+          "title": {
+            "fr-FR": "Lettre XIII. Purgatoire de l’âme",
+            "en-US": "Letter XIII. The Fear of Reprobation"
+          }
+        },
+        {
+          "id": "l7-14",
+          "title": {
+            "fr-FR": "Lettre XIV. Explication de ces épreuves. — Direction Nancy, 17384",
+            "en-US": "Letter XIV. Explanations and Direction"
+          }
+        },
+        {
+          "id": "l7-15",
+          "title": {
+            "fr-FR": "Lettre XV. Même sujet",
+            "en-US": "Letter XV. Perfect Detachment"
+          }
+        },
+        {
+          "id": "l7-16",
+          "title": {
+            "fr-FR": "Lettre XVI. Explication du désespoir apparent",
+            "en-US": "Letter XVI. Explanation of Apparent Despair"
+          }
+        },
+        {
+          "id": "l7-17",
+          "title": {
+            "fr-FR": "Lettre XVII. Pratique de l’abandon au sein de ces épreuves",
+            "en-US": "Letter XVII. Abandonment in Trials"
+          }
+        },
+        {
+          "id": "l7-18",
+          "title": {
+            "fr-FR": "Lettre XVIII. Fruit de la mort totale à soi-même",
+            "en-US": "Letter XVIII. Fruit of Death to Self"
+          }
+        }
+      ]
+    }
+  ]
+}
