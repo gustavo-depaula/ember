@@ -1,0 +1,62 @@
+{
+  "id": "bonaventure-de-reductione-artium",
+  "cover": "classic",
+  "name": {
+    "la": "De reductione artium ad theologiam",
+    "en-US": "On the Reduction of the Arts to Theology",
+    "pt-BR": "Sobre a redução das artes à teologia"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Libellus de sex luminibus (artis mechanicae, cognitionis sensitivae, philosophicae, gratiae et sacrae Scripturae), qui omnes cognitiones ad sacram Scripturam reducit. Textus ex editione Quaracchi, ut in Vicifontibus.",
+    "en-US": "A short treatise on the four lights that come down from the Father of lights (the mechanical arts, sense knowledge, philosophy and Scripture) and how every kind of knowledge is led back to sacred theology. The Latin is the Quaracchi text as on Wikisource; the English is Sister Emma Thérèse Healy’s 1940 translation from the facing-page edition of the Franciscan Institute, without her introduction and commentary.",
+    "pt-BR": "Breve tratado sobre as luzes que descem do Pai das luzes (as artes mecânicas, o conhecimento sensível, a filosofia e a Escritura) e sobre como todo saber é reconduzido à sagrada teologia."
+  },
+  "composed": "c. 1255",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "work": "bonaventure/de-reductione-artium",
+  "editions": {
+    "la": {
+      "editor": "PP. Collegii S. Bonaventurae (Quaracchi), via Wikisource",
+      "year": 1891
+    },
+    "en-US": {
+      "translator": "Sister Emma Thérèse Healy",
+      "year": 1940
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/De_reductione_artium_ad_theologiam",
+      "edition": "De reductione artium ad theologiam (Opera omnia V, Quaracchi 1891), la.wikisource transcription (edition not stated).",
+      "description": "The complete text in 26 numbered sections; the section numbers are kept.",
+      "tier": "A",
+      "tierEvidence": "Bonaventure died in 1274."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/worksofsaintbona01bona",
+      "edition": "Saint Bonaventure’s De reductione artium ad theologiam, a commentary with an introduction and translation by Sister Emma Thérèse Healy (Works of St. Bonaventure I; St. Bonaventure, N.Y., 1940; 2nd ed. 1955).",
+      "description": "Only the English of the facing-page text is imported; the introduction, commentary and the Latin are left out.",
+      "tier": "B",
+      "tierEvidence": "Archive.org records “Copyright review: Public domain according to HathiTrust rights database” (not renewed)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "textus",
+      "title": {
+        "la": "De reductione artium ad theologiam",
+        "en-US": "On the Reduction of the Arts to Theology"
+      }
+    }
+  ]
+}
