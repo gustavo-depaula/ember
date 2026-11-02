@@ -1,0 +1,318 @@
+{
+  "id": "dante-monarchia",
+  "cover": "classic",
+  "name": {
+    "la": "Monarchia",
+    "en-US": "Monarchia (On Monarchy)",
+    "pt-BR": "Monarquia (De monarchia)"
+  },
+  "author": {
+    "it": "Dante Alighieri",
+    "la": "Dante Alighieri",
+    "en-US": "Dante Alighieri",
+    "pt-BR": "Dante Alighieri"
+  },
+  "description": {
+    "la": "Dantis Alagherii Monarchia: tractatus de temporali Monarchia in tres libros divisus (c. 1312-1318). Liber primus probat Monarchiam ad bene esse mundi necessariam; secundus populum Romanum de iure Imperium sibi ascivisse; tertius auctoritatem Imperatoris a Deo immediate, non a summo Pontifice, dependere.",
+    "en-US": "Dante’s treatise on temporal monarchy in three books (c. 1312-1318): that a universal monarchy is necessary for the well-being of the world; that the Roman people took the Empire by right; and that the authority of the Emperor depends immediately on God and not on the Pope. The Latin follows the transcription on The Latin Library (the Società Dantesca Italiana text). Its third book is divided into fifteen chapters in this source; some editions reckon sixteen.",
+    "pt-BR": "O tratado de Dante sobre a monarquia temporal, em três livros (c. 1312-1318): a monarquia universal é necessária ao bem do mundo; o povo romano tomou o Império por direito; a autoridade do Imperador depende imediatamente de Deus, e não do Papa."
+  },
+  "composed": "1312-1318",
+  "languages": [
+    "la"
+  ],
+  "work": "dante/monarchia",
+  "editions": {
+    "la": {
+      "editor": "Società Dantesca Italiana text (Prue Shaw / Rostagno tradition), as transcribed on The Latin Library"
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.thelatinlibrary.com/dante/mon1.shtml",
+      "edition": "Monarchia, books I-III (mon1, mon2, mon3 on The Latin Library), the Società Dantesca Italiana text.",
+      "description": "All three books, chapters and paragraph numbers as in the source (I 16 chapters, II 11, III 15). The site’s navigation and footer are dropped. The English of F. J. Church (1878, Gutenberg #33896) and Aurelia Henry (1904) is not imported.",
+      "tier": "A",
+      "tierEvidence": "The Latin Library pages are an anonymous, freely distributed transcription of the Società Dantesca Italiana text; the work is medieval and public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "liber-1",
+      "title": {
+        "la": "Liber primus"
+      },
+      "children": [
+        {
+          "id": "liber-1-cap01",
+          "title": {
+            "la": "Liber primus, caput I"
+          }
+        },
+        {
+          "id": "liber-1-cap02",
+          "title": {
+            "la": "Liber primus, caput II"
+          }
+        },
+        {
+          "id": "liber-1-cap03",
+          "title": {
+            "la": "Liber primus, caput III"
+          }
+        },
+        {
+          "id": "liber-1-cap04",
+          "title": {
+            "la": "Liber primus, caput IV"
+          }
+        },
+        {
+          "id": "liber-1-cap05",
+          "title": {
+            "la": "Liber primus, caput V"
+          }
+        },
+        {
+          "id": "liber-1-cap06",
+          "title": {
+            "la": "Liber primus, caput VI"
+          }
+        },
+        {
+          "id": "liber-1-cap07",
+          "title": {
+            "la": "Liber primus, caput VII"
+          }
+        },
+        {
+          "id": "liber-1-cap08",
+          "title": {
+            "la": "Liber primus, caput VIII"
+          }
+        },
+        {
+          "id": "liber-1-cap09",
+          "title": {
+            "la": "Liber primus, caput IX"
+          }
+        },
+        {
+          "id": "liber-1-cap10",
+          "title": {
+            "la": "Liber primus, caput X"
+          }
+        },
+        {
+          "id": "liber-1-cap11",
+          "title": {
+            "la": "Liber primus, caput XI"
+          }
+        },
+        {
+          "id": "liber-1-cap12",
+          "title": {
+            "la": "Liber primus, caput XII"
+          }
+        },
+        {
+          "id": "liber-1-cap13",
+          "title": {
+            "la": "Liber primus, caput XIII"
+          }
+        },
+        {
+          "id": "liber-1-cap14",
+          "title": {
+            "la": "Liber primus, caput XIV"
+          }
+        },
+        {
+          "id": "liber-1-cap15",
+          "title": {
+            "la": "Liber primus, caput XV"
+          }
+        },
+        {
+          "id": "liber-1-cap16",
+          "title": {
+            "la": "Liber primus, caput XVI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-2",
+      "title": {
+        "la": "Liber secundus"
+      },
+      "children": [
+        {
+          "id": "liber-2-cap01",
+          "title": {
+            "la": "Liber secundus, caput I"
+          }
+        },
+        {
+          "id": "liber-2-cap02",
+          "title": {
+            "la": "Liber secundus, caput II"
+          }
+        },
+        {
+          "id": "liber-2-cap03",
+          "title": {
+            "la": "Liber secundus, caput III"
+          }
+        },
+        {
+          "id": "liber-2-cap04",
+          "title": {
+            "la": "Liber secundus, caput IV"
+          }
+        },
+        {
+          "id": "liber-2-cap05",
+          "title": {
+            "la": "Liber secundus, caput V"
+          }
+        },
+        {
+          "id": "liber-2-cap06",
+          "title": {
+            "la": "Liber secundus, caput VI"
+          }
+        },
+        {
+          "id": "liber-2-cap07",
+          "title": {
+            "la": "Liber secundus, caput VII"
+          }
+        },
+        {
+          "id": "liber-2-cap08",
+          "title": {
+            "la": "Liber secundus, caput VIII"
+          }
+        },
+        {
+          "id": "liber-2-cap09",
+          "title": {
+            "la": "Liber secundus, caput IX"
+          }
+        },
+        {
+          "id": "liber-2-cap10",
+          "title": {
+            "la": "Liber secundus, caput X"
+          }
+        },
+        {
+          "id": "liber-2-cap11",
+          "title": {
+            "la": "Liber secundus, caput XI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-3",
+      "title": {
+        "la": "Liber tertius"
+      },
+      "children": [
+        {
+          "id": "liber-3-cap01",
+          "title": {
+            "la": "Liber tertius, caput I"
+          }
+        },
+        {
+          "id": "liber-3-cap02",
+          "title": {
+            "la": "Liber tertius, caput II"
+          }
+        },
+        {
+          "id": "liber-3-cap03",
+          "title": {
+            "la": "Liber tertius, caput III"
+          }
+        },
+        {
+          "id": "liber-3-cap04",
+          "title": {
+            "la": "Liber tertius, caput IV"
+          }
+        },
+        {
+          "id": "liber-3-cap05",
+          "title": {
+            "la": "Liber tertius, caput V"
+          }
+        },
+        {
+          "id": "liber-3-cap06",
+          "title": {
+            "la": "Liber tertius, caput VI"
+          }
+        },
+        {
+          "id": "liber-3-cap07",
+          "title": {
+            "la": "Liber tertius, caput VII"
+          }
+        },
+        {
+          "id": "liber-3-cap08",
+          "title": {
+            "la": "Liber tertius, caput VIII"
+          }
+        },
+        {
+          "id": "liber-3-cap09",
+          "title": {
+            "la": "Liber tertius, caput IX"
+          }
+        },
+        {
+          "id": "liber-3-cap10",
+          "title": {
+            "la": "Liber tertius, caput X"
+          }
+        },
+        {
+          "id": "liber-3-cap11",
+          "title": {
+            "la": "Liber tertius, caput XI"
+          }
+        },
+        {
+          "id": "liber-3-cap12",
+          "title": {
+            "la": "Liber tertius, caput XII"
+          }
+        },
+        {
+          "id": "liber-3-cap13",
+          "title": {
+            "la": "Liber tertius, caput XIII"
+          }
+        },
+        {
+          "id": "liber-3-cap14",
+          "title": {
+            "la": "Liber tertius, caput XIV"
+          }
+        },
+        {
+          "id": "liber-3-cap15",
+          "title": {
+            "la": "Liber tertius, caput XV"
+          }
+        }
+      ]
+    }
+  ]
+}
