@@ -1,0 +1,136 @@
+{
+  "id": "teresa-exclamaciones-stanbrook",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Exclamations of the Soul to God (Stanbrook)",
+    "pt-BR": "Exclamações da alma a Deus (Stanbrook)"
+  },
+  "author": {
+    "es-ES": "Santa Teresa de Jesús",
+    "en-US": "St. Teresa of Ávila",
+    "pt-BR": "Santa Teresa de Ávila"
+  },
+  "description": {
+    "en-US": "St. Teresa's exclamations written in 1569 after Communion, in the English of the Benedictines of Stanbrook edited by Benedict Zimmerman, with his notes. Sixteen exclamations; the Spanish text, in seventeen, is the book Exclamaciones del alma a Dios.",
+    "pt-BR": "As exclamações de Santa Teresa de 1569 na versão inglesa das Beneditinas de Stanbrook."
+  },
+  "composed": "1569",
+  "languages": [
+    "en-US"
+  ],
+  "work": "teresa-of-avila/exclamaciones-stanbrook",
+  "editions": {
+    "en-US": {
+      "translator": "Benedictines of Stanbrook",
+      "year": 1913
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/minorworksofstte00tere",
+      "edition": "The Minor Works of St. Teresa, translated by the Benedictines of Stanbrook, edited with notes and an introduction by Benedict Zimmerman, O.C.D., London: Thomas Baker, 1913 (Exclamations, pp. 77–110). Wellesley College scan.",
+      "description": "English translation with Zimmerman's notes and paragraph numbers. Stanbrook prints 16 exclamations where Silverio has 17 (its XVI runs Silverio's XVI and XVII together), so it is its own book rather than the English side of the Spanish one. The OCR is rough: several footnotes are run into the text.",
+      "tier": "A",
+      "tierEvidence": "Published 1913 (before 1930: public domain in the US); Zimmerman (†1937) died long ago or published anonymously over 70 years ago (UK); archive.org marks the scan NOT_IN_COPYRIGHT."
+    }
+  ],
+  "toc": [
+    {
+      "id": "e01",
+      "title": {
+        "en-US": "Exclamation I"
+      }
+    },
+    {
+      "id": "e02",
+      "title": {
+        "en-US": "Exclamation II"
+      }
+    },
+    {
+      "id": "e03",
+      "title": {
+        "en-US": "Exclamation III"
+      }
+    },
+    {
+      "id": "e04",
+      "title": {
+        "en-US": "Exclamation IV"
+      }
+    },
+    {
+      "id": "e05",
+      "title": {
+        "en-US": "Exclamation V"
+      }
+    },
+    {
+      "id": "e06",
+      "title": {
+        "en-US": "Exclamation VI"
+      }
+    },
+    {
+      "id": "e07",
+      "title": {
+        "en-US": "Exclamation VII"
+      }
+    },
+    {
+      "id": "e08",
+      "title": {
+        "en-US": "Exclamation VIII"
+      }
+    },
+    {
+      "id": "e09",
+      "title": {
+        "en-US": "Exclamation IX"
+      }
+    },
+    {
+      "id": "e10",
+      "title": {
+        "en-US": "Exclamation X"
+      }
+    },
+    {
+      "id": "e11",
+      "title": {
+        "en-US": "Exclamation XI"
+      }
+    },
+    {
+      "id": "e12",
+      "title": {
+        "en-US": "Exclamation XII"
+      }
+    },
+    {
+      "id": "e13",
+      "title": {
+        "en-US": "Exclamation XIII"
+      }
+    },
+    {
+      "id": "e14",
+      "title": {
+        "en-US": "Exclamation XIV"
+      }
+    },
+    {
+      "id": "e15",
+      "title": {
+        "en-US": "Exclamation XV"
+      }
+    },
+    {
+      "id": "e16",
+      "title": {
+        "en-US": "Exclamation XVI"
+      }
+    }
+  ]
+}
