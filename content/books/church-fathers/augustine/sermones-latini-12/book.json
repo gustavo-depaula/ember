@@ -1,0 +1,165 @@
+{
+  "id": "augustine-sermones-latini-12",
+  "cover": "quarter",
+  "name": {
+    "la": "Sermones 293/A (aucta)–374 augm",
+    "en-US": "Sermons 293/A (aucta)–374 augm (Latin)",
+    "pt-BR": "Sermões 293/A (aucta)–374 augm (latim)"
+  },
+  "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
+  },
+  "description": {
+    "la": "Sermones Augustini 293/A (aucta)–374 augm, quae in versione Anglica non exstant. Textus Latinus.",
+    "en-US": "20 of Augustine's sermons (293/A (aucta) to 374 augm), Latin text of the Maurist edition (with the post-Maurist additions of Divjak, Dolbeau and others where the source numbers them). These are the sermons not in the English NPNF book; no English translation imported.",
+    "pt-BR": "20 sermões de Santo Agostinho (293/A (aucta) a 374 augm), texto latino da edição dos Maurinos e dos acréscimos posteriores."
+  },
+  "composed": "date varies",
+  "languages": [
+    "la"
+  ],
+  "work": "augustine/sermones",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/discorsi/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages discorsi of augustinus.it, one page per book, long pages split at chapter boundaries. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Sermo 293/A (aucta)"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Sermo 299/A (aucta)"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Sermo 114/B"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Sermo 23/B"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Sermo 142 (aucta)"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Sermo 29/B"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "la": "Sermo 162/C"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "la": "Sermo 90/A"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "la": "Sermo 354/A"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "la": "Sermo 159/A"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "la": "Sermo 352/A"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "la": "Sermo 283 (aucta)"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "la": "Sermo 72 (aucta)"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "la": "Sermo 110/A"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "la": "Sermo 306/E"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "la": "Sermo 130/A"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "la": "Sermo 14/A"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "la": "Sermo 159/B"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "la": "Sermo 341 (aucta)"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "la": "Sermo 374 augm"
+      }
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  }
+}
