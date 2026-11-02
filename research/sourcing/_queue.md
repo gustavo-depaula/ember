@@ -4,7 +4,7 @@ The first wave (one or two works per author) is done. This queue imports each au
 
 - [ ] Teresa of Ávila (rest)
 - [x] Peter of Alcántara · John of Ávila. Left, needing page images or a cleaner OCR: Alcántara's Breve introducción and De tres cosas; Ávila's temporal and santoral sermons, 77 letters and the treatise-letters 184–197 (BAC OCR); see PROBLEMS.md
-- [ ] John of the Cross (rest: Cántico A, Llama B, poems, minor works, letters)
+- [x] John of the Cross. Left: the English letters, poems and maxims (Lewis/Zimmerman, as separate books), Grados de perfección, the Antequera/Gerona/María de Jesús Avisos, Pacho's extra letters
 - [ ] Thérèse of Lisieux (rest: letters, poems, plays, prayers)
 - [ ] Ignatius of Loyola (rest)
 - [ ] Louis of Granada
