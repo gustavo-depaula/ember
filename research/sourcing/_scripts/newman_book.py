@@ -22,7 +22,9 @@ def convert_multi(path, title):
     pages = path.split('+')
     body, foot, warn, off = [], [], [], 0
     for i, pg in enumerate(pages):
-        md, w = n.convert(n.ROOT + pg, title)
+        pg, _, sl = pg.partition('@')
+        a, _, z = sl.partition(':')
+        md, w = n.convert(n.ROOT + pg, title, start=a or None, stop=z or None)
         warn += w
         if i == 0 and title is None: title = md.split('\n', 1)[0][2:].strip()
         md = re.sub(r'\[\^(\d+)\]', lambda m: '[^%d]' % (int(m.group(1)) + off), md)
@@ -47,7 +49,7 @@ def build(cfg):
         open('%s/en-US/%s.md' % (root, cid), 'w').write(md)
         words += len(md.split())
         flat.append({'id': cid, 'title': {'en-US': title}})
-        for pg in ([] if path == 'verses/dedication' else path.split('+')):
+        for pg in ([] if path == 'verses/dedication' else [x.partition('@')[0] for x in path.split('+')]):
             raw.append('===== %s =====\n%s\n' % (pg, n.norm(' '.join(b for t, b in n.blocks(n.body(n.ROOT + pg))))))
     parts = cfg.get('parts')
     if parts:

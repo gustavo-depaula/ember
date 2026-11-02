@@ -1,0 +1,69 @@
+{
+  "id": "newman-shorter-catholic-writings",
+  "cover": "classic",
+  "name": {
+    "en-US": "Shorter Writings of a Catholic",
+    "pt-BR": "Escritos Menores do Período Católico"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "Four shorter pieces Newman published as a Catholic: Cathedra Sempiterna, a short Latin-titled note on the See of Peter (1867); On Consulting the Faithful in Matters of Doctrine, from the Rambler of 1859; Five Letters to his nephew John Rickards Mozley (1875), in defence of the Catholic position; and On the Inspiration of Scripture, the Nineteenth Century essays of 1884.",
+    "pt-BR": "Quatro escritos menores que Newman publicou como católico: Cathedra Sempiterna, breve nota sobre a Sé de Pedro (1867); Sobre a Consulta aos Fiéis em Matéria de Doutrina, do Rambler de 1859; Cinco Cartas ao sobrinho John Rickards Mozley (1875), em defesa da posição católica; e Sobre a Inspiração da Escritura, os ensaios do Nineteenth Century de 1884."
+  },
+  "composed": "1859-1884",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/shorter-catholic-writings",
+  "editions": {
+    "en-US": {
+      "editor": "John Henry Newman (Newman Reader transcriptions of the Rambler, the Nineteenth Century and the Contemporary Review texts)",
+      "year": 1884
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.newmanreader.org/works/miscellaneous/cathedra.html",
+      "edition": "Cathedra Sempiterna (Dublin Review/Weekly Register 1867); On Consulting the Faithful in Matters of Doctrine (Rambler, July 1859); Five Letters to J. R. Mozley (Contemporary Review, Sept. 1899); On the Inspiration of Scripture (Nineteenth Century, Feb. and May 1884), as transcribed by the Newman Reader.",
+      "description": "5 chapters: Newman Reader page numbers, navigation and its editorial remarks are dropped; Newman's own notes are kept as footnotes. Each piece is its own Newman Reader page. The index URL above is the first page; the others are miscellaneous/jrmozley.html, miscellaneous/scripture.html and rambler/consulting.html. Raw page text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890 and the text is of a Longmans impression (or earlier edition) before 1930. The Newman Reader page footers claim copyright in the site's transcription (c) 2007 NINS; a plain transcription of a public-domain text adds no authorship under US law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "cathedra-sempiterna",
+      "title": {
+        "en-US": "Cathedra Sempiterna"
+      }
+    },
+    {
+      "id": "consulting-the-faithful",
+      "title": {
+        "en-US": "On Consulting the Faithful in Matters of Doctrine"
+      }
+    },
+    {
+      "id": "five-letters-to-mozley",
+      "title": {
+        "en-US": "Five Letters by Cardinal Newman"
+      }
+    },
+    {
+      "id": "inspiration-of-scripture-1",
+      "title": {
+        "en-US": "On the Inspiration of Scripture, Essay I"
+      }
+    },
+    {
+      "id": "inspiration-of-scripture-2",
+      "title": {
+        "en-US": "On the Inspiration of Scripture, Essay II: Further Illustrations"
+      }
+    }
+  ]
+}

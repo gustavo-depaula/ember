@@ -27,6 +27,7 @@ def index_links(path):
     return out
 
 def inline(h, para=True):
+    h = re.sub(r'<(i|em|b)\s[^>]*>', r'<\1>', h)
     h = re.sub(r'<font[^>]*><b>\[</b></font>.*?NR\]</b></font>', '', h, flags=re.S)
     h = re.sub(r'</?font[^>]*>', '', h)
     def _marker(m):
@@ -110,13 +111,17 @@ def blocks(s):
                 t = inline(p)
                 if t: out.append(('q', t))
             continue
-        if tag == 'p' and ('href="#top"' in b or norm(b).startswith('—NR') or ('Contents' in b and 'Works' in b and 'Home' in b) or ('Newman Reader' in b and 'Copyright' in b)): continue
+        if tag == 'p' and (norm(b).startswith('Link:') or '**NR**' in inline(b) and len(norm(b)) < 140 or 'href="#top"' in b or norm(b).startswith('—NR') or ('Contents' in b and 'Works' in b and 'Home' in b) or ('Newman Reader' in b and 'Copyright' in b)): continue
         out.append((tag, b))
     return out
 
-def convert(url, title=None, keep_first_heading=False):
+def convert(url, title=None, keep_first_heading=False, start=None, stop=None):
     """-> (markdown, warnings). title: H1 text; the page's first h2 is dropped (it is the title)."""
     bl = blocks(body(url))
+    if start:
+        bl = bl[next(k for k, (t, b) in enumerate(bl) if t.startswith('h') and norm(b).startswith(start)):]
+    if stop:
+        bl = bl[:next(k for k, (t, b) in enumerate(bl) if t.startswith('h') and norm(b).startswith(stop))]
     nidx = next((k for k, (t, b) in enumerate(bl) if t == 'h3' and norm(b) in ('Note', 'Notes')), len(bl))
     if nidx < len(bl) and all(t in ('hr', 'h1', 'h2') or not n_.strip() for t, n_ in bl[:nidx]) and title and 'Notes' in title: nidx = len(bl)
     notes, last = {}, None
@@ -162,9 +167,12 @@ def convert(url, title=None, keep_first_heading=False):
     text = re.sub(r'\x00(\d+)\x01', lambda m: '[^%s]' % m.group(1), text)
     text = text.rstrip() + '\n'
     if refs:
-        for r in dict.fromkeys(refs):
-            if r not in notes: warn.append('%s: ref %s has no note' % (url, r))
-        text += '\n' + '\n'.join('[^%s]: %s' % (r, notes.get(r, '')) for r in dict.fromkeys(refs)) + '\n'
+        gone = [r for r in dict.fromkeys(refs) if r not in notes]
+        for r in gone:  # a marker whose note is only an editorial remark of the Newman Reader
+            text = text.replace('[^%s]' % r, '')
+            warn.append('%s: ref %s has no note (marker dropped)' % (url, r))
+        refs = [r for r in refs if r in notes]
+        if refs: text = text.rstrip() + '\n\n' + '\n'.join('[^%s]: %s' % (r, notes[r]) for r in dict.fromkeys(refs)) + '\n'
     unused = set(notes) - set(refs)
     if unused: warn.append('%s: notes without refs %s' % (url, sorted(unused, key=int)))
     return re.sub(r'\n{3,}', '\n\n', text), warn

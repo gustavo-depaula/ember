@@ -1,0 +1,41 @@
+{
+ "slug": "shorter-catholic-writings",
+ "id": "newman-shorter-catholic-writings",
+ "name": "Shorter Writings of a Catholic",
+ "name_pt": "Escritos Menores do Período Católico",
+ "desc": "Four shorter pieces Newman published as a Catholic: Cathedra Sempiterna, a short Latin-titled note on the See of Peter (1867); On Consulting the Faithful in Matters of Doctrine, from the Rambler of 1859; Five Letters to his nephew John Rickards Mozley (1875), in defence of the Catholic position; and On the Inspiration of Scripture, the Nineteenth Century essays of 1884.",
+ "desc_pt": "Quatro escritos menores que Newman publicou como católico: Cathedra Sempiterna, breve nota sobre a Sé de Pedro (1867); Sobre a Consulta aos Fiéis em Matéria de Doutrina, do Rambler de 1859; Cinco Cartas ao sobrinho John Rickards Mozley (1875), em defesa da posição católica; e Sobre a Inspiração da Escritura, os ensaios do Nineteenth Century de 1884.",
+ "composed": "1859-1884",
+ "editor": "John Henry Newman (Newman Reader transcriptions of the Rambler, the Nineteenth Century and the Contemporary Review texts)",
+ "year": 1884,
+ "index": "miscellaneous/cathedra.html",
+ "edition": "Cathedra Sempiterna (Dublin Review/Weekly Register 1867); On Consulting the Faithful in Matters of Doctrine (Rambler, July 1859); Five Letters to J. R. Mozley (Contemporary Review, Sept. 1899); On the Inspiration of Scripture (Nineteenth Century, Feb. and May 1884), as transcribed by the Newman Reader.",
+ "note": "Each piece is its own Newman Reader page. The index URL above is the first page; the others are miscellaneous/jrmozley.html, miscellaneous/scripture.html and rambler/consulting.html.",
+ "chapters": [
+  [
+   "miscellaneous/cathedra.html",
+   "cathedra-sempiterna",
+   null
+  ],
+  [
+   "rambler/consulting.html",
+   "consulting-the-faithful",
+   "On Consulting the Faithful in Matters of Doctrine"
+  ],
+  [
+   "miscellaneous/jrmozley.html",
+   "five-letters-to-mozley",
+   null
+  ],
+  [
+   "miscellaneous/scripture.html@:Essay II",
+   "inspiration-of-scripture-1",
+   "On the Inspiration of Scripture, Essay I"
+  ],
+  [
+   "miscellaneous/scripture.html@Essay II",
+   "inspiration-of-scripture-2",
+   "On the Inspiration of Scripture, Essay II: Further Illustrations"
+  ]
+ ]
+}
