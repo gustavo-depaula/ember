@@ -2,15 +2,26 @@
   "id": "augustine-baptism-against-the-donatists",
   "cover": "quarter",
   "name": {
+    "la": "De baptismo contra Donatistas",
     "en-US": "On Baptism, Against the Donatists"
   },
   "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
     "en-US": "Augustine of Hippo"
   },
   "languages": [
+    "la",
     "en-US"
   ],
   "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/sul_battesimo/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages sul_battesimo of augustinus.it, one page per book/letter/sermon, split to the same chapter files as the English. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    },
     {
       "language": "en-US",
       "url": "http://www.newadvent.org/fathers/1408.htm",
@@ -21,47 +32,66 @@
     {
       "id": "ch001",
       "title": {
+        "la": "Liber I",
         "en-US": "Book 1"
       }
     },
     {
       "id": "ch002",
       "title": {
+        "la": "Liber II",
         "en-US": "Book 2"
       }
     },
     {
       "id": "ch003",
       "title": {
+        "la": "Liber III",
         "en-US": "Book 3"
       }
     },
     {
       "id": "ch004",
       "title": {
+        "la": "Liber IV",
         "en-US": "Book 4"
       }
     },
     {
       "id": "ch005",
       "title": {
+        "la": "Liber V",
         "en-US": "Book 5"
       }
     },
     {
       "id": "ch006",
       "title": {
+        "la": "Liber VI",
         "en-US": "Book 6"
       }
     },
     {
       "id": "ch007",
       "title": {
+        "la": "Liber VII",
         "en-US": "Book 7"
       }
     }
   ],
   "arrived": {
-    "en-US": "2026-06-04"
+    "en-US": "2026-06-04",
+    "la": "2026-11-02"
+  },
+  "work": "augustine/de-baptismo",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    },
+    "en-US": {
+      "translator": "J",
+      "year": 1887
+    }
   }
 }
