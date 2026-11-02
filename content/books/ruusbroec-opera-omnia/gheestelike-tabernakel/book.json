@@ -1,0 +1,996 @@
+{
+  "id": "ruusbroec-gheestelike-tabernakel",
+  "cover": "classic",
+  "name": {
+    "dum": "Vanden gheesteliken tabernakel",
+    "en-US": "The Spiritual Tabernacle",
+    "pt-BR": "O Tabernáculo Espiritual"
+  },
+  "author": {
+    "dum": "Jan van Ruusbroec (1293-1381)",
+    "en-US": "Bl. John Ruusbroec (1293-1381)",
+    "pt-BR": "Bem-aventurado João Ruusbroec (1293-1381)"
+  },
+  "description": {
+    "dum": "Ruusbroecs omvangrijkste werk: een allegorische uitlegging van de tabernakel, het priesterschap en de offers van het Oude Verbond op Christus, de sacramenten en het innerlijk leven. Middelnederlandse tekst van J. B. David (1858).",
+    "en-US": "Ruusbroec's longest work: an allegorical reading of the tabernacle, the priesthood and the sacrifices of the Old Law as Christ, the sacraments and the interior life. The Middle Dutch text of J. B. David (1858).",
+    "pt-BR": "A mais extensa obra de Ruusbroec: leitura alegórica do tabernáculo, do sacerdócio e dos sacrifícios da Antiga Lei como Cristo, os sacramentos e a vida interior. Texto em neerlandês médio de J. B. David (1858)."
+  },
+  "composed": "c. 1350",
+  "languages": [
+    "dum"
+  ],
+  "work": "ruusbroec/gheestelike-tabernakel",
+  "editions": {
+    "dum": {
+      "editor": "Jan Baptist David",
+      "year": 1858
+    }
+  },
+  "sources": [
+    {
+      "language": "dum",
+      "url": "https://www.dbnl.org/tekst/ruus001vlae02_01/",
+      "edition": "Jan van Ruusbroec, Werken, ed. J. B. David, deel 2: Hier beghint dat boec van den gheesteleken tabernacule. (Gent: Maetschappy der Vlaemsche Bibliophilen, 1858).",
+      "description": "Keyed text from DBNL (TEI XML, 'auteursrechtvrij'), converted by research/sourcing/_scripts/rhineland/ruus_build.py. Line-end hyphens joined; page and line breaks dropped. David's apparatus is kept as footnotes (manuscript variants F, G, I, L, M, D, Surius' Latin readings 'Sur.'). David's Dutch preface, manuscript list, misprint list and glossary are not included.",
+      "tier": "A",
+      "tierEvidence": "Nineteenth-century critical edition, marked 'Auteursrechtvrij' on DBNL."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologhe",
+      "title": {
+        "dum": "Prologhe"
+      }
+    },
+    {
+      "id": "c001",
+      "title": {
+        "dum": "I. Dat ierste principael Poent"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "dum": "II. Hoe Christus die figure volbrachte int verbont alles kerstens volcs"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "dum": "III. Dat ander principael Poent"
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "dum": "IV. Van den Kerchove"
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "dum": "V. Van den gheesteleken Kerchove des tabernakels"
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "dum": "VI. Vander olien toter lampen"
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "dum": "VII. Dat derde principael poent"
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "dum": "VIII. Dat vierde principael Poent"
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "dum": "IX. Van der bediedenessen Moyses ende des tabernakels"
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "dum": "X. Van der bediedenessen der namen Beseleel, ende Oliab, ende Huri ende Hur. Van den namen Aaron ende Ithamar"
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "dum": "XI. Van den cortinen des Tabernakels"
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "dum": "XII. Van den decsele van gheitenen hare"
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "dum": "XIII. Van den decsele van roden weders vellen"
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "dum": "XIV. Van den oversten decsele van blauwen weders vellen"
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "dum": "XV. Van den tafelen ende haren baesschen"
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "dum": "XVI. Vanden drien godeleken dogeden"
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "dum": "XVII. Van den grindelen ende den ringen des tabernakel"
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "dum": "XVIII. Vander bediedenessen der grindelen bedekt met guldenen platen"
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "dum": "XIX. Vander cortinen ende vanden colummen staende in den tabernakele vore dat heilege der heilegen"
+      }
+    },
+    {
+      "id": "c020",
+      "title": {
+        "dum": "XX. Vander cortinen ende den colummen van den inganc des tabernakels"
+      }
+    },
+    {
+      "id": "c021",
+      "title": {
+        "dum": "XXI. Dat vijfte principael Poent"
+      }
+    },
+    {
+      "id": "c022",
+      "title": {
+        "dum": "XXII. Van den guldenen candelare"
+      }
+    },
+    {
+      "id": "c023",
+      "title": {
+        "dum": "XXIII. Van Den geesteleken candelare"
+      }
+    },
+    {
+      "id": "c024",
+      "title": {
+        "dum": "XXIV. Vanden zeven gaven des heilegen Geests"
+      }
+    },
+    {
+      "id": "c025",
+      "title": {
+        "dum": "XXV. Vander gaven der wijsheit"
+      }
+    },
+    {
+      "id": "c026",
+      "title": {
+        "dum": "XXVI. Vander gaven der Verstendecheit"
+      }
+    },
+    {
+      "id": "c027",
+      "title": {
+        "dum": "XXVII. Vander gaven der Const"
+      }
+    },
+    {
+      "id": "c028",
+      "title": {
+        "dum": "XXVIII. Vander gaven des Raets"
+      }
+    },
+    {
+      "id": "c029",
+      "title": {
+        "dum": "XXIX. Vander gaven der Goedertierenheit"
+      }
+    },
+    {
+      "id": "c030",
+      "title": {
+        "dum": "XXX. Vander gaven der Starcheit"
+      }
+    },
+    {
+      "id": "c031",
+      "title": {
+        "dum": "XXXI. Vander gaven der Vresen ons heren"
+      }
+    },
+    {
+      "id": "c032",
+      "title": {
+        "dum": "XXXII. Van den zeven guldenen scaren ende den vaten den brant te blusscene"
+      }
+    },
+    {
+      "id": "c033",
+      "title": {
+        "dum": "XXXIII. Vanden gewichte des Candelaren"
+      }
+    },
+    {
+      "id": "c034",
+      "title": {
+        "dum": "XXXIV. Vanden outare der specien"
+      }
+    },
+    {
+      "id": "c035",
+      "title": {
+        "dum": "XXXV. Vanden Lavore van ere"
+      }
+    },
+    {
+      "id": "c036",
+      "title": {
+        "dum": "XXXVI. Vander cledinghen der priesters"
+      }
+    },
+    {
+      "id": "c037",
+      "title": {
+        "dum": "XXXVII. Vanden viere clederen der ghemeine priesters"
+      }
+    },
+    {
+      "id": "c038",
+      "title": {
+        "dum": "XXXVIII. Vander cledinghen des oversten priesters"
+      }
+    },
+    {
+      "id": "c039",
+      "title": {
+        "dum": "XXXIX. Van des bisscops Gurdele"
+      }
+    },
+    {
+      "id": "c040",
+      "title": {
+        "dum": "XL. Van des bisscops Rationale ocht Redeleke"
+      }
+    },
+    {
+      "id": "c041",
+      "title": {
+        "dum": "XLI. Vanden iersten stene, ende vanden iersten artikele ons gheloefs"
+      }
+    },
+    {
+      "id": "c042",
+      "title": {
+        "dum": "XLII. Van den naesten artikele ons gheloefs"
+      }
+    },
+    {
+      "id": "c043",
+      "title": {
+        "dum": "XLIII. Vanden derden artikele ons gheloefs"
+      }
+    },
+    {
+      "id": "c044",
+      "title": {
+        "dum": "XLIV. Vanden vierden artikele ons gheloefs"
+      }
+    },
+    {
+      "id": "c045",
+      "title": {
+        "dum": "XLV. Vanden vyften artikele ons gheloeves"
+      }
+    },
+    {
+      "id": "c046",
+      "title": {
+        "dum": "XLVI. Van den sesten artikele ons gheloeves"
+      }
+    },
+    {
+      "id": "c047",
+      "title": {
+        "dum": "XLVII. Vanden sevenden artikele des gheloves"
+      }
+    },
+    {
+      "id": "c048",
+      "title": {
+        "dum": "XLVIII. Van den achtenden artikele ons gheloeves"
+      }
+    },
+    {
+      "id": "c049",
+      "title": {
+        "dum": "XLIX. Vanden negheden artikele des gheloefs"
+      }
+    },
+    {
+      "id": "c050",
+      "title": {
+        "dum": "L. Van den tiende artikele ons gheloefs"
+      }
+    },
+    {
+      "id": "c051",
+      "title": {
+        "dum": "LI. Vanden ellefsten artikele ons gheloves"
+      }
+    },
+    {
+      "id": "c052",
+      "title": {
+        "dum": "LII. Vanden twelefsten artikele ons gheloves"
+      }
+    },
+    {
+      "id": "c053",
+      "title": {
+        "dum": "LIII. Vanden viere regghelen der stene ende der artikelen ons gheloefs"
+      }
+    },
+    {
+      "id": "c054",
+      "title": {
+        "dum": "LIV. Vanden ·iiij· guldenen rincskenen ende den ·ij· ketenkenen des Redeleken"
+      }
+    },
+    {
+      "id": "c055",
+      "title": {
+        "dum": "LV. Vander mitren des oversten priesters"
+      }
+    },
+    {
+      "id": "c056",
+      "title": {
+        "dum": "LVI. Vander guldener platen"
+      }
+    },
+    {
+      "id": "c057",
+      "title": {
+        "dum": "LVII. Vander heilegher olien der salvinghen"
+      }
+    },
+    {
+      "id": "c058",
+      "title": {
+        "dum": "LVIII. Vander Mirre"
+      }
+    },
+    {
+      "id": "c059",
+      "title": {
+        "dum": "LIX. Van Cinnamomen"
+      }
+    },
+    {
+      "id": "c060",
+      "title": {
+        "dum": "LX. Van Calamus aromaticus"
+      }
+    },
+    {
+      "id": "c061",
+      "title": {
+        "dum": "LXI. Van Cassia"
+      }
+    },
+    {
+      "id": "c062",
+      "title": {
+        "dum": "LXII. Vander olien van olive"
+      }
+    },
+    {
+      "id": "c063",
+      "title": {
+        "dum": "LXIII. Vander bediedenessen der heilegher olien"
+      }
+    },
+    {
+      "id": "c064",
+      "title": {
+        "dum": "LXIV. Hoe dat Moyses den tabernakel ende die priesteren wyde ende consacreerde"
+      }
+    },
+    {
+      "id": "c065",
+      "title": {
+        "dum": "LXV. Vanden sacrificien der nuwer wet"
+      }
+    },
+    {
+      "id": "c066",
+      "title": {
+        "dum": "LXVI. Vander opverstennessen ende openbaringhen Christi"
+      }
+    },
+    {
+      "id": "c067",
+      "title": {
+        "dum": "LXVII. Vander Gemelvaert ons Geren"
+      }
+    },
+    {
+      "id": "c068",
+      "title": {
+        "dum": "LXVIII. Van Cinxen"
+      }
+    },
+    {
+      "id": "c069",
+      "title": {
+        "dum": "LXIX. Van den onderscede tusschen die sacramente der Synagogen ende der heilegher Kerken"
+      }
+    },
+    {
+      "id": "c070",
+      "title": {
+        "dum": "LXX. Van neghen vlecken van liede die onwerdech sijn priestercap te hebbene"
+      }
+    },
+    {
+      "id": "c071",
+      "title": {
+        "dum": "LXXI. Vander ierster vlecken"
+      }
+    },
+    {
+      "id": "c072",
+      "title": {
+        "dum": "LXXII. Vander anderen vlecken"
+      }
+    },
+    {
+      "id": "c073",
+      "title": {
+        "dum": "LXXIII. Vander derder, vierder en vyfter vlecken"
+      }
+    },
+    {
+      "id": "c074",
+      "title": {
+        "dum": "LXXIV. Vander sester vlecken"
+      }
+    },
+    {
+      "id": "c075",
+      "title": {
+        "dum": "LXXV. Vander sevender vlecken"
+      }
+    },
+    {
+      "id": "c076",
+      "title": {
+        "dum": "LXXVI. Vander achtender vlecken"
+      }
+    },
+    {
+      "id": "c077",
+      "title": {
+        "dum": "LXXVII. Van Oncuuscheit"
+      }
+    },
+    {
+      "id": "c078",
+      "title": {
+        "dum": "LXXVIII. Vanden quaden ghevolghen ende vander remediën der oncuuscheit"
+      }
+    },
+    {
+      "id": "c079",
+      "title": {
+        "dum": "LXXIX. Vanden remedien ieghen Gulsecheit"
+      }
+    },
+    {
+      "id": "c080",
+      "title": {
+        "dum": "LXXX. Vander neghender vlecken"
+      }
+    },
+    {
+      "id": "c081",
+      "title": {
+        "dum": "LXXXI. Hoe dat Christus onse hande ende voete dwaet, ende hoe hi ons wiet"
+      }
+    },
+    {
+      "id": "c082",
+      "title": {
+        "dum": "LXXXII. Wat die sacrificie bedieden die Aaron ende sine sonen offerden, als mense priester wyede. Ende ierst vanden calve"
+      }
+    },
+    {
+      "id": "c083",
+      "title": {
+        "dum": "LXXXIII. Vanden vette dat die binnenste bedecte, van het netteken der leveren, vanden tween nieren, ende van dat vette dat over hen was"
+      }
+    },
+    {
+      "id": "c084",
+      "title": {
+        "dum": "LXXXIV. Vander huut"
+      }
+    },
+    {
+      "id": "c085",
+      "title": {
+        "dum": "LXXXV. Vanden messe"
+      }
+    },
+    {
+      "id": "c086",
+      "title": {
+        "dum": "LXXXVI. Vander anderen offeranden"
+      }
+    },
+    {
+      "id": "c087",
+      "title": {
+        "dum": "LXXXVII. Vander derder offeranden"
+      }
+    },
+    {
+      "id": "c088",
+      "title": {
+        "dum": "LXXXVIII. Vander deilinghen der offeranden"
+      }
+    },
+    {
+      "id": "c089",
+      "title": {
+        "dum": "LXXXIX. Van den steerte"
+      }
+    },
+    {
+      "id": "c090",
+      "title": {
+        "dum": "XC. Vander rechter scouderen ende den ·iij· broeden"
+      }
+    },
+    {
+      "id": "c091",
+      "title": {
+        "dum": "XCI. Vanden iersten broede"
+      }
+    },
+    {
+      "id": "c092",
+      "title": {
+        "dum": "XCII. Vanden anderen broede"
+      }
+    },
+    {
+      "id": "c093",
+      "title": {
+        "dum": "XCIII. Vanden derden broede"
+      }
+    },
+    {
+      "id": "c094",
+      "title": {
+        "dum": "XCIV. Vander borst der verheffinghen"
+      }
+    },
+    {
+      "id": "c095",
+      "title": {
+        "dum": "XCV. Van het spraien des bloets op den priesteren ende haren clederen"
+      }
+    },
+    {
+      "id": "c096",
+      "title": {
+        "dum": "XCVI. Vander Sacrificien der Priestere vore hen selven"
+      }
+    },
+    {
+      "id": "c097",
+      "title": {
+        "dum": "XCVII. Vanden ·v· offeranden voor den volke"
+      }
+    },
+    {
+      "id": "c098",
+      "title": {
+        "dum": "XCVIII. Vander naesten offeranden des volcs"
+      }
+    },
+    {
+      "id": "c099",
+      "title": {
+        "dum": "XCIX. Vanden derden offere des volx"
+      }
+    },
+    {
+      "id": "c100",
+      "title": {
+        "dum": "C. Vander offeranden der aermen"
+      }
+    },
+    {
+      "id": "c101",
+      "title": {
+        "dum": "CI. Vanden tween jonghen huus duven"
+      }
+    },
+    {
+      "id": "c102",
+      "title": {
+        "dum": "CII. Van enen anderen offere der aerme menschen"
+      }
+    },
+    {
+      "id": "c103",
+      "title": {
+        "dum": "CIII. Vanden vierden offere des volx"
+      }
+    },
+    {
+      "id": "c104",
+      "title": {
+        "dum": "CIV. Vanden vyften offere der Synagoghen"
+      }
+    },
+    {
+      "id": "c105",
+      "title": {
+        "dum": "CV. Van dat netteken der leveren"
+      }
+    },
+    {
+      "id": "c106",
+      "title": {
+        "dum": "CVI. Vanden nieren enden nierkenen"
+      }
+    },
+    {
+      "id": "c107",
+      "title": {
+        "dum": "CVII. Vander rechter scouderen ende der borsten"
+      }
+    },
+    {
+      "id": "c108",
+      "title": {
+        "dum": "CVIII. Vanden anderen vleesche der offeranden"
+      }
+    },
+    {
+      "id": "c109",
+      "title": {
+        "dum": "CIX. Vander daghelijkscher sacrificien"
+      }
+    },
+    {
+      "id": "c110",
+      "title": {
+        "dum": "CX. Vanden alderheilichsten Sacramente"
+      }
+    },
+    {
+      "id": "c111",
+      "title": {
+        "dum": "CXI. Vander geesteleker bediedenessen galbaens ende wieroox"
+      }
+    },
+    {
+      "id": "c112",
+      "title": {
+        "dum": "CXII. Vanden zeven lampten des goudenen candelaers"
+      }
+    },
+    {
+      "id": "c113",
+      "title": {
+        "dum": "CXIII. Vander werdegher sacrificien Christi"
+      }
+    },
+    {
+      "id": "c114",
+      "title": {
+        "dum": "CXIV. Van den vrybocke ende anderen sacrificien"
+      }
+    },
+    {
+      "id": "c115",
+      "title": {
+        "dum": "CXV. Bediedenesse van deser figuren"
+      }
+    },
+    {
+      "id": "c116",
+      "title": {
+        "dum": "CXVI. Noch van Aarons sacrificien ende siner navolgheren"
+      }
+    },
+    {
+      "id": "c117",
+      "title": {
+        "dum": "CXVII. Vanden maecsele der Tafelen der propositien"
+      }
+    },
+    {
+      "id": "c118",
+      "title": {
+        "dum": "CXVIII. Vanden broden die op der tafelen laghen"
+      }
+    },
+    {
+      "id": "c119",
+      "title": {
+        "dum": "CXIX. Van den ·XXIIIJ· joetschen priesteren ende hunnen ambachte"
+      }
+    },
+    {
+      "id": "c120",
+      "title": {
+        "dum": "CXX. Vanden Paeschlamme"
+      }
+    },
+    {
+      "id": "c121",
+      "title": {
+        "dum": "CXXI. Wie dat paeschlam eten selen"
+      }
+    },
+    {
+      "id": "c122",
+      "title": {
+        "dum": "CXXII. Van ·xij· vrochten des Sacraments"
+      }
+    },
+    {
+      "id": "c123",
+      "title": {
+        "dum": "CXXIII. Vanden reinen enden onreinen spisen"
+      }
+    },
+    {
+      "id": "c124",
+      "title": {
+        "dum": "CXXIV. Vanden reinen enden onreinen vesschen"
+      }
+    },
+    {
+      "id": "c125",
+      "title": {
+        "dum": "CXXV. Vanden onreinen voghelen"
+      }
+    },
+    {
+      "id": "c126",
+      "title": {
+        "dum": "CXXVI. Vanden anderen voghele"
+      }
+    },
+    {
+      "id": "c127",
+      "title": {
+        "dum": "CXXVII. Vanden derden voghele"
+      }
+    },
+    {
+      "id": "c128",
+      "title": {
+        "dum": "CXXVIII. Vanden Wuve"
+      }
+    },
+    {
+      "id": "c129",
+      "title": {
+        "dum": "CXXIX. Vanden Waterghiere"
+      }
+    },
+    {
+      "id": "c130",
+      "title": {
+        "dum": "CXXX. Vander Raven"
+      }
+    },
+    {
+      "id": "c131",
+      "title": {
+        "dum": "CXXXI. Vanden Struze"
+      }
+    },
+    {
+      "id": "c132",
+      "title": {
+        "dum": "CXXXII. Vanden Jupere"
+      }
+    },
+    {
+      "id": "c133",
+      "title": {
+        "dum": "CXXXIII. Vanden Laruse"
+      }
+    },
+    {
+      "id": "c134",
+      "title": {
+        "dum": "CXXXIV. Vanden Havecke"
+      }
+    },
+    {
+      "id": "c135",
+      "title": {
+        "dum": "CXXXV. Vanden Ule"
+      }
+    },
+    {
+      "id": "c136",
+      "title": {
+        "dum": "CXXXVI. Vanden Dukere"
+      }
+    },
+    {
+      "id": "c137",
+      "title": {
+        "dum": "CXXXVII. Vanben Odevare"
+      }
+    },
+    {
+      "id": "c138",
+      "title": {
+        "dum": "CXXXVIII. Vanden Swane"
+      }
+    },
+    {
+      "id": "c139",
+      "title": {
+        "dum": "CXXXIX. Vanden Onocrotaluse"
+      }
+    },
+    {
+      "id": "c140",
+      "title": {
+        "dum": "CXL. Vanden bonten Are"
+      }
+    },
+    {
+      "id": "c141",
+      "title": {
+        "dum": "CXLI. Vanden Valcke"
+      }
+    },
+    {
+      "id": "c142",
+      "title": {
+        "dum": "CXLII. Vanden Charadriuse"
+      }
+    },
+    {
+      "id": "c143",
+      "title": {
+        "dum": "CXLIII. Vander Hoppen"
+      }
+    },
+    {
+      "id": "c144",
+      "title": {
+        "dum": "CXLIV. Vander Vledermuse"
+      }
+    },
+    {
+      "id": "c145",
+      "title": {
+        "dum": "CXLV. Dat seste principael poent. Vander arken des ghetuuchs"
+      }
+    },
+    {
+      "id": "c146",
+      "title": {
+        "dum": "CXLVI. Vander Arken lingden"
+      }
+    },
+    {
+      "id": "c147",
+      "title": {
+        "dum": "CXLVII. Vander hoechden der Arken"
+      }
+    },
+    {
+      "id": "c148",
+      "title": {
+        "dum": "CXLVIII. Vander breiden der Arken"
+      }
+    },
+    {
+      "id": "c149",
+      "title": {
+        "dum": "CXLIX. Vander gouden croenen der Arken"
+      }
+    },
+    {
+      "id": "c150",
+      "title": {
+        "dum": "CL. Vanden guldenen Ringhen ende vanden Grindelen"
+      }
+    },
+    {
+      "id": "c151",
+      "title": {
+        "dum": "CLI. Vanden dinghen die in der Arken waren"
+      }
+    },
+    {
+      "id": "c152",
+      "title": {
+        "dum": "CLII. Dat wi Aaronne ende Moysesse gheliken selen"
+      }
+    },
+    {
+      "id": "c153",
+      "title": {
+        "dum": "CLIII. Vander bediedenessen der ·ij· steinene tafelen"
+      }
+    },
+    {
+      "id": "c154",
+      "title": {
+        "dum": "CLIV. Vanden guldenen Eemere"
+      }
+    },
+    {
+      "id": "c155",
+      "title": {
+        "dum": "CLV. Van Deuteronomio"
+      }
+    },
+    {
+      "id": "c156",
+      "title": {
+        "dum": "CLVI. Vanden Propiciatoriumme"
+      }
+    },
+    {
+      "id": "c157",
+      "title": {
+        "dum": "CLVII. Vanden ·ij· Cherubynnen"
+      }
+    },
+    {
+      "id": "c158",
+      "title": {
+        "dum": "CLVIII. Vanden sevenden principalen poente"
+      }
+    }
+  ]
+}
