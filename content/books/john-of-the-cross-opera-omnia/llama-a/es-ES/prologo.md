@@ -2,7 +2,7 @@
 
 *Prólogo*[^1]
 
-Declaración de las Canciones que tratan de la muy íntima y calificada unión y transformación del alma en Dios, a petición de D * Ana de Peña/osa, por el mismo que las compuso[^2].
+Declaración de las Canciones que tratan de la muy íntima y calificada unión y transformación del alma en Dios, a petición de D.ª Ana de Peñalosa, por el mismo que las compuso[^2].
 
 1. Alguna repugnancia he tenido, muy noble y devota señora[^3], en declarar estas cuatro Canciones que Vuestra Merced me ha pedido[^4], por ser de cosas tan interiores y espirituales, para las cuales comúnmente falta lenguaje, porque lo espiritual excede al sentido y con dificultad se dice algo de la sustancia; porque también se habla mal en las entrañas del espíritu[^5], si no es con entrañable espíritu, y por el poco que hay en mí, lo he diferido[^6] hasta ahora. Pero ahora, que el Señor parece que ha abierto un poco la noticia y dado algún calor (debe ser por el santo deseo que Vuestra Merced tiene, que quizá como se hicieron para Vuestra Merced, querrá Su Majestad que para Vuestra Merced se declaren), me he animado[^7], sabiendo cierto que de mi cosecha nada que haga al caso diré en nada, cuánto más en cosas tan subidas y sustanciales. Por eso no será mío sino lo malo y errado que en ello hubiere, y por eso lo sujeto todo a mejor parecer y al juicio de nuestra Madre[^8] la Iglesia Católica Romana, en cuya regla nadie yerra. Y con este presupuesto, arrimándome a la Escritura Divina, y como se lleve entendido que todo lo que se dijere es tanto menos de lo que allí hay como lo es lo pintado con lo vivo, me atreveré a decir lo que supiere[^9].
 
