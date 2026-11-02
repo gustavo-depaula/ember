@@ -1,0 +1,52 @@
+{
+  "id": "bede-in-canticum-habacuc",
+  "cover": "classic",
+  "name": {
+    "la": "In Canticum Habacuc",
+    "en-US": "On the Canticle of Habakkuk",
+    "pt-BR": "Sobre o Cântico de Habacuc"
+  },
+  "author": {
+    "la": "Beda Venerabilis",
+    "en-US": "St. Bede the Venerable",
+    "pt-BR": "São Beda, o Venerável"
+  },
+  "description": {
+    "la": "Allegorica expositio in Canticum Habacuc prophetae.",
+    "en-US": "Bede's short allegorical commentary on the prayer of Habakkuk (Hab 3), sung in the Church's office. Latin text of Migne (PL 91-93); no public-domain English translation is known.",
+    "pt-BR": "O breve comentário alegórico de Beda à oração de Habacuc (Hab 3), cantada no ofício da Igreja."
+  },
+  "composed": "c. 716-731",
+  "languages": [
+    "la"
+  ],
+  "work": "bede/in-canticum-habacuc",
+  "editions": {
+    "la": {
+      "editor": "Migne, Patrologia Latina 91-93 (1862-1863), after Giles (1843-44)",
+      "year": 1862
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Scriptor:Beda_Venerabilis",
+      "edition": "Allegorica expositio in Canticum Habacuc on Latin Wikisource, from the Corpus Corporum TEI of Migne's Patrologia Latina.",
+      "description": "Wikitext removed; inline PL column numbers dropped; one file per book (or per part), chapter divisions kept as headings with their rubrics.",
+      "tier": "A",
+      "tierEvidence": "Eighth-century text in Migne's reprint of Giles: public domain."
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  },
+  "toc": [
+    {
+      "id": "u01",
+      "title": {
+        "la": "Expositio",
+        "en-US": "Exposition"
+      }
+    }
+  ]
+}
