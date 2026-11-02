@@ -1,0 +1,74 @@
+{
+  "id": "dante-eclogae",
+  "cover": "classic",
+  "name": {
+    "la": "Eclogae",
+    "en-US": "Eclogues (Eclogae)",
+    "pt-BR": "Éclogas (Eclogae)"
+  },
+  "author": {
+    "it": "Dante Alighieri",
+    "la": "Dante Alighieri",
+    "en-US": "Dante Alighieri",
+    "pt-BR": "Dante Alighieri"
+  },
+  "description": {
+    "la": "Carmen bucolicum Dantis et Iohannis de Virgilio (1319-1320): epistola Iohannis ad Dantem, Ecloga prima Dantis, Ecloga responsiva Iohannis, Ecloga secunda Dantis, hexametris. Carmina Iohannis de Virgilio ab eo nomine inscribuntur.",
+    "en-US": "The Latin verse exchange between Dante and the Bolognese master Giovanni del Virgilio (1319-1320), in hexameters: Giovanni’s epistle urging Dante to write in Latin, Dante’s first Eclogue in reply, Giovanni’s responsive Eclogue, and Dante’s second Eclogue. The two poems by Giovanni del Virgilio are titled under his name. Text of La Wikisource.",
+    "pt-BR": "A troca de poemas bucólicos latinos entre Dante e Giovanni del Virgilio (1319-1320): a carta em versos de Giovanni, a primeira Écloga de Dante, a Écloga responsiva de Giovanni e a segunda Écloga de Dante."
+  },
+  "composed": "1319-1320",
+  "languages": [
+    "la"
+  ],
+  "work": "dante/eclogae",
+  "editions": {
+    "la": {
+      "editor": "transcription on La Wikisource"
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Eclogae_(Dantes)",
+      "edition": "Eclogae (Dantes) and Eclogae (Iohannes de Virgilio) on La Wikisource.",
+      "description": "Four poems in the order of the correspondence. The wiki markup and the cross-reference note are dropped. The English of Wicksteed and Gardner (1902) is OCR only and is not imported.",
+      "tier": "A",
+      "tierEvidence": "Medieval text; La Wikisource transcription, quality marked low."
+    }
+  ],
+  "toc": [
+    {
+      "id": "eclogae",
+      "title": {
+        "la": "Eclogae"
+      },
+      "children": [
+        {
+          "id": "carmen-iohannis",
+          "title": {
+            "la": "Carmen Iohannis de Virgilio ad Dantem"
+          }
+        },
+        {
+          "id": "ecloga-1",
+          "title": {
+            "la": "Ecloga prima Dantis ad Iohannem de Virgilio"
+          }
+        },
+        {
+          "id": "ecloga-responsiva",
+          "title": {
+            "la": "Ecloga responsiva Iohannis de Virgilio ad Dantem"
+          }
+        },
+        {
+          "id": "ecloga-2",
+          "title": {
+            "la": "Ecloga secunda Dantis ad Iohannem de Virgilio"
+          }
+        }
+      ]
+    }
+  ]
+}
