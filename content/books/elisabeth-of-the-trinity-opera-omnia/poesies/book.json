@@ -1,0 +1,118 @@
+{
+  "id": "elisabeth-poesies",
+  "name": {
+    "fr-FR": "Poésies (choix)",
+    "en-US": "Poems (selection)",
+    "pt-BR": "Poesias (seleção)"
+  },
+  "author": {
+    "fr-FR": "Sainte Élisabeth de la Trinité",
+    "en-US": "St. Elisabeth of the Trinity",
+    "pt-BR": "Santa Elisabete da Trindade"
+  },
+  "description": {
+    "fr-FR": "Treize poésies d’Élisabeth, de « La Carmélite » (1901) aux vers de septembre 1906, telles que les donnent les Souvenirs. Un choix sur les cent vingt-trois poèmes de l’édition critique.",
+    "en-US": "Thirteen poems by Elisabeth, from “La Carmélite” (1901) to the verses of September 1906, as given in the Souvenirs. A selection from the 123 poems of the critical edition.",
+    "pt-BR": "Treze poemas de Elisabete, de «A Carmelita» (1901) aos versos de setembro de 1906, como nas Lembranças. Uma seleção dos 123 poemas da edição crítica."
+  },
+  "composed": "1901-1906",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "elisabeth-of-the-trinity/poesies",
+  "editions": {
+    "fr-FR": {
+      "editor": "Carmel de Dijon (Mère Germaine de Saint-Seine)",
+      "year": 1913
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/soeurlisabethd00li",
+      "edition": "Sœur Élisabeth de la Trinité, religieuse carmélite, 1880-1906 : Souvenirs, Dijon, Imp. Jobard, 1913, appendix (OCR text of the University of Ottawa copy)",
+      "tier": "A",
+      "description": "Appendix “Poésies”, pp. 335-357."
+    }
+  ],
+  "toc": [
+    {
+      "id": "p01",
+      "title": {
+        "fr-FR": "La Carmélite"
+      }
+    },
+    {
+      "id": "p02",
+      "title": {
+        "fr-FR": "Noël 1902"
+      }
+    },
+    {
+      "id": "p03",
+      "title": {
+        "fr-FR": "Noël 1904"
+      }
+    },
+    {
+      "id": "p04",
+      "title": {
+        "fr-FR": "Noël 1905"
+      }
+    },
+    {
+      "id": "p05",
+      "title": {
+        "fr-FR": "Instaure omnia in Christo"
+      }
+    },
+    {
+      "id": "p06",
+      "title": {
+        "fr-FR": "Le Ciel de la gloire et le Ciel de la foi"
+      }
+    },
+    {
+      "id": "p07",
+      "title": {
+        "fr-FR": "Les lois de l’amour"
+      }
+    },
+    {
+      "id": "p08",
+      "title": {
+        "fr-FR": "Le rêve d’une Louange de gloire"
+      }
+    },
+    {
+      "id": "p09",
+      "title": {
+        "fr-FR": "Le Ciel dans l’âme"
+      }
+    },
+    {
+      "id": "p10",
+      "title": {
+        "fr-FR": "Rendez-vous de Laudem gloriæ à sa chère sœur"
+      }
+    },
+    {
+      "id": "p11",
+      "title": {
+        "fr-FR": "À sa Mère Prieure, pour un anniversaire"
+      }
+    },
+    {
+      "id": "p12",
+      "title": {
+        "fr-FR": "Qui est comme Dieu !"
+      }
+    },
+    {
+      "id": "p13",
+      "title": {
+        "fr-FR": "À l’une de ses sœurs"
+      }
+    }
+  ]
+}

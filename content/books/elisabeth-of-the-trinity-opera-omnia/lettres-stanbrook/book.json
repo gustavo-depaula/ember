@@ -1,0 +1,67 @@
+{
+  "id": "elisabeth-lettres-praise-of-glory",
+  "name": {
+    "en-US": "Letters (extracts, Stanbrook)",
+    "pt-BR": "Cartas (trechos, Stanbrook)"
+  },
+  "author": {
+    "en-US": "St. Elisabeth of the Trinity",
+    "pt-BR": "Santa Elisabete da Trindade"
+  },
+  "description": {
+    "en-US": "The letters printed in the appendix of The Praise of Glory (Stanbrook, 1914): to a friend, to Canon A., to Madame ***, to one who wished to become a Carmelite, and fragments. A selection; the groups differ in places from the French appendix.",
+    "pt-BR": "As cartas do apêndice de The Praise of Glory (Stanbrook, 1914): a uma amiga, ao cônego A., à Senhora ***, a quem desejava ser carmelita e fragmentos. Uma seleção."
+  },
+  "composed": "1901-1906",
+  "languages": [
+    "en-US"
+  ],
+  "work": "elisabeth-of-the-trinity/lettres",
+  "editions": {
+    "en-US": {
+      "translator": "Benedictines of Stanbrook",
+      "year": 1913
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/thepraiseofglory00elizuoft",
+      "edition": "The Praise of Glory, translated by the Benedictines of Stanbrook, 1913/1914, appendix (OCR text; second scan archive.org/details/praiseofgloryrem00eliziala)",
+      "tier": "A",
+      "description": "Appendix “Letters”, pp. 261-288."
+    }
+  ],
+  "toc": [
+    {
+      "id": "g1",
+      "title": {
+        "en-US": "To a Friend"
+      }
+    },
+    {
+      "id": "g2",
+      "title": {
+        "en-US": "To Canon A."
+      }
+    },
+    {
+      "id": "g3",
+      "title": {
+        "en-US": "To Madame ***"
+      }
+    },
+    {
+      "id": "g4",
+      "title": {
+        "en-US": "To Someone Who Wished to Become a Carmelite"
+      }
+    },
+    {
+      "id": "g5",
+      "title": {
+        "en-US": "Fragments of Letters"
+      }
+    }
+  ]
+}

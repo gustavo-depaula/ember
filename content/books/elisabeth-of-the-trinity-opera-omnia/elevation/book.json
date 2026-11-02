@@ -1,0 +1,59 @@
+{
+  "id": "elisabeth-elevation",
+  "name": {
+    "fr-FR": "Ô mon Dieu, Trinité que j’adore",
+    "en-US": "O My God, Trinity Whom I Adore",
+    "pt-BR": "Ó meu Deus, Trindade que adoro"
+  },
+  "author": {
+    "fr-FR": "Sainte Élisabeth de la Trinité",
+    "en-US": "St. Elisabeth of the Trinity",
+    "pt-BR": "Santa Elisabete da Trindade"
+  },
+  "description": {
+    "fr-FR": "La « Pieuse élévation » du 21 novembre 1904, l’oraison d’Élisabeth à la Sainte Trinité.",
+    "en-US": "The “Prayer of Sister Elizabeth” of 21 November 1904, her prayer to the Most Holy Trinity.",
+    "pt-BR": "A «Piedosa elevação» de 21 de novembro de 1904, a oração de Elisabete à Santíssima Trindade."
+  },
+  "composed": "1904",
+  "languages": [
+    "fr-FR",
+    "en-US"
+  ],
+  "work": "elisabeth-of-the-trinity/elevation",
+  "editions": {
+    "fr-FR": {
+      "editor": "Carmel de Dijon (Mère Germaine de Saint-Seine)",
+      "year": 1913
+    },
+    "en-US": {
+      "translator": "Benedictines of Stanbrook",
+      "year": 1913
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/soeurlisabethd00li",
+      "edition": "Sœur Élisabeth de la Trinité, religieuse carmélite, 1880-1906 : Souvenirs, Dijon, Imp. Jobard, 1913, appendix (OCR text of the University of Ottawa copy)",
+      "tier": "A",
+      "description": "“Pieuse élévation”, p. 305."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/thepraiseofglory00elizuoft",
+      "edition": "The Praise of Glory, translated by the Benedictines of Stanbrook, 1913/1914, appendix (OCR text; second scan archive.org/details/praiseofgloryrem00eliziala)",
+      "tier": "A",
+      "description": "“Prayer of Sister Elizabeth”, p. 260."
+    }
+  ],
+  "toc": [
+    {
+      "id": "elevation",
+      "title": {
+        "fr-FR": "Ô mon Dieu, Trinité que j’adore",
+        "en-US": "O my God, Trinity Whom I adore"
+      }
+    }
+  ]
+}

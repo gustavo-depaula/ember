@@ -1,0 +1,184 @@
+{
+  "id": "elisabeth-souvenirs",
+  "name": {
+    "fr-FR": "Sœur Élisabeth de la Trinité : Souvenirs",
+    "en-US": "The “Praise of Glory”: Reminiscences of Sister Elizabeth of the Trinity",
+    "pt-BR": "Irmã Elisabete da Trindade: Lembranças"
+  },
+  "author": {
+    "fr-FR": "Sainte Élisabeth de la Trinité",
+    "en-US": "St. Elisabeth of the Trinity",
+    "pt-BR": "Santa Elisabete da Trindade"
+  },
+  "description": {
+    "fr-FR": "La vie de Sœur Élisabeth de la Trinité (1880-1906) racontée par le Carmel de Dijon, en dix-sept chapitres tissés de ses lettres, de son journal et de ses notes intimes.",
+    "en-US": "The life of Sister Elizabeth of the Trinity (1880–1906) as told by the Carmel of Dijon, in seventeen chapters woven from her letters, journal and private notes.",
+    "pt-BR": "A vida da Irmã Elisabete da Trindade (1880-1906) contada pelo Carmelo de Dijon, em dezessete capítulos tecidos com suas cartas, seu diário e suas notas íntimas."
+  },
+  "composed": "1909",
+  "languages": [
+    "fr-FR",
+    "en-US"
+  ],
+  "work": "elisabeth-of-the-trinity/souvenirs",
+  "editions": {
+    "fr-FR": {
+      "editor": "Carmel de Dijon (Mère Germaine de Saint-Seine)",
+      "year": 1913
+    },
+    "en-US": {
+      "translator": "Benedictines of Stanbrook",
+      "year": 1913
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/soeurlisabethd00li",
+      "edition": "Sœur Élisabeth de la Trinité, religieuse carmélite, 1880-1906 : Souvenirs, Dijon, Imp. Jobard, 1913 (OCR text, running heads removed, page-bottom notes turned into footnotes)",
+      "description": "Chapters I-XVII and the Introduction; the appendix (Dernière retraite, Pieuse élévation, Lettres, Poésies) is imported as separate books. Approbations and the table of contents are left out.",
+      "tier": "A"
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/thepraiseofglory00elizuoft",
+      "edition": "The Praise of Glory: Reminiscences of Sister Elizabeth of the Trinity, translated by the Benedictines of Stanbrook from the sixth and enlarged French edition, 1913/1914 (OCR; second scan archive.org/details/praiseofgloryrem00eliziala for cross-checks)",
+      "description": "Chapters I-XVII; the translator’s introduction is left out.",
+      "tier": "A"
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduction",
+      "title": {
+        "fr-FR": "Introduction"
+      }
+    },
+    {
+      "id": "ch-01",
+      "title": {
+        "fr-FR": "Premières années",
+        "en-US": "Childhood"
+      }
+    },
+    {
+      "id": "ch-02",
+      "title": {
+        "fr-FR": "L’appel divin",
+        "en-US": "The Divine Call"
+      }
+    },
+    {
+      "id": "ch-03",
+      "title": {
+        "fr-FR": "La mission de 1899",
+        "en-US": "The Mission of 1899"
+      }
+    },
+    {
+      "id": "ch-04",
+      "title": {
+        "fr-FR": "Vertus surnaturelles",
+        "en-US": "Supernatural Virtues"
+      }
+    },
+    {
+      "id": "ch-05",
+      "title": {
+        "fr-FR": "Adieux au monde",
+        "en-US": "Farewell to the World"
+      }
+    },
+    {
+      "id": "ch-06",
+      "title": {
+        "fr-FR": "Le postulat",
+        "en-US": "The Postulant"
+      }
+    },
+    {
+      "id": "ch-07",
+      "title": {
+        "fr-FR": "Le noviciat",
+        "en-US": "The Novitiate"
+      }
+    },
+    {
+      "id": "ch-08",
+      "title": {
+        "fr-FR": "Louange de gloire",
+        "en-US": "“Laudem Gloriæ”"
+      }
+    },
+    {
+      "id": "ch-09",
+      "title": {
+        "fr-FR": "Vie intime",
+        "en-US": "The Inner Life"
+      }
+    },
+    {
+      "id": "ch-10",
+      "title": {
+        "fr-FR": "Relations de famille",
+        "en-US": "Sister Elizabeth and Her Family Circle"
+      }
+    },
+    {
+      "id": "ch-11",
+      "title": {
+        "fr-FR": "« Seule avec le Seul »",
+        "en-US": "“Sola Soli”"
+      }
+    },
+    {
+      "id": "ch-12",
+      "title": {
+        "fr-FR": "Dieu rappelle à Lui sa Louange de gloire",
+        "en-US": "God Calls “Laudem Gloriæ” to Himself"
+      }
+    },
+    {
+      "id": "ch-13",
+      "title": {
+        "fr-FR": "La transformation en Jésus crucifié",
+        "en-US": "Transformation into Jesus Crucified"
+      }
+    },
+    {
+      "id": "ch-14",
+      "title": {
+        "fr-FR": "Tout près du sanctuaire",
+        "en-US": "Close to the Sanctuary"
+      }
+    },
+    {
+      "id": "ch-15",
+      "title": {
+        "fr-FR": "Joie dans l’immolation",
+        "en-US": "Joy in Sacrifice"
+      }
+    },
+    {
+      "id": "ch-16",
+      "title": {
+        "fr-FR": "Dernières consolations",
+        "en-US": "Last Consolations"
+      }
+    },
+    {
+      "id": "ch-17",
+      "title": {
+        "fr-FR": "Du calvaire au ciel",
+        "en-US": "From Calvary to Heaven"
+      }
+    },
+    {
+      "id": "lettre-abbe-d",
+      "title": {
+        "fr-FR": "Lettre de M. l’abbé D… à Madame Catez",
+        "en-US": "Letter from the Abbé D… to Madame Catez"
+      }
+    }
+  ]
+}

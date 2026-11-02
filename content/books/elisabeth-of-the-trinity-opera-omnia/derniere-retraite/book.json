@@ -1,0 +1,164 @@
+{
+  "id": "elisabeth-derniere-retraite",
+  "name": {
+    "fr-FR": "Dernière retraite de « Laudem Gloriæ »",
+    "en-US": "The Last Retreat of “Laudem Gloriæ”",
+    "pt-BR": "Última retiro de «Laudem Gloriae»"
+  },
+  "author": {
+    "fr-FR": "Sainte Élisabeth de la Trinité",
+    "en-US": "St. Elisabeth of the Trinity",
+    "pt-BR": "Santa Elisabete da Trindade"
+  },
+  "description": {
+    "fr-FR": "Les seize jours de la dernière retraite d’Élisabeth (août 1906), méditations sur l’Écriture où elle livre le secret de sa sainteté : n’être plus qu’une louange de gloire de la Trinité.",
+    "en-US": "The sixteen days of Elisabeth’s last retreat (August 1906), meditations on Scripture in which she reveals the secret of her holiness: to be nothing but a praise of glory of the Trinity.",
+    "pt-BR": "Os dezesseis dias do último retiro de Elisabete (agosto de 1906), meditações sobre a Escritura em que ela revela o segredo de sua santidade: ser apenas um louvor de glória da Trindade."
+  },
+  "composed": "1906",
+  "languages": [
+    "fr-FR",
+    "en-US"
+  ],
+  "work": "elisabeth-of-the-trinity/derniere-retraite",
+  "editions": {
+    "fr-FR": {
+      "editor": "Carmel de Dijon (Mère Germaine de Saint-Seine)",
+      "year": 1913
+    },
+    "en-US": {
+      "translator": "Benedictines of Stanbrook",
+      "year": 1913
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/soeurlisabethd00li",
+      "edition": "Sœur Élisabeth de la Trinité, religieuse carmélite, 1880-1906 : Souvenirs, Dijon, Imp. Jobard, 1913, appendix (OCR text of the University of Ottawa copy)",
+      "tier": "A",
+      "description": "Appendix pp. 269-303, as printed by the Carmel of Dijon (lightly edited; the editors’ opening note is kept as footnote 1 of the first day)."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/thepraiseofglory00elizuoft",
+      "edition": "The Praise of Glory, translated by the Benedictines of Stanbrook, 1913/1914, appendix (OCR text; second scan archive.org/details/praiseofgloryrem00eliziala)",
+      "tier": "A",
+      "description": "Appendix pp. 227-259."
+    }
+  ],
+  "toc": [
+    {
+      "id": "day-01",
+      "title": {
+        "fr-FR": "Premier jour",
+        "en-US": "First Day"
+      }
+    },
+    {
+      "id": "day-02",
+      "title": {
+        "fr-FR": "Deuxième jour",
+        "en-US": "Second Day"
+      }
+    },
+    {
+      "id": "day-03",
+      "title": {
+        "fr-FR": "Troisième jour",
+        "en-US": "Third Day"
+      }
+    },
+    {
+      "id": "day-04",
+      "title": {
+        "fr-FR": "Quatrième jour",
+        "en-US": "Fourth Day"
+      }
+    },
+    {
+      "id": "day-05",
+      "title": {
+        "fr-FR": "Cinquième jour",
+        "en-US": "Fifth Day"
+      }
+    },
+    {
+      "id": "day-06",
+      "title": {
+        "fr-FR": "Sixième jour",
+        "en-US": "Sixth Day"
+      }
+    },
+    {
+      "id": "day-07",
+      "title": {
+        "fr-FR": "Septième jour",
+        "en-US": "Seventh Day"
+      }
+    },
+    {
+      "id": "day-08",
+      "title": {
+        "fr-FR": "Huitième jour",
+        "en-US": "Eighth Day"
+      }
+    },
+    {
+      "id": "day-09",
+      "title": {
+        "fr-FR": "Neuvième jour",
+        "en-US": "Ninth Day"
+      }
+    },
+    {
+      "id": "day-10",
+      "title": {
+        "fr-FR": "Dixième jour",
+        "en-US": "Tenth Day"
+      }
+    },
+    {
+      "id": "day-11",
+      "title": {
+        "fr-FR": "Onzième jour",
+        "en-US": "Eleventh Day"
+      }
+    },
+    {
+      "id": "day-12",
+      "title": {
+        "fr-FR": "Douzième jour",
+        "en-US": "Twelfth Day"
+      }
+    },
+    {
+      "id": "day-13",
+      "title": {
+        "fr-FR": "Treizième jour",
+        "en-US": "Thirteenth Day"
+      }
+    },
+    {
+      "id": "day-14",
+      "title": {
+        "fr-FR": "Quatorzième jour",
+        "en-US": "Fourteenth Day"
+      }
+    },
+    {
+      "id": "day-15",
+      "title": {
+        "fr-FR": "Quinzième jour",
+        "en-US": "Fifteenth Day"
+      }
+    },
+    {
+      "id": "day-16",
+      "title": {
+        "fr-FR": "Seizième jour",
+        "en-US": "Sixteenth Day"
+      }
+    }
+  ]
+}

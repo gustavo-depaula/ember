@@ -1,0 +1,70 @@
+{
+  "id": "elisabeth-lettres-souvenirs",
+  "name": {
+    "fr-FR": "Lettres (extraits)",
+    "en-US": "Letters (extracts)",
+    "pt-BR": "Cartas (trechos)"
+  },
+  "author": {
+    "fr-FR": "Sainte Élisabeth de la Trinité",
+    "en-US": "St. Elisabeth of the Trinity",
+    "pt-BR": "Santa Elisabete da Trindade"
+  },
+  "description": {
+    "fr-FR": "Les lettres d’Élisabeth reproduites en appendice des Souvenirs : à une amie, au chanoine A., à Madame ***, à une aspirante au Carmel, et fragments divers. Un choix, non l’édition complète.",
+    "en-US": "The letters of Elisabeth printed in the appendix of the Souvenirs: to a friend, to Canon A., to Madame ***, to an aspirant to Carmel, and assorted fragments. A selection, not the complete edition.",
+    "pt-BR": "As cartas de Elisabete reproduzidas no apêndice das Lembranças: a uma amiga, ao cônego A., à Senhora ***, a uma aspirante ao Carmelo e fragmentos diversos. Uma seleção, não a edição completa."
+  },
+  "composed": "1901-1906",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "elisabeth-of-the-trinity/lettres",
+  "editions": {
+    "fr-FR": {
+      "editor": "Carmel de Dijon (Mère Germaine de Saint-Seine)",
+      "year": 1913
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/soeurlisabethd00li",
+      "edition": "Sœur Élisabeth de la Trinité, religieuse carmélite, 1880-1906 : Souvenirs, Dijon, Imp. Jobard, 1913, appendix (OCR text of the University of Ottawa copy)",
+      "tier": "A",
+      "description": "Appendix “Lettres”, pp. 307-334."
+    }
+  ],
+  "toc": [
+    {
+      "id": "g1",
+      "title": {
+        "fr-FR": "À une amie"
+      }
+    },
+    {
+      "id": "g2",
+      "title": {
+        "fr-FR": "À M. le chanoine A."
+      }
+    },
+    {
+      "id": "g3",
+      "title": {
+        "fr-FR": "À Madame ***"
+      }
+    },
+    {
+      "id": "g4",
+      "title": {
+        "fr-FR": "À une aspirante au Carmel"
+      }
+    },
+    {
+      "id": "g5",
+      "title": {
+        "fr-FR": "Fragments divers"
+      }
+    }
+  ]
+}

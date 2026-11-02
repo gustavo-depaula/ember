@@ -1,0 +1,21 @@
+# Letter from the Abbé D… to Madame Catez
+
+Madame, Mareb 2±> l^'
+
+It is easier to perceive the divine action in a soul, to witness its strength and sweetness, than to put into words, in our poor human speech, the im-[^1] pression left upon the memory. And yet it may perhaps be a duty to give testimony to sanctity when we have been happy enough to meet with it, though perhaps but for a short time, and to declare with St. John : " Nos vidimus et testamur" It is serviceable for the world, and good, even for faithful Christians, not only to believe, but to know by tangible evidence that sanctity is always in existence, as a living and actual reality, and that the Church is never without saintly souls, those marvellous creations of grace.
+
+The Mother Prioress, who day by day, step by step, accompanied the holy daughter you confided to her, and who guided her during her short religious life, has traced her portrait in the pages addressed to her sisters. It is to be hoped that, for the pleasure and edification of a wider circle, she will tell them what she knows of her who was so fervent a " Praise of glory " in this world, so that they may enjoy the fragrance of this flower of Carmel.
+
+Although I saw her only for an instant, when administering Extreme Unction to her, and two or three times later on when I gave her Holy Communion, I look upon this providential meeting as one of the graces of my priestly life, and recall it as a thing precious and never to be forgotten, a deep and vivid impression, neither to be told nor to be described.
+
+This, however, I can say, that if sometimes during the course of my ministry I have seen " the veil drawn back which hid from the dying the splendours of eternity," so that some glimpses were perceived by them ; if I have sometimes seen a kind of transfiguration and aureole upon the fiice of those who were going to God — never has such an unearthly radiance been more visible to me than when I entered the cell of your dear Carmelite daughter to administer to her the last Sacraments. With her hands clasped in prayer, she was so calm and almost smiling amid her agonizing sufferings ; she answered the questions of the Mother Prioress with such lucidity ; she received with such evident gratitude the graces that were brought her ; her constancy, courage, surrender of self to God and union with Christ were so evident from her expression — that I thought it needless to address to her the words that a priest owes to the sick upon such occasions.
+
+With what deep faith she took part in the liturgical prayers ! And while she received the holy unctions, she seemed to realize in all its meaning and with her whole will the consecration, the oblation of her body "as the holy, living, and pleasing sacrifice " to God, of which St. Paul speaks.
+
+It was a hard, a laborious sacrifice, only to be completed after long weeks of endurance, during which, as I was then saying Mass at the convent, I had on two or three occasions the happiness of bearing to her who was already called "the little saint," the living Bread which renewed her supernatural strength. I remember well the quick, decided movement with which she raised herself to approach the grille for Holy Communion. It seemed as if all her physical force returned to her that she might meet our Lord as He came to her.
+
+Dear Madame Catez, I have ventured to write these few lines to you concerning a past which is both your joy and grief, a Calvary that you have mounted with Christian fortitude. But all these reminiscences ought to terminate in praise to God.
+
+There is a thought that will fortify and console souls at all times — a sublime thought though overwhelming to our weakness, and religion alone has been capable of putting it before us : " Rejoice in the Lord always 1" It is by this joy which is wholly spiritual, accompanied by resignation and hope, that you will best honour the blessed memory, and will rejoice the heart of your saintly daughter as she watches over you. As for myself, 1 reckon upon the help which she promised me in the name of holy obedience, the efficacy of which I have already experienced more than once. Now that she is with God she fulfils her vocation as a Carmelite by interceding for the clergy.
+
+[^1]: St. Luke x. 42. t St. John xvii. 23.

@@ -1,0 +1,97 @@
+{
+  "id": "elisabeth-ciel-dans-la-foi-en",
+  "name": {
+    "en-US": "Heaven on Earth (A Second Retreat)",
+    "pt-BR": "O céu na terra (Segundo retiro)"
+  },
+  "author": {
+    "en-US": "St. Elisabeth of the Trinity",
+    "pt-BR": "Santa Elisabete da Trindade"
+  },
+  "description": {
+    "en-US": "The ten days of “A Second Retreat of Sister Elizabeth of the Trinity”, the English form of Le Ciel dans la foi (August 1906).",
+    "pt-BR": "Os dez dias do «Segundo retiro da Irmã Elisabete da Trindade», a forma inglesa de O céu na fé (agosto de 1906)."
+  },
+  "composed": "1906",
+  "languages": [
+    "en-US"
+  ],
+  "work": "elisabeth-of-the-trinity/ciel-dans-la-foi",
+  "editions": {
+    "en-US": {
+      "translator": "Benedictines of Stanbrook",
+      "year": 1913
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/thepraiseofglory00elizuoft",
+      "edition": "The Praise of Glory, translated by the Benedictines of Stanbrook, 1913/1914, appendix (OCR text; second scan archive.org/details/praiseofgloryrem00eliziala)",
+      "tier": "A",
+      "description": "“A Second Retreat… Heaven on Earth”, pp. 289-306 of the 1914 edition. No French digital text of Le Ciel dans la foi was found; the French is missing."
+    }
+  ],
+  "toc": [
+    {
+      "id": "day-01",
+      "title": {
+        "en-US": "First Day"
+      }
+    },
+    {
+      "id": "day-02",
+      "title": {
+        "en-US": "Second Day"
+      }
+    },
+    {
+      "id": "day-03",
+      "title": {
+        "en-US": "Third Day"
+      }
+    },
+    {
+      "id": "day-04",
+      "title": {
+        "en-US": "Fourth Day"
+      }
+    },
+    {
+      "id": "day-05",
+      "title": {
+        "en-US": "Fifth Day"
+      }
+    },
+    {
+      "id": "day-06",
+      "title": {
+        "en-US": "Sixth Day"
+      }
+    },
+    {
+      "id": "day-07",
+      "title": {
+        "en-US": "Seventh Day"
+      }
+    },
+    {
+      "id": "day-08",
+      "title": {
+        "en-US": "Eighth Day"
+      }
+    },
+    {
+      "id": "day-09",
+      "title": {
+        "en-US": "Ninth Day"
+      }
+    },
+    {
+      "id": "day-10",
+      "title": {
+        "en-US": "Tenth Day"
+      }
+    }
+  ]
+}
