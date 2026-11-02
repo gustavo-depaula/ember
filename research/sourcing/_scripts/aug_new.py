@@ -132,8 +132,8 @@ SPECS = [
 ]
 
 
-def write(spec, dry=False):
-    ch = build(spec)
+def write(spec, dry=False, ch=None):
+    ch = ch or build(spec)
     words = sum(len(t.split()) for _, _, t in ch)
     if dry:
         print(spec["slug"], len(ch), "files", words, "words")
@@ -149,14 +149,14 @@ def write(spec, dry=False):
         "cover": "quarter",
         "name": {"la": la, "en-US": en, "pt-BR": pt},
         "author": {"la": "Aurelius Augustinus Hipponensis (354-430)", "en-US": "Augustine of Hippo", "pt-BR": "Agostinho de Hipona"},
-        "description": {
+        "description": spec.get("desc") or {
             "la": f"{la}. Textus Latinus secundum editionem Maurinorum.",
             "en-US": f"{en}{when}, by St. Augustine of Hippo. Latin text of the Maurist edition; no public-domain English translation has been imported yet.",
             "pt-BR": f"{pt}{when}, de Santo Agostinho de Hipona. Texto latino da edição dos Maurinos.",
         },
         "composed": comp if comp != "uncertain" else "date uncertain",
         "languages": ["la"],
-        "work": "augustine/" + spec["slug"],
+        "work": spec.get("work", "augustine/" + spec["slug"]),
         "editions": {"la": {"editor": "Maurists (Benedictines of Saint-Maur), Migne PL", "year": 1841}},
         "sources": [{
             "language": "la",
