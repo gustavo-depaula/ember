@@ -1,0 +1,13 @@
+{
+  "name": {
+    "en-US": "St. Francis of Assisi",
+    "pt-BR": "São Francisco de Assis"
+  },
+  "century": 13,
+  "saint": "francis_assisi",
+  "matches": [
+    "St. Francis of Assisi",
+    "Saint Francis of Assisi",
+    "Francis of Assisi"
+  ]
+}
