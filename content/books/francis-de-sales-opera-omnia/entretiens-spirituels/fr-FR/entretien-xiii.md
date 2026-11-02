@@ -1,0 +1,321 @@
+# Entretien XIII. De l’esprit des Réglés
+
+C’est une chose tres-difficile que celle que vous me demandez : quel est l’esprit de vos Réglés et comme vous le pourrez prendre. Or, premier que de parler de cest esprit, il faut que vous sçachiez que veut dire cela, avoir l’esprit d’une Réglé ; car nous entendons ordinairement dire : un tel Religieux a le vray esprit de sa Réglé.
+
+Nous tirerons du saint Evangile deux exemples qui sont tres-propres pour vous faire comprendre cecy. Il est dit que saint Jean Baptiste estoit venu en l’esprit et vertu d’Helie*, et pour cela, qu’il reprenoit hardiment * Lucæ, i, 17. et rigoureusement les pécheurs, les appellant engeance de viper es* et telles autres paroles. Mais quelle estoit *Matt.,m, 7; Lucæ, ceste vertu d’Helie ? C’estoit la force qui procedoit de In’ 7' son esprit pour anéantir et punir les pécheurs, faisant tomber le feu du ciel pour perdre et confondre ceux qui vouloyent résister à la majesté de son Maistre* : c’estoit * iv Reg., 1. donc un esprit de rigueur qu’avoit Helie. L’autre exemple que nous trouvons en l’Evangile *, qui sert à *Lucæ, ix, 51-56. nostre propos, est que Nostre Seigneur voulant aller en Hierusalem, ses disciples l’en dissuadoyent, parce que les uns avoyent affection d’aller en Capharnaum, les autres en Bethanie, et ainsi taschoyent de conduire Nostre Seigneur au lieu où ils vouloyent aller ; car ce n’est pas d’aujourd’huy que les inferieurs veulent conduire leurs maistres selon leur volonté. Mais Nostre Seigneur qui estoit tres-facile à condescendre, raffermit toutefois son visage, car l’Evangeliste use de ces mesmes mots, pour aller en Hierusalem, à fin que les Apostres ne le pressassent plus de n'y pas aller. Allant donc en Hierusalem, il voulut passer par une ville de Samarie, mais les Samaritains ne le voulurent pas permettre ; dequoy saint Jacques et saint Jean entrèrent en colere, et furent tellement indignés contre les Samaritains de l’inhospitalité qu’ils faisoyent à leur Maistre, qu’ils luy dirent : Maistre, voulez-vous que nous fassions tomber le feu du ciel pour les abysmer et les chastier de l’outrage qu’ils vous font ? Et Nostre Seigneur leur respondit : Vous ne sçavez de quel esprit vous estes, voulant dire : Ne sçavez-vous pas que nous ne sommes plus au temps d’Helie qui avoit un esprit de rigueur ? Et bien qu’Helie fust un très-grand serviteur de Dieu, et qu’il fist bien en faisant ce que vous voulez faire, neantmoins vous autres ne feriez pas bien en l’imitant, d’autant que je ne suis pas venu pour punir et confondre les pécheurs, ains pour *Lucæ, v, 32. les attirer doucement à penitence et à ma suite *.
+
+Or, voyons maintenant quel est l’esprit particulier d’une Réglé. Pour le mieux entendre il faut donner des exemples qui soyent hors de nous, et apres, nous
+
+entrèrent en — zcle, ou bien en colere (le zclc est souventesfois pris pour la colere, comme aussi la colere pour le zele) ; et il ne s’en faut pas estonner, puisqu’ils n’estoyent pas encore confirmés en grâce. Ils (Ms. et Coll.)
+
+ains — pour respandre des parfums, et par ces odeurs les attirer (Ms. et Coll.)
+
+Voila donc quel est l’esprit particulier d’nne chose ; ce que pour mieux entendre, il nous (Ms. et Coll.)
+
+reviendrons à nous-mesmes. Toutes les Religions et toutes les assemblées de dévotion ont un esprit qui leur est general, et chacune en a un qui luy est particulier. Le general est la prétention qu’elles ont toutes d’aspirer à la perfection de la charité ; mais l’esprit particulier c’est le moyen de parvenir à ceste perfection de la charité, c’est à dire à l’union de nostre ame avec Dieu, et avec le prochain pour l’amour de Dieu ; ce qui se fait, avec Dieu par l’union de nostre volonté à la sienne, et avec le prochain par la douceur, qui est une vertu dépendante immédiatement de la charité.
+
+Venons à cest esprit particulier : il est certes tres-different en divers Ordres. Les uns s’unissent à Dieu et au prochain par la contemplation, et pour cela ont une tres-grande solitude et ne conversent que le moins qu’ils peuvent parmi le monde, non pas mesmes les uns avec les autres, si ce n’est en certain temps ; ils s’unissent aussi avec le prochain par le moyen de l’oraison, en priant Dieu pour luy. Au contraire, l’esprit particulier des autres (') est voirement de s’unir à Dieu et au prochain, mais c’est par le moyen de l’action, quoy que spirituelle. Ils s’unissent à Dieu, mais c’est en luy réunissant le prochain par l’estude, prédications, confessions, conférences et autres actions de pieté ; et pour mieux faire ceste union h) avec le prochain, ils conversent avec le inonde. Ils s'unissent bien encor à Dieu par l’oraison ; mais neantmoins leur fin principale est celle que nous venons de dire, de tascher de convertir les âmes et les unir à Dieu. Les autres ont un esprit severe et rigoureux, avec un parfait mespris du monde et de toutes ses vanités et sensualités, voulans par leur exemple induire les hommes à ce mespris des choses de la terre ; et à cela, sert l’aspreté de leurs habits et exercices. D’autres ont un autre esprit, et c’est une chose fort necessaire (’) de sçavoir quel est l’esprit particulier de chaque Religion et assemblée pieuse ; ce que pour bien cognoistre, il faut considerer la fin pour laquelle elle a esté commencée et les divers moyens de parvenir à ceste fin. Il y a. la generale en toutes les Religions, comme nous avons dit ; mais c’est de la particulière de laquelle je parle, et à laquelle il faut avoir un si grand amour qu’il n’y ayt chose aucune que nous puissions cognoistre qui soit conforme à ceste fin, que nous ne l’embrassions de tout nostre cœur.
+
+Avoir l’amour de la fin de nostre Institut, sçavez-vous que c’est ? C’est estre exactes à l’observance des moyens de parvenir à ceste fin, qui sont nos Réglés et Constitutions, et estre fort diligentes à faire tout ce qui en dépend et qui sert à les observer plus parfaitement : cela, c’est avoir l’esprit de nostre Religion. Mais il faut que ceste exacte et ponctuelle observance soit entreprise en simplicité de cœur, je veux dire qu’il ne nous faut pas vouloir aller au delà, par des prétentions de faire plus qu’il ne nous est marqué dans nos Réglés ; car ce n’est pas par la multiplicité des choses que nous faisons que nous acquérons la perfection, mais c’est par la perfection et pureté d’intention avec laquelle nous les faisons. Il faut donc regarder quelle est la fin de vostre Institut et l’intention de vostre Instituteur, et vous arrester aux moyens qui vous sont marqués pour y parvenir. Quant à la fin de vostre Institut, il ne la faut pas chercher en l’intention des trois premières Sœurs qui commencèrent, non plus que celle des Jésuites au premier dessein qu’eut saint Ignace ; car il ne pensoit à rien moins qu’à faire ce qu’il a fait par apres, comme de mesme saint François, saint Dominique et les autres qui ont commencé des Religions. Mais Dieu, à qui seul appartient de faire ces assemblées de pieté, les a fait réussir en la façon que nous voyons qu’elles sont ; car il ne faut jamais croire que ce soyent les hommes qui, par leur invention, ayent commencé ceste façon de vie si parfaite comme est celle de la Religion : c’est Dieu par l’inspiration duquel ont esté composées les Réglés, qui sont les moyens propres pour parvenir à ceste fin generale à tous les Religieux, de s’unir à Dieu, et au prochain pour l’amour de Dieu.
+
+Mais comme chaque Religion a sa fin particulière, comme aussi les moyens particuliers pour parvenir à ceste fin et union generale, tous ont aussi un moyen general pour y parvenir, qui est par les trois vœux essentiels de la Religion. Chacun sçait que les richesses et les biens de la terre sont des puissans attraits pour dissiper l'ame, tant pour la trop grande affection qu’elle y met, que pour les sollicitudes qu’il faut avoir pour les garder, voire pour les accroistre, d’autant que l’homme n’en a jamais assez selon ce qu’il desire. Le Religieux couppe et tranche <°) tout cela par le vœu de pauvreté. Il en fait tout de mesme à la chair et à toutes ses sensualités et plaisirs, tant licites qu’illicites, par le vœu de chasteté, qui est un très-grand moyen de s’unir à Dieu tres-particulierement ; d’autant que ces plaisirs sensuels allentissent et affaiblissent grandement les forces de l’esprit, dissipent le cœur et l’amour que nous devons à Dieu, et que nous luy donnons entièrement par ce moyen, ne nous contentant pas de sortir de la terre de ce monde, mais sortans encore de la terre de nous-mesme, c’est à dire renonçans aux plaisirs terrestres de nostre chair. Mais beaucoup plus parfaitement nous unissons-nous à Dieu par le vœu d’obeissance, d’autant que nous renonçons à toute nostre ame, à toutes ses puissances, ses volontés et toutes ses affections, pour nous sousmettre et assujettir non seulement à la volonté de Dieu, mais à celle de nos Supérieurs, laquelle nous devons tousjours regarder comme estant celle de Dieu mesme ; et cecy est un très-grand renoncement, à cause des continuelles productions des petites volontés que fait nostre amour propre. Estant donc ainsi séquestrés de toutes choses, nous nous retirons en l’intime de nos cœurs pour plus parfaitement nous unir à sa divine Majesté.
+
+Or, pour venir en particulier à la fin pour laquelle nostre Congrégation de la Visitation a esté erigée, et par icelle comprendre plus aisément quel est l’esprit particulier de la Visitation, j’ay tousjours jugé que c’estoit un esprit d’une profonde humilité envers Dieu et d’une grande douceur envers le prochain ; d’autant qu’ayant moins de rigueur pour le corps, il faut qu’il y avt tant plus de douceur de cœur. Tous les anciens Peres ont déterminé que, où l’aspreté des mortifications corporelles manque, il y doit avoir plus de perfection d’esprit ; il faut donc que l’humilité envers Dieu et la douceur envers le prochain supplée en vos maisons à l’austérité des autres. Et si bien les austérités sont bonnes en elles-mesmes et sont des moyens de parvenir à la perfection, elles ne seroyent pas pourtant bonnes .chez vous, d’autant que ce seroit contre les Réglés (0.
+
+L’esprit de douceur est tellement l’esprit de la Visitation, que quiconque y voudroit introduire plus d’aus-terités qu’il n’y a pas (“) maintenant, destruiroit incontinent la Visitation ; d’autant que ce seroit faire contre la fin pour laquelle elle a esté dressée, qui est pour y pouvoir recevoir les filles et femmes infirmes, qui n’ont pas des corps assez forts pour entreprendre, ou qui ne sont pas inspirées et attirées de servir et s’unir à Dieu par la voye des austérités que l’on fait és autres Religions. Vous me direz peut estre : S’il arrive qu’une Sœur ayt une complexion robuste, peut-elle pas bien
+
+faire des austérités plus que les autres, avec la permis­
+
+sion de la Supérieure, en sorte que les autres Sœurs ne
+
+s’en apperçoivent pas ? Je responds à cela qu’il n’y a point
+
+de secret qui ne passe secrettement à une autre ; et ainsi
+
+de l’une à l’autre l’on vient à faire des Religions dans
+
+les Religions et des petites ligues, et puis tout se dissipe.
+
+La bien-heureuse Mere sainte Therese dit admirablement * Liber Fundatio- bien * le mal qu’apportent ces petites entreprises de
+
+vouloir faire plus que la Réglé n’ordonne et que la
+
+Communauté ne fait ; et particulièrement si c’est la
+
+Supérieure, le mal en sera plus grand ; car tout aussi
+
+tost que ses filles s’en appercevront, elles voudront
+
+incontinent faire le mesme, et elles ne manqueront pas
+
+de raison pour se persuader qu’elles le feront bien, les
+
+unes poussées de zele, les autres pour luy complaire, et
+
+tout cela servira de tentation à celles qui ne pourront
+
+ou ne voudront pas faire de mesme.
+
+Il ne faut jamais introduire, permettre ni souffrir ces
+
+particularités en Religion, excepté neantmoins en cer­
+
+taines nécessités particulières ; comme s’il arrivoit qu’une
+
+Sœur fust pressée de quelque grande vexation ou ten­
+
+tation, alors ce ne seroit pas un extraordinaire de
+
+demander à la Supérieure de faire quelques pénitences
+
+plus que les autres ; car il faut user de la mesme sim­
+
+plicité que font les malades, qui doivent demander les
+
+remedes qui leur semblent les pouvoir soulager. Que
+
+s’il y avoit une Sœur qui fust si genereuse et courageuse
+
+que de vouloir parvenir à la perfection dans un quart
+
+d’heure, faisant plus que la Communauté, je luy con-
+
+seillerois qu’elle s’humiliast et se sousmist à ne vouloir
+
+estre parfaite que dans trois jours, allant le train des
+
+autres. Et s’il se rencontre des Sœurs qui ayent des
+
+corps forts et robustes, à la bonne heure ; il ne faut pas l’ornement de leurs églises ils ne veulent, rien de superflu, non pas seulement des ornemens de soyc ; et s’il arrive que l’on en reçoive en quelqu’un de leurs couvens, on dit aussi tost qu’ils perdent l’esprit de leur Ordre. (Ms. et Coll.)
+
+car, — dit-elle, (Ms. et Coll.)
+
+pourtant qu’elles veuillent aller plus viste que celles qui sont foibles.
+
+Voicy un exemple en Jacob *, qui est tres-admirable *Gen.,xxxin,i-i4. et fort propre pour monstrer comment il se faut accommoder aux foibles, et arrester nostre force pour nous assujettir à aller de pair avec eux, principalement quand nous y avons de l’obligation, comme ont les Religieux à suivre la Communauté en tout ce qui est de la parfaite observance. Jacob donc sortant de la maison de son beau pere Laban, avec toutes ses femmes, ses enfans, ses serviteurs et ses troupeaux, pour s’en retourner chez luv, craignoit èxtremement de rencontrer son frere Esaü, d’autant qu’il pensoit qu’il fust tousjours irrité contre luy, ce qui n’estoit plus. Estant donc en chemin, le pauvre Jacob eut bien peur, car il rencontra Esaü fort bien accompagné d’une grande troupe de soldats. Jacob l’ayant salué, le trouva tout doux en son endroit, car il luy dit : Mon frere, allons de compagnie et achevons le voyage ensemble. A quoy respondit le bon Jacob : Mon seigneur et mon frere, il n’en sera pas ainsi, s’il vous plaist, d’autant que je meine mes enfans, et leurs petits pas exerceroyent ou abuseroyent de vostre patience ; quant à moy, qui y suis obligé, je mesure mes pas aux leurs. Et mesmes, il n’y a pas long temps que mes brebis ont agnelé ; les agneaux encore tendres ne pourroyent pas aller viste, et tout cela vous arreste-roit trop en chemin. Remarquez, je vous prie, la débonnaireté de ce saint Patriarche : il s’accommode volontiers aux pas, non seulement de ses petits enfans, mais aussi de ses agnelets. Il estoit à pied, (d et ce voyage luy fut heureux, comme il se void assez par les bénédictions qu’il receut de Dieu tout le long du chemin ; car il vid et parla plusieurs fois aux Anges et <a’) au Seigneur des Anges et des hommes ; et en fin il fut mieux partagé que son frere, qui estoit si bien accompagné <b’).
+
+Si nous voulons que nos voyages soyent bénis (c’) de la divine Bonté, assujettissons-nous volontiers à l’exacte et ponctuelle observance de nos Réglés, et cela en simplicité de cœur, sans vouloir doubler les exercices, ce qui seroit aller contre l’intention de l’Instituteur et la fin pour laquelle la Congrégation a esté erigée. Accommodons-nous donc volontiers avec les infirmes qui y peuvent estre receuës, et je vous asseure que nous n’arriverons pas plus tard pour cela à la perfection ; ains au contraire, ce sera cela mesme qui nous y conduira plus tost, parce que n’ayant pas beaucoup à faire nous nous appliquerons à le faire avec la plus grande perfection qu’il nous sera possible. Et c’est en quoy nos œuvres sont plus agréables à Dieu, d’autant qu’il n’a pas esgard à la multiplicité des choses que nous faisons pour son amour, comme nous avons tantost dit, ains seulement à la ferveur de la charité avec laquelle nous les faisons. Je trouve, si je ne me trompe, que si nous nous déterminons à vouloir parfaittement observer nos Réglés, nous aurons assez de besogne sans nous charger davantage, d’autant que tout ce qui concerne la perfection de nostre estât y est compris.
+
+La bien-heureuse Mere sainte Therese dit que ses filles estoyent tellement exactes, qu’il falloit que les Supérieures eussent un très-grand soin de ne rien dire
+
+XlH. De l’Esprit des Réglés 233
+
+qui ne fust tres-bon à faire, parce que, sans autre semonce, elles se portoyent incontinent à le faire, et que pour plus parfaitement observer leurs Réglés, elles estoyent pointilleuses à la moindre petite dépendance. Elle rapporte* qu’une fois il y eut une de ses filles qui *Lib.Fundat.,c.xvi. n’ayant pas bien entendu quelque chose qu’une Supérieure avoit commandé, luy dit qu’elle n’entendoit pas bien cela, et la Supérieure luy respondant assez brusquement et inconsidérément : Allez mettre la teste dans un puits, luy dit-elle, et vous l’entendrez. La fille fut si prompte à partir de la main, que si on ne l’eust arrestée, elle s’alloit jetter dans un puits W, Il y a certes moins à faire à estre exacte en l’observance des Réglés, que non pas de les vouloir observer en partie. <d’)
+
+Je ne puis assez dire de quelle importance est ce poinct, d’estre ponctuel à la moindre chose qui sert à plus parfaitement observer la Réglé, Ie’) comme aussi de ne vouloir rien entreprendre davantage, sous quelque pretexte que ce soit, parce que c’est le moyen de conserver la Religion en son entier et en sa première ferveur ; et le contraire de cela est ce qui la destruit et fait décheoir de sa première perfection. (f’l Vous me
+
+(d’) en partie. — Par exemple, la Réglé ordonne que en certain temps l’on ne parle point ; il est beaucoup plus facile de s’en abstenir tout à fait que s’il y avoit des exceptions, parce qu’il ne faudrait pas seulement estre attentive à faire le silence, mais aussi pour parler aux occasions qui seroyent exceptées. La charité pourtant monstre assez quand c’est qu’on le peut faire sans enfreindre le commandement de ne point parler. (Ms. et Coll.)
+
+(e’) la Réglé, — voire mesme les moindres petites ceremonies, (Ms. et Coll.)
+
+perfection. —■ Voyez-vous, ce qui maintient les Peres Jésuites en la perfection de leur Institut, ce n’est autre chose que la fermeté qu’ils ont à recevoir toute sorte d’obeissances sans aucune répliqué. (Ms. et Coll.)
+
+demandez s’il y auroit plus de perfection à se conformer
+
+tellement à la Communauté, que mesme l’on ne deman-
+
+dast point à faire de Communion extraordinaire ? Qui
+
+en doute, mes cher es filles ? si ce n’est en certains cas, comme serait és testes de nostre Patron ou du Saint auquel nous avons eu dévotion toute nostre vie, ou quelque nécessité fort pressante. Mais quant à certaines petites ferveurs que nous avons aucunes fois, qui sont passagères et qui pour l’ordinaire sont des effets de nostre nature, lesquelles nous font desirer la Communion, il ne faut point avoir esgard à cela, non plus que les mariniers n’en ont point à un certain vent qui se leve à la pointe du jour, lequel est produit des vapeurs qui s'eslevent de la terre et n’est pas de durée, ains cesse tout aussi tost que lesdites vapeurs sont, un peu surlevées et dissipées ; et partant, le patron du navire qui le cognoist, ne crie point au vent et ne desploye point les voiles pour voguer à la faveur d’iceluy te’). De mesme nous autres, il ne faut pas que nous tenions pour un bon vent, c’est à dire pour inspiration, tant de petites volontés qui nous viennent, ores de demander à communier, tantost de faire oraison, tantost une autre chose ; car nostre amour propre, qui recherche tousjours sa satisfaction, demeurerait entièrement content de tout cela, et principalement de ces petites inventions, et ne cesserait de nous en fournir tousjours de nouvelles. Aujourd’huy que la Communauté communie, il vous suggérera qu’il faut que par humilité vous demandiez de vous en abstenir, (h’) et lors que le temps de s’humilier viendra, il vous persuadera de vous resjouïr et de demander la Communion pour cest effet ; et ainsi il ne serait jamais fait. Il ne faut point tenir pour inspiration les choses qui sont hors de la Réglé, si ce n’est en
+
+(g’) à la faveur — de ce vent qui n’est que de la terre. (Ms. et Coll.)
+
+(h’) de vous en abstenir, — parce que c’est la feste d’un tel Saint qui apportoit tant de préparation pour recevoir le tres-saint Sacrement ; et vous, qui estes si peu préparée, il n’est pas raisonnable que vous le receviez si souvent ; et choses semblables. (Ms. et Coll.) cas si extraordinaires, que la perseverance nous fasse cognoistre que c’est la volonté de Dieu, comme il s’est trouvé, pour ce. qui est de la Communion, en deux ou trois grandes Saintes, les directeurs desquelles vouloyent qu’elles communiassent tous les jours. Je trouve que c’est un très-grand acte de perfection de se conformer en toutes choses à la Communauté et de ne s’en départir jamais par nostre propre choix ; car outre , que c'est un tres-bon moyen pour nous unir avec le prochain, c’est encore cacher à nous-mesmes nostre propre perfection.
+
+Il y a une certaine simplicité de cœur en laquelle consiste la perfection de toutes les perfections, et c’est ceste simplicité qui fait que nostre ame ne regarde qu’à Dieu, et qu’elle se tient toute ramassée et resserrée en elle-mesme pour s’appliquer avec toute la fidelité qui luy est possible à l’observance de ses Réglés, sans s’espancher à desirer ni vouloir entreprendre de faire plus que cela. Elle ne veut point faire des choses excellentes et extraordinaires qui la pourroyent faire estimer des créatures ; et par ainsi elle se tient fort basse en elle-mesme et n’a pas des grandes satisfactions, car elle ne fait rien de sa propre volonté, ni rien de plus que les autres, et ainsi (D toute sa sainteté est cachée à ses yeux : Dieu seul la void, qui se delecte en sa simplicité, par laquelle elle ravit son cœur * et s’unit à luy. « Cant., iv, 9. Elle tranche court à toutes les inventions de son amour propre, lequel prend une souveraine délectation à faire des entreprises de choses grandes et excellentes et qui nous font surestimer au dessus des autres. Telles âmes jouissent par tout d’une grande paix et tranquillité d’esprit.
+
+Jamais il ne faut ni penser ni croire que pour ne faire rien de plus que les autres et suivre la Communauté,
+
+(i ) car — ne faisant rien de sa propre volonté, ni rien de pins que les auties et que toute la Communauté, il luy semble qu’elle ne fait rien ; (Ms. et Coll.)
+
+236 Les vrays Èntretièns spirituels nous ayons moins de merite. O non, car la perfection ne consiste point és h) austérités ; encore que ce soyent des bons moyens d’y parvenir, et qu’elles soyent bonnes en elles-mesmes, neantmoins pour nous elles ne le sont pas, parce qu’elles ne sont pas conformes à. nos Réglés ni à l’esprit d’icelles, estant une plus grande perfection de se tenir dans leur simple observance et suivre la Communauté, que vouloir aller au delà. Celle qui se tiendra dans ces limites, je vous asseure qu’elle fera un grand chemin en peu de temps et rapportera beaucoup de fruict à ses Sœurs par son exemple. <k’> En lin, quand nous sommes à ramer, il le faut faire par mesure ; ceux qui rament sur mer ne sont pas si tost battus pour ramer un peu laschement, que s’ils ne donnent les coups de rame par mesure. L’on doit tascher d’eslever les Novices toutes également, faisant les mesmes choses, à lin que l’on rame justement ; et si bien toutes ne le font pas avec égale perfection, nous ne sçaurions qu’y faire, cela se trouve en toutes les Communautés.
+
+Mais, dites-vous, c’est par mortification que vous demeurez un peu plus dans le chœur aux jours de feste que les autres, parce que le temps vous y a desja bien
+
+(j’) car — nous ne devenons pas parfaits et ne sommes pas plus agréables à Dieu pour la multiplicité des exercices, des pénitences et austérités, (Ms. et Coll.) mais ouy bien par la pureté d’amour avec laquelle nous les faisons. La perfection ne consiste pas aux (Ms.)
+
+(k’) beaucoup de — proffit à ses Sœurs par son bon exemple. J’ay veu l’experience de cecy en deux Generaux des Chartreux, dont l’un est encor en vie, et l’autre est mort ; et celuy-cy je le vis à Paris lors que j’y estois. Il estoit grandement austere, et ne mangeoit ordinairement que du pain et ne beuvoit que de l’eau. L’autre, au contraire, qui est aujourd’huy, n’est point singulier en aucune chose, et ne fait que ce que leur Communauté fait. Tous deux sont très-grands serviteurs de Dieu ; mais j’ay esté asseuré que celuy-cy est beaucoup plus aymé et estimé de ses Frères que non pas l’autre, et son exemple de douceur et conformité de vie les édifié beaucoup plus que non pas la rigueur qu’avoit l’autre envers soy-mesme. (Ms. et Coll.)
+
+duré durant deux ou trois heures de suitte que toutes y
+
+ont demeuré. A cela je vous responds que ce n’est pas
+
+une réglé generale qu’il faille faire tout ce à quoy on a
+
+de la répugnance, non plus que de s’abstenir des choses
+
+auxquelles on a de l’inclination ; car si une Sœur a de
+
+l’inclination à dire l’Office divin, il ne faut pas qu’elle
+
+laisse d’y assister sous pretexte de se vouloir mortifier.
+
+Au demeurant, le temps des testes qui est laissé en
+
+liberté pour faire ce que l’on veut, chacune le peut
+
+employer selon sa dévotion ; mais il est vray pourtant,
+
+qu’ayant demeuré trois heures, voire plus dans le chœur
+
+avec la Communauté, il est beaucoup à craindre que
+
+le quart d’heure que vous y demeurez davantage ne soit un petit morceau que vous donnerez à vostre amour propre. (D
+
+En fin, mes cheres filles, il faut beaucoup aymer nos Réglés, puisqu’elles sont les moyens par lesquels nous parvenons à leur fin, qui est de nous conduire facilement à la perfection de la charité, qui est l’union de nos âmes avec Dieu et avec le prochain. Et non seulement cela, mais aussi de reunir le prochain avec Dieu, ce que nous faisons par la voye que nous luy présentons, laquelle est toute douce et facile, aucune fille n’estant rejettée faute de force corporelle, pourveu qu’elle ayt volonté de vivre selon l’esprit de la Visitation, qui est, comme j’ay dit, un esprit d’humilité envers Dieu et de douceur de cœur envers le prochain : et c’est cest esprit qui fait nostre union tant avec Dieu qu’avec le prochain. Par l’humilité nous nous unissons avec Dieu, nous sousmettant à l’exacte observance de ses volontés qui nous sont signifiées dans nos Réglés ; car nous devons pieusement croire qu’elles ont esté dressées par son inspiration, estant receuës par la Sainte Eglise et approuvées par Sa Sainteté, qui en sont des signes tres-evidens ;
+
+(!’) amour propre. — Il est vray que ne le pouvant pas faire mourir, il semble qu’il luy faut bien bailler quelque petite chose. (Ms. et Coll.) [Voir à l’Appendice IL] et partant, nous les devons aymer d’autant plus tendrement, et les serrer sur nos poitrines tous les jours plusieurs fois en forme de recognoissance envers Dieu qui nous les a données. Par la douceur de cœur nous nous unissons avec le prochain par une exacte et ponctuelle conformité de vie, de mœurs et d’exercices, ne faisant <m’) ni plus ni moins que ceux avec lesquels nous vivons et que ce qui nous est marqué en la voye en laquelle Dieu nous a mis ensemble, employant et arres-tant toutes les forces de nostre ame à les faire avec toute la perfection qui nous sera possible. Mais remarquez que ce que j’ay dit plusieurs fois, qu’il faut estre fort ponctuelles à l’observance des Réglés et à la moindre petite dépendance, ne se doit pas entendre d’une ponctualité (n’> de scrupule : ô non, car cela n’a pas esté mon intention ; mais d’une ponctualité de chastes espouses, qui ne se contentent pas d’éviter de desplaire à leur celeste Espoux, ains veulent faire tout ce qu’elles peuvent pour luy estre tant soit peu plus agréables. <°’)
+
+Il sera fort à propos que je vous propose quelque exemple remarquable pour vous faire comprendre combien est agréable à Dieu de se conformer à la Communauté en toutes choses : escoutez donc ce que je vay vous dire. Pourquoy pensez-vous que Nostre Seigneur et sa tres-sainte Mere se soyent sousmis à la loy de la présentation et purification, sinon à cause de l’amour qu’ils portoyent à la communauté ? Certes, cest exemple devroit suffire pour esmouvoir les Religieux à suivre exactement leur Communauté, sans jamais s’en départir 1 car ni le Fils ni la Mere n’estoyent aucunement obligés à ceste loy : non l’Enfant, parce qu’il estoit Dieu, non la Mere, parce qu’elle estoit Vierge toute pure. Ils
+
+(ni’) et d’exercices, ■— sans vouloir entreprendre de faire (Ms. et Coll.)
+
+(n’) qu'il faut estre — non seulement ponctuelle à l’observance des Réglés, mais aussi pointilleuse à la moindre petite dépendance, ne se doit pas entendre d’une pointillerie (Ms. et Coll.)
+
+(o’) [La suite de cet Entretien ne se trouve pas dans les Colloques.] pouvoyent facilement s’en exempter sans que personne s’en apperceust, car ne pouvoit-elle pas s’en aller en Nazaret, au lieu de s’en aller en Hierusalem ? Mais elle ne le fait pas (P’>, ains tout simplement elle suit la communauté. Elle pouvoit bien dire : La loy n’est pas faite pour mon tres-cher Fils ni pour moy, elle ne nous oblige aucunement ; mais puisque le reste des hommes y est obligé et l'observe, nous nous y sousmettons tres-volontiers pour nous conformer à un chacun d’eux, et n’estre singuliers en aucune chose. L’Apostre saint Paul a fort bien dit * qu\7 falloit que Nostre Seigneur fust *Heb.,n, 17, iv, 15. semblable en toutes choses à ses freres, hormis le péché. Mais dites-moy, est-ce la crainte de la prévarication qui rendoit ceste Mere et son Fils si exacts à l’observance de la loy ? Non certes, ce n’estoit pas cela, car il n’y a voit point de prévarication pour eux ; ains ils estoyent attirés par l’amour qu’ils portoyent à leur Pere eternel.
+
+L’on ne sçauroit aymer le commandement si l’on n’ayme celuy qui le fait ; à mesure que nous aymons et estimons celuy qui fait la loy, à mesure nous nous rendons exacts à l’observer. Les uns sont attachés à la loy par des chaisnes de fer et les autres par des chaisnes d'or : je veux dire, les séculiers qui observent les commandemens de Dieu pour la crainte qu’ils ont d’estre damnés, les observent par force et non par amour ; mais les Religieux et ceux qui ont soin de la perfection de leur ame y sont attachés par des chaisnes d’or, c’est à dire par amour ; ils ayment les commandemens et les observent amoureusement, et pour les mieux observer ils embrassent l’observance des conseils. Et David dit * que * Ps. cxvm, 4. Dieu a commandé que ses commandemens fussent
+
+(p’) toute pure, — ains elle estoit la pureté mesme. Ils pouvoyent facilement s en exempter sans que personne s’en apperceust. La tres-sainte Vierge ne pouvoit-elle pas s’en aller en Nazaret au lieu d’aller en Hierusalem, et donner a quelque pauvre l’argent dequoy elle vouloit acheter les tourterelles qu elle offrit ? Ne vous semble-t’il pas qu’elle eust beaucoup mieux fait ? O Dieu, elle ne fit rien de tout cela
+
+trop bien gardés. Voyez-vous comme il veut que, l’on soit
+
+ponctuel à l’observance d’iceux ? Ainsi certes le font (q’)
+
+tous les vrays amans, car ils n’evitent pas seulement
+
+la prévarication de la loy, mais ils evitent aussi l’ombre * Cf. Cant., v, 12. de la prévarication ; et c’est pourquoy l’Espoux dit *
+
+que son Espouse ressemble à une colombe qui se tient <r’)
+
+le long des fleuves qui coulent doucement, et dont
+
+les eaux sont cristallines. Vous sçavez bien que la
+
+colombe se tient en asseurance auprès de ces eaux
+
+parce qu’elle y void les ombres des oyseaux de proye
+
+qu’elle redoute, et soudain qu’elle les void, elle prend
+
+la fuite et ainsi ne peut estre surprise. De mesme, veut
+
+dire le sacré Espoux, est ma bien-aymée ; car tandis
+
+qu’elle escbappe de devant l’ombre de la prévarication
+
+de mes commandemens, elle ne craint point de tomber
+
+entre les mains de la désobéissance. Certes, celuy qui
+
+se prive volontairement par le vœu d’obeissance de
+
+faire sa volonté és choses indifferentes, monstre assez
+
+qu’il ayme d’estre sousmis és necessaires et qui sont
+
+d’obligation. (s’>
+
+Il faut donc estre extrêmement ponctuelles en l’obser­
+
+vance des loix et des réglés qui nous sont données par
+
+Nostre Seigneur, mais sur tout en ce poinct de suivre
+
+en toutes choses la Communauté ; et se faut bien garder
+
+de dire que nous ne sommes pas tenues d’observer ceste
+
+Regie, ou commandement particulier de la Supérieure,
+
+d’autant qu’il est fait pour les foibles, et que nous
+
+sommes fortes et robustes ; ni, au contraire, que le
+
+commandement est fait pour les fortes, et que (D nous
+
+gardés — par ceux qui l’ayment. Voyez comme il desire que l’on soit ponctuel à l’observance. Aussi sont certes
+
+(r’) l’Espoux—- au Cantique des Cantiques dit que son Espouse ressemble à une colombe qui se promeine
+
+(s’) d’obligation. —- Celuy qui se prive volontairement des richesses licites monstre qu’il ne veut pas les attaches illicites. Les Apostres, pour mieux observer le commandement que Nostre Seigneur leur avoit fait de renoncer à tous les biens de la terre, se privèrent volontiers de ce qui leur estoit non seulement licite, mais necessaire.
+
+et que — nous n’y sommes pas obligées parce que sommes foibles et infirmes. O Dieu ! il ne faut rien moins que cela en une Communauté. Je vous conjure, si vous estes fortes, que vous vous affaiblissiez pour vous rendre conformes aux infirmes ; et si vous estes foibles je vous dis : Efforcez-vous pour vous adjuster avec les fortes. Le grand Apostre saint Paul dit qu’il s’est fait tout à tous pour les guigner tous *. Qui est infirme, *1 Cor->IX> 22. avec lequel je ne le sois* ? qui est malade, avec lequel *11 Cor'> xn 29- je ne sois aussi malade ? avec les forts je suis fort. Voyez-vous comme saint Paul quand il est avec les infirmes, il est infirme et prend volontiers les commodités necessaires à leurs infirmités pour leur bailler confiance d’en faire de mesme ? Mais quand il se trouve avec les forts, il est comme un géant pour leur donner du courage* ; et s’il se peut appercevoir que son prochain * Galat., n, u. soit scandalisé de quelque chose qu’il fasse, si bien il luy est licite de la faire, neantmoins il a un tel zele de la paix et tranquillité de son cœur, qu’il s’abstient volontiers de la faire* (“’). * 1 Cor., vin, ult.
+
+Mais, me direz-vous, maintenant que c’est l’heure de la récréation, j’ay un très-grand désir d’aller faire oraison pour m’unir plus immédiatement avec la souveraine Bonté. <v’) Ne puis-je pas bien penser que la loy qui ordonne de faire la récréation ne m’oblige pas, puisque j’ay l’esprit assez jovial de moy-mesme ? O non,
+
+(u’) je suis fort. — Lequel de mes frères est scandalisé, avec lequel je ne le sois ? Quand je suis avec les infirmes je prens volontiers les commodités necessaires à leurs infirmités pour leur bailler confiance d’en faire de mesme ; si je me trouve auprès des malades, lors je me tiens auprès d’eux tout ainsi comme la nourrice tendre et amoureuse de son enfant malade, duquel elle frotte la teste à fin de l’endormir. Mais quand je inc trouve avec les forts je suis comme un géant pour leur donner le courage ; et si je puis appercevoir que mon prochain soit scandalisé de quelque chose que je fais, si bien il m est licite de la faire et qu’en la faisant je ne fasse nul péché, neantmoins J ay un tel zele de la paix et tranquillité de son cœur, que je m’abstiens volontiers et de bon cœur de la faire. C’est donques l’amour qu’il portoit a Dieu qui l’incitoit à se rendre ainsi conforme à un chacun pour les luy gaigner tous.
+
+(v ) Bonté; — mon Dieu, j’ay un si grand désir d’aller dire mon chapelet à l’honneur de Nostre Dame.
+
+i6
+
+il ne faut non plus le penser que le dire ; si vous
+
+n’avez pas besoin de vous recreer, il faut neantmoins
+
+faire la récréation pour celles qui en ont besoin. N’y
+
+a-t'il donques point d’exception en Religion ? les Réglés
+
+obligent-elles également ? Ouy sans doute, mais il y a
+
+des loix qui sont justement injustes. Par exemple, le
+
+jeusne du Caresme est commandé pour un chacun ; ne
+
+vous semble-t’il pas que ceste loy soit injuste, puisque
+
+l’on modéré ceste injuste justice donnant des dispenses
+
+à ceux qui ne la peuvent pas observer ? De mesme en
+
+est-il és Religions : le commandement est également
+
+pour tous, et nul de soy-mesme ne s’en peut dispenser ;
+
+mais les Supérieurs moderent la rigueur selon la néces­
+
+sité d’un chacun.
+
+Et faut bien se garder de penser' que les infirmes
+
+soyent plus inutiles en Religion que les forts, ou qu’ils
+
+fassent moins et ayent moins de merite, parce que
+
+tous font également la volonté de Dieu. Les mousches
+
+à miel nous monstrent l’exemple de ce que nous disons,
+
+car les unes sont employées à la garde de la ruche <x’),
+
+et les autres sont perpétuellement au travail de la cueil­
+
+lette ; celles toutesfois qui demeurent dans la ruche ne
+
+mangent pas moins de miel que celles qui ont la peine
+
+de l’aller picorant sur les fleurs, (y’) Ne vous semble-t’il *i Reg., xxx,23-25. pas que David * fit une loy injuste lors qu’il commanda
+
+que les soldats qui garderoyent les hardes eussent éga­
+
+lement part au butin avec ceux qui iroyent à la ba­
+
+taille, et qui en reviendroyent tous chargés de coups ?
+
+Non certes, elle n’estoit point injuste, d’autant que
+
+ceux qui gardoyent les hardes les gardoyent pour ceux
+
+qui combattoyent, et ceux qui estoyent en la bataille
+
+(w’) en Religion que les forts — et robustes, et qu’ils fassent moins ou ayent moins de merite, et par conséquent soyent moins recompensés de Nostre Seigneur,
+
+de la ruche — et à la nettoyer
+
+(y’) sur les fleurs; — et cela avec beaucoup de raison, parce que celles qui demearent dedans et presque sans rien faire empeschent que les araignes ne viennent embarrasser les rayons de celles qui vont à la cueillette. combattoyent pour ceux qui gardoyent les hardes : aussi ils meritoyent tous une mesme recompense, puisqu’ils obeissoyent tous également au Roy. Dieu soit béni. <z’>
+
+(z’) également — à la volonté du Roy ; car ce n’est pas l’œuvre qui nous fait meriter, ains l’amour et la charité avec laquelle nous la faisons.
+
+Disons encor ce mot sur le sujet de la Présentation de Nostre Seigneur au Temple et de la Purification de sa tres-sainte Mere. Regardez, je vous prie, comme ce tres-saint et glorieux Enfant se laisse porter, tout simplement mais amoureusement, entre les bras du bien-heureux saint Simeon, car il ne pleure point ni ne tesmoigne nulle répugnance d’estre tiré des bras de sa tres-chere Mere, bras esquels il ressentoit tant de suavité qu’il ne se peut dire. Quelle suavité, je vous prie, lors que la tres-sainte Vierge distilloit dans la sacrée bouche de son Enfançon les gouttes de son tres-pur et celeste lait, faisant quant et quant de sa bouche des souspirs enflammés qu’elle lançoit dans le cœur du Sauveur, lequel en eschange ouvroit ses petits yeux pour la regarder ; et par le moyen de ces regards, le cœur de la tres-glorieuse Vierge demeurait presque pasmé des flammes de son amour. Que personne donc ne s’excuse plus d’aller à la sainte Communion sur son indignité : O mon Dieu, comment oseray-je aller recevoir Nostre-Seigneur si souvent comme les autres, veu que je suis si misérable ? O Dieu, je n’oserois m’approcher de Dieu par le moyen de l’oraison ! Hé, quelle tromperie ! ne voyez-vous pas que Nostre-Seigneur va tout simplement entre les bras de saint Simeon, et quitte sa tres-chere Mere qui estoit toute pure et sans macule ?

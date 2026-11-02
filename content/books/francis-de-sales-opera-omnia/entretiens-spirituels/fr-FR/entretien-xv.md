@@ -1,0 +1,387 @@
+# Entretien XV. De la volonté de Dieu
+
+Il faut sçavoir que la détermination de suivre la volonté de Dieu en toutes choses sans exception est contenue dans l’Oraison dominicale, en ces paroles que nous disons tous les jours : Vostre volonté soit faite * Matt., vi, io. en la terre comme au Ciel *. Il n’y a aucune résistance à la volonté de Dieu au Ciel, tout luy est sujet et obéissant ; ainsi disons-nous qu’il nous puisse arriver et ainsi demandons-nous à Nostre Seigneur de faire, n’y apportant jamais aucune résistance, mais demeurans tousjours tres-sujets et obeissans en toutes occurrences à ceste divine volonté.
+
+SUR LE SUJET DELA CONDESCENDANCE. (Ms.)---- DE LACONDESCENDANCE. (Coll.)
+
+Je commence nostre discours par la responce à la question qui m’a esté donnée en ce billet ; à sçavoir, que c’est et en quoy consiste la parfaite détermination de suivre et de regarder la volonté de Dieu en toutes choses, et si nous la pouvons trouver ou suivre és volontés des Supérieurs ou inferieurs, que nous voyons clairement procéder de leurs inclinations naturelles ou bien habituelles. (Ms. et Coll.) Pour nous prendre au commencement de la question, il faut que vous sçachiez (Ms.)
+
+promettons-nous (Ms.)
+
+Mais les âmes ainsi déterminées ont besoin d’estre esclaircies en quoy elles pourront recognoistre ceste volonté de Dieu. De cecy j’en ay parlé bien clairement au livre de l’Amour de Dieu * ; neantmoins, pour * Livres VIII et IX. satisfaire à la demande qui m’a esté faite, j’en diray encore quelque chose. La volonté de Dieu se peut entendre en deux façons : il y a la volonté de Dieu signifiée et la volonté du bon plaisir. La volonté signifiée est distinguée en quatre parties, qui sont les commandemens de Dieu et de l’Eglise, les conseils, les inspirations, les Réglés et Constitutions. Aux commandemens de Dieu et de l’Eglise il faut nécessairement que chacun obéisse, parce que c’est la volonté de Dieu absolue, qui veut qu’en cela nous obéissions si nous voulons estre sauvés. Ses conseils, il veut bien que nous les observions, mais non pas d’une volonté absolue, ains seulement par maniéré de désir ; c’est pourquoy nous ne perdons pas la charité et ne nous séparons pas de Dieu pour n’avoir pas le courage d’entreprendre l’obeissance des conseils. Mesme nous ne devons pas vouloir entreprendre la pratique de tous, ains seulement de ceux qui sont plus conformes à nostre vocation ; car il y en a qui sont tellement opposés les uns aux autres, qu’il seroit impossible tout à fait d’embrasser la pratique de l’un sans oster le moyen de pratiquer l’autre. C’est un conseil de quitter tout pour suivre Nostre Seigneur desnué de toutes choses ; c’est un conseil de prester et de donner l’aumosne : dites-moy, celuy qui a quitté tout d'un coup ce qu’il avoit, dequoy peut-il faire l’aumosne puisqu’il n’a rien ? Il faut doncques suivre les conseils que Dieu veut que nous suivions, et ne pas croire qu il les ayt tous donnés à fin que nous les
+
+embrassions tous. Or, la pratique des conseils qu’il faut
+
+que nous pratiquions nous autres, sont ceux qui sont
+
+compris dans nos Réglés.
+
+Nous avons dit de plus que Dieu nous signifie sa
+
+volonté par ses inspirations ; il est vray, mais pourtant
+
+il ne veut pas que. nous discernions de nous-mesmes si
+
+ce qui nous est inspiré est sa volonté, ni moins qu’à
+
+tort et à travers nous suivions ses inspirations. Il ne
+
+veut pas aussi que nous attendions que luy-mesme nous
+
+manifeste ses volontés ou qu’il nous envoyé des Anges
+
+pour les nous enseigner ; mais sa volonté est que nous
+
+recourions, és choses douteuses et d’importance, à ceux
+
+qu’il a establis sur nous pour nous conduire, et que nous
+
+demeurions totalement sousmis à leur conseil et à leur
+
+opinion en ce qui regarde la perfection de nos âmes.
+
+Voila donc comment Dieu nous manifeste sa volonté
+
+que nous appelions volonté signifiée.
+
+Il y a de plus la volonté du bon plaisir de Dieu,
+
+laquelle nous devons regarder en tous les evenemens,
+
+je veux dire en tout ce qui nous arrive : en la maladie,
+
+en la mort, en l’affliction, en la consolation, és choses
+
+adverses et prosperes, bref en toutes choses qui ne sont
+
+point preveües. Et à ceste volonté de Dieu, nous devons
+
+tousjours estre prests de nous sousmettre en toutes
+
+occurrences, és choses désagréables comme és agréa­
+
+bles, en la mort comme en la vie, en fin en tout ce qui
+
+n'est point manifestement contre la volonté de Dieu
+
+signifiée, car celle-cy va devant ; et c’est en cecy que
+
+nous respondons à la seconde partie de la demande.
+
+Ce que pour vous mieux faire entendre, il faut que je
+
+vous die ce que j’ay leu ces jours passés dans la Vie du
+
+*Apud Eadmerum, grand saint Anselme *, où il est dit que durant tout le 1. I c. VI.
+
+temps qu’il fut Prieur et Abbé de son Monastère, il fut
+
+extrêmement aymé d’un chacun, parce qu’il estoit fort
+
+embrassions tous — ou la pratique d’iceux. Les conseils qu’il faut que
+
+nous pratiquions nous autres, ce sont nos Réglés ; je veux dire, ils sont tous
+
+compris dans l'enclos d’icelles. (Ms. et Coll.)
+
+condescendant, se laissant plier à la volonté de tous, non seulement des Religieux, mais aussi des estrangers. L’un luy venoit dire : Mon Pere, vostre Reverence devroit prendre un peu de bouillon ; il en prenoit. Un autre venoit qui luy disoit : Mon Pere, cela vous fera mal ‘ tout soudain il le quittoit. Ainsi il se sousmettoit en tout ce en quoy il n’y avoit point d’offense de Dieu, à la volonté de ses Freres, lesquels sans doute suivoyent leur inclination propre, mais encore plus particulièrement les séculiers qui le faisoyent aussi tourner à toute main, selon leur volonté. Or, ceste grande souplesse et condescendance du Saint n’estoit pas approuvée de tous, bien qu’il fust fort aymé de tous ; si bien qu’un jour, quelques-uns de ses Freres luy voulurent remonstrer que cela n’alloit pas bien selon leur jugement, et qu’il ne devoit pas estre si souple et condescendant à la volonté de tout le monde, ains qu’il devoit faire plier sous sa volonté ceux qu’il avoit en charge.
+
+O mes enfans, dit ce grand Saint, vous ne sçavez pas peut estre à quelle intention je le fais. Sçachez donc que me ressouvenant que Nostre Seigneur a commandé* * Matt., vu, 12
+
+r ■ , , . . Lucæ, VI, 31.
+
+que nous fissions aux autres ce que nous voudrions qui nous fust fait, je ne peux faire autrement ; car je voudrois que Dieu fist ma volonté, et partant je fais volontiers celle de mes Freres et de mes prochains, à fin qu’il plaise à ce bon Dieu de faire quelquesfois la mienne. De plus, j’ay une autre considération, qui est, qu’apres ce qui est de la volonté de Dieu qu’il a signifiée, je ne puis mieux cognoistre la volonté de son bon plaisir, ni plus asseurement, que par la voix de mon prochain ; car Dieu ne me parle point, moins m’envoye-t’il des Anges pour me declarer ce qui est de son bon plaisir. Les pierres, les animaux, les plantes ne parlent point ; il n’y a donc que l’homme qui me puisse manifester la volonté de mon Dieu, et partant je m’attache à cela tant que je puis. Dieu me commande la charité envers le prochain ; c’est une grande charité de se conserver en union les uns avec les autres, et pour cela je ne trouve point de meilleur moyen que d’estre doux et condescendant. La douce et humble condescendance doit tousjours surnager à toutes nos actions. Mais ma principale considération est de croire que Dieu me manifeste ses volontés par celles de mes Freres, et partant j’obéis à Dieu toutes et quantes fois que je leur condescens en quelque chose. Outre cela, Nostre Sei* Matt., xviii, 3- gneur n’a-t’il pas dit * que si nous ne sommes faits comme un petit enfant nous n’entrerons point au Royaume des deux ? Ne vous estonnez donc point si je suis doux et facile à condescendre comme un enfant, puisqu’on cela je ne fais que ce qui m’a esté ordonné par mon Sauveur. Il n’y a pas grand interest que je m’aille coucher ou que je demeure levé, que j’aille là ou que je demeure icy ; mais il y auroit bien de l’imperfection de ne pas en cela me sousmettre à mon prochain.
+
+Voyez-vous, mes cheres Sœurs, le grand saint Anselme se sousmet à tout ce qui n’est point contre les commandemens de Dieu ou de la sainte Eglise ou contre les Réglés ; car ceste obéissance marche tousjours devant. Je ne pense pas que si on eust voulu qu’il eust fait quelque chose contre cela, qu’il l’eust fait, ô
+
+souple (Ms. et Coll.)
+
+nullement ; mais apres cela, sa réglé generale estoit, en ces choses indifferentes, de condescendre à tout et à tous. Le glorieux saint Paul, apres avoir dit * que rien *Rom., vin, 38,39. ne le séparera de la charité de Dieu, ni la mort ni la vie, non pas mesme les Anges, ni tout l’enfer s’il se bandoit contre luy n’en auroit pas le pouvoir : Je ne sçache rien de meilleur, dit-il, que de me rendre tout à tous *, rire avec les rians, pleurer avec ceux qui *1 Cor.,ix,2a;cf.n pleurent*, et en fin me rendre un avec un chacun. 0) * Rom’xn,5’^. '
+
+Saint Pachome * faisant un jour des nattes, il y eut *Vitæ Patrum,vita un enfant lequel regardant ce que ü) faisoit le Saint, S Pach->1I>CXLVn-luy dit : O mon Pere, vous ne faites pas bien ; ce n’est pas ainsi qu’il faut faire. Le grand Saint, quoy qu’il fist bien ces nattes, se leva neantmoins promptement et s’alla asseoir proche de l’enfant, lequel luy monstra comment il falloit faire. Il y eut quelque Religieux qui luy dit : Mon Pere, vous faites deux maux condescendant à la volonté de cest enfant, car vous l’exposez au danger d’avoir de la vanité et vous gastez vos nattes ; car elles estoyent mieux ainsi que vous les faisiez. A quoy le bien-heureux Pere respondit : Mon Frere, si Dieu permet que l’enfant ayt de la vanité, peut estre qu’en recompense il me donnera de l’humilité ; et quand il m’en aura donné, j’en pourray par apres donner à cest enfant. Il n’y a pas aussi grand danger de passer ainsi ou ainsi les joncs à faire des nattes ; mais il y auroit bien du danger si nous n’avions à cœur ceste *Ubi supra, p. 268.parole tant celebre du Sauveur* : Si vous n’estes faits
+
+comme -petits enfans, W vous n'aurez point de part
+
+au Royaume de mon Pere. 0 que c’est un grand bien,
+
+mes Sœurs, d’estre ainsi pliables et faciles à estre
+
+tournés à toute main !
+
+Or, non seulement les Saints nous ont enseigné ceste
+
+pratique de la sousmission de nostre volonté, mais aussi
+
+Nostre Seigneur mesme, tant par exemple que par
+
+parole. Mais comment par parole ? Le conseil de l’abne-
+
+* Matt., xvi, 24 ; gation de soy-mesme *, qu’est-ce autre chose sinon Lucæ, IX, 23. , , . , , , , , x
+
+renoncer en toute occasion a sa propre volonté et a son
+
+jugement particulier, pour suivre la volonté d’autruy
+
+et se sousmettre à tous, excepté tousjours ce en quoy
+
+l’on offenceroit Dieu ? Mais, pourriez-vous dire, je vois
+
+clairement que ce que l’on veut que je fasse procede
+
+d’une volonté humaine et d’une inclination naturelle ;
+
+et partant, Dieu n’a pas inspiré ma Mere ou ma Sœur
+
+de me faire faire une telle chose. Non, peut estre que
+
+Dieu ne luy aura pas inspiré cela, mais ouy bien à vous
+
+de le faire, et y manquant, vous contrevenez à la déter­
+
+mination de faire la volonté de Dieu en toutes choses,
+
+et par conséquent au soin que vous devez avoir de
+
+vostre perfection. Il faut donc se sousmettre tousjours
+
+à faire tout ce que l’on veut de nous pour faire la
+
+volonté de Dieu, pourveu qu’il ne soit pas contraire à
+
+sa volonté qu’il nous a signifiée en la. maniéré susdite.
+
+Or, pour dire un mot de la volonté des créatures,
+
+elle se peut prendre en trois façons : par maniéré
+
+d’affliction, par maniéré de complaisance, ou bien sans
+
+propos ou hors de propos. A la première, il faut estre
+
+bien fort pour embrasser volontiers ces volontés qui
+
+sont si contraires à la nostre, qui ne voudroit point estre
+
+contrariée ; et cependant pour l’ordinaire, il faut gran­
+
+dement souffrir en ceste pratique de suivre les volontés
+
+comme petits enfans, — en simplicité, hümilité et souplesse, (Ms. et Coll.)
+
+pourveu que — ce ne soit point contre sa volonté qui nous est signifiée
+
+és' quatre façons que j’ay dit. (Ms. et Coll.) ■
+
+des autres, qui sont pour la pluspart differentes de (“) la nostre. Il faut donc recevoir par maniéré de souffrance l’execution de telles volontés, et se servir de ces contradictions journalières pour nous mortifier, les acceptant avec amour et douceur. Par maniéré de complaisance, il n’est pas besoin d’exhortation pour les nous faire suivre ; car tres-volontiers nous obéissons aux choses agréables, ains nous allons au devant de ces volontés-là pour leur offrir nos sousmissions. Ce n’est pas aussi de ceste sorte de volonté que l’on demande s’il s’y faut sousmettre, car on n’en doute nullement ; mais de celles qui sont hors de propos et desquelles nous ne cognoissons pas la raison pourquoy l’on veut cela de nous, c’est où il va du bon. Car pourquoy feray-je plustost la volonté de ma Sœur que la mienne ? la mienne n’est-elle pas aussi conforme à celle de Dieu en ceste legere occurrence que la sienne ? Pour quelle raison dois-je croire que ce qu’elle me dit que je fasse soit plustost une inspiration de Dieu que la volonté qui m’est venue de faire une autre chose ?
+
+O Dieu ! mes cheres Sœurs, c’est icy où la divine Majesté nous veut faire gaigner le prix de la sousmission ; car si nous voyions bien tousjours que l’on a raison de. nous commander ou de nous prier de faire une telle chose, nous n’aurions pas grand merite en la faisant, nj grande répugnance, parce que sans doute toute nostre ame aquiesceroit volontiers à cela ; mais quand les raisons nous sont cachées, c’est lors que nostre volonté répugné, que nostre jugement regimbe, et ressentons la contradiction. Or, c’est en ces occasions qu’il se faut surmonter, et avec une simplicité toute enfantine se mettre en besogne sans discours ni raison, et dire : Je sçay bien que la volonté de Dieu est que je fasse plustost la volonté de mon prochain que la mienne, et partant je me mets à la pratique, sans regarder si c’est la volonté de Dieu que je me sousmette à faire ce qui procede de passion et inclination, ou bien vrayement par une inspiration ou mouvement de la raison ; car pour toutes ces petites choses il faut marcher en simplicité. Quelle apparence, je vous prie, y auroit-il de faire une heure de méditation pour cognoistre si c’est la volonté de Dieu que je boive quand l’on m’en prie, ou que je m’en abstienne par penitence ou sobriété, et semblables petites choses lesquelles ne sont dignes de considération, et principalement si je voy que je contenteray tant soit peu le prochain en les faisant ?
+
+Es choses de conséquence, il ne faut non plus perdre le temps à les considerer, mais il s’en faut addresser à nos Supérieurs, à fm de sçavoir d’eux ce que nous avons à faire ; apres quoy, il n’y faut plus penser, ains s’arrester absolument à leur opinion, puisque Dieu nous les a donnés pour la conduite de nostre ame en la perfection de son amour. Que si l’on doit ainsi condescendre à la volonté d’un chacun, beaucoup plus le doit-on faire à celle des Supérieurs, lesquels nous devons tenir et regarder parmi nous comme la personne de Dieu mesme ; aussi sont-ils ses lieutenans. C’est pourquoy, encore que nous cognussions qu'ils eussent des inclinations naturelles, voire mesme des passions, par les mouvemens desquelles ils commanderoyent quelquefois ou reprendroyent les defauts de leurs inferieurs, il ne s’en faudroit nullement estonner, car ils sont hommes comme les autres, et par conséquent sujets à avoir des inclinations et des passions ; mais il ne nous est pas permis de faire jugement que ce qu’ils nous commandent
+
+'I
+
+parte de leur passion et inclination, et c’est chose qu’il se faut garder de faire. Neantmoins, si nous cognoissions palpablement que cela fust, il ne faudroit pas laisser d’obeir tout doucement et amoureusement, et se sousmettre avec humilité à la correction.
+
+C’est voirement une chose bien dure à l’amour propre que d’estre sujet à toutes ces rencontres. (Q) Il est vray ; mais ce n’est pas aussi cest amour là que nous devons contenter ni escouter, ains seulement le tres-saint amour de nos âmes, Jésus, qui demande de ses cheres espouses une sainte imitation de la parfaite obéissance qu’il rendit, non seulement à la tres-juste et bonne volonté de son Pere, mais aussi à celle de ses parens, et qui plus est, de ses ennemis lesquels sans doute suivirent leurs passions aux travaux qu’ils luy imposèrent ; et cependant le bon Jésus ne laisse de s’y sousmettre doucement, humblement, amoureusement. Et nous verrons assez que ceste parole de Nostre Seigneur qui ordonne que l’on -prenne sa croix*, doit estre entendue de *vide supra,p. 270. recevoir de bon cœur les contradictions qui nous sont faites à tous rencontres par la sainte obéissance, bien qu’elles soyent legeres et de peu d’importance.
+
+Je m’en vay vous donner encor un exemple admirable pour vous faire comprendre la valeur de ces petites croix, c’est à dire de l’obeissance, condescendance et souplesse à suivre la volonté d’un chacun, mais spécialement des Supérieurs. Sainte Gertrude fut faite Religieuse en un monastère où il y avoit une Supérieure laquelle recognoissoit fort bien que la bien-heureuse Sainte estoit d’une complexion foible et delicate ; c’est pourquoy elle la faisoit traitter plus délicatement que les autres Religieuses, ne luy laissant pas faire les austérités que l’on avoit de coustume de faire en ceste Religion. Que pensez-vous donc que faisoit la pauvre fille pour devenir sainte ? Rien autre chose que de se
+
+sousmettre bien simplement à la volonté de la Mere. Et
+
+bien que sa ferveur l’eust fait desirer de faire ce que les
+
+autres faisoyent, elle pourtant n’en tesmoignoit rien ;
+
+car quand on luy commandoit de s’aller coucher, elle y
+
+alloit simplement, sans répliqué, estant asseurée qu’elle
+
+jouïroit aussi bien de la presence de son Espoux dans
+
+Son lict par obéissance, que si elle eust esté au chœur
+
+avec ses Sœurs et compagnes. Et pour tesmoigner de
+
+la grande paix et tranquillité d’esprit qu’elle acquit en
+
+ceste pratique, Nostre Seigneur revela à sainte Mechtilde
+
+sa compagne, que si on le vouloit trouver en ceste vie
+
+que l’on le cherchast premièrement au tres-saint Sacre­
+
+ment de l’autel, et puis apres dans le cœur de sainte
+
+* Liber de Gratia Gertrude *. Il ne s’en faut pas estonner, puisque
+
+Ovidii Dnro speciali, Pars AZT
+
+VI, x A 1
+
+c. n. l’Espoux dit au Cantique des Cantiques * que le lieu où * Cap. i, 6.
+
+il se repose est au midy. Il ne dit pas qu’il se repose
+
+ni au matin, ni au soir, mais au midy, parce qu’au
+
+midy il n’y a point d’ombre ; et le cœur de ceste grande
+
+Sainte estoit un vray midy, où il n’y avoit point
+
+d’ombre de scrupules ni de propre volonté, et partant
+
+son ame jouïssoit pleinement de son Bien-Aymé, lequel
+
+prenoit ses delices en elle. En fin l’obeissance est le sel
+
+qui donne goust et saveur à toutes nos actions et les
+
+rend méritoires de la vie eternelle.
+
+Je desire encor aujourd’huy de dire deux ou trois
+
+mots de la Confession. Premièrement, je voudrois qu’on
+
+portast un grand honneur aux confesseurs ; car, outre
+
+que nous sommes fort obligés d’honnorer le sacerdoce,
+
+nous les devons regarder comme des Anges que Dieu
+
+nous envoyé pour nous reconcilier avec sa divine
+
+* Cf. le Directoire Bonté *. Et non seulement cela, mais encores il les Sœurs de ïa visité faut regarder comme lieutenans de Dieu en terre ; et art xxG°UtUmier’ partant, encor qu’il leur arrivast quelquesfois de se
+
+monstrer hommes, commettant quelques imperfections,
+
+comme demandant quelque chose curieuse qui ne
+
+seroit pas de la confession, comme seroit vos noms,
+
+si vous faites des pénitences, pratiquez des vertus et
+
+quelles elles sont, si vous avez quelques tentations et
+
+choses semblables, je voudrois respondre selon qu’ils
+
+le demandent, bien qu’on n’y soit pas obligé ; car il ne faut pas leur dire qu’il ne vous est pas permis de leur dire autre chose que ce dont vous vous estes accusées W. O non, jamais il ne faut user de ceste défaitte, car cela n’est pas vray ; vous pouvez dire tout ce que voudrez en confession, pourveu que vous ne parliez que de ce qui regarde vostre particulier, et non pas ce qui concerne le general de vos Soeurs. Que si vous craignez de dire quelque chose de ce qu’ils vous demandent, de peur de vous embarrasser, comme seroit de dire que vous avez des tentations, si vous appréhendez de les dire, au cas qu’ils les voulussent sçavoir par le menu, vous pourrez leur respondre : J’en ay, mon Pere, mais par la grâce de Dieu, je ne pense pas y avoir offencé sa Bonté ; mais jamais ne dites qu’on vous a défendu de vous confesser de cecy ou de cela. Dites à la bonne foy à vostre confesseur tout ce qui vous fera de la peine, si vous voulez ; mais derechef je vous dis, gardez-vous bien de parler ni du tiers ni du quart.
+
+En second lieu, nous avons quelque réciproque obligation aux confesseurs en l’acte de la confession, de tenir caché ce qu’ils nous auront dit, si ce n’estoit quelque chose de bonne W édification ; et hors de là il n’en faut point parler. S’il arrive qu’ils vous donnent quelque conseil contre vos Réglés et vostre maniéré de vivre, escoutez-les avec humilité et reverence, et puis vous ferez ce que vos Réglés permettront et non autre. Les confesseurs n’ont pas tousjours intention de vous obliger sur peine de péché à ce qu’ils vous disent ; il faut recevoir leurs conseils par maniéré de simple
+
+direction. Estimez cependant beaucoup, et faites grand
+
+estât de tout ce qui vous sera dit en Confession ; car
+
+vous ne sçauriez croire le grand profit qu’il y a en ce
+
+Sacrement pour les âmes qui y viennent avec l’humilité
+
+requise. S’ils vous vouloyent donner pour penitence
+
+quelque chose qui fust contre la Réglé, priez-les tout
+
+doucement de changer ceste penitence en une autre,
+
+d’autant qu’estant contre la Réglé, vous craindriez de
+
+* Cf. le Directoire, scandaliser vos Sœurs si vous le faisiez *. Au reste, ubi supra, p. 274. , r
+
+jamais il ne faut w murmurer contre le confesseur, bi
+
+par son defaut il vous arrivoit quelque chose en confes­
+
+sion, vous pourriez dire tout simplement à la Supérieure
+
+que vous desirez bien, s’il luy plaisoit, de vous confesser
+
+à quelque autre, sans dire autre chose ; car ainsi faisant,
+
+vous ne descouvrirez pas l’imperfection du confesseur,
+
+et si, aurez la commodité de vous confesser à vostre
+
+gré. Mais cecy ne se doit pas faire à la legere et pour
+
+des causes de rien. Il faut eviter les extrémités ; car,
+
+comme il n’est pas bon de supporter des notables
+
+defauts en la confession, aussi ne faut-il pas estre si
+
+délicates qu’on n’en puisse supporter quelques petits.
+
+Troisiesmement, je voudrois fort que les Sœurs de
+
+céans prinssent un grand soin de particulariser leurs
+
+péchés en la confession. Je veux dire que celles qui
+
+n’auront rien remarqué qui fust digne de l’absolution,
+
+dissent quelque péché particulier ; car de dire qu’on
+
+s’accuse d’avoir eu plusieurs mouvemens de colere, de
+
+tristesse et ainsi des autres, cela n’est pas à propos ;
+
+car la colere et la tristesse sont des passions, et leurs
+
+qui y viennent avec — la préparation et humilité requise. Si le confesseur
+
+vous conseille chose que vous puissiez bonnement, il le faut faire, comme
+
+seroit de faire quelque penitence avec congé. Mais s’il vous vouloit donner
+
+pour penitence de faire quelque chose qui fust contre la Réglé, alors il
+
+faudrait luy dire fort doucement : Mon Pere, je supplie tres-humblement
+
+vostre Reverence de me changer ceste penitence, d’autant qu’estant contre la
+
+Réglé, je craindrais de scandaliser nos Sœurs si je la faisois. Ou bien, si c’estoit
+
+de dire tant d’Heures tous les jours, ou tant d’Offices durant un an ou quelque
+
+temps : Je ne le pourrais pas bonnement faire, à cause que nos heures nous
+
+sont toutes réglées. Mais au partir de là, il ne faut point (Ms. et Coll.) mouvemens ne sont pas péchés, d’autant qu’il n’est pas en nostre pouvoir de les empescher. Il faut que la colere soit déréglée, ou qu’elle nous porte à des actions déréglées, pour estre péché. Il faut donc particulariser quelque chose qui porte péché. W
+
+Je voudrais bien, de plus, que l’on eust un grand soin d’estre bien véritables, simples et charitables en la confession (véritable et simple est une mesme chose) : dire bien clairement ses fautes, sans fard, sans artifice, faisant attention que c’est à Dieu que nous parlons, auquel rien ne peut estre celé ; fort charitables, ne meslant aucunement le prochain en vostre confession. Par exemple, ayant à vous confesser dequoy vous avez murmuré en vous-mesme ou bien avec les Soeurs de ce que la Supérieure vous a parlé trop sechement, n’allez pas dire que vous avez murmuré de la correction trop brusque qu’elle vous a fait, mais simplement que vous avez murmure contre la Supérieure. Dites seulement le mal que vous avez fait, et non pas la cause et ce qui vous y a poussée ; et jamais, ni directement ni indirectement, ne descouvrez le mal des autres en accusant le vostre, et ne donnez jamais sujet au confesseur de soupçonner qui c’est qui a contribué à vostre péché. N'apportez aussi aucunes accusations inutiles en la confession. Vous avez eu des pensées d’imperfection sur le prochain, des pensées de vanité, voire mesme de plus mauvaises ; vous avez eu des distractions en vos oraisons ; si vous vous y estes arrestées délibérément, dites-le à la bonne foy, et ne soyez pas contentes de dire que vous n’avez pas apporté assez de soin à vous tenir recolligées durant le temps de l’oraison ; mais si vous avez esté négligentes à rejetter une distraction, dites-le, car ces accusations generales ne servent de rien à la confession.
+
+Je voudrois bien encor, mes cheres filles, qu’en ceste maison l’on portast grand honneur à ceux qui vous annoncent la parole de Dieu. Certes, on a beaucoup d’obligation de le faire ; car il semble que ce soyent des messagers celestes qui viennent de la part de Dieu pour nous enseigner le chemin de salut. Il les faut regarder comme tels, et non pas comme des simples hommes ; car, quoy qu’ils ne parlent pas si bien que les hommes celestes, il ne faut pourtant rien rabattre de l’humilité et reverence avec laquelle nous devons recevoir la parole de Dieu, qui est tousjours la mesme, aussi pure, aussi sainte que si elle estoit dite et proférée par les Anges. Je remarque que quand j’escris à une personne sur du mauvais papier, et par conséquent avec un mauvais caractère, elle me remercie avec autant d’affection que quand je luy escris sur du meilleur papier et avec de plus beaux caractères. Pourquoy cela, sinon parce qu’elle ne fait pas attention ni sur le papier qui n’est pas si bon, ni sur le caractère qui est mauvais, ains seulement sur moy qui luy escris. De mesme faut-il faire de la parole de Dieu : ne point regarder qui est-ce qui la nous apporte ou qui est-ce qui la nous déclaré ; il nous doit suffire que Dieu se sert de ce prédicateur pour la nous enseigner. Et puisque nous voyons que Dieu l’honnore tant que de parler par sa bouche, comment est-ce que nous autres pourrions manquer d’honnorer et de respecter sa personne ?
+
+Ce qui a esté obmis de l’Entretien de la Confession W
+
+Vous me voulez aujourd’huy interroger de la Confession ; j’en suis content, mes cheres filles. Et premièrement je vous dis que c’est une liberté toute sainte et de la sacrée enfance spirituelle enseignée en l’Evangile, que celle que vous avez d’aller demander en simplicité de cœur à la Supérieure, ou Directrice quant aux Novices, en quelle façon vous vous confesserez de certaines choses où quelquefois vous vous trouvez embrouillées. Or, quand l’on vous dira que l’on ne croit pas qu’il y ait matière de confession, l’on ne vous dit pas pour cela de ne vous en confesser point. Aussi feroit-on un très-grand mal d’aller dire à un confesseur : J'ay bien encore quelque faute, mais ma Supérieure m’a défendu de m’en confesser ; car outre que cela n’est nullement vray, vous obligez le confesseur à vous faire dire ceste faute, à laquelle peut estre, ne cognoissant ni le fond ni l’estât de vostre ame, ni la rondeur de vostre maniéré de vie, il y croira trouver du péché, et se mettra à blasmer la Supérieure d’imprudence, d’ignorance et d’un mauvais gouvernement, murmurant contre vostre Institut, lequel en vérité vous donne autant ou plus de liberté pour la conscience qu’en puissent avoir aucunes Religieuses. Jamais vos Supérieures ne vous pressent de leur dire ce que vous ne leur voulez pas dire, ni jamais elles ne vous defendent de dire ce que vous voulez dire de vostre conscience à vos confesseurs ordinaires et extraordinaires.
+
+Que si vous demeurez si longuement en confession, que toute la Communauté en soit incommodée, et que la Supérieure vous die que vous deviez demander à vous confesser la derniere, selon l’ordre de la maison, à fin que les Soeurs qui doivent aller selon leur rang ordinaire n’en soyent pas incommodées, elle ne vous demande pas pour cela : Que dites-vous, ou que ne dites-vous pas ? Elle ne fait nul mal de vous ressouvenir qu’il faut que tout aille par ordre en la maison de Dieu. Mais les fantasies de l’esprit humain sont estranges, pour peu que l’on les escoute ! Je vous ay dit maintesfois, mes tres-cheres filles, que c’est la voye du Ciel que la simplicité, que les Supérieures sont les lieutenantes de Dieu ; celles qui vont à cœur ouvert, franchement et confidemment avec elles, ont trouvé le grand secret pour maintenir la tranquillité et la paix de l’esprit, et elles n’en trouveront gueres ailleurs. Mais je vous ay aussi dit que vous n’avez aucune obligation sur peine de péché de tout dire à la Supérieure ; beaucoup moins estes-vous gehennées à ne dire point cecy ou cela <a’) au confesseur ;
+
+(a’) pour maintenir la — paix et tranquillité du cœur ; et bien souvent ceux ou celles qui vont avec reserve à l’endroit de leurs Supérieurs et Supérieures se trompent bien, parce que Dieu a réservé ce qu’ils cherchent en la sousmission et volontaire sujétion à l’authorité de leurs propres Supérieurs. Tant que le bien nous est proche, il ne le faut pas chercher loin. Mais ressouvenez-vous tousjours de ce que j’ay dit que vous n’estes point gehennées ni contraintes de dire tout à la Supérieure, ni moins de ne pas dire ce que vous voudrez (Ms. et Coll.)
+
+dites-luy à la bonne heure tout ce que vous voudrez, mais ne parlez que de vous et de ce qui appartient à la confession.
+
+(b’) H est vray, mes tres-cheres filles, qu’il se trouve des confesseurs fort doctes, qui ont confessé long temps et tres-dignement les séculiers, lesquels toutesfois n’entendront pas les Filles de la Visitation ni les personnes qui font profession d’une grande spiritualité, parce que les fautes sont si minces, et d’une certaine couleur assez difficile à discerner, qu’ils prendront des petites aversions pour des grosses malveillances, des petits destours d’amour propre pour des grands mensonges, des petites inclinations pour des attaches fort mauvaises. Les Sœurs qui s’apperçoivent par la correction que le confesseur leur fait qu’il ne les entend pas, feront bien de luy dire avec humilité : Mon Pere, je n’ay pas sceu me faire entendre ; ce n’est pas ce que vostre Reverence comprend que je veux dire, c’est en telle et telle façon qu’il se doit entendre. La Supérieure qui s’apperçoit de cela doit, par forme de discours cordial et humble, donner à entendre à tel confesseur la maniéré d’agir des Filles de l’Institut. Il faut estre spirituel pour entendre le langage des âmes spirituelles.
+
+<c’) L’on va à la confession pour se reunir à Dieu. O que les âmes religieuses ont un grand advantage par dessus les mondains, estant dehors des occasions de ces grandes desunions, parce qu’il n’y a que le péché mortel qui nous desunisse de Dieu. Le veniel fait seulement une petite ouverture entre Dieu et nous, et par le Sacrement de Confession nous remettons nostre ame en son premier estât.
+
+L’on peut commettre en confession quatre grands manquemens : le premier, quand l’on y va plustost pour
+
+(b’) [Pour cet alinéa, voir l’Entretien suivant, variante.]
+
+(c’J [Cf. à l’Appendice I le Dernier Entretien de nostre saint et bienheureux Pere, fait à la Visitation de Lyon, et le Recueil des Questions qui ont été proposées en ce même Monastère.] se descharger que pour plaire à Dieu ; l’on est si satisfait quand on a bien dit ses raisons, meslant le defaut des autres pour nous mieux faire entendre ! Et c’est par ceste voye que les péchés se commettent bien souvent en confession. Le deuxiesme, c’est quand on va dire au confesseur de beaux discours ageancés de belles paroles, raconter une grande histoire pour se faire estimer et croire que l’on est bien esclairé, faisant semblant d’exagerer les fautes ; et par ce moyen, d’une bien grosse, l’on fait tant qu’elle est bien petite et qui ne donne pas cognoissance au confesseur de l’estât de l’ame. Le troisiesme manquement est que l’on y va avec tant de finesse et couverture, qu’au lieu de s’accuser l'on s’excuse par une grande recherche de soy-mesme, craignant que l’on ne voye la totalité du defaut ; cela est tres-dangereux, qui le feroit volontairement. Le quatriesme est qu’il y en a qui se satisfont à exagerer leur faute, en faisant une grande d’une petite : tout cela est tres-mal. Je voudrois que l’on procedast simplement et franchement, purement pour Dieu, avec une vraye détestation de ses fautes et entière volonté de s’amender.
+
+Il faut discerner en s’accusant, les petites obéissances d’avec les importantes, les choses d’ordonnance d’avec celles de conseil ; car les confessions doivent estre tellement nettes et entières que rien plus. Il faut dire les choses comme elles sont et ce qu’elles sont. Si l’obeissance où vous avez manqué est d’importance, dites quelle elle est tout simplement, et faites de mesme pour les autres manquemens. Pour les petits manquemens, suffit de dire d’avoir manqué deux ou trois fois à quelque obéissance legere et peu importante : cela tient le confesseur en repos.
+
+Mais il faut considerer le mouvement et les circonstances qui interviennent en nos fautes, et s’en accuser franchement, car la Réglé ni les Constitutions n’obligent point à péché : ce n’est donc point elles qui causent le péché, mais les mouvemens de nostre volonté. Par exemple, la cloche vous appelle à quelques exercices, et par paresse ou autre mauvais sujet vous n’y allez pas : cela est un péché veniel. Mais qui ne void que ce n’est ni les Réglés ni les Constitutions qui font le péché, ains le mouvement de paresse par lequel vous désobéissez ? Dites donc franchement vos mouvemens et vos fautes, particularisant quelles elles sont, quand elles sont un peu grosses et tirent conséquence.
+
+Il se faut confesser de ce que l’on fait surtout quand on a du sentiment ; comme de dire quelque parolle non préméditée, il y peut avoir du péché. Toutefois, il ne se faut pas mettre en peine, car nous n’avons pas une perfection exempte d’amour propre qui nous fait tousjours faire quelque chose par cy par là. Si en suite d’un prompt mouvement de sentiment je jette là une plume, je ne suis pas obligé de m’en confesser ; bien que si ces promptitudes m’arrivent souvent, je les diray en ma reveuë generale, pour en tirer instruction, (d’) Une fille, par exemple, à laquelle on aura donné charge d'esteindre au soir les chandelles, s’en oubliera parfois par mesgarde et contre sa volonté : elle n’a point péché. Mais elle ne veut pas s’assujettir à ceste obéissance : elle peche et s’en doit confesser. La différence qu’il y a entre le péché veniel et l’imperfection, c’est que l’imperfection est une surprise et inadvertance, et au péché, nostre volonté y concourt.
+
+Quant à l’acte de contrition, il faut avoir un vray regret du mal passé et une bonne resolution de ne le plus commettre ; et à cest effect, le Confiteor, qui est la confession generale des Chrestiens, se doit dire bien dévotement devant Dieu. Mes cheres filles, ne nous amusons point à tous ces discern emens, ni à vouloir pleurer et sentir nostre contrition ; suffit qu’elle soit solide au fond du cœur et en la résolution d’amendement. Si l’amendement ne suit pas tousjours, ne laissons pas de tousjours travailler à cela ; c’est nostre vraye besogne.
+
+L’on demande si en l’examen il est bon de discerner
+
+(d’) [Cf. la variante, page 187.] le péché veniel d’avec les imperfections. Ouy, ma chere fille ; mais entre deux cens il ne s’en trouvera pas deux qui le sçachent faire, sinon és choses bien grosses. En voicy un exemple : je viens vous dire qu’une telle personne vous salue, se recommande à vous, m’a parlé de vous avec estime, et de tout cela il n’en est rien : voilà un péché veniel tres-volontaire ; mais je raconte quelque chose, et dans mon discours il se glisse quelques paroles qui ne sont pas du tout véritables, dont je ne m’apperçois qu’apres les avoir dites : voila une imperfection dont je ne suis pas obligé de me confesser, sinon que je n’eusse rien autre. Il faut que je vous die une chose qui m’arriva à Paris, confessant la bien-heureuse Marie de l’Incarnation, qui estoit encore seculiere. Apres l’avoir confessée deux ou trois fois avec beaucoup d’attention, en fin je dis une fois à ceste bien-heureuse que je ne luy pouvois donner l’absolution, parce que les choses dont elle s’accusoit n’estoyent que minces imperfections et non péché, et luy en fis dire un qu’elle eust fait autresfois, comme vous faites à la Visitation. Elle s’estonna fort que je luy dis ne trouver pas péché veniel, et me remercia grandement de luy avoir donné ceste lumière, m’asseurant qu'elle n’avoit jamais pensé à ceste distinction ; par où vous voyez que cela est difficile, puisque ceste ame si sainte et si esclairée estoit neantmoins dans ceste ignorance.
+
+Ouy vrayement, ma tres-chere fille, vous pouvez vous approcher de la Communion avec un péché veniel, sinon que par humilité vous vous en voulussiez priver avec congé, ou bien demander licence de vous confesser ; mais certes, je répugné fort que l’on se confesse plus souvent que les autres, cela ne sert qu’à donner soupçon que l’on a quelque grande chose.
+
+Les péchés veniels sont effacés par un abbaissement devant Dieu, en prenant de l’eau benite, en disant un mea culpa avec humilité. <e’) Ce qui fait que la bénédiction (e’) [Cf. la variante (o’), page 154.] des Evesques efface les péchés veniels, c’est à cause de l’humilité et acte de sousmission que font ceux qui la demandent. Humilions-nous devant Dieu et il nous pardonnera ; faisons resolution de nous confesser à la première occasion, et passons chemin en la voye de Dieu. Si neantmoins le scrupule est grand et la faute grosse, la Supérieure trouvant bon que vous vous retiriez de la Communion, faites-le doucement, par reverence envers la grandeur et pureté de Dieu. Certes, cela est loüable, mais la confiance filiale plaist beaucoup à Dieu. L’on fait une grande perte que de perdre la Communion.

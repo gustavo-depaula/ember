@@ -1,0 +1,224 @@
+{
+  "id": "sales-entretiens-spirituels",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Les vrays Entretiens spirituels",
+    "en-US": "The True Spiritual Conferences",
+    "pt-BR": "Os verdadeiros Colóquios espirituais"
+  },
+  "author": {
+    "fr-FR": "Saint François de Sales",
+    "en-US": "St. Francis de Sales",
+    "pt-BR": "São Francisco de Sales"
+  },
+  "description": {
+    "fr-FR": "Les vingt et un entretiens de saint François de Sales aux Religieuses de la Visitation, recueillis par elles et publiés en 1629 : la confiance, l’humilité, l’obéissance, la simplicité, la volonté de Dieu. Texte critique des Œuvres d’Annecy (tome VI), en orthographe d’époque, avec les entretiens inédits de l’appendice et le dernier entretien de Lyon (1622) ; la traduction anglaise de Gasquet et Mackey est jointe entretien par entretien.",
+    "en-US": "The twenty-one conferences of St. Francis de Sales to the nuns of the Visitation, taken down by them and published in 1629: confidence, humility, obedience, simplicity, the will of God. The French is the critical text of the Annecy edition (vol. VI) in period spelling, with the appendix of unpublished conferences and the last conference at Lyon (1622); the Gasquet and Mackey English translation (1906) is paired conference by conference.",
+    "pt-BR": "Os vinte e um colóquios de São Francisco de Sales às Religiosas da Visitação, recolhidos por elas e publicados em 1629: a confiança, a humildade, a obediência, a simplicidade, a vontade de Deus."
+  },
+  "composed": "1629",
+  "languages": [
+    "fr-FR",
+    "en-US"
+  ],
+  "work": "francis-de-sales/entretiens-spirituels",
+  "editions": {
+    "fr-FR": {
+      "editor": "Religieuses de la Visitation d’Annecy",
+      "year": 1895
+    },
+    "en-US": {
+      "translator": "Abbot Gasquet and Dom H. B. Mackey, O.S.B.",
+      "year": 1906
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://www.donboscosanto.eu/francesco_di_sales/",
+      "edition": "Œuvres de saint François de Sales, édition complète d’après les autographes et les éditions originales, t. VI: Les vrays Entretiens spirituels, 1895 (file 06), Annecy: J. Niérat, 1892-1932. Scans with text layer (2022 re-OCR) from donboscosanto.eu.",
+      "description": "Francis’s text in the original 17th-century spelling, extracted from the PDF text layer (layout mode). Marginal references, the variants at the foot of the page, the editors’ introduction and tables, and the appendix of manuscript passages are not included. Chapter titles come from the edition’s table of contents.",
+      "tier": "A",
+      "tierEvidence": "Francis died in 1622; the Annecy edition is of his own text in period spelling, published in or before 1932. Only Francis’s own text is used, not the editors’ apparatus."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/spiritualconfere00franuoft",
+      "edition": "The Spiritual Conferences of St. Francis de Sales, translated from the Annecy text of 1895 by Abbot Gasquet and Dom H. B. Mackey, O.S.B., Library of St. Francis de Sales vol. V, London: Burns & Oates, 1906 (archive.org djvu text).",
+      "description": "OCR text of the twenty-one conferences; the preface, Wiseman’s introduction, translators’ footnotes and indexes are not included, and the appendix pieces were not translated.",
+      "tier": "A",
+      "tierEvidence": "Gasquet died in 1929 and Mackey in 1906; the translation appeared in 1906 (public domain)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "aux-religieuses",
+      "title": {
+        "fr-FR": "Aux Religieuses de la Visitation"
+      }
+    },
+    {
+      "id": "entretien-i",
+      "title": {
+        "fr-FR": "Entretien I. De l’obligation des Constitutions",
+        "en-US": "Conference I. Obligation of the Constitutions"
+      }
+    },
+    {
+      "id": "entretien-ii",
+      "title": {
+        "fr-FR": "Entretien II. De la confiance",
+        "en-US": "Conference II. On Confidence"
+      }
+    },
+    {
+      "id": "entretien-iii",
+      "title": {
+        "fr-FR": "Entretien III. De la fermeté",
+        "en-US": "Conference III. On Constancy"
+      }
+    },
+    {
+      "id": "entretien-iv",
+      "title": {
+        "fr-FR": "Entretien IV. De la cordialité et de l’esprit d’humilité",
+        "en-US": "Conference IV. On Cordiality and on the Spirit of Humility"
+      }
+    },
+    {
+      "id": "entretien-v",
+      "title": {
+        "fr-FR": "Entretien V. De la générosité",
+        "en-US": "Conference V. On Generosity"
+      }
+    },
+    {
+      "id": "entretien-vi",
+      "title": {
+        "fr-FR": "Entretien VI. De l’espérance",
+        "en-US": "Conference VI. On Hope"
+      }
+    },
+    {
+      "id": "entretien-vii",
+      "title": {
+        "fr-FR": "Entretien VII. De trois loix spirituelles",
+        "en-US": "Conference VII. Three Spiritual Laws"
+      }
+    },
+    {
+      "id": "entretien-viii",
+      "title": {
+        "fr-FR": "Entretien VIII. De la desappropriation",
+        "en-US": "Conference VIII. On Self-Renouncement"
+      }
+    },
+    {
+      "id": "entretien-ix",
+      "title": {
+        "fr-FR": "Entretien IX. De la modestie",
+        "en-US": "Conference IX. On Religious Modesty"
+      }
+    },
+    {
+      "id": "entretien-x",
+      "title": {
+        "fr-FR": "Entretien X. De l’obeissance",
+        "en-US": "Conference X. On Obedience"
+      }
+    },
+    {
+      "id": "entretien-xi",
+      "title": {
+        "fr-FR": "Entretien XI. De la vertu d’obeissance",
+        "en-US": "Conference XI. The Virtue of Obedience"
+      }
+    },
+    {
+      "id": "entretien-xii",
+      "title": {
+        "fr-FR": "Entretien XII. De la simplicité",
+        "en-US": "Conference XII. On Simplicity and Religious Prudence"
+      }
+    },
+    {
+      "id": "entretien-xiii",
+      "title": {
+        "fr-FR": "Entretien XIII. De l’esprit des Réglés",
+        "en-US": "Conference XIII. On the Rules and the Spirit of the Visitation"
+      }
+    },
+    {
+      "id": "entretien-xiv",
+      "title": {
+        "fr-FR": "Entretien XIV. Du jugement propre",
+        "en-US": "Conference XIV. On Private Judgment"
+      }
+    },
+    {
+      "id": "entretien-xv",
+      "title": {
+        "fr-FR": "Entretien XV. De la volonté de Dieu",
+        "en-US": "Conference XV. The Will of God"
+      }
+    },
+    {
+      "id": "entretien-xvi",
+      "title": {
+        "fr-FR": "Entretien XVI. Des aversions",
+        "en-US": "Conference XVI. On Antipathies"
+      }
+    },
+    {
+      "id": "entretien-xvii",
+      "title": {
+        "fr-FR": "Entretien XVII. Des voix",
+        "en-US": "Conference XVII. On Voting in a Community"
+      }
+    },
+    {
+      "id": "entretien-xviii",
+      "title": {
+        "fr-FR": "Entretien XVIII. Des sacremens",
+        "en-US": "Conference XVIII. The Sacraments and Divine Office"
+      }
+    },
+    {
+      "id": "entretien-xix",
+      "title": {
+        "fr-FR": "Entretien XIX. Des vertus de saint Joseph",
+        "en-US": "Conference XIX. On the Virtues of St. Joseph"
+      }
+    },
+    {
+      "id": "entretien-xx",
+      "title": {
+        "fr-FR": "Entretien XX. De la prétention religieuse",
+        "en-US": "Conference XX. Why We Should Become Religious"
+      }
+    },
+    {
+      "id": "entretien-xxi",
+      "title": {
+        "fr-FR": "Entretien XXI. De ne rien demander",
+        "en-US": "Conference XXI. On Asking for Nothing"
+      }
+    },
+    {
+      "id": "appendice-entretiens-inedits",
+      "title": {
+        "fr-FR": "Appendice. Entretiens qui ne se trouvent dans aucune édition antérieure (A-E)"
+      }
+    },
+    {
+      "id": "dernier-entretien",
+      "title": {
+        "fr-FR": "Dernier entretien de nostre bien-heureux Pere, Lyon, 1622"
+      }
+    }
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-02",
+    "en-US": "2026-11-02"
+  }
+}

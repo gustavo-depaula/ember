@@ -1,0 +1,33 @@
+# Aux Religieuses de la Visitation
+
+NOS TRES-CHERES SŒURS,
+
+Voyci les vrays Entretiens que nostre bien-heureux Pere nous a faits en divers temps et en diverses occasions. Nous les recueillions sincèrement, et rédigions par escrit apres qu’il les avoit achevé de faire ; et comme nous en avions alors la mémoire toute fraiche, et que chacune de nos Sœurs en rapportait une partie, nous taschions, en assemblant toutes les pièces, de les ajuster le mieux qu'il nous estoit possible pour en former un corps. Nous confessons neantmoins (ce que tout le monde croira facilement d’un ouvrage qui est passé par des mains si indignes que les nostres) que quelque diligence et quelque soin que nous y ayons apporté, il ne nous a pas esté possible de faire ce recueil si exactement qu’il ne nous soit eschappé beaucoup de choses excellentes, et que celles que nous avons retenues n’ayent aussi, perdu beaucoup de leur force et des advantages qu’elles avoyent en sortant d’une si digne et si venerable bouche. Toutesfois, il nous sera permis de dire avec toute vérité, qu’une grande partie des enseignemens qu’il nous a laissés y sont si naïfvement déduits et si fidèlement rapportés, que quiconque aura eu le bon-heur de l’entendre ou qui sera versé en la lecture de ses livres, y recognoistra aussi tost son esprit, et ne fera point de difficulté de mettre ces Entretiens, sinon au rang des autres œuvres, qui sont immédiatement sorties de ses mains, au moins au rang de celles qui ont en quelque façon l’honneur de luy appartenir. Que si bien ils ne sont pas elabourés à l’égal du reste de ses livres, si les discours n’en sont pas si bien tissus, s’il se rencontre quelque chose qui pourrait sembler a quelqu’un moins digne de son eminente doctrine £t de la réputation que ses autres œuvres luy ont acquise, ce n’est pas de merveille, car jamais il ne, les a veus ni leus ; et vous sçavez que les enfans sevrés de la mammelle de leur mere avant le temps, ne se portent pas si bien que ceux qui en sont entièrement nourris : tousjours il y a de la compassion aux enfans qui naissent apres le décès de leur pere.
+
+Certes, ce bien-heureux Pere de nos âmes n eust oneques pensé que ses familiers Entretiens deussent avoir autre jour que celuy de nostre parloir, auquel, avec une incroyable naïfveté et familiarité, Il respondoit à nos petites demandes : aussi ri estoit-ce pas nostre resolution de les communiquer au public, ains seulement en conserver les menus escrits pour la consolation particulière de nos maisons, à l’usage desquelles ils estaient destinés. Mais estant arrivé (nous ne sçavons dire par quels moyens) qu’ils ont esté imprimés à nostre insceu, avec un grand nombre de fort notables manquemens et en un très-mauvais estât; ce qu’ayant veu Monseigneur de Geneve, très digne frere et successeur de ce bien-heureux Prélat, a obtenu le Privilège mis ci apres, et voyant qu’il.y allait de la réputation de son saint frere, nous a commandé d’en donner promptement une véritable copie, pour remedier au mal de cette mauvaise impression et faire voir au
+
+vray ce qui en a esté recueilli dans ce monastère. Certes, nous voulons croire de nostre prochain,
+
+que ç’a esté un bon zele, plustost qu’aucune autre
+
+considération, qui l’a induit à les mettre au jour :
+
+mais nous ne sçaurions luy estre si indulgentes que nous ne nous plaignions charitablement de luy, non de nous avoir osté ce qui semblait estre nostre (car nous n’avons rien à nous, et les biens spirituels le sont encor moins que les autres parce qu’ils doivent estre plus communiqués), mais d’avoir soustrait ces Entretiens d’une telle sorte, que, les tirant avec peine, il a esté impossible qu’il ne les ayl mis en pièces et qu’il ne les ayt donnés par lambeaux comme il les avoit pris. Et mesmes, que ce sont des copies recopiées plusieurs fois par des filles, lesquelles y ont adjousté quantité de petites choses, ramassées par cy par là, qui avoyent esté dites à des particulières, mais non comme le Bienheureux les a dites, faute de mémoire : en suite de quoy, celuy qui les a soustraits a esté contraint de substituer en la place de ce qui luy manquait beaucoup de choses est-rangeres, qu’il a adjoustées pour la liaison du discours, lesquelles ont apporté un si grand, changement à l’ouvrage qu’à peine est-il recognoissable, ainsi qu'il sera aysé de remarr quer par la conférence des deux impressions.
+
+Il a esté donc necessaire, nos tres-cheres Soeurs, de communiquer ces Entretiens premièrement à ceux de qui nous dépendons et de qui nous devons prendre conseil, et lesquels ont pris la peine de reparer les defauts qu’ils avaient contractés entre nos mains ; puis de les mettre en lumière et les donner au public en la forme qu’ils doivent estre, pour pouvoir véritablement porter le nom des Entretiens de nostre bien-heureux Pere. Peut estre y trouverez-vous quelques choses qui sont si particulières pour nos maisons, que vous jugerez n’estre pas à propos de les publier si librement, l’esprit du monde n’estant pas tousjours disposé à recevoir les escrits de pieté avec la simplicité et la reverence qui leur est deüe. Neantmoins, ayant tousjours esté un des Salutaires conseils et désirs de nostre bien-heureux Pere, Instituteur et Fondateur, et qu’il * Entretien xvi. nous a déclaré dans l’un de ses Entretiens *, que l’esprit de nos maisons fust communiqué au prochain, pour donc ne le pas frustrer du fruict des saintes instructions que nous avons receuës, !obéissance et la charité veut que nous en fassions part au public : elle ordonne aussi qu’ils nous soyent particulièrement dédiés, comme à celles à qui ils sont particulièrement propres, puisque c’est à nous à qui nostre bien-heureux Pere les a faits. Jouissons toutes ensemble de ces si utiles et agréables Entretiens ; conservons-nous dans l’esprit de nostre Réglé par leur frequente et attentive lecture, mais sur tout par la pratique Jdele des saints enseignemens dont ils sont pleins: et à mesure qu’on les exprime extérieurement, imprimons-les profondément dans nos cœurs, à fin qu’ils n’en soient jamais effacés, et que nous ne soyons pas un four obligées de rendre compte d’un si précieux talent, si nous ne l’avons fait profiter. Nous espérons que nostre bien-heureux Pere, qui nous l’a donné de la part de Nostre Seigneur, nous obtiendra de sa divine bonté le moyen de le bien employer, et de nous en servir pour sa gloire et pour le salut de nos âmes. C’est le souhait continuel que nous faisons pour vous et pour nous, qui sommes en JESUS CHRIST,
+
+Nos tres-cheres Sœurs,
+
+Vos tres-humbles et tres-affectionnées Sœurs et
+
+servantes,
+
+Les Religieuses
+
+DU MONASTERE DE LA VISITATION
+
+Sainte Marie d’Annessy
+
+DIEU SOIT BEN Y
+
+VIVE f JESUS

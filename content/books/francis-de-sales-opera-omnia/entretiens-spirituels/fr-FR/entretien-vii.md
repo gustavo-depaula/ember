@@ -1,0 +1,369 @@
+# Entretien VII. De trois loix spirituelles
+
+Vous m’avez demandé quelques loix nouvelles à ce commencement d’année, et pensant à celles que je vous devois donner pour vous estre utiles et agréables, j’ay jetté les yeux de ma considération sur l’Evangile d’aujourd’huy *, lequel fait mention du Baptesme de * Matt., m, 13 17. Nostre Seigneur et de la glorieuse apparition du Saint Esprit en forme de colombe, sur laquelle apparition je me suis arresté. Et considerant que le Saint Esprit est l’amour du Pere et du Fils, j’ay pensé que je vous devois donner des loix toutes d’amour, lesquelles j’ay prises des colombes, en considération de ce que le Saint Esprit avoit bien voulu prendre la forme de colombe, et d’autant plus aussi que toutes les âmes qui sont dediées au service de la divine Majesté sont obligées d’estre comme des chastes et amoureuses colombes. Ainsi void on que l’Espouse, au Cantique des Cantiques *, est souventesfois *Cap. », 10, 14, v, nommée de ce nom, et à bon droit certes, car il y a une 2’VI’ 8‘ grande correspondance entre les qualités de la colombe et celles de l’amoureuse colombelle de Nostre Seigneur.
+
+Les loix des colombes sont toutes infiniment agréables, et c’est une méditation tres-suave que de les considerer. Quelle plus belle loy, je vous prie, que celle de l’honnesteté ! car il n’y a rien de plus honneste que les colombes, elles sont propres à merveille ; bien qu’il n'y ait rien de plus sale que les colombiers et les lieux où elles font leurs nids, neantmoins on ne vid jamais une colombe salie : elles ont tousjours leur pennage lis et qu’il fait grandement bon voir au soleil. Considérez, je vous prie, combien la loy de leur simplicité est agréable, car Nostre Seigneur mesme la loüe, disant à ses Apostres : Soyez simples comme colombes, et prudens comme le serpent *. Mais en troisiesme lieu, * Matt., x, 16. mon Dieu, que la loy de la douceur est agréable ! car elles sont sans fiel et sans amertume. Et cent autres loix qu’elles ont, qui sont infiniment aymables et utiles à observer par les âmes qui sont dediées en la Religion au service plus spécial de la divine Bonté.
+
+Mais j’ay considéré que si je vous donnois quelques
+
+loix que vous eussiez desja, vous n’en feriez pas grande
+
+estime fe) : j’en ay donc choisi trois tant seulement, qui
+
+sont d'une utilité nompareille estant bien observées, et
+
+qui apportent une tres-grande suavité à l’ame qui les
+
+considere, parce qu’elles sont toutes d’amour et extrê­
+
+mement délicates pour la perfection de la vie spirituelle ;
+
+ce sont trois secrets qui Sont d’autant plus excellens
+
+pour acquérir la perfection qu’ils sont moins cognus de
+
+ceux qui font profession de l’acquérir, au moins de la
+
+plus grande partie.
+
+Mais quelles sont-elles donc ces loix ? La première
+
+que j’ay fait dessein de vous donner est celle des
+
+colombes qui font tout pour leur colombeau et rien
+
+pour elles ; il semble qu’elles ne dient autre chose sinon :
+
+Mon cher colombeau est tout pour moy, et je suis * Çant.,”, ï6, vi,2. toute à luy * : il est tousjours tourné de mon costé ** J J
+
+pour penser en moy, et moy je m y attends et m y
+
+asseure : qu’il aille donc chercher, ce bien-aymé colom­
+
+beau, où il luy plaira, si n’entreray-je point en défiance
+
+de son amour, ains je me confieray pleinement en son
+
+soin. Vous aurez peut-estre veu, mais non pas remarqué,
+
+que les colombes tandis qu’elles couvent leurs œufs,
+
+elles ne bougent de dessus jusques à ce que leurs petits
+
+colombeaux soyent esclos, et quand ils le sont, elles
+
+continuent de les couver et fomenter tandis qu'ils en
+
+ont besoin. Et pendant tout ce temps-là la colombe ne
+
+va nullement à la cueillette pour se nourrir, ains elle
+
+en laisse tout le soin à son cher paron, lequel luy est si
+
+fidelle que non seulement il va à la queste des grains
+
+pour la nourrir, mais aussi il luy apporte de l’eau dans
+
+son bec pour l’abreuver ; il a un soin nompareil que
+
+rien ne manque de ce qui luy est necessaire, et si
+
+grand que jamais il ne s’est veu colombe morte faute vous — ne feriez pas grande estime de ma royauté necessaire ; — tandis qu’elle luy laisse le soin d’elle-mesme, la fidelité du colombeau est si grande, de nourriture en ce temps-là. La colombe fait donc tout pour son colombeau : elle couve et fomente ses petits pour le désir qu'elle a de luy plaire en luy donnant une génération, et le colombeau prend soin de nourrir sa chere colombelle qui luy a laissé tout le soin d’elle ; elle ne pense qu’à plaire à son paron, et luy en contre-eschange, ne pense qu’à la substanter.
+
+O quelle agréable et profitable loy est celle-cy, de ne rien faire que pour Dieu et luy laisser tout le soin de nous-mesmes ! Je ne dis pas seulement pour ce qui regarde le temporel, car je n’en veux pas parler où il n’y a que nous autres, cela s’entend assez sans le dire ; mais je dis pour ce qui regarde le spirituel et l’avancement de nos âmes en la perfection. Hé ! ne voyez-vous pas que la colombe ne pense qu’à son bien-aymé colombeau et à luy plaire, en ne bougeant de dessus ses œufs ? et cependant rien ne luy manque, luy, en recompense de sa confiance, prenant tout le soin d’elle. O que nous serions heureux si nous faisions tout pour nostre aymable Colombeau qui est le Saint Esprit ! car il prendroit le soin de nous ; et à mesure que nostre confiance par laquelle nous nous reposerions en sa providence seroit plus grande, plus aussi son soin s'estendroit sur toutes nos nécessités. Et ne faudroit pas jamais douter que Dieu nous manquast, car son amour est infini pour l’ame qui se repose en luy. O que la colombe est heureuse d’avoir tant de confiance en son cher paron ! c’est ce qui la fait vivre en paix et en une merveilleuse tranquillité. Mille fois plus heureuse est l’ame qui, laissant tout le soin d’elle-mesme et de tout ce qui luy est necessaire à son cher et bien-aymé Colombeau, ne pense qu'à couver et fomenter ses petits pour luy plaire et luy donner génération ; car elle jouît dés ceste vie d’une tranquillité et d’une paix si grande qu’il n’y en a point de comparable, ni de repos égal au sien en ce. monde, ains seulement là haut au Ciel, où elle jouira à jamais pleinement des chastes embrassemens de son celeste Espoux.
+
+Mais qu’est-ce que nos œufs, lesquels il faut que nous couvions jusques à ce qu’ils soyent esclos pour avoir des petits colombeaux ? Nos œufs sont nos désirs, lesquels estant bien couvés et fomentés, les colombeaux en proviennent, qui sont les effets de nos désirs ; mais entre nos désirs, il y en a un qui est sureminent au dessus de tout autre, et qui merite grandement d’estre bien couvé et fomenté pour plaire à nostre divin paron le Saint Esprit, lequel veut tousjours estre appellé l’Espoux sacré de nos âmes, tant sa bonté et son amour est grand envers nous. Ce désir est celuy que nous avons apporté venant en Religion, qui est d’embrasser les vertus religieuses, c’est l’une des branches de l’amour de Dieu et l’une des plus hautes qui soit en cest arbre divin ; mais ce désir ne se doit pas estendre plus loin que les moyens qui nous sont marqués dans nos Réglés et Constitutions pour parvenir à ceste perfection que nous avons prétendu d’acquérir en nous obligeant à la poursuite ; ains il le faut couver et fomenter tout le temps de nostre vie, à fin de faire que ce désir devienne un beau petit colombeau qui puisse ressembler à son Pere, * Matt., v, uit. qui est la perfection mesme*. Et ce pendant, n’ayons autre attention que de nous tenir sur nos œufs, c’est à dire ramassés dans les moyens qui nous sont prescrits pour nostre perfection, laissant tout le soin de nous-mesmes à nostre unique et tres-aymable Colombeau, qui ne permettra pas que rien nous manque de ce qui nous sera necessaire pour luy plaire.
+
+C’est une grande pitié, certes, de voir des âmes, dont le nombre n’est que trop grand, qui prétendant à la perfection s’imaginent que tout consiste à faire une grande multitude de désirs, et s’empressent beaucoup à
+
+Ce désir — n’est autre que celuy que nous avons eu lors que nous sommes entrés en Religion, qui est d’embrasser la perfection religieuse ; ce désir est chercher ores ce moyen et tantost un autre pour y parvenir, et ne sont jamais contentes ni tranquilles en elles-mesmes ; car dés qu’elles ont un désir, elles taschent vistement d’en concevoir un autre, et semble qu’elles sont comme les poules, lesquelles n’ont pas si tost fait un œuf qu’elles en chargent aussi tost un autre, laissant là celuy qu’elles ont fait sans le couver, de sorte qu’il n’en réussit point de poussin. La colombe n’en fait pas de mesme, car elle couve et fomente ses petits jusques à tant qu’ils soyent capables de voler et aller à la cueillette pour se nourrir. La poule, si elle a des petits, s’empresse grandement et ne cesse de closser et mener du bruit ; mais la colombe se tient coye et tranquille, elle ne closse ni ne s’empresse point. De mesme, il y a des âmes lesquelles ne cessent de closser et s’empresser apres leurs petits, c’est à dire apres les désirs qu’elles ont de se perfectionner, et ne trouvent jamais assez de personnes pour en parler et demander des moyens propres et nouveaux. Bref, elles s’amusent tant à parler de la perfection qu’elles prétendent d’acquérir, qu’elles oublient d’en pratiquer le principal moyen, qui est celuy de se tenir tranquilles et de jetter toute leur confiance en Celuy qui seul peut donner l’accroissement à ce qu’elles ont ensemencé et planté*. * I Cor., in, 6, 7. Tout nostre bien dépend de la grâce de Dieu, en laquelle nous devons jetter toute nostre confiance ; et cependant il semble, par l’empressement qu’elles ont à beaucoup faire, qu’elles se confient en leur travail et en la multiplicité des exercices qu’elles embrassent, ne leur semblant jamais de pouvoir assez faire. Cela est bon, pourveu qu’il fust accompagné de paix et d’un soin amoureux de bien faire ce qu’elles font, et de dépendre tousjours neantmoins de la grâce de Dieu et non point de leurs exercices ; je veux dire, de n’attendre point aucun fruict de leur travail sans la grâce de Dieu.
+
+Il semble que ces âmes empressées à la queste de leur perfection ayent mis en oubli, ou qu’elles ne sçachent pas ce que dit Jeremie * : O pauvre homme, que fais-tu * Cap. v, 24, ix, 23,
+
+xii, 13.
+
+de te confier en ton travail et en ton industrie ? Ne sçais-tu pas que c’est à toy voirement de bien cultiver la terre, de la labourer et ensemencer, mais que c’est à Dieu de donner l’accroissement aux plantes et faire que tu ayes une bonne récolté et la pluye favorable à tes terres ensemencées ? Tu peux bien arroser, mais pourtant tout cela ne te serviroit de rien si Dieu ne benissoit ton travail et ne te donnoit, par sa pure grâce et non par tes sueurs, unfe bonne récolté : dépens donc entièrement de sa divine bonté. Il est vray, c’est à nous de bien cultiver, mais c’est à Dieu de faire que nostre travail soit suivi d’un bon succès. La sainte Eglise le chante en chaque feste des saints Confesseurs : Dieu a honnoré vos travaux en faisant que vous en tirassiez * Sap., x, io. du fruict* ; pour monstrer que de nous mesmes nous ne pouvons rien sans la grâce de Dieu, en laquelle nous devons mettre toute nostre confiance, n’attendant rien de nous mesmes. Ne nous empressons point f1) en nostre besogne, je vous prie ; car pour la bien faire il faut nous appliquer soigneusement, mais tranquillement et paisiblement, sans mettre nostre confiance en nostre peine, ains en Dieu et en sa grâce. Ces anxiétés d’esprit que nous avons pour avancer nostre perfection et pour voir si nous avançons ne sont nullement agréables à Dieu, et ne servent qu’à satisfaire l’amour propre, qui est un grand tracasseur qui ne cesse jamais d’embrasser beaucoup, bien qu’il ne fasse guere. Une bonne œuvre bien faite avec tranquillité d’esprit vaut beaucoup mieux que plusieurs faites avec empressement.
+
+La colombe s’amuse simplement à sa besogne pour la bien faire, laissant tout autre soin à son cher colombeau : l’ame qui est vrayement colombine, c’est à dire qui ayme chèrement Dieu, s’applique tout simplement, sans empressement, aux moyens qui luy sont prescrits pour se perfectionner, sans en rechercher d’autres, pour par tes sueurs, — une bonne prinse et pas tant en — icelle bien faire, — sans se charger d’autre soin superflu, qu’elle laisse tout
+
+parfaits qu’ils puissent estre. Mon Bien-Aymé, dit-elle, pense pour moy et je m’y confie ; il m’ayme, et je suis toute à luy <°> pour tesmoignage de mon amour. Il y a quelque temps qu’il y eut des saintes Religieuses qui me dirent : Monsieur, que ferons-nous ceste année ? L’année passée nous jeusnasmes trois jours de la semaine, et nous faisions la discipline autant : que ferons-nous maintenant le long de ceste année ? il faut bien faire quelque chose davantage, tant pour rendre grâces à Dieu de l’année passée, comme pour aller tousjours croissant en la voye de Dieu. C’est bien dit qu’il faut tousjours s’avancer, respondis-je ; mais nostre avancement ne se fait pas comme vous pensez, par la multitude des exercices de pieté, ains par la perfection avec laquelle nous les faisons, nous confiant tousjours plus en nostre cher Colombeau et nous desfiant davantage de nous-mesmes. L’année passée, vous jeusniez trois jours de la semaine et vous faisiez la discipline trois fois ; si vous voulez tousjours doubler vos exercices, ceste année la semaine y sera entière ; mais l’année qui vient comment ferez-vous ? il faudra que vous fassiez neuf jours en la semaine, ou bien que vous jeusniez deux fois le jour.
+
+Grande folie de ceux qui s’amusent (<J) à desirer d’estre martyrisés aux Indes, et ne s’appliquent pas à ce qu'ils ont à faire selon leur condition ! mais grande tromperie aussi à ceux qui veulent plus manger qu’ils ne peuvent digerer. Nous n’avons pas assez de chaleur spirituelle pour bien digerer tout ce que nous embrassons pour nostre perfection, et cependant nous ne voulons pas W nous retrancher de ces anxiétés d’esprit que nous avons à tant desirer de beaucoup faire. Lire force livres spirituels.
+
+IIO Les vrays Entretiens spirituels
+
+sur tout quand ils sont nouveaux, bien parler de Dieu
+
+et de toutes les choses les plus spirituelles pour nous
+
+exciter, disons-nous, à dévotion, ouïr force prédications,
+
+faire des conférences à tout propos, communier bien
+
+souvent, se confesser encores plus, servir les malades,
+
+bien parler de tout ce qui se passe en nous pour mani­
+
+fester la prétention que nous avons de nous perfection­
+
+ner, et au plus tost qu’il se pourra : ne sont-ce pas là
+
+des choses fort propres pour nous perfectionner et
+
+parvenir au but de nos desseins ? Ouy, pourveu que
+
+tout cela se fasse selon qu’il est ordonné, et que ce
+
+soit tousjours avec dépendance de la grâce de Dieu ;
+
+c’est à dire que nous ne mettions point nostre confiance
+
+en tout cela, pour bon qu’il soit, ains en un seul
+
+* u Cor., ix, io ; Dieu W, qui nous peut seul faire tirer le fruict* de tous I Tim., vi, 15. .
+
+nos exercices.
+
+Mais, mes cheres filles, je vous supplie, considérez
+
+un peu la vie de ces grands saints Religieux. Un saint
+
+Antoine, qui a esté honnoré de Dieu et des hommes à
+
+cause de sa tres-grande sainteté, dites-moy, comment
+
+est-il parvenu à une si grande sainteté et perfection ?
+
+est-ce à force de lire, ou par des conférences et fre­
+
+quentes Communions, ou par la multitude des prédica­
+
+tions qu’il oyoit ? Nullement ; ains il y parvint en se
+
+servant de l’exemple des saints hermites, prenant de
+
+l’un l’abstinence, de l’autre l’oraison, et ainsi il alloit
+
+comme une soigneuse abeille, picorant et cueillant les
+
+vertus des serviteurs de Dieu, pour en composer le miel
+
+d’une sainte édification. Mais un saint Paul premier
+
+hermite, parvint-il à la sainteté qu’il s’acquit par la
+
+lecture des bons livres ? il n’en avoit point. Estoit-ce les
+
+nouveaux, cela est bon ; bien parler de Dieu et beaucoup, et des choses les
+
+plus spirituelles pour nous exciter, disons-nous, à la dévotion, bon ; ouïr force
+
+prédications, faire des conférences et souvent, cela esmeut, il est vray ;
+
+communier bien souvent, [Reprendre au texte, lig. 5,]
+
+des choses ■— grandement propres pour parvenir au but de nos desseins ?
+
+Il est vray, pourveu que cela soit tousjours sujet à
+
+ ains en — Dieu
+
+Communions qu’il faisoit ou les Confessions ? il n’en fit que deux en sa vie. Estoit-ce les conférences ou les prédications ? il n’en avoit point, et ne vid nul homme dans le desert que saint Antoine, qui l’alla visiter à la fin de sa vie. Sçavez-vous qui le rendit saint ? Ce fut la fidelité qu’il eut à s’appliquer en ce qu’il entreprit au commencement, à quoy il avoit esté appellé, et ne s’amusant à autre chose.
+
+Ces grands saints Religieux qui vivoyent sous la charge de saint Pachome, avoyent-ils des livres, des prédications ? nulles. Des conférences ? ils en avoyent, mais rarement. Se confessoyent-ils souvent ? quelque fois aux bonnes testes. Oyoient-ils force Messes ? les Dimanches et les festes ; hors de là, point. Mais que veut dire donc que mangeant si peu de ces viandes spirituelles qui nourrissent nos âmes à l’immortalité, ils estoyent neantmoins tousjours si en bon point, c’est à dire si forts et courageux pour entreprendre l’acquisition des vertus, et parvenir à la perfection et au but de leur prétention ? Et nous autres, qui mangeons beaucoup, sommes tousjours si maigres, c’est à dire si lasches et languissans à la poursuite de nos entreprises, et semble, sinon tant que les consolations spirituelles marchent W, que nous n’avons nul courage ni vigueur au service de Nostre Seigneur ? Or il faut donc imiter ces saints Religieux, nous appliquant à nostre besogne, c’est à dire à ce que Dieu requiert de nous selon nostre vocation, fervemment et humblement, et ne penser qu’en cela W, n’estimant pas de trouver nul moyen de nous perfectionner meilleur que celuy-là.
+
+Mais, me pourra-t’on répliquer, vous dites fervemment : mon Dieu, et comme pourray-je faire cela ! car je n’ay point de ferveur. Non pas de celle que vous entendez, quant au sentiment, laquelle Dieu donne à qui bon luy semble, et qui n’est pas en nostre pouvoir d’acquérir quand il nous plaist. J'adjouste aussi humblement, à fin que l’on h’ayt point de sujet de s’excuser ; car ne dites pas : Je n’ay point d’humilité, il n’est pas en mon pouvoir de l’avoir ; car le Saint Esprit, qui est * Lucæ, xi, 13. la bonté mesme, la donne à qui la luy demande*. Non pas ceste humilité, c’est à dire ce sentiment de nostre petitesse qui nous fait si fort humilier en toutes choses si gracieusement ; mais je veux dire l’humilité qui nous fait cognoistre nostre propre abjection, et qui nous la fait aymer l’ayant recognuë estre en nous ; car cela est la vraye humilité.
+
+W Jamais l’on n’estudia tant que l’on fait maintenant. Ces grands Saints, Augustin, Grégoire, Hilaire, duquel nous faisons la feste aujourd’huy, ni beaucoup d'autres n’ont point tant estudié ; ils n’eussent sceu le faire, composant tant de livres qu'ils ont fait, preschant et faisant tout le reste qui appartenoit à leurs charges ; <a’> mais ils avoyent une si grande confiance en Dieu et en sa grâce, et une si grande mesfiance d’eux-mesmes, qu’ils ne s’attendoyent (b’) ni confioyent nullement en leur industrie ni en leur travail, si qu’ils firent toutes les grandes œuvres qu’ils ont faites purement par la confiance qu'ils avoyent mise en la grâce de Dieu et en sa toute-puissance : C’est vous, disoyent-ils, ô Seigneur, qui nous faites travailler et pour qui nous travaillons ;
+
+et — qui consiste à aymer souverainement ceste abjection que nous avons
+
+Quand nous nous amusons à desirer cet exercice, et puis tantost un autre, et puis dans peu de temps nous voudrions entreprendre quelque autre chose, cela monstre bien que nous mettons en quelque façon nostre confiance en nos œuvres, et que nous n’attendons pas nostre perfection immédiatement de la grâce de Dieu, mais de nostre industrie : ce qu’il ne faut faire.
+
+(a’) à letirs charges, — qui requeroit beaucoup de temps ;
+
+(b’) s’arrestoyent ce sera vous qui benirez nos sueurs et qui nous donnerez une bonne récolté. Ainsi leurs livres, leurs prédications rapportoyent des fruicts merveilleux ; et nous autres qui nous confions en nos belles paroles, en nostre bien dire et en nostre doctrine, toutes nos peines s’en vont en fumée et ne rendent autre fruict que de vanité. Il faut donc, pour conclusion de ceste première loy que je vous donne, vous confier pleinement en Dieu et faire tout pour luy, quittant entièrement le soin de vous-mesmes à vostre cher Colombeau, lequel usera d’une prévoyance nompareille sur vous ; et d’autant que vostre confiance sera plus vraye et plus parfaite, sa providence sera plus speciale.
+
+J’ay pensé de vous donner pour seconde loy la parole que disent les colombes en leur langage : Plus l’on m’en oste et plus j’en fais, disent-elles. Qu’est-ce à dire cela ? C’est que lors que leurs petits colombeaux sont un peu gros (c’>, le maistre du colombier les leur vient oster, et soudain elles se mettent à en couver des autres ; mais si on ne les leur oste pas, elles s’amusent auprès de ceux-là longuement D’), et partant elles en font moins. Elles disent donc : Plus l’on m’en oste et plus j’en fais ; et pour vous faire mieux entendre ce que je veux dire, je vous présente un exemple. Job, ce grand serviteur de Dieu, qui a esté loüé de la bouche de Dieu mesme *, ne se laissa vaincre d’aucune affliction qui luy * job, i, 8, n, 3, survint ; ains, plus Dieu luy ostoit de ses petits colom- XLn’ 7’ ' beaux et plus il en faisoit. Qu’est-ce qu’il ne faisoit pas tandis qu’il estoit en sa première prospérité ? quelles bonnes œuvres ne faisoit-il pas ? Il le dit luy-mesme en ceste façon* : J’estois le pied du boiteux, c’est à dire * Cap. xxix, 15,16, je le faisois porter ou je le mettois <e’) sur mon asne ou mon chameau ; pestais l’œil de l’aveugle, en le faisant
+
+(c’) un — petit grossets
+
+(d’) elles s’amusent — apres ceux-là longuement, et n’en couvent point d’autres,
+
+(e’) ou — monter
+
+8
+
+ii4 Les vrays Entretiens spirituels conduire ; j’estois en fin le pourvoyeur du famélique et le refuge de tous les affligés. Maintenant voyez-le réduit en l’extreme pauvreté. Il ne se plaint point que Dieu lui ayt osté les moyens qu’il avoit de faire tant de bonnes œuvres, ains il dit avec la colombe : Plus l’on m’en oste et plus j’en fais ; non des aumosnes, car il n’a pas de quoy, mais en ce seul acte de sousmission et de patience qu’il fit se voyant privé de tous ses biens et de ses enfans, il fit plus qu’il n’avoit fait par toutes les grandes charités qu’il faisoit durant le temps de sa prospérité, et se rendit plus agréable à Dieu en ce seul acte de patience, qu’il n’avoit fait en tant et tant de bonnes œuvres qu’il avoit faites durant sa vie ; car il falloit avoir un amour plus fort et genereux pour cest acte seul, qu’il n’avoit esté besoin pour tous les autres mis ensemble.
+
+Il nous en faut donc faire de mesme pour observer ceste aymable loy des colombes, nous laissant despouiller par nostre souverain Maistre de nos petits colombeaux, c’est à dire des moyens d’executer nos désirs, quand il luy plaist de nous en priver, pour bons qu’ils soyent (f’), sans nous plaindre ni lamenter jamais de luy comme s’il nous faisoit grand tort ; ains nous devons nous appliquer à doubler, non nos désirs ni nos exercices, mais la perfection avec laquelle nous les faisons, taschant par ce moyen de gagner plus par un seul acte, comme indubitablement nous ferons, que nous ne ferions pas avec cent autres faits selon nostre propension et affection. Nostre Seigneur ne veut pas que nous portions sa croix sinon par le bout, et il veut estre honnoré comme les grandes dames, lesquelles font porter la queue de leurs robes ; il veut pourtant que nous portions la croix qu’il nous met sur les espaules, qui est la nostre mesme. Mais las ! nous n’en faisons rien ; car quand sa Bonté nous prive de la consolation qu’il nous souloit donner en nos exercices, il semble que tout est perdu,
+
+et qu’il nous oste les moyens de faire ce que nous avons
+
+entrepris.
+
+Voyez, de grâce, ceste ame, comment elle couve bien
+
+ses œufs au temps de la consolation, et laisse bien le
+
+soin d’elle-mesme à son cher et bien-aymé Colombeau.
+
+Si elle est en l’oraison, quels saints désirs ne fait-elle pas de luy plaire ! elle s’attendrit en sa presence, elle s’escoule toute en son Bien-Aymé, elle se laisse entièrement entre les bras de sa divine providence. O que ce Sont là des œufs bien aymables ! et tout cela est bien bon, et les petits colombeaux ne manquent point, qui sont les effects ; car, qu’est-ce qu’elle ne fait pas ? Ses œuvres de charité sont en si grand nombre ! sa modestie paroist devant toutes les Sœurs, elle (s’) est d'une édification nompareille, elle se fait admirer de tous ceux qui la voyent ou qui la cognoissent. Les mortifications» dit-elle, ne me coustoyent rien durant ce temps-là, ains ce m’estoyent des consolations ; les obéissances m’estoyent des allégresses ; je n’avois pas si tost ouy le premier son de la cloche, que j’estois levée ; je ne laissois point passer de pratique de vertu, et tout cela je le faisois avec une paix et tranquillité tres-grande ; mais maintenant que je suis en desgoust et que je suis ordinairement en secheresse en l’oraison, je n’ay nul courage, ce me semble, pour mon amendement, je n’ay point ceste ardeur que je soulois avoir en mes exercices ; en fin, la gelée et la froidure est passée chez moy. Helas ! je le croy bien. Voyez, je vous prie, ceste pauvre ame, comment elle se lamente (h’) de sa disgrâce ;
+
+(g’) Voyez, de grâce, ceste ame laquelle estant pleine de consolation en l’oraison, comme elle couve bien ses œufs et laisse le soin d’elle-mesme à son cher Colombeau. Quels désirs ne fait-elle pas de luy plaire ! elle s’attendrit en sa presence merveilleusement, elle s’escoule en son Bien-Aymé et se veut laisser entièrement elle-mesme entre les bras de sa divine providence. Tout cela est bon : ô que ce sont des œufs bien aymables ! Mais venons aux effects, qui sont ses petits colombeaux. Qu’est-ce qu’elle ne fait pas ? Ses œuvres de charité sont en si grand nombre ! sa modestie paroist devant tous les hommes, si qu’elle
+
+ceste pauvre — personne, comme elle se plaint n6 Les vrays Entretiens spirituels
+
+son mescontentement paroist jusques sur son visage, elle
+
+a sa contenance abattue et mélancolique, et s’en va
+
+toute pensive, et si confuse que rien plus. ("') Mon
+
+Dieu ! qu’avez-vous ? est-on contraint de luy dire. O que
+
+j’ay ? je suis si alangourie ! rien ne me peut contenter,
+
+tout m’est à desgoust, je suis maintenant si confuse !
+
+Mais de quelle confusion ? car il y en a de deux sortes :
+
+l’une qui conduit à l’humilité et à la vie, et l’autre, au * Cf. il Cor., vu, desespoir et par conséquent à la mort *. Je vous asseure,
+
+dit-elle, que je le suis bien tant, que j’en perds pres- . que le courage de passer outre en la prétention de ma
+
+perfection. Mon Dieu, quelle foiblesse ! la consolation
+
+manque, et par mesme moyen, le courage. O il ne faut
+
+pas ainsi faire ; ains, plus Dieu nous prive de la conso­
+
+lation, et plus nous devons travailler pour luy tesmoi-
+
+gner nostre fidelité. Un seul acte fait avec secheresse
+
+d’esprit vaut mieux que plusieurs faits avec une grande
+
+tendreté, parce que, comme j’ay desja dit en parlant de
+
+Job, il se fait avec un amour plus fort, quoy qu’il ne soit
+
+pas si tendre ni si agréable. Plus donc l’on m’en oste
+
+et plus j’en fais : c’est la seconde loy que je desire
+
+grandement de vous voir observer.
+
+La troisiesme loy (D des colombes que je vous pré­
+
+sente, c’est qu’elles pleurent comme elles se resjouïssent ;
+
+elles ne chantent tousjours qu’un mesme air, tant pour
+
+leurs cantiques de resjouïssance que pour ceux où elles
+
+se lamentent, c’est à dire pour se plaindre et manifester
+
+leur douleur. Voyez-les perchées sur les branches, où
+
+elles pleurent la perte qu’elles ont faite de leurs petits
+
+que la belette ou la choüette leur a desrobés (car quand
+
+c’est quelqu’autre qui les leur prend que le maistre de
+
+la colombiere, elles sont fort affligées) ; voyez-les aussi
+
+quand le paron vient à s’approcher d’elles, qu’elles sont
+
+toutes consolées : <k’) elles ne changent point d’air, ains
+
+(i’) sa contenance — refrognée, pensive, mélancolique, et si confuse que c’est pitié. Hé,
+
+(j’) loy — ou réglé
+
+d'elles : — elles sont toutes consolées, mais pourtant font le mesme grommellement pour preuve de leur contentement, qu’elles font pour manifester leur douleur. C’est cette tres-sainte égalité d’esprit, mes cheres âmes, que je vous souhaitte : je ne dis pas l’égalité d’humeur ni d’inclination, je dis l'égalité d’esprit ; car je ne fais, ni desire l1’) que vous fassiez nul estât des tracasseries que fait la partie inferieure de nostre ame, qui est celle qui cause les inquiétudes et bijarreries, quand la partie supérieure ne fait pas son devoir en se rendant maistresse, et ne fait pas bon guet pour découvrir ses ennemis, ainsi que le Combat spirituel dit* * Cap. xvi secundæ v ’ . edit.italicæi589; qu’il faut faire, a fin qu elle soit promptement advertie c. xxv ed. hodiern. des remuemens et assauts que luy fait la partie inferieure, qui naissent (m’) de nos sens et de nos inclinations et passions, pour luy faire la guerre et l’assujettir à ses loix. Mais je dis qu’il se faut tenir tousjours fermes et résolus en la supérieure partie de nostre esprit, pour suivre la vertu de laquelle nous faisons profession, et se tenir en une continuelle égalité, és choses adverses comme és prosperes, en la désolation comme en la consolation, et en fin parmi les secheresses comme emmi les tendretés.
+
+Job, duquel nous avons desja parlé en la seconde loy, nous fournit encor d’un exemple en ce sujet, car il ne chanta tous-jours que sur un mesme air tous les cantiques qu’il a composés, qui ne sont autres que l’histoire de sa vie. Qu’est-ce qu’il disoit lors que Dieu faisoit multiplier ses biens, luy donnoit des enfans, et en fin luy envoyoit à souhait selon qu’il l’eust peu desirer en ceste vie ? que disoit-il, sinon : Le nom de Dieu soit
+
+béni ? C’estoit son cantique d’amour qu’il chantoit en toute occasion ; car voyez-le réduit à l’extremité de l’affliction : qu’est-ce qu’il fait ? il chante son cantique
+
+(!’) veux
+
+(m’) qui — se sert
+
+de lamentation sur le mesme air que celuy qu’il chan-
+
+toit par resjouïssance : Nous avons receu, dit-il, les
+
+biens de la main du Seigneur, pourquoy n’en rece-
+
+* Cap. n, io. vrons-nous les maux*? Le Seigneur m’avait donné
+
+des enfans et des biens, le Seigneur me les a ostés, son
+
+* Cap. i, 21. saint nom soit béni*. Tousjours : Le nom de Dieu soit
+
+béni. 0 que ceste ame sainte estoit bien une chaste et
+
+amoureuse colombelle, grandement cherie de son cher
+
+Colombeau ! Ainsi puissions-nous faire, mes cheres filles,
+
+qu’en toutes occasions nous prenions les biens, les maux,
+
+les consolations et afflictions de la main du Seigneur,
+
+ne chantant tousjours que le mesme cantique tres-ay-
+
+mable : Le nom de Dieu soit béni, tousjours sur l’air
+
+d’une continuelle égalité ; car si ce bonheur nous arrive,
+
+nous vivrons avec une grande paix en toutes occurren­
+
+ces. Mais ne faisons point comme ceux qui pleurent
+
+quand la consolation leur manque, et ne font que chan­
+
+ter quand elle est revenue, en quoy ils ressemblent
+
+aux singes et magots (n’), qui sont tousjours mornes
+
+et furieux quand il fait un temps pluvieux et sombre, et
+
+ne cessent de gambader et sauter quand le temps est
+
+beau.
+
+Voila donc les trois loix que (“’) je vous donne, les­
+
+quelles neantmoins estant loix toutes d’amour n’obligent
+
+que par amour. L’amour donc que nous portons à Nostre
+
+Seigneur nous sollicitera de les observer et garder, à fin
+
+que nous puissions dire, à l’imitation de la belle colombe
+
+du souverain Colombeau, qui est l’Espouse sacrée :
+
+Mon Bien-Aymé est tout mien, et moy je suis toute
+
+pour (p’) luy, ne faisant rien que pour luy plaire ; il a
+
+tousjours son cœur tourné de mon costé par prévoyance,
+
+* vide loca supra, comme j’ay le mien tourné de son costé par confiance *. p‘ IO4' Ayant fait tout pour nostre Bien-Aymé dés ceste vie,
+
+il aura soin de nous pourvoir de son eternelle gloire
+
+(n’) marmots
+
+(o’) Or les puissiez-vous donc bien observer et garder, ces trois loix que
+
+comme vostre roy
+
+(p’) Mon Bien-Aymé — est à moy, il est tout mien, et moy je suis toute à pour recompense de nostre confiance ; et là nous verrons le bon-heur de ceux qui, quittans tout le soin superflu et inquiet que nous avons ordinairement sur nous-mesmes et sur nostre perfection, se seront adonnés tout simplement à leur besogne, s’abandonnans sans reserve entre les mains de la divine Bonté pour laquelle seule ils auront travaillé : leurs travaux seront en fin suivis d’une paix et d’un repos qui ne se peut expliquer, car ils reposeront pour jamais dans le sein de leur Bien-Aymé. Le bon-heur aussi de ceux qui auront observé la seconde loy sera grand ; car s’estans laissé despouiller par le Maistre, qui est Nostre Seigneur, de tous leurs petits colombeaux, et ne s’estans nullement faschés ni despités, ains ayant eu le courage de dire : Plus l’on m’en oste et plus j’en fais, demeurans sousmis au bon plaisir de Celuy qui les aura despouillés, ils chanteront d’autant plus courageusement là haut au Ciel le cantique tres-aymable : Dieu soit béni *, emmi les * Apoc., v, 9-13, consolations éternelles, qu’ils l’auront (<!’) chanté de meil- v”’ 1 ' leur cœur parmi les désolations, langueurs et desgousts de ceste vie mortelle et passagère, durant laquelle il nous faut tascher de conserver soigneusement la continuelle et tres-aymable égalité d’esprit. Amen.
+
+(q’) de Celuy qui — nous aura despouillés, nous le bénirons d’autant plus au Ciel et multiplierons les actes de louanges et bénédictions, que nous aurons esté humblement sousmis en la privation des consolations que nous eussions peu desirer en ceste vie dans nos exercices, lesquels nonobstant le desgoust, la gelée et la secheresse nous n’aurons pas laissé de faire fidèlement. Et pour conclusion et finir nostre discours, nous chanterons d’autant plus courageusement là haut au Ciel le cantique tres-aymable : Dieu soit béni, dans les éternelles consolations, que nous l’aurons

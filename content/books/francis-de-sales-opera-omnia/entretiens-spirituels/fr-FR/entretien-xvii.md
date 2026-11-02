@@ -1,0 +1,399 @@
+# Entretien XVII. Des voix
+
+Deux choses sont requises pour donner sa voix comme il convient à telles personnes : la première, que ce soit à des personnes bien appellées de Dieu ; la seconde, qu’elles ayent les conditions requises pour nostre maniéré de vivre. Quant au premier poinct, qu’il faut qu’une fille soit bien appellée de Dieu pour estre receuë en Religion, il faut sçavoir que quand je parle de cest
+
+XVII. Des Voix 3i i
+
+appel et vocation, je n’entens pas parler de la vocation generale, telle qu’est celle par laquelle Nostre Seigneur appelle tous les hommes au Christianisme, ni encor de celle de laquelle il est dit en l’Evangile * que plusieurs * Matt., xx, 16, sont appelles, mais peu sont esleus. Car Dieu qui ’4' desire de donner à tous la vie eternelle *, leur donne * 1 Tim., n, 4. à tous les moyens d’y pouvoir arriver, et partant les appelle au Christianisme, et les a esleus, correspondans à ceste vocation suivant les attraits de Dieu ; toutesfois, le nombre de ceux qui y viennent est bien petit en comparaison de ceux qui sont appelles
+
+Mais parlant plus particulièrement de la vocation religieuse, je dis que plusieurs sont bien appelles de Dieu en la Religion, mais il y en a peu qui maintiennent et conservent leur vocation ; car ils commencent bien, mais ils ne sont pas fidelles à correspondre à la grâce, ni perseverans en la pratique de ce qui peut conserver leur vocation et la rendre bonne et asseurée*. * n Pétri, 1, 10. Il y en a d’autres qui ne sont point bien appellés ; néant-moins estans venus, leur vocation a esté bonifiée et ratifiée de Dieu. Ainsi en voyons-nous qui viennent par despit et ennuy en Religion ; et quoy qu’il semble que ces vocations ne soyent pas bonnes, neantmoins on en a veu qui estans ainsi venus, ils ont fort bien réussi au service de Dieu. D’autres sont incités d’entrer en
+
+Religion par quelque desastre et infortune qu’ils ont eu
+
+au monde, d’autres par le defaut de la santé ou beauté
+
+corporelle ; et quoy que ceux-cy ayent des motifs qui de
+
+soy ne sont pas bons, neantmoins Dieu s’en sert pour
+
+appeller telles personnes. En fin les voyes de Dieu sont * Rom., xi, 33. incomprehensibles, et ses jugemens inscrutables * et
+
+admirables en la variété des vocations et des moyens desquels Dieu se sert pour appeller ses créatures à son service, lesquels doivent estre tous honnorés et révérés.
+
+Or, de ceste grande variété de vocations, s’ensuit que c’est une chose bien difficile que de recognoistre les vrayes vocations ; et neantmoins c’est la première chose qui est requise pour donner sa voix, de sçavoir si la fille proposée est bien appellée et si sa vocation est bonne.
+
+Comment donc, parmi une si grande variété de vocations et par de si differens motifs, pourra-t’on recognoistre la bonne d’avec la mauvaise, pour n’estre point trompés ? C’est une chose voirement de grande importance que ceste-cy, et laquelle est bien difficile ; neantmoins elle ne l’est point tant que nous soyons entièrement destitués de moyens pour recognoistre la bonté d’une vocation. Or, entre plusieurs que je pourrois alléguer, j’en diray un seul comme le meilleur de tous. Doncques la bonne vocation n'est autre chose qu’une volonté ferme et constante qu’a la personne appellée de vouloir servir Dieu en la maniéré et au lieu auquel sa divine Majesté l’appelle ; et cela est la meilleure marque que l’on puisse avoir pour cognoistre quand une vocation est bonne.
+
+Mais remarquez que, quand je dis une volonté ferme et constante de servir Dieu, je ne dis pas qu’elle fasse dés le commencement tout ce qu’il faut faire en sa vocation, avec une fermeté et constance si grande qu’elle soit exempte de toute répugnance, difficulté ou dégoust
+
+En fin — ce sont des choses inscrutables que les voyes de Dieu, et une chose admirable, belle et aymable que la variété des vocations et des moyens desquels Dieu se sert pour appeller ses créatures à son service, et lesquels doivent estre honnorés et révérés par nous autres mortels. en ce qui en dépend. Non, je ne dis pas cela ; ni moins que ceste fermeté et constance soit telle qu’elle la rende exempte de faire des fautes, ni que pour cela elle soit si ferme qu’elle ne vienne jamais à chancelier ni varier en l’entreprise qu’elle a faite de pratiquer les moyens qui la peuvent conduire à la perfection. O non certes, ce n’est pas ce que je veux dire ; car tout homme est sujet à telle passion, changement et vicissitude, et tel aymera aujourd’huy une chose qui en aymera demain une autre ; un jour ne ressemble jamais l’autre. Ce n’est pas donques par ces divers mouvemens et sentimens qu’il faut juger de la fermeté et constance de la volonté au bien que l’on a une fois embrassé ; mais ouy bien si parmi ceste variété de divers mouvemens la volonté demeure ferme à ne point quitter le bien qu’elle a embrassé, encor qu’elle sente le dégoust ou le refroidissement en l’amour de quelque vertu 0), et qu’elle ne laisse pour cela de se servir des moyens qui luy sont marqués pour l’acquérir. Tellement que pour avoir une marque d'une bonne vocation, il ne faut pas une constance sensible, mais qui soit en la partie supérieure de l’esprit et laquelle soit effective.
+
+Doncques, pour sçavoir si Dieu veut que l’on soit Religieux, il ne faut pas attendre qu’il nous parle sensiblement, ou qu’il nous envoyé quelque Ange du Ciel pour nous signifier sa volonté ; ni moins est-il besoin d’avoir des révélations sur ce sujet. Il ne faut non plus un examen de dix ou douze docteurs pour voir 0) si l’inspiration est bonne ou mauvaise, s'il la faut suivre ou non ; mais il faut bien correspondre et cultiver le premier mouvement, et puis ne se pas mettre en peine s’il vient des dégousts et des refroidissemens touchant cela ; car si l’on tasche tousjours de tenir sa volonté bien ferme à vouloir rechercher le bien qui nous est monstré, Dieu ne manquera pas de faire réussir le tout à sa gloire. Et quand je dis cecy, je ne parle pas seulement pour vous autres, mais en cores pour les filles qui sont au monde, desquelles certes il faut avoir du soin, les aydant parmi leurs bons desseins. Quand elles ont les premiers mouvemens un peu forts, rien ne leur est difficile, il leur semble qu’elles franchiront toutes les difficultés ; mais quand elles sentent ces vicissitudes, et que ces sentimens ne sont plus si sensibles en la partie inferieure, il leur semble que tout est perdu et qu’il faille tout quitter : l’on veut et l’on ne veut pas ; ce que l’on sent alors n’est pas suffisant pour faire quitter le monde. Je voudrais bien, dit une de ces filles, mais je ne sçay pas si c’est la volonté de Dieu que je sois Religieuse, d’autant que l’inspiration que je sens à ceste heure n’est pas, ce me semble, assez forte. Il est bien vray que je l’ay eue beaucoup plus forte que je n’ay à ceste heure ; mais comme elle n’est pas de durée, cela me fait croire qu’elle n’est pas bonne. (D
+
+Certes, quand je rencontre telles âmes, je ne m’estonne point de ces dégousts et refroidissemens, ni moins crois-je que pour iceux leur vocation ne soit pas bonne. Il faut seulement en cela avoir un grand soin pour les ayder et leur apprendre à ne se point estonner de ces changemens, mais les encourager à demeurer fermes parmi ces mutations. Et bien, leur dis-je, cela n’est rien; dites-moy, n’avez-vous pas senti le mouvement ou l’inspiration dans vostre cœur pour la recherche d’un si grand bien ? Ouy, disent-elles, il est bien vray, mais cela s’est aussi tost passé. Ouy bien, leur dis-je, la force de ce sentiment ; mais non pas en telle sorte qu’il ne vous en soit demeuré quelque affection. O non, dit-elle, car je sens tousjours je ne sçay quoy qui me fait tendre de ce costé-là ; mais ce qui me met en peine c’est que je ne sens pas ce mouvement si fort qu’il faudroit pour une telle resolution. Je leur responds qu’elles ne se mettent pas en peine de ces sentimens sensibles et qu’elles ne les examinent pas tant ; qu’elles se contentent de ceste constance de leur volonté, qui, parmi tout cela, ne perd point l’affection de son premier dessein ; qu’elles soyent seulement soigneuses à le bien cultiver et à bien correspondre à ce premier mouvement. Ne vous souciez point, dis-je, de quel costé il vienne, car Dieu a plusieurs moyens d’appeller ses serviteurs et servantes à son service.
+
+Il se sert quelquefois de la prédication, d’autres fois de la lecture des bons livres. Les uns ont esté appellés pour avoir ouy les paroles sacrées de l’Evangile, comme saint François et saint Antoine, lesquels l’ont esté
+
+oyans dire ces paroles : Va, vends tout ce que tu as
+
+* Mâtt., xix, 2i. et le donne aux 'pauvres, et me suis * ; et : Quicon­
+
+que veut venir apres moy, qu’il renonce à soy-
+
+* Matt., xvi, 24 ; mesme, prenne sa croix et me suive*. Les autres ont Lucæ, ix, 23.
+
+esté appellés par des ennuis, desastres et afflictions qui
+
+leur survenoyent au monde ; ce qui leur a donné sujet
+
+de se despiter contre luy et l’abandonner. (°) Nostre
+
+Seigneur s’est souvent servi d’un tel moyen pour
+
+appeller plusieurs personnes à son service, lesquelles il
+
+se fust fait Religieux ; et il devint un si bon Religieux, que, comme tel, il
+
+vesquit et mourut saintement. Les exemples de ceux qui ont esté appellés de
+
+Dieu comme luy par la prédication sont presque innombrables. D’autres ont
+
+esté touchés par la lecture des bons livres, et d’autres pour avoir ouylire des
+
+paroles sacrées de l’Evangile, comme saint François et saint Antoine, lesquels
+
+et me suive, — et plusieurs autres, quittèrent tout et firent en une façon
+
+admirable ce que Nostre Seigneur leur commandoit par la lecture. Combien
+
+y en a-t’il qui ont esté appellés de Dieu par le moyen de la lecture des bons
+
+livres ? Certes, c’est innombrable. Certains gentilshommes, lisant la Vie de
+
+saint Antoine, furent tellement touchés qu’ils quittèrent à cest instant le
+
+service de l’empereur de la terre pour servir le Dieu du Ciel. Certes, entre
+
+tous les livres, la grande Guide des pécheurs de Grenade, a servi à plusieurs
+
+pour leur faire faire une forte détermination de quitter le monde et se rendre
+
+Religieux ; aussi est-ce un livre excellent que celuy-cy, où on remarque les
+
+traits les plus admirables et les plus penetrans qui se puissent dire. J’ay
+
+ouy raconter à des Religieux qui disoyent avoir cogneu plusieurs personnes
+
+qui avoyent esté touchées de Dieu de quitter le monde en lisant ce livre ; et
+
+moy j’ay parlé à plusieurs personnes lesquelles m’ont asseuré qu’elles avoyent
+
+receu leur vocation en lisant ce livre de Grenade.
+
+Vous avez sans doute leu la Vie du bien-heureux Pere Ignace de Loyola,
+
+Fondateur et premier Pere des Jésuites : il fut touché de Dieu par la lecture
+
+des bons livres. Il estoit gentilhomme de fort bon lieu, brave selon le monde,
+
+il estoit grand guerrier. Or, le commencement de sa conversion fut par
+
+un desastre qui luy arriva d’un coup d’arquebuse qui luy vint atteindre la
+
+cuisse et la luy rompit, tellement qu’il le fallut emporter en son logis pour
+
+le panser ; et estant tout ennuyé pour se voir ainsy réduit, il demanda des
+
+livres de guerre pour se divertir. Mais on luy apporta la Fleur des Saints, non
+
+point celle qu’a fait le Pere Ribadeneira, car il n’estoit pas encore né, mais
+
+d’autres Fleurs qui estoyent ja alors ; et en les lisant, il fut touché de telle
+
+sorte qu’il quitta tout, et se résolut d’estre soldat de Jésus Christ. Il fit ceste
+
+resolution si efficace qu’il ne se donna point de repos qu’il ne l’eust mise
+
+en execution, et a esté un grand serviteur de Dieu.
+
+Il y en a d’autres qui ont esté touchés par des ennuis et desastres qui leur
+
+sont venus, ce qui les a fait despiter contre le monde, à cause qu’il s’estoit
+
+mocqué d’eux ou les avoit trompés ; et eux, faschés d’avoir receu un tel
+
+affront et fascherie, l’ont quitté comme par despit.
+
+XVII. Des Voix 3ï7
+
+n’eust peu avoir en autre façon. Car, combien que Dieu soit tout-puissant et peut tout ce qu’il veut, si est-ce qu’il ne veut point nous oster la liberté qu’il nous a une fois donnée ; et quand il nous appelle à son service, il veut que ce soit de nostre bon gré que nous y allions, et non par force ni par contrainte. Car bien que ceux-cy viennent à Dieu comme despités contre le monde qui les a faschés, ou bien à cause de quelques travaux et afflictions qui les ont tourmentés, si ne laissent-ils pas de se donner à Dieu d’une franche volonté ; et bien souvent telles personnes réussissent bien au service de Dieu et deviennent des grands Saints, et quelques fois plus grands que ceux qui y sont entrés par des vocations plus apparentes.
+
+Vous aurez leu ce que raconte Platus*, d’un gentil- * De Bono stat! homme brave selon le monde, lequel s’estant un jour S™!’.111’ ■ bien paré et frisé, estant sur un beau cheval bien em-pannaché, taschoit par tous moyens de plaire aux dames qu’il muguettoit ; et comme il bravoit, voila que son cheval le renverse par terre au milieu de la fange, d’où il sortit tout sale et crotté. Ce pauvre gentilhomme fut si honteux et confus d’un tel accident, que tout en colere il se résolut en cest instant-là de se faire Religieux, disant : O traistre monde, tu t’es mocqué de moy, mais je me mocqueray aussi de toy ; tu m’as joüé de ceste-cy, mais je t’en joüeray aussi d’une autre, car je n’auray jamais part avec toy, et dés ceste heure je me résous de me faire Religieux. Et de fait, il fut receu en Religion, où il vesquit saintement ; et neantmoins sa vocation venoit d’un despit.
+
+Il y en a encor d’autres desquels les motifs ont esté encor plus mauvais que cestuy-cy. J’ay apprins de bonne part qu’un gentilhomme de nostre âge, brave d’esprit et de corps, de fort bon lieu, voyant passer des Peres Capucins, dit aux autres seigneurs avec lesquels il estoit : Il me prend ( envie de sçavoir comme vivent ces pieds deschaux et de me rendre parmi eux, non point à dessein d’y tousjours demeurer, mais seulement pour un mois ou trois semaines, à fin de mieux remarquer ce qu’ils font, pour puis apres m’en rire et mocquer avec vous autres. Il fait ainsi son complot, il poursuit fort et ferme, il est en fin receu. Mais la divine Providence qui s’estoit servie de ce moyen pour le retirer du monde, convertit sa fin et son intention mauvaise en bonne, et celuy qui pensoit (d prendre les autres fut pris luy-mesme ; car il n’eut pas plus tost demeuré quelques jours avec ces bons Religieux, qu’il fut tout à fait changé. Il persevera fidèlement en sa vocation et a esté un grand serviteur de Dieu.
+
+Il y en a encor d’autres de qui la vocation n’est de soy pas meilleure que ceste-cy : c’est de ceux qui vont en Religion à cause de quelque defaut naturel, comme pour estre boiteux, borgnes, ou pour estre laids, ou pour avoir quelque autre pareil defaut ; et, ce qui semble encor le pire, c’est qu’ils y sont portés par leurs peres et meres, lesquels bien souvent, lors qu’ils ont des enfans borgnes, boiteux, ou autrement défectueux, les laissent au coin du feu et disent : Cecy ne vaut rien pour le monde, il le faut envoyer en Religion ; il luy faut procurer quelque benefice, ce sera autant de descharge pour nostre maison. Les enfans se laissent conduire où l’on veut, sous espoir de vivre des biens de l’autel. D’autres ont une grande quantité d’enfans : Et bien, disent-ils, il faut descharger la maison et envoyer ceux-cy en Religion, à fin que les aisnés ayent tout et qu’ils puissent paroistre. (b Mais Dieu bien souvent en cecy fait voir la grandeur de sa clemence et misericorde, employant ces intentions, qui d’elles-mesmes ne sont aucunement bonnes, pour faire de ces personnes-là des grands serviteurs de sa divine Majesté ; et en cecy il se fait voir admirable.
+
+Ainsi ce divin Artisan se plaist à faire des beaux édifices avec du bois qui est fort tortu, et qui n’a aucune apparence d’estre propre à chose du monde. Et tout ainsi qu’une personne qui ne sçait que c’est de la menuyserie, voyant quelque bois tortu en la boutique d’un menuysier, s’estonneroit de luy entendre dire que c’est pour faire quelque beau chef-d’œuvre (car, diroit-il, si cela est comme vous dites, combien de fois faudra-t’il passer le rabot par dessus, avant que d’en pouvoir faire un tel ouvrage ?) ainsi, pour l’ordinaire, la divine Providence fait des beaux chefs-d’œuvre avec ces intentions tortues et sinistres, comme il fait entrer en son festin les boiteux et les aveugles *, pour nous
+
+faire voir qu’il ne sert de rien d’avoir deux yeux ou
+
+deux pieds pour aller en Paradis ; qu’il vaut mieux aller
+
+en Paradis avec une jambe, un œil, un bras que d’en
+
+*Matt., xvin, 8, g ; avoir deux et se perdre *. Or, telles sortes de gens . . . .
+
+estans ainsi venus en Religion, on les a veu souvente-
+
+fois faire des grands fruicts et perseverer fidèlement en
+
+leur vocation.
+
+Il y en a d’autres qui ont esté bien appelles, qui
+
+toutesfois n’ont pas persévéré ; ains, apres avoir demeuré
+
+quelque temps en Religion, ont tout quitté. Et de cecy
+
+nous avons l’exemple de Judas, duquel nous ne pouvons
+
+douter qu’il ne fust bien appellé ; car Nostre Seigneur le
+
+choisit et l’appella à l’apostolat de sa propre bouche. N)
+
+D’où vient donc, qu’estant si bien appellé, il ne perse­
+
+vera pas en sa vocation ? O c’est qu’il abusa de sa liberté,
+
+et ne voulut pas se servir des moyens que Dieu luy
+
+donnoit pour ce sujet ; mais au lieu de les embrasser et
+
+d’en user à son profit, il s’en servit pour en abuser et
+
+pour les rejetter, et, en ce faisant, il se perdit. Car c’est
+
+chose certaine que, quand Dieu appelle quelqu’un à une
+
+vocation, il s’oblige par conséquent, par sa providence
+
+divine, de luy fournir toutes les aydes requises pour se
+
+rendre parfait en sa vocation.
+
+Or, quand je dis que Nostre Seigneur s’oblige, il ne
+
+de sa propre bouche — quand il dit : Je vous ay choisis, ce n’est pas vous
+
+qui m'avez choisi, car personne ne peut aller à Dieu s’il n’est appellé de luy.
+
+Tirez-moy, dit l’Espouse, et je courray apres l’odeiir de vos parfums ; par
+
+lesquelles paroles elle monstre qu’il faut qu’elle soit tirée pour courir. Et
+
+certes, quand Nostre Seigneur dit à ses Apostres qu’il les avoit choisis, il
+
+ne fit nulle exception, ains il parloit de Judas aussi bien que des autres.
+
+Donc il estoit bien appellé ; et Nostre Seigneur ne se pouvoit tromper en le
+
+choisissant, car il avoit le discernement des esprits.
+
+ en sa vocation. — Quand il appelle quelqu’un au Christianisme, il
+
+s’oblige de luy fournir tout ce qui est requis pour estre bon Chrestien ; tout
+
+de mesme, quand il appelle quelqu’un pour estre prestre ou Evesque, il
+
+s’oblige aussi de luy fournir tous les moyens necessaires à leur charge ; et
+
+quand il appelle quelqu’un pour estre Religieux ou Religieuse, il .s’oblige à
+
+mesme temps de luy donner toutes les conditions requises pour estre parfait
+
+en sa vocation.
+
+faudroit pas penser que ce soit nous qui l’ayons obligé à ce faire en suivant sa vocation, car on ne sçauroit l’obliger ; mais Dieu s'oblige soy-mesme par soy-mesme, poussé et provoqué à ce faire par les entrailles de son infinie bonté et misericorde* ; tellement que, me faisant * Lucæ, I, 78. Religieux, Nostre Seigneur s’est obligé de me fournir tout ce qui est necessaire pour estre bon Religieux, non point par devoir, mais par sa misericorde et providence infinie ; tout ainsi qu’un grand roy, levant des soldats pour faire la guerre, sa prévoyance et prudence requiert qu’il préparé des armes pour les armer ; car, quelle apparence y auroit-il de les envoyer combattre sans armes ? Que s’il ne le fait pas, il est taxé d’une grande imprudence. M Or, la divine Majesté ne manque jamais de soin ni de prévoyance touchant cecy ; et pour le nous mieux faire croire, elle s’y est obligée, en sorte qu'il ne faut jamais entrer en opinion qu’il y ayt de sa faute quand nous ne faisons pas bien : voire, sa. libéralité est si grande, qu’il donne ces moyens à ceux auxquels il ne les a pas promis et auxquels il ne s’est pas obligé
+
+pour ne les avoir pas appelles. Remarquez aussi que
+
+quand je dis que Dieu s’est obligé de donner à ceux
+
+qu’il appelle toutes les conditions requises pour estre
+
+parfaits en leur vocation, je ne dis pas qu’il les leur
+
+donne tout à coup et à l’instant qu’ils entrent en Reli­
+
+gion. O non, il ne faut penser qu’en entrant en Religion
+
+on soit parfait tout promptement ; c’est assez qu’ils
+
+viennent pour tendre à la perfection et pour embrasser
+
+les moyens de se perfectionner. Et, pour ce faire, il est
+
+necessaire d’avoir ceste volonté ferme et constante de
+
+laquelle nous avons parlé, d’embrasser tous les moyens
+
+propres de se perfectionner en la vocation en laquelle
+
+* I Cor., VII, 20 ; on est ap-hellé*, Knhes TV. i.T.
+
+Ephes., iv,
+
+Il y a encor une chose à remarquer, qui est que Dieu ne s’est pas obligé de
+
+leur fournir toutes les conditions requises tout à coup, ni les rendre parfaits
+
+en leur vocation en un instant. L’on se tromperait, car les Religions ne
+
+seroyent pas nommées hospitaux, comme elles sont. J’ay desja monstre ailleurs
+
+que, de tout temps, les Religions ont esté appellées hospitaux, et les Religieux
+
+d’un nom grec qui veut dire guérisseurs, qui sont dans les hospitaux pour se
+
+guérir les uns les autres, comme les lepreux de sainte Brigitte. Il ne faut donc
+
+pas penser qu’entrant en Religion on doive estre parfait tout promptement,
+
+car j’ay desja dit plusieurs fois que nous ne venons pas parfaits en la
+
+Religion, mais ouy bien pour tendre à la perfection. Et ceste Congrégation,
+
+non plus que toutes les autres Religions, n’est pas une assemblée de filles
+
+parfaites, ains de filles qui tendent et prétendent fl la perfection ; c’est une
+
+escole où l’on vient pour apprendre à se perfectionner, et pour ce faire, il est
+
+necessaire d’avoir la volonté ferme et constante d’embrasser les moyens de
+
+nous perfectionner selon nostre vocation et l’Institut où nous sommes appellés.
+
+Ce n’est donc pas les mines tristes, les faces pleureuses et les personnes
+
+souspirantes qui sont tousjours les mieux appellées ; ni celles qui ne veulent
+
+bouger des églises, qui sont tousjours dans les hospitaux, ni encor ceux qui
+
+commencent avec grande ferveur. Il ne faut point regarder les larmes des
+
+pleureurs, ni escouter les souspirs des souspirans, ni faire considération sur
+
+les mines et ceremonies extérieures, pour cognoistre ceux qui sont bien
+
+appellés ; mais à ceux qui ont une bonne volonté, ferme et constante de vouloir
+
+estre guéris, et qui pour cela travaillent avec fidelité pour recouvrer la santé
+
+spirituelle.
+
+Il ne faut point aussi tenir pour une marque d'une bonne vocation ces
+
+ferveurs qui font que l’on ne se contente point en sa vocation, mais que l’on
+
+s’amuse à quelques désirs, qui sont pour l’ordinaire vains, quoy qu’apparens,
+
+d’une plus grande sainteté de vie ; car pendant que l’on s’amuse à rechercher
+
+ce qui le plus souvent n’est pas parfait, l’on ne fait pas ce qui nous peut rendre
+
+parfaits en celle que nous avons embrassée. Or, de cecy nous en avons un
+
+exemp'e en un jeune homme qui estoit prestre de l’Oratoire, lequel estoit
+
+si fervent qu’il luy sembloit que la maniéré de vie des Peres de l’Oratoire
+
+Voila donc comme les jugemens de Dieu sont occultes et secrets, et comme les uns, qui par despit et forme de mocquerie entrent en Religion, y perseverent neantmoins ; les autres, y estans bien appellés et ayans commencé avec grande ferveur, finissent mal et quittent tout. C’est donc une chose bien difficile de sçavoir si une fille est bien appellée de Dieu, pour luy donner sa voix ' car bien qu’on la voye fervente, peut estre ne perseverera-t’elle pas ; mais tant pis pour elle. Ne laissez pas pour cela, si vous voyez qu’elle ayt ceste volonté constante de vouloir servir Dieu et se perfectionner, de luy donner vostre voix ; car si elle veut recevoir les aydes que Nostre Seigneur infailliblement luy donnera, elle persévérera. Que si, apres quelques années, elle perd la perseverance, à son dam ! vous n’en estes pas la cause, ains elle-mesme. Voila donc pour la première partie et cognoissance des vocations. <a’)
+
+n’estoit pas assez parfaite pour contenter sa ferveur ; c’est pourquoy il pensa qu’il devoit sortir de là pour entrer en une Religion formelle. Ce que voyant, le bon Pere Philippe Nerius qui estoit son Supérieur, l’y conduisit par la main ; et le voyant entrer avec tant de ferveur au lieu où il sçavoit par divine inspiration qu’il ne devoit point demeurer, il se mit à pleurer à chaudes larmes, tellement que ces bons Religieux, qui jugeoyent que c’estoit d’aban-dance de consolation, luy dirent : Hé, mon Pere, il faut que la consolation que vous ressentez soit bien grande ! vous feriez bien mieux de moderer un peu vos larmes, il semble qu’il seroit bien plus à propos de les retenir que de les laisser couler de la sorte. Mais ce bien-heureux Philippe Nerius, illuminé d’une lumière toute divine, leur respondit : Ah ! je ne pleure pas à cause de la consolation que je ressens, mais je jette des larmes de compassion de voir ce jeune homme quitter une maniéré de vie pour en prendre une autre, et que, y entrant avec une si grande ferveur, il n’y perseverera neantmoins pas. Ce qui arriva puis apres, ainsi qu’il l’avoit prédit. [Reprendre au texte, lig. 1.]
+
+(a’) pour luy donner sa voix ; car — si bien je la vois fervente, peut estre ne perseverera-t’elle pas. Ce sera son mal. Ne laissez de luy donner vostre voix, si vous voyez qu’elle ayt ceste volonté constante de se vouloir guérir et estre panséecar si elle veut recevoir les aydes que Nostre Seigneur s’est obligé de luy donner, elle perseverera ; et mesme, bien qu’il ne les luy eust pas promises, ne s’y estant pas obligé, d’autant qu’il ne l’avoit pas appellée, elle peut neantmoins se rendre capable de les recevoir. Que si elle le fait seulement pour un temps et qu’elle ne persevere pas apres quelques années, à son dam ! vous n’en pouvez mais ; c’est elle et non vous, qui en estes la cause. Voila donc, ce me semble, en quoy consiste ceste première partie ; mais avant que de commencer la seconde, les Sœurs Novices se retireront et prieront Dieu pour nous pendant que nous parlerons de l’autre.
+
+Quant à la seconde, qui est de sçavoir (b’) les conditions que doivent avoir les filles, premièrement, que l’on reçoit céans, en second lieu, celles que l’on reçoit au Novitiat, et en troisiesme lieu, celles que l'on reçoit à la Profession, je n’ay guère à dire dessus la première réception, car l’on ne peut pas beaucoup cognoistre ces filles qui viennent avec une si bonne mine. Parlez-leur : elles feront tout ce que l’on voudra. Elles ressemblent à saint Jean et à <c’) saint Jacques, auxquels Nostre Seigneur dit : Pourrez-vous bien boire le calice de ma Passion ? Ils respondirent hardiment et franchement * Matt., xx, 22. qu’ouy*, et la nuict de la Passion ils l’abandonnèrent. Ces filles en font ainsi : elles font tant de prières, tant de reverences, elles tesmoignent tant de bonne volonté, que l’on ne peut bonnement les esconduire ; et en effet, l’on n’y doit pas faire trop grande considération, ce me semble, (d’) Je dis cecy pour l’interieur, car certes, il est bien difficile en ce temps-là de le pouvoir cognoistre, principalement des filles qui viennent icy de loin ; tout ce que l’on peut faire .à celles-cy, c’est de sçavoir qui elles sont, et telles choses qui regardent le temporel et l’exterieur, puis leur ouvrir la porte et les mettre à leur premier essay. Si c’est des filles qui soyent du lieu, l’on peut observer leur façon, et par la conversation que l’on a avec elles, recognoistre quelque chose de leur inferieur ; mais je trouve qu’il est encor bien malaisé, car elles viennent tousjours en la meilleure mine et posture qui se peut.
+
+Or, il me semble que pour ce qui est de la santé
+
+(b’) Il ne me reste maintenant à dire que ce qui appartient à vous autres Professes, qui est ma seconde partie ; à sçavoir,
+
+(c’) l'on ne peut pas — bonnement cognoistre (je dis quant à la première entrée pour l’essay) ces filles qui viennent avec de si bonnes mines que rien plus ; et, à leur dire, elles feront tout ce que l’on voudra. Elles me font ressouvenir de saint Jean et de
+
+(d’) l’on n’y doit pas — tant regarder, ce me semble. Or, je ne parle pas à ceste heure en forme de prédicateur, mais par simple conférence en laquelle chacun dit son opinion. Voila pourquoy je ne dis pas qu’il ne le faille pas faire, mais ouy bien qu’il me semble que l’on n’y doit pas avoir grand regard. corporelle et infirmités du corps, l’on n’y doit point faire ou fort peu de considération, d’autant qu’en ces maisons l’on y peut recevoir les foibles et imbecilles aussi bien que les fortes et robustes, puisqu’elles ont esté faites en partie pour elles ; pourveu que ce ne soyent des infirmités si pressantes qu’elles les rendent tout à fait incapables d'observer la Réglé et inhabiles à faire ce qui est de ceste vocation. Mais excepté cela, je ne leur refuserois jamais ma voix, pas mesme quand elles seroyent aveugles ou manchottes, ou n’auroyent qu’une jambe, si avec cela elles avoyent les autres conditions requises à ceste vocation. Et que la prudence humaine ne me vienne point icy dire : Et s’il se presentoit tousjours telle sorte de gens, les faudroit-il tousjours recevoir ? et <e’> si toutes estoyent aveugles ou malades, qui les serviroit ? Or, ne vous mettez point en peine de cela, car il n’arrivera pas : laissez-en le soin à la divine Providence qui sçaura bien y pourvoir, et y appeller les fortes, necessaires à leur service. Quand il se présentera des infirmes, dites : Dieu soit béni ! en vient-il des robustes : à la bonne heure ! En somme, les maladies qui n’empeschent point d’observer la Réglé ne doivent point estre considérées en vos maisons. Et voila ce que j’avois à dire touchant ceste première réception.
+
+Quant à la seconde, qui est de recevoir une fille au
+
+(e’) tousjours recevoir ? — Je dis qu’ouy ; pourveu, comme j’ay dit, qu’elles eussent tousjours les conditions de l’esprit qui sont requises à ceste vocation, je ne voudrois faire nulle considération sur leurs defauts du corps. Ouy, mais
+
+(f’) à la bonne heure! — Le monde use pour l’ordinaire de tel discours quand il void entrer plusieurs personnes en Religion, et, comme en desapprouvant leur retraite, il dit : Et si tous les hommes et les femmes se faisoyent Religieux et Religieuses, qui maintiendroit le monde ? nous le verrions bien tost prendre fin. Mais encor, disent-ils, qui les nourriroit ? O prudence humaine, ne vous mettez pas en peine de cela, car il n’arrivera pas, il n’en demeurera tousjours que trop dans le monde. Il y avoit une fille qui estoit aveugle, laquelle poursuivoit en vostre maison de Paris ; et pendant que j’y estois, plusieurs personnes s’employèrent pour la faire recevoir ; elle le desiroit fort. C’estoit certes une bonne fille, et j’eusse bien voulu que l’on 1 eust en cela consolée. Il n’y eut pas moyen à cause de quelques autres conditions qui ne permettoyent pas de la recevoir ; mais si elle n’eust eu autre chose que d’estre aveugle, je luy eusse donné ma voix, car en somme Novitiat, je ne trouve pas encor qu’il y ayt des grandes difficultés. Neantmoins, l’on y doit faire plus de considération qu’en la première réception, car aussi l’on a eu plus de moyen de remarquer leur humeur, actions et habitudes ; l’on void bien les passions qu’elles ont (g'). Mais tout cela ne doit point les empescher d’estre admises au Novitiat, pourveu qu’elles ayent une bonne volonté de s’amender, de se sousmettre, et se servir des medi-camens propres à leur guérison. Et, bien qu’elles ayent de la répugnance à ces remedes et les prennent avec grande difficulté, cela ne veut rien dire, pourveu qu’elles ne laissent pas d’en user ; car les médecines sont tousjours ameres au goust, et n’est pas possible qu’on les reçoive avec la suavité que l’on feroit si elles estoyent bien appétissantes ; mais avec tout cela elles ne laissent pas de faire leur operation, et quand elles la font meilleure, c’est lors qu’elles font le plus de travail et de peine. Tout de mesme, voila une fille qui a ses passions fortes ; elle est colere, elle fait plusieurs manquemens : si avec cela elle veut bien estre guerie, et veut qu’on la corrige, mortifie et qu’on luy donne des remedes propres à sa guérison, combien qu’en les prenant cela la fasche et la. travaille, il ne faut point pour cela luy refuser sa voix ; car elle n’a pas seulement la volonté de guérir, mais encor elle prend les remedes qui luy sont donnés pour ce sujet, combien qu’avec peine et difficulté.
+
+Il s’en trouvera qui auront esté mal nourries et mal civilisées, qui auront la nature rude et grossière. Or, il n’y a point de doute que celles-cy n’ayent plus de peine et de difficulté que celles qui auront le naturel plus doux et traittable, et qu’elles seront plus sujettes à faire des fautes, que d’autres qui seront mieux nourries ; mais neantmoins, si elles veulent bien estre gueries et tesmoignent une volonté ferme à vouloir recevoir les remedes,
+
+(g’) première réception, — parce que l’on a plus de temps et de moyen de les observer et remarquer leurs mœurs, actions et habitudes ; l’on void bien si elles sont coleres ou tendres, et telles autres passions. quoy qu’il leur couste, à celles-là je donnerois ma voix nonobstant ces cheutes ; car ces filles-là, apres beaucoup de travail, font de grands fruicts en la Religion, deviennent des grandes servantes de Dieu et acquièrent une vertu forte et solide, car la grâce de Dieu supplée au defaut <h’) ; et n’y a point de doute que souvent où il y a moins de la nature, il y a plus de la grâce. Or donc, on ne doit pas laisser de recevoir au Novitiat les filles, quoy qu'elles ayent beaucoup de mauvaises habitudes, le cœur rude et grossier, et qu’elles témoignent beaucoup de passions, (i’) pourveu que telles filles veuillent estre gueries. En somme, pour recevoir une fille au Novitiat, il ne faut sinon sçavoir si elle a une bonne volonté, et si elle est délibérée et résolue de recevoir le traittement qui luy sera fait pour sa guérison, et de vivre en une grande sousmission : ayant cela, je luy donnerois ma voix. Et voila, ce me semble, tout ce qui se peut dire touchant ceste seconde réception.
+
+Pour la troisiesme, c’est une chose de grande importance de recevoir une fille à la Profession ; et en cecy (j’) il me semble qu’on doit observer trois choses. La première, que les filles que l’on reçoit à la Profession soyent saines, non de corps, comme j’ay desja dit, mais (k’) de cœur et d’esprit ; je veux dire, qui ayent le cœur bien disposé à vivre en une entière souplesse et sousmission. La seconde, que ces filles ayent l’esprit bon : or, quand je dis un bon esprit, je n’entends pas dire de ces grands esprits qui sont pour l’ordinaire vains et pleins de propre jugement, de suffisance, et qui estans au monde estoyent des boutiques de vanité ; qui viennent en Religion non point pour s’humilier, mais comme si elles y vouloyent faire des leçons de philosophie et théologie, voulant tout conduire et gouverner. Or c’est à celles-cy qu’il faut bien prendre garde. Je dis qu’il y faut bien prendre garde, et non qu’il n’en faille point recevoir, si l’on void qu’elles veuillent estre changées et humiliées ; car elles pourront bien, avec le temps et la grâce de Dieu, faire ce changement ; ce qui arrivera sans doute, si avec fidelité elles se servent des remedes qui leur seront donnés pour leur guérison. (D Quand doncques je parle d’un esprit bon, j’entends parler des esprits bien faits et bien sensés, et encor des mediocres, qui ne sont ni trop grands ni trop petits ; car tels esprits font tousjours beaucoup, sans que pour cela ils le sçachent. Ils s’appliquent à faire et s’adonnent aux vertus solides ; ils sont traittables, et on n’a pas beaucoup de peine à les conduire, car facilement ils comprennent combien c’est une chose bonne de se laisser gouverner.
+
+La troisiesme chose qu’il faut observer c’est si la fille a bien travaillé en son année de Novitiat, si elle a bien souffert et profité des médecines que l’on luy a donné, si elle a bien fait valoir les resolutions qu’elle fit entrant en son Novitiat de changer ses mauvaises humeurs et inclinations ; car l’année du Novitiat luy a esté donnée pour cela. Que si l’on void qu’elle ayt persévéré fidèlement en sa resolution, et que sa volonté demeure ferme et constante pour continuer, et qu’elle se soit appliquée à se reformer et former selon les Réglés et Constitutions, et que ceste volonté luy dure, voire de vouloir tousjours mieux faire, c’est un bon
+
+(1’) faire — ceste metamorphose que, ayant esté au monde des boutiques de vanité, elles en soyent en Religion une d’humilité ; ce qui arrivera sans doute, si avec fidelité elles se servent des remedes qui leur sont donnés pour leur guérison, car c’est une chose asseurée que qui est fidele aux petites choses, Dieu le constituera sur des grandes^ signe et bonne condition pour luy donner sa voix. Car bien que nonobstant cela elle ne laisse pas de faire des fautes, et mesmes assez grandes, il ne faut pas pourtant luy refuser sa voix ; car bien qu'en l’année de son Novitiat (m’> elle doive travailler en la reformation de ses mœurs et habitudes, ce n’est pas à dire pour cela qu’elle ne doive point faire de cheute, ni quelle doive à la fin de son Novitiat estre parfaite. Car regardez au college de Nostre Seigneur, les glorieux Apostres : encore qu’ils fussent bien appelles et qu’ils eussent beaucoup travaillé en la reformation de leur vie, combien firent-ils de fautes non seulement en la première année, mais aussi en la seconde et troisiesme. Tous disoyent et promet-toyent merveilles, voire mesme de suivre Nostre Seigneur à la mort et dans la prison* ; mais la nuict de. * Lucæ, xxn, 33. la Passion, que l’on vint prendre leur bon Maistre, tous l’abandonnèrent*. Je veux dire par là que (n’) les cheutes *Matt., XXVI, 56. ne doivent pas estre cause que l’on rejette une fille,
+
+(m’j pour luy donner sa voix. — Vous me dites que l’on void bien que ceste fille travaille à son amendement et qu’elle tesmoigne une bonne volonté ; mais par cy par là elle ne laisse pas de faire de grandes fautes, et mesmes assez souvent : comme l’on peut cognoistre qu’elle ayt ceste bonne volonté de s’amender, puisque en toute l’année de son Novitiat ses cheutes ont esté si frequentes ? Or voyez-vous, bien qu’en ceste année-là
+
+(n’) tous l’abandonner ent. — Et mesmement les trois que Nostre Seigneur, ce me semble, cherissoit le plus, et auxquels il descouvroit le plus ses secrets, les menant tousjours avec luy, et à la montagne de Thabor, et au jardin des Olives, ces trois là, dis-je, qui sembloyent estre les plus forts pour résister aux assauts de leurs passions, ce furent ceux-là qui firent de plus grandes fautes. Le glorieux saint Pierre, qui estoit si fervent, combien en fit il ! Certes, il estoit grandement sujet à faire des eschappées, mais pour cela il ne fut point rejetté de Nostre Seigneur, d’autant qu’il cognoissoit bien qu’il avoit tousjours la volonté de s’amender, ferme et constante. Il fit de grandes fautes la première année de son novitiat, mais il en fit encore de plus grandes la seconde, et celle qu’il fit en la troisiesme encore plus grande que toutes les autres, car il renia son bon Sauveur et Maistre. Sa nature estoit cause en partie qu’il faisoit de plus grandes et plus frequentes fautes que les autres. Saint Jean, qui avoit un naturel plus doux, n’estoit pas si sujet à ces saillies ; neantmoins, il ne laissa pas de quitter son Maistre et s’enfuit avec les autres ; mais ce ne fut pas pour long temps, car il retourna, et puis il ne le quitta plus. Et saint Jacques, non seulement l’abandonna quand il fut question de mourir, ains en cecy il fit encore pis que les autres, car il ne retourna point le trouver. Voila donc comme quand parmi tout cela elle demeure avec une forte volonté de se radresser et de se vouloir servir des moyens que l’on luy donne pour ce sujet. Voila ce que j’avois à dire touchant les conditions que les filles que l’on veut recevoir à la Profession doivent avoir, et ce que les Sœurs doivent observer pour leur donner leur voix. Et sur cecy je finiray mon discours, si ce n’est que l’on me demande encore quelque chose.
+
+L’on demande donc en premier lieu, s’il se trouvoit une fille qui fust fort sujette à se troubler pour des petites choses, et que son esprit fust souvent plein de chagrin et d’inquietude, et qu’elle ne tesmoignast parmi cela guere d’amour pour sa vocation, et que neantmoins, cela estant passé, elle promist de faire des merveilles, qu’est-ce qu’il faudroit faire ? Il est tout certain qu’une telle fille estant ainsi changeante n’est pas propre pour la Religion ; mais parmi tout cela ne veut-elle point estre guerie ? car si cela n’est, il la faut congédier. L’on ne sçait, direz-vous (°’), si cela procede faute de volonté de se guérir, ou bien qu’elle ne comprenne pas en quoy consiste la vraye vertu. Or, si apres luy avoir fait bien entendre ce qu’il faut qu’elle fasse pour son amendement, elle ne le fait pas ains se rend incorrigible, il la faut rejetter ; sur tout parce que ses fautes, ainsi que vous dites, ne procedent pas faute de jugement ni de pouvoir comprendre en quoy consiste la vraye vertu, ni moins encore ce qu’il faut qu’elle fasse pour son amendement ; mais que c’est par le defaut de la volonté, qui n’a point de perseverance ni de constance à faire et à se servir de ce qu’elle sçait estre requis pour son amendement ; encore qu’elle dise quelquefois qu’elle fera mieux, neantmoins (p’> ne le fait pas, ains persevere
+
+(o’) estre guerie, — ni ne veut-elle point que l’on luy applique les remedes propres à sa guérison ? car si cela est, il luy faut ouvrir la porte et la mettre dehors. L’on ne sçait, dites-vous
+
+(p’) pour son amendement. — Et partant, encore qu’elle dise quelquefois qu’elle fera monts et merveilles, et que je voye neantmoins qu’elle en ceste inconstance de volonté, je ne luy donnerois pas ma voix.
+
+Vous dites encor qu’il y en a de si tendres, qu’elles ne peuvent supporter qu’on les corrige, sans se troubler, et que cela les rend souvent malades. Or, si cela est, il leur faut ouvrir la porte ; car puisqu’elles sont malades, et qu’elles ne veulent point qu’on les traitte ni qu’on leur applique les remedes propres à leur donner la guérison, l’on void clairement que, faisant ainsi, elles se rendent incorrigibles et ne donnent point d’espoir de pouvoir estre gueries. Pour ce qui est de la (i’) tendreté, tant sur l’esprit que sur le corps, c’est l’un des grands empeschemens qui soyent en la vie religieuse ; et partant il faut avoir un très-grand soin de ne pas recevoir celles qui en sont démesurément atteintes, parce qu’elles ne veulent point estre gueries, refusans de se servir de ce qui leur peut donner la santé. (r’>
+
+L’on demande en second lieu, qu'est-ce que l’on doit juger d’une fille qui tesmoigne par ses paroles qu’elle se repent d’estre entrée en Religion ? Certes, si elle persevere en ces dégousts de sa vocation et à se repentir, et que l'on voye que cela la rende lasche et négligente à se former selon l’esprit de sa vocation, il la faut mettre dehors. Neantmoins, il faut considerer que cela peut arriver ou par une simple tentation ou pour exercice : et <s’) cela se peut cognoistre par le profit qu’elle fera de telle pensée, dégoust ou repentir, quand avec
+
+(q’) de — ceste tendreté, c’est un si grand mal, que l’on ne sçauroit avoir trop de zele pour s’en délivrer. La
+
+(r’) démesurément atteintes. — La tendreté de l’esprit est encor plus dangereuse que celle du corps, d’autant que l’esprit estant plus noble que le corps, ceste maladie l’ayant atteint en est plus difficile à guérir. Si tant est que celle qui a ce mal ne veuille pas souffrir qu’on luy applique les emplastres sui sa playe, je ne luy donnerois pas ma voix. Et pourquoy ? parce que, ne voulant pas se servir des remedes qui luy sont propres, elle ne peut point estre affranchie de son mal, ni recouvrer sa santé.
+
+(s ) mettre dehors. — Vous me dites comme l’on cognoistra si cela vient par exercice ou tentation. Ceste demande est bonne, mais elle est bien difficile ; neantmoins, simplicité elle se descouvrira de telle chose et qu’elle sera fidelle à se servir des remedes que l’on luy donnera là dessus ; car Dieu ne permet jamais rien pour nostre exercice, qu’il ne veuille que nous en tirions profit, ce qui se fait tousjours quand l’on est fidelle à se descouvrir et, comme j’ay dit, simple à croire et à faire ce que l’on nous dit : et cecy est la marque que l’exercice est de Dieu. Mais quand- l’on void que ceste fille use de son propre jugement, et que sa volonté est seduite et gastée, perseverant à son dégoust, alors la chose est en mauvais estât et quasi sans remede ; il la faut renvoyer.
+
+(*’) L’on demande en troisiesme lieu, s’il ne faut pas
+
+(t’) Quant à celle qui rit sur tout ce qu’on luy dit, ainsi que vous me dites, il luy faut demander le sujet qui la meut à rire. Elle dit qu’elle ne le sçait pas. Je ne sçay donc pourquoy elle rit. Elle ne s’estonne de rien que l’on luy dise, ains va tousjours son train ordinaire. Mais dites-moy, ne fait-elle pas son profit de ce qu’on luy dit, ou si elle ne s’amende pas de ce qu’on la corrige ? fait-elle plus d’estat de son propre jugement et de son esprit que de la direction que l’on luy donne ? en cela se rend-elle incorrigible ? Si cela est, je ne luy donnerois pas ma voix ; mais si elle se veut amender et qu’elle veuille qu’on la guérisse, en ce cas je ne ferois nulle difficulté de la luy donner. Mais vous dites, ma chere fille, que l’estime qu’elle a de ce qu’elle fait est si grande, qu’il semble qu’elle ne fasse point d’estat de tout ce que l'on luy dit. Or, si elle veut estre sainte d’une sainteté particulière, c’est une autre chose ; mais certes, ces saintetés-là sont tousjours à craindre. Que si l’on veut estre saint d’une vraye sainteté, il faut qu’elle soit commune, comme celle de Nostre Seigneur et de Nostre Dame. De plus, la sainteté n’est jamais cogneuê par ceux qui la possèdent, et celuy qui est plus saint, tant moins pense-t’il l’estre.
+
+Que dites-vous, ma chere fille ? comme vous pourrez faire pour cognoistre tels esprits pour leur donner en bonne conscience vostre voix, puisque vous ne pouvez avoir cognoissance de ces esprits-là, si ce n’est par le moyen des Supérieurs ? Il les faut bien observer, et puis l’on en est bien informé par ce qui s’en dit au chapitre ; car, pourquoy est-ce que les chapitres se tiennent, sinon à fin qu’entendant les opinions de toutes les Sœurs, l’on se resolve mieux soy-mesme en ce que l’on doit faire ? Elle est forte, dites-vous, en son propre jugement : elle le sera donc bien tost en sa propre volonté. Mais ne veut-elle point se corriger de cela ? Si elle juge des actions des autres il la faut enseigner à ne le plus faire et à se juger soy-mesme et non les autres. Que si elle sçait si bien remarquer ce qui est propre aux autres et non à soy-mesme, hé, que voulez-vous faire à cela ? ce sont des miseres de l’esprit humain. Il la faut bien instruire à s’en corriger, et luy enseigner qu’en lisant les Réglés et Constitutions, elle remarque ce qui la concerne seulement, car il faire considération de donner sa voix à une fille qui n’est pas cordiale, ou qui n’est pas égale à l’endroit de toutes les Sœurs, et qui a fait voir qu’elle a plus d’inclination à l’une qu’à l’autre. Il ne faut pas estre si rigoureuses pour toutes ces petites choses. Voyez-vous, ceste inclination est la derniere piece de nostre renoncement ; car avant que l’on puisse arriver à ce point de n’avoir aucune inclination à l’une plus qu’à l’autre, et que ces affections soyent tellement mortifiées qu’elles ne parois-sent point, il y faut du temps. (u’> Il faut observer en faut qu’elle s’amende. Vous dites si la Supérieure et la Maistresse ne disent rien des filles au chapitre, et qu’ayant remarqué que ceste fille manque souvent de promptitude à l’obeissance ou à telles autres observances, si vous ne devez pas laisser d’en parler ou de luy donner vostre voix ? Il faut, ma chere fille, aller simplement en ceste besogne, et faire en cela ce que la conscience vous dicte. O certes, encore que les choses sont petites en soy, il ne faut pas pour cela laisser de les faire avec beaucoup de soin et d’affection ; car rien n’est petit en Religion, et qui mesprise les petites observances, viendra bien tost à négliger les grandes. Mais il faut regarder si ceste Sœur ne se veut pas amender de cela, à cause que ce n’est que petite chose à ses yeux, et qu’elle se rende incorrigible : cela seroit très-mauvais.
+
+Ma chere fille, que dites-vous ? Si l’on ne pourroit pas esprouver les Novices en leur disant quelque chose qui les pourroit bien mortifier, que les Professes mesmes, toutes Professes qu’elles sont, auroyent prou peine de supporter ? Véritablement il ne le faudroit pas faire. Il est vray que l’on peut demander congé à la Supérieure de les esprouver, et il est tousjours mieux de le faire par obéissance que de sa propre volonté ; cai‘ il y auroit danger que voulant mortifier les autres vous n’oubliassiez de vous mortifier vous-mesme.
+
+Vous dites maintenant si quand l’on auroit quelque creance que les parens d’une fille l’auroyent sollicitée de se mettre en Religion, si l’on ne la pourroit pas bien esprouver sur cela ? Cela se pourroit bien faire. Mais encor que son pere et sa mere luy eussent persuadé de se faire Religieuse, sa vocation ne laisseroit pas d’estre bonne, puisque, comme nous avons dit, Dieu se sert souvent de ces voyes là pour attirer à soy ses créatures ; et quand bien elles n’auroyent point esté bonnes au commencement, Dieu les peut rectifier. Mais ce qu’il faut sçavoir de ceste fille, c’est si elle a une bonne volonté de vivre en une parfaite obéissance et sousmission.
+
+Dites-vous, ma chere fille, s’il ne faut pas faire [Reprendre au texte, lig- i.]
+
+(u ) du temps. — Certes, la grande sainte Paule, qui estoit si sainte, aymoit si fort son mary et ses enfans, qu’elle pleuroit tousjours tant à leur trespas qu elle en pensoit mourir de douleur, tant son inclination d’aymer estoit grande, sans qu’elle y peust remedier. Elle ne laissoit pas pour cela d’estre une grande Sainte, et bien résignée à la volonté de Dieu. cela, comme en toute autre chose, si ceste Sœur se rend incorrigible. <v’)
+
+En fin, direz-vous, si le sentiment des autres Sœurs estoit tout contraire à ce que l’on sçait, et qu’il nous vinst inspiration de dire quelque chose que nous avons (w’> recognu qui est à l’advantage de la Sœur, faudroit-il laisser de le dire ? Non, quoy que le sentiment des autres soit tout contraire au vostre et que vous soyez seule en ceste opinion ; car cela pourra servir encor aux autres pour se résoudre à ce qu’elles doivent faire. Le Saint Esprit doit présider aux Communautés, et selon la variété des opinions on se résout pour faire comme l’on juge plus expedient pour sa gloire. Or, ceste inclination que vous avez, que les autres donnent leur voix ou qu’elles ne la donnent pas, combien que vous donniez ou ne donniez pas la vostre, doit estre mesprisée et rejettée comme une autre (x’> tentation. Mais il ne faut jamais
+
+(v’) incorrigible. — Vous desirez sçavoir si l’on ne peut pas conférer avec la Supérieure des filles dont on n’a pas assez de cognoissance de leur esprit. Cela se fait au chapitre, mais il se peut encor faire en particulier.
+
+(w’) Que dites-vous, ma fille ? si le sentiment des autres Sœurs estoit tout contraire à ce que vous sçavez, et qu’il vous vinst l’inspiration de dire quelque chose que vous avez
+
+(x’) tentation. Vous craignez que disant vostre sentiment qui est contraire à tous les autres, vous ne vous trompiez en vostre propre jugement. O pardonnez-moy, ma chere fille, ce n’est pas là le propre jugement ; il faut dire simplement et véritablement ce que Dieu vous inspirera.
+
+Que dites-vous, ma chere fille ? car je ne vous entends point ; les enfans font tant de bruit à la rue qu’ils m’empeschent de bien entendre ce que vous • dites. Dites-vous, ma fille, que quand on ordonne quelque chose à une fille, elle dit qu’il est bien difficile de le faire et d’observer un tel point des Constitutions. Mais voyez-vous que pour cela elle laisse de le faire ? car ce n’est rien d’avoir des difficultés quand on ne laisse pas pour elles de faire ce qu’il faut ; et quelquefois l’on fait ces difficultés plus grandes qu’elles ne sont pas, et cela se fait facilement : c’est pourquoy il ne faut pas tant prendre garde à ce qu’elle dit qu’à ce qu’elle fait.
+
+Et vous, ma fille, vous dites que vous cognoissez des Religieuses lesquelles, encor que les filles redemandent plusieurs fois leurs habits pour sortir, disant qu’elles ne sçauroyent s’obliger à une telle vocation, elles ne les leur donnent pourtant pas, et que l’on attend jusques au dixiesme mois de leur Novitiat. Que si elles ont persévéré en ce désir jusques là, on les renvoyé ; mais si cela se passe, on ne laisse pas de les garder. Or cela est bon, mais je ne voudrois pas les retenir de force quand elles voudroyent sortir avant ce tesmoigner parmi les Sœurs ses inclinations ou aversions en ceste occasion.
+
+En fin, pour toutes les imperfections que les filles apportent du monde il faut garder ceste regie : quand temps-là, ni prescrire aucun temps pour les renvoyer ; je voudrais bien avoir un peu de patience pour voir si ce dégoust se passerait. Il est vray qu’il y en a que l’on a peine de recognoistre leur esprit, et vous avez raison, ma fille, de dire si l’on ne pourrait pas retarder leur Profession. Ouy, cela se pourroit faire à fin de les mieux recognoistre.
+
+Vous demandez s’il faut faire quelque considération quand on s’apperçoit qu’il y a des filles qui font leurs actions pour les yeux de la Supérieure ou de la Maistresse. Il est quelquefois bon de faire quelque chose pour ses Supérieurs, car puis apres on vient à le faire purement pour Dieu. A ce propos, je vous diray qu’il y avoit dernièrement une bonne femme laquelle me vint trouver avec resolution de ne point pardonner à une personne qui l’avoit offencée ; et comme je la persuadois à le faire, apres beaucoup de résistance, elle me dit qu’elle le ferait pour l’amour de moy et non pour l’amour de Dieu : j’eus bien de la peine par apres à l’en faire desdire. Or, celles que vous dites qui font pour les yeux des Supérieurs, et plus pour un que pour un autre, en sont ainsi : elles font bien voir par là qu’elles font ce qu’elles font pour la creature et non pour le Créateur, car si elles le faisoyent pour Dieu, tous Supérieurs leur seroyent esgaux. Mais que voulez-vous ? cela se peut bien purifier.
+
+Vous demandez encor si une fille estoit sourde ou qu’elle eust telle autre infirmité, si elle pourroit estre receuë. C’est ce que j’ay desja dit, que je ne voudrais faire nulle considération aux infirmités du corps, si elles n’estoyent bien pressantes ; toutesfois, la surdité rend quasi une personne incorrigible, car l’on a peine de la faire amender, d’autant qu’on ne luy peut faire entendre sa faute, ni ce qu’il faut qu’elle fasse pour s’amender ; mais pour les autres je n’y voudrais guere regarder. O ma chere fille, n’est-ce pas ce que j’ay desja dit: Si tout le monde se faisoit Religieux, qui le maintiendrait ? Ainsi en dites-vous : Si l’on ne recevoit que des infirmes, qui les servirait ? Il ne nous faut pas estre si prudens, car Dieu sçaura bien appeller les fortes au soulagement des foibles.
+
+Hé bien, ma chere fille, si une Sœur estoit sujette à parler par complaisance ou flatterie, il luy faudroit pardonner et luy apprendre à ne le plus faire, s’il se peut ; mais voyez-vous, il aut du temps pour mortifier les passions et inclinations. Et en tous ces manquemens, il faut faire comme nous faisons en confession. Voila un homme qui se vient confesser à moy ; il s’accuse d’avoir blasphémé deux cens fois le nom de Dieu : je luy dis plusieurs choses pour son amendement, je le vois plein de bonne volonté de s’amender, je luy donne sur cela 1 absolution. Il revient une autre fois et me dit : Je m’accuse d’avoir blasphémé cent fois le nom de Dieu. O certes, je luy donne l’absolution, car je vois clairement l’amendement de cest homme, et partant je juge qu’il ne veut pas demeurer incorrigible. Ainsi en faut-il faire des filles quand [Reprendre au texte, lig. 4.] l’on void qu’elles s'amendent, combien qu’elles ne laissent pas de commettre des fautes, il ne faut pas les rejetter, car par l’amendement elles font voir qu’elles ne veulent pas demeurer incorrigibles, (y’)
+
+(y’) Vous dites si une fille qui n’auroit pas guere de bonnes conditions, et qui outre cela seroit quasi tousjours en l’infirmerie, s’il ne faudrait pas faire considération pour luy donner sa voix, car estant tousjours malade l’on ne la peut pas esprouver ni recognoistre son esprit. Or, je responds à cela que si elle n’a pas les conditions propres pour estre de vostre vocation, il n’y a point de doute qu’il y faut regarder ; mais pour ce qui est de ses infirmités corporelles je ne voudrais pas que l’on y fist trop de considération, si elles n’estoyent telles qu’elles l’empeschassent d’observer la Réglé. Et pour ce qui est de recognoistre son esprit, certes, l’on recognoist mieux le naturel et l’esprit d’une personne en la maladie qu’en nulle autre chose, et la maladie est une continuelle espreuve.
+
+N’avez-vous plus rien à dire ? Quelle heure est-il ? Avez-vous dit Compiles ? et quand les voulez-vous dire ? Or allez donc, car j’ay peur de faire une irrégularité. Or sus, mes cheres filles, je supplie Nostre Seigneur qu’il vous benisse. Dieu vous donne l’accomplissement de tous vos désirs et sa sainte paix. Amen.

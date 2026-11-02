@@ -1,0 +1,267 @@
+# Entretien XVI. Des aversions
+
+barbier, je ne fay point de mal ? Je ne jette que des parfums, je ne parle que des vertus et des choses propres à consoler nos âmes ; je joüe un peu du flageolet, parlant des loüanges que nous devons rendre à Dieu. Mais en nos entretiens familiers, je viens en qualité de chirurgien, n’apportant que des emplastres et cataplasmes pour appliquer sur les playes de mes cheres filles ; et, bien qu’elles crient un peu holà, je ne lairray pas de presser ma main pour faire mieux tenir l’emplastre, et les guérir par ce moyen. Si je fay quelque incision, ce ne sera pas sans que mes filles en ressentent de la douleur ; mais je ne m’en soucie pas, je ne suis icy que pour cela ; et les mondains n’en seroyent pas capables, à cause de l’erreur qu’ils se sont forgée que les personnes religieuses et vouées à la perfection ne doivent point avoir d’imperfection. Mais icy entre nous autres, mes cheres filles, nous sçavons bien que cela est impossible ; c’est pourquoy nous ne craignons point de nous scandaliser en disant franchement nos petites infirmités. disent-ils, si vous approchez celle d’un barbier, vous y aurez un plaisir grand, d’autant qu’il a tousjours un petit enfant qui joiie du flageolet ; et outre cela, le barbier parfume tellement sa boutique que ce n’est que parfum. Mais au contraire, celle du chirurgien est puante, et n’y void-on que des emplastres et onguens ; outre cela, on entend ordinairement des pauvres gens qui crient : Holà, que me faites-vous ? Mon Dieu, que de douleurs ! d’autant que l’on fait aux uns des incisions, l’on raccommode les ruptures des autres, l'on applique le feu au troisiesme, en fin tout cela leur cause des grandes douleurs ; car chacun sçait que l’on ne peut remettre les os qui sont disloqués et hors de leur place, sans faire dire holà au pauvre malade. Mais le barbier ne fait point de mal quand il coupe la barbe, d’autant qu’elle n’est point sensible. (Ms. et Coll.)
+
+de mal ? — car je ne touche pas ordinairement les defauts particuliers avec tant de familiarité comme je fay en nos conférences particulières, à cause des séculiers qui nous entendent. (Ms. et Coll.)
+
+un peu holà, je ne — laisse pourtant pas de presser un peu ma main sur la playe à fin de mieux faire tenir l’emplastre, et par ce moyen les guérir et rendre fort saines. Si je fay quelque incision, ce ne sera pas sans qu’elles en ressentent de la douleur ; mais je ne m’en mettray pas en peine, puisque je ne suis icy que pour cela. Voila donc, mes cheres filles, comme je dresse mes excuses envers celles que je pourray toucher, les. asseurant que s’il m’arrive de le faire, je le feray de tout mon cœur. Or sus, voyons quelle est la première demande qui m’est faite. (Ms. èt Coll.) . . ......................... ....
+
+La première demande est : Qu’est-ce qu’aversion ? (®) Les aversions sont certaines inclinations qui sont au-cunefois naturelles, lesquelles font que nous avons un certain petit contre-cœur à l’abord de ceux envers qui nous les avons, qui empesche que nous n’aymons pas leur conversation, s’entend que nous n’y prenons pas du plaisir, comme nous ferions en celle de ceux envers lesquels nous avons une inclination douce, qui nous les fait aymer d’un amour sensible, parce qu’il y a une certaine alliance et correspondance entre nostre esprit et le leur.
+
+Or, pour monstrer que cecy est naturel, d’aymer les uns par inclination et non pas les autres, ne void-on pas que si deux hommes entrent dans un tripot où deux autres joüent à la paume, d’abord ceux qui entrent auront de l’inclination que l’un gaigne plustost que l’autre ? Et d’où vient cela, puisqu’ils ne les ont jamais veus ni l’un ni l’autre, ni n’en avoyent jamais ouy parler, ne sçachant point si l’un est plus vertueux que l’autre ? c’est pourquoy ils n’ont point de raison d'en affectionner plus l’un que l’autre, Il faut donc confesser que ceste inclination d’aymer les uns plus que les autres est naturelle ; et l’on le void mesmes aux bestes, lesquelles n’ayant point de raison, ont toutesfois de l’aversion et de l’inclination naturellement. Faites en l’experience en un petit agnelet qui ne fait que naistre : monstrez-luy la peau d’un loup ; quoy qu’il soit mort, il se mettra à fuir, il beelera, il se cachera sous les flancs de sa mere ; mais monstrez-luy un cheval, qui est bien une plus grosse beste, il ne s’en espouvantera nullement, ains il se joüera avec luy. La raison de cela n’est autre, sinon que le naturel luy donne de l’alliance avec l’un et de l’aversion à l'autre.
+
+Or, de ces aversions naturelles il n’en faut pas faire grand cas, non plus que des inclinations, pourveu que nous sousmettions le tout à la raison. Ay-je de l’aversion de converser avec une personne, laquelle je sçay bien estre de grande vertu et avec laquelle je puis beaucoup profiter ? il ne faut pas que je suive mon aversion qui me fait eviter de la rencontrer ; il faut que j’assujettisse ceste inclination W à la raison qui me doit faire rechercher sa conversation, ou au moins y demeurer
+
+Les vrays Entretiens spirituels
+
+avec un esprit de paix et de tranquillité quand je m’y rencontre. Mais il y a des personnes qui ont si grand peur d’avoir de l’aversion’ à ceux qu’ils ayment par inclination, qu’ils en fuyent la conversation, de crainte qu’ils ont de rencontrer quelque defaut qui leur oste la suavité de leur affection et de leur amitié, ü)
+
+Quel remede à ces aversions, puisque nul n’en peut estre exempt, pour parfait qu’il soit ? Ceux qui sont d’un naturel aspre auront de l’aversion à celuy qui sera fort doux, et estimeront ceste douceur une trop grande mollesse, bien que ceste qualité de douceur soit la plus universellement aymée. L’unique remede à ce mal, comme à toute autre sorte de tentation, c’est une simple diversion ; je veux dire, n’y point penser. Mais le malheur est que nous voulons trop bien cognoistre si nous avons raison ou non d’avoir aversion à quelque personne. O jamais il ne faut s’amuser à ceste recherche ; car nostre amour propre, qui ne dort (') jamais, nous dorera si bien la pillule qu’il nous fera accroire qu’elle est bonne ; je veux dire qu’il nous fera voir qu’il est vray que nous avons certaines raisons lesquelles nous sembleront bonnes, et puis, celles-là estans approuvées de nostre propre jugement et de l’amour propre, il n’y aura plus de moyen de nous empescher de les trouver justes et raisonnables.
+
+O certes, il faut bien prendre garde à cecy ; je m’estens un peu à en parler parce qu’il est d’importance. Nous n’avons jamais raison d’avoir de l’aversion, beaucoup moins de la. vouloir nourrir. Je dis donc : quand ce sont des simples aversions naturelles il n’en faut faire aucun estât, ains s’en divertir sans faire semblant de rien et tromper ainsi nostre esprit. Mais il les faut combattre et abattre quand on void que le naturel passe plus outre, et nous veut faire départir de la sousmission que nous devons à la raison, qui ne nous permet jamais de rien faire en faveur de nos aversions, non plus que de nos inclinations quand elles sont mauvaises, de crainte d’offencer Dieu. Or, quand nous ne faisons autre chose en faveur de nos aversions que de parler un peu moins agréablement que nous ne ferions à une personne pour laquelle nous aurions de grands sentimens d’affection, ce n’est pas grande chose ; ains il n’est presque pas en nostre pouvoir de faire autrement, quand nous sommes en l’émotion de ceste passion ; l’on auroit tort de requérir cela de nous. (“)
+
+(“) La seconde demande est : Comment on se doit comporter en la réception des livres que l’on nous donne à lire ? La Supérieure donnera à une des Sœurs un livre qui traitte fort bien des vertus ; mais parce qu’elle ne l’ayme pas, elle ne fera point de profit de sa lecture, ains elle le lira avec une négligence d’esprit ; et la raison est, qu’elle sçait desja sur le doigt ce qui est comprins dans ce livre, et quelle auroit plus de désir que l’on luy en fist lire un autre. Or je dis que c'est une imperfection de vouloir choisir ou desirer un autre livre que celuy que l’on nous donne, et. c’est une marque que nous lisons plustost pour satisfaire à la curiosité de l’esprit, que non pas pour profiter de nostre lecture. (°) Si nous lisions pour profiter, et non pas pour nous contenter, nous serions également satisfaits d’un livre comme d’un autre ; au moins accepterions-nous de bon cœur tous ceux que nostre Supérieure nous donneroit pour lire. Je dis bien plus, car je vous asseure que nous prendrions plaisir à ne lire jamais qu’un mesme livre, pourveu qu’il fust bon et qu’il parlast de Dieu ; ains, quand il n’y auroit que ce seul nom de Dieu nous serions contens, puisque nous trouverions tousjours assez de besogne à faire, apres l’avoir leu et releu plusieurs fois. De vouloir lire pour contenter la curiosité , est une marque que nous avons encore un peu l’esprit leger, et qu’il ne s’amuse pas assez à faire le bien qu’il a apprins en ces petits livres de la pratique des vertus ; car ils parlent fort bien de l’humilité et de la mortification, que l’on ne pratique pourtant pas lors que l’on ne les accepte pas de bon cœur.
+
+Or de dire : Parce que je ne l’ayme pas, je n’en feray point de profit, ce n’est pas une bonne conséquence, non plus que de dire : Je le sçay desja tout par cœur, je ne sçaurois prendre plaisir à le lire. Tout cela sont des enfances, Vous donne-t’on un livre que vous sçavez desja tout ou presque tout par cœur ? benissez-en Dieu, d'autant que vous comprendrez plus facilement sa doctrine. Si on vous en donne un que vous avez desja leu plusieurs fois, humiliez-vous, et vous asseurez tort d’aymer plus l’amour de Dieu que non pas tous les livres ensemble, car certes, l’amour de Dieu doit estre préféré à toute autre chose. Mais parlant selon l’intention de la Sœur qui propose ceste question, nous dirons que (Ms. et Coll.) [Reprendre au texte, lig. 2.]
+
+lecture. — L’esprit a une curiosité aussi bien que le corps et les yeux. (Ms. et Coll.)
+
+des enfances ; — il faut estre plus genereuses que cela. (Ms. et Coll.) que c’est Dieu qui le veut ainsi à fin que vous vous amusiez plus à faire qu’à apprendre, et que sa Bonté vous le donne pour la seconde et troisiesme fois parce que vous n’avez pas fait vostre profit de la première lecture. Mais le mal d’où procede tout cecy est que nous cherchons tousjours nostre propre satisfaction, et non pas nostre plus grande perfection. Si d’aventure l’on a esgard à nostre infirmité, et que la Supérieure nous mette au choix du livre que nous voudrons, alors nous le pouvons choisir avec simplicité ; mais hors de là, il faut demeurer tousjours humblement sousmise à tout ce que la Supérieure ordonne, soit qu’il soit à nostre gré ou non, sans jamais tesmoigner les sentimens que nous pourrions avoir qui seroyent contraires à ceste sousmission.
+
+La troisiesme demande est si nous nous devons estonner de voir des imperfections entre nous autres, ou mesmes aux Supérieures. Quant au premier poinct, c’est sans doute que vous ne vous devez nullement estonner de voir quelques imperfections céans, de mesme qu’aux autres maisons religieuses pour parfaites qu’elles soyent ; car vous ne le serez jamais tant que vous n’en fassiez tousjours quelques-unes par cy par là, selon que vous serez (h exercées. Ce n’est pas grande chose de voir une fille laquelle n’a rien qui la fasche ou qui l’exerce, estre bien douce et faire peu de fautes. Quand on me dit : Voila une telle à laquelle on ne void jamais commettre d'imperfection, je demande incontinent : A-t’elle quelque charge ? Si l’on me dit que non, je ne fais pas grand estât de sa perfection ; car il y a bien différence entre la vertu de celle-cy et celle d’une autre laquelle sera bien exercée, soit intérieurement par les tentations, soit extérieurement par les contradictions qu’on luy fait. Car la vertu de force et la force de la vertu ne s’acquiert jamais au temps de la paix, et tandis que nous ne sommes pas exercés par la tentation de son contraire. Ceux qui sont fort doux tandis qu’ils n’ont point de contradiction, et qui n’ont point acquis ceste vertu l’espée au poing, ils sont voirement fort exemplaires et de grande édification ; mais si vous venez à la preuve, vous les verrez incontinent remuer, et tesmoigner que leur douceur n’estoit pas une vertu forte et solide, ains imaginaire plustost que véritable.
+
+Il y a bien différence entre avoir la cessation d’un vice et avoir la vertu qui luy est contraire. Plusieurs semblent estre fort vertueux, qui n’ont pourtant point de vertu, parce qu’ils ne l'ont pas acquise en travaillant. Bien souvent il arrive que nos passions dorment et demeurent assoupies ; et si pendant ce temps-là nous ne faisons provision de forces pour les combattre et leur résister, quand elles viendront à se réveiller, nous serons vaincus au combat. Il faut tousjours demeurer humbles et ne pas croire que nous ayons les vertus, encore que nous ne fassions pas, au moins que nous cognoissions, des fautes qui leur sont contraires. Certes, il y a beaucoup de gens qui se trompent grandement en ce qu’ils croyent que les personnes qui font profession de la perfection ne devroyent point broncher en des imperfections, et particulièrement les Religieux, parce qu’il leur semble qu’il ne faille qu’entrer en la Religion pour estre parfaits, ce qui n’est pas ; car les Religions ne sont pas pour amasser des personnes parfaites, mais des personnes qui ayent le courage de prétendre à la perfection,
+
+Mais que faudroit-il faire si l’on voyoit de l’imperfection aux Supérieures aussi bien qu’aux autres ? ne faudroit-il pas s’en estonner ? car on ne met pas des Supérieures imparfaites, dites-vous. Helas ! mes cheres filles, si l’on ne vouloit mettre des Supérieurs et Supérieures sinon qu’ils fussent parfaits, il faudroit prier Dieu de nous envoyer des Saints ou des Anges pour l’estre, car des hommes nous n’en trouverons point. L’on recherche voirement qu’ils ne soyent pas de mauvais exemple ; mais de n’avoir point d’imperfection l’on n’y prend pas garde, pourveu qu’ils ayent les conditions de l’esprit qui sont necessaires ; d’autant qu’il s’en trouveroit bien de plus parfaits, qui pour cela ne seroyent pas tant capables d’estre Supérieurs. Hé ! dites-moy, Nostre Seigneur ne nous a-t’il pas monstre luy-mesme qu’il n’y falloit pas
+
+prendre garde, en l'élection qu’il lit de saint Pierre pour
+
+le rendre Supérieur de tous les Apostres ? car chacun
+
+sçait quelle faute fit cest Apostre en la Mort et Passion
+
+de son Maistre, s’amusant à parler avec une chambrière,
+
+et reniant si malheureusement son tres-cher Seigneur
+
+qui luy avoit fait tant de bien ; il fit le bravache, et puis
+
+en fin il print la fuite. Mais outre cela, dés qu’il fut con­
+
+firmé en grâce par la réception du Saint Esprit, encore
+
+fit-il une faute qui fut jugée de telle importance, que saint Paul escrivant aux Galates *, leur dit qu’il luy avoit
+
+résisté en face parce qu’il estoit reprehensible. W Et
+
+non seulement saint Pierre, mais encore saint Paul et
+
+saint Barnabé, lesquels voulant aller prescher l’Evangile,
+
+eurent une petite dispute ensemble, parce que saint
+
+Barnabé vouloit mener avec eux Jean Marc qui estoit son
+
+cousin : saint Paul estoit d’opinion contraire et ne vouloit
+
+pas qu'il allast avec eux, et saint Barnabé ne vouloit pas
+
+ceder à la volonté de saint Paul ; et ainsi ils se séparè­
+
+rent et allèrent prescher, saint Paul en une contrée, et * Act., xv, 37-41. saint Barnabé en l’autre avec son cousin Jean Marc*.
+
+Bien est-il vray que Nostre Seigneur tira du bien de
+
+leur dispute ; car au lieu qu'ils n’eussent presché qu’en
+
+un endroit de la terre, ils jetterent la semence de l’Evan­
+
+gile en divers lieux.
+
+Ne pensons pas, tandis que nous serons en ceste vie,
+
+de pouvoir vivre sans commettre des imperfectoins <a’) ;
+
+car il ne se peut, soit que nous soyons Supérieurs, soit
+
+que nous soyons inferieurs, puisque nous sommes tous
+
+hommes, et par conséquent avons tous besoin de croire
+
+ceste vérité comme tres-asseurée, à fin que nous ne nous
+
+estonnions pas de nous voir tous sujets à des imperfec­
+
+tions. Nostre Seigneur nous a ordonné de dire tous les
+
+jours ces paroles qui sont au Pater : Pardonnez-nous
+
+reprehensible. — Et puis nous autres, nous nous estonnerons que nos Supérieurs fassent des fautes, apres avoir veu saint Pierre estre reprehensible, voire mesme apres avoir receu le Saint Esprit ! (Ms. et Coll.)
+
+(a’) des imperfections, — voire des péchés veniels (Ms. et Coll.) nos oÿences, comme nous pardonnons à ceux qui nous ont offencés* ; et n’y a point d’exception en ceste * Matt., vi, 12. ordonnance, parce que nous avons tous besoin de le faire. Ce n’est pas une bonne conséquence de dire : Un tel est Supérieur, donc il n’est point colere et n’a point d’autre imperfection. Vous vous estonnez dequoy venant parler à la Supérieure, elle vous dit quelque parole moins douce que l’ordinaire, parce qu’elle a peut estre la teste toute pleine de soucis et affaires (b’) ; vostre amour propre s’en va tout troublé, au lieu de penser que Dieu a permis ceste petite secheresse à la Supérieure pour mortifier vostre amour propre, qui recherchoit que la Supérieure vous caressast un peu, recevant amiablement ce que vous luy vouliez dire. Mais en fin il nous fasche bien de rencontrer la mortification où nous ne la cherchons pas. Helas ! il s’en faut aller, priant Dieu pour la Supérieure, le bénissant de ceste bien-aymée contradiction. En un mot, mes cheres filles, ressouvenons-nous des paroles du grand Apostre saint Paul* : La charité * 1 Cor., xm, 5.
+
+ne pense point de mal ; <c’) voulant dire que dés qu’elle le void elle s’en destourne, sans y penser ni s’amuser à le considerer.
+
+Vous me demandez de plus, touchant ce poinct, si la Supérieure ou la Directrice ne doit point tesmoigner de répugnance que les Sœurs voyent ses defauts, et que c’est qu’elle doit dire quand une fille se vient accuser
+
+tout simplement à elle de quelque jugement ou pensée
+
+qu’elle a fait, qui la marque d’imperfection ; comme
+
+seroit si quelqu’une avoit pensé que la Supérieure auroit
+
+fait une correction avec passion. Or, je dis que ce qu’elle
+
+(b’) toute pleine de — marteaux, de pierres, de chaux, pour le soucy qu’elle prend de faire avancer les bastimens (Ms. et Coll.)
+
+(C) La charité — ne cherche point le mal. Il ne dit pas qu’elle ne void point le mal, mais qu’elle ne le cherche pas ; c’est à dire que, pour peu qu il y ayt de doute que ce qu’elle void ne soit pas le mal mesme, elle ne pénétré point plus avant, ains croid tout simplement qu’il n’y avoit point de mal. (Ms. et Coll.) Mais quand elle le void (car il ne se peut que nous ne le voyions en beaucoup d’occasions), l’Apostre dit que la charité ne pense point de mal ; (Coll.)
+
+doit faire en ceste occasion c’est de s’humilier et recourir à l’amour de son abjection. Mais si la Sœur estoit un peu troublée en le disant, la Supérieure ne devroit pas faire semblant de rien, mais destourner ce propos, et neantmoins cacher l’abjection dans son cœur ; car il faut bien prendre garde que nostre amour propre ne nous fasse perdre l’occasion de voir que nous sommes imparfaits, et de nous humilier. Et, bien que l’on retranche l’acte extérieur d’humilité, de crainte de fascher la pauvre Sœur qui l’est desja assez (d’>, il ne faut pas laisser de faire l’interieur. Que si au contraire la Sœur n’estoit point troublée en s’accusant, je trouverois bien bon que la Supérieure advoüast librement qu’elle a failli, s’il est vray ; car si le jugement est faux, il est bon qu’elle le die avec humilité, reservant tousjours neantmoins précieusement l’abjection qui luy revient de ce qu’on la juge defaillante.
+
+Voyez-vous, ceste petite vertu de l’amour de nostre abjection ne doit jamais s’esloigner de nostre cœur d’un pas, parce que nous en avons besoin à toute heure, pour avancés que nous soyons en la perfection, d’autant que nos passions renaissent, voire quelquesfois apres que nous avons vescu longuement en la Religion et apres avoir fait un grand progrès en la perfection, ainsi qu’il advint à un Religieux de saint Pachome, nommé Sylvain, lequel estant au monde estoit <e’) comédien de profession ; et, s’estant converti et fait Religieux, il passa l’année de sa probation, voire plusieurs autres apres, avec une mortification fort exemplaire, sans que l’on luy vist jamais faire aucun acte de son premier mestier. Vingt ans apres, il pensa qu’il pouvoit bien faire quelque badinerie sous pretexte de recréer les Freres, croyant que ses passions fussent desja tellement mortifiées qu’elles n’eussent plus le pouvoir de le faire passer au delà d’une simple récréation. Mais le pauvre homme fut (d’) assez — d’avoir eu ceste pensée (Ms.)
+
+estoit — basteleur et (Ms. et Coll.)
+
+bien trompé, car la passion de la joye ressuscita tellement, qu’apres les badineries il parvint aux dissolutions, de sorte qu’on se résolut de le chasser du monastère ; ce que l’on eust fait sans un de ses Freres Religieux, lequel se rendit pleige pour Sylvain, promettant qu’il s’amenderoit : ce qui arriva, et fut depuis un grand Saint*. Voila donc, mes cheres Sœurs, comment il ne *vitæPatrum,vita se faut jamais oublier de ce que nous avons este, a fin c> xxxvin. que nous ne devenions pires, et ne pas penser que nous soyons parfaits quand nous ne commettons pas beaucoup d’imperfections.
+
+Il faut aussi prendre garde de ne nous pas estonner si nous avons des passions, car nous n’en serons jamais exempts (£’> ; ces hermites qui voulurent dire le contraire furent censurés par le sacré Concile*, et leur opinion *Conc.Ephes., Pars condamnée et tenue pour erreur. Nous ferons donc tous- ’ c ' vn‘ jours quelques fautes ; mais il faut faire en sorte qu’elles soyent rares et qu’il ne s’en voye que deux en cinquante ans, ainsi qu’il ne s’en vid que deux en autant de temps que vesquirent les Apostres apres qu’ils eurent receu le Saint Esprit. Encore qu’il s’en verrait trois ou quatre, voire sept ou huict, en une si grande suite d’années, il ne s’en faudrait pas fascher ni perdre courage, ains prendre haleine et se fortifier pour mieux faire.
+
+Disons encor ce mot pour la Supérieure. Les Sœurs ne doivent pas s’estonner dequoy la Supérieure commet (e’) des imperfections, puisque saint Pierre, tout Pasteur qu’il estoit de la sainte Eglise et Supérieur universel de tous les Chrestiens, tomba bien en defaut, et tel qu’il en merita correction, ainsi que dit saint Paul*. De *Ubi supra, p. 296. mesme, la Supérieure ne doit pas tesmoigner de l’eston-nement si l’on void ses fautes, mais elle doit <h’) observer l’humilité et la douceur avec laquelle saint Pierre receut la correction que luy fit saint Paul, nonobstant qu’il fust son Supérieur. L’on ne sçait ce qui est plus considérable, ou la force du courage de saint Paul à reprendre saint Pierre, ou l’humilité avec laquelle saint Pierre se sousmit à la correction qui luy estoit faite, voire pour une chose en laquelle il pensoit bien faire et avoit une fort bonne intention. Passons outre.
+
+Vous demandez en quatriesme lieu, s’il arrivoit un jour qu’une Supérieure eust tant d’inclination de complaire aux personnes seculieres, sous pretexte de leur profiter, qu’elle en laissast le soin particulier qu’elle doit avoir des filles qui sont en sa charge, ou bien qu’elle n'eust pas assez de temps pour faire ce qui est des affaires de la maison, à cause qu’elle demeureroit trop longuement au parloir, si elle ne seroit pas obligée de retrancher ceste inclination, encore que son intention fust bonne. Je vous diray à cela que les Supérieurs doivent estre grandement affables aux (*’) séculiers à fin de leur profiter, et doivent de bon cœur leur donner une partie de leur temps. Mais quelle pensez-vous devoir estre ceste petite partie ? ce doit estre la douziesme, les unze restans pour estre employées dans la maison au soin de la famille. Les abeilles sortent bien voirement de leur ruche, mais ce n’est que par nécessité ou utilité, et demeurent peu sans y retourner ; et principalement le roy des abeilles ne sort que rarement, comme quand il se fait un essaim d’abeilles, qu’il est tout environné de son petit peuple. La Religion ü’) est une ruche mystique toute pleine d’abeilles celestes, lesquelles sont assemblées pour mesnager le miel des celestes vertus ; et pour cela il faut que la Supérieure, qui est entre elles
+
+(i’) de retrancher ceste — affection qu’elle auroit de complaire aux séculiers, encore que son intention fust bonne. Je vous diray à cela que les Supérieures sont des certaines personnes lesquelles sont pour le profit non seulement de ceux de dedans, mais encore de ceux de dehors ; il faut qu’elles soyent grandement affables avec les (Ms. et Coll.)
+
+(j’) La Religion, —■ c’est à dire la Congrégation, (Ms. et Coll.)
+
+comme leur roy, soit soigneuse de les tenir de près pour leur apprendre la façon de les acquérir et conserver. Si ne faut-il pas neantmoins qu’elle manque pour cela à converser avec les personnes seculieres quand la nécessité ou la charité le requiert ; mais hors de là, <k’) il faut que la Supérieure soit courte avec les séculiers. Je dis hors la nécessité et charité, d’autant qu’il y a certaines personnes de grand respect, lesquelles il ne faudroit pas mescontenter. Mais les Religieux et Religieuses ne se doivent jamais amuser avec les séculiers, sous prétexte d’acquérir des amis pour leur Congrégation. O certes, il n’est pas besoin de cela, car s’ils se tiennent dedans pour bien faire ce qui est de leur charge, ils ne doivent point douter que Nostre Seigneur ne pourvoye assez leur Congrégation des amis qui leur sont necessaires h’).
+
+Mais s’il fasche à la Supérieure de rompre compagnie quand on sonne les Offices pour y aller, de crainte de mescontenter ceux avec qui elle parle ? Il ne faut pas estre si tendre ; car si ce ne sont des personnes de grand respect, ou bien qui ne viennent que fort rarement ou qui sont de loin, il ne faut pas quitter les Offices ni l’oraison, si la charité ne le requiert absolument. Quant aux visites ordinaires des personnes desquelles on se peut librement dispenser, la Portière doit dire que nostre Mere ou les Sœurs sont en l’oraison ou à l’Office ; s’il leur plaist d’attendre ou de
+
+(k’) le requiert. — Par exemple, avec quelque dame bien mondaine laquelle désirera peut estre de se convertir, quittant la vanité pour suivre la vérité et dévotion ; et pour ce, elle aura beaucoup besoin de l’assistance de la Supérieure pour luy donner plusieurs advis et conseils qui luy sont necessaires. Mais hors de la nécessité ou charité, (Ms. et Coll.)
+
+(1’) il ne faudroit pas mescontenter. — Et quant à ce point que vous alléguez, que la Supérieure demeure longuement au parloir à cause du soin qu elle a d’acquérir des amis pour la Congrégation, ô certes, il n’est pas tant besoin de cela, comme on penseroit bien ; car si elle se tient dedans pour bien faire ce qui est de sa charge, elle ne doit point douter que Nostre Seigneur ne pourvoye assez la maison des amis qui luy seront necessaires. (Ms. et Coll.)
+
+revenir. Mais s’il arrive que pour quelques grandes nécessités l’on aille au parloir pendant ce temps là, qu’au moins l’on reprenne du temps apres pour refaire l’oraison, tant qu’il se pourra ; car de l’Office, nul ne doute que l’on ne soit obligé de le dire. (“’)
+
+Or, pour le regard de la derniere question, qui est si l’on ne doit pas tousjours faire quelque petite particularité à la Supérieure de plus qu’au reste des Sœurs, tant au vestir qu'au manger, elle sera tantost résolue ; car en un mot, je vous dis que non, en façon quelconque, si ce n’est de nécessité, ainsi comme l’on fait à chacune des Sœurs. Mesmes il ne faut pas qu’elle ayt une chaire particulière <n’) si ce n’est au chœur et au chapitre ; et en ceste chaire jamais l’Assistante ne s’y doit mettre, bien qu’en toute autre chose on luy doive porter le mesme respect qu’à la Supérieure (s’entend en son absence) ; au réfectoire mesme il ne luy en faut point, ains seulement un siégé comme aux autres. Bien que par tout on la doive regarder comme une personne particulière et à laquelle on doit porter un très-grand respect, si ne faut-il pas qu’elle soit singulière en aucune chose, que le moins qu’il se pourra. L’on excepte tousjours la nécessité, comme si elle estoit bien vieille ou infirme ; car alors il sera permis de luy donner une chaire pour son soulagement. Il nous faut eviter soigneusement toutes ces choses qui nous font paroistre quelque chose au dessus des autres, je veux dire suréminent
+
+(m’) revenir. —- Et si je ne me trompe, la Supérieure qui sçaura que si elle perd le temps de dire l’Office ou de faire l’oraison avec les autres, qu’il faudra qu’elle reprenne le temps de dire l’Office et de faire l’oraison au temps que sa commodité le luy pourra permettre, elle se rendra assez soigneuse de ne pas perdre le temps que la Communauté y employé, pour des choses non necessaires. Et cecy il le faut observer, non seulement la Supérieure, mais toutes les Sœurs, de ne point manquer d’assister aux Offices et à l’oraison tant qu’il se peut. Mais s’il arrive que pour quelque grande nécessité on le fasse, qu’au moins l’on reprenne du temps apres pour faire l’oraison, tant qu’il se pourra bonnement ; car de dire l’Office, nul ne doute que l’on n’y soit obligé. (Ms. et Coll.) .
+
+(n’) des Sœurs. — Dites-vous s’il ne faut pas qu’elle ayt une chaire par tout ? Non certes, il ne le faut pas, (Ms.)
+
+et remarquable. La Supérieure doit estre recognuë et remarquée par ses vertus, et non pas par ces singularités non necessaires, spécialement entre nous autres de la Visitation, qui voulons faire une profession particulière d’une grande simplicité et humilité. Ces honneurs sont bons pour ces maisons religieuses où l’on appelle Madame, la Supérieure ; mais pour nous autres, il ne faut rien de tout cela.
+
+Qu’y a-t’il plus à dire ? Comment il faut faire pour bien conserver l’esprit de la Visitation et empescher qu’il ne se dissipe ? L’unique moyen est de le tenir enfenné et enclos dans l’observance des Réglés. Mais vous dites qu’il y en a qui sont tellement jalouses de cest esprit, qu’elles ne le voudroyent point communiquer hors de la maison. Il y a de la superfluité en ceste jalousie, laquelle il faut retrancher ; car à quel propos, je vous prie, vouloir celer au prochain ce qui luy peut profiter ? Je ne suis pas de ceste opinion, car je voudrais que tout le bien qui est en la Visitation fust recognu et sceu d’un chacun. Et pour cela, j’ay tousjours esté de cest advis, qu’il serait bon de faire imprimer les Réglés et Constitutions, à fin que plusieurs les voyant en puissent tirer quelque utilité. Pleust à Dieu, mes chères Sœurs, qu’il se trouvast beaucoup de gens qui les voulussent pratiquer (°’) ! l’on verroit bien tost des grands changemens en eux, qui reussiroyent à la gloire de Dieu et au salut de leurs âmes. Soyez grandement soigneuses de conserver l'esprit de la Visitation, mais non pas en sorte que ce soin empesche de le communiquer charitablement et avec simplicité au prochain, à chacun selon leur capacité ; et ne craignez pas qu’il se dissipe par ceste communication, car la charité ne gaste jamais rien, ains elle perfectionne toute chose. Dieu soit béni. (0’) pratiquer, — voire mesme des hommes ! (Ms. et Coll.)
+
+Ce qui a esté obmis de l'Entretien des Aversions W
+
+(p’) L’on demande si l’on se peut plaindre au Supé­
+
+rieur ou confesseur quand l’on a des insatisfactions de
+
+la Supérieure. O Dieu, ma fille, se plaindre ! n’ay-je
+
+pas dit à Philothée, que « pour l’ordinaire, qui se plaint
+
+*Partieiii,chap.ni. peche * » ? Or, de se plaindre à la Supérieure quand
+
+une Sœur nous a mortifiée, cela est tolerable à une fille
+
+imparfaite ; mais se plaindre à une Sœur de ce que la
+
+Supérieure nous a mortifiée, je n’ay rien à dire là-
+
+dessus, parce que sans marchander il s’en faut amender,
+
+si quelqu’une y estoit inclinée. Mais sur tout, de se
+
+plaindre au dehors de la Supérieure, ô vrayement il ne
+
+faut nullement le faire, cela est trop important. Si la
+
+Supérieure donne quelque sujet de plainte, je le luy
+
+voudrois dire tout confidemment, ou bien luy faire faire
+
+l’advertissement par sa Coadjutrice, comme la Constitu-
+
+* Constit. xxxv. tion l'ordonne*.
+
+ [Pour cette variante, voir la remarque, p. 291.]
+
+Passons à la seconde question, qui est s’il est loisible à une Sœur de se
+
+plaindre un peu quelquefois à une autre, dequoy la Supérieure, ou la
+
+Maistresse des Novices, ou bien une Sœur, l’auroit faschée ou ne l’auroit pas
+
+bien satisfaite en quelque occasion ; et s’il ne vaudrait pas bien mieux faire
+
+ces plaintes au confesseur ou Pere spirituel, si c’est la Supérieure, ou à la
+
+Supérieure si c’est la Maistresse ou une Sœur qui nous a faschée, que non pas
+
+de nous addresser à quelque Sœur particulière ? 0 mon Dieu, se plaindre est une
+
+chose bien dangereuse ; car, comme nous avons dit en l’Introduction, « pour
+
+l’ordinaire, qui se plaint peche. » La première façon, de se plaindre à une Sœur
+
+et parler de l’imperfection de celle qui ne nous a pas satisfaite, est tout à fait
+
+mauvaise ; la seconde, de le dire aux Supérieurs, est tolerable aux imparfaits-
+
+Mais pour nous autres, ô je voudrois bien que nous ne fussions pas si tendres
+
+que de nous vouloir plaindre pour la moindre insatisfaction que nous recevons
+
+du prochain, lequel n’a peut estre nulle intention de nous fascher. Il ne faut
+
+pas dire grande chose sur ce sujet ; il suffit que nous sçachions que, sans
+
+marchander, il s’en faut amender, estant une chose d’assez grande importance.
+
+(Ms. et Coll.)
+
+ Voir les notes, pp. 68 et 286.
+
+L’on demande s il est loisible de nommer a la
+
+(q’)
+
+Supérieure la Sœur qui nous a rapporté quelque chose qu’elle auroit dit à nostre desavantage. Je vous dis que non mes cheres filles, et que la Supérieure ne vous le doit pas demander. D aller dire à une Sœur que la Supérieure a dit cecy et cela d’elle, c’est une faute plus griefve que 1 on ne pense, et la Supérieure la doit fortement reprendre, faisant voir à sa Communauté la grandeur de ce manquement et la beauté de la vertu contraire ; mais tousjours, cpie la defaillante ne soit point nommée. Car voyez-v<ms, mes tres-cheres filles,
+
+(<]’) [Pour la leçon suivante, voir la remarque, p. 293.]
+
+L’on demande maintenant s’il est loisible de nommer les Sœurs qui nous auroyent rapporté quelque chose que la Supérieure ou une Sœur auroit dit à nostre desavantage ; car, comme on dit tout à la Supérieure, il se peut faire qu’elle demandera le nom de la Sœur qui nous a fait ce rapport : vous estes en doute s’il faut que vous luy disiez qui elle est. A cela, je vous dis que non, et qu’elle ne vous le doit pas demander, parce que ce rapport est un péché lequel peut estre d’importance selon le sujet, et il nous est défendu de reveler le péché secret du prochain ; en ce qui n’est qu’imperfection on le peut, mais en cas de péché il ne le faut pas. J’excepte neantmoins celles qui ont charge d’advertir et de surveiller les autres, car elles peuvent bien advertir des choses qui en soy sont péché ; mais non pas celles qui n’en ont pas la charge. Mais vous me dites que cela fait grand bien à la Supérieure, pour corriger les Sœurs plus doucement, que l’on luy nomme les Sœurs qui ont failli. Il vaut mieux que l’on ne les nomme pas en choses où il y a du péché, et qu’elle fasse ses corrections generales ; car bien que toutes ne soyent pas coulpables, il n’est pas mauvais de les advertir toutes, et celles qui seront coulpables prendront leur meilleure part de la correction.
+
+Cecy est de plus grande importance que l’on ne pense. Aller dire à une Sœur que la Supérieure a dit cecy ou cela d’elle en son absence, c’est un péché qui s’appelle une sussurration. Il faut que je vous apprenne à parler latin : sussurratio en latin veut dire un gazouillement, un petit bruit ou murmure que font ces petits ruysseaux dans lesquels il y a des pierres qui, faisant flotter et ondoyer les eaux, les empeschent de couler sans bruit, ainsi que font les grands fleuves, qui coulent si doucement que l’on ne void presque pas leur mouvement continuel. Les personnes du monde, elles font du bruit non pas comme des petits ruysseaux, ains comme des torrens fort rapides et qui entraisnent apres eux tout ce qu’ils rencontrent. Les mondains, ils mesdisent tout librement, ils crient les péchés et les defauts de leur prochain, ils sement des dissensions, ils ont des malveillances et des haynes mortelles, ils ne prennent nulle garde aux aversions, car ce sont des haynes pour eux, et ne cessent de contrister ou faire du mal à ceux auxquels ils en ont. Mais les personnes plus spirituelles, leurs aversions ne produisent pas des choses d importance, elles leur sont plustost des peines que des péchés ; et partant elles meritent plus qu’elles n’offensent.
+
+20
+
+nous pouvons bien dire nos péchés veniels haut et clair à tout le monde pour nous humilier, mais non nos péchés mortels, parce que nous ne sommes pas maistres de nostre réputation. A plus forte raison sommes-nous obligés de couvrir ceux du prochain, luy en faisant toutesfois la correction fraternelle, ainsi que la Constitution * Constit. xxv. vous enseigne *. Une Sœur aura dit devant d’autres quelque parole qui part de passion, ou fait quelque petit murmure, quelque mine froide : ô cela vous le pouvez dire à la Supérieure, voire mesme l’advertir en chapitre ou au réfectoire.
+
+Certes, nous devrions avoir une si cordiale jalousie de la paix et tranquillité de nos cheres Sœurs, que nous ne devrions jamais rien faire ni dire qui les puisse fascher ; or, rien ne peut tant affliger une pauvre fille que de croire que la Supérieure est faschée d’elle
+
+A quel propos, mes cheres filles, irez-vous contrister une pauvre Sœur par ceste sussurration que vous faites en luy rapportant que la Supérieure ou une autre a dit quelque chose d’elle qui la pourra fascher ? Mon Dieu I nous devons avoir plus de zele de la paix et tranquillité du cœur de nos Sœurs que cela, et plus de soin de couvrir les defauts du prochain. Vous faites deux maux ; car outre celuy de parler de l’imperfection qui a esté commise, vous ostez la tranquillité à vostre Sœur et de plus vous parlez en particulier. Puisque, par la grâce de Dieu, nous nous abstenons bien de ces grands péchés que j’ay dit qui se commettent au monde, il faut aussi que nous ayons un grand soin de nous abstenir de ceux-cy, puisqu’il est à nostre pouvoir de ne les pas faire.
+
+Vostre Sœur fait-elle un péché qui n’est pas cogneu ? faites ce que vous pourrez pour l’en faire amender, luy faisant la correction fraternelle ainsi qu’il est marqué dans les Réglés. Mais hors de là, ayez un grand soin de ne le point descouvrir, sinon ainsi que vous trouverez dans l’article De la Correction, que vous devez faire ; car autrement il y a du péché en le faisant. Nous pouvons bien dire nos péchés veniels haut et clair devant tout le monde, principalement quand c’est pour nous humilier ; mais nos péchés mortels nous ne le pouvons pas, parce que nous ne sommes pas maistres de nostre réputation : à plus forte raison sommes-nous obligés de ne pas descouvrir ceux du prochain, quand ils sont secrets.
+
+Une chose qui est veuë par plusieurs, il n’y a pas mal de la dire aux Supérieurs. Par exemple, une Sœur vous aura dit des paroles qui tesmoignent qu’elle est bien passionnée et qu’elle a un mouvement d’impatience ; si elle fait cela devant quelque autre Sœur, ce n’est pas un secret ni un péché caché, vous le pouvez bien dire à la Supérieure à fin qu’elle essaye de l’en faire corriger, comme aussi de toutes les autres fautes qui ne sont pas d’importance : des légers murmures, des paroles ou mines froides que l’on se ou contre elle. Feray-je donques pas un grand péché de luy aller faire un rapport de quelque petit mot que la Supérieure aura dit par mesgarde, lequel estant redit paroistra grand, et tiendra ce pauvre cœur en peine et en douleur ? Celle qui feroit cela feroit deux maux : elle contreviendroit doublement à la charité et parleroit en particulier. Au nom de Dieu, mes cheres filles, que jamais cela ne se fasse. Je ne voudrois pas mesme, generalement parlant, que l’on nommast à la Supérieure les Sœurs qui parleroyent contre elle ; bien luy dirois-je que l’on desapprouve telle et telle chose qu’elle fait, mais je ne luy dirois point qui fait ce desapprouvement ; car, mes cheres filles, si nous n’avons la ferveur et pureté de la charité, nous n’aurons jamais la perfection.
+
+(r’) Vous dites, si une Sœur n’avoit pas la confiance de parler à la Supérieure, ou à l’Assistante en son absence, pour declarer le secret de son cœur, où neantmoins elle auroit besoin d’estre éclaircie, qu’est-ce qu’elle doit faire ? Mes tres-cheres filles, il faut que la Supérieure, ou l’Assistante en son absence, luy donne tres-facilement et cordialement permission de parler à qui elle voudra d’entre les Sœurs, sans en tesmoigner ni aversion ni secheresse de cœur, bien qu’il soit vray que si la Sœur continue, elle seroit imparfaite ; car elle est obligée à regarder Dieu en ses Supérieures et en ce qu’elles luy disent, et des particulières ne la pourront servir si utilement <s’).
+
+fait aucunes fois les unes aux autres, des manquemens en l’observance des Constitutions et en semblables petites choses ; mais és grandes, il faut faire ce qui est en l’article De la Correction. (Ms. et Coll.)
+
+(r’) Nous devons plus de respect et d’honneur à nos Supérieurs qu’à nos bons Anges, parce que nos bons Anges ne sont qu’ambassadeurs de Dieu, et nos Supérieurs tiennent la place de Dieu mesme ; si que Nostre Seigneur a dit : Qui vous escoute, m'escoute, parlant des Supérieurs, et qui vous mesprise me mesprise. (Ms.)
+
+(s’) sans — tesmoigner aucune aversion de cela, ains estant bien consolée dequoy il plairoit à Dieu de la descharger d’autant. Mais il est pourtant vray que la Sœur commettroit une tres-grande imperfection, puisqu’elle ne doit regarder en la Supérieure que Dieu seulement, ce qu’elle n’est pas tant obligée de faire en. la personne . des. Sœurs. (Ms.). . .
+
+(t') Vous voulez encore sçavoir, si la Supérieure vous commande quelque chose contre les commandemens de Dieu et de son Eglise, si vous devez obéir. Nullement, mes chères filles ; mais je vous diray pourtant que les Supérieurs et Supérieures approuvés du Pape peuvent pour la nécessité, dispenser de certains commandemens de l’Eglise. Par exemple, un jour de jeusne particulier, comme une vigile, vous voyez une Sœur toute traisnante et langoureuse ; vous pouvez et devez tout librement luy dire : Ne jeusnez pas. Si c’estoit pour tout un Caresme ou pour manger des viandes prohibées, il faudroit licence du Supérieur. Mais il vous vient en pensée : Ceste fille n’a pas assez de mal pour ne pas jeusner. Il ne faut pas tant esplucher pour le regard du jeusne ; l’Eglise veut que l'on penche tousjours plustost à la charité qu’à l’austérité. Ouy, mes chères filles, si apres avoir représenté une fois qu’il vous semble n’avoir pas assez de mal pour ne pas jeusner, la Supérieure vous dit neantmoins que si, vous, obéissez sans scrupule ; que si elle dit que vous fassiez selon que vous
+
+(t’) Dites-vous, ma Mere, si les Supérieurs ont le pouvoir de commander à leurs inferieurs des choses qui soyent contre les commandemens de Dieu ou de son Eglise ? Non certes, bien que ce soit sous le prétexté de les esprouver ; car leur authorité est subordonnée aux commandemens de Dieu et de l’Eglise, comme ceux de l’Eglise sont subordonnés, je veux dire sujets, à ceux de Dieu. Et si bien je sçay que plusieurs l’ont fait, je croy qu’ils ne l’ont fait que par une grande simplicité, tant en ceux qui commandoyent qu’en ceux qui obeissoyent ; la simplicité leur sert d’excuse. Plusieurs par simplicité ont fait de ces obéissances, qui, s’ils eussent eu plus d’entendement, ne l’eussent pas fait ou deu faire. Mais je diray pourtant que les Supérieurs et Supérieures qui sont approuvés du Pape ont l’authorité de dispenser leurs inferieurs de certains commandemens de l’Eglise, quand ils voyent quelque sorte de nécessité. Par exemple, la Supérieure void une Sœur toute langoureuse, qui se trouve un peu mal un jour de jeusne ; elle peut et luy doit commander librement de ne pas jeusner. Je dis pour des jours particuliers, car pour ne point jeusner de tout le Caresme il faut avoir la dispense du confesseur. Mais il vous vient du doute si ceste fille a assez de mal pour ne pas jeusner. O certes, il ne faut pas grande considération pour le regard du jeusne, ains il vaut tousjours mieux pencher du costé de la charité que de l’austérité, car c’est l’intention de la sainte Eglise. Mais si la fille juge qu’elle pourra bien jeusner, elle le peut dire en simplicité à la Supérieure. Que si nonobstant, la Supérieure persevere à dire qu’elle ne jeusne pas, lors il le faut faire sans scrupule ; mais si elle jugerez et que vous vous sentirez, faites-le avec une sainte liberté.
+
+Il faut que je vous die encore, mes cheres filles, que la sainte Eglise n’est point si rigoureuse que l’on pourroit penser. Si vous avez une Sœur malade de la fievre tierce seulement, et qu’un jour de feste son accès la deust prendre pendant la Messe, vous pouvez et devez perdre la Messe pour demeurer auprès d’elle, bien qu’en la laissant seule il ne luy en deust point arriver de mal ; car voyez-vous, la charité et la sainte douceur de nostre bonne Mere l’Eglise sont par tout surnageantes. vous remet à vostre volonté, faites alors ce que vous voudrez. Si un jour de jeusne vous vous trouvez un peu mal et vous faites une mine mélancolique, bien que vous ne vouliez pas, ni ayez pas besoin de rien prendre, à cela je vous dis, ma chere fille, au lieu de deux doigts de pain et de vin, prenez deux doigts de courage et de vigueur, à fin de ne pas, par vostre mine malade, rendre les autres malades pour l’apprehension qu’elles prendront de vostre mal.
+
+Je vous diray bien plus, pour vous monstrer combien la sainte Eglise n’est pas si austere en ses commandemens. Vous avez une Sœur malade un jour de feste, elle n’a neantmoins que la fievre tierce, mais son accès luy prend pendant le temps de la Messe ; elle se passera bien, ce semble, que personne demeure auprès d’elle pour demi-heure que durera la sainte Messe : je vous dis que vous pouvez perdre la Messe pour demeurer auprès d’elle, bien qu’il n’en deust point arriver de mal à la malade de la laisser. En fin, il faut tousjours exceder du costé de la charité en tout cecy, et pour les jeusnes particulièrement, quand l’on prend d’ailleurs quelque travail pour la charité. (Ms. et Coll.)
