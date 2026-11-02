@@ -1,0 +1,488 @@
+{
+  "id": "bonaventure-breviloquium",
+  "cover": "classic",
+  "name": {
+    "la": "Breviloquium",
+    "en-US": "Breviloquium",
+    "pt-BR": "Breviloquium"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Compendium theologiae a Bonaventura circa annum 1257 conscriptum: prologus de sacra Scriptura et septem partes de Trinitate, creatura mundi, corruptela peccati, incarnatione Verbi, gratia Spiritus sancti, medicina sacramentali et statu finalis iudicii. Textus ex editione Quaracchi (Tria opuscula, ed. 3, 1911), ex scanno OCR, sine notis criticis.",
+    "en-US": "A compendium of theology written about 1257: a prologue on Scripture and seven parts on the Trinity, the creation of the world, the corruption of sin, the incarnation of the Word, the grace of the Holy Spirit, the sacramental remedy and the state of the final judgment. The Latin is the Quaracchi text (Tria opuscula, 3rd ed., 1911), from an OCR scan, without the editors’ critical notes.",
+    "pt-BR": "Compêndio de teologia escrito por volta de 1257: um prólogo sobre a Escritura e sete partes sobre a Trindade, a criação do mundo, a corrupção do pecado, a encarnação do Verbo, a graça do Espírito Santo, o remédio sacramental e o estado do juízo final."
+  },
+  "composed": "1257",
+  "languages": [
+    "la"
+  ],
+  "work": "bonaventure/breviloquium",
+  "editions": {
+    "la": {
+      "editor": "PP. Collegii S. Bonaventurae (Quaracchi)",
+      "year": 1911
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/triaopusculaseraphici3ed",
+      "edition": "Tria opuscula Seraphici Doctoris S. Bonaventurae: Breviloquium, Itinerarium mentis in Deum, De reductione artium ad theologiam, ed. 3 (Ad Claras Aquas, Quaracchi: Collegium S. Bonaventurae, 1911).",
+      "description": "Archive.org OCR of the octavo edition. Page heads, the editors’ footnotes (variant readings and cross-references) and note markers are removed; line-end hyphens are joined; recognisable OCR slips are corrected by comparison with the other Quaracchi scans. Where the scan lost a chapter heading the chapters run together under one title (Pars IV 4-5, Pars V 2, 4-6 and 8, 10).",
+      "tier": "A",
+      "tierEvidence": "Bonaventure died in 1274; the Quaracchi edition of 1911 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologus",
+      "title": {
+        "la": "Prologus"
+      }
+    },
+    {
+      "id": "pars1",
+      "title": {
+        "la": "Pars I. De Trinitate Dei"
+      },
+      "children": [
+        {
+          "id": "p1c01",
+          "title": {
+            "la": "Caput I. De illis septem, de quibus est theologia, in summa"
+          }
+        },
+        {
+          "id": "p1c02",
+          "title": {
+            "la": "Caput II. Quid tenendum est de trinitate personarum et unitate essentiae"
+          }
+        },
+        {
+          "id": "p1c03",
+          "title": {
+            "la": "Caput III. De istius fidei intelligentia sana"
+          }
+        },
+        {
+          "id": "p1c04",
+          "title": {
+            "la": "Caput IV. De istius fidei expressione catholica"
+          }
+        },
+        {
+          "id": "p1c05",
+          "title": {
+            "la": "Caput V. De unitate divinae naturae in multiformitate apparitionum"
+          }
+        },
+        {
+          "id": "p1c06",
+          "title": {
+            "la": "Caput VI. De unitate divinae naturae in multiplicitate appropriatorum"
+          }
+        },
+        {
+          "id": "p1c07",
+          "title": {
+            "la": "Caput VII. De omnipotentia Dei"
+          }
+        },
+        {
+          "id": "p1c08",
+          "title": {
+            "la": "Caput VIII. De Dei sapientia, praedestinatione et praescientia"
+          }
+        },
+        {
+          "id": "p1c09",
+          "title": {
+            "la": "Caput IX. De voluntate Dei et providentia"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pars2",
+      "title": {
+        "la": "Pars II. De creatura mundi"
+      },
+      "children": [
+        {
+          "id": "p2c01",
+          "title": {
+            "la": "Caput I. De productione mundi totalis"
+          }
+        },
+        {
+          "id": "p2c02",
+          "title": {
+            "la": "Caput II. De natura corporali quantum ad fieri"
+          }
+        },
+        {
+          "id": "p2c03",
+          "title": {
+            "la": "Caput III. De natura corporali quantum ad esse"
+          }
+        },
+        {
+          "id": "p2c04",
+          "title": {
+            "la": "Caput IV. De natura corporali quantum ad operari et influere"
+          }
+        },
+        {
+          "id": "p2c05",
+          "title": {
+            "la": "Caput V. De modo describendi praedicta in sacra Scriptura"
+          }
+        },
+        {
+          "id": "p2c06",
+          "title": {
+            "la": "Caput VI. De productione superiorum spirituum"
+          }
+        },
+        {
+          "id": "p2c07",
+          "title": {
+            "la": "Caput VII. De apostasia daemonum"
+          }
+        },
+        {
+          "id": "p2c08",
+          "title": {
+            "la": "Caput VIII. De confirmatione bonorum Angelorum"
+          }
+        },
+        {
+          "id": "p2c09",
+          "title": {
+            "la": "Caput IX. De productione hominis quantum ad spiritum"
+          }
+        },
+        {
+          "id": "p2c10",
+          "title": {
+            "la": "Caput X. De productione hominis quantum ad corpus"
+          }
+        },
+        {
+          "id": "p2c11",
+          "title": {
+            "la": "Caput XI. De productione hominis quantum ad totum coniunctum"
+          }
+        },
+        {
+          "id": "p2c12",
+          "title": {
+            "la": "Caput XII. De completione et ordinatione totius mundi consummati"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pars3",
+      "title": {
+        "la": "Pars III. De corruptela peccati"
+      },
+      "children": [
+        {
+          "id": "p3c01",
+          "title": {
+            "la": "Caput I. De origine mali in communi"
+          }
+        },
+        {
+          "id": "p3c02",
+          "title": {
+            "la": "Caput II. De primorum parentum tentatione"
+          }
+        },
+        {
+          "id": "p3c03",
+          "title": {
+            "la": "Caput III. De primorum parentum transgressione"
+          }
+        },
+        {
+          "id": "p3c04",
+          "title": {
+            "la": "Caput IV. De primorum parentum punitione"
+          }
+        },
+        {
+          "id": "p3c05",
+          "title": {
+            "la": "Caput V. De originalis peccati corruptione"
+          }
+        },
+        {
+          "id": "p3c06",
+          "title": {
+            "la": "Caput VI. De originalis peccati transfusione"
+          }
+        },
+        {
+          "id": "p3c07",
+          "title": {
+            "la": "Caput VII. De originalis peccati curatione"
+          }
+        },
+        {
+          "id": "p3c08",
+          "title": {
+            "la": "Caput VIII. De origine peccatorum actualium"
+          }
+        },
+        {
+          "id": "p3c09",
+          "title": {
+            "la": "Caput IX. De origine et distinctione capitalium peccatorum"
+          }
+        },
+        {
+          "id": "p3c10",
+          "title": {
+            "la": "Caput X. De origine et qualitate peccatorum poenalium"
+          }
+        },
+        {
+          "id": "p3c11",
+          "title": {
+            "la": "Caput XI. De origine peccatorum finalium, quae sunt peccata in Spiritum sanctum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pars4",
+      "title": {
+        "la": "Pars IV. De incarnatione Verbi"
+      },
+      "children": [
+        {
+          "id": "p4c01",
+          "title": {
+            "la": "Capita I-II. De ratione, qua Verbum Dei debuit incarnari vel decuit; De incarnatione quantum ad unionem naturarum"
+          }
+        },
+        {
+          "id": "p4c03",
+          "title": {
+            "la": "Caput III. De incarnatione quantum ad modum"
+          }
+        },
+        {
+          "id": "p4c04",
+          "title": {
+            "la": "Capita IV-V. De incarnatione quantum ad plenitudinem temporum; De plenitudine gratiae Christi quantum ad charismata in affectu"
+          }
+        },
+        {
+          "id": "p4c06",
+          "title": {
+            "la": "Caput VI. De plenitudine sapientiae in intellectu"
+          }
+        },
+        {
+          "id": "p4c07",
+          "title": {
+            "la": "Caput VII. De perfectione meriti in effectu"
+          }
+        },
+        {
+          "id": "p4c08",
+          "title": {
+            "la": "Caput VIII. De passione Christi quantum ad statum patientis"
+          }
+        },
+        {
+          "id": "p4c09",
+          "title": {
+            "la": "Caput IX. De passione Christi quantum ad modum patiendi"
+          }
+        },
+        {
+          "id": "p4c10",
+          "title": {
+            "la": "Caput X. De passione Christi quantum ad exitum passionis"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pars5",
+      "title": {
+        "la": "Pars V. De gratia Spiritus sancti"
+      },
+      "children": [
+        {
+          "id": "p5c01",
+          "title": {
+            "la": "Capita I-II. De gratia, in quantum est donum divinitus datum; De gratia, in quantum educit liberum arbitrium extra peccatum"
+          }
+        },
+        {
+          "id": "p5c03",
+          "title": {
+            "la": "Capita III-VI. De gratia, in quantum iuvat ad bonum; De ramificatione gratiae in habitus virtutum; De ramificatione gratiae in habitus donorum; De ramificatione gratiae in habitus beatitudinum et per consequens fructuum et sensuum"
+          }
+        },
+        {
+          "id": "p5c07",
+          "title": {
+            "la": "Capita VII-VIII. De exercitio gratiae respectu credendorum; De exercitio gratiae respectu diligendorum"
+          }
+        },
+        {
+          "id": "p5c09",
+          "title": {
+            "la": "Capita IX-X. De exercitio gratiae respectu agendorum, praeceptorum et consiliorum; De exercitio gratiae respectu petendorum et orandorum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pars6",
+      "title": {
+        "la": "Pars VI. De medicina sacramentali"
+      },
+      "children": [
+        {
+          "id": "p6c01",
+          "title": {
+            "la": "Caput I. De Sacramentorum origine"
+          }
+        },
+        {
+          "id": "p6c02",
+          "title": {
+            "la": "Caput II. De Sacramentorum variatione"
+          }
+        },
+        {
+          "id": "p6c03",
+          "title": {
+            "la": "Caput III. De Sacramentorum numero et distinctione"
+          }
+        },
+        {
+          "id": "p6c04",
+          "title": {
+            "la": "Caput IV. De Sacramentorum institutione"
+          }
+        },
+        {
+          "id": "p6c05",
+          "title": {
+            "la": "Caput V. De Sacramentorum dispensatione"
+          }
+        },
+        {
+          "id": "p6c06",
+          "title": {
+            "la": "Caput VI. De Sacramentorum iteratione"
+          }
+        },
+        {
+          "id": "p6c07",
+          "title": {
+            "la": "Caput VII. De constitutione et integritate baptismi"
+          }
+        },
+        {
+          "id": "p6c08",
+          "title": {
+            "la": "Caput VIII. De integritate confirmationis"
+          }
+        },
+        {
+          "id": "p6c09",
+          "title": {
+            "la": "Caput IX. De integritate eucharistiae"
+          }
+        },
+        {
+          "id": "p6c10",
+          "title": {
+            "la": "Caput X. De integritate poenitentiae"
+          }
+        },
+        {
+          "id": "p6c11",
+          "title": {
+            "la": "Caput XI. De integritate unctionis extremae"
+          }
+        },
+        {
+          "id": "p6c12",
+          "title": {
+            "la": "Caput XII. De integritate ordinis"
+          }
+        },
+        {
+          "id": "p6c13",
+          "title": {
+            "la": "Caput XIII. De integritate matrimonii"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pars7",
+      "title": {
+        "la": "Pars VII. De statu finalis iudicii"
+      },
+      "children": [
+        {
+          "id": "p7c01",
+          "title": {
+            "la": "Caput I. De iudicio in communi"
+          }
+        },
+        {
+          "id": "p7c02",
+          "title": {
+            "la": "Caput II. De antecedentibus ad iudicium, cuiusmodi est poena purgatorii"
+          }
+        },
+        {
+          "id": "p7c03",
+          "title": {
+            "la": "Caput III. De antecedentibus ad iudicium, cuiusmodi sunt suffragia ecclesiastica"
+          }
+        },
+        {
+          "id": "p7c04",
+          "title": {
+            "la": "Caput IV. De concomitantibus iudicium, sicut est conflagratio ignium"
+          }
+        },
+        {
+          "id": "p7c05",
+          "title": {
+            "la": "Caput V. De concomitantibus iudicium, sicut est resurrectio corporum"
+          }
+        },
+        {
+          "id": "p7c06",
+          "title": {
+            "la": "Caput VI. De consequentibus ad iudicium, sicut est poena infernalis"
+          }
+        },
+        {
+          "id": "p7c07",
+          "title": {
+            "la": "Caput VII. De gloria paradisi"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -106,3 +106,73 @@ def numbered_en(lines):
     for p in paras:
         p[1] = re.sub(r'(\w)- (?=[a-z])', r'\1', p[1])
     return paras
+
+# ---- OCR repair for the Quaracchi scans -------------------------------------------------
+import collections, glob
+_SUBS = [('c','e'),('e','c'),('i','l'),('l','i'),('u','n'),('n','u'),('t','l'),('l','t'),('s','f'),('f','s'),
+         ('r','t'),('t','r'),('b','h'),('h','b'),('i','t'),('t','i'),('i','j'),('v','y'),('q','g'),('g','q'),('i','r'),('r','i')]
+_lex = None
+def lexicon():
+    global _lex
+    if _lex: return _lex
+    c = collections.Counter()
+    files = glob.glob('research/sourcing/bonaventure/quaracchi/*.txt') + ['research/sourcing/bonaventure/la/latinlibrary-itinerarium.html', 'research/sourcing/bonaventure/la/ws-Sermones_(Bonaventura).txt', 'research/sourcing/bonaventure/la/ws-Collationes_de_septem_donis_Spiritus_Sancti.txt']
+    for f in files:
+        for w in re.findall(r"[a-zA-Zæœ]{4,}", open(f, errors='replace').read()):
+            c[w.lower()] += 1
+    _lex = c
+    return c
+
+def _cands(w):
+    L = lexicon(); out = set()
+    for i, ch in enumerate(w):
+        for a, b in _SUBS:
+            if ch == a:
+                out.add(w[:i] + b + w[i+1:])
+    for i in range(len(w)-1):
+        if w[i:i+2] == 'rn': out.add(w[:i] + 'm' + w[i+2:])
+        if w[i:i+2] == 'li': out.add(w[:i] + 'h' + w[i+2:])
+        if w[i:i+2] == 'ii': out.add(w[:i] + 'u' + w[i+2:])
+        if w[i:i+2] == 'cc': out.add(w[:i] + 'ae' + w[i+2:])
+        if w[i:i+2] == 'ae': out.add(w[:i] + 'ac' + w[i+2:])
+        if w[i:i+2] == 'ac': out.add(w[:i] + 'ae' + w[i+2:])
+    out.discard(w)
+    return [x for x in out if L.get(x, 0) >= 200]
+
+def fix_ocr(text, log=None):
+    L = lexicon()
+    def rep(m):
+        w = m.group(0); lw = w.lower()
+        if len(w) < 4 or L.get(lw, 0) >= 3000: return w
+        cs = _cands(lw)
+        if not cs: return w
+        best = max(cs, key=lambda x: L[x])
+        n = L.get(lw, 0)
+        if not ((n <= 12 and L[best] >= 15 * n + 100) or L[best] >= 40 * n + 200): return w
+        second = sorted((L[x] for x in cs), reverse=True)[1:2]
+        if second and second[0] * 3 > L[best]: return w
+        if best in ('deut','viii','turae','tiae','vict','secun','peccali','instanti','princi','sapien'): return w
+        if log is not None: log.append((w, best))
+        return best.capitalize() if w[0].isupper() else best
+    return re.sub(r"[A-Za-zæœ]{4,}", rep, text)
+
+
+def blocks_of(lines):
+    out = []; cur = []
+    for ln in lines:
+        if ln.strip(): cur.append(ln.strip())
+        elif cur: out.append(cur); cur = []
+    if cur: out.append(cur)
+    return out
+
+def join_lines(ls):
+    t = ''
+    for s in ls:
+        if t.endswith('-') and s[:1].islower() and len(t) > 1 and t[-2].isalpha(): t = t[:-1] + s
+        elif t.endswith('- ') : t = t[:-2] + s
+        else: t = (t + ' ' + s) if t else s
+    t = re.sub(r'([a-zæœ])- (?=[a-zæœ])', r'\1', t)   # hyphen + space left by a split word
+    return re.sub(r'\s+', ' ', t).strip()
+
+def strip_notes(t):
+    return re.sub(r'\s?\((?:[0-9!lIti*]{1,3}|[0-9]+\^?)\)(?=[\s.,;:)»]|$)', '', t)
