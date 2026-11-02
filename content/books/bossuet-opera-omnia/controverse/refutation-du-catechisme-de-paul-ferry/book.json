@@ -1,0 +1,78 @@
+{
+  "id": "bossuet-refutation-du-catechisme-de-paul-ferry",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Réfutation du catéchisme du sieur Paul Ferry, ministre de la religion prétendue réformée à Metz",
+    "en-US": "Refutation of the Catechism of Paul Ferry, Minister of the Reformed Religion at Metz",
+    "pt-BR": "Refutação do catecismo do Sr. Paul Ferry, ministro da religião pretensamente reformada em Metz"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Écrit composé à Metz en 1655 pour répondre au catéchisme du pasteur Paul Ferry : première vérité, qu’on peut se sauver dans la communion de l’Église romaine (même selon les principes du ministre), seconde vérité, qu’il est impossible de se sauver dans la Réforme. Publié en 1655. Édition Lachat (1864).",
+    "en-US": "A work composed at Metz in 1655 in answer to the catechism of the pastor Paul Ferry: the first truth, that one can be saved in the communion of the Roman Church (even by the minister’s own principles); the second, that it is impossible to be saved in the Reformation. Published in 1655. Lachat edition (1864).",
+    "pt-BR": "Escrito composto em Metz em 1655 em resposta ao catecismo do pastor Paul Ferry: primeira verdade, que se pode salvar na comunhão da Igreja romana (mesmo segundo os princípios do ministro); segunda verdade, que é impossível salvar-se na Reforma. Publicado em 1655. Edição Lachat (1864)."
+  },
+  "composed": "1655",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/refutation-du-catechisme-de-paul-ferry",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume013/012.htm to 015.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XIII, pages 012-015. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "dedicace-et-avertissement",
+      "title": {
+        "fr-FR": "Dédicace et avertissement"
+      }
+    },
+    {
+      "id": "entree-au-discours",
+      "title": {
+        "fr-FR": "Entrée au discours et proposition du sujet"
+      }
+    },
+    {
+      "id": "premiere-verite-001",
+      "title": {
+        "fr-FR": "Première vérité, section première : que cette vérité est prouvée par les principes du ministre"
+      }
+    },
+    {
+      "id": "premiere-verite-002",
+      "title": {
+        "fr-FR": "Première vérité, section seconde : que la foi du concile de Trente touchant la justification et le mérite des bonnes œuvres nous a été enseignée par l’ancienne Église, et qu’elle établit très solidement la confiance du fidèle en Jésus-Christ seul"
+      }
+    },
+    {
+      "id": "seconde-verite",
+      "title": {
+        "fr-FR": "Seconde vérité : qu’il est impossible de se sauver en la réformation prétendue"
+      }
+    },
+    {
+      "id": "conclusion",
+      "title": {
+        "fr-FR": "Conclusion : exhortation à nos adversaires de retourner à l’unité de l’Église"
+      }
+    }
+  ]
+}
