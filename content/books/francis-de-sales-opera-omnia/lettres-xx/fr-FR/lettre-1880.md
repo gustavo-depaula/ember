@@ -1,0 +1,35 @@
+# Lettre MDCCCLXXX. À la Mère Favre Supérieure de la Visitation de Montferrand
+
+*L'Evêque n'a autorité que sur les Religieuses qui ont fait profession dans son diocèse, et celles-ci appartiennent toujours au Monastère où elles ont prononcé leurs vœux. - Formalités à remplir pour les fondations. – Le président Favre et ses justes désirs. - Charges honorables de ses fils. Pourquoi François de Sales voudrait voir retarder l'établissement de la Visitation à Riom ; moyen terme que l'on peut prendre. - Projet pour Aurillac. - Une petite Novice de treize ans.*
+
+Annecy, janvier 1622 .
+
+Ma tres chere Fille,
+
+Il faut que je vous die naivement et comm'a vous, que je n'ay nulle authorité es Maysons qui ne sont pas en mon diocaese, ni sur les personnes, ni sur les dependences, ormis sur les Seurs qui sont sorties d'icy, qui, selon leurs vœux et la reciproque obligation qu'elles ont a ce Monastere duquel elles sont tous-jours, et le Monastere envers elles pour les recevoir a toutes bonnes occurrences, demeurent tous-jours membres inseparables de cette Mayson, delaquelle elles ne sont nullement privees, puisque elles n'en sont point dehors sinon par obeissance et selon l'Institut.
+
+C'est pourquoy, ma tres chere Fille, en toutes occasions de fondation, il faut que les Superieures des lieux ou l'on recourt pour avoir des Seurs prennent advis et conseil avec les Peres spirituelz et autres sages amis et amies, et que, avec le consentement du Chapitre et l'obeissance de l'Evesque, ou, en son absence, du Pere spirituel, elle dispose (sic) des personnes convenables a la fondation. Et quand c'est hors de la diocaese qu'il faut aller fonder et que l'obeissance est donnee par le Pere spirituel, il faut que le Vicaire general de l'evesché atteste que le Pere spirituel est deputé pour la direction du Monastere; et faut observer encor cela quand, selon que le Concile de Trente l'ordonne ( Sess 25, de Regul.8 ), un Monastere eslit et desire une Superieure d'un autre monastere hors du diocaese ou se fait l'election.
+
+De sorte, ma tres chere Fille, que pour les deux fondations que vous me marques, vous n'avies nul besoin de m'advertir sinon en ce qui regarde la disposition de vostre chere personne, pour laquelle je ne voy nul lieu de me dispenser contre les promesses faites a tant de personnes, mays sur tout a monsieur vostre pere, qui ne peut quasi plus rien esperer pour l'accomplissement de ses consolations en ce monde, que de vous voir au Monastere de Chamberi que l'on va entreprendre , affin de vous avoir aupres de luy, d'ou il a esloigné tous messieurs vos freres par les charges honnorables dont ilz sont tous prouveuz maintenant, puisque, comme vous sçaves, M.de Feliciaz est senateur et juge maje de la province de Chablaix ; monsieur de Charmettes a la cour, aupres de Madame; monsieur nostre President de Genevois icy , d'ou il ne peut absenter, non plus que monsieur de Vaugelaz de la cour de France ; de sorte quil ne reste que monsieur le Doyen de la Sainte Chapelle . Mays, comme que ce soit, il est malaysé de repliquer au desir d'un pere, si juste comm'est celuy de voir sa fille, puysque cela se peut bonnement faire, et selon la gloire de Dieu. Et bien que ce tres bon pere, comme tout dedié a Dieu luy mesme, se remet tres volontier a tout ce qui sera jugé plus a propos pour l'employ de sa fille au service de la plus grande gloire de cette celeste Majesté, si est ce que cela mesme nous oblige tant plus a le consoler en ce qui se pourra. Voyes la lettre quil m'escrit, ma tres chere Fille, et vous connoistres ce que vous et moy devons vouloir en cette occasion. Voyla donq quant a ce point.
+
+Et quant a la fondation de madame de Chazeron , je vous diray mon: advis, qui est que l'on la contente en tout ce que l'on pourra, et sur tout quant a la qualité et quant aux privileges de fondatrice, dont elle puisse joüir des maintenant.
+
+Mays j'appreuverois merveilleusement que l'on ne se hastat pas tant de faire le Monastere de Riom, non seulement pour donner du tems aux autres Institutz des filles, Carmelites, Urselines et autres qui y sont, mays principalement pour en donner a vostre Monastere de Montferrant de se bien establir, sur tout en personnes ; car c'est cela que j'apprehende en toutes les fondations, qu'elles ne se facent sans filles bien formees et solides en cette vertu religieuse que l'Institut requiert autant ou plus qu'aucun autre Institut qui soit en l'Eglise, puisque dautant plus qu'il y a moins d'austerité exterieure il faut quil y ayt de l'esprit interieur. Je voudrois donq que l'on prist du tems pour ce Monastere de Rioms et que, sil se pouvoit, on retirast les filles qui en veulent estre en vostre monastere de Montferrant, avec leurs pensions annuelles ; puys, la nouvelle Mayson estant faite a Rioms comme une nouvelle ruche, on y envoyast des filles toutes faites, comm'un essein d'abeilles prest a faire le miel . J'en dis de mesme de la proposition que l'on fait pour Aurillac , ou j'aurois grande inclination, en voyant tant en ce bon Pere Recteur qui vous escrit .
+
+Je croy que nostre Mere ira la ; et avec ces dames du païs et elle, vous pourres prendre meilleur advis par l'opinion de vos bons Peres spirituelz que vous aves la, et vos amis, que non pas par la mienne qui ne void pas des icy ce qui pourroit estre plus a propos. A cela donq je vous renvoye, m'estant advis que je le doy.
+
+L'inconvenient que vous apportes pour Aurillac seroit dissipé par celuy que je propose, que les filles vinssent faire leur novitiat a Montferrant.
+
+Ma tres chere Fille, il ny a point de difficulté que l'on ne puisse donner l'habit a la petite fille de treze ans, en consideration de son si bon pere . Mays affin que cela se face comm'il est expedient, il faut qu'elle face le premier essay de quelques semaines, apres lequel, sil (sic) ell'est jugee propre, il faut avoir dispense de M. l'Evesque ou du Pere spirituel, car autrement cela tireroit consequence plus grande. Et certes, il n'est pas convenable que l'on engage ces si jeunes filles a l'habit, car il y [a] bien plus de peine a oster l'habit a une fille qu'a la renvoyer avant qu'elle l'ayt (sic) pris l'habit .
+
+Je ne voy pas quil y ayt aucun inconvenient que madame de Dalet entre es monasteres de cette province-la ; au contraire, il me semble que la gratitude et bienseance requierent qu'elle y entre.
+
+Je treuve que c'est une grande Providence de Dieu que les Supperieurs, en ce commencement, ne soyent pas trop empressés de vostre conduite ; elle se fera plus suavement par les advis des amis que vous employerés.
+
+J'escris a ces deux bons Peres que vous me nommés et a Mme la Princesse de Joinville , avec les deux motz que Mme de Da1et a marqués de Monseigneur et 1. . . . . . . Salues, je vous prie, ce cœur la de Mme de Dalet.
+
+Vives toute a Dieu, ma tres chere Fille, et ne bouges, ce reste de tems, d'aupres du petit Enfant qui vous dira, au commencement de ses ans, que l'eternité de laquelle il vient, a laquelle il est, a laquelle il va est seule desirable. Bonjour, ma tres chere Fille, et a toutes nos Seurs.
+
+FRANçs, E. de Geneve.
+
+Revu sur l'Autographe conservé à la Visitation d'Aurillac.

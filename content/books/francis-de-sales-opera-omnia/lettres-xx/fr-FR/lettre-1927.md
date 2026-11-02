@@ -1,0 +1,21 @@
+# Lettre MCMXXVII. À Madame le Loup de Montfan
+
+*Les meilleures réponses. - Une véritable inspiration divine. - Quand Dieu parle, il ne faut pas contester, mais regarder l'Evangile et en suivre les maximes. - Ce dont la ferveur de Mme de Dalet devra se contenter. - Ses parents prendront soin de ses enfants. - Qualités qu'il faut joindre ensemble. - Condescendance et humilité du saint Evêque.*
+
+Turin, 6 juillet 1622 .
+
+Madame,
+
+Les plus courtes responses sont ordinairement les meilleures, et avec cela, [je suis] pressé de mon depart de cette cour et du desir de depescher vostre homme, qui me conjure ardemment de ne le point retenir davantage. Or, je ne diray rien des tiltres d'honneur et de faveur dont vous estes si liberale envers moy, sinon que je ne cesseray jamais de vous souhaitter toute sorte de consolation et quelque digne occasion de vous tesmoigner combien je vous honnore.
+
+Je ne vous diray donq pas autre chose sur le dessein que madame [de Dalet], vostre fille, a de se retirer dans le monastere, sinon que je croy fermement que c'est une veritable inspiration divine, ne voyant tout a fait aucune rayson au contraire, puisque, graces a Dieu, elle a de si justes et dignes garens de la personne et biens de ses enfans , pourveu qu'il vous playse, et a monsieur [votre mari], de vous charger de cette peine. Et affin qu'il vous playse, je ne veux point user de longs discours, ains seulement dire que si vous le faites, vous feres une chose infiniment aggreable a Dieu ; car cela suffit a une ame genereuse pour luy faire prendre toutes sortes de resolutions.
+
+Je voy bien qu'il y a plusieurs repliques a ce que je dis ; mais je croy bien aussi qu'en ces occurrences il n'est pas question de contester et de disputer, ains de considerer les maximes de l'Evangile, qui sans doute nous conduisent au parfait despouillement, et au mespris de la sagesse temporelle qui ne s'arreste a la sagesse de la vertu que requiert l'excellence et l'eminence de l'amour celeste.
+
+Mais, Madame, si cette chere fille de vostre cœur s'arreste dans les bornes que vostre authorité luy prefixe, de n'estre au monastere que comme fondatrice, sans changement d'habit ni de condition exterieure , je ne croy pas que la plus sage sagesse humaine puisse sagement gronder, ni, je m'asseure, probablement murmurer. Car, presupposé la charité de monsieur vostre mari et la vostre envers vos petitz enfans pour avoir soin d'eux et de leurs petitz affaires, et asseurer madame vostre fille pour luy [donner] commodité de vivre plus parfaitement sous l'ombre de la Croix, que peut on dire autre chose sinon que Dieu a donné l'inspiration a la fille de se retirer, et au pere et a la mere de luy en donner les moyens ? Je sçai qu'a faire ces grandes et heroïques vertus il y a de l'effort ; mays c'est aussi de la d'ou elles tirent leur plus grande gloire.
+
+Vous me marques, Madame, un defaut de cette fille, qui est qu'elle jure sous equivoque ; a quoy, ce me dites vous, vous ne vous entendes point. C'est une des plus aymables conditions que vous puissies avoir, je le confesse ; mais il faut adjouster une autre grandement pretieuse, qui est de ne point user de vostre authorité maternelle contre cet esprit qui, pour eviter le coup, se desrobe plustost que de parer.
+
+Mais quant a moy, Madame, je vous proteste que je n'use point d'equivoque quand je vous prometz en bonne foy que, de mon costé, je ne consentiray point que madame [de Dalet] prenne l'habit de la Visitation que quand, par une veritable attestation, j'auray esté asseuré de vostre consentement: de cela je vous prie de le bien croire. Je vous en donne ma parole plus clairement : je n'ay nulle authorité sur les Monasteres de la Visitation qui sont hors de mon diocese, de sorte que je ne puis m'obliger sinon a ne point consentir, ains a faire tout ce que je pourray, non point par authorité, mais par credit que j'espere d'avoir envers les Superieures de ces Monasteres, et particulierement avec madame [Favre], de laquelle je suis grandement certain qu'elle suivra en cela ma direction. Et partant, Madame, je vous donne de rechef asseurance de ce que dessus, et signe expres sous la promesse que je vous en fay………….
+
+FRANçs, E. de Geneve.
