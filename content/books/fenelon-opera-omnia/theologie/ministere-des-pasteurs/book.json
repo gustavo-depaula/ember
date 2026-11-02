@@ -1,0 +1,84 @@
+{
+  "id": "fenelon-ministere-des-pasteurs",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Traité du ministère des pasteurs",
+    "en-US": "Treatise on the Ministry of Pastors",
+    "pt-BR": "Tratado do ministério dos pastores"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Traité de théologie sur l’autorité du ministère pastoral dans l’Église, écrit contre les protestants (1688) : la mission des pasteurs, la tradition, l’autorité de l’Église et la règle de la foi, en seize chapitres.",
+    "en-US": "A theological treatise on the authority of the pastoral ministry in the Church, written against the Protestants (1688): the mission of pastors, tradition, the authority of the Church and the rule of faith, in sixteen chapters.",
+    "pt-BR": "Tratado de teologia sobre a autoridade do ministério pastoral na Igreja, escrito contra os protestantes (1688): a missão dos pastores, a tradição, a autoridade da Igreja e a regra da fé, em dezesseis capítulos."
+  },
+  "composed": "1688",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/ministere-des-pasteurs",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvresdefenelon01fn",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 1, p. 147–201; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "traite-01",
+      "title": {
+        "fr-FR": "Traité du ministère des pasteurs, partie 1"
+      }
+    },
+    {
+      "id": "traite-02",
+      "title": {
+        "fr-FR": "Traité du ministère des pasteurs, partie 2"
+      }
+    },
+    {
+      "id": "traite-03",
+      "title": {
+        "fr-FR": "Traité du ministère des pasteurs, partie 3"
+      }
+    },
+    {
+      "id": "traite-04",
+      "title": {
+        "fr-FR": "Traité du ministère des pasteurs, partie 4"
+      }
+    },
+    {
+      "id": "traite-05",
+      "title": {
+        "fr-FR": "Traité du ministère des pasteurs, partie 5"
+      }
+    },
+    {
+      "id": "traite-06",
+      "title": {
+        "fr-FR": "Traité du ministère des pasteurs, partie 6"
+      }
+    },
+    {
+      "id": "traite-07",
+      "title": {
+        "fr-FR": "Traité du ministère des pasteurs, partie 7"
+      }
+    }
+  ]
+}
