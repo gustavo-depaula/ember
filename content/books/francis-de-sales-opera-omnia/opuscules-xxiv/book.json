@@ -1,0 +1,399 @@
+{
+  "id": "sales-opuscules-xxiv",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Opuscules de saint François de Sales, tome XXIV",
+    "en-US": "Opuscules of St. Francis de Sales, vol. XXIV",
+    "pt-BR": "Opúsculos de São Francisco de Sales, tomo XXIV"
+  },
+  "author": {
+    "fr-FR": "Saint François de Sales",
+    "en-US": "St. Francis de Sales",
+    "pt-BR": "São Francisco de Sales"
+  },
+  "description": {
+    "fr-FR": "Les opuscules du tome XXIV de l’édition d’Annecy : l’administration épiscopale (ordonnances, synodes diocésains, patentes), pour l’essentiel des pièces administratives et juridiques.",
+    "en-US": "The opuscules in volume XXIV of the Annecy edition: the episcopal administration (ordinances, diocesan synods, patents), mostly short administrative and legal documents.",
+    "pt-BR": "Os opúsculos de São Francisco de Sales no tomo XXIV da edição de Annecy (Quatrième série (suite))."
+  },
+  "composed": "1602-1622",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "francis-de-sales/opuscules-xxiv",
+  "editions": {
+    "fr-FR": {
+      "editor": "Religieuses de la Visitation d’Annecy",
+      "year": 1927
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://www.donboscosanto.eu/francesco_di_sales/",
+      "edition": "Œuvres de saint François de Sales, édition complète d’après les autographes et les éditions originales, t. XXIV: Opuscules, 1927 (file 24), Annecy: J. Niérat, 1892-1932. Scans with text layer (2022 re-OCR) from donboscosanto.eu.",
+      "description": "Francis’s text in the original spelling (and the Latin or Italian of some pieces), extracted from the PDF text layer (layout mode). Marginal references, the variants and footnotes, and the editors’ introductions and tables are not included. Chapters follow the printed section headings; short sections are folded into the preceding chapter under a second-level heading.",
+      "tier": "A",
+      "tierEvidence": "Francis died in 1622; the Annecy edition is of his own text in period spelling, published in or before 1932. Only Francis’s own text is used, not the editors’ apparatus."
+    }
+  ],
+  "toc": [
+    {
+      "id": "piece-01",
+      "title": {
+        "fr-FR": "Nomination d'un coadjuteur en faveur du curé des clefs"
+      }
+    },
+    {
+      "id": "piece-02",
+      "title": {
+        "fr-FR": "Plusieurs fêtes et approbation de Saint françois de sales"
+      }
+    },
+    {
+      "id": "piece-03",
+      "title": {
+        "fr-FR": "Touchant l’exaction de décimes et décret épiscopal"
+      }
+    },
+    {
+      "id": "piece-04",
+      "title": {
+        "fr-FR": "Assignation de portion congrue"
+      }
+    },
+    {
+      "id": "piece-05",
+      "title": {
+        "fr-FR": "Assignation de portion congrue"
+      }
+    },
+    {
+      "id": "piece-06",
+      "title": {
+        "fr-FR": "Et indulgences accordées a cette occasion"
+      }
+    },
+    {
+      "id": "piece-07",
+      "title": {
+        "fr-FR": "Sentence au sujet d’un différend entre le curé des ollières et aviernoz, et trois de ses paroissiens"
+      }
+    },
+    {
+      "id": "piece-08",
+      "title": {
+        "fr-FR": "Du Saint-sacrement et décret de Saint françois de sales"
+      }
+    },
+    {
+      "id": "piece-09",
+      "title": {
+        "fr-FR": "Et décret épiscopal"
+      }
+    },
+    {
+      "id": "piece-10",
+      "title": {
+        "fr-FR": "Au sujet de m. jean-françois du martherey et acte d’institution de celui-ci pour vicaire perpétuel de la paroisse"
+      }
+    },
+    {
+      "id": "piece-11",
+      "title": {
+        "fr-FR": "Et indulgences accordées a cette occasion"
+      }
+    },
+    {
+      "id": "piece-12",
+      "title": {
+        "fr-FR": "Et un prêtre pour la desservir et décret épiscopal"
+      }
+    },
+    {
+      "id": "piece-13",
+      "title": {
+        "fr-FR": "Dans sa paroisse et approbation de Saint françois de sales"
+      }
+    },
+    {
+      "id": "piece-14",
+      "title": {
+        "fr-FR": "Commission a mm. de blonay et de chatillon"
+      }
+    },
+    {
+      "id": "piece-15",
+      "title": {
+        "fr-FR": "De m. jean de vassau"
+      }
+    },
+    {
+      "id": "piece-16",
+      "title": {
+        "fr-FR": "Comme surveillant"
+      }
+    },
+    {
+      "id": "piece-17",
+      "title": {
+        "fr-FR": "Minute de la pièce précédente"
+      }
+    },
+    {
+      "id": "piece-18",
+      "title": {
+        "fr-FR": "Succession, de l’abbé de chézery (minute inédite)"
+      }
+    },
+    {
+      "id": "piece-19",
+      "title": {
+        "fr-FR": "Curé d’abondance pour la visite du district d’évian"
+      }
+    },
+    {
+      "id": "piece-20",
+      "title": {
+        "fr-FR": "Procès-verbal de la première abjuration de l’ex-jésuite claude boucard"
+      }
+    },
+    {
+      "id": "piece-21",
+      "title": {
+        "fr-FR": "Et madame jeanne chevrier"
+      }
+    },
+    {
+      "id": "piece-22",
+      "title": {
+        "fr-FR": "Cordelier du couvent de cluses"
+      }
+    },
+    {
+      "id": "piece-23",
+      "title": {
+        "fr-FR": "De frère maximien de moulins, capucin"
+      }
+    },
+    {
+      "id": "piece-24",
+      "title": {
+        "fr-FR": "Lettres testimoniales données par Saint françois de sales agissant au nom de monseigneur de Granier"
+      }
+    },
+    {
+      "id": "piece-25",
+      "title": {
+        "fr-FR": "Du même soldat espagnol"
+      }
+    },
+    {
+      "id": "piece-26",
+      "title": {
+        "fr-FR": "Attestation de l’abjuration"
+      }
+    },
+    {
+      "id": "piece-27",
+      "title": {
+        "fr-FR": "Et décrets de Saint françois de sales"
+      }
+    },
+    {
+      "id": "piece-28",
+      "title": {
+        "fr-FR": "De genevois"
+      }
+    },
+    {
+      "id": "piece-29",
+      "title": {
+        "fr-FR": "Au collège chafpuisien d’Annecy"
+      }
+    },
+    {
+      "id": "piece-30",
+      "title": {
+        "fr-FR": "En faveur du collège"
+      }
+    },
+    {
+      "id": "piece-31",
+      "title": {
+        "fr-FR": "Aux barnabites d’Annecy (’)"
+      }
+    },
+    {
+      "id": "piece-32",
+      "title": {
+        "fr-FR": "Et de ses dépendances"
+      }
+    },
+    {
+      "id": "piece-33",
+      "title": {
+        "fr-FR": "Procuration pour le serment de fidélité"
+      }
+    },
+    {
+      "id": "piece-34",
+      "title": {
+        "fr-FR": "Témoignage sur les vertus"
+      }
+    },
+    {
+      "id": "piece-35",
+      "title": {
+        "fr-FR": "Au sujet de la procession de la fête-Dieu"
+      }
+    },
+    {
+      "id": "piece-36",
+      "title": {
+        "fr-FR": "Instituees au diocese de geneve"
+      }
+    },
+    {
+      "id": "piece-37",
+      "title": {
+        "fr-FR": "Au père françois de bugey, du même ordre"
+      }
+    },
+    {
+      "id": "piece-38",
+      "title": {
+        "fr-FR": "Relation de la double apostasie"
+      }
+    },
+    {
+      "id": "piece-39",
+      "title": {
+        "fr-FR": "Pierre et paul"
+      }
+    },
+    {
+      "id": "piece-40",
+      "title": {
+        "fr-FR": "De compassion de Thonon"
+      }
+    },
+    {
+      "id": "piece-41",
+      "title": {
+        "fr-FR": "Note sur les revenus de la Sainte-maison et sur le service de l’Église"
+      }
+    },
+    {
+      "id": "piece-42",
+      "title": {
+        "fr-FR": "Publication d’indulgences ' en faveur des membres de la confrérie de Notre-dame de compassion"
+      }
+    },
+    {
+      "id": "piece-43",
+      "title": {
+        "fr-FR": "De Thonon"
+      }
+    },
+    {
+      "id": "piece-44",
+      "title": {
+        "fr-FR": "Et premierement du conseil ordinaire"
+      }
+    },
+    {
+      "id": "piece-45",
+      "title": {
+        "fr-FR": "Et confirmation de ses statuts"
+      }
+    },
+    {
+      "id": "piece-46",
+      "title": {
+        "fr-FR": "François de sales, évêque et prince de Genève"
+      }
+    },
+    {
+      "id": "piece-47",
+      "title": {
+        "fr-FR": "De l’an mil six cent dix-huit"
+      }
+    },
+    {
+      "id": "piece-48",
+      "title": {
+        "fr-FR": "Délégation a monsieur jean favre"
+      }
+    },
+    {
+      "id": "piece-49",
+      "title": {
+        "fr-FR": "Du hault mont de voyron"
+      }
+    },
+    {
+      "id": "piece-50",
+      "title": {
+        "fr-FR": "Reigles de pieté"
+      }
+    },
+    {
+      "id": "piece-51",
+      "title": {
+        "fr-FR": "Reigles de l'oraison et office divin"
+      }
+    },
+    {
+      "id": "piece-52",
+      "title": {
+        "fr-FR": "Reigles du gouvernement (economique"
+      }
+    },
+    {
+      "id": "piece-53",
+      "title": {
+        "fr-FR": "Profession et forme d’icelle"
+      }
+    },
+    {
+      "id": "piece-54",
+      "title": {
+        "fr-FR": "Lettres patentes"
+      }
+    },
+    {
+      "id": "piece-55",
+      "title": {
+        "fr-FR": "Au monastere du puys d’orbe"
+      }
+    },
+    {
+      "id": "piece-56",
+      "title": {
+        "fr-FR": "Comme de celui de grenoble ou gratianopolitensis"
+      }
+    },
+    {
+      "id": "piece-57",
+      "title": {
+        "fr-FR": "Pour le restablissement de la discipline reguliere"
+      }
+    },
+    {
+      "id": "piece-58",
+      "title": {
+        "fr-FR": "De Nostre dame de compassion"
+      }
+    },
+    {
+      "id": "piece-59",
+      "title": {
+        "fr-FR": "Ou pris dans une acception inusitée"
+      }
+    }
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-02"
+  }
+}
