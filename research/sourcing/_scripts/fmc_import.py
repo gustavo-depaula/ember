@@ -10,14 +10,14 @@ import sys, os, re, json, collections
 sys.path.insert(0, os.path.dirname(__file__))
 import en_common as E
 ROOT = '/Users/gustavo/Documents/prayer'
-NUM = r'([IVXLCDMivxl1!TUYJ]{1,9})'
+NUM = r'([IVXLCDMivxl1!TUYJH]{1,9})'
 OCRFIX = [(r'\btlie\b', 'the'), (r'\btbe\b', 'the'), (r'\bTlie\b', 'The'), (r'\bTbe\b', 'The'), (r'\bwliich\b', 'which'), (r'\bwhicli\b', 'which'),
           (r'\bwbich\b', 'which'), (r'\btbat\b', 'that'), (r'\btbis\b', 'this'), (r'\bliis\b', 'his'), (r'\bwitli\b', 'with'), (r'\bwitb\b', 'with'),
           (r'\bhimself\b', 'himself'), (r'\bGocl\b', 'God'), (r'\bGrod\b', 'God'), (r'\bJESTJS\b', 'JESUS'), (r'\bJestjs\b', 'Jesus'),
           (r'\btliat\b', 'that'), (r'\btliis\b', 'this'), (r'\btliey\b', 'they'), (r'\btliem\b', 'them'), (r'\btlien\b', 'then'), (r'\btliere\b', 'there'),
           (r'\btlioso\b', 'those'), (r'\bwlio\b', 'who'), (r'\bwhorn\b', 'whom'), (r'\bwliat\b', 'what'), (r'\bwlien\b', 'when'), (r'\bwliere\b', 'where')]
 def rom(s):
-    s = s.upper().replace('!', 'I').replace('1', 'I').replace('T', 'I').replace('U', 'I').replace('J', 'I').replace('Y', 'V')
+    s = s.upper().replace('H', 'II').replace('!', 'I').replace('1', 'I').replace('T', 'I').replace('U', 'I').replace('J', 'I').replace('Y', 'V')
     v = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}; t = 0
     for i, c in enumerate(s):
         t += -v[c] if i + 1 < len(s) and v[c] < v[s[i + 1]] else v[c]
@@ -119,6 +119,13 @@ def process(lines, cfg, counts, fnstate):
             merged[-1] = E.join_lines([merged[-1], p])
         else: merged.append(p)
     return merged
+def roman(n):
+    out = ''
+    for v, r in ((1000, 'M'), (900, 'CM'), (500, 'D'), (400, 'CD'), (100, 'C'), (90, 'XC'), (50, 'L'), (40, 'XL'), (10, 'X'), (9, 'IX'), (5, 'V'), (4, 'IV'), (1, 'I')):
+        while n >= v: out += r; n -= v
+    return out
+def pre_key(part, cfg):
+    return (part['id'].split('-')[1] + '.') if part and len(cfg['levels']) > 1 else ''
 def main():
     global cfg_kws
     cfg = json.load(open(sys.argv[1]))
@@ -212,6 +219,8 @@ def main():
             paras.append('## ' + lab(x['kw'], x['num'], x['title']))
             paras += process(x['lines'], cfg, counts, fnstate)
         title = lab(kw, seq[deep], u['title'])
+        ov = cfg.get('titles', {}).get('%s%d' % (pre_key(part, cfg), seq[deep]))
+        if ov: title = '%s %s. %s' % (label.get(kw, kw.title()), roman(seq[deep]), ov)
         pre_id = ('%s-%d-' % (cfg['levels'][0].lower(), seq[cfg['levels'][0]])) if len(cfg['levels']) > 1 else ''
         cid = '%s%s-%d' % (pre_id, deep.lower(), seq[deep])
         write(cid, title, paras, n0)

@@ -1,0 +1,207 @@
+{
+  "id": "faber-growth-in-holiness",
+  "cover": "classic",
+  "name": {
+    "en-US": "Growth in Holiness, or the Progress of the Spiritual Life",
+    "pt-BR": "O Progresso na Vida Espiritual"
+  },
+  "author": {
+    "en-US": "Fr. Frederick William Faber",
+    "pt-BR": "Pe. Frederick William Faber"
+  },
+  "description": {
+    "en-US": "Faber's treatise of 1854 on the progress of the spiritual life: twenty-seven chapters on the desire of perfection, the mercy of God, liberty of spirit, mortification, prayer, temptations, distractions, lukewarmness, fervor and discretion, drawing on the saints and above all on St. Francis de Sales.",
+    "pt-BR": "O tratado de Faber (1854) sobre o progresso da vida espiritual: vinte e sete capítulos sobre o desejo da perfeição, a misericórdia de Deus, a liberdade de espírito, a mortificação, a oração, as tentações, as distrações, a tibieza, o fervor e a discrição, apoiados nos santos e, sobretudo, em São Francisco de Sales."
+  },
+  "composed": 1854,
+  "languages": [
+    "en-US"
+  ],
+  "work": "faber/growth-in-holiness",
+  "editions": {
+    "en-US": {
+      "editor": "Fr. Frederick William Faber (London: Richardson and Son, 1855)",
+      "year": 1855
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/growthinholiness00faberich",
+      "edition": "Growth in Holiness, or the Progress of the Spiritual Life (London: Richardson and Son, 1855), Internet Archive full-text OCR.",
+      "description": "The dedication, the analytic table of contents and the index are dropped; the preface is kept. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Fr. Frederick William Faber died in 1863 and the edition is of 1855, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "chapter-1",
+      "title": {
+        "en-US": "Chapter I. True Signs of Progress in the Spiritual Life"
+      }
+    },
+    {
+      "id": "chapter-2",
+      "title": {
+        "en-US": "Chapter II. Presumption and Discouragement"
+      }
+    },
+    {
+      "id": "chapter-3",
+      "title": {
+        "en-US": "Chapter III. How to Make the Most of our Signs of Progress"
+      }
+    },
+    {
+      "id": "chapter-4",
+      "title": {
+        "en-US": "Chapter IV. The Spirit in which we serve God"
+      }
+    },
+    {
+      "id": "chapter-5",
+      "title": {
+        "en-US": "Chapter V. What Holds us Back"
+      }
+    },
+    {
+      "id": "chapter-6",
+      "title": {
+        "en-US": "Chapter VI. External Conduct"
+      }
+    },
+    {
+      "id": "chapter-7",
+      "title": {
+        "en-US": "Chapter VII. The Ruling Passion"
+      }
+    },
+    {
+      "id": "chapter-8",
+      "title": {
+        "en-US": "Chapter VIII. Our Normal State"
+      }
+    },
+    {
+      "id": "chapter-9",
+      "title": {
+        "en-US": "Chapter IX. Patience"
+      }
+    },
+    {
+      "id": "chapter-10",
+      "title": {
+        "en-US": "Chapter X. Human Respect"
+      }
+    },
+    {
+      "id": "chapter-11",
+      "title": {
+        "en-US": "Chapter XI. Mortification our True Perseverance"
+      }
+    },
+    {
+      "id": "chapter-12",
+      "title": {
+        "en-US": "Chapter XII. The Human Spirit"
+      }
+    },
+    {
+      "id": "chapter-13",
+      "title": {
+        "en-US": "Chapter XIII. The Human Spirit Defeated"
+      }
+    },
+    {
+      "id": "chapter-14",
+      "title": {
+        "en-US": "Chapter XIV. Spiritual Idleness"
+      }
+    },
+    {
+      "id": "chapter-15",
+      "title": {
+        "en-US": "Chapter XV. Prayer"
+      }
+    },
+    {
+      "id": "chapter-16",
+      "title": {
+        "en-US": "Chapter XVI. Temptations"
+      }
+    },
+    {
+      "id": "chapter-17",
+      "title": {
+        "en-US": "Chapter XVII. Scruples"
+      }
+    },
+    {
+      "id": "chapter-18",
+      "title": {
+        "en-US": "Chapter XVIII. The Office of Spiritual Director"
+      }
+    },
+    {
+      "id": "chapter-19",
+      "title": {
+        "en-US": "Chapter XIX. Abiding Sorrow for Sin"
+      }
+    },
+    {
+      "id": "chapter-20",
+      "title": {
+        "en-US": "Chapter XX. The Right View of our Faults"
+      }
+    },
+    {
+      "id": "chapter-21",
+      "title": {
+        "en-US": "Chapter XXI. The Irreligious and the Elect"
+      }
+    },
+    {
+      "id": "chapter-22",
+      "title": {
+        "en-US": "Chapter XXII. The True Idea of Devotion"
+      }
+    },
+    {
+      "id": "chapter-23",
+      "title": {
+        "en-US": "Chapter XXIII. The Right Use of Spiritual Favors"
+      }
+    },
+    {
+      "id": "chapter-24",
+      "title": {
+        "en-US": "Chapter XXIV. Distractions and their Remedies"
+      }
+    },
+    {
+      "id": "chapter-25",
+      "title": {
+        "en-US": "Chapter XXV. Lukewarmness"
+      }
+    },
+    {
+      "id": "chapter-26",
+      "title": {
+        "en-US": "Chapter XXVI. Fervor"
+      }
+    },
+    {
+      "id": "chapter-27",
+      "title": {
+        "en-US": "Chapter XXVII. Discretion"
+      }
+    }
+  ]
+}
