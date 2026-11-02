@@ -1,0 +1,78 @@
+{
+  "id": "bonaventure-de-sex-alis-seraphim",
+  "cover": "classic",
+  "name": {
+    "la": "De sex alis Seraphim",
+    "en-US": "The Six Wings of the Seraph",
+    "pt-BR": "As seis asas do Serafim"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Tractatus de sex alis Seraphim: sex virtutes praelati, zelus iustitiae, pietas compatiens, patientia, exemplaritas vitae, circumspecta discretio et devotio ad Deum. Textus ex editione Quaracchi (Decem opuscula, 1900), ex scanno OCR, sine notis criticis.",
+    "en-US": "A treatise for superiors on the six wings of the seraph, six virtues of a prelate: zeal for justice, compassionate piety, patience, example of life, prudent discretion and devotion to God. The Latin is the Quaracchi text of the Decem opuscula (1900), from an OCR scan, without the editors’ critical notes.",
+    "pt-BR": "Tratado para superiores sobre as seis asas do serafim, seis virtudes do prelado: zelo da justiça, piedade compassiva, paciência, exemplaridade de vida, discrição prudente e devoção a Deus."
+  },
+  "composed": "c. 1260",
+  "languages": [
+    "la"
+  ],
+  "work": "bonaventure/de-sex-alis-seraphim",
+  "editions": {
+    "la": {
+      "editor": "PP. Collegii S. Bonaventurae (Quaracchi)",
+      "year": 1900
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/decemopusculaadt00bona",
+      "edition": "S. Bonaventurae Decem opuscula ad theologiam mysticam spectantia, ed. 2 (Ad Claras Aquas, Quaracchi: Collegium S. Bonaventurae, 1900).",
+      "description": "Archive.org OCR of the octavo edition. Page heads, the editors’ footnotes (variant readings and cross-references) and note markers are removed; line-end hyphens are joined; recognisable OCR slips are corrected by comparison with the other Quaracchi scans, so some remain.",
+      "tier": "A",
+      "tierEvidence": "Bonaventure died in 1274; the Quaracchi edition of 1900 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologus",
+      "title": {
+        "la": "Prologus"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. Seligendi apti superiores inter multos; incipientes indigent magistro ; magistro non indigentes dehent hahere quatuor perfectiones,"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. De prima ala praelatorum, quae est zelus iustitiae"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. De quarta praelatorum ala , quae est exemplaritas vitae"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. De quinta ala praelaiorum, quae est circumspecta discretio"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. De sexta ala praelatorim , quae est devotio ad Deum"
+      }
+    }
+  ]
+}
