@@ -1,0 +1,144 @@
+{
+  "id": "fenelon-quietisme-instruction-pastorale",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Querelle du quiétisme II : l’Instruction pastorale et les réponses de 1697",
+    "en-US": "The Quietism Dispute II: the Pastoral Instruction and the Replies of 1697",
+    "pt-BR": "Querela do quietismo II: a Instrução pastoral e as respostas de 1697"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "L’Instruction pastorale de Fénelon sur son livre (Cambrai, 1697), la réponse à la Déclaration des archevêque de Paris et évêques de Meaux et de Chartres, et la réponse à la Summa doctrinae de Bossuet. Défense d’un livre condamné en 1699 par Innocent XII.",
+    "en-US": "Fénelon’s Pastoral Instruction on his book (Cambrai, 1697), the reply to the Declaration of the Archbishop of Paris and the Bishops of Meaux and Chartres, and the reply to Bossuet’s Summa doctrinae. A defence of a book condemned in 1699 by Innocent XII.",
+    "pt-BR": "A Instrução pastoral de Fénelon sobre seu livro (Cambrai, 1697), a resposta à Declaração do arcebispo de Paris e dos bispos de Meaux e Chartres, e a resposta à Summa doctrinae de Bossuet. Defesa de um livro condenado em 1699 por Inocêncio XII."
+  },
+  "composed": "1697",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/instruction-pastorale-et-reponses",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1848
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://fr.wikisource.org/wiki/Livre:Œuvres_complètes_de_Fénelon_(1848-1852),_tome_2.djvu",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1848-1852 (éd. Gosselin, Saint-Sulpice), tome 2, p. 286–402; text layer of the Wikimedia Commons djvu scan.",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1848-52 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-instruction-pastorale",
+      "title": {
+        "fr-FR": "Instruction pastorale sur le livre intitulé Explication des Maximes des saints"
+      },
+      "children": [
+        {
+          "id": "01-instruction-pastorale-01",
+          "title": {
+            "fr-FR": "Instruction pastorale sur le livre intitulé Explication des Maximes des saints, partie 1"
+          }
+        },
+        {
+          "id": "01-instruction-pastorale-02",
+          "title": {
+            "fr-FR": "Instruction pastorale sur le livre intitulé Explication des Maximes des saints, partie 2"
+          }
+        },
+        {
+          "id": "01-instruction-pastorale-03",
+          "title": {
+            "fr-FR": "Instruction pastorale sur le livre intitulé Explication des Maximes des saints, partie 3"
+          }
+        },
+        {
+          "id": "01-instruction-pastorale-04",
+          "title": {
+            "fr-FR": "Instruction pastorale sur le livre intitulé Explication des Maximes des saints, partie 4"
+          }
+        },
+        {
+          "id": "01-instruction-pastorale-05",
+          "title": {
+            "fr-FR": "Instruction pastorale sur le livre intitulé Explication des Maximes des saints, partie 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "02-reponse-a-la-declaration",
+      "title": {
+        "fr-FR": "Réponse à la Déclaration de MM. de Paris, de Meaux et de Chartres"
+      },
+      "children": [
+        {
+          "id": "02-reponse-a-la-declaration-01",
+          "title": {
+            "fr-FR": "Réponse à la Déclaration de MM. de Paris, de Meaux et de Chartres, partie 1"
+          }
+        },
+        {
+          "id": "02-reponse-a-la-declaration-02",
+          "title": {
+            "fr-FR": "Réponse à la Déclaration de MM. de Paris, de Meaux et de Chartres, partie 2"
+          }
+        },
+        {
+          "id": "02-reponse-a-la-declaration-03",
+          "title": {
+            "fr-FR": "Réponse à la Déclaration de MM. de Paris, de Meaux et de Chartres, partie 3"
+          }
+        },
+        {
+          "id": "02-reponse-a-la-declaration-04",
+          "title": {
+            "fr-FR": "Réponse à la Déclaration de MM. de Paris, de Meaux et de Chartres, partie 4"
+          }
+        },
+        {
+          "id": "02-reponse-a-la-declaration-05",
+          "title": {
+            "fr-FR": "Réponse à la Déclaration de MM. de Paris, de Meaux et de Chartres, partie 5"
+          }
+        },
+        {
+          "id": "02-reponse-a-la-declaration-06",
+          "title": {
+            "fr-FR": "Réponse à la Déclaration de MM. de Paris, de Meaux et de Chartres, partie 6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "03-reponse-summa-doctrinae",
+      "title": {
+        "fr-FR": "Réponse à l’ouvrage de M. de Meaux intitulé Summa doctrinae"
+      },
+      "children": [
+        {
+          "id": "03-reponse-summa-doctrinae-01",
+          "title": {
+            "fr-FR": "Réponse à l’ouvrage de M. de Meaux intitulé Summa doctrinae, partie 1"
+          }
+        },
+        {
+          "id": "03-reponse-summa-doctrinae-02",
+          "title": {
+            "fr-FR": "Réponse à l’ouvrage de M. de Meaux intitulé Summa doctrinae, partie 2"
+          }
+        }
+      ]
+    }
+  ]
+}
