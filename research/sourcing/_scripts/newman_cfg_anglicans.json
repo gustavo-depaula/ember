@@ -1,0 +1,76 @@
+{
+ "slug": "difficulties-felt-by-anglicans",
+ "id": "newman-difficulties-felt-by-anglicans",
+ "name": "Certain Difficulties Felt by Anglicans in Catholic Teaching, Volume I",
+ "name_pt": "Algumas Dificuldades dos Anglicanos com o Ensino Católico, Volume I",
+ "desc": "Twelve lectures Newman gave in 1850 in London, addressed to those drawn toward the Catholic Church but held back by difficulties. The first seven answer the claim that the Church of England is the Church of the nation and show where the Oxford Movement of 1833 was led. The last five meet the objections drawn from the social and religious state of Catholic countries, differences among Catholics, heretical bodies and ecclesiastical history.",
+ "desc_pt": "Doze conferências que Newman deu em Londres em 1850 a quem se sentia atraído pela Igreja Católica mas retido por dificuldades. As sete primeiras respondem à pretensão de que a Igreja da Inglaterra é a Igreja da nação e mostram aonde o Movimento de Oxford de 1833 foi conduzido. As cinco últimas enfrentam as objeções tiradas do estado social e religioso dos países católicos, das divergências entre católicos, dos corpos heréticos e da história eclesiástica.",
+ "composed": "1850",
+ "editor": "John Henry Newman (Longmans, uniform edition, vol. 1; Newman Reader)",
+ "year": 1850,
+ "index": "anglicans/volume1/index.html",
+ "edition": "Certain Difficulties felt by Anglicans in Catholic Teaching considered, vol. 1 (London: Longmans, Green, uniform edition; first published 1850), as transcribed by the Newman Reader.",
+ "note": "",
+ "chapters": [
+  [
+   "anglicans/volume1/lecture1.html",
+   "lecture-1",
+   null
+  ],
+  [
+   "anglicans/volume1/lecture2.html",
+   "lecture-2",
+   null
+  ],
+  [
+   "anglicans/volume1/lecture3.html",
+   "lecture-3",
+   null
+  ],
+  [
+   "anglicans/volume1/lecture4.html",
+   "lecture-4",
+   null
+  ],
+  [
+   "anglicans/volume1/lecture5.html",
+   "lecture-5",
+   null
+  ],
+  [
+   "anglicans/volume1/lecture6.html",
+   "lecture-6",
+   null
+  ],
+  [
+   "anglicans/volume1/lecture7.html",
+   "lecture-7",
+   null
+  ],
+  [
+   "anglicans/volume1/lecture8.html",
+   "lecture-8",
+   null
+  ],
+  [
+   "anglicans/volume1/lecture9.html",
+   "lecture-9",
+   null
+  ],
+  [
+   "anglicans/volume1/lecture10.html",
+   "lecture-10",
+   null
+  ],
+  [
+   "anglicans/volume1/lecture11.html",
+   "lecture-11",
+   null
+  ],
+  [
+   "anglicans/volume1/lecture12.html",
+   "lecture-12",
+   null
+  ]
+ ]
+}

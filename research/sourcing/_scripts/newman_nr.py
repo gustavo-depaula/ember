@@ -98,6 +98,7 @@ def norm(b):
 
 def blocks(s):
     out = []
+    s = re.sub(r'(<p\b[^>]*>(?:(?!</p>|<p\b).)*?)(?=<p\b)', r'\1</p>', s, flags=re.S | re.I)
     s = re.sub(r'<table\b(?:(?!<table\b).)*?</table>', lambda m: '' if 'href="#' in m.group(0) and m.group(0).count('<p') < 3 or '#</a>' in m.group(0) else m.group(0), s, flags=re.S | re.I)
     for m in re.finditer(r'<(h[1-4]|p|blockquote|pre)\b[^>]*>(.*?)</\1>|<hr>', s, re.S | re.I):
         if m.group(0) == '<hr>': out.append(('hr', '')); continue

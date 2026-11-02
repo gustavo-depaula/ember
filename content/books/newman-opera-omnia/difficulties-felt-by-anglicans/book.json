@@ -1,0 +1,111 @@
+{
+  "id": "newman-difficulties-felt-by-anglicans",
+  "cover": "classic",
+  "name": {
+    "en-US": "Certain Difficulties Felt by Anglicans in Catholic Teaching, Volume I",
+    "pt-BR": "Algumas Dificuldades dos Anglicanos com o Ensino Católico, Volume I"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "Twelve lectures Newman gave in 1850 in London, addressed to those drawn toward the Catholic Church but held back by difficulties. The first seven answer the claim that the Church of England is the Church of the nation and show where the Oxford Movement of 1833 was led. The last five meet the objections drawn from the social and religious state of Catholic countries, differences among Catholics, heretical bodies and ecclesiastical history.",
+    "pt-BR": "Doze conferências que Newman deu em Londres em 1850 a quem se sentia atraído pela Igreja Católica mas retido por dificuldades. As sete primeiras respondem à pretensão de que a Igreja da Inglaterra é a Igreja da nação e mostram aonde o Movimento de Oxford de 1833 foi conduzido. As cinco últimas enfrentam as objeções tiradas do estado social e religioso dos países católicos, das divergências entre católicos, dos corpos heréticos e da história eclesiástica."
+  },
+  "composed": "1850",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/difficulties-felt-by-anglicans",
+  "editions": {
+    "en-US": {
+      "editor": "John Henry Newman (Longmans, uniform edition, vol. 1; Newman Reader)",
+      "year": 1850
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.newmanreader.org/works/anglicans/volume1/index.html",
+      "edition": "Certain Difficulties felt by Anglicans in Catholic Teaching considered, vol. 1 (London: Longmans, Green, uniform edition; first published 1850), as transcribed by the Newman Reader.",
+      "description": "12 chapters: Newman Reader page numbers, navigation and its editorial remarks are dropped; Newman's own notes are kept as footnotes.  Raw page text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890 and the text is of a Longmans impression (or earlier edition) before 1930. The Newman Reader page footers claim copyright in the site's transcription (c) 2007 NINS; a plain transcription of a public-domain text adds no authorship under US law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "lecture-1",
+      "title": {
+        "en-US": "Lecture 1. On the Relation of the National Church to the Nation"
+      }
+    },
+    {
+      "id": "lecture-2",
+      "title": {
+        "en-US": "Lecture 2. The Movement of 1833 Foreign to the National Church"
+      }
+    },
+    {
+      "id": "lecture-3",
+      "title": {
+        "en-US": "Lecture 3. The Life of the Movement of 1833 not derived from the National Church"
+      }
+    },
+    {
+      "id": "lecture-4",
+      "title": {
+        "en-US": "Lecture 4. The Providential Course of the Movement of 1833 Not in the Direction of the National Church"
+      }
+    },
+    {
+      "id": "lecture-5",
+      "title": {
+        "en-US": "Lecture 5. The Providential Course of the Movement of 1833 Not in the Direction of a Party in the National Church"
+      }
+    },
+    {
+      "id": "lecture-6",
+      "title": {
+        "en-US": "Lecture 6. The Providential Course of the Movement of 1833 Not in the Direction of a Branch Church"
+      }
+    },
+    {
+      "id": "lecture-7",
+      "title": {
+        "en-US": "Lecture 7. The Providential Course of the Movement of 1833 Not in the Direction of a Sect"
+      }
+    },
+    {
+      "id": "lecture-8",
+      "title": {
+        "en-US": "Lecture 8. The Social State of Catholic Countries No Prejudice to the Sanctity of the Church"
+      }
+    },
+    {
+      "id": "lecture-9",
+      "title": {
+        "en-US": "Lecture 9. The Religious State of Catholic Countries No Prejudice to the Sanctity of the Church"
+      }
+    },
+    {
+      "id": "lecture-10",
+      "title": {
+        "en-US": "Lecture 10. Differences Among Catholics No Prejudice to the Unity of the Church"
+      }
+    },
+    {
+      "id": "lecture-11",
+      "title": {
+        "en-US": "Lecture 11. Heretical and Schismatical Bodies No Prejudice to the Catholicity of the Church"
+      }
+    },
+    {
+      "id": "lecture-12",
+      "title": {
+        "en-US": "Lecture 12. Ecclesiastical History No Prejudice to the Apostolicity of the Church"
+      }
+    }
+  ]
+}
