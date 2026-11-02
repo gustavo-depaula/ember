@@ -1,0 +1,78 @@
+{
+  "id": "ruusbroec-vier-becoringhen",
+  "cover": "classic",
+  "name": {
+    "dum": "Dat boec vanden vier becoringhen",
+    "en-US": "The Four Temptations",
+    "pt-BR": "As Quatro Tentações"
+  },
+  "author": {
+    "dum": "Jan van Ruusbroec (1293-1381)",
+    "en-US": "Bl. John Ruusbroec (1293-1381)",
+    "pt-BR": "Bem-aventurado João Ruusbroec (1293-1381)"
+  },
+  "description": {
+    "dum": "Korte brief over de vier bekoringen van de mens. Middelnederlandse tekst van J. B. David (1861).",
+    "en-US": "A short treatise on the four temptations of man. The Middle Dutch text of J. B. David (1861).",
+    "pt-BR": "Breve tratado sobre as quatro tentações do homem. Texto em neerlandês médio de J. B. David (1861)."
+  },
+  "composed": "c. 1350",
+  "languages": [
+    "dum"
+  ],
+  "work": "ruusbroec/vier-becoringhen",
+  "editions": {
+    "dum": {
+      "editor": "Jan Baptist David",
+      "year": 1861
+    }
+  },
+  "sources": [
+    {
+      "language": "dum",
+      "url": "https://www.dbnl.org/tekst/ruus001vlae04_01/",
+      "edition": "Jan van Ruusbroec, Werken, ed. J. B. David, deel 4: Dat boec vanden vier becoringhen. (Gent: Maetschappy der Vlaemsche Bibliophilen, 1861).",
+      "description": "Keyed text from DBNL (TEI XML, 'auteursrechtvrij'), converted by research/sourcing/_scripts/rhineland/ruus_build.py. Line-end hyphens joined; page and line breaks dropped. David's apparatus is kept as footnotes (manuscript variants F, G, I, L, M, D, Surius' Latin readings 'Sur.'). David's Dutch preface, manuscript list, misprint list and glossary are not included.",
+      "tier": "A",
+      "tierEvidence": "Nineteenth-century critical edition, marked 'Auteursrechtvrij' on DBNL."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologhe",
+      "title": {
+        "dum": "Prologhe"
+      }
+    },
+    {
+      "id": "c001",
+      "title": {
+        "dum": "1. [Ierste Becoringhe]"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "dum": "2. [Die andere Becoringhe]"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "dum": "3. [Die derde Becoringhe]"
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "dum": "4. [Die vierde Becoringhe]"
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "dum": "5. [Hoe yeghewele mensche dese iiij Becoringhen wederstaen moghe]"
+      }
+    }
+  ]
+}
