@@ -1,0 +1,118 @@
+{
+  "id": "hugh-expositio-in-regulam-smith",
+  "cover": "classic",
+  "name": {
+    "en-US": "Explanation of the Rule of St. Augustine",
+    "pt-BR": "Explicação da Regra de Santo Agostinho"
+  },
+  "author": {
+    "la": "Hugo de Sancto Victore",
+    "en-US": "Hugh of St. Victor",
+    "pt-BR": "Hugo de São Vítor"
+  },
+  "description": {
+    "en-US": "Dom Aloysius Smith’s English version (1911) of the commentary on the Rule of St. Augustine that tradition attributes to Hugh of St. Victor (doubtful in Migne), in twelve chapters, one for each chapter of the Rule. A separate book from the Latin Expositio in regulam, which divides the text differently.",
+    "pt-BR": "A versão inglesa de Dom Aloysius Smith (1911) do comentário à Regra de Santo Agostinho atribuído a Hugo de São Vítor, em doze capítulos, um para cada capítulo da Regra."
+  },
+  "composed": "c. 1130 (translation 1911)",
+  "languages": [
+    "en-US"
+  ],
+  "work": "hugh/expositio-in-regulam",
+  "editions": {
+    "en-US": {
+      "translator": "Dom Aloysius Smith",
+      "year": 1911
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/explanationofthe00vicuoft",
+      "edition": "Explanation of the Rule of St. Augustine by Hugh of St. Victor, translated by Dom Aloysius Smith (London: Sands, 1911; Edinburgh: printed by the Edinburgh Press); archive.org OCR text.",
+      "description": "The preface and the twelve chapters of the translation. Running heads and page numbers are removed; the OCR carries a few slips. The translator’s contents list and any footnotes in the scan are not kept.",
+      "tier": "A",
+      "tierEvidence": "Published in London in 1911, before 1931: public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "en-US": "Chapter I. Of the Love of God and the Neighbour, and of the Union of Hearts and Community of Goods"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "en-US": "Chapter II. Of Humility"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "en-US": "Chapter III. Of Prayer and Fasting"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "en-US": "Chapter IV. Of Nourishing Both Soul and Body"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "en-US": "Chapter V. Of Caring For the Sick"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "en-US": "Chapter VI. Of Interior and Exterior Deportment"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "en-US": "Chapter VII. Of the Correction of Our Neighbour"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "en-US": "Chapter VIII. Of Care in the Custody of the Common Goods"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "en-US": "Chapter IX. Of Washing the Clothes, and of Baths"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "en-US": "Chapter X. Of Asking Pardon and Forgiving Offences"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "en-US": "Chapter XI. Of Obedience"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "en-US": "Chapter XII. Of Frequent Meditation on the Rule"
+      }
+    }
+  ]
+}
