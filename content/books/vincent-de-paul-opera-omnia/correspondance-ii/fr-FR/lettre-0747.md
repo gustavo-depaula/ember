@@ -1,0 +1,23 @@
+# Lettre 747. - à Lambert aux Couteaux
+
+De Paris, ce 18 avril 1645.
+
+Monsieur,
+
+La grâce de N.-S. soit avec vous pour jamais !
+
+Ces lignes ne sont que pour vous donner avis que le nombre des missionnaires de notre maison du ciel s’est augmenté depuis peu par l’heureux décès d’un de nos étudiants ; c’est notre bon frère Jamain [^1], natif de Verdun, à qui Dieu a fait quitter la théologie scholastique pour aller apprendre en un instant la céleste. Sa vie exemplaire et sa mort sainte nous font croire pieusement qu’il jouit déjà de l’heureuse immortalité avec les saints. Mon dessein n’est pas de vous étaler ici en détail ses saintes actions, tant pource que je n’en ai pas le temps qu’à cause de ce que nous n’avons pas encore fait la conférence sur le sujet de sa vie et de sa mort. Il me suffira pour l’heure de vous dire qu’il ne me souvient point d’avoir jamais remarqué en lui aucun vice et qu’il avait en un haut degré les vertus qui composent l’esprit d’un vrai missionnaire, particulièrement la simplicité, l’humilité, la douceur, la soumission et l’exactitude, non seulement dans le séminaire, mais encore dans l’école, où les plus fervents pour l’ordinaire se relâchent. Il a été plusieurs fois malade, et en cet état a toujours témoigné une grande patience et résignation à la volonté de Dieu, quoique l’interruption de ses études lui donnât un grand sujet de mortification. La dernière maladie qu’il a eue n’a duré que huit jours ; mais il a plus fait et souffert pour Jésus-Christ en cette seule semaine qu’en plusieurs années de sa vie, à raison que la peine qu’il endurait était plus grande, et la vertu qu’il pratiquait plus difficile ; en sorte qu’on s’étonnait comment il pouvait seulement penser à Dieu. Ce mal le saisit tout à coup le quatrième dimanche de carême. C’était une colique fort violente qui, au bout de quelques jours, se changea en une inflammation de poumon, qui en fut bientôt pourri. Il n’est pas croyable combien l’oppression qu’il avait était grande et la douleur cuisante ; et avec cela il témoignait une patience extraordinaire et une notable égalité d’esprit. Quand on lui annonça les nouvelles de sa prochaine mort, il témoigna y être déjà tout résolu, disant sans se troubler : "Eh bien ! Monsieur, que faut-il donc que je fasse ?" Il reçut tous ses sacrements avec une dévotion et tranquillité non communes et eut le bonheur de gagner le jubilé, et fut quasi jusqu’au dernier soupir toujours dans la pratique des vertus qui méritent le paradis ; car il en faisait de fois à autre des actes ou de cœur ou de bouche, particulièrement quand quelqu’un lui en parlait. Il ne fut que fort peu dans l’agonie, Dieu l’ayant voulu possible récompenser en cela, en considération de ce qu’il avait assez combattu en santé par la vertu de mortification.
+
+Je ne saurais taire les petites circonstances qu’on a remarquées devant et après sa mort, qui me semblent être de bon augure pour ce bon frère. Il a eu le bonheur : 1° de baiser dévotement la croix immédiatement avant que rendre l’esprit ; 2° d’expirer à l’instant qu’on finissait les recommandations de l’âme, à ces paroles : *pervenire mereatur ad gloriam regni caelestis* ; 3° le dernier jour de sa vie a été le dimanche de la Passion de N.-S. et ensemble de saint François de Paule, dont il avait si bien imité la simplicité et humilité ; 4° ce fut aussi le jour de l’ouverture du jubilé ; 5° il a été inhumé vis-à-vis du crucifix de notre église Saint-Lazare ; 6° quelques jours avant son décès, il prédit, contre la pensée du médecin, qu’il ne passerait pas le dimanche.
+
+Il y a grande apparence que tout cela n’est pas arrivé fortuitement, ains que Dieu l’a ainsi permis pour mieux nous donner à connaître l’heureux état de cette belle âme. Cela n’empêchera pas, s’il vous plaît, que vous ne lui rendiez les devoirs accoutumés, ainsi que vous avez fait aux autres de notre compagnie et comme nous avons déjà fait ici, ayant, de plus, chanté un service so- lennel le jour de son enterrement, qui se fit le lundi 3 avril. Dieu nous fasse la grâce de l’imiter en ses vertus, pour le suivre un jour dans la gloire qu’il possède !
+
+Je suis, en l’amour de N.-S. et de sa sainte Mère, Monsieur, votre très humble et très obéissant serviteur.
+
+VINCENT DEPAUL.
+
+Suscription. A Monsieur Monsieur Lambert, supérieur des prêtres de la Mission de Richelieu, à Richelieu. [^2]
+
+[^1]: Martin Jamain était entré à Saint-Lazare le 8 octobre 1640, à l’âge de vingt et un ans, et avait fait les vœux le 10 octobre 1642.
+
+[^2]: L. s. — Dossier de Turin, original. Cette lettre a été envoyée aux diverses Misons de la congrégation de la Mission.

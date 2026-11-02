@@ -1,0 +1,7 @@
+# Lettre 645. Les Autorités de Saint-Mihiel, à Saint Vincent
+
+1643
+
+Tout le corps de la ville de Saint-Mihiel et tous les membres d’icelle en particulier vous rendent un million de grâces des peines et des soins que vous avez daigné prendre pour leur soulagement, tant par la distribution des aumônes et assistance des pauvres malades et nécessiteux, que par la décharge d’une partie du fardeau de notre garnison ; vous suppliant très humblement de nous continuer votre protection et vos aumônes, desquelles cette pauvre et désolée ville a autant de besoin que jamais ; étant très véritable que, par ce moyen, une infinité de personnes sont en vie aujourd’hui qui n’y seraient pas restées sans cela ; et si l’on vient à les retrancher ou ôter tout à fait, il faut de nécessité qu’une grande partie des habitants meurent de faim, ou qu’ils aillent chercher leur vie ailleurs ; sans parler des distributions que vous avez fait faire aux couvents, par le moyen desquelles ils ont en partie subsisté, et de l’assistance que tant d’autres personnes honteuses, même de qualité, ont reçue de vos prêtres dans leurs maladies et nécessités. Nous ne pouvons assez louer les grands soins et le travail qu’ils y ont pris, ni vous demander assez instamment la continuation des mêmes assistances pour tant de malades et de nécessiteux. outre la gloire et le mérite que vous en aurez devant Dieu [^1]
+
+[^1]: Abelly, *op cit* 1 II, chap XI sect I 1er éd p 382

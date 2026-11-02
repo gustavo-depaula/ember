@@ -1,0 +1,7 @@
+# Lettre 584. Un Ecclésiastique de la Conférence de Pontoise — À Saint Vincent
+
+Mai 1642.
+
+La petite compagnie de la conférence des ecclésiastiques de Pontoise m’a obligé de vous écrire pour vous témoigner les satisfactions que nous ressentons tous de notre petite assemblée. Il faut que je vous confesse qu’au commencement nous ne savions pas encore ce que c’était ; mais à présent nous goûtons tous les jours de plus en plus les grâces et les bénédictions qu’il plaît à Notre-Seigneur d’y verser. Nous voyons tous quel profit nous en peut arriver en notre particulier et dans tout le corps de l’Église. C’est à vous, Monsieur, à qui, après Dieu, nous avons toutes les obligations de nous avoir reçus pour être associés à votre bonne et vertueuse compagnie de Paris. Nous avons tiré de vous les premières instructions pour cette petite compagnie qui nous ont servi de semence pour produire plusieurs biens qui s’y présentent tous les jours à faire et auxquels Dieu donne accroissement et bénédiction. Nus vous demandons une grâce, qui est que comme nous ne sommes encore que des enfants en la vertu ; qui n’avons pas assez de force pour nous soutenir et pour nous conduire, il vous plaise nous accorder de fois à autre la visite de quelqu’un des ecclésiastiques de votre compagnie de Paris qui nous apprenne à marcher avec plus de solidité dans les exercices que nous commençons tous avec grand courage. Nous vous découvrons ainsi notre faiblesse, afin que vous nous fassiez le bien de nous vouloir assister. [^1]
+
+[^1]: Abelly, *Op. cit., *1. II, chap. III, sect. v, p. 266.

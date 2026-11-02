@@ -1,0 +1,11 @@
+# Lettre 715. À Bernard Codoing, Supérieur, à Rome
+
+9 juillet 1644.
+
+Ceux qui savent bien ce que c’est des frères dans une compagnie estiment que nous avons beaucoup fait de les avoir introduits et conservés dans l’usage de leur habit court, en sorte qu’ils ne pensent point au long, pour plusieurs et importantes raisons. J’avoue qu’il y a quelque raison particulière d’en user autrement en Italie, quoique je ne tienne pas l’habit long beaucoup plus efficace pour les empêcher du mal. Hélas ! Monsieur, en quel désordre ne voyons-nous pas tomber les religieux frères qui quêtent seuls en cette ville ! Au nom de Dieu, Monsieur, essayons tous les moyens imaginables avant que d’introduire une pratique générale pour une maison et pour un lieu particulier. Nous verrons avec le temps [^1]
+
+De dire que, votre revenu manquant ou diminuant par la revente que le roi fait des coches, la maison de Saint-Lazare doive emprunter et s’engager pour vous faire subsister, tant pource qu’elle ne défaudra pas d’assistance à Paris, que pource qu’il n’est pas expédient qu’elle soit si riche, vu que, si elle l’était, ceux qui ont prétendu d’autres fois de l’attirer à eux rappelleraient leur désir ; je réponds, premièrement, que personne ne nous assiste ; l’on imagine que nous sommes dans l’opulence, quelque chose que nous disions au contraire ; 2° que, si nous la surchargeons d’emprunts, les mal affectionnés prendront sujet de là de nous déférer aux puissances ; et, en 3° lieu, qu’il n’est pas juste d’engager le bien qui appartient originairement à cette maison pour l’établissement de la maison de Rome. Oh ! non, Monsieur, qu’il n’y faut pas penser, ni vous ne devez aller si vite. Les œuvres de Dieu ne marchent pas de la sorte ; elles se font d’elles-mêmes ; et celles qu’il ne fait pas périssent bientôt. Je vous dis ceci souvent ; votre piété le supportera, s’il lui plaît, et s’assurera que je n’ai point de plus grande consolation en l’œuvre de notre vocation que celle de penser que nous avons suivi l’ordre de la sainte Providence, qui veut des temps pour la production de ses œuvres. Allons doucement dans nos prétentions. [^2]
+
+[^1]: Ici se termine le premier fragment.
+
+[^2]: Reg. 2, pp. 26 et 226.

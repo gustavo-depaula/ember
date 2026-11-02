@@ -1,0 +1,7 @@
+# Lettre 720. À Bernard Codoing, Supérieur, à Rome
+
+Du 6 août 1644.
+
+Je vois par votre lettre du 10 encore un nouveau dessein d’élever les jeunes enfants jusqu’à l’âge de 18 ans aux lettres humaines et comme vous abandonnez le dessein du séminaire des ecclésiastiques, comme aussi les propositions qui regardent les biens à faire à l’égard de la jeunesse de Catalogne. A quoi je vous dirai, Monsieur, ce que je vous ai dit d’autres fois, que je crains que vous vous pressiez trop en toutes choses. C’est aussi la pensée des externes qui voient vos allures de delà ; et je ne vous cèlerai pas qu’un seigneur de condition me l’a dit lui-même. Et cela se fait, pource que vous vous occupez incessamment des pensées et des moyens de faire progrès, et vous empressez dans l’exécution. Et quand vous en entreprenez quelqu’une qui ne réussit pas à votre gré, vous parlez de changer, aux premières difficultés qui se présentent. Au nom de Dieu, Monsieur, pensez à ceci et à ce que je vous en ai dit d’autres fois, et ne vous laissez point emporter à l’impétuosité des mouvements de l’esprit. Ce qui nous trompe pour l’ordinaire est l’apparence du bien selon la raison humaine, qui n’atteint jamais ou rarement la divine. Je vous ai dit d’autres fois, Monsieur, que les choses de Dieu se font par elles-mêmes et que la vraie sagesse consiste à suivre la Providence pas à pas. Et assurez-vous de la vérité d’une maxime qui paraît paradoxe, que qui s’empresse recule aux choses de Dieu. [^1]
+
+[^1]: Reg. 2, p. 227.

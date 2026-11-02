@@ -1,0 +1,17 @@
+# Lettre 708. Alain de Solminihac Évêque de Cahors, — À Saint Vincent
+
+De Saint-Céré [^1], ce 1er de mai 1644.
+
+Monsieur,
+
+Ayant appris les puissantes sollicitations que les religionnaires de ce lieu font faire pour y faire rétablir le prêche, qui a été ôté par arrêt du parlement de Toulouse, j’en ai écrit à la reine, suppliant Sa Majesté de faire faire commandement à Monsieur le chancelier de confirmer cet arrêt comme tout plein de justice. Depuis être arrivé en cette ville pour y faire la visite, j’ai appris par un des principaux habitants qui vint de Paris, qui m’a dit vous avoir parlé de cet affaire que Mademoiselle de Bouillon sollicite et fait solliciter avec grande passion ; et comme elle n’a point de droit pour y demander le rétablissement du prêche elle allègue pour ses raisons que c’est un lieu qu’elle a choisi pour son séjour et qu’il est bien raisonnable qu’elle en ait un où elle le puisse faire dire. C’est une pure invention pour obliger Monsieur le chancelier à le lui accorder ; ce qui serait de très pernicieuse conséquence et très préjudiciable à la religion. C’est pourquoi je vous supplie, au nom de Dieu, de lui dire et lui faire bien entendre le grand préjudice que cela causerait non seulement à tous les catholiques de cette ville et de mon diocèse, mais encore de tout le royaume. S’il ne confirmait cet arrêt du parlement de Toulouse si célèbre, qui a été donné avec tant de connaissance de cause, les plus fameux avocats du parlement ayant plaidé cet affaire avec grand apparat, ledit arrêt ayant été loué en forme et distribué par le royaume, quelle honte nous serait-ce maintenant s’il n’était confirmé ! Quel préjudice à la religion ! Quel avantage n’en prendraient point les adversaires ! Certes, s’il le faisait, ce que je ne saurais croire de lui je le lui reprocherais au jour du jugement et la perte des âmes desquelles il en serait la cause ; car l’hérésie s’en va par terre en ces quartiers, si cet arrêt subsiste comme il le doit ; et depuis qu’il a été donné, six entières familles des principales de cette ville se sont converties, et les autres sont tellement ébranlées qu’elles ne tiendront qu’à un peu d’espérance de ce rétablissement Depuis peu j’en ai reçu cinq en cette ville ou dans le voisinage mes missionnaires deux, et un de mes vicaires forains un autre ; dans deux ou trois jours il y en a qui ont donné parole d’abjurer l’hérésie entre nos mains. Enfin j’espère qu’elle sera bientôt par terre, avec l’assistance de Monsieur le chancelier, laquelle je vous prie de lui dire que je lui demande au nom de Dieu, car il s’agit du salut de quantité d’âmes desquelles il répondrait au jour du jugement ; et qu’il ne s’arrête point à cet esprit de Mademoiselle de Bouillon, qui est forcené de cette hérésie qu’il ne s’agit point ici d’un affaire d’Etat mais de contenter l’esprit d’une fille, qui semble n’avoir de passion que pour faire subsister le prêche Vous m’obligerez, quand vous verrez la reine, de lui dire que je supplie encore derechef Sa Majesté de faire commandement à Monsieur le chancelier de confirmer notre arrêt. Je vous fais d’autant plus volontiers cette prière que cet affaire est important pour la gloire de Dieu et singulièrement pour mon diocèse.
+
+A l’instant que j’ai achevé ma présente, un de nos pauvres errants s’est venu jeter entre nos bras, et je viens de le recevoir en l’Église solennellement
+
+ALAIN
+
+év. de Cahors [^2]
+
+[^1]: Chef-lieu de canton de l’arrondissement de Figeac (Lot).
+
+[^2]: Arch. de l’évêché de Cahors, cahier, copie.

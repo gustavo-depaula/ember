@@ -1,0 +1,13 @@
+# Lettre 691. Au Même
+
+[Entre 1643 et 1652] [^1]
+
+Je vous supplie très humblement, Monseigneur, de me supporter encore cette fois, si j’ose vous faire l’ouverture d’un accommodement. Je sais bien que vous ne doutez pas que c’est l’affection de mon pauvre cœur pour votre service qui me le fait désirer ; mais vous pourriez trouver mauvais, qu’étant si peu intelligent que je suis, et que, connaissant que vous n’avez pas agréé la première proposition que je vous en ai faite, j’entreprenne de vous en faire une seconde ; aussi ne le fais-je pas de moi-même, mais par l’ordre de Monsieur votre rapporteur, lequel je suis allé voir depuis deux jours, pour lui recommander votre cause et lui déclarer les conduites admirables que Notre-Seigneur tient sur vous, Monseigneur, et par vous sur votre diocèse. A quoi il m’a répondu qu’il était votre très humble serviteur et une des personnes du monde qui vous estime et qui vous honore le plus, et que dans cet esprit il me priait de vous mander que, si vous le croyez, vous sortirez amiablement de tous ces différends. Il m’a apporté plusieurs raisons pour cela et entre autres celle-ci, qu’il est de la bienséance pour un si grand prélat que vous, de terminer les affaires par cette voie, surtout ayant à faire à votre clergé, où les esprits sont disposés à la révolte et dans le dessein de vous tracasser toute votre vie. Et comme il voit l’air du Conseil [^2], il appréhende l’événement des poursuites, parce que plusieurs de ceux qui le composent, ne sachant pas la sainte vie que vous menez, ni les droites intentions qui vous font agir de la sorte, pourront penser qu’il y a quelque chose de contraire au support et à la douceur convenable à votre dignité.
+
+Je vous supplie très humblement, Monseigneur, d’excuser ma hardiesse et de ne pas considérer ce que je vous représente comme venant de moi, mais de Monsieur votre rapporteur, qui est l’un des plus sages du siècle et l’un des meilleurs juges du monde. Il y a plus de personnes chez lui que chez les premiers chefs de la justice, parce que chacun s’estime heureux de l’avoir pour rapporteur. Je prie Dieu qu’il ait agréable de redonner la paix à votre Église et le repos à votre esprit. Vous savez le pouvoir que vous avez sur moi et l’affection singulière que Dieu m’a donnée pour votre ser- vice ; si donc vous me jugez digne d’y contribuer quelque chose, sa divine bonté sait que je m’y emploierai de tout mon cœur. [^3]
+
+[^1]: Il résulte de ce que dit Abelly que cette lettre a suivi d’assez près la lettre 690.
+
+[^2]: Le conseil de conscience.
+
+[^3]: Abelly, *op. cit., *t. III, chap. XI, sect. IV, P. 142.
