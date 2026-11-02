@@ -1,0 +1,63 @@
+{
+  "id": "more-sadness-of-christ",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Sadness of Christ (History of the Passion)",
+    "pt-BR": "A Tristeza de Cristo (História da Paixão)"
+  },
+  "author": {
+    "en-US": "St. Thomas More",
+    "pt-BR": "São Tomás More"
+  },
+  "description": {
+    "en-US": "More's last work, written in the Tower of London in 1534-35 and left unfinished at the words 'they laid hands on Jesus': a meditation on the sorrow, weariness, fear and prayer of Christ in the Garden (De Tristitia Christi). This is Mary Basset's English translation of the Latin (1557), in modern spelling edited by Mgr P. E. Hallett (1941).",
+    "pt-BR": "A última obra de More, escrita na Torre de Londres em 1534-35 e deixada inacabada nas palavras «puseram as mãos em Jesus»: meditação sobre a tristeza, o tédio, o pavor e a oração de Cristo no Horto (De Tristitia Christi). Tradução inglesa de Mary Basset (1557), em grafia moderna, editada por Mons. P. E. Hallett (1941)."
+  },
+  "composed": 1535,
+  "languages": [
+    "en-US"
+  ],
+  "work": "more/de-tristitia-christi",
+  "editions": {
+    "en-US": {
+      "translator": "Mary Basset (1557), modernised and edited by P. E. Hallett (London: Burns Oates & Washbourne, 1941)",
+      "year": 1941
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://thomasmorestudies.org/wp-content/uploads/2020/09/sadness-of-christ-bassett.pdf",
+      "edition": "St. Thomas More's History of the Passion, tr. Mary Basset, modern spelling ed. P. E. Hallett (London: Burns Oates & Washbourne, 1941), text-layer PDF distributed by the Center for Thomas More Studies.",
+      "description": "Introduction, additional note, the printer's address and the Exposition, with Hallett's footnotes kept. The Latin De Tristitia Christi has no usable e-text (see PROBLEMS.md). Raw text in sources/en-US-originals/.",
+      "tier": "B",
+      "tierEvidence": "Basset's 1557 translation and More's text are public domain; Hallett's 1941 modernisation is freely distributed on the Center for Thomas More Studies website."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction by P. E. Hallett"
+      }
+    },
+    {
+      "id": "additional-note",
+      "title": {
+        "en-US": "Additional Note"
+      }
+    },
+    {
+      "id": "printer-to-the-reader",
+      "title": {
+        "en-US": "The Printer to the Gentle Reader"
+      }
+    },
+    {
+      "id": "exposition",
+      "title": {
+        "en-US": "An Exposition of a Part of the Passion"
+      }
+    }
+  ]
+}
