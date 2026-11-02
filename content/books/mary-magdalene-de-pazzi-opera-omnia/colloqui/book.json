@@ -1,0 +1,335 @@
+{
+  "id": "pazzi-colloqui",
+  "name": {
+    "it": "I colloqui",
+    "en-US": "The Colloquies",
+    "pt-BR": "Os colóquios"
+  },
+  "author": {
+    "it": "Santa Maria Maddalena de' Pazzi",
+    "en-US": "St. Mary Magdalene de' Pazzi",
+    "pt-BR": "Santa Maria Madalena de Pazzi"
+  },
+  "description": {
+    "it": "Il secondo libro dei manoscritti originali (25 dicembre 1584 - 4 giugno 1585): i colloqui serali delle suore con suor Maria Maddalena dopo le estasi, e le parole delle estasi stesse raccolte dalle consorelle, con le «cardiografie», il fidanzamento spirituale e le visioni della Chiesa. Edizione critica di Tutte le opere, vol. II-III (Firenze: CIL, 1962-1963), in due parti. La divisione in capitoli segue le sedute (colloqui) segnate dalle date; le sedute lunghe sono suddivise.",
+    "en-US": "The second of the original manuscript books (25 December 1584 - 4 June 1585): the evening colloquies in which the sisters questioned Sister Maria Maddalena after her ecstasies, and the words of the ecstasies themselves as her sisters took them down, with the \"cardiographies\", the spiritual betrothal and the visions of the Church. Critical edition in Tutte le opere, vols. II-III (Florence: CIL, 1962-63), in two parts. Chapters follow the sessions marked by dates; long sessions are divided.",
+    "pt-BR": "O segundo livro dos manuscritos originais (25 de dezembro de 1584 a 4 de junho de 1585): os colóquios noturnos em que as irmãs interrogavam a irmã Maria Madalena depois dos êxtases, e as próprias palavras dos êxtases recolhidas por suas irmãs, em duas partes (edição crítica, Florença: CIL, 1962-63)."
+  },
+  "composed": "1584-1585",
+  "languages": [
+    "it"
+  ],
+  "work": "mary-magdalene-de-pazzi/colloqui",
+  "editions": {
+    "it": {
+      "editor": "Carmelite scholars (Tutte le opere, ed. Fulvio Nardoni)",
+      "year": 1962
+    }
+  },
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://web.archive.org/web/20051214id_/http://www.ocarm.org/smmdep/2colloq.htm",
+      "edition": "Santa Maria Maddalena de' Pazzi, Tutte le opere dai manoscritti originali, a cura di Fulvio Nardoni, vol. II (1962), Firenze: Centro Internazionale del Libro. Typed text published by the Carmelite Order (O.Carm., prepared by Fr. Pedro Bravo, 2001), saved from the Wayback Machine because the live site is gone.",
+      "description": "Part I of the Colloqui, 25 Dec 1584 - 26 Apr 1585.",
+      "tier": "B",
+      "tierEvidence": "Critical edition of 1960-66 put online without a rights notice by the order itself; the saint's text only. Editors' introductions are not imported; their bracketed glosses and notes stay inline as printed."
+    },
+    {
+      "language": "it",
+      "url": "https://web.archive.org/web/20051214id_/http://www.ocarm.org/smmdep/3colloq.htm",
+      "edition": "Santa Maria Maddalena de' Pazzi, Tutte le opere dai manoscritti originali, a cura di Fulvio Nardoni, vol. III (1963), Firenze: Centro Internazionale del Libro. Typed text published by the Carmelite Order (O.Carm., prepared by Fr. Pedro Bravo, 2001), saved from the Wayback Machine because the live site is gone.",
+      "description": "Part II of the Colloqui, 28 Apr - 4 Jun 1585.",
+      "tier": "B",
+      "tierEvidence": "Critical edition of 1960-66 put online without a rights notice by the order itself; the saint's text only. Editors' introductions are not imported; their bracketed glosses and notes stay inline as printed."
+    }
+  ],
+  "toc": [
+    {
+      "id": "parte-1",
+      "title": {
+        "it": "Prima parte (25 dicembre 1584 - 26 aprile 1585)"
+      },
+      "children": [
+        {
+          "id": "p1-00",
+          "title": {
+            "it": "Presentazione e primo colloquio (Natale 1584)"
+          }
+        },
+        {
+          "id": "p1-01",
+          "title": {
+            "it": "Colloquio. Domenica sera addì 6 di Gennaio 1585"
+          }
+        },
+        {
+          "id": "p1-02",
+          "title": {
+            "it": "Colloquio. Il' giovedì che fumo alli X di Gennaio 1585"
+          }
+        },
+        {
+          "id": "p1-03",
+          "title": {
+            "it": "Colloquio. Domenica sera alli 13 di gennaio"
+          }
+        },
+        {
+          "id": "p1-04",
+          "title": {
+            "it": "Colloquio. La sera del' glorioso Santo Antonio, che fu il' giovedì alli 17 di gennaio 1585"
+          }
+        },
+        {
+          "id": "p1-05",
+          "title": {
+            "it": "Colloquio. Lunedì sera, che era stato il' dì la festa"
+          }
+        },
+        {
+          "id": "p1-06",
+          "title": {
+            "it": "Colloquio. Venerdì sera, alli 25 di gennaio"
+          }
+        },
+        {
+          "id": "p1-07",
+          "title": {
+            "it": "Colloquio. Domenica che fumo alli 27 di gennaio 1585"
+          }
+        },
+        {
+          "id": "p1-08",
+          "title": {
+            "it": "Colloquio. Mercoledì sera porgendocisi la comodità, facemo al solito il'"
+          }
+        },
+        {
+          "id": "p1-09",
+          "title": {
+            "it": "Colloquio. Martedì sera alli 12 di febbraio 1585"
+          }
+        },
+        {
+          "id": "p1-10",
+          "title": {
+            "it": "Colloquio. Domenica sera alli 17 di febbraio 1585"
+          }
+        },
+        {
+          "id": "p1-11",
+          "title": {
+            "it": "Colloquio. Mercoledì addì 20 di febbraio 1585"
+          }
+        },
+        {
+          "id": "p1-12",
+          "title": {
+            "it": "Colloquio. Domenica sera alli 24 di febbraio"
+          }
+        },
+        {
+          "id": "p1-13",
+          "title": {
+            "it": "Colloquio. Il' lunedì del' carnevale, che fu doppo la domenica della Quinquagesima, alli 4 di Marzo 1585"
+          }
+        },
+        {
+          "id": "p1-14",
+          "title": {
+            "it": "Colloquio. Martedì, addì 5 di Marzo"
+          }
+        },
+        {
+          "id": "p1-15",
+          "title": {
+            "it": "Colloquio. Il' venerdì addì 8 di Marzo 1585"
+          }
+        },
+        {
+          "id": "p1-16",
+          "title": {
+            "it": "Colloquio. Giovedì, addì 21 di Marzo"
+          }
+        },
+        {
+          "id": "p1-17",
+          "title": {
+            "it": "Colloquio. Hieri e hoggi che siamo alli 23 di Marzo"
+          }
+        },
+        {
+          "id": "p1-18",
+          "title": {
+            "it": "Colloquio. Martedì addì 26 di Marzo"
+          }
+        },
+        {
+          "id": "p1-19",
+          "title": {
+            "it": "Colloquio. Domenica addì ultimo di Marzo 1585"
+          }
+        },
+        {
+          "id": "p1-20",
+          "title": {
+            "it": "Colloquio. Lunedì addì 6 di Aprile 1585"
+          }
+        },
+        {
+          "id": "p1-21",
+          "title": {
+            "it": "Colloquio. Giovedì addì 11 d'Aprile 1585"
+          }
+        },
+        {
+          "id": "p1-22",
+          "title": {
+            "it": "Colloquio. La Domenica delle Palme, addì 14 d'Aprile"
+          }
+        },
+        {
+          "id": "p1-23-1",
+          "title": {
+            "it": "Colloquio. Il' mercoledì santo, alli 17 d'Aprile (1/3)"
+          }
+        },
+        {
+          "id": "p1-23-2",
+          "title": {
+            "it": "Colloquio. Il' mercoledì santo, alli 17 d'Aprile (2/3)"
+          }
+        },
+        {
+          "id": "p1-23-3",
+          "title": {
+            "it": "Colloquio. Il' mercoledì santo, alli 17 d'Aprile (3/3)"
+          }
+        },
+        {
+          "id": "p1-24",
+          "title": {
+            "it": "Colloquio. Lunedì addì 22 d'Aprile 1585"
+          }
+        }
+      ]
+    },
+    {
+      "id": "parte-2",
+      "title": {
+        "it": "Seconda parte (28 aprile - 4 giugno 1585)"
+      },
+      "children": [
+        {
+          "id": "p2-00",
+          "title": {
+            "it": "Seconda parte: dal 28 aprile 1585"
+          }
+        },
+        {
+          "id": "p2-01-1",
+          "title": {
+            "it": "Colloquio. La domenica in Albis che fummo alli 28 di Aprile 1585 (1/3)"
+          }
+        },
+        {
+          "id": "p2-01-2",
+          "title": {
+            "it": "Colloquio. La domenica in Albis che fummo alli 28 di Aprile 1585 (2/3)"
+          }
+        },
+        {
+          "id": "p2-01-3",
+          "title": {
+            "it": "Colloquio. La domenica in Albis che fummo alli 28 di Aprile 1585 (3/3)"
+          }
+        },
+        {
+          "id": "p2-02-1",
+          "title": {
+            "it": "Colloquio. La mattina di Santa Croce, che questo Anno 1585 (1/3)"
+          }
+        },
+        {
+          "id": "p2-02-2",
+          "title": {
+            "it": "Colloquio. La mattina di Santa Croce, che questo Anno 1585 (2/3)"
+          }
+        },
+        {
+          "id": "p2-02-3",
+          "title": {
+            "it": "Colloquio. La mattina di Santa Croce, che questo Anno 1585 (3/3)"
+          }
+        },
+        {
+          "id": "p2-03-1",
+          "title": {
+            "it": "Colloquio. Il' martedì, addì 7 di Maggio 1585 (1/6)"
+          }
+        },
+        {
+          "id": "p2-03-2",
+          "title": {
+            "it": "Colloquio. Il' martedì, addì 7 di Maggio 1585 (2/6)"
+          }
+        },
+        {
+          "id": "p2-03-3",
+          "title": {
+            "it": "Colloquio. Il' martedì, addì 7 di Maggio 1585 (3/6)"
+          }
+        },
+        {
+          "id": "p2-03-4",
+          "title": {
+            "it": "Colloquio. Il' martedì, addì 7 di Maggio 1585 (4/6)"
+          }
+        },
+        {
+          "id": "p2-03-5",
+          "title": {
+            "it": "Colloquio. Il' martedì, addì 7 di Maggio 1585 (5/6)"
+          }
+        },
+        {
+          "id": "p2-03-6",
+          "title": {
+            "it": "Colloquio. Il' martedì, addì 7 di Maggio 1585 (6/6)"
+          }
+        },
+        {
+          "id": "p2-04-1",
+          "title": {
+            "it": "Colloquio. Il' venerdì, addì 17 di Maggio 1585 (1/3)"
+          }
+        },
+        {
+          "id": "p2-04-2",
+          "title": {
+            "it": "Colloquio. Il' venerdì, addì 17 di Maggio 1585 (2/3)"
+          }
+        },
+        {
+          "id": "p2-04-3",
+          "title": {
+            "it": "Colloquio. Il' venerdì, addì 17 di Maggio 1585 (3/3)"
+          }
+        },
+        {
+          "id": "p2-05",
+          "title": {
+            "it": "Colloquio. Martedì addi 28 di Maggio, facemo colloquio con la"
+          }
+        },
+        {
+          "id": "p2-06",
+          "title": {
+            "it": "Colloquio. Mercoledì addì 5 di Giugno 1585"
+          }
+        }
+      ]
+    }
+  ]
+}
