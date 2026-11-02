@@ -1,0 +1,112 @@
+{
+  "id": "bellarmine-controversiae-de-extrema-unctione",
+  "cover": "classic",
+  "name": {
+    "la": "De sacramento extremae unctionis",
+    "en-US": "On Extreme Unction",
+    "pt-BR": "Sobre a unção dos enfermos"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Ex Disputationibus de controversiis christianae fidei adversus huius temporis haereticos (1586-93): De sacramento extremae unctionis. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "From the Disputations on the Controversies of the Christian Faith (1586-93): the sacrament of extreme unction. Latin only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "Das Disputas sobre as controvérsias da fé cristã (1586-93): Sobre a unção dos enfermos."
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/controversiae-de-extrema-unctione",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia05bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 5 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. Qui haeretici hoc Sacramentum negarint",
+        "en-US": "Caput I. Qui haeretici hoc Sacramentum negarint"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. Probatur ex Scripturis Unctionem infirmorum esse Sacramentum proprie dictum",
+        "en-US": "Caput II. Probatur ex Scripturis Unctionem infirmorum esse Sacramentum proprie dictum"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. Refelluntur Haereticorum solutiones ad Scripturam citatam",
+        "en-US": "Caput III. Refelluntur Haereticorum solutiones ad Scripturam citatam"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV",
+        "en-US": "Caput IV"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V",
+        "en-US": "Caput V"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. Solvuntur argumenta adversariorum",
+        "en-US": "Caput VI. Solvuntur argumenta adversariorum"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. De materia, et forma hujus Sacramenti",
+        "en-US": "Caput VII. De materia, et forma hujus Sacramenti"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII. De effectu hujus Sacramenti",
+        "en-US": "Caput VIII. De effectu hujus Sacramenti"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX. De Ministro, et eo qui suscipit Sacramentum Extremas unctionis",
+        "en-US": "Caput IX. De Ministro, et eo qui suscipit Sacramentum Extremas unctionis"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput X. De Caeremoniis",
+        "en-US": "Caput X. De Caeremoniis"
+      }
+    }
+  ]
+}
