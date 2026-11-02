@@ -1,0 +1,133 @@
+{
+  "id": "benson-non-catholic-denominations",
+  "cover": "classic",
+  "name": {
+    "en-US": "Non-Catholic Denominations",
+    "pt-BR": "Denominações Não Católicas"
+  },
+  "author": {
+    "en-US": "Mgr. Robert Hugh Benson",
+    "pt-BR": "Mons. Robert Hugh Benson"
+  },
+  "description": {
+    "en-US": "Benson's survey of 1910 of the non-Catholic religions of England: in Part I the Established Church (the High Church, Ritualist, extreme, Low Church and Broad Church parties) and in Part II the non-episcopal sects: Presbyterians, Nonconformists, Congregationalists, Wesleyans, Quakers and modern mystics.",
+    "pt-BR": "O panorama de Benson (1910) das religiões não católicas da Inglaterra: na Parte I a Igreja Estabelecida (partidos High Church, ritualista, extremo, Low Church e Broad Church) e na Parte II as seitas não episcopais: presbiterianos, não conformistas, congregacionalistas, wesleyanos, quacres e místicos modernos."
+  },
+  "composed": 1910,
+  "languages": [
+    "en-US"
+  ],
+  "work": "benson/non-catholic-denominations",
+  "editions": {
+    "en-US": {
+      "editor": "Robert Hugh Benson (London: Catholic Truth Society, 1910)",
+      "year": 1910
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/tnoncatholicdenom00bensuoft",
+      "edition": "Non-Catholic Denominations (London: Catholic Truth Society, 1910), Internet Archive full-text OCR (tnoncatholicdenom00bensuoft).",
+      "description": " Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Mgr. Robert Hugh Benson died in 1914 and the edition is of 1910, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "part-1",
+      "title": {
+        "en-US": "Part I: Episcopalianism"
+      },
+      "children": [
+        {
+          "id": "chapter-01",
+          "title": {
+            "en-US": "Chapter I. The Established Church of England (General)"
+          }
+        },
+        {
+          "id": "chapter-02",
+          "title": {
+            "en-US": "Chapter II. The \"Catholic\" Party"
+          }
+        },
+        {
+          "id": "chapter-03",
+          "title": {
+            "en-US": "Chapter III. The \"Catholic\" Party— the Ritualists"
+          }
+        },
+        {
+          "id": "chapter-04",
+          "title": {
+            "en-US": "Chapter IV. The Extreme Party"
+          }
+        },
+        {
+          "id": "chapter-05",
+          "title": {
+            "en-US": "Chapter V. The \" Low Church \" Party"
+          }
+        },
+        {
+          "id": "chapter-06",
+          "title": {
+            "en-US": "Chapter VI. The \"Broad Church\" Party"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "Part II: The Non-episcopal Sects"
+      },
+      "children": [
+        {
+          "id": "chapter-07",
+          "title": {
+            "en-US": "Chapter I. Presbyterianism"
+          }
+        },
+        {
+          "id": "chapter-08",
+          "title": {
+            "en-US": "Chapter II. The \"Nonconformists\""
+          }
+        },
+        {
+          "id": "chapter-09",
+          "title": {
+            "en-US": "Chapter III"
+          }
+        },
+        {
+          "id": "chapter-10",
+          "title": {
+            "en-US": "Chapter IV. The Congregationalists"
+          }
+        },
+        {
+          "id": "chapter-11",
+          "title": {
+            "en-US": "Chapter V. The Wesleyan Bodies (General)"
+          }
+        },
+        {
+          "id": "chapter-12",
+          "title": {
+            "en-US": "Chapter VI. The \"Quakers\" or \"Friends\""
+          }
+        },
+        {
+          "id": "chapter-13",
+          "title": {
+            "en-US": "Chapter VII. Modern \" Mystics \""
+          }
+        }
+      ]
+    }
+  ]
+}
