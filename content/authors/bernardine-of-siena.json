@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en-US": "St. Bernardine of Siena",
+    "pt-BR": "São Bernardino de Sena"
+  },
+  "century": 15,
+  "saint": "bernardine_siena",
+  "matches": [
+    "Bernardine of Siena",
+    "Bernardine of Siena, Saint",
+    "St. Bernardine of Siena",
+    "Saint Bernardine of Siena",
+    "Bernardino da Siena",
+    "Bernardino da Siena, santo",
+    "Bernardinus Senensis"
+  ]
+}

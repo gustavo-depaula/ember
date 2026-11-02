@@ -1,0 +1,330 @@
+{
+  "id": "bernardino-prediche-siena-1427",
+  "cover": "classic",
+  "name": {
+    "it": "Prediche volgari, Siena 1427",
+    "en-US": "Vernacular Sermons, Siena 1427",
+    "pt-BR": "Pregações em vulgar, Siena 1427"
+  },
+  "author": {
+    "it": "San Bernardino da Siena",
+    "en-US": "St. Bernardine of Siena",
+    "pt-BR": "São Bernardino de Sena"
+  },
+  "description": {
+    "it": "Le quarantacinque prediche volgari che san Bernardino tenne in Piazza del Campo a Siena dal 15 agosto alla fine di settembre 1427, raccolte dalla viva voce da Benedetto di maestro Bartolomeo. Edizione di Luciano Banchi (Siena: Tipografia editrice all'insegna di S. Bernardino, 1880-1888), con l'Introduzione, la Vita scritta da Vespasiano da Bisticci, il Prologo del raccoglitore e le note dell'editore (varianti dei codici e rimandi biblici) come note a piè di pagina. Una predica per capitolo.",
+    "en-US": "The forty-five vernacular sermons St. Bernardine preached in the Piazza del Campo in Siena from 15 August to the end of September 1427, taken down from his living voice by Benedetto di maestro Bartolomeo. Luciano Banchi's edition (Siena, 1880-1888), with his Introduction, the Life by Vespasiano da Bisticci, the collector's Prologue and the editor's notes (manuscript variants and Bible references) as footnotes. One sermon per chapter.",
+    "pt-BR": "As quarenta e cinco pregações em vulgar que são Bernardino fez na Piazza del Campo, em Siena, de 15 de agosto ao fim de setembro de 1427, recolhidas de viva voz por Benedetto di maestro Bartolomeo. Edição de Luciano Banchi (Siena, 1880-1888), com introdução, a Vida de Vespasiano da Bisticci, o prólogo e as notas do editor."
+  },
+  "composed": "1427",
+  "languages": [
+    "it"
+  ],
+  "work": "bernardine-of-siena/prediche-siena-1427",
+  "editions": {
+    "it": {
+      "editor": "Luciano Banchi",
+      "year": 1880
+    }
+  },
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://it.wikisource.org/wiki/Prediche_volgari",
+      "edition": "Le prediche volgari di San Bernardino da Siena dette nella Piazza del Campo l'anno MCCCCXXVII, ed. Luciano Banchi, 3 vols., Siena 1880-1888. Italian Wikisource transcription, proofread against the scans (status 75%).",
+      "description": "Introduction, Vita by Vespasiano da Bisticci, Prologue and sermons I-XLV with the editor's footnotes; the volume indexes are not imported. Retrieved through the MediaWiki parse API.",
+      "tier": "A",
+      "tierEvidence": "Bernardine died in 1444 and Banchi in 1887; the 1880-88 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduzione",
+      "title": {
+        "it": "Introduzione di Luciano Banchi"
+      }
+    },
+    {
+      "id": "prologo",
+      "title": {
+        "it": "Prologo"
+      }
+    },
+    {
+      "id": "vita",
+      "title": {
+        "it": "Vita di San Bernardino, scritta da Vespasiano da Bisticci"
+      }
+    },
+    {
+      "id": "predica-01",
+      "title": {
+        "it": "Predica I. In questa predica si tratta come la nostra gloriosa Madre andò in cielo, e de l’allegrezza che fece il paradiso di lei."
+      }
+    },
+    {
+      "id": "predica-02",
+      "title": {
+        "it": "Predica II. In questa siconda predica si contiene della mirabile cura che Idio ha sopra dell'umana natura; e come Idio ci guarda colli angeli suoi."
+      }
+    },
+    {
+      "id": "predica-03",
+      "title": {
+        "it": "Predica III. Nella quale tratta delle parti vuole avere il predicatore e l'uditore."
+      }
+    },
+    {
+      "id": "predica-04",
+      "title": {
+        "it": "Predica IV. Qui dice come si die lassare il male e fare il bene, assegnando bellissime ragioni."
+      }
+    },
+    {
+      "id": "predica-05",
+      "title": {
+        "it": "Predica V. In questa quinta predica si tratta come Idio ci mostra a noi e' suoi grandi giudìcî, con molte belle ragioni"
+      }
+    },
+    {
+      "id": "predica-06",
+      "title": {
+        "it": "Predica VI. In questa sesta predica si tratta de’ detrattori con bellissimi essempli."
+      }
+    },
+    {
+      "id": "predica-07",
+      "title": {
+        "it": "Predica VII. In questa settima predica si tratta anco della mala lingua, e de’ remedi cantra e’ detrattori, con belle ragioni."
+      }
+    },
+    {
+      "id": "predica-08",
+      "title": {
+        "it": "Predica VIII. In questa ottava predica (tratta) come l'uomo de' rafrenare la lingua"
+      }
+    },
+    {
+      "id": "predica-09",
+      "title": {
+        "it": "Predica IX. Perchè Iddio ci ha data la lingua, e della detrazione."
+      }
+    },
+    {
+      "id": "predica-10",
+      "title": {
+        "it": "Predica X. Qui si tratta delle divisioni e parzialità, e delli stermini che Idio manda"
+      }
+    },
+    {
+      "id": "predica-11",
+      "title": {
+        "it": "Predica XI. Similmente tratta delle parzialità"
+      }
+    },
+    {
+      "id": "predica-12",
+      "title": {
+        "it": "Predica XII. Anco contiene delle parti."
+      }
+    },
+    {
+      "id": "predica-13",
+      "title": {
+        "it": "Predica XIII. In questa predica si tratta di tre giudici, quando Cristo verrà a giudicare el mondo, con bellissime autorità."
+      }
+    },
+    {
+      "id": "predica-14",
+      "title": {
+        "it": "Predica XIV. In questa seguente predica diremo di coloro che cominciano a far bene, e poi tornano adietro, e come Idio gli ha in odio."
+      }
+    },
+    {
+      "id": "predica-15",
+      "title": {
+        "it": "Predica XV. In questa seguente predica si contiene della siconda visione di Giov anni evangelista, locando molto della superbia de’ peccatori con bellissime ragioni."
+      }
+    },
+    {
+      "id": "predica-16",
+      "title": {
+        "it": "Predica XVI. In questa seguente predica si contiene della dilezione del prossimo."
+      }
+    },
+    {
+      "id": "predica-17",
+      "title": {
+        "it": "Predica XVII. Qui in questa presente predica si tratta de’ reggimenti e delli stati, e con quanta giustizia debba règgiare chi ha offizio."
+      }
+    },
+    {
+      "id": "predica-18",
+      "title": {
+        "it": "Predica XVIII. Qui in questa predica si tratta come si deve amare"
+      }
+    },
+    {
+      "id": "predica-19",
+      "title": {
+        "it": "Predica XIX. Come il marito díe amare la donna, così la donna il suo marito."
+      }
+    },
+    {
+      "id": "predica-20",
+      "title": {
+        "it": "Predica XX. Qui appresso in questa predica si tratta pure dell'ordinato amore che debba èssare infra la moglie e 'l marito."
+      }
+    },
+    {
+      "id": "predica-21",
+      "title": {
+        "it": "Predica XXI. In questa seguente predica si tratta come et matrimonio debba èssare considerato, per tre belle ragioni."
+      }
+    },
+    {
+      "id": "predica-22",
+      "title": {
+        "it": "Predica XXII. In questa seguente predica si tratta come si debbano onorare le vere vedove."
+      }
+    },
+    {
+      "id": "predica-23",
+      "title": {
+        "it": "Predica XXIII. In questa presente predica si tratta delie parzialità, con molti belli esempli."
+      }
+    },
+    {
+      "id": "predica-24",
+      "title": {
+        "it": "Predica XXIV. Qui tratta della Natività della Vergine Maria"
+      }
+    },
+    {
+      "id": "predica-25",
+      "title": {
+        "it": "Predica XXV. Come debba ministrare iustizia chi ha offizio."
+      }
+    },
+    {
+      "id": "predica-26",
+      "title": {
+        "it": "Predica XXVI. Come e che si de’ domandare a Dio."
+      }
+    },
+    {
+      "id": "predica-27",
+      "title": {
+        "it": "Predica XXVII. Come si de’ domandare a Dio che c’insegni a fare la sua volontà."
+      }
+    },
+    {
+      "id": "predica-28",
+      "title": {
+        "it": "Predica XXVIII. Similmente, che Idio c’insegni a fare la sua santa volontà."
+      }
+    },
+    {
+      "id": "predica-29",
+      "title": {
+        "it": "Predica XXIX. Della Annunciazione della Vergine gloriosa Maria."
+      }
+    },
+    {
+      "id": "predica-30",
+      "title": {
+        "it": "Predica XXX. Qui tratta delle dodici donzelle che ebbe la Vergine Maria."
+      }
+    },
+    {
+      "id": "predica-31",
+      "title": {
+        "it": "Predica XXXI. Come si de’ perseverare insino al fine chi vuole avere la corona."
+      }
+    },
+    {
+      "id": "predica-32",
+      "title": {
+        "it": "Predica XXXII. Come santo Giovanni vidde un altro Angiolo venire il quale fu santo Francesco."
+      }
+    },
+    {
+      "id": "predica-33",
+      "title": {
+        "it": "Predica XXXIII. Dimostra come si de’ temere Iddio, e come Lucifero cadde per la superbia."
+      }
+    },
+    {
+      "id": "predica-34",
+      "title": {
+        "it": "Predica XXXIV. Come Iddio si deba temere:"
+      }
+    },
+    {
+      "id": "predica-35",
+      "title": {
+        "it": "Predica XXXV. Qui tratta delli tre peccati capitali,"
+      }
+    },
+    {
+      "id": "predica-36",
+      "title": {
+        "it": "Predica XXXVI. Qui tratta de’ flagelli di Dio e de le locuste."
+      }
+    },
+    {
+      "id": "predica-37",
+      "title": {
+        "it": "Predica XXXVII. Come ogni cosa di questo mondo è vanità."
+      }
+    },
+    {
+      "id": "predica-38",
+      "title": {
+        "it": "Predica XXXVIII. Dei mercatanti e de’ maestri, e come si den fare le mercanzie."
+      }
+    },
+    {
+      "id": "predica-39",
+      "title": {
+        "it": "Predica XXXIX. In questa reprende l'abominabile peccato della maladetta soddomia."
+      }
+    },
+    {
+      "id": "predica-40",
+      "title": {
+        "it": "Predica XL. Qui tratta della elemosina, e a chi si dè dare la limosina"
+      }
+    },
+    {
+      "id": "predica-41",
+      "title": {
+        "it": "Predica XLI. Similmente della elemosina e dell’utilità e frutto che ne seguita a chi la fa."
+      }
+    },
+    {
+      "id": "predica-42",
+      "title": {
+        "it": "Predica XLII. Qui tratta come David profeta cercando in questo mondo per la pace, non la potè trovare."
+      }
+    },
+    {
+      "id": "predica-43",
+      "title": {
+        "it": "Predica XLIII. In questa predica si tratta come Dio creò gli Angioli, e come gli uomini di qìtesto mondo participano di loro."
+      }
+    },
+    {
+      "id": "predica-44",
+      "title": {
+        "it": "Predica XLIV. Qui tratta di santo Francesco e del suo infiammato amore e fervore."
+      }
+    },
+    {
+      "id": "predica-45",
+      "title": {
+        "it": "Predica XLV. Come si deba amare Idio; e come s'acomiatò dal popolo."
+      }
+    }
+  ]
+}
