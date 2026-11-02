@@ -1,0 +1,1942 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De diligendo Deo</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 182</title>
+           <idno>BerCla.DeDiDe2</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head> <emph>582</emph> ADMONITIO IN OPUSCULUM VIII.</head>
+<div3>
+          <head>1.</head>
+          <p>
+ <hi>Etsi opusculum sequens unum ex primis est libris a Bernardo compositis, nullum tamen fere aut Bernardo
+dignius, aut religioni utilius ab eo scriptum existimo. Quid enim dignius doctore catholico, aut reipublicae
+christianae utilius quam praedicare, inculcare, imo et propugnare primum et maximum mandatum, ex
+quo caetera pendent, sine quo caetera nihil prosunt; illud, inquam, mandatum, quod in dies impetunt atque
+labefactare moliuntur amor cujusque proprius, cupiditas et perversae hominum interpretationes? Quapropter
+perpetuis tenebris digna est Apologia Berengarii, temerarii illius Abaelardi discipuli ac defensoris, qui Bernardo
+impudenter insultat ob editum ab eo tractatum de Diligendo Deo, cum  « de hoc, »  inquit,  « nemo dubitet, » 
+non quaevis muliercula, non quivis extremus idiota. Verum suos semper adversarios habuit divinus amor:
+cujus praeceptum si verbis Christiani haud negant, at factis plerique pernegant; imo quidam etiam pravis
+interpretationibus ita redigunt ad nihilum, ut hodie in quaestionem adducere, et quidem dubitare impune liceat,
+num Deus optimus, maximus, creator, conservator ac redemptor, aliquo speciali, vel semel in vita, amoris actua
+quovis christiano sit diligendus. Non ergo in vanum Bernardus divinum hoc praeceptum Haimerico cardinali,
+quasi quoddam operae pretium, commendare aggressus est hoc in opusculo docens, cap. 2, n. 6, diligendum
+esse Deum  « sine modo; »  inexcusabilem esse omnem  « etiam infidelem, si non diligat Dominum Deum suum ex
+toto corde, tota anima, tota virtute. »  Porro fidem tanto plus indicere amandum, quanto et se ipso pluris
+aestimandum quivis intelligit. « Quod si totum me, »  inquit, cap. 5, n. 15, in persona omnium,  « debeo pro me
+facto, quid addam jam et pro me refecto, et refecto hoc modo?</hi> » </p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ <hi>In hoc ergo libro sanctissimus divini amoris praeco et doctor, ejus modum, causas, originem, gradus, et
+obligationem accurate ac pathetice describit. Modum, ut diligatur  « sine modo, »  hoc est omni meliori quo possumus
+modo: causas, meritum Dei et commodum nostrum: originem, ex amore proprio in amorem Dei, usque
+ad oblivionem et contemptum sui: gradus, amorem sui, amorem Dei propter se, tum propter ipsum, ac demum,
+castum et purum; hoc est amorem proprium, mercenarium, filialem ac beatificum: obligationem denique, quae
+pertinet ad gentiles, Judaeos, sed maxime ad Christianos. Totus vero tractatus est de amore qui consistit in
+affectu: quem etsi dicat perfecte in hac vita impleri non posse, ita ut omnem excludat timorem et cupiditatem;
+esse tamen ait finem et scopum in quem indesinenter ac irremisse ferri teneamur. Denique hunc ipsum amorem
+<pb n="0973"/>
+ex dono Dei nobis provenire, non ex affectu innato; sic enim exclamat cap. 6, n. 16:  « Deus meus, adjutor
+meus, diligam te pro dono tuo et modo meo, minus quidem justo, sed plane non minus posse meo. Qui
+etsi quantum debeo non possum, non possum tamen ultra quam possum. Potero vero plus, cum plus donare
+dignaberis, nunquam tamen prout dignus haberis. »  Haec tota hujusce libelli doctrina et aeconomia.</hi> </p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ <hi>Eamdem doctrinam Bernardus passim aliis in locis inculcat, ut in sermone de Quadruplici Debito, qui
+est vigesimus secundus inter Diversos: nec aliam tradit in sermone quinquagesimo super Cantica, ubi duplicem
+distinguit charitatem, unam  « in actu »  alteram  « in effectu. »  Et  « de illa quidem, quae operis est, datam
+esse legem hominibus, mandatumque formatum. Nam in affectu, inquit, quis ita habeat ut mandatur? Ergo
+illa mandatur ad meritum, ista ad praemium. »  Nimirum praecipitur charitas seu amor Dei ex toto corde,
+tota anima, tota virtute: ita ut amor sit perennis, indeficiens, perfectus, a nulla re creata retardatus et imminutus:
+quod non continget nisi in altera vita. Alia autem charitas in effectu eo spectat, ut omnes actiones nostras
+ad Deum referamus. Nam tantum abest ut charitas in effectu ex Bernardi mente amorem affectus excludat
+ut contra ipsum includat. Neque enim effectivum (ut vocant) amorem siccum, inanem, pure externum et
+Judaicum probat Bernardus, sed internum exigit cum</hi> <emph>583</emph> <hi>opere conjunctum: internum quidem cum charitas
+et amor sit; cum opere vero, cum sit in effectu. Hanc autem esse Bernardi eo in loco sententiam manifeste demonstrant
+quae ibi sequuntur. « Non hoc dico, »  ait,  « ut sine affectione simus et solas moveamus manus ad
+opera. Legi inter alia quae scribit Apostolus, mala et gravia hominum mala, hoc quoque annumeratum, scilicet
+sine affectione. »  Qualem porro ad opera charitatis affectionem requirat, statim docet Vir sanctus, praemisso
+triplicem esse affectionem: primam  « quam caro gignit; »  secundam  « quam ratio regit; »  tertiam  « quam condit
+sapientia; »  tum subdit:  « Igitur per secundam opera fiunt, et in ipsa charitas, sed non illa affectualis quae
+sale sapientiae condita pinguescens, magnam menti importat multitudinem dulcedinis Domini: sed quaedam
+potius actualis, quae etsi nondum dulci illo amore reficit, amore tamen ipsius amoris vehementer accendit. »  Haec
+est illa charitas in effectu quam a Deo praeceptum dicit Bernardus, inferior quidem tertia seu beatifica quae
+ « primam eliminat, secundam remunerat, »  ut ibidem ait:  « Sic ergo dilectio alia quaevis debita superans,
+quasi sola regnare debet in nobis; ut quidquid debetur caeteris, sibi vindicet et ex dilectione omnia faciamus, » 
+inquit Vir sanctus sermone duodecimo in psalmum</hi> XC, <hi>n. 7. Haec de argumento sequentis libelli.</hi> </p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ <hi>Caeterum directus a Bernardo est Haimerico seu Aimerico S. R. E. cardinali et cancellario, ut praeferunt
+manuscripti codices omnes, praeter unum Colbertinum, qui  « Ascelinum »  habet, sed mendose, teste vel ipso
+Berengario, Abaelardi apologista, qui Aimericum praefert. Scriptus est autem liber sub pontificatu Honorii II,
+a quo Haimericus creatus est cancellarius. Gaufridus in libro tertio de Vita Bernardi, capite octavo:  « Si
+quaeritur piae mentis religiosa devotio, transeundum ad homilias in Laudibus Virginis matris, et illum quem
+de Diligendo Deo edidit librum. »  Erat autem Haimericus Gallus ex oppido Castra apud Biturigas, anno 1121
+a Callisto II creatus cardinalis, ab Honorio II cancellarius sub annum 1126, mortuus anno 1141, singularis
+Bernardi amicus, ex aliis epistolis.</hi> 
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head> <emph>584</emph> PRAEFATIO.</head>
+
+<pb n="0973A"/>
+<p>Viro illustri domino HAIMERICO, ecclesiae Romanae
+diacono cardinali et cancellario, BERNARDUS abbas
+dictus de Clara-Valle, Domino vivere, et in Domino
+mori.</p>
+<p>Orationes a me, et non quaestiones poscere solebatis:
+et quidem ego ad neutrum idoneum me esse
+confido. Verum illud indicit professio, etsi non ita
+conversatio: ad hoc vero (ut verum fatear) ea mihi
+deesse video, quae maxime necessaria viderentur,
+diligentiam et ingenium. Placet tamen, fateor, quod
+pro carnalibus spiritualia repetitis, si sane apud locupletiorem
+id facere libuisset. Quia vero doctis et
+indoctis pariter in istiusmodi excusandi mos est,
+<pb n="0974A"/>
+nec facile scitur, quae vere ex imperitia, quaeve ex
+verecundia excusatio prodeat, si non injucti operis
+obeditio probat: accipite de mea paupertate quod
+habeo, ne tacendo philosophus puter. Nec tamen ad
+omnia spondeo me responsurum. Ad id solum quod
+de diligendo Deo quaeritis, respondebo quod ipse
+dabit. Hoc enim et sapit dulcius, et tractatur securius,
+et auditur utilius. Reliqua diligentioribus reservate.
+</p>
+      </div1>
+
+<div2>
+        <head>CAPUT I. <hi>Quare et quomodo diligendus sit Deus.</hi> </head>
+<div3>
+          <head>1.</head>
+          <p>
+ Vultis ergo a me audire, quare et quomodo
+diligendus sit Deus? Et ego: Causa diligendi Deum,
+Deus est; modus, sine modo diligere. Estne
+<pb n="0975A"/>
+hoc satis? Fortassis utique, sed sapienti. Caeterum
+si et insipientibus debitor sum <note>(Rom. I, 14)</note>; ubi sat
+est dictum sapienti, etiam illis gerendus mos est.
+Itaque propter tardiores idem profusius, quam profundius
+repetere non gravabor. Ob duplicem ergo
+causam Deum dixerim propter seipsum diligendum:
+sive quia nihil justius, sive quia nil fructuosius diligi
+potest. Duplicem siquidem parit sensum, cum quaeritur
+de Deo, cur diligendus sit. Dubitari namque
+potest quid potissimum dubitetur; utrumnam, quo
+suo merito Deus, aut certe quo nostro sit commodo
+diligendus. Sane ad utrumque idem responderim;
+non plane aliam mihi dignam occurrere causam diligendi
+ipsum, praeter ipsum. Et prius de merito
+videamus. Multum quippe meruit de nobis, qui et
+<pb n="0975B"/>
+immeritis dedit seipsum nobis. Quid enim melius
+seipso poterat dare vel ipse? Ergo si Dei meritum
+quaeritur, cum ipsum diligendi causa quaeritur, illud
+est praecipuum: quia ipse prior dilexit nos. Dignus
+plane qui redametur, praesertim si advertatur, quis,
+quos, quantumque amaverit. Quis enim? Nonne is
+cui omnis spritus confitetur: <hi>Deus meus es tu, quoniam
+bonorum meorum non eges? <note>(Psal. XV, 2.)</note>
+          </hi> Et
+vera hujus charitas majestatis, quippe non quaerentis
+quae sua sunt. Quibus autem tanta puritas exhibetur? <hi>Cum adhuc,</hi> 
+ inquit, <hi>inimici essemus, reconciliati
+sumus Deo <note>(Rom. V, 10)</note>
+          </hi>. Dilexit ergo Deus, et
+gratis, et inimicos. Sed quantum? Quantum dicit
+Joannes: <hi>Sic Deus dilexit mundum, ut Filium unigenitum
+daret <note>(Joan. III, 16)</note>
+          </hi>: et Paulus, <hi>Qui proprio,</hi> 
+<pb n="0975C"/>
+ait, <hi>Filio non pepercit, sed pro nobis tradidit illum <note>(Rom. VIII, 32)</note>
+          </hi>.
+Ipse quoque Filius pro se, <hi>Majorem,</hi> 
+inquit, <hi>charitatem nemo habet quam ut animam suam
+ponat quis pro amicis suis <note>(Joan. XV, 13)</note>
+          </hi>. Sic meruit
+justus ab impiis, summus ab infimis, ab infirmis
+omnipotens. Sed dicit aliquis: Ita quidem ab hominibus;
+sed ab angelis non ita. Verum est, quia necesse
+non fuit. Caeterum qui hominibus subvenit in
+tali necessitate, servavit angelos a tali necessitate:
+et <emph>585</emph> qui homines diligendo, tales fecit ne tales
+remanerent; ipse aeque diligendo dedit et angelis,
+ne tales fierent.
+</p>
+        </div3>
+      </div2>
+
+<div2>
+        <head>CAPUT II. <hi>Deus quantopere ab homine mereatur amari, ob bona tum corporis, tum animae. Quomodo ea agnoscenda et habenda citra donantis injuriam.</hi> </head>
+<div3>
+          <head>2.</head>
+          <p>
+ Quibus haec palam sunt, palam arbitror esse et
+<pb n="0975D"/>cur Deus diligendus sit: hoc est, unde diligi meruerit.
+Quod si infideles haec latent, Deo tamen in
+promptu est ingratos confundere super innumeris
+beneficiis suis, humano nimirum et usui praestitis,
+et sensui manifestis. Nempe quis alius administrat
+cibum omni vescenti, cernenti lucem, spiranti flatum?
+Sed stultum est velle modo enumerare quae
+innumera esse non longe ante praefatus sum: satis
+est ad exemplum praecipua protulisse, panem, solem
+<pb n="0976A"/>
+et aerem. Praecipua dico, non quia excellentiora,
+sed quia necessariora; sunt quippe corporis. Quaerat
+enim homo eminentiora bona sua in ea parte
+sui, qua praeeminet sibi, hoc est in anima quae sunt
+dignitas, scientia, virtus. Dignitatem in homine liberum
+arbitrium dico: in quo ei nimirum datum est
+caeteris non solum praeeminere, sed et praesidere
+animantibus. Scientiam vero, qua eamdem in se
+dignitatem agnoscat, non a se tamen. Porro virtutem,
+qua subinde ipsum a quo est, et inquirat non
+segniter, et teneat fortiter cum invenerit.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Itaque geminum unumquodque trium horum
+apparet. Dignitatem siquidem demonstrat humanam
+non solum naturae praerogativa, sed et potentia dominatus:
+quod terror hominis super cuncta animantia
+<pb n="0976B"/>
+terrae imminere decernitur. Scientia quoque
+duplex erit, si hanc ipsam dignitatem, vel aliud
+quodque bonum in nobis, et nobis inesse, et a nobis
+non esse noverimus. Porro virtus et ipsa aeque bifaria
+cognoscetur, si auctorem consequenter inquirimus,
+inventoque inseparabiliter inhaeremus. Dignitas
+ergo sine scientia non prodest; illa vero etiam
+obest, si virtus [ <hi>al.</hi> ista] defuerit: quod utrumque
+ratio declarat subjecta. Habere enim quod habere
+te nescias, quam gloriam habet? Porro nosse quod
+habeas, sed quia a te non habeas ignorare, habet
+gloriam, sed non apud Deum. Apud se autem glorianti
+dicitur ab Apostolo: <hi>Quid habes quod non accepisti?
+si autem accepisti, quid gloriaris quasi non
+<pb n="0976C"/>
+acceperis? <note>(I Cor. IV, 7.)</note>
+          </hi> Non ait simpliciter: <hi>Quid
+gloriaris?</hi> sed addit, <hi>quasi non acceperis,</hi> ut asserat
+reprehensibilem, non qui in habitis, sed qui tanquam
+in non acceptis gloriatur. Merito vana gloria
+nuncupatur hujusmodi, veritatis nimirum solido
+carens fundamento. Veram enim gloriam ab hac ita
+discernit: <hi>Qui gloriatur,</hi> ait, <hi>in Domino glorietur <note>(I Cor. I, 31)</note>
+          </hi>,
+hoc est in veritate. Veritas quippe Dominus
+est.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Utrumque ergo scias necesse est, et quid sis,
+et quod a te ipso non sis: ne aut omnino videlicet
+non glorieris, aut inaniter glorieris. Denique <hi>si non
+cognoveris,</hi> inquit, <hi>te ipsam, egredere post greges
+sodalium tuorum <note>(Cant. I, 7)</note>
+          </hi>. Revera ita fit. Homo
+factus in honore, cum honorem ipsum non intelligit,
+<pb n="0976D"/>
+talis suae ignorantiae merito comparatur pecoribus,
+velut quibusdam praesentis suae corruptionis et mortalitatis
+consortibus. Fit igitur ut sese non agnoscendo
+egregia rationis munere creatura, irrationabilium
+gregibus aggregari incipiat, dum ignara propriae
+gloriae, quae ab intus est, conformanda foris
+rebus sensibilibus, sua ipsius curiositate abducitur:
+efficiturque una de caeteris, quod se prae caeteris
+nihil accepisse intelligat. Itaque valde cavenda haec
+ignorantia, qua de nobis minus nobis forte sentimus:
+sed non minus, imo et plus illa qua plus nobis tribuimus:
+quod fit, si bonum quodcunque in nobis
+<pb n="0977A"/>
+esse et a nobis decepti putemus. At vero super
+utramque ignorantiam declinanda et exsecranda illa
+praesumptio est, qua sciens et prudens forte audeas
+de bonis non tuis tuam quaerere gloriam: et quod
+certus <emph>586</emph> es a te tibi non esse, inde tamen alterius
+rapere non verearis honorem. Prior equidem
+ignorantia gloriam non habet: posterior vero habet
+quidem, sed non apud Deum. Caeterum hoc tertium
+malum quod jam scienter committitur, usurpat et
+contra Deum. In tantum denique ignorantia illa
+posteriori haec arrogantia gravior atque periculosior
+apparet, quo per illam quidem Deus nescitur, per
+istam et contemnitur: in tantum et priori deterior
+ac detestabilior, ut cum per illam pecoribus, per
+istam et daemonibus sociemur. Est quippe superbia
+<pb n="0977B"/>
+et delictum maximum, uti datis tanquam innatis;
+et in acceptis beneficiis gloriam usurpare beneficii.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Quamobrem cum duabus istis, dignitate atque
+scientia, opus est et virtute, quae utriusque fructus
+est, per quam ille inquiritur ac tenetur, qui omnium
+auctor et dator merito glorificetur de omnibus. Alioquin
+sciens et non faciens digna, multis vapulabit.
+Quare? Utique quia noluit intelligere ut bene ageret:
+magis autem iniquitatem meditatus est in cubili suo <note>(Psal. XXV, 4, 5)</note>,
+dum de bonis, quae a se non esse
+ex scientiae dono certissime comperit, boni Domini
+gloriam servus impius captare sibi, imo et raptare
+molitur. Liquet igitur et absque scientia dignitatem
+esse omnino inutilem, et scientiam absque virtute
+<pb n="0977C"/>
+damnabilem. Verum homo virtutis, cui nec damnosa
+scientia, nec infructuosa dignitas manet, clamat
+Deo et ingenue confitetur: <hi>Non nobis,</hi> inquiens, <hi>Domine, non nobis, sed nomini tuo da gloriam 
+ <note>(Psal.
+CXIII, 9)</note>
+          </hi>. Hoc est: Nil nobis, o Domine, de scientia,
+nil nobis de dignitate tribuimus; sed tuo totum,
+a quo totum est, nomini deputamus.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Caeterum pene a proposito longe nimis digressi
+sumus, dum demonstrare satagimus, eos quoque qui
+Christum nesciunt, satis per legem naturalem ex
+perceptis bonis corporis animaeque moneri, quatenus
+Deum propter Deum et ipsi diligere debeant. Nam
+ut breviter, quae super hoc dicta sunt, iterentur:
+quis vel infidelis ignoret, suo corpori non ab alio in
+<pb n="0977D"/>
+hac mortali vita supradicta illa necessaria ministrari,
+unde videlicet subsistat, unde videat, unde spiret,
+quam ab illo, qui dat escam omni carni <note>(Psal. CXXXV,
+25)</note>; qui solem suum oriri facit super bonos et malos,
+et pluit super justos et injustos? <note>(Matth. V, 45.)</note> 
+Quis item vel impius putet alium ejus, quae in anima
+splendet, humanae dignitatis auctorem, praeter
+illum ipsum, qui in Genesi loquitur: <hi>Faciamus hominem
+ad imaginem et similitudinem nostram? <note>(Gen.
+I, 26.)</note>
+          </hi> Quis alium scientiae largitorem existimet,
+nisi aeque ipsum, qui docet hominem scientiam? <note>(Psal. XCIII, 10.)</note> 
+ Quis rursum munus sibi aliunde
+virtutis aut putet datum, aut speret dandum, quam
+de manu itidem Domini virtutum? Meretur ergo
+amari propter se ipsum Deus, et ab infideli: qui etsi
+<pb n="0978A"/>
+nesciat Christum, scit tamen seipsum. Proinde
+inexcusabilis est omnis etiam infidelis, si non diligit
+Dominum Deum suum ex toto corde, tota
+anima, tota virtute sua. Clamat nempe intus ei
+innata, et non ignorata rationi justitia, quia ex toto
+se illum diligere debeat, cui se totum debere non
+ignorat. Verum difficile, imo impossibile est, suis
+scilicet quempiam, liberive arbitrii viribus semel
+accepta a Deo, ad Dei ex toto convertere voluntatem;
+et non magis ad propriam retorquere, eaque
+sibi tanquam propria retinere, sicut scriptum est, <hi>Omnes quae sua sunt quaerunt 
+ <note>(Philipp. II, 21)</note>
+          </hi>: et
+item, <hi>Proni sunt sensus et cogitationes hominis in
+malum <note>(Gen. VIII, 21)</note>
+          </hi>.
+</p>
+        </div3>
+      </div2>
+
+<div2>
+        <head>CAPUT III. <hi>Christiani quantos habeant stimulos amandi Deum prae infidelibus.</hi> </head>
+<div3>
+          <head>7.</head>
+          <p>
+ Contra quod plane fideles norunt, quam omnino
+<pb n="0978B"/>necessarium habeant Jesum, et hunc crucifixum:
+dum admirantes et amplexantes supereminentem scientiae
+charitatem in ipso, id vel tantillum quod sunt,
+in tantae dilectionis et dignationis vicem non rependere
+confunduntur. Facile proinde plus diligunt,
+qui se amplius dilectos intelligunt: cui autem minus
+donatum est, minus diligit. Judaeus sane, sive
+paganus, <emph>587</emph> nequaquam talibus aculeis incitatur
+amoris, quales Ecclesia experitur, quae ait, <hi>Vulnerata
+charitate ego sum:</hi> et rursum, <hi>Fulcite me floribus,
+stipate me malis, quia amore langueo (Cantic. II, 4,
+<pb n="0978C"/>
+5)</hi>. Cernit regem Salomonem in diademate, quo coronavit
+eum mater sua <note>(Cant. III, 11)</note>; cernit Unicum
+Patris, crucem sibi bajulantem; cernit caesum et
+consputum Dominum majestatis; cernit auctorem
+vitae et gloriae confixum clavis, percussum lancea,
+opprobriis saturatum, tandem illam dilectam animam
+suam ponere pro amicis suis. Cernit haec, et
+suam magis ipsius animam gladius amoris transverberat,
+et dicit: <hi>Fulcite me floribus, stipate me malis,
+quia amore langueo.</hi> Haec sunt quippe mala punica,
+quae in hortum introducta dilecti sponsa carpit ex
+ligno vitae, a coelesti pane proprium mutuata saporem,
+colorem a sanguine Christi. Videt deinde mortem
+mortuam, et mortis auctorem triumphatum.
+<pb n="0978D"/>
+Videt de inferis ad terras, de terris ad superos captivam
+duci captivitatem, ut in nomine Jesu omne genu
+flectatur, coelestium, terrestrium, et infernorum <note>(Philipp.
+II, 10)</note>. Advertit terram, quae spinas et tribulos
+sub antiquo maledicto produxerat, ad novae benedictionis
+gratiam innovatam refloruisse. Et in his omnibus,
+illius recordata versiculi, <hi>Et refloruit caro
+mea, et ex voluntate mea confitebor ei <note>(Psal. XXVII, 7)</note>
+          </hi>;
+passionis malis, quae de arbore tulerat crucis, cupit
+vigere [ <hi>al.</hi> jungere] et de floribus resurrectionis, quorum
+praesertim fragrantia sponsum ad se crebrius
+revisendam invitet..</p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ Denique ait: <hi>Ecce tu pulcher es, dilecte mi et
+decorus; lectulus noster floridus <note>(Cantic. I, 15)</note>
+          </hi>.
+Quae lectulum monstrat, satis quid desideret aperit:
+<pb n="0979A"/>
+et cum floridum nuntiat, satis indicat, unde quod
+desiderat obtinere praesumat. Non enim de suis
+meritis, sed de floribus agri, cui benedixit Deus. Delectatur
+floribus, Christus, qui in Nazareth et
+concipi voluit, et nutriri. Gaudet sponsus coelestis
+talibus odoramentis, et cordis thalamum frequenter
+libenterque ingreditur, quod istiusmodi refertum fructibus,
+floribusque respersum invenerit. Ubi suae videlicet
+aut passionis gratiam, aut resurrectionis gloriam
+sedula inspicit cogitatione versari, ibi profecto
+adest sedulus, adest libens. Monumenta siquidem
+Passionis, fructus agnosce quasi anni praeteriti, omnium
+utique retro temporum sub peccati mortisque
+imperio decursorum, tandem in plenitudine temporis,
+apparentes. Porro autem Resurrectionis insignia,
+<pb n="0979B"/>
+novos adverte flores sequentis temporis, in novam
+sub gratia revirescentis aestatem, quorum fructum
+generalis futura resurrectio in fine parturiet
+sine fine mansurum. <hi>Jam,</hi> inquit, <hi>hiems transiit, imber
+abiit et recessit, flores apparuerunt in terra nostra <note>(Cant. II, 11, 12)</note>
+          </hi>:
+aestivum tempus advenisse cum illo
+significans, qui de mortis gelu in vernalem quamdam
+novae vitae temperiem resolutus, <hi>Ecce,</hi> ait, <hi>nova
+facio omnia <note>(Apoc. XXI, 5)</note>
+          </hi>: cujus caro seminata
+est in morte, refloruit in resurrectione; ad cujus
+mox odorem in campo convaliis nostrae revirescunt
+arida, recalescunt frigida, mortua reviviscunt.</p>
+        </div3>
+<div3>
+          <head>9.</head>
+          <p>
+ Horum ergo novitate florum ac fructuum, et
+pulchritudine [ <hi>al.</hi> plenitudine] agri suavissimum spirantis
+odorem, ipse quoque Pater in Filio innovante
+<pb n="0979C"/>
+omnia delectatur, ita ut dicat: <hi>Ecce odor filii mei,
+sicut odor agri pleni, cui benedixit Dominus <note>(Gen.
+XXVII, 27)</note>
+          </hi>. Bene pleni, de cujus plenitudine omnes
+accepimus. Sponsa tamen familiarius ex eo sibi, cum
+vult, flores legit, et carpit poma, quibus propriae
+aspergat intima conscientiae, et intranti sponso cordis
+lectulus suave redoleat. Oportet enim nos, si crebrum
+volumus habere hospitem Christum, corda
+nostra semper habere munita fidelibus testimoniis,
+tam de misericordia scilicet morientis, quam de potentia
+resurgentis; quomodo David aiebat: <hi>Duo haec
+audivi, quia potestas Dei est, et tibi, Domine, misericordia <note>(Psal. LXI, 12, 13)</note>
+          </hi>.
+Siquidem utriusque rei
+testimonia credibilia facta sunt nimis; Christo utique
+<pb n="0979D"/>
+moriente propter delicta nostra, et resurgente
+propter justificationem nostram, et ascendente
+ad protectionem nostram, et mittente Spiritum
+ad consolationem nostram, et quandoque redituro
+ad consummationem nostram. Nempe in morte
+misericordiam, potentiam in resurrectione, utramque
+in singulis exhibuit reliquorum. <emph>588</emph>
+</p>
+        </div3>
+<div3>
+          <head>10.</head>
+          <p>
+ Haec mala, hi flores, quibus sponsa se
+interim stipari postulat et fulciri, credo sentiens facile
+vim in se amoris posse tepescere et languescere
+quodammodo, si non talibus jugiter foveatur incentivis,
+donec introducta quandoque in cubiculum,
+diu cupitis excipiatur amplexibus, et dicat: <hi>Laeva
+ejus sub capite meo, et dextera illius amplexata est me <note>(Cantic. II, 6)</note>
+          </hi>.
+Sentiet quippe tunc et probabit universa
+<pb n="0980A"/>
+dilectionis testimonia, quae in priori adventu,
+tanquam de sinistra dilecti, acceperat, prae multitudine
+dulcedinis amplexantis dexterae contemnenda,
+et omnino jam quasi subtus habenda. Sentiet quod
+audierat: <hi>Caro non prodest quidquam; spiritus est
+qui vivificat <note>(Joan VI, 64)</note>
+          </hi>. Probabit quod legerat: <hi>Spiritus meus super mel dulcis, et haereditas mea super
+mel et favum.</hi> 
+ Quod vero sequitur, <hi>Memoria mea
+in generatione saeculorum <note>(Eccli. XXIV, 27, 28)</note>
+          </hi>; hoc
+dicit, quia quandiu stare praesens cernitur saeculum,
+in quo generatio advenit, et generatio praeterit, non
+deerit electis consolatio de memoria, quibus nondum
+de praesentia plena refectio indulgetur. Unde scriptum
+est, <hi>Memoriam abundantiae suavitatis tuae eructabunt:</hi> 
+haud dubium, quin hi, quos paulo superius
+<pb n="0980B"/>
+dixerat, <hi>Generatio et generatio laudabit opera tua <note>(Psal. CXLIV, 7, 4)</note>
+          </hi>.
+Memoria ergo in generatione saeculorum,
+praesentia in regno coelorum. Ex ista glorificatur
+jam assumpta electio: de illa interim peregrinans
+generatio consolatur.
+</p>
+        </div3>
+      </div2>
+
+<div2>
+        <head>CAPUT IV. <hi>Quinam ex Dei recordatione consolationem capiant: quive magis ad ejus amorem idonei.</hi> </head>
+<div3>
+          <head>11.</head>
+          <p>
+ Sed interest, quaenam generatio ex Dei capiat
+recordatione solamen. Non enim generatio prava et
+exasperans, cui dicitur, <hi>Vae vobis, divites, qui habetis
+consolationem vestram <note>(Luc. VI, 24)</note>
+          </hi>; sed quae
+dicere veraciter potest, <hi>Renuit consolari anima mea.</hi> 
+Huic plane et credimus, si secuta adjecerit: <hi>Memor
+fui Dei, et delectatus sum <note>(Psal. LXXXVI, 3, 4)</note>
+          </hi>. Justum
+<pb n="0980C"/>
+quippe est, ut quos praesentia non delectant, praesto
+eis sit memoria futurorum: et qui de rerum fluentium
+qualibet affluentia despiciunt consolari, recordatio
+illos delectet aeternitatis. Et haec est generatio
+quaerentium Dominum, quaerentium non quae sua
+sunt, sed faciem Dei Jacob <note>(Psal. XXIII, 6)</note>. Dei ergo
+quarentibus et suspirantibus praesentiam, praesto
+interim et dulcis memoria est, non tamen qua satientur,
+sed qua magis esurient unde satientur. Hoc
+ipsum de se cibus ipse testatur, ita dicens, <hi>Qui
+edit me, adhuc esuriet <note>(Eccli. XXIV, 29)</note>
+          </hi>: et qui eo
+cibatus est, <hi>Satiabor,</hi> inquit, <hi>cum apparuerit gloria
+tua <note>(Psal. XVI, 15)</note>
+          </hi>. Beati tamen jam nunc qui esuriunt
+et sitiunt justitiam, quoniam quandoque ipsi,
+<pb n="0980D"/>
+et non alii, saturabuntur <note>(Matth. V, 6)</note>. Vae tibi,
+generatio prava atque perversa! vae tibi, popule
+stulte et insipiens, qui et memoriam fastidis, et praesentiam
+expavescis! Merito quidem: nec modo enim
+liberari vis de laqueo venantium, siquidem qui volunt
+divites fieri in hoc saeculo, incidunt in laqueum
+diaboli <note>(I Tim. VI, 9)</note>; nec tunc a verbo aspero poteris
+liberari. O verbum asperum, o sermo durus! <hi>Ite, maledicti, in ignem aeternum 
+ <note>(Matth. XXV, 41)</note>
+          </hi>.
+Durior plane atque asperior illo, qui quotidie nobis
+de memoria passionis in Ecclesia replicatur: <hi>Qui
+manducat meam carnem, et bibit sanguinem meum,
+habet vitam aeternam.</hi> Hoc est, qui recolit mortem
+meam, et exemplo meo mortificat membra sua quae
+sunt super terram, habet vitam aeternam: hoc est,
+<pb n="0981A"/>
+si compatimini, et conregnabitis. Et tamen plerique
+ab hac voce resilientes et abeuntes hodieque retrorsum,
+respondent non verbo, sed facto: <hi>Durus est
+hic sermo; quis potest eum audire? <note>(Joan. VI, 55, 61.)</note>
+          </hi> 
+Itaque generatio quae non direxit cor suum et non
+est creditus cum Deo spiritus ejus <note>(Psal. LXXVII, 8)</note>,
+sed magis sperans in incerto divitiarum, verbum
+modo crucis audire gravatur, ac memoriam passionis
+sibi judicat onerosam. Verum qualiter verbi
+illius pondus in praesentia sustinebit: <hi>Ite, maledicti,
+in ignem aeternum, qui paratus est diabolo, et angelis
+ejus?</hi> Super quem profecto ceciderit lapis iste,
+conteret eum. At vero generatio rectorum benedicetur <note>(Psal. CXI, 2)</note>:
+qui utique cum Apostolo, sive <emph>589</emph> 
+ absentes, sive praesentes, contendunt placere
+<pb n="0981B"/>
+Deo <note>(II Cor. V, 9)</note>. Denique audient, <hi>Venite, benedicti,
+Patris mei <note>(Matth. XXV, 34)</note>
+          </hi>, etc. Tunc illa quae
+non direxit cor suum, sero quidem experietur, quam
+in illius comparatione doloris jugum Christi suave,
+et onus leve fuerit, cui tanquam gravi et aspero
+duram cervicem superbe subduxit. Non potestis, o
+miseri servi mammonae, simul gloriari in cruce
+Domini nostri Jesu Christi, et sperare in pecuniae
+thesauris; post aurum abire, et probare quam suavis
+est Dominus. Proinde quem suavem in memoria
+non sentitis, asperum procul dubio in praesentia
+sentietis.</p>
+        </div3>
+<div3>
+          <head>12.</head>
+          <p>
+ Caeterum fidelis anima et suspirat praesentiam
+inhianter, et in memoria requiescit suaviter; et
+donec idonea sit revelata facie speculari gloriam
+<pb n="0981C"/>
+Domini, crucis ignominia gloriatur. Sic profecto,
+sic sponsa et columba Christi pausat sibi interim,
+et dormit inter medios cleros, sortita jam in praesentiarum
+de memoria abundantiae suavitatis tuae,
+Domine Jesu, pennas deargentatas, innocentiae videlicet
+pudicitiaeque candorem; et sperans insuper
+adimpleri laetitia cum vultu tuo, ubi etiam fiant
+posteriora dorsi ejus in pallore auri <note>(Psal. LXVII, 14)</note>:
+quando in splendoribus sanctorum introducta cum
+gaudio, sapientiae plenius fuerit illustrata fulgoribus.
+Merito proinde jam nunc gloriatur, et dicit, <hi>Laeva
+ejus sub capite meo, et dextera illius amplexabitur me <note>(Cantic. II, 6)</note>
+          </hi>:
+in laeva reputans recordationem
+illius charitatis, qua nulla major est, quod animam
+suam posuit pro amicis suis; in dextera vero beatam
+<pb n="0981D"/>
+visionem, quam promisit amicis suis, et gaudium
+de praesentia majestatis. Merito illa Dei et deifica
+visio, illa divinae praesentiae inaestimabilis delectatio
+in dextera deputatur, de qua et delectabiliter
+canitur: <hi>Delectationes dextera tua usque in finem <note>(Psal. XV, 11)</note>
+          </hi>.
+Merito in laeva admirabilis illa memorata
+et semper memoranda dilectio collocatur, quod
+donec transeat inquitas, super eam sponsa recumbat
+et requiescat.</p>
+        </div3>
+<div3>
+          <head>13.</head>
+          <p>
+ Merito ergo laeva sponsi sub capite sponsae,
+super quam videlicet caput suum reclinata sustentet,
+hoc est mentis suae intentionem, ne inclinetur
+et incurvetur in carnalia et saecularia desideria: quia
+corpus quod corrumpitur, aggravat animam: et
+<pb n="0982A"/>
+deprimit terrena inhabitatio sensum multa cogitantem <note>(Sap. IX, 15)</note>.
+Quid namque aliud faciat considerata
+tanta et tam indebita miseratio, tam gratuita et
+sic probata dilectio, tam inopinata dignatio, tam
+invicta mansuetudo, tam stupenda dulcedo? quid,
+inquam, haec omnia faciant diligenter considerata,
+nisi ut considerantis animum, ab omni penitus pravo
+vindicatum amore, ad se mirabiliter rapiant, vehementer
+afficiant, faciantque prae se contemnere,
+quidquid nisi in comtemptu horum appeti non potest?
+Nimirum proinde in odore unguentorum horum
+sponsa currit alacriter, amat ardenter; et parum
+sibi amare sic amata videtur, etiam cum se totam
+in amore perstrinxerit. Nec immerito. Quid magnum
+enim tanto et tanti repensatur amori, si pulvis exiguus
+<pb n="0982B"/>
+totum se ad redamandum collegerit, quem illa
+nimirum Majestas in amore praeveniens, tota in opus
+salutis ejus intenta conspicitur? Denique <hi>sic Deus
+dilexit mundum ut Unigenitum daret <note>(Joan. III, 16)</note>
+          </hi>;
+haud dubium quin de Patre dicat. Item, <hi>Tradidit in
+mortem animam suam <note>(Isai. LIII, 12)</note>
+          </hi>; nec dubium
+quod de Filio loquatur. Ait et de Spiritu sancto: <hi>Spiritus Paracletus, quem mittit Pater in nomine meo,
+ille vos docebit omnia, et suggeret vobis omnia quaecunque
+dixero vobis 
+ <note>(Joan. XIV, 26)</note>
+          </hi>. Amat ergo Deus,
+et ex se toto amat, quia tota Trinitas amat: si tamen
+totum dici potest de infinito et incomprehensibili,
+aut certe de simplici.
+</p>
+        </div3>
+      </div2>
+
+<div2>
+        <head>CAPUT V. <hi>Christiano quantum incumbat debitum amoris.</hi> </head>
+<div3>
+          <head>14. </head>
+<p>
+            <pb n="0982C"/>Intuens ergo haec, credo, satis agnoscit quare
+Deus diligendus sit, hoc est, unde diligi mereatur.
+Caeterum infidelis non habens Filium, nec Patrem
+proinde habet, nec Spiritum sanctum. Qui enim non
+honorificat Filium, non honorificat Patrem qui missit
+illum <note>(Joan. V, 23)</note>; <emph>590</emph> sed nec Spiritum sanctum
+quem misit ille. Is itaque mirum non est, si
+quem minus agnoscit, minus et diligit. Attamen et
+ipse totum ei sese debere non ignorat, quem sui
+totius non ignorat auctorem. Quid ergo ego, qui
+Deum meum teneo vitae meae non solum gratuitum
+largitorem, largissimum administratorem, pium consolatorem,
+sollicitum gubernatorem; sed insuper
+etiam copiosissimum redemptorem, aeternum conservatorem,
+<pb n="0982D"/>
+ditatorem, glorificatorem? sicut scriptum
+est, <hi>Copiosa apud eum redemptio <note>(Psal. CXXIX,
+7)</note>
+            </hi>: et item, <hi>Introivit semel in Sancta, aeterna redemptione
+inventa <note>(Hebr. IX, 12)</note>
+            </hi>: et de conservatione, <hi>Non relinquet sanctos suos; in aeternum conservabuntur <note>(Psal. XXXVI, 28)</note>
+            </hi>:
+et de locupletatione, <hi>Mensuram bonam, et confertam, et coagitatam, et
+superefluentem dabunt in sinum vestrum 
+ <note>(Luc. VI,
+38)</note>
+            </hi>: et rursum, <hi>Nec oculus vidit, nec auris audivit,
+nec in cor hominis ascendit, quae praeparavit Deus
+diligentibus se <note>(I Cor. II, 9)</note>
+            </hi>: et de glorificatione. <hi>Salvatorem exspectamus Dominum nostrum Jesum
+Christum, qui reformabit corpus humilitatis nostrae,
+configuratum corpori claritatis suae 
+ <note>(Philipp. III, 20,
+21)</note>
+            </hi>: et illud, <hi>Non sunt condignae passione hujus
+<pb n="0983A"/>
+temporis ad futuram gloriam, quae revelabitur in nobis <note>(Rom. VIII, 18)</note>
+            </hi>:
+et iterum, <hi>Id quod in praesenti
+est momentaneum et leve tribulationis nostrae, supra
+modum in sublimitate aeternum gloriae pondus operatur
+in nobis, non contemplantibus quae videntur, sed
+quae non videntur <note>(II Cor. IV, 17, 18)</note>
+            </hi>.</p>
+        </div3>
+<div3>
+          <head>15.</head>
+          <p>
+ Quid retribuam Domino pro omnibus his?
+Illum ratio urget et justitia naturalis totum se tradere
+illi, a quo se totum habet, et ex se toto debere
+diligere. Mihi profecto fides tanto plus indicit
+amandum, quanto et eum me ipso pluris aestimandum
+intelligo: quippe qui illum non solum mei,
+sed sui quoque ipsius teneo largitorem. Denique
+nondum tempus fidei advenerat, nondum innotuerat
+in carne Deus, obierat in cruce, prodierat de sepulcro,
+<pb n="0983B"/>
+redierat ad Patrem: nondum, inquam, commendaverat
+in nobis suam multam dilectionem, illam
+de qua jam multa locuti sumus, cum jam mandatum
+est homini diligere Dominum Deum suum ex
+toto corde, tota anima, tota virtute sua <note>(Deut. VI,
+5)</note>, id est ex omni quod est, quod scit, quod potest.
+Nec tamen injustus Deus, suum sibi vindicans opus
+et dona. Utquid enim non amaret opus artificem,
+cum haberet unde id posset? Et cur non quantum
+omnino posset, cum nihil omnino nisi ejus munere
+posset? Ad haec, quod de nihilo, quod gratis, quod
+in hac dignitate conditum est; et debitum dilectionis
+manifestius facit, et exactum justiorem ostendit.
+Caeterum quantum putamus adjectum beneficii,
+cum homines et jumenta salvavit, quemadmodum
+<pb n="0983C"/>
+multiplicavit misericordiam suam Deus? <note>(Psal.
+XXXV, 7, 8.)</note> Nos dico, qui mutavimus gloriam nostram
+in similitudinem vituli comedentis fenum <note>(Psal, CV, 20)</note>,
+peccando comparati jumentis insipientibus <note>(Psal. XLVIII, 13)</note>.
+Quod si totum me debeo pro
+me facto, quid addam jam et pro refecto et refecto
+hoc modo? Nec enim tam facile refectus, quam factus:
+siquidem non solum de me, sed de omni quoque
+quod factum est, scriptum est, <hi>Dixit, et facta
+sunt <note>(Psal. CXLVIII, 5)</note>
+          </hi>. At vero qui me tantum et
+semel dicendo fecit, in reficiendo profecto et dixit
+multa, et gessit mira, et pertulit dura; nec tantum
+dura, sed et indigna. Quid ergo retribuam Domino
+pro omnibus quae retribuit mihi? <note>(Psal. CXV, 12.)</note> 
+In primo opere me mihi dedit; in secundo, se:
+<pb n="0983D"/>
+et ubi se dedit, me mihi reddidit. Datus ergo, et
+redditus, me pro me debeo, et bis debeo. Quid Deo
+retribuam pro se? Nam etiam si me millies rependere
+possem, quid sum ego ad Deum?
+</p>
+        </div3>
+      </div2>
+
+<div2>
+        <head>CAPUT VI. <hi>Brevis anacephalaeosis et summa praedictorum.</hi> </head>
+<div3>
+          <head>16.</head>
+          <p>
+ Hic primum vide, quo modo, imo quam sine
+modo a nobis Deus amari meruerit; qui (ut paucis
+quod dictum est repetam) prior ipse dilexit nos, tantus,
+et tantum, et gratis tantillos, et tales. En quod
+in principio dixisse me memini, modum esse diligendi
+Deum, sine modo diligere. Denique cum dilectio
+quae tendit in Deum, tendat in immensum,
+<pb n="0984A"/>
+tendat in infinitum (nam et infinitus Deus est et
+immensus); quisnam, <emph>591</emph>, quaeso, debeat finis esse
+nostri, vel modus amoris? Quid quod amor ipse noster
+non jam gratuitus impenditur, sed rependitur
+debitus? Amat ergo immensitas, amat aeternitas,
+amat supereminens scientiae charitas; amat Deus,
+cujus magnitudinis non est finis <note>(Psal. CXLIV, 3)</note>,
+cujus sapientiae non est numerus <note>(Psal. CXLVI, 5)</note>,
+cujus pax exsuperat omnem intellectum <note>(Philipp. IV,
+7)</note>: et vicem rependimus cum mensura? Diligam
+te, Domine, fortitudo mea, firmamentum meum, et
+refugium meum, et liberator meus <note>(Psal. XVII, 2,
+3)</note>: et meum denique quidquid optabile atque amabile
+dici potest. Deus meus, adjutor meus, diligam
+te pro dono tuo, et modo meo, minus quidem justo,
+<pb n="0984B"/>
+sed plane non minus posse meo: qui etsi quantum
+dobeo non possum, non possum tamen ultra quam
+possum. Potero vero plus, cum plus donare dignaberis:
+nunquam tamen prout dignus haberis. Imperfectum
+meum viderunt oculi tui: sed tamen in
+libro tuo omnes scribentur <note>(Psal. CXXXVIII, 16)</note>, qui
+quod possunt faciunt, etsi quod debent non possunt.
+Satis, quantum reor, apparet, et quonam modo
+Deus diligendus sit, et quo merito suo. Quo, inquam,
+merito suo: nam quanto, cui sane appareat? quis
+dicat? quis sapiat?
+</p>
+        </div3>
+      </div2>
+
+<div2>
+        <head>CAPUT VII. <hi>Non sine fructu et praemio diligi Deum; et terrenis non satiari humani cordis appetitum.</hi> </head>
+<div3>
+          <head>17. </head>
+<p>
+            <pb n="0984C"/>Nunc quo nostro commodo diligendus sit,
+videamus. Sed quantum est et in hoc videre nostrum
+ad id quod est? Nec tamen quod videtur tacendum
+est, etsi non omnino videtur ut est. Superius,
+cum propositum esset, quare, et quomodo
+diligendus sit Deus, duplicem dixi parere intellectum
+id quod quaeritur, Quare: ut, aut quo suo
+merito, aut quo nostro commodo diligendus sit,
+utrumlibet quaeri posse perinde videatur. Dicto
+proinde de merito Dei, non prout dignum ei, sed
+prout datum est mihi; superest ut de praemio, quod
+item dabitur, dicam. Non enim sine praemio diligitur
+Deus, etsi absque praemii intuitu diligendus sit.
+Vacua namque vera charitas esse non potest, nec
+tamen mercenaria est; quippe non quaerit quae sua
+<pb n="0984D"/>
+sunt <note>(I Cor. XIII, 5)</note>. Affectus est, non contractus:
+nec acquiritur pacto, nec acquirit. Sponte afficit,
+et spontaneum facit. Verus amor seipso contentus
+est. Habet praemium, sed id quod amatur. Nam quidquid
+propter aliud amare videaris, id plane amas,
+quo amoris finis pertendit, non per quod tendit.
+Paulus non evangelizat ut comedat, sed comedit ut
+evangelizet: eo quod amet, non cibum, sed Evangelium <note>(I Cor. IX, 18)</note>.
+Verus amor praemium non requirit,
+sed meretur. Praemium sane necdum amanti
+proponitur, amanti debetur, perseveranti redditur.
+Denique in rebus inferioribus suadendis, invitos
+promissis vel praemiis invitamus, et non spontaneos.
+Quis enim munerandum hominem putet, ut faciat
+<pb n="0985A"/>
+quod et sponte cupit? Nemo, verbi causa, conducit
+aut esurientem ut comedat, aut sitientem ut bibat,
+aut certe matrem ut parvulum allactet filium
+uteri sui. An vero quis putet prece vel pretio quempiam
+commonendum suam ipsius vel sepire vineam,
+vel arborem circumfodere, vel structuram propriae
+domus erigere? Quanto magis Deum amans anima,
+aliud praeter Deum sui amoris praemium non requirit?
+Aut si aliud requirit, illud pro certo, non Deum
+diligit.</p>
+        </div3>
+<div3>
+          <head>18.</head>
+          <p>
+ Inest omni utenti ratione naturaliter pro sua
+semper aestimatione atque intentione appetere potiora,
+et nulla re esse contentum, cui quod deest,
+judicet praeferendum. Nam et qui, verbi gratia,
+uxorem habet speciosam, petulanti oculo vel animo
+<pb n="0985B"/>
+respicit pulchriorem: et qui veste pretiosa indutus
+est, pretiosiorem affectat, et possidens multas divitias,
+invidet ditiori. Videas jam multis praediis et
+possessionibus ampliatos, adhuc tamen in dies agrum
+agro copulare, atque infinita cupiditate dilatare terminos
+suos. Videas et qui in regalibus domibus,
+amplisque habitant palatiis, nihilominus quotidie
+conjungere domum ad domum, et inquieta <emph>592</emph> 
+curiositate aedificare, diruere, mutare quadrata rotundis.
+Quid homines sublimatos honoribus? annon
+insatiabili ambitione magis ac magis totis viribus
+conari ad altiora videmus? Et horum omnium idcirco
+non est finis, quia nil in eis summum singulariter
+reperitur vel optimum. Et quid mirum si inferioribus
+et deterioribus contentus non sit, qui citra
+<pb n="0985C"/>
+summum vel optimum quiescere non potest? Sed
+hoc stultum et extremae dementiae est, ea semper
+appetere, quae nunquam, non dico satient, sed nec
+temperent appetitum: dum quidquid talium habueris,
+nihilominus non habita concupiscas, et ad
+quaeque defuerint, semper inquietus anheles. Ita
+enim fit ut per varia et fallacia mundi oblectamenta
+vagabundus animus inani labore discurrens fatigetur,
+non satietur: dum quidquid famelicus inglutierit,
+parum reputet ad id quod superest devorandum,
+semperque non minus anxie cupiat quae desunt,
+quam quae adsunt laete possideat. Quis enim obtineat
+universa? Quanquam et modicum id quod quisque
+cum labore obtinuerit, cum timore possederit, certus
+<pb n="0985D"/>
+quidem non sit quando cum dolore amittat, certus
+autem quod quandoque amittat. Sic directo tramite
+voluntas perversa contendit [ <hi>al.</hi> cum tendit] ad optinum,
+festinat ad id unde possit impleri. Imo vero
+his anfractibus ludit secum vanitas, mentitur iniquitas
+sibi. Si ita vis adimplere quod vis, hoc est,
+si illud apprehendere vis, quo apprehenso nil jam
+amplius velis, quid tentare opus est et caetera?
+Curris per devia, et longe ante morieris, quam hoc
+circuitu pervenias ad optatum.</p>
+        </div3>
+<div3>
+          <head>19.</head>
+          <p>
+ Hoc ergo in circuitu impii ambulant, naturaliter
+appetentes unde finiant appetitum, et insipienter
+respuentes unde propinquent fini: fini dico,
+non consumptioni, sed consummationi. Quamobrem
+non beato fine consummari, sed consumi vacuo labore
+<pb n="0986A"/>
+accelerant, qui rerum magis specie, quam auctore
+delectati, prius universa percurrere, et de
+singulis cupiunt experiri, quam ad ipsum curent
+universitatis Dominum pervenire. Et quidem pervenirent,
+si quandoque voti compotes effici possent,
+ut omnia scilicet, praeter omnium principium, unus
+aliquis obtineret. Ea namque suae cupiditatis lege,
+qua in rebus caeteris non habita prae habitis esurire,
+et pro non habitis habita fastidire solebat; mox
+omnibus quae in coelo, et quae in terra sunt obtentis
+et contemptis, tandem ad ipsum procul dubio curreret,
+qui solus deesset omnium Deus. Porro ibi
+quiesceret: quia sicut citra nulla revocat quies:
+sic nulla ultra jam inquietudo sollicitat. Diceret pro
+certo: <hi>Mihi autem adhaerere Deo bonum est.</hi> Diceret,
+<pb n="0986B"/> <hi>Quid enim mihi est in coelo, et a te quid volui super
+terram?</hi> 
+ et item, <hi>Deus cordis mei, et pars mea Deus
+in aeternum <note>(Psal. LXXII, 28, 25, 26)</note>
+          </hi>. Sic ergo (ut
+dictum est) ad id quod optimum est, quivis cupidus
+perveniret, si quidem ante, quod citra cupit, assequi
+posset.</p>
+        </div3>
+<div3>
+          <head>20.</head>
+          <p>
+ Verum quoniam id omnino impossibile praestruit
+et vita brevior, et virtus infirmior, et consors
+numerosior; longo profecto itinere et casso labore
+desudant, qui dum quaecunque desiderant, attingere
+volunt, ad cunctorum desiderabilium nequeunt pertingere
+finem. Et utinam attingere universa animo,
+et non experimento vellent! Hoc enim facile possent,
+et non incassum. Nam et animus sensu quidem
+<pb n="0986C"/>
+carnali tanto velocior, quanto et perspicacior,
+ad hoc datus est, ut illum ad omnia praeveniat; nihilque
+audeat contingere sensus, quod animus praecurrens
+ante utile non probaverit. Hinc enim arbitror
+dictum, <hi>Omnia probate, quod bonum est tenete <note>(I Thess. V, 21)</note>
+          </hi>;
+ut videlicet ille huic provideat,
+nec is suum votum, nisi ad illius judicium consequatur.
+Alioquin non ascendes in montem Domini, nec
+stabis in loco sancto ejus, pro eo quod in vano acceperis
+animam tuam <note>(Psal. XXIII, 3, 4)</note>, hoc est animam
+rationalem: dum instar pecoris sensum sequeris,
+ratione quidem otiosa, et non resistente in
+aliquo. Quorum itaque ratio non praevenit gressus,
+currunt, sed extra viam: ac proinde Apostoli spreto
+consilio, non sic currunt ut apprehendant <hi>(I Cor.
+<pb n="0986D"/>
+XI, 24)</hi>. Quando etenim apprehendant, quem <emph>593</emph> 
+apprehendere nisi post omnia nolunt? Distortum
+iter, et circuitus infinitus, cuncta primitus attentare
+velle.</p>
+        </div3>
+<div3>
+          <head>21.</head>
+          <p>
+ Justus autem non ita. Audiens nempe vituperationem
+multorum commorantium in circuitu (multi
+enim sunt viam latam pergentes, quae ducit ad mortem),
+ipse sibi regiam eligit viam, non declinans ad
+dexteram vel ad sinistram. Denique attestante propheta, <hi>Semita justi recta est, rectis callis justi ad
+ambulandum 
+ <note>(Isai. XXVI, 7)</note>
+          </hi>. Hi sunt, qui salubri
+compendio cauti sunt molestum hunc et infructuosum
+vitare circuitum, verbum abbreviatum et abbrevians
+eligentes, non cupere quaecunque vident,
+<pb n="0987A"/>
+sed vendere magis quae possident, et dare pauperibus.
+Beati plane pauperes, quoniam ipsorum est
+regnum caelorum <note>(Matth. V, 3)</note>. Omnes quidem currunt <note>(I Cor. IX, 24)</note>;
+sed inter currentes discernitur.
+Denique novit Dominus viam justorum, et iter impiorum
+peribit <note>(Psal. I, 6)</note>. Ideo autem melius est
+modicum justo super divitias peccatorum multas <note>(Psal. XXXVI, 16)</note>,
+quoniam quidem, ut Sapiens loquitur
+et insipiens experitur, <hi>qui diligit pecuniam,
+non saturabitur pecunia <note>(Eccle. V, 9)</note>
+          </hi>: <hi>qui</hi> autem <hi>esuriunt et sitiunt justitiam, ipsi saturabuntur <note>(Matth. V, 6)</note>
+          </hi>.
+Justitia siquidem ratione utentis spiritus
+cibus est vitalis et naturalis: pecunia vero sic
+non minuit animi famem, quomodo nec corporis
+ventus. Denique si famelicum hominem apertis faucibus
+<pb n="0987B"/>
+vento, inflatis haurire buccis aerem cernas,
+quo quasi consulat fami, nonne credas insanire? Sic
+non minoris insaniae est, si spiritum rationalem rebus
+putes quibuscunque corporalibus non magis inflari,
+quam satiari. Quid namque de corporibus ad
+spiritus? Nec illa sane spiritualibus, nec isti e regione
+refici corporalibus queunt. Benedic, anima
+mea, Domino, qui replet in bonis desiderium tuum <note>(Psal. CII, 1, 5)</note>.
+Replet in bonis, excitat ad bonum,
+tenet in bono; praevenit, sustinet, implet. Ipse facit
+ut desideres; ipse est quod desideras.</p>
+        </div3>
+<div3>
+          <head>22.</head>
+          <p>
+ Dixi supra: Causa diligendi Deum, Deus est.
+Verum dixi: nam et efficiens, et finalis. Ipse dat
+occasionem, ipse creat affectionem, desiderium ipse
+<pb n="0987C"/>
+consummat. Ipse fecit, vel potius factus est ut amaretur:
+ipse speratur, amandus felicius, ne in vacuum
+sit amatus. Ejus amor nostrum et praeparat,
+et remunerat. Praecedit benignior, rependitur justior,
+exspectatur suavior. Dives est omnibus qui invocant
+eum: nec tamen habet quidquam se ipso melius.
+Se dedit in meritum, se servat in praemium, se
+apponit in refectione animarum sanctarum, se in
+redemptione distrahit captivarum. Bonus es, Domine,
+animae quaerenti te <note>(Thren. III, 25)</note>: quid
+ergo invenienti? Sed enim in hoc est mirum, quod
+nemo te quaerere valet, nisi qui prius invenerit. Vis
+igitur inveniri ut quaeraris, quaeri ut inveniaris. Potes
+quidem quaeri et inveniri, non tamen praeveniri,
+Nam etsi dicimus, <hi>Mane oratio mea praeveniet te</hi> 
+<pb n="0987D"/> <note>(Psal. LXXXVII, 14)</note>;
+non dubium tamen quod tepida
+sit omnis oratio, quam non praevenerit inspiratio.
+Dicendum jam unde inchoet amor noster, quoniam
+ubi consummetur, dictum est.
+</p>
+        </div3>
+      </div2>
+
+<div2>
+        <head>CAPUT VIII. <hi>De primo gradu amoris, quo diligit homo se propter se.</hi> </head>
+<div3>
+          <head>23.</head>
+          <p>
+ Amor est affectio naturalis una de quatuor.
+Notae sunt: non opus est nominare. Quod
+ergo naturale est, justum quidem foret primo omnium
+auctori deservire naturae. Unde et dictum est
+primum et maximum mandatum: <hi>Diliges Dominum
+<pb n="0988A"/>
+Deum tuum <note>(Matth. XXII, 37)</note>
+          </hi>, etc. Sed quoniam natura
+fragilior atque infirmior est, ipsi primum imperante
+necessitate compellitur inservire. Et est amor
+carnalis, quo ante omnia homo diligit se ipsum propter
+se ipsum, sicut scriptum est: <hi>Prius quod animale,
+deinde quod spirituale <note>(I Cor. XV, 46)</note>
+          </hi>. Nec
+praecepto indicitur, sed naturae inseritur: quis nempe
+carnem suam odio habuit? <note>(Ephes. V, 29.)</note> At vero
+si coeperit amor idem, ut assolet, proclivior esse,
+sive profusior, et necessitatis alveo minime contentus,
+campos etiam voluptatis <emph>594</emph> exundans latius
+visus fuerit occupare; statim superfluitas obviante
+mandato cohibetur, cum dicitur: <hi>Diliges proximum
+tuum sicut te ipsum <note>(Matth. XXII, 39)</note>
+          </hi>. Justissime
+quidem, ut consors naturae non sit exsors et gratiae,
+<pb n="0988B"/>
+illius praesertim gratiae, quae naturae insita est. Quod
+si gravatur homo fraternis, non dico necessitatibus
+subvenire, sed voluptatibus deservire; castiget ipse
+suas, si non vult esse transgressor. Quantum vult,
+sibi indulgeat; dum aeque et proximo tantumdem
+meminerit exhibendum. Frenum tibi temperantiae
+imponitur, o homo, ex lege vitae et disciplinae, ne
+post concupiscentias tuas eas, et pereas, ne de bonis
+naturae hosti servias animae, hoc est libidini. Quam
+justius atque honestius communicas illa consorti, id
+est proximo, quam hosti? Et quidem si ex Sapientis
+consilio a voluptatibus tuis averteris <note>(Eccli. XVIII,
+30)</note>, et juxta doctrinam Apostoli victu vestituque
+contentus <note>(I Tim. VI, 8)</note>, paulisper suspendere non
+gravaris amorem tuum a carnalibus desideriis, quae
+<pb n="0988C"/>
+militant adversus animam <note>(I Petr. II, 11)</note>; sane
+quod subtrahis hosti animae tuae, consorti naturae
+puto non gravaberis impertiri. Tunc amor tuus et
+temperans erit, et justus, si quod propriis subtrahitur
+voluptatibus, fratris necessitatibus non negetur.
+Sic amor carnalis efficitur et socialis, cum in commune
+protrahitur.</p>
+        </div3>
+<div3>
+          <head>24.</head>
+          <p>
+ Si autem dum communicas proximo, forte tibi
+defuerint etiam necessaria, quid facies? Quid enim,
+nisi ut cum omni fiducia postules ab eo qui dat omnibus
+affluenter, et non improperat <note>(Jacobi I, 5)</note>;
+qui aperit manum suam, et implet omne animal benedictione? <note>(Psal. CXLIV, 16.)</note> 
+ Dubium siquidem non
+est, quod adsit libenter in necessariis, qui plerisque
+<pb n="0988D"/>
+et in superfluis non deest. Denique ait: <hi>Primum
+quaerite regnum Dei et justitiam ejus, et haec omnia
+adjicientur vobis <note>(Luc. XII, 31)</note>
+          </hi>. Sponte daturum se
+pollicetur necessaria, superflua restringenti, et proximum
+diligenti. Hoc quippe est primum quaerere
+regnum Dei, et adversus peccati implorare tyrannidem,
+pudicitiae potius ac sobrietatis subire jugum,
+quam regnare peccatum in tuo mortali corpore patiaris.
+Porro autem et hoc justitiae est, cum quo tibi
+est natura communis, naturae quoque cum eo munus
+non habere divisum.</p>
+        </div3>
+<div3>
+          <head>25.</head>
+          <p>
+ Ut tamen perfecta justitia sit diligere proximum,
+<pb n="0989A"/>
+Deum in causa haberi necesse est. Alioquin
+proximum pure diligere quomodo potest, qui in Deo
+non diligit? Porro in Deo diligere non potest, qui
+Deum non diligit. Oportet ergo Deum diligi prius, ut
+in Deo diligi possit et proximus. Facit ergo etiam se
+diligi Deus, qui et caetera bona facit. Facit autem
+sic. Qui naturam condidit, ipse et protegit. Nam et
+ita condita fuit, ut habeat jugiter necessarium protectorem,
+quem habuit et conditorem: ut quae nisi
+per ipsum non valuit esse, nec sine ipso valeat omnino
+subsistere. Quod ne sane de se creatura ignoret,
+ac proinde sibi (quod absit) superbe arroget
+beneficia creatoris, vult hominem idem conditor
+alto quidem salubrique consilio tribulationibus exerceri:
+ut cum defecerit homo, et subvenerit Deus,
+<pb n="0989B"/>
+dum homo liberatur a Deo, Deus ab homine, ut
+dignum est, honoretur. Hoc enim dicit: <hi>Invoca me
+in die tribulationis, eruam te, et honorificabis me <note>(Psal. XLIX, 15)</note>
+          </hi>.
+Fit itaque hoc tali modo, ut homo
+animalis et carnalis, qui praeter se neminem diligere
+noverat, etiam Deum vel propter se amare incipiat,
+quod in ipso nimirum, ut saepe expertus est, omnia
+possit, quae posse tamen prosit; et sine ipso possit
+nihil.
+</p>
+        </div3>
+      </div2>
+
+<div2>
+        <head>CAPUT IX. <hi>De secundo et tertio gradu amoris.</hi> </head>
+<div3>
+          <head>26.</head>
+          <p>
+ Amat ergo jam Deum, sed propter se interim
+adhuc, non propter ipsum. Est tamen quaedam prudentia
+scire quid ex te, quid ex Dei adjutorio possis,
+<pb n="0989C"/>
+et ipsi servare te infensum [ <hi>id est</hi> inoffensum],
+qui te tibi servat illaesum. At si frequens ingruerit
+tribulatio, ob quam et frequens ad Deum conversio
+fiat, et a Deo aeque frequens liberatio consequatur;
+nonne, etsi <emph>595</emph> fuerit ferreum pectus, vel cor lapideum
+toties liberati, emolliri necesse est ad gratiam
+liberantis, quatenus Deum homo diligat, non
+propter se tantum, sed et propter ipsum? Ex occasione
+quippe frequentium necessitatum crebris necesse
+est interpellationibus Deum ab homine frequentari,
+frequentando gustari, gustando probari
+quam suavis est Dominus. Ita fit ut ad diligendum
+pure Deum plus jam ipsius gustata alliciat suavitas,
+quam urgeat nostra necessitas; ita ut exemplo Samaritanorum,
+dicentium mulieri quae adesse Dominum
+<pb n="0989D"/>
+nuntiaverat, <hi>Jam non propter tuam loquelam
+credimus; ipsi enim audivimus, et scimus quia ipse
+est vere Salvator mundi <note>(Joan. IV, 42)</note>
+          </hi>; ita, inquam,
+et nos illorum exemplo carnem nostram alloquentes,
+dicamus merito: Jam non propter tuam necessitatem
+Deum diligimus; ipsi enim gustavimus et scimus
+quoniam suavis est Dominus. Est enim carnis
+quaedam loquela necessitas, et beneficia quae experiendo
+probat, gestiendo [ <hi>al.</hi> gustando] renuntiat.
+Itaque sic affecto, jam de diligendo proximo implere
+mandatum, non erit difficile. Amat quippe veraciter
+Deum, ac per hoc quae Dei sunt. Amat caste, et casto
+non gravatur obedire mandato, castificans magis
+cor suum, ut scriptum est, in obedientia charitatis <note>(I Petr. I, 22)</note>.
+Amat juste, et mandatum justum
+<pb n="0990A"/>
+libenter amplectitur. Amor iste merito gratus, quia
+gratuitus. Castus est, quia non impenditur verbo,
+neque lingua, sed opere et veritate. Justus est, quoniam
+qualis suscipitur, talis et redditur. Qui enim
+sic amat, haud secus profecto, quam amatus est,
+amat; quaerens et ipse vicissim, non quae sua sunt,
+sed quae Jesu Christi, quemadmodum ille nostra,
+vel potius nos, et non sua quaesivit. Sic amat qui
+dicit: <hi>Confitemini Domino quoniam bonus <note>(Psal.
+CXVII, 1)</note>
+          </hi>. Qui Domino confitetur, non quoniam sibi
+bonus est, sed quoniam bonus est; hic vere diligit
+Deum propter Deum, et non propter seipsum. Non
+sic amat de quo dicitur: <hi>Confitebitur tibi cum benefeceris
+ei <note>(Psal. XLVIII, 19)</note>
+          </hi>. Iste est tertius amoris
+gradus, quo jam propter se ipsum Deus diligitur.
+</p>
+        </div3>
+      </div2>
+
+<div2>
+        <head>CAPUT X. <hi>De quarto gradu amoris cum nec seipsum diligit homo nisi propter Deum.</hi> </head>
+<div3>
+          <head>27.</head>
+          <p>
+ Felix qui meruit ad quartum usque pertingere,
+<pb n="0990B"/>quatenus nec seipsum diligat homo nisi
+propter Deum. Justitia tua, Deus, sicut montes Dei <note>(Psal. XXXV, 7)</note>.
+Amor iste mons est, et mons Dei
+excelsus. Revera mons coagulatus, mons pinguis <note>(Psal. LXVII, 16)</note>.
+Quis ascendet in montem Domini? <note>(Psal. XXIII, 3.)</note> 
+ Quis dabit mihi pennas sicut columbae,
+et volabo et requiescam? <note>(Psal. LIV, 7.)</note> Factus
+est in pace locus iste, et habitatio haec in Sion <note>(Psal. LXXV, 3)</note>.
+Heu mihi quia incolatus meus prolongatus
+est! <note>(Psal. CXIX, 5.)</note> Caro et sanguis, vas
+luteum, terrena inhabitatio quando capit hoc? quando
+<pb n="0990C"/>
+hujuscemodi experitur affectum, ut divino debriatus
+amore animus, oblitus sui, factusque sibi ipsi tanquam
+vas perditum, totus pergat in Deum, et adhaerens
+Deo unus cum eo spiritus fiat <note>(I Cor. VI, 17)</note>.
+et dicat: <hi>Defecit caro mea et cor meum, Deus cordis
+mei, et pars mea Deus in aeternum? <note>(Psal. LXXII, 26.)</note>
+          </hi> 
+Beatum dixerim et sanctum, cui tale aliquid in hac
+mortali vita raro interdum, aut vel semel, et hoc
+ipsum raptim, atque unius vix momenti spatio experiri
+donatum est. Te enim quodammodo perdere,
+tanquam qui non sis, et omnino non sentire teipsum,
+et a teipso exinaniri, et pene annullari,
+coelestis est conversationis, non humanae affectionis.
+Et si quidem e mortalibus quispiam ad illud raptim
+<pb n="0990D"/>
+interdum (ut dictum est) et ad momentum admittitur,
+subito invidet saeculum nequam, perturbat diei
+malitia, corpus mortis aggravat, sollicitat carnis necessitas,
+defectus corruptionis non sustinet, quodque
+his violentius est, fraterna revocat charitas. Heu!
+redire in se, recidere in sua compellitur, et miserabiliter
+exclamare, <hi>Domine, vim patior, responde pro
+me <note>(Isa. XXXVIII, 14)</note>
+          </hi>: et illud, <hi>Infelix ego homo,
+quis</hi> <emph>596</emph> <hi>me liberabit de corpore mortis hujus? <note>(Rom. VII, 24.)</note>
+          </hi> </p>
+        </div3>
+<div3>
+          <head>28.</head>
+          <p>
+ Quoniam tamen Scriptura loquitur, Deum
+omnia fecisse propter semetipsum; erit profecto ut
+factura sese quandoque conformet et concordet
+Auctori. Oportet proinde in eumdem nos affectum
+quandocunque transire: ut quomodo Deus omnia
+<pb n="0991A"/>
+esse voluit propter semetipsum, sic nos quoque nec
+nosipsos, nec aliud aliquid fuisse, vel esse velimus,
+nisi aeque propter ipsum, ob solam videlicet ipsius
+voluntatem, non nostram voluptatem. Delectabit
+sane non tam nostra, vel sopita necessitas, vel sortita
+felicitas, quam quod ejus in nobis, et de nobis
+voluntas adimpleta videbitur: quod et quotidie postulamus
+in oratione cum dicimus, <hi>Fiat voluntas
+tua, sicut in coelo, et in terra <note>(Matth. VI, 10)</note>
+          </hi>. O amor
+sanctus et castus! o dulcis et suavis affectio! o
+pura et defaecata intentio voluntatis! eo certe defaecatior
+et purior, quo in ea de proprio nil jam
+admistum relinquitur: eo suavior et dulcior, quo
+totum divinum est quod sentitur. Sic affici, deificari
+est. Quomodo stilla aquae modica, multo infusa vino,
+<pb n="0991B"/>
+deficere a se tota videtur, dum et saporem vini induit,
+et colorem; et quomodo ferrum ignitum et
+candens, igni simillimum fit, pristina propriaque
+forma exutum; et quomodo solis luce perfusus aer
+in eamdem transformatur luminis claritatem, adeo
+ut non tam illuminatus, quam ipsum lumen esse
+videatur: sic omnem tunc in sanctis humanam
+affectionem quodam ineffabili modo necesse erit a
+semetipsa liquescere, atque in Dei penitus transfundi
+voluntatem. Alioquin quomodo omnia in omnibus
+erit Deus, si in homine de homine quidquam supererit?
+Manebit quidem substantia, sed in alia forma,
+alia gloria, aliaque potentia. Quando hoc erit? quis
+hoc videbit? quis possidebit? Quando veniam, et apparebo
+<pb n="0991C"/>
+ante faciem Dei? <note>(Psal. XLI, 3.)</note> Domine Deus
+<pb n="0992A"/>
+meus, tibi dixit cor meum, exquisivit te facies mea;
+faciem tuam, Domine, requiram <note>(Psal. XXVI, 8)</note>.
+Putas, videbo templum sanctum tuum?</p>
+        </div3>
+<div3>
+          <head>29.</head>
+          <p>
+ Ego puto non ante sane perfecte impletum iri, <hi>Diliges Dominum Deum tuum ex toto corde tuo, et ex
+tota anima tua, et ex tota virtute tua 
+ <note>(Matth. XXII, 37)</note>
+          </hi>;
+quousque ipsum cor cogitare jam non cogatur de
+corpore, et anima eidem in hoc statu vivificando et
+sensificando intendere desinat, et virtus ejusdem
+relevata molestiis, in Dei potentia roboretur. Impossibile
+namque est tota haec ex toto ad Deum
+colligere, et divino infigere vultui, quandiu ea huic
+fragili et aerumnoso corpori intenta et distenta necesse
+est subservire. Itaque in corpore spirituali
+et immortali, in corpore integro, placido, placitoque,
+<pb n="0992B"/>
+et per omnia subjecto spiritui, speret se
+anima quartum apprehendere amoris gradum, vel
+potius in ipso apprehendi: quippe quod Dei potentiae
+est dare cui vult, non humanae industriae assequi.
+Tunc, inquam, summum obtinebit facile gradum,
+cum in gaudium Domini sui promptissime et avidissime
+festinantem nulla jam retardabit carnis illecebra,
+nulla molestia conturbabit. Putamusne tamen
+hanc gratiam vel ex parte sanctos martyres assecutos,
+in illis victoriosis corporibus adhuc constitutos?
+Magna vis prorsus amoris illas animas introrsum
+rapuerat, qua ita sua corpora foris exponere, et
+tormenta contemnere valuerunt. At profecto doloris
+acerrimi sensus non potuit non turbare serenum,
+<pb n="0992C"/>
+etsi non perturbare.
+</p>
+        </div3>
+      </div2>
+
+<div2>
+        <head>CAPUT XI. <hi>Haec amoris perfectio non competit etiam solutis animabus beatorum, ante resurrectionem.</hi> </head>
+<div3>
+          <head>30.</head>
+          <p>
+ Quid autem jam solutas corporibus? Immersas
+<pb n="0993A"/>ex toto credimus immenso illi pelago aeterni luminis,
+et luminosae aeternitatis. Sed si (quod non negatur)
+velint sua corpora recepisse, aut certe recipere desiderent
+et sperent; liquet procul dubio necdum a seipsis
+penitus immutatas, quibus constat <emph>597</emph> necdum
+penitus deesse de proprio, quo vel modice intentio
+reflectatur. Donec ergo absorpta sit mors in
+victoria, et noctis undique terminos lux perennis
+invadat et occupet usquequaque, quatenus et in
+corporibus gloria coelestis effulgeat; non possunt ex
+toto animae seipsas exponere, et transire in Deum,
+<pb n="0993B"/>
+nimirum ligatae corporibus etiam tunc, etsi non vita
+vel sensu, certe affectu naturali, ita ut absque his
+nec velint, nec valeant consummari. Itaque ante restaurationem
+corporum non erit ille defectus animorum,
+qui perfectus et summus est ipsorum status:
+nec carnis jam sane consortium spiritus requireret,
+si absque illa consummaretur. Enim vero absque
+profectu animae nec ponitur corpus, nec resumitur.
+Denique pretiosa in conspectu Domini mors sanctorum
+ejus <note>(Psal. CXV, 15)</note>. Quod si mors pretiosa,
+quid vita, et illa vita? Nec mirum, si corpus jam
+gloriae conferre videtur spiritui, quod et infirmum
+et mortale constat ipsi non mediocriter valuisse. O
+quam verum locutus est qui dixit, diligentibus Deum
+omnia cooperari in bonum <note>(Rom. VIII, 28)</note>. Valet
+<pb n="0993C"/>
+Deum diligenti animae corpus suum infirmum, valet
+et mortuum, valet et resuscitatum: primo quidem
+ad fructum poenitentiae, secundo ad requiem, postremo
+ad consummationem. Merito sine illo perfici
+non vult, quod in omni statu in bonum sibi subservire
+persentit.</p>
+        </div3>
+<div3>
+          <head>31.</head>
+          <p>
+ Bonus plane fidusque comes caro spiritui bono,
+quae ipsum aut si onerat, juvat; aut si non juvat,
+exonerat; aut certe juvat, et minime onerat. Primus
+status laboriosus, sed fructuosus: secundus otiosus,
+sed minime fastidiosus: tertius et gloriosus. Audi
+et sponsum in Canticis ad profectum hunc trimodum
+invitantem. <hi>Comedite,</hi> inquit, <hi>amici, et bibite; et
+inebriamini, charissimi <note>(Cantic. V, 1)</note>
+          </hi>. Laborantes in
+<pb n="0993D"/>
+corpore vocat ad cibum: jam posito corpore quiescentes
+ad potum invitat: resumentes corpora, etiam
+ut inebrientur impellit: quos et vocat charissimos,
+nimirum charitate plenissimos. Nam et in caeteris,
+quos non charissimos, sed amicos appellat, differentia
+est: ut hi quidem qui in carne adhuc gravati
+gemunt, chari habeantur pro charitate quam habent:
+qui vero jam soluti carnis compede sunt, eo
+sint chariores, quo et promptiores atque expeditiores
+facti ad amandum. Porro prae utrisque merito nominantur
+et sunt charissimi, qui recepta jam secunda
+stola, in corporibus utique cum gloria resumptis,
+tanto in Dei feruntur amorem liberiores et
+alacriores, quanto et de proprio nil jam residuum
+est, quod eos aliquatenus sollicitet vel retardet. Quod
+<pb n="0994A"/>
+quidem neuter sibi reliquorum statuum vindicat;
+cum et in priori corpus cum labore portetur, et in
+secundo quoque non sine proprietate aliqua desiderii
+exspectetur.</p>
+        </div3>
+<div3>
+          <head>32.</head>
+          <p>
+ Primo ergo fidelis anima comedit panem suum,
+sed heu! in sudore vultus sui. In carne quippe manens
+adhuc ambulat per fidem, quam sane operari
+per dilectionem necesse est: quia si non operatur,
+mortua est. Porro ipsum opus cibus est, dicente Domino: <hi>Meus cibus est, ut faciam voluntatem Patris
+mei 
+ <note>(Joan. IV, 34)</note>
+          </hi>. Dehinc carne exuta jam pane
+doloris non cibatur; sed vinum amoris, tanquam
+post cibum, plenius haurire permittitur, non purum
+tamen, sed quomodo sub sponsi nomine in Canticis
+dictum legitur: <hi>bibi vinum meum cum lacte meo</hi> 
+<pb n="0994B"/> <note>(Cantic. V, 1)</note>.
+Vino enim divini amoris etiam tunc
+anima suavitatem naturalis immiscet affectionis,
+qua resumere corpus suum, ipsumque glorificatum
+desiderat. Aestuat ergo jam tunc sanctae charitatis
+potata vino, sed plane nondum usque ad ebrietatem:
+quoniam temperat interim ardorem illum hujus lactis
+permistio. Ebrietas denique solet evertere mentes,
+atque omnino reddere immemores sui. At non ex
+toto sui oblita est, quae adhuc de proprio corpore
+cogitat suscitando. Caeterum hoc adepto, quod solum
+utique deerat, quid jam impedit a se ipsa quodammodo
+abire, et ire totam in Deum, eoque sibi penitus
+dissimillimam fieri, quo Deo simillimam effici
+donatur? Tum demum ad crateram admissa sapientiae,
+illam de qua legitur, <hi>Et calix meus</hi> <emph>598</emph> <hi>inebrians
+<pb n="0994C"/>
+quam praeclarus est! <note>(Psal. XXII, 5.)</note>
+          </hi> quid mirum
+jam si inebriatur ab ubertate domus Dei, cum
+nulla mordente cura de proprio, secura bibit
+purum et novum illud cum Christo in regno Patris
+ejus?</p>
+        </div3>
+<div3>
+          <head>33.</head>
+          <p>
+ Hoc vero convivium triplex celebrat Sapientia,
+et ex una complet charitate, ipsa cibans laborantes,
+ipsa potans quiescentes, ipsa regnantes
+inebrians. Quomodo autem in convivio corporali
+ante cibus quam potus apponitur, quoniam et tali
+ordine natura requirit; ita et hic. Primo quidem
+ante mortem in carne mortali labores manuum
+nostrarum manducamus, cum labore quod glutiendum
+est masticantes: post mortem vero in vita spirituali
+<pb n="0994D"/>
+jam bibimus, suavissima quadam facilitate
+quod percipitur colantes: tandem redivivis corporibus
+in vita immortali inebriamur, mira plenitudine
+exuberantes. Haec pro eo quod sponsus in Canticis
+dicit: <hi>Comedite, amici, et bibite; et inebriamini,
+charissimi.</hi> Comedite ante mortem, bibite post mortem,
+inebriamini post resurrectionem. Merito jam
+charissimi, qui charitate inebriantur: et merito
+inebriati, qui ad nuptias Agni introduci merentur,
+edentes et bibentes super mensam illius in regno
+suo, quando sibi jam exhibet gloriosam Ecclesiam,
+non habentem maculam, neque rugam, aut aliquid
+hujusmodi <note>(Ephes. V, 27)</note>. Tunc prorsus inebriat
+charissimos suos, tunc torrente voluptatis suae potat <note>(Psal. XXXV, 9)</note>:
+quoniam quidem in complexu illo
+<pb n="0995A"/>
+arctissimo et castissimo sponsi et sponsae, fluminis
+impetus laetificat civitatem Dei <note>(Psal. XLV, 5)</note>. Quod
+non aliud esse arbitror quam Dei Filium, qui transiens
+ministrat, quemadmodum ipse promisit <note>(Luc.
+XII, 37)</note>: ut ex hoc jam justi epulentur et exsultent
+in conspectu Dei, et delectentur in laetitia <note>(Psal.
+LXVII, 4)</note>. Hinc illa satietas sine fastidio: hinc insatiabilis
+illa sine inquietudine curiositas: hinc aeternum
+illud atque inexplicabile desiderium, nesciens
+egestatem: hinc denique sobria illa ebrietas, vero,
+non mero ingurgitans, non madens vino, sed ardens
+Deo. Ex hoc jam quartus ille amoris gradus perpetuo
+possidetur, cum summe, et solus diligitur Deus:
+quia nec nos ipsos jam nisi propter ipsum diligimus,
+ut sit ipse praemium amantium se, praemium aeternum
+<pb n="0995B"/>
+amantium in aeternum.
+</p>
+        </div3>
+      </div2>
+
+<div2>
+        <head>CAPUT XII. <hi>De charitate ex epistola ad Cartusianos scripta.</hi> </head>
+<div3>
+          <head>34.</head>
+          <p>
+ Memini me dudum ad sanctos fratres Cartusienses
+scripsisse epistolam, ac de his ipsis in ea
+gradibus inter caetera disseruisse <note>(Epist. 11)</note>. Forte
+autem alia ibi, etsi non aliena, de charitate locutus
+sum; et ob hoc quaedam illorum huic [ <hi>al.</hi> hujus]
+quoque sermoni subjungere non inutile duco: praesertim
+cum facilius ad manum habeam transcribere
+jam dictata, quam nova iterum dictare. Illa, inquam,
+vera et sincera est charitas, et omnino de corde
+puro, et conscientia bona, et fide non ficta fatenda
+est procedere, qua proximi bonum, aeque ut nostrum,
+<pb n="0995C"/>
+diligimus. Nam qui magis, aut certe solum diligit
+suum, convincitur non caste diligere bonum, quod
+utique propter se diligit, non propter ipsum. Et hic
+talis non potest obedire prophetae, qui ait: <hi>Confitemini
+Domino, quoniam bonus <note>(Psal. CXVII, 1)</note>
+          </hi>. Confitetur
+quidem, quia fortasse bonus est sibi, non
+autem quoniam bonus est in se. Quapropter noverit
+in se dirigi illud ab eodem propheta opprobrium: <hi>Confitebitur tibi, cum benefeceris ei 
+ <note>(Psal. XLVIII, 19)</note>
+          </hi>.
+Est qui confitetur Domino quoniam potens est, et est
+qui confitetur quoniam sibi bonus est, et item qui
+confitetur quoniam simpliciter bonus est. Primus
+servus est, et timet sibi; secundus, mercenarius, et
+cupit sibi; tertius, filius, et defert patri. Itaque et
+qui timet, et cupit, utrique pro se agunt. Sola quae
+<pb n="0995D"/>
+in filio est charitas, non quaerit quae sua sunt <note>(I Cor.
+XIII, 5)</note>. Quamobrem puto de illa dictum, <hi>Lex Domini
+immaculata, convertens animas <note>(Psal. XVIII, 8)</note>
+          </hi>:
+quod sola videlicet sit, quae ab amore sui et mundi
+convertere possit animum, et in Deum dirigere. Nec
+timor quippe, nec amor privatus convertunt animam.
+Mutant interdum vultum, vel actum; affectum
+nunquam. Facit quidem nonnunquam <emph>599</emph> etiam
+servus opus Dei: sed quia non sponte, in sua adhuc
+duritia permanere cognoscitur. Facit et mercenarius:
+sed quia non gratis, propria trahi cupiditate
+convincitur. Porro ubi proprietas, ibi singularitas,
+ibi angulus: ubi vero angulus, ibi sine dubio sordes
+sive rubigo. Sit itaque servo sua lex, timor ipse quo
+constringitur; sit sua mercenario cupiditas, qua et
+<pb n="0996A"/>
+ipse arctatur, quando tentatur abstractus et illectus.
+Sed harum nulla, aut sine macula est, aut animas
+convertere potest. Charitas vero convertit animas,
+quas facit et voluntarias.</p>
+        </div3>
+<div3>
+          <head>35.</head>
+          <p>
+ Porro in eo eam dixerim immaculatam, quod
+nil sibi de suo retinere consuevit. Cui nempe de
+proprio nihil est, totum profecto quod habet, Dei
+est: quod autem Dei est, immundum esse non potest.
+Lex ergo Domini immaculata, charitas est:
+quae non quod sibi utile est, quaerit, sed quod multis.
+Lex autem Domini, dicitur, sive quod ipse ex
+ea vivat, sive quod eam nullus, nisi ejus dono possideat.
+Nec absurdum videatur, quod dixi etiam Deum
+vivere ex lege: cum non alia quam charitate dixerim.
+Quid vero in summa et beata illa Trinitate
+<pb n="0996B"/>
+summam et ineffabilem illam conservat unitatem,
+nisi charitas? Lex est ergo, et lex Domini, charitas,
+quae Trinitatem in unitate quodammodo cohibet, et
+colligat in vinculo pacis. Nemo tamen me aestimet
+charitatem hic accipere qualitatem, vel aliquod accidens
+(alioquin in Deo dicerem, quod absit, esse
+aliquid quod Deus non est), sed substantiam illam
+divinam: quod utique nec novum, nec insolitum est,
+dicente Joanne, <hi>Deus charitas est <note>(Joan. IV, 8)</note>
+          </hi>. Dicitur
+ergo recte et charitas, et Deus, et Dei donum.
+Itaque charitas dat charitatem, substantiva accidentalem.
+Ubi dantem significat, nomen substantiae est:
+ubi donum, qualitatis. Haec est lex aeterna, creatrix
+et gubernatrix universitatis. Siquidem in pondere,
+<pb n="0996C"/>
+et mensura, et numero per eam facta sunt universa,
+et nihil sine lege relinquitur, cum ipsa quoque lex
+omnium sine lege non sit, non tamen alia quam se
+ipsa: qua et seipsam etsi non creavit, regit tamen.
+</p>
+        </div3>
+      </div2>
+
+<div2>
+        <head>CAPUT XIII. <hi>De lege propriae voluntatis et cupiditatis, servorum et mercenariorum.</hi> </head>
+<div3>
+          <head>36.</head>
+          <p>
+ Caeterum servus et mercenarius habent legem,
+non a Domino, sed quam ipsi sibi fecerunt: ille Deum
+non amando, iste plus aliud amando. Habent, inquam,
+legem non Domini, sed suam; illi tamen, quae
+Domini est, subjectam. Et quidem suam sibi quisque
+legem facere potuerunt: non tamen eam incommutabili
+aeternae legis ordini subducere potuerunt. Tunc
+<pb n="0996D"/>
+autem dixerim quemque sibi fecisse suam legem,
+quando communi et aeternae legi propriam praetulit
+voluntatem, perverse utique volens suum imitari
+Creatorem: ut sicut ipse sibi lex, suique juris est,
+ita is quoque se ipsum regeret, et legem sibi suam
+faceret voluntatem. Grave utique et importabile jugum
+super omnes filios Adam, heu! inclinans et incurvans
+cervices nostras, adeo ut vita nostra inferno
+appropinquarit <note>(Psal. LXXXVII, 4)</note>. Infelix ego homo,
+quis me liberabit de corpore mortis hujus? <note>(Rom.
+VII, 24.)</note> quo utique premor, et pene opprimor, ita
+ut nisi quia Dominus adjuvit me, paulo minus habitasset
+in inferno anima mea <note>(Psal. XCIII, 17)</note>. Sub
+hoc onere gravatus gemebat qui dicebat: <hi>Quare me
+posuisti contrarium tibi, et factus sum mihimet ipsi
+<pb n="0997A"/>
+gravis?</hi> Ubi dixit, <hi>Factus sum mihimet ipsi gravis,</hi> 
+ostendit quod lex ipse sibi esset, nec alius hoc quam
+sibi ipse fecisset. Quod autem loquens Deo, praemisit, <hi>Posuisti me contrarium tibi;</hi> 
+ Dei se tamen non
+effugisse legem indicavit. Hoc quippe ad aeternam
+justamque Dei legem pertinuit, ut qui a Deo noluit
+suaviter regi, poenaliter a seipso regeretur: quique
+sponte jugum suave et onus leve charitatis abjecit,
+propriae voluntatis onus importabile sustineret invitus.
+Miro itaque et justo modo aeterna lex fugitivum
+suum et posuit sibi [ <hi>al.</hi> eidem ipsi] contrarium,
+et retinuit subjectum: dum videlicet nec justitiae <emph>600</emph> 
+ pro meritis legem evasit; nec tamen cum Deo
+in sua luce, in sua requie, in sua gloria remansit,
+subjectus potestati, et submotus felicitati. Domine
+<pb n="0997B"/>
+Deus meus, <hi>cur non tollis peccatum meum, et quare
+non aufers iniquitatem meam? <note>(Job VII, 20, 21.)</note>
+          </hi> ut
+abjecta gravi sarcina propriae voluntatis, sub levi
+onere charitatis respirem; nec jam servili timore
+coercear, nec mercenaria cupiditate illiciar: sed
+agar spiritu tuo, spiritu libertatis, quo aguntur filii
+tui, qui testimonium reddat spiritui meo, quod et
+ego sim unus ex filiis <note>(Rom. VIII, 14-16)</note>, dum eadem
+mihi lex fuerit quae et tibi; et sicut tu es, ita et ipse
+sim in hoc mundo. Hi siquidem, qui hoc faciunt
+quod ait Apostolus, <hi>Nemini quidquam debeatis, nisi
+ut invicem diligatis <note>(Rom. XIII, 8)</note>
+          </hi>; procul dubio sicut
+Deus est, et ipsi sunt in hoc mundo: nec servi aut
+mercenarii sunt, sed filii.
+</p>
+        </div3>
+      </div2>
+
+<div2>
+        <head>CAPUT XIV. <hi>De lege charitatis filiorum.</hi> </head>
+<div3>
+          <head>37.</head>
+          <p>
+ Itaque nec filii sunt sine lege, nisi forte aliquis
+<pb n="0997C"/>aliter sentiat propter hoc quod scriptum est: <hi>Justis non est lex posita 
+ <note>(I Tim. I, 9)</note>
+          </hi>. Sed sciendum,
+quod alia est lex promulgata a spiritu servitutis in
+timore; alia a spiritu libertatis data in suavitate.
+Nec sub illa coguntur esse filii; nec sine ista esse
+patiuntur. Vis audire quia justis non est lex posita? <hi>Non accepistis,</hi> 
+ ait, <hi>spiritum servitutis iterum in timore.</hi> 
+Vis audire quod tamen sine lege charitatis
+non sint? <hi>Sed accepistis,</hi> inquit, <hi>spiritum adoptionis
+filiorum <note>(Rom. VIII, 15)</note>
+          </hi>. Denique audi justum utrumque
+de se fatentem, et quod non sit sub lege, nec
+<pb n="0997D"/>
+tamen sit sine lege. <hi>Factus sum,</hi> inquit, <hi>his qui sub
+lege erant, quasi sub lege essem; cum ipse non essem
+sub lege: his qui sine lege erant, tanquam sine lege
+essem; cum sine lege Dei non essem, sed in lege essem
+Christi <note>(I Cor. IX, 21)</note>
+          </hi>. Unde apte non dicitur, Justi
+non habent legem, aut, Justi sunt sine lege: sed, <hi>Justis non est lex posita;</hi> 
+ hoc est, non tanquam invitis
+imposita, sed voluntariis eo liberaliter data,
+quo suaviter inspirata. Unde et pulchre Dominus, <hi>Tollite,</hi> 
+ ait, <hi>jugum meum super vos <note>(Matth. XI, 29)</note>
+          </hi>:
+ac si diceret, Non impono invitis, sed vos tollite si
+vultis; alioquin non requiem, sed laborem invenietis
+animabus vestris.</p>
+        </div3>
+<div3>
+          <head>38.</head>
+          <p>
+ Bona itaque lex charitas, et suavis: quae non
+solum leviter suaviterque portatur, sed etiam servorum
+<pb n="0998A"/>
+et mercenariorum leges portabiles ac leves
+reddit, quas utique non destruit, sed facit ut impleantur,
+dicente Domino: <hi>Non veni legem solvere,
+sed adimplere <note>(Matth. V, 17)</note>
+          </hi>. Illam temperat, istam
+ornat, utramque levigat. Nunquam erit charitas sine
+timore, sed casto: nunquam sine cupiditate, sed
+ordinata. Implet ergo charitas legem servi, cum infundit
+devotionem: implet et mercenarii, cum ordinat
+cupiditatem. Porro timori permista devotio ipsum
+non annullat, sed castificat. Poena tantum tollitur,
+sine qua esse non potuit dum fuit servilis; et timor
+manet in saeculum saeculi castus et filialis. Nam quod
+legitur, <hi>Perfecta charitas foras mittit timorem <note>(I Joan.
+IV, 18)</note>
+          </hi>; poena intelligenda est, quae servili, ut diximus,
+nunquam deest timori, illo scilicet genere locutionis,
+<pb n="0998B"/>
+quo saepe causa ponitur pro effectu. Deinde
+cupiditas tunc recte a superveniente charitate ordinatur,
+cum mala quidem penitus respuuntur, bonis
+vero meliora praeferuntur, nec bona nisi propter
+meliora appetuntur. Quod cum plene per Dei gratiam
+assecutum fuerit, diligetur corpus, et universa
+corporis bona tantum propter animam, anima propter
+Deum, Deus autem propter seipsum.
+</p>
+        </div3>
+      </div2>
+
+<div2>
+        <head>CAPUT XV. <hi>De quatuor gradibus amoris, et felici statu patriae coelestis.</hi> </head>
+<div3>
+          <head>39.</head>
+          <p>
+ Verumtamen quia carnales sumus, et de carnis
+concupiscentia nascimur, necesse est ut cupiditas
+vel amor noster a carne incipiat; quae si recto
+ordine dirigitur, quibusdam suis gradibus duce gratia
+<pb n="0998C"/>
+proficiens, spiritu tandem consummabitur: quia
+non prius quod spirituale, sed quod animale, deinde
+quod <emph>601</emph> spirituale <note>(I Cor. XV, 46)</note>. Et prius necesse
+est portemus imaginem terrestris, deinde coelestis.
+In primis ergo diligit seipsum homo propter
+se; caro quippe est, et nil sapere valet praeter se.
+Cumque se videt per se non posse subsistere, Deum
+quasi sibi necessarium incipit per fidem inquirere,
+et diligere. Diligit itaque in secundo gradu Deum,
+sed propter se, non propter ipsum. At vero cum
+ipsum coeperit occasione propriae necessitatis colere
+et frequentare, cogitando, legendo, orando, obediendo,
+quadam hujuscemodi familiaritate paulatim
+sensimque Deus innotescit, consequenter et dulcescit:
+<pb n="0998D"/>
+et sic gustato quam suavis est Dominus, transit
+ad tertium gradum, ut diligat Deum, non jam
+propter se, sed propter ipsum. Sane in hoc gradu
+diu statur: et nescio si a quoquam hominum quartus
+in hac vita perfecte apprehenditur, ut se scilicet
+diligat homo tantum propter Deum. Asserant hoc si
+qui experti sunt: mihi, fateor, impossibile videtur.
+Erit autem procul dubio, cum introductus fuerit servus
+bonus et fidelis in gaudium Domini sui <note>(Matth.
+XXV, 21)</note>, et inebriatus ab ubertate domus Dei <note>(Psal.
+XXXV, 9)</note>. Quasi enim miro quodam modo oblitus
+sui, et a se penitus velut deficiens, totus perget in
+Deum: et deinceps adhaerens ei, unus cum eo spiritus
+erit <note>(I Cor. VI, 17)</note>. Arbitror hoc sensisse Prophetam
+cum diceret: <hi>Introibo in potentias Domini;
+<pb n="0999A"/>
+Domine, memorabor justitiae tuae solius <note>(Psal. LXX,
+16)</note>
+          </hi>. Sciebat profecto cum introiret in spirituales potentias
+Domini, exutum se iri universis carnis infirmitatibus:
+ut jam nil de carne haberet cogitare, sed
+totus in spiritu memoraretur justitiae Domini solius.</p>
+        </div3>
+<div3>
+          <head>40.</head>
+          <p>
+ Tunc pro certo singula Christi membra dicere
+poterunt de se, quod Paulus aiebat de capite: <hi>Etsi
+cognovimus secundum carnem Christum, sed nunc jam
+non novimus <note>(II Cor. V, 16)</note>
+          </hi>. Nemo ibi se cognoscet
+secundum carnem: quia caro et sanguis regnum Dei
+non possidebunt. Non quod carnis illic substantia
+futura non sit; sed quod carnalis omnis necessitudo
+sit defutura, carnisque amor amore spiritus absorbendus;
+et infirmae, quae nunc sunt, humanae affectiones
+in divinas quasdam habeant commutari. Tunc
+<pb n="0999B"/>
+sagena charitatis, quae nunc tracta per hoc mare
+magnum et spatiosum ex omni genere piscium congregare
+non desinit, cum perducta ad littus fuerit,
+malos foras mittens, bonos solummodo retinebit <note>(Matth. XIII, 47, 48)</note>.
+Siquidem in hac vita ex omni
+genere piscium intra sinum suae latitudinis charitatis
+rete concludit: ubi se pro tempore omnibus conformans,
+omniumque in se sive adversa, sive prospera
+trajiciens, ac sua quodammodo faciens, non solum
+gaudere cum gaudentibus, sed etiam flere cum flentibus
+<pb n="1000A"/>
+consuevit <note>(Rom. XII, 15)</note>. Sed cum pervenerit ad
+littus, velut malos pisces omne quod triste patitur,
+foras mittens, sola quae placere et jucunda esse poterunt,
+retinebit. Nunquid enim tunc, verbi gratia,
+Paulus aut infirmabitur cum infirmis, aut uretur
+pro scandalizatis <note>(II Cor. XI, 29)</note>, ubi scandala et infirmitas
+procul erunt? Aut certe lugebit eos qui non
+agent [ <hi>al.</hi> habent] poenitentiam <note>(II Cor. XII, 21)</note>, ubi
+certum est nec peccantem fore, nec poenitentem?
+Absit autem ut vel eos qui ignibus aeternis cum diabolo
+et angelis ejus deputandi sunt, plangat et defleat
+in illa civitate, quam fluminis impetus laetificat,
+cujus et diligit Dominus portas super omnia tabernacula
+Jacob: quod videlicet in tabernaculis, etsi
+quandoque gaudetur de victoria, laboratur tamen in
+<pb n="1000B"/>
+pugna, et plerumque periclitatur de vita: in illa
+autem patria nulla prorsus admittatur adversitas
+sive tristitia, quemadmodum de illa canitur, <hi>Sicut
+laetantium omnium habitatio est in te <note>(Psal. LXXXVI,
+2, 7)</note>
+          </hi>: et rursum, <hi>Laetitia sempiterna erit eis <note>(Isai.
+LXI, 7)</note>
+          </hi>. Denique quomodo misericordiae recordabitur,
+ubi memorabitur justitiae Dei solius? Proinde
+ubi jam non erit miseriae locus, aut misericordiae
+tempus; nullus profecto esse poterit miserationis
+affectus.
+
+</p>
+        </div3>
+      </div2>
+</body>
+  </text>
+</TEI>

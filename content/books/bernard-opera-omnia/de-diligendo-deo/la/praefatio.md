@@ -1,0 +1,5 @@
+# Praefatio
+
+Viro illustri domino HAIMERICO, ecclesiae Romanae diacono cardinali et cancellario, BERNARDUS abbas dictus de Clara-Valle, Domino vivere, et in Domino mori.
+
+Orationes a me, et non quaestiones poscere solebatis: et quidem ego ad neutrum idoneum me esse confido. Verum illud indicit professio, etsi non ita conversatio: ad hoc vero (ut verum fatear) ea mihi deesse video, quae maxime necessaria viderentur, diligentiam et ingenium. Placet tamen, fateor, quod pro carnalibus spiritualia repetitis, si sane apud locupletiorem id facere libuisset. Quia vero doctis et indoctis pariter in istiusmodi excusandi mos est, nec facile scitur, quae vere ex imperitia, quaeve ex verecundia excusatio prodeat, si non injucti operis obeditio probat: accipite de mea paupertate quod habeo, ne tacendo philosophus puter. Nec tamen ad omnia spondeo me responsurum. Ad id solum quod de diligendo Deo quaeritis, respondebo quod ipse dabit. Hoc enim et sapit dulcius, et tractatur securius, et auditur utilius. Reliqua diligentioribus reservate.

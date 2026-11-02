@@ -1,0 +1,13 @@
+{
+  "name": {
+    "en-US": "St. Bernard of Clairvaux",
+    "pt-BR": "São Bernardo de Claraval"
+  },
+  "century": 12,
+  "saint": "bernard_clairvaux",
+  "matches": [
+    "St. Bernard of Clairvaux",
+    "Bernard of Clairvaux",
+    "Bernardus Claraevallensis"
+  ]
+}

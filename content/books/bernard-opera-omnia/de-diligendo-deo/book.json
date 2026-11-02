@@ -1,0 +1,168 @@
+{
+  "id": "bernard-de-diligendo-deo",
+  "cover": "classic",
+  "name": {
+    "la": "De diligendo Deo",
+    "en-US": "On Loving God",
+    "pt-BR": "Sobre o amor a Deus"
+  },
+  "author": {
+    "la": "Bernardus Claraevallensis",
+    "en-US": "St. Bernard of Clairvaux",
+    "pt-BR": "São Bernardo de Claraval"
+  },
+  "description": {
+    "la": "Libellus Bernardi ad Haimericum cardinalem, de causa et modo diligendi Deum et de quattuor gradibus amoris: «causa diligendi Deum, Deus est; modus, sine modo diligere». Textus ex editione Migne (Patrologia Latina 182, 1854), cum Admonitione Mabillonii.",
+    "en-US": "Bernard’s little treatise for Cardinal Haimeric on why and how God is to be loved, and the four degrees of love: “the reason for loving God is God; the measure, to love without measure.” The Latin is the Maurist text in Migne (Patrologia Latina 182, 1854), from a machine-corrected OCR, with Mabillon’s Admonitio, the preface and all fifteen chapters. The English is Marianne Caroline and Coventry Patmore’s 1881 translation, which renders chapters I to XI (the treatise proper) and not the Latin’s closing chapters XII to XV, drawn from the letter to the Carthusians; the Admonitio and the preface to Haimeric are untranslated.",
+    "pt-BR": "O pequeno tratado de Bernardo ao cardeal Haimerico sobre por que e como se deve amar a Deus, e sobre os quatro graus do amor: «a razão de amar a Deus é Deus; a medida, amar sem medida»."
+  },
+  "composed": "c. 1126-1141",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "work": "bernard/de-diligendo-deo",
+  "editions": {
+    "la": {
+      "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182)",
+      "year": 1854
+    },
+    "en-US": {
+      "translator": "Marianne Caroline and Coventry Patmore",
+      "year": 1881
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=11196",
+      "edition": "S. Bernardi Claraevallensis abbatis opera omnia, ed. J. Mabillon, in Migne, Patrologia Latina 182 (Paris 1854), De diligendo Deo with Mabillon’s Admonitio; TEI XML of the Corpus Corporum (University of Zurich), text 11196, from machine-corrected OCR.",
+      "description": "The complete text: Admonitio, preface and chapters I to XV with Mabillon’s chapter headings. PL page breaks and column numbers are dropped, and so are the paragraph numbers; Scripture references stay in parentheses as printed. The Admonitio is Mabillon’s own note and is kept.",
+      "tier": "A",
+      "tierEvidence": "Bernard died in 1153; Migne’s 1854 printing is public domain everywhere."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/saintbernardlove00bernuoft",
+      "edition": "Saint Bernard on the Love of God, translated by Marianne Caroline and Coventry Patmore (London: Burns & Oates, 2nd ed. 1884; first published Kegan Paul, 1881). Internet Archive OCR (saintbernardlove00bernuoft), with line-end hyphens restored from the second scan, https://archive.org/details/OnTheLoveOfGod.",
+      "description": "Chapters I to XI only. The “Fragments from a fragment” and the Three Rosaries of Our Lady that follow in the volume are not imported. OCR running heads and page numbers are removed; chapter titles are set in sentence case.",
+      "tier": "A",
+      "tierEvidence": "Published in London in 1881 and 1884; Coventry Patmore died in 1896 and Marianne in 1880s: public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "admonitio",
+      "title": {
+        "la": "Admonitio Mabillonii"
+      }
+    },
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. Quare et quomodo diligendus sit Deus",
+        "en-US": "Chapter I. Why we ought to love God, and how we ought to love Him"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. Deus quantopere ab homine mereatur amari, ob bona tum corporis, tum animae. Quomodo ea agnoscenda et habenda citra donantis injuriam",
+        "en-US": "Chapter II. That God has a right to the love of man because of His gifts to soul and body. How these should be confessed, and not turned against Him who gave them"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. Christiani quantos habeant stimulos amandi Deum prae infidelibus",
+        "en-US": "Chapter III. What motives Christians have, more than infidels, to love God"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. Quinam ex Dei recordatione consolationem capiant: quive magis ad ejus amorem idonei",
+        "en-US": "Chapter IV. For whom there is comfort in the thought of God; and who are fittest to feel love for Him"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. Christiano quantum incumbat debitum amoris",
+        "en-US": "Chapter V. Of the obligation to love God, especially for Christians"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. Brevis anacephalaeosis et summa praedictorum",
+        "en-US": "Chapter VI. A summary of what has hitherto been said"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. Non sine fructu et praemio diligi Deum; et terrenis non satiari humani cordis appetitum",
+        "en-US": "Chapter VII. The rewards and advantage of the love of God. The heart of man is not to be satisfied by earthly things"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII. De primo gradu amoris, quo diligit homo se propter se",
+        "en-US": "Chapter VIII. We begin by the love of self, this being for us the first degree of love"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX. De secundo et tertio gradu amoris",
+        "en-US": "Chapter IX. Of the second and third degrees of love"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput X. De quarto gradu amoris cum nec seipsum diligit homo nisi propter Deum",
+        "en-US": "Chapter X. The fourth degree of love is to love self only for God"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput XI. Haec amoris perfectio non competit etiam solutis animabus beatorum, ante resurrectionem",
+        "en-US": "Chapter XI. The saints will have perfect love only after the general resurrection"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput XII. De charitate ex epistola ad Cartusianos scripta"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Caput XIII. De lege propriae voluntatis et cupiditatis, servorum et mercenariorum"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "la": "Caput XIV. De lege charitatis filiorum"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "la": "Caput XV. De quatuor gradibus amoris, et felici statu patriae coelestis"
+      }
+    }
+  ]
+}
