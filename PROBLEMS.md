@@ -389,3 +389,7 @@ Text is the JesusMarie.com digital edition of Coste (tomes I-XIII and the 1970 "
 - Trent: the bull of indiction, acclamations, confirmation and *Benedictus Deus* still have no clean Latin.
 - `denzinger-opera-omnia/enchiridion-symbolorum`: not the 1911 text as printed. The 1911 OCR (two-column Latin/Greek pages, footnotes, apparatus) confirms the D numbers and selection, but the text of each entry is catho.org's Latin (later recension; editorial parentheses and source marks such as "(c. 7, n. 1)" remain). Not included: D 1-47 (early creeds with their variant apparatus), the French headings, and these D numbers (no catho counterpart and no clean OCR, or ambiguous): see the list below. A few OCR-only entries (132) keep li/ll damage. A proper edition would transcribe the 1911 page images (`audit-book-vs-pdf`). Chapters are blocks of about 40 numbers, not Denzinger's sections. Missing numbers: 
 52, 54, 57, 84, 90, 112, 148, 156, 160, 161, 162, 165, 171, 173, 202, 212, 248, 292, 297, 298, 301, 302, 337, 354, 363, 387, 451, 458, 459, 480, 493, 494, 547, 548, 549, 716, 723, 763, 781, 800, 809, 943, 1000, 1451, 1496, 1611, 1621, 1622, 1659, 1669, 1687, 1694, 1700, 1825, 1842, 1852, 1885, 1888, 1889, 1890, 1937, 1940, 1958, 1966, 2147
+
+### Catechisms (Baltimore, Deharbe, Canisius, Gaume, Spirago, Roman Catechism)
+
+- Baltimore No. 3 (Gutenberg #14553): Q. 630 lacks its "A." marker in the source and Q. 53 and 74 lack the period; read as questions and answers.

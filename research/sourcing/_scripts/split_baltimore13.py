@@ -9,6 +9,7 @@ s = next(i for i, l in enumerate(lines) if l.startswith("*** START"))
 e = next(i for i, l in enumerate(lines) if l.startswith("*** END"))
 text = "\n".join(lines[s + 1:e])
 text = re.sub(r"\{(?:Transcriber's Note|T\.N\.).*?\}", "", text, flags=re.S)
+text = text.replace("*", "\\*")  # the prayers mark parts to recite aloud with a literal asterisk
 text = re.sub(r"End of Project Gutenberg's.*", "", text)
 lines = text.split("\n")
 
@@ -34,6 +35,8 @@ def paras(block):
 
 def para(p, hymn=False):
     t = p[0].strip()
+    if num == "3" and len(p) == 1 and re.fullmatch(r"[A-Z][^.]{3,70}\.", t) and t.rstrip(".").istitle() | (t[:4] in ("The ", "An A", "Gra", "Bles")):
+        return "## " + t.rstrip(".")
     if len(p) == 1 and t == t.upper() and re.search(r"[A-Z]{3}", t) and not re.search(r"\d", t) and len(t) < 95:
         return "## " + title(t)
     if hymn and len(p) <= 2 and not re.search(r"[.,;:!?]$", t) and len(t) < 60 and not re.match(r"\d", t):
@@ -47,14 +50,14 @@ def para(p, hymn=False):
         return "\n".join(x + "  " for x in items).rstrip()
     if (len(p) > 1 and all(len(l) < 48 for l in p)) or hymn or any(l.startswith("  ") for l in p[1:]):
         return "\n".join(x.strip() + "  " for x in p).rstrip()
-    return re.sub(r"(?<= )\*(?= )", r"\\*", " ".join(x.strip() for x in p))
+    return " ".join(x.strip() for x in p)
 
 def qa_blocks(block, hymn=False):
     """Q&A (both layouts) -> markdown."""
     if num == "1":
         qre = re.compile(r"^(\d+)\. Q\. ?(.*)$")
     else:
-        qre = re.compile(r"^Q\. (\d+)\. (?:\{(\d+)\} )?(.*)$")
+        qre = re.compile(r"^Q\. (\d+)\.? (?:\{(\d+)\} )?(.*)$")
     outp, i = [], 0
     ps = paras(block)
     # re-split by Q lines so that an answer can span several paragraphs
@@ -70,10 +73,14 @@ def qa_blocks(block, hymn=False):
             extra = m.group(2) if num == "3" else None
             qtxt = m.group(3) if num == "3" else m.group(2)
             ai = next((k for k, l in enumerate(p) if l.startswith("A.")), None)
-            if ai is None: raise SystemExit("no answer: " + p[0])
+            noA = ai is None
+            if noA:  # source lacks the "A." marker (No. 3, Q. 630): answer starts after the line ending in "?"
+                ai = next((k + 1 for k, l in enumerate(p) if l.rstrip().endswith("?")), None)
+                if ai is None or ai >= len(p): raise SystemExit("no answer: " + p[0])
+                print("no A. marker:", qn)
             q = " ".join(x.strip() for x in [qtxt] + p[1:ai])
             a = [l for l in p[ai:]]
-            a[0] = a[0][2:].strip()
+            if not noA: a[0] = a[0][2:].strip()
             tag = f" (No. 2: {extra})" if extra else ""
             cur = {"head": f"**{qn}.**{tag} {q}", "ans": [a]}
         elif cur is not None and not (len(p) == 1 and p[0].strip() == p[0].strip().upper() and re.search(r"[A-Z]{3}", p[0])):
@@ -128,7 +135,6 @@ else:
     toc[36] = "On the Third, Fourth, Fifth and Sixth Commandments of the Church"
     toc[37] = "On the Last Judgment and Resurrection, Hell, Purgatory and Heaven"
     pr = idx(lambda l: l == "PRAYERS")
-    pr = idx(lambda l: l == "PRAYERS", pr + 1)
     c1 = idx(lambda l: l == "CATECHISM", pr)
     c2 = idx(lambda l: l == "CATECHISM.", c1)
     marks = []; pos = c2

@@ -1,0 +1,7 @@
+# Preface to No. 3
+
+I have been requested by several priests to prepare an abridgment of the "Explanation of the Baltimore Catechism" that would be suitable as a classbook for children who have been confirmed or who have completed the study of the Baltimore Catechism No. 2. The "Explanation" itself contains more matter than some of these children can master and it costs a little more than many of them can afford to pay. I have, therefore, selected from the list given in the back of the "Explanation" a large number of the more practical and important questions, to which I have added others, with answers, as full, brief and simple as the matter will permit. These questions and answers are added to those of the Baltimore Catechism No. 2, but with such distinction in type that all may see they are not a part of the Catechism prepared by the Council, but only a development of its meaning.
+
+Whenever questions on the same subject are repeated in the book their object is to bring out some new point or to show their connection with the subject-matter there explained.
+
+*Author.*
