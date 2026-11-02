@@ -15,6 +15,9 @@ def plan(path, tree=False):
         print('%-40s %6d  %s' % (u.replace(n.ROOT, ''), w, h[:90]))
 
 def convert_multi(path, title):
+    import newman_verse as v
+    if path == 'verses/dedication': return v.dedication()
+    if path.startswith('verses/verse'): return v.convert(n.ROOT + path, title)
     """PATH may join several pages with '+': one chapter, footnotes renumbered in order."""
     pages = path.split('+')
     body, foot, warn, off = [], [], [], 0
@@ -44,7 +47,7 @@ def build(cfg):
         open('%s/en-US/%s.md' % (root, cid), 'w').write(md)
         words += len(md.split())
         flat.append({'id': cid, 'title': {'en-US': title}})
-        for pg in path.split('+'):
+        for pg in ([] if path == 'verses/dedication' else path.split('+')):
             raw.append('===== %s =====\n%s\n' % (pg, n.norm(' '.join(b for t, b in n.blocks(n.body(n.ROOT + pg))))))
     parts = cfg.get('parts')
     if parts:

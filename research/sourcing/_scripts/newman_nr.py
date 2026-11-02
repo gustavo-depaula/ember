@@ -48,6 +48,7 @@ def inline(h, para=True):
     h = re.sub(r'<(i|em)>(\s*)', r'\2*', h); h = re.sub(r'(\s*)</(i|em)>', r'*\1', h)
     h = re.sub(r'<b>', '**', h); h = re.sub(r'</b>', '**', h)
     h = html.unescape(h).replace('\xa0', ' ')
+    h = re.sub(r'\{[ivxlc]+\}', '', h)
     h = re.sub(r'(?<=\S)\{\d+\}(?=\S)', '', h)
     h = re.sub(r'\s*\{\d+\}\s*', ' ', h)
     h = re.sub(r'(^|\x02)\s*\x03\s*', r'\1', h)
@@ -132,6 +133,8 @@ def convert(url, title=None, keep_first_heading=False):
             notes[str(num)] = txt; last = str(num); nxt = num + 1
         elif last: notes[last] += '\n\n' + txt
         else: notes[str(nxt)] = txt; last = str(nxt); nxt += 1
+    global LAST_NOTES
+    LAST_NOTES = notes
     warn = []
     first = True
     lines = ['# ' + (title or ''), '']

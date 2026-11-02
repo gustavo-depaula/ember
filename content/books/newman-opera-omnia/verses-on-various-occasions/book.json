@@ -1,0 +1,1107 @@
+{
+  "id": "newman-verses-on-various-occasions",
+  "cover": "classic",
+  "name": {
+    "en-US": "Verses on Various Occasions",
+    "pt-BR": "Versos em Várias Ocasiões"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "Newman's collected poems, 1818 to 1865, as he gathered them in 1867 and dedicated to his friend Badeley: the verses of his Oxford youth, the poems of the Mediterranean voyage of 1832-33 including Lead, Kindly Light, the Lyra Apostolica pieces of the Oxford Movement, and the hymns and poems of his Catholic years. The Dream of Gerontius, which belongs to the same volume, is a book of its own.",
+    "pt-BR": "Os poemas reunidos de Newman, de 1818 a 1865, como ele os recolheu em 1867 e dedicou ao amigo Badeley: os versos de sua juventude em Oxford, os poemas da viagem ao Mediterrâneo de 1832-33, entre eles Lead, Kindly Light, as peças da Lyra Apostolica do Movimento de Oxford e os hinos e poemas de seus anos católicos. O Sonho de Gerôncio, que pertence ao mesmo volume, é um livro à parte."
+  },
+  "composed": "1818-1865",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/verses-on-various-occasions",
+  "editions": {
+    "en-US": {
+      "editor": "John Henry Newman (Longmans, new impression of 1903; Newman Reader)",
+      "year": 1867
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.newmanreader.org/works/verses/index.html",
+      "edition": "Verses on Various Occasions (London: Burns, Oates, 1868; Longmans, Green new impression 1903), as transcribed by the Newman Reader.",
+      "description": "178 chapters: Newman Reader page numbers, navigation and its editorial remarks are dropped; Newman's own notes are kept as footnotes. One chapter per poem, numbered as in the volume; line breaks kept as hard breaks, with long lines the page had wrapped rejoined. The Dream of Gerontius (its own book) and the Dublin Review notice are left out. The Latin appendices (hymns and the prologues to Terence) are left out. Raw page text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890 and the text is of a Longmans impression (or earlier edition) before 1930. The Newman Reader page footers claim copyright in the site's transcription (c) 2007 NINS; a plain transcription of a public-domain text adds no authorship under US law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "dedication",
+      "title": {
+        "en-US": "Dedication"
+      }
+    },
+    {
+      "id": "verse-001",
+      "title": {
+        "en-US": "1. Solitude"
+      }
+    },
+    {
+      "id": "verse-002",
+      "title": {
+        "en-US": "2. My Birthday"
+      }
+    },
+    {
+      "id": "verse-003",
+      "title": {
+        "en-US": "3. Paraphrase of Isaiah, ch. lxiv"
+      }
+    },
+    {
+      "id": "verse-004",
+      "title": {
+        "en-US": "4. To F. W. N. on his Birthday"
+      }
+    },
+    {
+      "id": "verse-005",
+      "title": {
+        "en-US": "5. Nature and Art"
+      }
+    },
+    {
+      "id": "verse-006",
+      "title": {
+        "en-US": "6. Introduction to an Album"
+      }
+    },
+    {
+      "id": "verse-007",
+      "title": {
+        "en-US": "7. Snapdragon"
+      }
+    },
+    {
+      "id": "verse-008",
+      "title": {
+        "en-US": "8. The Trance of Time"
+      }
+    },
+    {
+      "id": "verse-009",
+      "title": {
+        "en-US": "9. Consolations in Bereavement"
+      }
+    },
+    {
+      "id": "verse-010",
+      "title": {
+        "en-US": "10. A Picture"
+      }
+    },
+    {
+      "id": "verse-011",
+      "title": {
+        "en-US": "11. My Lady Nature and her Daughters"
+      }
+    },
+    {
+      "id": "verse-012",
+      "title": {
+        "en-US": "12. Opusculum"
+      }
+    },
+    {
+      "id": "verse-013",
+      "title": {
+        "en-US": "13. A Voice from afar"
+      }
+    },
+    {
+      "id": "verse-014",
+      "title": {
+        "en-US": "14. The Hidden Ones"
+      }
+    },
+    {
+      "id": "verse-015",
+      "title": {
+        "en-US": "15. A Thanksgiving"
+      }
+    },
+    {
+      "id": "verse-016",
+      "title": {
+        "en-US": "16. Monks"
+      }
+    },
+    {
+      "id": "verse-017",
+      "title": {
+        "en-US": "17. Epiphany-Eve"
+      }
+    },
+    {
+      "id": "verse-018",
+      "title": {
+        "en-US": "18. The Winter Flower"
+      }
+    },
+    {
+      "id": "verse-019",
+      "title": {
+        "en-US": "19. Kind Remembrances"
+      }
+    },
+    {
+      "id": "verse-020",
+      "title": {
+        "en-US": "20. Seeds in the Air"
+      }
+    },
+    {
+      "id": "verse-021",
+      "title": {
+        "en-US": "21. The Pilgrim"
+      }
+    },
+    {
+      "id": "verse-022",
+      "title": {
+        "en-US": "22. Home"
+      }
+    },
+    {
+      "id": "verse-023",
+      "title": {
+        "en-US": "23. The Brand of Cain"
+      }
+    },
+    {
+      "id": "verse-024",
+      "title": {
+        "en-US": "24. Zeal and Love"
+      }
+    },
+    {
+      "id": "verse-025",
+      "title": {
+        "en-US": "25. Persecution"
+      }
+    },
+    {
+      "id": "verse-026",
+      "title": {
+        "en-US": "26. Zeal and Purity"
+      }
+    },
+    {
+      "id": "verse-027",
+      "title": {
+        "en-US": "27. The Gift of Perseverance"
+      }
+    },
+    {
+      "id": "verse-028",
+      "title": {
+        "en-US": "28. The Sign of the Cross"
+      }
+    },
+    {
+      "id": "verse-029",
+      "title": {
+        "en-US": "29. Bondage"
+      }
+    },
+    {
+      "id": "verse-030",
+      "title": {
+        "en-US": "30. The Scars of Sin"
+      }
+    },
+    {
+      "id": "verse-031",
+      "title": {
+        "en-US": "31. Angelic Guidance"
+      }
+    },
+    {
+      "id": "verse-032",
+      "title": {
+        "en-US": "32. Substance and Shadow"
+      }
+    },
+    {
+      "id": "verse-033",
+      "title": {
+        "en-US": "33. Wanderings"
+      }
+    },
+    {
+      "id": "verse-034",
+      "title": {
+        "en-US": "34. The Saint and the Hero"
+      }
+    },
+    {
+      "id": "verse-035",
+      "title": {
+        "en-US": "35. Private Judgment"
+      }
+    },
+    {
+      "id": "verse-036",
+      "title": {
+        "en-US": "36. The Watchman"
+      }
+    },
+    {
+      "id": "verse-037",
+      "title": {
+        "en-US": "37. The Isles of the Sirens"
+      }
+    },
+    {
+      "id": "verse-038",
+      "title": {
+        "en-US": "38. Absolution"
+      }
+    },
+    {
+      "id": "verse-039",
+      "title": {
+        "en-US": "39. Memory"
+      }
+    },
+    {
+      "id": "verse-040",
+      "title": {
+        "en-US": "40. The Haven"
+      }
+    },
+    {
+      "id": "verse-041",
+      "title": {
+        "en-US": "41. A Word in Season"
+      }
+    },
+    {
+      "id": "verse-042",
+      "title": {
+        "en-US": "42. Fair Words"
+      }
+    },
+    {
+      "id": "verse-043",
+      "title": {
+        "en-US": "43. England"
+      }
+    },
+    {
+      "id": "verse-044",
+      "title": {
+        "en-US": "44. Moses"
+      }
+    },
+    {
+      "id": "verse-045",
+      "title": {
+        "en-US": "45. The Patient Church"
+      }
+    },
+    {
+      "id": "verse-046",
+      "title": {
+        "en-US": "46. Jeremiah"
+      }
+    },
+    {
+      "id": "verse-047",
+      "title": {
+        "en-US": "47. Penance"
+      }
+    },
+    {
+      "id": "verse-048",
+      "title": {
+        "en-US": "48. The Course of Truth"
+      }
+    },
+    {
+      "id": "verse-049",
+      "title": {
+        "en-US": "49. Christmas without Christ"
+      }
+    },
+    {
+      "id": "verse-050",
+      "title": {
+        "en-US": "50. Sleeplessness"
+      }
+    },
+    {
+      "id": "verse-051",
+      "title": {
+        "en-US": "51. Abraham"
+      }
+    },
+    {
+      "id": "verse-052",
+      "title": {
+        "en-US": "52. The Greek Fathers"
+      }
+    },
+    {
+      "id": "verse-053",
+      "title": {
+        "en-US": "53. The Witness"
+      }
+    },
+    {
+      "id": "verse-054",
+      "title": {
+        "en-US": "54. The Death of Moses"
+      }
+    },
+    {
+      "id": "verse-055",
+      "title": {
+        "en-US": "55. Melchizedek"
+      }
+    },
+    {
+      "id": "verse-056",
+      "title": {
+        "en-US": "56. Corcyra"
+      }
+    },
+    {
+      "id": "verse-057",
+      "title": {
+        "en-US": "57. Transfiguration"
+      }
+    },
+    {
+      "id": "verse-058",
+      "title": {
+        "en-US": "58. Behind the Veil"
+      }
+    },
+    {
+      "id": "verse-059",
+      "title": {
+        "en-US": "59. Judgment"
+      }
+    },
+    {
+      "id": "verse-060",
+      "title": {
+        "en-US": "60. Sensitiveness"
+      }
+    },
+    {
+      "id": "verse-061",
+      "title": {
+        "en-US": "61. David and Jonathan"
+      }
+    },
+    {
+      "id": "verse-062",
+      "title": {
+        "en-US": "62. Humiliation"
+      }
+    },
+    {
+      "id": "verse-063",
+      "title": {
+        "en-US": "63. The Call of David"
+      }
+    },
+    {
+      "id": "verse-064",
+      "title": {
+        "en-US": "64. A Blight"
+      }
+    },
+    {
+      "id": "verse-065",
+      "title": {
+        "en-US": "65. Joseph"
+      }
+    },
+    {
+      "id": "verse-066",
+      "title": {
+        "en-US": "66. Superstition"
+      }
+    },
+    {
+      "id": "verse-067",
+      "title": {
+        "en-US": "67. Isaac"
+      }
+    },
+    {
+      "id": "verse-068",
+      "title": {
+        "en-US": "68. Reverses"
+      }
+    },
+    {
+      "id": "verse-069",
+      "title": {
+        "en-US": "69. Hope"
+      }
+    },
+    {
+      "id": "verse-070",
+      "title": {
+        "en-US": "70. St. Paul at Melita"
+      }
+    },
+    {
+      "id": "verse-071",
+      "title": {
+        "en-US": "71. Messina"
+      }
+    },
+    {
+      "id": "verse-072",
+      "title": {
+        "en-US": "72. Warnings"
+      }
+    },
+    {
+      "id": "verse-073",
+      "title": {
+        "en-US": "73. Dreams"
+      }
+    },
+    {
+      "id": "verse-074",
+      "title": {
+        "en-US": "74. Temptation"
+      }
+    },
+    {
+      "id": "verse-075",
+      "title": {
+        "en-US": "75. Our Future"
+      }
+    },
+    {
+      "id": "verse-076",
+      "title": {
+        "en-US": "76. Heathenism"
+      }
+    },
+    {
+      "id": "verse-077",
+      "title": {
+        "en-US": "77. Taormini"
+      }
+    },
+    {
+      "id": "verse-078",
+      "title": {
+        "en-US": "78. Sympathy"
+      }
+    },
+    {
+      "id": "verse-079",
+      "title": {
+        "en-US": "79. Relics of Saints"
+      }
+    },
+    {
+      "id": "verse-080",
+      "title": {
+        "en-US": "80. Day-Labourers"
+      }
+    },
+    {
+      "id": "verse-081",
+      "title": {
+        "en-US": "81. Warfare"
+      }
+    },
+    {
+      "id": "verse-082",
+      "title": {
+        "en-US": "82. Sacrilege"
+      }
+    },
+    {
+      "id": "verse-083",
+      "title": {
+        "en-US": "83. Liberalism"
+      }
+    },
+    {
+      "id": "verse-084",
+      "title": {
+        "en-US": "84. Declension"
+      }
+    },
+    {
+      "id": "verse-085",
+      "title": {
+        "en-US": "85. The Age to Come"
+      }
+    },
+    {
+      "id": "verse-086",
+      "title": {
+        "en-US": "86. External Religion"
+      }
+    },
+    {
+      "id": "verse-087",
+      "title": {
+        "en-US": "87. St. Gregory Nazianzen"
+      }
+    },
+    {
+      "id": "verse-088",
+      "title": {
+        "en-US": "88. The Good Samaritan"
+      }
+    },
+    {
+      "id": "verse-089",
+      "title": {
+        "en-US": "89. Reverence"
+      }
+    },
+    {
+      "id": "verse-090",
+      "title": {
+        "en-US": "90. The Pillar of the Cloud"
+      }
+    },
+    {
+      "id": "verse-091",
+      "title": {
+        "en-US": "91. Samaria"
+      }
+    },
+    {
+      "id": "verse-092",
+      "title": {
+        "en-US": "92. Jonah"
+      }
+    },
+    {
+      "id": "verse-093",
+      "title": {
+        "en-US": "93. Faith against Sight"
+      }
+    },
+    {
+      "id": "verse-094",
+      "title": {
+        "en-US": "94. Desolation"
+      }
+    },
+    {
+      "id": "verse-095",
+      "title": {
+        "en-US": "95. Zeal and Patience"
+      }
+    },
+    {
+      "id": "verse-096",
+      "title": {
+        "en-US": "96. The Religion of Cain"
+      }
+    },
+    {
+      "id": "verse-097",
+      "title": {
+        "en-US": "97. St. Paul"
+      }
+    },
+    {
+      "id": "verse-098",
+      "title": {
+        "en-US": "98. Flowers without Fruit"
+      }
+    },
+    {
+      "id": "verse-099",
+      "title": {
+        "en-US": "99. Zeal and Meekness"
+      }
+    },
+    {
+      "id": "verse-100",
+      "title": {
+        "en-US": "100. Vexations"
+      }
+    },
+    {
+      "id": "verse-101",
+      "title": {
+        "en-US": "101. The Church in Prayer"
+      }
+    },
+    {
+      "id": "verse-102",
+      "title": {
+        "en-US": "102. The Wrath to Come"
+      }
+    },
+    {
+      "id": "verse-103",
+      "title": {
+        "en-US": "103. Pusillanimity"
+      }
+    },
+    {
+      "id": "verse-104",
+      "title": {
+        "en-US": "104. James and John"
+      }
+    },
+    {
+      "id": "verse-105",
+      "title": {
+        "en-US": "105. Hora Novissima"
+      }
+    },
+    {
+      "id": "verse-106",
+      "title": {
+        "en-US": "106. Progress of Unbelief"
+      }
+    },
+    {
+      "id": "verse-107",
+      "title": {
+        "en-US": "107. Consolation"
+      }
+    },
+    {
+      "id": "verse-108",
+      "title": {
+        "en-US": "108. Uzzah and Obed-Edom"
+      }
+    },
+    {
+      "id": "verse-109",
+      "title": {
+        "en-US": "109. The Gift of Tongues"
+      }
+    },
+    {
+      "id": "verse-110",
+      "title": {
+        "en-US": "110. The Power of Prayer"
+      }
+    },
+    {
+      "id": "verse-111",
+      "title": {
+        "en-US": "111. Semita Justorum"
+      }
+    },
+    {
+      "id": "verse-112",
+      "title": {
+        "en-US": "112. The Elements"
+      }
+    },
+    {
+      "id": "verse-113",
+      "title": {
+        "en-US": "113. Apostasy"
+      }
+    },
+    {
+      "id": "verse-114",
+      "title": {
+        "en-US": "114. Judaism"
+      }
+    },
+    {
+      "id": "verse-115",
+      "title": {
+        "en-US": "115. Separation of Friends"
+      }
+    },
+    {
+      "id": "verse-116",
+      "title": {
+        "en-US": "116. The Priestly Office"
+      }
+    },
+    {
+      "id": "verse-117",
+      "title": {
+        "en-US": "117. Morning"
+      }
+    },
+    {
+      "id": "verse-118",
+      "title": {
+        "en-US": "118. Evening"
+      }
+    },
+    {
+      "id": "verse-119",
+      "title": {
+        "en-US": "119. A Hermitage"
+      }
+    },
+    {
+      "id": "verse-120",
+      "title": {
+        "en-US": "120. The Married and the Single"
+      }
+    },
+    {
+      "id": "verse-121",
+      "title": {
+        "en-US": "121. Intercession of the Saints"
+      }
+    },
+    {
+      "id": "verse-122",
+      "title": {
+        "en-US": "122. Waiting for the Morning"
+      }
+    },
+    {
+      "id": "verse-123",
+      "title": {
+        "en-US": "123. Hymn for Matins, Sunday"
+      }
+    },
+    {
+      "id": "verse-124",
+      "title": {
+        "en-US": "124. Hymn for Matins, ditto"
+      }
+    },
+    {
+      "id": "verse-125",
+      "title": {
+        "en-US": "125. Hymn for Matins, Monday"
+      }
+    },
+    {
+      "id": "verse-126",
+      "title": {
+        "en-US": "126. Hymn for Matins, Tuesday"
+      }
+    },
+    {
+      "id": "verse-127",
+      "title": {
+        "en-US": "127. Hymn for Matins, Wednesday"
+      }
+    },
+    {
+      "id": "verse-128",
+      "title": {
+        "en-US": "128. Hymn for Matins, Thursday"
+      }
+    },
+    {
+      "id": "verse-129",
+      "title": {
+        "en-US": "129. Hymn for Matins, Friday"
+      }
+    },
+    {
+      "id": "verse-130",
+      "title": {
+        "en-US": "130. Hymn for Matins, Saturday"
+      }
+    },
+    {
+      "id": "verse-131",
+      "title": {
+        "en-US": "131. Hymn for Lauds, Sunday"
+      }
+    },
+    {
+      "id": "verse-132",
+      "title": {
+        "en-US": "132. Hymn for Lauds, ditto"
+      }
+    },
+    {
+      "id": "verse-133",
+      "title": {
+        "en-US": "133. Hymn for Lauds, Monday"
+      }
+    },
+    {
+      "id": "verse-134",
+      "title": {
+        "en-US": "134. Hymn for Lauds, Tuesday"
+      }
+    },
+    {
+      "id": "verse-135",
+      "title": {
+        "en-US": "135. Hymn for Lauds, Wednesday"
+      }
+    },
+    {
+      "id": "verse-136",
+      "title": {
+        "en-US": "136. Hymn for Lauds, Thursday"
+      }
+    },
+    {
+      "id": "verse-137",
+      "title": {
+        "en-US": "137. Hymn for Lauds, Friday"
+      }
+    },
+    {
+      "id": "verse-138",
+      "title": {
+        "en-US": "138. Hymn for Lauds, Saturday"
+      }
+    },
+    {
+      "id": "verse-139",
+      "title": {
+        "en-US": "139. Hymn for Prime"
+      }
+    },
+    {
+      "id": "verse-140",
+      "title": {
+        "en-US": "140. Hymn for Terce"
+      }
+    },
+    {
+      "id": "verse-141",
+      "title": {
+        "en-US": "141. Hymn for Sext"
+      }
+    },
+    {
+      "id": "verse-142",
+      "title": {
+        "en-US": "142. Hymn for None"
+      }
+    },
+    {
+      "id": "verse-143",
+      "title": {
+        "en-US": "143. Hymn for Vespers, Sunday"
+      }
+    },
+    {
+      "id": "verse-144",
+      "title": {
+        "en-US": "144. Hymn for Vespers, Monday"
+      }
+    },
+    {
+      "id": "verse-145",
+      "title": {
+        "en-US": "145. Hymn for Vespers, Tuesday"
+      }
+    },
+    {
+      "id": "verse-146",
+      "title": {
+        "en-US": "146. Hymn for Vespers, Wednesday"
+      }
+    },
+    {
+      "id": "verse-147",
+      "title": {
+        "en-US": "147. Hymn for Vespers, Thursday"
+      }
+    },
+    {
+      "id": "verse-148",
+      "title": {
+        "en-US": "148. Hymn for Vespers, Friday"
+      }
+    },
+    {
+      "id": "verse-149",
+      "title": {
+        "en-US": "149. Hymn for Vespers, Saturday"
+      }
+    },
+    {
+      "id": "verse-150",
+      "title": {
+        "en-US": "150. Hymn for Compline"
+      }
+    },
+    {
+      "id": "verse-151",
+      "title": {
+        "en-US": "151. Hymn for First Vespers, Advent"
+      }
+    },
+    {
+      "id": "verse-152",
+      "title": {
+        "en-US": "152. Hymn for Matins, ditto"
+      }
+    },
+    {
+      "id": "verse-153",
+      "title": {
+        "en-US": "153. Hymn for Lauds, ditto"
+      }
+    },
+    {
+      "id": "verse-154",
+      "title": {
+        "en-US": "154. Hymn for Matins, Transfiguration"
+      }
+    },
+    {
+      "id": "verse-155",
+      "title": {
+        "en-US": "155. Hymn for Lauds, ditto"
+      }
+    },
+    {
+      "id": "verse-156",
+      "title": {
+        "en-US": "156. Hymn for a Martyr"
+      }
+    },
+    {
+      "id": "verse-157",
+      "title": {
+        "en-US": "157. Hymn for a Confessor Bishop"
+      }
+    },
+    {
+      "id": "verse-158",
+      "title": {
+        "en-US": "158. Ethelwald"
+      }
+    },
+    {
+      "id": "verse-159",
+      "title": {
+        "en-US": "159. Candlemas"
+      }
+    },
+    {
+      "id": "verse-160",
+      "title": {
+        "en-US": "160. The Pilgrim Queen"
+      }
+    },
+    {
+      "id": "verse-161",
+      "title": {
+        "en-US": "161. The Month of Mary"
+      }
+    },
+    {
+      "id": "verse-162",
+      "title": {
+        "en-US": "162. The Queen of Seasons"
+      }
+    },
+    {
+      "id": "verse-163",
+      "title": {
+        "en-US": "163. Valentine to a Little Girl"
+      }
+    },
+    {
+      "id": "verse-164",
+      "title": {
+        "en-US": "164. St. Philip Neri in his Mission"
+      }
+    },
+    {
+      "id": "verse-165",
+      "title": {
+        "en-US": "165. St. Philip in himself"
+      }
+    },
+    {
+      "id": "verse-166",
+      "title": {
+        "en-US": "166. St. Philip in his God"
+      }
+    },
+    {
+      "id": "verse-167",
+      "title": {
+        "en-US": "167. Guardian Angel"
+      }
+    },
+    {
+      "id": "verse-168",
+      "title": {
+        "en-US": "168. The Golden Prison"
+      }
+    },
+    {
+      "id": "verse-169",
+      "title": {
+        "en-US": "169. Heathen Greece"
+      }
+    },
+    {
+      "id": "verse-170",
+      "title": {
+        "en-US": "170. A Martyr Convert"
+      }
+    },
+    {
+      "id": "verse-171",
+      "title": {
+        "en-US": "171. St. Philip in his School"
+      }
+    },
+    {
+      "id": "verse-172",
+      "title": {
+        "en-US": "172. St. Philip in his Disciples"
+      }
+    },
+    {
+      "id": "verse-173",
+      "title": {
+        "en-US": "173. For the Dead"
+      }
+    },
+    {
+      "id": "verse-174",
+      "title": {
+        "en-US": "174. To Edward Caswall"
+      }
+    },
+    {
+      "id": "verse-175",
+      "title": {
+        "en-US": "175. The Two Worlds"
+      }
+    },
+    {
+      "id": "verse-176",
+      "title": {
+        "en-US": "176. St. Michael"
+      }
+    },
+    {
+      "id": "verse-177",
+      "title": {
+        "en-US": "177. The Dream of Gerontius"
+      }
+    }
+  ]
+}

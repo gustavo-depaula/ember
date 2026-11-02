@@ -1,0 +1,906 @@
+{
+ "slug": "verses-on-various-occasions",
+ "id": "newman-verses-on-various-occasions",
+ "name": "Verses on Various Occasions",
+ "name_pt": "Versos em Várias Ocasiões",
+ "desc": "Newman's collected poems, 1818 to 1865, as he gathered them in 1867 and dedicated to his friend Badeley: the verses of his Oxford youth, the poems of the Mediterranean voyage of 1832-33 including Lead, Kindly Light, the Lyra Apostolica pieces of the Oxford Movement, and the hymns and poems of his Catholic years. The Dream of Gerontius, which belongs to the same volume, is a book of its own.",
+ "desc_pt": "Os poemas reunidos de Newman, de 1818 a 1865, como ele os recolheu em 1867 e dedicou ao amigo Badeley: os versos de sua juventude em Oxford, os poemas da viagem ao Mediterrâneo de 1832-33, entre eles Lead, Kindly Light, as peças da Lyra Apostolica do Movimento de Oxford e os hinos e poemas de seus anos católicos. O Sonho de Gerôncio, que pertence ao mesmo volume, é um livro à parte.",
+ "composed": "1818-1865",
+ "editor": "John Henry Newman (Longmans, new impression of 1903; Newman Reader)",
+ "year": 1867,
+ "index": "verses/index.html",
+ "edition": "Verses on Various Occasions (London: Burns, Oates, 1868; Longmans, Green new impression 1903), as transcribed by the Newman Reader.",
+ "note": "One chapter per poem, numbered as in the volume; line breaks kept as hard breaks, with long lines the page had wrapped rejoined. The Dream of Gerontius (its own book) and the Dublin Review notice are left out. The Latin appendices (hymns and the prologues to Terence) are left out.",
+ "chapters": [
+  [
+   "verses/dedication",
+   "dedication",
+   "Dedication"
+  ],
+  [
+   "verses/verse1.html",
+   "verse-001",
+   "1. Solitude"
+  ],
+  [
+   "verses/verse2.html",
+   "verse-002",
+   "2. My Birthday"
+  ],
+  [
+   "verses/verse3.html",
+   "verse-003",
+   "3. Paraphrase of Isaiah, ch. lxiv"
+  ],
+  [
+   "verses/verse4.html",
+   "verse-004",
+   "4. To F. W. N. on his Birthday"
+  ],
+  [
+   "verses/verse5.html",
+   "verse-005",
+   "5. Nature and Art"
+  ],
+  [
+   "verses/verse6.html",
+   "verse-006",
+   "6. Introduction to an Album"
+  ],
+  [
+   "verses/verse7.html",
+   "verse-007",
+   "7. Snapdragon"
+  ],
+  [
+   "verses/verse8.html",
+   "verse-008",
+   "8. The Trance of Time"
+  ],
+  [
+   "verses/verse9.html",
+   "verse-009",
+   "9. Consolations in Bereavement"
+  ],
+  [
+   "verses/verse10.html",
+   "verse-010",
+   "10. A Picture"
+  ],
+  [
+   "verses/verse11.html",
+   "verse-011",
+   "11. My Lady Nature and her Daughters"
+  ],
+  [
+   "verses/verse12.html",
+   "verse-012",
+   "12. Opusculum"
+  ],
+  [
+   "verses/verse13.html",
+   "verse-013",
+   "13. A Voice from afar"
+  ],
+  [
+   "verses/verse14.html",
+   "verse-014",
+   "14. The Hidden Ones"
+  ],
+  [
+   "verses/verse15.html",
+   "verse-015",
+   "15. A Thanksgiving"
+  ],
+  [
+   "verses/verse16.html",
+   "verse-016",
+   "16. Monks"
+  ],
+  [
+   "verses/verse17.html",
+   "verse-017",
+   "17. Epiphany-Eve"
+  ],
+  [
+   "verses/verse18.html",
+   "verse-018",
+   "18. The Winter Flower"
+  ],
+  [
+   "verses/verse19.html",
+   "verse-019",
+   "19. Kind Remembrances"
+  ],
+  [
+   "verses/verse20.html",
+   "verse-020",
+   "20. Seeds in the Air"
+  ],
+  [
+   "verses/verse21.html",
+   "verse-021",
+   "21. The Pilgrim"
+  ],
+  [
+   "verses/verse22.html",
+   "verse-022",
+   "22. Home"
+  ],
+  [
+   "verses/verse23.html",
+   "verse-023",
+   "23. The Brand of Cain"
+  ],
+  [
+   "verses/verse24.html",
+   "verse-024",
+   "24. Zeal and Love"
+  ],
+  [
+   "verses/verse25.html",
+   "verse-025",
+   "25. Persecution"
+  ],
+  [
+   "verses/verse26.html",
+   "verse-026",
+   "26. Zeal and Purity"
+  ],
+  [
+   "verses/verse27.html",
+   "verse-027",
+   "27. The Gift of Perseverance"
+  ],
+  [
+   "verses/verse28.html",
+   "verse-028",
+   "28. The Sign of the Cross"
+  ],
+  [
+   "verses/verse29.html",
+   "verse-029",
+   "29. Bondage"
+  ],
+  [
+   "verses/verse30.html",
+   "verse-030",
+   "30. The Scars of Sin"
+  ],
+  [
+   "verses/verse31.html",
+   "verse-031",
+   "31. Angelic Guidance"
+  ],
+  [
+   "verses/verse32.html",
+   "verse-032",
+   "32. Substance and Shadow"
+  ],
+  [
+   "verses/verse33.html",
+   "verse-033",
+   "33. Wanderings"
+  ],
+  [
+   "verses/verse34.html",
+   "verse-034",
+   "34. The Saint and the Hero"
+  ],
+  [
+   "verses/verse35.html",
+   "verse-035",
+   "35. Private Judgment"
+  ],
+  [
+   "verses/verse36.html",
+   "verse-036",
+   "36. The Watchman"
+  ],
+  [
+   "verses/verse37.html",
+   "verse-037",
+   "37. The Isles of the Sirens"
+  ],
+  [
+   "verses/verse38.html",
+   "verse-038",
+   "38. Absolution"
+  ],
+  [
+   "verses/verse39.html",
+   "verse-039",
+   "39. Memory"
+  ],
+  [
+   "verses/verse40.html",
+   "verse-040",
+   "40. The Haven"
+  ],
+  [
+   "verses/verse41.html",
+   "verse-041",
+   "41. A Word in Season"
+  ],
+  [
+   "verses/verse42.html",
+   "verse-042",
+   "42. Fair Words"
+  ],
+  [
+   "verses/verse43.html",
+   "verse-043",
+   "43. England"
+  ],
+  [
+   "verses/verse44.html",
+   "verse-044",
+   "44. Moses"
+  ],
+  [
+   "verses/verse45.html",
+   "verse-045",
+   "45. The Patient Church"
+  ],
+  [
+   "verses/verse46.html",
+   "verse-046",
+   "46. Jeremiah"
+  ],
+  [
+   "verses/verse47.html",
+   "verse-047",
+   "47. Penance"
+  ],
+  [
+   "verses/verse48.html",
+   "verse-048",
+   "48. The Course of Truth"
+  ],
+  [
+   "verses/verse49.html",
+   "verse-049",
+   "49. Christmas without Christ"
+  ],
+  [
+   "verses/verse50.html",
+   "verse-050",
+   "50. Sleeplessness"
+  ],
+  [
+   "verses/verse51.html",
+   "verse-051",
+   "51. Abraham"
+  ],
+  [
+   "verses/verse52.html",
+   "verse-052",
+   "52. The Greek Fathers"
+  ],
+  [
+   "verses/verse53.html",
+   "verse-053",
+   "53. The Witness"
+  ],
+  [
+   "verses/verse54.html",
+   "verse-054",
+   "54. The Death of Moses"
+  ],
+  [
+   "verses/verse55.html",
+   "verse-055",
+   "55. Melchizedek"
+  ],
+  [
+   "verses/verse56.html",
+   "verse-056",
+   "56. Corcyra"
+  ],
+  [
+   "verses/verse57.html",
+   "verse-057",
+   "57. Transfiguration"
+  ],
+  [
+   "verses/verse58.html",
+   "verse-058",
+   "58. Behind the Veil"
+  ],
+  [
+   "verses/verse59.html",
+   "verse-059",
+   "59. Judgment"
+  ],
+  [
+   "verses/verse60.html",
+   "verse-060",
+   "60. Sensitiveness"
+  ],
+  [
+   "verses/verse61.html",
+   "verse-061",
+   "61. David and Jonathan"
+  ],
+  [
+   "verses/verse62.html",
+   "verse-062",
+   "62. Humiliation"
+  ],
+  [
+   "verses/verse63.html",
+   "verse-063",
+   "63. The Call of David"
+  ],
+  [
+   "verses/verse64.html",
+   "verse-064",
+   "64. A Blight"
+  ],
+  [
+   "verses/verse65.html",
+   "verse-065",
+   "65. Joseph"
+  ],
+  [
+   "verses/verse66.html",
+   "verse-066",
+   "66. Superstition"
+  ],
+  [
+   "verses/verse67.html",
+   "verse-067",
+   "67. Isaac"
+  ],
+  [
+   "verses/verse68.html",
+   "verse-068",
+   "68. Reverses"
+  ],
+  [
+   "verses/verse69.html",
+   "verse-069",
+   "69. Hope"
+  ],
+  [
+   "verses/verse70.html",
+   "verse-070",
+   "70. St. Paul at Melita"
+  ],
+  [
+   "verses/verse71.html",
+   "verse-071",
+   "71. Messina"
+  ],
+  [
+   "verses/verse72.html",
+   "verse-072",
+   "72. Warnings"
+  ],
+  [
+   "verses/verse73.html",
+   "verse-073",
+   "73. Dreams"
+  ],
+  [
+   "verses/verse74.html",
+   "verse-074",
+   "74. Temptation"
+  ],
+  [
+   "verses/verse75.html",
+   "verse-075",
+   "75. Our Future"
+  ],
+  [
+   "verses/verse76.html",
+   "verse-076",
+   "76. Heathenism"
+  ],
+  [
+   "verses/verse77.html",
+   "verse-077",
+   "77. Taormini"
+  ],
+  [
+   "verses/verse78.html",
+   "verse-078",
+   "78. Sympathy"
+  ],
+  [
+   "verses/verse79.html",
+   "verse-079",
+   "79. Relics of Saints"
+  ],
+  [
+   "verses/verse80.html",
+   "verse-080",
+   "80. Day-Labourers"
+  ],
+  [
+   "verses/verse81.html",
+   "verse-081",
+   "81. Warfare"
+  ],
+  [
+   "verses/verse82.html",
+   "verse-082",
+   "82. Sacrilege"
+  ],
+  [
+   "verses/verse83.html",
+   "verse-083",
+   "83. Liberalism"
+  ],
+  [
+   "verses/verse84.html",
+   "verse-084",
+   "84. Declension"
+  ],
+  [
+   "verses/verse85.html",
+   "verse-085",
+   "85. The Age to Come"
+  ],
+  [
+   "verses/verse86.html",
+   "verse-086",
+   "86. External Religion"
+  ],
+  [
+   "verses/verse87.html",
+   "verse-087",
+   "87. St. Gregory Nazianzen"
+  ],
+  [
+   "verses/verse88.html",
+   "verse-088",
+   "88. The Good Samaritan"
+  ],
+  [
+   "verses/verse89.html",
+   "verse-089",
+   "89. Reverence"
+  ],
+  [
+   "verses/verse90.html",
+   "verse-090",
+   "90. The Pillar of the Cloud"
+  ],
+  [
+   "verses/verse91.html",
+   "verse-091",
+   "91. Samaria"
+  ],
+  [
+   "verses/verse92.html",
+   "verse-092",
+   "92. Jonah"
+  ],
+  [
+   "verses/verse93.html",
+   "verse-093",
+   "93. Faith against Sight"
+  ],
+  [
+   "verses/verse94.html",
+   "verse-094",
+   "94. Desolation"
+  ],
+  [
+   "verses/verse95.html",
+   "verse-095",
+   "95. Zeal and Patience"
+  ],
+  [
+   "verses/verse96.html",
+   "verse-096",
+   "96. The Religion of Cain"
+  ],
+  [
+   "verses/verse97.html",
+   "verse-097",
+   "97. St. Paul"
+  ],
+  [
+   "verses/verse98.html",
+   "verse-098",
+   "98. Flowers without Fruit"
+  ],
+  [
+   "verses/verse99.html",
+   "verse-099",
+   "99. Zeal and Meekness"
+  ],
+  [
+   "verses/verse100.html",
+   "verse-100",
+   "100. Vexations"
+  ],
+  [
+   "verses/verse101.html",
+   "verse-101",
+   "101. The Church in Prayer"
+  ],
+  [
+   "verses/verse102.html",
+   "verse-102",
+   "102. The Wrath to Come"
+  ],
+  [
+   "verses/verse103.html",
+   "verse-103",
+   "103. Pusillanimity"
+  ],
+  [
+   "verses/verse104.html",
+   "verse-104",
+   "104. James and John"
+  ],
+  [
+   "verses/verse105.html",
+   "verse-105",
+   "105. Hora Novissima"
+  ],
+  [
+   "verses/verse106.html",
+   "verse-106",
+   "106. Progress of Unbelief"
+  ],
+  [
+   "verses/verse107.html",
+   "verse-107",
+   "107. Consolation"
+  ],
+  [
+   "verses/verse108.html",
+   "verse-108",
+   "108. Uzzah and Obed-Edom"
+  ],
+  [
+   "verses/verse109.html",
+   "verse-109",
+   "109. The Gift of Tongues"
+  ],
+  [
+   "verses/verse110.html",
+   "verse-110",
+   "110. The Power of Prayer"
+  ],
+  [
+   "verses/verse111.html",
+   "verse-111",
+   "111. Semita Justorum"
+  ],
+  [
+   "verses/verse112.html",
+   "verse-112",
+   "112. The Elements"
+  ],
+  [
+   "verses/verse113.html",
+   "verse-113",
+   "113. Apostasy"
+  ],
+  [
+   "verses/verse114.html",
+   "verse-114",
+   "114. Judaism"
+  ],
+  [
+   "verses/verse115.html",
+   "verse-115",
+   "115. Separation of Friends"
+  ],
+  [
+   "verses/verse116.html",
+   "verse-116",
+   "116. The Priestly Office"
+  ],
+  [
+   "verses/verse117.html",
+   "verse-117",
+   "117. Morning"
+  ],
+  [
+   "verses/verse118.html",
+   "verse-118",
+   "118. Evening"
+  ],
+  [
+   "verses/verse119.html",
+   "verse-119",
+   "119. A Hermitage"
+  ],
+  [
+   "verses/verse120.html",
+   "verse-120",
+   "120. The Married and the Single"
+  ],
+  [
+   "verses/verse121.html",
+   "verse-121",
+   "121. Intercession of the Saints"
+  ],
+  [
+   "verses/verse122.html",
+   "verse-122",
+   "122. Waiting for the Morning"
+  ],
+  [
+   "verses/verse123.html",
+   "verse-123",
+   "123. Hymn for Matins, Sunday"
+  ],
+  [
+   "verses/verse124.html",
+   "verse-124",
+   "124. Hymn for Matins, ditto"
+  ],
+  [
+   "verses/verse125.html",
+   "verse-125",
+   "125. Hymn for Matins, Monday"
+  ],
+  [
+   "verses/verse126.html",
+   "verse-126",
+   "126. Hymn for Matins, Tuesday"
+  ],
+  [
+   "verses/verse127.html",
+   "verse-127",
+   "127. Hymn for Matins, Wednesday"
+  ],
+  [
+   "verses/verse128.html",
+   "verse-128",
+   "128. Hymn for Matins, Thursday"
+  ],
+  [
+   "verses/verse129.html",
+   "verse-129",
+   "129. Hymn for Matins, Friday"
+  ],
+  [
+   "verses/verse130.html",
+   "verse-130",
+   "130. Hymn for Matins, Saturday"
+  ],
+  [
+   "verses/verse131.html",
+   "verse-131",
+   "131. Hymn for Lauds, Sunday"
+  ],
+  [
+   "verses/verse132.html",
+   "verse-132",
+   "132. Hymn for Lauds, ditto"
+  ],
+  [
+   "verses/verse133.html",
+   "verse-133",
+   "133. Hymn for Lauds, Monday"
+  ],
+  [
+   "verses/verse134.html",
+   "verse-134",
+   "134. Hymn for Lauds, Tuesday"
+  ],
+  [
+   "verses/verse135.html",
+   "verse-135",
+   "135. Hymn for Lauds, Wednesday"
+  ],
+  [
+   "verses/verse136.html",
+   "verse-136",
+   "136. Hymn for Lauds, Thursday"
+  ],
+  [
+   "verses/verse137.html",
+   "verse-137",
+   "137. Hymn for Lauds, Friday"
+  ],
+  [
+   "verses/verse138.html",
+   "verse-138",
+   "138. Hymn for Lauds, Saturday"
+  ],
+  [
+   "verses/verse139.html",
+   "verse-139",
+   "139. Hymn for Prime"
+  ],
+  [
+   "verses/verse140.html",
+   "verse-140",
+   "140. Hymn for Terce"
+  ],
+  [
+   "verses/verse141.html",
+   "verse-141",
+   "141. Hymn for Sext"
+  ],
+  [
+   "verses/verse142.html",
+   "verse-142",
+   "142. Hymn for None"
+  ],
+  [
+   "verses/verse143.html",
+   "verse-143",
+   "143. Hymn for Vespers, Sunday"
+  ],
+  [
+   "verses/verse144.html",
+   "verse-144",
+   "144. Hymn for Vespers, Monday"
+  ],
+  [
+   "verses/verse145.html",
+   "verse-145",
+   "145. Hymn for Vespers, Tuesday"
+  ],
+  [
+   "verses/verse146.html",
+   "verse-146",
+   "146. Hymn for Vespers, Wednesday"
+  ],
+  [
+   "verses/verse147.html",
+   "verse-147",
+   "147. Hymn for Vespers, Thursday"
+  ],
+  [
+   "verses/verse148.html",
+   "verse-148",
+   "148. Hymn for Vespers, Friday"
+  ],
+  [
+   "verses/verse149.html",
+   "verse-149",
+   "149. Hymn for Vespers, Saturday"
+  ],
+  [
+   "verses/verse150.html",
+   "verse-150",
+   "150. Hymn for Compline"
+  ],
+  [
+   "verses/verse151.html",
+   "verse-151",
+   "151. Hymn for First Vespers, Advent"
+  ],
+  [
+   "verses/verse152.html",
+   "verse-152",
+   "152. Hymn for Matins, ditto"
+  ],
+  [
+   "verses/verse153.html",
+   "verse-153",
+   "153. Hymn for Lauds, ditto"
+  ],
+  [
+   "verses/verse154.html",
+   "verse-154",
+   "154. Hymn for Matins, Transfiguration"
+  ],
+  [
+   "verses/verse155.html",
+   "verse-155",
+   "155. Hymn for Lauds, ditto"
+  ],
+  [
+   "verses/verse156.html",
+   "verse-156",
+   "156. Hymn for a Martyr"
+  ],
+  [
+   "verses/verse157.html",
+   "verse-157",
+   "157. Hymn for a Confessor Bishop"
+  ],
+  [
+   "verses/verse158.html",
+   "verse-158",
+   "158. Ethelwald"
+  ],
+  [
+   "verses/verse159.html",
+   "verse-159",
+   "159. Candlemas"
+  ],
+  [
+   "verses/verse160.html",
+   "verse-160",
+   "160. The Pilgrim Queen"
+  ],
+  [
+   "verses/verse161.html",
+   "verse-161",
+   "161. The Month of Mary"
+  ],
+  [
+   "verses/verse162.html",
+   "verse-162",
+   "162. The Queen of Seasons"
+  ],
+  [
+   "verses/verse163.html",
+   "verse-163",
+   "163. Valentine to a Little Girl"
+  ],
+  [
+   "verses/verse164.html",
+   "verse-164",
+   "164. St. Philip Neri in his Mission"
+  ],
+  [
+   "verses/verse165.html",
+   "verse-165",
+   "165. St. Philip in himself"
+  ],
+  [
+   "verses/verse166.html",
+   "verse-166",
+   "166. St. Philip in his God"
+  ],
+  [
+   "verses/verse167.html",
+   "verse-167",
+   "167. Guardian Angel"
+  ],
+  [
+   "verses/verse168.html",
+   "verse-168",
+   "168. The Golden Prison"
+  ],
+  [
+   "verses/verse169.html",
+   "verse-169",
+   "169. Heathen Greece"
+  ],
+  [
+   "verses/verse170.html",
+   "verse-170",
+   "170. A Martyr Convert"
+  ],
+  [
+   "verses/verse171.html",
+   "verse-171",
+   "171. St. Philip in his School"
+  ],
+  [
+   "verses/verse172.html",
+   "verse-172",
+   "172. St. Philip in his Disciples"
+  ],
+  [
+   "verses/verse173.html",
+   "verse-173",
+   "173. For the Dead"
+  ],
+  [
+   "verses/verse174.html",
+   "verse-174",
+   "174. To Edward Caswall"
+  ],
+  [
+   "verses/verse175.html",
+   "verse-175",
+   "175. The Two Worlds"
+  ],
+  [
+   "verses/verse176.html",
+   "verse-176",
+   "176. St. Michael"
+  ],
+  [
+   "verses/gerontius.html",
+   "verse-177",
+   "177. The Dream of Gerontius"
+  ]
+ ]
+}
