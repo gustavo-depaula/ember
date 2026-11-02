@@ -1,0 +1,189 @@
+{
+  "id": "chesterton-flying-inn",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Flying Inn",
+    "pt-BR": "A Estalagem Voadora"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "In an England half-conquered by a prohibitionist, pseudo-Islamic reform, the poet-adventurer Patrick Dalroy and the Irish innkeeper Humphrey Pump roll a barrel of rum and a great cheese from county to county, setting up an inn wherever they stop. Chesterton's satirical romance of liberty, tradition and drink, studded with songs.",
+    "pt-BR": "Numa Inglaterra meio conquistada por uma reforma proibicionista e pseudo-islâmica, o poeta-aventureiro Patrick Dalroy e o estalajadeiro irlandês Humphrey Pump rolam um barril de rum e um grande queijo de condado em condado, abrindo uma estalagem onde quer que parem. O romance satírico de Chesterton sobre a liberdade, a tradição e a bebida, pontuado de canções."
+  },
+  "composed": "1914",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/flying-inn",
+  "editions": {
+    "en-US": {
+      "editor": "Methuen",
+      "year": 1914
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/59239",
+      "edition": "The Flying Inn (Methuen, 1914), Project Gutenberg #59239.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1914 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-a-sermon-on-inns",
+      "title": {
+        "en-US": "I. A Sermon on Inns"
+      }
+    },
+    {
+      "id": "ch02-the-end-of-olive-island",
+      "title": {
+        "en-US": "II. The End of Olive Island"
+      }
+    },
+    {
+      "id": "ch03-the-sign-of-the-old-ship",
+      "title": {
+        "en-US": "III. The Sign of “The Old Ship”"
+      }
+    },
+    {
+      "id": "ch04-the-inn-finds-wings",
+      "title": {
+        "en-US": "IV. The Inn Finds Wings"
+      }
+    },
+    {
+      "id": "ch05-the-astonishment-of-the-agent",
+      "title": {
+        "en-US": "V. The Astonishment of the Agent"
+      }
+    },
+    {
+      "id": "ch06-the-hole-in-heaven",
+      "title": {
+        "en-US": "VI. The Hole in Heaven"
+      }
+    },
+    {
+      "id": "ch07-the-society-of-simple-souls",
+      "title": {
+        "en-US": "VII. The Society of Simple Souls"
+      }
+    },
+    {
+      "id": "ch08-vox-populi-vox-dei",
+      "title": {
+        "en-US": "VIII. Vox Populi Vox Dei"
+      }
+    },
+    {
+      "id": "ch09-the-higher-criticism-and-mr-hibbs",
+      "title": {
+        "en-US": "IX. The Higher Criticism and Mr. Hibbs"
+      }
+    },
+    {
+      "id": "ch10-the-character-of-quoodle",
+      "title": {
+        "en-US": "X. The Character of Quoodle"
+      }
+    },
+    {
+      "id": "ch11-vegetarianism-in-the-drawing-room",
+      "title": {
+        "en-US": "XI. Vegetarianism in the Drawing-room"
+      }
+    },
+    {
+      "id": "ch12-vegetarianism-in-the-forest",
+      "title": {
+        "en-US": "XII. Vegetarianism in the Forest"
+      }
+    },
+    {
+      "id": "ch13-the-battle-of-the-tunnel",
+      "title": {
+        "en-US": "XIII. The Battle of the Tunnel"
+      }
+    },
+    {
+      "id": "ch14-the-creature-that-man-forgets",
+      "title": {
+        "en-US": "XIV. The Creature That Man Forgets"
+      }
+    },
+    {
+      "id": "ch15-the-songs-of-the-car-club",
+      "title": {
+        "en-US": "XV. The Songs of the Car Club"
+      }
+    },
+    {
+      "id": "ch16-the-seven-moods-of-dorian",
+      "title": {
+        "en-US": "XVI. The Seven Moods of Dorian"
+      }
+    },
+    {
+      "id": "ch17-the-poet-in-parliament",
+      "title": {
+        "en-US": "XVII. The Poet in Parliament"
+      }
+    },
+    {
+      "id": "ch18-the-republic-of-peaceways",
+      "title": {
+        "en-US": "XVIII. The Republic of Peaceways"
+      }
+    },
+    {
+      "id": "ch19-the-hospitality-of-the-captain",
+      "title": {
+        "en-US": "XIX. The Hospitality of the Captain"
+      }
+    },
+    {
+      "id": "ch20-the-turk-and-the-futurists",
+      "title": {
+        "en-US": "XX. The Turk and the Futurists"
+      }
+    },
+    {
+      "id": "ch21-the-road-to-roundabout",
+      "title": {
+        "en-US": "XXI. The Road to Roundabout"
+      }
+    },
+    {
+      "id": "ch22-the-chemistry-of-mr-crooke",
+      "title": {
+        "en-US": "XXII. The Chemistry of Mr. Crooke"
+      }
+    },
+    {
+      "id": "ch23-the-march-on-ivywood",
+      "title": {
+        "en-US": "XXIII. The March on Ivywood"
+      }
+    },
+    {
+      "id": "ch24-the-enigmas-of-lady-joan",
+      "title": {
+        "en-US": "XXIV. The Enigmas of Lady Joan"
+      }
+    },
+    {
+      "id": "ch25-the-finding-of-the-superman",
+      "title": {
+        "en-US": "XXV. The Finding of the Superman"
+      }
+    }
+  ]
+}
