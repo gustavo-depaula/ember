@@ -1,0 +1,363 @@
+{
+  "id": "bellarmine-controversiae-de-bonis-operibus",
+  "cover": "classic",
+  "name": {
+    "la": "De bonis operibus in particulari",
+    "en-US": "On Good Works in Particular",
+    "pt-BR": "Sobre as boas obras em particular"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Ex Disputationibus de controversiis christianae fidei adversus huius temporis haereticos (1586-93): De bonis operibus in particulari. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "From the Disputations on the Controversies of the Christian Faith (1586-93): good works in particular: prayer, fasting, almsgiving. Latin only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "Das Disputas sobre as controvérsias da fé cristã (1586-93): Sobre as boas obras em particular."
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/controversiae-de-bonis-operibus",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia06bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 6 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "b1",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "b1c01",
+          "title": {
+            "la": "Caput I. Definitio orationis breviter explicatur",
+            "en-US": "Caput I. Definitio orationis breviter explicatur"
+          }
+        },
+        {
+          "id": "b1c02",
+          "title": {
+            "la": "Caput II. De partitione Orationis",
+            "en-US": "Caput II. De partitione Orationis"
+          }
+        },
+        {
+          "id": "b1c03",
+          "title": {
+            "la": "Caput III. De necessitate et utilitate orationis",
+            "en-US": "Caput III. De necessitate et utilitate orationis"
+          }
+        },
+        {
+          "id": "b1c04",
+          "title": {
+            "la": "Caput IV. De excellentia orationis Dominicae. l",
+            "en-US": "Caput IV. De excellentia orationis Dominicae. l"
+          }
+        },
+        {
+          "id": "b1c05",
+          "title": {
+            "la": "Caput V",
+            "en-US": "Caput V"
+          }
+        },
+        {
+          "id": "b1c06",
+          "title": {
+            "la": "Caput VI. Exponitur oratio Dominica",
+            "en-US": "Caput VI. Exponitur oratio Dominica"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "b2intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b2c01",
+          "title": {
+            "la": "Caput I. L)e nomine, et varia acceptione jejunii",
+            "en-US": "Caput I. L)e nomine, et varia acceptione jejunii"
+          }
+        },
+        {
+          "id": "b2c02",
+          "title": {
+            "la": "Caput II. Unicam in jejunio refectionem, eamque ccenam esse debere, non prandium",
+            "en-US": "Caput II. Unicam in jejunio refectionem, eamque ccenam esse debere, non prandium"
+          }
+        },
+        {
+          "id": "b2c03",
+          "title": {
+            "la": "Caput III. De ciborum delectu referuntur sententia: haereticorum. i",
+            "en-US": "Caput III. De ciborum delectu referuntur sententia: haereticorum. i"
+          }
+        },
+        {
+          "id": "b2c04",
+          "title": {
+            "la": "Caput IV. Refellitur impudens calumnia haereticorum circa ciborum delectum",
+            "en-US": "Caput IV. Refellitur impudens calumnia haereticorum circa ciborum delectum"
+          }
+        },
+        {
+          "id": "b2c05",
+          "title": {
+            "la": "Caput V",
+            "en-US": "Caput V"
+          }
+        },
+        {
+          "id": "b2c06",
+          "title": {
+            "la": "Caput VI. Jejunium in genere lege divina esse praeceptum",
+            "en-US": "Caput VI. Jejunium in genere lege divina esse praeceptum"
+          }
+        },
+        {
+          "id": "b2c07",
+          "title": {
+            "la": "Caput VII. Lege Ecclesiastica obligari fideles in conscienda ad certa quaedam jejunia, et ciborum delectum",
+            "en-US": "Caput VII. Lege Ecclesiastica obligari fideles in conscienda ad certa quaedam jejunia, et ciborum delectum"
+          }
+        },
+        {
+          "id": "b2c08",
+          "title": {
+            "la": "Caput VIII. Solvuntur argumenta ex Scripturis contra praeceptum jejunii, et clelectum ciborum",
+            "en-US": "Caput VIII. Solvuntur argumenta ex Scripturis contra praeceptum jejunii, et clelectum ciborum"
+          }
+        },
+        {
+          "id": "b2c09",
+          "title": {
+            "la": "Caput IX. Solvitur objectio ex historia antiquitatis",
+            "en-US": "Caput IX. Solvitur objectio ex historia antiquitatis"
+          }
+        },
+        {
+          "id": "b2c10",
+          "title": {
+            "la": "Caput X. Quinam excipiantur a lege jejunii",
+            "en-US": "Caput X. Quinam excipiantur a lege jejunii"
+          }
+        },
+        {
+          "id": "b2c11",
+          "title": {
+            "la": "Caput XI. Ue fructibus, et utilitate jejunii",
+            "en-US": "Caput XI. Ue fructibus, et utilitate jejunii"
+          }
+        },
+        {
+          "id": "b2c12",
+          "title": {
+            "la": "Caput XII. Solvtm tur obj ectiones",
+            "en-US": "Caput XII. Solvtm tur obj ectiones"
+          }
+        },
+        {
+          "id": "b2c13",
+          "title": {
+            "la": "Caput XIII. Solvuntur objectiones ex Patribus",
+            "en-US": "Caput XIII. Solvuntur objectiones ex Patribus"
+          }
+        },
+        {
+          "id": "b2c14",
+          "title": {
+            "la": "Caput XIV. Telesphorus jejunium Quadragesima! instituerit, cum ante ipsius tempora vixerit S. Ignatius, qui Quadragesimae apertissime meminit",
+            "en-US": "Caput XIV. Telesphorus jejunium Quadragesima! instituerit, cum ante ipsius tempora vixerit S. Ignatius, qui Quadragesimae apertissime meminit"
+          }
+        },
+        {
+          "id": "b2c15",
+          "title": {
+            "la": "Caput XV. De Quadragesimae varietate",
+            "en-US": "Caput XV. De Quadragesimae varietate"
+          }
+        },
+        {
+          "id": "b2c16",
+          "title": {
+            "la": "Caput XVI. De ratione instituendas Quadragesimas",
+            "en-US": "Caput XVI. De ratione instituendas Quadragesimas"
+          }
+        },
+        {
+          "id": "b2c17",
+          "title": {
+            "la": "Caput XVII. De jejunio ferise quartae, et feriae sextae",
+            "en-US": "Caput XVII. De jejunio ferise quartae, et feriae sextae"
+          }
+        },
+        {
+          "id": "b2c18",
+          "title": {
+            "la": "Caput XVIII. JJe jejunio Sabbali",
+            "en-US": "Caput XVIII. JJe jejunio Sabbali"
+          }
+        },
+        {
+          "id": "b2c19",
+          "title": {
+            "la": "Caput XIX. De jejunio quatuor temporum",
+            "en-US": "Caput XIX. De jejunio quatuor temporum"
+          }
+        },
+        {
+          "id": "b2c22",
+          "title": {
+            "la": "Caput XXII",
+            "en-US": "Caput XXII"
+          }
+        },
+        {
+          "id": "b2c23",
+          "title": {
+            "la": "Caput XXIII. De diebus, quibus jejunari non debet",
+            "en-US": "Caput XXIII. De diebus, quibus jejunari non debet"
+          }
+        },
+        {
+          "id": "b2c24",
+          "title": {
+            "la": "Caput XXIV. De fraudibus, et corruptelis Kemnitii in historia antiquitatis",
+            "en-US": "Caput XXIV. De fraudibus, et corruptelis Kemnitii in historia antiquitatis"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III"
+      },
+      "children": [
+        {
+          "id": "b3c01",
+          "title": {
+            "la": "Caput I. Quid sit eleemosyna",
+            "en-US": "Caput I. Quid sit eleemosyna"
+          }
+        },
+        {
+          "id": "b3c02",
+          "title": {
+            "la": "Caput II. De partitione eleemosynae",
+            "en-US": "Caput II. De partitione eleemosynae"
+          }
+        },
+        {
+          "id": "b3c03",
+          "title": {
+            "la": "Caput III. Eleemosynas non sufficere ad salutem sine fide, spe, dilectione, poenitentia, aliisque ad",
+            "en-US": "Caput III. Eleemosynas non sufficere ad salutem sine fide, spe, dilectione, poenitentia, aliisque ad"
+          }
+        },
+        {
+          "id": "b3c04",
+          "title": {
+            "la": "Caput IV",
+            "en-US": "Caput IV"
+          }
+        },
+        {
+          "id": "b3c05",
+          "title": {
+            "la": "Caput V. Unde sumatur eleemosyna; magnitudo",
+            "en-US": "Caput V. Unde sumatur eleemosyna; magnitudo"
+          }
+        },
+        {
+          "id": "b3c06",
+          "title": {
+            "la": "Caput VI. Esse praeceptum aliquod de eleemosyna facienda, idque ad quartum praeceptum Decalogi revocari",
+            "en-US": "Caput VI. Esse praeceptum aliquod de eleemosyna facienda, idque ad quartum praeceptum Decalogi revocari"
+          }
+        },
+        {
+          "id": "b3c07",
+          "title": {
+            "la": "Caput VII. Divino praecepto divites obligari ad ea pauperibus eroganda, quae sibi supervacanea sunt",
+            "en-US": "Caput VII. Divino praecepto divites obligari ad ea pauperibus eroganda, quae sibi supervacanea sunt"
+          }
+        },
+        {
+          "id": "b3c08",
+          "title": {
+            "la": "Caput VIII. Non solum superflua, sed etiam necessaria interdum erogare, vel praeceptum, vel consilium est",
+            "en-US": "Caput VIII. Non solum superflua, sed etiam necessaria interdum erogare, vel praeceptum, vel consilium est"
+          }
+        },
+        {
+          "id": "b3c09",
+          "title": {
+            "la": "Caput IX. Quando ex male partis eleemosyna fieri possit",
+            "en-US": "Caput IX. Quando ex male partis eleemosyna fieri possit"
+          }
+        },
+        {
+          "id": "b3c10",
+          "title": {
+            "la": "Caput X. Divitas non esse Christianis illicitas",
+            "en-US": "Caput X. Divitas non esse Christianis illicitas"
+          }
+        },
+        {
+          "id": "b3c11",
+          "title": {
+            "la": "Caput XI. Solvuntur objectiones",
+            "en-US": "Caput XI. Solvuntur objectiones"
+          }
+        },
+        {
+          "id": "b3c12",
+          "title": {
+            "la": "Caput XII. Quis eleemosynam facere, et cui eleemosyna fieri debeat. i *\\",
+            "en-US": "Caput XII. Quis eleemosynam facere, et cui eleemosyna fieri debeat. i *\\"
+          }
+        },
+        {
+          "id": "b3c13",
+          "title": {
+            "la": "Caput XIII. Quomodo sit eleemosyna facienda",
+            "en-US": "Caput XIII. Quomodo sit eleemosyna facienda"
+          }
+        }
+      ]
+    }
+  ]
+}
