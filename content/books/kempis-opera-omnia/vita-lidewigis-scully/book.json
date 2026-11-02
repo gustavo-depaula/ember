@@ -12,22 +12,35 @@
     "pt-BR": "Tomás de Kempis"
   },
   "description": {
-    "en-US": "The life of the paralysed mystic Lydwine of Schiedam (1380-1433), whom Thomas knew of and wrote up from the earlier life by Jan Brugman, in two parts: her sufferings and virtues, and her spiritual consolations, ecstasies and death, with the miracles recorded after it. English only, V. Scully (1912); Pohl's Latin (Opera omnia VI) is not yet imported as a separate book.",
+    "en-US": "The life of the paralysed mystic Lydwine of Schiedam (1380-1433), whom Thomas knew of and wrote up from the earlier life by Jan Brugman, in two parts: her sufferings and virtues, and her spiritual consolations, ecstasies and death, with the miracles recorded after it. The Latin is Pohl's edition (Opera omnia VI, 1905, from a raw OCR of the printed volume); the English is V. Scully (1912), made from it and following its chapters.",
     "pt-BR": "A vida da mística paralítica Lidwina de Schiedam (1380-1433), que Tomás compôs a partir da vida anterior de Jan Brugman, em duas partes: sofrimentos e virtudes; consolações espirituais, êxtases e morte, com os milagres.",
-    "la": "Vita Lidewigis virginis. Versio Anglica tantum."
+    "la": "Vita Lidewigis virginis, duabus partibus: de patientia et virtutibus eius; de consolationibus spiritualibus, raptibus et obitu, cum miraculis. Textus ex editione Pohl (1905), cum versione Anglica V. Scully (1912)."
   },
   "composed": "c. 1433-1450",
   "languages": [
+    "la",
     "en-US"
   ],
   "work": "thomas-a-kempis/vita-lidewigis",
   "editions": {
+    "la": {
+      "editor": "Michael Joseph Pohl",
+      "year": 1905
+    },
     "en-US": {
       "translator": "Vincent Scully",
       "year": 1912
     }
   },
   "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/thomaehemerkena00pohlgoog",
+      "edition": "Thomae Hemerken a Kempis Vita Lidewigis virginis, ed. M. J. Pohl (Freiburg: Herder 1905), Opera omnia VI, pp. 313-453; archive.org raw OCR (Google scan).",
+      "description": "Prologue and the 23 + 33 chapters in two parts, with Pohl's chapter titles taken from the chapter heads and recased. Line numbers, running heads and page breaks stripped by script; Pohl's critical footnotes and the epilegomena are not imported. Raw OCR: drop capitals at chapter openings eat the first letters of the opening lines; common slips and the line-start fragments were repaired by script against a lexicon of the Latin corpus, but some remain.",
+      "tier": "A",
+      "tierEvidence": "Pohl 1905; Thomas died in 1471."
+    },
     {
       "language": "en-US",
       "url": "https://archive.org/details/stlydwineofschied00thomuoft",
@@ -41,150 +54,175 @@
     {
       "id": "praefatio",
       "title": {
-        "en-US": "Prologue to the Life of Lydwine"
+        "en-US": "Prologue to the Life of Lydwine",
+        "la": "Prologus in vitam Lidewigis virginis"
       }
     },
     {
       "id": "part-1",
       "title": {
-        "en-US": "Part I: Her sufferings and virtues"
+        "en-US": "Part I: Her sufferings and virtues",
+        "la": "Pars prima: de patientia et virtutibus eius"
       },
       "children": [
         {
           "id": "p1-01",
           "title": {
+            "la": "1. De loco et nativitate Lidewigis virginis, et probitate parentum eius",
             "en-US": "1. Of the birthplace and birth of the Virgin Lydwine, and the probity of her parents"
           }
         },
         {
           "id": "p1-02",
           "title": {
+            "la": "2. De devotione eius ad imaginem beatae Virginis",
             "en-US": "2. Of her devotion to the image of the blessed Virgin"
           }
         },
         {
           "id": "p1-03",
           "title": {
+            "la": "3. De firmo proposito eius in statu virginitatis",
             "en-US": "3. Of her strong purpose in the state of virginity"
           }
         },
         {
           "id": "p1-04",
           "title": {
+            "la": "4. De initio infirmitatis eius et occasione longae aegritudinis",
             "en-US": "4. Of the beginning of her weak ness, and the occasion of her long illness"
           }
         },
         {
           "id": "p1-05",
           "title": {
+            "la": "5. De sententia cuiusdam medici, et miraculoso facto circa eam",
             "en-US": "5. Of the opinion of a certain doctor, and the miracle that befell her"
           }
         },
         {
           "id": "p1-06",
           "title": {
+            "la": "6. De modicitate refectionis eius per plures annos",
             "en-US": "6. Of the scantiness of her nourishment for many years"
           }
         },
         {
           "id": "p1-07",
           "title": {
+            "la": "7. De variis languoribus et doloribus eam die noctuque torquentibus",
             "en-US": "7. Of the various illnesses and pains that tormented her day and night"
           }
         },
         {
           "id": "p1-08",
           "title": {
+            "la": "8. De gravitate febrium et nova molestia in crure eius",
             "en-US": "8. Of the severity of her fever and a fresh disease in her leg"
           }
         },
         {
           "id": "p1-09",
           "title": {
+            "la": "9. De duritia lectuli eius, et frigoribus in hieme perpessis",
             "en-US": "9. Of the hardness of her bed and the cold she suffered in winter"
           }
         },
         {
           "id": "p1-10",
           "title": {
+            "la": "10. De vigiliis eius et luctamine contra somnolentiam",
             "en-US": "10. Of her watchings and struggle against sleep"
           }
         },
         {
           "id": "p1-11",
           "title": {
+            "la": "11. De paupertate et sustinentia patris eius",
             "en-US": "11. Of the poverty and endurance of her father"
           }
         },
         {
           "id": "p1-12",
           "title": {
+            "la": "12. De illusione satanae qui patrem eius in fossam detrusit",
             "en-US": "12. Of the illusion of satan who cast her father into a ditch"
           }
         },
         {
           "id": "p1-13",
           "title": {
+            "la": "13. De obitu patris eius in profesto conceptionis beatae Mariae Virginis",
             "en-US": "13. Of the death of her father on the vigil of the conception of the blessed Virgin Mary"
           }
         },
         {
           "id": "p1-14",
           "title": {
+            "la": "14. De obitu Iohannis Petri avi eius, et longa continentia sua",
             "en-US": "14. Of the death of John peters her grandfather and his long continence"
           }
         },
         {
           "id": "p1-15",
           "title": {
+            "la": "15. De morte Petronillae matris eius",
             "en-US": "15. Of the death of petronilla her mother"
           }
         },
         {
           "id": "p1-16",
           "title": {
+            "la": "16. De statu eius post mortem matris, et misericordia in pauperes",
             "en-US": "16. Of her state after her mother's death, and her pity for the poor"
           }
         },
         {
           "id": "p1-17",
           "title": {
+            "la": "17. De incendio lectuli eius quod ipsa una manu absque laesione extinxit",
             "en-US": "17. Of the burning of her bed which she put out with one hand without any injury"
           }
         },
         {
           "id": "p1-18",
           "title": {
+            "la": "18. De cineribus in capite ieiunii ab angelo sibi ministratis",
             "en-US": "18. Of the ashes ministered to her by an angel at the beginning of lent"
           }
         },
         {
           "id": "p1-19",
           "title": {
+            "la": "19. De vino in amphora divinitus procurato",
             "en-US": "19. Of the wine miraculously placed in her cup"
           }
         },
         {
           "id": "p1-20",
           "title": {
+            "la": "20. De pecunia pro fratre suo soluta et in bursa multiplicata",
             "en-US": "20. Of the money paid for her brother and multiplied in her purse"
           }
         },
         {
           "id": "p1-21",
           "title": {
+            "la": "21. De armo porcino pauperibus dato, et alio divinitus recuperato",
             "en-US": "21. Of the ham given to the poor, and miraculously replaced by another"
           }
         },
         {
           "id": "p1-22",
           "title": {
+            "la": "22. De carnibus et pisis pauperibus missis et multiplicatis",
             "en-US": "22. Of the meat and peas given to the poor, and multiplied"
           }
         },
         {
           "id": "p1-23",
           "title": {
+            "la": "23. De visione caelestis mensae eleemosynis pauperum repletae",
             "en-US": "23. Of the vision of a heavenly table filled by the alms of the poor"
           }
         }
@@ -193,210 +231,245 @@
     {
       "id": "part-2",
       "title": {
-        "en-US": "Part II: Her consolations, death and miracles"
+        "en-US": "Part II: Her consolations, death and miracles",
+        "la": "Pars secunda: de consolationibus, obitu et miraculis"
       },
       "children": [
         {
           "id": "p2-00",
           "title": {
-            "en-US": "Prologue to the second part"
+            "en-US": "Prologue to the second part",
+            "la": "Prologus secundae partis"
           }
         },
         {
           "id": "p2-01",
           "title": {
+            "la": "1. De initio spiritualium consolationum eius per recordationem Dominicae passionis",
             "en-US": "1. Of the beginning of her spiri tual consolations through the recollection of the Lord's passion"
           }
         },
         {
           "id": "p2-02",
           "title": {
+            "la": "2. De raptu eius in terram sanctam, et ad sacra loca urbis romanae",
             "en-US": "2. Of her rapture into the Holy land, and to the sacred places of the city of rome"
           }
         },
         {
           "id": "p2-03",
           "title": {
+            "la": "3. De mirabili claritate et suavitate intra cellam eius apparentibus",
             "en-US": "3. Of the wonderful brightness and sweetness appearing in her cell"
           }
         },
         {
           "id": "p2-04",
           "title": {
+            "la": "4. De visione in nocte Dominicae nativitatis, et ubertate lactis in uberibus eius",
             "en-US": "4. Of the vision on christmas night, and the abundance of milk in her breasts"
           }
         },
         {
           "id": "p2-05",
           "title": {
+            "la": "5. De virga cypressina quam ei angelus attulit de paradiso",
             "en-US": "5. Of the cypress rod which an angel brought her from para dise"
           }
         },
         {
           "id": "p2-06",
           "title": {
+            "la": "6. De privatione angelicae claritatis ob praesentiam alterius in cella eius latentis",
             "en-US": "6. Of the bereavement of the heavenly brightness on account of another hiding in her cell"
           }
         },
         {
           "id": "p2-07",
           "title": {
+            "la": "7. De raptu eius ad loca purgatorii, et ad gaudia paradisi, unde sertum a beata virgine sibi datum reportavit",
             "en-US": "7. Of her rapture to the regions of purgatory, and to the joys of paradise, whence she brought back a veil given her by the blessed Virgin"
           }
         },
         {
           "id": "p2-08",
           "title": {
+            "la": "8. De corona gloriosa sibi praeparata propter vituperia et vulnera a Picardis sibi inflicta",
             "en-US": "8. Of the glorious crown prepared for her, because of the in sults and wounds inflicted on her by the men of picardy2"
           }
         },
         {
           "id": "p2-09",
           "title": {
+            "la": "9. De patientia et morte Petronillae neptis huius virginis",
             "en-US": "9. Of the patience and death of petronilla, this Virgin's niece"
           }
         },
         {
           "id": "p2-10",
           "title": {
+            "la": "10. De subtractione consolationis divinae, quam virgo incurrebat, ob tristitiam neptis defunctae",
             "en-US": "10. Of the withdrawal of divine consolation, which the Virgin suffered on account of her grief for her dead niece"
           }
         },
         {
           "id": "p2-11",
           "title": {
+            "la": "11. De devoto iuvene Gerardo eremita facto, et peregrinis eum visitantibus",
             "en-US": "11. Of the devout youth Gerard, who had become a hermit, and of the pilgrims who visited him"
           }
         },
         {
           "id": "p2-12",
           "title": {
+            "la": "12. De felici obitu domini Wermboldi presbyteri, huius virginis fidelis amici",
             "en-US": "12. Of the happy death of master wermbold, priest, this Virgin's faithful friend"
           }
         },
         {
           "id": "p2-13",
           "title": {
+            "la": "13. De diversis raptibus eius et cognitione de statu quorundam religiosorum",
             "en-US": "13. Of her divers raptures and her knowledge of the state of certain religious"
           }
         },
         {
           "id": "p2-14",
           "title": {
+            "la": "14. De apparitione et cognitione angelicae claritatis circa eam",
             "en-US": "14. Of the appearance and know ledge of the angelic bright ness about her"
           }
         },
         {
           "id": "p2-15",
           "title": {
+            "la": "15. De mirabili modo internae commotionis ante raptum Spiritus eius",
             "en-US": "15. Of the wonderful manner of her interior pain before the rapture of her spirit"
           }
         },
         {
           "id": "p2-16",
           "title": {
+            "la": "16. De spiritu prophetiae eius, quo multa secreta aliis revelavit",
             "en-US": "16. Of her spirit of prophecy, whereby she revealed to others many hidden things"
           }
         },
         {
           "id": "p2-17",
           "title": {
+            "la": "17. De quodam sacrista defuncto et aliis pluribus defunctis",
             "en-US": "17. Of a certain departed sacristan and many other dead"
           }
         },
         {
           "id": "p2-18",
           "title": {
+            "la": "18. De cautela et circumspectione eius circa revelationem statuum defunctorum",
             "en-US": "18. Of her caution and prudence concerning the revelation of the state of the departed"
           }
         },
         {
           "id": "p2-19",
           "title": {
+            "la": "19. De temptatione cuiusdam viri, consilio Virginis a laqueo diaboli liberati",
             "en-US": "19. Of the temptation of a certain man, delivered by the advice of the Virgin from the snare of the devil"
           }
         },
         {
           "id": "p2-20",
           "title": {
+            "la": "20. De femina meritis beatae Mariae Virginis a fovea desperationis liberata",
             "en-US": "20. Of a woman freed by the merits of the blessed Virgin Mary from the gulf of despair"
           }
         },
         {
           "id": "p2-21",
           "title": {
+            "la": "21. De gratia magnae compunctionis et larga effusione lacrimarum in communicatione corporis Christi",
             "en-US": "21. Of her grace of great compunc tion and abundant shedding of tears in the communion of the body of Christ"
           }
         },
         {
           "id": "p2-22",
           "title": {
+            "la": "22. De insatiabili desiderio eius ad communicandum saepius et apparitione pueri crucifixi",
             "en-US": "22. Of her insatiable desire to communicate often, and of the appearance of a child crucified"
           }
         },
         {
           "id": "p2-23",
           "title": {
+            "la": "23. De febre Baldewini pueri, et domini Iohannis confessoris sui",
             "en-US": "23. Of the fever of the child bald- wine, and of master John her confessor"
           }
         },
         {
           "id": "p2-24",
           "title": {
+            "la": "24. De dolore calculi eius et praescientia ante diem obitus sui",
             "en-US": "24. Of her suffering from stone and her foreknowledge before the day of her death"
           }
         },
         {
           "id": "p2-25",
           "title": {
+            "la": "25. De gratia in nocte paschali et prophetia mortis eius",
             "en-US": "25. Of the grace on easter night and the prophecy of her death"
           }
         },
         {
           "id": "p2-26",
           "title": {
+            "la": "26. De felici obitu eius et doloribus in extremis",
             "en-US": "26. Of her happy death and suffer ings at the last"
           }
         },
         {
           "id": "p2-27",
           "title": {
+            "la": "27. De mirabili dispositione bracchiorum eius, et involutione corporis",
             "en-US": "27. Of the wonderful placing of her arms, and the shrouding of her body"
           }
         },
         {
           "id": "p2-28",
           "title": {
+            "la": "28. De mirabili decore et aspectu vultus eius",
             "en-US": "28. Of the wonderful beauty and aspect of her countenance"
           }
         },
         {
           "id": "p2-29",
           "title": {
+            "la": "29. De concursu visitantium corpus eius defunctum",
             "en-US": "29. Of the flocking of visitors to her dead body"
           }
         },
         {
           "id": "p2-30",
           "title": {
+            "la": "30. De maculis quas contraxit ex contactu immundorum hominum",
             "en-US": "30. Of the stains which she contracted from unclean men"
           }
         },
         {
           "id": "p2-31",
           "title": {
+            "la": "31. De reverenda sepultura eius",
             "en-US": "31. Of her reverential burial"
           }
         },
         {
           "id": "p2-32",
           "title": {
+            "la": "32. De miraculis post mortem eius",
             "en-US": "32. Of the miracles after her death"
           }
         },
         {
           "id": "p2-33",
           "title": {
+            "la": "33. Narratio trium miraculorum",
             "en-US": "33. The narration of three miracles"
           }
         }

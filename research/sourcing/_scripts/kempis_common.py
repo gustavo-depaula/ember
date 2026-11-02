@@ -113,6 +113,12 @@ def decap(p):
     return p
 
 
+def capsish(s):
+    s = re.sub(r'\s+(?:[a-z]{1,2}|\d+)\.?\s*$', '', s)  # margin line number
+    letters = re.sub(r'[^A-Za-z]', '', s)
+    return len(letters) >= 3 and sum(c.isupper() for c in letters) >= 0.7 * len(letters)
+
+
 def segments(lines, marker, start, end, groups=(), title_before=False):
     """Split lines[start:end] at lines matching marker; groups = line numbers where a new part begins.
     Returns (preface_lines, [(group_index, chapter_lines, pre_title)]). With title_before the chapter title is the
@@ -130,7 +136,7 @@ def segments(lines, marker, start, end, groups=(), title_before=False):
                 blanks += 1
                 if blanks >= 2 and j != i:
                     break
-            elif s.isupper() and not stop.search(s) and len(s.split()) < 12:
+            elif capsish(s) and not stop.search(s) and len(s.split()) < 12:
                 j = k
                 blanks = 0
             else:

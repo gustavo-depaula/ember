@@ -5,6 +5,7 @@ import json, os, re, sys
 sys.path.insert(0, os.path.dirname(__file__))
 from kempis_common import clean, clean_en, mend, decap, segments, fix
 import bookjson
+import kempis_fix as kf
 
 ROOT = 'content/books/kempis-opera-omnia/'
 AU = {'la': 'Thomas a Kempis', 'en-US': 'Thomas à Kempis', 'pt-BR': 'Tomás de Kempis'}
@@ -51,6 +52,8 @@ def chapters(cfg, lang):
             pt = re.sub(r'^ox\b', 'on', ' '.join(tl).lower()).rstrip('.')
             pt = pt[:1].upper() + pt[1:]
             ls = ls[k:]
+        if lang == 'la' and not cfg.get('no_repair'):
+            ls = kf.repair_open(ls)
         raw = cl(ls)
         if pt:
             raw = [uptitle(pt) if lang == 'la' else pt] + raw
@@ -67,15 +70,17 @@ def chapters(cfg, lang):
         title = title_of(fix(first) if lang == 'la' else first)
         ps = mend(rest)
         if lang == 'la':
-            ps = [fix(p) for p in ps]
+            ps = [kf.tidy(kf.fix_ocr(fix(p))) if not cfg.get('no_repair') else fix(p) for p in ps]
         elif not cfg.get('caps_title'):
             ps = [decap(p) for p in ps[:1]] + ps[1:]
         res.append((gi, title, ps))
     for n, t in cfg.get('titles', {}).items():
         res[n] = (res[n][0], t, res[n][2])
+    if cfg.get('pre_range'):
+        pre = L[cfg['pre_range'][0]:cfg['pre_range'][1]]
     prep = mend(cl(pre))
     if lang == 'la':
-        prep = [fix(p) for p in prep]
+        prep = [kf.tidy(kf.fix_ocr(fix(p))) for p in prep]
     return prep, res
 
 
@@ -114,11 +119,17 @@ def build(spec, pt_names=None):
             nodes.setdefault(cid, {'id': cid, 'g': gi, 'title': {}})['title'][lang] = t
     extra_nodes = {}
     for ex in spec.get('extras', []):
-        L = open(spec['en']['file'], errors='replace').read().split('\n')
-        body = mend(clean_en(L[ex['start']:ex['end']]))
-        open(f"{d}/en-US/{ex['id']}.md", 'w').write(md(ex['title'], body))
-        wc['en-US'] += len(' '.join(body).split())
-        extra_nodes.setdefault(ex['gi'], []).append({'id': ex['id'], 'title': {'en-US': ex['title']}})
+        lg = ex.get('lang', 'en-US')
+        cfg = spec['la' if lg == 'la' else 'en']
+        EL = open(cfg['file'], errors='replace').read().split('\n')
+        body = mend((clean if lg == 'la' else clean_en)(EL[ex['start']:ex['end']]))
+        if lg == 'la':
+            body = [kf.tidy(kf.fix_ocr(fix(p))) for p in body]
+        open(f"{d}/{lg}/{ex['id']}.md", 'w').write(md(ex['title'], body))
+        wc[lg] += len(' '.join(body).split())
+        grp = extra_nodes.setdefault(ex['gi'], {})
+        grp.setdefault(ex['id'], {'id': ex['id'], 'title': {}})['title'][lg] = ex['title']
+    extra_nodes = {g: list(v.values()) for g, v in extra_nodes.items()}
     if spec.get('preface') and spec['preface'].get('en-US' if 'la' not in data else 'la'):
         toc.append({'id': 'praefatio', 'title': dict(spec['preface'])})
     gs = {}
