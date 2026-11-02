@@ -1,0 +1,7 @@
+# Preface
+
+The pious desire of certain of our Brothers hath constrained me to put together a short chronicle concerning the beginning of our House, and the first foundation of our Monastery on Mount St. Agnes, that the said chronicle may be a comfort to them that are now alive, and a memorial for them that come after. Wherefore humbly assenting to their pious desires, I have gathered together a few things out of many, and these I have seen with mine own eyes, or have heard from the Elders of our House, or else have gathered from the writings of others.
+
+Some of the Elders who first dwelt in this House have told us that or ever there was a monastery builded in this place, and before any man had yet come hither to serve God, there did often appear to the shepherds and to them that dwelt near, visions of men in white raiment who seemed to go in procession round the mount: and the signification and meaning hereby portended became clear enough afterward as time went by, when the monastery by God's grace begun in this place by a few Brothers and afterward finished with much toil came into being and a great company of Brothers dwelt therein--for then it was seen how the Devout Congregation of Canons Regular being clad in white raiment did serve God with devotion, singing hymns and psalms and celebrating Mass; also reciting the proper Canonical Hours to His praise every day, and praying for our benefactors, both living and dead, especially for them that are buried in this Monastery.
+
+THE CHRONICLE OF THE CANONS REGULAR OF MOUNT ST. AGNES.

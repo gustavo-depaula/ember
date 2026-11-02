@@ -1,0 +1,570 @@
+{
+  "id": "kempis-chronica-montis-s-agnetis",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Chronicle of the Canons Regular of Mount St. Agnes",
+    "pt-BR": "A Crônica dos Cônegos Regulares do Monte Santa Inês",
+    "la": "Chronica Montis S. Agnetis"
+  },
+  "author": {
+    "la": "Thomas a Kempis",
+    "en-US": "Thomas à Kempis",
+    "pt-BR": "Tomás de Kempis"
+  },
+  "description": {
+    "en-US": "Thomas's history of his own monastery near Zwolle, from its foundation by the disciples of Gerard Groote in 1384 to his own day: the first brothers, the building, the priors and their deaths, the visitations and the lay brothers, with a section from his chronicle on events outside the house and William Vornken's letter on the origins of Windesheim. English only (J. P. Arthur, 1906); Pohl's Latin (Opera omnia VII, 1922) is not yet imported.",
+    "pt-BR": "A história que Tomás escreveu de seu próprio mosteiro perto de Zwolle, desde a fundação pelos discípulos de Gerardo Groote, em 1384: os primeiros irmãos, a construção, os priores e suas mortes, com a carta de Guilherme Vornken sobre as origens de Windesheim.",
+    "la": "Chronica canonicorum regularium Montis S. Agnetis a Thoma a Kempis conscripta. Versio Anglica tantum."
+  },
+  "composed": "c. 1471",
+  "languages": [
+    "en-US"
+  ],
+  "work": "thomas-a-kempis/chronica-montis-sanctae-agnetis",
+  "editions": {
+    "en-US": {
+      "translator": "J. P. Arthur",
+      "year": 1906
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/16759",
+      "edition": "The Chronicle of the Canons Regular of Mount St. Agnes, tr. J. P. Arthur (London: Kegan Paul, Trench, Trubner 1906); Project Gutenberg 16759, produced by Les Bowler.",
+      "description": "The preface, the 29 chapters of the Chronicle, the 24 chapters \"From the chronicle of our Brother Thomas of Kempen concerning matters not pertaining to our house\" and the 30 sections of William Vornken's letter on Windesheim, as the translation prints them. The translator's note and the Gutenberg licence are dropped.",
+      "tier": "A",
+      "tierEvidence": "Published 1906; Project Gutenberg."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "part-1",
+      "title": {
+        "en-US": "Of the foundation and the first Fathers of Mount St. Agnes"
+      },
+      "children": [
+        {
+          "id": "p1-01",
+          "title": {
+            "en-US": "1. Of the first founders of the Monastery at Mount St. Agnes, and how Master Gerard Groote first pointed out this place to them"
+          }
+        },
+        {
+          "id": "p1-02",
+          "title": {
+            "en-US": "2. Of the building of the first House on Mount St. Agnes"
+          }
+        },
+        {
+          "id": "p1-03",
+          "title": {
+            "en-US": "3. Concerning the names of the first Brothers and their labours"
+          }
+        },
+        {
+          "id": "p1-04",
+          "title": {
+            "en-US": "4. Of the scanty food and raiment of the Brothers, and how wondrously God did provide for them"
+          }
+        },
+        {
+          "id": "p1-05",
+          "title": {
+            "en-US": "5. Of the consecration of the first chapel and altar at Mount St. Agnes"
+          }
+        },
+        {
+          "id": "p1-06",
+          "title": {
+            "en-US": "6. Of the year and place in which the first four Brothers were invested"
+          }
+        },
+        {
+          "id": "p1-07",
+          "title": {
+            "en-US": "7. How the monastery was removed from Westerhof to Mount St. Agnes"
+          }
+        },
+        {
+          "id": "p1-08",
+          "title": {
+            "en-US": "8. How John Kempen was chosen as the first Prior of Mount St. Agnes"
+          }
+        },
+        {
+          "id": "p1-09",
+          "title": {
+            "en-US": "9. How the Burial-ground at Mount St. Agnes was consecrated"
+          }
+        },
+        {
+          "id": "p1-10",
+          "title": {
+            "en-US": "10. Of the Brothers who were invested by John of Kempen, the first Prior"
+          }
+        },
+        {
+          "id": "p1-11",
+          "title": {
+            "en-US": "11. Of the death of Brother Wolfard, Priest in the Monastery of Mount St. Agnes"
+          }
+        },
+        {
+          "id": "p1-12",
+          "title": {
+            "en-US": "12. How Brother William Forniken was chosen to be the second Prior in the House of Mount St. Agnes"
+          }
+        },
+        {
+          "id": "p1-13",
+          "title": {
+            "en-US": "13. Of the death of Brother Nicholas Kreyenschot"
+          }
+        },
+        {
+          "id": "p1-14",
+          "title": {
+            "en-US": "14. Of the consecration of our Church and of four Altars in the House of Mount St. Agnes"
+          }
+        },
+        {
+          "id": "p1-15",
+          "title": {
+            "en-US": "15. Of the death of the beloved Father John Ummen, the first Founder of the Monastery of Mount St. Agnes"
+          }
+        },
+        {
+          "id": "p1-16",
+          "title": {
+            "en-US": "16. Of the pestilence that afflicted mankind, and how some of our Brothers died in this plague"
+          }
+        },
+        {
+          "id": "p1-17",
+          "title": {
+            "en-US": "17. Of the death of William, son of Seger, a Priest in Hasselt"
+          }
+        },
+        {
+          "id": "p1-18",
+          "title": {
+            "en-US": "18. Of the death of our most reverend Lord Frederic, Bishop of Utrecht"
+          }
+        },
+        {
+          "id": "p1-19",
+          "title": {
+            "en-US": "19. Of the death of Brother John Vos of Huesden, who was the second Prior at Windesem"
+          }
+        },
+        {
+          "id": "p1-20",
+          "title": {
+            "en-US": "20. How Brother Theodoric of Kleef was chosen to be the third Prior of the House on the Mount"
+          }
+        },
+        {
+          "id": "p1-21",
+          "title": {
+            "en-US": "21. Of the death of Brother Egbert formerly Sub-Prior at the House on the Mount"
+          }
+        },
+        {
+          "id": "p1-22",
+          "title": {
+            "en-US": "22. How our Brothers and other Religious were driven from the land by reason of the Interdict"
+          }
+        },
+        {
+          "id": "p1-23",
+          "title": {
+            "en-US": "23. Of the return of our Brothers from Frisia to Mount St. Agnes"
+          }
+        },
+        {
+          "id": "p1-24",
+          "title": {
+            "en-US": "24. Of the death of Brother John of Kempen, the first Prior of Mount St. Agnes"
+          }
+        },
+        {
+          "id": "p1-25",
+          "title": {
+            "en-US": "25. How Theodoric of Kleef, third Prior of the House on the Mount laid down his office, and was absolved therefrom"
+          }
+        },
+        {
+          "id": "p1-26",
+          "title": {
+            "en-US": "26. How Brother Henry of Deventer was chosen to be the fourth Prior of the House of Mount St. Agnes"
+          }
+        },
+        {
+          "id": "p1-27",
+          "title": {
+            "en-US": "27. How Father Henry, the fourth Prior, resigned his office, and how Father George was chosen to be the fifth Prior"
+          }
+        },
+        {
+          "id": "p1-28",
+          "title": {
+            "en-US": "28. Of the ancient Reliquary of St. Agnes, and how it was gotten"
+          }
+        },
+        {
+          "id": "p1-29",
+          "title": {
+            "en-US": "29. Of the death of Brother Henry, son of William, the fourth Prior of our House"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "From the chronicle: matters not pertaining to our house"
+      },
+      "children": [
+        {
+          "id": "p2-01",
+          "title": {
+            "en-US": "1. Concerning the year in which that reverend man, Florentius of Wevelichoven, was made Bishop of Utrecht"
+          }
+        },
+        {
+          "id": "p2-02",
+          "title": {
+            "en-US": "2. Of the death of John Ruesbroeck, first Prior of the Groenendaal"
+          }
+        },
+        {
+          "id": "p2-03",
+          "title": {
+            "en-US": "3. Of the death of the venerable Master Gerard Groote, a man most devout"
+          }
+        },
+        {
+          "id": "p2-04",
+          "title": {
+            "en-US": "4. Of the great eulogy passed upon Gerard by a certain doctor"
+          }
+        },
+        {
+          "id": "p2-05",
+          "title": {
+            "en-US": "5. How, after his death, the number of the Devout and the Order of Regulars did increase"
+          }
+        },
+        {
+          "id": "p2-06",
+          "title": {
+            "en-US": "6. Of the consecration of the Church, and the investiture of the first Brothers in Windesem"
+          }
+        },
+        {
+          "id": "p2-07",
+          "title": {
+            "en-US": "7. Of the death of John de Gronde, a Priest"
+          }
+        },
+        {
+          "id": "p2-08",
+          "title": {
+            "en-US": "8. Of the death of the most Reverend Florentius of Wevelichoven, Bishop of Utrecht"
+          }
+        },
+        {
+          "id": "p2-09",
+          "title": {
+            "en-US": "9. How Frederick of Blanckenhem was chosen to be Bishop"
+          }
+        },
+        {
+          "id": "p2-10",
+          "title": {
+            "en-US": "10. How the monastery at Northorn was founded"
+          }
+        },
+        {
+          "id": "p2-11",
+          "title": {
+            "en-US": "11. Of the death of that most devout Priest Florentius, Vicar of the Church of Deventer"
+          }
+        },
+        {
+          "id": "p2-12",
+          "title": {
+            "en-US": "12. Of the death of Everard of Eza, a Curate in Almelo and a great master of Physic"
+          }
+        },
+        {
+          "id": "p2-13",
+          "title": {
+            "en-US": "13. Of the death of the Priest Amilius that succeeded Florentius at Deventer"
+          }
+        },
+        {
+          "id": "p2-14",
+          "title": {
+            "en-US": "14. Of the first investiture of the Sisters of our Order in Diepenvene near Deventer"
+          }
+        },
+        {
+          "id": "p2-15",
+          "title": {
+            "en-US": "15. How the monastery in Budiken was reformed"
+          }
+        },
+        {
+          "id": "p2-16",
+          "title": {
+            "en-US": "16. Of the death of Gerard Kalker, a devout Priest, and Rector of the House of Clerks"
+          }
+        },
+        {
+          "id": "p2-17",
+          "title": {
+            "en-US": "17. Of the death of Henry of Gouda, a devout Priest, at Zwolle"
+          }
+        },
+        {
+          "id": "p2-18",
+          "title": {
+            "en-US": "18. How the Sisters in Bronope were invested"
+          }
+        },
+        {
+          "id": "p2-19",
+          "title": {
+            "en-US": "19. The death of Wermbold the Priest"
+          }
+        },
+        {
+          "id": "p2-20",
+          "title": {
+            "en-US": "20. Of the death of John Cele, Rector of the School at Zwolle"
+          }
+        },
+        {
+          "id": "p2-21",
+          "title": {
+            "en-US": "21. Concerning John Brinckerinck, a disciple of Master Gerard"
+          }
+        },
+        {
+          "id": "p2-22",
+          "title": {
+            "en-US": "22. Of the death of Gisbert Dou, Rector of the Sisters at Amsterdam"
+          }
+        },
+        {
+          "id": "p2-23",
+          "title": {
+            "en-US": "23. As to the gaining of Indulgences at the stations in Rome"
+          }
+        },
+        {
+          "id": "p2-24",
+          "title": {
+            "en-US": "24. The letter of the Cardinal of Bologna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "title": {
+        "en-US": "A letter concerning the first institution of the monastery at Windesheim (William Vornken)"
+      },
+      "children": [
+        {
+          "id": "p3-01",
+          "title": {
+            "en-US": "Prologue"
+          }
+        },
+        {
+          "id": "p3-02",
+          "title": {
+            "en-US": "2. The history of the origin of the New Devotion"
+          }
+        },
+        {
+          "id": "p3-03",
+          "title": {
+            "en-US": "3. Of them by whom this land was turned to the Faith of Christ"
+          }
+        },
+        {
+          "id": "p3-04",
+          "title": {
+            "en-US": "4. A lamentation over the waning of the aforesaid fervour"
+          }
+        },
+        {
+          "id": "p3-05",
+          "title": {
+            "en-US": "5. Of the rise of the New Devotion in our land"
+          }
+        },
+        {
+          "id": "p3-06",
+          "title": {
+            "en-US": "6. Of Master Gherard Groet"
+          }
+        },
+        {
+          "id": "p3-07",
+          "title": {
+            "en-US": "7. Of his death"
+          }
+        },
+        {
+          "id": "p3-08",
+          "title": {
+            "en-US": "8. Concerning Florentius and his companions"
+          }
+        },
+        {
+          "id": "p3-09",
+          "title": {
+            "en-US": "9. How like things were done in other cities"
+          }
+        },
+        {
+          "id": "p3-10",
+          "title": {
+            "en-US": "10. Of the names of the Fathers and Rectors of the first congregation"
+          }
+        },
+        {
+          "id": "p3-11",
+          "title": {
+            "en-US": "11. Of the multiplication of the devout, especially of virgins"
+          }
+        },
+        {
+          "id": "p3-12",
+          "title": {
+            "en-US": "12. How a certain monk of Cologne was put to confusion"
+          }
+        },
+        {
+          "id": "p3-13",
+          "title": {
+            "en-US": "13. How the Sisters were examined"
+          }
+        },
+        {
+          "id": "p3-14",
+          "title": {
+            "en-US": "14. Concerning Master Bernard de Reyda"
+          }
+        },
+        {
+          "id": "p3-15",
+          "title": {
+            "en-US": "15. Of the origin of the House at Windesem"
+          }
+        },
+        {
+          "id": "p3-16",
+          "title": {
+            "en-US": "16. Concerning Brother Bertold, and the site of this monastery"
+          }
+        },
+        {
+          "id": "p3-17",
+          "title": {
+            "en-US": "17. Of the goodwill and consent of Florentius the Lord Bishop"
+          }
+        },
+        {
+          "id": "p3-18",
+          "title": {
+            "en-US": "18. Of the first Brothers of this monastery"
+          }
+        },
+        {
+          "id": "p3-19",
+          "title": {
+            "en-US": "19. The praise of the early Fathers"
+          }
+        },
+        {
+          "id": "p3-20",
+          "title": {
+            "en-US": "20. How the Brothers aforesaid were promoted in other monasteries"
+          }
+        },
+        {
+          "id": "p3-21",
+          "title": {
+            "en-US": "21. Of the pattern of virtue left for us by the Fathers"
+          }
+        },
+        {
+          "id": "p3-22",
+          "title": {
+            "en-US": "22. Of their simplicity and poverty"
+          }
+        },
+        {
+          "id": "p3-23",
+          "title": {
+            "en-US": "23. Of their Victual"
+          }
+        },
+        {
+          "id": "p3-24",
+          "title": {
+            "en-US": "24. Of their Vesture"
+          }
+        },
+        {
+          "id": "p3-25",
+          "title": {
+            "en-US": "25. How they avoided all occasion of scandal"
+          }
+        },
+        {
+          "id": "p3-26",
+          "title": {
+            "en-US": "26. Of their Charity"
+          }
+        },
+        {
+          "id": "p3-27",
+          "title": {
+            "en-US": "27. Concerning Gherard of Renen"
+          }
+        },
+        {
+          "id": "p3-28",
+          "title": {
+            "en-US": "28. Of the privileges obtained for the binding together of the Chapters"
+          }
+        },
+        {
+          "id": "p3-29",
+          "title": {
+            "en-US": "29. Of their manner of holding the Chapter"
+          }
+        },
+        {
+          "id": "p3-30",
+          "title": {
+            "en-US": "30. The Conclusion"
+          }
+        }
+      ]
+    }
+  ]
+}
