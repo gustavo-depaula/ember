@@ -120,4 +120,4 @@ And I have been speaking all along under correction, as submitting absolutely al
 
 Vid*. my article in the Contemporary above referred to.
 
-The END.
+THE END.

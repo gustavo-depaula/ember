@@ -1,6 +1,6 @@
 # Discourse 5. Knowledge its Own End
 
-A UNIVERSITY may be considered with reference either to its Students or to its Studies; and the principle, that all Knowledge is a whole and the separate Sciences parts of one, which I have hitherto been using in behalf of its studies, is equally important when we direct our attention to its students. Now then I turn to the students, and shall consider the education which, by virtue of this principle, a University will give them; and thus I shall be introduced, Gentlemen, to the second question, which I proposed to discuss, viz., whether and in what sense its teaching, viewed relatively to the taught, carries the attribute of Utility along with it.
+A university may be considered with reference either to its Students or to its Studies; and the principle, that all Knowledge is a whole and the separate Sciences parts of one, which I have hitherto been using in behalf of its studies, is equally important when we direct our attention to its students. Now then I turn to the students, and shall consider the education which, by virtue of this principle, a University will give them; and thus I shall be introduced, Gentlemen, to the second question, which I proposed to discuss, viz., whether and in what sense its teaching, viewed relatively to the taught, carries the attribute of Utility along with it.
 
 1.
 

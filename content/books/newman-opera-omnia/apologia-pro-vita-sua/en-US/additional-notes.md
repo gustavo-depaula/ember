@@ -88,7 +88,7 @@ When I urged on one occasion an "understanding" I had had with the publishers of
 
 ## Note on Page 185. Extract of a Letter of the Late Rev. Francis A. Faber, of Saunderton
 
-A LETTER of Mr. F. Faber's to a friend has just now (March, 1878) come into my hands, in which he says, "I have had a long correspondence with Newman on the subject of my uncle's saying he was 'a concealed Roman Catholic' long before he left us. It ends in my uncle making an *amende*.
+A letter of Mr. F. Faber's to a friend has just now (March, 1878) come into my hands, in which he says, "I have had a long correspondence with Newman on the subject of my uncle's saying he was 'a concealed Roman Catholic' long before he left us. It ends in my uncle making an *amende*.
 
 ## Note on Pages 194-196.
 
@@ -161,7 +161,7 @@ Moreover, let one try to gather water which is dropping from sweating stone, or 
 
 ## Note on Page 323. Boniface of Canterbury
 
-"WHEN I made the above reference in 1865 to Boniface of Canterbury, I was sure I had seen among my books some recent authoritative declaration on the subject of his *cultus* in opposition to the Bollandists; but I did not know where to look for it. I have now found in our Library (Concess. Offic. t. 2) what was in my mind. It consists of five documents proceeding from the Sacred Congregation of Rites, with the following title:—
+"When I made the above reference in 1865 to Boniface of Canterbury, I was sure I had seen among my books some recent authoritative declaration on the subject of his *cultus* in opposition to the Bollandists; but I did not know where to look for it. I have now found in our Library (Concess. Offic. t. 2) what was in my mind. It consists of five documents proceeding from the Sacred Congregation of Rites, with the following title:—
 
 "Emo ac Revmo Domino Card Lambruschini Relatore, Taurinen. Approbationis cultûs ab immemorabili tempore præstiti B. Bonifacio à Subaudiâ Archiepiscopi Cantuarien. Instante serenissimo Rege Sardiniæ Carolo Alberto Romæ, 1838."
 
@@ -194,5 +194,5 @@ Yours most sincerely in Xt.,
 JOHN H. NEWMAN,  
 Of the Oratory.
 
-The VERY REV.  
+THE VERY REV.  
 CANON FLANAGAN.

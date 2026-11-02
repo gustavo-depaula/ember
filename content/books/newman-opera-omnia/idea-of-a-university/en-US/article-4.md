@@ -337,7 +337,7 @@ On the receipt of this letter, Mr. White will find, to his dissatisfaction, that
 
 Mr. Brown's poetry.
 
-> The TAKING OF SEBASTOPOL [^1]
+> THE TAKING OF SEBASTOPOL [^1]
 
 Oh, might I flee to Araby the blest,  
 The world forgetting, but its gifts possessed,  
@@ -412,7 +412,7 @@ Here Mr. Black stops; and Mr. Brown takes advantage of the pause to insinuate th
 
 1.
 
-Mr. WHITE, the Tutor, is more and more pleased with young Mr. Black; and, when the latter asks him for some hints for writing Latin, Mr. White takes him into his confidence and lends him a number of his own papers. Among others he puts the following into Mr. Black's hands.
+MR. WHITE, the Tutor, is more and more pleased with young Mr. Black; and, when the latter asks him for some hints for writing Latin, Mr. White takes him into his confidence and lends him a number of his own papers. Among others he puts the following into Mr. Black's hands.
 
 Mr. White's view of Latin translation.
 
