@@ -1,0 +1,27 @@
+# Lettre MDLXXVII. À Monseigneur Jean-Pierre Camus, Évêque de Belley
+
+*Quelle part l'Evêque de Genève prend au deuil de son ami. - Eloge de M. Camus de Saint-Bonnet et de sa famille. - Surcroît d'affliction pour le Saint au sujet de ce trépas. - Explication loyale sur le mariage de M. de Foras. - Le mécontentement injuste de M. de Montholon.*
+
+Annecy, 13 décembre 1619.
+
+Monseigneur,
+
+J'ay sceu despuis peu de jours que la divine Providence a en fin retiré de ce monde M. vostre pere ; et soudain je suis allé a l'autel offrir le Filz eternel a son Pere pour l'ame de ce defunt, et recommander la vostre et celle de madame vostre bonne mere et celles de toute la trouppe des freres et seurs au Saint Esprit, douce source de toute veritable consolation ; car, que peut on faire de meilleur en telles occurrences ?
+
+Certes, j'ay participé a vostre desplaysir ; mais la part que j'en ay prise n'aura en rien diminué la totalité du vostre. Oh ! si les afflictions devenoyent moindres a mesure qu'elles sont respandues dans le cœur de plusieurs, que vous en auries bon marché, ayant tant de personnes, et autour de vous et bien loin de vous, qui vous honnorent et ayment sincerement, se communiquant les uns aux autres vos sentimens pour les ressentir avec vous.
+
+Je n'ay rien a vous dire de plus sur ce sujet, sinon que toute ma vie j'honnoreray la riche memoire de ce bon seigneur trespassé, et seray invariablement tres humble serviteur de sa tant honnorable posterité et de madame sa vefve, qui a si heureusement cooperé au bonheur de sa vie et a le faire vivre encor apres la mort en la personne de tant de si dignes enfans ; car au reste, de vous vouloir dire des paroles de consolation, je suis trop loin, et ne puis estre ouÿ qu'apres tant d'autres, que ce seroit une impertinence trop excessive. Et de plus, quand j'eusse esté aupres de vous, que vous eusse-je peu dire sinon :
+
+Bibe aquam de cisterna tua ( Pr 5,15 ) ? Quelz parfums peut on donner aux habitans de l'Arabie Heureuse ? On ne peut leur porter de la suavité qui soit comparable a celle de leur païs, et ne peut on leur dire autre chose sinon : Sentes, odores, receves les exhalaisons de vos cinnamomes, de vos bausmes, de vos myrtes. Ainsy vous eusse-je dit, et a vous et a madame vostre mere, a messieurs et mesdamoyselles vos freres et seurs, vous envoyant tous a vous mesmes pour vous consoler.
+
+Mays moy, c'est la verité que j'ay encor une douleur sur le sujet de ce trespas qui me fasche tous-jours quand j'y suis attentif. C'est qu'apres une forte resolution d'aller prendre congé de ce bon pere a mon despart de Paris, l'ayant reservé pour le dernier comme celuy a qui je devois beaucoup d'honneur et qui estoit le plus pres, ravi et emporté de la force des visites qui me furent faites ce jour la, je fus tellement suffoqué d'esprit que je ne pensay point a cette obligation sur l'occasion ; et estant en chemin, lhors que je ne pouvois plus m'en acquitter, je m'en apperceus, comme seulement pour en estre marri. Et quant a vous, Monseigneur, ce ne fut nullement faute d'attention, mais par la fause asseurance que mon hoste de Chartres me donna que vous esties a Estampes, ou apres je me reconneus trompé, mais trop tard. Or, j'espere que ce bon seigneur m'a aysement pardonné, s'il faut ainsy dire, puisque voyant Celuy qui voit tout, il voit bien que cette mienne faute n'est point procedee de manquement d'honneur, de respect et d'affection. Et vous me pardonnes aysement celle ci, par vostre douceur et bonté envers moy. Dieu m'a donné vostre bienveuillance, Dieu me la conservera, s'il luy plaist; car de moy mesme je n'ay peu la meriter, ni la conservation d'icelle.
+
+Mais, a ce propos de conserver les bienveuillances, on m'escrit que je suis presque privé de celle de M. de Montholon pour le sujet du mariage de M. de [Foras ( notes 75,140 )] Et encor faut il que je vous rende conte de ceci, puisque vous estes celuy qui me l'avies procuree ; et en un mot, je puis dire avec verité que, hors les veritables tesmoignages que j'ay rendus une seule fois a madame de [Vaulgrenant ] de la vertu et bonnes qualités de son mari, je n'ay rien cooperé a ce mariage, sinon qu'apres avoir veu et sceu les fortes et vehementes liaisons d'affections, avec des grandes promesses reciproques d'un futur mariage entre ces deux parties, faites pendant que j'estois a Maubuisson , et de plus, la damoyselle se promettre fort asseurement que madamoyselle de [Sanzelles ] appreuveroit tout, je dis alhors, qu'encor que je ne doutasse point de leur discretion a la suite de leurs affections, neanmoins je leur conseillois de ne pas beaucoup tarder leur mariage ; conseil conforme aux decretz de l'Eglise, et que je donnay ne regardant qu'au plus grand bien et a la plus entiere asseurance de ces ames, et a l'observance des commandemens de Dieu.
+
+Il y a encor ceci de considerable, que M. de Montholon, lhors qu'il me parla de ce sujet, ne me tesmoigna point d'avoir une si grande aversion ni un si grand interest en cet affaire, que pour cela j'eusse peu croire qu'il en prendroit tant d'ardeur de mescontentement; de sorte que je ne puis encor sousmettre mon jugement pour me tenir coulpable en cet endroit, quoy que grandement marri de voir tant de passions esmeuës a cette occasion, pour l'accoysement desquelles je n'ay autre chose a dire, sinon : Redime me a calumniis hominum ( Ps 118, 134 ), a Celuy devant lequel je suis sans fin,
+
+Monseigneur,
+
+Vostre tres humble et tres obeissant frere et serviteur,
+
+FRANçs, E. de Geneve.

@@ -1,0 +1,23 @@
+# Lettre MDCLXIII. À Madame des Gouffiers
+
+*Perplexité au sujet d'une âme. - Les tendances d'esprit et de caractère qui lui rendraient périlleux le séjour dans le monde ; aversion qui l'éloigne de la vie religieuse. - Quel état mitoyen elle peut embrasser. - Souvenir attristé d'un temps de ferveur. - Les procès, " tres mauvaise occupation. " - Etre pauvre plutôt que de s'enrichir par cette voie.*
+
+Annecy, 9 juin 1620.
+
+Cet aymable esprit que j'ay veu en vous quelques moys durant, tandis que vous esties en cette ville, ma tres chere Fille , ne reviendra il jamais dans vostre cœur ? Certes, quand je voy comme il en est sorti, je suis en grande perplexité, non de vostre salut, car j'espere que vous le feres tous-jours, mays de vostre perfection, a laquelle Dieu vous appelle et n'a jamais cessé de vous appeller des vostre jeunesse. Car, je vous prie, ma tres chere Fille, comme vous pourrois je conseiller de demeurer au monde ? Avec ce tres bon naturel que veritablement je connois en vous dans le fond de vostre cœur, mays accompaigné d'une si forte inclination a la hauteur et dignité de vie, et a la prudence et sagesse naturelle et humaine, et de plus, d'une si grande activité, subtilité et delicatesse d'entendement, que je craindrois infiniment de vous voir dans le monde ! n'y ayant point de condition plus dangereuse en cet estat-la que le bon naturel environné de telles qualités ; auxquelles si nous adjoustons cette incomparable aversion a la sousmission, il n'y a plus rien a dire, sinon que, pour aucune consideration, quelle qu'elle soit, il ne faut pas que vous demeuries au monde.
+
+Mais d'ailleurs, comme pourrois je vous conseiller d'entrer en Religion, tandis que non seulement vous ne le desires pas, mais aves un cœur tout a fait contrariant a ce genre de vie ?
+
+Il faudra donq chercher une sorte de vie qui ne soit ni mondaine ni religieuse, et qui n'ayt ni les dangers du monde ni les contraintes de la Religion. On pourra bien, ce me semble, obtenir que vous puissies avoir l'entree en quelque Mayson de la Visitation, pour vous recueillir souvent en cette façon de vie, et que neanmoins vous n'y demeuries pas attachee, ains ayes un logis proche pour vostre retraitte, avec la seule sujetion de quelques exercices de devotion propres a vostre bonne conduitte ; car ainsy vous aures la commodité de contenter vostre esprit, qui hait si estrangement la sousmission et liayson a l'obeissance, qui a tant de peine a rencontrer des ames faites a son gré, et qui est si clairvoyant a treuver les a dire et si douillet a les ressentir.
+
+Oh ! quand je me remetz en memoire le tems heureux auquel je vous voyois, a mon gré, si entierement despouillee de vous mesme, si desireuse des mortifications, si fort affinee a l'abnegation de vous mesme, je ne puis que je n'espere de le revoir encor.
+
+Quant a vostre sejour, je vous en laisse le choix ; pour le mien, je croy qu'il ne sera qu'en ce païs-la, apres le voyage de Rome dont je seray de retour a Pasques ou environ, si je le fay . Mais pourtant, faites un bon choix de lieu ou vous puissies estre bien assistee.
+
+Puisque vous le voules, je traitteray avec monsieur N. 0 Dieu, que je desire ardemment et invariablement que vos affaires se passent sans proces ! car en somme, l'argent que vos poursuites mangeront vous suffira pour vivre et, en fin de cause, qu'y aura il de certain ? Que sçaves vous que les juges diront et determineront de vostre affaire ? Et puis, vous passeres vos meilleurs jours en cette tres mauvaise occupation, et vous en restera peu pour estre employés utilement a vostre principal objet ; et Dieu sçait si, apres un long tracas, vous pourres ramasser vostre esprit dissipé, pour l'unir a sa divine Bonté. Ma Fille, ceux qui vivent sur la mer, meurent sur la mer : je n'ay guere veu de gens embarqués dans les proces, qui ne meurent dans cet embarras. Or, voyes si vostre ame est faite pour cela, si vostre tems sera dignement destiné a cela : je veux dire, prenes M. Vincent , examines bien avec luy toute cette affaire et coupes court. Ne veuilles pas estre riche, ma tres chere Fille ; ou du moins, si vous ne le pouves estre que par ces miserables voyes de proces, soyes pauvre plustost, ma tres chere Fille, que d'estre riche aux despens de vostre repos.
+
+Vous devies faire hardiment vostre confession generale, puisque vous ne pouvies accoyser vostre conscience autrement, et qu'un docte et vertueux ecclesiastique vous le conseillait.
+
+Mays il ne m'est pas loysible d'escrire davantage, ravi par les affaires, pressé par le depart de ce porteur. Dieu soit au milieu de vostre cœur. Amen.
+
+Le 9 juin 1620.

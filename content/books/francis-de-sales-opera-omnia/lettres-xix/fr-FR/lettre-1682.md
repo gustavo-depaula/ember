@@ -1,0 +1,23 @@
+# Lettre MDCLXXXII. À la Mère de Bréchard Supérieure de la Visitation de Moulins
+
+*Difficulté pour la fondation de Nevers ; d'où elle vient et le cas qu'il faut en faire. - L'avis du Saint sur l'emploi des personnes et de l'argent. - Des entreprises " merveilleusement fascheuses " les supporter, les porter, et les aimer. - Vouloir servir Dieu, sans s'attacher aux moyens de le servir. - Les contradictions, présage de succès. - Une béatitude.*
+
+Annecy, 26 juillet 1620.
+
+Je n'avois garde de deviner que cette difficulté deust jamais arriver pour la fondation de Nevers, ma tres chere Fille ; car, quelle consequence y a il ? Une fille est a Moulins : il faut donq qu'elle et ses moyens y demeurent. Mais ceux qui la font sont dignes de si grand respect et ont tant de merite sur vostre Mayson et sur toute la Congregation, et ont tant de bon zele et de pieté, qu'encor qu'a la rigueur elle ne soit pas bien forte, il faut, ce me semble, la faire valoir pour une partie, selon l'advis du Reverend P. Recteur , qui, comme m'escrit madamoyselle du Tertre, estime que la moytié suffira pour commencer la fondation, et l'autre moytié pour bien accommoder la Mayson de Moulins .
+
+Reste la difficulté de vostre personne et de celle de cette chere fille, car je voy aussi la grande affection que monsieur le Mareschal et madame la Mareschale ont que vous vous arresties, et elle aussi, a Moulins; et faut que je confesse que je voy que cette affaire se prend d'un biays que j'apprehende de dire mon sentiment. Je le fay neanmoins, et dis qu'il seroit a propos que vous, qui aves traitté et qui estes conneuë, menassies ma Seur Paule Hieronime a Nevers, et l'y establissies le mieux que vous pourries, pour le sejour d'un mois ou deux. Et quand je dis que vous y allassies, j'entens aussi parler de madamoyselle du Tertre, ma fille, laquelle je sçai estre inse parable d'avec vous. Or, je presuppose que ces Messieurs prennent confiance a la parole que vous leur donneres de revenir infalliblement et de ramener madamoyselle du Tertre. Que si ilz ne le veulent pas, il faudra envoyer ma Seur Paule Hieronime avec deux ou troys qu'elle choisiroit, et faire le mieux qu'on pourroit, pourveu qu'on fist le partage sus escrit ; car ma Seur Paule Hieronime a asses de courage et de capacité de bien faire, moyennant la grace de Dieu, pour reuscir en cette entreprise.
+
+Je vous asseure, ma tres chere Fille, que cette difficulté ne m'a point tant fasché que pour le desplaysir que je sçai que vous en aves eu ; sur le sujet duquel il faut que je vous die que vous lisies un peu le chapitre De la Patience, de Philothée
+
+( IVD part 3, ch 3 ), ou vous verres que la piqueure des mouches a miel est plus douloureuse que celle des autres mouches. Les entreprises que les amis font sur nostre liberté sont merveilleusement fascheuses ; mais en fin, il les faut supporter, puys porter, et en fin aymer comme de cheres contradictions. Certes, il ne faut vouloir que Dieu absolument, invariablement, inviolablement; mais les moyens de le servir, il ne les faut vouloir que doucement et foiblement, affin que si on nous empesche en l'employte d'iceux, nous ne soyons pas grandement secoüés. Il faut peu vouloir, et petitement, tout ce qui n'est pas Dieu.
+
+Or sus, prenes courage : si le P. Recteur et moy sommes creus, selon ce que j'ay dit ci dessus, tout n'en ira que mieux. Vous souvenes vous de la fondation de cette Mayson d'icy ? Elle fut faite comme celle du monde, de rien du tout, et maintenant on a despensé pres de seize mille ducatons es bastimens, et jamais fille n'en bailla mille que ma Seur Favre. Nevers sera une Mayson benite, et sa fondation ferme et solide, puisqu'elle a esté agitee.
+
+Mays si d'adventure ces Messieurs de Moulins ne vouloyent pas entendre au parti duquel le P. Recteur et moy sommes d'advis, que feroit on ? O certes, je ne me puis imaginer cela ; mais en ce cas, il faudroit avoir bien soin de nostre Seur Paule Hieronime et de sa compaignie, et advertir nostre Mere, qui peut estre a quelque autre fondation par les mains, ou elle pourroit estre employee. Si moins, on nous la renvoyera quand le tems sera un peu plus propre. Et en tous evenemens, il faut demeurer en paix dans la volonté de Dieu, pour laquelle la nostre est faite.
+
+Je salue de tout mon cœur cette chere Seur Paule Hieronime et la Seur Françoise Jacqueline , et toutes nos cheres Seurs.
+
+En somme, bienheureux sont ceux qui ne font pas leur volonté en terre, car Dieu la fera la haut au Ciel. Je suis infiniment vostre, ma tres chere Fille, et vous souhaite mille benedictions. Salués, je vous supplie, le R. P. Recteur.
+
+Ce 26 julliet 1620

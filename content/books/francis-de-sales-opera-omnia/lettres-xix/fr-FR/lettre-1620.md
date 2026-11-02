@@ -1,0 +1,15 @@
+# Lettre MDCXX. À une Religieuse de l'Abbaye de Sainte-Catherine
+
+*Le cadran exposé au soleil. - Cri de guerre de la volonté. - Un prédicateur de Carême qui réclame des prières. - La pensée du Saint sur la clôture de l'abbaye de Sainte-Catherine. - Son dévouement et son dégagement.*
+
+Annecy, fin février ou commencement de mars 1620 .
+
+Il m'est advis que je voy vostre cœur comme un cadran qui est posé au soleil et qui ne remue point, ains demeure immobile, tandis que l'esguille et calamite qui est dedans s'agite incessamment et, par des continuelles inquietudes, s'eslance du costé de sa belle estoile ; car ainsy vostre cœur demeurant immobile, vostre volonté tend par des bons mouvemens a son Dieu. C'est elle qui, emmi la meslee des passions, crie tous-jours intelligiblement: VIVE JESUS ! Vous aves donq bien rayson de demeurer en paix. Ouy, demeures en paix, ma tres chere Fille, et pries Nostre Seigneur qu'il luy plaise de s'asseoir sur mes levres comme sur son throsne pour, de la, faire bien entendre ses volontés et ordonnances a mes auditeurs pendant ce Caresme.
+
+Il faut que je me res-jouisse avec vous de vostre petite confiance avec la chere petite cousine , que vrayement mon cœur ayme tendrement, comme vous. J'espere que Nostre Seigneur la rendra fort sa servante.
+
+Il faut que je vous die ce mot, sur l'opinion qu'on a prise que je procurois de renfermer vostre Monastere. Quicomque me connoistra, dira tout aussi tost qu'il ne faut pas croire de moy des duplicités. Si j'avois cette pensee, de procurer vostre enfermement, je l'aurois dit ; je m'en serois declairé, je ne dis pas a vous, qu'en vraye verité j'estime correspondre a mon affection, mais a madame l'Abbesse et autres qui m'ont parlé confidemment, tant je vay loyalement en semblables occasions. Je vous veux un jour tout dire ce que Son Altesse m'a communiqué de son dessein pour cela, et ce que je luy ay repliqué. Vous verres si je suis doux en cela, et si c'est vous loger au sepulchre ! Non, je n'ay pas voulu, en un Monastere ou j'avois toute authorité, les enfermer, parce que les filles n'y avoyent pas inclination ; et ay tous-jours dit que ces grans traitz dependoyent de l'inspiration et non de l'authorité exterieure, laquelle peut bien faire des enfermees, mais non pas des Religieuses.
+
+Soyes bien ferme a ne point mescroire de moy, ma bonne Fille, et soyes toute certaine que je suis tout ouvert de cœur avec vous. Et pour les autres , Dieu les assistera, s'il veut que je les serve ; et s'il ne le veut pas, sa volonté soit faite ( Mt 6,10 ). Pourveu que sa Majesté soit glorifiee en elles, comme je m'asseure qu'elle sera tous-jours, je seray tres satisfait, et renonceray de bon cœur au contentement spirituel que j'esperois avoir d'estre utile a leur bien. Mon Dieu, ma chere Fille, non seulement pour celuy la, mays pour tous les autres encor, je renonce et resigne tout mon interest au profit de la gloire de Dieu, et prie Dieu qu'il me rende tout purement resigné moy mesme a son amour.
+
+…………………………………………………………………………………………
