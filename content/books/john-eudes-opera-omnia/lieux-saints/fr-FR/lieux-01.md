@@ -1,6 +1,4 @@
-# Traité (1): Traité
-
-Numérisé par cotejr8@videotron.ca
+# Traité (1): De l'honneur du aux lieux saints
 
 ## Traité
 
@@ -46,9 +44,7 @@ Je ne m'étonne pas de ce qu'on écrit de l'empereur Théodose, qu'il respectait
 
 9 « Ecce tabernaculum Dei cum hominihus, et habitabit cum eis. Et ipsi populus ejus erunt, et ipse Deus cum eis erit eorum Deus. » Apoc. XXI, 3.
 
-10 « Nam et hic (Constantinopoli) quoque Constantinum Magnum filius ita demum ingenti honore se affecturum existimavit, si eum in piscatoris vestibulo conderet: quodque imperatoribus sunt in aulis janitores, hoc in sepulchro piscatoribus sunt imperatores. » S. Joan. Chrys. in epist. II ad Cor. hom. XXVI.
-
-jamais il n'y entrait avec son diadème, ou avec des armes, laissant tout cela au portail 11.
+10 « Nam et hic (Constantinopoli) quoque Constantinum Magnum filius ita demum ingenti honore se affecturum existimavit, si eum in piscatoris vestibulo conderet: quodque imperatoribus sunt in aulis janitores, hoc in sepulchro piscatoribus sunt imperatores. » S. Joan. Chrys. in epist. II ad Cor. hom. XXVI. jamais il n'y entrait avec son diadème, ou avec des armes, laissant tout cela au portail 11.
 
 Je ne m'étonne pas qu'anciennement, ni les princes, ni les rois, ni les empereurs n'entraient jamais dans le chœur de l'église, que pour y venir à l'offrande. Témoin ce qui arriva au susdit empereur Théodose, comme il est écrit en la vie de saint Ambroise, que pendant qu'il était à Milan, étant entré dans le chœur pour y venir à l'offrande, et ensuite s'y étant arrêté pour y entendre le reste de la messe, parce que personne ne l'avait encore instruit en cette matière: saint Ambroise lui envoya dire qu'il sortît, et que ce n'était pas là sa place, ains seulement des prêtres; et que la pourpre peut bien faire des empereurs, mais non pas des prêtres. A quoi il obéit humblement et promptement, et depuis ne se voulut jamais seoir dans le chœur 12.
 
@@ -68,9 +64,7 @@ Je ne m'étonne pas de ce que sainte Radegonde, reine le France, comme il est ra
 
 ## Lxvi
 
-Lapide in II ad Cor. XIII, 12. Or Cornelius a Lapide s'appuie, non sur saint Cyrille, mais sur saint Jean Chrysostome dont voici le texte: « Templum Christi sumus: itaque templi vestibula et aditum osculamur cum alii alios osculamur. Annon cernitis quoniam homines etiam hujusce templi vestibula oscolentur, partim inclinato capite, partim manu tenentes atque ori manum admoventes ? » In II ad Cor., homil. 33.
-
-liberté de le balayer et l'essuyer de ses habits royaux; ensuite de quoi elle ramassait dans sa robe la poussière qui en sortait, et ne voulait pas qu'on la mît parmi les ordures ordinaires, mais dans un lieu à part, comme une chose sacrée et honorable 16.
+Lapide in II ad Cor. XIII, 12. Or Cornelius a Lapide s'appuie, non sur saint Cyrille, mais sur saint Jean Chrysostome dont voici le texte: « Templum Christi sumus: itaque templi vestibula et aditum osculamur cum alii alios osculamur. Annon cernitis quoniam homines etiam hujusce templi vestibula oscolentur, partim inclinato capite, partim manu tenentes atque ori manum admoventes ? » In II ad Cor., homil. 33. liberté de le balayer et l'essuyer de ses habits royaux; ensuite de quoi elle ramassait dans sa robe la poussière qui en sortait, et ne voulait pas qu'on la mît parmi les ordures ordinaires, mais dans un lieu à part, comme une chose sacrée et honorable 16.
 
 Je ne m'étonne pas s'il s'est trouvé même des évêques, qui ont voulu et ont tenu à grand honneur d'être enterrés sous les gouttières de l'église, comme le bon Geoffroy, évêque de Coutances, ainsi qu'il est écrit dans les archives de l'église cathédrale dudit lieu 17 .
 
@@ -126,9 +120,7 @@ Que les femmes, dit le Concile d'Aix, ne se mettent point proche des autels; et 
 
 25 « In ecclesia nemo hac audeat: deambulare, nugari, circulos habere, negotiis operam dare... altaribus vel fontibus baptismi adharere, in limine aut ante fores immorari, aversum ab Eucharistia sacramento irreverenter sedere..., aut quovismodo divina perturbare, aud irreverenter in ecclesia versari. » Concil. Aquense, anno 1585, De ecclesiis.
 
-26 « Laïci secus altare quo sancta mysteria celebrantur inter clericos, tam ad Vigilias quam ad Missas, stare penitus non praesumant: sed pars illa qua a cancellis versus altare dividitur, choris tantum psallentium pateat clericorum. Ad communicandum vero laicis et foeminis, sicut mos est, pateant Sancta sanctorum. » Concil. Touron, an. 570, Cap. 4.
-
-pour quelque cause que ce soit, elles n'entrent dans le chœur, ou dans les lieux qui sont élevés sur le chœur, pendant que l'on célèbre l'office ou que l'on prêche la parole de Dieu, ou aux Heures que les clercs, tant séculiers que réguliers, s'y doivent trouver. Que si, après avoir été averties, elles ne veulent pas sortir, ou qu'elles aient la présomption d'y rentrer, nous les déclarons excommuniées. Et si ceux qui président au chœur consentent même tacitement, qu'elles y entrent, ou étant entrées, ne les avertissent, par eux ou par autrui, de se retirer, outre l'excommunication qu'ils encoureront en même temps, nous les dénonçons suspens de leur office ou bénéfice pour six mois 27 . Nous voulons, dit le Concile de Chartres, que dans les églises, les femmes soient hors le chœur et qu'elles soient séparées d'avec les hommes, et qu'autant que faire se pourra, elles se mettent en la partie postérieure de l'église 28 .
+26 « Laïci secus altare quo sancta mysteria celebrantur inter clericos, tam ad Vigilias quam ad Missas, stare penitus non praesumant: sed pars illa qua a cancellis versus altare dividitur, choris tantum psallentium pateat clericorum. Ad communicandum vero laicis et foeminis, sicut mos est, pateant Sancta sanctorum. » Concil. Touron, an. 570, Cap. 4. pour quelque cause que ce soit, elles n'entrent dans le chœur, ou dans les lieux qui sont élevés sur le chœur, pendant que l'on célèbre l'office ou que l'on prêche la parole de Dieu, ou aux Heures que les clercs, tant séculiers que réguliers, s'y doivent trouver. Que si, après avoir été averties, elles ne veulent pas sortir, ou qu'elles aient la présomption d'y rentrer, nous les déclarons excommuniées. Et si ceux qui président au chœur consentent même tacitement, qu'elles y entrent, ou étant entrées, ne les avertissent, par eux ou par autrui, de se retirer, outre l'excommunication qu'ils encoureront en même temps, nous les dénonçons suspens de leur office ou bénéfice pour six mois 27 . Nous voulons, dit le Concile de Chartres, que dans les églises, les femmes soient hors le chœur et qu'elles soient séparées d'avec les hommes, et qu'autant que faire se pourra, elles se mettent en la partie postérieure de l'église 28 .
 
 Les mêmes saints Conciles ordonnent, sous peine de punition exemplaire, qu'on ne mette et qu'on ne fasse point d'ordures, non seulement contre les murailles des églises par dehors, mais même contre celles des cimetières: Qu'on ne profane point, dit le Concile de Toulouse, les murailles extérieures des églises, des oratoires et même des cimetières, en y faisant de l'eau, ou en les salissant par du fumier ou par quelques autres ordures. Et que celui qui violera ce décret soit châtié au jugement de l'évêque 29. Et cependant combien voit-on de chrétiens qui ont assez d'impudence et d'impiété pour faire effrontément leurs saletés, non pas seulement contre les murailles des cimetières, mais même contre celles des temples sacrés du grand Dieu; des temples, dis-je, qui ont été consacrés si solennellement et si saintement par la main des évêques; des temples, qui sont l'objet de la vénération des Anges et de la frayeur des démons; des temples, qui sont des lieux contenant en soi tout ce qu'il y a de plus grand et de plus admirable dans le ciel empirée; des temples, qui sont l'habitation des esprits célestes et la demeure de la très sainte Trinité; des temples, qui sont la figure et l'image de l'humanité adorable du Fils de Dieu, laquelle est le temple vivant de la divinité; des temples enfin, dans lesquels tout est saint et vénérable, jusques aux [plus] petites choses. À raison de quoi les saints Conciles ont fait ces belles et saintes ordonnances.
 
@@ -136,9 +128,7 @@ Que les églises, dit le Concile de Toulouse, les chapelles, les oratoires, les 
 
 28 Le P. Eudes renvoie à un Concile de Chartres, tenu en 1526, dont nous n'avons pu trouver le texte.
 
-29 « Ecclesia, oratoriorum, vel etiam coemeterii externi parietes nec effuso lotio, nec aliunde allatis sordibus deturpentur. Poena secus facientibus justo episcopi arbitrio infligatur » Concil. Tolosanum,anno 1590, De ecclesiis, n. 2.
-
-permettant indifféremment à toutes sortes de personnes de les toucher 30.
+29 « Ecclesia, oratoriorum, vel etiam coemeterii externi parietes nec effuso lotio, nec aliunde allatis sordibus deturpentur. Poena secus facientibus justo episcopi arbitrio infligatur » Concil. Tolosanum,anno 1590, De ecclesiis, n. 2. permettant indifféremment à toutes sortes de personnes de les toucher 30.
 
 Que désormais, dit le même Concile, on ne bâtisse point de boutiques ni d'autres petites maisons contre les murailles des temple , ni même des cimetières; et que l'on démolisse peu à peu celles qui y sont bâties 31.
 
@@ -162,9 +152,7 @@ sanctissima majorum pracepit religio, tabulas sanctorumque imagines, justo nitor
 
 34 « Profanas autem cantilenas [campana] non resonent'» Concil. Bituricense, nn. 1585, De ecclesiis, can. 11.
 
-35 « In sacristia ipsa silentium servetur accurate, neque in ea pateat aditus laicis, nisi necessarium fuerit.» Conc. Aquense, an. 1585, De Sacristia.
-
-de plusieurs églises de Paris:
+35 « In sacristia ipsa silentium servetur accurate, neque in ea pateat aditus laicis, nisi necessarium fuerit.» Conc. Aquense, an. 1585, De Sacristia. de plusieurs églises de Paris:
 
 ---
 
