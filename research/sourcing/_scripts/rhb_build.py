@@ -84,7 +84,7 @@ def resolve(cfg, lines):
     if isinstance(cfg['start'], str):
         cfg['start'] = next(i for i, l in enumerate(lines) if re.search(cfg['start'], l.strip()) and i > cfg.get('after', 30)) + 2
     if isinstance(cfg['end'], str):
-        cfg['end'] = next(i for i, l in enumerate(lines) if i > cfg['start'] and re.search(cfg['end'], l.strip())) + 1
+        cfg['end'] = next((i for i, l in enumerate(lines) if i > cfg['start'] and re.search(cfg['end'], l.strip())), len(lines)) + 1
 def load(cfg):
     for k, v in AUTH.items():
         if cfg['dir'].startswith(k + '-'):
@@ -152,6 +152,7 @@ def build(cfg):
         if sum(len(p.split()) for p in ps) > 40:
             write(cfg.get('lead_id','preface'), cfg['lead_title'], ps); toc.append({'id': cfg.get('lead_id','preface'), 'title': {lang: cfg['lead_title']}})
     label = cfg.get('label', 'Chapter'); secre = re.compile(cfg['sec_re']) if cfg.get('sec_re') else None
+    pcount = 0
     for j, (i, kind, m) in enumerate(mk):
         e = mk[j + 1][0] if j + 1 < len(mk) else len(body)
         seg = body[i + 1:e]
@@ -174,8 +175,9 @@ def build(cfg):
         if title == '__skip': continue
         title = tcase(title).rstrip('.') if title else ''
         n = (m.groupdict().get('n') or '').strip().rstrip('.')
+        if kind == 'chap' and cfg.get('renumber'): pcount += 1; n = roman(pcount)
         if kind == 'part':
-            npart += 1
+            npart += 1; pcount = 0
             ptitle = (m.group(0).strip().rstrip('.') if not inl and not n else None)
             ptitle = romfix(tcase(re.sub(r'\s+', ' ', m.group(0).strip().rstrip('.'))))
             if title and title not in ptitle: ptitle += ': ' + title
