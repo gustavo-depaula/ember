@@ -1,0 +1,120 @@
+{
+  "id": "bonaventure-commentarius-in-ecclesiasten",
+  "cover": "classic",
+  "name": {
+    "la": "Commentarius in Ecclesiasten",
+    "en-US": "Commentary on Ecclesiastes",
+    "pt-BR": "Comentário ao Eclesiastes"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Commentarius in librum Ecclesiastes, in duodecim capitulis. Textus ex editione Quaracchi (Opera omnia VI, 1893), ex scanno OCR, sine notis criticis.",
+    "en-US": "Bonaventure’s commentary on the book of Ecclesiastes, in twelve chapters. The Latin is the Quaracchi edition (Opera omnia VI, 1893) from an OCR scan, without the editors’ critical notes.",
+    "pt-BR": "Comentário ao Eclesiastes."
+  },
+  "composed": "c. 1254-1257",
+  "languages": [
+    "la"
+  ],
+  "work": "bonaventure/commentarius-in-ecclesiasten",
+  "editions": {
+    "la": {
+      "editor": "PP. Collegii S. Bonaventurae (Quaracchi)",
+      "year": 1893
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/doctorisseraphic06bona",
+      "edition": "S. Bonaventurae Opera omnia, tom. VI (Ad Claras Aquas, Quaracchi: Collegium S. Bonaventurae, 1893), pp. 1-103.",
+      "description": "Archive.org OCR (djvu.xml word coordinates) of the folio edition. Each page is read in two columns; marginal notes, running heads, the editors’ footnotes (variant readings, cross-references) and small-type notes are removed by layout (line pitch and measure); line-end hyphens are joined; recognisable OCR slips are corrected by a lexicon pass, so some remain. Chapters are cut at the page whose running head names them.",
+      "tier": "A",
+      "tierEvidence": "Bonaventure died in 1274; the Quaracchi edition of 1893 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prooemium",
+      "title": {
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Capitulum I"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Capitulum II"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Capitulum III"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Capitulum IV"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Capitulum V"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Capitulum VI"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Capitulum VII"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Capitulum VIII"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Capitulum IX"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Capitulum X"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Capitulum XI"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Capitulum XII"
+      }
+    }
+  ]
+}
