@@ -424,7 +424,8 @@ Text is the JesusMarie.com digital edition of Coste (tomes I-XIII and the 1970 "
 
 ### Benson (opera omnia)
 
-- Not yet imported (sources in `research/sourcing/robert-hugh-benson/`): *A Book of the Love of Jesus*, *Spiritual Letters*, *Vexilla Regis*, *Mysticism*, *A Book of Essays*, *Sermon Notes* (both series), *Poems*, *The Upper Room*, *The Cost of a Crown*, *A Mystery Play in Honour of the Nativity*, *An Alphabet of Saints*. *A Child's Rule of Life* (no OCR), *Old Testament Rhymes* and *The Maid of Orleans* (not located).
+- Not yet imported (sources in `research/sourcing/robert-hugh-benson/`): *A Book of the Love of Jesus*, *A Book of Essays*, *Sermon Notes* (both series), *Poems*, *An Alphabet of Saints*. *A Child's Rule of Life* (no OCR), *Old Testament Rhymes* and *The Maid of Orleans* (not located).
+- Plays and prayers (*The Upper Room*, *The Cost of a Crown*, *A Mystery Play*, *Vexilla Regis*): line breaks of verse, stage directions and prayer versicles are run together by the text extraction. *Mysticism* is one chapter with its preface.
 - Novels from archive.org OCR (*The Sentimentalists*, *The Queen's Tragedy*, *The Conventionalists*, *A Winnowing*, *The Coward*, *An Average Man*, *Initiation*, *Loneliness*): chapters are numbered sequentially within each part, with no chapter titles. Where OCR lost a "CHAPTER" heading (*An Average Man*, *The Sentimentalists*), that chapter is joined to the one before it. Isolated OCR slips remain.
 - *Christ in the Church*, *The Friendship of Christ*, *Confessions*, *The Religion of the Plain Man*: OCR; stray footnote lines and the odd mis-read word remain. *Christ in the Church* Part I, chapters II-IV have no titles in the printed contents.
 
