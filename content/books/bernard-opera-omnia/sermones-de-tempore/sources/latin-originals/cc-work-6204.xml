@@ -1,0 +1,516 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>In octava Paschae</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.InOcPa</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>SERMO I. <hi>De fide vincente, et tribus testimonis in coelo et in terra. <note>(I Joan. V, 4-11)</note>
+          </hi> </head>
+<div3>
+          <head>1.</head>
+          <p>
+ <hi>Omne quod natum est ex Deo, vincit mundum.</hi> 
+Postquam Unigenitus Dei non rapinam arbitratus est
+esse se aequalem Deo, hominis quoque dignatus est
+fieri filius, et habitu inventus ut homo, non immerito
+jam de coelesti generatione exiguitas humana
+praesumit. Neque enim indignum est Deo, eorum fieri
+<pb n="0292D"/>
+patrem, quorum se Christus fecerit fratrem. Hinc
+est quod beatus Joannes (qui saepius nobis ac studiosius
+hanc commendat adoptionem filiorum Dei)
+in ipso quoque Evangelii sui principio: <hi>Quotquot,</hi> 
+inquit, <hi>receperunt eum, dedit eis potestatem filios Dei
+fieri <note>(Joan. I, 12)</note>
+          </hi>. Huic ergo verbo simile est quod
+audivimus hodie de <emph>906</emph> ejus Epistola recitari: <hi>Omne,</hi> 
+ inquit, <hi>quod natum est ex Deo, vincit mundum.</hi> 
+Quotquod enim sunt Christi, cum Christo eos
+mundus odit; sed cum Christo superatur pariter et
+<pb n="0293A"/>
+ab ipsis. <hi>Nolite,</hi> ait, <hi>mirari si odit vos mundus: scitote
+quia priorem me vobis odio habuit <note>(Joan. XV, 18)</note>
+          </hi>.
+Et item: <hi>Confidite,</hi> inquit, <hi>quia ego vici mundum <note>(Joan. XVI, 33)</note>
+          </hi>.
+Sic nimirum manifesta fit sermonis
+illius veritas, quem ait Apostolus: <hi>Quos praescivit,</hi> 
+inquit (haud dubium quin Deus Pater), <hi>et praedestinavit
+conformes fieri imagini Filii sui <note>(Rom. VIII, 29)</note>
+          </hi>.
+Vide conformationem. Post ipsum adoptantur, ut
+sit ipse primogenitus in multis fratribus; post
+ipsum odit mundus eos; post ipsum et ab eis vincitur
+mundus.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Bene ergo quod natum est ex Deo, vincit mundum,
+ut sit testimonium coelestis generationis victoria
+tentationis: et sicut is qui filius est per naturam,
+mundum cum suo principe triumphavit, sic et nos
+<pb n="0293B"/>
+victores inveniamur quotquot sumus filii adoptionis.
+Victores sane, sed in ipso, qui confortat nos, in quo
+et possumus omnia: quia <hi>haec est victoria quae vincit
+mundum, fides nostra.</hi> Fide siquidem in Dei filios
+adoptamur: fidem in nobis mundus in maligno positus
+odit atque persequitur; fide quoque et vincitur,
+sicut scriptum est: <hi>Sancti per fidem vicerunt regna <note>(Hebr. XI, 33)</note>
+          </hi>.
+Quidni attribuatur fidei victoria, cujus
+est etiam vita? <hi>Justus,</hi> inquit, <hi>ex fide vivit <note>(Rom.
+I, 17)</note>
+          </hi>. Quoties ergo tentationi resistis, quoties vincis
+malignum, noli propriis tribuere viribus; noli in
+te, sed magis in Domino gloriari. Quando enim fortis
+ille armatus tuae coderet infirmitati? Audi denique
+quid Dominici constitutus pastor ovilis admoneat:
+<pb n="0293C"/> <hi>Adversarius,</hi> 
+ inquit, <hi>vester diabolus, tanquam
+leo rugiens, circuit quaerens quem devoret; cui resistite
+fortes in fide <note>(I Petr. V, 8, 9)</note>
+          </hi>. Vides quemadmodum
+sibi veritatis testimonia concinant. Paulus fide
+regna vicisse sanctos; Petrus principi mundi resistendum
+in fide; Joannes quoque: <hi>Haec est,</hi> inquit, <hi>victoria quae vincit mundum, fides nostra.</hi> </p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Sequitur: <hi>Quis enim est qui vincit mundum,
+nisi qui credit quoniam Jesus est Filius Dei?</hi> Certum
+id quidem, fratres, omnem qui non credit in Filium
+Dei, ex hoc ipso jam non modo victum esse, sed
+etiam judicatum. Sine fide enim impossibile est placere
+Deo <note>(Hebr. XI, 6)</note>. Verumtamen potest forte
+movere, quod tam multos videmus credentes Jesum
+Filium Dei esse, adhuc tamen mundi nihilominus
+<pb n="0293D"/>
+cupiditatibus irretitos. Quid ergo ait: <hi>Quis est qui
+vincit mundum, nisi qui credit quia Jesus est Filius
+Dei,</hi> cum et ipse jam mundus id credat? An non ipsi
+quoque daemones et credunt, et contremiscunt? Sed
+dico: Putasne, Filium Dei reputat Jesum, quisquis
+ille est homo qui ipsius nec terretur comminationibus,
+nec attrahitur promissionibus, nec praeceptis
+obtemperat, nec consiliis acquiescit? Nonne is,
+etiamsi fateatur se nosse Deum, factis tamen negat?
+Porro fides sine operibus mortua est in semetipsa <note>(Jac. II, 20)</note>.
+Nec sane mirum videri potest si nequaquam
+vincit, qui nec vivit quidem.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Quaeris quaenam sit vivida et victoriosa fides?
+Illa sine dubio per quam Christus habitat in cordibus
+<pb n="0294A"/>
+nostris. Christus enim et virtus est, et vita nostra. <hi>Cum Christus apparuerit vita vestra,</hi> 
+ ait Apostolus, <hi>tunc et vos apparebitis cum ipso in gloria 
+ <note>(Coloss.
+III, 4)</note>
+          </hi>. Unde gloria, nisi de victoria? aut quare
+cum ipso apparebimus, nisi quia in ipso et vincimus?
+Denique, si his tantum data est potestas filios Dei
+fieri qui suscipiunt Christum, de his quoque solis
+intelligendum est quod dicitur: <hi>Omnis qui natus est
+ex Deo, vincit mundum.</hi> Inde est quod hic quoque
+cum dixisset: <hi>Quis est qui vincit mundum, nisi qui
+credit quia Jesus est Filius Dei?</hi> ut planius faceret
+eam commendari fidem per quam, ut dictum est,
+Christus in cordibus nostris habitat, addidit continuo
+de ipsius adventu, dicens: <hi>Hic est qui venit per
+aquam et sanguinem, Jesus Christus.</hi> Adhuc autem
+<pb n="0294B"/>
+supereminentiorem viam ostendens: <hi>Et Spiritus est,</hi> 
+inquit, <hi>qui testificatur quoniam Jesus est Filius Dei.</hi> 
+Sane quod interponit, signanter repetens: <hi>Non in
+aqua solum, sed in aqua et sanguine,</hi> ad Moysi differentiam <emph>907</emph> 
+ arbitror accipiendum. Moyses siquidem
+in aqua venit, a qua et nomen accepit ut Moyses
+vocaretur.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Recolant quibus nota est historia Veteris Testamenti,
+quemadmodum in Aegypto, dum parvuli omnes
+Israelitici germinis necarentur, expositum in
+aquis Moysen tulerit filia Pharaonis <note>(Exod. II, 3)</note>.
+Et vide si non manifeste Christi et in hoc ipso videtur
+praecessisse figura Simili nempe cum Pharaone
+etiam Herodes suspicione laborans, ad eadem conversus
+est crudelitatis argumenta, sed eodem modo
+<pb n="0294C"/>
+est ipse delusus <note>(Matth. II, 16)</note>. Utrobique pro unius
+suspecta persona trucidatur numerositas puerorum:
+utrobique qui quaerebatur evadit. Et quomodo Moysen
+filia Pharaonis, ita Christum quoque Aegyptus
+(quae non immerito Pharaonis intelligitur filia) suscepit
+conservandum. Manifeste tamen plus quam
+Moyses hic, utpote qui venerit non in aqua tantum,
+sed in aqua et sanguine. Aquae enim multae, populi
+multi <note>(Apoc. XVII, 15)</note>. Venit ergo in aqua tantum,
+qui congregavit quidem populum, sed populum non
+redemit. Nam et ipsa quoque de servitude Aegyptia
+liberatio, non Moysi, sed Agni sanguine facta est,
+liberandos nos praefigurans a vana nostra conversatione
+hujus saeculi, sanguine Agni immaculati Christi
+<pb n="0294D"/>
+Jesu. Hic est verus legifer noster, apud quem copiosa
+est redemptio. Mortuus est enim non tantum pro
+gente, sed ut filios Dei, qui dispersi erant, congregaret
+in unum. Memento sane hunc esse Joannem,
+qui vidit, et testimonium perhibuit (et scimus quia
+verum est testimonium ejus), exiisse de latere Domini
+dormientis in cruce sanguinem simul et aquam:
+quo videlicet dormienti novo Adae nova de latere
+suo proferretur pariter et redimeretur Ecclesia.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Sic ergo hodie quoque ad nos per aquam et
+sanguinem venit, ut sit aqua et sanguis testimonium
+adventus ejus, fideique victricis. Non solum autem,
+sed testimonium est majus his, quod perhibet Spiritus
+veritatis. Horum trium testimonium verum certumque
+est, et felix anima quae meretur illud accipere.
+<pb n="0295A"/> <hi>Tres enim sunt qui testimonium dant in terra;
+Spiritus, aqua, et sanguis.</hi> 
+ In aqua quidem baptismum
+intellige, in sanguine martyrium, in Spiritu
+charitatem. Spiritus enim est qui vivificat; et fidei
+vita, dilectio. Denique, si quaeris quid Spiritui et
+charitati, respondeat Paulus: <hi>Quia charitas Dei
+diffusa est in cordibus nostris per Spiritum sanctum,
+qui datus est nobis <note>(Rom. V, 5)</note>
+          </hi>. Necessario quoque
+Spiritus additur aquae et sanguini, cum, eodem
+Apostolo teste, sine charitate quidquid habeas, nihil
+prosit <note>(I Cor. XIII, 1-3)</note>.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ Jam vero quia baptismum aqua, martyrium
+diximus sanguine designari; memento et unicum
+et quotidianum esse baptismum, similiter et martyrium.
+Est enim martyrii genus et quaedam effusio
+<pb n="0295B"/>
+sanguinis in quotidiana corporis afflictione. Est et
+baptismus aliquis in compunctione cordis et lacrymarum
+assiduitate. Sic quippe infirmis et pusillis
+corde necesse est, ut quem semel pro Christo ponere
+non sufficiunt, saltem mitiori quodam, sed diuturniori
+martyrio sanguinem fundant. Sic et baptismi
+sacramentum, quoniam iterari non licet, his qui
+saepius in multis offendunt, frequenti oportet ablutione
+suppleri. Unde et Propheta: <hi>Lavabo,</hi> inquit, <hi>per singulas noctes lectum meum; lacrymis meis
+stratum meum rigabo 
+ <note>(Psal. VI, 7)</note>
+          </hi>. Vis ergo nosse
+quis est qui vincit mundum? Quae in eo vincenda
+sunt diligentius intuere. Siquidem et hoc ipsum
+beatus iste Joannes indicat, dicens: <hi>Charissimi, nolite
+diligere mundum; neque ea quae in mundo sunt.
+<pb n="0295C"/>
+Omne enim quod in mundo est, concupiscentia carnis
+est, concupiscentia oculorum, et ambitio saeculi <note>(I Joan. II, 15, 16)</note>
+          </hi>.
+Hae sunt tres turmae quas fecerunt
+Chaldaei <note>(Job. I, 17)</note>. Sed memini quoque sanctum
+Jacob fecisse tres turmas, cum timeret a facie
+Esau, rediens de Mesopotamia <note>(Gen. XXXII, 7)</note>. Et
+vobis ergo adversus triplex genus tentationis triplici
+opus est munimento: ut carnis quidem concupiscentia
+ipsius mortificatione vincatur, quam, si meministis,
+in sanguinis testimonio diximus intelligendam;
+oculorum vero concupiscentiam superet studium
+compunctionis et assiduitas lacrymarum; <emph>908</emph> 
+porro ambitionis vanitatem virtus charitatis excludat,
+quae sola castificat animam, sola purgat intentionem.
+Certum quippe triumphati mundi testimonium
+<pb n="0295D"/>
+est, si corpus castiges et subjicias servituti,
+ne perniciosa libertate serviat voluptati; si fletui
+praebeas oculos magis, quam petulantiae vel curiositati;
+si denique, spirituali dilectione flagrans, nulli
+animum dederis vanitati.</p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ Merito sane unus est qui in terra pariter et in
+coelo testimonium perhibet Spiritus; quia sive corporis
+afflictio cessabit, sive lacrymarum fons exsiccabitur;
+sed charitas nunquam excidit. Praelibatio
+quaedam est in praesenti, consummatio et plenitudo
+in futuro manet. Verumtamen licet maneat post
+aquam et sanguinem Spiritus (aqua quippe et sanguis
+regnum Dei non possidebunt), interim tamen
+aut vix aut nullo modo invenire est Spiritum sine
+<pb n="0296A"/>
+illis, quoniam <hi>hi tres,</hi> inquit, <hi>unum sunt:</hi> ut, quolibet
+ex his tribus deficiente, adesse caetera non praesumas.
+Simul vero juncta testimonia ista credibilia
+facta sunt nimis, nec poterit cui in terris suppetunt
+haec, carere testimonio vel in coelis. Confitetur Dei
+Filium coram hominibus non verbo, neque lingua,
+sed opere et veritate: et Filius quoque confitebitur
+eum coram angelis Dei. An vero ei deesse poterit in
+testimonio Pater, cui Filium videat attestantem?
+Sine dubio confitebitur et ipse quod viderit in
+abscondito. Sed neque Spiritus quidem a Patre Filioque
+dissentiet; quippe qui Patris Filiique sit
+Spiritus. Denique quonam modo careat testimonio
+ejus in coelo, qui habere illud meruit et in terra? <hi>Tres ergo sunt qui testimonium dant in coelo, Pater,
+<pb n="0296B"/>
+et Filius, et Spiritus sanctus.</hi> 
+ Et ne quam forte dissonantiam
+suspiceris, <hi>hi tres unum sunt.</hi> Magnum
+profecto habituri sunt testimonium, quos in coelo
+Pater susceperit tanquam filios et haeredes, Filius
+asciverit tanquam fratres et cohaeredes, Spiritus
+sanctus adhaerentes Deo unum spiritum faciat esse
+cum eo. Est enim Spiritus ipse indissolubile vinculum
+Trinitatis, per quem sicut Pater et Filius unum
+sunt, sic et nos unum simus in ipsis, eo miserante,
+qui pro discipulis hoc ipsum orare dignatus est,
+Jesu Christo Domino nostro.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>SERMO II. <hi>De tribus testimoniis. <note>(I Joan. V, 4-11.)</note>
+          </hi> </head>
+<div3>
+          <head>1.</head>
+          <p>
+ Ex Epistola beati Joannis hodie nobis est lectio
+recitata, in qua discimus testimonium dari triplex
+<pb n="0296C"/>
+in coelo, triplex in terra. Et quidem pro meo sapere,
+illud stabilitatis, hoc reparationis est signum; illud
+angelos, istud homines; illud beatos a miseris, istud
+justos discernit ab impiis. Angelis siquidem qui in
+prima illa praevaricatione, superbiente Lucifero, in
+veritate steterunt, merito testimonium perhibet visio
+Trinitatis: hominibus, quos divina miseratio salvat,
+Spiritus, aqua, et sanguis. Quidni perhibeat testimonium
+Pater, a quibus honoratus est ut Pater?
+Tibi vero, maligne, sic loquitur: <hi>Si ergo ego Pater,
+ubi est honor meus? <note>(Malach. I, 6.)</note>
+          </hi> Careas omnino
+necesse est testimonio Patris, cujus tibi gloriam
+usurpare conaris, non honorare eum cupiens, sed
+aequare. <hi>Sedebo,</hi> inquit, <hi>in monte testamenti; et similis
+ero Altissimo <note>(Isai. XIX, 14)</note>
+          </hi>. Itane modo creatus,
+<pb n="0296D"/>
+Patri spirituum consedebis? Et certe necdum tibi
+dixit: <hi>Sede a dextris meis <note>(Psal. CIX, 1)</note>
+          </hi>. Si nescis,
+o impudens, Unigenitus ille est, cui aeterna generatione
+Patris aequalitas collata est et consessus. Tu
+rapinam cogitans esse aequalis Deo, Filio gloriam
+invides, gloriam quasi unigeniti a Patre, ut ne ab
+ipso quidem testimonium merearis habere. An vero
+poterit detestato a Patre et Filio, utriusque Spiritus
+attestari? Abominatur superbum profecto et inquietum,
+qui super quietum et humilem requiescit amator
+pacis et unitatis consecrator, adversum te pro
+pace et unitate zelatur.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Quid mirum, fratres, si timemus ne forte pusillam <emph>909</emph> 
+ hanc vineam Domini depasci singularis
+<pb n="0297A"/>
+ferus incipiat? Quantos enim coelestis vineae palmites
+prima illa singularitas conculcavit? Sed forte
+superbiam quidem in eo facile advertistis, non autem
+singularitatem. Dico ergo: Ubi stabat universitas
+angelorum, nunquid caruit singularitatis vitio, qui
+sedere velle praesumpsit? At forte quaeritis, unde
+mihi nota sit haec statio angelorum? Duos teneo idoneos
+testes, quorum uterque quod vidit, hoc testatur. <hi>Vidi Dominum sedentem,</hi> 
+ ait Isaias; <hi>seraphim autem
+stabant <note>(Isai. VI, 1, 2)</note>
+          </hi>. Et Daniel: <hi>Millia,</hi> inquit, <hi>milium ministrabant ei, et decies millies centena millia
+assistebant ei 
+ <note>(Dan. VII, 10)</note>
+          </hi>. An et tertium desideratis,
+ut in ore trium testium stet omne verbum?
+Apostolum profero, qui usque ad tertium raptus est
+coelum, et rediens loquebatur: <hi>Nonne omnes administratorii
+<pb n="0297B"/>
+sunt spiritus? <note>(Hebr. I, 14.)</note>
+          </hi> Siccine ubi
+stant omnes, universi ministrant; tu, pacis inimice,
+sedebis? Plane contristas Spiritum, qui habitare
+facit unius moris in domo; offendis charitatem, quia
+scindis unitatem, rumpis vinculum pacis. Merito
+proinde angelorum, qui suum nec ordinem, nec domicilium
+reliquere, charitati, unitati et paci Spiritus
+attestatur, a quo sane tua et invidia, et singularitas,
+et inquietudo reprobatur. Et haec quidem de
+eo testimonio, quod datur in coelis.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Est et aliud quod datur in terra, ad discernendos
+utique qui in ea sunt exsules ab indigenis,
+hoc est coeli cives a civibus Babylonis. Quando enim
+sine testimonio electos suos deserat Deus? Aut certe
+quaenam eis esse poterat consolatio inter spem et
+<pb n="0297C"/>
+metum sollicitudine anxia fluctuantibus, si nullum
+omnino electionis suae habere testimonium mererentur?
+Novit Dominus qui sunt ejus; et solus ipse
+scit quos elegerit a principio. Quis vero scit hominum,
+si est dignus amore, an odio? Quod si, ut certum
+est, certitudo nobis omnino negatur, nunquid
+non tanto delectabiliora erunt, si qua forte electionis
+hujus signa possimus invenire? Quam enim requiem
+habere potest spiritus noster, dum praedestinationis
+suae nullum adhuc testimonium tenet?
+Fidelis proinde sermo, et omni acceptione dignus,
+quo salutis testimonia commendantur. Hoc sane
+verbo et electis consolatio ministratur, et subtrahitur
+reprobis excusatio. Cognitis siquidem signis vitae,
+<pb n="0297D"/>
+quisquis haec negligit, manifeste convincitur in
+<pb n="0298A"/>
+vano accipere animam suam, et pro nihilo habere
+terram desiderabilem comprobatur.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ <hi>Tres sunt,</hi> inquit, <hi>qui testimonium dant in terra:
+Spiritus, aqua, et sanguis.</hi> Scitis, fratres, quia
+in primo homine peccavimus omnes, in ipso etiam
+cecidimus universi. Cecidimus sane in carcerem,
+luto pariter et lapidibus plenum. Exinde jacebamus
+captivi, inquinati, conquassati, donec venit desideratus
+gentium, qui nos redimeret, ablueret, adjuvaret.
+Hic est enim qui sanguinem proprium dedit
+in redemptionem, aquam simul produxit de latere
+suo in ablutionem, emisit deinde de excelso Spiritum
+suum, qui adjuvaret infirmitatem nostram.
+Vis ergo nosse an haec aliquid operentur in te, ne
+forte reus sis sanguinis Domini, quem evacuas
+<pb n="0298B"/>
+quantum in te est; sed et aqua ipsa quae debuerat
+mundare, in sordibus permanenti judicium damnationis
+accumulet: Spiritus quoque, cui resistis,
+non liberet maledicum a labiis suis? Cavendum
+enim est ne sint tibi haec infructuosa, quia necessario
+essent pariter et damnosa.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Quis est autem qui testimonium habet effusi
+non sine causa sanguinis Christi, nisi qui continet
+a peccatis? Servus enim peccati est, qui peccatum
+facit: ut si deinceps continere potuerit, et jugum
+abjicere miserae servitutis, certissimum sit testimonium
+redemptionis, quam operatur sine dubio sanguis
+Christi. Verum non sufficit peccatori continentia,
+si non etiam adsit poenitentia. Habet ergo et ab
+aqua testimonium, qui laborat in gemitu suo lavans
+<pb n="0298C"/>
+per singulas noctes lectum suum. Sicut enim sanguis
+ille redemit, ut non regnet peccatum in nostro
+mortali corpore; sic aqua illa abluit ab his peccatis,
+quae commisimus <emph>910</emph> ante. Sed quid erit,
+quod longo catenarum usu et carceris habitatione
+crudeli confracti sumus, atque collisi defecimus in
+via vitae? Invocemus Spiritum vivificatorem et adjutorem,
+confidentes quia dabit Pater qui est in coelis,
+spiritum bonum petentibus se. Sane novum supervenisse
+spiritum certissime conversatio nova testatur.
+Jam ut breviter repetam, a sanguine, et aqua,
+et spiritu habere est testimonium, si contines a peccatis,
+si dignos agis poenitentiae fructus, si facis
+opera vitae.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,639 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>In feria IV Hebdomadae Sacrae</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.InFeIvH</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>In feria IV Hebdomadae Sacrae</head>
+<div3>
+          <head>1. </head>
+<p>
+            <pb n="0263A"/>Vigilate animo, fratres, ne infructuose vos
+hujus temporis sacramenta pertranseant. Copiosa
+est benedictio: date receptacula munda; devotas
+animas, sensus vigiles, affectus sobrios, puras conscientias
+exhibete tantis charismatibus gratiarum.
+Nimirum admonet vos sollicitudinis hujus, non
+modo specialis ipsa conversatio quam professi estis,
+sed et generalis Ecclesiae observatio, cujus filii
+estis. Universi siquidem Christiani sacra bac septimana,
+aut prae solito, aut praeter solitum, pietatem
+colunt, modestiam exhibent, humilitatem sectantur,
+induunt gravitatem, ut Christo patienti quodam
+modo compati videantur. Quis enim tam irreligiosus,
+qui non compungatur? quis tam insolens, ut non
+humilietur? quis tam iracundus, ut non indulgeat?
+<pb n="0263B"/>
+quis tam deliciosus, ut non abstineat? quis tam
+flagitiosus, ut non contineat? quis tam malitiosus,
+ut non poeniteat his diebus? Merito quidem. Nempe
+adest passio Domini, usque [ <hi>alias,</hi> utique] hodie
+terram movens, petras scindens, aperiens monumenta.
+Prope est etiam resurrectio ejus, in qua solemnitatem
+celebrabitis altissimo Domino: utinam
+usque in altissima quae fecit magnalia alacritate et
+aviditate spiritus subeuntes! Nihil in mundo poterat
+melius fieri, quam quod factum est a Domino
+his diebus. Nihil mundo poterat melius vel utilius
+commendari, quam ut ritu perpetuo celebret singulis
+annis memoriale ejus in desiderio animae, et
+memoriam abundantiae suavitatis ejus [ <hi>alias,</hi> suae]
+<pb n="0263C"/>
+eructet. Utrumque autem propter nos, quod in
+utroque nobis salutis fructus, in utroque vita spiritus
+nostri. Mirabilis passio tua, Domine Jesu, quae
+passiones omnium nostrum propulsavit, propitiata
+est omnibus iniquitatibus nostris, et nulli unquam
+pesti nostrae invenitur inefficax. Quid enim tam ad
+mortem, quod non tua morte solvatur?</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ In hac igitur passione, fratres, tria specialiter
+convenit intueri; opus, modum, causam. Nam in
+opere quidem patientia, in modo humilitas, in causa
+charitas commendatur. Patientia autem singularis, <emph>885</emph> 
+ quod videlicet cum supra dorsum ejus fabricarent
+peccatores; cum sic extenderetur in ligno,
+ut dinumerarentur omnia ossa ejus; cum fortissimum
+illud propugnaculum, quod custodit Israel,
+<pb n="0263D"/>
+undique foraretur; cum foderentur manus ejus et
+pedes: sicut agnus ad occisionem ductus sit, et tanquam
+ovis coram tondente, non aperuerit os suum;
+non adversus Patrem murmurans, a quo missus
+fuerat; non adversus humanum genus, pro quo quae
+non rapuit exsolvebat; non denique vel contra populum
+ipsum peculiarem sibi, a quo pro tantis beneficiis
+tanta mala recipiebat. Plectuntur aliqui pro
+peccatis suis, et humiliter sustinent: hoc ipsum
+tamen eis ad patientiam reputatur. Flagellantur alii,
+non tam purgandi, quam probandi, coronandique;
+<pb n="0264A"/>
+et major in eis patientia comprobatur, et commendatur.
+Quomodo non maxima censeatur in Christo,
+qui in funiculo haereditatis suae, ab his, quibus specialiter
+advenerat Salvator, crudelissima morte
+multatur sicut fur, nullum omnino peccatum, nec
+actu proprio, nec contractu, sed nec in quo crescere
+posset, habens? Nimirum in quo habitat omnis
+plenitudo divinitatis, non umbratice, sed corporaliter;
+in quo Deus est mundum reconcilians sibi, non
+figurative, sed substantialiter; qui denique plenus
+est gratiae et veritatis, non cooperative [ <hi>alias,</hi> comparative],
+sed personaliter, ut faciat opus suum. <hi>Alienum est opus ejus ab eo,</hi> 
+ Isaias loquitur <note>(Isa.
+XXVIII, 21)</note>; quia et opus suum fuit, quod dedit ei
+Pater ut faceret; et alienum ab eo, ut talis talia
+<pb n="0264B"/>
+sustineret. Ita ergo habes in opere patientiam.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Nam modum ipsum si diligenter attendas, non
+modo mitem, sed et humilem corde cognosces.
+Nempe in humilitate judicium ejus sublatum est,
+cum nec ad tantas blasphemias, nec ad falsissima
+quae sibi objiciebantur crimina responderet. <hi>Vidimus,</hi> 
+inquit, <hi>eum, et non erat ei aspectus,</hi> nec speciosum
+forma prae filiis hominum, sed opprobrium
+hominum, et tanquam leprosum; novissimum virorum,
+plane virum dolorum, a Deo percussum et
+humiliatum: ita ut nulla esset ei species, neque
+decor <note>(Isai. LIII, 2-4)</note>. O novissimum et altissimum!
+o humilem et sublimem! o opprobrium hominum et
+gloriam Angelorum! Nemo illo sublimior, neque
+<pb n="0264C"/>
+humilior. Denique sputis illitus est, opprobriis saturatus
+est, morte turpissima condemnatus est, cum
+sceleratis deputatus est. Nihilne merebitur vel ista
+humilitas, quae hunc habet modum, imo quae tam
+est ultra modum? Sicut est patientia singularis, sic
+humilitas admirabilis; utraque sine exemplo.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Utramque tamen magnifice causa ipsa commendat:
+nimirum charitas est. Propter nimiam
+enim charitatem suam, qua dilexit nos Deus, ut
+servum redimeret, nec Pater Filio, nec sibi Filius
+ipse pepercit. Vere nimiam, quia et haec mensuram
+excedit, modum superat, plane supereminens universis. <hi>Majorem,</hi> 
+ inquit, <hi>charitatem nemo habet,
+quam ut animam suam ponat quis pro amicis suis <note>(Joan. XV, 13)</note>
+          </hi>.
+Tu majorem habuisti, Domine, ponens
+<pb n="0264D"/>
+eam etiam pro inimicis. Cum enim adhuc inimici
+essemus, per mortem tuam et tibi reconciliati
+sumus, et Patri. Quaenam ergo alia videbitur esse,
+vel fuisse, vel fore huic similis charitati? Vix pro
+justo quis moritur: tu pro injustis passus es, moriens
+propter delicta nostra, qui venisti justificare
+gratis peccatores, servos facere fratres, captivos
+cohaeredes, exsules reges. Nec sane aliud aliquid
+patientiam hanc et humilitatem aeque illustrat,
+quam quod tradidit in mortem animam suam, et
+peccata multorum tulit, etiam pro transgressoribus
+<pb n="0265A"/>
+rogans, ut non perirent. Fidelis sermo, et omni
+acceptione dignus! Quia enim voluit, oblatus est.
+Non modo voluit et oblatus est, sed quia voluit.
+Solus nimirum potestatem habuit ponendi animam
+suam: nemo eam abstulit ab eo; obtulit ultro. Cum
+accepisset acetum, dixit: <hi>Consummatum est.</hi> Nihil
+restat implendum: jam non est quod exspectem. <hi>Et, inclinato capite,</hi> 
+ factus obediens usque ad mortem, <hi>tradidit spiritum 
+ <note>(Joan. XIX, 30)</note>
+          </hi>. <emph>886</emph> Quis
+tam facile quando vult dormit? Magna quidem infirmitas
+mori; sed plane sic mori, virtus immensa.
+Nempe quod infirmum est Dei, fortius est hominibus.
+Potest humana vesania sibi ipsi in mortem
+sceleratas injicere manus; sed hoc non est ponere
+animam suam; urgere eam magis, et violenter
+<pb n="0265B"/>
+abrumpere, quam ad nutum ponere est. Tibi, impie
+Juda, misera plane facultas fuit non ponendi
+animam, sed pendendi: nec tradente te, sed
+trahente laqueo nequissimus ille spiritus tuus exivit,
+non emissus a te, sed amissus. Solus in mortem
+tradidit animam suam, qui solus virtute propria regressus
+est ad vitam. Solus potestatem habuit
+ponendi, qui solus facultatem aeque habuit liberam
+resumendi, imperium habens vitae et
+mortis.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Digna ergo charitas tam inaestimabilis, humilitas
+tam admirabilis, patientia tam insuperabilis.
+Digna plane tam sancta, tam immaculata hostia,
+tam acceptabilis. Dignus est Agnus qui occisus est,
+<pb n="0265C"/>
+accipere fortitudinem, facere ad quod venit, tollere
+peccata mundi. Ego autem dico peccatum triplex,
+quod invaluit super terram. Putatis quod dicere
+velim concupiscentiam carnis, et concupiscentiam
+oculorum, et superbiam vitae? Funiculus triplex est,
+qui difficile rumpitur: propterea multi trahunt,
+imo trahuntur hoc funiculo vanitatis: sed prior ille
+ternarius non immerito praevalet in electis. Quomodo
+enim non illius patientiae recordatio omnem
+arceat voluptatem? quomodo non illius humilitatis
+consideratio superbiam vitae prorsus extundat?
+nam charitas illa plane digna cujus medidatio sic
+mentem occupet, sic totam sibi vindicet animam, ut
+omnino vitium curiositatis exsufflet. Fortis igitur
+contra haec passio Salvatoris.
+<pb n="0265D"/>
+</p>
+        </div3>
+<div3>
+          <head>6. </head>
+          <p>
+Sed aliud ego triplex aeque peccatum quemadmodum
+virtus crucis expungat, dicere cogitavi; et
+id forte utilius audiatur. Primum quidem originale,
+secundum personale dixerim, tertium singulare. Et
+originale quidem maximum illud delictum vocatur,
+quod a primo Adam contrahimus, in quo peccavimus
+omnes, pro quo morimur universi. Maximum plane,
+quod sic totum non modo genus humanum, sed et
+quemlibet ipsius generis occupat, ut non sit qui
+evadat, non sit usque ad unum. A primo homine ad
+novissimum usque protenditur: et in singulis
+quoque a planta pedis usque ad verticem capitis
+diffunditur hoc venenum. Sed et aliter nihilominus
+in universam dilatatur aetatem, ab ea scilicet die,
+qua sua quemque concipit, usque ad eam, qua
+<pb n="0266A"/>
+communis eum recipit mater. Alioquin unde grave
+jugum super omnes et totos filios Adam, idque a die
+exitus de ventre matris eorum, usque in diem
+sepulturae in matrem omnium? In sordibus generamur,
+in tenebris confovemur, in doloribus parturimur.
+Ante exitum miseras oneramus matres, in
+exitu more vipereo laceramus: mirum quod non ipsi
+pariter laceramur. Primam vocem plorationis edimus,
+merito quidem, utpote vallem plorationis ingressi,
+ut nobis illud sancti Job ex omni parte possit
+aptari: <hi>Homo natus de muliere, brevi vivens tempore,
+repletur multis miseriis <note>(Job. XIV, 1)</note>
+          </hi>. Quam
+verum [ <hi>alias additur</hi> verbum] hoc sit, non nos
+verba docuere, sed verbera. <hi>Homo,</hi> inquit, <hi>natus de
+muliere:</hi> nihil abjectius. Et ne forte ex ipsa sibi
+<pb n="0266B"/>
+voluptate corporeorum sensuum, quam de sensibilibus
+hauriat, blandiatur; in ipso statim introitu de
+exitu quoque terribiliter admonetur, cum dicitur. <hi>brevi vivens tempore.</hi> 
+ Ac ne spatiolum illud, quod
+inter ingressum et egressum relinquitur, sibi liberum
+putet, <hi>repletur,</hi> ait, <hi>multis miseriis.</hi> Multis et
+multiplicibus, inquam, miseriis corporis, miseriis
+cordis: miseriis cum dormit, miseriis dum vigilat,
+miseriis quaquaversum se vertat. Nimirum ipse
+quoque natus ex Virgine, imo factus ex muliere,
+sed benedicta in mulieribus, qui loquitur ad matrem: <hi>Mulier, ecce filius tuus 
+ <note>(Joan. XIX, 26)</note>
+          </hi>; etiam
+brevi vivens tempore super terram, et nihilominus
+multis est repletus miseriis, in illa brevitate
+<pb n="0266C"/>
+appetitus insidiis, interrogatus <emph>887</emph> contumeliis,
+pulsatus injuriis, vexatus suppliciis, conviciis
+lacessitus.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ Tune hanc sufficere dubites obedientiam, quae
+reatum omnem primae praevaricationis absolvat?
+imo vero non sicut delictum, ita et donum. Nam
+peccatum ex uno in condemnationem; gratia autem
+ex multis delictis in justificationem. Et grave quidem
+omnino delictum illud originale, quod non solum
+personam infecit, sed et naturam. Personale tamen
+cuique gravius est, cum jam laxatis habenis exhibemus
+undique membra nostra arma iniquitatis
+peccato, non modo jam alieno [ <hi>alias</hi> altero], sed et
+proprio crimine compediti. Singulare vero est gravissimum,
+quod commissum est in Dominum majestatis,
+<pb n="0266D"/>
+cum viri impii virum justum injuste occiderunt,
+et sacrilegas manus in ipsum Dei Filium
+injecerunt, crudelissimi homicidae; imo, si fas est
+dicere, etiam deicidae. Quid duo praecedentia ad tertium?
+Ad hoc expalluit et expavit tota machina
+mundialis, et pene in antiquum chaos sunt omnia
+revoluta. Ponamus aliquem de regni principibus
+terram regiam populasse in vastitate hostili: ponamus
+alium, qui, cum esset de convivio et consilio
+regis, unicum ejus filium proditoriis manibus suffocarit.
+Nunquid non primus respectu secundi innocens
+videbitur et immunis! Sic est omne peccatum
+quantum ad hoc peccatum: et tamen hoc peccatum
+in se pertulit, qui seipsum fecit peccatum, ut de
+peccato damnaret peccatum. Per hoc enim omne
+<pb n="0267A"/>
+peccatum tam originale quam personale deletum
+est, et ipsum quoque singulare eliminatum est per
+seipsum.</p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ Argumentum mihi a maximo, quod duo minora
+sunt explosa: et ecce argumentum. Peccatum multorum
+tulit, et pro transgressoribus rogavit, ut
+non perirent: <hi>Pater, ignosce illis, quia nesciunt quid
+faciunt <note>(Luc. XXIII, 34)</note>
+          </hi>. Volat irrevocabile verbum
+tuum, Domine, nec revertetur ad te vacuum, sed
+faciet ad quod misisti. Vide nunc opera Domini,
+quae posuit prodigia super terram. Flagellis caesus
+est, spinis coronatus, clavis confossus, affixus patibulo,
+opprobriis saturatus; omnium tamen dolorum
+immemor: <hi>Ignosce,</hi> ait, <hi>illis.</hi> Hinc multae miseriae
+corporis, hinc misericordiae cordis, hinc dolores,
+<pb n="0267B"/>
+hinc miserationes, hinc oleum exsultationis, hinc
+sanguinis guttae decurrentis in terram. Misericordiae
+Domini multae, sed et miseriae Domini multae.
+Vincentne miseriae misericordias, an misericordiae
+miserias superabunt? Vincant misericordiae tuae
+antiquae, Domine, vincat sapientia malitiam. Magna
+enim illorum iniquitas: sed nunquid non major
+pietas tua, Domine? Multum, per omnem modum. <hi>Nunquid redditur pro bono malum</hi> 
+ ait, <hi>quia foderunt
+foveam animae meae? <note>(Jerem. XVIII, 20.)</note>
+          </hi> Plane
+foderunt impatientiae foveam, occasiones indignationis
+plurimas, et quam maximas ministrantes.
+Sed quid horum fovea ad abyssum mansuetudinis
+tuae? Retribuentes mala pro bonis foveam foderunt;
+<pb n="0267C"/>
+sed charitas non irritatur, non praecipitatur, nunquam
+excidit, non in foveam ruit, et pro retributis
+malis cumulat bona. Absit ut muscae moriturae
+exterminent suavitatem unguenti <note>(Eccle. X, 1)</note>,
+quod de tuo corpore fluit! quia apud sinum tuum
+misericordia, et copiosa apud eum redemptio.
+Muscae moriturae, miseriae sunt; muscae moriturae,
+blasphemiae sunt; muscae moriturae, insultationes
+sunt, quas tibi reddit generatio prava et exasperans.</p>
+        </div3>
+<div3>
+          <head>9.</head>
+          <p>
+ Tu autem quid? In ipsa elevatione manuum
+tuarum, cum jam sacrificium matutinum in holocaustum
+vespertinum transiret; in ipsa, inquam,
+virtute incensi, quod coelos ascendebat, terram
+operiebat, inferos respergebat, exaudiendus pro
+<pb n="0267D"/>
+reverentia tua clamas: <hi>Pater, ignosce illis, quia
+nesciunt quid faciunt.</hi> O quam multus es ad ignoscendum!
+o quam magna multitudo dulcedinis tuae,
+Domine! o quam longe sunt cogitationes tuae a cogitationibus
+nostris! o quam firmata est etiam super
+impios misericordia tua! Mira <emph>888</emph> res! Ille clamat: <hi>Ignosce;</hi> 
+ Judaei: <hi>Crucifige <note>(Joan. XIX, 15)</note>
+          </hi>.
+Molliti sunt sermones ejus super oleum, et isti sunt
+jacula. O charitas patiens, sed et compatiens! <hi>Charitas
+patiens est,</hi> sufficit; <hi>charitas benigna est <note>(I Cor.
+XIII, 4)</note>
+          </hi>, cumulus est. <hi>Noli vinci a malo,</hi> charitas
+abundans; <hi>sed vince in bono malum <note>(Rom. XII, 21)</note>
+          </hi>,
+superabundans est. Non enim sola patientia, sed et
+benignitas Dei ad poenitentiam Judaeos adduxit;
+quia benigna charitas etiam quos tolerat amat, et
+<pb n="0268A"/>
+amat tam ardenter. Patiens charitas dissimulat,
+exspectat, sustinet delinquentem: sed benigna
+trahit, adducit, converti facit ab errore viae suae,
+denique cooperit multitudinem peccatorum. O Judaei,
+lapides estis, sed lapidem percutitis molliorem, de
+quo resonat tinnitus pietatis, et ebullit oleum charitatis!
+Quomodo potabis, Domine, desiderantes te
+torrente voluptatis tuae, qui sic perfundis crucifigentes
+te oleo misericordiae tuae?</p>
+        </div3>
+<div3>
+          <head>10.</head>
+          <p>
+ Patet igitur quia haec passio potentissima est
+ad exhaurienda omnium genera peccatorum. Sed
+quis scit si data est mihi? Mihi data est, quia alteri
+dari non potuit. Nunquid angelo? Sed ille non eguit.
+Nunquid diabolo? Sed ille non resurgit. Denique
+non in similitudinem angelorum, absit autem ut in
+<pb n="0268B"/>
+similitudinem daemonum! sed <hi>in similitudinem hominum
+factus, et habitu inventus ut homo, exinanivit
+semetipsum, formam servi accipiens <note>(Philipp. II, 7)</note>
+          </hi>.
+Filius erat, et factus est tanquam servus. Non solum
+formam servi accepit, ut subesset; sed etiam mali
+servi, ut vapularet; et servi peccati, ut poenam solveret,
+cum culpam non haberet. <hi>In similitudinem,</hi> 
+inquit, <hi>hominum,</hi> non hominis; quia primus homo
+nec in carne peccati, nec in similitudine carnis
+peccati creatus est. Christus enim in universali
+hominum miseria pressius et profundius se immersit,
+ne subtilis ille diaboli oculus magnum hoc
+pietatis deprehenderet sacramentum. Ideo habitu,
+et omni habitu inventus est ut homo; nec in eo,
+<pb n="0268C"/>
+quantum ad naturae debitum, signum aliquod singularitatis
+apparuit. Quia enim ita laventus est, ideo
+crucifixus. Paucis autem revelavit se ipsum, ut
+essent qui crederent; reliquis autem absconditus
+est: <hi>Quia si cognovissent, nunquam Dominum gloriae
+crucifixissent <note>(I Cor. II, 8)</note>
+          </hi>. Ad hoc etiam illi
+singulari peccato ignorantiam copulavit, ut sub
+aliqua justitiae umbra ignorantibus posset ignosci.</p>
+        </div3>
+<div3>
+          <head>11.</head>
+          <p>
+ Duo autem nobis in haereditatem reliquerat
+ille vetustus Adam qui fugit a facie Dei, laborem
+videlicet, et dolorem: laborem in actione, dolorem
+in, passione. Non hoc ipse audierat in paradiso,
+quem acceperat ut operaretur, et custodiret illum;
+operaretur delectabiliter, custodiret fideliter, et
+sibi, et posteris suis. Christus Dominus laborem et
+<pb n="0268D"/>
+dolorem consideravit, ut traderet eos in manus
+suas; imo se magis in manus eorum, infixus in limo
+profundi, et intraverunt aquae istae usque ad animam
+ejus. <hi>Vide,</hi> ad Patrem inquit, <hi>humilitatem meam, et
+laborem meum <note>(Psal. XXIV, 18)</note>
+          </hi>; <hi>quia pauper ego
+sum, et in laboribus a juventute mea <note>(Psal. LXXXVII,
+16)</note>
+          </hi>. Laboravit sustinens, manus ejus in laboribus
+servierunt. De dolore vide quid dixerit: <hi>O vos omnes
+qui transitis per viam, attendite, et videte si est
+dolor sicut dolor meus <note>(Thren. I, 12)</note>
+          </hi>. Vere languores
+nostros ipset tulit, et infirmitates et dolores
+nostros ipse portavit <note>(Isai. LIII, 4)</note>, vir dolorum,
+pauper et dolens, tentatus per omnia absque peccato.
+Et in vita passivam habuit actionem, et in morte
+passionem activam sustinuit, dum salutem operaretur
+<pb n="0269A"/>
+in medio terrae. Proinde memor ero, quandiu
+fuero, laborum illorum quos pertulit in praedicando,
+fatigationum in discurrendo, tentationum in jejunando,
+vigiliarum in orando, lacrymarum in compatiendo.
+Recordabor etiam dolorum ejus, conviciorum,
+sputorum, colaphorum, subsannationum,
+exprobrationum, clavorum, horumque similium,
+quae per eum et super eum abundantius transierunt.
+Facit ergo mihi fortitudo, facit similitudo,
+sed si accesserit etiam imitatio, ut sequar
+vestigia ejus. Alioquin etiam exquiretur <emph>889</emph> a me
+sanguis justus, qui effusus est super terram, nec
+immunis ero ab illo tam singulari scelere Judaeorum:
+quod videlicet tantae charitati ingratus fuerim, quod
+spiritui gratiae contumeliam fecerim, quod sanguinem
+<pb n="0269B"/>
+testamenti pollutum duxerim, quod conculcaverim
+Filium Dei.</p>
+        </div3>
+<div3>
+          <head>12.</head>
+          <p>
+ Sunt plerique qui laborem et dolorem patiuntur;
+sed necessitatis in causa est, non voluntas:
+et hi non sunt conformes imagini Filii Dei. Sunt
+qui ex voluntate sustinent; sed non est eis sors
+neque pars in sermone isto. Vigilat tota nocte
+luxuriosus, non solum patienter, sed et libenter,
+ut suam expleat voluptatem; vigilat raptor vestitus
+ferro, ut diripiat praedam; vigilat fur, ut domum
+perfodiat alienam. Sed hi omnes et horum similes
+longe sunt a labore et dolore quem considerat
+Dominus. Homines autem bonae voluntatis, qui
+Christiana voluntate divitias paupertate commutaverunt,
+vel etiam non habitas tanquam habitas
+<pb n="0269C"/>
+contempserunt, relinquentes omnia propter ipsum,
+sicut et ipse reliquit omnia propter ipsos, sequuntur
+eum quocunque ierit. Hujusmodi autem imitatio
+validissimum argumentum mihi est quod passio
+Salvatoris et similitudo humanitatis in meam
+transeunt utilitatem. Hic enim sapor, hic fructus
+est et laboris et doloris.</p>
+        </div3>
+<div3>
+          <head>13.</head>
+          <p>
+ Vide ergo quam magnificaverit facere tecum
+illa majestas. De omnibus quae in coelo et sub coelo
+sunt, dixit, et facta sunt <note>(Psal. CXLVIII, 5)</note>. Et quid
+facilius dictu? Sed nunquid solo verbo factum est,
+cum te quem fecerat refecit? Triginta et tribus
+annis super terram visus, et cum hominibus conversatus,
+etiam habuit in factis calumniatores, in
+<pb n="0269D"/>
+dictis insultatores, non habens ubi caput suum
+reclinaret. Quare hoc? Quia Verbum a sua subtilitate
+descenderat, et grossius acceperat indumentum.
+Nam caro factum fuerat, et ideo grossiori et morosiori
+opere utebatur. Sicut autem cogitatio vestit
+sibi vocem corpoream absque sui diminutione vel
+ante vocem vel post vocem, sic Filius Dei assumpsit
+carnem, non commistionem passus, neque
+diminutionem, nec ante carnem nec post carnem.
+Apud Patrem invisibilis: sed hic manus nostrae
+tractaverunt de Verbo vitae; et quod erat ab initio,
+vidimus oculis nostris. Hoc autem Verbum quia
+<pb n="0270A"/>
+carnem purissimam et animam sanctissimam unierat
+sibi, libere moderabatur actiones corporis sui;
+tum quia sapientia et justitia erat, tum quia nullam
+habebat prorsus legem in membris suis repugnantem
+legi mentis suae. Meum verbum nec
+sapientia, nec justitia est, sed tamen utriusque
+capax, et possunt ei haec abesse et adesse; abesse
+autem facilius. Familiare enim magis jam nobis
+est carnis nostrae servire vitiis, quam actiones et
+passiones ejus ordinare: pro eo quod omnis aetas
+ab adolescentia prona est in malum, inter flagella
+quoque et gladios, etiam sub discrimine mortis, ad
+suas ambiens voluptates.</p>
+        </div3>
+<div3>
+          <head>14.</head>
+          <p>
+ Felix, cujus cogitatio (hoc est verbum nostrum)
+omnes actiones suas ad justitiam dirigit, ut et intentio
+<pb n="0270B"/>
+sana sit, et operatio recta. Felix, qui passiones
+corporis sui propter justitiam ordinat, ut quidquid
+patitur, propter Dei Filium patiatur: quatenus
+et a corde tollatur murmuratio, et in ore versetur
+gratiarum actio, et vox laudis. Qui sic extulit se,
+iste tollit grabatum suum, et vadit in domum suam.
+Grabatum nostrum corpus est, in quo prius languidi
+jacebamus servientes desideriis et concupiscentiis
+nostris. Nunc vero portamus illud, cum spiritui
+obedire cogimur: et mortuum nostrum portamus,
+quia corpus mortuum est propter peccatum. Ambulamus
+tamen, non currimus; quia corpus quod
+corrumpitur aggravat animam, et deprimit terrena
+inhabitatio sensum multa cogitantem <note>(Sap. IX, 15)</note>.
+Ambulamus etiam in domum nostram. In quam
+<pb n="0270C"/>
+domum? In matrem omnium, quia <emph>890</emph> sepulcra
+eorum domus illorum in aeternum <note>(Psal. XLVIII,
+12)</note>. Vel potius in domum nostram, quam habemus
+ex Deo non manufactam, aeternam in coelis <note>(II Cor.
+V, 1)</note>. Qui sub hoc onere ambulamus, posito eo,
+quid putatis quomodo curremus? quomodo volabimus?
+Plane super pennas ventorum. Amplexatus
+est nos Dominus Jesus per laborem et dolorem
+nostrum: amplectamur cum nos quoque vicariis
+quibusdam amplexibus propter justitiam et ad
+justitiam suam, actiones ad justitiam dirigendo,
+passiones propter justitiam sustinendo. Dicamus
+quoque cum sponsa: <hi>Tenui eum, nec dimittam <note>(Cant. III, 4)</note>
+          </hi>.
+Dicamus etiam cum patriarcha: <hi>Non
+dimittam te, nisi benedixeris mihi <note>(Gen. XXXII, 26)</note>
+          </hi>.
+<pb n="0270D"/>
+Quid enim jam superest, nisi benedictio? Quid post
+amplexum, nisi osculum restat? Si sic adhaererem
+Deo, quomodo non jam exclamare liberet: <hi>Osculetur
+me osculo oris sui? <note>(Cant. I, 1.)</note>
+          </hi> Ciba nos
+interim, Domine, lacrymarum pane, et potum da
+nobis in lacrymis in mensura: donec perducas
+nos ad mensuram bonam, et confertam, et coagitatam,
+quam dabis in sinus nostros, qui es in sinu
+Patris super omnia benedictus Deus in saecula.
+Amen.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

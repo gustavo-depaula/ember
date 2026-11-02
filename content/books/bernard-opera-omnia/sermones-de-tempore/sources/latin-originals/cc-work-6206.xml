@@ -1,0 +1,148 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>In rogationibus</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.InRog</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>In rogationibus</head>
+<div3>
+          <head>1. </head>
+<p>
+            <pb n="0297D"/> <hi>Quis vestrum habebit amicum,</hi> etc. Quid est quod
+amicum unum perhibet advenisse, nec tamen contentus
+est quaerere panem unum? Putasne tam voracem
+aestimabat amicum, ut non posset uni sufficere
+panis unus? Nam uni quidem tres apponere
+panes, inconsequens omnino videtur. Puta ergo cum
+uxore et mancipio hominem advenisse, ut suum
+cuique panem apponere velit amicus. Ego quidem
+<pb n="0298D"/>
+amicum venientem ad me, non alium intelligo, quam
+meipsum. Nemo quippe charior mihi, nemo germanior
+est. Ad me ergo de via venit amicus, cum
+transitoria deserens, ad cor redeo, sicut scriptum
+est: <hi>Redite, praevaricatores, ad cor <note>(Isai. XLVI, 8)</note>
+            </hi>.
+Deinde tunc vere sibi quisque amicus est, cum de
+via redit; quoniam qui diligit iniquitatem, odit animam
+suam. A die itaque conversionis meae de via
+<pb n="0299A"/>
+ad me venit amicus. Venit de regione longinqua, ubi
+pascere porcos, et ipsorum siliquas insatiabiliter
+esurire solebat. Venit fame laborans, confectus
+inedia, attenuatus jejunio. Venit necesse habens
+invenire amicum; sed, heu me! pauperem elegit
+hospitem, et vacuum ingreditur habitaculum. Quid
+faciam huic amico misero et miserabili? Omnino
+enim non habeo quod ponam ante illum. Fateor,
+amicus est, sed ego mendicus. Quid venisti ad me,
+amice, in necessitate tanta? Ego sum mendicus, et
+non est in domo mea panis. Festina, inquit, discurre,
+suscita amicum tuum illum magnum, quo
+majorem dilectionem nemo habet, sed neque substantiam
+ampliorem. Quaere, pete, pulsa; quia <hi>omnis
+qui quaerit invenit, et qui petit accipit, et pulsanti
+<pb n="0299B"/>
+aperietur.</hi> Clama, et dic: <hi>Amice, commoda mihi tres
+panes.</hi> </p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Qui sunt isti panes, fratres? Utinam mereamur
+accipere eos! Forte enim et ipsos nemo scit,
+nisi qui accipit. Credo tamen petendos nobis esse
+<pb n="0300A"/>
+tres panes, veritatis, charitatis, fortitudinis. His
+tribus egere me fateor, veniente ad me amico de via,
+veniente autem, ut dixi, cum uxore et mancipio.
+Deficit quippe ratio mea (ipse est enim vir) prae
+ignorantia veritatis; languet et voluntas prae inedia
+affectionis; infirmatur caro prae inopia fortitudinis.
+Nam et ratio minus intelligit quae agenda sunt, et
+voluntas minus diligit intellecta, et ad haec etiam
+corpus quod corrumpitur, aggravat animam, ut non
+quaecunque volumus, illa faciamus. Aruit cor meum,
+etiam et corpus meum, quia oblitus sum comedere
+panem meum. Neque enim paterer hunc defectum,
+si jugiter exercitata esset ratio in inquisitione veritatis,
+voluntas in desiderio charitatis, caro in operatione
+virtutis. Commoda ergo mihi, amice, tres
+<pb n="0300B"/>
+panes, ut intelligam, ut diligam, ut faciam voluntatem
+tuam. Sic enim vivitur, et in talibus vita spiritus
+mei, dicente Scriptura. <hi>Quoniam vita in voluntate
+ejus <note>(Psal. XXIX, 6)</note>
+          </hi>.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

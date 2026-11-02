@@ -1,0 +1,646 @@
+{
+  "id": "bernard-sermones-de-tempore",
+  "cover": "classic",
+  "name": {
+    "la": "Sermones de tempore",
+    "en-US": "Sermons for the Seasons of the Year",
+    "pt-BR": "Sermões do tempo litúrgico"
+  },
+  "author": {
+    "la": "Bernardus Claraevallensis",
+    "en-US": "St. Bernard of Clairvaux",
+    "pt-BR": "São Bernardo de Claraval"
+  },
+  "description": {
+    "la": "Sermones Bernardi per annum de tempore, ab Adventu ad Dedicationem ecclesiae, in ordinem anni liturgici dispositi.",
+    "en-US": "Bernard’s sermons for the liturgical year, from Advent through Christmas, Epiphany, Lent, Easter, the Ascension and Pentecost to the Sundays after Pentecost and the Dedication of a church, grouped by feast in the order of the year. The Latin is the Maurist text in Migne (Patrologia Latina 183, 1854). Latin only, from the Maurist text in Migne, a machine-corrected OCR.",
+    "pt-BR": "Os sermões de Bernardo para o ano litúrgico, do Advento ao Natal, à Epifania, à Quaresma, à Páscoa, à Ascensão, a Pentecostes, aos domingos depois de Pentecostes e à Dedicação da igreja, agrupados por festa na ordem do ano."
+  },
+  "composed": "c. 1125-1153",
+  "languages": [
+    "la"
+  ],
+  "work": "bernard/sermones-de-tempore",
+  "editions": {
+    "la": {
+      "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182-184)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/browser?path=/38/2268",
+      "edition": "S. Bernardi Claraevallensis abbatis opera omnia, ed. J. Mabillon, in Migne, Patrologia Latina 182-184 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), works 6169, 6211, 6198, 6186, 6178, 6203, 6171, 6181, 6185, 6180, 6177, 6190, 6176, 6189, 6204, 6207, 6206, 6183, 6191, 6172, 6173, 6214, 6188, from machine-corrected OCR.",
+      "description": "One group per feast or piece, as the Corpus Corporum divides them. PL page breaks and column numbers are dropped, and so are the paragraph numbers; Scripture references stay in parentheses as printed.",
+      "tier": "A",
+      "tierEvidence": "Bernard died in 1153; Migne’s printing is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "w6169",
+      "title": {
+        "la": "De adventu Domini"
+      },
+      "children": [
+        {
+          "id": "w6169-s001",
+          "title": {
+            "la": "Sermo I. De Adventu Domini, et sex circumstantiis ejus"
+          }
+        },
+        {
+          "id": "w6169-s002",
+          "title": {
+            "la": "Sermo II. De verbis Isaiae ad Achaz: « Pete tibi signum a Domino Deo tuo in profundum inferni, sive in excelsum supra, » etc. (Isa. VII, 11-16)"
+          }
+        },
+        {
+          "id": "w6169-s003",
+          "title": {
+            "la": "Sermo III. De triplici Domini adventu, et de septem columnis quas in nobis erigere debemus"
+          }
+        },
+        {
+          "id": "w6169-s004",
+          "title": {
+            "la": "Sermo IV. De duplici adventu, et studio verarum virtutum"
+          }
+        },
+        {
+          "id": "w6169-s005",
+          "title": {
+            "la": "Sermo V. De medio adventu, et triplici innovatione"
+          }
+        },
+        {
+          "id": "w6169-s006",
+          "title": {
+            "la": "Sermo VI. De triplici adventu, et carnis resurrectione"
+          }
+        },
+        {
+          "id": "w6169-s007",
+          "title": {
+            "la": "Sermo VII. De triplici utilitate Adventus Domini"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6211",
+      "title": {
+        "la": "In vigilia nativitatis Domini"
+      },
+      "children": [
+        {
+          "id": "w6211-s001",
+          "title": {
+            "la": "Sermo I. De pronuntiatione Martyrologii, « Jesus Christus, Filius Dei, nascitur in Bethlehem Judae . »"
+          }
+        },
+        {
+          "id": "w6211-s002",
+          "title": {
+            "la": "Sermo II. De eo quod scriptum est, O Juda et Jerusalem, nolite timere; cras egrediemini, et Dominus erit vobiscum. II Par. cap. XX. V\\. 17"
+          }
+        },
+        {
+          "id": "w6211-s003",
+          "title": {
+            "la": "Sermo III. In illud: Hodie scietis quia veniet Dominus, et mane videbitis gloriam ejus. Exod. cap. XVI, V\\V\\. 6, 7"
+          }
+        },
+        {
+          "id": "w6211-s004",
+          "title": {
+            "la": "Sermo IV. De medicina laevae, et deliciis dexterae Excelsi"
+          }
+        },
+        {
+          "id": "w6211-s005",
+          "title": {
+            "la": "Sermo V. In illud, « Sanctificamini hodie, et estote parati: die enim crastina videbitis majestatem Dei in vobis. » Respons. in vigilia Nativ. Dom"
+          }
+        },
+        {
+          "id": "w6211-s006",
+          "title": {
+            "la": "Sermo VI. De Annuntiatione Domini"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6198",
+      "title": {
+        "la": "In nativitate Domini"
+      },
+      "children": [
+        {
+          "id": "w6198-s001",
+          "title": {
+            "la": "Sermo I. De fontibus Salvatoris"
+          }
+        },
+        {
+          "id": "w6198-s002",
+          "title": {
+            "la": "Sermo II. De tribus praecipuis Dei operibus, et triplici commistione"
+          }
+        },
+        {
+          "id": "w6198-s003",
+          "title": {
+            "la": "Sermo III. De loco, tempore et aliis circumstantiis Nativitatis"
+          }
+        },
+        {
+          "id": "w6198-s004",
+          "title": {
+            "la": "Sermo IV. De eo quod pastores invenerunt Mariam, et Joseph, et infantem positum in praesepio"
+          }
+        },
+        {
+          "id": "w6198-s005",
+          "title": {
+            "la": "Sermo V. De verbis Apostoli, « Benedictus Deus et Pater Domini nostri Jesu Christi, Pater misericordiarum, et Deus totius consolationis, qui consolatur nos in omni tribulatione nostra. » (II Cor. I, 3, 4)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6186",
+      "title": {
+        "la": "In circumcisione Domini"
+      },
+      "children": [
+        {
+          "id": "w6186-s001",
+          "title": {
+            "la": "Sermo I. De lectione evangelica, « Postquam consummati sunt dies octo, ut circumcideretur Puer, vocatum est nomen ejus Jesus. » (Luc. II, 21)"
+          }
+        },
+        {
+          "id": "w6186-s002",
+          "title": {
+            "la": "Sermo II. De variis Christi nominibus"
+          }
+        },
+        {
+          "id": "w6186-s003",
+          "title": {
+            "la": "Sermo III. De die octavo"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6178",
+      "title": {
+        "la": "In Epiphania Domini"
+      },
+      "children": [
+        {
+          "id": "w6178-s001",
+          "title": {
+            "la": "Sermo I. De verbis Apostoli, « Apparuit benignitas et humanitas Salvatoris nostri Dei, » (Tit. III, 4), et de tribus Christi apparitionibus"
+          }
+        },
+        {
+          "id": "w6178-s002",
+          "title": {
+            "la": "Sermo II. De Magis, ubi exponitur illud de Canticis, III, 11, « Egredimini, filiae Sion, et videte regem Salomonem. »"
+          }
+        },
+        {
+          "id": "w6178-s003",
+          "title": {
+            "la": "Sermo III. De lectione evangelica, « Ubi est qui natus est Rex Judaeorum? » (Matth. II, 1-11)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6203",
+      "title": {
+        "la": "In octava Epiphaniae"
+      },
+      "children": [
+        {
+          "id": "w6203-sermo",
+          "title": {
+            "la": "In octava Epiphaniae"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6171",
+      "title": {
+        "la": "Dominica I post octavam Epiphaniae"
+      },
+      "children": [
+        {
+          "id": "w6171-s001",
+          "title": {
+            "la": "Sermo I. De miraculo facto in nuptiis, (Joan. II, 1-11); et de eo quod Dominus ait, « Et vos similes hominibus exspectantibus dominum suum, quando revertatur a nuptiis. » (Luc. XII, 36.)"
+          }
+        },
+        {
+          "id": "w6171-s002",
+          "title": {
+            "la": "Sermo II. De spiritualibus nuptiis in evangelica historia designatis . (Joan. II, 1-11.)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6181",
+      "title": {
+        "la": "In Septuagesima"
+      },
+      "children": [
+        {
+          "id": "w6181-s001",
+          "title": {
+            "la": "Sermo I"
+          }
+        },
+        {
+          "id": "w6181-s002",
+          "title": {
+            "la": "Sermo II. De eo quod scriptum est, « Immisit Dominus soporem in Adam (Gen. II, 21-24). »"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6185",
+      "title": {
+        "la": "In capite jejunii"
+      },
+      "children": [
+        {
+          "id": "w6185-s001",
+          "title": {
+            "la": "Sermo I. Quid sit ungere caput, et jaciem lavare (Matth. VI, 16, 17)"
+          }
+        },
+        {
+          "id": "w6185-s002",
+          "title": {
+            "la": "Sermo II. Quomodo debeamus converti ad Dominum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6180",
+      "title": {
+        "la": "In Quadragesima"
+      },
+      "children": [
+        {
+          "id": "w6180-s003",
+          "title": {
+            "la": "Sermo III. De jejunio Quadragesimae"
+          }
+        },
+        {
+          "id": "w6180-s004",
+          "title": {
+            "la": "Sermo IV. De oratione et jejunio"
+          }
+        },
+        {
+          "id": "w6180-s005",
+          "title": {
+            "la": "Sermo V. De triplici modo orationis"
+          }
+        },
+        {
+          "id": "w6180-s006",
+          "title": {
+            "la": "Sermo VI. De oratione Dominica. (Matth. VI, 9-13.)"
+          }
+        },
+        {
+          "id": "w6180-s007",
+          "title": {
+            "la": "Sermo VII. De peregrino, mortuo et crucifixo"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6177",
+      "title": {
+        "la": "In Dominica Palmarum"
+      },
+      "children": [
+        {
+          "id": "w6177-s001",
+          "title": {
+            "la": "Sermo I. De tribus ordinibus obsequentium Christo"
+          }
+        },
+        {
+          "id": "w6177-s002",
+          "title": {
+            "la": "Sermo II. De passione, et processione, et quatuor ordinibus processionis"
+          }
+        },
+        {
+          "id": "w6177-s003",
+          "title": {
+            "la": "Sermo III. De quinque diebus, processionis, refectionis, passionis, requietionis et resurrectionis"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6190",
+      "title": {
+        "la": "In feria IV Hebdomadae Sacrae"
+      },
+      "children": [
+        {
+          "id": "w6190-sermo",
+          "title": {
+            "la": "In feria IV Hebdomadae Sacrae"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6176",
+      "title": {
+        "la": "In Coena Domini"
+      },
+      "children": [
+        {
+          "id": "w6176-sermo",
+          "title": {
+            "la": "In Coena Domini"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6189",
+      "title": {
+        "la": "In die sancto Paschae"
+      },
+      "children": [
+        {
+          "id": "w6189-sermo",
+          "title": {
+            "la": "In die sancto Paschae"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6204",
+      "title": {
+        "la": "In octava Paschae"
+      },
+      "children": [
+        {
+          "id": "w6204-s001",
+          "title": {
+            "la": "Sermo I. De fide vincente, et tribus testimonis in coelo et in terra. (I Joan. V, 4-11)"
+          }
+        },
+        {
+          "id": "w6204-s002",
+          "title": {
+            "la": "Sermo II. De tribus testimoniis. (I Joan. V, 4-11.)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6207",
+      "title": {
+        "la": "In tempore resurrectionis"
+      },
+      "children": [
+        {
+          "id": "w6207-s002",
+          "title": {
+            "la": "Sermo II. De lectione evangelica, « Maria Magdalene, Maria Jacobi, et Salome, » etc. (Marc. XVI, 1.)"
+          }
+        },
+        {
+          "id": "w6207-s003",
+          "title": {
+            "la": "Sermo III. De mersione Naaman septies in Jordane, deque mundatione septemplicis leprae; et de septem apparitionibus Domini resurgentis, quibus septem dona Spiritus sancti designantur"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6206",
+      "title": {
+        "la": "In rogationibus"
+      },
+      "children": [
+        {
+          "id": "w6206-sermo",
+          "title": {
+            "la": "In rogationibus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6183",
+      "title": {
+        "la": "In ascensione Domini"
+      },
+      "children": [
+        {
+          "id": "w6183-s001",
+          "title": {
+            "la": "Sermo I. De evangelica lectione. (Marc. XVI, 14-20.)"
+          }
+        },
+        {
+          "id": "w6183-s002",
+          "title": {
+            "la": "Sermo II. Quomodo ascendit super omnes coelos, ut adimpleret omnia"
+          }
+        },
+        {
+          "id": "w6183-s003",
+          "title": {
+            "la": "Sermo III. De intellectu et affectu"
+          }
+        },
+        {
+          "id": "w6183-s004",
+          "title": {
+            "la": "Sermo IV. De duabus malis ascensionibus, daemonis et primi hominis: et sex bonis, Christi et nostris"
+          }
+        },
+        {
+          "id": "w6183-s005",
+          "title": {
+            "la": "Sermo V. De intellectu et affectu"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6191",
+      "title": {
+        "la": "Pentecostes"
+      },
+      "children": [
+        {
+          "id": "w6191-s001",
+          "title": {
+            "la": "Sermo I. Quomodo Spiritus sanctus tria operatur in nobis"
+          }
+        },
+        {
+          "id": "w6191-s002",
+          "title": {
+            "la": "Sermo II. De operibus Trinitatis super nos, et de triplici gratia Spiritus sancti"
+          }
+        },
+        {
+          "id": "w6191-s003",
+          "title": {
+            "la": "Sermo III. De multiplici operatione Spiritus sancti in nobis"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6172",
+      "title": {
+        "la": "Dominica IV post Pentecosten"
+      },
+      "children": [
+        {
+          "id": "w6172-sermo",
+          "title": {
+            "la": "Dominica IV post Pentecosten"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6173",
+      "title": {
+        "la": "Dominica VI post Pentecosten"
+      },
+      "children": [
+        {
+          "id": "w6173-s001",
+          "title": {
+            "la": "Sermo I. De evangelica lectione, ubi turba triduo sustinens Dominum septem panibus reficitur (Marc. VIII, 19)"
+          }
+        },
+        {
+          "id": "w6173-s002",
+          "title": {
+            "la": "Sermo II. De septem misericordiis"
+          }
+        },
+        {
+          "id": "w6173-s003",
+          "title": {
+            "la": "Sermo III. De fragmentis septem misericordiarum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6214",
+      "title": {
+        "la": "Pro Dominica I Novembris"
+      },
+      "children": [
+        {
+          "id": "w6214-s001",
+          "title": {
+            "la": "Sermo I. De verbis Isaiae, VI, 1, « Vidi Dominum sedentem, » etc"
+          }
+        },
+        {
+          "id": "w6214-s002",
+          "title": {
+            "la": "Sermo II. De verbis Isaiae prophetae, VI, 1, 3"
+          }
+        },
+        {
+          "id": "w6214-s003",
+          "title": {
+            "la": "Sermo III. De verbis Isaiae prophetae, VI, 2"
+          }
+        },
+        {
+          "id": "w6214-s004",
+          "title": {
+            "la": "Sermo IV. De verbis Isaiae prophetae, VI, 2"
+          }
+        },
+        {
+          "id": "w6214-s005",
+          "title": {
+            "la": "Sermo V. De verbis Isaiae prophetae, VI, 1, 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6188",
+      "title": {
+        "la": "In dedicatione ecclesiae"
+      },
+      "children": [
+        {
+          "id": "w6188-s001",
+          "title": {
+            "la": "Sermo I. De quinque sacramentis dedicationis"
+          }
+        },
+        {
+          "id": "w6188-s002",
+          "title": {
+            "la": "Sermo II. Quomodo et nobis et aliis cohaerere debeamus"
+          }
+        },
+        {
+          "id": "w6188-s003",
+          "title": {
+            "la": "Sermo III. De triplici apparatu quem habemus ad custodiam Dei"
+          }
+        },
+        {
+          "id": "w6188-s004",
+          "title": {
+            "la": "Sermo IV. De triplici mansione"
+          }
+        },
+        {
+          "id": "w6188-s005",
+          "title": {
+            "la": "Sermo V. De gemina consideratione sui"
+          }
+        },
+        {
+          "id": "w6188-s006",
+          "title": {
+            "la": "Sermo VI. De reverentia sacris locis debita"
+          }
+        }
+      ]
+    }
+  ]
+}

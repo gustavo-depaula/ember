@@ -1,0 +1,757 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>In die sancto Paschae</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.InDiSaP</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>In die sancto Paschae</head>
+<div3>
+          <head>1. </head>
+<p>
+            <pb n="0273D"/> <hi>Vicit leo de tribu Juda <note>(Apoc. V, 5)</note>
+            </hi>. Vicit plane
+malitiam sapientia, attingens a fine usque ad finem
+fortiter, et suaviter universa disponens: sed pro
+me fortiter, suaviter mihi. Vicit Judaeorum blasphemias
+in patibulo, fortem armatum alligavit
+in atrio, et de ipso mortis imperio triumphavit.
+Ubi enim sunt opprobria tua, Judaee? ubi sunt,
+Zabule, vasa captivatis? ubi est, mors, victoria
+tua? Confusus est calumniator, raptor spoliatus
+est. Novum genus potentiae! hactenus victoriosa
+mors obstupescit. Quid tu, Judaee, qui pridie ante
+crucem agitabas caput sacrilegum? quid verum
+hominis caput Christum exagitabas opprobriis? <hi>Christus,</hi> 
+ inquit, <hi>rex Israel descendat de cruce (Marc.
+<pb n="0274D"/>
+XV, 32)</hi>. O venenata lingua, verbum malitiae, sermo
+nequam! Non est hoc, Caipha, quod paulo ante
+dicebas: <hi>Expedit ut unus moriatur homo pro populo,
+et non tota gens pereat <note>(Joan. XI, 50)</note>
+            </hi>. At illud,
+quia mendacium non erat, non loquebaris de proprio,
+non a temetipso dicebas: <hi>Si rex Israel est,
+descendat de cruce <note>(Matth. XXVII, 42)</note>
+            </hi>, hoc plane
+tuum est; magis autem ejus qui mendax est ab
+initio. Quid enim consequentiae videtur habere
+ut descendat, si rex est; et non magis ascendat?
+Sic non meministi, serpens antique, quam confusus
+abscesseris olim, cum dicere praesumpsisses: <hi>Mitte
+te deorsum;</hi> et: <hi>Haec omnia tibi dabo, si procidens
+adoraveris me? <note>(Matth. IV, 6, 9)</note>
+            </hi>. Sic tibi, Judaee,
+<pb n="0275A"/>
+excidit quod audisti quia <hi>Dominus regnavit a ligno,</hi> <emph>893</emph> 
+ ut regem abneges, quia manet in ligno? Sed
+forsitan nec audisti [ <hi>alias</hi> legisti] quia non Judaeis,
+sed nationibus haec annuntiatio debebatur. <hi>Dicite,</hi> 
+inquit, <hi>in nationibus, quia Dominus regnavit a ligno</hi>.
+ <note>(Psal. XCV, 10.)</note> </p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Merito proinde titulum regni praeses gentilis
+inscripsit ligno, nec potuit Judaeus, ut voluit, corrumpere
+tituli inscriptionem, nedum impedire Dominicam
+passionem, et nostram redemptionem. <hi>Descendat,</hi> 
+ inquiunt, <hi>si rex Israel est.</hi> Imo vero quia
+rex Israel est, titulum regni non deserat, virgam
+imperii non deponat, cujus nimirum imperium super
+humerum ejus, sicut praecinit Isaias <note>(Isa. IX, 6)</note>. <hi>Noli,</hi> 
+ inquiunt Judaei ad Pilatum, <hi>noli scribere:
+<pb n="0275B"/>
+Rex Judaeorum; sed, Quia ipse dixit, Rex sum Judaeorum;</hi> 
+et Pilatus: <hi>Quod scripsi, scripsi <note>(Joan. XIX,
+19-22)</note>
+          </hi>. Si Pilatus quod scripsit, scripsit, Christus
+non perficiet quod incoepit? Ipse enim coepit, et
+salvabit nos. Sed dicunt: <hi>Alios salvos fecit, seipsum
+non potest salvum facere <note>(Matth. XXVII, 42)</note>
+          </hi>.
+Imo vero si descenderit, neminem salvum faciet.
+Cum enim salvus esse non possit, nisi qui perseveraverit
+usque in finem, quanto minus poterit esse
+Salvator? Alios ergo salvos facit [ <hi>alias</hi> fecit]:
+nam salvatione, cum sit salus, ipse non indiget.
+Operatur salutem nostram, nec caudam deesse
+patitur sacrificio vespertino hostiae salutaris. Novit,
+inique, quid cogites. Non dabit tibi occasionem
+subripiendae nobis perseverantiae, quae sola coronatur.
+<pb n="0275C"/>
+Non faciet obmutescere praedicatorum
+linguas, consolantium pusillanimes, et dicentium
+singulis: Tu locum tuum ne deseras; quod sine
+dubio sequeretur, si respondere possent quia Christus
+suum desernit. Proni enim sunt sensus hominis
+et cogitationes in malum. Sine causa, maligne,
+parasti sagittas tuas in pharetra; et discipulorum
+suspiria cumulas opprobriis Judaeorum.
+Illi quippe desperant, isti improperant:
+sed Christo neutra tela nocebunt. Aliud tempus
+elegit confortandis discipulis, et aliud adversariis
+confutandis.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Interim patientiam magis exhibet, humilitatem
+commendat, obedientiam implet, perficit charitatem.
+<pb n="0275D"/>
+His nempe virtutum gemmis quatuor cornua
+crucis ornantur: et est supereminentior charitas, a
+dextris obedientia, patientia a sinistris, radix virtutum
+humilitas in profundo. His ditavit tropaeum
+crucis consummatio Dominicae passionis, cum ad
+Judaeorum blasphemias humilis, ad vulnera patiens,
+intus linguis, clavis exterius pungeretur. Nam et
+charitas in eo perfecta est, quod pro amicis animam
+posuit; et obedientia consummata, cum inclinato
+capite tradidit spiritum, factus obediens usque
+ad mortem. His spoliare dotibus, hac privare gloria
+Christi satagebant Ecclesiam, qui dicebant: <hi>Si rex
+Israel est, descendat de cruce.</hi> Nimirum ut non sit
+<pb n="0276A"/>
+jam obedientiae forma, non incentivum amoris, non
+patientiae vel humilitatis exemplum; sed deleri
+habeant ex Evangelio verba illa suavissima, et
+dulciora super mel et favum: <hi>Majorem hac dilectionem
+nemo habet, quam ut animam suam ponat quis
+pro amicis suis <note>(Joan. XV, 13)</note>
+          </hi>; et ad Patrem: <hi>Opus
+consummavi quod dedisti mihi ut facian <note>(Joan. XVII, 4)</note>
+          </hi>;
+itemque ad discipulos: <hi>Discite a me quia mitis sum
+et humilis corde <note>(Matth. XI, 29)</note>
+          </hi>; et: <hi>Ego si exaltatus
+fuero a terra, omnia traham ad me ipsum <note>(Joan.
+XII, 32)</note>
+          </hi>. Hoc est enim quod dolet venenati serpentis
+astutia, exaltatum in deserto serpentem aeneum,
+cujus intuitu sanentur vulnera quae inflixit <note>(Num.
+XXI, 8)</note>. Alioquin quonam alio instigante misisse
+credimus uxorem Pilati ad ipsum, dicentem: <hi>Nihil
+<pb n="0276B"/>
+tibi et justo illi: multa enim passa sum hodie per
+visum propter eum? <note>(Matth. XXVII, 19.)</note>
+          </hi> Timebat ergo
+jam tunc; sed nunc maxime virtute crucis enervari
+se sentiens inimicus, sera ducitur poenitentia: et
+quos instigavit ad crucifigendum, instigat ad suadendum
+ut de cruce descendat. Denique: <hi>Si rex
+Israel est,</hi> inquiunt, <hi>descendat de cruce, et credimus
+ei.</hi> Haec plane serpentis astutia, haec adinventio
+nequitiae spiritualis. Audierat impius Salvatoris
+vocem dicentis: <hi>Non sum missus nisi ad oves quae
+perierunt domus Israel <note>(Matth. XV, 24)</note>
+          </hi>: et noverat
+quantum pro salute illius populi zelum gerere <emph>894</emph> 
+videretur. Propterea malitiose nimis linguas erudiens
+blasphemorum, suggerebat ut dicerent: <hi>Descendat,
+et credimus;</hi> quasi jam nihil posset obstare
+<pb n="0276C"/>
+quin descenderet, qui eorum credulitatem tantopere
+desideraret.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Sed quid machinatur, aut cui parat insidias
+versipellis? Nempe ei in quo nihil proficiet inimicus,
+et filius iniquitatis non apponet nocere ei. Non
+movetur vana pollicitatione, qui novit omnium
+corda, sicut nec exprobratione blasphema mitissimus
+omnium movebatur. Eo quippe tendebat malitiosa
+suasio, non ut ipsi crederent, sed nostra quoque,
+si qua erat, fides in eum omnimodis deperiret. Legentes
+enim: <hi>Dei perfecta sunt opera <note>(Deut. XXXII,
+4)</note>
+          </hi>, quando fateremur Deum, qui salutis opus reliquisset
+imperfectum? Sed audiamus quid ad haec
+Christus respondeat per prophetam: Quaeris signa,
+Judaee? <hi>Exspecta me in die resurrectionis meae (Soph.
+<pb n="0276D"/>
+III, 8)</hi>. Si vis credere, majora jam tibi opera demonstravi.
+Multiplicavi signa, sanitates perfeci heri
+et pridie: hodie magis habeo consummari. An non
+majus erat, quod vidisti e corporibus obsessis spiritus
+exire malignos, et de grabatis suis exsilire paralyticos,
+quam e manibus meis vel pedibus clavos
+resilire quos infixisti? Sed patiendi tempus est, non
+faciendi; et passionis horam sicut praevenire frustra
+conatus es, sic nec poteris impedire.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Sed si adhuc generatio prava et adultera signum
+quaerit, non ei dabitur nisi signum Jonae prophetae <note>(Matth. XII, 39)</note>;
+non signum descensionis, sed resurrectionis.
+<pb n="0277A"/>
+Quod si Judaeus non quaerit, amplectatur
+et gaudeat Christianus Vicit enim leo de tribu
+Juda. Suscitatus est paterna voce leonis catulus;
+clauso prodiit tumulo, qui de patibulo non descendit.
+An vero id majus sit, inimici nostri sint judices,
+qui tam curiose munierant monumentum, signantes
+lapidem cum custodibus. Hunc enim lapidem magnum
+valde, de quo mulieres illae devotae invicem
+querebantur, facta jam resurrectione Dominica <hi>revolvit angelus, et resedit,</hi> 
+ sic scriptum est, <hi>super
+eum <note>(Matth. XXVIII, 2; Marc. XVI, 3)</note>
+          </hi>. Constat proinde
+clauso exiisse tumulo redivivum corpus, quod clauso
+Virginis utero natum processit in vitam, et ad discipulos
+clausis introivit januis in conclavim. Sed
+est locus unde clausis noluit procedere januis, carcer
+<pb n="0277B"/>
+utique gehennalis. Confregit siquidem ferreos
+vectes, repagula universa contrivit, ut libere suos
+educeret, quos redemerat de manu inimici et plenis
+egrederentur portis agmina [ <hi>alias additur</hi> sanctorum]
+dealbatorum, qui laverant stolas suas, et candidas
+eas fecerant in sanguine Agni, candidas prorsus
+in sanguine; quia exivit cum eo et in eo etiam
+aqua dealbans; et testimonium perhibet ipse qui
+vidit. Aut certe candidas in sanguine, sed in sanguine
+Agni novelli lacteo, candido et rubicundo,
+sicut habes in Cantico canticorum: <hi>Dilectus meus,</hi> 
+ait sponsa, <hi>candidus et rubicundus, electus ex millibus <note>(Cant. V, 10)</note>
+          </hi>.
+Inde est quod in stola candida
+et fulgureo vultu testis quoque resurrectionis apparet.
+<pb n="0277C"/>
+</p>
+        </div3>
+<div3>
+          <head>6. </head>
+          <p>
+Jam si confutandis Judaeorum calumniis sufficere
+videtur hoc ipsum, quod clauso egressus est
+monumento, cui insultantes dicebant: <hi>Si rex Israel
+est, descendat de cruce:</hi> curiosius namque monumentum
+claudere et signare studuerant, quam infigere
+clavos; si igitur vicit leo de tribu Juda in hoc
+ipso processu, et majus demonstravit opus quam
+peterent; ipsum jam resurrectionis miraculum cui
+poterit comparari? Legimus quidem nonnullorum
+praecessisse resurrectiones, aut magis certe suscitationes,
+sed istius praeambulas, quibus et duplici privilegio
+noscitur praeeminere. Nam caeteri quidem resurrexerant
+[ <hi>alias additur</hi> mortui] iterum morituri:
+Christus resurgens ex mortuis jam non moritur;
+mors illi ultra non dominabitur. Illi mortui denuo
+<pb n="0277D"/>
+opus habent iterum resuscitari: Christus quod
+mortuus est peccato, mortuus est semel; quod autem
+vivit, vivit Deo <note>(Rom. VI, 9, 10)</note>, vivit in aeternitate.
+Merito proinde resurgentium primitiae Christus;
+qui ita resurrexerit, <emph>895</emph> ut cadere non adjiciat,
+qui solus attigit immortalitatem.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ Est aliud, in quo resurrectionis hujus innotescat
+gloria singularis. Quis enim in caeteris omnibus
+suscitavit aliquando semetipsum? Ineffabile istud
+est, ut a morte se excitet ipse qui dormit: singulare
+est; non est qui faciat, non est usque ad unum.
+Eliseus propheta mortuum suscitavit <note>(IV Reg. IV,
+35)</note>, sed alterum, non semetipsum. Ecce enim quot
+annis jacet in monumento, quod a se non potest,
+<pb n="0278A"/>
+sperans ab alio suscitari; ab eo utique qui triumphavit
+mortis imperium in seipso. Inde est quod
+caeteros quidem dicimus suscitatos, Christum resurrexisse,
+qui solus virtute propria victor prodiit de
+sepulcro: siquidem et in hoc vicit leo de tribu Juda,
+Quantum poterit, immo quid non posse videbitur
+vivens, et dicens Patri: <hi>Resurrexi, et adhuc sum
+tecum <note>(Psal. CXXXVIII, 18)</note>
+          </hi>; qui tam potens exstitit
+deputatus cum mortuis, sed inter mortuos liber?</p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ Nec vero resurrectionem distulit ultra tertiam
+diem, ut propheta fidelis inveniatur, qui dixit: <hi>Vivificabit nos post duos dies, in die tertia suscitabit
+nos 
+ <note>(Osee VI, 3)</note>
+          </hi>. Decet nimirum ut quemadmodum
+caput praecessit, sequantur membra. In patibulo
+sexta feria redemit hominem, ipsa die qua fecerat
+<pb n="0278B"/>
+hominem in initio: sequenti die sabbatizavit in
+monumento, consummato opere quod susceperat;
+tertia vero, quae prima dierum est, primitiae dormientium
+apparuit mortis victor, novus homo. Ita
+et nos, quicunque sequimur caput nostrum, tota die
+hac qua plasmati et redempti sumus, non cessemus
+agere poenitentiam, non cessemus tollere crucem
+nostram, perseverantes in ea, sicut ipse perseveravit,
+donec dicat Spiritus ut requiescamus a laboribus
+nostris. Neminem audiamus, fratres, non carnem
+et sanguinem, non spiritum quemlibet, descensum
+a cruce suadentem. Persistamus in cruce,
+moriamur in cruce; deponamur aliorum manibus,
+non nostra levitate. Caput nostrum deposuere viri
+justi; nos vero dignatione sua angeli sancti deponant,
+<pb n="0278C"/>
+ut consummata viriliter die crucis, secunda
+quae post mortem est, quiescamus suaviter, dormiamus
+feliciter in sepulcris, exspectantes beatam spem,
+et adventum gloriae magni Dei, qui resuscitabit
+corpora nostra tertia demum die, configurata corpori
+claritatis suae. Fetent quatriduani, sicut de Lazaro
+scribitur: <hi>Jam fetet, Domine; quatriduanus est
+enim <note>(Joan. XI, 39)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>9.</head>
+          <p>
+ Adinventio filiorum Adam quartam formavit
+diem, quam a Domino non accepit. Propterea corrupti
+sunt, et abominabiles facti sunt tanquam
+jumenta quae in stercore suo putruerunt. Divinae
+siquidem ordinationis est triduum quod praediximus,
+in labore, in requie, in resurrectione. Non placent
+haec filiis hominum, sed suam volunt praeferre diem
+<pb n="0278D"/>
+differentes poenitentiam, ut indulgeant voluptati.
+Non est haec dies quam fecit Dominus: quatriduani
+facti sunt, et jam fetent. Non novit hanc, quod de
+Maria natum est, Sanctum: tertia resurrexit die,
+ne videret corruptionem. <hi>Vicit</hi> itaque <hi>leo de tribu
+Juda.</hi> Occisus est agnus. sed leo vicit. Leo rugiet.
+quis non timebit? Leo, inquam, fortissimus bestiarum,
+qui ad nullius pavebit occursum, scilicet Leo
+de tribu Juda. Paveant qui abnegaverant, qui dixerunt: <hi>Non habemus regem nisi Caesarem 
+ <note>(Joan.
+XIX, 15)</note>
+          </hi>. Paveant qui dixerunt: <hi>Nolumus hunc
+regnare super nos <note>(Luc. XIX, 14)</note>
+          </hi>. Redit siquidem
+accepto regno, et malos male perdet. Vultis nossa
+quia redit accepto regno? <hi>Data est mihi,</hi> inquit,
+<pb n="0279A"/> <hi>omnis potestas in coelo et in terra 
+ <note>(Matth. XXVIII, 18)</note>
+          </hi>.
+Sed et Pater in psalmo: <hi>Postula a me,</hi> ait, <hi>et dabo
+tibi gentes haereditatem tuam, et possessionem tuam
+terminos terrae. Reges eos in virga ferrea, et tanquam
+vas figuli confringes eos <note>(Psal. II, 8, 9)</note>
+          </hi>. Fortis siquidem
+leo est, non crudelis: gravis tamen indignatio
+ejus; et intolerabilis ira columbae. Sed pro suis leo
+rugiet, non in suos. Paveant alieni: tribus Juda
+magis exsultet.</p>
+        </div3>
+<div3>
+          <head>10.</head>
+          <p>
+ Gaudeant qui induri sunt confessione, quorum
+omnia ossa dicunt: <hi>Domine, quis similis tibi? <note>(Psal.
+XXXIV, 10.)</note> Leo de tribu Juda, radix David.</hi> Dicitur
+enim David visu desiderabilis, vel manu fortis; et
+idem ait: <hi>Ante te omne</hi> <emph>896</emph> <hi>desiderium meum <note>(Psal. XXXVII, 10)</note>
+          </hi>;
+et: <hi>Fortitudinem meam ad te
+<pb n="0279B"/>
+custodiam <note>(Psal. LVIII, 10)</note>
+          </hi>. <hi>Radix</hi> inquit, <hi>David.</hi> 
+Non David radix ejus, sed ipse radix David, quia
+portat, et non portatur. Merito, David sancte, filium
+tuum vocas dominum tuum, quia non tu radicem
+portas, sed radix te. Radix fortitudinis tuae et desiderii,
+radix desiderabilis, radix fortis. <hi>Vicit leo de
+tribu Juda, radix David, aperire librum, et solvere
+septem signacula ejus.</hi> Apocalypsis verba sunt haec.
+Discant qui non legerunt, recolant qui noverunt. <hi>Vidi,</hi> 
+ inquit Joannes, <hi>in dextera sedentis super thronum,
+librum signatum sigillis septem, et non erat qui
+legeret, vel aperiret. Et ego,</hi> ait, <hi>flebam multum,
+quod nemo aperire librum dignus inveniretur. Et unus
+de senioribus dixit mihi: Ne fleveris; ecce vicit leo
+de tribu Juda, radix David. Et vidi, et ecce in medio
+<pb n="0279C"/>
+throni Agnum stantem, tanquam occisum: et veniens
+accepit librum de dextera sedentis in throno, et aperuit
+librum: factaque est laetitia magna, et gratiarum
+actio.</hi> Leonem Joannes audierat, et Agnum vidit.
+Agnus occisus est, Agnus accepit librum, Agnus aperuit,
+et apparuit Leo. Denique <hi>dignus est,</hi> aiunt seniores, <hi>Agnus qui occisus est, accipere fortitudinem <note>(Apoc. V, 12)</note>
+          </hi>.
+Non mansuetudinem amittere, sed
+accipere fortitudinem, ut et agnus maneat, et leo
+sit. Plus dico, ut mihi videtur, idem etiam liber est
+qui non poterat aperiri. Quis enim dignus inveniretur
+aperire hunc librum? Indignum se profitetur et
+ipse Baptista Joannes, quo inter natos mulierum
+major nemo surrexit: <hi>Non sum,</hi> inquit, <hi>dignus solvere
+corrigiam calceamenti ejus <note>(Marc. I, 7)</note>
+          </hi>. Venerat
+<pb n="0279D"/>
+enim ad nos calceata majestas, divinitas incarnata:
+venerat Dei Sapientia, sed in libro clauso utique et
+signato. Quod ligabat corrigia calceamenti, hoc
+claudebant signacula libri.</p>
+        </div3>
+<div3>
+          <head>11.</head>
+          <p>
+ Sed quid dicimus super his septem? An forte
+triplex animae virtus, ratio, memoria, et voluntas;
+et quadrifaria corporis compositio, ex elementis
+videlicet quatuor, in his septem est intelligenda, ut
+nihil de veritate humanitatis defuisse noverimus
+Salvatori? An magis humanitas ejus ipse est liber,
+et quaerenda sunt signacula septem? Septem enim
+quaedam arbitror inveniri, quibus maxime celabatur
+in carne praesentia majestatis, ut non posset aperiri
+liber, et sapientia quae latebat agnosci. Sunt autem
+<pb n="0280A"/>
+quae occurrunt interim, Matris desponsatio, qua partus
+virginis et conceptionis puritas velabatur, ita ut
+hominis fabri filius, fabricator hominis putaretur.
+Infirmitas etiam corporis, qua nimirum plorans et
+vagiens, lactens et dormiens, et caeteris subjacens
+necessitatibus carnis, latebat inter haec virtus divinitatis.
+Sic et circumcisionis signum suscipiens,
+peccati remedium, aegritudinis medicinam, qui morbum
+omnem tollere venerat et peccatum: et item
+in Aegyptum fugiens a facie Herodis reguli, nec Dei
+Filius agnosci poterat, nec Rex coeli. Quid trina illa
+tentatio inimici in deserto, in pinnaculo, supra
+montem? <hi>Si Filius Dei,</hi> inquit, <hi>es, dic ut lapides isti
+panes fiant;</hi> et item: <hi>Mitte te deorsum.</hi> Neutrum
+Christus fecit, ut signaretur liber, ut falleretur astutus.
+<pb n="0280B"/>
+Denique eousque seductus est, ut haberet
+jam pro constanti hominem esse purum, et in tantam
+vesaniam superbia caeca prorumperet, ut non
+diceret ultra: <hi>Si filius Dei es,</hi> sed: <hi>Haec omnia tibi
+dabo, si procidens adoraveris me <note>(Matth. IV, 3-9)</note>
+          </hi>.
+Sextum est signaculum crucis, ubi pependit inter
+latrones, et cum iniquis deputatus est Dominus majestatis.
+Clausit et sepultura librum hunc: nec ullum
+signaculum omnino sic astrinxit, sic occultavit
+magnum pietatis sacramentum. Sepulto nimirum
+Domino, sola restare desperatio videbatur, adeo ut
+discipuli ipsi dicerent: <hi>Quia nos sperabamus <note>(Luc.
+XXIV, 21)</note>
+          </hi>. Quis non illo fleret in tempore clausum
+arctius librum, et non esse qui aperiret?</p>
+        </div3>
+<div3>
+          <head>12.</head>
+          <p>
+ Sed ne fleveris ultra, Joannes sancte; etiam
+<pb n="0280C"/>
+tu noli flere, Maria. Procul sit luctus, tristitiae nebula
+dissipetur. Laetamini in Domino, et exsultate, justi;
+et gloriamini, omnes recti corde <note>(Psal. XXXI, 11)</note>.
+Dignus est Agnus qui occisus est, Leo qui resurrexit,
+postremo liber ipse dignus est aperire seipsum.
+Resurgens nimirum a <emph>897</emph> mortuis, resurgens
+autem virtute propria, et post tres dies, sicut ipse
+praedixerat, testimonium perhibentibus inimicis; et
+resurgens in tanta majestate et gloria, indicat manifeste
+quaecunque praediximus signacula, vel operimenta
+voluntaria, non necessaria; nec conditionis
+fuisse, sed dignationis. Quid tu nuper, Judaee, signabas
+lapidem monumenti? <hi>Quia seductor ille dixerat
+adhuc vivens: Post tres dies resurgam (Matth.
+<pb n="0280D"/>
+XXVII, 63)</hi>. Vere seductor, sed pius, non malitiosus,
+Denique <hi>seduxisti me, Domine, et seductus sum,</hi> ait
+propheta vester in persona vestra; <hi>fortior me fuisti,
+et invaluisti <note>(Jerem. XX, 7)</note>
+          </hi>. Seduxit vos, o Judaei, in
+passione: nam in resurrectione invaluit et praevaluit
+vincens Leo de tribu Juda. Etenim, si cognovissent,
+nunquam Dominum gloriae crucifixissent <note>(I Cor. II, 8)</note>.
+Quid ergo facturus es? Et praedixit,
+et jam revixit. Diligenter explora signaculum sepulturae,
+apertum est enim. Datur tibi signum Jonae
+prophetae, quia et praedixit ipse. Egreditur Jonas de
+ventre ceti; Christus de corde terrae tertia die procedit.
+Nisi quod manifeste plus quam Jonas hic <note>(Matth. XII, 39-41)</note>,
+qui semetipsum viriliter et ab
+ipso utero mortis eduxit. Propterea viri Ninivitae
+<pb n="0281A"/>
+consurgent contra vos in judicio; propterea ipsi
+judices vestri erunt, quia prophetae obtemperaverunt,
+vos nec Domino prophetarum.</p>
+        </div3>
+<div3>
+          <head>13.</head>
+          <p>
+ Ubi est quod dicebatis: <hi>Descendat de cruce,
+et credimus ei? <note>(Matth. XXVII, 42.)</note>
+          </hi> Crucis signaculum
+dirumpere voluistis, promittentes ad fidem vos
+introituros. Ecce apertum, non diruptum est: introite.
+Alioquin si non creditis resurgenti, utique
+nec credidissetis descendenti. Si sic vos scandalizabat
+crux Christi; verbum enim crucis <hi>Judaeis quidem
+scandalum</hi> est, ait Apostolus <note>(I Cor. I, 23)</note>; excitet
+vos saltem novitas resurrectionis. Invenimus nos in
+cruce gloriam. Nobis qui salvamur, Dei virtus est,
+et omnium, ut ostendimus, plenitudo virtutum. Sit
+vobis pars vel in resurrectione. Sed forte et illa, imo
+<pb n="0281B"/>
+multo magis illa vos scandalizat, et odor vitae nobis
+in vitam, vobis est odor mortis in mortem. Quid
+ergo insistimus? Non sustinet audire symphoniam
+et chorum senior frater, occisum nobis saginatum
+vitulum indignatur. Foris stat, omnino non acquiescit
+intrare <note>(Luc. XV, 28)</note>. Ingrediamur nos, fratres,
+et epulemur in azymis sinceritatis et veritatis; etenim
+Pascha nostrum immolatus est Christus <note>(I Cor.
+V, 7)</note>. Amplectamur commendatas nobis in cruce
+virtutes, humilitatem, patientiam, obedientiam, et
+charitatem.</p>
+        </div3>
+<div3>
+          <head>14.</head>
+          <p>
+ In hac quoque tam praecipua solemnitate quid
+commendetur nobis, sedula cogitatione pensemus.
+Nempe resurrectio, transitus et transmigratio.
+Christus enim, fratres, non recidit hodie, sed resurrexit:
+<pb n="0281C"/>
+non rediit, sed transiit; transmigravit,
+non remeavit. Denique et ipsum quod celebramus
+Pascha, transitus, non reditus interpretatur: et
+Galilaea, ubi videndus nobis promittitur qui resurrexit,
+non remeationem sonat, sed transmigrationem.
+Credo jam aliquorum ingenia praevolant, et
+quorsum haec velint tendere, suspicantur. Dicimus
+tamen breviter: praesertim ne devotionem vestram
+in tanta solemnitate sermonis videatur prolixitas
+onerare. Si post consummationem crucis in nostram
+hanc mortalitatem et vitae praesentis aerumnas Christus
+Dominus revixisset; ego eum, fratres, non
+transiisse dicerem, sed rediisse; non transmigrasse
+in sublimius aliquid, sed ad statum remeasse priorem.
+<pb n="0281D"/>
+Nunc autem quia transiit in novitatem vitae,
+nos quoque invitat ad transitum, vocat in Galilaeam.
+Propterea siquidem quod mortuus est peccato, mortuus
+est semel; quia quod jam vivit, vivit non carni,
+sed Deo.</p>
+        </div3>
+<div3>
+          <head>15.</head>
+          <p>
+ Quid nos dicimus, qui sacram Domini resurrectionem
+Paschae privamus nomine, ut sit nobis in
+reditum magis quam in transitum? Luximus his
+diebus, compunctioni et orationi, gravitati et abstinentiae
+dediti, caeterorum negligentias temporum
+sacro hoc quadragenario redimere et diluere cupientes.
+Communicavimus passionibus Christi, complantati
+ei denuo sumus per baptismum quemdam
+lacrymarum, poenitentiae, confessionis. Si ergo mortui
+sumus <emph>898</emph> peccato, quomodo vivemus adhuc
+<pb n="0282A"/>
+in illo? Si negligentias planximus, quid causae est ut
+recidamus nunc in easdem? Inveniemur nunc iterum
+curiosi ut ante, verbosi ut ante, pigri et negligentes
+ut ante, vani, suspiciosi, detractores, iracundi, caeterisque
+impliciti vitiis, quae tam anxie deploravimus
+his diebus. Lavi pedes meos, quomodo iterum inquinabo
+eos? exui me tunicam meam, quomodo
+induam eam? <note>(Cant. V, 3.)</note> Non est transmigratio
+haec, fratres: non sic videbitur Christus, non hoc
+iter quo ostendat nobis Deus salutare suum.
+Denique qui retro respicit, indignus est regno Dei <note>(Luc. IX, 62)</note>.</p>
+        </div3>
+<div3>
+          <head>16.</head>
+          <p>
+ Sic amatores saeculi, inimici crucis Christi,
+cujus in vanum accepto nomine dicuntur Christiani,
+toto hoc tempore quadragesimali ad instantes inhiant
+<pb n="0282B"/>
+dies Resurrectionis, heu! ut liberius indulgeant
+voluptati. Obnubilat, fratres, solemnitatis laetitiam
+materia tristior; sed ipsius plangimus solemnitatis
+injuriam, quam dissimulare non possumus nec in
+ipsa, imo minus in ipsa. Proh dolor! peccandi tempus,
+terminus recidendi facta est resurrectio Salvatoris!
+Ex hoc nempe comessationes et ebrietates
+redeunt, cubilia et impudicitiae repetuntur, et laxantur
+concupiscentiis frena: quasi vero ad hoc surrexerit
+Christus, et non magis propter justificationem
+nostram. Sic honoratis, miseri, Christum, quem
+suscepistis? Venturo parastis hospitium, confitentes
+peccata cum gemitu, castigantes corpora, eleemosynas
+impendentes: et ecce susceptum proditis inimicis,
+imo exire compellitis, priores nequitias admittendo.
+<pb n="0282C"/>
+Neque enim cohabitatio esse potest luci ad tenebras,
+Christi cum superbia, cum avaritia, cum ambitione,
+cum fraterno odio, cum luxuria, cum fornicatione.
+Quid enim minus praesenti debetur, quam
+venturo? Quid minus reverentiae resurrectionis
+tempus exigit, quam passionis? Sed vos, ut manifestum
+est, neutram honoratis. Nam, si compateremini
+et conregnaretis; si commoreremini, et conresurgeretis.</p>
+        </div3>
+<div3>
+          <head>17.</head>
+          <p>
+ Nunc autem ex sola consuetudine temporis
+et simulatione quadam humiliatio illa processit,
+quam non sequitur exsultatio spiritualis. <hi>Propter
+hoc,</hi> ut ait Apostolus, <hi>multi infirmi et imbecilles, et
+dormiunt multi <note>(I Cor. XI, 30)</note>
+          </hi>. Propter hoc crebra
+<pb n="0282D"/>
+in diversis regionibus hominum mortalitas, specialiter
+his diebus. Quid enim? Deprehensi estis inter
+angustias, praevaricatores, non qui praevaricati estis,
+sed qui persistitis in peccato, addentes praevaricationem,
+aut penitus impoenitentes, aut tepide poenitentes;
+nec periculosa [ <hi>alias</hi> pericula] fugientes, vel
+post miseram experientiam, incentiva peccati. Irretivit
+vos inimicus perplexis, ut ait Scriptura, nervis
+testiculorum <note>(Job. XL, 12)</note>. Si hac conscientia Christi
+sacramenta refugitis, nihil vobis commune cum
+Christo, non habetis vitam in vobis. Ipsum audite
+dicentem: <hi>Nisi manducaveritis carnem Filii hominis,
+et biberitis ejus sanguinem, non habebitis vitam in
+vobis <note>(Joan. VI, 54)</note>
+          </hi>. Si indigne suscipitis, judicium
+vobis manducatis, sanctum corpus Domini non dijudicantes.
+<pb n="0283A"/>
+Redite ergo, praevaricatores, ad cor, et in
+toto cordo quaerite Dominum, et odite malum; poenitentes
+non verbo tantum et lingua, sed spiritu et
+veritate. Quia vero non satis cecidisse piget hominem,
+ut videtur, qui adhuc manere disponit in lubrico;
+aut errasse, qui ducem non quaerit: sit verae
+compunctionis indiciam, opportunitatis fuga, subtractio
+occasionis. Alioquin timendum valde ne dies
+ista (siquidem et ipsa posita est in ruinam et resurrectionem
+multorum) reprobet vos, vel tanquam
+manifeste alienos a Christo. Christo non communicantes,
+vel tanquam socios Judae, in quem intravit
+Satanas post buccellam <note>(Joan. XIII, 27)</note>.</p>
+        </div3>
+<div3>
+          <head>18.</head>
+          <p>
+ Sed quid ad nos, fratres, de his qui foris sunt
+judicare? nisi quod in eodem nos fuisse laqueo plangimus,
+<pb n="0283B"/>
+ab eodem erutos gratulamur, sola misericordia
+operante, in quo miserabiliter eos detineri fraterna
+charitate dolemus. Utinam autem vel nos jam
+sanctificati, et penitus alieni ab hac misera et sacrilega
+consuetudine inveniamur, nec quidquam in
+nobis pereat <emph>899</emph> aut minuatur de exercitio spirituali
+sacrae resurrectionis adventu, sed transire
+magis et excrescere studeamus! Quicunque enim
+<pb n="0284A"/>
+post lamenta poenitentiae non ad carnales redit consolationes;
+sed in fiduciam divinae miserationis excedit,
+ingreditur novam quamdam devotionem et gaudium
+in Spiritu sancto; nec tam compungitur
+praeteritorum recordatione peccatorum, quam delectatur
+memoria et inflammatur aeternorum desiderio
+praemiorum: is plane est qui cum Christo resurgit,
+qui Pascha celebrat, qui festinat in Galilaeam. Vos
+ergo, charissimi, si consurrexistis cum Christo, quae
+sursum sunt quaerite, ubi Christus est in dextera Dei
+sedens; quae sursunt sunt sapite, non quae super
+terram <note>(Coloss. III, 1, 2)</note>: ut quemadmodum Christus
+resurrexit a mortuis per gloriam Patris, ita et vos
+in novitate vitae ambuletis <note>(Rom. VI, 4)</note>; ut a saeculari
+laetitia et consolatione mundi per compunctionem
+<pb n="0284B"/>
+et tristitiam, quae secundum Deum est, ad
+devotionem sanctam, et spiritualem vos transire
+gaudeatis exsultationem, ipso praestante, qui transivit
+ex hoc mundo ad Patrem, et nos quoque trahere
+post se, et in Galilaeam vocare dignatur, ut semetipsum
+nobis ostendat, qui est super omnia Deus
+benedictus in saecula, Amen.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

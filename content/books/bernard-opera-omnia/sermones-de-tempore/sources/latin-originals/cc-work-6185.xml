@@ -1,0 +1,541 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>In capite jejunii</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.InCaJe</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>SERMO I. <hi>Quid sit ungere caput, et jaciem lavare <note>(Matth. VI, 16, 17)</note>
+          </hi>.</head>
+
+<pb n="0167C"/>
+<div3>
+          <head>1.</head>
+          <p>
+ Hodie, dilectissimi, sacrum Quadragesimae tempus
+<pb n="0167D"/>
+ingredimur, tempus militiae Christianae. Non
+nobis singularis est haec observatio; una omnium
+est, quicunque in eamdem fidei conveniunt unitatem.
+Quidni commune sit Christi jejunium omnibus Christianis?
+quidni caput suum membra sequantur? Si
+bona suscepimus ab hoc capite, mala autem quare
+non sustineamus? An respuere tristia volumus, et
+communicare jucundis? Si ita est, indignos nos
+capitis hujus participatione probamus. Omne enim
+quod patitur ille, pro nobis est. Quod si in opere
+salutis nostrae ei collaborare piget, in quo deinceps
+coadjutores nos exhibebimus illi? Non est magnum
+si jejunet cum Christo, qui sessurus est ad mensam
+Patris cum ipso. Non est magnum si compatitur
+membrum capiti, cum quo et glorificandum est.
+<pb n="0168C"/>
+Felix membrum, quod huic adhaeserit per omnia
+capiti, et sequetur illud quocunque ierit. Alioquin
+si forte abscindi separarique contingat, privetur
+statim necesse est etiam spiritu vitae. Quaecunque
+<pb n="0168D"/>
+enim portio capiti non cohaeret, unde ei jam sensus
+aut vita? Nec sane deerit qui expositam occupet,
+ut ne tunc quidem sit absque capite. Germinabit
+rursum radix amaritudinis, venenatum caput iterum
+pullulabit; illud, inquam, caput, quod in eo contriverat
+ante fortis mulier, mater Ecclesia. Dico autem
+quando per eam regeneratus est in spem vitae, quem
+natura filium irae mater carnalis ediderat.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Videbit ergo jam, si fuerit qui revelatos habeat <emph>815</emph> 
+ oculos cordis, et spiritualiter intueatur, horrendum
+omnino monstrum, corpus quidem hominis,
+caput autem daemonis habens. Non solum autem,
+sed etiam erunt sine dubio novissima hominis illius
+pejora prioribus, cum vipereum illud caput, quod
+prius fuerat amputatum, non absque septem nequioribus
+<pb n="0169A"/>
+se revertatur. Quis non solo contremiscat
+auditu? Tollens membrum Christi, faciam membrum
+daemoniorum? Abscissus a corpore Christi,
+Satanae miser incorporabor? Sit procul a nobis
+semper exsecranda ista commutatio [ <hi>alias,</hi> communicatio],
+fratres mei. Mihi omnino adhaerere tibi
+bonum est, o caput gloriosum et benedictum in
+saecula, in quod et angeli prospicere concupiscunt.
+Sequar te quocunque ieris: si transieris per ignem,
+non avellar a te; non timebo mala, quoniam tu
+mecum es. Tu dolores meos portas, et pro me doles:
+tu prius transis per angustum passionis foramen, ut
+latum praebeas sequentibus membris ingressum.
+Quis nos separabit a charitate Christi? <note>(Rom. VIII,
+35.)</note> Ipsa enim est, per quam omne corpus per nexus
+<pb n="0169B"/>
+et juncturas crescit. Hoc glutinum bonum, cujus
+meminit Isaias <note>(Isa. XLI, 7)</note>. Haec, per quam bonum
+est et jucundum habitare fratres in unum. Hoc unguentum,
+quod descendit a capite in barbam, a
+capite descendit et in oram vestimenti <note>(Psal. CXXXII,
+2)</note>, ut ne minima quidem fimbria careat unctione.
+In capite siquidem plenitudo gratiarum, de qua
+accipimus omnes: in capite universitas miserationis,
+in capite inexhaustus fons pietatis divinae, in capite
+affluentia tota spiritualis unguenti, sicut scriptum
+est: <hi>Unxit te, Deus, Deus tuus oleo laetitiae prae participibus
+tuis <note>(Psal. XLIV, 8)</note>
+          </hi>. Ipsum tamen, quod
+tam copiose Pater unxerat caput, Maria quoque
+ungere non veretur. Calumniantur quidem discipuli:
+sed respondet Veritas pro ea, quod bonum opus sit
+<pb n="0169C"/>
+operata <note>(Matth. XXVI, 7-10)</note>.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Denique et nobis hodie quid praecipit in Evangelio? <hi>Tu,</hi> 
+ inquit, <hi>cum jejunaveris, unge caput tuum.</hi> 
+Mira dignatio! Spiritus Domini super eum, eo quod
+unxerit eum; et nihilominus tamen evangelizans
+pauperibus ait: <hi>Unge caput tuum!</hi> Complacet sibi
+Pater in Filio, et dum vox sonat in aethere, descendit
+Spiritus in columba. Putatis, fratres, quia Christi
+baptismo chrisma defuerit? Manet Domini Spiritus
+super ipsum: et unctum ab eo quis dubitet? <hi>Hic est
+Filius meus dilectus, in quo mihi bene complacui <note>(Matth. III, 17)</note>
+          </hi>.
+Haec plane spiritualis unguenti
+fragrantia est. Unxit Pater Filium prae participibus
+suis, in quo prae caeteris singulariter complacet sibi.
+<pb n="0169D"/>
+Pater enim diligit Filium, affectu utique divino, et
+inexperto omni creaturae. Unxit, inquam, Pater
+Filium prae participibus suis, accumulans super eum
+universa charismata benignitatis, mansuetudinis et
+suavitatis, abundantius eum replens visceribus misericordiae
+et miserationis. Unctum denique misit ad
+nos, quem nobis exhibuit plenum gratiae et miserationis
+[ <hi>alias,</hi> pietatis]. Sic unctum a Patre est caput
+nostrum, et nihilominus ungi postulat et a nobis. <hi>Cum jejunaveris,</hi> 
+ inquit, <hi>unge caput tuum.</hi> Itane
+aquam petit a rivulo fons indeficiens? Petit sine dubio,
+aut certe repetit magis. Ad fontem enim unde
+exeunt, flumina revertuntur, ut iterum fluant <note>(Eccle.
+I, 7)</note>.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Non vero, ut minus habens, quod dederat
+<pb n="0170A"/>
+Christus repetit: sed ne tibi pereat quidquid ad
+eum referre volueris. Siquidem etiam fluminis aqua,
+si stare coeperit, et ipsa putrescet, et inundatione
+facta superveniens, repelletur. Sic plane, sic gratiarum
+cessat decursus, ubi recursus non fuerit: nec
+modo nihil augetur ingrato, sed et quod acceperat
+vertitur ei in perniciem. Fidelis autem in modico
+censetur dignus munere ampliori. Unge igitur caput
+tuum, refundens in eum qui supra te est, quidquid
+in te est devotionis, quidquid delectationis, quidquid
+affectionis. Unge igitur caput tuum, ut si qua in te
+est gratia, referatur ad ipsum: nec tuam quaeras
+gloriam, sed ipsius. Ungit enim Christum, qui bonus
+ejus odor est in omni loco. Memento sane adversus
+hypocritas hunc processisse sermonem. <hi>Nolite,</hi> 
+<pb n="0170B"/>
+inquit, <hi>fieri sicut hypocritae tristes.</hi> Non omnimodam
+nobis tristitiam interdicit, sed quae in facie est coram
+hominibus. Alioquin, <hi>Cor</hi> <emph>816</emph> <hi>sapientis ubi
+tristitia <note>(Eccle. VII, 5)</note>
+          </hi>: et Paulum quoque discipulos
+contristasse non piget, pro eo quod contristati sunt
+ad salutem <note>(II Cor. VII, 8)</note>. Non est talis tristitia
+hypocritarum: non in corde, sed in facie est. <hi>Exterminant
+enim facies suas.</hi> </p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Nota proinde quod non dixerit: Nolite esse
+sicut hypocritae tristes; sed: <hi>Nolite fieri,</hi> hoc est
+fingi. Sic quippe vulgo dicitur: Tristem se facit;
+aut: Magnificat se; et: Qui beatificat te, in errorem
+te adducit <note>(Isa. IX, 16)</note>, et similia, quae simulationis
+sunt, non veritatis. <hi>Tu autem cum jejunaveris,
+unge caput tuum, et faciem tuam lava.</hi> Exterminant
+<pb n="0170C"/>
+illi faciem, tu autem lavare juberis. Est autem facies,
+quae in facie est conversatio. Hanc fidelis Christi
+servus lavat, ne quod offendiculum praebeat intuenti:
+hypocrita magis exterminat, dum singularia magis
+et inusitata sectatur. Sed nec caput ungit, cujus
+affectio elongatur a Christo, et vanis favoribus delectatur.
+Ungit potius semetipsum, ut propriae fragrantiam
+opinionis respergat. Aut certe quia manifestum
+est non esse caput hypocritae Christum
+nec suum tamen qualecunque caput ungere potest,
+cujus mens non propriae testimonio conscientiae,
+sed adulationibus demulcetur. <hi>Date nobis,</hi> aiunt
+fatuae virgines, <hi>de oleo vestro <note>(Matth. XXV, 8)</note>
+          </hi>. Cur
+hoc? Quia in vasis suis oleum non habent. Sed non
+<pb n="0170D"/>
+est prudentium hujuscemodi oleum dare. Quod enim
+sibi fieri nolunt, quando ipsae facient aliis? Audi
+vero Prophetam, cui incerta et occulta sapientiae
+suae revelaverat Deus. <hi>Oleum,</hi> inquit, <hi>peccatoris non
+impinguet caput meum <note>(Psal. CXL, 5)</note>
+          </hi>. Emunt oleum
+istud hypocritae, sicut ait Dominus: <hi>Amen dico vobis,
+receperunt mercedem suam. Exterminant enim facies
+suas, ut appareant jejunantes.</hi> Vides quam brevi
+sermone hypocritas et singularitatis notat, et arguit
+vanitatis. Vide etiam quam paucis et coram Deo
+suadeat bona, et coram hominibus providere. <hi>Unge
+caput tuum, et faciem tuam lava:</hi> hoc est, sic te
+irreprehensibilem foris exhibe, ut divinam tibi conciliare
+studeas gratiam; et ante oculos humanos non
+propriam quaeras gloriam, sed auctoris.
+<pb n="0171A"/>
+</p>
+        </div3>
+<div3>
+          <head>6. </head>
+          <p>
+Potest tamen et alio modo lota facies, conscientia
+pura; et unctum caput intelligi mens devota.
+Quod si id probas, adversus duplex vitium, quod
+maxime solent appetere jejunantes, haec duo verba
+ablutionis et unctionis dicta videntur. Alius enim
+jejunat studio vanitatis, et huic dicitur: <hi>Faciem
+tuam lava.</hi> Alius jejunat cum impatientia et rancore,
+et huic opus est ut caput ungat. Est autem caput
+istud, mens interior, quae tunc ungitur in jejunio,
+cum spiritualiter delectatur in eo. An vero tibi novum
+videtur, ut dicamus caput ungi jejunio? Ego
+plus dico: etiam impinguatur. Nunquamne legisti
+quod scriptum est: <hi>Ut alat eos in fame? <note>(Psal.
+XXXII, 19.)</note>
+          </hi> Est ergo jejunium corporis, capitis unctio;
+et carnis inedia, refectio cordis. Quidni dixerim
+<pb n="0171B"/>
+unctionem, quae et medetur vulneribus, et
+exasperatas conscientias lenit? Emat igitur hypocrita
+jejunio suo oleum peccatoris: ego meum interim
+non vendo jejunium, et ipsum mihi oleum est
+quo ungar. <hi>Unge,</hi> inquit, <hi>caput tuum,</hi> ne quid forte
+murmuris aut impatientiae subeat. Non solum autem,
+sed et gloriare in tribulatione, sicut ait Apostolus <note>(Rom. V, 3)</note>.
+Gloriare, inquam, sed absque omni
+studio vanitatis, ut sit etiam facies munda ab oleo
+peccatoris.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>SERMO II. <hi>Quomodo debeamus converti ad Dominum.</hi> </head>
+<div3>
+          <head>1.</head>
+          <p>
+ <hi>Convertimini ad me in toto corde vestro, in jejunio,
+et fletu, et planctu: et scindite corda vestra,
+<pb n="0171C"/>
+et non vestimenta vestra, ait Dominus omnipotens <note>(Joel.
+II, 12, 13)</note>
+          </hi>. Quid sibi vult, dilectissimi, quod praecipit
+Dominus, ut convertamur ad eum? Ubique enim
+est, et replet omnia, et nihilominus complectitur
+universa. Quo me vertam, ut convertar ad te, Domine
+Deus meus? Si ascendero in coelum, tu illic
+es: <emph>817</emph> si descendero in infernum, ades <note>(Psal.
+CXXXVIII, 8)</note>. Quid jubes? quo convertar ad te?
+Supra, an infra? ad dexteram, an ad sinistram?
+Consilium istud est, fratres mei; secretum est,
+quod solis credatur amicis. Mysterium regni Dei
+est; Apostolis revelatur in aure, nam turbis nihil
+dicitur absque parabola. <hi>Nisi conversi fueritis,</hi> inquit, <hi>et efficiamini sicut parvulus iste, non intrabitis in
+regnum coelorum 
+ <note>(Matth. XVIII, 3)</note>
+          </hi>. Agnosco plane
+<pb n="0171D"/>
+quo velit ut convertamur. Ad Parvulum converti
+necesse est, ut discamus ab eo quia mitis est et
+humilis corde: ad hoc siquidem parvulus datus est
+nobis. Sane idem et magnus est, sed in civitate
+Domini, cui et dicitur: <hi>Exsulta et lauda, habitatio
+Sion, quia magnus in medio tui sanctus Israel <note>(Isa.
+XII, 6)</note>
+          </hi>. Quid tu inflaris, o homo? quid extolleris
+sine causa? quid alta sapis, et oculi tui omne
+sublime vident, quod tibi non cedet in bonum? Sublimis
+quidem Dominus, sed non ita proponitur tibi:
+laudabilis magnitudo illius, non etiam imitabilis.
+<pb n="0172A"/>
+Elevata est magnificentia illius, et non poteris ad
+eam: nec si te ruperis, apprehendes. <hi>Accedet,</hi> inquit, <hi>homo ad cor altum, et exaltabitur Deus 
+ <note>(Psal.
+LXIII, 7, 8)</note>
+          </hi>. Excelsus siquidem Dominus et humilia
+respicit, et alta a longe cognoscit <note>(Psal. CXXXVII, 6)</note>.
+Humiliare, et apprehendisti. Haec plane lex pietatis,
+et propter hanc legem sustinui te, Domine. Si forte
+sublimitatis esset via proposita, et illic iter quo
+ostenderetur salutare Dei, quanta facerent homines
+ut exaltarentur? Quam crudeliter invicem sternerent,
+invicem conculcarent! Quam impudenter reperent,
+manibusque et pedibus conarentur in altum, ut
+imponerent sese homines super capita aliena! Et
+certe qui contendit supergredi [ <hi>alias,</hi> excedere]
+proximos, multas inveniet difficultates, multos habebit
+<pb n="0172B"/>
+aemulos, multos patietur contradictores, ascendentes
+equidem ex adverso: nihil vero facilius est
+volenti, quam humiliare semetipsum. Hoc verbum
+est, dilectissimi, quod omnino nos reddit inexcusabiles,
+ut ne tenue quidem nobis velamen praetendere
+liceat.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Sed jam ad hunc parvulum, ad mansuetudinis
+et humilitatis magistrum quonam modo converti
+necesse sit, videamus. <hi>Convertimini,</hi> inquit, <hi>ad me
+in toto corde vestro.</hi> Fratres, si dixisset: <hi>Convertimini,</hi> 
+nihil addens; esset nobis forsitan liberum respondere:
+Factum est, jam aliud propone mandatum.
+Nunc autem spiritualis (ut audio) conversionis nos
+admonet, quae non una die perficitur: utinam vel
+in omni vita, qua degimus in hoc corpore, valeat
+<pb n="0172C"/>
+consummari! Corporis namque conversio, si sola
+fuerit, nulla erit. Forma siquidem conversionis est
+ista, non veritas, vacuam virtute gerens speciem
+pietatis. Miser homo, qui totus pergens in ea quae
+foris sunt, et ignarus interiorum suorum, putans
+aliquid se esse, cum nihil sit, ipse se seducit! <hi>Sicut
+aqua effusus sum,</hi> ait Psalmista in persona hominis
+hujuscemodi, <hi>et dispersa sunt omnia ossa mea <note>(Psal.
+XXI, 15)</note>
+          </hi>. Et alius quidam propheta: <hi>Comederunt,</hi> inquit, <hi>alieni robur ejus, et ignoravit 
+ <note>(Osee. VII, 9)</note>
+          </hi>.
+Exteriorem quippe superficiem intuens, salva sibi
+omnia suspicatur, non sentiens vermem occultum,
+qui interiora corrodit. Manet tonsura, vestis necdum
+mutata est, jejuniorum regula custoditur, statutis
+<pb n="0172D"/>
+psallitur horis; sed <hi>cor longe est a me,</hi> dicit Dominus <note>(Marc. VII, 6)</note>.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Attende solerter quid diligas, quid metuas;
+unde gaudeas, aut contristeris; et sub habitu
+religionis animum saecularem, sub pannis conversionis
+invenies cor perversum. Totum enim cor in
+his quatuor affectionibus est; et de his accipiendum
+puto quod dicitur, ut in toto corde tuo convertaris
+ad Dominum. Convertatur proinde amor tuus, ut
+nihil omnino diligas nisi ipsum, aut certe propter
+ipsum. Convertatur etiam ad ipsum timor tuus;
+<pb n="0173A"/>
+quia perversus est timor omnis, quo metuis aliquid
+praeter eum, aut non propter eum. Sic et gaudium
+tuum, et tristitia tua aeque convertantur ad ipsum.
+Hoc autem ita fiet, si nonnisi secundum eum doleas,
+aut laeteris. Quid enim perversum <emph>818</emph> magis,
+quam laetari cum male feceris, et in rebus pessimis
+exsultare? Sed et ea quoque quae secundum carnem
+est tristitia, mortem operatur. Si pro tuo sive proximi
+peccato doles, bene facis, et haec tristitia est ad
+salutem <note>(II Cor. VII, 10)</note>. Si gaudeas ad munera
+gratiae, hoc gaudium sanctum est, et securum gaudium
+in Spiritu sancto. Debes et in dilectione Christi
+fraternis congaudere prosperitatibus, et adversitatibus
+condolere, sicut scriptum est: <hi>Gaudere cum
+gaudentibus, flere cum flentibus <note>(Rom. XII, 15)</note>
+          </hi>.
+<pb n="0173B"/>
+</p>
+        </div3>
+<div3>
+          <head>4. </head>
+          <p>
+Verum ne ipsa corporalis quidem est parvipendenda
+conversio, quia spiritualis hujus adminiculum
+noscitur esse non parvum. Inde est quod in hoc loco
+Dominus cum dixisset: <hi>In toto corde,</hi> adjunxit protinus: <hi>In jejunio:</hi> 
+ quod utique corporis est. Volo
+tamen vos admonitos esse fratres meos, observandum
+illud non ab escis tantum, sed ab omnibus illecebris
+carnis, et universa corporis voluptate; imo
+vero jejunandum est longe amplius a vitiis, quam a
+cibis. Sed est panis a quo vos jejunare nolo, ne forte
+deficiatis in via: et si nescitis, panem dico lacrymarum.
+Sequitur enim: <hi>In jejunio, et fletu, et planctu.</hi> 
+Exigit enim planctum a nobis poenitentia praeteritae
+conversationis; exigit fletum desiderium futurae
+beatitudinis. <hi>Factae sunt mihi lacrymae meae panes die
+<pb n="0173C"/>
+ac nocte,</hi> ait Propheta, <hi>cum dicitur mihi quotidie:
+Ubi est Deus tuus? <note>(Psal. XLI, 4.)</note>
+          </hi> Parum ei placet
+hujus vitae novitas, qui necdum vetera plangit, necdum
+plangit admissa peccata, necdum plangit tempus
+amissum. Si non plangis, plane non sentis animae
+vulnera, conscientiae laesionem. Sed nec futura satis
+gaudia concupiscis, si non quotidie postulas ea cum
+lacrymis: minus tibi nota sunt, si non renuit consolari
+anima tua, donec veniant.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Addit deinde Propheta: <hi>Et scindite corda vestra,
+et non vestimenta vestra.</hi> Quibus verbis manifeste
+prior ille populus Judaeorum et duritiae cordis, et
+vanae superstitionis arguitur. Crebra siquidem apud
+eos scissio vestium, sed non cordium esse solebat.
+<pb n="0173D"/>
+Quando enim scinderentur corda lapidea, quae non
+poterant nec circumcidi? <hi>Scindite,</hi> inquit, <hi>corda vestra,
+et non vestimenta vestra.</hi> Quis in vobis est, cujus
+voluntas circa unum aliquid solet obstinatior inveniri?
+Scindat cor suum gladio spiritus, quod est
+verbum Dei: scindat illud, et in multas minutias
+<pb n="0174A"/>
+festinet dispertiri. Alioquin non est converti ad
+Dominum in toto corde, nisi scisso corde. Donec
+enim illam unam accipias in Jerusalem, cujus est
+participatio in idipsum, multa interim tibi praecipiuntur;
+et si in uno offenderis, factus es omnium
+reus. <hi>Spiritus Domini multiplex,</hi> ait Sapiens <note>(Sap.
+VII, 22)</note>, nec potest sequi multiplicem sine multiplici
+scissione. Audi denique hominem, quem secundum
+cor suum invenerat Deus. <hi>Paratum,</hi> inquit, <hi>cor meum, Deus, paratum cor meum 
+ <note>(Psal. LVI, 8)</note>
+          </hi>.
+Paratum ad adversa, paratum ad prospera; paratum
+ad humilia, paratum ad sublimia; paratum ad universa
+quaecunque praeceperis. Vis pastorem ovium
+facere? vis constituere regem populorum? <hi>Paratum
+cor meum, Deus, paratum cor meum.</hi> Quis ut David
+<pb n="0174B"/>
+fidelis ingrediens, et egrediens, et pergens ad imperium
+regis? Et dicebat de peccatoribus: <hi>Coagulatum
+est sicut lac cor eorum; ego vero legem tuam meditatus
+sum <note>(Psal. CXVIII, 70)</note>
+          </hi>. Inde enim cordis duritia,
+inde mentis obstinatio, quia meditatur quis non legem
+Domini, sed propriam voluntatem.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Scindamus itaque corda nostra, dilectissimi,
+quatenus integra proinde vestimenta servemus.
+Vestes enim nostrae virtutes sunt. Bona vestis, charitas;
+bona vestis, obedientia est. Beatus qui custodit
+vestimenta haec, ut non ambulet nudus. Denique: <hi>Beati quorum tecta sunt peccata 
+ <note>(Psal. XXXI, 1)</note>
+          </hi>; et, <hi>Charitas operit multitudinem peccatorum 
+ <note>(I Petr. IV,
+8)</note>
+          </hi>. Scindamus corda, sicut praedictum est, ut <emph>819</emph> 
+haec vestimenta integra servemus, quemadmodum
+<pb n="0174C"/>
+integra salvata est tunica Salvatoris. Nec modo integram
+servat vestem scissio cordis, sed et talarem
+eam facit et polymitam, qualem a sancto patriarcha
+Jacob accepit filius, qui prae caeteris amabatur <note>(Gen.
+XXXVII, 3)</note>. Hinc nempe virtutum perseverantia,
+hinc conversationis pulchrae discolor unitas. Hinc
+illa est gloria regis filiae in fimbriis aureis, circumamicta
+varietatibus <note>(Psal. XLIV, 14, 15)</note>. Potest
+tamen et aliter haec scissio cordis intelligi, ut si
+quidem pravum fuerit, scindatur ad compunctionem
+[ <hi>alias,</hi> confessionem]; si durum, ad compassionem.
+Quidni scindatur ulcus, ut sanies effluat? Quidni
+scindatur cor, ut visceribus effluat pietatis? Utilis
+prorsus utraque scissio, ut nec clausum lateat peccati
+<pb n="0174D"/>
+virus in corde, nec indigenti proximo claudamus
+viscera misericordiae: ut et ipsi consequamur
+misericordiam a Domino nostro Jesu Christo,
+qui est super omnia Deus benedictus, in saecula.
+Amen.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

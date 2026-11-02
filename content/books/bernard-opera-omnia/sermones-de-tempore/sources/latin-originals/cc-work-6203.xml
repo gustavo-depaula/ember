@@ -1,0 +1,212 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>In octava Epiphaniae</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.InOcEp</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>In octava Epiphaniae</head>
+<div3>
+          <head>1. </head>
+<p>
+            <pb n="0153A"/>Populo durae cervicis cultellus erat necessarius,
+et lapideis cordibus merito cultri lapidei debebantur,
+qualibus a Jesu Nave facta circumcisio
+memoratur <note>(Josue. V, 2, 3)</note>. Noster autem Jesus,
+tanquam agnus mansuetus, omnem austeritatem
+abstulit. Domine, agnus es cum lana et lacte veniens:
+aufer a me, obsecro, cultellum istum. Durum
+enim videtur et crudele, parvulo recens nato cultrum
+lapideum adhibere. Sic agit misericors. Duritiam,
+duris bene congruam servis, filiis commutavit
+in mansueludinem, ut rubiginem originalis peccati,
+quam vix cultellus eradere poterat, ex hoc jam cum
+unctione gratiae facile lavet aqua. Nihil ergo mirum
+<pb n="0153B"/>
+si pro diversitate temporum mutata sint sacramenta,
+ut daretur utrisque quod congruum erat
+eis. Ipse vero Christus utrumque suscepit, ut tanquam
+lapis angularis utrique parieti cohaereret, ac
+si duarum capita corrigiarum consuendo connecteret,
+sicut et Pascha figuratum ipse complevit, et
+verum protinus inchoavit.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Sed et propterea voluit circumcidi, ut ostenderet
+auctorem se esse veteris legis, sicut et Evangelii;
+quoniam qui per se ipsum ait: <hi>Nisi, quis
+renatus fuerit ex aqua et Spiritu sancto, non intrabit
+in regnum coelorum <note>(Joan. III, 5)</note>
+          </hi>, ipse idem per
+servum suum prius dixerat, <hi>Omnis anima cujus
+praeputii caro circumcisa non fuerit, peribit de populo
+<pb n="0153C"/>
+suo <note>(Gen. XVII, 14)</note>
+          </hi>. Quod si solum baptisma
+suscepisset, videri poterat refugisse circumcisionem,
+tanquam nihil ad se pertinentem. Si vero
+circumcideretur et non baptizaretur, quando mihi
+persuaderi posset baptizari, circumcisione relicta?
+Nunc itaque post circumcisionem baptisma suscipiens,
+illud mihi tenendum tradidit, quod ultimo
+suscepit.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Denique communitatis amator et commendator,
+qui habitare facit unius moris in domo <note>(Psal. LXVII,
+7)</note>, quomodo communitatem desereret, et alios
+scandalizaret? Sic enim scandalizarentur videntes
+eum non circumcidi, sicut hodie scandalizaretur
+Ecclesia, si infantem videret non baptizari. Nec
+solum communitatis et unitatis bonum commendare,
+<pb n="0153D"/>
+sed humilitatem voluit exhibere; ut ligaturam
+vulneratorum susciperet, qui solus erat absque vulnere.
+Hinc enim Apostolus dicit: <hi>Misit Deus Filium
+suum in mundum, natum ex muliere, factum sub lege <note>(Galat. IV, 4)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Verum ne quis forte diceret: Quod circumcisus
+est parentes fecerunt (parvulus enim erat),
+jam triginta annorum ad baptismum ipse perrexit.
+Inclinatur sub Baptistae manibus caput tremendum
+potestatibus, et principatibus adorandum. Quid
+<pb n="0154A"/>
+mirum si Baptista contremuit? Quis vel ipsa cogitatione
+non contremiscat? O quam altum erit in
+judicio caput, quod modo sic inclinatur! et vertex
+qui modo tam humilis videtur, quam sublimis et
+et excelsus tunc apparebit! <hi>Sine,</hi> inquit, <hi>modo: sic
+enim decet nos implere omnem justitiam.</hi> Siquidem
+qui in plenitudine temporis venit, et in quo habitat
+plenitudo divinitatis, nihil novit nisi plenum. Nam
+et legem non venit solvere, sed implere <note>(Matth. V,
+17)</note>. Est autem justitia quaedam stricta et angusta
+valde, ita ut quam cito pedem verteris, in peccati
+foveam cadas: nec praeponere se aequali, nec
+aequare praeposito. Hujus definitio est, reddere unicuique
+<pb n="0154B"/>
+quod suum est. Altera latior et amplior justitia,
+nec aequare se pari, nec inferiori praeponere.
+Sicut enim grandis et gravis est superbia, praeferre
+se aequali, aut aequare praelato, ita magnae humilitatis
+est, inferiorem se exhibere aequali, aut aequalem
+inferiori. Maxima et plena justitia est, se inferiorem
+exhibere etiam ipsi inferiori. Sicut enim
+summa et intolerabilis superbia est, superiori se
+praeponere ita inferiori se supponere [ <hi>alias,</hi> subdere],
+summa et plena justitia est. Quod <emph>805</emph> 
+Joannes ait, <hi>Ego a te debeo baptizari <note>(Matth. III,
+14)</note>
+          </hi>, de prima fuit, quia superiori se subdidit:
+quod autem Christus fecit, de plena justitia fecit,
+siquidem ille servuli sui manibus se inclinavit.
+<pb n="0154C"/>
+</p>
+        </div3>
+<div3>
+          <head>5. </head>
+          <p>
+Videat nunc quisque quem imitetur, hunc, an
+eum qui extollitur super omne quod creditur Deus,
+aut quod colitur <note>(II Thess. II, 4)</note>. Studeamus et nos,
+obsecro, fratres, adimplere omnem justitiam. Ipsa
+enim est via per quam ad laetitiam venitur. Nam
+laetitia praemium est, justitia vero meritum et materia.
+Nam de ipsa justitia erit laetitia nostra, quando
+Christus apparebit vita nostra, et nos apparebimus
+cum ipso in gloria; quoniam ipse est qui factus est
+nobis a Deo Patre justitia. Beati vero, qui etiamnunc
+de justitia laetantur, et exhilarantur in conscientiis
+suis, sugentes mel de petra, oleumque de saxo durissimo.
+Nunc enim [ <hi>alias</hi> autem] videtur laboriosa
+justitia: sed veniet quando in suavitate et jucunditate
+<pb n="0154D"/>
+sine omni labore desideretur et habeatur,
+ametur et percipiatur, quando fruemur ipsa justitia.
+Vae autem his qui praetergrediuntur viam,
+qui, relicta justitia, vanam et transitoriam laetitiam
+quaerunt! Cum enim de transitoriis quaerunt
+laetitiam, non poterit non transire, transeuntibus
+his de quibus erat. Sicut enim lignis deficientibus
+deficit ignis, sic mundus transit, et concupiscentia
+ejus; haud dubium quin et laetitia
+quoque.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

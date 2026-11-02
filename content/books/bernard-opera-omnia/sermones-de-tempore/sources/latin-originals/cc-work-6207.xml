@@ -1,0 +1,714 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>In tempore resurrectionis</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.InTeRe</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>SERMO II. <hi>De lectione evangelica, « Maria Magdalene, Maria Jacobi, et Salome, » </hi> etc. <note>(Marc. XVI, 1.)</note> </head>
+
+<pb n="0283C"/>
+<div3>
+          <head>1.</head>
+          <p>
+ Accepimus ab Apostolo <hi>habitare Christum per
+fidem in cordibus nostris <note>(Ephes. III, 17)</note>
+          </hi>. Unde videtur
+non incongrue intelligi posse, tandiu Christum
+in nobis vivere, quandiu vivit fides. At postquam
+fides nostra mortua est, quodam modo Christus
+mortuus est in nobis. Porro fidei vitam opera attestantur,
+sicut scriptum est: <hi>Opera, quae dedit mihi
+Pater, ipsa testimonium perhibent de me <note>(Joan. V, 36)</note>
+          </hi>.
+Nec discrepare videtur ab hac sententia, qui fidem
+sine operibus mortuam asserit in semetipso <note>(Jac.
+II, 20)</note>. Sicut enim corporis hujus vitam ex motu suo
+dignoscimus, ita et fidei vitam ex operibus bonis.
+<pb n="0283D"/>
+Itaque vita quidem corporis est anima, per quam
+movetur et sentit; vita vero fidei charitas est, quia
+per illam operatur, sicut in Apostolo legis: <hi>Fides
+quae per dilectionem operatur <note>(Galat. V, 6)</note>
+          </hi>. Unde et
+refrigescente charitate fides moritur, sicut corpus
+anima recedente. Tu ergo si videris hominem in
+bonis operibus strenuum, et fervore conversationis
+hilarem; vivere in eo fidem non dubites, indubitata
+tenens vitae illius argumenta. Sed sunt nonnulli, qui,
+cum spiritu coeperint, heu! carne postea consummantur.
+Scimus autem quia jam tunc non permaneat
+in eis spiritus vitae, quia scriptum est: <hi>Non
+permanebit spiritus meus in homine in aeternum, quia
+caro est <note>(Gen. VI, 3)</note>
+          </hi>. Quod si non permanet spiritus,
+haud dubium quin excidat charitas, quae nimirum
+<pb n="0284C"/>
+diffusa est in cordibus nostris per Spiritum sanctum
+qui datus est nobis <note>(Rom. V, 5)</note>.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Porro fidei vitam, ut jam diximus, in charitate
+constituit, qui fidem per dilectionem perhibuit operari.
+Hinc ergo colligitur, recedente Spiritu fidem
+mori: quoniam Spiritus est qui vivificat <note>(Joan. VI,
+64)</note>. Denique, si sapere secundum carnem mors est <note>(Rom. VIII, 6)</note>;
+non dubium quin illi quos vivere
+laetabamur, quandiu facta carnis spiritu mortificabant,
+secundum carnem viventes plangendi sint
+tanquam mortui. Unde et in eodem apostolo legis: <hi>Si,</hi> 
+ inquit, <hi>secundum carnem vixeritis, moriemini; si
+autem spiritu facta carnis mortificaveritis, vivetis <note>(ibid., 13)</note>
+          </hi>.
+Vae tibi, quicunque es, canis reversus
+ad vomitum, et sus lota in volutabro luti <hi>(II Petr.
+<pb n="0284D"/>
+II, 22)</hi>! Non ad eos tantum loquor qui corpore, sed
+etiam eos qui corde redeunt in Aegyptum, saeculi
+hujus oblectamenta sectantes, ac proinde fidei vitam,
+quae est charitas, non habentes. Si quis <emph>900</emph> enim
+diligit mundum, non est charitas Patris in eo <note>(I Joan.
+II, 15)</note>. Quis magis mortuus eo, qui fovet ignem in
+sinu, peccatum in conscientia; nec sentit, nec
+expavescit, nec excutit?</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Ecce igitur Christus in sepulcro, fides mortua
+est in animo. Quid faciemus ei? Quid fecerunt
+sanctae mulieres, quae solae ex omnibus suis ampliori
+tenebantur affectu? <hi>Emerunt aromata, ut venientes
+ungerent Jesum.</hi> Nunquid ut suscitarent? Et nos
+scimus, fratres, quia suscitare nostrum non est, sed
+ungere nobis incumbit. Cur hoc? Nempe ne feteat
+<pb n="0285A"/>
+qui hujusmodi est ne sit caeteris odor mortis, ne
+pereffluat, et penitus dissolvatur. Emant proinde
+aromata sua tres mulieres, mens, lingua, manus.
+De his enim, ut arbitror, Petrus mandatum accepit
+tertio pascere gregem Domini <note>(Joan. XXI, 17)</note>. Pasce,
+inquit, mente, pasce ore, pasce opere; pasce animi
+oratione, verbi exhortatione, exempli exhibitione.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Quaerat igitur meus aromata sua: ante omnia
+compassionis affectum, dehinc rectitudinis zelum,
+et inter haec discretionis spiritum non omittat.
+Quoties enim peccantem videris fratrem, continuo
+procedere debet compassionis affectus, tanquam
+cognatus humanitati, quippe quem concipis ex teipso. <hi>Vos,</hi> 
+ inquit Apostolus, <hi>qui spirituales estis,
+instruite hujusmodi in spiritu lenitatis, considerans
+<pb n="0285B"/>
+teipsum, ne et tu tenteris <note>(Galat. VI, 1)</note>
+          </hi>. Et cum exiret
+Dominus bajulans sibi crucem, et plangerent super
+eum, nondum quidem omnes tribus terrae, sed mulieres
+paucae, conversus ad eas: <hi>Filiae,</hi> inquit, <hi>Jerusalem, nolite flere super me, sed super vos ipsas
+flete, et super filios vestros 
+ <note>(Luc. XXIII, 28)</note>
+          </hi>. Ordinem
+diligenter attende. <hi>Super vos,</hi> inquit, primo; deinde <hi>super filios vestros.</hi> 
+ Temetipsum attende, ut alii
+noveris compati, ut arguas in spiritu lenitatis. Teipsum
+considera, ne et tu tenteris. Sed, quia exemplum
+efficacius persuadet et altius imprimit animo, mitto
+vos ad sanctum illum senem, qui cum audisset
+peccasse unum ex fratribus, amarissime flebat,
+inquiens:  « Ille hodie, et ego cras ( <hi>In Vitis Patrum</hi> ). » 
+Qui sic flebat super se, putas quia non compassus
+<pb n="0285C"/>
+sit fratri? Hic itaque compassionis affectus multis
+quidem prodest, quia animus liberalis contristare,
+quem pro se viderit anxium, erubescit.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Sed quid agimus, quod nonnulli dura cervice
+et atrita sunt fronte, ut quo magis eis compatimur,
+tanto magis nostra et compassione et patientia
+abutantur? Nonne sicut compatiebamur fratri, ita
+ipsi justitiae compatiendum est, quam videmus tam
+impudenter abjici, tam imprudenter provocari? Scio
+quia, si qua in nobis est charitas, contemptum hunc
+Dei ferre aequanimiter non possumus. Hic est zelus
+justitiae, quo adversus deliquentes accendimur,
+tanquam pietate ducti erga eam, quam contemni
+videmus, justitiam Dei. Verumtamen oportet ut
+<pb n="0285D"/>
+priora sibi vindicet compassionis affectus. Alioquin
+in spiritu vehementi conterimus naves Tharsis,
+conterimus quassatum calamum, exstinguimus linum
+fumigans.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Sed, cum uterque aderit, videlicet et compassionis
+affectus, et zelus justitiae; necesse est ut adsit
+spiritus discretionis, ne forte, cum oporteat hunc
+exhiberi, ille procedat, et indiscretio ipsa confundat
+universa. Habeat itaque mens nostra tertium, scilicet
+spiritum discretionis, ut miscens apte temporibus
+tempora, opportune aemulari et nihilominus ignoscere
+sciat. Samaritanus sit, custodiens et observans
+quando oleum misericordiae, quando vinum
+fervoris exhibeat. Et ne forte meum putetis inventum,
+prophetam audite in Psalmo, haec eadem et
+<pb n="0286A"/>
+eodem ordine postulantem: <hi>Bonitatem,</hi> inquit, <hi>et
+disciplinam, et scientiam doce me <note>(Psal. CXVIII, 66)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ Sed unde haec nobis? Neque enim talia profert
+virtutum germina terra cordis nostri, sed magis
+spinas et tribulos germinat nobis. Emere ergo oportet.
+A quo autem emenda sunt? Ab eo utique qui
+ait: <hi>Venite, emite absque argento et absque ulla
+commutatione</hi> <emph>901</emph> <hi>vinum et lac <note>(Isa. LV, 1)</note>
+          </hi>. Non
+ignoratis quid lactis dulcedo, quid vini designet austeritas.
+Quid est autem emere sine argento et sine
+commutatione? Non talis est emptio apud amatores
+hujus saeculi; sed apud auctorem saeculi alia esse
+non potest. Propheta enim dixit Domino: <hi>Deus meus
+es tu, quoniam bonorum meorum non eges <note>(Psal.
+XV, 2)</note>
+          </hi>. Quam igitur commutationem ei dabit homo
+<pb n="0286B"/>
+pro gratia sua, qui nullius eget, et cujus sunt universa?
+Gratia gratis datur: etiam cum emitur,
+gratis emitur; quia quod datur pro ea, nobis melius
+retinetur.</p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ Tria ergo aromata mentis nummo propriae voluntatis
+emenda sunt. Quam quidem dimittentes nihil
+amittimus, etiam et lucramur plurimum, commutantes
+illam in melius, ut communis fiat quae propria fuit.
+Porro communis voluntas charitas est. Emimus ergo
+absque commutatione, recipientes quod non habuimus,
+et quod habuimus, melius retinentes. Quando vero
+compatietur fratri, qui in propria voluntate nescit
+compati nisi sibi? aut quando amans seipsum diliget
+justitiam, et odio habebit iniquitatem? Simulare
+quidem potest ante oculos hominum, etiam et semetipsum
+<pb n="0286C"/>
+seducere, ut, cum privato amore vel odio
+ducitur, compassionis affectum, aut zelum putet
+esse justitiae. Verum facile est nosse quam sint
+aliena a propria voluntate, quae propria sunt charitatis,
+cui illa recta fronte contrariam se constituit.
+Nam charitas benigna est, charitas super iniquitate
+non gaudet <note>(I Cor. XIII, 4, 6)</note>. Jam de spiritu
+discretionis scimus, quia nihil sic illum exstinguit
+quomodo voluntas propria, subvertens corda hominum,
+et rationis oculos claudens. Emenda proinde
+sunt tria mentis aromata, affectus compassionis,
+rectitudinis zelus, et spiritus discretionis, nummo,
+ut dictum est, propriae voluntatis.</p>
+        </div3>
+<div3>
+          <head>9.</head>
+          <p>
+ Linguae quoque aromata tria nihilominus sunt:
+<pb n="0286D"/>
+modestia in increpando, copia in exhortando, efficacia
+in persuadendo. Vis habere haec aromata? Eme
+illa a Domino Deo tuo. Eme, inquam, et sicut
+priora, sine ulla commutatione: ut aliquid recipias,
+perdas nihil. Eme a Domino moderatam correptionem,
+quia omnino magnum quoddam bonum et datum
+optimum est, et quod habeant pauci. <hi>Linguam
+enim,</hi> ut ait beatus Jacobus, <hi>nemo domare potest <note>(Jac. III, 8)</note>
+          </hi>.
+Videas multos, sincera licet intentione
+et benigno accedant animo, leviter dicere quod
+graviter audiatur. Volat irrevocabile verbum <note>(HOR.
+Epist. I, XVIII, 71)</note>; et quod sanare debuerat, quia
+mordacius forte videtur, exasperat et exulcerat magis:
+quando negligentiae additur impudentia, etiam et impatientia
+cumulatur; ut qui in sordibus erat, sordescat
+<pb n="0287A"/>
+adhuc, declinans in verba malitiae ad excusandas excusationes
+in peccatis, ac more phrenetici non solum
+repellens, sed et mordere tentans medici manum. Multis
+quoque non suppetit verborum copia, sed prae sermonis
+inopia linguam suam palato adhaerescere sentiunt:
+quod et ipsum interdum solet audientibus obesse
+non parum. Aliis vero ad manum est abundantia
+multa sermonis; sed quae dicunt, minus sapiunt,
+minus acceptantur: et, quia gratiam non habent,
+minus efficacia sunt quae loquuntur. Vides ergo
+quam necesse sit emere ab eo a quo omne bonum
+est, a quo omnis scientia, modestiam in increpando,
+copiam in exhortando, efficaciam in persuadendo.</p>
+        </div3>
+<div3>
+          <head>10.</head>
+          <p>
+ Proinde eme ista nummo confessionis, ut
+<pb n="0287B"/>
+prius peccata tua confitearis, quam ad expurganda
+accedas aliena. Magnum prorsus et mirabile sacramentum
+animae suscitatio est: vide ne ad illud immundus
+accedas. Quod si forte non potes innocens,
+imo quia non potes; lava inter innocentes manus tuas,
+antequam circumdes monumentum Domini. Omnia
+siquidem in confessione lavantur. Et haec ablutio in
+quamdam innocentiam tibi deputabitur, ut inter
+innocentes assistas. Ad altaris officium nemo accedit
+in veste communi; sed quisquis accessurus est, albis
+induitur. Et tu ergo, cum ad Domini monumentum
+properas, lavare, dealbare, induere vestimentis gloriae,
+ut dicatur tibi: <hi>Confessionem et decorem induisti <note>(Psal. CIII, 1)</note>
+          </hi>.
+Quia ubi confessio, ibi in
+conspectu Domini pulchritudo est. <emph>902</emph> Haec pro
+<pb n="0287C"/>
+eo dicta sunt, ut aromata linguae, moderata increpatio,
+copiosa exhortatio, efficax persuasio nummo
+confessionis emantur.</p>
+        </div3>
+<div3>
+          <head>11.</head>
+          <p>
+ Verumtamen legimus <note>(Apud GREGOR. MAGNUM
+in <hi>Pastorali</hi> )</note>, et quotidianis etiam experimentis
+didicimus, cujus vita despicitur restat ut praedicatio
+contemnatur. Paret ergo et manus aromata sua,
+ne subsannet nos Sapiens tanquam pigrum illum
+cui labor sit manum ad os porrigere <note>(Prov. XIX, 24)</note>;
+ne possit dicere is quem arguis: <hi>Tu, qui alium doces,
+teipsum non doces <note>(Rom. II, 21)</note>
+          </hi>. Alligas enim
+onera gravia et importabilia, et imponis ea in humeros
+hominum, digito tuo nolens ea movere <note>(Matth.
+XXIII, 4)</note>. Dico vobis: Sermo quidem vivus et efficax
+exemplum est operis, facile persuadens quod
+<pb n="0287D"/>
+intendimus, dum factibile probat esse quod suademus.
+Pro hujusmodi habeat necesse est etiam manus
+aromata sua, continentiam in carne, misericordiam
+in fratre, patientiam in pietate. Unde Apostolus
+ait: <hi>Sobrie, et juste, et pie vivamus <note>(Tit. II, 12)</note>
+          </hi>.
+Haec enim tria sunt conversationi nostrae maxime
+necessaria; quoniam primum debemus nobis, secundum
+proximo, tertium Deo. Nam qui fornicatur,
+in corpus suum peccat, magno illud privans honore,
+et pavendo addicens pudendoque dedecori, tollens
+membrum Christi, et faciens membrum meretricis.
+Ego autem non ab ea tantum, quae tam abominabilis
+est, sed ab omni voluptate carnis continendum dico.
+Ante omnia igitur perfectam hanc continentiam
+<pb n="0288A"/>
+quaere, quam debes tibi ipsi: nemo enim tibi propinquior
+est. Dehinc adde misericordiam quam
+debes proximo, quia cum eo salvandus es: deinde
+etiam patientiam quam debes Deo, quia ab eo salvandus
+es. <hi>Omnes enim qui pie volunt vivere in Christo,
+persecutionem patientur <note>(II Tim. III, 12)</note>
+          </hi>; et: <hi>Per multas tribulationes oportet nos intrare in regnum
+coelorum 
+ <note>(Act. XIV, 21)</note>
+          </hi>. Vide ergo ne per impatientiam
+pereas, sed universa pro eo sustine qui prior
+majora pro te sustinuit, et apud quem infructuosa
+patientia non erit, sicut ait Propheta: <hi>Patientia
+pauperum non peribit in finem <note>(Psal. IX, 19)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>12.</head>
+          <p>
+ Porro haec manus aromata nummo subjectionis
+emuntur. Haec est enim quae dirigit gressus nostros,
+et sanctae conversationis gratiam promeretur.
+<pb n="0288B"/>
+Nam, si contraria lex inventa est in membris nostris
+per inobedientiam, quis nesciat per obedientiam continentiam
+dari? Ipsa quoque est quae misericordiam
+ordinare novit, ipsa quae patientiam et docet et donat.
+Cum his igitur aromatibus accede ad eum in
+quo fides mortua est. Verum, si consideremus quam
+magnum sit ad nos suscitare eum qui hujusmodi est,
+quam difficile sit vel accedere ad cor ejus, quod lapidea
+quaedam obstinatio et impudentia clausit, puto
+quod dicere habeamus et nos: <hi>Quis revolvet nobis
+lapidem ab ostio monumenti?</hi> Attamen, dum sic trepidi
+veremur accedere, cunctantes ad tam grande miraculum;
+fit nonnunquam ut solita pietate praeparationem
+cordis nostri audiat auris divina, et ad vocem
+virtutis ejus resurgat qui erat mortuus. Et ecce
+<pb n="0288C"/>
+angelus Domini, hilaritas quaedam in vultu illius,
+tanquam in ostio monumenti nobis apparet, et fulgor
+quidam index resurrectionis, ut aperte videatur facies
+ejus immutata, accessum praebens nobis ad cor suum,
+imo et advocans, ipsumque obstinationis suae revolvens
+lapidem, et sedens super eum: ita ut suscitata
+fide ipsa, etiam linteamina, quibus obvoluta fuerat,
+ipse demonstret. Dumque omnia quae in corde suo
+prius actitabantur aperit, et confitetur quomodo seipsum
+sepelierat intus, ipsam tepiditatem et negligentiam
+suam prodens: <hi>Venite,</hi> inquit, <hi>et videte locum
+ubi positus erat Dominus <note>(Matth. XXVIII, 6)</note>
+          </hi>.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>SERMO III. <hi>De mersione Naaman septies in Jordane, deque mundatione septemplicis leprae; et de septem apparitionibus Domini resurgentis, quibus septem dona Spiritus sancti designantur.</hi> </head>
+
+<pb n="0288D"/>
+<div3>
+          <head>1.</head>
+          <p>
+ Sicut in corporum medicina prius purgationes
+adhibentur, deinde refectiones, ut scilicet prius <emph>903</emph> 
+ exinaniatur corpus ab humoribus noxiis,
+dehinc cibis sanioribus foveatur: sic medicus animarum
+Dominus Christus, cujus tota dispensatio,
+quam exhibuit in carne, medicina salutis est; ante
+passionem suam septem dedit purgationes, post resurrectionem
+suam totidem cibos salubres pariter
+et suaves. Eliseus noster Naamam leprosum septies
+in Jordane mergi praecepit <note>(IV Reg. V, 10)</note>, qui interpretatur <hi>descensus.</hi> 
+ In descensu namque Domini
+nostri Jesu Christi, id est in humilitate conversationis
+<pb n="0289A"/>
+ejus, quam exhibuit ante passionem, mundamur
+et purgamur; in resurrectione vero et vita quam
+ostendit quadraginta diebus reficimur, et delectabilibus
+pascimur alimentis. Septempliciter enim occupavit
+nos lepra superpiae; in proprietate possessionum,
+in gloria vestium, in voluptate corporum, in
+ore quoque dupliciter, similiter et in corde. Prima
+est lepra domus, qua divites esse volumus in hoc
+saeculo. Sed ab ista mundamur, si immergimur in
+Jordane, id est in Christi descensu. Invenimus enim
+quoniam ille, cum esset dives, propter nos pauper
+factus est. Descendit ab inenarrabilibus coeli divitiis,
+et veniens in mundum, nec istas qualescunque divitias
+habere voluit, sed in tanta paupertate venit,
+ut natus continuo poneretur in praesepio, quia ei
+<pb n="0289B"/>
+non erat locus in diversorio <note>(Luc. II, 7)</note>. Denique
+quis nesciat quoniam Filius hominis non habebat
+ubi caput suum reclinaret? Qui bene mergitur hic,
+quando quaeret divitias hujus mundi? Et vere magna
+abusio, et magna nimis, ut dives esse velit vermiculus
+vilis, propter quem Deus majestatis et Dominus
+sabaoth voluit pauper fieri.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Porro in lepra vestis, omnem saeculi hujus
+pomposam intellige vanitatem. Nam ab illa nihilominus
+in Jordanis mersione mundaberis, ubi invenies
+Christum Domini vilibus pannis involutum, factum
+opprobrium hominum, et abjectionem plebis.
+A lepra quoque corporis mundamur in ipso Jordane,
+si bene cogitantes Dominicam passionem, erubescimus
+sequi corporis voluptatem. At in ore, ut diximus,
+<pb n="0289C"/>
+duplex est lepra. Cum enim adversi quidquam
+contigerit, murmuramus, et impatientiae verbum
+tanquam leprae sanies effluit. Sed ab hac mundamur,
+si illum attendimus, qui tanquam ovis ad occisionem
+ductus est, et non aperuit os suum <note>(Isai. LIII,
+7)</note>: qui, cum malediceretur, non maledicebat; cum
+pateretur, non comminabatur <note>(I Petr. II, 23)</note>. In
+prosperis quoque contra eum qui dixit: <hi>Non qui seipsum
+commendat, ille probatus est <note>(II Cor. X, 18)</note>
+          </hi>;
+commendamus nosmetipsos, non in multa patientia,
+sed in arrogantia: et inquinat nos altera lepra,
+verbum jactantiae. Ut ergo mundemur ab illa, mergamur
+in Jordane, et imitemur eum qui non quaerebat
+gloriam suam. Unde et daemonia quae clamabant
+<pb n="0289D"/>
+quia ipse esset Dei Filius, praecipiebat obmutescere <note>(Luc. IV, 34, 35)</note>;
+et illuminatos caecos dicere prohibebat <note>(Matth. IX, 30)</note>.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ In corde duplex est lepra; propria voluntas,
+et proprium consilium. Lepra utraque nimis pessima,
+eoque perniciosior, quo magis interior. Voluntatem
+dico propriam, quae non est communis cum
+Deo et hominibus, sed nostra tantum: quando quod
+volumus, non ad honorem Dei, non ad utilitatem
+fratrum, sed propter nosmetipsos facimus, non intendentes
+placere Deo et prodesse fratribus, sed satisfacere
+propriis motibus animorum. Huic contraria
+est recta fronte charitas, quae Deus est. Haec enim
+adversus Deum inimicitias exercens est, et guerram
+crudelissimam. Quid enim odit aut punit Deus
+<pb n="0290A"/>
+praeter propriam voluntatem? Cesset voluntas propria,
+et infernus, non erit. In quem enim ignis ille
+desaeviet, nisi in propriam voluntatem? Etiam nunc,
+cum frigus aut famem aut aliquid tale patimur,
+quid laeditur nisi propria voluntas? Quod si voluntarie
+sustinemus, ipsa jam voluntas communis est;
+sed infirmitas quaedam et velut pruritus voluntatis
+adhuc de proprio est, et in illo omnes poenas sustinemus,
+donec penitus consumatur. Nam voluntas
+illa proprie dicitur, cui assentimur, et cui se liberum
+inclinat arbitrium. <emph>904</emph> Haec autem desideria et
+concupiscentiae, quae invitos tenent, non voluntas,
+sed corruptio voluntatis est. Porro voluntas propria
+quo furore Dominum majestatis impugnet, audiant
+et timeant servi propriae voluntatis. Primo namque
+<pb n="0290B"/>
+seipsam et subtrahit et subducit ejus dominatui,
+cui tanquam auctori servire jure debuerat, dum efficitur
+sua. Sed nunquid contenta erit hac injuria?
+Nequaquam: addit adhuc et quod in se est, omnia
+quoque quae Dei sunt, tollit, et diripit. Quem enim
+modum sibi ponit humana cupiditas? Nonne qui per
+usuram acquirit pecuniam modicam, similiter mundum
+lucrari conaretur universum, si non deesset
+possibilitas, si suppeteret voluntati facultas? Dico
+fiducialiter: nemini, qui sit in propria voluntate,
+posset universus mundus sufficere. Sed utinam vel
+rebus istis esset contenta, ne in ipsum, horribile
+dictu, desaeviret auctorem! Nunc autem et ipsum,
+quantum in ipsa est, Deum perimit voluntas propria.
+Omnino enim vellet Deum peccata sua aut vindicare
+<pb n="0290C"/>
+non posse, aut nolle, aut ea nescire. Vult ergo eum
+non esse Deum, quae, quantum in ipsa est, vult eum
+aut impotentem, aut injustum esse, aut insipientem.
+Crudelis plane et omnino exsecranda malitia, quae
+Dei potentiam, justitiam, sapientiam perire desiderat.
+Haec est crudelis bestia, fera pessima, rapacissima
+lupa, et leaena saevissima. Haec est immundissima
+lepra animi, propter quam in Jordane mergi oporteat,
+et imitari eum qui non venit facere voluntatem
+suam: unde et in passione: <hi>Non mea,</hi> inquit, <hi>voluntas,
+sed tua fiat <note>(Luc. XXII, 42)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Lepra vero proprii consilii eo perniciosior est,
+quo magis occulta; et quanto plus abundat, tanto
+sibi quisque sanior esse videtur. Haec illorum est,
+<pb n="0290D"/>
+qui zelum Dei habent, sed non secundum scientiam,
+sequentes errorem suum, et obstinati in eo, ita ut
+nullis velint consiliis acquiescere. Hi sunt unitatis
+divisores, inimici pacis charitatis expertes, vanitate
+tumentes, placentes sibi, et magni in oculis suis,
+ignorantes Dei justitiam, et suam volentes constituere.
+Et quae major superbia, quam ut unus homo
+toti congregationi judicium suum praeferat, tanquam
+ipse solus habeat Spiritum Dei? <hi>Idololatriae scelus est
+non acquiescere, et quasi peccatum ariolandi repugnare <note>(I Reg. XV, 23)</note>
+          </hi>.
+Eant nunc qui se faciunt religiosiores
+aliis, qui non sunt sicut caeteri hominum.
+Ecce arioli et idololatrae facti sunt, si tamen vel ei
+qui dixit hoc, plus quam sibi judicant esse credendum.
+Neque huic dissonat Veritatis sermo, quem
+<pb n="0291A"/>
+dixit: <hi>Si ecclesiam non audierit, sit tibi sicut ethnicus
+et publicanus <note>(Matth. XVIII, 17)</note>
+          </hi>. Sed ubi poterit
+haec lepra mundari, nisi in Jordane? Ibi mergere, quicunque
+hujusmodi es, et attende quid fecerit magni
+consilii angelus, quomodo consilium suum postposuerit
+consilio, vel magis voluntati mulieris unius: beatam
+Virginem loquor; et fabri pauperis; ipse est Joseph.
+Inventus enim in medio doctorum, audiens eos et
+interrogans, quodammodo increpatus a Matre est: <hi>Fili, quid fecisti nobis sic?</hi> 
+ At ille: <hi>Quid erat,</hi> inquit, <hi>quod me quaerebatis? Nesciebatis quia in his
+quae Patris mei sunt, oportet me esse? At illi non intellexerunt
+verbum.</hi> 
+ Et quid fecit Verbum? Non capiebatur
+in se: <hi>descendit,</hi> ita ut esset etiam <hi>subditus
+illis <note>(Luc. II, 46-51)</note>
+          </hi>. Quis jam non erubescat obstinatus
+<pb n="0291B"/>
+esse in consilio suo, quando suum Sapientia
+ipsa deseruit? Sic mutavit consilium suum, ut quod
+jam tunc coeperat, ex tunc usque ad tricesimum aetatis
+suae anuum prorsus dimiserit. Nihil enim ab hoc
+duodecimo anno de ejus doctrina vel operibus invenis
+usque ad annos triginta.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Sed forte quaerendum ab ipso est quomodo
+voluntatem suam consiliumve reliquerit. O Domine,
+voluntas, de qua dixisti ut non fieret, si bona non
+erat, quomodo tua erat? si bona erat, quare derelicta
+est? Sic et consilium si non bonum, quomodo
+tuum? si bonum, quomodo relinquendum? Et bona
+erant, et ejus erant: neque minus tamen relinquenda,
+ob hoc videlicet ut fierent meliora. Neque
+<pb n="0291C"/>
+enim oportebat <emph>905</emph> propria praejudicare communibus.
+Erat ergo voluntas Christi, et bona erat, quae
+dicebat: <hi>Si fieri potest, transeat a me calix iste <note>(Matth. XXVI, 59)</note>
+          </hi>.
+Sed ea de qua dicebat: <hi>Fiat voluntas
+tua <note>(Luc. XXII, 42)</note>
+          </hi>, melior erat; quia communis
+non solum Patris, sed et Christi ipsius (oblatus
+est enim, quia ipse voluit), et nostra. Nisi enim
+granum frumenti cadens in terram mortuum esset,
+ipsum solum maneret; mortuum vero multum fructum
+attulit. Atque haec voluntas Patris erat, ut
+videlicet haberet quos adoptaret in filios; Christi
+erat, ut sit ipse primogenitus in multis fratribus;
+nostra erat, quia pro nobis faciebat ut redimeremur.
+De consilio idem dicimus. Christi enim erat, et bonum
+erat consilium illud quod ait: <hi>Quia in his quae
+Patris mei sunt, oportet me esse.</hi> Sed quia illi non
+<pb n="0291D"/>
+intellexerunt, mutavit illud consilium, ut nos mundaret
+<pb n="0292A"/>
+ab ea lepra, quae proprii consilii est. Exemplum
+enim dedit nobis, ut et nos ita faciamus. Nam
+ab initio noverat quid esset facturus: sed voluit
+formam nobis hujus humilitatis exhibere, et ad lavandam
+pessimam hanc lepram divinum in se ipso
+parare Jordanem. Audiant igitur utrique pariter,
+qui propriae voluntatis, et qui proprii consilii lepra
+sordent: audiant quid Spiritus dicat Ecclesiis,
+brevi uno versiculo lepram utramque condemnans: <hi>Sapientia,</hi> 
+ ait, <hi>quae desursum est; primum quidem
+pudica est,</hi> contra propriae voluntatis impuritatem; <hi>deinde pacifica 
+ <note>(Jac. III, 17)</note>
+          </hi>, contra consilii proprii
+obstinatam rebellionem.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Cum ab his septem purgatus fuerit aeger, tanquam
+post septem cellas quaerat septem fercula, quae
+<pb n="0292B"/>
+sunt septem Spiritus sancti dona. Porro, sicut in vita
+Domini ante passionem septem purgationes invenimus,
+sic et in apparitionibus septem quae post resurrectionem
+factae leguntur, septem illa dona Spiritus
+sancti possumus invenire. In prima spiritum timoris
+accipe, quando mulieribus sanctis venientibus descendit
+angelus de coelo, et terraemotus factus est,
+ita ut ipsas timore perterritas oportuerit ab angelo
+consolari <note>(Matth. XXVIII, 2-10)</note>. In spiritu pietatis
+apparuit Simoni <note>(Luc. XXIV, 34)</note>, quia magna omnino,
+et vere Domino Jesu digna pietatis dignatio, quod ei
+quasi singulariter et ante caeteros dignatus est apparere,
+quem prae caeteris de negatione ejus rea conscientia
+confundebat, ut ubi abundavit delictum,
+superabundaret et gratia. In spiritu scientiae duobus
+<pb n="0292C"/>
+pergentibus in Binmaus Scripturas exposuit, incipiens
+a Moyse et prophetis <note>(ibid. 27)</note>. In spiritu fortitudinis
+januis clausis intravit, ostendens manus et
+latus <note>(Joan. XX, 19, 20)</note>, sicut solent in signum virtutis
+clypeorum foramina demonstrari. In spiritu
+consilii frustra in piscatione laborantes mittere in
+dexteram rete consuluit <note>(Joan. XXI, 6)</note>. In spiritu
+intellectus aperuit illis sensum, ut intelligerent Scripturas <note>(Luc. XXIV, 45)</note>.
+In spiritu sapientiae die quadragesima
+apparuit eis, quando videntibus illis elevatus
+est <note>(Act. I, 9)</note>, et viderunt Filium hominis
+ascendentem ubi erat prius. Usque ad illam enim
+diem quasi per stultitiam praedicationis salvos faciebat
+credentes postquam vero coram eis ascendit
+ad Patrem, jam coepit sapientia declarari.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

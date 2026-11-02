@@ -1,0 +1,614 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Dominica VI post Pentecosten</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.DoViPoP</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>SERMO I. <hi>De evangelica lectione, ubi turba triduo sustinens Dominum septem panibus reficitur <note>(Marc. VIII, 19)</note>
+          </hi>.</head>
+
+<pb n="0337A"/>
+<div3>
+          <head>1.</head>
+          <p>
+ <hi>Misereor super turbam, quia jam triduo sustinent
+<pb n="0337B"/>
+me, nec habent quod manducent.</hi> Evangelium,
+fratres, ob hoc scriptum est, ut legatur; nec ob
+aliud legitur, quam ut rationabilem consolationem
+vel desolationem exinde capiamus. Est enim saecularibus
+consolatio vana de terrenarum affluentia
+rerum, vana nihilominus de earum penuria desolatio.
+At Evangelium, speculum veritatis, nemini
+blanditur, nullum seducit. Talem in eo se quisque
+reperiet, qualis fuerit: ut nec ibi timore trepidet,
+ubi non est timor; nec laetetur cum male fecerit.
+Sed quid dicit Scriptura? <hi>Si quis auditor est verbi,
+et non factor, hic comparabitur viro consideranti
+vultum nativitatis suae in speculo. Consideravit enim
+se, et abiit, et statim oblitus est qualis fuerit <note>(Jac.
+I, 23, 24)</note>
+          </hi>. Nos autem, fratres, non sic, obsecro, non
+<pb n="0337C"/>
+sic; sed consideremus nosmetipsos in ipsa, quam
+audivimus, sacri Evangelii lectione, ut proficiamus
+ex ea, et corrigamus secundum eam, si qua in
+nobis deprehendamus corrigenda. Propter hoc enim
+optat Propheta dirigi vias suas, ad custodiendas
+justificationes Domini: <hi>Tunc,</hi> inquiens, <hi>non confundar,
+cum perspexero in omnibus mandatis tuis <note>(Psal.
+CXVIII, 5, 6)</note>
+          </hi>. Et ego quidem non confundor, sed
+glorior pro vobis, fratres mei, quoniam Salvatorem
+in deserto secuti, securi existis ad eum extra castra;
+sed vereor ne quis forte in triduana exspectatione
+pusillanimis inveniatur, et in Aegyptum
+saeculi hujus nequam vel corde, vel etiam et corpore
+revertatur. Merito proinde clamat divina Scriptura,
+<pb n="0337D"/>
+et dicit: <hi>Exspecta Dominum, viriliter age,
+et confortetur cor tuum, et sustine Dominum <note>(Psal.
+XXVI, 14)</note>
+          </hi>. Sed quandiu necesse est sustinere?
+Prorsus donec misereatur tui. Quaeris quando? <hi>Misereor,</hi> 
+inquit, <hi>super turbam, quia jam triduo sustinent
+me.</hi> </p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Viam enim trium dierum eas necesse est in
+deserto, si gratum Deo tuo offerre volueris sacrificium;
+et triduo sustineas Salvatorem, si miraculi
+panibus desideras satiari. Prima est dies timoris;
+dies, inquam, declarans et illuminans tenebras tuas,
+interiores scilicet, et horrendum gehennae supplicium
+demonstrans, in quo sunt tenebrae exteriores.
+Hujuscemodi siquidem cogitatio, sicut ipsi nostis,
+nostrae solet exercere primordia conversionis. Secunda
+<pb n="0338A"/>
+est pietatis dies, qua respiramus in luce
+miserationum Dei. Tertia dies est rationis, in qua
+veritas innotescit, ut tanquam ex debito quodam
+naturae sine aliqua contradictione Creatori subjecta
+sit creatura, servus serviat Redemptori. Exhinc
+<pb n="0338B"/>
+jubemur jam discumbere, ut charitas ordinetur in
+nobis; exhinc aperit Dominus manum suam, et
+implet omne animal benedictione. Verum quoniam
+apostolis dicitur: <hi>Facite homines discumbere;</hi> quorum
+nos, licet ad confusionem nostram, habetis
+vicarios qualescunque, discumbere <emph>939</emph> vos admonemus,
+fratres charissimi, ut refecti pane benedictionis
+subsistere possitis in via; ne forte misera
+necessitate compulsi descendatis et vos in Aegyptum,
+et incipiant vobis illudere, qui necdum vobis
+cum in deserto secuti sunt Salvatorem. Miseri
+sane et ipsi, qui non exiere cum exeuntibus; sed
+plane miserabiliores omnibus hominibus, qui profecti
+quidem cum aliis, sed non cum aliis sunt
+refecti.
+<pb n="0338C"/>
+</p>
+        </div3>
+<div3>
+          <head>3. </head>
+          <p>
+Porro si fuere qui, discumbentibus aliis, post
+dumeta seu diversoria quaevis absconditi latuere,
+homines ejusmodi jejunos vacuosque remansisse
+quis nesciat? Sic et eos nihilominus, qui levitate et
+curiositate ducti, circumquaque vagantes, minime
+resederunt; aut si qui resederunt quidem, sed non
+in ordine, nec in numero caeterorum. Hortamur
+proinde charitatem vestram et pastorali sollicitudine
+admonemus, ne quis ex vobis inveniatur angulos
+amare, sectari latebras, quaerere diverticula;
+quoniam qui male agit, odit lucem, et non venit ad
+lucem, ut non arguantur opera ejus <note>(Joan. III, 20)</note>.
+Sed nec inveniantur in vobis, qui circumferantur
+omni vento doctrinae, instabiles et inquieti, nihil
+<pb n="0338D"/>
+in se soliditatis, nihil gravitatis habentes, tanquam
+pulvis, quem projicit ventus a facie terrae. Nam
+de his quid dicam, quorum manus contra omnes,
+et manus omnium contra ipsos? Hi sunt qui separant
+semetipsos, animales, spiritum non habentes;
+quoniam nemo in spiritu Dei loquens dicit anathema
+Jesu <note>(I Cor. XII, 3)</note>. Nequissima plane et
+perniciosissima pestis; quoniam universos unius
+obstinatio turbat, et fit omnibus discordiae fomes,
+materia scandalorum. Denique Prophetam audi,
+qui de vinea Domini loquens: <hi>Singularis,</hi> inquit, <hi>ferus depastus est eam 
+ <note>(Psal. LXXIX, 14)</note>
+          </hi>. Pro hujusmodi
+rogo et obsecro vos, fratres mei, fugite simulationem
+omnem, et angulos propriae voluntatis:
+fugite inquietudinem et spiritum levitatis; fugite
+<pb n="0339A"/>
+obstinationem, et nequissimum vitium singularitatis:
+nisi forte, quod absit! fraudare vultis animas
+vestras panis edulio benedicti.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Jam vero, ne longius protraham vos, septem
+panes quibus reficiamini, isti sunt. Primus panis,
+verbum Dei; in quo vita hominis est, sicut et ipse
+testatur <note>(Luc. IV, 4)</note>. Secundus panis, obedientia
+est; quoniam <hi>meus cibus est,</hi> inquit, <hi>ut faciam voluntatem
+ejus qui misit me <note>(Joan. IV, 34)</note>
+          </hi>. Tertius
+panis, meditatio sancta, de qua scriptum est: <hi>Cogitatio
+sancta conservabit te <note>(Prov. IV, 6)</note>
+          </hi>; et aeque
+alio in loco nominari videtur panis vitae et intellectus <note>(Eccli. XV, 3)</note>.
+Quartus panis, orantium lacrymae.
+Quintus vero, poenitentiae labor est. Nec
+miraberis, quod laborem aut lacrymas panem dixerim,
+<pb n="0339B"/>
+nisi forte excidit tibi quod in Propheta legisti: <hi>Cibabis nos pane lacrymarum 
+ <note>(Psal. LXXIX,
+6)</note>
+          </hi>: et item in alio psalmo: <hi>Labores,</hi> inquit, <hi>manuum
+tuarum quia manducabis, beatus es et bene tibi erit <note>(Psal. CXXVII, 2)</note>
+          </hi>.
+Sextus panis est jucunda unanimitas
+socialis; panis, inquam, ex diversis granis confectus,
+fermentatusque gratia Dei [ <hi>alias,</hi> utique sapientia
+Dei]. Porro septimus panis est eucharistia; quoniam <hi>panis,</hi> 
+ inquit, <hi>quem ego do, caro mea est pro
+mundi vita <note>(Joan. VI, 52)</note>
+          </hi>.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>SERMO II. <hi>De septem misericordiis.</hi> </head>
+<div3>
+          <head>1.</head>
+          <p>
+ <hi>Misericordias Domini in aeternum cantabo <note>(Psal. LXXXVIII, 2)</note>
+          </hi>.
+Utquid enim mihi insipiens
+nescio quae cogitatio de poenitentiae hujus onere
+<pb n="0339C"/>
+murmurat, ut aggravet illud super cervicem meam?
+Aliud onus sentio, suavius quidem, sed ubique
+multo majus. Sic enim onerat me miserationibus
+suis Deus, sic concludit, sic obruit beneficiis suis,
+ut onus aliud sentire non possim. Quid enim retribuam
+Domino pro omnibus quae retribuit mihi?
+Tanta tribuit, et tanta retribuit: et tu mihi de <emph>940</emph> 
+ alio onere loqueris? Deficit spiritus meus,
+prorsus deficit in tanta beneficiorum consideratione.
+Et licet dignas non sufficiam gratias agere, sed
+ingratitudinem prorsus odit anima mea. Peremptoria
+siquidem res est ingratitudo, hostis gratiae,
+inimica salutis. Dico ego vobis, charissimi, quoniam
+pro meo sapere nihil ita displicet Deo, praesertim
+<pb n="0339D"/>
+in filiis gratiae, in hominibus conversionis,
+quemadmodum ingratitudo. Vias enim obstruit gratiae,
+et ubi fuerit illa, jam gratia accessum non invenit,
+locum non habet. Hinc mihi, fratres, tristitia
+magna et dolor continuus est cordi meo, quod
+nonnullos tam pronos ad levitatem, ad risum, ad
+otiosa et ad scurrilia verba tam faciles video:
+ut pertimescam valde, ne forte plus quam expediat,
+divinae misericordiae sint immemores, et ingrati
+tam multis beneficiis suis, aliquando deserantur
+<pb n="0340A"/>
+a gratia, quam non ut gratiam venerantur [ <hi>alias,</hi> 
+habent].</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Nam de eo quid dicam, qui in murmure et
+impatientia obstinato perdurat animo; aut quem
+poenitet adhaesisse Deo, et contra morem, et contra
+rationem, bonum factum poenitentia comitatur, qui
+sine dubio miserationibus Dei non modo non habet
+gratiam, sed et contumeliam reddit? Omnino enim,
+quantum in se est, inhonorat eum a quo vocatus
+est, quisquis in ejus servitio in tristitia permanet
+et rancore; eam dico tristitiam, quae secundum
+carnem est, et mortem operatur. Putas ergo
+quia major illi detur gratia; et non magis etiam
+quod videtur habere, auferatur ab eo? Nonne enim
+jure perditum reputatur, quod ingrato donatum est?
+<pb n="0340B"/>
+aut dedisse non poenitet, quod periisse videtur?
+Oportet proinde gratum esse hominem et devotum,
+qui percepta gratiae munera non modo manere sibi
+desiderat, sed et multiplicari. Nemo sane est qui
+non facile, si quaerit, inveniat, unde plurimum sit
+obnoxius Deo, quoniam non est qui se abscondat
+a calore ejus. Sed nos maxime, quos segregavit
+sibi, et assumpsit ad serviendum sibi soli, si juxta
+Apostolum non accipimus spiritum hujus mundi,
+sed spiritum qui ex Deo est, ut sciamus quae a
+Deo donata sunt nobis <note>(I Cor. II, 12)</note>; omnino
+plurima inveniemus, unde continuas ei gratias agere
+debeamus. Quis enim in nobis est, qui non confiteri
+possit, quoniam misericordia tua magna est
+super me? Itaque de tanta multitudine miserationum
+<pb n="0340C"/>
+Domini vobis breviter aliquas proponere
+volo, ut qui sapiens est, occasione accepta sapientior fiat.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Septem ego in me video misericordias Domini,
+quas et vos ipsi, credo, facile invenietis in vobis.
+Prima est, quod a multis peccatis adhuc in
+saeculo positum custodivit me; prima quidem, inquam,
+non inter omnes quas mihi impendit, sed
+prima inter has septem. Quis enim non videat quod
+sicut in multa cecidi, sic et in alia cecidissem peccata,
+nisi Omnipotentis pietas me conservasset?
+Fateor et fatebor, nisi quia Dominus adjuvit me,
+paulo minus cecidisset in omne peccatum anima
+mea. Et haec quanta dignatio pietatis, quod ingratum
+<pb n="0340D"/>
+et parvipendentem sic gratia conservabat, quod
+in multis contrarium et contemnentem nihilominus
+ab aliis benignissime protegebat? At secunda miseratio
+tua super me, Domine, quonam poterit
+explicari sermone, quam benigna, quam liberalis,
+quamque gratuita fuerit? Ego peccabam, et tu
+dissimulabas; non continebam a sceleribus, et tu
+a verberibus abstinebas. Prolongabam ego multo
+tempore iniquitatem meam; et tu, Domine, pietatem
+tuam. Sed quid prodesset exspectatio, nisi
+<pb n="0341A"/>
+sequeretur poenitudo? Cumulus esset damnationis,
+dicente Domino: <hi>Haec fecisti, et tacui <note>(Psal.
+XLIX, 21)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Tertia proinde miseratio fuit, quod visitavit
+cor meum et immutavit, ut amara fierent quae male
+dulcia prius erant: et qui laetabar cum male facerem,
+et exsultabam in rebus pessimis, inciperem
+demum recogitare ei annos meos in amaritudine
+animae meae. Et nunc, Domine, commovisti terram
+cordis mei, et <emph>941</emph> conturbasti eam; sana contritiones
+ejus, quia commota est. Multi enim poenitentia
+ducti sunt, sed infructuosa; quoniam ipsa quoque
+eorum poenitentia reprobata est, sicut et prior culpa.
+Itaque et haec miseratio quarta fuit, quod poenitentem
+misericorditer suscepisti, ut in eorum numero invenirer,
+<pb n="0341B"/>
+de quibus Psalmista: <hi>Beati,</hi> inquit, <hi>quorum
+remissae sunt iniquitates, et quorum tecta sunt peccata <note>(Psal. XXXI. 1)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Sequitur misericordia quinta, per quam mihi
+continendi deinceps, et emendatius vivendi praestitisti
+virtutem, ne recidivum paterer, et esset novissimus
+error pejor priore. Omnino enim manifeste
+tuae est, Domine Deus, et non humanae virtutis,
+susceptum semel peccati jugum a cervicibus suis
+excutere; quoniam omnis qui facit peccatum, servus
+est peccati <note>(Joan. VIII, 34)</note>, nec est jam liberari nisi
+in manu forti. Jam vero postquam in his quinque
+miserationibus a malo liberaveris, ut fiat quod
+scriptum est: <hi>Declina a malo, et fac bonum (Psal.
+<pb n="0341C"/>
+XXXIII, 15)</hi>: in duabus aliis bona largiris. Hae autem
+duae sunt: gratia promerendi, qua videlicet manus
+bonae conversationis indulges; et spes obtinendi,
+qua donas homini indigno et peccatori de tua toties
+experta bonitate usque ad coelestia speranda praesumere.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>SERMO III. <hi>De fragmentis septem misericordiarum.</hi> </head>
+<div3>
+          <head>1.</head>
+          <p>
+ Scitis quid fecerim, septem vobis hodie misericordias
+proponendo? Septem utique panes distribui.
+Nam si factae sunt mihi lacrymae meae panes
+die ac nocte, quanto magis divinae miserationes?
+Multo enim dulcius istae sapiunt, reficiunt multo
+melius, ampliusque confirmant cor hominis. Verum
+multa nobis, ni fallor, ex his panibus hodie cecidere
+<pb n="0341D"/>
+fragmenta. Nam et ego ipse sentiebam inter frangendum
+multas e manibus evadere micas, atque
+inter digitos properantis elabi: utrum ipsi collegetitis
+aliqua, vos videritis. Ego, si nondum fastiditis,
+nostra, quae mihi collegeram, sine invidia communicabo,
+ne forte incurram maledictionem abscondentis
+frumenta in populis <note>(Prov. XI, 26)</note>. Primus
+itaque panis, si bene memini, conservatio gratiae
+fuit, quae me, licet indignum, a multis peccatis
+prorsus adhuc in saeculo positum custodivit. Hujus
+ergo tria teneo fragmenta, habentia magnum prorsus
+delectamentum saporis et alimoniam vitae. Tribus
+siquidem modis a peccato memini me conservatum:
+occasionis subtractione, resistendi data virtute,
+affectionis sanitate. Multa enim in peccata facile cecidissem,
+<pb n="0342A"/>
+si data esset occasio; sed, Dei miseratione,
+non me talis opportunitas apprehendit. In multa
+quoque paulo minus cecidissem, graviter impulsus
+violentia tentationis; sed virtutem dedit Dominus
+rex virtutum, ut sub me esset appetitus meus, et ei
+quam sentiebam concupiscentiae minime consentirem.
+Sed a quibusdam tam longe me fecit miseratio
+tua, Domine, ut penitus abominarer ea, et ne ulla
+quidem eorum me tentatio molestaret.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Secundus quoque panis fuit exspectatio, qua
+tardabat ultionem, quia indulgentiam cogitabat. Et
+hujus ergo panis tria fragmenta accipite, cogitantes
+longanimitatem quam exhibuit, electionem praedestinationis
+suae quam impleri voluit, et charitatem
+nimiam qua me dilexit. Propter hoc enim exspectans
+<pb n="0342B"/>
+exspectavit me Dominus, et non intendit mihi, sed
+oculos suos avertit a peccatis meis, quasi nolens
+advertere quantum delinquerem. Propter hoc, inquam,
+dissimulabat ut commendaret patientiam
+suam, ut impleret electionem suam, ut confirmaret
+charitatem suam.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ De tertio quoque pane, ejus scilicet misericordiae
+qua convertit nos ad poenitentiam, tria non tam
+fragmenta quam frusta vobis appono. Tunc enim, ut
+bene memini, concussit cor meum, excitans illud ut
+adverteret <emph>942</emph> suorum vulnera peccatorum, et
+vulnerum sentiret dolorem. Etiam et terruit, deducens
+ad portas inferi, et praeparata iniquis supplicia
+monstrans. Et ut nihil jam noxiae remaneret delectationis,
+<pb n="0342C"/>
+meliorem mihi consolationem inspirans,
+spem indulgentiae dedit. In his ergo tribus conversus
+sum: credo quod et vos ipsi.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Jam vero quarti panis (ipsa est indulgentia),
+obsecro vos, diligenter colligite fragmenta, ne pereant.
+Sunt enim salubria valde, et dulciora super
+mel et favum. Sic nimirum ex toto indulsit, et tam
+liberaliter omnem donavit injuriam, ut jam nec damnet
+ulciscendo, nec confundat improperando, nec
+minus diligat imputando. Sunt enim aliqui sic donantes
+injuriam, ut non ulciscantur, saepius tamen
+improperent. Sunt et alii, qui licet sileant, manet
+tamen alta mente reposta, et rancorem tenent in
+animo: quarum utique neutra plena indulgentia est.
+Longe ab his omnibus benignissima est divinitatis
+<pb n="0342D"/>
+natura. Liberaliter agit, ignoscit plenarie, ita ut
+propter fiduciam peccatorum, sed poenitentium, ubi
+abundavit delictum, soleat et gratia superabundare.
+Testis est Paulus gentium doctor, qui plus omnibus
+cum divina gratia laboravit. Testis est Matthaeus, de
+telonio electus in apostolum, cui etiam Novi Testamenti
+primum scriptorem esse donatum est. Testis
+et Petrus, cui post trinam negationem, totius Ecclesiae
+pastoralis cura commissa est. Testis denique
+etiam famosissima illa peccatrix, cui in ipso conversionis
+initio tanta multitudo dilectionis concessa est,
+tanta postmodum indulta gratia familiaritatis. Quis
+accusavit Mariam, et pro se eam oportuit respondere?
+Si Pharisaeus murmurat, si Martha conquenitur,
+si scandalizantur apostoli, Maria tacet; Christus
+<pb n="0343A"/>
+excusat eam, etiam et laudat tacentem. Denique
+illud quantae praerogativae, quantae excellentiae fuit,
+quod resurgentem a mortuis prima videre, prima tangere
+meruit?</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Sed jam transeamus ad alia. Bonum quidem
+est nos hic esse, ubi datur fiducia peccatoribus; sed
+oportet etiam caetera non tacere. Itaque et in continentia
+ipsa, quae est panis quintus, tria nihilominus
+invenio, unde merito clamare possim: <hi>Quia fecit
+mihi magna qui potens est <note>(Luc. I, 49)</note>
+          </hi>. Forte parvum
+aliquid reputatis continentiam vestram; sed ego non
+ita. Scio enim quos habeat oppugnatores, et quantae
+illam necesse sit esse virtutis, ut possit resistere
+talibus. Primus siquidem continentiae nostrae hostis
+caro est, adversus spiritum concupiscens. Quam
+<pb n="0343B"/>
+domesticus hostis! quam periculosa lucta! quam
+intestinum bellum! Hostem hunc crudelissimum nec
+fugere possumus, o anima mea, nec fugare; circumferre
+illum necesse est, quoniam alligatus est nobis:
+nam, quod periculosius est et miserabilius, hostem
+nostrum ipsi cogimur sustentare, perimere eum non
+licet. Vide ergo quam sollicite te custodire necesse
+sit ab ea, quae dormit in sinu tuo. Verumtamen non
+est hic solus adversarius mihi; alium adhuc habeo,
+qui circumcinxit et obsedit me undique: et si ignoratis,
+hostis ille est praesens saeculum nequam. Conclusit
+inimicus vias meas, et per quinque portas,
+quinque videlicet corporis sensus, jaculis suis vulnerat
+me [ <hi>alias,</hi> appetit me], et mors intrat per fenestras
+meas. Sufficere nimis poterant isti duo: sed,
+<pb n="0343C"/>
+heu me! ecce video ventum validum venientem ab
+aquilone, a quo panditur omne malum. Et nunc quid
+superest aliud? <hi>Domine, salva nos, perimus <note>(Matth.
+VIII, 25)</note>
+          </hi>. Ecce enim malleus universae terrae; ecce
+serpens, callidior cunctis animantibus; ecce inimicus
+ille, quem nec videre possum: quanto minus cavere?
+Neque enim est colluctatio servare volentibus
+continentiam: continentiam autem dico non a sola
+luxuria, sed a caeteris quoque, sicut necesse est,
+vitiis et peccatis: non est illis colluctatio adversus
+carnem et sanguinem tantum, sed adversus principes
+et potestates, adversus mundi rectores tenebrarum
+harum, contra spiritualia nequitiae in coelestibus <note>(Ephes. VI, 12)</note>.
+Et quis est qui jacula <emph>943</emph> 
+<pb n="0343D"/>
+eorum ignea possit exstinguere? <hi>Paraverunt</hi> enim <hi>sagittas suas in pharetra, ut sagittent in obscuro rectos
+corde 
+ <note>(Psal. X, 3)</note>
+          </hi>; sed et <hi>narraverunt ut absconderent
+laqueos,</hi> et <hi>dixerunt: Quis videbit eos? <note>(Psal. LXIII, 6.)</note>
+          </hi> 
+Nunc quidem aperte et violenter, nunc occulte et
+fraudulenter, semper autem malitiose et crudeliter
+<pb n="0344A"/>
+impugnant et persequuntur nos. Et ad haec toleranda,
+ne dicam superanda, quis idoneus? Credo jam vobis
+aliquatenus innotescit continentiae difficultas, ut
+juxta Apostolum sciatis quae a Deo donata sunt vobis <note>(I Cor. II, 12)</note>.
+Omnino enim in Domino facimus
+hanc virtutem, et ipse ad nihilum deducit tribulantes
+nos. Ipse est qui non modo carnem nostram cum
+concupiscentiis suis, sed et praesens saeculum nequam
+cum curiositatibus et vanitatibus suis, etiam
+et ipsum cum tentationibus suis conterit Satanam
+sub pedibus nostris. Nunquid non merito dixeram
+inveniendum in continentia, unde clamarem: <hi>Quia
+fecit mihi magna qui potens est?</hi> </p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Jam vero sexti panis fragmenta accipite. Est
+autem panis iste gratia promerendi, bona scilicet
+<pb n="0344B"/>
+aeternae vitae. Quam gratiam in tribus maxime constare
+arbitror: in odio praeteritorum malorum, et
+contemptu praesentium honorum, et desiderio futurorum.
+Septimus quoque panis est spes obtinendi,
+cujus nihilominus teneo fragmenta tria; et eoram
+sapor dulcis admodum gutturi meo. Tria, inquam,
+sunt quae sic roborant et confirmant cor meum, ut
+nulla me penuria meritorum, nulla consideratio
+propriae vilitatis, nulla aestimatio coelestis beatitudinis,
+ab altitudine spei dejicere possit in ea firmiter
+radicatum. Desideratis ea, an reservanda sunt
+propter eum qui dixit: <hi>Mel invenisti? comede quod
+sufficit tibi <note>(Prov. XXV, 16)</note>
+          </hi>. Sic completur quotidie
+quod de se ipsa Sapientia prophetavit: et nunc
+idipsum video, quoniam <hi>qui edunt me,</hi> ait, <hi>adhuc
+<pb n="0344C"/>
+esurient <note>(Eccli. XXIV, 29)</note>
+          </hi>. Proinde non vos protraham
+ultra, sed nec vestram fraudabo esuriem; quoniam
+quidem sic paratos vos video, ac si necdum sumpseritis
+quidquam. Tria considero, in quibus tota spes
+mea consistit: charitatem adoptionis, veritatem
+promissionis, potestatem redditionis. Murmuret
+jam, quantum voluerit, insipiens cogitatio mea, dicens:
+Quis enim es tu, aut quanta est illa gloria,
+quibusve meritis hanc obtinere speras? Et ego
+fiducialiter respondebo: Scio cui credidi, et certus
+sum quia in charitate nimia adoptavit me, quia
+verax in promissione, quia potens in exhibitione:
+licet enim ei facere quod voluerit. Hic est funiculus
+triplex qui difficile rumpitur, quem nobis a
+<pb n="0344D"/>
+patria nostra in hunc carcerem usque demissum
+firmiter, obsecro, teneamus: ut ipse nos sublevet,
+ipse nos trahat et pertrahat usque ad conspectum
+gloriae magni Dei, qui est benedictus in saecula,
+Amen.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,877 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>In Quadragesima</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.InQua</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>SERMO III. <hi>De jejunio Quadragesimae.</hi> </head>
+
+<pb n="0173D"/>
+<div3>
+          <head>1.</head>
+          <p>
+ Rogo vos, dilectissimi, tota devotione suscipite
+quadragesimale jejunium, quod non sola abstinentia
+commendat, sed multo magis sacramentum. Nam si
+devote usque modo jejunavimus, utique sancto hoc
+<pb n="0174D"/>
+tempore jejunandum nobis est multo devotius. Si
+quid enim additur ad solitum abstinentiae modum,
+nunquid non valde indignum est, ut nobis onerosum
+sit quod Ecclesia portat universa nobiscum? Hactenus
+usque ad nonam jejunavimus soli: nunc usque
+ad vesperam jejunabunt nobiscum pariter universi,
+<pb n="0175A"/>
+reges et principes, clerus et populus, nobiles et ignobiles,
+simul in unum dives et pauper. Haec idcirco
+dixerim, fratres, ne quis forte turbetur a pusillanimitate
+spiritus, et jejunium praesens minori devotione
+suscipiat, dum se fortassis meminerit prioris
+quoque jejunii pondus satis difficile tolerasse. Hoc
+enim quantum potest laborat adversarius noster, ut
+holocaustum nostrum devotionis pinguedine vacuetur,
+ut et minus acceptum sit Deo, et conscientia
+nostra in spirituali gaudio minus exhilaretur: sicque
+de pusillanimitate tolerantiae, etiam conscientiae
+pusillanimitas generetur. Cujus astutias non ignorantes,
+tota, obsecro, adversus eum sollicitudine
+vigilemus: et quia hilarem datorem diligit Deus, et
+ipsa quoque conscientia nostra ampliori exinde
+<pb n="0175B"/>
+fiducia sublevatur; ut devotiora sint nostra jejunia,
+sollicite nobis totius Ecclesiae proponamus
+exempla.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Sed quid de his loquor, quos habemus in hac
+jejunii observatione consortes? quasi non multo
+excellentiores habeamus in ea duces, imo et consecratores.
+Quanta devotione suscipiendum est nobis,
+quod a sancto Moyse tanquam haereditario jure traditur <note>(Exod. XXXIV, 28)</note>,
+cui speciali prae caeteris
+prophetis praerogativa, facie ad faciem Dominus loquebatur? <note>(Exod. XXXIII, 11.)</note> 
+ Quanto fervore amplectendum
+est, quod Elias ille commendat <note>(III Reg.
+XIX, 8)</note>, igneo curru raptus in coelum? <note>(IV Reg. II,
+11.)</note> Ecce enim quam multa millia a diebus illis
+<pb n="0175C"/>
+generalis conditio mortis invasit: Elias tamen usque
+adhuc, conservante Domino, manus ejus evasit. Jam
+vero si commendant jejunium praesens Moyses et
+Elias, quamvis magni, tamen conservi nostri; quantum
+commendat illud Jesus Dominus noster, qui et
+ipse diebus totidem jejunavit? <note>(Matth. IV, 2.)</note> Qualis
+ille est, non dicam monachus, sed Christianus, qui
+minus devote jejunium suscipit, quod ei tradidit ipse
+Christus? Denique tanto devotius imitandum nobis
+est, dilectissimi, Christi jejunantis exemplum, quanto
+certius est propter nos eum jejunasse, non propter
+se ipsum.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Jejunemus ergo, charissimi, et devote jejunemus
+sancto hoc Quadragesimae tempore: ita sane ut
+noverimus quadragesimam nostram non solos quadraginta
+<pb n="0175D"/>
+dies habere. Continuanda enim nobis est
+quadragesima <emph>820</emph> cunctis diebus miserae hujus
+vitae, dum per auxilium gratiae (quae in quatuor
+Evangeliis commendatur) necesse est nos Decalogum
+legis implere. Errant plane qui paucissimos dies istos
+ad poenitentiam sufficere credunt, cum certum sit
+totum vitae hujus tempus nonnisi ad poenitentiam
+institutum. <hi>Quaerite Dominum,</hi> ait propheta, non solum
+quadraginta diebus, sed <hi>dum inveniri potest;
+invocate eum, dum prope est <note>(Isai. LV, 6)</note>
+          </hi>. Neque
+enim tunc erit invocandi tempus, quando nemini
+proximus erit Deus; sed aliis quidem praesens, aliis
+vero nimis valde remotus. Interim sane ex eo quod
+proximus dicitur, manifestum est quod nondum habetur:
+sed tamen haberi, et inveniri facile potest.
+<pb n="0176A"/>
+Quis tibi videtur proximus fuisse illi qui incidit in
+latrones? Utique qui fecit cum eo misericordiam <note>(Luc. X, 36, 37)</note>.
+Ergo quia toto hoc tempore misericordiae
+proximus est, <hi>quaerite Dominum,</hi> charissimi, <hi>dum inveniri potest; invocate eum, dum prope
+est.</hi> </p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Verumtamen praesenti Quadragesima majore
+nobis est fervore quaerendus, quae non solum pars,
+sed et sacramentum est totius temporis hujus.
+Propterea si forte diebus caeteris studia nostra aliquatenus
+intepuerant, dignum est ut nunc in fervore
+spiritus recalescant. Quod si gula sola peccavit, sola
+quoque jejunet, et sufficit. Si vero peccaverunt et
+membra caetera, cur non jejunent, et ipsa? Jejunet
+ergo oculus, qui depraedatus est animam; jejunet
+<pb n="0176B"/>
+auris, jejunet lingua, jejunet manus, jejunet etiam
+anima ipsa. Jejunet oculus a curiosis aspectibus et
+omni petulantia, ut bene humiliatus coerceatur in
+poenitentia, qui male liber vagabatur in culpa. Jejunet
+auris nequiter pruriens a fabulis et rumoribus,
+et quaecunque otiosa sunt, et ad salutem minime
+pertinentia. Jejunet lingua a detractione et murmuratione,
+ab inutilibus, vanis atque scurrilibus verbis:
+interdum quoque, ob gravitatem silentii, et ab
+ipsis quae videri poterant necessaria. Jejunet manus
+ab otiosis signis, et ab operibus omnibus, quaecunque
+non sunt imperata; sed et multo magis anima ipsa
+jejunet a vitiis, et propria voluntate sua. Etenim
+sine jejunio haec caetera a Domino reprobantur, sicut
+<pb n="0176C"/>
+scriptum est, quia <hi>in diebus jejuniorum vestrorum
+voluntates vestrae inveniuntur <note>(Isai. LVIII, 3)</note>
+          </hi>.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>SERMO IV <hi>De oratione et jejunio.</hi> </head>
+<div3>
+          <head>1.</head>
+          <p>
+ Quia jejunii quadragesimalis tempus advenit,
+quod tota devotione suscipere moneo charitatem
+vestram; dignum reor aliquatenus exponere, quo
+fructu, et quemadmodum oporteat jejunare. Primum
+quidem, fratres, pro eo quod ab ipsis quoque licitis
+abstinemus, ea nobis, quae prius commisimus, illicita
+condonantur. Quid vero est condonari commissa,
+nisi jejunio brevi jejunia redimi sempiterna? Gehennam
+enim meruimus, ubi nullus unquam cibus
+est, consolatio nulla, terminus nullus; ubi guttam
+aquae dives postulat, et accipere non meretur <hi>(Luc.
+<pb n="0176D"/>
+XVI, 24-26)</hi>. Bonum ergo et salutare jejunium, quo
+redimuntur jejunia sempiterna et supplicia, dum
+redimuntur [ <hi>alias,</hi> remittuntur] hoc modo peccata.
+Non solum autem abolitio est peccatorum, sed exstirpatio
+vitiorum; non solum obtinet veniam, sed et
+promeretur gratiam; non solum delet peccata praeterita
+quae commisimus, sed et repellit futura quae
+committere poteramus.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Dicam et unum adhuc quod facile capiatis,
+saepius, ni fallor, experti. Jejunium orationi devotionem
+et fiduciam donat. Et vide quemadmodum
+sibi invicem jejunium et oratio socientur, sicut
+scriptum est: <hi>Frater adjuvans fratrem, ambo consolabuntur <note>(Prov. XVIII, 19)</note>
+          </hi>.
+Oratio virtutem impetrat
+jejunandi, et jejunium gratiam promeretur orandi.
+<pb n="0177A"/>
+Jejunium orationem roborat, oratio sanctificat jejunium,
+et Domino repraesentat. Quid enim jejunium
+nobis proderit, si relinquatur in terra? quod absit.
+Sublevetur ergo jejunium penna quadam <emph>821</emph> orationis.
+Verum huic, ne forte minus sufficiat, alteram
+quoque necesse est sociari. <hi>Oratio justi,</hi> ait Scriptura, <hi>penetrat coelos 
+ <note>(Eccli. XXXV, 20, 21)</note>
+          </hi>. Sint ergo
+jejunio nostro, ut facile coelos penetret, alae duae,
+orationis scilicet atque justitiae. Justitia vero quae
+est, nisi quae cuique reddit quod suum est? Noli ergo
+quasi solum attendere Deum. Debitor enim es etiam
+praelatis, etiam fratribus tuis: nec vult Deus ut parvipendas,
+quos ipse minime parvipendit. Neque enim
+sine causa ait Apostolus: <hi>Providentes bona non
+tantum coram Deo, sed etiam coram hominibus (Rom.
+<pb n="0177B"/>
+XII, 17)</hi>. Dicebas fortasse: Sufficit mihi si tantum
+Deus approbat quod ago; quae mihi de humano cura
+judicio? Sed certus sis quod ei minime placeat,
+quidquid cum scandalo filiorum ejus, et contra ipsius
+feceris voluntatem, cui obedire tanquam ejus
+vicario oportebat. <hi>Sanctificate,</hi> inquit, <hi>jejunium,
+vocate coetum <note>(Joel. III, 15)</note>
+          </hi>. Quid est enim coetum
+vocare? Unitatem servare, diligere pacem, fraternitatem
+amare. Superbus ille Pharisaeus jejunium
+habuit, jejunium sanctificavit, qui nimirum jejunavit
+bis in Sabbato, et gratias egit Deo; sed non vocavit
+coetum, dicens: <hi>Non sum sicut caeteri hominum <note>(Luc. XVIII, 11)</note>
+          </hi>;
+ideoque ala una nitens jejunium
+ejus non pervenit in coelum. Vos ergo, charissimi,
+lavate manus vestras in sanguine peccatoris,
+<pb n="0177C"/>
+et omnino solliciti estote, ut alas duas habeat jejunium
+vestrum, sanctimoniam scilicet et pacem, sine
+qua nemo videbit Deum. <hi>Sonctificate jejunium,</hi> ut
+pura intentio et devota oratio divinae illud offerat
+majestati: <hi>Vocate coetum,</hi> ut congruat unitati: <hi>Laudate
+Dominum in tympano et choro <note>(Psal. CL, 4)</note>
+          </hi>, ut
+concors sit mortificatio carnis.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Porro quia et de jejunio et de justitia aliqua
+diximus, dignum est ut de oratione quoque pauca
+loquamur. Haec enim quanto efficacior est, si fiat ut
+debet; tanto callidius impediri ab adversario solet.
+Interdum enim graviter impeditur oratio a pusillanimitate
+spiritus et timore immoderato. Hoc autem
+tunc solet fieri, cum sic cogitat homo propriam indignitatem,
+<pb n="0177D"/>
+ut non convertat oculos ad divinam benignitatem. <hi>Abyssus enim abyssum invocat 
+ <note>(Psal.
+XLI, 8)</note>
+          </hi>: abyssus luminosa, abyssum tenebrosam;
+abyssus misericordiae, abyssum miseriae. Profundum
+namque est cor hominis, et imperscrutabile. Sed si
+magna est iniquitas mea, multo major est, Domine,
+pietas tua. Ideoque cum ad me ipsum turbata fuerit
+anima mea, memor sum multitudinis misericordiae
+tuae, et respiro in ea: et cum introiero in impotentias
+meas, nolo memorari justitiae tuae solius.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Verumtamen sicut periculum est, si fuerit
+oratio nimis timida; sic in contraria parte non minus,
+imo et majus periculum est, si forte fuerit temeraria.
+<pb n="0178A"/>
+De his qui sic orant, audi quid loquatur
+ad prophetam Dominus. <hi>Clama,</hi> inquit, <hi>ne cesses:
+quasi tuba exalta vocem tuam <note>(Isai. LVIII, 1)</note>
+          </hi>, etc. <hi>Quasi tuba,</hi> 
+ inquit: quia in spiritu vehementi increpandi
+sunt temerarii. Me etenim quaerunt, qui semetipsos
+nondum invenerunt. Nec hoc dico ut peccatoribus
+auferam orandi fiduciam; sed volo eos
+orare, tanquam gentem quae peccatum fecerit, non
+justitiam. Orent pro indulgentia peccatorum suorum
+in animo contrito et spiritu humilitatis, quemadmodum
+Publicanus ille: <hi>Deus,</hi> inquit, <hi>propitius
+esto mihi peccatori <note>(Luc. XVIII, 13)</note>
+          </hi>. Temeritatem
+enim dico, quando is in cujus conscientia peccatum
+adhuc aut vitium aliquod regnat, ambulat in
+magnis et in mirabilibus super se, minus sollicitus
+<pb n="0178B"/>
+pro periculo animae suae. Tertium periculum est, si
+sit oratio tepida, et non ex viva affectione procedens.
+Timida quidem oratio coelum non penetrat,
+quia restringit animum timor immoderatus, ut oratio,
+non dicam non ascendere, sed nec procedere
+queat. Tepida vero in ascensu languescit et deficit,
+eo quod non habeat vigorem. Nam temeraria ascendit,
+sed resilit; resistitur enim ei: nec tantum non
+obtinet gratiam, sed et meretur offensam. Quae vero
+fidelis, et humilis, <emph>822</emph> et fervens oratio fuerit,
+coelum sine dubio penetrabit: unde certum est quod
+vacua redire non poterit.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>SERMO V. <hi>De triplici modo orationis.</hi> </head>
+<div3>
+          <head>1.</head>
+          <p>
+ Charitas, qua pro vobis sollicitus sum, fratres
+<pb n="0178C"/>
+mei, cogit ut loquar vobis: et urgente ea multo
+saepius loquerer, nisi tam multis occupationibus
+impedirer. Nec mirum si sollicitus sum pro vobis,
+cum inveniam in me ipso materiam multam et occasionem
+sollicitudinis. Quoties enim propriam miseriam
+et multimoda pericula cogito, haud dubium
+quin ad me ipsum conturbetur anima mea. Nec minor
+mihi sollicitudo est pro singulis quibusque
+vestrum, si tamen diligo vos tanquam me ipsum.
+Novit ipse qui scrutatur corda, quoties in corde
+meo propriae sollicitudini praeponderat sollicitudo
+vestra. Nec mirum si multa mihi sollicitudo est, et
+timor magnus conturbat me super omnibus vobis,
+quos video in tanta miseria et in tantis constitutos
+<pb n="0178D"/>
+esse periculis. Ipsi enim, ut manifestum est, gestamus
+laqueum nostrum, ubique proprium circumferimus
+inimicum: carnem hanc loquor de peccato
+natam, in peccato nutritam; corruptam nimis ipsa
+origine, sed multo amplius prava consuetudine vitiatam.
+Hinc est quod tam acriter caro adversus
+spiritum concupiscit, quod assidue murmurat, et
+impatiens est disciplinae, quod illicita suggerit, quod
+nec rationi obtemperat, nec inhibetur ullo timore.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Huic accedit, hanc adjuvat, hac utitur ad impugnandos
+nos callidissimus serpens, cui nullum
+aliud desiderium est, nullum studium, nullum negotium,
+nisi effundere sanguinem animarum. Hic est
+<pb n="0179A"/>
+qui jugiter machinatur malum, qui desideria carnis
+instigat, qui concupiscentiae ignem naturalem quodammodo
+venenatis suggestionibus sufflat, illicitos
+motus inflammat; peccati occasiones parat, et mille
+nocendi artibus corda hominum tentare non cessat.
+Hic est qui manus nostras proprio cingulo alligat,
+et, ut dicitur, baculo nostro nos caedit, ut caro quae
+data est in adjutorium, in ruinam nobis et in laqueum
+fiat.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Sed quid prodest indicasse pericula, si nulla
+consolatio, nulla adhibeantur remedia? Grande
+quidem periculum est, et gravis lucta adversus domesticum
+hostem: maxime cum nos advenae simus,
+et ille civis; ille suam inhabitet regionem, nos
+exsules simus, et peregrini. Magnum quoque discrimen,
+<pb n="0179B"/>
+adversus diabolicae fraudis astutias tam crebros,
+imo continuos habere conflictus; quem nec
+videre quidem possumus, et quem nimis astutum
+fecerit tam natura subtilis, quam longa exercitatio
+malitiae ejus. Verumtamen in nobis est, si vinci nolumus:
+et nemo nostrum in hoc certamine dijicitur
+invitus. Sub te est, o homo, appetitus tuus, et tu
+dominaberis illi <note>(Gen. IV, 7)</note>. Potest inimicus excitare
+tentationis motum: sed in te est, si volueris,
+dare seu negare consensum. In tua facultate est, si
+volueris, inimicum tuum facere servum tuum, ut
+omnia tibi cooperentur in bonum. Ecce enim inflammat
+inimicus desiderium cibi, vanitatis aut impatientiae
+cogitationes ingerit, aut excitat libidinis
+<pb n="0179C"/>
+motum: tu solummodo ne consenseris; et quoties
+restiteris, toties coronaberis.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Verumtamen negare non possumus, fratres, molesta
+sunt haec, et periculosa: sed, et in ipso certamine,
+si viriliter resistimus, quaedam pia tranquillitas
+de conscientia bona nascitur. Credo etiam, si
+cogitationes istas quam cito in nobis advertimus,
+non patimur remorari, sed in spiritu vehementi animus
+adversus illas excitatur, quoniam inimicus confusus
+abscedet a nobis, nec tam libenter illico revertetur.
+Sed qui sumus nos, aut quae fortitudo nostra,
+ut tam multis <emph>823</emph> tentationibus resistere valeamus?
+Hoc erat certe quod quaerebat Deus, hoc
+erat ad quod nos perducere satagebat: ut videntes
+defectum nostrum, et quod non est nobis auxilium
+<pb n="0179D"/>
+aliud, ad ejus misericordiam tota humilitate curramus.
+Propterea rogo vos, fratres, ut semper ad manum
+habeatis tutissimum orationis refugium, de qua
+etiam memini me paulo ante in fine sermonis esse
+locutum.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Verumtamen quoties de oratione loquor, verba
+quaedam humanae cogitationis audire mihi videor in
+corde vestro, quae et ab aliis frequenter audivi, et
+nonnunquam expertus sum in corde meo. Quid enim
+est, quod licet nunquam ab oratione cessemus, vix
+unquam experiri videatur aliquis nostrum quis sit
+orationis suae fructus? Sicut ad orationem accedimus,
+sic et redire videmur: nemo nobis respondet
+verbum, nemo quidquam donat, sed laborasse videmur
+incassum. Sed quid in Evangelio dicit Dominus?
+<pb n="0180A"/> <hi>Nolite,</hi> 
+ ait, <hi>judicare secundum faciem, sed justum
+judicium judicate! <note>(Joan. VII, 24.)</note>
+          </hi> Quod est autem
+justum judicium, nisi judicium fidei? Quoniam justus
+ex fide vivit <note>(Habac. II, 4)</note>. Ergo judicium fidei sequere,
+et non experimentum tuum: quoniam fides
+quidem verax, sed experimentum fallax. Quae est
+ergo veritas fidei, nisi quod promittit ipse Filius Dei: <hi>Quidquid orantes petitis, credite quia accipietis, et
+fiet vobis? 
+ <note>(Matth. XXI, 22.)</note>
+          </hi> Nemo vestrum, fratres,
+parvipendat orationem suam. Dico enim vobis quia
+ipse ad quem oramus, non parvipendit eam. Priusquam
+egressa sit ab ore nostro, ipse scribi jubet
+eam in libro suo. Et unum indubitanter e duobus
+sperare possumus, quoniam aut dabit quod petimus,
+aut quod nobis noverit esse utilius. Nos enim quid
+<pb n="0180B"/>
+oremus sicut oportet nescimus: sed miseretur ille
+super ignorantia nostra; et orationem benigne suscipiens,
+quod nobis aut omnino non est utile, aut non
+tam cito dari necesse est, minime tribuit: oratio
+tamen infructuosa non erit.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Ita sane, si fecerimus quod monemur in psalmo,
+id est si delectemur in Domino. Ait enim sanctus
+David: <hi>Delectare in Domino, et dabit tibi petitiones
+cordis tui <note>(Psal. XXXVI, 4)</note>
+          </hi>. Sed quid est, o Propheta,
+quod tam absolute mones delectari in Domino, ac si
+ad manum nobis sit hujusmodi delectatio? Delectationem
+cibi, somni, quietis et caeterorum, quae in
+terra sunt, novimus: Deus autem quam delectationem
+habet, ut in eo delectemur? Fratres mei, saeculares
+hoc dicere possunt, vos non potestis. Quis
+<pb n="0180C"/>
+enim vestrum est qui non saepe expertus sit conscientiae
+bonae delectationem? qui non gustaverit
+saporem castitatis, humilitatis, charitatis? Non est
+haec delectatio potus, neque cibi, aut similis cujuslibet
+rei: delectatio tamen est, et major omnibus
+illis. Divina enim est, et non carnalis delectatio:
+et cum in his delectamur, plane delectamur in Domino.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ Sed causantur multi fortasse quod affectum
+hunc delectabilem et dulciorem super mel et favum
+rarius experiantur, nimirum quia tentationibus interim
+exercentur: multoque virilius agunt, si virtutes
+ipsas non pro delectatione, quam experiantur, sed
+pro virtutibus ipsis et pro solo beneplacito Dei tota
+<pb n="0180D"/>
+intentione, etsi non tota affectione sectantur. Nec
+dubium quin optime compleat qui hujusmodi est,
+Prophetae admonitionem, qua dicit: <hi>Delectare in
+Domino;</hi> quoniam non de affectu loquitur, sed de
+exercitio. Affectus enim ille beatitudinis est, exercitium
+vero virtutis. <hi>Delectare,</hi> inquit, <hi>in Domino:</hi> ad
+hoc tende, ad hoc conare, ut in Domino delecteris, <hi>et dabit tibi petitiones cordis tui.</hi> 
+ Sed considera quod <hi>petitiones cordis</hi> 
+ dixerit, quas approbat judicium
+rationis. Nec habes unde causeris, sed unde magis
+toto affectu in gratiarum actione verseris: quandoquidem
+tanta super te cura est Deo tuo, ut quoties
+ignorans quaeris quod tibi inutile est, non te audiat
+super hoc, sed mutet illud utiliori dono. Sic et pater
+carnalis parvulo quaerenti panem libenter porrigit:
+<pb n="0181A"/>
+quaerenti cultellum, quem non necessarium putat,
+non consentit, sed magis panem ei quem dederat
+frangit, vel per aliquem <emph>824</emph> ministrorum
+frangi praecipit, ut nihil ille habeat periculi, nihil
+laboris.</p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ Porro petitiones cordis in tribus credo constare,
+nec video quid praeter illa electus quisque sibi
+debeat postulare. Duo quidem hujus temporis sunt,
+id est bona corporis et animae, tertium vero beatitudo
+aeternae vitae. Nec mireris quod bona corporis
+a Deo dixerim esse quaerenda; quoniam ejus sunt
+corporalia omnia, sicut et spiritualia omnia bona.
+Ab eo ergo petendum et sperandum nobis est, unde
+possimus in ejus servitio sustentari. Verumtamen
+pro necessitatibus animae orandum nobis est et frequentius,
+<pb n="0181B"/>
+et ferventius, id est pro obtinenda gratia
+Dei, animaeque virtutibus. Sic et pro vita aeterna
+tota pietate et toto nobis orandum est desiderio, ubi
+nimirum corporis et animae plena et perfecta sit
+beatitudo.</p>
+        </div3>
+<div3>
+          <head>9.</head>
+          <p>
+ In his ergo tribus, ut cordis petitiones sint,
+tria nobis sunt observanda. Nam et in prima quidem
+superfluitas, et in secunda impuritas, et elatio interdum
+subrepere solet in tertia. Nonnunquam enim
+temporalia quaeri solent ad voluptatem, virtutes ad
+ostentationem; sed et vitam aeternam fortassis aliqui
+non in humilitate quaerunt, sed tanquam in fiducia
+suorum meritorum. Nec hoc dico, quin accepta
+gratia fiduciam donet orandi; sed non oportet ut in
+ea constituat quisquam fiduciam impetrandi. Hoc
+<pb n="0181C"/>
+solum conferunt haec prima [ <hi>alias,</hi> praemissa] dona,
+ut ab ea misericordiae quae tribuit haec, sperentur
+etiam ampliora. Sit ergo oratio quae pro temporalibus
+est, circa solas necessitates restricta; sit oratio
+quae pro virtutibus est animae, etiam ab omni impuritate
+libera, et circa solum beneplacitum Dei intenta;
+sit ea quae fit pro aeterna vita, in omni humilitate,
+praesumens de sola (ut dignum est) miseratione
+divina.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>SERMO VI. <hi>De oratione Dominica. <note>(Matth. VI, 9-13.)</note>
+          </hi> </head>
+<div3>
+          <head>1.</head>
+          <p>
+ Voluntas Domini, fratres, quae prius angelos
+creavit faciens eosdem, postmodum in eis facta
+beavit. Sicut enim Verbum quod erat in principio,
+carnem suspiciens dicitur, et vere dicitur, factum
+<pb n="0181D"/>
+caro <note>(Joan. I, 1, 14)</note>: sic voluntas illa aeterna in angelo
+facta est, cum angelicam omnino in se absorbuit
+voluntatem. Quidni dicatur facta in angelo, cum
+angelica facta est? Haec enim summa illius felicitatis
+est, hic voluptatis coelestis torrens, quod divina voluntas
+ipsa facta est etiam angelorum: ut quemadmodum
+placet Deo universitas administrationis hujus,
+sic et ipsi in cunctis gaudeant, in omnibus delectentur.
+Hoc igitur oramus, ut haec voluntas, sicut
+in coelestibus facta est creaturis, fiat etiam in terrenis;
+ut sicut angelus, sic et homo adhaerens Deo,
+unus cum eo spiritus sit. Sed heu me! quot obstacula
+separant, quot prohibent impedimenta! Objicit
+sese malitia mediam, objicit infirmitas, objicit concupiscentia
+<pb n="0182A"/>
+et ignorantia nostra. Inest enim nobis
+quasi a natura, magis autem ab exterminio naturae,
+affectio quaedam pessima et libido nocendi, ut inexstinguibilis
+inveniatur in miseris animabus nostris
+malitiae delectatio. Quid vero longuis a voluntate
+divina? Plane chaos magnum inter nos et illam firmatum
+est in hac parte: cum semper eum delectet
+praestare beneficia, et ingratis nobis e contra suggerat
+affectio crudelissima et innoxiis velle nocere.
+Hinc omnis radix amaritudinis germinat, hinc
+invidiae, hinc detractiones, hinc dissentiones pullulant,
+hinc silvescunt inimicitiae. At haec quidem
+germina virulenta praecidi semper necesse est falce
+justitiae, qua videlicet extorquemus a nobis, ne
+cui faciamus quod nolumus nobis fieri; sed quae
+<pb n="0182B"/>
+volumus ut faciant nobis homines, et nos eis eadem
+faciamus. Eradicari tamen aut exstirpari a cordibus
+nostris omnino non poterit malitia, donec in mundo
+fuerimus, qui totus positus est in maligno. Conteritur
+quidem <emph>825</emph> serpentis caput, sed frequenter
+experiri est calcaneo insidiantem.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Secundo loco ipsa quoque corruptibilis hujus
+infirmitate corporis praepedimur, ne voluntas nostra
+divinae valeat cohaerere. Nobis siquidem quod molestum
+sentimus, non potest non displicere; et frequenter
+in his voluntas nostra a divina dissidet voluntate:
+cui ne penitus adversetur, fortitudo est
+nobis necessaria, quae secunda species est virtutis.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Nec sola impedit afflictio corporis: impedit et
+concupiscentia, qua multiplicibus et inexplebilibus
+<pb n="0182C"/>
+distrahimur desideriis. Quando autem poterit anfractuosa
+et angulis plena voluntas ei uniri, quae rectissima
+est, et omnimodis indistorta? Heu me! Domine
+Deus, quia undique mihi bella, undique tela volant,
+undique pericula, undique impedimenta! Quocunque
+me vertam, nulla usquam securitas est. Et quae
+mulcent, et quae molestant, timeo: et esuries et
+refectio, et somnus et vigiliae, et labor et requies
+militant contra me. <hi>Divitias et paupertatem ne dederis
+mihi,</hi> orat sapiens <note>(Prov. XXX, 8)</note>: nimirum quia
+utrobique laqueus, utrobique periculum. Quod si
+reprimit temperantia concupiscentiam (hoc quippe
+unicum in hujusmodi remedium est), erit quidem
+unio jam nonnulla, sed plena non erit. Hinc et Apostolus
+<pb n="0182D"/>
+de se fatetur: <hi>Ego ipse,</hi> ait, <hi>mente consentio
+legi Dei, carne autem legi peccati, quae est in membris
+meis <note>(Rom. VII, 25, 23)</note>
+          </hi>. Ex parte ergo cohaeret,
+et ex parte dissidet, donec veniat quod perfectum
+est, et quod ex parte est evacuetur.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Quarta est ignorantia, quam et ipsam nobis
+plurimum obesse non ignoratis. Quo enim pacto
+voluntatem Dei praeviam sequar, ubi ignoro eam?
+Cognosco autem tantum ex parte, et necdum sicut
+cognitus sum. Propterea inquirenda sunt nobis cum
+omni desiderio incrementa prudentiae, ut magis ac
+magis notam faciat nobis Deus voluntatem suam, ut
+sciamus quid acceptum sit ei omni tempore. Sic virtutum
+consummatio, justitiae, fortitudinis, temperantiae
+et prudentiae, unionem illam tam felicem
+<pb n="0183A"/>
+quam desiderabilem consummabit, ut sit nobis cum
+Deo una voluntas, et quaecunque ei placent, placeant
+simul et nobis: atque haec nobis erit (ut de
+angelis supra dictum est) omnino perfecta jucunditas.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Oramus autem ut adveniat regnum Domini,
+quo videlicet nobis plena sit de regni potestate securitas.
+Quod autem petimus ut sanctificetur nomen
+ejus, omnino jam supra nos in ejus notitiam pergere
+concupiscimus. Ubi nimirum nobis in nobis et felix
+securitas, et secura felicitas fuerit, in eum qui supra
+nos est, tota jam spiritus vehementia rapiemur. <hi>Sanctificetur nomen tuum.</hi> 
+ Nomen ejus, gloria ejus.
+Et illa quando non sancta? Fieri tamen dicitur sancta
+gloria ejus, cum in sanctitate glorificatur a nobis:
+<pb n="0183B"/>
+sicut et voluntatem ejus, quae aeterna est, in nobis,
+ut nostra fiat, fieri postulamus. Hoc ergo primum
+fieri petimus quod maximum est, ut nobis gloriae
+illius innotescat sanctitas illibata. Exinde quod ad
+nos spectat optamus, et regni potestatem propter
+securitatem, et voluntatis ejus in nobis perfectionem
+propter jucunditatem. Sed quia necdum illa perfectione
+gaudentes, non sine magno labore divinae
+possumus obtemperare voluntati; opus est cibo ne
+deficiamus, opus est, inquam, pane quotidiano.
+Saepius quoque aberrantes ab ea, et deliquentes,
+hoc est derelinquentes eam, necessario pro indulgentia
+supplicamus, dicentes: <hi>Dimitte nobis debita
+nostra,</hi> etc. At ne forte in eadem recidamus post
+<pb n="0183C"/>
+acceptam veniam peccatorum, orandus a nobis idem
+ipse est, ne nos inducat in tentationem; sed magis
+educat nos, et liberet a malo. Amen.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head> <emph>826</emph> SERMO VII. <hi>De peregrino, mortuo et crucifixo.</hi> </head>
+<div3>
+          <head>1.</head>
+          <p>
+ Felices, qui se praesenti saeculo nequam advenas
+et peregrinos exhibent, immaculatos se custodientes
+ab eo! Neque enim habemus hic manentem
+civitatem, sed futuram inquirimus <note>(Hebr. XIII, 14)</note>.
+Abstineamus ergo a carnalibus desideriis, quae militant
+adversus animam, tanquam advenae et peregrini.
+Peregrinus siquidem via regia incedit; non
+declinat ad dexteram, neque ad sinistram. Si forte
+jurgantes viderit, non attendit; si nubentes, aut
+choros ducentes, aut aliud quodlibet facientes,
+<pb n="0183D"/>
+nihilominus transit, quia peregrinus est, et non
+pertinet ad eum de talibus. Ad patriam suspirat, ad
+patriam tendit: vestitum et victum habens non vult
+aliis onerari. Beatus plane, qui suum sic agnoscit,
+sic deplorat incolatum, dicens Domino: <hi>Quoniam
+advena ego sum apud te et peregrinus, sicut omnes
+patres mei <note>(Psal. XXXVIII, 13)</note>
+          </hi>. Magnum hoc quidem,
+sed forte gradus aliquis altior est. Nam peregrinus,
+etsi non admiscetur civibus, aliquando tamen delectatur
+videre quae fiunt, aut audire ab aliis, aut
+ipse narrare quae viderit: et his et hujusmodi, etsi
+penitus non retinetur, detinetur tamen et retardatur,
+dum minus memor patriae, minori accelerat desiderio.
+Nam et tantopere [ <hi>Alias,</hi> tanto tempore] potest
+in his delectari, ut jam non solum remoretur, et
+<pb n="0184A"/>
+minus cito veniat; sed et remanens ex toto, ne tarde
+quidem perveniat.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Quis igitur est magis alienus ab actibus saeculi,
+quam peregrinus? Profecto quibus dicit Apostolus: <hi>Mortui enim estis, et vita vestra abscondita
+est cum Christo in Deo 
+ <note>(Coloss. III, 3)</note>
+          </hi>. Peregrinus
+nimirum potest facile occasione viatici plus quam
+oporteat, et detineri quaerendo, et praegravari portando:
+mortuus, si desit etiam ipsa sepultura, non
+sentit. Sic vituperantes ut laudantes, sic adulantes
+audit ut detrahentes, imo vero nec audit, quia
+mortuus est. Omnino felix mors, quae sic immaculatum
+servat; imo penitus alienum facit ab hoc
+saeculo. Sed necesse est ut qui non vivit in se, vivat
+Christus in illo. Hoc est enim quod ait Apostolus:
+<pb n="0184B"/> <hi>Vivo autem, jam non ego, vivit vero in me Christus <note>(Galat. II, 20)</note>
+          </hi>.
+Ac si diceret: Ad alia quidem
+omnia mortuus sum, non sentio, non attendo, non
+curo: si qua vero sunt Christi, haec me vivum
+inveniunt et paratum. Nam si non aliud possum,
+saltem sentio: placet quod ad ejus honorem fieri
+video, displicent quae aliter fiunt. Magnus omnino
+gradus est iste.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ At fortasse poterit aliquid adhuc superius
+inveniri. In quo ergo quaeremus? In quo putas, nisi
+in eo de quo nunc loquebamur, qui raptus est
+usque ad tertium coelum? Quis enim prohibet tertium
+coelum dicere, si quem gradum supra istos
+poteris invenire? Audi igitur ipsum de hac tanta
+altitudine non in se gloriantem, sed dicentem:
+<pb n="0184C"/> <hi>Mihi autem absit gloriari, nisi in cruce Domini Jesu
+Christi, per quem mihi mundus crucifixus est, et ego
+mundo 
+ <note>(Galat. VI, 14)</note>
+          </hi>. Non solum inquit, mortuus
+mundo, sed et <hi>crucifixus:</hi> quod est ignominiosum
+genus mortis. Ego illi, pariter et ipse mihi. Omnia
+quae mundus amat, crux mihi sunt: delectatio
+carnis, honores, divitiae, vanae hominum laudes.
+Quae vero mundus reputat crucem, illis affixus sum,
+illis adhaereo, illa toto amplector affectu. An non
+major iste est secundo et primo gradu? Peregrinus,
+si prudens est, et non obliviscitur suae peregrinationis,
+licet cum labore, transit, et non magnopere
+saecularibus implicatur. Mortuus aeque blanda hujus
+saeculi, sicut aspera spernit. Qui vero raptus est
+usque ad tertium coelum, crux illi est omne cui
+<pb n="0184D"/>
+mundus inhaeret; et his adhaeret quae mundo crux
+esse videntur. Quamvis in his verbis Apostoli illud
+quoque non incongrue possit intelligi, crucifixum ei
+mundum reputatione, ipsum vero mundum crucifixum
+compassione. Crucifixum enim mundum videbat
+obligationibus vitiorum, et <emph>827</emph> ipse crucifigebatur
+ei per compassionis affectum.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Pensemus nunc singuli in quo gradu quisque
+sit positus, et studeamus proficere de die in diem,
+quoniam de virtute in virtutem videbitur Deus
+deorum in Sion <note>(Psal. LXXXIII, 8)</note>. Maxime vero
+hoc sancto tempore in omni, obsecro, puritate conversari
+studeamus, ubi et certus, et brevis dierum
+numerus positus est, ne desperet humana fragilitas.
+Nam si dicitur nobis: Omni tempore solliciti estote
+<pb n="0185A"/>
+omnino ad custodiendam puritatem vestrae conversationis;
+quis non desperet? Nunc autem monemur,
+brevi dierum numero omnes aliorum temporum
+negligentias emendare: ut vel sic gustemus dulcedinem
+perfectae puritatis, et omni deinceps tempore
+in conversatione nostra sanctae hujus Quadragesimae
+vestigia clara resplendeant. Conemur ergo, fratres,
+sanctum hoc tempus tota devotione suscipere, et
+nunc magis arma spiritualia reparare. Nunc enim
+generali quodam totius orbis exercitu contra diabolum
+Salvator congreditur: beati qui sub tali duce
+strenue militaverint. Toto siquidem anno domestica
+<pb n="0186A"/>
+regis familia militat, et assidua est in bellorum
+procinctu [ <hi>alias additur</hi> lucta]; semel autem et certo
+tempore universum imperium generali congregatur
+exercitu. Felices vos, qui domestici meruistis esse,
+quibus dicit Apostolus; <hi>Jam non estis hospites et
+advenae, sed estis cives sanctorum et domestici Dei <note>(Ephes. II, 19)</note>
+          </hi>.
+Quid igitur facturi sunt qui toto
+anno pugnare susceperunt, quando et ipsi rudes, et
+vacantes prius spiritualia arma arripiunt? Utique
+solito amplius solitae opus est insistere pugnae, ut
+magna quaedam victoria regi nostro ad gloriam,
+nobis proveniat ad salutem.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

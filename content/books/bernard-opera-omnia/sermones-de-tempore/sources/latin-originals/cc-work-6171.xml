@@ -1,0 +1,618 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Dominica I post octavam Epiphaniae</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.DoIPoOc</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>SERMO I. <hi>De miraculo facto in nuptiis, <note>(Joan. II, 1-11)</note>
+          </hi>; <hi>et de eo quod Dominus ait, « Et vos similes hominibus exspectantibus dominum suum, quando revertatur a nuptiis.</hi> » <note>(Luc. XII, 36.)</note> </head>
+
+<pb n="0155A"/>
+<div3>
+          <head>1.</head>
+          <p>
+ In lectione sancti Evangelii fratres, hodie audivimus
+quia Dominus noster ivit ad nuptias. Faciamus
+ergo quod alibi monet, et studeamus similes
+fieri <hi>hominibus exspectantibus dominum suum, quando
+revertatur a nuptiis.</hi> Nam tenenti carrucam in agro,
+et vendenti aliquid vel ementi in foro, non dicimus:
+Quid exspectas? neque enim similes sunt exspectantibus.
+Ei vero quem videmus stare ante januam,
+pulsare crebrius, saepius suspicere ad fenestras;
+nihil mirum si dicitur: Quid exspectas? Illi ergo
+sunt similes exspectantibus, qui non surda aure
+<pb n="0155B"/>
+audierunt: <hi>Vacate, et videte quoniam ego sum Deus <note>(Psal. XLV, 11)</note>
+          </hi>.
+Veniet Dominus exspectantibus
+eum in veritate, qualis erat qui dicit: <hi>Exspectans
+exspectavi Dominum <note>(Psal. XXXIX, 1)</note>
+          </hi>. Veniet tanquam
+revertens a nuptiis, inebriatus vino charitatis, et
+immemor iniquitatum nostrarum. Veniet non exspectantibus,
+tanquam revertens a nuptiis, tanquam
+potens crapulatus a vino. Vere [ <hi>alias</hi> Veniet]
+ebrius, et immemor miserationum suarum.
+Tunc enim, quantum ad illos, obliviscetur misereri
+Deus. Veniet in ira et indignatione, tanquam
+furibundus; sed, o Domine, ne in furore
+tuo arguas me. Haec modo non tam de praesentibus
+nuptiis, quam pro earum occasione sint
+dicta.
+<pb n="0155C"/>
+</p>
+        </div3>
+<div3>
+          <head>2. </head>
+          <p>
+Jam vero sequamur una cum discipulis ad
+nuptias euntem Dominum, ut, videntes quod facturus
+est, pariter credamus cum illis. <hi>Deficiente vino,
+dixit Mater Jesu ad eum: Vinum non habent.</hi> Compassa
+est enim eorum verecundiae, sicut misericors,
+sicut benignissima. Quid de fonte pietatis procederet,
+nisi pietas? Quid, inquam, mirum, si pietatem
+exhibent viscera pietatis? Nonne qui pomum in
+manu sua tenuerit dimidia die, reliqua diei parte
+pomi servabit odorem? Quantum igitur viscera illa
+virtus pietatis affecit, in quibus novem mensibus
+requievit? Nam et ante mentem replevit, quam
+ventrem; et cum processit ex utero, ab animo non
+recessit. Durior fortasse et austerior videri posset
+<pb n="0155D"/>
+responsio Domini: sed noverat ille cui loqueretur;
+et quis loqueretur illa non ignorabat. Denique ut
+scias quomodo responsum ipsum acceperit, aut
+quantum de Filii benignitate praesumpserit, ait <emph>806</emph> 
+ministris: <hi>Quaecumque praeceperit vobis, servate, et
+facite.</hi> </p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ <hi>Erant autem ibi lapideae hydriae sex positae.</hi> 
+Has nunc hydrias purificandis veris Judaeis non
+littera, sed spiritu, necesse habemus apponere, vel
+magis appositas demonstrare. Quia enim nondum
+pervenit Ecclesia ad perfectam purificationem,
+quando eam sibi Christus exhibebit gloriosam, non
+habentem maculam neque rugam, aut aliquid hujusmodi;
+<pb n="0156A"/>
+multis interim purincationibus opus habet,
+quatenus sicut abundant peccata, abundet et indulgentia;
+sicut multiplicatur miseria, sic et misericordia:
+nisi quod non sicut delictum, ita et donum.
+Gratia enim non solum peccata lavat, sed et merita
+donat. Sex igitur hydriae sunt positae his qui post
+baptismum in peccata labuntur: de his enim loquimur,
+quia de his sumus. Exuimus tunicam veterem;
+sed, heu! pejus reinduimus eam. Lavimus pedes
+nostros: sed pejus inquinavimus eos. Sicut ergo
+quod alius inquinaverat, lavit alius, sic inquinatos
+a nobis lavari opus est a nobis. Aliena lavit aqua,
+quos culpa inquinaverat aliena. Nec tamen sic alienam
+dixerim, ut negem nostram; alioquin nec
+inquinaret. Sed aliena est, quia in Adam omnes
+<pb n="0156B"/>
+nescientes peccavimus; nostra, quia, etsi in alio,
+nos tamen peccavimus, et nobis justo Dei judicio
+imputabatur, licet occulto. Verumtamen, ut jam
+non sit quod causeris, o homo, contra inobedientiam
+Adae datur tibi obedientia Christi, ut, si gratis
+venumdatus es, gratis etiam redimaris; si nesciens
+in Adam periisti, nesciens vivificeris in Christo.
+Nescisti quando ad lignum vetitum vetus Adam tetendit
+manus noxias; nescisti nihilominus quando
+in ligno salutifero innoxias manus Christus extendit.
+A primo homine in te manavit macula qua
+inquinatus es: a Christi latere aqua qua mundatus
+es. Nunc jam inquinatus propria culpa, propria
+nihilominus aqua mundaberis, ab illo tamen et
+per illum, qui solus est purgationem faciens peccatorum.
+<pb n="0156C"/>
+</p>
+        </div3>
+<div3>
+          <head>4. </head>
+          <p>
+Prima ergo hydria et prima purgatio in compunctione
+est, de qua legimus quoniam, <hi>in quacumque
+hora ingemuerit peccator, omnium iniquitatum ejus
+non recordabor <note>(Ezech. XVIII, 21, 22)</note>
+          </hi>. Secunda vero,
+confessio est. Omnia siquidem in confessione lavantur.
+Tertia, eleemosynarum largitio. Hinc enim
+habes in Evangelio: <hi>Date eleemosynam, et ecce omnia
+munda sunt vobis <note>(Luc. XI, 41)</note>
+          </hi>. Quarta, remissio
+injuriarum, secundum quod orantes dicimus: <hi>Dimitte
+nobis debita nostra, sicut et nos dimittimus debitoribus
+nostris <note>(Matth. VI, 12)</note>
+          </hi>. Quinta est afflictio
+corporis; unde et oramus, ut mundi per abstinentiam,
+Deo canamus gloriam (Hymn. Eccles. ad
+<pb n="0156D"/>
+Prim.). Sexta est obedientia praeceptorum, sicut
+audierunt discipuli (quod utinam audire mereamur
+et nos!): <hi>Vos mundi estis propter sermonem quem
+locutus sum vobis <note>(Joan. XV, 3)</note>
+          </hi>. Nimirum quia non
+erant sicut hi quibus dicitur, <hi>Sermo meus non capit
+in vobis <note>(Id. VIII, 37)</note>
+          </hi>; sed in auditu verbi obaudierant
+ei. Hae sunt sex hydriae positae in purificationem
+nostram, quae vacuae sunt et plenae vento, si
+pro inani gloria observantur. Aqua replentur, si
+timore Dei custodiantur, quoniam timor Domini
+fons vitae. Aqua, inquam, timor Domini est, etsi
+minus sapida, sed optime refrigerans animam
+noxiis desideriis aestuantem. Aqua est, quae jacula
+<pb n="0157A"/>
+inimici ignita possit exstinguere. Nam nec illud
+dissonat, quod aqua semper ima petit, et timor ad
+ima cogitationem deducit, et in inferioribus immoratur,
+atque loca horrenda pavida mente collustrat,
+juxta illud: <hi>Vadant ad portas inferi <note>(Isai.
+XXXVIII, 10)</note>
+          </hi>. Sed divina virtute aqua mutatur in
+vinum, quando perfecta charitas foras mittit timorem.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Dicuntur autem lapideae hydriae, non tam
+propter duritiam, quam propter stabilitatem. <hi>Capientes
+singulae metretas binas vel ternas.</hi> Duae metretae,
+duplex timor: ne forte trudi in gehennam,
+ne forte ab aeterna vita contingat excludi. Sed quia
+de contingente futuro sunt ista, et blandiri potest
+sibi anima dicens, Postquam aliquandiu in voluptatibus
+<pb n="0157B"/>
+tuis vixeris, ages poenitentiam, nec ista jam
+cariturus, nec periturus in illa; honum est adhibere
+et tertium, qui utique spiritualibus notus est, eo
+utilior, quo de praesenti <emph>807</emph> est. Timent enim qui
+noverunt spiritualem cibum, ne quando forte fraudentur
+eo. Cibo siquidem forti egent qui manum miserunt
+ad fortia. Vivant de paleis Aegypti, qui deserviunt
+in operibus luti et lateris; nobis fortior cibus
+est necessarius, quoniam nobis grandis restat via,
+ut ambulemus in fortitudine cibi illius. Ipse est
+panis angelorum, panis vivus, panis quotidianus.
+Hic est de quo nobis promissum est quia centuplum
+accipiemus in hoc saeculo <note>(Matth. XIX, 29)</note>.
+Sicut enim mercenariis et quotidianus cibus datur
+in opere et merces servatur in fine, sic Dominus
+<pb n="0157C"/>
+vitam aeternam in fine reddet, et interim centuplum
+repromittit, et exhibet. Quid ergo mirum
+si timet ne perdat hanc gratiam, qui jam
+consecutus est eam? Haec est metreta tertia,
+quam sub disjunctione signanter posuit, eo quod
+non omnium sit; quia nec omnibus centuplum
+repromissum, sed solis qui omnia reliquerunt.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>SERMO II. <hi>De spiritualibus nuptiis in evangelica historia designatis</hi> [Alias, <hi>De mutatione aquae in vinum]. <note>(Joan. II, 1-11.)</note>
+          </hi> </head>
+<div3>
+          <head>1.</head>
+          <p>
+ In operibus Domini, fratres, et minus capaces
+animos exterior consideratio pascit, et qui magis
+<pb n="0157D"/>
+exercitatos habent sensus, solidiorem intus cibum
+inveniunt, et suaviorem, tanquam adipem medullamque
+frumenti. Sunt enim et exteriori specie
+delectabilia, et interiori virtute multo delectabiliora;
+quemadmodum et ipse exterius quidem speciosus
+erat forma prae filiis hominum, interius autem
+tanquam candor lucis aeternae, etiam ipsis supereminens
+vultibus angelorum. Apparebat enim foris
+homo sine culpa, caro sine peccato, agnus sine
+macula. Quam speciosi pedes annuntiantis pacem,
+annuntiantis bona <note>(Isa. LII, 7)</note>! sed multo speciosius
+<pb n="0158A"/>
+et pretiosius caput ejus: quoniam caput Christi
+Deus. Delectabilis aspectus hominis in quem peccatum
+non cadit, et beati oculi qui viderunt; sed
+multo magis beati mundo corde, quoniam ipsi Deum
+videbunt <note>(Matth. V, 8)</note>. Denique cum pervenisset
+ad nucleum, testam jam, licet decoram valde, non
+reputabat Apostolus, dicens: <hi>Etsi cognovimus aliquando
+Christum secundum carnem, sed nunc jam
+non novimus <note>(II Cor. V, 16)</note>
+          </hi>. Nimirum quia Dominus
+ipse praedixerat: <hi>Caro non prodest quidquam, spiritus
+est qui vivificat <note>(Joan. VI, 64)</note>
+          </hi>. Sed haec est
+sapientia quam loquitur Paulus inter perfectos,
+non inter eos quibus legimus ab eodem dictum: <hi>Nihil arbitratus sum me scire inter vos, nisi Jesum
+Christum, et hunc crucifixum 
+ <note>(I Cor. II, 6, 2)</note>
+          </hi>. Totus
+<pb n="0158B"/>
+suavis est, totus salubris est, totus delectabilis,
+totus denique secundum sponsae vocem desiderabilis <note>(Cantic. V, 16)</note>.
+Sicut autem in eo ostensum
+est, sic et in operibus ejus reperies. Nam et superficies
+ipsa, tanquam a foris considerata, decora est
+valde, et si quis fregerit nucem, intus inveniet quod
+jucundius sit, et multo amplius delectabile. Non
+sic apud Patres Veteris Testamenti reperies. Nam
+in operibus eorum decora et delectabilis est significatio
+mystica; ipsa tamen si per se considerentur,
+invenientur aliquando minus digna, ut sunt facta
+Jacob, adulterium David, et multa similia. Pretiosa
+quidem sunt fercula, sed vasa non adeo pretiosa.
+Et fortasse propterea dictum est, <hi>Tenebrosa aqua
+<pb n="0158C"/>
+in nubibus aeris;</hi> quoniam tenebrosae nubes illae
+fuerunt: et subjunctum est de Domino, <hi>Prae fulgore
+in conspectu ejus nubes transierunt <note>(Psal. XVII,
+12, 13)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Credo, jam advertistis ad quid haec dicere
+velim. Audistis enim hodie miraculum factum in
+nuptiis, initium utique signorum Domini; cujus
+et historia satis est admirabilis, et significatio
+amplius delectabilis. Magnum enim divinae majestatis
+indicium fuit, ad nutum Domini aquam in vinum
+converti; sed est illa <emph>808</emph> multo melior mutatio
+dexterae Excelsi, quam in ista praefiguravit. Omnes
+enim nos ad spirituales nuptias vocati sumus, in
+quibus utique sponsus est Christus Dominus; unde
+canimus in Psalmo: <hi>Et ipse tanquam sponsus procedens
+<pb n="0158D"/>
+de thalamo suo <note>(Psal. XVIII, 6)</note>
+          </hi>. Sponsa vero
+nos ipsi sumus, si non vobis videtur incredibile,
+et omnes simul una sponsa, et animae singulorum
+quasi singulae sponsae. Sed quando hoc sentire poterit
+fragilitas nostra de Deo suo, quod eo affectu
+se [ <hi>alias</hi> nos] diligat, quo diligitur sponsa a sponso?
+Multum enim haec sponsa sponso suo inferior genere,
+inferior specie, inferior dignitate. Attamen propter
+Aethiopissam istam de longinquo Filius aeterni
+Regis advenit, et ut sibi desponsaret illam, etiam
+mori pro ea non timuit. Moyses quidem Aethiopissam
+<pb n="0159A"/>
+duxit uxorem, sed non potuit Aethiopissae
+mutare colorem: Christus vero quam adamavit
+ignobilem adhuc et foedam, gloriosam sibi exhibebit
+Ecclesiam, non habentem maculam neque rugam.
+Murmuret Aaron, murmuret et Maria, non nova,
+sed vetus; non Mater Domini, sed soror Moysi <note>(Num. XII)</note>;
+non nostra, inquam, Maria; illa enim
+sollicita est, si quid forte deest in nuptiis. Vos
+autem, ut dignum est, murmurantibus sacerdotibus,
+murmurante Synagoga, toto affectu in gratiarum
+actione versamini.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Unde enim tibi, o humana anima, unde tibi hoc?
+Unde tibi tam inaestimabilis gloria, ut ejus sponsa
+merearis esse, in quem desiderant angeli ipsi prospicere?
+Unde tibi hoc, ut ipse sit sponsus tuus,
+<pb n="0159B"/>
+cujus pulchritudinem sol et luna mirantur, ad cujus
+nutum universa mutantur? Quid retribues Domino
+pro omnibus quae retribuit tibi, ut sis socia mensae,
+socia regni, socia denique thalami, ut introducat te
+Rex in cubiculum snum? Vide jam quid de Deo tuo
+sentias, vide quantum de eo praesumas, vide quibus
+brachiis vicariae charitatis redamandus et amplectendus
+sit, qui tanti te aestimavit, imo qui tanti te
+fecit. De latere enim suo te reformavit, quando propter
+te obdormivit in cruce, et [ <hi>alias additur</hi> ob
+hoc] somnum mortis excepit. Propter te a Deo
+patre exivit, et matrem Synagogam reliquit, ut
+adhaerens ei, unus cum eo spiritus efficiaris. Et tu
+ergo audi, filia, et vide, et considera quanta sit erga
+te dignatio Dei tui; et obliviscere populum tuum, et
+<pb n="0159C"/>
+domum patris tui. Desere carnales affectus, saeculares
+mores dedisce; a prioribus vitiis abstine, consuetudines
+noxias obliviscere. Quid enim putas? nonne
+stat angelus Domini qui secet te mediam, si forte
+(quod avertat ipse!) alterum admiseris amatorem?</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Jam enim desponsata es illi, jam nuptiarum
+prandium celebratur; nam coena quidem in coelo et
+in aula aeterna paratur. Verumtamen nunquid ibi
+vinum deficiet? Absit! Inebriabimur ibi ab ubertate
+domus Dei, et torrente voluptatis ejus potabimur <note>(Psal. XXXV, 9)</note>.
+Paratum est profecto illis nuptiis
+flumen vini; vini, inquam, quod laetificat cor; siquidem
+fluminis impetus laetificat civitatem Dei <note>(Psal.
+XLV, 5)</note>. Nunc autem quoniam grandis nobis restat
+via, prandium quidem accipimus hic, etsi non in
+<pb n="0159D"/>
+tanta copia, quod plenitudo et satietas coenae reservetur
+aeternae. Hic ergo nonnunquam vinum deficit,
+qratia scilicet devotionis, et fervor charitatis. Quoties
+mihi necesse est, fratres, post lacrymosas querimonias
+vestras, exorare Matrem misericordiae ut
+suggerat suo benignissimo Filio quoniam vinum non
+habeatis? Et ipsa, dico vobis, charissimi, si pie a
+nobis pulsata fuerit, non deerit necessitati nostrae;
+quoniam misericors est, et mater misericordiae. Nam
+si compassa est verecundiae illorum a quibus fuerat
+invitata; multo magis compatietur nobis, si pie fuerit
+invocata. Placent enim illi nuptiae nostrae, et pertinent
+<pb n="0160A"/>
+ad eam multo amplius illis; nimirum de cujus
+utero tanquam e thalamo suo, coelestis Sponsus processit. <emph>809</emph>
+</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Sed quem non moveat, quod in nuptiis
+illis respondit Dominus benignissimae ac sanctissimae
+matri suae, dicens: <hi>Quid mihi et tibi est, mulier?</hi> 
+Quid tibi et illi est, Domine? Nonne quod filio et
+matri? Quid ad illam pertines [ <hi>alias</hi> pertinet] quaeris,
+cum tu sis benedictus fructus ventris ejus immaculati?
+Nonne ipsa est quae salvo pudore concepit,
+et sine corruptione te peperit? Nonne ipsa est,
+in cujus utero novem mensibus moratus es, cujus
+virgineis uberibus lactatus es, cum qua jam duodecim
+annorum factus de Jerusalem descendisti,
+et eras subditus illi? Nunc ergo, Domine, quid molestus
+<pb n="0160B"/>
+es illi, dicens, <hi>Quid mihi et tibi?</hi> Multum per
+omnem modum. Sed manifeste jam video quod non
+velut indignans, aut confundere volens virginis Matris
+teneram verecundiam, dixeris: <hi>Quid mihi et tibi?</hi> 
+cum, venientibus ad te juxta Matris praeceptum ministris,
+nihil cunctatus facias quod illa suggessit.
+Utquid ergo, fratres, utquid sic respondebat prius?
+Utique propter nos, ut conversos ad Dominum jam
+non sollicitet carnalium cura parentum, et necessitudines
+illae non impediant exercitium spirituale.
+Quandiu enim de mundo sumus, debitores nos constat
+esse parentibus. At postquam reliquimus nosmetipsos,
+multo magis ab eorum sollicitudine
+liberi sumus. Unde et legimus fratrem quemdam in
+eremo conversantem, cum ad eum carnalis frater
+<pb n="0160C"/>
+auxilii gratia adventasset, respondisse, ut adiret
+alterum fratrem eorum, cum ille utique jam obiisset.
+Cumque admiratus qui venerat responderet quia
+ille obiit eremita se quoque similiter obiisse respondit.
+Optime ergo nos docuit Dominus ne
+solliciti simus super propinquis carnis nostrae plus
+quam religio postulet, quando ipsi Matri, et tali
+Matri, respondit: <hi>Quid mihi et tibi est, mulier?</hi> Sic
+et in alio loco cum suggereret ei quidam quoniam
+foris staret cum fratribus Domini, quaerens ei loqui,
+respondit: <hi>Quae est mater mea, et qui sunt fratres
+mei <note>(Matth. XII, 48)</note>
+          </hi>? Ubi modo sunt qui tam carnaliteret
+inaniter super carnalibus propinquis suis solent
+esse solliciti, ac si adhuc viverent et ipsi cum eis?</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Sed videamus jam quid sequitur. <hi>Erant,</hi> ait
+<pb n="0160D"/>
+Evangelista, <hi>hydriae sex positae secundum purificationem
+Judaeorum.</hi> Vel ex hoc potes manifestius advertere
+non plenitudinem, sed praeparationem nuptiarum
+esse, ubi nimirum adhuc opus est purificatione.
+Desponsationis ergo nuptiae istae sunt, non copulationis.
+Absit enim ut credamus illis in nuptiis fore
+vasa purificationis, quando gloriosam sibi Christus
+Ecclesiam exhibebit, non habentem maculam, neque
+rugam, aut aliquid hujusmodi! ubi enim [ <hi>alias</hi> autem]
+non erit macula, quae purificatio erit necessaria?
+Nunc utique lavandi tempus est, nunc purificationem
+patet esse necessariam, quando nemo
+<pb n="0161A"/>
+mundus a sorde, nec infans cujus est unius diei
+vita super terram. Nunc abluitur sponsa, nunc purificatur,
+ut in coelestibus illis nuptiis sponso suo sine
+omni macula praesentetur. Quaeramus ergo hydrias
+sex, in quibus haec ablutio Judaeorum, id est confitentium,
+purificatio fiat. Nam si dixerimus quia
+peccatum non habemus, nos ipsos seducimus, et
+veritas in nobis non est, quae sola liberat, sola salvat,
+sola lavat. Quod si confiteamur peccata nostra,
+non deerunt veris Judaeis purificationis hydriae;
+quoniam fidelis est Deus, qui dimittat nobis peccata,
+et emundet nos ab omni iniquitate <note>(I Joan. I, 8, 9)</note>.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ Ego quidem sex hydrias, sex observantias
+arbitror esse, quas ad purificanda confitentium
+corda sancti patres instituere, et omnes illas, ni
+<pb n="0161B"/>
+fallor, hic poterimus invenire. Prima siquidem
+hydria, coutinentia est castitatis, qua diluitur quidquid
+ante luxuria inquinavit. Secunda vero jejunium
+est, ut quod maculaverat crapula, nunc abstinentia
+mundet. Per segnitiem quoque et otiositatem, quae
+inimica est animae, multas contraximus sordes contra
+Dei sententiam, in sudore vultus alieni, non
+nostri, pane vescentes <note>(Gen. III, 19)</note>; propter hoc
+quoque tertia hydria nobis apponitur, ut sordes illae
+in labore manuum diluantur. Sic <emph>810</emph> et per somnolentiam
+caeteraque noctium et tenebrarum opera,
+multa deliquimus; ideo quoque quarta hydria vigiliarum
+observantia ponitur, ut nocte surgentes ad
+confitendum Domino, non bonas noctes praeteriti
+<pb n="0161C"/>
+temporis redimamus. Jam vero de lingua quis
+nesciat, quam multum inquinaverit nos per vaniloquia
+et mendacia, per detrationes et adulationes,
+per verba malitiae et verba jactantiae? Pro his omnibus
+necessaria est hydria quinta, silentium scilicet,
+custos religionis, et in quo est fortitudo nostra.
+Sexta quoque hydria disciplina est, qua non nostro
+arbitrio, sed alieno vivimus, ut deleatur quidquid
+indisciplinate vivendo deliquimus. Lapidea sunt
+haec, dura sunt, sed necesse habemus in his lavari,
+nisi forte volumus [ <hi>alias</hi> voluerimus] propter foeditates
+nostras a Domino accipere libellum repudii.
+Attamen in eo quod dicuntur lapideae, non solum
+duritia, sed multo melius soliditas potest intelligi;
+quoniam non lavant haec, nisi firma stabilitate permanserint.
+<pb n="0161D"/>
+</p>
+        </div3>
+<div3>
+          <head>8. </head>
+          <p>
+Ait ergo Dominus ad ministros: <hi>Implete hydrias
+aqua.</hi> Quid sibi istud vult, Domine? Ministri solliciti
+sunt de vini penuria, et tu dicis: <hi>Implete hydrias
+aqua.</hi> Illi de poculis cogitant, et tu praecipis ut vasa
+purificationis impleant. Sic omnino, sic suspiranti
+<pb n="0162A"/>
+Jacob ad Rachelis amplexus, Lia a patre supponitur <note>(Gen. XXIX, 22-24)</note>.
+Nobis, fratres, qui ministri
+sumus et servi vestri, per Christum nobis praecipitur
+implere hydrias aqua, quoties deest vinum. Ac si
+dicatur: Illi devotionem desiderant, vinum requirunt,
+fervorem flagitant; sed nondum venit hora
+mea: implete hydrias aqua. Quae est enim aqua
+sapientiae salutaris, etsi non adeo suavis, nisi fons
+vitae, et initium sapientiae timor Domini? Dicitur
+ergo ministris: Incutite metum, et spiritu timoris
+non tam vasa quam corda replete; quia, ut ad
+charitatem perveniant, initiandi sunt a timore, ut
+dicant et ipsi, <hi>A timore tuo concepimus, Domine, et
+parturivimvs spiritum salutis <note>(Isai. XXVI, 18)</note>
+          </hi>. Sed
+quomodo implebuntur hydriae? Praedixerat enim
+<pb n="0162B"/>
+Evangelista: <hi>Capientes singulae metretas binas vel
+ternas.</hi> Quae sunt duae metretae, quaeve tertia? Utique
+duplex timor communis, et notus omnibus; at tertius
+quidem minus communis, et minus notus. Primus
+enim timor est, ne cruciemur in gehenna;
+secundus, ne exclusi a visione Dei privemur tam
+inaestimabili gloria; tertius replet animam omni
+sollicitudine timidam, ne forte deseratur a gratia.</p>
+        </div3>
+<div3>
+          <head>9.</head>
+          <p>
+ Et quidem omnis timor Domini, sicut aqua
+exstinguit ignem, sic exstinguit peccati consupiscentiam;
+sed is maxime cum ad omnem tentationem
+statim occurrit, ne forte contingat amittere gratiam,
+ut sibi derelictus homo labatur quotidie de malo in
+pejus, de peccato minori in graviorem culpam;
+<pb n="0162C"/>
+quales utique multos videmus cum in sordibus sunt,
+sordescentes adhuc. Nam adversus timorem istum
+non est unde sibi blandiatur anima sive de minori
+forte quantitate peccati, sive de emendatione futura.
+Talibus enim blandimentis impediuntur aliquatenus
+duo prima genera timoris. Praecipit ergo nobis Dominus,
+ut hac aqua hydrias impleamus. Sunt enim
+aliquando vacuae, et plenae vento, si quis tamen
+adeo insanus est ut in eo per vanitatis studium illae,
+quas praediximus, observantiae mercede perpetua
+vacuentur, ut sunt fatuae virgines, in quarum vasis
+oleum non habetur <note>(Matth. XXV, 3)</note>. Interdum autem
+(quod pejus est) plenae quidem sunt, sed plenae veneno,
+quod est invidia, murmur, rancor animi, et
+detractio. Propterea ne forte subintrent ista, dum
+<pb n="0162D"/>
+vinum deest, jubemur implere hydrias aqua, ut
+observentur mandata Domini in timore; quae tunc
+mutatur in vinum, cum timor expellitur a charitate,
+et implentur omnia fervore spiritus et jucunda devotione
+.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

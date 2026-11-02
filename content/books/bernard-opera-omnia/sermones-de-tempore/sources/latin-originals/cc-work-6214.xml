@@ -1,0 +1,1206 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Pro Dominica I Novembris</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.PrDoINo</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>SERMO I. <hi>De verbis Isaiae,</hi> VI, 1, « <hi>Vidi Dominum sedentem,</hi> » etc.</head>
+
+<pb n="0343D"/>
+<div3>
+          <head>1.</head>
+          <p>
+ <hi>Vidi Dominum sedentem super solium excelsum
+<pb n="0344D"/>
+et elevatum, et plena erat omnis terra majestate ejus.</hi> 
+Sublimis quaedam visio prophetico nobis sermone
+describitur. <hi>Vidi,</hi> inquit, <hi>Dominum sedentem.</hi> Magnum
+<pb n="0345A"/>
+spectaculum, fratres, et beati oculi qui viderunt.
+Quis non toto desiderio concupiscat tantae
+majestatis gloriam contemplari? Hoc quippe sanctorum
+omnium unicum semper desiderium fuit.
+Ipse est enim in quem desiderant angeli prospicere,
+quem videre vita aeterna est. Sed aliam, fratres, audio
+prophetae ejusdem, et ejusdem Domini longe
+dissimilem visionem. Siquidem Isaias iste est, qui in
+alio loco sic loquitur: <hi>Vidimus eum, et non erat
+ei species neque decor; et aestimavimus eum tanquam
+leprosum <note>(Isai. LIII, 2)</note>
+          </hi>, etc. Ubi illud primum considerandum
+est, quod communis illa, haec propheticae
+praerogativae propria videatur. Non sine causa
+sane ibi, <hi>vidimus,</hi> scriptum est; et hic, <hi>vidi:</hi> nisi ut
+illam quidem intelligas esse communem, hanc vero
+<pb n="0345B"/>
+excellentiae singularis. Siquidem absque specie et
+decore <emph>944</emph> vidit eum, et sprevit Herodes: viderunt
+ipsi quoque Judaei, qui et dinumeraverunt omnia
+ossa ejus. Jam vero super hac visione beata manifeste
+propheta denuntians ait: <hi>Tollatur impius, ne
+videat gloriam
+Dei <note>(Isai. XXVI, 10)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Multifarie ergo multisque modis non solum locutus
+in prophetis, sed et visus est a prophetis.
+Agnovit eum David minoratum ab angelis; Jeremias
+etiam vidit eum in terris cum hominibus conversantem;
+Isaias modo super solium excelsum, modo
+non solum infra angelos aut inter homines, sed tanquam
+leprosum se vidisse testatur, id est non in
+carne tantum, sed in similitudine carnis peccati.
+<pb n="0345C"/>
+Tu quoque si desideras videre sublimem, humilem
+prius Jesum videre curato. Intuere prius exaltatum
+in deserto serpentem, si videre desideras regem in
+solio residentem. Ista te humiliet visio, ut illa
+exaltet humiliatum. Reprimat et sanet ista tumorem
+tuum, ut illa repleat et satiet desiderium tuum.
+Exinanitum vides? non sit otiosa visio, quia exaltatum
+otiose videre non poteris. Similis eris illi, cum
+videris eum sicuti est: esto et nunc similis ei, videns
+eum sicut propter te factus est. Si enim ne in
+humilitate quidem similitudinem ejus abnuis, certa
+tibi sublimitatis quoque similitudo debetur. Nunquam
+ille socium tribulationis a communione gloriae
+patietur arceri. Denique usque adeo non dedignatur
+passionis suae consortem et in regnum admittere
+<pb n="0345D"/>
+secum, ut in cruce confitens latro eadem die cum
+eo fuerit in paradiso. Hinc est quod ait etiam ad
+apostolos: <hi>Vos estis qui permansistis mecum in tribulationibus
+meis, et ego dispono vobis regnum <note>(Luc.
+XXII, 28, 29)</note>
+          </hi>. Quia ergo si compatimur, et conregnabimus:
+sit interim meditatio nostra, fratres,
+Christus, et hic crucifixus. Ipsum ponamus signaculum
+super cor, signaculum super brachium nostrum.
+Ipsum amplectamur brachiis quibusdam vicariae dilectionis,
+ipsum sequamur studio piae conversationis.
+Hoc enim iter, quo ostendatur et nobis ipse, qui est
+<pb n="0346A"/>
+salutare Dei: sane non jam sine specie et decore,
+sed in claritate tanta, ut majestas ejus repleat orbem
+terrarum.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Opportune siquidem visione prima, tanquam
+hiemali adhuc tempore, non super solium, sed in
+inferiori atque humiliori habitatione videtur. Duplicem
+quippe solet habere magna domus quaelibet
+mansionem, aestivam superius, inferius hiemalem.
+Igitur dum ipsa etiam discipulorum corda brumali
+adhuc glacie stringerentur, et Petrus quoque non
+minus gelido corde, quam corpore calefaceret se ad
+prunas; tempus omnino non erat habitandi in solio,
+vel potius apparendi. At ubi cantabitur canticum
+novum: <hi>Hiems abiit et recessit, flores apparuerunt
+in terra nostra <note>(Cant. II, 11, 12)</note>
+          </hi>; opportune jam
+<pb n="0346B"/>
+tunc ascendetur in solium, et habitabit Dominus in
+excelso.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Puta ergo Isaiam, cum haec loqueretur, illius
+gloriam temporis oculo praevidisse prophetico: <hi>Vidi,</hi> 
+inquit, <hi>Dominum sedentem super solium excelsum,</hi> 
+etc. Sed quid putamus? quale est solium istud,
+fratres? Neque enim Altissimus in manifestis vel
+manufactis inhabitat. Nulla omnino materia corporalis
+apta tanto solio, tantae fabricae congrua, digna
+tanto habitatore videtur. Vivis est construenda lapidibus
+fabrica spiritualis, quam vera et aeterna
+Vita sua inhabitatione dignetur. Quod si minus
+tanto aedificio sufficit angelica creatura, praevaricatorum
+utique minorata praecipitio: suscitet certe
+de terra inopem, et de pulvere erigat pauperem, ut
+<pb n="0346C"/>
+collocet eum cum principibus, et solium gloriae
+compleat. Et fortassis propterea ipse qui vidit, non
+modo excelsum solium; sed et elevatum quoque
+describit: ut proinde et angelorum stabilis celsitudo,
+et hominum misericors elevatio designetur.
+Quae sequuntur, diligentiorem et ipsa considerationem
+desiderare videntur: ideoque sufficiat hodie
+vel coepisse.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head> <emph>945</emph> SERMO II. <hi>De verbis Isaiae prophetae,</hi> VI, 1, 3.</head>
+<div3>
+          <head>1.</head>
+          <p>
+ <hi>Plena erat,</hi> ait contemplator noster de eo,
+quem super solium viderat, <hi>majestate ejus omnis
+terra.</hi> Adveniat, Domine, regnum tuum, ut majestate
+tua sicut coelum repletur, repleatur et terra.
+<pb n="0346D"/>
+Utquid enim princeps hujus mundi tanto ubique
+furore debacchatur, nisi quia terra data est in manus
+impii? Sed haec est hora ejus, et potestas tenebrarum.
+Erit certe quando qui in coelo locum non
+habuit, et ab ipsa quoque terrae superficie exturbabitur
+miser, cavernis utique subterraneis recludendus.
+Hinc quippe propheta David sanctorum prosperitate
+praemissa, de maligno et angelis seu membris
+ejus adjecit, et ait: <hi>Non sic impii, non sic, sed
+tanquam pulvis, quem projicit ventus a facie terrae <note>(Psal. I, 4)</note>
+          </hi>.
+Nulla jam tunc tentandi facultas erit.
+<pb n="0347A"/>
+inquietandi nulla libertas; possibilitas nulla nocendi.
+Replebitur majestate Domini omnis terra,
+quando jam voluntatis ejus transgressio nulla erit;
+magis autem quando creatura ipsa liberabitur a
+servitute corruptionis hujus, propter quam ingemiscit
+et parturit usque adhuc. Erit enim coelum
+novum, et terra nova; ut quaqua verteris oculos, in
+ipsa tibi rerum facie, divina videatur quodammodo
+resplendere majestas.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Sed et est tibi altera quaedam terra propinquior,
+et super hac amplior, justiorque sollicitudo. <hi>Nemo
+quippe carnem suam odio habuit <note>(Ephes. V, 29)</note>
+          </hi>. Consolare
+ergo eam, ut et ipsa requiescat in spe: audiens
+nimirum, quia replebitur majestate Domini
+omnis terra. Quomodo enim nunc carnem nostram,
+<pb n="0347B"/>
+dilectissimi, majestas divina repleat, cum et magnus
+ille Paulus, primitias tantum spiritus habens, ingemiscat
+miserabiliter satis, et dicat: <hi>Scio quia non
+est in me, hoc est in carne mea, bonum? <note>(Rom. VII,
+18.)</note>
+          </hi> Et certe jam non dominabatur peccatum in
+ejus mortali corpore <note>(Rom. VI, 12)</note>. Nota tamen
+adhuc, et corpus mortale perhiberi, et peccati quoque
+solum dominium negari. Erat enim etiam tunc
+lex peccati in membris ejus <note>(Rom. VII, 23)</note>, quam
+quidem majestatis plenitudo cum venerit, prorsus
+excludet. Non solum autem, sed et novissima inimica
+destruetur mors. Replebitur ergo majestate
+Domini terra nostra, quando prorsus de medio fiet
+et peccati omnis sensus, et debitum mortis. Replebitur,
+inquam, omnis terra nostra Domini majestate,
+<pb n="0347C"/>
+quando resurrectionis gloria vestietur, induet immortalitatis
+stolam, configurabitur denique claritati
+corporis Christi. <hi>Salvatorem</hi> siquidem <hi>exspectamus,
+qui reformabit corpus humilitatis nostrae, configuratum
+corpori claritatis suae <note>(Philipp. III, 20)</note>
+          </hi>. Quid
+adhuc murmuras, caro misera, quid adhuc recalcitras,
+et adversus spiritum concupiscis? Si te humiliat,
+si castigat, si redigit in servitutem; id profecto
+in tuo genere non minus tua interest quam ipsius.
+Quid eis invides, qui de operibus vermium, et murium
+pellibus ingloriam plane gloriam mendicare
+non erubescunt, cultu indigno viris, interdicto et
+mulieribus; semetipsos dehonestantes potius quam
+ornantes? Reforment ipsi, aut magis certe deforment
+<pb n="0347D"/>
+corpora sua; te si fueris corpus humilitatis,
+reformabit idem artifex qui formavit. Illam, si non
+desipis, praestolabere manum, ut quod fecit, ipsa
+reficiat.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Jam vero quid in ipsa prophetica visione sequatur
+attende: <hi>Et ea,</hi> inquit, <hi>quae sub ipso erant,
+replebant templum.</hi> Propterea sane dixit: <hi>Humiliare
+sub potenti manu Dei, ut exaltet te in tempore
+visitationis <note>(I Petr. V, 6)</note>
+          </hi>. Vide ut sub ipso inveniaris,
+alioquin non poteris esse cum ipso. Quid
+enim? putas, indifferenter admittet homines in
+illud tantae beatitudinis templum, qui ne ipsos quidem
+angelos indifferenter reliquit in eo? aut non
+discernet inter glebas, qui discrevit inter stellas?
+Examinabit certe argentum, qui ipsum quoque aurum
+<pb n="0348A"/>
+probavit, et reprobavit. Qualem ergo, putas,
+necesse <emph>946</emph> est hominem inveniri, qui repudiati
+locum angeli sortiatur? Plane immunem ab omni
+iniquitate, sed ab ea maxime, quae in ipso quoque
+angelo, non ad levem offensam, non ad momentaneam
+iram inventa est, sed ad odium sempiternum.
+Semel turbavit superbia regnum illud, concussit
+muros, etiam prostravit ex parte, et parte non modica.
+Quid ergo? Facilene deinceps admittenda videtur?
+Nunquid non odit civitas illa, et vehementer
+hujusmodi pestem abominatur? Certi estote, fratres,
+eum qui superbis non pepercit angelis, nec hominibus
+parciturum. Non est contrarius sibi ipsi, non
+est personarum acceptor; similia sunt judicia ejus.
+Sola ei placet humilitas, sive in angelo, sive in homine:
+<pb n="0348B"/>
+et qui sedet in throno, solos eligit subditos,
+e quibus repleat templum. Scriptum quippe est: <hi>Quis sicut Dominus Deus noster, qui in altis habitat,
+et humilia respicit in coelo, et in terra? 
+ <note>(Psal. CXII,
+5, 6.)</note>
+          </hi> Vide autem ne forte Michaelis verbum sit,
+superbo illi dicenti: <hi>Similis ero Altissimo,</hi> in faciem
+resistentis. Michael quippe interpretatum dicitur, <hi>quis ut Deus?</hi> </p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Bene ergo propheta cum dixisset, vidisse se
+Dominum sedentem super solium excelsum et elevatum;
+ne forte aut excelsum intelligeres de eo
+dictum qui ait: <hi>Ascendam super altitudinem nubium <note>(Isai. XIV, 14)</note>
+          </hi>;
+aut elevatum referres ad eos homines,
+qui in superbiam eriguntur, addidit: <hi>Et ea
+quae sub ipso erant, replebant templum;</hi> ut manifeste
+<pb n="0348C"/>
+intelligas, non eam altitudinem commendari,
+quae extollitur adversus eum; sed eos in templo,
+sive in solio fore, qui sub eo sunt, alios quidem
+excelsos stabilitate solida, alios ex imo levatos miseratione
+divina. Ac ne forte objicias, ditioni ejus
+universa subesse, nec quidquam determinationis
+habere quod ait: <hi>Quae sub ipso erant:</hi> ut solam,
+quae voluntaria est, et ex fervore charitatis procedit,
+approbaret et commendaret Dei subjectionem, addidit
+et de seraphim, de quibus et nos loco suo dicemus,
+quod ab eo fuerit datum.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ <hi>Et ea,</hi> inquit, <hi>quae sub ipso erant, replebant
+templum.</hi> Ab initio siquidem creaverat angelos Deus,
+in quibus beati illius templi plenitudo constaret:
+sed non in omnibus beneplacitum est ei, quia <hi>et in
+<pb n="0348D"/>
+ipsis,</hi> ut scriptum est, <hi>angelis suis reperit pravitatem <note>(Job. IV, 18)</note>
+          </hi>.
+Fuit quippe in eis qui diceret: <hi>Ponam
+sedem meam ad aquilonem <note>(Isai. XIV, 13)</note>
+          </hi>; et populum
+qui sibi crederet, habuit. Miser ipse, qui sine
+Deo esse maluit, quam sub Deo; miseri et illi, qui
+videntes furem cucurrerunt cum eo. Exierunt infelices,
+et vacuus relictus est locus, quem accipiat
+alter. Nonne Deo subjecta eris, anima mea? Alioquin
+nec tibi locus erit in templo, quia <hi>quae sub ipso
+erant, replebant templum.</hi> Frustra pulsabunt fatuae
+virgines, in vanum clamabunt, ubi impletae fuerint
+nuptiae discumbentium, et janua clausa erit. Infelix
+anima, cui a nuptiis illis contigerit excludi! Infelix
+de quo clamabitur: <hi>Tollatur impius, ne videat gloriam
+<pb n="0349A"/>
+Dei <note>(Isai. XXVI, 10)</note>
+          </hi>. Utquid enim lucem hanc
+temporalem miser ille videt, qui gloriam illam non
+merebitur intueri? Utinam nihil unquam vidisset
+oculus meus, si illa, quod avertat Deus, frustrandus
+est visione! Eant superbi, insolescant magis; extollantur,
+inflentur, appetant semper in cumulo apparere:
+ut cum venerit aequitatis linea, a plenitudine
+ejiciantur. Tu vero non sic, sed Deo subjecta esto,
+anima mea, subjecta sane ex animo, subjecta cum
+fervore devotionis; quia <hi>seraphim stabant super
+illud.</hi> Cum quibus stemus et nos hodie, fratres, nec
+dimoveamur a templo isto, in quo omnes dicunt
+gloriam, quia gloriam contemplantur Domini nostri
+Jesu Christi, qui est super omnia Deus benedictus
+in saecula. Amen.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>SERMO III. <hi>De verbis Isaiae prophetae,</hi> VI, 2.</head>
+
+<pb n="0349B"/>
+<div3>
+          <head>1.</head>
+          <p>
+ Non vobis arbitror excidisse de duobus seraphim
+hodie nobis habendum esse sermonem, <emph>947</emph> 
+propter illud Isaiae, qui postquam Dominum sese
+vidisse testatus est super solium residentem, addidit,
+seraphim stare super illud. Seraphim quidem,
+dilectissimi, sicut frequenter audistis, nomen est
+supernorum spirituum, ordinis unius de novem,
+ipsiusque summi atque supremi. Verum hoc loco, ut
+arbitror, non in ea ponitur significatione, praesertim
+cum innumera illa sint agmina, hic vero duo tantum
+seraphim describantur. Et ego quidem, fratres,
+si licet in hac parte unicuique abundare in suo
+sensu, in duobus seraphim duplicem arbitror intelligi
+<pb n="0349C"/>
+creaturam rationabilem, angelicam scilicet et
+humanam. Nec mireris hominem seraphim factum:
+memento quia Creator et Dominus seraphim factus
+est homo. Ad contumeliam tuam, o superbe, qui
+creatus inter angelos, inter angelos stare non meruisti,
+ecce rex noster novos in terra angelos fabricaturus
+advenit. Atque, ut tabescas amplius, et
+livore proprio torquearis; non qualescunque, nec
+inferioris alicujus ordinis angelos, sed seraphim.
+Audi enim quid ipse loquatur. <hi>Ignem,</hi> inquit, veni <hi>mittere in terram; et quid volo, nisi ut accendatur; <note>(Luc. XII, 49.)</note>
+          </hi> 
+ Vult ergo seraphim fabricari, ut ibi
+stent, unde tu corruisti. <hi>Seraphim,</hi> inquit, <hi>stabant
+super illud.</hi> Utquid ergo tu, qui mane oriebaris,
+<pb n="0349D"/>
+Lucifer, in veritate non stetisti, nisi quia seraphim
+non fuisti? Seraphim quippe <hi>ardens</hi> vel <hi>incendens</hi> 
+interpretatur. Tu vero habuisti, miser, lucem, sed
+ardorem non habuisti. Bonum erat tibi, si ignifer
+magis esses quam lucifer, nec tam immoderato
+appetitu lucendi, ut eras frigidus ipse, frigidam
+quoque eligeres regionem. Dixisti enim: <hi>Ascendam
+super altitudinem nubium, sedebo in lateribus aquilonis <note>(Isa. XIV, 13, 14)</note>
+          </hi>.
+Quid festinas mane oriri,
+Lucifer? quid gloriaris super sidera, quibus aliquando
+clarius rutilare videris? Brevis omnino erit
+gloriatio tua. Sequitur te Sol justitiae, quem te esse
+vana simulatione jactabas, cujus fervore pariter et
+splendore in nihilum redactus omnino dispareas.
+Frustra quoque paras venturum in fine saeculorum
+<pb n="0350A"/>
+Dominum, tanquam veri solis ortum, in damnato
+illo quem assumpturus es homine praevenire, et
+extolli super omne quod dicitur, aut colitur Deus;
+quia et tunc adventus ejus illustratione penitus
+destrueris.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Quam melius, et certe non ad insipientiam sibi,
+Joannes Baptista, siquidem et ipse lucifer fuit, non
+sua praesumptione, ne et ipse fur esset et latro, sed
+Dei Patris auctoritate praemissus est ante Dominum! <hi>Ecce,</hi> 
+ inquit, <hi>mitto angelum meum ante faciem tuam <note>(Luc. VII, 27)</note>
+          </hi>,
+etc. Habes et in psalmo de eodem: <hi>Paravi lucernam Christo meo 
+ <note>(Psal. CXXXI, 17)</note>
+          </hi> Ille
+enim erat lucerna ardens et lucens: et voluerunt
+Judaei ad horam exsultare in lumine ejus, sed non
+ipse. Unde ergo? Ipsum interroga, ipse de se loquatur.
+<pb n="0350B"/> <hi>Amicus,</hi> 
+ inquit, <hi>sponsi stat, et gaudio gaudet
+propter vocem sponsi <note>(Joan. III, 29)</note>
+          </hi>. Stat ergo
+Joannes: neque enim arundo est vento agitata. Stat
+quia amicus est, stat quia ardens est, et seraphim
+stare describuntur. Vere amicus sponsi, qui procedentis
+de thalamo suo non aemulatur gloriam, sed
+parat viam, sed praedicat gratiam; ut et ipse de
+plenitudine ejus accipere mereatur. Lucet ergo
+Joannes, tanto utique clarius, quanto amplius fervet;
+tanto verius, quanto minus appetit lucere. Fidelis
+lucifer, qui Solis justitiae non usurpare venerit, sed
+praenuntiare splendorem. <hi>Non sum ego,</hi> inquit, <hi>Christus; venit fortior me post me, cujus non sum
+dignus solvere corrigiam calceamenti;</hi> 
+ et illud: <hi>Ego
+baptizo vos aqua, ille baptizabit vos Spiritu sancto et
+<pb n="0350C"/>
+igne <note>(Joan. I, 20, 26, 27, 33)</note>
+          </hi>. Ac si manifeste
+lucifer dicere videatur: Quid admiramini intuentes
+splendorem meum? Non sum ego sol; longe alium
+videbitis eum, in cujus comparatione tenebrae sum,
+et non lux. Ego, tanquam sidus antelucanum, matutino
+vos rore perfundo; ille emittet in fervore
+radios suos, solvet glacies, paludes siccabit, algentes
+calefaciet, pauperibus erit pro vestimento. Nec
+sane dissonat a verbo judicis vox praecursoris, sed
+manifeste ignem a Joanne promissum Christus exhibuit,
+dicens: <hi>Ignem veni mittere in terram.</hi> <emph>948</emph>
+</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Dicas fortassis, in igne ut fervorem, sic
+et splendorem esse. Non contendo, licet fervor ei
+quodam modo substantialior videatur. Ipsum potius
+<pb n="0350D"/>
+audiamus, quid magis in igne commendet. <hi>Ignem,</hi> 
+ait, <hi>veni mittere in terram; et quid volo, nisi ut
+ardeat?</hi> Cognovisti certe quid velit. Sed ne illud
+quidem ignoras, quod vita in voluntate ejus <note>(Psal.
+XXIX, 6)</note>; et servus sciens, nec faciens Domini voluntatem,
+plagis plurimis habeat vapulare <note>(Luc. XII,
+47)</note>. Quid lucere festinas? Nondum illud advenit
+tempus, in quo fulgebunt justi, sicut sol, in regno
+Patris eorum. Interim perniciosus est iste appetitus
+lucendi: fervere enim multo melius. Denique si
+tam vehementer splendorem desideras, quod videri
+vis, esse curato; et primum quaere fervorem, nec
+dubium quin et splendor adjiciatur tibi. Alioquin
+incassum laboras, quia vanus splendor absque fervore.
+Mutuala, aut magis certe simulata lux est,
+<pb n="0351A"/>
+quae non ab igne procedit. Quod autem alienum est,
+ad modicum poteris usurpare. Erit major confusio,
+quod non erat tuum, tuum voluisse videri. Luna, ut
+aiunt, habet absque fervore splendorem, sed et
+ipsum mutuatur a sole; ideoque tam frequenter,
+imo et semper mutatur, nec unquam in eodem statu
+permanet. Sic profecto <hi>stultus ut luna mutatur, sapiens
+permanet ut sol <note>(Eccli. XXVII, 12)</note>
+          </hi>. Ille, inquam,
+stultus, qui in decore suo perdidit sapientiam, id
+est qui refriguit in splendore.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Cecidit ergo Lucifer ut fulgur de coelo; <hi>seraphim
+vero stant super illud.</hi> Stant plane seraphim; quia
+charitas nunquam excidit <note>(I Cor. XIII, 8)</note>. Stant
+attoniti et suspensi in contemplatione sedentis in
+throno, stant in aeterna incommutabilitate et aeternitate
+<pb n="0351B"/>
+incommutabili. Tu sedere tentasti, o impie,
+propterea tui moti sunt pedes, et effusi sunt gressus
+tui. Filius est qui sedet in throno, Dominus sabaoth,
+cum tranquillitate judicans omnia. Sola sedet Trinitas,
+quae sola habet immortalitatem [ <hi>alias,</hi> immutabilitatem];
+sola est apud quam non est transmutatio,
+nec vicissitudinis obumbratio. Seraphim vero
+stant immutabiles quidem, sed suo modo, non in
+ejus comparatione. Stant extendentes se et intendentes
+in eum, in quem prospicere concupiscunt.
+Qui sedere praesumpsit, seipso voluit esse contentus:
+unde solam hodieque malitiam esurit; quia solam
+habet hanc a semetipso. <hi>Cum loquitur mendacium,
+de proprio loquitur; quia mendax est, et pater ejus</hi> 
+<pb n="0351C"/> <note>(Joan. VIII, 44)</note>.
+Quod audis de verbo mendacii,
+intellige et de opere malitiae. Et licet male sibi in
+malo complaceat, sufficere tamen sibi nunquam
+poterit nec in ipso. Sola proinde sedet Trinitas
+summa, quae sola habet in se esse: in se est, et
+ideo sola vere est; sola se fruitur, sola nullius eget,
+sola sufficit sibi ipsi.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>SERMO IV. <hi>De verbis Isaiae prophetae,</hi> VI, 2.</head>
+<div3>
+          <head>1.</head>
+          <p>
+ Cum dixisset propheta, quia <hi>seraphim stabant,</hi> 
+adjunxit deinde, et ait: <hi>Sex alae uni, et sex alae alteri.</hi> 
+Quid sibi volunt alae istae, fratres? Ergone etiam
+cum hiems transierit, et sedebit Rex super solium,
+volandum adhuc erit et ipsis seraphim, ut possint
+diversis occurrere necessitatibus diversorum, ab
+<pb n="0351D"/>
+imminentibus liberare periculis, opem ferre laborantibus,
+in tribulatione positos consolari? Absit ut
+in illo aeternae beatitudinis regno necessitas, aut
+periculum, aut labor, aut tribulatio sit, cui oporteat
+subveniri. At quid ergo tunc alae? Placet mihi statio
+illa, omnino sic volo manere, nec aliquid prorsus
+admitto, quo mihi stabilitas illa depereat. Verumtamen
+scio, beate Isaia, quod propheta es tu, et
+spiritum ejus habes, qui abundantia pietatis excedit
+hominum non modo merita, sed et vota. Salva mihi
+sit illa tam amata stabilitas: jam si quid alae istae
+ad beatitudinem addiderint, non recuso. Credo autem
+sicut in statione immutabilitatem, sic et in
+<pb n="0352A"/>
+volatu alacritatem promitti, ne videlicet insensibilis
+quaedam et quasi lapidea stabilitas aestimetur. Sed
+dicas: Etsi alas habere necesse est, quare tam multas?
+Quid sibi vult multiplicitas <emph>949</emph> ista pennarum?
+Audi quod sequitur: <hi>Duabus alis velabant caput,
+duabus pedes, et duabus volabant.</hi> In quibus
+verbis videre mihi videor, quod de statione dictum
+est, volatu manifestius explicari. Quo enim seraphim
+volant, nisi in eum, cujus ardent amore? Vide
+flammam quasi volantem, et stantem simul; nec
+miraberis jam seraphim stantes volare, stare volantes.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Sed quia diximus quo volant; ipsas quoque
+quibus volant alas exigere religiosa curiositas vestra
+videtur. Certius posset et credibilius testimonium
+<pb n="0352B"/>
+perhibere, cui datum est et videre. Ego tamen opinor
+non incongrue pennas istas agnitionem et devotionem
+intelligi posse, quibus in eum, qui supra ipsos
+est, seraphim rapiuntur. Levat quippe cognitionis
+ala, sed sola non sufficit. Ruit citius qui una tantum
+ala volare contendit: et quo magis attollitur,
+pejus colliditur. Experti sunt hoc philosophi gentium,
+qui cum cognovissent Deum, non sicut Deum
+glorificaverunt, sed evanuerunt in cogitationibus
+suis, et obscuratum est insipiens cor eorum. Denique
+traditi in reprobum sensum, usque in ipsis
+etiam passiones ignominiae corruerunt <note>(Rom. I, 21,
+26, 28)</note>; adeo vera probatur illa sententia: <hi>Scienti
+bonum et non facienti, peccatum est illi <note>(Jac. IV, 17)</note>
+          </hi>.
+Sic et zelus absque scientia, quo vehementius irruit,
+<pb n="0352C"/>
+eo gravius corruit, impingens nimirum atque resiliens.
+Ubi vero intelligentiam charitas, agnitionem
+devotio comitatur; volet secure quisquis ejusmodi
+est, volet sine fine, quia volat in aeternitatem.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Jam super ea, quae praemittitur, capitis et pedum
+velatione exstat a Patribus probata sententia,
+Dei caput, pedesque velari, eo quod lateat quid ante
+mundum fuerit, quidve futurum sit post ejus consummationem.
+Et hoc quidem pro eo, quod distincte
+in Latinis codicibus scriptum est: <hi>Caput ejus et
+pedes ejus.</hi> Testatur autem interpres noster
+in Hebraeo verbum esse commune, quod interpretari
+possit <hi>ejus,</hi> et <hi>suam;</hi> ut seraphim juxta Hebraei sermonis
+ambiguitatem, vel faciem pedesque Dei, vel
+<pb n="0352D"/>
+suam faciem ac pedes operire dicantur. Unde et
+mirum videri potest, cur e duobus eum magis in
+interpretatione elegerit sensum, quem visionis ipsius
+consequentia minus videtur admittere, ut videlicet
+volarent, et velarent pariter caput pedesque sedentis,
+nisi quod Origenis expositionem secutus est in hac
+parte.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Quod si de ipsis quoque seraphim licet accipere,
+sic pinge ea, ut operto capite et pedibus, solum
+appareat corpus medium, sed et ipsum quoque
+non penitus, propter eas nimirum alas, quibus volare
+perhibentur. Considero siquidem quasi quoddam
+caput, corpus et pedes meos in verbis Apostoli,
+<pb n="0353A"/>
+quibus ait: <hi>Quos enim praescivit et praedestinavit,
+conformes fieri imaginis Filii sui: et quos praedestinavit,
+hos et vocavit; quos autem vocavit, hos et justificavit;
+quos autem justificavit, hos et magnificavit <note>(Rom. VIII, 29, 30)</note>
+          </hi>.
+Itaque initium meum solius
+gratiae est, et non habeo quid mihi in praedestinatione
+attribuam, sive vocatione. Non sic sane ab
+opere justificationis alienus sum: operatur et illud
+gratia, sed plane mecum. Videsne quemadmodum
+seraphim in medio appareat aliquatenus? Porro
+consummatio quidem et ipsa solius gratiae est: nec
+est mihi in hac parte, vel cum ea, sive in ea gloriari,
+quasi coadjutor videar, aut cooperator. Velat
+itaque seraphim caput suum duabus pennis, si et
+veraciter cognoverit, et humiliter fateatur, quia
+<pb n="0353B"/>
+misericordia eum sola praevenerit. Velat et pedes
+alis aeque duabus, si misericordiae quoque, quae
+subsecutura est, nec ignarus exstiterit, nec ingratus.
+Quam sane capitis et pedum velationem et nunc
+quoque negligere non oportet, licet tunc maxime
+perficienda sit, quando judex sedebit super solium,
+et astantes sibi seraphim et agnitione veritatis subtilius
+illustrabit, et inflammabit vehementius charitatis
+ardore. In quorum numero indignos nos servos
+nominis sui ipsa, de qua locuti sumus, <emph>950</emph> constituere
+dignetur misericordia, quae ab aeterno est et
+usque in aeternum super electos, in medio quidem
+aliquatenus ostendens liberum arbitrium, meriti
+gratia; principium vero et finem omnino soli vindicans
+sibi: ut sit nobis alpha et omega Dominus
+<pb n="0353C"/>
+Deus noster; et pro utroque jure clamemus: <hi>Non
+nobis, Domine, non nobis, sed nomini tuo da gloriam <note>(Psal. CXIII, 1)</note>
+          </hi>.
+Amen.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>SERMO V. <hi>De verbis Isaiae prophetae,</hi> VI, 1, 3.</head>
+<div3>
+          <head>1.</head>
+          <p>
+ Commendant nobis sacrae litterae Christum
+Dominum et ex Patre, et in Patre, et cum Patre,
+et a Patre, et pro Patre, etiam et sub Patre. Quod
+dicitur, ex Patre, ineffabilis est nativitas; quod in
+Patre, consubstantialis unitas; quod cum Patre,
+aequalitas majestatis. Sane enim tria haec ab aeterno.
+Caeterum si ex Patre nascens; quid in Patre, aut
+cum Patre? Non incongrue forsitan in Patre cubans,
+cum Patre sedens dicatur. Et audite consessus
+<pb n="0353D"/>
+hujus, et hujus accubitus rationem. Sicut enim
+sessio majestatem, sic consessio aequalitatem exprimit
+majestatis, praesertim cum sit ei sedes a
+dextris Patris, non sane sub pedibus, vel quasi a
+tergo. Et sedere quidem jam quiescere est, sed
+jacere magis. Quid autem delectabilius et quodammodo
+dulcius esse videbitur Filio, quod in Patre est,
+an quod cum Patre omnibus praeest? In quo putas
+horum summa illa pax Dei, quae exsuperat omnem
+sensum, et singularis requies Domini competentius
+assignetur? Etsi digne satis ore id exprimi nequeat,
+corde tamen forsitan pie concipitur: ut salva quidem
+in omnibus illius indivisibili simplicitate essentiae,
+inter gloriae aequalitatem, et substantiae unitatem,
+velut similis quaedam ei, quae inter consessum
+<pb n="0354A"/>
+et accubitum est, cogitari posse distinctio videatur.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Denique parum videtur sponsae videre sedentem;
+cubantem sibi flagitat indicari. <hi>Indica mihi,</hi> 
+ait, <hi>quem diligit anima mea, ubi cubes in meridie <note>(Cant. I, 6)</note>
+          </hi>.
+Sed et animae omni, quae sanum sapit,
+dulcius sapit per omnem modum quod Apostolus
+ait: <hi>Qui adhaeret Deo, unus spiritus est <note>(I Cor. VI,
+17)</note>
+          </hi>; quam quod apostolis dicitur: <hi>Cum sederit Rex
+in sede majestatis suae, sedebitis et vos judicantes <note>(Matth. XIX, 28)</note>
+          </hi>.
+Haud minus utique jucundior
+sessione cubatio. <hi>Ego in Patre,</hi> ait Filius, <hi>et Pater
+in me est <note>(Joan. X, 38)</note>
+          </hi>. Non potuit expressius substantiae
+unitas commendari. Ubi enim uterque in
+altero, nihil quasi exterius licet, nihil interius cogitari;
+<pb n="0354B"/>
+simplicissimam magis credi necesse est in
+ambobus substantiae unitatem. Verumtamen aliquatenus
+huic simile est quod dicitur: <hi>Qui manet in
+charitate, in Deo manet, et Deus in eo <note>(I Joan. IV,
+16)</note>
+          </hi>: nisi quod hic quidem spiritualis quaedam unio,
+secundum quod supra memoravimus: <hi>Qui adhaeret
+Deo;</hi> non quidem unum, id est non una substantia, <hi>sed unus spiritus est;</hi> 
+ illic vero naturalis potius et
+substantialis unitas designatur. Unde et habes in
+Evangelio: <hi>Ego et Pater unum sumus <note>(Joan. X, 30)</note>
+          </hi>.
+Illud proinde juxta praefatam similitudinem, tanquam
+cubiculum Unigeniti, et quasi summa quaedam
+requies Domini est. Nos quoque per hanc voluntatum
+unionem et adhaesionem spiritus, quam
+nimirum charitas facit pro nostro quidem modulo,
+<pb n="0354C"/>
+in hoc suum cubiculum et in suam requiem factus
+etiam primogenitus introducit.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Jam vero quod dicitur a Patre, ambulantem significat,
+et ad eum, quem proxime ipso praestante
+celebraturi sumus, spectat Incarnationis ejus adventum.
+Hinc nimirum et ipse ait: <hi>Ego enim a Deo
+processi et veni <note>(Joan. VIII, 42)</note>
+          </hi>. In terris denique
+visus, et cum hominibus conversatus, medius nostrum,
+quem nesciebamus, stetit, verus quidem Emmanuel, <hi>nobiscum Deus,</hi> 
+ nobiscum stans, sed pro
+Patre. Quod enim nobiscum stetit, adjutorium;
+quod pro Patre stetit, zelum designat. Paternam
+nempe quaerebat in omnibus gloriam, cujus et venerat
+facere voluntatem. Caeterum si pendentem <emph>951</emph> 
+<pb n="0354D"/>
+consideres; si Christum et hunc crucifixum attendas,
+ibi maxime evidentissimeque eum sub Patre
+reperies. Hoc enim proprie ac specialiter ad humanae
+pertinuit naturae humilitatem, secundum quam ipse
+ait: <hi>Pater major me est <note>(Joan. XIV, 28)</note>
+          </hi>. Dicerene
+audebimus quod aliquando etiam fuerit sine Patre?
+Nemo id praesumeret, si non prior ipse dixisset: <hi>Deus meus, Deus meus, utquid dereliquisti me? 
+ <note>(Matth.
+XXVII, 46.)</note>
+          </hi> Quasi quaedam enim ibi derelictio fuit,
+ubi nulla fuit in tanta necessitate virtutis exhibitio,
+nulla ostensio majestatis.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Habemus itaque Christum ex Patre nascentem,
+in Patre cubantem, cum Patre sedentem, a Patre
+ambulantem, pro Patre stantem, sub Patre pendentem,
+sine Patre quodammodo morientem. Quonam
+<pb n="0355A"/>
+igitur modo ex his vidisse eum credemus Isaiam,
+cum diceret: <hi>Vidi Dominum sedentem super solium
+excelsum et elevatum?</hi> Longe enim per omnem modum
+dissimilis ea visio fuit, de qua alibi idem propheta: <hi>Vidimus eum,</hi> 
+ inquit, <hi>et non erat ei species
+neque decor: et aestimavimus eum tanquam leprosum,
+et percussum a Deo, et humiliatum.</hi> Idem utrobique
+vidit eumdem; sed non vidit eodem modo, ac
+per hoc quodam modo non eumdem. Ibi enim vidit
+eum lividum plagis, saturatum opprobriis, afflictum
+suppliciis, lacessitum injuriis. Vidit denique contemptibilem,
+vidit pendentem, vidit propter nos morientem,
+et ait: <hi>Attritus est propter scelera nostra, cujus
+livore sanati sumus <note>(Isai. LIII, 2-5)</note>
+          </hi>. Ibi, inquam, novissimus
+virorum apparuit et despectus; hic autem
+<pb n="0355B"/>
+plena erat omnis terra majestate ipsius. Ibi vir dolorum,
+et sciens infirmitatem; hic Dominus sedens.
+Et illa quidem communis visio verbo pluralis numeri
+designatur: haec autem tam singularis est, quam
+sublimis. Ibi ergo tanquam unus de multitudine: <hi>Vidimus</hi> 
+ ait; hic vero tanquam solus et solitarius,
+levans se supra se: <hi>Vidi,</hi> inquit, <hi>Dominum sedentem,</hi> 
+etc. Sane competenter Dominus dicitur, qui
+sedere conspicitur. Sedere enim praesidentis est,
+sedere dominantis est et regnantis. Maxime vero
+sedere super solium, dominationem notat; nam sedere
+simpliciter, aliquando et humiliationem. Caeterum,
+ut praediximus, qui in Patre cubat delicians,
+cum Patre imperans sedet; ibi sponsus amabilis,
+hic dominus admirabilis; denique gloriosus Deus in
+<pb n="0355C"/>
+sanctis suis, mirabilis in majestate sua.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ <hi>Vidi,</hi> inquit, <hi>Dominum sedentem super solium
+excelsum et elevatum, et plena erat omnis terra majestate
+ejus: et ea quae sub ipso erant, replebant templum.</hi> 
+Quae enim sub ipso erant? Nunquid ipsum
+quod dixerat solium? Quamlibet excelsum et elevatum,
+sub ipso tamen nihilominus erat. Si enim
+ipse super solium sedens, solium plane sub ipso. Et
+quomodo illud replebat templum? Deinde quando et
+ipsa jam terra omnis plena est majestate ejus; quomodo
+templum adhuc vel unde repletur? Enimvero
+disce ex his quae audis, solium non machinam imaginari
+corpoream, sed angelicam intelligere creaturam.
+Si enim sedes sapientiae est anima justi, quam
+<pb n="0355D"/>
+dignior sedes angeli sancti? Hoc plane solium gloriae
+ejus, excelsum per naturam, sed multo magis per
+gratiam elevatum. Excelsos enim fecit eos natura
+conditionis, elevatos gratia confirmationis, de qua
+dicitur: <hi>Verbo Domini coeli firmati sunt <note>(Psal. XXXII,
+6)</note>
+          </hi>. Ea igitur agmina angelorum, in quibus sedet
+Deus, et quae sub ipso sunt, templum replent, licet
+jam terra omnis ipsius plena sit majestate. Ubique
+enim regnat, ubique imperat, ubique majestas ejus,
+sed gratia forte non ita. Non, inquam, ubique sicut
+potestas, sic et voluntas ejus bona, et beneplacens
+et perfecta. Alioquin quid est quod dicimus: <hi>Fiat
+voluntas tua, sicut in coelo et in terra? <note>(Matth. VI, 10.)</note>
+          </hi> 
+Fit enim voluntas ejus de omnibus, fit per omnes,
+non in omnibus tamen. In electis spiritibus fit voluntas
+<pb n="0356A"/>
+Dei, quando eis efficitur cum ipso una voluntas.
+Haec sane adhaesio spiritualis unum spiritum faciens,
+sicut multitudinis quoque credentium cor unum et
+anima una legitur exstitisse <note>(Act. IV, 32)</note>. <hi>Et ea quae
+sub ipso erant, replebant templum.</hi> Replebant omni
+benedictione spirituali, replebant <emph>952</emph> consolatione
+divina, replebant divisionibus gratiarum, replebant
+denique fructu sanctificationis: siquidem domum
+tuam, Domine, decet sanctitudo. Replebant diversis
+charismatum donis, spiritu sapientiae et intellectus,
+consilii et fortitudinis, scientiae et pietatis; et replebant
+illud spiritu timoris Domini.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ <hi>Seraphim stabant super illud.</hi> Nomen est ordinis
+angelorum summi atque supremi, ut merito
+stare super caeteros describantur: et ipsi tamen
+<pb n="0356B"/>
+quamlibet caeteris praestent, astant nihilominus
+Domino praesidenti, devotum utique ministerium,
+et plenum reverentiae obsequium exhibentes. Aliter
+enim Domini, aliter angeli, aliter hominis intelligi
+convenit stationem. Stat Christus pro Patre zelans,
+Patris gloriam quaerens; et tanquam fidelis Unigenitus,
+imo et primogenitus Patris, zelo Patris adjuvans
+adoptivos. Sic illum Stephanus stantem
+vidit <note>(Act. VII, 55)</note>, quem habuit adjutorem: sic
+Propheta in adjutorium eum surgere precabatur, <hi>Exsurge,</hi> 
+ inquiens, <hi>Domine, adjuva nos <note>(Psal. XLIII,
+26)</note>
+          </hi>. Sane angelica statio ministratio est, dicente
+propheta: <hi>Millia millium ministrabant ei, et decies
+centena millia assistebant <note>(Dan. VII, 10)</note>
+          </hi>. Nam hominis
+quidem stare, persistere est in vigore animi, et
+<pb n="0356C"/>
+observatione propositi. Sic Moyses stetit in confractione
+in conspectu Domini, ut averteret iram
+ejus: sic stetit Phinees, et placavit <note>(Psal. CV, 26,
+30)</note>. <hi>Seraphim stabant super illud.</hi> Quid sibi vult,
+quod non unum, non plurimos stantes vidisse se
+perhibet propheta, sed duos? Duos siquidem ei
+apparuisse constat ex eo quod secutus adjunxit: <hi>Sex alae uni, et sex alae alteri.</hi> 
+ Et bene duo stabant: <hi>Vae</hi> 
+ enim <hi>soli, quia si ceciderit, non habet sublevantem <note>(Eccle. IV, 10)</note>
+          </hi>.
+Vae tibi, superbiae spiritus, solitudinis
+et solitariae praesumptionis amator: non
+stetisti in veritate; expulsus es; pes superbiae stare
+non potuit. Solus sedere volens, tanquam fulgur cecidisti
+de coelo, non habiturus aliquando sublevantem.
+<pb n="0356D"/>
+</p>
+        </div3>
+<div3>
+          <head>7. </head>
+          <p>
+ <hi>Sex alae uni, et sex alae alteri.</hi> Ad quid multiplicitas
+ista pennarum? <hi>Duabus,</hi> inquit, <hi>velabant
+caput ejus, et duabus pedes; et duabus volabant.</hi> 
+Grande mysterium et profundum utique sacramentum!
+Attentas in vobis haec verba desiderant aures,
+sed multo magis disertam in nobis linguam exigunt,
+maximeque animum spiritualem. Dico autem
+utcunque quod sentio, nec sane affirmans dico, sed
+conjectans quodammodo et opinans. Quid enim
+aestimare vetat, dejecto Lucifero, ad pervigiles excubias
+seraphim constitutos; sicut ejecto homine,
+teste Scriptura, cherubim ad custodiam posuit Deus?
+Nec incongrue forsitan cherubim flammeus traditur
+gladius <note>(Gen. III, 24)</note>, ut a ligno vitae incisio pariter
+et incensio, quibus nihil carni terribilius, manum
+<pb n="0357A"/>
+prohibeant corporalem. Porro seraphim tantum
+alas accipiunt, quarum velamine arceant oculum
+spiritualem. Denique <hi>duabus,</hi> inquit, <hi>velabant
+caput ejus, et duabus pedes;</hi> ut nec alta Dei, nec
+profunda ejus iniquus ille valeat contemplari. Erit
+cum revelabitur gloria Domini; sed non erit hoc
+nisi factum fuerit ante quod scriptum est, <hi>Tollatur
+impius, ne videat gloriam Dei <note>(Isai. XXVI, 10)</note>
+          </hi>. Interim
+sane velatur caput, velantur pedes, ut medium
+quidem aliquid eidem impio videndum, sed ad invidendum
+utique relinquatur. Et velantur alis, quae
+nimirum sic illum arceant, ut istos sustineant et
+sustollant.</p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ Quaerendum tamen prius, quibus alis volare
+dicantur; quia <hi>duabus,</hi> inquit, <hi>volabant.</hi> Nec incongrue
+<pb n="0357B"/>
+forsitan duas istas naturae, et gratiae dicimus:
+praesertim cum prius quoque in his ipsis etiam solii
+celsitudo et elevatio a nobis fuerit assignata. Vivaci
+siquidem per naturam intellectu, et ferventi
+nihilominus affectu per gratiam in eum qui supra
+ipsos est extenti jugiter et intenti, stare quidem (ut
+diximus) per ministerium, sed et volare per studium
+perhibentur. Licet enim velent caput Domini, velent
+etiam pedes; sed sibi ista non velant, magis autem
+sedule volant et volitant inter ista, et alta potentiae
+ejus, et profunda sapientiae vestigantes. Nec sane
+scrutatores sunt majestatis, ut proinde opprimantur
+a gloria: quod non minus diligant quam intelligant,
+utpote quos <emph>953</emph> ille regit et agit Spiritus
+qui scrutatur etiam alta Dei. Superbus ille Lucifer,
+<pb n="0357C"/>
+lucem praeferens, non ignem habens, alteri tantum
+innixus alae, casum facere potuit, non volatum. Exsultavit
+enim lucidus esse, non fervidus, non incensus,
+quod seraphim sonat. Non ergo stetit, quia
+contempsit; sed nec volare potuit, quod praesumpsit.
+Sustulit eum naturae vivacitas, sed in suam
+plane perniciem, quippe quem defectus gratiae mox
+dejecit. Nec dissimilis sane illorum casus, qui cum
+cognovissent Deum, non glorificaverunt, aut gratias
+egerunt: quo tandem merito traditi sunt in reprobum
+sensum, et obscuratum est insipiens cor eorum <note>(Rom. I, 21, 28)</note>.
+Denique et ipsi eorum principi
+interpositum est velamen, quod nulla jam naturae
+vivacitate pertranseat, ut ipsius, qui super solium
+<pb n="0357D"/>
+sedet, caput aut pedes valeat intueri. Siquidem
+seraphim stantes et astantes duabus alis caput velant,
+duabus pedes.</p>
+        </div3>
+<div3>
+          <head>9.</head>
+          <p>
+ Non est corporalis divina substantia, nec in
+formam hominum membris distincta corporeis.
+Spiritus est Deus; et quae de eo dicuntur, spiritualiter
+vestiganda. Alioquin quis nobis revelabit hoc
+caput, et pedes istos, quos geminis alis seraphim
+velant, nisi Spiritus ipse, qui novit omnia quae in eo
+sunt, et scrutatur etiam alta Dei? Ego enim opinor
+ipsa esse quae in hoc loco capitis nomine designantur.
+Itaque secundum hunc sensum caput ejus, majestas
+ejus, potestas ejus, sempiterna virtus atque
+divinitas. Caput ejus, juxta illud propheticum: <hi>Justitia tua sicut montes Dei.</hi> 
+ Nempe quod sequitur,
+<pb n="0358A"/> <hi>Judicia tua abyssus multa 
+ <note>(Psal. XXXV, 7)</note>
+          </hi>, non incongrue
+forte videtur pedum posse appellatione
+signari. Sunt enim velut quidam pedes ejus, investigabiles
+viae ejus, inscrutabilia judicia ejus, profundum
+sapientiae ejus, et irreprehensibilis quaedam,
+sed incomprehensibilis dispositio ejus. Ad hos
+pedes ipsum quoque Dominicae incarnationis mysterium
+specialiter noscitur pertinere, et omnis pariter
+operatio nostrae salutis. Cernere est quam sit justitia
+illa sublimis, quam sicut montes Dei propheta esse
+miratur. Nostra enim (si qua est) humilis est justitia,
+recta forsitan, sed non pura. Nisi forte meliores
+nos esse credimus, quam patres nostros, qui non
+minus veraciter quam humiliter aiebant: <hi>Omnes
+justitiae nostrae, tanquam pannus menstruatae mulieris</hi> 
+<pb n="0358B"/> <note>(Isai. LXIV, 6)</note>.
+Quomodo enim pura justitia, ubi
+adhuc non potest culpa deesse? Recta proinde interim
+videri potest justitia hominum, si tamen peccato
+non consentiant, ut non regnet in eorum mortali
+corpore. Nam primi hominis in initio quidem
+non modo recta, sed etiam pura fuit, quandiu ei
+datum est nec sentire peccatum. Caeterum et haec
+ipsa, quoniam firma non fuit, et puritatem facile
+perdidit, et ne ipsam quoque retinuit rectitudinem
+suam. Sane apud angelos justitia recta, pura, et
+firma est; sublimis quidem, sed adhuc longe inferior
+quam divina. Non enim innata est eis, sed a Deo
+collata: ut natura ipsa, quod ex se est, non modo
+justitiae, sed etiam injustitiae capax inveniatur.
+Nunquid non ista est pravitas quaedam, quam in
+<pb n="0358C"/>
+angelis suis vera illa Justitia legitur invenisse? <note>(Job IV, 18)</note>.
+ <hi>Non enim justificabitur in conspectu
+tuo omnis vivens,</hi> ait is qui Dei justitiam minime
+ignorabat <note>(Psal. CXLII, 2)</note>. Nec ait: Omnis homo,
+sed, <hi>omnis vivens,</hi> forte, ut ne ipsos angelicos eum
+noveris spiritus excepisse. Vivunt enim et ipsi,
+tanto verius, quanto propius adstant ei apud quem
+est fons vitae. Nihilominus etiam justi sunt, sed ex
+eo, non coram eo; munere ejus, non in ejus comparatione.
+Ipse enim sibi justitia est, cujus voluntas
+non tam aequa, quam ipsa aequitas: et utraque
+non aliud quam ipsa substantia est. Illa ergo justitia
+verissime sicut mons est, quae recta est, quae
+pura est, quae firma est, et, ut ita dixerim, etiam
+<pb n="0358D"/>
+substantia est. Quanta in hoc capite latet altitudo!
+quando gloria est, quantaque sublimitas in hoc
+umbroso et condenso monte reposita!</p>
+        </div3>
+<div3>
+          <head>10.</head>
+          <p>
+ Quibus tamen putamus alis hoc caput seraphim
+velant, ut nulla sublimitate naturae, nulla rationis <emph>954</emph> 
+ perspicacitate nequam oculus in illam
+queat irrumpere veri luminis claritatem? Duabus,
+ni fallor, alis, suae videlicet ipsorum gloriae, et
+felicitatis. Ineffabiliter siquidem delectantur in admiratione
+contemplationis illius; nec minus gloriantur
+in ipsius veneratione. Iniquus ille admirationem
+quidem, sed non venerationem habens, quia
+subdi noluit per venerationem, figi non valuit per
+admirationem. Denique admirationem ipsam in
+aemulationem convertit; nec venerari dignatus, sed
+<pb n="0359A"/>
+conatus est imitari. Quam melius seraphim sua ipsa
+admiratione felices, veneratione etiam venerabiles
+fiunt, veram in ipso habentes gloriam, cui servire
+regnare est, et apud quem omnis qui se humiliat
+exaltatur? Et nunc audi quemadmodum his duabus
+alis ipsum, quod diximus, caput Domini ne iniquus
+ille inspiciat, velare seraphim videantur.
+Quoties enim sursum dirigit aciem, in angelicam
+statim felicitatem et gloriam malignus offendit; et
+offendit oculum pessimus humor, livor proprius, ut
+penetrare ultra non possit. Sic nimirum quasi gemino
+quodam velamine, ne sublimiora prospiciat, invidus
+praepeditur; ad illorum, quos superiores
+habere dolet, modo quidem felicitatem, modo gloriam,
+modo utramque simul, reverberata acie contabescens.
+<pb n="0359B"/>
+Quis enim tam gravis pruritus oculi, quam
+invidia est? Nec vero aliis livor invidus, quam
+aliena gloria et felicitate torquetur. Miseria enim,
+ut aiunt, invidia caret.</p>
+        </div3>
+<div3>
+          <head>11.</head>
+          <p>
+ Sed et pedes Domini, quibus nimirum impenetrabilem
+judiciorum ejus abyssum, et dispositionis
+ejus vias diximus investigabiles designari, duabus
+aeque alis velant seraphim. Ego autem dico, prudentia
+et fidelitate. Cum enim et fideles pariter ministri
+sint, et prudentes; sic divina negotia gerunt,
+et saluti provident electorum, ut malignus ille deprehendere
+omnino non possit. Ex hoc pedum velamento
+factum reor, ut nesciens Dominum gloriae
+fecerit crucifigi: ex hoc quotidie fieri, ut salutis
+nostrae negotiis ignorans serviat et invitus, sero
+<pb n="0359C"/>
+postmodum plangens, quod dum obesse voluit, inventus
+est profuisse. Sic nimirum per administratorios
+spiritus illuditur ejus astutiae, quod et fideles
+sint qui detegere nolint, et prudentes qui norint
+tegere divinae erga nos providentiae et dispositionis
+arcana.</p>
+        </div3>
+<div3>
+          <head>12.</head>
+          <p>
+ Caeterum sicut e supremis duabus alis nequissimus
+ille admirationem habuit, sed non venerationem,
+<pb n="0360A"/>
+ut diximus; sic e mediis quoque spiritualem
+ei intellectum natura, sed non etiam gratia affectum
+dedit. Sed nihilominus ex infimis istis facile satis
+animadvertere est, quam inventus sit fidelitatis
+expers, non autem similiter caruisse prudentia. Nisi
+tu forte alium aliquem putas esse, qui dictus est <hi>callidior cunctis animantibus</hi> 
+ serpens <note>(Gen. III, 1)</note>.
+Forte etiam non incongrue dicimus quoniam eo
+ipso tam irrevocabilis casus ejus, irreparabilisque
+collisio fuerit, quod ex his quas diximus alis, sicut
+in parte dextra nulla adfuerit, sic in laeva nulla defuerit.
+Non ita sane duo illi, quos prophetica nobis
+visio commendavit stantes, et astantes Domino
+majestatis. Cujus etiam duabus, ut dictum est,
+alis caput velant; ipsa equidem sua admiratione,
+<pb n="0360B"/>
+in qua delectantur feliciter ac veneratione in
+qua sublimiter gloriantur: duabus etiam pedes, fidelitate
+videlicet atque prudentia. Porro duabus volant,
+naturae, ut diximus, perspicacia et efficacia
+gratiae. Sane mediam quasi quamdam longanimitatem
+nudam visibilemque relinquunt, longitudinem
+dico et benignitatem Dei, ad poenitentiam homines
+invitantis. Omnibus enim cernere est, quemadmodum
+solem suum super bonos et, malos oriri faciat,
+et pluat super justos pariter et injustos. Hac nimirum
+charitate verus ille Salomon quasi quaedam
+media sua constravit propter filias Jerusalem <note>(Cant. III, 10)</note>:
+ut quibus altiora se quaerere et profunda
+vestigare non licet; in his saltem mediis
+<pb n="0360C"/>
+valeant exerceri, et ad subtilium, sublimiumque
+exinde rerum <emph>955</emph> contemplationem promoveri
+aliquando mereantur. Caeterum nequissimus ille ex
+hac visione et in praesenti torquetur acrius, et
+gravius cruciabitur in futuro. Primum quidem,
+quod ipsam nobis longanimitatem benignitatis
+invideat; deinde, quod nequaquam sibi ipsi hac
+saltem occasione provideat, ut ad poenitentiam adducatur.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

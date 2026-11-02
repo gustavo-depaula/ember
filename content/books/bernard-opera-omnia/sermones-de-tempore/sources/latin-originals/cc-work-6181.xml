@@ -1,0 +1,418 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>In Septuagesima</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.InSep</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>SERMO I.</head>
+
+<pb n="0161D"/>
+<div3>
+          <head>1.</head>
+          <p>
+ Magna mihi consolatio est, fratres mei, in verbo
+ilio Domini, <hi>Qui ex Deo est, verba Dei audit (Joan.
+<pb n="0162D"/>
+VIII, 47)</hi> <emph>811.</emph> Propterea enim vos libenter auditis,
+quia ex Deo estis. Nec ignoro quod alio in loco dicit
+Scriptura: <hi>Ex ipso, et per ipsum, et in ipso sunt
+<pb n="0163A"/>
+omnia <note>(Rom. XI, 36)</note>
+          </hi>. Sed multo aliter sunt ex eo,
+qui, secundum beati Joannis Evangelium, <hi>non ex
+voluntate carnis nati sunt, sed ex Deo <note>(Joan. I, 13)</note>
+          </hi>.
+Unde et invenies ab eodem Joanne in Epistola sua
+scriptum: <hi>Omnis qui natus est ex Deo, non peccat;
+sed generatio caelestis conservat illum <note>(I Joan. V, 18)</note>
+          </hi>. <hi>Non peccat,</hi> 
+ inquit, id est non permanet in peccato;
+quia <hi>conservat illum,</hi> utique ut perire non possit, ea
+quae falli non potest <hi>generatio coelestis.</hi> Sive <hi>non
+peccat,</hi> id est, tantumdem est ac si non peccet, pro
+eo scilicet quod non imputatur ei peccatum: <hi>generatio</hi> 
+enim <hi>caelestis</hi> etiam in hac parte <hi>conservat
+illum</hi>. Sed generationem istam quis enarrabit?
+Quis potest dicere: Ego de electis sum, ego de praedestinatis
+ad vitam, ego de numero filiorum? Quis
+<pb n="0163B"/>
+haec, inquam, dicere potest? reclamante nimirum
+Scriptura, <hi>Nescit homo si sit dignus amore an odio <note>(Eccle. IX, 1)</note>
+          </hi>.
+Certitudinem utique non habemus;
+sed spei fiducia consolatur nos, ne dubitationis hujus
+anxietate penitus cruciemur. Propter hoc data sunt
+signa quaedam et indicia manifesta salutis, ut indubitabile
+sit eum esse de numero electorum, in quo
+ea signa permanserint. Propter hoc, inquam, quos
+praescivit Deus, et praedestinavit conformes fieri
+imaginis Filii sui, ut quibus certitudinem negat
+causa sollicitudinis, vel fiduciam praestet gratia consolationis.
+Hoc enim est unde semper solliciti, et in
+timore et tremore humiliemur necesse est sub potenti
+manu Dei, quoniam quales sumus, nosse possumus
+vel ex parte; quales autem futuri simus, id nosse
+<pb n="0163C"/>
+penitus nobis impossible est. Itaque qui stat, videat
+ne cadat; et in ea forma quae salutis indicium est,
+et argumentum praedestinationis, perseveret atque
+proficiat.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Porro inter ea quae fiduciam praestant et materiam
+spei, unum illud maximum est, de quo nunc
+coepimus loqui: <hi>Qui ex Deo est, verba Dei audit.</hi> 
+Nonnullos enim sic interdum audientes invenies, ac
+si nihil omnino ad eos pertineant quae dicuntur:
+non intrare cor suum, non discutere mores suos,
+non cogitare, ne forte quod audiunt dictum, sit
+propter eos. Magis autem si forte sermo Dei vivus et
+efficax, qui suo, et non ejus qui loquitur, arbitrio
+fertur quocunque voluerit; si, inquam, manifeste
+<pb n="0164A"/>
+adversus vitia illa processerit, quibus sese illi sentiunt
+obligatos, dissimulant, et avertunt oculos cordis,
+aut qualibet adinventione palliant vitia [ <hi>alias</hi> 
+audita], et seducunt miseri semetipsos. In his ergo
+salutis signa non video, magis autem vereor ne forte
+propterea non audiant verbum Dei, quia non sunt
+ipsi ex Deo. In vobis, fratres, (Deo gratias) vere
+invenio aures audiendi; nimirum cum in emendatione
+vestra sine mora appareat fructus verbi, sed etiam
+inter loquendum, fateor, nonnunquam sentire mihi
+videor fervorem studii vestri. Etenim quanto abundantius
+sugitis, tanto amplius replet ubera mea dignatio
+Spiritus sancti; et tanto copiosus datur quod
+propinem vobis, quanto citius quod propinatur hauritis
+[ <hi>alias</hi> hausistis]. Propterea saepius loquor vobis,
+<pb n="0164B"/>
+etiam praeter consuetudinem Ordinis nostri. Scio
+euim quis dixerit: <hi>Si quid supererogaveris, cum
+rediero, reddam tibi <note>(Luc. X, 35)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Initium Septuagesimae, fratres, hodie celebratur,
+cujus nomen in universa Ecclesia celebre satis
+habetur. Jam vero dico vobis, charissimi, quia
+plurimum in hoc nomine compatior mihi ipsi. Commovetur
+enim intra me spiritus meus, suspirans
+nimirum ad patriam illam in qua nec numerus est
+nec mensura nec pondus. Quandiu enim in pondere
+et mensura et numero universa corporis et animae
+bona recipio? Quanti mercenarii in domo Patris mei
+abundant panibus, ego autem hic fame pereo! Nam
+de corporali cibo ad Adam dictum est, et pervenit
+usque ad me: <hi>In sudore vultus tui vesceris pane tuo</hi> 
+<pb n="0164C"/> <note>(Gen. III, 19)</note>.
+Sed et cum laboravero, panis datur
+mihi in pondere, <emph>812</emph> potus in mensura, pulmenta
+in numero. Et de corporali quidem sic. Quid vero
+de spirituali? Utique antequam comedam, suspiro,
+atque utinam cum suspiravero et flevero, vel
+fragmentum exiguum merear de coelesti convivio,
+et tanquam catellus edam de micis quae cadunt de
+mensa dominorum meorum! O Jerusalem, civitas
+Regis magni, qui te ex adipe frumenti satiat, et
+quam fluminis impetus laetificat! in te nec pondus
+utique nec mensura, sed satietas est et affluentia
+summa. Sed nec habes numerum, quippe cujus participatio
+ejus in idipsum. Ego vero, qui totus sum in
+vicissitudine et numero, quando veniam ad unam
+<pb n="0165A"/>
+illam quam requiro? quando satiabor apparente
+gloria tua, Domine? quando inebriabor ab ubertate
+domus tuae, et torrente voluptatis tuae potabis me?
+Nunc enim tam exigua sunt stillicidia stillantia super
+terram, ut nec glutire quidem possim salivam
+meam.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Sic omnino, sic verum est, fratres, quoniam
+modo omnia dantur in pondere et mensura et numero;
+sed veniet dies quando omnia sunt cessatura.
+Nam de numero quidem legimus, quoniam <hi>sapientiae
+illius non est numerus <note>(Psal. CXLVI, 5)</note>
+          </hi>. Et alio in loco
+apud eumdem prophetam: <hi>Delectationes in dextera
+tua usque in finem <note>(Psal. XV, 11)</note>
+          </hi>. Audi etiam apud
+Apostolum pondus sine pondere: <hi>Supra modum,</hi> 
+inquit, <hi>in sublimitate aeternum pondus gloriae (II Cor.
+<pb n="0165B"/>
+IV, 17)</hi>. Audi pondus aeternum; sed attende quia
+praemiserit, <hi>supra modum.</hi> Sic et Christum audio
+mensuram sine mensura promittentem: <hi>Mensuram,</hi> 
+inquit, <hi>confertam, et coagitatam, et supereffluentem <note>(Luc. VI, 38)</note>
+          </hi>.
+Sed quando venient ista? Profecto in
+fine praesentis Septuagesimae, quod est tempus
+captivitatis nostrae. Sic enim legimus, quod captivati
+a Babyloniis filii Israel, terminum acceperunt annorum
+septuaginta; quibus transactis redierunt in
+sua, cum instauratum est templum, et civitas reaedificata <note>(Jerem. XXV, XXIX, et I Esdr., etc.)</note>.
+At vero
+captivitas nostra, fratres, quando finietur, quae tot
+annis, ab initio utique mundi, protenditur? Quando
+liberabimur a servitute ista? quando restaurabitur
+Jerusalem, civitas sancta? Utique completa hac
+<pb n="0165C"/>
+Septuagesima, quae ex denario et septenario constat,
+propter decem mandata quae accepimus, et septem
+impedimenta quibus a mandatorum obedientia retardamur.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Primum enim impedimentum nostrum et occupatio
+gravis, est ipsa necessitas hujus miseri corporis,
+quod, dum modo somnum, modo cibum, modo
+vestem, caeteraque similia quaerit, haud dubium quin
+frequenter impediat nos ab exercitio spirituali. Secundo
+loco impediunt nos vitia cordis, ut est levitas,
+suspicio, impatientiae aut invidiae motus, laudis
+appetitus, et similia, quae quotidie experimur in
+nobis. Tertium et quartum impedimentum accipe
+prosperitatem hujus saeculi et adversitatem. Sicut
+<pb n="0165D"/>
+enim corpus quod corrumpitur, aggravat animam,
+sic deprimit etiam terrena inhabitatio sensum multa
+cogitantem <note>(Sap. IX, 15)</note>. Utrinque ergo cave a
+laqueo tentationis, et quaere arma justitiae a dextris
+et a sinistris. Quintum impedimentum gravissimum
+et periculosissimum ignorantia nostra est. In multis
+enim omnino incertum habemus quid agere debeamus,
+ita ut quid oremus, sicut oportet, nesciamus.
+Sextum impedimentum est adversarius noster, qui
+<pb n="0166A"/>
+tanquam leo rugiens circuit quaerens quem devoret <note>(I Petr. V. 8)</note>.
+Atque utinam in istis sex tribulationibus
+liberaremur, ut vel in septima non tangeret
+nos malum, nec apprehenderet nos periculum in
+falsis fratribus. Utinam soli impugnarent nos maligni
+spiritus cum suggestionibus suis, et nihil nocerent
+homines perniciosis exemplis, persuasionibus importunis,
+sermonibus adulationis vel detractionis,
+atque aliis mille modis. Videtis certe quam necessarium
+sit ut adversus haec septem pericula, quibus
+impedimur, septiformis Spiritus sancti anxilio sublevemur.
+Pro his enim septem, quibus ab observantia
+Decalogi retardamur, in luctu poenitentiae
+Septuagesima praesens agitur. Unde et reticetur
+interim <emph>813</emph> Alleluia solemne, et humanae
+<pb n="0166B"/>
+transgressionis historia miserabilis ab exordio recensetur.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>SERMO II. <hi>De eo quod scriptum est, « Immisit Dominus soporem in Adam <note>(Gen. II, 21-24)</note>
+          </hi>. » </head>
+<div3>
+          <head>1.</head>
+          <p>
+ <hi>Immisit Dominus soporem in Adam.</hi> Immisit et
+in se ipsum, factus nimirum secundus Adam; sed
+est distantia forte non parva. Ille enim soporatus
+videtur prae excessu contemplationis; Christus miserationis
+affectu: ut in illum soporem immiserit
+veritas, in hunc charitas, cum utraque sit Dominus.
+Ait enim Joannes evangelista: <hi>Deus charitas est <note>(I Joan. IV, 16)</note>
+          </hi>;
+et ipse Dominus: <hi>Ego sum via,
+veritas et vita <note>(Joan. XIV, 6)</note>
+          </hi>. Sane soporem Christi
+solius charitatis fuisse nemo dubitat, vel nomine
+<pb n="0166C"/>
+tenus Christianus. Siquidem accubuit ut leo,
+non victus plane, sed victor, potestate propria ponens
+animam, somnum mortis excipiens propria voluntate.
+Caeterum qualis et ille sopor dicendus est fuisse vel
+credendus, quem Dominus immisit in Adam, in quo,
+sine sensu omnino doloris, in mulierem aedificandam
+costa sublata est de latere dormientis? Mihi quidem
+nonnisi incommutabilis veritatis intuitu, et abysso
+divinae sapientiae, corporeis excedens sensibus obdormisse
+videtur; quod ex ejus verbis vel maxime
+conjici potest. Rediens nimirum indicat quo abiisset,
+dum, tanquam ebrius de cella vinaria veniens, et
+eructans illud magnum sacramentum quod tanto
+post in Christo et in Ecclesia Apostolus commendavit: <hi>Hoc nunc,</hi> 
+ inquit, <hi>os ex ossibus meis;</hi> et:
+<pb n="0166D"/> <hi>Propter hoc relinquet homo patrem et matrem, et
+adhaerebit uxori suae, et erunt duo in carne una <note>(Ephes. V, 31, 32)</note>
+          </hi>.
+An tibi penitus obdormisse
+videtur, qui in hanc vocem excitatus erupit, et non
+magis dicere potuisse: <hi>Ego dormio, et cor meum
+vigilat <note>(Cant. V, 2)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Verum id quidem sine praejudicio dixerim, si
+cui forte aliter visum fuerit, maxime si quid aliud
+<pb n="0167A"/>
+in sanctorum paginis invenitur. Neque enim communem
+arbitror fuisse soporem, aut nostris similem
+somnis, quos nec contemplationis excessus, nec
+miserationis affectus, sed infirmitatis defectus immittit;
+quos nec veritas, nec charitas, sed necessitas
+parit. Grave siquidem jugum super filios Adam <note>(Eccli. XL, 1)</note>;
+non autem in principio super Adam,
+sed nunc jam super filios ejus. Quid non grave miseris,
+quibus et vivere labor est? quibus et (quod
+pauci videntur advertere, sentire penitus nemo) ipse
+quoque sensualitatis usus invenitur oneri, adeo ut
+nequeat sustineri, nisi alterna requie foveamur?
+Quid non labor, et dolor, et afflictio spiritus ex
+omnibus quae sub sole sunt, quando et illud ei gravissimum
+est, quo potissimum delectatur, vegetatio
+<pb n="0167B"/>
+scilicet et sensificatio carnis? Nimirum quam sit ei
+dulce consortium, triste divortium manifestat, dum
+vix tandem avelli potest, dum corruptio ipsa corporis
+penitus intolerabilis est vegetanti. Sane non
+simpliciter corpus, sed corpus quod corrumpitur,
+aggravat animam <note>(Sap. IX, 15)</note>; ut immunem ab
+hoc gravamine primi parentis animam noveris exstitisse,
+donec adhuc corpus gereret [ <hi>alias</hi> degeret]
+incorruptum. Nimirum in libertate posuit eum Deus,
+ut, inter summa et infima versans, et in illa excederet
+sine difficultate, et ad haec sine illecebra aut
+necessitate descenderet; illa penetrans naturali
+vivacitate et puritate mentis, haec auctoritate dijudicans
+praesidentis. Denique adducta sunt animalia
+<pb n="0167C"/>
+ad Adam, ut videret quid vocaret ea <note>(Gen. II, 19)</note>;
+non ipse aliqua curiositate ductus est ut videret
+ea.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Non sic in nobis libera ratio, sed undique ei
+luctandum est. Sic enim et ab infimis visco quodam
+captiva <emph>814</emph> tenetur, et a summis indigna repellitur:
+ut nec ab his sine dolore possit avelli, nec ad illa
+<pb n="0168A"/>
+sine magno gemitu vel raro queat admitti. Hinc
+nempe vim faciunt qui quaerunt animam meam, ut
+clamare necesse sit: <hi>Infelix ego homo, quis me liberabit
+de corpore mortis hujus? <note>(Rom. VII, 24.)</note>
+          </hi> Inde
+priusquam comedam suspiro, quia regnum coelorum
+vim patitur, et violenti rapiunt illud <note>(Matth. XI, 12)</note>.
+Nihilominus tamen et illic unitas, et hic tenenda
+divisio est, sicut et Adam soporatus est in contemplatione,
+et animalia nominum impositione discrevit.
+Sic nimirum, sic et Abraham in sacrificio, non
+quidem volatilia, sed animalia legitur divisisse <note>(Gen.
+XV, 9, 10)</note>. Et Martha erga multa turbatur, cum
+unum sit necessarium. Necessarium plane unum,
+et maxime necessarium, quoniam haec pars optima,
+quae non auferetur <note>(Luc. X, 41, 42)</note>. Cessabit divisio
+<pb n="0168B"/>
+cum venerit plenitudo, et erit totius sanctae civitatis
+Jerusalem participatio in idipsum. Interim Spiritus
+sapientiae non modo unicus, sed et multiplex est:
+interiora quidem in unitate solidans, sed sub judicio
+exteriora distinguens. Utrumque tibi in primitiva
+Ecclesia commendatur, quando <hi>multitudinis credentium
+erat cor unum, et anima una,</hi> ne volatilia scinderentur; <hi>dividebatur autem singulis prout cuique
+opus erat 
+ <note>(Act. IV, 32, 35)</note>
+          </hi>, ut animalia secarentur.
+Sit igitur etiam in nobis, charissimi, unitas animorum;
+unita sint corda, diligendo unum, quaerendo
+unum, adhaerendo uni, et idipsum invicem sentiendo.
+Sic nimirum exterior ipsa divisio et evadit periculum,
+et scandalum non incurrit; dum videlicet, etsi
+propria cuique tolerantia, propria quoque nonnunquam
+<pb n="0168C"/>
+in terrenis agendis sententia, sed et diversa
+interdum dona gratiarum, nec membra omnia actum
+eumdem videntur habere; unitas tamen interior et
+unanimitas ipsam quoque multiplicitatem colligat
+et constringat charitatis glutino, et vinculo pacis.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

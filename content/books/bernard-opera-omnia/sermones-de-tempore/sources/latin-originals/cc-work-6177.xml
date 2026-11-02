@@ -1,0 +1,688 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>In Dominica Palmarum</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.InDoPa</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>SERMO I. <hi>De tribus ordinibus obsequentium Christo.</hi> </head>
+
+<pb n="0253D"/>
+<div3>
+          <head>1.</head>
+          <p>
+ Non sine causa spiritum Sponsi pariter et Dei
+sui habens Ecclesia, processionem hodie nova quadam
+et mira conjunctione addidit passioni. Nam
+processio plausum habet, passio planctum. Quoniam
+ergo sapientibus et insipientibus debitores sumus,
+videamus quid utrisque conferat haec conjunctio. Et
+prius quidem quid saecularibus indicet: quoniam
+non prius quod spirituale, sed quod animale. Videat
+ergo saecularis anima, videat et intelligat, quoniam
+extrema gaudii luctus occupat. Propter hoc enim
+qui caetera quoque coepit facere et docere, non solum
+verbis praedicans, sed et exemplis; quod ante
+<pb n="0254C"/>
+praedixerat per prophetam, Quoniam <hi>omnis caro
+<pb n="0254D"/>
+fenum, et omnis gloria ejus, tanquam flos feni <note>(Isai.
+XL, 6)</note>
+          </hi>, etiam apparens in carne manifeste studuit
+probare in se ipso. Unde et processionis gloria voluit
+sublimari, qui paulo post sibi noverat imminere
+diem ignominiosissimae passionis. Quis ergo sperare
+jam debeat in incerto gloriae temporalis, cum videat
+in ipso quoque qui peccatum non fecit, creatore
+temporum et conditore universitatis, post exaltationem
+tantam, tantam nihilominus humiliationem sequi?
+In eadem enim civitate, a plebe eadem, et
+eodem tempore, nunc quidem processionis gloria et
+divinis est laudibus honoratus; postmodum vero
+interrogatus contumeliis et tormento, et cum sceleratis
+<pb n="0255A"/>
+deputatus Hic est transitoriae finis laetitiae,
+hic fructus gloriae temporalis. Propterea prudenter
+orat propheta, ut cantet Domino gloria ejus, et non
+compungatur <note>(Psal. XXIX, 13)</note>; id est, processionem
+habeat, quam passio non sequatur.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Vobis autem, charissimi, tanquam spiritualibus
+spiritualia comparantes, in processione quidem coelestis
+patriae repraesentamus gloriam, in passione
+monstramus viam. Nam si in processione quidem
+venit tibi in mentem futura illa laetitia et exsultatio
+multa nimis, quando rapiemur in nubibus obviam
+Christo in aera; si tota concupiscentia videre desideras
+diem illam, quando suscipietur in coelesti
+Jerusalem Christus Dominus, caput cum omnibus
+membris, portans triumphum victoriae, applaudentibus
+<pb n="0255B"/>
+jam non popularibus turmis, sed virtutibus
+angelicis, clamantibus undique populis utriusque
+Testamenti, <hi>Benedictus qui venit in nomine Domini <note>(Matth. XXXI, 9)</note>
+          </hi>:
+si, inquam, considerasti in processione
+quo properandum sit, disce in passione qua
+sit eundum. Haec est enim via vitae, tribulatio praesens;
+via gloriae, via civitatis habitaculi, via regni,
+secundum quod clamat latro de cruce: <hi>Memento
+mei, Domine, dum veneris in regnum tuum <note>(Luc.
+XXIII, 42)</note>
+          </hi>. Euntem in regnum vidit, quo cum pervenisset,
+sui memorem esse rogavit. Pervenit ergo
+et ipse: sed si vis nosse quam compendiosa via,
+eadem die meruit cum Domino <emph>879</emph> esse in paradiso.
+Tolerabilem proinde reddit passionis laborem
+<pb n="0255C"/>
+gloria processionis quoniam amanti nihil difficile
+est.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Nec mireris quod praesenti processione coelestem
+dixerim repraesentari, quando unus et idem in
+utraque suscipitur, etsi longe aliter et ab aliis. In
+hac enim processione irrationabili jumento Christus
+insidet: in illa vero jumentum quidem futurum est,
+sed rationale: quoniam <hi>homines et jumenta salvos
+facies, Domine <note>(Psal. XXXV, 7)</note>
+          </hi>. Cui simile est illud: <hi>Ut jumentum factus sum apud te, et ego semper tecum <note>(Psal. LXXII, 23)</note>
+          </hi>.
+Et vide si non de processione loquitur,
+cum sequatur: <hi>Tenuisti manum dexteram
+meam et in voluntate tua deduxisti me, et cum gloria
+suscepisti me.</hi> Ibi certe ne ipse quidem pullus deerit:
+quoniam etsi murmuret haereticus parvulos non
+<pb n="0255D"/>
+sinens venire, parvulorum baptismo detrahens,
+qui parvulus natus est, et primam parvulorum elegit
+aciem (Innocentes loquor), hodie quoque parvulos a
+gratia non excludit: quia nec pietati incongruum,
+nec majestati ejus difficile est, ut suppleat munus
+gratiae, quod minus in eis habet natura possibile. Ibi
+non ramos arborum, non vilia vestimenta popularis
+turma prosternet: sed demittent pennas suas animalia
+sancta, deponent coronas suas ante thronum
+Agni viginti quatuor seniores, et virtutes
+omnes angelicae quidquid habent gloriae vel decoris,
+<pb n="0256A"/>
+totum ei adscribent, totum ei attribuent <note>(Apoc. IV)</note>.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Jam vero quoniam de jumento et vestibus, et
+de ramis arborum mentio facta est, considerare
+diligentius libet triplex obsequium, quod in processione
+hac exhiberi video Salvatori: primum quidem,
+a jumento cui insidet; secundum ab eis qui sua illi
+vestimenta sternunt; tertium vero, ab his qui de
+arboribus ramos caedere perhibentur. Nonne tamen
+omnes reliqui ex eo quod abundat sibi mittunt, et
+quasi sine gravamine obsequuntur Domino, solum
+vero jumentum semetipsum exponit ejus obsequio?
+Silendum mihi est, ut elationem caveatis; an magis
+loquar, ut habeatis consolationem? Jumentum certe,
+cui insidet Christus, nonne vos estis, juxta praeceptum
+<pb n="0256B"/>
+Apostoli, glorificantes et portantes Deum in
+corporibus vestris? <note>(I Cor. VI, 20.)</note> Expendunt enim
+saeculares homines in obsequium Domini, non quidem
+corpora, sed quae adjacent, et necessaria
+sunt corporibus, cum de terrena substantia eleemosynas
+largiuntur. Praelati quoque ramos caedunt
+de arboribus, verbi causa, cum de fide et obedientia
+Abrahae, de castitate Joseph, de mansuetudine Moysi,
+caeterorumque sanctorum virtutibus evangelizant.
+Verumtamen et illi de promptuariis plenis largiuntur;
+et hi quae acceperunt gratis, gratis nihilominus
+dare jubentur. Omnes tamen, si fideliter suo quisque
+intentus fuerit ministerio, in processione Salvatoris
+sunt, et cum eo ingrediuntur in sanctam civitatem;
+<pb n="0256C"/>
+quoniam tres praevidit propheta salvandos, Noe
+caedentem ramos in arcae fabricam; Danielem in vili
+edulio, et labore abstinentiae factum tanquam jumentum,
+Salvatoremque portantem; tertium quoque
+Job, bene dispensantem substantiam hujus mundi,
+et de velleribus ovium suarum pauperum latera
+calefacientem <note>(Ezech. XIV, 14)</note>. Cui tamen in processione
+illa Jesus propinquior, cui de tribus ordinibus
+salus vicinior, facile, credo, potestis advertere.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>SERMO II. <hi>De passione, et processione, et quatuor ordinibus processionis.</hi> </head>
+<div3>
+          <head>1.</head>
+          <p>
+ Necesse est ut loquamur hodie brevius propter
+angustiam temporis. Multa quidem nobis ministrat
+processio, quam celebraturi sumus, sed eadem impedit
+<pb n="0256D"/>
+ne dicere plura possimus. Celebraturi sumus hodie
+processionem, et paulo post audituri passionem. <emph>880</emph> 
+ Quid sibi vult mirabilis ista conjunctio, aut
+quid cogitaverunt patres nostri, passionem addentes
+processioni? Nam processio quidem merito repraesentatur
+hodie, quae facta est hodie; passio vero
+cur addita est, quam sexta feria constat esse secutam?
+Opportune utique processioni passio conjuncta
+est, ut discamus in nulla laetitia hujus saeculi
+habere fiduciam, scientes quoniam extrema gaudii
+luctus occupat. Propterea non simus stulti, ut occidat
+<pb n="0257A"/>
+nos prosperitas nostra; sed in die bonorum non
+immemores simus malorum, et e converso. Istis
+enim mistum est praesens saeculum, non saecularibus
+tantum, sed etiam spiritualibus viris. Nam et saecularibus
+viris aliquando quae placent, quandoque
+quae displicent videmus accidere; et ipsis nihilominus
+spiritualibus non semper tristia, non semper
+laeta succedunt, sed vespere et mane dies unus; et
+illud: <hi>Visitas eum diluculo, et subito probas illum <note>(Job VII, 18)</note>
+          </hi>.
+Verum hoc interim dum praesens
+saeculum manet, vel magis manat et fluit.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Caeterum post hoc saeculum duo futura sunt
+saecula valde divisa et diversa: ita ut in altero non
+sit nisi fletus et stridor dentium; in altero sit
+sola gratiarum actio, et vox laudis. <hi>Absterget
+<pb n="0257B"/>
+enim Deus omnem lacrymam ab oculis sanctorum:
+et mors jam non erit amplius, neque luctus,
+neque clamor, sed nec ullus dolor, quoniam priora
+transierunt <note>(Apoc. XXI, 4)</note>
+          </hi>. Interim sicut amatores
+mundi multa patiuntur adversa: sic nec ipsis servis
+Dei omnia in hoc mundo optata succedunt. In
+die ergo malorum memores sunt bonorum, ne pusillanimes
+fiant et impatientes, sicut is de quo legimus
+in psalmo: <hi>Confitebitur tibi cum benefeceris ei <note>(Psal. XLVIII, 19)</note>
+          </hi>.
+In die quoque bonorum non immemores
+sunt malorum; ne extollantur, ut dicant
+in abundantia sua: Non movebimur in aeternum.
+Sicut enim saecularium rerum prosperitas occidit
+stultum saecularem, sic potest abundantia spiritualis
+prosperitatis occidere indoctum spiritualem, atque
+<pb n="0257C"/>
+ideo non spiritualem. Spiritualis quippe dijudicat
+omnia. Unde autem eveniat quod stultum occidit
+prosperitas <note>(Prov. I, 32)</note>, et non sapientem, alibi
+habemus: <hi>Cor sapientis ubi tristitia, et cor stultorum
+ubi laetitia.</hi> Merito proinde ait: <hi>melius est
+ire ad domum luctus, quam ad domum convivii <note>(Eccle.
+VII, 3)</note>
+          </hi>. Licet enim multos frangat adversitas,
+tamen multo plures extollit prosperitas, sicut scriptum
+est: <hi>Cadent a latere tuo mille,</hi> sinistro scilicet,
+per quod designatur adversitas; <hi>et decem millia,</hi> id
+est multo plures, <hi>a dextris tuis <note>(Psal. XC, 7)</note>
+          </hi>, in
+quibus prosperitas designatur. Denique quia utrobique
+periculum est, orat Sapiens et dicit: <hi>Divitias
+et paupertatem ne dederis mihi (Prov, XXX, 8)</hi>: ne
+<pb n="0257D"/>
+forte aut divitiae extollerent in superbiam; aut
+paupertas dejiceret in impatientiam.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Unde et Dominus sicut in passione patientiam,
+ita in processione humilitatem exhibere curavit. In
+illa enim tanquam ovis ad occisionem ductus est,
+et quasi agnus coram tondente obmutuit, et non
+aperuit os suum: qui cum percuteretur, non comminabatur,
+sed magis orabat, dicens: <hi>Pater, ignosce
+illis, quia nesciunt quid faciunt <note>(Luc. XXIII, 34)</note>
+          </hi>.
+In processione autem quid? Parabant sese populi,
+ut exirent obviam ei, nec eum latebat qui noverat
+quid esset in homine. Propter quod et ipse paratus
+est, non in curribus et in equis, nec in frenis argenteis,
+aut sellis auro tectis: sed humilis aselli
+tergo sedens, suppositis apostolorum vestibus,
+<pb n="0258A"/>
+quas ego de pretiosioribus regionis fuisse non
+credo.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Sed quid fuit quod processionem habere voluit,
+qui mox futuram noverat passionem? Forte ut
+amarior esset passio, quam processio praecessisset.
+Ab eodem enim populo, in eodem loco, et ipso
+tempore, paucissimis diebus interpositis, primo cum
+tanto triumpho susceptus, postea crucifixus est.
+O quam dissimile est: <hi>Tolle, tolle, crucifige eum <note>(Joan. XIX, 15)</note>
+          </hi>;
+et: <hi>Benedictus qui venit in nomine
+Domini; hosanna in altissimis! <note>(Matth. XXI, 9.)</note>
+          </hi> Quam
+dissimile: <hi>Rex Israel <note>(Joan. XII, 13)</note>
+          </hi>; et: <hi>Non habemus
+regem nisi Caesarem! <note>(Joan. XIX, 15.)</note>
+          </hi> Quam
+dissimiles rami virentes et crux, flores et spinae!
+Cui <emph>881</emph> prius sternebantur vestimenta aliena,
+<pb n="0258B"/>
+ecce suis exuitur, et sors mittitur super ea. Vae
+tibi, amaritudo peccatorum nostrorum, propter
+quae solvenda, tanta amaritudo necessaria est.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Jam vero ad processionem accedens, tanquam
+quatuor ordines in ea mihi videor intueri: et fortassis
+in hac nostra processione hodie omnes poterunt
+inveniri. Praeibant enim aliqui, et viam parabant.
+Ipsi sunt qui viam parant Domino ad corda
+vestra, qui vos regunt, et dirigunt gressus vestros
+in viam pacis. Alii sequebantur: et hi sunt qui
+propriae inscientiae conscii, devote sequuntur, et
+adhaerent semper vestigiis praecedentium. Erant
+quoque discipuli, tanquam domestici, lateri ejus
+adhaerentes. Ipsi sunt qui optimam partem elegerunt,
+<pb n="0258C"/>
+qui in claustro soli Deo vivunt, semper Deo
+adhaerentes, et ejus placitum considerantes. Ipsum
+quoque jumentum, cui insidebat, non defuit: quod
+designat duros corde, et animos quodammodo bestiales.
+Verum non fuit animalium ibi hujusmodi
+copiosior multitudo; nec oportuit. Tales enim magis
+oneri sunt quam honori, nec propter eos processio
+valde gloriosior est. Hujusmodi namque cantare non
+norunt, sed male sonoros dant rugitus. Ipsi sunt
+qui virga semper et calcaribus egent. Attamen nec
+ipsos relinquet Dominus, dum disciplinam ferre
+voluerint. His enim dicitur: <hi>Servite Domino in timore;</hi> 
+et: <hi>Apprehendite disciplinam, nequando irascatur
+Dominus, et pereatis de via justa <note>(Psal. II,
+11, 12)</note>
+          </hi>. Postquam enim jumentum hoc disciplinam
+<pb n="0258D"/>
+ferre noluerit, quid restat, nisi ut abjiciat eum Dominus
+cum indignatione quadam, et protinus exeat
+a via, currens ad spinas et tribulos, a quibus suffocatur
+verbum Dei; qui sunt divitiae hujus mundi,
+et voluptates carnis?</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Sed si qui tales sunt hic, quibus gravis sit
+ordo, et omnia onerosa; quos pungi frequenter
+oporteat et urgeri: obsecramus eos, ut studeant de
+jumentis, si forte queant, in homines commutari,
+et computari inter aliquos caeterorum, ut aut de
+praecedentibus, aut de adhaerentibus et collateralibus,
+aut de sequentibus sint. Quod si non faciunt,
+obsecro ut vel in eo quod sunt permaneant, et patienter
+interim ferant quae salubria sunt, etsi minus
+suavia, donec complaceat Domino respicere humilitatem
+<pb n="0259A"/>
+eorum, et in melius aliquid cos promovere.
+Vultis autem ut aliquatenus consolemur jumentum
+nostrum? Scimus equidem quia cantare non novit.
+Neque enim de eis est qui dicere possint: <hi>Cantabiles
+mihi erant justificationes tuae in loco peregrinationis
+meae <note>(Psal. CXVIII, 54)</note>
+          </hi>. Attamen unum est, quod nemini
+caeterorum tam prope est Dominus. Nam nec ipsi
+qui hinc inde adhaerent, tam prope eum habent, ut
+jumentum cui insidet. Et audi hoc ipsum a Propheta: <hi>Prope est Dominus his qui tribulato sunt
+corde 
+ <note>(Psal. XXXIII, 19)</note>
+          </hi>. Nam et mater quem aegrotantem
+novit filium, magis fovet et saepius amplectitur
+eum. Nemo igitur indignetur, nemo contemnat,
+dum voluerit esse Christi jumentum. Etenim qui
+scandalizaverit unum de pusillis istis, illum graviter
+<pb n="0259B"/>
+offendit, qui eos tanquam mater gremio suae
+fovet misericordiae, donec roborentur. Unde et morum
+infirmitates patientissime ferendas beatus
+Benedictus admonuit <note>(Regul. cap. 72)</note>.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ Quatuor ergo sunt genera in processione Domini.
+Boni prudentes, et boni simplices: hi sunt
+qui praeeunt, et qui sequuntur. Bonos autem addidi,
+quia prudentes non boni, iniqui sunt, juxta
+illud: <hi>Sapientes sunt ut faciant mala <note>(Jerem. IV, 22)</note>
+          </hi>;
+et simplices non boni, stulti sunt. In processione
+sutem Domini, nec iniquus locum habet, nec stultus.
+Porro qui adhaerent ei, contemplativi sunt. Qui
+portant eum et onerantur eo, ipsi sunt duri corde,
+et parum devoti. Sed ecce omnes sunt in processione
+Domini, et nemo ex ipsis faciem ejus videt.
+<pb n="0259C"/>
+Nam qui praecedunt, occupati sunt in paranda via,
+solliciti circa peccata et tentationes aliorum. Qui
+sequuntur, ipsi omnino faciem ejus videre non possunt:
+sed, sicut Moysi dictum est, posteriora ejus
+vident. Jumentum cui insidet, nunquam ad videndum
+levat oculos, sed pronum est semper in terram.
+Qui vero <emph>882</emph> adhaerent ipsi, aliquando videre
+possunt, sed raptim et non continue, nec
+plene dum adhuc sunt in via. Attamen quantum ad
+alios, ipsi magis facie ad faciem eum vident, juxta
+quod item [ <hi>alias</hi> affectuosus] de Moyse scriptum
+est, quia caeteris quidem prophetis per visiones et
+somnia, Moysi vero facie ad faciem loquebatur.
+Quantum ad plenam sane visionem, nec ipse Moyses,
+dum viveret in hoc mundo, impetrare potuit faciei
+<pb n="0259D"/>
+ipsius visionem; quia, sicut ipse ait, <hi>Non videbit me
+homo, et vivet <note>(Exod. XXXIII, 23, 11, 20)</note>
+          </hi>. Non videbor,
+inquit, in hac vita: non videbit quis faciem meam
+in hac via, et in processione ista. Ipse itaque magna
+pietate sua donet nobis sic in ejus processione perseverare
+dum vivimus, ut in magna illa processione,
+qua cum suis omnibus a Patre suscipiendus est, et
+traditurus regnum Deo et Patri, sanctam civitatem
+ingredi mereamur cum eo, qui vivit et regnat per
+omnia saecula saeculorum. Amen.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>SERMO III. <hi>De quinque diebus, processionis, refectionis, passionis, requietionis et resurrectionis.</hi> </head>
+<div3>
+          <head>1.</head>
+          <p>
+ Cum universa fecerit Deus in numero, pondere
+<pb n="0260A"/>
+et mensura <note>(Sap. XI, 21)</note>; specialius tamen ea tempora,
+quibus in terris visus est, et cum hominibus
+conversatus est, quaecunque in eis operatus, locutus
+aut passus est, ita disposuit, ut ne minimum quidem
+momentum, ne unum iota a sacramento vacaverit,
+aut praeterierit sine mysterio. Evidentius tamen quatuor
+proximos dies, et ipsum quem hodie colimus,
+illustravit: diem processionis, diem refectionis,
+passionis, requietionis et resurrectionis suae. Notabiles
+admodum dies, et inter caeteros insignes magis.
+Prima siquidem die gloriam suscipere dignatus est
+humanam, et cum ingenti quodam tripudio, et exsultatione
+universae terrae, Jerosolymam non propriis
+(ut hactenus consueverat) pedibus, sed jumento
+vectus intrare. Et haec quidem praeparatio ad passionem
+<pb n="0260B"/>
+fuit, excitata hinc maxime invidia sacerdotum.
+Sane venturas aliquando turbas ut raperent, et
+eum regem facerent, fugiens legitur declinasse <note>(Joan.
+VI, 15)</note>. Nunc vero etiam non quaesitus adfuit, ut
+tanquam rex Israel susciperetur et praedicaretur ab
+eis: quin etiam in haec ipsa praeconia eorum (quod
+dubium non est) animos excitavit. Sic nimirum et de
+passione advertere est. Exiit quandoque, et abscondit
+se ab eis, scilicet Judaeis: nec volebat jam ambulare
+palam in Judaea, quia quaerebant eum interficere <note>(Joan. VII, 1)</note>.
+Sciens autem quod venerit hora ejus,
+tanquam potestatem habens spontaneus ipse se obtulit
+passioni. Decebat nempe Pontificem nostrum tentari
+per omnia pro similitudine absque peccato <note>(Hebr.
+IV, 15)</note>: ut tanquam verus homo et prospera hominum,
+<pb n="0260C"/>
+et adversa opportune vitaret, opportune susciperet,
+et utrarumque rerum in se ipso nobis salutare praeberet
+exemplum. Ut enim temperantiae est praeconia
+populi et saeculi hujus prospera declinare, sic interdum
+justitiae est certa quidem dispensatione admittere
+ea. Persecutio quoque et temporalis omnis
+adversitas pro loco et tempore prudenter aliquando
+fugienda erit; cum autem necesse fuerit, viriliter
+toleranda.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Et in his quidem duobus (prosperitatem et
+adversitatem loquor) humana omnis vita versatur.
+Nihilominus autem in illis quatuor notissimis utique
+speciebus virtus universa consistit. Ita ergo omnem
+virtutem implere decuit eum, in quo plenius habitabat
+<pb n="0260D"/>
+omnis plenitudo virtutis, ut notum fieret omnibus
+quia is sciret maxime abundare, sciret et penuriam
+pati. Non enim Dei Sapientia de his erat,
+quos occidere prosperitas sua; non Dei Virtus de
+his quos perdere posset aversio. Utrumque enim
+scriptum est, quod prosperitas, non tamen omnium
+sed stultorum, occidat illos: et aversio utique, non
+quorumlibet, sed parvulorum, perdat illos <note>(Prov. I,
+31, 32)</note>. Quam modeste tamen hanc ipsam videtur
+gloriam suscepisse, ad triumphalem <emph>883</emph> occursum
+in asino veniens, non in curribus aut in equis! Et
+dicebat: <hi>Si quis vobis aliquid dixerit, dicite: Quia
+Dominus his opus habet <note>(Matth. XXI, 31, 3)</note>
+          </hi>. Opus magnum,
+opus salutis. Nempe homines et jumenta salvos
+facere venerat, multiplicans misericordiam suam Deus.
+<pb n="0261A"/>
+Initia nostrae conversionis foret ista dignatio, ut
+primum ex ancilla filium generemus. Solutus est ad
+mandatum Domini qui antea tenebatur, aut non valens,
+aut non volens benefacere; aut utroque fortius
+vinculo alligatus, nec volens scilicet, nec valens.
+Non novit interim purius in Domino gratulari. Persuasum
+tenet placere ei quod agit, et consolatur in
+eo quod sibi eum quodammodo se facere reputet
+debitorem, saepius memorans quia Dominus his opus
+habet. Nam processu temporis in eo magis afficietur,
+ut suo sollicitetur debito, et timeat, ne forte tantis
+beneficiis inveniatur ingratus, dicens: Quia servus
+inutilis sum, et bonorum meorum non eges. At haec
+quidem verax affectio et fidelis: hic filius liberae,
+cum quo ancillae filius haeres esse non possit. Ita
+<pb n="0261B"/>
+ergo in hac processione.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Caeterum ante passionem affectuosissimus [ <hi>alias,</hi> 
+affectuosius] Paterfamilias refectionem suis curavit
+domesticis exhibere: et in hoc quoque apparuit
+benignitas et humanitas Salvatoris. Cum enim
+dilexisset suos, in finem dilexit eos, et dicebat: <hi>Desiderio
+desideravi hoc pascha manducare vobiscum,
+antequam patiar <note>(Luc. XXII, 15)</note>
+          </hi>. Oportebat enim.
+Expetierat eos Satanas, ut cribraret sicut triticum:
+opus erat praevenire refectionem. Denique qui refecti
+paulo minus defecerunt, quid jejuni fecissent?
+Hinc fuit quod non modo corpora, sed etiam corda
+refecit, et ea quam maxime. Neque enim corporalis
+passio, sed tentatio spiritualis instabat, quod singulariter
+ille futurus esset donec transiret. Ea nimirum
+<pb n="0261C"/>
+hostia sicut sola prodesse potuit, sic sola suffecit:
+nec Christum decuit simul et Petrum, aut Jacobum,
+vel Joannem pro salute hominum pati. Crucifixi tamen
+fuere cum eo alii duo, sed duo nequam, de
+quibus nulla prorsus suspicio posset haberi, tanquam
+ex eis minus efficax sacrificium suppleretur.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Quibus ergo panibus in coena refecit apostolos?
+Ut ego arbitror, quinque. <hi>Meus,</hi> inquit, <hi>cibus
+est, ut faciam voluntatem Patris mei <note>(Joan. IV,
+34)</note>
+          </hi>. Cibus utique, sed cibus cordis. Quid enim
+aeque confirmat et corroborat cor humanum, quid
+ita in omni necessitate confortat et sustentat, ut
+divinae voluntatis exsecutio, velut in quemdam
+animae ventrem, conscientiam scilicet ejus, ingesta?
+<pb n="0261D"/>
+Sic et sermonem divinae exhortationis, et promissionum
+ejus consolationem, et orantium [ <hi>alias,</hi> orationum]
+lacrymas, panes cordis esse solus ille ignorat,
+cujus jam aruit cor, pro eo quod suum ipsius
+panem comedere sit oblitus. Super omnia autem
+caro Domini vere est cibus, et cibus vitae, panis de
+coelo vivus <note>(Joan. VI, 56, 48, 51)</note>. Nullum ex his in
+hac tam solemni coena Domini defuisse reperies, si
+diligenter advertas. Recumbentibus adhuc discipulis,
+surgit a coena, praecingitur linteo, aquam ponit
+in pelvim, discipulorum pedes abluit et extergit,
+<pb n="0262A"/>
+Non est voluntas carnis et sanguinis haec, sed voluntas
+Patris, et sanctificatio nostra. Denique, <hi>Si
+non lavero te,</hi> ait Dominus ad Petrum obnixius repugnantem, <hi>non habebis partem mecum 
+ <note>(Joan. XIII, 8)</note>
+          </hi>. Scimus
+autem quis dixerit: <hi>Eum qui venit ad me, non ejiciam
+foras; quia descendi de coelo, non ut faciam voluntatem
+meam, sed voluntatem ejus qui misit me <note>(Joan.
+VI, 37, 38)</note>
+          </hi>. Opportune autem, et utique more suo, post
+exemplum operis, exhortationem sermonis adjunxit.
+Inter loquendum quoque (nam copiosissimus exstitit
+sermo) multis eos promissionibus propter instantem
+maxime passionem refovere et refocillare curavit,
+de resurrectione sua, de adventu Paracleti, de
+eorum confirmatione, et aliquando assumptione ad
+seipsum. Nec multo post ventum est ad orationem,
+<pb n="0262B"/>
+et usque tertio factus in agonia orabat. Ubi quidem
+non solis oculis, sed quasi membris omnibus flevisse
+videtur, ut totum corpus ejus, quod est Ecclesia,
+totius lacrymis corporis purgaretur. Nam de sacramento
+quidem corporis et <emph>884</emph> sanguinis
+sui nemo est qui nesciat, hanc quoque totam et
+tam singularum alimoniam ea primum die exhibitam <note>(Matth. XXVI; Marc. XIV; Luc. XXII; Joan. XIII-XVIII)</note> 
+,
+ea die commendatam et mandatam deinceps
+frequentari.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Ex hoc jam dies sequitur Passionis, in qua
+nimirum sicut totum hominem salvum fecit, sic
+de toto se fecit hostiam salutarem, corpus exponens
+tantis suppliciis et injuriis, animum vero
+<pb n="0262C"/>
+geminae cujusdam humanissimae compassionis affectui:
+hinc quidem super moerore inconsolabili
+sanctarum feminarum, inde super desperatione
+et dispersione discipulorum. In his quatuor crux
+Dominica fuit: et haec omnia propter nos passus
+est, qui tanta charitate compassus est nobis.
+Verumtamen quae de ipso erant, finem habuere,
+sicut ipse lamentantibus mulieribus ait <note>(Luc. XXIII,
+28)</note>, finem utique celerrimum et celeberrimum,
+primo quidem requiem, deinde resurrectionem. Nos
+quoque, si festinamus in illam ingredi requiem, per
+multas tribulationes nobis meminerimus transeundum.
+Et prius quidem donec sumus in tribulatione,
+magnum nobis videtur [ <hi>alias,</hi> videretur] aspirare ad
+requiem, tanquam nihil simus amplius desideraturi.
+<pb n="0262D"/>
+Verum non erit nobis requies, ne in requie quidem
+ipsa, a desiderio gloriae, a desiderio resurrectionis. <hi>Amodo,</hi> 
+ inquit, <hi>jam dicit Spiritus, ut requiescant a
+laboribus suis <note>(Apoc. XIV, 13)</note>
+          </hi>. A labore ergo
+requiescunt, qui in Domino moriuntur; sed non
+requiescunt interim a clamore. Denique sub throno
+Dei clamant animae occisorum; quia etsi nihil
+habeant quod molestet, nondum tamen totum habent
+quod delectet, donec requiem resurrectio, donec
+Sabbatum Pascha sequatur. Amen.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

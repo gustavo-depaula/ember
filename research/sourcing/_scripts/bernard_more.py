@@ -4,6 +4,7 @@ import re, json, shutil, sys
 from pathlib import Path
 sys.path.insert(0, 'research/sourcing/_scripts')
 from bernard_common import cc_sections, roman
+from letters_build import rnum
 
 ROOT = Path('content/books/bernard-opera-omnia')
 CC = Path('research/sourcing/bernard-of-clairvaux/cc')
@@ -15,7 +16,7 @@ def write(p, t):
 def clean(t):
     return re.sub(r'\s+', ' ', re.sub(r'\*', '', t)).strip(' .')
 
-START = re.compile(r'^(ADMONITIO|MONITUM|PRAEFATIO|PROLOGUS|PROOEMIUM|CAPUT|CAP\.|EPILOGUS|RETRACTATIO|APPENDIX|EPISTOLA|LIBER|SERMO|PARS|PRIMA PARS|SECUNDA PARS|TERTIA PARS|QUARTA PARS)\b')
+START = re.compile(r'^(HOMILIA|SERVO|ADMONITIO|MONITUM|PRAEFATIO|PROLOGUS|PROOEMIUM|CAPUT|CAP\.|EPILOGUS|RETRACTATIO|APPENDIX|EPISTOLA|LIBER|SERMO|PARS|PRIMA PARS|SECUNDA PARS|TERTIA PARS|QUARTA PARS)\b')
 
 def units(path):
     """-> list of ('group', title) | (id, title, paras). Numbered sub-heads ('1.') only carry paragraphs."""
@@ -23,6 +24,7 @@ def units(path):
     for s in cc_sections(path):
         h, paras = s['head'], list(s['paras'])
         if not h and not out: continue
+        h = re.sub(r'^\d{1,4}\s+(?=[A-Z]{3})', '', h)
         if re.match(r'^(\d+|[IVXLC]+)\.?$', h) or not h:
             if cur: cur[2].extend(paras)
             continue
@@ -35,6 +37,12 @@ def units(path):
         if re.match(r'^(PRIMA|SECUNDA|TERTIA|QUARTA|QUINTA) PARS\b|^PARS\b', h):
             if paras and cur: cur[2].extend(paras)
             continue
+        ms = re.match(r'^(SERMO|SERVO|HOMILIA)\s+([IVXLC]+|PRIMA|PRIMUS)\b\.?\s*(?:\[[^\]]*\]\.?)?\s*[.\-—]*\s*(.*)$', h)
+        if ms:
+            word = 'Sermo' if ms.group(1) in ('SERMO', 'SERVO') else 'Homilia'; num = 'I' if ms.group(2) in ('PRIMA', 'PRIMUS') else ms.group(2); cnt = rnum(num)
+            title = clean(re.sub(r'\[[^\]]*\]', '', ms.group(3)))
+            cur = ('%s%03d' % (word[0].lower(), cnt), '%s %s. %s' % (word, num, title) if title else '%s %s' % (word, num), list(paras))
+            out.append(cur); continue
         m = re.match(r'^(?:CAPUT|CAP\.)\s+([IVXLC]+|PRIMUM)\b\.?\s*(?:\[[^\]]*\]\.?)?\s*[.\-—]*\s*(.*)$', h)
         if m:
             cnt += 1; num = 'I' if m.group(1) == 'PRIMUM' else m.group(1)

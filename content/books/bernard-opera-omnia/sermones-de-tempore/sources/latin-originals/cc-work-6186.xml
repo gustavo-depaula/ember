@@ -1,0 +1,789 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>In circumcisione Domini</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.InCiDo</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>SERMO I. <hi>De lectione evangelica, « Postquam consummati sunt dies octo, ut circumcideretur Puer, vocatum est nomen ejus Jesus. »  <note>(Luc. II, 21)</note>.</hi> </head>
+
+<pb n="0131D"/>
+<div3>
+          <head>1.</head>
+          <p>
+ Audivimus paucis expressum magnum pietatis
+sacramentum: audivimus congruam lectionem Verbo
+abbreviato quod fecit Dominus super terram. Abbreviatum
+enim in carne, amplius abbreviatur
+suscepta etiam carnis circumcisione. Minoratus
+paulo minus ab angelis Dei Filius, humanam naturam
+induit; sed jam nec ipsum respuens remedium
+humanae corruptionis, plane multo minoratus ab
+eis. Habes igitur hic magnum fidei documentum,
+habes et manifestum humilitatis exemplum. Ad
+quid enim tibi circumcisio necessaria, qui peccatum
+non commisisti nec contraxisti? Quod ipse non
+feceris, aetas manifestat; quod non contraxeris,
+<pb n="0132D"/>
+multo certius probat Patris divinitas, integritas matris.
+Summus sacerdos es, quem nec super patre,
+nec super matre contaminandum, prophetatum est
+in lege <note>(Levit. XXI, 11)</note> potius quam mandatum. Est
+enim tibi Pater ab aeterno, sed Deus est, <emph>789</emph> in
+quem peccatum non cadit. Est et mater ex tempore,
+sed virgo; nec parere potuit incorruptio corruptelam.
+Super haec omnia circumciditur Puer, Agnus
+sine macula: etsi non eguit, tamen voluit circumcidi.
+Nec vestigium quidem ullum vulneris habens,
+alligaturam non refugit vulneris. Non sic impii, non
+sic; non sic agit perversitas elationis humanae. Erubescimus
+vulnerum ligaturam, qui de vulneribus
+interdum etiam gloriamur. Quem nemo potest arguere
+de peccato, ipse peccati remedium, et verecundum
+pariter et austerum, sine ulla necessitate
+suscepit; nec repulit cultrum lapideum, in quo solo
+<pb n="0133A"/>
+vetus illa quae eraderetur rubigo non fuit. Nos e
+contra inverecundi ad obscenitatem culpae, erubescimus
+agere poenitentiam; quod extremae dementiae
+est: male proni in vulnera, pejus in remedia verecundi.
+Qui peccatum non fecit, non dedignatus est
+peccatorem reputari: nos et esse volumus, et nolumus
+aestimari. Itane sano opus est medicina, et non
+male habentibus? imo vero itane eget medicamine
+non aeger, sed medicus? Quis hominum tantae sibi
+non dicam gloriae, sed vel innocentiae conscius,
+aequanimiter circumcidentis manum admitteret?
+Christus vero patienter quae non rapuit exsolvit
+[ <hi>alias</hi> exsolvebat], qui venerat purgationem facere,
+non suspicere, delictorum. Sed dicas: Quidni susciperet
+parvulus? Imo vero, quidni susciperet humilis
+<pb n="0133B"/>
+et mansuetus? Quidni obmutesceret coram circumcidente,
+qui coram tondente obmutuit, coram crucifigente
+siluit? Alioquin non erat illi difficile carnem
+suam integram conservare ne scinderetur, qui
+fecerat ne virginalis uteri porta in exitu suo aperiretur.
+Non erat difficile parvulo prohibere ne caro
+illa circumcideretur, quando nec mortuo fuit difficile
+custodire ne corrumperetur.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ <hi>Postquam</hi> ergo <hi>consummati sunt dies octo ut
+circumcideretur Puer, vocatum est nomen ejus Jesus.</hi> 
+Magnum et mirabile sacramentum! Circumciditur
+puer, et vocatur Jesus. Quid sibi vult ista connexio?
+Circumcisio nempe salvandi potius, quam Salvatoris
+esse videtur; et Salvatorem circumcidere decet,
+quam circumcidi. Sed agnosce mediatorem Dei et
+<pb n="0133C"/>
+hominum, qui ab ipso nativitatis suae exordio divinis
+humana sociat, ima summis. Nascitur ex muliere,
+sed cui fecunditatis fructus sic accedat, ut non decidat
+flos virginitatis; pannis involvitur, sed panni
+ipsi angelicis laudibus honorantur; absconditur in
+praesepio, sed proditur radiante stella de coelo. Sic
+et circumcisio veritatem susceptae probat humanitatis;
+et nomen, quod est super omne nomen, gloriam
+indicat majestatis. Circumciditur tanquam
+verus Abrahae filius; Jesus vocatur tanquam verus
+Filius Dei. Neque enim ad instar priorum meus iste
+Jesus, nomen vacuum aut inane portat. Non est in
+eo magni nominis umbra, sed veritas. Coelitus siquidem
+inditum nomen evangelista testatur, <hi>quod vocatum
+<pb n="0133D"/>
+est ab angelo, priusquam in utero conciperetur.</hi> 
+Et attende verbi profunditatem. Postquam natus
+est Jesus, Jesus vocatur ab hominibus, quo nomine
+vocatus est [ <hi>alias</hi> qui vocatus est] ab angelo, priusquam
+in utero conciperetur. Idem quippe et angeli
+Salvator, et hominis; sed hominis ab incarnatione,
+angeli ab initio creaturae.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ <hi>Vocatum est,</hi> ait, <hi>nomen ejus Jesus, quod vocatum
+est ab angelo.</hi> In ore ergo duorum vel trium
+testium stat omne verbum: et ipsum quod in propheta
+abbreviatum, manifestius in Evangelio legitur
+caro factum. Nos, fratres mei, nos respicit haec
+parabola. Christus enim nec angelico eguit testimonio,
+nec humano: sed, ut scriptum est, <hi>omnia
+propter electos <note>(II Tim. II, 10)</note>
+          </hi>. Triplex proinde
+<pb n="0134A"/>
+quaerendum nobis salutis propriae testimonium, ne
+forte videamur assumpsisse nomen Dei nostri in
+vanum. Et nos enim, fratres, circumcidi necesse
+est, et sic nomen salutis accipere; circumcidi sane
+non littera, sed spiritu et veritate; circumcidi non
+uno membro, sed toto corpore simul. Licet enim
+magis in ea parte, in qua mandata est Judaeis circumcisio,
+regnet additamentum Leviathan, quod a
+malo est, et amputari <emph>790</emph> debet, universam tamen
+occupat carnem. A planta pedis usque ad verticem
+non est in nobis sanitas; nec est aliqua pars quae
+non tabida sit hoc veneno. Propterea sicut parvulus
+adhuc in fide et dilectione populus congruum sibi
+mandatum exiguae circumcisionis accepit: sic ubi
+crevit in virum perfectiorem, toto jubetur corpore
+<pb n="0134B"/>
+baptizari, quae totius est hominis integra circumcisio.
+Hinc est quod Salvator noster et circumcidi
+octavo die, et post annum tricesimum dignatus est
+crucifigi, ubi in poenam corpus omne distensum
+est: cujus similitudini mortis complantamur et nos,
+ut scribit Apostolus <note>(Rom. VI, 5)</note>, nimirum quod
+novissime traditum est observantes.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Quae est ergo moralis circumcisio nostra, nisi
+quam commendat idem apostolus: <hi>Victum,</hi> inquiens, <hi>et vestitum habentes, his contenti simus? <note>(I Tim. VI, 8.)</note>
+          </hi> 
+ Optime prorsus circumcidit nos, et
+superflua resecat universa, voluntaria haec paupertas,
+poenitentiae labor, regularis observatio disciplinae.
+Caeterum in hac circumcisione triplex nobis
+quaerendum est salutis nostrae testimonium, ab angelo,
+<pb n="0134C"/>
+et Maria, et Joseph. Oportet, inquam, ut ante
+omnia nobis magni consilii angelus salutis nomen
+imponat. Dehinc et ipsius quoque congregationis
+necessaria est attestatio, quae tanquam mater est
+singulorum; mater, inquam, virgo, tanquam ea
+quam despondit Apostolus, <hi>uni viro virginem castam
+exhibere Christo <note>(II Cor. XI, 2)</note>
+          </hi>. Sed nec ipsius
+ministri contemnendum est testimonium ei qui
+imitari quaerit Salvatoris exemplum. Hic est Joseph,
+locum quidem obtinens sponsi, re autem vera servus
+et dispensator, qui sane pater vocatur, magis autem
+nutritius est.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Sed dico eadem manifestius. Et ab his qui foris
+sunt, fratres mei, et ab eo qui intus est, habere
+<pb n="0134D"/>
+oportet testimonium bonum. Cujus enim omnibus
+grata, nemini onerosa est conversatio, huic sine dubio
+propria de salute universa fratrum congregatio
+attestatur. Frustra plane super his duntaxat quae
+sunt in manifesto, nequissimus ille fratrum accusator
+trahat [ <hi>alias</hi> trahit] in causam, quem excusat
+universitas fratrum. Habet et a praelatis testimonium,
+quisquis et peccata saecularis vitae, et hujus
+quoque temporis negligentias (quoniam in multis
+offendimus omnes <note>(Jacob. III, 2)</note>, nisi forte sanctiores
+nos arbitramur discipulo quem dilexit Jesus <hi>[I
+Joan. I, 8)</hi> humili eis et pura confessione judicanda
+semper exponit, et eorum satisfacere studet arbitrio.
+Jam ne in his quidem pessimi illius timenda
+est accusatio, quoniam non judicabit Dominus bis
+<pb n="0135A"/>
+in idipsum. At forte criminari volet intentionem, et
+in ea parte calumniam struere machinabitur, in qua
+nec fratrum, nec ipsius patris testimonium satis
+efficax videatur. Necesse est ergo ut in hac parte
+opituletur nobis testis internus, qui magis cor quam
+faciem intuetur: a quo sane et incipiendum est, ut
+non prius quidquam concipiatur in animo, quam ab
+eo salutis nomen acceperit. Ubi vero in opus processerit
+manifestum, expedit jam exteriora quoque
+sibi testimonia conciliare, sicut ait Apostolus: <hi>Providentes
+bona non tantum coram Deo, sed etiam coram
+hominibus <note>(II Cor. VIII, 21)</note>.</hi> 
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>SERMO II. <hi>De variis Christi nominibus.</hi> </head>
+<div3>
+          <head>1.</head>
+          <p>
+ <hi>Postquam consummati sunt dies octo, ut circumcideretur
+<pb n="0135B"/>
+Puer, vocatum est nomen ejus Jesus <note>(Luc. II, 21)</note>
+          </hi>.
+Ab initio Deus modum acceptat, et
+nihil unquam Immoderatum illi placuit aequitati.
+Hinc fuit quod non modo in pondere et mensura et
+numero condidit universa, sed et protinus ipsi homini
+modum praescripsit, mandatum contulit, dicens: <hi>Ex omni ligno paradisi comedes, de ligno autem
+scientiae boni et mali ne comedas 
+ <note>(Gen. II, 16, 17)</note>
+          </hi>.
+Levissimum plane mandatum, et larga omnino mensura!
+Sed transgressus est homo praescriptum sibi
+modum, et constitutum sibi terminum praetergressus.
+Unde et avertens ab eo faciem suam Deus, vix
+tandem in diebus <emph>791</emph> Abrahae amici sui placabilis
+fieri incipiens, rursus modum instituit, promulgavit
+legem, sed non priori similem usquequaque. Ea
+<pb n="0135C"/>
+siquidem ad cautelam fuerat, haec ad medelam; ibi
+prohibitio, facta, ne superfluitas subintraret; hic
+jam indicta abscissio est, ut Sacramenti remedio,
+quae subintraverat, tolleretur; postremo illa quidem
+in arbore data est lex, ne fructu ejus vesceretur;
+haec in proprio corpore, ut caro praeputii scinderetur.
+Nec dubium sane quin caetera quoque humani
+corporis membra additamentum illud Leviathan
+occuparet, venenum scilicet concupiscentiae,
+et immoderatae atque inordinatae illecebra voluptatis,
+ut generalis quaedam abscissio omnibus necessaria
+videretur.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Caeterum, quia singulorum membrorum abscissionem
+humanae carnis fragilitas, et infantilis aetatis
+infirmitas nullatenus sustineret, pio moderamine dispositio
+<pb n="0135D"/>
+superna providit ut in ea potissimum parte
+concupiscentia castigaretur in qua vehementius eam
+saevire constabat et violentius malignari. In omni siquidem
+contradicentium spiritui rebellione membrorum,
+solum illud usque adeo contumax invenitur,
+ut contra omnem voluntatis deliberationem ad
+inhonestos et illicitos motus assurgat. Nam quod
+haec circumcisio octava die fiebat, spem commendabat
+regni coelestis, quod videlicet ad primum reflexus
+dierum circulus praeferre quamdam coronae
+speciem videretur. Hinc est quod octava potissimum
+dies post solemnitates praecipuas celebratur; et in
+sermone Domini, primae beatitudini copulatur octava <note>(Matth. V, 3, 10)</note>,
+ut coelestis regni demum iterata
+<pb n="0136A"/>
+promissio, evidenter nobis coronam fabricaret [ <hi>alias</hi> 
+fabricet.]</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Merito sane dum circumciditur Puer qui natus
+est nobis, Salvator vocatur; quod videlicet ex hoc
+jam coeperit operari salutem nostram, immaculatum
+illum pro nobis sanguinem fundens. Neque enim jam
+quaerere est Christianis, cur voluerit Dominus Christus
+circumcidi. Propter hoc siquidem circumcisus est,
+propter quod natus, propter quod passus. Nihil horum
+propter se, sed omnia propter electos. Nec in peccato
+genitus, nec a peccato circumcisus, nec mortuus est
+pro peccato suo, magis autem propter delicta nostra. <hi>Quod vocatum est,</hi> 
+ inquit, <hi>ab angelo priusquam in
+utero conciperetur.</hi> Vocatum est plane, non impositum:
+nempe hoc ei nomen est ab aeterno. A natura
+<pb n="0136B"/>
+propria habet ut sit Salvator; innatum est ei nomen
+hoc, non inditum ab humana vel angelica
+creatura.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Sed quid dicimus, quod egregius ille propheta,
+hunc ipsum puerum multis nominibus appellandum
+fore praedicens, hoc unum tacuisse videtur quod solum
+(ut praemonuit angelus, et testatur Evangelista) <hi>vocatum est nomen ejus?</hi> 
+ Exsultavit Isaias, ut videret
+diem hunc; et vidit, et gavisus est. Denique et
+loquebatur gratulabundus et laudans Deum: <hi>Puer
+natus est nobis, filius datus est nobis, et factus est
+principatus super humerum ejus; et vocabitur nomen
+ejus Admirabilis, Consiliarius, Deus, Fortis, Pater
+futuri saeculi, Princeps pacis <note>(Isa. IX, 6)</note>
+          </hi>. Magna
+quidem nomina; sed ubi est nomen quod est nomen quod est super
+<pb n="0136C"/>
+omne nomen, nomen Jesu, in quo omne genu flectatur?
+Forte in his omnibus unum illud invenies, sed
+expressum quodammodo et effusum. Nempe ipsum
+est de quo sponsa in Cantico amoris: <hi>Oleum,</hi> inquit, <hi>effusum nomen tuum 
+ <note>(Cantic. I, 2)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Habes ergo unum in his omnibus appellationibus
+Jesum; nec omnino aut vocari posset aut esse
+Salvator, si forte quidpiam horum defuisset. Nunquid
+non vere admirabilem eum singuli sumus experti,
+in mutatione utique voluntatum nostrarum?
+Hoc nempe est salvationis nostrae principium, cum
+incipimus respuere quod diligebamus, dolere unde
+laetabamur, amplecti quod timebamus, sequi quod
+fugiebamus, optare quod contemnebamus. Admirabilis
+plane qui haec operatur mirabilia. Sed nihilominus
+<pb n="0136D"/>
+et consiliarium sese exhibeat necesse est in
+electione poenitentiae et vitae ordinatione, ne forte
+sit nobis <emph>792</emph> absque scientia zelus, et voluntati
+bonae prudentia desit. Sane opus est ut Deum quoque
+probemus, in remissione videlicet priorum delictorum:
+quia nec sine hac salus nobis constare
+potest, et nemo potest dimittere peccata, nisi solus
+Deus. Verum ne id quidem sufficit ad salutem, nisi
+fortem quoque experiamur in expugnando impugnantes
+nos; ne ab eisdem rursum concupiscentiis
+superemur, et fiant novissima nostra pejora prioribus.
+Videturne jam aliquid deesse Salvatori? Plane
+deesset quod maximum est, nisi et pater esset futuri
+saeculi, ut per eum scilicet in immortalitatem
+<pb n="0137A"/>
+resurgeremus, qui per praesentis saeculi patrem generamur
+ad mortem. Neque hoc satis, si non etiam
+princeps pacis Patri nos reconciliaret, cui traditurus
+est regnum, ne forte sicut filii perditionis utique,
+non salutis, resurrecturi videremur ad poenam.
+Multiplicabitur sane ejus imperium, ut merito Salvator
+dicatur etiam pro multitudine salvandorum;
+et pacis non erit finis, ut veram noveris esse salutem,
+quae non possit timere defectum.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>SERMO III. <hi>De die octavo</hi> [alias, <hi>De octo diebus].</hi> </head>
+<div3>
+          <head>1.</head>
+          <p>
+ In Circumcisione Domini, fratres, habemus
+quod amemus et admiremur, habemus etiam quod
+imitemur. Patet in ea magnum dignationis beneficium,
+unde gratias agamus; latet aliquid clausum,
+<pb n="0137B"/>
+quod in nobis implere debeamus. Venit namque
+Dominus propter nos non solum redimendos sanguinis
+effusione, sed et docendos verbis, et exemplis
+nihilominus instruendos. Sicut enim penitus erat
+inutile viam scire, si detineremur in carcere, ita redimi
+non prodesset, si viae ignaros qui primus inveniret,
+primus reduceret in carcerem retrudendos.
+Itaque in majore quidem aetate, patientiae et humilitatis,
+et super omnia charitatis, caeterarumqu
+virtutum manifesta dedit Salvator exempla, in infantia
+vero figuris velata.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Sed antequam ad haec discutienda veniamus
+delectat aliquid prius de tanta et tam manifesta dignatione
+loqui. Habent angeli gloriam puram et
+perfectam; sed nec nos erimus sine gloria. Videmus
+<pb n="0137C"/>
+gloriam ejus, gloriam quasi Unigeniti a Patre,
+gloriam misericordiae et affectus vere paterni, gloriam
+procedentis ex corde Patris et paterna plane
+viscera exhibentis. <hi>Omnes enim peccaverunt,</hi> ait
+Apostolus, <hi>et egent gloria Dei <note>(Rom. III, 23)</note>
+          </hi>. Et alio
+loco: <hi>Mihi,</hi> inquit, <hi>absit gloriari, nisi in cruce Domini
+nostri Jesu Christi <note>(Galat. VI, 14)</note>
+          </hi>! Quid enim
+nobis gloriosius, quam quod tanti aestimavit nos
+Deus? Quaeve major illi gloria, quam tanta dignatio
+et tanta benignitas, eo utique dulcissima, quod tam
+gratuita? nam pro impiis mortuus est. Videtis
+quantum fecit, et pro qualibus: pro qualibus, ut
+non superbiamus; quantum, ne desperemus. Propterea,
+ut inveniamini non spiritum habere hujus
+mundi, sed spiritum qui ex Deo est, et sciatis quae
+<pb n="0137D"/>
+a Deo data sunt vobis, nolite, obsecro, fieri sicut
+equus et mulus, sed sicut pium jumentum, quod
+ait: <hi>Ut jumentum factus sum apud te, et ego semper
+tecum <note>(Psal. LXXII, 23)</note>
+          </hi>. Talia enim jumenta cognoscunt
+possessorem suum, et praesepe domini sui: in
+quo positum est eis piissimum fenum, ipse qui panis
+est angelorum. Ipse enim est panis vivus, de quo
+vivere debuit homo; sed quia homo jumentum factus
+est, et panis factus est fenum, ut vel sic vivat
+de eo.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Et hujus quidem mutationis sacramentum die
+Nativitatis celebratum est, quando Verbum caro
+factum est, cum sit omnis caro fenum. Ipsa ergo
+die minoratus est paulo minus ab angelis, et habitu
+<pb n="0138A"/>
+inventus ut homo: hodie vero mirabilius aliquid
+audio. Jam minoratus est multo minus angelis, qui
+non solum formam hominis, sed formam habet peccatoris,
+et infigitur velut quodam cauterio latronis.
+Quid est enim circumcisio, nisi superfluitatis et peccati
+indicium? In te, <emph>793</emph> Domine Jesu, quid est
+superfluum quod circumcidatur? Nonne tu verus
+Deus es de Deo Patre, homo verus sine omni peccato
+de Virgine matre? Quid facitis circumcidentes eum?
+Putatis quia super eum possit cadere illa sententia: <hi>Masculus cujus praeputii caro circumcisa non fuerit,
+peribit anima ipsius de populo suo? 
+ <note>(Gen. XVII, 14.)</note>
+          </hi> 
+Potest oblivisci Pater Filii uteri sui? aut non cognosceret
+eum, nisi signum circumcisionis haberet?
+Imo vero si quo modo posset non agnoscere Filium,
+<pb n="0138B"/>
+in quo ei bene complacuit, ex hoc maxime signo
+poterat ignorare eum, inventa in eo circumcisione
+quam peccatoribus ipse providerat, ob purgationem
+utique delictorum. Sed quid mirum si caput pro
+membris accepit curationem, quam tamen in se ipso
+non habuit necessariam? Nonne et in membris nostris
+saepe pro unius infirmitate alteri adhibetur curatio?
+Dolet caput, et in brachio fit coctura; dolent
+renes, et fit in tibia: ita hodie pro totius corporis
+putredine cauterium quoddam infixum est in Capite.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Denique quid mirum si pro nobis dignatus est
+circumcidi, pro quibus dignatus est mori? Totus siquidem
+mihi datus, et totus in meos usus expensus
+est. Ego enim, audiens quia transit ante carcerem
+filius magni Regis, coepi altius gemere, et miserabilius
+<pb n="0138C"/>
+exclamare, dicens: Fili Dei, miserere mei. At
+ille, sicut benignissimus: Quisnam est, inquit, iste
+fletus et ululatus quem audio? Et dicunt ei: Ipse est
+Adam proditor ille, quem Pater vester trudi fecit
+in carcerem, donec cogitet quibus illum suppliciis
+faciat interire. Quid ageret, cujus natura bonitas,
+cui proprium est misereri semper et parcere? Descendit
+in carcerem, venit ut educat vinctum de domo
+carceris. Judaei vero non immemores odii quo oderant
+Patrem, exercent illud in Filium: unde et ipse
+ait: <hi>Quia oderunt me et Patrem meum <note>(Joan. XV, 24)</note>
+          </hi>.
+Quid ergo fecerunt impii, quibus gravis erat etiam
+ad videndum? <hi>Hic est,</hi> inquiunt, <hi>haeres, venite, occidamus
+eum <note>(Matth. XXI, 38)</note>
+          </hi>. Sic ergo occiderunt
+Agnum Dei, in suam quidem perniciem, sed in salutem
+<pb n="0138D"/>
+nostram. Illi enim sanguinem Agni fuderunt; nos
+accessimus, et bibimus illum. Accepimus calicem
+salutaris: et calix [ <hi>alias</hi> calix noster] inebrians
+quam praeclarus est! Ecce unde gratias agamus.
+Nam ante paucos dies celebravimus adventum ejus
+in carcerem hujus mundi, id est diem Natalis; hodie
+vero celebramus quod catenas et vincula nostra
+suscepit. Hodie enim qui peccatum non fecit, ut
+reos absolveret, innoxias manus eorum catenis inseruit;
+hodie sub lege factus est, qui legem dedit.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Sed dicendum est jam quid in hac circumcisione
+nobis spiritualiter indicetur agendum. Neque
+enim sine causa in lege praeceptum, nec sine causa
+completum est in Domino, ut octava die fieret circumcisio
+<pb n="0139A"/> <note>(Gen. XVII, 12)</note>.
+Sed quis cognovit sensum
+Domini? aut quis consiliarius ejus fuit? <note>(Rom. XI,
+34.)</note> Adsit nunc vestris desideriis advocatus Spiritus,
+qui scrutatur alta Dei, et edisserat nobis [ <hi>alias</hi> 
+vobis] sacramentum istud octavae diei. Non ignoramusjam
+oportere hominem nasci denuo: nam propter
+hoc secundo natus est Dei Filius. In peccatis siquidem
+nascimur omnes, et necesse habemus renasci
+in gratia, quam in Baptismate quidem percepimus,
+sed heu! totum periit in saeculari vita. Nunc primum,
+miserante Deo, virtus gratiae in nobis operatur,
+ut in novitate vitae ambulemus. Ergo tunc nascitur
+homo, quando Sol justitiae, ortus in animo,
+peccatorum illuminat tenebras, horrendumque Dei
+judicium internis obtutibus offert, addens ad terroris
+<pb n="0139B"/>
+vinculum brevem dierum numerum, et finem incertum.
+Haec plane vespera est, ad quam demorabitur
+fletus; et necesse est addi matutini laetitiam,
+ut auditam faciat nobis misericordiam suam. Sic
+enim fit vespere et mane dies unus. Est autem dies
+ista justitiae, reddens unicuique quod suum est: nobis
+miseriam, misericordiam Deo. In hac die Puer
+nascitur, quando ex his quae diximus, ad amorem
+poenitentiae et odium peccati animus excitatur. <emph>794</emph>
+</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Sed periculosum est si forte velit inter
+saeculi turbas agere poenitentiam, ubi nimirum alii
+venenatis persuasionibus, alii undique exemplis pejoribus
+ad peccatum alliciant, alii adulationibus in
+vanam gloriam, alii detractionibus in impatientiam
+animum ejus dejiciant. Procedat jam necesse est
+<pb n="0139C"/>
+prudentiae radius. Ostendat quantas et quam importunas,
+praesertim in hac generatione nequam, opportunitates
+et occasiones peccati offerat mundus
+et ingerat; quam debilis sit ad illas humanus animus,
+maxime qui in peccati consuetudine sit nutritus.
+In hac ergo die prudentiae eligat de praesenti
+saeculo nequam fugere, dicens cum propheta: <hi>Odivi
+Ecclesiam malignantium, et cum impiis non sedebo <note>(Psal. XXV, 5)</note>
+          </hi>.
+Sed nondum sufficit hoc. Forte
+enim vult eligere solitudinem, non satis attendens
+propriam infirmitatem, et periculosam diaboli luctam.
+Quid enim periculosius quam solum luctari contra
+antiqui hostis versutias, a quo videatur, et quem videre
+non possit? Itaque jam habet necessariam fortitudinis
+<pb n="0139D"/>
+diem, ut noverit custodiendam ad Dominum
+fortitudinem suam, et in acie multorum pariter pugnantium
+esse quaerendam, ubi tot sunt auxiliarii
+quot socii, et tales qui dicere possint cum Apostolo: <hi>Quia non ignoramus astutias inimici 
+ <note>(II Cor. II, 11)</note>
+          </hi>.
+Congregatio enim pro fortitudine sua terribilis est, ut
+castrorum acies ordinata. Vae autem soli! quia si ceciderit,
+non habet sublevantem <note>(Eccle. IV, 10)</note>. Quod
+si cuiquam ex antiquis Patribus gratiam hanc concessam
+audivimus, non expedit temere se committere
+huic periculo, nec oportet tentare Deum, sicut
+et magister noster, de anachoretis loquens:  « Qui
+non, inquit, conversionis fervore novitio <note>(Reg. S.
+Benedicti, cap. 1)</note>, »  etc. Itaque in hac fortitudinis
+die ad id quod jam coeperat, id est, <hi>Odivi Ecclesiam
+<pb n="0140A"/>
+malignantium,</hi> etiam addit quod sequitur: <hi>Lavabo
+inter innocentes manus meas.</hi> </p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ Verum cum eligit esse in congregatione multorum,
+nunquid eliget esse magister, qui nondum discipulus
+fuit, et docere quod didicit nunquam? Et
+quomodo aut in se, aut in aliis motus irrationabiles
+poterit temperare? <hi>Nemo unquam carnem suam odio
+habuit <note>(Ephes. V, 29)</note>
+          </hi>. Quomodo ergo putatis, si jam
+magister suus fuerit iste, quin facile sibi aliquando,
+eo amplius quo familiarius, condescendat? Illucescat
+igitur dies temperantiae, ut quaerat quomodo temperari
+et refrenari possint incontinentes motus voluptatis,
+bestiales motus curiositatis, cervicosi motus
+elationis suae. Eligat abjectus esse in domo Dei sui,
+et subjectus esse magistro, sub quo frangatur ejus
+<pb n="0140B"/>
+voluntas, et obedientiae freno concupiscentia reprimatur,
+sitque quod ait propheta: <hi>Imposuisti homines
+super capita nostra <note>(Psal. LXV, 12)</note>
+          </hi>. Nec dedignandum
+servo, quod praecessit in Domino; siquidem
+non est servus major domino suo <note>(Joan. XIII,
+16)</note>. Ille enim cum jam crevisset aetate, sapientia,
+et gratia apud Deum et homines; cum jam duodecim
+annorum esset, et remansisset in Jerusalem,
+inventus a beata Virgine et Joseph, cujus filius putabatur,
+in medio doctorum, audiens illos et interrogans:
+tamen descendit cum illis, <hi>et erat subditus
+illis <note>(Luc. II, 42-51)</note>
+          </hi>. Et tu ergo subditus esto propter
+illum.</p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ Sed jam tibi in ipsa obedientiae via aliqua fortassis
+dura et aspera occurrere possunt, ut accipias
+<pb n="0140C"/>
+interdum praecepta nonnulla, quae, licet salubria
+sint, minus tamen suavia videantur. Haec si moleste
+coeperis sustinere, si dijudicare praelatum, si murmurare
+in corde; etiamsi exterius impleas quod
+jubetur, non est haec virtus patientiae [ <hi>fortasse</hi> obedientiae],
+sed velamentum malitiae. Necesse est ergo
+ut illucescat dies patientiae, per quam omnia dura et
+aspera tacita amplectaris conscientia, te magis dijudicans
+et durius arguens, cui nimirum displicent
+quae ad salutem sunt; et in cogitatione tua semper
+partem magistri, quoad potes, adversus temetipsum
+juvans; te quidem in omnibus accusare, ipsum vero
+magis excusare laborans.</p>
+        </div3>
+<div3>
+          <head>9.</head>
+          <p>
+ Porro in hoc loco jam cavendum tibi arbitror
+<pb n="0140D"/>
+a superbia. Magnum est enim omnino sic vincere
+semetipsum. <hi>Melior est,</hi> ait Salomon, <hi>patiens viro
+forti; et qui dominatur animo suo, expugnatore urbium <note>(Prov. XVI, 32)</note>
+          </hi>.
+Considera <emph>795</emph> denique quam
+manifeste propheta doceat necessariam esse humilitatem
+post patientiam, dicens: <hi>Verumtamem Deo
+subjecta esto, anima mea, quoniam ab ipso patientia
+mea <note>(Psal. LXI, 6)</note>
+          </hi>. Nonne videtur hic occasione patientiae
+tentationem sensisse superbiae? Necesse est
+ergo ut illuminet cor tuum radius humilitatis, et
+declaret quid a te sit, quid a Deo, ut non altum
+sapias: quoniam Deus superbis resistit, humilibus
+dat gratiam <note>(Jac. IV, 6)</note>.</p>
+        </div3>
+<div3>
+          <head>10.</head>
+          <p>
+ Jam vero cum in his diutius fueris exercitatus,
+roga dari tibi devotionis lumen, diem serenissimam,
+<pb n="0141A"/>
+et Sabbatum mentis, in quo, tanquam emeritus
+miles, in laboribus universis vivas absque labore,
+dilatato nimirum corde currens viam mandatorum
+Dei; ut quod prius cum amaritudine et coactione
+tui spiritus faciebas, de caetero jam cum summa
+dulcedine peragas et delectatione. Hanc, ni fallor,
+gratiam petebat qui ait: <hi>Remitte mihi ut refrigerer <note>(Psal. XXXVIII, 14)</note>
+          </hi>;
+ac si dicat, Quousque in
+sudore et dolore isto crucior, et morte afficior
+tota die? <hi>Remitte mihi ut refrigerer.</hi> Verum, et
+ad hanc quidem perfectionem pauci, ni fallor, per
+veniunt in hac vita. Neque enim si quis aliquando
+videtur hanc habere, continuo credat sibi necesse
+est, maxime si novitius est, nec [ <hi>alias</hi> sed
+necdum] per praefatos ascenderit gradus. Pius enim
+<pb n="0141B"/>
+Dominus noster Jesus Christus pusillos corde blanditiis
+talibus solet allicere. Sed noverint qui hujusmodi
+sunt, gratiam hanc praestitam sibi esse, non
+datam, ut in die bonorum memores sint malorum,
+et in die malorum non immemores sint bonorum.
+Longe aliter qui exercitatos habent sensus, devotionis
+hujus felici fruuntur jucunditate. Sed multi tota
+vita sua ad hoc tendunt, et nunquam pertendunt;
+quibus tamen, si pie et perseveranter conati sunt,
+statim ut de corpore exeunt, redditur quod in hac
+vita dispensatorie est negatum, illuc perducente
+eos sola gratia, quo prius tendebant ipsi cum
+gratia, ut consummati in brevi, expleant tempora
+multa.
+<pb n="0142A"/>
+</p>
+        </div3>
+<div3>
+          <head>11. </head>
+          <p>
+Illis vero qui ad hanc devotionis gratiam perveniunt,
+unum videtur restare periculum, et omnino
+timendum eis a daemonio meridiano: <hi>Ipse enim Satanas
+transfigurat se in angelum lucis <note>(II Cor. XI,
+14)</note>
+          </hi>. Hoc ergo timendum ei qui tanta delectatione
+omnia facit, ne, dum sequitur affectionem, corpus
+destruat per immoderatam exercitationem, ac deinde
+necesse habeat, non sine magno spiritualis exercitii
+detrimento, circa debilitati curam corporis occupari.
+Ergo ne incurrat qui currit, illuminari necesse
+est lumine discretionis, quae mater virtutum est, et
+consummatio perfectionis. Haec nimirum docet, ne
+quid nimis; atque haec est octava dies in qua circumciditur
+puer: quia discretio vere circumcidit, ut
+non plus nec minus fiat. Nam et qui nimius est, fructum
+<pb n="0142B"/>
+boni operis abscindit, non circumcidit; sicut
+qui tepidus est, si minus facit. In hac ergo die nomen
+imponitur, et nomen salutis; nec de eo qui
+sic conversatur dubitem dicere quod suam ipsius
+salutem operetur. Usque ad hunc enim diem dicere
+possunt angeli, qui norunt secreta coelestia; sed
+ego nunc primum ei fiducialiter nomen salutis impono.
+At vero, quia omnino rara ista avis est in
+terris <note>(JUVEN. sat. VI)</note>, hujus discretionis locum in
+vobis, fratres, suppleat virtus obedientiae, ut nihil
+plus, nihil minus nihil aliter quam imperatum sit,
+faciatis.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>
