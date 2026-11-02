@@ -1,0 +1,203 @@
+{
+  "id": "faber-notes-doctrinal-spiritual",
+  "cover": "classic",
+  "name": {
+    "en-US": "Notes on Doctrinal and Spiritual Subjects",
+    "pt-BR": "Notas sobre Assuntos Doutrinais e Espirituais"
+  },
+  "author": {
+    "en-US": "Fr. Frederick William Faber",
+    "pt-BR": "Pe. Frederick William Faber"
+  },
+  "description": {
+    "en-US": "Faber's posthumous notes (1866), selected from his papers by the Oratorians and edited by J. E. Bowden: outlines and drafts of sermons and lectures in seven parts on God and the Holy Trinity, the Sacred Humanity of Jesus, Our Lady and the Saints, the Faith (the Church, the Sacraments, controversy), the spiritual life, miscellaneous subjects and the last things.",
+    "pt-BR": "As notas póstumas de Faber (1866), escolhidas de seus papéis pelos oratorianos e editadas por J. E. Bowden: esboços e rascunhos de sermões e conferências em sete partes, sobre Deus e a Santíssima Trindade, a Sagrada Humanidade de Jesus, Nossa Senhora e os Santos, a Fé (a Igreja, os Sacramentos, a controvérsia), a vida espiritual, assuntos diversos e as últimas coisas."
+  },
+  "composed": "1850-1863",
+  "languages": [
+    "en-US"
+  ],
+  "work": "faber/notes-doctrinal-spiritual",
+  "editions": {
+    "en-US": {
+      "editor": "J. E. Bowden, ed. (London: Burns, Lambert and Oates, 1866, two volumes)",
+      "year": 1866
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/a580662901fabeuoft",
+      "edition": "Notes on Doctrinal and Spiritual Subjects, vols. 1-2 (London: Burns, Lambert and Oates, 1866), University of Toronto scans a580662901fabeuoft and a580662902fabeuoft, Internet Archive full-text OCR.",
+      "description": "The two volumes are given as seven parts with their sections; the editor's preface is kept, the tables of contents, the dedication, the indexes and the publisher's advertisements are dropped. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Fr. Frederick William Faber died in 1863 and the edition is of 1866, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "part-1",
+      "title": {
+        "en-US": "Part I. God and the Most Holy Trinity"
+      },
+      "children": [
+        {
+          "id": "divine-attributes",
+          "title": {
+            "en-US": "Section I. The Divine Attributes"
+          }
+        },
+        {
+          "id": "holy-ghost",
+          "title": {
+            "en-US": "Section II. The Holy Ghost"
+          }
+        },
+        {
+          "id": "appendix-serafina",
+          "title": {
+            "en-US": "Appendix: Revelation to the Venerable Serafina di Dio"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "Part II. The Sacred Humanity of Jesus"
+      },
+      "children": [
+        {
+          "id": "our-blessed-lord",
+          "title": {
+            "en-US": "Section I. Our Blessed Lord"
+          }
+        },
+        {
+          "id": "the-passion",
+          "title": {
+            "en-US": "Section II. The Passion"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "title": {
+        "en-US": "Part III. Our Blessed Lady and the Saints"
+      },
+      "children": [
+        {
+          "id": "our-blessed-lady",
+          "title": {
+            "en-US": "Section I. Our Blessed Lady"
+          }
+        },
+        {
+          "id": "the-saints",
+          "title": {
+            "en-US": "Section II. The Saints"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-4",
+      "title": {
+        "en-US": "Part IV. The Faith"
+      },
+      "children": [
+        {
+          "id": "the-church",
+          "title": {
+            "en-US": "Section I. The Church"
+          }
+        },
+        {
+          "id": "the-sacraments",
+          "title": {
+            "en-US": "Section II. The Sacraments"
+          }
+        },
+        {
+          "id": "controversy",
+          "title": {
+            "en-US": "Section III. Controversy"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": {
+        "en-US": "Part V. The Spiritual Life"
+      },
+      "children": [
+        {
+          "id": "the-spiritual-life",
+          "title": {
+            "en-US": "The Spiritual Life"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": {
+        "en-US": "Part VI. Miscellaneous"
+      },
+      "children": [
+        {
+          "id": "old-testament-history",
+          "title": {
+            "en-US": "Section I. Old Testament History"
+          }
+        },
+        {
+          "id": "special-occasions",
+          "title": {
+            "en-US": "Section II. Special Occasions"
+          }
+        },
+        {
+          "id": "life",
+          "title": {
+            "en-US": "Section III. Life"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-7",
+      "title": {
+        "en-US": "Part VII. The Last Things"
+      },
+      "children": [
+        {
+          "id": "four-last-things",
+          "title": {
+            "en-US": "Section I. The Four Last Things"
+          }
+        },
+        {
+          "id": "purgatory",
+          "title": {
+            "en-US": "Section II. Purgatory"
+          }
+        }
+      ]
+    },
+    {
+      "id": "appendix-third-part",
+      "title": {
+        "en-US": "Appendix to the Third Part"
+      }
+    }
+  ]
+}

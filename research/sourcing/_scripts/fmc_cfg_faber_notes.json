@@ -1,0 +1,185 @@
+{
+ "id": "faber-notes-doctrinal-spiritual",
+ "dir": "faber-opera-omnia/notes-doctrinal-spiritual",
+ "slug": "notes-doctrinal-spiritual",
+ "work": "faber/notes-doctrinal-spiritual",
+ "name": "Notes on Doctrinal and Spiritual Subjects",
+ "name_pt": "Notas sobre Assuntos Doutrinais e Espirituais",
+ "author": "Fr. Frederick William Faber",
+ "author_pt": "Pe. Frederick William Faber",
+ "died": 1863,
+ "desc": "Faber's posthumous notes (1866), selected from his papers by the Oratorians and edited by J. E. Bowden: outlines and drafts of sermons and lectures in seven parts on God and the Holy Trinity, the Sacred Humanity of Jesus, Our Lady and the Saints, the Faith (the Church, the Sacraments, controversy), the spiritual life, miscellaneous subjects and the last things.",
+ "desc_pt": "As notas p\u00f3stumas de Faber (1866), escolhidas de seus pap\u00e9is pelos oratorianos e editadas por J. E. Bowden: esbo\u00e7os e rascunhos de serm\u00f5es e confer\u00eancias em sete partes, sobre Deus e a Sant\u00edssima Trindade, a Sagrada Humanidade de Jesus, Nossa Senhora e os Santos, a F\u00e9 (a Igreja, os Sacramentos, a controv\u00e9rsia), a vida espiritual, assuntos diversos e as \u00faltimas coisas.",
+ "composed": "1850-1863",
+ "editor": "J. E. Bowden, ed. (London: Burns, Lambert and Oates, 1866, two volumes)",
+ "year": 1866,
+ "url": "https://archive.org/details/a580662901fabeuoft",
+ "edition": "Notes on Doctrinal and Spiritual Subjects, vols. 1-2 (London: Burns, Lambert and Oates, 1866), University of Toronto scans a580662901fabeuoft and a580662902fabeuoft, Internet Archive full-text OCR.",
+ "srcnote": "The two volumes are given as seven parts with their sections; the editor's preface is kept, the tables of contents, the dedication, the indexes and the publisher's advertisements are dropped.",
+ "src": "faber/ia/notes_combined_djvu.txt",
+ "start": 625,
+ "end": 37981,
+ "fn": true,
+ "front": [
+  {
+   "id": "preface",
+   "title": "Preface",
+   "from": 86,
+   "to": 240
+  }
+ ],
+ "back": [],
+ "label": {},
+ "romanheads": false,
+ "units": [
+  {
+   "id": "divine-attributes",
+   "title": "Section I. The Divine Attributes",
+   "from": 625,
+   "part": {
+    "id": "part-1",
+    "title": "Part I. God and the Most Holy Trinity"
+   }
+  },
+  {
+   "id": "holy-ghost",
+   "title": "Section II. The Holy Ghost",
+   "from": 2883,
+   "part": {
+    "id": "part-1",
+    "title": "Part I. God and the Most Holy Trinity"
+   }
+  },
+  {
+   "id": "appendix-serafina",
+   "title": "Appendix: Revelation to the Venerable Serafina di Dio",
+   "from": 5700,
+   "part": {
+    "id": "part-1",
+    "title": "Part I. God and the Most Holy Trinity"
+   }
+  },
+  {
+   "id": "our-blessed-lord",
+   "title": "Section I. Our Blessed Lord",
+   "from": 6108,
+   "part": {
+    "id": "part-2",
+    "title": "Part II. The Sacred Humanity of Jesus"
+   }
+  },
+  {
+   "id": "the-passion",
+   "title": "Section II. The Passion",
+   "from": 8974,
+   "part": {
+    "id": "part-2",
+    "title": "Part II. The Sacred Humanity of Jesus"
+   }
+  },
+  {
+   "id": "our-blessed-lady",
+   "title": "Section I. Our Blessed Lady",
+   "from": 14247,
+   "part": {
+    "id": "part-3",
+    "title": "Part III. Our Blessed Lady and the Saints"
+   }
+  },
+  {
+   "id": "the-saints",
+   "title": "Section II. The Saints",
+   "from": 15658,
+   "part": {
+    "id": "part-3",
+    "title": "Part III. Our Blessed Lady and the Saints"
+   }
+  },
+  {
+   "id": "the-church",
+   "title": "Section I. The Church",
+   "from": 19658,
+   "part": {
+    "id": "part-4",
+    "title": "Part IV. The Faith"
+   }
+  },
+  {
+   "id": "the-sacraments",
+   "title": "Section II. The Sacraments",
+   "from": 22015,
+   "part": {
+    "id": "part-4",
+    "title": "Part IV. The Faith"
+   }
+  },
+  {
+   "id": "controversy",
+   "title": "Section III. Controversy",
+   "from": 23305,
+   "part": {
+    "id": "part-4",
+    "title": "Part IV. The Faith"
+   }
+  },
+  {
+   "id": "the-spiritual-life",
+   "title": "The Spiritual Life",
+   "from": 25194,
+   "part": {
+    "id": "part-5",
+    "title": "Part V. The Spiritual Life"
+   }
+  },
+  {
+   "id": "old-testament-history",
+   "title": "Section I. Old Testament History",
+   "from": 32580,
+   "part": {
+    "id": "part-6",
+    "title": "Part VI. Miscellaneous"
+   }
+  },
+  {
+   "id": "special-occasions",
+   "title": "Section II. Special Occasions",
+   "from": 33623,
+   "part": {
+    "id": "part-6",
+    "title": "Part VI. Miscellaneous"
+   }
+  },
+  {
+   "id": "life",
+   "title": "Section III. Life",
+   "from": 34560,
+   "part": {
+    "id": "part-6",
+    "title": "Part VI. Miscellaneous"
+   }
+  },
+  {
+   "id": "four-last-things",
+   "title": "Section I. The Four Last Things",
+   "from": 35338,
+   "part": {
+    "id": "part-7",
+    "title": "Part VII. The Last Things"
+   }
+  },
+  {
+   "id": "purgatory",
+   "title": "Section II. Purgatory",
+   "from": 36425,
+   "part": {
+    "id": "part-7",
+    "title": "Part VII. The Last Things"
+   }
+  },
+  {
+   "id": "appendix-third-part",
+   "title": "Appendix to the Third Part",
+   "from": 37075
+  }
+ ]
+}
