@@ -1,0 +1,530 @@
+{
+  "id": "dante-convivio",
+  "cover": "classic",
+  "name": {
+    "it": "Convivio",
+    "en-US": "The Banquet (Convivio)",
+    "pt-BR": "O Banquete (Convivio)"
+  },
+  "author": {
+    "it": "Dante Alighieri",
+    "la": "Dante Alighieri",
+    "en-US": "Dante Alighieri",
+    "pt-BR": "Dante Alighieri"
+  },
+  "description": {
+    "it": "Il Convivio di Dante (c. 1304-1307), incompiuto: commento in prosa volgare a tre canzoni, in quattro trattati (I, il proemio, di 13 capitoli; II, di 15; III, di 15; IV, di 30), con le tre canzoni «Voi che ’ntendendo», «Amor che ne la mente» e «Le dolci rime d’amor». Il trattato primo difende l’uso del volgare; il secondo spiega i quattro sensi della scrittura e i cieli; il terzo loda la filosofia, donna gentile; il quarto indaga la vera nobiltà. Testo di Wikisource, con i numeri dei paragrafi.",
+    "en-US": "Dante’s unfinished Banquet (c. 1304-1307): a commentary in vernacular prose on three of his canzoni, in four treatises (I, the proem, 13 chapters; II, 15; III, 15; IV, 30), with the canzoni “Voi che ’ntendendo”, “Amor che ne la mente” and “Le dolci rime d’amor”. The first treatise defends the use of the vernacular; the second sets out the four senses of Scripture and the heavens; the third praises Philosophy, the gentle lady; the fourth asks what true nobility is. The Italian is the Wikisource transcription, with paragraph numbers. English translations (Wicksteed 1903, Sayer 1887) divide the chapters differently and are not imported.",
+    "pt-BR": "O Convívio de Dante (c. 1304-1307), inacabado: comentário em prosa vulgar a três canções, em quatro tratados, com as canções «Voi che ’ntendendo», «Amor che ne la mente» e «Le dolci rime d’amor»."
+  },
+  "composed": "1304-1307",
+  "languages": [
+    "it"
+  ],
+  "work": "dante/convivio",
+  "editions": {
+    "it": {
+      "editor": "transcription on it.wikisource (edition not stated)"
+    }
+  },
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://it.wikisource.org/wiki/Convivio",
+      "edition": "Il Convivio, trattati I-IV, it.wikisource (pages Convivio/Trattato primo to quarto).",
+      "description": "The four treatises with the canzoni as verse (one line per verse, hard breaks) and Dante’s paragraph numbers. Wiki templates, footnote anchors and authority links are dropped. Chapter ids are trattato-N-cap-NN; the canzone of treatises II, III and IV stands as its own chapter before chapter 1.",
+      "tier": "A",
+      "tierEvidence": "Dante’s text is public domain; it.wikisource transcription, quality marked 50-75%."
+    }
+  ],
+  "toc": [
+    {
+      "id": "trattato-1",
+      "title": {
+        "it": "Trattato I"
+      },
+      "children": [
+        {
+          "id": "trattato-1-cap-01",
+          "title": {
+            "it": "Trattato I, capitolo I"
+          }
+        },
+        {
+          "id": "trattato-1-cap-02",
+          "title": {
+            "it": "Trattato I, capitolo II"
+          }
+        },
+        {
+          "id": "trattato-1-cap-03",
+          "title": {
+            "it": "Trattato I, capitolo III"
+          }
+        },
+        {
+          "id": "trattato-1-cap-04",
+          "title": {
+            "it": "Trattato I, capitolo IV"
+          }
+        },
+        {
+          "id": "trattato-1-cap-05",
+          "title": {
+            "it": "Trattato I, capitolo V"
+          }
+        },
+        {
+          "id": "trattato-1-cap-06",
+          "title": {
+            "it": "Trattato I, capitolo VI"
+          }
+        },
+        {
+          "id": "trattato-1-cap-07",
+          "title": {
+            "it": "Trattato I, capitolo VII"
+          }
+        },
+        {
+          "id": "trattato-1-cap-08",
+          "title": {
+            "it": "Trattato I, capitolo VIII"
+          }
+        },
+        {
+          "id": "trattato-1-cap-09",
+          "title": {
+            "it": "Trattato I, capitolo IX"
+          }
+        },
+        {
+          "id": "trattato-1-cap-10",
+          "title": {
+            "it": "Trattato I, capitolo X"
+          }
+        },
+        {
+          "id": "trattato-1-cap-11",
+          "title": {
+            "it": "Trattato I, capitolo XI"
+          }
+        },
+        {
+          "id": "trattato-1-cap-12",
+          "title": {
+            "it": "Trattato I, capitolo XII"
+          }
+        },
+        {
+          "id": "trattato-1-cap-13",
+          "title": {
+            "it": "Trattato I, capitolo XIII"
+          }
+        }
+      ]
+    },
+    {
+      "id": "trattato-2",
+      "title": {
+        "it": "Trattato II"
+      },
+      "children": [
+        {
+          "id": "trattato-2-canzone",
+          "title": {
+            "it": "Trattato II, Canzone prima"
+          }
+        },
+        {
+          "id": "trattato-2-cap-01",
+          "title": {
+            "it": "Trattato II, capitolo I"
+          }
+        },
+        {
+          "id": "trattato-2-cap-02",
+          "title": {
+            "it": "Trattato II, capitolo II"
+          }
+        },
+        {
+          "id": "trattato-2-cap-03",
+          "title": {
+            "it": "Trattato II, capitolo III"
+          }
+        },
+        {
+          "id": "trattato-2-cap-04",
+          "title": {
+            "it": "Trattato II, capitolo IV"
+          }
+        },
+        {
+          "id": "trattato-2-cap-05",
+          "title": {
+            "it": "Trattato II, capitolo V"
+          }
+        },
+        {
+          "id": "trattato-2-cap-06",
+          "title": {
+            "it": "Trattato II, capitolo VI"
+          }
+        },
+        {
+          "id": "trattato-2-cap-07",
+          "title": {
+            "it": "Trattato II, capitolo VII"
+          }
+        },
+        {
+          "id": "trattato-2-cap-08",
+          "title": {
+            "it": "Trattato II, capitolo VIII"
+          }
+        },
+        {
+          "id": "trattato-2-cap-09",
+          "title": {
+            "it": "Trattato II, capitolo IX"
+          }
+        },
+        {
+          "id": "trattato-2-cap-10",
+          "title": {
+            "it": "Trattato II, capitolo X"
+          }
+        },
+        {
+          "id": "trattato-2-cap-11",
+          "title": {
+            "it": "Trattato II, capitolo XI"
+          }
+        },
+        {
+          "id": "trattato-2-cap-12",
+          "title": {
+            "it": "Trattato II, capitolo XII"
+          }
+        },
+        {
+          "id": "trattato-2-cap-13",
+          "title": {
+            "it": "Trattato II, capitolo XIII"
+          }
+        },
+        {
+          "id": "trattato-2-cap-14",
+          "title": {
+            "it": "Trattato II, capitolo XIV"
+          }
+        },
+        {
+          "id": "trattato-2-cap-15",
+          "title": {
+            "it": "Trattato II, capitolo XV"
+          }
+        }
+      ]
+    },
+    {
+      "id": "trattato-3",
+      "title": {
+        "it": "Trattato III"
+      },
+      "children": [
+        {
+          "id": "trattato-3-canzone",
+          "title": {
+            "it": "Trattato III, Canzone seconda"
+          }
+        },
+        {
+          "id": "trattato-3-cap-01",
+          "title": {
+            "it": "Trattato III, capitolo I"
+          }
+        },
+        {
+          "id": "trattato-3-cap-02",
+          "title": {
+            "it": "Trattato III, capitolo II"
+          }
+        },
+        {
+          "id": "trattato-3-cap-03",
+          "title": {
+            "it": "Trattato III, capitolo III"
+          }
+        },
+        {
+          "id": "trattato-3-cap-04",
+          "title": {
+            "it": "Trattato III, capitolo IV"
+          }
+        },
+        {
+          "id": "trattato-3-cap-05",
+          "title": {
+            "it": "Trattato III, capitolo V"
+          }
+        },
+        {
+          "id": "trattato-3-cap-06",
+          "title": {
+            "it": "Trattato III, capitolo VI"
+          }
+        },
+        {
+          "id": "trattato-3-cap-07",
+          "title": {
+            "it": "Trattato III, capitolo VII"
+          }
+        },
+        {
+          "id": "trattato-3-cap-08",
+          "title": {
+            "it": "Trattato III, capitolo VIII"
+          }
+        },
+        {
+          "id": "trattato-3-cap-09",
+          "title": {
+            "it": "Trattato III, capitolo IX"
+          }
+        },
+        {
+          "id": "trattato-3-cap-10",
+          "title": {
+            "it": "Trattato III, capitolo X"
+          }
+        },
+        {
+          "id": "trattato-3-cap-11",
+          "title": {
+            "it": "Trattato III, capitolo XI"
+          }
+        },
+        {
+          "id": "trattato-3-cap-12",
+          "title": {
+            "it": "Trattato III, capitolo XII"
+          }
+        },
+        {
+          "id": "trattato-3-cap-13",
+          "title": {
+            "it": "Trattato III, capitolo XIII"
+          }
+        },
+        {
+          "id": "trattato-3-cap-14",
+          "title": {
+            "it": "Trattato III, capitolo XIV"
+          }
+        },
+        {
+          "id": "trattato-3-cap-15",
+          "title": {
+            "it": "Trattato III, capitolo XV"
+          }
+        }
+      ]
+    },
+    {
+      "id": "trattato-4",
+      "title": {
+        "it": "Trattato IV"
+      },
+      "children": [
+        {
+          "id": "trattato-4-canzone",
+          "title": {
+            "it": "Trattato IV, Canzone terza"
+          }
+        },
+        {
+          "id": "trattato-4-cap-01",
+          "title": {
+            "it": "Trattato IV, capitolo I"
+          }
+        },
+        {
+          "id": "trattato-4-cap-02",
+          "title": {
+            "it": "Trattato IV, capitolo II"
+          }
+        },
+        {
+          "id": "trattato-4-cap-03",
+          "title": {
+            "it": "Trattato IV, capitolo III"
+          }
+        },
+        {
+          "id": "trattato-4-cap-04",
+          "title": {
+            "it": "Trattato IV, capitolo IV"
+          }
+        },
+        {
+          "id": "trattato-4-cap-05",
+          "title": {
+            "it": "Trattato IV, capitolo V"
+          }
+        },
+        {
+          "id": "trattato-4-cap-06",
+          "title": {
+            "it": "Trattato IV, capitolo VI"
+          }
+        },
+        {
+          "id": "trattato-4-cap-07",
+          "title": {
+            "it": "Trattato IV, capitolo VII"
+          }
+        },
+        {
+          "id": "trattato-4-cap-08",
+          "title": {
+            "it": "Trattato IV, capitolo VIII"
+          }
+        },
+        {
+          "id": "trattato-4-cap-09",
+          "title": {
+            "it": "Trattato IV, capitolo IX"
+          }
+        },
+        {
+          "id": "trattato-4-cap-10",
+          "title": {
+            "it": "Trattato IV, capitolo X"
+          }
+        },
+        {
+          "id": "trattato-4-cap-11",
+          "title": {
+            "it": "Trattato IV, capitolo XI"
+          }
+        },
+        {
+          "id": "trattato-4-cap-12",
+          "title": {
+            "it": "Trattato IV, capitolo XII"
+          }
+        },
+        {
+          "id": "trattato-4-cap-13",
+          "title": {
+            "it": "Trattato IV, capitolo XIII"
+          }
+        },
+        {
+          "id": "trattato-4-cap-14",
+          "title": {
+            "it": "Trattato IV, capitolo XIV"
+          }
+        },
+        {
+          "id": "trattato-4-cap-15",
+          "title": {
+            "it": "Trattato IV, capitolo XV"
+          }
+        },
+        {
+          "id": "trattato-4-cap-16",
+          "title": {
+            "it": "Trattato IV, capitolo XVI"
+          }
+        },
+        {
+          "id": "trattato-4-cap-17",
+          "title": {
+            "it": "Trattato IV, capitolo XVII"
+          }
+        },
+        {
+          "id": "trattato-4-cap-18",
+          "title": {
+            "it": "Trattato IV, capitolo XVIII"
+          }
+        },
+        {
+          "id": "trattato-4-cap-19",
+          "title": {
+            "it": "Trattato IV, capitolo XIX"
+          }
+        },
+        {
+          "id": "trattato-4-cap-20",
+          "title": {
+            "it": "Trattato IV, capitolo XX"
+          }
+        },
+        {
+          "id": "trattato-4-cap-21",
+          "title": {
+            "it": "Trattato IV, capitolo XXI"
+          }
+        },
+        {
+          "id": "trattato-4-cap-22",
+          "title": {
+            "it": "Trattato IV, capitolo XXII"
+          }
+        },
+        {
+          "id": "trattato-4-cap-23",
+          "title": {
+            "it": "Trattato IV, capitolo XXIII"
+          }
+        },
+        {
+          "id": "trattato-4-cap-24",
+          "title": {
+            "it": "Trattato IV, capitolo XXIV"
+          }
+        },
+        {
+          "id": "trattato-4-cap-25",
+          "title": {
+            "it": "Trattato IV, capitolo XXV"
+          }
+        },
+        {
+          "id": "trattato-4-cap-26",
+          "title": {
+            "it": "Trattato IV, capitolo XXVI"
+          }
+        },
+        {
+          "id": "trattato-4-cap-27",
+          "title": {
+            "it": "Trattato IV, capitolo XXVII"
+          }
+        },
+        {
+          "id": "trattato-4-cap-28",
+          "title": {
+            "it": "Trattato IV, capitolo XXVIII"
+          }
+        },
+        {
+          "id": "trattato-4-cap-29",
+          "title": {
+            "it": "Trattato IV, capitolo XXIX"
+          }
+        },
+        {
+          "id": "trattato-4-cap-30",
+          "title": {
+            "it": "Trattato IV, capitolo XXX"
+          }
+        }
+      ]
+    }
+  ]
+}
