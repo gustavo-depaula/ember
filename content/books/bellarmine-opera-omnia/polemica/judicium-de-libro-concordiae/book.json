@@ -1,0 +1,98 @@
+{
+  "id": "bellarmine-judicium-de-libro-concordiae",
+  "cover": "classic",
+  "name": {
+    "la": "Judicium de libro quem Lutherani vocant Concordiae",
+    "en-US": "Judgment on the Lutheran Book of Concord",
+    "pt-BR": "Juízo sobre o Livro da Concórdia luterano"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Judicium de libro quem Lutherani vocant Concordiae (1585). Textus ex editione Vivès (1870-74), tomo VII, ex scanno OCR.",
+    "en-US": "Bellarmine's judgment on the Lutheran Book of Concord (1585). Latin only: the Vivès edition (1870-74), volume 7, from an OCR scan.",
+    "pt-BR": "Juízo de Belarmino sobre o Livro da Concórdia luterano (1585)."
+  },
+  "composed": "1585",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/judicium-de-libro-concordiae",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia07bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 7 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "p01",
+      "title": {
+        "la": "Pars 1",
+        "en-US": "Part 1"
+      }
+    },
+    {
+      "id": "p02",
+      "title": {
+        "la": "Pars 2",
+        "en-US": "Part 2"
+      }
+    },
+    {
+      "id": "p03",
+      "title": {
+        "la": "Pars 3",
+        "en-US": "Part 3"
+      }
+    },
+    {
+      "id": "p04",
+      "title": {
+        "la": "Pars 4",
+        "en-US": "Part 4"
+      }
+    },
+    {
+      "id": "p05",
+      "title": {
+        "la": "Pars 5",
+        "en-US": "Part 5"
+      }
+    },
+    {
+      "id": "p06",
+      "title": {
+        "la": "Pars 6",
+        "en-US": "Part 6"
+      }
+    },
+    {
+      "id": "p07",
+      "title": {
+        "la": "Pars 7",
+        "en-US": "Part 7"
+      }
+    },
+    {
+      "id": "p08",
+      "title": {
+        "la": "Pars 8",
+        "en-US": "Part 8"
+      }
+    }
+  ]
+}
