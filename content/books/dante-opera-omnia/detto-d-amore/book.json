@@ -1,0 +1,48 @@
+{
+  "id": "dante-detto-d-amore",
+  "cover": "classic",
+  "name": {
+    "it": "Il Detto d’Amore",
+    "en-US": "The Detto d’Amore",
+    "pt-BR": "O Detto d’Amore"
+  },
+  "author": {
+    "it": "Attribuito a Dante (attribuzione dubbia)",
+    "en-US": "Attributed to Dante (attribution doubtful)",
+    "pt-BR": "Atribuído a Dante (atribuição duvidosa)"
+  },
+  "description": {
+    "it": "Il Detto d’Amore: poemetto di 480 settenari a rima baciata (fine del XIII secolo), anch’esso rifacimento del Roman de la Rose, trádito anonimo dall’unico manoscritto di Montpellier insieme al Fiore e attribuito, dubitativamente, a Dante. Testo di it.wikisource dai Poemetti allegorico-didattici del secolo XIII, un verso per riga.",
+    "en-US": "The Detto d’Amore: a poem of 480 seven-syllable lines in rhyming couplets (late 13th century), another reworking of the Roman de la Rose, preserved anonymously in the same Montpellier manuscript as the Fiore and attributed, doubtfully, to Dante. The text is from it.wikisource (Poemetti allegorico-didattici del secolo XIII), one verse to a line. Attribution to Dante doubtful. No public-domain English exists.",
+    "pt-BR": "O Detto d’Amore: poema de 480 versos de sete sílabas (fim do século XIII), atribuído, com dúvida, a Dante."
+  },
+  "composed": "13th century",
+  "languages": [
+    "it"
+  ],
+  "work": "dante/detto-d-amore",
+  "editions": {
+    "it": {
+      "editor": "Luigi Di Benedetto (?), in Poemetti allegorico-didattici del secolo XIII (Bari: Laterza, 1941), transcribed on it.wikisource",
+      "year": 1941
+    }
+  },
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://it.wikisource.org/wiki/Detto_d%27Amore",
+      "edition": "Detto d'Amore, it.wikisource, from Poemetti allegorico-didattici del secolo XIII.",
+      "description": "The whole poem as one chapter; verse-number anchors dropped. Italian only.",
+      "tier": "A",
+      "tierEvidence": "Dante’s attribution (Contini 1984) is doubtful: the sole manuscript, Montpellier H 438, is anonymous and signed “Durante”. The text is 13th-century and public domain; the it.wikisource transcription is from the 1941 Poemetti allegorico-didattici del secolo XIII (ed. Luigi Di Benedetto), quality marked 100%."
+    }
+  ],
+  "toc": [
+    {
+      "id": "detto",
+      "title": {
+        "it": "Il Detto d’Amore"
+      }
+    }
+  ]
+}
