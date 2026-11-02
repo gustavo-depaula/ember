@@ -1,0 +1,48 @@
+{
+  "id": "fenelon-lettre-a-louis-xiv",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Lettre à Louis XIV",
+    "en-US": "Letter to Louis XIV",
+    "pt-BR": "Carta a Luís XIV"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "La lettre anonyme que Fénelon, précepteur du duc de Bourgogne, adressa au roi vers 1694 : un examen de conscience de son règne (la guerre, les impôts, la flatterie, les ministres), dont l’original autographe n’a pas été retrouvé.",
+    "en-US": "The anonymous letter that Fénelon, tutor of the Duke of Burgundy, addressed to the King around 1694: an examination of conscience on his reign (war, taxes, flattery, ministers), the autograph of which has not been found.",
+    "pt-BR": "A carta anônima que Fénelon, preceptor do duque de Borgonha, dirigiu ao rei por volta de 1694: um exame de consciência de seu reinado (a guerra, os impostos, a lisonja, os ministros), cujo autógrafo não foi encontrado."
+  },
+  "composed": "1694",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/lettre-a-louis-xiv",
+  "editions": {
+    "fr-FR": {
+      "editor": "Project Gutenberg, Distributed Proofreaders Europe",
+      "year": 2004
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://www.gutenberg.org/ebooks/13914",
+      "edition": "Fénelon, Lettre à Louis XIV, Project Gutenberg #13914 (proofread by Distributed Proofreaders Europe); footnotes of the Gutenberg editors kept.",
+      "description": "Proofread etext, footnotes kept.",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715."
+    }
+  ],
+  "toc": [
+    {
+      "id": "lettre",
+      "title": {
+        "fr-FR": "Lettre à Louis XIV"
+      }
+    }
+  ]
+}
