@@ -1,0 +1,761 @@
+{
+  "id": "compilatio-assisiensis",
+  "cover": "classic",
+  "name": {
+    "la": "Compilatio Assisiensis (Legenda Perusina)",
+    "en-US": "The Assisi Compilation (Legenda Perusina)",
+    "pt-BR": "A Compilação de Assis (Legenda Perusina)"
+  },
+  "author": {
+    "la": "Socii sancti Francisci",
+    "en-US": "Companions of St. Francis (Compilatio Assisiensis)",
+    "pt-BR": "Companheiros de São Francisco (Compilação de Assis)"
+  },
+  "description": {
+    "la": "Compilatio Assisiensis seu Legenda Perusina, CXX capita ex testimonio sociorum beati Francisci, fratris Leonis praesertim, collecta (c. 1244-1260), secundum codicem Perusinum 1046.",
+    "en-US": "The Assisi Compilation, or Legenda Perusina (c. 1244-1260): one hundred and twenty short chapters of memories of St. Francis gathered from his companions, above all Brother Leo, in the order of the Perugia manuscript 1046, in Latin. No public-domain English exists.",
+    "pt-BR": "A Compilação de Assis, ou Legenda Perusina (c. 1244-1260): cento e vinte capítulos curtos de lembranças de São Francisco recolhidas dos seus companheiros."
+  },
+  "composed": "1244-1260",
+  "languages": [
+    "la"
+  ],
+  "work": "companions-of-francis/compilatio-assisiensis",
+  "editions": {
+    "la": {
+      "editor": "transcription of the critical text of Fontes Franciscani (1995) by M. Mastrorilli, Politecnico di Bari; edition not stated"
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://rilievo.poliba.it/bsc/bsc/st/cc/orm/francescani/fonti/ff_leggendaperugina_lat.html",
+      "edition": "Legenda Perusina, poliba.it \"Fonti francescane\" (Wayback Machine snapshot).",
+      "description": "120 numbered chapters (titled by their number in the source). Latin only.",
+      "tier": "B",
+      "tierEvidence": "Medieval text. The transcription (M. Mastrorilli, Politecnico di Bari, Biblioteca di Scienze del Cristianesimo, 2000-02) survives only in the Wayback Machine; it states no edition, but its biblical apparatus follows Fontes Franciscani (1995). Free in practice, edition unverified."
+    }
+  ],
+  "toc": [
+    {
+      "id": "cap-001",
+      "title": {
+        "la": "[1]"
+      }
+    },
+    {
+      "id": "cap-002",
+      "title": {
+        "la": "[2]"
+      }
+    },
+    {
+      "id": "cap-003",
+      "title": {
+        "la": "[3]"
+      }
+    },
+    {
+      "id": "cap-004",
+      "title": {
+        "la": "[4]"
+      }
+    },
+    {
+      "id": "cap-005",
+      "title": {
+        "la": "[5]"
+      }
+    },
+    {
+      "id": "cap-006",
+      "title": {
+        "la": "[6]"
+      }
+    },
+    {
+      "id": "cap-007",
+      "title": {
+        "la": "[7]"
+      }
+    },
+    {
+      "id": "cap-008",
+      "title": {
+        "la": "[8]"
+      }
+    },
+    {
+      "id": "cap-009",
+      "title": {
+        "la": "[9]"
+      }
+    },
+    {
+      "id": "cap-010",
+      "title": {
+        "la": "[10]"
+      }
+    },
+    {
+      "id": "cap-011",
+      "title": {
+        "la": "[11]"
+      }
+    },
+    {
+      "id": "cap-012",
+      "title": {
+        "la": "[12]"
+      }
+    },
+    {
+      "id": "cap-013",
+      "title": {
+        "la": "[13]"
+      }
+    },
+    {
+      "id": "cap-014",
+      "title": {
+        "la": "[14]"
+      }
+    },
+    {
+      "id": "cap-015",
+      "title": {
+        "la": "[15]"
+      }
+    },
+    {
+      "id": "cap-016",
+      "title": {
+        "la": "[16]"
+      }
+    },
+    {
+      "id": "cap-017",
+      "title": {
+        "la": "[17]"
+      }
+    },
+    {
+      "id": "cap-018",
+      "title": {
+        "la": "[18]"
+      }
+    },
+    {
+      "id": "cap-019",
+      "title": {
+        "la": "[19]"
+      }
+    },
+    {
+      "id": "cap-020",
+      "title": {
+        "la": "[20]"
+      }
+    },
+    {
+      "id": "cap-021",
+      "title": {
+        "la": "[21]"
+      }
+    },
+    {
+      "id": "cap-022",
+      "title": {
+        "la": "[22]"
+      }
+    },
+    {
+      "id": "cap-023",
+      "title": {
+        "la": "[23]"
+      }
+    },
+    {
+      "id": "cap-024",
+      "title": {
+        "la": "[24]"
+      }
+    },
+    {
+      "id": "cap-025",
+      "title": {
+        "la": "[25]"
+      }
+    },
+    {
+      "id": "cap-026",
+      "title": {
+        "la": "[26]"
+      }
+    },
+    {
+      "id": "cap-027",
+      "title": {
+        "la": "[27]"
+      }
+    },
+    {
+      "id": "cap-028",
+      "title": {
+        "la": "[28]"
+      }
+    },
+    {
+      "id": "cap-029",
+      "title": {
+        "la": "[29]"
+      }
+    },
+    {
+      "id": "cap-030",
+      "title": {
+        "la": "[30]"
+      }
+    },
+    {
+      "id": "cap-031",
+      "title": {
+        "la": "[31]"
+      }
+    },
+    {
+      "id": "cap-032",
+      "title": {
+        "la": "[32]"
+      }
+    },
+    {
+      "id": "cap-033",
+      "title": {
+        "la": "[33]"
+      }
+    },
+    {
+      "id": "cap-034",
+      "title": {
+        "la": "[34]"
+      }
+    },
+    {
+      "id": "cap-035",
+      "title": {
+        "la": "[35]"
+      }
+    },
+    {
+      "id": "cap-036",
+      "title": {
+        "la": "[36]"
+      }
+    },
+    {
+      "id": "cap-037",
+      "title": {
+        "la": "[37]"
+      }
+    },
+    {
+      "id": "cap-038",
+      "title": {
+        "la": "[38]"
+      }
+    },
+    {
+      "id": "cap-039",
+      "title": {
+        "la": "[39]"
+      }
+    },
+    {
+      "id": "cap-040",
+      "title": {
+        "la": "[40]"
+      }
+    },
+    {
+      "id": "cap-041",
+      "title": {
+        "la": "[41]"
+      }
+    },
+    {
+      "id": "cap-042",
+      "title": {
+        "la": "[42]"
+      }
+    },
+    {
+      "id": "cap-043",
+      "title": {
+        "la": "[43]"
+      }
+    },
+    {
+      "id": "cap-044",
+      "title": {
+        "la": "[44]"
+      }
+    },
+    {
+      "id": "cap-045",
+      "title": {
+        "la": "[45]"
+      }
+    },
+    {
+      "id": "cap-046",
+      "title": {
+        "la": "[46]"
+      }
+    },
+    {
+      "id": "cap-047",
+      "title": {
+        "la": "[47]"
+      }
+    },
+    {
+      "id": "cap-048",
+      "title": {
+        "la": "[48]"
+      }
+    },
+    {
+      "id": "cap-049",
+      "title": {
+        "la": "[49]"
+      }
+    },
+    {
+      "id": "cap-050",
+      "title": {
+        "la": "[50]"
+      }
+    },
+    {
+      "id": "cap-051",
+      "title": {
+        "la": "[51]"
+      }
+    },
+    {
+      "id": "cap-052",
+      "title": {
+        "la": "[52]"
+      }
+    },
+    {
+      "id": "cap-053",
+      "title": {
+        "la": "[53]"
+      }
+    },
+    {
+      "id": "cap-054",
+      "title": {
+        "la": "[54]"
+      }
+    },
+    {
+      "id": "cap-055",
+      "title": {
+        "la": "[55]"
+      }
+    },
+    {
+      "id": "cap-056",
+      "title": {
+        "la": "[56]"
+      }
+    },
+    {
+      "id": "cap-057",
+      "title": {
+        "la": "[57]"
+      }
+    },
+    {
+      "id": "cap-058",
+      "title": {
+        "la": "[58]"
+      }
+    },
+    {
+      "id": "cap-059",
+      "title": {
+        "la": "[59]"
+      }
+    },
+    {
+      "id": "cap-060",
+      "title": {
+        "la": "[60]"
+      }
+    },
+    {
+      "id": "cap-061",
+      "title": {
+        "la": "[61]"
+      }
+    },
+    {
+      "id": "cap-062",
+      "title": {
+        "la": "[62]"
+      }
+    },
+    {
+      "id": "cap-063",
+      "title": {
+        "la": "[63]"
+      }
+    },
+    {
+      "id": "cap-064",
+      "title": {
+        "la": "[64]"
+      }
+    },
+    {
+      "id": "cap-065",
+      "title": {
+        "la": "[65]"
+      }
+    },
+    {
+      "id": "cap-066",
+      "title": {
+        "la": "[66]"
+      }
+    },
+    {
+      "id": "cap-067",
+      "title": {
+        "la": "[67]"
+      }
+    },
+    {
+      "id": "cap-068",
+      "title": {
+        "la": "[68]"
+      }
+    },
+    {
+      "id": "cap-069",
+      "title": {
+        "la": "[69]"
+      }
+    },
+    {
+      "id": "cap-070",
+      "title": {
+        "la": "[70]"
+      }
+    },
+    {
+      "id": "cap-071",
+      "title": {
+        "la": "[71]"
+      }
+    },
+    {
+      "id": "cap-072",
+      "title": {
+        "la": "[72]"
+      }
+    },
+    {
+      "id": "cap-073",
+      "title": {
+        "la": "[73]"
+      }
+    },
+    {
+      "id": "cap-074",
+      "title": {
+        "la": "[74]"
+      }
+    },
+    {
+      "id": "cap-075",
+      "title": {
+        "la": "[75]"
+      }
+    },
+    {
+      "id": "cap-076",
+      "title": {
+        "la": "[76]"
+      }
+    },
+    {
+      "id": "cap-077",
+      "title": {
+        "la": "[77]"
+      }
+    },
+    {
+      "id": "cap-078",
+      "title": {
+        "la": "[78]"
+      }
+    },
+    {
+      "id": "cap-079",
+      "title": {
+        "la": "[79]"
+      }
+    },
+    {
+      "id": "cap-080",
+      "title": {
+        "la": "[80]"
+      }
+    },
+    {
+      "id": "cap-081",
+      "title": {
+        "la": "[81]"
+      }
+    },
+    {
+      "id": "cap-082",
+      "title": {
+        "la": "[82]"
+      }
+    },
+    {
+      "id": "cap-083",
+      "title": {
+        "la": "[83]"
+      }
+    },
+    {
+      "id": "cap-084",
+      "title": {
+        "la": "[84]"
+      }
+    },
+    {
+      "id": "cap-085",
+      "title": {
+        "la": "[85]"
+      }
+    },
+    {
+      "id": "cap-086",
+      "title": {
+        "la": "[86]"
+      }
+    },
+    {
+      "id": "cap-087",
+      "title": {
+        "la": "[87]"
+      }
+    },
+    {
+      "id": "cap-088",
+      "title": {
+        "la": "[88]"
+      }
+    },
+    {
+      "id": "cap-089",
+      "title": {
+        "la": "[89]"
+      }
+    },
+    {
+      "id": "cap-090",
+      "title": {
+        "la": "[90]"
+      }
+    },
+    {
+      "id": "cap-091",
+      "title": {
+        "la": "[91]"
+      }
+    },
+    {
+      "id": "cap-092",
+      "title": {
+        "la": "[92]"
+      }
+    },
+    {
+      "id": "cap-093",
+      "title": {
+        "la": "[93]"
+      }
+    },
+    {
+      "id": "cap-094",
+      "title": {
+        "la": "[94]"
+      }
+    },
+    {
+      "id": "cap-095",
+      "title": {
+        "la": "[95]"
+      }
+    },
+    {
+      "id": "cap-096",
+      "title": {
+        "la": "[96]"
+      }
+    },
+    {
+      "id": "cap-097",
+      "title": {
+        "la": "[97]"
+      }
+    },
+    {
+      "id": "cap-098",
+      "title": {
+        "la": "[98]"
+      }
+    },
+    {
+      "id": "cap-099",
+      "title": {
+        "la": "[99]"
+      }
+    },
+    {
+      "id": "cap-100",
+      "title": {
+        "la": "[100]"
+      }
+    },
+    {
+      "id": "cap-101",
+      "title": {
+        "la": "[101]"
+      }
+    },
+    {
+      "id": "cap-102",
+      "title": {
+        "la": "[102]"
+      }
+    },
+    {
+      "id": "cap-103",
+      "title": {
+        "la": "[103]"
+      }
+    },
+    {
+      "id": "cap-104",
+      "title": {
+        "la": "[104]"
+      }
+    },
+    {
+      "id": "cap-105",
+      "title": {
+        "la": "[105]"
+      }
+    },
+    {
+      "id": "cap-106",
+      "title": {
+        "la": "[106]"
+      }
+    },
+    {
+      "id": "cap-107",
+      "title": {
+        "la": "[107]"
+      }
+    },
+    {
+      "id": "cap-108",
+      "title": {
+        "la": "[108]"
+      }
+    },
+    {
+      "id": "cap-109",
+      "title": {
+        "la": "[109]"
+      }
+    },
+    {
+      "id": "cap-110",
+      "title": {
+        "la": "[110]"
+      }
+    },
+    {
+      "id": "cap-111",
+      "title": {
+        "la": "[111]"
+      }
+    },
+    {
+      "id": "cap-112",
+      "title": {
+        "la": "[112]"
+      }
+    },
+    {
+      "id": "cap-113",
+      "title": {
+        "la": "[113]"
+      }
+    },
+    {
+      "id": "cap-114",
+      "title": {
+        "la": "[114]"
+      }
+    },
+    {
+      "id": "cap-115",
+      "title": {
+        "la": "[115]"
+      }
+    },
+    {
+      "id": "cap-116",
+      "title": {
+        "la": "[116]"
+      }
+    },
+    {
+      "id": "cap-117",
+      "title": {
+        "la": "[117]"
+      }
+    },
+    {
+      "id": "cap-118",
+      "title": {
+        "la": "[118]"
+      }
+    },
+    {
+      "id": "cap-119",
+      "title": {
+        "la": "[119]"
+      }
+    },
+    {
+      "id": "cap-120",
+      "title": {
+        "la": "[120]"
+      }
+    }
+  ]
+}
