@@ -1,0 +1,5 @@
+# La vendetta della scimmia
+
+Doh! Io ti voglio dire un essemplo che fu nella corte del re di Francia, ovvero del re di Spania. Elli aveva una scimia e uno orso, e tenevasegli per diletto. Avenne che avendo la scimia i figliuoli, l’orso amazzò uno scimiuolo e mangiosselo. La scimia vedendo questo che l’era stato fatto, pareva che gridasse giustizia, e andava quasi a ognuno di quelli della casa: ella si ravolleva ora in qua e in là, d’intorno a chiunque ella vedeva. E vedendo costei che ella non era intesa, uno dí ella si sciolse, e andossene in quello luogo dove stava l’orso; che pareva che ella dicesse: “Poi che altri non fa giustizia del fallo di quest’orso, io ne la farò io stessa.” In quello luogo dove stava l’orso, v’era di molto fieno. Questa scimia pigliava di questo fieno, e si ragunò intorno intorno a quello orso; infine vi misse fuoco e arse l’orso, e fecine la giustizia lei stessa. Vedi che le bestie s’ingegnano che la giustizia sia fatta, e rendere il merito sicondo l’operazione che altri fa.
+
+E qui vedi che la natura tel ditta.

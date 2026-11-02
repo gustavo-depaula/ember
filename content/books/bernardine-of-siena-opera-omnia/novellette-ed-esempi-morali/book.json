@@ -1,0 +1,402 @@
+{
+  "id": "bernardino-novellette",
+  "cover": "classic",
+  "name": {
+    "it": "Novellette ed esempi morali",
+    "en-US": "Short Tales and Moral Examples",
+    "pt-BR": "Novelas breves e exemplos morais"
+  },
+  "author": {
+    "it": "San Bernardino da Siena",
+    "en-US": "St. Bernardine of Siena",
+    "pt-BR": "São Bernardino de Sena"
+  },
+  "description": {
+    "it": "Gli esempi, le novelle e gli apologhi staccati dalle prediche volgari di san Bernardino e ordinati per materia: la pace, il giusto commercio, la maldicenza, il nome di Gesù, i vizi e le virtù, con l'Introduzione del curatore e la Bibliografia. A cura di Nazareno Orlandi (Lanciano: Carabba, 1916, «Scrittori nostri»); ogni novella è un capitolo.",
+    "en-US": "The examples, tales and fables cut from St. Bernardine's vernacular sermons and arranged by subject: peace, honest trade, slander, the Name of Jesus, vices and virtues, with the editor's Introduction and Bibliography. Edited by Nazareno Orlandi (Lanciano: Carabba, 1916); one tale per chapter.",
+    "pt-BR": "Os exemplos, novelas e apólogos extraídos das pregações em vulgar de são Bernardino e ordenados por matéria: a paz, o comércio justo, a maledicência, o Nome de Jesus, os vícios e as virtudes, com a introdução e a bibliografia do curador (Lanciano: Carabba, 1916)."
+  },
+  "composed": "1424-1444",
+  "languages": [
+    "it"
+  ],
+  "work": "bernardine-of-siena/novellette-ed-esempi-morali",
+  "editions": {
+    "it": {
+      "editor": "Nazareno Orlandi",
+      "year": 1916
+    }
+  },
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://it.wikisource.org/wiki/Novellette_ed_esempi_morali_(Bernardino_da_Siena)",
+      "edition": "San Bernardino da Siena, Novellette ed esempi morali, a cura di Nazareno Orlandi, Lanciano: R. Carabba, 1916. Italian Wikisource transcription (complete, proofread).",
+      "description": "Introduction, the tales in the editor's order, Commiato, Pensieri varii and Bibliografia; frontispiece and index not imported. Retrieved through the MediaWiki parse API.",
+      "tier": "A",
+      "tierEvidence": "Bernardine died in 1444; the 1916 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduzione",
+      "title": {
+        "it": "Introduzione del curatore"
+      }
+    },
+    {
+      "id": "il-santo-il-monachetto-e-l-asino",
+      "title": {
+        "it": "Il santo, il monachetto e l'asino"
+      }
+    },
+    {
+      "id": "la-vedova-romana",
+      "title": {
+        "it": "La vedova romana"
+      }
+    },
+    {
+      "id": "la-volpe-e-il-lupo",
+      "title": {
+        "it": "La volpe e il lupo"
+      }
+    },
+    {
+      "id": "l-eremita",
+      "title": {
+        "it": "L'eremita"
+      }
+    },
+    {
+      "id": "il-capitolo-delle-bestie",
+      "title": {
+        "it": "Il capitolo delle bestie"
+      }
+    },
+    {
+      "id": "il-pazzo-e-l-ombra",
+      "title": {
+        "it": "Il pazzo e l'ombra"
+      }
+    },
+    {
+      "id": "il-predicatore-sottile",
+      "title": {
+        "it": "Il predicatore sottile"
+      }
+    },
+    {
+      "id": "la-vecchia-ostinata",
+      "title": {
+        "it": "La vecchia ostinata"
+      }
+    },
+    {
+      "id": "madonna-saragia",
+      "title": {
+        "it": "Madonna Saragia"
+      }
+    },
+    {
+      "id": "la-medicina-di-ghinasso",
+      "title": {
+        "it": "La medicina di Ghinasso"
+      }
+    },
+    {
+      "id": "lo-speziale-capriccioso",
+      "title": {
+        "it": "Lo speziale capriccioso"
+      }
+    },
+    {
+      "id": "il-taverniere-punito",
+      "title": {
+        "it": "Il taverniere punito"
+      }
+    },
+    {
+      "id": "la-cieca-guarita",
+      "title": {
+        "it": "La cieca guarita"
+      }
+    },
+    {
+      "id": "i-danari-dell-ortolano",
+      "title": {
+        "it": "I danari dell'ortolano"
+      }
+    },
+    {
+      "id": "la-vendetta-della-scimmia",
+      "title": {
+        "it": "La vendetta della scimmia"
+      }
+    },
+    {
+      "id": "l-asino-delle-tre-ville",
+      "title": {
+        "it": "L'asino delle tre ville"
+      }
+    },
+    {
+      "id": "la-tentazione-di-s-bernardino",
+      "title": {
+        "it": "La tentazione di S. Bernardino"
+      }
+    },
+    {
+      "id": "una-pace-a-crema",
+      "title": {
+        "it": "Una pace a Crema"
+      }
+    },
+    {
+      "id": "l-ozio-dei-frati",
+      "title": {
+        "it": "L'ozio dei frati"
+      }
+    },
+    {
+      "id": "gli-indiscreti",
+      "title": {
+        "it": "Gli indiscreti"
+      }
+    },
+    {
+      "id": "la-visione-di-frate-ruffino",
+      "title": {
+        "it": "La visione di frate Ruffino"
+      }
+    },
+    {
+      "id": "le-streghe",
+      "title": {
+        "it": "Le streghe"
+      }
+    },
+    {
+      "id": "il-buon-compagno-di-viaggio",
+      "title": {
+        "it": "Il buon compagno di viaggio"
+      }
+    },
+    {
+      "id": "il-sensale",
+      "title": {
+        "it": "Il sensale"
+      }
+    },
+    {
+      "id": "chi-inganna-resta-ingannato",
+      "title": {
+        "it": "Chi inganna resta ingannato"
+      }
+    },
+    {
+      "id": "forbeti-il-naso",
+      "title": {
+        "it": "Forbeti il naso"
+      }
+    },
+    {
+      "id": "lo-spaventapasseri",
+      "title": {
+        "it": "Lo spaventapasseri"
+      }
+    },
+    {
+      "id": "l-occasione",
+      "title": {
+        "it": "L'occasione"
+      }
+    },
+    {
+      "id": "l-infermo",
+      "title": {
+        "it": "L'infermo"
+      }
+    },
+    {
+      "id": "ignoranza",
+      "title": {
+        "it": "Ignoranza"
+      }
+    },
+    {
+      "id": "la-vita-dell-uomo",
+      "title": {
+        "it": "La vita dell'uomo"
+      }
+    },
+    {
+      "id": "del-vendere-onesto",
+      "title": {
+        "it": "Del vendere onesto"
+      }
+    },
+    {
+      "id": "iddio-e-l-uomo-limosiniere",
+      "title": {
+        "it": "Iddio e l'uomo limosiniere"
+      }
+    },
+    {
+      "id": "frate-bastone",
+      "title": {
+        "it": "Frate bastone"
+      }
+    },
+    {
+      "id": "un-re-giusto",
+      "title": {
+        "it": "Un re giusto"
+      }
+    },
+    {
+      "id": "il-fico-infruttifero",
+      "title": {
+        "it": "Il fico infruttifero"
+      }
+    },
+    {
+      "id": "la-buona-corazza",
+      "title": {
+        "it": "La buona corazza"
+      }
+    },
+    {
+      "id": "lo-zelo-di-dio",
+      "title": {
+        "it": "Lo zelo di Dio"
+      }
+    },
+    {
+      "id": "ad-ogni-morbo-la-sua-medicina",
+      "title": {
+        "it": "Ad ogni morbo la sua medicina"
+      }
+    },
+    {
+      "id": "la-via-buona",
+      "title": {
+        "it": "La via buona"
+      }
+    },
+    {
+      "id": "il-mondo-che-inganna",
+      "title": {
+        "it": "Il mondo che inganna"
+      }
+    },
+    {
+      "id": "carita-elemosina-amicizia",
+      "title": {
+        "it": "Carità, elemosina, amicizia"
+      }
+    },
+    {
+      "id": "la-pace",
+      "title": {
+        "it": "La pace"
+      }
+    },
+    {
+      "id": "amore-coniugale",
+      "title": {
+        "it": "Amore coniugale"
+      }
+    },
+    {
+      "id": "dell-ascoltare-la-predica",
+      "title": {
+        "it": "Dell'ascoltare la predica"
+      }
+    },
+    {
+      "id": "i-compagni-di-s-bernardino",
+      "title": {
+        "it": "I compagni di S. Bernardino"
+      }
+    },
+    {
+      "id": "il-nome-di-gesu",
+      "title": {
+        "it": "Il nome di Gesú"
+      }
+    },
+    {
+      "id": "s-francesco-d-assisi",
+      "title": {
+        "it": "S. Francesco d'Assisi"
+      }
+    },
+    {
+      "id": "devozioni-ipocrite",
+      "title": {
+        "it": "Devozioni ipocrite"
+      }
+    },
+    {
+      "id": "gli-eccessi-dell-astinenza",
+      "title": {
+        "it": "Gli eccessi dell'astinenza"
+      }
+    },
+    {
+      "id": "contro-le-vanita-donnesche",
+      "title": {
+        "it": "Contro le vanità donnesche"
+      }
+    },
+    {
+      "id": "il-fanciullo-e-imitatore",
+      "title": {
+        "it": "Il fanciullo è imitatore"
+      }
+    },
+    {
+      "id": "pessima-cosa-la-inimicizia-e-l-odio",
+      "title": {
+        "it": "Pessima cosa la inimicizia e l'odio"
+      }
+    },
+    {
+      "id": "partiti-e-fazioni",
+      "title": {
+        "it": "Partiti e fazioni"
+      }
+    },
+    {
+      "id": "contro-l-avarizia-e-l-usura",
+      "title": {
+        "it": "Contro l'avarizia e l'usura"
+      }
+    },
+    {
+      "id": "la-maldicenza",
+      "title": {
+        "it": "La maldicenza"
+      }
+    },
+    {
+      "id": "commiato",
+      "title": {
+        "it": "Commiato"
+      }
+    },
+    {
+      "id": "pensieri-varii",
+      "title": {
+        "it": "Pensieri varii"
+      }
+    },
+    {
+      "id": "bibliografia",
+      "title": {
+        "it": "Bibliografia"
+      }
+    }
+  ]
+}
