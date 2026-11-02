@@ -1,0 +1,116 @@
+{
+  "id": "fenelon-maximes-des-saints",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Explication des Maximes des saints sur la vie intérieure (1697) — livre condamné",
+    "en-US": "Explanation of the Maxims of the Saints on the Interior Life (1697) — condemned book",
+    "pt-BR": "Explicação das Máximas dos santos sobre a vida interior (1697) — livro condenado"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Le livre de Fénelon sur le pur amour, qui déclencha la querelle du quiétisme avec Bossuet. CONDAMNÉ par Innocent XII dans le bref Cum alias du 12 mars 1699 (23 propositions censurées) ; Fénelon se soumit publiquement par son mandement du 9 avril 1699 (voir le livre « Les pièces de la condamnation »). Document historique, à lire avec cette condamnation : il ne propose pas la doctrine de l’Église. Texte de la première édition (Paris, Aubouin, 1697) d’après l’édition critique d’Albert Cherel (Bloud, 1911), sans l’appareil de variantes.",
+    "en-US": "Fénelon’s book on pure love, which set off the quarrel over quietism with Bossuet. CONDEMNED by Innocent XII in the brief Cum alias of 12 March 1699 (23 propositions censured); Fénelon submitted publicly in his pastoral letter of 9 April 1699 (see the book “The documents of the condemnation”). A historical document, to be read together with that condemnation: it does not set out the Church’s teaching. Text of the first edition (Paris, Aubouin, 1697) after Albert Cherel’s critical edition (Bloud, 1911), without the apparatus of variants.",
+    "pt-BR": "O livro de Fénelon sobre o puro amor, que desencadeou a querela do quietismo com Bossuet. CONDENADO por Inocêncio XII no breve Cum alias de 12 de março de 1699 (23 proposições censuradas); Fénelon submeteu-se publicamente em seu mandamento de 9 de abril de 1699 (veja o livro «As peças da condenação»). Documento histórico, a ser lido junto com essa condenação: não expõe o ensinamento da Igreja. Texto da primeira edição (Paris, Aubouin, 1697) segundo a edição crítica de Albert Cherel (Bloud, 1911), sem o aparato de variantes."
+  },
+  "composed": "1697",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/maximes-des-saints",
+  "editions": {
+    "fr-FR": {
+      "editor": "Albert Cherel (éd. critique), Paris: Bloud",
+      "year": 1911
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/explicationdesm00fn",
+      "edition": "Fénelon, Explication des Maximes des Saints sur la vie intérieure, éd. critique par Albert Cherel, Paris, Bloud, 1911 (texte de l’édition originale Aubouin, 1697).",
+      "description": "archive.org OCR of the 1911 edition: preface, introduction, variants, notes and appendices dropped; page numbers and variant markers removed; the 1697 spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the text is that of 1697, edited in 1911."
+    },
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/explicationdesma00fn",
+      "edition": "Explication des Maximes des Saints, Paris, Aubouin, 1697 (original; consulted for cross-checks).",
+      "description": "Cross-check witness, not imported (poor OCR of long-s type).",
+      "tier": "A",
+      "tierEvidence": "Printed 1697."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-avertissement",
+      "title": {
+        "fr-FR": "Avertissement"
+      }
+    },
+    {
+      "id": "02-articles-d-issy",
+      "title": {
+        "fr-FR": "Les trente-quatre articles d’Issy (1695)"
+      }
+    },
+    {
+      "id": "03-cinq-etats-d-amour",
+      "title": {
+        "fr-FR": "Exposition de cinq divers états d’amour de Dieu"
+      }
+    },
+    {
+      "id": "04-articles-01",
+      "title": {
+        "fr-FR": "Les articles, partie 1"
+      }
+    },
+    {
+      "id": "04-articles-02",
+      "title": {
+        "fr-FR": "Les articles, partie 2"
+      }
+    },
+    {
+      "id": "04-articles-03",
+      "title": {
+        "fr-FR": "Les articles, partie 3"
+      }
+    },
+    {
+      "id": "04-articles-04",
+      "title": {
+        "fr-FR": "Les articles, partie 4"
+      }
+    },
+    {
+      "id": "04-articles-05",
+      "title": {
+        "fr-FR": "Les articles, partie 5"
+      }
+    },
+    {
+      "id": "04-articles-06",
+      "title": {
+        "fr-FR": "Les articles, partie 6"
+      }
+    },
+    {
+      "id": "04-articles-07",
+      "title": {
+        "fr-FR": "Les articles, partie 7"
+      }
+    },
+    {
+      "id": "05-conclusion",
+      "title": {
+        "fr-FR": "Conclusion de tous ces articles"
+      }
+    }
+  ]
+}
