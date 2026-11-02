@@ -1,0 +1,309 @@
+{
+  "id": "benson-by-what-authority",
+  "cover": "classic",
+  "name": {
+    "en-US": "By What Authority?",
+    "pt-BR": "Com Que Autoridade?"
+  },
+  "author": {
+    "en-US": "Mgr. Robert Hugh Benson",
+    "pt-BR": "Mons. Robert Hugh Benson"
+  },
+  "description": {
+    "en-US": "Benson's first Catholic novel (1904), set in Elizabethan England: Isabel Norris and her family, Anglican gentry, are drawn through the persecution of Catholics to ask on what authority the Church of England stands, and to the Mass.",
+    "pt-BR": "O primeiro romance católico de Benson (1904), na Inglaterra isabelina: Isabel Norris e sua família, fidalguia anglicana, são levadas, através da perseguição aos católicos, a perguntar em que autoridade se funda a Igreja da Inglaterra, e até à Missa."
+  },
+  "composed": 1904,
+  "languages": [
+    "en-US"
+  ],
+  "work": "benson/by-what-authority",
+  "editions": {
+    "en-US": {
+      "editor": "Robert Hugh Benson (London: Isbister, 1904)",
+      "year": 1904
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/19697",
+      "edition": "By What Authority? (London: Isbister, 1904), Project Gutenberg #19697, proofread.",
+      "description": "Parts and chapters as printed; the numbered sections inside chapters are kept as ## headings. Gutenberg licence and transcriber notes are dropped. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Mgr. Robert Hugh Benson died in 1914 and the edition is of 1904, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "part-1",
+      "title": {
+        "en-US": "Part I"
+      },
+      "children": [
+        {
+          "id": "chapter-01",
+          "title": {
+            "en-US": "Chapter I. The Situation"
+          }
+        },
+        {
+          "id": "chapter-02",
+          "title": {
+            "en-US": "Chapter II. The Hall and the House"
+          }
+        },
+        {
+          "id": "chapter-03",
+          "title": {
+            "en-US": "Chapter III. London Town"
+          }
+        },
+        {
+          "id": "chapter-04",
+          "title": {
+            "en-US": "Chapter IV. Mary Corbet"
+          }
+        },
+        {
+          "id": "chapter-05",
+          "title": {
+            "en-US": "Chapter V. A Rider from London"
+          }
+        },
+        {
+          "id": "chapter-06",
+          "title": {
+            "en-US": "Chapter VI. Mr. Stewart"
+          }
+        },
+        {
+          "id": "chapter-07",
+          "title": {
+            "en-US": "Chapter VII. The Door in the Garden-wall"
+          }
+        },
+        {
+          "id": "chapter-08",
+          "title": {
+            "en-US": "Chapter VIII. The Taking of Mr. Stewart"
+          }
+        },
+        {
+          "id": "chapter-09",
+          "title": {
+            "en-US": "Chapter IX. Village Justice"
+          }
+        },
+        {
+          "id": "chapter-10",
+          "title": {
+            "en-US": "Chapter X. A Confessor"
+          }
+        },
+        {
+          "id": "chapter-11",
+          "title": {
+            "en-US": "Chapter XI. Master Calvin"
+          }
+        },
+        {
+          "id": "chapter-12",
+          "title": {
+            "en-US": "Chapter XII. A Winding-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "Part II"
+      },
+      "children": [
+        {
+          "id": "chapter-13",
+          "title": {
+            "en-US": "Chapter I. Anthony in London"
+          }
+        },
+        {
+          "id": "chapter-14",
+          "title": {
+            "en-US": "Chapter II. Some New Lessons"
+          }
+        },
+        {
+          "id": "chapter-15",
+          "title": {
+            "en-US": "Chapter III. Hubert's Return"
+          }
+        },
+        {
+          "id": "chapter-16",
+          "title": {
+            "en-US": "Chapter IV. A Counter-march"
+          }
+        },
+        {
+          "id": "chapter-17",
+          "title": {
+            "en-US": "Chapter V. The Coming of the Jesuits"
+          }
+        },
+        {
+          "id": "chapter-18",
+          "title": {
+            "en-US": "Chapter VI. Some Contrasts"
+          }
+        },
+        {
+          "id": "chapter-19",
+          "title": {
+            "en-US": "Chapter VII. A Message from the City"
+          }
+        },
+        {
+          "id": "chapter-20",
+          "title": {
+            "en-US": "Chapter VIII. The Massing-house"
+          }
+        },
+        {
+          "id": "chapter-21",
+          "title": {
+            "en-US": "Chapter IX. From Fulham to Greenwich"
+          }
+        },
+        {
+          "id": "chapter-22",
+          "title": {
+            "en-US": "Chapter X. The Appeal to Cæsar"
+          }
+        },
+        {
+          "id": "chapter-23",
+          "title": {
+            "en-US": "Chapter XI. A Station of the Cross"
+          }
+        },
+        {
+          "id": "chapter-24",
+          "title": {
+            "en-US": "Chapter XII. A Strife of Tongues"
+          }
+        },
+        {
+          "id": "chapter-25",
+          "title": {
+            "en-US": "Chapter XIII. The Spiritual Exercises"
+          }
+        },
+        {
+          "id": "chapter-26",
+          "title": {
+            "en-US": "Chapter XIV. Easter Day"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "title": {
+        "en-US": "Part III"
+      },
+      "children": [
+        {
+          "id": "chapter-27",
+          "title": {
+            "en-US": "Chapter I. The Coming of Spain"
+          }
+        },
+        {
+          "id": "chapter-28",
+          "title": {
+            "en-US": "Chapter II. Men of War and Peace"
+          }
+        },
+        {
+          "id": "chapter-29",
+          "title": {
+            "en-US": "Chapter III. Home-coming"
+          }
+        },
+        {
+          "id": "chapter-30",
+          "title": {
+            "en-US": "Chapter IV. Stanfield Place"
+          }
+        },
+        {
+          "id": "chapter-31",
+          "title": {
+            "en-US": "Chapter V. Joseph Lackington"
+          }
+        },
+        {
+          "id": "chapter-32",
+          "title": {
+            "en-US": "Chapter VI. A Departure"
+          }
+        },
+        {
+          "id": "chapter-33",
+          "title": {
+            "en-US": "Chapter VII. Northern Religion"
+          }
+        },
+        {
+          "id": "chapter-34",
+          "title": {
+            "en-US": "Chapter VIII. In Stanstead Woods"
+          }
+        },
+        {
+          "id": "chapter-35",
+          "title": {
+            "en-US": "Chapter IX. The Alarm"
+          }
+        },
+        {
+          "id": "chapter-36",
+          "title": {
+            "en-US": "Chapter X. The Passage to the Garden-house"
+          }
+        },
+        {
+          "id": "chapter-37",
+          "title": {
+            "en-US": "Chapter XI. The Garden-house"
+          }
+        },
+        {
+          "id": "chapter-38",
+          "title": {
+            "en-US": "Chapter XII. The Night-ride"
+          }
+        },
+        {
+          "id": "chapter-39",
+          "title": {
+            "en-US": "Chapter XIII. In Prison"
+          }
+        },
+        {
+          "id": "chapter-40",
+          "title": {
+            "en-US": "Chapter XIV. An Open Door"
+          }
+        },
+        {
+          "id": "chapter-41",
+          "title": {
+            "en-US": "Chapter XV. The Rolling of the Stone"
+          }
+        }
+      ]
+    }
+  ]
+}

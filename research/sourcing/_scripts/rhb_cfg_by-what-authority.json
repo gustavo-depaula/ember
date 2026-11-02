@@ -1,0 +1,23 @@
+{
+ "id": "benson-by-what-authority",
+ "dir": "benson-opera-omnia/by-what-authority",
+ "slug": "by-what-authority",
+ "name": "By What Authority?",
+ "name_pt": "Com Que Autoridade?",
+ "desc": "Benson's first Catholic novel (1904), set in Elizabethan England: Isabel Norris and her family, Anglican gentry, are drawn through the persecution of Catholics to ask on what authority the Church of England stands, and to the Mass.",
+ "desc_pt": "O primeiro romance católico de Benson (1904), na Inglaterra isabelina: Isabel Norris e sua família, fidalguia anglicana, são levadas, através da perseguição aos católicos, a perguntar em que autoridade se funda a Igreja da Inglaterra, e até à Missa.",
+ "composed": 1904,
+ "editor": "Robert Hugh Benson (London: Isbister, 1904)",
+ "year": 1904,
+ "url": "https://www.gutenberg.org/ebooks/19697",
+ "edition": "By What Authority? (London: Isbister, 1904), Project Gutenberg #19697, proofread.",
+ "src": "robert-hugh-benson/pg/pg19697.txt",
+ "chap_re": "^(?:CHAPTER (?P<n>[IVXL]+)|EPILOGUE)\\.?$",
+ "sec_re": "^[IVXL]+\\.?$",
+ "end": "^\\*\\*\\* END OF",
+ "srcnote": "Parts and chapters as printed; the numbered sections inside chapters are kept as ## headings.",
+ "start": "^BY WHAT AUTHORITY\\?$",
+ "after": 150,
+ "part_re": "^PART [IVX]+$",
+ "title_next": true
+}
