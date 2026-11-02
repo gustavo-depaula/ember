@@ -1,0 +1,39 @@
+# Lettre DCCLX. À Monseigneur Anastase Germonio Archevêque de Tarentaise
+
+*(EN ITALIEN)*
+
+La controverse sur le pouvoir temporel des Papes et l'autorité des Conciles. - De quel côté penchent les parlementaires et les hommes d:Etat. - Esprit et tendance du siècle. - Un remède plus efficace que les discussions des théologiens. - Ce que doivent faire les prédicateurs. - L'entente des Prélats, de la Sorbonne et des Religieux, bientôt mortelle à l'hérésie.- Moyens de ménager cette union.
+
+Chambéry, vers le 20 mars 1612 .
+
+Par des avis particuliers reçus de Paris et de Dijon et par des opuscules imprimés dans ces deux villes , on voit clairement que la discussion touchant l'autorité du Très Saint Père sur les rois s'étend de plus en plus ; de même en est-il de celle qui a pour objet de comparer les Conciles avec les Souverains Pontifes. Il est clair que la majeure partie des Parlements et des hommes d'Etat, même catholiques, penchent du côté le moins favorable, ou, pour mieux dire, le plus contraire à l'autorité papale, cette opinion leur paraissant mieux s'accorder avec l'autorité royale et la servir plus utilement. Si cet état de choses persévère, il est à craindre qu'il n'en résulte pour ce royaume un dommage considérable et une déplorable division; d'autant plus que le roi devant prendre dans trois ou quatre ans l'administration de l'Etat, il sera facile au parti hostile à l'autorité du Saint-Siège de tourner ce prince du côté où celui-ci verra quelque apparence d'étendre ses droits, tant est grande l'inclination des hommes à dominer sans aucune dépendance. C'est ce qu'on remarque surtout à notre époque ; à plus forte raison chez la jeunesse, qui de sa nature est téméraire et hardie. On peut croire cependant, que le roi a des dispositions excellentes et très chrétiennes. Cette tendance à secouer tout joug est encore un mal des plus contagieux ; aussi s'insinuerait-il petit à petit de royaume en royaume, d'une couronne à une autre couronne, comme il est arrivé pour d'autres maux semblables. Le danger semble donc bien grand.
+
+Faire discuter la question par d'habiles théologiens, ne paraît pas être le bon remède, car plus les débats seront brûlants, plus aussi les esprits s'échaufferont et la discorde ne fera qu'augmenter. Il faut ajouter que les raisons des adversaires flattent l'oreille des grands, non pour leur justesse, mais parce qu'elles favorisent leurs vues ; il ne manquera pas non plus de théologiens qui, pour diverses considérations, embrasseront le parti de la division.
+
+Le remède le plus efficace serait donc que pendant la régence, l'on traitât à l'amiable avec la reine et le Conseil, de la part de Sa Sainteté. Se plaindre d'abord de ce que, tandis qu'aucun différend ne s'est élevé entre Sa Béatitude et le roi, tandis que le Pape a témoigné en toute occasion un cœur vraiment paternel, très affectionné et très sympathique au bien et à. l'affermissement de la prospérité de cet Etat, on voit maintenant surgir certains esprits piquants, inquiets et ennemis de la sainte union qui existe entre Sa Sainteté et Sa Majesté; ils viennent impudemment mettre en doute l'affection du Saint-Père pour cette couronne, soulèvent ces disputes oisives et inopportunes, et engendrent par ce moyen dans les esprits malades et faibles, une sorte de défiance pour l'attachement sincère de Sa Béatitude à l'égard du roi et du royaume. Que Sa Majesté veuille donc imposer silence à ces téméraires et séditieuses contestations. De son côté, le Saint-Père imposera, s'il en est besoin, silence à ces disputes aussi importunes qu'infructueuses. Inutiles pour les catholiques, ces divisions sont encore funestes aux hérétiques ; elles détournent et retardent leur conversion, et de plus, leur fournissent la matière d'un triomphe.
+
+En un mot, il serait nécessaire, pour le moment, d'arrêter et d'étouffer ces discussions dans le silence, d'un côté comme de l'autre. Sans doute, il faut louer le zèle des prédicateurs qui se sont opposés à l'insolence des adversaires ; mais puisqu'on voit que par la continuation des plaidoyers, des controverses, des altercations, le feu s'allume au lieu de s'éteindre, le silence sera bien plus avantageux que la discussion elle-même. Il eût été préférable aussi de ne pas en venir aux hypothèses, mais d'inculquer fortement les thèses où les hypothèses sont renfermées implicitement. Dans cette guerre, une pieuse adresse. la prudence et la douceur sont certainement plus fructueuses que le feu de la doctrine et l'ardeur du zèle.
+
+" Telle chose qu'on méprise tombe dans l'oubli ;
+
+Si l'on s'en irrite, elle acquiert de l'importance. " (Tacite, Annales 4,34)
+
+Pourvu que les thèses soient bien établies, la meilleure réponse qui se puisse faire aux importunités de ces esprits turbulents, est de ne pas les juger dignes de réponse. Aussi faudrait-il que maintenant en France, tous les prédicateurs prissent à tâche d'inculquer suavement, et non violemment, l'unité de l'Eglise et le dévouement des catholiques pour le Pasteur suprême, sans entrer dans la discussion de son autorité particulière sur les princes.
+
+Quant à ceux qui parlent en mauvaise part de l'autorité pontificale, on ne devrait pas leur répondre directement, mais indirectement ; se plaindre de ce qu'ils font cela sans nécessité et avec la maligne intention de rendre odieux le Saint-Siège, lequel néanmoins n'a pour ce royaume que les sentiments d'une mère très douce et très aimante. Au lieu de répondre à leurs propositions, il vaudrait donc mieux attaquer leurs intentions, afin de les rendre odieux eux-mêmes, comme perturbateurs de la paix ; et parmi de tels discours, insinuer doucement ces deux points : l'unité ecclésiastique et chrétienne, et l'amour ou le dévouement pour le Saint-Siège, lien de cette union et communion ecclésiastique.
+
+Il serait bon aussi de ménager, par l'entremise de Prélats dévoués et prudents, l'union et la bonne intelligence entre la Sorbonne et les Pères Jésuites, afin que, réunissant deux bœufs sous un même joug, on pût travailler dans le champ sacré d'une manière plus efficace. Ce but, on pourrait l'atteindre si l'on en traitait adroitement et prudemment avec la reine, lui montrant que, par ce moyen, l'hérésie serait considérablement affaiblie. Ceci est très vrai, car si en France, les Prélats, la Sorbonne et les Religieux étaient bien unis, c'en serait fait de l'hérésie en dix ans. Cette union n'est pas si difficile à ménager, pourvu qu'on en fasse bien saisir l'importance à la reine, qu'on ait des hommes capables d'aider adroitement Mgr le Nonce et de se familiariser les uns avec les autres. Ce qui pourrait aussi faciliter le succès, serait de recommander l'affaire aux Provinciaux et aux Généraux d'Ordres, d'adresser des Brefs pleins de bienveillance aux Universités, en particulier à la Sorbonne, et aussi aux Prélats, témoignant en tous avec quelle affection paternelle Sa Sainteté souhaite la conservation de ce royaume, et combien elle désire que tous dressent les peuples à la vraie et sincère obéissance et soumission que les sujets doivent à cette couronne,
+
+Mais avant d'en arriver là, on devrait d'abord en avoir traité avec la reine et le Conseil ; il serait aussi très utile que Sa Sainteté en conférât à Rome avec l'ambassadeur et les Cardinaux français , témoignant un ardent désir de voir finir ces scandaleuses discussions.
+
+" Le remède vient trop tard, lorsque, par de longues négligences,
+
+le mal a fait des progrès. " (Ovide Remedia amoris 89)
+
+J'ai écrit tout ceci pour agréer à Votre Seigneurie Illustrissime et Révérendissime, dont je baise les mains, priant Dieu notre Seigneur d'accorder à votre zèle sincère pour le service de l'Eglise, la récompense qui lui est due sur la terre et au Ciel.
+
+A mon très honoré, Illustrissime et Révérendissime Seigneur,
+
+Mgr l'Archevêque de Tarentaise .
+
+Revu sur l'Autographe conservé à Rome, à la bibliothèque Barberini.
