@@ -18,13 +18,18 @@
   },
   "composed": "389",
   "languages": [
-    "la"
+    "la",
+    "en-US"
   ],
   "work": "augustine/de-magistro",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "en-US": {
+      "translator": "Francis E. Tourscher, O.S.A.",
+      "year": 1924
     }
   },
   "sources": [
@@ -35,17 +40,27 @@
       "description": "Latin pages maestro of augustinus.it, one page per book, long pages split at chapter boundaries. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
       "tier": "A",
       "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/philosophyofteac00augu",
+      "edition": "F. E. Tourscher, The Philosophy of Teaching: a study in the symbolism of language, a translation of Saint Augustine's De Magistro (Villanova College, Pennsylvania, 1924)",
+      "description": "OCR of the archive.org scan. Running heads removed and speaker labels normalised; the translator's footnotes remain run into the text; the introduction and appendix are not included.",
+      "tier": "A",
+      "tierEvidence": "Translator Tourscher died 1939; 1924 US publication."
     }
   ],
   "toc": [
     {
       "id": "ch001",
       "title": {
-        "la": "De magistro"
+        "la": "De magistro",
+        "en-US": "The Philosophy of Teaching"
       }
     }
   ],
   "arrived": {
-    "la": "2026-11-02"
+    "la": "2026-11-02",
+    "en-US": "2026-11-02"
   }
 }
