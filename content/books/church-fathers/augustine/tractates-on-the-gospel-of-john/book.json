@@ -2,15 +2,26 @@
   "id": "augustine-tractates-on-the-gospel-of-john",
   "cover": "quarter",
   "name": {
+    "la": "In Iohannis evangelium tractatus CXXIV",
     "en-US": "Tractates on the Gospel of John"
   },
   "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
     "en-US": "Augustine of Hippo"
   },
   "languages": [
+    "la",
     "en-US"
   ],
   "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/commento_vsg/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages commento_vsg of augustinus.it, one page per book/letter/sermon, split to the same chapter files as the English. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    },
     {
       "language": "en-US",
       "url": "http://www.newadvent.org/fathers/1701.htm",
@@ -21,750 +32,888 @@
     {
       "id": "ch001",
       "title": {
+        "la": "Tractatus 1",
         "en-US": "Tractate 1"
       }
     },
     {
       "id": "ch002",
       "title": {
+        "la": "Tractatus 2",
         "en-US": "Tractate 2"
       }
     },
     {
       "id": "ch003",
       "title": {
+        "la": "Tractatus 3",
         "en-US": "Tractate 3"
       }
     },
     {
       "id": "ch004",
       "title": {
+        "la": "Tractatus 4",
         "en-US": "Tractate 4"
       }
     },
     {
       "id": "ch005",
       "title": {
+        "la": "Tractatus 5",
         "en-US": "Tractate 5"
       }
     },
     {
       "id": "ch006",
       "title": {
+        "la": "Tractatus 6",
         "en-US": "Tractate 6"
       }
     },
     {
       "id": "ch007",
       "title": {
+        "la": "Tractatus 7",
         "en-US": "Tractate 7"
       }
     },
     {
       "id": "ch008",
       "title": {
+        "la": "Tractatus 8",
         "en-US": "Tractate 8"
       }
     },
     {
       "id": "ch009",
       "title": {
+        "la": "Tractatus 9",
         "en-US": "Tractate 9"
       }
     },
     {
       "id": "ch010",
       "title": {
+        "la": "Tractatus 10",
         "en-US": "Tractate 10"
       }
     },
     {
       "id": "ch011",
       "title": {
+        "la": "Tractatus 11",
         "en-US": "Tractate 11"
       }
     },
     {
       "id": "ch012",
       "title": {
+        "la": "Tractatus 12",
         "en-US": "Tractate 12"
       }
     },
     {
       "id": "ch013",
       "title": {
+        "la": "Tractatus 13",
         "en-US": "Tractate 13"
       }
     },
     {
       "id": "ch014",
       "title": {
+        "la": "Tractatus 14",
         "en-US": "Tractate 14"
       }
     },
     {
       "id": "ch015",
       "title": {
+        "la": "Tractatus 15",
         "en-US": "Tractate 15"
       }
     },
     {
       "id": "ch016",
       "title": {
+        "la": "Tractatus 16",
         "en-US": "Tractate 16"
       }
     },
     {
       "id": "ch017",
       "title": {
+        "la": "Tractatus 17",
         "en-US": "Tractate 17"
       }
     },
     {
       "id": "ch018",
       "title": {
+        "la": "Tractatus 18",
         "en-US": "Tractate 18"
       }
     },
     {
       "id": "ch019",
       "title": {
+        "la": "Tractatus 19",
         "en-US": "Tractate 19"
       }
     },
     {
       "id": "ch020",
       "title": {
+        "la": "Tractatus 20",
         "en-US": "Tractate 20"
       }
     },
     {
       "id": "ch021",
       "title": {
+        "la": "Tractatus 21",
         "en-US": "Tractate 21"
       }
     },
     {
       "id": "ch022",
       "title": {
+        "la": "Tractatus 22",
         "en-US": "Tractate 22"
       }
     },
     {
       "id": "ch023",
       "title": {
+        "la": "Tractatus 23",
         "en-US": "Tractate 23"
       }
     },
     {
       "id": "ch024",
       "title": {
+        "la": "Tractatus 24",
         "en-US": "Tractate 24"
       }
     },
     {
       "id": "ch025",
       "title": {
+        "la": "Tractatus 25",
         "en-US": "Tractate 25"
       }
     },
     {
       "id": "ch026",
       "title": {
+        "la": "Tractatus 26",
         "en-US": "Tractate 26"
       }
     },
     {
       "id": "ch027",
       "title": {
+        "la": "Tractatus 27",
         "en-US": "Tractate 27"
       }
     },
     {
       "id": "ch028",
       "title": {
+        "la": "Tractatus 28",
         "en-US": "Tractate 28"
       }
     },
     {
       "id": "ch029",
       "title": {
+        "la": "Tractatus 29",
         "en-US": "Tractate 29"
       }
     },
     {
       "id": "ch030",
       "title": {
+        "la": "Tractatus 30",
         "en-US": "Tractate 30"
       }
     },
     {
       "id": "ch031",
       "title": {
+        "la": "Tractatus 31",
         "en-US": "Tractate 31"
       }
     },
     {
       "id": "ch032",
       "title": {
+        "la": "Tractatus 32",
         "en-US": "Tractate 32"
       }
     },
     {
       "id": "ch033",
       "title": {
+        "la": "Tractatus 33",
         "en-US": "Tractate 33"
       }
     },
     {
       "id": "ch034",
       "title": {
+        "la": "Tractatus 34",
         "en-US": "Tractate 34"
       }
     },
     {
       "id": "ch035",
       "title": {
+        "la": "Tractatus 35",
         "en-US": "Tractate 35"
       }
     },
     {
       "id": "ch036",
       "title": {
+        "la": "Tractatus 36",
         "en-US": "Tractate 36"
       }
     },
     {
       "id": "ch037",
       "title": {
+        "la": "Tractatus 37",
         "en-US": "Tractate 37"
       }
     },
     {
       "id": "ch038",
       "title": {
+        "la": "Tractatus 38",
         "en-US": "Tractate 38"
       }
     },
     {
       "id": "ch039",
       "title": {
+        "la": "Tractatus 39",
         "en-US": "Tractate 39"
       }
     },
     {
       "id": "ch040",
       "title": {
+        "la": "Tractatus 40",
         "en-US": "Tractate 40"
       }
     },
     {
       "id": "ch041",
       "title": {
+        "la": "Tractatus 41",
         "en-US": "Tractate 41"
       }
     },
     {
       "id": "ch042",
       "title": {
+        "la": "Tractatus 42",
         "en-US": "Tractate 42"
       }
     },
     {
       "id": "ch043",
       "title": {
+        "la": "Tractatus 43",
         "en-US": "Tractate 43"
       }
     },
     {
       "id": "ch044",
       "title": {
+        "la": "Tractatus 44",
         "en-US": "Tractate 44"
       }
     },
     {
       "id": "ch045",
       "title": {
+        "la": "Tractatus 45",
         "en-US": "Tractate 45"
       }
     },
     {
       "id": "ch046",
       "title": {
+        "la": "Tractatus 46",
         "en-US": "Tractate 46"
       }
     },
     {
       "id": "ch047",
       "title": {
+        "la": "Tractatus 47",
         "en-US": "Tractate 47"
       }
     },
     {
       "id": "ch048",
       "title": {
+        "la": "Tractatus 48",
         "en-US": "Tractate 48"
       }
     },
     {
       "id": "ch049",
       "title": {
+        "la": "Tractatus 49",
         "en-US": "Tractate 49"
       }
     },
     {
       "id": "ch050",
       "title": {
+        "la": "Tractatus 50",
         "en-US": "Tractate 50"
       }
     },
     {
       "id": "ch051",
       "title": {
+        "la": "Tractatus 51",
         "en-US": "Tractate 51"
       }
     },
     {
       "id": "ch052",
       "title": {
+        "la": "Tractatus 52",
         "en-US": "Tractate 52"
       }
     },
     {
       "id": "ch053",
       "title": {
+        "la": "Tractatus 53",
         "en-US": "Tractate 53"
       }
     },
     {
       "id": "ch054",
       "title": {
+        "la": "Tractatus 54",
         "en-US": "Tractate 54"
       }
     },
     {
       "id": "ch055",
       "title": {
+        "la": "Tractatus 55",
         "en-US": "Tractate 55"
       }
     },
     {
       "id": "ch056",
       "title": {
+        "la": "Tractatus 56",
         "en-US": "Tractate 56"
       }
     },
     {
       "id": "ch057",
       "title": {
+        "la": "Tractatus 57",
         "en-US": "Tractate 57"
       }
     },
     {
       "id": "ch058",
       "title": {
+        "la": "Tractatus 58",
         "en-US": "Tractate 58"
       }
     },
     {
       "id": "ch059",
       "title": {
+        "la": "Tractatus 59",
         "en-US": "Tractate 59"
       }
     },
     {
       "id": "ch060",
       "title": {
+        "la": "Tractatus 60",
         "en-US": "Tractate 60"
       }
     },
     {
       "id": "ch061",
       "title": {
+        "la": "Tractatus 61",
         "en-US": "Tractate 61"
       }
     },
     {
       "id": "ch062",
       "title": {
+        "la": "Tractatus 62",
         "en-US": "Tractate 62"
       }
     },
     {
       "id": "ch063",
       "title": {
+        "la": "Tractatus 63",
         "en-US": "Tractate 63"
       }
     },
     {
       "id": "ch064",
       "title": {
+        "la": "Tractatus 64",
         "en-US": "Tractate 64"
       }
     },
     {
       "id": "ch065",
       "title": {
+        "la": "Tractatus 65",
         "en-US": "Tractate 65"
       }
     },
     {
       "id": "ch066",
       "title": {
+        "la": "Tractatus 66",
         "en-US": "Tractate 66"
       }
     },
     {
       "id": "ch067",
       "title": {
+        "la": "Tractatus 67",
         "en-US": "Tractate 67"
       }
     },
     {
       "id": "ch068",
       "title": {
+        "la": "Tractatus 68",
         "en-US": "Tractate 68"
       }
     },
     {
       "id": "ch069",
       "title": {
+        "la": "Tractatus 69",
         "en-US": "Tractate 69"
       }
     },
     {
       "id": "ch070",
       "title": {
+        "la": "Tractatus 70",
         "en-US": "Tractate 70"
       }
     },
     {
       "id": "ch071",
       "title": {
+        "la": "Tractatus 71",
         "en-US": "Tractate 71"
       }
     },
     {
       "id": "ch072",
       "title": {
+        "la": "Tractatus 72",
         "en-US": "Tractate 72"
       }
     },
     {
       "id": "ch073",
       "title": {
+        "la": "Tractatus 73",
         "en-US": "Tractate 73"
       }
     },
     {
       "id": "ch074",
       "title": {
+        "la": "Tractatus 74",
         "en-US": "Tractate 74"
       }
     },
     {
       "id": "ch075",
       "title": {
+        "la": "Tractatus 75",
         "en-US": "Tractate 75"
       }
     },
     {
       "id": "ch076",
       "title": {
+        "la": "Tractatus 76",
         "en-US": "Tractate 76"
       }
     },
     {
       "id": "ch077",
       "title": {
+        "la": "Tractatus 77",
         "en-US": "Tractate 77"
       }
     },
     {
       "id": "ch078",
       "title": {
+        "la": "Tractatus 78",
         "en-US": "Tractate 78"
       }
     },
     {
       "id": "ch079",
       "title": {
+        "la": "Tractatus 79",
         "en-US": "Tractate 79"
       }
     },
     {
       "id": "ch080",
       "title": {
+        "la": "Tractatus 80",
         "en-US": "Tractate 80"
       }
     },
     {
       "id": "ch081",
       "title": {
+        "la": "Tractatus 81",
         "en-US": "Tractate 81"
       }
     },
     {
       "id": "ch082",
       "title": {
+        "la": "Tractatus 82",
         "en-US": "Tractate 82"
       }
     },
     {
       "id": "ch083",
       "title": {
+        "la": "Tractatus 83",
         "en-US": "Tractate 83"
       }
     },
     {
       "id": "ch084",
       "title": {
+        "la": "Tractatus 84",
         "en-US": "Tractate 84"
       }
     },
     {
       "id": "ch085",
       "title": {
+        "la": "Tractatus 85",
         "en-US": "Tractate 85"
       }
     },
     {
       "id": "ch086",
       "title": {
+        "la": "Tractatus 86",
         "en-US": "Tractate 86"
       }
     },
     {
       "id": "ch087",
       "title": {
+        "la": "Tractatus 87",
         "en-US": "Tractate 87"
       }
     },
     {
       "id": "ch088",
       "title": {
+        "la": "Tractatus 88",
         "en-US": "Tractate 88"
       }
     },
     {
       "id": "ch089",
       "title": {
+        "la": "Tractatus 89",
         "en-US": "Tractate 89"
       }
     },
     {
       "id": "ch090",
       "title": {
+        "la": "Tractatus 90",
         "en-US": "Tractate 90"
       }
     },
     {
       "id": "ch091",
       "title": {
+        "la": "Tractatus 91",
         "en-US": "Tractate 91"
       }
     },
     {
       "id": "ch092",
       "title": {
+        "la": "Tractatus 92",
         "en-US": "Tractate 92"
       }
     },
     {
       "id": "ch093",
       "title": {
+        "la": "Tractatus 93",
         "en-US": "Tractate 93"
       }
     },
     {
       "id": "ch094",
       "title": {
+        "la": "Tractatus 94",
         "en-US": "Tractate 94"
       }
     },
     {
       "id": "ch095",
       "title": {
+        "la": "Tractatus 95",
         "en-US": "Tractate 95"
       }
     },
     {
       "id": "ch096",
       "title": {
+        "la": "Tractatus 96",
         "en-US": "Tractate 96"
       }
     },
     {
       "id": "ch097",
       "title": {
+        "la": "Tractatus 97",
         "en-US": "Tractate 97"
       }
     },
     {
       "id": "ch098",
       "title": {
+        "la": "Tractatus 98",
         "en-US": "Tractate 98"
       }
     },
     {
       "id": "ch099",
       "title": {
+        "la": "Tractatus 99",
         "en-US": "Tractate 99"
       }
     },
     {
       "id": "ch100",
       "title": {
+        "la": "Tractatus 100",
         "en-US": "Tractate 100"
       }
     },
     {
       "id": "ch101",
       "title": {
+        "la": "Tractatus 101",
         "en-US": "Tractate 101"
       }
     },
     {
       "id": "ch102",
       "title": {
+        "la": "Tractatus 102",
         "en-US": "Tractate 102"
       }
     },
     {
       "id": "ch103",
       "title": {
+        "la": "Tractatus 103",
         "en-US": "Tractate 103"
       }
     },
     {
       "id": "ch104",
       "title": {
+        "la": "Tractatus 104",
         "en-US": "Tractate 104"
       }
     },
     {
       "id": "ch105",
       "title": {
+        "la": "Tractatus 105",
         "en-US": "Tractate 105"
       }
     },
     {
       "id": "ch106",
       "title": {
+        "la": "Tractatus 106",
         "en-US": "Tractate 106"
       }
     },
     {
       "id": "ch107",
       "title": {
+        "la": "Tractatus 107",
         "en-US": "Tractate 107"
       }
     },
     {
       "id": "ch108",
       "title": {
+        "la": "Tractatus 108",
         "en-US": "Tractate 108"
       }
     },
     {
       "id": "ch109",
       "title": {
+        "la": "Tractatus 109",
         "en-US": "Tractate 109"
       }
     },
     {
       "id": "ch110",
       "title": {
+        "la": "Tractatus 110",
         "en-US": "Tractate 110"
       }
     },
     {
       "id": "ch111",
       "title": {
+        "la": "Tractatus 111",
         "en-US": "Tractate 111"
       }
     },
     {
       "id": "ch112",
       "title": {
+        "la": "Tractatus 112",
         "en-US": "Tractate 112"
       }
     },
     {
       "id": "ch113",
       "title": {
+        "la": "Tractatus 113",
         "en-US": "Tractate 113"
       }
     },
     {
       "id": "ch114",
       "title": {
+        "la": "Tractatus 114",
         "en-US": "Tractate 114"
       }
     },
     {
       "id": "ch115",
       "title": {
+        "la": "Tractatus 115",
         "en-US": "Tractate 115"
       }
     },
     {
       "id": "ch116",
       "title": {
+        "la": "Tractatus 116",
         "en-US": "Tractate 116"
       }
     },
     {
       "id": "ch117",
       "title": {
+        "la": "Tractatus 117",
         "en-US": "Tractate 117"
       }
     },
     {
       "id": "ch118",
       "title": {
+        "la": "Tractatus 118",
         "en-US": "Tractate 118"
       }
     },
     {
       "id": "ch119",
       "title": {
+        "la": "Tractatus 119",
         "en-US": "Tractate 119"
       }
     },
     {
       "id": "ch120",
       "title": {
+        "la": "Tractatus 120",
         "en-US": "Tractate 120"
       }
     },
     {
       "id": "ch121",
       "title": {
+        "la": "Tractatus 121",
         "en-US": "Tractate 121"
       }
     },
     {
       "id": "ch122",
       "title": {
+        "la": "Tractatus 122",
         "en-US": "Tractate 122"
       }
     },
     {
       "id": "ch123",
       "title": {
+        "la": "Tractatus 123",
         "en-US": "Tractate 123"
       }
     },
     {
       "id": "ch124",
       "title": {
+        "la": "Tractatus 124",
         "en-US": "Tractate 124"
       }
     }
   ],
-  "commentsOn": ["john"],
+  "commentsOn": [
+    "john"
+  ],
   "arrived": {
-    "en-US": "2026-06-04"
+    "en-US": "2026-06-04",
+    "la": "2026-11-02"
+  },
+  "work": "augustine/in-iohannis-evangelium-tractatus",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    },
+    "en-US": {
+      "translator": "John Gibb",
+      "year": 1888
+    }
   }
 }
