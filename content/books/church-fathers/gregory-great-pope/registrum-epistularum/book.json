@@ -1,0 +1,5121 @@
+{
+  "id": "gregory-great-pope-registrum-epistularum",
+  "cover": "quarter",
+  "name": {
+    "la": "Registrum epistularum",
+    "en-US": "Register of Letters (Latin, complete)",
+    "pt-BR": "Registro de Cartas (latim, completo)"
+  },
+  "author": {
+    "la": "Gregorius Magnus, Papa (c. 540-604)",
+    "en-US": "Gregory the Great, Pope (c. 540-604)",
+    "pt-BR": "São Gregório Magno, Papa (c. 540-604)"
+  },
+  "description": {
+    "la": "Registrum epistularum Gregorii Magni in libros quattuordecim per indictiones digestum (590-604): epistolae DCCCXLIV cum duobus capitularibus et sententia, ordine editionis Maurinorum (PL 77).",
+    "en-US": "The complete Latin Register of Gregory's letters, 844 letters in fourteen books arranged by indiction (590-604), with the two legal appendices of Book XIII: the whole papal chancery of the age, from Sicilian estates to the conversion of the English. The text and numbering are those of the Maurist edition (Migne, PL 77), the numbering Barmby's English selection (the Register of Letters book) also follows; this book adds the roughly 440 letters that selection leaves untranslated.",
+    "pt-BR": "O Registro latino completo das cartas de Gregório: 844 cartas em catorze livros, ordenadas por indicção (590-604), com os dois apêndices jurídicos do Livro XIII: toda a chancelaria papal da época, das propriedades da Sicília à conversão dos ingleses. Texto e numeração da edição beneditina (Migne, PL 77)."
+  },
+  "composed": "590-604",
+  "languages": [
+    "la"
+  ],
+  "work": "gregory-the-great/registrum-epistularum",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Sainte-Marthe), Migne PL 77",
+      "year": 1849
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.mlat.uzh.ch/",
+      "edition": "Epistolae, Patrologia Latina 77 (Migne 1849), TEI transcription of the Corpus Corporum (University of Zurich; text no. 8064, encoded by Ph. Roelli, 2019; corrections by Jan Ctibor, 2023), the upstream of Latin Wikisource's Epistolae (Gregorius Magnus).",
+      "description": "TEI converted to one file per letter: PL column numbers and page breaks removed; the date/indiction note kept above the first letter of each book; address and Maurist summary kept in italics. The TEI is complete where the Wikisource copy stops mid-letter in Book XIII. Raw TEI in sources/la-originals.",
+      "tier": "A",
+      "tierEvidence": "Migne's 1849 reprint of the 1705 Maurist edition: public domain."
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  },
+  "toc": [
+    {
+      "id": "b01-e001",
+      "title": {
+        "la": "Liber I, Epistola 1"
+      }
+    },
+    {
+      "id": "b01-e002",
+      "title": {
+        "la": "Liber I, Epistola 2"
+      }
+    },
+    {
+      "id": "b01-e003",
+      "title": {
+        "la": "Liber I, Epistola 3"
+      }
+    },
+    {
+      "id": "b01-e004",
+      "title": {
+        "la": "Liber I, Epistola 4"
+      }
+    },
+    {
+      "id": "b01-e005",
+      "title": {
+        "la": "Liber I, Epistola 5"
+      }
+    },
+    {
+      "id": "b01-e006",
+      "title": {
+        "la": "Liber I, Epistola 6"
+      }
+    },
+    {
+      "id": "b01-e007",
+      "title": {
+        "la": "Liber I, Epistola 7"
+      }
+    },
+    {
+      "id": "b01-e008",
+      "title": {
+        "la": "Liber I, Epistola 8"
+      }
+    },
+    {
+      "id": "b01-e009",
+      "title": {
+        "la": "Liber I, Epistola 9"
+      }
+    },
+    {
+      "id": "b01-e010",
+      "title": {
+        "la": "Liber I, Epistola 10"
+      }
+    },
+    {
+      "id": "b01-e011",
+      "title": {
+        "la": "Liber I, Epistola 11"
+      }
+    },
+    {
+      "id": "b01-e012",
+      "title": {
+        "la": "Liber I, Epistola 12"
+      }
+    },
+    {
+      "id": "b01-e013",
+      "title": {
+        "la": "Liber I, Epistola 13"
+      }
+    },
+    {
+      "id": "b01-e014",
+      "title": {
+        "la": "Liber I, Epistola 14"
+      }
+    },
+    {
+      "id": "b01-e015",
+      "title": {
+        "la": "Liber I, Epistola 15"
+      }
+    },
+    {
+      "id": "b01-e016",
+      "title": {
+        "la": "Liber I, Epistola 16"
+      }
+    },
+    {
+      "id": "b01-e017",
+      "title": {
+        "la": "Liber I, Epistola 17"
+      }
+    },
+    {
+      "id": "b01-e018",
+      "title": {
+        "la": "Liber I, Epistola 18"
+      }
+    },
+    {
+      "id": "b01-e019",
+      "title": {
+        "la": "Liber I, Epistola 19"
+      }
+    },
+    {
+      "id": "b01-e020",
+      "title": {
+        "la": "Liber I, Epistola 20"
+      }
+    },
+    {
+      "id": "b01-e021",
+      "title": {
+        "la": "Liber I, Epistola 21"
+      }
+    },
+    {
+      "id": "b01-e022",
+      "title": {
+        "la": "Liber I, Epistola 22"
+      }
+    },
+    {
+      "id": "b01-e023",
+      "title": {
+        "la": "Liber I, Epistola 23"
+      }
+    },
+    {
+      "id": "b01-e024",
+      "title": {
+        "la": "Liber I, Epistola 24"
+      }
+    },
+    {
+      "id": "b01-e025",
+      "title": {
+        "la": "Liber I, Epistola 25"
+      }
+    },
+    {
+      "id": "b01-e026",
+      "title": {
+        "la": "Liber I, Epistola 26"
+      }
+    },
+    {
+      "id": "b01-e027",
+      "title": {
+        "la": "Liber I, Epistola 27"
+      }
+    },
+    {
+      "id": "b01-e028",
+      "title": {
+        "la": "Liber I, Epistola 28"
+      }
+    },
+    {
+      "id": "b01-e029",
+      "title": {
+        "la": "Liber I, Epistola 29"
+      }
+    },
+    {
+      "id": "b01-e030",
+      "title": {
+        "la": "Liber I, Epistola 30"
+      }
+    },
+    {
+      "id": "b01-e031",
+      "title": {
+        "la": "Liber I, Epistola 31"
+      }
+    },
+    {
+      "id": "b01-e032",
+      "title": {
+        "la": "Liber I, Epistola 32"
+      }
+    },
+    {
+      "id": "b01-e033",
+      "title": {
+        "la": "Liber I, Epistola 33"
+      }
+    },
+    {
+      "id": "b01-e034",
+      "title": {
+        "la": "Liber I, Epistola 34"
+      }
+    },
+    {
+      "id": "b01-e035",
+      "title": {
+        "la": "Liber I, Epistola 35"
+      }
+    },
+    {
+      "id": "b01-e036",
+      "title": {
+        "la": "Liber I, Epistola 36"
+      }
+    },
+    {
+      "id": "b01-e037",
+      "title": {
+        "la": "Liber I, Epistola 37"
+      }
+    },
+    {
+      "id": "b01-e038",
+      "title": {
+        "la": "Liber I, Epistola 38"
+      }
+    },
+    {
+      "id": "b01-e039",
+      "title": {
+        "la": "Liber I, Epistola 39"
+      }
+    },
+    {
+      "id": "b01-e040",
+      "title": {
+        "la": "Liber I, Epistola 40"
+      }
+    },
+    {
+      "id": "b01-e041",
+      "title": {
+        "la": "Liber I, Epistola 41"
+      }
+    },
+    {
+      "id": "b01-e042",
+      "title": {
+        "la": "Liber I, Epistola 42"
+      }
+    },
+    {
+      "id": "b01-e043",
+      "title": {
+        "la": "Liber I, Epistola 43"
+      }
+    },
+    {
+      "id": "b01-e044",
+      "title": {
+        "la": "Liber I, Epistola 44"
+      }
+    },
+    {
+      "id": "b01-e045",
+      "title": {
+        "la": "Liber I, Epistola 45"
+      }
+    },
+    {
+      "id": "b01-e046",
+      "title": {
+        "la": "Liber I, Epistola 46"
+      }
+    },
+    {
+      "id": "b01-e047",
+      "title": {
+        "la": "Liber I, Epistola 47"
+      }
+    },
+    {
+      "id": "b01-e048",
+      "title": {
+        "la": "Liber I, Epistola 48"
+      }
+    },
+    {
+      "id": "b01-e049",
+      "title": {
+        "la": "Liber I, Epistola 49"
+      }
+    },
+    {
+      "id": "b01-e050",
+      "title": {
+        "la": "Liber I, Epistola 50"
+      }
+    },
+    {
+      "id": "b01-e051",
+      "title": {
+        "la": "Liber I, Epistola 51"
+      }
+    },
+    {
+      "id": "b01-e052",
+      "title": {
+        "la": "Liber I, Epistola 52"
+      }
+    },
+    {
+      "id": "b01-e053",
+      "title": {
+        "la": "Liber I, Epistola 53"
+      }
+    },
+    {
+      "id": "b01-e054",
+      "title": {
+        "la": "Liber I, Epistola 54"
+      }
+    },
+    {
+      "id": "b01-e055",
+      "title": {
+        "la": "Liber I, Epistola 55"
+      }
+    },
+    {
+      "id": "b01-e056",
+      "title": {
+        "la": "Liber I, Epistola 56"
+      }
+    },
+    {
+      "id": "b01-e057",
+      "title": {
+        "la": "Liber I, Epistola 57"
+      }
+    },
+    {
+      "id": "b01-e058",
+      "title": {
+        "la": "Liber I, Epistola 58"
+      }
+    },
+    {
+      "id": "b01-e059",
+      "title": {
+        "la": "Liber I, Epistola 59"
+      }
+    },
+    {
+      "id": "b01-e060",
+      "title": {
+        "la": "Liber I, Epistola 60"
+      }
+    },
+    {
+      "id": "b01-e061",
+      "title": {
+        "la": "Liber I, Epistola 61"
+      }
+    },
+    {
+      "id": "b01-e062",
+      "title": {
+        "la": "Liber I, Epistola 62"
+      }
+    },
+    {
+      "id": "b01-e063",
+      "title": {
+        "la": "Liber I, Epistola 63"
+      }
+    },
+    {
+      "id": "b01-e064",
+      "title": {
+        "la": "Liber I, Epistola 64"
+      }
+    },
+    {
+      "id": "b01-e065",
+      "title": {
+        "la": "Liber I, Epistola 65"
+      }
+    },
+    {
+      "id": "b01-e066",
+      "title": {
+        "la": "Liber I, Epistola 66"
+      }
+    },
+    {
+      "id": "b01-e067",
+      "title": {
+        "la": "Liber I, Epistola 67"
+      }
+    },
+    {
+      "id": "b01-e068",
+      "title": {
+        "la": "Liber I, Epistola 68"
+      }
+    },
+    {
+      "id": "b01-e069",
+      "title": {
+        "la": "Liber I, Epistola 69"
+      }
+    },
+    {
+      "id": "b01-e070",
+      "title": {
+        "la": "Liber I, Epistola 70"
+      }
+    },
+    {
+      "id": "b01-e071",
+      "title": {
+        "la": "Liber I, Epistola 71"
+      }
+    },
+    {
+      "id": "b01-e072",
+      "title": {
+        "la": "Liber I, Epistola 72"
+      }
+    },
+    {
+      "id": "b01-e073",
+      "title": {
+        "la": "Liber I, Epistola 73"
+      }
+    },
+    {
+      "id": "b01-e074",
+      "title": {
+        "la": "Liber I, Epistola 74"
+      }
+    },
+    {
+      "id": "b01-e075",
+      "title": {
+        "la": "Liber I, Epistola 75"
+      }
+    },
+    {
+      "id": "b01-e076",
+      "title": {
+        "la": "Liber I, Epistola 76"
+      }
+    },
+    {
+      "id": "b01-e077",
+      "title": {
+        "la": "Liber I, Epistola 77"
+      }
+    },
+    {
+      "id": "b01-e078",
+      "title": {
+        "la": "Liber I, Epistola 78"
+      }
+    },
+    {
+      "id": "b01-e079",
+      "title": {
+        "la": "Liber I, Epistola 79"
+      }
+    },
+    {
+      "id": "b01-e080",
+      "title": {
+        "la": "Liber I, Epistola 80"
+      }
+    },
+    {
+      "id": "b01-e081",
+      "title": {
+        "la": "Liber I, Epistola 81"
+      }
+    },
+    {
+      "id": "b01-e082",
+      "title": {
+        "la": "Liber I, Epistola 82"
+      }
+    },
+    {
+      "id": "b01-e083",
+      "title": {
+        "la": "Liber I, Epistola 83"
+      }
+    },
+    {
+      "id": "b01-e084",
+      "title": {
+        "la": "Liber I, Epistola 84"
+      }
+    },
+    {
+      "id": "b01-e085",
+      "title": {
+        "la": "Liber I, Epistola 85"
+      }
+    },
+    {
+      "id": "b02-e001",
+      "title": {
+        "la": "Liber II, Epistola 1"
+      }
+    },
+    {
+      "id": "b02-e002",
+      "title": {
+        "la": "Liber II, Epistola 2"
+      }
+    },
+    {
+      "id": "b02-e003",
+      "title": {
+        "la": "Liber II, Epistola 3"
+      }
+    },
+    {
+      "id": "b02-e004",
+      "title": {
+        "la": "Liber II, Epistola 4"
+      }
+    },
+    {
+      "id": "b02-e005",
+      "title": {
+        "la": "Liber II, Epistola 5"
+      }
+    },
+    {
+      "id": "b02-e006",
+      "title": {
+        "la": "Liber II, Epistola 6"
+      }
+    },
+    {
+      "id": "b02-e007",
+      "title": {
+        "la": "Liber II, Epistola 7"
+      }
+    },
+    {
+      "id": "b02-e008",
+      "title": {
+        "la": "Liber II, Epistola 8"
+      }
+    },
+    {
+      "id": "b02-e009",
+      "title": {
+        "la": "Liber II, Epistola 9"
+      }
+    },
+    {
+      "id": "b02-e010",
+      "title": {
+        "la": "Liber II, Epistola 10"
+      }
+    },
+    {
+      "id": "b02-e011",
+      "title": {
+        "la": "Liber II, Epistola 11"
+      }
+    },
+    {
+      "id": "b02-e012",
+      "title": {
+        "la": "Liber II, Epistola 12"
+      }
+    },
+    {
+      "id": "b02-e013",
+      "title": {
+        "la": "Liber II, Epistola 13"
+      }
+    },
+    {
+      "id": "b02-e014",
+      "title": {
+        "la": "Liber II, Epistola 14"
+      }
+    },
+    {
+      "id": "b02-e015",
+      "title": {
+        "la": "Liber II, Epistola 15"
+      }
+    },
+    {
+      "id": "b02-e016",
+      "title": {
+        "la": "Liber II, Epistola 16"
+      }
+    },
+    {
+      "id": "b02-e017",
+      "title": {
+        "la": "Liber II, Epistola 17"
+      }
+    },
+    {
+      "id": "b02-e018",
+      "title": {
+        "la": "Liber II, Epistola 18"
+      }
+    },
+    {
+      "id": "b02-e019",
+      "title": {
+        "la": "Liber II, Epistola 19"
+      }
+    },
+    {
+      "id": "b02-e020",
+      "title": {
+        "la": "Liber II, Epistola 20"
+      }
+    },
+    {
+      "id": "b02-e021",
+      "title": {
+        "la": "Liber II, Epistola 21"
+      }
+    },
+    {
+      "id": "b02-e022",
+      "title": {
+        "la": "Liber II, Epistola 22"
+      }
+    },
+    {
+      "id": "b02-e023",
+      "title": {
+        "la": "Liber II, Epistola 23"
+      }
+    },
+    {
+      "id": "b02-e024",
+      "title": {
+        "la": "Liber II, Epistola 24"
+      }
+    },
+    {
+      "id": "b02-e025",
+      "title": {
+        "la": "Liber II, Epistola 25"
+      }
+    },
+    {
+      "id": "b02-e026",
+      "title": {
+        "la": "Liber II, Epistola 26"
+      }
+    },
+    {
+      "id": "b02-e027",
+      "title": {
+        "la": "Liber II, Epistola 27"
+      }
+    },
+    {
+      "id": "b02-e028",
+      "title": {
+        "la": "Liber II, Epistola 28"
+      }
+    },
+    {
+      "id": "b02-e029",
+      "title": {
+        "la": "Liber II, Epistola 29"
+      }
+    },
+    {
+      "id": "b02-e030",
+      "title": {
+        "la": "Liber II, Epistola 30"
+      }
+    },
+    {
+      "id": "b02-e031",
+      "title": {
+        "la": "Liber II, Epistola 31"
+      }
+    },
+    {
+      "id": "b02-e032",
+      "title": {
+        "la": "Liber II, Epistola 32"
+      }
+    },
+    {
+      "id": "b02-e033",
+      "title": {
+        "la": "Liber II, Epistola 33"
+      }
+    },
+    {
+      "id": "b02-e034",
+      "title": {
+        "la": "Liber II, Epistola 34"
+      }
+    },
+    {
+      "id": "b02-e035",
+      "title": {
+        "la": "Liber II, Epistola 35"
+      }
+    },
+    {
+      "id": "b02-e036",
+      "title": {
+        "la": "Liber II, Epistola 36"
+      }
+    },
+    {
+      "id": "b02-e037",
+      "title": {
+        "la": "Liber II, Epistola 37"
+      }
+    },
+    {
+      "id": "b02-e038",
+      "title": {
+        "la": "Liber II, Epistola 38"
+      }
+    },
+    {
+      "id": "b02-e039",
+      "title": {
+        "la": "Liber II, Epistola 39"
+      }
+    },
+    {
+      "id": "b02-e040",
+      "title": {
+        "la": "Liber II, Epistola 40"
+      }
+    },
+    {
+      "id": "b02-e041",
+      "title": {
+        "la": "Liber II, Epistola 41"
+      }
+    },
+    {
+      "id": "b02-e042",
+      "title": {
+        "la": "Liber II, Epistola 42"
+      }
+    },
+    {
+      "id": "b02-e043",
+      "title": {
+        "la": "Liber II, Epistola 43"
+      }
+    },
+    {
+      "id": "b02-e044",
+      "title": {
+        "la": "Liber II, Epistola 44"
+      }
+    },
+    {
+      "id": "b02-e045",
+      "title": {
+        "la": "Liber II, Epistola 45"
+      }
+    },
+    {
+      "id": "b02-e046",
+      "title": {
+        "la": "Liber II, Epistola 46"
+      }
+    },
+    {
+      "id": "b02-e047",
+      "title": {
+        "la": "Liber II, Epistola 47"
+      }
+    },
+    {
+      "id": "b02-e048",
+      "title": {
+        "la": "Liber II, Epistola 48"
+      }
+    },
+    {
+      "id": "b02-e049",
+      "title": {
+        "la": "Liber II, Epistola 49"
+      }
+    },
+    {
+      "id": "b02-e050",
+      "title": {
+        "la": "Liber II, Epistola 50"
+      }
+    },
+    {
+      "id": "b02-e051",
+      "title": {
+        "la": "Liber II, Epistola 51"
+      }
+    },
+    {
+      "id": "b02-e052",
+      "title": {
+        "la": "Liber II, Epistola 52"
+      }
+    },
+    {
+      "id": "b02-e053",
+      "title": {
+        "la": "Liber II, Epistola 53"
+      }
+    },
+    {
+      "id": "b02-e054",
+      "title": {
+        "la": "Liber II, Epistola 54"
+      }
+    },
+    {
+      "id": "b03-e001",
+      "title": {
+        "la": "Liber III, Epistola 1"
+      }
+    },
+    {
+      "id": "b03-e002",
+      "title": {
+        "la": "Liber III, Epistola 2"
+      }
+    },
+    {
+      "id": "b03-e003",
+      "title": {
+        "la": "Liber III, Epistola 3"
+      }
+    },
+    {
+      "id": "b03-e004",
+      "title": {
+        "la": "Liber III, Epistola 4"
+      }
+    },
+    {
+      "id": "b03-e005",
+      "title": {
+        "la": "Liber III, Epistola 5"
+      }
+    },
+    {
+      "id": "b03-e006",
+      "title": {
+        "la": "Liber III, Epistola 6"
+      }
+    },
+    {
+      "id": "b03-e007",
+      "title": {
+        "la": "Liber III, Epistola 7"
+      }
+    },
+    {
+      "id": "b03-e008",
+      "title": {
+        "la": "Liber III, Epistola 8"
+      }
+    },
+    {
+      "id": "b03-e009",
+      "title": {
+        "la": "Liber III, Epistola 9"
+      }
+    },
+    {
+      "id": "b03-e010",
+      "title": {
+        "la": "Liber III, Epistola 10"
+      }
+    },
+    {
+      "id": "b03-e011",
+      "title": {
+        "la": "Liber III, Epistola 11"
+      }
+    },
+    {
+      "id": "b03-e012",
+      "title": {
+        "la": "Liber III, Epistola 12"
+      }
+    },
+    {
+      "id": "b03-e013",
+      "title": {
+        "la": "Liber III, Epistola 13"
+      }
+    },
+    {
+      "id": "b03-e014",
+      "title": {
+        "la": "Liber III, Epistola 14"
+      }
+    },
+    {
+      "id": "b03-e015",
+      "title": {
+        "la": "Liber III, Epistola 15"
+      }
+    },
+    {
+      "id": "b03-e016",
+      "title": {
+        "la": "Liber III, Epistola 16"
+      }
+    },
+    {
+      "id": "b03-e017",
+      "title": {
+        "la": "Liber III, Epistola 17"
+      }
+    },
+    {
+      "id": "b03-e018",
+      "title": {
+        "la": "Liber III, Epistola 18"
+      }
+    },
+    {
+      "id": "b03-e019",
+      "title": {
+        "la": "Liber III, Epistola 19"
+      }
+    },
+    {
+      "id": "b03-e020",
+      "title": {
+        "la": "Liber III, Epistola 20"
+      }
+    },
+    {
+      "id": "b03-e021",
+      "title": {
+        "la": "Liber III, Epistola 21"
+      }
+    },
+    {
+      "id": "b03-e022",
+      "title": {
+        "la": "Liber III, Epistola 22"
+      }
+    },
+    {
+      "id": "b03-e023",
+      "title": {
+        "la": "Liber III, Epistola 23"
+      }
+    },
+    {
+      "id": "b03-e024",
+      "title": {
+        "la": "Liber III, Epistola 24"
+      }
+    },
+    {
+      "id": "b03-e025",
+      "title": {
+        "la": "Liber III, Epistola 25"
+      }
+    },
+    {
+      "id": "b03-e026",
+      "title": {
+        "la": "Liber III, Epistola 26"
+      }
+    },
+    {
+      "id": "b03-e027",
+      "title": {
+        "la": "Liber III, Epistola 27"
+      }
+    },
+    {
+      "id": "b03-e028",
+      "title": {
+        "la": "Liber III, Epistola 28"
+      }
+    },
+    {
+      "id": "b03-e029",
+      "title": {
+        "la": "Liber III, Epistola 29"
+      }
+    },
+    {
+      "id": "b03-e030",
+      "title": {
+        "la": "Liber III, Epistola 30"
+      }
+    },
+    {
+      "id": "b03-e031",
+      "title": {
+        "la": "Liber III, Epistola 31"
+      }
+    },
+    {
+      "id": "b03-e032",
+      "title": {
+        "la": "Liber III, Epistola 32"
+      }
+    },
+    {
+      "id": "b03-e033",
+      "title": {
+        "la": "Liber III, Epistola 33"
+      }
+    },
+    {
+      "id": "b03-e034",
+      "title": {
+        "la": "Liber III, Epistola 34"
+      }
+    },
+    {
+      "id": "b03-e035",
+      "title": {
+        "la": "Liber III, Epistola 35"
+      }
+    },
+    {
+      "id": "b03-e036",
+      "title": {
+        "la": "Liber III, Epistola 36"
+      }
+    },
+    {
+      "id": "b03-e037",
+      "title": {
+        "la": "Liber III, Epistola 37"
+      }
+    },
+    {
+      "id": "b03-e038",
+      "title": {
+        "la": "Liber III, Epistola 38"
+      }
+    },
+    {
+      "id": "b03-e039",
+      "title": {
+        "la": "Liber III, Epistola 39"
+      }
+    },
+    {
+      "id": "b03-e040",
+      "title": {
+        "la": "Liber III, Epistola 40"
+      }
+    },
+    {
+      "id": "b03-e041",
+      "title": {
+        "la": "Liber III, Epistola 41"
+      }
+    },
+    {
+      "id": "b03-e042",
+      "title": {
+        "la": "Liber III, Epistola 42"
+      }
+    },
+    {
+      "id": "b03-e043",
+      "title": {
+        "la": "Liber III, Epistola 43"
+      }
+    },
+    {
+      "id": "b03-e044",
+      "title": {
+        "la": "Liber III, Epistola 44"
+      }
+    },
+    {
+      "id": "b03-e045",
+      "title": {
+        "la": "Liber III, Epistola 45"
+      }
+    },
+    {
+      "id": "b03-e046",
+      "title": {
+        "la": "Liber III, Epistola 46"
+      }
+    },
+    {
+      "id": "b03-e047",
+      "title": {
+        "la": "Liber III, Epistola 47"
+      }
+    },
+    {
+      "id": "b03-e048",
+      "title": {
+        "la": "Liber III, Epistola 48"
+      }
+    },
+    {
+      "id": "b03-e049",
+      "title": {
+        "la": "Liber III, Epistola 49"
+      }
+    },
+    {
+      "id": "b03-e050",
+      "title": {
+        "la": "Liber III, Epistola 50"
+      }
+    },
+    {
+      "id": "b03-e051",
+      "title": {
+        "la": "Liber III, Epistola 51"
+      }
+    },
+    {
+      "id": "b03-e052",
+      "title": {
+        "la": "Liber III, Epistola 52"
+      }
+    },
+    {
+      "id": "b03-e053",
+      "title": {
+        "la": "Liber III, Epistola 53"
+      }
+    },
+    {
+      "id": "b03-e054",
+      "title": {
+        "la": "Liber III, Epistola 54"
+      }
+    },
+    {
+      "id": "b03-e055",
+      "title": {
+        "la": "Liber III, Epistola 55"
+      }
+    },
+    {
+      "id": "b03-e056",
+      "title": {
+        "la": "Liber III, Epistola 56"
+      }
+    },
+    {
+      "id": "b03-e057",
+      "title": {
+        "la": "Liber III, Epistola 57"
+      }
+    },
+    {
+      "id": "b03-e058",
+      "title": {
+        "la": "Liber III, Epistola 58"
+      }
+    },
+    {
+      "id": "b03-e059",
+      "title": {
+        "la": "Liber III, Epistola 59"
+      }
+    },
+    {
+      "id": "b03-e060",
+      "title": {
+        "la": "Liber III, Epistola 60"
+      }
+    },
+    {
+      "id": "b03-e061",
+      "title": {
+        "la": "Liber III, Epistola 61"
+      }
+    },
+    {
+      "id": "b03-e062",
+      "title": {
+        "la": "Liber III, Epistola 62"
+      }
+    },
+    {
+      "id": "b03-e063",
+      "title": {
+        "la": "Liber III, Epistola 63"
+      }
+    },
+    {
+      "id": "b03-e064",
+      "title": {
+        "la": "Liber III, Epistola 64"
+      }
+    },
+    {
+      "id": "b03-e065",
+      "title": {
+        "la": "Liber III, Epistola 65"
+      }
+    },
+    {
+      "id": "b03-e066",
+      "title": {
+        "la": "Liber III, Epistola 66"
+      }
+    },
+    {
+      "id": "b03-e067",
+      "title": {
+        "la": "Liber III, Epistola 67"
+      }
+    },
+    {
+      "id": "b04-e001",
+      "title": {
+        "la": "Liber IV, Epistola 1"
+      }
+    },
+    {
+      "id": "b04-e002",
+      "title": {
+        "la": "Liber IV, Epistola 2"
+      }
+    },
+    {
+      "id": "b04-e003",
+      "title": {
+        "la": "Liber IV, Epistola 3"
+      }
+    },
+    {
+      "id": "b04-e004",
+      "title": {
+        "la": "Liber IV, Epistola 4"
+      }
+    },
+    {
+      "id": "b04-e005",
+      "title": {
+        "la": "Liber IV, Epistola 5"
+      }
+    },
+    {
+      "id": "b04-e006",
+      "title": {
+        "la": "Liber IV, Epistola 6"
+      }
+    },
+    {
+      "id": "b04-e007",
+      "title": {
+        "la": "Liber IV, Epistola 7"
+      }
+    },
+    {
+      "id": "b04-e008",
+      "title": {
+        "la": "Liber IV, Epistola 8"
+      }
+    },
+    {
+      "id": "b04-e009",
+      "title": {
+        "la": "Liber IV, Epistola 9"
+      }
+    },
+    {
+      "id": "b04-e010",
+      "title": {
+        "la": "Liber IV, Epistola 10"
+      }
+    },
+    {
+      "id": "b04-e011",
+      "title": {
+        "la": "Liber IV, Epistola 11"
+      }
+    },
+    {
+      "id": "b04-e012",
+      "title": {
+        "la": "Liber IV, Epistola 12"
+      }
+    },
+    {
+      "id": "b04-e013",
+      "title": {
+        "la": "Liber IV, Epistola 13"
+      }
+    },
+    {
+      "id": "b04-e014",
+      "title": {
+        "la": "Liber IV, Epistola 14"
+      }
+    },
+    {
+      "id": "b04-e015",
+      "title": {
+        "la": "Liber IV, Epistola 15"
+      }
+    },
+    {
+      "id": "b04-e016",
+      "title": {
+        "la": "Liber IV, Epistola 16"
+      }
+    },
+    {
+      "id": "b04-e017",
+      "title": {
+        "la": "Liber IV, Epistola 17"
+      }
+    },
+    {
+      "id": "b04-e018",
+      "title": {
+        "la": "Liber IV, Epistola 18"
+      }
+    },
+    {
+      "id": "b04-e019",
+      "title": {
+        "la": "Liber IV, Epistola 19"
+      }
+    },
+    {
+      "id": "b04-e020",
+      "title": {
+        "la": "Liber IV, Epistola 20"
+      }
+    },
+    {
+      "id": "b04-e021",
+      "title": {
+        "la": "Liber IV, Epistola 21"
+      }
+    },
+    {
+      "id": "b04-e022",
+      "title": {
+        "la": "Liber IV, Epistola 22"
+      }
+    },
+    {
+      "id": "b04-e023",
+      "title": {
+        "la": "Liber IV, Epistola 23"
+      }
+    },
+    {
+      "id": "b04-e024",
+      "title": {
+        "la": "Liber IV, Epistola 24"
+      }
+    },
+    {
+      "id": "b04-e025",
+      "title": {
+        "la": "Liber IV, Epistola 25"
+      }
+    },
+    {
+      "id": "b04-e026",
+      "title": {
+        "la": "Liber IV, Epistola 26"
+      }
+    },
+    {
+      "id": "b04-e027",
+      "title": {
+        "la": "Liber IV, Epistola 27"
+      }
+    },
+    {
+      "id": "b04-e028",
+      "title": {
+        "la": "Liber IV, Epistola 28"
+      }
+    },
+    {
+      "id": "b04-e029",
+      "title": {
+        "la": "Liber IV, Epistola 29"
+      }
+    },
+    {
+      "id": "b04-e030",
+      "title": {
+        "la": "Liber IV, Epistola 30"
+      }
+    },
+    {
+      "id": "b04-e031",
+      "title": {
+        "la": "Liber IV, Epistola 31"
+      }
+    },
+    {
+      "id": "b04-e032",
+      "title": {
+        "la": "Liber IV, Epistola 32"
+      }
+    },
+    {
+      "id": "b04-e033",
+      "title": {
+        "la": "Liber IV, Epistola 33"
+      }
+    },
+    {
+      "id": "b04-e034",
+      "title": {
+        "la": "Liber IV, Epistola 34"
+      }
+    },
+    {
+      "id": "b04-e035",
+      "title": {
+        "la": "Liber IV, Epistola 35"
+      }
+    },
+    {
+      "id": "b04-e036",
+      "title": {
+        "la": "Liber IV, Epistola 36"
+      }
+    },
+    {
+      "id": "b04-e037",
+      "title": {
+        "la": "Liber IV, Epistola 37"
+      }
+    },
+    {
+      "id": "b04-e038",
+      "title": {
+        "la": "Liber IV, Epistola 38"
+      }
+    },
+    {
+      "id": "b04-e039",
+      "title": {
+        "la": "Liber IV, Epistola 39"
+      }
+    },
+    {
+      "id": "b04-e040",
+      "title": {
+        "la": "Liber IV, Epistola 40"
+      }
+    },
+    {
+      "id": "b04-e041",
+      "title": {
+        "la": "Liber IV, Epistola 41"
+      }
+    },
+    {
+      "id": "b04-e042",
+      "title": {
+        "la": "Liber IV, Epistola 42"
+      }
+    },
+    {
+      "id": "b04-e043",
+      "title": {
+        "la": "Liber IV, Epistola 43"
+      }
+    },
+    {
+      "id": "b04-e044",
+      "title": {
+        "la": "Liber IV, Epistola 44"
+      }
+    },
+    {
+      "id": "b04-e045",
+      "title": {
+        "la": "Liber IV, Epistola 45"
+      }
+    },
+    {
+      "id": "b04-e046",
+      "title": {
+        "la": "Liber IV, Epistola 46"
+      }
+    },
+    {
+      "id": "b04-e047",
+      "title": {
+        "la": "Liber IV, Epistola 47"
+      }
+    },
+    {
+      "id": "b05-e001",
+      "title": {
+        "la": "Liber V, Epistola 1"
+      }
+    },
+    {
+      "id": "b05-e002",
+      "title": {
+        "la": "Liber V, Epistola 2"
+      }
+    },
+    {
+      "id": "b05-e003",
+      "title": {
+        "la": "Liber V, Epistola 3"
+      }
+    },
+    {
+      "id": "b05-e004",
+      "title": {
+        "la": "Liber V, Epistola 4"
+      }
+    },
+    {
+      "id": "b05-e005",
+      "title": {
+        "la": "Liber V, Epistola 5"
+      }
+    },
+    {
+      "id": "b05-e006",
+      "title": {
+        "la": "Liber V, Epistola 6"
+      }
+    },
+    {
+      "id": "b05-e007",
+      "title": {
+        "la": "Liber V, Epistola 7"
+      }
+    },
+    {
+      "id": "b05-e008",
+      "title": {
+        "la": "Liber V, Epistola 8"
+      }
+    },
+    {
+      "id": "b05-e009",
+      "title": {
+        "la": "Liber V, Epistola 9"
+      }
+    },
+    {
+      "id": "b05-e010",
+      "title": {
+        "la": "Liber V, Epistola 10"
+      }
+    },
+    {
+      "id": "b05-e011",
+      "title": {
+        "la": "Liber V, Epistola 11"
+      }
+    },
+    {
+      "id": "b05-e012",
+      "title": {
+        "la": "Liber V, Epistola 12"
+      }
+    },
+    {
+      "id": "b05-e013",
+      "title": {
+        "la": "Liber V, Epistola 13"
+      }
+    },
+    {
+      "id": "b05-e014",
+      "title": {
+        "la": "Liber V, Epistola 14"
+      }
+    },
+    {
+      "id": "b05-e015",
+      "title": {
+        "la": "Liber V, Epistola 15"
+      }
+    },
+    {
+      "id": "b05-e016",
+      "title": {
+        "la": "Liber V, Epistola 16"
+      }
+    },
+    {
+      "id": "b05-e017",
+      "title": {
+        "la": "Liber V, Epistola 17"
+      }
+    },
+    {
+      "id": "b05-e018",
+      "title": {
+        "la": "Liber V, Epistola 18"
+      }
+    },
+    {
+      "id": "b05-e019",
+      "title": {
+        "la": "Liber V, Epistola 19"
+      }
+    },
+    {
+      "id": "b05-e020",
+      "title": {
+        "la": "Liber V, Epistola 20"
+      }
+    },
+    {
+      "id": "b05-e021",
+      "title": {
+        "la": "Liber V, Epistola 21"
+      }
+    },
+    {
+      "id": "b05-e022",
+      "title": {
+        "la": "Liber V, Epistola 22"
+      }
+    },
+    {
+      "id": "b05-e023",
+      "title": {
+        "la": "Liber V, Epistola 23"
+      }
+    },
+    {
+      "id": "b05-e024",
+      "title": {
+        "la": "Liber V, Epistola 24"
+      }
+    },
+    {
+      "id": "b05-e025",
+      "title": {
+        "la": "Liber V, Epistola 25"
+      }
+    },
+    {
+      "id": "b05-e026",
+      "title": {
+        "la": "Liber V, Epistola 26"
+      }
+    },
+    {
+      "id": "b05-e027",
+      "title": {
+        "la": "Liber V, Epistola 27"
+      }
+    },
+    {
+      "id": "b05-e028",
+      "title": {
+        "la": "Liber V, Epistola 28"
+      }
+    },
+    {
+      "id": "b05-e029",
+      "title": {
+        "la": "Liber V, Epistola 29"
+      }
+    },
+    {
+      "id": "b05-e030",
+      "title": {
+        "la": "Liber V, Epistola 30"
+      }
+    },
+    {
+      "id": "b05-e031",
+      "title": {
+        "la": "Liber V, Epistola 31"
+      }
+    },
+    {
+      "id": "b05-e032",
+      "title": {
+        "la": "Liber V, Epistola 32"
+      }
+    },
+    {
+      "id": "b05-e033",
+      "title": {
+        "la": "Liber V, Epistola 33"
+      }
+    },
+    {
+      "id": "b05-e034",
+      "title": {
+        "la": "Liber V, Epistola 34"
+      }
+    },
+    {
+      "id": "b05-e035",
+      "title": {
+        "la": "Liber V, Epistola 35"
+      }
+    },
+    {
+      "id": "b05-e036",
+      "title": {
+        "la": "Liber V, Epistola 36"
+      }
+    },
+    {
+      "id": "b05-e037",
+      "title": {
+        "la": "Liber V, Epistola 37"
+      }
+    },
+    {
+      "id": "b05-e038",
+      "title": {
+        "la": "Liber V, Epistola 38"
+      }
+    },
+    {
+      "id": "b05-e039",
+      "title": {
+        "la": "Liber V, Epistola 39"
+      }
+    },
+    {
+      "id": "b05-e040",
+      "title": {
+        "la": "Liber V, Epistola 40"
+      }
+    },
+    {
+      "id": "b05-e041",
+      "title": {
+        "la": "Liber V, Epistola 41"
+      }
+    },
+    {
+      "id": "b05-e042",
+      "title": {
+        "la": "Liber V, Epistola 42"
+      }
+    },
+    {
+      "id": "b05-e043",
+      "title": {
+        "la": "Liber V, Epistola 43"
+      }
+    },
+    {
+      "id": "b05-e044",
+      "title": {
+        "la": "Liber V, Epistola 44"
+      }
+    },
+    {
+      "id": "b05-e045",
+      "title": {
+        "la": "Liber V, Epistola 45"
+      }
+    },
+    {
+      "id": "b05-e046",
+      "title": {
+        "la": "Liber V, Epistola 46"
+      }
+    },
+    {
+      "id": "b05-e047",
+      "title": {
+        "la": "Liber V, Epistola 47"
+      }
+    },
+    {
+      "id": "b05-e048",
+      "title": {
+        "la": "Liber V, Epistola 48"
+      }
+    },
+    {
+      "id": "b05-e049",
+      "title": {
+        "la": "Liber V, Epistola 49"
+      }
+    },
+    {
+      "id": "b05-e050",
+      "title": {
+        "la": "Liber V, Epistola 50"
+      }
+    },
+    {
+      "id": "b05-e051",
+      "title": {
+        "la": "Liber V, Epistola 51"
+      }
+    },
+    {
+      "id": "b05-e052",
+      "title": {
+        "la": "Liber V, Epistola 52"
+      }
+    },
+    {
+      "id": "b05-e053",
+      "title": {
+        "la": "Liber V, Epistola 53"
+      }
+    },
+    {
+      "id": "b05-e054",
+      "title": {
+        "la": "Liber V, Epistola 54"
+      }
+    },
+    {
+      "id": "b05-e055",
+      "title": {
+        "la": "Liber V, Epistola 55"
+      }
+    },
+    {
+      "id": "b05-e056",
+      "title": {
+        "la": "Liber V, Epistola 56"
+      }
+    },
+    {
+      "id": "b05-e057",
+      "title": {
+        "la": "Liber V, Epistola 57"
+      }
+    },
+    {
+      "id": "b05-e058",
+      "title": {
+        "la": "Liber V, Epistola 58"
+      }
+    },
+    {
+      "id": "b06-e001",
+      "title": {
+        "la": "Liber VI, Epistola 1"
+      }
+    },
+    {
+      "id": "b06-e002",
+      "title": {
+        "la": "Liber VI, Epistola 2"
+      }
+    },
+    {
+      "id": "b06-e003",
+      "title": {
+        "la": "Liber VI, Epistola 3"
+      }
+    },
+    {
+      "id": "b06-e004",
+      "title": {
+        "la": "Liber VI, Epistola 4"
+      }
+    },
+    {
+      "id": "b06-e005",
+      "title": {
+        "la": "Liber VI, Epistola 5"
+      }
+    },
+    {
+      "id": "b06-e006",
+      "title": {
+        "la": "Liber VI, Epistola 6"
+      }
+    },
+    {
+      "id": "b06-e007",
+      "title": {
+        "la": "Liber VI, Epistola 7"
+      }
+    },
+    {
+      "id": "b06-e008",
+      "title": {
+        "la": "Liber VI, Epistola 8"
+      }
+    },
+    {
+      "id": "b06-e009",
+      "title": {
+        "la": "Liber VI, Epistola 9"
+      }
+    },
+    {
+      "id": "b06-e010",
+      "title": {
+        "la": "Liber VI, Epistola 10"
+      }
+    },
+    {
+      "id": "b06-e011",
+      "title": {
+        "la": "Liber VI, Epistola 11"
+      }
+    },
+    {
+      "id": "b06-e012",
+      "title": {
+        "la": "Liber VI, Epistola 12"
+      }
+    },
+    {
+      "id": "b06-e013",
+      "title": {
+        "la": "Liber VI, Epistola 13"
+      }
+    },
+    {
+      "id": "b06-e014",
+      "title": {
+        "la": "Liber VI, Epistola 14"
+      }
+    },
+    {
+      "id": "b06-e015",
+      "title": {
+        "la": "Liber VI, Epistola 15"
+      }
+    },
+    {
+      "id": "b06-e016",
+      "title": {
+        "la": "Liber VI, Epistola 16"
+      }
+    },
+    {
+      "id": "b06-e017",
+      "title": {
+        "la": "Liber VI, Epistola 17"
+      }
+    },
+    {
+      "id": "b06-e018",
+      "title": {
+        "la": "Liber VI, Epistola 18"
+      }
+    },
+    {
+      "id": "b06-e019",
+      "title": {
+        "la": "Liber VI, Epistola 19"
+      }
+    },
+    {
+      "id": "b06-e020",
+      "title": {
+        "la": "Liber VI, Epistola 20"
+      }
+    },
+    {
+      "id": "b06-e021",
+      "title": {
+        "la": "Liber VI, Epistola 21"
+      }
+    },
+    {
+      "id": "b06-e022",
+      "title": {
+        "la": "Liber VI, Epistola 22"
+      }
+    },
+    {
+      "id": "b06-e023",
+      "title": {
+        "la": "Liber VI, Epistola 23"
+      }
+    },
+    {
+      "id": "b06-e024",
+      "title": {
+        "la": "Liber VI, Epistola 24"
+      }
+    },
+    {
+      "id": "b06-e025",
+      "title": {
+        "la": "Liber VI, Epistola 25"
+      }
+    },
+    {
+      "id": "b06-e026",
+      "title": {
+        "la": "Liber VI, Epistola 26"
+      }
+    },
+    {
+      "id": "b06-e027",
+      "title": {
+        "la": "Liber VI, Epistola 27"
+      }
+    },
+    {
+      "id": "b06-e028",
+      "title": {
+        "la": "Liber VI, Epistola 28"
+      }
+    },
+    {
+      "id": "b06-e029",
+      "title": {
+        "la": "Liber VI, Epistola 29"
+      }
+    },
+    {
+      "id": "b06-e030",
+      "title": {
+        "la": "Liber VI, Epistola 30"
+      }
+    },
+    {
+      "id": "b06-e031",
+      "title": {
+        "la": "Liber VI, Epistola 31"
+      }
+    },
+    {
+      "id": "b06-e032",
+      "title": {
+        "la": "Liber VI, Epistola 32"
+      }
+    },
+    {
+      "id": "b06-e033",
+      "title": {
+        "la": "Liber VI, Epistola 33"
+      }
+    },
+    {
+      "id": "b06-e034",
+      "title": {
+        "la": "Liber VI, Epistola 34"
+      }
+    },
+    {
+      "id": "b06-e035",
+      "title": {
+        "la": "Liber VI, Epistola 35"
+      }
+    },
+    {
+      "id": "b06-e036",
+      "title": {
+        "la": "Liber VI, Epistola 36"
+      }
+    },
+    {
+      "id": "b06-e037",
+      "title": {
+        "la": "Liber VI, Epistola 37"
+      }
+    },
+    {
+      "id": "b06-e038",
+      "title": {
+        "la": "Liber VI, Epistola 38"
+      }
+    },
+    {
+      "id": "b06-e039",
+      "title": {
+        "la": "Liber VI, Epistola 39"
+      }
+    },
+    {
+      "id": "b06-e040",
+      "title": {
+        "la": "Liber VI, Epistola 40"
+      }
+    },
+    {
+      "id": "b06-e041",
+      "title": {
+        "la": "Liber VI, Epistola 41"
+      }
+    },
+    {
+      "id": "b06-e042",
+      "title": {
+        "la": "Liber VI, Epistola 42"
+      }
+    },
+    {
+      "id": "b06-e043",
+      "title": {
+        "la": "Liber VI, Epistola 43"
+      }
+    },
+    {
+      "id": "b06-e044",
+      "title": {
+        "la": "Liber VI, Epistola 44"
+      }
+    },
+    {
+      "id": "b06-e045",
+      "title": {
+        "la": "Liber VI, Epistola 45"
+      }
+    },
+    {
+      "id": "b06-e046",
+      "title": {
+        "la": "Liber VI, Epistola 46"
+      }
+    },
+    {
+      "id": "b06-e047",
+      "title": {
+        "la": "Liber VI, Epistola 47"
+      }
+    },
+    {
+      "id": "b06-e048",
+      "title": {
+        "la": "Liber VI, Epistola 48"
+      }
+    },
+    {
+      "id": "b06-e049",
+      "title": {
+        "la": "Liber VI, Epistola 49"
+      }
+    },
+    {
+      "id": "b06-e050",
+      "title": {
+        "la": "Liber VI, Epistola 50"
+      }
+    },
+    {
+      "id": "b06-e051",
+      "title": {
+        "la": "Liber VI, Epistola 51"
+      }
+    },
+    {
+      "id": "b06-e052",
+      "title": {
+        "la": "Liber VI, Epistola 52"
+      }
+    },
+    {
+      "id": "b06-e053",
+      "title": {
+        "la": "Liber VI, Epistola 53"
+      }
+    },
+    {
+      "id": "b06-e054",
+      "title": {
+        "la": "Liber VI, Epistola 54"
+      }
+    },
+    {
+      "id": "b06-e055",
+      "title": {
+        "la": "Liber VI, Epistola 55"
+      }
+    },
+    {
+      "id": "b06-e056",
+      "title": {
+        "la": "Liber VI, Epistola 56"
+      }
+    },
+    {
+      "id": "b06-e057",
+      "title": {
+        "la": "Liber VI, Epistola 57"
+      }
+    },
+    {
+      "id": "b06-e058",
+      "title": {
+        "la": "Liber VI, Epistola 58"
+      }
+    },
+    {
+      "id": "b06-e059",
+      "title": {
+        "la": "Liber VI, Epistola 59"
+      }
+    },
+    {
+      "id": "b06-e060",
+      "title": {
+        "la": "Liber VI, Epistola 60"
+      }
+    },
+    {
+      "id": "b06-e061",
+      "title": {
+        "la": "Liber VI, Epistola 61"
+      }
+    },
+    {
+      "id": "b06-e062",
+      "title": {
+        "la": "Liber VI, Epistola 62"
+      }
+    },
+    {
+      "id": "b06-e063",
+      "title": {
+        "la": "Liber VI, Epistola 63"
+      }
+    },
+    {
+      "id": "b06-e064",
+      "title": {
+        "la": "Liber VI, Epistola 64"
+      }
+    },
+    {
+      "id": "b06-e065",
+      "title": {
+        "la": "Liber VI, Epistola 65"
+      }
+    },
+    {
+      "id": "b06-e066",
+      "title": {
+        "la": "Liber VI, Epistola 66"
+      }
+    },
+    {
+      "id": "b07-e001",
+      "title": {
+        "la": "Liber VII, Epistola 1"
+      }
+    },
+    {
+      "id": "b07-e002",
+      "title": {
+        "la": "Liber VII, Epistola 2"
+      }
+    },
+    {
+      "id": "b07-e003",
+      "title": {
+        "la": "Liber VII, Epistola 3"
+      }
+    },
+    {
+      "id": "b07-e004",
+      "title": {
+        "la": "Liber VII, Epistola 4"
+      }
+    },
+    {
+      "id": "b07-e005",
+      "title": {
+        "la": "Liber VII, Epistola 5"
+      }
+    },
+    {
+      "id": "b07-e006",
+      "title": {
+        "la": "Liber VII, Epistola 6"
+      }
+    },
+    {
+      "id": "b07-e007",
+      "title": {
+        "la": "Liber VII, Epistola 7"
+      }
+    },
+    {
+      "id": "b07-e008",
+      "title": {
+        "la": "Liber VII, Epistola 8"
+      }
+    },
+    {
+      "id": "b07-e009",
+      "title": {
+        "la": "Liber VII, Epistola 9"
+      }
+    },
+    {
+      "id": "b07-e010",
+      "title": {
+        "la": "Liber VII, Epistola 10"
+      }
+    },
+    {
+      "id": "b07-e011",
+      "title": {
+        "la": "Liber VII, Epistola 11"
+      }
+    },
+    {
+      "id": "b07-e012",
+      "title": {
+        "la": "Liber VII, Epistola 12"
+      }
+    },
+    {
+      "id": "b07-e013",
+      "title": {
+        "la": "Liber VII, Epistola 13"
+      }
+    },
+    {
+      "id": "b07-e014",
+      "title": {
+        "la": "Liber VII, Epistola 14"
+      }
+    },
+    {
+      "id": "b07-e015",
+      "title": {
+        "la": "Liber VII, Epistola 15"
+      }
+    },
+    {
+      "id": "b07-e016",
+      "title": {
+        "la": "Liber VII, Epistola 16"
+      }
+    },
+    {
+      "id": "b07-e017",
+      "title": {
+        "la": "Liber VII, Epistola 17"
+      }
+    },
+    {
+      "id": "b07-e018",
+      "title": {
+        "la": "Liber VII, Epistola 18"
+      }
+    },
+    {
+      "id": "b07-e019",
+      "title": {
+        "la": "Liber VII, Epistola 19"
+      }
+    },
+    {
+      "id": "b07-e020",
+      "title": {
+        "la": "Liber VII, Epistola 20"
+      }
+    },
+    {
+      "id": "b07-e021",
+      "title": {
+        "la": "Liber VII, Epistola 21"
+      }
+    },
+    {
+      "id": "b07-e022",
+      "title": {
+        "la": "Liber VII, Epistola 22"
+      }
+    },
+    {
+      "id": "b07-e023",
+      "title": {
+        "la": "Liber VII, Epistola 23"
+      }
+    },
+    {
+      "id": "b07-e024",
+      "title": {
+        "la": "Liber VII, Epistola 24"
+      }
+    },
+    {
+      "id": "b07-e025",
+      "title": {
+        "la": "Liber VII, Epistola 25"
+      }
+    },
+    {
+      "id": "b07-e026",
+      "title": {
+        "la": "Liber VII, Epistola 26"
+      }
+    },
+    {
+      "id": "b07-e027",
+      "title": {
+        "la": "Liber VII, Epistola 27"
+      }
+    },
+    {
+      "id": "b07-e028",
+      "title": {
+        "la": "Liber VII, Epistola 28"
+      }
+    },
+    {
+      "id": "b07-e029",
+      "title": {
+        "la": "Liber VII, Epistola 29"
+      }
+    },
+    {
+      "id": "b07-e030",
+      "title": {
+        "la": "Liber VII, Epistola 30"
+      }
+    },
+    {
+      "id": "b07-e031",
+      "title": {
+        "la": "Liber VII, Epistola 31"
+      }
+    },
+    {
+      "id": "b07-e032",
+      "title": {
+        "la": "Liber VII, Epistola 32"
+      }
+    },
+    {
+      "id": "b07-e033",
+      "title": {
+        "la": "Liber VII, Epistola 33"
+      }
+    },
+    {
+      "id": "b07-e034",
+      "title": {
+        "la": "Liber VII, Epistola 34"
+      }
+    },
+    {
+      "id": "b07-e035",
+      "title": {
+        "la": "Liber VII, Epistola 35"
+      }
+    },
+    {
+      "id": "b07-e036",
+      "title": {
+        "la": "Liber VII, Epistola 36"
+      }
+    },
+    {
+      "id": "b07-e037",
+      "title": {
+        "la": "Liber VII, Epistola 37"
+      }
+    },
+    {
+      "id": "b07-e038",
+      "title": {
+        "la": "Liber VII, Epistola 38"
+      }
+    },
+    {
+      "id": "b07-e039",
+      "title": {
+        "la": "Liber VII, Epistola 39"
+      }
+    },
+    {
+      "id": "b07-e040",
+      "title": {
+        "la": "Liber VII, Epistola 40"
+      }
+    },
+    {
+      "id": "b07-e041",
+      "title": {
+        "la": "Liber VII, Epistola 41"
+      }
+    },
+    {
+      "id": "b07-e042",
+      "title": {
+        "la": "Liber VII, Epistola 42"
+      }
+    },
+    {
+      "id": "b07-e043",
+      "title": {
+        "la": "Liber VII, Epistola 43"
+      }
+    },
+    {
+      "id": "b07-e044",
+      "title": {
+        "la": "Liber VII, Epistola 44"
+      }
+    },
+    {
+      "id": "b07-e045",
+      "title": {
+        "la": "Liber VII, Epistola 45"
+      }
+    },
+    {
+      "id": "b08-e001",
+      "title": {
+        "la": "Liber VIII, Epistola 1"
+      }
+    },
+    {
+      "id": "b08-e002",
+      "title": {
+        "la": "Liber VIII, Epistola 2"
+      }
+    },
+    {
+      "id": "b08-e003",
+      "title": {
+        "la": "Liber VIII, Epistola 3"
+      }
+    },
+    {
+      "id": "b08-e004",
+      "title": {
+        "la": "Liber VIII, Epistola 4"
+      }
+    },
+    {
+      "id": "b08-e005",
+      "title": {
+        "la": "Liber VIII, Epistola 5"
+      }
+    },
+    {
+      "id": "b08-e006",
+      "title": {
+        "la": "Liber VIII, Epistola 6"
+      }
+    },
+    {
+      "id": "b08-e007",
+      "title": {
+        "la": "Liber VIII, Epistola 7"
+      }
+    },
+    {
+      "id": "b08-e008",
+      "title": {
+        "la": "Liber VIII, Epistola 8"
+      }
+    },
+    {
+      "id": "b08-e009",
+      "title": {
+        "la": "Liber VIII, Epistola 9"
+      }
+    },
+    {
+      "id": "b08-e010",
+      "title": {
+        "la": "Liber VIII, Epistola 10"
+      }
+    },
+    {
+      "id": "b08-e011",
+      "title": {
+        "la": "Liber VIII, Epistola 11"
+      }
+    },
+    {
+      "id": "b08-e012",
+      "title": {
+        "la": "Liber VIII, Epistola 12"
+      }
+    },
+    {
+      "id": "b08-e013",
+      "title": {
+        "la": "Liber VIII, Epistola 13"
+      }
+    },
+    {
+      "id": "b08-e014",
+      "title": {
+        "la": "Liber VIII, Epistola 14"
+      }
+    },
+    {
+      "id": "b08-e015",
+      "title": {
+        "la": "Liber VIII, Epistola 15"
+      }
+    },
+    {
+      "id": "b08-e016",
+      "title": {
+        "la": "Liber VIII, Epistola 16"
+      }
+    },
+    {
+      "id": "b08-e017",
+      "title": {
+        "la": "Liber VIII, Epistola 17"
+      }
+    },
+    {
+      "id": "b08-e018",
+      "title": {
+        "la": "Liber VIII, Epistola 18"
+      }
+    },
+    {
+      "id": "b08-e019",
+      "title": {
+        "la": "Liber VIII, Epistola 19"
+      }
+    },
+    {
+      "id": "b08-e020",
+      "title": {
+        "la": "Liber VIII, Epistola 20"
+      }
+    },
+    {
+      "id": "b08-e021",
+      "title": {
+        "la": "Liber VIII, Epistola 21"
+      }
+    },
+    {
+      "id": "b08-e022",
+      "title": {
+        "la": "Liber VIII, Epistola 22"
+      }
+    },
+    {
+      "id": "b08-e023",
+      "title": {
+        "la": "Liber VIII, Epistola 23"
+      }
+    },
+    {
+      "id": "b08-e024",
+      "title": {
+        "la": "Liber VIII, Epistola 24"
+      }
+    },
+    {
+      "id": "b08-e025",
+      "title": {
+        "la": "Liber VIII, Epistola 25"
+      }
+    },
+    {
+      "id": "b08-e026",
+      "title": {
+        "la": "Liber VIII, Epistola 26"
+      }
+    },
+    {
+      "id": "b08-e027",
+      "title": {
+        "la": "Liber VIII, Epistola 27"
+      }
+    },
+    {
+      "id": "b08-e028",
+      "title": {
+        "la": "Liber VIII, Epistola 28"
+      }
+    },
+    {
+      "id": "b08-e029",
+      "title": {
+        "la": "Liber VIII, Epistola 29"
+      }
+    },
+    {
+      "id": "b08-e030",
+      "title": {
+        "la": "Liber VIII, Epistola 30"
+      }
+    },
+    {
+      "id": "b08-e031",
+      "title": {
+        "la": "Liber VIII, Epistola 31"
+      }
+    },
+    {
+      "id": "b08-e032",
+      "title": {
+        "la": "Liber VIII, Epistola 32"
+      }
+    },
+    {
+      "id": "b08-e033",
+      "title": {
+        "la": "Liber VIII, Epistola 33"
+      }
+    },
+    {
+      "id": "b08-e034",
+      "title": {
+        "la": "Liber VIII, Epistola 34"
+      }
+    },
+    {
+      "id": "b08-e035",
+      "title": {
+        "la": "Liber VIII, Epistola 35"
+      }
+    },
+    {
+      "id": "b09-e001",
+      "title": {
+        "la": "Liber IX, Epistola 1"
+      }
+    },
+    {
+      "id": "b09-e002",
+      "title": {
+        "la": "Liber IX, Epistola 2"
+      }
+    },
+    {
+      "id": "b09-e003",
+      "title": {
+        "la": "Liber IX, Epistola 3"
+      }
+    },
+    {
+      "id": "b09-e004",
+      "title": {
+        "la": "Liber IX, Epistola 4"
+      }
+    },
+    {
+      "id": "b09-e005",
+      "title": {
+        "la": "Liber IX, Epistola 5"
+      }
+    },
+    {
+      "id": "b09-e006",
+      "title": {
+        "la": "Liber IX, Epistola 6"
+      }
+    },
+    {
+      "id": "b09-e007",
+      "title": {
+        "la": "Liber IX, Epistola 7"
+      }
+    },
+    {
+      "id": "b09-e008",
+      "title": {
+        "la": "Liber IX, Epistola 8"
+      }
+    },
+    {
+      "id": "b09-e009",
+      "title": {
+        "la": "Liber IX, Epistola 9"
+      }
+    },
+    {
+      "id": "b09-e010",
+      "title": {
+        "la": "Liber IX, Epistola 10"
+      }
+    },
+    {
+      "id": "b09-e011",
+      "title": {
+        "la": "Liber IX, Epistola 11"
+      }
+    },
+    {
+      "id": "b09-e012",
+      "title": {
+        "la": "Liber IX, Epistola 12"
+      }
+    },
+    {
+      "id": "b09-e013",
+      "title": {
+        "la": "Liber IX, Epistola 13"
+      }
+    },
+    {
+      "id": "b09-e014",
+      "title": {
+        "la": "Liber IX, Epistola 14"
+      }
+    },
+    {
+      "id": "b09-e015",
+      "title": {
+        "la": "Liber IX, Epistola 15"
+      }
+    },
+    {
+      "id": "b09-e016",
+      "title": {
+        "la": "Liber IX, Epistola 16"
+      }
+    },
+    {
+      "id": "b09-e017",
+      "title": {
+        "la": "Liber IX, Epistola 17"
+      }
+    },
+    {
+      "id": "b09-e018",
+      "title": {
+        "la": "Liber IX, Epistola 18"
+      }
+    },
+    {
+      "id": "b09-e019",
+      "title": {
+        "la": "Liber IX, Epistola 19"
+      }
+    },
+    {
+      "id": "b09-e020",
+      "title": {
+        "la": "Liber IX, Epistola 20"
+      }
+    },
+    {
+      "id": "b09-e021",
+      "title": {
+        "la": "Liber IX, Epistola 21"
+      }
+    },
+    {
+      "id": "b09-e022",
+      "title": {
+        "la": "Liber IX, Epistola 22"
+      }
+    },
+    {
+      "id": "b09-e023",
+      "title": {
+        "la": "Liber IX, Epistola 23"
+      }
+    },
+    {
+      "id": "b09-e024",
+      "title": {
+        "la": "Liber IX, Epistola 24"
+      }
+    },
+    {
+      "id": "b09-e025",
+      "title": {
+        "la": "Liber IX, Epistola 25"
+      }
+    },
+    {
+      "id": "b09-e026",
+      "title": {
+        "la": "Liber IX, Epistola 26"
+      }
+    },
+    {
+      "id": "b09-e027",
+      "title": {
+        "la": "Liber IX, Epistola 27"
+      }
+    },
+    {
+      "id": "b09-e028",
+      "title": {
+        "la": "Liber IX, Epistola 28"
+      }
+    },
+    {
+      "id": "b09-e029",
+      "title": {
+        "la": "Liber IX, Epistola 29"
+      }
+    },
+    {
+      "id": "b09-e030",
+      "title": {
+        "la": "Liber IX, Epistola 30"
+      }
+    },
+    {
+      "id": "b09-e031",
+      "title": {
+        "la": "Liber IX, Epistola 31"
+      }
+    },
+    {
+      "id": "b09-e032",
+      "title": {
+        "la": "Liber IX, Epistola 32"
+      }
+    },
+    {
+      "id": "b09-e033",
+      "title": {
+        "la": "Liber IX, Epistola 33"
+      }
+    },
+    {
+      "id": "b09-e034",
+      "title": {
+        "la": "Liber IX, Epistola 34"
+      }
+    },
+    {
+      "id": "b09-e035",
+      "title": {
+        "la": "Liber IX, Epistola 35"
+      }
+    },
+    {
+      "id": "b09-e036",
+      "title": {
+        "la": "Liber IX, Epistola 36"
+      }
+    },
+    {
+      "id": "b09-e037",
+      "title": {
+        "la": "Liber IX, Epistola 37"
+      }
+    },
+    {
+      "id": "b09-e038",
+      "title": {
+        "la": "Liber IX, Epistola 38"
+      }
+    },
+    {
+      "id": "b09-e039",
+      "title": {
+        "la": "Liber IX, Epistola 39"
+      }
+    },
+    {
+      "id": "b09-e040",
+      "title": {
+        "la": "Liber IX, Epistola 40"
+      }
+    },
+    {
+      "id": "b09-e041",
+      "title": {
+        "la": "Liber IX, Epistola 41"
+      }
+    },
+    {
+      "id": "b09-e042",
+      "title": {
+        "la": "Liber IX, Epistola 42"
+      }
+    },
+    {
+      "id": "b09-e043",
+      "title": {
+        "la": "Liber IX, Epistola 43"
+      }
+    },
+    {
+      "id": "b09-e044",
+      "title": {
+        "la": "Liber IX, Epistola 44"
+      }
+    },
+    {
+      "id": "b09-e045",
+      "title": {
+        "la": "Liber IX, Epistola 45"
+      }
+    },
+    {
+      "id": "b09-e046",
+      "title": {
+        "la": "Liber IX, Epistola 46"
+      }
+    },
+    {
+      "id": "b09-e047",
+      "title": {
+        "la": "Liber IX, Epistola 47"
+      }
+    },
+    {
+      "id": "b09-e048",
+      "title": {
+        "la": "Liber IX, Epistola 48"
+      }
+    },
+    {
+      "id": "b09-e049",
+      "title": {
+        "la": "Liber IX, Epistola 49"
+      }
+    },
+    {
+      "id": "b09-e050",
+      "title": {
+        "la": "Liber IX, Epistola 50"
+      }
+    },
+    {
+      "id": "b09-e051",
+      "title": {
+        "la": "Liber IX, Epistola 51"
+      }
+    },
+    {
+      "id": "b09-e052",
+      "title": {
+        "la": "Liber IX, Epistola 52"
+      }
+    },
+    {
+      "id": "b09-e053",
+      "title": {
+        "la": "Liber IX, Epistola 53"
+      }
+    },
+    {
+      "id": "b09-e054",
+      "title": {
+        "la": "Liber IX, Epistola 54"
+      }
+    },
+    {
+      "id": "b09-e055",
+      "title": {
+        "la": "Liber IX, Epistola 55"
+      }
+    },
+    {
+      "id": "b09-e056",
+      "title": {
+        "la": "Liber IX, Epistola 56"
+      }
+    },
+    {
+      "id": "b09-e057",
+      "title": {
+        "la": "Liber IX, Epistola 57"
+      }
+    },
+    {
+      "id": "b09-e058",
+      "title": {
+        "la": "Liber IX, Epistola 58"
+      }
+    },
+    {
+      "id": "b09-e059",
+      "title": {
+        "la": "Liber IX, Epistola 59"
+      }
+    },
+    {
+      "id": "b09-e060",
+      "title": {
+        "la": "Liber IX, Epistola 60"
+      }
+    },
+    {
+      "id": "b09-e061",
+      "title": {
+        "la": "Liber IX, Epistola 61"
+      }
+    },
+    {
+      "id": "b09-e062",
+      "title": {
+        "la": "Liber IX, Epistola 62"
+      }
+    },
+    {
+      "id": "b09-e063",
+      "title": {
+        "la": "Liber IX, Epistola 63"
+      }
+    },
+    {
+      "id": "b09-e064",
+      "title": {
+        "la": "Liber IX, Epistola 64"
+      }
+    },
+    {
+      "id": "b09-e065",
+      "title": {
+        "la": "Liber IX, Epistola 65"
+      }
+    },
+    {
+      "id": "b09-e066",
+      "title": {
+        "la": "Liber IX, Epistola 66"
+      }
+    },
+    {
+      "id": "b09-e067",
+      "title": {
+        "la": "Liber IX, Epistola 67"
+      }
+    },
+    {
+      "id": "b09-e068",
+      "title": {
+        "la": "Liber IX, Epistola 68"
+      }
+    },
+    {
+      "id": "b09-e069",
+      "title": {
+        "la": "Liber IX, Epistola 69"
+      }
+    },
+    {
+      "id": "b09-e070",
+      "title": {
+        "la": "Liber IX, Epistola 70"
+      }
+    },
+    {
+      "id": "b09-e071",
+      "title": {
+        "la": "Liber IX, Epistola 71"
+      }
+    },
+    {
+      "id": "b09-e072",
+      "title": {
+        "la": "Liber IX, Epistola 72"
+      }
+    },
+    {
+      "id": "b09-e073",
+      "title": {
+        "la": "Liber IX, Epistola 73"
+      }
+    },
+    {
+      "id": "b09-e074",
+      "title": {
+        "la": "Liber IX, Epistola 74"
+      }
+    },
+    {
+      "id": "b09-e075",
+      "title": {
+        "la": "Liber IX, Epistola 75"
+      }
+    },
+    {
+      "id": "b09-e076",
+      "title": {
+        "la": "Liber IX, Epistola 76"
+      }
+    },
+    {
+      "id": "b09-e077",
+      "title": {
+        "la": "Liber IX, Epistola 77"
+      }
+    },
+    {
+      "id": "b09-e078",
+      "title": {
+        "la": "Liber IX, Epistola 78"
+      }
+    },
+    {
+      "id": "b09-e079",
+      "title": {
+        "la": "Liber IX, Epistola 79"
+      }
+    },
+    {
+      "id": "b09-e080",
+      "title": {
+        "la": "Liber IX, Epistola 80"
+      }
+    },
+    {
+      "id": "b09-e081",
+      "title": {
+        "la": "Liber IX, Epistola 81"
+      }
+    },
+    {
+      "id": "b09-e082",
+      "title": {
+        "la": "Liber IX, Epistola 82"
+      }
+    },
+    {
+      "id": "b09-e083",
+      "title": {
+        "la": "Liber IX, Epistola 83"
+      }
+    },
+    {
+      "id": "b09-e084",
+      "title": {
+        "la": "Liber IX, Epistola 84"
+      }
+    },
+    {
+      "id": "b09-e085",
+      "title": {
+        "la": "Liber IX, Epistola 85"
+      }
+    },
+    {
+      "id": "b09-e086",
+      "title": {
+        "la": "Liber IX, Epistola 86"
+      }
+    },
+    {
+      "id": "b09-e087",
+      "title": {
+        "la": "Liber IX, Epistola 87"
+      }
+    },
+    {
+      "id": "b09-e088",
+      "title": {
+        "la": "Liber IX, Epistola 88"
+      }
+    },
+    {
+      "id": "b09-e089",
+      "title": {
+        "la": "Liber IX, Epistola 89"
+      }
+    },
+    {
+      "id": "b09-e090",
+      "title": {
+        "la": "Liber IX, Epistola 90"
+      }
+    },
+    {
+      "id": "b09-e091",
+      "title": {
+        "la": "Liber IX, Epistola 91"
+      }
+    },
+    {
+      "id": "b09-e092",
+      "title": {
+        "la": "Liber IX, Epistola 92"
+      }
+    },
+    {
+      "id": "b09-e093",
+      "title": {
+        "la": "Liber IX, Epistola 93"
+      }
+    },
+    {
+      "id": "b09-e094",
+      "title": {
+        "la": "Liber IX, Epistola 94"
+      }
+    },
+    {
+      "id": "b09-e095",
+      "title": {
+        "la": "Liber IX, Epistola 95"
+      }
+    },
+    {
+      "id": "b09-e096",
+      "title": {
+        "la": "Liber IX, Epistola 96"
+      }
+    },
+    {
+      "id": "b09-e097",
+      "title": {
+        "la": "Liber IX, Epistola 97"
+      }
+    },
+    {
+      "id": "b09-e098",
+      "title": {
+        "la": "Liber IX, Epistola 98"
+      }
+    },
+    {
+      "id": "b09-e099",
+      "title": {
+        "la": "Liber IX, Epistola 99"
+      }
+    },
+    {
+      "id": "b09-e100",
+      "title": {
+        "la": "Liber IX, Epistola 100"
+      }
+    },
+    {
+      "id": "b09-e101",
+      "title": {
+        "la": "Liber IX, Epistola 101"
+      }
+    },
+    {
+      "id": "b09-e102",
+      "title": {
+        "la": "Liber IX, Epistola 102"
+      }
+    },
+    {
+      "id": "b09-e103",
+      "title": {
+        "la": "Liber IX, Epistola 103"
+      }
+    },
+    {
+      "id": "b09-e104",
+      "title": {
+        "la": "Liber IX, Epistola 104"
+      }
+    },
+    {
+      "id": "b09-e105",
+      "title": {
+        "la": "Liber IX, Epistola 105"
+      }
+    },
+    {
+      "id": "b09-e106",
+      "title": {
+        "la": "Liber IX, Epistola 106"
+      }
+    },
+    {
+      "id": "b09-e107",
+      "title": {
+        "la": "Liber IX, Epistola 107"
+      }
+    },
+    {
+      "id": "b09-e108",
+      "title": {
+        "la": "Liber IX, Epistola 108"
+      }
+    },
+    {
+      "id": "b09-e109",
+      "title": {
+        "la": "Liber IX, Epistola 109"
+      }
+    },
+    {
+      "id": "b09-e110",
+      "title": {
+        "la": "Liber IX, Epistola 110"
+      }
+    },
+    {
+      "id": "b09-e111",
+      "title": {
+        "la": "Liber IX, Epistola 111"
+      }
+    },
+    {
+      "id": "b09-e112",
+      "title": {
+        "la": "Liber IX, Epistola 112"
+      }
+    },
+    {
+      "id": "b09-e113",
+      "title": {
+        "la": "Liber IX, Epistola 113"
+      }
+    },
+    {
+      "id": "b09-e114",
+      "title": {
+        "la": "Liber IX, Epistola 114"
+      }
+    },
+    {
+      "id": "b09-e115",
+      "title": {
+        "la": "Liber IX, Epistola 115"
+      }
+    },
+    {
+      "id": "b09-e116",
+      "title": {
+        "la": "Liber IX, Epistola 116"
+      }
+    },
+    {
+      "id": "b09-e117",
+      "title": {
+        "la": "Liber IX, Epistola 117"
+      }
+    },
+    {
+      "id": "b09-e118",
+      "title": {
+        "la": "Liber IX, Epistola 118"
+      }
+    },
+    {
+      "id": "b09-e119",
+      "title": {
+        "la": "Liber IX, Epistola 119"
+      }
+    },
+    {
+      "id": "b09-e120",
+      "title": {
+        "la": "Liber IX, Epistola 120"
+      }
+    },
+    {
+      "id": "b09-e121",
+      "title": {
+        "la": "Liber IX, Epistola 121"
+      }
+    },
+    {
+      "id": "b09-e122",
+      "title": {
+        "la": "Liber IX, Epistola 122"
+      }
+    },
+    {
+      "id": "b09-e123",
+      "title": {
+        "la": "Liber IX, Epistola 123"
+      }
+    },
+    {
+      "id": "b09-e124",
+      "title": {
+        "la": "Liber IX, Epistola 124"
+      }
+    },
+    {
+      "id": "b09-e125",
+      "title": {
+        "la": "Liber IX, Epistola 125"
+      }
+    },
+    {
+      "id": "b09-e126",
+      "title": {
+        "la": "Liber IX, Epistola 126"
+      }
+    },
+    {
+      "id": "b09-e127",
+      "title": {
+        "la": "Liber IX, Epistola 127"
+      }
+    },
+    {
+      "id": "b10-e001",
+      "title": {
+        "la": "Liber X, Epistola 1"
+      }
+    },
+    {
+      "id": "b10-e002",
+      "title": {
+        "la": "Liber X, Epistola 2"
+      }
+    },
+    {
+      "id": "b10-e003",
+      "title": {
+        "la": "Liber X, Epistola 3"
+      }
+    },
+    {
+      "id": "b10-e004",
+      "title": {
+        "la": "Liber X, Epistola 4"
+      }
+    },
+    {
+      "id": "b10-e005",
+      "title": {
+        "la": "Liber X, Epistola 5"
+      }
+    },
+    {
+      "id": "b10-e006",
+      "title": {
+        "la": "Liber X, Epistola 6"
+      }
+    },
+    {
+      "id": "b10-e007",
+      "title": {
+        "la": "Liber X, Epistola 7"
+      }
+    },
+    {
+      "id": "b10-e008",
+      "title": {
+        "la": "Liber X, Epistola 8"
+      }
+    },
+    {
+      "id": "b10-e009",
+      "title": {
+        "la": "Liber X, Epistola 9"
+      }
+    },
+    {
+      "id": "b10-e010",
+      "title": {
+        "la": "Liber X, Epistola 10"
+      }
+    },
+    {
+      "id": "b10-e011",
+      "title": {
+        "la": "Liber X, Epistola 11"
+      }
+    },
+    {
+      "id": "b10-e012",
+      "title": {
+        "la": "Liber X, Epistola 12"
+      }
+    },
+    {
+      "id": "b10-e013",
+      "title": {
+        "la": "Liber X, Epistola 13"
+      }
+    },
+    {
+      "id": "b10-e014",
+      "title": {
+        "la": "Liber X, Epistola 14"
+      }
+    },
+    {
+      "id": "b10-e015",
+      "title": {
+        "la": "Liber X, Epistola 15"
+      }
+    },
+    {
+      "id": "b10-e016",
+      "title": {
+        "la": "Liber X, Epistola 16"
+      }
+    },
+    {
+      "id": "b10-e017",
+      "title": {
+        "la": "Liber X, Epistola 17"
+      }
+    },
+    {
+      "id": "b10-e018",
+      "title": {
+        "la": "Liber X, Epistola 18"
+      }
+    },
+    {
+      "id": "b10-e019",
+      "title": {
+        "la": "Liber X, Epistola 19"
+      }
+    },
+    {
+      "id": "b10-e020",
+      "title": {
+        "la": "Liber X, Epistola 20"
+      }
+    },
+    {
+      "id": "b10-e021",
+      "title": {
+        "la": "Liber X, Epistola 21"
+      }
+    },
+    {
+      "id": "b10-e022",
+      "title": {
+        "la": "Liber X, Epistola 22"
+      }
+    },
+    {
+      "id": "b10-e023",
+      "title": {
+        "la": "Liber X, Epistola 23"
+      }
+    },
+    {
+      "id": "b10-e024",
+      "title": {
+        "la": "Liber X, Epistola 24"
+      }
+    },
+    {
+      "id": "b10-e025",
+      "title": {
+        "la": "Liber X, Epistola 25"
+      }
+    },
+    {
+      "id": "b10-e026",
+      "title": {
+        "la": "Liber X, Epistola 26"
+      }
+    },
+    {
+      "id": "b10-e027",
+      "title": {
+        "la": "Liber X, Epistola 27"
+      }
+    },
+    {
+      "id": "b10-e028",
+      "title": {
+        "la": "Liber X, Epistola 28"
+      }
+    },
+    {
+      "id": "b10-e029",
+      "title": {
+        "la": "Liber X, Epistola 29"
+      }
+    },
+    {
+      "id": "b10-e030",
+      "title": {
+        "la": "Liber X, Epistola 30"
+      }
+    },
+    {
+      "id": "b10-e031",
+      "title": {
+        "la": "Liber X, Epistola 31"
+      }
+    },
+    {
+      "id": "b10-e032",
+      "title": {
+        "la": "Liber X, Epistola 32"
+      }
+    },
+    {
+      "id": "b10-e033",
+      "title": {
+        "la": "Liber X, Epistola 33"
+      }
+    },
+    {
+      "id": "b10-e034",
+      "title": {
+        "la": "Liber X, Epistola 34"
+      }
+    },
+    {
+      "id": "b10-e035",
+      "title": {
+        "la": "Liber X, Epistola 35"
+      }
+    },
+    {
+      "id": "b10-e036",
+      "title": {
+        "la": "Liber X, Epistola 36"
+      }
+    },
+    {
+      "id": "b10-e037",
+      "title": {
+        "la": "Liber X, Epistola 37"
+      }
+    },
+    {
+      "id": "b10-e038",
+      "title": {
+        "la": "Liber X, Epistola 38"
+      }
+    },
+    {
+      "id": "b10-e039",
+      "title": {
+        "la": "Liber X, Epistola 39"
+      }
+    },
+    {
+      "id": "b10-e040",
+      "title": {
+        "la": "Liber X, Epistola 40"
+      }
+    },
+    {
+      "id": "b10-e041",
+      "title": {
+        "la": "Liber X, Epistola 41"
+      }
+    },
+    {
+      "id": "b10-e042",
+      "title": {
+        "la": "Liber X, Epistola 42"
+      }
+    },
+    {
+      "id": "b10-e043",
+      "title": {
+        "la": "Liber X, Epistola 43"
+      }
+    },
+    {
+      "id": "b10-e044",
+      "title": {
+        "la": "Liber X, Epistola 44"
+      }
+    },
+    {
+      "id": "b10-e045",
+      "title": {
+        "la": "Liber X, Epistola 45"
+      }
+    },
+    {
+      "id": "b10-e046",
+      "title": {
+        "la": "Liber X, Epistola 46"
+      }
+    },
+    {
+      "id": "b10-e047",
+      "title": {
+        "la": "Liber X, Epistola 47"
+      }
+    },
+    {
+      "id": "b10-e048",
+      "title": {
+        "la": "Liber X, Epistola 48"
+      }
+    },
+    {
+      "id": "b10-e049",
+      "title": {
+        "la": "Liber X, Epistola 49"
+      }
+    },
+    {
+      "id": "b10-e050",
+      "title": {
+        "la": "Liber X, Epistola 50"
+      }
+    },
+    {
+      "id": "b10-e051",
+      "title": {
+        "la": "Liber X, Epistola 51"
+      }
+    },
+    {
+      "id": "b10-e052",
+      "title": {
+        "la": "Liber X, Epistola 52"
+      }
+    },
+    {
+      "id": "b10-e053",
+      "title": {
+        "la": "Liber X, Epistola 53"
+      }
+    },
+    {
+      "id": "b10-e054",
+      "title": {
+        "la": "Liber X, Epistola 54"
+      }
+    },
+    {
+      "id": "b10-e055",
+      "title": {
+        "la": "Liber X, Epistola 55"
+      }
+    },
+    {
+      "id": "b10-e056",
+      "title": {
+        "la": "Liber X, Epistola 56"
+      }
+    },
+    {
+      "id": "b10-e057",
+      "title": {
+        "la": "Liber X, Epistola 57"
+      }
+    },
+    {
+      "id": "b10-e058",
+      "title": {
+        "la": "Liber X, Epistola 58"
+      }
+    },
+    {
+      "id": "b10-e059",
+      "title": {
+        "la": "Liber X, Epistola 59"
+      }
+    },
+    {
+      "id": "b10-e060",
+      "title": {
+        "la": "Liber X, Epistola 60"
+      }
+    },
+    {
+      "id": "b10-e061",
+      "title": {
+        "la": "Liber X, Epistola 61"
+      }
+    },
+    {
+      "id": "b10-e062",
+      "title": {
+        "la": "Liber X, Epistola 62"
+      }
+    },
+    {
+      "id": "b10-e063",
+      "title": {
+        "la": "Liber X, Epistola 63"
+      }
+    },
+    {
+      "id": "b10-e064",
+      "title": {
+        "la": "Liber X, Epistola 64"
+      }
+    },
+    {
+      "id": "b10-e065",
+      "title": {
+        "la": "Liber X, Epistola 65"
+      }
+    },
+    {
+      "id": "b10-e066",
+      "title": {
+        "la": "Liber X, Epistola 66"
+      }
+    },
+    {
+      "id": "b10-e067",
+      "title": {
+        "la": "Liber X, Epistola 67"
+      }
+    },
+    {
+      "id": "b10-e068",
+      "title": {
+        "la": "Liber X, Epistola 68"
+      }
+    },
+    {
+      "id": "b11-e001",
+      "title": {
+        "la": "Liber XI, Epistola 1"
+      }
+    },
+    {
+      "id": "b11-e002",
+      "title": {
+        "la": "Liber XI, Epistola 2"
+      }
+    },
+    {
+      "id": "b11-e003",
+      "title": {
+        "la": "Liber XI, Epistola 3"
+      }
+    },
+    {
+      "id": "b11-e004",
+      "title": {
+        "la": "Liber XI, Epistola 4"
+      }
+    },
+    {
+      "id": "b11-e005",
+      "title": {
+        "la": "Liber XI, Epistola 5"
+      }
+    },
+    {
+      "id": "b11-e006",
+      "title": {
+        "la": "Liber XI, Epistola 6"
+      }
+    },
+    {
+      "id": "b11-e007",
+      "title": {
+        "la": "Liber XI, Epistola 7"
+      }
+    },
+    {
+      "id": "b11-e008",
+      "title": {
+        "la": "Liber XI, Epistola 8"
+      }
+    },
+    {
+      "id": "b11-e009",
+      "title": {
+        "la": "Liber XI, Epistola 9"
+      }
+    },
+    {
+      "id": "b11-e010",
+      "title": {
+        "la": "Liber XI, Epistola 10"
+      }
+    },
+    {
+      "id": "b11-e011",
+      "title": {
+        "la": "Liber XI, Epistola 11"
+      }
+    },
+    {
+      "id": "b11-e012",
+      "title": {
+        "la": "Liber XI, Epistola 12"
+      }
+    },
+    {
+      "id": "b11-e013",
+      "title": {
+        "la": "Liber XI, Epistola 13"
+      }
+    },
+    {
+      "id": "b11-e014",
+      "title": {
+        "la": "Liber XI, Epistola 14"
+      }
+    },
+    {
+      "id": "b11-e015",
+      "title": {
+        "la": "Liber XI, Epistola 15"
+      }
+    },
+    {
+      "id": "b11-e016",
+      "title": {
+        "la": "Liber XI, Epistola 16"
+      }
+    },
+    {
+      "id": "b11-e017",
+      "title": {
+        "la": "Liber XI, Epistola 17"
+      }
+    },
+    {
+      "id": "b11-e018",
+      "title": {
+        "la": "Liber XI, Epistola 18"
+      }
+    },
+    {
+      "id": "b11-e019",
+      "title": {
+        "la": "Liber XI, Epistola 19"
+      }
+    },
+    {
+      "id": "b11-e020",
+      "title": {
+        "la": "Liber XI, Epistola 20"
+      }
+    },
+    {
+      "id": "b11-e021",
+      "title": {
+        "la": "Liber XI, Epistola 21"
+      }
+    },
+    {
+      "id": "b11-e022",
+      "title": {
+        "la": "Liber XI, Epistola 22"
+      }
+    },
+    {
+      "id": "b11-e023",
+      "title": {
+        "la": "Liber XI, Epistola 23"
+      }
+    },
+    {
+      "id": "b11-e024",
+      "title": {
+        "la": "Liber XI, Epistola 24"
+      }
+    },
+    {
+      "id": "b11-e025",
+      "title": {
+        "la": "Liber XI, Epistola 25"
+      }
+    },
+    {
+      "id": "b11-e026",
+      "title": {
+        "la": "Liber XI, Epistola 26"
+      }
+    },
+    {
+      "id": "b11-e027",
+      "title": {
+        "la": "Liber XI, Epistola 27"
+      }
+    },
+    {
+      "id": "b11-e028",
+      "title": {
+        "la": "Liber XI, Epistola 28"
+      }
+    },
+    {
+      "id": "b11-e029",
+      "title": {
+        "la": "Liber XI, Epistola 29"
+      }
+    },
+    {
+      "id": "b11-e030",
+      "title": {
+        "la": "Liber XI, Epistola 30"
+      }
+    },
+    {
+      "id": "b11-e031",
+      "title": {
+        "la": "Liber XI, Epistola 31"
+      }
+    },
+    {
+      "id": "b11-e032",
+      "title": {
+        "la": "Liber XI, Epistola 32"
+      }
+    },
+    {
+      "id": "b11-e033",
+      "title": {
+        "la": "Liber XI, Epistola 33"
+      }
+    },
+    {
+      "id": "b11-e034",
+      "title": {
+        "la": "Liber XI, Epistola 34"
+      }
+    },
+    {
+      "id": "b11-e035",
+      "title": {
+        "la": "Liber XI, Epistola 35"
+      }
+    },
+    {
+      "id": "b11-e036",
+      "title": {
+        "la": "Liber XI, Epistola 36"
+      }
+    },
+    {
+      "id": "b11-e037",
+      "title": {
+        "la": "Liber XI, Epistola 37"
+      }
+    },
+    {
+      "id": "b11-e038",
+      "title": {
+        "la": "Liber XI, Epistola 38"
+      }
+    },
+    {
+      "id": "b11-e039",
+      "title": {
+        "la": "Liber XI, Epistola 39"
+      }
+    },
+    {
+      "id": "b11-e040",
+      "title": {
+        "la": "Liber XI, Epistola 40"
+      }
+    },
+    {
+      "id": "b11-e041",
+      "title": {
+        "la": "Liber XI, Epistola 41"
+      }
+    },
+    {
+      "id": "b11-e042",
+      "title": {
+        "la": "Liber XI, Epistola 42"
+      }
+    },
+    {
+      "id": "b11-e043",
+      "title": {
+        "la": "Liber XI, Epistola 43"
+      }
+    },
+    {
+      "id": "b11-e044",
+      "title": {
+        "la": "Liber XI, Epistola 44"
+      }
+    },
+    {
+      "id": "b11-e045",
+      "title": {
+        "la": "Liber XI, Epistola 45"
+      }
+    },
+    {
+      "id": "b11-e046",
+      "title": {
+        "la": "Liber XI, Epistola 46"
+      }
+    },
+    {
+      "id": "b11-e047",
+      "title": {
+        "la": "Liber XI, Epistola 47"
+      }
+    },
+    {
+      "id": "b11-e048",
+      "title": {
+        "la": "Liber XI, Epistola 48"
+      }
+    },
+    {
+      "id": "b11-e049",
+      "title": {
+        "la": "Liber XI, Epistola 49"
+      }
+    },
+    {
+      "id": "b11-e050",
+      "title": {
+        "la": "Liber XI, Epistola 50"
+      }
+    },
+    {
+      "id": "b11-e051",
+      "title": {
+        "la": "Liber XI, Epistola 51"
+      }
+    },
+    {
+      "id": "b11-e052",
+      "title": {
+        "la": "Liber XI, Epistola 52"
+      }
+    },
+    {
+      "id": "b11-e053",
+      "title": {
+        "la": "Liber XI, Epistola 53"
+      }
+    },
+    {
+      "id": "b11-e054",
+      "title": {
+        "la": "Liber XI, Epistola 54"
+      }
+    },
+    {
+      "id": "b11-e055",
+      "title": {
+        "la": "Liber XI, Epistola 55"
+      }
+    },
+    {
+      "id": "b11-e056",
+      "title": {
+        "la": "Liber XI, Epistola 56"
+      }
+    },
+    {
+      "id": "b11-e057",
+      "title": {
+        "la": "Liber XI, Epistola 57"
+      }
+    },
+    {
+      "id": "b11-e058",
+      "title": {
+        "la": "Liber XI, Epistola 58"
+      }
+    },
+    {
+      "id": "b11-e059",
+      "title": {
+        "la": "Liber XI, Epistola 59"
+      }
+    },
+    {
+      "id": "b11-e060",
+      "title": {
+        "la": "Liber XI, Epistola 60"
+      }
+    },
+    {
+      "id": "b11-e061",
+      "title": {
+        "la": "Liber XI, Epistola 61"
+      }
+    },
+    {
+      "id": "b11-e062",
+      "title": {
+        "la": "Liber XI, Epistola 62"
+      }
+    },
+    {
+      "id": "b11-e063",
+      "title": {
+        "la": "Liber XI, Epistola 63"
+      }
+    },
+    {
+      "id": "b11-e064",
+      "title": {
+        "la": "Liber XI, Epistola 64"
+      }
+    },
+    {
+      "id": "b11-e065",
+      "title": {
+        "la": "Liber XI, Epistola 65"
+      }
+    },
+    {
+      "id": "b11-e066",
+      "title": {
+        "la": "Liber XI, Epistola 66"
+      }
+    },
+    {
+      "id": "b11-e067",
+      "title": {
+        "la": "Liber XI, Epistola 67"
+      }
+    },
+    {
+      "id": "b11-e068",
+      "title": {
+        "la": "Liber XI, Epistola 68"
+      }
+    },
+    {
+      "id": "b11-e069",
+      "title": {
+        "la": "Liber XI, Epistola 69"
+      }
+    },
+    {
+      "id": "b11-e070",
+      "title": {
+        "la": "Liber XI, Epistola 70"
+      }
+    },
+    {
+      "id": "b11-e071",
+      "title": {
+        "la": "Liber XI, Epistola 71"
+      }
+    },
+    {
+      "id": "b11-e072",
+      "title": {
+        "la": "Liber XI, Epistola 72"
+      }
+    },
+    {
+      "id": "b11-e073",
+      "title": {
+        "la": "Liber XI, Epistola 73"
+      }
+    },
+    {
+      "id": "b11-e074",
+      "title": {
+        "la": "Liber XI, Epistola 74"
+      }
+    },
+    {
+      "id": "b11-e075",
+      "title": {
+        "la": "Liber XI, Epistola 75"
+      }
+    },
+    {
+      "id": "b11-e076",
+      "title": {
+        "la": "Liber XI, Epistola 76"
+      }
+    },
+    {
+      "id": "b11-e077",
+      "title": {
+        "la": "Liber XI, Epistola 77"
+      }
+    },
+    {
+      "id": "b11-e078",
+      "title": {
+        "la": "Liber XI, Epistola 78"
+      }
+    },
+    {
+      "id": "b12-e001",
+      "title": {
+        "la": "Liber XII, Epistola 1"
+      }
+    },
+    {
+      "id": "b12-e002",
+      "title": {
+        "la": "Liber XII, Epistola 2"
+      }
+    },
+    {
+      "id": "b12-e003",
+      "title": {
+        "la": "Liber XII, Epistola 3"
+      }
+    },
+    {
+      "id": "b12-e004",
+      "title": {
+        "la": "Liber XII, Epistola 4"
+      }
+    },
+    {
+      "id": "b12-e005",
+      "title": {
+        "la": "Liber XII, Epistola 5"
+      }
+    },
+    {
+      "id": "b12-e006",
+      "title": {
+        "la": "Liber XII, Epistola 6"
+      }
+    },
+    {
+      "id": "b12-e007",
+      "title": {
+        "la": "Liber XII, Epistola 7"
+      }
+    },
+    {
+      "id": "b12-e008",
+      "title": {
+        "la": "Liber XII, Epistola 8"
+      }
+    },
+    {
+      "id": "b12-e009",
+      "title": {
+        "la": "Liber XII, Epistola 9"
+      }
+    },
+    {
+      "id": "b12-e010",
+      "title": {
+        "la": "Liber XII, Epistola 10"
+      }
+    },
+    {
+      "id": "b12-e011",
+      "title": {
+        "la": "Liber XII, Epistola 11"
+      }
+    },
+    {
+      "id": "b12-e012",
+      "title": {
+        "la": "Liber XII, Epistola 12"
+      }
+    },
+    {
+      "id": "b12-e013",
+      "title": {
+        "la": "Liber XII, Epistola 13"
+      }
+    },
+    {
+      "id": "b12-e014",
+      "title": {
+        "la": "Liber XII, Epistola 14"
+      }
+    },
+    {
+      "id": "b12-e015",
+      "title": {
+        "la": "Liber XII, Epistola 15"
+      }
+    },
+    {
+      "id": "b12-e016",
+      "title": {
+        "la": "Liber XII, Epistola 16"
+      }
+    },
+    {
+      "id": "b12-e017",
+      "title": {
+        "la": "Liber XII, Epistola 17"
+      }
+    },
+    {
+      "id": "b12-e018",
+      "title": {
+        "la": "Liber XII, Epistola 18"
+      }
+    },
+    {
+      "id": "b12-e019",
+      "title": {
+        "la": "Liber XII, Epistola 19"
+      }
+    },
+    {
+      "id": "b12-e020",
+      "title": {
+        "la": "Liber XII, Epistola 20"
+      }
+    },
+    {
+      "id": "b12-e021",
+      "title": {
+        "la": "Liber XII, Epistola 21"
+      }
+    },
+    {
+      "id": "b12-e022",
+      "title": {
+        "la": "Liber XII, Epistola 22"
+      }
+    },
+    {
+      "id": "b12-e023",
+      "title": {
+        "la": "Liber XII, Epistola 23"
+      }
+    },
+    {
+      "id": "b12-e024",
+      "title": {
+        "la": "Liber XII, Epistola 24"
+      }
+    },
+    {
+      "id": "b12-e025",
+      "title": {
+        "la": "Liber XII, Epistola 25"
+      }
+    },
+    {
+      "id": "b12-e026",
+      "title": {
+        "la": "Liber XII, Epistola 26"
+      }
+    },
+    {
+      "id": "b12-e027",
+      "title": {
+        "la": "Liber XII, Epistola 27"
+      }
+    },
+    {
+      "id": "b12-e028",
+      "title": {
+        "la": "Liber XII, Epistola 28"
+      }
+    },
+    {
+      "id": "b12-e029",
+      "title": {
+        "la": "Liber XII, Epistola 29"
+      }
+    },
+    {
+      "id": "b12-e030",
+      "title": {
+        "la": "Liber XII, Epistola 30"
+      }
+    },
+    {
+      "id": "b12-e031",
+      "title": {
+        "la": "Liber XII, Epistola 31"
+      }
+    },
+    {
+      "id": "b12-e032",
+      "title": {
+        "la": "Liber XII, Epistola 32"
+      }
+    },
+    {
+      "id": "b12-e033",
+      "title": {
+        "la": "Liber XII, Epistola 33"
+      }
+    },
+    {
+      "id": "b12-e034",
+      "title": {
+        "la": "Liber XII, Epistola 34"
+      }
+    },
+    {
+      "id": "b12-e035",
+      "title": {
+        "la": "Liber XII, Epistola 35"
+      }
+    },
+    {
+      "id": "b12-e036",
+      "title": {
+        "la": "Liber XII, Epistola 36"
+      }
+    },
+    {
+      "id": "b12-e037",
+      "title": {
+        "la": "Liber XII, Epistola 37"
+      }
+    },
+    {
+      "id": "b12-e038",
+      "title": {
+        "la": "Liber XII, Epistola 38"
+      }
+    },
+    {
+      "id": "b12-e039",
+      "title": {
+        "la": "Liber XII, Epistola 39"
+      }
+    },
+    {
+      "id": "b12-e040",
+      "title": {
+        "la": "Liber XII, Epistola 40"
+      }
+    },
+    {
+      "id": "b12-e041",
+      "title": {
+        "la": "Liber XII, Epistola 41"
+      }
+    },
+    {
+      "id": "b12-e042",
+      "title": {
+        "la": "Liber XII, Epistola 42"
+      }
+    },
+    {
+      "id": "b12-e043",
+      "title": {
+        "la": "Liber XII, Epistola 43"
+      }
+    },
+    {
+      "id": "b12-e044",
+      "title": {
+        "la": "Liber XII, Epistola 44"
+      }
+    },
+    {
+      "id": "b12-e045",
+      "title": {
+        "la": "Liber XII, Epistola 45"
+      }
+    },
+    {
+      "id": "b12-e046",
+      "title": {
+        "la": "Liber XII, Epistola 46"
+      }
+    },
+    {
+      "id": "b12-e047",
+      "title": {
+        "la": "Liber XII, Epistola 47"
+      }
+    },
+    {
+      "id": "b12-e048",
+      "title": {
+        "la": "Liber XII, Epistola 48"
+      }
+    },
+    {
+      "id": "b12-e049",
+      "title": {
+        "la": "Liber XII, Epistola 49"
+      }
+    },
+    {
+      "id": "b12-e050",
+      "title": {
+        "la": "Liber XII, Epistola 50"
+      }
+    },
+    {
+      "id": "b13-e001",
+      "title": {
+        "la": "Liber XIII, Epistola 1"
+      }
+    },
+    {
+      "id": "b13-e002",
+      "title": {
+        "la": "Liber XIII, Epistola 2"
+      }
+    },
+    {
+      "id": "b13-e003",
+      "title": {
+        "la": "Liber XIII, Epistola 3"
+      }
+    },
+    {
+      "id": "b13-e004",
+      "title": {
+        "la": "Liber XIII, Epistola 4"
+      }
+    },
+    {
+      "id": "b13-e005",
+      "title": {
+        "la": "Liber XIII, Epistola 5"
+      }
+    },
+    {
+      "id": "b13-e006",
+      "title": {
+        "la": "Liber XIII, Epistola 6"
+      }
+    },
+    {
+      "id": "b13-e007",
+      "title": {
+        "la": "Liber XIII, Epistola 7"
+      }
+    },
+    {
+      "id": "b13-e008",
+      "title": {
+        "la": "Liber XIII, Epistola 8"
+      }
+    },
+    {
+      "id": "b13-e009",
+      "title": {
+        "la": "Liber XIII, Epistola 9"
+      }
+    },
+    {
+      "id": "b13-e010",
+      "title": {
+        "la": "Liber XIII, Epistola 10"
+      }
+    },
+    {
+      "id": "b13-e011",
+      "title": {
+        "la": "Liber XIII, Epistola 11"
+      }
+    },
+    {
+      "id": "b13-e012",
+      "title": {
+        "la": "Liber XIII, Epistola 12"
+      }
+    },
+    {
+      "id": "b13-e013",
+      "title": {
+        "la": "Liber XIII, Epistola 13"
+      }
+    },
+    {
+      "id": "b13-e014",
+      "title": {
+        "la": "Liber XIII, Epistola 14"
+      }
+    },
+    {
+      "id": "b13-e015",
+      "title": {
+        "la": "Liber XIII, Epistola 15"
+      }
+    },
+    {
+      "id": "b13-e016",
+      "title": {
+        "la": "Liber XIII, Epistola 16"
+      }
+    },
+    {
+      "id": "b13-e017",
+      "title": {
+        "la": "Liber XIII, Epistola 17"
+      }
+    },
+    {
+      "id": "b13-e018",
+      "title": {
+        "la": "Liber XIII, Epistola 18"
+      }
+    },
+    {
+      "id": "b13-e019",
+      "title": {
+        "la": "Liber XIII, Epistola 19"
+      }
+    },
+    {
+      "id": "b13-e020",
+      "title": {
+        "la": "Liber XIII, Epistola 20"
+      }
+    },
+    {
+      "id": "b13-e021",
+      "title": {
+        "la": "Liber XIII, Epistola 21"
+      }
+    },
+    {
+      "id": "b13-e022",
+      "title": {
+        "la": "Liber XIII, Epistola 22"
+      }
+    },
+    {
+      "id": "b13-e023",
+      "title": {
+        "la": "Liber XIII, Epistola 23"
+      }
+    },
+    {
+      "id": "b13-e024",
+      "title": {
+        "la": "Liber XIII, Epistola 24"
+      }
+    },
+    {
+      "id": "b13-e025",
+      "title": {
+        "la": "Liber XIII, Epistola 25"
+      }
+    },
+    {
+      "id": "b13-e026",
+      "title": {
+        "la": "Liber XIII, Epistola 26"
+      }
+    },
+    {
+      "id": "b13-e027",
+      "title": {
+        "la": "Liber XIII, Epistola 27"
+      }
+    },
+    {
+      "id": "b13-e028",
+      "title": {
+        "la": "Liber XIII, Epistola 28"
+      }
+    },
+    {
+      "id": "b13-e029",
+      "title": {
+        "la": "Liber XIII, Epistola 29"
+      }
+    },
+    {
+      "id": "b13-e030",
+      "title": {
+        "la": "Liber XIII, Epistola 30"
+      }
+    },
+    {
+      "id": "b13-e031",
+      "title": {
+        "la": "Liber XIII, Epistola 31"
+      }
+    },
+    {
+      "id": "b13-e032",
+      "title": {
+        "la": "Liber XIII, Epistola 32"
+      }
+    },
+    {
+      "id": "b13-e033",
+      "title": {
+        "la": "Liber XIII, Epistola 33"
+      }
+    },
+    {
+      "id": "b13-e034",
+      "title": {
+        "la": "Liber XIII, Epistola 34"
+      }
+    },
+    {
+      "id": "b13-e035",
+      "title": {
+        "la": "Liber XIII, Epistola 35"
+      }
+    },
+    {
+      "id": "b13-e036",
+      "title": {
+        "la": "Liber XIII, Epistola 36"
+      }
+    },
+    {
+      "id": "b13-e037",
+      "title": {
+        "la": "Liber XIII, Epistola 37"
+      }
+    },
+    {
+      "id": "b13-e038",
+      "title": {
+        "la": "Liber XIII, Epistola 38"
+      }
+    },
+    {
+      "id": "b13-e039",
+      "title": {
+        "la": "Liber XIII, Epistola 39"
+      }
+    },
+    {
+      "id": "b13-e040",
+      "title": {
+        "la": "Liber XIII, Epistola 40"
+      }
+    },
+    {
+      "id": "b13-e041",
+      "title": {
+        "la": "Liber XIII, Epistola 41"
+      }
+    },
+    {
+      "id": "b13-e042",
+      "title": {
+        "la": "Liber XIII, Epistola 42"
+      }
+    },
+    {
+      "id": "b13-e043",
+      "title": {
+        "la": "Liber XIII, Epistola 43"
+      }
+    },
+    {
+      "id": "b13-e044",
+      "title": {
+        "la": "Liber XIII, Epistola 44"
+      }
+    },
+    {
+      "id": "b13-e045",
+      "title": {
+        "la": "Liber XIII, Epistola 45"
+      }
+    },
+    {
+      "id": "b13-x01",
+      "title": {
+        "la": "Liber XIII, Capitulare II Legum Imperialium. pro Immunitate Clericorum, Joanni Defensori Eunti Hispaniam"
+      }
+    },
+    {
+      "id": "b13-x02",
+      "title": {
+        "la": "Liber XIII, Sententia Joannis Defensoris"
+      }
+    },
+    {
+      "id": "b13-e046",
+      "title": {
+        "la": "Liber XIII, Epistola 46"
+      }
+    },
+    {
+      "id": "b13-e047",
+      "title": {
+        "la": "Liber XIII, Epistola 47"
+      }
+    },
+    {
+      "id": "b14-e001",
+      "title": {
+        "la": "Liber XIV, Epistola 1"
+      }
+    },
+    {
+      "id": "b14-e002",
+      "title": {
+        "la": "Liber XIV, Epistola 2"
+      }
+    },
+    {
+      "id": "b14-e003",
+      "title": {
+        "la": "Liber XIV, Epistola 3"
+      }
+    },
+    {
+      "id": "b14-e004",
+      "title": {
+        "la": "Liber XIV, Epistola 4"
+      }
+    },
+    {
+      "id": "b14-e005",
+      "title": {
+        "la": "Liber XIV, Epistola 5"
+      }
+    },
+    {
+      "id": "b14-e006",
+      "title": {
+        "la": "Liber XIV, Epistola 6"
+      }
+    },
+    {
+      "id": "b14-e007",
+      "title": {
+        "la": "Liber XIV, Epistola 7"
+      }
+    },
+    {
+      "id": "b14-e008",
+      "title": {
+        "la": "Liber XIV, Epistola 8"
+      }
+    },
+    {
+      "id": "b14-e009",
+      "title": {
+        "la": "Liber XIV, Epistola 9"
+      }
+    },
+    {
+      "id": "b14-e010",
+      "title": {
+        "la": "Liber XIV, Epistola 10"
+      }
+    },
+    {
+      "id": "b14-e011",
+      "title": {
+        "la": "Liber XIV, Epistola 11"
+      }
+    },
+    {
+      "id": "b14-e012",
+      "title": {
+        "la": "Liber XIV, Epistola 12"
+      }
+    },
+    {
+      "id": "b14-e013",
+      "title": {
+        "la": "Liber XIV, Epistola 13"
+      }
+    },
+    {
+      "id": "b14-e014",
+      "title": {
+        "la": "Liber XIV, Epistola 14"
+      }
+    },
+    {
+      "id": "b14-e015",
+      "title": {
+        "la": "Liber XIV, Epistola 15"
+      }
+    },
+    {
+      "id": "b14-e016",
+      "title": {
+        "la": "Liber XIV, Epistola 16"
+      }
+    },
+    {
+      "id": "b14-e017",
+      "title": {
+        "la": "Liber XIV, Epistola 17"
+      }
+    }
+  ]
+}
