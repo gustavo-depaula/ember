@@ -1,0 +1,382 @@
+{
+  "id": "avila-epistolario-1631-en",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Certain Selected Spiritual Epistles",
+    "pt-BR": "Epístolas espirituais selecionadas (inglês, 1631)"
+  },
+  "author": {
+    "es-ES": "San Juan de Ávila",
+    "en-US": "St. John of Ávila",
+    "pt-BR": "São João de Ávila"
+  },
+  "description": {
+    "en-US": "Fifty-seven letters of spiritual direction by St. John of Ávila, translated into English (Rouen, 1631), to preachers, priests, noblemen, ladies, maidens and religious. Each letter carries the number it has in the Spanish Epistolario espiritual of this corpus; letters that book lacks are marked with their number in Sala Balust's critical edition (BAC 1952) or as unidentified. The translator's preface is not included; his marginal scripture references are footnotes.",
+    "pt-BR": "Cinquenta e sete cartas de direção espiritual de São João de Ávila na tradução inglesa de Rouen (1631)."
+  },
+  "composed": "1535–1569",
+  "languages": [
+    "en-US"
+  ],
+  "work": "john-of-avila/epistolario",
+  "editions": {
+    "en-US": {
+      "translator": "anonymous (Rouen: widow of Nicolas Courant)",
+      "year": 1631
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://distantreader.org/stacks/earlyprint/txt/A23433.txt",
+      "edition": "Certain Selected Spiritual Epistles written by that most Reverend holy man Doctor Ioan de Auila, At Roüen by the widow of Nicolas Courant, 1631; EEBO-TCP A23433 (EarlyPrint normalised spelling).",
+      "description": "All 57 letters, with the editor's one-line summary of each in italics. Illegible characters of the keying appear as ●. The correspondence with the Spanish letter numbers was made by comparing the summaries of the two editions, not word by word.",
+      "tier": "A",
+      "tierEvidence": "Printed 1631; the TCP keyed text is released CC0."
+    }
+  ],
+  "toc": [
+    {
+      "id": "l006",
+      "title": {
+        "en-US": "Letter 6. To a certain Priest"
+      }
+    },
+    {
+      "id": "l011",
+      "title": {
+        "en-US": "Letter 11. To a great lord"
+      }
+    },
+    {
+      "id": "l013",
+      "title": {
+        "en-US": "Letter 13. To a woman"
+      }
+    },
+    {
+      "id": "l014",
+      "title": {
+        "en-US": "Letter 14. To a woman"
+      }
+    },
+    {
+      "id": "l015",
+      "title": {
+        "en-US": "Letter 15. To an afflicted woman"
+      }
+    },
+    {
+      "id": "l016",
+      "title": {
+        "en-US": "Letter 16. To a Lady"
+      }
+    },
+    {
+      "id": "l018",
+      "title": {
+        "en-US": "Letter 18. To a Lady"
+      }
+    },
+    {
+      "id": "l019",
+      "title": {
+        "en-US": "Letter 19. To a lady who asked what charity is"
+      }
+    },
+    {
+      "id": "l024",
+      "title": {
+        "en-US": "Letter 24. To a virgin"
+      }
+    },
+    {
+      "id": "l025",
+      "title": {
+        "en-US": "Letter 25. To a Lady"
+      }
+    },
+    {
+      "id": "l027",
+      "title": {
+        "en-US": "Letter 27. To an afflicted lady"
+      }
+    },
+    {
+      "id": "l029",
+      "title": {
+        "en-US": "Letter 29. To a certain Lady"
+      }
+    },
+    {
+      "id": "l030",
+      "title": {
+        "en-US": "Letter 30. To a Lady"
+      }
+    },
+    {
+      "id": "l032",
+      "title": {
+        "en-US": "Letter 32. To John of God"
+      }
+    },
+    {
+      "id": "l037",
+      "title": {
+        "en-US": "Letter 37. To a person"
+      }
+    },
+    {
+      "id": "l040",
+      "title": {
+        "en-US": "Letter 40. To some dear friends of his"
+      }
+    },
+    {
+      "id": "l041",
+      "title": {
+        "en-US": "Letter 41. To a lady at Christmas"
+      }
+    },
+    {
+      "id": "l042",
+      "title": {
+        "en-US": "Letter 42. To one who hesitated to begin serving God"
+      }
+    },
+    {
+      "id": "l044",
+      "title": {
+        "en-US": "Letter 44. To his disciples at Écija"
+      }
+    },
+    {
+      "id": "l045",
+      "title": {
+        "en-US": "Letter 45. To a Lady in the time of Advent"
+      }
+    },
+    {
+      "id": "l050",
+      "title": {
+        "en-US": "Letter 50. To a Cavalier his friend"
+      }
+    },
+    {
+      "id": "l052",
+      "title": {
+        "en-US": "Letter 52. To a reverend and religious person"
+      }
+    },
+    {
+      "id": "l058",
+      "title": {
+        "en-US": "Letter 58. To a Religious woman"
+      }
+    },
+    {
+      "id": "l064",
+      "title": {
+        "en-US": "Letter 64. To the same lady"
+      }
+    },
+    {
+      "id": "l070",
+      "title": {
+        "en-US": "Letter 70. To a devout Lady"
+      }
+    },
+    {
+      "id": "l073",
+      "title": {
+        "en-US": "Letter 73. To a Cavalier his friend"
+      }
+    },
+    {
+      "id": "l075",
+      "title": {
+        "en-US": "Letter 75. To a Lady"
+      }
+    },
+    {
+      "id": "l077",
+      "title": {
+        "en-US": "Letter 77. To a lady"
+      }
+    },
+    {
+      "id": "l078",
+      "title": {
+        "en-US": "Letter 78. To a lady"
+      }
+    },
+    {
+      "id": "l082",
+      "title": {
+        "en-US": "Letter 82. To a former disciple, a Jesuit near death"
+      }
+    },
+    {
+      "id": "l083",
+      "title": {
+        "en-US": "Letter 83. To a holy religious woman (St. Teresa of Jesus)"
+      }
+    },
+    {
+      "id": "l084",
+      "title": {
+        "en-US": "Letter 84. To a Religious woman"
+      }
+    },
+    {
+      "id": "l085",
+      "title": {
+        "en-US": "Letter 85. To a certain Preacher"
+      }
+    },
+    {
+      "id": "l086",
+      "title": {
+        "en-US": "Letter 86. To a disciple of his"
+      }
+    },
+    {
+      "id": "l087",
+      "title": {
+        "en-US": "Letter 87. To a Religious woman"
+      }
+    },
+    {
+      "id": "l088",
+      "title": {
+        "en-US": "Letter 88. To a maiden living in recollection"
+      }
+    },
+    {
+      "id": "b018",
+      "title": {
+        "en-US": "Letter, Sala Balust no. 18. To a Lord of great quality"
+      }
+    },
+    {
+      "id": "b035",
+      "title": {
+        "en-US": "Letter, Sala Balust no. 35. To a lady, at Pentecost"
+      }
+    },
+    {
+      "id": "b036",
+      "title": {
+        "en-US": "Letter, Sala Balust no. 36. To a friend"
+      }
+    },
+    {
+      "id": "b055",
+      "title": {
+        "en-US": "Letter, Sala Balust no. 55. To a Lady"
+      }
+    },
+    {
+      "id": "b059",
+      "title": {
+        "en-US": "Letter, Sala Balust no. 59. To a devout friend of his"
+      }
+    },
+    {
+      "id": "b106",
+      "title": {
+        "en-US": "Letter, Sala Balust no. 106. To a Lady"
+      }
+    },
+    {
+      "id": "b111",
+      "title": {
+        "en-US": "Letter, Sala Balust no. 111. To a devoted religious Friend of his"
+      }
+    },
+    {
+      "id": "b121",
+      "title": {
+        "en-US": "Letter, Sala Balust no. 121. To a certain lady"
+      }
+    },
+    {
+      "id": "b140",
+      "title": {
+        "en-US": "Letter, Sala Balust no. 140. To a Cavalier"
+      }
+    },
+    {
+      "id": "b142",
+      "title": {
+        "en-US": "Letter, Sala Balust no. 142. To a great man"
+      }
+    },
+    {
+      "id": "b146",
+      "title": {
+        "en-US": "Letter, Sala Balust no. 146. To a Cavalier his friend"
+      }
+    },
+    {
+      "id": "b147",
+      "title": {
+        "en-US": "Letter, Sala Balust no. 147. To a person"
+      }
+    },
+    {
+      "id": "b149",
+      "title": {
+        "en-US": "Letter, Sala Balust no. 149. To a dear friend of his"
+      }
+    },
+    {
+      "id": "b152",
+      "title": {
+        "en-US": "Letter, Sala Balust no. 152. To a Cavalier"
+      }
+    },
+    {
+      "id": "b153",
+      "title": {
+        "en-US": "Letter, Sala Balust no. 153. To a friend of his"
+      }
+    },
+    {
+      "id": "u24",
+      "title": {
+        "en-US": "Letter, number unidentified. To a devout person"
+      }
+    },
+    {
+      "id": "u28",
+      "title": {
+        "en-US": "Letter, number unidentified. To a Cavalier his friend"
+      }
+    },
+    {
+      "id": "u42",
+      "title": {
+        "en-US": "Letter, number unidentified. To a Cavalier his friend"
+      }
+    },
+    {
+      "id": "u43",
+      "title": {
+        "en-US": "Letter, number unidentified. To a disciple of his"
+      }
+    },
+    {
+      "id": "u52",
+      "title": {
+        "en-US": "Letter, number unidentified. To a Lady"
+      }
+    },
+    {
+      "id": "u54",
+      "title": {
+        "en-US": "Letter, number unidentified. To a Cavalier"
+      }
+    }
+  ]
+}
