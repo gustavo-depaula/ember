@@ -1,0 +1,75 @@
+# Paroles consolantes : amour de la volonté de Dieu, abandon à sa providence
+
+n- ^" ^nT"; ~ ^'"' ^'''"' "'''' ^^ '^ «^"'« ^'onté de Uieu. Ohl qu une âme serait heureuse si elle faisait celte entreprise de regarder et suivre en foutes choses celte divine volonté, car elle jouirait d'une profonde paix en sa résignation, parce qu en tout elle trouverait cette divine volonté, et l'aimerait autant en une chose qu'en une autre, parce qu'elle ne mettrait pas son contentement es événements, ains en la volonté de Dieu qui les veut et les permet.
+
+2. — Quant à la volonté du bon plaisir de Dieu que nous ne connaissons que par les événements, s'ils sont de quelque prospérité, il faut, bénissant Dieu, nous unir à cette divine volonté qui les envoie; de même devons-nous faire dans l'événement des choses pénibles, qui nous sont fâcheuses au corps et à l'esprit, joignant amoureusement notre volonté à l'obéissance de ce bon plaisir divin, nonobstant les répugnances de la nature ou de l'esprit humain, dont il ne faut tenir nul compte, pourvu qu'avec la pointe de notre volonté nous fassions simplement le très-saint acquiescement à celle de Dieu, disant : « Omon Dieu, je le veux, parce que tel est votre bon plaisir. «
+
+3. — C'est une grande consolation de savoir que rien du tout ne saurait arriver que ce que Dieu voudra, et qu'il voudra tout bien pour nous qui ne voulons que sa volonté ; ainsi la santé ou la maladie nous doivent être indifférentes, puisque tout part de celte source d'incomparable miséricorde. Que peuvent donc craindre les âmes qui sont tout à Dieu, puisque rien ne peut leur ravir leur cher trésor et que l'extrémité du mal de cette mortelle vie, qui est la mort, nous donne entrée en la vie bienheureuse?
+
+4. — Dans les temps d'afflictions, surtout des maladies corporelles, où bien souvent le cœur est fort aiangouri et ne peut prier, ne vous efforcez pas de le faire, car les simples acquiescemenis à la volonté de Dieu, faits de temps en temps, suffisent, outre qu'une souffrance portée dans la volonté, avec douceur et patience, est une continuelle et très-puissante oraison devant Dieu, nonobstant les plaintes et inquiétudes de la partie inférieure.
+
+5. — Quand sera-ce que nous savourerons Ja douceur de la volonté divine, en tout ce qui nous arrivera, n'y voyant que son bon plaisir qui nous départ, avec un amour égal et incompréhensible, les prospérités aussi bien que les adversités, le tout pour notre mieux ?
+
+Habituons-nous à regarder tout ce qui nous arrive dans la volonté de Dieu : toutes choses, grandes et petites, nous viennent de cette part, car c'est un baume précieux que ce divin vouloir, qui nous doit rendre toutes sortes d'événements doux et suaves.
+
+6. — Soyons toujours prête à faire et à souffrir tout ce que Dieu veut de nons, ne disant jamais, c'est assez de peines, de mépris et d'abnégation j mais, me voici toute soumise et prêle à faire votre bon plaisir. Parler ainsi, c'est vivre selon l'esprit, et non selon la partie inférieure qui n'entre point en participation de celte façon d'agir si parfaite.
+
+7. — Il faut tout réduire aux simples acquiescements de vouloir et faire le bien sans ardeur, mais par le seul motif de la volonté de Dieu; et de même, acquiescer amoureusement à celle divine volonté, quand elle aura permis que nous ayons omis quelque bien ou fait quelques manquements, nous résignant même à ce à quoi nous ne pouvons nous résigner si entièrement et généreusement que nous désirons, ou qu'il nous semble que Notre-Seigneur le désire de nous; c'est-à-dire qu'en tous nos biens, nous nous unissions à la volonté du bon plaisir qui les veut; et en nos misères et imperfections, nous nous unissions à la volonté de Dieu qui les permet, et tout cela avec paix et douceur d'esprit.
+
+8. — Préparez votre âme et l'ouvrez devant Dieu, afin qu'il la remplisse de lui-même et de tout ce qu'il lui plaira, soit-il doux ou amer à notre goût, espérant qu'il nous fera la grâce que sa sainte volonté nous servira de toute consolation.
+
+La vraie paix et tranquillité de cœur consiste à adhérer à Dieu, tournant notre volonté en toutes choses selon la sienne, à ne lui point limiter le temps, mais à attendre celui que sa Providence a destiné pour nous consoler.
+
+9. — Enfln nous sommes à Dieu ! Que ce qui sera trouvé bon à ses yeux soit fait; rien n'est si utile pour nous que cette douce volonté de Dieu ni rien de si doux à nos cœurs. Il importe peu de quel mal nous mourions, pourvu que nous montions à la bienheureuse éternité. sainte Mère des enfants de Dieu, quand reposerons-nous sur votre sein et entre vos bras immortels? Nos âmes devraient défaillir en ce désir; mais non je me reprends : attendons doucement l'heure que le divin Sauveur a marquée pour nous combler de ce bonheur, et cependant n'ayons qu'un seul désir, celui de lui plaire.
+
+10. — Nous voyons qu'on fait passer l'eau des plus belles sources par des canaux de fer, de plomb et de bois; cette même eau, passant par ces canaux, vient toujours do sa source pour s'introduire aux lieux où on la désire ; de même, toutes nos adversités et contradictions viennent de l'agréable et première source de la Divinité; bien qu'elles passent par les créatures, qu'elles nous viennent d'elles comme par des canaux, il ne faut jamais regarder les moyens par lesquels ces eaux amères nous viennent, mais adorer la source d'où elles dérivent , jetant toujours les yeux en Dieu dans nos peines et adversités pour les recevoir de sa main adorable.
+
+11. — Moins nous sentons de capacité en nous, d'autant plus nous devons-nous serrer et attacher à Dieu , nous conflant totalement à son assistance, laquelle il ne manquera pas de nous â donner, pour nous acquitter de noire devoir, si nous sommes remplies de défiance de nous-mêmes, car il est tout assuré que nous ne pouvons chose quelconque de nous; mais c'est la vérité qu'en Dieu toutes choses nous sont possibles.
+
+12. — Nous ne sommes pas assez attentives à cette vérité, que rien n'arrive que par la volonté de Dieu et l'ordre de sa Providence. Que celte vérité nous tienne en repos parmi toutes sortes d'événements, et prenons soin de bien vivre, laissant le soin de notre mort à Notre -Seigneur, comme faisait notre Bienheureux Père.
+
+13. — Dieu nous éprouve par de petites afflictions, afin de nous mieux faire connaître son assistance, et nous donner plus de goût dans l'entier abandonnement que nous avons fait de toutes choses entre les mains de sa Providence. Oh! quel repos et assurance d'être logée sous ce tabernacle ! Dieu vous doit suffire pour toutes choses. L'unique bien de l'âme, c'est d'être seule avec son Dieu. Demeurez en cette simplicité et nudité.
+
+14. — Il faut tout perdre plutôt que de manquer à la fidélité que nous devons à Dieu et à notre propre âme. Sa bonté saura bien conserver ce que nous abandonnerons pour lui et nous le multiplier au centuple. Servir Dieu (comme on dit) au péril de tout le reste, c'est régner et s'acquérir les vraies richesses, et s'assurer par les mérites du Sauveur la béatitude éternelle, dont un moment de jouissance vaut mieux que la possession de mille mondes.
+
+15. — Il faut nous contenter de savoir par la raison que Dieu est notre lumière, notre unique prétention, et partant demeurer en un parfait abandonnement de tout notre être entre ses mains, et en esprit de parfaite confiance. L'infinie Bonté n'esl-elle pas notre unique piclention et repos? Quelle autre assurance est-il besoin d'avoir? Demeurons là, toutes abîmées et anéanties. Nous serons bien beurcuses de vivre aveugles sans connaissance^ ni sentiment aucun.
+
+16. — Quel bonbeur si les ùmes savaient bien se livrer à Dieu! elles expérimenteraient ses faveurs bien autrement que nous ne faisons. C'est un don très-précieux de la souveraine Bonté, que cet entier abandonnement et remise de vousmême entre ses mains. Puisqu'elle vous a fait la grâce d'être affrancbie des réflexions superflues sur vous-même, tenez terme pour ne jamais laisser embarrasser votre esprit, car c'est l'un des plus grands empêchements qui soient en la vie spirituelle.
+
+17. — Si vous êtes attaquée de la défiance de vous-mome, ne vous en étonnez point. Jetez-vous à l'aveugle entre les bras de la divine Providence; dès qu'une fois nos cœurs ne cherchent que Dieu et son bon plaisir, le divin Sauveur les remplit d'une si grande abondance de son Esprit que l'on n'y voit plus que bénédiction et perfection.
+
+18. — Le parfait abandonnement de nous-niême entre les bras de la divine Providence, l'acquiescement amoureuse à tout ce qu'il lui plaira faire de nous et de toutes choses, la sainte affection de lui plaire par les actes de toutes les vertus selon les occasions, surtout de la très.-sainte charité et liumimilité, tout cela est le bois qui entretient le feu sacré du céleste Amour.
+
+19- — Tâchons de parvenir à la totale destruction de nos sentiments humains et à la ruine de la prudence humaine, pour voir d'un œil pur, à la lumière de la foi, la beauté et
+
+■470 
+
+bonté des afflictions, des souffrances, des pressures de cœur des dérélictions et maladies. Le monde ne s'attache qu'à l'apparence et ne va pas jusqu'à voir la moelle cachée sous la douleur de la Croix; il ne voit que l'écorce, qui paraît rude et iacheuse, mais il ne pénètre point jusqu'au dedans, où l'on goûte plus de plaisir, si l'on aime bien Dieu, que l'on n'en trouvera jamais dans la jouissance des faux et vains contentements que ce pauvre monde peut donner.
+
+20. — Nous serons bien heureuses, si nous nous quittons nous-mêmes par amour et pour accomplir la volonté de Dieu. Nous ne perdrons rien en ce traité, car sa bonté est riche en miséricorde pour tous, mais spécialement pour les personnes qui travaillent à puriûer et perfectionner leurs âmes qui lui sont dédiées.
+
+21. _ Les vraies servantes de Dieu se doivent toujours tenir disposées , pour recevoir avec indifférence toutes sortes d'événements et la mort même; car, puisque nous sommes assurées que rien ne nous saurait arriver que par sa volonté, cela nous doit servir pour toute consolation , et nous faire bénir Dieu en tout événement.
+
+22. — Servez Notre-Seigneur comme il lui plaît, et tandis qu'il vous tiendra au désert , servez-l'y de bon cœur : il y tint bien ses chers Israélites quarante ans, pour faire un voyage de quarante jours. Soyez là de bon cœur et vous contentez de dire, quoique sans goût : Je veux être tout à Dieu, et jamais point ne l'offenser; et quand il vous arrivera de chopper, comme il sera sans doute , fût-ce cent fois le jour , relevez-vous par un acte de confiance ; marchez comme aveugle dans cette divine Providence; croyez qu'elle vous conduira bien.
+
+23. — Le divin Maître vous conduit à un entier dépouillement et anéantissement de vous-même et de toute propre satisfaction; il veut que vous cheminiez comme aveugle sous sa protection et conduite; vous n'avez à faire qu'à suivre fidèlement ses lumières, et vous reposer en sa bonté, car c'est un grand bonheur que le parfait anéantissement de soi-même à la volonté de Dieu. Hélas! c'est l'unique gloire des âmes dédiées au saint Amour : faisons bien cette pratique, et pour cela ne faisons rien selon nos humeurs et inclinations, mais tout selon la raison et la vraie piété, soit en faisant ou souffrant.
+
+24. — iMon Dieu, que je souhaite que par-dessus toutes vues et sentiments, nous soyons toujours amoureusement et humblement soumises à tout ce que sa Bonté veut et voudra à jamais faire de nous, et cela allègrement selon l'esprit! Quand notre esprit est arrêté auprès de lui, ne devons-nous pas nous contenter?
+
+25. — La vraie manière de servir Dieu est de marcher par un chemin que l'on ne connaît point, et lorsqu'il semble que tout est bouleversé sens dessus dessous dans l'àmc, pourvu qu'elle demeure fidèle parmi tout cela à la pratique des vertus, elle ne se doit point mettre en peine pour connaître quelle est sa voie, ni même y penser, mais marcher simplement en ce parfait abandonnement et renoncement d'elle-même à Dieu. Oh! que nous sommes heureuses de souffrir, si on le fait avec amour !
+
+26. — Humilions-nous profondément sous la très-sainte main de notre bon Dieu, afin que nous nous laissions conduire dans les voies de son bon plaisir, et ne lui résistions en rien du tout, de ce qu'il lui plaira faire de nous, mais correspondons de notre part à sa grâce, par la suite du bien que sa Providence nous montre dans les occasions. Cette pratique était infiniment estimée et pratiquée par notre Bienheureux Père.
+
+2/. - Oh! que l'état du parfait dénùment est excellent devant Dieu! Ne tenez à rien, qu'à Dieu seul. Qui n'aimera, qui ne se confiera, qui ne se fondra toute entre les hras de la divine Providence, qui nous fait tant de biens? Vraiment, il faudrait être de bronze et du tout insensible. Je ne vous saurais dire ce que mon cœur ressent envers Dieu, pour les grâces qu'il nous fait! Dites, et annoncez continuellement combien Dieu est bon, suave et abondant en ses miséricordes, à l'endroit des âmes qui s'abandonnent et confient entièrement en lui.
+
+^ 28. — Oui, demeurons douces, humbles, tranquilles, en l'efat où Dieu nous mettra; en la peine, patienter; en la souffrance, souffrir; en l'action, agir; en la jouissance, jouir humblement, sans penser que nous faisons faute à ceci, à cela, car ce n'est que l'amour- propre qui fait cette réflexion, mais demeurez doucement confuse et abaissée devant Dieu.
+
+29. — Les âmes qui vivent exposées à tout ce que Dieu veut faire d'elles et en elles, sans soin ni désir de chose quelconque, sinon de se tenir proche de lui, et faire et souffrir fidèlement les choses que sa Providence leur présentera dans chaque moment, font en cela une excellente pratique.
+
+30. — Pour ce qui est du document, ne demandez rien, ne refusez rien, ce n'est autre chose qu'une parfaite indifférence, non-seulement pour les choses extérieures, mais encore plus pour les intérieures, ne désirant, ni refusant les consolations, suavités, peines, sécheresses, désolations, délaissements et tentations; ne recherchant pas d'être aimée, estimée, ni d'être en cet élat ou en cet autre, d'aller par le chemin de celle-ci
+
+OU de celle-là, d'avoir de la satisfaction ou non; enfin, c'est ne vouloir que le seul bon plaisir de Dieu.
+
+31. — C'est le vrai point de la plus haute et sublime perfection que d'être entièrement dépendante et soumise aux événements de la divine Providence. Si nous nous y sommes bien abandonnée, il nous serait indifférent d'être humiliée ou exaltée, en sécheresse, aridité, tristesse et privation, ou d'être consolée par la divine onction et dans la jouissance de Dieu. Bref, nous nous tiendrions entre les bonnes mains de ce grand Dieu comme l'étoffe en celles du tailleur, qui la coupe en cent façons pour l'usage qui lui plaît et auquel il l'a destinée, sans qu'elle y apporte d'obstacle : ains nous endurerions que cette puissante main de Dieu nous coupe, martèle, cisèle, tout comme elle veut que nous soyons faite, pour une pierre propre à parer son édifice, et les afflictions comme les délices ne nous seraient qu'une même chose.[^1]
+
+[^1]: tl

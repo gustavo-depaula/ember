@@ -1,0 +1,9 @@
+# Autres conseils de la Sainte à la Mère Claude-Agnès
+
+AUTRES COMSEILS DE LA SAINTE
+
+A LA MÈRE CLAUDE -AGNÈS '.
+
+Allez courageusement, ma très-chère fille, où la souveraine Volonté vous tire et appelle; faites fidèlement la chose à quoi vous êtes appelée. Soyez humble, mais pleine de confiance en Celui qui vous emploie; dépendez absolument de son gouvernement et de sa divine Providence. Ne vous étonnez d'aucune contradiction, mais recevez fout de la main de Dieu, IcnanI votre âme et toute votre personne en paix et tranquillité, quelque tourmente qu'il arrive : ne vous rendez sensible ni en vos paroles, ni en vos actions, sous quelque prétexte que ce puisse être. Gardezderecevoiraucun esprit étranger, pour bon qu'il soit. Nourrissez-vous et vos chères filles du pain dont xNotre-Seigueur a comblé nos maisons; je veux dire que l'on s'attache fortement à l'observance des Règles, Constitutions et Avis de Monseigneur. Soyez prudente et retenue en vos conversations avec ceux de dehors, ne familiarisant point, et ne faites des amis pour vous, mais pour la maison; soyez toutefois douce, gracieuse et dévote avec tous. Mais avec les Sœurs, ù Dieu, ma très-chère fille soyez la douceur même, la bonté, la suavité et cordialité : témoignez-leur de la confiance, <le la franchise et de l'estime les respectant amoureusement. Je prie Dieu qu'il vous tienne de sa sainte main , afin que vous cheminiez fermement en sa voie. Sa très-sainte Mère soit votre protectrice et consolation; et les saints Anges, que Dieu vous a commis, soient vos gardes et défenseurs! Amen, ma très-chère fille, je suis et demeurerai à jamais unie avec vous très-inséparablement : employez-moi franchement, confidemment, car Dieu m'a donnée à vous. Il soit héni éternellement![^1]
+
+[^1]: Ces conseils furent écrils p:ir la Sainte dans le susdit livre, indiqué h la page 317. ' 1 '

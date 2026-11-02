@@ -1,0 +1,270 @@
+{
+  "id": "chantal-opuscules",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Opuscules divers",
+    "en-US": "Minor Writings",
+    "pt-BR": "Opúsculos diversos"
+  },
+  "author": {
+    "fr-FR": "Sainte Jeanne-Françoise Frémyot de Chantal",
+    "en-US": "St. Jane Frances de Chantal",
+    "pt-BR": "Santa Joana Francisca de Chantal"
+  },
+  "description": {
+    "fr-FR": "Les opuscules de sainte Jeanne-Françoise de Chantal : le petit traité sur l’oraison, ses réponses sur l’oraison de quiétude, ses conseils de direction à des religieuses et à des supérieures, des fragments du recueil de paroles de saint François de Sales à la Sainte, les paroles consolantes pour tous les jours de l’année recueillies par ses contemporaines, et les points de la vie religieuse expliqués par le saint Fondateur.",
+    "en-US": "The minor writings of St. Jane Frances de Chantal: the short treatise on prayer, her answers on the prayer of quiet, her counsels of direction to religious and superiors, fragments of the collection of St. Francis de Sales’s words to the Saint, the consoling sayings for every day of the year gathered by her contemporaries, and the points of religious life explained by the holy Founder.",
+    "pt-BR": "Os opúsculos de santa Joana Francisca de Chantal: o pequeno tratado sobre a oração, suas respostas sobre a oração de quietude, seus conselhos de direção a religiosas e superioras, fragmentos do recolhimento de palavras de são Francisco de Sales à Santa, as palavras consoladoras para todos os dias do ano e os pontos da vida religiosa explicados pelo santo Fundador."
+  },
+  "composed": "1610–1641",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "jane-de-chantal/opuscules",
+  "editions": {
+    "fr-FR": {
+      "editor": "Religieuses du Premier Monastère de la Visitation d’Annecy",
+      "year": 1876
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/8DSUP48_3",
+      "edition": "Sainte Jeanne-Françoise Frémyot de Chantal, sa vie et ses œuvres, Plon, Paris, 1876, tome III (Œuvres diverses II), pp. 257–541 (Opuscules). Archive.org OCR of the Sainte-Geneviève copy.",
+      "description": "OCR cleaned by script. Includes the Paroles consolantes (the \"Sentences pour tous les jours de l’année\"), grouped by subject as in the edition, and two sets of words of Francis de Sales (the Fragments du recueil and Quelques points de la vie religieuse), which are his teaching as recorded by Jane de Chantal.",
+      "tier": "A",
+      "tierEvidence": "Plon 1876."
+    }
+  ],
+  "toc": [
+    {
+      "id": "petit-traite",
+      "title": {
+        "fr-FR": "Petit traité sur l’oraison, ou recueil des plus beaux enseignements de la Sainte sur la manière de converser avec Dieu"
+      }
+    },
+    {
+      "id": "questions-quietude",
+      "title": {
+        "fr-FR": "Questions adressées par écrit à la Sainte et ses réponses touchant l’oraison de quiétude"
+      }
+    },
+    {
+      "id": "regles-discernement",
+      "title": {
+        "fr-FR": "Règles données par la Sainte pour discerner si c’est l’esprit de Dieu qui opère en l’âme lorsqu’elle ne peut agir en l’oraison"
+      }
+    },
+    {
+      "id": "paroles-simplicite",
+      "title": {
+        "fr-FR": "Paroles de la Sainte à une âme conduite par la voie de simplicité et de complet dénuement"
+      }
+    },
+    {
+      "id": "paroles-autre",
+      "title": {
+        "fr-FR": "Paroles de la Sainte à une autre, sur le même sujet"
+      }
+    },
+    {
+      "id": "paroles-blonay",
+      "title": {
+        "fr-FR": "Paroles de la Sainte à la Mère Marie-Aimée de Blonay, après une retraite annuelle"
+      }
+    },
+    {
+      "id": "conseils-abandon",
+      "title": {
+        "fr-FR": "Conseils de la Sainte à une âme que la grâce sollicitait d’entrer dans une voie de simplicité et d’abandon"
+      }
+    },
+    {
+      "id": "conseils-religieuse",
+      "title": {
+        "fr-FR": "Conseils de direction de la Sainte à une religieuse"
+      }
+    },
+    {
+      "id": "conseils-chaugy",
+      "title": {
+        "fr-FR": "Conseils de la Sainte à la Mère Françoise-Madeleine de Chaugy pendant son noviciat, de 1629 à 1632"
+      }
+    },
+    {
+      "id": "conseils-rabutin",
+      "title": {
+        "fr-FR": "Conseils de la Sainte à la Mère Marie-Aimée de Rabutin"
+      }
+    },
+    {
+      "id": "conseils-marigny",
+      "title": {
+        "fr-FR": "Conseils de la Sainte à la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "conseils-joly",
+      "title": {
+        "fr-FR": "Conseils de la Sainte à la Mère Claude-Agnès Joly de la Roche"
+      }
+    },
+    {
+      "id": "conseils-joly-autres",
+      "title": {
+        "fr-FR": "Autres conseils de la Sainte à la Mère Claude-Agnès"
+      }
+    },
+    {
+      "id": "conseils-superieure",
+      "title": {
+        "fr-FR": "Conseils de la Sainte à une supérieure"
+      }
+    },
+    {
+      "id": "conseils-superieures",
+      "title": {
+        "fr-FR": "Conseils aux supérieures en général"
+      }
+    },
+    {
+      "id": "fragments-superieure",
+      "title": {
+        "fr-FR": "Fragments de conseils à une supérieure nouvellement élue"
+      }
+    },
+    {
+      "id": "fragments-autre-1",
+      "title": {
+        "fr-FR": "Fragments de conseils à une autre"
+      }
+    },
+    {
+      "id": "fragments-autre-2",
+      "title": {
+        "fr-FR": "Fragments de conseils à une autre (suite)"
+      }
+    },
+    {
+      "id": "paroles-francois",
+      "title": {
+        "fr-FR": "Fragments du recueil de quelques paroles, instructions et avis de notre bienheureux Père saint François de Sales, donnés à notre digne Mère Jeanne-Françoise Frémyot de Chantal"
+      }
+    },
+    {
+      "id": "providence",
+      "title": {
+        "fr-FR": "De la providence de Dieu"
+      }
+    },
+    {
+      "id": "sentences-amour",
+      "title": {
+        "fr-FR": "Paroles consolantes pour tous les jours de l’année : amour de Dieu, amour du prochain"
+      }
+    },
+    {
+      "id": "sentences-presence",
+      "title": {
+        "fr-FR": "Paroles consolantes : présence de Dieu, prière vocale"
+      }
+    },
+    {
+      "id": "sentences-pauvrete",
+      "title": {
+        "fr-FR": "Paroles consolantes : pauvreté et délaissement"
+      }
+    },
+    {
+      "id": "sentences-croix",
+      "title": {
+        "fr-FR": "Paroles consolantes : avantages des croix et des afflictions"
+      }
+    },
+    {
+      "id": "sentences-resignation",
+      "title": {
+        "fr-FR": "Paroles consolantes : résignation, force, patience"
+      }
+    },
+    {
+      "id": "sentences-mortification",
+      "title": {
+        "fr-FR": "Paroles consolantes : mortification, abnégation de soi-même"
+      }
+    },
+    {
+      "id": "sentences-obeissance",
+      "title": {
+        "fr-FR": "Paroles consolantes : obéissance"
+      }
+    },
+    {
+      "id": "sentences-humilite",
+      "title": {
+        "fr-FR": "Paroles consolantes : humilité"
+      }
+    },
+    {
+      "id": "sentences-oraison",
+      "title": {
+        "fr-FR": "Paroles consolantes : oraison mentale"
+      }
+    },
+    {
+      "id": "sentences-volonte",
+      "title": {
+        "fr-FR": "Paroles consolantes : amour de la volonté de Dieu, abandon à sa providence"
+      }
+    },
+    {
+      "id": "sentences-simplicite",
+      "title": {
+        "fr-FR": "Paroles consolantes : simplicité, pur amour"
+      }
+    },
+    {
+      "id": "sentences-institut",
+      "title": {
+        "fr-FR": "Paroles consolantes : esprit de l’Institut"
+      }
+    },
+    {
+      "id": "points-choix",
+      "title": {
+        "fr-FR": "Quelques points de la vie religieuse expliqués par saint François de Sales : du choix des sujets, de l’instruction et de l’éducation religieuse des novices"
+      }
+    },
+    {
+      "id": "points-direction",
+      "title": {
+        "fr-FR": "De la direction et des avantages qu’elle procure à l’âme"
+      }
+    },
+    {
+      "id": "points-defauts-pauvrete",
+      "title": {
+        "fr-FR": "Défauts à éviter dans la direction et dans la pratique de quelques vertus : quelques points touchant la pauvreté"
+      }
+    },
+    {
+      "id": "points-charite",
+      "title": {
+        "fr-FR": "De la charité, du respect pour ce qui est de l’Institut, de la prudence dans le gouvernement et dans l’usage des dots et des pensions"
+      }
+    },
+    {
+      "id": "points-oraison",
+      "title": {
+        "fr-FR": "De l’oraison et de sa préparation. Conduite pour la confession, la communion, la récitation du saint Office, et de la patience dans les adversités"
+      }
+    },
+    {
+      "id": "points-degres",
+      "title": {
+        "fr-FR": "Divers degrés d’oraison. Conditions requises pour y progresser"
+      }
+    }
+  ]
+}
