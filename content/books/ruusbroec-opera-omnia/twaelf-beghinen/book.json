@@ -1,0 +1,546 @@
+{
+  "id": "ruusbroec-twaelf-beghinen",
+  "cover": "classic",
+  "name": {
+    "dum": "Dat boec vanden twaelf beghinen",
+    "en-US": "The Book of the Twelve Béguines",
+    "pt-BR": "O Livro das Doze Beguinas"
+  },
+  "author": {
+    "dum": "Jan van Ruusbroec (1293-1381)",
+    "en-US": "Bl. John Ruusbroec (1293-1381)",
+    "pt-BR": "Bem-aventurado João Ruusbroec (1293-1381)"
+  },
+  "description": {
+    "dum": "Ruusbroecs laatste en omvangrijkste werk: twaalf beguinen bespreken de liefde tot Christus, met uitwijding over de hemel, de planeten, de Kerk en het lijden van Christus. Middelnederlandse tekst van J. B. David (1863); de hoofdstuktitels zijn Latijn (naar Surius).",
+    "en-US": "Ruusbroec's last and longest work: twelve béguines discuss love of Christ, with digressions on the heavens, the planets, the Church and Christ's Passion. The Middle Dutch text of J. B. David (1863); the chapter titles are Latin (after Surius).",
+    "pt-BR": "A última e mais extensa obra de Ruusbroec: doze beguinas conversam sobre o amor a Cristo, com digressões sobre os céus, os planetas, a Igreja e a Paixão. Texto em neerlandês médio de J. B. David (1863); os títulos dos capítulos são em latim (segundo Surius)."
+  },
+  "composed": "c. 1370-1381",
+  "languages": [
+    "dum"
+  ],
+  "work": "ruusbroec/twaelf-beghinen",
+  "editions": {
+    "dum": {
+      "editor": "Jan Baptist David",
+      "year": 1863
+    }
+  },
+  "sources": [
+    {
+      "language": "dum",
+      "url": "https://www.dbnl.org/tekst/ruus001vlae05_01/",
+      "edition": "Jan van Ruusbroec, Werken, ed. J. B. David, deel 5: Dat boec vanden twaelf beghinen. (Gent: Maetschappy der Vlaemsche Bibliophilen, 1863).",
+      "description": "Keyed text from DBNL (TEI XML, 'auteursrechtvrij'), converted by research/sourcing/_scripts/rhineland/ruus_build.py. Line-end hyphens joined; page and line breaks dropped. David's apparatus is kept as footnotes (manuscript variants F, G, I, L, M, D, Surius' Latin readings 'Sur.'). David's Dutch preface, manuscript list, misprint list and glossary are not included.",
+      "tier": "A",
+      "tierEvidence": "Nineteenth-century critical edition, marked 'Auteursrechtvrij' on DBNL."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "dum": "I. Sententiae duodecim de amore Jesu"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "dum": "II. Cujusmodi esse debeat verus amator"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "dum": "III. Ut se praeparare et habere debeat dominici corporis Sacramentum percepturus"
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "dum": "IV. Respondet Deus animae, sacrae communionis avidae"
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "dum": "V. Homo loquitur ad Deum, extollens mirifice gratiam Eucharistiae"
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "dum": "VI. De impedimentis verae contemplationis"
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "dum": "VII. Quaenam ad veram perducant contemplationem"
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "dum": "VIII. Quid sit vera contemplatio"
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "dum": "IX. Cujusmodi esse debeat, qui veram contemplationem in se experiri velit"
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "dum": "X. De primo verae contemplationis modo"
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "dum": "XI. De altero verae contemplationis modo"
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "dum": "XII. De tertio verae contemplationis modo"
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "dum": "XIII. De quarto verae contemplationis modo"
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "dum": "XIV. De quatuor modis amoris"
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "dum": "XV. Ut Spiritus Domini operatur in nobis"
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "dum": "XVI. De sex quibusdam, in quibus praecipua sive suprema inter Deum et nos cognitio consistit"
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "dum": "XVII. Qui sint boni Christiani, quinam condemnentur; et brevis descriptio triplicis vitae, puta actuosae, contemplativae et communis"
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "dum": "XVIII. De quibusdam pestiferis haereticis, et eorum errore quadruplici"
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "dum": "XIX. De primo errore, qui Deum Spiritum sanctum impugnat"
+      }
+    },
+    {
+      "id": "c020",
+      "title": {
+        "dum": "XX. De altero errore vel haeresi adversus Deum Patrem"
+      }
+    },
+    {
+      "id": "c021",
+      "title": {
+        "dum": "XXI. De tertio errore, Filium Dei et ejus humanitatem insectante"
+      }
+    },
+    {
+      "id": "c022",
+      "title": {
+        "dum": "XXII. De quarto errore vel haeresi, tum Deum, tum scripta divina et totam Ecclesiam impugnante"
+      }
+    },
+    {
+      "id": "c023",
+      "title": {
+        "dum": "XXIII. De amoris quadruplici ratione"
+      }
+    },
+    {
+      "id": "c024",
+      "title": {
+        "dum": "XXIV. De prima Deum amandi ratione"
+      }
+    },
+    {
+      "id": "c025",
+      "title": {
+        "dum": "XXV. De altera Deum amandi ratione"
+      }
+    },
+    {
+      "id": "c026",
+      "title": {
+        "dum": "XXVI. De tertia Deum amandi ratione"
+      }
+    },
+    {
+      "id": "c027",
+      "title": {
+        "dum": "XXVII. De quarta Deum amandi ratione"
+      }
+    },
+    {
+      "id": "c028",
+      "title": {
+        "dum": "XXVIII. De omnipotentis Dei secundum naturam unitate, et personarum trinitate"
+      }
+    },
+    {
+      "id": "c029",
+      "title": {
+        "dum": "XXIX. Ut Deus nos secundum corpus et animam creârit, et de vita triplici, nempe contemplativa, interna et actnosa"
+      }
+    },
+    {
+      "id": "c030",
+      "title": {
+        "dum": "XXX. Quam ob causam Deus cuncta creârit, et de coelo empyrco ac primo mobili: quaedam ctiam de Dei unitate ac Personarum Trinitate"
+      }
+    },
+    {
+      "id": "c031",
+      "title": {
+        "dum": "XXXI. De coelo stellato, de Stellis fixis et errantibus, carumque efficientia"
+      }
+    },
+    {
+      "id": "c032",
+      "title": {
+        "dum": "XXXII. Ut creaturae omnes, quomodò vivere debeamus, nos instituunt; et de vita spiritali ac interna: itemque de mala ac bona voluntate"
+      }
+    },
+    {
+      "id": "c033",
+      "title": {
+        "dum": "XXXIII. Driplicis coeli ac stellarum descriptio"
+      }
+    },
+    {
+      "id": "c034",
+      "title": {
+        "dum": "XXXIV. Quemadmodùm coeli ac stellae vitam internam coelestemque nos doceant"
+      }
+    },
+    {
+      "id": "c035",
+      "title": {
+        "dum": "XXXV. De septem planetis, et primò de Saturno, ejusque mystica explanatio"
+      }
+    },
+    {
+      "id": "c036",
+      "title": {
+        "dum": "XXXVI. De praeclarissimo nomine Jesu. De praecipuis quibusdam D. Jesu solemnitatibus. De creatione et ruina angelorum et hominum, etc"
+      }
+    },
+    {
+      "id": "c037",
+      "title": {
+        "dum": "XXXVII. De planeta Jove, et quid is mysticè signifiect. De angelis et hominibus. De quatuor generibus malorum hominum, itemque de filiis Dei et Uaturae"
+      }
+    },
+    {
+      "id": "c038",
+      "title": {
+        "dum": "XXXVIII. Ut natura hominum in septem habitudines distincla sit, et de filiis Saturni"
+      }
+    },
+    {
+      "id": "c039",
+      "title": {
+        "dum": "XXXIX. De love ejusque filiis"
+      }
+    },
+    {
+      "id": "c040",
+      "title": {
+        "dum": "XL. De Marte et qui sub illo nascuntur"
+      }
+    },
+    {
+      "id": "c041",
+      "title": {
+        "dum": "XLI. De Sole, et sub ipso genitis"
+      }
+    },
+    {
+      "id": "c042",
+      "title": {
+        "dum": "XLII. De Denere, et qui sub ipso nascuntur"
+      }
+    },
+    {
+      "id": "c043",
+      "title": {
+        "dum": "XLIII. Ut natura incitet ad vitia, et quibus rebus vitia profligentur, et gratia obtineatur"
+      }
+    },
+    {
+      "id": "c044",
+      "title": {
+        "dum": "XLIV. De quadruplici Libra charitatis Dei, et speciatim de prima"
+      }
+    },
+    {
+      "id": "c045",
+      "title": {
+        "dum": "XLV. De altera charitatis libra"
+      }
+    },
+    {
+      "id": "c046",
+      "title": {
+        "dum": "XLVI. De tertia charitatis libra, et de immensa Dei erga nos charitate"
+      }
+    },
+    {
+      "id": "c047",
+      "title": {
+        "dum": "XLVII. Ut etiam post peccata liceat cum Deo redire in gratiam, et de vita interna ac contemplativa"
+      }
+    },
+    {
+      "id": "c048",
+      "title": {
+        "dum": "XLVIII. De bonis temporariis nobis collatis à Dev, et ut illis uti debeamus"
+      }
+    },
+    {
+      "id": "c049",
+      "title": {
+        "dum": "XLIX. De quarla charitatis libra"
+      }
+    },
+    {
+      "id": "c050",
+      "title": {
+        "dum": "L. Optimae quaedam institutiones"
+      }
+    },
+    {
+      "id": "c051",
+      "title": {
+        "dum": "LI. De duplici exercitationis modo spiritûs nostri"
+      }
+    },
+    {
+      "id": "c052",
+      "title": {
+        "dum": "LII. De anima rationali iniqua"
+      }
+    },
+    {
+      "id": "c053",
+      "title": {
+        "dum": "LIII. De anima rationali gratiae fonte repleta, et de quatuor gratiae rivis"
+      }
+    },
+    {
+      "id": "c054",
+      "title": {
+        "dum": "LIV. De altero Divinae gratiae rivo"
+      }
+    },
+    {
+      "id": "c055",
+      "title": {
+        "dum": "LV. Ut boni et mali regnum Dei partiti sint"
+      }
+    },
+    {
+      "id": "c056",
+      "title": {
+        "dum": "LVI. Collatio praelatorum Ecclesiae islorum temporum cum illis, qui primitivae Ecclesiae praefuerunt"
+      }
+    },
+    {
+      "id": "c057",
+      "title": {
+        "dum": "LVII. Descriptio verorum falsorumque pastorum ac sacerdotum"
+      }
+    },
+    {
+      "id": "c058",
+      "title": {
+        "dum": "LVIII. De primitiva Ecclesia, et de vita Christi et discipulorum ejus aliorumque credentium"
+      }
+    },
+    {
+      "id": "c059",
+      "title": {
+        "dum": "LIX. De Evangelicis Christi consiliis, et tribus monasticis votis, et primo de Paupertate"
+      }
+    },
+    {
+      "id": "c060",
+      "title": {
+        "dum": "LX. De Castitatis consilio et voto, et quemadmodum castitatem tueri debeant homines"
+      }
+    },
+    {
+      "id": "c061",
+      "title": {
+        "dum": "LXI. De voluntariae Obedientiae consilio et voto"
+      }
+    },
+    {
+      "id": "c062",
+      "title": {
+        "dum": "LXII. De tribus peccatis, toto ubique orbe dominatum obtinentibus"
+      }
+    },
+    {
+      "id": "c063",
+      "title": {
+        "dum": "LXIII. De quadam veste Domini Jesu, qua is discipulos et sectatores suos induit"
+      }
+    },
+    {
+      "id": "c064",
+      "title": {
+        "dum": "LXIV. Ut unitas amoris cum Deo in spiritu obtineatur"
+      }
+    },
+    {
+      "id": "c065",
+      "title": {
+        "dum": "LXV. De tunica Domini Jesu inconsutili"
+      }
+    },
+    {
+      "id": "c066",
+      "title": {
+        "dum": "LXVI. De quatuor rivis, ex Sancti Spiritus fonte dimanantibus"
+      }
+    },
+    {
+      "id": "c067",
+      "title": {
+        "dum": "LXVII. De duobus regnis jam indè à mundi initio venalibus"
+      }
+    },
+    {
+      "id": "c068",
+      "title": {
+        "dum": "LXVIII. Prosequutio eorum, quae superius de Planetis dicere instituerat"
+      }
+    },
+    {
+      "id": "c069",
+      "title": {
+        "dum": "LXIX. Quam ob causam à Deo creati simus, et de imagine ac similitudine Dei, ad quam conditi sumus"
+      }
+    },
+    {
+      "id": "c070",
+      "title": {
+        "dum": "LXX. De tribus specialibus vitae praesentis solennitatibus, et quarta, quae in extremo die celebrabitur"
+      }
+    },
+    {
+      "id": "c071",
+      "title": {
+        "dum": "LXXI. Ut Dominus Jesus sit liber noster horarius, et in quem finem cuncti monastici ordines instituti sint"
+      }
+    },
+    {
+      "id": "c072",
+      "title": {
+        "dum": "LXXII. Passio Christi in septem distincta horas. *Tempus matutinum sive nocturnum, et quid eo tempore fecerit Deus ac perpessus sit, quid item fideles quique tunc agere debeant*"
+      }
+    },
+    {
+      "id": "c073",
+      "title": {
+        "dum": "LXXIII. Gora prima. *Quid hac hora Dominus pertulerit*"
+      }
+    },
+    {
+      "id": "c074",
+      "title": {
+        "dum": "LXXIV. Hora tertia. *Quaenam hac hora Dominus perpessus sit, et quid nos agere debeamus*"
+      }
+    },
+    {
+      "id": "c075",
+      "title": {
+        "dum": "LXXV. Hora sexla. *Quae Dominus Jesus hîc pertulerit; quae beneficia nobis contulerit, et de Testamento ejus*"
+      }
+    },
+    {
+      "id": "c076",
+      "title": {
+        "dum": "LXXVI. De sex hominum generibus, in Dominum Jesum peccantibus"
+      }
+    },
+    {
+      "id": "c077",
+      "title": {
+        "dum": "LXXVII. De tribus donis, quae merito passionis suae Deus suis confert electis, et de tribus modis amoris perfecti"
+      }
+    },
+    {
+      "id": "c078",
+      "title": {
+        "dum": "LXXVIII. Ut vitae aeternae exercitatio tres habeat modos"
+      }
+    },
+    {
+      "id": "c079",
+      "title": {
+        "dum": "LXXIX. De triplici sanctae ac Christiformis vitae modo"
+      }
+    },
+    {
+      "id": "c080",
+      "title": {
+        "dum": "LXXX. De decem vitiorum generibus, charitati Christi ingratis et contrariis"
+      }
+    },
+    {
+      "id": "c081",
+      "title": {
+        "dum": "LXXXI. De quatuor ornamentis, quae Dens, merito passionis sune, praestitit in perfecta charitate viventibus"
+      }
+    },
+    {
+      "id": "c082",
+      "title": {
+        "dum": "LXXXII. Hora nona. *Quid hac hora Dominus pertulerit, et ut ejus sanctissina Mater affecta fuerit*"
+      }
+    },
+    {
+      "id": "c083",
+      "title": {
+        "dum": "LXXXIII. Hora Despertina. *De perforatione lateris Christi, ejusque depositione de cruce*"
+      }
+    },
+    {
+      "id": "c084",
+      "title": {
+        "dum": "LXXXIV. Hora Completorii. *De sepultura Domini Jesu*"
+      }
+    }
+  ]
+}
