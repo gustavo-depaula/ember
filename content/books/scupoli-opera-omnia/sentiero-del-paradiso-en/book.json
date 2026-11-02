@@ -1,0 +1,132 @@
+{
+  "id": "scupoli-pace-interiore-en",
+  "cover": "classic",
+  "name": {
+    "en-US": "Of Interior Peace, or The Path to Paradise",
+    "it": "Della pace interiore, o Sentiero del Paradiso (trad. inglese 1875)",
+    "pt-BR": "Da paz interior, ou O caminho do Paraíso"
+  },
+  "author": {
+    "it": "Lorenzo Scupoli, C.R.",
+    "en-US": "Lorenzo Scupoli, C.R.",
+    "pt-BR": "Lorenzo Scupoli, C.R."
+  },
+  "description": {
+    "en-US": "The short treatise of Scupoli on interior peace, called the Path to Paradise: how to govern the heart, keep a peaceful spirit under temptation, and walk the road of the cross with confidence in God. English translation of 1875; the Italian is not yet imported.",
+    "it": "Il breve trattato di Scupoli sulla pace interiore, detto Sentiero del Paradiso. Traduzione inglese del 1875; l’originale italiano non è ancora importato.",
+    "pt-BR": "O breve tratado de Scupoli sobre a paz interior, chamado Caminho do Paraíso. Tradução inglesa de 1875."
+  },
+  "composed": "c. 1600",
+  "languages": [
+    "en-US"
+  ],
+  "work": "scupoli/sentiero-del-paradiso",
+  "editions": {
+    "en-US": {
+      "translator": "Anonymous (Library of Spiritual Works for English Catholics, London: Rivingtons)",
+      "year": 1875
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://en.wikisource.org/wiki/The_Spiritual_Combat/Interior_Peace",
+      "edition": "The Spiritual Combat, a new translation, Library of Spiritual Works for English Catholics, London/Oxford/Cambridge: Rivingtons, 1875. English Wikisource transcription (proofread from scan index Spiritualcombat.djvu).",
+      "description": "The chapters of Of Interior Peace, or the Path to Paradise. The series was Anglo-Catholic, but the Catholic content is kept. The Italian original of this piece (Venice 1770 and other collected editions) exists only as long-s OCR and is not imported.",
+      "tier": "A",
+      "tierEvidence": "Published 1875 by an anonymous translator: public domain in the US (before 1931)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "en-US": "Chapter I. What is the Nature of our Heart, and how it ought to be Governed"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "en-US": "Chapter II. Of the Care we should have to preserve a Peaceful Spirit"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "en-US": "Chapter III. How this Building of Inward Peace must be gradually constructed"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "en-US": "Chapter IV. How the Soul must refuse all Consolations, for this is true Humility and Poverty of Spirit, by which Interior Peace is acquired"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "en-US": "Chapter V. How the Soul should keep herself in a state of inward Solitude, that God may work within her"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "en-US": "Chapter VI. Of the Prudence which we ought to exercise in the Love of our Neighbour, so as not to disturb this Peace"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "en-US": "Chapter VII. How the Soul, despoiled of its own Will, must present itself before God"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "en-US": "Chapter VIII. Of the Faith we should have in the Most Holy Sacrament of the Altar; and how we should Offer ourselves unto the Lord"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "en-US": "Chapter IX. That we ought not to seek Pleasures, nor the things which gratify our Tastes; but God Alone"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "en-US": "Chapter X. That the Servant of God must not be Discouraged, though he feel within himself some Repugnance and Disquiet as to this Peace"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "en-US": "Chapter XI. Of the Diligence which the Devil employs to disturb this Peace, and how we ought to guard ourselves against his Devices"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "en-US": "Chapter XII. That the Soul ought not to Disquiet itself on account of inward Trials"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "en-US": "Chapter XIII. That Temptations are sent us by God for our good"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "en-US": "Chapter XIV. Of the Remedy which we ought to use, so as not to be disquieted under Faults and Infirmities"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "en-US": "Chapter XV. How the Soul, without loss of Time, should recover Calmness, and make Progress"
+      }
+    }
+  ]
+}

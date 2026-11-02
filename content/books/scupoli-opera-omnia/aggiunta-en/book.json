@@ -1,0 +1,270 @@
+{
+  "id": "scupoli-aggiunta-en",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Supplement to the Spiritual Combat",
+    "it": "Aggiunta al Combattimento spirituale (trad. inglese 1875)",
+    "pt-BR": "Suplemento ao Combate espiritual"
+  },
+  "author": {
+    "it": "Lorenzo Scupoli, C.R.",
+    "en-US": "Lorenzo Scupoli, C.R.",
+    "pt-BR": "Lorenzo Scupoli, C.R."
+  },
+  "description": {
+    "en-US": "The Supplement (Aggiunta) that Scupoli added to the Spiritual Combat, in thirty-eight short chapters: the nature of Christian perfection, the necessity of the conflict, the three things the young soldier of Christ needs, and further counsels on the spiritual war, the passions, prayer and the examination of conscience. English translation of 1875; the Italian is not yet imported.",
+    "it": "L’Aggiunta di Scupoli al Combattimento spirituale, in trentotto brevi capitoli. Traduzione inglese del 1875; l’originale italiano non è ancora importato.",
+    "pt-BR": "O Suplemento (Aggiunta) de Scupoli ao Combate espiritual, em trinta e oito capítulos breves. Tradução inglesa de 1875."
+  },
+  "composed": "c. 1600",
+  "languages": [
+    "en-US"
+  ],
+  "work": "scupoli/aggiunta",
+  "editions": {
+    "en-US": {
+      "translator": "Anonymous (Library of Spiritual Works for English Catholics, London: Rivingtons)",
+      "year": 1875
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://en.wikisource.org/wiki/The_Spiritual_Combat/Supplement",
+      "edition": "The Spiritual Combat, a new translation, Library of Spiritual Works for English Catholics, London/Oxford/Cambridge: Rivingtons, 1875. English Wikisource transcription (proofread from scan index Spiritualcombat.djvu).",
+      "description": "The thirty-eight chapters of the Supplement with their rubrics. The series was Anglo-Catholic, but the Catholic content is kept. The Italian original of this piece (Venice 1770 and other collected editions) exists only as long-s OCR and is not imported.",
+      "tier": "A",
+      "tierEvidence": "Published 1875 by an anonymous translator: public domain in the US (before 1931)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "en-US": "Chapter I. What is the Nature of Christian Perfection"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "en-US": "Chapter II. Of the Necessity of a Conflict in order to gain Christian Perfection"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "en-US": "Chapter III. Of Three Things which are needful for the Young Soldier of Christ"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "en-US": "Chapter IV. Of Resistance and Violence, and of the Art of using them"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "en-US": "Chapter V. That we have need to Watch continually over our Will, so as to discover the particular Passion to which it inclines"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "en-US": "Chapter VI. How by removing the first Passion, which is Love of the Creature and of Self, and by giving it to God, all the rest will be well Regulated and Ordered"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "en-US": "Chapter VII. That the Human Will stands in need of Succour"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "en-US": "Chapter VIII. How the Will of Man is greatly strengthened by overcoming the World"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "en-US": "Chapter IX. Of the Second Aid to the Will"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "en-US": "Chapter X. Of Temptations to Spiritual Pride"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "en-US": "Chapter XI. Of the Third Aid of the Human Will"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "en-US": "Chapter XII. In what Way a Man may gain the Habit of keeping in the Presence of God whenever he will"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "en-US": "Chapter XIII. Some Advice about Prayer"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "en-US": "Chapter XIV. Of another Way of Praying"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "en-US": "Chapter XV. Of the Fourth Aid of the Human Will"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "en-US": "Chapter XVI. Of Meditation on the Being of God"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "en-US": "Chapter XVII. Of Meditation on the Power of God"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "en-US": "Chapter XVIII. Of Meditation on the Wisdom of God"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "en-US": "Chapter XIX. Of Meditation on the Goodness of God"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "en-US": "Chapter XX. Of Meditation on the Beauty of God"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "en-US": "Chapter XXI. What God has done for Man, and with what Love; and what He would further do for him, if needful"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "en-US": "Chapter XXII. What God does every Day for Man"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "en-US": "Chapter XXIII. How great is the Goodness of our God in waiting for and bearing with the Sinner"
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "en-US": "Chapter XXIV. What God will do in another Life, not only for him who has always served Him, but also for the converted Sinner"
+      }
+    },
+    {
+      "id": "c25",
+      "title": {
+        "en-US": "Chapter XXV. Of the Fifth Support of the Human Will"
+      }
+    },
+    {
+      "id": "c26",
+      "title": {
+        "en-US": "Chapter XXVI. In what Way Self-love may be discovered"
+      }
+    },
+    {
+      "id": "c27",
+      "title": {
+        "en-US": "Chapter XXVII. Of the Birth Aid"
+      }
+    },
+    {
+      "id": "c28",
+      "title": {
+        "en-US": "Chapter XXVIII. Of Sacramental Communion"
+      }
+    },
+    {
+      "id": "c29",
+      "title": {
+        "en-US": "Chapter XXIX. Of Sacramental Confession"
+      }
+    },
+    {
+      "id": "c30",
+      "title": {
+        "en-US": "Chapter XXX. How to overcome the Impure Passion"
+      }
+    },
+    {
+      "id": "c31",
+      "title": {
+        "en-US": "Chapter XXXI. How many things should be Avoided, so as not to fall into the Vice of Impurity"
+      }
+    },
+    {
+      "id": "c32",
+      "title": {
+        "en-US": "Chapter XXXII. What we should do when we have Fallen into this Sin of Impurity"
+      }
+    },
+    {
+      "id": "c33",
+      "title": {
+        "en-US": "Chapter XXXIII. Of some Motives which should lead the Sinner to turn to God without delay"
+      }
+    },
+    {
+      "id": "c34",
+      "title": {
+        "en-US": "Chapter XXXIV. How to obtain the Gift of Tears for our Offences against God, and Conversion"
+      }
+    },
+    {
+      "id": "c35",
+      "title": {
+        "en-US": "Chapter XXXV. Of some Reasons why Men live without Weeping for their Offences against God, without Virtues, and without Christian Perfection"
+      }
+    },
+    {
+      "id": "c36",
+      "title": {
+        "en-US": "Chapter XXXVI. Of Love towards Enemies"
+      }
+    },
+    {
+      "id": "c37",
+      "title": {
+        "en-US": "Chapter XXXVIII. Of Examination of Conscience"
+      }
+    },
+    {
+      "id": "c38",
+      "title": {
+        "en-US": "Chapter XXXVIII. Of Two Rules for Living in Peace"
+      }
+    }
+  ]
+}
