@@ -1,0 +1,158 @@
+{
+  "id": "fenelon-quietisme-dissertation-lettres-paris",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Querelle du quiétisme III : la Dissertation et les Lettres à l’archevêque de Paris (1698)",
+    "en-US": "The Quietism Dispute III: the Dissertation and the Letters to the Archbishop of Paris (1698)",
+    "pt-BR": "Querela do quietismo III: a Dissertação e as Cartas ao arcebispo de Paris (1698)"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "La Dissertation sur les oppositions véritables entre la doctrine de M. de Meaux et celle de M. de Cambrai, l’Instruction pastorale de M. de Noailles sur la perfection chrétienne (1697) que Fénelon réfute, les quatre Lettres à l’archevêque de Paris et la réponse de celui-ci (1698).",
+    "en-US": "The Dissertation on the real oppositions between the doctrine of the Bishop of Meaux and that of the Archbishop of Cambrai, the pastoral instruction of Noailles on Christian perfection (1697) that Fénelon answers, the four Letters to the Archbishop of Paris and his reply (1698).",
+    "pt-BR": "A Dissertação sobre as oposições verdadeiras entre a doutrina do bispo de Meaux e a do arcebispo de Cambrai, a instrução pastoral de Noailles sobre a perfeição cristã (1697) a que Fénelon responde, as quatro Cartas ao arcebispo de Paris e a resposta deste (1698)."
+  },
+  "composed": "1698",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/dissertation-et-lettres-a-paris",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1848
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://fr.wikisource.org/wiki/Livre:Œuvres_complètes_de_Fénelon_(1848-1852),_tome_2.djvu",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1848-1852 (éd. Gosselin, Saint-Sulpice), tome 2, p. 402–519 and the following pages; text layer of the Wikimedia Commons djvu scan.",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1848-52 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-dissertation-oppositions",
+      "title": {
+        "fr-FR": "Dissertation sur les oppositions véritables entre la doctrine de M. de Meaux et celle de M. de Cambrai"
+      },
+      "children": [
+        {
+          "id": "01-dissertation-oppositions-01",
+          "title": {
+            "fr-FR": "Dissertation sur les oppositions véritables entre la doctrine de M. de Meaux et celle de M. de Cambrai, partie 1"
+          }
+        },
+        {
+          "id": "01-dissertation-oppositions-02",
+          "title": {
+            "fr-FR": "Dissertation sur les oppositions véritables entre la doctrine de M. de Meaux et celle de M. de Cambrai, partie 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "02-instruction-de-paris",
+      "title": {
+        "fr-FR": "Instruction pastorale de M. l’archevêque de Paris sur la perfection chrétienne et sur la vie intérieure"
+      },
+      "children": [
+        {
+          "id": "02-instruction-de-paris-01",
+          "title": {
+            "fr-FR": "Instruction pastorale de M. l’archevêque de Paris sur la perfection chrétienne et sur la vie intérieure, partie 1"
+          }
+        },
+        {
+          "id": "02-instruction-de-paris-02",
+          "title": {
+            "fr-FR": "Instruction pastorale de M. l’archevêque de Paris sur la perfection chrétienne et sur la vie intérieure, partie 2"
+          }
+        },
+        {
+          "id": "02-instruction-de-paris-03",
+          "title": {
+            "fr-FR": "Instruction pastorale de M. l’archevêque de Paris sur la perfection chrétienne et sur la vie intérieure, partie 3"
+          }
+        },
+        {
+          "id": "02-instruction-de-paris-04",
+          "title": {
+            "fr-FR": "Instruction pastorale de M. l’archevêque de Paris sur la perfection chrétienne et sur la vie intérieure, partie 4"
+          }
+        },
+        {
+          "id": "02-instruction-de-paris-05",
+          "title": {
+            "fr-FR": "Instruction pastorale de M. l’archevêque de Paris sur la perfection chrétienne et sur la vie intérieure, partie 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "03-lettres-a-paris",
+      "title": {
+        "fr-FR": "Quatre lettres à M. l’archevêque de Paris sur son Instruction pastorale"
+      },
+      "children": [
+        {
+          "id": "03-lettres-a-paris-01",
+          "title": {
+            "fr-FR": "Quatre lettres à M. l’archevêque de Paris sur son Instruction pastorale, partie 1"
+          }
+        },
+        {
+          "id": "03-lettres-a-paris-02",
+          "title": {
+            "fr-FR": "Quatre lettres à M. l’archevêque de Paris sur son Instruction pastorale, partie 2"
+          }
+        },
+        {
+          "id": "03-lettres-a-paris-03",
+          "title": {
+            "fr-FR": "Quatre lettres à M. l’archevêque de Paris sur son Instruction pastorale, partie 3"
+          }
+        },
+        {
+          "id": "03-lettres-a-paris-04",
+          "title": {
+            "fr-FR": "Quatre lettres à M. l’archevêque de Paris sur son Instruction pastorale, partie 4"
+          }
+        },
+        {
+          "id": "03-lettres-a-paris-05",
+          "title": {
+            "fr-FR": "Quatre lettres à M. l’archevêque de Paris sur son Instruction pastorale, partie 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "04-reponse-de-paris",
+      "title": {
+        "fr-FR": "Réponse de M. de Paris aux quatre lettres de M. de Cambrai"
+      },
+      "children": [
+        {
+          "id": "04-reponse-de-paris-01",
+          "title": {
+            "fr-FR": "Réponse de M. de Paris aux quatre lettres de M. de Cambrai, partie 1"
+          }
+        },
+        {
+          "id": "04-reponse-de-paris-02",
+          "title": {
+            "fr-FR": "Réponse de M. de Paris aux quatre lettres de M. de Cambrai, partie 2"
+          }
+        }
+      ]
+    }
+  ]
+}
