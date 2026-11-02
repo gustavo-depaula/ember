@@ -1,0 +1,2882 @@
+{
+  "id": "bernard-epistolae",
+  "cover": "classic",
+  "name": {
+    "la": "Epistolae",
+    "en-US": "Letters",
+    "pt-BR": "Cartas"
+  },
+  "description": {
+    "la": "Epistolae S. Bernardi, CDLX, ordine Mabillonii, cum epistolis ad eum scriptis quae inter eas typis expressae sunt. Textus ex editione Migne (Patrologia Latina 182, 1854).",
+    "en-US": "The 460 letters of Bernard of Clairvaux in Mabillon’s numbering, as printed in the Maurist text of Migne (Patrologia Latina 182, 1854): to popes, kings, bishops, monks and friends, each headed with its addressee and Mabillon’s summary, with a few letters to Bernard (Peter the Venerable’s reply, Eugene III’s letter to the Cistercian chapter) that Mabillon prints among them. Latin only, from a machine-corrected OCR. Letters 42 (On the conduct and office of bishops), 77 (On baptism) and 190 (Against the errors of Abelard) are the treatises Mabillon moved to the second tome; they are given here as letters.",
+    "pt-BR": "As 460 cartas de Bernardo de Claraval, na numeração de Mabillon, a monges, bispos, papas, reis e amigos."
+  },
+  "composed": "1115-1153",
+  "work": "bernard/epistolae",
+  "editions": {
+    "la": {
+      "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=21392",
+      "edition": "S. Bernardi Claraevallensis abbatis opera omnia, ed. J. Mabillon, in Migne, Patrologia Latina 182 (Paris 1854), Epistolae; TEI XML of the Corpus Corporum (University of Zurich), text 21392, from machine-corrected OCR.",
+      "description": "All letters I-CDLX with their summaries (in italics) and Mabillon’s monita. PL page breaks, columns and the paragraph numbers are dropped. Where the printed numeral repeats a number and skips the next (the second CXX and CCXXI), the skipped number is restored (CXXI, CCXXIX).",
+      "tier": "A",
+      "tierEvidence": "Bernard died in 1153; Migne’s 1854 printing is public domain everywhere."
+    }
+  ],
+  "author": {
+    "la": "Bernardus Claraevallensis",
+    "en-US": "St. Bernard of Clairvaux",
+    "pt-BR": "São Bernardo de Claraval"
+  },
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "epp-001-050",
+      "title": {
+        "la": "Epistolae I-L"
+      },
+      "children": [
+        {
+          "id": "e001",
+          "title": {
+            "la": "Epistola I. Ad Robertum Nepotem Suum, qui de Ordine Cisterciensi Transierat ad Cluniacensem"
+          }
+        },
+        {
+          "id": "e002",
+          "title": {
+            "la": "Epistola II. Ad Fulconem Puerum qui Postea Fuit Lingonensis Archidiaconus"
+          }
+        },
+        {
+          "id": "e003",
+          "title": {
+            "la": "Epistola III. Ad Canonicos Regulares de Aildicurte"
+          }
+        },
+        {
+          "id": "e004",
+          "title": {
+            "la": "Epistola IV. Ad Arnoldum Abbatem Morimundi"
+          }
+        },
+        {
+          "id": "e005",
+          "title": {
+            "la": "Epistola V. Ad Adam Monachum"
+          }
+        },
+        {
+          "id": "e006",
+          "title": {
+            "la": "Epistola VI. Ad Brunonem Coloniensem"
+          }
+        },
+        {
+          "id": "e007",
+          "title": {
+            "la": "Epistola VII. Ad Adam Monachum"
+          }
+        },
+        {
+          "id": "e008",
+          "title": {
+            "la": "Epistola VIII. Ad Brunonem Coloniensem Electum"
+          }
+        },
+        {
+          "id": "e009",
+          "title": {
+            "la": "Epistola IX. Ad eumdem Jam Archiepiscopum Coloniensem"
+          }
+        },
+        {
+          "id": "e010",
+          "title": {
+            "la": "Epistola X. Ad eumdem"
+          }
+        },
+        {
+          "id": "e011",
+          "title": {
+            "la": "Epistola XI. Ad Guigonem Priorem, et Caeteros Cartusiae Majoris Religiosos"
+          }
+        },
+        {
+          "id": "e012",
+          "title": {
+            "la": "Epistola XII. Ad eosdem"
+          }
+        },
+        {
+          "id": "e013",
+          "title": {
+            "la": "Epistola XIII. Ad Dominum Papam Honorium"
+          }
+        },
+        {
+          "id": "e014",
+          "title": {
+            "la": "Epistola XIV. Ad eumdem Honorium Papam"
+          }
+        },
+        {
+          "id": "e015",
+          "title": {
+            "la": "Epistola XV. Ad Haimericum Cancellarium"
+          }
+        },
+        {
+          "id": "e016",
+          "title": {
+            "la": "Epistola XVI. Ad Petrum Presbyterum Cardinalem"
+          }
+        },
+        {
+          "id": "e017",
+          "title": {
+            "la": "Epistola XVII. Ad Petrum Diaconum Cardinalem"
+          }
+        },
+        {
+          "id": "e018",
+          "title": {
+            "la": "Epistola XVIII. Ad eumdem"
+          }
+        },
+        {
+          "id": "e019",
+          "title": {
+            "la": "Epistola XIX. Ad eumdem"
+          }
+        },
+        {
+          "id": "e020",
+          "title": {
+            "la": "Epistola XX. Ad Haimericum Cancellarium"
+          }
+        },
+        {
+          "id": "e021",
+          "title": {
+            "la": "Epistola XXI. Ad Matthaeum Legatum"
+          }
+        },
+        {
+          "id": "e022",
+          "title": {
+            "la": "Epistola XXII. Ad Humbaldum Lugdunensem Archiepiscopum et Legatum"
+          }
+        },
+        {
+          "id": "e023",
+          "title": {
+            "la": "Epistola XXIII. Ad Attonem Trecensem Episcopum"
+          }
+        },
+        {
+          "id": "e024",
+          "title": {
+            "la": "Epistola XXIV. Ad Magistrum Gillebertum Universalem, Episcopum Londoniensem"
+          }
+        },
+        {
+          "id": "e025",
+          "title": {
+            "la": "Epistola XXV. Ad Hugonem, Rotomagensem Archiepiscopum"
+          }
+        },
+        {
+          "id": "e026",
+          "title": {
+            "la": "Epistola XXVI. Ad Guidonem Lausannensem Episcopum"
+          }
+        },
+        {
+          "id": "e027",
+          "title": {
+            "la": "Epistola XXVII. Ad Ardutionem Gebennensem Electum"
+          }
+        },
+        {
+          "id": "e028",
+          "title": {
+            "la": "Epistola XXVIII. Ad eumdem Jam Episcopum"
+          }
+        },
+        {
+          "id": "e029",
+          "title": {
+            "la": "Epistola XXIX. Ad Stephanum Metensem Episcopum"
+          }
+        },
+        {
+          "id": "e030",
+          "title": {
+            "la": "Epistola XXX. Ad Alberonem Primicerium Metensem"
+          }
+        },
+        {
+          "id": "e031",
+          "title": {
+            "la": "Epistola XXXI. Ad Hugonem Comitem Campaniae, Militem Templi Factum"
+          }
+        },
+        {
+          "id": "e032",
+          "title": {
+            "la": "Epistola XXXII. Ad Abbatem Sancti-nicasii Remensis"
+          }
+        },
+        {
+          "id": "e033",
+          "title": {
+            "la": "Epistola XXXIII. Ad Hugonem Pontiniacensem Abbatem"
+          }
+        },
+        {
+          "id": "e034",
+          "title": {
+            "la": "Epistola XXXIV. Ad Drogonem Monachum"
+          }
+        },
+        {
+          "id": "e035",
+          "title": {
+            "la": "Epistola XXXV. Ad Magistrum Hugonem Farsitum"
+          }
+        },
+        {
+          "id": "e036",
+          "title": {
+            "la": "Epistola XXXVI. Ad eumdem"
+          }
+        },
+        {
+          "id": "e037",
+          "title": {
+            "la": "Epistola XXXVII. Ad Theobaldum Comitem Campaniae"
+          }
+        },
+        {
+          "id": "e038",
+          "title": {
+            "la": "Epistola XXXVIII. Ad eumdem"
+          }
+        },
+        {
+          "id": "e039",
+          "title": {
+            "la": "Epistola XXXIX. Ad eumdem"
+          }
+        },
+        {
+          "id": "e040",
+          "title": {
+            "la": "Epistola XL. Ad eumdem"
+          }
+        },
+        {
+          "id": "e041",
+          "title": {
+            "la": "Epistola XLI. Ad eumdem"
+          }
+        },
+        {
+          "id": "e042",
+          "title": {
+            "la": "Epistola XLII. Ad Henricum Senonensem Archiepiscopum"
+          }
+        },
+        {
+          "id": "e043",
+          "title": {
+            "la": "Epistola XLIII. Ad eumdem Henricum"
+          }
+        },
+        {
+          "id": "e044",
+          "title": {
+            "la": "Epistola XLIV. Ad eumdem"
+          }
+        },
+        {
+          "id": "e045",
+          "title": {
+            "la": "Epistola XLV. Ad Ludovicum Regem Francorum"
+          }
+        },
+        {
+          "id": "e046",
+          "title": {
+            "la": "Epistola XLVI. Ad Dominum Papam Honorium Ii"
+          }
+        },
+        {
+          "id": "e047",
+          "title": {
+            "la": "Epistola XLVII. Ad eumdem ex Persona Gaufridi Carnotensis Episcopi"
+          }
+        },
+        {
+          "id": "e048",
+          "title": {
+            "la": "Epistola XLVIII. Ad Haimericum Cancellarium, Unde Supra, et contra Obtrectatores"
+          }
+        },
+        {
+          "id": "e049",
+          "title": {
+            "la": "Epistola XLIX. Ad Dominum Papam Honorium, pro Henrico Senonensi Archiepiscopo"
+          }
+        },
+        {
+          "id": "e050",
+          "title": {
+            "la": "Epistola L. Ad eumdem"
+          }
+        }
+      ]
+    },
+    {
+      "id": "epp-051-100",
+      "title": {
+        "la": "Epistolae LI-C"
+      },
+      "children": [
+        {
+          "id": "e051",
+          "title": {
+            "la": "Epistola LI. Ad Haimericum Cancellarium"
+          }
+        },
+        {
+          "id": "e052",
+          "title": {
+            "la": "Epistola LII. Ad eumdem"
+          }
+        },
+        {
+          "id": "e053",
+          "title": {
+            "la": "Epistola LIII. Ad eumdem"
+          }
+        },
+        {
+          "id": "e054",
+          "title": {
+            "la": "Epistola LIV. Ad eumdem"
+          }
+        },
+        {
+          "id": "e055",
+          "title": {
+            "la": "Epistola LV. Ad Gaufridum Carnotensem Episcopum"
+          }
+        },
+        {
+          "id": "e056",
+          "title": {
+            "la": "Epistola LVI. Ad eumdem"
+          }
+        },
+        {
+          "id": "e057",
+          "title": {
+            "la": "Epistola LVII. Ad eumdem"
+          }
+        },
+        {
+          "id": "e058",
+          "title": {
+            "la": "Epistola LVIII. Ad Ebalum Catalaunensem Episcopum"
+          }
+        },
+        {
+          "id": "e059",
+          "title": {
+            "la": "Epistola LIX. Ad Guilencum Lingonensem Episcopum"
+          }
+        },
+        {
+          "id": "e060",
+          "title": {
+            "la": "Epistola LX. Ad eumdem"
+          }
+        },
+        {
+          "id": "e061",
+          "title": {
+            "la": "Epistola LXI. Ad Ricuinum Tullensem Episcopum"
+          }
+        },
+        {
+          "id": "e062",
+          "title": {
+            "la": "Epistola LXII. Ad Henricum Virdunensem Episcopum"
+          }
+        },
+        {
+          "id": "e063",
+          "title": {
+            "la": "Epistola LXIII. Ad eumdem"
+          }
+        },
+        {
+          "id": "e064",
+          "title": {
+            "la": "Epistola LXIV. Ad Alexandrum Lincolniensem Episcopum"
+          }
+        },
+        {
+          "id": "e065",
+          "title": {
+            "la": "Epistola LXV. Ad Alvisum Abbatem Aquiscincti"
+          }
+        },
+        {
+          "id": "e066",
+          "title": {
+            "la": "Epistola LXVI. Ad Gaufridum Abbatem Sancti-medardi"
+          }
+        },
+        {
+          "id": "e067",
+          "title": {
+            "la": "Epistola LXVII. Ad Monachos Flaviacenses"
+          }
+        },
+        {
+          "id": "e068",
+          "title": {
+            "la": "Epistola LXVIII. Ad eosdem"
+          }
+        },
+        {
+          "id": "e069",
+          "title": {
+            "la": "Epistola LXIX. Ad Guidonem Abbatem de Tribus-fontibus"
+          }
+        },
+        {
+          "id": "e070",
+          "title": {
+            "la": "Epistola LXX. Ad eumdem"
+          }
+        },
+        {
+          "id": "e071",
+          "title": {
+            "la": "Epistola LXXI. Ab Monachos Ejusdem Loci"
+          }
+        },
+        {
+          "id": "e072",
+          "title": {
+            "la": "Epistola LXXII. Ad Rainaldum Fusniacensem Abbatem"
+          }
+        },
+        {
+          "id": "e073",
+          "title": {
+            "la": "Epistola LXXIII. Ad eumdem"
+          }
+        },
+        {
+          "id": "e074",
+          "title": {
+            "la": "Epistola LXXIV. Ad eumdem"
+          }
+        },
+        {
+          "id": "e075",
+          "title": {
+            "la": "Epistola LXXV. Ad Artaldum Prulliacencem Abbatem"
+          }
+        },
+        {
+          "id": "e076",
+          "title": {
+            "la": "Epistola LXXVI. Ad Abbatem Canonicorum S. Petri-de-monte"
+          }
+        },
+        {
+          "id": "e077",
+          "title": {
+            "la": "Epistola LXXVII. Ad Magistrum Hugonem de S. Victore"
+          }
+        },
+        {
+          "id": "e078",
+          "title": {
+            "la": "Epistola LXXVIII. Ad Sugerium Abbatem Sancti Dionysii"
+          }
+        },
+        {
+          "id": "e079",
+          "title": {
+            "la": "Epistola LXXIX. Ad Abbatem Lucam"
+          }
+        },
+        {
+          "id": "e080",
+          "title": {
+            "la": "Epistola LXXX. Ad Guidonem Abbatem Molismensem"
+          }
+        },
+        {
+          "id": "e081",
+          "title": {
+            "la": "Epistola LXXXI. Ad Gerardum Abbatem Pultariensem"
+          }
+        },
+        {
+          "id": "e082",
+          "title": {
+            "la": "Epistola LXXXII. Ad Abbatem Sancti Joannis Carnotensis"
+          }
+        },
+        {
+          "id": "e083",
+          "title": {
+            "la": "Epistola LXXXIII. Ad Simonem Abbatem Sancti Nicolai"
+          }
+        },
+        {
+          "id": "e084",
+          "title": {
+            "la": "Epistola LXXXIV. Ad eumdem"
+          }
+        },
+        {
+          "id": "e085",
+          "title": {
+            "la": "Epistola LXXXV. Ad eumdem Guillelmum"
+          }
+        },
+        {
+          "id": "e086",
+          "title": {
+            "la": "Epistola LXXXVI. Ad eumdem"
+          }
+        },
+        {
+          "id": "e087",
+          "title": {
+            "la": "Epistola LXXXVII. Ad Ogerium Canonicum Regularem"
+          }
+        },
+        {
+          "id": "e088",
+          "title": {
+            "la": "Epistola LXXXVIII. Ad eumdem"
+          }
+        },
+        {
+          "id": "e089",
+          "title": {
+            "la": "Epistola LXXXIX. Ad eumdem"
+          }
+        },
+        {
+          "id": "e090",
+          "title": {
+            "la": "Epistola XC. Ad eumdem"
+          }
+        },
+        {
+          "id": "e091",
+          "title": {
+            "la": "Epistola XCI. Ad Abbates Suessione Congregatos"
+          }
+        },
+        {
+          "id": "e092",
+          "title": {
+            "la": "Epistola XCII. Ad Henricum Regem Anglorum"
+          }
+        },
+        {
+          "id": "e093",
+          "title": {
+            "la": "Epistola XCIII. Ad Henricum Wintoniensem Episcopum"
+          }
+        },
+        {
+          "id": "e094",
+          "title": {
+            "la": "Epistola XCIV. Ad Abbatem Cujusdam Monasterii Eboracensis, Unde Exierat Prior cum Aliquantis Fratribus"
+          }
+        },
+        {
+          "id": "e095",
+          "title": {
+            "la": "Epistola XCV. Ad Turstinum Archiepiscopum Eboracensem"
+          }
+        },
+        {
+          "id": "e096",
+          "title": {
+            "la": "Epistola XCVI. Ad Richardum Fontanensem Abbatem, et Socios Ejus, qui de Alio Ordine ad Cisterciensem Transierant"
+          }
+        },
+        {
+          "id": "e097",
+          "title": {
+            "la": "Epistola XCVII. Ad Ducem Conradum"
+          }
+        },
+        {
+          "id": "e098",
+          "title": {
+            "la": "Epistola XCVIII. De Machabaeis, Sed ad Quem Scripta Sit Ignoratur"
+          }
+        },
+        {
+          "id": "e099",
+          "title": {
+            "la": "Epistola XCIX. Ad Monachum Quemdam"
+          }
+        },
+        {
+          "id": "e100",
+          "title": {
+            "la": "Epistola C. Ad Episcopum Quemdam"
+          }
+        }
+      ]
+    },
+    {
+      "id": "epp-101-150",
+      "title": {
+        "la": "Epistolae CI-CL"
+      },
+      "children": [
+        {
+          "id": "e101",
+          "title": {
+            "la": "Epistola CI. Ad Religiosos"
+          }
+        },
+        {
+          "id": "e102",
+          "title": {
+            "la": "Epistola CII. Ad Quemdam Abbatem"
+          }
+        },
+        {
+          "id": "e103",
+          "title": {
+            "la": "Epistola CIII. Ad Fratrem Willelmi Monachi Clarae-vallensis"
+          }
+        },
+        {
+          "id": "e104",
+          "title": {
+            "la": "Epistola CIV. Ad Magistrum Gualterum de Calvo-monte"
+          }
+        },
+        {
+          "id": "e105",
+          "title": {
+            "la": "Epistola CV. Ad Romanum Romanae Curiae Subdiaconum"
+          }
+        },
+        {
+          "id": "e106",
+          "title": {
+            "la": "Epistola CVI. Ad Magistrum Henricum Murdach"
+          }
+        },
+        {
+          "id": "e107",
+          "title": {
+            "la": "Epistola CVII. Ad Thomam Praepositum de Beverla"
+          }
+        },
+        {
+          "id": "e108",
+          "title": {
+            "la": "Epistola CVIII. Ad Thomam de Sancto-audomaro, Post Transgressionem Promissionis Suae Veniendi ad Conversionem"
+          }
+        },
+        {
+          "id": "e109",
+          "title": {
+            "la": "Epistola CIX. Ad Illustrem Juvenem Gaufridum de Perrona, et Socios Ejus"
+          }
+        },
+        {
+          "id": "e110",
+          "title": {
+            "la": "Epistola CX. Ad Parentes Ejusdem Gaufridi Consolatoria"
+          }
+        },
+        {
+          "id": "e111",
+          "title": {
+            "la": "Epistola CXI. Ex Persona Eliae Monachi ad Parentes suos"
+          }
+        },
+        {
+          "id": "e112",
+          "title": {
+            "la": "Epistola CXII. Ad Gaufridum Lexoviensem"
+          }
+        },
+        {
+          "id": "e113",
+          "title": {
+            "la": "Epistola CXIII. Ad Sophiam Virginem"
+          }
+        },
+        {
+          "id": "e114",
+          "title": {
+            "la": "Epistola CXIV. Ad Alteram Sanctimonialem"
+          }
+        },
+        {
+          "id": "e115",
+          "title": {
+            "la": "Epistola CXV. Ad Aliam Sanctimonialem de Monasterio Sanctae Mariae Trecensis"
+          }
+        },
+        {
+          "id": "e116",
+          "title": {
+            "la": "Epistola CXVI. Ad Ermengardem Quondam Comitissam Britanniae"
+          }
+        },
+        {
+          "id": "e117",
+          "title": {
+            "la": "Epistola CXVII. Ad eamdem"
+          }
+        },
+        {
+          "id": "e118",
+          "title": {
+            "la": "Epistola CXVIII. Ad Beatricem Nobilem et Religiosam Matronam"
+          }
+        },
+        {
+          "id": "e119",
+          "title": {
+            "la": "Epistola CXIX. Ad Ducem et Ducissam Lotharingiae"
+          }
+        },
+        {
+          "id": "e120",
+          "title": {
+            "la": "Epistola CXX. Ad Ducissam Lotharingiae"
+          }
+        },
+        {
+          "id": "e121",
+          "title": {
+            "la": "Epistola CXXI. Ad Ducissam Burgundiae"
+          }
+        },
+        {
+          "id": "e122",
+          "title": {
+            "la": "Epistola CXXII. Hildeberti Turonensis Archiepiscopi ad Bernardum Abbatem"
+          }
+        },
+        {
+          "id": "e123",
+          "title": {
+            "la": "Epistola CXXIII. Rescriptum Abbatis Bernardi ad Hildebertum Turonensem Archiepiscopum"
+          }
+        },
+        {
+          "id": "e124",
+          "title": {
+            "la": "Epistola CXXIV. Ad eumdem Hildebertum, qui Nondum Receperat Dominum Innocentium Papam"
+          }
+        },
+        {
+          "id": "e125",
+          "title": {
+            "la": "Epistola CXXV. Ad Magistrum Gaufridum de Loratorio"
+          }
+        },
+        {
+          "id": "e126",
+          "title": {
+            "la": "Epistola CXXVI. Ad Episcopos Aquitaniae contra Gerardum Engolismensem"
+          }
+        },
+        {
+          "id": "e127",
+          "title": {
+            "la": "Epistola CXXVII. Ad Guillelmum Comitem Pictavorum, Ducem Aquitaniae, ex Persona Hugonis Ducis Rurgundiae"
+          }
+        },
+        {
+          "id": "e128",
+          "title": {
+            "la": "Epistola CXXVIII. Ad eumdem"
+          }
+        },
+        {
+          "id": "e129",
+          "title": {
+            "la": "Epistola CXXIX. Ad Januenses"
+          }
+        },
+        {
+          "id": "e130",
+          "title": {
+            "la": "Epistola CXXX. Ad Pisanos"
+          }
+        },
+        {
+          "id": "e131",
+          "title": {
+            "la": "Epistola CXXXI. Ad Mediolanenses"
+          }
+        },
+        {
+          "id": "e132",
+          "title": {
+            "la": "Epistola CXXXII. Ad Clerum Mediolanensem"
+          }
+        },
+        {
+          "id": "e133",
+          "title": {
+            "la": "Epistola CXXXIII. Ad Universos Cives Mediolanensium"
+          }
+        },
+        {
+          "id": "e134",
+          "title": {
+            "la": "Epistola CXXXIV. Ad Novitios apud Mediolanum Conversos"
+          }
+        },
+        {
+          "id": "e135",
+          "title": {
+            "la": "Epistola CXXXV. Ad Petrum Papiensem Episcopum"
+          }
+        },
+        {
+          "id": "e136",
+          "title": {
+            "la": "Epistola CXXXVI. Ad Innocentium Papam"
+          }
+        },
+        {
+          "id": "e137",
+          "title": {
+            "la": "Epistola CXXXVII. Ad Imperatricem Romanorum"
+          }
+        },
+        {
+          "id": "e138",
+          "title": {
+            "la": "Epistola CXXXVIII. Ad Henricum Regem Anglorum"
+          }
+        },
+        {
+          "id": "e139",
+          "title": {
+            "la": "Epistola CXXXIX. Ad Lotharium Imperatorem"
+          }
+        },
+        {
+          "id": "e140",
+          "title": {
+            "la": "Epistola CXL. Ad eumdem"
+          }
+        },
+        {
+          "id": "e141",
+          "title": {
+            "la": "Epistola CXLI. Ad Humbertum Abbatem Igniacensem"
+          }
+        },
+        {
+          "id": "e142",
+          "title": {
+            "la": "Epistola CXLII. Ad Monachos Alpenses"
+          }
+        },
+        {
+          "id": "e143",
+          "title": {
+            "la": "Epistola CXLIII. Ad suos Clarae-vallenses"
+          }
+        },
+        {
+          "id": "e144",
+          "title": {
+            "la": "Epistola CXLIV. Ad eosdem"
+          }
+        },
+        {
+          "id": "e145",
+          "title": {
+            "la": "Epistola CXLV. Ad Abbates Cistercii Congregatos"
+          }
+        },
+        {
+          "id": "e146",
+          "title": {
+            "la": "Epistola CXLVI. Ad Burchardum Balernensem Abbatem"
+          }
+        },
+        {
+          "id": "e147",
+          "title": {
+            "la": "Epistola CXLVII. Ad Petrum Abbatem Cluniacensem"
+          }
+        },
+        {
+          "id": "e148",
+          "title": {
+            "la": "Epistola CXLVIII. Ad eumdem"
+          }
+        },
+        {
+          "id": "e149",
+          "title": {
+            "la": "Epistola CXLIX. Ad eumdem"
+          }
+        },
+        {
+          "id": "e150",
+          "title": {
+            "la": "Epistola CL. Ad Dominum Papam Innocentium"
+          }
+        }
+      ]
+    },
+    {
+      "id": "epp-151-200",
+      "title": {
+        "la": "Epistolae CLI-CC"
+      },
+      "children": [
+        {
+          "id": "e151",
+          "title": {
+            "la": "Epistola CLI. Ad Philippum Turonensis Ecclesiae Invasorem"
+          }
+        },
+        {
+          "id": "e152",
+          "title": {
+            "la": "Epistola CLII. Ad Dominum Papam Innocentium, pro Trecensi Episcopo"
+          }
+        },
+        {
+          "id": "e153",
+          "title": {
+            "la": "Epistola CLIII. Ad Bernardum de Portis, de Ordine Carthusiensi"
+          }
+        },
+        {
+          "id": "e154",
+          "title": {
+            "la": "Epistola CLIV. Ad eumdem"
+          }
+        },
+        {
+          "id": "e155",
+          "title": {
+            "la": "Epistola CLV. Ad Dominum Papam Innocentium, pro Eodem Quando Electus Est"
+          }
+        },
+        {
+          "id": "e156",
+          "title": {
+            "la": "Epistola CLVI. Ad Eumdem, pro Clericis Aurelianensibus"
+          }
+        },
+        {
+          "id": "e157",
+          "title": {
+            "la": "Epistola CLVII. Ad Haimericum, pro Eisdem"
+          }
+        },
+        {
+          "id": "e158",
+          "title": {
+            "la": "Epistola CLVIII. Ad Dominum Papam Innocentium, super Interfectione Magistri Thomae Prioris S. Victoris Parisiensis"
+          }
+        },
+        {
+          "id": "e159",
+          "title": {
+            "la": "Epistola CLIX. Ad Eumdem, in Persona Stephani Parisiensis Episcopi"
+          }
+        },
+        {
+          "id": "e160",
+          "title": {
+            "la": "Epistola CLX. Ad Haimericum Cancellarium, in Persona Ejusdem Episcopi"
+          }
+        },
+        {
+          "id": "e161",
+          "title": {
+            "la": "Epistola CLXI. Ad Dominum Papam Innocentium"
+          }
+        },
+        {
+          "id": "e162",
+          "title": {
+            "la": "Epistola CLXII. Ad Haimericum Cancellarium de Eodem"
+          }
+        },
+        {
+          "id": "e163",
+          "title": {
+            "la": "Epistola CLXIII. Ad Joannem Cremensem Cardinalem Presbyterum de Eodem"
+          }
+        },
+        {
+          "id": "e164",
+          "title": {
+            "la": "Epistola CLXIV. Actio Causae Lingonensis Ecclesiae ad Dominum Innocentium Papam"
+          }
+        },
+        {
+          "id": "e165",
+          "title": {
+            "la": "Epistola CLXV. Ad Falconem Decanum, et Guidonem Thesaurarium Lugdunensis Ecclesiae"
+          }
+        },
+        {
+          "id": "e166",
+          "title": {
+            "la": "Epistola CLXVI. Ad Dominum Papam Innocentium"
+          }
+        },
+        {
+          "id": "e167",
+          "title": {
+            "la": "Epistola CLXVII. Ad eumdem"
+          }
+        },
+        {
+          "id": "e168",
+          "title": {
+            "la": "Epistola CLXVIII. Ad Episcopos et Cardinales Romanae Curiae"
+          }
+        },
+        {
+          "id": "e169",
+          "title": {
+            "la": "Epistola CLXIX. Ad Dominum Papam Innocentium"
+          }
+        },
+        {
+          "id": "e170",
+          "title": {
+            "la": "Epistola CLXX. Ad Ludovicum Juniorem Regem Francorum"
+          }
+        },
+        {
+          "id": "e171",
+          "title": {
+            "la": "Epistola CLXXI. Ad Dominum Papam Innocentium"
+          }
+        },
+        {
+          "id": "e172",
+          "title": {
+            "la": "Epistola CLXXII. Ad eumdem in Persona Godefridi Lingonensis Episcopi"
+          }
+        },
+        {
+          "id": "e173",
+          "title": {
+            "la": "Epistola CLXXIII. Ad Ipsum Falconem"
+          }
+        },
+        {
+          "id": "e174",
+          "title": {
+            "la": "Epistola CLXXIV. Ad Canonicos Lugdunenses, de Conceptione S. Mariae"
+          }
+        },
+        {
+          "id": "e175",
+          "title": {
+            "la": "Epistola CLXXV. Ad Patriarcham Jerosolymorum"
+          }
+        },
+        {
+          "id": "e176",
+          "title": {
+            "la": "Epistola CLXXVI. Ad Dominum Papam Innocentium, ex Persona Alberonis Treverensis Archiepiscopi"
+          }
+        },
+        {
+          "id": "e177",
+          "title": {
+            "la": "Epistola CLXXVII. Ad eumdem in Persona Ejusdem"
+          }
+        },
+        {
+          "id": "e178",
+          "title": {
+            "la": "Epistola CLXXVIII. Ad Dominum Papam Innocentium pro Alberone Treverensi Archiepiscopo"
+          }
+        },
+        {
+          "id": "e179",
+          "title": {
+            "la": "Epistola CLXXIX. Ad eumdem pro Eodem"
+          }
+        },
+        {
+          "id": "e180",
+          "title": {
+            "la": "Epistola CLXXX. Ad eumdem pro Eodem"
+          }
+        },
+        {
+          "id": "e181",
+          "title": {
+            "la": "Epistola CLXXXI. Ad Haimericum Cancellarium"
+          }
+        },
+        {
+          "id": "e182",
+          "title": {
+            "la": "Epistola CLXXXII. Ad Henricum Senonensem Archiepiscopum"
+          }
+        },
+        {
+          "id": "e183",
+          "title": {
+            "la": "Epistola CLXXXIII. Ad Conradum Regem Romanorum"
+          }
+        },
+        {
+          "id": "e184",
+          "title": {
+            "la": "Epistola CLXXXIV. Ad Dominum Papam Innocentium"
+          }
+        },
+        {
+          "id": "e185",
+          "title": {
+            "la": "Epistola CLXXXV. Ad Eustachium Occupatorem Valentinae Sedis"
+          }
+        },
+        {
+          "id": "e186",
+          "title": {
+            "la": "Epistola CLXXXVI. Ad Simonem Filium Castellani Cameracensis"
+          }
+        },
+        {
+          "id": "e187",
+          "title": {
+            "la": "Epistola CLXXXVII. Ad Episcopos Senonas Convocandos, contra Petrum Abaelardum"
+          }
+        },
+        {
+          "id": "e188",
+          "title": {
+            "la": "Epistola CLXXXVIII. Ad Episcopos et Cardinales Curiae, de Eodem"
+          }
+        },
+        {
+          "id": "e189",
+          "title": {
+            "la": "Epistola CLXXXIX. Ad Dominum Papam Innocentium, de Eodem"
+          }
+        },
+        {
+          "id": "e190",
+          "title": {
+            "la": "Epistola CXC. Ad Innocentium Pontificem, de Erroribus Quibusdam Petri Abaelardi"
+          }
+        },
+        {
+          "id": "e191",
+          "title": {
+            "la": "Epistola CXCI. Ad Innocentium ex Persona Domini Archiepiscopi Remensis, Etc"
+          }
+        },
+        {
+          "id": "e192",
+          "title": {
+            "la": "Epistola CXCII. Ad Magistrum Guidonem de Castello"
+          }
+        },
+        {
+          "id": "e193",
+          "title": {
+            "la": "Epistola CXCIII. Ad Magistrum Ivonem Cardinalem, de Eodem"
+          }
+        },
+        {
+          "id": "e194",
+          "title": {
+            "la": "Epistola CXCIV. Rescriptum Domini Innocentii Papae contra Haereses Petri Abaelardi"
+          }
+        },
+        {
+          "id": "e195",
+          "title": {
+            "la": "Epistola CXCV. Ad Episcopum Constantiensem"
+          }
+        },
+        {
+          "id": "e196",
+          "title": {
+            "la": "Epistola CXCVI. Ad Guidonem Legatum de Eodem"
+          }
+        },
+        {
+          "id": "e197",
+          "title": {
+            "la": "Epistola CXCVII. Ad Petrum Bisuntinum Decanum"
+          }
+        },
+        {
+          "id": "e198",
+          "title": {
+            "la": "Epistola CXCVIII. Ad Dominum Papam Innocentium"
+          }
+        },
+        {
+          "id": "e199",
+          "title": {
+            "la": "Epistola CXCIX. Ad eumdem"
+          }
+        },
+        {
+          "id": "e200",
+          "title": {
+            "la": "Epistola CC. Ad Magistrum Ulgerium Andegavensem Episcopum, pro Gravi Querela quae Erat inter Ipsum et Abbatissam Fontis-ebraldi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "epp-201-250",
+      "title": {
+        "la": "Epistolae CCI-CCL"
+      },
+      "children": [
+        {
+          "id": "e201",
+          "title": {
+            "la": "Epistola CCI. Ad Balduinum Abbatem Reatini Monasterii"
+          }
+        },
+        {
+          "id": "e202",
+          "title": {
+            "la": "Epistola CCII. Ad Clerum Senonensem"
+          }
+        },
+        {
+          "id": "e203",
+          "title": {
+            "la": "Epistola CCIII. Ad Attonem Episcopum et Clerum Trecensem"
+          }
+        },
+        {
+          "id": "e204",
+          "title": {
+            "la": "Epistola CCIV. Ad Abbatem Sancti-albini"
+          }
+        },
+        {
+          "id": "e205",
+          "title": {
+            "la": "Epistola CCV. Ad Episcopum Roffensem"
+          }
+        },
+        {
+          "id": "e206",
+          "title": {
+            "la": "Epistola CCVI. Ad Reginam Jerosolymorum"
+          }
+        },
+        {
+          "id": "e207",
+          "title": {
+            "la": "Epistola CCVII. Ad Rogerium Regem Siciliae"
+          }
+        },
+        {
+          "id": "e208",
+          "title": {
+            "la": "Epistola CCVIII. Ad eumdem"
+          }
+        },
+        {
+          "id": "e209",
+          "title": {
+            "la": "Epistola CCIX. Ad eumdem"
+          }
+        },
+        {
+          "id": "e210",
+          "title": {
+            "la": "Epistola CCX. Ad Dominum Papam Innocentium"
+          }
+        },
+        {
+          "id": "e211",
+          "title": {
+            "la": "Epistola CCXI. Ad eumdem"
+          }
+        },
+        {
+          "id": "e212",
+          "title": {
+            "la": "Epistola CCXII. Ad eumdem"
+          }
+        },
+        {
+          "id": "e213",
+          "title": {
+            "la": "Epistola CCXIII. Ad eumdem"
+          }
+        },
+        {
+          "id": "e214",
+          "title": {
+            "la": "Epistola CCXIV. Ad eumdem"
+          }
+        },
+        {
+          "id": "e215",
+          "title": {
+            "la": "Epistola CCXV. Ad eumdem"
+          }
+        },
+        {
+          "id": "e216",
+          "title": {
+            "la": "Epistola CCXVI. Ad eumdem"
+          }
+        },
+        {
+          "id": "e217",
+          "title": {
+            "la": "Epistola CCXVII. Ad eumdem"
+          }
+        },
+        {
+          "id": "e218",
+          "title": {
+            "la": "Epistola CCXVIII. Ad eumdem Excusatoria, et Novissima"
+          }
+        },
+        {
+          "id": "e219",
+          "title": {
+            "la": "Epistola CCXIX. Ad Tres Episcopos Curiae, Albericum Ostiensem, Stephanum Praenestinum, Igmarum Tusculanum , et Gerardum Cancellarium"
+          }
+        },
+        {
+          "id": "e220",
+          "title": {
+            "la": "Epistola CCXX. Ad Ludovicum Regem Francorum"
+          }
+        },
+        {
+          "id": "e221",
+          "title": {
+            "la": "Epistola CCXXI. Ad eumdem"
+          }
+        },
+        {
+          "id": "e222",
+          "title": {
+            "la": "Epistola CCXXII. Ad Joslenum Suessionensem Episcopum, et Sugerium Abbatem Sancti-dionysii"
+          }
+        },
+        {
+          "id": "e223",
+          "title": {
+            "la": "Epistola CCXXIII. Ad Joslenum Episcopum Suessionensem"
+          }
+        },
+        {
+          "id": "e224",
+          "title": {
+            "la": "Epistola CCXXIV. Ad Stephanum Praenestinum Episcopum"
+          }
+        },
+        {
+          "id": "e225",
+          "title": {
+            "la": "Epistola CCXXV. Ad Dominum Episcopum Suessionensem"
+          }
+        },
+        {
+          "id": "e226",
+          "title": {
+            "la": "Epistola CCXXVI. Ad Ludovicum Regem Francorum"
+          }
+        },
+        {
+          "id": "e227",
+          "title": {
+            "la": "Epistola CCXXVII. Ad Episcopum Suessionensem"
+          }
+        },
+        {
+          "id": "e228",
+          "title": {
+            "la": "Epistola CCXXVIII. Ad Petrum Cluniacensem Abbatem, Conquerentem quod Ei non Rescriberet"
+          }
+        },
+        {
+          "id": "e229",
+          "title": {
+            "la": "Epistola CCXXIX. Petri Venerabilis ad Bernardum Abbatem"
+          }
+        },
+        {
+          "id": "e230",
+          "title": {
+            "la": "Epistola CCXXX. Ad Tres Episcopos Ostiensem, Tusculanum, Praenestinum"
+          }
+        },
+        {
+          "id": "e231",
+          "title": {
+            "la": "Epistola CCXXXI. Ad eosdem pro Abbate Latiniacensi"
+          }
+        },
+        {
+          "id": "e232",
+          "title": {
+            "la": "Epistola CCXXXII. Ad eosdem"
+          }
+        },
+        {
+          "id": "e233",
+          "title": {
+            "la": "Epistola CCXXXIII. Ad Abbatem Joannem de Busaio, qui Abbatiam suam Reliquerat, et Abierat in Solitudinem"
+          }
+        },
+        {
+          "id": "e234",
+          "title": {
+            "la": "Epistola CCXXXIV. Ad Herbertum Abbatem Sancti Stephani Divionensis"
+          }
+        },
+        {
+          "id": "e235",
+          "title": {
+            "la": "Epistola CCXXXV. Ad Dominum Papam Coelestinum, pro Intruso Eboracensi"
+          }
+        },
+        {
+          "id": "e236",
+          "title": {
+            "la": "Epistola CCXXXVI. Ad Totam Curiam Romanam"
+          }
+        },
+        {
+          "id": "e237",
+          "title": {
+            "la": "Epistola CCXXXVII. Ad Totam Curiam Romanam, Quando Elegerunt Abbatem Sancti-anastasii in Papam Eugenium"
+          }
+        },
+        {
+          "id": "e238",
+          "title": {
+            "la": "Epistola CCXXXVIII. Ad Dominum Papam Eugenium Prima"
+          }
+        },
+        {
+          "id": "e239",
+          "title": {
+            "la": "Epistola CCXXXIX. Ad eumdem"
+          }
+        },
+        {
+          "id": "e240",
+          "title": {
+            "la": "Epistola CCXL. Ad Eumdem, de Eboracensi Intruso"
+          }
+        },
+        {
+          "id": "e241",
+          "title": {
+            "la": "Epistola CCXLI. Ad Hildefonsum Comitem Sancti Aegidii, de Henrico Haeretico"
+          }
+        },
+        {
+          "id": "e242",
+          "title": {
+            "la": "Epistola CCXLII. Ad Tolosanos, Post Reditum suum"
+          }
+        },
+        {
+          "id": "e243",
+          "title": {
+            "la": "Epistola CCXLIII. Ad Romanos, Quando Recesserunt a Domino Papa Eugenio"
+          }
+        },
+        {
+          "id": "e244",
+          "title": {
+            "la": "Epistola CCXLIV. Ad Conradum Regem Romanorum"
+          }
+        },
+        {
+          "id": "e245",
+          "title": {
+            "la": "Epistola CCXLV. Ad Dominum Papam Eugenium, pro Aurelianensi Episcopo. Etc"
+          }
+        },
+        {
+          "id": "e246",
+          "title": {
+            "la": "Epistola CCXLVI. Ad eumdem pro Eodem, Quando Praedictus Aurelianensis Depositus Est"
+          }
+        },
+        {
+          "id": "e247",
+          "title": {
+            "la": "Epistola CCXLVII. Ad eumdem pro Remensi Archiepiscopo"
+          }
+        },
+        {
+          "id": "e248",
+          "title": {
+            "la": "Epistola CCXLVIII. Ad eumdem"
+          }
+        },
+        {
+          "id": "e249",
+          "title": {
+            "la": "Epistola CCXLIX. Ad eumdem"
+          }
+        },
+        {
+          "id": "e250",
+          "title": {
+            "la": "Epistola CCL. Ad Bernardum Priorem Portarum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "epp-251-300",
+      "title": {
+        "la": "Epistolae CCLI-CCC"
+      },
+      "children": [
+        {
+          "id": "e251",
+          "title": {
+            "la": "Epistola CCLI. Ad Dominum Eugenium Papam"
+          }
+        },
+        {
+          "id": "e252",
+          "title": {
+            "la": "Epistola CCLII. Ad Eumdem, pro Eboracensi"
+          }
+        },
+        {
+          "id": "e253",
+          "title": {
+            "la": "Epistola CCLIII. Ad Abbatem de Praemonstrato"
+          }
+        },
+        {
+          "id": "e254",
+          "title": {
+            "la": "Epistola CCLIV. Ad Abbatem Guarinum Alpensem"
+          }
+        },
+        {
+          "id": "e255",
+          "title": {
+            "la": "Epistola CCLV. Ad Ludovicum Regem Francorum"
+          }
+        },
+        {
+          "id": "e256",
+          "title": {
+            "la": "Epistola CCLVI. Ad Dominum Papam Eugenium"
+          }
+        },
+        {
+          "id": "e257",
+          "title": {
+            "la": "Epistola CCLVII. Ad Eumdem, pro Fratre Philippo"
+          }
+        },
+        {
+          "id": "e258",
+          "title": {
+            "la": "Epistola CCLVIII. Ad Eumdem, pro Fratre Rualeno"
+          }
+        },
+        {
+          "id": "e259",
+          "title": {
+            "la": "Epistola CCLIX. Ad eumdem"
+          }
+        },
+        {
+          "id": "e260",
+          "title": {
+            "la": "Epistola CCLX. Ad Rualenum Abbatem"
+          }
+        },
+        {
+          "id": "e261",
+          "title": {
+            "la": "Epistola CCLXI. Ad Dominum Papam Eugenium"
+          }
+        },
+        {
+          "id": "e262",
+          "title": {
+            "la": "Epistola CCLXII. Ad eumdem pro Monachis Mosomensibus"
+          }
+        },
+        {
+          "id": "e263",
+          "title": {
+            "la": "Epistola CCLXIII. Episcopo Suessionensi pro Abbate Caziacensi"
+          }
+        },
+        {
+          "id": "e264",
+          "title": {
+            "la": "Epistola CCLXIV. Petri Cluniacensis Abbatis ad Bernardum Abbatem"
+          }
+        },
+        {
+          "id": "e265",
+          "title": {
+            "la": "Epistola CCLXV. Rescriptum Bernardi Abbatis ad eumdem"
+          }
+        },
+        {
+          "id": "e266",
+          "title": {
+            "la": "Epistola CCLXVI. Ad Sugerium Abbatem Sancti Dionysii"
+          }
+        },
+        {
+          "id": "e267",
+          "title": {
+            "la": "Epistola CCLXVII. Abbati Cluniacensi"
+          }
+        },
+        {
+          "id": "e268",
+          "title": {
+            "la": "Epistola CCLXVIII. Ad Dominum Papam Eugenium"
+          }
+        },
+        {
+          "id": "e269",
+          "title": {
+            "la": "Epistola CCLXIX. Ad eumdem"
+          }
+        },
+        {
+          "id": "e270",
+          "title": {
+            "la": "Epistola CCLXX. Ad eumdem"
+          }
+        },
+        {
+          "id": "e271",
+          "title": {
+            "la": "Epistola CCLXXI. Ad Comitem Campaniae Theobaldum"
+          }
+        },
+        {
+          "id": "e272",
+          "title": {
+            "la": "Epistola CCLXXII. Episcopo Laudunensi"
+          }
+        },
+        {
+          "id": "e273",
+          "title": {
+            "la": "Epistola CCLXXIII. Ad Dominum Papam Eugenium"
+          }
+        },
+        {
+          "id": "e274",
+          "title": {
+            "la": "Epistola CCLXXIV. Ad Hugonem Abbatem Trium Fontium, Quando Erat Romae"
+          }
+        },
+        {
+          "id": "e275",
+          "title": {
+            "la": "Epistola CCLXXV. Ad Dominum Papam Eugenium, pro Antissiodorensi Electione"
+          }
+        },
+        {
+          "id": "e276",
+          "title": {
+            "la": "Epistola CCLXXVI. Ad Eumdem, Post Obitum Episcopi Antissiodorensis"
+          }
+        },
+        {
+          "id": "e277",
+          "title": {
+            "la": "Epistola CCLXXVII. Ad Eumdem, pro Abbate Cluniacensi"
+          }
+        },
+        {
+          "id": "e278",
+          "title": {
+            "la": "Epistola CCLXXVIII. Ad Eumdem, pro Episcopo Belvacensi"
+          }
+        },
+        {
+          "id": "e279",
+          "title": {
+            "la": "Epistola CCLXXIX. Ad Henricum Comitem"
+          }
+        },
+        {
+          "id": "e280",
+          "title": {
+            "la": "Epistola CCLXXX. Ad Dominum Papam Eugenium pro Antissiodorensi Negotio"
+          }
+        },
+        {
+          "id": "e281",
+          "title": {
+            "la": "Epistola CCLXXXI. Abbati Brunoni de Chara-valle"
+          }
+        },
+        {
+          "id": "e282",
+          "title": {
+            "la": "Epistola CCLXXXII. Ad Ludovicum Regem Francorum Juniorem, pro Electione Antissiodorensi"
+          }
+        },
+        {
+          "id": "e283",
+          "title": {
+            "la": "Epistola CCLXXXIII. Ad Dominum Papam Eugenium, pro Fratribus de Miratorio"
+          }
+        },
+        {
+          "id": "e284",
+          "title": {
+            "la": "Epistola CCLXXXIV. Ad Dominum Papam Eugenium, pro Remensi Archiepiscopo, et Aliis Personis"
+          }
+        },
+        {
+          "id": "e285",
+          "title": {
+            "la": "Epistola CCLXXXV. Ad Eumdem, pro Odone Abbate Sancti-dionysii"
+          }
+        },
+        {
+          "id": "e286",
+          "title": {
+            "la": "Epistola CCLXXXVI. Ad Eumdem, pro Eodem"
+          }
+        },
+        {
+          "id": "e287",
+          "title": {
+            "la": "Epistola CCLXXXVII. Domino Ostiensi, pro Eodem Arbate"
+          }
+        },
+        {
+          "id": "e288",
+          "title": {
+            "la": "Epistola CCLXXXVIII. Ad Andream Avunculum Suum, Militem Templi"
+          }
+        },
+        {
+          "id": "e289",
+          "title": {
+            "la": "Epistola CCLXXXIX. Ad Reginam Jerosolymorum"
+          }
+        },
+        {
+          "id": "e290",
+          "title": {
+            "la": "Epistola CCXC. Domino Ostiensi, de Jordano Cardinale"
+          }
+        },
+        {
+          "id": "e291",
+          "title": {
+            "la": "Epistola CCXCI. Ad Dominum Papam Eugenium, pro Ecclesia Sancti-eugendi Jurensis"
+          }
+        },
+        {
+          "id": "e292",
+          "title": {
+            "la": "Epistola CCXCII. Ad Quemdam Saecularem"
+          }
+        },
+        {
+          "id": "e293",
+          "title": {
+            "la": "Epistola CCXCIII. Petro Abbati de Cella, pro Monacho Caziacensi, qui ad Claram-vallem Transierat"
+          }
+        },
+        {
+          "id": "e294",
+          "title": {
+            "la": "Epistola CCXCIV. Ad Dominum Papam Eugenium, pro Episcopo Cenomannensi"
+          }
+        },
+        {
+          "id": "e295",
+          "title": {
+            "la": "Epistola CCXCV. Domino Henrico Cardinali, pro Eodem Episcopo"
+          }
+        },
+        {
+          "id": "e296",
+          "title": {
+            "la": "Epistola CCXCVI. Domino Ostiensi, pro Eodem"
+          }
+        },
+        {
+          "id": "e297",
+          "title": {
+            "la": "Epistola CCXCVII. Abbati Arremarensi"
+          }
+        },
+        {
+          "id": "e298",
+          "title": {
+            "la": "Epistola CCXCVIII. Ad Dominum Papam Eugenium"
+          }
+        },
+        {
+          "id": "e299",
+          "title": {
+            "la": "Epistola CCXCIX. Comiti Engolismensi, pro Fratribus de Buxia"
+          }
+        },
+        {
+          "id": "e300",
+          "title": {
+            "la": "Epistola CCC. Blesensi Comitissae"
+          }
+        }
+      ]
+    },
+    {
+      "id": "epp-301-350",
+      "title": {
+        "la": "Epistolae CCCI-CCCL"
+      },
+      "children": [
+        {
+          "id": "e301",
+          "title": {
+            "la": "Epistola CCCI. Sanctae Sorori Imperatoris Hispaniae"
+          }
+        },
+        {
+          "id": "e302",
+          "title": {
+            "la": "Epistola CCCII. Legatis Apostolicis, pro Archiepiscopo Moguntino"
+          }
+        },
+        {
+          "id": "e303",
+          "title": {
+            "la": "Epistola CCCIII. Ludovico Juniori Regi Francorum"
+          }
+        },
+        {
+          "id": "e304",
+          "title": {
+            "la": "Epistola CCCIV. Eidem"
+          }
+        },
+        {
+          "id": "e305",
+          "title": {
+            "la": "Epistola CCCV. Ad Dominum Papam Eugenium"
+          }
+        },
+        {
+          "id": "e306",
+          "title": {
+            "la": "Epistola CCCVI. Domino Ostiensi pro Electione Abbatis Turoldi de Tribus-fontibus"
+          }
+        },
+        {
+          "id": "e307",
+          "title": {
+            "la": "Epistola CCCVII. Ad eumdem"
+          }
+        },
+        {
+          "id": "e308",
+          "title": {
+            "la": "Epistola CCCVIII. Ad Alfonsum Portugalliae Regem"
+          }
+        },
+        {
+          "id": "e309",
+          "title": {
+            "la": "Epistola CCCIX. Ad Eugenium Pontificem"
+          }
+        },
+        {
+          "id": "e310",
+          "title": {
+            "la": "Epistola CCCX. Ad Arnoldum Carnotensem Abbatem Bonaevallis"
+          }
+        },
+        {
+          "id": "e311",
+          "title": {
+            "la": "Epistola CCCXI. Ad Haimericum Cancellarium"
+          }
+        },
+        {
+          "id": "e312",
+          "title": {
+            "la": "Epistola CCCXII. Ad Raynaldum Archiepiscopum Remensem"
+          }
+        },
+        {
+          "id": "e313",
+          "title": {
+            "la": "Epistola CCCXIII. Ad Gaufridum Abbatem Sanctae-mariae Eboracensis"
+          }
+        },
+        {
+          "id": "e314",
+          "title": {
+            "la": "Epistola CCCXIV. Ad Dominum Papam Innocentium"
+          }
+        },
+        {
+          "id": "e315",
+          "title": {
+            "la": "Epistola CCCXV. Ad Malthildem Reginam Anglorum"
+          }
+        },
+        {
+          "id": "e316",
+          "title": {
+            "la": "Epistola CCCXVI. Ad Henricum Senonensem Archiepiscopum et ad Haimericum Cancellarium"
+          }
+        },
+        {
+          "id": "e317",
+          "title": {
+            "la": "Epistola CCCXVII. Ad Priorem suum Godefridum"
+          }
+        },
+        {
+          "id": "e318",
+          "title": {
+            "la": "Epistola CCCXVIII. Ad Papam Innocentium"
+          }
+        },
+        {
+          "id": "e319",
+          "title": {
+            "la": "Epistola CCCXIX. Ad Turstinum Eboraci Archiepiscopum"
+          }
+        },
+        {
+          "id": "e320",
+          "title": {
+            "la": "Epistola CCCXX. Alexandro Priori de Fontibus, et Ejusdem Loci Fratribus"
+          }
+        },
+        {
+          "id": "e321",
+          "title": {
+            "la": "Epistola CCCXXI. Ad Henricum de Murdach, Primum Abbatem de Valle-clara, Postea de Fontibus, Tandem Archiepiscopum Eboracensem"
+          }
+        },
+        {
+          "id": "e322",
+          "title": {
+            "la": "Epistola CCCXXII. Ad Hugonem Novitium, Postea Bonae-vallis Abbatem"
+          }
+        },
+        {
+          "id": "e323",
+          "title": {
+            "la": "Epistola CCCXXIII. Ad Innocentium Papam"
+          }
+        },
+        {
+          "id": "e324",
+          "title": {
+            "la": "Epistola CCCXXIV. Ad Robertum Abbatem de Dunis"
+          }
+        },
+        {
+          "id": "e325",
+          "title": {
+            "la": "Epistola CCCXXV. Ad Eumdem, de Iderio Novitio"
+          }
+        },
+        {
+          "id": "e326",
+          "title": {
+            "la": "Epistola CCCXXVI. Guillelmi Abbatis, ad Caufridum Garnotensem Episcopum, et Bernardum Abbatem Clarae-vallensem"
+          }
+        },
+        {
+          "id": "e327",
+          "title": {
+            "la": "Epistola CCCXXVII. Rescriptum Bernardi ad Guillelmum Abbatem"
+          }
+        },
+        {
+          "id": "e328",
+          "title": {
+            "la": "Epistola CCCXXVIII. Ad Romanum Pontificem"
+          }
+        },
+        {
+          "id": "e329",
+          "title": {
+            "la": "Epistola CCCXXIX. Ad Episcopum Lemovicensem"
+          }
+        },
+        {
+          "id": "e330",
+          "title": {
+            "la": "Epistola CCCXXX. Ad Innocentium Papam"
+          }
+        },
+        {
+          "id": "e331",
+          "title": {
+            "la": "Epistola CCCXXXI. Ad Stephanum Cardinalem et Episcopum Praenestinum"
+          }
+        },
+        {
+          "id": "e332",
+          "title": {
+            "la": "Epistola CCCXXXII. Ad G. Cardinalem"
+          }
+        },
+        {
+          "id": "e333",
+          "title": {
+            "la": "Epistola CCCXXXIII. Ad G. Cardinalem"
+          }
+        },
+        {
+          "id": "e334",
+          "title": {
+            "la": "Epistola CCCXXXIV. Ad Guidonem Pisanum"
+          }
+        },
+        {
+          "id": "e335",
+          "title": {
+            "la": "Epistola CCCXXXV. Ad Quemdam Presbyterum Cardinalem"
+          }
+        },
+        {
+          "id": "e336",
+          "title": {
+            "la": "Epistola CCCXXXVI. Ad Quemdam Abbatem"
+          }
+        },
+        {
+          "id": "e337",
+          "title": {
+            "la": "Epistola CCCXXXVII. Ad Innocentium Pontificem, in Persona Franciae Episcoporum"
+          }
+        },
+        {
+          "id": "e338",
+          "title": {
+            "la": "Epistola CCCXXXVIII. Ad Haimericum Cardinalem et Cancellarium"
+          }
+        },
+        {
+          "id": "e339",
+          "title": {
+            "la": "Epistola CCCXXXIX. Ad Papam Innocentium"
+          }
+        },
+        {
+          "id": "e340",
+          "title": {
+            "la": "Epistola CCCXL. Ad eumdem Innocentium Papam"
+          }
+        },
+        {
+          "id": "e341",
+          "title": {
+            "la": "Epistola CCCXLI. Ad Malachiam Hiberniae Archiepiscopum"
+          }
+        },
+        {
+          "id": "e342",
+          "title": {
+            "la": "Epistola CCCXLII. Ad Joslenum Episcopum Suessionensem"
+          }
+        },
+        {
+          "id": "e343",
+          "title": {
+            "la": "Epistola CCCXLIII. Bernardi Abbatis Itali ad Innocentium"
+          }
+        },
+        {
+          "id": "e344",
+          "title": {
+            "la": "Epistola CCCXLIV. Ejusdem Bernardi ad Sanctum Bernardum"
+          }
+        },
+        {
+          "id": "e345",
+          "title": {
+            "la": "Epistola CCCXLV. Ad Fratres de Sancto Anastasio"
+          }
+        },
+        {
+          "id": "e346",
+          "title": {
+            "la": "Epistola CCCXLVI. Ad Dominum Innocentium Papam"
+          }
+        },
+        {
+          "id": "e347",
+          "title": {
+            "la": "Epistola CCCXLVII. Ad eumdem Dominum Innocentium Papam"
+          }
+        },
+        {
+          "id": "e348",
+          "title": {
+            "la": "Epistola CCCXLVIII. Ad eumdem Innocentium"
+          }
+        },
+        {
+          "id": "e349",
+          "title": {
+            "la": "Epistola CCCXLIX. Ad eumdem"
+          }
+        },
+        {
+          "id": "e350",
+          "title": {
+            "la": "Epistola CCCL. Ad eumdem"
+          }
+        }
+      ]
+    },
+    {
+      "id": "epp-351-400",
+      "title": {
+        "la": "Epistolae CCCLI-CD"
+      },
+      "children": [
+        {
+          "id": "e351",
+          "title": {
+            "la": "Epistola CCCLI. Ad eumdem Innocentium"
+          }
+        },
+        {
+          "id": "e352",
+          "title": {
+            "la": "Epistola CCCLII. Seu Innocentii Ii Papae Privilegium Sancto Bernardo Concessum"
+          }
+        },
+        {
+          "id": "e353",
+          "title": {
+            "la": "Epistola CCCLIII. Ad Willelmum Abbatem de Rievalle"
+          }
+        },
+        {
+          "id": "e354",
+          "title": {
+            "la": "Epistola CCCLIV. Ad Reginam Jerosolymorum Milisendem, Filiam Balduini Regis, et Fulconis Uxorem"
+          }
+        },
+        {
+          "id": "e355",
+          "title": {
+            "la": "Epistola CCCLV. Ad eamdem Reginam Jerosolymorum"
+          }
+        },
+        {
+          "id": "e356",
+          "title": {
+            "la": "Epistola CCCLVI. Ad Malachiam Hiberniae Archiepiscopum"
+          }
+        },
+        {
+          "id": "e357",
+          "title": {
+            "la": "Epistola CCCLVII. Ad eumdem"
+          }
+        },
+        {
+          "id": "e358",
+          "title": {
+            "la": "Epistola CCCLVIII. Ad Dominum Papam, Nempe Coelestinum"
+          }
+        },
+        {
+          "id": "e359",
+          "title": {
+            "la": "Epistola CCCLIX. Clarae-vallensium ad eumdem Coelestinum"
+          }
+        },
+        {
+          "id": "e360",
+          "title": {
+            "la": "Epistola CCCLX. Ad Willelmum Abbatem de Rievalle"
+          }
+        },
+        {
+          "id": "e361",
+          "title": {
+            "la": "Epistola CCCLXI. Ad Theobaldum Archiepiscopum, pro Joanne Salesberiensi"
+          }
+        },
+        {
+          "id": "e362",
+          "title": {
+            "la": "Epistola CCCLXII. Ad Robertum Pullum Cardinalem et Cancellarium"
+          }
+        },
+        {
+          "id": "e363",
+          "title": {
+            "la": "Epistola CCCLXIII. Ad Orientalis Franciae Clerum et Populum"
+          }
+        },
+        {
+          "id": "e364",
+          "title": {
+            "la": "Epistola CCCLXIV. Ad Petrum Abbatem Cluniacensem"
+          }
+        },
+        {
+          "id": "e365",
+          "title": {
+            "la": "Epistola CCCLXV. Ad Henricum Moguntinum Archiepiscopum"
+          }
+        },
+        {
+          "id": "e366",
+          "title": {
+            "la": "Epistola CCCLXVI. Ad Hildegardem Abbatissam"
+          }
+        },
+        {
+          "id": "e367",
+          "title": {
+            "la": "Epistola CCCLXVII. G. Cancellario"
+          }
+        },
+        {
+          "id": "e368",
+          "title": {
+            "la": "Epistola CCCLXVIII. Ad G. Diaconum Cardinalem"
+          }
+        },
+        {
+          "id": "e369",
+          "title": {
+            "la": "Epistola CCCLXIX. Ad Sugerium Abbatem"
+          }
+        },
+        {
+          "id": "e370",
+          "title": {
+            "la": "Epistola CCCLXX. Ad eumdem"
+          }
+        },
+        {
+          "id": "e371",
+          "title": {
+            "la": "Epistola CCCLXXI. Ad eumdem"
+          }
+        },
+        {
+          "id": "e372",
+          "title": {
+            "la": "Epistola CCCLXXII. Ad P. Episcopum Palentinum in Hispania"
+          }
+        },
+        {
+          "id": "e373",
+          "title": {
+            "la": "Epistola CCCLXXIII. Abbatis Sp. ad Sanctum Bernardum"
+          }
+        },
+        {
+          "id": "e374",
+          "title": {
+            "la": "Epistola CCCLXXIV. Ad Fratres de Hibernia, in Transitu Beati Malachiae Episcopi"
+          }
+        },
+        {
+          "id": "e375",
+          "title": {
+            "la": "Epistola CCCLXXV. Ad Idam Comitissam Nivernensem"
+          }
+        },
+        {
+          "id": "e376",
+          "title": {
+            "la": "Epistola CCCLXXVI. Ad Sugerium Abbatem"
+          }
+        },
+        {
+          "id": "e377",
+          "title": {
+            "la": "Epistola CCCLXXVII. Ad eumdem"
+          }
+        },
+        {
+          "id": "e378",
+          "title": {
+            "la": "Epistola CCCLXXVIII. Ad eumdem"
+          }
+        },
+        {
+          "id": "e379",
+          "title": {
+            "la": "Epistola CCCLXXIX. Ad eumdem"
+          }
+        },
+        {
+          "id": "e380",
+          "title": {
+            "la": "Epistola CCCLXXX. Ad eumdem"
+          }
+        },
+        {
+          "id": "e381",
+          "title": {
+            "la": "Epistola CCCLXXXI. Ad eumdem"
+          }
+        },
+        {
+          "id": "e382",
+          "title": {
+            "la": "Epistola CCCLXXXII. Ad Leonium Abbatem Sancti Bertini"
+          }
+        },
+        {
+          "id": "e383",
+          "title": {
+            "la": "Epistola CCCLXXXIII. Ad eumdem Abbatem Sancti Bertini"
+          }
+        },
+        {
+          "id": "e384",
+          "title": {
+            "la": "Epistola CCCLXXXIV. Ad Monachos Ecclesiae Sancti Bertini"
+          }
+        },
+        {
+          "id": "e385",
+          "title": {
+            "la": "Epistola CCCLXXXV. Ad eosdem"
+          }
+        },
+        {
+          "id": "e386",
+          "title": {
+            "la": "Epistola CCCLXXXVI. Joannis Casae-marii ad Bernardum Abbatem"
+          }
+        },
+        {
+          "id": "e387",
+          "title": {
+            "la": "Epistola CCCLXXXVII. Ad Petrum Abbatem Cluniacensem"
+          }
+        },
+        {
+          "id": "e388",
+          "title": {
+            "la": "Epistola CCCLXXXVIII. Petri Venerabilis ad Bernardum Abbatem Clarae-vallensem"
+          }
+        },
+        {
+          "id": "e389",
+          "title": {
+            "la": "Epistola CCCLXXXIX. Ad Petrum Abbatem Cluniacensem"
+          }
+        },
+        {
+          "id": "e390",
+          "title": {
+            "la": "Epistola CCCXC. Ad Eskilum Lundensem Archiepiscopum, Sedis Apostolicae in Dacia et Suecia Legatum"
+          }
+        },
+        {
+          "id": "e391",
+          "title": {
+            "la": "Epistola CCCXCI. Ad Abbatissam Faberniacensem"
+          }
+        },
+        {
+          "id": "e392",
+          "title": {
+            "la": "Epistola CCCXCII. Ad Radulfum Patriarcham Antiochenum"
+          }
+        },
+        {
+          "id": "e393",
+          "title": {
+            "la": "Epistola CCCXCIII. Ad W. Patriarcham Jerosolymorum"
+          }
+        },
+        {
+          "id": "e394",
+          "title": {
+            "la": "Epistola CCCXCIV. Ad Archiepiscopum Lugdunensem"
+          }
+        },
+        {
+          "id": "e395",
+          "title": {
+            "la": "Epistola CCCXCV. Ad Alvisum Atrebatensem Episcopum"
+          }
+        },
+        {
+          "id": "e396",
+          "title": {
+            "la": "Epistola CCCXCVI. Ad Ricuinum Episcopum Tullensem"
+          }
+        },
+        {
+          "id": "e397",
+          "title": {
+            "la": "Epistola CCCXCVII. Ad Odonem Abbatem Majoris-monasterii Prope Turones"
+          }
+        },
+        {
+          "id": "e398",
+          "title": {
+            "la": "Epistola CCCXCVIII. Ad Guidonem Abbatem et Fratres Arremarenses"
+          }
+        },
+        {
+          "id": "e399",
+          "title": {
+            "la": "Epistola CCCXCIX. Ad Lelbertum Abbatem Sancti-michaelis"
+          }
+        },
+        {
+          "id": "e400",
+          "title": {
+            "la": "Epistola CD. Ad Abbatem Laetiensem"
+          }
+        }
+      ]
+    },
+    {
+      "id": "epp-401-450",
+      "title": {
+        "la": "Epistolae CDI-CDL"
+      },
+      "children": [
+        {
+          "id": "e401",
+          "title": {
+            "la": "Epistola CDI. Ad Abbatem Balduinum de Castellione"
+          }
+        },
+        {
+          "id": "e402",
+          "title": {
+            "la": "Epistola CDII. Ad Balduinum Noviomensem Episcopum"
+          }
+        },
+        {
+          "id": "e403",
+          "title": {
+            "la": "Epistola CDIII. Ad Henricum Archidiaconum"
+          }
+        },
+        {
+          "id": "e404",
+          "title": {
+            "la": "Epistola CDIV. Ad Albertum Inclusum"
+          }
+        },
+        {
+          "id": "e405",
+          "title": {
+            "la": "Epistola CDV. Ad G. Abbatem"
+          }
+        },
+        {
+          "id": "e406",
+          "title": {
+            "la": "Epistola CDVI. Ad Abbatem Sancti-nicolai"
+          }
+        },
+        {
+          "id": "e407",
+          "title": {
+            "la": "Epistola CDVII. Ad Odonem Abbatem Belli-loci"
+          }
+        },
+        {
+          "id": "e408",
+          "title": {
+            "la": "Epistola CDVIII. Ad W. Abbatem Trecensem"
+          }
+        },
+        {
+          "id": "e409",
+          "title": {
+            "la": "Epistola CDIX. Ad Rorgonem de Abbatis-villa"
+          }
+        },
+        {
+          "id": "e410",
+          "title": {
+            "la": "Epistola CDX. Ad Gilduinum Abbatem Sancti-victoris"
+          }
+        },
+        {
+          "id": "e411",
+          "title": {
+            "la": "Epistola CDXI. Ad Thomam Beverlacensem Praepositum"
+          }
+        },
+        {
+          "id": "e412",
+          "title": {
+            "la": "Epistola CDXII. Ad T. Adolescentem qui Vitam Monasticam Voverat"
+          }
+        },
+        {
+          "id": "e413",
+          "title": {
+            "la": "Epistola CDXIII. Ad Rainaldum Abbatem"
+          }
+        },
+        {
+          "id": "e414",
+          "title": {
+            "la": "Epistola CDXIV. Ad Alardum Monachum"
+          }
+        },
+        {
+          "id": "e415",
+          "title": {
+            "la": "Epistola CDXV. Ad Quemdam Pacti Sui Praevaricatorem"
+          }
+        },
+        {
+          "id": "e416",
+          "title": {
+            "la": "Epistola CDXVI. Ad Incognitum"
+          }
+        },
+        {
+          "id": "e417",
+          "title": {
+            "la": "Epistola CDXVII. Ad Abbatem de Trunco-berengarii"
+          }
+        },
+        {
+          "id": "e418",
+          "title": {
+            "la": "Epistola CDXVIII. Ad Hugonem Archiepiscopum Rotomagensem"
+          }
+        },
+        {
+          "id": "e419",
+          "title": {
+            "la": "Epistola CDXIX. Ad Petrum Abbatem Cellensem"
+          }
+        },
+        {
+          "id": "e420",
+          "title": {
+            "la": "Epistola CDXX. (fragmentum.) ad Nicolaum Cameracensem Episcopum"
+          }
+        },
+        {
+          "id": "e421",
+          "title": {
+            "la": "Epistola CDXXI. Ad Mar. et Uxorem Ejus"
+          }
+        },
+        {
+          "id": "e422",
+          "title": {
+            "la": "Epistola CDXXII. Ad Quemdam Abbatem"
+          }
+        },
+        {
+          "id": "e423",
+          "title": {
+            "la": "Epistola CDXXIII. Ad Quemdam Episcopum"
+          }
+        },
+        {
+          "id": "e424",
+          "title": {
+            "la": "Epistola CDXXIV. Ad Quemdam Amicum"
+          }
+        },
+        {
+          "id": "e425",
+          "title": {
+            "la": "Epistola CDXXV. Ad Quemdam Judicem"
+          }
+        },
+        {
+          "id": "e426",
+          "title": {
+            "la": "Epistola CDXXVI. Ad Quemdam Amicum"
+          }
+        },
+        {
+          "id": "e427",
+          "title": {
+            "la": "Epistola CDXXVII. Ad Episcopum Trecensem"
+          }
+        },
+        {
+          "id": "e428",
+          "title": {
+            "la": "Epistola CDXXVIII. Ad Quemdam Abbatem"
+          }
+        },
+        {
+          "id": "e429",
+          "title": {
+            "la": "Epistola CDXXIX. Ad Quemdam Amicum"
+          }
+        },
+        {
+          "id": "e430",
+          "title": {
+            "la": "Epistola CDXXX. Ad Quemdam Amicum"
+          }
+        },
+        {
+          "id": "e431",
+          "title": {
+            "la": "Epistola CDXXXI. Ad Innocentium Ii Papam"
+          }
+        },
+        {
+          "id": "e432",
+          "title": {
+            "la": "Epistola CDXXXII. Ad Dominum Papam"
+          }
+        },
+        {
+          "id": "e433",
+          "title": {
+            "la": "Epistola CDXXXIII. Ad eumdem"
+          }
+        },
+        {
+          "id": "e434",
+          "title": {
+            "la": "Epistola CDXXXIV. Ad eumdem"
+          }
+        },
+        {
+          "id": "e435",
+          "title": {
+            "la": "Epistola CDXXXV. Ad eumdem"
+          }
+        },
+        {
+          "id": "e436",
+          "title": {
+            "la": "Epistola CDXXXVI. Ad eumdem"
+          }
+        },
+        {
+          "id": "e437",
+          "title": {
+            "la": "Epistola CDXXXVII. Ad eumdem"
+          }
+        },
+        {
+          "id": "e438",
+          "title": {
+            "la": "Epistola CDXXXVIII. Ad eumdem"
+          }
+        },
+        {
+          "id": "e439",
+          "title": {
+            "la": "Epistola CDXXXIX. Ad eumdem"
+          }
+        },
+        {
+          "id": "e440",
+          "title": {
+            "la": "Epistola CDXL. Ad Anonymum"
+          }
+        },
+        {
+          "id": "e441",
+          "title": {
+            "la": "Epistola CDXLI. Ad Priorem Quemdam"
+          }
+        },
+        {
+          "id": "e442",
+          "title": {
+            "la": "Epistola CDXLII. Ad Quemdam Ordinis S. Benedicti Abbatem"
+          }
+        },
+        {
+          "id": "e443",
+          "title": {
+            "la": "Epistola CDXLIII. Ad Quemdam Amicum"
+          }
+        },
+        {
+          "id": "e444",
+          "title": {
+            "la": "Epistola CDXLIV. Ad Quemdam Abbatem"
+          }
+        },
+        {
+          "id": "e445",
+          "title": {
+            "la": "Epistola CDXLV. Ad Quemdam Abbatem"
+          }
+        },
+        {
+          "id": "e446",
+          "title": {
+            "la": "Epistola CDXLVI. Ad Anonymum"
+          }
+        },
+        {
+          "id": "e447",
+          "title": {
+            "la": "Epistola CDXLVII. Ad Amedeum Altae-cumbae Abbatem"
+          }
+        },
+        {
+          "id": "e448",
+          "title": {
+            "la": "Epistola CDXLVIII. Ad Anonymum"
+          }
+        },
+        {
+          "id": "e449",
+          "title": {
+            "la": "Epistola CDXLIX. Ad Regem Francorum"
+          }
+        },
+        {
+          "id": "e450",
+          "title": {
+            "la": "Epistola CDL. Ad Amicum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "epp-451-500",
+      "title": {
+        "la": "Epistolae CDLI-D"
+      },
+      "children": [
+        {
+          "id": "e451",
+          "title": {
+            "la": "Epistola CDLI. Ad Fratres"
+          }
+        },
+        {
+          "id": "e452",
+          "title": {
+            "la": "Epistola CDLII. Ad Quemdam Abbatem"
+          }
+        },
+        {
+          "id": "e453",
+          "title": {
+            "la": "Epistola CDLIII. Ad Anonymum"
+          }
+        },
+        {
+          "id": "e454",
+          "title": {
+            "la": "Epistola CDLIV. Ad Anonymum"
+          }
+        },
+        {
+          "id": "e455",
+          "title": {
+            "la": "Epistola CDLV. Ad Materteram Imperatoris Hispaniarum"
+          }
+        },
+        {
+          "id": "e456",
+          "title": {
+            "la": "Epistola CDLVI. Ad Raymundum Dominum Castri Ambruosii.(ex Codice Membranaceo Saeculi Xiv Bibliothecae Mediceo-laurentianae Edidit Joannes Christophorus Amandutius.)"
+          }
+        },
+        {
+          "id": "e457",
+          "title": {
+            "la": "Epistola CDLVII. Ad Universos Fideles. (anno 1147.)"
+          }
+        },
+        {
+          "id": "e458",
+          "title": {
+            "la": "Epistola CDLVIII. Ad Wladislaum Ducem, Magnates et Populum Bohemiae. (anno 1147.)"
+          }
+        },
+        {
+          "id": "e459",
+          "title": {
+            "la": "Epistola CDLIX. Ad G . . . . . de Stopho.om Gerbert, 1765, 8º, P. 216.]"
+          }
+        },
+        {
+          "id": "e460",
+          "title": {
+            "la": "Epistola CDLX. Ad N"
+          }
+        }
+      ]
+    }
+  ]
+}
