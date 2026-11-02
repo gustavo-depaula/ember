@@ -1,0 +1,49 @@
+{
+  "id": "bellarmine-controversiae-prolegomena",
+  "cover": "classic",
+  "name": {
+    "la": "Praefationes, De recognitione operis et Controversiae generales",
+    "en-US": "Prefaces, the Recognition of the Work and the General Controversies",
+    "pt-BR": "Prefácios, Revisão da obra e Controvérsias gerais"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Ex Disputationibus de controversiis christianae fidei adversus huius temporis haereticos (1586-93): Praefationes, De recognitione operis et Controversiae generales. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "From the Disputations on the Controversies of the Christian Faith (1586-93): the editor's and the author's prefaces, the author's own review of the work and the introduction to the general controversies. Latin only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "Das Disputas sobre as controvérsias da fé cristã (1586-93): Prefácios, Revisão da obra e Controvérsias gerais."
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/controversiae-prolegomena",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia01bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 1 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "la": "Textus",
+        "en-US": "Textus"
+      }
+    }
+  ]
+}
