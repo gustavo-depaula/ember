@@ -1,0 +1,144 @@
+{
+  "id": "olier-opuscules",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Extraits des Mémoires, Esprit d’un directeur et autres opuscules",
+    "en-US": "Extracts from the Memoirs, Spirit of a Director and Other Opuscules",
+    "pt-BR": "Extratos das Memórias, Espírito de um diretor e outros opúsculos"
+  },
+  "author": {
+    "fr-FR": "Jean-Jacques Olier",
+    "en-US": "Jean-Jacques Olier",
+    "pt-BR": "Jean-Jacques Olier"
+  },
+  "description": {
+    "fr-FR": "Les extraits des Mémoires manuscrits, l’Esprit d’un directeur des âmes, les Règles de l’art des arts, les avis et l’examen sur les vertus.",
+    "en-US": "Extracts from the manuscript Memoirs, the Spirit of a Director of Souls, the Rules of the Art of Arts, the counsels and the examination on the virtues.",
+    "pt-BR": "Extratos das Memórias manuscritas, o Espírito de um diretor de almas, as Regras da arte das artes, os avisos e o exame sobre as virtudes."
+  },
+  "composed": 1650,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "olier/opuscules",
+  "editions": {
+    "fr-FR": {
+      "editor": "Jacques-Paul Migne",
+      "year": 1856
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/uvrescompltesd00olie",
+      "edition": "Œuvres complètes de M. Olier, éd. Migne, Paris, 1856; archive.org OCR (ABBYY) of the Toronto copy.",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Olier died in 1657; the 1856 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "memoires-01",
+      "title": {
+        "fr-FR": "Extraits des Mémoires, partie 1"
+      }
+    },
+    {
+      "id": "memoires-02",
+      "title": {
+        "fr-FR": "Extraits des Mémoires, partie 2"
+      }
+    },
+    {
+      "id": "memoires-03",
+      "title": {
+        "fr-FR": "Extraits des Mémoires, partie 3"
+      }
+    },
+    {
+      "id": "memoires-04",
+      "title": {
+        "fr-FR": "Extraits des Mémoires, partie 4"
+      }
+    },
+    {
+      "id": "memoires-05",
+      "title": {
+        "fr-FR": "Extraits des Mémoires, partie 5"
+      }
+    },
+    {
+      "id": "memoires-06",
+      "title": {
+        "fr-FR": "Extraits des Mémoires, partie 6"
+      }
+    },
+    {
+      "id": "memoires-07",
+      "title": {
+        "fr-FR": "Extraits des Mémoires, partie 7"
+      }
+    },
+    {
+      "id": "esprit-directeur-00",
+      "title": {
+        "fr-FR": "L’esprit d’un directeur des âmes"
+      }
+    },
+    {
+      "id": "esprit-directeur-01",
+      "title": {
+        "fr-FR": "L’esprit d’un directeur, article 1"
+      }
+    },
+    {
+      "id": "esprit-directeur-02",
+      "title": {
+        "fr-FR": "L’esprit d’un directeur, article 2"
+      }
+    },
+    {
+      "id": "esprit-directeur-03",
+      "title": {
+        "fr-FR": "L’esprit d’un directeur, article 3"
+      }
+    },
+    {
+      "id": "esprit-directeur-04",
+      "title": {
+        "fr-FR": "L’esprit d’un directeur, article 4"
+      }
+    },
+    {
+      "id": "esprit-directeur-05",
+      "title": {
+        "fr-FR": "L’esprit d’un directeur, article 5"
+      }
+    },
+    {
+      "id": "esprit-directeur-06",
+      "title": {
+        "fr-FR": "L’esprit d’un directeur, article 6"
+      }
+    },
+    {
+      "id": "esprit-directeur-07",
+      "title": {
+        "fr-FR": "L’esprit d’un directeur, article 7"
+      }
+    },
+    {
+      "id": "regles-avis-examen-01",
+      "title": {
+        "fr-FR": "Règles, avis et examen sur les vertus, partie 1"
+      }
+    },
+    {
+      "id": "regles-avis-examen-02",
+      "title": {
+        "fr-FR": "Règles, avis et examen sur les vertus, partie 2"
+      }
+    }
+  ]
+}
