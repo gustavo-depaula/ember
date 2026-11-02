@@ -1,0 +1,11 @@
+# VI. Of Justification
+
+The subject of justification will shew still more clearly how easily objections may be dispelled by a simple statement of our opinions.
+
+This one article, it is pretty generally understood, was proposed by the Protestant Reformers, to be the basis of all others, and that on which they have sought to raise their feeble structure ; and this being the case, it is very desirable for us to express our real belief on the subject.
+
+The Church teaches that " our sins are freely pardoned by Divine mercy through Jesus Christ," and adds, " we mean freely because nothing of ours, as faith or works, can obtain this grace if they precede justification."
+
+The forgiveness of sins is explained in Holy Scripture as the work of God by the grace of the Holy Spirit, at one time, as covering them, at another as taking them away, and blotting them out, making us new creatures, and we infer from these expressions conjointly what justification really is. Therefore we teach that the blood of Jesus Christ, not only covers our sins, but takes them away, and blots them entirely out by the grace with which He regenerates us, and far from forming a low estimate of the efficacy and power of His blood, we rather enhance its value to the sinner. For the righteousness given by Jesus Christ is thus not only imputed, but is actually communicated to His faithful by the regeneration of the Holy Spirit, and not only are they reputed justified, but are made holy by His grace working in them.
+
+If the righteousness which is in us was only righteousness to the eye of man, it would not be the working of the Holy Spirit, but it is righteousness before God, since it is God Himself working in us by the regeneration He sheds in our hearts. Nevertheless, as long as we are in the world, the flesh will war against the Spirit, and the Spirit against the flesh, "and in many things we do all offend." Thus, though our righteousness is real by the grace given us in Him, it is not perfect by reason of the lusts of the flesh ; therefore the penitent cannot but be in this perpetual struggle, indeed it is one most necessary condition of our justification; wherefore we confess in St. Augustin's words, "That our righteousness in this life consists rather in the remission of sins, than in actual holiness."

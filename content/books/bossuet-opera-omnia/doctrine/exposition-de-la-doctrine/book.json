@@ -18,13 +18,18 @@
   },
   "composed": "1671",
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "en-US"
   ],
   "work": "bossuet/exposition-de-la-doctrine",
   "editions": {
     "fr-FR": {
       "editor": "Abbé F. Lachat",
       "year": 1864
+    },
+    "en-US": {
+      "translator": "Anonymous (Tracts on Catholic Unity, by members of the Church of England), after the Avignon edition of 1830",
+      "year": 1845
     }
   },
   "sources": [
@@ -35,6 +40,14 @@
       "description": "Typed transcription of volume XIII, pages 001-007 and 011. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
       "tier": "A",
       "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/a619496600bossuoft",
+      "edition": "An Exposition of the Doctrine of the Catholic Church in Matters of Controversy, in Tracts on Catholic Unity by Members of the Church of England, English translation of 1845 (archive.org a619496600bossuoft; OCR text, cleaned)",
+      "description": "A free translation of chapters I-XX of the Exposition (the text ends there; chapters XXI-XXII are missing); no notes. The French remarques, letters and fragments have no counterpart.",
+      "tier": "A",
+      "tierEvidence": "Published 1845."
     }
   ],
   "toc": [
@@ -53,121 +66,141 @@
         {
           "id": "exposition-001",
           "title": {
-            "fr-FR": "I. — Dessein de ce Traité"
+            "fr-FR": "I. — Dessein de ce Traité",
+            "en-US": "I. The Object of this Treatise"
           }
         },
         {
           "id": "exposition-002",
           "title": {
-            "fr-FR": "II — Ceux de la religion prétendue réformée avouent que l'Eglise catholique reçoit tous les articles fondamentaux de la religion chrétienne"
+            "fr-FR": "II — Ceux de la religion prétendue réformée avouent que l'Eglise catholique reçoit tous les articles fondamentaux de la religion chrétienne",
+            "en-US": "II. Protestants allow that the Catholic Church receives all the funda-"
           }
         },
         {
           "id": "exposition-003",
           "title": {
-            "fr-FR": "III. — Le culte religieux se termine à Dieu seul"
+            "fr-FR": "III. — Le culte religieux se termine à Dieu seul",
+            "en-US": "III. God is the object of all Religious Worship"
           }
         },
         {
           "id": "exposition-004",
           "title": {
-            "fr-FR": "IV. — L'invocation des Saints"
+            "fr-FR": "IV. — L'invocation des Saints",
+            "en-US": "IV. Invocation of Saints"
           }
         },
         {
           "id": "exposition-005",
           "title": {
-            "fr-FR": "V. — Les images et les reliques"
+            "fr-FR": "V. — Les images et les reliques",
+            "en-US": "V. Images and Relics"
           }
         },
         {
           "id": "exposition-006",
           "title": {
-            "fr-FR": "VI. — La justification"
+            "fr-FR": "VI. — La justification",
+            "en-US": "VI. Of Justification"
           }
         },
         {
           "id": "exposition-007",
           "title": {
-            "fr-FR": "VII. — Le mérite des œuvres"
+            "fr-FR": "VII. — Le mérite des œuvres",
+            "en-US": "VII. Of the Merit of Works"
           }
         },
         {
           "id": "exposition-008",
           "title": {
-            "fr-FR": "VIII. — Les Satisfactions, le Purgatoire, et les Indulgences"
+            "fr-FR": "VIII. — Les Satisfactions, le Purgatoire, et les Indulgences",
+            "en-US": "VIII. Satisfaction) Purgatory) and Indulgences"
           }
         },
         {
           "id": "exposition-009",
           "title": {
-            "fr-FR": "IX. — Les Sacrements"
+            "fr-FR": "IX. — Les Sacrements",
+            "en-US": "IX. Of the Sacraments"
           }
         },
         {
           "id": "exposition-010",
           "title": {
-            "fr-FR": "X. — Doctrine de l'Eglise touchant la présence réelle du corps et du sang de Jésus-Christ dans l'Eucharistie, et la manière dont l'Eglise entend ces paroles: Ceci est mon corps"
+            "fr-FR": "X. — Doctrine de l'Eglise touchant la présence réelle du corps et du sang de Jésus-Christ dans l'Eucharistie, et la manière dont l'Eglise entend ces paroles: Ceci est mon corps",
+            "en-US": "X. Of the Doctrine of the Real Presence of the Body and Blood of"
           }
         },
         {
           "id": "exposition-011",
           "title": {
-            "fr-FR": "XI. — Explication des paroles: Faites ceci en mémoire de moi"
+            "fr-FR": "XI. — Explication des paroles: Faites ceci en mémoire de moi",
+            "en-US": "XI. Explanation of the words, \"Do this in remembrance of Me.\""
           }
         },
         {
           "id": "exposition-012",
           "title": {
-            "fr-FR": "XII. — Exposition de la doctrine des Calvinistes sur la réalité"
+            "fr-FR": "XII. — Exposition de la doctrine des Calvinistes sur la réalité",
+            "en-US": "XII. A Statement of the Calvinisms Belief in the Doctrine of the Real"
           }
         },
         {
           "id": "exposition-013",
           "title": {
-            "fr-FR": "XIII. — De la transsubstantiation, de l'adoration et en quel sens l'Eucharistie est un signe"
+            "fr-FR": "XIII. — De la transsubstantiation, de l'adoration et en quel sens l'Eucharistie est un signe",
+            "en-US": "XIII. Transubstantiation, Adoration, and in what sense the Eucharist"
           }
         },
         {
           "id": "exposition-014",
           "title": {
-            "fr-FR": "XIV. — Le sacrifice de la Messe"
+            "fr-FR": "XIV. — Le sacrifice de la Messe",
+            "en-US": "XIV. Of the Sacrifice of the Mass"
           }
         },
         {
           "id": "exposition-015",
           "title": {
-            "fr-FR": "XV. — L'Epître aux Hébreux"
+            "fr-FR": "XV. — L'Epître aux Hébreux",
+            "en-US": "XV. The Epistle to the Hebrews"
           }
         },
         {
           "id": "exposition-016",
           "title": {
-            "fr-FR": "XVI. — Réflexion sur la doctrine précédente"
+            "fr-FR": "XVI. — Réflexion sur la doctrine précédente",
+            "en-US": "XVI. Reflections on this Doctrine"
           }
         },
         {
           "id": "exposition-017",
           "title": {
-            "fr-FR": "XVII. — La Communion sous les deux espèces"
+            "fr-FR": "XVII. — La Communion sous les deux espèces",
+            "en-US": "XVII. The Communion of Two kinds"
           }
         },
         {
           "id": "exposition-018",
           "title": {
-            "fr-FR": "XVIII. — La parole écrite et la parole non écrite"
+            "fr-FR": "XVIII. — La parole écrite et la parole non écrite",
+            "en-US": "XVIII. Of Tradition,"
           }
         },
         {
           "id": "exposition-019",
           "title": {
-            "fr-FR": "XIX. — L'autorité de l'Eglise"
+            "fr-FR": "XIX. — L'autorité de l'Eglise",
+            "en-US": "XIX. The Authority of the Church"
           }
         },
         {
           "id": "exposition-020",
           "title": {
-            "fr-FR": "XX. — Sentiments de MM. de la religion prétendue réformée sur l'autorité de l'Eglise"
+            "fr-FR": "XX. — Sentiments de MM. de la religion prétendue réformée sur l'autorité de l'Eglise",
+            "en-US": "XX. Opinions of the Reformers upon the Church's Authority"
           }
         },
         {
