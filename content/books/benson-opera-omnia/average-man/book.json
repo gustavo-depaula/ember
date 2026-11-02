@@ -1,0 +1,261 @@
+{
+  "id": "benson-average-man",
+  "cover": "classic",
+  "name": {
+    "en-US": "An Average Man",
+    "pt-BR": "Um Homem Comum"
+  },
+  "author": {
+    "en-US": "Mgr. Robert Hugh Benson",
+    "pt-BR": "Mons. Robert Hugh Benson"
+  },
+  "description": {
+    "en-US": "Benson's novel of 1913 of an ordinary Anglican man of business who becomes a Catholic.",
+    "pt-BR": "O romance de Benson (1913) sobre um homem de negócios anglicano comum que se torna católico."
+  },
+  "composed": 1913,
+  "languages": [
+    "en-US"
+  ],
+  "work": "benson/average-man",
+  "editions": {
+    "en-US": {
+      "editor": "Robert Hugh Benson (London: Hutchinson, 1913)",
+      "year": 1913
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/AnAverageMan",
+      "edition": "An Average Man (London: Hutchinson, 1913), Internet Archive full-text OCR (AnAverageMan).",
+      "description": " Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Mgr. Robert Hugh Benson died in 1914 and the edition is of 1913, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "part-1",
+      "title": {
+        "en-US": "Part I"
+      },
+      "children": [
+        {
+          "id": "chapter-01",
+          "title": {
+            "en-US": "Chapter I"
+          }
+        },
+        {
+          "id": "chapter-02",
+          "title": {
+            "en-US": "Chapter II"
+          }
+        },
+        {
+          "id": "chapter-03",
+          "title": {
+            "en-US": "Chapter III"
+          }
+        },
+        {
+          "id": "chapter-04",
+          "title": {
+            "en-US": "Chapter IV"
+          }
+        },
+        {
+          "id": "chapter-05",
+          "title": {
+            "en-US": "Chapter V"
+          }
+        },
+        {
+          "id": "chapter-06",
+          "title": {
+            "en-US": "Chapter VI"
+          }
+        },
+        {
+          "id": "chapter-07",
+          "title": {
+            "en-US": "Chapter VII"
+          }
+        },
+        {
+          "id": "chapter-08",
+          "title": {
+            "en-US": "Chapter VIII"
+          }
+        },
+        {
+          "id": "chapter-09",
+          "title": {
+            "en-US": "Chapter IX"
+          }
+        },
+        {
+          "id": "chapter-10",
+          "title": {
+            "en-US": "Chapter X"
+          }
+        },
+        {
+          "id": "chapter-11",
+          "title": {
+            "en-US": "Chapter XI"
+          }
+        },
+        {
+          "id": "chapter-12",
+          "title": {
+            "en-US": "Chapter XII"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "Part II"
+      },
+      "children": [
+        {
+          "id": "chapter-13",
+          "title": {
+            "en-US": "Chapter I"
+          }
+        },
+        {
+          "id": "chapter-14",
+          "title": {
+            "en-US": "Chapter II"
+          }
+        },
+        {
+          "id": "chapter-15",
+          "title": {
+            "en-US": "Chapter III"
+          }
+        },
+        {
+          "id": "chapter-16",
+          "title": {
+            "en-US": "Chapter IV"
+          }
+        },
+        {
+          "id": "chapter-17",
+          "title": {
+            "en-US": "Chapter V"
+          }
+        },
+        {
+          "id": "chapter-18",
+          "title": {
+            "en-US": "Chapter VI"
+          }
+        },
+        {
+          "id": "chapter-19",
+          "title": {
+            "en-US": "Chapter VII"
+          }
+        },
+        {
+          "id": "chapter-20",
+          "title": {
+            "en-US": "Chapter VIII"
+          }
+        },
+        {
+          "id": "chapter-21",
+          "title": {
+            "en-US": "Chapter IX"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "title": {
+        "en-US": "Part III"
+      },
+      "children": [
+        {
+          "id": "chapter-22",
+          "title": {
+            "en-US": "Chapter I"
+          }
+        },
+        {
+          "id": "chapter-23",
+          "title": {
+            "en-US": "Chapter II"
+          }
+        },
+        {
+          "id": "chapter-24",
+          "title": {
+            "en-US": "Chapter III"
+          }
+        },
+        {
+          "id": "chapter-25",
+          "title": {
+            "en-US": "Chapter IV"
+          }
+        },
+        {
+          "id": "chapter-26",
+          "title": {
+            "en-US": "Chapter V"
+          }
+        },
+        {
+          "id": "chapter-27",
+          "title": {
+            "en-US": "Chapter VI"
+          }
+        },
+        {
+          "id": "chapter-28",
+          "title": {
+            "en-US": "Chapter VII"
+          }
+        },
+        {
+          "id": "chapter-29",
+          "title": {
+            "en-US": "Chapter VIII"
+          }
+        },
+        {
+          "id": "chapter-30",
+          "title": {
+            "en-US": "Chapter IX"
+          }
+        },
+        {
+          "id": "chapter-31",
+          "title": {
+            "en-US": "Chapter X"
+          }
+        },
+        {
+          "id": "chapter-32",
+          "title": {
+            "en-US": "Chapter XI"
+          }
+        },
+        {
+          "id": "chapter-33",
+          "title": {
+            "en-US": "Chapter XII"
+          }
+        }
+      ]
+    }
+  ]
+}
