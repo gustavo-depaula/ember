@@ -1,0 +1,60 @@
+{
+  "id": "ignatius-diario-espiritual",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Diario espiritual",
+    "en-US": "Spiritual Journal",
+    "pt-BR": "Diário espiritual"
+  },
+  "author": {
+    "es-ES": "San Ignacio de Loyola",
+    "en-US": "St. Ignatius of Loyola",
+    "pt-BR": "Santo Inácio de Loyola"
+  },
+  "description": {
+    "es-ES": "El diario que San Ignacio llevó en Roma del 2 de febrero de 1544 al 27 de febrero de 1545: primero la elección sobre la pobreza de las iglesias de la Compañía, después las misas, las lágrimas y las visiones de la Trinidad. Cuatrocientos noventa apuntes numerados, con las siglas del autógrafo.",
+    "en-US": "The journal St. Ignatius kept in Rome from 2 February 1544 to 27 February 1545: first the election on the poverty of the Society's churches, then the Masses, tears and visions of the Trinity. 490 numbered entries, with the sigla of the autograph. Spanish only for now.",
+    "pt-BR": "O diário que Santo Inácio manteve em Roma de 2 de fevereiro de 1544 a 27 de fevereiro de 1545: a eleição sobre a pobreza das igrejas da Companhia e depois as missas, as lágrimas e as visões da Trindade."
+  },
+  "composed": "1544–1545",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "ignatius-of-loyola/diario-espiritual",
+  "editions": {
+    "es-ES": {
+      "editor": "Autógrafo (MHSI, Const. I 86-158), trans. Santiago Thió, via Documenta Catholica Omnia",
+      "year": 1544
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://www.documentacatholicaomnia.eu/03d/1491-1556,_Ignacio_Loyola,_El_diario_espiritual,_ES.pdf",
+      "edition": "El Diario Espiritual de San Ignacio, Documenta Catholica Omnia text layer, 490 numbered entries. The DCO compiler's note on the symbols is kept (shortened to what the text still shows) as the first chapter; page numbers and the editorial title and sub-heading before entry 1 are removed.",
+      "description": "Ignatius's marginal marks and crossed-out words: words he struck out stay between escaped angle brackets, the 'visión' mark as | |; the italic marks of the BAC edition are not in this text. Dates in square brackets are the editor's.",
+      "tier": "B",
+      "tierEvidence": "Ignatius died in 1556 and the journal is his autograph of 1544-45; the Spanish rendering follows Thió's Manresa translation, distributed by Documenta Catholica Omnia without any copyright claim or licence; free in practice."
+    }
+  ],
+  "toc": [
+    {
+      "id": "signos",
+      "title": {
+        "es-ES": "Signos y siglas"
+      }
+    },
+    {
+      "id": "cuaderno-1",
+      "title": {
+        "es-ES": "Primer cuaderno (2 de febrero – 12 de marzo de 1544)"
+      }
+    },
+    {
+      "id": "cuaderno-2",
+      "title": {
+        "es-ES": "Segundo cuaderno (13 de marzo de 1544 – 27 de febrero de 1545)"
+      }
+    }
+  ]
+}
