@@ -28,7 +28,11 @@ def index_links(path):
 
 def inline(h, para=True):
     h = re.sub(r'<font[^>]*><b>\[</b></font>.*?NR\]</b></font>', '', h, flags=re.S)
-    h = re.sub(r'\[<a name="return(\d+)"[^>]*>\s*Notes?\s*\d*\s*</a>\]', lambda m: '\x00%s\x01' % m.group(1), h)
+    def _marker(m):
+        t = m.group(0)
+        num = re.search(r'name="return(\d+)"', t) or re.search(r'(?:Notes?|Name)\s*(\d+)', re.sub(r'<[^>]*>', ' ', t)) or re.search(r'href="#note(\d+)"', t)
+        return '\x00%s\x01' % (num.group(1) if num else '1')
+    h = re.sub(r'\[(?:(?!\]).){0,250}?href="#note\d*"[^>]*>(?:\s|<[^>]*>)*(?:Notes?|Name)[\s\d]*</a>(?:</u>)?\]', _marker, h, flags=re.S)
     h = re.sub(r'<a href="#return\d+">Return to text</a>', '', h)
     h = re.sub(r'<a name="[^"]*"></a>', '', h)
     h = re.sub(r'<br\s*/?>', '\x02', h)
@@ -66,6 +70,7 @@ def norm(b):
 
 def blocks(s):
     out = []
+    s = re.sub(r'<table\b(?:(?!<table\b).)*?</table>', lambda m: '' if 'href="#' in m.group(0) and m.group(0).count('<p') < 3 or '#</a>' in m.group(0) else m.group(0), s, flags=re.S | re.I)
     for m in re.finditer(r'<(h[1-4]|p|blockquote|pre)\b[^>]*>(.*?)</\1>|<hr>', s, re.S | re.I):
         if m.group(0) == '<hr>': out.append(('hr', '')); continue
         tag, b = m.group(1).lower(), m.group(2)
@@ -75,7 +80,7 @@ def blocks(s):
                 t = inline(p)
                 if t: out.append(('q', t))
             continue
-        if tag == 'p' and ('href="#top"' in b or ('Newman Reader' in b and 'Copyright' in b)): continue
+        if tag == 'p' and ('href="#top"' in b or norm(b).startswith('—NR') or ('Contents' in b and 'Works' in b and 'Home' in b) or ('Newman Reader' in b and 'Copyright' in b)): continue
         out.append((tag, b))
     return out
 
@@ -83,13 +88,20 @@ def convert(url, title=None, keep_first_heading=False):
     """-> (markdown, warnings). title: H1 text; the page's first h2 is dropped (it is the title)."""
     bl = blocks(body(url))
     nidx = next((k for k, (t, b) in enumerate(bl) if t == 'h3' and norm(b) in ('Note', 'Notes')), len(bl))
-    notes = {}
+    notes, last = {}, None
+    hm = re.search(r'name="note(\d+)"', bl[nidx][1]) if nidx < len(bl) else None
+    nxt = int(hm.group(1)) if hm else 1
     for t, b in bl[nidx + 1:]:
         if t != 'p': continue
-        txt = inline(b, para=False)
+        txt = re.sub(r'\s*(?:\[[^\]]*NR\*?\*?\])?\s*Return to text\s*$', '', inline(b, para=False))
+        am = re.search(r'name="note(\d+)"', b)
         mm = re.match(r'^(\d+)\.\s*(.*)$', txt, re.S)
-        if mm: notes[mm.group(1)] = mm.group(2)
-        elif notes: notes[max(notes, key=int)] += ' ' + txt
+        if am or (mm and int(mm.group(1)) == nxt):
+            num = int(am.group(1)) if am else nxt
+            if mm and int(mm.group(1)) == num: txt = mm.group(2)
+            notes[str(num)] = txt; last = str(num); nxt = num + 1
+        elif last: notes[last] += '\n\n' + txt
+        else: notes[str(nxt)] = txt; last = str(nxt); nxt += 1
     warn = []
     first = True
     lines = ['# ' + (title or ''), '']

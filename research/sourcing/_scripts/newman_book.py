@@ -44,7 +44,8 @@ def build(cfg):
         open('%s/en-US/%s.md' % (root, cid), 'w').write(md)
         words += len(md.split())
         flat.append({'id': cid, 'title': {'en-US': title}})
-        raw.append('===== %s =====\n%s\n' % (path, re.sub(r'\n\s*\n+', '\n\n', n.norm(' '.join(b for t, b in n.blocks(n.body(n.ROOT + path)))).replace(' ', ' '))))
+        for pg in path.split('+'):
+            raw.append('===== %s =====\n%s\n' % (pg, n.norm(' '.join(b for t, b in n.blocks(n.body(n.ROOT + pg))))))
     parts = cfg.get('parts')
     if parts:
         ids = [c['id'] for c in flat]

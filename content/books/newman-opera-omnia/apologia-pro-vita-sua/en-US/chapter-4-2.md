@@ -256,10 +256,11 @@ I wrote to a friend:—
 
 I left Oxford for good on Monday, February 23, 1846. On the Saturday and Sunday before, I was in my house at Littlemore simply by myself, as I had been for the first day or two when I had originally taken possession of it. I slept on Sunday night at my dear friend's, Mr. Johnson's, at the Observatory. Various friends came to see the last of me; Mr. Copeland, Mr. Church, Mr. Buckle, Mr. Pattison, and Mr. Lewis. Dr. Pusey too came up to take leave of me; and I called on Dr. Ogle, one of my very oldest friends, for he was my private Tutor, when I was an Undergraduate. In him I took leave of my first College, Trinity, which was so dear to me, and which held on its foundation so many who had been kind to me both when I was a boy, and all through my Oxford life. Trinity had never been unkind to me. There used to be much snapdragon growing on the walls opposite my freshman's rooms there, and I had for years taken it as the emblem of my own perpetual residence even unto death in my University.
 
-On the morning of the 23rd I left the Observatory. I have never seen Oxford since, excepting its spires, as they are seen from the railway [Note 6].
+On the morning of the 23rd I left the Observatory. I have never seen Oxford since, excepting its spires, as they are seen from the railway [^6].
 
 [^1]: Vide Note D, *Lives of the English Saints*.
-[^2]: I think Sumner, Bishop of Chester, must have done so already. Return to text
-[^3]: Deut. xxxiii. 12. Return to text
-[^4]: On this subject, vide my Third Lecture on "Anglican Difficulties", also Note E, *Anglican Church*. Return to text
-[^5]: Vide supr. p. 219, &c. Letter of Oct. 14, 1843, compared with that of Oct. 25. Return to text
+[^2]: I think Sumner, Bishop of Chester, must have done so already.
+[^3]: Deut. xxxiii. 12.
+[^4]: On this subject, vide my Third Lecture on "Anglican Difficulties", also Note E, *Anglican Church*.
+[^5]: Vide supr. p. 219, &c. Letter of Oct. 14, 1843, compared with that of Oct. 25.
+[^6]: At length I revisited Oxford on Feb. 26th, 1878, after an absence of just 32 years. Vide additional Note at the end of the volume.
