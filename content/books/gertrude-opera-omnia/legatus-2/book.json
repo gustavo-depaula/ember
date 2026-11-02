@@ -1,0 +1,192 @@
+{
+  "id": "gertrude-legatus-2",
+  "cover": "classic",
+  "name": {
+    "la": "Legatus divinae pietatis, liber II",
+    "en-US": "The Herald of Divine Love, Book II",
+    "pt-BR": "O Arauto do Amor Divino, Livro II"
+  },
+  "author": {
+    "la": "Gertrudis Magna",
+    "en-US": "St. Gertrude the Great",
+    "pt-BR": "Santa Gertrudes, a Grande"
+  },
+  "description": {
+    "la": "Liber secundus, ab ipsa Gertrude conscriptus: gratiae acceptae anno aetatis vicesimo sexto, visitationes Domini, vulnera amoris, gratiarum actio.",
+    "en-US": "Book II, written by Gertrude herself: the grace received in her twenty-sixth year, the Lord's visitations, the wound of love, thanksgiving.",
+    "pt-BR": "Livro II, escrito pela própria Gertrudes: a graça recebida aos vinte e seis anos, as visitas do Senhor, a ferida do amor, a ação de graças."
+  },
+  "composed": "c. 1289-1291",
+  "languages": [
+    "la"
+  ],
+  "work": "gertrude/legatus-2",
+  "editions": {
+    "la": {
+      "editor": "Solesmes Benedictines (L. Paquelin)",
+      "year": 1875
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.intratext.com/IXT/LAT0714/",
+      "edition": "Revelationes Gertrudianae ac Mechtildianae, vol. I, Poitiers/Paris: H. Oudin, 1875 (Solesmes edition), as transcribed in IntraText LAT0714.",
+      "description": "IntraText edition (EuloTech 2007), Books I-II only. The edition's [p. N] page marks are dropped and the paragraph numbers [N] become paragraph breaks (research/sourcing/_scripts/gertrude_legatus12.py).",
+      "tier": "B",
+      "tierEvidence": "IntraText is licensed under a Creative Commons license; the underlying 1875 text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologus",
+      "title": {
+        "la": "Prologus"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput 1: De eo qualiter eam Dominus visitavit Oriens ex alto"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput 2: De illuminatione cordis"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput 3: De Amoentitate inhabitationis domini"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput 4: De sanctissimorum vulnerum Domini impressione"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput 5: De vulnere amoris"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput 6: De digniori visitatione Domini in festo nativitatis"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput 7: De excellentiori adjunctione animae ipsius ad Deum"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput 8: De Familiariori intractione ipsius"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput 9: De inseparabili unione animae ipsius"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput 10: De influxione divina"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput 11: De ausu tentandi"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput 12: De supportatione humani defectus"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Caput 13: De custodia affectionum"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "la": "Caput 14: De utilitate compassionis"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "la": "Caput 15: De recompensatione gratiae"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "la": "Caput 16: De benignis exhibitionibus in festo dominicae nativitatis et purificationis beatae Mariae"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "la": "Caput 17: De temperantia divina"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "la": "Caput 18: De paterna instructione"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "la": "Caput 19: De laude dignationis divinae"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "la": "Caput 20: De specialibus privilegiis sibi a collatis"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "la": "Caput 21: De effectu visionis divinae"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "la": "Caput 22: Gratiarum actio pro quodam maximo sed secretissimo dono"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "la": "Caput 23: Gratiarum actio, cum expositione diversorum beneficiorum, quam cum orationibus tam praecedentibus quam subsequentibus statutis temporibus prout potuit devotius legere consuevit"
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "la": "Caput 24: Commendatio conscriptorum"
+      }
+    }
+  ]
+}
