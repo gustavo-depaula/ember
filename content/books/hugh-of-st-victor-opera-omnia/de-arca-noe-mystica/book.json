@@ -1,0 +1,132 @@
+{
+  "id": "hugh-de-arca-noe-mystica",
+  "cover": "classic",
+  "name": {
+    "la": "De arca Noe mystica",
+    "en-US": "Noah’s Mystical Ark",
+    "pt-BR": "A arca mística de Noé"
+  },
+  "author": {
+    "la": "Hugo de Sancto Victore",
+    "en-US": "Hugh of St. Victor",
+    "pt-BR": "Hugo de São Vítor"
+  },
+  "description": {
+    "la": "De arca Noe mystica (Libellus de formatione arcae): arcae descriptio mystica, Christi et Ecclesiae figura.",
+    "en-US": "Hugh’s Mystical Ark of Noah (also called the Little Book on the Making of the Ark): the long description of the ark drawn on the plain as a figure of Christ and of the Church. Latin only, from the Migne text (Patrologia Latina 176, 1854), a machine-corrected OCR.",
+    "pt-BR": "A Arca mística de Noé (Pequeno livro sobre a construção da arca): a descrição da arca, figura de Cristo e da Igreja."
+  },
+  "composed": "c. 1130",
+  "languages": [
+    "la"
+  ],
+  "work": "hugh/de-arca-noe-mystica",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 176)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.DeArNoM2",
+      "edition": "Migne, Patrologia Latina 176 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.DeArNoM2, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Caput I. De arcae igitur descriptione ut supra."
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Caput II. De columnae in arcae medio erectae significatione mystica, de tignorum super eam erectione, de mansionibus inter quadraturas tignis infixas designatis, de columnae supradictae positione, et de omnium horum mysterio."
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Caput III. De zona quae per medium fundum secundum longitudinem a fine usque ad finem arcae porrigitur, quomodo Ecclesiam figuret."
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "Caput IV. De quadratura in fronte arcae designante quatuor mundi partes per litteras nominis Adam scriptionem nominum suorum inchoantes, et de patriarcharum stemmatibus per nominum ipsorum descriptionem ab Adam usque ad Christum; et deinde de Novi Testamenti principibus, et subsecutis sanctis secundum dispositionem et divisionem arcae, et secundum mundi aetates."
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "la": "Caput V. Iterum de trina arcae divisione secundum longitudinem, qua significantur homines legis naturalis, scriptae et gratiae."
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "la": "Caput VI. De trina arcae secundum latitudinem divisione, qua supradicti homines significantur, et de trabibus ibidem positis."
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "la": "Caput VII. De inscriptionibus trium mansionum arcae, et de distinctione ejusdem, quae secundum altitudinem est, et de duodecim scalis, quibus ad easdem ascenditur."
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "la": "Caput VIII. De supradictis scalis moralis repetitio."
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "la": "Caput IX. Ascensiones ad virtutes a frigore orientis."
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "la": "Caput X. Ascensiones a calore et frigore orientis."
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "la": "Caput XI. De ostio arcae."
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "la": "Caput XII. Exeundi per cogitationem modi quatuor."
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "la": "Caput XIII. De sex mansiunculis arcae ad litteram."
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "la": "Caput XIV. De mansionibus quadraginta duobus."
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "la": "Caput XV. De proprietate quatuor temporum anni, et conclusione operis."
+      }
+    }
+  ]
+}

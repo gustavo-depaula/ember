@@ -1,0 +1,1496 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De arca Noe mystica</title>
+              <author ref="http://viaf.org/viaf/9865788">Hugo de S. Victore<date>-1141</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 176</title>
+           <idno>HuDeSVi.DeArNoM2</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>CAPITULA.</head>
+<div2>
+          <head>CAP. I. </head>
+          <p>
+ <hi>De arcae descriptione per crucis figuram, et agnum in centro ejus stantem, et columnam in altum
+erectam, designatis tam crucis quam spatiorum ab ea derelictorum, et aliorum omnium coloribus ad mysticum
+sensum facientibus, cum ipsius arcae longitudine, latitudine et profunditate seu altitudine mystice
+intellecta.</hi> --CAP. II. <hi>De columnae in arcae medio erectae significatione mystica, de tignorum super eam
+erectione, de mansionibus inter quadraturas tignis infixas designatis. De columnae supradictae positione,
+et de omnium horum mysterio.</hi> --CAP. III. <hi>De zona, quae per medium fundum secundum longitudinem
+a fine usque ad finem arcae porrigitur, quomodo Ecclesiam figuret.</hi> --CAP. IV. <hi>De quadratura in
+fronte arcae designante quatuor mundi partes per litteras nominis Adam scriptionem nominum suorum
+inchoantes, et de patriarcharum stemmatibus per nominum ipsorum descriptionem ab Adam usque ad
+Christum, et deinde de Novi Testamenti principibus, et subsecutis sanctis secundum dispositionem, et divisionem
+arcae, et secundum mundi aetates.</hi> --CAP. V. <hi>De trina arcae secundum longitudinem divisione, qua
+significantur homines legis naturalis, scriptae et gratiae.</hi> --CAP. VI. <hi>De trina arcae secundum latitudinem
+divisione, qua supradicti homines significantur, et de trabibus ibidem positis.</hi> --CAP. VII. <hi>De inscriptionibus
+trium mansionum arcae, et de distinctione ejusdem arcae secundum altitudinem et de</hi> XII <hi>scalis, quibus ad
+easdem ascenditur.</hi> --CAP. VIII. <hi>De supradictis scalis moraliter repetitio.</hi> --CAP. IX. <hi>De ascensionibus ad
+virtutes a frigore orientis.</hi> --CAP. X. <hi>De ascensionibus a calore, et frigore orientis.</hi> --CAP. XI. <hi>De ostio
+arcae.</hi> --CAP. XII. <hi>Exeundi per cogitationem modi quatuor.</hi> --CAP. XIII. <hi>De sex mansiunculis arcae ad
+litteram.</hi> --CAP. XIV. <hi>De mansionibus quadraginta duabus.</hi> --CAP. XV. <hi>De proprietate quatuor temporum
+anni, et conclusione operis.</hi> 
+</p>
+        </div2>
+
+<div2>
+          <head>CAP. I. <hi>De arcae igitur descriptione ut supra.</hi> </head>
+
+<pb n="0681A"/>
+<p>Primum ad mysticam arcae Noe descriptionem,
+in planitie ubi arcam depingere volo, medium centrum
+quaero, et ibi fixo puncto parvam quadraturam
+aequilateram ad similitudinem illius cubiti, in quo
+consummata est arca, ei circumduco. Itemque illi
+quadraturae aliam paulo majorem circumscribo. Ita
+ut id spatium, quod est inter exteriorem et interiorem
+quadraturam, quasi limbus cubiti esse videatur.
+Hoc facto in interiori quadratura crucem pingo,
+ita ut cornua ejus singula latera quadraturae attingant,
+eamque auro superdueo. Deinde spatia illa,
+quae in superficie quadraturae inter quatuor angulos
+crucis et quadraturae remanent, colore vestio, duo
+superiora flammeo, et duo inferiora sapphirino. Ita
+<pb n="0681B"/>
+ut medietas una cubiti in flammeo colore ignem, et
+altera medietas in sapphirino colore nubem repraesentare
+videatur. Post haec in limbo cubiti supra
+crucem scribo <foreign xml:lang="greek">α,</foreign> quod est principium. Econtrario
+subter crucem scribo <foreign xml:lang="greek">ω,</foreign> quod est finis. Ad dextrum
+cornu crucis scribo <foreign xml:lang="greek">χ,</foreign> quae littera prima ponitur in
+nomine Christi, et significat Decalogum legis quae
+antiquo populo primum quasi electo et justo ad
+dexteram collocato data est. Ad sinistrum autem
+cornu pono <hi>c,</hi> quae est ultima in hoc nomine Christi,
+ et significat in centum perfectionem gratiae, quae
+data est gentilitati, quae primum propter infidelitatem
+abjecta, et ad sinistram collocanda videbatur.
+Deinde spatium limbi circumquaque purpureo, et
+viridi colore induo, exterius purpureo, et interius
+<pb n="0681C"/>
+viridi, et in medio crucis aureae, quam feceram,
+agnum anniculum stantem pingo. Quo facto perfectus
+est cubitus. Cujus rei rationem si quaeris, quid
+aliud haec scriptura tibi dicere videtur, nisi quod
+principium et finis sit Christus lator Legis Veteris et
+<pb n="0682A"/>
+Novae? Et pictura quid tibi ostendit aliud, quam si
+diceret, iste cubitus eumdem significat populum,
+quem columna ignis et nubis protegebat, quae populum
+Israel in deserto praecedebat, illuminans per
+ignem, et per nubem obumbrans. Et qui priori populo
+per ignem divinae majestatis terribilis fuit puniendo
+peccata, et posteriori populo per nubem humanitatis
+mitis apparuit, condonando peccata, qui
+pro peccatis hominum in cruce est immolatus quasi
+agnus mitis et non aperiens os suum, et pro justitia
+hominum resurgendo, et ascendendo super coelos
+est exaltatus. Qui undique ad se venientibus per
+purpuram sanguinis exemplum passionis suae proponit,
+et in viridi colore immarcescibile praemium supernae
+remunerationis. Vel in purpura, sanguinem
+<pb n="0682B"/>
+passionis Christi sanctificat, et in viridi colore
+aquam, qua mundum olim judicavit. Vel in purpura
+damnationem malorum, quos juste reprobavit, in
+viridi colore liberationem bonorum, quos juste et
+misericorditer salvabit. Qui stat quia invitat, stat
+quia confortat, stat quia adjuvat, stat quia coronat,
+stat quia vigilat ut custodiat civitatem suam. Ita
+medio cubito consummato aliam quadraturam circa
+praedictum centrum longe extra circumduco, et tantae
+magnitudinis, quantae magnitudinis arcam facere
+volo, quae quadratura sexies, tam longa sit quam
+lata, quia arca trecentos cubitos in longitudine habuit,
+quinquaginta in latitudine, hoc est sexies longa
+ad latitudinem. Ego tamen propter competentiorem
+formam in pictura usque ad quadruplam fere longitudinem
+<pb n="0682C"/>
+breviavi. Post haec per mediam hanc quadraturam,
+id est per medium fundum arcae, secundum
+longitudinem duabus lineis ductis tantae latitudinis
+spatium includo, quantae est interior quadratura
+medii cubiti. Similiter per mediam latitudinem,
+<pb n="0683A"/>
+ab uno pariete usque ad alterum duabus lineis protensis
+ejusdem latitudinis spatium signo. Ita ut hi
+duo cinguli, quorum alter per mediam longitudinem,
+alter per mediam latitudinem protenditur, altrinsecus
+sese intersecante in modum crucis sub medio
+cubito conveniant, et interiori latitudini ipsius respondeant,
+limbo ejus tantummodo hinc inde excedantur.
+Hoc ita peracto, spatia quae inter medium
+centrum, vel potius medium cubitum, et singulos
+angulos arcae interjacent, unumquodque in tria
+aequalia positis punctis divido, et apposita regula
+binis ac binis punctis coadjacentibus secundum longitudinem,
+et latitudinem de puncto semper ad punctum
+circumquaque lineam traho; et ita duas alias
+quadratas sexies similiter longas ad latitudinem
+<pb n="0683B"/>
+suam efficio, quae tali proportione a se distant, ut
+quantum prima vincit mediam, tantum media vincat
+tertiam. Inter quas tertia quadratura, quae minima
+est, et secundum positionem plani infra alias clauditur,
+medium cubitum ambit, et duos supradictos
+cingulos, quorum alter longitudinem, alter latitudinem
+arcae metitur, quadrifariam intercidit. Alterum
+sursum et deorsum. Alterum sinistrorsum et dextrorsum.
+Deinde secunda tertiam complectitur, et
+similiter supradictos cingulos intersecat. Deinde
+alia, quae in plano extrema est, in alto autem ima,
+caeteras omnes includit, et quatuor extrema cornua
+duarum zonarum singulis lateribus, accingens, totas
+eas intra se comprehendit.</p>
+<p>Hoc facto, si nosse cupis quomodo haec figura
+<pb n="0683C"/>
+formam arcae repraesentet, intellige quod de illa
+zona, quae per mediam latitudinem arcae protenditur,
+fiat columna quadrata aequilatera in medio arcae
+erecta, cujus altitudo tanto minor sit latitudine
+arcae, quanto minor est ternarius quinario, quia altitudo
+arcae erat triginta cubitorum, et latitudo
+quinquaginta. Si autem scire cupis qua ratione ex
+ipsa zona columnam fieri intelligendum sit, sic considera.
+Cubitus ille, qui nunc secundum positionem
+plani in medio ipsius zonae affixus jacet, sursum
+elevetur, sic ut ipsam zonam quasi per medium
+complicando secum sursum trahat, deinde ambae
+medietates ejus deorsum pendentes plano ad planum
+invicem compingantur ut columna erecta videatur.
+in cujus summitate emineat cubitus ille, qui secundum
+<pb n="0683D"/>
+positionem plani prius in medio ejus jacebat.
+Nihilque aliud esse intelligatur cubitus ipse, quam
+columnae praecisio desuper, et limbus cubiti sit
+quaedam ora sive eminentia facta desuper in capite
+columnae ad excipienda tigna circumquaque ab imo
+surgentia, quae ipsi columnae infixa sunt sub eadem
+eminentia, sub qua etiam summitas tecti consummata
+est, ad similitudinem imbricis summitatem
+tectorum excipientis. Et quamvis altitudo columnae
+non videatur major esse medietate zonae, cum facta
+sit ex ipsa duplicata, intelligenda est tamen tanto
+major esse, quanto majora sunt triginta quam viginti
+quinque, sed hoc in plano repraesentari non
+potuit. Rursum cum medietas tantum zonae altitudinem
+<pb n="0684A"/>
+columnae teneat, quare ambae medietates ejus
+depictae sint, haec est ratio.
+</p>
+        </div2>
+
+<div2>
+          <head>CAP. II. <hi>De columnae in arcae medio erectae significatione mystica, de tignorum super eam erectione, de mansionibus inter quadraturas tignis infixas designatis, de columnae supradictae positione, et de omnium horum mysterio.</hi> </head>
+<p>Columna ista, quae in medio arcae erigitur, significat
+lignum vitae, quod plantatum est in medio paradisi,
+id est Dominum Jesum Christum secundum
+formam humanitatis susceptae in medio Ecclesiae
+plantatum, qui Christus Deus et homo est. Et ideo
+latus columnae, quod ad aquilonem respicit, humanitatem
+ejus significat, quam pro peccatoribus assumpsit;
+illud autem, quod ad austrum spectat,
+<pb n="0684B"/>
+divinitatem ejus figurat, qua mentes fidelium pascit.
+Et haec est causa, quare in plano bis altitudinem
+depinximus, quoniam oportebat utriusque lateris
+superficiem repraesentari, quod nisi geminata figura
+fieri non potuit. Statuta igitur columna in medio
+arcae, erigantur a singulis angulis tigna usque ad
+summitatem ipsius, eique sub eminentia extremae
+orae infigantur. Deinde duae interiores quadraturae
+sursum eleventur, quousque utraque secundum suam
+positionem tignis eisdem ex omni parte orthogonaliter
+conjungatur extrema quadratura in imo remanente;
+et tunc videbis quomodo illud spatium,
+quod est inter primam quadraturam et secundam,
+pro prima mansione computetur, quod est inter secundam
+et tertiam pro secunda, et quod est inter
+<pb n="0684C"/>
+tertiam et supremum cubitum pro tertia. Hoc facto
+completam habes formam arcae subtus latam, et desuper
+angustam usque ad mensuram unius cubiti.
+Supradictae autem columnae positio talis est, ut a
+medio fundo arcae surgat, et in omnibus mansionibus
+medium locum obtineat et totam portet fabricam.
+Cujus mysterium hoc est, columna Christus
+est, australe latus ejus (quod divinitatem ipsius significat)
+lignum vitae vocatur, et ideo viridi colore
+superductum est. Aquilonare vero latus (quod humanitatem
+ejus figurat) liber vitae dicitur, et hoc
+sapphirino colore superductum est. Columnae arca
+innititur, et Christo innititur Ecclesia sua, quia nimirum
+stare nullatenus posset, nisi ipse eam sustineret,
+secundum quod scriptum est in Canticis canticorum:
+<pb n="0684D"/> <hi>Quae est ista, quae ascendit de deserto, deliciis
+affluens, innixa super dilectum suum? 
+ <note>(Cant. VIII.)</note>
+            </hi> 
+Rursum sicut columna singulorum mansionum altitudinem
+metitur, sic Christus uniuscujusque virtutem
+et profectum dispensat. Et sicut columna distinguit
+stationes, sic Christus pro arbitrio dignationis
+suae in sancta Ecclesia dona gratiarum suarum
+distribuit, alios constituens prophetas, alios apostolos,
+alios vero evangelistas, et caeteros quoscunque
+spiritualium donorum participes. Et sicut columna
+medium ubique tenet locum, sic Dominus Jesus
+Christus dicit: <hi>Ubicunque duo vel tres congregati fuerint
+in nomine meo, ibi ego sum in medio eorum <note>(Matth. XVIII)</note>
+            </hi>.
+Si ergo tanta est infirmitas nostra,
+<pb n="0685A"/>
+ut ascendere non possimus in tertiam vel secundam
+mansionem, non tamen desperemus, sed congregemur
+in unum per fidem nominis ejus, et simus saltem
+in prima mansione, simus in unitate Ecclesiae,
+teneamus rectam et inviolatam fidem, et ipse veniet
+ad nos, ut stet in medio nostrum congratulans bono
+incoepto nostro, paratus adjuvare et ad altiora erigere,
+ut sit unus in omnibus, unus inter omnes,
+unus prae omnibus Dominus Jesus Christus.</p>
+</div2>
+
+<div2>
+          <head>CAP. III. <hi>De zona quae per medium fundum secundum longitudinem a fine usque ad finem arcae porrigitur, quomodo Ecclesiam figuret.</hi> </head>
+<p>Restat nunc ut ostendamus quid sibi vult zona
+altera, quae per medium fundum secundum longitudinem
+a fine usque ad finem arcae porrigitur. Si
+<pb n="0685B"/>
+enim arca Ecclesiam significat, restat ut longitudo
+arcae longitudinem figuret Ecclesiae. Longitudo autem
+Ecclesiae consideratur in diuturnitate temporum,
+sicut latitudo in multitudine populorum. Tunc
+enim Ecclesia dilatari dicitur, quando numerus credentium
+augetur, et multi ad fidem colliguntur.
+Longitudo autem ejus in prolixitate temporum consistit,
+qua de praeteritis per praesentia ad futura se
+extendit. Tempus autem longitudinis ejus est ab
+initio mundi usque ad finem, quia sancta Ecclesia in
+fidelibus suis ab initio coepit, et usque in finem saeculi
+durabit. Credimus enim nullum tempus esse ab
+initio mundi usque ad finem saeculi, in quo non
+inveniantur fideles Christi. Igitur zona ista, quae
+protenditur a fine usque ad finem arcae, designat
+<pb n="0685C"/>
+cursum temporis ab initio mundi usque ad finem
+saeculi. Medietas autem ejus, quae est superius a
+capite arcae usque ad columnam, significat omne
+tempus ab initio mundi usque ad incarnationem
+Verbi; altera vero medietas, quae est a columna
+deorsum, designat omne tempus ab incarnatione
+Verbi usque ad finem saeculi. Ideo in superiori medietate
+a capite arcae usque ad columnam, scribitur
+linea carnalis generationis ab Adam usque ad Christum.
+In altera autem medietate a columna deorsum
+scribuntur nomina apostolorum a Petro, ac deinceps
+eo ordine, quo sibi in regimine Ecclesiae quasi filii
+spiritales patribus successerunt. Quia enim ab Adam
+usque ad Christum vetus generatio fuit, quae est
+<pb n="0685D"/>
+secundum carnem, ideo cursus temporum in priori
+parte saeculi per carnalem generationem distinguitur.
+Quia vero in Christo nova generatio fuit, quae
+est secundum spiritum, ideo cursus temporum in
+posteriori parte saeculi, id est post Christi adventum,
+per spiritalem generationem determinatur. Has autem
+generationes tali modo dispono: superiorem
+medietatem, quae est a columna sursum, in tres partes
+aequales divido, et unaquaeque tertia sexta pars
+est totius longitudinis.</p>
+</div2>
+
+<div2>
+          <head>CAP. IV. <hi>De quadratura in fronte arcae designante quatuor mundi partes per litteras nominis Adam scriptionem nominum suorum inchoantes, et de patriarcharum stemmatibus per nominum ipsorum descriptionem ab Adam usque ad Christum; et deinde de Novi Testamenti principibus, et subsecutis sanctis secundum dispositionem et divisionem arcae, et secundum mundi aetates.</hi> </head>
+
+<pb n="0686A"/>
+<p>Hac divisione facta incipio sursum a capite et
+primum nomen Adam taliter scribo. In ipsa fronte
+arcae facio parvam quadraturam ad figurandas quatuor
+partes mundi, deinde superiori ejus lateri, id
+est orienti appono A, hoc est primam litteram nominis
+Adam. Inferiori autem lateri, id est occidenti,
+appono D, hoc est secundam. Dextero lateri, id est
+aquiloni, appono A, id est tertiam. Sinistro lateri,
+id est australi, appono M, id est quartam litteram.
+In Graeco autem singulae partes mundi ab his litteris
+incipiunt. Anatole, <foreign xml:lang="greek">ἀνατολή,</foreign> id est oriens, incipit ab <hi>a,</hi> 
+ et ideo orienti appositum est A; Dysis <foreign xml:lang="greek">Δύσις,</foreign> id
+est occidens, incipit <hi>a, d,</hi> et ideo occidenti appositum
+<pb n="0686B"/>
+est D; Arctos, <foreign xml:lang="greek">ἄρκτος,</foreign> id est septentrio, incipit
+ab <hi>a,</hi> et ideo septentrioni apponitur rursum A; Mesembria, <foreign xml:lang="greek">μεσημβρία,</foreign>
+ id est meridies sive auster, incipitur
+ab <hi>m,</hi> et ideo australi lateri apponitur M. Cujus
+rei rationem quidam talem tradunt: Dicunt enim
+quod recte primus parens a quatuor partibus mundi
+nominis sui elementa contraxit, qui per omnes
+partes mundi in prole sua diffundendus fuit. Post
+Adam secundum lineam generationis scribuntur
+Seth, Enos, Cainam, Malaleel, Jaret, Henoch, Mathusalem,
+Lamech, Noe, Sem, Arphaxat, Sale, Heber,
+Phalech, Reu, Saruch, Nachor, Thare, Abraham,
+Isaac et Jacob; et hi in prima parte collocantur.</p>
+<p>In secunda parte primo scribo Judam, et circa
+<pb n="0686C"/>
+ipsum reliquos patriarchas hinc inde a dextris et a
+sinistris hoc modo dispono: Incipiens a dextro pariete
+secundum ordinem generationis, Ruben, quia
+primogenitus fuit, primum scribo; deinde Simeon,
+deinde Levi. Et hi a dextris Judae collocantur; hi
+quatuor filii Liae fuerunt. A sinistris Judae similiter
+secundum ordinem generationis primum scribitur
+Dan, deinde Nephthalin, hi filii Balae ancillae Rachelis.
+Post Nephthalin ponitur Gad, deinde Aser,
+hi filii Zelphae ancillae Liae. Deinde Issachar, deinde
+Zabulon, hi rursum filii Liae: deinde novissime Joseph,
+et post eum Benjamin, hi filii Rachel. Post
+haec singulis nominibus suas imagines superpono
+semiplenas, a pectore sursum, quales nonnunquam
+<pb n="0686D"/>
+in tabulis solent figurari, quas Graeci frequentiori
+Iconas <foreign xml:lang="greek">ἐικόνας</foreign> vocant, ut sic duodecim patriarchae
+secundum latitudinem per transversum in stationibus
+suis ordinati appareant, quasi quidam senatus
+Dei civitatis. Deinde reversus ad lineam generationis
+post Judam pono Phares, Ephrom, Aram, Aminadab,
+Naasson, Salmon, Booz, Obeth, Isai, David,
+Salomon, Roboam, Abia, Asa, Josaphat, Joram,
+Aazias, Joas, Amazias, Ozias, Joathan, Achas. Et hi
+sunt in secunda parte.</p>
+<p>Deinde in tertia parte secundum ordinem ponuntur
+Ezechias, Manasses, Amon, Josias, Eliachim,
+Joachim, Salathiel, Zorobabel, Abiud, Eliachim,
+Azor, Sadoch, Achin, Eliud, Eleazar, Mathan,
+Jacob, Joseph. Inter Joseph autem et columnam
+<pb n="0687A"/>
+scribo, hucusque primus Adam secundum
+carnem. Post haec reliquam medietatem, quae est a
+columna deorsum, similiter in tres partes aequales
+divido, has autem ternas partes supra, et ternas
+infra, designant latera mansionum, ubi intersecant
+ipsam zonam secundum positionem plani. Igitur
+facta hac divisione, post columnam primum in ipsa
+linea Petrum, et circa ipsum a dextris et a sinistris
+reliquos apostolos, cum suis iconibus, sex a dextris
+et a sinistris quinque, ut ex una parte columnae
+duodecim patriarchae, et ex altera parte duodecim
+apostoli sint constituti ad similitudinem viginti
+quatuor seniorum in Apocalypsi in circuitu throni
+sedentium. Et sicut duodecim patriarchae superius
+latitudinem arcae continent (quia ab eis antiquus
+ille populus scriptae legis universus secundum carnem
+<pb n="0687B"/>
+descendit), ita duodecim apostoli inferius, quia
+ab eis omnis populus novae legis, id est gratiae, per
+fidem spiritualiter propagatus est. Deinde post Petrum
+sequitur: Clemens, Anacletus, Evaristus, Alexander,
+Sixtus, Thelesphorus, Iginus, Pius, Anicetus,
+Soter, Eleuterius, Victor, Zepherinus, Calistus,
+Urbanus, Pontianus, Antherus, Fabianus, Cornelius,
+Lucius, Stephanus, Sixtus, Dionysius, Felix,
+Euthicianus, Gaius, Marcellinus, Marcellus, Eusebius,
+Melchiades, Sylvester, Marcus, Julius, Liberius,
+Felix, Damasus, Siricius, Anastasius, Innocentius,
+Zozimus, Bonifacius, Coelestinus, Sixtus,
+Leo, Hilarius, Simplicius, Felix, Gelasius, Anastasius,
+Simmachus, Hormisda, Joannes, Felix, Bonifacius,
+<pb n="0687C"/>
+Joannes, Agapitus, Silverius, Vigilius, Pelagius,
+Joannes, Benedictus, Pelagius, Gregorius, Sabinianus,
+Bonifacius, Deusdedit, Bonifacius, Honorius,
+Severinus, Joannes, Theodorus, Martinus,
+Eugenius, Vitalianus, Adeodatus, Bonus, Agatho,
+Leo, Benedictus, Joannes, Conon, Sergius, Joannes,
+Joannes, Sisinius, Constantinus, Gregorius, Gregorius,
+Zacharias, Stephanus, Paulus, Stephanus,
+Adrianus, Leo, Stephanus, Paschalis, Eugenius,
+Valentinus, Gregorius, Leo, Sergius, Benedictus,
+Nicolaus, Adrianus, Joannes, Joannes, Martinus,
+Adrianus, Stephanus, Formosus, Bonifacius, Stephanus,
+Romanus, Theodorus, Joannes, Benedictus,
+Leo, Christophorus, Sergius, Anastasius, Lando,
+Joannes, Leo, Stephanus, Joannes, Leo, Stephanus,
+<pb n="0687D"/>
+Marinus, Agapitus, Joannes, Benedictus, Leo, Joannes,
+Benedictus, Domnus, Bonifacius, Benedictus,
+Joannes, Joannes, Joannes, Gregorius, Joannes,
+Sylvester, Joannes, Joannes, Sergius, Benedictus,
+Joannes, Benedictus, Sylvester, Gregorius, Clemens,
+Damasus, Leo, Victor, Stephanus, Benedictus, Nicolaus,
+Alexandrinus, Gregorius, Victor, Urbanus,
+Paschalis, Gelasius, Calistus, Honorius. Et quod
+super est spatium usque ad finem arcae illos capiet,
+qui post nos futuri sunt, usque ad finem saeculi. Ab
+Adam usque ad diluvium prima aetas saeculi continens
+annos 1656. Secunda aetas a diluvio usque ad
+Abraham continens annos 292. Tertia ab Abraham
+usque ad David habens annos 942. Quarta a David
+<pb n="0688A"/>
+usque ad transmigrationem continens annos 473.
+Quinta a transmigratione usque ad adventum Christi
+habens annos 585. Sexta aetas, quae nunc agitur,
+nulla annorum serie certa, sed ut aetas decrepita
+ipsa morte totius saeculi consumenda. Has aerumnosas,
+plenasque laboribus mundi aetates quicunque
+felici morte vicerunt, septima jam Sabbati perennis
+aetate suscepti, octavam beatae resurrectionis
+aetatem, in qua cum Domino perenniter regnabunt,
+exspectant.</p>
+</div2>
+
+<div2>
+          <head>CAP. V. <hi>Iterum de trina arcae divisione secundum longitudinem, qua significantur homines legis naturalis, scriptae et gratiae.</hi> </head>
+<p>Post haec arcam in tres partes divido, et primam
+partem, quae est ab initio usque ad duodecim patriarchas,
+<pb n="0688B"/>
+tempus naturalis legis accipio. Secundam,
+quae est a duodecim patriarchis usque ad columnam,
+id est usque ad incarnationem Verbi, tempus
+scriptae legis. Tertiam, quae est a columna deorsum,
+id est ad incarnatione Verbi usque ad finem saeculi,
+tempus gratiae. Et secundum has divisiones ipsa
+etiam latera arcae utrinque distinguo. Deinde in
+utroque latere per singulas divisiones ternos colorum
+tractus duco, ut velut trabes quaedam in longum
+porrectae lateraliter conjungantur data singulis
+congrua latitudine. Nam exterior quasi foris apparens
+latior caeteris esse debet. Post hunc interior
+medius quasi inter duos coarctatus minimum
+latitudinis habebit. Horum positio sic variatur, ut
+ille, qui in prima parte exterior est, in secunda sit
+<pb n="0688C"/>
+medius, et qui in prima parte medius est, in secunda
+sit interior, et qui in prima parte est interior,
+in secunda sit exterior. Rursus qui in secunda
+parte exterior est, in tertia sit medius, et qui in
+secunda est medius, in tertia sit interior, et qui in
+secunda est interior, in tertia sit exterior. Cujus rei
+mysterium hoc est: Tres colores isti significant
+tres maneries hominum, id est homines naturalis
+legis, homines scriptae legis, homines gratiae. Nam
+sicut tria tempora sunt, id est tempus naturalis legis,
+tempus scriptae legis, et tempus gratiae, ita tres
+sunt maneries hominum, id est homines naturalis
+legis, homines scriptae legis, homines gratiae. Homines
+naturalis legis pertinent ad tempus naturalis
+legis. Similiter homines scriptae legis pertinent ad
+<pb n="0688D"/>
+tempus scriptae legis et homines gratiae ad tempus
+gratiae. Et tamen si diligenter attendimus, in singulis
+his temporibus omnes istas maneries hominum
+invenimus. Verbi gratia: In tempore naturalis legis,
+et similiter homines scriptae legis, et homines
+gratiae tunc erant, sed homines naturalis legis tunc
+erant in proprio, homines scriptae legis, et homines
+gratiae, quasi in alieno. Tempus enim naturalis legis
+proprie pertinet ad homines naturalis legis,
+quia illi tunc et numero plures, et conversatione
+manifestiores, et statu excellentiores erant. Homines
+autem scriptae legis et homines gratiae adhuc
+erant et numero pauci, et conversatione occulti
+exstiterant. Similiter de tempore scriptae legis, et
+<pb n="0689A"/>
+tempore gratiae sciendum est. Exponamus igitur
+nunc, qui dicantur homines naturalis legis, scriptae
+legis et homines gratiae, ut quod de his dicimus ex
+proposita distinctione singulorum facilius colligamus.
+Natura tribus modis in sacra Scriptura accipi
+solet, pro illo scilicet integro et incorrupto bono,
+in quo conditus fuit primus homo, secundum quam
+acceptionem dicimus omnia naturaliter esse bona.
+Deinde pro illa corruptione peccati, in qua nascimur,
+secundum quam, dicit Apostolus: <hi>Natura
+filii irae sumus <note>(Ephes. II)</note>
+            </hi>, id est corruptibili nativitate
+et peccato obnoxia. Accipitur etiam natura
+pro reliquiis illis naturalis boni, quae in homine
+post peccatum remanserunt. Naturale enim
+bonum per peccatum in homine corrumpi potuit,
+<pb n="0689B"/>
+exstingui omnino non potuit, quia vivit adhuc scintilla
+quaedam naturalis rationis in mente hominis,
+per quam discernit inter bonum et malum, secundum
+quam dicit Apostolus: <hi>Cum enim gentes, quae non
+habent legem, naturaliter ea quae legis sunt faciunt,
+ejusmodi legem non habentes, ipsi sibi sunt lex <note>(Rom.
+II)</note>
+            </hi>. Igitur homines naturalis legis sunt qui, aliam
+legem non habentes, per naturalem rationem mores
+et vitam suam instituunt. Vel homines naturalis
+legis sunt, qui secundum corruptionem peccati, cum
+qua nati sunt, in concupiscentia ambulant post desideria
+carnis suae; homines vero scriptae legis sunt,
+in quibus major viget cognitio, qui ex traditionibus
+Scripturarum, et ex praeceptis, quae recta et honesta
+sunt, formam vivendi accipiunt. Homines
+<pb n="0689C"/>
+autem gratiae dicuntur, <hi>in quorum cordibus diffusa
+est charitas per Spiritum sanctum, qui datus est eis <note>(Rom. V)</note>
+            </hi>,
+per quem illuminantur, ut quid agendum
+sit agnoscant et adjuvantur, ut adimplere valeant
+bonum, quod intelligere meruerunt. Ex his colligere
+possumus, qualiter in tempore legis naturalis omnes
+istae tres maneries hominum fuerint. Erant enim
+homines tunc justi pauci quidem, et pene adhuc
+mundo incogniti, quos Deus per Spiritum sanctum
+ad amorem sui accenderat, quibus etiam saepe visibiliter
+apparens, et mutuis se collocutionibus familiarem
+praestans viam veritatis, et loquendo foris, et
+intus aspirando patefecit. Isti homines gratiae erant.
+Erat rursus aliud genus hominum, qui justos istos
+<pb n="0689D"/>
+familiarius noverunt, vel ex affinitate generis vel ex
+propinquitate conversationis, qui cum ex dictis
+eorum, et factis multa exempla ad justitiam et disciplinam
+morum pertinentia didicissent, non ad virtutem,
+sed ad quamdam vitae hujus honestatem eos
+imitati sunt. Tales erant omnes religiosorum virorum
+mali filii, vel affines, sive etiam quicunque familiares,
+qui disciplinam eorum non per amorem, sed per
+quamdam vivendi consuetudinem tenuerunt, et ejusmodi
+quasi homines scriptae legis erant. Reliqua
+humani generis multitudo nec praeceptionibus divinis,
+nec humanis institutionibus regebatur, sed erat
+lex unicuique sua voluntas, et dum impune licuit
+quidquid placuisset, hoc potissimum quisque sequebatur,
+quo eum naturalis motus, sive carnis ad
+<pb n="0690A"/>
+concupiscentiam, sive rationis ad quamdam formam
+justitiae impellebat. Et ideo non immerito isti homines
+naturalis legis appellantur, qui tantum regebantur
+naturali motu sive concupiscentiae, sive
+rationis. Concupiscentia autem, sicut supra narratum
+est, ideo naturalis dicitur, quia in illa concipitur,
+et cum illa nascitur homo. Ratio vero ideo
+naturalis appellatur, quia illam ex prima adhuc
+conditione retinet homo. Illa igitur naturalis est
+conditione, ista nativitate. Illa naturalis est, quia
+eam cum primum conderemur accepimus; ista naturalis,
+quia illam cum nasceremur in hanc vitam
+nobiscum et in nobis apportavimus. Tales homines
+habebant prima tempora saeculi, quando lex non
+erat, quae peccata puniret, et libere peccabant homines,
+<pb n="0690B"/>
+nec abscondebant peccata sua, quibusdam
+peccata prorsus esse non credentibus, aliis autem
+peccata quidem agnoscentibus, sed levia, et facili
+piaculo solvenda existentibus. Sed postquam lex
+subintravit et ostendit hominibus peccata sua, simulque
+arguit, prohibuit, poenam indixit, coeperunt
+homines abscondere peccata sua, et quaedam opera
+virtutum foris exhibere, non ut implerent justitiam,
+sed ut vitarent poenam, sicque multiplicati sunt homines
+scriptae legis. Homines vero paucissimi naturalis
+legis effecti sunt; homines vero gratiae aliquanto
+manifestiores esse coeperunt, quam prius fuerant,
+quia lex bona, per hoc quod homines ad justitiam
+invitavit, justorum vitam clariorem reddidit. Adveniente
+autem gratia (postquam rigor legis in misericordiam
+<pb n="0690C"/>
+mutatus est), rursus multiplicantur homines
+naturalis legis, dum jam palam sectantur
+vitia sua, qui prius timore poenae coerciti latuerunt,
+homines vero scriptae legis minuuntur. Tamen hoc
+tempus ideo tempus gratiae appellatur, quoniam
+nunc homines gratiae, quamvis non sint numero
+plures, tamen sunt statu excellentiores, quia veritas
+a paucis quidem tenetur, sed ab omnibus fere
+cognoscitur, et communi omnium judicio antefertur.
+Et jam palam est quod  « homo non ex operibus
+legis, sicut olim existimabatur, sed ex gratia Dei
+justificatur. »  Cujuscunque igitur temporis homines
+naturalis legis sunt aperte mali, homines autem
+scriptae legis ficte boni, homines vero gratiae vere
+<pb n="0690D"/>
+boni. Homines naturalis legis partim sunt extra
+Ecclesiam, sicut infideles quique, partim in Ecclesia,
+sicut ii qui solam fidem habent absque operibus,
+sed nullo modo de Ecclesia sunt, quia boni non sunt.
+Homines scriptae legis tantummodo in Ecclesia sunt,
+quia fidem habent, sed de Ecclesia non sunt,
+quia boni non sunt. Soli autem homines gratiae in
+Ecclesia sunt, et de Ecclesia sunt, quia et fidem
+habent, et boni sunt. Hoc significare volunt illi tres
+tractus colorum, quos in lateribus arcae ordinavimus,
+viridis, croceus, purpureus. Viridis color, qui in
+tempore naturalis legis forinsecus jacet, significat
+homines naturalis legis, qui tunc manifestiores
+erant, qui in compositione arcae est, sed arcae
+similis non est, sed foris cum terra similitudinem
+<pb n="0691A"/>
+habet. Arca enim, quae in superficie intrinsecus secundum
+diversitatem mansionum variis coloribus
+vestita est, in ea tantum parte ubi homines naturalis
+legis interius collocantur viridi colore obduci non
+debet, neque croceo ubi homines scriptae legis intrinsecus
+sunt, sed ubi homines gratiae interius ponuntur,
+purpureum oportet ut habeat colorem, quatenus
+hic solum similitudo utrinque respondeat interius,
+quemadmodum hominibus naturalis legis superficies
+terrae per colorem viridem concordat intrinsecus.
+Croceus vero color in tempore naturalis legis
+intrinsecus collocatus est, quia significat homines
+scriptae legis, qui secundum prophetae sententiam <hi>nutriebantur in croceis 
+ <note>(Thren. IV)</note>
+            </hi>, qui tunc occulti
+erant, et hic in arca quidem situs est, sed nec arcae,
+<pb n="0691B"/>
+nec terrae similis est, quia ficte boni, nec per
+opera foris infidelibus, nec per virtutem intus fidelibus
+similes sunt. Purpureus autem color in tempore
+naturalis legis quasi coarctatus in medio
+utrorumque jacet, quia propter regium decus significat
+homines gratiae, qui tunc occultissimi erant.
+Qui color in arca est et positione et similitudine, quia
+homines gratiae et fidem habendo in ecclesia sunt, et
+vitutem habendo boni sunt. Positio istorum colorum in
+caeteris temporibus secundum quod significatio postulat
+variatur. Item homines naturalis legis sunt, qui
+solam fidem habent mortuam sine operibus. Homines
+scriptae legis sunt qui fidem habent et opera fidei,
+sed charitatem non habent. Soli autem homines gratiae
+fidem habent operantem ex dilectione.</p>
+</div2>
+
+<div2>
+          <head>CAP. VI. <hi>De trina arcae secundum latitudinem divisione, qua supradicti homines significantur, et de trabibus ibidem positis.</hi> </head>
+
+<pb n="0691C"/>
+<p>Dehinc ad latitudinem manum verto et incipiens
+sursum a dextro cornu usque ad lineam generationis
+geminas trabes porrigo, et ab inde sursum, id
+est a linea generationis usque ad sinistrum cornu,
+similiter duas signo, easdem quidem sed transpositas.
+Deinde vero a dextro cornu in sinistrum continuo
+ductu sine transpositione duas ibidem trabes
+protendo. Hoc modo lateribus secundum longitudinem
+et latitudinem compositis inscriptiones eorum
+taliter distinguo: In dextro latere a fine usque ad
+finem scribo, trecentorum cubitorum erat longitudo
+ejus. Econtrario in sinistro latere in parte prima
+<pb n="0691D"/>
+pono tempus naturalis legis, in secunda tempus
+scriptae legis, in tertia tempus gratiae, ut quasi primus
+centenarius sit tempus naturalis legis, secundus
+tempus scriptae legis, tertius tempus gratiae. In superiori
+parte a dextro latere usque ad sinistrum
+scribo, quinquaginta cubitorum latitudo ejus. Econtrario
+in inferiori latere quasi expositionem hujus
+tituli scribo, universitas fidelium sub uno capite
+Christo. In superiori quoque cornu super capita
+duarum trabium, quae in longitudinem vadunt, pono
+mons Sion; in sinistro, latera aquilonis, subtus
+contra medium, civitas Regis magni. Dextrae namque
+trabes geminae significant montem Sion, hoc
+est populum Judaeorum in utroque sexu; et sinistrae
+latera aquilonis, hoc est populum gentium similiter
+<pb n="0692A"/>
+in utroque sexu ad fidem concurrentium; et unam
+civitatem Dei, hoc est Ecclesiam, ex utroque facientium.
+Propterea in superiori latere et transpositio
+trabium et divisio titulorum facta est, inferius autem
+et ductus unus, et titulus unus, quia hi duo
+populi prius in seipsis divisi fuerant, in fide postmodum
+Christi unum facti sunt. Deinde in dextro cornu
+superius capitibus trium trabium, quae in longitudinem
+porriguntur, per transversum superscribo
+homines, postea in sinistro cornu quasi hujus tituli
+determinationem, exteriori quidem trabi in capite
+ascribo naturae, interiori autem suppono legis, mediae
+vero gratiae; hoc significare volens quod istae
+tres trabes utrinque positae significant homines naturalis
+legis, scriptae legis et gratiae, de quibus superius
+<pb n="0692B"/>
+locuti sumus.</p>
+</div2>
+
+<div2>
+          <head>CAP. VII. <hi>De inscriptionibus trium mansionum arcae, et de distinctione ejusdem, quae secundum altitudinem est, et de duodecim scalis, quibus ad easdem ascenditur.</hi> </head>
+<p>Inscriptiones mansionum tales sunt: in dextro
+latere primae mansioni inscribitur fides, secundae
+mansioni spes, tertiae mansioni charitas. In sinistro
+latere primae mansioni inscribitur scientia, secundae
+mansioni inscribitur disciplina, tertiae bonitas. In
+superiori latere primae mansioni inscribitur natura,
+secundae lex, tertiae gratia. In inferiori latere primae
+mansioni inscribitur recta, secundae utilis,
+tertiae necessaria. Quatenus haec ultima dispositio
+supradictis singulis respondeat sic habe, recta fides,
+utilis spes, necessaria charitas. Item recta scientia,
+<pb n="0692C"/>
+utilis disciplina, necessaria bonitas. Item recta natura,
+utilis lex, necessaria gratia. Sunt aliae differentiae
+adhuc, quibus altitudo arcae distinguatur. Prima
+mansio sunt conjugati, secunda continentes, tertia
+virgines. Vel ita: Prima mansio utentes mundo,
+secunda fugientes mundum, tertia obliti mundum.
+Vel ita: Prima mansio sunt repentia, secunda ambulantia,
+tertia volantia. Item per singulos angulos
+ascendentibus a rigore orientis, id est a superbia,
+prima mansio est timor, secunda est dolor, tertia
+est amor. Ascendentibus a colore occidentis, id est
+a concupiscentia carnis, prima mansio est patientia,
+secunda misericordia, tertia compunctio. Ascendentibus
+a frigore occidentis, id est ab ignorantia,
+prima mansio est cognitio, secunda est meditatio,
+<pb n="0692D"/>
+tertia est contemplatio. Ascendentibus a calore
+orientis, id est a spiritus fervore, prima mansio est
+temperantia, secunda prudentia, tertia est fortitudo.
+Ideo per quatuor angulos arcae erectae sunt sursum
+duodecim scalae, per singulos angelos tres, in unaquaque
+mansione quatuor, in singulis angulis singulae;
+et unaquaeque scala decem passibus distinguitur,
+qui simul sunt centum viginti, id est sexaginta
+et sexaginta. Per quos ascendunt ad supremum cubitum
+quasi ad Deum viri et mulieres sexaginta et sexaginta,
+alternatim per singulas scalas quasi sexaginta
+fortes qui <hi>ambiunt lectulum Salomonis <note>(Cant. III)</note>
+            </hi>, <hi>et sexaginta reginae 
+ <note>(Cant. VI)</note>
+            </hi> quae scandunt ad
+amplexum Salomonis; per duodecim scalas, id
+est per apostolicam doctrinam, per decem tramites,
+<pb n="0693A"/>
+id est per decem praecepta legis, a quatuor angulis
+mundi fide Trinitatis imbuti et doctrina evangelica.</p>
+<p>A frigore orientis sursum scripti sunt triginta libri
+divinae paginae per ordinem in singulis mansionibus
+decem, hoc est ad singulos passus singuli in latere
+scalarum deforis ordinati, et unusquisque librorum
+exterius tribus gradibus distinguitur, propter triplicem
+intelligentiam, id est historiam, allegoriam,
+tropologiam. Ex altera parte scalarum ab eodem
+angulo sursum scribitur ad primam quidem scalam:
+Hic ascendunt timentes gehennam, vocante
+Isaia et dicente: <hi>Vermis eorum non morietur, et
+ignis eorum non exstinguetur <note>(Isa. LXVI)</note>
+            </hi>. Ideo autem
+hoc de Isaia dicitur, quia iste in ista scala supremus
+librorum est, cujus finis talis est. Et hic versus extrinsecus
+<pb n="0693B"/>
+per singulos passus, tribus gradibus distinguitur
+propter tria, quae in Ezechiele dicuntur,
+quae sunt lamentatio, carmen et vae. Lamentatio pertinet
+ad praesentem miseriam, carmen ad futuram
+gloriam, vae ad gehennam. Et oportet ut qui per
+timorem proficiunt, non solum gehennam timeant,
+sed et de praesenti miseria doleant, et futuram gloriam
+diligant. Sed tamen in hac scala timor principalis
+est. In secunda scala scribitur sic: Hic ascendunt
+lugentes praesentis vitae exsilium, propter vasa
+domus Domini, quae captiva ducuntur in Babylonem.
+Hoc ideo dicitur, quia in fine libri Paralipomenon
+(qui in illa scala est supremus) hoc narratur. Et hic
+versus similiter per singulos passus tribus gradibus
+distinguitur, propter supradicta tria, sed hic dolor
+<pb n="0693C"/>
+est principalis. In tertia scala sic scribitur: Hic
+ascendunt suspirantes ad patriam, suspensi ad reditum
+Sponsi, et dicentes: <hi>Veni, Domine Jesu Christe <note>(Apoc. XX)</note>
+            </hi>.
+Item a frigore occidentis sursum scribuntur
+libri idem triginta, scilicet qui in priori angulo dispositi
+sunt, per singulas mansiones decem, quatenus
+hi duo anguli ordine librorum distincti respondeant
+Aquilonari lateri columnae, quod liber vitae appellatum
+est. De cujus rei mysterio postea latius tractabimus.
+Et sicut supra factum est, ita hic quoque singulos
+libros ternis gradibus secundum ascensum distinguimus.
+Ex altera vero parte scalarum ab eodem
+angulo sursum scribo ad primam scalam sic: Hic
+ascendunt hi qui per ignorantiam primam cognitionem
+Dei in creaturis accipiunt, docente Scriptura
+<pb n="0693D"/>
+et dicente: <hi>In principio fecit Deus coelum et terram <note>(Gen. I)</note>
+            </hi>.
+Quia Genesis in hac scala primus liber est.
+Hic versus autem ab imo sursum distinguitur tribus
+gradibus, quod significat tria in operibus Dei admiranda,
+videlicet immensitatem, pulchritudinem,
+utilitatem. Immensitas ad potentiam, pulchritudo ad
+sapientiam, utilitas ad benignitatem pertinet. Quae
+si quis plenius nosse voluerit, inspiciat tractatum,
+quem fecimus, cui titulus est de tribus diebus. In
+secunda scala sic scribitur: Hic ascendunt ii qui
+ad institutionem recte vivendi meditationi divinae
+legis invigilant, audientes Scripturam dicentem: <hi>Ego constitui te ut evellas, et destruas, et disperdas,
+et dissipes et aedifices, et plantes 
+ <note>(Jerem. I)</note>
+            </hi>. Hoc
+<pb n="0694A"/>
+in Jeremia invenitur, qui primus in hac scala est.
+Hic autem versus foris duobus gradibus distinguitur,
+propter duo quae necessaria sunt ad recte vivendum,
+quae Psalmita commemorat, dicens: <hi>Declina a malo,
+et fac bonum <note>(Psal. XXXVI)</note>
+            </hi>. In tertia scala sic scribitur:
+Hic ascendunt ii qui interiori oculo emundato
+internae visionis lumen contemplari sitiunt,
+quasi de Babylone ascendentes ad Jerusalem <note>(I
+Esdr. IV)</note>. Quod scilicet in Esdra legitur, qui primus
+in hac scala est. Hic autem versus distinctionem
+non habet, sed unus ductus coloris ab imo sursum
+trahitur, quia contemplatio uniformis est, et simplex.</p>
+<p>Item a calore occidentis ab imo sursum ex uno
+latere scalarum trium, uno ductu hic versus scribitur:
+Hic ascendunt ii qui ab aestu vitiorum ad lignum
+<pb n="0694B"/>
+vitae refugiunt, et sub foliis ejus quasi sub umbraculo
+meridiano a fervore se abscondunt <note>(Eccli.
+XXXIV)</note>. Hic autem versus foris ab imo sursum distinguitur
+septuaginta septem gradibus, id est per
+singulas scalas viginti sex uno minus. Isti autem
+gradus significant, quod in Evangelio de remissione
+peccatorum dicitur: <hi>Septuagies septies <note>(Matth. XVIII)</note>
+            </hi>.
+Septem enim universitatem significare solent illius
+rei, cui apponuntur. Undecim vero transgressionem.
+Septuaginta septem ergo universam transgressionem
+significant, quae hic ascendentibus relaxatur.
+In altero autem latere primae scalae scribitur: Hic
+ascendunt ii qui per abstinentiam et afflictionem
+mortificant <hi>membra</hi> sua, <hi>quae sunt super terram, cum
+vitiis et concupiscentiis <note>(Coloss. III)</note>
+            </hi>. Et hic versus
+<pb n="0694C"/>
+quadraginta gradibus distinguitur, qui numerus abstinentiae
+signum est. In secunda scala scribitur:
+Hic ascendunt ii qui <hi>eleemosynis,</hi> et caeteris misericordiae
+operibus priora <hi>peccata</hi> redimunt <note>(Dan. IV)</note>.
+Et iste versus quadraginta sex gradibus distinguitur,
+quia eleemosyna abstinentiae juncta, quasi sex cum
+quadraginta, perfectum opus facit. In tertia scala
+sic scribitur. Hic ascendunt hi qui contriti cordis
+et spiritus contribulati juge sacrificium Deo in odorem
+suavitatis offerunt <note>(Psal. L)</note>. Et hic versus
+quinquaginta gradibus distinguitur, qui numerus
+signum est remissionis et libertatis, quia ex quo
+homo haec tria exercet, id est abstinentiam, eleemosynam,
+compunctionem, statim absolutionem peccatorum
+suorum, et sancti Spiritus consolationem
+<pb n="0694D"/>
+in primordia verae libertatis inveniet. A calore orientis,
+qui est ultimus angulus revertentibus, et discedentibus
+primus, ab imo sursum uno tractu scribitur:
+Hic ascendunt ii qui non jam de malo ad
+bonum transeunt, sed de bono in melius proficiunt,
+quos lignum vitae fructu suo pascit et provehit.
+Hic versus in prima scala triginta gradibus distinguitur
+propter primum ordinem fidelium, qui sunt
+in Ecclesia sancta, qui sunt conjugati, qui in Evangelio
+triceno fructu significantur. In secunda scala distinctio
+fit sexaginta graduum, qui numerus ad continentes
+pertinet. In tertia centum, qui numerus ad
+virgines pertinet, quibus nihil altius, quia coelibem
+et coelestem vitam ducunt. In altero autem primae
+<pb n="0695A"/>
+scalae latere ascriptus est hic versus: Hic ascendunt
+licite utentes mundo quasi reptilia in arca, et
+filii Israel in campo edentes, et bibentes, et videntes
+a longe gloriam Dei. Hic versus quinque et semis
+gradibus distinguitur propter bonam operationem
+minus perfectam, cujus perfectio in pleno senario
+significatur, quam necdum isti apprehendere possunt.
+In secunda scala scribitur: Hic ascendunt
+obliviscentes et fugientes mundum quasi quadrupedia
+jam ambulantia in arca, et Aaron cum senioribus
+filiorum Israel in ascensu montis. Hic autem versus
+sex gradibus distinguitur propter perfectionem operis,
+ad quam isti jam promoti sunt. In tertia scala
+sic scribitur: Hic ascendunt obliti mundum quasi
+volatilia in arca, et Moyses solus super verticem
+<pb n="0695B"/>
+montis in nube cum Domino, hic autem versus septem
+gradibus distinguitur, quia tales cum perfectione
+operis habent et requiem mentis. Sciendum aute
+quod isti gradus forinsecus semper versibus
+ascribendi sunt, ut inter gradus et scalas versus
+ipsi sursum protendantur, et variis coloribus distinguendi.
+Nos ad significandam historiam viridem
+colorem posuimus, ad tropologiam croceum, ad allegoriam
+caeruleum.</p>
+</div2>
+
+<div2>
+          <head>CAP. VIII. <hi>De supradictis scalis moralis repetitio.</hi> </head>
+<p>Nunc revertamur ad scalarum allegoriam. Ascendentibus
+a frigore orientis prima scala est timor,
+secunda dolor, tertia amor. Ascendentibus a frigore
+occidentis, prima scala est cognitio, secunda meditatio,
+tertia contemplatio. Ascendentibus a calore
+<pb n="0695C"/>
+occidentis, prima scala est patientia, secunda misericordia,
+tertia compunctio. Et istae tres scalae justitiam
+perficiunt. In quarta scala sequuntur reliquae
+tres quaternarum virtutum. Ascendentibus autem a
+calore orientis prima scala est temperantia, secunda
+prudentia, tertia fortitudo. Sunt etiam singulae virtutes
+istae in suis locis depictae. Quatuor angulos
+respondere facimus quatuor partibus mundi, a quibus
+colliguntur ii qui ad praemium supernae remunerationis
+ascendunt, electi Dei, a calore orientis, a
+frigore orientis, a calore occidentis, a frigore occidentis.
+Calor orientis est fervor spiritualis, frigus
+orientis est timor superbiae. Calor occidentis concupiscentia
+carnis, frigus occidentis, caecitas ignorantiae.
+<pb n="0695D"/>
+In calore orientis creatus fuit primus homo,
+postea superbiendo transivit ad frigus orientis quasi
+ad Aquilonem ad consortium diaboli. Deinde per
+concupiscentiam carnis cecidit ad calorem occidentis,
+et per ignorantiam ad frigus occidentis. Sicque
+per quatuor partes mundi diffusus est et dissipatus.
+Cum autem colligitur et revocatur, primum de quatuor
+partibus mundi ad arcam, id est ad Ecclesiam,
+accedit, et inde sursum ascendens paulatim se in
+unum colligit, quousque ad summum perveniat. Ubi
+autem primum cecidit, ibi primum ascendit, id est
+in frigore orientis, et ibi calcat caput serpentis, id
+est superbiam. Postea ascendit a calore occidentis,
+et ibi calcat ventrem serpentis, id est concupiscentiam.
+Postea ascendit a frigore occidentis, et ibi
+<pb n="0696A"/>
+calcat pectus serpentis, id est ignorantiam. Postea
+revertitur ad calorem orientis, ubi creatus fuit, et
+inde ascendens totum serpentem complicatum deorsum
+premit, ita ut in singulis scalis qui ultimus est,
+ascendentium serpentem pede utrumque stipitem
+scalae amplexum sic calcare videatur. Duo autem stipites
+corpus et animam designant, quos serpens
+amplectitur, quia in utroque adhuc quoquomodo dominatur.
+Sed ii qui per tramites, id est divina praecepta
+ascendunt, ubique deorsum serpentem premunt.
+Sunt etiam in quatuor angulis arcae quatuor
+evangelistae depicti. In frigore orientis leo, ut terreat
+elatos. In frigore occidentis aquila, ut illuminet
+caecos. In calore occidentis vitulus, ut carnem mactet.
+In calore orientis homo, ut hominem ad originem
+<pb n="0696B"/>
+suam revocet. Per librum vitae, qui ad aquilonem
+respicit, ascendunt qui a frigore orientis, et qui a
+frigore occidentis, et propterea utraque parte a
+summitate inferioris scalae intrinsecus manus cum
+volumine aperte deorsum extenditur, ut quasi a libro
+vitae veniens, hinc increpet, hinc erudiat. In uno
+scripta est increpatio. Vae, vae, vae. In altero scripta
+est eruditio Judae. <hi>In principio creavit Deus coelum
+et terram <note>(Gen. I)</note>
+            </hi>, secundum quod significatio ascentionum
+utriusque exigit. Per lignum vitae ascendunt,
+qui a calore orientis, et qui a calore occidentis,
+propterea in utraque parte de summitate inferioris
+scalae ramus tenditur deorsum, hinc habens folia,
+hinc fructum, ut quasi a ligno vitae veniens hos pascat,
+illos obumbret. Virtutes autem contra singulas
+<pb n="0696C"/>
+scalas a latere intrinsecus hoc modo depictae sunt.</p>
+</div2>
+
+<div2>
+          <head>CAP. IX. <hi>Ascensiones ad virtutes a frigore orientis.</hi> </head>
+<p>Primum a frigore orientis timor contra volumen
+nudus ascendit, exuviis superbiae deorsum abjectis,
+propter ignem et vermes, qui sub pede scalae depicti
+sunt. In secunda scala depingitur dolor, et juxta eum
+transmigratio Babylonis incipiens a Joachim, et ita
+oblique descendens usque ad pedem secundae scalae,
+ibique exiens ab arca in Babylonem, cujus situs in
+mappa mundi ibidem constat. Juxta tertiam scalam
+amor pingitur quasi una de virginibus cum ardente
+lampade et vase olei, expectans adventum sponsi.
+Singulae autem virtutes, una manu sursum porrecta,
+gestum ascendentis exprimunt. In hoc etiam differentia
+<pb n="0696D"/>
+attendenda est, quia in scalis ascendunt homines,
+juxta scalas intrinsecus per campos disponuntur
+virtutes. In calore occidentis juxta pedem
+primae scalae mulier quaedam nuda pubetenus de
+caverna procedit foliis supradicti rami obumbrata,
+contra quam a latere incentor vitiorum ignem de ore
+et naribus emittit, ad exprimendam concupiscentiam.
+Paulo altius in eadem scala nudus quidam virgis
+caeditur, ad exprimendam patientiam. In secunda
+scala quidam eleemosynam largitur, ad significandam
+misericordiam. In tertia scala quidam in similitudine
+orantis pectus tundens describitur, ad compunctionem
+denotandum. Omnes autem virtutes
+sursum respicere debent, ut pro humana laude
+nihil fiat. A frigore occidentis juxta pedem primae
+<pb n="0697A"/>
+scalae quidam de caverna obvoluta facie prodiens
+corruit, et in lapidem offendens, vas quod portat
+confringit, ad exprimendam ignorantiam, quae per
+varios errores animae integritatem dissipat. Post
+haec in eadem scala cognitio erecta pingitur contra
+volumen, quod deorsum extenta manu porrigitur, et
+juxta eam fragmenta vasis. In hoc volumine, sicut
+diximus, scriptum est: <hi>In principio fecit Deus coelum
+et terram <note>(Gen. I)</note>
+            </hi>, quia primo cognitio Dei in creaturis
+est. In secunda scala meditatio sedens exprimitur,
+et colligens fragmenta vasis fracti. In tertia
+scala contemplatio formatur ad similitudinem fabri,
+conflans eadem fragmenta, ita ut liquefactio per ductum
+coloris (quem superius juxta versum hujus
+scalae sursum porreximus) quasi per fistulam in medium
+<pb n="0697B"/>
+cubitum, quasi in monetam currere videatur.
+Propter hoc mysterium, quia integritatem animae,
+quam ignorantia frangit, cognitio invenit, meditatio
+colligit, contemplatio per ignem divini amoris liquefaciendo
+in monetam divinae similitudinis reformandam
+fundit.</p>
+</div2>
+
+<div2>
+          <head>CAP. X. <hi>Ascensiones a calore et frigore orientis.</hi> </head>
+<p>A calore orientis juxta primam scalam pingitur
+temperantia ad similitudinem patrisfamilias sedentis
+ad mensam, comedentis et eleemosynam distribuentis,
+quasi qui licite mundo utatur. In secunda
+scala pingitur prudentia, in similitudinem peregrini
+ambulantis quasi qui mundum fugiat. In tertia scala
+pingitur fortitudo deorsum nube amicta, quasi quae
+mundum calcaverit, et in sublime sit elevata sursum
+<pb n="0697C"/>
+erectis manibus. Hoc autem, sicut diximus, observandum
+est, ut virtutes juxta scalas intrinsecus disponantur,
+homines autem in scalis per singulos tramites,
+singuli alternatim viri et feminae, ut sint
+sexaginta fortes Israel et sexaginta reginae. Repetamus
+nunc breviter numerum et ordinem supradictarum
+virtutum. In frigore orientis ascendentibus de
+superbia prima scala est timor, secunda dolor, tertia
+amor. In calore occidentis ascendentibus a concupiscentia,
+prima scala est patientia, secunda misericordia
+tertia compunctio. In frigore occidentis
+ascendentibus ab ignorantia prima scala est cognitio
+sive cogitatio, secunda meditatio, tertia contemplatio.
+In calore orientis ascendentibus non de vitio,
+<pb n="0697D"/>
+sed per virtutem proficientibus, prima scala est temperantia,
+secunda prudentia, tertia fortitudo, et ibi
+consummatio vitae perfectae est. Primus ascensus,
+qui est scilicet a frigore orientis, est in affectibus.
+Secundus, qui est a calore occidentis, est ex operibus.
+Tertius, qui est a frigore occidentis, est in cogitationibus.
+Quartus, qui est a calore orientis, est in virtutibus
+jam dictis. Multa sunt alia, quae dici possent de
+his, quae necessario nos in hoc loco praeterire oportet.</p>
+</div2>
+
+<div2>
+          <head>CAP. XI. <hi>De ostio arcae.</hi> </head>
+<p>Ostium autem arcae taliter disponimus. Quia enim
+columna Christum significat, qui dicit: <hi>Ego sum
+ostium <note>(Joan. X)</note>
+            </hi>, columna autem propter praedictas
+causas quasi bis, id est binis lateribus, in arca praesentata
+est, ideo in utroque latere columnae, id est in
+<pb n="0698A"/>
+libro vitae ad aquilonem et ligno vitae ad austrum
+deorsum ostium pingimus, et tamen sicut unam columnam
+utroque latere, ita unum ostium utroque
+ostio figuramus. Ostium, quod est ad aquilonem, per
+librum vitae significat fidem, per quam ab infidelitate
+ingredimur in Ecclesiam, quod fit per humilitatem
+Christi, per quam revocati sumus, et hoc ostium
+clausum esse debet, ut amplius ad antiquos errores
+non revertamur. Ostium, quod est ad austrum, per
+lignum vitae significat transitum ab hac vita ad futuram
+gloriam, id est ad fructum ligni vitae. Et hoc
+ostium apertum est, quia illuc semper oculos mentis
+dirigere debemus, ut quam primum ab hac miseria
+exeamus. Aliud etiam quiddam per ostium figuramus.
+Quia enim ostium deorsum est, et fenestra sursum
+<pb n="0698B"/>
+(quam posuimus supra compunctionem cum extenta
+manu et columba), ideo ostium congrue designare
+potest exitum per operationem, et fenestra exitum
+per cogitationem. Quatuor autem modis eximus per
+operationem. Omnis namque actio vel terrena est vel
+spiritualis. Propter cupiditatem terrenis actibus inservire
+unus modus est, quasi immundum animal.
+Propter necessitatem eas disponere alius modus est,
+quasi mundum animal. Propte cupiditatem spirituales
+actiones tertius modus est suscipere, quasi id faciat
+malus homo. Propter utilitatem proximi, et laudem
+Dei, quartus modus est, quasi id bonus homo faciat.
+Ideo per ostium quatuor animalia exeuntia depinximus,
+immundum animal asinum, et mundum animal
+<pb n="0698C"/>
+bovem. Bonum hominem Noe, et malum hominem
+Cham. Bono homini Deus ostium aperit, malus homo
+inobedienter exiens ex altera parte valvas frangit.</p>
+</div2>
+
+<div2>
+          <head>CAP. XII. <hi>Exeundi per cogitationem modi quatuor.</hi> </head>
+<p>Similiter per cogitationem quatuor modis eximus.
+Primus modus est, quando consideramus omnem
+creaturam quid sit ex se. Secundus modus, quando
+consideramus omnem creaturam quid sit ex beneficio
+Creatoris. Tertius modus est, quando consideramus
+quomodo utatur Deus ministerio creaturarum
+ad implenda judicia sua. Quartus modus est, quando
+consideramus quomodo utatur homo beneficio creaturarum
+ad implenda desideria sua. Ex se sunt omnia
+vana, et transitoria. Ex beneficio Creatoris perpetua.
+Dum Deo serviunt, sunt instrumentum justitiae.
+Dum homini serviunt, fiunt instrumentum concupiscentiae.
+<pb n="0698D"/>
+Hoc modo corvus exivit, qui cadaver invenit,
+et in eo resedit. Haec in eo libro, quem de arca
+dictavi, plenius cuncta disserui. Tres priores modi
+ad columbam pertinent, id est ad tria bonarum cogitationum
+genera, quae sunt cogitatio, meditatio,
+contemplatio. Vanitatem cogitamus, justitiam meditamur,
+perpetuitatem contemplamur.</p>
+</div2>
+
+<div2>
+          <head>CAP. XIII. <hi>De sex mansiunculis arcae ad litteram.</hi> </head>
+<p>Nunc de mansiunculis quomodo disponendae sint
+videamus. Dicunt nonnulli mansiunculas fuisse quosdam
+nidos, id est quaedam receptacula ad parietem
+arcae foris constructa, propter illa animalia, quae
+nec semper in arida, nec semper in aqua degere
+possunt, sed vicissim alternando, nunc de aqua ad
+<pb n="0699A"/>
+aridam, nunc de arida redeunt ad aquam. Quibus
+quia toties arca aperiri non potuit, divina providentia
+actum est, ut ne vel ipsa quidem perirent, foris
+eis ad parietem arcae receptacula fierint, quorum
+aditus semper apertus esset exterius, pariete arcae
+integro intrinsecus permanente. Quae taliter disposita
+creduntur, ut dum arca aquis superferretur, foris
+per aquam ascendentibus, aditus eorum per planum
+occurreret. Horum receptaculorum numerum Scriptura
+non dicit. Nos tamen ad similitudinem sex civitatum,
+quae homicidis in refugium deputatae sunt
+(quia ad eamdem significationem spectant) sex mansiunculas
+in arca disposuimus hoc modo. Primum
+Jordanis fluvius per mediam arcam, id est de uno
+pariete in alterum juxta latus columnae desuper ducitur,
+<pb n="0699B"/>
+ad similitudinem baptismi, qui in sancta Ecclesia
+quasi finis est legis, et initium gratiae, cujus
+aqua sanctificationis de latere Christi fluxit. Et quia
+sex civitatum tres ultra Jordanem, tres citra constituendae
+praecipiuntur, nos similitudinem sequentes
+etiam mansiunculas nostras collocamus, scilicet
+ultra ceu supra Jordanem tres, id est in superiori
+parte, et tres citra, id est in parte inferiori arcae.
+Prima posita est desuper in fronte arcae, id est in
+initio naturalis legis. Secunda et tertia in lege scripta,
+id est super ripam Jordanis hinc inde. Quarta
+et quinta, et sexta in tempore gratiae. Duae sub apostolis
+contra duas superiores hinc inde, una in fine
+arcae deorsum contra primam. Et ita lex naturalis
+habet unam, lex scripta habet duas, gratia tres.
+<pb n="0699C"/>
+Quarum mysterium hoc est. Arca significat Ecclesiam,
+diluvium concupiscentiam mundi hujus. Animalia
+illa, quae frequenter de arca ad aquam, et iterum
+de aqua ad arcam redeunt, infirmos quosque,
+et carnales in Ecclesia constitutos, qui peccando,
+saepe ad concupiescentiam hujus mundi labuntur,
+quibus tamen remedia poenitentiae quasi quaedam
+mansiunculae in arca spirituali, id est in sancta Ecclesia
+praeparata sunt. De quibus mansiunculis quasi
+unam lex naturalis habuit, id est sacrificium. Legi
+scriptae duae addictae sunt, id est oblatio et purificatio.
+Gratia autem contra tria carnalia, tria habet spiritualia,
+confessionem, orationem, carnis afflictionem.
+Confessio immolat, oratio mundat, carnis afflictio
+<pb n="0699D"/>
+mactat. Post haec inter legem naturalem et
+scriptam et utroque latere aperitur, et per illam,
+quae est ad Aquilonem, populus captivus ab Hierusalem
+ducitur in Babylonem. Per illam, quae est ad
+austrum, populus de Aegypto liberatus intrat ad
+terram promissionis tendens. Quod quemadmodum
+etiam secundum situm locorum competat, in descriptione
+mappae mundi postea clarebit, quia Babylon
+ab Hierusalem est ad aquilonem. Aegyptus ad austrum.
+Et ideo ab hac porta, qua populus ingreditur
+deorsum in latere arcae intrinsecus in ordine scribuntur
+quadraginta duae mansiones usque ad ripam
+Jordanis, per quas populus Dei spiritaliter ab
+Aegypto naturalis legis per desertum scriptae legis
+tendit ad terram promissionis gratiae.</p>
+</div2>
+
+<div2>
+          <head>CAP. XIV. <hi>De mansionibus quadraginta duobus.</hi> </head>
+
+<pb n="0700A"/>
+<p>Mansiones autem hae sunt: Prima Rameses, secunda
+Sochot, tertia Etham, quarta Siaroch, quinta
+Mara, sexta Helim, septima mare Rubrum, octava
+solitudo Sin, nona Descath, decima Alis, undecima
+Raphidim, duodecima Sina, decima tertia
+sepulchra concupiscentiae, decima quarta Ascereth,
+decima quinta Rethma, decima sexta Ramoth, decima
+septima Lemna, decima octava Redsa, decima
+nona Caltha, vicesima Rapher, vicesima prima Arada,
+vicesima secunda Marcloth, vicesima tertia
+Thaath, vicesima quarta Thare, vicisima quinta
+Mercha, vicesima sexta Asmona, vicesima septima
+Maceroth, vicesima octava Maveiachan, vicesima
+nona Galath, trigesima Gethabatha, trigesima prima
+<pb n="0700B"/>
+Ebrona, trigesima secunda Asiongaber, trigesima
+tertia Sin, quae est Cades, trigesima quarta mons
+Hor, trigesima quinta Selmona, trigesima sexta Finon,
+tricesima septima Oboth, tricesima octava Gebarin,
+tricesima nona Dibungath, quadragesima Solmon
+deblathain. Et quia una de sex mansiunculis super
+ripam Jordanis in latere primae mansionis ex
+hac parte sita est, propterea cum in quadragesima
+mansione ad eam ventum fuerit, duae sequentes
+desuper scribuntur in secunda mansione usque itidem
+ad ripam Jordanis. Sunt autem hae: quadragesima
+prima mons Abarim contra Nobo, quadragesima secunda
+campestria Moab super Jordanem juxta Jericho.
+De interpretatione autem, et mysterio istarum
+mansionum in alio fortassis opere, quod de hac eadem
+<pb n="0700C"/>
+arca facere cogitamus, latius quae dicenda sunt
+exsequemur; et quare naturalis lex Aegypto, scripta
+lex deserto, gratia vero terrae promissionis comparetur,
+et qualis de illa per hanc ad istam transitus
+habeatur. Haec ad constructionem arcae, his qui plura
+facere aut non valent, aut nolunt sufficere possunt.
+Adjecimus tamen quaedam, quae breviter commemorabimus.
+Hoc modo arca perfecta, circumducitur et
+circulus oblongus, qui ad singula cornua eam contingat,
+et spatium quod circumferentia ejus includit,
+est orbis terrae. In hoc spatio mappa mundi depingitur
+ita ut caput arcae ad orientem convertatur, et
+finis ejus occidentem contingat, ut mirabili dispositione
+ab eodem principe decurrat situs locorum
+<pb n="0700D"/>
+cum ordine temporum, et idem sit finis mundi, qui
+est finis saeculi. Conus autem ille circuli, qui in capite
+arcae prominet ad orientem, Paradisus est, quasi
+sinus Abrahae, ut postea apparebit majestate depicta.
+Conus alter, qui prominet ad occidentem, habet universalis
+resurrectionis judicium in dextra electos,
+in sinistra reprobos. In cujus coni angulo Aquilonari
+est infernus, quo damnandi cum apostatis spiritibus
+detrudentur. Post haec supradicto circulo alter
+paulo laxior circumducitur, ut quasi zonam videatur
+efficere, et hoc spatium aer est. In quo spatio secundum
+quatuor partes mundi quatuor anni tempora disponuntur,
+ita ut ver sit ad orientem, ad austrum
+aestas, ad occidentem autumnus, ad aquilonem
+hiems. Ver pingitur a lumbis sursum puer fistulam
+<pb n="0701A"/>
+manu tenens et cantans. Aestas juvenis flores aspicit.
+Autumnus in virili aetate expressus fructus naribus
+admovet et olfacit. Hiems formam senis gestans
+fructus comedit. Et omnes a lumbis sursum pinguntur
+singuli in principiis suis.</p>
+</div2>
+
+<div2>
+          <head>CAP. XV. <hi>De proprietate quatuor temporum anni, et conclusione operis.</hi> </head>
+<p>Ver habet delectationem aurium, aestas oculorum,
+autumnus olfaciendi, hiems gustandi; quia oblectamentum
+pueritiae in auditu doctrinae, oblectamentum
+juventutis in exemplo operis, oblectamentum virilis
+aetatis in appetitu est probitatis, oblectamentum senectutis
+in experientia virtutis. Tenent et singuli
+singulos anni quadrantes. Aestas tenet superiorem,
+hiems inferiorem, ver dextrum, autumnus sinistrum.
+<pb n="0701B"/>
+Et in singulis quadrantibus extensae sunt quasi
+duae chordae propter geminam singulorum proprietatem,
+quibus ad invicem collatis, musicum octochordium
+exprimitur, de quo harmonia concordiae
+universalis temperatur. Ver est humidum et calidum.
+Aestas calida et sicca. Autumnus siccus et frigidus.
+Hiems frigida et humida. In quibus omnibus multo
+sermone propter operis compendium supersedebitur.
+In hoc eodem spatio duodecim venti disponuntur,
+singulis temporibus terni attributi sub aetherea
+plaga, quasi deorsum praecipites, et a scapulis prominentes
+alati sub singulis mensibus singuli ordinati.
+De his quatuor sunt cardinales, qui singuli duos hinc
+inde habent suffraganeos. A medio orientis flat subsolanus
+duos hinc inde habens sibi conspirantes, a
+<pb n="0701C"/>
+dextris vulturnum, a sinistris eurum. A meridie flat
+auster sive notus, habens a dextris euronotum, qui
+et euroauster, a sinistris libonotum, qui et austro
+africus. A medio occidentis flat zephyrus, qui et favonius
+habens a dextris africum qui et libs, a sinistris
+corum, qui et argestes. A medio septentrionis
+flat aparctias, qui et septentrio habens a dextris circium,
+qui et thracias, et trasceas vel thrascias, a
+sinistris boream, qui et aquilo. Et principales quidem
+singuli geminis spirant cordibus, suffraganei
+singuli singulis. Post haec alius adhuc circulus praedictis
+duobus exterius circumducitur, et spatium
+quod includit pro aetherea plaga accipitur. In quo
+spatio duodecim menses disponuntur secundum ordinem
+temporum, et mensibus duodecim signa supponuntur,
+<pb n="0701D"/>
+ita ut semper in medio mensis signum incipiat,
+et econverso mensis in medio signi. Et haec signa
+singula desuper triginta gradibus distinguuntur,
+initio desuper sumpto a primo gradu arietis. Et sic
+contra mundum in circuitu ordinatis omnibus signis
+supinatis quidem ad ipsum firmamentum, mensibus
+autem ab inferiori sursum erectis, ita ut signa quidem
+sursum versa in ipso circulo, qui aplanes dicitur,
+stare vel ambulare videantur. Menses autem post
+illa, et sub illis in aethere stantes appareant, sicque in
+supremo signa, sub signis menses, sub mensibus
+venti, sub ventis tempora demonstrantur. In qua distributione
+magna naturae ratio, effectusque signatur,
+totusque coeli ambitus sic perficitur. Hoc modo constructa
+<pb n="0702A"/>
+machina universitatis in parte ejus superiori
+majestas a scapulis sursum, pedibusque deorsum
+eminens, et quasi in solio sedens formatur. Ita ut
+expansis hinc inde brachiis omnia continere videatur.
+Tribusque digitis per medium extensis usque
+ad orbem terrae, et caeteris in palmum reflexis coelos
+concludit. Et in dextera quidem sua tenet thronum,
+qui oblique deorsum dependet per aeris spatium,
+usque supra eum locum ubi in cono inferiori, sicut
+diximus, ad dextram partem electi resurgunt, quos
+et angeli ibidem praeparati in coelum suscipiunt. Ideoque
+in ipso throno scriptum est: <hi>Venite, benedicti
+Patris mei, percipite regnum quod vobis praeparatum
+est ab initio saeculi <note>(Matth. XXV)</note>
+            </hi>. In sinistra autem
+sua tenet sceptrum, quod dirigitur deorsum usque
+<pb n="0702B"/>
+ad eum locum, ubi malos ad sinistram resurgentes
+daemones obvii rapiunt, et ideo in ipso sceptro scriptum
+est: <hi>Ite, maledicti, in ignem aeternum, qui paratus
+est diabolo, et angelis ejus <note>(ibid.)</note>
+            </hi>. Deinde linea
+generationis ad Adam sursum extra arcam per medium
+prominentis coni usque ad coeli verticem extenditur,
+et in ea per ordinem sex rotulae circinantur,
+ita ut novissima ipsius arcae introitum complecti videatur.
+Istae autem sex rotulae exprimunt opera sex
+dierum. Prima namque quae et suprema taliter figurari
+debet, qualis fuit mundus prima die quando lux
+creata est. Secunda, quando firmamentum inter
+aquas et aquas positum est. Tertia, quando aquae in
+unum collectae sunt, et terra germinibus vestita.
+Quarta, quando sol, et luna, et stellae factae sunt.
+<pb n="0702C"/>
+Quinta, quando pisces in aqua, et aves in aere collocati
+sunt. Sexta, quando bestiae factae sunt in terra
+et homo. Ut verbum ab ore majestatis exeat, et omnis
+ordo creaturarum subsequatur, et ipsius arcae
+protensio pertingat a principio mundi usque ad finem
+saeculi, per medium terrae hinc inde habens loca,
+montes, flumina, castella et oppida constituta, ad
+austrum Aegyptum, et ad aquilonem Babyloniam.
+Post haec circa thronum ex utraque parte, circa medium
+duo seraphim pinguntur, qui extensis alis sursum
+et deorsum velant caput majestatis et pedes,
+facie tamen intecta manente. Sub alis autem seraphim
+desuper in eo spatio, quod est inter scapulas
+majestatis et alas ex utraque parte ordines angelorum
+<pb n="0702D"/>
+constituuntur novem, ad contemplandam faciem
+majestatis conversi. Ipsa namque summa et vera
+unitas medium et supremum locum obtinet. Deinde
+primus ordo angelorum diademate hinc inde binos;
+secundus ordo hinc inde ternos; tertius ordo hinc
+inde quaternos; quartus ordo hinc inde quinos;
+quintus ordo hinc inde senos; sextus ordo hinc inde
+septenos; septimus ordo hinc inde octonos; octavus
+ordo hinc inde novenos; nonus ordo hinc inde denos,
+ut a prima unitate sit origo omnium. Et in secunda unitate
+consummetur creatio angelorum, qui simul
+sunt centum et octo. De singulis autem ordinibus
+singulis labentibus remanent nonaginta novem, quibus
+homo centesima ovis additur, et superna civitas
+consummatur. Haec de arcae nostrae figuratione dicimus,
+<pb n="0703A"/>
+ut si cuilibeat decoram domus Domini, et mirabilia
+ejus (quorum non est numerus) intueri, hoc
+<pb n="0704A"/>
+interim exemplari affectum suum provocet. Sit Deus
+benedictus per cuncta saecula saeculorum. Amen.
+</p>
+</div2>
+      </div1>
+</body>
+  </text>
+</TEI>
