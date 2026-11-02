@@ -1,0 +1,90 @@
+{
+  "id": "bossuet-melanges-pour-le-dauphin",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Mélanges pour le Dauphin et plan d’un traité de théologie",
+    "en-US": "Miscellanies for the Dauphin and Plan of a Treatise on Theology",
+    "pt-BR": "Miscelâneas para o Delfim e plano de um tratado de teologia"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Exercices et instructions de Bossuet pour le Dauphin : l’instruction pour sa première communion, les preuves de l’existence de Dieu par les créatures, l’exhortation à l’amour de la vertu (en français et en latin), des extraits de la Morale d’Aristote, des sentences choisies, une grammaire latine et les maximes de César ; en appendice, le Plan d’un traité de théologie. Édition Lachat (1865).",
+    "en-US": "Exercises and instructions by Bossuet for the Dauphin: the instruction for his first communion, the proofs of God’s existence from creatures, the exhortation to the love of virtue (in French and Latin), extracts from Aristotle’s Ethics, selected sentences, a Latin grammar and the maxims of Caesar; with the Plan of a Treatise on Theology as an appendix. Lachat edition (1865).",
+    "pt-BR": "Exercícios e instruções de Bossuet para o Delfim: a instrução para sua primeira comunhão, as provas da existência de Deus pelas criaturas, a exortação ao amor da virtude (em francês e em latim), extratos da Ética de Aristóteles, sentenças escolhidas, uma gramática latina e as máximas de César; em apêndice, o Plano de um tratado de teologia. Edição Lachat (1865)."
+  },
+  "composed": "1675",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/melanges-pour-le-dauphin",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1865
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume026/001.htm to 004.htm, volume003/015.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XXVI, pages 001-004, and volume III, page 015. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "piece-001",
+      "title": {
+        "fr-FR": "Instruction à monseigneur le dauphin pour sa première Communion"
+      }
+    },
+    {
+      "id": "piece-002",
+      "title": {
+        "fr-FR": "Preuves de l'existence de Dieu par les créatures"
+      }
+    },
+    {
+      "id": "piece-003",
+      "title": {
+        "fr-FR": "Exhortation à l'amour de la vertu, adressée à monseigneur le dauphin"
+      }
+    },
+    {
+      "id": "piece-004",
+      "title": {
+        "fr-FR": "Ad virtutis studium exhortatio, serenissimo delphino"
+      }
+    },
+    {
+      "id": "morale-d-aristote",
+      "title": {
+        "fr-FR": "Extraits de la Morale d’Aristote"
+      }
+    },
+    {
+      "id": "sentences",
+      "title": {
+        "fr-FR": "Sentences choisies"
+      }
+    },
+    {
+      "id": "grammaire-latine",
+      "title": {
+        "fr-FR": "Grammaire latine et maximes de César"
+      }
+    },
+    {
+      "id": "plan-de-theologie",
+      "title": {
+        "fr-FR": "Plan d’un traité de théologie"
+      }
+    }
+  ]
+}
