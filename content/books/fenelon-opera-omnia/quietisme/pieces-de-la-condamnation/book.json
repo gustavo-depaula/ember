@@ -1,0 +1,80 @@
+{
+  "id": "fenelon-quietisme-condamnation",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Les pièces de la condamnation du livre des Maximes (1699-1700)",
+    "en-US": "The Documents of the Condemnation of the Book of the Maxims (1699-1700)",
+    "pt-BR": "As peças da condenação do livro das Máximas (1699-1700)"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Le bref d’Innocent XII Cum alias (12 mars 1699), qui condamne le livre des Maximes des saints et censure 23 propositions (texte latin et traduction française de l’édition) ; le mandement de Fénelon du 9 avril 1699 par lequel il s’y soumet publiquement ; le procès-verbal de l’assemblée des évêques de la province de Cambrai ; le mandement du 30 septembre 1700 pour la publication de la constitution.",
+    "en-US": "The brief of Innocent XII Cum alias (12 March 1699) condemning the book of the Maxims of the Saints and censuring 23 propositions (Latin text and the edition’s French translation); Fénelon’s pastoral letter of 9 April 1699 by which he publicly submits; the minutes of the assembly of the bishops of the province of Cambrai; the pastoral letter of 30 September 1700 publishing the constitution.",
+    "pt-BR": "O breve de Inocêncio XII Cum alias (12 de março de 1699), que condena o livro das Máximas dos santos e censura 23 proposições (texto latino e tradução francesa da edição); o mandamento de Fénelon de 9 de abril de 1699, pelo qual ele se submete publicamente; a ata da assembleia dos bispos da província de Cambrai; o mandamento de 30 de setembro de 1700 para a publicação da constituição."
+  },
+  "composed": "1699–1700",
+  "languages": [
+    "fr-FR",
+    "la"
+  ],
+  "work": "fenelon/pieces-de-la-condamnation",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    },
+    "la": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte03fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 3, p. 405–419; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md). The Latin and French columns of the brief are separated by a word-frequency test per block, so a few blocks may sit in the wrong language folder.",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    },
+    {
+      "language": "la",
+      "url": "https://archive.org/details/oeuvrescomplte03fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 3, p. 405–419; archive.org OCR (ABBYY).",
+      "description": "Latin text of the brief, separated from the French translation printed in parallel columns; Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md). The Latin and French columns of the brief are separated by a word-frequency test per block, so a few blocks may sit in the wrong language folder.",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-bref-d-innocent-xii",
+      "title": {
+        "fr-FR": "Bref d’Innocent XII condamnant le livre des Maximes (12 mars 1699)",
+        "la": "Breve Innocentii XII quo liber Maximarum Sanctorum damnatur (12 martii 1699)"
+      }
+    },
+    {
+      "id": "02-mandement-de-soumission",
+      "title": {
+        "fr-FR": "Mandement de Fénelon pour l’acceptation du bref (9 avril 1699)"
+      }
+    },
+    {
+      "id": "03-proces-verbal",
+      "title": {
+        "fr-FR": "Procès-verbal de l’assemblée des évêques de la province de Cambrai (1699)"
+      }
+    },
+    {
+      "id": "04-mandement-de-1700",
+      "title": {
+        "fr-FR": "Mandement de Fénelon pour la publication de la constitution (30 septembre 1700)"
+      }
+    }
+  ]
+}
