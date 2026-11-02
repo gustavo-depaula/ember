@@ -1,0 +1,109 @@
+{
+  "id": "benson-vexilla-regis",
+  "cover": "classic",
+  "name": {
+    "en-US": "Vexilla Regis: A Book of Devotions and Intercessions",
+    "pt-BR": "Vexilla Regis: Livro de Devoções e Intercesões"
+  },
+  "author": {
+    "en-US": "Mgr. Robert Hugh Benson",
+    "pt-BR": "Mons. Robert Hugh Benson"
+  },
+  "description": {
+    "en-US": "Benson's war-time prayer book (1914-15), a compilation of intercessions: forms of prayer for every day of the week (for a just issue, the dead, the dying and wounded, prisoners, the destitute, sinners and enemies, and Our Lady's patronage over the realm), and general and particular devotions.",
+    "pt-BR": "O livro de orações de Benson do tempo da guerra (1914-15), uma compilação de intercesões: fórmulas de oração para cada dia da semana (por um desfecho justo, pelos mortos, pelos moribundos e feridos, por prisioneiros, desamparados, pecadores e inimigos, e pelo patrocínio de Nossa Senhora sobre o reino) e devoções gerais e particulares."
+  },
+  "composed": 1914,
+  "languages": [
+    "en-US"
+  ],
+  "work": "benson/vexilla-regis",
+  "editions": {
+    "en-US": {
+      "editor": "Robert Hugh Benson (London: Longmans, Green, 1914)",
+      "year": 1914
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/vexillaregisaboo00unknuoft",
+      "edition": "Vexilla Regis: A Book of Devotions and Intercessions (London: Longmans, Green, 1914), Internet Archive full-text OCR (vexillaregisaboo00unknuoft).",
+      "description": " Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Mgr. Robert Hugh Benson died in 1914 and the edition is of 1914, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "part-1",
+      "title": {
+        "en-US": "Part I: Forms of Prayer for Every Day of the Week"
+      },
+      "children": [
+        {
+          "id": "chapter-02",
+          "title": {
+            "en-US": "Sunday: For a Happy and Just Issue"
+          }
+        },
+        {
+          "id": "chapter-03",
+          "title": {
+            "en-US": "Monday: For the Dead"
+          }
+        },
+        {
+          "id": "chapter-04",
+          "title": {
+            "en-US": "Tuesday: For the Dying and Wounded, and Those Who Tend Them"
+          }
+        },
+        {
+          "id": "chapter-05",
+          "title": {
+            "en-US": "Wednesday: For Prisoners, the Timid and Anxious"
+          }
+        },
+        {
+          "id": "chapter-06",
+          "title": {
+            "en-US": "Thursday: For Widows, Orphans, the Hungry and Homeless"
+          }
+        },
+        {
+          "id": "chapter-07",
+          "title": {
+            "en-US": "Friday: For Sinners, and for Our Enemies"
+          }
+        },
+        {
+          "id": "chapter-08",
+          "title": {
+            "en-US": "Saturday: For Our Lady’s Patronage on Behalf of Our King and Realm"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "Part II: Devotions, General and Particular"
+      },
+      "children": [
+        {
+          "id": "chapter-09",
+          "title": {
+            "en-US": "Devotions, General and Particular"
+          }
+        }
+      ]
+    }
+  ]
+}
