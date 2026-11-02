@@ -1,0 +1,17 @@
+# Lettre MCDVII. À Madame de Vignod
+
+*RELIGIEUSE DE L'ABBAYE DE SAINTE-CATHERINE*
+
+Un bouquet mystique à offrir aux Saints; de quelles fleurs il faut le composer. - Saint Thomas d'Aquin. - Quel est l'ennui le plus importun. -. Les menues tracasseries exercent l'amour de la propre abjection. - Avis pour supporter et corriger une petite fille d'humeur difficile.
+
+Annecy, [février 1606-1618 .]
+
+Vous me demandes, ma tres chere Fille, quel bouquet vous pourres donner a vostre Valentin ? Il doit estre fait de quelques petites actions de vertu, que vous prattiqueres expres en faveur de ce Valentin celeste, et au bout de la meditation du matin, vous le luy presenteres, affin qu'il le consacre a vostre cher Espoux. Vous pouves aussi en cueillir quelquefois au jardin des Olives, sur le mont de Calvaire (je veux dire ces bouquetz de myrrhe de vostre saint Bernard), et supplier le celeste Valentin de les recevoir de vostre cœur et d'en loüer Dieu, qui est comme s'il en respandoit l'odeur, puisque vous ne pouves ni asses dignement flairer ces divines fleurs, ni asses hautement en loüer la suavité. Vous le pourres encor prier, ce brave Valentin, qu'il prenne aussi ce bouquet, et que de sa main il le vous face odorer, et mesme qu'il vous en rende quelqu'autre en eschange ; qu'il vous donne des gans parfumés, couvrant vos mains d'œuvres de charité et d'humilité, et vous donne des brasseletz de corail, deschaisnes de perles ; et ainsy faut il exercer des tendresses d'amour avec ces heureux gentilzhommes de ce Roy de gloire.
+
+Il me semble que ce fut saint Thomas d'Aquin que vous tirastes pour le mois: le plus grand Docteur qui aye jamais esté. Il estoit vierge, et la plus douce et humble ame qu'on sçauroit dire.
+
+Or, parlons un peu de ce cœur de ma tres chere Fille: s'il estoit a la veuë d'une armee d'ennemis, ne feroit-il pas des. merveilles, puisque la veuë et le rencontre d'une petite fille maussade et escervelee le trouble si fort ? Mais ne vous troubles pas, ma tres chere Fille, il n'est point d'ennuy si importun que l'ennuy qui est composé de plusieurs petites, mais pressantes et continuelles importunités. Nostre Seigneur permet qu'en ces petites rencontres nous demeurions courtz, affin que nous nous humiliions, et que nous sçachions que si nous avons surmonté certaines grandes tentations, ce n'a pas esté par nos forces, mais par l'assistance de sa divine Bonté.
+
+Je le voy bien, que par ces menuës tracasseries il y a force sujetz d'exercer l'amour ou l'acceptation de nostre propre abjection : car, que dira-on d'une telle fille qui n'a point fait proffiter et n'a point bien dressé ni donné bonne action a cette petite fille ? Et puis, qu'est ce que nos Seurs diront de voir que pour la moindre importunité qu'une creature nous fait, nous nous desbattons, nous nous plaignons, nous grondons ? Il n'y a remede, ma tres chere Fille. La fille de saint Athanase eust acheté cette condition au prix de l'or ( Collat Patrum 18, 14 ; IVD part.3, ch 1 ), mais ma fille n'est pas si ambitieuse : elle aymeroit mieux que l'occasion luy fust ostee que d'entreprendre de la faire valoir. Recourés bien a l'humilité, et pour ce peu de tems que cet exercice durera, essayés-vous de la supporter en la presence de Dieu, et d'aymer cette pauvre chetifve pour l'amour de Celuy qui l'a tant aymee qu'il est mort pour elle. Ne la corriges pas, si vous pouves, en cholere; prenes la peine qu'elle vous donne a gré, et me croyes tout vostre.
+
+FRANÇs, E. de Geneve.
