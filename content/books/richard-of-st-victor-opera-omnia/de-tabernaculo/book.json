@@ -1,0 +1,132 @@
+{
+  "id": "richard-de-tabernaculo",
+  "cover": "classic",
+  "name": {
+    "la": "Expositio de tabernaculo",
+    "en-US": "On the Tabernacle",
+    "pt-BR": "Sobre o tabernáculo"
+  },
+  "author": {
+    "la": "Richardus de Sancto Victore",
+    "en-US": "Richard of St. Victor",
+    "pt-BR": "Ricardo de São Vítor"
+  },
+  "description": {
+    "la": "Expositio difficultatum quarundam in descriptione tabernaculi.",
+    "en-US": "Richard’s exposition of the difficulties in the description of the tabernacle: the ark, the cherubim, the table, the lampstand and the curtains. Latin only, from the Migne text (Patrologia Latina 196, 1855), a machine-corrected OCR.",
+    "pt-BR": "A exposição de Ricardo das dificuldades na descrição do tabernáculo."
+  },
+  "composed": "c. 1150-1160",
+  "languages": [
+    "la"
+  ],
+  "work": "richard/de-tabernaculo",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 196)",
+      "year": 1855
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.ExDeTa",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.ExDeTa, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Prologus."
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Caput primum. De fabricatione arcae."
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Caput II. De factura duorum cherubin."
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "Caput III. De formatione mensae."
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "la": "Caput IV. De factura candelabri."
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "la": "Caput V. De modo et mensura cortinarum."
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "la": "Caput VI. De factura sagorum."
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "la": "Caput VII. De gemino operimento arietinarum pellium."
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "la": "Caput VIII. De modo et mensura tabularum."
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "la": "Caput IX. De erectione tabernaculi."
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "la": "Caput X. De superductione operimentorum."
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "la": "Caput XI. Descriptio altaris holocausti."
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "la": "Tractatus secundus. De templo Salomonis ad litteram. (pars 1)"
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "la": "Tractatus secundus. De templo Salomonis ad litteram. (pars 2)"
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "la": "Tractatus tertius. De concordia temporum regum conregnantium super Judam et super Israel. Ad beatum Bernardum abbatem Claraevallensem."
+      }
+    }
+  ]
+}

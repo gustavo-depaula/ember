@@ -1,0 +1,3911 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Expositio de tabernaculo</title>
+              <author ref="http://viaf.org/viaf/98148813">Richardus S. Victoris<date>-1173</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1855</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 196</title>
+           <idno>RiSVi.ExDeTa</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>TRACTATUS PRIMUS.</head>
+
+
+<div2>
+          <head>PROLOGUS.</head>
+
+<pb n="0211B"/>
+<p>Rogatus ab amicis aliqua in explanationem tabernaculi
+scribere, timui, fateor, eorum petitioni satisfacere,
+ne viderer in eo ipso Patrum auctoritati
+derogasse. Dat tamen tentandi ausum ipse, qui
+vulgatam expositionem edidit, dum inter exponendum
+adjungit. Haec, inquit, de re difficillima prout
+nobis intellexisse visi sumus, strictim explicare curavimus,
+parati veriora in his discere, si quis nos docere
+voluerit. In quibus tamen omnibus patet allegoriae
+sensus perlucidus. Ecce quam fidenter de allegoriae
+sensu proponit, qui tamen litterae expositionem sub
+ambiguitate praemisit. Qui igitur certitudinis suae
+testimonium allegoricae expositioni tam fidenter dat,
+historicae denegat, patenter innuit, quod in illa sua
+<pb n="0211C"/>
+expositione nec sibi ipsi satisfecerit. Quid me arguis,
+vel cogis credere illi in quo nec ipse credit sibi?
+Sed, ut verum fatear, illos quos jam constat summae
+veritatis contemplationi assistere, timeo magis offendere,
+quam propitios reddere si cognitam veritatem
+dubitavero quasi ob reverentiae eorum gratiam
+in commune proferre. Attendamus quam multa,
+quam magna, quam profunda cum omni diligentia
+pertractaverunt, quam multa historice, quam multa
+allegorice, quam multa tropologice miranda ratione
+exposuerunt, et tunc desinet esse mirum si alicui
+loco minus sufficientem expositionem reliquerunt.
+Non est ergo magnum, vel mirum si in uno aliquo
+aliquid possumus addere, quod ad majorem evidentiam,
+vel planiorem intelligentiam possit proficere.
+<pb n="0211D"/>
+Haec propter illos dicta sunt, qui nil acceptant nisi
+quod ab antiquissimis patribus acceperunt. Sed qui
+assidue producit novos fructus ad recreationem hominis
+exterioris, nunquam credendus est nullos de caetero
+<pb n="0212B"/>
+scientiae profectus impertiri, ad innovandos sensus
+hominis interioris? Ubi ergo illud est, quaeso, pertransibunt
+plurimi, et abundabit scientia? Nemo itaque
+mihi, obsecro, indignetur, si de messe Domini remanentes
+spicas, et quae messorum manus effugere
+poterant collegero, et esurientibus atque petentibus
+libenter eroganero.</p>
+</div2>
+
+<div2>
+          <head>CAPUT PRIMUM. <hi>De fabricatione arcae.</hi> </head>
+<p>Praecepturus Dominus Moysi de constructione tabernaculi,
+primo omnium instruxit eum de arca fabricanda,
+ut ex eo ipso innueret quod quaedam dignitatis
+praerogativa longe praecederet caetera omnia, quae in
+tabernaculo erant facienda. Quae autem dicuntur de
+ejus materia vel mensura seu fabricandi modo satis
+<pb n="0212C"/>
+patent, et expositione non indigent. Quatuor circulos
+per quatuor angulos fieri praecipit: sed quomodo
+hoc intelligendum sit consequenter ostendit: <hi>Duo,</hi> 
+inquit, <hi>sint in latere uno, et duo in altero <note>(Exod. XXV)</note>
+            </hi>.
+Erant itaque non usquequaque in angulis, sed juxta
+angulos: duo in latere uno, et duo juxta angulos in
+latere opposito. Dubitari potest quid de propitiatorio
+sentire oporteat, eo quod auctor ipsum seorsum
+describat. Sed nihil aliud intelligo propitiatorium
+nisi arcae ipsius operculum, tabulam videlicet quamdam
+de auro purissimo ex integro factam: unde et
+habebat cum arca tam in longitudine, quam in latitudine
+unam per omnia eamdemque mensuram. Sed,
+ne super hoc tibi aliquid ambiguitatis remaneat,
+audi quid de arca, audi quid de propitiatorio Scriptura
+<pb n="0212D"/>
+ipsa proponat. Nam de arca scribitur: <hi>In qua
+pones testimonium quod dabo tibi <note>(ibid.)</note>
+            </hi>, et longe post
+de propitiatorio: <hi>Coram,</hi> inquit, <hi>propitiatorio quo
+tegitur testimonium ubi loquar tibi <note>(Exod. XXX)</note>
+            </hi> Testimonium
+<pb n="0213A"/>
+quod in arca ponitur quomodo, quaeso,
+propitiatorio tegitur, nisi quia non aliud est ejus
+operculum, et aliud propitiatorium! Sed dignitatis
+ejus excellentia innuitur in eo ipso quod separatim
+describitur. De ipso propitiatorio Divinitatis responsa
+juxta divinae propitiationis modum, modo
+dabantur, modo non dabantur. Merito ergo propitiatorii
+nomen accepit in quo Dominus propitiationis
+suae praerogativam exhibere, vel ostendere consuevit.
+Intelligendum est autem quod corona illa aurea
+quae arcae suprema ambiebat ubi et affixa erat, totum
+illud propitiatorium intra se includebat, et se altius
+erigendo spissitudini ejus supereminebat.</p>
+</div2>
+
+<div2>
+          <head>CAPUT II. <hi>De factura duorum cherubin.</hi> </head>
+<p>
+            <pb n="0213B"/>De cherubin dicit quod mutuo se respiciant. Corpore
+quidem ad exterius tabernaculum versi erant;
+sed versis vultibus in eam partem intendebant qua
+arca de sub alis eorum in medio stabat. Illi duo
+cherubin qui in templo Salomonis erant, ad horum
+absque dubio similitudinem facti fuerant. Quod itaque
+de illis legimus, de istis et aeque intelligimus,
+quod cherubin unus tangebat ala sua parietem unum,
+et alius ala sua tangebat parietem alium <note>(II Paral. III)</note>;
+aliis autem alis in medio tangebant se vicissim. Sicut
+itaque illi de templo, sic nec isti super arcam et propitiatorium
+stare poterant, quia nonnisi bicubitum et semissem
+longitudinis arca habebat. In illis vero cherubin
+extensio conjunctarum alarum decem cubitos, in istis
+quinque cubitos tenebant. Quod igitur de istis dicitur
+<pb n="0213C"/>
+quod essent super arcam testimonii, non sic debet
+intelligi quasi ipsi arcae insisterent, sed quod ipsi
+arcae toto corpore supereminerent.</p>
+</div2>
+
+<div2>
+          <head>CAPUT III. <hi>De formatione mensae.</hi> </head>
+<p>Ut autem de forma mensae breviter dicam quod
+sentio, videtur mihi esse quasi arca sine fundo; ita
+tamen ut superior superficies intelligatur omnino
+plana et inferioribus immobiliter affixa. Ejecturam
+vero quamdam auream suprema mensae ambientem
+habebat: quam et auctor ipse propter similitudinem
+labium vocat: cui et corona quatuor digitorum altitudinis
+adhaerebat. Erat autem ipsa variis caelaturis
+ornata; et prout caelaturae varietas exigebat,
+<pb n="0213D"/>
+crebris intercisionibus perforata: unde et interrasilis
+dicta. Hinc erat et alia superposita quasi virgula
+quaedam rotunda et plana, sive ex pluribus
+velut virgulis perplexa, et primae illi ob firmitatem
+et decorem conjuncta; imo ita omnino unita, ut
+ambae viderentur esse una. Haec de mensa sufficiunt:
+nam caetera per se satis nota sunt.</p>
+</div2>
+
+<div2>
+          <head>CAPUT IV. <hi>De factura candelabri.</hi> </head>
+<p>Nunc de candelabro videndum est; circa id maxime
+unde dubitari potest. Scyphi ejus in modum
+nucis describuntur. Scyphus autem medietatem
+sphaerae habere videtur. Habet itaque rotunditatem
+concavam et vacuam et a superioribus praecisam.
+Nux vero ab imo se dilatando in ventrem distenditur:
+<pb n="0214A"/>
+a superioribus autem paulatim se acuendo ad
+unum punctum in summitate colligitur. Scyphus itaque
+habet rotunditatem sphaericam, sed praecisam,
+et concavitatem vacuam; nux autem rotunditatem
+oblongam, nec tamen vacuam vel praecisam. Quoniam
+igitur duo habebat communia cum scypho (vacuam
+scilicet concavitatem cum rotunditatis praecisione)
+scyphum, non nucem vocat: et quia solum
+habebat commune cum nuce (rotunditatem scilicet
+oblongam) non nucem nominat, nucis tamen similitudinem
+habere denuntiat. Habebant itaque ornatum
+hujusmodi tam hastile quam omnes sex calami, primo
+rotunditatem velut nucis oblongam, sed praecisam;
+postea rotunditatem sphaericam, quam vocat
+sphaerulam; et post duo haec adjuncta sibi habebat
+<pb n="0214B"/>
+florem in modum lilii. Itaque hastile primo ad primum
+scyphum quasi in ipsum deficiebat: et iterum
+velut de medio floris cum duobus hinc inde calamis
+emergebat. Eodem modo intelligendum est loco secundo,
+et tertio. Similem vero ornatum excepta ad junctione
+calamorum habebat in summo. Habes autem ex
+similitudine hastilis quid intelligendum sit de calamis.</p>
+<p>Notandum vero quod sphaerula dicitur esse sub
+duobus calamis per tria loca hastilis. Radices namque
+calamorum florem lilii non tam habebant sub
+se quam circa se, sphaerulam autem omnino habebant
+sub se. Ecce de candelabro; nunc videndum
+est de tabernaculo.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT V. <hi>De modo et mensura cortinarum.</hi> </head>
+<p>
+            <pb n="0214C"/>Notandum in primis quod quidam quasi pro auctoritate
+recipiunt, quidquid in Josepho de istis
+scripta reperiunt. Putant enim eum (utpote Judaeum)
+tabernaculum vidisse, et eo ipso tam vera quam nota
+scripsisse. Mihi autem secundum testimonia Scripturarum
+luce clarius constat quod tabernaculum nunquam
+viderit. Nam quae, quaeso, Scriptura, vel
+saltem fingit ipsum reportatum de loco ubi illud Jeremias
+ex divino responso abscondit? Libenter recipiatur
+Josephus in his quae per experientiam novit,
+vel ex authenticis scripturis colligit. Nam ubi aliter
+sentit, confidenter ei Exodum praefero, vel quoscunque
+libros in canone reperio. Verba itaque auctoris
+in medium proferamus: et ex ipsis inquantum Dominus
+<pb n="0214D"/>
+dederit, quid de tabernaculi constructione vel
+erectione sentiendum sit eliciamus. Praecipit ergo
+fieri cortinas decem, viginti octo cubitorum longitudinis
+et quatuor cubitorum latitudinis. Ait itaque
+de his cortinis: <hi>Quinque cortinae sibi jungentur
+mutuo, et aliae quinque nexu simili cohaerebunt <note>(Exod.
+XXVI)</note>
+            </hi>. Ex quinque igitur cortinis facienda erat cortina
+una, et ex quinque aliis cortina alia. De his
+magnis cortinis intelligitur quod sequitur: <hi>Ansulas
+hyacinthinas in lateribus, ac summitatibus facies cortinarum,
+ut possint invicem copulari.</hi> Ecce dicitur
+quod ansulas habeant in omni parte; nec tamen
+dicitur quod sint in summitatibus, sed tantum quod
+habeant in utroque latere. Sed tacendo de uno,
+quod determinat, de alio dat auctor intelligere, ut
+<pb n="0215A"/>
+secundum modum laterum fiant et ansulae summitatum. <hi>Quinquagenas,</hi> 
+ inquit, <hi>ansulas cortina habebit
+in utraque parte, ita insertas, ut ansa contra ansam
+veniat, et altera alteri possit aptari.</hi> Quod dictum est ansam
+ansae coaptandam, intelligendum est in conjunctis
+lateribus. Nam quid de reliquorum laterum ansis
+sentiendum sit, melius videbitur in sequentibus.
+Sequitur: <hi>Facies et quinquaginta circulos aureos,
+quibus cortinarum vela jungenda sunt: ut unum tabernaculum
+fiat.</hi> De eodem in sequentibus legitur: <hi>Unde et quinquaginta fudit circulos aureos, qui morderent
+cortinarum ansas.</hi> 
+ Ex his intelligi datur quod
+circuli denticulos quosdam inhaerentes haberent,
+qui ansulas per circulos trajectas mordiciis apprehenderent:
+sicque duo vela in unum constringerent.
+<pb n="0215B"/>
+Ecce de cortinis.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VI. <hi>De factura sagorum.</hi> </head>
+<p> <hi>Facies et saga cilicina undecim ad operiendum tectum
+tabernaculi. Longitudo sagi unius habebit triginta
+cubitos, et latitudo quatuor. Aequa erit mensura
+sagorum omnium, e quibus quinque junges seorsum:
+et sex sibi mutuo copulabis, ita ut sextum sagum in
+fronte tecti duplices <note>(Exod. XXVI)</note>
+            </hi>. Duo hic dicunt
+notari: et quod debeat duplicari, et quod duplicatum
+debet esse in fronte tabernaculi. Duplicetur
+itaque non pars sagi tantum; sed ipsum sagum a
+summo usque ad summum, ut sic plicatum et duplicatum
+teneat, triginta cubitos in longitudine, et
+duos tantum in latitudine. Sequitur: <hi>Facies et quinquaginta
+<pb n="0215C"/>
+ansas in ora sagi unius, ut conjungi cum
+altero queat: quinquaginta ansas in ora sagi alterius,
+ut cum altero copuletur. Quinquaginta fibulas aeneas
+quibus jungantur ansae, unum ex omnibus operimentum
+fiat.</hi> Quod dicitur de fibulis sagorum, vel ansulis
+conjunctorum laterum, intelligi per omnia
+debet juxta similitudinem cortinarum. De ansis extremitatum
+tacet, quia juxta praemissam similitudinem
+posse intelligi praevidet. Habet itaque operimentum
+cortinarum cubitos viginti octo sagorum,
+triginta juxta dimensionem unam. Item cortinarum
+quadraginta, sagorum vero quadraginta duorum juxta
+dimensionem aliam. Ecce de factura utriusque operimenti,
+et statim adjungit unde intelligi possit quomodo
+<pb n="0215D"/>
+unum superducendum sit alteri: <hi>Quod autem
+superfuerit in sagis quae parantur tecto, id est unum
+sagum quod amplius est, ex medietate ejus operies
+posteriora tabernaculi: et cubitus ex una parte pendebit;
+et alter ex altera: qui plus est in sagorum longitudine
+utrumque latus tabernaculi protegens.</hi> Consideremus
+interim haec ac si tentandi, vel ostendendi
+gratia in plano alterum superponeretur alteri, ut
+postmodum plenius intelligatur quomodo sibi coaptari
+debeant in erectione tabernaculi. Copula itaque
+cortinarum primo sic extendatur, ut exterius latus
+primae cortinae sit ad Orientem, decimae vero ad
+Occidentem. Summitates autem earum hinc inde
+sint, ille ad Austrum, iste ad Aquilonem. Huic ergo
+velo cortinarum superducatur velum sagorum ita ut
+<pb n="0216A"/>
+unum ad alterum aequiformiter se habeat ab omni
+parte, et videbis superpositum circumquaque cortinas
+uno cubito excedere. Haec superductio sagum
+duplicatum ad Orientem habeat. Nam tabernaculum
+ad illam partem frontem habebat. Si igitur saga cortinis
+conferas et singula singulis compares, videbis
+unum sagum numero superesse. Si vero consideres
+quantum utrumque velum se possit extendere, videbis
+in sagorum copula solam sagi medietatem superabundare:
+si positionem attendas, videbis illam
+medietatem postrema tabernaculi operire; non quod
+tota illa medietas extremitatem tabernaculi transeat,
+sed quod dicta extremitas contra medium illius
+medietatis jaceat, et operimenti more aequam illius
+partem utrinque habeat. Dicit ergo: <hi>Quod autem
+<pb n="0216B"/>
+superfuerit in sagis,</hi> etc. Littera sic legatur: Ex medietate
+autem ejus quod superfuerit in satis quae parantur
+tecto, id est sagum unum. Nam undecimum
+sagum ibi est supra numerum cortinarum: ex medietate,
+inquam, illius undecimi sagi operies posteriora
+tabernaculi. Caetera satis patent.</p>
+<p>Notandum quam congruo ordine agit de omni tabernaculi
+parte, prius de ejus fronte, ubi jubet sagum
+duplicare, postea de posteriori ejus extremitate,
+quam jubet ex undecimi sagi medietate operire. Tertio
+de utroque ejus latere, ubi dicit utrinque cubitum
+unum ex sagorum superabundantia dependere. Si
+quis autem dicit quia dicta medietas intantum posteriora
+operit inquantum extrema cortinarum excedit,
+et sic intelligi debere contendit: nec sic quidem, vel
+<pb n="0216C"/>
+juxta hunc intellectum oportet concedere totam illam
+medietatem in ejusmodi usum cedere, quamvis dicat
+ex illa medietate id fieri oportere. Nam qui dicit
+Evam ex costa factam, verum dicit; et qui dicit
+Evam ex viro factam, nihilominus verum dicit; nec
+tamen tota viri substantia, sicut costa in ejusmodi
+facturam cessit. Si cui vero quod dictum est satisfacere
+non potest, et contendat totam illam medietatem
+extrema cortinarum transire debere, et idcirco
+in fronte tabernaculi tam saga quam cortinas ab una
+linea incipere, melius censeo alieno intellectui cedere
+quam contentionibus deservire.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT VII. <hi>De gemino operimento arietinarum pellium.</hi> </head>
+<p>
+            <pb n="0216D"/>Sequitur: <hi>Facies et operimentum aliud tecto de
+pellibus arietum rubricatis, et super hoc rursum aliud
+operimentum de hyacinthinis pellibus <note>(Exod. XXVI)</note>
+            </hi>.
+Quod operimentum hyacinthinum sit supra operimentum
+rubricatum invenio, quod autem haec duo
+sint supra tectum cilicinum in auctore non invenio.
+Sed sunt qui putant eumdem ordinem servandum
+in erectione qui servatur in descriptione. Sed videant
+ne forte ratio ista omnino sit nulla. Nam prius
+describuntur cortinae, posterius tabulae, et tamen in
+erigendo prior est erectio tabularum quam extensio
+cortinarum. Ego autem magis credo auctorem propter
+similitudinem facturae descriptionem sagorum
+descriptioni cortinarum adnectere. Frequens est in
+Scriptura sacra indeterminatum relinquere, quando
+<pb n="0217A"/>
+facile est quid eligendum sit ex ratione colligere.
+Asperioris autem naturae est sagum cilicinum; mollioris
+vero pelles arietum. Pellium ergo mollitie, sagorum
+asperitas intercluditur, ne crebra asperitatis
+confricatione cortinarum teneritudo attereretur.
+Arietinum operimentum geminatur, ut si primum
+per medium sagorum humectaretur, secundum siccum
+permaneret, ita ut nullam injuriam cortinarum
+teneritudo sentiret, vel sentire potuisset. Sunt qui
+putant arietina operimenta a summis non descendere:
+et hoc unde probetur vellem audire. Nam si
+verum est, non poterant cortinae vel post unam nimiae
+tempestatis pluviam in sua pulchritudine perdurare.
+Sed et illud constat quod supremum tabernaculi
+planam, non cristatam superficiem habebat:
+<pb n="0217B"/>
+et quomodo (secundum quod quidam scribunt) propter
+sui decorem stuporem aspicientibus ingerebat,
+si in ea tantum parte hujusmodi decorem habebat qua
+videri non poterat? Sed et illud audire vellem, quomodo
+ejusmodi operimentum ibi in summis inhaerebat.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VIII. <hi>De modo et mensura tabularum.</hi> </head>
+<p>Sequitur: <hi>Facies et tabulas stantes tabernaculi de
+ligno setim, quae singulae denos cubitos in longitudine
+habeant et in latitudine singulos, ac semissem <note>(Exod.
+XXVI)</note>
+            </hi>. Ecce de tabularum mensura; et adnectitur
+statim de earum incastratura. Duo autem sunt incastraturae
+genera. Primum ubi unum tabulae latus
+cavatur, alterum acuitur; et sic una tabula alteri
+infigitur. Sed hujusmodi incastratura in partem neutram
+<pb n="0217C"/>
+reddit superficiem planam. Est et aliud genus
+incastraturae quod sit in utroque latere. Nam hinc
+fit quaedam praecisura lateris usque ad medietatem
+tabulae ex parte interiori; illinc identidem, sed a
+parte exteriori: et tabularum incisura incisurae inseritur
+ut totus paries una tabula videatur, et superficies
+utrinque perplana reddatur. De hujusmodi
+incastratura intelligitur quod sequitur: <hi>In lateribus
+tabulae duae incastraturae fiant, quibus tabula alteri
+tabulae connectatur.</hi> Erant autem viginti tabulae cum
+quadraginta basibus in latere australi: totidem vero
+et ejusdem mensurae in latere aquilonari. In occidentali
+autem parte, octo tabulae cum decem et sex
+basibus erant. Nam singulae tabulae duas bases argenteas
+<pb n="0217D"/>
+suppositas habebant. Sunt qui tradunt angulares
+tabulas hinc inde dimidium tantummodo cubitum
+habere. sed unde hoc probetur, non possunt
+ostendere. Sed parum, ut mihi videtur, attendunt
+generalem sententiam quam in principio descriptionis
+legunt: <hi>Facies,</hi> inquit, <hi>et tabulas stantes tabernaculis
+de lignis setim, quae singulae denos cubitos in
+longitudine habeant, et in latitudine singulos ac semissem.</hi> 
+Si singulae habent cubitum et semissem in
+latitudine, ergo et angulares tabulae. An forte quia
+de eis separatim agitur, recte singularem mensuram
+habere dicuntur? Imo tanto magis diffitendum; quoniam
+cum de eis seorsum agit, in nullo earum mensuram
+a generali regula excipit. Cui istud quod de
+tabulis diximus non sufficit: audiat quid auctor
+<pb n="0218A"/>
+longe post de basibus dicit. Fuerunt praeterea centum
+talenta argenti e quibus conflatae sunt bases
+sanctuarii, et introitus ubi velum pendet. Centum
+bases factae sunt de talentis centum singulis talentis
+per bases singulas supputatis. Si angulares tabulae
+tertiam tantummodo partem latitudinis habuerunt,
+quomodo cum reliquis pares bases acceperunt? Sed
+dicunt tabernaculum solummodo decem cubitos latitudinis
+tenere: et inde colligunt quod jam dictum
+est de angularium tabularum latitudine. Quod tabernaculum
+triginta cubitos longitudinis habeat,
+unde probetur invenio. Quod autem decem cubitos
+tantum latitudinis teneat, unde probetur non invenio.
+Dicam tamen quid inde soleat animum pulsare,
+unde hoc possumus magis conjicere quam probare.
+<pb n="0218B"/>
+Credimus illud Salomonis templum juxta modum
+suum ad hujus tabernaculi similitudinem factum.
+Juxta ergo similitudinis rationem erit tabernaculi
+longitudo tripla ad latitudinem. Juxta similitudinis
+rationem erit longitudo interioris domus aequalis ad
+latitudinem, subdupla vero ad exterioris domus longitudinem.
+Possumus tamen et illud quod de tabernaculi
+latitudine conjicimus, et ipsum quod generaliter
+de tabularum mensura legimus inconcussum
+tenere, si dicamus angulares tabulas decimum cubitum
+qui sex tabulis superest ex medietate cubiti
+hinc inde implere, et uno cubito utrobique excedere.
+Nam inde procul dubio tabernaculum robustius
+stabat, et impulsum ventorum validius tolerabat.
+Talem credo dispositionem designare voluit qui dixit:
+<pb n="0218C"/> <hi>Ad occidentalem vero plagam tabernaculi facies
+sex tabulas; et rursum, alias duas quae in angulis
+erigantur post tabernaculum;</hi> 
+ et rursus, alias de
+eisdem fecit sex tabulas, et duas alias per singulos
+angulos tabernaculi retro. Respectu enim parietum
+hinc inde dicuntur retro, vel post tabernaculum esse.
+Nam si parietibus a latere tantum jungantur, non
+erit cujus respectu retro, vel post tergum dicantur.
+Erit itaque, juxta hoc quod dictum est, occidentalis
+frons tabernaculi decem cubitorum latitudinis interius,
+et duodecim cubitorum latitudinis exterius.
+Vide ne forte hoc sit quod Ezechiel intelligi voluit,
+cum in templi descriptione inter caetera adnectit (et
+mensus est frontes sex cubitos latitudinis hinc, et
+<pb n="0218D"/>
+sex cubitos latitudinis inde) latitudinem tabernaculi <note>(Ezech. IV)</note>.
+Istud suo loco plenius exposuimus. Sed
+illud hic tantum attendendum quod latitudo tabernaculi
+dicitur duplicatus senarius.</p>
+<p>Et notandum quod tantum habuit orientalis pars
+templi circa portam interius, quantum tota latitudo
+occidentalis partis tabernaculi exterius. Est autem
+indubitanter tenendum juxta lectionem Exodi, quod
+quinque vectes essent per omnes tres parietes tabernaculi:
+unus circa summum tabularum, alius circa
+imum, tertius circa medium, quartus inter medium
+et summum, quintus inter medium et imum. Nam
+illa quorumdam de quinque cubitorum vectibus sententia
+videtur tam frivola, auctoritati vero tam contraria,
+ut nec videatur refellenda.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT IX. <hi>De erectione tabernaculi.</hi> </head>
+
+<pb n="0219A"/>
+<p>Restat adhuc et illa de tabernaculo dicere quae
+addenda sunt de ejusdem erectione. Prius ergo erigebantur
+tabulae super bases; postea per circulos
+inducebantur parietum vectes. Deinde inserebatur
+vectis ille qui ad continendos parietes per medias
+tabulas secundum librum de angulo in angulum ibat,
+ubi in introitu tabernaculi velum dependebat. Post
+haec injecti funes per transversum tabernaculi fortiter
+extendebantur, et ad paxillos eminus a tabernaculo
+fixos firmiter adnectebantur. Sicque fiebat ut
+et tabernaculum ipsum contra violentiam ventorum
+firmum et inconcussum continerent, et operimentum
+ipsius supportarent, ne in superioribus ventrem
+<pb n="0219B"/>
+faceret; et inundantium pluviarum aquas colligeret,
+ne vicissim ex incremento collectionis ipse sinus, et
+ex incremento ipsius sinus collectio aquarum cresceret,
+donec tandem ponderis nimietas operimentum
+omnino disrumperet, vel avulsum ad se introrsum
+et deorsum traheret. In occidentali vero plaga
+funes ab interiori parte aduncati per parietum summitatem
+ad inferiora oblique descendebant, et ad
+paxillos firmiter annexi tabernaculum ab ea parte
+continebant. Similiter ab orientali plaga debemus
+intelligere funes a dicto vecte, et ab extremitatibus
+parietum descendere et a paxillis protensos ab ea
+parte tabernaculum continere. Qui tabernaculum
+quasi infantiae pannis involvunt, ad quos usus paxillos
+<pb n="0219C"/>
+habeat invenire non possunt, cum tamen de his
+in hunc modum legunt si volunt: <hi>Cuncta vasa tabernaculi
+in omnes usus et caeremonias; tam paxillos
+ejus quam atrii ex aere facies <note>(Exod. XXVII)</note>
+            </hi>.</p>
+</div2>
+
+<div2>
+          <head>CAPUT X. <hi>De superductione operimentorum.</hi> </head>
+<p>Tabernaculo erecto et funibus distenso, juxta
+praedictum modum, superducendum est primo velum
+decem cortinarum, ita ut prima habeat latus
+exterius ad Orientem; ultima vero earum latus exterius
+habeat ad Occidentem. Juxta eam itaque dimensionem
+qua dictum est superius totum velum
+quadraginta cubitos habere, uno solummodo cubito
+descendat a fronte, triginta vero expandantur in tabernaculi
+longitudine; reliqui autem novem cubiti
+<pb n="0219D"/>
+oblique per funes descendant a posteriori par
+te. Juxta eam vero dimensionem qua viginti octo
+cubitos habuit, decem medii cubiti expandantur in
+tabernaculi latitudine; novam autem hinc, et novem
+inde in utriusque lateris descensione. Tunc vero
+funibus ad primos paxillos e regione frontium hinc
+inde annexis; et postea per primas laterum ansas inductis,
+et iterum ad alium paxillum aduncatis; et sic
+vicissim, modo ad ansas, modo ad paxillos funibus
+aptatis atque constrictis, velum super distentos primitus
+funes distendatur, ita ut quoddam quasi appendicium
+per tres tabernaculi partes fecisse videatur.
+In illis vero ansis quas orientale latus in fronte
+gerebat, injectum funem habeat per quem debeat
+velum ab ea parte extendi, ne ulla vi ventorum possit
+<pb n="0220A"/>
+laedi, vel aliqua distensione a debito tenore deflecti.
+Super hoc velum extendatur operimentum
+rubricatum, super quod et illud operimentum hyacintinarum
+pellium. In supremo debemus velum
+sagorum superducere, ita ut videatur in omni parte
+cortinarum velum cubito uno excedere, sicque ut
+duplicatum sagum totum habeat in fronte. Et sicut
+de velo cortinarum docuimus, sic et hoc velum, et
+juxta eamdem similitudinem ad paxillos astringere
+et extendere debemus. Ecce jam palam est intelligere
+quomodo sagum duplicetur in fronte, quomodo
+posteriora tabernaculi tegantur ex undecimi sagi
+medietate, quomodo cubitus unus pendeat ab utroque
+latere. Ecce quomodo dicta cortinarum distensio,
+velut quoddam appendicium per tres tabernaculi
+<pb n="0220B"/>
+partes efficiat: quod quidem sacerdotibus ad induendas,
+vel deponendas sacras vestes, vel alios ejusmodi
+usus deservire poterat, in quo et illi qui tabernaculum
+intrare non audebant, tabernaculi decorem
+perpendere valebant. Ad quid enim decor dependentium
+cortinarum, ad quid aurum annulorum, ad
+quid deauratio vectium, ad quid exterior deauratio
+tabularum, si sic totum involvitur ut a nemine videatur,
+si sic totum involvitur ut ad nullos usus, ad
+nullam utilitatem habeatur? Ad quid aliud velum
+juxta cortinarum similitudinem in introitu tabernaculi
+fieri oportuit, si reductio cortinarum totum
+introitum clausit? Cum solum sextum sagum per
+Moysen jubeantur duplicari in fronte, cur et aliud
+<pb n="0220C"/>
+juxta quosdam, duplicatur similiter in posteriori parte?
+Sed si illa eorum reductio ibi fiat, ubi in fronte
+sextum sagum dependet, utique ipsum sextum sagum
+ibi non modo duplicatur, sed ad minus triplicatur,
+At si contra tres cubitos infimos qui dependenti
+sagorum velo supersunt, reductio reductioni
+superducitur, ut sextum sagum duplicetur, et ipsa
+superductio, ut propter praeceptum consistere valeat,
+vinculis alligatur, proculdubio jam non erit unde a
+sacerdotibus intretur. Quae de duobus velis sequuntur
+satis per se patent et expositione non indigent.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XI. <hi>Descriptio altaris holocausti.</hi> </head>
+<p>De altari holocausti sequitur, quod in hunc modum
+describitur: <hi>Facies et altare de lignis setim,
+<pb n="0220D"/>
+quod habebit quinque cubitos in longitudine: et totidem
+in latitudine, id est quadrum, et tres cubitos in
+altitudine. Cornua autem per quatuor angulos ex ipso
+erunt <note>(Exod. XXVII)</note>
+            </hi>. Hoc altare quatuor tantummodo
+parietes habebat. Nam in superioribus apertum
+erat: et, sicut in sequentibus legitur, non solidum,
+sed inane et cavum intrinsecus erat. Haec
+omnia satis sunt aperta. Sed quae de craticula sequuntur,
+valde sunt perplexa, et eo diligentius discutienda.
+Dico itaque prius quid mihi videtur;
+inde et postea conabor idipsum litterae ipsius
+auctoritate probare. Primo igitur duae aeneae virgae
+tantae grossitudinis, ut superposita holocausta et
+ligna supportare valeant, ducantur ab uno latere
+in aliud latus altaris; ita ut capita eorum prope
+<pb n="0221A"/>
+angulos exterius appareant, annulosque quatuor
+aeneos insertos habeant. Debent autem inseri ita ut
+una altaris medietas sit supra, alia vero infra. Ab
+his autem debent emergere introrsum quatuor
+aenei stipites quasi quatuor craticulae pedes. Duo
+scilicet hinc, et juxta latus unum; duo vero inde,
+juxta latus oppositum. In horum utique summitate
+debet fieri craticula, juxta videlicet librum in modum
+retis aenea. Fiat autem ad eam altitudinem, ut
+ipsa, et altare sibi respondeant ad unam aequalitatem.
+Erant itaque primo dictae illae virgae quasi
+craticulae bases, quatuor vero stipites quasi ipsius
+pedes. Haec autem omnia sibi invicem ita inseri et
+conjungi debent ut quasi unum corpus efficiant, et
+nec ab invicem nec ab altari avelli queant. Erant
+<pb n="0221B"/>
+autem duo ostiola in posteriori pariete, in superiori
+videlicet altaris medietate. Unum pendebat a latere
+uno, et alterum ab altero, et clausa contingebant
+se in medio. Altaris vero arula nihil aliud erat
+quam tabula quaedam aenea aliquantulum spissa.
+Nec arula per aditum dictorum ostiorum inferebatur,
+et super craticulae bases, et super ostium limen
+imponebatur; terra tamen prius tota illa altaris
+inferior medietas usque ad situm craticulae implebatur.
+Per hunc aditum ligna ingerebantur, unde
+ignis nutriebatur, per eumdem aditum cineres extrahebantur.
+Idcirco autem altare ipsum mediotenus
+terra implebatur, ut firmiter inter sacrificandum acret,
+et hoc ipsum ad illud Dominicum praeceptum stacederet: <hi>Altare de terra facietis mihi 
+ <note>(Exod. XX)</note>
+            </hi>. Craticula
+<pb n="0221C"/>
+vero ipsi altari pro superiori superficie erat,
+ubi holocaustum imponi et igne supposito cremari
+consueverat. Inani itaque suspicione laborant, qui
+sine gradibus, vel aliqua sublevatione in altari sacrificari
+posse non putant. Nam tres tantummodo
+cubitos altitudinis habebat. Nunc autem illud considerare
+debemus utrum Scriptura ipsa concordet
+his quae de craticula jam diximus. De craticula sic legitur: <hi>Craticulamque in modum retis aeneam,</hi> 
+ ubi subauditur
+facies, <hi>per cujus quatuor angulos erunt quatuor
+annuli aenei, quos pones subter arulam altaris.</hi> </p>
+<p>Nota quod annuli erant in craticulae angulis, et
+subter arulam altaris. Et additur: <hi>Eritque craticula
+usque ad altaris medium.</hi> Si usque ad altaris medium,
+<pb n="0221D"/>
+ergo vel ab imo sursum, vel a summo deorsum
+usque ad ejus medium. Conferamus cum hoc
+loco, quod longe in sequentibus de eadem craticula
+legitur cum dicitur: <hi>Craticulamque ejus in modum
+retis fecit aeneam; et subter eam in altaris medio
+arulam, fusis quatuor annulis per totidem retiaculi
+summitates <note>(Exod. XXXVIII)</note>
+            </hi>. Si arula subter craticulam
+et in medio altaris erat, ergo craticula superiorem
+altaris medietatem tenebat, alioquin, ipsa subter
+arulam erat.</p>
+<p>Notandum quod bases juxta aliquid de craticula
+erant, juxta aliquid de craticula non erant. Juxta
+aliquid videntur de craticula non esse; quia craticulae
+non solent bases habere. Juxta aliquid
+tamen de ipsa erant, quia eis insidebat. Recte
+<pb n="0222A"/>
+ergo de arula dicitur, quod subter craticulam
+esset, quamvis super bases jaceret: <hi>Fusis,</hi> inquit, <hi>quatuor annulis per totidem retiaculi summitates.</hi> 
+Quandoque summitas idem sonat quod extremitas.
+Erant ergo aut in extremitatibus superioribus, aut
+inferioribus. Sed hoc ipsum determinatur ex eo
+quod in prima descriptione dicitur: <hi>Per cujus quatuor
+angulos erunt quatuor annuli aenei, quos pones
+subter arulam altaris.</hi> Si arula subter craticulam et
+annuli subter arulam erant: ergo in inferioribus
+summitatibus erant. Nam si in superioribus summitatibus
+essent, ut annulos arula sub se haberet,
+etiam craticulae summum, et sic totam craticulam
+sub se habere oporteret. Et nota quia si annuli
+subter craticulam, et in angulis ejus erant, ergo
+<pb n="0222B"/>
+aliquid craticulae subter arulam erat ubi anguli
+esse, unde et annuli dependere potuissent, ut sub
+ipsa essent. Erant itaque ubi bases subter craticulam
+jacentes et stipites in altum surgentes angulos
+faciebant, quia de basium extremitatibus dependebant.
+Subter arulam ergo annuli erant, non
+quod super illos jaceret, sed quod situ superiorem
+locum teneret. Restat nunc solum illud quaerere
+utrum iidem annuli sint et altaris et craticulae.
+Audiamus itaque quid ad jam dicta addatur in
+prima descriptione: <hi>Facies et vectes altaris de lignis
+setim duos, quos operies laminis aeneis, et induces
+per circulos.</hi> Erunt ex utroque latere altaris ad portandum.
+Si vectes sunt in utroque latere altaris, ergo
+et circuli per quos sunt et vectes inducendi. Habet
+<pb n="0222C"/>
+itaque et craticula annulos, et altare circulos. Sed
+nunquid sunt alii, et alii istius circuli, et illius annuli?
+Cum his itaque quae dicuntur in hac descriptione,
+conferamus illa, si placet, quae de eodem explicantur
+in recapitulatione: <hi>Fusis,</hi> inquit, <hi>quatuor
+annulis per totidem retiaculi summitates ad immittendos
+vectes ad portandum: quos et ipsos fecit de lignis
+setim, et operuit laminis aeneis, induxitque incirculos
+qui in lateribus altaris eminebant <note>(ibid.)</note>
+            </hi>. Certe, ut audis,
+vectes ad immittendum in craticulae annulis fecit,
+quos, inquit, et ipsos in circulos altaris induxit. Certe
+craticula intra altare erat, cui arula in medio altaris
+subter erat. Sed nunquid annuli qui ex craticulae
+summitatibus dependebant similiter intra
+<pb n="0222D"/>
+altare erant? Quomodo ergo iidem ipsi vectes poterant
+immitti in annulis, qui interius latebant, et
+induci in circulis qui in lateribus altaris exterius
+eminebant? Sed quis hoc dicat? Oportet ergo esse
+eosdem ipsos et craticulae annulos et altaris circulos;
+et in ipsis vectes eosdem ipsos, et non alios et
+alios. Oportet ergo ut et ipsius craticulae summitates
+per medios parietes exterius appareant, ex
+quibus circuli dependebant, qui in altaris lateribus
+eminebant. Ecce quod de altari, vel ejus craticula
+superius diximus, litterae ipsius auctoritate probavimus.
+Sed quod de ostiolorum aditu dictum est,
+non tam manifesta auctoritate quam manifesta ratione
+colligi potest, sicut superius jam ex parte
+monstratum est.</p>
+</div2>
+      </div1>
+
+<div1>
+        <head>TRACTATUS SECUNDUS. De templo Salomonis ad litteram.</head>
+
+<pb n="0223"/>
+<p>
+          <pb n="0223A"/>Descriptio templi Salomonis secundum librum
+Regum ex magna parte satis est aperta; in quibusdam
+autem locis multum perplexa et nimis obscura.
+Compellor autem quorumdam instantia, quibus
+libenter deservio, ubi in his explanatione opus
+est, dicere quod sentio. Tempus igitur aedificationis
+in primis exprimitur cum dicitur: <hi>Factum est quadringentesimo
+et octogesimo anno egressionis filiorum
+Israel de terra Aegypti, in anno quarto mense Zio,
+ipse est mensis secundus, regis Salomonis super Israel,
+aedificare coepit domum Domino <note>(III Reg. VI)</note>
+          </hi>. Ad id
+quod dicit in anno quarto in construendo advertendum
+est: <hi>Regis Salomonis super Israel.</hi> Nam quod
+dicitur <hi>mense Zio ipse est mensis secundus,</hi> interpositio
+est. Hoc ipsum in Paralipomenon planius exprimitur,
+<pb n="0223B"/>
+ubi legitur: <hi>Coepit autem aedificare mense secundo
+anno quarto regni sui <note>(II Paral. III)</note>
+          </hi>. Mensura
+templi determinatur, in eo quod sequitur. Domus
+autem quam aedificabat rex Salomon Domino, habebat
+sexaginta cubitos in longitudine et viginti cubitos
+in latitudine et triginta cubitos altitudine. Quod
+dicitur triginta cubitos altitudinis habere, vel debemus
+de prima mansione sub primo coenaculo intelligere.
+Nam tota altitudo domus pro certo centum
+viginti cubitos habebat, sicut liber Paralipomenon
+in haec verba declarat: <hi>Porro altitudo centum viginti
+cubitorum erat.</hi> Et quod coenacula habuerit idem
+liber in sequentibus ostendit: <hi>Coenacula quoque texit
+auro.</hi> </p>
+<p>Notandum autem quod de mensura ista longitudinis
+<pb n="0223C"/>
+et latitudinis templi quam modo describit, intra
+parietes sumpta, sicut ex his quae de cherubin in
+sequentibus dicuntur manifesta ratio convincit.
+Mensuram porticus describit, cum adjungit: <hi>Et
+porticus erat ante templum viginti cubitorum longitudinis,
+juxta mensuram latitudinis templi, et habebat
+decem cubitos latitudinis ante faciem templi.</hi> Sequitur: <hi>Fecitque in templo fenestras obliquas.</hi> 
+ Hoc est
+interius latiores, et exterius strictiores. Erant autem
+tria deambulacra forinsecus parietibus adjacentia:
+unum in uno contra templi inferiora, secundum
+priori superpositum contra coenaculum primum,
+tertium secundo superpositum contra coenaculum
+secundum. Tabulata autem quae ista deambulacra
+<pb n="0223D"/>
+tegebant, subsequenter auctor describit, cum in haec
+verba subjungit: <hi>Et aedificavit super parietem templi
+tabulata per gyrum in parietibus domus per circuitum
+templi et oraculi.</hi> Has templo adjacentes coaedificationes
+lateraliter adjacebant; imo illi quasi pro
+lateribus erant: <hi>Et fecit,</hi> inquit, <hi>latera. Tabulatum
+quod subter erat quinque cubitos habebat latitudinis.
+Et medium tabulatum sex cubitorum latitudinis. Et
+<pb n="0224A"/>
+tertium tabulatum septem habens cubitos latitudinis</hi> 
+Ecce de mensura. Additur adhuc et de modo: <hi>Trabes autem posuit in domo per circuitum forinsecus
+ut non haererent muris templi.</hi> 
+ Quod dicit ut non
+haererent muris templi de tabulatis, non de trabibus
+debet intelligi. Trabes namque contra pavimentum
+primi coenaculi muris appositae erant, quarum extremitates
+ex alia parte columnae excipiebant. Super
+has trabes stratum ligneum erat, quod primum deambulacrum
+quinque cubitorum latitudinis tegebat;
+ipsum tamen ligneum stratum seu tabulatum non
+usquequaque ad murum pertingebat. Juxta quod
+dixi de primo potest intelligi quid sentiendum sit de
+secundo et tertio, nisi quod singulorum mensura
+ab invicem differebat, secundum quod liber determinat.
+<pb n="0224B"/>
+Tabulatum quod supremum septem cubitorum
+latitudinis deambulacrum tegebat, tecto ipsius
+templi respondebat. Quoniam ergo paries templi trabes
+cum superpositis tabulatis portabat, idcirco
+dicit quod super parietem templi tabulata aedificavit.</p>
+<p>Notandum autem quam convenienter unaquaeque
+mansio templi circa se deambulatoria habebat, ubi
+etiam tempore pluviae deambulandi, vel potius orandi
+gratia convenire poterant qui templum intrare non
+audebant. Quomodo autem, vel unde ab imo in medium,
+vel a medio latere in supremum ascenderetur,
+paucis interpositis satis aperte determinatur.</p>
+<p>Sequitur: <hi>Domus autem cum aedificaretur, lapidibus
+dedolatis atque perfectis aedificata est.</hi> Quando
+aliquid satis pro modo consuetudinis dolatum subtilius
+<pb n="0224C"/>
+adhuc supra consuetudinem dolatur, quasi de
+eo quod dolatum est, dedolatum efficitur. Vel dedolatum,
+quasi de omni parte dolatum. Nam omnes
+lapides illius templi per omnes sex superficies erant
+dolati. Attende quam ordinate in sua descriptione
+procedit: nam ab exterioribus incipiens, post descriptionem
+laterum, de templi muro agit qui postea
+primo occurrit. Sed mirandum valde quod dicit,
+cum postea subjungit: <hi>Et malleus, et securis, et
+omne ferramentum, non sunt audita in domo cum
+aedificaretur.</hi> Et quidem de lapideo opere, hoc satis
+possumus intelligere. Nam omnes lapides simul, et
+omnia ligna erant alias dolata et cum summa diligentia
+perpolita. Sed sunt qui putant sine ejusmodi
+<pb n="0224D"/>
+instrumentis talem fabricam nullo modo posse erigi
+et ex tam multiplici materia in unum conjungi.
+Nam, ut de caeteris taceatur, quomodo sine alicujus
+generis malleo, aureo, argenteo, vel ligneo, vel alio
+aliquo clavi illi fortiter affigerentur, de quibus
+Scriptura in sequentibus loquitur. An forte cujusmodi
+mallei excipiuntur, determinatur in eo quod
+dicitur: <hi>Et omne ferramentum non sunt audita in
+<pb n="0225A"/>
+domo cum aedificaretur?</hi> Sed ut dicam quod sentio,
+non est mirum si in Salomonis operibus invenimus
+quod rectius mirari quam perscrutari possimus.</p>
+<p>Sequitur: <hi>Ostium lateris medii in pariete erat domus
+dexterae: et per cocleam ascendebant in medium
+coenaculum, et a medio in tertium.</hi> Ecce hic habemus
+quod superius jam duximus. Nam in his verbis describitur
+quomodo, vel qua de infimo latere in medium
+latus ascenderetur et intraretur. <hi>Ostium,</hi> inquit, <hi>lateris medii,</hi> 
+ quod latus sex cubitorum erat, et
+inter infimum et supremum medium locum tenebat; <hi>in pariete erat dexterae ipsius domus.</hi> 
+ Quod
+dicit dexterae, legatur substantive; quantum ad id
+quod addit domus, transitive. Ecce qua et ubi intrabatur,
+sed quomodo illuc ascendebatur: <hi>Et per
+<pb n="0225B"/>
+cocleam ascendebant in medium coenaculum.</hi> Nota
+quam artificiose unum aperte dicit et alterum tacite
+innuit. Ostium medii lateris determinavit, et de
+ostio medii coenaculi tacuit. E converso autem de
+via ascensionis in medium coenaculum loquitur; de
+via ascensionis in medium latus tacite praeterisse
+videtur. Sed utrobique quod tacet de uno, dat idem
+intelligi ex eo quod dicit de altero. Una via ascensionis
+ad utrumque serviebat, et ad tringinta ascensionis
+cubitum introitus ad utrumque patebat.
+Haec via in pariete, id est in ipso muro in dextera
+quidem, hoc est australi parte erat, quae in girum
+gradatim ducta ad superiora ferebat: unde eam
+Scriptura cocleam, qualem etiam usus vitem vocat.
+Juxta id autem quod dictum enim de via et ostio
+<pb n="0225C"/>
+medii lateris, intelligere possumus quid de tertio
+sentire debeamus. Quod autem dicitur coenaculum
+medium, et tertium, non sic est intelligendum quasi
+ibi fuerit triplex coenaculum, sed quod illud de quo
+prius agit sit medium trium mansionum, et quod id
+de quo secundo loco agitur, locum teneat supremum,
+et tertium. In duobus coenaculis erat triplex
+tabulatum, utriusque videlicet pavimentum, et totius
+domus tectum, quae quidam putant in hoc loco
+dici triplex coenaculum. Sed si sic auctor sensisset,
+non utique dixisset: <hi>Et per cocleam ascendebant in
+medium coenaculum et a medio in tertium.</hi> Quin potius
+diceret: Et per cocleam ascendebant in primum
+coenaculum et a primo in medium, et a medio in
+<pb n="0225D"/>
+tertium. Sed nec recte dicitur ascendi in tabulatum,
+sed ad tabulatum.</p>
+<p>Sequitur: <hi>Et aedificavit domum, et consummavit
+eam.</hi> Quamvis, inquit, esset fabrica grandis, et
+modus fabricandi mirabilis, ubi non est auditus
+malleus et securis; nihilominus tamen aedificavit
+et consummavit. Ab exterioribus incipiens, postquam
+egit de lateralibus extremis, adnectit statim
+et de extremitatibus supremis: <hi>Texit quoque domum
+laquearibus cedrinis.</hi> Quod de supremis laquearibus
+hoc dictum sit, ostenditur in eo quod
+dictum est: <hi>Texit.</hi> Additur adhuc de his quae erant
+in superiorum extremis: <hi>Et aedificavit tabulatum
+super omnem domum quinque cubitis altitudinis.</hi> 
+Tectum domus, juxta morem Palaestinorum, creditur
+<pb n="0226A"/>
+fuisse planum. Quantum videtur ad hoc, haec
+tabulata quinque cubitorum altitudinis in supremorum
+extremitatibus per circuitum fabricata erant,
+ut a fortuito casu defenderent eos qui in superioribus
+deambularent. De tecto autem ipsius domus intelligitur,
+quod statim adjungitur: <hi>Et operuit domum
+lignis cedrinis.</hi> Descriptis templi exterioribus
+antequam de interioribus agat, ipsum opus ex divino
+responso mirabiliter commendat atque magnificat.
+In quo quidem lectores suos multum per
+omnem modum attentos et benevolos reddit, ne
+cui forte otiosum videatur quod singula quaeque
+tam diligenter describit.</p>
+<p>Adjungit ergo auctor, et dicit: <hi>Et factus est
+sermo Domini ad Salomonem dicens: Domus haec quam
+<pb n="0226B"/>
+aedificas si ambulaveris in praeceptis meis, et judicia
+mea feceris, et custodieris omnia mandata mea gradiens
+per ea, firmabo sermonem meum tibi quem locutus
+sum ad David patrem tuum, et habitabo in
+medio filiorum Israel, et non derelinquam populum
+meum Israel.</hi> Haec omnia per se satis patent, et nostra
+expositione non indigent. Addo tamen et illud
+quod forte Salomon hoc Divinitatis responsum inter
+operandum accepit, et bono incoepto divina benevolentia
+benigno favore occurrit: et quo ordine sunt
+impleta, eodem et scripta.</p>
+<p>Sequitur: <hi>Igitur aedificavit Salomon domum et
+consummavit eam.</hi> Hoc superius jam dixerat: sed
+ecce idem repetit, postquam ex divino responso
+ostendit cujus dignitatis et auctoritatis domus merito
+<pb n="0226C"/>
+fuerit, quam Dominus se velle inhabitare praedixit,
+ac si apertius dixisset: Opus quod tantae dignitatis
+fuit aedificavit et consummavit. Forte ista
+templi commendatio, et ad hoc poterit valere, ut legentium
+quilibet non me audeat arguere, ex eo quod
+viderit me obscuriora quaeque cum tanta diligentia
+discutere et explanare. Superius descripsit templi
+exteriora, nunc incipit describere ejus interiora: <hi>Et aedificavit parietes domus intrinsecus tabulatis cedrinis.</hi> 
+Unus idemque paries marmoreus erat extrinsecus,
+et tabulis coopertus intrinsecus; nec in
+parte tantum, sed totus. Hoc est quod aperte determinatur,
+in eo quod subjungitur: <hi>A pavimento
+domus usque ad summitatem parietum, et usque ad
+<pb n="0226D"/>
+laquearia operuit lignis intrinsecus.</hi> Operuit itaque
+lignis parietes per omnia usque ad summa laquearia.
+Et texit pavimentum domus tabulis abiegnis.
+Ecce differentiam pavimenti atque parietis: illud tegitur
+tabulis abiegnis, iste cedrinis. Post ista describit
+tabulatum quod dividebat exterius templum
+a Sanctis sanctorum: <hi>Aedificavitque viginti cubitorum
+ad posteriorem partem templi tabulata cedrina
+a pavimento usque ad superiora et fecit interiorem
+domum oraculi in sanctum sanctorum.</hi> </p>
+<p>Notandum quod ista tabulata dicuntur erecta a
+pavimento usque ad superiora, non autem usque ad
+laquearia. Nam usque ad laquearia plusquam viginti
+cubiti altitudinis erant: infima siquidem mansio
+templi, ut superius dictum est, triginta cubitos altitudinis
+<pb n="0227A"/>
+tenebat: <hi>Et fecit,</hi> inquit, <hi>interiorem domum
+oraculi in Sanctum sanctorum.</hi> Proprie dicitur oraculum,
+divinum responsum homini a Deo per semetipsum,
+seu per angelum, seu per hominem factum:
+unde et dicimus oracula prophetarum. Oraculum
+etiam dicitur propitiatorium, vel locus ille
+templi ubi responsa dabantur, et unde audiebantur,
+juxta quod in Exodo legitur: <hi>Duos quoque cherubin
+aureos, et productiles facies ex utraque parte oraculi <note>(Exod. XXV)</note>
+          </hi>.
+De hoc sane loco Moysi a Domino dicitur: <hi>Inde praecipiam, et loquar ad te: Super
+propitiatorio scilicet, ac medio duorum Cherubin <note>(ibid.)</note>
+          </hi>.
+Aliquando per oraculum tota domus illa interior
+intelligitur, in qua locus ille continebatur.
+Hoc autem loco nomen oraculi secundum primam
+<pb n="0227B"/>
+acceptionem debet intelligi. Nam eo quod maxime
+dedicata fuerat in id genus officii, recte dicitur domus
+oraculi.</p>
+<p>Sequitur, in quo utriusque domus longitudo determinatur: <hi>Porro quadraginta cubitorum erat ipsum templum
+pro foribus oraculi.</hi> 
+ Si templum exterius quadraginta
+cubitos habuit, ergo interiori domui viginti cubitorum
+longitudo remansit: nam templum sexaginta
+cubitos longitudinis tenuit. Hic oraculi nomine, domum
+interiorem oportet intelligere. Quod pro foribus
+dicitur, idem est ac si ante fores dicatur. Sententiam
+quam superius posuerat repetit, ut addat: <hi>Et cedro omnis domus intrinsecus vestiebatur, habens
+tornaturas, et juncturas suas fabrefactas, et coelaturas
+eminentes. Omnia cedrinis tabulis vestiebantur:
+<pb n="0227C"/>
+nec omnino lapis apparere poterat in pariete.</hi> 
+ De his
+quae hic proponuntur, dicam quod mihi videtur.
+Quod in sequentibus legitur de laminis aureis, idem
+intelligo de tabulis istis: quod istae sicut illae erant
+aequilaterae, opere quadro ad regulam factae, in quibus
+secundum librum erant tornaturae in modum
+circuli torno circumductae, et intra circulos coelata
+cherubin et palmae. Haec autem tabulata erant in
+hunc modum conjuncta. Inter postes muro intrinsecus
+adhaerentes, et ab invicem aequa mensura
+distantes, trabeculae quaedam hinc inde postibus
+affixae, a pavimento usque ad laquearia ordinatae
+erant, quae descriptas tabulas a superiori et inferiori
+parte excipiebant: nam earum incastraturis
+ipsae tabulae insertae et clavis affixae erant. Hae ergo
+<pb n="0227D"/>
+trabeculae junctae vocantur; quoniam tabulata parietum
+ex ipsis in unam compagem jungebantur.
+Juxta eamdem formam et similibus lignis quibus
+tabulae erant compactae a superiori et inferiori
+parte, intellige etiam junctas in utroque latere. In
+istis autem juncturis artificiosa quaedam concatenatio,
+nodosaque plectarum perplexio coelata erat,
+sicut liber Paralipomenon, si bene recolo, in his
+verbis commemorat: <hi>Sculpsitque in ea</hi> (hoc est in
+domo) <hi>palmas: et quasi catenulas se invicem complectentes <note>(II Paral. III)</note>
+          </hi>.</p>
+<p>Sequitur: <hi>Oraculum autem in medio domus in
+interiori parte fecerat, ut poneretur ibi arca foederis
+Domini.</hi> Per oraculum hoc loco locum illum in quo
+<pb n="0228A"/>
+arca inter cherubin media stabat intelligere debemus:
+nam domus interior non fuit in medio exterioris
+domus, nec esse potuit in medio sui ipsius.
+In eo autem quod dicit in medio domus, per domum
+hoc loco totum templum oportet intelligere,
+et in eo quod addit, in interiori parte, per interiorem
+partem, interiorem domum debemus accipere.
+Subsequenter autem oraculum, pro tota domo interiori
+ponitur, in eo quod statim adjungitur: <hi>Porro
+oraculum habebat viginti cubitos longitudinis et viginti
+cubitos latitudinis, et viginti cubitos altitudinis:
+et operuit illud, atque vestivit auro purissimo.</hi> 
+Quod viginti cubitos altitudinis dixit, de illo pariete
+intelligi voluit, qui specialiter pro oraculo
+factus fuit: de quo et superius mentionem fecit.
+<pb n="0228B"/>
+Forte aliquis aestimabit, quod primum coenaculum
+eo loci demissius fuerit. Sed in medium ducimus
+quod in Paralipomenon legimus citius fortassis
+elucescet quod quaerimus. Nam postquam de interiori
+domo, et duobus cherubin egit, statim adjungit: <hi>Fecit quoque velum ex hyacintho, purpura, coccino
+et bisso; et intexuit ei cherubin.</hi> 
+ Quis dubitet
+intelligendum esse de hoc velo quod legitur in
+Evangelio: <hi>Et scissum est velum templi a summo
+usque deorsum? <note>(Marc. V.)</note>
+          </hi> In hoc autem omnes doctores,
+et Scripturarum expositores consentiunt, quoniam
+ad hoc scissum est velum, ut paterent ea quae
+erant intra Sancta sanctorum. Ubi ergo, obsecro,
+hoc velum pendebat, quod sancta et Sancta sanctorum
+ab invicem dividebat. Si dicimus quia ante
+<pb n="0228C"/>
+parietem appensum fuerit, quid ejus scissio profuit
+si ipso scisso paries integer remansit? Tenenda itaque
+est absque ambiguo quod dictum velum contra
+illos decem cubitos in superioribus pendebat, qui
+parietem viginti cubitorum altitudinis excedebat,
+et in ea parte sanctum a Sanctis sanctorum dividebat.
+Ut autem melius intelligatur quod de situ arce,
+seu duorum cherubin dicere volumus, veniat in medium
+quod de his in Paralipomenon in hunc modum
+legimus: <hi>Et intulerunt sacerdotes arcam foederis
+Domini in locum suum, id est, ad oraculum templi,
+in Sancta sanctorum subter alas cherubin, ita ut
+cherubin expanderent alas suas super locum in quo
+posita erat arca, et ipsam arcam tegerent cum vestibus
+<pb n="0228D"/>
+suis.</hi> Vectium autem quibus portabatur arca, quia
+paululum longiores erant, capita patebant ante
+oraculum. Si vero quis paululum fuisset extrinsecus,
+eos videre non poterat.</p>
+<p>Notandum itaque quid de arcae vectibus hoc in
+loco legis, qui secundum lectionem Exodi semper
+erant in arcae circulis, et nunquam extrahebantur
+ab eis. Dicitur itaque de his vectibus qui arcae circulis
+inserti erant, quod eorum capita extra oraculum
+propius existentibus parebant: nam a paululum
+remotis videri non poterant. Ex his itaque
+datur intelligi quod vectes, qui arcam portabant, ex
+una parte super summitatem parietis viginti cubitorum
+altitudinis jacebant; ita ut eorum capita extrinsecus
+apparerent: quae quidem capita dictum
+<pb n="0229A"/>
+velum in id loci descendens ab exteriore parte velabat.
+Qui igitur juxta parietem stabant, inter summitatem
+parietis et extremitatem veli apparentia
+videre poterant; remotiores vero propter interpositionem
+veli videre non poterant. In hanc sententiam
+concurrere videtur quod de eisdem vectibus in
+hoc eodem libro in sequentibus legitur: <hi>Cumque
+eminerent vectes, et apparerent summitates eorum
+foris sanctuarium ante oraculum, non apparebant
+ultra extrinsecus.</hi> Et hoc item loco habemus, quod
+summitates vectium ex eminenti loco apparebant
+foris sanctuarium et ante oraculum. Nota
+quod dicitur cum additur: Non apparebant ultra
+extrinsecus. Prius ostenditur quod extrinsecus apparebant;
+postea dicitur quod ultra extrinsecus
+<pb n="0229B"/>
+non apparebant. Novus et inusitatus dicendi modus,
+ultra extrinsecus. Locus qui ante oraculum parieti
+adhaerebat extrinsecus quidem erat: cujus operatione
+quaelibet remotior ultra extrinsecus dici poterat.
+Quantum ergo summitates vectium de solum
+adjacenti loco videri poterant, dicitur quod ultra
+extrinsecus non apparebant. Ex his facile est perpendere,
+quod oportuit esse, quod vectes exciperet
+ab interiori parte. Sed quantum quomodo id fieri
+potuit facile perpenditur, legentium conjecturae
+relinquitur. In eo quod dicitur, quod altare de cedro
+vestivit, notatur quod prima ejus factura de lapide
+fuerit. Ea vero quae de duobus cherubin sequuntur,
+tam sunt aperta, ut non egeant expositione aliqua: <hi>Et in ingressu oraculi fecit ostiola de lignis olivarum,
+<pb n="0229C"/>
+postesque angulorum quinque, et duo ostia de lignis
+olivarum.</hi> 
+ Contra usum nostrae consuetudinis tam in
+ingressu oraculi quam in ingressu templi duo ostia
+erant: et utrobique unum ab interiori, alterum
+ab exteriori parte altrinsecus pendebat, et utrumque
+ex duobus ostiolis, hoc est ex duabus valvis conjunctum
+erat. Non enim valvarum more unum
+ostiolum pendebat ex parte una, et aliud ex parte
+altera; sed duo ostiola aurea quadam concatenatione
+in unum ostium ita erant conjuncta, ut invicem
+complicata medietatem introitus tenerent, explicata
+vero totum ostium clauderent.</p>
+<p>Notandum quod postes ita dolantur quandoque,
+ut habeant angulos quatuor, aliquando ut habeant
+<pb n="0229D"/>
+angulos quinque, aliquando autem habent senos,
+vel septenos, seu etiam octonos. Factura igitur
+operis exprimitur, in eo quod dicitur: <hi>Postesque
+angulorum quinque.</hi> Est autem intelligendum hos
+postes ante oraculi introitum erectos tantum a pariete
+distare quantum ostium plicatum se poterat
+extendere, tantum vero inter unum et alterum
+spatii interesse quantum ostium explicatum poterat
+claudere. Interstitium vero quod inter postes
+et parietes erat, tam a superiori parte quam ab
+utroque latere tabulatum texebat. Unum ex ostiis
+pendebat de poste ex parte ista; alterum autem
+de pariete, sed ex parte alia. Bene autem prius dicitur,
+quod fecerit ostiola, postea quod fecerit ostia,
+quantum ex quatuor ostiolis duo ostia sunt facta.
+<pb n="0230A"/>
+Superfluum vero videtur quod expressio materiae
+reperitur. Ecce habemus de ingressu oraculi: videamus
+nunc quid dicatur de introitu templi: <hi>Fecitque
+in introitu templi postes de lignis olivarum
+quadrangulos, et duo ostia de lignis abiegnis altrinsecus.</hi> 
+In superioribus habuimus postes quinqueangulos,
+hic habemus postes quadrangulos. Ibi describuntur
+ostia de lignis olivarum, hic vero de lignis
+abiegnis; quod vero dicit altrinsecus, intelligendum
+est tam de istis, quam de illis. Nam utrobique
+duo ostia erant, et utrobique unum ex parte
+australi, et alterum eorum ex parte aquilonari
+pendebat, ita ut unum eorum affigeretur ex parte
+interiori; alterum vero ex parte exteriori. Tam illis
+quam istis convenit quod de istis adjungit: <hi>Et
+<pb n="0230B"/>
+utrumque ostium duplex erat, et se invicem tenens
+aperiebatur.</hi> Utrobique utrumque ostium duplex
+erat; quoniam utrumque ex duobus ostiolis, hoc
+est, duabus valvis, sicut de interioribus jam docui,
+compositum fuerat. Valvae autem non hinc inde pendentes,
+sed se invicem tenentes aperiebantur, et in
+aperiendo vel claudendo modo invicem plicabantur,
+modo explicabantur.</p>
+<p>Nota quod in introitu portae hinc inde solent in
+ipso muro fieri quaedam ejecturae, ad quas ostium
+utrobique reverberatur cum introitus clauditur.
+Sed quantum in hoc templo omnia intrinsecus operiebantur
+ligno, in loco hujusmodi ejecturarum erant
+duo postes ex parte interiori et duo alii ex parte
+exteriori. Unusquisque autem, ut dicitur, quadrangulus
+<pb n="0230C"/>
+erat, prout ratio operis in eo loci, seu etiam
+ratio mysterii exigebat. His quae hoc loco de ostiis
+legimus, simile est quod in descriptione templi apud
+Ezechielem invenimus: <hi>Et duo ostia,</hi> inquit, <hi>erant
+in templo, et in sanctuario; et in duobus ostiis ex
+utraque parte bina erant ostiola, quae in se invicem
+plicabantur. Bina enim ostiola erant ex utraque parte
+ostiorum.</hi> Quod in sequentibus dicit de muro interiori
+atrii, intelligendum est et de muro templi: sed
+de eo dicitur, de quo minus videretur: <hi>Et aedificavit,</hi> 
+inquit, <hi>atrium interius tribus ordinibus lapidum politorum,
+et uno ordine lignorum cedri.</hi> In praecipuis
+aedificiis temporis nostri superficiales tantum lapides
+tam interiores quam exteriores solent poliri:
+<pb n="0230D"/>
+sed media inter hos minoribus lapidibus et minime
+politis solent repleri. Sed in operibus Salomonis
+tam illi qui medium tenebant, quam illi qui interius
+exteriusque apparebant, perpoliti erant, ita ut essent
+ibi tres ordines lapidum politorum quo quidem
+superficialium, tertius interjacentium; quartus vero
+ordo erat de ligno, quoniam omnia intus vestiebantur
+cedro. Expletis quae de templi aedificatione dicturus,
+erat, repetit quae in descriptionis exordio
+praemiserat. Repetit namque, et dicit quo tempore
+aedificatio fuerit inchoata, ut addat quo tempore
+fuerit consummata, et inferat quanto tempore fuerit
+perfecta: <hi>Anno quarto fundata est domus Domini: in
+mense zio, et in anno undecimo mense bul, ipse est
+octavus, perfecta est domus in omni opere suo, et in
+<pb n="0231A"/>
+universis utensilibus. Aedificavitque eam annis septem.</hi> 
+Expleta descriptione templi, addit de domo quam
+Salomon fecit sibi, adjungens et de domo saltus
+Libani. De domo regia latius agit; de domo saltus
+Libani solummodo mentionem facit: <hi>Domum
+autem suam aedificavit Salomon, decem et tribus annis
+et ad perfectum usque perduxit.</hi> Ecce de tempore,
+et facta de domo saltus Libani interpositione: adjungit
+de regiae domus modo et magnitudine. Nam
+quod ad ea quae de domo regia praemiserat, adjunxit:
+aedificavit quoque domum saltus Libani, interpositio
+fuit: non enim de domo saltus Libani intelligi debet,
+quod de domus mensura adnectit, cum dicit: <hi>Centum cubitorum longitudinis, et quinquaginta cubitorum
+latitudinis, et triginta cubitorum altitudinis,
+<pb n="0231B"/>
+et quatuor deambulacra inter columnas cedrinas.</hi> 
+ In
+domo autem saltus Libani arma reponebantur, sicut
+in sequentibus legitur: <hi>Fecit quoque rex Salomon
+ducenta scuta de auro, et trecentas peltas ex auro
+probato. Posuitque ea rex in domo saltus Libani <note>(III
+Reg. X)</note>
+          </hi>. Unde et idem locus armamentarium dicebatur.
+Hinc est quod de dictis armis in Paralipomenon
+scribitur: <hi>Posuitque ea rex in armamentario,
+quod erat consitum nemore <note>(II Paralip. IX)</note>
+          </hi>.</p>
+<p>Nota quod locus ille nemore consitus dicitur,
+unde et pro nonnulla similitudine saltus Libani vocabatur.
+Ecce de armamentario: nunc consideremus
+ea quae dicuntur de regia domo. Patet de mensura,
+videamus quae dicuntur de ipsius factura. Sicut ex
+sequentibus colligitur: triplex ordo columnarum ibi
+<pb n="0231C"/>
+erat, quorum unusquisque quindecim columnas
+habebat. Unus ordo totam domum a fronte in frontem
+in duas medietates dividebat. Alius autem ordo
+in gemina distinguebat medietatem unam; tertius
+vero in totidem medietatem aliam. In hunc igitur
+modum erant ibi quatuor deambulacra triplici columnarum
+ordine distincta. Unde adhuc addit: <hi>Ligna quippe cedrina exciderat in columnas: et tabulatis
+cedrinis vestivit totam cameram.</hi> 
+ Dicendo cameram,
+satis compendiose exprimit facturam operis
+a superiori parte. Ex eo namque notatur quod inter
+columnas ipsas laquearia non erant plana, sed arcuata.
+Nam cameron idem sonat Graece quod curvum,
+vel convexum Latine. Tota itaque superincumbens
+<pb n="0231D"/>
+devexitas cedrinis tabulis vestiebatur, quae
+quadraginta et quinque columnis sustentabatur.
+Unus autem ordo habebat columnas decem et quinque
+contra se invicem positas. Ex hoc loco habemus quod
+superius de ordinibus columnarum et deambulacris
+jam diximus. Attende quam argute factura porticus
+exprimitur, in eo quod porticus columnarum
+nominatur, ex eo videlicet quod ab exteriori parte
+muro carens columnis distinguebatur. Quod post
+majorem porticum, de caeteris duabus subsequenter
+adjungitur, sic intelligendum videtur, quod una
+earum erat in fronte majoris porticus ex parte una,
+et alia simili modo ex parte altera, in qua erat tribunal,
+hoc est sedes judiciaria. De domo filiae Pharaonis
+breviter mentionem facit, ubi et de praemissis
+<pb n="0232A"/>
+aedificiis tam reginae quam regis generalem sententiam
+subjungit, cum dicit: <hi>Omnia lapidibus pretiosis,
+qui ad normam quamdam atque mensuram tam
+intrinsecus quam extrinsecus serrati erant, a fundamento
+usque summitatem parietum <note>(III Reg. VII)</note>
+          </hi>. Lapides
+aedificiis tam intrinsecus, quam extrinsecus
+serrati dicuntur, quando superficiales lapides tam
+ex parte interiori quam ex parte exteriori ita ordinantur
+ut juncturae superpositorum non concurrant
+cum juncturis suppositorum.</p>
+<p>Sed nota quod dicitur: Ad normam quamdam
+atque mensuram. Serrantur autem ad unam mensuram,
+quando junctura superiorum semper, occurrerit
+contra medium inferiorum. Sed qui prius dixerat
+quod serrati erant tam intrinsecus, quam extrinsecus
+<pb n="0232B"/>
+quid est quod adhuc adjungit, et intrinsecus
+usque ad atrium majus. Sed quod prius dicitur
+intrinsecus, intelligendum est pro superficie interiori,
+quod secundo repetitur intrinsecus, intelligendum
+est pro intimo ipsius muri: nam lapides qui
+latebant intrinsecus serrati erant cum lapidibus qui
+hinc inde apparebant extrinsecus: <hi>Fundamenta autem
+de lapidibus pretiosis, de lapidibus magnis, decem,
+sive octo cubitorum: et desuper lapides pretiosi aequalis
+mensurae secti erant.</hi> Sicut in fundamento, licet
+in superioribus, non potuerit omnes usquequaque
+esse ejusdem mensurae, alioquin scriptor invenitur sibi
+ipsi contrarius esse. Sed qui erant ejusdem facturae et
+formae, erant et ejusdem mensurae: et qui habebant
+positionem consimilem, etiam habebant mensuram
+<pb n="0232C"/>
+aequalem.</p>
+<p>Sequitur: <hi>Similiterque cedro.</hi> Similiter, inquit,
+erat de cedro: nam ad modum lapidum de cedro,
+etiam fiebat conformis operatio. In eo quod superius
+dixerat: atque ad Urium, scilicet majus, non satis
+intelligitur utrum ipsum atrium a praemissa generali
+sententia excludatur, aut includatur; sed determinatur
+in eo quod hic adjungitur: <hi>Et atrium majus
+rotundum trium ordinum de lapidibus sectis, ut unius
+ordinis de dolata cedro.</hi> Idem dixerat longe superius
+de interiori atrio domus Domini: quod hic dicitur
+de his aedificiis, sed hoc loco repetitur pro similitudine
+operis. Inde est quod sequitur: <hi>Nec non et in
+atrio domus Domini.</hi> Non in quolibet: <hi>Sed interiori,
+<pb n="0232D"/>
+et porticu domus Domini.</hi> Ea quae de columnis aereis
+dicuntur videntur multum obscura; et nisi subtiliter
+discernantur, ex ipsa nominum aequivocatione
+valde confusa. Dicitur itaque de his columnis: <hi>Et
+fixit duas columnas aeris, decem et octavo cubitorum
+altitudinis; et linea duodecim cubitorum ambiebat
+columnam utramque.</hi> Ecce hic, decimo octavo cubitos
+altitudinis dicuntur habere columnae, in Paralipomenon
+autem leguntur hahere cubitos trigesimo
+quinto <note>(II Paral. III)</note>. Sed quod hoc loco de columnae
+altitudine dicitur, de solo stylo intelligitur quod inter
+basim et capitellum erigitur. Columnae autem nomen
+quandoque strictius, quandoque vero largius
+accipitur. Secundum id autem quod largius accipitur,
+quatuor membra habere videtur. Primo basim,
+<pb n="0233A"/>
+secundo stylum quod super basim in altum erigitur,
+tertio epistylium quod supra stylum ponitur, quarto
+capitellum quod super epistylium in summis locatur.
+Columnae itaque nomine quandoque totum hoc intelligimus;
+quandoque solum stylum, sicut et hoc
+loco uti jam diximus. Nomen etiam capitelli, modis
+solet pluribus accipi. Nam modo ponitur pro
+epistylio, modo pro eo quod superponitur ipsi epistylio,
+modo pro utroque pariter accepto. Sed epistylium
+dici non solet nisi quod stylo inhaeret, unde et
+nomen accepit. Nam epistylium idem sonat quod
+super. Inde epistylium, quod ponatur supra stylum.
+In hac autem descriptione, cum legitur caput columnae,
+oportet diversis in locis diverso modo accipere.
+Nam modo ponitur pro capitello, modo pro
+<pb n="0233B"/>
+epistylio modo pro ipsius styli supremo. Hujusmodi
+aequivocationes solent sensum legentium confundere,
+eorum videlicet qui nesciunt, vel negligunt ea
+quae legunt subtili examinatione discutere. Quoniam
+quae de capitellis dicuntur, valde perplexa videntur,
+dicam prius quid mihi videtur inter secundum quod
+potui de hoc libro, vel libro Paralipomenon, colligere,
+et sic revertar ad expositionem litterae. Epistylium
+in imo quatuor cubitos latitudinis, tres autem
+cubitos altitudinis habebat, et in modum lilii fabricatum
+erat. Flos lilii a rotunditate inchoatur, et
+paulatim ad superiora dilatatur; in summis autem
+tot latera quot folia habere videtur. Ecce de ejus
+mensura, ejusdemque factura.</p>
+<p>Secundum capitellum quinque cubitorum altitudinis
+<pb n="0233C"/>
+esse describitur, et tot laterum quot epistylium
+esse videtur, ut ex eo ipso epistylio melius congrueret,
+et ipsa congruentia compositionem ornaret. Ab
+eadem autem quantitate, in quam desinit primum,
+solet inchoari capitellum secundum et per omne
+latus oblique ascendendo saepe usque ad ejus medium
+dilatari, superior autem ejus medietas solet
+sursum directe et perpendiculariter erigi. Ex aliis
+itaque perpendimus quid de his sentire debeamus.
+In hujus autem secundi capitelli medio ubi operis
+factura variabatur, quaedam ejectura in modum
+circuli insculpta erat, quae totum capitellum, usquequaque
+cingebat, qualis in epistylio fieri solet
+in ea parte qua stylo adhaeret. Unum autem hujusmodi
+circulum, ut dictum est habebat in medio, et
+<pb n="0233D"/>
+juxta eamdem similitudinem alium habebat in imo
+ubi adhaerebat ipsi epistylio. Sed quoniam hos circulos
+Scriptura vocat funiculos, intelligimus quod
+ita essent coelati, ut velut in modum triplicis funiculi
+viderentur esse contorti. Erat etiam contra
+superiorem ejusdem capitelli medietatem quaedam
+operis factura in modum retis ex aere concatenata:
+quae eam undique ambiebat, et ab ejus summitate
+usque contra primum funiculum dependebat; ubi et
+centum malogranata appensa, et circa eumdem
+funiculum per gyrum ordinata erant. Erant autem
+et huic retiaculo alia centum interposita,
+et in medio ipsius per gyrum ordinata, ita ut
+eorum ambitus totum retiaculum in septena versuum
+<pb n="0234A"/>
+distingueret, et velut in aequa divideret.
+Nihil aliud hoc loco dicimus unum retiaculi versiculum,
+nisi unum ordinem connexionum vel concatenationum
+unius ordinis foramina distinguentium.
+Quale retiaculum in capitello ordinavimus contra
+medietatem superiorem, tale cum tot malogranatis
+taliter ordinatis intellige et ipsum habere contra
+medietatem inferiorem. Ecce super istis jam dixi
+secundum quod potui de ipsa Scriptura colligere;
+sed nunc redeamus ad expositionem litterae: <hi>Duo
+quoque capitella fecit: quae ponerentur super capita
+columnarum fusilia ex aere.</hi> Nota quod descriptionem
+suam ab illo capitello, incipit, quod in hoc opere
+supremum locum tenuit: <hi>Quinque cubitorum altitudinis
+capitellum unum, et quinque cubitorum altitudinis
+<pb n="0234B"/>
+capitellum alterum.</hi> Ecce de mensura.</p>
+<p>Sequitur: <hi>Et quasi in modum retis, et catenarum
+invicem miro opere contextarum.</hi> Haec capitella quae
+catenulas habebant, epistyliis secundum Paralipomenon,
+superposita erant. Legitur namque ibi: <hi>Fecit
+columnas duas, et epistylia, et capita, et quasi quaedam
+retiacula quae capita regerent super epistylia <note>(II Paral.
+III)</note>
+          </hi>. Ecce de retiaculis dicit, quod tegerent
+capita quae erant super epistylia. Et nota quod quae
+ibi capita, hinc dicuntur capitella. Hic autem
+auctor capita pro epistyliis posuit, cum dicit: <hi>Duo quoque capitella fecit, quae ponerentur super
+capita,</hi> 
+ id est <hi>super epistylia columnarum.</hi> Non autem
+intelligendum est de his capitellis, quod ea
+sculpserit in modum retis. Paralipomenon autem
+<pb n="0234C"/>
+liber scribit dictas catenulas capitellis superpositas,
+non insculptas: <hi>Et fecit,</hi> inquit, <hi>quasi catenulas in
+oraculo, et superposuit eas capitibus columnarum.</hi> 
+Paulo post vero dicitur in descriptione ista, quod
+haec capitella fuerint contra retiacula. Sed quod ibi
+catenulae, vel retiacula dicuntur superposita, hic
+expressius, et magis proprie notantur contraposita.
+Additur adhuc de his capitellis, vel retiaculis: <hi>Utrumque capitelium columnarum fusile erat. Septena
+versuum retiacula in capitello uno, et septena retiacula
+in capitello altero.</hi> 
+ Ecce secundum quod superius
+jam diximus ex his verbis manifeste colligitur,
+quod retiacula in utroque capitello septenis
+versibus distinguebantur. Planius forsitan esset,
+si septenorum versuum, non septena versuum
+<pb n="0234D"/>
+retiacula dixisset. Sed nota quod solum unum ordinem
+concatenationum capitello circumductum dici
+velit retiaculum, sicuti quantulamcunque panni
+abscissuram dicimus pannum. Sed non multum
+curandum quid, quibus verbis dicatur, dummodo
+sensus auctoris veraciter intelligatur</p>
+<p>Sequitur: <hi>Et perfecit columnas, et duos ordines
+per circuitum retiaculorum singulorum, ut tegerent
+capitella quae erant super summitatem malogranatorum.</hi> 
+Sicut superius jam diximus in utroque capitello
+erant retiacula duo, et bis septem versus in
+utroque retiaculo, ita ut unus ordo septem versuum
+esset supra centum malogranata interposita; alius
+autem ordo, septem similiter versuum esset supra
+<pb n="0235A"/>
+centum malogranata, iu uno appensa. Bene ergo
+dicitur: <hi>Perfecte duos ordines per circuitum retiaculorum
+singulorum.</hi> Quoniam unumquodque habebat
+duos ordines septenorum versuum. Erant autem ista
+retiacula septenorum versuum ita ordinata, ut
+tegerent capitella: nam ante ipsa capitella pendebant,
+et ea per circuitum ambiebant. Quod autem
+adjungitur: <hi>Quae erant super summitatem malogranatorum,</hi> 
+referendum est non tam ad capitella quam
+ad retiacula. Quae, inquit, retiacula singula erant
+super summitatem malogranatorum, quoniam utriusque
+retiaculi superior medietas erat super summitatem
+malogranatorum interpositorum, inferior autem
+medietas erat super summitatem mologranatorum
+appensorum.</p>
+<p>
+          <pb n="0235B"/>Sequitur: <hi>Eodem modo fecit capitello secundo.</hi> 
+Quomodo, inquit, fecit capitello quod operatus est
+primo, eo modo fecit et capitello quod operatus est
+secundo. Respectu enim operationis, sive descriptionis,
+vult illud dici primum; istud secundum.
+Ecce de capitellis, nunc addit de epistyliis: <hi>Capitella
+autem quae erant super capita columnarum,
+quasi opere lilii fabricata erant in porticu, quatuor
+cubitorum <note>(III Reg. VI)</note>
+          </hi>. Compendiose satis eorum
+tam facturam, quam mensuram describit. Capitella
+autem, inquit, id est, epistylia quae erant
+super capita columnarum, id est, super summitatem
+utriusque styli, quasi opere lilii fabricata erant,
+ecce de factura; in porticu, ecce de loco; quatuor
+cubitorum, ecce de mensura. Nota quod epistylia
+<pb n="0235C"/>
+vocat hic capitella. Item notandum, quod superius
+per capita columnarum voluit intelligi epistylia; hic
+autem per capita columnarum vult intelligi stylorum
+suprema. In fine autem hujus libri hoc capitellum,
+vel potius epistylium tres cubitos altitudinis
+habere describitur, unde et illud quod hoc loco de
+ejus mensura legitur, de ejus latitudine recte intelligitur.
+Erat itaque quatuor cubitorum latitudinis
+circa inferiora, hoc est, paulo largior quam columna,
+in modum vero lilii dilatabatur erga superiora.</p>
+<p>Sequitur: <hi>Et rursum alia capitella in summitate
+columnarum desuper, juxta mensuram columnae contra
+retiacula.</hi> In hoc quod modo dicit, redit ad capitella
+quae prius descripsit. Quod enim dicit, et rursum
+<pb n="0235D"/>
+alia, intelligendum est esse alia, non a quatuor
+praedictis, sed duobus novissime descriptis.
+Sed, ne modo fiat dubitatio aliqua, determinatur ex
+eo quod dicitur, contra retiacula. Nam quod dicitur
+in summitate columnarum desuper, si quis de
+tertio pari capitellorum intelligere voluerit, profecto
+ordinatio eorum contra dicta retiacula non erit.
+Quod vero dicit capita facta juxta mensuram columnae,
+non sic oportet intelligere, quasi utrorumque
+grossitudo esset ejusdem mensurae. Ista assignatio
+non est aequalitatis, sed proportionalitatis. Quod
+enim capitellorum mensuram, juxta mensuram columnae
+assignat, idem est ac si dicat: Talis erat
+mensura capitellorum, qualem exigebat magnitudo
+columnarum. De capitellis igitur et retiaculis breviter
+<pb n="0236A"/>
+repetit, ut de malogranatis competentius adjungat,
+de quibus hucusque nil dixerat: <hi>Malogranatorum
+autem ducenti ordines erant in circuitu capitelli
+secundi <note>(III Reg. VII)</note>
+          </hi>. Si ordinem positionis attendas,
+primo supra stillim [stylum?] ponebatur epistylium,
+secundo loco illud capitellum quod habebat in duobus
+retiaculis ducentos ordines malogranatorum. Juxta
+hanc considerationem epistylium recte dicitur capitellum
+primum; illud vero de quo modo loquitur,
+secundum: <hi>Malogranatorum,</hi> inquit, <hi>ducenti ordines
+erant in circuitu capitelli secundi.</hi> Ubi nulla pluralitas
+est, ordo esse non potest. Ubicunque itaque est ordo,
+non possunt esse minus quam duo. Ubi ergo ducenti
+ordines malogranatorum fuerunt, non minus quam
+quadringenta esse potuerunt. Longe inferius de his
+<pb n="0236B"/>
+malogranatis iterum legimus: <hi>Duo versus malogranatorum
+in retiaculis singulis.</hi> Hic dicuntur esse in
+circuitu capitelli sed modus determinatur ibi; quoniam
+in retiaculis erat, quae capitellum ambiebant.
+Sed non video quomodo in retiaculis esse potuissent,
+nisi interposita vel appensa fuissent. Sed ex Paralipomenon
+habemus quod centum fuissent interposita:
+unde et constat quod reliqua fuissent appensa: <hi>Fecit,</hi> 
+ inquit, <hi>malogranata centum quae catenulis interposuit <note>(II Paralip. III)</note>
+          </hi>.
+Si ergo centum malogranata
+uni retiaculo interposita ita fuerunt circa capitellum
+ordinata, ut quodlibet unum haberet e regione
+subter se aliud appensum, profecto unum
+retiaculum continuit ordines centum. Unum autem
+capitellum habebat ut diximus, retiacula duo: et
+<pb n="0236C"/>
+juxta dictum modum erant centum ordines in uno,
+et centum in alio, et impletur quod dicitur. Malogranatorum
+autem ducenti ordines erant in circuitu
+capitelli secundi. Quod autem paucis interpositis
+subjungit, et super capita columnarum opus in modum
+lilii posuit, repetitio est sententiae quam superius
+in his verbis praemisit: <hi>Capitella autem quae
+erant super capita columnarum, quasi opere lilii fabricata
+erant.</hi> </p>
+<p>Et notandum quidem quam sit auctori familiare
+eamdem sententiam repetere. Post ista vas quoddam
+describit, quod et mare vocat, in quo sacerdotes
+manus et pedes lavabant, quando in templo
+ministraturi erant: <hi>Fecit quoque mare fusile, decem
+<pb n="0236D"/>
+cubitorum a labio usque ad labium, rotundum in
+circuitu: quinque cubitorum altitudo ejus.</hi> Haec omnia
+satis sunt aperta. Sed quod statim adnectitur,
+omnino impossibile videtur. Et resticula triginta
+cubitorum cingebat illud per circuitum. Si enim vas
+aliquod rotundum habeat decem cubitos de uno
+latere in latus oppositum, impossibile est ut illud
+cingat resticula triginta cubitorum. Sed haec quaestio
+melius in sequentibus solvitur, sicut suo loco
+dicetur. Circa superiora ut dicitur, resticula triginta
+cubitorum ipsum cingebat; inferius autem ubi resticula
+decem cubitorum ambiri poterat, delectabiles
+quasdam et jocosas caelaturas habebat, hoc est quod
+statim adjungit cum dicit: <hi>Et sculptura subter labium
+circuibat illud decem cubitis ambiens mare. Duo ordines
+<pb n="0237A"/>
+sculpturarum striatarum erant fusiles.</hi> Quae dicuntur
+satis patent, et expositione non indigent: <hi>Grossitudo autem luteris trium unciarum erat.</hi> 
+ Per
+grossitudinem spissitudinem debemus intelligere;
+per luterem, hic idem quod mare.</p>
+<p>Sequitur: <hi>Labium ejus quasi labium calicis, et
+folium repandi lilii.</hi> Ex hac descriptione intelligitur
+quod ejus labium ad exteriora reflectebatur: unde
+et illa mensura subter labium sumpta intelligitur
+quae superius in his verbis describitur: <hi>Et resticula,
+tringinta cubitorum cingebat illud per circuitum.</hi> Nam
+et illa mensura, decem cubitorum, non est sumpta
+subter labium: sed ubi ibi legitur a labio usque ad
+labium: <hi>Duo millia batos capiebat, et tria millia metretas.</hi> 
+De his mensuris melius videtur supersederi
+<pb n="0237B"/>
+quam aliquid dicere; quoniam sub eisdem nominibus
+apud diversos diversae intelliguntur mensurae.
+In sequentibus quaedam vasa describuntur, in
+quibus holocausta lavabantur quae liber iste luteres
+vocat, Paralipomenon conchas nominat. De his
+conchis ibi in hunc modum legimus: <hi>Fecit quoque
+conchas decem et posuit quinque a dextris, et quinque
+a sinistris, ut lavarent in eis omnia quae in holocausto
+oblaturi erant <note>(II Paral. IV)</note>
+          </hi>. In hoc libro prius luterum
+bases quam luteres describit, cum dicit: <hi>Et
+fecit bases decem aereas quatuor cubitorum longitudinis
+bases singulas, et quatuor cubitorum latitudinis,
+et trium cubitorum altitudinis.</hi> Quoniam obscurum
+est quod de basium mensura dicitur, dico prius
+quod mihi inde videtur; postea littera explanabitur.
+<pb n="0237C"/>
+Sed, ut melius intelligatur quid inde sentimus, singula
+quasi membratim tractemus. Primo itaque ponantur
+duae tabulae aereae ex majore sui parte perforatae
+quatuor cubitorum, tam in longitudine quam
+in latitudine. Una habeat foramen quadratum aequilaterum,
+altera rotundum, ita ut quadrati latus
+non excedat diametrum alterius. Tabula vero cum
+foramine quadro jaceat in imo. Supra hanc autem
+circa ejus foramen erigantur quatuor tabulae, tam
+primae tabulae quam sibi invicem per quatuor angulos
+foraminis firmiter conjunctae: et teneant tres
+cubitos in altitudine. Per quatuor autem angulos
+jacentis tabulae juxta erectarum juncturam erigantur
+columnae aereae habentes tres cubitos in altitudine.
+<pb n="0237D"/>
+Tabula autem cum rotundo foramine tam
+tabulis erectis, quam columnis debet ita superjacere,
+ut omnia jungat superius, sicut prima tabula
+omnia in unum conjungit inferius. Super foramen
+autem supremae tabulae, quaedam quasi hemisphaerii
+concavitas debet collocari: formam habens per
+omnia quasi pelvis inversae. Summitas namque hujus
+hemisphaerii in planam quamdam rotunditatem
+deficiebat, quae cubitum et dimidium quaquaversum
+tenebat, cui luter insidebat. Circa vero basium superiora,
+per quatuor partes sustentacula quaedam,
+quae Scriptura humerulos vocat, exibant: quae
+ventres luteris ab omni parte excipiebant et sustinebant.
+Quod de rotis et earum axi dicitur satis
+apertum videtur, sed nunc ad litterae expositionem
+<pb n="0238A"/>
+revertamur. Dicitur itaque de his basibus: <hi>Et ipsum
+opus basium interrasile erat.</hi> Hoc dicitur pro ea
+parte in qua erant caelaturae. Unum est genus caelaturae
+in quo cujuslibet corporis lineamenta superficietenus
+circumscribuntur; aliud in quo tota corporis
+imago membratim formatur, et campus qui
+caelaturis interjacet cavatur, et in parte vel funditus
+abraditur. Itaque ad distinctionem alterius generis
+caelaturae, dictum est opus basium interrasile.</p>
+<p>Sequitur: <hi>Et sculpturae inter juncturas, et inter
+coronulas et plectas, et leones, et boves, et cherubin;
+et in juncturis similiter desuper.</hi> Quatuor latera tabulae
+in imo suppositae juncturas vocat: quorum
+unumquodque duas hinc inde columnas, et adhaerentem
+<pb n="0238B"/>
+tabulam erectam in unum conjungebant;
+juncturae autem desuper, latera supremae tabulae dicuntur:
+quibus a superioribus similiter in unum
+jungebantur, quibus singulis sculpturae inesse describuntur.
+In basibus autem columnare per latera,
+in tabulis illis quae per quadrum stabant erectae, coronulae
+erant insculptae, similiter et plectae velut vimina
+quaedam, invicem artificiose perplexae. Inter has itaque
+plectas ubi in se invicem in modum circuli replicabantur
+similiter et inter coronulas et plectas insculpti
+perhibentur et leones, et boves, et cherubin: <hi>Et
+subter leones et boves quasi lora ex aere dependentia,
+et quatuor rotae per bases singulas, et axes
+aerei.</hi> Omnia ista satis aperta. Et quod adjungitur
+de humerulis patet ex ante jam dictis: <hi>Et per quatuor
+<pb n="0238C"/>
+partes quasi humeruli subter luterem fusiles
+contra se invicem respectantes.</hi> Plana sunt ista, sed
+quae de luteris factura adjunguntur, subobscura videntur: <hi>Os quoque luteris intrinsecus erat in capitis
+summitate, et quod foris apparebat, unius cubiti
+erat totum rotundum, pariterque habebat unum cubitum
+et dimidium.</hi> 
+ Cogita facturam ipsius luteris
+quasi formam rotundam pixidis operculum non
+habentis. Caput ejus, superiora ipsius; summitas
+capitis ambitus foraminis. Summitas autem capitis,
+id est, margo ipsius foraminis, adhaerentem
+sibi teretem quamdam concavitatem in modum
+fistulae factam cingebat atque conglutinabat: quam
+liberos luteris vocat, quia per ipsum sibi infusa
+transigebat. Hujus autem proceritas semis cubitum
+<pb n="0238D"/>
+tenebat, dimidius vero cubitus in ventrem descendebat,
+unus autem cubitus exterius apparebat.
+Dicitur itaque quia os luteris in capitis ejus summitate
+intrinsecus erat quoniam ejusmodi, quam
+diximus fistulam, marginis supremum intra se concludebat.
+His de luteris factura interpositis ad
+basium descriptionem redit, cum adjungit: <hi>In
+angulis autem columnarum variae coelaturae erant;
+et media inter columna quadrata, non rotunda.</hi> 
+Erant itaque caelaturae non solum in coronulis basium,
+sed etiam in angulis earum qui jacebant extra
+circulum. Intercolumna vocat tabulas superius
+dictas, inter quatuor columnas per quadrum erectas.
+Si autem subjecta tabula rotundum foramen
+<pb n="0239A"/>
+haberet, et circa ipsum rotunda concavitas in altum
+ascenderet, profecto intercolumna non fuissent
+quadrata sed rotunda.</p>
+<p>Sequitur: <hi>Quatuor quoque rotae quae per quatuor
+angulos basis erant, cohaerebant subter basim.</hi> Nam
+axes quibus superpositae bases incumbebant, ab uno
+basium latere transeuntes, et utrinque excedentes,
+et rotis injecti, rotas ad invicem copulabant. Ea
+quae de basibus, vel luteribus in sequentibus adjunguntur,
+ex ante jam dictis perspicua videntur.
+In fine descriptionis columnarum superius descriptarum
+iterum mentionem facit, ubi et aliquid interserit
+quod prius non dixit: <hi>Et perfecit omne
+opus regis Salomonis in templo Domini: columnas
+duas et funiculos capitellorum super capita columnarum
+<pb n="0239B"/>
+duos, et retiacula duo, ut operirent duos
+funiculos qui erant super capita columnarum.</hi> Usque
+modo de funiculis capitellorum nullam mentionem
+fecit, nunc duos super capita columnarum esse definit.
+Funiculos capitellorum eos vocat, quoniam
+capitellis inerant. Sed quod dicitur fecisse super
+capita columnarum funiculos duos, potest in dubium
+venire, an fecerit in singulis singulos, an potius in
+singulis duos. Sed hoc ipsum determinatur ex eo
+quod de retiaculis adjungitur: <hi>Et retiacula duo,
+ut operirent duos funiculos qui erant super capita
+columnarum.</hi> Habemus ex superius positis atque
+expositis, quod duo retiacula erant in singulis capitellis.
+Quod ergo dicit duo retiacula, referendum
+<pb n="0239C"/>
+est ad singula capitella. Singulorum capitellorum
+vero retiacula, duos funiculos operire non possent,
+si duo in singulis non fuissent. Quid adhuc fecerit,
+adjungit cum dicit: <hi>Et malogranata quadringenta
+in duobus retiaculis.</hi> Sciendum pro certo quod hoc
+loco legendum sit, quadringenta non quadraginta,
+secundum quod habent codices multi vitio scriptorum
+depravati. Quod facile convincitur ex eo
+quod superius legitur ubi dicitur: <hi>Malogranatorum
+autem ducenti ordines erant in circuitu capitelli secundi.</hi> 
+Cui ista attestatio non sufficit, per Hebraeos,
+Hebraicam veritatem consulat, et quod dicimus
+verum esse inveniet. Adhuc autem additur de his
+malogranatis, quomodo ordinata erant in retiaculis
+singulis: <hi>Duo versus malogranatorum in retiaculis
+<pb n="0239D"/>
+singulis, ad operiendos funiculos capitellorum, qui
+erant super capita columnarum.</hi> Concinit huic lectioni
+quod in Paralipomenon legitur, ubi de malogranatis,
+vel retiaculis scribitur: <hi>Malogranata
+quoque quadringenta; et retiacula duo, ita ut bini
+ordines malogranatorum singulis retiaculis jungerentur,
+quae protegerent epistylia et capita columnarum.</hi> </p>
+<p>Nota quod unus dicit versus, alius ordines vocat.
+Secundum quod superius legimus, et exposuimus,
+ducenti ordines malogranatorum erant in retiaculis
+duobus, centum videlicet in retiaculo uno, et centum
+in alio. Centum itaque ordines erant in singulis
+secundum lectionem illam; duo in singulis
+secundum lectionem istam. Absque dubio centum
+<pb n="0240A"/>
+erant secundum considerationem unam; et duo secundum
+considerationem aliam. Si secundum unam
+dimensionem attendas, invenies ibi duos centenarios;
+si secundum aliam cogites, invenies ibi centum
+binarios. Quod superius dixerat de retiaculis,
+idem repetit de malogranatis. De utrisque namque
+dicit quod funiculos operirent: unde intelligitur
+usquequo retiacula descenderent, quae malogranata
+de suis extremitatibus dependentia contra funiculos
+haberent. Ex superioribus, ut jam ostendimus,
+datur intelligi quod in uno capitello fuerunt duo
+retiacula, et duo tantum funiculi. Potuit ergo unus
+ordo malogranatorum unius retiaculi operire unum
+funiculum, et unus similiter ordo alterius retiaculi
+operire alterum. Quid est ergo quod dicitur quod
+<pb n="0240B"/>
+in retiaculis singulis erant duo versus vel ordines
+malogranatorum ad operiendos funiculos capitellorum?
+Sed in hoc notatur quod decor operis, vel
+ratio significationis non sinebat ut primus ordo
+haberet contra se funiculum: et idcirco in singulis
+retiaculis est additus ordo secundus ut posset anteponi
+eo loci, quo ratio poscebat poni funiculum.
+Primus itaque ordo malogranatorum in singulis
+retiaculis septena, ut superius diximus, versuum
+retiacula distinguebat; secundus autem antepositus
+funiculis illos intuentium aspectibus obnubilabat.
+Haec de rebus obscurioribus prout potui digessi. Si
+quis me non tam falsitatis, quam prolixitatis arguat,
+sciat me malle videri sciolis prolixior quam simplicioribus
+<pb n="0240C"/>
+obscurior. Sed quod dictum est a me forsitan
+nimis prolixe, quilibet peritior habet in potestate
+ad compendium revocare.</p>
+<p>Notandum quod de mensura basium nihil dicitur:
+sed de eo quod in hoc libro, vel in Paralipomenon
+legitur, quam sit facile deprehenditur. Secundum
+hunc enim librum stylus ipse decem et octo
+cubitos habebat; duo autem capitella octo cubitos
+tenebant. Secundum Paralipomenon vero tota columna
+habebat cubitos triginta quinque, unde et
+constat ipsius basim novem cubitos habere. In principio
+descriptionis hujus legitur quod templum triginta
+cubitos altitudinis habebat. Si ergo altitudo
+porticus, altitudini templi respondebat, quomodo
+columnas triginta quinque cubitorum altitudinis
+<pb n="0240D"/>
+capere poterat? Ex mutua igitur dictorum collatione
+manifeste colligitur, quod in porticum gradibus
+ascendebatur, et quod eo loci quo columnae stabant,
+terra quidem porticus ipsius pavimento quinque cubitis
+demissior erat. Nunc ea quae de dictis retiaculis,
+vel malogranatis in fine Jeremiae leguntur, in
+medium ducantur, ne forte alicui his quae superius
+dicta sunt dissonare videantur: <hi>Et retiacula,</hi> inquit, <hi>et malogranata centum retiaculis circumdabantur.
+Et retiacula, et malogranata nonaginta et sex
+dependentia. Et omnia malogranata centum retiaculis
+circumdabantur 
+ <note>(Jer. LII)</note>
+          </hi>. Sicut superius dictum
+est, in uno retiaculo erant centum malogranata in
+medio ipsius interposita, et centum in uno dependentia.
+Ex qua autem factum sit occasione, ut non
+<pb n="0241A"/>
+fuerint ibi plus quam nonaginta sex dependentia
+tempore Jeremiae, fateor me nescire. Secundum quod
+hic intelligi dedit, unum retiaculum ex centum retiaculis
+compositum fuit, unum ordinem concatenationum
+circumtexentium unum ordinem foraminum, vult intelligi
+unum retiaculum. Si a summo deorsum numeres,
+quatuordecim foramina in uno ordine invenies.
+Si numeres per circuitum, invenies in ordine uno
+foramina centum. Erant ergo ibi quatuordecim retiacula
+secundum considerationem unam: et centum
+secundum considerationem aliam. Septem
+<pb n="0242A"/>
+versuum retiacula erant usque ad malogranata in
+medio interposita. Unde et dicit: <hi>Et retiacula, et
+malogranata centum retiaculis circumdabantur.</hi> Et
+erant alia septem versuum retiacula usque ad malogranata
+in imis dependentia. Unde et adjungit: <hi>Et retiacula, et malogranata nonaginta sex dependentia.</hi> 
+Utrum autem in inferiora malogranata in extremis
+foraminibus, an sub ipsis dependerent, dubitari
+potuit; sed determinatur in eo quod generalem
+sententiam subjungit, cum dicit: <hi>Et omnia
+malogranata centum retiaculis circumdabantur.</hi> 
+</p>
+      </div1>
+
+<div1>
+        <head>TRACTATUS TERTIUS. De concordia temporum regum conregnantium super Judam et super Israel. Ad beatum Bernardum abbatem Claraevallensem.</head>
+
+<pb n="0241"/>
+<p>
+          <pb n="0241B"/>In his, quae in libro Regum de diuturnitate vevaria
+successione regnantium dicuntur, multa, ut
+dicis, contrarietas inesse videtur: unde et numerorum
+computatio vitio scriptorum corrupta
+putatur. Unde et antequam de his juxta
+petitionem tuam aliquid scriberem, per Judaeos
+Judaeorum scripta consului, et tam eorum scripta
+quam nostra in unam sententiam concurrere didici.
+Constat itaque apud me quod in his nulla
+contrarietas sit quamvis et ipsis hucusque veritas
+ipsa latuerit. Absit ut credam quod in divinis
+Scripturis veritas uspiam adeo oberraverit, ut omnino
+recuperari non possit! In primis itaque sciendum
+quod, cum legitur rex aliquis tot vel tot annos
+regnasse, non sic semper oportet intelligere, quasi
+<pb n="0241C"/>
+ultimum regni sui annum quisque ita compleverit,
+ut ad ejus completionem nulla diminutio superfuerit.
+Sed si ille annus qui inter successorem et praedecessorem
+dividebatur neutri illorum ascriberetur,
+de collectionis summa pars magna veritati detraheretur.
+Satis itaque congrue et compendiose ad
+devitandas minutias annum duobus communem
+Scriptura illi attribuit, qui majorem illius anni partem
+obtinuit. Item, si diligenter attendimus, inveniemus
+pro certo frequens fuisse illis temporibus, quod
+in nostris saepe actitari videmus. Videmus saepe
+quod reges filios suos, dum adhuc vivunt, coronant,
+ut subditorum contradictionem et rebellionem
+praeveniant. Hoc apud reges Israel frequens erat,
+timentes ne per aliquam rebellionem regnum eorum
+<pb n="0241D"/>
+ad domum David rediret. Ex hoc quidem in Sciptura,
+quamvis ubique aperte non dicatur, invenitur
+tamen in ea unde suis in locis facile convincatur.</p>
+<p>Et notandum quod tempora congregantium quandoque
+attribuuntur soli patri, quandoque filio soli,
+quandoque tam filio quam patri. Sunt enim qui
+quamvis filios suos jam coronaverint, nullo modo
+dum vivunt regiam potestatem eos exercere velint.
+Merito ergo ejusmodi tempus regnandi attribuitur
+<pb n="0242B"/>
+soli patri. Sunt qui post filiorum coronationem
+modo propter corporis, modo propter mentis infirmitatem
+otio vacant, luxui deserviunt, et negotia
+regni per omnia filiis committunt. Nonne haec tempora
+regnandi rectius ascribuntur filio quam patri?
+Sed quando regni negotia communiter tractabant,
+et contra rebelles modo simul, modo separatim
+regnum defensabant (sicut et Romani imperatores
+suis temporibus fecisse leguntur), nonne haec regnandi
+tempora utrisque merito ascribuntur? Ecce
+Hieroboam rex Israel dicitur regnasse viginti duos
+annos, et filius ejus Nadab annos duos. Si vero duo
+isti dicantur viginti sex annos regnando implevisse,
+quod de duorum regnorum collatione dicitur nullo
+modo poterit stare. Nam si Asa, rex Juda, regnavit
+<pb n="0242C"/>
+regis Hieroboam anno vigesimo, quomodo potuit
+Nadab, ut legitur regnare regni Asa anno secundo,
+et Baasa tertio? Sed si intelligamus Asa regnum
+inchoasse, in vicesimi anni fine, ita ut annus qui
+est Hieroboam vigesimus primus, sit regi Asa primus,
+et qui est Hieroboam vigesimus secundus, et
+regi Asa secundus, idem sit Nadab regnandi initium,
+et annus primus, ita ut annum unum regnet cum patre,
+majorem vero partem anni sequentis sine patre;
+si, inquam, sic velis accipere, videbis in omnibus
+nil contrarietatis inesse.</p>
+<p>Item dicitur quod Baasa qui Nadab occidit, tertio
+anno regni Asa regnare incipiens, viginti quatuor
+annis regnavit. Intelligitur igitur quod Baasa usque
+ad vigesimum septimum annum regis Asa duraverit,
+<pb n="0242D"/>
+quamvis eum nonnisi ex majori parte compleverit.
+Quomodo ergo dicitur Hela filius Baasa vigesimo
+sexto anno regni regis Asa regnare coepisse,
+et duobus annis regnasse, nisi quia vigesimum
+sextum regis Asa, et primam vigesimi septimi anni
+partem cum patre, et posteriorem ejusdem anni
+partem regnavit sine patre. Nam in fine ipsius anni
+vigesimi septimi Zamri eum occidit, et pro ipso
+septem diebus regnavit. Legitur autem quod cum
+<pb n="0243A"/>
+exercitus audisset rebellasse Zamri et occidisse
+regem, fecit sibi regem omnis Israel Zamri. Constat
+ergo quod idem annus fuerit Zamri regnandi primus,
+qui fuit regi Asa vigesimus octavus. Quid
+ergo est quod legitur de ipso, quod regnaverit
+regni Asa anno trigesimo primo? Sed scimus quod
+rebellante Thebni media pars populi sequebatur
+unum, et media pars alium. Quod ergo dicitur
+regnasse anno Asa trigesimo primo intelligitur de
+eo tempore dictum, quando mortuo jam Thebni
+coepit regnare in toto. Scriptura autem dicit quod
+duodecim annis regnavit. Si igitur annus Asa vigesimus
+octavus fuit Zamri regnandi primus, constat
+quod annus Asa trigesimus nonus fuit isti in regno
+duodecimus. Quomodo ergo constat, quod Achab
+<pb n="0243B"/>
+filius ipsius Zamri regnaverit, ut legitur, anno Asa
+trigesimo octavo, nisi quod absque dubio duobus
+annis regnavit Achab cum patre suo? Concinit
+autem huic sententiae, quod Josaphat filius regis
+Asa quarto anno regni Achab dicitur regnasse.
+Idem siquidem annus qui fuit Asa quadragesimus
+primus exstitit Achab in regno quartus. Refert
+autem Scriptura quod rex Asa mortuus sit regni sui
+anno quadragesimo primo, et regnaverit Josaphat
+filius ejus pro eo. Regnavit vero Achab annis viginti
+duobus, unde et idem annus in regno fuit Josaphat
+decimus octavus, qui Achab exstitit vigesimus secundus,
+et ultimus. Sed Ochozias filius Achab
+regnavit anno, ut legitur, regni Josaphat decimo
+<pb n="0243C"/>
+septimo, et frater Ochoziae Joram anno ejusdem
+decimo octavo, prior videlicet anno patris sui penultimo,
+alter autem ejusdem ultimo anno. Quomodo
+ergo verum fuit quod Ochozias duobus annis, vel
+pro patre quomodo regnavit, si frater ejus ultimo
+patris eorum anno regnare coepit? Sed hinc intelligi
+datur, quod unum annum in regno egit cum patre,
+alium vero cum fratre. Intelligitur quod idem
+Ochozias in fine penultimi anni patris sui regnum
+a patre accepit, et majorem sequentis anni partem,
+cum patre exegit. Idem autem annus, ut diximus,
+qui fuit Achab ultimus, fuit regi Judae Josaphat
+decimus octavus. Perpenditur ergo quod in fine
+ejusdem decimi octavi anni, post mortem patris
+Ochozias per lapsum confractus, et, Elia prophetante,
+<pb n="0243D"/>
+de vita desperatus, fratrem in regnum asciverit,
+et cum eo alium annum languendo exegit.
+Sed si Joram filius Achab et frater Ochoziae, ut de
+eo legitur, regnavit anno decimo nono Josaphat
+regis Judae, quid est quod paulo post dictus est
+regnasse, secundo anno Joram filii ejusdem Josaphat
+regis Judae? An forte idem annus erat filio
+secundus, qui erat patri decimus octavus. Et potuit
+quidem esse, quod pro aliqua infirmitate seu alia
+aliqua causa instigante, pater tunc temporis filium
+coronasset, quamvis exercendi regiam potestatem
+per aliqua tempora omnino non permisit.</p>
+<p>Notandum namque quod, cum Joram filius Achab
+dicitur regnasse secundo anno alterius Joram, non
+dicitur regis Joram, nec dicitur anno secundo regni
+<pb n="0244A"/>
+ejus, nihil tale Scriptura dicit, sicut superius per
+caeteros dicere consuevit, sed de morte Ochoziae
+mentionem faciens adjecit. Et regnavit Joram frater
+ejus pro eo anno secundo Joram filii Josaphat regis
+Judae. Si filius Achab secundo anno filii Josaphat
+regnavit, quomodo verum est quod e converso dicitur,
+filius Josaphat quinto anno Joram filii Achab
+regnaverit, nisi quod datur intelligi quod ab eo
+tempore patre concedente et ordinante regia potestate
+pro parte usus sit, et regni negotia simul
+cum patre tractaverit? Hinc est quod conregnantium
+tempora ab eodem anno quinto ascribuntur
+tam filio quam patri: nam retroacta attribuuntur
+patri soli. Annus autem ille qui fuit filio Achab quintus,
+fuit Josaphat qui viginti quinque annis regnavit
+<pb n="0244B"/>
+vigesimus tertius. Vis autem ex ipsa Scriptura apertius
+nosse quod ille annus fuerit tribus communis?
+Anno quinto, inquit, Joram filii Achab regis Israel,
+et Josaphat regis Juda, regnavit Joram filius Josaphat
+regis Juda. Ecce idem annus dicitur esse
+Josaphat regis, qui ejus filio fuit primus, et filio
+Achab quintus, non quod fuerit quintus Josaphat
+regis, sed quod fuerit ei cum caeteris communis.
+Annis itaque tribus regnaverunt simul pater et
+filius. In eamdem sententiam videtur concurrere
+quod filius Josaphat dicitur octo annis regnasse.
+Nam post mortem patris non potuit regnare tot
+annis, quinto siquidem anno post mortem Josaphat,
+Jehu tam Ahaziam filium filii Josaphat, quam Joram
+<pb n="0244C"/>
+filium Achab occidit. In regno autem Judae, iste
+filius Josaphat invenitur primus patri conregnasse.</p>
+<p>Notandum quod idem annus Joram regi Judae
+fuit octavus, qui fuit Joram regi Israel duodecimus.
+Quomodo ergo dicitur quod Ahazias filius Joram
+regis Judae pro patre, et uno anno regnaverit, si
+idem annus patri et filio, et regi Israel ultimus fuit?
+Sub eodem namque tempore, sicut jam dictum est,
+Ahazias et rex Israel ab Jehu interfectus est. Sed
+potuit filius majori anni parte regnasse cum patre,
+reliqua sine patre. Et quoniam in regno supervixit
+patri suo, dicitur regnasse pro eo. Ex his itaque
+quae dicta sunt manifestum erit, ut credo, quam
+falsa sit quorumdam opinio (ne dicam assertio) qui
+mota falsa quaestione solutionis gratia dicunt filium
+Josaphat viginti annis regnasse. Non enim viginti
+<pb n="0244D"/>
+annis pater regnare potuit, si filius ejus qui regnavit
+pro eo octavo patris sui anno, vel modico post, ab
+Jehu occisus fuit. Constat quod Jehu, ut dictum est,
+Joram filium Achab occiderit, qui duodecim annis
+regnavit, et postea de eodem Jehu dicitur quod
+undecimo anno Joram filii Achab, et regis Ahaziae
+super Judam, in Jezrael venerit, et Jezabel
+interfecerit. Quid igitur est quod illud quidem
+quod Jehu prius fecit, dicitur fecisse anno
+Joram regis Israel duodecimo, et quod posterius
+fecit, dicitur fecisse anno ejusdem regis undecimo.
+Sed miranda ratione innuit quod diversis respectibus
+unus et idem annus fuerit illi undecimus et
+duodecimus. Nam undecim annis per se solus
+<pb n="0245A"/>
+regnavit, unum vero in regno cum fratre exegit.</p>
+<p>Notandum vero quod similem positionem hoc loco
+invenimus, qualem superius denotavimus. Ibi legitur:
+Anno quinto Joram filii Achab regis Israel, et
+Josaphat regis Juda, regnavit Joram filius Josaphat
+regis Juda. Hic autem dicitur: Anno undecimo Joram
+filii Achab, et regis Ahaziae super Judam, venit
+Jehu in Jezrael. Ibi quintus annus Joram filii Achab
+dicitur esse tam Josaphat quam ipsius, cum tamen
+fuerit soli Joram in regno quintus. Hic annus undecimus
+ejusdem Joram dicitur esse tam Ahaziae
+quam ipsius, cum tamen fuerit soli Joram in regno
+undecimus. Jehu super Israel decem octo annis regnavit,
+cujus septimus Joas filius Ahaziae super Judam
+regnare incoepit, et quadraginta annis regnavit.
+<pb n="0245B"/>
+Idem autem annus fuit Joas vigesimus secundus,
+qui et Jehu ultimus. Joas vero filius Jehu vigesimo
+tertio anno Joas regnare incoepit, et decem septem
+annis regnavit. Idem ergo annus fuit Joas ultimus,
+qui et Joas regis Judae trigesimus nonus. Quomodo
+ergo scribitur quod Joas filius Joachas trigesimo
+septimo Joas regis Judae anno regnavit, nisi quod
+Joachas filium suum triennio ante mortem suam
+regem constituit? Mortuo autem Joachas filius ejus
+Joas anno quadragesimo, et ultimo Joas regis Judae
+regnavit solus, unde et Amasiae filio ejusdem regis
+Judae invenitur esse annus regnandi primus, qui
+filio Joas dicitur esse secundus. In anno, ait Scriptura,
+secundo Joas filii Joachas regis Israel regnavit
+Amasias filius Joas regis Judae.</p>
+<p>
+          <pb n="0245C"/>Notandum quod conregnandi tempora soli patri
+attribuuntur, unde et regiam potestatem ante mortem
+patris filius minime exercuisse colligitur. Joas
+rex Israel sexdecim annis dicitur regnasse, cujus
+anno secundo regnavit Amasias rex Judae. Annus
+igitur qui fuit Joas decimus sextus, et ultimus, fuit
+Amasiae decimus quintus. Quomodo ergo Jeroboam
+filius Joas regis Israel decimo quinto anno Amasiae
+regnavit, ut Scriptura dicit, nisi quod ultimo patris
+sui anno patri conregnavit? Idem annus, ut diximus,
+fuit Joas regi decimus sextus, et ultimus qui
+et Amasiae regi Judae decimus quintus. Annis igitur
+quatuordecim post mortem Joas, Amasias regnavit,
+de quo legitur, quod annis viginti novem regnaverit.
+<pb n="0245D"/>
+Quid est ergo quod Amasias post mortem Joas dicitur
+viginti quinque annos vixisse, qui tamen post
+ejusdem mortem non invenitur secundum Scripturam
+nisi quatuordecim annis regnasse? Sed intelligi
+datur quod post vigesimum nonum regni sui
+annum seu propter infirmitatem, seu alia aliqua de
+causa vacaret sibi, et filio coronato committeret negotia
+regni. Hinc est quod Azarias qui Zozias filius
+Amasiae vigesimo septimo anno Jerobam regis Israel
+regnasse dicitur, sicut in sequentibus legitur:
+Anno vigesimo, inquit, Jeroboam regis Israel,
+regnavit Azarias filius Amasiae regis Judae, ut superius
+jam diximus, idem annus fuit regi Jeroboam
+in regno primus, qui patri ipsius fuit in regno, et
+<pb n="0246A"/>
+vita ultimus. Inter primum autem et vigesimum
+septimum annum invenies annos viginti quinque,
+quibus Amasias regi Joas dicitur supervixisse. Ab
+eo ergo tempore coepit Azarias filius Amasiae non
+sola sicut ipsius patris permissione, sed jure haereditario
+regiam potestatem exercere. Sicut superius
+dictum est decimo quinto anno Amasiae, regis Judae,
+coepit Jeroboam super Israel regnare. Idem ergo
+annus fuit Jeroboam in regno decimus quintus qui
+Amasiae exstitit vigesimus nonus. Et si Azarias filius
+Amasiae statim post vigesimum nonum patris annum
+a patre regnum suscepit, profecto idem annus et
+Azariae vigesimus sextus, et Jeroboam in regno quadragesimus
+primus et ultimus fuit. Nam idem Jeroboam
+quadraginta et uno, et Azarias quinquagesimis
+<pb n="0246B"/>
+duobus annis regnavit. Quid est ergo quod
+Zacharias filius Jeroboam trigesimo octavo anno
+Azariae ut legitur regnare incoepit? Nunquid a vigesimo
+septimo anno Azariae usque ad trigesimum octavum
+ejus annum regnum Israel sine rege permansit?
+Potest utique in dubium venire, an propter aetatem,
+an propter rebellionem vel ob aliam causam non
+potuerit eatenus in regno patris praevalere. Quod
+anno trigesimo octavo Azariae regis Judae dicitur
+Zacharias filius Jeroboam regnasse, sic oportet intelligere
+quod trigesimo octavo quidem anno regnare
+coepit, et sex mensibus, non tam ejusdem
+quam sequentis anni regnavit, et post eum Sellum
+mense uno qui eum occidit. Post hos Manahen eodem
+trigesimo nono regnare incipiens, minorem
+<pb n="0246C"/>
+ejusdem anni partem in regno transegit. Nam, si
+majorem anni illius partem transegisset, Scriptura
+ei pro more non tantum decem, sed undecim annos
+ascriberet. Quae de Phaceia, vel Phacee dicuntur,
+satis aperta videntur. Joathan filius Oziae decimus
+sextus ( <hi>sic</hi> ) annos regnasse describitur, et tamen Osee
+rex Israel vigesimo ejus anno regnare perhibetur:
+unde intelligi datur eum in regno viginti annis vixisse,
+sed a decimo sexto anno filium suum regem
+constituisse, et quod qualicunque de causa in regno
+adeo meruit exaltari, ut tempora conregnandi potius
+ascriberentur filio quam patri. Anno secundo Phacee
+qui viginti annis regnavit, Joathan rex Judae regnare
+coepit. Idem ergo annus fuit Joathan decimus
+<pb n="0246D"/>
+sextus, qui et Phacee decimus septimus. Anno autem
+decimo septimo Phacee coepit Achab filius Joathan
+regnare, sed ut intelligi datur in ejusdem anni
+fine: nam si toto anni illius tempore vel majore
+ejusdem anni parte regnasset, non video cur annus
+ille Achab non ascriberetur, sicut et caeteri qui sequuntur.
+Idem ergo annus fuit Achab tertius, qui
+Phacee quem Osee occidit fuit vigesimus. Idem nihilominus
+fuit Achab quartus, qui patris ejus dicitur
+esse vigesimus. Regnavit itaque Osee anno Achab
+quarto. Quid ergo est quod in sequentibus dicitur
+regnare ejusdem Achab anno duodecimo? An forte
+sicut Zamri contigit, ab eo tempore quo Phacee interfecto
+regnum sibi praeripuit usque ad duodecimum
+<pb n="0247A"/>
+regis Achab annum multis rebellantibus praevalere
+non potuit? Unde contigisse videtur, quod ei
+subsequentia non autem praecedentia tempora in regno
+<pb n="0248A"/>
+ascriberentur, alioquin decimus octavus ( <hi>sic</hi> )
+annis potius quam novem regnasse diceretur.</p>
+<p>
+          <emph>
+            <pb n="0247"/>Summaria declaratio duarum tabularum sequentium ad agnoscendam contradictionem, et
+concordiam temporum regum conregnantium super Judam et Israel.</emph>
+        </p>
+<p>
+          <pb n="0247A"/>In sequentibus duas tabulas adjeci, in quibus continentur
+ea quae superius digessi. In prima continentur
+ea quae quaestionem movere, vel contrarietatem
+inferre videntur. In secunda tabula eadem ipsa
+disposita sunt eo ordine, ut singula quae quaestionem
+movebant videantur ex ea posse intelligi sine expositione.
+In prima tabula, et in primo ipsius ordine
+habes ordinata a summo usque deorsum nomina
+regum in Juda regnantium. Et in secundo ordine,
+<pb n="0247B"/>
+quot annis regnaverit unusquisque eorum. In tertio
+ordine habes reges Israelitici regni. Et in quarto
+tempora regnandi. In numeris, qui quibusdam regibus
+subscribuntur, notatur quoto anno regni ipsius,
+<pb n="0248A"/>
+qui superscribitur, regnare coeperunt qui econtra
+de regione scribuntur. In secunda tabula, in prima
+ejus fronte ordinatur series temporum ab exordio
+schismatis usque ad tempora primae captivitatis. In
+secundo ordine continetur series temporum regum
+Juda ordine sibi succedentium. In tertio ordine est
+palam videre, quando contigit filios patribus conregnasse.
+Quod de regibus Juda eorumque filiis docet
+ordo secundus et tertius, hoc de regibus Israel docet
+<pb n="0248B"/>
+ordo quartus et quintus. In quibus et illud perpendi
+potest, quod quaedam conregnandi tempora attribuuntur
+solis filiis, quaedam solis patribus, quaedam
+vero tam filiis quam patribus.</p>
+</div1>
+
+<div1>
+        <head> <hi>Ex hac prima tabula habes ea quae faciunt et inferunt contrarietatem temporum regum super conregnantium Judam et Israel.</hi> </head>
+<table>
+</table>
+<table>
+<pb n="0247"/>
+</table>
+<table>
+<row>
+            <cell>
+              <emph>Nomina regum Juda.</emph>
+            </cell>
+            <cell>
+              <emph>Numerus temporum regnantium in Juda.</emph>
+            </cell>
+            <cell>
+              <emph>Nomina regum Israel.</emph>
+            </cell>
+            <cell>
+              <emph>Numerus temporum regnorum regum in Israel.</emph>
+            </cell>
+          </row>
+<row>
+            <cell>Roboam.</cell>
+            <cell>xvii</cell>
+            <cell>Jeroboam.</cell>
+            <cell>xxii</cell>
+          </row>
+<row>
+            <cell>Abia.</cell>
+            <cell>iii</cell>
+            <cell>xviii</cell>
+          </row>
+<row>
+            <cell>Asa.</cell>
+            <cell>xli</cell>
+            <cell>xx</cell>
+          </row>
+<row>
+            <cell>Anno ii</cell>
+            <cell>Nadab.</cell>
+            <cell>ii</cell>
+          </row>
+<row>
+            <cell>Tertio.</cell>
+            <cell>Baasa.</cell>
+            <cell>xxiv</cell>
+          </row>
+<row>
+            <cell>xxvi</cell>
+            <cell>Hela.</cell>
+            <cell>ii</cell>
+          </row>
+<row>
+            <cell>xxvii</cell>
+            <cell>Zambri.</cell>
+            <cell>diebus vii</cell>
+          </row>
+<row>
+            <cell>xxxi</cell>
+            <cell>Ambri.</cell>
+            <cell>xii</cell>
+          </row>
+<row>
+            <cell>xxxviii</cell>
+            <cell>Achab.</cell>
+            <cell>xxii</cell>
+          </row>
+<row>
+            <cell>Josaphat.</cell>
+            <cell>xxv</cell>
+            <cell>iv</cell>
+          </row>
+<row>
+            <cell>xvii</cell>
+            <cell>Ochozias.</cell>
+            <cell>ii</cell>
+          </row>
+<row>
+            <cell>xviii</cell>
+            <cell>Joram.</cell>
+            <cell>xii</cell>
+          </row>
+<row>
+            <cell>Joram.</cell>
+            <cell>viii</cell>
+            <cell>v</cell>
+          </row>
+<row>
+            <cell>ii</cell>
+            <cell>Joram.</cell>
+          </row>
+<row>
+            <cell>Ahazias.</cell>
+            <cell>i</cell>
+            <cell>xii</cell>
+          </row>
+<row>
+            <cell>Athalia.</cell>
+            <cell>vi</cell>
+            <cell>Jehu.</cell>
+            <cell>xxviii</cell>
+          </row>
+<row>
+            <cell>Joas.</cell>
+            <cell>xl</cell>
+            <cell>vii</cell>
+          </row>
+<row>
+            <cell>xxiii</cell>
+            <cell>Joaz.</cell>
+            <cell>xvii</cell>
+          </row>
+<row>
+            <cell>xxxvii</cell>
+            <cell>Joas.</cell>
+            <cell>xvi</cell>
+          </row>
+<row>
+            <cell>Amasias.</cell>
+            <cell>xxix</cell>
+            <cell>ii</cell>
+          </row>
+<row>
+            <cell>xv</cell>
+            <cell>Jeroboam.</cell>
+            <cell>xli</cell>
+          </row>
+<row>
+            <cell>Ozias.</cell>
+            <cell>Lii</cell>
+            <cell>xxvii</cell>
+          </row>
+<row>
+            <cell>xxxviii</cell>
+            <cell>Zacharias.</cell>
+            <cell>vi mensibus</cell>
+          </row>
+<row>
+            <cell>xxxix</cell>
+            <cell>Sellum.</cell>
+            <cell>i mense</cell>
+          </row>
+<row>
+            <cell>xxxix</cell>
+            <cell>Manahen.</cell>
+            <cell>x</cell>
+          </row>
+<row>
+            <cell>l</cell>
+            <cell>Phaceia.</cell>
+            <cell>li</cell>
+          </row>
+<row>
+            <cell>lii</cell>
+            <cell>Phacee.</cell>
+            <cell>xx</cell>
+          </row>
+<row>
+            <cell>Joathan.</cell>
+            <cell>xvi</cell>
+            <cell>ii</cell>
+          </row>
+<row>
+            <cell>Achaz.</cell>
+            <cell>xvi</cell>
+            <cell>xvii</cell>
+          </row>
+<row>
+            <cell>xii</cell>
+            <cell>Osee.</cell>
+            <cell>ix</cell>
+          </row>
+<row>
+            <cell>Ezechias.</cell>
+            <cell>iii</cell>
+          </row>
+<row>
+            <cell>iv</cell>
+            <cell>vii</cell>
+          </row>
+<row>
+            <cell>vi</cell>
+            <cell>ix</cell>
+          </row>
+</table>
+
+</div1>
+
+<div1>
+        <head> <hi>Ex hac secunda tabula habetur concordia temporum regum conregnantium super Judam et super Israel.</hi> </head>
+<table>
+</table>
+<table>
+<pb n="0249"/>
+</table>
+<table>
+<row>
+<cell>
+              <emph>Primus ordo, temporum ab exordio schismatis usque ad tempora primae captivitatis</emph>
+            </cell>
+<cell>
+              <emph>Secundus ordo, temporum regum Juda ordine sibi succedentium.</emph>
+            </cell>
+<cell>
+              <emph>Tertius ordo, temporis in quo contigit filios regum Juda patribus conregnasse.</emph>
+            </cell>
+<cell>
+              <emph>Quartus ordo, temporum regum Israel juxta ordinem sibi succedentium.</emph>
+            </cell>
+<cell>
+              <emph>Quintus ordo, in quo contingit filios regum Israel patribus conregnasse</emph>
+            </cell>
+</row>
+<row>
+<cell>i</cell>
+<cell>i Roboam.</cell>
+<cell>i. Jeroboam</cell>
+</row>
+<row>
+<cell>ii</cell>
+<cell>ii</cell>
+<cell>ii</cell>
+</row>
+<row>
+<cell>iii</cell>
+<cell>iii</cell>
+<cell>iii</cell>
+</row>
+<row>
+<cell>iv</cell>
+<cell>iv</cell>
+<cell>iv</cell>
+</row>
+<row>
+<cell>v</cell>
+<cell>v</cell>
+<cell>v</cell>
+</row>
+<row>
+<cell>vi</cell>
+<cell>vi</cell>
+<cell>vi</cell>
+</row>
+<row>
+<cell>vii</cell>
+<cell>vii</cell>
+<cell>vii</cell>
+</row>
+<row>
+<cell>viii</cell>
+<cell>viii</cell>
+<cell>viii</cell>
+</row>
+<row>
+<cell>ix</cell>
+<cell>ix</cell>
+<cell>ix</cell>
+</row>
+<row>
+<cell>x</cell>
+<cell>x</cell>
+<cell>x</cell>
+</row>
+<row>
+<cell>xi</cell>
+<cell>xi</cell>
+<cell>xi</cell>
+</row>
+<row>
+<cell>xii</cell>
+<cell>xii</cell>
+<cell>xii</cell>
+</row>
+<row>
+<cell>xiii</cell>
+<cell>xiii</cell>
+<cell>xiii</cell>
+</row>
+<row>
+<cell>xiv</cell>
+<cell>xiv</cell>
+<cell>xiv</cell>
+</row>
+<row>
+<cell>xv</cell>
+<cell>xv</cell>
+<cell>xv</cell>
+</row>
+<row>
+<cell>xvi</cell>
+<cell>xvi</cell>
+<cell>xvi</cell>
+</row>
+<row>
+<cell>xvii</cell>
+<cell>xvii</cell>
+<cell>xvii</cell>
+</row>
+<row>
+<cell>viii</cell>
+<cell>i. Abia.</cell>
+<cell>xviii</cell>
+</row>
+<row>
+<cell>xix</cell>
+<cell>ii</cell>
+<cell>xix</cell>
+</row>
+<row>
+<cell>xx</cell>
+<cell>iii. Asa</cell>
+<cell>xx</cell>
+</row>
+<row>
+<cell>xxi</cell>
+<cell>i</cell>
+<cell>xxi</cell>
+</row>
+<row>
+<cell>xxii</cell>
+<cell>ii</cell>
+<cell>xxii</cell>
+</row>
+<row>
+<cell>xxiii</cell>
+<cell>iii</cell>
+<cell>ii. Idem solus</cell>
+<cell>i. Nadab cum patre Baasa</cell>
+</row>
+<row>
+<cell>xxiv</cell>
+<cell>iv</cell>
+<cell>i</cell>
+</row>
+<row>
+<cell>xxv</cell>
+<cell>v</cell>
+<cell>ii</cell>
+</row>
+<row>
+<cell>xxvi</cell>
+<cell>vi</cell>
+<cell>iii</cell>
+</row>
+<row>
+<cell>xxvii</cell>
+<cell>vii</cell>
+<cell>iv</cell>
+</row>
+<row>
+<cell>xxviii</cell>
+<cell>viii</cell>
+<cell>v</cell>
+</row>
+<row>
+<cell>xxix</cell>
+<cell>ix</cell>
+<cell>vi</cell>
+</row>
+<row>
+<cell>xxx</cell>
+<cell>x</cell>
+<cell>vii</cell>
+</row>
+<row>
+<cell>xxxi</cell>
+<cell>xi</cell>
+<cell>viii</cell>
+</row>
+<row>
+<cell>xxxii</cell>
+<cell>xii</cell>
+<cell>ix</cell>
+</row>
+<row>
+<cell>xxxiii</cell>
+<cell>xiii</cell>
+<cell>x</cell>
+</row>
+<row>
+<cell>xxxiv</cell>
+<cell>xiv</cell>
+<cell>xi</cell>
+</row>
+<row>
+<cell>xxxv</cell>
+<cell>xv</cell>
+<cell>xii</cell>
+</row>
+<row>
+<cell>xxxvi</cell>
+<cell>xvi</cell>
+<cell>xiii</cell>
+</row>
+<row>
+<cell>xxxvii</cell>
+<cell>xvii</cell>
+<cell>xiv</cell>
+</row>
+<row>
+<cell>xxxviii</cell>
+<cell>xviii</cell>
+<cell>xv</cell>
+</row>
+<row>
+<cell>xxxix</cell>
+<cell>xix</cell>
+<cell>xvi</cell>
+</row>
+<row>
+<cell>xl</cell>
+<cell>xx</cell>
+<cell>xvii</cell>
+</row>
+<row>
+<cell>xli</cell>
+<cell>xxi</cell>
+<cell>xviii</cell>
+</row>
+<row>
+<cell>xlii</cell>
+<cell>xxii</cell>
+<cell>xix</cell>
+</row>
+<row>
+<cell>xliii</cell>
+<cell>xxiii</cell>
+<cell>xx</cell>
+</row>
+<row>
+<cell>xliv</cell>
+<cell>xxiv</cell>
+<cell>xxi</cell>
+</row>
+<row>
+<cell>xlv</cell>
+<cell>xxv</cell>
+<cell>xxii</cell>
+</row>
+<row>
+<cell>xlvi</cell>
+<cell>xxvi</cell>
+<cell>xxiii</cell>
+</row>
+<row>
+<cell>xlvii</cell>
+<cell>xxvii</cell>
+<cell>xxxiii S.</cell>
+<cell>i Hela</cell>
+</row>
+<row>
+<cell>xlviii</cell>
+<cell>xxviii</cell>
+<cell>i Ambri, in parte.</cell>
+<cell>i Zambrid. vii.</cell>
+</row>
+<row>
+<cell>xlix</cell>
+<cell>xxix</cell>
+<cell>ii</cell>
+</row>
+<row>
+<cell>l</cell>
+<cell>xxx</cell>
+<cell>iii</cell>
+</row>
+<row>
+<cell>li</cell>
+<cell>xxxi</cell>
+<cell>iv Ambri in toto.</cell>
+</row>
+<row>
+<cell>lii</cell>
+<cell>xxxii</cell>
+<cell>v</cell>
+</row>
+<row>
+<cell>liii</cell>
+<cell>xxxiii</cell>
+<cell>vi</cell>
+</row>
+<row>
+<cell>liv</cell>
+<cell>xxxiv</cell>
+<cell>vii</cell>
+</row>
+<row>
+<cell>lv</cell>
+<cell>xxxv</cell>
+<cell>viii</cell>
+</row>
+<row>
+<cell>lvi</cell>
+<cell>xxxvi</cell>
+<cell>ix</cell>
+</row>
+<row>
+<cell>lvii</cell>
+<cell>xxxvii</cell>
+<cell>x</cell>
+</row>
+<row>
+<cell>lviii</cell>
+<cell>xxxviii</cell>
+<cell>xi</cell>
+</row>
+<row>
+<cell>lix</cell>
+<cell>xxxix</cell>
+<cell>xii</cell>
+</row>
+<row>
+<cell>lx</cell>
+<cell>xl</cell>
+<cell>iii</cell>
+<cell>i. Achas cum patre.</cell>
+</row>
+<row>
+<cell>lxi</cell>
+<cell>xli Josaphat.</cell>
+<cell>iv. Solus.</cell>
+<cell>ii</cell>
+</row>
+<row>
+<cell>lxii</cell>
+<cell>i</cell>
+<cell>v</cell>
+</row>
+<row>
+<cell>lxiii</cell>
+<cell>ii</cell>
+<cell>vi</cell>
+</row>
+<row>
+<cell>lxiv</cell>
+<cell>iii</cell>
+<cell>vii</cell>
+</row>
+<row>
+<cell>lxv</cell>
+<cell>iv</cell>
+<cell>viii</cell>
+</row>
+<row>
+<cell>lxvi</cell>
+<cell>v</cell>
+<cell>ix</cell>
+</row>
+<row>
+<cell>lxvii</cell>
+<cell>vi</cell>
+<cell>x</cell>
+</row>
+<row>
+<cell>lxviii</cell>
+<cell>vii</cell>
+<cell>xi</cell>
+</row>
+</table>
+<table>
+<pb n="0251"/>
+</table>
+<table>
+<row>
+<cell>lxix</cell>
+<cell>viii</cell>
+<cell>xii</cell>
+</row>
+<row>
+<cell>lxx</cell>
+<cell>ix</cell>
+<cell>xiii</cell>
+</row>
+<row>
+<cell>lxxi</cell>
+<cell>x</cell>
+<cell>xiv</cell>
+</row>
+<row>
+<cell>lxxii</cell>
+<cell>xi</cell>
+<cell>xv</cell>
+</row>
+<row>
+<cell>lxxiii</cell>
+<cell>xii</cell>
+<cell>xvi</cell>
+</row>
+<row>
+<cell>lxxiv</cell>
+<cell>xii</cell>
+<cell>xvii</cell>
+</row>
+<row>
+<cell>lxxv</cell>
+<cell>xiv</cell>
+<cell>xviii</cell>
+</row>
+<row>
+<cell>lxxvi</cell>
+<cell>xv</cell>
+<cell>Joram.</cell>
+<cell>xix</cell>
+<cell>Ochozias.</cell>
+</row>
+<row>
+<cell>lxxvii</cell>
+<cell>xvi</cell>
+<cell>xx</cell>
+<cell>Joram</cell>
+</row>
+<row>
+<cell>lxxviii</cell>
+<cell>xvii</cell>
+<cell>xxi. S.</cell>
+<cell>cum fratre.</cell>
+</row>
+<row>
+<cell>lxxix</cell>
+<cell>xviii</cell>
+<cell>xxii</cell>
+<cell>i. Joram solus.</cell>
+</row>
+<row>
+<cell>lxxx</cell>
+<cell>xix</cell>
+<cell>i</cell>
+<cell>ii</cell>
+</row>
+<row>
+<cell>lxxxi</cell>
+<cell>xx</cell>
+<cell>iii</cell>
+</row>
+<row>
+<cell>lxxxii</cell>
+<cell>xxi</cell>
+<cell>i Joram.</cell>
+<cell>ii</cell>
+<cell>iv</cell>
+</row>
+<row>
+<cell>lxxxiii</cell>
+<cell>xxii</cell>
+<cell>ii</cell>
+<cell>iv</cell>
+<cell>v</cell>
+</row>
+<row>
+<cell>lxxxiv</cell>
+<cell>xxiii</cell>
+<cell>iii</cell>
+<cell>v</cell>
+<cell>vi</cell>
+</row>
+<row>
+<cell>lxxxv</cell>
+<cell>xxiv</cell>
+<cell>vi</cell>
+<cell>vii</cell>
+</row>
+<row>
+<cell>lxxxvi</cell>
+<cell>xxv</cell>
+<cell>vii</cell>
+<cell>viii</cell>
+</row>
+<row>
+<cell>lxxxvii</cell>
+<cell>iv</cell>
+<cell>viii</cell>
+<cell>ix</cell>
+</row>
+<row>
+<cell>lxxxxiii</cell>
+<cell>v</cell>
+<cell>ix</cell>
+<cell>x</cell>
+</row>
+<row>
+<cell>lxxxix</cell>
+<cell>vi</cell>
+<cell>x</cell>
+<cell>xi</cell>
+</row>
+<row>
+<cell>xc</cell>
+<cell>vii</cell>
+<cell>xi</cell>
+</row>
+<row>
+<cell>xci</cell>
+<cell>viii S.</cell>
+<cell>i Ahazias.</cell>
+<cell>xii</cell>
+</row>
+<row>
+<cell>xcii</cell>
+<cell>i Athalia.</cell>
+<cell>i. Hieu.</cell>
+</row>
+<row>
+<cell>xciii</cell>
+<cell>ii</cell>
+<cell>ii</cell>
+</row>
+<row>
+<cell>xciv</cell>
+<cell>iii</cell>
+<cell>iii</cell>
+</row>
+<row>
+<cell>xcv</cell>
+<cell>iv</cell>
+<cell>iv</cell>
+</row>
+<row>
+<cell>xcvi</cell>
+<cell>v</cell>
+<cell>v</cell>
+</row>
+<row>
+<cell>xcvii</cell>
+<cell>vi</cell>
+<cell>vi</cell>
+</row>
+<row>
+<cell>xcviii</cell>
+<cell>i Joas.</cell>
+<cell>vii</cell>
+</row>
+<row>
+<cell>xcix</cell>
+<cell>ii</cell>
+<cell>viii</cell>
+</row>
+<row>
+<cell>c.</cell>
+<cell>iii</cell>
+<cell>ix</cell>
+</row>
+<row>
+<cell>ci</cell>
+<cell>iv</cell>
+<cell>x</cell>
+</row>
+<row>
+<cell>cii</cell>
+<cell>v</cell>
+<cell>xi</cell>
+</row>
+<row>
+<cell>cii</cell>
+<cell>vi</cell>
+<cell>xii</cell>
+</row>
+<row>
+<cell>civ</cell>
+<cell>vii</cell>
+<cell>xiii</cell>
+</row>
+<row>
+<cell>cv</cell>
+<cell>viii</cell>
+<cell>xiv</cell>
+</row>
+<row>
+<cell>cvi</cell>
+<cell>ix</cell>
+<cell>xv</cell>
+</row>
+<row>
+<cell>cvii</cell>
+<cell>x</cell>
+<cell>xvi</cell>
+</row>
+<row>
+<cell>cviii</cell>
+<cell>xi</cell>
+<cell>xvii</cell>
+</row>
+<row>
+<cell>cix</cell>
+<cell>xii</cell>
+<cell>xviii</cell>
+</row>
+<row>
+<cell>cx</cell>
+<cell>xiii</cell>
+<cell>xix</cell>
+</row>
+<row>
+<cell>cxi</cell>
+<cell>xiv</cell>
+<cell>xx</cell>
+</row>
+<row>
+<cell>cxii</cell>
+<cell>xv</cell>
+<cell>xxi</cell>
+</row>
+<row>
+<cell>cxiii</cell>
+<cell>xvii</cell>
+<cell>xxii</cell>
+</row>
+<row>
+<cell>cxiv</cell>
+<cell>xvii</cell>
+<cell>xxiii</cell>
+</row>
+<row>
+<cell>cxv</cell>
+<cell>xviii</cell>
+<cell>xxiv</cell>
+</row>
+<row>
+<cell>cxvi</cell>
+<cell>xix</cell>
+<cell>xxv</cell>
+</row>
+<row>
+<cell>cxvii</cell>
+<cell>xx</cell>
+<cell>xxvi</cell>
+</row>
+<row>
+<cell>cxviii</cell>
+<cell>xxi</cell>
+<cell>xxvii</cell>
+</row>
+<row>
+<cell>cxix</cell>
+<cell>xxii</cell>
+<cell>xxviii</cell>
+</row>
+<row>
+<cell>cxx</cell>
+<cell>xxiii</cell>
+<cell>i. Joas.</cell>
+</row>
+<row>
+<cell>cxxi</cell>
+<cell>xxiv</cell>
+<cell>ii</cell>
+</row>
+<row>
+<cell>cxxii</cell>
+<cell>xxv</cell>
+<cell>iii</cell>
+</row>
+<row>
+<cell>cxxiii</cell>
+<cell>xxvi</cell>
+<cell>iv</cell>
+</row>
+<row>
+<cell>cxxiv</cell>
+<cell>xxvii</cell>
+<cell>v</cell>
+</row>
+<row>
+<cell>cxxv</cell>
+<cell>xxviii</cell>
+<cell>vi</cell>
+</row>
+<row>
+<cell>cxxvi</cell>
+<cell>xxix</cell>
+<cell>vii</cell>
+</row>
+<row>
+<cell>cxxvii</cell>
+<cell>xxx</cell>
+<cell>viii</cell>
+</row>
+<row>
+<cell>cxxviii</cell>
+<cell>xxxi</cell>
+<cell>ix</cell>
+</row>
+<row>
+<cell>cxxix</cell>
+<cell>xxxii</cell>
+<cell>x</cell>
+</row>
+<row>
+<cell>cxxx</cell>
+<cell>xxxiii</cell>
+<cell>xi</cell>
+</row>
+<row>
+<cell>cxxxi</cell>
+<cell>xxxiv</cell>
+<cell>xii</cell>
+</row>
+<row>
+<cell>cxxxii</cell>
+<cell>xxxv</cell>
+<cell>xiii</cell>
+</row>
+<row>
+<cell>cxxxiii</cell>
+<cell>xxxvi</cell>
+<cell>xiv</cell>
+</row>
+<row>
+<cell>cxxxiv</cell>
+<cell>xxxvii</cell>
+<cell>xv Joas.</cell>
+</row>
+<row>
+<cell>cxxx</cell>
+<cell>xxxviii</cell>
+<cell>xvi</cell>
+</row>
+<row>
+<cell>cxxxvi</cell>
+<cell>xxxix</cell>
+<cell>xvii</cell>
+</row>
+<row>
+<cell>cxxxvii</cell>
+<cell>xl</cell>
+<cell>i Joas. solus.</cell>
+</row>
+<row>
+<cell>cxxxviii</cell>
+<cell>i Amasias</cell>
+<cell>ii</cell>
+</row>
+<row>
+<cell>cxxxix</cell>
+<cell>ii</cell>
+<cell>iii</cell>
+</row>
+<row>
+<cell>cxl</cell>
+<cell>iii</cell>
+<cell>iv</cell>
+</row>
+</table>
+<table>
+<pb n="0253"/>
+</table>
+<table>
+<row>
+<cell>cxli</cell>
+<cell>iv</cell>
+<cell>v</cell>
+</row>
+<row>
+<cell>cxlii</cell>
+<cell>v</cell>
+<cell>vi</cell>
+</row>
+<row>
+<cell>cxliii</cell>
+<cell>vi</cell>
+<cell>vii</cell>
+</row>
+<row>
+<cell>cxliv</cell>
+<cell>vii</cell>
+<cell>viii</cell>
+</row>
+<row>
+<cell>cxlv</cell>
+<cell>viii</cell>
+<cell>ix</cell>
+</row>
+<row>
+<cell>cxlvi</cell>
+<cell>ix</cell>
+<cell>x</cell>
+</row>
+<row>
+<cell>cxlvii</cell>
+<cell>x</cell>
+<cell>ix</cell>
+</row>
+<row>
+<cell>cxlviii</cell>
+<cell>xi</cell>
+<cell>x</cell>
+</row>
+<row>
+<cell>cxlix</cell>
+<cell>xii</cell>
+<cell>xi</cell>
+</row>
+<row>
+<cell>cl</cell>
+<cell>xiii</cell>
+<cell>xii</cell>
+</row>
+<row>
+<cell>cli</cell>
+<cell>xiv</cell>
+<cell>xiii</cell>
+</row>
+<row>
+<cell>clii</cell>
+<cell>xv.</cell>
+<cell>i</cell>
+<cell>xiv</cell>
+</row>
+<row>
+<cell>cliii</cell>
+<cell>xvi</cell>
+<cell>ii</cell>
+<cell>xv</cell>
+<cell>Jeroboam cum patre solus.</cell>
+</row>
+<row>
+<cell>cliv</cell>
+<cell>xvii</cell>
+<cell>iii</cell>
+<cell>xvi</cell>
+</row>
+<row>
+<cell>clv</cell>
+<cell>xviii</cell>
+<cell>iv</cell>
+<cell>ii</cell>
+</row>
+<row>
+<cell>clvi</cell>
+<cell>xix</cell>
+<cell>v</cell>
+<cell>iii</cell>
+</row>
+<row>
+<cell>clvii</cell>
+<cell>xx</cell>
+<cell>vi</cell>
+<cell>iv</cell>
+</row>
+<row>
+<cell>clviii</cell>
+<cell>xxi</cell>
+<cell>vii</cell>
+<cell>v</cell>
+</row>
+<row>
+<cell>clix.</cell>
+<cell>xxii</cell>
+<cell>viii</cell>
+<cell>vi</cell>
+</row>
+<row>
+<cell>clx</cell>
+<cell>xxiii</cell>
+<cell>ix</cell>
+<cell>vii</cell>
+</row>
+<row>
+<cell>clxi</cell>
+<cell>xxiv</cell>
+<cell>x</cell>
+<cell>viii</cell>
+</row>
+<row>
+<cell>clxii</cell>
+<cell>xxv</cell>
+<cell>xi</cell>
+<cell>ix</cell>
+</row>
+<row>
+<cell>clxiii</cell>
+<cell>xxvi</cell>
+<cell>xii</cell>
+<cell>x</cell>
+</row>
+<row>
+<cell>clxiv</cell>
+<cell>xxvii</cell>
+<cell>xiii</cell>
+<cell>xi</cell>
+</row>
+<row>
+<cell>clxv</cell>
+<cell>xxviii</cell>
+<cell>xiv</cell>
+<cell>xii</cell>
+</row>
+<row>
+<cell>clxvi</cell>
+<cell>xxix</cell>
+<cell>xv</cell>
+<cell>xiii</cell>
+</row>
+<row>
+<cell>clxvii</cell>
+<cell>i Ozias qui et Azarias</cell>
+<cell>xvi</cell>
+<cell>xiv</cell>
+</row>
+<row>
+<cell>clxviii</cell>
+<cell>ii</cell>
+<cell>xvii</cell>
+<cell>xv</cell>
+</row>
+<row>
+<cell>clxix</cell>
+<cell>iii</cell>
+<cell>xviii</cell>
+<cell>xvi</cell>
+</row>
+<row>
+<cell>clxx</cell>
+<cell>iv</cell>
+<cell>xix</cell>
+<cell>xvii</cell>
+</row>
+<row>
+<cell>clxxi</cell>
+<cell>v</cell>
+<cell>xx</cell>
+<cell>xviii</cell>
+</row>
+<row>
+<cell>clxxii</cell>
+<cell>vi</cell>
+<cell>xxi</cell>
+<cell>xix</cell>
+</row>
+<row>
+<cell>clxxiii</cell>
+<cell>vii</cell>
+<cell>xxii</cell>
+<cell>xx</cell>
+</row>
+<row>
+<cell>clxxiv</cell>
+<cell>viii</cell>
+<cell>xxiii</cell>
+<cell>xxi</cell>
+</row>
+<row>
+<cell>clxxv</cell>
+<cell>ix</cell>
+<cell>xxiv</cell>
+<cell>xxii</cell>
+</row>
+<row>
+<cell>clxxvi</cell>
+<cell>x</cell>
+<cell>xxiii</cell>
+</row>
+<row>
+<cell>clxxvii</cell>
+<cell>xi</cell>
+<cell>xxiv</cell>
+</row>
+<row>
+<cell>clxxviii</cell>
+<cell>xii Ozias, mortuo</cell>
+<cell>xxv</cell>
+</row>
+<row>
+<cell>clxxix</cell>
+<cell>xiii patre</cell>
+<cell>xxvi</cell>
+</row>
+<row>
+<cell>clxxx</cell>
+<cell>xiv</cell>
+<cell>xxvii</cell>
+</row>
+<row>
+<cell>clxxxi</cell>
+<cell>xv</cell>
+<cell>xxviii</cell>
+</row>
+<row>
+<cell>clxxxii</cell>
+<cell>xvi</cell>
+<cell>xxix</cell>
+</row>
+<row>
+<cell>clxxxiii</cell>
+<cell>xvii</cell>
+<cell>xxx</cell>
+</row>
+<row>
+<cell>clxxxiv</cell>
+<cell>xviii</cell>
+<cell>xxxi</cell>
+</row>
+<row>
+<cell>clxxxv</cell>
+<cell>xix</cell>
+<cell>xxxii</cell>
+</row>
+<row>
+<cell>clxxxvi</cell>
+<cell>xx</cell>
+<cell>xxxiii</cell>
+</row>
+<row>
+<cell>clxxxvii</cell>
+<cell>xxi</cell>
+<cell>xxxiv</cell>
+</row>
+<row>
+<cell>clxxxviii</cell>
+<cell>xxii</cell>
+<cell>xxxv</cell>
+</row>
+<row>
+<cell>clxxxix</cell>
+<cell>xxiii</cell>
+<cell>xxxvi</cell>
+</row>
+<row>
+<cell>cxc</cell>
+<cell>xxiv</cell>
+<cell>xxxvii</cell>
+</row>
+<row>
+<cell>cxci</cell>
+<cell>xxv</cell>
+<cell>xxxviii</cell>
+</row>
+<row>
+<cell>cxcii</cell>
+<cell>xxvi</cell>
+<cell>xxxix</cell>
+</row>
+<row>
+<cell>cxciii</cell>
+<cell>xxvii</cell>
+<cell>xl</cell>
+</row>
+<row>
+<cell>cxciv</cell>
+<cell>xxviii</cell>
+<cell>xli</cell>
+</row>
+<row>
+<cell>cxcv</cell>
+<cell>xxxix</cell>
+</row>
+<row>
+<cell>cxcvi</cell>
+<cell>xxx</cell>
+</row>
+<row>
+<cell>cxcvii</cell>
+<cell>xxxi</cell>
+</row>
+<row>
+<cell>cxcviii</cell>
+<cell>xxxii</cell>
+</row>
+<row>
+<cell>cxcix</cell>
+<cell>xxxiii</cell>
+</row>
+<row>
+<cell>cc</cell>
+<cell>xxxiv</cell>
+</row>
+<row>
+<cell>cci</cell>
+<cell>xxxv</cell>
+</row>
+<row>
+<cell>ccii</cell>
+<cell>xxxvi</cell>
+</row>
+<row>
+<cell>cciii</cell>
+<cell>xxxvii</cell>
+</row>
+<row>
+<cell>cciv</cell>
+<cell>xxxviii</cell>
+<cell>Zacharias</cell>
+</row>
+<row>
+<cell>ccv</cell>
+<cell>xxxix</cell>
+<cell>vi Men.</cell>
+<cell>Sellum i Men.</cell>
+<cell>Manahen.</cell>
+</row>
+<row>
+<cell>ccvi</cell>
+<cell>xl</cell>
+<cell>i</cell>
+</row>
+<row>
+<cell>ccvii</cell>
+<cell>xli</cell>
+<cell>ii</cell>
+</row>
+<row>
+<cell>ccviii</cell>
+<cell>xlii</cell>
+<cell>iii</cell>
+</row>
+<row>
+<cell>ccix</cell>
+<cell>xliii</cell>
+<cell>iv</cell>
+</row>
+<row>
+<cell>ccx</cell>
+<cell>xliv</cell>
+<cell>v</cell>
+</row>
+<row>
+<cell>ccxi</cell>
+<cell>xlv</cell>
+<cell>vi</cell>
+</row>
+<row>
+<cell>ccxii</cell>
+<cell>xlvi</cell>
+<cell>vii</cell>
+</row>
+</table>
+<table>
+<pb n="0255"/>
+</table>
+<table>
+<row>
+            <cell>ccxiii</cell>
+            <cell>xlvii</cell>
+            <cell>viii</cell>
+          </row>
+<row>
+            <cell>ccxiv</cell>
+            <cell>xlviii</cell>
+            <cell>ix</cell>
+          </row>
+<row>
+            <cell>ccxv</cell>
+            <cell>xlix</cell>
+            <cell>i Phaceia</cell>
+          </row>
+<row>
+            <cell>ccxvi</cell>
+            <cell>l</cell>
+            <cell>ii</cell>
+          </row>
+<row>
+            <cell>ccxvii</cell>
+            <cell>li</cell>
+            <cell>i Phacee</cell>
+          </row>
+<row>
+            <cell>ccxviii</cell>
+            <cell>lii</cell>
+            <cell>ii</cell>
+          </row>
+<row>
+            <cell>ccxix</cell>
+            <cell>i Joathan.</cell>
+            <cell>iii</cell>
+          </row>
+<row>
+            <cell>ccxx</cell>
+            <cell>ii</cell>
+            <cell>iv</cell>
+          </row>
+<row>
+            <cell>ccxxi</cell>
+            <cell>iii</cell>
+            <cell>v</cell>
+          </row>
+<row>
+            <cell>ccxxii</cell>
+            <cell>iv</cell>
+            <cell>vi</cell>
+          </row>
+<row>
+            <cell>ccxxiii</cell>
+            <cell>v</cell>
+            <cell>vii</cell>
+          </row>
+<row>
+            <cell>ccxxiv</cell>
+            <cell>vi</cell>
+            <cell>viii</cell>
+          </row>
+<row>
+            <cell>ccxxv</cell>
+            <cell>vii</cell>
+            <cell>ix</cell>
+          </row>
+<row>
+            <cell>ccxxvi</cell>
+            <cell>viii</cell>
+            <cell>x.</cell>
+          </row>
+<row>
+            <cell>ccxxvii</cell>
+            <cell>ix</cell>
+            <cell>xi</cell>
+          </row>
+<row>
+            <cell>ccxxviii</cell>
+            <cell>x</cell>
+            <cell>xii</cell>
+          </row>
+<row>
+            <cell>ccxxix</cell>
+            <cell>xi</cell>
+            <cell>xiii</cell>
+          </row>
+<row>
+            <cell>ccxxx</cell>
+            <cell>xii</cell>
+            <cell>xiv</cell>
+          </row>
+<row>
+            <cell>ccxxxi</cell>
+            <cell>xiii</cell>
+            <cell>xv.</cell>
+          </row>
+<row>
+            <cell>ccxxxii</cell>
+            <cell>xiv</cell>
+            <cell>xvi</cell>
+          </row>
+<row>
+            <cell>ccxxxiii</cell>
+            <cell>xv</cell>
+            <cell>xvii</cell>
+          </row>
+<row>
+            <cell>ccxxviv</cell>
+            <cell>xvi</cell>
+            <cell>Achaz.</cell>
+            <cell>xviii</cell>
+          </row>
+<row>
+            <cell>ccxxxv</cell>
+            <cell>i</cell>
+            <cell>xix</cell>
+          </row>
+<row>
+            <cell>ccxxxvi</cell>
+            <cell>ii</cell>
+            <cell>xx</cell>
+          </row>
+<row>
+            <cell>ccxxxvii</cell>
+            <cell>iii</cell>
+            <cell>Osee</cell>
+          </row>
+<row>
+            <cell>ccxxxviii</cell>
+            <cell>xx</cell>
+            <cell>iv</cell>
+          </row>
+<row>
+            <cell>ccxxxix</cell>
+            <cell>v</cell>
+          </row>
+<row>
+            <cell>ccxl</cell>
+            <cell>vi</cell>
+          </row>
+<row>
+            <cell>ccxli</cell>
+            <cell>vii</cell>
+          </row>
+<row>
+            <cell>ccxlii</cell>
+            <cell>viii</cell>
+          </row>
+<row>
+            <cell>ccxliii</cell>
+            <cell>ix</cell>
+          </row>
+<row>
+            <cell>ccxliv</cell>
+            <cell>x</cell>
+          </row>
+<row>
+            <cell>ccxlv</cell>
+            <cell>xi</cell>
+          </row>
+<row>
+            <cell>ccxlvi</cell>
+            <cell>xii</cell>
+            <cell>Osee</cell>
+          </row>
+<row>
+            <cell>ccxlvii</cell>
+            <cell>xiii</cell>
+            <cell>i</cell>
+          </row>
+<row>
+            <cell>ccxlviii</cell>
+            <cell>xiv</cell>
+            <cell>Ezechias.</cell>
+            <cell>ii</cell>
+          </row>
+<row>
+            <cell>ccxlix</cell>
+            <cell>xv</cell>
+            <cell>i</cell>
+            <cell>iii</cell>
+          </row>
+<row>
+            <cell>ccl</cell>
+            <cell>xvi</cell>
+            <cell>iv</cell>
+          </row>
+<row>
+            <cell>ccli</cell>
+            <cell>ii</cell>
+            <cell>v</cell>
+          </row>
+<row>
+            <cell>cclii</cell>
+            <cell>iii</cell>
+            <cell>vi</cell>
+          </row>
+<row>
+            <cell>ccliii</cell>
+            <cell>iv</cell>
+            <cell>vii</cell>
+          </row>
+<row>
+            <cell>ccliv</cell>
+            <cell>v</cell>
+            <cell>viii</cell>
+          </row>
+<row>
+            <cell>cclv</cell>
+            <cell>vi</cell>
+            <cell>ix.</cell>
+          </row>
+</table>
+
+
+</div1>
+</body>
+  </text>
+</TEI>
