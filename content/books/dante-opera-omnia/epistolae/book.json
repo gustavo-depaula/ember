@@ -1,0 +1,129 @@
+{
+  "id": "dante-epistolae",
+  "cover": "classic",
+  "name": {
+    "la": "Epistolae",
+    "en-US": "Letters (Epistolae)",
+    "pt-BR": "Epístolas (Epistolae)"
+  },
+  "author": {
+    "it": "Dante Alighieri",
+    "la": "Dante Alighieri",
+    "en-US": "Dante Alighieri",
+    "pt-BR": "Dante Alighieri"
+  },
+  "description": {
+    "la": "Dantis Alagherii Epistolae tredecim secundum ordinem Societatis Dantescae Italicae (1921), annis circiter 1304-1316 scriptae: ad cardinalem Ostiensem, ad comites de Romena, ad Moroellum Malaspinam, ad reges Italiae, ad Florentinos, ad Henricum VII, tres a comitissa de Battifolle ad reginam Margaritam, ad cardinales Italicos, ad amicum Florentinum, et ad Canem Grandem (cuius pars exegetica a pluribus Dantis esse negatur).",
+    "en-US": "The thirteen Latin letters of Dante in the numbering of the Società Dantesca Italiana (1921), written between about 1304 and 1316: to Cardinal Niccolò of Ostia, the counts of Romena, Moroello Malaspina, the kings of Italy, the Florentines, Henry VII; three written for the Countess of Battifolle to Queen Margaret; to the Italian cardinals, to a Florentine friend; and to Cangrande della Scala (Epistle XIII, whose authenticity is disputed, above all its exegetical part). Paget Toynbee’s numbering, which makes Cangrande’s letter X, differs.",
+    "pt-BR": "As treze cartas latinas de Dante, na numeração da Società Dantesca Italiana (1921), escritas entre cerca de 1304 e 1316; a Epístola XIII, a Cangrande della Scala, tem autenticidade discutida."
+  },
+  "composed": "1304-1316",
+  "languages": [
+    "la"
+  ],
+  "work": "dante/epistolae",
+  "editions": {
+    "la": {
+      "editor": "Ermenegildo Pistelli, for the Società Dantesca Italiana, as transcribed on The Latin Library",
+      "year": 1921
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.thelatinlibrary.com/dante/ep.shtml",
+      "edition": "Epistolae, Pistelli’s text for the Società Dantesca Italiana (1921), scanned and corrected by Roberto Gagliardi (1997), reformatted by Carlo Alberto Furia (1998), on The Latin Library.",
+      "description": "All thirteen letters, with the editor’s bracketed rubrics and paragraph numbers. The titles of the chapters are ours, from each letter’s salutation. Epistle XIII is labelled authenticity disputed (the dedication is widely accepted; the exegetical part is contested). The English of Paget Toynbee (1920) is OCR only and is not imported.",
+      "tier": "A",
+      "tierEvidence": "The Latin Library pages are an anonymous, freely distributed transcription of the Società Dantesca Italiana text; the work is medieval and public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "epistolae",
+      "title": {
+        "la": "Epistolae"
+      },
+      "children": [
+        {
+          "id": "epistola-01",
+          "title": {
+            "la": "Epistola I: ad cardinalem Nicolaum Ostiensem (pro parte Alborum)"
+          }
+        },
+        {
+          "id": "epistola-02",
+          "title": {
+            "la": "Epistola II: ad comites de Romena"
+          }
+        },
+        {
+          "id": "epistola-03",
+          "title": {
+            "la": "Epistola III: ad exulem Pistoriensem"
+          }
+        },
+        {
+          "id": "epistola-04",
+          "title": {
+            "la": "Epistola IV: ad Moroellum Malaspinam"
+          }
+        },
+        {
+          "id": "epistola-05",
+          "title": {
+            "la": "Epistola V: ad Italiae reges et principes"
+          }
+        },
+        {
+          "id": "epistola-06",
+          "title": {
+            "la": "Epistola VI: ad Florentinos intrinsecos"
+          }
+        },
+        {
+          "id": "epistola-07",
+          "title": {
+            "la": "Epistola VII: ad Henricum VII imperatorem"
+          }
+        },
+        {
+          "id": "epistola-08",
+          "title": {
+            "la": "Epistola VIII: comitissae de Battifolle ad Margaritam reginam"
+          }
+        },
+        {
+          "id": "epistola-09",
+          "title": {
+            "la": "Epistola IX: comitissae de Battifolle ad Margaritam reginam"
+          }
+        },
+        {
+          "id": "epistola-10",
+          "title": {
+            "la": "Epistola X: comitissae de Battifolle ad Margaritam reginam"
+          }
+        },
+        {
+          "id": "epistola-11",
+          "title": {
+            "la": "Epistola XI: ad cardinales Italicos"
+          }
+        },
+        {
+          "id": "epistola-12",
+          "title": {
+            "la": "Epistola XII: ad amicum Florentinum"
+          }
+        },
+        {
+          "id": "epistola-13",
+          "title": {
+            "la": "Epistola XIII: ad Canem Grandem de la Scala (auctoritas disputata)"
+          }
+        }
+      ]
+    }
+  ]
+}

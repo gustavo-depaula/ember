@@ -1,0 +1,7 @@
+# Epistola VIII: comitissae de Battifolle ad Margaritam reginam
+
+1. Gloriosissime atque clementissime domine domine Margarite divina providentia Romanorum regine et semper Auguste, G. de Batifolle Dei et adiuvalis Magnificentie gratia comitissa in Tuscia palatina, tam debite quam devote subiectionis officium ante pedes.
+
+2. Gratissima regie Benignitatis epistola et meis oculis visa letanter et manibus fuit assumpta reverenter, ut decuit. Cumque significata per illam mentis aciem penetrando dulcescerent, adeo spiritus lectitantis fervore devotionis incaluit, ut nunquam possint superare oblivia nec memoria sine gaudio memorare. 3. Nam quanti vel qualis ego, ut ad enarrandum michi de sospitate consortis et sua, utinam diuturna!, coniunx fortissima Cesaris condescendat? Quippe tanti pondus honoris neque merita gratulantis neque dignitas postulabat; sed nec etiam inclinari humanorum graduum dedecuit apicem, unde, velut a vivo fonte, sancte civilitatis exempla debent inferioribus emanare.
+
+4. Dignas itaque persolvere grates non opis est hominis; verum ab homine alienum esse non reor pro insufficiente supplemento Deum exorare quandoque. 5. Nunc ideo regni siderii iustis precibus atque piis aula pulsetur, et impetret supplicantis affectus quatenus mundi gubernator eternus condescensui tanto premia coequata retribuat, et ad auspitia Cesaris et Auguste dexteram gratie coadiutricis extendat; ut qui romani principatus imperio barbaras nationes et cives in mortalium tutamenta subegit, delirantis evi familiam sub triumphis et gloria sui Henrici reformet in melius.

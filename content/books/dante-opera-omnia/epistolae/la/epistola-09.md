@@ -1,0 +1,7 @@
+# Epistola IX: comitissae de Battifolle ad Margaritam reginam
+
+1. Serenissime atque piissime domine domine Margarite celestis miserationis intuitu Romanorum regine et semper Auguste, devotissima sua G. de Batifolle Dei et Imperii gratia largiente comitissa in Tuscia palatina, flexis humiliter genibus reverentie debitum exhibet.
+
+2. Regalis epistole documenta gratuita ea qua potui venerazione recepi, intellexi devote. Sed cum de prosperitate successuum vestri felicissimi cursus familiariter intimata concepi, quanto libens animus concipientis arriserit, placet potius commendare silentio tanquam nuntio meliori; non enim verba significando sufficiunt ubi mens ipsa quasi debria superatur. 3. Itaque suppleat regie Celsitudinis apprehensio que scribentis humilitas esplicare non potest.
+
+4. At quamvis insinuata per litteras ineffabiliter grata fuerint et iocunda, spes amplior tamen et letandi causas accumulat et simul vota iusta confectat. Spero equidem, de celesti previsione confidens quam nunquam falli vel prepediri posse non dubito et que humane civilitati de Principe singolari providit, quod exordia vestri regni felicia semper in melius prosperata procedent. 5. Sic igitur in presentibus et futuris exultans, ad Auguste clementiam sine ulla hesitatione recurro, et suppliciter tempestiva deposco quatenus me sub umbra tutissima vestri Culminis taliter collocare dignemini, ut cuiusque sinistrationis ab estu sim semper et videar esse secura.
