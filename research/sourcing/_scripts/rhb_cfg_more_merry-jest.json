@@ -1,0 +1,21 @@
+{
+ "id": "more-merry-jest",
+ "dir": "more-opera-omnia/merry-jest",
+ "slug": "merry-jest",
+ "work": "more/merry-jest",
+ "author": "St. Thomas More",
+ "author_pt": "São Tomás More",
+ "died": 1535,
+ "src": "A07705.xml",
+ "name": "A Merry Jest How a Sergeant Would Learn to Play the Friar",
+ "name_pt": "Uma Divertida Chalaça: Como um Sargento Quis Aprender a Fazer-se Frade",
+ "desc": "More's comic verse tale of a sergeant who tries to play the friar and is outwitted.",
+ "desc_pt": "Conto cômico em versos de More sobre um sargento que quer fazer-se frade e é enganado.",
+ "composed": 1516,
+ "editor": "Thomas More (London: 1557)",
+ "year": 1557,
+ "url": "https://github.com/textcreationpartnership/A07705",
+ "edition": "A mery gest how a sergeaunt woldelerne to be a frer, EEBO-TCP A07705.",
+ "front": true,
+ "parts": true
+}

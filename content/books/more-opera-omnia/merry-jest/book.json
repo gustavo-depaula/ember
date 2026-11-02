@@ -1,0 +1,45 @@
+{
+  "id": "more-merry-jest",
+  "cover": "classic",
+  "name": {
+    "en-US": "A Merry Jest How a Sergeant Would Learn to Play the Friar",
+    "pt-BR": "Uma Divertida Chalaça: Como um Sargento Quis Aprender a Fazer-se Frade"
+  },
+  "author": {
+    "en-US": "St. Thomas More",
+    "pt-BR": "São Tomás More"
+  },
+  "description": {
+    "en-US": "More's comic verse tale of a sergeant who tries to play the friar and is outwitted.",
+    "pt-BR": "Conto cômico em versos de More sobre um sargento que quer fazer-se frade e é enganado."
+  },
+  "composed": 1516,
+  "languages": [
+    "en-US"
+  ],
+  "work": "more/merry-jest",
+  "editions": {
+    "en-US": {
+      "editor": "Thomas More (London: 1557)",
+      "year": 1557
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/textcreationpartnership/A07705",
+      "edition": "A mery gest how a sergeaunt woldelerne to be a frer, EEBO-TCP A07705.",
+      "description": " EEBO-TCP hand-keyed transcription, original spelling kept. 5 illegible places in the source are marked […]. Raw TEI in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "St. Thomas More died in 1535; the edition is of 1557 and the TCP transcription is released to the public domain (CC0)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "A mery gest how a sergeaūt woldel erne to be a frete"
+      }
+    }
+  ]
+}
