@@ -1,0 +1,54 @@
+{
+  "id": "bossuet-communion-sous-les-deux-especes",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Traité de la communion sous les deux espèces",
+    "en-US": "Treatise on Communion under Both Kinds",
+    "pt-BR": "Tratado da comunhão sob as duas espécies"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Pourquoi l’Église latine donne la communion sous la seule espèce du pain : la pratique des premiers siècles, puis les principes de l’Église, à la lumière de l’Écriture et de la tradition. Composé vers 1682, publié en 1683. Édition Lachat (1864).",
+    "en-US": "Why the Latin Church gives communion under the one species of bread: the practice of the first centuries, then the principles of the Church, in the light of Scripture and tradition. Composed around 1682 and published in 1683. Lachat edition (1864).",
+    "pt-BR": "Por que a Igreja latina dá a comunhão sob a única espécie do pão: a prática dos primeiros séculos e depois os princípios da Igreja, à luz da Escritura e da tradição. Composto por volta de 1682 e publicado em 1683. Edição Lachat (1864)."
+  },
+  "composed": "1682",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/traite-de-la-communion-sous-les-deux-especes",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume016/007.htm to 008.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XVI, pages 007-008. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "premiere-partie",
+      "title": {
+        "fr-FR": "Première partie : la pratique et le sentiment de l’Église dès les premiers siècles"
+      }
+    },
+    {
+      "id": "seconde-partie",
+      "title": {
+        "fr-FR": "Seconde partie : les principes sur lesquels sont appuyés les sentiments et la pratique de l’Église"
+      }
+    }
+  ]
+}
