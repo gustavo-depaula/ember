@@ -1,0 +1,114 @@
+{
+  "id": "chantal-papiers",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Petit livret, questions et réponses, papiers intimes",
+    "en-US": "Little Book, Questions and Answers, Private Papers",
+    "pt-BR": "Pequeno livro, perguntas e respostas, papéis íntimos"
+  },
+  "author": {
+    "fr-FR": "Sainte Jeanne-Françoise Frémyot de Chantal",
+    "en-US": "St. Jane Frances de Chantal",
+    "pt-BR": "Santa Joana Francisca de Chantal"
+  },
+  "description": {
+    "fr-FR": "Les écrits personnels de sainte Jeanne-Françoise de Chantal : son Petit livret (les avis de direction reçus de saint François de Sales), ses cantiques, ses exercices et résolutions de retraite, les questions qu’elle posa au saint évêque avec ses réponses, les papiers intimes trouvés sur elle et placés dans son cercueil, et son règlement de retraite.",
+    "en-US": "The personal writings of St. Jane Frances de Chantal: her Little Book (the counsels of direction she received from St. Francis de Sales), her canticles, her retreat exercises and resolutions, the questions she put to the holy bishop with his answers, the private papers found on her and placed in her coffin, and her retreat rule.",
+    "pt-BR": "Os escritos pessoais de santa Joana Francisca de Chantal: seu Pequeno livro (os avisos de direção recebidos de são Francisco de Sales), seus cânticos, os exercícios e propósitos de retiro, as perguntas feitas ao santo bispo com as respostas dele, os papéis íntimos encontrados com ela e postos em seu caixão, e seu regulamento de retiro."
+  },
+  "composed": "1604–1641",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "jane-de-chantal/papiers",
+  "editions": {
+    "fr-FR": {
+      "editor": "Religieuses du Premier Monastère de la Visitation d’Annecy",
+      "year": 1875
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/8DSUP48_2",
+      "edition": "Sainte Jeanne-Françoise Frémyot de Chantal, sa vie et ses œuvres, Plon, Paris, 1875, tome II (Œuvres diverses I), pp. 1–69. Archive.org OCR of the Sainte-Geneviève copy.",
+      "description": "OCR cleaned by script. The canticles are printed as one paragraph per OCR block (the verse lines run together). Much of the Petit livret and the Réponses is the teaching of Francis de Sales as she noted it.",
+      "tier": "A",
+      "tierEvidence": "Plon 1875."
+    }
+  ],
+  "toc": [
+    {
+      "id": "petit-livret",
+      "title": {
+        "fr-FR": "Précieux fragments du Petit livret de notre bienheureuse Mère Jeanne-Françoise Frémyot de Chantal, ou recueil fait par elle des principaux avis de direction qu’elle avait reçus de saint François de Sales"
+      }
+    },
+    {
+      "id": "cantique",
+      "title": {
+        "fr-FR": "Cantique"
+      }
+    },
+    {
+      "id": "cantique-vierge",
+      "title": {
+        "fr-FR": "Cantique à la sainte Vierge"
+      }
+    },
+    {
+      "id": "derniers-avis",
+      "title": {
+        "fr-FR": "Derniers avis du Bienheureux (pendant la retraite de 1610)"
+      }
+    },
+    {
+      "id": "exercices-retraite",
+      "title": {
+        "fr-FR": "Exercices faits en retraite"
+      }
+    },
+    {
+      "id": "sentiments-resolutions",
+      "title": {
+        "fr-FR": "Sentiments et résolutions à la fin d’une retraite annuelle"
+      }
+    },
+    {
+      "id": "autre-recueil",
+      "title": {
+        "fr-FR": "Autre recueil de quelques paroles, instructions et avis de saint François de Sales donnés à Jeanne-Françoise Frémyot de Chantal"
+      }
+    },
+    {
+      "id": "questions-reponses",
+      "title": {
+        "fr-FR": "Questions adressées par Jeanne-Françoise Frémyot de Chantal à saint François de Sales, et réponses faites par lui"
+      }
+    },
+    {
+      "id": "papiers-intimes",
+      "title": {
+        "fr-FR": "Papiers intimes qui se sont trouvés sur la Sainte, et qu’elle ordonna être mis sur elle dans le cercueil"
+      }
+    },
+    {
+      "id": "papiers-constitutions",
+      "title": {
+        "fr-FR": "Papiers trouvés dans le livre des Constitutions, écrits de sa main"
+      }
+    },
+    {
+      "id": "avis-fondateur",
+      "title": {
+        "fr-FR": "Avis de notre saint Fondateur à notre digne Mère, copiés dans le livre de ses Constitutions; oraison à saint François de Sales"
+      }
+    },
+    {
+      "id": "reglement-retraite",
+      "title": {
+        "fr-FR": "Règlement de retraite"
+      }
+    }
+  ]
+}
