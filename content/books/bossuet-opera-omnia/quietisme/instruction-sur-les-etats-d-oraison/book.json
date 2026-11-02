@@ -1,0 +1,172 @@
+{
+  "id": "bossuet-instruction-sur-les-etats-d-oraison",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Instruction sur les états d’oraison",
+    "en-US": "Instruction on the States of Prayer",
+    "pt-BR": "Instrução sobre os estados de oração"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Traité en deux parties contre le quiétisme, écrit en 1696-1697 : le premier traité (dix livres) expose la doctrine catholique de l’oraison et de ses degrés, le second recueille la tradition des Pères contre les « nouveaux mystiques ». Avec l’ordonnance de Meaux, les approbations et les actes de la condamnation de Molinos. Publié en 1697. Édition Lachat (1864).",
+    "en-US": "A treatise in two parts against Quietism, written in 1696-97: the first treatise (ten books) sets out the Catholic doctrine of prayer and its degrees, the second gathers the tradition of the Fathers against the “new mystics.” With the ordinance of Meaux, the approbations and the acts condemning Molinos. Published in 1697. Lachat edition (1864).",
+    "pt-BR": "Tratado em duas partes contra o quietismo, escrito em 1696-1697: o primeiro tratado (dez livros) expõe a doutrina católica da oração e de seus graus, o segundo reúne a tradição dos Padres contra os «novos místicos». Com a ordenança de Meaux, as aprovações e os atos da condenação de Molinos. Publicado em 1697. Edição Lachat (1864)."
+  },
+  "composed": "1697",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/instruction-sur-les-etats-d-oraison",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume018/009.htm to 023.htm, volume019/001.htm to 004.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XVIII, pages 009-023, and volume XIX, pages 001-004. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "remarques-historiques",
+      "title": {
+        "fr-FR": "Remarques historiques"
+      }
+    },
+    {
+      "id": "ordonnance",
+      "title": {
+        "fr-FR": "Ordonnance et instruction pastorale sur les états d’oraison"
+      }
+    },
+    {
+      "id": "preface",
+      "title": {
+        "fr-FR": "Préface"
+      }
+    },
+    {
+      "id": "approbations",
+      "title": {
+        "fr-FR": "Approbations et bref"
+      }
+    },
+    {
+      "id": "premier-traite",
+      "title": {
+        "fr-FR": "Premier traité : instruction sur les états d’oraison"
+      },
+      "children": [
+        {
+          "id": "livre-01",
+          "title": {
+            "fr-FR": "Livre premier"
+          }
+        },
+        {
+          "id": "livre-02",
+          "title": {
+            "fr-FR": "Livre II"
+          }
+        },
+        {
+          "id": "livre-03",
+          "title": {
+            "fr-FR": "Livre III"
+          }
+        },
+        {
+          "id": "livre-04",
+          "title": {
+            "fr-FR": "Livre IV"
+          }
+        },
+        {
+          "id": "livre-05",
+          "title": {
+            "fr-FR": "Livre V"
+          }
+        },
+        {
+          "id": "livre-06",
+          "title": {
+            "fr-FR": "Livre VI"
+          }
+        },
+        {
+          "id": "livre-07",
+          "title": {
+            "fr-FR": "Livre VII"
+          }
+        },
+        {
+          "id": "livre-08",
+          "title": {
+            "fr-FR": "Livre VIII"
+          }
+        },
+        {
+          "id": "livre-09",
+          "title": {
+            "fr-FR": "Livre IX"
+          }
+        },
+        {
+          "id": "livre-10",
+          "title": {
+            "fr-FR": "Livre X"
+          }
+        },
+        {
+          "id": "additions-et-corrections",
+          "title": {
+            "fr-FR": "Additions et corrections"
+          }
+        }
+      ]
+    },
+    {
+      "id": "second-traite",
+      "title": {
+        "fr-FR": "Second traité : tradition des nouveaux mystiques"
+      },
+      "children": [
+        {
+          "id": "chapitres-1-6",
+          "title": {
+            "fr-FR": "Chapitres I-VI : tradition des nouveaux mystiques"
+          }
+        },
+        {
+          "id": "chapitres-7-10",
+          "title": {
+            "fr-FR": "Chapitres VII-X"
+          }
+        },
+        {
+          "id": "chapitres-11-17",
+          "title": {
+            "fr-FR": "Chapitres XI-XVII"
+          }
+        }
+      ]
+    },
+    {
+      "id": "actes-de-condamnation",
+      "title": {
+        "fr-FR": "Actes de la condamnation des quiétistes"
+      }
+    }
+  ]
+}
