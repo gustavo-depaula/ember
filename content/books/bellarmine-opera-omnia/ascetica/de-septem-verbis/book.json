@@ -1,0 +1,311 @@
+{
+  "id": "bellarmine-de-septem-verbis",
+  "cover": "classic",
+  "name": {
+    "la": "De septem verbis a Christo in cruce prolatis",
+    "en-US": "The Seven Words Spoken by Christ on the Cross",
+    "pt-BR": "As sete palavras de Cristo na cruz"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Duo libri de septem verbis a Christo in cruce prolatis: explicatio litteralis et fructus ex singulis (1618).",
+    "en-US": "Two books on the seven last words of Christ: the literal sense of each word and the fruits to be drawn from it (1618). The Latin is the Vivès edition (1870-74) from an OCR scan; the English is the anonymous Burns & Oates translation of 1877.",
+    "pt-BR": "Dois livros sobre as sete palavras de Cristo na cruz: o sentido literal e os frutos de cada uma (1618)."
+  },
+  "composed": "1618",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "work": "bellarmine/de-septem-verbis",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    },
+    "en-US": {
+      "translator": "Anonymous (Burns & Oates)",
+      "year": 1877
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia08bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 8 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/sevenwordsspoken00bell",
+      "edition": "The Seven Words Spoken by Christ on the Cross (London: Burns & Oates, 1877), reprinted from the Messenger of the Sacred Heart.",
+      "description": "Archive.org OCR (djvu.txt): page heads removed, lines rejoined; a few chapter-opening letters lost to drop caps and some words split at line ends remain.",
+      "tier": "A",
+      "tierEvidence": "Published before 1928; public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "b1",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "b1c01",
+          "title": {
+            "la": "Caput I. Explicatur ad litteram verbum primum: Pater dimitte illis: non enim sciunt, quid faciunt. Lue. xxm",
+            "en-US": "Chapter 1. The literal explanation of the first word, “Father, forgive them, Jor they know not what they do.”"
+          }
+        },
+        {
+          "id": "b1c02",
+          "title": {
+            "la": "Caput II. De primo fructu primi verbi in cruce prolati",
+            "en-US": "Chapter 2. The first fruit to be drawn from the consideration of the fast word spoken by Christ upon the Cross"
+          }
+        },
+        {
+          "id": "b1c03",
+          "title": {
+            "la": "Caput III. De altero fructu ejusdem primi verbi a Christo in cruce prolati",
+            "en-US": "Chapter 3. The second fruit to be drawn from the consideration of the jirst word spoken by Christ upon the Cross"
+          }
+        },
+        {
+          "id": "b1c04",
+          "title": {
+            "la": "Caput IV. Explicatur ad litteram verbum secundum; Amen dico tibi: Hodie mecum eris in paradiso. Luc. xxm",
+            "en-US": "Chapter 4. ,"
+          }
+        },
+        {
+          "id": "b1c05",
+          "title": {
+            "la": "Caput V. De primo fructu verbi secundi",
+            "en-US": "Chapter 5. The first fruit to be drawn from the consideration of the second word spoken by Christ upon the Cross"
+          }
+        },
+        {
+          "id": "b1c06",
+          "title": {
+            "la": "Caput VI. De secundo fructu verbi secundi",
+            "en-US": "Chapter 6. The second fruit to be drawn Srom the consideration of the second word spoken by Christ upon the Cross"
+          }
+        },
+        {
+          "id": "b1c08",
+          "title": {
+            "la": "Caput VIII. De tertio fructu verbi secundi",
+            "en-US": "Chapter 8. The literal explanation of the third word—* Behold thy Mother : Behold thy son.”"
+          }
+        },
+        {
+          "id": "b1c09",
+          "title": {
+            "la": "Caput IX. De primo fructu verbi tertii",
+            "en-US": "Chapter 9. The first fruit to be drawn from the consideration of the third word spoken by Christ upon the Cross"
+          }
+        },
+        {
+          "id": "b1c10",
+          "title": {
+            "la": "Caput X. De secundo fructu verbi tertii",
+            "en-US": "Chapter 10. The second frust to be drawn from the consideration of the third word spoken by Christ upon the Cross"
+          }
+        },
+        {
+          "id": "b1c11",
+          "title": {
+            "la": "Caput XI. De tertio fructu verbi tertii",
+            "en-US": "Chapter 11. The third fruit to be drawn from the consideration of the thira word spoken by Christ upon the Cross"
+          }
+        },
+        {
+          "id": "b1c12",
+          "title": {
+            "la": "Caput XII. De quarto fructu verbi tertii",
+            "en-US": "Chapter 12. The fourth fruit to be drawn from the consideration of the third word spoken by Christ upon the Cross"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "b2c01",
+          "title": {
+            "la": "Caput I. Explicatur ad litteram verbum quartum:",
+            "en-US": "Chapter 1. The literal explanation of the fourth word, “My God, My God, why hast Thou abandoned Me?”"
+          }
+        },
+        {
+          "id": "b2c02",
+          "title": {
+            "la": "Caput II. De primo fructu verbi quarti",
+            "en-US": "Chapter 2. The first fruit to be drawn from the consideration of the fourth word spoken by Christ upon the Cross"
+          }
+        },
+        {
+          "id": "b2c03",
+          "title": {
+            "la": "Caput III. De secundo fructu verbi quarti",
+            "en-US": "Chapter 3. The second fruit to be drawn Sront the consideration of the fourth word spoken by Christ upon the Cross"
+          }
+        },
+        {
+          "id": "b2c04",
+          "title": {
+            "la": "Caput IV. De tertio fructu verbi quarti",
+            "en-US": "Chapter 4. Lhe third fruit to be drawn from the consideration of the fourth word spoken by Christ upon the Cross"
+          }
+        },
+        {
+          "id": "b2c06",
+          "title": {
+            "la": "Caput VI. De quinto fructu verbi quarti",
+            "en-US": "Chapter 6. Lhe fifth fruit to be drawn from the consideration of the fourth word spoken by Christ upon the Cross"
+          }
+        },
+        {
+          "id": "b2c07",
+          "title": {
+            "la": "Caput VII. De verbo quinto, Sitio, ad litteram",
+            "en-US": "Chapter 7. The literal explanation of the fifth word, “ L thirst.”"
+          }
+        },
+        {
+          "id": "b2c08",
+          "title": {
+            "la": "Caput VIII. De primo fructu libri quinti",
+            "en-US": "Chapter 8. The first fruit to be derived from the consideration of the fifth word spoken by Christ upon the Cross"
+          }
+        },
+        {
+          "id": "b2c09",
+          "title": {
+            "la": "Caput IX. De secundo fructu verbi quinti",
+            "en-US": "Chapter 9. The second fruit to be derived from the consideration of the fifth word spoken by Christ upon the Cross"
+          }
+        },
+        {
+          "id": "b2c10",
+          "title": {
+            "la": "Caput X. De tertio fructu verbi quinti",
+            "en-US": "Chapter 10. ,"
+          }
+        },
+        {
+          "id": "b2c11",
+          "title": {
+            "la": "Caput XI. De quarto fructu verbi quinti",
+            "en-US": "Chapter 11. The fourth fruit to be drawn from the consideration of the fifth word spoken by Christ upon the Cross"
+          }
+        },
+        {
+          "id": "b2c12",
+          "title": {
+            "la": "Caput XII. Exponitur ad litteram verbum sextum Consummatum est. Joan. xix",
+            "en-US": "Chapter 12. The literal explanation of the sixth word, “It 7s consummated.”"
+          }
+        },
+        {
+          "id": "b2c13",
+          "title": {
+            "la": "Caput XIII. De primo fructu verbi sexti",
+            "en-US": "Chapter 13. The first fruit to be drawn from the consideration of the sixth word shoken by Christ upon the Cross"
+          }
+        },
+        {
+          "id": "b2c14",
+          "title": {
+            "la": "Caput XIV. De secundo fructu verbi sexti",
+            "en-US": "Chapter 14. The second fruit to be drawn from the consideration of the sixth word spoken by Christ upon the Cross"
+          }
+        },
+        {
+          "id": "b2c15",
+          "title": {
+            "la": "Caput XV. De tertio fructu verbi sexti",
+            "en-US": "Chapter 15. Lhe third fruit to be drawn from the consideration of the sixth word spoken by Christ upon the Cross. |"
+          }
+        },
+        {
+          "id": "b2c16",
+          "title": {
+            "la": "Caput XVI. De quarto f mictu verbi sexti",
+            "en-US": "Chapter 16. The fourth fruit to be drawn from the consideration of the sixth word spoken by Christ upon the Cross"
+          }
+        },
+        {
+          "id": "b2c17",
+          "title": {
+            "la": "Caput XVII. De quinto fructu verbi sexti",
+            "en-US": "Chapter 17. The fifth frurt to be drawn from the consideration of the sixth word spoken by Christ upon the Cross. ;"
+          }
+        },
+        {
+          "id": "b2c18",
+          "title": {
+            "la": "Caput XVIII. De sexto fructu verbi sexti",
+            "en-US": "Chapter 18. The sixth fruit to be drawn from the consideration of the sixth word | spoken by Christ upon the Cross"
+          }
+        },
+        {
+          "id": "b2c19",
+          "title": {
+            "la": "Caput XIX. Explicatur ad litteram verbum septimum, Pater, in manus tuas commendo spiritum meum. Luc. xxm",
+            "en-US": "Chapter 19. Lhe literal explanation of the seventh word, “ Father, into Thy hands L commend My spirit.”"
+          }
+        },
+        {
+          "id": "b2c20",
+          "title": {
+            "la": "Caput XX. De primo fructu verbi septimi",
+            "en-US": "Chapter 20. The first fruit to be drawn from the consideration of the seventh word spoken by Christ upon the Cross"
+          }
+        },
+        {
+          "id": "b2c21",
+          "title": {
+            "la": "Caput XXI. De secundo fructu verbi septimi",
+            "en-US": "Chapter 21. The second fruit to be drawn from the consideration of the seventh word spoken by Christ upon the Cross"
+          }
+        },
+        {
+          "id": "b2c22",
+          "title": {
+            "la": "Caput XXII. De fructu tertio verbi septimi",
+            "en-US": "Chapter 22. The third fruit to be drawn Srom the ee of the seventh word spoken by Christ upon the Cross"
+          }
+        },
+        {
+          "id": "b2c23",
+          "title": {
+            "la": "Caput XXIII. De fructu quarto verbi septimi",
+            "en-US": "Caput XXIII. De fructu quarto verbi septimi"
+          }
+        },
+        {
+          "id": "b2c24",
+          "title": {
+            "la": "Caput XXIV. De ultimo fructu verbi septimi",
+            "en-US": "Chapter 24. The last fruit to be drawn from the consideration of the seventh word spoken by Christ upon the Cross"
+          }
+        }
+      ]
+    }
+  ]
+}
