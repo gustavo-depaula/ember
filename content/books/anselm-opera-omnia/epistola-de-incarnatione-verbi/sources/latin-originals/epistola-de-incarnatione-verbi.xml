@@ -1,0 +1,1366 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De fide trinitatis</title>
+              <author ref="http://viaf.org/viaf/100187025">Anselmus Cantuariensis<date>1033-1109</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1853</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 158</title>
+           <idno>AnsCan.DeFiTr</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head> <emph>41</emph> PRAEFATIO.</head>
+<p>Quamvis post apostolos, sancti Patres et doctores
+nostri multi tot et tanta de fidei nostrae ratione dicant
+ ad confutandam insipientiam et frangendam
+duritiam infidelium, et ad pascendum eos
+qui, jam corde fide mundato, ejusdem fidei ratione
+(quam post ejus certitudinem debemus esurire) delectantur,
+<pb n="0260C"/>
+ut nec nostris nec futuris temporibus ullum
+illis parem in veritatis contemplatione speremus;
+nullum tamen reprehendendum arbitror, si fide
+stabilitus, in rationis ejus indagine se voluerit exercere.
+Nam et illi, quia <hi>breves dies sunt <note>(Job XIV, 58)</note>
+          </hi>,
+non omnia quae possent, si diutius vixissent, dicere
+potuerunt: et veritatis ratio tam ampla, tamque
+<pb n="0261A"/>
+profunda est ut a mortalibus nequeat exhauriri;
+et Dominus in Ecclesia sua, cum qua se esse usque
+ad consummationem saeculi promittit, gratiae suae
+dona non desinit impertiri. Et, ut alia taceam, quibus
+sacra pagina nos ad investigandam rationem
+invitat, ubi dicit: <hi>Nisi credideritis, non intelligetis <note>(Isa. VII, 9)</note>
+          </hi>,
+aperte nos monet intentionem ad
+intellectum extendere; cum docet qualiter ad illum
+debeamus proficere. Denique quoniam inter fidem
+et speciem intellectum, quem in hac vita capimus,
+esse medium intelligo, quanto aliquis ad illum proficit,
+tanto eum propinquare speciei (ad quam omnes
+anhelamus) existimo. Hac igitur ergo consideratione,
+licet sim homo parvae nimis scientiae, confortatus,
+ad eorum quae credimus, rationem intuendam,
+quantum superna gratia mihi dare dignatur,
+<pb n="0261B"/>
+aliquando conor assurgere, et cum aliquid quod
+prius non videbam reperio, id aliis libenter aperio;
+quatenus quid secure tenere debeam, alieno discam
+judicio. Quapropter, mi pater et domine, Christianis
+omnibus cum reverentia amande, et cum amore reverende,
+papa Urbane, quem Dei providentia in sua
+Ecclesia summum constituit pontificem, quoniam
+nulli rectius possum, vestrae sanctitatis praesento
+conspectui subditum opusculum, ut ejus auctoritate,
+quae ibi suscipienda sunt, approbentur, et quae corrigenda
+sunt emendentur.</p>
+<p> <hi>Domino et Patri universae Ecclesiae in terra peregrinantis,
+summo pontifici</hi> URBANO, <hi>frater</hi> ANSELMUS <hi>vita peccator, habitu monachus, sive jubente sive permittente
+<pb n="0261C"/>
+Deo, Cantuariae metropolis vocatus episcopus,
+debitam subjectionem, cum humili servitio, et
+devotis orationibus</hi>.</p>
+<p>Quoniam divina providentia vestram elegit sanctitatem,
+cui vitam et fidem Christianam custodiendam,
+et Ecclesiam suam regendam committeret; ad
+nullum alium rectius refertur, si quid contra catholicam
+fidem oritur in Ecclesia, ut ejus auctoritate
+corrigatur; nec ulli alii tutius, si quid contra errorem
+respondetur, ostenditur, ut ejus prudentia examinetur.
+Quapropter, sicut nulli dignius possum,
+ita nulli libentius praesentem epistolam, quam vestrae
+destino sapientiae; quatenus si quid in ea corrigendum
+est, vestra censura castigetur, et quod regulam
+veritatis tenet, vestra auctoritate roboretur
+<pb n="0261D"/>
+.</p>
+
+
+<div2>
+          <head>CAPUT PRIMUM.</head>
+<p> <hi>Scribendi occasio, et status quaestionis</hi>.</p>
+<p>Cum adhuc in Becci monasterio essem abbas, praesumpta
+<pb n="0262A"/>
+est a quodam clerico in Francia talis assertio: <hi>Si in Deo</hi>,
+inquit, <hi>tres personae sunt una tantum
+res; et non sunt tres res unaquaeque per se separatim,
+sicut tres angeli, aut tres animae: ita tamen ut potentia
+et voluntate omnino sint idem: ergo Pater et Spiritus
+sanctus cum Filio est incarnatus</hi>. Quod cum ad me
+perlatum esset, incoepi contra hunc errorem quamdam
+epistolam, quam, parte quadam edita, perficere
+contempsi credens non ea opus esse; quoniam
+et ille, contra quem fiebat, in consilio a venerabili
+Remensi archiepiscopo Raynaldo collecto, errorem <emph>42</emph> 
+ suum abjuraverat et nullus videbatur qui eum
+errare ignoraret; partem tamen illam quam feceram
+quidam fratres, me nesciente, transcripserunt, atque
+aliis lugendam tradiderunt; quod idcirco dico ut, si
+<pb n="0262B"/>
+in alicujus manus pars illa venerit, quanquam ibi
+nihil falsum sit, tamen tanquam imperfecta et non
+exquisita relinquatur; et hic quod illic incoepi, diligentius
+inceptum et perfectum requiratur. Postquam
+enim in Anglia ad episcopatum, nescio qua Dei dispositione,
+captus et retentus sum; audivi praefatae
+novitatis auctorem in sua perseverantem sententia
+dicere se non ob aliud abjurasse quod dicebat,
+nisi quia a populo interfici timebat. Hac igitur
+causa quidam fratres precibus suis me coegerunt ut
+solverem quaestionem, qua ipse sic irretitus erat, ut
+nullomodo se expediri ab ea posse crederet; nisi
+aut incarnatione Dei Patris et Spiritus sancti, aut
+deorum multitudine se impediret. Quod rogo
+ne quis putet praesumpsisse me quasi fortitudinem
+<pb n="0262C"/>
+fidei Christianae, meae existimem indigere defensionis
+auxilio. Quippe si ego contemptibilis homuncio,
+tot sanctis et sapientibus ubique existentibus,
+ad confirmandum fidei Christianae firmamentum,
+quasi mea indigeat defensione, aliquid scribere tentarem;
+praesumptor utique judicari, et deodandus
+possem videri. Si enim me viderent homines alii
+onustum paxillis, et funibus, et aliis rebus, quibus
+nutantia ligari et stabiliri solent elaborare circa
+montem Olympum, ad confirmandum eum, ne alicujus
+impulsu nutaret aut subverteretur; mirum, si
+se a risu et derisu contineant; quanto magis
+cum lapis, qui abcissus de monte sine manibus,
+percussit et comminuit statuam, quam vidit in
+somnio Nabuchodonosor; jam factus mons
+<pb n="0262D"/>
+magnus impleverit universam terram, si eum
+meis rationibus fulcire et quasi nutantem stabilire
+nitar; tot sancti et sapientes, qui super ejus aeternam
+firmitatem se stabilitos esse gaudent, indignari
+mihi possunt; et hoc imputate, non studiosae
+<pb n="0263A"/>
+gravitati, sed jactantiae levitati? Si quid ergo de
+firmitate fidei nostrae in hac epistola disputavero,
+non est ad confirmandam illam, sed ad fratrum hoc
+exigentium precibus satisfaciendum. Sed si ille
+qui praefatam protulit sententiam, Deo corrigente,
+ad veritatem rediit, nullatenus putet me in hac epistola
+contra se loqui; quia jam non est quod fuit.
+Si enim fuit aliquando tenebrae, nunc autem lux in
+Domino; non sunt arguendae tenebrae quae jam non
+sunt, sed lux approbanda quae lucet. Verumtamen
+sive adhuc ad lucem redierit, sive non; quoniam
+sentio laborare plures in eadem quaestione, etiamsi
+fides in illis superet rationem, quae illis fidei videtur
+repugnare, non mihi videtur superfluum repugnantiam
+istam dissolvere.
+<pb n="0263B"/>
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT II.</head>
+<p> <hi>Quod sacrae fidei quaestiones, quas disputamus, aut
+rimamur, non quilibet dialectici, sed in Scripturis
+sacris experti suscipere humiliter debent</hi>.</p>
+<p>Sed priusquam de quaestione disseram, aliquid
+praemittam ad compescendam eorum praesumptionem,
+qui nefanda temeritate audent disputare contra
+aliquid eorum, quae fides Christiana confitetur,
+quoniam id intellectu capere nequeunt: et potius
+insipienti superbia judicant nullatenus posse esse,
+quod nequeunt intelligere; quam humili sapientia
+fateantur esse multa posse, qua ipsi non valeant
+comprehendere. Nullus quippe Christianus
+debet disputare quomodo quod catholica Ecclesia
+<pb n="0263C"/>
+corde credit, et ore confitetur, non sit; sed semper
+eamdem fidem indubitanter tenendo, amando,
+et secundum illam vivendo, humiliter quantum potest,
+quaerere rationem quomodo sit. Si potest
+intelligere, Deo gratias agat; si non potest, non
+immittat cornua ad ventilandum, sed submittat
+caput ad venerandum. Citius enim potest in se confidens
+ humana sapientia impingendo cornua sibi
+evellere, quam vi nitendo petram hanc evellere.
+Solent enim quidam, cum coeperint quasi cornua
+confidentis sibi scientiae producere, nescientes
+quod si quis aestimat se scire aliquid, nondum cognovit
+quemadmodum oporteat eum scire, antequam
+habeant per soliditatem fidei alas spiritales, praesumendo
+in altissimas de fide quaestiones assurgere.
+<pb n="0263D"/>
+Unde fit ut, dum ad illa, quae prius fidei scalam exigunt,
+sicut scriptum est: <hi>Nisi credideritis, non intelligetis <note>(Isa. VII, 5)</note>
+            </hi>,
+praepostere prius per intellectum
+conantur ascendere, multimodos errores per intellectus
+<pb n="0264A"/>
+defectum cognantur descendere. Palam namque
+est quia illi non habent fidei firmitatem, qui,
+quoniam quod credunt intelligere non possunt, disputant
+contra ejusdem fidei a sanctis Patribus confirmatam
+veritatem; velut si vespertiliones et noctuae
+nonnisi in nocte coelum videntes, de meridianis solis
+radiis disceptent contra aquilas solem ipsum irreverberato
+visu intuentes. Prius ergo fide mundandum
+est cor, sicut dicitur de Deo: <hi>Fide mundans
+corda eorum <note>(Act. XV, 9)</note>
+            </hi>; et prius per praeceptorum
+Domini custodiam illuminandi sunt oculi, quia <hi>praeceptum Domini lucidum illuminans oculos 
+ <note>(Psal.
+XVIII, 9)</note>
+            </hi>; et prius per humilem obedientiam testimoniorum
+Dei debemus fieri parvuli, ut discamus
+sapientiam, quam dat <hi>testimonium Domini fidele,
+<pb n="0264B"/>
+sapientiam praestans parvulis <note>(Psal. XVIII, 8)</note>
+            </hi>. Unde
+Dominus: <hi>Confiteor tibi, Pater, Domine coeli et
+terrae, quia abscondisti haec a sapientibus et prudentibus,
+et revelasti ea parvulis <note>(Matth. XI, 25)</note>
+            </hi>. Prius,
+inquam, ea quae carnis sunt postponentes, secundum
+spiritum vivamus quam profunda fidei dijudicando
+discutiamus: nam qui secundum carnem
+vivit, carnalis sive animalis est, de quo dicitur: <hi>Animalis homo non percipit ea quae sunt Spiritus Dei <note>(I Cor. II, 14)</note>
+            </hi>.
+Qui vero spiritu facta carnis mortificat,
+spiritualis efficitur; de quo legitur quia <hi>spiritualis
+omnia judicat, et ipse a nemine judicatur <note>(Ibid.,
+15)</note>
+            </hi>. Verum enim est quia quanto opulentius nutrimur
+in sacra Scriptura ex his quae per obedientiam
+pascunt, tanto sublimius provehimur ad ea
+<pb n="0264C"/>
+quae per intellectum satiant: frustra quippe conatur
+dicere: <hi>Super omnes docentes me intellexi <note>(Psal.
+CVIII, 99)</note>
+            </hi>, qui proferre non audet; <hi>quia testimonia
+tua meditatio mea est <note>(Ibid.)</note>
+            </hi>. Et mendaciter pronuntiat: <hi>Super senes intellexi</hi>,
+cui non est familiare
+quod sequitur: <hi>Quia mandata tua quaesivi</hi>. Nimirum
+hoc ipsum quod dico, qui non crediderit,
+non intelliget. Nam qui non crediderit, non experietur;
+et qui expertus non fuerit, non intelliget.
+Nam quantum rei auditum superat experientia,
+tantum vincit audientis cognitionem experientis
+scientia: et non solum ad intelligendum altiora prohibetur
+mens ascendere sine fide et mandatorum
+Dei obedientia, sed etiam aliquando datus intellectus
+subtrahitur, et fides ipsa subvertitur, neglecta bona
+<pb n="0264D"/>
+conscientia. Ait enim de quibusdam Apostolus: <hi>Cum cognovissent Deum, non sicut Deum glorificaverunt,
+aut gratias egerunt; sed evanuerunt in cogitationibus
+suis, et obscuratum est insipiens cor eorum</hi> 
+<pb n="0265A"/> <note>(Rom. I, 21)</note>.
+Et cum praeciperet Timotheo militare <hi>militiam bonam</hi>,
+ait <hi>habens fidem, et bonam conscientiam,
+quam quidam repellentes, circa fidem
+naufragaverunt <note>(I Tim. I, 19)</note>
+            </hi>. Nemo ergo se temere
+immergat in condensa divinarum quaestionum,
+nisi prius in soliditate fidei, conquisita morum
+et sapientiae gravitate ne per multiplicia sophismatum
+diverticula incauta levitate discurrens,
+aliqua tenaci illaqueatur falsitate. Cumque
+omnes, ut cautissime ad sacrae paginae quaestiones
+accedant, sint commonendi; illi utique nostri
+temporis dialectici (imo dialectice haeretici,
+qui non nisi flatum vocis putant esse universales
+substantias, et qui colorem non aliud queunt
+intelligere quam corpus, nec sapientiam hominis
+<pb n="0265B"/>
+aliud quam animam) prorsus a spiritualium quaestionum
+disputatione sunt exsufflandi. In <emph>43</emph> eorum
+quippe animabus ratio, quae et princeps et judex
+omnium debet esse quae sunt in homine, sic est
+in imaginationibus corporalibus obvoluta, ut ex
+eis se non possit evolvere, nec ab ipsis ea, quae ipsa
+sola et pura comtemplari debet, valeat discernere.
+Qui enim nondum intelligit quomodo plures
+homines in specie sint unus homo; qualiter in illa
+secretissima et altissima natura comprehendet quomodo
+plures personae, quarum singula quaeque est
+perfectus Deus, sint unus Deus? Et cujus mens
+obscura est ad discernendum inter equum
+suum et colorem ejus; qualiter discernet inter
+unum Deum et plures relationes ejus? Denique qui
+<pb n="0265C"/>
+non potest intelligere aliquid esse hominem, nisi
+individuum; nullatenus intelliget hominem, nisi
+humanam personam. Omnis enim individuus homo,
+persona est. Quomodo ergo iste intelliget hominem
+assumptum esse a Verbo, non personam, id est
+aliam naturam, non aliam personam esse assumptam?
+Haec dixi, ne quis antequam sit idoneus, altissimas
+de fide quaestiones praesumat discutere;
+aut, si praesumpserit, nulla difficultas aut impossibilitas
+intelligendi valeat illum a veritate, cui per
+fidem adhaesit, excutere. Jam veniendum est
+ad id propter quod incoepimus.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT III.</head>
+<p> <hi>Quod non sunt tres dii: et quanquam sint tres res
+<pb n="0265D"/>
+personales; una tamen est res essentialis</hi>.</p>
+<p>Dicit (sicut audio) ille, qui tres personas dicitur
+asserere esse velut tres angelos, aut tres animas.
+<pb n="0266A"/> <hi>Pagani defendunt legem suam: Judaei defendunt legem
+suam: ergo et nos Christiani debemus defendere
+fidem nostram</hi>.
+Audiamus quomodo iste Christianus
+defendat fidem suam. <hi>Si</hi>, inquit, <hi>tres personae sunt
+una tantum res, et non sunt tres res, unaquaeque per se
+separatim, sicut tres angeli aut tres animae; ita tamen
+ut voluntate et potentia omnino sint idem: ergo Pater
+et Spiritus sanctus cum Filio incarnatus est</hi>. Videte
+quid dicat iste homo; quomodo defendat iste Christianus
+fidem suam. Certe aut vult confiteri tres
+deos, aut non intelligit quod dicit. Sed si tres deos
+confitetur, non est Christianus; si autem affirmat
+quod non intelligit, non illi credendum est. Huic
+homini non est respondendum auctoritate sacrae
+Scripturae; quia aut ei non credit, aut eam perverso
+<pb n="0266B"/>
+sensu interpretatur. Quid enim apertius dicit Scriptura
+sacra, quam quod Deus unus et solus est?
+Ratione igitur, qua se defendere nititur, ejus error
+demonstrandus est. Ut autem facilius et brevius hoc
+faciam, loquar tantum de Patre et Filio; quoniam
+hae duae personae suis propriis vocibus aliae ab invicem
+aperte designantur. Nam nomen Spiritus sancti
+non est alienum a Patre et Filio, quia uterque est
+et Spiritus, et sanctus. Quod autem in Patre et Filio
+de unitate substantiae, vel pluralitate personarum
+inveniemus, hoc in tribus absque dubio cognoscemus.
+Dicat ergo: <hi>Si duae personae, Pater et Filius,
+non sunt duae res</hi>. Quaeramus primum quid velit
+hic dicere <hi>duas res</hi>. Nam unamquamque personam
+credimus esse hoc, quod commune est ambobus; et
+<pb n="0266C"/>
+esse hoc, quod proprium est sibi. Persona enim Patris,
+et Deus est, quod commune est illi cum Filio;
+et Pater est, quod ei proprium est. Similiter
+persona Filii, et Deus est, quod commune est illi
+cum Patre; et Filius est, quod nonnisi de hac sola
+persona dicitur. In his igitur duabus personis unum
+est commune, id est Deus: et duo propria, quae
+sunt Pater et Filius. Quaecunque enim illis sunt communia,
+ut omnipotens, aeternus, in hoc solo communi
+intelliguntur. Et quae sunt singulis propria, ut
+est Patri genitor, vel gignens; et Filio Verbum,
+vel genitus; his duobus nominibus, Patris scilicet
+et Filii significantur. Cum igitur dicit has duas personas
+esse duas res, quaero quid dicat ibi esse duas
+<pb n="0266D"/>
+ res: an id quod commune est illis? an ea quae
+propria sunt singula singulis? Sed si duas res esse
+dicit duo propria, id est Patrem et Filium; ut tamen
+<pb n="0267A"/>
+id, quod commune est, non sit plures res, sed una
+et sola res: superflue hoc dicit; quia nemo Christianus
+confitetur Patrem et Filium, secundum haec duo
+propria, unam rem esse, sed duas. Solemus enim usu
+dicere rem, quidquid aliquo modo dicimus esse aliquid.
+Qui autem dicit de Deo Patrem aut Filium,
+aliquid de eo dicit; et omnes sciunt in Deo Patrem
+non esse Filium, et Filium non esse Patrem; quamvis
+in uno homine pater sit filius, et filius sit pater,
+si idem homo est pater et filius: quod ideo fit, quia
+in Deo dicuntur opposite; in uno vero homine non
+ad invicem; sed ad alium filium pater, et ad alium
+patrem filius dicitur. Hoc ergo modo nihil prohibet
+dicere duas personas, Patrem et Filium esse duas
+res; si tamen intelligatur cujusmodi sint res.
+<pb n="0267B"/>
+Non enim sic sunt Pater et Filius duae res, ut in his
+duabus rebus intelligatur eorum substantia, sed eorum
+relationes; quamvis ille per ea, quae subjungit,
+aperte ostendat se non intelligere hoc modo duas
+personas esse duas res. Nam cum dicit: <hi>Si tres personae
+sint una tantum res, et non tres res</hi>, subjungit, <hi>per se separatim</hi>.
+Quippe talem videtur pronuntiare
+separationem, quae prohibeat esse simul in eodem
+homine patrem et filium. Per hanc namque solam
+putat se posse liberare Patrem a communione
+incarnationis cum Filio. Nam per illam separationem,
+qua aliud est esse Patrem, et aliud esse Filium
+ (quoniam aliae sunt ab invicem paternitas
+et filiatio) si credit unum et solum esse Deum,
+qui est Pater et Filius, non videt Patrem et Filium
+<pb n="0267C"/>
+posse separari, quin sint in eodem homine simul.
+Aut ergo aliam separationem personarum Patris et
+Filii loquitur, quam illam, qua, secundum propria,
+alii sunt ab invicem Pater et Filius; quia per hanc
+non intelligit incarnationem alienam esse a Patre;
+imo si simul sunt Pater et Filius, opinatur consequi
+Patrem esse participem incarnationis cum Filio.
+Aut si illam dicit, frustra laborat, sicut jam dixi,
+quia Christiana fides hoc modo intelligit Patrem et
+Filium esse duas res. Sed cum ait: <hi>Sicut sunt tres
+angeli, aut tres animae</hi>, aperte monstrat se non
+de pluralitate vel separatione illa loqui, quae in illis
+est personis secundum propria. Nempe de nulla
+nna eademque numero re duo angeli dicuntur, aut
+duae animae; nec unum aliquid numero de duobus
+<pb n="0267D"/>
+angelis dicitur, aut de duabus animabus; sicut Patrem
+et Filium dicimus de Deo uno numero, et
+unum numero Deum de Patre et Filio. Credimus
+enim et dicimus quia Deus est Pater, et Deus est
+Filius; et conversim, Pater est Deus, et Filius est
+<pb n="0268A"/>
+Deus: et tamen nec credimus nec dicimus plures
+esse deos; sed ita unum esse Deum numero, sicut
+natura, quamvis Pater et Filius non sint unus, sed
+duo. Angelum enim et animam secundum substantiam
+dicimus, non secundum relationem. Nam, licet
+angeli nomen ab officio sumptum sit quia angelus
+nuntius dicitur; tamen, sicut anima pro specie
+substantiae accipitur, ita et angelus. Quod ipse intelligere
+se monstrat, cum pariter dicit: <hi>Sicut sunt
+tres angeli, aut tres animae</hi>. Talem itaque significat
+pluralitatem et separationem, qualem habent
+plures angeli aut animae, id est qualem habent plures
+substantiae. Quod adhuc aperte monstrare videtur,
+cum subdit: <hi>Ita tamen ut voluntate et potestate
+omnino sint idem</hi>. Sic enim intelligit voluntatem et
+<pb n="0268B"/>
+potestatem in illis pluribus rebus, quemadmodum in
+pluribus angelis aut animabus: quod intelligi non
+potest, si illae plures res putantur secundum proprietates
+personarum esse, non secundum hoc quod
+communiter dicuntur <emph>44</emph>. Nullatenus namque Patris
+et Filii, secundum ipsas proprietates, id est secundum
+paternitatem et filiationem ulla voluntas
+aut potentia est; sed secundum divinitatis substantiam,
+quae communis est illis. Quare si dicit
+tres personas esse tres res, secundum ipsa propria;
+palam est quam superflue hoc dicat, quam etiam inconvenienter,
+cum addit: <hi>Sicut sunt tres angeli,
+aut tres animae</hi>. At si dicit easdem personas duas
+esse res, secundum hoc quod commune est illis, id
+est secundum quod singula quaeque, et plures simul,
+<pb n="0268C"/>
+unus perfectus Deus est. Primum quaero an sit Christianus.
+Respondebit, ut aestimo, se hoc esse.
+Ergo credit unum esse Deum, et ipsum esse tres
+personas, id est Patrem, et Filium, et Spiritum
+sanctum; et Filii personam solam incarnatam, aliis
+tamen duabus cooperantibus. Qui autem ita credit,
+affirmat eum non esse Christianum, qui aliquid vult
+asserere contra aliquid horum. Si ergo iste ita credit,
+negat eum esse Christianum, qui contra haec
+disputat. Utrum autem hanc fidem subvertere ipse
+nitatur, videamus. Cum igitur dicit, ut de duabus
+personis dicam, sicut incoepi, quod de tribus intelligatur;
+cum, inquam, dicit, si duae personae sunt
+una res, et non duae sicut sunt duo angeli aut duae
+animae, consequi Patrem quoque esse incarnatum,
+<pb n="0268D"/>
+si Filius est incarnatus: puto quia sic ratiocinatur
+secum: Si una et eadem numero res Deus est,
+et ipsa eadem est Pater, et Filius; cum Filius
+sit incarnatus, quomodo non et Pater est incarnatus?
+De una quippe et eadem re non est vera simul
+<pb n="0269A"/>
+affirmatio, et ejus negatio; sed de alia re affirmare
+aliquid, et de alia idem ipsum negare simul nihil
+ prohibet. Non enim idem Petrus apostolus est,
+et non est apostolus. Sed et si alio nomine idem ipse
+affirmetur apostolus, et alio negetur: ut, Petrus est
+apostolus, et Simon non est apostolus; non est utraque
+vera enuntiatio, sed una harum falsa. Petrum
+autem esse apostolum, et Stephanum non esse apostolum;
+quoniam alius est Petrus, et alius est Stephanus,
+possibile est verum esse. Si ergo eadem
+numero et non alia res est Pater quam Filius, non
+est verum affirmari debere aliquid de Filio, et negari
+de Patre; aut affirmari debere de Patre, et de
+Filio negari. Quidquid igitur est Pater, est et Filius;
+et quod dicitur de Filio, non debet negari de Patre.
+<pb n="0269B"/>
+Est autem incarnatus Filius; est ergo incarnatus
+quoque Pater. Sed haec ratiocinatio si vera et rata
+est, vera est haeresis Sabellii. Si enim quidquid
+dicitur de una persona, dicitur et de altera, idcirco
+quoniam una res duae sunt personae; ergo sicut de
+Filio dicitur Filius, et Verbum, et genitus; ita haec
+dicentur de Patre: et quemadmodum Pater est et
+Pater, et genitor, et ingenitus; sic haec de Filio dicenda
+sunt. At, si ita est; non est alius Pater
+quam Filius; nec Filius alius a Patre. Quare
+non sunt duae personae, sed una persona; ideo namque
+dicuntur personae duae, quia alii creduntur ab
+invicem Pater et Filius: si tamen Deus erit Pater et
+Filius. Nam semper Pater est alicujus Pater et Filius
+alicujus Filius; nec unquam Pater suimet ipsius
+<pb n="0269C"/>
+est Pater, aut Filius suimet ipsius Filius est; sed
+alius est pater, et alius cujus est pater, et similiter
+alius est filius, et alius cujus est filius. Quare si in
+Deo non est alius Pater, et alius cujus est Pater,
+nec Filius alius est, et alius cujus est Filius;
+falso dicitur Deus Pater aut Filius. Si enim in
+Deo non est alius a Patre cujus Pater sit, non
+potest esse Pater; et similiter si non est in eo alius
+a Filio, cujus sit Filius, non valet esse Filius. Quapropter
+non erit unde illae duae personae dicantur in
+Deo; quae ideo dicuntur, quia Deus est Pater, et
+Deus est Filius, et semper alius est Pater, alius est
+Filius. Videtis ergo quomodo destruatur fides
+nostra secundum sensum ejus, qui putat consequi
+Patrem esse cum Filio incarnatum; si una, et non
+<pb n="0269D"/>
+plures sunt res in Deo personae plures. Si enim vera
+est haec ejus consequentia, non solum hoc quod
+de Patre et Filio, sed in omnibus tribus personis
+<pb n="0270A"/>
+tanta sequetur confusio, ut quidquid de singulis
+proprie dicitur, de omnibus dicendum communiter
+sit. Quamobrem non erit unde Pater, et Filius, et
+Spiritus sanctus procedens a Patre et Filio, sint
+alii ab invicem, sicut ostendi in Patre et Filio. Quare
+nec ulla erit ibi relatio, quae nullatenus ibi est, nisi
+secundum hoc, secundum quod alii sunt ab invicem.
+Ergo nec plures erunt personae. Posito namque
+unam rem esse tres personas; aut illud non
+consequetur quod dicit; aut omnia illa simul,
+quae dixi, consequentur: similis namque est in omnibus
+vis consequentiae. Cur ergo pergit ad incarnationem,
+quasi ipsa sola faciat quaestionem; et non
+potius dicit, si tres personae sunt una res, non sunt
+tres personae? Nam non minus ante incarnationem,
+<pb n="0270B"/>
+quam post facere hanc quaestionem potest. Si autem
+hoc omnino vult asserere, tres scilicet personas,
+secundum quod unaquaeque Deus est, non esse
+unam rem, sed tres res, unamquamque per se, sicut
+sunt tres angeli; apertissimum est quia tres
+deos constituit. Sed forsitan ipse non dicit: <hi>Sicut
+sunt tres animae, aut tres angeli</hi>, sed ille, qui mihi
+ejus mandavit quaestionem, hanc ex suo posuit similitudinem;
+sed solummodo tres personas affirmat
+esse tres res, sine additamento alicujus similitudinis.
+Cur ergo fallitur aut fallit sub nomine rei, cum
+idipsum significetur sub nomine Dei? Nempe aut
+Deum esse rem illam negabit, in qua tres personas,
+imo quam tres fatemur esse personas. Aut si hoc
+non negat, consequens est ut, sicut ipse asserit,
+<pb n="0270C"/>
+personas tres non unam, sed tres esse res; ita quoque
+affirmet easdem personas non unum, sed tres
+deos esse. Quae quam impia sint, judicent Christiani.
+Sed dicet, non cogit quod dico tres res fateri
+tres deos; quoniam tres illae res simul sunt
+unus Deus. Et nos dicimus: Ergo singula quaeque
+res de tribus illis, id est singula quaeque persona,
+non est Deus; sed ex tribus rebus conficitur
+Deus: Pater igitur non est Deus, Filius non est
+Deus, Spiritus sanctus non est Deus; quoniam nec
+de singulis, nec de duobus, sed solum de tribus simul
+nominatis dicendus est Deus: quod similiter
+est impium. Nam, si ita est, non est simplex natura
+ sed partibus composita. Sed si simplicem habet
+intellectum, et non multiplicitate phantasmatum
+<pb n="0270D"/>
+obrutum; intelligit simplicia praestare compositis,
+quantum ad simplicitatem et compositionem attinet;
+quoniam omne compositum necesse est aut
+<pb n="0271A"/>
+actu, aut intellectu posse disjungi, quod de simplicibus
+intelligi nequit: cujus enim partes cogitari
+non possunt, id in partes nullus intellectus dissolvere
+potest. Si ergo Deus tribus ex rebus compositus
+est, aut nulla natura simplex est, aut aliqua
+natura est alia, quae in aliquo est praestantior natura
+Dei: quae utraque quam falsa sint, non est obscurum.
+Quod si iste de illis dialecticis modernis est,
+qui nihil esse credunt, nisi quod imaginationibus
+comprehendere possunt, nec putat aliquid esse,
+in quo partes nullae sunt; vel non negabit intelligere
+se quia si esset aliquid, quod nec actu, nec intellectu
+dissolvi posset; majus esset, quam quod vel
+intellectu est dissolubile. Itaque si omne compositum
+saltem cogitatione dissolvi potest, cum dicit
+<pb n="0271B"/>
+Deum esse compositum, dicit Deo aliquid majus se
+posse intelligere: transit itaque ejus intellectus ultra
+Deum: quod nullus facere potest intellectus. Sed
+videamus quid addat quasi ad inconvenientiam
+repellendam, quae videtur nasci, si tres illae personae
+sunt tres res. <hi>Sic tamen</hi>, inquit, <hi>ut una trium
+earum rerum sit voluntas et potestas</hi>. Hic quaerendum
+est an illae tres res secundum hoc, quod separatim
+ab invicem intelliguntur; an secundum communem
+voluntatem et potestatem; an neque secundum
+illud solum, quod separatim habent,
+neque secundum hoc quod commune est illis; sed <emph>45</emph> 
+ secundum utrumque simul sint divinae naturae.
+Quippe si secundum illud, quod sunt separatim, habent
+divinitatem, erunt tres dii; et idem intelligi
+<pb n="0271C"/>
+poterunt sine voluntate et potestate. Semper enim
+propria discrete intelliguntur a communibus, et communia
+a discretis. Sed divina natura sine voluntate
+et potestate nullatenus intelligi valet. Quod si
+secundum unam et communem voluntatem et potestatem
+sunt et singulae, et binae, et tres simul, Deus;
+quid ibi faciunt illae tres discordes res, quae nec nisi
+per aliud in unitatem concordare possunt Deitatis,
+nec ad perfectionem, nec ad auxilium aliquod, ut
+Deus sit, valent? Nam si una sufficit voluntas et
+potestas ad perfectionem Dei: quae sunt illae tres res,
+quibus indiget Deus, aut ad quid illis eget? Credimus
+enim Deum nullo indigere: frustra igitur cogitantur
+illae tres res in Deo. At si nec solae tres
+illae res, nec sola voluntas et potestas; sed haec
+<pb n="0271D"/>
+omnia simul conficiunt Deum: iterum dico quia
+compositus est; et ea, quae non sunt per se Deus,
+aut dii faciunt Deum. Aut si dicit quia illae tres res
+ita nomen Dei habent per potestatem et voluntatem,
+<pb n="0272A"/>
+sicut homo dicitur rex per regiam potestatem, non
+est Deus nomen substantiae; sed accidentaliter dicuntur
+illae (nescio quae) tres res tres dii, sicut
+tres homines eamdem habentes regiam potestatem,
+tres reges dicuntur: tres enim homines unus rex
+esse nequeunt: quod quam nefandum sit, non est
+opus dicere. Codex magnus implendus est, si voluero
+scribere absurditates et impietates, quae sequuntur,
+si verum est, una Dei persona incarnata,
+reliquas duas consequi esse incarnatas; quia tres
+illae personae sunt una res, secundum id quod communiter
+de tribus dicimus; aut si sunt tres res
+separatae, quemadmodum ille putat, contra quem
+ista dixi, quoniam solus Filius est incarnatus.
+Palam ergo est quod non debeat esse promptus
+<pb n="0272B"/>
+ad disputandum de rebus profundis; et maxime de
+illis, in quibus non erratur sine periculo.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT IV.</head>
+<p> <hi>Tres personas esse incarnatas, Filio incarnato, impossibile
+est: Filio tamen amplius convenit incarnari,
+quam Patri et Spiritui sancto</hi>.</p>
+<p>Sed forsitan dicet iste mihi: Sicut putas ista
+pariter consequi ex necessitate, quae dicis, sic consequitur
+quod dico ita mihi necessaria mea
+videtur consequentia. Ergo ostende non consequi,
+quae dico; et fatebor ego tecum nullum inconveniens
+sequi, si solus Filius est incarnatus, aut si tres personae
+sunt una res. Quod si ab hac ostensione deficis,
+non solvis, sed magis ligas quaestionem; cum tu
+ipse mecum probas innumera nasci inconvenientia;
+<pb n="0272C"/>
+quae si neganda sunt, ambo debemus pariter
+concludere tres personas non esse unam rem, si
+solus Filius est incarnatus; aut si sunt una res,
+omnes pariter esse incarnatas. Ostendendum ergo est,
+in quo iste fallitur; et quo modo incarnationem solius
+Filii non sequitur tres personas esse tres res
+separatas; aut, si sunt una res tres personae, omnes
+eas esse incarnatas. Quod utique Deus una et sola,
+et individua, et simplex sit natura, et tres personae,
+sanctorum Patrum, et maxime beati Augustini post
+apostolos et evangelistas inexpugnabilibus rationibus
+disputatum est. Sed et si quis legere dignabitur
+duo parva opuscula mea, Monologion scilicet et
+Proslogion, quae ad hoc maxime facta sunt, ut
+quod fide tenemus de divina natura et ejus personis
+<pb n="0272D"/>
+praeter Incarnationem, necessariis rationibus
+sine Scripturae auctoritate probari possit; si,
+inquam, ea aliquis legere voluerit, puto quia et ibi
+inveniet de hoc quod non improbare poterit, nec
+<pb n="0273A"/>
+contemnere volet. In quibus si aliquid quod alibi
+aut non legi, aut non memini me legisse, non
+quasi docendo quod doctores nostri nescierunt, aut
+corrigendo quod non bene dixerunt; sed dicendo
+forsitan quod illi tacuerunt: quod tamen ab eorum
+dictis non discordet, sed illis cohaereat; posui ad
+respondendum pro fide nostra contra eos, qui nolentes
+credere quod non intelligunt, derident
+credentes; sive ad adjuvandum religiosum studium
+eorum, qui humiliter quaerunt intelligere quod firmissime
+credunt: nequaquam ob hoc me redarguendum
+existimo. Ne tamen hanc legentibus epistolam,
+laborem injungam quaerendi alia scripta, ut non solummodo
+fide, verum etiam evidenti cognoscant ratione
+tres personas non esse tres deos, sed unum
+<pb n="0273B"/>
+solum; nec tamen, Deo secundum unam personam
+incarnato, ex necessitate secundum alias personas
+eumdem Deum incarnari: aliquid hic, quantum ad
+repellendam opinionem hujus defensoris, sicut ipse
+putat, nostrae fidei sufficere credo, subjungam.
+Aperte dicit aut Patrem, et Spiritum sanctum cum
+Filio esse incarnatum; aut tres illas personas esse
+tres res separatas. Quam nimirum separationem talem
+existimat, ut nec Pater, nec Spiritus sanctus
+sint in Filio. Nam si duae aliae personae sunt in Filio
+et Filius in homine, illae quoque sunt in homine.
+Unde putat consequi, cum tres personae simul sint
+in eodem homine, si sunt una res, nullatenus personam
+Filii posse in homine ipso incarnari, sine aliis
+duabus personis. Personas tamen tres esse non negat,
+<pb n="0273C"/>
+nec Filium esse incarnatum. Quoniam igitur
+supra monstratum est, si tres personae sunt tres
+res separatae, aut tres deos esse consequi, aut alias
+(de quibus jam dictum est) absurditates; nunc breviter
+ostendam, adjuvante uno solo Deo, primum
+quia etiam si sint tres dii, nihil illi proderit ad
+defendendum Patrem et Spiritum sanctum ab incarnatione:
+quod fieri non posse putat sine deorum
+multitudine. Deinde, quod non sunt plures
+dii, sed unus solus. Postea patefaciam, quamvis
+sit unus Deus tres personae, non tamen
+una qualibet incarnata, alias quoque incarnari necesse
+esse; sed potius esse impossibile. Divinae
+utique naturae est, sic semper et ubique esse,
+ut nihil unquam aut alicubi sit sine ejus praesentia;
+<pb n="0273D"/>
+alioquin nequaquam ubique et semper est potens,
+et quod ubique potens non est et semper, nullatenus
+est Deus. Si enim dicit non ipsam divinam
+substantiam, sed potestatem ejus esse semper et
+ubique; non tamen negabit potestatem illi esse, aut
+<pb n="0274A"/>
+accidentalem, aut substantialem: accidentalis quidem
+non est Deo potestas; quia cum omne subjectum
+sine accidente, aut esse, aut intelligi possit;
+Deus sine potestate nec esse, nec intelligi potest.
+Si vero Deo potestas substantialis est, aut pars est
+ejus essentiae, aut est idipsum, quod est tota
+ejus essentia. Pars autem non est; quia (sicut supra
+dictum est) quod partes habet, aut actu, aut intellectu
+est dissolubile: quod omnino extraneum est a
+Deo. Idem igitur est esse Dei, et potestas ejus.
+Sicut itaque potestas Dei est semper, et ubique; ita
+quidquid est Deus ubique et semper est. Ergo, cum
+praedictus nostrae fidei defensor secundum se dicit
+esse tres deos; monstrare nequit quomodo sint
+separatim, ea separatione qua putat se Patrem et
+<pb n="0274B"/>
+Spiritum sanctum ab incarnatione liberare. Non
+ergo illum potest adjuvare multitudo deorum, ad
+defendendum Patrem et Spiritum sanctum ab incarnatione;
+quoniam inveniri non potest in deorum
+multiplicatione illa distinctio, sine qua defensionem
+istam fieri posse nequaquam existimat.
+Quod autem unus solus Deus sit, et non plures, hinc
+facile probatur quia aut Deus non est summum bonum,
+aut sunt plura summa bona; aut non sunt
+plures dii, sed unus solus. Deum vero summum bonum
+esse nullus negat; quia quidquid aliquo minus
+est, nullatenus Deus est: et quidquid summum
+bonum non est, minus est aliquo; <emph>46</emph> quia minus
+est summo bono. Summum certe bonum pluralitatem
+sui non admittit, ut plura sint summa bona. Si
+<pb n="0274C"/>
+enim plura sunt summa bona, paria sunt. Summum
+vero bonum est, quod sic praestat aliis bonis,
+ut nec par habeat, nec praestantius. Summum ergo
+bonum unum et solum est. Non igitur sunt plures
+dii, sed unus et solus est Deus; sicut summum bonum
+est unum et solum: et sicut summa substantia
+ vel essentia sive natura; quae eadem ratione,
+qua summum bonum, nullatenus pluraliter
+dici posse probantur. Qui unus solus Deus cum sit
+tres personae, Pater, et Filius, et Spiritus sanctus;
+non tamen Filio incarnato, necesse est alias
+quoque personas (sicut ille disputator putat) incarnari,
+sed impossibile. Personas enim non negat
+plures esse, idcirco quoniam aliae sunt ab invicem.
+Si enim ab invicem non essent aliae, plures
+<pb n="0274D"/>
+non essent. Sed, ut brevius explicem, et facilius
+quod volo loquar tantum, sicut supra feci, de
+Patre et Filio; quia per hos clarum erit quid intelligendum
+sit de Spiritu sancto. Pater ergo et Filius
+secundum substantiam non sunt plures, nec alii ab
+<pb n="0275A"/>
+invicem; quia non sunt duae substantiae, nec alia
+substantia Pater, alia Filius; sed una et eadem
+substantia sunt Pater et Filius. Secundum personam
+vero sunt plures, et alii ab invicem; quia Pater et
+Filius non sunt una et eadem persona, sed duae et
+aliae ab invicem. Dicit ergo: Si Filius incarnatus
+est, et Filius non est alia, sed una et eadem
+numero res quae Pater est; ergo necesse est
+Patrem quoque esse incarnatum. Unam enim et
+eamdem numero rem impossibile est simul esse, et
+non esse in eodem homine incarnatam. Et ego dico:
+Si Filius incarnatus est, et Filius non est una et
+eadem numero persona, quae Pater est, sed alia;
+non idcirco necesse est Patrem quoque esse incarnatum.
+Aliam enim personam esse in uno homine
+<pb n="0275B"/>
+incarnatam, et aliam simul non esse in eodem
+homine incarnatam possibile est. Et ille: Si Deus
+Filius incarnatus est; et Deus qui est Filius non est
+alius, sed unus et idem numero Deus, qui Pater est;
+plus tamen (quamvis diversae personae sint Pater
+et Filius) videtur necesse Patrem quoque esse
+incarnatum cum Filio, propter identitatem
+Deitatis, quam possibile esse propter diversitatem
+personarum eum non esse simul incarnatum.
+Videte qui hoc dicit quomodo claudicat utroque
+pede in incarnatione Filii Dei. Nam qui recte suscipit
+ejus incarnationem, credit eum non assumpsisse
+hominem in unitatem naturae, sed in unitatem personae.
+Hic autem somniat hominem a Filio Dei magis
+esse assumptum in naturae unitatem, quam in personae
+<pb n="0275C"/>
+unitatem. Si enim hoc non opinaretur, non
+diceret magis necessarium esse Patrem esse cum
+Filio incarnatum, quoniam unus est Deus Pater,
+et Filius, quam esse possibile illum simul non esse
+incarnatum, quia plures sunt personae. Utroque
+igitur pede, id est utraque parte claudicat in incarnatione
+Filii Dei, qui una natura est cum Patre
+et alia persona a Patre, quicunque existimat hanc
+incarnationem sic esse secundum naturae unitatem,
+ut Filius non possit incarnari sine Patre; nec
+intelligit eam sic secundum unitatem esse personae,
+ut Pater non possit incarnari cum Filio. Quippe
+Deus non sic assumpsit hominem, ut natura Dei et
+hominis sit una et eadem; sed ut persona Dei et
+hominis una eademque sit: quod nonnisi in una
+<pb n="0275D"/>
+persona Dei esse potest. Diversas enim personas,
+<pb n="0276A"/>
+unam et eamdem personam esse cum uno eodemque
+homine nequit intelligi. Nam, si unus homo cum
+singulis pluribus personis una persona est, necesse
+est plures personas, quae aliae sunt a se invicem,
+esse unam eamdemque personam: quod non est possibile.
+Quapropter impossibile est, Deo incarnato
+secundum unam quamlibet personam, illum secundum
+aliam quoque personam incarnari.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT V [ <hi>al</hi>. IV].</head>
+<p> <hi>Cur Filius magis quam Pater aut Spiritus sanctus,
+incarnatus sit</hi>.</p>
+<p>Cur autem Deus magis assumpserit hominem
+in unitatem personae Filii, quam in unitatem alicujus
+aliarum personarum, quamvis in hac epistola
+nostrum hoc propositum non fuerit, tamen, quoniam
+<pb n="0276B"/>
+hujus rei mentio se obtulit, aliquam reddendam
+rationem existimo. Nempe si Spiritus sanctus incarnatus
+esset, sicut Filius est incarnatus, esset Spiritus
+sanctus filius hominis. Essent igitur duo Filii
+in Trinitate Dei, scilicet Filius Dei, et Filius hominis.
+Unde quaedam nasceretur dubietatis confusio,
+cum de Deo Filio loqueremur; uterque enim esset
+Deus, et Filius; quamvis alter Dei, alter hominis:
+fieret quoque quasi quaedam inaequalitas diversarum
+personarum secundum hoc quod filii essent, quae
+omnino aequales esse debent, cum alter filius
+majoris parentis dignitate excelleret, alter minoris
+parentis humilitate subesset. Quanto enim major est
+natura Dei quam hominis, tanto dignius est esse
+Filium Dei quam esse filium hominis. Si ergo
+<pb n="0276C"/>
+Spiritus sanctus natus esset ex Virgine, cum Filius
+Dei haberet excellentiorem nativitatem solam, quae
+ex Deo est; et Spiritus sanctus minorem tantum,
+quae esset ex homine; alia persona esset major, et
+alia minor secundum dignitatem nativitatis:
+quod non convenit. Quod si Pater in unitatem suae
+personae hominem assumpsisset, easdem faceret in
+Deo pluralitas filiorum inconvenientias, et adhuc
+aliam. Nam si esset filius Virginis, duae personae in
+Trinitate nomen nepotis assumerent; quia et Pater
+nepos esset parentum Virginis; et Filius ejus
+Virginis esset nepos; cum ipse tamen nihil haberet
+ex Virgine. Quoniam ergo quamlibet parvum
+inconveniens in Deo est impossibile; non debuit
+alia Dei persona incarnari quam Filius. Illo
+<pb n="0276D"/>
+enim incarnato, nullum sequitur inconveniens. Quod
+<pb n="0277A"/>
+enim Patre et Spiritu sancto minor dicitur Filius
+secundum humanitatem, non tamen illae duae personae
+ideo excellunt Filio; quia eamdem majestatem,
+qua majores sunt humanitate Filii, habet et
+Filius, qua et ipse praeest cum illis suae humanitati.
+Est et aliud, cur magis conveniat Filio incarnatio
+quam alii. Qui enim erat incarnandus, oraturus
+erat pro humano genere; et convenientius satis
+suscipit mens humana Filium Patri, quam alium
+aliis supplicare, quamvis haec supplicatio non
+fiat a divinitate, sed ab humanitate ad divinitatem,
+quam idcirco Filius Dei facit; quia homo, per unitatem
+personae Filius Dei est. Amplius: Qui hominem
+ erat assumpturus, venturus erat ad pugnandum
+contra diabolum, et ad intercedendum,
+<pb n="0277B"/>
+sicut dixi pro hominibus: qui ambo, diabolus
+scilicet et homo per rapinam se voluerunt facere
+similes Deo, cum propria sint usi voluntate. Et quia
+per rapinam voluerunt, nonnisi per falsitatem;
+quoniam nonnisi injuste potuerunt. Propria
+enim voluntas angeli sive hominis est, quae contra
+voluntatem Dei est. Cum enim vult aliquis quod
+Deus velle prohibet, nullum habet auctorem suae
+voluntatis, nisi seipsum: et ideo sua propria est.
+Nam, quamvis homo voluntatem suam aliquando
+subdat voluntati alterius hominis, propria tamen
+est, si contra Deum est; quoniam non eam subdit,
+nisi ut ad aliquid, quod vult, attingat; et idcirco
+seipsum habet auctorem cur eam alii subdat. Quapropter
+propria voluntas est, quae nulli alii est
+<pb n="0277C"/>
+subdita. Solius autem Dei est propriam habere voluntatem,
+id est, quae nulli subdita sit. Quicunque
+igitur propria voluntate utitur, ad similitudinem Dei
+per rapinam nititur, et Deum propria dignitate et
+singulari excellentia privare, quantum in ipso est,
+convincitur. Si enim est alia aliqua voluntas, <emph>47</emph> 
+quae nulli subdita sit, non erit voluntas Dei omnibus
+praelata, nec ipsa erit sola, cui nulla alia praesit.
+Nulla igitur trium personarum Dei congruentius
+semetipsam <hi>exinanivit formam servi accipiens <note>(Philip.
+II, 7)</note>
+            </hi>, ad debellandum diabolum, et intercedendum
+pro homine, qui per rapinam falsam similitudinem
+Dei praesumpserant quam Filii, qui
+splendor lucis aeternae, et vera Patris imago, <hi>non
+rapinam arbitratus est esse se aequalem Deo <note>(ibid., 6)</note>
+            </hi>;
+<pb n="0277D"/>
+verum per veram aequalitatem et similitudinem,
+dixit: <hi>Ego et Pater unum sumus <note>(Joan. X, 30)</note>
+            </hi>; et: <hi>Qui videt me, videt et Patrem 
+ <note>(Joan. XIV, 9)</note>
+            </hi>. Nullus
+namque justius expugnat reum, vel punit, aut illi
+<pb n="0278A"/>
+misericordius parcit, vel pro eo intercedit, quam cui
+specialius injuria fieri probatur; nec aliquid convenientius
+opponitur falsitati ad expugnandum, aut
+apponitur ad sanandum, quam veritas. In illum
+enim falsam Dei praesumentes similitudinem specialius
+peccasse videntur, qui vera Dei Patris similitudo
+creditur.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT VI [ <hi>al</hi>. IV].</head>
+<p> <hi>Quomodo in Christo non sunt duae personae, sicut sunt
+duae naturae</hi>.</p>
+<p>Suscepit autem in unitatem personae hominem, ut
+dictum est, ut sint duae naturae: divina scilicet et
+humana, una persona. De qua unitate personae, quam
+firmissimae credimus esse non ex duabus personis in
+Christo; tamen quia potest dici unde parum caute
+<pb n="0278B"/>
+intuentibus videri possit Christus ex duabus et in
+duabus personis existere, non inutile mihi videtur
+aliquid dicere. Dicunt enim quidam: Quomodo dicimus
+ in Christo non esse duas personas sicut
+duas naturas. Nam Deus et ante hominis assumptionem
+persona erat; nec postquam hominem assumpsit
+persona destitit esse: et homo assumptus persona
+est; quia omnis homo individuus esse persona cognoscitur.
+Quare alia est persona Dei, quae fuit
+ante incarnationem, alia hominis assumpti: sicut
+igitur Christus est Deus et homo: ita duae in illo
+videntur esse personae. Quae ratiocinatio per hoc
+videtur probare duas esse personas in Christo, quia
+et Deus est persona, et homo assumptus est persona.
+Sed non ita est. Sicut enim in Deo una natura est
+<pb n="0278C"/>
+plures personae, et plures personae sunt una natura;
+ita in Christo una persona est plures naturae, et plures
+naturae sunt una persona. Quemadmodum enim
+Pater est Deus, et Filius est Deus, et Spiritus sanctus
+est Deus; et tamen non tres dii, sed unus est
+Deus; ita in Christo Deus est persona, et homo est
+persona, nec tamen duae sunt personae, sed una
+persona. Non enim est alius Deus, alius homo in
+Christo, quamvis aliud sit Deus, aliud homo; sed
+idem ipse est Deus, qui et homo. Verbum enim
+caro factum assumpsit naturam aliam, non aliam
+personam. Nam, cum profertur, homo natura tantum,
+quae communis est omnibus hominibus, significatur.
+Cum vero demonstrative dicimus istum, vel
+illum hominem, vel proprio nomine Jesum, personam
+<pb n="0278D"/>
+designamus quae cum natura collectionem
+habet proprietatum, quibus homo communis sit
+singulus, et ab aliis singulis distinguitur. Nam,
+cum ita designatur, non quilibet homo intelligitur;
+<pb n="0279A"/>
+sed qui ab angelo annuntiatus est, qui Deus et
+homo, Filius Dei et Filius Virginis est: et quidquid
+de illo dicitur, aut secundum Deum, aut secundum
+hominem, verum est dicere. Neque enim personaliter
+Filius Dei designari potest vel nominari,
+sine filio hominis; nec filius hominis, sine Filio
+Dei; quia idem ipse est Filius Dei, qui filius hominis;
+et eadem est Verbi, et assumpti hominis proprietatum
+collectio. Diversarum vero personarum
+impossibile est eamdem esse proprietatum collectionem;
+aut de invicem eas praedicari. Nam et Petri
+et Pauli non est eadem proprietatum collectio; et
+Petrus non dicitur Paulus, nec Paulus Petrus. Cum
+ergo Verbum caro factum est, naturam assumpsit,
+quae sola nomine hominis significatur, et semper
+<pb n="0279B"/>
+est alia a divina natura; non aliam assumpsit personam,
+quoniam eamdem habet cum assumpto homine
+proprietatum collectionem. Non enim idem est
+homo et assumptus a Verbo homo, id est Jesus;
+quoniam in nomine hominis, sicut dictum est, sola
+intelligitur natura; in assumpto vero homine, vel in
+nomine Jesu, intelligitur cum natura, id est cum
+homine, collectio proprietatum, quae est eadem
+eidem assumpto homini et Verbo. Quapropter non
+dicimus Verbum, et simpliciter hominem, eamdem
+esse personam; ne non magis dicamus illum hominem
+eamdem esse personam cum Verbo, quam
+quemlibet hominem; sed Verbum, et illum assumptum
+hominem, id est Jesum; sicut non credimus
+eumdem hominem eamdem simpliciter esse personam
+<pb n="0279C"/>
+cum Deo, sed cum illa persona, quae Verbum
+ Filius est, ne confiteri videamur ipsum hominem,
+personam eamdem esse, quae Pater est, aut
+Spiritus sanctus. Sed quoniam et Verbum est Deus,
+et ille assumptus homo est homo; verum est dicere
+quia Deus et homo eadem persona est: sed in nomine
+Dei, subaudiendum est Verbum, et in nomine
+hominis subintelligendus est Filius Virginis.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT VII [ <hi>al</hi>. VI.]</head>
+<p> <hi>Quod Pater, et Filius, et Spiritus sanctus non sint
+tres res separatae, naturali Adam et Abel probatur
+exemplo</hi>.</p>
+<p>De spiritu illius, cui respondeo in hac epistola,
+nihil potui videre praeter illud quod supra posui;
+sed puto sic rei veritatem patet ex his quae dixi,
+<pb n="0279D"/>
+ut nulli lateat intelligenti nihil quod contra illam
+dicitur, vim veritatis tenere. Sed si revocatus
+a multitudine deorum, pluralitatem abneget in Deo
+personarum: hoc ideo facit, quia nescit unde loquitur.
+<pb n="0280A"/>
+Nam nec Deum nec personas ejus cogitat, sed
+tale aliquid: quales sunt plures humanae personae.
+Et quia videt unum hominem plures personas esse
+non posse, negat hoc ipsum de Deo. Non enim
+idcirco dicuntur tres personae, quia sint tres res
+separatae, sicut tres homines; sed quia similitudinem
+habent quamdam cum tribus separatis personis.
+Consideremus hoc in Patre et Filio, et idipsum
+intelligatur de Spiritu sancto. Ponamus igitur hominem
+qui tantum sit pater, et non filius; et filium
+ejus, qui tantum filius sit, et non pater; id est
+Adam et Abel. Dicimus itaque de Adam patre, et de
+Abel filio, quia pater non est filius, et filius non
+est pater; quoniam duo homines et separatae personae
+sunt Adam et Abel, nec est cujus filius sit
+<pb n="0280B"/>
+Adam aut cujus pater sit Abel. Sic itaque fatemur
+in Deo quia Pater non est Filius, aut Filius
+Pater (quamvis duo dii non sint); quoniam Pater
+non habet patrem, aut Filius filium. Similiter Spiritus
+sanctus non est Pater aut Filius; quia non est
+cujus sit pater, aut cujus sit filius. Quoniam ergo
+Pater et Filius et Spiritus sanctus tres sunt, et alii
+ab invicem, nec de invicem dici queunt (sicut
+de patre et filio in diversis personis hominum ostendimus);
+ideo dicuntur tres personae; non quia sint
+tres res separatae. At si negat tria dici posse de
+uno, et unum de tribus: ut tria non dicantur de
+invicem; sicut in his tribus personis et uno Deo
+facimus, quoniam hoc in aliis rebus non videt, nec
+in Deo intelligere valet; sufferat paulisper aliquid
+<pb n="0280C"/>,
+quod intellectus ejus penetrare non possit
+esse in Deo, nec comparet naturam, quae super
+omnia est libera ab omni lege loci et temporis
+et compositionis partium, rebus quae loco aut tempore
+clauduntur, aut partibus componuntur; sed
+credat aliquid in illa esse, quod in istis esse nequit, et
+acquiescat auctoritati Christianae, nec disputet
+contra illam.
+<emph>48</emph> </p>
+        </div2>
+
+<div2>
+          <head>CAPUT VIII [ <hi>al</hi>. VII].</head>
+<p> <hi>Originem personarum in divinis alia fontis, rivi et
+lacus similitudine explicat</hi>.</p>
+<p>Videamus tamen an in rebus creatis, quae et loci,
+et temporis, et compositionis partium legi subjacent,
+inveniri possit aliquatenus hoc quod negat in Deo.
+Ponamus fontem, de quo nascatur et fluat rivus, qui
+<pb n="0280D"/>
+postea colligatur in lacum: sitque nomen ejus Nilus.
+Sic itaque discrete dicimus fontem, rivum, lacum;
+ut fontem non dicamus rivum, aut lacum; nec rivum,
+fontem, aut lacum; nec lacum, fontem, aut rivum.
+<pb n="0281A"/>
+Fons tamen Nilus vocatur, et rivus Nilus, et lacus
+Nilus; et duo simul fons et rivus, Nilus; fons et
+lacus, Nilus; rivus et lacus, Nilus; et simul tres
+fons, et rivus, et lacus, Nilus; cum tamen non sit
+alius, et alius Nilus; sed unus idemque, sive cum
+singulus quisque, sive cum bini, sive cum tres dicuntur
+Nilus. Tres igitur sunt, fons, rivus, lacus;
+et unus Nilus, unus fluvius, una natura, una aqua;
+et dici non potest quid tres. Nam neque tres, aut
+Nili, aut fluvii, aut naturae, aut aquae sunt; neque
+tres, aut fontes, aut rivi, aut lacus. Unum igitur
+dicitur hic de tribus, et tria de uno; nec tamen
+tria de invicem. Quod si objicit non esse singulum
+quemque, aut fontem, aut rivum, aut lacum, aut
+binos, perfectum Nilum, sed partes Nili; cogitet
+totum hunc Nilum, ex quo incoepit, usque dum
+<pb n="0281B"/>
+desinet esse, in tota quasi aetate sua, quia nec ipse
+totus est simul aut loco, aut tempore, sed per partes;
+nec perfectus erit, donec desinat esse: habet
+enim Nilus quamdam in hoc cum oratione similitudinem,
+quae, quandiu quasi ex oris fonte procedit,
+perfecta non est; et cum perfecta est, jam non
+est. Si quis enim sic consideret, et diligenter intelligat,
+cognoscet totum Nilum esse fontem, totum
+esse rivum totum esse lacum; nec fontem esse
+rivum, aut lacum; nec rivum esse fontem, aut
+lacum; nec lacum esse fontem, aut rivum. Non
+enim est idem ipse fons, qui rivus aut lacus; quamvis
+idipsum sit rivus et lacus, quod est fons; id est,
+idem Nilus, idem fluvius, eadem aqua, eadem natura.
+<pb n="0281C"/>
+Tria igitur hic dicuntur de uno toto perfecto,
+et unum perfectum totum de tribus; nec
+tamen ipsa tria de invicem dicuntur: quamvis hoc
+aliter valde et perfectius sit in illa natura simplicissima,
+et ab omni lege loci, vel temporis, vel
+compositionis partium liberrima. Verumtamen si
+hoc aliquatenus videtur in re, quae partibus composita,
+localis et temporalis est, non est incredibile
+in illa summe libera natura perfecte esse. Est hoc
+quoque hic considerandum, quia fons non est de
+rivo, nec de lacu; rivus vero de solo fonte est, non
+ de lacu; lacus vero de fonte, et de rivo: et ita
+totus rivus de toto fonte, et totus lacus et de toto
+fonte, et de toto rivo; sicut dicimus in Patre et
+<pb n="0281D"/>
+Filio et Spiritu sancto. Et quia alio modo rivus est
+<pb n="0282A"/>
+de fonte, et alio modo lacus de fonte et rivo, ut
+lacus non dicatur rivus; sic suo quodam alio modo
+ Verbum est de Patre, et Spiritus sanctus alio
+modo de Patre et Verbo, ut idem Spiritus sanctus non
+sit Verbum aut Filius, sed procedens. Adhuc volo
+quiddam dicere, quod quamvis magnam habeat dissimilitudinem,
+nonnullam tamen habet ad incarnationem
+Verbi similitudinem: quod forsitan aliquis
+legens contemnet, dicam tamen; quia ego, alio dicente,
+omnino non contemnerem. Si enim rivus per
+fistulam currat a fonte usque ad lacum, nonne solus
+rivus (quamvis non alius Nilus, quam fons et lacus),
+ut ita dicam, infistulatus est? Sic solus Filius
+incarnatus est, licet non alius Deus, quam Pater et
+Spiritus sanctus.
+<pb n="0282B"/>
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT IX [ <hi>al</hi>. VIII]</head>
+<p> <hi>Quod una sit, et simplex aeternitas, cui punctum
+comparat</hi>.</p>
+<p>Sed quoniam ista terrena valde longe sunt a summa
+natura, levemus ad illam, ipsa opitulante, mentem,
+et in ea contemplemur aliquatenus et breviter
+quod dicimus. Deus non est aliud quam ipsa simplex
+aeternitas. Aeternitates autem plures intelligi
+nequeunt. Nam, si plures sunt, aut sunt extra
+se invicem, aut sunt intra se invicem. Sed nihil
+est extra aeternitatem: ergo nec aeternitas est extra
+aeternitatem. Item, si extra se invicem sunt, in
+diversis locis sunt aut temporibus: quod alienum
+est ab aeternitate. Non itaque sunt plures aeternitates
+extra se invicem. Si vero in se invicem plures esse
+<pb n="0282C"/>
+dicuntur, sciendum est quia quotiescunque repetatur
+aeternitas in aeternitate, non est nisi una et eadem
+aeternitas. Dignior est enim natura, quae in se
+repetita semper sibi convenit in perfectam unitatem,
+quam quae sui admittit pluralitatem. Ubi enim pluralitas,
+ibi diversitas; at ubi diversitas est, non est
+perfecta concordia: perfecta namque est,
+quae in unam identitatem et eamdem unitatem
+convenit. Si ergo melior est perfecta concordia,
+quam imperfecta; et impossibile est in summo bono,
+quod est ipsa aeternitas, esse imperfectum aliquid,
+non est possibile naturam aeternitatis pluralitatem
+admittere. Quapropter quotiescunque repetatur aeternitas
+in aeternitate, semper una et eadem aeternitas
+<pb n="0282D"/>
+est. Quod de multis aliis similiter dicitur: ut,
+<pb n="0283A"/>
+omnipotentia in omnipotentia, non est nisi omnipotentia
+una. Et, ut unum de his, quae divinam non
+habent naturam, in quo similiter est, ponam:
+punctum in puncto non est nisi punctum: habet
+enim punctum, velut medium punctum mundi, velut
+punctum temporis, id est, praesens tempus ad
+aeternitatem, nonnullam similitudinem non parum
+ad ejusdem aeternitatis comtemplationem utilem:
+unde latius alias disputandum est. Hic tantum
+hoc sufficiat quia punctum simplex est, id est
+sine partibus, et indivisibile est velut aeternitas:
+et ideo punctum cum puncto sine intervallo, non est
+nisi unum punctum; sicut aeternitas cum aeternitate
+non est nisi una aeternitas. Ergo quoniam
+Deus aeternitas est, non sunt plures dii; quia nec
+<pb n="0283B"/>
+Deus est extra Deum, nec Deus in Deo addit
+numerum Deo. Semper igitur unus et idem et solus
+est Deus. Cum itaque Deus de Deo nascitur;
+quia quod nascitur non est extra id, de quo nascitur;
+est proles in parente, et parens in prole, unus
+scilicet Deus Pater et Filius: et cum Deus procedit
+de Deo Patre et Filio, nec exit extra Deum;
+manet Deus, id est Spiritus sanctus, in Deo de quo
+procedit: et est unus Deus, Pater, et Filius, et
+Spiritus sanctus. Et quoniam ista nativitas, et ista
+processio sine principio sunt; alioquin aeternitas
+nata et aeternitas procedens, quod falsum est, habet
+principium: nequaquam Deum incoepisse esse Patrem,
+aut Filium, aut Spiritum sanctum cogitare
+debemus aut possumus. Sicut autem substantia divina
+<pb n="0283C"/>
+aeternam et singularem servat unitatem; sic
+horum relativorum, Patris scilicet et Filii; procedentis
+et de quo procedit, natura inseparabilem
+tenet pluralitatem. Nam quemadmodum necesse
+<pb n="0284A"/>
+est Deum semper unum et eumdem esse, et non
+alium et alium: ita Pater nunquam est idem Filio
+suo, aut procedens illi a quo procedit, secundum
+has relationes. Sed semper alius Pater et alius
+Filius, alius procedens et alius de quo procedit;
+nec unquam dici possunt de invicem. Quoniam ergo
+cum Deus nascitur de Deo, vel cum Deus procedit
+ de Deo, nec substantia potest amittere singularitatem,
+nec relatio pluralitatem; idcirco unum est
+ibi tria, et tria unum; nec tamen tria de invicem
+dicuntur, nec incredibile <emph>49</emph> debet esse in natura,
+quae super omnia et omnibus aliis dissimilis est, esse
+aliquid, cujus exemplum in aliis rebus non valeat
+perfecte inveniri: haec autem tria Latini dicunt
+personas, Graeci substantias. Sicut enim dicimus
+<pb n="0284B"/>
+nos <note>(Monol. cap. 78, al., 76)</note> in Deo substantiam
+unam, tres personas; ita illi dicunt unam essentiam,
+tres substantias: idipsum ibi per substantiam,
+quod nos per personam, significantes;
+nec a nobis aliquatenus in fide discrepantes. Quomodo
+vero Filius nascatur de Patre, et Spiritus
+sanctus procedat a Patre et Filio, nec tamen sit Filius;
+quoniam sicuti est videri in hac vita non potest,
+beatus Augustinus <note>(lib. IX, c. 12; l. II, c. 3; l. XII,
+c. 5; l. XV, c. 26)</note> velut per speculum et in aenigmate,
+in libro de hac ipsa Trinitate diligenter
+contemplatus est; et ego in Monologio meo <note>(cap. 55,
+al. 53)</note> pro mea possibilitate disputavi. Si quis,
+autem velit scire cur cum in summa essentia
+nullus sit sexus; parens ibi potius dicatur Pater,
+<pb n="0284C"/>
+quam mater; aut proles Filius, quam filia; aut cur
+Pater tantum ingenitus, Filius tantum genitus, Spiritus
+sanctus nec genitus, nec ingenitus, in eodem
+libello <note>(cap. 56, al., 55)</note> aperte inveniet.
+
+</p>
+        </div2>
+      </div1>
+</body>
+  </text>
+</TEI>
