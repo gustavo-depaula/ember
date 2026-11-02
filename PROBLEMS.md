@@ -1,6 +1,6 @@
-# Problems found during the pt-BR translation pass
+# Open problems in the corpus
 
-These are the open problems from translating church fathers and Aquinas opuscula into pt-BR in September 2026. The en-US OCR slips, the `N. ` list-marker paragraph numbers, and the "Enchirídion" spelling in the Confessions introduction have been fixed. Each book's `pt-BR/translation-journal.md` has the full notes.
+The open problems from the first-wave imports of November 2026, then those from translating church fathers and Aquinas opuscula into pt-BR in September 2026. The en-US OCR slips, the `N. ` list-marker paragraph numbers, and the "Enchirídion" spelling in the Confessions introduction have been fixed. Each book's `pt-BR/translation-journal.md` has the full notes.
 
 Paths are relative to `content/books/`.
 
@@ -31,3 +31,44 @@ These errors are in the printed edition itself, not the import, so both language
 ## Unfinished work
 
 These church-fathers books have no pt-BR translation yet: `gregory-nyssa/soul-and-the-resurrection`, `tertullian/apology` and `augustine/spirit-and-the-letter`.
+
+## First-wave imports (November 2026)
+
+Each book's `book.json` source notes give the details. The scripts that built them are in `research/sourcing/_scripts/` or the author's folder under `research/sourcing/`.
+
+### Scanning errors left after cleanup
+
+These books were imported from scans and corrected by script, not proofread. Proofread them against the page images (the `audit-book-vs-pdf` skill), worst first:
+
+- `scupoli-opera-omnia/combattimento-spirituale`, `it/`: about 3% of words are still wrong, and about 25 chapter titles were rebuilt from fragments.
+- `francis-de-sales-opera-omnia/traite-amour-de-dieu`, `fr-FR/`: misread letters ("four" for "jour"), stray margin citations, and some wrongly split or merged paragraphs.
+- `challoner-opera-omnia/meditations`: about 1% of words are wrong, and a few stray "Digitized" fragments remain.
+- `john-of-the-cross-opera-omnia/noche`, `en-US/`: about 0.5% of words. The other John of the Cross books are at 0.1–0.3%, worst in the Spanish of Subida III.19.
+- `lallemant-opera-omnia/doctrine-spirituelle`, `en-US/`: noisier than the French, and 9 "Article" headings were not detected, so those articles run on into the one before.
+- `chesterton-opera-omnia/the-thing`: from a scan, with no italics.
+- `catherine-of-siena-opera-omnia/dialogo-thorold`, `caussade-opera-omnia/abandon-a-la-providence-divine` (`fr-FR/`), `brother-lawrence-opera-omnia/pratique-de-la-presence-de-dieu`, `kempis-imitation-of-christ` (`la/`) and the Latin from Migne (`anselm-opera-omnia/*`, `peter-lombard-opera-omnia/sententiae`): a few errors remain.
+
+### English left out
+
+These books have no English because the only public-domain translations are badly scanned or don't follow the original's divisions:
+
+- `bernard-opera-omnia/sermones-super-cantica`: Eales (1896) is scanned with misplaced sermon breaks and lost footnote markers.
+- `brother-lawrence-opera-omnia/pratique-de-la-presence-de-dieu`: the English orders and numbers the letters differently, so it would be its own book.
+- `francis-of-assisi-opera-omnia/opuscula`: Robinson (1906) groups the pieces differently.
+- `anselm-opera-omnia/{de-veritate,de-libertate-arbitrii,de-casu-diaboli}`: McKeon (1929) doesn't follow Migne's chapters.
+- `ignatius-opera-omnia/ejercicios`: the English has no [1]–[370] section numbers, because Mullan's paragraphs don't match the Spanish units.
+
+### Partial texts
+
+- `bernard-opera-omnia/de-diligendo-deo`: Patmore's English stops at chapter XI, so chapters XII–XV are Latin only.
+- `church-fathers/councils/trent`: the Latin lacks the bull of indiction, the acclamations and the confirmation, which are in English only.
+- `church-fathers/gregory-great-pope/dialogues`: the Latin Book II has 6 sections against the English's 38 chapters.
+- `church-fathers/gregory-great-pope/register-of-letters`: Latin only for the 420 letters NPNF translates. About 440 more exist only in Latin.
+
+### Rights to settle
+
+- `kempis-imitation-of-christ`: whether Croft & Bolton's 1940 English was renewed is unknown, and the pt-BR's translator is unidentified.
+- `dante-opera-omnia/commedia`: the Italian is Petrocchi's modern text (tier B, free in practice).
+- `francis-of-assisi-opera-omnia/opuscula`: Esser's text is used under the publisher's permission to franciscanos.org, which isn't a general licence.
+- `church-fathers/councils/trent`: the Latin may derive from a modern critical edition, which would make it tier B, not A.
+- `john-of-the-cross-opera-omnia/*`: Silverio's notes are under copyright in Spain until 2035. They are public domain in Brazil and the US.
