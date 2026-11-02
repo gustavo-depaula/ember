@@ -1,0 +1,75 @@
+{
+  "id": "benson-upper-room",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Upper Room: A Drama of Christ’s Passion",
+    "pt-BR": "O Cenáculo: Drama da Paixão de Cristo"
+  },
+  "author": {
+    "en-US": "Mgr. Robert Hugh Benson",
+    "pt-BR": "Mons. Robert Hugh Benson"
+  },
+  "description": {
+    "en-US": "Benson's drama of the Passion (1914), set in the upper room of the Last Supper and in the days around it: a prologue and three acts, with the author's introduction and preface.",
+    "pt-BR": "O drama da Paixão de Benson (1914), ambientado no cenáculo da Úlima Ceia e nos dias em torno dela: um prólogo e três atos, com a introdução e o prefácio do autor."
+  },
+  "composed": 1914,
+  "languages": [
+    "en-US"
+  ],
+  "work": "benson/upper-room",
+  "editions": {
+    "en-US": {
+      "editor": "Robert Hugh Benson (London: Hutchinson, 1914)",
+      "year": 1914
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/upperroomdramaof00bens",
+      "edition": "The Upper Room: A Drama of Christ’s Passion (London: Hutchinson, 1914), Internet Archive full-text OCR (upperroomdramaof00bens).",
+      "description": " Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Mgr. Robert Hugh Benson died in 1914 and the edition is of 1914, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "Prologue"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "Act I"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "Act II"
+      }
+    },
+    {
+      "id": "chapter-06",
+      "title": {
+        "en-US": "Act III"
+      }
+    }
+  ]
+}

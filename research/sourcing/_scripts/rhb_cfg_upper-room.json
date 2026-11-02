@@ -1,0 +1,46 @@
+{
+ "id": "benson-upper-room",
+ "dir": "benson-opera-omnia/upper-room",
+ "slug": "upper-room",
+ "name": "The Upper Room: A Drama of Christ’s Passion",
+ "name_pt": "O Cenáculo: Drama da Paixão de Cristo",
+ "desc": "Benson's drama of the Passion (1914), set in the upper room of the Last Supper and in the days around it: a prologue and three acts, with the author's introduction and preface.",
+ "desc_pt": "O drama da Paixão de Benson (1914), ambientado no cenáculo da Úlima Ceia e nos dias em torno dela: um prólogo e três atos, com a introdução e o prefácio do autor.",
+ "composed": 1914,
+ "editor": "Robert Hugh Benson (London: Hutchinson, 1914)",
+ "year": 1914,
+ "url": "https://archive.org/details/upperroomdramaof00bens",
+ "edition": "The Upper Room: A Drama of Christ’s Passion (London: Hutchinson, 1914), Internet Archive full-text OCR (upperroomdramaof00bens).",
+ "src": "robert-hugh-benson/ia/upperroomdramaof00bens_djvu.txt",
+ "manual": [
+  [
+   140,
+   "Introduction"
+  ],
+  [
+   196,
+   "Preface"
+  ],
+  [
+   326,
+   "Prologue"
+  ],
+  [
+   398,
+   "Act I"
+  ],
+  [
+   1238,
+   "Act II"
+  ],
+  [
+   1804,
+   "Act III"
+  ]
+ ],
+ "start": 140,
+ "end": 2391,
+ "label": "",
+ "mode": "ia",
+ "died": 1914
+}
