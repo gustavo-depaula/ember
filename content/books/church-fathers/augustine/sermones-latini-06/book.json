@@ -1,0 +1,477 @@
+{
+  "id": "augustine-sermones-latini-06",
+  "cover": "quarter",
+  "name": {
+    "la": "Sermones 216–248",
+    "en-US": "Sermons 216–248 (Latin)",
+    "pt-BR": "Sermões 216–248 (latim)"
+  },
+  "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
+  },
+  "description": {
+    "la": "Sermones Augustini 216–248, quae in versione Anglica non exstant. Textus Latinus.",
+    "en-US": "72 of Augustine's sermons (216 to 248), Latin text of the Maurist edition (with the post-Maurist additions of Divjak, Dolbeau and others where the source numbers them). These are the sermons not in the English NPNF book; no English translation imported.",
+    "pt-BR": "72 sermões de Santo Agostinho (216 a 248), texto latino da edição dos Maurinos e dos acréscimos posteriores."
+  },
+  "composed": "date varies",
+  "languages": [
+    "la"
+  ],
+  "work": "augustine/sermones",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/discorsi/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages discorsi of augustinus.it, one page per book, long pages split at chapter boundaries. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Sermo 216"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Sermo 217"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Sermo 218"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Sermo 218/A"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Sermo 218/B"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Sermo 218/C"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "la": "Sermo 219"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "la": "Sermo 220"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "la": "Sermo 221"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "la": "Sermo 222"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "la": "Sermo 223"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "la": "Sermo 223/A"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "la": "Sermo 223/B"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "la": "Sermo 223/C"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "la": "Sermo 223/D"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "la": "Sermo 223/E"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "la": "Sermo 223/F"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "la": "Sermo 223/G"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "la": "Sermo 223/H"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "la": "Sermo 223/I"
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "la": "Sermo 223/J"
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "la": "Sermo 223/K"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "la": "Sermo 224"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "la": "Sermo 225"
+      }
+    },
+    {
+      "id": "ch025",
+      "title": {
+        "la": "Sermo 226"
+      }
+    },
+    {
+      "id": "ch026",
+      "title": {
+        "la": "Sermo 227"
+      }
+    },
+    {
+      "id": "ch027",
+      "title": {
+        "la": "Sermo 228"
+      }
+    },
+    {
+      "id": "ch028",
+      "title": {
+        "la": "Sermo 228/A"
+      }
+    },
+    {
+      "id": "ch029",
+      "title": {
+        "la": "Sermo 228/B"
+      }
+    },
+    {
+      "id": "ch030",
+      "title": {
+        "la": "Sermo 229"
+      }
+    },
+    {
+      "id": "ch031",
+      "title": {
+        "la": "Sermo 229/A"
+      }
+    },
+    {
+      "id": "ch032",
+      "title": {
+        "la": "Sermo 229/B"
+      }
+    },
+    {
+      "id": "ch033",
+      "title": {
+        "la": "Sermo 229/C"
+      }
+    },
+    {
+      "id": "ch034",
+      "title": {
+        "la": "Sermo 229/D"
+      }
+    },
+    {
+      "id": "ch035",
+      "title": {
+        "la": "Sermo 229/E"
+      }
+    },
+    {
+      "id": "ch036",
+      "title": {
+        "la": "Sermo 229/F"
+      }
+    },
+    {
+      "id": "ch037",
+      "title": {
+        "la": "Sermo 229/G"
+      }
+    },
+    {
+      "id": "ch038",
+      "title": {
+        "la": "Sermo 229/H"
+      }
+    },
+    {
+      "id": "ch039",
+      "title": {
+        "la": "Sermo 229/I"
+      }
+    },
+    {
+      "id": "ch040",
+      "title": {
+        "la": "Sermo 229/J"
+      }
+    },
+    {
+      "id": "ch041",
+      "title": {
+        "la": "Sermo 229/K"
+      }
+    },
+    {
+      "id": "ch042",
+      "title": {
+        "la": "Sermo 229/L"
+      }
+    },
+    {
+      "id": "ch043",
+      "title": {
+        "la": "Sermo 229/M"
+      }
+    },
+    {
+      "id": "ch044",
+      "title": {
+        "la": "Sermo 229/N"
+      }
+    },
+    {
+      "id": "ch045",
+      "title": {
+        "la": "Sermo 229/O"
+      }
+    },
+    {
+      "id": "ch046",
+      "title": {
+        "la": "Sermo 229/P"
+      }
+    },
+    {
+      "id": "ch047",
+      "title": {
+        "la": "Sermo 229/R"
+      }
+    },
+    {
+      "id": "ch048",
+      "title": {
+        "la": "Sermo 229/S"
+      }
+    },
+    {
+      "id": "ch049",
+      "title": {
+        "la": "Sermo 229/T"
+      }
+    },
+    {
+      "id": "ch050",
+      "title": {
+        "la": "Sermo 229/U"
+      }
+    },
+    {
+      "id": "ch051",
+      "title": {
+        "la": "Sermo 229/V"
+      }
+    },
+    {
+      "id": "ch052",
+      "title": {
+        "la": "Sermo 230"
+      }
+    },
+    {
+      "id": "ch053",
+      "title": {
+        "la": "Sermo 231"
+      }
+    },
+    {
+      "id": "ch054",
+      "title": {
+        "la": "Sermo 232"
+      }
+    },
+    {
+      "id": "ch055",
+      "title": {
+        "la": "Sermo 233"
+      }
+    },
+    {
+      "id": "ch056",
+      "title": {
+        "la": "Sermo 234"
+      }
+    },
+    {
+      "id": "ch057",
+      "title": {
+        "la": "Sermo 235"
+      }
+    },
+    {
+      "id": "ch058",
+      "title": {
+        "la": "Sermo 236"
+      }
+    },
+    {
+      "id": "ch059",
+      "title": {
+        "la": "Sermo 236/A"
+      }
+    },
+    {
+      "id": "ch060",
+      "title": {
+        "la": "Sermo 237"
+      }
+    },
+    {
+      "id": "ch061",
+      "title": {
+        "la": "Sermo 238"
+      }
+    },
+    {
+      "id": "ch062",
+      "title": {
+        "la": "Sermo 239"
+      }
+    },
+    {
+      "id": "ch063",
+      "title": {
+        "la": "Sermo 240"
+      }
+    },
+    {
+      "id": "ch064",
+      "title": {
+        "la": "Sermo 241"
+      }
+    },
+    {
+      "id": "ch065",
+      "title": {
+        "la": "Sermo 242"
+      }
+    },
+    {
+      "id": "ch066",
+      "title": {
+        "la": "Sermo 242/A"
+      }
+    },
+    {
+      "id": "ch067",
+      "title": {
+        "la": "Sermo 243"
+      }
+    },
+    {
+      "id": "ch068",
+      "title": {
+        "la": "Sermo 244"
+      }
+    },
+    {
+      "id": "ch069",
+      "title": {
+        "la": "Sermo 245"
+      }
+    },
+    {
+      "id": "ch070",
+      "title": {
+        "la": "Sermo 246"
+      }
+    },
+    {
+      "id": "ch071",
+      "title": {
+        "la": "Sermo 247"
+      }
+    },
+    {
+      "id": "ch072",
+      "title": {
+        "la": "Sermo 248"
+      }
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  }
+}
