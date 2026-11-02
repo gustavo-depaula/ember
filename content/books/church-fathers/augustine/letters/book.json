@@ -2,15 +2,26 @@
   "id": "augustine-letters",
   "cover": "quarter",
   "name": {
+    "la": "Epistulae",
     "en-US": "Letters"
   },
   "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
     "en-US": "Augustine of Hippo"
   },
   "languages": [
+    "la",
     "en-US"
   ],
   "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/lettere/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages lettere of augustinus.it, one page per book/letter/sermon, split to the same chapter files as the English. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    },
     {
       "language": "en-US",
       "url": "http://www.newadvent.org/fathers/1102.htm",
@@ -21,971 +32,1144 @@
     {
       "id": "ch001",
       "title": {
+        "la": "Epistula 1",
         "en-US": "Letter 1"
       }
     },
     {
       "id": "ch002",
       "title": {
+        "la": "Epistula 2",
         "en-US": "Letter 2"
       }
     },
     {
       "id": "ch003",
       "title": {
+        "la": "Epistula 3",
         "en-US": "Letter 3"
       }
     },
     {
       "id": "ch004",
       "title": {
+        "la": "Epistula 4",
         "en-US": "Letter 4"
       }
     },
     {
       "id": "ch005",
       "title": {
+        "la": "Epistula 5",
         "en-US": "Letter 5"
       }
     },
     {
       "id": "ch006",
       "title": {
+        "la": "Epistula 6",
         "en-US": "Letter 6"
       }
     },
     {
       "id": "ch007",
       "title": {
+        "la": "Epistula 7",
         "en-US": "Letter 7"
       }
     },
     {
       "id": "ch008",
       "title": {
+        "la": "Epistula 8",
         "en-US": "Letter 8"
       }
     },
     {
       "id": "ch009",
       "title": {
+        "la": "Epistula 9",
         "en-US": "Letter 9"
       }
     },
     {
       "id": "ch010",
       "title": {
+        "la": "Epistula 10",
         "en-US": "Letter 10"
       }
     },
     {
       "id": "ch011",
       "title": {
+        "la": "Epistula 11",
         "en-US": "Letter 11"
       }
     },
     {
       "id": "ch012",
       "title": {
+        "la": "Epistula 13",
         "en-US": "Letter 13"
       }
     },
     {
       "id": "ch013",
       "title": {
+        "la": "Epistula 14",
         "en-US": "Letter 14"
       }
     },
     {
       "id": "ch014",
       "title": {
+        "la": "Epistula 15",
         "en-US": "Letter 15"
       }
     },
     {
       "id": "ch015",
       "title": {
+        "la": "Epistula 16",
         "en-US": "Letter 16"
       }
     },
     {
       "id": "ch016",
       "title": {
+        "la": "Epistula 17",
         "en-US": "Letter 17"
       }
     },
     {
       "id": "ch017",
       "title": {
+        "la": "Epistula 18",
         "en-US": "Letter 18"
       }
     },
     {
       "id": "ch018",
       "title": {
+        "la": "Epistula 19",
         "en-US": "Letter 19"
       }
     },
     {
       "id": "ch019",
       "title": {
+        "la": "Epistula 20",
         "en-US": "Letter 20"
       }
     },
     {
       "id": "ch020",
       "title": {
+        "la": "Epistula 21",
         "en-US": "Letter 21"
       }
     },
     {
       "id": "ch021",
       "title": {
+        "la": "Epistula 22",
         "en-US": "Letter 22"
       }
     },
     {
       "id": "ch022",
       "title": {
+        "la": "Epistula 23",
         "en-US": "Letter 23"
       }
     },
     {
       "id": "ch023",
       "title": {
+        "la": "Epistula 25",
         "en-US": "Letter 25"
       }
     },
     {
       "id": "ch024",
       "title": {
+        "la": "Epistula 26",
         "en-US": "Letter 26"
       }
     },
     {
       "id": "ch025",
       "title": {
+        "la": "Epistula 27",
         "en-US": "Letter 27"
       }
     },
     {
       "id": "ch026",
       "title": {
+        "la": "Epistula 28",
         "en-US": "Letter 28"
       }
     },
     {
       "id": "ch027",
       "title": {
+        "la": "Epistula 29",
         "en-US": "Letter 29"
       }
     },
     {
       "id": "ch028",
       "title": {
+        "la": "Epistula 30",
         "en-US": "Letter 30"
       }
     },
     {
       "id": "ch029",
       "title": {
+        "la": "Epistula 31",
         "en-US": "Letter 31"
       }
     },
     {
       "id": "ch030",
       "title": {
+        "la": "Epistula 33",
         "en-US": "Letter 33"
       }
     },
     {
       "id": "ch031",
       "title": {
+        "la": "Epistula 34",
         "en-US": "Letter 34"
       }
     },
     {
       "id": "ch032",
       "title": {
+        "la": "Epistula 35",
         "en-US": "Letter 35"
       }
     },
     {
       "id": "ch033",
       "title": {
+        "la": "Epistula 36",
         "en-US": "Letter 36"
       }
     },
     {
       "id": "ch034",
       "title": {
+        "la": "Epistula 37",
         "en-US": "Letter 37"
       }
     },
     {
       "id": "ch035",
       "title": {
+        "la": "Epistula 38",
         "en-US": "Letter 38"
       }
     },
     {
       "id": "ch036",
       "title": {
+        "la": "Epistula 39",
         "en-US": "Letter 39"
       }
     },
     {
       "id": "ch037",
       "title": {
+        "la": "Epistula 40",
         "en-US": "Letter 40"
       }
     },
     {
       "id": "ch038",
       "title": {
+        "la": "Epistula 41",
         "en-US": "Letter 41"
       }
     },
     {
       "id": "ch039",
       "title": {
+        "la": "Epistula 42",
         "en-US": "Letter 42"
       }
     },
     {
       "id": "ch040",
       "title": {
+        "la": "Epistula 43",
         "en-US": "Letter 43"
       }
     },
     {
       "id": "ch041",
       "title": {
+        "la": "Epistula 44",
         "en-US": "Letter 44"
       }
     },
     {
       "id": "ch042",
       "title": {
+        "la": "Epistula 46",
         "en-US": "Letter 46"
       }
     },
     {
       "id": "ch043",
       "title": {
+        "la": "Epistula 47",
         "en-US": "Letter 47"
       }
     },
     {
       "id": "ch044",
       "title": {
+        "la": "Epistula 48",
         "en-US": "Letter 48"
       }
     },
     {
       "id": "ch045",
       "title": {
+        "la": "Epistula 50",
         "en-US": "Letter 50"
       }
     },
     {
       "id": "ch046",
       "title": {
+        "la": "Epistula 51",
         "en-US": "Letter 51"
       }
     },
     {
       "id": "ch047",
       "title": {
+        "la": "Epistula 53",
         "en-US": "Letter 53"
       }
     },
     {
       "id": "ch048",
       "title": {
+        "la": "Epistula 54",
         "en-US": "Letter 54"
       }
     },
     {
       "id": "ch049",
       "title": {
+        "la": "Epistula 55",
         "en-US": "Letter 55"
       }
     },
     {
       "id": "ch050",
       "title": {
+        "la": "Epistula 58",
         "en-US": "Letter 58"
       }
     },
     {
       "id": "ch051",
       "title": {
+        "la": "Epistula 59",
         "en-US": "Letter 59"
       }
     },
     {
       "id": "ch052",
       "title": {
+        "la": "Epistula 60",
         "en-US": "Letter 60"
       }
     },
     {
       "id": "ch053",
       "title": {
+        "la": "Epistula 61",
         "en-US": "Letter 61"
       }
     },
     {
       "id": "ch054",
       "title": {
+        "la": "Epistula 62",
         "en-US": "Letter 62"
       }
     },
     {
       "id": "ch055",
       "title": {
+        "la": "Epistula 63",
         "en-US": "Letter 63"
       }
     },
     {
       "id": "ch056",
       "title": {
+        "la": "Epistula 64",
         "en-US": "Letter 64"
       }
     },
     {
       "id": "ch057",
       "title": {
+        "la": "Epistula 65",
         "en-US": "Letter 65"
       }
     },
     {
       "id": "ch058",
       "title": {
+        "la": "Epistula 66",
         "en-US": "Letter 66"
       }
     },
     {
       "id": "ch059",
       "title": {
+        "la": "Epistula 67",
         "en-US": "Letter 67"
       }
     },
     {
       "id": "ch060",
       "title": {
+        "la": "Epistula 68",
         "en-US": "Letter 68"
       }
     },
     {
       "id": "ch061",
       "title": {
+        "la": "Epistula 69",
         "en-US": "Letter 69"
       }
     },
     {
       "id": "ch062",
       "title": {
+        "la": "Epistula 71",
         "en-US": "Letter 71"
       }
     },
     {
       "id": "ch063",
       "title": {
+        "la": "Epistula 72",
         "en-US": "Letter 72"
       }
     },
     {
       "id": "ch064",
       "title": {
+        "la": "Epistula 73",
         "en-US": "Letter 73"
       }
     },
     {
       "id": "ch065",
       "title": {
+        "la": "Epistula 74",
         "en-US": "Letter 74"
       }
     },
     {
       "id": "ch066",
       "title": {
+        "la": "Epistula 75",
         "en-US": "Letter 75"
       }
     },
     {
       "id": "ch067",
       "title": {
+        "la": "Epistula 76",
         "en-US": "Letter 76"
       }
     },
     {
       "id": "ch068",
       "title": {
+        "la": "Epistula 77",
         "en-US": "Letter 77"
       }
     },
     {
       "id": "ch069",
       "title": {
+        "la": "Epistula 78",
         "en-US": "Letter 78"
       }
     },
     {
       "id": "ch070",
       "title": {
+        "la": "Epistula 79",
         "en-US": "Letter 79"
       }
     },
     {
       "id": "ch071",
       "title": {
+        "la": "Epistula 81",
         "en-US": "Letter 81"
       }
     },
     {
       "id": "ch072",
       "title": {
+        "la": "Epistula 82",
         "en-US": "Letter 82"
       }
     },
     {
       "id": "ch073",
       "title": {
+        "la": "Epistula 83",
         "en-US": "Letter 83"
       }
     },
     {
       "id": "ch074",
       "title": {
+        "la": "Epistula 84",
         "en-US": "Letter 84"
       }
     },
     {
       "id": "ch075",
       "title": {
+        "la": "Epistula 85",
         "en-US": "Letter 85"
       }
     },
     {
       "id": "ch076",
       "title": {
+        "la": "Epistula 86",
         "en-US": "Letter 86"
       }
     },
     {
       "id": "ch077",
       "title": {
+        "la": "Epistula 87",
         "en-US": "Letter 87"
       }
     },
     {
       "id": "ch078",
       "title": {
+        "la": "Epistula 88",
         "en-US": "Letter 88"
       }
     },
     {
       "id": "ch079",
       "title": {
+        "la": "Epistula 89",
         "en-US": "Letter 89"
       }
     },
     {
       "id": "ch080",
       "title": {
+        "la": "Epistula 90",
         "en-US": "Letter 90"
       }
     },
     {
       "id": "ch081",
       "title": {
+        "la": "Epistula 91",
         "en-US": "Letter 91"
       }
     },
     {
       "id": "ch082",
       "title": {
+        "la": "Epistula 92",
         "en-US": "Letter 92"
       }
     },
     {
       "id": "ch083",
       "title": {
+        "la": "Epistula 93",
         "en-US": "Letter 93"
       }
     },
     {
       "id": "ch084",
       "title": {
+        "la": "Epistula 95",
         "en-US": "Letter 95"
       }
     },
     {
       "id": "ch085",
       "title": {
+        "la": "Epistula 96",
         "en-US": "Letter 96"
       }
     },
     {
       "id": "ch086",
       "title": {
+        "la": "Epistula 97",
         "en-US": "Letter 97"
       }
     },
     {
       "id": "ch087",
       "title": {
+        "la": "Epistula 98",
         "en-US": "Letter 98"
       }
     },
     {
       "id": "ch088",
       "title": {
+        "la": "Epistula 99",
         "en-US": "Letter 99"
       }
     },
     {
       "id": "ch089",
       "title": {
+        "la": "Epistula 100",
         "en-US": "Letter 100"
       }
     },
     {
       "id": "ch090",
       "title": {
+        "la": "Epistula 101",
         "en-US": "Letter 101"
       }
     },
     {
       "id": "ch091",
       "title": {
+        "la": "Epistula 102",
         "en-US": "Letter 102"
       }
     },
     {
       "id": "ch092",
       "title": {
+        "la": "Epistula 103",
         "en-US": "Letter 103"
       }
     },
     {
       "id": "ch093",
       "title": {
+        "la": "Epistula 104",
         "en-US": "Letter 104"
       }
     },
     {
       "id": "ch094",
       "title": {
+        "la": "Epistula 111",
         "en-US": "Letter 111"
       }
     },
     {
       "id": "ch095",
       "title": {
+        "la": "Epistula 115",
         "en-US": "Letter 115"
       }
     },
     {
       "id": "ch096",
       "title": {
+        "la": "Epistula 116",
         "en-US": "Letter 116"
       }
     },
     {
       "id": "ch097",
       "title": {
+        "la": "Epistula 117",
         "en-US": "Letter 117"
       }
     },
     {
       "id": "ch098",
       "title": {
+        "la": "Epistula 118",
         "en-US": "Letter 118"
       }
     },
     {
       "id": "ch099",
       "title": {
+        "la": "Epistula 122",
         "en-US": "Letter 122"
       }
     },
     {
       "id": "ch100",
       "title": {
+        "la": "Epistula 123",
         "en-US": "Letter 123"
       }
     },
     {
       "id": "ch101",
       "title": {
+        "la": "Epistula 124",
         "en-US": "Letter 124"
       }
     },
     {
       "id": "ch102",
       "title": {
+        "la": "Epistula 125",
         "en-US": "Letter 125"
       }
     },
     {
       "id": "ch103",
       "title": {
+        "la": "Epistula 126",
         "en-US": "Letter 126"
       }
     },
     {
       "id": "ch104",
       "title": {
+        "la": "Epistula 130",
         "en-US": "Letter 130"
       }
     },
     {
       "id": "ch105",
       "title": {
+        "la": "Epistula 131",
         "en-US": "Letter 131"
       }
     },
     {
       "id": "ch106",
       "title": {
+        "la": "Epistula 132",
         "en-US": "Letter 132"
       }
     },
     {
       "id": "ch107",
       "title": {
+        "la": "Epistula 133",
         "en-US": "Letter 133"
       }
     },
     {
       "id": "ch108",
       "title": {
+        "la": "Epistula 135",
         "en-US": "Letter 135"
       }
     },
     {
       "id": "ch109",
       "title": {
+        "la": "Epistula 136",
         "en-US": "Letter 136"
       }
     },
     {
       "id": "ch110",
       "title": {
+        "la": "Epistula 137",
         "en-US": "Letter 137"
       }
     },
     {
       "id": "ch111",
       "title": {
+        "la": "Epistula 138",
         "en-US": "Letter 138"
       }
     },
     {
       "id": "ch112",
       "title": {
+        "la": "Epistula 139",
         "en-US": "Letter 139"
       }
     },
     {
       "id": "ch113",
       "title": {
+        "la": "Epistula 143",
         "en-US": "Letter 143"
       }
     },
     {
       "id": "ch114",
       "title": {
+        "la": "Epistula 144",
         "en-US": "Letter 144"
       }
     },
     {
       "id": "ch115",
       "title": {
+        "la": "Epistula 145",
         "en-US": "Letter 145"
       }
     },
     {
       "id": "ch116",
       "title": {
+        "la": "Epistula 146",
         "en-US": "Letter 146"
       }
     },
     {
       "id": "ch117",
       "title": {
+        "la": "Epistula 148",
         "en-US": "Letter 148"
       }
     },
     {
       "id": "ch118",
       "title": {
+        "la": "Epistula 150",
         "en-US": "Letter 150"
       }
     },
     {
       "id": "ch119",
       "title": {
+        "la": "Epistula 151",
         "en-US": "Letter 151"
       }
     },
     {
       "id": "ch120",
       "title": {
+        "la": "Epistula 158",
         "en-US": "Letter 158"
       }
     },
     {
       "id": "ch121",
       "title": {
+        "la": "Epistula 159",
         "en-US": "Letter 159"
       }
     },
     {
       "id": "ch122",
       "title": {
+        "la": "Epistula 163",
         "en-US": "Letter 163"
       }
     },
     {
       "id": "ch123",
       "title": {
+        "la": "Epistula 164",
         "en-US": "Letter 164"
       }
     },
     {
       "id": "ch124",
       "title": {
+        "la": "Epistula 165",
         "en-US": "Letter 165"
       }
     },
     {
       "id": "ch125",
       "title": {
+        "la": "Epistula 166",
         "en-US": "Letter 166"
       }
     },
     {
       "id": "ch126",
       "title": {
+        "la": "Epistula 167",
         "en-US": "Letter 167"
       }
     },
     {
       "id": "ch127",
       "title": {
+        "la": "Epistula 169",
         "en-US": "Letter 169"
       }
     },
     {
       "id": "ch128",
       "title": {
+        "la": "Epistula 172",
         "en-US": "Letter 172"
       }
     },
     {
       "id": "ch129",
       "title": {
+        "la": "Epistula 173",
         "en-US": "Letter 173"
       }
     },
     {
       "id": "ch130",
       "title": {
+        "la": "Epistula 180",
         "en-US": "Letter 180"
       }
     },
     {
       "id": "ch131",
       "title": {
+        "la": "Epistula 185",
         "en-US": "Letter 185"
       }
     },
     {
       "id": "ch132",
       "title": {
+        "la": "Epistula 188",
         "en-US": "Letter 188"
       }
     },
     {
       "id": "ch133",
       "title": {
+        "la": "Epistula 189",
         "en-US": "Letter 189"
       }
     },
     {
       "id": "ch134",
       "title": {
+        "la": "Epistula 191",
         "en-US": "Letter 191"
       }
     },
     {
       "id": "ch135",
       "title": {
+        "la": "Epistula 192",
         "en-US": "Letter 192"
       }
     },
     {
       "id": "ch136",
       "title": {
+        "la": "Epistula 195",
         "en-US": "Letter 195"
       }
     },
     {
       "id": "ch137",
       "title": {
+        "la": "Epistula 201",
         "en-US": "Letter 201"
       }
     },
     {
       "id": "ch138",
       "title": {
+        "la": "Epistula 202",
         "en-US": "Letter 202"
       }
     },
     {
       "id": "ch139",
       "title": {
+        "la": "Epistula 203",
         "en-US": "Letter 203"
       }
     },
     {
       "id": "ch140",
       "title": {
+        "la": "Epistula 208",
         "en-US": "Letter 208"
       }
     },
     {
       "id": "ch141",
       "title": {
+        "la": "Epistula 209",
         "en-US": "Letter 209"
       }
     },
     {
       "id": "ch142",
       "title": {
+        "la": "Epistula 210",
         "en-US": "Letter 210"
       }
     },
     {
       "id": "ch143",
       "title": {
+        "la": "Epistula 211",
         "en-US": "Letter 211"
       }
     },
     {
       "id": "ch144",
       "title": {
+        "la": "Epistula 212",
         "en-US": "Letter 212"
       }
     },
     {
       "id": "ch145",
       "title": {
+        "la": "Epistula 213",
         "en-US": "Letter 213"
       }
     },
     {
       "id": "ch146",
       "title": {
+        "la": "Epistula 214",
         "en-US": "Letter 214"
       }
     },
     {
       "id": "ch147",
       "title": {
+        "la": "Epistula 215",
         "en-US": "Letter 215"
       }
     },
     {
       "id": "ch148",
       "title": {
+        "la": "Epistula 218",
         "en-US": "Letter 218"
       }
     },
     {
       "id": "ch149",
       "title": {
+        "la": "Epistula 219",
         "en-US": "Letter 219"
       }
     },
     {
       "id": "ch150",
       "title": {
+        "la": "Epistula 220",
         "en-US": "Letter 220"
       }
     },
     {
       "id": "ch151",
       "title": {
+        "la": "Epistula 227",
         "en-US": "Letter 227"
       }
     },
     {
       "id": "ch152",
       "title": {
+        "la": "Epistula 228",
         "en-US": "Letter 228"
       }
     },
     {
       "id": "ch153",
       "title": {
+        "la": "Epistula 229",
         "en-US": "Letter 229"
       }
     },
     {
       "id": "ch154",
       "title": {
+        "la": "Epistula 231",
         "en-US": "Letter 231"
       }
     },
     {
       "id": "ch155",
       "title": {
+        "la": "Epistula 232",
         "en-US": "Letter 232"
       }
     },
     {
       "id": "ch156",
       "title": {
+        "la": "Epistula 245",
         "en-US": "Letter 245"
       }
     },
     {
       "id": "ch157",
       "title": {
+        "la": "Epistula 246",
         "en-US": "Letter 246"
       }
     },
     {
       "id": "ch158",
       "title": {
+        "la": "Epistula 250",
         "en-US": "Letter 250"
       }
     },
     {
       "id": "ch159",
       "title": {
+        "la": "Epistula 254",
         "en-US": "Letter 254"
       }
     },
     {
       "id": "ch160",
       "title": {
+        "la": "Epistula 263",
         "en-US": "Letter 263"
       }
     },
     {
       "id": "ch161",
       "title": {
+        "la": "Epistula 269",
         "en-US": "Letter 269"
       }
     }
   ],
   "arrived": {
-    "en-US": "2026-06-04"
+    "en-US": "2026-06-04",
+    "la": "2026-11-02"
+  },
+  "work": "augustine/epistulae",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    },
+    "en-US": {
+      "translator": "J",
+      "year": 1887
+    }
   }
 }
