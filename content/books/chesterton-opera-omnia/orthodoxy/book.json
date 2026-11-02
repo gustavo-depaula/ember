@@ -1,0 +1,99 @@
+{
+  "id": "chesterton-orthodoxy",
+  "cover": "classic",
+  "name": {
+    "en-US": "Orthodoxy",
+    "pt-BR": "Ortodoxia"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's account of how he came to believe the Christian faith: not an argument from evidence but a spiritual autobiography in paradoxes. Against the madness of reason without wonder, he finds in the creed the only philosophy that keeps both the sanity and the romance of the world. Companion to Heretics (1905).",
+    "pt-BR": "O relato de Chesterton sobre como chegou à fé cristã: não um argumento a partir de provas, mas uma autobiografia espiritual em paradoxos. Contra a loucura da razão sem assombro, ele encontra no credo a única filosofia que guarda ao mesmo tempo a sanidade e o romance do mundo. Companheiro de Heretics (1905)."
+  },
+  "composed": "1908",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/orthodoxy",
+  "editions": {
+    "en-US": {
+      "editor": "John Lane (The Bodley Head)",
+      "year": 1908
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/130",
+      "edition": "Orthodoxy (London: John Lane, 1908), Project Gutenberg #130, proofread by Martin Ward and compared against a second scan by Mike Perry.",
+      "description": "Preface and the nine chapters; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1908 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "ch01-introduction-in-defence-of-everything-else",
+      "title": {
+        "en-US": "I. Introduction in Defence of Everything Else"
+      }
+    },
+    {
+      "id": "ch02-the-maniac",
+      "title": {
+        "en-US": "II. The Maniac"
+      }
+    },
+    {
+      "id": "ch03-the-suicide-of-thought",
+      "title": {
+        "en-US": "III. The Suicide of Thought"
+      }
+    },
+    {
+      "id": "ch04-the-ethics-of-elfland",
+      "title": {
+        "en-US": "IV. The Ethics of Elfland"
+      }
+    },
+    {
+      "id": "ch05-the-flag-of-the-world",
+      "title": {
+        "en-US": "V. The Flag of the World"
+      }
+    },
+    {
+      "id": "ch06-the-paradoxes-of-christianity",
+      "title": {
+        "en-US": "VI. The Paradoxes of Christianity"
+      }
+    },
+    {
+      "id": "ch07-the-eternal-revolution",
+      "title": {
+        "en-US": "VII. The Eternal Revolution"
+      }
+    },
+    {
+      "id": "ch08-the-romance-of-orthodoxy",
+      "title": {
+        "en-US": "VIII. The Romance of Orthodoxy"
+      }
+    },
+    {
+      "id": "ch09-authority-and-the-adventurer",
+      "title": {
+        "en-US": "IX. Authority and the Adventurer"
+      }
+    }
+  ]
+}
