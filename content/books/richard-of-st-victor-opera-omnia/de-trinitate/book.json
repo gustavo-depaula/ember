@@ -1,0 +1,996 @@
+{
+  "id": "richard-de-trinitate",
+  "cover": "classic",
+  "name": {
+    "la": "De Trinitate",
+    "en-US": "On the Trinity",
+    "pt-BR": "Sobre a Trindade"
+  },
+  "author": {
+    "la": "Richardus de Sancto Victore",
+    "en-US": "Richard of St. Victor",
+    "pt-BR": "Ricardo de São Vítor"
+  },
+  "description": {
+    "la": "De Trinitate libri sex: ratione necessaria probatur Deum esse unum et trinum, et personae divinae in charitate perfecta constituuntur.",
+    "en-US": "Richard’s great treatise in six books: from the necessary reasons for God’s existence to the Trinity of persons, where the perfection of charity demands a Father, a Son and a Spirit who is loved by both. The Latin follows Migne’s printing, not the critical text of Ribaillier. Latin only, from the Migne text (Patrologia Latina 196, 1855), a machine-corrected OCR.",
+    "pt-BR": "O grande tratado de Ricardo em seis livros: das razões necessárias da existência de Deus à Trindade das pessoas, em que a perfeição da caridade exige um Pai, um Filho e um Espírito amado por ambos."
+  },
+  "composed": "c. 1162-1173",
+  "languages": [
+    "la"
+  ],
+  "work": "richard/de-trinitate",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 196)",
+      "year": 1855
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.DeTri9",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.DeTri9, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Prologus."
+      }
+    },
+    {
+      "id": "g01",
+      "title": {
+        "la": "Liber primus"
+      },
+      "children": [
+        {
+          "id": "c002",
+          "title": {
+            "la": "Caput primum. Quod rerum notitiam triplici apprehendimus modo, experiendo, ratiocinando, credendo."
+          }
+        },
+        {
+          "id": "c003",
+          "title": {
+            "la": "Caput II. Quod nihil firmius tenetur quam quod constanti fide apprehenditur."
+          }
+        },
+        {
+          "id": "c004",
+          "title": {
+            "la": "Caput III. Quod de his agitur in hoc opere, quae jubemur de aeternis credere."
+          }
+        },
+        {
+          "id": "c005",
+          "title": {
+            "la": "Caput IV. Modus agendi in hoc opere, non tam auctoritates inducere, quam ratiocinationi insistere."
+          }
+        },
+        {
+          "id": "c006",
+          "title": {
+            "la": "Caput V. Breviter praelibatur de quibus in sequentibus agitur."
+          }
+        },
+        {
+          "id": "c007",
+          "title": {
+            "la": "Caput VI. Quod universaliter omnis modus essendi potest sub triplici distributione comprehendi."
+          }
+        },
+        {
+          "id": "c008",
+          "title": {
+            "la": "Caput VII De illo essendi modo, qui non est ab aeterno, et eo ipso, nec a semetipso."
+          }
+        },
+        {
+          "id": "c009",
+          "title": {
+            "la": "Caput VIII De illo essendi modo qui est a semetipso, et eo ipso ab aeterno."
+          }
+        },
+        {
+          "id": "c010",
+          "title": {
+            "la": "Caput IX. De illo essendi modo qui est ab aeterno, nec tamen a semetipso."
+          }
+        },
+        {
+          "id": "c011",
+          "title": {
+            "la": "Caput X. Quod circa duos tantum modos qui sunt ab aeterno, versatur tota hujus operis intentio."
+          }
+        },
+        {
+          "id": "c012",
+          "title": {
+            "la": "Caput XI. De substantia summa, quod sit a semetipsa, et eo ipso ab aeterno, et sine omni initio."
+          }
+        },
+        {
+          "id": "c013",
+          "title": {
+            "la": "Caput XII. Item quod una sola substantia sit a semetipsa, a qua et caetera omnia, et quod non nisi a semetipsa habet totum quod habet."
+          }
+        },
+        {
+          "id": "c014",
+          "title": {
+            "la": "Caput XIII. Quod summa substantia sit idem quod ipsa potentia, idem quod ipsa sapientia, unde et quaelibet est idem quod altera."
+          }
+        },
+        {
+          "id": "c015",
+          "title": {
+            "la": "Caput XIV. Quod summa substantia non possit habere parem, sicut nec superiorem."
+          }
+        },
+        {
+          "id": "c016",
+          "title": {
+            "la": "Caput XV. Quod sit impossibile summam substantiam propriae naturae consortem habere."
+          }
+        },
+        {
+          "id": "c017",
+          "title": {
+            "la": "Caput XVI. Quod summa substantia sit idem quod divinitas ipsa, et quod Deus non sit nisi substantialiter unus."
+          }
+        },
+        {
+          "id": "c018",
+          "title": {
+            "la": "Caput XVII. Item, quod non sit Deus nisi unus; quod ab ipso est omne quod est; quod nonnisi a se habet totum quod habet; quod idem sit; quod ipsa potentia; quod et ipsa sapientia."
+          }
+        },
+        {
+          "id": "c019",
+          "title": {
+            "la": "Caput XVIII. Quod omnino sit impossibile, vel ipsum Deum, quod Deo sit melius diffinire posse."
+          }
+        },
+        {
+          "id": "c020",
+          "title": {
+            "la": "Caput XIX. Si Deus ipse non potest per intellectum attingere aliquid melius Deo, multo minus humana cogitatio."
+          }
+        },
+        {
+          "id": "c021",
+          "title": {
+            "la": "Caput XX. Investigantibus et disputantibus de Deo quid soleat esse quasi maxima propositio, et velut communis quaedam animi conceptio."
+          }
+        },
+        {
+          "id": "c022",
+          "title": {
+            "la": "Caput XXI. Quod Deus sic sit summe potens, ut etiam sit omnipotens."
+          }
+        },
+        {
+          "id": "c023",
+          "title": {
+            "la": "Caput XXII. Quod Dei sapientia sic sit summa, ut sit usquequaque perfecta."
+          }
+        },
+        {
+          "id": "c024",
+          "title": {
+            "la": "Caput XXIII. Quod de Dei sapientia dicitur, alia adhuc ratione confirmatur."
+          }
+        },
+        {
+          "id": "c025",
+          "title": {
+            "la": "Caput XXIV. Confirmatur eadem ratione quod superius dictum est de divinae potentiae plenitudine."
+          }
+        },
+        {
+          "id": "c026",
+          "title": {
+            "la": "Caput XXV. Quod non potest omnipotens esse nisi unus solus, et quod consequens est, nec Deus nisi unus."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "title": {
+        "la": "Liber secundus"
+      },
+      "children": [
+        {
+          "id": "c027",
+          "title": {
+            "la": "Caput primum. Quod in hoc libro agitur de divinis proprietatibus, et primo quod Deus sit increatus."
+          }
+        },
+        {
+          "id": "c028",
+          "title": {
+            "la": "Caput II. Quod sempiternus sit Deus."
+          }
+        },
+        {
+          "id": "c029",
+          "title": {
+            "la": "Caput III. Quod sit incorruptibilis, et omnino incommutabilis."
+          }
+        },
+        {
+          "id": "c030",
+          "title": {
+            "la": "Caput IV. Unde colligere possumus quod sit aeternus."
+          }
+        },
+        {
+          "id": "c031",
+          "title": {
+            "la": "Caput V. Quod sit infinitus, et eo ipso immensus."
+          }
+        },
+        {
+          "id": "c032",
+          "title": {
+            "la": "Caput VI. Quod non sit, imo esse non possit immensus nisi unus solus."
+          }
+        },
+        {
+          "id": "c033",
+          "title": {
+            "la": "Caput VII. Quomodo ex eo quod non sit nisi unus immensus, probatur quod non sit nisi unus aeternus."
+          }
+        },
+        {
+          "id": "c034",
+          "title": {
+            "la": "Caput VIII. Quod solus Deus sit increatus, solus ab aeterno, caetera omnia creata ex nihilo."
+          }
+        },
+        {
+          "id": "c035",
+          "title": {
+            "la": "Caput IX. Alius de Deo modus probandi, quod sit aeternus, et quod non sit aeternus nisi unus."
+          }
+        },
+        {
+          "id": "c036",
+          "title": {
+            "la": "Caput X. Alius de Deo probandi modus, quod non sit immensus nisi unus."
+          }
+        },
+        {
+          "id": "c037",
+          "title": {
+            "la": "Caput XI. Quod immensitas et aeternitas sint incommunicabiles, nec possint esse pluribus substantiis communes."
+          }
+        },
+        {
+          "id": "c038",
+          "title": {
+            "la": "Caput XII. Quod divinitas superius incommunicabilis dicitur, hic enucleatius pleniusque exprimitur."
+          }
+        },
+        {
+          "id": "c039",
+          "title": {
+            "la": "Caput XIII. Quod secundum diversos modos dicendi possit sapientia seu potentia modo communicabilis, modo incommunicabilis dici."
+          }
+        },
+        {
+          "id": "c040",
+          "title": {
+            "la": "Caput XIV Multiplex probandi modus quod non sit Deus nisi unus."
+          }
+        },
+        {
+          "id": "c041",
+          "title": {
+            "la": "Caput XV. Quod non potest esse nisi unus Dominus, sicut nec nisi unus Deus."
+          }
+        },
+        {
+          "id": "c042",
+          "title": {
+            "la": "Caput XVI. Quod Deus ipse sit summum bonum, et quod summum bonum sit universaliter perfectum."
+          }
+        },
+        {
+          "id": "c043",
+          "title": {
+            "la": "Caput XVII. Quod in illo summo bono universaliterque perfecto sit vera unitas, et summa simplicitas."
+          }
+        },
+        {
+          "id": "c044",
+          "title": {
+            "la": "Caput XVIII. Quod de summi boni simplicitate vel unitate dictum est, quomodo alia ratione confirmari potest."
+          }
+        },
+        {
+          "id": "c045",
+          "title": {
+            "la": "Caput XIX. Quod illud bonum universaliter perfectum, sit summe unum, et unice summum."
+          }
+        },
+        {
+          "id": "c046",
+          "title": {
+            "la": "Caput XX. Quod sit incomprehensibilis simplicitas illa verae et summae unitatis."
+          }
+        },
+        {
+          "id": "c047",
+          "title": {
+            "la": "Caput XXI. Quomodo quisque possit in sua scientia ex comparatione colligere quid debeat de illa super eminenti incomprehensibilitate sentire."
+          }
+        },
+        {
+          "id": "c048",
+          "title": {
+            "la": "Caput XXII. De Dei substantia quid dicatur rectius, et quod ipse sit sine quantitate magnus, et sine qualitate bonus."
+          }
+        },
+        {
+          "id": "c049",
+          "title": {
+            "la": "Caput XXIII. Quod sit in omni loco incomprehensibiliter, et in omni tempore invariabiliter, et quomodo uniformis, et quomodo multiformis."
+          }
+        },
+        {
+          "id": "c050",
+          "title": {
+            "la": "Caput XXIV. Quod ejus facere sit a se fieri velle, et ejus pati non velle fieri, et quod aeque habet et quod actualiter est et quod actualiter non est."
+          }
+        },
+        {
+          "id": "c051",
+          "title": {
+            "la": "Caput XXV. Quod quidquid dictum est de divinis proprietatibus usque modo videtur pertinere ad illud esse quod est ab aeterno et a semetipso."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "title": {
+        "la": "Liber tertius"
+      },
+      "children": [
+        {
+          "id": "c052",
+          "title": {
+            "la": "Caput primum. Quod hucusque actum sit de divinae substantiae unitate, quodammodo quaerendum quid sentiendum sit de divinarum personarum pluralitate."
+          }
+        },
+        {
+          "id": "c053",
+          "title": {
+            "la": "Caput II. Quomodo ex charitatis proprietate plenitudo bonitatis convincit quod in vera divinitate personarum pluralitas deesse non possit."
+          }
+        },
+        {
+          "id": "c054",
+          "title": {
+            "la": "Caput III. Quod idem quod de divinarum personarum pluralitate plenitudo bonitatis loquitur plenitudo divinae felicitatis attestatur."
+          }
+        },
+        {
+          "id": "c055",
+          "title": {
+            "la": "Caput IV. Quod de personarum pluralitate in dictis duobus testibus astruitur, ex considerata divinae gloriae plenitudine confirmatur."
+          }
+        },
+        {
+          "id": "c056",
+          "title": {
+            "la": "Caput V Quod jam dictae divinae pluralitatis assertio triplici confirmatur testimonio."
+          }
+        },
+        {
+          "id": "c057",
+          "title": {
+            "la": "Caput VI. Quod personas divinas oporteat omnino esse coaeternas."
+          }
+        },
+        {
+          "id": "c058",
+          "title": {
+            "la": "Caput VII. Quod in illa personarum pluralitate oportet tam summam aequalitatem, quam summam similitudinem esse."
+          }
+        },
+        {
+          "id": "c059",
+          "title": {
+            "la": "Caput VIII Quam miranda ratione sit substantialis unitas in illa pluralitate, et personalis pluralitas in vera unitate substantiae."
+          }
+        },
+        {
+          "id": "c060",
+          "title": {
+            "la": "Caput IX. Quod in divina natura pluralitas personarum sit in unitate substantiae, et in humana natura pluralitas substantiarum, in unitate personae."
+          }
+        },
+        {
+          "id": "c061",
+          "title": {
+            "la": "Caput X. Quomodo ex pluralitate et unitate quam invenit in semetipso, docetur homo quid quasi ex opposito existimare debeat, de his quae sibi credenda proponuntur de Deo suo."
+          }
+        },
+        {
+          "id": "c062",
+          "title": {
+            "la": "Caput XI. Quomodo convincitur ex charitatis integritate, quo diversa Trinitas sit in vera unitate, et vera unitas in vera Trinitate."
+          }
+        },
+        {
+          "id": "c063",
+          "title": {
+            "la": "Caput XII. Quomodo summa bonitas et summa felicitas Trinitatis assertionem concorditer clamant, et mutua attestatione confirmant."
+          }
+        },
+        {
+          "id": "c064",
+          "title": {
+            "la": "Caput XIII. Quod plenitudo divinae gloriae in contestatione summae bonitatis et felicitatis videatur acclamare."
+          }
+        },
+        {
+          "id": "c065",
+          "title": {
+            "la": "Caput XIV. Quod communicatio amoris non potest esse omnino minus quam in tribus personis."
+          }
+        },
+        {
+          "id": "c066",
+          "title": {
+            "la": "Caput XV. Quod oporteat geminam personam in divinitate pari voto, consimili ratione tertiam personam requirere."
+          }
+        },
+        {
+          "id": "c067",
+          "title": {
+            "la": "Caput XVI Quod plenitudo potentiae et sapientiae videatur posse consistere in singularitate personae."
+          }
+        },
+        {
+          "id": "c068",
+          "title": {
+            "la": "Caput XVII. Quod completio felicitatis non videatur posse subsistere sine geminatione personae."
+          }
+        },
+        {
+          "id": "c069",
+          "title": {
+            "la": "Caput XVIII. Quod consummatio verae et summae bonitatis videtur non posse subsistere sine completione Trinitatis."
+          }
+        },
+        {
+          "id": "c070",
+          "title": {
+            "la": "Caput XIX. Quomodo ex inspecta solum proprietate condilectionis, deprehendi possit vestigium Trinitatis."
+          }
+        },
+        {
+          "id": "c071",
+          "title": {
+            "la": "Caput XX. Quomodo ex tertiae personae consoliditate in illa Trinitate agitur, ut concordialis et consocialis amor ubique nusquam singularis inveniatur."
+          }
+        },
+        {
+          "id": "c072",
+          "title": {
+            "la": "Caput XXI. Quod summa aequalitas sit in illa Trinitate, ubi oportet omnes aeque perfectos esse."
+          }
+        },
+        {
+          "id": "c073",
+          "title": {
+            "la": "Caput XXII. Quod in singulis personis sit summa simplicitas, et in omnibus simul vera et summa unitas, et utrobique miranda identitas."
+          }
+        },
+        {
+          "id": "c074",
+          "title": {
+            "la": "Caput XXIII. Quomodo in his personis sit intelligenda dicta aequalitas, ubi est tanta unitas, et talis identitas."
+          }
+        },
+        {
+          "id": "c075",
+          "title": {
+            "la": "Caput XXIV. Quam incomprehensibilis sit illa omniformitas summae coaequalitatis."
+          }
+        },
+        {
+          "id": "c076",
+          "title": {
+            "la": "Caput XXV. Quod in illa Trinitate nusquam aliquis est dissimilis sibi, nec inaequalis in aliquo alicui alteri."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "title": {
+        "la": "Liber quartus"
+      },
+      "children": [
+        {
+          "id": "c077",
+          "title": {
+            "la": "Caput primum. Quod incomprehensibile videatur humanae intelligentiae, quod pluralitas personarum sit in unitate substantiae."
+          }
+        },
+        {
+          "id": "c078",
+          "title": {
+            "la": "Caput II. Quod multa sunt quae humana intelligentia non comprehendit, quae tamen ipsa propria experientia latere non sinit."
+          }
+        },
+        {
+          "id": "c079",
+          "title": {
+            "la": "Caput III. Quod multa incomprehensibilia sunt ad quae experientia deficit, quae tamen ratio manifesta latere non sinit."
+          }
+        },
+        {
+          "id": "c080",
+          "title": {
+            "la": "Caput IV. Quod ad doctrinae evidentiam oportet personae significationem determinare, et secundum determinationem Trinitatis unitatem assignare."
+          }
+        },
+        {
+          "id": "c081",
+          "title": {
+            "la": "Caput V. Quod ante nos quaesitum est, qua necessitate, quod restat quaerendum, qua veritate tres illi in Trinitate dicti sunt personae."
+          }
+        },
+        {
+          "id": "c082",
+          "title": {
+            "la": "Caput VI. Quod multum differant inter se significatio substantiae, et significatio personae."
+          }
+        },
+        {
+          "id": "c083",
+          "title": {
+            "la": "Caput VII. Quod non tam aliquis quam aliquid significatur nomine substantiae, nec tam aliquid quam aliquis ex denominatione personae."
+          }
+        },
+        {
+          "id": "c084",
+          "title": {
+            "la": "Caput VIII. Quid non sit necesse ubicunque sunt plures personae, etiam plures substantias credere."
+          }
+        },
+        {
+          "id": "c085",
+          "title": {
+            "la": "Caput IX. Quod nihil definimus sibi contrarium, in eo quod dicimus Deum nostrum et substantialiter unum, et personaliter trinum."
+          }
+        },
+        {
+          "id": "c086",
+          "title": {
+            "la": "Caput X. Quod nec pluralitas substantiarum dissolvit unitatem personae in natura humana, nec pluralitas personarum dividit unitatem substantiae in natura divina."
+          }
+        },
+        {
+          "id": "c087",
+          "title": {
+            "la": "Caput XI Quod in discernendis personis opus est gemina consideratione, hoc est, ut sciamus quale quid sit, et unde habeat esse."
+          }
+        },
+        {
+          "id": "c088",
+          "title": {
+            "la": "Caput XII. Quod sub nomine existentiae possumus utramque considerationem subintelligere, et illam quae ad rationem essentiae, vel quae pertinet ad rationem obtinentiae."
+          }
+        },
+        {
+          "id": "c089",
+          "title": {
+            "la": "Caput XIII. Quod generalis existentiarum variatio triplici distinguitur modo."
+          }
+        },
+        {
+          "id": "c090",
+          "title": {
+            "la": "Caput XIV. Juxta quid varietur personarum existentia in humana natura, et juxta quid varietur in natura angelica."
+          }
+        },
+        {
+          "id": "c091",
+          "title": {
+            "la": "Caput XV Quod divinarum existentiarum differentiam oportet quaerere circa originem solam."
+          }
+        },
+        {
+          "id": "c092",
+          "title": {
+            "la": "Caput XVI. Quod in natura divina sit existentia quae est pluribus communis, et est existentia quae est omnibus incommunicabilis."
+          }
+        },
+        {
+          "id": "c093",
+          "title": {
+            "la": "Caput XVII. Qua ratione in divinitate possunt esse incommunicabiles existentiae, et quod tot sunt quot personae."
+          }
+        },
+        {
+          "id": "c094",
+          "title": {
+            "la": "Caput XVIII. Quod quantum ad divina nihil aliud est persona quam incommunicabilis existentia."
+          }
+        },
+        {
+          "id": "c095",
+          "title": {
+            "la": "Caput XIX. Quod possunt plures existentiae esse, et quod consequens est plures personae, ubi non est nisi unitas substantiae."
+          }
+        },
+        {
+          "id": "c096",
+          "title": {
+            "la": "Caput XX. Quomodo intelligendum sit, vel quomodo convenire possit quod quidam dicunt tres substantias et unam essentiam, quidam tres subsistentias et unam substantiam, alii autem tres personas et substantiam vel essentiam unam."
+          }
+        },
+        {
+          "id": "c097",
+          "title": {
+            "la": "Caput XXI. Definitio personae, non cujuscunque, sed solius creatae."
+          }
+        },
+        {
+          "id": "c098",
+          "title": {
+            "la": "Caput XXII. Descriptio personae, non cujuscunque, sed solius increatae."
+          }
+        },
+        {
+          "id": "c099",
+          "title": {
+            "la": "Caput XXIII. Descriptio personae quae videtur soli, et omni posse convenire."
+          }
+        },
+        {
+          "id": "c100",
+          "title": {
+            "la": "Caput XXIV. Item descriptio personae quae videtur soli et omni posse convenire."
+          }
+        },
+        {
+          "id": "c101",
+          "title": {
+            "la": "Caput XXV. Quod proprium sit divinae naturae personarum pluralitatem habere in unitate substantiae, et eo ipso habet ab aliis differre."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "title": {
+        "la": "Liber quintus"
+      },
+      "children": [
+        {
+          "id": "c102",
+          "title": {
+            "la": "Caput primum. Quoniam jam constat de divinae substantiae unitate, et personarum pluralitate, constat et de concordi unitatis et pluralitatis adinvicem habitudine, superest de personarum proprietatibus quaerere."
+          }
+        },
+        {
+          "id": "c103",
+          "title": {
+            "la": "Caput II. Quod jucundissima personarum germanitas non possit deesse in summa felicitate, nec ordinatissima proprietatum habitudo in summa plenitudine."
+          }
+        },
+        {
+          "id": "c104",
+          "title": {
+            "la": "Caput III. Quod exigit rerum natura ut sit aliqua persona quae sit a semetipsa et non ab alia aliqua."
+          }
+        },
+        {
+          "id": "c105",
+          "title": {
+            "la": "Caput IV. Quod non possit esse nisi sola una persona, quae sit a semetipsa."
+          }
+        },
+        {
+          "id": "c106",
+          "title": {
+            "la": "Caput V. Quod duae in divinitate personae habeant aliunde quam a semetipsis esse juxta alium existendi modum qui est ab aeterno, nec tamen a semetipso."
+          }
+        },
+        {
+          "id": "c107",
+          "title": {
+            "la": "Caput VI. Quod processio personae de persona alia sit tantum immediata, alia mediata, alia mediata simul et immediata."
+          }
+        },
+        {
+          "id": "c108",
+          "title": {
+            "la": "Caput VII. De processione tantum immediata, et quod oporteat in divinitate esse personam, quae sit ab una sola."
+          }
+        },
+        {
+          "id": "c109",
+          "title": {
+            "la": "Caput VIII. De processione quae immediata simul est et mediata, et quod oporteat esse in divinitate personam, quae sit a gemina."
+          }
+        },
+        {
+          "id": "c110",
+          "title": {
+            "la": "Caput IX. Quod processio quae fit ad aliquam personam, tantummodo mediata, non possit esse in divina natura."
+          }
+        },
+        {
+          "id": "c111",
+          "title": {
+            "la": "Caput X. Quod in divinitate non possit esse plus quam una quae sit ab una tantummodo persona, nec nisi una sola quae esse non habeat nisi ex gemina."
+          }
+        },
+        {
+          "id": "c112",
+          "title": {
+            "la": "Caput XI. Quod oportet ut in divinitate sit persona a qua non sit alia aliqua, cum tamen eadem non sit a semetipsa."
+          }
+        },
+        {
+          "id": "c113",
+          "title": {
+            "la": "Caput XII Quod non possit esse nisi una sola in divinitate persona a qua non sit aliqua alia."
+          }
+        },
+        {
+          "id": "c114",
+          "title": {
+            "la": "Caput XIII. Quod oportet ut in divinitate talis persona existat, quae ab alia procedat, et de se procedentem habeat."
+          }
+        },
+        {
+          "id": "c115",
+          "title": {
+            "la": "Caput XIV. Quod in divina natura non possit esse nisi una sola persona, quae et ab alia procedat, et de se procedentem habeat."
+          }
+        },
+        {
+          "id": "c116",
+          "title": {
+            "la": "Caput XV. Quod in divina natura non possit esse quarta persona."
+          }
+        },
+        {
+          "id": "c117",
+          "title": {
+            "la": "Caput XVI. De veri amoris plenitudine, et quae circa illum consideratur proprietatum distinctione."
+          }
+        },
+        {
+          "id": "c118",
+          "title": {
+            "la": "Caput XVII. Cui conveniat in Trinitate personae solius gratuiti amoris plenitudinem possidere."
+          }
+        },
+        {
+          "id": "c119",
+          "title": {
+            "la": "Caput XVIII. Cui conveniat in Trinitate debiti amoris plenitudinem habere."
+          }
+        },
+        {
+          "id": "c120",
+          "title": {
+            "la": "Caput XIX. Cui proprie proprium sit in Trinitate personae tam gratuiti quam debiti amoris plenitudinem obtinere."
+          }
+        },
+        {
+          "id": "c121",
+          "title": {
+            "la": "Caput XX. Unde ratio manifeste convincit quod quarta in Divinitate persona locum habere non possit."
+          }
+        },
+        {
+          "id": "c122",
+          "title": {
+            "la": "Caput XXI. Ex novissime posita speculatione quam multa possimus colligere."
+          }
+        },
+        {
+          "id": "c123",
+          "title": {
+            "la": "Caput XXII. Quod dicitur plenitudo amoris gratuiti esse in solo dando, plenitudo debiti in solo accipiendo, non sic oportet intelligere quasi sit opus gratiae et non potius operatio naturae."
+          }
+        },
+        {
+          "id": "c124",
+          "title": {
+            "la": "Caput XXIII. Quod quantum ad substantiam dilectionis in omnibus est amor summus et unus, quamvis sit in singulis proprietatum discretione distinctus."
+          }
+        },
+        {
+          "id": "c125",
+          "title": {
+            "la": "Caput XXIV. Quod quantum ad integritatem perfectionis nulla sit in Trinitate differentia amoris vel dignitatis."
+          }
+        },
+        {
+          "id": "c126",
+          "title": {
+            "la": "Caput XXV. Quae quibus sint personis communia, vel quae sint singularum propria, et quae sint, quae restant adhuc, in istis quaerenda."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "title": {
+        "la": "Liber sextus"
+      },
+      "children": [
+        {
+          "id": "c127",
+          "title": {
+            "la": "Caput primum. Quod in vera divinitate nihil sit juxta donum largientis gratiae, sed totum juxta dotem proprietatemque naturae."
+          }
+        },
+        {
+          "id": "c128",
+          "title": {
+            "la": "Caput II. Quod germanitas, quae est inter parentem et prolem, videtur esse omnino inter innascibilem et personam de ipso principaliter procedentem."
+          }
+        },
+        {
+          "id": "c129",
+          "title": {
+            "la": "Caput III. Quod in producenda prole diversus modus sit pro diversitate naturae."
+          }
+        },
+        {
+          "id": "c130",
+          "title": {
+            "la": "Caput IV. Quod convenienter obtinuit usus, ut in illa Trinitate unus ex duobus diceretur Pater et alius Filius."
+          }
+        },
+        {
+          "id": "c131",
+          "title": {
+            "la": "Caput V. Quomodo certa et manifesta ratione tenemus cur unum Patrem, alterum ipsius Filium dicamus."
+          }
+        },
+        {
+          "id": "c132",
+          "title": {
+            "la": "Caput VI. Cum sit caeteris duobus commune de Patre procedere, quid sit inter processionem unius et processionem alterius."
+          }
+        },
+        {
+          "id": "c133",
+          "title": {
+            "la": "Caput VII. Quod alia sit germanitas quam habet ad unum, et alia quam habet innascibilis ad alium."
+          }
+        },
+        {
+          "id": "c134",
+          "title": {
+            "la": "Caput VIII. Quod ille qui a Patre Filioque procedit eorum filius recte dici non possit."
+          }
+        },
+        {
+          "id": "c135",
+          "title": {
+            "la": "Caput IX. Qua ratione Dei Spiritus dictus sit qui a Patre Filioque procedit."
+          }
+        },
+        {
+          "id": "c136",
+          "title": {
+            "la": "Caput X. Qua ratione procedens a duobus dictus est Spiritus sanctus."
+          }
+        },
+        {
+          "id": "c137",
+          "title": {
+            "la": "Caput XI. Qua ratione solus Dei Filius imago Patris sit dictus."
+          }
+        },
+        {
+          "id": "c138",
+          "title": {
+            "la": "Caput XII. Qua ratione solus Dei Filius Verbum sit dictus."
+          }
+        },
+        {
+          "id": "c139",
+          "title": {
+            "la": "Caput XIII. Secundum clarificandi modum non solus Filius clarificat Patrem suum, unde et non immerito ejus dicitur Verbum."
+          }
+        },
+        {
+          "id": "c140",
+          "title": {
+            "la": "Caput XIV. Cur Spiritus sanctus dicatur donum Dei, et unde, vel quomodo habeat mitti, vel dari."
+          }
+        },
+        {
+          "id": "c141",
+          "title": {
+            "la": "Caput XV. Quare speciali quodam dicendi modo potentia attribuitur ingenito, sapientia genito, bonitas Spiritui sancto."
+          }
+        },
+        {
+          "id": "c142",
+          "title": {
+            "la": "Caput XVI. Quare Pater dicatur ingenitus, Filius genitus, Spiritus sanctus nec ingenitus, nec genitus."
+          }
+        },
+        {
+          "id": "c143",
+          "title": {
+            "la": "Caput XVII. Quid sit Patrem gignere, quid sit Filium nasci de Patre, quid procedere ex generatione, quid procedere sine generatione."
+          }
+        },
+        {
+          "id": "c144",
+          "title": {
+            "la": "Caput XVIII. Item docetur alia ratione, quid sit Patri Filium generare."
+          }
+        },
+        {
+          "id": "c145",
+          "title": {
+            "la": "Caput XIX. Quod Spiritus sanctus non sit imago unigeniti, sed nec debeat ejus Filius dici."
+          }
+        },
+        {
+          "id": "c146",
+          "title": {
+            "la": "Caput XX. Quod ibi sit quaerenda imago paterna ubi est mutua congruentia non sine aliqua differentia, nec differentia sine mutua congruentia."
+          }
+        },
+        {
+          "id": "c147",
+          "title": {
+            "la": "Caput XXI. Qua ratione Dei Unigenitus dicitur figura substantiae ipsius."
+          }
+        },
+        {
+          "id": "c148",
+          "title": {
+            "la": "Caput XXII. Quod ea quae de ingenita et genita substantia, secundum catholicam fidem a sanctis Patribus accepimus, credere debeamus, quamvis quam vera sint interim per intelligentiam capere nequeamus."
+          }
+        },
+        {
+          "id": "c149",
+          "title": {
+            "la": "Caput XXIII. Qua ratione convinci possit, quod de ingenita substantia, et genita catholica fides tradit."
+          }
+        },
+        {
+          "id": "c150",
+          "title": {
+            "la": "Caput XXIV. Ex qua consideratione possumus colligere, quod geminatio personae possit esse sine geminatione substantiae."
+          }
+        },
+        {
+          "id": "c151",
+          "title": {
+            "la": "Caput XXV. Ex qua consideratione et quasi per exemplum confirmatur, quod de Trinitate et unitate a catholicis creditur."
+          }
+        }
+      ]
+    }
+  ]
+}
