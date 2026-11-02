@@ -1,0 +1,132 @@
+{
+  "id": "olier-introduction-vie-et-vertus",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Introduction à la vie et aux vertus chrétiennes",
+    "en-US": "Introduction to the Christian Life and Virtues",
+    "pt-BR": "Introdução à vida e às virtudes cristãs"
+  },
+  "author": {
+    "fr-FR": "Jean-Jacques Olier",
+    "en-US": "Jean-Jacques Olier",
+    "pt-BR": "Jean-Jacques Olier"
+  },
+  "description": {
+    "fr-FR": "Quinze chapitres sur la religion de Jésus-Christ et la vie chrétienne, puis sur les vertus : humilité, pénitence, mortification, patience, douceur, pauvreté, chasteté, obéissance, charité.",
+    "en-US": "Fifteen chapters on the religion of Jesus Christ and the Christian life, then on the virtues: humility, penance, mortification, patience, meekness, poverty, chastity, obedience, charity.",
+    "pt-BR": "Quinze capítulos sobre a religião de Jesus Cristo e a vida cristã, depois sobre as virtudes: humildade, penitência, mortificação, paciência, mansidão, pobreza, castidade, obediência, caridade."
+  },
+  "composed": 1657,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "olier/introduction-vie-et-vertus",
+  "editions": {
+    "fr-FR": {
+      "editor": "Jacques-Paul Migne",
+      "year": 1856
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/uvrescompltesd00olie",
+      "edition": "Œuvres complètes de M. Olier, éd. Migne, Paris, 1856; archive.org OCR (ABBYY) of the Toronto copy.",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Olier died in 1657; the 1856 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapitre-01",
+      "title": {
+        "fr-FR": "Chapitre 1"
+      }
+    },
+    {
+      "id": "chapitre-02",
+      "title": {
+        "fr-FR": "Chapitre 2"
+      }
+    },
+    {
+      "id": "chapitre-03",
+      "title": {
+        "fr-FR": "Chapitre 3"
+      }
+    },
+    {
+      "id": "chapitre-04",
+      "title": {
+        "fr-FR": "Chapitre 4"
+      }
+    },
+    {
+      "id": "chapitre-05",
+      "title": {
+        "fr-FR": "Chapitre 5"
+      }
+    },
+    {
+      "id": "chapitre-06",
+      "title": {
+        "fr-FR": "Chapitre 6. De la superbe"
+      }
+    },
+    {
+      "id": "chapitre-07",
+      "title": {
+        "fr-FR": "Chapitre 7. De la vertu de pénitence"
+      }
+    },
+    {
+      "id": "chapitre-08",
+      "title": {
+        "fr-FR": "Chapitre 8. De la mortification"
+      }
+    },
+    {
+      "id": "chapitre-09",
+      "title": {
+        "fr-FR": "Chapitre 9. De la patience"
+      }
+    },
+    {
+      "id": "chapitre-10",
+      "title": {
+        "fr-FR": "Chapitre 10. De la douceur"
+      }
+    },
+    {
+      "id": "chapitre-11",
+      "title": {
+        "fr-FR": "Chapitre 11. De la pauvreté"
+      }
+    },
+    {
+      "id": "chapitre-12",
+      "title": {
+        "fr-FR": "Chapitre 12"
+      }
+    },
+    {
+      "id": "chapitre-13",
+      "title": {
+        "fr-FR": "Chapitre 13"
+      }
+    },
+    {
+      "id": "chapitre-14",
+      "title": {
+        "fr-FR": "Chapitre 14"
+      }
+    },
+    {
+      "id": "chapitre-15",
+      "title": {
+        "fr-FR": "Chapitre 15. Principe de la vie chrétienne"
+      }
+    }
+  ]
+}
