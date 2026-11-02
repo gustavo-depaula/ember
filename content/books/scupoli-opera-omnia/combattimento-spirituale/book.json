@@ -1,0 +1,517 @@
+{
+  "id": "scupoli-combattimento-spirituale",
+  "cover": "classic",
+  "name": {
+    "it": "Il combattimento spirituale",
+    "en-US": "The Spiritual Combat",
+    "pt-BR": "O combate espiritual"
+  },
+  "author": {
+    "it": "Lorenzo Scupoli, C.R.",
+    "en-US": "Lorenzo Scupoli, C.R.",
+    "pt-BR": "Lorenzo Scupoli, C.R."
+  },
+  "description": {
+    "it": "Il manuale di vita spirituale del teatino Lorenzo Scupoli (c. 1530-1610), prediletto di san Francesco di Sales: la perfezione cristiana come guerra contro se stessi, in sessantasei capitoli. Diffidenza di sé e confidenza in Dio, esercizio dell’intelletto e della volontà, governo dei sensi e della lingua, gli inganni del Demonio, l’acquisto graduale delle virtù, l’orazione, la meditazione della Passione, la Comunione, l’esame di coscienza e i combattimenti dell’ultima ora. Testo della «quarta edizione riscontrata e corretta» (Napoli 1842), dalla scansione con OCR (rimangono errori di lettura residui); la fine del capo LXVI, mancante nel volume, è integrata dall’edizione veneta del 1770. Non comprende l’Aggiunta e gli altri opuscoli.",
+    "en-US": "The spiritual handbook of the Theatine Lorenzo Scupoli (c. 1530-1610), the favorite book of St. Francis de Sales: Christian perfection as a war against oneself, in sixty-six chapters. Distrust of self and trust in God, the exercise of intellect and will, the governing of the senses and the tongue, the devil's snares, the gradual acquisition of the virtues, prayer, meditation on the Passion, Communion, the examination of conscience, and the combats of the last hour. The Italian is the Naples 1842 'fourth edition, collated and corrected', from an OCR scan (some residual reading errors remain), with the end of chapter 66, missing from that volume, completed from the Venice 1770 edition. The English is the anonymous 1875 Rivingtons 'new translation', which follows the Italian chapter for chapter. The Supplement and the other opuscules are not included.",
+    "pt-BR": "O manual de vida espiritual do teatino Lorenzo Scupoli (c. 1530-1610), livro predileto de são Francisco de Sales: a perfeição cristã como guerra contra si mesmo, em sessenta e seis capítulos. Desconfiança de si e confiança em Deus, exercício da inteligência e da vontade, governo dos sentidos e da língua, as ciladas do demônio, a aquisição gradual das virtudes, a oração, a meditação da Paixão, a Comunhão, o exame de consciência e os combates da última hora."
+  },
+  "composed": "1589-1610",
+  "languages": [
+    "it",
+    "en-US"
+  ],
+  "work": "scupoli/combattimento-spirituale",
+  "editions": {
+    "it": {
+      "editor": "Quarta edizione riscontrata e corretta (Napoli: Gabinetto Letterario)",
+      "year": 1842
+    },
+    "en-US": {
+      "translator": "Anonymous ('A New Translation', Library of Spiritual Works for English Catholics, London: Rivingtons)",
+      "year": 1875
+    }
+  },
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://archive.org/details/CombattimentoSpiritualeV1",
+      "edition": "Combattimento spirituale del Padre D. Lorenzo Scupoli, quarta edizione riscontrata e corretta, divisa in due parti, vol. 1, Napoli, 1842. Internet Archive scan, OCR text (Google Books digitisation).",
+      "description": "The 66 capi of the Combattimento. The dedication, Vita di Scupoli and licence are not imported. The OCR was cleaned by script (page furniture, line-end hyphens, drop caps, spacing, paragraph breaks from line length) and spell-corrected against the corpus's Italian vocabulary and against the Venice 1770 edition (https://archive.org/details/bub_gb_v6CR_PzdBAcC, same text, long-s OCR); about 3% of words (rough estimate) still carry OCR errors. Chapter titles whose OCR was unreadable were reconstructed by hand from the surviving fragments and the English; the last lines of capo LXVI (the volume breaks off mid-sentence) are completed from the 1770 edition with its long s resolved. The spelling is the 1842 edition's, not Scupoli's own.",
+      "tier": "A",
+      "tierEvidence": "Scupoli died in 1610; an 1842 printing is public domain everywhere."
+    },
+    {
+      "language": "en-US",
+      "url": "https://en.wikisource.org/wiki/The_Spiritual_Combat/The_Spiritual_Combat",
+      "edition": "The Spiritual Combat, a new translation, Library of Spiritual Works for English Catholics, London/Oxford/Cambridge: Rivingtons, 1875. English Wikisource transcription (proofread from scan index Spiritualcombat.djvu).",
+      "description": "The 66 chapters of the Combattimento, in the same chapters as the Italian. The Supplement and 'Interior Peace' on the neighbouring Wikisource pages are not imported. The series was Anglo-Catholic, but the Catholic content (Marian and sacramental chapters) is kept.",
+      "tier": "A",
+      "tierEvidence": "Published 1875 by an anonymous translator: public domain in the US (before 1931)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "it": "Capo I. In che consista la perfezione cristiana, che per acquistarla bisogna combattere: e di quattro cose necessarie per questa battaglia",
+        "en-US": "Chapter I. In what Christian Perfection consists; and that the attainment of it involves a struggle, and of four things necessary for this conflict"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "it": "Capo II. Della diffidenza di noi stessi",
+        "en-US": "Chapter II. Of Distrust of Ourselves"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "it": "Capo III. Della confidenza in Dio",
+        "en-US": "Chapter III. Of Trust in God"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "it": "Capo IV. Come si possa conoscere se l’uomo opera con la diffidenza di sé, e confidenza in Dio",
+        "en-US": "Chapter IV. How we may know whether we are acting with Self-Distrust and Trust in God"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "it": "Capo V. D’un errore di molti, da’ quali la pusillanimità è tenuta per virtù",
+        "en-US": "Chapter V. Of the mistake of many, who hold Timidity for a Virtue"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "it": "Capo VI. D’altri avvisi, perché acquistiamo la diffidenza di noi, e la confidenza in Dio",
+        "en-US": "Chapter VI. Further advice as to obtaining this Distrust of Self and Trust in God"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "it": "Capo VII. Dell’esercizio, e prima dell’intelletto, che dobbiamo tener guardato dall’ignoranza e dalla curiosità",
+        "en-US": "Chapter VII. Of Spiritual Exercise; and first of the Exercise of the Understanding, which must be preserved from Ignorance and Curiosity"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "it": "Capo VIII. Delle cagioni perché non si discernono le cose rettamente da noi, e del modo che si ha da tenere per conoscerle bene",
+        "en-US": "Chapter VIII. Of the Hindrances to a right Discernment of Things, and of the course which we should take in order to Judge truly concerning them"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "it": "Capo IX. D’un’altra cosa da cui si deve guardare l’intelletto, perché ben possa discernere",
+        "en-US": "Chapter IX. Of another Thing from which the Understanding must he preserved in order to exercise a Right Judgment"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "it": "Capo X. Dell’esercizio della volontà, e del fine, al quale hanno da indirizzarsi tutte le operazioni interiori ed esteriori",
+        "en-US": "Chapter X. Of the Exercise of the Will, and of the End to which all our Actions, both inward and outward, should be directed"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "it": "Capo XI. Di alcune considerazioni che inducono la volontà a volere in ogni cosa il piacimento di Dio",
+        "en-US": "Chapter XI. Of some Considerations which may induce the Will to seek in all things the Good Pleasure of God"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "it": "Capo XII. Di molte volontà che sono nell’uomo, e della guerra che hanno tra di loro",
+        "en-US": "Chapter XII. Of the many Wills which are in Man, and of the Warfare between them"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "it": "Capo XIII. Del modo di combattere contro i moti del senso, e degli atti che ha da fare la volontà per acquistare gli abiti della virtù",
+        "en-US": "Chapter XIII. Of the way to resist the Sensual Impulses, and of the Acts to be performed by the Will, in order to acquire habits of Virtue"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "it": "Capo XIV. Quello che si debba fare quando la volontà superiore pare vinta e soffocata in tutto dall’inferiore, e dai nemici",
+        "en-US": "Chapter XIV. What ought to be done when the higher Will seems to be wholly overcome and stifled by the lower Will, and by its Enemies.\""
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "it": "Capo XV. Di alcuni avvisi intorno al modo di combattere, e specialmente contro chi e con quali virtù deve farsi",
+        "en-US": "Chapter XV. Some Suggestions about the manner of Fighting; and especially against what Enemies, and with what Virtues, we should contend"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "it": "Capo XVI. In qual modo la mattina a buon’ora si debba mettere in campo il Soldato di Gesù Cristo",
+        "en-US": "Chapter XVI. In what way the Soldier of Christ should take the Field early in the Morning"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "it": "Capo XVII. Dell’ordine di combattere contra le nostre viziose passioni",
+        "en-US": "Chapter XVII. Of the Order to be observed in the Conflict with our Evil Passions"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "it": "Capo XVIII. Del modo di resistere a subiti moti delle passioni",
+        "en-US": "Chapter XVIII. Of the way to overcome Sudden Risings of the Passions"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "it": "Capo XIX. Del modo di combattere contra U vizio della carne",
+        "en-US": "Chapter XIX. How to resist the Lusts of the Flesh"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "it": "Capo XX. Del tnodo di combattere contra la negligenza",
+        "en-US": "Chapter XX. Of the Way to overcome Sloth"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "it": "Capo XXI. Del reggimento dei sensi esteriori, e come da quelli si possa passe alla contemplazione della Divinità",
+        "en-US": "Chapter XXI. Of the Guard of the Outward Senses, and how from these we may pass to the Contemplation of the Divinity"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "it": "Capo XXII. Come le stesse cose ci sono mezzo per regolare i nostri sensi, passando alla meditazione del Verbo Incarnato nei misteri della sua vita e passione",
+        "en-US": "Chapter XXII. How the same Things may offer us opportunities of regulating our Senses by passing on to Meditation on the Incarnate Word in the Mysteries of His Life and Passion"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "it": "Capo XXIII. Di altri modi per regolare i nostri sensi, secondo le diverse occasioni che ci si rappresentano",
+        "en-US": "Chapter XXIII. Of other ways of Governing our Senses according to the different occasions which happen"
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "it": "Capo XXIV. Del modo di regolare la lingua",
+        "en-US": "Chapter XXIV. How to Rule the Tongue"
+      }
+    },
+    {
+      "id": "c25",
+      "title": {
+        "it": "Capo XXV. Che per combattere bene contro i nemici, deve il soldato di Cristo fuggire ad ogni suo potere le perturbazioni, ed inquietudini del cuore",
+        "en-US": "Chapter XXV. That the Soldier of Christ, if he would be successful against his Enemies, must, as far as possible, lay aside all Agitation and Anxiety of Mind"
+      }
+    },
+    {
+      "id": "c26",
+      "title": {
+        "it": "Capo XXVI. Di quello che abbiamo a fare, quando siamo feriti",
+        "en-US": "Chapter XXVI. What we must do when we are Wounded"
+      }
+    },
+    {
+      "id": "c27",
+      "title": {
+        "it": "Capo XXVII. Dell’ordine, che tiene il Demonio di combattere, ed ingannare quelli che vogliono darsi alla virtù, e quelli, che già si trovano nella servitù del peccato",
+        "en-US": "Chapter XXVII. Of the Order which the Devil observes in his Assaults and Stratagems against those who give themselves to a Holy Life, and those who are already found in the Bondage of Sin"
+      }
+    },
+    {
+      "id": "c28",
+      "title": {
+        "it": "Capo XXVIII. Dell’arte, ed inganni, di che usa il Demonio con quelli che tiene nella servitù del peccato",
+        "en-US": "Chapter XXVIII. Of the Assaults and Devices which the Devil employs against those who are held in the Bondage of Sin"
+      }
+    },
+    {
+      "id": "c29",
+      "title": {
+        "it": "Capo XXIX. Dell’arte, ed inganni, con che tiene legati quelli, che conoscendo il loro male, vorrebbero liberarsi; e perché i nostri proponimenti non abbiano il loro effetto",
+        "en-US": "Chapter XXIX. Of the Wiles and Delusions by which the Devil Holds captive those who are conscious of their Misery, and desire to be free; and how it is our Resolutions are so often fruitless"
+      }
+    },
+    {
+      "id": "c30",
+      "title": {
+        "it": "Capo XXX. Dell’inganno di quelli, che si credono camminare alla perfezione",
+        "en-US": "Chapter XXX. Of the Delusion of those who imagine that they are going on to Perfection"
+      }
+    },
+    {
+      "id": "c31",
+      "title": {
+        "it": "Capo XXXI. Dell’inganno, e malizia, che usa il Demonio, perché si lasci la via che conduce alla virtù",
+        "en-US": "Chapter XXXI. Of the Devil's Deceits and Struggles to draw us away from the Path of Perfection"
+      }
+    },
+    {
+      "id": "c32",
+      "title": {
+        "it": "Capo XXXII. Dell’ultimo assalto, ed inganno proposto di sopra, con cui tenta il Demonio, perché le virtù acquistate ci siano occasione di rovina",
+        "en-US": "Chapter XXXII. Of the last above-named Assault and Stratagem, whereby the Devil tries to make the Virtues we have acquired the Occasions of our Ruin"
+      }
+    },
+    {
+      "id": "c33",
+      "title": {
+        "it": "Capo XXXIII. Di alcuni avvertimenti per vincere le passioni viziose ed acquistare nuove virtù",
+        "en-US": "Chapter XXXIII. Of certain Suggestions for overcoming our Evil Passions, and gaining new Virtues"
+      }
+    },
+    {
+      "id": "c34",
+      "title": {
+        "it": "Capo XXXIV. Che le virtù si hanno ad acquistare a poco a poco, esercitando per li gradi loro, ed attendendo prima ad una, e poi all’altra",
+        "en-US": "Chapter XXXIV. That Virtues are to be gained by degrees, by Erercising ourselves in their gradual formation, and that our Attention must first be given to one step, and then to another"
+      }
+    },
+    {
+      "id": "c35",
+      "title": {
+        "it": "Capo XXXV. Dei mezzi coi quali si acguistano le virtù, e come ce ne dobbiamo servire per attendere ad una sola per qualche spazio di tempo",
+        "en-US": "Chapter XXXV. Of the Means by which Virtues are acquired, and of the Way we should Use them, allowing some space of Time to one Virtue only"
+      }
+    },
+    {
+      "id": "c36",
+      "title": {
+        "it": "Capo XXXVI. Che nell’esercizio delle virtù si ha da camminare con sollecitudine continua",
+        "en-US": "Chapter XXXVI. That in the Exercise of Virtue we must continually Advance with Diligence"
+      }
+    },
+    {
+      "id": "c37",
+      "title": {
+        "it": "Capo XXXVII. Che dovendosi sempre continuare nell’esercizio delle virtù, non si debbono fuggire le occasioni che per acquistarle ci si rappresentano",
+        "en-US": "Chapter XXXVII. That as we must always continue in the Exercise of the Virtues, so we must not shun any Opportunity which offers itself for their Attainment"
+      }
+    },
+    {
+      "id": "c38",
+      "title": {
+        "it": "Capo XXXVIII. Che si debbono aver care tutte le occasioni di combattere per l’acquisto delle virtù, e più quelle che portano più difficoltà",
+        "en-US": "Chapter XXXVIII. That we ought to regard as precious every Opportunity which is afforded to us for the Acquisition of Virtues; any chiefly those which present the greatest Difficulties"
+      }
+    },
+    {
+      "id": "c39",
+      "title": {
+        "it": "Capo XXXIX. Come di diverse occasioni possiamo valerci per esercizio d’una stessa virtù",
+        "en-US": "Chapter XXXIX. How to avail ourselves of the various Occasions which present themselves for the Exercise of a single Virtue"
+      }
+    },
+    {
+      "id": "c40",
+      "title": {
+        "it": "Capo XL. Del tempo, che si ha da porre nell’esercizio di ciascuna virtù, e dei segni del nostro profitto",
+        "en-US": "Chapter XL. Of the length of time to be given to the Exercise of each particular Virtue, and of the marks of Spiritual Advancement"
+      }
+    },
+    {
+      "id": "c41",
+      "title": {
+        "it": "Capo XLI. Che non dovremo lasciarci prendere da voglia di essere liberi da’travagli, che sosteniamo pazientemente; e del modo di regolare tutti i nostri desideri, acciò siano virtuosi",
+        "en-US": "Chapter XLI. That we must not yield to the wish to be rid of the Trials which we are bearing patiently; and how we should rule all our Desires so as to grow in Holiness"
+      }
+    },
+    {
+      "id": "c42",
+      "title": {
+        "it": "Capo XLII. Del modo di opporsi al Demonio, mentre cerca d’ingannarci con l’indiscrezione",
+        "en-US": "Chapter XLII. How to resist the Devil when he tries to ensnare us by an indiscreet Zeal"
+      }
+    },
+    {
+      "id": "c43",
+      "title": {
+        "it": "Capo XLIII. Quanto possa in noi la nostra naturale inclinazione e l’instigazione del Demonio per indurci a giudicare temerariamente il prossimo; e del modo di far loro resistenza",
+        "en-US": "Chapter XLIII. Of the Power of our Evil Inclinations, and of the Way the Devil tempts us to form rash Judgments of our Neighbour, and how to resist him"
+      }
+    },
+    {
+      "id": "c44",
+      "title": {
+        "it": "Capo XLIV. Dell’Orazione",
+        "en-US": "Chapter XLIV. Of Prayer"
+      }
+    },
+    {
+      "id": "c45",
+      "title": {
+        "it": "Capo XLV. Che cosa sia l’Orazione mentale",
+        "en-US": "Chapter XLV. What is Mental Prayer"
+      }
+    },
+    {
+      "id": "c46",
+      "title": {
+        "it": "Capo XLVI. Dell’Orazione per via di meditazione",
+        "en-US": "Chapter XLVI. Of Meditation"
+      }
+    },
+    {
+      "id": "c47",
+      "title": {
+        "it": "Capo XLVII. Di un altro modo di orare per via di meditazione",
+        "en-US": "Chapter XLVII. Of another Way of Praying by Way of Meditation"
+      }
+    },
+    {
+      "id": "c48",
+      "title": {
+        "it": "Capo XLVIII. Di un modo di orare col mezzo di Maria Vergine",
+        "en-US": "Chapter XLVIII. Of a Way of Praying by means of the Blessed Virgin Mary"
+      }
+    },
+    {
+      "id": "c49",
+      "title": {
+        "it": "Capo XLIX. Di alcune considerazioni, perché con fede e confidenza si ricorra a Maria Vergine",
+        "en-US": "Chapter XLIX. Of certain Considerations as to Faith and Confidence in the Prayers of the Virgin Mary"
+      }
+    },
+    {
+      "id": "c50",
+      "title": {
+        "it": "Capo L. Di un modo di meditare, ed orare per mezzo degli Angioli e di tutti i Beati",
+        "en-US": "Chapter L. Of a Way of Meditating and Praying by means of the Angels and all the Blessed"
+      }
+    },
+    {
+      "id": "c51",
+      "title": {
+        "it": "Capo LI. Della meditazione della Passione di Cristo",
+        "en-US": "Chapter LI. Of Meditation on the Passion of Christ, with a view to excite various Affections"
+      }
+    },
+    {
+      "id": "c52",
+      "title": {
+        "it": "Capo LII. Dei profitti che si possono trarre dalla meditazione del Crocifisso; e della imitazione delle sue virtù",
+        "en-US": "Chapter LII. Of the 'Advantages which may be derived from Meditation on the Crucifirion of our Lord, and of the Imitation of His Virtues"
+      }
+    },
+    {
+      "id": "c53",
+      "title": {
+        "it": "Capo LIII. Del Santissimo Sacramento dell’Eucaristia",
+        "en-US": "Chapter LIII. Of the most Holy Sacrament of the Eucharist"
+      }
+    },
+    {
+      "id": "c54",
+      "title": {
+        "it": "Capo LIV. Del modo di ricevere il Santissimo Sacramento dell’Eucaristia",
+        "en-US": "Chapter LIV. Of the Way we ought to Receive the most Holy Sacrament of the Eucharist"
+      }
+    },
+    {
+      "id": "c55",
+      "title": {
+        "it": "Capo LV. Che abbiamo a prepararci dia Comunione, a fine di eccitare in noi l’amore",
+        "en-US": "Chapter LV. How we ought to Prepare ourselves for Communion in order to excite within us Love"
+      }
+    },
+    {
+      "id": "c56",
+      "title": {
+        "it": "Capo LVI. Della Comunione Spirituale",
+        "en-US": "Chapter LVI. Of Spiritual Communion"
+      }
+    },
+    {
+      "id": "c57",
+      "title": {
+        "it": "Capo LVII. Del rendimento di grazie",
+        "en-US": "Chapter LVII. Of returning Thanks"
+      }
+    },
+    {
+      "id": "c58",
+      "title": {
+        "it": "Capo LVIII. Dell’Offerta",
+        "en-US": "Chapter LVIII. Of Oblation"
+      }
+    },
+    {
+      "id": "c59",
+      "title": {
+        "it": "Capo LIX. Della Divozione sensibile, e dell’aridità",
+        "en-US": "Chapter LIX. Of Sensible Devotion and of Dryness"
+      }
+    },
+    {
+      "id": "c60",
+      "title": {
+        "it": "Capo LX. Dell’Esame della Coscienza",
+        "en-US": "Chapter LX. Of the Examination of Conscience"
+      }
+    },
+    {
+      "id": "c61",
+      "title": {
+        "it": "Capo LXI. Come in questa battaglia fa bisogno continuare, combattendo sempre fino alla morte",
+        "en-US": "Chapter LXI. How in this Battle we have need of continuing the Struggle even unto Death"
+      }
+    },
+    {
+      "id": "c62",
+      "title": {
+        "it": "Capo LXII. Del modo di apparecchiarci contro i nemici che ci assalgono nel tempo della morte",
+        "en-US": "Chapter LXII. How to prepare ourselves against the Enemies who assault us when we are Dying"
+      }
+    },
+    {
+      "id": "c63",
+      "title": {
+        "it": "Capo LXIII. De’ quattro assalti de’ nostri nemici nel tempo della morte; e prima dell’assalto contro la Fede, e del modo di difendersi",
+        "en-US": "Chapter LXIII. Of Four Assaults of our Enemies at the time of Dying; and first of the Assault upon Faith, and of the Manner of defending ourselves"
+      }
+    },
+    {
+      "id": "c64",
+      "title": {
+        "it": "Capo LXIV. Dell’assalto della Disperazione, e del suo rimedio",
+        "en-US": "Chapter LXIV. Of the Assault of Despair, and of its Remedy"
+      }
+    },
+    {
+      "id": "c65",
+      "title": {
+        "it": "Capo LXV. Dell’assalto della Vanagloria",
+        "en-US": "Chapter LXV. Of the Assault of Vain-glory"
+      }
+    },
+    {
+      "id": "c66",
+      "title": {
+        "it": "Capo LXVI. Dell’assalto delle illusioni, e false apparenze nel punto della morte",
+        "en-US": "Chapter LXVI. Of the Assault of Illusions and False Appearances at the point of Death"
+      }
+    }
+  ]
+}
