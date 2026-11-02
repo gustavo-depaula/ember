@@ -28,7 +28,7 @@ The first wave (one or two works per author) is done. This queue imports each au
 - [x] Peter Lombard (rest: Psalms, Collectanea). Left: sermons (under Hildebert in PL 171), letters
 - [x] Bellarmine (44 books). Left: Exhortationes domesticae (Brussels 1899 OCR, own pass), Opera oratoria postuma, letters, Gibbons 1614 catechism; chapter splits lost in several books
 - [x] Thomas à Kempis (26 books). Left: Pohl I (De tribus tabernaculis, De vera compunctione, Sermones ad fratres, De fideli dispensatore, Soliloquium animae; Sommalius scans need fresh OCR), Van goeden woerden, Pohl VII (Dialogus noviciorum, lives), Scully's English Sermones ad novicios
-- [ ] Bridget of Sweden
+- [x] Bridget of Sweden (12 books). Left: collation with the SSFS critical Latin, English for Books VI, VIII and Extravagantes, Regula English
 - [ ] Gertrude · Mechtilde
 - [ ] Rhineland mystics (Ruusbroec, Suso, Tauler)
 - [ ] Augustine in Latin
