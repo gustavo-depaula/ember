@@ -1,0 +1,73 @@
+{
+  "id": "bede-super-epistolas-catholicas",
+  "cover": "classic",
+  "name": {
+    "la": "Super epistolas catholicas expositio",
+    "en-US": "On the Seven Catholic Epistles",
+    "pt-BR": "Sobre as Sete Epístolas Católicas"
+  },
+  "author": {
+    "la": "Beda Venerabilis",
+    "en-US": "St. Bede the Venerable",
+    "pt-BR": "São Beda, o Venerável"
+  },
+  "description": {
+    "la": "Super septem epistolas catholicas expositio.",
+    "en-US": "Bede's exposition of the seven Catholic Epistles (James, 1-2 Peter, 1-3 John, Jude). Latin text of Migne (PL 91-93); no public-domain English translation is known.",
+    "pt-BR": "A exposição de Beda às sete Epístolas Católicas (Tiago, 1-2 Pedro, 1-3 João, Judas)."
+  },
+  "composed": "c. 709-716",
+  "languages": [
+    "la"
+  ],
+  "work": "bede/super-epistolas-catholicas",
+  "editions": {
+    "la": {
+      "editor": "Migne, Patrologia Latina 91-93 (1862-1863), after Giles (1843-44)",
+      "year": 1862
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Scriptor:Beda_Venerabilis",
+      "edition": "Super epistolas Catholicas on Latin Wikisource, from the Corpus Corporum TEI of Migne's Patrologia Latina.",
+      "description": "Wikitext removed; inline PL column numbers dropped; one file per book (or per part), chapter divisions kept as headings with their rubrics.",
+      "tier": "A",
+      "tierEvidence": "Eighth-century text in Migne's reprint of Giles: public domain."
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  },
+  "toc": [
+    {
+      "id": "u01",
+      "title": {
+        "la": "Epistola Iacobi",
+        "en-US": "Epistle of James"
+      }
+    },
+    {
+      "id": "u02",
+      "title": {
+        "la": "Epistola I Petri",
+        "en-US": "First Epistle of Peter"
+      }
+    },
+    {
+      "id": "u03",
+      "title": {
+        "la": "Epistola II Petri",
+        "en-US": "Second Epistle of Peter"
+      }
+    },
+    {
+      "id": "u04",
+      "title": {
+        "la": "Epistolae Ioannis et epistola Iudae",
+        "en-US": "Epistles of John and Epistle of Jude"
+      }
+    }
+  ]
+}
