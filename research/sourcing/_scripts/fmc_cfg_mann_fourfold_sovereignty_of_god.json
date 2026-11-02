@@ -1,0 +1,60 @@
+{
+ "id": "manning-fourfold-sovereignty-of-god",
+ "dir": "manning-opera-omnia/fourfold-sovereignty-of-god",
+ "slug": "fourfold-sovereignty-of-god",
+ "work": "manning/fourfold-sovereignty-of-god",
+ "name": "The Fourfold Sovereignty of God",
+ "name_pt": "A Quadrupla Soberania de Deus",
+ "author": "Cardinal Henry Edward Manning",
+ "author_pt": "Cardeal Henry Edward Manning",
+ "died": 1892,
+ "desc": "The Fourfold Sovereignty of God (1871): six lectures on the sovereignty of God over the intellect and the will of man, over society, in the divine Head of the Church, in the Church derived from that Head, and over the course of the world.",
+ "desc_pt": "A Quadrupla Soberania de Deus (1871): seis confer\u00eancias sobre a soberania de Deus sobre a intelig\u00eancia e a vontade do homem, sobre a sociedade, na Cabe\u00e7a divina da Igreja, na Igreja que dela deriva e sobre o curso do mundo.",
+ "composed": 1871,
+ "editor": "Henry Edward Manning (London: Burns, Oates and Co., 1871)",
+ "year": 1871,
+ "url": "https://archive.org/details/a591666200mannuoft",
+ "edition": "The Fourfold Sovereignty of God (London: Burns, Oates and Co., 1871), Internet Archive full-text OCR.",
+ "srcnote": "The six lectures; the contents and the publisher's list of books are dropped.",
+ "src": "manning/ia/a591666200mannuoft_djvu.txt",
+ "start": 108,
+ "end": 5987,
+ "fn": true,
+ "back": [],
+ "front": [],
+ "label": {},
+ "romanheads": false,
+ "inline": [],
+ "units": [
+  {
+   "id": "lecture-1",
+   "title": "Lecture I. The Sovereignty of God over the Intellect of Man",
+   "from": 108
+  },
+  {
+   "id": "lecture-2",
+   "title": "Lecture II. The Sovereignty of God over the Will of Man",
+   "from": 987
+  },
+  {
+   "id": "lecture-3",
+   "title": "Lecture III. The Sovereignty of God over Society",
+   "from": 1838
+  },
+  {
+   "id": "lecture-4",
+   "title": "Lecture IV. The Sovereignty of the Divine Head of the Church",
+   "from": 2713
+  },
+  {
+   "id": "lecture-5",
+   "title": "Lecture V. The Sovereignty of the Church Derived from its Divine Head",
+   "from": 3426
+  },
+  {
+   "id": "lecture-6",
+   "title": "Lecture VI. The Sovereignty of God over the Course of the World",
+   "from": 4404
+  }
+ ]
+}

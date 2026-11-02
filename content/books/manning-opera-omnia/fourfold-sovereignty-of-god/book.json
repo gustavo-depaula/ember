@@ -1,0 +1,75 @@
+{
+  "id": "manning-fourfold-sovereignty-of-god",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Fourfold Sovereignty of God",
+    "pt-BR": "A Quadrupla Soberania de Deus"
+  },
+  "author": {
+    "en-US": "Cardinal Henry Edward Manning",
+    "pt-BR": "Cardeal Henry Edward Manning"
+  },
+  "description": {
+    "en-US": "The Fourfold Sovereignty of God (1871): six lectures on the sovereignty of God over the intellect and the will of man, over society, in the divine Head of the Church, in the Church derived from that Head, and over the course of the world.",
+    "pt-BR": "A Quadrupla Soberania de Deus (1871): seis conferências sobre a soberania de Deus sobre a inteligência e a vontade do homem, sobre a sociedade, na Cabeça divina da Igreja, na Igreja que dela deriva e sobre o curso do mundo."
+  },
+  "composed": 1871,
+  "languages": [
+    "en-US"
+  ],
+  "work": "manning/fourfold-sovereignty-of-god",
+  "editions": {
+    "en-US": {
+      "editor": "Henry Edward Manning (London: Burns, Oates and Co., 1871)",
+      "year": 1871
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/a591666200mannuoft",
+      "edition": "The Fourfold Sovereignty of God (London: Burns, Oates and Co., 1871), Internet Archive full-text OCR.",
+      "description": "The six lectures; the contents and the publisher's list of books are dropped. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Cardinal Henry Edward Manning died in 1892 and the edition is of 1871, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "lecture-1",
+      "title": {
+        "en-US": "Lecture I. The Sovereignty of God over the Intellect of Man"
+      }
+    },
+    {
+      "id": "lecture-2",
+      "title": {
+        "en-US": "Lecture II. The Sovereignty of God over the Will of Man"
+      }
+    },
+    {
+      "id": "lecture-3",
+      "title": {
+        "en-US": "Lecture III. The Sovereignty of God over Society"
+      }
+    },
+    {
+      "id": "lecture-4",
+      "title": {
+        "en-US": "Lecture IV. The Sovereignty of the Divine Head of the Church"
+      }
+    },
+    {
+      "id": "lecture-5",
+      "title": {
+        "en-US": "Lecture V. The Sovereignty of the Church Derived from its Divine Head"
+      }
+    },
+    {
+      "id": "lecture-6",
+      "title": {
+        "en-US": "Lecture VI. The Sovereignty of God over the Course of the World"
+      }
+    }
+  ]
+}
