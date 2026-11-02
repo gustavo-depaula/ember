@@ -1,0 +1,92 @@
+{
+  "id": "fenelon-jansenisme-cas-de-conscience",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Jansénisme I : Ordonnance et Instruction pastorale sur le Cas de conscience (1704)",
+    "en-US": "Jansenism I: Ordinance and Pastoral Instruction on the Case of Conscience (1704)",
+    "pt-BR": "Jansenismo I: Ordenança e Instrução pastoral sobre o Caso de consciência (1704)"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "La première des quatre Instructions pastorales de Fénelon contre le Cas de conscience (1702), consultation de quarante docteurs de Paris qui admettait le « silence respectueux » devant la condamnation de Jansénius : Fénelon condamne l’imprimé et établit l’autorité de l’Église sur les faits dogmatiques (Valenciennes, 1704).",
+    "en-US": "The first of Fénelon’s four Pastoral Instructions against the Case of Conscience (1702), a consultation of forty doctors of Paris admitting “respectful silence” before the condemnation of Jansenius: Fénelon condemns the pamphlet and establishes the Church’s authority over dogmatic facts (Valenciennes, 1704).",
+    "pt-BR": "A primeira das quatro Instruções pastorais de Fénelon contra o Caso de consciência (1702), consulta de quarenta doutores de Paris que admitia o «silêncio respeitoso» diante da condenação de Jansenius: Fénelon condena o impresso e estabelece a autoridade da Igreja sobre os fatos dogmáticos (Valenciennes, 1704)."
+  },
+  "composed": "1704",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/cas-de-conscience-1704",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte03fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 3, p. 573–fin; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-ordonnance-et-instruction-pastorale",
+      "title": {
+        "fr-FR": "Ordonnance et Instruction pastorale portant condamnation d’un imprimé intitulé Cas de conscience"
+      },
+      "children": [
+        {
+          "id": "01-ordonnance-et-instruction-pastorale-01",
+          "title": {
+            "fr-FR": "Ordonnance et Instruction pastorale portant condamnation d’un imprimé intitulé Cas de conscience, partie 1"
+          }
+        },
+        {
+          "id": "01-ordonnance-et-instruction-pastorale-02",
+          "title": {
+            "fr-FR": "Ordonnance et Instruction pastorale portant condamnation d’un imprimé intitulé Cas de conscience, partie 2"
+          }
+        },
+        {
+          "id": "01-ordonnance-et-instruction-pastorale-03",
+          "title": {
+            "fr-FR": "Ordonnance et Instruction pastorale portant condamnation d’un imprimé intitulé Cas de conscience, partie 3"
+          }
+        },
+        {
+          "id": "01-ordonnance-et-instruction-pastorale-04",
+          "title": {
+            "fr-FR": "Ordonnance et Instruction pastorale portant condamnation d’un imprimé intitulé Cas de conscience, partie 4"
+          }
+        },
+        {
+          "id": "01-ordonnance-et-instruction-pastorale-05",
+          "title": {
+            "fr-FR": "Ordonnance et Instruction pastorale portant condamnation d’un imprimé intitulé Cas de conscience, partie 5"
+          }
+        },
+        {
+          "id": "01-ordonnance-et-instruction-pastorale-06",
+          "title": {
+            "fr-FR": "Ordonnance et Instruction pastorale portant condamnation d’un imprimé intitulé Cas de conscience, partie 6"
+          }
+        },
+        {
+          "id": "01-ordonnance-et-instruction-pastorale-07",
+          "title": {
+            "fr-FR": "Ordonnance et Instruction pastorale portant condamnation d’un imprimé intitulé Cas de conscience, partie 7"
+          }
+        }
+      ]
+    }
+  ]
+}
