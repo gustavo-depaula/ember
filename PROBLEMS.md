@@ -161,3 +161,14 @@ These books have no English because the only public-domain translations are badl
 - `jane-de-chantal-opera-omnia/papiers` (fr-FR only, 12 chapters): Plon tome II pp. 1–69, OCR script-cleaned, not proofread. The two canticles have their verse lines run together; the volume's preface (pp. v–xxiii) is left out; the first heading of the *Questions et réponses* chapter keeps a stray OCR line.
 - Not imported for Jane de Chantal: the *Réponses … sur les Règles, Constitutions et Coutumier* (Annecy 1632/1665; archive `wotb_6744006`, 17th-century print with long-s OCR that needs a re-OCR or proofreading from the images); the English letters of `lettres-harrow-1918` are not mapped to the Plon letter numbers; Barthélemy's 1860 *Lettres inédites* and the Toronto OCR of the Plon letters were not used to correct the Ste-Geneviève OCR.
 - `jane-de-chantal-opera-omnia/lettres-spirit-1922` (en-US, 252 letters): Harrow 1922 OCR, script-cleaned, not proofread. Letter numbers follow Plon where the OCR kept them (a few headings have no readable number); the preface, the extracts on the Saint's temptations, the two appendices and the index are left out; footnotes are matched to markers only where the page-bottom number survived. The letters are a selection, so this book is separate from the French Plon volumes and from `lettres-harrow-1918`.
+
+### Vincent de Paul (opera omnia)
+
+Text is the JesusMarie.com digital edition of Coste (tomes I-XIII and the 1970 "tome XV"), parsed from its HTML (`research/sourcing/_scripts/vdp/`). French only; no usable English exists.
+
+- Letters whose heading the transcription lost or mangled (about 3% per tome, e.g. letters 20, 62, 90 of tome I) stay inside the preceding chapter; their text is not lost, but they have no chapter of their own.
+- Coste's footnotes are bound to their markers by number or letter per chapter; a few notes sit at the end of a chapter when the marker could not be matched, and some lettered notes of tomes IX-X ("2a", "2b") are merged into one footnote.
+- `correspondance-ii`, `-iii`, `-viii`: the last chapter also holds the unnumbered letters Coste prints at the end of the tome (letters to Vincent from other hands, e.g. Faure, 1644). `documents`: the last chapter ("Suppléments") holds the supplements and the later additions after document 202 as one block.
+- Chapter titles are title-cased from the capitals of the print (proper nouns and some small words may be off); OCR slips in headings were fixed only where seen.
+- The Common Rules of the Congregation (1658) are not a separate chapter: they appear only through the assembly documents of `documents` (part 2) and the conferences of `entretiens-missionnaires`. Tome XIV (index) is left out.
+- Not imported: Pémartin's 1880 selection and other pre-Coste editions (older readings; not needed as the Coste text is complete).
