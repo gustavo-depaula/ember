@@ -1,0 +1,436 @@
+{
+  "id": "therese-poesies",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Poésies",
+    "en-US": "Poems",
+    "pt-BR": "Poesias"
+  },
+  "author": {
+    "fr-FR": "Sainte Thérèse de l’Enfant-Jésus",
+    "en-US": "St. Thérèse of Lisieux",
+    "pt-BR": "Santa Teresinha do Menino Jesus"
+  },
+  "description": {
+    "fr-FR": "Les cinquante-quatre poésies de Thérèse (PN 1–54), écrites de 1893 à 1897 pour les fêtes de la communauté, pour ses sœurs et pour ses frères spirituels, de « Vivre d’Amour ! » à « Pourquoi je t’aime, ô Marie ! », suivies des huit poésies supplémentaires (PS 1–8). Texte authentique de l’édition du Centenaire, d’après les archives du Carmel de Lisieux.",
+    "en-US": "The fifty-four poems of Thérèse (PN 1–54), written between 1893 and 1897 for community feasts, for her sisters and for her spiritual brothers, from “Living on Love” to “Why I Love You, O Mary”, followed by the eight supplementary poems (PS 1–8). The authentic text of the Centenary edition, from the archives of the Carmel of Lisieux.",
+    "pt-BR": "Os cinquenta e quatro poemas de Teresinha (PN 1–54), escritos de 1893 a 1897 para as festas da comunidade, para as irmãs e para os irmãos espirituais, de «Viver de Amor!» a «Por que te amo, ó Maria!», seguidos dos oito poemas suplementares (PS 1–8). Texto autêntico da edição do Centenário."
+  },
+  "composed": "1893–1897",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "therese-of-lisieux/poesies",
+  "editions": {
+    "fr-FR": {
+      "editor": "Carmel de Lisieux (Nouvelle Édition du Centenaire)",
+      "year": 1992
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archives.carmeldelisieux.fr/type_archive/poesies/",
+      "edition": "Archives du Carmel de Lisieux, one page per poem (/archive/pn-1/ … /archive/pn-54/, /archive/ps1/ … /archive/ps8/), read through the site's WordPress REST API (wp-json/wp/v2/archive). The Nouvelle Édition du Centenaire text, with the strophe numbers and the refrains as on the site.",
+      "description": "Thérèse's text only. The editors' apparatus is left out: the \"Datation\" and \"Destinataire\" notes under each poem, the links to the facsimiles and to a theology thesis on PN 17, the \"Refr. N\" cross-references before the refrains, and the \"Synopse\" pages, which set the 1898 retouched versions beside the authentic ones. Strophe numbers are normalised to bold. The 1898 retouched versions are not included.",
+      "tier": "A",
+      "tierEvidence": "Thérèse died in 1897; the poems were first published in 1979 (Poésies, Cerf), so the 25-year right in posthumous works (CPI art. L123-4) ended in 2004. The site states no terms (its mentions légales page is empty, checked 2026-11-01); the editors' datings and notes are not taken."
+    }
+  ],
+  "toc": [
+    {
+      "id": "pn",
+      "title": {
+        "fr-FR": "Poésies (PN 1–54)"
+      },
+      "children": [
+        {
+          "id": "pn-1",
+          "title": {
+            "fr-FR": "PN 1. La Rosée Divine ou le Lait Virginal de Marie"
+          }
+        },
+        {
+          "id": "pn-2",
+          "title": {
+            "fr-FR": "PN 2. À Notre Maîtresse et Mère chérie pour fêter ses 60 ans"
+          }
+        },
+        {
+          "id": "pn-3",
+          "title": {
+            "fr-FR": "PN 3. Sainte Cécile"
+          }
+        },
+        {
+          "id": "pn-4",
+          "title": {
+            "fr-FR": "PN 4. Cantique pour obtenir la Canonisation de la Vénérable Jeanne d'Arc"
+          }
+        },
+        {
+          "id": "pn-5",
+          "title": {
+            "fr-FR": "PN 5. Mon chant d'aujourd'hui"
+          }
+        },
+        {
+          "id": "pn-6",
+          "title": {
+            "fr-FR": "PN 6. Le Portrait d'une Ame que j'Aime"
+          }
+        },
+        {
+          "id": "pn-7",
+          "title": {
+            "fr-FR": "PN 7. Chant de reconnaissance à Notre-Dame du Mont-Carmel"
+          }
+        },
+        {
+          "id": "pn-8",
+          "title": {
+            "fr-FR": "PN 8. Prière de l'Enfant d'un Saint"
+          }
+        },
+        {
+          "id": "pn-9",
+          "title": {
+            "fr-FR": "PN 9. Prière d'une enfant exilée"
+          }
+        },
+        {
+          "id": "pn-10",
+          "title": {
+            "fr-FR": "PN 10. Histoire d'une Bergère devenue Reine"
+          }
+        },
+        {
+          "id": "pn-11",
+          "title": {
+            "fr-FR": "PN 11. Pour la prise d'habit de Marie-Agnès de la Sainte Face"
+          }
+        },
+        {
+          "id": "pn-12",
+          "title": {
+            "fr-FR": "PN 12. C'est près de vous, Vierge Marie"
+          }
+        },
+        {
+          "id": "pn-13",
+          "title": {
+            "fr-FR": "PN 13. La Reine du Ciel à son enfant bien-aimée Marie de la Ste Face"
+          }
+        },
+        {
+          "id": "pn-14",
+          "title": {
+            "fr-FR": "PN 14. A Notre Père Saint Joseph"
+          }
+        },
+        {
+          "id": "pn-15",
+          "title": {
+            "fr-FR": "PN 15. L'atome du Sacré-Coeur"
+          }
+        },
+        {
+          "id": "pn-16",
+          "title": {
+            "fr-FR": "PN 16. Chant de reconnaissance de la Fiancée de Jésus"
+          }
+        },
+        {
+          "id": "pn-17",
+          "title": {
+            "fr-FR": "PN 17. Vivre d'amour !..."
+          }
+        },
+        {
+          "id": "pn-18",
+          "title": {
+            "fr-FR": "PN 18. Le Cantique de Céline"
+          }
+        },
+        {
+          "id": "pn-18bis",
+          "title": {
+            "fr-FR": "PN 18 bis. Qui a Jésus a Tout"
+          }
+        },
+        {
+          "id": "pn-19",
+          "title": {
+            "fr-FR": "PN 19. L'atome de Jésus-Hostie"
+          }
+        },
+        {
+          "id": "pn-20",
+          "title": {
+            "fr-FR": "PN 20. Mon Ciel ici-bas !..."
+          }
+        },
+        {
+          "id": "pn-21",
+          "title": {
+            "fr-FR": "PN 21. Cantique d'une âme ayant trouvé le lieu de son repos !..."
+          }
+        },
+        {
+          "id": "pn-22",
+          "title": {
+            "fr-FR": "PN 22. A ma Mère Chérie le Bel Ange de mon enfance"
+          }
+        },
+        {
+          "id": "pn-23",
+          "title": {
+            "fr-FR": "PN 23. Au Sacré-Coeur de Jésus"
+          }
+        },
+        {
+          "id": "pn-24",
+          "title": {
+            "fr-FR": "PN 24. Jésus, mon Bien-Aimé, rappelle-toi !..."
+          }
+        },
+        {
+          "id": "pn-25",
+          "title": {
+            "fr-FR": "PN 25. Mes Désirs auprès de Jésus caché dans sa Prison d'Amour"
+          }
+        },
+        {
+          "id": "pn-26",
+          "title": {
+            "fr-FR": "PN 26. Les Répons de Ste Agnès"
+          }
+        },
+        {
+          "id": "pn-27",
+          "title": {
+            "fr-FR": "PN 27. Souvenir du 24 Février 1896"
+          }
+        },
+        {
+          "id": "pn-28",
+          "title": {
+            "fr-FR": "PN 28. Le Cantique Éternel chanté dès l'exil"
+          }
+        },
+        {
+          "id": "pn-29",
+          "title": {
+            "fr-FR": "PN 29. « Qu'il nous est doux... »"
+          }
+        },
+        {
+          "id": "pn-30",
+          "title": {
+            "fr-FR": "PN 30. Glose sur le Divin"
+          }
+        },
+        {
+          "id": "pn-31",
+          "title": {
+            "fr-FR": "PN 31. Le Cantique de Soeur Marie de la Trinité et de la Ste Face"
+          }
+        },
+        {
+          "id": "pn-32",
+          "title": {
+            "fr-FR": "PN 32. Mon Ciel à Moi !..."
+          }
+        },
+        {
+          "id": "pn-33 ",
+          "title": {
+            "fr-FR": "PN 33 . Ce que je verrai bientôt pour la Première fois !..."
+          }
+        },
+        {
+          "id": "pn-34",
+          "title": {
+            "fr-FR": "PN 34. Jeter des fleurs"
+          }
+        },
+        {
+          "id": "pn-35",
+          "title": {
+            "fr-FR": "PN 35. À Notre Dame des Victoires Reine des Vierges, des Apôtres et des Martyrs"
+          }
+        },
+        {
+          "id": "pn-36",
+          "title": {
+            "fr-FR": "PN 36. Jésus seul"
+          }
+        },
+        {
+          "id": "pn-37",
+          "title": {
+            "fr-FR": "PN 37. C'est un triste bouquet de fête"
+          }
+        },
+        {
+          "id": "pn-38",
+          "title": {
+            "fr-FR": "PN 38. Confidence de Jésus à Thérèse"
+          }
+        },
+        {
+          "id": "pn-39",
+          "title": {
+            "fr-FR": "PN 39. Un Docteur Saint et Célèbre"
+          }
+        },
+        {
+          "id": "pn-40",
+          "title": {
+            "fr-FR": "PN 40. Les Sacristines du Carmel"
+          }
+        },
+        {
+          "id": "pn-41",
+          "title": {
+            "fr-FR": "PN 41. Comment je veux aimer"
+          }
+        },
+        {
+          "id": "pn-42",
+          "title": {
+            "fr-FR": "PN 42. Enfant, tu connais mon nom"
+          }
+        },
+        {
+          "id": "pn-43",
+          "title": {
+            "fr-FR": "PN 43. La Volière de l'Enfant Jésus"
+          }
+        },
+        {
+          "id": "pn-44",
+          "title": {
+            "fr-FR": "PN 44. A mes Petits Frères du Ciel"
+          }
+        },
+        {
+          "id": "pn-45",
+          "title": {
+            "fr-FR": "PN 45. Ma joie !"
+          }
+        },
+        {
+          "id": "pn-46",
+          "title": {
+            "fr-FR": "PN 46. A mon ange gardien"
+          }
+        },
+        {
+          "id": "pn-47",
+          "title": {
+            "fr-FR": "PN 47. A Théophane Vénard"
+          }
+        },
+        {
+          "id": "pn-48",
+          "title": {
+            "fr-FR": "PN 48. Mes Armes"
+          }
+        },
+        {
+          "id": "pn-49",
+          "title": {
+            "fr-FR": "PN 49. A Notre Dame du Perpétuel Secours"
+          }
+        },
+        {
+          "id": "pn-50",
+          "title": {
+            "fr-FR": "PN 50. A Jeanne d'Arc"
+          }
+        },
+        {
+          "id": "pn-51",
+          "title": {
+            "fr-FR": "PN 51. Une rose effeuillée"
+          }
+        },
+        {
+          "id": "pn-52",
+          "title": {
+            "fr-FR": "PN 52. L'abandon est le fruit délicieux de l'amour"
+          }
+        },
+        {
+          "id": "pn-53",
+          "title": {
+            "fr-FR": "PN 53. Pour Sr Marie de la Trinité"
+          }
+        },
+        {
+          "id": "pn-54",
+          "title": {
+            "fr-FR": "PN 54. Pourquoi je t'aime, ô Marie !"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps",
+      "title": {
+        "fr-FR": "Poésies supplémentaires (PS 1–8)"
+      },
+      "children": [
+        {
+          "id": "ps-1",
+          "title": {
+            "fr-FR": "PS 1. O Dieu caché"
+          }
+        },
+        {
+          "id": "ps-2",
+          "title": {
+            "fr-FR": "PS 2. En Orient"
+          }
+        },
+        {
+          "id": "ps-3",
+          "title": {
+            "fr-FR": "PS 3. Depuis cinquante ans"
+          }
+        },
+        {
+          "id": "ps-4",
+          "title": {
+            "fr-FR": "PS 4. Le Ciel en est le prix"
+          }
+        },
+        {
+          "id": "ps-5",
+          "title": {
+            "fr-FR": "PS 5. Pour une Sainte-Marthe"
+          }
+        },
+        {
+          "id": "ps-6",
+          "title": {
+            "fr-FR": "PS 6. Moi aussi, Mère bien-aimée"
+          }
+        },
+        {
+          "id": "ps-7",
+          "title": {
+            "fr-FR": "PS 7. Le silence est le doux langage"
+          }
+        },
+        {
+          "id": "ps-8",
+          "title": {
+            "fr-FR": "PS 8. Toi qui connais ma petitesse extrême"
+          }
+        }
+      ]
+    }
+  ]
+}
