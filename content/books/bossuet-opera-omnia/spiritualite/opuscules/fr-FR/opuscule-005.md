@@ -1,0 +1,28 @@
+# Sur la prière
+
+Prier Dieu véritablement, c'est lui exposer avec humilité nos misères, et lui demander d'en avoir compassion selon la grandeur de sa miséricorde et des mérites de Jésus-Christ. « Demandez, et vous recevrez ; frappez, et on vous ouvrira ; cherchez, et vous trouverez[^1]. » Ce sont trois degrés et comme trois instances qu'il faut faire persévéramment, et coup sur coup. Mais que faut-il demander à Dieu? Saint Jacques nous le dit : « Si quelqu'un manque de sagesse, qu'il la demande à Dieu, qui donne abondamment dominent à tous sans jamais reprocher ses bienfaits[^2]. » Mais il faut demander la sagesse d'en haut avec confiance et sans hésiter dans son cœur. C'est ce que Notre-Seigneur nous apprend lui-même : « En vérité, en vérité, je vous le dis, que si vous aviez de la foi et que vous n'hésitiez pas, vous obtiendriez tout, jusqu'à précipiter les montagnes dans la mer; et je vous le dis encore un coup, tout ce que vous demanderez dans votre prière, croyez que vous le recevrez et il vous arrivera[^3]. »
+
+Regardons donc où nous en sommes par nos péchés, et demandons à Dieu notre conversion avec foi, et ne disons pas qu'il est impossible : car quand nos péchés seraient d'un poids aussi accablant qu'une montagne, prions et il cédera à la prière; croyons que nous obtiendrons ce que nous demandons. Jésus-Christ se sert exprès de cette comparaison familière, pour nous montrer que tout est possible à celui qui prie et à celui qui croit. Animons donc notre courage, ô chrétiens, et jamais ne désespérons de notre salut.
+
+Apprenons maintenant ce que c'est que de frapper, et qu'il faut persévérer à frapper jusqu'à nous rendre importuns si cela se pouvait : car il y a une manière de forcer Dieu, et de lui arracher pour ainsi dire ses grâces ; et cette manière, c'est de demander et de crier sans relâche à son secours avec une ferme foi et une humble et haute confiance. D'où il faut conclure avec l'Evangile: «Demandez, et on vous donnera; cherchez, et vous trouverez ; frappez, et on vous ouvrira. » Ce que Jésus répète encore une fois en disant : « Car quiconque demande, reçoit ; quiconque cherche, trouve; et on ouvre à celui qui frappe.»
+
+Il faut donc prier pendant le jour, prier pendant la nuit autant de fois qu'on s'éveille; et quoique Dieu semble ne pas écouter ou même nous rebuter, frappons toujours, attendons tout de Dieu, et cependant agissons aussi : car il ne faut pas seulement demander comme si Dieu devait tout faire tout seul, mais encore chercher de notre côté et faire agir notre volonté avec la grâce ; car tout se fait par ce concours : mais il ne faut jamais oublier que c'est toujours Dieu qui nous prévient, et c'est là le fondement de l'humilité.
+
+Jésus-Christ dit encore « qu'il faut toujours prier, et ne cesser jamais[^4]. » Cette prière perpétuelle ne consiste pas dans une continuelle contention d'esprit, qui ne ferait qu'épuiser les forces, et dont on ne viendrait peut-être pas à bout. Cet le prière perpétuelle se fait lorsque, ayant prié aux heures réglées, on recueille de sa prière ou de sa lecture quelques vérités que l'on conserve dans son cœur et que l'on rappelle sans effort, en se tenant le plus qu'on peut dans l'état d'une humble dépendance envers Dieu, en lui exposant ses besoins, c'est-à-dire les lui remettant devant les yeux sans rien dire. Alors comme la terre entr'ouverte et desséchée semble demander la pluie, seulement en exposant au ciel sa sécheresse; ainsi l’âme, en exposant ses besoins à Dieu, le prie véritablement. C'est ce que dit David : « Mon âme, Seigneur, est devant vous comme une terre desséchée et sans eau[^5]. » Ah ! Seigneur, je n'ai pas besoin de vous prier; mon besoin vous prie, ma nécessité vous prie, toutes mes misères et toutes mes foi blesses vous prient : tant que cette disposition dure, on prie sans prier; tant qu'on demeure attentif à éviter ce qui met en danger de déplaire à Dieu et qu'on tâche de faire en tout sa volonté, on prie, et Dieu entend ce langage.
+
+O Seigneur, devant qui je suis et à qui ma misère paraît tout entière, ayez-en pitié ; et toutes les fois qu'elle paraîtra à vos yeux, ô Dieu infiniment bon, qu'elle sollicite pour moi vos miséricordes. Voilà une manière de prier toujours, et peut-être la meilleure.
+
+Apprenons encore à demander par Jésus-Christ, par Jésus-Christ, c'est demander sa gloire, c'est interposer le sacré nom du Sauveur, c'est mettre sa confiance en ses bontés et aux mérites infinis de son sang. Ce qu'on demande par le Sauveur doit être principalement le salut, le reste est comme l'accessoire; on est assuré d'obtenir quand on demande en un tel nom, auquel le Père ne peut rien refuser. Si donc on n'obtient pas, c'est qu'on demande mal, ou qu'on ne demande pas ce qu'il faut demander. Demander mal, c'est demander sans foi : si vous demandez avec foi et persévérance, vous l'obtiendrez : demandons notre conversion, et nous l'obtiendrons.
+
+Le fruit de la doctrine de Jésus-Christ sur la prière, doit être de s'v rendre fidèle aux heures qu'on y a consacrées. Fût-on distrait au dedans, si on gémit de l'être, si on souhaite seulement de ne l'être pas et qu'on demeure humble et recueilli au dehors, l'obéissance qu'on rend à Dieu et à l'Eglise, à la règle de son état, l'attention à observer les cérémonies et tout ce qui est de l'extérieur, de la piété, prononçant bien les paroles, etc., on prie alors par état et par disposition, par volonté, mais surtout si on s'humilie de ses sécheresses, de ses distractions. O que la prière est agréable à Dieu, quand elle mortifie le corps et l’âme ! Qu'elle obtient de grâces et qu'elle expie de péchés !
+
+
+[^1]: *Matth.*, VII, 7, 8.
+
+[^2]: *Jacob*., I, 5.
+
+[^3]: *Matth.*, XXI, 21, 22.
+
+[^4]: *Luc.,* XVIII, 1.
+
+[^5]: *Psal*. CXLII, 6.

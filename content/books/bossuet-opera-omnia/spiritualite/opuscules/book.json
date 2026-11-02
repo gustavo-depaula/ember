@@ -1,0 +1,210 @@
+{
+  "id": "bossuet-opuscules-spirituels",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Opuscules spirituels",
+    "en-US": "Spiritual Opuscula",
+    "pt-BR": "Opúsculos espirituais"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Les petits écrits spirituels de Bossuet : Discours sur la vie cachée en Dieu, questions et réponses aux Visitandines de Meaux, méthodes d’oraison en foi et en simplicité, exercice de la sainte messe, préparation à la communion, retraite de dix jours, discours sur la mort, actes d’abandon. Édition Lachat (1863).",
+    "en-US": "Bossuet’s shorter spiritual writings: the Discourse on the Life Hidden in God, questions and answers for the Visitandines of Meaux, methods of prayer in faith and simplicity, the exercise of the Holy Mass, preparation for communion, a ten-day retreat, a discourse on death, acts of abandonment. Lachat edition (1863).",
+    "pt-BR": "Os pequenos escritos espirituais de Bossuet: Discurso sobre a vida escondida em Deus, perguntas e respostas às Visitandinas de Meaux, métodos de oração na fé e na simplicidade, exercício da santa missa, preparação para a comunhão, retiro de dez dias, discurso sobre a morte, atos de abandono. Edição Lachat (1863)."
+  },
+  "composed": "1690–1703",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/opuscules",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1863
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume007/028.htm, 030.htm-032.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume VII, pages 028 and 030-032. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "opuscule-001",
+      "title": {
+        "fr-FR": "Discours sur la vie cachée en Dieu"
+      }
+    },
+    {
+      "id": "opuscule-002",
+      "title": {
+        "fr-FR": "Questions et réponses"
+      }
+    },
+    {
+      "id": "opuscule-003",
+      "title": {
+        "fr-FR": "Sur les visites du Seigneur, l'attention à lui plaire, l'efficace de la parole de Dieu"
+      }
+    },
+    {
+      "id": "opuscule-004",
+      "title": {
+        "fr-FR": "Réflexions sur quelques paroles de Jésus-Christ"
+      }
+    },
+    {
+      "id": "opuscule-005",
+      "title": {
+        "fr-FR": "Sur la prière"
+      }
+    },
+    {
+      "id": "opuscule-006",
+      "title": {
+        "fr-FR": "Sur la prière au nom de Jésus-Christ"
+      }
+    },
+    {
+      "id": "opuscule-007",
+      "title": {
+        "fr-FR": "De la meilleure manière de faire l'oraison"
+      }
+    },
+    {
+      "id": "opuscule-008",
+      "title": {
+        "fr-FR": "Sur la retraite en silence, en simplicité et avec abandon"
+      }
+    },
+    {
+      "id": "opuscule-009",
+      "title": {
+        "fr-FR": "Méthode pour passer la journée dans l'oraison, en Esprit de foi et de simplicite devant Dieu"
+      }
+    },
+    {
+      "id": "opuscule-010",
+      "title": {
+        "fr-FR": "Exercice journalier pour faire en Esprit de foi toutes ses actions, pendant le noviciat"
+      }
+    },
+    {
+      "id": "opuscule-011",
+      "title": {
+        "fr-FR": "Exercice de la Sainte Messe"
+      }
+    },
+    {
+      "id": "opuscule-012",
+      "title": {
+        "fr-FR": "Prières pour se préparer à la Sainte Communion"
+      }
+    },
+    {
+      "id": "opuscule-013",
+      "title": {
+        "fr-FR": "Discours sur L'acte d'abandon à Dieu. Ses caractères, ses conditions et ses effets"
+      }
+    },
+    {
+      "id": "opuscule-014",
+      "title": {
+        "fr-FR": "Sur le parfait abandon"
+      }
+    },
+    {
+      "id": "opuscule-015",
+      "title": {
+        "fr-FR": "Sur l'attente de la grace et l'union avec le bien-aimé"
+      }
+    },
+    {
+      "id": "opuscule-016",
+      "title": {
+        "fr-FR": "Rénovation de l'entrée dans la Sainte religion"
+      }
+    },
+    {
+      "id": "opuscule-017",
+      "title": {
+        "fr-FR": "Du prophète Isaïe"
+      }
+    },
+    {
+      "id": "opuscule-018",
+      "title": {
+        "fr-FR": "Élévation pour le renouvellement des vœux, le jour de la toussaint"
+      }
+    },
+    {
+      "id": "opuscule-019",
+      "title": {
+        "fr-FR": "Retraite de dix jours sur la pénitence"
+      }
+    },
+    {
+      "id": "opuscule-020",
+      "title": {
+        "fr-FR": "Retraite de dix jours sur les jugements téméraires et autres sujets"
+      }
+    },
+    {
+      "id": "opuscule-021",
+      "title": {
+        "fr-FR": "Réflexions sur le triste état des pécheurs et les ressources qu'ils ont dans la miséricorde de Dieu"
+      }
+    },
+    {
+      "id": "opuscule-022",
+      "title": {
+        "fr-FR": "Discours aux filles de la Visitation, sur la mort"
+      }
+    },
+    {
+      "id": "opuscule-023",
+      "title": {
+        "fr-FR": "Sentiments du chrétien touchant la vie et la mort"
+      }
+    },
+    {
+      "id": "opuscule-024",
+      "title": {
+        "fr-FR": "Réflexions sur l'agonie de Jésus-Christ"
+      }
+    },
+    {
+      "id": "opuscule-025",
+      "title": {
+        "fr-FR": "Prière pour unir nos souffrances à celles de Jésus-Christ"
+      }
+    },
+    {
+      "id": "opuscule-026",
+      "title": {
+        "fr-FR": "Préparation à la mort"
+      }
+    },
+    {
+      "id": "opuscule-027",
+      "title": {
+        "fr-FR": "Courtes prières que l’on peut faire réitérer souvent à un malade, aux approches de la mort"
+      }
+    },
+    {
+      "id": "opuscule-028",
+      "title": {
+        "fr-FR": "Exercice pour se disposer à bien mourir"
+      }
+    }
+  ]
+}
