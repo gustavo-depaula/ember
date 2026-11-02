@@ -1,0 +1,114 @@
+{
+  "id": "kempis-libellus-spiritualis-exercitii",
+  "cover": "classic",
+  "name": {
+    "la": "Libellus spiritualis exercitii",
+    "en-US": "The Booklet of Spiritual Exercise",
+    "pt-BR": "O livrinho do exercício espiritual"
+  },
+  "author": {
+    "la": "Thomas a Kempis",
+    "en-US": "Thomas à Kempis",
+    "pt-BR": "Tomás de Kempis"
+  },
+  "description": {
+    "la": "Libellus spiritualis exercitii: de fervida exhortatione ad virtutes, de elevatione et directione mentis ad Deum, et de exercitiis cotidianis.",
+    "en-US": "Twelve chapters on the daily spiritual exercise of the religious: fervour in the virtues, lifting and directing the mind to God, examination, prayer and the preparation for death. Latin only: Pohl's critical edition (Freiburg 1904), from a raw OCR of the printed volume; no public-domain English translation has been found.",
+    "pt-BR": "Doze capítulos sobre o exercício espiritual cotidiano do religioso: fervor nas virtudes, elevação da mente a Deus, exame, oração e preparação para a morte."
+  },
+  "composed": "c. 1425-1440",
+  "languages": [
+    "la"
+  ],
+  "work": "thomas-a-kempis/libellus-spiritualis-exercitii",
+  "editions": {
+    "la": {
+      "editor": "Michael Joseph Pohl",
+      "year": 1904
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomniaimitat0000thom",
+      "edition": "Thomae Hemerken a Kempis Libellus spiritualis exercitii, ed. M. J. Pohl (Freiburg: Herder 1904), Opera omnia II; archive.org raw OCR.",
+      "description": "Pohl's text without his critical apparatus and introduction; line numbers, running heads and page breaks stripped by script, upper-case chapter titles recased (u/v normalised by script). Raw OCR: drop capitals at openings are often garbled and some slips remain after the scripted lexicon repair.",
+      "tier": "A",
+      "tierEvidence": "Pohl 1904; Thomas died in 1471."
+    }
+  ],
+  "toc": [
+    {
+      "id": "p1-01",
+      "title": {
+        "la": "1. De fervida exhortatione ad virtutes"
+      }
+    },
+    {
+      "id": "p1-02",
+      "title": {
+        "la": "2. De firmo proposito servando per diem"
+      }
+    },
+    {
+      "id": "p1-03",
+      "title": {
+        "la": "3. De elevatione et directione cordis ad deum"
+      }
+    },
+    {
+      "id": "p1-04",
+      "title": {
+        "la": "4. De custodia cellae et sensuum exteriorum"
+      }
+    },
+    {
+      "id": "p1-05",
+      "title": {
+        "la": "5. De hora surgendi et officio divino"
+      }
+    },
+    {
+      "id": "p1-06",
+      "title": {
+        "la": "6. De refectorio et cibis sumendis"
+      }
+    },
+    {
+      "id": "p1-07",
+      "title": {
+        "la": "7. De fabulis et otio vitandis"
+      }
+    },
+    {
+      "id": "p1-08",
+      "title": {
+        "la": "8. De beneplacito Dei et confidentia in aduersis habenda"
+      }
+    },
+    {
+      "id": "p1-09",
+      "title": {
+        "la": "9. De examinatione conscientiae completorio finito"
+      }
+    },
+    {
+      "id": "p1-10",
+      "title": {
+        "la": "10. De scrutinio conscientiae in speciali"
+      }
+    },
+    {
+      "id": "p1-11",
+      "title": {
+        "la": "11. De hora dormitionis et nocturnae quietis"
+      }
+    },
+    {
+      "id": "p1-12",
+      "title": {
+        "la": "12. De virtute sanctae oboedientiae"
+      }
+    }
+  ]
+}
