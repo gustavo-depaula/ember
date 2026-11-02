@@ -1,0 +1,63 @@
+{
+  "id": "chesterton-trees-of-pride",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Trees of Pride",
+    "pt-BR": "As Árvores do Orgulho"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "A Cornish squire, a poet and a doctor discover the old legend of the peacock trees, man-eating, say the villagers, and a wager over a house in Cornwall leads to a mystery about pride, pleasure and the cost of defying nature. A short fantastic tale in four chapters.",
+    "pt-BR": "Um fidalgo da Cornualha, um poeta e um médico descobrem a antiga lenda das árvores-pavão, devoradoras de homens, dizem os aldeões, e uma aposta sobre uma casa na Cornualha leva a um mistério sobre o orgulho, o prazer e o preço de desafiar a natureza. Um breve conto fantástico em quatro capítulos."
+  },
+  "composed": "1922",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/trees-of-pride",
+  "editions": {
+    "en-US": {
+      "editor": "Cassell and Company",
+      "year": 1922
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/1721",
+      "edition": "The Trees of Pride (Cassell and Company, 1922), Project Gutenberg #1721.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1922 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-tale-of-the-peacock-trees",
+      "title": {
+        "en-US": "The Tale of the Peacock Trees"
+      }
+    },
+    {
+      "id": "ch02-the-wager-of-squire-vane",
+      "title": {
+        "en-US": "The Wager of Squire Vane"
+      }
+    },
+    {
+      "id": "ch03-the-mystery-of-the-well",
+      "title": {
+        "en-US": "The Mystery of the Well"
+      }
+    },
+    {
+      "id": "ch04-the-chase-after-the-truth",
+      "title": {
+        "en-US": "The Chase After the Truth"
+      }
+    }
+  ]
+}
