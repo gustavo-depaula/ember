@@ -2,9 +2,9 @@
   "id": "therese-derniers-entretiens",
   "cover": "quarter",
   "name": {
-    "fr-FR": "Derniers entretiens : le Carnet jaune",
-    "en-US": "Last Conversations: the Yellow Notebook",
-    "pt-BR": "Últimos colóquios: o Caderno amarelo"
+    "fr-FR": "Derniers entretiens",
+    "en-US": "Last Conversations",
+    "pt-BR": "Últimos colóquios"
   },
   "author": {
     "fr-FR": "Sainte Thérèse de l’Enfant-Jésus",
@@ -12,9 +12,9 @@
     "pt-BR": "Santa Teresinha do Menino Jesus"
   },
   "description": {
-    "fr-FR": "Les paroles de Thérèse pendant sa dernière maladie, du 6 avril au 30 septembre 1897, telles que sa sœur Pauline, Mère Agnès de Jésus, les nota jour après jour dans son « Carnet jaune » : conseils sur la petite voie, confidences sur l’épreuve de la foi, dialogues avec ses sœurs à l’infirmerie, avec les souvenirs et l’attestation de Mère Agnès. Transcription du Carmel de Lisieux (édition du Centenaire).",
-    "en-US": "Thérèse’s words during her last illness, from 6 April to 30 September 1897, as her sister Pauline, Mother Agnes of Jesus, set them down day by day in her “Yellow Notebook”: counsels on the little way, confidences about the trial of faith, conversations with her sisters in the infirmary, with Mother Agnes’s recollections and attestation. Transcription of the Carmel of Lisieux (Centenary edition).",
-    "pt-BR": "As palavras de Teresinha durante a última doença, de 6 de abril a 30 de setembro de 1897, como sua irmã Paulina, Madre Inês de Jesus, as anotou dia após dia em seu «Caderno amarelo»: conselhos sobre o pequeno caminho, confidências sobre a provação da fé, conversas com as irmãs na enfermaria, com as lembranças e o testemunho de Madre Inês."
+    "fr-FR": "Les paroles de Thérèse pendant sa dernière maladie (avril-septembre 1897) : le « Carnet jaune » où sa sœur Pauline, Mère Agnès de Jésus, les nota jour après jour, avec ses souvenirs et son attestation, puis les paroles recueillies par Céline (sœur Geneviève), par Marie du Sacré-Cœur et par d’autres sœurs de l’infirmerie : conseils sur la petite voie, confidences sur l’épreuve de la foi, dialogues à l’infirmerie. Transcription du Carmel de Lisieux (édition du Centenaire).",
+    "en-US": "Thérèse’s words during her last illness (April-September 1897): the “Yellow Notebook” in which her sister Pauline, Mother Agnes of Jesus, set them down day by day, with her recollections and attestation, followed by the words gathered by Céline (Sister Geneviève), by Marie of the Sacred Heart and by other sisters of the infirmary: counsels on the little way, confidences about the trial of faith, conversations in the infirmary. Transcription of the Carmel of Lisieux (Centenary edition).",
+    "pt-BR": "As palavras de Teresinha durante a última doença (abril a setembro de 1897): o «Caderno amarelo» em que sua irmã Paulina, Madre Inês de Jesus, as anotou dia após dia, com suas lembranças e seu testemunho, e as palavras recolhidas por Celina (irmã Genoveva), por Maria do Sagrado Coração e por outras irmãs da enfermaria."
   },
   "composed": "1897",
   "languages": [
@@ -31,54 +31,96 @@
     {
       "language": "fr-FR",
       "url": "https://archives.carmeldelisieux.fr/archive/carnet-jaune/",
-      "edition": "Archives du Carmel de Lisieux, the transcription of Mother Agnès's Carnet jaune read from the json-cahiers data of /archive/carnet-jaune/ (sheets 1–196) and /archive/carnet-jaune-2/ (sheets 197 to the end, with the loose sheets headed \"Autre\"), sheet by sheet; the sayings are Mother Agnès's own dated notes. Only these two pages of the Derniers entretiens are on the site; the sayings recorded by Céline, Marie of the Sacred Heart and others are not.",
+      "edition": "Archives du Carmel de Lisieux, the transcription of Mother Agnès's Carnet jaune read from the json-cahiers data of /archive/carnet-jaune/ (sheets 1–196) and /archive/carnet-jaune-2/ (sheets 197 to the end, with the loose sheets headed \"Autre\"), sheet by sheet; the sayings are Mother Agnès's own dated notes.",
       "description": "Mother Agnès's text only. Left out: the editors' cross-references (\"Voir Paroles Retrouvées\") with their stray brackets, and a word-processor error string (\"Erreur ! Source du renvoi introuvable\") that the site's transcription contains. The chapters follow the months of 1897; the daily dates are headings and Mother Agnès's numbering of the sayings under each date is kept in bold. A sentence that runs over a sheet is joined. Facsimile links are not kept.",
       "tier": "A",
       "tierEvidence": "Thérèse died in 1897 and Mother Agnès (Pauline Martin) in 1951; the notebook was first published in 1971. The site states no terms (its mentions légales page is empty, checked 2026-11-01). The US status of Mother Agnès's framing narration (URAA restoration) and of the sayings recorded by Céline (d. 1959) was not settled by the report; only the Carnet jaune is imported."
+    },
+    {
+      "language": "fr-FR",
+      "url": "https://archives.carmeldelisieux.fr/oeuvres-de-therese/dernieres-paroles-de-therese/",
+      "edition": "Archives du Carmel de Lisieux, Dernières paroles de Thérèse: /dernieres-paroles-a-celine/ (sayings noted by Céline, Sr Geneviève de la Sainte Face), /dernieres-paroles-marie-du-sacre-coeur/ (json-cahiers transcription) and /dernieres-paroles-a-dautres-soeurs/ (sayings noted by Marie de l'Eucharistie, Marie de la Trinité, Thérèse de St-Augustin, Hermance du Coeur de Jésus, Marie des Anges, Marthe de Jésus).",
+      "description": "Thérèse's reported words and the sisters' narration only. Left out: the site's own articles on the page group (the chronology \"Dernière année de la vie de Thérèse\" and the essay on whether the last words are Thérèse's). The bold type that marks the sayings on the site is dropped (the quotation marks remain); soft hyphens are removed; lines of the manuscript that wrap a sentence are joined.",
+      "tier": "A",
+      "tierEvidence": "Thérèse died in 1897; the sayings were first published in 1971 (Derniers entretiens, Cerf) and earlier in the Carmel's selections. The site states no terms (its mentions légales page is empty, checked 2026-11-01). The witnesses wrote in 1897-98 (Céline, Sr Geneviève, died 1959)."
     }
   ],
   "toc": [
     {
-      "id": "cj-avril",
+      "id": "carnet-jaune",
       "title": {
-        "fr-FR": "Carnet jaune, avril 1897"
-      }
+        "fr-FR": "Le Carnet jaune de Mère Agnès"
+      },
+      "children": [
+        {
+          "id": "cj-avril",
+          "title": {
+            "fr-FR": "Carnet jaune, avril 1897"
+          }
+        },
+        {
+          "id": "cj-mai",
+          "title": {
+            "fr-FR": "Carnet jaune, mai 1897"
+          }
+        },
+        {
+          "id": "cj-juin",
+          "title": {
+            "fr-FR": "Carnet jaune, juin 1897"
+          }
+        },
+        {
+          "id": "cj-juillet",
+          "title": {
+            "fr-FR": "Carnet jaune, juillet 1897"
+          }
+        },
+        {
+          "id": "cj-août",
+          "title": {
+            "fr-FR": "Carnet jaune, août 1897"
+          }
+        },
+        {
+          "id": "cj-septembre",
+          "title": {
+            "fr-FR": "Carnet jaune, septembre 1897"
+          }
+        },
+        {
+          "id": "cj-feuillets",
+          "title": {
+            "fr-FR": "Feuillets ajoutés et attestation de Mère Agnès"
+          }
+        }
+      ]
     },
     {
-      "id": "cj-mai",
+      "id": "autres-temoins",
       "title": {
-        "fr-FR": "Carnet jaune, mai 1897"
-      }
-    },
-    {
-      "id": "cj-juin",
-      "title": {
-        "fr-FR": "Carnet jaune, juin 1897"
-      }
-    },
-    {
-      "id": "cj-juillet",
-      "title": {
-        "fr-FR": "Carnet jaune, juillet 1897"
-      }
-    },
-    {
-      "id": "cj-août",
-      "title": {
-        "fr-FR": "Carnet jaune, août 1897"
-      }
-    },
-    {
-      "id": "cj-septembre",
-      "title": {
-        "fr-FR": "Carnet jaune, septembre 1897"
-      }
-    },
-    {
-      "id": "cj-feuillets",
-      "title": {
-        "fr-FR": "Feuillets ajoutés et attestation de Mère Agnès"
-      }
+        "fr-FR": "Paroles recueillies par d’autres sœurs"
+      },
+      "children": [
+        {
+          "id": "dp-celine",
+          "title": {
+            "fr-FR": "Dernières paroles à Céline"
+          }
+        },
+        {
+          "id": "dp-marie",
+          "title": {
+            "fr-FR": "Dernières paroles à Marie du Sacré-Cœur"
+          }
+        },
+        {
+          "id": "dp-soeurs",
+          "title": {
+            "fr-FR": "Dernières paroles à d’autres sœurs"
+          }
+        }
+      ]
     }
   ]
 }
