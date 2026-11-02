@@ -1,0 +1,22 @@
+{
+ "id": "benson-kings-achievement",
+ "dir": "benson-opera-omnia/kings-achievement",
+ "slug": "kings-achievement",
+ "name": "The King's Achievement",
+ "name_pt": "A Obra do Rei",
+ "desc": "Benson's novel of 1905 on the dissolution of the monasteries under Henry VIII: the brothers Ralph and Anthony Torridon, one drawn to Cromwell's service, the other to the cloister, caught in the fall of the English religious houses.",
+ "desc_pt": "O romance de Benson (1905) sobre a dissolução dos mosteiros sob Henrique VIII: os irmãos Ralph e Anthony Torridon, um atraído ao serviço de Cromwell, o outro ao claustro, apanhados na queda das casas religiosas inglesas.",
+ "composed": 1905,
+ "editor": "Robert Hugh Benson (London: Hutchinson, 1905)",
+ "year": 1905,
+ "url": "https://www.gutenberg.org/ebooks/16375",
+ "edition": "The King's Achievement (London: Hutchinson, 1905), Project Gutenberg #16375, proofread.",
+ "src": "robert-hugh-benson/pg/pg16375.txt",
+ "chap_re": "^(?:CHAPTER (?P<n>[IVXL]+)|EPILOGUE)\\.?$",
+ "sec_re": "^[IVXL]+\\.?$",
+ "end": "^\\*\\*\\* END OF",
+ "srcnote": "Parts and chapters as printed; the numbered sections inside chapters are kept as ## headings.",
+ "start": "^THE KING’S ACHIEVEMENT$",
+ "after": 100,
+ "part_re": "^(?:BOOK|PART) [IVX]+(?:--.*)?\\.?$"
+}
