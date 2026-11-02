@@ -1,0 +1,45 @@
+{
+  "id": "newman-via-media-preface-1877",
+  "cover": "classic",
+  "name": {
+    "en-US": "Preface to the Third Edition of the Via Media (1877)",
+    "pt-BR": "Prefácio à Terceira Edição da Via Media (1877)"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "Newman's long Preface of 1877 to the republished Via Media, written as a Catholic. He restates the Anglican theory of the Via Media, reviews the arguments of his Prophetical Office lectures and of the Letter to Pusey, and explains how the Church's threefold office as prophet, priest and king bears on Anglican claims, reprinting the Preface to Tract 71 and Tract 90 passages.",
+    "pt-BR": "O longo Prefácio de Newman (1877) à reedição da Via Media, escrito como católico. Ele retoma a teoria anglicana da Via Media, passa em revista os argumentos das conferências sobre o Ofício Profético e da Carta a Pusey e explica como o tríplice ofício da Igreja, de profeta, sacerdote e rei, incide sobre as pretensões anglicanas."
+  },
+  "composed": "1877",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/via-media-preface-1877",
+  "editions": {
+    "en-US": {
+      "editor": "John Henry Newman (Longmans, 1877; Newman Reader)",
+      "year": 1877
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.newmanreader.org/works/viamedia/volume1/preface3.html",
+      "edition": "The Via Media of the Anglican Church, vol. 1, 3rd edition, Preface (London: Longmans, Green, 1877), as transcribed by the Newman Reader.",
+      "description": "1 chapters: Newman Reader page numbers, navigation and its editorial remarks are dropped; Newman's own notes are kept as footnotes. The 1837 Lectures on the Prophetical Office of the Church that follow it (Anglican) are not in this book. Raw page text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890 and the text is of a Longmans impression (or earlier edition) before 1930. The Newman Reader page footers claim copyright in the site's transcription (c) 2007 NINS; a plain transcription of a public-domain text adds no authorship under US law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface to the Third Edition"
+      }
+    }
+  ]
+}
