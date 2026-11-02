@@ -1,0 +1,207 @@
+{
+  "id": "challoner-wonders-of-god-in-the-wilderness",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Wonders of God in the Wilderness",
+    "pt-BR": "As Maravilhas de Deus no Deserto"
+  },
+  "author": {
+    "en-US": "Bp. Richard Challoner",
+    "pt-BR": "D. Richard Challoner"
+  },
+  "description": {
+    "en-US": "The Wonders of God in the Wilderness, or The Lives of the Eastern Deserts (1755): Challoner's lives of the Fathers of the desert, from St. John the Baptist, St. Paul the first hermit and St. Antony to St. Hilarion, St. Pachomius, the two Macarii, Simon Stylites, St. Sabas, John Climacus, John the Almoner and the penitent women Thais, Pelagia and Mary of Egypt.",
+    "pt-BR": "As Maravilhas de Deus no Deserto, ou As Vidas dos Padres dos Desertos do Oriente (1755): as vidas dos Padres do deserto por Challoner, de S. João Batista, S. Paulo, primeiro eremita, e S. Antão a S. Hilarião, S. Pacômio, os dois Macários, Simão Estilita, S. Sabas, João Clímaco, João Esmoler e as penitentes Tais, Pelagia e Maria do Egito."
+  },
+  "composed": 1755,
+  "languages": [
+    "en-US"
+  ],
+  "work": "challoner/wonders-of-god-in-the-wilderness",
+  "editions": {
+    "en-US": {
+      "editor": "Bp. Richard Challoner (New York: D. and J. Sadlier, 1852)",
+      "year": 1852
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/thelivesofthefat00chaluoft",
+      "edition": "The Lives of the Fathers of the Eastern Deserts, by the Rev. Dr. Challoner (New York: D. and J. Sadlier and Co., 1852), University of Toronto scan, Internet Archive full-text OCR.",
+      "description": "Challoner's introduction and his twenty-seven lives. The American editor's preface, his added lives of St. Jerome, St. Basil, St. Gregory Nazianzen and St. John Chrysostom (translated from a French work) and the appended Aphorisms and Examples are left out. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Bp. Richard Challoner died in 1781 and the edition is of 1852, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "st-john-baptist",
+      "title": {
+        "en-US": "St. John the Baptist"
+      }
+    },
+    {
+      "id": "st-paul-first-hermit",
+      "title": {
+        "en-US": "St. Paul, the First Hermit"
+      }
+    },
+    {
+      "id": "st-antony",
+      "title": {
+        "en-US": "St. Antony"
+      }
+    },
+    {
+      "id": "st-hilarion",
+      "title": {
+        "en-US": "St. Hilarion"
+      }
+    },
+    {
+      "id": "st-malchus",
+      "title": {
+        "en-US": "St. Malchus"
+      }
+    },
+    {
+      "id": "ss-pachomius-palemon",
+      "title": {
+        "en-US": "SS. Pachomius and Palemon"
+      }
+    },
+    {
+      "id": "st-ammon",
+      "title": {
+        "en-US": "St. Ammon, Abbot"
+      }
+    },
+    {
+      "id": "st-paul-simple",
+      "title": {
+        "en-US": "St. Paul the Simple"
+      }
+    },
+    {
+      "id": "st-macarius-elder",
+      "title": {
+        "en-US": "St. Macarius the Elder"
+      }
+    },
+    {
+      "id": "st-macarius-alexandria",
+      "title": {
+        "en-US": "St. Macarius of Alexandria"
+      }
+    },
+    {
+      "id": "ss-isidore-pambo",
+      "title": {
+        "en-US": "SS. Isidore and Pambo"
+      }
+    },
+    {
+      "id": "st-julian-sabbas",
+      "title": {
+        "en-US": "St. Julian Sabbas"
+      }
+    },
+    {
+      "id": "st-abraham",
+      "title": {
+        "en-US": "St. Abraham"
+      }
+    },
+    {
+      "id": "st-john-egypt",
+      "title": {
+        "en-US": "St. John of Egypt"
+      }
+    },
+    {
+      "id": "st-arsenius",
+      "title": {
+        "en-US": "St. Arsenius"
+      }
+    },
+    {
+      "id": "st-nilammon",
+      "title": {
+        "en-US": "St. Nilammon"
+      }
+    },
+    {
+      "id": "st-simon-stylites",
+      "title": {
+        "en-US": "St. Simon Stylites"
+      }
+    },
+    {
+      "id": "st-euthymius",
+      "title": {
+        "en-US": "St. Euthymius"
+      }
+    },
+    {
+      "id": "st-theodosius",
+      "title": {
+        "en-US": "St. Theodosius the Cenobiarch"
+      }
+    },
+    {
+      "id": "st-sabas",
+      "title": {
+        "en-US": "St. Sabas"
+      }
+    },
+    {
+      "id": "st-john-silent",
+      "title": {
+        "en-US": "St. John the Silent"
+      }
+    },
+    {
+      "id": "st-john-climacus",
+      "title": {
+        "en-US": "St. John Climacus"
+      }
+    },
+    {
+      "id": "st-john-almoner",
+      "title": {
+        "en-US": "St. John the Almoner"
+      }
+    },
+    {
+      "id": "st-syncletica",
+      "title": {
+        "en-US": "St. Syncletica"
+      }
+    },
+    {
+      "id": "st-thais",
+      "title": {
+        "en-US": "St. Thais the Penitent"
+      }
+    },
+    {
+      "id": "st-pelagia",
+      "title": {
+        "en-US": "St. Pelagia the Penitent"
+      }
+    },
+    {
+      "id": "st-mary-egypt",
+      "title": {
+        "en-US": "St. Mary of Egypt"
+      }
+    }
+  ]
+}

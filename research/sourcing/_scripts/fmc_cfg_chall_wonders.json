@@ -1,0 +1,172 @@
+{
+ "id": "challoner-wonders-of-god-in-the-wilderness",
+ "dir": "challoner-opera-omnia/wonders-of-god-in-the-wilderness",
+ "slug": "wonders-of-god-in-the-wilderness",
+ "work": "challoner/wonders-of-god-in-the-wilderness",
+ "name": "The Wonders of God in the Wilderness",
+ "name_pt": "As Maravilhas de Deus no Deserto",
+ "author": "Bp. Richard Challoner",
+ "author_pt": "D. Richard Challoner",
+ "died": 1781,
+ "desc": "The Wonders of God in the Wilderness, or The Lives of the Eastern Deserts (1755): Challoner's lives of the Fathers of the desert, from St. John the Baptist, St. Paul the first hermit and St. Antony to St. Hilarion, St. Pachomius, the two Macarii, Simon Stylites, St. Sabas, John Climacus, John the Almoner and the penitent women Thais, Pelagia and Mary of Egypt.",
+ "desc_pt": "As Maravilhas de Deus no Deserto, ou As Vidas dos Padres dos Desertos do Oriente (1755): as vidas dos Padres do deserto por Challoner, de S. Jo\u00e3o Batista, S. Paulo, primeiro eremita, e S. Ant\u00e3o a S. Hilari\u00e3o, S. Pac\u00f4mio, os dois Mac\u00e1rios, Sim\u00e3o Estilita, S. Sabas, Jo\u00e3o Cl\u00edmaco, Jo\u00e3o Esmoler e as penitentes Tais, Pelagia e Maria do Egito.",
+ "composed": 1755,
+ "editor": "Bp. Richard Challoner (New York: D. and J. Sadlier, 1852)",
+ "year": 1852,
+ "url": "https://archive.org/details/thelivesofthefat00chaluoft",
+ "edition": "The Lives of the Fathers of the Eastern Deserts, by the Rev. Dr. Challoner (New York: D. and J. Sadlier and Co., 1852), University of Toronto scan, Internet Archive full-text OCR.",
+ "srcnote": "Challoner's introduction and his twenty-seven lives. The American editor's preface, his added lives of St. Jerome, St. Basil, St. Gregory Nazianzen and St. John Chrysostom (translated from a French work) and the appended Aphorisms and Examples are left out.",
+ "src": "challoner/ia/thelivesofthefat00chaluoft_djvu.txt",
+ "start": 254,
+ "end": 13454,
+ "fn": true,
+ "front": [
+  {
+   "id": "introduction",
+   "title": "Introduction",
+   "from": 254,
+   "to": 494
+  }
+ ],
+ "back": [],
+ "label": {
+  "SECTION": "Section"
+ },
+ "units": [
+  {
+   "id": "st-john-baptist",
+   "title": "St. John the Baptist",
+   "from": 496
+  },
+  {
+   "id": "st-paul-first-hermit",
+   "title": "St. Paul, the First Hermit",
+   "from": 1055
+  },
+  {
+   "id": "st-antony",
+   "title": "St. Antony",
+   "from": 1452
+  },
+  {
+   "id": "st-hilarion",
+   "title": "St. Hilarion",
+   "from": 2710
+  },
+  {
+   "id": "st-malchus",
+   "title": "St. Malchus",
+   "from": 3658
+  },
+  {
+   "id": "ss-pachomius-palemon",
+   "title": "SS. Pachomius and Palemon",
+   "from": 4020
+  },
+  {
+   "id": "st-ammon",
+   "title": "St. Ammon, Abbot",
+   "from": 5095
+  },
+  {
+   "id": "st-paul-simple",
+   "title": "St. Paul the Simple",
+   "from": 5324
+  },
+  {
+   "id": "st-macarius-elder",
+   "title": "St. Macarius the Elder",
+   "from": 5535
+  },
+  {
+   "id": "st-macarius-alexandria",
+   "title": "St. Macarius of Alexandria",
+   "from": 6150
+  },
+  {
+   "id": "ss-isidore-pambo",
+   "title": "SS. Isidore and Pambo",
+   "from": 6591
+  },
+  {
+   "id": "st-julian-sabbas",
+   "title": "St. Julian Sabbas",
+   "from": 6953
+  },
+  {
+   "id": "st-abraham",
+   "title": "St. Abraham",
+   "from": 7187
+  },
+  {
+   "id": "st-john-egypt",
+   "title": "St. John of Egypt",
+   "from": 7642
+  },
+  {
+   "id": "st-arsenius",
+   "title": "St. Arsenius",
+   "from": 8062
+  },
+  {
+   "id": "st-nilammon",
+   "title": "St. Nilammon",
+   "from": 8309
+  },
+  {
+   "id": "st-simon-stylites",
+   "title": "St. Simon Stylites",
+   "from": 8377
+  },
+  {
+   "id": "st-euthymius",
+   "title": "St. Euthymius",
+   "from": 8864
+  },
+  {
+   "id": "st-theodosius",
+   "title": "St. Theodosius the Cenobiarch",
+   "from": 9490
+  },
+  {
+   "id": "st-sabas",
+   "title": "St. Sabas",
+   "from": 9874
+  },
+  {
+   "id": "st-john-silent",
+   "title": "St. John the Silent",
+   "from": 10324
+  },
+  {
+   "id": "st-john-climacus",
+   "title": "St. John Climacus",
+   "from": 10704
+  },
+  {
+   "id": "st-john-almoner",
+   "title": "St. John the Almoner",
+   "from": 11083
+  },
+  {
+   "id": "st-syncletica",
+   "title": "St. Syncletica",
+   "from": 12098
+  },
+  {
+   "id": "st-thais",
+   "title": "St. Thais the Penitent",
+   "from": 12403
+  },
+  {
+   "id": "st-pelagia",
+   "title": "St. Pelagia the Penitent",
+   "from": 12529
+  },
+  {
+   "id": "st-mary-egypt",
+   "title": "St. Mary of Egypt",
+   "from": 12829
+  }
+ ]
+}
