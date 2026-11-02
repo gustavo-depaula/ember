@@ -1,0 +1,59 @@
+{
+ "id": "faber-creator-and-creature",
+ "dir": "faber-opera-omnia/creator-and-creature",
+ "slug": "creator-and-creature",
+ "work": "faber/creator-and-creature",
+ "name": "The Creator and the Creature, or the Wonders of Divine Love",
+ "name_pt": "O Criador e a Criatura, ou as Maravilhas do Amor Divino",
+ "author": "Fr. Frederick William Faber",
+ "author_pt": "Pe. Frederick William Faber",
+ "died": 1863,
+ "desc": "Faber's treatise of 1857 on God's creative love, in three books: the case stated between the Creator and the creature, the difficulties of creative love, and objections considered. It sets out why God made us, what He asks in return, and the answer to the hesitations of souls who find the love of God hard to grasp.",
+ "desc_pt": "O tratado de Faber (1857) sobre o amor criador de Deus, em tr\u00eas livros: a quest\u00e3o posta entre o Criador e a criatura, as dificuldades do amor criador e as obje\u00e7\u00f5es examinadas. Mostra por que Deus nos fez, o que pede em troca e responde \u00e0s hesita\u00e7\u00f5es das almas que acham dif\u00edcil compreender o amor de Deus.",
+ "composed": 1857,
+ "editor": "Fr. Frederick William Faber (American edition, Baltimore: Murphy, 1857)",
+ "year": 1857,
+ "url": "https://archive.org/details/creatorcreature00fabeuoft",
+ "edition": "The Creator and the Creature, or the Wonders of Divine Love (American edition, 1857), University of Toronto scan, Internet Archive full-text OCR.",
+ "srcnote": "The author's preface is kept; the American publisher's introduction, the analytic table of contents and the index are dropped.",
+ "src": "faber/ia/creatorcreature00fabeuoft_djvu.txt",
+ "start": 757,
+ "end": 16014,
+ "levels": [
+  "BOOK",
+  "CHAPTER"
+ ],
+ "fn": true,
+ "front": [
+  {
+   "id": "preface",
+   "title": "Author's Preface",
+   "from": 521,
+   "to": 712
+  }
+ ],
+ "back": [],
+ "ptitles": {
+  "1": "The Case Stated between the Creator and the Creature",
+  "2": "The Difficulties of Creative Love",
+  "3": "Objections Considered"
+ },
+ "fixlines": {
+  "14738": "CHAPTER IV.",
+  "14741": "OUR OWN GOD."
+ },
+ "titles": {
+  "1.1": "A New Fashion of an Old Sin",
+  "1.2": "What It Is to Be a Creature",
+  "1.3": "What It Is to Have a Creator",
+  "2.1": "Why God Wishes Us to Love Him",
+  "2.2": "Why God Loves Us",
+  "2.3": "Our Means of Loving God",
+  "2.4": "Our Actual Love of God",
+  "2.5": "In What Way God Repays Our Love",
+  "3.1": "The Easiness of Salvation",
+  "3.2": "The Great Mass of Believers",
+  "3.3": "The World",
+  "3.4": "Our Own God"
+ }
+}

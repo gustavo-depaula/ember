@@ -1,0 +1,141 @@
+{
+  "id": "faber-creator-and-creature",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Creator and the Creature, or the Wonders of Divine Love",
+    "pt-BR": "O Criador e a Criatura, ou as Maravilhas do Amor Divino"
+  },
+  "author": {
+    "en-US": "Fr. Frederick William Faber",
+    "pt-BR": "Pe. Frederick William Faber"
+  },
+  "description": {
+    "en-US": "Faber's treatise of 1857 on God's creative love, in three books: the case stated between the Creator and the creature, the difficulties of creative love, and objections considered. It sets out why God made us, what He asks in return, and the answer to the hesitations of souls who find the love of God hard to grasp.",
+    "pt-BR": "O tratado de Faber (1857) sobre o amor criador de Deus, em três livros: a questão posta entre o Criador e a criatura, as dificuldades do amor criador e as objeções examinadas. Mostra por que Deus nos fez, o que pede em troca e responde às hesitações das almas que acham difícil compreender o amor de Deus."
+  },
+  "composed": 1857,
+  "languages": [
+    "en-US"
+  ],
+  "work": "faber/creator-and-creature",
+  "editions": {
+    "en-US": {
+      "editor": "Fr. Frederick William Faber (American edition, Baltimore: Murphy, 1857)",
+      "year": 1857
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/creatorcreature00fabeuoft",
+      "edition": "The Creator and the Creature, or the Wonders of Divine Love (American edition, 1857), University of Toronto scan, Internet Archive full-text OCR.",
+      "description": "The author's preface is kept; the American publisher's introduction, the analytic table of contents and the index are dropped. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Fr. Frederick William Faber died in 1863 and the edition is of 1857, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Author's Preface"
+      }
+    },
+    {
+      "id": "book-1",
+      "title": {
+        "en-US": "Book I. The Case Stated between the Creator and the Creature"
+      },
+      "children": [
+        {
+          "id": "book-1-chapter-1",
+          "title": {
+            "en-US": "Chapter I. A New Fashion of an Old Sin"
+          }
+        },
+        {
+          "id": "book-1-chapter-2",
+          "title": {
+            "en-US": "Chapter II. What It Is to Be a Creature"
+          }
+        },
+        {
+          "id": "book-1-chapter-3",
+          "title": {
+            "en-US": "Chapter III. What It Is to Have a Creator"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-2",
+      "title": {
+        "en-US": "Book II. The Difficulties of Creative Love"
+      },
+      "children": [
+        {
+          "id": "book-2-chapter-1",
+          "title": {
+            "en-US": "Chapter I. Why God Wishes Us to Love Him"
+          }
+        },
+        {
+          "id": "book-2-chapter-2",
+          "title": {
+            "en-US": "Chapter II. Why God Loves Us"
+          }
+        },
+        {
+          "id": "book-2-chapter-3",
+          "title": {
+            "en-US": "Chapter III. Our Means of Loving God"
+          }
+        },
+        {
+          "id": "book-2-chapter-4",
+          "title": {
+            "en-US": "Chapter IV. Our Actual Love of God"
+          }
+        },
+        {
+          "id": "book-2-chapter-5",
+          "title": {
+            "en-US": "Chapter V. In What Way God Repays Our Love"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-3",
+      "title": {
+        "en-US": "Book III. Objections Considered"
+      },
+      "children": [
+        {
+          "id": "book-3-chapter-1",
+          "title": {
+            "en-US": "Chapter I. The Easiness of Salvation"
+          }
+        },
+        {
+          "id": "book-3-chapter-2",
+          "title": {
+            "en-US": "Chapter II. The Great Mass of Believers"
+          }
+        },
+        {
+          "id": "book-3-chapter-3",
+          "title": {
+            "en-US": "Chapter III. The World"
+          }
+        },
+        {
+          "id": "book-3-chapter-4",
+          "title": {
+            "en-US": "Chapter IV. Our Own God"
+          }
+        }
+      ]
+    }
+  ]
+}

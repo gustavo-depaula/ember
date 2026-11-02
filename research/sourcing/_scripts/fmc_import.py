@@ -132,6 +132,7 @@ def main():
     cfg_kws = cfg['levels'] + cfg.get('inline', [])
     src = cfg['src'] if os.path.isabs(cfg['src']) else os.path.join(ROOT, 'research/sourcing', cfg['src'])
     all_lines = open(src, encoding='utf8', errors='ignore').read().split('\n')
+    for k, v in cfg.get('fixlines', {}).items(): all_lines[int(k) - 1] = v
     body_lines = all_lines[cfg['start'] - 1:cfg['end'] - 1]
     counts = runhead_counts(blocks_of(body_lines))
     marks = split_units(body_lines, cfg)
@@ -202,6 +203,7 @@ def main():
             seq[kw] += 1
             if u['num'] != seq[kw]: warn.append('part numbering %s: got %s expected %s' % (kw, u['num'], seq[kw]))
             ptitle = lab(kw, seq[kw], u['title'])
+            if cfg.get('ptitles', {}).get(str(seq[kw])): ptitle = '%s %s. %s' % (label.get(kw, kw.title()), roman(seq[kw]), cfg['ptitles'][str(seq[kw])])
             part = {'id': '%s-%d' % (kw.lower(), seq[kw]), 'title': {'en-US': ptitle}, 'children': []}
             toc.append(part)
             seq[deep] = 0 if cfg.get('reset', True) else seq[deep]
