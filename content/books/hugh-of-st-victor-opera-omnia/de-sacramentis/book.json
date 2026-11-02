@@ -1,0 +1,3298 @@
+{
+  "id": "hugh-de-sacramentis",
+  "cover": "classic",
+  "name": {
+    "la": "De sacramentis christianae fidei",
+    "en-US": "On the Sacraments of the Christian Faith",
+    "pt-BR": "Sobre os sacramentos da fé cristã"
+  },
+  "author": {
+    "la": "Hugo de Sancto Victore",
+    "en-US": "Hugh of St. Victor",
+    "pt-BR": "Hugo de São Vítor"
+  },
+  "description": {
+    "la": "Summa Hugonis de sacramentis christianae fidei, in duobus libris et triginta partibus: ab opere conditionis ad opera restaurationis, ab initio mundi ad finem saeculi.",
+    "en-US": "Hugh of St. Victor’s great summa of theology, in two books and thirty parts: the works of creation and the works of restoration, from the six days to the end of the world, with the sacraments of the Church at its centre. Latin only, from the Migne text (Patrologia Latina 176, 1854), a machine-corrected OCR.",
+    "pt-BR": "A grande suma teológica de Hugo de São Vítor, em dois livros e trinta partes: as obras da criação e as obras da restauração, do princípio do mundo ao fim dos tempos, com os sacramentos da Igreja no centro."
+  },
+  "composed": "c. 1134-1137",
+  "languages": [
+    "la"
+  ],
+  "work": "hugh/de-sacramentis",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 176)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.DeSac3",
+      "edition": "Migne, Patrologia Latina 176 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.DeSac3, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Praefatiuncula."
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Libri prioris de sacramentis prologus Quare lectionem mutaverit."
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Caput I. Quae sint discenda a principio."
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "Caput II. Quae sit materia divinarum Scripturarum."
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "la": "Caput III. Quomodo divina Scriptura per opera conditionis descendit ad narranda opera restaurationis."
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "la": "Caput IV. Quod tripliciter tractat de materia sua eloquium sacrum."
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "la": "Caput V. Quod in sacro eloquio non solae voces sed et res significare habent."
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "la": "Caput VI. Quomodo omnes artes subserviunt divinae sapientiae."
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "la": "Caput VII. De numero librorum sacri eloquii."
+      }
+    },
+    {
+      "id": "g01",
+      "title": {
+        "la": "Liber primus."
+      },
+      "children": [
+        {
+          "id": "g02",
+          "title": {
+            "la": "Pars prima. Hexameron in opera conditionis."
+          },
+          "children": [
+            {
+              "id": "c010",
+              "title": {
+                "la": "Prooemium"
+              }
+            },
+            {
+              "id": "c011",
+              "title": {
+                "la": "Caput I. Unum esse principium a quo facta sunt omnia de nihilo."
+              }
+            },
+            {
+              "id": "c012",
+              "title": {
+                "la": "Caput II. An prius facta est materia quam forma."
+              }
+            },
+            {
+              "id": "c013",
+              "title": {
+                "la": "Caput III. Ratio quare voluit Deus per temporum intervalla opera sua ad completionem perducere; et prius esse facere quam pulchrum esse."
+              }
+            },
+            {
+              "id": "c014",
+              "title": {
+                "la": "Caput IV. Utrum potuit aliquando esse materia sine forma."
+              }
+            },
+            {
+              "id": "c015",
+              "title": {
+                "la": "Caput V. Simul creata fuisse omnia, id est visibilia et invisibilia."
+              }
+            },
+            {
+              "id": "c016",
+              "title": {
+                "la": "Caput VI. De prima informitate rerum omnium qualis fuit, et quandiu mundus in illa permansit."
+              }
+            },
+            {
+              "id": "c017",
+              "title": {
+                "la": "Caput VII. De distinctione formationis."
+              }
+            },
+            {
+              "id": "c018",
+              "title": {
+                "la": "Caput VIII. De mysterio lucis; quare primum facta est."
+              }
+            },
+            {
+              "id": "c019",
+              "title": {
+                "la": "Caput IX. Qualis eadem facta est lux, et ubi."
+              }
+            },
+            {
+              "id": "c020",
+              "title": {
+                "la": "Caput X. Quod simul facta est lux visibilis et invisibilis; et pariter divisa a tenebris."
+              }
+            },
+            {
+              "id": "c021",
+              "title": {
+                "la": "Caput XI. Quod tres dies lux illuminavit, et quare ante solem facta est."
+              }
+            },
+            {
+              "id": "c022",
+              "title": {
+                "la": "Caput XII. Sacramentum divinorum operum."
+              }
+            },
+            {
+              "id": "c023",
+              "title": {
+                "la": "Caput XIII. Quare dicit Scriptura: « Vidit Deus lucem. »"
+              }
+            },
+            {
+              "id": "c024",
+              "title": {
+                "la": "Caput XIV. Quae sit cautela boni operis hic significata."
+              }
+            },
+            {
+              "id": "c025",
+              "title": {
+                "la": "Caput XV. Quid factum est de luce illa primaria post creatum solem; et an de seipsa sol substantialiter factus est."
+              }
+            },
+            {
+              "id": "c026",
+              "title": {
+                "la": "Caput XVI. Utrum Deus per sex dies sine intervallo operatus est, sive alio quolibet modo."
+              }
+            },
+            {
+              "id": "c027",
+              "title": {
+                "la": "Caput XVII. De opere secundae diei quando factum est firmamentum."
+              }
+            },
+            {
+              "id": "c028",
+              "title": {
+                "la": "Caput XVIII. De qua materia factum sit firmamentum, et quale factum sit."
+              }
+            },
+            {
+              "id": "c029",
+              "title": {
+                "la": "Caput XIX. Sacramentum supradictorum."
+              }
+            },
+            {
+              "id": "c030",
+              "title": {
+                "la": "Caput XX. Quare non dicitur Deus vidisse opus secundae diei, quod bonum esset."
+              }
+            },
+            {
+              "id": "c031",
+              "title": {
+                "la": "Caput XXI. Quomodo congregatae sunt aquae in unum locum, ut arida appareret."
+              }
+            },
+            {
+              "id": "c032",
+              "title": {
+                "la": "Caput XXII. Quomodo terra germina produxit."
+              }
+            },
+            {
+              "id": "c033",
+              "title": {
+                "la": "Caput XXIII. Quare aquae illae quae supra coelum sunt non dicit Scriptura quod sint congregatae in unum locum."
+              }
+            },
+            {
+              "id": "c034",
+              "title": {
+                "la": "Caput XXIV. Quod iis tribus diebus facta est rerum dispositio."
+              }
+            },
+            {
+              "id": "c035",
+              "title": {
+                "la": "Caput XXV. Quomodo tribus diebus sequentibus ornatus est mundus."
+              }
+            },
+            {
+              "id": "c036",
+              "title": {
+                "la": "Caput XXVI. Utrum de ipsis elementis facta sunt quae ad ornatum illorum facta sunt."
+              }
+            },
+            {
+              "id": "c037",
+              "title": {
+                "la": "Caput XXVII. Sacramentum quare pisces et aves de una materia facti sunt; et in una sede dispositi non sunt."
+              }
+            },
+            {
+              "id": "c038",
+              "title": {
+                "la": "Caput XXVIII. Quare opera conditionis prius comme morantur; deinde opera restaurationis."
+              }
+            },
+            {
+              "id": "c039",
+              "title": {
+                "la": "Caput XXIX. Quod in operibus restaurationis maxime versatur tractatio."
+              }
+            },
+            {
+              "id": "c040",
+              "title": {
+                "la": "Caput XXX. Quatuor esse per quae sermo subsequens decurrit."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g03",
+          "title": {
+            "la": "Pars secunda. De causa creationis hominis, et de causis primordialibus rerum omnium."
+          },
+          "children": [
+            {
+              "id": "c041",
+              "title": {
+                "la": "Caput I."
+              }
+            },
+            {
+              "id": "c042",
+              "title": {
+                "la": "Caput II. De causis primordialibus et effectibus earum."
+              }
+            },
+            {
+              "id": "c043",
+              "title": {
+                "la": "Caput III. De generatione causarum primordialium."
+              }
+            },
+            {
+              "id": "c044",
+              "title": {
+                "la": "Caput IV. Quae sit prima causa conditionis rationalium."
+              }
+            },
+            {
+              "id": "c045",
+              "title": {
+                "la": "Caput V. Quod divinae voluntati et bonitas adfuit et potestas."
+              }
+            },
+            {
+              "id": "c046",
+              "title": {
+                "la": "Caput VI. De tribus perfectis et perficientibus omnia."
+              }
+            },
+            {
+              "id": "c047",
+              "title": {
+                "la": "Caput VII. Quod tria haec de Deo secundum substantiam dicuntur."
+              }
+            },
+            {
+              "id": "c048",
+              "title": {
+                "la": "Caput VIII. Quare haec tria cum secundum substantiam dicantur quasi propria in quibusdam locis personis attributa inveniuntur."
+              }
+            },
+            {
+              "id": "c049",
+              "title": {
+                "la": "Caput IX. Quod sapientia Dei cum et una sit in se, secundum nos diversa nomina sortitur."
+              }
+            },
+            {
+              "id": "c050",
+              "title": {
+                "la": "Caput X. Quod voluntas Dei aeterna fuit de opere temporali."
+              }
+            },
+            {
+              "id": "c051",
+              "title": {
+                "la": "Caput XI. Quod tria in Deo coaeterna fuerunt."
+              }
+            },
+            {
+              "id": "c052",
+              "title": {
+                "la": "Caput XII. Quod tria visibilia mundi, tria invisibilia Dei demonstrant."
+              }
+            },
+            {
+              "id": "c053",
+              "title": {
+                "la": "Caput XIII. Quod similitudo Dei in rationali creatura perfectior est quam foris."
+              }
+            },
+            {
+              "id": "c054",
+              "title": {
+                "la": "Caput XIV. De scientia et praescientia Dei; et quod ex ea in rebus necessitas provenire videtur."
+              }
+            },
+            {
+              "id": "c055",
+              "title": {
+                "la": "Caput XV. Quomodo omnia in Deo ab aeterno erant priusquam in semetipsis subsisterent; et eorum illic non praescientia, sed scientia erat."
+              }
+            },
+            {
+              "id": "c056",
+              "title": {
+                "la": "Caput XVI. Si res futurae non fuissent sapientia Dei scientia esset, sed praescientia non diceretur."
+              }
+            },
+            {
+              "id": "c057",
+              "title": {
+                "la": "Caput XVII. Quomodo utrumque aeternum est, et praescitum esse et futurum esse."
+              }
+            },
+            {
+              "id": "c058",
+              "title": {
+                "la": "Caput XVIII. Quomodo si rerum eventus mutarentur, praescientia tamen non mutaretur."
+              }
+            },
+            {
+              "id": "c059",
+              "title": {
+                "la": "Caput XIX. De providentia Dei, et quod duplex est providentia Dei, in suis et alienis."
+              }
+            },
+            {
+              "id": "c060",
+              "title": {
+                "la": "Caput XX. De dispositione divina."
+              }
+            },
+            {
+              "id": "c061",
+              "title": {
+                "la": "Caput XXI. De praedestinatione divina."
+              }
+            },
+            {
+              "id": "c062",
+              "title": {
+                "la": "Caput XXII. De potestate Dei et quod potestas dupliciter consideratur in Deo esse: Et utroque modo Deum omnipotentem esse."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g04",
+          "title": {
+            "la": "Pars tertia. De cognitione divinitatis."
+          },
+          "children": [
+            {
+              "id": "c063",
+              "title": {
+                "la": "Caput I. Qualiter ab initio Deus agnitus est, et quod unus, et quod trinus."
+              }
+            },
+            {
+              "id": "c064",
+              "title": {
+                "la": "Caput II. Quare Deus nec totus sciri, nec totus ignorari potest."
+              }
+            },
+            {
+              "id": "c065",
+              "title": {
+                "la": "Caput III. Quibus modis cognitio Dei ad hominem venit."
+              }
+            },
+            {
+              "id": "c066",
+              "title": {
+                "la": "Caput IV. Quod Deus trinus et unus; et quid in unitate et quid in trinitate."
+              }
+            },
+            {
+              "id": "c067",
+              "title": {
+                "la": "Caput V. Explicatio propositarum discretionum."
+              }
+            },
+            {
+              "id": "c068",
+              "title": {
+                "la": "Caput VI. De illo cognitionis genere quo mens rationalis in se Deum videre potest."
+              }
+            },
+            {
+              "id": "c069",
+              "title": {
+                "la": "Caput VII. Quod se ipsam esse videt mens rationalis."
+              }
+            },
+            {
+              "id": "c070",
+              "title": {
+                "la": "Caput VIII. Et quod se coepisse intelligit."
+              }
+            },
+            {
+              "id": "c071",
+              "title": {
+                "la": "Caput IX. Quod Deus est et quod sine principio est."
+              }
+            },
+            {
+              "id": "c072",
+              "title": {
+                "la": "Caput X. Ejusdem rei argumentum foris in creaturis."
+              }
+            },
+            {
+              "id": "c073",
+              "title": {
+                "la": "Caput XI. Quod Deus est trinus et unus."
+              }
+            },
+            {
+              "id": "c074",
+              "title": {
+                "la": "Caput XII. Quod Deus vere et summe unus."
+              }
+            },
+            {
+              "id": "c075",
+              "title": {
+                "la": "Caput XIII. Quod immutabilis est Deus."
+              }
+            },
+            {
+              "id": "c076",
+              "title": {
+                "la": "Caput XIV. Quod rationem creatura recte considerata adjuvat ad cognoscendum Deum."
+              }
+            },
+            {
+              "id": "c077",
+              "title": {
+                "la": "Caput XV. Quibus modis corpora mutantur."
+              }
+            },
+            {
+              "id": "c078",
+              "title": {
+                "la": "Caput XVI. Quibus modis spiritus mutantur."
+              }
+            },
+            {
+              "id": "c079",
+              "title": {
+                "la": "Caput XVII. Quod Deus essentialiter est, et vere est; et in omni creatura sive natura, sine sui definitione; et in omni loco, sine circumscriptione; et in omni tempore, sine vicissitudine vel mutatione."
+              }
+            },
+            {
+              "id": "c080",
+              "title": {
+                "la": "Caput XVIII. Quomodo spiritus creati locales sint; et quomodo corpora."
+              }
+            },
+            {
+              "id": "c081",
+              "title": {
+                "la": "Caput XIX. Ratio qualiter Deus non solum unus sed trinus sit."
+              }
+            },
+            {
+              "id": "c082",
+              "title": {
+                "la": "Caput XX. De verbo extrinseco et intrinseco."
+              }
+            },
+            {
+              "id": "c083",
+              "title": {
+                "la": "Caput XXI. Quod imago Dei in rationali creatura expressior est, et vestigium Trinitatis invenitur in ipsa."
+              }
+            },
+            {
+              "id": "c084",
+              "title": {
+                "la": "Caput XXII. Quomodo tres personae sint essentia sive substantia una."
+              }
+            },
+            {
+              "id": "c085",
+              "title": {
+                "la": "Caput XXIII. De discretione nominum in Trinitate"
+              }
+            },
+            {
+              "id": "c086",
+              "title": {
+                "la": "Caput XXIV. Quomodo Spiritus sanctus a Patre et Filio mittitur aeterna processione ab illis, et temporali adventu ad nos."
+              }
+            },
+            {
+              "id": "c087",
+              "title": {
+                "la": "Caput XXV. Quare tria illa ineffabilia in deitate personae tres dicuntur, et tria in humanitate non dicuntur."
+              }
+            },
+            {
+              "id": "c088",
+              "title": {
+                "la": "Caput XXVI. Quare potentia Patri attribuitur, sapientia Filio, bonitas sive benignitas Spiritui sancto."
+              }
+            },
+            {
+              "id": "c089",
+              "title": {
+                "la": "Caput XXVII. Alia ratio quare illa quae secundum substantiam dicuntur et communia sunt: Personaliter sunt discreta."
+              }
+            },
+            {
+              "id": "c090",
+              "title": {
+                "la": "Caput XXVIII. Quod vestigium Trinitatis non solum in rationali creatura sed, etiam in corporea reperitur."
+              }
+            },
+            {
+              "id": "c091",
+              "title": {
+                "la": "Caput XXIX. Quod in his tribus omnia."
+              }
+            },
+            {
+              "id": "c092",
+              "title": {
+                "la": "Caput XXXI. Brevis summa eorum quae supradicta sunt cum adjectione quorumdam."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g05",
+          "title": {
+            "la": "Pars quarta. De voluntate dei quae aeterna est et una et de signis voluntatis ejus Quae quidem temporalia sunt et secundum figuram voluntatis dicuntur, quia signa sunt voluntatis."
+          },
+          "children": [
+            {
+              "id": "c093",
+              "title": {
+                "la": "Caput I. De voluntate igitur Dei, quod justa est."
+              }
+            },
+            {
+              "id": "c094",
+              "title": {
+                "la": "Caput II. Quot modis Scriptura voluntatem Dei accipiat."
+              }
+            },
+            {
+              "id": "c095",
+              "title": {
+                "la": "Caput III. Prima voluntas Dei beneplacitum dicitur."
+              }
+            },
+            {
+              "id": "c096",
+              "title": {
+                "la": "Caput IV. Secunda operatio; tertia permissio."
+              }
+            },
+            {
+              "id": "c097",
+              "title": {
+                "la": "Caput V. Quod Deus bona fecit mala permisit."
+              }
+            },
+            {
+              "id": "c098",
+              "title": {
+                "la": "Caput VI. Quare Deus mala permisit"
+              }
+            },
+            {
+              "id": "c099",
+              "title": {
+                "la": "Caput VII. Quare operatio Dei et permissio voluntas ejus dicuntur."
+              }
+            },
+            {
+              "id": "c100",
+              "title": {
+                "la": "Caput VIII. Quod duplex sit discretio voluntatis Dei in beneplacito ejus et in signo beneplaciti ejus."
+              }
+            },
+            {
+              "id": "c101",
+              "title": {
+                "la": "Caput IX. Quarta est in praeceptione; quinta in prohibitione."
+              }
+            },
+            {
+              "id": "c102",
+              "title": {
+                "la": "Caput X. Quod non sunt similia signa aeterni beneplaciti praeceptio et prohibitio, sicut operatio et permissio."
+              }
+            },
+            {
+              "id": "c103",
+              "title": {
+                "la": "Caput XI. Quomodo fallere videtur Deus praeceptione vel prohibitione aliud innuens quam sit in beneplacito suo."
+              }
+            },
+            {
+              "id": "c104",
+              "title": {
+                "la": "Caput XII. Utrumque durum sonare vel quod Deus praecipiat quae fieri nolit, vel quod quae nolit fieri permittat."
+              }
+            },
+            {
+              "id": "c105",
+              "title": {
+                "la": "Caput XIII. Quod Deus non vult mala, quamvis velit ut mala sint, quia hoc bonum est."
+              }
+            },
+            {
+              "id": "c106",
+              "title": {
+                "la": "Caput XIV. Quod semper impletur voluntas Dei."
+              }
+            },
+            {
+              "id": "c107",
+              "title": {
+                "la": "Caput XV. Quomodo mali excusabiles non sint quamvis per eos voluntas Dei impleatur."
+              }
+            },
+            {
+              "id": "c108",
+              "title": {
+                "la": "Caput XVI. Quare praecipit Deus omne quod praecipit."
+              }
+            },
+            {
+              "id": "c109",
+              "title": {
+                "la": "Caput XVII. Omne quod bonum dicitur vel secundum se, vel ad aliquid bonum est."
+              }
+            },
+            {
+              "id": "c110",
+              "title": {
+                "la": "Caput XVIII. Quod secundum se bonum dicitur et universaliter dicitur vere et summe bonum esse."
+              }
+            },
+            {
+              "id": "c111",
+              "title": {
+                "la": "Caput XIX. De tribus generibus boni."
+              }
+            },
+            {
+              "id": "c112",
+              "title": {
+                "la": "Caput XX. Majus bonum esse illud quo majus bonum est."
+              }
+            },
+            {
+              "id": "c113",
+              "title": {
+                "la": "Caput XXI. Quod Deus propter se, id est pro utilitate sua vel commodo, nihil praecipit."
+              }
+            },
+            {
+              "id": "c114",
+              "title": {
+                "la": "Caput XXII. Quod Deus hoc unicuique praecipere habet, quod bonum est ipsi cui praecipit; etiam si bonum omnium non est."
+              }
+            },
+            {
+              "id": "c115",
+              "title": {
+                "la": "Caput XXIII. Quod bonum universitatis Deus impedire non habet etiam si illud alicui bonum non est."
+              }
+            },
+            {
+              "id": "c116",
+              "title": {
+                "la": "Caput XXIV. Quod operatio et permissio Dei signa sunt quid esse bonum sit, etiam si illud bonum non sit; praeceptio et prohibitio signa sunt quid bonum sit, etiam si illud esse bonum non sit."
+              }
+            },
+            {
+              "id": "c117",
+              "title": {
+                "la": "Caput XXV. Beneplacitum Dei esse aliquando ad rem; aliquando ad actum rei."
+              }
+            },
+            {
+              "id": "c118",
+              "title": {
+                "la": "Caput XXVI. De rerum ordine in primis et secundis et tertiis."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g06",
+          "title": {
+            "la": "Pars quinta. De creatione angelorum et natura, et confirmatione et lapsu, et caeteris quae ad ipsos pertinent."
+          },
+          "children": [
+            {
+              "id": "c119",
+              "title": {
+                "la": "Caput I. Quae de angelis sint inquirenda."
+              }
+            },
+            {
+              "id": "c120",
+              "title": {
+                "la": "Caput II. Quod in principio creati sunt angeli."
+              }
+            },
+            {
+              "id": "c121",
+              "title": {
+                "la": "Caput III. Quod rationalis creatura prima omnium facta est dignitate; quoniam ad ipsam refertur conditio reliquorum sicut ipsius conditio ad Deum refertur; quoniam ad similitudinem Dei facta est sola."
+              }
+            },
+            {
+              "id": "c122",
+              "title": {
+                "la": "Caput IV. Quod in principio primo simul facta sunt et corporea omnia in materia, et incorporea in angelica natura."
+              }
+            },
+            {
+              "id": "c123",
+              "title": {
+                "la": "Caput V. Quod corporea et incorporea natura et secundum aliquid informis facta est; et secundum aliquid formata."
+              }
+            },
+            {
+              "id": "c124",
+              "title": {
+                "la": "Caput VI. Quales fuerunt angeli quando primo facti sunt."
+              }
+            },
+            {
+              "id": "c125",
+              "title": {
+                "la": "Caput VII. Quod non sunt facti de materia praejacente sicut corporea."
+              }
+            },
+            {
+              "id": "c126",
+              "title": {
+                "la": "Caput VIII. De quatuor proprietatibus naturae angelicae."
+              }
+            },
+            {
+              "id": "c127",
+              "title": {
+                "la": "Caput IX. De differentia substantiae spiritualis."
+              }
+            },
+            {
+              "id": "c128",
+              "title": {
+                "la": "Caput X. De differentia cognitionis."
+              }
+            },
+            {
+              "id": "c129",
+              "title": {
+                "la": "Caput XI. De differentia liberi arbitrii."
+              }
+            },
+            {
+              "id": "c130",
+              "title": {
+                "la": "Caput XII. In quo similes conditi sunt et in quo dissimiles."
+              }
+            },
+            {
+              "id": "c131",
+              "title": {
+                "la": "Caput XIII. De triplici potestate illorum."
+              }
+            },
+            {
+              "id": "c132",
+              "title": {
+                "la": "Caput XIV. De triplici cognitione angelorum."
+              }
+            },
+            {
+              "id": "c133",
+              "title": {
+                "la": "Caput XV. Utrum perfecti facti sint angeli an imperfecti."
+              }
+            },
+            {
+              "id": "c134",
+              "title": {
+                "la": "Caput XVI. Quod tribus modis perfectum dicitur: Secundum tempus, secundum naturam, et universaliter."
+              }
+            },
+            {
+              "id": "c135",
+              "title": {
+                "la": "Caput XVII. Quod angeli perfecti sunt secundum primam perfectionem."
+              }
+            },
+            {
+              "id": "c136",
+              "title": {
+                "la": "Caput XVIII. Utrum angeli praescii fuerunt futuri eventus sui."
+              }
+            },
+            {
+              "id": "c137",
+              "title": {
+                "la": "Caput XIX. Quales conditi sunt angeli, boni an mali, justi an injusti, beati an miseri."
+              }
+            },
+            {
+              "id": "c138",
+              "title": {
+                "la": "Caput XX. De libero arbitrio illorum in primo conditionis principio, quando subsistere coeperunt."
+              }
+            },
+            {
+              "id": "c139",
+              "title": {
+                "la": "Caput XXI. Quid sit liberum arbitrium."
+              }
+            },
+            {
+              "id": "c140",
+              "title": {
+                "la": "Caput XXII. Quod semper liberum arbitrium non ad praesens spectat, sed ad futurum: Nec ad omne, sed ad contingens tantum."
+              }
+            },
+            {
+              "id": "c141",
+              "title": {
+                "la": "Caput XXIII. De aversione et lapsu malorum; et de conversione et confirmatione bonorum."
+              }
+            },
+            {
+              "id": "c142",
+              "title": {
+                "la": "Caput XXIV. Quomodo in labentibus culpa gratiam avertit; et in stantibus gratia meritum adjuvit."
+              }
+            },
+            {
+              "id": "c143",
+              "title": {
+                "la": "Caput XXV. Quod in sola voluntate et justitia est et injustitia."
+              }
+            },
+            {
+              "id": "c144",
+              "title": {
+                "la": "Caput XXVI. Quod peccatum nec substantia est, nec de substantia, sed privatio boni."
+              }
+            },
+            {
+              "id": "c145",
+              "title": {
+                "la": "Caput XXVII. Quomodo Deus omnem voluntatem et potestatem angelorum ad suae voluntatis ordinem et dispositionem intorquet."
+              }
+            },
+            {
+              "id": "c146",
+              "title": {
+                "la": "Caput XXVIII. Quod quatuor modis Deus coercet voluntatem et potestatem malorum angelorum."
+              }
+            },
+            {
+              "id": "c147",
+              "title": {
+                "la": "Caput XXIX. De occulta dispositione Dei qua malas etiam voluntates ad suam voluntatem intorquet, et disponit secundum suam voluntatem."
+              }
+            },
+            {
+              "id": "c148",
+              "title": {
+                "la": "Caput XXX. De ordinibus angelorum quot in principio a Deo conditi sunt."
+              }
+            },
+            {
+              "id": "c149",
+              "title": {
+                "la": "Caput XXXI. Utrum plures remanserunt, quam ceciderunt."
+              }
+            },
+            {
+              "id": "c150",
+              "title": {
+                "la": "Caput XXXII. De discreta cognominatione angelorum."
+              }
+            },
+            {
+              "id": "c151",
+              "title": {
+                "la": "Caput XXXIII. Utrum omnes spiritus coelestes mittantur."
+              }
+            },
+            {
+              "id": "c152",
+              "title": {
+                "la": "Caput XXXIV. De ministeriis angelicis."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g07",
+          "title": {
+            "la": "Pars sexta. De creatione hominis et statu ejus ante peccatu"
+          },
+          "children": [
+            {
+              "id": "c153",
+              "title": {
+                "la": "Caput I. Quare Deus hominem ex anima et corpore fecit."
+              }
+            },
+            {
+              "id": "c154",
+              "title": {
+                "la": "Caput II. Qualiter homo ad imaginem et similitudinem Dei factus est."
+              }
+            },
+            {
+              "id": "c155",
+              "title": {
+                "la": "Caput III. De creatione et origine animae."
+              }
+            },
+            {
+              "id": "c156",
+              "title": {
+                "la": "Caput IV. De libero arbitrio."
+              }
+            },
+            {
+              "id": "c157",
+              "title": {
+                "la": "Caput V. De duplici sensu animae."
+              }
+            },
+            {
+              "id": "c158",
+              "title": {
+                "la": "Caput VI. De duobus bonis ipsius hominis."
+              }
+            },
+            {
+              "id": "c159",
+              "title": {
+                "la": "Caput VII. De duobus praeceptis naturae et disciplinae."
+              }
+            },
+            {
+              "id": "c160",
+              "title": {
+                "la": "Caput VIII. De tribus generibus rerum."
+              }
+            },
+            {
+              "id": "c161",
+              "title": {
+                "la": "Caput IX. De gemina custodia vitae inferioris."
+              }
+            },
+            {
+              "id": "c162",
+              "title": {
+                "la": "Caput X. De tribus statibus hominis."
+              }
+            },
+            {
+              "id": "c163",
+              "title": {
+                "la": "Caput XI. De primo statu hominis ante peccatum."
+              }
+            },
+            {
+              "id": "c164",
+              "title": {
+                "la": "Caput XII. De scientia hominis ante peccatum."
+              }
+            },
+            {
+              "id": "c165",
+              "title": {
+                "la": "Caput XIII. De cognitione rerum visibilium."
+              }
+            },
+            {
+              "id": "c166",
+              "title": {
+                "la": "Caput XIV. De cognitione creatoris."
+              }
+            },
+            {
+              "id": "c167",
+              "title": {
+                "la": "Caput XV. De cognitione sui.—Homo utrum a principio praescierit lapsum et ruinam suam, et caetera omnia mala quae in ipsum et per ipsum in posteros transierint, et utrum etiam praescierit bona quae habiturus fuisset, si in obedientia perstitisset."
+              }
+            },
+            {
+              "id": "c168",
+              "title": {
+                "la": "Caput XVI. De qualitate liberi arbitrii per tres status."
+              }
+            },
+            {
+              "id": "c169",
+              "title": {
+                "la": "Caput XVII. De virtute hominis ante peccatum."
+              }
+            },
+            {
+              "id": "c170",
+              "title": {
+                "la": "Caput XVIII. Qualis creatus sit primus homo secundum corpus."
+              }
+            },
+            {
+              "id": "c171",
+              "title": {
+                "la": "Caput XIX. Quandiu homo si non peccasset, in hac vita inferiori manere debuisset."
+              }
+            },
+            {
+              "id": "c172",
+              "title": {
+                "la": "Caput XX. De alimento ejus."
+              }
+            },
+            {
+              "id": "c173",
+              "title": {
+                "la": "Caput XXI. De studio ejus."
+              }
+            },
+            {
+              "id": "c174",
+              "title": {
+                "la": "Caput XXII. Si non peccasset homo quales filios genuisset."
+              }
+            },
+            {
+              "id": "c175",
+              "title": {
+                "la": "Caput XXIII. Utrum justi an injusti nascerentur."
+              }
+            },
+            {
+              "id": "c176",
+              "title": {
+                "la": "Caput XXIV. Utrum paternae justitiae haeredes essent."
+              }
+            },
+            {
+              "id": "c177",
+              "title": {
+                "la": "Caput XXV. Utrum simul transferendi fuissent; an per successiones."
+              }
+            },
+            {
+              "id": "c178",
+              "title": {
+                "la": "Caput XXVI. Utrum perfecti nascerentur statura et scientia."
+              }
+            },
+            {
+              "id": "c179",
+              "title": {
+                "la": "Caput XXVII. De institutione primi hominis."
+              }
+            },
+            {
+              "id": "c180",
+              "title": {
+                "la": "Caput XXVIII, De institutione hominis secundum inferiorem vitam."
+              }
+            },
+            {
+              "id": "c181",
+              "title": {
+                "la": "Caput XXIX. De institutione hominis secundum superiorem vitam."
+              }
+            },
+            {
+              "id": "c182",
+              "title": {
+                "la": "Caput XXX. De loco in quo positus est primus homo."
+              }
+            },
+            {
+              "id": "c183",
+              "title": {
+                "la": "Caput XXXI. De ligno vitae."
+              }
+            },
+            {
+              "id": "c184",
+              "title": {
+                "la": "Caput XXXII. De ligno scientiae boni et mali."
+              }
+            },
+            {
+              "id": "c185",
+              "title": {
+                "la": "Caput XXXIII. Quod homo in paradiso positus est: Non creatus."
+              }
+            },
+            {
+              "id": "c186",
+              "title": {
+                "la": "Caput XXXIV. Quare unus primum creatus est."
+              }
+            },
+            {
+              "id": "c187",
+              "title": {
+                "la": "Caput XXXV. Quare mulier de viro facta, et quare de latere."
+              }
+            },
+            {
+              "id": "c188",
+              "title": {
+                "la": "Caput XXXVI. Quare dormienti costa abstracta est."
+              }
+            },
+            {
+              "id": "c189",
+              "title": {
+                "la": "Caput XXXVII. De sex modis operandi."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g08",
+          "title": {
+            "la": "Pars septima. De lapsu primi hominis."
+          },
+          "children": [
+            {
+              "id": "c190",
+              "title": {
+                "la": "Caput I. Quomodo invidia diaboli lapsus est."
+              }
+            },
+            {
+              "id": "c191",
+              "title": {
+                "la": "Caput II. Quare diabolus in forma aliena venit."
+              }
+            },
+            {
+              "id": "c192",
+              "title": {
+                "la": "Caput III. Quare prius ad feminam venit."
+              }
+            },
+            {
+              "id": "c193",
+              "title": {
+                "la": "Caput IV. Quare ab interrogatione exorsus est."
+              }
+            },
+            {
+              "id": "c194",
+              "title": {
+                "la": "Caput V. Quod non soli viro praeceptum datum sit."
+              }
+            },
+            {
+              "id": "c195",
+              "title": {
+                "la": "Caput VI. De modo tentationis."
+              }
+            },
+            {
+              "id": "c196",
+              "title": {
+                "la": "Caput VII. Quae mala fuerunt in originali peccato."
+              }
+            },
+            {
+              "id": "c197",
+              "title": {
+                "la": "Caput VIII. Quod mulier delectatione promissionis persuasioni assensum dedit."
+              }
+            },
+            {
+              "id": "c198",
+              "title": {
+                "la": "Caput IX. De duobus generibus tentationum."
+              }
+            },
+            {
+              "id": "c199",
+              "title": {
+                "la": "Caput X. Uter plus peccavit Adam an Eva."
+              }
+            },
+            {
+              "id": "c200",
+              "title": {
+                "la": "Caput XI. De appetitu justi et appetitu commodi."
+              }
+            },
+            {
+              "id": "c201",
+              "title": {
+                "la": "Caput XII. Utrum homo volens an nolens appetitum justi perdidit."
+              }
+            },
+            {
+              "id": "c202",
+              "title": {
+                "la": "Caput XIII. Quod justitia sit mensura."
+              }
+            },
+            {
+              "id": "c203",
+              "title": {
+                "la": "Caput XIV. De mensura inferioris boni."
+              }
+            },
+            {
+              "id": "c204",
+              "title": {
+                "la": "Caput XV. De mensura boni superioris."
+              }
+            },
+            {
+              "id": "c205",
+              "title": {
+                "la": "Caput XVI. Quodnam malum fuit in homine."
+              }
+            },
+            {
+              "id": "c206",
+              "title": {
+                "la": "Caput XVII. Quod homo, quia in appetitu justi peccavit, in appetitu commodi punitus est."
+              }
+            },
+            {
+              "id": "c207",
+              "title": {
+                "la": "Caput XVIII. Quare inferior appetitus mensuram non tenet."
+              }
+            },
+            {
+              "id": "c208",
+              "title": {
+                "la": "Caput XIX. Quod spiritui cura carnis injuncta est."
+              }
+            },
+            {
+              "id": "c209",
+              "title": {
+                "la": "Caput XX. Quod necessitas concupiscendi non excusat, quia a voluntate venit."
+              }
+            },
+            {
+              "id": "c210",
+              "title": {
+                "la": "Caput XXI. Quod commodum et ordinatum appetendum est."
+              }
+            },
+            {
+              "id": "c211",
+              "title": {
+                "la": "Caput XXII. Quod nihil appetitur nisi commodum."
+              }
+            },
+            {
+              "id": "c212",
+              "title": {
+                "la": "Caput XXIII. Quomodo necessitas ex voluntate venit."
+              }
+            },
+            {
+              "id": "c213",
+              "title": {
+                "la": "Caput XXIV. Quid generati trahimus et quid regenerati amittimus."
+              }
+            },
+            {
+              "id": "c214",
+              "title": {
+                "la": "Caput XXV. De originali peccato."
+              }
+            },
+            {
+              "id": "c215",
+              "title": {
+                "la": "Caput XXVI. Quot modis originale peccatum dicatur."
+              }
+            },
+            {
+              "id": "c216",
+              "title": {
+                "la": "Caput XXVII. Quod primo homini actuale fuit, hoc nobis est originale."
+              }
+            },
+            {
+              "id": "c217",
+              "title": {
+                "la": "Caput XXVIII. Quid sit originale peccatum."
+              }
+            },
+            {
+              "id": "c218",
+              "title": {
+                "la": "Caput XXIX. Quomodo originale peccatum a patribus in filios transeat."
+              }
+            },
+            {
+              "id": "c219",
+              "title": {
+                "la": "Caput XXX. Quod anima non sit ex traduce."
+              }
+            },
+            {
+              "id": "c220",
+              "title": {
+                "la": "Caput XXXI. Quomodo per carnem peccatum transit ad animam."
+              }
+            },
+            {
+              "id": "c221",
+              "title": {
+                "la": "Caput XXXII. Quomodo ignorantia vitium sit."
+              }
+            },
+            {
+              "id": "c222",
+              "title": {
+                "la": "Caput XXXIII. Quod angeli facti sunt ut intus erudirentur, homines foris."
+              }
+            },
+            {
+              "id": "c223",
+              "title": {
+                "la": "Caput XXXIV. Unde concupiscentia nascitur et unde ignorantia."
+              }
+            },
+            {
+              "id": "c224",
+              "title": {
+                "la": "Caput XXXV. Quomodo anima peccati originalis particeps fiat."
+              }
+            },
+            {
+              "id": "c225",
+              "title": {
+                "la": "Caput XXXVI. Ratio quorumdam de animabus incorporandis."
+              }
+            },
+            {
+              "id": "c226",
+              "title": {
+                "la": "Caput XXXVII. Quomodo a patribus justis peccatores filii nascuntur."
+              }
+            },
+            {
+              "id": "c227",
+              "title": {
+                "la": "Caput XXXVIII. Utrum omnia peccata praecedentium patrum ad filios transeant."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g09",
+          "title": {
+            "la": "Pars octava. De reparatione hominis."
+          },
+          "children": [
+            {
+              "id": "c228",
+              "title": {
+                "la": "Caput primum. De eo quod tria sunt consideranda circa reparationem hominis."
+              }
+            },
+            {
+              "id": "c229",
+              "title": {
+                "la": "Caput II. De quinque locis."
+              }
+            },
+            {
+              "id": "c230",
+              "title": {
+                "la": "Caput III. Quomodo dispositus est homo ad poenitentiam."
+              }
+            },
+            {
+              "id": "c231",
+              "title": {
+                "la": "Caput IV. De causa hominis adversus Deum et diabolum."
+              }
+            },
+            {
+              "id": "c232",
+              "title": {
+                "la": "Caput V. De discretione judiciorum."
+              }
+            },
+            {
+              "id": "c233",
+              "title": {
+                "la": "Caput VI. Cur Deus homo."
+              }
+            },
+            {
+              "id": "c234",
+              "title": {
+                "la": "Caput VII. Quid ad nos pertinuit passio Christi."
+              }
+            },
+            {
+              "id": "c235",
+              "title": {
+                "la": "Caput VIII. De justitia potestatis et aequitatis."
+              }
+            },
+            {
+              "id": "c236",
+              "title": {
+                "la": "Caput IX. De justitia patiente et cogente."
+              }
+            },
+            {
+              "id": "c237",
+              "title": {
+                "la": "Caput X. Quod aliter Deus redemisse potuisset hominem si voluisset."
+              }
+            },
+            {
+              "id": "c238",
+              "title": {
+                "la": "Caput XI. Qua ratione instituta sunt sacramenta."
+              }
+            },
+            {
+              "id": "c239",
+              "title": {
+                "la": "Caput XII. De tempore institutionis sacramentorum."
+              }
+            },
+            {
+              "id": "c240",
+              "title": {
+                "la": "Caput XIII. De institutione conjugii ante peccatum."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g10",
+          "title": {
+            "la": "Pars nona. De institutione sacramentorum."
+          },
+          "children": [
+            {
+              "id": "c241",
+              "title": {
+                "la": "Caput primum. Quatuor esse consideranda in institutione sacramentorum"
+              }
+            },
+            {
+              "id": "c242",
+              "title": {
+                "la": "Caput II. Quid sit sacramentum."
+              }
+            },
+            {
+              "id": "c243",
+              "title": {
+                "la": "Caput III. Quare instituta sint sacramenta."
+              }
+            },
+            {
+              "id": "c244",
+              "title": {
+                "la": "Caput IV. De distinctione trium operum et trium operantium."
+              }
+            },
+            {
+              "id": "c245",
+              "title": {
+                "la": "Caput V. Institutionem sacramentorum quantum ad Deum dispensationis esse, quantum ad hominem necessitatis."
+              }
+            },
+            {
+              "id": "c246",
+              "title": {
+                "la": "Caput VI. De materia sacramentorum."
+              }
+            },
+            {
+              "id": "c247",
+              "title": {
+                "la": "Caput VII. Quod tria genera sunt sacramentorum."
+              }
+            },
+            {
+              "id": "c248",
+              "title": {
+                "la": "Caput VIII. De tribus quae necessaria sunt ad salutem."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g11",
+          "title": {
+            "la": "Pars decima. De fide."
+          },
+          "children": [
+            {
+              "id": "c249",
+              "title": {
+                "la": "Caput primum. De fide septem esse inquirenda."
+              }
+            },
+            {
+              "id": "c250",
+              "title": {
+                "la": "Caput II. Quid sit fides."
+              }
+            },
+            {
+              "id": "c251",
+              "title": {
+                "la": "Caput III. Quae sint illa in quibus fides constat."
+              }
+            },
+            {
+              "id": "c252",
+              "title": {
+                "la": "Caput IV. De incremento fidei."
+              }
+            },
+            {
+              "id": "c253",
+              "title": {
+                "la": "Caput V. De iis quae ad fidem pertinent."
+              }
+            },
+            {
+              "id": "c254",
+              "title": {
+                "la": "Caput VI. An secundum mutationes temporum mutata sit fides."
+              }
+            },
+            {
+              "id": "c255",
+              "title": {
+                "la": "Caput VII. Quid sit quo nihil minus unquam fides vera habere potuit."
+              }
+            },
+            {
+              "id": "c256",
+              "title": {
+                "la": "Caput IX. De sacramento fidei et virtute."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g12",
+          "title": {
+            "la": "Pars undecima. De naturali lege."
+          },
+          "children": [
+            {
+              "id": "c257",
+              "title": {
+                "la": "Caput I. De sacramentis naturalis legis."
+              }
+            },
+            {
+              "id": "c258",
+              "title": {
+                "la": "Caput II. De prima differentia praecedentium et subsequentium sacramentorum."
+              }
+            },
+            {
+              "id": "c259",
+              "title": {
+                "la": "Caput III. Alia differentia."
+              }
+            },
+            {
+              "id": "c260",
+              "title": {
+                "la": "Caput IV. Quod homo a Deo instructus est ad decimas offerendas."
+              }
+            },
+            {
+              "id": "c261",
+              "title": {
+                "la": "Caput V. Prima differentia, secunda differentia, tertia differentia."
+              }
+            },
+            {
+              "id": "c262",
+              "title": {
+                "la": "Caput VI. Quare prima mutata sunt per secunda."
+              }
+            },
+            {
+              "id": "c263",
+              "title": {
+                "la": "Caput VII. De tribus generibus operum."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g13",
+          "title": {
+            "la": "Pars duodecima de lege scripta"
+          },
+          "children": [
+            {
+              "id": "c264",
+              "title": {
+                "la": "Caput I. De unione populi fidelis."
+              }
+            },
+            {
+              "id": "c265",
+              "title": {
+                "la": "Caput II. De circumcisione."
+              }
+            },
+            {
+              "id": "c266",
+              "title": {
+                "la": "Caput III. De praeparatione legis."
+              }
+            },
+            {
+              "id": "c267",
+              "title": {
+                "la": "Caput IV. De sacramentis legis scriptae."
+              }
+            },
+            {
+              "id": "c268",
+              "title": {
+                "la": "Caput V. De immobilibus praeceptis."
+              }
+            },
+            {
+              "id": "c269",
+              "title": {
+                "la": "Caput VI. De tribus praeceptis primae tabulae."
+              }
+            },
+            {
+              "id": "c270",
+              "title": {
+                "la": "Caput VII. De septem aliis praeceptis quae sunt secundae tabulae."
+              }
+            },
+            {
+              "id": "c271",
+              "title": {
+                "la": "Caput VIII. De ordine praeceptorum Dei."
+              }
+            },
+            {
+              "id": "c272",
+              "title": {
+                "la": "Caput IX. De mobilibus et superadditis praeceptis."
+              }
+            },
+            {
+              "id": "c273",
+              "title": {
+                "la": "Caput X. Quod tria sunt genera sacramentorum in lege."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "title": {
+        "la": "Liber secundus de incartione verbi et tempore gratiae"
+      },
+      "children": [
+        {
+          "id": "c274",
+          "title": {
+            "la": "Incipit prologus secundi libri."
+          }
+        },
+        {
+          "id": "g15",
+          "title": {
+            "la": "Pars prima."
+          },
+          "children": [
+            {
+              "id": "c275",
+              "title": {
+                "la": "Caput primum SEU PROLOGUS."
+              }
+            },
+            {
+              "id": "c276",
+              "title": {
+                "la": "Caput II. Quare Filius missus est potius quam Pater vel Spiritus sanctus."
+              }
+            },
+            {
+              "id": "c277",
+              "title": {
+                "la": "Caput III. Quomodo solus Filius carnem suscepit."
+              }
+            },
+            {
+              "id": "c278",
+              "title": {
+                "la": "Caput IV. De discretione trium personarum in deitate una."
+              }
+            },
+            {
+              "id": "c279",
+              "title": {
+                "la": "Caput V. Quod Verbum carnem assumpsit cum poena sine culpa; cum mortalitate sine iniquitate."
+              }
+            },
+            {
+              "id": "c280",
+              "title": {
+                "la": "Caput VI. Quod Verbum cum carne rationalem animam assumpsit; et qualis fuit anima illa in sapientia et virtute et justitia et bonitate et merito."
+              }
+            },
+            {
+              "id": "c281",
+              "title": {
+                "la": "Caput VII. De carne quam Verbum assumpsit, qualis fuit secundum passibilitatem; et sensum et affectum."
+              }
+            },
+            {
+              "id": "c282",
+              "title": {
+                "la": "Caput VIII. Quomodo intelligendum sit quod scriptum est: « Conceptus est de Spiritu sancto. »"
+              }
+            },
+            {
+              "id": "c283",
+              "title": {
+                "la": "Caput IX. De unione verbi, animae, et carnis."
+              }
+            },
+            {
+              "id": "c284",
+              "title": {
+                "la": "Caput X. De separatione animae et carnis in Christo."
+              }
+            },
+            {
+              "id": "c285",
+              "title": {
+                "la": "Caput XI. Quod Christus separata anima a carne et persona fuit et Deus et homo."
+              }
+            },
+            {
+              "id": "c286",
+              "title": {
+                "la": "Caput XII. Quod per hominem Verbo unitum Deo uniuntur omnes qui membra sunt illius."
+              }
+            },
+            {
+              "id": "c287",
+              "title": {
+                "la": "Caput XIII. Quod Christus secundum humanitatem in coelo est, secundum divinitatem ubique."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g16",
+          "title": {
+            "la": "Pars secunda. De unitate ecclesiae."
+          },
+          "children": [
+            {
+              "id": "c288",
+              "title": {
+                "la": "Caput primum. De gratia quae per Christum datur, et spiritu a capite in membra diffuso."
+              }
+            },
+            {
+              "id": "c289",
+              "title": {
+                "la": "Caput II. De Ecclesia, quid sit Ecclesia."
+              }
+            },
+            {
+              "id": "c290",
+              "title": {
+                "la": "Caput III. De duobus parietibus Ecclesiae, clericis et laicis."
+              }
+            },
+            {
+              "id": "c291",
+              "title": {
+                "la": "Caput IV. Duas esse vitas, et secundum duas vitas duos populos: Et in duobus populis duas potestates, et in utraque diversos gradus et ordines dignitatum; et unam inferiorem, alteram superiorem."
+              }
+            },
+            {
+              "id": "c292",
+              "title": {
+                "la": "Caput V. Quod omnis administratio ecclesiastica constat in tribus, hoc est in ordinibus, in sacramentis, in praeceptis."
+              }
+            },
+            {
+              "id": "c293",
+              "title": {
+                "la": "Caput VI. De potestate terrena."
+              }
+            },
+            {
+              "id": "c294",
+              "title": {
+                "la": "Caput VII. Quomodo Ecclesia terrena possideat."
+              }
+            },
+            {
+              "id": "c295",
+              "title": {
+                "la": "Caput VIII. Quot modis in saeculari potestate determinanda est justitia."
+              }
+            },
+            {
+              "id": "c296",
+              "title": {
+                "la": "Caput IX. De ornamentis regiis."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g17",
+          "title": {
+            "la": "Pars tertia. De ecclesiasticis ordinibus."
+          },
+          "children": [
+            {
+              "id": "c297",
+              "title": {
+                "la": "Caput primum. De potestate spirituali et ejus corona."
+              }
+            },
+            {
+              "id": "c298",
+              "title": {
+                "la": "Caput II. De clericis."
+              }
+            },
+            {
+              "id": "c299",
+              "title": {
+                "la": "Caput III. De tonsura Ecclesiastica."
+              }
+            },
+            {
+              "id": "c300",
+              "title": {
+                "la": "Caput IV. Quomodo ordines sacris in monachis sint."
+              }
+            },
+            {
+              "id": "c301",
+              "title": {
+                "la": "Caput V. De septem gradibus sacris."
+              }
+            },
+            {
+              "id": "c302",
+              "title": {
+                "la": "Caput VI. De ostiariis."
+              }
+            },
+            {
+              "id": "c303",
+              "title": {
+                "la": "Caput VII. De lectoribus."
+              }
+            },
+            {
+              "id": "c304",
+              "title": {
+                "la": "Caput VIII. De exorcistis:"
+              }
+            },
+            {
+              "id": "c305",
+              "title": {
+                "la": "Caput IX. De acolythis."
+              }
+            },
+            {
+              "id": "c306",
+              "title": {
+                "la": "Caput X. De subdiaconis."
+              }
+            },
+            {
+              "id": "c307",
+              "title": {
+                "la": "Caput XI. De diaconis."
+              }
+            },
+            {
+              "id": "c308",
+              "title": {
+                "la": "Caput XII. De presbyteris."
+              }
+            },
+            {
+              "id": "c309",
+              "title": {
+                "la": "Caput XIII. De episcopis."
+              }
+            },
+            {
+              "id": "c310",
+              "title": {
+                "la": "Caput XIV. De archiepiscopis."
+              }
+            },
+            {
+              "id": "c311",
+              "title": {
+                "la": "Caput XV. De summo pontifice."
+              }
+            },
+            {
+              "id": "c312",
+              "title": {
+                "la": "Caput XVI. De caeteris officiis quae sunt in clero."
+              }
+            },
+            {
+              "id": "c313",
+              "title": {
+                "la": "Caput XVII. De archidiaconis."
+              }
+            },
+            {
+              "id": "c314",
+              "title": {
+                "la": "Caput XVIII. De primicerio."
+              }
+            },
+            {
+              "id": "c315",
+              "title": {
+                "la": "Caput XIX. De thesaurario."
+              }
+            },
+            {
+              "id": "c316",
+              "title": {
+                "la": "Caput XX. Quando et quomodo ordinationes sint faciendae."
+              }
+            },
+            {
+              "id": "c317",
+              "title": {
+                "la": "Caput XXI. Quo aetate ordinandi sunt qui ordinantur."
+              }
+            },
+            {
+              "id": "c318",
+              "title": {
+                "la": "Caput XXII. Quod sine certo titulo ordinandi non sunt sacerdotes."
+              }
+            },
+            {
+              "id": "c319",
+              "title": {
+                "la": "Caput XXIII. Quales sunt eligendi ad sacros ordines et quales non."
+              }
+            },
+            {
+              "id": "c320",
+              "title": {
+                "la": "Caput XXIV. Qua ratione mutatio possit fieri ordinatorum."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g18",
+          "title": {
+            "la": "Pars quarta. De indumentis sacris."
+          },
+          "children": [
+            {
+              "id": "c321",
+              "title": {
+                "la": "Caput I. Quot et quae sunt indumenta sacra."
+              }
+            },
+            {
+              "id": "c322",
+              "title": {
+                "la": "Caput II. De tunica byssina."
+              }
+            },
+            {
+              "id": "c323",
+              "title": {
+                "la": "Caput III. De zona."
+              }
+            },
+            {
+              "id": "c324",
+              "title": {
+                "la": "Caput IV. De feminalibus lineis."
+              }
+            },
+            {
+              "id": "c325",
+              "title": {
+                "la": "Caput V. De interiori tunica."
+              }
+            },
+            {
+              "id": "c326",
+              "title": {
+                "la": "Caput VI. De superhumerali."
+              }
+            },
+            {
+              "id": "c327",
+              "title": {
+                "la": "Caput VII. De rationali quod Graece logion dicitur."
+              }
+            },
+            {
+              "id": "c328",
+              "title": {
+                "la": "Caput VIII. De mitra quae cydaris dicitur vel tiara, et de lamina aurea."
+              }
+            },
+            {
+              "id": "c329",
+              "title": {
+                "la": "Caput IX. De indumentis novi sacerdotii."
+              }
+            },
+            {
+              "id": "c330",
+              "title": {
+                "la": "Caput X. De stola vel orario."
+              }
+            },
+            {
+              "id": "c331",
+              "title": {
+                "la": "Caput XI. De planeta vel casula."
+              }
+            },
+            {
+              "id": "c332",
+              "title": {
+                "la": "Caput XII. De mappa vel manipula."
+              }
+            },
+            {
+              "id": "c333",
+              "title": {
+                "la": "Caput XIII. De dalmatica."
+              }
+            },
+            {
+              "id": "c334",
+              "title": {
+                "la": "Caput XIV. De sandaliis et caligis byssinis sive lineis."
+              }
+            },
+            {
+              "id": "c335",
+              "title": {
+                "la": "Caput XV. De baculo episcopi, et annulo."
+              }
+            },
+            {
+              "id": "c336",
+              "title": {
+                "la": "Caput XVI. De pallio archiepiscopi."
+              }
+            },
+            {
+              "id": "c337",
+              "title": {
+                "la": "Caput XVII. De vasis sacris"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g19",
+          "title": {
+            "la": "Pars quinta. De dedicatione ecclesiae."
+          },
+          "children": [
+            {
+              "id": "c338",
+              "title": {
+                "la": "Caput I. De dedicatione Ecclesiae."
+              }
+            },
+            {
+              "id": "c339",
+              "title": {
+                "la": "Caput II. De his quae visibiliter aguntur in ea."
+              }
+            },
+            {
+              "id": "c340",
+              "title": {
+                "la": "Caput III. Quod sit mysterium supradictorum."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g20",
+          "title": {
+            "la": "Pars sexta. De sacramento baptismi"
+          },
+          "children": [
+            {
+              "id": "c341",
+              "title": {
+                "la": "Caput I. Quare sit primum, et quae de eo inquirenda."
+              }
+            },
+            {
+              "id": "c342",
+              "title": {
+                "la": "Caput II. Quid sit baptismus, et de nomine Dei in quo fit baptismus, et de fide et verbo sanctificante."
+              }
+            },
+            {
+              "id": "c343",
+              "title": {
+                "la": "Caput III. Quare institutum sit sacramentum baptismi."
+              }
+            },
+            {
+              "id": "c344",
+              "title": {
+                "la": "Caput IV. Quando institutum sit sacramentum baptismi."
+              }
+            },
+            {
+              "id": "c345",
+              "title": {
+                "la": "Caput V. Quando homines obligari coeperunt praecepto percipiendi baptismi."
+              }
+            },
+            {
+              "id": "c346",
+              "title": {
+                "la": "Caput VI. Quid distet inter baptismum Joannis, et Christi; et de forma baptismi Joannis, et Christi."
+              }
+            },
+            {
+              "id": "c347",
+              "title": {
+                "la": "Caput VII. Utrum post datum praeceptum baptismi aliquis salvari possit nisi actualiter percepto sacramento baptismi."
+              }
+            },
+            {
+              "id": "c348",
+              "title": {
+                "la": "Caput VIII. De sacramentis neophytorum."
+              }
+            },
+            {
+              "id": "c349",
+              "title": {
+                "la": "Caput IX. De catechizatione."
+              }
+            },
+            {
+              "id": "c350",
+              "title": {
+                "la": "Caput X. De exorcismo."
+              }
+            },
+            {
+              "id": "c351",
+              "title": {
+                "la": "Caput XI. De his quae post exorcizationem sequuntur in baptismo."
+              }
+            },
+            {
+              "id": "c352",
+              "title": {
+                "la": "Caput XII. De patrinis."
+              }
+            },
+            {
+              "id": "c353",
+              "title": {
+                "la": "Caput XIII. De rebaptizatione."
+              }
+            },
+            {
+              "id": "c354",
+              "title": {
+                "la": "Caput XIV. Quare in sola aqua baptismus celebratur."
+              }
+            },
+            {
+              "id": "c355",
+              "title": {
+                "la": "Caput XV. De forma baptismatis."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g21",
+          "title": {
+            "la": "Pars septima. De confirmatione."
+          },
+          "children": [
+            {
+              "id": "c356",
+              "title": {
+                "la": "Caput I. De chrismate et ejus usu."
+              }
+            },
+            {
+              "id": "c357",
+              "title": {
+                "la": "Caput II. Quod impositio manus per solos pontifices celebratur."
+              }
+            },
+            {
+              "id": "c358",
+              "title": {
+                "la": "Caput III. De eo quod Sylvester papa instituit ut presbyter baptizatum chrismate in vertice liniat."
+              }
+            },
+            {
+              "id": "c359",
+              "title": {
+                "la": "Caput IV. Utrum majus sacramentum sit, impositio manus an baptismus."
+              }
+            },
+            {
+              "id": "c360",
+              "title": {
+                "la": "Caput V. Quod non debeat iterari manus impositio sicut nec baptismus, et quod a jejunis celebranda sit."
+              }
+            },
+            {
+              "id": "c361",
+              "title": {
+                "la": "Caput VI. Quanto tempore debeant esse sub disciplina chrismatis qui manus impositionem acceperunt."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g22",
+          "title": {
+            "la": "Pars octava. De sacramento corporis et sanguinis christi."
+          },
+          "children": [
+            {
+              "id": "c362",
+              "title": {
+                "la": "Caput I. De ejus excellentia."
+              }
+            },
+            {
+              "id": "c363",
+              "title": {
+                "la": "Caput II. Quando institutum sit sacramentum corporis et sanguinis Christi."
+              }
+            },
+            {
+              "id": "c364",
+              "title": {
+                "la": "Caput III. Utrum mortale an immortale corpus suum in coena Christus discipulis tradidit."
+              }
+            },
+            {
+              "id": "c365",
+              "title": {
+                "la": "Caput IV. Utrum corpus Christi fuit quod Judas per intinctam buccellam accepit."
+              }
+            },
+            {
+              "id": "c366",
+              "title": {
+                "la": "Caput V. Quod agnus paschalis figura corporis Christi fuit."
+              }
+            },
+            {
+              "id": "c367",
+              "title": {
+                "la": "Caput VI. Quod sacramentum altaris et figura est quantum ad panis et vini speciem, et res est quantum ad corporis Christi veritatem."
+              }
+            },
+            {
+              "id": "c368",
+              "title": {
+                "la": "Caput VII. Tria esse in sacramento altaris: Panis et vini speciem, corporis Christi veritatem, gratiam spiritualem."
+              }
+            },
+            {
+              "id": "c369",
+              "title": {
+                "la": "Caput VIII. Quare in specie panis et vini Christus sacramentum corporis sui et sanguinis instituit."
+              }
+            },
+            {
+              "id": "c370",
+              "title": {
+                "la": "Caput IX. Qualis intelligenda est mutatio panis et vini in corpus Christi."
+              }
+            },
+            {
+              "id": "c371",
+              "title": {
+                "la": "Caput X. Quid significant tres portiones illae quae de corpore Christi in sacramento altaris fiunt."
+              }
+            },
+            {
+              "id": "c372",
+              "title": {
+                "la": "Caput XI. Quod corpus Christi quando dividi videtur secundum solam speciem dividitur, secundum se autem integrum manet, sic in singulis partibus totum, sicut in diversis locis unum et idem ipsum est."
+              }
+            },
+            {
+              "id": "c373",
+              "title": {
+                "la": "Caput XII. Quod ea quae in corpore Christi indigne videntur secundum speciem solam fiunt."
+              }
+            },
+            {
+              "id": "c374",
+              "title": {
+                "la": "Caput XIII. Quid fiat de corpore Christi et corporali praesentia ejus post sumptionem sacramenti"
+              }
+            },
+            {
+              "id": "c375",
+              "title": {
+                "la": "Caput XIV. Quod celebratio consecrationis corporis Christi missa vocatur, et quando missa, et a quo primum instituta est et unde missa dicitur."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g23",
+          "title": {
+            "la": "Pars nona. De minoribus sacramentis et sacris."
+          },
+          "children": [
+            {
+              "id": "c376",
+              "title": {
+                "la": "Caput I. De sacramentis quae ad exercitationem instituta sunt, et quod omnia sanctificantur per verbum Dei."
+              }
+            },
+            {
+              "id": "c377",
+              "title": {
+                "la": "Caput II. De aqua aspersionis quae cum sale benedicitur."
+              }
+            },
+            {
+              "id": "c378",
+              "title": {
+                "la": "Caput III. De susceptione cineris."
+              }
+            },
+            {
+              "id": "c379",
+              "title": {
+                "la": "Caput IV. De ramis palmarum et de frondibus benedicendis."
+              }
+            },
+            {
+              "id": "c380",
+              "title": {
+                "la": "Caput V. De cereo qui in sancto Sabbato benedicitur, et de agnis qui benedicuntur in pascha."
+              }
+            },
+            {
+              "id": "c381",
+              "title": {
+                "la": "Caput VI. De signis quorum sonitu fideles in unum convocantur."
+              }
+            },
+            {
+              "id": "c382",
+              "title": {
+                "la": "Caput VII. De cortinis."
+              }
+            },
+            {
+              "id": "c383",
+              "title": {
+                "la": "Caput VIII. De aliis sacramentis quae in factis constant."
+              }
+            },
+            {
+              "id": "c384",
+              "title": {
+                "la": "Caput IX. De his sacramentis quae verbis constant."
+              }
+            },
+            {
+              "id": "c385",
+              "title": {
+                "la": "Caput X. De sacris et non sacramentis."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g24",
+          "title": {
+            "la": "Pars decima. De simonia."
+          },
+          "children": [
+            {
+              "id": "c386",
+              "title": {
+                "la": "Caput I. Unde dicitur, et quid est simonia."
+              }
+            },
+            {
+              "id": "c387",
+              "title": {
+                "la": "Caput II. De auctoribus simoniae."
+              }
+            },
+            {
+              "id": "c388",
+              "title": {
+                "la": "Caput III. De iis qui spiritualia venaunt aut emunt."
+              }
+            },
+            {
+              "id": "c389",
+              "title": {
+                "la": "Caput IV. De iis qui corporalia in Ecclesia comparando cum eis et in eis spiritualia emunt."
+              }
+            },
+            {
+              "id": "c390",
+              "title": {
+                "la": "Caput V. De eo quod sota corporalia venduntur."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g25",
+          "title": {
+            "la": "Pars undecima. De sacramento conjugii."
+          },
+          "children": [
+            {
+              "id": "c391",
+              "title": {
+                "la": "Caput I. De excellentia hujus sacramenti, et quae in eo consideranda sint."
+              }
+            },
+            {
+              "id": "c392",
+              "title": {
+                "la": "Caput II. De origine conjugii."
+              }
+            },
+            {
+              "id": "c393",
+              "title": {
+                "la": "Caput III. De duplici institutione conjugii, et de causa institutionis duplici."
+              }
+            },
+            {
+              "id": "c394",
+              "title": {
+                "la": "Caput IV. Quid sit conjugium et qui illud legitime contrahere possint, et quis consensus sit legitimus."
+              }
+            },
+            {
+              "id": "c395",
+              "title": {
+                "la": "Caput V. Quando conjugium esse incipiat."
+              }
+            },
+            {
+              "id": "c396",
+              "title": {
+                "la": "Caput VI. De iis qui occulte nubunt, vel postquam nupserint contra conjugium aliqua verenda faciunt."
+              }
+            },
+            {
+              "id": "c397",
+              "title": {
+                "la": "Caput VII. Quod tria sunt bona quae conjugium comitantur, scilicet fides, spes prolis, sacramentum."
+              }
+            },
+            {
+              "id": "c398",
+              "title": {
+                "la": "Caput VIII. Utrum haec bona inseparabilia sint conjugio an non."
+              }
+            },
+            {
+              "id": "c399",
+              "title": {
+                "la": "Caput IX. De iis qui in conjugio incontinenter vivunt, et plus explendae libidini, quam generandae proli inserviunt."
+              }
+            },
+            {
+              "id": "c400",
+              "title": {
+                "la": "Caput X. Qua ratione antiqui simul plures habueru uxores."
+              }
+            },
+            {
+              "id": "c401",
+              "title": {
+                "la": "Caput XI. Utrum conjugium dicendum est quod aliquando dissolvi potest."
+              }
+            },
+            {
+              "id": "c402",
+              "title": {
+                "la": "Caput XII. De his qui putant etiam inter illegitimas personas quascunque consensum adinvicem habitum conjugium facere."
+              }
+            },
+            {
+              "id": "c403",
+              "title": {
+                "la": "Caput XIII. De conjugio infidelium."
+              }
+            },
+            {
+              "id": "c404",
+              "title": {
+                "la": "Caput XIV. De consanguinitate et gradibus consanguinitatis."
+              }
+            },
+            {
+              "id": "c405",
+              "title": {
+                "la": "Caput XV. De affinitate."
+              }
+            },
+            {
+              "id": "c406",
+              "title": {
+                "la": "Caput XVI. De spirituali germanitate. De quo Nicolaus Salomoni Constansiensi episcopo."
+              }
+            },
+            {
+              "id": "c407",
+              "title": {
+                "la": "Caput XVII. Quid distet inter cognationem sive consanguinitatem et affinitatem, et spiritualem germanitatem."
+              }
+            },
+            {
+              "id": "c408",
+              "title": {
+                "la": "Caput XVIII. Utrum dolus qui suppositio dicitur conjugium dissolvat."
+              }
+            },
+            {
+              "id": "c409",
+              "title": {
+                "la": "Caput XIX. Utrum conditio servilis si nesciatur, postea conjugium dissolvat."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g26",
+          "title": {
+            "la": "Pars duodecima. De votis."
+          },
+          "children": [
+            {
+              "id": "c410",
+              "title": {
+                "la": "Caput I. De votis, an sint diversa."
+              }
+            },
+            {
+              "id": "c411",
+              "title": {
+                "la": "Caput II. De quinque modis quibus mens agenda tractat."
+              }
+            },
+            {
+              "id": "c412",
+              "title": {
+                "la": "Caput III. Quid sit votum et quid vovere."
+              }
+            },
+            {
+              "id": "c413",
+              "title": {
+                "la": "Caput IV. Quae vota tenenda non sint."
+              }
+            },
+            {
+              "id": "c414",
+              "title": {
+                "la": "Caput V. Quod votum nullam commutationem admittat."
+              }
+            },
+            {
+              "id": "c415",
+              "title": {
+                "la": "Caput VI. Quae vota commutationem patiuntur."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g27",
+          "title": {
+            "la": "Pars tertia decima. De vitiis et virtutibus."
+          },
+          "children": [
+            {
+              "id": "c416",
+              "title": {
+                "la": "Caput I. De vitiis et virtutibus, et operibus malis."
+              }
+            },
+            {
+              "id": "c417",
+              "title": {
+                "la": "Caput II. De virtutibus et operibus bonis."
+              }
+            },
+            {
+              "id": "c418",
+              "title": {
+                "la": "Caput III. De timore et amore."
+              }
+            },
+            {
+              "id": "c419",
+              "title": {
+                "la": "Caput IV. Quid sit timor."
+              }
+            },
+            {
+              "id": "c420",
+              "title": {
+                "la": "Caput V. De quatuor timoribus."
+              }
+            },
+            {
+              "id": "c421",
+              "title": {
+                "la": "Caput VI. De charitate."
+              }
+            },
+            {
+              "id": "c422",
+              "title": {
+                "la": "Caput VII. Quare non sunt tria praecepta charitatis."
+              }
+            },
+            {
+              "id": "c423",
+              "title": {
+                "la": "Caput VIII. Quod pure et gratis amat qui Deum propter se amat."
+              }
+            },
+            {
+              "id": "c424",
+              "title": {
+                "la": "Caput IX. De mensura diligendi Deum."
+              }
+            },
+            {
+              "id": "c425",
+              "title": {
+                "la": "Caput X. De mensura diligendi proximum."
+              }
+            },
+            {
+              "id": "c426",
+              "title": {
+                "la": "Caput XI. Utrum charitas semel habita amittatur."
+              }
+            },
+            {
+              "id": "c427",
+              "title": {
+                "la": "Caput XII. Utrum omnis dilectio Dei charitas sit nominanda."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g28",
+          "title": {
+            "la": "Pars quarta decima. De confessione et poenitentia et remissione peccatorum."
+          },
+          "children": [
+            {
+              "id": "c428",
+              "title": {
+                "la": "Caput I. De confessione et praecepto ejus."
+              }
+            },
+            {
+              "id": "c429",
+              "title": {
+                "la": "Caput II. De poenitentia et fructu poenitentiae."
+              }
+            },
+            {
+              "id": "c430",
+              "title": {
+                "la": "Caput III. De iis qui in hac vita poenitentiam non complent."
+              }
+            },
+            {
+              "id": "c431",
+              "title": {
+                "la": "Caput IV. Utrum iterari possit poenitentia."
+              }
+            },
+            {
+              "id": "c432",
+              "title": {
+                "la": "Caput V. De iis qui in extremis poenitent."
+              }
+            },
+            {
+              "id": "c433",
+              "title": {
+                "la": "Caput VI. Quod sola bona voluntas sufficit, si facultas operandi non datur."
+              }
+            },
+            {
+              "id": "c434",
+              "title": {
+                "la": "Caput VII. Quod homo opus judicat; Deus voluntatem pensat."
+              }
+            },
+            {
+              "id": "c435",
+              "title": {
+                "la": "Caput VIII. De remissione peccatorum; et an sacerdotes qui homines sunt, possunt dimittere peccata."
+              }
+            },
+            {
+              "id": "c436",
+              "title": {
+                "la": "Caput IX. De eo utrum peccata redeant postauam semel dimissa fuerint."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g29",
+          "title": {
+            "la": "Pars quinta decima. De unctione infirmorum."
+          },
+          "children": [
+            {
+              "id": "c437",
+              "title": {
+                "la": "Caput I. De tribus generibus olei, et excellentia chrismatis."
+              }
+            },
+            {
+              "id": "c438",
+              "title": {
+                "la": "Caput II. Quando et a quo instituta est unctio infirmorum."
+              }
+            },
+            {
+              "id": "c439",
+              "title": {
+                "la": "Caput III. Utrum iterari possit hoc sacramentum."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g30",
+          "title": {
+            "la": "Pars sexta decima de morientibus seu de fine hominis."
+          },
+          "children": [
+            {
+              "id": "c440",
+              "title": {
+                "la": "Caput I. Quod ii qui in Domino moriuntur etiam cum parvo merito beati erunt."
+              }
+            },
+            {
+              "id": "c441",
+              "title": {
+                "la": "Caput II. De exitu animarum."
+              }
+            },
+            {
+              "id": "c442",
+              "title": {
+                "la": "Caput III. De poenis animarum."
+              }
+            },
+            {
+              "id": "c443",
+              "title": {
+                "la": "Caput IV. De locis poenarum."
+              }
+            },
+            {
+              "id": "c444",
+              "title": {
+                "la": "Caput V. De qualitate tormentorum gehennalium."
+              }
+            },
+            {
+              "id": "c445",
+              "title": {
+                "la": "Caput VI. De cura pro mortuis agenda ex Augustino in Enchiridio."
+              }
+            },
+            {
+              "id": "c446",
+              "title": {
+                "la": "Caput VII. Quibus prosit post mortem, vel quomodo quod pro illis fit. Augustinus De civitate Dei."
+              }
+            },
+            {
+              "id": "c447",
+              "title": {
+                "la": "Caput VIII. De exsequiis idem in eodem libro primo."
+              }
+            },
+            {
+              "id": "c448",
+              "title": {
+                "la": "Caput IX. De sacrificio pro defunctis. Gregorius in Dialog."
+              }
+            },
+            {
+              "id": "c449",
+              "title": {
+                "la": "Caput X. Quibus prosit. Idem in eodem."
+              }
+            },
+            {
+              "id": "c450",
+              "title": {
+                "la": "Caput XI. Utrum animae sciunt quae in hoc saeculo geruntur."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g31",
+          "title": {
+            "la": "Pars septima decima. De fine saeculi."
+          },
+          "children": [
+            {
+              "id": "c451",
+              "title": {
+                "la": "Caput I. De tempore adventus Christi in novissimo Augustinus ad Esycium."
+              }
+            },
+            {
+              "id": "c452",
+              "title": {
+                "la": "Caput II. De ultima tribulatione. Augustinus de civitate Dei."
+              }
+            },
+            {
+              "id": "c453",
+              "title": {
+                "la": "Caput III. Quare modo diabolus ligatur."
+              }
+            },
+            {
+              "id": "c454",
+              "title": {
+                "la": "Caput IV. Quare in novissimo solvetur."
+              }
+            },
+            {
+              "id": "c455",
+              "title": {
+                "la": "Caput V. Quanto tempore erit ultima tribulatio."
+              }
+            },
+            {
+              "id": "c456",
+              "title": {
+                "la": "Caput VI. De adventu Eliae et Henoch."
+              }
+            },
+            {
+              "id": "c457",
+              "title": {
+                "la": "Caput VII. De qualitate personae judicis. Augustinus de Trinitate."
+              }
+            },
+            {
+              "id": "c458",
+              "title": {
+                "la": "Caput VIII. De celeritate judicii, Augustinus ad Consentium."
+              }
+            },
+            {
+              "id": "c459",
+              "title": {
+                "la": "Caput IX. De eodem."
+              }
+            },
+            {
+              "id": "c460",
+              "title": {
+                "la": "Caput X. De eodem."
+              }
+            },
+            {
+              "id": "c461",
+              "title": {
+                "la": "Caput XI. De ordine resurgendi."
+              }
+            },
+            {
+              "id": "c462",
+              "title": {
+                "la": "Caput XII. Quomodo intelligendum est quod scriptum est: « Vivos et mortuos judicabit. »"
+              }
+            },
+            {
+              "id": "c463",
+              "title": {
+                "la": "Caput XIII. De resurrectione corporum, qualiter aut qualia resurgent."
+              }
+            },
+            {
+              "id": "c464",
+              "title": {
+                "la": "Caput XIV. De abortivis et monstris utrum resurgent et qualia."
+              }
+            },
+            {
+              "id": "c465",
+              "title": {
+                "la": "Caput XV. De modo resurrectionis."
+              }
+            },
+            {
+              "id": "c466",
+              "title": {
+                "la": "Caput XVI. Exemplum supradictorum."
+              }
+            },
+            {
+              "id": "c467",
+              "title": {
+                "la": "Caput XVII. Quod sanctorum corpora sine vitio resurgent, et incorruptibilia."
+              }
+            },
+            {
+              "id": "c468",
+              "title": {
+                "la": "Caput XVIII. Quod infantes non in ea statura resurgent qua mortui sunt."
+              }
+            },
+            {
+              "id": "c469",
+              "title": {
+                "la": "Caput XIX. Quod omnes in eadem statura resurgent quam in perfecta vel juvenili aetate scilicet habuerunt vel habituri fuerunt."
+              }
+            },
+            {
+              "id": "c470",
+              "title": {
+                "la": "Caput XX. Utrum reprobi cum vitiis surgent."
+              }
+            },
+            {
+              "id": "c471",
+              "title": {
+                "la": "Caput XXI. Quomodo terrena corpora in coelo manebunt."
+              }
+            },
+            {
+              "id": "c472",
+              "title": {
+                "la": "Caput XXII. Quale sit futurum judicium."
+              }
+            },
+            {
+              "id": "c473",
+              "title": {
+                "la": "Caput XXIII. Quod Deus conscientia nostra teste utetur ad judicandum nos."
+              }
+            },
+            {
+              "id": "c474",
+              "title": {
+                "la": "Caput XXIV. Qualiter Deus in praesenti judicet."
+              }
+            },
+            {
+              "id": "c475",
+              "title": {
+                "la": "Caput XXV. De eodem."
+              }
+            },
+            {
+              "id": "c476",
+              "title": {
+                "la": "Caput XXVI. De eodem."
+              }
+            },
+            {
+              "id": "c477",
+              "title": {
+                "la": "Caput XXVII. De eodem."
+              }
+            },
+            {
+              "id": "c478",
+              "title": {
+                "la": "Caput XXVIII. Ubi erunt corporaliter sancti quando mundus ardebit."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g32",
+          "title": {
+            "la": "Pars octava decima. De statu futuri saeculi."
+          },
+          "children": [
+            {
+              "id": "c479",
+              "title": {
+                "la": "Caput I. De innovatione mundi."
+              }
+            },
+            {
+              "id": "c480",
+              "title": {
+                "la": "Caput II. Quid proderit aeterna poena malorum bonis."
+              }
+            },
+            {
+              "id": "c481",
+              "title": {
+                "la": "Caput III. Quod boni malos videbunt, non mali bonos, et de secunda morte."
+              }
+            },
+            {
+              "id": "c482",
+              "title": {
+                "la": "Caput IV. Quod mali idcirco semper vivent, ut semper moriantur."
+              }
+            },
+            {
+              "id": "c483",
+              "title": {
+                "la": "Caput V. Quod ignis aeternus non aqualiter cruciabit omnes."
+              }
+            },
+            {
+              "id": "c484",
+              "title": {
+                "la": "Caput VI. De eodem."
+              }
+            },
+            {
+              "id": "c485",
+              "title": {
+                "la": "Caput VII. De eodem."
+              }
+            },
+            {
+              "id": "c486",
+              "title": {
+                "la": "Caput VIII. Quomodo justum sit ut pro temporali culpa aeterna poena reddatur."
+              }
+            },
+            {
+              "id": "c487",
+              "title": {
+                "la": "Caput IX. De eodem."
+              }
+            },
+            {
+              "id": "c488",
+              "title": {
+                "la": "Caput X. De eodem."
+              }
+            },
+            {
+              "id": "c489",
+              "title": {
+                "la": "Caput XI. Quomodo diabolus nunc cruciatur, et quomodo in futuro cruciabitur."
+              }
+            },
+            {
+              "id": "c490",
+              "title": {
+                "la": "Caput XII. De eodem."
+              }
+            },
+            {
+              "id": "c491",
+              "title": {
+                "la": "Caput XIII. Quod post damnationem reproborum sancti plenius cognoscunt gratiam Dei."
+              }
+            },
+            {
+              "id": "c492",
+              "title": {
+                "la": "Caput XIV. Quod, damnatis malis, sancti in vitam aeternam intrabunt."
+              }
+            },
+            {
+              "id": "c493",
+              "title": {
+                "la": "Caput XV. Quomodo justi tunc non compatientur malis."
+              }
+            },
+            {
+              "id": "c494",
+              "title": {
+                "la": "Caput XVI. De visione Dei."
+              }
+            },
+            {
+              "id": "c495",
+              "title": {
+                "la": "Caput XVII. Quid distet inter videre et credere."
+              }
+            },
+            {
+              "id": "c496",
+              "title": {
+                "la": "Caput XVIII. De visione corporali et spirituali in futuro."
+              }
+            },
+            {
+              "id": "c497",
+              "title": {
+                "la": "Caput XIX. Utrum volubiles erunt ibi cogitationes nostrae."
+              }
+            },
+            {
+              "id": "c498",
+              "title": {
+                "la": "Caput XX. Qualis et quanta erit felicitas et beatitudo futura."
+              }
+            },
+            {
+              "id": "c499",
+              "title": {
+                "la": "Caput XXI. In tribus constare beatitudinem veram."
+              }
+            },
+            {
+              "id": "c500",
+              "title": {
+                "la": "Caput XXII. Quod sanctis in futuro non ad dolorem, sed ad gaudium proficiet praeteritorum memoria."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
