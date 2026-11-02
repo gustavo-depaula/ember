@@ -1,0 +1,201 @@
+{
+  "id": "benson-loneliness",
+  "cover": "classic",
+  "name": {
+    "en-US": "Loneliness",
+    "pt-BR": "Solidão"
+  },
+  "author": {
+    "en-US": "Mgr. Robert Hugh Benson",
+    "pt-BR": "Mons. Robert Hugh Benson"
+  },
+  "description": {
+    "en-US": "Benson's posthumous novel of 1915, on a woman's loneliness and the search for human and divine companionship.",
+    "pt-BR": "O romance póstumo de Benson (1915), sobre a solidão de uma mulher e a busca de companhia humana e divina."
+  },
+  "composed": 1915,
+  "languages": [
+    "en-US"
+  ],
+  "work": "benson/loneliness",
+  "editions": {
+    "en-US": {
+      "editor": "Robert Hugh Benson (London: Hutchinson, 1915)",
+      "year": 1915
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/loneliness00bensuoft",
+      "edition": "Loneliness (London: Hutchinson, 1915), Internet Archive full-text OCR (loneliness00bensuoft).",
+      "description": " Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Mgr. Robert Hugh Benson died in 1914 and the edition is of 1915, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "part-1",
+      "title": {
+        "en-US": "Part I"
+      },
+      "children": [
+        {
+          "id": "chapter-01",
+          "title": {
+            "en-US": "Chapter I"
+          }
+        },
+        {
+          "id": "chapter-02",
+          "title": {
+            "en-US": "Chapter II"
+          }
+        },
+        {
+          "id": "chapter-03",
+          "title": {
+            "en-US": "Chapter III"
+          }
+        },
+        {
+          "id": "chapter-04",
+          "title": {
+            "en-US": "Chapter IV"
+          }
+        },
+        {
+          "id": "chapter-05",
+          "title": {
+            "en-US": "Chapter V"
+          }
+        },
+        {
+          "id": "chapter-06",
+          "title": {
+            "en-US": "Chapter VI"
+          }
+        },
+        {
+          "id": "chapter-07",
+          "title": {
+            "en-US": "Chapter VII"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "Part II"
+      },
+      "children": [
+        {
+          "id": "chapter-08",
+          "title": {
+            "en-US": "Chapter I"
+          }
+        },
+        {
+          "id": "chapter-09",
+          "title": {
+            "en-US": "Chapter II"
+          }
+        },
+        {
+          "id": "chapter-10",
+          "title": {
+            "en-US": "Chapter III"
+          }
+        },
+        {
+          "id": "chapter-11",
+          "title": {
+            "en-US": "Chapter IV"
+          }
+        },
+        {
+          "id": "chapter-12",
+          "title": {
+            "en-US": "Chapter V"
+          }
+        },
+        {
+          "id": "chapter-13",
+          "title": {
+            "en-US": "Chapter VI"
+          }
+        },
+        {
+          "id": "chapter-14",
+          "title": {
+            "en-US": "Chapter VII"
+          }
+        },
+        {
+          "id": "chapter-15",
+          "title": {
+            "en-US": "Chapter VIII"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "title": {
+        "en-US": "Part III"
+      },
+      "children": [
+        {
+          "id": "chapter-16",
+          "title": {
+            "en-US": "Chapter I"
+          }
+        },
+        {
+          "id": "chapter-17",
+          "title": {
+            "en-US": "Chapter II"
+          }
+        },
+        {
+          "id": "chapter-18",
+          "title": {
+            "en-US": "Chapter III"
+          }
+        },
+        {
+          "id": "chapter-19",
+          "title": {
+            "en-US": "Chapter IV"
+          }
+        },
+        {
+          "id": "chapter-20",
+          "title": {
+            "en-US": "Chapter V"
+          }
+        },
+        {
+          "id": "chapter-21",
+          "title": {
+            "en-US": "Chapter VI"
+          }
+        },
+        {
+          "id": "chapter-22",
+          "title": {
+            "en-US": "Chapter VII"
+          }
+        },
+        {
+          "id": "chapter-23",
+          "title": {
+            "en-US": "Chapter VIII"
+          }
+        }
+      ]
+    }
+  ]
+}
