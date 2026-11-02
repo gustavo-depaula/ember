@@ -1,0 +1,389 @@
+{
+  "id": "bede-vita-cuthberti",
+  "cover": "classic",
+  "name": {
+    "la": "Vita sancti Cuthberti (prosa)",
+    "en-US": "Life of St. Cuthbert",
+    "pt-BR": "Vida de São Cuteberto"
+  },
+  "author": {
+    "la": "Beda Venerabilis",
+    "en-US": "St. Bede the Venerable",
+    "pt-BR": "São Beda, o Venerável"
+  },
+  "description": {
+    "la": "Vita prosaica sancti Cudbercti Lindisfarnensis episcopi, a Beda scripta c. 721, cum epistola praefatoria ad Eadfridum episcopum et fratres Lindisfarnenses.",
+    "en-US": "Bede's prose Life of Cuthbert, bishop of Lindisfarne (d. 687), written about 721 from the testimony of Cuthbert's own companions and expanding the earlier anonymous Lindisfarne Life: the shepherd boy and the vision of Aidan's soul, the hermit of Farne, the reluctant bishop, the miracles of his incorrupt body. Latin text of Migne (PL 94); English translation of J. A. Giles as given by the Fordham Medieval Sourcebook.",
+    "pt-BR": "A Vida em prosa de Cuteberto, bispo de Lindisfarne (+687), escrita por Beda por volta de 721 a partir do testemunho dos próprios companheiros do santo: o jovem pastor e a visão da alma de Áidan, o eremita de Farne, o bispo relutante, os milagres de seu corpo incorrupto."
+  },
+  "composed": "c. 721",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "work": "bede/vita-cuthberti-prosaica",
+  "editions": {
+    "la": {
+      "editor": "Migne, PL 94 (1862), after Smith/Giles",
+      "year": 1862
+    },
+    "en-US": {
+      "translator": "J. A. Giles",
+      "year": 1843,
+      "from": "la"
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Vita_prosaica_S._Cuthberti_(Beda)",
+      "edition": "Vita prosaica S. Cuthberti (Beda) on Latin Wikisource, from the Corpus Corporum TEI of Migne PL 94 (Praefatio and 46 chapters, with the chapter rubrics).",
+      "description": "Wikitext removed; the inline PL column numbers dropped; chapter rubrics set in bold.",
+      "tier": "A",
+      "tierEvidence": "Eighth-century text in Migne's 19th-century reprint: public domain."
+    },
+    {
+      "language": "en-US",
+      "url": "https://sourcebooks.fordham.edu/basis/bede-cuthbert.asp",
+      "edition": "Bede, The Life and Miracles of St. Cuthbert, Bishop of Lindisfarne, in the translation of J. A. Giles (The Miscellaneous Works of the Venerable Bede, vol. 6 / Minor Historical Works, 1843), as given by the Internet Medieval Sourcebook (Fordham). Preface and 46 chapters (the Sourcebook prints the heading of chapter 46 as 'XLV').",
+      "description": "Page chrome removed; chapter titles set in bold and normalised; drop-cap capitals lowered. Giles's notes are not in the Sourcebook text. OCR slips of the Sourcebook transcription are uncorrected.",
+      "tier": "A",
+      "tierEvidence": "Translation of 1843: public domain."
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02",
+    "en-US": "2026-11-02"
+  },
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio ad Eadfridum",
+        "en-US": "Preface to Bishop Eadfrith"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I",
+        "en-US": "Chapter I"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II",
+        "en-US": "Chapter II"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III",
+        "en-US": "Chapter III"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV",
+        "en-US": "Chapter IV"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V",
+        "en-US": "Chapter V"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI",
+        "en-US": "Chapter VI"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII",
+        "en-US": "Chapter VII"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII",
+        "en-US": "Chapter VIII"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX",
+        "en-US": "Chapter IX"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput X",
+        "en-US": "Chapter X"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput XI",
+        "en-US": "Chapter XI"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput XII",
+        "en-US": "Chapter XII"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Caput XIII",
+        "en-US": "Chapter XIII"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "la": "Caput XIV",
+        "en-US": "Chapter XIV"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "la": "Caput XV",
+        "en-US": "Chapter XV"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "la": "Caput XVI",
+        "en-US": "Chapter XVI"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "la": "Caput XVII",
+        "en-US": "Chapter XVII"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "la": "Caput XVIII",
+        "en-US": "Chapter XVIII"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "la": "Caput XIX",
+        "en-US": "Chapter XIX"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "la": "Caput XX",
+        "en-US": "Chapter XX"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "la": "Caput XXI",
+        "en-US": "Chapter XXI"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "la": "Caput XXII",
+        "en-US": "Chapter XXII"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "la": "Caput XXIII",
+        "en-US": "Chapter XXIII"
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "la": "Caput XXIV",
+        "en-US": "Chapter XXIV"
+      }
+    },
+    {
+      "id": "c25",
+      "title": {
+        "la": "Caput XXV",
+        "en-US": "Chapter XXV"
+      }
+    },
+    {
+      "id": "c26",
+      "title": {
+        "la": "Caput XXVI",
+        "en-US": "Chapter XXVI"
+      }
+    },
+    {
+      "id": "c27",
+      "title": {
+        "la": "Caput XXVII",
+        "en-US": "Chapter XXVII"
+      }
+    },
+    {
+      "id": "c28",
+      "title": {
+        "la": "Caput XXVIII",
+        "en-US": "Chapter XXVIII"
+      }
+    },
+    {
+      "id": "c29",
+      "title": {
+        "la": "Caput XXIX",
+        "en-US": "Chapter XXIX"
+      }
+    },
+    {
+      "id": "c30",
+      "title": {
+        "la": "Caput XXX",
+        "en-US": "Chapter XXX"
+      }
+    },
+    {
+      "id": "c31",
+      "title": {
+        "la": "Caput XXXI",
+        "en-US": "Chapter XXXI"
+      }
+    },
+    {
+      "id": "c32",
+      "title": {
+        "la": "Caput XXXII",
+        "en-US": "Chapter XXXII"
+      }
+    },
+    {
+      "id": "c33",
+      "title": {
+        "la": "Caput XXXIII",
+        "en-US": "Chapter XXXIII"
+      }
+    },
+    {
+      "id": "c34",
+      "title": {
+        "la": "Caput XXXIV",
+        "en-US": "Chapter XXXIV"
+      }
+    },
+    {
+      "id": "c35",
+      "title": {
+        "la": "Caput XXXV",
+        "en-US": "Chapter XXXV"
+      }
+    },
+    {
+      "id": "c36",
+      "title": {
+        "la": "Caput XXXVI",
+        "en-US": "Chapter XXXVI"
+      }
+    },
+    {
+      "id": "c37",
+      "title": {
+        "la": "Caput XXXVII",
+        "en-US": "Chapter XXXVII"
+      }
+    },
+    {
+      "id": "c38",
+      "title": {
+        "la": "Caput XXXVIII",
+        "en-US": "Chapter XXXVIII"
+      }
+    },
+    {
+      "id": "c39",
+      "title": {
+        "la": "Caput XXXIX",
+        "en-US": "Chapter XXXIX"
+      }
+    },
+    {
+      "id": "c40",
+      "title": {
+        "la": "Caput XL",
+        "en-US": "Chapter XL"
+      }
+    },
+    {
+      "id": "c41",
+      "title": {
+        "la": "Caput XLI",
+        "en-US": "Chapter XLI"
+      }
+    },
+    {
+      "id": "c42",
+      "title": {
+        "la": "Caput XLII",
+        "en-US": "Chapter XLII"
+      }
+    },
+    {
+      "id": "c43",
+      "title": {
+        "la": "Caput XLIII",
+        "en-US": "Chapter XLIII"
+      }
+    },
+    {
+      "id": "c44",
+      "title": {
+        "la": "Caput XLIV",
+        "en-US": "Chapter XLIV"
+      }
+    },
+    {
+      "id": "c45",
+      "title": {
+        "la": "Caput XLV",
+        "en-US": "Chapter XLV"
+      }
+    },
+    {
+      "id": "c46",
+      "title": {
+        "la": "Caput XLVI",
+        "en-US": "Chapter XLVI"
+      }
+    }
+  ]
+}
