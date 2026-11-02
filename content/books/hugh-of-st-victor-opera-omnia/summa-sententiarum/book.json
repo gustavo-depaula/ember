@@ -1,0 +1,642 @@
+{
+  "id": "hugh-summa-sententiarum",
+  "cover": "classic",
+  "name": {
+    "la": "Summa sententiarum",
+    "en-US": "Summa of the Sentences",
+    "pt-BR": "Suma das sentenças"
+  },
+  "author": {
+    "la": "Hugo de Sancto Victore",
+    "en-US": "Hugh of St. Victor",
+    "pt-BR": "Hugo de São Vítor"
+  },
+  "description": {
+    "la": "Summa sententiarum septem tractatibus distincta (Hugoni attributa, ab Othone Lucensi composita).",
+    "en-US": "The Summa of the Sentences in seven tracts, printed under Hugh’s name in PL but now thought to be the work of Otto of Lucca, an early compendium of theology from the school of St. Victor. Latin only, from the Migne text (Patrologia Latina 176, 1854), a machine-corrected OCR.",
+    "pt-BR": "A Suma das sentenças em sete tratados, impressa por Migne sob o nome de Hugo, hoje atribuída a Oto de Lucca: um dos primeiros compêndios de teologia da escola de São Vítor."
+  },
+  "composed": "c. 1138-1141",
+  "languages": [
+    "la"
+  ],
+  "work": "hugh/summa-sententiarum",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 176)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.SumSen",
+      "edition": "Migne, Patrologia Latina 176 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.SumSen, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Praefatio."
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Caput I. De Fide."
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Caput II. De spe et charitate."
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "Caput III. De fide antiquorum."
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "la": "Caput IV. De quibus constet fides."
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "la": "Caput V. De spiritu creato, utrum sit localis."
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "la": "Caput VI. De distinctione Trinitatis"
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "la": "Caput VII. De nominibus personas Trinitatis distinguentibus."
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "la": "Caput VIII. De aequalitate Patris et Filii et Spiritus sancti."
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "la": "Caput IX. Quod de sancta Trinitate nihil dicatur secundum accidens."
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "la": "Caput X. De diversa nominum acceptione."
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "la": "Caput XI. De personarum appropriatis."
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "la": "Caput XII. De praescientia et praedestinatione."
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "la": "Caput XIII. De voluntate Dei"
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "la": "Caput XIV. De omnipotentia Dei."
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "la": "Caput XV. De fide incarnationis."
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "la": "Cap, XVI. Quod Christus simul animam et carnem assumpsit."
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "la": "Caput XVII. Quod Christus omnia infirma nostra praeter peccatum susceperit."
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "la": "Caput XVIII. An Christus sit creatura."
+      }
+    },
+    {
+      "id": "c020",
+      "title": {
+        "la": "Caput XIX. An in morte Christi separata fuerit divinitas ab humanitate."
+      }
+    },
+    {
+      "id": "c021",
+      "title": {
+        "la": "Caput i.— De creatione rerum et praecipue angelorum."
+      }
+    },
+    {
+      "id": "c022",
+      "title": {
+        "la": "Caput ii.— De statu angeli in principio creationis ejus."
+      }
+    },
+    {
+      "id": "c023",
+      "title": {
+        "la": "Caput III. De statu angelorum statim post creationem eorum"
+      }
+    },
+    {
+      "id": "c024",
+      "title": {
+        "la": "Caput IV. De excellentia Luciferi ante lapsum, et poena post lapsum."
+      }
+    },
+    {
+      "id": "c025",
+      "title": {
+        "la": "Caput V. De ordinum distinctione."
+      }
+    },
+    {
+      "id": "c026",
+      "title": {
+        "la": "Caput VI. De missione angelorum."
+      }
+    },
+    {
+      "id": "c027",
+      "title": {
+        "la": "Caput I. De operibus itaque sex dierum."
+      }
+    },
+    {
+      "id": "c028",
+      "title": {
+        "la": "Caput II. De creatione hominis."
+      }
+    },
+    {
+      "id": "c029",
+      "title": {
+        "la": "Caput III. De formatione mulieris."
+      }
+    },
+    {
+      "id": "c030",
+      "title": {
+        "la": "Caput IV. De statu hominis ante peccatum."
+      }
+    },
+    {
+      "id": "c031",
+      "title": {
+        "la": "Caput V. Quare non horruit mulier serpentem."
+      }
+    },
+    {
+      "id": "c032",
+      "title": {
+        "la": "Caput VI. De peccato primi hominis."
+      }
+    },
+    {
+      "id": "c033",
+      "title": {
+        "la": "Caput VII. De gratia habita ante peccatum."
+      }
+    },
+    {
+      "id": "c034",
+      "title": {
+        "la": "Caput VIII. De libero arbitrio."
+      }
+    },
+    {
+      "id": "c035",
+      "title": {
+        "la": "Caput IX. Quod liberum arbitrium ad futurum tantum se habeat: Et de ipsius statu quadruplici."
+      }
+    },
+    {
+      "id": "c036",
+      "title": {
+        "la": "Caput X. Quare peccatum primi hominis posteris imputetur."
+      }
+    },
+    {
+      "id": "c037",
+      "title": {
+        "la": "Caput XI. Quid sit peccatum originale."
+      }
+    },
+    {
+      "id": "c038",
+      "title": {
+        "la": "Caput XII. De ratione originalis peccati."
+      }
+    },
+    {
+      "id": "c039",
+      "title": {
+        "la": "Caput XIII. De peccato actuali."
+      }
+    },
+    {
+      "id": "c040",
+      "title": {
+        "la": "Caput XIV. De peccato in generali."
+      }
+    },
+    {
+      "id": "c041",
+      "title": {
+        "la": "Caput XV. In qua natura sit peccatum."
+      }
+    },
+    {
+      "id": "c042",
+      "title": {
+        "la": "Caput XVI. Qui sint modi peccandi."
+      }
+    },
+    {
+      "id": "c043",
+      "title": {
+        "la": "Caput XVII. Quae sit differentia inter dona et virtutes, et quae sint septem dona Spiritus sancti."
+      }
+    },
+    {
+      "id": "c044",
+      "title": {
+        "la": "Caput I. De sacramentis in generali."
+      }
+    },
+    {
+      "id": "c045",
+      "title": {
+        "la": "Caput II. De sacramentis legalibus."
+      }
+    },
+    {
+      "id": "c046",
+      "title": {
+        "la": "Caput III. De praeceptis primae tabulae."
+      }
+    },
+    {
+      "id": "c047",
+      "title": {
+        "la": "Caput IV. De quatuor primis praeceptis secundae tabulae."
+      }
+    },
+    {
+      "id": "c048",
+      "title": {
+        "la": "Caput V. De quinto praecepto secundae tabulae."
+      }
+    },
+    {
+      "id": "c049",
+      "title": {
+        "la": "Caput VI. De sexto et septimo praeceptis secundae tabulae."
+      }
+    },
+    {
+      "id": "c050",
+      "title": {
+        "la": "Caput VII. De dilectione proximi."
+      }
+    },
+    {
+      "id": "c051",
+      "title": {
+        "la": "Caput VIII. De dilectione Dei."
+      }
+    },
+    {
+      "id": "c052",
+      "title": {
+        "la": "Caput I. De baptismo."
+      }
+    },
+    {
+      "id": "c053",
+      "title": {
+        "la": "Caput II. Quae sunt consideranda in baptismo."
+      }
+    },
+    {
+      "id": "c054",
+      "title": {
+        "la": "Caput III. De forma baptismi."
+      }
+    },
+    {
+      "id": "c055",
+      "title": {
+        "la": "Caput IV. Quid sit sacramentum baptismi."
+      }
+    },
+    {
+      "id": "c056",
+      "title": {
+        "la": "Caput V. De susceptione baptismi."
+      }
+    },
+    {
+      "id": "c057",
+      "title": {
+        "la": "Caput VI. Utrum parvuli sine baptismo salventur."
+      }
+    },
+    {
+      "id": "c058",
+      "title": {
+        "la": "Caput VII. De justificatione adultorum ante susceptionem baptismi."
+      }
+    },
+    {
+      "id": "c059",
+      "title": {
+        "la": "Caput VIII. Qui possunt baptizare."
+      }
+    },
+    {
+      "id": "c060",
+      "title": {
+        "la": "Caput IX. Utrum sit baptismus cum verba corrupte proferuntur."
+      }
+    },
+    {
+      "id": "c061",
+      "title": {
+        "la": "Caput X. De materia baptismi."
+      }
+    },
+    {
+      "id": "c062",
+      "title": {
+        "la": "Caput XI. De responsione patrinorum."
+      }
+    },
+    {
+      "id": "c063",
+      "title": {
+        "la": "Caput XII. Utrum quis in utero matris baptizari possit."
+      }
+    },
+    {
+      "id": "c064",
+      "title": {
+        "la": "Caput XIII. De catechismo et exorcismo."
+      }
+    },
+    {
+      "id": "c065",
+      "title": {
+        "la": "Caput I. De sacramento confirmationis."
+      }
+    },
+    {
+      "id": "c066",
+      "title": {
+        "la": "Caput II. De sacramento altaris."
+      }
+    },
+    {
+      "id": "c067",
+      "title": {
+        "la": "Caput III. Quod tria sint in sacramento altaris."
+      }
+    },
+    {
+      "id": "c068",
+      "title": {
+        "la": "Caput IV. De forma sacramenti eucharistiae."
+      }
+    },
+    {
+      "id": "c069",
+      "title": {
+        "la": "Caput V. De errore quorumdam circa sacramentum Eucharistiae."
+      }
+    },
+    {
+      "id": "c070",
+      "title": {
+        "la": "Caput VI. Quare in duabus sumatur speciebus."
+      }
+    },
+    {
+      "id": "c071",
+      "title": {
+        "la": "Caput VII. De duplici sumptione: Bonorum et malorum."
+      }
+    },
+    {
+      "id": "c072",
+      "title": {
+        "la": "Caput VIII. De fractione apparenti."
+      }
+    },
+    {
+      "id": "c073",
+      "title": {
+        "la": "Caput IX. Quid significent partes."
+      }
+    },
+    {
+      "id": "c074",
+      "title": {
+        "la": "Caput X. De poenitentia."
+      }
+    },
+    {
+      "id": "c075",
+      "title": {
+        "la": "Caput XI. Quando solvatur homo a peccato."
+      }
+    },
+    {
+      "id": "c076",
+      "title": {
+        "la": "Caput XII. Quid sit poenitentia."
+      }
+    },
+    {
+      "id": "c077",
+      "title": {
+        "la": "Caput XIII. Utrum peccata redeant."
+      }
+    },
+    {
+      "id": "c078",
+      "title": {
+        "la": "Caput XIV. De duabus clavibus."
+      }
+    },
+    {
+      "id": "c079",
+      "title": {
+        "la": "Caput XV. De sacramento olei seu extremae unctionis."
+      }
+    },
+    {
+      "id": "c080",
+      "title": {
+        "la": "Caput I. De conjugii exordio."
+      }
+    },
+    {
+      "id": "c081",
+      "title": {
+        "la": "Caput II. Quod bona res sit conjugium."
+      }
+    },
+    {
+      "id": "c082",
+      "title": {
+        "la": "Caput III. Quod sine peccato fiat aliquando concubitus conjugalis."
+      }
+    },
+    {
+      "id": "c083",
+      "title": {
+        "la": "Caput IV. Quae sint bona conjugii."
+      }
+    },
+    {
+      "id": "c084",
+      "title": {
+        "la": "Caput V. De variis consuetudinibus conjugiorum."
+      }
+    },
+    {
+      "id": "c085",
+      "title": {
+        "la": "Caput VI. Quod ad contrahendum matrimonium tempore gratiae sufficiat."
+      }
+    },
+    {
+      "id": "c086",
+      "title": {
+        "la": "Caput VII. Quod juramentum de futuro non faciat in praesenti conjugium."
+      }
+    },
+    {
+      "id": "c087",
+      "title": {
+        "la": "Caput VIII. Quod inter fidelem et infidelem non contrahatur conjugium."
+      }
+    },
+    {
+      "id": "c088",
+      "title": {
+        "la": "Caput IX. Quod fidelibus conjugibus uno vivente nequeat alter alii copulari."
+      }
+    },
+    {
+      "id": "c089",
+      "title": {
+        "la": "Caput X. Quae personae devotae videantur posse facere conjugium et quae non."
+      }
+    },
+    {
+      "id": "c090",
+      "title": {
+        "la": "Caput XI. Quod cognati non debent nisi post gradum septimum copulari."
+      }
+    },
+    {
+      "id": "c091",
+      "title": {
+        "la": "Caput XII. Quod in spirituali cognatione non possit fieri conjugium."
+      }
+    },
+    {
+      "id": "c092",
+      "title": {
+        "la": "Caput XIII. Utrum sibi conjungi valeant qui se prius adulterio cognoverunt."
+      }
+    },
+    {
+      "id": "c093",
+      "title": {
+        "la": "Caput XIV. Utrum inter servum et liberam possit contrahi matrimonium."
+      }
+    },
+    {
+      "id": "c094",
+      "title": {
+        "la": "Caput XV. Qua aetate possit fieri conjugium."
+      }
+    },
+    {
+      "id": "c095",
+      "title": {
+        "la": "Caput XVI. Quod a furiosis non possit contrahi conjugium."
+      }
+    },
+    {
+      "id": "c096",
+      "title": {
+        "la": "Caput XVII. Quod frigidi non possunt facere conjugium."
+      }
+    },
+    {
+      "id": "c097",
+      "title": {
+        "la": "Caput XVIII. De stabilitate conjugii."
+      }
+    },
+    {
+      "id": "c098",
+      "title": {
+        "la": "Caput XIX. De causis divortii conjugalis."
+      }
+    },
+    {
+      "id": "c099",
+      "title": {
+        "la": "Caput XX. De spirituali fornicatione."
+      }
+    },
+    {
+      "id": "c100",
+      "title": {
+        "la": "Caput XXI. De secundis nuptiis."
+      }
+    }
+  ]
+}
