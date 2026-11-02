@@ -1,0 +1,147 @@
+{
+  "id": "sales-sermons-viii",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Sermons de saint François de Sales, tome VIII",
+    "en-US": "Sermons of St. Francis de Sales, vol. VIII",
+    "pt-BR": "Sermões de São Francisco de Sales, tomo VIII"
+  },
+  "author": {
+    "fr-FR": "Saint François de Sales",
+    "en-US": "St. Francis de Sales",
+    "pt-BR": "São Francisco de Sales"
+  },
+  "description": {
+    "fr-FR": "Les sermons du tome VIII de l’édition d’Annecy (vol. II des Sermons, 1593-1622), un sermon par chapitre, en orthographe d’époque.",
+    "en-US": "The sermons in volume VIII of the Annecy edition (Sermons, vol. II; 1593-1622), one sermon per chapter, in period spelling.",
+    "pt-BR": "Os sermões do tomo VIII da edição de Annecy (1593-1622)."
+  },
+  "composed": "1593-1622",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "francis-de-sales/sermons-viii",
+  "editions": {
+    "fr-FR": {
+      "editor": "Religieuses de la Visitation d’Annecy",
+      "year": 1897
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://www.donboscosanto.eu/francesco_di_sales/",
+      "edition": "Œuvres de saint François de Sales, édition complète d’après les autographes et les éditions originales, t. VIII: Sermons, 1896-1898 (file 08), Annecy: J. Niérat, 1892-1932. Scans with text layer (2022 re-OCR) from donboscosanto.eu.",
+      "description": "Francis’s text in the original 17th-century spelling, extracted from the PDF text layer (layout mode). Marginal references, variants and footnotes, the editors’ introductions and tables are not included. Sermon titles come from the headings and dates printed above each sermon.",
+      "tier": "A",
+      "tierEvidence": "Francis died in 1622; the Annecy edition is of his own text in period spelling, published in or before 1932. Only Francis’s own text is used, not the editors’ apparatus."
+    }
+  ],
+  "toc": [
+    {
+      "id": "sermon-001",
+      "title": {
+        "fr-FR": "Sermon pour le mercredi des Cendres 4 mars 1609"
+      }
+    },
+    {
+      "id": "sermon-002",
+      "title": {
+        "fr-FR": "Sermon pour le mercredi des Cendres 7 mars 1612"
+      }
+    },
+    {
+      "id": "sermon-003",
+      "title": {
+        "fr-FR": "Sermons du Temps, serm. lxxix, disent que c’était la figure de la Croix. Si le"
+      }
+    },
+    {
+      "id": "sermon-004",
+      "title": {
+        "fr-FR": "Sermon de 1609 ; y faire cependant quelques légers changements, afin que l’idée puisse paraître nouvelle. Dans votre dignité et votre beauté"
+      }
+    },
+    {
+      "id": "sermon-005",
+      "title": {
+        "fr-FR": "Sermon préliminaire sur le benedictus 27 novembre 1616"
+      }
+    },
+    {
+      "id": "sermon-006",
+      "title": {
+        "fr-FR": "Sermon sur le deuxième verset du benedictus 5 décembre 1616"
+      }
+    },
+    {
+      "id": "sermon-007",
+      "title": {
+        "fr-FR": "Sermon pour le jeudi 8 mars 1618"
+      }
+    },
+    {
+      "id": "sermon-008",
+      "title": {
+        "fr-FR": "Sermon pour le vendredi 9 mars 1618"
+      }
+    },
+    {
+      "id": "sermon-009",
+      "title": {
+        "fr-FR": "Troisième sermon"
+      }
+    },
+    {
+      "id": "sermon-010",
+      "title": {
+        "fr-FR": "Sermon pour le mardi 13 mars 1618"
+      }
+    },
+    {
+      "id": "sermon-011",
+      "title": {
+        "fr-FR": "Sermon sixième de la grace qui acheve le salut"
+      }
+    },
+    {
+      "id": "sermon-012",
+      "title": {
+        "fr-FR": "Sermon pour la Nativité de saint jean-baptiste * 24 juin 1618"
+      }
+    },
+    {
+      "id": "sermon-013",
+      "title": {
+        "fr-FR": "Sermon pour la fête de saint joseph 19 mars 1621"
+      }
+    },
+    {
+      "id": "sermon-014",
+      "title": {
+        "fr-FR": "Sermon pour la fête de saint philippe et de saint jacques"
+      }
+    },
+    {
+      "id": "sermon-015",
+      "title": {
+        "fr-FR": "Sermon pour la fête de l’exaltation de la sainte Croix"
+      }
+    },
+    {
+      "id": "sermon-016",
+      "title": {
+        "fr-FR": "Sermon pour le dimanche de quasimodo sur les cinq plaies de notre-seigneur Jésus-christ (1"
+      }
+    },
+    {
+      "id": "sermon-017",
+      "title": {
+        "fr-FR": "Sermons reproduits d’après les autographes lxvi — sommaire d’un sermon pour le mercredi après le premier dimanche de Carême, 10 mars 1604 1"
+      }
+    }
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-02"
+  }
+}
