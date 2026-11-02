@@ -1,0 +1,90 @@
+{
+  "id": "kempis-de-recognitione-propriae-fragilitatis",
+  "cover": "classic",
+  "name": {
+    "la": "De recognitione propriae fragilitatis",
+    "en-US": "On the Recognition of One's Own Frailty",
+    "pt-BR": "Do reconhecimento da própria fragilidade"
+  },
+  "author": {
+    "la": "Thomas a Kempis",
+    "en-US": "Thomas à Kempis",
+    "pt-BR": "Tomás de Kempis"
+  },
+  "description": {
+    "la": "Libellus de recognitione propriae fragilitatis: cognitio sui, humilitas, vanitas mundi, divina misericordia.",
+    "en-US": "Eight chapters on knowing one's own weakness, humility, the vanity of the world and trust in God's mercy. Latin only: Pohl's critical edition (Freiburg 1904), from a raw OCR of the printed volume; no public-domain English translation has been found.",
+    "pt-BR": "Oito capítulos sobre o conhecimento da própria fraqueza, a humildade, a vaidade do mundo e a confiança na misericórdia de Deus."
+  },
+  "composed": "c. 1425-1440",
+  "languages": [
+    "la"
+  ],
+  "work": "thomas-a-kempis/de-recognitione-propriae-fragilitatis",
+  "editions": {
+    "la": {
+      "editor": "Michael Joseph Pohl",
+      "year": 1904
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomniaimitat0000thom",
+      "edition": "Thomae Hemerken a Kempis De recognitione propriae fragilitatis, ed. M. J. Pohl (Freiburg: Herder 1904), Opera omnia II; archive.org raw OCR.",
+      "description": "Pohl's text without his critical apparatus and introduction; line numbers, running heads and page breaks stripped by script, upper-case chapter titles recased (u/v normalised by script). Raw OCR: drop capitals at openings are often garbled and some slips remain after the scripted lexicon repair.",
+      "tier": "A",
+      "tierEvidence": "Pohl 1904; Thomas died in 1471."
+    }
+  ],
+  "toc": [
+    {
+      "id": "p1-01",
+      "title": {
+        "la": "1. De recognitione propriae fragilitatis"
+      }
+    },
+    {
+      "id": "p1-02",
+      "title": {
+        "la": "2. De contemptu vanae gloriae"
+      }
+    },
+    {
+      "id": "p1-03",
+      "title": {
+        "la": "3. De fideli et veraci amico"
+      }
+    },
+    {
+      "id": "p1-04",
+      "title": {
+        "la": "4. De supportatione fraternae infirmitatis"
+      }
+    },
+    {
+      "id": "p1-05",
+      "title": {
+        "la": "5. De spirituali inopia et subtractione suavitatis internae"
+      }
+    },
+    {
+      "id": "p1-06",
+      "title": {
+        "la": "6. De humili subiectione et propria resignatione"
+      }
+    },
+    {
+      "id": "p1-07",
+      "title": {
+        "la": "7. De laude Dei in tribulatione"
+      }
+    },
+    {
+      "id": "p1-08",
+      "title": {
+        "la": "8. De laude Dei ex devotione"
+      }
+    }
+  ]
+}
