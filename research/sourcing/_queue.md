@@ -26,7 +26,7 @@ The first wave (one or two works per author) is done. This queue imports each au
 - [x] Anselm (rest) · Bernard (rest). Left: Anselm letters III–IV need re-OCR/proofread (draft, Tesseract eng model), dubia; English (Webb, Eales, Mount Melleray, Lewis, Mills, Williams)
 - [x] Victorines (39 books). Left: Hugh's Sermones centum and minor arts works, Godfrey, Andrew, Achard's treatises, full Liber exceptionum (not in Corpus Corporum); Gautier's Latin of Adam
 - [x] Peter Lombard (rest: Psalms, Collectanea). Left: sermons (under Hildebert in PL 171), letters
-- [ ] Bellarmine
+- [x] Bellarmine (44 books). Left: Exhortationes domesticae (Brussels 1899 OCR, own pass), Opera oratoria postuma, letters, Gibbons 1614 catechism; chapter splits lost in several books
 - [ ] Thomas à Kempis (rest; 13 books done: Orationes, Sermones ad novicios, Hortulus, Vallis, Chronicle, Lydwine, minor pieces). Continuing: Pohl I–IV remaining works
 - [ ] Bridget of Sweden
 - [ ] Gertrude · Mechtilde
