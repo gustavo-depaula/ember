@@ -63,6 +63,7 @@ These books have no English because the only public-domain translations are badl
 
 ### Partial texts
 
+- `john-of-avila-opera-omnia/epistolario`: the 100 letters of the Epistolario espiritual only, from the modernised Apostolado Mariano edition (OCR, not proofread; Latin quotations replaced by Spanish glosses in brackets). The other ~150 letters of Sala Balust's critical edition (BAC 1952, 252 letters) are not imported, and there is no English yet (EEBO-TCP A23433 has 57 letters, Stanbrook 1904 has 25; both need their own book mapped to these letter numbers).
 - `peter-of-alcantara-opera-omnia/cartas`: only 2 of his 12 authenticated letters (to Teresa and to the bishop of Ávila, 1562). The other ten (Infantas Isabel and María of Portugal, Luisa de la Cerda, Álvaro de Mendoza…) are only in Barrado Manzano 1965 and BAC 570 (1996); leads: Archivo Ibero-Americano 22 (1962), *Salmanticensis* 1955. English exists only for the first, as Willoughby's free rendering.
 - Peter of Alcántara's constitutions (1540, 1561, 1562), the commentary on the *Miserere*, the short *Camino de perfección* and the Spanish *Breve introducción* / *De tres cosas* (traditionally attributed; only scans with unusable OCR, English in Hollings 1905 App. I-II) are not in the corpus: no free text was found.
 - `bernard-opera-omnia/de-diligendo-deo`: Patmore's English stops at chapter XI, so chapters XII–XV are Latin only.

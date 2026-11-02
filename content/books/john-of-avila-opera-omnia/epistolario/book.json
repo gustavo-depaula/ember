@@ -1,0 +1,650 @@
+{
+  "id": "avila-epistolario",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Epistolario espiritual",
+    "en-US": "Spiritual Letters",
+    "pt-BR": "Epistolário espiritual"
+  },
+  "author": {
+    "es-ES": "San Juan de Ávila",
+    "en-US": "St. John of Ávila",
+    "pt-BR": "São João de Ávila"
+  },
+  "description": {
+    "es-ES": "Cien cartas de dirección espiritual de san Juan de Ávila a predicadores, sacerdotes, señoras, doncellas y religiosas, y a Teresa de Jesús, san Juan de Dios, san Ignacio y san Francisco de Borja; la colección del Epistolario espiritual en la edición modernizada del Apostolado Mariano (2012), que traduce al español sus citas latinas entre corchetes.",
+    "en-US": "One hundred letters of spiritual direction by St. John of Ávila to preachers, priests, ladies, maidens and nuns, and to Teresa of Jesus, St. John of God, St. Ignatius and St. Francis Borgia: the Epistolario espiritual collection in the modernised Apostolado Mariano digital edition (2012), which glosses his Latin quotations in Spanish in square brackets.",
+    "pt-BR": "Cem cartas de direção espiritual de São João de Ávila a pregadores, sacerdotes, senhoras, donzelas e religiosas, e a Teresa de Jesus, São João de Deus, Santo Inácio e São Francisco de Borja."
+  },
+  "composed": "1535–1569",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "john-of-avila/epistolario",
+  "editions": {
+    "es-ES": {
+      "editor": "Apostolado Mariano (modernised digital edition)",
+      "year": 2012
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obras-de-san-juan-de-avila-tomo-2",
+      "edition": "Epistolario espiritual de San Juan de Ávila, Apostolado Mariano digital edition, 10 May 2012 (archive.org upload 'Cartas'); Tesseract OCR.",
+      "description": "The 100 letters in the book's own order and numbering; the editor's footnotes are kept. Latin quotations are translated in square brackets by the editor. Printed page numbers removed. The BAC critical edition (Sala Balust 1952, 252 letters) is not used because its OCR carries line numbers and line-keyed apparatus.",
+      "tier": "B",
+      "tierEvidence": "Ávila's letters are public domain; the modernised edition is freely posted on archive.org."
+    },
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrascompletased01avil",
+      "edition": "Obras completas del B. Mtro. Juan de Ávila, ed. L. Sala Balust, BAC 1952, vol. I (Epistolario, pp. 257 ff.). Reference only, for checking readings.",
+      "description": "Not imported.",
+      "tier": "B",
+      "tierEvidence": "Same letters, critical text."
+    }
+  ],
+  "toc": [
+    {
+      "id": "l001",
+      "title": {
+        "es-ES": "Carta 1. A un predicador"
+      }
+    },
+    {
+      "id": "l002",
+      "title": {
+        "es-ES": "Carta 2. Al P. Fray Alonso de Vergara, predicador"
+      }
+    },
+    {
+      "id": "l003",
+      "title": {
+        "es-ES": "Carta 3. A un predicador"
+      }
+    },
+    {
+      "id": "l004",
+      "title": {
+        "es-ES": "Carta 4. A un predicador"
+      }
+    },
+    {
+      "id": "l005",
+      "title": {
+        "es-ES": "Carta 5. Al Maestro García Arias, predicador"
+      }
+    },
+    {
+      "id": "l006",
+      "title": {
+        "es-ES": "Carta 6. A un sacerdote"
+      }
+    },
+    {
+      "id": "l007",
+      "title": {
+        "es-ES": "Carta 7. Para un Mancebo"
+      }
+    },
+    {
+      "id": "l008",
+      "title": {
+        "es-ES": "Carta 8. A un sacerdote"
+      }
+    },
+    {
+      "id": "l009",
+      "title": {
+        "es-ES": "Carta 9. A un sacerdote"
+      }
+    },
+    {
+      "id": "l010",
+      "title": {
+        "es-ES": "Carta 10. A un señor de este reino, siendo asistente de Sevilla"
+      }
+    },
+    {
+      "id": "l011",
+      "title": {
+        "es-ES": "Carta 11. A un señor de estos reinos"
+      }
+    },
+    {
+      "id": "l012",
+      "title": {
+        "es-ES": "Carta 12. A un señor de estos reinos"
+      }
+    },
+    {
+      "id": "l013",
+      "title": {
+        "es-ES": "Carta 13. A una mujer"
+      }
+    },
+    {
+      "id": "l014",
+      "title": {
+        "es-ES": "Carta 14. A una mujer"
+      }
+    },
+    {
+      "id": "l015",
+      "title": {
+        "es-ES": "Carta 15. A una mujer atribulada"
+      }
+    },
+    {
+      "id": "l016",
+      "title": {
+        "es-ES": "Carta 16. A una señora casada"
+      }
+    },
+    {
+      "id": "l017",
+      "title": {
+        "es-ES": "Carta 17. A doña Sancha Carrillo"
+      }
+    },
+    {
+      "id": "l018",
+      "title": {
+        "es-ES": "Carta 18. A una señora monja, atribulada"
+      }
+    },
+    {
+      "id": "l019",
+      "title": {
+        "es-ES": "Carta 19. A una doncella"
+      }
+    },
+    {
+      "id": "l020",
+      "title": {
+        "es-ES": "Carta 20. A Doña Isabel de Ávalos"
+      }
+    },
+    {
+      "id": "l021",
+      "title": {
+        "es-ES": "Carta 21. A una señora ilustrísima"
+      }
+    },
+    {
+      "id": "l022",
+      "title": {
+        "es-ES": "Carta 22. A una doncella"
+      }
+    },
+    {
+      "id": "l023",
+      "title": {
+        "es-ES": "Carta 23. A una doncella"
+      }
+    },
+    {
+      "id": "l024",
+      "title": {
+        "es-ES": "Carta 24. A una doncella"
+      }
+    },
+    {
+      "id": "l025",
+      "title": {
+        "es-ES": "Carta 25. A una señora"
+      }
+    },
+    {
+      "id": "l026",
+      "title": {
+        "es-ES": "Carta 26. A una doncella consagrada a Dios"
+      }
+    },
+    {
+      "id": "l027",
+      "title": {
+        "es-ES": "Carta 27. A una señora ilustrísima"
+      }
+    },
+    {
+      "id": "l028",
+      "title": {
+        "es-ES": "Carta 28. A una monja"
+      }
+    },
+    {
+      "id": "l029",
+      "title": {
+        "es-ES": "Carta 29. A una señora ilustrísima"
+      }
+    },
+    {
+      "id": "l030",
+      "title": {
+        "es-ES": "Carta 30. A la misma señora ilustrísima"
+      }
+    },
+    {
+      "id": "l031",
+      "title": {
+        "es-ES": "Carta 31. A doña Leonor de Hinestrosa"
+      }
+    },
+    {
+      "id": "l032",
+      "title": {
+        "es-ES": "Carta 32. Para Juan de Dios"
+      }
+    },
+    {
+      "id": "l033",
+      "title": {
+        "es-ES": "Carta 33. Al mismo Juan de Dios"
+      }
+    },
+    {
+      "id": "l034",
+      "title": {
+        "es-ES": "Carta 34. A una doncella"
+      }
+    },
+    {
+      "id": "l035",
+      "title": {
+        "es-ES": "Carta 35. A una monja devota"
+      }
+    },
+    {
+      "id": "l036",
+      "title": {
+        "es-ES": "Carta 36. A una religiosa"
+      }
+    },
+    {
+      "id": "l037",
+      "title": {
+        "es-ES": "Carta 37. A una persona"
+      }
+    },
+    {
+      "id": "l038",
+      "title": {
+        "es-ES": "Carta 38. A Doña Sancha Carrillo"
+      }
+    },
+    {
+      "id": "l039",
+      "title": {
+        "es-ES": "Carta 39. A unas mujeres devotas"
+      }
+    },
+    {
+      "id": "l040",
+      "title": {
+        "es-ES": "Carta 40. A unos sus devotos"
+      }
+    },
+    {
+      "id": "l041",
+      "title": {
+        "es-ES": "Carta 41. A una señora"
+      }
+    },
+    {
+      "id": "l042",
+      "title": {
+        "es-ES": "Carta 42. A una señora"
+      }
+    },
+    {
+      "id": "l043",
+      "title": {
+        "es-ES": "Carta 43. A un devoto suyo"
+      }
+    },
+    {
+      "id": "l044",
+      "title": {
+        "es-ES": "Carta 44. A unos amigos"
+      }
+    },
+    {
+      "id": "l045",
+      "title": {
+        "es-ES": "Carta 45. A una señora"
+      }
+    },
+    {
+      "id": "l046",
+      "title": {
+        "es-ES": "Carta 46. A una señora"
+      }
+    },
+    {
+      "id": "l047",
+      "title": {
+        "es-ES": "Carta 47. A una persona"
+      }
+    },
+    {
+      "id": "l048",
+      "title": {
+        "es-ES": "Carta 48. A una doncella"
+      }
+    },
+    {
+      "id": "l049",
+      "title": {
+        "es-ES": "Carta 49. A un estudiante"
+      }
+    },
+    {
+      "id": "l050",
+      "title": {
+        "es-ES": "Carta 50. A un caballero de Córdoba"
+      }
+    },
+    {
+      "id": "l051",
+      "title": {
+        "es-ES": "Carta 51. A una persona virtuosa"
+      }
+    },
+    {
+      "id": "l052",
+      "title": {
+        "es-ES": "Carta 52. A un religioso"
+      }
+    },
+    {
+      "id": "l053",
+      "title": {
+        "es-ES": "Carta 53. A Tello de Águilar"
+      }
+    },
+    {
+      "id": "l054",
+      "title": {
+        "es-ES": "Carta 54. A unos amigos atribulados suyos"
+      }
+    },
+    {
+      "id": "l055",
+      "title": {
+        "es-ES": "Carta 55. A una doncella"
+      }
+    },
+    {
+      "id": "l056",
+      "title": {
+        "es-ES": "Carta 56. A una doncella"
+      }
+    },
+    {
+      "id": "l057",
+      "title": {
+        "es-ES": "Carta 57. A una monja"
+      }
+    },
+    {
+      "id": "l058",
+      "title": {
+        "es-ES": "Carta 58. A una monja"
+      }
+    },
+    {
+      "id": "l059",
+      "title": {
+        "es-ES": "Carta 59. A un desconsolado"
+      }
+    },
+    {
+      "id": "l060",
+      "title": {
+        "es-ES": "Carta 60. A una doncella"
+      }
+    },
+    {
+      "id": "l061",
+      "title": {
+        "es-ES": "Carta 61. A una doncella"
+      }
+    },
+    {
+      "id": "l062",
+      "title": {
+        "es-ES": "Carta 62. A una señora"
+      }
+    },
+    {
+      "id": "l063",
+      "title": {
+        "es-ES": "Carta 63. A la misma señora"
+      }
+    },
+    {
+      "id": "l064",
+      "title": {
+        "es-ES": "Carta 64. A la misma señora"
+      }
+    },
+    {
+      "id": "l065",
+      "title": {
+        "es-ES": "Carta 65. A una señora"
+      }
+    },
+    {
+      "id": "l066",
+      "title": {
+        "es-ES": "Carta 66. A una señora"
+      }
+    },
+    {
+      "id": "l067",
+      "title": {
+        "es-ES": "Carta 67. A una señora afligida"
+      }
+    },
+    {
+      "id": "l068",
+      "title": {
+        "es-ES": "Carta 68. A una señora muy afligida"
+      }
+    },
+    {
+      "id": "l069",
+      "title": {
+        "es-ES": "Carta 69. A una devota suya"
+      }
+    },
+    {
+      "id": "l070",
+      "title": {
+        "es-ES": "Carta 70. A una señora devota"
+      }
+    },
+    {
+      "id": "l071",
+      "title": {
+        "es-ES": "Carta 71. A una señora"
+      }
+    },
+    {
+      "id": "l072",
+      "title": {
+        "es-ES": "Carta 72. A una señora afligida"
+      }
+    },
+    {
+      "id": "l073",
+      "title": {
+        "es-ES": "Carta 73. A un caballero amigo suyo"
+      }
+    },
+    {
+      "id": "l074",
+      "title": {
+        "es-ES": "Carta 74. A una mujer devota"
+      }
+    },
+    {
+      "id": "l075",
+      "title": {
+        "es-ES": "Carta 75. A una señora"
+      }
+    },
+    {
+      "id": "l076",
+      "title": {
+        "es-ES": "Carta 76. A una doncella"
+      }
+    },
+    {
+      "id": "l077",
+      "title": {
+        "es-ES": "Carta 77. A una señora"
+      }
+    },
+    {
+      "id": "l078",
+      "title": {
+        "es-ES": "Carta 78. A una señora"
+      }
+    },
+    {
+      "id": "l079",
+      "title": {
+        "es-ES": "Carta 79. A una señora ilustrísima"
+      }
+    },
+    {
+      "id": "l080",
+      "title": {
+        "es-ES": "Carta 80. A una señora en navidad"
+      }
+    },
+    {
+      "id": "l081",
+      "title": {
+        "es-ES": "Carta 81. A una persona escrupulosa"
+      }
+    },
+    {
+      "id": "l082",
+      "title": {
+        "es-ES": "Carta 82. Para el P. Antonio de Córdoba, de la Compañía de Jesús"
+      }
+    },
+    {
+      "id": "l083",
+      "title": {
+        "es-ES": "Carta 83. A Teresa de Jesús"
+      }
+    },
+    {
+      "id": "l084",
+      "title": {
+        "es-ES": "Carta 84. A una monja, hija suya espiritual"
+      }
+    },
+    {
+      "id": "l085",
+      "title": {
+        "es-ES": "Carta 85. A un predicador"
+      }
+    },
+    {
+      "id": "l086",
+      "title": {
+        "es-ES": "Carta 86. A un discípulo sacerdote"
+      }
+    },
+    {
+      "id": "l087",
+      "title": {
+        "es-ES": "Carta 87. Para una religiosa, hija suya espiritual"
+      }
+    },
+    {
+      "id": "l088",
+      "title": {
+        "es-ES": "Carta 88. Para Torreblanca"
+      }
+    },
+    {
+      "id": "l089",
+      "title": {
+        "es-ES": "Carta 89. A don Pedro Guerrero"
+      }
+    },
+    {
+      "id": "l090",
+      "title": {
+        "es-ES": "Carta 90. A don Pedro Guerrero, arzobispo de Granada"
+      }
+    },
+    {
+      "id": "l091",
+      "title": {
+        "es-ES": "Carta 91. A don Cristóbal de Rojas y Sandoval, obispo de Córdoba"
+      }
+    },
+    {
+      "id": "l092",
+      "title": {
+        "es-ES": "Carta 92. Al obispo de Córdoba, presidente del Concilio"
+      }
+    },
+    {
+      "id": "l093",
+      "title": {
+        "es-ES": "Carta 93. A la muy ilustre señora la condesa de Feria"
+      }
+    },
+    {
+      "id": "l094",
+      "title": {
+        "es-ES": "Carta 94. A San Ignacio de Loyola"
+      }
+    },
+    {
+      "id": "l095",
+      "title": {
+        "es-ES": "Carta 95. Al P. Diego Laínez"
+      }
+    },
+    {
+      "id": "l096",
+      "title": {
+        "es-ES": "Carta 96. A San Francisco de Borja"
+      }
+    },
+    {
+      "id": "l097",
+      "title": {
+        "es-ES": "Carta 97. A San Francisco de Borja"
+      }
+    },
+    {
+      "id": "l098",
+      "title": {
+        "es-ES": "Carta 98. Al Padre Martín Gutiérrez"
+      }
+    },
+    {
+      "id": "l099",
+      "title": {
+        "es-ES": "Carta 99. A un hijo espiritual"
+      }
+    },
+    {
+      "id": "l100",
+      "title": {
+        "es-ES": "Carta 100. A un sacerdote"
+      }
+    }
+  ]
+}
