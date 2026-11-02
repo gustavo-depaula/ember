@@ -1,0 +1,3 @@
+# Turtur solitarius
+
+Turtur gemebunde: attende desiderator vitae solitariae et castitatis amator aeternae. Quando te subtrahis a tumultibus hominum, orando meditando studendo: tunc appropinquas caelestibus choris angelorum; et recedent a te impetus daemonum et imagines turpium idolorum: omhiumque nocentium monstra vitiorum. Nemo tam quiete vivit in congregatione, tam laetanter ex hoc mundo transit; sicut verus oboediens, o mitis et humilis corde, renuntians perfecte omni propriae voluntati: subditus Deo et hominibus propter Deum ex virtute sine mora. Magna virtus magna gratia: vincere se ipsum et mori omni hora. Dura pugna: sed gloriosa et aeterna praemia reddentur pro victoria consummata.

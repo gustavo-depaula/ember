@@ -1,0 +1,3 @@
+# Simplicianus indoctus
+
+[...] et lauda Deum frater Simpliciane; quoniam reliquisti prudentiam huius saeculi et fallacias diadiaboli cum nundinis suis: et curas terrenas suas longe abiecisti. Gratias age quia meruisti audire veri Salomonis sapientiam Domini nostri Iesu Christi: in sua humilitate et mansuetudine. Disce frangere propriam voluntatem et carnis vincere voluptatem: et cotidie certa contra diaboli impugnationem et cordis evagationem. Sta firmiter, pugna viriliter: noli recedere a certaminis loco et bono consortio; quia tecum est Dominus Deus stuus et angeli eius: ante quorum conspectum fugiet cito spiritus malignus tamquam fumus a vento repulsus.

@@ -1,0 +1,3 @@
+# Lazarus infirmus
+
+[...] in Domino frater Lazare qui NSS multis vulneribus modo repleris; quia tibi praeparatur aeterna requies pro modico vili cibo male parato: et pro brevi dolore in corpore sustentato. Pro micis tibi negatis habebis splendidas epulas in convivio caelestis Regis: et comedes semper panem caeli de mensa Iesu Christi in regno Patris sui. Pro vulneribus tibi inflictis habebis coronam smirae pulchritudinis: ornatam floribus immensae suavitatis. Pro canibus lingentibus vulnera tua, habebis angelos tibi servientes in laetitia magna: laudafites Deum pro tua multiplici inopia et benigna patientia.
