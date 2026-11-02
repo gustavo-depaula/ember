@@ -1,0 +1,243 @@
+{
+  "id": "challoner-think-well-ont",
+  "cover": "classic",
+  "name": {
+    "en-US": "Think Well On't",
+    "pt-BR": "Pensa Bem Nisto"
+  },
+  "author": {
+    "en-US": "Bp. Richard Challoner",
+    "pt-BR": "D. Richard Challoner"
+  },
+  "description": {
+    "en-US": "Think Well On't, or Reflections on the great truths of the Christian religion for every day of the month (1728), Challoner's first and most reprinted devotional book: thirty-one days of short considerations on death, judgment, hell, heaven, the mercies of God and the Passion, with directions for the use of the considerations, rules for a Christian life and a short treatise on the life of faith.",
+    "pt-BR": "Think Well On't — Reflexões sobre as grandes verdades da religião cristã para cada dia do mês (1728), o primeiro e mais reimpresso livro devocional de Challoner: trinta e um dias de breves considerações sobre a morte, o juízo, o inferno, o céu, as misericórdias de Deus e a Paixão, com instruções para o uso das considerações, regras de vida cristã e um breve tratado sobre a vida de fé."
+  },
+  "composed": 1728,
+  "languages": [
+    "en-US"
+  ],
+  "work": "challoner/think-well-ont",
+  "editions": {
+    "en-US": {
+      "editor": "Bp. Richard Challoner (1801 edition, as transcribed on Wikisource)",
+      "year": 1801
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://en.wikisource.org/wiki/Think_Well_On't",
+      "edition": "Think Well On't, or Reflections on the great truths of the Christian religion for every day of the month (1801 edition), Wikisource transcription of Thinkwellonit.pdf.",
+      "description": "The thirty-one days, the directions, the rules for a Christian life and the Life of Faith. The days follow the book's own headings; the Wikisource page boundaries are not kept. The 1801 scan at archive.org (thinkwellontorre00chaluoft) was not needed. The text is the Wikisource volunteer transcription; the editors' markup and page numbers are dropped. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Bp. Richard Challoner died in 1781 and the edition is of 1801, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "directions",
+      "title": {
+        "en-US": "Directions for the Use of the Considerations"
+      }
+    },
+    {
+      "id": "day-01",
+      "title": {
+        "en-US": "The First Day: On the Necessity of Consideration"
+      }
+    },
+    {
+      "id": "day-02",
+      "title": {
+        "en-US": "The Second Day: On the end of our creation"
+      }
+    },
+    {
+      "id": "day-03",
+      "title": {
+        "en-US": "The Third Day: On the benefits of God"
+      }
+    },
+    {
+      "id": "day-04",
+      "title": {
+        "en-US": "The Fourth Day: On the dignity and obligations of a Christian"
+      }
+    },
+    {
+      "id": "day-05",
+      "title": {
+        "en-US": "The Fifth Day: On the Vanity of the world"
+      }
+    },
+    {
+      "id": "day-06",
+      "title": {
+        "en-US": "The Sixth Day: On the happiness of serving God"
+      }
+    },
+    {
+      "id": "day-07",
+      "title": {
+        "en-US": "The Seventh Day: On death"
+      }
+    },
+    {
+      "id": "day-08",
+      "title": {
+        "en-US": "The Eighth Day: On the sentiments we shall have at the hour of our death"
+      }
+    },
+    {
+      "id": "day-09",
+      "title": {
+        "en-US": "The Ninth Day: On the particular judgment after death"
+      }
+    },
+    {
+      "id": "day-10",
+      "title": {
+        "en-US": "The Tenth Day: On the great accounting day"
+      }
+    },
+    {
+      "id": "day-11",
+      "title": {
+        "en-US": "The Eleventh Day: On the general judgment"
+      }
+    },
+    {
+      "id": "day-12",
+      "title": {
+        "en-US": "The Twelfth Day: On the last sentence of the good and bad"
+      }
+    },
+    {
+      "id": "day-13",
+      "title": {
+        "en-US": "The Thirteenth Day: On hell"
+      }
+    },
+    {
+      "id": "day-14",
+      "title": {
+        "en-US": "The Fourteenth Day: On the exterior pains of hell"
+      }
+    },
+    {
+      "id": "day-15",
+      "title": {
+        "en-US": "The Fifteenth Day: On the interior pains of hell"
+      }
+    },
+    {
+      "id": "day-16",
+      "title": {
+        "en-US": "The Sixteenth Day: On a miserable eternity"
+      }
+    },
+    {
+      "id": "day-17",
+      "title": {
+        "en-US": "The Seventeenth Day: On heaven"
+      }
+    },
+    {
+      "id": "day-18",
+      "title": {
+        "en-US": "The Eighteenth Day: On the small Number of the Elect"
+      }
+    },
+    {
+      "id": "day-19",
+      "title": {
+        "en-US": "The Nineteenth Day: On mortal sin"
+      }
+    },
+    {
+      "id": "day-20",
+      "title": {
+        "en-US": "The Twentieth Day: On the relapsing sinner"
+      }
+    },
+    {
+      "id": "day-21",
+      "title": {
+        "en-US": "The Twenty-first Day: On doing penance for our sins"
+      }
+    },
+    {
+      "id": "day-22",
+      "title": {
+        "en-US": "The Twenty-second Day: Against delay of repentance"
+      }
+    },
+    {
+      "id": "day-23",
+      "title": {
+        "en-US": "The Twenty-third Day: On time and eternity"
+      }
+    },
+    {
+      "id": "day-24",
+      "title": {
+        "en-US": "The Twenty-fourth Day: On the presence of God"
+      }
+    },
+    {
+      "id": "day-25",
+      "title": {
+        "en-US": "The Twenty-fifth Day"
+      }
+    },
+    {
+      "id": "day-26",
+      "title": {
+        "en-US": "The Twenty-sixth Day: On our Saviour in the court of Caiphas"
+      }
+    },
+    {
+      "id": "day-27",
+      "title": {
+        "en-US": "The Twenty-seventh Day: Our Saviour is brought before Pilate and Herod"
+      }
+    },
+    {
+      "id": "day-28",
+      "title": {
+        "en-US": "The Twenty-eighth Day: Our Saviour is scouraged at the Pillar and crowned with Thorns"
+      }
+    },
+    {
+      "id": "day-29",
+      "title": {
+        "en-US": "The Twenty-ninth Day: Our Saviour carries his Cross, and is nailed to it"
+      }
+    },
+    {
+      "id": "day-30",
+      "title": {
+        "en-US": "The Thirtieth Day: Our Saviour on the cross"
+      }
+    },
+    {
+      "id": "day-31",
+      "title": {
+        "en-US": "The Thirty-first Day: On the Death of our Saviour"
+      }
+    },
+    {
+      "id": "rules",
+      "title": {
+        "en-US": "Rules for a Christian Life"
+      }
+    },
+    {
+      "id": "life-of-faith",
+      "title": {
+        "en-US": "The Life of Faith"
+      }
+    }
+  ]
+}

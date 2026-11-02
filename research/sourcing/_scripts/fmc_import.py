@@ -170,7 +170,7 @@ def emit(root, cid, title, paras, fnstate, n0):
     open('%s/en-US/%s.md' % (root, cid), 'w').write(md)
     return len(md.split())
 def write_book(cfg, root, toc, words, nn, all_lines):
-    open(root + '/sources/en-US-originals/%s-ia.txt' % cfg['slug'], 'w').write('\n'.join(all_lines[cfg['start'] - 1:cfg['end'] - 1]))
+    if len(all_lines) > 1: open(root + '/sources/en-US-originals/%s-ia.txt' % cfg['slug'], 'w').write('\n'.join(all_lines[cfg['start'] - 1:cfg['end'] - 1]))
     book = {'id': cfg['id'], 'cover': 'classic',
             'name': {'en-US': cfg['name'], 'pt-BR': cfg['name_pt']},
             'author': {'en-US': cfg['author'], 'pt-BR': cfg['author_pt']},
@@ -178,7 +178,7 @@ def write_book(cfg, root, toc, words, nn, all_lines):
             'composed': cfg['composed'], 'languages': ['en-US'], 'work': cfg['work'],
             'editions': {'en-US': {'editor': cfg['editor'], 'year': cfg['year']}},
             'sources': [{'language': 'en-US', 'url': cfg['url'], 'edition': cfg['edition'],
-                         'description': cfg.get('srcnote', '') + ' Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.',
+                         'description': cfg['srcfull'] if cfg.get('srcfull') else cfg.get('srcnote', '') + ' Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.',
                          'tier': 'A', 'tierEvidence': '%s died in %d and the edition is of %d, so the text is public domain.' % (cfg['author'], cfg['died'], cfg['year'])}],
             'toc': toc}
     json.dump(book, open(root + '/book.json', 'w'), ensure_ascii=False, indent=2); open(root + '/book.json', 'a').write('\n')
@@ -302,10 +302,11 @@ def main():
             'composed': cfg['composed'], 'languages': ['en-US'], 'work': cfg['work'],
             'editions': {'en-US': {'editor': cfg['editor'], 'year': cfg['year']}},
             'sources': [{'language': 'en-US', 'url': cfg['url'], 'edition': cfg['edition'],
-                         'description': cfg.get('srcnote', '') + ' Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.',
+                         'description': cfg['srcfull'] if cfg.get('srcfull') else cfg.get('srcnote', '') + ' Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.',
                          'tier': 'A', 'tierEvidence': '%s died in %d and the edition is of %d, so the text is public domain.' % (cfg['author'], cfg['died'], cfg['year'])}],
             'toc': toc}
     json.dump(book, open(root + '/book.json', 'w'), ensure_ascii=False, indent=2); open(root + '/book.json', 'a').write('\n')
     nfiles = len(os.listdir(root + '/en-US'))
     print('\n'.join(warn)); print(root, nfiles, 'files', words, 'words;', fnstate['n'], 'footnotes')
-main()
+if __name__ == "__main__":
+    main()
