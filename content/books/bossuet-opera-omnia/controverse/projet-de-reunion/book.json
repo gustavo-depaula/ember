@@ -1,0 +1,144 @@
+{
+  "id": "bossuet-projet-de-reunion",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Projet de réunion des protestants à l’Église catholique",
+    "en-US": "Plan for the Reunion of the Protestants with the Catholic Church",
+    "pt-BR": "Projeto de reunião dos protestantes com a Igreja católica"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Pièces et lettres des tentatives de réunion : avec les protestants de France (correspondance avec le ministre Ferry, 1660-1667) et d’Allemagne (Molanus, Leibniz, 1683-1701), le Projet de réunion, les Règles, les Réflexions sur l’écrit de Molanus et les cinquante-deux lettres échangées avec Leibniz. Édition Lachat (1864).",
+    "en-US": "Documents and letters of the attempts at reunion: with the Protestants of France (correspondence with the minister Ferry, 1660-67) and of Germany (Molanus and Leibniz, 1683-1701), the Plan of Reunion, the Rules, the Reflections on Molanus’s paper and the fifty-two letters exchanged with Leibniz. Lachat edition (1864).",
+    "pt-BR": "Peças e cartas das tentativas de reunião: com os protestantes da França (correspondência com o ministro Ferry, 1660-1667) e da Alemanha (Molanus, Leibniz, 1683-1701), o Projeto de reunião, as Regras, as Reflexões sobre o escrito de Molanus e as cinquenta e duas cartas trocadas com Leibniz. Edição Lachat (1864)."
+  },
+  "composed": "1691",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/projet-de-reunion",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume017/008.htm to volume018/008.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XVII, pages 008-011, and volume XVIII, pages 001-008. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "france",
+      "title": {
+        "fr-FR": "Projet de réunion avec les protestants de France"
+      },
+      "children": [
+        {
+          "id": "france-recueil",
+          "title": {
+            "fr-FR": "Recueil de lettres et de pièces concernant un projet de réunion des protestants de France à l’Église catholique"
+          }
+        }
+      ]
+    },
+    {
+      "id": "allemagne",
+      "title": {
+        "fr-FR": "Projet de réunion avec les protestants d’Allemagne : les dissertations"
+      },
+      "children": [
+        {
+          "id": "premiere-partie-dissertations",
+          "title": {
+            "fr-FR": "Recueil de dissertations et de lettres sur un projet de réunion des protestants d’Allemagne : première partie, les dissertations"
+          }
+        },
+        {
+          "id": "regles",
+          "title": {
+            "fr-FR": "Règles touchant la réunion générale des chrétiens"
+          }
+        },
+        {
+          "id": "projet-de-reunion",
+          "title": {
+            "fr-FR": "Projet de réunion"
+          }
+        },
+        {
+          "id": "reflexions-sur-molanus",
+          "title": {
+            "fr-FR": "Réflexions de Monsieur l’évêque de Meaux sur l’écrit de M. l’abbé Molanus"
+          }
+        },
+        {
+          "id": "nouvelle-explication",
+          "title": {
+            "fr-FR": "Nouvelle explication de la méthode qu’on doit suivre pour parvenir à la réunion des Églises"
+          }
+        },
+        {
+          "id": "resultat-controverse",
+          "title": {
+            "fr-FR": "Résultat d’une controverse touchant l’Eucharistie, et jugement sur ce résultat"
+          }
+        },
+        {
+          "id": "sentence-observations",
+          "title": {
+            "fr-FR": "Sentence exécutoire du concile de Bâle, et observations de M. de Leibniz"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lettres",
+      "title": {
+        "fr-FR": "Projet de réunion avec les protestants d’Allemagne : la correspondance avec Leibniz"
+      },
+      "children": [
+        {
+          "id": "lettres-1-10",
+          "title": {
+            "fr-FR": "Lettres I-X"
+          }
+        },
+        {
+          "id": "lettres-11-30",
+          "title": {
+            "fr-FR": "Lettres XI-XXX"
+          }
+        },
+        {
+          "id": "lettres-31-46",
+          "title": {
+            "fr-FR": "Lettres XXXI-XLVI"
+          }
+        },
+        {
+          "id": "lettres-47-48",
+          "title": {
+            "fr-FR": "Lettres XLVII-XLVIII"
+          }
+        },
+        {
+          "id": "lettres-49-52",
+          "title": {
+            "fr-FR": "Lettres XLIX-LII"
+          }
+        }
+      ]
+    }
+  ]
+}
