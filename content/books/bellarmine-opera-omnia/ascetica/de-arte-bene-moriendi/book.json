@@ -1,0 +1,311 @@
+{
+  "id": "bellarmine-de-arte-bene-moriendi",
+  "cover": "classic",
+  "name": {
+    "la": "De arte bene moriendi",
+    "en-US": "The Art of Dying Well",
+    "pt-BR": "A arte de bem morrer"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Duo libri: praecepta vitae bene ducendae ut bene moriatur homo, et de adjumentis in extremo (1620).",
+    "en-US": "Two books on the art of dying well: how to live so as to die well, and the help of the sacraments and prayer at the end (1620). The Latin is the Vivès edition (1870-74) from an OCR scan; John Dalton's English of 1847 gives the first book only.",
+    "pt-BR": "Dois livros sobre a arte de bem morrer (1620)."
+  },
+  "composed": "1620",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "work": "bellarmine/de-arte-bene-moriendi",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    },
+    "en-US": {
+      "translator": "John Dalton",
+      "year": 1847
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia08bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 8 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/theartofdyingwel00belluoft",
+      "edition": "The Art of Dying Well, trans. John Dalton (London, 1847): the first book only (sixteen chapters).",
+      "description": "Archive.org OCR (djvu.txt): page heads removed, lines rejoined; a few chapter-opening letters lost to drop caps and some words split at line ends remain.",
+      "tier": "A",
+      "tierEvidence": "Published before 1928; public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "b1",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "b1c01",
+          "title": {
+            "la": "Caput I. De primo praecepto artis bene moriendi, quod est, ut qui cupit bene mori bene vivat",
+            "en-US": "Chapter 1. He Who Desires to Die Well, Must Live Well"
+          }
+        },
+        {
+          "id": "b1c02",
+          "title": {
+            "la": "Caput II. De secundo praecepto artis bene moriendi, quod est, mori mundo",
+            "en-US": "Chapter 2. The Second Precept, Which Is, to Die to the World."
+          }
+        },
+        {
+          "id": "b1c03",
+          "title": {
+            "la": "Caput III. De tertio praecepto artis bene moriendi, quod est, de tribus virtutibus theologicis",
+            "en-US": "Chapter 3. The Third Precept, Which Is Concerning the Three Theological Virtues."
+          }
+        },
+        {
+          "id": "b1c04",
+          "title": {
+            "la": "Caput IV. De quarto praecepto artis bene moriendi, quod continet tria documenta Evangelica",
+            "en-US": "Chapter 4. The Fourth Precept, Containing Three Evangelical Counsels."
+          }
+        },
+        {
+          "id": "b1c05",
+          "title": {
+            "la": "Caput V. De quinto praecepto artis bene moriendi in quo detegitur error divilum hujus mundi",
+            "en-US": "Chapter 5. The Fifth Precept, in Which the De Ceitful Error of the Rich of This World Is Exposed."
+          }
+        },
+        {
+          "id": "b1c06",
+          "title": {
+            "la": "Caput VI. De praecepto sexto artis bene moriendi quo explicantur tres virtutes morales",
+            "en-US": "Chapter 6. The Sixth Precept, in Which Three Moral Virtues Are Explained."
+          }
+        },
+        {
+          "id": "b1c07",
+          "title": {
+            "la": "Caput VII. De septimo praecepto artis bene moriendi, quod est de oratione",
+            "en-US": "Chapter 7. The Seventh Precept, Which Is on Prayer."
+          }
+        },
+        {
+          "id": "b1c08",
+          "title": {
+            "la": "Caput VIII. De octavo praecepto artis bene moriendi, quod est de jejunio",
+            "en-US": "Chapter 8. The Eighth Precept, on Fasting."
+          }
+        },
+        {
+          "id": "b1c09",
+          "title": {
+            "la": "Caput IX. De nono prsecepto artis bene moriendi, quod est de eleemosyna",
+            "en-US": "Chapter 9. Ti1e Ntxtii Precept, Ox Almsdeeds."
+          }
+        },
+        {
+          "id": "b1c10",
+          "title": {
+            "la": "Caput X. De decimo praecepto artis bene moriendi, quod est de sacramento Baptismi",
+            "en-US": "Caput X. De decimo praecepto artis bene moriendi, quod est de sacramento Baptismi"
+          }
+        },
+        {
+          "id": "b1c11",
+          "title": {
+            "la": "Caput XI. De praecepto undecimo artis bene moriendi, quod est de Confirmatione",
+            "en-US": "Chapter 11. On Confirmation."
+          }
+        },
+        {
+          "id": "b1c12",
+          "title": {
+            "la": "Caput XII. De duodecimo praecepto artis bene moriendi, quod est de Eucharistia",
+            "en-US": "Chapter 12. On the Holy Eucharist."
+          }
+        },
+        {
+          "id": "b1c13",
+          "title": {
+            "la": "Caput XIII. De praecepto tertio decimo artis bene moriendi, quod est de Poenitentia",
+            "en-US": "Chapter 13. On Tiie Sacrament of Penance."
+          }
+        },
+        {
+          "id": "b1c14",
+          "title": {
+            "la": "Caput XIV. De praecepto quarto decimo artis bene moriendi, quod est de Sacramento Ordinis",
+            "en-US": "Chapter 14. ;tiie Fourteenth Precept, on the Sacrament of Holy Orders."
+          }
+        },
+        {
+          "id": "b1c15",
+          "title": {
+            "la": "Caput XV. De quinto decimo praecepto artis bene moriendi, quod continet tria documenta Evangelica",
+            "en-US": "Chapter 15. The Fifteenth Precept, on Matrimony."
+          }
+        },
+        {
+          "id": "b1c16",
+          "title": {
+            "la": "Caput XVI. De sexto decimo praecepto artis bene mordendi, quod est de Sacramento Unctionis extremae",
+            "en-US": "Chapter 16. The Sixteenth Precept, on the Sacra Ment of Extreme Unction"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "b2c01",
+          "title": {
+            "la": "Caput I. De primo praecepto artis bene moriendi vicina jam morte, quod est de meditatione mortis",
+            "en-US": "Caput I. De primo praecepto artis bene moriendi vicina jam morte, quod est de meditatione mortis"
+          }
+        },
+        {
+          "id": "b2c02",
+          "title": {
+            "la": "Caput II. De secundo praecepto artis bene moriendi vicina jam morte, quod est de judicio extremo",
+            "en-US": "Caput II. De secundo praecepto artis bene moriendi vicina jam morte, quod est de judicio extremo"
+          }
+        },
+        {
+          "id": "b2c03",
+          "title": {
+            "la": "Caput III. De tertio praecepto artis bene moriendi, vicina jam morte, quod est de gehenna",
+            "en-US": "Caput III. De tertio praecepto artis bene moriendi, vicina jam morte, quod est de gehenna"
+          }
+        },
+        {
+          "id": "b2c04",
+          "title": {
+            "la": "Caput IV. De quarto praecepto artis bene' moriendi, vicina jam morte, quod est de gloria beatorum",
+            "en-US": "Caput IV. De quarto praecepto artis bene' moriendi, vicina jam morte, quod est de gloria beatorum"
+          }
+        },
+        {
+          "id": "b2c05",
+          "title": {
+            "la": "Caput V. De quinto praecepto artis bene moriendi, vicina jam morte, quod est de testamento condendo",
+            "en-US": "Caput V. De quinto praecepto artis bene moriendi, vicina jam morte, quod est de testamento condendo"
+          }
+        },
+        {
+          "id": "b2c06",
+          "title": {
+            "la": "Caput VI. De sexto prxcepto artis bene moriendi, vicina jam morte, quod de confessione peccatorum",
+            "en-US": "Caput VI. De sexto prxcepto artis bene moriendi, vicina jam morte, quod de confessione peccatorum"
+          }
+        },
+        {
+          "id": "b2c07",
+          "title": {
+            "la": "Caput VII. De septimo praecepto artis bene moriendi, vicina jam morte, quod est de sacrosancto",
+            "en-US": "Caput VII. De septimo praecepto artis bene moriendi, vicina jam morte, quod est de sacrosancto"
+          }
+        },
+        {
+          "id": "b2c08",
+          "title": {
+            "la": "Caput VIII. De octavo prxceplo artis bene moriendi, vicina jam morte, quod est de Unctione",
+            "en-US": "Caput VIII. De octavo prxceplo artis bene moriendi, vicina jam morte, quod est de Unctione"
+          }
+        },
+        {
+          "id": "b2c09",
+          "title": {
+            "la": "Caput IX. De nono prsecepto artis bene moriendi, vicina jam morte, quod est de prima tentatione",
+            "en-US": "Caput IX. De nono prsecepto artis bene moriendi, vicina jam morte, quod est de prima tentatione"
+          }
+        },
+        {
+          "id": "b2c10",
+          "title": {
+            "la": "Caput X. De decimo praecepto artis bene moriendi, vicina jam morte, quod est de secunda tentatione, id est, de desperatione",
+            "en-US": "Caput X. De decimo praecepto artis bene moriendi, vicina jam morte, quod est de secunda tentatione, id est, de desperatione"
+          }
+        },
+        {
+          "id": "b2c11",
+          "title": {
+            "la": "Caput XI. De undecimo praecepto artis bene moriendi, vicina jam morte, quod est de tertia tentatione, id est, de odio Dei",
+            "en-US": "Caput XI. De undecimo praecepto artis bene moriendi, vicina jam morte, quod est de tertia tentatione, id est, de odio Dei"
+          }
+        },
+        {
+          "id": "b2c12",
+          "title": {
+            "la": "Caput XII. De duodecimo praecepto artis bene moriendi, vicina jam morte, quod est de remedio primo adversus tentationes Diaboli",
+            "en-US": "Caput XII. De duodecimo praecepto artis bene moriendi, vicina jam morte, quod est de remedio primo adversus tentationes Diaboli"
+          }
+        },
+        {
+          "id": "b2c13",
+          "title": {
+            "la": "Caput XIII. De tertio decimo praecepto artis bene moriendi, vicina jam morte, quod est de secundo remedio adversus tentationes Diaboli",
+            "en-US": "Caput XIII. De tertio decimo praecepto artis bene moriendi, vicina jam morte, quod est de secundo remedio adversus tentationes Diaboli"
+          }
+        },
+        {
+          "id": "b2c14",
+          "title": {
+            "la": "Caput XIV. De quarto decimo praecepto artis bene moriendi., vicina jam morte, quod est de iis, qui non ex consueto morbo, sed ex alia causa moriuntur",
+            "en-US": "Caput XIV. De quarto decimo praecepto artis bene moriendi., vicina jam morte, quod est de iis, qui non ex consueto morbo, sed ex alia causa moriuntur"
+          }
+        },
+        {
+          "id": "b2c15",
+          "title": {
+            "la": "Caput XV. De felici morte eorum, qui artem bene moriendi didicerunt",
+            "en-US": "Caput XV. De felici morte eorum, qui artem bene moriendi didicerunt"
+          }
+        },
+        {
+          "id": "b2c16",
+          "title": {
+            "la": "Caput XVI. De infelici morte eorum, qui artem bene moriendi discere neglexerunt",
+            "en-US": "Caput XVI. De infelici morte eorum, qui artem bene moriendi discere neglexerunt"
+          }
+        },
+        {
+          "id": "b2c17",
+          "title": {
+            "la": "Caput XVII. Summa lotius artis bene moriendi",
+            "en-US": "Caput XVII. Summa lotius artis bene moriendi"
+          }
+        }
+      ]
+    }
+  ]
+}
