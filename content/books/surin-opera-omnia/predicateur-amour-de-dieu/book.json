@@ -1,0 +1,590 @@
+{
+  "id": "surin-predicateur-amour-de-dieu",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Le Prédicateur de l’amour de Dieu",
+    "en-US": "The Preacher of the Love of God",
+    "pt-BR": "O pregador do amor de Deus"
+  },
+  "author": {
+    "fr-FR": "Jean-Joseph Surin",
+    "en-US": "Jean-Joseph Surin",
+    "pt-BR": "Jean-Joseph Surin"
+  },
+  "description": {
+    "fr-FR": "Ouvrage posthume attribué au P. Jean-Joseph Surin, S.J. (1600-1665) : les Questions sur l’amour de Dieu, en deux livres de questions et réponses sur le pur amour (chacune suivie d’un « coup d’œil sur les dispositions de son cœur », affections de l’éditeur), puis un mois de degrés pour s’élever à un grand amour de Dieu, des avis salutaires et trente entretiens du chrétien en oraison avec Jésus-Christ, extraits des autres écrits de Surin et mêlés de pages de François de Sales et de Jean de la Croix. Le style a été retouché par l’éditeur. Nouvelle édition de 1824, qui rétablit le chapitre supprimé par la censure impériale.",
+    "en-US": "A posthumous work attributed to Fr. Jean-Joseph Surin, S.J. (1600-1665): the Questions on the Love of God, two books of questions and answers on pure love (each followed by a “glance at the dispositions of one’s heart”, affections added by the editor), then a month of steps to rise to great love of God, salutary counsels and thirty colloquies of the Christian at prayer with Jesus Christ, drawn from Surin’s other writings and mixed with pages of Francis de Sales and John of the Cross. The editor retouched the style. The new edition of 1824, which restores the chapter suppressed by the imperial censors.",
+    "pt-BR": "Obra póstuma atribuída ao P. Jean-Joseph Surin, S.J. (1600-1665): as Questões sobre o amor de Deus, em dois livros de perguntas e respostas sobre o puro amor (cada uma seguida de um « olhar sobre as disposições do coração », afetos acrescentados pelo editor), depois um mês de degraus para subir a um grande amor de Deus, avisos salutares e trinta colóquios do cristão em oração com Jesus Cristo, tirados dos outros escritos de Surin e entremeados de páginas de Francisco de Sales e de João da Cruz. O editor retocou o estilo. Edição nova de 1824."
+  },
+  "composed": "c. 1660",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "surin/predicateur-amour-de-dieu",
+  "editions": {
+    "fr-FR": {
+      "editor": "Anonymous editor (Paris: Méquignon junior / Lyon: Périsse frères, “nouvelle édition”)",
+      "year": 1824
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/leprdicateurde00suri",
+      "edition": "Le Prédicateur de l’amour de Dieu, ouvrage posthume du Père Surin, à la suite duquel on trouve ce que recommandent sainte Thérèse, saint Jean de la Croix et saint François de Sales; nouvelle édition, Paris: Méquignon junior / Lyon: Périsse frères, 1824. Internet Archive scan, OCR text.",
+      "description": "The Grand motif and the address To those who wish to love God, the two books of Questions and answers (10 and 13 chapters, each with its Coup-d’œil), Book III (31 days), the Avis salutaires et sentiments affectueux (three groups) and the thirty Entretiens of the Chrétien en oraison. The table of contents and the printer’s matter are left out. Running heads stripped; chapter titles tidied by hand; the dropped initials of some chapters restored. Entretiens XXI and XXVI lost their headings in the OCR and their starts are inferred from the usual length of an entretien (a few lines may be misplaced); OCR slips remain (about 2% of words).",
+      "tier": "A",
+      "tierEvidence": "Surin died in 1665; the 1824 Paris edition is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "avertissement",
+      "title": {
+        "fr-FR": "À ceux qui veulent aimer Dieu"
+      }
+    },
+    {
+      "id": "livre-1",
+      "title": {
+        "fr-FR": "Questions sur l’amour de Dieu, livre I"
+      },
+      "children": [
+        {
+          "id": "l1-c01",
+          "title": {
+            "fr-FR": "Livre I, chapitre I. De l’Amour de Dieu pur et parfait"
+          }
+        },
+        {
+          "id": "l1-c02",
+          "title": {
+            "fr-FR": "Livre I, chapitre II. Explication de ces paroles de Saint Paul : Le Saint-Esprit rend témoignage à notre esprit , que nous sommes les enfans de Dieu"
+          }
+        },
+        {
+          "id": "l1-c03",
+          "title": {
+            "fr-FR": "Livre I, chapitre III. De la manière de diriger son intention , pour maintenir een soi la pratique du pur amour de Dieu"
+          }
+        },
+        {
+          "id": "l1-c04",
+          "title": {
+            "fr-FR": "Livre I, chapitre IV. Réponses aux objections qu’on peut faire contre cette Doctrine"
+          }
+        },
+        {
+          "id": "l1-c05",
+          "title": {
+            "fr-FR": "Livre I, chapitre V. De la manière d’exécuter la pratique de ne vouloir que Dieu, et de ne se remplir que de lui"
+          }
+        },
+        {
+          "id": "l1-c06",
+          "title": {
+            "fr-FR": "Livre I, chapitre VI. De la manière d’aimer les créatures , sans préjudicier à cette totalité d’amour pour Dieu"
+          }
+        },
+        {
+          "id": "l1-c07",
+          "title": {
+            "fr-FR": "Livre I, chapitre VII. D’une excellente méthode pour arriver à cette totalité d’amour qui n’envisage que Dieu"
+          }
+        },
+        {
+          "id": "l1-c08",
+          "title": {
+            "fr-FR": "Livre I, chapitre VIII. Point de très-grande conséquence , que doivent observer les âmes qui tendent à cette pureté d’amour"
+          }
+        },
+        {
+          "id": "l1-c09",
+          "title": {
+            "fr-FR": "Livre I, chapitre IX. Que c’est le propre des parfaits , non de renoncer aux vertus , mais de les consommer par la charité"
+          }
+        },
+        {
+          "id": "l1-c10",
+          "title": {
+            "fr-FR": "Livre I, chapitre X. D\\ne tentation fort ordinaire à plusieurs serviteurs de Dieu"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-2",
+      "title": {
+        "fr-FR": "Questions sur l’amour de Dieu, livre II"
+      },
+      "children": [
+        {
+          "id": "l2-c01",
+          "title": {
+            "fr-FR": "Livre II, chapitre I. Du mojert d’acquérir ta facilité de faire tout uniquement pour Dieu"
+          }
+        },
+        {
+          "id": "l2-c02",
+          "title": {
+            "fr-FR": "Livre II, chapitre II. C’est par la vole de C Amour parfait que Dieu purifie le cœur humain de tous les vices"
+          }
+        },
+        {
+          "id": "l2-c03",
+          "title": {
+            "fr-FR": "Livre II, chapitre III. // suit de là que le plus grand secret de la Fie spirituelle , est d’avoir de la force pour se mortifier"
+          }
+        },
+        {
+          "id": "l2-c04",
+          "title": {
+            "fr-FR": "Livre II, chapitre IV. Des choses qui donnent de la force pour se mortifier"
+          }
+        },
+        {
+          "id": "l2-c05",
+          "title": {
+            "fr-FR": "Livre II, chapitre V. Des excellons fruits de la pratique de chercher Dieu en tout. Du premier fruit qui est un entier mépris de soi-même"
+          }
+        },
+        {
+          "id": "l2-c06",
+          "title": {
+            "fr-FR": "Livre II, chapitre VI. Du second fruit de l’Amour parfait, qui est d’être indifférent à tout"
+          }
+        },
+        {
+          "id": "l2-c07",
+          "title": {
+            "fr-FR": "Livre II, chapitre VII. Du troisième fruit de l’Amour divin , qui est Camour des mépris"
+          }
+        },
+        {
+          "id": "l2-c08",
+          "title": {
+            "fr-FR": "Livre II, chapitre VIII. Delà quatrième disposition que donne l’Amour parfait , qui est le total abandon , et la perte de soi-même , entre les mains de Dieu dans les événeniens les moins attendus , et les plus coûteux à la nature"
+          }
+        },
+        {
+          "id": "l2-c09",
+          "title": {
+            "fr-FR": "Livre II, chapitre IX. Jusqu’à quel degré s’étend cette pratique de chercher Dieu en tout , et comment DteU la consomme en l’âme ?"
+          }
+        },
+        {
+          "id": "l2-c10",
+          "title": {
+            "fr-FR": "Livre II, chapitre X. De l’espèce d’Oraison que font ordinairement ceux qui sont fidèles à chercher Dieu en tout"
+          }
+        },
+        {
+          "id": "l2-c11",
+          "title": {
+            "fr-FR": "Livre II, chapitre XI. Des richesses spirituelles que procure la pratique d’aimer Dieu purement , ne cherchant que lui en toutes choses"
+          }
+        },
+        {
+          "id": "l2-c12",
+          "title": {
+            "fr-FR": "Livre II, chapitre XII. De l’amour que Jésus nous témoigne dans l’Eucharistie , pour obtenir notre amour ; et de l’amour que nous devons lui témoigner"
+          }
+        },
+        {
+          "id": "l2-c13",
+          "title": {
+            "fr-FR": "Livre II, chapitre XIII. De la promesse que ceux qui ne cherchent que Dieu lui font tous les jours , de lui do7iner tout sans se rien réserver"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-3",
+      "title": {
+        "fr-FR": "Livre III. Des différents degrés pour s’élever à un grand amour pour Dieu"
+      },
+      "children": [
+        {
+          "id": "l3-j01",
+          "title": {
+            "fr-FR": "Livre III, 1er jour. Pour aimer Dieu, soyez fidèle à ces pratiques"
+          }
+        },
+        {
+          "id": "l3-j02",
+          "title": {
+            "fr-FR": "Livre III, 2e jour. Pour aimer Dieu , méprisez- vous vous-même»"
+          }
+        },
+        {
+          "id": "l3-j03",
+          "title": {
+            "fr-FR": "Livre III, 3e jour. Pour aimer Dieu , quittez tout. -"
+          }
+        },
+        {
+          "id": "l3-j04",
+          "title": {
+            "fr-FR": "Livre III, 4e jour. Pour aimer Dieu, ne cherchez point à vous satisfaire : souniettez-vous à Dieu , et mortifiez-vous"
+          }
+        },
+        {
+          "id": "l3-j05",
+          "title": {
+            "fr-FR": "Livre III, 5e jour. Pour aimer Dieu , ne cessez point de vous humilier à la vue de vos péchés"
+          }
+        },
+        {
+          "id": "l3-j06",
+          "title": {
+            "fr-FR": "Livre III, 6e jour. Pour aimer Dieu , dévouez -vous à son service 3 et consentez d’être éprouvé"
+          }
+        },
+        {
+          "id": "l3-j07",
+          "title": {
+            "fr-FR": "Livre III, 7e jour. Pour aimer Dieu, conversez avec Jésus"
+          }
+        },
+        {
+          "id": "l3-j08",
+          "title": {
+            "fr-FR": "Livre III, 8e jour. Pour aimer Dieu, purifiez -vous , humlllezvous , et priez"
+          }
+        },
+        {
+          "id": "l3-j09",
+          "title": {
+            "fr-FR": "Livre III, 9e jour. Pour aimer Dieu , travaillez à devenir intérieur"
+          }
+        },
+        {
+          "id": "l3-j10",
+          "title": {
+            "fr-FR": "Livre III, 10e jour. Pour aimer Dieu 3 efforcez -vous de vous vaincre"
+          }
+        },
+        {
+          "id": "l3-j11",
+          "title": {
+            "fr-FR": "Livre III, 11e jour. Pour aimer Dieu , tnenez une vie mortifiée"
+          }
+        },
+        {
+          "id": "l3-j12",
+          "title": {
+            "fr-FR": "Livre III, 12e jour. Pour aimer Dieu , soyez avides de souffrances"
+          }
+        },
+        {
+          "id": "l3-j13",
+          "title": {
+            "fr-FR": "Livre III, 13e jour. Pour aimer Dieu , ne vous affectionnez à rien de créé"
+          }
+        },
+        {
+          "id": "l3-j14",
+          "title": {
+            "fr-FR": "Livre III, 14e jour. Pour aimer Dieu , cherchez-le"
+          }
+        },
+        {
+          "id": "l3-j15",
+          "title": {
+            "fr-FR": "Livre III, 15e jour. Pour aimer Dieu , formez continuellement de saints et ardens désirs"
+          }
+        },
+        {
+          "id": "l3-j16",
+          "title": {
+            "fr-FR": "Livre III, 16e jour. Pour aimer Dieu , offrez-lui souvent un cœur qui soit tel qu’il le désire"
+          }
+        },
+        {
+          "id": "l3-j17",
+          "title": {
+            "fr-FR": "Livre III, 17e jour. Pour aimer Dieu , soyez assidu à l’Oraison"
+          }
+        },
+        {
+          "id": "l3-j18",
+          "title": {
+            "fr-FR": "Livre III, 18e jour. Pour aimer Dieu, liez-vous étroitement à Jésus-Christ"
+          }
+        },
+        {
+          "id": "l3-j19",
+          "title": {
+            "fr-FR": "Livre III, 19e jour. Pour aimer Dieu , résistez à vos passions , et mortifiez - les"
+          }
+        },
+        {
+          "id": "l3-j20",
+          "title": {
+            "fr-FR": "Livre III, 20e jour. Pour aimer Dieu , vivez de la Foi"
+          }
+        },
+        {
+          "id": "l3-j21",
+          "title": {
+            "fr-FR": "Livre III, 21e jour. Pour aimer Dieu , revâtez-vous de Jésus-Christ"
+          }
+        },
+        {
+          "id": "l3-j22",
+          "title": {
+            "fr-FR": "Livre III, 22e jour. Pour aimer Dieu, laissez-vous guider par son amour"
+          }
+        },
+        {
+          "id": "l3-j23",
+          "title": {
+            "fr-FR": "Livre III, 23e jour. Pour aimer Dieu , abandonnez-vous à lui"
+          }
+        },
+        {
+          "id": "l3-j24",
+          "title": {
+            "fr-FR": "Livre III, 24e jour. Pour aimer Dieu, communiez avec ferveur"
+          }
+        },
+        {
+          "id": "l3-j25",
+          "title": {
+            "fr-FR": "Livre III, 25e jour. Pour aimer DieUj faites régner Jésus- Christ"
+          }
+        },
+        {
+          "id": "l3-j26",
+          "title": {
+            "fr-FR": "Livre III, 26e jour. Pour aimer Dieu , vojez-le continuellement en vous"
+          }
+        },
+        {
+          "id": "l3-j27",
+          "title": {
+            "fr-FR": "Livre III, 27e jour. Pour aimer Dieu, abandonnez ’ vous parfaitement à lui"
+          }
+        },
+        {
+          "id": "l3-j28",
+          "title": {
+            "fr-FR": "Livre III, 28e jour. Pour aimer Dieu , faites tout pour sa gloire"
+          }
+        },
+        {
+          "id": "l3-j29",
+          "title": {
+            "fr-FR": "Livre III, 29e jour. Pour aimer Dieu , tenez toujours voire cœur en paix"
+          }
+        },
+        {
+          "id": "l3-j30",
+          "title": {
+            "fr-FR": "Livre III, 30e jour. Pour aimer Dieu, vivez de la vie de Jésus- Christ"
+          }
+        },
+        {
+          "id": "l3-j31",
+          "title": {
+            "fr-FR": "Livre III, 31e jour. Pour aimer Dieu , appliquez-vous à vivre de sa vie divine"
+          }
+        }
+      ]
+    },
+    {
+      "id": "avis-salutaires",
+      "title": {
+        "fr-FR": "Avis salutaires et sentiments affectueux"
+      }
+    },
+    {
+      "id": "chretien-en-oraison",
+      "title": {
+        "fr-FR": "Le chrétien en oraison, s’entretenant avec Jésus-Christ"
+      },
+      "children": [
+        {
+          "id": "entretien-01",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien I"
+          }
+        },
+        {
+          "id": "entretien-02",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien II"
+          }
+        },
+        {
+          "id": "entretien-03",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien III"
+          }
+        },
+        {
+          "id": "entretien-04",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien IV"
+          }
+        },
+        {
+          "id": "entretien-05",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien V"
+          }
+        },
+        {
+          "id": "entretien-06",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien VI"
+          }
+        },
+        {
+          "id": "entretien-07",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien VII"
+          }
+        },
+        {
+          "id": "entretien-08",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien VIII"
+          }
+        },
+        {
+          "id": "entretien-09",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien IX"
+          }
+        },
+        {
+          "id": "entretien-10",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien X"
+          }
+        },
+        {
+          "id": "entretien-11",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien XI"
+          }
+        },
+        {
+          "id": "entretien-12",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien XII"
+          }
+        },
+        {
+          "id": "entretien-13",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien XIII"
+          }
+        },
+        {
+          "id": "entretien-14",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien XIV"
+          }
+        },
+        {
+          "id": "entretien-15",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien XV"
+          }
+        },
+        {
+          "id": "entretien-16",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien XVI"
+          }
+        },
+        {
+          "id": "entretien-17",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien XVII"
+          }
+        },
+        {
+          "id": "entretien-18",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien XVIII"
+          }
+        },
+        {
+          "id": "entretien-19",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien XIX"
+          }
+        },
+        {
+          "id": "entretien-20",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien XX"
+          }
+        },
+        {
+          "id": "entretien-21",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien XXI"
+          }
+        },
+        {
+          "id": "entretien-22",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien XXII"
+          }
+        },
+        {
+          "id": "entretien-23",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien XXIII"
+          }
+        },
+        {
+          "id": "entretien-24",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien XXIV"
+          }
+        },
+        {
+          "id": "entretien-25",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien XXV"
+          }
+        },
+        {
+          "id": "entretien-26",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien XXVI"
+          }
+        },
+        {
+          "id": "entretien-27",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien XXVII"
+          }
+        },
+        {
+          "id": "entretien-28",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien XXVIII"
+          }
+        },
+        {
+          "id": "entretien-29",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien XXIX"
+          }
+        },
+        {
+          "id": "entretien-30",
+          "title": {
+            "fr-FR": "Le chrétien en oraison, entretien XXX"
+          }
+        }
+      ]
+    }
+  ]
+}
