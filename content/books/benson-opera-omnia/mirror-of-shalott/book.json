@@ -1,0 +1,123 @@
+{
+  "id": "benson-mirror-of-shalott",
+  "cover": "classic",
+  "name": {
+    "en-US": "A Mirror of Shalott",
+    "pt-BR": "Um Espelho de Shalott"
+  },
+  "author": {
+    "en-US": "Mgr. Robert Hugh Benson",
+    "pt-BR": "Mons. Robert Hugh Benson"
+  },
+  "description": {
+    "en-US": "Benson's collection of ghost and horror stories of 1907: thirteen tales told on one night in Rome by priests, a monsignor, and a layman, about the supernatural encounters that tested their faith, with a prologue.",
+    "pt-BR": "A coleção de Benson (1907) de contos de fantasmas e de terror: treze histórias contadas numa noite em Roma por padres, um monsenhor e um leigo, sobre encontros sobrenaturais que puseram à prova a sua fé, com um prólogo."
+  },
+  "composed": 1907,
+  "languages": [
+    "en-US"
+  ],
+  "work": "benson/mirror-of-shalott",
+  "editions": {
+    "en-US": {
+      "editor": "Robert Hugh Benson (London: Pitman, 1907)",
+      "year": 1907
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/78565",
+      "edition": "A Mirror of Shalott (London: Pitman, 1907), Project Gutenberg #78565, proofread.",
+      "description": " Gutenberg licence and transcriber notes are dropped. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Mgr. Robert Hugh Benson died in 1914 and the edition is of 1907, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Prologue"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "I. Monsignor Maxwell’s Tale"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "II. Father Meuron’s Tale"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "III. Father Brent’s Tale"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "IV. The Father Rector’s Tale"
+      }
+    },
+    {
+      "id": "chapter-06",
+      "title": {
+        "en-US": "V. Father Girdlestone’s Tale"
+      }
+    },
+    {
+      "id": "chapter-07",
+      "title": {
+        "en-US": "VI. Father Bianchi’s Tale"
+      }
+    },
+    {
+      "id": "chapter-08",
+      "title": {
+        "en-US": "VII. Father Jenks’ Tale"
+      }
+    },
+    {
+      "id": "chapter-09",
+      "title": {
+        "en-US": "VIII. Father Martin’s Tale"
+      }
+    },
+    {
+      "id": "chapter-10",
+      "title": {
+        "en-US": "IX. Mr. Bosanquet’s Tale"
+      }
+    },
+    {
+      "id": "chapter-11",
+      "title": {
+        "en-US": "X. Father Macclesfield’s Tale"
+      }
+    },
+    {
+      "id": "chapter-12",
+      "title": {
+        "en-US": "XI. Father Stein’s Tale"
+      }
+    },
+    {
+      "id": "chapter-13",
+      "title": {
+        "en-US": "XII. Mr. Percival’s Tale"
+      }
+    },
+    {
+      "id": "chapter-14",
+      "title": {
+        "en-US": "XIII. My Own Tale"
+      }
+    }
+  ]
+}

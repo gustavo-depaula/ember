@@ -1,0 +1,80 @@
+{
+ "id": "benson-mirror-of-shalott",
+ "dir": "benson-opera-omnia/mirror-of-shalott",
+ "slug": "mirror-of-shalott",
+ "name": "A Mirror of Shalott",
+ "name_pt": "Um Espelho de Shalott",
+ "desc": "Benson's collection of ghost and horror stories of 1907: thirteen tales told on one night in Rome by priests, a monsignor, and a layman, about the supernatural encounters that tested their faith, with a prologue.",
+ "desc_pt": "A coleção de Benson (1907) de contos de fantasmas e de terror: treze histórias contadas numa noite em Roma por padres, um monsenhor e um leigo, sobre encontros sobrenaturais que puseram à prova a sua fé, com um prólogo.",
+ "composed": 1907,
+ "editor": "Robert Hugh Benson (London: Pitman, 1907)",
+ "year": 1907,
+ "url": "https://www.gutenberg.org/ebooks/78565",
+ "edition": "A Mirror of Shalott (London: Pitman, 1907), Project Gutenberg #78565, proofread.",
+ "src": "robert-hugh-benson/pg/pg78565.txt",
+ "manual": [
+  [
+   101,
+   "Prologue"
+  ],
+  [
+   371,
+   "I. Monsignor Maxwell’s Tale"
+  ],
+  [
+   740,
+   "II. Father Meuron’s Tale"
+  ],
+  [
+   1173,
+   "III. Father Brent’s Tale"
+  ],
+  [
+   1546,
+   "IV. The Father Rector’s Tale"
+  ],
+  [
+   1954,
+   "V. Father Girdlestone’s Tale"
+  ],
+  [
+   3002,
+   "VI. Father Bianchi’s Tale"
+  ],
+  [
+   3313,
+   "VII. Father Jenks’ Tale"
+  ],
+  [
+   3708,
+   "VIII. Father Martin’s Tale"
+  ],
+  [
+   4154,
+   "IX. Mr. Bosanquet’s Tale"
+  ],
+  [
+   4687,
+   "X. Father Macclesfield’s Tale"
+  ],
+  [
+   5024,
+   "XI. Father Stein’s Tale"
+  ],
+  [
+   5214,
+   "XII. Mr. Percival’s Tale"
+  ],
+  [
+   5643,
+   "XIII. My Own Tale"
+  ]
+ ],
+ "start": 101,
+ "end": 6050,
+ "label": "",
+ "mode": "pg",
+ "sec_re": "^[IVXL]+\\.?$",
+ "dropfull": "_[^_]{5,40}Tale_",
+ "died": 1914
+}
