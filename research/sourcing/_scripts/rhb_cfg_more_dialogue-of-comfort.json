@@ -1,0 +1,21 @@
+{
+ "id": "more-dialogue-of-comfort",
+ "dir": "more-opera-omnia/dialogue-of-comfort",
+ "slug": "dialogue-of-comfort",
+ "work": "more/dialogue-of-comfort",
+ "author": "St. Thomas More",
+ "author_pt": "São Tomás More",
+ "died": 1535,
+ "src": "A07696.xml",
+ "name": "A Dialogue of Comfort against Tribulation",
+ "name_pt": "Diálogo de Consolo contra a Tribulação",
+ "desc": "More's last great book, written in the Tower of London in 1534: a dialogue between the Hungarian Vincent and his uncle Anthony on how to bear tribulation under the threat of the Turk, in three books on the comfort in tribulation, the ills of prosperity and the sure refuge in Christ's Passion.",
+ "desc_pt": "O último grande livro de More, escrito na Torre de Londres em 1534: um diálogo entre o húngaro Vicente e seu tio Antônio sobre como suportar a tribulação diante da ameaça turca, em três livros.",
+ "composed": 1534,
+ "editor": "Thomas More (London: Richard Tottel, 1553)",
+ "year": 1553,
+ "url": "https://github.com/textcreationpartnership/A07696",
+ "edition": "A dialoge of comfort against tribulacion (London: Tottel, 1553), EEBO-TCP A07696.",
+ "front": true,
+ "parts": true
+}

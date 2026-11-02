@@ -1,0 +1,3 @@
+# The.vii. Chapter These outvvarde goodes or giftes of fortune are tvvo maner vvise to be co • sidered
+
+WE shal yet Cosin considre in these outwarde goodes of fortune, as riches, good name[…] honest estimacion, honorable fame a[…]d authoritie. In all these thynges we shal I saye consydre, that eyther we loue them and set by them, as by thynges commodious vnto vs for the state and condicion of thys present lyfe, or els as thynges that we purpose by the good vse therof to make thē matter of oure merite with god his helpe in ye lyfe after to come. Let vs than first consider thē as thinges set by and beloued for the pleasure and commoditie of them for thys presente lyfe.

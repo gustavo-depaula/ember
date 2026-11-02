@@ -1,0 +1,509 @@
+{
+  "id": "more-dialogue-of-comfort",
+  "cover": "classic",
+  "name": {
+    "en-US": "A Dialogue of Comfort against Tribulation",
+    "pt-BR": "Diálogo de Consolo contra a Tribulação"
+  },
+  "author": {
+    "en-US": "St. Thomas More",
+    "pt-BR": "São Tomás More"
+  },
+  "description": {
+    "en-US": "More's last great book, written in the Tower of London in 1534: a dialogue between the Hungarian Vincent and his uncle Anthony on how to bear tribulation under the threat of the Turk, in three books on the comfort in tribulation, the ills of prosperity and the sure refuge in Christ's Passion.",
+    "pt-BR": "O último grande livro de More, escrito na Torre de Londres em 1534: um diálogo entre o húngaro Vicente e seu tio Antônio sobre como suportar a tribulação diante da ameaça turca, em três livros."
+  },
+  "composed": 1534,
+  "languages": [
+    "en-US"
+  ],
+  "work": "more/dialogue-of-comfort",
+  "editions": {
+    "en-US": {
+      "editor": "Thomas More (London: Richard Tottel, 1553)",
+      "year": 1553
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/textcreationpartnership/A07696",
+      "edition": "A dialoge of comfort against tribulacion (London: Tottel, 1553), EEBO-TCP A07696.",
+      "description": " EEBO-TCP hand-keyed transcription, original spelling kept. 1348 illegible places in the source are marked […]. Raw TEI in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "St. Thomas More died in 1535; the edition is of 1553 and the TCP transcription is released to the public domain (CC0)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Chapter 1"
+      }
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "A Table, wherin is expressed the summe and effecte of euery Chapter conteined in this boke"
+      },
+      "children": [
+        {
+          "id": "chapter-02",
+          "title": {
+            "en-US": "A Declaracion of the first boke"
+          }
+        },
+        {
+          "id": "chapter-03",
+          "title": {
+            "en-US": "A declaracion of the seconde Boke"
+          }
+        },
+        {
+          "id": "chapter-04",
+          "title": {
+            "en-US": "A declaracion of the thyrde Boke"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "title": {
+        "en-US": "Part 3"
+      },
+      "children": [
+        {
+          "id": "chapter-05",
+          "title": {
+            "en-US": "Part 3"
+          }
+        },
+        {
+          "id": "chapter-06",
+          "title": {
+            "en-US": "The first Chapter, That the comfortes deuised by the olde paynem Philosophers vvere vnsufficient, and the caus"
+          }
+        },
+        {
+          "id": "chapter-07",
+          "title": {
+            "en-US": "The seconde Chapter. That for a foundacion men must nedes begin vvith • hyth"
+          }
+        },
+        {
+          "id": "chapter-08",
+          "title": {
+            "en-US": "The thyrd Chapter, The fyrst comfort in tribulacion, may a man take in thys: VVhan he feleth in himselfe a des"
+          }
+        },
+        {
+          "id": "chapter-09",
+          "title": {
+            "en-US": "The fourth Chapter. That tribulacion is a meane to dravve men to that good mynd to desyre and long for the com"
+          }
+        },
+        {
+          "id": "chapter-10",
+          "title": {
+            "en-US": "The fifthe Chapter. The speciall meanes to geat this firste comforte in Tribulacion"
+          }
+        },
+        {
+          "id": "chapter-11",
+          "title": {
+            "en-US": "The.vi. Chapter. It suffiseth not that a man haue a desier to be comforted by god onely by the taking a • aye "
+          }
+        },
+        {
+          "id": "chapter-12",
+          "title": {
+            "en-US": "The.vii. Chapter. A great comfort maye be in tribulacion, that euery tribul • cion is, if vve our selfe vvyl, "
+          }
+        },
+        {
+          "id": "chapter-13",
+          "title": {
+            "en-US": "The.viii. Chapter. The declaracion larger concerning them that fal in tribulacion by their ovvne knovven fault"
+          }
+        },
+        {
+          "id": "chapter-14",
+          "title": {
+            "en-US": "The.ix. Chapter. The second point, that is to vvitte, that tribulacion that is sente vs by God vvithout any op"
+          }
+        },
+        {
+          "id": "chapter-15",
+          "title": {
+            "en-US": "The.x. Chapter. Of the thirde kynde of tribulacion vvhiche is not sent a man for his synne, but for exercyse o"
+          }
+        },
+        {
+          "id": "chapter-16",
+          "title": {
+            "en-US": "The.xi. Chapter. An other kynde of comforte yet in the base kynde of tribul • cion sent for our synne"
+          }
+        },
+        {
+          "id": "chapter-17",
+          "title": {
+            "en-US": "The.xii. Chapter. A certaine obieccyon agaynst the thynges aforesayde"
+          }
+        },
+        {
+          "id": "chapter-18",
+          "title": {
+            "en-US": "The xiii. Chapter. That a man ought to be comfo • table to hymselfe and haue good hope and be ioyful also in t"
+          }
+        },
+        {
+          "id": "chapter-19",
+          "title": {
+            "en-US": "The.xiiii. Chapter. A certaine obieccion, and the ansvver therto"
+          }
+        },
+        {
+          "id": "chapter-20",
+          "title": {
+            "en-US": "The.xv. Chapter. Other obieccions"
+          }
+        },
+        {
+          "id": "chapter-21",
+          "title": {
+            "en-US": "The.xvi. Chapter. The aunsvvere to the obieccion"
+          }
+        },
+        {
+          "id": "chapter-22",
+          "title": {
+            "en-US": "The.xvii. Chapter. An ansvvere to the second obieccion"
+          }
+        },
+        {
+          "id": "chapter-23",
+          "title": {
+            "en-US": "The.xviii. Chapter. Of them that in tribulacion • eke not vnto god, but some to the fleshe, and some to the vv"
+          }
+        },
+        {
+          "id": "chapter-24",
+          "title": {
+            "en-US": "The.xix. Chapter. An other obieccion vvith the ansvvere therunto"
+          }
+        },
+        {
+          "id": "chapter-25",
+          "title": {
+            "en-US": "The.xx. Chapter. A Summary commendacion of tribulacion •"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-4",
+      "title": {
+        "en-US": "The seconde booke"
+      },
+      "children": [
+        {
+          "id": "chapter-26",
+          "title": {
+            "en-US": "The seconde booke"
+          }
+        },
+        {
+          "id": "chapter-27",
+          "title": {
+            "en-US": "The first Chapter. VVhither a man may not in tribulacion vse some vvorldly recreacion for hys co • forte"
+          }
+        },
+        {
+          "id": "chapter-28",
+          "title": {
+            "en-US": "The.ii. Chapter. Of the shorte vncertayne lyfe in extreme age or sickenes"
+          }
+        },
+        {
+          "id": "chapter-29",
+          "title": {
+            "en-US": "The.iii. Chapter. He deuideth tribulacion into three kindes, of vvhiche three the laste he passeth shor • ly o"
+          }
+        },
+        {
+          "id": "chapter-30",
+          "title": {
+            "en-US": "The.iiii • Chapter"
+          }
+        },
+        {
+          "id": "chapter-31",
+          "title": {
+            "en-US": "The.v. Chapter. An obieccion concerning them that turne • ot to GOD tyll they come at the last cast"
+          }
+        },
+        {
+          "id": "chapter-32",
+          "title": {
+            "en-US": "The.vi. Chapter. An • bieccion of them that saye that tribulacion of penaunc • nedeth not, but is a superstici"
+          }
+        },
+        {
+          "id": "chapter-33",
+          "title": {
+            "en-US": "The.vii. Chapter.  VVhat if a man can not vvepe, nor in hys heart be sorye for his sinnes?"
+          }
+        },
+        {
+          "id": "chapter-34",
+          "title": {
+            "en-US": "The.viii. Chapter. Of that kynde of tribulacion vvhich though they not vvillingly take, yet they vvillingly su"
+          }
+        },
+        {
+          "id": "chapter-35",
+          "title": {
+            "en-US": "The.ix. Chapter. Fyrst of temptacion in generall as it is common to bothe"
+          }
+        },
+        {
+          "id": "chapter-36",
+          "title": {
+            "en-US": "The.x. Chapter. A special comfort in all temptacion"
+          }
+        },
+        {
+          "id": "chapter-37",
+          "title": {
+            "en-US": "The.xi. chapter. Of.iiii. kyndes of temptacions, and therein both the partes of that kinde of tribulacion that"
+          }
+        },
+        {
+          "id": "chapter-38",
+          "title": {
+            "en-US": "The.xii. Chapter. The firste kynde of the foure temptacions"
+          }
+        },
+        {
+          "id": "chapter-39",
+          "title": {
+            "en-US": "The.xiii. Chapter. Of pusillanimitie"
+          }
+        },
+        {
+          "id": "chapter-40",
+          "title": {
+            "en-US": "The.xiiii. Chapter. Of the doughter of pusillanimitie a scrupulous conscience"
+          }
+        },
+        {
+          "id": "chapter-41",
+          "title": {
+            "en-US": "The.xv. Chpter. An other kynd of the nightes feare, an other doughter of pusillanimitie, that is to vvete, tha"
+          }
+        },
+        {
+          "id": "chapter-42",
+          "title": {
+            "en-US": "The.xvi. Chapter. Of him that vvere moued to kyll him selfe by illusion of the Deuill, vvhich he reckoned for "
+          }
+        },
+        {
+          "id": "chapter-43",
+          "title": {
+            "en-US": "The.xvii. Chapter"
+          }
+        },
+        {
+          "id": "chapter-44",
+          "title": {
+            "en-US": "The.xviii. Chapter. Of the deuil named Negotiū that is toyvit, busines vvalking about in the darkne •"
+          }
+        },
+        {
+          "id": "chapter-45",
+          "title": {
+            "en-US": "The.xix. Chapter"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": {
+        "en-US": "The third Booke and the last • of consolacion and comfort in tribulacion"
+      },
+      "children": [
+        {
+          "id": "chapter-46",
+          "title": {
+            "en-US": "The third Booke and the last • of consolacion and comfort in tribulacion"
+          }
+        },
+        {
+          "id": "chapter-47",
+          "title": {
+            "en-US": "The first Chapter. VVhither a man should cast in hys mynde and appoynt in his heart before, that if he vvere t"
+          }
+        },
+        {
+          "id": "chapter-48",
+          "title": {
+            "en-US": "The second Chapter. Of the fourth temptacion, vvhich is persecucion for the fayth touched in these vvoordes of"
+          }
+        },
+        {
+          "id": "chapter-49",
+          "title": {
+            "en-US": "The.iii. Chapter"
+          }
+        },
+        {
+          "id": "chapter-50",
+          "title": {
+            "en-US": "The.iiii. Chapter"
+          }
+        },
+        {
+          "id": "chapter-51",
+          "title": {
+            "en-US": "The.v. Chapter. Of the losse of the goodes of fortune"
+          }
+        },
+        {
+          "id": "chapter-52",
+          "title": {
+            "en-US": "The.vi. Chapiter. Of the vnsuertie of landes and possessions"
+          }
+        },
+        {
+          "id": "chapter-53",
+          "title": {
+            "en-US": "The.vii. Chapter These outvvarde goodes or giftes of fortune are tvvo maner vvise to be co • sidered"
+          }
+        },
+        {
+          "id": "chapter-54",
+          "title": {
+            "en-US": "The.viii. Chapter. The 〈…〉 of riches being •• t by, • ut for this ••••• nt lyfe"
+          }
+        },
+        {
+          "id": "chapter-55",
+          "title": {
+            "en-US": "The.ix. Chapter. The litle comoditie of fame being desired but for vvorldly pleasure"
+          }
+        },
+        {
+          "id": "chapter-56",
+          "title": {
+            "en-US": "The.x. Chapter. Of • latterye"
+          }
+        },
+        {
+          "id": "chapter-57",
+          "title": {
+            "en-US": "The.xi. Chapter. The litle commoditie that men haue o • • ovvme •, offices and autor • tie, if they desyre the"
+          }
+        },
+        {
+          "id": "chapter-58",
+          "title": {
+            "en-US": "The.xii. Chapter. That these outvvard goode, desired but for vvordly vvelth be not onely litle good for the bo"
+          }
+        },
+        {
+          "id": "chapter-59",
+          "title": {
+            "en-US": "The.xiii. Chapter.  VVhither men desier these outvvard goodes for theyr onely vvorldly vvelthe, or for any goo"
+          }
+        },
+        {
+          "id": "chapter-60",
+          "title": {
+            "en-US": "The.xiiii. Chapter. An other cause for vvhich any man should be content to forgoe his goodes in the Turkes sai"
+          }
+        },
+        {
+          "id": "chapter-61",
+          "title": {
+            "en-US": "The.xv. Chapter. This kind of tribulacion trieth vvhat mind men haue to theyr goodes, vvhich they that are vvy"
+          }
+        },
+        {
+          "id": "chapter-62",
+          "title": {
+            "en-US": "The.xvi. Chapter. Another comfort and courage agaynst the losse of vvorldly substaunce"
+          }
+        },
+        {
+          "id": "chapter-63",
+          "title": {
+            "en-US": "The.xvii. Chapter. Of bodely payn, and that a man hath not cause to take discōfort in persecucion, though he "
+          }
+        },
+        {
+          "id": "chapter-64",
+          "title": {
+            "en-US": "The.xviii. Chapter. Of comforte agaynst bodely payn, and fyrst agaynst captiuytie"
+          }
+        },
+        {
+          "id": "chapter-65",
+          "title": {
+            "en-US": "The.xix. Chap. Of impryesonmen • e and comforte there agaynste"
+          }
+        },
+        {
+          "id": "chapter-66",
+          "title": {
+            "en-US": "The.xx. Chapter"
+          }
+        },
+        {
+          "id": "chapter-67",
+          "title": {
+            "en-US": "The.xxi. Chapter. The feare of shameful and paynefull death"
+          }
+        },
+        {
+          "id": "chapter-68",
+          "title": {
+            "en-US": "The.xxii. Chapter. Of death considered by himselfe alone as a bare leauing of this lyfe onely"
+          }
+        },
+        {
+          "id": "chapter-69",
+          "title": {
+            "en-US": "The.xxiii. Chapter. Of the shame that i • ioyned vvith the death in the persecucion for the fayth"
+          }
+        },
+        {
+          "id": "chapter-70",
+          "title": {
+            "en-US": "The.xxiiii. Chapter. Of paynful death to be suffred in the Turkes persecucion • or the fayth"
+          }
+        },
+        {
+          "id": "chapter-71",
+          "title": {
+            "en-US": "The.xxv. Chapter. The cōsideracion of the pain • of hell, in vvhich vve fall if vve forsake our sauiour • may"
+          }
+        },
+        {
+          "id": "chapter-72",
+          "title": {
+            "en-US": "☞The.xxvi. Chapter. The consideracion of the Ioyes of heauen shoulde mak • vs for Christes sake abide and endu"
+          }
+        },
+        {
+          "id": "chapter-73",
+          "title": {
+            "en-US": "The last Chapter. The consideracion of the painefull death of Christe, is sufficient to make vs content to suf"
+          }
+        }
+      ]
+    }
+  ]
+}
