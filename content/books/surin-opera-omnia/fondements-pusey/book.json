@@ -1,0 +1,391 @@
+{
+  "id": "surin-fondements-pusey",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Foundations of the Spiritual Life, Drawn from the Book of the Imitation of Jesus Christ (adapted)",
+    "pt-BR": "Os fundamentos da vida espiritual, tirados do livro da Imitação de Jesus Cristo (adaptado)"
+  },
+  "author": {
+    "en-US": "Jean-Joseph Surin",
+    "pt-BR": "Jean-Joseph Surin"
+  },
+  "description": {
+    "en-US": "Surin’s commentary on the maxims of the Imitation of Christ, in five books of questions and answers (first published in 1667 under the name Jean de Sainte-Foy), with a spiritual letter to a lady of rank. This is E. B. Pusey’s English of 1844, “adapted to the use of the English Church”: Pusey altered or left out Catholic matter, so it is a witness to his adaptation, not to Surin’s French. It has Pusey’s long Preface. The French original is not available as text in the corpus yet.",
+    "pt-BR": "O comentário de Surin às máximas da Imitação de Cristo, em cinco livros de perguntas e respostas (publicado pela primeira vez em 1667 sob o nome de Jean de Sainte-Foy), com uma carta espiritual a uma dama de alta posição. É o inglês de E. B. Pusey, de 1844, « adaptado ao uso da Igreja Inglesa »: Pusey alterou ou omitiu matéria católica, de modo que é testemunho da sua adaptação, não do francês de Surin."
+  },
+  "composed": "1667",
+  "languages": [
+    "en-US"
+  ],
+  "work": "surin/fondements-de-la-vie-spirituelle",
+  "editions": {
+    "en-US": {
+      "translator": "Anonymous, ed. E. B. Pusey (adapted to the use of the English Church)",
+      "year": 1844
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/FoundationsOfTheSpiritualLife",
+      "edition": "The Foundations of the Spiritual Life, drawn from the book of the Imitation of Jesus Christ, by Surin, translated from the French, edited by E. B. Pusey (adapted to the use of the English Church), London: J. Burns, 1844. Internet Archive scan (Google), OCR text.",
+      "description": "Pusey’s Preface, the five Books (9, 9, 9, 9 and 14 chapters) and the spiritual letter. The contents table and page furniture are left out; chapter titles are the Imitation passages from the printed contents. OCR corrected only by script, with stray margin marks removed; some page-foot scripture notes and running heads may remain inside paragraphs. The French original (Luxembourg: Barbier 1697, a Marburg digitised facsimile) has no text layer.",
+      "tier": "A",
+      "tierEvidence": "Surin died in 1665 and Pusey in 1882; the 1844 London edition is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface by the Editor"
+      }
+    },
+    {
+      "id": "book-1",
+      "title": {
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "b1-c01",
+          "title": {
+            "en-US": "Book I, Chapter I. To walk inwardly with God, and not to be kept abroad by any outward affection, is the state of a spiritual man"
+          }
+        },
+        {
+          "id": "b1-c02",
+          "title": {
+            "en-US": "Book I, Chapter II. If thou attain to the full contempt of thyself, know that thou shalt then enjoy abundance of peace"
+          }
+        },
+        {
+          "id": "b1-c03",
+          "title": {
+            "en-US": "Book I, Chapter III. All things are comprised in these few words : Forsake all, and thou shalt find all"
+          }
+        },
+        {
+          "id": "b1-c04",
+          "title": {
+            "en-US": "Book I, Chapter IV. The more thou withdrawest thyself from solace of creatures, the more will I heap upon thee spi ritual joys"
+          }
+        },
+        {
+          "id": "b1-c05",
+          "title": {
+            "en-US": "Book I, Chapter V. Rejoice to be thought guilty, that you may be innocent in the sight of God"
+          }
+        },
+        {
+          "id": "b1-c06",
+          "title": {
+            "en-US": "Book I, Chapter VI. Set thyself always in the lowest place, and the highest shall be given thee"
+          }
+        },
+        {
+          "id": "b1-c07",
+          "title": {
+            "en-US": "Book I, Chapter VII. I cause all devout persons to pass through severe trials"
+          }
+        },
+        {
+          "id": "b1-c08",
+          "title": {
+            "en-US": "Book I, Chapter VIII. It is matter of great skill to know to hold converse with Jesus ; and to know how to keep Jesus, a point of great wisdom"
+          }
+        },
+        {
+          "id": "b1-c09",
+          "title": {
+            "en-US": "Book I, Chapter IX. A certain person, by loving Me entirely, learned divine things, and spake that which was admirable. He profited more by forsaking all things, than in studying subtleties"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-2",
+      "title": {
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "b2-c01",
+          "title": {
+            "en-US": "Book II, Chapter I. Learn to despise outward things, and to give thyself to things inward, and thou shalt perceive the kingdom of God to come in thee"
+          }
+        },
+        {
+          "id": "b2-c02",
+          "title": {
+            "en-US": "Book II, Chapter II. He that judgeth of all things as they are, and not as they are said, or esteemed to be, is truly wise, and taught rather of God than men"
+          }
+        },
+        {
+          "id": "b2-c03",
+          "title": {
+            "en-US": "Book II, Chapter III. The more holy violence thou usest against thyself, the greater shall be thy spiritual profiting"
+          }
+        },
+        {
+          "id": "b2-c04",
+          "title": {
+            "en-US": "Book II, Chapter IV. Presume not upon thyself. B. i. c. 7-"
+          }
+        },
+        {
+          "id": "b2-c05",
+          "title": {
+            "en-US": "Book II, Chapter V. False freedom of mind, and great confij dence in ourselves, are very contrary to heavenly visi| tations"
+          }
+        },
+        {
+          "id": "b2-c06",
+          "title": {
+            "en-US": "Book II, Chapter VI. In whatever instance a person seeketh | himself, then he falleth from love"
+          }
+        },
+        {
+          "id": "b2-c07",
+          "title": {
+            "en-US": "Book II, Chapter VII. Simplicity doth tend towards God; Purity doth apprehend and, as it were, taste Him"
+          }
+        },
+        {
+          "id": "b2-c08",
+          "title": {
+            "en-US": "Book II, Chapter VIII. He that can best tell how to suffer, will best keep himself in peace"
+          }
+        },
+        {
+          "id": "b2-c09",
+          "title": {
+            "en-US": "Book II, Chapter IX. What is not savoury unto him, to whom j Thou art pleasing ?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-3",
+      "title": {
+        "en-US": "Book III"
+      },
+      "children": [
+        {
+          "id": "b3-c01",
+          "title": {
+            "en-US": "Book III, Chapter I. Wheresoever thou findest thyself, renounce thyself"
+          }
+        },
+        {
+          "id": "b3-c02",
+          "title": {
+            "en-US": "Book III, Chapter II. It is, therefore, no small matter fora man to forsake himself even in the smallest things. B. iii. c. 39"
+          }
+        },
+        {
+          "id": "b3-c03",
+          "title": {
+            "en-US": "Book III, Chapter III. That I may not feel myself"
+          }
+        },
+        {
+          "id": "b3-c04",
+          "title": {
+            "en-US": "Book III, Chapter IV. If thou wouldst perfectly empty thyself from all creatures, Jesus would willingly dwell with thee"
+          }
+        },
+        {
+          "id": "b3-c05",
+          "title": {
+            "en-US": "Book III, Chapter V. Where shall one be found who is willing to serve God for nought ? B. ii. c. 2 Ill"
+          }
+        },
+        {
+          "id": "b3-c06",
+          "title": {
+            "en-US": "Book III, Chapter VI. If thou seekest thyself, thou shalt also find thyself"
+          }
+        },
+        {
+          "id": "b3-c07",
+          "title": {
+            "en-US": "Book III, Chapter VII. If thou dost more rely upon thine own reason or industry, than upon that power which brings thee under the obedience of Jesus Christ, it will be j long before thou become illuminated. B. i. c. 14 119 !"
+          }
+        },
+        {
+          "id": "b3-c08",
+          "title": {
+            "en-US": "Book III, Chapter VIII. A true lover of Christ, and a diligent ! follower of virtue, does not fall back on comforts, nor [ seek such sensible sweetnesses"
+          }
+        },
+        {
+          "id": "b3-c09",
+          "title": {
+            "en-US": "Book III, Chapter IX. 0 happy minds and blessed souls, who have the privilege of receiving Thee, their Lord God, i with devout affection, and in so receiving Thee are permitted to be full of spiritual joy ! 0 how great a Lord do they entertain ! how beloved a Guest do they harbour ! how delightful a Companion do they receive ! how faithful a Friend do they welcome ! how lovely and noble a Spouse do they embrace"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-4",
+      "title": {
+        "en-US": "Book IV"
+      },
+      "children": [
+        {
+          "id": "b4-c01",
+          "title": {
+            "en-US": "Book IV, Chapter I. For a long while shall he be small, and lie grovelling below, whoever he be, that esteemeth any thing great but the One only Infinite Eternal Good"
+          }
+        },
+        {
+          "id": "b4-c02",
+          "title": {
+            "en-US": "Book IV, Chapter II. If thou dost walk spiritually, thou wilt not much weigh fleeting words"
+          }
+        },
+        {
+          "id": "b4-c03",
+          "title": {
+            "en-US": "Book IV, Chapter III. For that is the cause why there are so few contemplative men to be found, for that few can wholly withdraw themselves from things created and perishing"
+          }
+        },
+        {
+          "id": "b4-c04",
+          "title": {
+            "en-US": "Book IV, Chapter IV. As to be void of all desire of external things produceth inward peace, so the forsaking of ourselves inwardly, joineth us unto God"
+          }
+        },
+        {
+          "id": "b4-c05",
+          "title": {
+            "en-US": "Book IV, Chapter V. He that loveth with all his heart, is neither afraid of death, nor punishment, nor of judgment, nor of hell"
+          }
+        },
+        {
+          "id": "b4-c06",
+          "title": {
+            "en-US": "Book IV, Chapter VI. Give all for all ; seek nothing ; require back nothing ; abide purely and with a firm confidence in Me, and thou shalt possess Me"
+          }
+        },
+        {
+          "id": "b4-c07",
+          "title": {
+            "en-US": "Book IV, Chapter VII. He to whom the Eternal Word speaketh, is delivered from a world of unnecessary conceptions"
+          }
+        },
+        {
+          "id": "b4-c08",
+          "title": {
+            "en-US": "Book IV, Chapter VIII. If it were well with thee, and thou wert well purified from sin, all things would fall out to thee for good, and to thy advancement in holiness"
+          }
+        },
+        {
+          "id": "b4-c09",
+          "title": {
+            "en-US": "Book IV, Chapter IX. A perfect contempt of the world, .will give us great confidence we shall die happily"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-5",
+      "title": {
+        "en-US": "Book V"
+      },
+      "children": [
+        {
+          "id": "b5-c01",
+          "title": {
+            "en-US": "Book V, Chapter I. Desire to be unknown"
+          }
+        },
+        {
+          "id": "b5-c02",
+          "title": {
+            "en-US": "Book V, Chapter II. From that One Word are all things, and all speak that One"
+          }
+        },
+        {
+          "id": "b5-c03",
+          "title": {
+            "en-US": "Book V, Chapter III. Thou oughtest to give all for all, and to retain nothing of thyself"
+          }
+        },
+        {
+          "id": "b5-c04",
+          "title": {
+            "en-US": "Book V, Chapter IV. The more thou canst go out of thyself, so much the more wilt thou be able to enter into Me"
+          }
+        },
+        {
+          "id": "b5-c05",
+          "title": {
+            "en-US": "Book V, Chapter V. He that endeavours to withdraw himself from obedience, withdraweth himself from Grace ; and he who seeketh for himself private benefits, loseth those which are common"
+          }
+        },
+        {
+          "id": "b5-c06",
+          "title": {
+            "en-US": "Book V, Chapter VI. There is great difference between the wisdom of an illuminated and devout man, and the knowledge of a learned and studious clerk"
+          }
+        },
+        {
+          "id": "b5-c07",
+          "title": {
+            "en-US": "Book V, Chapter VII. If thou hadst but once perfectly entered into the secrets of the Lord Jesus, and tasted a little of His ardent love, &c"
+          }
+        },
+        {
+          "id": "b5-c08",
+          "title": {
+            "en-US": "Book V, Chapter VIII. Drink of the Lord’s cup heartily.. As for comforts, leave them to God"
+          }
+        },
+        {
+          "id": "b5-c09",
+          "title": {
+            "en-US": "Book V, Chapter IX. God will have us perfectly subject unto Him, that being inflamed with his love, we may transcend the narrow limits of human reason"
+          }
+        },
+        {
+          "id": "b5-c10",
+          "title": {
+            "en-US": "Book V, Chapter X. He is truly learned, that doeth the will of God. B. i. c. 14 201 OF THE FOUNDATION OF THE WHOLE SPIRITUAL LIFE, WHICH IS HUMILITY"
+          }
+        },
+        {
+          "id": "b5-c11",
+          "title": {
+            "en-US": "Book V, Chapter XI. A man’s worthiness is not to be estimated by the number of visions and comforts which he may have, or by his skill in the Scriptures, or by his being placed in a higher station than others ; but the proof is, if he be grounded in true humility. B. iii. c. 7 207 OF THE PERFECT USE OF FAITH"
+          }
+        },
+        {
+          "id": "b5-c12",
+          "title": {
+            "en-US": "Book V, Chapter XII. Endeavour to withdraw thy heart from the love of visible things, and to turn thyself to the invisible. B. i c. 1 213 OF THE REMEMBRANCE OF THE PASSION OF OUR LORD"
+          }
+        },
+        {
+          "id": "b5-c13",
+          "title": {
+            "en-US": "Book V, Chapter XIII. If thou canst not contemplate high and heavenly things, rest thyself in the passion of Christ, and dwell willingly in His sacred wounds. B. ii. c. 1.. . 217 OF THE GOOD THINGS, FOR WHICH THOSE WHO EMBRACE VIRTUE MAY HOPE IN THIS LIFE"
+          }
+        },
+        {
+          "id": "b5-c14",
+          "title": {
+            "en-US": "Book V, Chapter XIV. Great grace shall be given to those who shall have willingly subjected themselves to Thy most holy service. They who for thy love shall have renounced all carnal delights, shall find the sweetest consolations of the Holy Ghost. B. iii. c. 10 220 A spiritual letter to a lady of rank 227 THE"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lettre",
+      "title": {
+        "en-US": "A Spiritual Letter to a Lady of Rank"
+      }
+    }
+  ]
+}
