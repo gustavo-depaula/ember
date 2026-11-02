@@ -1,0 +1,48 @@
+{
+  "id": "fenelon-mandatum-rituale",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Mandatum de Rituali edendo",
+    "en-US": "Mandate on the Publication of the Ritual",
+    "pt-BR": "Mandamento sobre a edição do Ritual"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Le mandement latin de Fénelon pour la publication du Rituel du diocèse de Cambrai.",
+    "en-US": "Fénelon’s Latin mandate for the publication of the Ritual of the diocese of Cambrai.",
+    "pt-BR": "O mandamento latino de Fénelon para a publicação do Ritual da diocese de Cambrai."
+  },
+  "composed": "1703",
+  "languages": [
+    "la"
+  ],
+  "work": "fenelon/mandatum-de-rituali-edendo",
+  "editions": {
+    "la": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/oeuvrescomplte06fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 6, p. 449–; archive.org OCR (ABBYY).",
+      "description": "Latin text, left uncorrected. Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-mandatum-de-rituali-edendo",
+      "title": {
+        "la": "Mandatum de Rituali edendo"
+      }
+    }
+  ]
+}
