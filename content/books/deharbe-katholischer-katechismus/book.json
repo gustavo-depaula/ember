@@ -1,0 +1,261 @@
+{
+  "id": "deharbe-katholischer-katechismus",
+  "cover": "label",
+  "name": {
+    "de": "Katholischer Katechismus",
+    "en-US": "Catholic Catechism (Deharbe, German original)",
+    "pt-BR": "Catecismo Católico (Deharbe, original alemão)"
+  },
+  "author": {
+    "de": "Joseph Deharbe, S.J.",
+    "en-US": "Joseph Deharbe, S.J.",
+    "pt-BR": "Joseph Deharbe, S.J."
+  },
+  "description": {
+    "de": "Der Katholische Katechismus des P. Joseph Deharbe S.J., für die Vereinigten Staaten von mehreren katholischen Geistlichen neu bearbeitet (1870, mit den Approbationen der amerikanischen Bischöfe): Gebete, Einleitung, Glaube (die Glaubensartikel), Gebote (Gottes und der Kirche, Sünde und Tugend) und Gnadenmittel (Gnade, Sakramente, Gebet) in nummerierten Fragen und Antworten.",
+    "en-US": "Fr Joseph Deharbe's Katholischer Katechismus in the German edition revised for the United States (1870, with the approbations of the American bishops): prayers, introduction, faith (the articles of the Creed), commandments (of God and of the Church, sin and virtue) and the means of grace (grace, the sacraments, prayer) in numbered questions and answers. The German original of the Deharbe catechism; the English translations are separate books.",
+    "pt-BR": "O Katholischer Katechismus do Pe. Joseph Deharbe S.J. na edição alemã revista para os Estados Unidos (1870, com as aprovações dos bispos americanos): orações, introdução, fé (os artigos do Credo), mandamentos (de Deus e da Igreja, pecado e virtude) e meios da graça (graça, sacramentos, oração) em perguntas e respostas numeradas. O original alemão do catecismo de Deharbe; as traduções inglesas são livros à parte."
+  },
+  "composed": 1847,
+  "languages": [
+    "de"
+  ],
+  "work": "deharbe/katholischer-katechismus",
+  "editions": {
+    "de": {
+      "editor": "mehrere katholische Geistliche der Vereinigten Staaten",
+      "year": 1871
+    }
+  },
+  "sources": [
+    {
+      "language": "de",
+      "url": "https://archive.org/details/katholischerkate02deha",
+      "description": "Katholischer Katechismus von P. Joseph Deharbe S.J., für die Vereinigten Staaten neu bearbeitet (1871 printing, approbations of 1870), via the archive.org OCR text. Tier A: published in 1871. The OCR of the Fraktur is uncorrected beyond rules (long s, line-end hyphens, a few f/s confusions such as 'ift' for 'ist'); the page-number noise and the list of biblical abbreviations are dropped, and the closing table of contents is left out."
+    }
+  ],
+  "toc": [
+    {
+      "id": "gebete",
+      "title": {
+        "de": "Gebete"
+      }
+    },
+    {
+      "id": "einleitung",
+      "title": {
+        "de": "Einleitung: Vom Ziel und Ende des Menschen"
+      }
+    },
+    {
+      "id": "hauptstueck-1-glauben",
+      "title": {
+        "de": "Erstes Hauptstück: Von dem Glauben"
+      }
+    },
+    {
+      "id": "artikel-01",
+      "title": {
+        "de": "Erster Glaubensartikel"
+      }
+    },
+    {
+      "id": "artikel-02",
+      "title": {
+        "de": "Zweiter Glaubensartikel"
+      }
+    },
+    {
+      "id": "artikel-03",
+      "title": {
+        "de": "Dritter Glaubensartikel"
+      }
+    },
+    {
+      "id": "artikel-04",
+      "title": {
+        "de": "Vierter Glaubensartikel"
+      }
+    },
+    {
+      "id": "artikel-05",
+      "title": {
+        "de": "Fünfter Glaubensartikel"
+      }
+    },
+    {
+      "id": "artikel-06",
+      "title": {
+        "de": "Sechster Glaubensartikel"
+      }
+    },
+    {
+      "id": "artikel-07",
+      "title": {
+        "de": "Siebenter Glaubensartikel"
+      }
+    },
+    {
+      "id": "artikel-08",
+      "title": {
+        "de": "Achter Glaubensartikel"
+      }
+    },
+    {
+      "id": "artikel-09",
+      "title": {
+        "de": "Neunter Glaubensartikel"
+      }
+    },
+    {
+      "id": "artikel-10-12",
+      "title": {
+        "de": "Zehnter bis zwölfter Glaubensartikel"
+      }
+    },
+    {
+      "id": "hauptstueck-2-gebote",
+      "title": {
+        "de": "Zweites Hauptstück: Von den Geboten"
+      }
+    },
+    {
+      "id": "zehn-gebote",
+      "title": {
+        "de": "Von den zehn Geboten Gottes (Erstes Gebot)"
+      }
+    },
+    {
+      "id": "gebot-02",
+      "title": {
+        "de": "Zweites Gebot"
+      }
+    },
+    {
+      "id": "gebot-03",
+      "title": {
+        "de": "Drittes Gebot"
+      }
+    },
+    {
+      "id": "gebot-04",
+      "title": {
+        "de": "Viertes Gebot"
+      }
+    },
+    {
+      "id": "gebot-05",
+      "title": {
+        "de": "Fünftes Gebot"
+      }
+    },
+    {
+      "id": "gebot-06",
+      "title": {
+        "de": "Sechstes Gebot"
+      }
+    },
+    {
+      "id": "gebot-07",
+      "title": {
+        "de": "Siebentes Gebot"
+      }
+    },
+    {
+      "id": "gebot-08",
+      "title": {
+        "de": "Achtes bis zehntes Gebot"
+      }
+    },
+    {
+      "id": "kirchengebote",
+      "title": {
+        "de": "Von den Geboten der Kirche"
+      }
+    },
+    {
+      "id": "suende",
+      "title": {
+        "de": "Von der Uebertretung der Gebote: Von der Sünde"
+      }
+    },
+    {
+      "id": "tugend",
+      "title": {
+        "de": "Von der christlichen Tugend und Vollkommenheit"
+      }
+    },
+    {
+      "id": "hauptstueck-3-gnadenmittel",
+      "title": {
+        "de": "Drittes Hauptstück: Von den Gnadenmitteln und der Gnade"
+      }
+    },
+    {
+      "id": "sakramente",
+      "title": {
+        "de": "Von den heiligen Sakramenten"
+      }
+    },
+    {
+      "id": "taufe",
+      "title": {
+        "de": "Von der Taufe"
+      }
+    },
+    {
+      "id": "firmung",
+      "title": {
+        "de": "Von der Firmung"
+      }
+    },
+    {
+      "id": "eucharistie",
+      "title": {
+        "de": "Von dem allerheiligsten Sakramente des Altars"
+      }
+    },
+    {
+      "id": "busse",
+      "title": {
+        "de": "Von der Buße"
+      }
+    },
+    {
+      "id": "oelung",
+      "title": {
+        "de": "Von der letzten Oelung"
+      }
+    },
+    {
+      "id": "priesterweihe",
+      "title": {
+        "de": "Von der Priesterweihe"
+      }
+    },
+    {
+      "id": "ehe",
+      "title": {
+        "de": "Von der Ehe"
+      }
+    },
+    {
+      "id": "sakramentalien",
+      "title": {
+        "de": "Von den Sakramentalien"
+      }
+    },
+    {
+      "id": "gebet",
+      "title": {
+        "de": "Vom Gebete"
+      }
+    },
+    {
+      "id": "zeremonien",
+      "title": {
+        "de": "Von kirchlichen Ceremonien und Gebräuchen"
+      }
+    }
+  ]
+}
