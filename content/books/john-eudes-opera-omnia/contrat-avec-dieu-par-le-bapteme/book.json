@@ -1,0 +1,60 @@
+{
+  "id": "eudes-contrat",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Le Contrat de l’homme avec Dieu par le saint Baptême",
+    "en-US": "Man’s Contract with God in Baptism",
+    "pt-BR": "O Contrato do homem com Deus pelo santo Batismo"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "fr-FR": "Le traité sur les promesses du Baptême, avec l’exercice de renouvellement.",
+    "en-US": "The treatise on the promises of Baptism, with the exercise of renewal.",
+    "pt-BR": "O tratado sobre as promessas do Batismo, com o exercício de renovação."
+  },
+  "composed": 1654,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "john-eudes/contrat-avec-dieu-par-le-bapteme",
+  "editions": {
+    "fr-FR": {
+      "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://www.liberius.net/livres/OEuvres_completes_de_saint_Jean_Eudes_(tome_2)_000000347.pdf",
+      "edition": "Œuvres complètes du Vénérable Jean Eudes, tome 2, Vannes (Lafolye) et Paris (Beauchesne), 1905–1911, éd. Ch. Lebrun, A. Le Doré, J. Dauphin; transcription Bibliothèque Saint Libère (liberius.net), 2008.",
+      "description": "Born-digital transcription of the 1905–11 edition, converted by script: page markers and running heads removed, hyphenation and leaked letter-spacing repaired, paragraphs rejoined; the editors’ footnotes are gathered at the end of the file where they fall; footnote call numbers stay in the running text. The editors’ introductions are kept.",
+      "tier": "A",
+      "tierEvidence": "Eudes died in 1680; the 1905–11 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "contrat-01",
+      "title": {
+        "fr-FR": "Le Contrat (1)"
+      }
+    },
+    {
+      "id": "contrat-02",
+      "title": {
+        "fr-FR": "Le Contrat (2): Contrat de l'homme avec dieu"
+      }
+    },
+    {
+      "id": "contrat-03",
+      "title": {
+        "fr-FR": "Le Contrat (3): Il s'ensuit que, quiconque pèche mortellement il fait cinq grands maux"
+      }
+    }
+  ]
+}
