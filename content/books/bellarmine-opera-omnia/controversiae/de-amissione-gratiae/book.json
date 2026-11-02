@@ -1,0 +1,747 @@
+{
+  "id": "bellarmine-controversiae-de-amissione-gratiae",
+  "cover": "classic",
+  "name": {
+    "la": "De amissione gratiae et statu peccati",
+    "en-US": "On the Loss of Grace and the State of Sin",
+    "pt-BR": "Sobre a perda da graça e o estado de pecado"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Ex Disputationibus de controversiis christianae fidei adversus huius temporis haereticos (1586-93): De amissione gratiae et statu peccati. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "From the Disputations on the Controversies of the Christian Faith (1586-93): original sin, actual sin and the loss of grace. Latin only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "Das Disputas sobre as controvérsias da fé cristã (1586-93): Sobre a perda da graça e o estado de pecado."
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/controversiae-de-amissione-gratiae",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia05bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 5 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "b1",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "b1c01",
+          "title": {
+            "la": "Caput I. De peccati definitione",
+            "en-US": "Caput I. De peccati definitione"
+          }
+        },
+        {
+          "id": "b1c02",
+          "title": {
+            "la": "Caput II. Peccati partitiones",
+            "en-US": "Caput II. Peccati partitiones"
+          }
+        },
+        {
+          "id": "b1c03",
+          "title": {
+            "la": "Caput III. ista daemonibus; et latine dicuntur illa flagitia, ista scelera, vel facinora",
+            "en-US": "Caput III. ista daemonibus; et latine dicuntur illa flagitia, ista scelera, vel facinora"
+          }
+        },
+        {
+          "id": "b1c04",
+          "title": {
+            "la": "Caput IV. Referuntur sententia haereticorum",
+            "en-US": "Caput IV. Referuntur sententia haereticorum"
+          }
+        },
+        {
+          "id": "b1c05",
+          "title": {
+            "la": "Caput V",
+            "en-US": "Caput V"
+          }
+        },
+        {
+          "id": "b1c06",
+          "title": {
+            "la": "Caput VI. Diluuntur objectiones Pelagianorum",
+            "en-US": "Caput VI. Diluuntur objectiones Pelagianorum"
+          }
+        },
+        {
+          "id": "b1c07",
+          "title": {
+            "la": "Caput VII. Refellitur error Joan. Wicleffi, et Joan",
+            "en-US": "Caput VII. Refellitur error Joan. Wicleffi, et Joan"
+          }
+        },
+        {
+          "id": "b1c08",
+          "title": {
+            "la": "Caput VIII. Refellitur error Lutheranorum",
+            "en-US": "Caput VIII. Refellitur error Lutheranorum"
+          }
+        },
+        {
+          "id": "b1c09",
+          "title": {
+            "la": "Caput IX. Peccatum veniale natura sua distingui a mortali, ostenditur ex Scripturis",
+            "en-US": "Caput IX. Peccatum veniale natura sua distingui a mortali, ostenditur ex Scripturis"
+          }
+        },
+        {
+          "id": "b1c10",
+          "title": {
+            "la": "Caput X. Idem ostenditur ex traditione Ecclesiae, et Patrum",
+            "en-US": "Caput X. Idem ostenditur ex traditione Ecclesiae, et Patrum"
+          }
+        },
+        {
+          "id": "b1c11",
+          "title": {
+            "la": "Caput XI. Idem probatur ex ratione",
+            "en-US": "Caput XI. Idem probatur ex ratione"
+          }
+        },
+        {
+          "id": "b1c12",
+          "title": {
+            "la": "Caput XII. Diluuntur objectiones ex Scripturis",
+            "en-US": "Caput XII. Diluuntur objectiones ex Scripturis"
+          }
+        },
+        {
+          "id": "b1c13",
+          "title": {
+            "la": "Caput XIII. Solvuntur objectiones ex Patribus",
+            "en-US": "Caput XIII. Solvuntur objectiones ex Patribus"
+          }
+        },
+        {
+          "id": "b1c14",
+          "title": {
+            "la": "Caput XIV. Diluuntur objectiones ex naturali ratione petita",
+            "en-US": "Caput XIV. Diluuntur objectiones ex naturali ratione petita"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "b2intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b2c01",
+          "title": {
+            "la": "Caput I. J)c erroribus circa primariam causam peccati",
+            "en-US": "Caput I. J)c erroribus circa primariam causam peccati"
+          }
+        },
+        {
+          "id": "b2c02",
+          "title": {
+            "la": "Caput II. Explicatur datus quaestionis",
+            "en-US": "Caput II. Explicatur datus quaestionis"
+          }
+        },
+        {
+          "id": "b2c03",
+          "title": {
+            "la": "Caput III. Sententia Zwinglii, Calvini, et Bezse ex verbis ipsorum in medium adducitur",
+            "en-US": "Caput III. Sententia Zwinglii, Calvini, et Bezse ex verbis ipsorum in medium adducitur"
+          }
+        },
+        {
+          "id": "b2c04",
+          "title": {
+            "la": "Caput IV. demum peccata sunt, quae Dominus juste suo tempore ulciscitur. Nunquam enim Dominus peccata quatenus peccata sunt, permittit, imo semper prohibet, ac vetat. »",
+            "en-US": "Caput IV. demum peccata sunt, quae Dominus juste suo tempore ulciscitur. Nunquam enim Dominus peccata quatenus peccata sunt, permittit, imo semper prohibet, ac vetat. »"
+          }
+        },
+        {
+          "id": "b2c05",
+          "title": {
+            "la": "Caput V. Ex Zivinrjlii, Calvini, et Bezse sententia sequi, Deum vere, ac proprie peccare",
+            "en-US": "Caput V. Ex Zivinrjlii, Calvini, et Bezse sententia sequi, Deum vere, ac proprie peccare"
+          }
+        },
+        {
+          "id": "b2c06",
+          "title": {
+            "la": "Caput VI. Ex doctrina Calvini, Zivinglii, Bezse, et similium colligi, Deum solum vere peccare, non autem homines",
+            "en-US": "Caput VI. Ex doctrina Calvini, Zivinglii, Bezse, et similium colligi, Deum solum vere peccare, non autem homines"
+          }
+        },
+        {
+          "id": "b2c07",
+          "title": {
+            "la": "Caput VII. Ex doctrina Zwinglii, Calvini et Bezx, non male colligi nihil esse peccatum, nisi falsam opinionem, ut volunt Libertini",
+            "en-US": "Caput VII. Ex doctrina Zwinglii, Calvini et Bezx, non male colligi nihil esse peccatum, nisi falsam opinionem, ut volunt Libertini"
+          }
+        },
+        {
+          "id": "b2c08",
+          "title": {
+            "la": "Caput VIII. Probatur ex divinis litteris, Deum nec peccare, nec esse peccati auctorem",
+            "en-US": "Caput VIII. Probatur ex divinis litteris, Deum nec peccare, nec esse peccati auctorem"
+          }
+        },
+        {
+          "id": "b2c09",
+          "title": {
+            "la": "Caput IX. Probatur testimoniis Pati am, Deum non esse peccati auctorem",
+            "en-US": "Caput IX. Probatur testimoniis Pati am, Deum non esse peccati auctorem"
+          }
+        },
+        {
+          "id": "b2c10",
+          "title": {
+            "la": "Caput X",
+            "en-US": "Caput X"
+          }
+        },
+        {
+          "id": "b2c11",
+          "title": {
+            "la": "Caput XI. Refelluntur objectiones deprompta? ex divinis litteris",
+            "en-US": "Caput XI. Refelluntur objectiones deprompta? ex divinis litteris"
+          }
+        },
+        {
+          "id": "b2c12",
+          "title": {
+            "la": "Caput XII. Solvuntur objectiones ec aliis testimoniis Scriptura \\",
+            "en-US": "Caput XII. Solvuntur objectiones ec aliis testimoniis Scriptura \\"
+          }
+        },
+        {
+          "id": "b2c13",
+          "title": {
+            "la": "Caput XIII. Solvuntur objectiones ex aliis Scriptura; locis",
+            "en-US": "Caput XIII. Solvuntur objectiones ex aliis Scriptura; locis"
+          }
+        },
+        {
+          "id": "b2c14",
+          "title": {
+            "la": "Caput XIV. Solvuntur objectiones ex aliis Scripturae testimoniis petita’",
+            "en-US": "Caput XIV. Solvuntur objectiones ex aliis Scripturae testimoniis petita’"
+          }
+        },
+        {
+          "id": "b2c15",
+          "title": {
+            "la": "Caput XV",
+            "en-US": "Caput XV"
+          }
+        },
+        {
+          "id": "b2c16",
+          "title": {
+            "la": "Caput XVI. Explicantur loca aliquot S. Augustini, quae in speciem favere videntur adversarius",
+            "en-US": "Caput XVI. Explicantur loca aliquot S. Augustini, quae in speciem favere videntur adversarius"
+          }
+        },
+        {
+          "id": "b2c17",
+          "title": {
+            "la": "Caput XVII. Solvuntur objectiones ductae ex ratione",
+            "en-US": "Caput XVII. Solvuntur objectiones ductae ex ratione"
+          }
+        },
+        {
+          "id": "b2c18",
+          "title": {
+            "la": "Caput XVIII. Solvitur objectio, quae a Theologis proponi solet veritatis explicandae gratia",
+            "en-US": "Caput XVIII. Solvitur objectio, quae a Theologis proponi solet veritatis explicandae gratia"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III"
+      },
+      "children": [
+        {
+          "id": "b3c01",
+          "title": {
+            "la": "Caput I. De tentatione, quae peccatum primorum parentum praecessit, quodque primi parentes vere peccaverint",
+            "en-US": "Caput I. De tentatione, quae peccatum primorum parentum praecessit, quodque primi parentes vere peccaverint"
+          }
+        },
+        {
+          "id": "b3c02",
+          "title": {
+            "la": "Caput II. Cur Deus permiserit tentari hominem, quem sciebat casurum",
+            "en-US": "Caput II. Cur Deus permiserit tentari hominem, quem sciebat casurum"
+          }
+        },
+        {
+          "id": "b3c03",
+          "title": {
+            "la": "Caput III. De serpente, qui Evam seduxit, quod verus et naturalis fuerit serpens, quodque per eum",
+            "en-US": "Caput III. De serpente, qui Evam seduxit, quod verus et naturalis fuerit serpens, quodque per eum"
+          }
+        },
+        {
+          "id": "b3c04",
+          "title": {
+            "la": "Caput IV. Primum peccatum parentum primorum fuisse superbiam",
+            "en-US": "Caput IV. Primum peccatum parentum primorum fuisse superbiam"
+          }
+        },
+        {
+          "id": "b3c05",
+          "title": {
+            "la": "Caput V. Solvuntur objectiones, et explicatur, quae fuerit surperbia primorum hominum",
+            "en-US": "Caput V. Solvuntur objectiones, et explicatur, quae fuerit surperbia primorum hominum"
+          }
+        },
+        {
+          "id": "b3c06",
+          "title": {
+            "la": "Caput VI. Primos parentes amisisse fidem, et qim fuerit eorum infidelitas",
+            "en-US": "Caput VI. Primos parentes amisisse fidem, et qim fuerit eorum infidelitas"
+          }
+        },
+        {
+          "id": "b3c07",
+          "title": {
+            "la": "Caput VII. Adamum proprie non fuisse seductum",
+            "en-US": "Caput VII. Adamum proprie non fuisse seductum"
+          }
+        },
+        {
+          "id": "b3c08",
+          "title": {
+            "la": "Caput VIII. Primum A dami peccatum non potuisse esse veniale",
+            "en-US": "Caput VIII. Primum A dami peccatum non potuisse esse veniale"
+          }
+        },
+        {
+          "id": "b3c09",
+          "title": {
+            "la": "Caput IX. Peccatum Adami gravius fuisse ouam peccatum Evx",
+            "en-US": "Caput IX. Peccatum Adami gravius fuisse ouam peccatum Evx"
+          }
+        },
+        {
+          "id": "b3c11",
+          "title": {
+            "la": "Caput XI. De poena primi peccati",
+            "en-US": "Caput XI. De poena primi peccati"
+          }
+        },
+        {
+          "id": "b3c12",
+          "title": {
+            "la": "Caput XII. De poenitentia, et salute primorum hominum",
+            "en-US": "Caput XII. De poenitentia, et salute primorum hominum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b4",
+      "title": {
+        "la": "Liber IV",
+        "en-US": "Book IV"
+      },
+      "children": [
+        {
+          "id": "b4c01",
+          "title": {
+            "la": "Caput I. Proponitur materia disputationis sequentis, et qui de ea scripserint breviter indicantur",
+            "en-US": "Caput I. Proponitur materia disputationis sequentis, et qui de ea scripserint breviter indicantur"
+          }
+        },
+        {
+          "id": "b4c02",
+          "title": {
+            "la": "Caput II. Referuntur errores circa primam quxstionem, quse est, an sit aliquod peccatum originis",
+            "en-US": "Caput II. Referuntur errores circa primam quxstionem, quse est, an sit aliquod peccatum originis"
+          }
+        },
+        {
+          "id": "b4c03",
+          "title": {
+            "la": "Caput III. Derivari ex peccato Adami in posteros aliquod veri nominis peccatum, probatur ex cap. 5. ad Romanos",
+            "en-US": "Caput III. Derivari ex peccato Adami in posteros aliquod veri nominis peccatum, probatur ex cap. 5. ad Romanos"
+          }
+        },
+        {
+          "id": "b4c05",
+          "title": {
+            "la": "Caput V. Probatur eadem veritas testimoniis Patrum, qui ante Pelagianam kxresim exortam scripserunt",
+            "en-US": "Caput V. Probatur eadem veritas testimoniis Patrum, qui ante Pelagianam kxresim exortam scripserunt"
+          }
+        },
+        {
+          "id": "b4c06",
+          "title": {
+            "la": "Caput VI. Probatur eadem veritas ex definitione Ecclesiastica",
+            "en-US": "Caput VI. Probatur eadem veritas ex definitione Ecclesiastica"
+          }
+        },
+        {
+          "id": "b4c07",
+          "title": {
+            "la": "Caput VII. Res eadem rationibus confirmatur",
+            "en-US": "Caput VII. Res eadem rationibus confirmatur"
+          }
+        },
+        {
+          "id": "b4c08",
+          "title": {
+            "la": "Caput VIII. Diluuntur objectiones ex Scripturis",
+            "en-US": "Caput VIII. Diluuntur objectiones ex Scripturis"
+          }
+        },
+        {
+          "id": "b4c09",
+          "title": {
+            "la": "Caput IX. Explicantur testimonia Patrum, quae Pelagianis in speciem favere videntur",
+            "en-US": "Caput IX. Explicantur testimonia Patrum, quae Pelagianis in speciem favere videntur"
+          }
+        },
+        {
+          "id": "b4c10",
+          "title": {
+            "la": "Caput X. Diluuntur argumenta ducta ex ratione",
+            "en-US": "Caput X. Diluuntur argumenta ducta ex ratione"
+          }
+        },
+        {
+          "id": "b4c11",
+          "title": {
+            "la": "Caput XI",
+            "en-US": "Caput XI"
+          }
+        },
+        {
+          "id": "b4c12",
+          "title": {
+            "la": "Caput XII",
+            "en-US": "Caput XII"
+          }
+        },
+        {
+          "id": "b4c13",
+          "title": {
+            "la": "Caput XIII. Non ab Evo, sed a solo Adamo peccatum originale trahi",
+            "en-US": "Caput XIII. Non ab Evo, sed a solo Adamo peccatum originale trahi"
+          }
+        },
+        {
+          "id": "b4c14",
+          "title": {
+            "la": "Caput XIV. Ad filios fidelium peccatum originis pertinere, quemadmodum ad filios infidelium",
+            "en-US": "Caput XIV. Ad filios fidelium peccatum originis pertinere, quemadmodum ad filios infidelium"
+          }
+        },
+        {
+          "id": "b4c15",
+          "title": {
+            "la": "Caput XV. D. Virginem Mariam sine peccato originali conceptam fuisse",
+            "en-US": "Caput XV. D. Virginem Mariam sine peccato originali conceptam fuisse"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b5",
+      "title": {
+        "la": "Liber V",
+        "en-US": "Book V"
+      },
+      "children": [
+        {
+          "id": "b5intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b5c02",
+          "title": {
+            "la": "Caput II. u A peccati originalis nexu nemo per se liber cxtitit, etc. » ubi illud, « per se, » significat, ex vi generationis, sive ex natura, non ex gratia",
+            "en-US": "Caput II. u A peccati originalis nexu nemo per se liber cxtitit, etc. » ubi illud, « per se, » significat, ex vi generationis, sive ex natura, non ex gratia"
+          }
+        },
+        {
+          "id": "b5c03",
+          "title": {
+            "la": "Caput III. Solvuntur argumenta Illyrici",
+            "en-US": "Caput III. Solvuntur argumenta Illyrici"
+          }
+        },
+        {
+          "id": "b5c04",
+          "title": {
+            "la": "Caput IV. Proponitur et refellitur secundus error, qui est multorum Lutheranorum",
+            "en-US": "Caput IV. Proponitur et refellitur secundus error, qui est multorum Lutheranorum"
+          }
+        },
+        {
+          "id": "b5c05",
+          "title": {
+            "la": "Caput V. Proponitur tertius error, qui est communis omnibus Lutheranis et Calvinistis",
+            "en-US": "Caput V. Proponitur tertius error, qui est communis omnibus Lutheranis et Calvinistis"
+          }
+        },
+        {
+          "id": "b5c06",
+          "title": {
+            "la": "Caput VI. Refutantur calumniae, et mendacia haereticorum",
+            "en-US": "Caput VI. Refutantur calumniae, et mendacia haereticorum"
+          }
+        },
+        {
+          "id": "b5c07",
+          "title": {
+            "la": "Caput VII. Refutatur ex Scripturis tertius error, qui est apud Lutheranos communis",
+            "en-US": "Caput VII. Refutatur ex Scripturis tertius error, qui est apud Lutheranos communis"
+          }
+        },
+        {
+          "id": "b5c09",
+          "title": {
+            "la": "Caput IX",
+            "en-US": "Caput IX"
+          }
+        },
+        {
+          "id": "b5c10",
+          "title": {
+            "la": "Caput X. Solvuntur argumenta adversariorum, deprompta ex cap. 6. 7. et 8. ad Roman",
+            "en-US": "Caput X. Solvuntur argumenta adversariorum, deprompta ex cap. 6. 7. et 8. ad Roman"
+          }
+        },
+        {
+          "id": "b5c11",
+          "title": {
+            "la": "Caput XI. Solvuntur objectiones ex aliis Scripturae locis depromptae",
+            "en-US": "Caput XI. Solvuntur objectiones ex aliis Scripturae locis depromptae"
+          }
+        },
+        {
+          "id": "b5c12",
+          "title": {
+            "la": "Caput XII",
+            "en-US": "Caput XII"
+          }
+        },
+        {
+          "id": "b5c13",
+          "title": {
+            "la": "Caput XIII. Respondetur ad loca, quae producuntur ex Augustino",
+            "en-US": "Caput XIII. Respondetur ad loca, quae producuntur ex Augustino"
+          }
+        },
+        {
+          "id": "b5c14",
+          "title": {
+            "la": "Caput XIV. Solvuntur objectiones ex ratione",
+            "en-US": "Caput XIV. Solvuntur objectiones ex ratione"
+          }
+        },
+        {
+          "id": "b5c15",
+          "title": {
+            "la": "Caput XV. Refellitur eorum Catholicorum sententia, qui peccatum originis in quadam positiva qualitate constituunt",
+            "en-US": "Caput XV. Refellitur eorum Catholicorum sententia, qui peccatum originis in quadam positiva qualitate constituunt"
+          }
+        },
+        {
+          "id": "b5c16",
+          "title": {
+            "la": "Caput XVI. Refellitur error Alberti Piyhii, et Ambrosii Caiharini",
+            "en-US": "Caput XVI. Refellitur error Alberti Piyhii, et Ambrosii Caiharini"
+          }
+        },
+        {
+          "id": "b5c17",
+          "title": {
+            "la": "Caput XVII. Explicatur vera sententia de natura peccati originis",
+            "en-US": "Caput XVII. Explicatur vera sententia de natura peccati originis"
+          }
+        },
+        {
+          "id": "b5c18",
+          "title": {
+            "la": "Caput XVIII. Probatur sententia in superiori capite explicata",
+            "en-US": "Caput XVIII. Probatur sententia in superiori capite explicata"
+          }
+        },
+        {
+          "id": "b5c19",
+          "title": {
+            "la": "Caput XIX. Probatur altera pars ejusdem sententiv,",
+            "en-US": "Caput XIX. Probatur altera pars ejusdem sententiv,"
+          }
+        },
+        {
+          "id": "b5c20",
+          "title": {
+            "la": "Caput XX. Refelluntur objectiones quae fieri possunt contra doctrinam capitis superioris",
+            "en-US": "Caput XX. Refelluntur objectiones quae fieri possunt contra doctrinam capitis superioris"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b6",
+      "title": {
+        "la": "Liber VI",
+        "en-US": "Book VI"
+      },
+      "children": [
+        {
+          "id": "b6c01",
+          "title": {
+            "la": "Caput I. Varias sententiae de poena peccati originalis post hanc vitam",
+            "en-US": "Caput I. Varias sententiae de poena peccati originalis post hanc vitam"
+          }
+        },
+        {
+          "id": "b6c02",
+          "title": {
+            "la": "Caput II",
+            "en-US": "Caput II"
+          }
+        },
+        {
+          "id": "b6c03",
+          "title": {
+            "la": "Caput III. llespondetur ad objectiones contra doctrinam, capitis superioris",
+            "en-US": "Caput III. llespondetur ad objectiones contra doctrinam, capitis superioris"
+          }
+        },
+        {
+          "id": "b6c04",
+          "title": {
+            "la": "Caput IV. Itefellitur quinta opinio, atque annentur, parvulas sine Baptismo decedentes, non puniendas poena sensus, sive ignis sensibilis",
+            "en-US": "Caput IV. Itefellitur quinta opinio, atque annentur, parvulas sine Baptismo decedentes, non puniendas poena sensus, sive ignis sensibilis"
+          }
+        },
+        {
+          "id": "b6c05",
+          "title": {
+            "la": "Caput V",
+            "en-US": "Caput V"
+          }
+        },
+        {
+          "id": "b6c06",
+          "title": {
+            "la": "Caput VI. Refellitur tertia opinio, et asseritur, probabile esse, parvulos non baptizatos passuros interiorem animi dolorem, quamvis mitissimum",
+            "en-US": "Caput VI. Refellitur tertia opinio, et asseritur, probabile esse, parvulos non baptizatos passuros interiorem animi dolorem, quamvis mitissimum"
+          }
+        },
+        {
+          "id": "b6c07",
+          "title": {
+            "la": "Caput VII. Respondetur ad objectiones contra doctrinam capitis superioris",
+            "en-US": "Caput VII. Respondetur ad objectiones contra doctrinam capitis superioris"
+          }
+        },
+        {
+          "id": "b6c08",
+          "title": {
+            "la": "Caput VIII. Proponitur methodus fulunc disputationis de poena peccati in hac cita",
+            "en-US": "Caput VIII. Proponitur methodus fulunc disputationis de poena peccati in hac cita"
+          }
+        },
+        {
+          "id": "b6c09",
+          "title": {
+            "la": "Caput IX. Enumerantur morbi sive vulnera mentis humanae",
+            "en-US": "Caput IX. Enumerantur morbi sive vulnera mentis humanae"
+          }
+        },
+        {
+          "id": "b6c10",
+          "title": {
+            "la": "Caput X. De morbis, ac vulneribus voluntatis",
+            "en-US": "Caput X. De morbis, ac vulneribus voluntatis"
+          }
+        },
+        {
+          "id": "b6c11",
+          "title": {
+            "la": "Caput XI. Or< minem partis anima; inferioris",
+            "en-US": "Caput XI. Or< minem partis anima; inferioris"
+          }
+        },
+        {
+          "id": "b6c12",
+          "title": {
+            "la": "Caput XII. De miseriis hominum quoad corpus",
+            "en-US": "Caput XII. De miseriis hominum quoad corpus"
+          }
+        },
+        {
+          "id": "b6c13",
+          "title": {
+            "la": "Caput XIII. De miseriis natur x humanae, quae exttinsecus accedunt",
+            "en-US": "Caput XIII. De miseriis natur x humanae, quae exttinsecus accedunt"
+          }
+        },
+        {
+          "id": "b6c14",
+          "title": {
+            "la": "Caput XIV. Ostenditur contra Pelagianos concupiscentiam esse malam",
+            "en-US": "Caput XIV. Ostenditur contra Pelagianos concupiscentiam esse malam"
+          }
+        },
+        {
+          "id": "b6c15",
+          "title": {
+            "la": "Caput XV. Non solum concupiscentiam, sed omnes miserias humana; natura; poenas esse peccati",
+            "en-US": "Caput XV. Non solum concupiscentiam, sed omnes miserias humana; natura; poenas esse peccati"
+          }
+        },
+        {
+          "id": "b6c16",
+          "title": {
+            "la": "Caput XVI",
+            "en-US": "Caput XVI"
+          }
+        }
+      ]
+    }
+  ]
+}
