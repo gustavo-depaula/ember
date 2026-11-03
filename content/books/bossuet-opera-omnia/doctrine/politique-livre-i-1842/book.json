@@ -1,0 +1,81 @@
+{
+  "id": "bossuet-political-science-book-1-1842",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Political Science Drawn from the Holy Scriptures, Book I",
+    "pt-BR": "A Ciência Política Tirada das Sagradas Escrituras, Livro I"
+  },
+  "author": {
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "en-US": "Book I of Bossuet's Politics drawn from the very words of Holy Scripture, written for the Dauphin: the principles of human society, the origin of civil government, law and the love of country, in the English version reprinted in 1842.",
+    "pt-BR": "O Livro I da Política tirada das próprias palavras da Sagrada Escritura, de Bossuet, escrita para o Delfim: os princípios da sociedade humana, a origem do governo civil, a lei e o amor da pátria, na versão inglesa reimpressa em 1842."
+  },
+  "composed": 1679,
+  "languages": [
+    "en-US"
+  ],
+  "work": "bossuet/politique-tiree-de-l-ecriture-sainte",
+  "editions": {
+    "en-US": {
+      "editor": "Anonymous translator; reprinted from the Catholic Spectator, 1826 (Baltimore: George Keating, 1842)",
+      "year": 1842
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/ThePoliticalScience",
+      "edition": "The Political Science Drawn from the Holy Scriptures, from the French of J. B. Bossuet (George Keating, 1842; Book I, reprinted from the Catholic Spectator, 1826), Internet Archive (Google Books) full-text OCR.",
+      "description": "Book I only, the part the volume contains. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Jacques-Bénigne Bossuet died in 1704 and the edition is of 1842, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "The Author's Preliminary Address to His Royal Pupil"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "Article 1. Man Is Made to Live in Society"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "Article 2. The Society of Mankind Gives Birth to Civil Society"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "Article 3. To Form Nations and Unite the People It Is Necessary to Have a Government"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "Article 4. On Laws"
+      }
+    },
+    {
+      "id": "chapter-06",
+      "title": {
+        "en-US": "Article 5. Consequences of the General Principles of Humanity"
+      }
+    },
+    {
+      "id": "chapter-07",
+      "title": {
+        "en-US": "Article 6. On the Love of Country"
+      }
+    }
+  ]
+}
