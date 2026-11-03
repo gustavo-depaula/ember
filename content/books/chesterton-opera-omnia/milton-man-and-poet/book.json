@@ -1,0 +1,45 @@
+{
+  "id": "chesterton-milton-man-and-poet",
+  "cover": "classic",
+  "name": {
+    "en-US": "Milton: Man and Poet",
+    "pt-BR": "Milton: O Homem e o Poeta"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "A short essay on Milton, first printed in The Catholic World in January 1917.",
+    "pt-BR": "Um breve ensaio sobre Milton, publicado pela primeira vez na The Catholic World em janeiro de 1917."
+  },
+  "composed": "1917",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/milton-man-and-poet",
+  "editions": {
+    "en-US": {
+      "editor": "The Catholic World",
+      "year": 1917
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.net.au/ebooks09/0900721h.html",
+      "edition": "Milton: Man and Poet (The Catholic World, 1917), Project Gutenberg Australia, ebooks09/0900721h.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain in Brazil, the UK and the EU (Chesterton died in 1936). Published in 1917; text taken from Project Gutenberg Australia, which carries it under Australian law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-milton-man-and-poet",
+      "title": {
+        "en-US": "Milton: Man and Poet"
+      }
+    }
+  ]
+}
