@@ -16,8 +16,6 @@ A double preliminary conference shows how much Christ’s mysteries are ours, an
 
 We shall only well understand the transcendent value of these mysteries, their wonderful splendour, their logical connection, the profound unity that knits them together, if we first of all consider the One Who lived them for us. This is why, in the first part, the attempt has been made to sketch in outline the essential traits of the Person of Jesus. the Eternal Word—made Flesh—-Who comes to redeem the world by His Sacrifice.
 
-## XII
-
 The second part is devoted to the contemplation of the mysteries of the Man-God. Taking for his basis the records of the Gospel and the liturgical texts, the author has sought to establish the reality at once human and divine of these mysteries, to mark their meaning, and point out their application for the faithful soul. As to the choice of these mysteries, it has been thought best to dwell upon those which the Church proposes to us in her liturgical cycle. Indeed, who better than the Church knows the secret of her Bridegroom, and possesses the art of distribut- ing the Gospel ? Who better than she knows how to lead . us to the Saviour ?
 
 The extremely kind welcome that the public has deigned to give to the volume “ Christ, the Life of the Soul”, has not only been a precious encouragement for the author. It is besides one of the most consoling symptoms in the sorrows and anxieties of a particularly troubled time. It shows .that, under the pressure of events, many souls, do- . cile to God’s voice, have entered into themselves.; hungering for salvation, peace and light, they have turned towards the One Who alone is the Infallible Way, the Truth that enlightens every man here below, the Life that saves from death.
@@ -27,61 +25,3 @@ It is “in Him” that, according to the words of St. Paul, all things must be 
 May Christ vouchsafe to bless these pages !_ Written for Him, they speak only of Him. May they further reveal to souls the secrets of the love of a God who appeared amongst us! May they lead souls to drink more often at the fountains of living water which have sprung up, for our ' salvation and joy, from the pierced Heart of Jesus! Haurietis aquas in gaudio de fontibus Salvatoris.
 
 DOC Ne Feast of the Annunciation. March 25, 1919.
-
-TE, . .. «And the Word was ete Flesh » » . Saviour and High Priest
-
-INDEX OF. CONFERENCES
-
-PRELIMINARY CONFERENCES
-
-. The Mysteries of Christ are our Mysteries Il.
-
-Our Contact with the Mysteries of Jesus .
-
-I THE PERSON OF CHRIST
-
-In sinu Patris .
-
-II THE MYSTERIES OF CHRIST
-
-. Divine Preparations .
-
-. O admirabile commercium !
-
-. The Epiphany.
-
-. The Blessed Virgin ewe the Nseries of the
-
-Childhood and Hidden Life of Christ.
-
-. The Baptism and the Temptation of Jesus
-
-. Some Aspects of the Public Life .
-
-. On the Heights of Thabor .
-
-. « Christ loved the Church and delivered Herself up for it, that He might sanctify it »
-
-. In the Footsteps of Jesus from the Pretorium to
-
-Calvary.
-
-. St consurrexistis cum ents : : . «And now, Father, glorify Thy Son » . The Mission of the Holy Spirit.
-
-. In Met Memoriam .
-
-. The Heart of Christ .
-
-. Christ « the Crown of all the Saints »
-
-36 57 72
-
-95 114 134
-
-152 174 198
-
-266 285
-
-. - 302
-
-323 342 362 385
