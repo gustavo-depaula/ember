@@ -1,0 +1,135 @@
+{
+  "id": "chesterton-wine-water-and-song",
+  "cover": "classic",
+  "name": {
+    "en-US": "Wine, Water, and Song",
+    "pt-BR": "Vinho, Água e Canção"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "The Englishman's drinking songs, collected for the Anti-Prohibition cause: The Song Against Grocers, The Rolling English Road, The Song of Quoodle, The Logical Vegetarian, The Good Rich Man and Who Goes Home.",
+    "pt-BR": "As canções de beber do inglês, reunidas na causa contrária à Lei Seca: A Canção contra os Merceeiros, A Estrada Inglesa que Rola, A Canção de Quoodle, O Vegetariano Lógico, O Rico Bom e Quem Volta para Casa."
+  },
+  "composed": "1915",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/wine-water-and-song",
+  "editions": {
+    "en-US": {
+      "editor": "Methuen & Co.",
+      "year": 1915
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/35115",
+      "edition": "Wine, Water, and Song (Methuen & Co., 1915), Project Gutenberg #35115.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1915 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-englishman",
+      "title": {
+        "en-US": "The Englishman"
+      }
+    },
+    {
+      "id": "ch02-wine-and-water",
+      "title": {
+        "en-US": "Wine and Water"
+      }
+    },
+    {
+      "id": "ch03-the-song-against-grocers",
+      "title": {
+        "en-US": "The Song Against Grocers"
+      }
+    },
+    {
+      "id": "ch04-the-rolling-english-road",
+      "title": {
+        "en-US": "The Rolling English Road"
+      }
+    },
+    {
+      "id": "ch05-the-song-of-quoodle",
+      "title": {
+        "en-US": "The Song of Quoodle"
+      }
+    },
+    {
+      "id": "ch06-pioneers-o-pioneers",
+      "title": {
+        "en-US": "Pioneers, O Pioneers"
+      }
+    },
+    {
+      "id": "ch07-the-logical-vegetarian",
+      "title": {
+        "en-US": "The Logical Vegetarian"
+      }
+    },
+    {
+      "id": "ch08-the-saracen-s-head",
+      "title": {
+        "en-US": "\"The Saracen's Head\""
+      }
+    },
+    {
+      "id": "ch09-the-good-rich-man",
+      "title": {
+        "en-US": "The Good Rich Man"
+      }
+    },
+    {
+      "id": "ch10-the-song-against-songs",
+      "title": {
+        "en-US": "The Song Against Songs"
+      }
+    },
+    {
+      "id": "ch11-me-heart",
+      "title": {
+        "en-US": "Me Heart"
+      }
+    },
+    {
+      "id": "ch12-the-song-of-the-oak",
+      "title": {
+        "en-US": "The Song of the Oak"
+      }
+    },
+    {
+      "id": "ch13-the-road-to-roundabout",
+      "title": {
+        "en-US": "The Road to Roundabout"
+      }
+    },
+    {
+      "id": "ch14-the-song-of-the-strange-ascetic",
+      "title": {
+        "en-US": "The Song of the Strange Ascetic"
+      }
+    },
+    {
+      "id": "ch15-the-song-of-right-and-wrong",
+      "title": {
+        "en-US": "The Song of Right and Wrong"
+      }
+    },
+    {
+      "id": "ch16-who-goes-home",
+      "title": {
+        "en-US": "Who Goes Home?"
+      }
+    }
+  ]
+}
