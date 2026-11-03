@@ -12,6 +12,38 @@
     "Cure of Ars",
     "John Vianney",
     "Vianney, Jean-Marie-Baptiste, 1786-1859",
-    "Jean-Baptiste-Marie Vianney"
+    "Jean-Baptiste-Marie Vianney",
+    "St. John Vianney, the Curé of Ars"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "The Curé of Ars",
+        "pt-BR": "O Cura d'Ars"
+      },
+      "works": [
+        {
+          "work": "cure-of-ars/thoughts",
+          "why": {
+            "en-US": "Twelve chapters of his sayings on prayer, the Eucharist and sin",
+            "pt-BR": "Doze capítulos de ditos seus sobre oração, Eucaristia e pecado"
+          }
+        },
+        {
+          "work": "cure-of-ars/esprit",
+          "why": {
+            "en-US": "His catechisms, homilies and exhortations, compiled by Monnin",
+            "pt-BR": "Seus catecismos, homilias e exortações, reunidos por Monnin"
+          }
+        },
+        {
+          "work": "cure-of-ars/sermons",
+          "why": {
+            "en-US": "Seventy-seven parish sermons for the year, in his own hand",
+            "pt-BR": "Setenta e sete sermões paroquiais do ano, de próprio punho"
+          }
+        }
+      ]
+    }
   ]
 }
