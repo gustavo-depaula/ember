@@ -8,5 +8,22 @@
     "Father Louis Lallemant, S.J.",
     "Louis Lallemant",
     "Lallemant, Louis"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "lallemant/doctrine-spirituelle",
+          "why": {
+            "en-US": "The teaching of the Jesuit tertians instructor, 1694",
+            "pt-BR": "O ensino do instrutor dos terceiranos jesuítas, 1694"
+          }
+        }
+      ]
+    }
   ]
 }
