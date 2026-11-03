@@ -1,0 +1,48 @@
+{
+  "id": "gueranger-panegyrique-francois-de-sales",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Panégyrique de saint François de Sales",
+    "en-US": "Panegyric of St. Francis de Sales",
+    "pt-BR": "Panegírico de São Francisco de Sales"
+  },
+  "author": {
+    "fr-FR": "Prosper Guéranger",
+    "en-US": "Prosper Guéranger",
+    "pt-BR": "Prosper Guéranger"
+  },
+  "description": {
+    "fr-FR": "Sermon prêché par l’abbé Guéranger à la Visitation du Mans le 29 janvier 1832, avant la restauration de Solesmes. La présentation moderne du Père Matthieu Wallut, qui précède le texte sur le site, est omise.",
+    "en-US": "A sermon preached by the abbé Guéranger at the Visitation of Le Mans on 29 January 1832, before the restoration of Solesmes. The modern introduction by Fr Matthieu Wallut that precedes the text on the site is left out.",
+    "pt-BR": "Sermão pregado pelo abade Guéranger na Visitação do Mans em 29 de janeiro de 1832, antes da restauração de Solesmes. A apresentação moderna do Pe. Matthieu Wallut que precede o texto no site foi omitida."
+  },
+  "composed": "1832",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/panegyrique-francois-de-sales",
+  "editions": {
+    "fr-FR": {
+      "editor": "Manuscript sermon, as transcribed on domgueranger.net",
+      "year": 1832
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://www.domgueranger.net/le-panegyrique-de-saint-francois-de-sales/",
+      "edition": "Panégyrique de saint François de Sales, 1832 (domgueranger.net HTML transcription)",
+      "description": "Sermon text with the transcriber’s notes.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; text first published in his lifetime or by 1931."
+    }
+  ],
+  "toc": [
+    {
+      "id": "panegyrique",
+      "title": {
+        "fr-FR": "Panégyrique de saint François de Sales"
+      }
+    }
+  ]
+}
