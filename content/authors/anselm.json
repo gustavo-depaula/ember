@@ -9,5 +9,175 @@
     "St. Anselm of Canterbury",
     "Anselm of Canterbury",
     "Anselm, Saint, Archbishop of Canterbury"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "anselm/proslogion",
+          "why": {
+            "en-US": "One argument that God exists, framed as a prayer",
+            "pt-BR": "Um só argumento de que Deus existe, em forma de oração"
+          }
+        },
+        {
+          "work": "anselm/cur-deus-homo",
+          "why": {
+            "en-US": "Why God became man: the doctrine of satisfaction, in two books",
+            "pt-BR": "Por que Deus se fez homem: a doutrina da satisfação, em dois livros"
+          }
+        },
+        {
+          "work": "anselm/orationes-et-meditationes",
+          "why": {
+            "en-US": "The prayers and meditations that circulate under his name",
+            "pt-BR": "As orações e meditações que correm sob o seu nome"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The arguments for God",
+        "pt-BR": "Os argumentos sobre Deus"
+      },
+      "note": {
+        "en-US": "The Proslogion’s argument, its critic and the earlier Monologion.",
+        "pt-BR": "O argumento do Proslogion, seu crítico e o Monologion anterior."
+      },
+      "works": [
+        {
+          "work": "anselm/responsio-ad-gaunilonem",
+          "why": {
+            "en-US": "Gaunilo’s objection for the fool and Anselm’s reply",
+            "pt-BR": "A objeção de Gaunilo em favor do insensato e a resposta de Anselmo"
+          }
+        },
+        {
+          "work": "anselm/monologion",
+          "why": {
+            "en-US": "His first major work: the being of God, argued by reason alone",
+            "pt-BR": "Sua primeira obra maior: o ser de Deus, argumentado só pela razão"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Dialogues on truth, freedom and evil",
+        "pt-BR": "Diálogos sobre verdade, liberdade e mal"
+      },
+      "note": {
+        "en-US": "Teacher-and-student dialogues, from logic to the will.",
+        "pt-BR": "Diálogos de mestre e discípulo, da lógica à vontade."
+      },
+      "works": [
+        {
+          "work": "anselm/de-veritate",
+          "why": {
+            "en-US": "Truth as rightness, in statements, will and things",
+            "pt-BR": "A verdade como retidão, nas proposições, na vontade e nas coisas"
+          }
+        },
+        {
+          "work": "anselm/de-libertate-arbitrii",
+          "why": {
+            "en-US": "Free will as keeping the rightness of the will",
+            "pt-BR": "O livre-arbítrio como conservação da retidão da vontade"
+          }
+        },
+        {
+          "work": "anselm/de-casu-diaboli",
+          "why": {
+            "en-US": "How the devil fell, and evil as a privation",
+            "pt-BR": "Como caiu o diabo, e o mal como privação"
+          }
+        },
+        {
+          "work": "anselm/de-grammatico",
+          "why": {
+            "en-US": "An early dialogue of logic and semantics",
+            "pt-BR": "Um diálogo de juventude sobre lógica e semântica"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Later theological treatises",
+        "pt-BR": "Tratados teológicos posteriores"
+      },
+      "works": [
+        {
+          "work": "anselm/de-conceptu-virginali",
+          "why": {
+            "en-US": "The virgin conception of Christ and original sin",
+            "pt-BR": "A concepção virginal de Cristo e o pecado original"
+          }
+        },
+        {
+          "work": "anselm/de-concordia",
+          "why": {
+            "en-US": "His last treatise: foreknowledge, predestination, grace and free will",
+            "pt-BR": "Seu último tratado: presciência, predestinação, graça e livre-arbítrio"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Trinity and Eucharist: the Greeks and Roscelin",
+        "pt-BR": "Trindade e Eucaristia: os gregos e Roscelino"
+      },
+      "works": [
+        {
+          "work": "anselm/epistola-de-incarnatione-verbi",
+          "why": {
+            "en-US": "Letter to Urban II against Roscelin on the Trinity and the Incarnation",
+            "pt-BR": "Carta a Urbano II contra Roscelino sobre a Trindade e a Encarnação"
+          }
+        },
+        {
+          "work": "anselm/de-processione-spiritus-sancti",
+          "why": {
+            "en-US": "Against the Greeks: the Spirit proceeds from the Father and the Son",
+            "pt-BR": "Contra os gregos: o Espírito procede do Pai e do Filho"
+          }
+        },
+        {
+          "work": "anselm/de-sacrificio-azymi-et-fermentati",
+          "why": {
+            "en-US": "The Eucharist in unleavened and in leavened bread",
+            "pt-BR": "A Eucaristia em pão ázimo e em pão fermentado"
+          }
+        },
+        {
+          "work": "anselm/de-sacramentis-ecclesiae",
+          "why": {
+            "en-US": "A short reply on the sign of the cross and the covering of the chalice",
+            "pt-BR": "Breve resposta sobre o sinal da cruz e a cobertura do cálice"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Letters",
+        "pt-BR": "Cartas"
+      },
+      "works": [
+        {
+          "work": "anselm/epistolae",
+          "why": {
+            "en-US": "His letters as prior, abbot of Bec and archbishop of Canterbury",
+            "pt-BR": "Suas cartas como prior, abade do Bec e arcebispo de Cantuária"
+          }
+        }
+      ]
+    }
   ]
 }
