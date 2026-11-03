@@ -46,7 +46,7 @@ The first wave (one or two works per author) is done. This queue imports each au
 
 Separate English books (same `work` as the original) for translations grouped or numbered differently from the original, cheap clean texts first; messy scans are skipped and noted.
 
-- [ ] A. Spanish: Teresa's letters (Stanbrook), John of the Cross's letters, poems, maxims and precautions (Lewis/Zimmerman), Louis of Granada (Hopkins 1582, Meres, Gibbons, Chester 1862, McGrath 1844)
+- [x] A. Spanish (9 books; skipped Meres's Granados Devotion, cropped keying): Teresa's letters (Stanbrook), John of the Cross's letters, poems, maxims and precautions (Lewis/Zimmerman), Louis of Granada (Hopkins 1582, Meres, Gibbons, Chester 1862, McGrath 1844)
 - [ ] B. French: Francis de Sales (Mackey's Controversy, Letters to Persons in the World / in Religion, Canticle, Spiritual Directory), Fénelon (Dialogues of the Dead, Fables, Eloquence, Lives of the Philosophers, Metcalf), Bossuet (Discours, Politique, Avertissements, Communion, Tradition défendue, Devotion to the Virgin, Great French Sermons)
 - [ ] C. Latin medieval: Bernard (Eales, Mount Melleray, Lewis's De consideratione, Mills, Williams), Anselm (Webb, 1891 letters), Bede (Felix, Letters, Apocalypse), early Franciscan lives (Howell, Salter, Carmichael), Bonaventure's Legendae (Lockhart, Salter), Kempis (Scully's Sermones ad novicios), Bridget's Regula
 - [ ] D. Italian and Augustine: Dante (Vita nuova, Rime), de' Pazzi (Fabrini 1900), Bernardine (Robins 1920), Augustine (LF 22 De fide et operibus and De agone christiano, the full LF Enarrationes)

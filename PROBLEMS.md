@@ -101,7 +101,7 @@ These books were imported from scans and corrected by script, not proofread. Pro
 
 ### English left out
 
-- `john-of-the-cross-opera-omnia/{cantico-a,llama-b,avisos,opuscula,epistolario,poesias}`: Spanish only. Lewis/Zimmerman (1912/1919) has English for the letters (18 of Silverio's 26, numbered differently), the poems, the maxims (a different, longer compilation than the Andújar *Dichos*) and "Instructions and Precautions" (the Cautelas and the Counsels), but they are not yet cleaned or paired; they would be their own books. Cántico A and Llama B have no free English.
+- `john-of-the-cross-opera-omnia/{cantico-a,llama-b}`: Spanish only; no free English. The letters, poems, maxims and precautions now have Lewis/Zimmerman English as separate books (`*-lewis`).
 
 These books have no English because the only public-domain translations are badly scanned or don't follow the original's divisions:
 
@@ -112,7 +112,7 @@ These books have no English because the only public-domain translations are badl
 - `ignatius-opera-omnia/ejercicios`: the English has no [1]–[370] section numbers, because Mullan's paragraphs don't match the Spanish units.
 - `teresa-opera-omnia/opusculos`: no English. Stanbrook's Maxims (1913) and Lewis/Zimmerman's Constitutions and Visitation (1913) exist, but their OCR runs the footnotes into the text and the Maxims lose three numbers; no public-domain English is known for the Desafío, the Vejamen or the Pensamientos.
 - `teresa-opera-omnia/poesias`: no English. Stanbrook's 36 poems (Minor Works, 1913) are numbered and grouped differently from Silverio's 31, so they would be their own book.
-- `teresa-opera-omnia/epistolario`: no English yet. Stanbrook's *Letters of St. Teresa* (vols. 1-3 on archive.org: `letterst01tere`, `letterst02tere`, `lettersofsaintte03tere`; vol. 4 only on HathiTrust) is unnumbered, heads each letter with the addressee and prints its notes inside the OCR text; it needs a date and addressee concordance with Silverio before it can be imported as its own book. Also not done: `relaciones` English (Lewis groups the relations as I-XI) and the Ordenanzas have none.
+- `teresa-opera-omnia/epistolario`: the Stanbrook English is now its own book, `teresa-opera-omnia/epistolario-stanbrook` (see below).
 - `therese-opera-omnia/{poesies,lettres,prieres,recreations-pieuses,derniers-entretiens,ecrits-divers}`: French only (the authentic Centenary text). The public-domain English follows the 1898 recension, not the authentic text, so it is in separate books with the same `work`: `poems-emery` (Emery 1907, 37 poems and plays, verse), `lettres-1898` and `prieres-1898` (fr + en, Pauline's selections, Taylor 1912). Not imported in English: Taylor's "Morning Prayer" (Pri 10; absent from the French 1898 selection) and his five "Selected Poems" (archive.org scan only). *Récréations pieuses* and *Derniers entretiens* have no public-domain English.
 
 ### Partial texts
