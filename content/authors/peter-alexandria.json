@@ -7,5 +7,44 @@
   "saint": "peter_alexandria",
   "matches": [
     "Peter of Alexandria"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "peter-genuine-acts",
+          "why": {
+            "en-US": "The genuine acts of his martyrdom",
+            "pt-BR": "Os atos genuínos de seu martírio"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Writings",
+        "pt-BR": "Escritos"
+      },
+      "works": [
+        {
+          "work": "peter-canonical-epistle",
+          "why": {
+            "en-US": "The Canonical Epistle",
+            "pt-BR": "A Epístola canônica"
+          }
+        },
+        {
+          "work": "peter-fragments",
+          "why": {
+            "en-US": "Fragments",
+            "pt-BR": "Fragmentos"
+          }
+        }
+      ]
+    }
   ]
 }
