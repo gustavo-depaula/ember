@@ -1,0 +1,161 @@
+{
+  "id": "gueranger-annee-liturgique-15-pentecote-6",
+  "name": {
+    "fr-FR": "L’Année liturgique : le temps après la Pentecôte, VI",
+    "en-US": "The Liturgical Year: Time after Pentecost, Book VI (continuation by Dom Fromage)",
+    "pt-BR": "O Ano Litúrgico: Tempo depois de Pentecostes, VI (continuação de Dom Fromage)"
+  },
+  "author": {
+    "fr-FR": "Dom Lucien Fromage (continuation de Dom Guéranger)",
+    "en-US": "Dom Lucien Fromage",
+    "pt-BR": "Dom Lucien Fromage"
+  },
+  "description": {
+    "fr-FR": "Volume 15 de l’Année liturgique (Le temps après la Pentecôte, VI, 6e volume de la continuation par Dom Lucien Fromage) : un chapitre par jour ou fête, avec les textes liturgiques en latin et en français.",
+    "en-US": "Volume 15 of the 15-volume Liturgical Year (L’Année liturgique) in the original French, the sixth volume of the continuation written by Dom Lucien Fromage after Guéranger’s death. One chapter per day or feast, with the Latin and French of the liturgical texts. Made from the 1911 Oudin printing’s OCR; the two-column Latin and French text is separated by script and some running heads remain.",
+    "pt-BR": "Volume 15 dos 15 volumes de «O Ano Litúrgico» (L’Année liturgique) em francês, volume 6 da continuação escrita por Dom Lucien Fromage após a morte de Guéranger. Um capítulo por dia ou festa, com o latim e o francês dos textos litúrgicos."
+  },
+  "composed": "1901",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "fr-FR": {
+      "editor": "Dom Lucien Fromage, continuation (Oudin, Paris-Poitiers)",
+      "year": 1911
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/lanneliturgiqu15gu",
+      "edition": "L’Année liturgique, vol. 15, Paris-Poitiers: Librairie H. Oudin, 1911. Internet Archive scan (University of Toronto), OCR text.",
+      "description": "Split at detected day and feast headings; running heads and page numbers removed where recognised; the Latin and French columns, interleaved line by line in the OCR, were separated by language and set as a Latin paragraph followed by its French. The table of contents at the back is not imported.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875 and Fromage in 1916; the text was printed in 1911 (before 1931)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-preface-a",
+      "title": {
+        "fr-FR": "Préface ^a°"
+      }
+    },
+    {
+      "id": "002-la-pentecote-chapitre-premier-de-l-assistance-a",
+      "title": {
+        "fr-FR": "La Pentecôte chapitre premier de l assistance a . Sainte Messe, au temps après la Pentecôte"
+      }
+    },
+    {
+      "id": "003-chapitre-ii-des-offices-de-tierce-sexte-et-none",
+      "title": {
+        "fr-FR": "Chapitre II. des offices de tierce, sexte et none, au temps après la Pentecôte. a tierce"
+      }
+    },
+    {
+      "id": "004-chapitre-iii-l-office-des-vepres-des-dimanches-e",
+      "title": {
+        "fr-FR": "Chapitre III. l office des vêpres des dimanches et fêtes, au temps après la Pentecôte"
+      }
+    },
+    {
+      "id": "005-la-fete-de-tous-les-saints",
+      "title": {
+        "fr-FR": "La fete de tous les Saints"
+      }
+    },
+    {
+      "id": "006-3-novembre-troisieme-jour-dans-loctave-de-la-tou",
+      "title": {
+        "fr-FR": "3 novembre — Troisième jour dans l'octave de la tou"
+      }
+    },
+    {
+      "id": "007-e-v-e-q-u-e-et-conf-b-s-s-e-u-r",
+      "title": {
+        "fr-FR": "É v ê q u e et conf b s s e u r"
+      }
+    },
+    {
+      "id": "008-4-novembre-saint-charles-eveque-et-confesseur",
+      "title": {
+        "fr-FR": "4 novembre — Saint Charles, évêque et confesseur"
+      }
+    },
+    {
+      "id": "009-7-novembre-septieme-jour",
+      "title": {
+        "fr-FR": "7 novembre — Septième jour"
+      }
+    },
+    {
+      "id": "010-le-dimanche-apres-l-octave-de-la-toussaint-de-la",
+      "title": {
+        "fr-FR": "Le dimanche après l octave de la toussaint. de la dedica< ise^"
+      }
+    },
+    {
+      "id": "011-9-novembre-du-tres-saint-sauveur",
+      "title": {
+        "fr-FR": "9 novembre — Du tres Saint Sauveur"
+      }
+    },
+    {
+      "id": "012-12-novembre-saint-martin-t-f-pape-et-martyr",
+      "title": {
+        "fr-FR": "12 novembre — Saint Martin t«f Pape et martyr"
+      }
+    },
+    {
+      "id": "013-13-novembre",
+      "title": {
+        "fr-FR": "13 novembre"
+      }
+    },
+    {
+      "id": "014-15-novembre-sainte-gertrude-vier-ge",
+      "title": {
+        "fr-FR": "15 novembre — Sainte Gertrude, vier^ge '"
+      }
+    },
+    {
+      "id": "015-17-novembre-saint-gregoire-thaumaturge-eve-que-e",
+      "title": {
+        "fr-FR": "17 novembre — Saint Grégoire thaumaturge, eve que et confesseur"
+      }
+    },
+    {
+      "id": "016-21-novembre-la-presentation-de-la-tres-sainte-vi",
+      "title": {
+        "fr-FR": "21 novembre — La présentation de la très Sainte Vierge"
+      }
+    },
+    {
+      "id": "017-22-novembre-vierge-et-martyre",
+      "title": {
+        "fr-FR": "22 novembre — Vierge et martyre"
+      }
+    },
+    {
+      "id": "018-23-novembre-saint-clement-i-pape-et-martyr-l",
+      "title": {
+        "fr-FR": "23 novembre — Saint Clément i*', Pape et martyr l"
+      }
+    },
+    {
+      "id": "019-saint-jean-de-la-croix-confesseur",
+      "title": {
+        "fr-FR": "Saint Jean de la Croix. confesseur"
+      }
+    },
+    {
+      "id": "020-30-novembre",
+      "title": {
+        "fr-FR": "30 novembre"
+      }
+    }
+  ]
+}
