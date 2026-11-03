@@ -1,0 +1,271 @@
+{
+  "id": "garrigou-de-beatitudine",
+  "cover": "quarter",
+  "name": {
+    "la": "De beatitudine: commentarium in Summam theologicam S. Thomae (I-II, qq. 1-54)",
+    "en-US": "On Beatitude (Latin): commentary on the Summa I-II, qq. 1-54",
+    "pt-BR": "De beatitudine (latim): comentário à Suma I-II, qq. 1-54"
+  },
+  "author": {
+    "la": "Reginaldus Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "description": {
+    "la": "Commentarium in Summam theologicam I-II, quaestiones 1-54 : de ultimo fine, de beatitudine, de actibus humanis, de passionibus et habitibus.",
+    "en-US": "The Latin commentary on the Summa theologiae I-II, qq. 1-54: the last end, beatitude, human acts, passions and habits.",
+    "pt-BR": "O comentário latino à Suma teológica I-II, qq. 1-54: o fim último, a bem-aventurança, os atos humanos, as paixões e os hábitos."
+  },
+  "composed": "1951",
+  "work": "garrigou-lagrange/de-beatitudine",
+  "editions": {
+    "la": {
+      "editor": "Garrigou-Lagrange (Marietti, Turin / Desclée)",
+      "year": 1951
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/GarrigouLagrangeLatin",
+      "edition": "De beatitudine: commentarium in Summam theologicam S. Thomae (I-II, qq. 1-54), archive.org GarrigouLagrangeLatin, OCR text; divided by the Summa’s articles (\"Art. N — Utrum …\") found in the OCR, the indexes left out"
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "prolegomena",
+      "title": {
+        "la": "Prolegomena"
+      }
+    },
+    {
+      "id": "q1",
+      "title": {
+        "la": "Sectio 1"
+      },
+      "children": [
+        {
+          "id": "q1-a1",
+          "title": {
+            "la": "Sectio 1, art. 1: UTRUM UNIUS HOMINIS POSSINT ESSE PLURES"
+          }
+        },
+        {
+          "id": "q1-a2-p1",
+          "title": {
+            "la": "Sectio 1, art. 2: UTRUM BEATITUDO HOMINIS CONSISTAT (pars 1)"
+          }
+        },
+        {
+          "id": "q1-a2-p2",
+          "title": {
+            "la": "Sectio 1, art. 2: UTRUM BEATITUDO HOMINIS CONSISTAT (pars 2)"
+          }
+        },
+        {
+          "id": "q1-a2-p3",
+          "title": {
+            "la": "Sectio 1, art. 2: UTRUM BEATITUDO HOMINIS CONSISTAT (pars 3)"
+          }
+        },
+        {
+          "id": "q1-a2-p4",
+          "title": {
+            "la": "Sectio 1, art. 2: UTRUM BEATITUDO HOMINIS CONSISTAT (pars 4)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "title": {
+        "la": "Sectio 2"
+      },
+      "children": [
+        {
+          "id": "q2-a1",
+          "title": {
+            "la": "Sectio 2, art. 1: UTRUM CIBCUHSTAMTIA SIT ACCIDEHS"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "title": {
+        "la": "Sectio 3"
+      },
+      "children": [
+        {
+          "id": "q3-a1",
+          "title": {
+            "la": "Sectio 3, art. 1: UTRUM VOLUMTAS MOVEATUR AB INTELLECTU"
+          }
+        },
+        {
+          "id": "q3-a2",
+          "title": {
+            "la": "Sectio 3, art. 2: UTRUM VOLUNTAS MOVEATUR DE NECESSITATE"
+          }
+        },
+        {
+          "id": "q3-a3",
+          "title": {
+            "la": "Sectio 3, art. 3: UTRUH INTENTIO FINI8 SIT IDEM ACTUS"
+          }
+        },
+        {
+          "id": "q3-a4",
+          "title": {
+            "la": "Sectio 3, art. 4: Conolusio: Consitium in aelit tion potcst fo infimtum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "title": {
+        "la": "Sectio 4"
+      },
+      "children": [
+        {
+          "id": "q4-a1",
+          "title": {
+            "la": "Sectio 4, art. 1: ConsenBus est actus appedtiv» virtuti"
+          }
+        },
+        {
+          "id": "q4-a2",
+          "title": {
+            "la": "Sectio 4, art. 2: ConsensuB proprie loquendo non est in nuimalibus"
+          }
+        },
+        {
+          "id": "q4-a3",
+          "title": {
+            "la": "Sectio 4, art. 3: Conscusus proprie loqueudo non est de Une, scd de"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "title": {
+        "la": "Sectio 5"
+      },
+      "children": [
+        {
+          "id": "q5-a1",
+          "title": {
+            "la": "Sectio 5, art. 1: activus propric pcrtinct ad voluntatem , quia pro-"
+          }
+        },
+        {
+          "id": "q5-a2",
+          "title": {
+            "la": "Sectio 5, art. 2: Vfiis proprie ad hrute non pertinct, qnia bruta non"
+          }
+        },
+        {
+          "id": "q5-a3",
+          "title": {
+            "la": "Sectio 5, art. 3: Usut tHTsatur circa media utilia ad flnem. Kon"
+          }
+        },
+        {
+          "id": "q5-a4",
+          "title": {
+            "la": "Sectio 5, art. 4: Uxux rcaJitcr difttinguitur ah etecthne et eam se-"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "title": {
+        "la": "Sectio 6"
+      },
+      "children": [
+        {
+          "id": "q6-a1",
+          "title": {
+            "la": "Sectio 6, art. 1: UTRUM IMPERIUM SIT ACTUS RATIONIS"
+          }
+        },
+        {
+          "id": "q6-a2",
+          "title": {
+            "la": "Sectio 6, art. 2: Iraperium nou pertinot ad ouimulio bruto, quio so-"
+          }
+        },
+        {
+          "id": "q6-a3",
+          "title": {
+            "la": "Sectio 6, art. 3: Imperiuiu igitur pi-jwedit uaum, quem dirigit. 8ed"
+          }
+        },
+        {
+          "id": "q6-a4",
+          "title": {
+            "la": "Sectio 6, art. 4: 7mpe>riam et actus Unperatus comtituunt unum"
+          }
+        },
+        {
+          "id": "q6-a5",
+          "title": {
+            "la": "Sectio 6, art. 5: 1. voluntatis imperari possuut, exceptu primu vo-"
+          }
+        },
+        {
+          "id": "q6-a6",
+          "title": {
+            "la": "Sectio 6, art. 6: Actus vcro anima veyetatim et /notns organorum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "title": {
+        "la": "Sectio 7"
+      },
+      "children": [
+        {
+          "id": "q7-a1",
+          "title": {
+            "la": "Sectio 7, art. 1: Conclusto: Aetus humanus ex hoc qiiod est bonus out"
+          }
+        },
+        {
+          "id": "q7-a2",
+          "title": {
+            "la": "Sectio 7, art. 2: UTRUM HABITUS"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "title": {
+        "la": "Sectio 8"
+      },
+      "children": [
+        {
+          "id": "q8-a1",
+          "title": {
+            "la": "Sectio 8, art. 1: UTRUM ALIQUIS HABITUS SIT A NATURA"
+          }
+        },
+        {
+          "id": "q8-a2",
+          "title": {
+            "la": "Sectio 8, art. 2: UTRUM ALIQUIS HABITUS"
+          }
+        }
+      ]
+    }
+  ]
+}
