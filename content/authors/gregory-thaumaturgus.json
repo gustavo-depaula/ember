@@ -7,5 +7,116 @@
   "saint": "gregory_thaumaturgus",
   "matches": [
     "Gregory Thaumaturgus"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "gregory-thaumaturgus-oration-and-panegyric-addressed-to-origen",
+          "why": {
+            "en-US": "His farewell oration to his teacher Origen",
+            "pt-BR": "Seu discurso de despedida a seu mestre Orígenes"
+          }
+        },
+        {
+          "work": "gregory-thaumaturgus-four-homilies",
+          "why": {
+            "en-US": "Four homilies",
+            "pt-BR": "Quatro homilias"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Faith and doctrine",
+        "pt-BR": "Fé e doutrina"
+      },
+      "works": [
+        {
+          "work": "gregory-thaumaturgus-sectional-confession-of-faith",
+          "why": {
+            "en-US": "A confession of faith in sections",
+            "pt-BR": "Uma profissão de fé em seções"
+          }
+        },
+        {
+          "work": "gregory-thaumaturgus-twelve-topics-on-the-faith",
+          "why": {
+            "en-US": "Twelve topics on the faith",
+            "pt-BR": "Doze temas sobre a fé"
+          }
+        },
+        {
+          "work": "gregory-thaumaturgus-declaration-of-faith",
+          "why": {
+            "en-US": "A very short declaration of faith, about 230 words",
+            "pt-BR": "Uma declaração de fé muito breve, de cerca de 230 palavras"
+          }
+        },
+        {
+          "work": "gregory-thaumaturgus-trinity",
+          "why": {
+            "en-US": "On the Trinity",
+            "pt-BR": "Sobre a Trindade"
+          }
+        },
+        {
+          "work": "gregory-thaumaturgus-subject-of-the-soul",
+          "why": {
+            "en-US": "On the subject of the soul",
+            "pt-BR": "Sobre o tema da alma"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Scripture",
+        "pt-BR": "Escritura"
+      },
+      "works": [
+        {
+          "work": "gregory-thaumaturgus-metaphrase-of-the-book-of-ecclesiastes",
+          "why": {
+            "en-US": "A metaphrase of Ecclesiastes",
+            "pt-BR": "Uma metáfrase do Eclesiastes"
+          }
+        },
+        {
+          "work": "gregory-thaumaturgus-matthew-6",
+          "why": {
+            "en-US": "On Matthew 6:22-23",
+            "pt-BR": "Sobre Mateus 6,22-23"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Church life",
+        "pt-BR": "Vida da Igreja"
+      },
+      "works": [
+        {
+          "work": "gregory-thaumaturgus-canonical-epistle",
+          "why": {
+            "en-US": "Canonical Epistle",
+            "pt-BR": "Epístola canônica"
+          }
+        },
+        {
+          "work": "gregory-thaumaturgus-all-the-saints",
+          "why": {
+            "en-US": "On All the Saints",
+            "pt-BR": "Sobre Todos os Santos"
+          }
+        }
+      ]
+    }
   ]
 }
