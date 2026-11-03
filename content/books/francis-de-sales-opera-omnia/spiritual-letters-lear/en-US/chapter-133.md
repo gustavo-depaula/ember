@@ -1,0 +1,35 @@
+# Letter 133. To a Lady, Recently Come Under his Direction
+
+DIRECTION.
+
+Madame,
+
+Your letter of January 20 was a source of great satisfaction to me, because amid all the troubles which you set before me, I thought I could see that you had made progress in the spiritual life. I must answer you more briefly than I should wish, for I have less leisure and more hindrances than I expected.
+
+You say that you are grieved because you do not seem to open your heart sufficiently to me. To this I reply that, although I cannot know what you do in my absence, and I am no prophet, still I think it would be impossible to know your disposition and inclinations better than I do, considering the short time I have known you. I think there are few folds of your heart into which I have not penetrated; and if you continue to open the door of your mind, I can see everything plainly. It is a great advantage to you that it should be so, if you wish me to help you on the way of salvation.
+
+You complain that sundry imperfections and faults come across the longings you feel after perfection and a pure love of God. And I answer that it is not possible to be altogether quit of self while we live in this world. We must carry our own load steadily, until it pleases God to carry us to Heaven; and while we carry this burden, ^tis truly but a worthless one! So we must have patience, and not fancy that we can cure the bad habits formed through years of spiritual carelessness in a day.
+
+There have been those whom God has cured suddenly, taking away every trace of past evil; such as Magdalene, who was converted from a sink of corruption into a fountain of pure water, never to fail again. But then, too, God left the stamp of past evil dispositions upon many of His chosen servants, after they were converted, and that for their greater good. For instance, S. Peter fell sundry times after he was called of Christ, and even denied his Master. King Solomon says that “the handmaid who is heir to her mistress” is a troublesome thing;* and there would be a danger lest the soul, which has long been the
+
+* Prov. XXX. 23.
+
+slave of its o^vn passions, should become vain and proud were it suddenly to be perfectly free from them. We must rather win this victory little by little, step by step j it has cost saints many a long yearns struggle. You must, if you please, be patient with everybody, and first of all with yourself
+
+Next, you tell me that you can do nothing in prayer. But what would you do, save that which you can achieve, namely, ever and again lay your nothingness and misery before God? Beggars generally think they can make no more touching appeal to the charitable than the exhibition of their sores and griefs. Sometimes, however, you do not even do this, you say, but you are cold and impassive as a statue. Well, even that is something. In royal palaces we often find statues which serve no purpose save to gratify the prince’s eye. Be content to stand thus in God’s Presence, and leave Him to quicken the statue into life when He sees fit. Trees cannot bear fruit unless the sun’s warmth fertilizes them; and some bear it sooner than others, according to their kind. Let us count ourselves happy if we may but stand before God, and wait patiently to bear fiiiit sooner or later; every day, or at rare intervals, according to His Holy Will, to which we must submit absolutely.
+
+That is, indeed, a wonderful saying which you
+
+•S'. FJiANCIS DE SALES.
+
+quote: “ Let God treat me as He will, it is all one to ipe, if I may but serve Him.”* But be sure that you feed diligently upon it in your heart; let it melt in your mouth, do not swallow it whole. S. Theresa (whom you love so much, of which I am very glad) says somewhere that we are very apt to use such words as these mechanically, and without really apprehending their meanings. We fancy that we say them sincerely, and mean them, although practically it is proved not to be so. Well, then, you say that it is all one to you how it may please God to treat you. Now you know very well how He has treated you — ^in what condition and circumstances He places you — but tell me, is it all one to you? Nor are you ignorant of the daily debt which He requires you to pay, but nevertheless that is not “ all one ” to you? Alas, how craftily self-love insinuates itself into our hearts, however earnest they seem to be!
+
+The real remedy is to find out what God wills, and having found that, to try and do it cheerfully, or at all events heartily. Further still, we must love that Will, and the duty it lays upon us, were that duty herding swine, or any other of the most distasteful kind; for ‘‘ let God treat us as He wills, it should be all one to us.” This is the point of perfection, at
+
+* “ Que Dieu me mette en telle sauce qu’il voudra, ce m’est tout un, pourvu que je le serve.”
+
+which we should all aim, and he who comes nearest to it will win the prize. But I intreat you, do not be downcast; mould your will by degrees to that of God, and follow where it leads you. Learn to be deeply moved when conscience whispers, “It is God^s Will and little by little this repugnance of which you complain will grow less, imtil it finally disappears. Especially you must strive to conquer the outward exhibition of your inward repugnance, or at least you must diminish it Some persons, when angry or displeased, know how to restrain their feelings, while others break out into sharp words, which indicate pride and vexation. Now all such demonstrations must be corrected and conquered by degrees.
+
+As to your wish to see all belonging to you advancing in God^s service and towards Christian peifection, nothing can be better, and I willingly grant your request that I would join my poor prayers to yours for that end. But, madame, I must honestly tell you that I am afiraid these wishes are not always absolutely pure, or free from a certain self-seeking and self-love. For instance, sometimes we dwell upon such wishes which are not absolutely necessary, to the exclusion of an earnest desire for more indispensable things; — our own growth in humility, resignation, gentleness, and so forth. Or perhaps these ardent wishes for the progress of others lead us into over-anxiety or restlessness; and we do not remember that we must submit in these, as in all else, to God's Holy Will This is what I fear in such wishes, and I intreat you to be watchful lest you should fall into any of these errors; as also to seek the furtherance of your desires very quietly and patiently, without making those who are their object uncomfortable, even without betraying that object; for believe me, if you do so you will hinder, not promote, your end. Let your example and your words quietly sow the seeds of all that is good, and that can further your object among those you love; and without appearing to teach or dictate, strive here and there to make a good impression upon their minds. By this means you will gain more than in any other way, above all, with the help of prayer.
+
+[75.1 CXXXVIIL

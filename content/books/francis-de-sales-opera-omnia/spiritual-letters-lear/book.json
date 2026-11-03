@@ -1,0 +1,957 @@
+{
+  "id": "sales-spiritual-letters-lear",
+  "cover": "classic",
+  "name": {
+    "en-US": "A Selection from the Spiritual Letters of S. Francis de Sales",
+    "pt-BR": "Seleção das Cartas Espirituais de São Francisco de Sales"
+  },
+  "author": {
+    "en-US": "St. Francis de Sales",
+    "pt-BR": "São Francisco de Sales"
+  },
+  "description": {
+    "en-US": "About 150 of Francis de Sales's letters of direction to ladies, religious, priests and friends, selected and translated by H. L. Sidney Lear.",
+    "pt-BR": "Cerca de 150 cartas de direção de São Francisco de Sales a senhoras, religiosas, sacerdotes e amigos, selecionadas e traduzidas por H. L. Sidney Lear."
+  },
+  "composed": 1620,
+  "languages": [
+    "en-US"
+  ],
+  "work": "francis-de-sales/lettres-spirituelles-lear",
+  "editions": {
+    "en-US": {
+      "editor": "H. L. Sidney Lear (London: Rivingtons, 1876)",
+      "year": 1876
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/ASelectionFromTheSpiritualLetters",
+      "edition": "A Selection from the Spiritual Letters of S. Francis de Sales, tr. H. L. Sidney Lear (London: Rivingtons, 1876), Internet Archive (Google Books) full-text OCR.",
+      "description": " Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "St. Francis de Sales died in 1622 and the edition is of 1876, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Letter 1. To a Novice"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "Letter 2. To a Priest About to Be Consecrated Bishop"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "Letter 3. To Madame Rose Bourgeois, Abbesse du Puits d’Orbe"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "Letter 4. To the Same"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "Letter 5. To Madame De Chantal"
+      }
+    },
+    {
+      "id": "chapter-06",
+      "title": {
+        "en-US": "Letter 6. To the Archbishop of Bourges"
+      }
+    },
+    {
+      "id": "chapter-07",
+      "title": {
+        "en-US": "Letter 7. To President Fremiot"
+      }
+    },
+    {
+      "id": "chapter-08",
+      "title": {
+        "en-US": "Letter 8. To the Abbesse du Puits d’Orbe"
+      }
+    },
+    {
+      "id": "chapter-09",
+      "title": {
+        "en-US": "Letter 9. To the Abbesse du Puits d’Orbe, on Meditation and Prayer"
+      }
+    },
+    {
+      "id": "chapter-10",
+      "title": {
+        "en-US": "Letter 10. To Madame Brulart"
+      }
+    },
+    {
+      "id": "chapter-11",
+      "title": {
+        "en-US": "Letter 11. To Madame De Chantal. on Intellectual Temptation and Liberty of Spirit"
+      }
+    },
+    {
+      "id": "chapter-12",
+      "title": {
+        "en-US": "Letter 12. To Madame De Chantal"
+      }
+    },
+    {
+      "id": "chapter-13",
+      "title": {
+        "en-US": "Letter 13. To Madame De Chantal"
+      }
+    },
+    {
+      "id": "chapter-14",
+      "title": {
+        "en-US": "Letter 14. To a Lady"
+      }
+    },
+    {
+      "id": "chapter-15",
+      "title": {
+        "en-US": "Letter 15. To Madame Brulart"
+      }
+    },
+    {
+      "id": "chapter-16",
+      "title": {
+        "en-US": "Letter 16. To Madame Brulart"
+      }
+    },
+    {
+      "id": "chapter-17",
+      "title": {
+        "en-US": "Letter 17. To the Abbesse du Puits d’Orbe"
+      }
+    },
+    {
+      "id": "chapter-18",
+      "title": {
+        "en-US": "Letter 18. To Madame De Chantal. on Abjection"
+      }
+    },
+    {
+      "id": "chapter-19",
+      "title": {
+        "en-US": "Letter 19. To a Young Lady"
+      }
+    },
+    {
+      "id": "chapter-20",
+      "title": {
+        "en-US": "Letter 20. To Madame Brulart"
+      }
+    },
+    {
+      "id": "chapter-21",
+      "title": {
+        "en-US": "Letter 21. To Madame De Chantal"
+      }
+    },
+    {
+      "id": "chapter-22",
+      "title": {
+        "en-US": "Letter 22. To One of the Bishofs Married Sisters"
+      }
+    },
+    {
+      "id": "chapter-23",
+      "title": {
+        "en-US": "Letter 23. To a Lady at Court"
+      }
+    },
+    {
+      "id": "chapter-24",
+      "title": {
+        "en-US": "Letter 24. To Madame De Chantal"
+      }
+    },
+    {
+      "id": "chapter-25",
+      "title": {
+        "en-US": "Letter 25. To Madame De Chantal"
+      }
+    },
+    {
+      "id": "chapter-26",
+      "title": {
+        "en-US": "Letter 26. To Madame De Chantau"
+      }
+    },
+    {
+      "id": "chapter-27",
+      "title": {
+        "en-US": "Letter 27. To a Lady. on Interior Peace"
+      }
+    },
+    {
+      "id": "chapter-28",
+      "title": {
+        "en-US": "Letter 28. To Madame Brulart"
+      }
+    },
+    {
+      "id": "chapter-29",
+      "title": {
+        "en-US": "Letter 29. To a Lady in Sickness"
+      }
+    },
+    {
+      "id": "chapter-30",
+      "title": {
+        "en-US": "Letter 30. To Madame De Chantal"
+      }
+    },
+    {
+      "id": "chapter-31",
+      "title": {
+        "en-US": "Letter 31. To Madame De Miendry, Against a Troubled Mind"
+      }
+    },
+    {
+      "id": "chapter-32",
+      "title": {
+        "en-US": "Letter 32. To a Married Lady"
+      }
+    },
+    {
+      "id": "chapter-33",
+      "title": {
+        "en-US": "Letter 33. To a Lady, in Sickness"
+      }
+    },
+    {
+      "id": "chapter-34",
+      "title": {
+        "en-US": "Letter 34. To his Sister, Madame De Cornillon"
+      }
+    },
+    {
+      "id": "chapter-35",
+      "title": {
+        "en-US": "Letter 35. To a Lady"
+      }
+    },
+    {
+      "id": "chapter-36",
+      "title": {
+        "en-US": "Letter 36. To Madame De Chantal"
+      }
+    },
+    {
+      "id": "chapter-37",
+      "title": {
+        "en-US": "Letter 37. To Madame De Chantal"
+      }
+    },
+    {
+      "id": "chapter-38",
+      "title": {
+        "en-US": "Letter 38. To a Lady, Involved in Legal Affairs"
+      }
+    },
+    {
+      "id": "chapter-39",
+      "title": {
+        "en-US": "Letter 39. To a Gentleman, Going to the Court"
+      }
+    },
+    {
+      "id": "chapter-40",
+      "title": {
+        "en-US": "Letter 40. To a Married Lady"
+      }
+    },
+    {
+      "id": "chapter-41",
+      "title": {
+        "en-US": "Letter 41. To a Married Lady"
+      }
+    },
+    {
+      "id": "chapter-42",
+      "title": {
+        "en-US": "Letter 42. To Madame De Chantal, When Absent on Family Business"
+      }
+    },
+    {
+      "id": "chapter-43",
+      "title": {
+        "en-US": "Letter 43. To a Lady. on Withheld Communion"
+      }
+    },
+    {
+      "id": "chapter-44",
+      "title": {
+        "en-US": "Letter 44. To Madame De Chantal"
+      }
+    },
+    {
+      "id": "chapter-45",
+      "title": {
+        "en-US": "Letter 45. To a Young Lady, Who Wished to Join the Order of the Visitation"
+      }
+    },
+    {
+      "id": "chapter-46",
+      "title": {
+        "en-US": "Letter 46. To a Lady Under Trial"
+      }
+    },
+    {
+      "id": "chapter-47",
+      "title": {
+        "en-US": "Letter 47. To a Lady Living in the World"
+      }
+    },
+    {
+      "id": "chapter-48",
+      "title": {
+        "en-US": "Letter 48. To a Lady. on the Death of her Child"
+      }
+    },
+    {
+      "id": "chapter-49",
+      "title": {
+        "en-US": "Letter 49. To a Lady"
+      }
+    },
+    {
+      "id": "chapter-50",
+      "title": {
+        "en-US": "Letter 50. To M. De Rochefort"
+      }
+    },
+    {
+      "id": "chapter-51",
+      "title": {
+        "en-US": "Letter 51. To Madame De Chantal. on Simplicity"
+      }
+    },
+    {
+      "id": "chapter-52",
+      "title": {
+        "en-US": "Letter 52. To Madame De Chantal"
+      }
+    },
+    {
+      "id": "chapter-53",
+      "title": {
+        "en-US": "Letter 53. To Madame De Chantal"
+      }
+    },
+    {
+      "id": "chapter-54",
+      "title": {
+        "en-US": "Letter 54. To a Religious. on Self-love"
+      }
+    },
+    {
+      "id": "chapter-55",
+      "title": {
+        "en-US": "Letter 55. To the Mere De Chastel"
+      }
+    },
+    {
+      "id": "chapter-56",
+      "title": {
+        "en-US": "Letter 56. To a Religious of the Visitation"
+      }
+    },
+    {
+      "id": "chapter-57",
+      "title": {
+        "en-US": "Letter 57. To One of the Bishop’s Spiritual Children"
+      }
+    },
+    {
+      "id": "chapter-58",
+      "title": {
+        "en-US": "Letter 58. To a Married Niece"
+      }
+    },
+    {
+      "id": "chapter-59",
+      "title": {
+        "en-US": "Letter 59. To a Religious of the Visitation"
+      }
+    },
+    {
+      "id": "chapter-60",
+      "title": {
+        "en-US": "Letter 60. To the Mere Favre"
+      }
+    },
+    {
+      "id": "chapter-61",
+      "title": {
+        "en-US": "Letter 61. To a Lady Who Feared Death"
+      }
+    },
+    {
+      "id": "chapter-62",
+      "title": {
+        "en-US": "Letter 62. To a Lady"
+      }
+    },
+    {
+      "id": "chapter-63",
+      "title": {
+        "en-US": "Letter 63. To a Lady"
+      }
+    },
+    {
+      "id": "chapter-64",
+      "title": {
+        "en-US": "Letter 64. To Madame De Chantal"
+      }
+    },
+    {
+      "id": "chapter-65",
+      "title": {
+        "en-US": "Letter 65. To a Superior of the Visitation on Spiritual Dryness"
+      }
+    },
+    {
+      "id": "chapter-66",
+      "title": {
+        "en-US": "Letter 66. To a Superior"
+      }
+    },
+    {
+      "id": "chapter-67",
+      "title": {
+        "en-US": "Letter 67. To a Lady, Who Had Praised the Bishop Extravagantly"
+      }
+    },
+    {
+      "id": "chapter-68",
+      "title": {
+        "en-US": "Letter 68. To a Lady. on Prayer"
+      }
+    },
+    {
+      "id": "chapter-69",
+      "title": {
+        "en-US": "Letter 69. To a Lady"
+      }
+    },
+    {
+      "id": "chapter-70",
+      "title": {
+        "en-US": "Letter 70. To a Gentleman"
+      }
+    },
+    {
+      "id": "chapter-71",
+      "title": {
+        "en-US": "Letter 71. To Madame De Chantal"
+      }
+    },
+    {
+      "id": "chapter-72",
+      "title": {
+        "en-US": "Letter 72. To a Lady, Who Had Lost her Only Son"
+      }
+    },
+    {
+      "id": "chapter-73",
+      "title": {
+        "en-US": "Letter 73. To a Young Lady"
+      }
+    },
+    {
+      "id": "chapter-74",
+      "title": {
+        "en-US": "Letter 74. To a Religious"
+      }
+    },
+    {
+      "id": "chapter-75",
+      "title": {
+        "en-US": "Letter 75. To the Abbess Angelique Arnaud"
+      }
+    },
+    {
+      "id": "chapter-76",
+      "title": {
+        "en-US": "Letter 76. To a Superior of the Visitation"
+      }
+    },
+    {
+      "id": "chapter-77",
+      "title": {
+        "en-US": "Letter 77. To a Lady"
+      }
+    },
+    {
+      "id": "chapter-78",
+      "title": {
+        "en-US": "Letter 78. To Madame De Chantal"
+      }
+    },
+    {
+      "id": "chapter-79",
+      "title": {
+        "en-US": "Letter 79. To a Superior of the Visitation"
+      }
+    },
+    {
+      "id": "chapter-80",
+      "title": {
+        "en-US": "Letter 80. To a Religious of the Visitation"
+      }
+    },
+    {
+      "id": "chapter-81",
+      "title": {
+        "en-US": "Letter 81. To a Superior of the Visitation"
+      }
+    },
+    {
+      "id": "chapter-82",
+      "title": {
+        "en-US": "Letter 82. To a Religious"
+      }
+    },
+    {
+      "id": "chapter-83",
+      "title": {
+        "en-US": "Letter 83. To the Abbess Angelique, of Port Royal"
+      }
+    },
+    {
+      "id": "chapter-84",
+      "title": {
+        "en-US": "Letter 84. To Mademoiselle De Frouville"
+      }
+    },
+    {
+      "id": "chapter-85",
+      "title": {
+        "en-US": "Letter 85. To a Lady, Expecting her Confinement"
+      }
+    },
+    {
+      "id": "chapter-86",
+      "title": {
+        "en-US": "Letter 86. To a Young Lady in Illness"
+      }
+    },
+    {
+      "id": "chapter-87",
+      "title": {
+        "en-US": "Letter 87. To a Superior of the Visitation"
+      }
+    },
+    {
+      "id": "chapter-88",
+      "title": {
+        "en-US": "Letter 88. To the Portress of a Convent of the Visitation"
+      }
+    },
+    {
+      "id": "chapter-89",
+      "title": {
+        "en-US": "Letter 89. To a Lady. on Confession"
+      }
+    },
+    {
+      "id": "chapter-90",
+      "title": {
+        "en-US": "Letter 90. To a Lady"
+      }
+    },
+    {
+      "id": "chapter-91",
+      "title": {
+        "en-US": "Letter 91. To a Novice. on her Profession"
+      }
+    },
+    {
+      "id": "chapter-92",
+      "title": {
+        "en-US": "Letter 92. To a Lady"
+      }
+    },
+    {
+      "id": "chapter-93",
+      "title": {
+        "en-US": "Letter 93. To the Abbe .... on Friendship, with his Own Likeness"
+      }
+    },
+    {
+      "id": "chapter-94",
+      "title": {
+        "en-US": "Letter 94. To Madame De Chantau"
+      }
+    },
+    {
+      "id": "chapter-95",
+      "title": {
+        "en-US": "Letter 95. To Madame De Chantal"
+      }
+    },
+    {
+      "id": "chapter-96",
+      "title": {
+        "en-US": "Letter 96. To a Superior of the Visitation"
+      }
+    },
+    {
+      "id": "chapter-97",
+      "title": {
+        "en-US": "Letter 97. To a Superior of the Visitation"
+      }
+    },
+    {
+      "id": "chapter-98",
+      "title": {
+        "en-US": "Letter 98. To a Superior of the Visitation"
+      }
+    },
+    {
+      "id": "chapter-99",
+      "title": {
+        "en-US": "Letter 99. To a Newly Appointed Superior"
+      }
+    },
+    {
+      "id": "chapter-100",
+      "title": {
+        "en-US": "Letter 100. To a Superior of the Visitation"
+      }
+    },
+    {
+      "id": "chapter-101",
+      "title": {
+        "en-US": "Letter 101. To a Superior of the Visitation"
+      }
+    },
+    {
+      "id": "chapter-102",
+      "title": {
+        "en-US": "Letter 102. To a Religious of the Visitation. on the Earthly and Spiritual Mind"
+      }
+    },
+    {
+      "id": "chapter-103",
+      "title": {
+        "en-US": "Letter 103. To a Religious of the Visitation"
+      }
+    },
+    {
+      "id": "chapter-104",
+      "title": {
+        "en-US": "Letter 104. To a Religious of the Visitation"
+      }
+    },
+    {
+      "id": "chapter-105",
+      "title": {
+        "en-US": "Letter 105. To a Widowed Religious"
+      }
+    },
+    {
+      "id": "chapter-106",
+      "title": {
+        "en-US": "Letter 106. To a Religious"
+      }
+    },
+    {
+      "id": "chapter-107",
+      "title": {
+        "en-US": "Letter 107. To a Religious"
+      }
+    },
+    {
+      "id": "chapter-108",
+      "title": {
+        "en-US": "Letter 108. To a Religious"
+      }
+    },
+    {
+      "id": "chapter-109",
+      "title": {
+        "en-US": "Letter 109. To a Religious"
+      }
+    },
+    {
+      "id": "chapter-110",
+      "title": {
+        "en-US": "Letter 110. To a Religious"
+      }
+    },
+    {
+      "id": "chapter-111",
+      "title": {
+        "en-US": "Letter 111. To the Abbesse Angelique Arnaud"
+      }
+    },
+    {
+      "id": "chapter-112",
+      "title": {
+        "en-US": "Letter 112. To the Superior of a Carmelite Convent"
+      }
+    },
+    {
+      "id": "chapter-113",
+      "title": {
+        "en-US": "Letter 113. To a Religious"
+      }
+    },
+    {
+      "id": "chapter-114",
+      "title": {
+        "en-US": "Letter 114. To a Religious"
+      }
+    },
+    {
+      "id": "chapter-115",
+      "title": {
+        "en-US": "Letter 115. To a Religious"
+      }
+    },
+    {
+      "id": "chapter-116",
+      "title": {
+        "en-US": "Letter 116. To a Young Lady"
+      }
+    },
+    {
+      "id": "chapter-117",
+      "title": {
+        "en-US": "Letter 117. To a Young Lady"
+      }
+    },
+    {
+      "id": "chapter-118",
+      "title": {
+        "en-US": "Letter 118. To a Widow. Concerning her Child’s Education"
+      }
+    },
+    {
+      "id": "chapter-119",
+      "title": {
+        "en-US": "Letter 119. To the Same"
+      }
+    },
+    {
+      "id": "chapter-120",
+      "title": {
+        "en-US": "Letter 120. To a Cousin"
+      }
+    },
+    {
+      "id": "chapter-121",
+      "title": {
+        "en-US": "Letter 121. To a Lady"
+      }
+    },
+    {
+      "id": "chapter-122",
+      "title": {
+        "en-US": "Letter 122. To a Lady. on the Death of her Sister"
+      }
+    },
+    {
+      "id": "chapter-123",
+      "title": {
+        "en-US": "Letter 123. To a Widowed Lady"
+      }
+    },
+    {
+      "id": "chapter-124",
+      "title": {
+        "en-US": "Letter 124. To a Friend"
+      }
+    },
+    {
+      "id": "chapter-125",
+      "title": {
+        "en-US": "Letter 125. To a Married Lady"
+      }
+    },
+    {
+      "id": "chapter-126",
+      "title": {
+        "en-US": "Letter 126. To a Married Lady"
+      }
+    },
+    {
+      "id": "chapter-127",
+      "title": {
+        "en-US": "Letter 127. To a Lady Under Depression"
+      }
+    },
+    {
+      "id": "chapter-128",
+      "title": {
+        "en-US": "Letter 128. To a Lady. on Spiritual Coldness"
+      }
+    },
+    {
+      "id": "chapter-129",
+      "title": {
+        "en-US": "Letter 129. To a Lady"
+      }
+    },
+    {
+      "id": "chapter-130",
+      "title": {
+        "en-US": "Letter 130. To a Lady. Concerning her Child’s Frequent Communion"
+      }
+    },
+    {
+      "id": "chapter-131",
+      "title": {
+        "en-US": "Letter 131. To a Lady"
+      }
+    },
+    {
+      "id": "chapter-132",
+      "title": {
+        "en-US": "Letter 132. To a Young Nobleman"
+      }
+    },
+    {
+      "id": "chapter-133",
+      "title": {
+        "en-US": "Letter 133. To a Lady, Recently Come Under his Direction"
+      }
+    },
+    {
+      "id": "chapter-134",
+      "title": {
+        "en-US": "Letter 134. To a Lady, Expecting her Confinement"
+      }
+    },
+    {
+      "id": "chapter-135",
+      "title": {
+        "en-US": "Letter 135. To a Lady"
+      }
+    },
+    {
+      "id": "chapter-136",
+      "title": {
+        "en-US": "Letter 136. To a Lady"
+      }
+    },
+    {
+      "id": "chapter-137",
+      "title": {
+        "en-US": "Letter 137. To a Young Lady"
+      }
+    },
+    {
+      "id": "chapter-138",
+      "title": {
+        "en-US": "Letter 138. To a Lady of High Rank, Who Was Being Involved in Law Proceedings"
+      }
+    },
+    {
+      "id": "chapter-139",
+      "title": {
+        "en-US": "Letter 139. To a Young Lady. on Meekness"
+      }
+    },
+    {
+      "id": "chapter-140",
+      "title": {
+        "en-US": "Letter 140. To a Lady"
+      }
+    },
+    {
+      "id": "chapter-141",
+      "title": {
+        "en-US": "Letter 141. To the Same"
+      }
+    },
+    {
+      "id": "chapter-142",
+      "title": {
+        "en-US": "Letter 142. To a Lady, Expecting her Confinement"
+      }
+    },
+    {
+      "id": "chapter-143",
+      "title": {
+        "en-US": "Letter 143. To a Young Lady"
+      }
+    },
+    {
+      "id": "chapter-144",
+      "title": {
+        "en-US": "Letter 144. To a Lady"
+      }
+    },
+    {
+      "id": "chapter-145",
+      "title": {
+        "en-US": "Letter 145. To a Young Lady. on her Entrance into the Fashionable World"
+      }
+    },
+    {
+      "id": "chapter-146",
+      "title": {
+        "en-US": "Letter 146. To a Young Lady, Living in the World"
+      }
+    },
+    {
+      "id": "chapter-147",
+      "title": {
+        "en-US": "Letter 147. To a Married Lady"
+      }
+    },
+    {
+      "id": "chapter-148",
+      "title": {
+        "en-US": "Letter 148. To a Lady"
+      }
+    },
+    {
+      "id": "chapter-149",
+      "title": {
+        "en-US": "Letter 149. To a Gentleman. on Depression of Spirits"
+      }
+    },
+    {
+      "id": "chapter-150",
+      "title": {
+        "en-US": "Letter 150. To a Widow. on her Husband’s Death"
+      }
+    },
+    {
+      "id": "chapter-151",
+      "title": {
+        "en-US": "Letter 151. To a Lady. on the Death of her Sister"
+      }
+    },
+    {
+      "id": "chapter-152",
+      "title": {
+        "en-US": "Letter 152. To a Friend, Who Had Lost his Brother"
+      }
+    },
+    {
+      "id": "chapter-153",
+      "title": {
+        "en-US": "Letter 153. To a Friend. on the New Year"
+      }
+    }
+  ]
+}

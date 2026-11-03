@@ -1,0 +1,9 @@
+# Letter 53. To Madame De Chantal
+
+Fdf.^ 1615.
+
+As I behold the tears of our poor Sister N it seems to me that all our childishness proceeds firom this one fault: namely, we forget how the saints tell us that we ought daily to begin anew our endeavours after perfection; if we did remember this we should not be so surprised at finding so much that is wretched and needs correction in ourselves. The work is never done; we must perpetually begin afiresh, and always begin heartily afresh. What we have done so far is good, but what we are going to begin will be better; and when that is finished we will begin again better still, and so on, until we leave this world altogether, to begin another life, which will know no end, inasmuch as there can be nothing better. So we must not begin to weep because we find things going wrong with us, but we must rouse up firesh courage to go on anew, never stopping to look back; and where it is necessary to cut off superfluities, we must remember that ** the word of God is sharper than any two-edged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow.” * Your mind and mine, dear Mother, are one on this point But let us not forget the precept of the Saints, who have all taught us that those who would follow their steps should speak but little of themselves on the things which concern them. Do not fancy that because you are at Lyons you are dispensed from the compact we made, namely, that you were to be as discreet in speaking of me as of yourself. Unless our Master’s Glory requires more, be ever brief, and observe a most strict simplicity. Self-love often dazzles us, and it is very difficult to see ourselves fairly. Therefore it is that the great Apostle exclaims, “Not he that commendeth himself is approved, but whom. the Lord commendeth.” •
+
+*Heb. iv. 12. "II. Cor. x. i8.
+
+C319.] LV.

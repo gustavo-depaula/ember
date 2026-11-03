@@ -1,0 +1,7 @@
+# Letter 51. To Madame De Chantal. on Simplicity
+
+Dec.y 1614.
+
+Tell the dear Marie, whom I love so much, and who loves me so well, to speak freely of God wherever she thinks it will be useful, regardless of what those who listen may think or say of her. In a word, I have already told her that while we ought neither to do nor say anything in order to obtain praise, no more ought we to leave anything undone or unsaid, because we may be praised for it Nor is it hypocritical to act less perfectly than we talk; of a truth, were it so, we should all be in a bad plight I In that case I must be silent for fear of being a hypocrite, since if I speak concerning perfection, it follows that I coimt myself perfect! No, indeed, my dear daughter, in speaking of perfection I no more reckon myself to be perfect than I suppose myself to be a native of Italy because I speak Italian; but I use the language appertaining to perfection, having learnt and studied the subject Tell Marie to powder her hair if she will. Her intention is good, and the matter is unimportant It is not well to entangle the mind amid all these cobwebs. This good girFs mind needs as much disentangling as her hair! That is why she worries herself! It is not good to be so punctilious, nor to distract oneself with so many little questions which do not concern the things of our Lord. Tell her to go on sincerely, holding fast to simplicity and humility, and to cast aside all these subtleties and perplexities
+
+C3*6.} LIII.

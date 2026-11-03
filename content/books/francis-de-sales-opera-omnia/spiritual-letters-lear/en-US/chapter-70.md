@@ -1,0 +1,11 @@
+# Letter 70. To a Gentleman
+
+ON THE RIGHT USE OF HOLY SCRIPTURE.
+
+Sir, 7 ufy 2, 1619.
+
+It is quite true that Holy Scripture contains fully and clearly all doctrines necessary to salvation; we do not doubt it It is also true that it is very useful to interpret Holy Scripture by comparing passages together, and bringing the whole into an analysis of doctrine. But I must always believe and affirm that, notwithstanding the admirable perspicuity of Holy Scripture in all things necessary to our salvation, the human mind does not always find its right meaning, but is liable to err, and practically does very often err in interpreting passages which are of great importance 10 ■ i*s. xxviii. 7.
+
+the confirmation of the Faith. Witness the Lutheran and Calvinistic writers; they, though leaders of the so-called Reformation, are involved in irreconcilable differences as to the meaning of the words of institution of the Holy Eucharist; and while each side maintains that they have diligently and faithfully studied the sense of those words, taking them with the context of Holy Scripture generally, and comparing the whole with the analogy of Faith, nevertheless they come to very different conclusions. The Word of God is clear enough, but our human minds are cloudy, and, like bats, cannot face the light The method of which we speak is good, but our human minds are not able to use it It is the Holy Spirit of God Who has given us the Scriptures; the same Holy Spirit opens their true meaning to us, and that only through the Church, which is the temple and pillar of Truth: the Church, by whose means the Holy Spirit has kept and preserved the true letter of Scripture; the Church, which alone has the gift of the Spirit of Truth to interpret it. And therefore he who would seek the real meaning of that Heavenly Word, apart firom its guardian the Church, will never find it; he who would seek it independently of her, finds a vain delusion instead of the truth; he is misled by the evil one, who knows how to transform himself into the appearance of an angel of light. It was this which all the heretics of old did, pretending to a better interpretation of Holy Scripture than that taught by the Church, to whom her Crucified Spouse has committed the precious trust. This, sir, is in substance what the Fathers have ever taught
+
+C459.] LXXIIL

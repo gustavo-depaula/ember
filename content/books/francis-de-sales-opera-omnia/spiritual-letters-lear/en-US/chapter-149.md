@@ -1,0 +1,45 @@
+# Letter 149. To a Gentleman. on Depression of Spirits
+
+SPIRITS.
+
+Dear Sir,
+
+I am very anxious to know how you have borne this severe and painful illness, from which 1 hope you are recovering, and which would have been a still greater care to me, if I had not been assured that you are in no danger, and that you are beginning to regain strength.
+
+What seems of most importance now is, that I hear you are tried by very great depression of spirits, in addition to your bodily suffering. I fear this will tend to delay your recovery, and keep you from regaining a healthy tone.
+
+Now, dear sir, the exceeding and true affection which I bear you makes me feel deeply about this trial, and I intreat you to tell me what cause you have for encouraging this most harmful melancholy. I have some idea that yoti are still troubled with the fear of sudden death, and of God's judgment; and in very truth I know what a wondrous trial that fear is. Having undergone it myself for six weeks, I can most thoroughly sympathise with others under the affliction.
+
+But I would fain speak to you from my innermost heart, and assure you that no one who sincerely wishes to serve our Lord and to avoid sin, need or indeed ought to torment himself with the fear of death or of judgment Undoubtedly both are to be feared^ but not with that merely natural fear which through its terror chills and depresses the mind; — ^rather with a supernatural fear, which is so blended with trust in God's Goodness as to strengthen and comfort the soul.
+
+Neither ought we to admit of doubts as to whether we dare trust ourselves to God, because of the difficulty we feel in avoiding sin, or because we have misgivings as to our power of resisting temptation and occasions of sin. No, indeed, — ^mistrust of our own strength does not imply a failure in resolution, but rather consciousness of our own weakness. It is better to be doubtful as to our capacity for resisting temptation than to be bold and presumptuous; provided that what we do not look for in our own strength we do look for from God's Grace. Many a man who went forth in conscious strength, intending to work great things for God, has failed when it came to the point; and many too who have greatly mistrusted themselves, and feared lest they should altogether fail, have unexpectedly done great things, because that very sense of their own weakness has thrown them so entirely upon God’s Grace and Help, and so has led them to watch and pray and humble themselves, lest they enter into temptation.
+
+Further, supposing that we feel convinced that were temptation to come upon us at this moment, we have neither strength nor courage to resist it; — ^yet if we wish to resist, and hope that should such temptation come, God would help us, craving such help at His Hands, — ^then we need not be alarmed. It is not essential that we should always possess conscious strength and courage \ enough if we trust that they will be supplied in the time of need. Samson was not conscious of his great strength save on special occasions; we are told that when he required it to encoimter wild beasts or human enemies, “ the Spirit of the Lord came upon him.” So God, Who does nothing without a purpose, does not give us strength and courage except when we need them; consequently we have good ground for believing that whenever we do need them, His Help will be supplied, if we do but seek it
+
+I would have you continually use the words ot David, “Why art thou so vexed, O my soul, and why art thou so disquieted within me? O put thy trust in God.” * “ Leave me not, neither forsake me.
+
+* Ps. xlii, 14, 1$.
+
+O God of my salvation!" If you desire to belong solely to God, why should you fear your own weakness, which you know cannot be trusted? You do trust in God: — ^Who ever trusted in the Lord and was put to confusion? No indeed, it cannot be. I intreat you, my dear friend, to put aside all the arguments which arise in your mind, and to which you need make but one answer, namely, that you wish to be stedfast, come what may, and you hope by God’s Help so to be. Be content with this, and do not be ceaselessly trying to find out whether your courage is likely to fail: — such examinations are deceitful; some men are very brave before they come within sight of the enemy, yet tremble when he appears; — ^and others who have been fearful, gather courage when face to face with danger. Do not be afraid of being afraid I But I have said enough. Any way, God knows that I would do or bear anything possible to see you set firee from these troubles. Ever yours, &c.
+
+1:831.] CLIV.
+
+TO A LADY, WHO WAS CALUMNIATED;
+
+And Concerning an Annual Review of Conscience.
+
+My Dearest Sister,
+
+I have not seen M but all the same, I heard that you have been distressed by certain caricatures and satires which have appeared. I wish I could always bear your troubles for you, or at all events help you to bear them. But inasmuch as the distance between our respective homes makes it impossible for me to help you, save by prayer, I do indeed pray that our Lord would be the Guardian of your heart, and drive all excessive sadness forth from it. Indeed, my dear sister, most of our troubles are more in imagination than reality. Do you suppose the world believes these satires? Very likely some people are amused by them, and others may give them some weight; but be sure that while your soul is at rest and leaning on your Saviour’s Arms, all such attacks will melt away like smoke before the wind, and the higher the wind the faster they will vanish. We cannot counteract calumny so effectually as by disregarding it, treating contempt with contempt, and proving by our calmness that we are out of its reach; especially in such a case as these satires. Calumnies which can bring forward no authors of their existence, prove themselves to be illegitimate. I should like to quote 'to you what S. Gregory once said to a Bishop who was the victim of calumny. “ If your heart was anchored in Heaven,” he says, “ the storms of this world could in no wise reach it: nothing which belongs to this life can harm him who has renounced it.” Cast yourself at the Feet of our Crucified Lord, and bethink you of all the insults He endured; — intreat Him, by the meekness with which He bore them, to give you strength to bear these passing annoyances, which have fallen to your lot as His sworn follower. “ Blessed are the poor in spirit, for theirs is the Kingdom of Heaven. Blessed are ye when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for My Sake. " *
+
+Now as to what you ask me. You are quite right in looking upon the annual review of one's soul as intended to supply the defects of one's ordinary confessions, and to excite us to deeper humility; still more to lead us to renew, not our good intentions^ but such good resolutions as we require to correct those habits, inclinations, and other matters which most frequently cause us to sin.
+
+It is certainly more desirable that this review should be made before the same Priest who has received your general confession, in order that, taking the circumstances of both into due consideration, he may guide you as to what resolutions you most require to make. But when, as in your case, this cannot be, it is well to go to any other wise and good confessor who may be at hand.
+
+As to your second difficulty, I answer that it is not necessary in this review to note the specific number * Matt V. 3, II.
+
+or the trifling details of your faults. It will suffice to say generally what your chief failings, and the cause of your wanderings, have been; not so much how many times you have fallen, but whether you are very prone to fall. For instance, you need not examine how many times you have given way to anger — perhaps that would be hard to say, — ^but you should simply acknowledge whether you are subject to bad temper, how long it lasts, whether it is violent and sharp, and what are the occasions which the most frequently excite it; as for instance, amusements, pride, haughtiness, obstinacy, depression — (I am only giving you an illustration of my meaning.) In this way you will be able to make your little review without taxing your time or your memory very severely.
+
+As to your third question, I would say that some falls, even into mortal sin, so long as they are not deliberate or caused by indifference, do not necessarily prove that you have made no progress in a devout life. You lose your devotion when guilty Of mortal sin, but you regain it through the first sincere repentance to which you attain, that is, when the soul has not been long steeped in sin. It is for this reason that such aimual reviews are so very useful to weakly souls: their first good resolutions have done somewhat; the second and third time they will be strengthened and confirmed; and at last by dint of frequent renewal, they will become stedfast Only do not be disheartened, but face your own frailty with holy humility; confess it, ask that it may be forgiven, and seek God's Help for the future. Ever yours.
+
+I836.3 CLV.

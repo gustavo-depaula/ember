@@ -1,0 +1,11 @@
+# Letter 153. To a Friend. on the New Year
+
+TO A FRIEND. ON THE NEW YEAR. (Probably President Favre.)
+
+My Dear Brother,
+
+I dose the year with giving myself the pleasure of wishing you all good for that which is coming. These mortal years pass away, dear brother; their months melt into weeks, weeks into days, days into hours, hours into moments; and after all, these moments are all that we can really call our own I
+
+Even these we only possess as they pass away, setting forth how swiftly we too are passing away; a fact which might be willingly accepted if we consider how full of sorrow this life is, and how when it is ended it will be merged in that blessed Eternity which God in His Merciful Goodness has prepared for us, and to which our hearts continually tend, not through our own natural instincts, but through His Gracious drawing.
+
+Dear brother, I never dwell upon the thought of Eternity without great delight, and this because I cannot do so without feeling that my soul would not be able to reach atter so mighty a thought, were there not some true affinity between them. There must be some correspondence between the soul and that to which it tends; and when my longings fix themselves upon Eternity, my satisfaction becomes exceeding, because I know that we never long intensely save for that which God wills us to attain. Therefore my longing is a proof that I may attain that Eternal life; what more need I save to hope for it? And that hope is confirmed to me through my knowledge of the Infinite Goodness of Him Who would not have created a soul capable of meditating upon and longing after Eternity, without giving it the means whereby to attain thereto. So, dear brother, we find ourselves at the foot of the Crucifix, which is the ladder by means of which we pass over these temporal seasons to the Eternal years. Well then, I wish for your dear self that the coming year may be followed by others here, and that they may all be well spent in winning Eternity. May you live long in holiness and happiness among those who love you in this brief life: and then live for ever in that unchangeable blessedness to which we look. This is what my heart asks for you, pouring itself out with the confidence which rises from our deep affection, and makes me ever yours,

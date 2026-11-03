@@ -1,0 +1,7 @@
+# Letter 113. To a Religious
+
+. • • • Now, to say somewhat concerning my dear child’s own heart. What feats of valour it would accomplish in face of a mighty enemy, judging by its overwhelming trouble before one scatter-brained, naughty little girl 1 But do not be distressed, my dear child;
+
+no annoyance is so hard to bear as one made up of a number of continual little worries. Our Dear Lord permits us to be hindered by these little matters, in order that we may humble ourselves, and realise that if we have overcome greater temptations, it was not through our own strength, but through His Grace and Goodness.
+
+I see plainly that these trifling annoyances give plenty of opportunity for the exercise of a willing abjection; for what will be said of a Sister who has not been able to teach or improve this little girl? And then, too, what will the other Sisters say when they see one upset by the least vexation; complaining, scolding! There is no remedy, my daughter. There was one of old would fain have bought wisdom with gold — ^my child is not so ambitious — ^she would rather have the cause removed than face her difficulty. You must have recourse to humility, and for the short time which this trial lasts, try to bear it as in God's Presence, and try to love the poor unhappy little creature who causes it for love of Him Who died for her. Never correct her when you are angry. Try to accept the trouble she gives you willingly. Believe me, ever yours, &c c 7»8. cxvn.

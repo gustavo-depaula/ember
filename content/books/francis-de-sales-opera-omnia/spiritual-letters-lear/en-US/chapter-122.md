@@ -1,0 +1,7 @@
+# Letter 122. To a Lady. on the Death of her Sister
+
+Well, my dearest child, they have just told me that your dear sister is gone, leaving us here below with our natural grief, the grief which must come upon those who are left behind in such separations. God knows, my dearest child, I have no mind to bid you not weep; — No indeed, it is but right and reasonable that you should weep a little — only a little, dear child, — ^through the true love you bore her, even as our Dear Master wept a little over His friend Lazarus; but not to excess, as they are wont to do who, fixing all their thoughts upon this miserable life, forget that we too are hastening towards that eternity where we hope to rejoin our blessed dead, never more to part. We cannot hinder our poor earthly hearts from feeling earthly sorrow in the separation from those who were the delight of our life, but nevertheless we must not forget our solemn resolution to unite our will wholly to that of God.
+
+How blessed your dear sister is to have seen the hour of her departure come so gradually, and to have been able to make such fit preparation to meet it well. Let us adore God^s Providence in this, and say, Blessed art Thou, for all that Thou wiliest is good." Oh, my dear child, how lovingly our hearts ought to receive all these little sorrows — hearts which, forsooth, should be fixed and stayed on Heaven rather than earth 1 I shall pray for her soul, and that all. who mourn her may be comforted.. • •
+
+1:76s.] CXXVII.
