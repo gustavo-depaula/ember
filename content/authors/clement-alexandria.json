@@ -6,5 +6,70 @@
   "century": 3,
   "matches": [
     "Clement of Alexandria"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "His call to the pagans and a short homily on wealth.",
+        "pt-BR": "Seu apelo aos pagãos e uma breve homilia sobre a riqueza."
+      },
+      "works": [
+        {
+          "work": "clement-alexandria-exhortation-to-the-heathen",
+          "why": {
+            "en-US": "Exhortation to the Heathen, his call to the faith",
+            "pt-BR": "Exortação aos Gregos, seu chamado à fé"
+          }
+        },
+        {
+          "work": "clement-alexandria-who-is-the-rich-man-that-shall-be-saved",
+          "why": {
+            "en-US": "Who Is the Rich Man That Shall Be Saved?",
+            "pt-BR": "Que rico se salva?"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The great trilogy",
+        "pt-BR": "A grande trilogia"
+      },
+      "works": [
+        {
+          "work": "clement-alexandria-instructor",
+          "why": {
+            "en-US": "The Instructor",
+            "pt-BR": "O Pedagogo"
+          }
+        },
+        {
+          "work": "clement-alexandria-stromata-or-miscellanies",
+          "why": {
+            "en-US": "The Stromata, or Miscellanies",
+            "pt-BR": "Os Stromata, ou Miscelâneas"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Fragments",
+        "pt-BR": "Fragmentos"
+      },
+      "works": [
+        {
+          "work": "clement-alexandria-fragments",
+          "why": {
+            "en-US": "Fragments",
+            "pt-BR": "Fragmentos"
+          }
+        }
+      ]
+    }
   ]
 }
