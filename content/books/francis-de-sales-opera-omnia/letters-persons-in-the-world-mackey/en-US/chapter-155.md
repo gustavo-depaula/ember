@@ -1,4 +1,4 @@
-# Letter LVI
+# Letter Lvi
 
 On humility of heart and ravishments.
 
