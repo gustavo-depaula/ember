@@ -1,0 +1,93 @@
+{
+  "id": "chesterton-scandal-of-father-brown",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Scandal of Father Brown",
+    "pt-BR": "O Escândalo do Padre Brown"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Father Brown's last collection: The Scandal of Father Brown, The Quick One, The Blast of the Book, The Green Man, The Pursuit of Mr Blue, The Crime of the Communist, The Point of a Pin, The Insoluble Problem, and The Vampire of the Village.",
+    "pt-BR": "A última coletânea do Padre Brown: O Escândalo do Padre Brown, O Rápido, O Sopro do Livro, O Homem Verde, A Perseguição do Sr. Blue, O Crime do Comunista, A Ponta de um Alfinete, O Problema Insolúvel e O Vampiro da Aldeia."
+  },
+  "composed": "1935",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/scandal-of-father-brown",
+  "editions": {
+    "en-US": {
+      "editor": "Cassell and Company",
+      "year": 1935
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.net.au/ebooks02/0201031h.html",
+      "edition": "The Scandal of Father Brown (London: Cassell, 1935), Project Gutenberg Australia, ebooks02/0201031h.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain in Brazil, the UK and the EU (Chesterton died in 1936). Published in 1935; text taken from Project Gutenberg Australia, which carries it under Australian law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-scandal-of-father-brown",
+      "title": {
+        "en-US": "The Scandal of Father Brown"
+      }
+    },
+    {
+      "id": "ch02-the-quick-one",
+      "title": {
+        "en-US": "The Quick One"
+      }
+    },
+    {
+      "id": "ch03-the-blast-of-the-book",
+      "title": {
+        "en-US": "The Blast of the Book"
+      }
+    },
+    {
+      "id": "ch04-the-green-man",
+      "title": {
+        "en-US": "The Green Man"
+      }
+    },
+    {
+      "id": "ch05-the-pursuit-of-mr-blue",
+      "title": {
+        "en-US": "The Pursuit of Mr Blue"
+      }
+    },
+    {
+      "id": "ch06-the-crime-of-the-communist",
+      "title": {
+        "en-US": "The Crime of the Communist"
+      }
+    },
+    {
+      "id": "ch07-the-point-of-a-pin",
+      "title": {
+        "en-US": "The Point of a Pin"
+      }
+    },
+    {
+      "id": "ch08-the-insoluble-problem",
+      "title": {
+        "en-US": "The Insoluble Problem"
+      }
+    },
+    {
+      "id": "ch09-the-vampire-of-the-village",
+      "title": {
+        "en-US": "The Vampire of the Village"
+      }
+    }
+  ]
+}
