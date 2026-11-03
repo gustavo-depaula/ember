@@ -7,7 +7,8 @@
   "matches": [
     "Dante Alighieri",
     "Dante",
-    "Alighieri, Dante"
+    "Alighieri, Dante",
+    "Attributed to Dante (attribution doubtful)"
   ],
   "guide": [
     {
@@ -97,6 +98,32 @@
           "why": {
             "en-US": "Latin verse exchanged with Giovanni del Virgilio",
             "pt-BR": "Versos latinos trocados com Giovanni del Virgilio"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Attributed works",
+        "pt-BR": "Obras atribuídas"
+      },
+      "note": {
+        "en-US": "Works attributed to Dante, with the attribution doubtful.",
+        "pt-BR": "Obras atribuídas a Dante, com atribuição duvidosa."
+      },
+      "works": [
+        {
+          "work": "dante/fiore",
+          "why": {
+            "en-US": "Two hundred thirty-two sonnets on the Roman de la Rose, disputed",
+            "pt-BR": "Duzentos e trinta e dois sonetos sobre o Roman de la Rose, em disputa"
+          }
+        },
+        {
+          "work": "dante/detto-d-amore",
+          "why": {
+            "en-US": "A poem of 480 lines reworking the Roman de la Rose",
+            "pt-BR": "Poema de 480 versos que retrabalha o Roman de la Rose"
           }
         }
       ]
