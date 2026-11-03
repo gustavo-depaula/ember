@@ -7,5 +7,254 @@
   "saint": "bede",
   "matches": [
     "St. Bede the Venerable"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "His history of the English Church, then the lives of the men around him.",
+        "pt-BR": "Sua história da Igreja entre os ingleses, depois as vidas dos homens à sua volta."
+      },
+      "works": [
+        {
+          "work": "bede/historia-ecclesiastica",
+          "why": {
+            "en-US": "His masterpiece of 731, in Latin and English",
+            "pt-BR": "Sua obra-prima de 731, em latim e inglês"
+          }
+        },
+        {
+          "work": "bede/vita-cuthberti-prosaica",
+          "why": {
+            "en-US": "His prose Life of Cuthbert, in Latin and English",
+            "pt-BR": "Sua Vida de Cuteberto em prosa, em latim e inglês"
+          }
+        },
+        {
+          "work": "bede/historia-abbatum",
+          "why": {
+            "en-US": "The first abbots of his own monastery, in Latin and English",
+            "pt-BR": "Os primeiros abades de seu próprio mosteiro, em latim e inglês"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "History and saints' lives",
+        "pt-BR": "História e vidas de santos"
+      },
+      "works": [
+        {
+          "work": "bede/vita-cuthberti-metrica",
+          "why": {
+            "en-US": "His earlier Life of Cuthbert, in hexameters",
+            "pt-BR": "Sua primeira Vida de Cuteberto, em hexâmetros"
+          }
+        },
+        {
+          "work": "bede/vita-felicis",
+          "why": {
+            "en-US": "Paulinus of Nola's poems on Felix, retold in prose",
+            "pt-BR": "Os poemas de Paulino de Nola sobre Félix, recontados em prosa"
+          }
+        },
+        {
+          "work": "bede/epistolae",
+          "why": {
+            "en-US": "Letters, including the famous one to Bishop Egbert",
+            "pt-BR": "Cartas, entre elas a célebre ao bispo Egberto"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Gospel commentaries",
+        "pt-BR": "Comentários aos Evangelhos"
+      },
+      "note": {
+        "en-US": "Drawn from Jerome, Augustine, Ambrose and Gregory.",
+        "pt-BR": "Tirados de Jerônimo, Agostinho, Ambrósio e Gregório."
+      },
+      "works": [
+        {
+          "work": "bede/in-lucae-evangelium",
+          "why": {
+            "en-US": "His longest work, in six books",
+            "pt-BR": "Sua obra mais longa, em seis livros"
+          }
+        },
+        {
+          "work": "bede/in-marci-evangelium",
+          "why": {
+            "en-US": "An exposition of Mark in four books",
+            "pt-BR": "Uma exposição de Marcos em quatro livros"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Commentaries on the New Testament",
+        "pt-BR": "Comentários ao Novo Testamento"
+      },
+      "works": [
+        {
+          "work": "bede/in-actus-apostolorum",
+          "why": {
+            "en-US": "On Acts, with his later Retractation",
+            "pt-BR": "Sobre os Atos, com sua Retratação posterior"
+          }
+        },
+        {
+          "work": "bede/super-epistolas-catholicas",
+          "why": {
+            "en-US": "The seven Catholic Epistles",
+            "pt-BR": "As sete Epístolas Católicas"
+          }
+        },
+        {
+          "work": "bede/explanatio-apocalypsis",
+          "why": {
+            "en-US": "The Apocalypse in three books",
+            "pt-BR": "O Apocalipse em três livros"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Commentaries on the Old Testament",
+        "pt-BR": "Comentários ao Antigo Testamento"
+      },
+      "note": {
+        "en-US": "Mostly allegorical, reading the text as Christ and the Church.",
+        "pt-BR": "Em geral alegóricos, lendo o texto como Cristo e a Igreja."
+      },
+      "works": [
+        {
+          "work": "bede/in-principium-genesis",
+          "why": {
+            "en-US": "Genesis from creation to the birth of Isaac",
+            "pt-BR": "O Gênesis da criação ao nascimento de Isaac"
+          }
+        },
+        {
+          "work": "bede/in-cantica-canticorum",
+          "why": {
+            "en-US": "The Song of Songs as the Church's voice to Christ",
+            "pt-BR": "O Cântico como a voz da Igreja a Cristo"
+          }
+        },
+        {
+          "work": "bede/de-tabernaculo",
+          "why": {
+            "en-US": "The tabernacle and the priestly vestments",
+            "pt-BR": "O tabernáculo e as vestes sacerdotais"
+          }
+        },
+        {
+          "work": "bede/de-templo-salomonis",
+          "why": {
+            "en-US": "Solomon's Temple as figure of the Church and the soul",
+            "pt-BR": "O Templo de Salomão como figura da Igreja e da alma"
+          }
+        },
+        {
+          "work": "bede/in-primam-partem-samuhelis",
+          "why": {
+            "en-US": "First Samuel, from Hannah's prayer to Saul's death",
+            "pt-BR": "Primeiro Samuel, da oração de Ana à morte de Saul"
+          }
+        },
+        {
+          "work": "bede/in-proverbia-salomonis",
+          "why": {
+            "en-US": "The Proverbs of Solomon in three books",
+            "pt-BR": "Os Provérbios de Salomão em três livros"
+          }
+        },
+        {
+          "work": "bede/in-ezram-et-neemiam",
+          "why": {
+            "en-US": "The return from exile and the rebuilding of Jerusalem",
+            "pt-BR": "A volta do exílio e a reconstrução de Jerusalém"
+          }
+        },
+        {
+          "work": "bede/in-regum-librum-xxx-quaestiones",
+          "why": {
+            "en-US": "Thirty answers on hard passages of Kings",
+            "pt-BR": "Trinta respostas sobre passagens difíceis de Reis"
+          }
+        },
+        {
+          "work": "bede/in-canticum-habacuc",
+          "why": {
+            "en-US": "The prayer of Habakkuk sung in the Church's office",
+            "pt-BR": "A oração de Habacuc cantada no ofício da Igreja"
+          }
+        },
+        {
+          "work": "bede/in-tobiam",
+          "why": {
+            "en-US": "A short allegorical reading of Tobit",
+            "pt-BR": "Uma breve leitura alegórica de Tobias"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Time and nature",
+        "pt-BR": "Tempo e natureza"
+      },
+      "note": {
+        "en-US": "His works on the calendar and the world.",
+        "pt-BR": "Suas obras sobre o calendário e o mundo."
+      },
+      "works": [
+        {
+          "work": "bede/de-temporum-ratione",
+          "why": {
+            "en-US": "His masterwork on the calendar, of 725",
+            "pt-BR": "Sua obra-prima sobre o calendário, de 725"
+          }
+        },
+        {
+          "work": "bede/de-temporibus",
+          "why": {
+            "en-US": "The short early treatise on times and the six ages",
+            "pt-BR": "O breve tratado inicial sobre os tempos e as seis idades"
+          }
+        },
+        {
+          "work": "bede/de-natura-rerum",
+          "why": {
+            "en-US": "An early compendium of cosmology",
+            "pt-BR": "Um compêndio inicial de cosmologia"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Hymns and poems",
+        "pt-BR": "Hinos e poemas"
+      },
+      "works": [
+        {
+          "work": "bede/hymni-et-carmina",
+          "why": {
+            "en-US": "The hymns and poems printed under his name",
+            "pt-BR": "Os hinos e poemas impressos sob seu nome"
+          }
+        }
+      ]
+    }
   ]
 }
