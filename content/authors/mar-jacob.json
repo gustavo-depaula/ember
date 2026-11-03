@@ -6,5 +6,36 @@
   "century": 6,
   "matches": [
     "Mar Jacob (452-521)"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Homilies and a canticle",
+        "pt-BR": "Homilias e um cântico"
+      },
+      "works": [
+        {
+          "work": "mar-jacob-homily-on-habib-the-martyr",
+          "why": {
+            "en-US": "Homily on Habib the Martyr",
+            "pt-BR": "Homilia sobre o mártir Habib"
+          }
+        },
+        {
+          "work": "mar-jacob-homily-on-guria-and-shamuna",
+          "why": {
+            "en-US": "Homily on Guria and Shamuna",
+            "pt-BR": "Homilia sobre Guria e Shamuna"
+          }
+        },
+        {
+          "work": "mar-jacob-canticle-on-edessa",
+          "why": {
+            "en-US": "Canticle on Edessa",
+            "pt-BR": "Cântico sobre Edessa"
+          }
+        }
+      ]
+    }
   ]
 }
