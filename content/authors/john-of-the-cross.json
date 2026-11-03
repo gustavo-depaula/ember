@@ -11,5 +11,113 @@
     "John of the Cross, St.",
     "John of the Cross, Saint, 1542-1591",
     "San Juan de la Cruz"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "The poems and the commentary that opens them.",
+        "pt-BR": "Os poemas e o comentário que os abre."
+      },
+      "works": [
+        {
+          "work": "john-of-the-cross/noche",
+          "why": {
+            "en-US": "His commentary on the poem of the Dark Night",
+            "pt-BR": "Seu comentário ao poema da Noite escura"
+          }
+        },
+        {
+          "work": "john-of-the-cross/poesias",
+          "why": {
+            "en-US": "The poems, in Spanish and in English verse",
+            "pt-BR": "Os poemas, em espanhol e em verso inglês"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The great treatises",
+        "pt-BR": "Os grandes tratados"
+      },
+      "works": [
+        {
+          "work": "john-of-the-cross/subida",
+          "why": {
+            "en-US": "The active night of sense and spirit, in pure faith",
+            "pt-BR": "A noite ativa do sentido e do espírito, na fé pura"
+          }
+        },
+        {
+          "work": "john-of-the-cross/cantico-b",
+          "why": {
+            "en-US": "Commentary on the love-song of the soul and Christ, second redaction",
+            "pt-BR": "Comentário ao canto de amor da alma e de Cristo, 2ª redação"
+          }
+        },
+        {
+          "work": "john-of-the-cross/cantico-a",
+          "why": {
+            "en-US": "The first redaction, in thirty-nine stanzas",
+            "pt-BR": "A primeira redação, em trinta e nove estrofes"
+          }
+        },
+        {
+          "work": "john-of-the-cross/llama-a",
+          "why": {
+            "en-US": "On the transforming union of the soul in God, first redaction",
+            "pt-BR": "Sobre a união transformante da alma em Deus, 1ª redação"
+          }
+        },
+        {
+          "work": "john-of-the-cross/llama-b",
+          "why": {
+            "en-US": "The second redaction of the Living Flame",
+            "pt-BR": "A segunda redação da Chama viva de amor"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Maxims and short writings",
+        "pt-BR": "Máximas e escritos breves"
+      },
+      "works": [
+        {
+          "work": "john-of-the-cross/avisos",
+          "why": {
+            "en-US": "Sayings of Light and Love and the counsels",
+            "pt-BR": "Ditos de luz e amor e os conselhos"
+          }
+        },
+        {
+          "work": "john-of-the-cross/opuscula",
+          "why": {
+            "en-US": "Precautions, counsels to a religious, and a censure",
+            "pt-BR": "Cautelas, avisos a um religioso e uma censura"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Letters",
+        "pt-BR": "Cartas"
+      },
+      "works": [
+        {
+          "work": "john-of-the-cross/epistolario",
+          "why": {
+            "en-US": "Letters to nuns, friars and lay people, 1581-1591",
+            "pt-BR": "Cartas a monjas, frades e leigos, 1581-1591"
+          }
+        }
+      ]
+    }
   ]
 }
