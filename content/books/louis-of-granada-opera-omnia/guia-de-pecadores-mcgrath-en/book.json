@@ -1,0 +1,340 @@
+{
+  "id": "granada-guia-de-pecadores-mcgrath",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The Sinner's Guide (McGrath, 1844)",
+    "pt-BR": "O guia dos pecadores (McGrath, inglês, 1844)"
+  },
+  "author": {
+    "es-ES": "Fray Luis de Granada",
+    "en-US": "Louis of Granada",
+    "pt-BR": "Frei Luís de Granada"
+  },
+  "description": {
+    "en-US": "The older English translation of both books of Louis of Granada's Guía de pecadores, in the Philadelphia edition of 1844: Book I (the exhortation to virtue, in three parts of 10, 13 and 6 chapters) and Book II (the doctrine of virtue, in two parts of 11 and 10 chapters). It is a different translation from McKenna's, so it is its own book. Numbered paragraphs are kept.",
+    "pt-BR": "A tradução inglesa mais antiga (Filadélfia, 1844) dos dois livros do Guía de pecadores de Luís de Granada."
+  },
+  "composed": "1555–1556",
+  "languages": [
+    "en-US"
+  ],
+  "work": "louis-of-granada/guia-de-pecadores",
+  "editions": {
+    "en-US": {
+      "translator": "anonymous, \"translated from the Spanish\" (Philadelphia: Henry McGrath, 1844)",
+      "year": 1844
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/sinnersguideintw00luisuoft",
+      "edition": "The Sinner's Guide, in two books, by the Rev. F. Lewis of Granada, translated from the Spanish, Philadelphia: Henry McGrath, 1844 (the older English translation, a second witness beside McKenna's of 1883). Internet Archive scan sinnersguideintw00luisuoft.",
+      "description": "Internet Archive OCR, split at the 50 chapter headings; running heads and page numbers are dropped and line-break hyphens joined. The title pages, the translator's preface, the tables of contents and the index are not included; isolated recognition slips remain.",
+      "tier": "A",
+      "tierEvidence": "Published 1844, before 1930; public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "b1p1c01",
+      "title": {
+        "en-US": "Book I, Part 1, Chapter 1. Of the first Motive that obliges us to Virtue and the Service of God, which is his Being, considered in itself; and of the Excellency of his Divine Perfections"
+      }
+    },
+    {
+      "id": "b1p1c02",
+      "title": {
+        "en-US": "Book I, Part 1, Chapter 2. Of the second Motive that obliges us to Virtue, and the Service of God, which is the Benefit of our Creation"
+      }
+    },
+    {
+      "id": "b1p1c03",
+      "title": {
+        "en-US": "Book I, Part 1, Chapter 3. Of the third Motive that obliges us to serve God, which is the Benefit of our Preservation and Direction"
+      }
+    },
+    {
+      "id": "b1p1c04",
+      "title": {
+        "en-US": "Book I, Part 1, Chapter 4. Of the fourth Motive that obliges us to the Pursuit of Virtue, which is the inestimable Benefit of our Redemption"
+      }
+    },
+    {
+      "id": "b1p1c05",
+      "title": {
+        "en-US": "Book I, Part 1, Chapter 5. Of the fifth Motive that obliges us to Virtue, which is the Benefit of our Justification"
+      }
+    },
+    {
+      "id": "b1p1c06",
+      "title": {
+        "en-US": "Book I, Part 1, Chapter 6. Of the sixth Motive that obliges us to the Love of Virtue, which is, the Benefit of Divine Election"
+      }
+    },
+    {
+      "id": "b1p1c07",
+      "title": {
+        "en-US": "Book I, Part 1, Chapter 7. Of the seventh Motive that obliges us to the Pursuit of Virtue, which is Death, the first of the four last Things,"
+      }
+    },
+    {
+      "id": "b1p1c08",
+      "title": {
+        "en-US": "Book I, Part 1, Chapter 8. Of the eighth Motive that obliges us to the Pursuit of Virtue* which is, the last Judgment, the second of the four last Things"
+      }
+    },
+    {
+      "id": "b1p1c09",
+      "title": {
+        "en-US": "Book I, Part 1, Chapter 9. Of the ninth Motive that obliges us to Virtue, which is, Heaven, the third of the four last Things"
+      }
+    },
+    {
+      "id": "b1p1c10",
+      "title": {
+        "en-US": "Book I, Part 1, Chapter 10. Of the tenth Motive that obliges us to the Love of Virtue, which is, the fourth of the four last Things, that is, the Pains of Hell"
+      }
+    },
+    {
+      "id": "b1p2c01",
+      "title": {
+        "en-US": "Book I, Part 2, Chapter 1. Of the eleventh Motive that obliges us to the Pursuit of Virtue, which is, the inestimable Advantages promised it in this Life"
+      }
+    },
+    {
+      "id": "b1p2c02",
+      "title": {
+        "en-US": "Book I, Part 2, Chapter 2. 97"
+      }
+    },
+    {
+      "id": "b1p2c03",
+      "title": {
+        "en-US": "Book I, Part 2, Chapter 3. Of the set md Privilege of Virtue, that is, the Grace of the Holy Ghost bestowed upon virtuous Men"
+      }
+    },
+    {
+      "id": "b1p2c04",
+      "title": {
+        "en-US": "Book I, Part 2, Chapter 4. Of the third Privilege of Virtue, viz. Supernatural Light and Knowledge"
+      }
+    },
+    {
+      "id": "b1p2c05",
+      "title": {
+        "en-US": "Book I, Part 2, Chapter 5. Of the fourth Privilege of Virtue, that is, the Consolations which good Men receive from the Holy Ghost"
+      }
+    },
+    {
+      "id": "b1p2c06",
+      "title": {
+        "en-US": "Book I, Part 2, Chapter 6. Of the fifth Privilege of Virtue, viz. the Peace of Conscience, which the Just enjoy, and of the inward Remorse that torments the Wicked"
+      }
+    },
+    {
+      "id": "b1p2c07",
+      "title": {
+        "en-US": "Book I, Part 2, Chapter 7. Of the sixth Privilege of Virtue, viz. the Hopes the Just have in God's Mercy, and of the vain Confidence of the Wicked"
+      }
+    },
+    {
+      "id": "b1p2c08",
+      "title": {
+        "en-US": "Book I, Part 2, Chapter 8. Of the seventh Privilege of Virtue, viz. the true Liberty which the, Virtuous enjoy, and of the miserable and unaccountable Slavery the Wicked live in"
+      }
+    },
+    {
+      "id": "b1p2c09",
+      "title": {
+        "en-US": "Book I, Part 2, Chapter 9. Of the eighth Privilege of Virtue, viz. the inward Peace and Calm the Virtuous enjoy, and of the miserable Restlessness and Disturbance the Wicked feel within themselves"
+      }
+    },
+    {
+      "id": "b1p2c10",
+      "title": {
+        "en-US": "Book I, Part 2, Chapter 10. Of the ninth Privilege of Virtue, viz. that God hears the Prayers of the Just, and rejects those of the Wicked"
+      }
+    },
+    {
+      "id": "b1p2c11",
+      "title": {
+        "en-US": "Book I, Part 2, Chapter 11. Of the tenth Privilege of Virtue, which is, the Assistance good Men receive from God in their Afflictions; and of the Impatience, on the Contrary, with which the Wicked suffer theirs"
+      }
+    },
+    {
+      "id": "b1p2c12",
+      "title": {
+        "en-US": "Book I, Part 2, Chapter 12. The eleventh privilege of Virtue, which consists in the Care God takes to supply the temporal JVecessities of the Just"
+      }
+    },
+    {
+      "id": "b1p2c13",
+      "title": {
+        "en-US": "Book I, Part 2, Chapter 13. The twelfth Privilege of Virtue, which is the quiet arid happy Death of the Virtuous : and, on the Contrary, the deplorable End of the wicked"
+      }
+    },
+    {
+      "id": "b1p3c01",
+      "title": {
+        "en-US": "Book I, Part 3, Chapter 1. Against the first Excuse of those who defer changing their Lives, and advancing in Virtue, till another Time"
+      }
+    },
+    {
+      "id": "b1p3c02",
+      "title": {
+        "en-US": "Book I, Part 3, Chapter 2. Jlgainst those Persons who defer their Penance to the Hour of Death"
+      }
+    },
+    {
+      "id": "b1p3c03",
+      "title": {
+        "en-US": "Book I, Part 3, Chapter 3. Against those who continue in their Sins confiding in the mercy of God"
+      }
+    },
+    {
+      "id": "b1p3c04",
+      "title": {
+        "en-US": "Book I, Part 3, Chapter 4. Of those Persons who excuse themselves from following Virtue by saying the Way to it is rough and uneasy"
+      }
+    },
+    {
+      "id": "b1p3c05",
+      "title": {
+        "en-US": "Book I, Part 3, Chapter 5. Against those who refuse to walk in the Way of Virtue, because"
+      }
+    },
+    {
+      "id": "b1p3c06",
+      "title": {
+        "en-US": "Book I, Part 3, Chapter 6. The Conclusion of all that is contained in this First Book"
+      }
+    },
+    {
+      "id": "b2p1c01",
+      "title": {
+        "en-US": "Book II, Part 1, Chapter 1. Of the firm Resolution a good Christian is to make, never to commit any mortal Sin"
+      }
+    },
+    {
+      "id": "b2p1c02",
+      "title": {
+        "en-US": "Book II, Part 1, Chapter 2. Remedies against Pride,"
+      }
+    },
+    {
+      "id": "b2p1c03",
+      "title": {
+        "en-US": "Book II, Part 1, Chapter 3. Remedies against Covetousness"
+      }
+    },
+    {
+      "id": "b2p1c04",
+      "title": {
+        "en-US": "Book II, Part 1, Chapter 4. Remedies against Impurity"
+      }
+    },
+    {
+      "id": "b2p1c05",
+      "title": {
+        "en-US": "Book II, Part 1, Chapter 5. Remedies against Envy"
+      }
+    },
+    {
+      "id": "b2p1c06",
+      "title": {
+        "en-US": "Book II, Part 1, Chapter 6. Remedies against Gluttony"
+      }
+    },
+    {
+      "id": "b2p1c07",
+      "title": {
+        "en-US": "Book II, Part 1, Chapter 7. Remedies against Anger, and the Hatred and Enmities which arise from it"
+      }
+    },
+    {
+      "id": "b2p1c08",
+      "title": {
+        "en-US": "Book II, Part 1, Chapter 8. Remedies against Sloth"
+      }
+    },
+    {
+      "id": "b2p1c09",
+      "title": {
+        "en-US": "Book II, Part 1, Chapter 9. Of some other Sins which every good Christian must endeavor to avoid"
+      }
+    },
+    {
+      "id": "b2p1c10",
+      "title": {
+        "en-US": "Book II, Part 1, Chapter 10. Of venial Sins"
+      }
+    },
+    {
+      "id": "b2p1c11",
+      "title": {
+        "en-US": "Book II, Part 1, Chapter 11. Of some other shorter Remedies against all sorts of Sins, but particularly those Seven called Capital"
+      }
+    },
+    {
+      "id": "b2p2c01",
+      "title": {
+        "en-US": "Book II, Part 2, Chapter 1. Of three Kinds of Virtues, wherein consists the Fulness of all Justice"
+      }
+    },
+    {
+      "id": "b2p2c02",
+      "title": {
+        "en-US": "Book II, Part 2, Chapter 2. Of Man's Duty to Himself"
+      }
+    },
+    {
+      "id": "b2p2c03",
+      "title": {
+        "en-US": "Book II, Part 2, Chapter 3. Of Mart's Duty towards his JYeig/ibor"
+      }
+    },
+    {
+      "id": "b2p2c04",
+      "title": {
+        "en-US": "Book II, Part 2, Chapter 4. Of Man's Duty to God"
+      }
+    },
+    {
+      "id": "b2p2c05",
+      "title": {
+        "en-US": "Book II, Part 2, Chapter 5. Of the Obligation of particular States and Callings"
+      }
+    },
+    {
+      "id": "b2p2c06",
+      "title": {
+        "en-US": "Book II, Part 2, Chapter 6. First Advice upon the Esteem we are to have of the different Virtues, for the better understanding the Rule of a good Life. ■• * ' ' •"
+      }
+    },
+    {
+      "id": "b2p2c07",
+      "title": {
+        "en-US": "Book II, Part 2, Chapter 7. Of four necessary Instructions that follow upon this Doctrine"
+      }
+    },
+    {
+      "id": "b2p2c08",
+      "title": {
+        "en-US": "Book II, Part 2, Chapter 8. A second Advice upon the different Ways of Living there are in the Church"
+      }
+    },
+    {
+      "id": "b2p2c09",
+      "title": {
+        "en-US": "Book II, Part 2, Chapter 9. The third Advice of the Vigilance and Care every virtuous Man"
+      }
+    },
+    {
+      "id": "b2p2c10",
+      "title": {
+        "en-US": "Book II, Part 2, Chapter 10. The Fourth Advice of the Fortitude requisite to the obtaining Virtue"
+      }
+    }
+  ]
+}
