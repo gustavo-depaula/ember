@@ -1,0 +1,272 @@
+{
+  "id": "garrigou-christ-the-saviour",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "De Christo Salvatore (traduction anglaise)",
+    "en-US": "Christ the Saviour: A Commentary on the Third Part of St. Thomas’ Theological Summa",
+    "pt-BR": "Cristo Salvador: comentário à Terceira Parte da Suma teológica"
+  },
+  "author": {
+    "fr-FR": "Réginald Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "description": {
+    "en-US": "Commentary on the Summa theologiae III, qq. 1-26 and 31-59: the fittingness and mode of the Incarnation, Christ’s grace and knowledge, His mediation and priesthood, His life, Passion, Resurrection and Ascension. Dom Bede Rose’s translation of De Christo Salvatore (1945), Herder 1950.",
+    "pt-BR": "Comentário à Suma teológica III, qq. 1-26 e 31-59: a conveniência e o modo da Encarnação, a graça e a ciência de Cristo, sua mediação e sacerdócio, sua vida, Paixão, Ressurreição e Ascensão. Tradução inglesa de Dom Bede Rose (Herder, 1950) de De Christo Salvatore (1945)."
+  },
+  "composed": "1945",
+  "work": "garrigou-lagrange/de-christo-salvatore",
+  "editions": {
+    "en-US": {
+      "translator": "Dom Bede Rose, O.S.B.",
+      "year": 1950
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/Lagrange-English",
+      "edition": "Christ the Saviour: A Commentary on the Third Part of St. Thomas’ Theological Summa, Dom Bede Rose, O.S.B., St. Louis: B. Herder, 1950 (archive.org Lagrange-English); the Latin original is imported separately where available"
+    }
+  ],
+  "languages": [
+    "en-US"
+  ],
+  "toc": [
+    {
+      "id": "art1",
+      "title": {
+        "en-US": "Chapter I. The mystery and fact of the incarnation"
+      }
+    },
+    {
+      "id": "art2",
+      "title": {
+        "en-US": "Chapter II. Preliminary question"
+      }
+    },
+    {
+      "id": "art3",
+      "title": {
+        "en-US": "Chapter III. Question 1"
+      }
+    },
+    {
+      "id": "art4",
+      "title": {
+        "en-US": "Chapter IV. Question 2"
+      }
+    },
+    {
+      "id": "art5",
+      "title": {
+        "en-US": "Chapter V. Question 3"
+      }
+    },
+    {
+      "id": "art6",
+      "title": {
+        "en-US": "Chapter VI. : question 4"
+      }
+    },
+    {
+      "id": "art7",
+      "title": {
+        "en-US": "Chapter VII. Question 5"
+      }
+    },
+    {
+      "id": "art8",
+      "title": {
+        "en-US": "Chapter VIII. Question 6"
+      }
+    },
+    {
+      "id": "art9",
+      "title": {
+        "en-US": "Chapter IX. Question 7"
+      }
+    },
+    {
+      "id": "art10",
+      "title": {
+        "en-US": "Chapter X. Question 8"
+      }
+    },
+    {
+      "id": "art11",
+      "title": {
+        "en-US": "Chapter XI. Question 9"
+      }
+    },
+    {
+      "id": "art12",
+      "title": {
+        "en-US": "Chapter XII. Question 10"
+      }
+    },
+    {
+      "id": "art13",
+      "title": {
+        "en-US": "Chapter XIII. Question 11"
+      }
+    },
+    {
+      "id": "art14",
+      "title": {
+        "en-US": "Chapter XIV. Question 12"
+      }
+    },
+    {
+      "id": "art15",
+      "title": {
+        "en-US": "Chapter XV. Question 13"
+      }
+    },
+    {
+      "id": "art16",
+      "title": {
+        "en-US": "Chapter XVI. Question 14"
+      }
+    },
+    {
+      "id": "art17",
+      "title": {
+        "en-US": "Chapter XVII. Question 15"
+      }
+    },
+    {
+      "id": "art18",
+      "title": {
+        "en-US": "Chapter XVIII. Question 16"
+      }
+    },
+    {
+      "id": "art19",
+      "title": {
+        "en-US": "Chapter XIX. Question 17"
+      }
+    },
+    {
+      "id": "art20",
+      "title": {
+        "en-US": "Chapter XX. Question 18"
+      }
+    },
+    {
+      "id": "art21",
+      "title": {
+        "en-US": "Chapter XXI. Question 19"
+      }
+    },
+    {
+      "id": "art22",
+      "title": {
+        "en-US": "Chapter XXII. Christ’s relation to the father"
+      }
+    },
+    {
+      "id": "art23",
+      "title": {
+        "en-US": "Chapter XXIII. Question 21"
+      }
+    },
+    {
+      "id": "art24",
+      "title": {
+        "en-US": "Chapter XXIV. Question 22"
+      }
+    },
+    {
+      "id": "art25",
+      "title": {
+        "en-US": "Chapter XXV. Question 23"
+      }
+    },
+    {
+      "id": "art26",
+      "title": {
+        "en-US": "Chapter XXVI. Question 24"
+      }
+    },
+    {
+      "id": "art27",
+      "title": {
+        "en-US": "Chapter XXVII. Question 25"
+      }
+    },
+    {
+      "id": "art28",
+      "title": {
+        "en-US": "Chapter XXVIII. Question 26"
+      }
+    },
+    {
+      "id": "art29",
+      "title": {
+        "en-US": "Chapter XXIX. Prefatory remarks"
+      }
+    },
+    {
+      "id": "art30",
+      "title": {
+        "en-US": "Chapter XXX. Testimony of sacred scripture and tradition"
+      }
+    },
+    {
+      "id": "art31",
+      "title": {
+        "en-US": "Chapter XXXI. Question 46"
+      }
+    },
+    {
+      "id": "art32",
+      "title": {
+        "en-US": "Chapter XXXII. Question 47"
+      }
+    },
+    {
+      "id": "art33",
+      "title": {
+        "en-US": "Chapter XXXIII. Question 48"
+      }
+    },
+    {
+      "id": "art34",
+      "title": {
+        "en-US": "Chapter XXXIV. Question 49"
+      }
+    },
+    {
+      "id": "art35",
+      "title": {
+        "en-US": "Chapter XXXV. The sublime mystery of redemption inasmuch as it is a mystery of love"
+      }
+    },
+    {
+      "id": "art36",
+      "title": {
+        "en-US": "Chapter XXXVI. Christ’s threefold victory"
+      }
+    },
+    {
+      "id": "art37",
+      "title": {
+        "en-US": "Chapter XXXVII. Christ’s death and descent into hell"
+      }
+    },
+    {
+      "id": "art38",
+      "title": {
+        "en-US": "Chapter XXXVIII. Christ the king, judge, and head of the blessed"
+      }
+    },
+    {
+      "id": "art39",
+      "title": {
+        "en-US": "Chapter XXXIX. Compendium of mariology"
+      }
+    }
+  ]
+}
