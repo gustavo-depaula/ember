@@ -1,0 +1,99 @@
+{
+  "id": "chesterton-chaucer",
+  "cover": "classic",
+  "name": {
+    "en-US": "Chaucer",
+    "pt-BR": "Chaucer"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's last work of literary biography, on the poet of the Canterbury Tales: the greatness of Chaucer, his age, public and private life, the garden of romance, the Tales, Chaucer as an Englishman and as a medieval, the Renaissance and his religion.",
+    "pt-BR": "A última biografia literária de Chesterton, sobre o poeta dos Contos de Cantuária: a grandeza de Chaucer, sua época, a vida pública e privada, o jardim do romance, os Contos, Chaucer como inglês e como homem medieval, o Renascimento e sua religião."
+  },
+  "composed": "1932",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/chaucer",
+  "editions": {
+    "en-US": {
+      "editor": "Faber & Faber",
+      "year": 1932
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.net.au/ebooks13/1300211h.html",
+      "edition": "Chaucer (Faber & Faber, 1932), Project Gutenberg Australia, ebooks13/1300211h.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain in Brazil, the UK and the EU (Chesterton died in 1936). Published in 1932; text taken from Project Gutenberg Australia, which carries it under Australian law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-introduction",
+      "title": {
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "ch02-the-greatness-of-chaucer",
+      "title": {
+        "en-US": "I. The Greatness of Chaucer"
+      }
+    },
+    {
+      "id": "ch03-the-age-of-chaucer",
+      "title": {
+        "en-US": "II. The Age of Chaucer"
+      }
+    },
+    {
+      "id": "ch04-public-and-private-life",
+      "title": {
+        "en-US": "III. Public and Private Life"
+      }
+    },
+    {
+      "id": "ch05-the-garden-of-romance",
+      "title": {
+        "en-US": "IV. The Garden of Romance"
+      }
+    },
+    {
+      "id": "ch06-the-canterbury-tales",
+      "title": {
+        "en-US": "V. The Canterbury Tales"
+      }
+    },
+    {
+      "id": "ch07-chaucer-as-an-englishman",
+      "title": {
+        "en-US": "VI. Chaucer as an Englishman"
+      }
+    },
+    {
+      "id": "ch08-chaucer-and-the-renaissance",
+      "title": {
+        "en-US": "VII. Chaucer and the Renaissance"
+      }
+    },
+    {
+      "id": "ch09-the-religion-of-chaucer",
+      "title": {
+        "en-US": "VIII. The Religion of Chaucer"
+      }
+    },
+    {
+      "id": "ch10-the-moral-of-the-story",
+      "title": {
+        "en-US": "IX. The Moral of the Story"
+      }
+    }
+  ]
+}
