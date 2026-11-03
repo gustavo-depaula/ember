@@ -8,4 +8,4 @@ We must be lowly-minded in all points, and appropriate nothing to ourselves, our
 
 Pray simply from the heart, from pure love, and not from the head, from the intellect alone.
 
-Your true instruction is to be found in spoliation, deep recollection, silence of the whole soul before God, in renouncing your own spirit, and, in the love of lowliness, obscurity, feebleness, and annihilation. This ignorance is the accomplished teacher of all truth; knowledge cannot attain to it, or can reach it but superficially. __________________________________________________________________
+Your true instruction is to be found in spoliation, deep recollection, silence of the whole soul before God, in renouncing your own spirit, and, in the love of lowliness, obscurity, feebleness, and annihilation. This ignorance is the accomplished teacher of all truth; knowledge cannot attain to it, or can reach it but superficially.
