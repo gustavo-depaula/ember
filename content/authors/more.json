@@ -12,5 +12,152 @@
     "Thomas More, Saint",
     "St. Thomas More",
     "Morus, Thomas"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "more/dialogue-of-comfort",
+          "why": {
+            "en-US": "Written in the Tower in 1534: how to bear tribulation",
+            "pt-BR": "Escrito na Torre em 1534: como suportar a tribulação"
+          }
+        },
+        {
+          "work": "more/utopia",
+          "why": {
+            "en-US": "The island of Utopia: the Latin, with Robinson’s and Burnet’s English",
+            "pt-BR": "A ilha de Utopia: o latim, com o inglês de Robinson e o de Burnet"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Prison writings",
+        "pt-BR": "Escritos do cárcere"
+      },
+      "note": {
+        "en-US": "The works of his last months in the Tower of London.",
+        "pt-BR": "As obras de seus últimos meses na Torre de Londres."
+      },
+      "works": [
+        {
+          "work": "more/de-tristitia-christi",
+          "why": {
+            "en-US": "A meditation on Christ’s sorrow in the Garden, left unfinished",
+            "pt-BR": "Meditação sobre a tristeza de Cristo no Horto, deixada inacabada"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Devotional and early works",
+        "pt-BR": "Obras devocionais e de juventude"
+      },
+      "works": [
+        {
+          "work": "more/four-last-things",
+          "why": {
+            "en-US": "The remembrance of death and the remedies against the seven deadly sins",
+            "pt-BR": "A lembrança da morte e os remédios contra os sete pecados capitais"
+          }
+        },
+        {
+          "work": "more/life-of-pico",
+          "why": {
+            "en-US": "His English version of the life of Pico della Mirandola, with Pico’s rules and prayer",
+            "pt-BR": "Sua versão inglesa da vida de Pico della Mirandola, com as regras e a oração de Pico"
+          }
+        },
+        {
+          "work": "more/lady-fortune",
+          "why": {
+            "en-US": "Early verses on Lady Fortune, 1504",
+            "pt-BR": "Versos de juventude sobre Dona Fortuna, 1504"
+          }
+        },
+        {
+          "work": "more/merry-jest",
+          "why": {
+            "en-US": "A comic verse tale of a sergeant who plays the friar",
+            "pt-BR": "Um conto cômico em verso sobre um meirinho que faz o frade"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Controversy with Tyndale and the reformers",
+        "pt-BR": "Controvérsia com Tyndale e os reformadores"
+      },
+      "note": {
+        "en-US": "His English polemics, in the order he wrote them.",
+        "pt-BR": "Suas polêmicas em inglês, na ordem em que as escreveu."
+      },
+      "works": [
+        {
+          "work": "more/dialogue-concerning-heresies",
+          "why": {
+            "en-US": "His first English polemic, against Tyndale and Luther, 1529",
+            "pt-BR": "Sua primeira polêmica em inglês, contra Tyndale e Lutero, 1529"
+          }
+        },
+        {
+          "work": "more/supplication-of-souls",
+          "why": {
+            "en-US": "The souls in purgatory answer Fish: a defence of prayer for the dead",
+            "pt-BR": "As almas do purgatório respondem a Fish: defesa da oração pelos mortos"
+          }
+        },
+        {
+          "work": "more/confutation-of-tyndale-part-1",
+          "why": {
+            "en-US": "Part I of his longest work, a reply to Tyndale, 1532",
+            "pt-BR": "Parte I de sua obra mais longa, resposta a Tyndale, 1532"
+          }
+        },
+        {
+          "work": "more/confutation-of-tyndale-part-2",
+          "why": {
+            "en-US": "Part II: purgatory, the Eucharist and the Church",
+            "pt-BR": "Parte II: purgatório, Eucaristia e Igreja"
+          }
+        },
+        {
+          "work": "more/letter-against-frith",
+          "why": {
+            "en-US": "Against Frith’s denial of the Real Presence and purgatory",
+            "pt-BR": "Contra a negação de Frith da presença real e do purgatório"
+          }
+        },
+        {
+          "work": "more/apology",
+          "why": {
+            "en-US": "His defence of his conduct and writings, 1533",
+            "pt-BR": "Sua defesa da própria conduta e de seus escritos, 1533"
+          }
+        },
+        {
+          "work": "more/debellation-of-salem-and-bizance",
+          "why": {
+            "en-US": "Reply to St German on the spirituality and the temporality",
+            "pt-BR": "Resposta a St German sobre o espiritual e o temporal"
+          }
+        },
+        {
+          "work": "more/answer-to-a-poisoned-book",
+          "why": {
+            "en-US": "His last published polemic, in defence of the Real Presence, 1533",
+            "pt-BR": "Sua última polêmica publicada, em defesa da presença real, 1533"
+          }
+        }
+      ]
+    }
   ]
 }
