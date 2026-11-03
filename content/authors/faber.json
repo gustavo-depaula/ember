@@ -8,5 +8,153 @@
     "Fr. Frederick William Faber",
     "Frederick William Faber",
     "Father Faber"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "His first treatise, and his hymns.",
+        "pt-BR": "Seu primeiro tratado e seus hinos."
+      },
+      "works": [
+        {
+          "work": "faber/all-for-jesus",
+          "why": {
+            "en-US": "His first great devotional treatise, on the easy ways of love",
+            "pt-BR": "Seu primeiro grande tratado devocional, sobre os caminhos fáceis do amor"
+          }
+        },
+        {
+          "work": "faber/hymns",
+          "why": {
+            "en-US": "The hundred and fifty hymns as he collected them in 1862",
+            "pt-BR": "Os cento e cinquenta hinos, como ele os reuniu em 1862"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The treatises",
+        "pt-BR": "Os tratados"
+      },
+      "note": {
+        "en-US": "His long devotional books, one for each great mystery.",
+        "pt-BR": "Seus longos livros devocionais, um para cada grande mistério."
+      },
+      "works": [
+        {
+          "work": "faber/growth-in-holiness",
+          "why": {
+            "en-US": "The progress of the spiritual life in twenty-seven chapters",
+            "pt-BR": "O progresso da vida espiritual em vinte e sete capítulos"
+          }
+        },
+        {
+          "work": "faber/blessed-sacrament",
+          "why": {
+            "en-US": "The Eucharist as the summit of God's works",
+            "pt-BR": "A Eucaristia como ápice das obras de Deus"
+          }
+        },
+        {
+          "work": "faber/creator-and-creature",
+          "why": {
+            "en-US": "God's creative love, in three books",
+            "pt-BR": "O amor criador de Deus, em três livros"
+          }
+        },
+        {
+          "work": "faber/foot-of-the-cross",
+          "why": {
+            "en-US": "The sorrows of Mary, in nine chapters",
+            "pt-BR": "As dores de Maria, em nove capítulos"
+          }
+        },
+        {
+          "work": "faber/precious-blood",
+          "why": {
+            "en-US": "Devotion to the Precious Blood",
+            "pt-BR": "A devoção ao Preciosíssimo Sangue"
+          }
+        },
+        {
+          "work": "faber/bethlehem",
+          "why": {
+            "en-US": "The Incarnation and the Holy Infancy",
+            "pt-BR": "A Encarnação e a Santa Infância"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Talks and notes",
+        "pt-BR": "Conferências e notas"
+      },
+      "works": [
+        {
+          "work": "faber/spiritual-conferences",
+          "why": {
+            "en-US": "Twelve addresses given at the London Oratory",
+            "pt-BR": "Doze conferências proferidas no Oratório de Londres"
+          }
+        },
+        {
+          "work": "faber/notes-doctrinal-spiritual",
+          "why": {
+            "en-US": "Posthumous notes chosen from his papers",
+            "pt-BR": "Notas póstumas escolhidas de seus papéis"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "St. Philip and the saints",
+        "pt-BR": "São Filipe e os santos"
+      },
+      "works": [
+        {
+          "work": "faber/spirit-genius-st-philip-neri",
+          "why": {
+            "en-US": "Three Oratory lectures on St. Philip Neri",
+            "pt-BR": "Três conferências do Oratório sobre São Filipe Néri"
+          }
+        },
+        {
+          "work": "faber/essay-lives-of-the-saints",
+          "why": {
+            "en-US": "On the interest and characteristics of the saints' lives",
+            "pt-BR": "Sobre o interesse e as características das vidas dos santos"
+          }
+        },
+        {
+          "work": "faber/essay-beatification-canonization",
+          "why": {
+            "en-US": "On beatification, canonization and the Congregation of Rites",
+            "pt-BR": "Sobre beatificação, canonização e a Congregação dos Ritos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "For children",
+        "pt-BR": "Para crianças"
+      },
+      "works": [
+        {
+          "work": "faber/ethels-book",
+          "why": {
+            "en-US": "Four stories of the angels for children",
+            "pt-BR": "Quatro histórias de anjos para crianças"
+          }
+        }
+      ]
+    }
   ]
 }
