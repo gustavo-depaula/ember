@@ -1,0 +1,308 @@
+{
+  "id": "gueranger-liturgical-year-14-after-pentecost-5",
+  "name": {
+    "en-US": "The Liturgical Year: Time after Pentecost, Book V",
+    "pt-BR": "O Ano Litúrgico: Tempo depois de Pentecostes, V"
+  },
+  "author": {
+    "en-US": "Dom Prosper Guéranger",
+    "pt-BR": "Dom Prosper Guéranger"
+  },
+  "description": {
+    "en-US": "Volume 14 of the English Liturgical Year (Time after Pentecost, Book V), translated from L’Année liturgique: one chapter per day or feast, with the Latin liturgical texts beside their English. Made from the Internet Archive scan of the 1910 printing; the two-column Latin and English text is separated by script, so some lines may be misassigned.",
+    "pt-BR": "Volume 14 do «Liturgical Year» em inglês (Tempo depois de Pentecostes, V), traduzido de L’Année liturgique: um capítulo por dia ou festa, com os textos litúrgicos em latim ao lado do inglês."
+  },
+  "composed": "1897",
+  "languages": [
+    "en-US"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "en-US": {
+      "translator": "Benedictines of Stanbrook",
+      "year": 1910
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/V14TheLiturgicalYear",
+      "edition": "The Liturgical Year, Time after Pentecost, Book V, translated from the French of Dom Prosper Guéranger; printing of 1910 (Stanbrook Abbey / Duffy). Internet Archive scan, OCR text.",
+      "description": "Split at each day or feast heading detected in the running text; running heads and page numbers removed; the Latin and English columns of the liturgical texts, interleaved line by line in the OCR, were separated by language and set as a Latin paragraph followed by its English.",
+      "tier": "A",
+      "tierEvidence": "Guéranger (d. 1875) and the translation printed 1870-1912: public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-chapter-the-first-on-hearing-mass-during-the-tim",
+      "title": {
+        "en-US": "Chapter the First on Hearing Mass, During the Time after Pentecost"
+      }
+    },
+    {
+      "id": "002-chapter-the-second",
+      "title": {
+        "en-US": "Chapter the Second"
+      }
+    },
+    {
+      "id": "003-chapter-the-third-on-the-office-of-compline-duri",
+      "title": {
+        "en-US": "Chapter the Third on the Office of Compline During the Time after Pentecost"
+      }
+    },
+    {
+      "id": "004-october-31-blessed-virgin",
+      "title": {
+        "en-US": "October 31 — Blessed Virgin"
+      }
+    },
+    {
+      "id": "005-august-24-saint-bartholomew-apostle",
+      "title": {
+        "en-US": "August 24 — Saint Bartholomew Apostle"
+      }
+    },
+    {
+      "id": "006-august-25-saint-louis",
+      "title": {
+        "en-US": "August 25 — Saint Louis"
+      }
+    },
+    {
+      "id": "007-august-26-pope-and-martyr",
+      "title": {
+        "en-US": "August 26 — Pope and Martyr"
+      }
+    },
+    {
+      "id": "008-august-27-saint-augustine",
+      "title": {
+        "en-US": "August 27 — Saint Augustine '"
+      }
+    },
+    {
+      "id": "009-august-31-saint-ratmund-nonnatus-confessor",
+      "title": {
+        "en-US": "August 31 — Saint Ratmund Nonnatus Confessor"
+      }
+    },
+    {
+      "id": "010-september-1-saint-giles-abbot",
+      "title": {
+        "en-US": "September 1 — Saint Giles Abbot"
+      }
+    },
+    {
+      "id": "011-september-1-saint-stephen",
+      "title": {
+        "en-US": "September 1 — Saint Stephen"
+      }
+    },
+    {
+      "id": "012-september-1-saint-laurence-justinian",
+      "title": {
+        "en-US": "September 1 — Saint Laurence Justinian"
+      }
+    },
+    {
+      "id": "013-september-8-the-nativity-of-the-blessed-virgin-m",
+      "title": {
+        "en-US": "September 8 — The Nativity of the Blessed Virgin Mart"
+      }
+    },
+    {
+      "id": "014-september-8-commemoration-of-saint-adrian",
+      "title": {
+        "en-US": "September 8 — Commemoration of Saint Adrian"
+      }
+    },
+    {
+      "id": "015-september-8-commemoration-of-saint-gorgonius-mar",
+      "title": {
+        "en-US": "September 8 — Commemoration of Saint Gorgonius Martyr"
+      }
+    },
+    {
+      "id": "016-september-8-nativity-of-the-blessed-virgin-ma-rt",
+      "title": {
+        "en-US": "September 8 — Nativity of the Blessed Virgin Ma.rt $"
+      }
+    },
+    {
+      "id": "017-september-8-feast-of-the-most-holy-name-of-mary",
+      "title": {
+        "en-US": "September 8 — Feast of the Most Holy Name of Mary"
+      }
+    },
+    {
+      "id": "018-saint-nicholas-tolentino",
+      "title": {
+        "en-US": "Saint Nicholas Tolentino"
+      }
+    },
+    {
+      "id": "019-the-octave-day-of-the-nativity",
+      "title": {
+        "en-US": "The Octave Day of the Nativity"
+      }
+    },
+    {
+      "id": "020-third-sunday-of-september-feast-of-the-seven-dol",
+      "title": {
+        "en-US": "Third Sunday of September Feast of the Seven Dolours of the Blessed Virgin Mart"
+      }
+    },
+    {
+      "id": "021-september-16-saint-cornelius-pope-and-martyr-and",
+      "title": {
+        "en-US": "September 16 — Saint Cornelius Pope and Martyr and Saint Cyprian Bishop and Martyr"
+      }
+    },
+    {
+      "id": "022-september-16-saint-joseph-cupertino",
+      "title": {
+        "en-US": "September 16 — Saint Joseph Cupertino"
+      }
+    },
+    {
+      "id": "023-september-19-saint-matthew-apostle-and-evangelis",
+      "title": {
+        "en-US": "September 19 — Saint Matthew Apostle and Evangelist"
+      }
+    },
+    {
+      "id": "024-september-19-saint-thecla",
+      "title": {
+        "en-US": "September 19 — Saint Thecla"
+      }
+    },
+    {
+      "id": "025-september-24-saints-cosmas-and-damian",
+      "title": {
+        "en-US": "September 24 — Saints Cosmas and Damian"
+      }
+    },
+    {
+      "id": "026-september-28-saint-wenceslas-duke-and-martyr",
+      "title": {
+        "en-US": "September 28 — Saint Wenceslas Duke and Martyr"
+      }
+    },
+    {
+      "id": "027-september-29-dedication-of-saint-michael",
+      "title": {
+        "en-US": "September 29 — Dedication of Saint Michael"
+      }
+    },
+    {
+      "id": "028-first-sunday-of-october-feast-of-the-most-holt-r",
+      "title": {
+        "en-US": "First Sunday of October Feast of the Most Holt Rosary"
+      }
+    },
+    {
+      "id": "029-september-30-feast-of-tttb-most-holt-rosary",
+      "title": {
+        "en-US": "September 30 — Feast of Tttb Most Holt Rosary"
+      }
+    },
+    {
+      "id": "030-september-30-saint-bemigius-bishop-and-confessor",
+      "title": {
+        "en-US": "September 30 — Saint Bemigius Bishop and Confessor Apostle of the Franks"
+      }
+    },
+    {
+      "id": "031-october-2-saint-francis",
+      "title": {
+        "en-US": "October 2 — Saint Francis"
+      }
+    },
+    {
+      "id": "032-october-5-saint-placid-and-his-companions-martyr",
+      "title": {
+        "en-US": "October 5 — Saint Placid and His Companions Martyrs Saint Placid and His Companions"
+      }
+    },
+    {
+      "id": "033-october-5-saint-placid-and-sls-companions",
+      "title": {
+        "en-US": "October 5 — Saint Placid and Sls Companions"
+      }
+    },
+    {
+      "id": "034-october-5-saint-bruno",
+      "title": {
+        "en-US": "October 5 — Saint Bruno"
+      }
+    },
+    {
+      "id": "035-october-7-saint-bridget-widow",
+      "title": {
+        "en-US": "October 7 — Saint Bridget Widow"
+      }
+    },
+    {
+      "id": "036-october-9-saint-dionysius-bishop-and-martyr-and",
+      "title": {
+        "en-US": "October 9 — Saint Dionysius, Bishop and Martyr and Saints Rusticus and Eleutherius, Mm"
+      }
+    },
+    {
+      "id": "037-october-9-saint-francis-borgia",
+      "title": {
+        "en-US": "October 9 — Saint Francis Borgia"
+      }
+    },
+    {
+      "id": "038-october-14-saint-callixtus",
+      "title": {
+        "en-US": "October 14 — Saint Callixtus"
+      }
+    },
+    {
+      "id": "039-october-14-saint-teresa",
+      "title": {
+        "en-US": "October 14 — Saint Teresa"
+      }
+    },
+    {
+      "id": "040-october-17-saint-hedwige-widow",
+      "title": {
+        "en-US": "October 17 — Saint Hedwige Widow"
+      }
+    },
+    {
+      "id": "041-october-17-saint-peter-of-alcantara",
+      "title": {
+        "en-US": "October 17 — Saint Peter of Alcantara"
+      }
+    },
+    {
+      "id": "042-october-21-saint-hilarion-abbot",
+      "title": {
+        "en-US": "October 21 — Saint Hilarion Abbot"
+      }
+    },
+    {
+      "id": "043-october-21-saint-ursula-and-companions",
+      "title": {
+        "en-US": "October 21 — Saint Ursula and Companions"
+      }
+    },
+    {
+      "id": "044-october-24-saint-raphael",
+      "title": {
+        "en-US": "October 24 — Saint Raphael"
+      }
+    },
+    {
+      "id": "045-vigil-op-all-saints",
+      "title": {
+        "en-US": "Vigil Op All Saints"
+      }
+    }
+  ]
+}
