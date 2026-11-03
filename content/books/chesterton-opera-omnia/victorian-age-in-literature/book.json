@@ -1,0 +1,69 @@
+{
+  "id": "chesterton-victorian-age-in-literature",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Victorian Age in Literature",
+    "pt-BR": "A Era Vitoriana na Literatura"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's survey for the Home University Library: the Victorian compromise and its enemies, the great Victorian novelists, the great Victorian poets, and the break-up of the compromise. A free and personal statement of impressions, as the editors say, rather than a manual.",
+    "pt-BR": "A panorama de Chesterton para a Home University Library: o compromisso vitoriano e seus inimigos, os grandes romancistas vitorianos, os grandes poetas vitorianos e o fim do compromisso. Uma exposição livre e pessoal de impressões, como dizem os editores, e não um manual."
+  },
+  "composed": "1913",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/victorian-age-in-literature",
+  "editions": {
+    "en-US": {
+      "editor": "Williams and Norgate",
+      "year": 1913
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/18639",
+      "edition": "The Victorian Age in Literature (Williams and Norgate, 1913), Project Gutenberg #18639.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1913 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-introduction",
+      "title": {
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "ch02-the-victorian-compromise-and-its-enemies",
+      "title": {
+        "en-US": "I. The Victorian Compromise and its Enemies"
+      }
+    },
+    {
+      "id": "ch03-the-great-victorian-novelists",
+      "title": {
+        "en-US": "II. The Great Victorian Novelists"
+      }
+    },
+    {
+      "id": "ch04-the-great-victorian-poets",
+      "title": {
+        "en-US": "III. The Great Victorian Poets"
+      }
+    },
+    {
+      "id": "ch05-the-break-up-of-the-compromise",
+      "title": {
+        "en-US": "IV. The Break-up of the Compromise"
+      }
+    }
+  ]
+}
