@@ -7,5 +7,22 @@
   "matches": [
     "Victorine writers",
     "Victorini"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "The Victorine letters",
+        "pt-BR": "As cartas dos vitorinos"
+      },
+      "works": [
+        {
+          "work": "victorines/victorine-epistolae",
+          "why": {
+            "en-US": "Letters of five Victorines and the epitaph of Adam, in Latin",
+            "pt-BR": "Cartas de cinco vitorinos e o epitáfio de Adão, em latim"
+          }
+        }
+      ]
+    }
   ]
 }
