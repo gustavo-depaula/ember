@@ -7,5 +7,22 @@
   "saint": "cyril_jerusalem",
   "matches": [
     "Cyril of Jerusalem"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "cyril-catechetical-lectures",
+          "why": {
+            "en-US": "His Catechetical Lectures",
+            "pt-BR": "Suas Catequeses"
+          }
+        }
+      ]
+    }
   ]
 }
