@@ -39,7 +39,7 @@ The first wave (one or two works per author) is done. This queue imports each au
 - [x] R. H. Benson · More & Fisher (60 books). Left: Benson's Book of the Love of Jesus, Essays, Sermon Notes, Poems, Alphabet of Saints; More's Latin De Tristitia, Treatise on the Passion, Blessed Body, Instructions and Prayers, letters, Richard III, Epigrammata, Responsio, Lucian; Fisher's Latin works (scan-only); filling TCP gaps from the 1557 Workes
 - [x] Chesterton (82 books). Left: Christendom in Dublin, Sidelights, All I Survey, Come to Think of It, All is Grist, The Way of the Cross, Where All Roads Lead, Gloria in Profundis, two plays (no open text); Collected Poems 1927–32 additions
 - [x] Marmion · Chautard (9 books). Left: Union with God, Christ the Ideal of the Priest, Words of Life (borrow-only), French originals of Life of the Soul, Ideal of the Monk, Sponsa Verbi (no open text)
-- [ ] Garrigou-Lagrange · Tanquerey
+- [x] Garrigou-Lagrange · Tanquerey (33 books). Left: Trois Âges in French (only tome 2 open), minor French works, Tanquerey's Dogmes générateurs / Doctrine and Devotion; Latin synopses and commentaries need real chapter splits
 - [ ] Guéranger
 
 ## Later: English pass
