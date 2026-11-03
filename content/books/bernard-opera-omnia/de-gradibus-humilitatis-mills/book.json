@@ -1,0 +1,188 @@
+{
+  "id": "bernard-de-gradibus-humilitatis-mills",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Twelve Degrees of Humility and Pride",
+    "pt-BR": "Os doze graus da humildade e do orgulho"
+  },
+  "author": {
+    "la": "Bernardus Claraevallensis",
+    "en-US": "St. Bernard of Clairvaux",
+    "pt-BR": "São Bernardo de Claraval"
+  },
+  "description": {
+    "en-US": "Barton R. V. Mills's English (SPCK, 1929) of Bernard's first treatise, in twenty-two chapters under two parts: the twelve degrees of humility (chapters I-IX) and the twelve degrees of pride (X-XXII). Mills's chapters differ from the Latin book's, so this is a separate book of the same work.",
+    "pt-BR": "A tradução inglesa de Barton R. V. Mills (1929) do tratado de São Bernardo sobre os graus da humildade e do orgulho."
+  },
+  "composed": "1124",
+  "languages": [
+    "en-US"
+  ],
+  "work": "bernard/de-gradibus-humilitatis",
+  "editions": {
+    "en-US": {
+      "translator": "Barton R. V. Mills",
+      "year": 1929
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/MN41533ucmf_0",
+      "edition": "The Twelve Degrees of Humility and Pride, by Saint Bernard, translated by Barton R. V. Mills (London: SPCK, 1929), Translations of Christian Literature, Series II, Latin Texts.",
+      "description": "Djvu OCR cleaned by script, not proofread. Mills's preface and long introduction are not imported; his footnotes are kept as footnotes where the OCR keeps the markers legible and dropped otherwise.",
+      "tier": "A",
+      "tierEvidence": "Published in 1929, before 1931: public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "pars-1",
+      "title": {
+        "en-US": "Part I. The Twelve Degrees of Humility"
+      },
+      "children": [
+        {
+          "id": "c01",
+          "title": {
+            "en-US": "Chapter I. The search for Truth — Christ the goal and the road"
+          }
+        },
+        {
+          "id": "c02",
+          "title": {
+            "en-US": "Chapter II. The ladder of humility, foreshadowed by that which Jacob saw in his vision. The refreshment provided by Christ — humility, love, and contemplation — of which love is the central course, as on Solomon's table"
+          }
+        },
+        {
+          "id": "c03",
+          "title": {
+            "en-US": "Chapter III. The process by which the road of humility leads to the attainment of Truth. The three degrees of Truth. The teaching of Christ about these. Discussion of the difficulty involved in the statement that He learned compassion through suffering"
+          }
+        },
+        {
+          "id": "c04",
+          "title": {
+            "en-US": "Chapter IV. The first degree of Truth — self-scrutiny — reveals to us our own evil case"
+          }
+        },
+        {
+          "id": "c05",
+          "title": {
+            "en-US": "Chapter V. The second degree of Truth — -wherein consciousness of our own shortcomings makes us merciful to those of other people"
+          }
+        },
+        {
+          "id": "c06",
+          "title": {
+            "en-US": "Chapter VI. The third, degree of Truth — the clearing of the spiritual sight, so that it may gaze on holy and heavenly things"
+          }
+        },
+        {
+          "id": "c07",
+          "title": {
+            "en-US": "Chapter VII. The -work of the Persons of the Holy Trinity in leading men through the three degrees of Truth"
+          }
+        },
+        {
+          "id": "c08",
+          "title": {
+            "en-US": "Chapter VIII. The same sequence is seen in the 'rapture' of St. Paul to the third heaven"
+          }
+        },
+        {
+          "id": "c09",
+          "title": {
+            "en-US": "Chapter IX. The writer sighs regretfully over his own shortcomings in the search for Truth"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pars-2",
+      "title": {
+        "en-US": "Part II. The Twelve Degrees of Pride"
+      },
+      "children": [
+        {
+          "id": "c10",
+          "title": {
+            "en-US": "Chapter X. The first degree — Curiosity — tine opposite of modesty — especially of the eyes"
+          }
+        },
+        {
+          "id": "c11",
+          "title": {
+            "en-US": "Chapter XI. The second degree — Levity of mind. (The opposite of the eleventh degree of humility — short and sensible speech in a subdued tone.) For the monk who is careless about himself and unduly inquisitive about other people, looks"
+          }
+        },
+        {
+          "id": "c12",
+          "title": {
+            "en-US": "Chapter XII. The third degree — Unseasonable merriment. (The opposite of the tenth degree of humility — refraining from frequent and light laughter.) It is characteristic of the proud that they always look out for pleasure and shun sadness, in accord-"
+          }
+        },
+        {
+          "id": "c13",
+          "title": {
+            "en-US": "Chapter XIII. The fourth degree — Boastfulness. (The opposite of the ninth degree of humility. Reticence until questioned.) But when vanity increases, and the bladder begins to be inflated, it becomes necessary to loosen the belt and allow a larger outlet for the"
+          }
+        },
+        {
+          "id": "c14",
+          "title": {
+            "en-US": "Chapter XIV. The fifth degree — Eccentricity. (The opposite of the eighth degree of humility, observance of the general rule of the monastery.) A man who prides himself on being better than his fellow-men thinks it a disgrace if he does not"
+          }
+        },
+        {
+          "id": "c15",
+          "title": {
+            "en-US": "Chapter XV. Sixth degree — Conceit. (The opposite of the seventh degree of humility — belief and acknowledgment of one's inferiority to others.) He believes what he hears, praises his own action,1 and pays no attention to the motive. He"
+          }
+        },
+        {
+          "id": "c16",
+          "title": {
+            "en-US": "Chapter XVI. Seventh degree — Audacity. (The opposite of the sixth degree of humility — acknowledgment of oneself as unworthy and useless.) For i£ a man thinks himself superior to others, is it likely that he will not push himself in front"
+          }
+        },
+        {
+          "id": "c17",
+          "title": {
+            "en-US": "Chapter XVII. The eighth degree — Defence of wrong-doing. (The opposite of the fifth degree of humility — a humble and straightforward disclosure of sins and evil thoughts.) There are many ways in which defence is made for sin. A man either says 'I did it not' or"
+          }
+        },
+        {
+          "id": "c18",
+          "title": {
+            "en-US": "Chapter XVIII. The ninth degree — Dishonest confession. (The oppo- site of the fourth degree of humility, willing endurance of hardship as a matter of obedience.) But although defences of this kind are considered so wrong that they are called by the PropKet evil"
+          }
+        },
+        {
+          "id": "c19",
+          "title": {
+            "en-US": "Chapter XIX. The tenth degree — Rebellion. (The opposite of the third degree of humility — Obedient submission to superiors.) Unless by a merciful intervention of Providence this man quietly accepts the unanimous verdict —"
+          }
+        },
+        {
+          "id": "c20",
+          "title": {
+            "en-US": "Chapter XX. Eleventh degree — Freedom to sin. (The opposite of the second degree of humility — Forbearance to press personal desire. ) So after the tenth degree — which has been described as 'rebellion' — the man is at once caught"
+          }
+        },
+        {
+          "id": "c21",
+          "title": {
+            "en-US": "Chapter XXI. Twelfth degree — Habitual sin. (The opposite of the- first degree of humility — constant abstinence from sin for fear of God. ) But when, by the awful judgment of God, his first offences have been unpunished, the pleasure"
+          }
+        },
+        {
+          "id": "c22",
+          "title": {
+            "en-US": "Chapter XXII. To what extent may prayer be offered for the incorrigible, and spiritually dead ?"
+          }
+        }
+      ]
+    }
+  ]
+}
