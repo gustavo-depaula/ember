@@ -1,0 +1,75 @@
+{
+  "id": "chesterton-greybeards-at-play",
+  "cover": "classic",
+  "name": {
+    "en-US": "Greybeards at Play: Literature and Art for Old Gentlemen",
+    "pt-BR": "Barbas-Brancas Brincando"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's nonsense verses of 1900, with the author's drawings in the original: the oneness of the philosopher with nature, the dangers attending altruism on the high seas, and the disastrous spread of aestheticism in all classes.",
+    "pt-BR": "Os versos disparatados de Chesterton de 1900, com os desenhos do autor no original: a unidade do filósofo com a natureza, os perigos do altruísmo em alto-mar e a funesta difusão do esteticismo em todas as classes."
+  },
+  "composed": "1900",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/greybeards-at-play",
+  "editions": {
+    "en-US": {
+      "editor": "R. Brimley Johnson",
+      "year": 1900
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/14706",
+      "edition": "Greybeards at Play: Literature and Art for Old Gentlemen (R. Brimley Johnson, 1900), Project Gutenberg #14706.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1900 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-a-dedication",
+      "title": {
+        "en-US": "A Dedication"
+      }
+    },
+    {
+      "id": "ch02-the-oneness-of-the-philosopher-with-nature",
+      "title": {
+        "en-US": "The Oneness of the Philosopher with Nature"
+      }
+    },
+    {
+      "id": "ch03-of-the-dangers-attending-altruism-on-the",
+      "title": {
+        "en-US": "Of the Dangers Attending Altruism on the High Seas"
+      }
+    },
+    {
+      "id": "ch04-moral",
+      "title": {
+        "en-US": "Moral"
+      }
+    },
+    {
+      "id": "ch05-on-the-disastrous-spread-of-stheticism-in",
+      "title": {
+        "en-US": "On the Disastrous Spread of Æstheticism in All Classes"
+      }
+    },
+    {
+      "id": "ch06-envoy",
+      "title": {
+        "en-US": "Envoy"
+      }
+    }
+  ]
+}
