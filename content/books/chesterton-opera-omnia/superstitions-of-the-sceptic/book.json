@@ -1,0 +1,57 @@
+{
+  "id": "chesterton-superstitions-of-the-sceptic",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Superstitions of the Sceptic",
+    "pt-BR": "As Superstições do Cético"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's 1925 Cambridge lecture, taking up what Bernard Shaw said of St Joan to argue that the modern sceptic is as credulous as anyone, followed by his correspondence with the medievalist G. G. Coulton in the Cambridge Review on the Middle Ages and the faith.",
+    "pt-BR": "A conferência de Chesterton em Cambridge (1925), que parte do que Bernard Shaw disse de Santa Joana para argumentar que o cético moderno é tão crédulo quanto qualquer um, seguida de sua correspondência com o medievalista G. G. Coulton na Cambridge Review sobre a Idade Média e a fé."
+  },
+  "composed": 1925,
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/superstitions-of-the-sceptic",
+  "editions": {
+    "en-US": {
+      "editor": "W. Heffer & Sons",
+      "year": 1925
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/superstitionsofs0000unse_q9f6",
+      "edition": "The Superstitions of the Sceptic, with a correspondence between the author and Mr. G. G. Coulton (Cambridge: Heffer, 1925), I.D.K. Club Booklets no. 1, Internet Archive full-text OCR.",
+      "description": "Preface, the lecture, and the correspondence as printed (Coulton's letters included). Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Chesterton died in 1936 and the booklet was published in 1925, so it is public domain; Coulton died in 1947."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "The Superstitions of the Sceptic"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "The Correspondence between the Author and Mr. G. G. Coulton"
+      }
+    }
+  ]
+}
