@@ -7,5 +7,66 @@
   "saint": "clement_i",
   "matches": [
     "Clement of Rome"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "clement-rome-first-epistle",
+          "why": {
+            "en-US": "His letter to the Corinthians",
+            "pt-BR": "Sua carta aos coríntios"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Other epistles",
+        "pt-BR": "Outras epístolas"
+      },
+      "works": [
+        {
+          "work": "clement-rome-second-epistle",
+          "why": {
+            "en-US": "The second epistle",
+            "pt-BR": "A segunda epístola"
+          }
+        },
+        {
+          "work": "clement-rome-two-epistles-concerning-virginity",
+          "why": {
+            "en-US": "Two epistles concerning virginity",
+            "pt-BR": "Duas epístolas sobre a virgindade"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Attributed works",
+        "pt-BR": "Obras atribuídas"
+      },
+      "works": [
+        {
+          "work": "clement-rome-recognitions",
+          "why": {
+            "en-US": "The Recognitions",
+            "pt-BR": "As Recognições"
+          }
+        },
+        {
+          "work": "clement-rome-clementine-homilies",
+          "why": {
+            "en-US": "The Clementine Homilies",
+            "pt-BR": "As Homilias clementinas"
+          }
+        }
+      ]
+    }
   ]
 }
