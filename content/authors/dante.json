@@ -8,5 +8,98 @@
     "Dante Alighieri",
     "Dante",
     "Alighieri, Dante"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "The poem, and the little book of his youth that leads to it.",
+        "pt-BR": "O poema e o livrinho da juventude que conduz a ele."
+      },
+      "works": [
+        {
+          "work": "dante/commedia",
+          "why": {
+            "en-US": "The journey through Hell, Purgatory and Paradise",
+            "pt-BR": "A viagem pelo Inferno, Purgatório e Paraíso"
+          }
+        },
+        {
+          "work": "dante/vita-nuova",
+          "why": {
+            "en-US": "His love for Beatrice, from first meeting on",
+            "pt-BR": "Seu amor por Beatriz, desde o primeiro encontro"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Philosophy and politics",
+        "pt-BR": "Filosofia e política"
+      },
+      "works": [
+        {
+          "work": "dante/monarchia",
+          "why": {
+            "en-US": "On universal monarchy, in three books, with Church's English",
+            "pt-BR": "Sobre a monarquia universal, em três livros, com o inglês de Church"
+          }
+        },
+        {
+          "work": "dante/convivio",
+          "why": {
+            "en-US": "A vernacular commentary on three canzoni, with Sayer's English",
+            "pt-BR": "Comentário em vulgar a três canções, com o inglês de Sayer"
+          }
+        },
+        {
+          "work": "dante/de-vulgari-eloquentia",
+          "why": {
+            "en-US": "On the vernacular, its origin and the languages",
+            "pt-BR": "Sobre a língua vulgar, sua origem e as línguas"
+          }
+        },
+        {
+          "work": "dante/quaestio-de-aqua-et-terra",
+          "why": {
+            "en-US": "His 1320 disputation at Verona on water and land",
+            "pt-BR": "Sua disputa de 1320 em Verona sobre a água e a terra"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Lyric and letters",
+        "pt-BR": "Lírica e cartas"
+      },
+      "works": [
+        {
+          "work": "dante/rime",
+          "why": {
+            "en-US": "A hundred and eighteen lyric poems",
+            "pt-BR": "Cento e dezoito poemas líricos"
+          }
+        },
+        {
+          "work": "dante/epistolae",
+          "why": {
+            "en-US": "The thirteen Latin letters",
+            "pt-BR": "As treze cartas em latim"
+          }
+        },
+        {
+          "work": "dante/eclogae",
+          "why": {
+            "en-US": "Latin verse exchanged with Giovanni del Virgilio",
+            "pt-BR": "Versos latinos trocados com Giovanni del Virgilio"
+          }
+        }
+      ]
+    }
   ]
 }
