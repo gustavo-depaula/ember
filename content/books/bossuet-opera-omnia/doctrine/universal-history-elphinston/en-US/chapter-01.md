@@ -1,0 +1,3 @@
+# Advertisement
+
+The Publisher deems it presumptuous to offer any remarks on the merits of this valuable publication. The learning and eloquence of Bishop Bossuet is so universally known and acknowledged by all acquainted with ancient literature, that remarks or recommendations are deemed useless, and as respects litUe or narrow minds, might prove injurious: aware of the dangers attending a partial recommendation, as likewise the difficulty of procuring a recommendation which would embrace the leaders of all sects and par-ties, the Publisher exercises, in this, as in all the works he has hitherto published, the best of his own judgment, and solicits the patronage of all who approve his choice.

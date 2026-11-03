@@ -1,0 +1,75 @@
+{
+  "id": "bossuet-universal-history-elphinston",
+  "cover": "classic",
+  "name": {
+    "en-US": "An Universal History",
+    "pt-BR": "Uma História Universal"
+  },
+  "author": {
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "en-US": "Bossuet's Discourse on Universal History, written for the Dauphin: the twelve epochs from the Creation to Charlemagne, the continuity of religion, and the revolutions of empires, in James Elphinston's English version.",
+    "pt-BR": "O Discurso sobre a História Universal de Bossuet, escrito para o Delfim: as doze épocas da Criação a Carlos Magno, a continuidade da religião e as revoluções dos impérios, na versão inglesa de James Elphinston."
+  },
+  "composed": 1681,
+  "languages": [
+    "en-US"
+  ],
+  "work": "bossuet/discours-sur-l-histoire-universelle",
+  "editions": {
+    "en-US": {
+      "editor": "James Elphinston (London, 1778)",
+      "year": 1778
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/anuniversalhist00bossgoog",
+      "edition": "An Universal History, tr. James Elphinston (London, 1778), Google Books scan on the Internet Archive, full-text OCR. Split by the work's three parts only; chapter divisions inside the parts are not recoverable from the OCR.",
+      "description": "Cut at the three parts (Epochs, Continuation of Religion, Revolutions of Empires); the OCR carries marginal date notes and scan noise. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Jacques-Bénigne Bossuet died in 1704 and the edition is of 1778, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Advertisement"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "To the Dauphin"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "Part I: The Epochs, or Ages of the World"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "Part II: The Continuation of Religion"
+      }
+    },
+    {
+      "id": "chapter-06",
+      "title": {
+        "en-US": "Part III: The Revolutions of Empires"
+      }
+    }
+  ]
+}
