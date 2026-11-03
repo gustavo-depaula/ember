@@ -14,4 +14,4 @@ Other faults committed in the simplicity of your good intentions, will be of ser
 
 God would behold in you a simplicity which will contain so much the more of his wisdom as it contains less of your own; He desires to see you lowly in your own eyes, and as docile in his hands as a babe. He desires to create in your heart that child-like disposition so distasteful to the spirit of man, but so agreeable to the spirit of the Gospel, in spite of the infection of a scornful and contemptuous world.
 
-By this very simplicity and lowliness He will heal all the remains of haughty and self-confident wisdom in you, and you shall say with David, And I will yet be more vile than this, and will be base in mine own sight, (1 Sam. vi. 22,) from the moment that you give yourself to the Lord. __________________________________________________________________
+By this very simplicity and lowliness He will heal all the remains of haughty and self-confident wisdom in you, and you shall say with David, And I will yet be more vile than this, and will be base in mine own sight, (1 Sam. vi. 22,) from the moment that you give yourself to the Lord.

@@ -8,4 +8,4 @@ The moment we find ourselves deprived of the delights of grace, that milk for ba
 
 Privations are meat for men; by them the soul is rendered hardy, is separated from self, and offered in a pure sacrifice to God; but we give up all, the moment they commence. We cannot but think that everything is going to ruin, when, in fact, the foundations are just beginning to be solidly laid. Nothing would give us more delight than that God should do all his pleasure with us, provided it should always be to magnify and perfect us in our own eyes. But if we are not willing to be destroyed and annihilated, we shall never become that whole burnt offering, which is entirely consumed in the blaze of God's love.
 
-We desire to enter into a state of pure faith, and retain our own wisdom! To be a babe, and great in our own eyes! Ah! what a sad delusion! __________________________________________________________________
+We desire to enter into a state of pure faith, and retain our own wisdom! To be a babe, and great in our own eyes! Ah! what a sad delusion!

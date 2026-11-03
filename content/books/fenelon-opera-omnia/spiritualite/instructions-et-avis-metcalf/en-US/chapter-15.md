@@ -26,6 +26,6 @@ I was once as wise as any; thinking I saw everything, I saw nothing; I crept alo
 
 Then it is that we know all things without knowing anything. Not that we have the presumption to suppose that we possess in ourselves all truth. No! on the contrary, we feel that we see nothing, can do nothing, and are nothing: we feel it and are delighted at it. But in this unreserved abandonment, we find everything we need from moment to moment, in the infinity of God. There we find the daily bread of knowledge, as of everything else, without lying up; then the unction from above teaches us all truth, while it takes away our own wisdom, glory, interest, yea, our own will; it makes us content with our powerlessness, and with a position below every creature; we are ready to yield to the merest worms of the dust, and to confess our most secret miseries before the whole world, fearing unfaithfulness more than punishment and confusion of face.
 
-Here it is, I say, that the Spirit teaches us all truth; for all truth is eminently contained in this sacrifice of love, where the soul strips itself of everything to present it to God. __________________________________________________________________
+Here it is, I say, that the Spirit teaches us all truth; for all truth is eminently contained in this sacrifice of love, where the soul strips itself of everything to present it to God.
 
-[^2]: Imitation of Jesus Christ, book iii. c. iii. 83. __________________________________________________________________
+[^2]: Imitation of Jesus Christ, book iii. c. iii. 83.

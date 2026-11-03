@@ -10,4 +10,4 @@ The source presumption lies in attachment to these transitory and sensible gifts
 
 We must count less upon sensible delights and the measures of wisdom which devise for our own perfection, than upon simplicity, lowliness, renunciation of our own efforts, and perfect pliability to all the designs of grace. Everything else tends to emblazon our virtues, and thus inspire a secret reliance upon our own resources.
 
-Let us pray God that he would root out of our hearts everything of our own planting, and set out there, with his own hands, the tree of life, bearing all manner of fruits. __________________________________________________________________
+Let us pray God that he would root out of our hearts everything of our own planting, and set out there, with his own hands, the tree of life, bearing all manner of fruits.

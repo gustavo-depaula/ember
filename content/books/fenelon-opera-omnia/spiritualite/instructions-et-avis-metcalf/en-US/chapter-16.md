@@ -22,4 +22,4 @@ The repugnances which we feel towards our duties, come, no doubt, of imperfectio
 
 Carefully purify your conscience, then, from daily faults; suffer no sin to dwell in your heart; small as it may seem, it obscures the light of grace, weighs down the soul, and hinders that constant communion with Jesus Christ which it should be your pleasure to cultivate; you will become lukewarm, forget God, and find yourself growing in attachment to the creature. A pure soul, on the other hand, which is humiliated, and rises promptly after its smallest faults, is always fervent and always upright.
 
-God never makes us sensible of our weakness except to give us of His strength; we must not be disturbed by what is involuntary. The great point is, never to act in opposition to the inward light, and to be willing to go as far as God would have us. __________________________________________________________________
+God never makes us sensible of our weakness except to give us of His strength; we must not be disturbed by what is involuntary. The great point is, never to act in opposition to the inward light, and to be willing to go as far as God would have us.

@@ -68,4 +68,4 @@ In the course of time the proportion of reflections and reasonings will diminish
 
 We must be firm in observing our rules. This strictness seems excessive, but without it everything falls into confusion; we become dissipated, relaxed and lose strength; we insensibly separate from God, surrender ourselves to all our pleasures, and only then begin to perceive that we have wandered, when it is almost hopeless to think of endeavoring to return.
 
-Prayer, prayer! this is our only safety. "Blessed be God which hath not turned away my prayer, nor his mercy from me." (Ps. 116:20.) And to be faithful in prayer it is indispensable that we should dispose all the employments of the day, with a regularity nothing can disturb. __________________________________________________________________
+Prayer, prayer! this is our only safety. "Blessed be God which hath not turned away my prayer, nor his mercy from me." (Ps. 116:20.) And to be faithful in prayer it is indispensable that we should dispose all the employments of the day, with a regularity nothing can disturb.
