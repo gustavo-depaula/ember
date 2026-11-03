@@ -1,0 +1,512 @@
+{
+  "id": "tanquerey-synopsis-theologiae-moralis",
+  "cover": "quarter",
+  "name": {
+    "la": "Synopsis theologiae moralis et pastoralis",
+    "en-US": "Synopsis of Moral and Pastoral Theology",
+    "pt-BR": "Sinopse de teologia moral e pastoral"
+  },
+  "author": {
+    "la": "Adolphus Tanquerey",
+    "en-US": "Adolphe Tanquerey",
+    "pt-BR": "Adolphe Tanquerey",
+    "fr-FR": "Adolphe Tanquerey"
+  },
+  "description": {
+    "la": "Compendium theologiae moralis et pastoralis : de paenitentia, matrimonio et ordine (tomus I), theologia moralis fundamentalis, virtutes et praecepta (tomus II), de iustitia et de variis statuum obligationibus (tomus III). Editio septima, Desclée, 1922; paragraphi numerati.",
+    "en-US": "The Latin manual of moral and pastoral theology: penance, marriage and orders (vol. I), fundamental moral theology, the virtues and the precepts (vol. II), justice and the obligations of the various states of life (vol. III). 7th edition, Desclée, 1922. Divided by runs of the author’s numbered paragraphs.",
+    "pt-BR": "O manual latino de teologia moral e pastoral: penitência, matrimônio e ordem, teologia moral fundamental, as virtudes e os preceitos, a justiça e as obrigações dos diversos estados. 7.ª edição, 1922. Dividido por séries dos parágrafos numerados do autor."
+  },
+  "composed": "1902",
+  "work": "tanquerey/synopsis-theologiae-moralis-et-pastoralis",
+  "editions": {
+    "la": {
+      "editor": "Desclée et Soc., Tournai (7th ed.)",
+      "year": 1922
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/synopsistheolog01tanq",
+      "edition": "Synopsis theologiae moralis et pastoralis, ed. 7, Tournai: Desclée, 1922 (archive.org OCR text, PIMS Toronto copies); the alphabetical indexes are not imported and the text is divided by runs of numbered paragraphs, not by the author’s tractates"
+    },
+    {
+      "language": "la",
+      "url": "https://archive.org/details/synopsistheolog02tanq",
+      "edition": "Synopsis theologiae moralis et pastoralis, ed. 7, Tournai: Desclée, 1922 (archive.org OCR text, PIMS Toronto copies); the alphabetical indexes are not imported and the text is divided by runs of numbered paragraphs, not by the author’s tractates"
+    },
+    {
+      "language": "la",
+      "url": "https://archive.org/details/synopsistheolog03tanq",
+      "edition": "Synopsis theologiae moralis et pastoralis, ed. 7, Tournai: Desclée, 1922 (archive.org OCR text, PIMS Toronto copies); the alphabetical indexes are not imported and the text is divided by runs of numbered paragraphs, not by the author’s tractates"
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "t1",
+      "title": {
+        "la": "Tomus I"
+      },
+      "children": [
+        {
+          "id": "t1-s01",
+          "title": {
+            "la": "Nn. 2–39"
+          }
+        },
+        {
+          "id": "t1-s02",
+          "title": {
+            "la": "Nn. 40–94"
+          }
+        },
+        {
+          "id": "t1-s03",
+          "title": {
+            "la": "Nn. 95–132"
+          }
+        },
+        {
+          "id": "t1-s04",
+          "title": {
+            "la": "Nn. 133–170"
+          }
+        },
+        {
+          "id": "t1-s05",
+          "title": {
+            "la": "Nn. 171–217"
+          }
+        },
+        {
+          "id": "t1-s06",
+          "title": {
+            "la": "Nn. 219–272"
+          }
+        },
+        {
+          "id": "t1-s07",
+          "title": {
+            "la": "Nn. 274–322"
+          }
+        },
+        {
+          "id": "t1-s08",
+          "title": {
+            "la": "Nn. 323–387"
+          }
+        },
+        {
+          "id": "t1-s09",
+          "title": {
+            "la": "Nn. 388–461"
+          }
+        },
+        {
+          "id": "t1-s10",
+          "title": {
+            "la": "Nn. 463–506"
+          }
+        },
+        {
+          "id": "t1-s11",
+          "title": {
+            "la": "Nn. 507–548"
+          }
+        },
+        {
+          "id": "t1-s12",
+          "title": {
+            "la": "Nn. 549–592"
+          }
+        },
+        {
+          "id": "t1-s13",
+          "title": {
+            "la": "Nn. 594–636"
+          }
+        },
+        {
+          "id": "t1-s14",
+          "title": {
+            "la": "Nn. 637–678"
+          }
+        },
+        {
+          "id": "t1-s15",
+          "title": {
+            "la": "Nn. 679–719"
+          }
+        },
+        {
+          "id": "t1-s16",
+          "title": {
+            "la": "Nn. 720–751"
+          }
+        },
+        {
+          "id": "t1-s17",
+          "title": {
+            "la": "Nn. 752–794"
+          }
+        },
+        {
+          "id": "t1-s18",
+          "title": {
+            "la": "Nn. 796–841"
+          }
+        },
+        {
+          "id": "t1-s19",
+          "title": {
+            "la": "Nn. 842–887"
+          }
+        },
+        {
+          "id": "t1-s20",
+          "title": {
+            "la": "Nn. 888–934"
+          }
+        },
+        {
+          "id": "t1-s21",
+          "title": {
+            "la": "Nn. 935–985"
+          }
+        },
+        {
+          "id": "t1-s22",
+          "title": {
+            "la": "Nn. 986–1040"
+          }
+        },
+        {
+          "id": "t1-s23",
+          "title": {
+            "la": "Nn. 1042–1098"
+          }
+        },
+        {
+          "id": "t1-s24",
+          "title": {
+            "la": "Nn. 1099–1130"
+          }
+        },
+        {
+          "id": "t1-s25",
+          "title": {
+            "la": "Nn. 1131–1177"
+          }
+        },
+        {
+          "id": "t1-s26",
+          "title": {
+            "la": "Nn. 1178–1200"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t2",
+      "title": {
+        "la": "Tomus II"
+      },
+      "children": [
+        {
+          "id": "t2-s01",
+          "title": {
+            "la": "Nn. 7–49"
+          }
+        },
+        {
+          "id": "t2-s02",
+          "title": {
+            "la": "Nn. 50–55"
+          }
+        },
+        {
+          "id": "t2-s03",
+          "title": {
+            "la": "Nn. 56–87"
+          }
+        },
+        {
+          "id": "t2-s04",
+          "title": {
+            "la": "Nn. 88–131"
+          }
+        },
+        {
+          "id": "t2-s05",
+          "title": {
+            "la": "Nn. 132–183"
+          }
+        },
+        {
+          "id": "t2-s06",
+          "title": {
+            "la": "Nn. 184–232"
+          }
+        },
+        {
+          "id": "t2-s07",
+          "title": {
+            "la": "Nn. 234–285"
+          }
+        },
+        {
+          "id": "t2-s08",
+          "title": {
+            "la": "Nn. 286–345"
+          }
+        },
+        {
+          "id": "t2-s09",
+          "title": {
+            "la": "Nn. 346–393"
+          }
+        },
+        {
+          "id": "t2-s10",
+          "title": {
+            "la": "Nn. 394–432"
+          }
+        },
+        {
+          "id": "t2-s11",
+          "title": {
+            "la": "Nn. 434–473"
+          }
+        },
+        {
+          "id": "t2-s12",
+          "title": {
+            "la": "Nn. 474–524"
+          }
+        },
+        {
+          "id": "t2-s13",
+          "title": {
+            "la": "Nn. 526–571"
+          }
+        },
+        {
+          "id": "t2-s14",
+          "title": {
+            "la": "Nn. 572–624"
+          }
+        },
+        {
+          "id": "t2-s15",
+          "title": {
+            "la": "Nn. 625–668"
+          }
+        },
+        {
+          "id": "t2-s16",
+          "title": {
+            "la": "Nn. 669–712"
+          }
+        },
+        {
+          "id": "t2-s17",
+          "title": {
+            "la": "Nn. 714–758"
+          }
+        },
+        {
+          "id": "t2-s18",
+          "title": {
+            "la": "Nn. 760–803"
+          }
+        },
+        {
+          "id": "t2-s19",
+          "title": {
+            "la": "Nn. 804–842"
+          }
+        },
+        {
+          "id": "t2-s20",
+          "title": {
+            "la": "Nn. 843–889"
+          }
+        },
+        {
+          "id": "t2-s21",
+          "title": {
+            "la": "Nn. 890–938"
+          }
+        },
+        {
+          "id": "t2-s22",
+          "title": {
+            "la": "Nn. 940–989"
+          }
+        },
+        {
+          "id": "t2-s23",
+          "title": {
+            "la": "Nn. 991–1039"
+          }
+        },
+        {
+          "id": "t2-s24",
+          "title": {
+            "la": "Nn. 1040–1092"
+          }
+        },
+        {
+          "id": "t2-s25",
+          "title": {
+            "la": "Nn. 1093–1135"
+          }
+        },
+        {
+          "id": "t2-s26",
+          "title": {
+            "la": "Nn. 1136–1209"
+          }
+        },
+        {
+          "id": "t2-s27",
+          "title": {
+            "la": "Nn. 1210–1240"
+          }
+        }
+      ]
+    },
+    {
+      "id": "t3",
+      "title": {
+        "la": "Tomus III"
+      },
+      "children": [
+        {
+          "id": "t3-s01",
+          "title": {
+            "la": "Nn. 1–73"
+          }
+        },
+        {
+          "id": "t3-s02",
+          "title": {
+            "la": "Nn. 74–133"
+          }
+        },
+        {
+          "id": "t3-s03",
+          "title": {
+            "la": "Nn. 134–207"
+          }
+        },
+        {
+          "id": "t3-s04",
+          "title": {
+            "la": "Nn. 208–274"
+          }
+        },
+        {
+          "id": "t3-s05",
+          "title": {
+            "la": "Nn. 276–328"
+          }
+        },
+        {
+          "id": "t3-s06",
+          "title": {
+            "la": "Nn. 329–388"
+          }
+        },
+        {
+          "id": "t3-s07",
+          "title": {
+            "la": "Nn. 391–444"
+          }
+        },
+        {
+          "id": "t3-s08",
+          "title": {
+            "la": "Nn. 445–514"
+          }
+        },
+        {
+          "id": "t3-s09",
+          "title": {
+            "la": "Nn. 515–588"
+          }
+        },
+        {
+          "id": "t3-s10",
+          "title": {
+            "la": "Nn. 589–649"
+          }
+        },
+        {
+          "id": "t3-s11",
+          "title": {
+            "la": "Nn. 650–706"
+          }
+        },
+        {
+          "id": "t3-s12",
+          "title": {
+            "la": "Nn. 708–769"
+          }
+        },
+        {
+          "id": "t3-s13",
+          "title": {
+            "la": "Nn. 770–816"
+          }
+        },
+        {
+          "id": "t3-s14",
+          "title": {
+            "la": "Nn. 817–855"
+          }
+        },
+        {
+          "id": "t3-s15",
+          "title": {
+            "la": "Nn. 856–890"
+          }
+        },
+        {
+          "id": "t3-s16",
+          "title": {
+            "la": "Nn. 891–936"
+          }
+        },
+        {
+          "id": "t3-s17",
+          "title": {
+            "la": "Nn. 938–975"
+          }
+        },
+        {
+          "id": "t3-s18",
+          "title": {
+            "la": "Nn. 976–1025"
+          }
+        },
+        {
+          "id": "t3-s19",
+          "title": {
+            "la": "Nn. 1026–1070"
+          }
+        },
+        {
+          "id": "t3-s20",
+          "title": {
+            "la": "Nn. 1071–1108"
+          }
+        }
+      ]
+    }
+  ]
+}
