@@ -1,0 +1,87 @@
+{
+  "id": "chesterton-robert-browning",
+  "cover": "classic",
+  "name": {
+    "en-US": "Robert Browning",
+    "pt-BR": "Robert Browning"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's study of the poet in the English Men of Letters series: Browning's early life, Sordello, the plays, the dramatic lyrics, The Ring and the Book and the last poems. A book more about Browning's optimism and his philosophy of the love of life than about his biography.",
+    "pt-BR": "O estudo de Chesterton sobre o poeta, na série English Men of Letters: a juventude de Browning, Sordello, as peças, as liricas dramáticas, O Anel e o Livro e os últimos poemas. Um livro mais sobre o otimismo de Browning e sua filosofia do amor à vida do que sobre sua biografia."
+  },
+  "composed": "1903",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/robert-browning",
+  "editions": {
+    "en-US": {
+      "editor": "Macmillan and Co.",
+      "year": 1903
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/13342",
+      "edition": "Robert Browning (Macmillan and Co., 1903), Project Gutenberg #13342.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1903 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-browning-in-early-life",
+      "title": {
+        "en-US": "I. Browning in Early Life"
+      }
+    },
+    {
+      "id": "ch02-early-works",
+      "title": {
+        "en-US": "II. Early Works"
+      }
+    },
+    {
+      "id": "ch03-browning-and-his-marriage",
+      "title": {
+        "en-US": "III. Browning and his Marriage"
+      }
+    },
+    {
+      "id": "ch04-browning-in-italy",
+      "title": {
+        "en-US": "IV. Browning in Italy"
+      }
+    },
+    {
+      "id": "ch05-browning-in-later-life",
+      "title": {
+        "en-US": "V. Browning in Later Life"
+      }
+    },
+    {
+      "id": "ch06-browning-as-a-literary-artist",
+      "title": {
+        "en-US": "VI. Browning as a Literary Artist"
+      }
+    },
+    {
+      "id": "ch07-the-ring-and-the-book",
+      "title": {
+        "en-US": "VII. The Ring and the Book"
+      }
+    },
+    {
+      "id": "ch08-the-philosophy-of-browning",
+      "title": {
+        "en-US": "VIII. The Philosophy of Browning"
+      }
+    }
+  ]
+}
