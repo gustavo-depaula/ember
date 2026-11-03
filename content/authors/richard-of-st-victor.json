@@ -8,5 +8,156 @@
     "Richard of St. Victor",
     "Richard of Saint Victor",
     "Richardus de Sancto Victore"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "The two Benjamins, then the treatise on the Trinity.",
+        "pt-BR": "Os dois Benjamins e depois o tratado sobre a Trindade."
+      },
+      "works": [
+        {
+          "work": "richard/benjamin-minor",
+          "why": {
+            "en-US": "Preparing the soul for contemplation through Jacob's sons",
+            "pt-BR": "Preparar a alma para a contemplação pelos filhos de Jacó"
+          }
+        },
+        {
+          "work": "richard/benjamin-major",
+          "why": {
+            "en-US": "The Grace of Contemplation in five books",
+            "pt-BR": "A graça da contemplação em cinco livros"
+          }
+        },
+        {
+          "work": "richard/de-trinitate",
+          "why": {
+            "en-US": "His great treatise in six books on the Trinity",
+            "pt-BR": "Seu grande tratado em seis livros sobre a Trindade"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The inner man and charity",
+        "pt-BR": "O homem interior e a caridade"
+      },
+      "works": [
+        {
+          "work": "richard/de-quatuor-gradibus-violentae-caritatis",
+          "why": {
+            "en-US": "Four degrees of a love that wounds and binds",
+            "pt-BR": "Quatro graus de um amor que fere e liga"
+          }
+        },
+        {
+          "work": "richard/de-eruditione-hominis-interioris",
+          "why": {
+            "en-US": "Instruction of the inner man in three books",
+            "pt-BR": "Instrução do homem interior em três livros"
+          }
+        },
+        {
+          "work": "richard/de-statu-interioris-hominis",
+          "why": {
+            "en-US": "The inner man after the Fall: free will and counsel",
+            "pt-BR": "O homem interior após a queda: livre-arbítrio e conselho"
+          }
+        },
+        {
+          "work": "richard/de-exterminatione-mali",
+          "why": {
+            "en-US": "Confession of sin and confession of praise",
+            "pt-BR": "Confissão do pecado e confissão de louvor"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Scripture",
+        "pt-BR": "Escritura"
+      },
+      "works": [
+        {
+          "work": "richard/in-visionem-ezechielis",
+          "why": {
+            "en-US": "Ezekiel's vision of the living creatures, wheels and temple",
+            "pt-BR": "A visão de Ezequiel: seres vivos, rodas e templo"
+          }
+        },
+        {
+          "work": "richard/de-tabernaculo",
+          "why": {
+            "en-US": "Difficulties in the description of the tabernacle",
+            "pt-BR": "Dificuldades na descrição do tabernáculo"
+          }
+        },
+        {
+          "work": "richard/adnotationes-in-psalmos",
+          "why": {
+            "en-US": "Mystical notes on a selection of the Psalms",
+            "pt-BR": "Notas místicas sobre uma seleção de Salmos"
+          }
+        },
+        {
+          "work": "richard/in-apocalypsim",
+          "why": {
+            "en-US": "A commentary in seven books on the Apocalypse",
+            "pt-BR": "Comentário em sete livros sobre o Apocalipse"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Theological and shorter writings",
+        "pt-BR": "Escritos teológicos e breves"
+      },
+      "works": [
+        {
+          "work": "richard/opuscula-theologica",
+          "why": {
+            "en-US": "The degrees of charity and On Emmanuel",
+            "pt-BR": "Os graus da caridade e Sobre Emanuel"
+          }
+        },
+        {
+          "work": "richard/opuscula-minora",
+          "why": {
+            "en-US": "Short pieces on binding and loosing and the Last Judgment",
+            "pt-BR": "Peças breves sobre ligar e desligar e o Juízo Final"
+          }
+        },
+        {
+          "work": "richard/liber-exceptionum-pars-ii",
+          "why": {
+            "en-US": "Second part of his Book of Excerpts",
+            "pt-BR": "Segunda parte do seu Livro de Excertos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Attributed works",
+        "pt-BR": "Obras atribuídas"
+      },
+      "works": [
+        {
+          "work": "richard/explicatio-in-cantica",
+          "why": {
+            "en-US": "Commentary on the Song of Songs that Migne attributes to him",
+            "pt-BR": "Comentário ao Cântico que Migne lhe atribui"
+          }
+        }
+      ]
+    }
   ]
 }
