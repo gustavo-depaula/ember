@@ -1,0 +1,147 @@
+{
+  "id": "chesterton-short-history-of-england",
+  "cover": "classic",
+  "name": {
+    "en-US": "A Short History of England",
+    "pt-BR": "Uma Breve História da Inglaterra"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's history of England in eighteen chapters, told as the story of a people rather than of its kings: from the Roman province and the age of legends to the Crusades, Merry England, the rebellion of the rich, the Puritans, the Whigs and the return of the barbarian.",
+    "pt-BR": "A história da Inglaterra de Chesterton em dezoito capítulos, contada como a história de um povo e não de seus reis: da província romana e da era das lendas às Cruzadas, à Merry England, à rebelião dos ricos, aos puritanos, aos whigs e ao retorno do bárbaro."
+  },
+  "composed": "1917",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/short-history-of-england",
+  "editions": {
+    "en-US": {
+      "editor": "Chatto & Windus",
+      "year": 1917
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/20897",
+      "edition": "A Short History of England (Chatto & Windus, 1917), Project Gutenberg #20897.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1917 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-introduction",
+      "title": {
+        "en-US": "I. Introduction"
+      }
+    },
+    {
+      "id": "ch02-the-province-of-britain",
+      "title": {
+        "en-US": "II. The Province of Britain"
+      }
+    },
+    {
+      "id": "ch03-the-age-of-legends",
+      "title": {
+        "en-US": "III. The Age of Legends"
+      }
+    },
+    {
+      "id": "ch04-the-defeat-of-the-barbarians",
+      "title": {
+        "en-US": "IV. The Defeat of the Barbarians"
+      }
+    },
+    {
+      "id": "ch05-st-edward-and-the-norman-kings",
+      "title": {
+        "en-US": "V. St. Edward and the Norman Kings"
+      }
+    },
+    {
+      "id": "ch06-the-age-of-the-crusades",
+      "title": {
+        "en-US": "VI. The Age of the Crusades"
+      }
+    },
+    {
+      "id": "ch07-the-problem-of-the-plantagenets",
+      "title": {
+        "en-US": "VII. The Problem of the Plantagenets"
+      }
+    },
+    {
+      "id": "ch08-the-meaning-of-merry-england",
+      "title": {
+        "en-US": "VIII. The Meaning of Merry England"
+      }
+    },
+    {
+      "id": "ch09-nationality-and-the-french-wars",
+      "title": {
+        "en-US": "IX. Nationality and the French Wars"
+      }
+    },
+    {
+      "id": "ch10-the-war-of-the-usurpers",
+      "title": {
+        "en-US": "X. The War of the Usurpers"
+      }
+    },
+    {
+      "id": "ch11-the-rebellion-of-the-rich",
+      "title": {
+        "en-US": "XI. The Rebellion of the Rich"
+      }
+    },
+    {
+      "id": "ch12-spain-and-the-schism-of-nations",
+      "title": {
+        "en-US": "XII. Spain and the Schism of Nations"
+      }
+    },
+    {
+      "id": "ch13-the-age-of-the-puritans",
+      "title": {
+        "en-US": "XIII. The Age of the Puritans"
+      }
+    },
+    {
+      "id": "ch14-the-triumph-of-the-whigs",
+      "title": {
+        "en-US": "XIV. The Triumph of the Whigs"
+      }
+    },
+    {
+      "id": "ch15-the-war-with-the-great-republics",
+      "title": {
+        "en-US": "XV. The War with the Great Republics"
+      }
+    },
+    {
+      "id": "ch16-aristocracy-and-the-discontents",
+      "title": {
+        "en-US": "XVI. Aristocracy and the Discontents"
+      }
+    },
+    {
+      "id": "ch17-the-return-of-the-barbarian",
+      "title": {
+        "en-US": "XVII. The Return of the Barbarian"
+      }
+    },
+    {
+      "id": "ch18-conclusion",
+      "title": {
+        "en-US": "XVIII. Conclusion"
+      }
+    }
+  ]
+}
