@@ -7,5 +7,134 @@
   "saint": "jerome",
   "matches": [
     "Jerome"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "jerome-letters",
+          "why": {
+            "en-US": "His letters, the largest body of his writing here",
+            "pt-BR": "Suas cartas, o maior conjunto de seus escritos aqui"
+          }
+        },
+        {
+          "work": "jerome-life-of-paulus-the-first-hermit",
+          "why": {
+            "en-US": "The Life of Paulus the First Hermit, a short life",
+            "pt-BR": "A Vida de Paulo, o primeiro eremita, uma vida breve"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Lives of the monks",
+        "pt-BR": "Vidas de monges"
+      },
+      "works": [
+        {
+          "work": "jerome-life-of-s-hilarion",
+          "why": {
+            "en-US": "The Life of S. Hilarion",
+            "pt-BR": "A Vida de S. Hilarião"
+          }
+        },
+        {
+          "work": "jerome-life-of-malchus-the-captive-monk",
+          "why": {
+            "en-US": "The Life of Malchus, the Captive Monk",
+            "pt-BR": "A Vida de Malco, o monge cativo"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Writers of the Church",
+        "pt-BR": "Escritores da Igreja"
+      },
+      "works": [
+        {
+          "work": "jerome-de-viris-illustribus",
+          "why": {
+            "en-US": "De Viris Illustribus, on Illustrious Men",
+            "pt-BR": "De Viris Illustribus, sobre os homens ilustres"
+          }
+        },
+        {
+          "work": "jerome-prefaces",
+          "why": {
+            "en-US": "His prefaces",
+            "pt-BR": "Seus prefácios"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Controversy",
+        "pt-BR": "Controvérsia"
+      },
+      "note": {
+        "en-US": "Polemics against heresies and opponents.",
+        "pt-BR": "Polêmicas contra heresias e adversários."
+      },
+      "works": [
+        {
+          "work": "jerome-perpetual-virginity-of-blessed-mary",
+          "why": {
+            "en-US": "The Perpetual Virginity of Blessed Mary",
+            "pt-BR": "A virgindade perpétua da bem-aventurada Maria"
+          }
+        },
+        {
+          "work": "jerome-against-jovinianus",
+          "why": {
+            "en-US": "Against Jovinianus, his longest polemic here",
+            "pt-BR": "Contra Joviniano, sua polêmica mais longa aqui"
+          }
+        },
+        {
+          "work": "jerome-against-vigilantius",
+          "why": {
+            "en-US": "Against Vigilantius",
+            "pt-BR": "Contra Vigilâncio"
+          }
+        },
+        {
+          "work": "jerome-against-the-pelagians",
+          "why": {
+            "en-US": "Against the Pelagians",
+            "pt-BR": "Contra os pelagianos"
+          }
+        },
+        {
+          "work": "jerome-dialogue-against-the-luciferians",
+          "why": {
+            "en-US": "The Dialogue Against the Luciferians",
+            "pt-BR": "O Diálogo contra os luciferianos"
+          }
+        },
+        {
+          "work": "jerome-pammachius-against-john-of-jerusalem",
+          "why": {
+            "en-US": "To Pammachius Against John of Jerusalem",
+            "pt-BR": "A Pamáquio contra João de Jerusalém"
+          }
+        },
+        {
+          "work": "jerome-apology-for-himself-against-the-books-of-rufinus",
+          "why": {
+            "en-US": "Apology for himself against the Books of Rufinus",
+            "pt-BR": "Apologia contra os livros de Rufino"
+          }
+        }
+      ]
+    }
   ]
 }
