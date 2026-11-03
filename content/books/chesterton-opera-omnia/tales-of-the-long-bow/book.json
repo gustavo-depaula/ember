@@ -1,0 +1,87 @@
+{
+  "id": "chesterton-tales-of-the-long-bow",
+  "cover": "classic",
+  "name": {
+    "en-US": "Tales of the Long Bow",
+    "pt-BR": "Contos do Arco Longo"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Eight tall tales of Captain Hood, Colonel Crane and the League of the Long Bow: a society of Englishmen who pledge to tell outrageous lies that turn out to be true, each a fable about the English countryside, property and the peril of progress. Chesterton's comic distributist romance.",
+    "pt-BR": "Oito contos fantásticos do Capitão Hood, do Coronel Crane e da Liga do Arco Longo: uma sociedade de ingleses que juram contar mentiras escandalosas que se revelam verdadeiras, cada qual uma fábula sobre o campo inglês, a propriedade e o perigo do progresso. O romance cômico distributista de Chesterton."
+  },
+  "composed": "1925",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/tales-of-the-long-bow",
+  "editions": {
+    "en-US": {
+      "editor": "Cassell and Company",
+      "year": 1925
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/69185",
+      "edition": "Tales of the Long Bow (Cassell and Company, 1925), Project Gutenberg #69185.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1925 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-unpresentable-appearance-of-colonel-crane",
+      "title": {
+        "en-US": "The Unpresentable Appearance of Colonel Crane"
+      }
+    },
+    {
+      "id": "ch02-the-improbable-success-of-mr-owen-hood",
+      "title": {
+        "en-US": "The Improbable Success of Mr. Owen Hood"
+      }
+    },
+    {
+      "id": "ch03-the-unobtrusive-traffic-of-captain-pierce",
+      "title": {
+        "en-US": "The Unobtrusive Traffic of Captain Pierce"
+      }
+    },
+    {
+      "id": "ch04-the-elusive-companion-of-parson-white",
+      "title": {
+        "en-US": "The Elusive Companion of Parson White"
+      }
+    },
+    {
+      "id": "ch05-the-exclusive-luxury-of-enoch-oates",
+      "title": {
+        "en-US": "The Exclusive Luxury of Enoch Oates"
+      }
+    },
+    {
+      "id": "ch06-the-unthinkable-theory-of-professor-green",
+      "title": {
+        "en-US": "The Unthinkable Theory of Professor Green"
+      }
+    },
+    {
+      "id": "ch07-the-unprecedented-architecture-of-commander-blair",
+      "title": {
+        "en-US": "The Unprecedented Architecture of Commander Blair"
+      }
+    },
+    {
+      "id": "ch08-the-ultimate-ultimatum-of-the-league-of",
+      "title": {
+        "en-US": "The Ultimate Ultimatum of the League of the Long Bow"
+      }
+    }
+  ]
+}
