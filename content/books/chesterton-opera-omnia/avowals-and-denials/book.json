@@ -1,0 +1,237 @@
+{
+  "id": "chesterton-avowals-and-denials",
+  "cover": "classic",
+  "name": {
+    "en-US": "Avowals and Denials",
+    "pt-BR": "Afirmações e Negações"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's 1934 collection of essays from the Illustrated London News: on monsters and logic, Christmas, the new prudery, women who vote, the fallacy of eugenics, the return to the land, dialect and decency, dogs with bad names, the prison of jazz, dreams, Blake and his critics, Wordsworth, Eric Gill, Prussian paganism and the great relapse.",
+    "pt-BR": "A coletânea de ensaios de Chesterton de 1934 do Illustrated London News: sobre monstros e lógica, o Natal, o novo pudor, as mulheres que votam, a falácia da eugenia, o retorno à terra, o dialeto e a decência, os cães de nomes ruins, a prisão do jazz, os sonhos, Blake e seus críticos, Wordsworth, Eric Gill, o paganismo prussiano e a grande recaída."
+  },
+  "composed": 1934,
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/avowals-and-denials",
+  "editions": {
+    "en-US": {
+      "editor": "Methuen & Co.",
+      "year": 1934
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/vowalsanddenials012186mbp",
+      "edition": "Avowals and Denials (London: Methuen, 1934; New York: Dodd, Mead, 1935 and 1938 reprint), Internet Archive (Universal Digital Library scan), full-text OCR.",
+      "description": "The essays as printed; the essay list was read from the contents page of the OCR, so an essay whose entry the OCR lost is merged into the one before it. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Chesterton died in 1936 and the book was published in 1934 (no US renewal found; the 1934 text is taken from a Universal Digital Library scan that Internet Archive serves openly)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "On Monsters and Logic"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "On Christmas That Is Coming"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "On the Man on the Spot"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "On Shaw and His Black Girl"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "On the Atheist Museum"
+      }
+    },
+    {
+      "id": "chapter-06",
+      "title": {
+        "en-US": "On the New Prudery"
+      }
+    },
+    {
+      "id": "chapter-07",
+      "title": {
+        "en-US": "On the Return of the Barbarian"
+      }
+    },
+    {
+      "id": "chapter-08",
+      "title": {
+        "en-US": "On Women Who Vote"
+      }
+    },
+    {
+      "id": "chapter-09",
+      "title": {
+        "en-US": "On the Fallacy of Eugenics"
+      }
+    },
+    {
+      "id": "chapter-10",
+      "title": {
+        "en-US": "On the Classicism of the Terror"
+      }
+    },
+    {
+      "id": "chapter-11",
+      "title": {
+        "en-US": "On the Return to the Land"
+      }
+    },
+    {
+      "id": "chapter-12",
+      "title": {
+        "en-US": "On Dialect and Decency"
+      }
+    },
+    {
+      "id": "chapter-13",
+      "title": {
+        "en-US": "On the Real Animal"
+      }
+    },
+    {
+      "id": "chapter-14",
+      "title": {
+        "en-US": "On Dogs With Bad Names"
+      }
+    },
+    {
+      "id": "chapter-15",
+      "title": {
+        "en-US": "On the Prison of Jazz"
+      }
+    },
+    {
+      "id": "chapter-16",
+      "title": {
+        "en-US": "On the Deceptibility of Youth"
+      }
+    },
+    {
+      "id": "chapter-17",
+      "title": {
+        "en-US": "On the Duke of Marlborough"
+      }
+    },
+    {
+      "id": "chapter-18",
+      "title": {
+        "en-US": "On the Crank and the Cad"
+      }
+    },
+    {
+      "id": "chapter-19",
+      "title": {
+        "en-US": "On Dreams"
+      }
+    },
+    {
+      "id": "chapter-20",
+      "title": {
+        "en-US": "On the Fossil of a Fanatic"
+      }
+    },
+    {
+      "id": "chapter-21",
+      "title": {
+        "en-US": "On Blake and His Critics"
+      }
+    },
+    {
+      "id": "chapter-22",
+      "title": {
+        "en-US": "On the Instability of the State"
+      }
+    },
+    {
+      "id": "chapter-23",
+      "title": {
+        "en-US": "On a Melodrama"
+      }
+    },
+    {
+      "id": "chapter-24",
+      "title": {
+        "en-US": "On the One-party System"
+      }
+    },
+    {
+      "id": "chapter-25",
+      "title": {
+        "en-US": "On Books for Pessimists"
+      }
+    },
+    {
+      "id": "chapter-26",
+      "title": {
+        "en-US": "On the Letter-bag Novel"
+      }
+    },
+    {
+      "id": "chapter-27",
+      "title": {
+        "en-US": "On the Touchy Realist"
+      }
+    },
+    {
+      "id": "chapter-28",
+      "title": {
+        "en-US": "On Wordsworth"
+      }
+    },
+    {
+      "id": "chapter-29",
+      "title": {
+        "en-US": "On Facing Facts . . . "
+      }
+    },
+    {
+      "id": "chapter-30",
+      "title": {
+        "en-US": "On Free Verse"
+      }
+    },
+    {
+      "id": "chapter-31",
+      "title": {
+        "en-US": "On Prussian Paganism"
+      }
+    },
+    {
+      "id": "chapter-32",
+      "title": {
+        "en-US": "On the Great Relapse"
+      }
+    },
+    {
+      "id": "chapter-33",
+      "title": {
+        "en-US": "On the Next Hundred Years . . . "
+      }
+    }
+  ]
+}
