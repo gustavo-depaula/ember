@@ -1,0 +1,200 @@
+{
+  "id": "garrigou-one-god",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "De Deo uno (traduction anglaise)",
+    "en-US": "The One God: A Commentary on the First Part of St. Thomas’ Theological Summa",
+    "pt-BR": "O Deus uno: comentário à Primeira Parte da Suma teológica"
+  },
+  "author": {
+    "fr-FR": "Réginald Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "description": {
+    "en-US": "Commentary on the Summa theologiae I, qq. 1-26: sacred doctrine, the existence of God, His simplicity, perfection, goodness, infinity, knowledge, will and love. Dom Bede Rose’s translation of De Deo uno (1938), Herder 1943.",
+    "pt-BR": "Comentário à Suma teológica I, qq. 1-26: a doutrina sagrada, a existência de Deus, sua simplicidade, perfeição, bondade, infinidade, ciência, vontade e amor. Tradução inglesa de Dom Bede Rose (Herder, 1943) de De Deo uno (1938)."
+  },
+  "composed": "1938",
+  "work": "garrigou-lagrange/de-deo-uno",
+  "editions": {
+    "en-US": {
+      "translator": "Dom Bede Rose, O.S.B.",
+      "year": 1943
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/Lagrange-English",
+      "edition": "The One God: A Commentary on the First Part of St. Thomas’ Theological Summa, Dom Bede Rose, O.S.B., St. Louis: B. Herder, 1943 (archive.org Lagrange-English); the Latin original is imported separately where available"
+    }
+  ],
+  "languages": [
+    "en-US"
+  ],
+  "toc": [
+    {
+      "id": "foreword",
+      "title": {
+        "en-US": "Foreword"
+      }
+    },
+    {
+      "id": "art1",
+      "title": {
+        "en-US": "Chapter I. Question 1 tue nature and extent of sacred doctrine"
+      }
+    },
+    {
+      "id": "art2",
+      "title": {
+        "en-US": "Chapter II. Question(2) prologue"
+      }
+    },
+    {
+      "id": "art3",
+      "title": {
+        "en-US": "Chapter III. Question 3 introduction on God’s nature and his attributes in general"
+      }
+    },
+    {
+      "id": "art4",
+      "title": {
+        "en-US": "Chapter IV. Question 4 the perfection of God"
+      }
+    },
+    {
+      "id": "art5",
+      "title": {
+        "en-US": "Chapter V. Question 5 or goodness in general"
+      }
+    },
+    {
+      "id": "art6",
+      "title": {
+        "en-US": "Chapter VI. Question 6 the goopness of God"
+      }
+    },
+    {
+      "id": "art7",
+      "title": {
+        "en-US": "Chapter VII. Question 7 the infinity of God"
+      }
+    },
+    {
+      "id": "art8",
+      "title": {
+        "en-US": "Chapter VIII. Question 8 the existence of God in things"
+      }
+    },
+    {
+      "id": "art9",
+      "title": {
+        "en-US": "Chapter IX. Question 9 the immutability of God"
+      }
+    },
+    {
+      "id": "art10",
+      "title": {
+        "en-US": "Chapter X. Question 10 the eternity of God"
+      }
+    },
+    {
+      "id": "art11",
+      "title": {
+        "en-US": "Chapter XI. Question 11 the unity of God"
+      }
+    },
+    {
+      "id": "art12",
+      "title": {
+        "en-US": "Chapter XII. Question 12 the knowability of God"
+      }
+    },
+    {
+      "id": "art13",
+      "title": {
+        "en-US": "Chapter XIII. Question 13 tue names of God prologue"
+      }
+    },
+    {
+      "id": "art14",
+      "title": {
+        "en-US": "Chapter XIV. Question 14 God’s knowledge"
+      }
+    },
+    {
+      "id": "art15",
+      "title": {
+        "en-US": "Chapter XV. Question 15 or ideas"
+      }
+    },
+    {
+      "id": "art16",
+      "title": {
+        "en-US": "Chapter XVI. Question 16 or trutu summary of doctrine"
+      }
+    },
+    {
+      "id": "art17",
+      "title": {
+        "en-US": "Chapter XVII. Question 17 of falsity"
+      }
+    },
+    {
+      "id": "art18",
+      "title": {
+        "en-US": "Chapter XVIII. Question 18 tue lire or God"
+      }
+    },
+    {
+      "id": "art19",
+      "title": {
+        "en-US": "Chapter XIX. Question 19 tue will or God"
+      }
+    },
+    {
+      "id": "art20",
+      "title": {
+        "en-US": "Chapter XX. Question 20 God’s love"
+      }
+    },
+    {
+      "id": "art21",
+      "title": {
+        "en-US": "Chapter XXI. Question 21 the justice and mercy of God"
+      }
+    },
+    {
+      "id": "art22",
+      "title": {
+        "en-US": "Chapter XXII. Question 22 the providence of God"
+      }
+    },
+    {
+      "id": "art23",
+      "title": {
+        "en-US": "Chapter XXIII. Question 23 predestination"
+      }
+    },
+    {
+      "id": "art24",
+      "title": {
+        "en-US": "Chapter XXIV. Question 24"
+      }
+    },
+    {
+      "id": "art25",
+      "title": {
+        "en-US": "Chapter XXV. Question 25"
+      }
+    },
+    {
+      "id": "art26",
+      "title": {
+        "en-US": "Chapter XXVI. Question 26 or the divine beatitude"
+      }
+    }
+  ]
+}
