@@ -1,4 +1,4 @@
-# Article I. Attributes relative to the being of god
+# Article I. Attributes relative to the being of God
 
 These attributes, as we have said, are those properties of being in general which are found in God in the highest possible degree of perfection. They are unity, truth, and goodness. Then come infinity which excludes all limitation of essence, immensity
 

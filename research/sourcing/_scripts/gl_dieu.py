@@ -6,6 +6,22 @@ IA = RAW + 'garrigou-lagrange/ia/'
 HF = [re.compile(r'^\S{0,3}\s?[A-ZÉÈ][A-ZÉÈ\' ,\-:;’I]{4,}\s*\S{0,6}$'), re.compile(r'^(PREMI|DEUXI)\S* PARTIE\s*\S\s*[A-Z ]+\S{0,6}$')]
 HE = [re.compile(r'^\d{0,3}\s*[A-Z][A-Z\'’ ,\-:;]{4,}\s*\S{0,6}$'), re.compile(r'^[A-Z][A-Za-z ,\'’\-:]{4,40}\s\d{1,3}$')]
 AUTH = dict(author={'fr-FR': 'Réginald Garrigou-Lagrange', 'en-US': 'Reginald Garrigou-Lagrange', 'pt-BR': 'Reginaldo Garrigou-Lagrange'})
+TF = [('Wuat the cathotic cuurcu tracues asout gon’s existence and his nature, and the knowlepcee wuich we can have of him sy means of the natural licut or reason', 'What the Catholic Church teaches about God’s existence and His nature, and the knowledge we can have of Him by the natural light of reason'),
+ ('Tue possipitiry of proving the existence or gop', 'The possibility of proving the existence of God'),
+ ('Wuat Formatiy Consitirutes THE Divine Nature Accorpine TO Our Imperrect Mope or Knowine It', 'What formally constitutes the divine nature according to our imperfect mode of knowing it'),
+ ('Tue derivation of the atiributes from self-subsisting beinc', 'The derivation of the attributes from self-subsisting being'),
+ ('Tue special antrnomigs relating to freedom', 'The special antinomies relating to freedom'),
+ ('Gop’s ineffability and the absurdity of the unknowable. conclusion and confirmation', 'God’s ineffability and the absurdity of the unknowable. Conclusion and confirmation'),
+ ('Expose of the proofs for the existence of god', 'Exposition of the proofs for the existence of God'),
+ ('Attributes relative to the being of god', 'Attributes relative to the being of God'),
+ ('Attributes relative to the divine operations', 'Attributes relative to the divine operations'),
+ ('perfections of god', 'perfections of God'), ('eminence of the deity', 'eminence of the Deity')]
+def tfe(t):
+    for a, b in TF:
+        t = t.replace(a, b)
+    return t
+
+
 if __name__ == '__main__':
     f = load(IA + 'GarrigouLagrangeFrench--Dieu,_son_existence_et_sa_nature;_solution_Thomiste_des_antinomies_agnostiques____-_Garrigou-Lagrange,_Reginald,_O.P__djvu.txt')
     kw = dict(prx=re.compile(r'^CHAPITR\S{0,2} (1er|Ier|I{1,3}|IV|V)\.?$', re.I), urx=None, heads=HF, fix=fixfr, pre=pre_common, words=('Chapitre', 'Article', 'Introduction'), tfix=tfr, ptitle_lines=4)
@@ -27,7 +43,7 @@ if __name__ == '__main__':
     print(finish('garrigou-lagrange-opera-omnia/dieu-son-existence-et-sa-nature', meta, {'fr-FR': fr}, srcs=[('french-originals', IA + 'GarrigouLagrangeFrench--Dieu,_son_existence_et_sa_nature;_solution_Thomiste_des_antinomies_agnostiques____-_Garrigou-Lagrange,_Reginald,_O.P__djvu.txt', 'dieu-1914-archive-org.txt')]))
     # English
     e1 = load(IA + 'Lagrange-English--God,_His_Existence_and_His_Nature-1_djvu.txt'); e2 = load(IA + 'Lagrange-English--God,_His_existence_and_His_nature-2_djvu.txt')
-    kwe = dict(prx=re.compile(r'^CHAPTER [IVX]{1,4}$'), urx=re.compile(r'^ARTICLE [IVX]{1,4}$'), heads=HE, fix=fix_en, pre=pre_common, words=('Chapter', 'Article', 'Introduction'), ptitle_lines=3)
+    kwe = dict(prx=re.compile(r'^CHAPTER [IVX]{1,4}$'), urx=re.compile(r'^ARTICLE [IVX]{1,4}$'), heads=HE, fix=fix_en, pre=pre_common, words=('Chapter', 'Article', 'Introduction'), ptitle_lines=3, tfix=tfe)
     pref = chunk(en_prepare(e1[107:200], HE), 'prefaces', 'Prefaces to the first, third and fifth editions', HE, fix=fix_en, pre=pre_common)
     q1 = parse(en_prepare(e1[536:16270], HE), **kwe)
     app1 = chunk(en_prepare(e1[16272:], HE), 'appendix-1', 'Appendix to Part I: The Thomistic Proofs for the Existence of God in Relation to the Notion of Proper Cause', HE, fix=fix_en, pre=pre_common)

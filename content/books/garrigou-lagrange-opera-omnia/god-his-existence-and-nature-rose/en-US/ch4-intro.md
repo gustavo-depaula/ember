@@ -1,4 +1,4 @@
-# Chapter IV. Wuat Formatiy Consitirutes THE Divine Nature Accorpine TO Our Imperrect Mope or Knowine It
+# Chapter IV. What formally constitutes the divine nature according to our imperfect mode of knowing it
 
 42) The problem. The Deity, as it is in itself, cannot be known by our natural powers. But among the divine perfections which are contained formally and eminently in it, and of which we have a natural knowledge, is there not one which claims priority over the others? Various solutions.
 

@@ -1,4 +1,4 @@
-# Chapter III. Expose of the proofs for the existence of god
+# Chapter III. Exposition of the proofs for the existence of God
 
 To grasp the profound meaning and the metaphysical import of the traditional proofs for the existence of God, we cannot do better than study them as set forth in the third article of the second question of Part I of the Summa Theologica of St. Thomas, where that learned philosopher and theologian reduces these proofs to their essential principles. See also Contra Gentes, Bk. I, cc. 13, 15, 16, 44; Bk. II, c. 15; Bk. III, c. 44; De Veritate, q. 5, a. 2; De Potentia, q. 3, a. 5; Compendium Theologiae, c. 3; Physica, Bk. VII, Lect. 2; Bk. VIII, Lect. g ff.; Metaphysica, Bk. XII, Lect. 5 ff.
 

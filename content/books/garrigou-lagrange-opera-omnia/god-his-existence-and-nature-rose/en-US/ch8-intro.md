@@ -1,4 +1,4 @@
-# Chapter VIII. Gop’s ineffability and the absurdity of the unknowable. conclusion and confirmation
+# Chapter VIII. God’s ineffability and the absurdity of the unknowable. Conclusion and confirmation
 
 66) God’s ineffability.
 

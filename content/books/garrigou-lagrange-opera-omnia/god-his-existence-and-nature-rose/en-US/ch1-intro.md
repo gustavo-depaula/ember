@@ -1,4 +1,4 @@
-# Chapter I. Wuat the cathotic cuurcu tracues asout gon’s existence and his nature, and the knowlepcee wuich we can have of him sy means of the natural licut or reason
+# Chapter I. What the Catholic Church teaches about God’s existence and His nature, and the knowledge we can have of Him by the natural light of reason
 
 1. The existence and nature of God as defined by the Vatican
 

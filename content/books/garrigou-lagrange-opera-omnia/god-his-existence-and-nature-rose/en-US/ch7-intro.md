@@ -1,4 +1,4 @@
-# Chapter VII. Tue special antrnomigs relating to freedom
+# Chapter VII. The special antinomies relating to freedom
 
 Of all the antinomies brought against us by Agnosticism, the most difficult to solve seem to be those relating to freedom. First of all, how are we to reconcile either divine or human free will with the principle of sufficient reason, which, as we have seen, is the foundation for the proofs of God’s existence? If all that is, has its sufficient reason, a determining sufficient reason without which the determination of what comes into existence would remain unexplained and unintelligible, must we not admit that the free act itself must have a determining sufficient reason? And how is it free under this determination? If to avoid Determinism we maintain that the free act of itself has no determining sufficient reason, we conceive of it, it seems, as an absolute beginning. But this is practically a denial of the necessity and universality of the principle of sufficient reason, which is the foundation for the proofs of God’s existence.
 

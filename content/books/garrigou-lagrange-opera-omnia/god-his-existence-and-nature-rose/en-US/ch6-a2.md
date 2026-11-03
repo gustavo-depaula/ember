@@ -1,4 +1,4 @@
-# Article II. Explanation regarding the philosophical mystery in the identification of the absolute perfections of god
+# Article II. Explanation regarding the philosophical mystery in the identification of the absolute perfections of God
 
 This explanation will consist of two parts. Since our opponents, the Nominalistic Agnostics and the Scotists, reject our solution, because both fail to recognize the infinite difference there is between an analogous and a univocal perfection, it is this difference that we will point out first of all, by proving there is no repugnance for the same analogous perfection to be found formally in two analogates which infinitely differ from each other by their mode or manner of being. That is what our opponents fail to see, because they view the absolute perfections univocally.
 
