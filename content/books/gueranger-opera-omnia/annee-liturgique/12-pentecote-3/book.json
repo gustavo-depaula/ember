@@ -1,0 +1,227 @@
+{
+  "id": "gueranger-annee-liturgique-12-pentecote-3",
+  "name": {
+    "fr-FR": "L’Année liturgique : le temps après la Pentecôte, III",
+    "en-US": "The Liturgical Year: Time after Pentecost, Book III (continuation by Dom Fromage)",
+    "pt-BR": "O Ano Litúrgico: Tempo depois de Pentecostes, III (continuação de Dom Fromage)"
+  },
+  "author": {
+    "fr-FR": "Dom Lucien Fromage (continuation de Dom Guéranger)",
+    "en-US": "Dom Lucien Fromage",
+    "pt-BR": "Dom Lucien Fromage"
+  },
+  "description": {
+    "fr-FR": "Volume 12 de l’Année liturgique (Le temps après la Pentecôte, III, 3e volume de la continuation par Dom Lucien Fromage) : un chapitre par jour ou fête, avec les textes liturgiques en latin et en français.",
+    "en-US": "Volume 12 of the 15-volume Liturgical Year (L’Année liturgique) in the original French, the third volume of the continuation written by Dom Lucien Fromage after Guéranger’s death. One chapter per day or feast, with the Latin and French of the liturgical texts. Made from the 1911 Oudin printing’s OCR; the two-column Latin and French text is separated by script and some running heads remain.",
+    "pt-BR": "Volume 12 dos 15 volumes de «O Ano Litúrgico» (L’Année liturgique) em francês, volume 3 da continuação escrita por Dom Lucien Fromage após a morte de Guéranger. Um capítulo por dia ou festa, com o latim e o francês dos textos litúrgicos."
+  },
+  "composed": "1886",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "fr-FR": {
+      "editor": "Dom Lucien Fromage, continuation (Oudin, Paris-Poitiers)",
+      "year": 1911
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/lanneliturgiqu12gu",
+      "edition": "L’Année liturgique, vol. 12, Paris-Poitiers: Librairie H. Oudin, 1911. Internet Archive scan (University of Toronto), OCR text.",
+      "description": "Split at detected day and feast headings; running heads and page numbers removed where recognised; the Latin and French columns, interleaved line by line in the OCR, were separated by language and set as a Latin paragraph followed by its French. The table of contents at the back is not imported.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875 and Fromage in 1916; the text was printed in 1911 (before 1931)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-preface",
+      "title": {
+        "fr-FR": "Préface"
+      }
+    },
+    {
+      "id": "002-chapitre-ii-des-offices-de-tierce-sexte-et-none",
+      "title": {
+        "fr-FR": "Chapitre II des offices de tierce, sexte et none, au temps après la Pentecôte. a tierce"
+      }
+    },
+    {
+      "id": "003-chapitre-iii",
+      "title": {
+        "fr-FR": "Chapitre III"
+      }
+    },
+    {
+      "id": "004-2-juin-ss-marcellin-pierre-et-erasme",
+      "title": {
+        "fr-FR": "2 juin — Ss. marcellin, Pierre et érasme"
+      }
+    },
+    {
+      "id": "005-3-juin-sainte-clotilde-reine-des-francs",
+      "title": {
+        "fr-FR": "3 juin — Sainte Clotilde, reine des francs"
+      }
+    },
+    {
+      "id": "006-4-juin-saint-francois-caracciolo-confesseur",
+      "title": {
+        "fr-FR": "4 juin — Saint François caracciolo. confesseur"
+      }
+    },
+    {
+      "id": "007-6-juin-saint-norbert-eveque-et-confesseur",
+      "title": {
+        "fr-FR": "6 juin — Saint Norbert évêque et confesseur"
+      }
+    },
+    {
+      "id": "008-10-juin-sainte-marguerite-reine-decosse",
+      "title": {
+        "fr-FR": "10 juin — Sainte marguerite, reine D'ecosse"
+      }
+    },
+    {
+      "id": "009-11-juin-saint-barnabe-apotre",
+      "title": {
+        "fr-FR": "11 juin — Saint Barnabe. Apôtre"
+      }
+    },
+    {
+      "id": "010-12-juin-saint-jean-de-sahagun-confesseur",
+      "title": {
+        "fr-FR": "12 juin — Saint Jean de sahagun, confesseur"
+      }
+    },
+    {
+      "id": "011-saint-basilide-et-ses-compagnons-martyrs",
+      "title": {
+        "fr-FR": "Saint Basilide et ses compagnons. martyrs"
+      }
+    },
+    {
+      "id": "012-saint-leon-pape-et-confesseur",
+      "title": {
+        "fr-FR": "Saint Léon , Pape et confesseur"
+      }
+    },
+    {
+      "id": "013-13-juin-saint-antoine-de-padoue-confesseur",
+      "title": {
+        "fr-FR": "13 juin — Saint Antoine de padoue, confesseur"
+      }
+    },
+    {
+      "id": "014-14-juin-saint-basile-le-grand-eveque-et-docteur",
+      "title": {
+        "fr-FR": "14 juin — Saint Basile le grand, évêque et Docteur de l'Église"
+      }
+    },
+    {
+      "id": "015-15-juin-les-ss-vite-et-modeste-martyrs-et-sainte",
+      "title": {
+        "fr-FR": "15 juin — Les ss vite et modeste, martyrs. •et Sainte Crescence, martyre"
+      }
+    },
+    {
+      "id": "016-16-juin-saint-cyr-et-sainte-julitte",
+      "title": {
+        "fr-FR": "16 juin — Saint Cyr et Sainte Julitte"
+      }
+    },
+    {
+      "id": "017-18-juin-les-ss-marc-et-marcellien-martyrs",
+      "title": {
+        "fr-FR": "18 juin — Les ss. marc et marcellien, martyrs"
+      }
+    },
+    {
+      "id": "018-les-saints-gervais-et-protais-martyrs",
+      "title": {
+        "fr-FR": "Les Saints Gervais et protais. martyrs"
+      }
+    },
+    {
+      "id": "019-saint-paulin-eveque-et-confesseur",
+      "title": {
+        "fr-FR": "Saint Paulin, évèque et confesseur"
+      }
+    },
+    {
+      "id": "020-23-juin-la-vigile-de-saint-jean-baptiste",
+      "title": {
+        "fr-FR": "23 juin — La vigile de Saint Jean-baptiste"
+      }
+    },
+    {
+      "id": "021-de-saint-je-an-baptiste",
+      "title": {
+        "fr-FR": "De Saint Je an- baptiste"
+      }
+    },
+    {
+      "id": "022-saint-guillaume-abbe",
+      "title": {
+        "fr-FR": "Saint Guillaume, abbé"
+      }
+    },
+    {
+      "id": "023-saint-leon-ii-pape-et-confesseur",
+      "title": {
+        "fr-FR": "Saint Léon II, Pape et confesseur"
+      }
+    },
+    {
+      "id": "024-saint-irenee-eveque-et-martyr",
+      "title": {
+        "fr-FR": "Saint Irénée, évêque et martyr"
+      }
+    },
+    {
+      "id": "025-30-juin-la-commemoration-de-saint-paul",
+      "title": {
+        "fr-FR": "30 juin — La commémoration de Saint Paul"
+      }
+    },
+    {
+      "id": "026-2-juillet-la-visitation-de-la-tres-sainte-vierge",
+      "title": {
+        "fr-FR": "2 juillet — La visitation de la tres Sainte Vierge"
+      }
+    },
+    {
+      "id": "027-bienheureuse-etes-vous",
+      "title": {
+        "fr-FR": "Bienheureuse êtes-vous"
+      }
+    },
+    {
+      "id": "028-3-juillet-cinquieme-jour-dans-loctave-des-ss-apo",
+      "title": {
+        "fr-FR": "3 juillet — Cinquième jour dans l'octave des ss. apotres Pierre et Paul"
+      }
+    },
+    {
+      "id": "029-7-juillet-les-saints-cyrille-et-methodius-eveque",
+      "title": {
+        "fr-FR": "7 juillet — Les Saints Cyrille et méthodius. évêques et confesseurs, Apôtres des slaves"
+      }
+    },
+    {
+      "id": "030-8-juin-saint-william-eveque-et-confesse-u",
+      "title": {
+        "fr-FR": "8 juin — Saint William, évèque et confesse u]"
+      }
+    },
+    {
+      "id": "031-22-juin-saint-alban-premier-martyr-de-langleterr",
+      "title": {
+        "fr-FR": "22 juin — Saint Alban premier martyr de l'an'gleterre"
+      }
+    }
+  ]
+}
