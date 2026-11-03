@@ -7,5 +7,22 @@
   "saint": "pamphilus",
   "matches": [
     "Pamphilus"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "pamphilus-exposition-on-the-acts-of-the-apostles",
+          "why": {
+            "en-US": "Exposition on the Acts of the Apostles",
+            "pt-BR": "Exposição sobre os Atos dos Apóstolos"
+          }
+        }
+      ]
+    }
   ]
 }
