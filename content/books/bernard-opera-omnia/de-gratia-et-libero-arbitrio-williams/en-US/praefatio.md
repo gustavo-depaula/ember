@@ -1,0 +1,5 @@
+# Preface
+
+Brother Bernard to the Lord William, Abbat of St. Thierry.
+
+The little work concerning grace and free will, which lately, upon the occasion that thou knowest, I began, I have now by that same grace of God, so far as I have been able, brought to a conclusion. I fear, however, that I may be found either to have spoken of high matters all too unAvorthily, or to have reopened needlessly the discussion of matters of which many have already treated sufficiently. Do thou therefore read it first of all and, if thou seest fit, alone; lest, should it be submitted to the judgement of men, perchance rather the temerity of the writer be exposed than the charity of the reader be established. But shouldest thou consider that it may profitably be made public, then, be there aught which seemeth to thee obscure, which, in a matter itself confessedly obscure, might be more clearly stated, due regard being had to brevity, do thou not hesitate either to amend it thyself or to refer it to me for amendment ; otherwise shouldest thou defraud thyself of the promise of the Divine Wisdom, which saith : " They that bring me to light shall possess eternal life." 

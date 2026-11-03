@@ -1,0 +1,130 @@
+{
+  "id": "bernard-de-gratia-et-libero-arbitrio-williams",
+  "cover": "classic",
+  "name": {
+    "en-US": "Concerning Grace and Free Will",
+    "pt-BR": "Sobre a graça e o livre-arbítrio"
+  },
+  "author": {
+    "la": "Bernardus Claraevallensis",
+    "en-US": "St. Bernard of Clairvaux",
+    "pt-BR": "São Bernardo de Claraval"
+  },
+  "description": {
+    "en-US": "Watkin Williams's English (SPCK, 1920) of Bernard's treatise on grace and free choice, addressed to William of St. Thierry: the preface and fourteen chapters (titled by number, because the OCR garbles Williams's chapter headings), with Williams's footnotes where the OCR keeps them legible.",
+    "pt-BR": "A tradução inglesa de Watkin Williams (1920) do tratado de São Bernardo sobre a graça e o livre-arbítrio."
+  },
+  "composed": "1127-1128",
+  "languages": [
+    "en-US"
+  ],
+  "work": "bernard/de-gratia-et-libero-arbitrio",
+  "editions": {
+    "en-US": {
+      "translator": "Watkin Williams",
+      "year": 1920
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/treatiseofstbern00bern",
+      "edition": "The Treatise of St. Bernard concerning Grace and Free Will, translated by Watkin Williams (London: SPCK, 1920), Translations of Christian Literature, Series IV.",
+      "description": "Djvu OCR cleaned by script, not proofread. Williams's introduction, synopsis and indexes are not imported; his footnotes are dropped, and a few note lines the OCR ran into the text may remain; the chapter headings are not given because the OCR garbles them.",
+      "tier": "A",
+      "tierEvidence": "Published in 1920, before 1931: public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "en-US": "Chapter I"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "en-US": "Chapter II"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "en-US": "Chapter III"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "en-US": "Chapter IV"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "en-US": "Chapter V"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "en-US": "Chapter VI"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "en-US": "Chapter VII"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "en-US": "Chapter VIII"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "en-US": "Chapter IX"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "en-US": "Chapter X"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "en-US": "Chapter XI"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "en-US": "Chapter XII"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "en-US": "Chapter XIII"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "en-US": "Chapter XIV"
+      }
+    }
+  ]
+}
