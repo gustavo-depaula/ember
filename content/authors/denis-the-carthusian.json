@@ -6,5 +6,1275 @@
   "century": 15,
   "matches": [
     "Denis the Carthusian"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "Three short works on prayer, meditation and the last things, before the vast commentaries.",
+        "pt-BR": "Três obras curtas sobre oração, meditação e as últimas coisas, antes dos vastos comentários."
+      },
+      "works": [
+        {
+          "work": "denis-de-oratione",
+          "why": {
+            "en-US": "A treatise On Prayer, short enough to read at one sitting",
+            "pt-BR": "Um tratado Sobre a oração, curto para ler de uma só vez"
+          }
+        },
+        {
+          "work": "denis-de-meditatione",
+          "why": {
+            "en-US": "On Meditation, a brief guide to the practice",
+            "pt-BR": "Sobre a meditação, breve guia para a prática"
+          }
+        },
+        {
+          "work": "denis-de-quatuor-hominis-novissimis",
+          "why": {
+            "en-US": "On the Four Last Things",
+            "pt-BR": "Sobre os quatro novíssimos do homem"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Prayer and the contemplative life",
+        "pt-BR": "Oração e vida contemplativa"
+      },
+      "works": [
+        {
+          "work": "denis-de-contemplatione",
+          "why": {
+            "en-US": "On Contemplation",
+            "pt-BR": "Sobre a contemplação"
+          }
+        },
+        {
+          "work": "denis-inflammatorium-divini-amoris",
+          "why": {
+            "en-US": "The Kindling of Divine Love, a dialogue",
+            "pt-BR": "O Inflamatório do amor divino, em diálogo"
+          }
+        },
+        {
+          "work": "denis-de-perfectione-caritatis",
+          "why": {
+            "en-US": "A dialogue on the perfection of charity",
+            "pt-BR": "Diálogo sobre a perfeição da caridade"
+          }
+        },
+        {
+          "work": "denis-de-modo-devote-psallendi",
+          "why": {
+            "en-US": "How to say the Psalms devoutly",
+            "pt-BR": "Como recitar os Salmos com devoção"
+          }
+        },
+        {
+          "work": "denis-de-donis-spiritus-sancti",
+          "why": {
+            "en-US": "On the Gifts of the Holy Spirit",
+            "pt-BR": "Sobre os dons do Espírito Santo"
+          }
+        },
+        {
+          "work": "denis-de-lumine-christianae-theoriae",
+          "why": {
+            "en-US": "On the Light of Christian Wisdom",
+            "pt-BR": "Sobre a luz da sabedoria cristã"
+          }
+        },
+        {
+          "work": "denis-de-fonte-lucis",
+          "why": {
+            "en-US": "On the Fount of Light and the Paths of Life",
+            "pt-BR": "Sobre a fonte da luz e os caminhos da vida"
+          }
+        },
+        {
+          "work": "denis-de-laudibus-dei",
+          "why": {
+            "en-US": "On the Praises of God",
+            "pt-BR": "Sobre os louvores de Deus"
+          }
+        },
+        {
+          "work": "denis-de-laudibus-superlaudabilis-dei",
+          "why": {
+            "en-US": "On the Praises of God beyond All Praise",
+            "pt-BR": "Sobre os louvores do Deus acima de todo louvor"
+          }
+        },
+        {
+          "work": "denis-de-laudibus-trinitatis",
+          "why": {
+            "en-US": "Hours in praise of the Most Holy Trinity",
+            "pt-BR": "Horas em louvor da Santíssima Trindade"
+          }
+        },
+        {
+          "work": "denis-de-venustate-mundi",
+          "why": {
+            "en-US": "On the Beauty of the World and of God",
+            "pt-BR": "Sobre a beleza do mundo e de Deus"
+          }
+        },
+        {
+          "work": "denis-de-munificentia-dei",
+          "why": {
+            "en-US": "On the Bounty and Benefits of God",
+            "pt-BR": "Sobre a generosidade e os benefícios de Deus"
+          }
+        },
+        {
+          "work": "denis-de-distantia-perfectionis",
+          "why": {
+            "en-US": "How far divine perfection exceeds human",
+            "pt-BR": "O quanto a perfeição divina excede a humana"
+          }
+        },
+        {
+          "work": "denis-de-natura-aeterni-et-veri-dei",
+          "why": {
+            "en-US": "On the Nature of the Eternal and True God",
+            "pt-BR": "Sobre a natureza do Deus eterno e verdadeiro"
+          }
+        },
+        {
+          "work": "denis-creaturarum-consideratio-theologica",
+          "why": {
+            "en-US": "Creatures considered in their order to God",
+            "pt-BR": "As criaturas consideradas em sua ordem a Deus"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The Christian life",
+        "pt-BR": "A vida cristã"
+      },
+      "works": [
+        {
+          "work": "denis-de-doctrina-et-regulis-vitae-christianorum",
+          "why": {
+            "en-US": "The teaching and rules of the Christian life",
+            "pt-BR": "Ensinamento e regras da vida cristã"
+          }
+        },
+        {
+          "work": "denis-de-arcta-via-salutis",
+          "why": {
+            "en-US": "The narrow way of salvation and contempt of the world",
+            "pt-BR": "O caminho estreito da salvação e o desprezo do mundo"
+          }
+        },
+        {
+          "work": "denis-de-gravitate-peccati",
+          "why": {
+            "en-US": "On the gravity of sin",
+            "pt-BR": "Sobre a gravidade do pecado"
+          }
+        },
+        {
+          "work": "denis-de-conversione-peccatorum",
+          "why": {
+            "en-US": "A dialogue on the conversion of sinners",
+            "pt-BR": "Diálogo sobre a conversão dos pecadores"
+          }
+        },
+        {
+          "work": "denis-de-particulari-judicio",
+          "why": {
+            "en-US": "A dialogue on the particular judgment",
+            "pt-BR": "Diálogo sobre o juízo particular"
+          }
+        },
+        {
+          "work": "denis-de-mutua-cognitione-beatorum",
+          "why": {
+            "en-US": "Whether the blessed know one another in heaven",
+            "pt-BR": "Se os bem-aventurados se conhecem no céu"
+          }
+        },
+        {
+          "work": "denis-de-exemplis-et-documentis",
+          "why": {
+            "en-US": "Examples and teachings",
+            "pt-BR": "Exemplos e ensinamentos"
+          }
+        },
+        {
+          "work": "denis-summa-de-vitiis-et-virtutibus",
+          "why": {
+            "en-US": "A summa of the vices and virtues",
+            "pt-BR": "Suma dos vícios e das virtudes"
+          }
+        },
+        {
+          "work": "denis-speculum-amatorum-mundi",
+          "why": {
+            "en-US": "A mirror for lovers of the world",
+            "pt-BR": "Espelho para os amantes do mundo"
+          }
+        },
+        {
+          "work": "denis-sonus-epulantis",
+          "why": {
+            "en-US": "The Sound of One Feasting",
+            "pt-BR": "O som de quem festeja"
+          }
+        },
+        {
+          "work": "denis-inter-jesum-et-senem-et-puerum-dialogi",
+          "why": {
+            "en-US": "Dialogues of Jesus with an old man and a boy",
+            "pt-BR": "Diálogos de Jesus com um velho e um menino"
+          }
+        },
+        {
+          "work": "denis-de-causa-diversitatis-eventuum-humanorum",
+          "why": {
+            "en-US": "Why human fortunes differ",
+            "pt-BR": "Por que as sortes humanas diferem"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Mary and the Passion",
+        "pt-BR": "Maria e a Paixão"
+      },
+      "works": [
+        {
+          "work": "denis-de-dignitate-et-laudibus-mariae",
+          "why": {
+            "en-US": "On the dignity and praises of the Virgin",
+            "pt-BR": "Sobre a dignidade e os louvores da Virgem"
+          }
+        },
+        {
+          "work": "denis-de-praeconio-et-dignitate-mariae",
+          "why": {
+            "en-US": "On the praise and dignity of Mary",
+            "pt-BR": "Sobre o louvor e a dignidade de Maria"
+          }
+        },
+        {
+          "work": "denis-de-passione-domini-dialogus",
+          "why": {
+            "en-US": "A dialogue on the Passion",
+            "pt-BR": "Diálogo sobre a Paixão do Senhor"
+          }
+        },
+        {
+          "work": "denis-horae-de-passione",
+          "why": {
+            "en-US": "Hours of the Passion",
+            "pt-BR": "Horas da Paixão"
+          }
+        },
+        {
+          "work": "denis-passio-juxta-quatuor-evangelistas",
+          "why": {
+            "en-US": "The Passion drawn from the four Gospels",
+            "pt-BR": "A Paixão segundo os quatro evangelistas"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The Eucharist and the liturgy",
+        "pt-BR": "A Eucaristia e a liturgia"
+      },
+      "works": [
+        {
+          "work": "denis-de-sacra-communione-frequentanda",
+          "why": {
+            "en-US": "On frequent Holy Communion",
+            "pt-BR": "Sobre a comunhão frequente"
+          }
+        },
+        {
+          "work": "denis-de-sacramento-altaris",
+          "why": {
+            "en-US": "A dialogue on the Sacrament of the Altar and the Mass",
+            "pt-BR": "Diálogo sobre o Sacramento do Altar e a Missa"
+          }
+        },
+        {
+          "work": "denis-de-sacramento-eucharistiae-sermones",
+          "why": {
+            "en-US": "Six sermons on the Eucharist",
+            "pt-BR": "Seis sermões sobre a Eucaristia"
+          }
+        },
+        {
+          "work": "denis-expositio-missae",
+          "why": {
+            "en-US": "A commentary on the Mass",
+            "pt-BR": "Comentário sobre a Missa"
+          }
+        },
+        {
+          "work": "denis-expositio-hymnorum",
+          "why": {
+            "en-US": "A commentary on the hymns",
+            "pt-BR": "Comentário sobre os hinos"
+          }
+        },
+        {
+          "work": "denis-de-modo-agendi-processiones",
+          "why": {
+            "en-US": "Holding processions and venerating the saints",
+            "pt-BR": "Procissões e veneração dos santos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "States of life",
+        "pt-BR": "Estados de vida"
+      },
+      "works": [
+        {
+          "work": "denis-de-vita-conjugatorum",
+          "why": {
+            "en-US": "On the life of the married",
+            "pt-BR": "Sobre a vida dos casados"
+          }
+        },
+        {
+          "work": "denis-de-vita-viduarum",
+          "why": {
+            "en-US": "On the life of widows",
+            "pt-BR": "Sobre a vida das viúvas"
+          }
+        },
+        {
+          "work": "denis-de-vita-virginum",
+          "why": {
+            "en-US": "On the life of virgins",
+            "pt-BR": "Sobre a vida das virgens"
+          }
+        },
+        {
+          "work": "denis-de-vita-inclusarum",
+          "why": {
+            "en-US": "On the life of anchoresses",
+            "pt-BR": "Sobre a vida das reclusas"
+          }
+        },
+        {
+          "work": "denis-de-vita-et-fine-solitarii",
+          "why": {
+            "en-US": "The life and end of the solitary",
+            "pt-BR": "Vida e fim do solitário"
+          }
+        },
+        {
+          "work": "denis-de-laude-vitae-solitariae",
+          "why": {
+            "en-US": "In praise of the solitary life",
+            "pt-BR": "Em louvor da vida solitária"
+          }
+        },
+        {
+          "work": "denis-de-praeconio-ordinis-cartusiensis",
+          "why": {
+            "en-US": "In praise of the Carthusian Order",
+            "pt-BR": "Em louvor da Ordem Cartusiana"
+          }
+        },
+        {
+          "work": "denis-de-professione-monastica",
+          "why": {
+            "en-US": "On monastic profession",
+            "pt-BR": "Sobre a profissão monástica"
+          }
+        },
+        {
+          "work": "denis-exhortatorium-noviciorum",
+          "why": {
+            "en-US": "Exhortation to novices",
+            "pt-BR": "Exortação aos noviços"
+          }
+        },
+        {
+          "work": "denis-de-obedientia-superioribus-praestanda",
+          "why": {
+            "en-US": "Obedience owed to superiors",
+            "pt-BR": "A obediência devida aos superiores"
+          }
+        },
+        {
+          "work": "denis-in-regulam-s-francisci",
+          "why": {
+            "en-US": "On the Third Rule of St Francis",
+            "pt-BR": "Sobre a Terceira Regra de São Francisco"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Reform, polity and controversy",
+        "pt-BR": "Reforma, governo e controvérsia"
+      },
+      "works": [
+        {
+          "work": "denis-de-reformatione-claustralium",
+          "why": {
+            "en-US": "On the reform of religious",
+            "pt-BR": "Sobre a reforma dos religiosos"
+          }
+        },
+        {
+          "work": "denis-de-reformatione-monialium",
+          "why": {
+            "en-US": "A dialogue on the reform of nuns",
+            "pt-BR": "Diálogo sobre a reforma das monjas"
+          }
+        },
+        {
+          "work": "denis-contra-ambitionem",
+          "why": {
+            "en-US": "Against ambition",
+            "pt-BR": "Contra a ambição"
+          }
+        },
+        {
+          "work": "denis-contra-pluralitatem-beneficiorum",
+          "why": {
+            "en-US": "Against holding several benefices",
+            "pt-BR": "Contra a acumulação de benefícios"
+          }
+        },
+        {
+          "work": "denis-contra-simoniam",
+          "why": {
+            "en-US": "Against simony",
+            "pt-BR": "Contra a simonia"
+          }
+        },
+        {
+          "work": "denis-contra-vitia-superstitionum",
+          "why": {
+            "en-US": "Against the vices of superstition",
+            "pt-BR": "Contra os vícios da superstição"
+          }
+        },
+        {
+          "work": "denis-de-regimine-politiae",
+          "why": {
+            "en-US": "On government",
+            "pt-BR": "Sobre o governo"
+          }
+        },
+        {
+          "work": "denis-de-auctoritate-summi-pontificis",
+          "why": {
+            "en-US": "On the authority of the Pope and of a council",
+            "pt-BR": "Sobre a autoridade do Papa e do concílio"
+          }
+        },
+        {
+          "work": "denis-epistola-ad-principes-catholicos",
+          "why": {
+            "en-US": "A letter to the Catholic princes",
+            "pt-BR": "Carta aos príncipes católicos"
+          }
+        },
+        {
+          "work": "denis-contra-perfidiam-mahometi",
+          "why": {
+            "en-US": "Against the errors of Muhammad",
+            "pt-BR": "Contra os erros de Maomé"
+          }
+        },
+        {
+          "work": "denis-dialogus-inter-christianum-et-sarracenum",
+          "why": {
+            "en-US": "A disputation between a Christian and a Saracen",
+            "pt-BR": "Disputa entre um cristão e um sarraceno"
+          }
+        },
+        {
+          "work": "denis-sermones-et-epistolae-varia",
+          "why": {
+            "en-US": "Assorted sermons and letters",
+            "pt-BR": "Sermões e cartas diversos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Commentaries on the Areopagite",
+        "pt-BR": "Comentários ao Areopagita"
+      },
+      "note": {
+        "en-US": "Denis's commentaries on Dionysius, printed beside the older Latin versions.",
+        "pt-BR": "Os comentários de Dionísio, impressos ao lado das antigas versões latinas."
+      },
+      "works": [
+        {
+          "work": "denis-in-mysticam-theologiam",
+          "why": {
+            "en-US": "On the Mystical Theology, the shortest",
+            "pt-BR": "Sobre a Teologia Mística, o mais breve"
+          }
+        },
+        {
+          "work": "denis-in-divina-nomina",
+          "why": {
+            "en-US": "On the Divine Names",
+            "pt-BR": "Sobre os Nomes Divinos"
+          }
+        },
+        {
+          "work": "denis-in-coelestem-hierarchiam",
+          "why": {
+            "en-US": "On the Celestial Hierarchy",
+            "pt-BR": "Sobre a Hierarquia Celeste"
+          }
+        },
+        {
+          "work": "denis-in-ecclesiasticam-hierarchiam",
+          "why": {
+            "en-US": "On the Ecclesiastical Hierarchy",
+            "pt-BR": "Sobre a Hierarquia Eclesiástica"
+          }
+        },
+        {
+          "work": "denis-in-epistolas-dionysii",
+          "why": {
+            "en-US": "On the Letters of Dionysius",
+            "pt-BR": "Sobre as Cartas de Dionísio"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Commentaries on spiritual masters",
+        "pt-BR": "Comentários a mestres espirituais"
+      },
+      "works": [
+        {
+          "work": "denis-in-scalam-paradisi",
+          "why": {
+            "en-US": "On the Ladder of Paradise of St John Climacus",
+            "pt-BR": "Sobre a Escada do Paraíso de São João Clímaco"
+          }
+        },
+        {
+          "work": "denis-in-cassiani-collationes",
+          "why": {
+            "en-US": "On Cassian's Conferences",
+            "pt-BR": "Sobre as Conferências de Cassiano"
+          }
+        },
+        {
+          "work": "denis-in-cassiani-instituta",
+          "why": {
+            "en-US": "On Cassian's Institutes",
+            "pt-BR": "Sobre as Instituições de Cassiano"
+          }
+        },
+        {
+          "work": "denis-in-boetium-de-consolatione",
+          "why": {
+            "en-US": "On Boethius's Consolation of Philosophy",
+            "pt-BR": "Sobre a Consolação da Filosofia de Boécio"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Theology",
+        "pt-BR": "Teologia"
+      },
+      "works": [
+        {
+          "work": "denis-summa-fidei-orthodoxae",
+          "why": {
+            "en-US": "A summa of the orthodox faith",
+            "pt-BR": "Suma da fé ortodoxa"
+          }
+        },
+        {
+          "work": "denis-dialogion-de-fide-catholica",
+          "why": {
+            "en-US": "A dialogue on the Catholic faith",
+            "pt-BR": "Diálogo sobre a fé católica"
+          }
+        },
+        {
+          "work": "denis-elementatio-theologica",
+          "why": {
+            "en-US": "Elements of Theology",
+            "pt-BR": "Elementos de Teologia"
+          }
+        },
+        {
+          "work": "denis-elementatio-philosophica",
+          "why": {
+            "en-US": "Elements of Philosophy",
+            "pt-BR": "Elementos de Filosofia"
+          }
+        },
+        {
+          "work": "denis-in-i-sententiarum",
+          "why": {
+            "en-US": "On the First Book of the Sentences",
+            "pt-BR": "Sobre o Livro I das Sentenças"
+          }
+        },
+        {
+          "work": "denis-in-ii-sententiarum",
+          "why": {
+            "en-US": "On the Second Book of the Sentences",
+            "pt-BR": "Sobre o Livro II das Sentenças"
+          }
+        },
+        {
+          "work": "denis-in-iii-sententiarum",
+          "why": {
+            "en-US": "On the Third Book of the Sentences",
+            "pt-BR": "Sobre o Livro III das Sentenças"
+          }
+        },
+        {
+          "work": "denis-in-iv-sententiarum",
+          "why": {
+            "en-US": "On the Fourth Book of the Sentences",
+            "pt-BR": "Sobre o Livro IV das Sentenças"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Sermons",
+        "pt-BR": "Sermões"
+      },
+      "note": {
+        "en-US": "Sermons for the Church's year.",
+        "pt-BR": "Sermões para o ano da Igreja."
+      },
+      "works": [
+        {
+          "work": "denis-sermones-de-tempore-i",
+          "why": {
+            "en-US": "Sundays, Advent to Easter",
+            "pt-BR": "Domingos, do Advento à Páscoa"
+          }
+        },
+        {
+          "work": "denis-sermones-de-tempore-ii",
+          "why": {
+            "en-US": "Sundays, Easter to the last after Trinity",
+            "pt-BR": "Domingos, da Páscoa ao último depois da Trindade"
+          }
+        },
+        {
+          "work": "denis-sermones-de-sanctis-i",
+          "why": {
+            "en-US": "Saints and feasts, St Andrew to Holy Thursday",
+            "pt-BR": "Santos e festas, de Santo André à Quinta-feira Santa"
+          }
+        },
+        {
+          "work": "denis-sermones-de-sanctis-ii",
+          "why": {
+            "en-US": "Saints and feasts, Easter Week to the Dedication",
+            "pt-BR": "Santos e festas, da Semana da Páscoa à Dedicação"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Psalms and wisdom books",
+        "pt-BR": "Salmos e livros sapienciais"
+      },
+      "works": [
+        {
+          "work": "denis-commentaria-in-psalmos",
+          "why": {
+            "en-US": "Commentary on the Psalms, literal then mystical",
+            "pt-BR": "Comentário aos Salmos, literal e depois místico"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-psalmum-poenitentialem",
+          "why": {
+            "en-US": "Commentary on the Penitential Psalms",
+            "pt-BR": "Comentário aos Salmos penitenciais"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-proverbia",
+          "why": {
+            "en-US": "Commentary on Proverbs",
+            "pt-BR": "Comentário aos Provérbios"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-canticum-canticorum",
+          "why": {
+            "en-US": "Commentary on the Song of Songs",
+            "pt-BR": "Comentário ao Cântico dos Cânticos"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-job",
+          "why": {
+            "en-US": "Commentary on Job",
+            "pt-BR": "Comentário a Jó"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-ecclesiasten",
+          "why": {
+            "en-US": "Commentary on Ecclesiastes",
+            "pt-BR": "Comentário ao Eclesiastes"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-sapientiam",
+          "why": {
+            "en-US": "Commentary on Wisdom",
+            "pt-BR": "Comentário à Sabedoria"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-ecclesiasticum",
+          "why": {
+            "en-US": "Commentary on Sirach",
+            "pt-BR": "Comentário ao Eclesiástico"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Gospels and Acts",
+        "pt-BR": "Evangelhos e Atos"
+      },
+      "works": [
+        {
+          "work": "denis-enarratio-in-matthaeum",
+          "why": {
+            "en-US": "Commentary on Matthew",
+            "pt-BR": "Comentário a Mateus"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-marcum",
+          "why": {
+            "en-US": "Commentary on Mark",
+            "pt-BR": "Comentário a Marcos"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-lucam",
+          "why": {
+            "en-US": "Commentary on Luke",
+            "pt-BR": "Comentário a Lucas"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-joannem",
+          "why": {
+            "en-US": "Commentary on John",
+            "pt-BR": "Comentário a João"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-actus-apostolorum",
+          "why": {
+            "en-US": "Commentary on Acts",
+            "pt-BR": "Comentário aos Atos dos Apóstolos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Epistles and Apocalypse",
+        "pt-BR": "Epístolas e Apocalipse"
+      },
+      "works": [
+        {
+          "work": "denis-monopanton",
+          "why": {
+            "en-US": "All of Paul's letters gathered into one",
+            "pt-BR": "Todas as cartas de Paulo reunidas em uma"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-romanos",
+          "why": {
+            "en-US": "Commentary on Romans",
+            "pt-BR": "Comentário a Romanos"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-i-corinthios",
+          "why": {
+            "en-US": "Commentary on 1 Corinthians",
+            "pt-BR": "Comentário a 1 Coríntios"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-ii-corinthios",
+          "why": {
+            "en-US": "Commentary on 2 Corinthians",
+            "pt-BR": "Comentário a 2 Coríntios"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-galatas",
+          "why": {
+            "en-US": "Commentary on Galatians",
+            "pt-BR": "Comentário a Gálatas"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-ephesios",
+          "why": {
+            "en-US": "Commentary on Ephesians",
+            "pt-BR": "Comentário a Efésios"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-philippenses",
+          "why": {
+            "en-US": "Commentary on Philippians",
+            "pt-BR": "Comentário a Filipenses"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-colossenses",
+          "why": {
+            "en-US": "Commentary on Colossians",
+            "pt-BR": "Comentário a Colossenses"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-i-thessalonicenses",
+          "why": {
+            "en-US": "Commentary on 1 Thessalonians",
+            "pt-BR": "Comentário a 1 Tessalonicenses"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-ii-thessalonicenses",
+          "why": {
+            "en-US": "Commentary on 2 Thessalonians",
+            "pt-BR": "Comentário a 2 Tessalonicenses"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-i-timotheum",
+          "why": {
+            "en-US": "Commentary on 1 Timothy",
+            "pt-BR": "Comentário a 1 Timóteo"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-ii-timotheum",
+          "why": {
+            "en-US": "Commentary on 2 Timothy",
+            "pt-BR": "Comentário a 2 Timóteo"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-titum-et-philemonem",
+          "why": {
+            "en-US": "Commentary on Titus and Philemon",
+            "pt-BR": "Comentário a Tito e Filêmon"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-hebraeos",
+          "why": {
+            "en-US": "Commentary on Hebrews",
+            "pt-BR": "Comentário aos Hebreus"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-jacobum",
+          "why": {
+            "en-US": "Commentary on James",
+            "pt-BR": "Comentário a Tiago"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-i-petri",
+          "why": {
+            "en-US": "Commentary on 1 Peter",
+            "pt-BR": "Comentário a 1 Pedro"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-ii-petri",
+          "why": {
+            "en-US": "Commentary on 2 Peter",
+            "pt-BR": "Comentário a 2 Pedro"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-epistolas-joannis",
+          "why": {
+            "en-US": "Commentary on the Letters of John",
+            "pt-BR": "Comentário às Cartas de João"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-judam",
+          "why": {
+            "en-US": "Commentary on Jude",
+            "pt-BR": "Comentário a Judas"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-apocalypsim",
+          "why": {
+            "en-US": "Commentary on the Apocalypse",
+            "pt-BR": "Comentário ao Apocalipse"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The Pentateuch and historical books",
+        "pt-BR": "Pentateuco e livros históricos"
+      },
+      "works": [
+        {
+          "work": "denis-epitome-sacrae-scripturae",
+          "why": {
+            "en-US": "A summary of Holy Scripture",
+            "pt-BR": "Resumo da Sagrada Escritura"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-genesim",
+          "why": {
+            "en-US": "Commentary on Genesis",
+            "pt-BR": "Comentário ao Gênesis"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-exodum",
+          "why": {
+            "en-US": "Commentary on Exodus",
+            "pt-BR": "Comentário ao Êxodo"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-leviticum",
+          "why": {
+            "en-US": "Commentary on Leviticus",
+            "pt-BR": "Comentário ao Levítico"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-numeros",
+          "why": {
+            "en-US": "Commentary on Numbers",
+            "pt-BR": "Comentário aos Números"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-deuteronomium",
+          "why": {
+            "en-US": "Commentary on Deuteronomy",
+            "pt-BR": "Comentário ao Deuteronômio"
+          }
+        },
+        {
+          "work": "denis-epilogatio-in-pentateuchum",
+          "why": {
+            "en-US": "Epilogue to the Pentateuch",
+            "pt-BR": "Epílogo ao Pentateuco"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-josue",
+          "why": {
+            "en-US": "Commentary on Joshua",
+            "pt-BR": "Comentário a Josué"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-judices",
+          "why": {
+            "en-US": "Commentary on Judges",
+            "pt-BR": "Comentário a Juízes"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-ruth",
+          "why": {
+            "en-US": "Commentary on Ruth",
+            "pt-BR": "Comentário a Rute"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-i-regum",
+          "why": {
+            "en-US": "Commentary on 1 Samuel",
+            "pt-BR": "Comentário a 1 Samuel"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-ii-regum",
+          "why": {
+            "en-US": "Commentary on 2 Samuel",
+            "pt-BR": "Comentário a 2 Samuel"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-iii-regum",
+          "why": {
+            "en-US": "Commentary on 1 Kings",
+            "pt-BR": "Comentário a 1 Reis"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-iv-regum",
+          "why": {
+            "en-US": "Commentary on 2 Kings",
+            "pt-BR": "Comentário a 2 Reis"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-i-paralipomenon",
+          "why": {
+            "en-US": "Commentary on 1 Chronicles",
+            "pt-BR": "Comentário a 1 Crônicas"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-ii-paralipomenon",
+          "why": {
+            "en-US": "Commentary on 2 Chronicles",
+            "pt-BR": "Comentário a 2 Crônicas"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-i-esdrae",
+          "why": {
+            "en-US": "Commentary on Ezra",
+            "pt-BR": "Comentário a Esdras"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-ii-esdrae",
+          "why": {
+            "en-US": "Commentary on Nehemiah",
+            "pt-BR": "Comentário a Neemias"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-tobiam",
+          "why": {
+            "en-US": "Commentary on Tobit",
+            "pt-BR": "Comentário a Tobias"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-judith",
+          "why": {
+            "en-US": "Commentary on Judith",
+            "pt-BR": "Comentário a Judite"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-esther",
+          "why": {
+            "en-US": "Commentary on Esther",
+            "pt-BR": "Comentário a Ester"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-i-machabaeorum",
+          "why": {
+            "en-US": "Commentary on 1 Maccabees",
+            "pt-BR": "Comentário a 1 Macabeus"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-ii-machabaeorum",
+          "why": {
+            "en-US": "Commentary on 2 Maccabees",
+            "pt-BR": "Comentário a 2 Macabeus"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The Prophets",
+        "pt-BR": "Os Profetas"
+      },
+      "works": [
+        {
+          "work": "denis-enarratio-in-isaiam",
+          "why": {
+            "en-US": "Commentary on Isaiah",
+            "pt-BR": "Comentário a Isaías"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-jeremiam",
+          "why": {
+            "en-US": "Commentary on Jeremiah",
+            "pt-BR": "Comentário a Jeremias"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-threnos",
+          "why": {
+            "en-US": "Commentary on Lamentations",
+            "pt-BR": "Comentário às Lamentações"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-baruch",
+          "why": {
+            "en-US": "Commentary on Baruch",
+            "pt-BR": "Comentário a Baruc"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-ezechielem",
+          "why": {
+            "en-US": "Commentary on Ezekiel",
+            "pt-BR": "Comentário a Ezequiel"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-danielem",
+          "why": {
+            "en-US": "Commentary on Daniel",
+            "pt-BR": "Comentário a Daniel"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-osee",
+          "why": {
+            "en-US": "Commentary on Hosea",
+            "pt-BR": "Comentário a Oseias"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-joelem",
+          "why": {
+            "en-US": "Commentary on Joel",
+            "pt-BR": "Comentário a Joel"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-amos",
+          "why": {
+            "en-US": "Commentary on Amos",
+            "pt-BR": "Comentário a Amós"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-abdiam",
+          "why": {
+            "en-US": "Commentary on Obadiah",
+            "pt-BR": "Comentário a Abdias"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-jonam",
+          "why": {
+            "en-US": "Commentary on Jonah",
+            "pt-BR": "Comentário a Jonas"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-michaeam",
+          "why": {
+            "en-US": "Commentary on Micah",
+            "pt-BR": "Comentário a Miqueias"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-nahum",
+          "why": {
+            "en-US": "Commentary on Nahum",
+            "pt-BR": "Comentário a Naum"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-habacuc",
+          "why": {
+            "en-US": "Commentary on Habakkuk",
+            "pt-BR": "Comentário a Habacuque"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-sophoniam",
+          "why": {
+            "en-US": "Commentary on Zephaniah",
+            "pt-BR": "Comentário a Sofonias"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-aggaeum",
+          "why": {
+            "en-US": "Commentary on Haggai",
+            "pt-BR": "Comentário a Ageu"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-zachariam",
+          "why": {
+            "en-US": "Commentary on Zechariah",
+            "pt-BR": "Comentário a Zacarias"
+          }
+        },
+        {
+          "work": "denis-enarratio-in-malachiam",
+          "why": {
+            "en-US": "Commentary on Malachi",
+            "pt-BR": "Comentário a Malaquias"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "About Denis",
+        "pt-BR": "Sobre Dênis"
+      },
+      "works": [
+        {
+          "work": "denis-vita-et-opera",
+          "why": {
+            "en-US": "His life by Dietrich Loer and the catalogue of his works",
+            "pt-BR": "Sua vida por Dietrich Loer e o catálogo de suas obras"
+          }
+        }
+      ]
+    }
   ]
 }
