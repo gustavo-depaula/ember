@@ -7,5 +7,102 @@
   "saint": "pontian_hippolytus",
   "matches": [
     "Hippolytus"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "hippolytus-refutation-of-all-heresies",
+          "why": {
+            "en-US": "His great work against the heresies",
+            "pt-BR": "Sua grande obra contra as heresias"
+          }
+        },
+        {
+          "work": "hippolytus-antichrist",
+          "why": {
+            "en-US": "On the Antichrist",
+            "pt-BR": "Sobre o Anticristo"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Against heresy",
+        "pt-BR": "Contra a heresia"
+      },
+      "works": [
+        {
+          "work": "hippolytus-against-the-heresy-of-noetus",
+          "why": {
+            "en-US": "Against the heresy of Noetus",
+            "pt-BR": "Contra a heresia de Noeto"
+          }
+        },
+        {
+          "work": "hippolytus-against-plato-on-the-cause-of-the-universe",
+          "why": {
+            "en-US": "Against Plato, on the cause of the universe",
+            "pt-BR": "Contra Platão, sobre a causa do universo"
+          }
+        },
+        {
+          "work": "hippolytus-expository-treatise-against-the-jews",
+          "why": {
+            "en-US": "Expository treatise against the Jews",
+            "pt-BR": "Tratado expositivo contra os judeus"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Scripture and the feast",
+        "pt-BR": "Escritura e festa"
+      },
+      "works": [
+        {
+          "work": "hippolytus-some-exegetical-fragments",
+          "why": {
+            "en-US": "Exegetical fragments",
+            "pt-BR": "Fragmentos exegéticos"
+          }
+        },
+        {
+          "work": "hippolytus-discourse-on-the-holy-theophany",
+          "why": {
+            "en-US": "Discourse on the Holy Theophany",
+            "pt-BR": "Discurso sobre a Santa Teofania"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Attributed works",
+        "pt-BR": "Obras atribuídas"
+      },
+      "works": [
+        {
+          "work": "hippolytus-end-of-the-world",
+          "why": {
+            "en-US": "Pseudonymous: the end of the world",
+            "pt-BR": "Pseudônimo: o fim do mundo"
+          }
+        },
+        {
+          "work": "hippolytus-apostles-and-the-disciples",
+          "why": {
+            "en-US": "Pseudonymous: the apostles and the disciples",
+            "pt-BR": "Pseudônimo: os apóstolos e os discípulos"
+          }
+        }
+      ]
+    }
   ]
 }
