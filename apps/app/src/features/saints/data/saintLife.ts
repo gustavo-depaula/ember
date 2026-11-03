@@ -40,8 +40,8 @@ export async function loadSaintLife(chapter: string, lang: string): Promise<Sain
 export const encyclopediaBook = 'catholic-encyclopedia'
 
 /**
- * A Catholic Encyclopedia article, as a card's About shows it: its first
- * paragraph, and how long the whole article takes, for the link to the rest.
+ * A Catholic Encyclopedia article, as a card's About shows it: its opening
+ * paragraphs, and how long the whole article takes, for the link to the rest.
  * The article opens with its title and a one-line summary in italics, which
  * the first paragraph repeats; both come off. English only, as the book is.
  */
@@ -53,6 +53,13 @@ export async function loadEncyclopediaArticle(chapter: string): Promise<SaintLif
     .map((b) => b.trim())
     .filter((b) => b && !b.startsWith('#') && !/^\*[^*].*\*$/.test(b))
   if (blocks.length === 0) return undefined
+  // An article may open on its etymology alone ("Latin ad-venio, to come
+  // to"): the opening runs on to the paragraphs after, to about forty words.
+  const opening: string[] = []
+  for (const block of blocks) {
+    opening.push(block)
+    if (opening.join(' ').split(/\s+/).length >= 40) break
+  }
   const words = blocks.join(' ').split(/\s+/).length
-  return { opening: blocks[0], minutes: Math.max(1, Math.round(words / 200)) }
+  return { opening: opening.join('\n\n'), minutes: Math.max(1, Math.round(words / 200)) }
 }

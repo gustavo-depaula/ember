@@ -32,7 +32,13 @@ def opening(aid: str) -> tuple[int, str]:
     text = (CE / "en-US" / f"{aid}.md").read_text(encoding="utf-8")
     blocks = [b.strip() for b in text.split("\n\n") if b.strip() and not b.startswith("#")]
     body = [b for b in blocks if not (b.startswith("*") and b.endswith("*"))]
-    return len(text.split()), (body[0] if body else "")[:400]
+    # As the app shows it: paragraphs up to about forty words.
+    shown: list[str] = []
+    for b in body:
+        shown.append(b)
+        if len(" ".join(shown).split()) >= 40:
+            break
+    return len(text.split()), "\n\n".join(shown)[:600]
 
 
 def main() -> int:
