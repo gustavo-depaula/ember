@@ -6,5 +6,22 @@
   "century": 2,
   "matches": [
     "Hermas"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "hermas-pastor",
+          "why": {
+            "en-US": "The Shepherd, an early Christian work",
+            "pt-BR": "O Pastor, obra cristã antiga"
+          }
+        }
+      ]
+    }
   ]
 }
