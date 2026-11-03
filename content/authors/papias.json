@@ -6,5 +6,22 @@
   "century": 2,
   "matches": [
     "Papias"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Fragments",
+        "pt-BR": "Fragmentos"
+      },
+      "works": [
+        {
+          "work": "papias-fragments",
+          "why": {
+            "en-US": "The fragments of Papias",
+            "pt-BR": "Os fragmentos de Papias"
+          }
+        }
+      ]
+    }
   ]
 }
