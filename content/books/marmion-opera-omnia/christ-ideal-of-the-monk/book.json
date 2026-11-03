@@ -1,0 +1,152 @@
+{
+  "id": "marmion-christ-ideal-of-the-monk",
+  "name": {
+    "en-US": "Christ, the Ideal of the Monk",
+    "pt-BR": "Cristo, ideal do monge"
+  },
+  "author": {
+    "en-US": "Bl. Columba Marmion",
+    "pt-BR": "Bem-aventurado Columba Marmion"
+  },
+  "description": {
+    "en-US": "Eighteen spiritual conferences on the monastic and religious life, a commentary on the Rule of St Benedict in the light of Christ: seeking God, the following of Christ, the abbot, community, faith, profession, the way of abnegation (compunction, renunciation, poverty, humility, obedience) and the life of union with Christ (the Opus Dei, prayer, abandonment, zeal, peace). Third of the trilogy (Le Christ, idéal du moine, 1922). English only: no open French text exists.",
+    "pt-BR": "Dezoito conferências espirituais sobre a vida monástica e religiosa, um comentário à Regra de São Bento à luz de Cristo: buscar a Deus, seguir a Cristo, o abade, a comunidade, a fé, a profissão, o caminho da renúncia (compunção, renúncia, pobreza, humildade, obediência) e a vida de união com Cristo (o Opus Dei, a oração, o abandono, o zelo, a paz). Terceiro da trilogia (Le Christ, idéal du moine, 1922)."
+  },
+  "composed": "1922",
+  "languages": [
+    "en-US"
+  ],
+  "work": "marmion/christ-ideal-du-moine",
+  "editions": {
+    "en-US": {
+      "translator": "A Nun of Tyburn Convent (from the 8th French edition)",
+      "year": 1926
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/christidealofmon0000unse",
+      "edition": "Christ the Ideal of the Monk, spiritual conferences on the monastic and religious life, London: Sands / St. Louis: Herder, 1926 (imprimatur Bruges Feb 1926). Internet Archive scan, OCR text.",
+      "description": "Preface and the eighteen conferences. Running heads stripped; the reference notes at the foot of each page are footnotes placed at the end of the page. Cross-checks were available in two other scans (in.ernet.dli.2015.174061, ChristTheIdealOfTheMonk) but were not diffed. The French original has no open text.",
+      "tier": "A",
+      "tierEvidence": "Anonymous translation published 1926: public domain in the US (before 1931) and, as an anonymous work, in Brazil and the EU; Marmion died 1923."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "01-seek-god",
+      "title": {
+        "en-US": "I. “To Seek God”"
+      }
+    },
+    {
+      "id": "02-following-of-christ",
+      "title": {
+        "en-US": "II. The Following of Christ"
+      }
+    },
+    {
+      "id": "03-abbot",
+      "title": {
+        "en-US": "III. The Abbot, Christ’s Representative"
+      }
+    },
+    {
+      "id": "04-cenobitical-society",
+      "title": {
+        "en-US": "IV. The Cenobitical Society"
+      }
+    },
+    {
+      "id": "05-faith",
+      "title": {
+        "en-US": "V. Our Faith, the Victory over the World"
+      }
+    },
+    {
+      "id": "06-profession",
+      "title": {
+        "en-US": "VI. Monastic Profession"
+      }
+    },
+    {
+      "id": "07-instruments-good-works",
+      "title": {
+        "en-US": "VII. The “Instruments of Good Works”"
+      }
+    },
+    {
+      "id": "08-compunction",
+      "title": {
+        "en-US": "VIII. Compunction of Heart"
+      }
+    },
+    {
+      "id": "09-self-renunciation",
+      "title": {
+        "en-US": "IX. Self-Renunciation"
+      }
+    },
+    {
+      "id": "10-poverty",
+      "title": {
+        "en-US": "X. Poverty"
+      }
+    },
+    {
+      "id": "11-humility",
+      "title": {
+        "en-US": "XI. Humility"
+      }
+    },
+    {
+      "id": "12-bonum-obedientiae",
+      "title": {
+        "en-US": "XII. Bonum obedientiae"
+      }
+    },
+    {
+      "id": "13-opus-dei-praise",
+      "title": {
+        "en-US": "XIII. The Opus Dei: Divine Praise"
+      }
+    },
+    {
+      "id": "14-opus-dei-union",
+      "title": {
+        "en-US": "XIV. The Opus Dei: Means of Union with God"
+      }
+    },
+    {
+      "id": "15-monastic-prayer",
+      "title": {
+        "en-US": "XV. Monastic Prayer"
+      }
+    },
+    {
+      "id": "16-abandonment",
+      "title": {
+        "en-US": "XVI. The Spirit of Abandonment to God’s Will"
+      }
+    },
+    {
+      "id": "17-good-zeal",
+      "title": {
+        "en-US": "XVII. Good Zeal"
+      }
+    },
+    {
+      "id": "18-peace-of-christ",
+      "title": {
+        "en-US": "XVIII. The Peace of Christ"
+      }
+    }
+  ]
+}
