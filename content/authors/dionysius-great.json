@@ -6,5 +6,36 @@
   "century": 3,
   "matches": [
     "Dionysius the Great"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Letters and fragments",
+        "pt-BR": "Cartas e fragmentos"
+      },
+      "works": [
+        {
+          "work": "dionysius-great-epistles-and-epistolary-fragments",
+          "why": {
+            "en-US": "Epistles and epistolary fragments",
+            "pt-BR": "Epístolas e fragmentos epistolares"
+          }
+        },
+        {
+          "work": "dionysius-great-exegetical-fragments",
+          "why": {
+            "en-US": "Exegetical fragments",
+            "pt-BR": "Fragmentos exegéticos"
+          }
+        },
+        {
+          "work": "dionysius-great-miscellaneous-fragments",
+          "why": {
+            "en-US": "Miscellaneous fragments",
+            "pt-BR": "Fragmentos diversos"
+          }
+        }
+      ]
+    }
   ]
 }
