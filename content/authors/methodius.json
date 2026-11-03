@@ -6,5 +6,84 @@
   "century": 3,
   "matches": [
     "Methodius"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "His one complete dialogue, on virginity and the Church.",
+        "pt-BR": "Seu único diálogo completo, sobre a virgindade e a Igreja."
+      },
+      "works": [
+        {
+          "work": "methodius-banquet-of-the-ten-virgins",
+          "why": {
+            "en-US": "The Banquet of the Ten Virgins, his longest work",
+            "pt-BR": "O Banquete das Dez Virgens, sua obra mais longa"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Doctrine and homilies",
+        "pt-BR": "Doutrina e homilias"
+      },
+      "works": [
+        {
+          "work": "methodius-concerning-free-will",
+          "why": {
+            "en-US": "Concerning Free Will",
+            "pt-BR": "Sobre o livre-arbítrio"
+          }
+        },
+        {
+          "work": "methodius-from-the-discourse-on-the-resurrection",
+          "why": {
+            "en-US": "From the Discourse on the Resurrection",
+            "pt-BR": "Do Discurso sobre a ressurreição"
+          }
+        },
+        {
+          "work": "methodius-oration-concerning-simeon-and-anna",
+          "why": {
+            "en-US": "Oration on Simeon and Anna",
+            "pt-BR": "Oração sobre Simeão e Ana"
+          }
+        },
+        {
+          "work": "methodius-oration-on-the-psalms",
+          "why": {
+            "en-US": "Oration on the Psalms",
+            "pt-BR": "Oração sobre os Salmos"
+          }
+        },
+        {
+          "work": "methodius-three-fragments-from-the-homily-on-the-cross-and-passion-of-christ",
+          "why": {
+            "en-US": "Three fragments from the homily on the Cross and Passion",
+            "pt-BR": "Três fragmentos da homilia sobre a Cruz e a Paixão"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Fragments",
+        "pt-BR": "Fragmentos"
+      },
+      "works": [
+        {
+          "work": "methodius-fragments",
+          "why": {
+            "en-US": "Fragments",
+            "pt-BR": "Fragmentos"
+          }
+        }
+      ]
+    }
   ]
 }
