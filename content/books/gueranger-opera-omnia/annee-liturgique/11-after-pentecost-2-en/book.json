@@ -1,0 +1,236 @@
+{
+  "id": "gueranger-liturgical-year-11-after-pentecost-2",
+  "name": {
+    "en-US": "The Liturgical Year: Time after Pentecost, Book II",
+    "pt-BR": "O Ano Litúrgico: Tempo depois de Pentecostes, II"
+  },
+  "author": {
+    "en-US": "Dom Prosper Guéranger",
+    "pt-BR": "Dom Prosper Guéranger"
+  },
+  "description": {
+    "en-US": "Volume 11 of the English Liturgical Year (Time after Pentecost, Book II), translated from L’Année liturgique: one chapter per day or feast, with the Latin liturgical texts beside their English. Made from the Internet Archive scan of the 1900 printing; the two-column Latin and English text is separated by script, so some lines may be misassigned.",
+    "pt-BR": "Volume 11 do «Liturgical Year» em inglês (Tempo depois de Pentecostes, II), traduzido de L’Année liturgique: um capítulo por dia ou festa, com os textos litúrgicos em latim ao lado do inglês."
+  },
+  "composed": "1883",
+  "languages": [
+    "en-US"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "en-US": {
+      "translator": "Rev. Dom Laurence Shepherd (Stanbrook Abbey)",
+      "year": 1900
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/V11TheLiturgicalYear",
+      "edition": "The Liturgical Year, Time after Pentecost, Book II, translated from the French of Dom Prosper Guéranger; printing of 1900 (Stanbrook Abbey / Duffy). Internet Archive scan, OCR text.",
+      "description": "Split at each day or feast heading detected in the running text; running heads and page numbers removed; the Latin and English columns of the liturgical texts, interleaved line by line in the OCR, were separated by language and set as a Latin paragraph followed by its English.",
+      "tier": "A",
+      "tierEvidence": "Guéranger (d. 1875) and the translation printed 1870-1912: public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "002-chapter-the-first-the-history-of-the-time-after",
+      "title": {
+        "en-US": "Chapter the First the History of the Time after Pentecost"
+      }
+    },
+    {
+      "id": "003-chapter-the-second-the-mystery-of-the-time-after",
+      "title": {
+        "en-US": "Chapter the Second the Mystery of the Time after Pentecost"
+      }
+    },
+    {
+      "id": "004-chapter-the-third-practice-for-the-time-after-pe",
+      "title": {
+        "en-US": "Chapter the Third Practice for the Time after Pentecost"
+      }
+    },
+    {
+      "id": "005-chapter-the-fifth-on-hearing-mass-during-the-tim",
+      "title": {
+        "en-US": "Chapter the Fifth on Hearing Mass During the Time after Pentecost"
+      }
+    },
+    {
+      "id": "006-holy-communion",
+      "title": {
+        "en-US": "Holy Communion"
+      }
+    },
+    {
+      "id": "007-chapter-the-seventh",
+      "title": {
+        "en-US": "Chapter the Seventh"
+      }
+    },
+    {
+      "id": "008-chapter-the-eighth-on-the-office-of-compline-dur",
+      "title": {
+        "en-US": "Chapter the Eighth on the Office of Compline During the Time after Pentecost"
+      }
+    },
+    {
+      "id": "009-the-foukth-sunday-aftee-pentecost",
+      "title": {
+        "en-US": "The Foukth Sunday Aftee Pentecost"
+      }
+    },
+    {
+      "id": "010-fourth-sunday",
+      "title": {
+        "en-US": "Fourth Sunday"
+      }
+    },
+    {
+      "id": "011-the-fifth-sunday-after-pentecost",
+      "title": {
+        "en-US": "The Fifth Sunday after Pentecost"
+      }
+    },
+    {
+      "id": "012-the-sixth-sunday-after-pentecost",
+      "title": {
+        "en-US": "The Sixth Sunday after Pentecost"
+      }
+    },
+    {
+      "id": "013-the-seventh-sunday-aftee-pentecost",
+      "title": {
+        "en-US": "The Seventh Sunday Aftee Pentecost"
+      }
+    },
+    {
+      "id": "014-the-eighth-sunday-afteb-pentecost",
+      "title": {
+        "en-US": "The Eighth Sunday Afteb Pentecost"
+      }
+    },
+    {
+      "id": "015-the-ninth-sunday-after-pentecost",
+      "title": {
+        "en-US": "The Ninth Sunday after Pentecost"
+      }
+    },
+    {
+      "id": "016-the-tenth-sunday-aftek-pentecost",
+      "title": {
+        "en-US": "The Tenth Sunday Aftek Pentecost"
+      }
+    },
+    {
+      "id": "017-the-eleventh-sunday-aftee-pentecost",
+      "title": {
+        "en-US": "The Eleventh Sunday Aftee Pentecost"
+      }
+    },
+    {
+      "id": "018-thirteenth-sunday",
+      "title": {
+        "en-US": "Thirteenth Sunday"
+      }
+    },
+    {
+      "id": "019-the-fourteenth-sunday-after-pentecost-mass",
+      "title": {
+        "en-US": "The Fourteenth Sunday after Pentecost Mass"
+      }
+    },
+    {
+      "id": "020-fifteenth-sunday",
+      "title": {
+        "en-US": "Fifteenth Sunday"
+      }
+    },
+    {
+      "id": "021-the-seventeenth-sunday-after-pentecost",
+      "title": {
+        "en-US": "The Seventeenth Sunday after Pentecost"
+      }
+    },
+    {
+      "id": "022-the-ember-days-of-september",
+      "title": {
+        "en-US": "The Ember-days of September"
+      }
+    },
+    {
+      "id": "023-the-eighteenth-sunday-aftee-pentecost",
+      "title": {
+        "en-US": "The Eighteenth Sunday Aftee Pentecost"
+      }
+    },
+    {
+      "id": "024-twentieth-sunday",
+      "title": {
+        "en-US": "Twentieth Sunday"
+      }
+    },
+    {
+      "id": "025-twenty-first-sunday",
+      "title": {
+        "en-US": "Twenty- First Sunday"
+      }
+    },
+    {
+      "id": "026-the-twenty-second-sunday-after-pentecost-mass",
+      "title": {
+        "en-US": "The Twenty-second Sunday after Pentecost Mass"
+      }
+    },
+    {
+      "id": "027-the-twenty-third-sunday-aftek-pentecost",
+      "title": {
+        "en-US": "The Twenty -Third Sunday Aftek Pentecost"
+      }
+    },
+    {
+      "id": "028-the-twenty-foukth-and-last-sunday-after-pentecos",
+      "title": {
+        "en-US": "The Twenty-foukth and Last Sunday after Pentecost"
+      }
+    },
+    {
+      "id": "029-twenty-fourth-sunday",
+      "title": {
+        "en-US": "Twenty-fourth Sunday"
+      }
+    },
+    {
+      "id": "030-third-sunday-after-the-epiphany",
+      "title": {
+        "en-US": "Third Sunday after the Epiphany"
+      }
+    },
+    {
+      "id": "031-fourth-sunday-after-the-epiphany",
+      "title": {
+        "en-US": "Fourth Sunday after the Epiphany"
+      }
+    },
+    {
+      "id": "032-the-fifth-sunday-aftee-the-epiphany",
+      "title": {
+        "en-US": "The Fifth Sunday Aftee the Epiphany"
+      }
+    },
+    {
+      "id": "033-the-sixth-sunday-aftek-the-epiphany",
+      "title": {
+        "en-US": "The Sixth Sunday Aftek the . Epiphany"
+      }
+    }
+  ]
+}
