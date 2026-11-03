@@ -1,0 +1,269 @@
+{
+  "id": "bernard-de-conversione-mirror",
+  "cover": "classic",
+  "name": {
+    "en-US": "A Mirror that Flatters Not: On Conversion (1677)",
+    "pt-BR": "Um espelho que não lisonjeia: Sobre a conversão (inglês, 1677)"
+  },
+  "author": {
+    "la": "Bernardus Claraevallensis",
+    "en-US": "St. Bernard of Clairvaux",
+    "pt-BR": "São Bernardo de Claraval"
+  },
+  "description": {
+    "en-US": "The anonymous English of 1677 of Bernard's sermon to the clergy of Paris on conversion, cut by the translator into thirty-one chapters (the Maurist text has twenty-two, so this is its own book of the work), with his preface to all new converts and three more 'sermons' that are Bernard's first three Parables: the king's son, and the war between Babylon and Jerusalem.",
+    "pt-BR": "A tradução inglesa anônima de 1677 do sermão de São Bernardo aos clérigos de Paris sobre a conversão, dividido pelo tradutor em trinta e um capítulos, com o prefácio do tradutor e três 'sermões' que são as três primeiras Parábolas de Bernardo."
+  },
+  "composed": "c. 1140",
+  "languages": [
+    "en-US"
+  ],
+  "work": "bernard/de-conversione-ad-clericos",
+  "editions": {
+    "en-US": {
+      "translator": "Anonymous (London)",
+      "year": 1677
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/textcreationpartnership/A27472",
+      "edition": "A Mirror that Flatters Not: or, a Looking-glass for all New-Converts, that is, certain Sermons of St. Bernard translated into English (London, 1677), EEBO-TCP A27472.",
+      "description": "EEBO-TCP hand-keyed transcription, original spelling kept; long s printed as s. The 6 letters illegible in the source are restored, the word being in no doubt (h[…]gh, Bless[…]d). The printed list of faults (errata) is not applied. Raw TEI in sources/english-originals/.",
+      "tier": "A",
+      "tierEvidence": "Printed 1677; the TCP transcription is released to the public domain (CC0)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "The Translator's Preface to All New-Converts"
+      }
+    },
+    {
+      "id": "sermon-to-the-clergy",
+      "title": {
+        "en-US": "A Sermon Preached to the Clergy concerning Conversion"
+      },
+      "children": [
+        {
+          "id": "c01",
+          "title": {
+            "en-US": "Chapter I. That no body can be converted to God, unless he be prevented by the Will of God, and by his Voice crying unto him within"
+          }
+        },
+        {
+          "id": "c02",
+          "title": {
+            "en-US": "Chapter II. That God's Voice offers it self to all, and presents it self to the Soul that's unwilling to hear it"
+          }
+        },
+        {
+          "id": "c03",
+          "title": {
+            "en-US": "Chapter III. That by the Voice of God the reasonable part of the Soul is made able to see, reprove, distinguish, and discern all its own miseries"
+          }
+        },
+        {
+          "id": "c04",
+          "title": {
+            "en-US": "Chapter IV. That he who loves Wickedness, hates both his own Soul and Body"
+          }
+        },
+        {
+          "id": "c05",
+          "title": {
+            "en-US": "Chapter V. Of the punishment as well of Soul as Body, and fruitless Repentance after death"
+          }
+        },
+        {
+          "id": "c06",
+          "title": {
+            "en-US": "Chapter VI. That the worm of Conscience ought here to be felt, and by little and little extinguished; and not to be cherished and nourished to immortality"
+          }
+        },
+        {
+          "id": "c07",
+          "title": {
+            "en-US": "Chapter VII. That to some it seems easy for man's will to obey the Divine Voice"
+          }
+        },
+        {
+          "id": "c08",
+          "title": {
+            "en-US": "Chapter VIII. How the will of man by Gluttony, Curiosity and Pride, and by all the senses of the Body rebels against the Divine Voice"
+          }
+        },
+        {
+          "id": "c09",
+          "title": {
+            "en-US": "Chapter IX. How the reasonable part of the Soul being now vexed and afflicted, is convinced of the vainly presumed facility, and confounded at the difficulty of this matter"
+          }
+        },
+        {
+          "id": "c10",
+          "title": {
+            "en-US": "Chapter X. A comfortable Respiration to the poor in Spirit"
+          }
+        },
+        {
+          "id": "c11",
+          "title": {
+            "en-US": "Chapter XI. That he cannot hope for the Kingdom of God, in whose flesh Sin does still reign"
+          }
+        },
+        {
+          "id": "c12",
+          "title": {
+            "en-US": "Chapter XII. The desires of Gluttony, and Lust, and other Vanities, what they will end in"
+          }
+        },
+        {
+          "id": "c13",
+          "title": {
+            "en-US": "Chapter XIII. Of the Slavery of Vices"
+          }
+        },
+        {
+          "id": "c14",
+          "title": {
+            "en-US": "Chapter XIV. Of the infidelity of Riches, and uncertainty of Death"
+          }
+        },
+        {
+          "id": "c15",
+          "title": {
+            "en-US": "Chapter XV. That the Works which we do in time, are as it were Seeds of Eternal Reward"
+          }
+        },
+        {
+          "id": "c16",
+          "title": {
+            "en-US": "Chapter XVI. That it is impossible for him that sins, so to hide himself, as not to be seen"
+          }
+        },
+        {
+          "id": "c17",
+          "title": {
+            "en-US": "Chapter XVII. What we may judg will become of those who live wickedly"
+          }
+        },
+        {
+          "id": "c18",
+          "title": {
+            "en-US": "Chapter XVIII. That the Spirit being enclined to good, the Flesh resists it"
+          }
+        },
+        {
+          "id": "c19",
+          "title": {
+            "en-US": "Chapter XIX. That we must Mourn, and after Mourning be Comforted"
+          }
+        },
+        {
+          "id": "c20",
+          "title": {
+            "en-US": "Chapter XX. That after Consolation we are to set our selves to Contemplate Heavenly things"
+          }
+        },
+        {
+          "id": "c21",
+          "title": {
+            "en-US": "Chapter XXI. That the Soul ought to take up its rest in this Contemplation"
+          }
+        },
+        {
+          "id": "c22",
+          "title": {
+            "en-US": "Chapter XXII. That being refreshed with the taste of Contemplation, he is made to understand Divine things"
+          }
+        },
+        {
+          "id": "c23",
+          "title": {
+            "en-US": "Chapter XXIII. That Sins that have been punished, and are not reiterated, cannot hurt us"
+          }
+        },
+        {
+          "id": "c24",
+          "title": {
+            "en-US": "Chapter XXIV. Of Mercy which is promised to the Merciful"
+          }
+        },
+        {
+          "id": "c25",
+          "title": {
+            "en-US": "Chapter XXV. That the Heart is to be cleansed, that God may be seen"
+          }
+        },
+        {
+          "id": "c26",
+          "title": {
+            "en-US": "Chapter XXVI. Of the Peaceable, Patient, and Peace-maker"
+          }
+        },
+        {
+          "id": "c27",
+          "title": {
+            "en-US": "Chapter XXVII. A Reprehension of the Ambitious, who having not their hearts cleansed, presume to pacify God towards others"
+          }
+        },
+        {
+          "id": "c28",
+          "title": {
+            "en-US": "Chapter XXVIII. That some usurp to themselves the degree of Peacemakers"
+          }
+        },
+        {
+          "id": "c29",
+          "title": {
+            "en-US": "Chapter XXIX. A Complaint against the Incontinent, for not Revering Holy Orders"
+          }
+        },
+        {
+          "id": "c30",
+          "title": {
+            "en-US": "Chapter XXX. An Exhortation to Repentance, that being first humbled, they may be afterwards exalted"
+          }
+        },
+        {
+          "id": "c31",
+          "title": {
+            "en-US": "Chapter XXXI. Of enduring Persecution, according to the last Beatitude"
+          }
+        }
+      ]
+    },
+    {
+      "id": "parables",
+      "title": {
+        "en-US": "Three Sermons (the Parables)"
+      },
+      "children": [
+        {
+          "id": "parable-1",
+          "title": {
+            "en-US": "Sermon I: Of the Spiritual Combat"
+          }
+        },
+        {
+          "id": "parable-2",
+          "title": {
+            "en-US": "Sermon II"
+          }
+        },
+        {
+          "id": "parable-3",
+          "title": {
+            "en-US": "Sermon III"
+          }
+        }
+      ]
+    }
+  ],
+  "arrived": {
+    "en-US": "2026-11-03"
+  }
+}
