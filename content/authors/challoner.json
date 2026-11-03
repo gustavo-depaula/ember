@@ -7,5 +7,92 @@
   "matches": [
     "Bp. Richard Challoner (revisor, 1749–1752)",
     "Bp. Richard Challoner"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "His first and most reprinted book, and his catechism of the Church's worship.",
+        "pt-BR": "Seu primeiro livro, o mais reeditado, e seu catecismo do culto da Igreja."
+      },
+      "works": [
+        {
+          "work": "challoner/think-well-ont",
+          "why": {
+            "en-US": "His first and most reprinted book, a reflection for each day of the month",
+            "pt-BR": "Seu primeiro e mais reeditado livro, uma reflexão para cada dia do mês"
+          }
+        },
+        {
+          "work": "challoner/catholic-christian-instructed",
+          "why": {
+            "en-US": "Questions and answers on the sacraments, Sacrifice and ceremonies",
+            "pt-BR": "Perguntas e respostas sobre sacramentos, Sacrifício e cerimônias"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Instruction and prayer",
+        "pt-BR": "Instrução e oração"
+      },
+      "works": [
+        {
+          "work": "challoner/grounds-catholic-doctrine",
+          "why": {
+            "en-US": "The creed of Pius IV in Challoner's translation, with notes",
+            "pt-BR": "O credo de Pio IV na tradução de Challoner, com notas"
+          }
+        },
+        {
+          "work": "challoner/meditations-every-day",
+          "why": {
+            "en-US": "Meditations for every day of the year",
+            "pt-BR": "Meditações para cada dia do ano"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Lives",
+        "pt-BR": "Vidas"
+      },
+      "works": [
+        {
+          "work": "challoner/memoirs-missionary-priests",
+          "why": {
+            "en-US": "Catholics who died in England for the faith, 1577 to 1684",
+            "pt-BR": "Católicos mortos na Inglaterra pela fé, de 1577 a 1684"
+          }
+        },
+        {
+          "work": "challoner/wonders-of-god-in-the-wilderness",
+          "why": {
+            "en-US": "Lives of the Fathers of the eastern deserts",
+            "pt-BR": "Vidas dos Padres dos desertos orientais"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The Bible",
+        "pt-BR": "A Bíblia"
+      },
+      "works": [
+        {
+          "work": "douay-rheims-challoner",
+          "why": {
+            "en-US": "The Douay-Rheims Bible in his revision of 1749 to 1752, with notes",
+            "pt-BR": "A Bíblia Douay-Rheims em sua revisão de 1749 a 1752, com notas"
+          }
+        }
+      ]
+    }
   ]
 }
