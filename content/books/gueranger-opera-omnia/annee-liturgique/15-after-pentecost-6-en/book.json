@@ -1,0 +1,194 @@
+{
+  "id": "gueranger-liturgical-year-15-after-pentecost-6",
+  "name": {
+    "en-US": "The Liturgical Year: Time after Pentecost, Book VI",
+    "pt-BR": "O Ano Litúrgico: Tempo depois de Pentecostes, VI"
+  },
+  "author": {
+    "en-US": "Dom Prosper Guéranger",
+    "pt-BR": "Dom Prosper Guéranger"
+  },
+  "description": {
+    "en-US": "Volume 15 of the English Liturgical Year (Time after Pentecost, Book VI), translated from L’Année liturgique: one chapter per day or feast, with the Latin liturgical texts beside their English. Made from the Internet Archive scan of the 1900 printing; the two-column Latin and English text is separated by script, so some lines may be misassigned.",
+    "pt-BR": "Volume 15 do «Liturgical Year» em inglês (Tempo depois de Pentecostes, VI), traduzido de L’Année liturgique: um capítulo por dia ou festa, com os textos litúrgicos em latim ao lado do inglês."
+  },
+  "composed": "1901",
+  "languages": [
+    "en-US"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "en-US": {
+      "translator": "Benedictines of Stanbrook",
+      "year": 1900
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/V15TheLiturgicalYear",
+      "edition": "The Liturgical Year, Time after Pentecost, Book VI, translated from the French of Dom Prosper Guéranger; printing of 1900 (Stanbrook Abbey / Duffy). Internet Archive scan, OCR text.",
+      "description": "Split at each day or feast heading detected in the running text; running heads and page numbers removed; the Latin and English columns of the liturgical texts, interleaved line by line in the OCR, were separated by language and set as a Latin paragraph followed by its English.",
+      "tier": "A",
+      "tierEvidence": "Guéranger (d. 1875) and the translation printed 1870-1912: public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "002-introductory-chapters",
+      "title": {
+        "en-US": "Introductory Chapters"
+      }
+    },
+    {
+      "id": "003-chapter-the-second",
+      "title": {
+        "en-US": "Chapter the Second"
+      }
+    },
+    {
+      "id": "004-chapter-the-third-on-the-office-of-compline-duri",
+      "title": {
+        "en-US": "Chapter the Third. on the Office of Compline, During the Time after Pentecost"
+      }
+    },
+    {
+      "id": "005-november-1-feast-of-all-saints",
+      "title": {
+        "en-US": "November 1 — Feast of All Saints"
+      }
+    },
+    {
+      "id": "006-november-2-all-souls",
+      "title": {
+        "en-US": "November 2 — All Souls"
+      }
+    },
+    {
+      "id": "007-november-2-matins-op-the-dead",
+      "title": {
+        "en-US": "November 2 — Matins Op the Dead"
+      }
+    },
+    {
+      "id": "008-november-2-the-absolution",
+      "title": {
+        "en-US": "November 2 — The Absolution"
+      }
+    },
+    {
+      "id": "009-third-day-within-the-octave",
+      "title": {
+        "en-US": "Third Day Within the Octave. §"
+      }
+    },
+    {
+      "id": "010-november-4-saint-charles",
+      "title": {
+        "en-US": "November 4 — Saint Charles"
+      }
+    },
+    {
+      "id": "011-fifth-bat-within-the-octave",
+      "title": {
+        "en-US": "Fifth Bat Within the Octave"
+      }
+    },
+    {
+      "id": "012-sixth-day-within-the-octave",
+      "title": {
+        "en-US": "Sixth Day Within the Octave"
+      }
+    },
+    {
+      "id": "013-seventh-day-within-the-octave",
+      "title": {
+        "en-US": "Seventh Day \"Within the Octave"
+      }
+    },
+    {
+      "id": "014-octave-day-of-all-saints",
+      "title": {
+        "en-US": "Octave Day of All Saints"
+      }
+    },
+    {
+      "id": "015-november-8-dedication-of-churches",
+      "title": {
+        "en-US": "November 8 — Dedication of Churches"
+      }
+    },
+    {
+      "id": "016-november-11-saint-martin-of-tours",
+      "title": {
+        "en-US": "November 11 — Saint Martin of Tours"
+      }
+    },
+    {
+      "id": "017-november-12-saint-martin-pope-and-martyr",
+      "title": {
+        "en-US": "November 12 — Saint Martin Pope and Martyr"
+      }
+    },
+    {
+      "id": "018-november-14-saint-josaphat",
+      "title": {
+        "en-US": "November 14 — Saint Josaphat"
+      }
+    },
+    {
+      "id": "019-november-15-saint-gertrude-virgin",
+      "title": {
+        "en-US": "November 15 — Saint Gertrude. Virgin"
+      }
+    },
+    {
+      "id": "020-november-20-saint-felix",
+      "title": {
+        "en-US": "November 20 — Saint Felix"
+      }
+    },
+    {
+      "id": "021-november-21-the-presentation",
+      "title": {
+        "en-US": "November 21 — The Presentation"
+      }
+    },
+    {
+      "id": "022-november-22-saint-cjecilia",
+      "title": {
+        "en-US": "November 22 — Saint Cjecilia"
+      }
+    },
+    {
+      "id": "023-november-23-saint-clement",
+      "title": {
+        "en-US": "November 23 — Saint Clement"
+      }
+    },
+    {
+      "id": "024-november-24-saint-john-of-the-cross",
+      "title": {
+        "en-US": "November 24 — Saint John of the Cross. &"
+      }
+    },
+    {
+      "id": "025-november-25-saint-catharine",
+      "title": {
+        "en-US": "November 25 — Saint Catharine"
+      }
+    },
+    {
+      "id": "026-november-25-saint-sylvester-abbot",
+      "title": {
+        "en-US": "November 25 — Saint Sylvester. Abbot"
+      }
+    }
+  ]
+}
