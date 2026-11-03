@@ -11,5 +11,155 @@
     "St. Teresa of Jesus",
     "Teresa of Avila, St.",
     "Teresa, of Avila, Saint, 1515-1582"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "Her masterpiece and her own story.",
+        "pt-BR": "Sua obra-prima e sua própria história."
+      },
+      "works": [
+        {
+          "work": "teresa-of-avila/moradas",
+          "why": {
+            "en-US": "The soul as a castle of seven mansions, from self-knowledge to union",
+            "pt-BR": "A alma como castelo de sete moradas, do autoconhecimento à união"
+          }
+        },
+        {
+          "work": "teresa-of-avila/vida",
+          "why": {
+            "en-US": "Her own account of her life and the four degrees of prayer",
+            "pt-BR": "O relato que ela fez de sua vida e dos quatro graus de oração"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Teaching on prayer",
+        "pt-BR": "Ensinamento sobre a oração"
+      },
+      "note": {
+        "en-US": "Written for her nuns, prayer taught through the Our Father and the Song of Songs.",
+        "pt-BR": "Escritos para suas monjas: a oração ensinada pelo Pai-Nosso e pelo Cântico dos Cânticos."
+      },
+      "works": [
+        {
+          "work": "teresa-of-avila/camino",
+          "why": {
+            "en-US": "Counsels to her nuns on love, detachment and prayer",
+            "pt-BR": "Conselhos às monjas sobre amor, desapego e oração"
+          }
+        },
+        {
+          "work": "teresa-of-avila/camino-escorial",
+          "why": {
+            "en-US": "The first redaction, from the Escorial autograph (Spanish only)",
+            "pt-BR": "A primeira redação, do autógrafo do Escorial (só em espanhol)"
+          }
+        },
+        {
+          "work": "teresa-of-avila/conceptos",
+          "why": {
+            "en-US": "Meditations on verses of the Song of Songs",
+            "pt-BR": "Meditações sobre versos do Cântico dos Cânticos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The foundations",
+        "pt-BR": "As fundações"
+      },
+      "works": [
+        {
+          "work": "teresa-of-avila/fundaciones",
+          "why": {
+            "en-US": "The founding of her convents, 1562–1582, with counsels on prayer",
+            "pt-BR": "A fundação de seus conventos, 1562–1582, com conselhos sobre a oração"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Prayers and poems",
+        "pt-BR": "Orações e poesias"
+      },
+      "note": {
+        "en-US": "Short pieces of her prayer and verse.",
+        "pt-BR": "Peças breves de sua oração e de seus versos."
+      },
+      "works": [
+        {
+          "work": "teresa-of-avila/exclamaciones",
+          "why": {
+            "en-US": "Seventeen exclamations written after Communion in 1569",
+            "pt-BR": "Dezessete exclamações escritas após a Comunhão em 1569"
+          }
+        },
+        {
+          "work": "teresa-of-avila/exclamaciones-stanbrook",
+          "why": {
+            "en-US": "The same exclamations in the Stanbrook English",
+            "pt-BR": "As mesmas exclamações no inglês de Stanbrook"
+          }
+        },
+        {
+          "work": "teresa-of-avila/poesias",
+          "why": {
+            "en-US": "Her poems, “I live without living in myself” among them",
+            "pt-BR": "Suas poesias, entre elas “Vivo sem viver em mim”"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Letters and testimonies",
+        "pt-BR": "Cartas e relatos"
+      },
+      "note": {
+        "en-US": "The record of her graces and of her daily governance.",
+        "pt-BR": "O registro de suas graças e de seu governo cotidiano."
+      },
+      "works": [
+        {
+          "work": "teresa-of-avila/epistolario",
+          "why": {
+            "en-US": "Some 430 letters, 1546–1582, in Silverio’s edition and the Stanbrook English",
+            "pt-BR": "Cerca de 430 cartas, 1546–1582, na edição de Silverio e no inglês de Stanbrook"
+          }
+        },
+        {
+          "work": "teresa-of-avila/relaciones",
+          "why": {
+            "en-US": "The sixty-seven accounts of conscience written for her confessors",
+            "pt-BR": "Os sessenta e sete relatos de consciência escritos para seus confessores"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Rules and short works",
+        "pt-BR": "Regras e escritos breves"
+      },
+      "works": [
+        {
+          "work": "teresa-of-avila/opusculos",
+          "why": {
+            "en-US": "Constitutions, visitation of the convents, maxims and short works",
+            "pt-BR": "Constituições, visita aos conventos, avisos e outros escritos breves"
+          }
+        }
+      ]
+    }
   ]
 }
