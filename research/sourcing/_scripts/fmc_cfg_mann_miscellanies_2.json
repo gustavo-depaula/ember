@@ -1,0 +1,80 @@
+{
+ "id": "manning-miscellanies-2",
+ "dir": "manning-opera-omnia/miscellanies-2",
+ "slug": "miscellanies-2",
+ "work": "manning/miscellanies",
+ "name": "Miscellanies, II",
+ "name_pt": "Miscel\u00e2nea, II",
+ "author": "Cardinal Henry Edward Manning",
+ "author_pt": "Cardeal Henry Edward Manning",
+ "died": 1892,
+ "desc": "Miscellanies, volume II (1877): essays and lectures of 1873-76: the dignity and rights of labour, the Church of Rome, Caesarism and Ultramontanism, Christianity and Antichristianism, the Pope and Magna Charta, philosophy without assumptions, and Frederic Ozanam.",
+ "desc_pt": "Miscel\u00e2nea, volume II (1877): ensaios e confer\u00eancias de 1873-76: a dignidade e os direitos do trabalho, a Igreja de Roma, cesarismo e ultramontanismo, cristianismo e anticristianismo, o Papa e a Magna Carta, filosofia sem pressupostos e Frederico Ozanam.",
+ "composed": 1877,
+ "editor": "Henry Edward Manning (London: Burns and Oates, 1877)",
+ "year": 1877,
+ "url": "https://archive.org/details/miscellanies02mannuoft",
+ "edition": "Miscellanies (vol. 2) (London: Burns and Oates, 1877), Internet Archive full-text OCR.",
+ "srcnote": "The essays, lectures and addresses in order; the contents, the publisher's list and the index are dropped.",
+ "src": "manning/ia/miscellanies02mannuoft_djvu.txt",
+ "start": 129,
+ "end": 14360,
+ "fn": true,
+ "back": [],
+ "front": [],
+ "label": {},
+ "romanheads": false,
+ "inline": [],
+ "units": [
+  {
+   "id": "essay-1",
+   "title": "I. Dr. Nicholson's Accusation of the Archbishop of Westminster",
+   "from": 129
+  },
+  {
+   "id": "essay-2",
+   "title": "II. The Dignity and Rights of Labour",
+   "from": 2605
+  },
+  {
+   "id": "essay-3",
+   "title": "III. The Church of Rome",
+   "from": 3779
+  },
+  {
+   "id": "essay-4",
+   "title": "IV. Cesarism and Ultramontanism",
+   "from": 4470
+  },
+  {
+   "id": "essay-5",
+   "title": "V. Ultramontanism and Christianity",
+   "from": 5885
+  },
+  {
+   "id": "essay-6",
+   "title": "VI. Christianity and Antichristianism",
+   "from": 7266
+  },
+  {
+   "id": "essay-7",
+   "title": "VII. The Pope and Magna Charta",
+   "from": 8999
+  },
+  {
+   "id": "essay-8",
+   "title": "VIII. Inaugural Address",
+   "from": 10361
+  },
+  {
+   "id": "essay-9",
+   "title": "IX. Philosophy without Assumptions",
+   "from": 11196
+  },
+  {
+   "id": "essay-10",
+   "title": "X. Frederic Ozanam",
+   "from": 13066
+  }
+ ]
+}

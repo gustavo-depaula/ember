@@ -1,0 +1,99 @@
+{
+  "id": "manning-miscellanies-2",
+  "cover": "classic",
+  "name": {
+    "en-US": "Miscellanies, II",
+    "pt-BR": "Miscelânea, II"
+  },
+  "author": {
+    "en-US": "Cardinal Henry Edward Manning",
+    "pt-BR": "Cardeal Henry Edward Manning"
+  },
+  "description": {
+    "en-US": "Miscellanies, volume II (1877): essays and lectures of 1873-76: the dignity and rights of labour, the Church of Rome, Caesarism and Ultramontanism, Christianity and Antichristianism, the Pope and Magna Charta, philosophy without assumptions, and Frederic Ozanam.",
+    "pt-BR": "Miscelânea, volume II (1877): ensaios e conferências de 1873-76: a dignidade e os direitos do trabalho, a Igreja de Roma, cesarismo e ultramontanismo, cristianismo e anticristianismo, o Papa e a Magna Carta, filosofia sem pressupostos e Frederico Ozanam."
+  },
+  "composed": 1877,
+  "languages": [
+    "en-US"
+  ],
+  "work": "manning/miscellanies",
+  "editions": {
+    "en-US": {
+      "editor": "Henry Edward Manning (London: Burns and Oates, 1877)",
+      "year": 1877
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/miscellanies02mannuoft",
+      "edition": "Miscellanies (vol. 2) (London: Burns and Oates, 1877), Internet Archive full-text OCR.",
+      "description": "The essays, lectures and addresses in order; the contents, the publisher's list and the index are dropped. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Cardinal Henry Edward Manning died in 1892 and the edition is of 1877, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "essay-1",
+      "title": {
+        "en-US": "I. Dr. Nicholson's Accusation of the Archbishop of Westminster"
+      }
+    },
+    {
+      "id": "essay-2",
+      "title": {
+        "en-US": "II. The Dignity and Rights of Labour"
+      }
+    },
+    {
+      "id": "essay-3",
+      "title": {
+        "en-US": "III. The Church of Rome"
+      }
+    },
+    {
+      "id": "essay-4",
+      "title": {
+        "en-US": "IV. Cesarism and Ultramontanism"
+      }
+    },
+    {
+      "id": "essay-5",
+      "title": {
+        "en-US": "V. Ultramontanism and Christianity"
+      }
+    },
+    {
+      "id": "essay-6",
+      "title": {
+        "en-US": "VI. Christianity and Antichristianism"
+      }
+    },
+    {
+      "id": "essay-7",
+      "title": {
+        "en-US": "VII. The Pope and Magna Charta"
+      }
+    },
+    {
+      "id": "essay-8",
+      "title": {
+        "en-US": "VIII. Inaugural Address"
+      }
+    },
+    {
+      "id": "essay-9",
+      "title": {
+        "en-US": "IX. Philosophy without Assumptions"
+      }
+    },
+    {
+      "id": "essay-10",
+      "title": {
+        "en-US": "X. Frederic Ozanam"
+      }
+    }
+  ]
+}
