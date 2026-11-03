@@ -1,0 +1,172 @@
+{
+  "id": "augustine-enarrationes-in-psalmos-lf-vol-5",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Expositions on the Book of Psalms, Vol. V (Psalms 102–125)",
+    "pt-BR": "Exposições sobre o Livro dos Salmos, vol. V (Salmos 102–125)"
+  },
+  "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Augustine’s Enarrationes in Psalmos in the full Oxford translation of the Library of the Fathers (volume V of the Psalms, 1853): Psalms 102–125, one chapter per psalm, with the separate expositions, sermons and discourses of a psalm as sections. The translation numbers the psalms as the English Bible does; the Vulgate number (Augustine’s own) is added to the title where it differs. This is the complete text, which the condensed NPNF version in the other book of this work abridges.",
+    "pt-BR": "As Enarrationes in Psalmos de Agostinho na tradução oxfordiana completa da Library of the Fathers (volume V dos Salmos, 1853): Salmos 102–125, um capítulo por salmo. A numeração é a da Bíblia inglesa; onde difere, o título traz o número da Vulgata, que é o de Agostinho."
+  },
+  "composed": "392-420",
+  "languages": [
+    "en-US"
+  ],
+  "work": "augustine/enarrationes-in-psalmos",
+  "editions": {
+    "en-US": {
+      "translator": "Members of the English Church (Library of the Fathers, ed. E. B. Pusey)",
+      "year": 1853
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/37ALibraryOfFathersOfTheHolyCatholicV37",
+      "edition": "Expositions on the Book of Psalms by S. Augustine, Bishop of Hippo (Library of the Fathers of the Holy Catholic Church, vol. 37; Oxford: John Henry Parker, 1853).",
+      "description": "Internet Archive scan, read from the _djvu.xml word coordinates (research/sourcing/_scripts/aug_lf.py, aug_lf_ps_build.py): marginal Scripture references, running heads, small-type notes and the volume’s front and back matter are dropped; psalm boundaries come from the printed PSALM headings, recovered in sequence where the OCR spoiled them (a psalm whose heading was lost is merged with its neighbour and titled as a range). OCR is uncorrected beyond common letter confusions and stray fragments of marginal references remain in some lines.",
+      "tier": "A",
+      "tierEvidence": "Published 1847-1857 (Library of the Fathers, Oxford); long public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ps-102",
+      "title": {
+        "en-US": "Psalm 102 (Vulgate 101)"
+      }
+    },
+    {
+      "id": "ps-103",
+      "title": {
+        "en-US": "Psalm 103 (Vulgate 102)"
+      }
+    },
+    {
+      "id": "ps-104",
+      "title": {
+        "en-US": "Psalm 104 (Vulgate 103)"
+      }
+    },
+    {
+      "id": "ps-105",
+      "title": {
+        "en-US": "Psalm 105 (Vulgate 104)"
+      }
+    },
+    {
+      "id": "ps-106",
+      "title": {
+        "en-US": "Psalm 106 (Vulgate 105)"
+      }
+    },
+    {
+      "id": "ps-107-108",
+      "title": {
+        "en-US": "Psalms 107–108 (Vulgate 106–107)"
+      }
+    },
+    {
+      "id": "ps-109",
+      "title": {
+        "en-US": "Psalm 109 (Vulgate 108)"
+      }
+    },
+    {
+      "id": "ps-110",
+      "title": {
+        "en-US": "Psalm 110 (Vulgate 109)"
+      }
+    },
+    {
+      "id": "ps-111",
+      "title": {
+        "en-US": "Psalm 111 (Vulgate 110)"
+      }
+    },
+    {
+      "id": "ps-112",
+      "title": {
+        "en-US": "Psalm 112 (Vulgate 111)"
+      }
+    },
+    {
+      "id": "ps-113",
+      "title": {
+        "en-US": "Psalm 113 (Vulgate 112)"
+      }
+    },
+    {
+      "id": "ps-114-115",
+      "title": {
+        "en-US": "Psalms 114–115 (Vulgate 113)"
+      }
+    },
+    {
+      "id": "ps-116",
+      "title": {
+        "en-US": "Psalm 116 (Vulgate 114–115)"
+      }
+    },
+    {
+      "id": "ps-117",
+      "title": {
+        "en-US": "Psalm 117 (Vulgate 116)"
+      }
+    },
+    {
+      "id": "ps-118",
+      "title": {
+        "en-US": "Psalm 118 (Vulgate 117)"
+      }
+    },
+    {
+      "id": "ps-119",
+      "title": {
+        "en-US": "Psalm 119 (Vulgate 118)"
+      }
+    },
+    {
+      "id": "ps-120",
+      "title": {
+        "en-US": "Psalm 120 (Vulgate 119)"
+      }
+    },
+    {
+      "id": "ps-121",
+      "title": {
+        "en-US": "Psalm 121 (Vulgate 120)"
+      }
+    },
+    {
+      "id": "ps-122",
+      "title": {
+        "en-US": "Psalm 122 (Vulgate 121)"
+      }
+    },
+    {
+      "id": "ps-123",
+      "title": {
+        "en-US": "Psalm 123 (Vulgate 122)"
+      }
+    },
+    {
+      "id": "ps-124",
+      "title": {
+        "en-US": "Psalm 124 (Vulgate 123)"
+      }
+    },
+    {
+      "id": "ps-125",
+      "title": {
+        "en-US": "Psalm 125 (Vulgate 124)"
+      }
+    }
+  ]
+}
