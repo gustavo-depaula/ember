@@ -1,0 +1,196 @@
+{
+  "id": "john-of-the-cross-poesias-lewis",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Poems (English verse)",
+    "pt-BR": "Poesias (versão inglesa em verso)"
+  },
+  "author": {
+    "es-ES": "San Juan de la Cruz",
+    "en-US": "St. John of the Cross",
+    "pt-BR": "São João da Cruz"
+  },
+  "description": {
+    "en-US": "The poems of St. John of the Cross in the English verse of the 1912-1919 Lewis/Zimmerman volume (the Dark Night, the Song of the Soul and the Bridegroom, the Living Flame, the Ecstasy, the Creation, the Incarnation, Super Flumina Babylonis and others, with a second group of translations of the Spanish songs). The English is a different selection and division from Silverio's Spanish Poesias, so it is its own book. Verse translators are not named in the scan's poems section.",
+    "pt-BR": "Os poemas de São João da Cruz em verso inglês, do volume de Lewis e Zimmerman (1912-1919)."
+  },
+  "composed": "1568–1591",
+  "languages": [
+    "en-US"
+  ],
+  "work": "john-of-the-cross/poesias",
+  "editions": {
+    "en-US": {
+      "translator": "Various (David Lewis and Benedict Zimmerman edition)",
+      "year": 1919
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/johnofthecross00johnuoft",
+      "edition": "The Living Flame of Love, with his Letters, Poems and Minor Writings, translated by David Lewis, with corrections and an introduction by Benedict Zimmerman, O.C.D., London: Thomas Baker, 1919 (first edition 1912). Internet Archive scan johnofthecross00johnuoft (University of Toronto).",
+      "description": "Poems section of the volume, pp. 251-310. The scan is the best of the three; page headings, page numbers and footnotes are dropped, line-break hyphens joined, and isolated recognition slips may remain.",
+      "tier": "A",
+      "tierEvidence": "Published 1919, before 1930; public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "p01",
+      "title": {
+        "en-US": "The Dark Night"
+      }
+    },
+    {
+      "id": "p02",
+      "title": {
+        "en-US": "Song of the Soul and Its Bridegroom"
+      }
+    },
+    {
+      "id": "p03",
+      "title": {
+        "en-US": "The Living Flame of Love"
+      }
+    },
+    {
+      "id": "p04",
+      "title": {
+        "en-US": "A Soul Longing for the Vision of God"
+      }
+    },
+    {
+      "id": "p05",
+      "title": {
+        "en-US": "Ecstasy of Contemplation"
+      }
+    },
+    {
+      "id": "p06",
+      "title": {
+        "en-US": "Ecstasy of Contemplation (second poem)"
+      }
+    },
+    {
+      "id": "p07",
+      "title": {
+        "en-US": "God the Supreme Good"
+      }
+    },
+    {
+      "id": "p08",
+      "title": {
+        "en-US": "God the Supreme Good (second poem)"
+      }
+    },
+    {
+      "id": "p09",
+      "title": {
+        "en-US": "Song of the Soul Rejoicing in the Knowledge of God by Faith"
+      }
+    },
+    {
+      "id": "p10",
+      "title": {
+        "en-US": "Song of Christ and the Soul"
+      }
+    },
+    {
+      "id": "p11",
+      "title": {
+        "en-US": "The Communication of the Three Persons"
+      }
+    },
+    {
+      "id": "p12",
+      "title": {
+        "en-US": "The Creation"
+      }
+    },
+    {
+      "id": "p13",
+      "title": {
+        "en-US": "The Creation (second poem)"
+      }
+    },
+    {
+      "id": "p14",
+      "title": {
+        "en-US": "The Desires of the Holy Fathers"
+      }
+    },
+    {
+      "id": "p15",
+      "title": {
+        "en-US": "The Desires of the Holy Fathers (second poem)"
+      }
+    },
+    {
+      "id": "p16",
+      "title": {
+        "en-US": "The Incarnation"
+      }
+    },
+    {
+      "id": "p17",
+      "title": {
+        "en-US": "The Incarnation (second poem)"
+      }
+    },
+    {
+      "id": "p18",
+      "title": {
+        "en-US": "The Nativity"
+      }
+    },
+    {
+      "id": "p19",
+      "title": {
+        "en-US": "Super Flumina Babylonis"
+      }
+    },
+    {
+      "id": "p20",
+      "title": {
+        "en-US": "Song I: The Soul's Craving"
+      }
+    },
+    {
+      "id": "p21",
+      "title": {
+        "en-US": "Song II: The Exiled Soul"
+      }
+    },
+    {
+      "id": "p22",
+      "title": {
+        "en-US": "Song III: Desolation"
+      }
+    },
+    {
+      "id": "p23",
+      "title": {
+        "en-US": "The Dark Night (second version)"
+      }
+    },
+    {
+      "id": "p24",
+      "title": {
+        "en-US": "Oh Sweet Dark Night"
+      }
+    },
+    {
+      "id": "p25",
+      "title": {
+        "en-US": "The Soul's Desire to Be with Christ"
+      }
+    },
+    {
+      "id": "p26",
+      "title": {
+        "en-US": "Ecstasy (Entró el alma en olvido)"
+      }
+    }
+  ]
+}
