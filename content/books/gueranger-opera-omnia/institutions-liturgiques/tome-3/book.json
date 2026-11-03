@@ -1,0 +1,126 @@
+{
+  "id": "gueranger-institutions-liturgiques-3",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Institutions liturgiques, tome III : Les livres de la Liturgie",
+    "en-US": "Liturgical Institutions, Volume III: The Books of the Liturgy",
+    "pt-BR": "Instituições litúrgicas, tomo III: Os livros da Liturgia"
+  },
+  "author": {
+    "fr-FR": "Prosper Guéranger",
+    "en-US": "Prosper Guéranger",
+    "pt-BR": "Prosper Guéranger"
+  },
+  "description": {
+    "fr-FR": "Troisième volume de la seconde édition : préface, deuxième partie (Les livres de la Liturgie, chapitres I-VIII : importance, antiquité, langue, traduction, publication et correction, manuscrits et imprimés, ornements) et Lettre à Mgr l’archevêque de Reims sur le droit de la Liturgie.",
+    "en-US": "Third volume of the second edition: preface, second part (The books of the Liturgy, chapters I-VIII: importance, antiquity, language, translation, publication and correction, manuscripts and printed books, ornaments) and the Letter to the Archbishop of Rheims on the right of the Liturgy.",
+    "pt-BR": "Terceiro volume da segunda edição: prefácio, segunda parte (Os livros da Liturgia, capítulos I-VIII: importância, antiguidade, língua, tradução, publicação e correção, manuscritos e impressos, ornamentos) e Carta ao arcebispo de Reims sobre o direito da Liturgia."
+  },
+  "composed": "1840-1851",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/institutions-liturgiques",
+  "editions": {
+    "fr-FR": {
+      "editor": "Société générale de librairie catholique, Victor Palmé (Paris)",
+      "year": 1883
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/institutionslitu0003vari",
+      "edition": "Institutions liturgiques, 2nd ed., tome III, Paris, Société générale de librairie catholique, Palmé",
+      "description": "archive.org OCR (djvu.xml word coordinates used to drop running heads, marginal notes and page-foot notes from the body; page-foot notes became footnotes where their markers could be matched; the chapter notes stay as the closing section of each chapter). Raw OCR text in sources/french-originals.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; text first published in his lifetime (1840-1851) and reprinted by 1885."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "fr-FR": "Préface"
+      }
+    },
+    {
+      "id": "chapitre-01",
+      "title": {
+        "fr-FR": "Deuxième partie. Chapitre I. Importance des livres de la Liturgie dans l’étude de la science liturgique"
+      }
+    },
+    {
+      "id": "chapitre-02",
+      "title": {
+        "fr-FR": "Chapitre II. De l’antiquité des livres liturgiques"
+      }
+    },
+    {
+      "id": "chapitre-03-1",
+      "title": {
+        "fr-FR": "Chapitre III. De la langue des livres liturgiques (partie 1)"
+      }
+    },
+    {
+      "id": "chapitre-03-2",
+      "title": {
+        "fr-FR": "Chapitre III. De la langue des livres liturgiques (partie 2)"
+      }
+    },
+    {
+      "id": "chapitre-04",
+      "title": {
+        "fr-FR": "Chapitre IV. De la traduction des livres liturgiques en langue vulgaire"
+      }
+    },
+    {
+      "id": "chapitre-05",
+      "title": {
+        "fr-FR": "Chapitre V. De la publication et de la correction des livres liturgiques"
+      }
+    },
+    {
+      "id": "chapitre-06",
+      "title": {
+        "fr-FR": "Chapitre VI. Des livres liturgiques avant l’invention de l’imprimerie"
+      }
+    },
+    {
+      "id": "chapitre-07",
+      "title": {
+        "fr-FR": "Chapitre VII. Des livres liturgiques depuis l’invention de l’imprimerie"
+      }
+    },
+    {
+      "id": "chapitre-08-1",
+      "title": {
+        "fr-FR": "Chapitre VIII. Ornements intérieurs et extérieurs des livres liturgiques (partie 1)"
+      }
+    },
+    {
+      "id": "chapitre-08-2",
+      "title": {
+        "fr-FR": "Chapitre VIII. Ornements intérieurs et extérieurs des livres liturgiques (partie 2)"
+      }
+    },
+    {
+      "id": "lettre-archeveque-reims-1",
+      "title": {
+        "fr-FR": "Lettre à Monseigneur l’archevêque de Rheims sur le droit de la Liturgie (partie 1)"
+      }
+    },
+    {
+      "id": "lettre-archeveque-reims-2",
+      "title": {
+        "fr-FR": "Lettre à Monseigneur l’archevêque de Rheims sur le droit de la Liturgie (partie 2)"
+      }
+    },
+    {
+      "id": "lettre-archeveque-reims-3",
+      "title": {
+        "fr-FR": "Lettre à Monseigneur l’archevêque de Rheims sur le droit de la Liturgie (partie 3)"
+      }
+    }
+  ]
+}
