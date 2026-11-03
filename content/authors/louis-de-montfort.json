@@ -8,5 +8,95 @@
   "matches": [
     "St. Louis-Marie Grignion de Montfort",
     "St. Louis de Montfort"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "montfort-true-devotion",
+          "why": {
+            "en-US": "The treatise on Marian consecration",
+            "pt-BR": "O tratado sobre a consagração mariana"
+          }
+        },
+        {
+          "work": "montfort-secret-mary",
+          "why": {
+            "en-US": "The secret of holiness through Mary",
+            "pt-BR": "O segredo da santidade por Maria"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Wisdom and the Rosary",
+        "pt-BR": "A Sabedoria e o Rosário"
+      },
+      "works": [
+        {
+          "work": "montfort-love-wisdom",
+          "why": {
+            "en-US": "On seeking divine Wisdom, incarnate in Jesus Christ",
+            "pt-BR": "Sobre buscar a Sabedoria divina, encarnada em Jesus Cristo"
+          }
+        },
+        {
+          "work": "montfort-secret-rosary",
+          "why": {
+            "en-US": "A guide to the Rosary, its mysteries and fruits",
+            "pt-BR": "Um guia do Rosário, seus mistérios e frutos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Exhortation and prayer",
+        "pt-BR": "Exortação e oração"
+      },
+      "works": [
+        {
+          "work": "montfort-friends-cross",
+          "why": {
+            "en-US": "Letter to the Friends of the Cross, 1714",
+            "pt-BR": "Carta aos Amigos da Cruz, 1714"
+          }
+        },
+        {
+          "work": "montfort-ardent-prayer",
+          "why": {
+            "en-US": "Prayer for a company of missionaries, 1713",
+            "pt-BR": "Oração por uma companhia de missionários, 1713"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Rule and letters",
+        "pt-BR": "Regra e cartas"
+      },
+      "works": [
+        {
+          "work": "montfort-missionary-rules",
+          "why": {
+            "en-US": "Rule of the missionary priests, 1713",
+            "pt-BR": "Regra dos padres missionários, 1713"
+          }
+        },
+        {
+          "work": "montfort/lettres",
+          "why": {
+            "en-US": "Eight letters and his Testament",
+            "pt-BR": "Oito cartas e seu Testamento"
+          }
+        }
+      ]
+    }
   ]
 }
