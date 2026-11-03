@@ -1,0 +1,99 @@
+{
+  "id": "bossuet-sermons-great-french-sermons",
+  "cover": "classic",
+  "name": {
+    "en-US": "Sermons, from Great French Sermons",
+    "pt-BR": "Sermões, de Great French Sermons"
+  },
+  "author": {
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "en-US": "Ten sermons of Bossuet in English, from the 1919 anthology Great French Sermons: the Exaltation of the Cross, the Resurrection, the Letter and the Spirit, the true spirit of Christianity, the divinity of the Christian religion, the Blessed Trinity, the dignity of the poor, ambition, the law of God and the uplifting of the soul.",
+    "pt-BR": "Dez sermões de Bossuet em inglês, da antologia Great French Sermons (1919): a Exaltação da Cruz, a Ressurreição, a letra e o espírito, o verdadeiro espírito do cristianismo, a divindade da religião cristã, a Santíssima Trindade, a dignidade dos pobres, a ambição, a lei de Deus e a elevação da alma."
+  },
+  "composed": 1665,
+  "languages": [
+    "en-US"
+  ],
+  "work": "bossuet/sermons",
+  "editions": {
+    "en-US": {
+      "editor": "D. O'Mahony, ed. (London: Sands, 1919)",
+      "year": 1919
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/greatfrenchsermo0000bour",
+      "edition": "Great French Sermons from Bossuet, Bourdaloue and Massillon, ed. D. O'Mahony (1919), Internet Archive full-text OCR; Bossuet's sermons only (some are abridged or exordia).",
+      "description": "Only the Bossuet sermons of the anthology; those of Bourdaloue and Massillon are left out. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Jacques-Bénigne Bossuet died in 1704 and the edition is of 1919, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "The Exaltation of the Cross"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "The Resurrection of Jesus Christ"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "The Letter and the Spirit"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "The True Spirit of Christianity"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "The Divinity of the Christian Religion"
+      }
+    },
+    {
+      "id": "chapter-06",
+      "title": {
+        "en-US": "The Blessed Trinity"
+      }
+    },
+    {
+      "id": "chapter-07",
+      "title": {
+        "en-US": "The Dignity of the Poor"
+      }
+    },
+    {
+      "id": "chapter-08",
+      "title": {
+        "en-US": "Ambition"
+      }
+    },
+    {
+      "id": "chapter-09",
+      "title": {
+        "en-US": "The Law of God"
+      }
+    },
+    {
+      "id": "chapter-10",
+      "title": {
+        "en-US": "Uplifting of the Soul"
+      }
+    }
+  ]
+}
