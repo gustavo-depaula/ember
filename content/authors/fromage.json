@@ -9,5 +9,22 @@
     "Fromage, Lucien",
     "Dom Lucien Fromage",
     "Dom Fromage"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "The Liturgical Year",
+        "pt-BR": "O Ano Litúrgico"
+      },
+      "works": [
+        {
+          "work": "gueranger/annee-liturgique",
+          "why": {
+            "en-US": "The French continuation, Time after Pentecost",
+            "pt-BR": "A continuação francesa, Tempo depois de Pentecostes"
+          }
+        }
+      ]
+    }
   ]
 }
