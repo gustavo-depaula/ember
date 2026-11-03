@@ -7,5 +7,339 @@
   "saint": "john_chrysostom",
   "matches": [
     "John Chrysostom"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "Three short books that show the preacher, the pastor and the teacher.",
+        "pt-BR": "Três livros curtos que mostram o pregador, o pastor e o mestre."
+      },
+      "works": [
+        {
+          "work": "john-chrysostom-priesthood",
+          "why": {
+            "en-US": "His dialogue on the priestly office, the most read of his books",
+            "pt-BR": "Seu diálogo sobre o ofício sacerdotal, o mais lido de seus livros"
+          }
+        },
+        {
+          "work": "john-chrysostom-instructions-to-catechumens",
+          "why": {
+            "en-US": "Baptismal instructions to those about to enter the Church",
+            "pt-BR": "Instruções batismais a quem está prestes a entrar na Igreja"
+          }
+        },
+        {
+          "work": "john-chrysostom-letter-to-a-young-widow",
+          "why": {
+            "en-US": "A letter of consolation on grief and trust in providence",
+            "pt-BR": "Uma carta de consolo sobre o luto e a confiança na providência"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Great series on the Gospels",
+        "pt-BR": "Grandes séries sobre os Evangelhos"
+      },
+      "note": {
+        "en-US": "His verse-by-verse preaching on Matthew and John.",
+        "pt-BR": "Suas pregações versículo a versículo sobre Mateus e João."
+      },
+      "works": [
+        {
+          "work": "john-chrysostom-homilies-on-the-gospel-of-st-matthew",
+          "why": {
+            "en-US": "Sermons on the whole Gospel, the largest set he left",
+            "pt-BR": "Sermões sobre todo o Evangelho, o maior conjunto que deixou"
+          }
+        },
+        {
+          "work": "john-chrysostom-homilies-on-the-gospel-of-john",
+          "why": {
+            "en-US": "Sermons on the fourth Gospel, from the prologue onward",
+            "pt-BR": "Sermões sobre o quarto Evangelho, a partir do prólogo"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Homilies on the Pauline epistles",
+        "pt-BR": "Homilias sobre as epístolas paulinas"
+      },
+      "note": {
+        "en-US": "Chrysostom's chief legacy as an interpreter of Paul, roughly in the order of the epistles.",
+        "pt-BR": "O principal legado de Crisóstomo como intérprete de Paulo, quase na ordem das epístolas."
+      },
+      "works": [
+        {
+          "work": "john-chrysostom-homilies-on-romans",
+          "why": {
+            "en-US": "Sermons on Paul's greatest letter",
+            "pt-BR": "Sermões sobre a maior carta de Paulo"
+          }
+        },
+        {
+          "work": "john-chrysostom-homilies-on-first-corinthians",
+          "why": {
+            "en-US": "Sermons on Corinth: unity, charity, the Eucharist",
+            "pt-BR": "Sermões sobre Corinto: unidade, caridade, Eucaristia"
+          }
+        },
+        {
+          "work": "john-chrysostom-homilies-on-second-corinthians",
+          "why": {
+            "en-US": "Sermons on Paul's ministry and his trials",
+            "pt-BR": "Sermões sobre o ministério de Paulo e suas provações"
+          }
+        },
+        {
+          "work": "john-chrysostom-commentary-on-galatians",
+          "why": {
+            "en-US": "A continuous commentary rather than a set of sermons",
+            "pt-BR": "Um comentário contínuo, e não uma série de sermões"
+          }
+        },
+        {
+          "work": "john-chrysostom-homilies-on-ephesians",
+          "why": {
+            "en-US": "Sermons on the Church as the body of Christ",
+            "pt-BR": "Sermões sobre a Igreja como corpo de Cristo"
+          }
+        },
+        {
+          "work": "john-chrysostom-homilies-on-philippians",
+          "why": {
+            "en-US": "Sermons on joy and humility in Christ",
+            "pt-BR": "Sermões sobre a alegria e a humildade em Cristo"
+          }
+        },
+        {
+          "work": "john-chrysostom-homilies-on-colossians",
+          "why": {
+            "en-US": "Sermons on Christ's primacy and the Christian life",
+            "pt-BR": "Sermões sobre o primado de Cristo e a vida cristã"
+          }
+        },
+        {
+          "work": "john-chrysostom-homilies-on-first-thessalonians",
+          "why": {
+            "en-US": "Sermons on hope for the dead and watchfulness",
+            "pt-BR": "Sermões sobre a esperança nos mortos e a vigilância"
+          }
+        },
+        {
+          "work": "john-chrysostom-homilies-on-second-thessalonians",
+          "why": {
+            "en-US": "Short sermons on the coming of the Lord",
+            "pt-BR": "Sermões curtos sobre a vinda do Senhor"
+          }
+        },
+        {
+          "work": "john-chrysostom-homilies-on-first-timothy",
+          "why": {
+            "en-US": "Sermons on the duties of pastors and flock",
+            "pt-BR": "Sermões sobre os deveres de pastores e rebanho"
+          }
+        },
+        {
+          "work": "john-chrysostom-homilies-on-second-timothy",
+          "why": {
+            "en-US": "Sermons on Paul's last letter, written in prison",
+            "pt-BR": "Sermões sobre a última carta de Paulo, escrita na prisão"
+          }
+        },
+        {
+          "work": "john-chrysostom-homilies-on-titus",
+          "why": {
+            "en-US": "Sermons on Christian conduct in a pagan city",
+            "pt-BR": "Sermões sobre a conduta cristã numa cidade pagã"
+          }
+        },
+        {
+          "work": "john-chrysostom-homilies-on-philemon",
+          "why": {
+            "en-US": "Sermons on the slave Onesimus and brotherhood",
+            "pt-BR": "Sermões sobre o escravo Onésimo e a fraternidade"
+          }
+        },
+        {
+          "work": "john-chrysostom-homilies-on-the-epistle-to-the-hebrews",
+          "why": {
+            "en-US": "Sermons on Christ's priesthood and sacrifice",
+            "pt-BR": "Sermões sobre o sacerdócio e o sacrifício de Cristo"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Acts of the Apostles",
+        "pt-BR": "Atos dos Apóstolos"
+      },
+      "works": [
+        {
+          "work": "john-chrysostom-homilies-on-acts",
+          "why": {
+            "en-US": "Sermons on the first years of the Church",
+            "pt-BR": "Sermões sobre os primeiros anos da Igreja"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Homilies for the faithful",
+        "pt-BR": "Homilias para os fiéis"
+      },
+      "note": {
+        "en-US": "Single sermons on forgiveness, humility, suffering and the devil.",
+        "pt-BR": "Sermões avulsos sobre perdão, humildade, sofrimento e o demônio."
+      },
+      "works": [
+        {
+          "work": "john-chrysostom-homily-on-the-passage-if-your-enemy-hunger-feed-him",
+          "why": {
+            "en-US": "On loving and forgiving one's enemies",
+            "pt-BR": "Sobre amar e perdoar os inimigos"
+          }
+        },
+        {
+          "work": "john-chrysostom-homily-concerning-lowliness-of-mind",
+          "why": {
+            "en-US": "On humility of mind",
+            "pt-BR": "Sobre a humildade de espírito"
+          }
+        },
+        {
+          "work": "john-chrysostom-homily-on-the-passage-father-if-it-be-possible",
+          "why": {
+            "en-US": "On Christ's prayer in Gethsemane",
+            "pt-BR": "Sobre a oração de Cristo no Getsêmani"
+          }
+        },
+        {
+          "work": "john-chrysostom-homily-on-the-paralytic-lowered-through-the-roof",
+          "why": {
+            "en-US": "On the paralytic and his friends",
+            "pt-BR": "Sobre o paralítico e seus amigos"
+          }
+        },
+        {
+          "work": "john-chrysostom-homily-against-publishing-the-errors-of-the-brethren",
+          "why": {
+            "en-US": "On not exposing the faults of others",
+            "pt-BR": "Sobre não divulgar as faltas dos outros"
+          }
+        },
+        {
+          "work": "john-chrysostom-three-homilies-on-the-power-of-satan",
+          "why": {
+            "en-US": "Three sermons on the devil and his limits",
+            "pt-BR": "Três sermões sobre o demônio e seus limites"
+          }
+        },
+        {
+          "work": "john-chrysostom-no-one-can-harm-the-man-who-does-not-injure-himself",
+          "why": {
+            "en-US": "On why suffering cannot harm the just",
+            "pt-BR": "Sobre por que o sofrimento não prejudica o justo"
+          }
+        },
+        {
+          "work": "john-chrysostom-homily-on-st-ignatius",
+          "why": {
+            "en-US": "In praise of the martyr bishop of Antioch",
+            "pt-BR": "Em louvor do bispo mártir de Antioquia"
+          }
+        },
+        {
+          "work": "john-chrysostom-homily-on-st-babylas",
+          "why": {
+            "en-US": "In praise of the martyr Babylas",
+            "pt-BR": "Em louvor do mártir Bábilas"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Sermons of crisis",
+        "pt-BR": "Sermões de crise"
+      },
+      "note": {
+        "en-US": "Preached in Antioch and Constantinople at moments of public fear.",
+        "pt-BR": "Pregados em Antioquia e Constantinopla em momentos de temor público."
+      },
+      "works": [
+        {
+          "work": "john-chrysostom-homilies-on-the-statues",
+          "why": {
+            "en-US": "Antioch under imperial wrath after the statues",
+            "pt-BR": "Antioquia sob a ira imperial depois das estátuas"
+          }
+        },
+        {
+          "work": "john-chrysostom-first-homily-on-eutropius",
+          "why": {
+            "en-US": "On the fall of the all-powerful minister",
+            "pt-BR": "Sobre a queda do todo-poderoso ministro"
+          }
+        },
+        {
+          "work": "john-chrysostom-second-homily-on-eutropius",
+          "why": {
+            "en-US": "Preached after Eutropius' captivity",
+            "pt-BR": "Pregada depois da captura de Eutrópio"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Letters",
+        "pt-BR": "Cartas"
+      },
+      "note": {
+        "en-US": "Written in exile, to friends and to the Pope.",
+        "pt-BR": "Escritas no exílio, a amigos e ao Papa."
+      },
+      "works": [
+        {
+          "work": "john-chrysostom-four-letters-to-olympias",
+          "why": {
+            "en-US": "Letters of comfort to a friend, from exile",
+            "pt-BR": "Cartas de consolo a uma amiga, do exílio"
+          }
+        },
+        {
+          "work": "john-chrysostom-two-letters-to-theodore-after-his-fall",
+          "why": {
+            "en-US": "Letters urging a fallen monk to return",
+            "pt-BR": "Cartas exortando um monge caído a voltar"
+          }
+        },
+        {
+          "work": "john-chrysostom-correspondence-with-pope-innocent-i",
+          "why": {
+            "en-US": "His appeal to Rome and the Pope's reply",
+            "pt-BR": "Seu apelo a Roma e a resposta do Papa"
+          }
+        },
+        {
+          "work": "john-chrysostom-letter-to-some-priests-of-antioch",
+          "why": {
+            "en-US": "A very short note to the clergy of Antioch",
+            "pt-BR": "Um bilhete muito breve ao clero de Antioquia"
+          }
+        }
+      ]
+    }
   ]
 }
