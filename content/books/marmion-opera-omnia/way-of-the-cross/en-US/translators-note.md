@@ -1,0 +1,3 @@
+# Translator’s Note
+
+THE publication of the little book, of which this is a translation, almost coincided with the death of Abbot Columba Marmion. That this should have been so appears both very appropriate and touching to those who know the great devotion he had to the ‘Way of the Cross.” He made this exercise every day, even when travelling. Shortly before his holy death, which took place on January 30th in this present year 1923, he asked for his little pocket ‘‘ Way of the Cross,” indulgenced by His Holiness Benedict XV., and composed of fourteen metal plaques, folding one upon another, upon which were engraved the scenes of the Passion.

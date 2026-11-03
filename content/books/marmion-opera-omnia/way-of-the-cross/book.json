@@ -1,0 +1,146 @@
+{
+  "id": "marmion-way-of-the-cross",
+  "name": {
+    "en-US": "The Way of the Cross: Its Efficacy and Practice",
+    "pt-BR": "A Via-Sacra: sua eficácia e prática"
+  },
+  "author": {
+    "en-US": "Bl. Columba Marmion",
+    "pt-BR": "Bem-aventurado Columba Marmion"
+  },
+  "description": {
+    "en-US": "A short treatise on the devotion of the Stations of the Cross, with a meditation on each of the fourteen stations. Extracted from Christ in His Mysteries (conference XIV), it appeared in 1923 almost at the abbot’s death; he said the Way of the Cross every day. English only: no open French text exists.",
+    "pt-BR": "Breve tratado sobre a devoção da Via-Sacra, com uma meditação sobre cada uma das catorze estações. Extraído de «Le Christ dans ses mystères» (conferência XIV), apareceu em 1923, quase na morte do abade, que a rezava todos os dias."
+  },
+  "composed": "1923",
+  "languages": [
+    "en-US"
+  ],
+  "work": "marmion/chemin-de-la-croix",
+  "editions": {
+    "en-US": {
+      "translator": "A Nun of Tyburn Convent",
+      "year": 1923
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/wayofcrossitserr0000rtre",
+      "edition": "The Way of the Cross, its Efficacy and Practice, Edinburgh/London: Sands, 1923 (imprimatur Edinburgh 9 May 1923). Internet Archive scan, OCR text.",
+      "description": "Translator’s note, foreword, the treatise and the fourteen stations. The edition omits the scripture-reference footnotes. The French (Maredsous, 1923) has no open text.",
+      "tier": "A",
+      "tierEvidence": "Anonymous translation published 1923: public domain in the US (before 1931) and, as an anonymous work, in Brazil and the EU."
+    }
+  ],
+  "toc": [
+    {
+      "id": "translators-note",
+      "title": {
+        "en-US": "Translator’s Note"
+      }
+    },
+    {
+      "id": "foreword",
+      "title": {
+        "en-US": "Foreword"
+      }
+    },
+    {
+      "id": "efficacy",
+      "title": {
+        "en-US": "The Efficacy of the Way of the Cross"
+      }
+    },
+    {
+      "id": "exercise",
+      "title": {
+        "en-US": "The Exercise of the Way of the Cross"
+      }
+    },
+    {
+      "id": "station-01",
+      "title": {
+        "en-US": "I. Jesus is condemned to death by Pilate"
+      }
+    },
+    {
+      "id": "station-02",
+      "title": {
+        "en-US": "II. Jesus is laden with His Cross"
+      }
+    },
+    {
+      "id": "station-03",
+      "title": {
+        "en-US": "III. Jesus falls the first time under the weight of His Cross"
+      }
+    },
+    {
+      "id": "station-04",
+      "title": {
+        "en-US": "IV. Jesus meets His Holy Mother"
+      }
+    },
+    {
+      "id": "station-05",
+      "title": {
+        "en-US": "V. Simon the Cyrenean helps Jesus to carry His Cross"
+      }
+    },
+    {
+      "id": "station-06",
+      "title": {
+        "en-US": "VI. A woman wipes the face of Jesus"
+      }
+    },
+    {
+      "id": "station-07",
+      "title": {
+        "en-US": "VII. Jesus falls the second time"
+      }
+    },
+    {
+      "id": "station-08",
+      "title": {
+        "en-US": "VIII. Jesus speaks to the women of Jerusalem"
+      }
+    },
+    {
+      "id": "station-09",
+      "title": {
+        "en-US": "IX. Jesus falls for the third time"
+      }
+    },
+    {
+      "id": "station-10",
+      "title": {
+        "en-US": "X. Jesus is stripped of His garments"
+      }
+    },
+    {
+      "id": "station-11",
+      "title": {
+        "en-US": "XI. Jesus is nailed to the Cross"
+      }
+    },
+    {
+      "id": "station-12",
+      "title": {
+        "en-US": "XII. Jesus dies upon the Cross"
+      }
+    },
+    {
+      "id": "station-13",
+      "title": {
+        "en-US": "XIII. The body of Jesus is taken down from the Cross"
+      }
+    },
+    {
+      "id": "station-14",
+      "title": {
+        "en-US": "XIV. Jesus is laid in the Sepulchre"
+      }
+    }
+  ]
+}
