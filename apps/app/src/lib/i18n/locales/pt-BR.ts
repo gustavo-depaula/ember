@@ -1876,6 +1876,7 @@ export default {
   a11y: {
     otherEditions: 'Mostrar as outras edições deste livro',
     openEdition: 'Abrir a edição: {{edition}}',
+    openArticle: 'Ler o artigo inteiro na Enciclopédia Católica',
     openShelfItem: 'Abrir {{name}}',
     addToRule: 'Acrescentar {{name}} à regra',
     inRule: '{{name}}, na regra',

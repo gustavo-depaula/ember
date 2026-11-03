@@ -36,3 +36,23 @@ export async function loadSaintLife(chapter: string, lang: string): Promise<Sain
     (await loadBookChapterText(livesBook, chapter, 'en-US'))
   return text ? splitLife(text) : undefined
 }
+
+export const encyclopediaBook = 'catholic-encyclopedia'
+
+/**
+ * A Catholic Encyclopedia article, as a card's About shows it: its first
+ * paragraph, and how long the whole article takes, for the link to the rest.
+ * The article opens with its title and a one-line summary in italics, which
+ * the first paragraph repeats; both come off. English only, as the book is.
+ */
+export async function loadEncyclopediaArticle(chapter: string): Promise<SaintLife | undefined> {
+  const text = await loadBookChapterText(encyclopediaBook, chapter, 'en-US')
+  if (!text) return undefined
+  const blocks = text
+    .split(/\n{2,}/)
+    .map((b) => b.trim())
+    .filter((b) => b && !b.startsWith('#') && !/^\*[^*].*\*$/.test(b))
+  if (blocks.length === 0) return undefined
+  const words = blocks.join(' ').split(/\s+/).length
+  return { opening: blocks[0], minutes: Math.max(1, Math.round(words / 200)) }
+}

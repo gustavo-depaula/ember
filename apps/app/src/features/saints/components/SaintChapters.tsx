@@ -14,6 +14,7 @@ import { CardRow } from '@/features/explore/CardRow'
 import { practiceHref } from '@/features/practices/practiceHref'
 import { localizeContent } from '@/lib/i18n'
 import type { ContentShelf, SaintEntry } from '../data/catalog'
+import { encyclopediaBook } from '../data/saintLife'
 import type { useSaintCollect } from '../useSaintCollect'
 import type { useSaintLife } from '../useSaintLife'
 import { SaintCardTile } from './SaintCardTile'
@@ -24,15 +25,19 @@ const livesBook = 'book/pictorial-lives-of-saints'
 export function LifeChapter({
   saint,
   life,
+  article,
   about,
 }: {
   saint: SaintEntry
   life: ReturnType<typeof useSaintLife>
+  article: ReturnType<typeof useSaintLife>
   about: string | undefined
 }) {
   const { t } = useTranslation()
+  const router = useRouter()
   const [open, setOpen] = useState(false)
   const book = getEntry(livesBook)?.name
+  const encyclopedia = getEntry(`book/${encyclopediaBook}`)?.name
 
   return (
     <YStack gap="$md">
@@ -52,6 +57,25 @@ export function LifeChapter({
             </Typography>
           </AnimatedPressable>
         ))}
+      {!life && article && saint.encyclopedia && (
+        <>
+          <ProseBlock text={{ primary: article.opening }} />
+          <AnimatedPressable
+            onPress={() =>
+              router.push({
+                pathname: '/browse/book/[bookId]/read',
+                params: { bookId: encyclopediaBook, chapter: saint.encyclopedia },
+              })
+            }
+            accessibilityRole="link"
+            accessibilityLabel={t('a11y.openArticle')}
+          >
+            <Typography variant="reference" color="$accent" fontSize="$2">
+              {t('saints.page.continueLife', { minutes: article.minutes })} ›
+            </Typography>
+          </AnimatedPressable>
+        </>
+      )}
       {saint.reflection && (
         <YStack borderLeftWidth={2} borderLeftColor="$accent" paddingLeft="$md">
           <Typography variant="interface" fontStyle="italic" fontSize="$3" lineHeight={27}>
@@ -62,6 +86,11 @@ export function LifeChapter({
       {life && book && (
         <Typography variant="caption">
           {t('saints.page.source', { book: localizeContent(book) })}
+        </Typography>
+      )}
+      {!life && article && encyclopedia && (
+        <Typography variant="caption">
+          {t('saints.page.source', { book: `${localizeContent(encyclopedia)} (1913)` })}
         </Typography>
       )}
     </YStack>

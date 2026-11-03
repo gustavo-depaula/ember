@@ -163,10 +163,11 @@ def split_languages(obj: Any) -> tuple[Any, dict[str, Any]]:
 # app fetches the whole collection at once. Only the fields the app reads ship:
 # the rest (a card's `meta` provenance trail) stays in the repo.
 DATA_COLLECTIONS = {
-    "holy-cards": {"key": "cards", "fields": ("id", "feast", "kind", "order", "shelf", "several", "name", "patronOf", "prayerExcerpt", "lifeChapter", "proper", "intro", "related")},
+    "holy-cards": {"key": "cards", "fields": ("id", "feast", "kind", "order", "shelf", "several", "name", "patronOf", "prayerExcerpt", "lifeChapter", "encyclopedia", "proper", "intro", "related")},
 }
 
 LIVES = CONTENT / "books" / "pictorial-lives-of-saints"
+ENCYCLOPEDIA = CONTENT / "books" / "catholic-encyclopedia"
 REFLECTION_RE = re.compile(r"^\*\*(?:Reflection|Reflexão)\*\*—(.+)$", re.M)
 
 
@@ -237,6 +238,10 @@ def _build_collection(pid: str, logical: str, coll_dir: Path) -> dict:
         if item.get("id") != ff.stem:
             raise SystemExit(f"practice {pid}: {ff.name} has id {item.get('id')!r}, expected {ff.stem!r}")
         kept = {k: item[k] for k in spec["fields"] if k in item}
+        # A card's About can be its Catholic Encyclopedia article: a renamed or
+        # missing chapter fails here rather than leaving the About empty.
+        if "encyclopedia" in kept and not (ENCYCLOPEDIA / "en-US" / f"{kept['encyclopedia']}.md").is_file():
+            raise SystemExit(f"practice {pid}: card {item['id']} names encyclopedia article {kept['encyclopedia']!r}, which is not in the book")
         if "related" in kept:
             _check_related(pid, item["id"], kept["related"], ids)
         # `"reflection": false` keeps the chapter but not its reflection, for a card whose

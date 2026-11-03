@@ -26,6 +26,9 @@ export type HolyCard = {
   prayerExcerpt?: LocalizedText
   /** Pictorial Lives chapter telling this saint's life. */
   lifeChapter?: string
+  /** Its article in the Catholic Encyclopedia (a chapter id of that book): the
+   *  About of a card with no life to tell, a feast, a Mass part, a vestment. */
+  encyclopedia?: string
   /** That chapter's closing reflection, copied in at corpus build. */
   reflection?: LocalizedText
   /** Id of the OF Mass formulary proper to the feast: its collect shows on the card, and Mass on it gives the card. */

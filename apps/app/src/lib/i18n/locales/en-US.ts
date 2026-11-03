@@ -1870,6 +1870,7 @@ export default {
   a11y: {
     otherEditions: 'Show the other editions of this book',
     openEdition: 'Open the edition: {{edition}}',
+    openArticle: 'Read the whole article in the Catholic Encyclopedia',
     openShelfItem: 'Open {{name}}',
     addToRule: 'Add {{name}} to your rule',
     inRule: '{{name}}, in your rule',

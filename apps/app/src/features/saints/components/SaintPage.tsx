@@ -21,7 +21,7 @@ import type { SaintEntry } from '../data/catalog'
 import { useSaintsCatalog } from '../data/catalog'
 import { useCopies } from '../data/collection'
 import { useSaintCollect } from '../useSaintCollect'
-import { useSaintLife } from '../useSaintLife'
+import { useEncyclopediaArticle, useSaintLife } from '../useSaintLife'
 import { useWaysToReceive } from '../useWaysToReceive'
 import { ReceiveChapter } from './ReceiveChapter'
 import { SaintCard, saintCardWidth } from './SaintCard'
@@ -119,6 +119,9 @@ export const SaintPage = memo(function SaintPage({
   )
   const ways = useWaysToReceive(saint)
   const life = useSaintLife(saint.lifeChapter)
+  // A card with a life tells it; one without (a feast, a Mass part, a vestment)
+  // opens its Catholic Encyclopedia article instead.
+  const article = useEncyclopediaArticle(saint.lifeChapter ? undefined : saint.encyclopedia)
   const feast = useSaintCollect(saint.proper)
 
   const chapters = (() => {
@@ -129,13 +132,16 @@ export const SaintPage = memo(function SaintPage({
       if (saint.kind || ['lord', 'lady', 'angels', 'church'].includes(saint.shelf)) return 'about'
       return saint.several ? 'lives' : 'life'
     })()
-    if (life || feast?.about || saint.reflection) {
+    if (life || article || feast?.about || saint.reflection) {
       out.push({
         key: 'life',
         title: t(`saints.page.${lifeKey}`),
         chip: t(`saints.page.chip.${lifeKey}`),
-        meta: life ? t('saints.page.minutes', { count: life.minutes }) : undefined,
-        body: <LifeChapter saint={saint} life={life} about={feast?.about} />,
+        meta: (() => {
+          const minutes = (life ?? article)?.minutes
+          return minutes ? t('saints.page.minutes', { count: minutes }) : undefined
+        })(),
+        body: <LifeChapter saint={saint} life={life} article={article} about={feast?.about} />,
       })
     }
     if (saint.pray.length > 0) {

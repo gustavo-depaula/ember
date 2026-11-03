@@ -28,6 +28,8 @@ export type SaintEntry = {
   several: boolean
   /** Pictorial Lives chapter id powering the encounter's Life slot. */
   lifeChapter?: string
+  /** Catholic Encyclopedia chapter id: the About of a card with no life. */
+  encyclopedia?: string
   reflection?: string
   /** The card's art, shown once a copy is held. */
   cardImage: ImageSource
@@ -112,6 +114,7 @@ export function buildSaintsCatalog(cards: HolyCard[] | undefined, lang: string):
       shelf: shelfOf(c),
       several: !!c.several,
       lifeChapter: c.lifeChapter,
+      encyclopedia: c.encyclopedia,
       reflection: c.reflection ? localizeContent(c.reflection) : undefined,
       cardImage: cardImage(c.id),
       cardThumb: cardThumb(c.id),

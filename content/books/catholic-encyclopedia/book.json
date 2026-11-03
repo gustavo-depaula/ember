@@ -2,7 +2,8 @@
   "id": "catholic-encyclopedia",
   "cover": "banded",
   "name": {
-    "en-US": "The Catholic Encyclopedia"
+    "en-US": "The Catholic Encyclopedia",
+    "pt-BR": "A Enciclopédia Católica"
   },
   "author": {
     "en-US": "Charles G. Herbermann, ed. (Robert Appleton Co., 1907–1914)"
