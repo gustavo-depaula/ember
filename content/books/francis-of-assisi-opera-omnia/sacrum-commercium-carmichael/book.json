@@ -1,0 +1,190 @@
+{
+  "id": "francis-sacrum-commercium-carmichael",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Lady Poverty (Sacrum commercium)",
+    "pt-BR": "A Senhora Pobreza (Sacrum commercium)"
+  },
+  "author": {
+    "la": "Auctor incertus saeculi XIII",
+    "en-US": "Anonymous (13th century)",
+    "pt-BR": "Anônimo (século XIII)"
+  },
+  "description": {
+    "en-US": "Montgomery Carmichael's English (John Murray, 1901) of the allegory of the Blessed Francis and his companions seeking and wedding Lady Poverty, written in 1227 after Francis's death: the twenty-five chapters of the translation with Carmichael's notes, the Scripture references of the margin placed in parentheses. Carmichael's chapters differ from the thirty-two of the Latin book, so it is a separate book of the same work.",
+    "pt-BR": "A tradução inglesa de Montgomery Carmichael (1901) da alegoria do bem-aventurado Francisco e seus companheiros em busca da Senhora Pobreza: os vinte e cinco capítulos, com as notas do tradutor."
+  },
+  "composed": "1227",
+  "languages": [
+    "en-US"
+  ],
+  "work": "francis/sacrum-commercium",
+  "editions": {
+    "en-US": {
+      "translator": "Montgomery Carmichael",
+      "year": 1901
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/66025",
+      "edition": "The Lady Poverty: A XIII. Century Allegory, translated and edited by Montgomery Carmichael (London: John Murray, 1901); Project Gutenberg e-text 66025.",
+      "description": "The translation only, chapters I-XXV, with Carmichael's footnotes; the introduction, Father Cuthbert's chapter on evangelical poverty and the appendices are not imported.",
+      "tier": "A",
+      "tierEvidence": "Published in 1901, before 1931: public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "en-US": "Chapter I. In Praise of Poverty"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "en-US": "Chapter II. How the Blessed Francis Made Diligent Search for the Lady Poverty"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "en-US": "Chapter III. How Two Old Men Showed the Blessed Francis Where the Might Find the Lady Poverty"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "en-US": "Chapter IV. Of the First Companions of the Blessed Francis"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "en-US": "Chapter V. How the Blessed Francis and His Companions Found the Lady Poverty on the Mountain"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "en-US": "Chapter VI. The Blessed Francis and His Companions, Exalting Her Virtues in Divers Ways, Beseech the Lady Poverty to Abide with Them Forever"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "en-US": "Chapter VII. The Answer of My Lady Poverty"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "en-US": "Chapter VIII. Of the Apostles"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "en-US": "Chapter IX. Of the Successors of the Apostles"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "en-US": "Chapter X. That Times of Peace Are Unpropitious to Poverty"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "en-US": "Chapter XI. Of Persecution"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "en-US": "Chapter XII. Of the Followers of a Spurious Poverty"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "en-US": "Chapter XIII. Of Avarice"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "en-US": "Chapter XIV. How the Lady Poverty Spoke of Good Religious"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "en-US": "Chapter XV. How Avarice Took the Name of Discretion"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "en-US": "Chapter XVI. How Avarice Took the Name of Prudence"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "en-US": "Chapter XVII. How Avarice Called in the Aid of Sloth"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "en-US": "Chapter XVIII. Of the Religious Who Were Conquered by Sloth"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "en-US": "Chapter XIX. How the Lady Poverty Sorrowed Over Certain Religious Who Were Poor in the World, and Yet More Prone Than Others to Self-indulgence in Religion"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "en-US": "Chapter XX. How the Lady Poverty Showed the Blessed Francis the Perfect Walk in the Religious Life"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "en-US": "Chapter XXI. How the Blessed Francis Made Answer to the Lady Poverty"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "en-US": "Chapter XXII. How the Lady Poverty Gave Her Consent"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "en-US": "Chapter XXIII. How the Blessed Francis Thanked God for the Consent of the Lady Poverty"
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "en-US": "Chapter XXIV. Of the Sojourn of My Lady Poverty with the Brothers"
+      }
+    },
+    {
+      "id": "c25",
+      "title": {
+        "en-US": "Chapter XXV. How My Lady Poverty Blessed the Brothers, Exhorting Them to Persevere in the Grace Which They Had Received"
+      }
+    }
+  ]
+}
