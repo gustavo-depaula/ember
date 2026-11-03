@@ -1,0 +1,485 @@
+{
+  "id": "gueranger-annee-liturgique-01-avent",
+  "name": {
+    "fr-FR": "L’Année liturgique : l’Avent",
+    "en-US": "The Liturgical Year: Advent",
+    "pt-BR": "O Ano Litúrgico: o Advento"
+  },
+  "author": {
+    "fr-FR": "Dom Prosper Guéranger",
+    "en-US": "Dom Prosper Guéranger",
+    "pt-BR": "Dom Prosper Guéranger"
+  },
+  "description": {
+    "fr-FR": "Premier volume de l’Année liturgique : la préface générale, l’histoire, le mystère et la pratique de l’Avent, les prières du matin et du soir, de la messe et des offices, puis le Propre du temps et le Propre des saints, jour après jour.",
+    "en-US": "Volume 1 of the 15-volume Liturgical Year (L’Année liturgique) in the original French: Advent. One chapter per day or feast, with the liturgical texts in Latin and French as the edition prints them.",
+    "pt-BR": "Volume 1 dos 15 volumes de «O Ano Litúrgico» (L’Année liturgique) em francês: o Advento. Um capítulo por dia ou festa, com os textos litúrgicos em latim e francês como a edição os imprime."
+  },
+  "composed": 1841,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "fr-FR": {
+      "editor": "Dom Prosper Guéranger, abbé de Solesmes (14th ed., Oudin)",
+      "year": 1900
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://domgueranger.net/preface-generale-a-lannee-liturgique/",
+      "edition": "L’Année liturgique, vol. 1, 14th ed. (Oudin, 1900)",
+      "description": "Dom Guéranger site (Societas pro canonizatione D. Guéranger), WordPress text of the 14th edition (1900). Split at each day or feast heading; verse kept as hard line breaks; footnotes renumbered per chapter.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; the text is the 19th-century edition transcribed."
+    },
+    {
+      "language": "fr-FR",
+      "url": "https://domgueranger.net/annee-liturgique-lavent-historique-mystique-pratique-et-prieres/",
+      "edition": "L’Année liturgique, vol. 1, 14th ed. (Oudin, 1900)",
+      "description": "Dom Guéranger site (Societas pro canonizatione D. Guéranger), WordPress text of the 14th edition (1900). Split at each day or feast heading; verse kept as hard line breaks; footnotes renumbered per chapter.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; the text is the 19th-century edition transcribed."
+    },
+    {
+      "language": "fr-FR",
+      "url": "https://domgueranger.net/annee-liturgique-lavent-propre-du-temps/",
+      "edition": "L’Année liturgique, vol. 1, 14th ed. (Oudin, 1900)",
+      "description": "Dom Guéranger site (Societas pro canonizatione D. Guéranger), WordPress text of the 14th edition (1900). Split at each day or feast heading; verse kept as hard line breaks; footnotes renumbered per chapter.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; the text is the 19th-century edition transcribed."
+    },
+    {
+      "language": "fr-FR",
+      "url": "https://domgueranger.net/annee-liturgique-lavent-propre-des-saints/",
+      "edition": "L’Année liturgique, vol. 1, 14th ed. (Oudin, 1900)",
+      "description": "Dom Guéranger site (Societas pro canonizatione D. Guéranger), WordPress text of the 14th edition (1900). Split at each day or feast heading; verse kept as hard line breaks; footnotes renumbered per chapter.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; the text is the 19th-century edition transcribed."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-preface-generale",
+      "title": {
+        "fr-FR": "Préface générale"
+      }
+    },
+    {
+      "id": "002-chapitre-premier-historique-de-lavent",
+      "title": {
+        "fr-FR": "Chapitre premier — Historique de l’Avent"
+      }
+    },
+    {
+      "id": "003-chapitre-ii-mystique-de-lavent",
+      "title": {
+        "fr-FR": "Chapitre II — Mystique de l’Avent"
+      }
+    },
+    {
+      "id": "004-chapitre-iii-pratique-de-lavent",
+      "title": {
+        "fr-FR": "Chapitre III — Pratique de l’Avent"
+      }
+    },
+    {
+      "id": "005-chapitre-iv-prieres-du-matin-et-du-soir-au-temps",
+      "title": {
+        "fr-FR": "Chapitre IV — Prières du matin et du soir au temps de l’Avent"
+      }
+    },
+    {
+      "id": "006-chapitre-v-de-lassistance-a-la-sainte-messe-au-t",
+      "title": {
+        "fr-FR": "Chapitre V — De l’assistance à la Sainte Messe au temps de l’Avent"
+      }
+    },
+    {
+      "id": "007-chapitre-vi-pratique-de-la-sainte-communion-au-t",
+      "title": {
+        "fr-FR": "Chapitre VI — Pratique de la Sainte Communion au temps de l’Avent"
+      }
+    },
+    {
+      "id": "008-chapitre-vii-de-loffice-des-vepres-des-dimanches",
+      "title": {
+        "fr-FR": "Chapitre VII — De l’office des vêpres des dimanches et des fêtes, au temps de l’Avent"
+      }
+    },
+    {
+      "id": "009-chapitre-viii-de-loffice-de-complies-au-temps-de",
+      "title": {
+        "fr-FR": "Chapitre VIII — De l’office de complies, au temps de l’Avent"
+      }
+    },
+    {
+      "id": "010-propre-du-temps-de-lavent",
+      "title": {
+        "fr-FR": "Propre du temps de l’Avent"
+      }
+    },
+    {
+      "id": "011-le-premier-dimanche-de-lavent",
+      "title": {
+        "fr-FR": "Le premier dimanche de l’Avent"
+      }
+    },
+    {
+      "id": "012-le-lundi-de-la-premiere-semaine-de-lavent",
+      "title": {
+        "fr-FR": "Le lundi de la première semaine de l’Avent"
+      }
+    },
+    {
+      "id": "013-le-mardi-de-la-premiere-semaine-de-lavent",
+      "title": {
+        "fr-FR": "Le mardi de la première semaine de l’Avent"
+      }
+    },
+    {
+      "id": "014-le-mercredi-de-la-premiere-semaine-de-lavent",
+      "title": {
+        "fr-FR": "Le mercredi de la première semaine de l’Avent"
+      }
+    },
+    {
+      "id": "015-le-jeudi-de-la-premiere-semaine-de-lavent",
+      "title": {
+        "fr-FR": "Le jeudi de la première semaine de l’Avent"
+      }
+    },
+    {
+      "id": "016-le-vendredi-de-la-premiere-semaine-de-lavent",
+      "title": {
+        "fr-FR": "Le vendredi de la première semaine de l’Avent"
+      }
+    },
+    {
+      "id": "017-le-samedi-de-la-premiere-semaine-de-lavent",
+      "title": {
+        "fr-FR": "Le samedi de la première semaine de l’Avent"
+      }
+    },
+    {
+      "id": "018-le-deuxieme-dimanche-de-lavent",
+      "title": {
+        "fr-FR": "Le deuxième dimanche de l’Avent"
+      }
+    },
+    {
+      "id": "019-le-lundi-de-la-deuxieme-semaine-de-lavent",
+      "title": {
+        "fr-FR": "Le lundi de la deuxième semaine de l’Avent"
+      }
+    },
+    {
+      "id": "020-le-mardi-de-la-deuxieme-semaine-de-lavent",
+      "title": {
+        "fr-FR": "Le mardi de la deuxième semaine de l’Avent"
+      }
+    },
+    {
+      "id": "021-le-mercredi-de-la-deuxieme-semaine-de-lavent",
+      "title": {
+        "fr-FR": "Le mercredi de la deuxième semaine de l’Avent"
+      }
+    },
+    {
+      "id": "022-le-jeudi-de-la-deuxieme-semaine-de-lavent",
+      "title": {
+        "fr-FR": "Le jeudi de la deuxième semaine de l’Avent"
+      }
+    },
+    {
+      "id": "023-le-vendredi-de-la-deuxieme-semaine-de-lavent",
+      "title": {
+        "fr-FR": "Le vendredi de la deuxième semaine de l’Avent"
+      }
+    },
+    {
+      "id": "024-le-samedi-de-la-deuxieme-semaine-de-lavent",
+      "title": {
+        "fr-FR": "Le samedi de la deuxième semaine de l’Avent"
+      }
+    },
+    {
+      "id": "025-le-troisieme-dimanche-de-lavent",
+      "title": {
+        "fr-FR": "Le troisième dimanche de l’Avent"
+      }
+    },
+    {
+      "id": "026-le-lundi-de-la-troisieme-semaine-de-lavent",
+      "title": {
+        "fr-FR": "Le lundi de la troisième semaine de l’Avent"
+      }
+    },
+    {
+      "id": "027-le-mardi-de-la-troisieme-semaine-de-lavent",
+      "title": {
+        "fr-FR": "Le mardi de la troisième semaine de l’Avent"
+      }
+    },
+    {
+      "id": "028-le-mercredi-des-quatre-temps",
+      "title": {
+        "fr-FR": "Le mercredi des Quatre-Temps"
+      }
+    },
+    {
+      "id": "029-le-jeudi-de-la-troisieme-semaine-de-lavent",
+      "title": {
+        "fr-FR": "Le jeudi de la troisième semaine de l’Avent"
+      }
+    },
+    {
+      "id": "030-le-vendredi-des-quatre-temps",
+      "title": {
+        "fr-FR": "Le vendredi des Quatre-Temps"
+      }
+    },
+    {
+      "id": "031-le-samedi-des-quatre-temps",
+      "title": {
+        "fr-FR": "Le samedi des Quatre-Temps"
+      }
+    },
+    {
+      "id": "032-le-quatrieme-dimanche-de-lavent",
+      "title": {
+        "fr-FR": "Le quatrième dimanche de l’Avent"
+      }
+    },
+    {
+      "id": "033-le-lundi-de-la-quatrieme-semaine-de-lavent",
+      "title": {
+        "fr-FR": "Le lundi de la quatrième semaine de l’Avent"
+      }
+    },
+    {
+      "id": "034-le-mardi-de-la-quatrieme-semaine-de-lavent",
+      "title": {
+        "fr-FR": "Le mardi de la quatrième semaine de l’Avent"
+      }
+    },
+    {
+      "id": "035-le-mercredi-de-la-quatrieme-semaine-de-lavent",
+      "title": {
+        "fr-FR": "Le mercredi de la quatrième semaine de l’Avent"
+      }
+    },
+    {
+      "id": "036-le-jeudi-de-la-quatrieme-semaine-de-lavent",
+      "title": {
+        "fr-FR": "Le jeudi de la quatrième semaine de l’Avent"
+      }
+    },
+    {
+      "id": "037-le-vendredi-de-la-quatrieme-semaine-de-lavent",
+      "title": {
+        "fr-FR": "Le vendredi de la quatrième semaine de l’Avent"
+      }
+    },
+    {
+      "id": "038-propre-des-saints-de-lavent",
+      "title": {
+        "fr-FR": "Propre des saints de l’Avent"
+      }
+    },
+    {
+      "id": "039-30-novembre-saint-andre-apotre",
+      "title": {
+        "fr-FR": "30 novembre — Saint André, Apôtre"
+      }
+    },
+    {
+      "id": "040-1er-decembre",
+      "title": {
+        "fr-FR": "1er décembre"
+      }
+    },
+    {
+      "id": "041-2-decembre-sainte-bibiane-vierge-et-martyre",
+      "title": {
+        "fr-FR": "2 décembre — Sainte Bibiane, vierge et martyre"
+      }
+    },
+    {
+      "id": "042-3-decembre-saint-francois-xavier-confesseur-apot",
+      "title": {
+        "fr-FR": "3 décembre — Saint François-Xavier, confesseur, apôtre des Indes"
+      }
+    },
+    {
+      "id": "043-4-decembre-saint-pierre-chrysologue-eveque-et-do",
+      "title": {
+        "fr-FR": "4 décembre — Saint Pierre Chrysologue, évêque et Docteur de l’Église"
+      }
+    },
+    {
+      "id": "044-4-decembre-sainte-barbe-vierge-et-martyre",
+      "title": {
+        "fr-FR": "4 décembre — Sainte Barbe, vierge et martyre"
+      }
+    },
+    {
+      "id": "045-5-decembre-memoire-de-saint-sabbas-abbe",
+      "title": {
+        "fr-FR": "5 décembre — Mémoire de Saint Sabbas, Abbé"
+      }
+    },
+    {
+      "id": "046-6-decembre-saint-nicolas-eveque-de-myre-et-confe",
+      "title": {
+        "fr-FR": "6 décembre — Saint Nicolas, évêque de Myre et confesseur"
+      }
+    },
+    {
+      "id": "047-7-decembre-saint-ambroise-eveque-et-docteur-de-l",
+      "title": {
+        "fr-FR": "7 décembre — Saint Ambroise, évêque et Docteur de l’Église"
+      }
+    },
+    {
+      "id": "048-8-decembre-limmaculee-conception-de-la-tres-sain",
+      "title": {
+        "fr-FR": "8 décembre — L’Immaculée Conception de la Très Sainte Vierge"
+      }
+    },
+    {
+      "id": "049-9-decembre-deuxieme-jour-dans-loctave-de-limmacu",
+      "title": {
+        "fr-FR": "9 décembre — Deuxième jour dans l’octave de l’Immaculée Conception"
+      }
+    },
+    {
+      "id": "050-10-decembre-3e-jour-dans-loctave-de-limmaculee-c",
+      "title": {
+        "fr-FR": "10 décembre — 3e jour dans l’octave de l’Immaculée Conception"
+      }
+    },
+    {
+      "id": "051-10-decembre-saint-melchiade-pape-et-martyr",
+      "title": {
+        "fr-FR": "10 décembre — Saint Melchiade, pape et martyr"
+      }
+    },
+    {
+      "id": "052-10-decembre-la-translation-de-la-sainte-maison-d",
+      "title": {
+        "fr-FR": "10 décembre — La Translation de la Sainte Maison de Lorette"
+      }
+    },
+    {
+      "id": "053-10-decembre-sainte-eulalie-vierge-et-martyre",
+      "title": {
+        "fr-FR": "10 décembre — Sainte Eulalie, vierge et martyre"
+      }
+    },
+    {
+      "id": "054-11-decembre-saint-damase-pape-et-confesseur",
+      "title": {
+        "fr-FR": "11 décembre — Saint Damase, Pape et Confesseur"
+      }
+    },
+    {
+      "id": "055-12-decembre-5e-jour-dans-loctave-de-limmaculee-c",
+      "title": {
+        "fr-FR": "12 décembre — 5e jour dans l’octave de l’Immaculee Conception"
+      }
+    },
+    {
+      "id": "056-13-decembre-sainte-lucie-vierge-et-martyre",
+      "title": {
+        "fr-FR": "13 décembre — Sainte Lucie, vierge et martyre"
+      }
+    },
+    {
+      "id": "057-le-meme-jour-sainte-odile-vierge-et-abbesse",
+      "title": {
+        "fr-FR": "Le même jour. Sainte Odile, vierge et Abbesse"
+      }
+    },
+    {
+      "id": "058-14-decembre-7e-jour-dans-loctave-de-limmaculee-c",
+      "title": {
+        "fr-FR": "14 décembre — 7e jour dans l’octave de l’Immaculée Conception"
+      }
+    },
+    {
+      "id": "059-15-decembre-octave-de-limmaculee-conception-de-l",
+      "title": {
+        "fr-FR": "15 décembre — Octave de l’Immaculée Conception de la Sainte Vierge"
+      }
+    },
+    {
+      "id": "060-16-decembre-saint-eusebe-eveque-de-verceil-et-ma",
+      "title": {
+        "fr-FR": "16 décembre — Saint Eusèbe, évêque de Verceil et martyr"
+      }
+    },
+    {
+      "id": "061-17-decembre-commencement-des-grandes-antiennes",
+      "title": {
+        "fr-FR": "17 décembre — Commencement des grandes antiennes"
+      }
+    },
+    {
+      "id": "062-18-decembre-iie-antienne",
+      "title": {
+        "fr-FR": "18 décembre — IIe antienne"
+      }
+    },
+    {
+      "id": "063-18-decembre-lexpectation-de-lenfantement-de-la-s",
+      "title": {
+        "fr-FR": "18 décembre — L’expectation de l’enfantement de la Sainte Vierge"
+      }
+    },
+    {
+      "id": "064-19-decembre-iiie-antienne",
+      "title": {
+        "fr-FR": "19 décembre — IIIe antienne"
+      }
+    },
+    {
+      "id": "065-20-decembre-ive-antienne",
+      "title": {
+        "fr-FR": "20 décembre — IVe antienne"
+      }
+    },
+    {
+      "id": "066-21-decembre",
+      "title": {
+        "fr-FR": "21 décembre"
+      }
+    },
+    {
+      "id": "067-21-decembre-ve-antienne",
+      "title": {
+        "fr-FR": "21 décembre — Ve antienne"
+      }
+    },
+    {
+      "id": "068-22-decembre-vie-antienne",
+      "title": {
+        "fr-FR": "22 décembre — VIe antienne"
+      }
+    },
+    {
+      "id": "069-23-decembre",
+      "title": {
+        "fr-FR": "23 décembre"
+      }
+    },
+    {
+      "id": "070-24-decembre-la-vigile-de-noel",
+      "title": {
+        "fr-FR": "24 décembre — La vigile de Noël"
+      }
+    }
+  ]
+}

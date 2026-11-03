@@ -1,0 +1,7 @@
+# 18 décembre — IIe antienne
+
+*O Adonai, et dux domus Israël , qui Moysi in igne flammae rubi apparuisti, et ei in Sina legem dedisti : veni ad redimendum nos in brachio extento.*
+
+O Adonaï, Seigneur, chef de la maison d’Israël, qui avez apparu à Moïse, dans la flamme du buisson ardent, et lui avez donné la loi sur le Sinaï ; venez nous racheter dans la force de votre bras.
+
+O Seigneur suprême ! Adonaï ! venez nous racheter, non plus dans votre puissance, mais dans votre humilité. Autrefois vous vous manifestâtes à Moïse, votre serviteur, au milieu d’une flamme divine ; vous donnâtes la Loi à votre peuple du sein des foudres et des éclairs : maintenant il ne s’agit plus d’effrayer, mais de sauver. C’est pourquoi votre très pure Mère Marie ayant connu, ainsi que son époux Joseph, l’Edit de l’Empereur qui va les obliger d’entreprendre le voyage de Bethléhem, s’occupe des préparatifs de votre heureuse naissance. Elle apprête pour vous, divin Soleil, les humbles langes qui couvriront votre nudité, et vous garantiront de la froidure dans ce monde que vous avez fait, à l’heure où vous paraîtrez, au sein de la nuit et du silence. C’est ainsi que vous nous délivrerez de la servitude de notre orgueil, et que votre bras se fera sentir plus puissant, alors qu’il semblera plus faible et plus immobile aux yeux des hommes. Tout est prêt, ô Jésus ! vos langes vous attendent : partez donc bientôt et venez en Bethléhem, nous racheter des mains de notre ennemi.
