@@ -6,5 +6,44 @@
   "century": 2,
   "matches": [
     "Tatian"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "tatian-address-to-the-greeks",
+          "why": {
+            "en-US": "His defence of Christianity against Greek culture",
+            "pt-BR": "Sua defesa do cristianismo diante da cultura grega"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Gospel harmony",
+        "pt-BR": "Harmonia dos Evangelhos"
+      },
+      "works": [
+        {
+          "work": "tatian-diatessaron",
+          "why": {
+            "en-US": "The four Gospels woven into one narrative",
+            "pt-BR": "Os quatro Evangelhos tecidos numa só narrativa"
+          }
+        },
+        {
+          "work": "tatian-fragments",
+          "why": {
+            "en-US": "Surviving fragments",
+            "pt-BR": "Fragmentos que sobreviveram"
+          }
+        }
+      ]
+    }
   ]
 }
