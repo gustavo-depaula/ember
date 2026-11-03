@@ -1,0 +1,81 @@
+{
+  "id": "chesterton-george-bernard-shaw",
+  "cover": "classic",
+  "name": {
+    "en-US": "George Bernard Shaw",
+    "pt-BR": "George Bernard Shaw"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's friendly study of his great opponent: the Irishman, the Puritan, the Progressive, the Critic, the Dramatist and the Philosopher. Shaw, he argued, was a moralist of the old pattern pretending to be a modern.",
+    "pt-BR": "O estudo amistoso de Chesterton sobre seu grande adversário: o irlandês, o puritano, o progressista, o crítico, o dramaturgo e o filósofo. Shaw, argumentava ele, era um moralista à moda antiga que se fazia passar por moderno."
+  },
+  "composed": "1909",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/george-bernard-shaw",
+  "editions": {
+    "en-US": {
+      "editor": "John Lane",
+      "year": 1909
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/19535",
+      "edition": "George Bernard Shaw (John Lane, 1909), Project Gutenberg #19535.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1909 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-problem-of-a-preface",
+      "title": {
+        "en-US": "The Problem of a Preface"
+      }
+    },
+    {
+      "id": "ch02-the-irishman",
+      "title": {
+        "en-US": "The Irishman"
+      }
+    },
+    {
+      "id": "ch03-the-puritan",
+      "title": {
+        "en-US": "The Puritan"
+      }
+    },
+    {
+      "id": "ch04-the-progressive",
+      "title": {
+        "en-US": "The Progressive"
+      }
+    },
+    {
+      "id": "ch05-the-critic",
+      "title": {
+        "en-US": "The Critic"
+      }
+    },
+    {
+      "id": "ch06-the-dramatist",
+      "title": {
+        "en-US": "The Dramatist"
+      }
+    },
+    {
+      "id": "ch07-the-philosopher",
+      "title": {
+        "en-US": "The Philosopher"
+      }
+    }
+  ]
+}
