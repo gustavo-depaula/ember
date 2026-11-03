@@ -13,5 +13,88 @@
     "Juan de Ávila",
     "San Juan de Ávila",
     "Juan de Avila"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "john-of-avila/audi-filia",
+          "why": {
+            "en-US": "His spiritual book on the verse Audi, filia (Psalm 44)",
+            "pt-BR": "Seu livro espiritual sobre o versículo Audi, filia (Salmo 44)"
+          }
+        },
+        {
+          "work": "john-of-avila/epistolario",
+          "why": {
+            "en-US": "His letters of spiritual direction",
+            "pt-BR": "Suas cartas de direção espiritual"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Shorter writings",
+        "pt-BR": "Escritos breves"
+      },
+      "works": [
+        {
+          "work": "john-of-avila/tratado-del-amor-de-dios",
+          "why": {
+            "en-US": "Meditations on God's love for men",
+            "pt-BR": "Meditações sobre o amor de Deus pelos homens"
+          }
+        },
+        {
+          "work": "john-of-avila/escritos-menores",
+          "why": {
+            "en-US": "Seven short writings",
+            "pt-BR": "Sete escritos breves"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "For priests and preachers",
+        "pt-BR": "Para sacerdotes e pregadores"
+      },
+      "works": [
+        {
+          "work": "john-of-avila/platicas",
+          "why": {
+            "en-US": "Two talks to the clergy of Córdoba on the priesthood",
+            "pt-BR": "Duas palestras ao clero de Córdoba sobre o sacerdócio"
+          }
+        },
+        {
+          "work": "john-of-avila/sermones",
+          "why": {
+            "en-US": "Sermons, many on the Blessed Sacrament",
+            "pt-BR": "Sermões, muitos sobre o Santíssimo Sacramento"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The first Audi, filia",
+        "pt-BR": "O primeiro Audi, filia"
+      },
+      "works": [
+        {
+          "work": "john-of-avila/audi-filia-1556",
+          "why": {
+            "en-US": "The first printed redaction, 1556",
+            "pt-BR": "A primeira redação impressa, 1556"
+          }
+        }
+      ]
+    }
   ]
 }
