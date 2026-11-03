@@ -1,0 +1,423 @@
+{
+  "id": "chesterton-poems-1915",
+  "cover": "classic",
+  "name": {
+    "en-US": "Poems",
+    "pt-BR": "Poemas"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's collected short poems of 1915, in four groups: War Poems (Lepanto, The March of the Black Mountain, The Wife of Flanders), Love Poems, Religious Poems (The Wise Men, The House of Christmas, The Nativity, A Hymn) and Rhymes for the Times.",
+    "pt-BR": "Os poemas curtos reunidos de Chesterton de 1915, em quatro grupos: Poemas de Guerra (Lepanto, A Marcha da Montanha Negra, A Mulher de Flandres), Poemas de Amor, Poemas Religiosos (Os Reis Magos, A Casa do Natal, A Natividade, Um Hino) e Rimas para os Tempos."
+  },
+  "composed": "1915",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/poems-1915",
+  "editions": {
+    "en-US": {
+      "editor": "John Lane",
+      "year": 1915
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/31184",
+      "edition": "Poems (John Lane, 1915), Project Gutenberg #31184.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1915 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "part01-three-dedications",
+      "title": {
+        "en-US": "Three Dedications"
+      },
+      "children": [
+        {
+          "id": "ch01-to-edmund-clerihew-bentley",
+          "title": {
+            "en-US": "To Edmund Clerihew Bentley"
+          }
+        },
+        {
+          "id": "ch02-to-hilaire-belloc",
+          "title": {
+            "en-US": "To Hilaire Belloc"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part02-war-poems",
+      "title": {
+        "en-US": "War Poems"
+      },
+      "children": [
+        {
+          "id": "ch03-lepanto",
+          "title": {
+            "en-US": "Lepanto"
+          }
+        },
+        {
+          "id": "ch04-blessed-are-the-peacemakers",
+          "title": {
+            "en-US": "Blessed Are the Peacemakers"
+          }
+        },
+        {
+          "id": "ch05-the-wife-of-flanders",
+          "title": {
+            "en-US": "The Wife of Flanders"
+          }
+        },
+        {
+          "id": "ch06-the-crusader-returns-from-captivity",
+          "title": {
+            "en-US": "The Crusader Returns from Captivity"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part03-love-poems",
+      "title": {
+        "en-US": "Love Poems"
+      },
+      "children": [
+        {
+          "id": "ch07-glencoe",
+          "title": {
+            "en-US": "Glencoe"
+          }
+        },
+        {
+          "id": "ch08-love-s-trappist",
+          "title": {
+            "en-US": "Love's Trappist"
+          }
+        },
+        {
+          "id": "ch09-confessional",
+          "title": {
+            "en-US": "Confessional"
+          }
+        },
+        {
+          "id": "ch10-music",
+          "title": {
+            "en-US": "Music"
+          }
+        },
+        {
+          "id": "ch11-the-deluge",
+          "title": {
+            "en-US": "The Deluge"
+          }
+        },
+        {
+          "id": "ch12-the-strange-music",
+          "title": {
+            "en-US": "The Strange Music"
+          }
+        },
+        {
+          "id": "ch13-the-great-minimum",
+          "title": {
+            "en-US": "The Great Minimum"
+          }
+        },
+        {
+          "id": "ch14-the-mortal-answers",
+          "title": {
+            "en-US": "The Mortal Answers"
+          }
+        },
+        {
+          "id": "ch15-a-marriage-song",
+          "title": {
+            "en-US": "A Marriage Song"
+          }
+        },
+        {
+          "id": "ch16-bay-combe",
+          "title": {
+            "en-US": "Bay Combe"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part04-religious-poems",
+      "title": {
+        "en-US": "Religious Poems"
+      },
+      "children": [
+        {
+          "id": "ch17-the-wise-men",
+          "title": {
+            "en-US": "The Wise Men"
+          }
+        },
+        {
+          "id": "ch18-the-house-of-christmas",
+          "title": {
+            "en-US": "The House of Christmas"
+          }
+        },
+        {
+          "id": "ch19-a-song-of-gifts-to-god",
+          "title": {
+            "en-US": "A Song of Gifts to God"
+          }
+        },
+        {
+          "id": "ch20-the-kingdom-of-heaven",
+          "title": {
+            "en-US": "The Kingdom of Heaven"
+          }
+        },
+        {
+          "id": "ch21-a-hymn-for-the-church-militant",
+          "title": {
+            "en-US": "A Hymn for the Church Militant"
+          }
+        },
+        {
+          "id": "ch22-the-beatific-vision",
+          "title": {
+            "en-US": "The Beatific Vision"
+          }
+        },
+        {
+          "id": "ch23-the-truce-of-christmas",
+          "title": {
+            "en-US": "The Truce of Christmas"
+          }
+        },
+        {
+          "id": "ch24-a-hymn",
+          "title": {
+            "en-US": "A Hymn"
+          }
+        },
+        {
+          "id": "ch25-a-christmas-song-for-three-guilds",
+          "title": {
+            "en-US": "A Christmas Song for Three Guilds"
+          }
+        },
+        {
+          "id": "ch26-the-nativity",
+          "title": {
+            "en-US": "The Nativity"
+          }
+        },
+        {
+          "id": "ch27-a-child-of-the-snows",
+          "title": {
+            "en-US": "A Child of the Snows"
+          }
+        },
+        {
+          "id": "ch28-a-word",
+          "title": {
+            "en-US": "A Word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part05-rhymes-for-the-times",
+      "title": {
+        "en-US": "Rhymes for the Times"
+      },
+      "children": [
+        {
+          "id": "ch29-antichrist-or-the-reunion-of-christendom-an",
+          "title": {
+            "en-US": "Antichrist, or the Reunion of Christendom: An Ode"
+          }
+        },
+        {
+          "id": "ch30-the-shakespeare-memorial",
+          "title": {
+            "en-US": "The Shakespeare Memorial"
+          }
+        },
+        {
+          "id": "ch31-the-horrible-history-of-jones",
+          "title": {
+            "en-US": "The Horrible History of Jones"
+          }
+        },
+        {
+          "id": "ch32-the-new-freethinker",
+          "title": {
+            "en-US": "The New Freethinker"
+          }
+        },
+        {
+          "id": "ch33-in-memoriam-p-d",
+          "title": {
+            "en-US": "In Memoriam P.d"
+          }
+        },
+        {
+          "id": "ch34-sonnet-with-the-compliments-of-the-season",
+          "title": {
+            "en-US": "Sonnet with the Compliments of the Season"
+          }
+        },
+        {
+          "id": "ch35-a-song-of-swords",
+          "title": {
+            "en-US": "A Song of Swords"
+          }
+        },
+        {
+          "id": "ch36-a-song-of-defeat",
+          "title": {
+            "en-US": "A Song of Defeat"
+          }
+        },
+        {
+          "id": "ch37-sonnet",
+          "title": {
+            "en-US": "Sonnet"
+          }
+        },
+        {
+          "id": "ch38-africa",
+          "title": {
+            "en-US": "Africa"
+          }
+        },
+        {
+          "id": "ch39-the-dead-hero",
+          "title": {
+            "en-US": "The Dead Hero"
+          }
+        },
+        {
+          "id": "ch40-the-song-of-the-wheels",
+          "title": {
+            "en-US": "The Song of the Wheels"
+          }
+        },
+        {
+          "id": "ch41-the-secret-people",
+          "title": {
+            "en-US": "The Secret People"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part06-miscellaneous-poems",
+      "title": {
+        "en-US": "Miscellaneous Poems"
+      },
+      "children": [
+        {
+          "id": "ch42-lost",
+          "title": {
+            "en-US": "Lost"
+          }
+        },
+        {
+          "id": "ch43-ballad-of-the-sun",
+          "title": {
+            "en-US": "Ballad of the Sun"
+          }
+        },
+        {
+          "id": "ch44-translation-from-du-bellay",
+          "title": {
+            "en-US": "Translation from Du Bellay"
+          }
+        },
+        {
+          "id": "ch45-the-higher-unity",
+          "title": {
+            "en-US": "The Higher Unity"
+          }
+        },
+        {
+          "id": "ch46-the-earth-s-vigil",
+          "title": {
+            "en-US": "The Earth's Vigil"
+          }
+        },
+        {
+          "id": "ch47-on-righteous-indignation",
+          "title": {
+            "en-US": "On Righteous Indignation"
+          }
+        },
+        {
+          "id": "ch48-when-i-came-back-to-fleet-street",
+          "title": {
+            "en-US": "When I Came Back to Fleet Street"
+          }
+        },
+        {
+          "id": "ch49-a-cider-song",
+          "title": {
+            "en-US": "A Cider Song"
+          }
+        },
+        {
+          "id": "ch50-the-last-hero",
+          "title": {
+            "en-US": "The Last Hero"
+          }
+        },
+        {
+          "id": "ch51-ballades",
+          "title": {
+            "en-US": "Ballades"
+          }
+        },
+        {
+          "id": "ch52-ballade-d-une-grande-dame",
+          "title": {
+            "en-US": "Ballade D'une Grande Dame"
+          }
+        },
+        {
+          "id": "ch53-a-ballade-of-an-anti-puritan",
+          "title": {
+            "en-US": "A Ballade of an Anti-puritan"
+          }
+        },
+        {
+          "id": "ch54-a-ballade-of-a-book-reviewer",
+          "title": {
+            "en-US": "A Ballade of a Book-reviewer"
+          }
+        },
+        {
+          "id": "ch55-a-ballade-of-suicide",
+          "title": {
+            "en-US": "A Ballade of Suicide"
+          }
+        },
+        {
+          "id": "ch56-a-ballade-of-the-first-rain",
+          "title": {
+            "en-US": "A Ballade of the First Rain"
+          }
+        }
+      ]
+    }
+  ]
+}
