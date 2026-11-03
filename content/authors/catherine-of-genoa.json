@@ -12,5 +12,44 @@
     "Caterina da Genova",
     "Caterina Fieschi Adorno",
     "Caterina da Genova, santa"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "catherine-of-genoa/trattato-del-purgatorio",
+          "why": {
+            "en-US": "The divine fire she felt in herself, about 5,300 words",
+            "pt-BR": "O fogo divino que sentiu em si, cerca de 5.300 palavras"
+          }
+        },
+        {
+          "work": "catherine-of-genoa/vita",
+          "why": {
+            "en-US": "Her life and doctrine",
+            "pt-BR": "Sua vida e doutrina"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Attributed works",
+        "pt-BR": "Obras atribuídas"
+      },
+      "works": [
+        {
+          "work": "catherine-of-genoa/dialogo-spirituale",
+          "why": {
+            "en-US": "The Spiritual Dialogue, attributed to her",
+            "pt-BR": "O Diálogo espiritual, atribuído a ela"
+          }
+        }
+      ]
+    }
   ]
 }
