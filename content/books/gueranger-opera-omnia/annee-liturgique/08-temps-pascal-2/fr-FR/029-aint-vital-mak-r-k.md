@@ -1,0 +1,15 @@
+# ^ aint vital, mak r^k
+
+NTRE les plus célèbres martyrs de l’Occident, saint Gervais et saint Protais occupent l’une des premières places. La vénération que l’Eglise Romaine professe pour eux l’a portée à honorer la mémoire de leur père, qui remporta aussi la palme sous la persécution de Néron, dans le cours du temps consacré à honorer la résurrection du Sauveur. Le récit liturgique sur saint Vital est court ; mais les traits qu’il contient donnent à connaître quels étaient ces chrétiens primitifs, que le glaive païen moissonna dans cette première persécution qui immola, entre autres victimes de choix, les deux Apôtres saint Pierre et saint Paul,
+
+VITAL, père des saints Gervais et Protais, exerçait la profession militaire. Comme il entrait un jour dans Ravenne avec le juge Paulin, on menait au supplice un médecin nommé Ursicin, pour avoir confessé la foi de Jésus-Christ. Vital le voyant chanceler un peu dans les tourments, lui cria : « Ursicin, toi qui par ta mé- « decine as coutume de gue- « rir les autres, prends garde « de ne pas te donner à toi- « même le coup de la mort
+
+\r iTALis miles, sancto- " rum Gervasii et Protasii pater, una cum Paulino judice Ravennam ingressus, cum vidisset Ursicinum medicum ob Christian^ tidei confessionem ductum ad supplicium paululum in tormentis titubare, exclamavit : Ursicine medice, qui alios curare solitus es , cave ne te niortis œternœ jaculo conficias. Qua voce conlirmatus Ursicinus , martyrium
+
+44-’?
+
+Le Temps Pascal. fortiter subivit. Quare Paulinus incensus Vitalem coniprehendi jubet, et equuleo tortuin atque in profundani foveani deniersum , lapidibus obrui. Quo facto quidam Apnllinis sacerdos, qui Paulinum in Vilalem incitarat , oppressus a daemone. clainare cœpit , Tu me nimium, Vitalis Chrisli martyr , incendis : et illo astu jactatus, se praecipitavit influmen.
+
+M éternelle. » Fortifié par ces paroles . Ursicin subit le martyre avec constance. Mais Paulin, irrité contre Vital, ordonna de le saisii, et après l’avoir fait tourmenter sur le chevalet, il le fit jeter dans une fosse profonde et accabler sous des pierres. Un prêtre d’Apollon, qui avait excité la colère de Paulin contre Vital, fut tout aussitôt saisi par le démon, et se mit à crier: » Vital, martyr du « Christ, de quel feu tu me i< brûles !» et ne pouvant supporter de telles ardeurs, il se précipita dans le fleuve.
+
+LE péché est rennemi de l’âme ;■ il la replonge dans la mort d’où Jésus l’a tirée par sa résurrection. C’est pour faire éviter ce malheur à l’un de vos frères, ô saint martyr, que votre voix retentit tout à coup, et vint lui rendre, au milieu des tourments, l’attention sur soi-même et la force d’âme. Veillez aussi sur nous avec cette fraternelle charité, 6 Vital ! Nous sommes vivants de la vie de Jésus ressuscité ; mais l’ennemi voudrait nous ôter cette vie. Il s’efforcera d’abord de nous affaiblir, il nous tendra des pièges de toute sorte, enfin il nous suscitera des combats. Priez, o saint martyr, afin que nous soyons sur nos gardes et que le mystère de la Pâque accompli en nous y demeure à jamais en son entier.

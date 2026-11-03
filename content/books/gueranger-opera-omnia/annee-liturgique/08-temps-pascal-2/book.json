@@ -1,0 +1,299 @@
+{
+  "id": "gueranger-annee-liturgique-08-temps-pascal-2",
+  "name": {
+    "fr-FR": "L’Année liturgique : le temps pascal, II",
+    "en-US": "The Liturgical Year: Paschal Time, Book II",
+    "pt-BR": "O Ano Litúrgico: Tempo pascal, II"
+  },
+  "author": {
+    "fr-FR": "Dom Prosper Guéranger",
+    "en-US": "Dom Prosper Guéranger",
+    "pt-BR": "Dom Prosper Guéranger"
+  },
+  "description": {
+    "fr-FR": "Volume 8 de l’Année liturgique (Le temps pascal, II) : un chapitre par jour ou fête, avec les textes liturgiques en latin et en français.",
+    "en-US": "Volume 8 of the 15-volume Liturgical Year (L’Année liturgique) in the original French. One chapter per day or feast, with the Latin and French of the liturgical texts. Made from the 1911 Oudin printing’s OCR; the two-column Latin and French text is separated by script and some running heads remain.",
+    "pt-BR": "Volume 8 dos 15 volumes de «O Ano Litúrgico» (L’Année liturgique) em francês. Um capítulo por dia ou festa, com o latim e o francês dos textos litúrgicos."
+  },
+  "composed": "1865",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "fr-FR": {
+      "editor": "Dom Prosper Guéranger (Oudin, Paris-Poitiers)",
+      "year": 1911
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/lanneliturgiqu08gu",
+      "edition": "L’Année liturgique, vol. 8, Paris-Poitiers: Librairie H. Oudin, 1911. Internet Archive scan (University of Toronto), OCR text.",
+      "description": "Split at detected day and feast headings; running heads and page numbers removed where recognised; the Latin and French columns, interleaved line by line in the OCR, were separated by language and set as a Latin paragraph followed by its French. The table of contents at the back is not imported.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875 and Fromage in 1916; the text was printed in 1911 (before 1931)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-preface",
+      "title": {
+        "fr-FR": "Préface"
+      }
+    },
+    {
+      "id": "002-chapitre-premier-prieres-du-matin-et-du-soir-au",
+      "title": {
+        "fr-FR": "Chapitre premier. prières du matin et du soir, au temps pascal"
+      }
+    },
+    {
+      "id": "003-chapitre-ii-de-l-assistance-a-la-sainte-messe-au",
+      "title": {
+        "fr-FR": "Chapitre II. de l assistance à la Sainte Messe, au te.mps pascal"
+      }
+    },
+    {
+      "id": "004-le-lundi-de-la-deuxieme-semaine-apres-paques",
+      "title": {
+        "fr-FR": "Le lundi de la deuxième semaine après Pâques"
+      }
+    },
+    {
+      "id": "005-le-mardi-de-la-deuxieme-semaine-apres-paques",
+      "title": {
+        "fr-FR": "Le mardi de la deuxième semaine après Pâques"
+      }
+    },
+    {
+      "id": "006-le-jeudi-dk-la-deuxieme-semaine-apres-paques",
+      "title": {
+        "fr-FR": "Le jeudi dk la deuxième semaine après Pâques"
+      }
+    },
+    {
+      "id": "007-le-vendredi-de-la-deuxieme-semaine-apres-paques",
+      "title": {
+        "fr-FR": "Le vendredi de la deuxième semaine après Pâques"
+      }
+    },
+    {
+      "id": "008-le-samedi-de-la-deuxieme-semaine-apres-paques",
+      "title": {
+        "fr-FR": "Le samedi de la deuxième semaine après Pâques"
+      }
+    },
+    {
+      "id": "009-le-deuxieme-dimanche-apres-paques",
+      "title": {
+        "fr-FR": "Le deuxième dimanche après Pâques"
+      }
+    },
+    {
+      "id": "010-le-mercredi-de-la-troisieme-semaine-apres-paques",
+      "title": {
+        "fr-FR": "Le mercredi de la troisième semaine après Pâques"
+      }
+    },
+    {
+      "id": "011-le-jeudi-de-la-troisieme-semaine-apres-paques",
+      "title": {
+        "fr-FR": "Le jeudi de la troisième semaine après Pâques"
+      }
+    },
+    {
+      "id": "012-le-vendredi-de-la-troisieme-semaine-apres-paques",
+      "title": {
+        "fr-FR": "Le vendredi de la troisième. semaine après Pâques"
+      }
+    },
+    {
+      "id": "013-le-samedi-de-la-troisieme-semaine-apres-paques",
+      "title": {
+        "fr-FR": "Le samedi de la troisième semaine après Pâques"
+      }
+    },
+    {
+      "id": "014-le-mardi-de-la-quatrieme-semaine-apres-paques",
+      "title": {
+        "fr-FR": "Le mardi de la quatrième semaine après Pâques"
+      }
+    },
+    {
+      "id": "015-le-jeudi-de-la-quatrieme-semaine-apres-paques",
+      "title": {
+        "fr-FR": "Le jeudi de la quatrième semaine après Pâques"
+      }
+    },
+    {
+      "id": "016-le-samedi-de-la-quatrieme-semaine-apres-paques",
+      "title": {
+        "fr-FR": "Le samedi de la quatrième semaine après Pâques"
+      }
+    },
+    {
+      "id": "017-le-lundi-de-la-cinquieme-semaine-apres-paques",
+      "title": {
+        "fr-FR": "Le lundi de la cinquième semaine après Pâques"
+      }
+    },
+    {
+      "id": "018-le-mardi-de-la-cinquieme-semaine-apres-paques",
+      "title": {
+        "fr-FR": "Le mardi de la cinquième semaine après Pâques"
+      }
+    },
+    {
+      "id": "019-le-mercredi-de-la-cinquieme-semaine-apres-paques",
+      "title": {
+        "fr-FR": "Le mercredi de la cinquième semaine après Pâques"
+      }
+    },
+    {
+      "id": "020-le-jeudi-de-la-cinquieme-semaine-apres-paques",
+      "title": {
+        "fr-FR": "Le jeudi de la cinquième semaine après Pâques"
+      }
+    },
+    {
+      "id": "021-le-vendredi-de-la-cinquieme-semaine-apres-paques",
+      "title": {
+        "fr-FR": "Le vendredi de la cinquième semaine après Pâques"
+      }
+    },
+    {
+      "id": "022-le-samedi-de-la-cinquieme-semaine-apres-paques",
+      "title": {
+        "fr-FR": "Le samedi de la cinquième semaine après Pâques"
+      }
+    },
+    {
+      "id": "023-2-avril-b-i-rancois-de-falle-confesseur",
+      "title": {
+        "fr-FR": "2 avril — B i-rançois de fal'le, confesseur"
+      }
+    },
+    {
+      "id": "024-4-avril-saint-isidore-eveque-et-docteur-de-legli",
+      "title": {
+        "fr-FR": "4 avril — Saint Isidore, évèque et Docteur de l'Église"
+      }
+    },
+    {
+      "id": "025-13-avril",
+      "title": {
+        "fr-FR": "13 avril"
+      }
+    },
+    {
+      "id": "026-14-avril-saint-justin-martyr",
+      "title": {
+        "fr-FR": "14 avril — Saint Justin. martyr"
+      }
+    },
+    {
+      "id": "027-22-avril-saint-soter-et-saint-caius-papes-et-mar",
+      "title": {
+        "fr-FR": "22 avril — Saint Soter et Saint Caius, papes et martyrs"
+      }
+    },
+    {
+      "id": "028-saint-paul-de-i-a-croix-confesseur",
+      "title": {
+        "fr-FR": "Saint Paul de i,a Croix. confesseur"
+      }
+    },
+    {
+      "id": "029-aint-vital-mak-r-k",
+      "title": {
+        "fr-FR": "^ aint vital, mak r^k"
+      }
+    },
+    {
+      "id": "030-saint-pierre-martyr",
+      "title": {
+        "fr-FR": "Saint Pierre, martyr"
+      }
+    },
+    {
+      "id": "031-30-avril-sainte-catherine-de-sienne-vierge",
+      "title": {
+        "fr-FR": "30 avril — Sainte Catherine de sienne, Vierge"
+      }
+    },
+    {
+      "id": "032-2-mai-saint-athanase-eveque-et-docteur-de-leglis",
+      "title": {
+        "fr-FR": "2 mai — Saint Athanase, évèque et Docteur de l'Église"
+      }
+    },
+    {
+      "id": "033-saint-alexandre-pape-et-martyr",
+      "title": {
+        "fr-FR": "Saint Alexandre, Pape et martyr"
+      }
+    },
+    {
+      "id": "034-4-mai-sainte-monique-veuve",
+      "title": {
+        "fr-FR": "4 mai — Sainte Monique, veuve"
+      }
+    },
+    {
+      "id": "035-5-mai-saint-pie-v-pape",
+      "title": {
+        "fr-FR": "5 mai — Saint Pie v, Pape"
+      }
+    },
+    {
+      "id": "036-6-mai-s-jean-devant-la-porte-latine",
+      "title": {
+        "fr-FR": "6 mai — S. Jean devant la porte latine"
+      }
+    },
+    {
+      "id": "037-10-mai-saint-a-n-t-o-n-i-n-eveque-et-confesseur",
+      "title": {
+        "fr-FR": "10 mai — Saint A n t o n i n , évéque et confesseur"
+      }
+    },
+    {
+      "id": "038-12-mai-les-ss-neree-et-achillee-martyrs",
+      "title": {
+        "fr-FR": "12 mai — Les ss. nérée et achillée, martyrs"
+      }
+    },
+    {
+      "id": "039-aint-pancrace-martyr",
+      "title": {
+        "fr-FR": "^aint pancrace, martyr"
+      }
+    },
+    {
+      "id": "040-14-mai-saint-boniface-mari-yr",
+      "title": {
+        "fr-FR": "14 mai — Saint Boniface, mari yr"
+      }
+    },
+    {
+      "id": "041-17-mai-saint-pascal-baylon-confesseur",
+      "title": {
+        "fr-FR": "17 mai — Saint Pascal baylon, confesseur"
+      }
+    },
+    {
+      "id": "042-sainte-pudentienne-vierge",
+      "title": {
+        "fr-FR": "Sainte Pudentienne, Vierge"
+      }
+    },
+    {
+      "id": "043-saint-y-es-confesseur",
+      "title": {
+        "fr-FR": "Saint Y\\es, confesseur"
+      }
+    }
+  ]
+}

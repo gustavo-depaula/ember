@@ -1,0 +1,15 @@
+# ^aint pancrace, martyr
+
+■ N quatrième martyr vient s’adjoindre à ceux que nous avons déjà fêtés. C’est de Rome aussi qu’il monte pour aller partager la gloire du vainqueur de la mort. Les précédents furent moissonnés dans les premiers temps de notre foi ; celui-ci a combattu dans la grande persécution de Dioclétien, au moment où le paganisme livrait à l’Eglise le dernier assaut dans lequel il devait s’uccomher lui-même. Notre jeune héros ne comptait pas au delà de quatorze ans; mais il n’en a pas moins cueilli la palme, et il orne à son tour la ( ouronne de notre divin Ressuscité. Une basilique décorée d’un Titre cardinalice s’est élevée dès les premiers siècles sur le cimetière où fut déposé son corps, et l’Eglise lui consacre les lignes suivantes dans l’Office d’aujourd’hui :
+
+Phry- jjenere natus. puer qualuordecim annorum Romam venit, Diocletiano et Maximiano imperatoribus : ubi a Pontifice Romano baptizatus. et in fide Christiana eruditus. ob eamdem paulo post com- .prehensus. quum diis sa-
+
+P ANCRAGE, ne en Phrygie de noble race, vint à Rome, âgé de quatorze ans, sous les empereurs Dioclétien et Maximien. Baptisé et instruit dans la foi chrétienne par le Pontife romain, il fut arrêté peu après. S’étant montré inébranlable dans son refus de sacrifier aux dieux, il remporta glorieusement la.
+
+PANCRATIUS eia nobil
+
+Le Temps Pascal. crificare constanter renuisset, virili fortitiidine datis ccrvicibus, illustrem martyrii coronam consecufus est : cujus corpus Octavilla matrona noctu sustulit, et unguentis delibutum via Aurélia sepelivit. couronne du martyre. Une dame nommée Octavilla enleva son corps pendant la nuit, et l’ayant embaumé, elle l’ensevelit sur la Voie Aurélienne.
+
+LA grâce divine qui vous appelait à la couronne du martyre alla vous chercher jusqu’au fond de la Phrygie, 6 Pancrace, pour vous conduire dans la capitale de l’empire, au centre de tous les vices et de toutes les erreurs du paganisme. \’otre nom confondu avec tant d’autres plus éclatants ou plus obscurs, ne semblait pas devoir laisser de trace dans la mémoire des hommes ; à quatorze ans, votre carrière était déjà terminée. Aujourd’hui cependant, votre nom est prononcé par toute la terre avec l’accent de la vénération ; il retentit à l’autel dans les prières qui accompagnent le Sacrifice de l’Agneau. D’où vous vient, 6 jeune martyr, cette célébrité qui durera autant que le monde ; C’est qu’il était juste qu’ayant été associé à la mort sanglante de notre Christ, la gloire de son immortalité rejaillît jusque sur vous. Gloire sont donc à lui qui honore ainsi ses compagnons d’armes ! et gloire à vous, 6 martyr, qui avez mérité une telle couronne ! En retour de nos hommages, daignez , 6 Pancrace, jeter un regard de pro’tection sur nous. Parlez de nous à Jésus votre chef et le notre. Dans cette vallée d’exil, nous chantons V Alléluia pour sa
+
+Saint Pancrace, Martv résurrection qui nous a remplis d’espérances ; obtenez qu’un jour nous répétions avec vous au ciel ce même Alléluia^ devenu éternel, et qui alors signifiera non plus l’espérance, mais la possession.
