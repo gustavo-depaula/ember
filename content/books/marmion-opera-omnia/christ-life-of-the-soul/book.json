@@ -1,0 +1,164 @@
+{
+  "id": "marmion-christ-life-of-the-soul",
+  "name": {
+    "en-US": "Christ, the Life of the Soul",
+    "pt-BR": "Cristo, vida da alma"
+  },
+  "author": {
+    "en-US": "Bl. Columba Marmion",
+    "pt-BR": "Bem-aventurado Columba Marmion"
+  },
+  "description": {
+    "en-US": "Spiritual conferences by the Abbot of Maredsous on the divine plan of adoption in Christ: Christ the model, redeemer and source of all grace, the Church and the Holy Spirit (Part I), then faith, baptism, penance, growth in grace, the Eucharist, the divine praise, prayer, charity, devotion to Our Lady and the heavenly inheritance (Part II). First of the trilogy (Le Christ, vie de l’âme, 1917), with the prefaces of Cardinals Mercier and Bourne. English only: no open French text exists.",
+    "pt-BR": "Conferências espirituais do abade de Maredsous sobre o plano divino da adoção em Cristo: Cristo modelo, redentor e fonte de toda graça, a Igreja e o Espírito Santo (I parte), depois a fé, o batismo, a penitência, o crescimento na graça, a Eucaristia, o louvor divino, a oração, a caridade, a devoção a Nossa Senhora e a herança celeste (II parte). Primeiro da trilogia (Le Christ, vie de l’âme, 1917)."
+  },
+  "composed": "1917",
+  "languages": [
+    "en-US"
+  ],
+  "work": "marmion/christ-vie-de-lame",
+  "editions": {
+    "en-US": {
+      "translator": "A Nun of Tyburn Convent",
+      "year": 1922
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/christlifeofsoul0000marm",
+      "edition": "Christ the Life of the Soul, spiritual conferences, London/Edinburgh: Sands / St. Louis: Herder, 1922 (imprimatur Bruges 25 Jan 1922). Internet Archive scan, OCR text.",
+      "description": "The two prefaces and the nineteen conferences. Running heads stripped; the reference notes at the foot of each page are footnotes placed at the end of the page. The Pope’s letter, front matter, contents and index are not imported. The French original (Desclée, 1917) has no open text.",
+      "tier": "A",
+      "tierEvidence": "Anonymous translation published 1922: public domain in the US (before 1931), Brazil and the EU; Marmion died 1923."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface-mercier",
+      "title": {
+        "en-US": "Preface by Cardinal Mercier"
+      }
+    },
+    {
+      "id": "preface-bourne",
+      "title": {
+        "en-US": "Preface by Cardinal Bourne"
+      }
+    },
+    {
+      "id": "1-1-divine-plan",
+      "title": {
+        "en-US": "I.1. The Divine Plan of Our Adoptive Predestination in Jesus Christ"
+      }
+    },
+    {
+      "id": "1-2-christ-model",
+      "title": {
+        "en-US": "I.2. Christ, the Only Model of All Perfection"
+      }
+    },
+    {
+      "id": "1-3-christ-redeemer",
+      "title": {
+        "en-US": "I.3. Christ, the Author of Our Redemption and Infinite Treasury of Grace"
+      }
+    },
+    {
+      "id": "1-4-efficient-cause",
+      "title": {
+        "en-US": "I.4. Christ, the Efficient Cause of All Grace"
+      }
+    },
+    {
+      "id": "1-5-church",
+      "title": {
+        "en-US": "I.5. The Church, the Mystical Body of Christ"
+      }
+    },
+    {
+      "id": "1-6-holy-spirit",
+      "title": {
+        "en-US": "I.6. The Holy Spirit, the Spirit of Jesus"
+      }
+    },
+    {
+      "id": "2-1-faith",
+      "title": {
+        "en-US": "II.1. Faith in Jesus Christ, the Foundation of Christian Life"
+      }
+    },
+    {
+      "id": "2-2-baptism",
+      "title": {
+        "en-US": "II.2. Baptism, the Sacrament of Adoption and Initiation: Death and Life"
+      }
+    },
+    {
+      "id": "2-3-delicta",
+      "title": {
+        "en-US": "II.3. Delicta quis intelligit?"
+      }
+    },
+    {
+      "id": "2-4-penance",
+      "title": {
+        "en-US": "II.4. The Sacrament and the Virtue of Penance"
+      }
+    },
+    {
+      "id": "2-5-truth-in-charity",
+      "title": {
+        "en-US": "II.5. The Truth in Charity"
+      }
+    },
+    {
+      "id": "2-6-growth",
+      "title": {
+        "en-US": "II.6. Our Supernatural Growth in Christ"
+      }
+    },
+    {
+      "id": "2-7-eucharistic-sacrifice",
+      "title": {
+        "en-US": "II.7. The Eucharistic Sacrifice"
+      }
+    },
+    {
+      "id": "2-8-panis-vitae",
+      "title": {
+        "en-US": "II.8. Panis Vitae"
+      }
+    },
+    {
+      "id": "2-9-vox-sponsae",
+      "title": {
+        "en-US": "II.9. Vox Sponsae"
+      }
+    },
+    {
+      "id": "2-10-prayer",
+      "title": {
+        "en-US": "II.10. Prayer"
+      }
+    },
+    {
+      "id": "2-11-love-one-another",
+      "title": {
+        "en-US": "II.11. Love One Another"
+      }
+    },
+    {
+      "id": "2-12-mother-of-the-word",
+      "title": {
+        "en-US": "II.12. The Mother of the Incarnate Word"
+      }
+    },
+    {
+      "id": "2-13-coheredes-christi",
+      "title": {
+        "en-US": "II.13. Coheredes Christi"
+      }
+    }
+  ]
+}

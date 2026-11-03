@@ -464,3 +464,4 @@ Text is the JesusMarie.com digital edition of Coste (tomes I-XIII and the 1970 "
 
 - *Perfection chrétienne et contemplation*: the Herder English (Doyle 1937) lacks the French chapter VI (L'Accord des maîtres...) and the appendices, and the scan's OCR carries few of its footnotes. The two scans of the 1923 French have stray OCR in footnotes (digits for letters, "4o3").
 - *L'Amour de Dieu et la Croix de Jésus*: the French OCR (archive.org lamourdedieuetla000*preg) is rough: è/é and à/a confusions, glued words, occasional garbled lines. Needs a second pass against the printed edition. English footnotes are mostly missing from the OCR.
+- *Christ, the Life of the Soul*: English only (Tyburn nun, 1922); no open French text exists (Gallica and HathiTrust refused scripted access). Section numerals lost by the OCR as above; page-bottom notes are attached to the end of their page.
