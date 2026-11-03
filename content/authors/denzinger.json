@@ -7,5 +7,22 @@
   "matches": [
     "Heinrich Denzinger",
     "Denzinger"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "denzinger/enchiridion-symbolorum",
+          "why": {
+            "en-US": "Creeds, definitions and declarations on faith and morals, in Latin",
+            "pt-BR": "Símbolos, definições e declarações sobre fé e moral, em latim"
+          }
+        }
+      ]
+    }
   ]
 }
