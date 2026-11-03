@@ -1,0 +1,5 @@
+# Letter III. To Madame Rivolat, Widow
+
+The Saint consoles her in the death of her husband.
+
+Learning that you are widowed, my dear daughter, I suffer with the pain you have suffered; but still I exhort you not to let yourself be carried away with sorrow, for the grace which God has given you to wish to serve him obliges you to console yourself in him; and the children of the love of God have so much trust in his goodness that they never become desolate, having a refuge in which they find all content. He who has learnt how to draw from that fountain cannot long remain thirsty from the passions of this miserable life. I know that you are ill, but, my dear child, as your pains increase you must increase your courage, thinking that he who, to show his love for you, has chosen the death of the cross, will draw you more and more to his love and his glory by the cross of tribulation which he sends you. Meanwhile I pray our Lord for you and your departed, and beg you to recommend me to his Divine mercy. I am in him your humble, affectionate, &c.

@@ -1,0 +1,15 @@
+# Letter XXV. To a Lady
+
+We must hate our faults with tranquillity, and not uselessly desire what w>e cannot have.
+
+20th January, 1609. Madam, — No doubt you would explain yourself much better and more freely by word of mouth than by
+
+33° St* Francis de Sales.
+
+writing j but, while waiting for God to will it, we must use the means which offer themselves. You see, the lethargies, languors, and numbness of the senses cannot be without some sort of sensible sadness, but so long as your will and the substance of your spirit is quite resolved to be all to God, there is nothing to fear: for they are natural imperfections, and rather maladies than sins or spiritual faults. Still you must stir yourself up and excite yourself to courage and spiritual activity as far as possible.
+
+Oh! this death is terrible, my dear daughter, 'tis very true, but the life which is beyond, and which the mercy of God will give us, is also very desirable indeed; and so we must by no means fall into distrust.. Though we are miserable, we are not nearly so much so as God is merciful to those who want to love him, and who have placed their hopes in him. When the blessed Cardinal Borromeo was on the point of death, he had the image of our dead Saviour brought, in order to sweeten his death by that of his Saviour. It is the best of all remedies against the fear of our death, this thought of him who is our life, and never to think of the one without adding the thought of the other.
+
+My God! dear daughter, do not examine whether what you do is little or much, good or ill, provided it is not sin, and that in good faith you will to do it for God. As much as you can, do perfectly what you do, but when it is done, think of it no more; rather think of what is to be done quite simply in the way of God, and do not torment your spirit. We must hate our faults, but with a tranquil and quiet hate, not with an angry and restless hate; and so we must have patience when we see them, and draw from them a profit of a holy-abasement of ourselves. Without this, my child, your imperfections which you see subtly, trouble you by getting still more subtle, and by this means sustain themselves, as there is nothing which more preserves our weeds than disquietude and eagerness in removing them.
+
+To be dissatisfied and fret about the world, when we must of necessity be in it, is a great temptation. The Providence of God is wiser than we. We fancy that by changing our ships, we shall get on better; yes, if we change ourselves. My God, I am sworn enemy of these useless, dangerous, and bad desires: for though what we desire is good, the desire is bad, because God does not will us this sort of good, but another, in which he wants us to exercise ourselves. God wishes to speak to us in the thorns and the bush, as he did to Moses; and we want him to speak in the small wind, gentle and fresh, as he did to Elias. May his goodness preserve you, my daughter; but be constant courageous, and rejoice that he gives you the will to be all his. I am, in this goodness, very completely your, &c.

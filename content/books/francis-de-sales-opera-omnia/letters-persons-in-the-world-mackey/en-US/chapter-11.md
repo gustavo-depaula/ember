@@ -1,0 +1,13 @@
+# Letter XI. To a Young Lady
+
+The Saint endeavours to turn her away from a suit which she thought of instituting against one who had promised to marry her and broken his word.
+
+On the first part of the letter you have written to Madame N. and which you wished to be communicated to me, my dearest daughter, I will say that if M. N. made to you no other assertions than those you give, and if the matter were before us, we should condemn him to espouse you, under heavy penalties; for he has no right, on account of considerations which he could and should have made before his promise, to break his word. But I do not know how things go over there, where often the rules which we have in our ecclesiastical affairs are not known.
+
+Meantime, my dearest daughter, my desire to dissuade you from prosecuting this wretched suit did not arise from distrust of your good right, but from the aversion and bad opinion I have of all processes and contentions. Truly the result of a process must be marvellously happy, to make up for the expense, the bitterness, the eager excitements, the dissipation of heart, the atmosphere of reproaches, and the multitude of inconveniences which prosecutions usually bring. Above all I consider worrying and useless, yea, injurious, the suits which arise from injurious words and breaches of promise when there is no real interest at stake; because suits, instead of putting down insults, publish them, increase and continue them; and instead of causing the fulfilment of promises drive to the other extreme.
+
+Look, my dear daughter, I consider that in real truth the contempt of contempt is the testimony of generosity which we give by our disdain of the weakness and inconstancy of those who break the faith they have given us: it is the best remedy of all. Most injuries are more happily met by the contempt which is shown for them than by any other means; the blame lies rather with the injurer than with the injured. But now, withal, these are my general sentiments, which perhaps are not proper in the particular state in which your affairs are; and following good advice, taken on the consideration of the particular circumstances which present themselves, you cannot go wrong.
+
+I will then pray our Lord to give you a good and holy issue to this affair, that you may arrive at the port of a solid and constant tranquillity of heart, which can only be obtained in God, in whose holy love I wish that you may more and more progress. God bless you with his great blessings, that is, my dear child, God make you perfectly his. I am in him your very affectionate, &c.
+
+I salute with all my heart your father, whom I cherish with a quite special love and honour, and madam your dear sister.

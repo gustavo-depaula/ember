@@ -1,0 +1,7 @@
+# Letter IX. To Mademoiselle de Traves
+
+The Saint engages her not to marry, and courageously to support family trouble.
+
+&th April, 1609. Mademoiselle, — Wishing to honour, cherish, and serve you all my life, I have inquired of Madam, your dear cousin, my sister, about the state of your heart, of which she has said what consoles me. How happy will you be, my dear child, if you persevere in despising the promises which the world will want to make you, for in real truth it is only a real deceiver. Let us never look at what it offers, without considering what it hides. It is true, doubtless, that a good husband is a great help, but there are very few, and good as he may be, he becomes more of a tie than a help. You have a great anxiety for the family which is on your hands, but it would not lessen if you undertook the charge of another, perhaps as large. Stay as you are, and believe me, make a resolution to this effect so strong and so evident that no one may doubt it. The circumstances in which you are now will serve you as a little martyrdom, if you continue to join your labours therein to those of our Saviour, of our Lady and the Saints; who, amid the variety and multiplicity of the importunities which their charge gave them, have inviolably kept the love and the devotion for the holy unity of God, in whom, by whom, and for whom they have conducted their lives to a most happy end.
+
+O that you may, like them, keep and consecrate to God your heart, your body, your love, and all your life! I am, in all sincerity, your &c.

@@ -1,0 +1,7 @@
+# Letter XXVIII. To a Lady
+
+The Saint congratulates her on her daughter's entering the Carmelites. I have heard from the mouth of dear M. Crichant the history of the entry and reception of your dear little daughter into the holy order of Carmelites, and how she passed from your maternal bosom, my dearest daughter, into that of the good Mother Magdalen of S. Joseph. I trust that this action will be blessed by-the sweetness of him who loves speed in good designs and good executions, and who found fault with the prudence of that youth who wanted to go and bury his father before coming entirely to follow Jesus.
+
+There is something a little extraordinary in the case of this child, and perhaps also in her reception, but it is no wonder that a needle free from grease, not distant, not rubbed with oil, not hindered by the diamond, should join itself so quickly and powerfully to its magnet. So then, blessed be God, my dearest daughter, behold your holocaust almost consumed before it is properly placed upon the altar. The Divine Majesty bless you more and more with his holy love, and also the heart of your dear husband, who so sweetly conspires with you in aspiring entirely after God, and respiring only in him. I am invariably, your, &c.
+
+My heart is entirely dedicated to that of Mademoiselle de Verton, your dear sister, in which I have seen that God reigns: may it please his Divine Majesty, to reign there for ever.

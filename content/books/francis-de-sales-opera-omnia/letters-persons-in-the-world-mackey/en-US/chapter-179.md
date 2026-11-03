@@ -1,0 +1,15 @@
+# Letter XXI. To Madame de Chantal, at Paris
+
+The Saint expresses his disgust for the court, and for the condition of a courtier.
+
+29th December, 161 9.
+
+I assure you, my best and dearest mother, that the sight of the grandeur of the world makes the grandeur of Christian virtues appear grander to me, and makes me more highly esteem its contempt. What a difference, my dearest mother, between the assemblage of various suitors (pretendants) — for the court is this and nothing but this — and the assemblage of religious souls, who have no pretensions save for heaven. Oh! if we knew in what consists true good!
+
+Do not believe, my dearest mother, that any favour of the court can attach me. O God! how much more desirable a thing is it to be poor in the house of God, than to dwell in the palaces of kings. I am here making my novitiate for the court, but I will never make my profession in it, God helping. On Christmas Eve I preached before the Queen at the Capuchins, where she made her communion; but I assure you that I preached neither better nor more willingly before all the princes and princesses, than I do in our poor little Visitation at Annecy.
+
+O God! my dearest mother, we must put our heart entirely in God, and never take it from him. He alone is our peace, our consolation, and our glory: what remains for us but to unite ourselves more and more to this Saviour, that we may bring forth good fruit? Are we not blessed, my dearest mother, in being able to graft our stock on that of the Saviour, who is grafted on the Divinity? For this sovereign essence is the root of that tree, whose branches we are, and whose fruit our love is: this was my subject this morning.
+
+Courage, my uniquely dear mother, let us not cease to throw our hearts into God: they are the perfume-
+
+Letters of the Saint abottt Jiimself. 457 balls which he loves to compound j let us allow him to make them as he likes. Yes, Lord Jesus, do all at your will with our hearts; for we wish neither part nor portion therein, but give, consecrate, and sacrifice them to you for ever. So then, remain always in perfect peace in the arms of our Saviour who loves us dearly, and whose holy love ought alone to serve as our general rendezvous for all our conversations: this holy love, my mother, in which ours is founded, enrooted, grows and is fed, will be eternally perfect and lasting. I salute our sisters affectionately. I am grieved that our Sister N. has the fancy of changing houses. When shall we not wish anything, but entirely leave solicitude to those whose duty it is to will for us what is needed? But it cannot be helped: our own will is bridled by obedience, and still we cannot keep it from rearing up, and prancing. We must bear the infirmity. ' Much time elapses before we become entirely despoiled of ourselves, and of the pretended right of judging what is best for us and desiring it. I admire the little Infant of Bethlehem, who knew so much, who had such power, and who, without saying a word, let himself be handled, and bound, and fastened, and wrapt up as required. May God ever be in in the midst of your heart and mine, my dearest mother.

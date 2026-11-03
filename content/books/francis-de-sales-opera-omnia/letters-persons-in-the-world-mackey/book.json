@@ -1,0 +1,1205 @@
+{
+  "id": "sales-letters-persons-in-the-world-mackey",
+  "cover": "classic",
+  "name": {
+    "en-US": "Letters to Persons in the World",
+    "pt-BR": "Cartas a Pessoas no Mundo"
+  },
+  "author": {
+    "en-US": "St. Francis de Sales",
+    "pt-BR": "São Francisco de Sales"
+  },
+  "description": {
+    "en-US": "Seven books of Francis de Sales's spiritual letters to lay people (young ladies, married women, widows, men of the world), in Canon Mackey's English version with the translator's notice.",
+    "pt-BR": "Sete livros de cartas espirituais de São Francisco de Sales a leigos (moças, casadas, viúvas, homens do mundo), na versão inglesa do cônego Mackey, com a notícia do tradutor."
+  },
+  "composed": 1620,
+  "languages": [
+    "en-US"
+  ],
+  "work": "francis-de-sales/lettres-spirituelles-monde",
+  "editions": {
+    "en-US": {
+      "editor": "H. B. Mackey, O.S.B., preface by Bishop Hedley (London: Burns & Oates, 1890)",
+      "year": 1890
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/letterstopersons00franuoft",
+      "edition": "Letters to Persons in the World, tr. H. B. Mackey, Library of St. Francis de Sales II (London: Burns & Oates, c. 1894), Internet Archive full-text OCR.",
+      "description": " Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "St. Francis de Sales died in 1622 and the edition is of 1890, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface by Bishop Hedley"
+      }
+    },
+    {
+      "id": "translators-notice",
+      "title": {
+        "en-US": "Translator's Notice"
+      }
+    },
+    {
+      "id": "part-1",
+      "title": {
+        "en-US": "Book I: Letters to Young Ladies"
+      },
+      "children": [
+        {
+          "id": "chapter-01",
+          "title": {
+            "en-US": "Letter I. To a Young Lady"
+          }
+        },
+        {
+          "id": "chapter-02",
+          "title": {
+            "en-US": "Letter II. To a Young Lady going to Live in Society"
+          }
+        },
+        {
+          "id": "chapter-03",
+          "title": {
+            "en-US": "Letter III. To a Young Lady"
+          }
+        },
+        {
+          "id": "chapter-04",
+          "title": {
+            "en-US": "Letter IV. To a Cousin"
+          }
+        },
+        {
+          "id": "chapter-05",
+          "title": {
+            "en-US": "Letter V. To a Young Lady"
+          }
+        },
+        {
+          "id": "chapter-06",
+          "title": {
+            "en-US": "Letter VI. To a Young Lady"
+          }
+        },
+        {
+          "id": "chapter-07",
+          "title": {
+            "en-US": "Letter VII. To a Young Lady"
+          }
+        },
+        {
+          "id": "chapter-08",
+          "title": {
+            "en-US": "Letter VIII. To a Young Lady who was thinking of Marriage"
+          }
+        },
+        {
+          "id": "chapter-09",
+          "title": {
+            "en-US": "Letter IX. To Mademoiselle de Traves"
+          }
+        },
+        {
+          "id": "chapter-10",
+          "title": {
+            "en-US": "Letter X. To a Young Lady"
+          }
+        },
+        {
+          "id": "chapter-11",
+          "title": {
+            "en-US": "Letter XI. To a Young Lady"
+          }
+        },
+        {
+          "id": "chapter-12",
+          "title": {
+            "en-US": "Letter XII. To the Same"
+          }
+        },
+        {
+          "id": "chapter-13",
+          "title": {
+            "en-US": "Letter XIII. To a Young Lady"
+          }
+        },
+        {
+          "id": "chapter-14",
+          "title": {
+            "en-US": "Letter XIV. To a Young Lady"
+          }
+        },
+        {
+          "id": "chapter-15",
+          "title": {
+            "en-US": "Letter XV. To a Young Lady"
+          }
+        },
+        {
+          "id": "chapter-16",
+          "title": {
+            "en-US": "Letter XVI. To a Young Lady"
+          }
+        },
+        {
+          "id": "chapter-17",
+          "title": {
+            "en-US": "Letter XVII. To a Young Lady"
+          }
+        },
+        {
+          "id": "chapter-18",
+          "title": {
+            "en-US": "Letter XVIII. To a Young Lady who found obstacles to her"
+          }
+        },
+        {
+          "id": "chapter-19",
+          "title": {
+            "en-US": "Letter XIX. To a Postulant. He praises her for wishing to enter the Order of the Visitation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "Book II: Letters to Married Women"
+      },
+      "children": [
+        {
+          "id": "chapter-20",
+          "title": {
+            "en-US": "Letter I. To a Young Married Lady"
+          }
+        },
+        {
+          "id": "chapter-21",
+          "title": {
+            "en-US": "Letter II. To a Married Lady"
+          }
+        },
+        {
+          "id": "chapter-22",
+          "title": {
+            "en-US": "Letter III. To a Married Lady"
+          }
+        },
+        {
+          "id": "chapter-23",
+          "title": {
+            "en-US": "Letter IV. To Madam, wife of President Brulart"
+          }
+        },
+        {
+          "id": "chapter-24",
+          "title": {
+            "en-US": "Letter V. To the Same"
+          }
+        },
+        {
+          "id": "chapter-25",
+          "title": {
+            "en-US": "Letter VI. To the Same"
+          }
+        },
+        {
+          "id": "chapter-26",
+          "title": {
+            "en-US": "Letter VII. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-27",
+          "title": {
+            "en-US": "Letter VIII. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-28",
+          "title": {
+            "en-US": "Letter IX. To one or his Nieces"
+          }
+        },
+        {
+          "id": "chapter-29",
+          "title": {
+            "en-US": "Letter X. To one of his Cousins"
+          }
+        },
+        {
+          "id": "chapter-30",
+          "title": {
+            "en-US": "Letter XI. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-31",
+          "title": {
+            "en-US": "Letter XII. To a Lady, the Wife of a Senator"
+          }
+        },
+        {
+          "id": "chapter-32",
+          "title": {
+            "en-US": "Letter XIII. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-33",
+          "title": {
+            "en-US": "Letter XIV. To two Sisters"
+          }
+        },
+        {
+          "id": "chapter-34",
+          "title": {
+            "en-US": "Letter XV. To M. and Madame de Forax"
+          }
+        },
+        {
+          "id": "chapter-35",
+          "title": {
+            "en-US": "Letter XVI. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-36",
+          "title": {
+            "en-US": "Letter XVII. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-37",
+          "title": {
+            "en-US": "Letter XVIII. To a Lady in Pregnancy"
+          }
+        },
+        {
+          "id": "chapter-38",
+          "title": {
+            "en-US": "Letter XIX. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-39",
+          "title": {
+            "en-US": "Letter XX. To the Same"
+          }
+        },
+        {
+          "id": "chapter-40",
+          "title": {
+            "en-US": "Letter XXI. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-41",
+          "title": {
+            "en-US": "Letter XXII. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-42",
+          "title": {
+            "en-US": "Letter XXIII. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-43",
+          "title": {
+            "en-US": "Letter XXIV. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-44",
+          "title": {
+            "en-US": "Letter XXV. To A Lady"
+          }
+        },
+        {
+          "id": "chapter-45",
+          "title": {
+            "en-US": "Letter XXVI. To a Religious of the Visitation"
+          }
+        },
+        {
+          "id": "chapter-46",
+          "title": {
+            "en-US": "Letter XXVII. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-47",
+          "title": {
+            "en-US": "Letter XXVIII. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-48",
+          "title": {
+            "en-US": "Letter XXIX. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-49",
+          "title": {
+            "en-US": "Letter XXX. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-50",
+          "title": {
+            "en-US": "Letter XXXI. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-51",
+          "title": {
+            "en-US": "Letter XXXII. To a Religious who had been Married"
+          }
+        },
+        {
+          "id": "chapter-52",
+          "title": {
+            "en-US": "Letter XXXIII. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-53",
+          "title": {
+            "en-US": "Letter XXXIV. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-54",
+          "title": {
+            "en-US": "Letter XXXV. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-55",
+          "title": {
+            "en-US": "Letter XXXVI. To Madam, wife of President Brulart"
+          }
+        },
+        {
+          "id": "chapter-56",
+          "title": {
+            "en-US": "Letter XXXVII. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-57",
+          "title": {
+            "en-US": "Letter XXXVIII. To a Lady"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "title": {
+        "en-US": "Book III: Letters to Widows"
+      },
+      "children": [
+        {
+          "id": "chapter-58",
+          "title": {
+            "en-US": "Letter I. To a Cousin"
+          }
+        },
+        {
+          "id": "chapter-59",
+          "title": {
+            "en-US": "Letter II. To an Aunt"
+          }
+        },
+        {
+          "id": "chapter-60",
+          "title": {
+            "en-US": "Letter III. To Madame Rivolat, Widow"
+          }
+        },
+        {
+          "id": "chapter-61",
+          "title": {
+            "en-US": "Letter IV. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-62",
+          "title": {
+            "en-US": "Letter V. To Madame de Chantal"
+          }
+        },
+        {
+          "id": "chapter-63",
+          "title": {
+            "en-US": "Letter VI. To the Same"
+          }
+        },
+        {
+          "id": "chapter-64",
+          "title": {
+            "en-US": "Letter VII. To the Same"
+          }
+        },
+        {
+          "id": "chapter-65",
+          "title": {
+            "en-US": "Letter VIII. To Madame the Countess de Dalet"
+          }
+        },
+        {
+          "id": "chapter-66",
+          "title": {
+            "en-US": "Letter IX. To the Same"
+          }
+        },
+        {
+          "id": "chapter-67",
+          "title": {
+            "en-US": "Letter X. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-68",
+          "title": {
+            "en-US": "Letter XI. To Madame de Chantal"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-4",
+      "title": {
+        "en-US": "Book IV: Letters to Men of the World"
+      },
+      "children": [
+        {
+          "id": "chapter-69",
+          "title": {
+            "en-US": "Letter I. To a Friend"
+          }
+        },
+        {
+          "id": "chapter-70",
+          "title": {
+            "en-US": "Letter II. To a Gentleman who was going to live at Court"
+          }
+        },
+        {
+          "id": "chapter-71",
+          "title": {
+            "en-US": "Letter III. To a Man of the World"
+          }
+        },
+        {
+          "id": "chapter-72",
+          "title": {
+            "en-US": "Letter IV. To an Author"
+          }
+        },
+        {
+          "id": "chapter-73",
+          "title": {
+            "en-US": "Letter V. To a Lord of the Court.*"
+          }
+        },
+        {
+          "id": "chapter-74",
+          "title": {
+            "en-US": "Letter VI. To a Man of the World"
+          }
+        },
+        {
+          "id": "chapter-75",
+          "title": {
+            "en-US": "Letter VII. To a Gentleman who wished to leave the World"
+          }
+        },
+        {
+          "id": "chapter-76",
+          "title": {
+            "en-US": "Letter VIII. To a Doctor"
+          }
+        },
+        {
+          "id": "chapter-77",
+          "title": {
+            "en-US": "Letter IX. To Monsieur de Rochefort"
+          }
+        },
+        {
+          "id": "chapter-78",
+          "title": {
+            "en-US": "Letter X. To a Man op the World"
+          }
+        },
+        {
+          "id": "chapter-79",
+          "title": {
+            "en-US": "Letter XI. To a Friend"
+          }
+        },
+        {
+          "id": "chapter-80",
+          "title": {
+            "en-US": "Letter XII. To a Man of the World"
+          }
+        },
+        {
+          "id": "chapter-81",
+          "title": {
+            "en-US": "Letter XIII. To a Man of the World"
+          }
+        },
+        {
+          "id": "chapter-82",
+          "title": {
+            "en-US": "Letter XIV. To the President Fre'miot"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": {
+        "en-US": "Book V: Various Letters"
+      },
+      "children": [
+        {
+          "id": "chapter-83",
+          "title": {
+            "en-US": "Letter I. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-84",
+          "title": {
+            "en-US": "Letter II. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-85",
+          "title": {
+            "en-US": "Letter III. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-86",
+          "title": {
+            "en-US": "Letter IV. To a Young Lady who was Sick"
+          }
+        },
+        {
+          "id": "chapter-87",
+          "title": {
+            "en-US": "Letter V. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-88",
+          "title": {
+            "en-US": "Letter VI. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-89",
+          "title": {
+            "en-US": "Letter VII. To the Same"
+          }
+        },
+        {
+          "id": "chapter-90",
+          "title": {
+            "en-US": "Letter VIII. To the Same"
+          }
+        },
+        {
+          "id": "chapter-91",
+          "title": {
+            "en-US": "Letter IX. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-92",
+          "title": {
+            "en-US": "Letter X. To a Religious of the Visitation"
+          }
+        },
+        {
+          "id": "chapter-93",
+          "title": {
+            "en-US": "Letter XI. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-94",
+          "title": {
+            "en-US": "Letter XII. To the Same"
+          }
+        },
+        {
+          "id": "chapter-95",
+          "title": {
+            "en-US": "Letter XIII. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-96",
+          "title": {
+            "en-US": "Letter XIV. To Madame de Chantal"
+          }
+        },
+        {
+          "id": "chapter-97",
+          "title": {
+            "en-US": "Letter XV. To the Same"
+          }
+        },
+        {
+          "id": "chapter-98",
+          "title": {
+            "en-US": "Letter XVI. To a Superior of the Visitation"
+          }
+        },
+        {
+          "id": "chapter-99",
+          "title": {
+            "en-US": "Letter XVII. To Madame de Chantal"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": {
+        "en-US": "Book VI: Various Letters"
+      },
+      "children": [
+        {
+          "id": "chapter-100",
+          "title": {
+            "en-US": "Letter I. To Madame de Chantal"
+          }
+        },
+        {
+          "id": "chapter-101",
+          "title": {
+            "en-US": "Letter II. To the Same"
+          }
+        },
+        {
+          "id": "chapter-102",
+          "title": {
+            "en-US": "Letter III. To the Same. (Madame de Chantal.)"
+          }
+        },
+        {
+          "id": "chapter-103",
+          "title": {
+            "en-US": "Letter IV. To the Same"
+          }
+        },
+        {
+          "id": "chapter-104",
+          "title": {
+            "en-US": "Letter V. To the Same"
+          }
+        },
+        {
+          "id": "chapter-105",
+          "title": {
+            "en-US": "Letter VI. To the Same"
+          }
+        },
+        {
+          "id": "chapter-106",
+          "title": {
+            "en-US": "Letter VII. To Madame de Chantal"
+          }
+        },
+        {
+          "id": "chapter-107",
+          "title": {
+            "en-US": "Letter VIII. To Madame de Chantal"
+          }
+        },
+        {
+          "id": "chapter-108",
+          "title": {
+            "en-US": "Letter IX. To a Young Lady"
+          }
+        },
+        {
+          "id": "chapter-109",
+          "title": {
+            "en-US": "Letter X. To Madame de Chantal"
+          }
+        },
+        {
+          "id": "chapter-110",
+          "title": {
+            "en-US": "Letter XI. To Madame de Chantal"
+          }
+        },
+        {
+          "id": "chapter-111",
+          "title": {
+            "en-US": "Letter XII. To Madame de Chantal"
+          }
+        },
+        {
+          "id": "chapter-112",
+          "title": {
+            "en-US": "Letter XIII. To the Same"
+          }
+        },
+        {
+          "id": "chapter-113",
+          "title": {
+            "en-US": "Letter XIV. To the Same"
+          }
+        },
+        {
+          "id": "chapter-114",
+          "title": {
+            "en-US": "Letter XV. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-115",
+          "title": {
+            "en-US": "Letter XVI. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-116",
+          "title": {
+            "en-US": "Letter XVII. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-117",
+          "title": {
+            "en-US": "Letter XVIII. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-118",
+          "title": {
+            "en-US": "Letter XIX. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-119",
+          "title": {
+            "en-US": "Letter XX. To one of his Relatives"
+          }
+        },
+        {
+          "id": "chapter-120",
+          "title": {
+            "en-US": "Letter XXI. To the Same"
+          }
+        },
+        {
+          "id": "chapter-121",
+          "title": {
+            "en-US": "Letter XXII. To one of his Sisters"
+          }
+        },
+        {
+          "id": "chapter-122",
+          "title": {
+            "en-US": "Letter XXIII. To Madame de Chantal"
+          }
+        },
+        {
+          "id": "chapter-123",
+          "title": {
+            "en-US": "Letter XXIV. To the Same"
+          }
+        },
+        {
+          "id": "chapter-124",
+          "title": {
+            "en-US": "Letter XXV. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-125",
+          "title": {
+            "en-US": "Letter XXVI. To Madame de Chantal"
+          }
+        },
+        {
+          "id": "chapter-126",
+          "title": {
+            "en-US": "Letter XXVII. To the Wife of President de Herce"
+          }
+        },
+        {
+          "id": "chapter-127",
+          "title": {
+            "en-US": "Letter XXVIII. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-128",
+          "title": {
+            "en-US": "Letter XXIX. To one of his Sisters"
+          }
+        },
+        {
+          "id": "chapter-129",
+          "title": {
+            "en-US": "Letter XXX. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-130",
+          "title": {
+            "en-US": "Letter XXXI. To Madame de Chantal"
+          }
+        },
+        {
+          "id": "chapter-131",
+          "title": {
+            "en-US": "Letter XXXII. To a Religious"
+          }
+        },
+        {
+          "id": "chapter-132",
+          "title": {
+            "en-US": "Letter XXXIII. To one of his Spiritual Daughters"
+          }
+        },
+        {
+          "id": "chapter-133",
+          "title": {
+            "en-US": "Letter XXXIV. To a Superior of the Visitation, his Niece"
+          }
+        },
+        {
+          "id": "chapter-134",
+          "title": {
+            "en-US": "Letter XXXV. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-135",
+          "title": {
+            "en-US": "Letter XXXVI. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-136",
+          "title": {
+            "en-US": "Letter XXXVII. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-137",
+          "title": {
+            "en-US": "Letter XXXVIII. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-138",
+          "title": {
+            "en-US": "Letter XXXIX. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-139",
+          "title": {
+            "en-US": "Letter XL. To Mademoiselle de Traves"
+          }
+        },
+        {
+          "id": "chapter-140",
+          "title": {
+            "en-US": "Letter XLI. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-141",
+          "title": {
+            "en-US": "Letter XLII. To a Religious of the Visitation"
+          }
+        },
+        {
+          "id": "chapter-142",
+          "title": {
+            "en-US": "Letter XLIII. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-143",
+          "title": {
+            "en-US": "Letter XLIV. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-144",
+          "title": {
+            "en-US": "Letter XLV. To one of his Sisters"
+          }
+        },
+        {
+          "id": "chapter-145",
+          "title": {
+            "en-US": "Letter XLVI. To the Same"
+          }
+        },
+        {
+          "id": "chapter-146",
+          "title": {
+            "en-US": "Letter XLVII. To a Superior of the Visitation"
+          }
+        },
+        {
+          "id": "chapter-147",
+          "title": {
+            "en-US": "Letter XLVIII. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-148",
+          "title": {
+            "en-US": "Letter XLIX. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-149",
+          "title": {
+            "en-US": "Letter L. To a Superior or the Visitation"
+          }
+        },
+        {
+          "id": "chapter-150",
+          "title": {
+            "en-US": "Letter LI. To A Lady"
+          }
+        },
+        {
+          "id": "chapter-151",
+          "title": {
+            "en-US": "Letter LII. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-152",
+          "title": {
+            "en-US": "Letter LIII. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-153",
+          "title": {
+            "en-US": "Letter LIV. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-154",
+          "title": {
+            "en-US": "Letter LV. To an Ecclesiastic"
+          }
+        },
+        {
+          "id": "chapter-155",
+          "title": {
+            "en-US": "Letter LVI"
+          }
+        },
+        {
+          "id": "chapter-156",
+          "title": {
+            "en-US": "Letter LVII. To a Protestant who had asked to have a Conference with Him"
+          }
+        },
+        {
+          "id": "chapter-157",
+          "title": {
+            "en-US": "Letter LVIII. To Madame de Chantal"
+          }
+        },
+        {
+          "id": "chapter-158",
+          "title": {
+            "en-US": "Letter LIX. To his Brother, Coadjutor of Geneva"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-7",
+      "title": {
+        "en-US": "Book VII: Letters of the Saint About Himself"
+      },
+      "children": [
+        {
+          "id": "chapter-159",
+          "title": {
+            "en-US": "Letter I"
+          }
+        },
+        {
+          "id": "chapter-160",
+          "title": {
+            "en-US": "Letter II"
+          }
+        },
+        {
+          "id": "chapter-161",
+          "title": {
+            "en-US": "Letter III. To Madame the Countess of Sales, his Mother"
+          }
+        },
+        {
+          "id": "chapter-162",
+          "title": {
+            "en-US": "Letter IV. To Madame de Chantal"
+          }
+        },
+        {
+          "id": "chapter-163",
+          "title": {
+            "en-US": "Letter V. To the Same"
+          }
+        },
+        {
+          "id": "chapter-164",
+          "title": {
+            "en-US": "Letter VI. To the Same"
+          }
+        },
+        {
+          "id": "chapter-165",
+          "title": {
+            "en-US": "Letter VII. To the Same"
+          }
+        },
+        {
+          "id": "chapter-166",
+          "title": {
+            "en-US": "Letter VIII. To the Same. (Madame de Chantal.)"
+          }
+        },
+        {
+          "id": "chapter-167",
+          "title": {
+            "en-US": "Letter IX. To the Same"
+          }
+        },
+        {
+          "id": "chapter-168",
+          "title": {
+            "en-US": "Letter X. To the Same"
+          }
+        },
+        {
+          "id": "chapter-169",
+          "title": {
+            "en-US": "Letter XI. To Madame de Cornillon, his Sister"
+          }
+        },
+        {
+          "id": "chapter-170",
+          "title": {
+            "en-US": "Letter XII. To Madame de Chantal"
+          }
+        },
+        {
+          "id": "chapter-171",
+          "title": {
+            "en-US": "Letter XIII. To Madame de Cornillon, his Sister"
+          }
+        },
+        {
+          "id": "chapter-172",
+          "title": {
+            "en-US": "Letter XIV. To Madame de Chantal"
+          }
+        },
+        {
+          "id": "chapter-173",
+          "title": {
+            "en-US": "Letter XV. To the Same"
+          }
+        },
+        {
+          "id": "chapter-174",
+          "title": {
+            "en-US": "Letter XVI. To the Same"
+          }
+        },
+        {
+          "id": "chapter-175",
+          "title": {
+            "en-US": "Letter XVII. To a Lady"
+          }
+        },
+        {
+          "id": "chapter-176",
+          "title": {
+            "en-US": "Letter XVIII. To a Cure of the Diocese op Geneva"
+          }
+        },
+        {
+          "id": "chapter-177",
+          "title": {
+            "en-US": "Letter XIX. To a Friend"
+          }
+        },
+        {
+          "id": "chapter-178",
+          "title": {
+            "en-US": "Letter XX. To an Ecclesiastic. On friendship"
+          }
+        },
+        {
+          "id": "chapter-179",
+          "title": {
+            "en-US": "Letter XXI. To Madame de Chantal, at Paris"
+          }
+        },
+        {
+          "id": "chapter-180",
+          "title": {
+            "en-US": "Letter XXII. To the Same"
+          }
+        },
+        {
+          "id": "chapter-181",
+          "title": {
+            "en-US": "Letter XXIII. To the Same"
+          }
+        },
+        {
+          "id": "chapter-182",
+          "title": {
+            "en-US": "Letter XXIV. To M. Favre"
+          }
+        },
+        {
+          "id": "chapter-183",
+          "title": {
+            "en-US": "Letter XXV. To a Lady"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+# Letter XXVII. To the Wife of President de Herce
+
+He consoles her under the motions of the passions which she felt, and which alarmed her. — Nature is not indifferent to sufferings in this life: our Lord in his Passion an example of this. — Remedy for the outbut*sts of self-love.
+
+An?iecy, *jth July, 1610. Madame, — God, our Saviour, knows well that among the affections he has placed in my soul, that of cherishing you extremely and honouring you most perfectly, is one of the strongest, and entirely invariable, exempt from change and from forgetfulness. Well, now, this protestation being made very religiously, I will say this little word of liberty and candour, and will begin again to call you by the cordial name of my dearest daughter, since in truth I feel that I am cordially your father by affection.
+
+My dearest daughter, then, I have not written to you; but tell me, I pray, have you written to me since my return into this country? All the same, you have not forgotten me; Oh! certainly, neither have I you; for I say to you with all fidelity and certainty, that what God wants me to be to you that I am, and I quite feel that I shall be such for ever, most constantly and most thoroughly, and I have in this a very singular satisfaction, accompanied with much consolation and profit for my soul.
+
+I was waiting for you to write, not from thinking you should, but not doubting that you would, and then I could write more at large. But if you had waited longer, believe me, my very dear daughter, I could have waited no longer; any more than I can ever leave out your very dear self and all your dear family in the offering which I make daily to God the Father on the altar, where you hold, in the commemoration which I make of the living, a quite special rank; and indeed you are quite specially dear to me.
+
+Oh! I see, my dearest child, in your letter, a great reason to bless God for a soul which keeps holy indifference in fact, though not in feelings. My dearest child, all this you tell me of your little faults is nothing. These little surprises of the passions are inevitable in this mortal life. On this account does the holy apostle cry to heaven: Alas / miserable man that I am! I perceive two men in me, the old and the new; two laws, the law of the flesh, and the law of the spirit; two operations, nature and grace. Ah! who shall deliver me from the body of this death £*
+
+My daughter, self-love dies only with our body, we must always feel its open attacks or its secret attempts while we are in this exile. It is enough that we do not consent with a willed, deliberate, fixed, and entertained consent; and this virtue of indifference is so excellent, that our old man, in the sensible part, and human nature according to its natural faculties, were not capable of it. Even our Lord, who as a child of Adam (though exempt from all sin and all the appear- * Eom. vii.
+
+ances thereof;) was, in his sensible part; and his human faculties, by no means indifferent, but desired not to die on the cross; the indifference was all reserved, with its exercise, to the spirit, to the superior portion, to the faculties inflamed by grace, and in general to himself as being the new man.
+
+So then, remain in peace. When we happen to break the laws of indifference in indifferent things, or by the sudden sallies of self-love and our passions, let us prostrate at once, as soon as we can, our heart before God, and say, in a spirit of confidence and humility, Have mercy on me, 0 Lord, for I am weak* Let us arise in peace and tranquillity, and knot again the thread of our indifference, and then continue our work. We must not break the strings nor throw up the lute when we find a discord; we must bend our ear to find whence the disorder comes, and gently tighten or relax the string as the evil requires.
+
+Be in peace, my dearest child, and write to me in confidence when you think it will be for your consolation. I will answer faithfully and with a particular pleasure, your soul being dear to me, like my own.
+
+We have had these past eight days our good Monseigneur de Belley, who has favoured us with his visit and has given us some most excellent sermons. Guess if we have often spoken of you and yours! But what joy when M. Jantet told me that my dearest little godson was so nice, so gentle, so handsome, and even already in some sense so devout. I assure you, in * Ps. vi. 3.
+
+z truth, my dearest daughter, that I feel this with an incomparable love, and I recollect the grace and sweet little look with which he received, as with infantine respect, the- sonship of our Lord from my hands. If I am heard, he will be a saint, this dear little Francis; he will be the consolation of his father and mother, and will have so many sacred favours from God, that he will obtain me pardon of my sins, if I live till he can love me actually. In fine, my dearest daughter, I am very perfectly, and without any condition or exception, your, &c.
+
+P.S. — If you fear the loss of your letters on the way, although letters are scarcely ever lost, you may as well not sign your name, for I shall always recognize your hand.
+
+Shall I dare to beg you to give my very humble affections and my service to Madam the Marchioness de Menelay? She is humble enough to be satisfied with this, and the little Francis good enough to persuade her to it, and Madame de Chenoyse. Also, I must salute Madame de la Haye.
