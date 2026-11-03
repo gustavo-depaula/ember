@@ -5,5 +5,321 @@
   },
   "matches": [
     "Councils"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "The creed of Nicaea, the Tridentine decrees and the Vatican definitions.",
+        "pt-BR": "O credo de Niceia, os decretos de Trento e as definições do Vaticano."
+      },
+      "works": [
+        {
+          "work": "councils-nicaea-i",
+          "why": {
+            "en-US": "The first ecumenical council, 325",
+            "pt-BR": "O primeiro concílio ecumênico, 325"
+          }
+        },
+        {
+          "work": "councils/trent",
+          "why": {
+            "en-US": "Canons and decrees of Trent, 1545-1563",
+            "pt-BR": "Cânones e decretos de Trento, 1545-1563"
+          }
+        },
+        {
+          "work": "councils/vatican-i",
+          "why": {
+            "en-US": "The two dogmatic constitutions of Vatican I, 1870",
+            "pt-BR": "As duas constituições dogmáticas do Vaticano I, 1870"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The first eight ecumenical councils",
+        "pt-BR": "Os oito primeiros concílios ecumênicos"
+      },
+      "note": {
+        "en-US": "In date order, each English text followed by its original.",
+        "pt-BR": "Em ordem cronológica, cada texto em inglês seguido do original."
+      },
+      "works": [
+        {
+          "work": "councils/nicaea-i",
+          "why": {
+            "en-US": "Nicaea I: original Greek canons and Latin decrees",
+            "pt-BR": "Niceia I: cânones gregos e decretos latinos originais"
+          }
+        },
+        {
+          "work": "councils-constantinople-i",
+          "why": {
+            "en-US": "Constantinople I, 381",
+            "pt-BR": "Constantinopla I, 381"
+          }
+        },
+        {
+          "work": "councils/constantinople-i",
+          "why": {
+            "en-US": "Constantinople I: original texts",
+            "pt-BR": "Constantinopla I: textos originais"
+          }
+        },
+        {
+          "work": "councils-ephesus",
+          "why": {
+            "en-US": "Ephesus, 431",
+            "pt-BR": "Éfeso, 431"
+          }
+        },
+        {
+          "work": "councils/ephesus",
+          "why": {
+            "en-US": "Ephesus: original texts",
+            "pt-BR": "Éfeso: textos originais"
+          }
+        },
+        {
+          "work": "councils-chalcedon",
+          "why": {
+            "en-US": "Chalcedon, 451",
+            "pt-BR": "Calcedônia, 451"
+          }
+        },
+        {
+          "work": "councils/chalcedon",
+          "why": {
+            "en-US": "Chalcedon: original texts",
+            "pt-BR": "Calcedônia: textos originais"
+          }
+        },
+        {
+          "work": "councils-constantinople-ii",
+          "why": {
+            "en-US": "Constantinople II, 553",
+            "pt-BR": "Constantinopla II, 553"
+          }
+        },
+        {
+          "work": "councils/constantinople-ii",
+          "why": {
+            "en-US": "Constantinople II: original texts",
+            "pt-BR": "Constantinopla II: textos originais"
+          }
+        },
+        {
+          "work": "councils-constantinople-iii",
+          "why": {
+            "en-US": "Constantinople III, 680",
+            "pt-BR": "Constantinopla III, 680"
+          }
+        },
+        {
+          "work": "councils/constantinople-iii",
+          "why": {
+            "en-US": "Constantinople III: original texts",
+            "pt-BR": "Constantinopla III: textos originais"
+          }
+        },
+        {
+          "work": "councils-nicaea-ii",
+          "why": {
+            "en-US": "Nicaea II, 787",
+            "pt-BR": "Niceia II, 787"
+          }
+        },
+        {
+          "work": "councils/nicaea-ii",
+          "why": {
+            "en-US": "Nicaea II: original texts",
+            "pt-BR": "Niceia II: textos originais"
+          }
+        },
+        {
+          "work": "councils/constantinople-iv",
+          "why": {
+            "en-US": "Constantinople IV, 869-870, against Photius",
+            "pt-BR": "Constantinopla IV, 869-870, contra Fócio"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Medieval councils",
+        "pt-BR": "Concílios medievais"
+      },
+      "note": {
+        "en-US": "From the First Lateran to the Fifth, in date order.",
+        "pt-BR": "Do Primeiro Latrão ao Quinto, em ordem cronológica."
+      },
+      "works": [
+        {
+          "work": "councils/lateran-i",
+          "why": {
+            "en-US": "First Lateran, 1123",
+            "pt-BR": "Primeiro Latrão, 1123"
+          }
+        },
+        {
+          "work": "councils/lateran-ii",
+          "why": {
+            "en-US": "Second Lateran, 1139",
+            "pt-BR": "Segundo Latrão, 1139"
+          }
+        },
+        {
+          "work": "councils/lateran-iii",
+          "why": {
+            "en-US": "Third Lateran, 1179",
+            "pt-BR": "Terceiro Latrão, 1179"
+          }
+        },
+        {
+          "work": "councils/lateran-iv",
+          "why": {
+            "en-US": "Fourth Lateran, 1215: seventy-one constitutions",
+            "pt-BR": "Quarto Latrão, 1215: setenta e uma constituições"
+          }
+        },
+        {
+          "work": "councils/lyons-i",
+          "why": {
+            "en-US": "First Lyons, 1245",
+            "pt-BR": "Primeiro Lyon, 1245"
+          }
+        },
+        {
+          "work": "councils/lyons-ii",
+          "why": {
+            "en-US": "Second Lyons, 1274: union with the Greeks",
+            "pt-BR": "Segundo Lyon, 1274: união com os gregos"
+          }
+        },
+        {
+          "work": "councils/vienne",
+          "why": {
+            "en-US": "Vienne, 1311-1312",
+            "pt-BR": "Vienne, 1311-1312"
+          }
+        },
+        {
+          "work": "councils/constance",
+          "why": {
+            "en-US": "Constance, 1414-1418: end of the Western Schism",
+            "pt-BR": "Constança, 1414-1418: fim do Cisma do Ocidente"
+          }
+        },
+        {
+          "work": "councils/basel-ferrara-florence",
+          "why": {
+            "en-US": "Basel, Ferrara and Florence, 1431-1445",
+            "pt-BR": "Basileia, Ferrara e Florença, 1431-1445"
+          }
+        },
+        {
+          "work": "councils/lateran-v",
+          "why": {
+            "en-US": "Fifth Lateran, 1512-1517",
+            "pt-BR": "Quinto Latrão, 1512-1517"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Local councils",
+        "pt-BR": "Concílios locais"
+      },
+      "note": {
+        "en-US": "Regional councils from 257 to 692, in date order.",
+        "pt-BR": "Concílios regionais de 257 a 692, em ordem cronológica."
+      },
+      "works": [
+        {
+          "work": "councils-carthage-under-cyprian",
+          "why": {
+            "en-US": "Carthage under Cyprian, 257",
+            "pt-BR": "Cartago sob Cipriano, 257"
+          }
+        },
+        {
+          "work": "councils-ancyra",
+          "why": {
+            "en-US": "Ancyra, 314",
+            "pt-BR": "Ancira, 314"
+          }
+        },
+        {
+          "work": "councils-neocaesarea",
+          "why": {
+            "en-US": "Neocaesarea, 315",
+            "pt-BR": "Neocesareia, 315"
+          }
+        },
+        {
+          "work": "councils-antioch-in-encaeniis",
+          "why": {
+            "en-US": "Antioch in Encaeniis, 341",
+            "pt-BR": "Antioquia in Encaeniis, 341"
+          }
+        },
+        {
+          "work": "councils-gangra",
+          "why": {
+            "en-US": "Gangra, 343",
+            "pt-BR": "Gangra, 343"
+          }
+        },
+        {
+          "work": "councils-sardica",
+          "why": {
+            "en-US": "Sardica, 344",
+            "pt-BR": "Sárdica, 344"
+          }
+        },
+        {
+          "work": "councils-constantinople",
+          "why": {
+            "en-US": "Constantinople, 382",
+            "pt-BR": "Constantinopla, 382"
+          }
+        },
+        {
+          "work": "councils-laodicea",
+          "why": {
+            "en-US": "Laodicea, 390",
+            "pt-BR": "Laodiceia, 390"
+          }
+        },
+        {
+          "work": "councils-constantinople-under-nectarius",
+          "why": {
+            "en-US": "Constantinople under Nectarius, 394",
+            "pt-BR": "Constantinopla sob Nectário, 394"
+          }
+        },
+        {
+          "work": "councils-carthage",
+          "why": {
+            "en-US": "Carthage, 419",
+            "pt-BR": "Cartago, 419"
+          }
+        },
+        {
+          "work": "councils-constantinople-trullo-quinisext",
+          "why": {
+            "en-US": "Constantinople in Trullo (Quinisext), 692",
+            "pt-BR": "Constantinopla in Trullo (Quinissexto), 692"
+          }
+        }
+      ]
+    }
   ]
 }
