@@ -1,0 +1,99 @@
+{
+  "id": "garrigou-dieu-son-existence-et-sa-nature",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Dieu, son existence et sa nature : solution thomiste des antinomies agnostiques",
+    "en-US": "God: His Existence and His Nature (French original)",
+    "pt-BR": "Deus, sua existência e sua natureza: solução tomista das antinomias agnósticas"
+  },
+  "description": {
+    "fr-FR": "Théodicée thomiste en deux parties : l’existence de Dieu (enseignement de l’Église, démonstrabilité, preuves) et sa nature et ses attributs (constitutif formel de la divinité, attributs, antinomies). Première édition, Beauchesne, 1914, avec la note sur la valeur des principes.",
+    "en-US": "Thomistic natural theology in two parts: the existence of God (the Church’s teaching, demonstrability, the proofs) and His nature and attributes (the formal constitutive of the Godhead, the attributes, the antinomies). First edition, Beauchesne, 1914. The English translation, made from the fifth edition, is its own book.",
+    "pt-BR": "Teodiceia tomista em duas partes: a existência de Deus (ensinamento da Igreja, demonstrabilidade, provas) e sua natureza e atributos (constitutivo formal, atributos, antinomias). Primeira edição, Beauchesne, 1914."
+  },
+  "composed": "1914",
+  "work": "garrigou-lagrange/dieu-son-existence-et-sa-nature",
+  "editions": {
+    "fr-FR": {
+      "editor": "Beauchesne, Paris (1st ed.)",
+      "year": 1914
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/GarrigouLagrangeFrench",
+      "edition": "Dieu, son existence et sa nature, Beauchesne, 1914 (Google scan on archive.org, OCR text); part and chapter divisions only, the book’s numbered sections are not split"
+    }
+  ],
+  "author": {
+    "fr-FR": "Réginald Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "languages": [
+    "fr-FR"
+  ],
+  "toc": [
+    {
+      "id": "avant-propos",
+      "title": {
+        "fr-FR": "Avant-propos"
+      }
+    },
+    {
+      "id": "ch1-intro",
+      "title": {
+        "fr-FR": "Chapitre I. Enseignehent de l’Eglise sur l’existence et la nature de dleuf et sur la connaissance que nous en pouvons avoir par la lumière naturelle de la raison humaine"
+      }
+    },
+    {
+      "id": "ch2-intro",
+      "title": {
+        "fr-FR": "Chapitre II. La Démonstrabilité de l’existence de Dieu"
+      }
+    },
+    {
+      "id": "ch3-intro",
+      "title": {
+        "fr-FR": "Chapitre III. Exposé des preuves de l’existence de Dieu"
+      }
+    },
+    {
+      "id": "ch4-intro",
+      "title": {
+        "fr-FR": "Chapitre IV. Le constitutif formel de la nature divine selon notre mode imparfait de connaitre"
+      }
+    },
+    {
+      "id": "ch5-intro",
+      "title": {
+        "fr-FR": "Chapitre V. Déduction des attributs de l/être même subsistant"
+      }
+    },
+    {
+      "id": "ch6-intro",
+      "title": {
+        "fr-FR": "Chapitre VI. •Conciliation des attributs divins. — Leur existence formelle et leur identification dans l’éminence de la déité"
+      }
+    },
+    {
+      "id": "ch7-intro",
+      "title": {
+        "fr-FR": "Chapitre VII. Les antinomies spéciales relatives a la liberté"
+      }
+    },
+    {
+      "id": "ch8-intro",
+      "title": {
+        "fr-FR": "Chapitre VIII. L’Ineffabilité de Dieu et l’absurdité de"
+      }
+    },
+    {
+      "id": "note-principes",
+      "title": {
+        "fr-FR": "Note sur la valeur des principes (lettre de P. Duhem)"
+      }
+    }
+  ]
+}

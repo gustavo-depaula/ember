@@ -20,7 +20,7 @@ def roman(n):
 def sentence(t):
     t = re.sub(r'(\w)- (\w)', r'\1\2', re.sub(r'\s+', ' ', t)).strip(' .—-')
     t = re.sub(r"(\w['’]) ", r'\1', t)
-    if t.isupper() or sum(c.isupper() for c in t) > 0.6 * max(1, sum(c.isalpha() for c in t)):
+    if t.isupper() or sum(c.isupper() for c in t) > 0.3 * max(1, sum(c.isalpha() for c in t)):
         t = t.lower()
     return t[:1].upper() + t[1:]
 
@@ -104,6 +104,17 @@ def parse(lines, prx, urx, heads, fnstyle='num', fix=lambda s: s, pre=None, word
             continue
         sg.update(paras=paras, notes=notes, wc=wc)
         nodes.append(sg)
+    return solo(nodes)
+
+
+def solo(nodes):
+    """a chapter that is only its intro becomes a plain leaf titled as the chapter"""
+    from collections import Counter
+    cnt = Counter(n['parent'][0] for n in nodes if n['parent'])
+    for n in nodes:
+        if n['parent'] and cnt[n['parent'][0]] == 1 and n['id'].endswith('-intro'):
+            n['title'] = n['parent'][1]
+            n['parent'] = None
     return nodes
 
 
