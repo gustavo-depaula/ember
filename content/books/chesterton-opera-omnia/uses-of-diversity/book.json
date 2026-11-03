@@ -1,0 +1,249 @@
+{
+  "id": "chesterton-uses-of-diversity",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Uses of Diversity",
+    "pt-BR": "Os Usos da Diversidade"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "A book of essays: on seriousness, lamp-posts, spirits, Tennyson, detectives, Meredith, the Irishman, the Japanese, Christian Science, pigs as pets, Rostand, the Futurists, the humour of King Herod, Mormonism, Christmas, Dickens and Shaw.",
+    "pt-BR": "Um livro de ensaios: sobre a seriedade, os postes de luz, os espíritos, Tennyson, os detetives, Meredith, o irlandês, os japoneses, a Christian Science, porcos como animais de estimação, Rostand, os futuristas, o humor do rei Herodes, o mormonismo, o Natal, Dickens e Shaw."
+  },
+  "composed": "1920",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/uses-of-diversity",
+  "editions": {
+    "en-US": {
+      "editor": "Methuen & Co.",
+      "year": 1920
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/60057",
+      "edition": "The Uses of Diversity (Methuen & Co., 1920), Project Gutenberg #60057.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1920 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-on-seriousness",
+      "title": {
+        "en-US": "On Seriousness"
+      }
+    },
+    {
+      "id": "ch02-lamp-posts",
+      "title": {
+        "en-US": "Lamp-Posts"
+      }
+    },
+    {
+      "id": "ch03-the-spirits",
+      "title": {
+        "en-US": "The Spirits"
+      }
+    },
+    {
+      "id": "ch04-tennyson",
+      "title": {
+        "en-US": "Tennyson"
+      }
+    },
+    {
+      "id": "ch05-the-domesticity-of-detectives",
+      "title": {
+        "en-US": "The Domesticity of Detectives"
+      }
+    },
+    {
+      "id": "ch06-george-meredith",
+      "title": {
+        "en-US": "George Meredith"
+      }
+    },
+    {
+      "id": "ch07-the-irishman",
+      "title": {
+        "en-US": "The Irishman"
+      }
+    },
+    {
+      "id": "ch08-ireland-and-the-domestic-drama",
+      "title": {
+        "en-US": "Ireland and the Domestic Drama"
+      }
+    },
+    {
+      "id": "ch09-the-japanese",
+      "title": {
+        "en-US": "The Japanese"
+      }
+    },
+    {
+      "id": "ch10-christian-science",
+      "title": {
+        "en-US": "Christian Science"
+      }
+    },
+    {
+      "id": "ch11-the-lawlessness-of-lawyers",
+      "title": {
+        "en-US": "The Lawlessness of Lawyers"
+      }
+    },
+    {
+      "id": "ch12-our-latin-relations",
+      "title": {
+        "en-US": "Our Latin Relations"
+      }
+    },
+    {
+      "id": "ch13-on-pigs-as-pets",
+      "title": {
+        "en-US": "On Pigs as Pets"
+      }
+    },
+    {
+      "id": "ch14-the-romance-of-rostand",
+      "title": {
+        "en-US": "The Romance of Rostand"
+      }
+    },
+    {
+      "id": "ch15-wishes",
+      "title": {
+        "en-US": "Wishes"
+      }
+    },
+    {
+      "id": "ch16-the-futurists",
+      "title": {
+        "en-US": "The Futurists"
+      }
+    },
+    {
+      "id": "ch17-the-evolution-of-emma",
+      "title": {
+        "en-US": "The Evolution of Emma"
+      }
+    },
+    {
+      "id": "ch18-the-pseudo-scientific-books",
+      "title": {
+        "en-US": "The Pseudo-Scientific Books"
+      }
+    },
+    {
+      "id": "ch19-the-humour-of-king-herod",
+      "title": {
+        "en-US": "The Humour of King Herod"
+      }
+    },
+    {
+      "id": "ch20-the-silver-goblets",
+      "title": {
+        "en-US": "The Silver Goblets"
+      }
+    },
+    {
+      "id": "ch21-the-duty-of-the-historian",
+      "title": {
+        "en-US": "The Duty of the Historian"
+      }
+    },
+    {
+      "id": "ch22-questions-of-divorce",
+      "title": {
+        "en-US": "Questions of Divorce"
+      }
+    },
+    {
+      "id": "ch23-mormonism",
+      "title": {
+        "en-US": "Mormonism"
+      }
+    },
+    {
+      "id": "ch24-pageants-and-dress",
+      "title": {
+        "en-US": "Pageants and Dress"
+      }
+    },
+    {
+      "id": "ch25-on-stage-costume",
+      "title": {
+        "en-US": "On Stage Costume"
+      }
+    },
+    {
+      "id": "ch26-the-yule-log-and-the-democrat",
+      "title": {
+        "en-US": "The Yule Log and the Democrat"
+      }
+    },
+    {
+      "id": "ch27-more-thoughts-on-christmas",
+      "title": {
+        "en-US": "More Thoughts on Christmas"
+      }
+    },
+    {
+      "id": "ch28-dickens-again",
+      "title": {
+        "en-US": "Dickens Again"
+      }
+    },
+    {
+      "id": "ch29-taffy",
+      "title": {
+        "en-US": "Taffy"
+      }
+    },
+    {
+      "id": "ch30-ego-et-shavius-meus",
+      "title": {
+        "en-US": "“Ego et Shavius Meus”"
+      }
+    },
+    {
+      "id": "ch31-the-plan-for-a-new-universe",
+      "title": {
+        "en-US": "The Plan for a New Universe"
+      }
+    },
+    {
+      "id": "ch32-george-wyndham",
+      "title": {
+        "en-US": "George Wyndham"
+      }
+    },
+    {
+      "id": "ch33-four-stupidities",
+      "title": {
+        "en-US": "Four Stupidities"
+      }
+    },
+    {
+      "id": "ch34-on-historical-novels",
+      "title": {
+        "en-US": "On Historical Novels"
+      }
+    },
+    {
+      "id": "ch35-on-monsters",
+      "title": {
+        "en-US": "On Monsters"
+      }
+    }
+  ]
+}
