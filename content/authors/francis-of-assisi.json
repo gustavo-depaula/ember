@@ -9,5 +9,22 @@
     "St. Francis of Assisi",
     "Saint Francis of Assisi",
     "Francis of Assisi"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "francis-of-assisi/opuscula",
+          "why": {
+            "en-US": "His complete writings in Latin, 1205-1226",
+            "pt-BR": "Seus escritos completos em latim, 1205-1226"
+          }
+        }
+      ]
+    }
   ]
 }
