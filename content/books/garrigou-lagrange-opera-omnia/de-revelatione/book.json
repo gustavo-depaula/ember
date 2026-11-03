@@ -1,0 +1,246 @@
+{
+  "id": "garrigou-de-revelatione",
+  "cover": "quarter",
+  "name": {
+    "la": "De revelatione per Ecclesiam catholicam proposita",
+    "fr-FR": "De revelatione per Ecclesiam catholicam proposita",
+    "en-US": "On Revelation as Proposed by the Catholic Church",
+    "pt-BR": "Da revelação proposta pela Igreja católica"
+  },
+  "author": {
+    "la": "Reginaldus Garrigou-Lagrange",
+    "fr-FR": "Réginald Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "description": {
+    "la": "Apologetica et theologia fundamentalis : de revelationis notione et possibilitate, de mysterio et dogmate, de credibilitate rationali, de Ecclesia et de eius notis. Editio emendata, 2 vol.",
+    "fr-FR": "Apologétique et théologie fondamentale en latin : la notion et la possibilité de la révélation, le mystère et le dogme, la crédibilité rationnelle, l’Église et ses notes. Édition revue, 2 vol.",
+    "en-US": "Apologetics and fundamental theology in Latin: the notion and possibility of revelation, mystery and dogma, rational credibility, the Church and her marks. Revised edition, 2 vols.",
+    "pt-BR": "Apologética e teologia fundamental em latim: a noção e a possibilidade da revelação, mistério e dogma, credibilidade racional, a Igreja e suas notas. Edição revista, 2 vols."
+  },
+  "composed": "1918",
+  "work": "garrigou-lagrange/de-revelatione",
+  "editions": {
+    "la": {
+      "editor": "Garrigou-Lagrange (editio emendata, Ferrari, Rome)",
+      "year": 1950
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/GarrigouLagrangeLatin",
+      "edition": "De Revelatione per Ecclesiam catholicam proposita, vol. 1-2 (editio emendata), archive.org GarrigouLagrangeLatin, OCR text; the indexes are not imported"
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio"
+      }
+    },
+    {
+      "id": "art1",
+      "title": {
+        "la": "Caput I. Quid sit sacra theologia"
+      }
+    },
+    {
+      "id": "art2",
+      "title": {
+        "la": "Caput II. Quid sit theologia fundamentalis speciatim apologetica"
+      }
+    },
+    {
+      "id": "art3",
+      "title": {
+        "la": "Caput III. De methodo apologeticae"
+      }
+    },
+    {
+      "id": "art4",
+      "title": {
+        "la": "Caput IV. Definitio et divisio revelationis"
+      }
+    },
+    {
+      "id": "art5",
+      "title": {
+        "la": "Caput V. De notione mysterii et dogmatis"
+      }
+    },
+    {
+      "id": "art6",
+      "title": {
+        "la": "Caput VI. De notione superna turalita tis"
+      }
+    },
+    {
+      "id": "art7",
+      "title": {
+        "la": "Caput VII. De ra tiona lismo seu naturalismo in genere"
+      }
+    },
+    {
+      "id": "art8",
+      "title": {
+        "la": "Caput VIII. Examen evolutionismi pantheistici"
+      }
+    },
+    {
+      "id": "art9",
+      "title": {
+        "la": "Caput IX. Examen agnosticismi"
+      }
+    },
+    {
+      "id": "art10",
+      "title": {
+        "la": "Caput X. De possibilitate supern aturalis revela tionis in genere ac speciatim revela tionis veritatum naturalium religionis"
+      }
+    },
+    {
+      "id": "art11",
+      "title": {
+        "la": "Caput XI. De possibilitate re vela tionis supernaturalium mysteriorum, ex parte obiecti"
+      }
+    },
+    {
+      "id": "art12",
+      "title": {
+        "la": "Caput XII. De possibilitate revelationis supernatural mysteriorum ex parte agentis et subiectl"
+      }
+    },
+    {
+      "id": "art13",
+      "title": {
+        "la": "Caput XIII"
+      }
+    },
+    {
+      "id": "art14",
+      "title": {
+        "la": "Caput XIV. De actu fidei relative ad credibilitatem"
+      }
+    },
+    {
+      "id": "art15",
+      "title": {
+        "la": "Caput XV. De credibilita tis rationalis notione ac de eius necessitate ad actum fidei"
+      }
+    },
+    {
+      "id": "art16",
+      "title": {
+        "la": "Caput XVI. De demonstrabilita te credibill ta tis ex motivis credibilita tis"
+      }
+    },
+    {
+      "id": "art17",
+      "title": {
+        "la": "Caput XVII. De miraculo ut est credi bilitatis motivum"
+      }
+    },
+    {
+      "id": "art18",
+      "title": {
+        "la": "Caput XVIII. De prophetia, ut est credibilitatis motivum"
+      }
+    },
+    {
+      "id": "art19",
+      "title": {
+        "la": "Caput XIX. De methodo ac divtsione ■ huiusce partis apologeticae"
+      }
+    },
+    {
+      "id": "art20",
+      "title": {
+        "la": "Caput XX. De auctoritate historica quatuor evangeliorum;"
+      }
+    },
+    {
+      "id": "art21",
+      "title": {
+        "la": "Caput XXI. Testimonium iesu christi de eius missione divina *"
+      }
+    },
+    {
+      "id": "art22",
+      "title": {
+        "la": "Caput XXII. Testimonium christi de mysteriis credendis ac de praeceptis servandis seu synthesis doctrinae christi"
+      }
+    },
+    {
+      "id": "art23",
+      "title": {
+        "la": "Caput XXIII. Testimonium christi de institutione ecclesiae . ad revelationem infallibil l ter servandam et proponendam usque ad finem mundl \\"
+      }
+    },
+    {
+      "id": "art24",
+      "title": {
+        "la": "Caput XXIV. Testimonium christi de seipso fide dignum est, spectatis eius sapientia ac sanctitate,"
+      }
+    },
+    {
+      "id": "art25",
+      "title": {
+        "la": "Caput XXV. Confirma tur christi testimonium mirabili humanarum aspirationum expletione"
+      }
+    },
+    {
+      "id": "art26",
+      "title": {
+        "la": "Caput XXVI. Confirmatur christi testimonium subtlmitate"
+      }
+    },
+    {
+      "id": "art27",
+      "title": {
+        "la": "Caput XXVII. Confirma tur christi testimonium mirabili vita ecclesiae"
+      }
+    },
+    {
+      "id": "art28",
+      "title": {
+        "la": "Caput XXVIII. Miracvus christi confirma tur eius testimonium"
+      }
+    },
+    {
+      "id": "art29",
+      "title": {
+        "la": "Caput XXIX. Prophetiis christt confirmatur eius testimonium"
+      }
+    },
+    {
+      "id": "art30",
+      "title": {
+        "la": "Caput XXX. Prophetiis messianicis confirma tur missio '"
+      }
+    },
+    {
+      "id": "art31",
+      "title": {
+        "la": "Caput XXXI. Comparatio christianismi cum religione mosaica ;"
+      }
+    },
+    {
+      "id": "art32",
+      "title": {
+        "la": "Caput XXXII. Divinitas christianismi confirma tur ex compara tione cum aliis religionibus"
+      }
+    },
+    {
+      "id": "art33",
+      "title": {
+        "la": "Caput XXXIII. De officio suscipiendi divinam re vela tionem, ab ecclesia ca tholica propositam"
+      }
+    }
+  ]
+}
