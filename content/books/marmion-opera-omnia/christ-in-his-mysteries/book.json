@@ -1,0 +1,201 @@
+{
+  "id": "marmion-christ-in-his-mysteries",
+  "name": {
+    "fr-FR": "Le Christ dans ses mystères",
+    "en-US": "Christ in His Mysteries",
+    "pt-BR": "Cristo nos seus mistérios"
+  },
+  "author": {
+    "fr-FR": "Bx Columba Marmion",
+    "en-US": "Bl. Columba Marmion",
+    "pt-BR": "Bem-aventurado Columba Marmion"
+  },
+  "description": {
+    "fr-FR": "Vingt conférences de l’abbé de Maredsous sur les mystères du Christ au long du cycle liturgique : de son sein éternel dans le Père à la Pentecôte, à l’Eucharistie, au Cœur du Christ et à la sainteté de ses élus. Suite de « Le Christ, vie de l’âme », honorée d’une lettre de Benoît XV (1919).",
+    "en-US": "Twenty conferences by the Abbot of Maredsous on the mysteries of Christ through the liturgical cycle: from His eternal state in the bosom of the Father to Pentecost, the Eucharist, the Heart of Christ and the holiness of His saints. Sequel to Christ the Life of the Soul, honoured with a letter from Benedict XV (1919). The English follows the French chapter for chapter.",
+    "pt-BR": "Vinte conferências do abade de Maredsous sobre os mistérios de Cristo ao longo do ciclo litúrgico: do seu estado eterno no seio do Pai até Pentecostes, a Eucaristia, o Coração de Cristo e a santidade dos seus eleitos. Continuação de «Cristo, vida da alma», louvada por uma carta de Bento XV (1919)."
+  },
+  "composed": "1919",
+  "languages": [
+    "fr-FR",
+    "en-US"
+  ],
+  "work": "marmion/christ-in-his-mysteries",
+  "editions": {
+    "fr-FR": {
+      "editor": "Dom Raymond Thibaut (8th ed., Desclée de Brouwer)",
+      "year": 1922
+    },
+    "en-US": {
+      "translator": "A Nun of Tyburn Convent (from the 10th French edition)",
+      "year": 1924
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/lechristdanssesm00marm",
+      "edition": "Le Christ dans ses mystères, 8e éd., Paris/Bruges: Desclée, De Brouwer, 1922 (imprimatur 21 Dec 1921). Internet Archive scan, OCR text.",
+      "description": "Foreword to the 1st edition and the twenty conferences, split at the conference summaries. Running heads and page numbers stripped; each page-bottom reference note became a footnote placed at the end of its page (the call numbers in the OCR are unreliable). Papal letters, title pages, appendices and the table of contents are not imported.",
+      "tier": "A",
+      "tierEvidence": "Marmion died in 1923: public domain in Brazil and the EU; the 1922 edition is public domain in the US."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/christinhismyste0000righ",
+      "edition": "Christ in His Mysteries, by a nun of Tyburn Convent from the 10th French edition, London: Sands / St. Louis: Herder, 1924 (imprimatur Bruges 29 Dec 1923). Internet Archive scan, OCR text.",
+      "description": "Same chapters as the French. Running heads removed; page-bottom references kept as footnotes at the end of their page.",
+      "tier": "A",
+      "tierEvidence": "Anonymous translation published 1924: public domain in the US (before 1931) and, as an anonymous work, in Brazil and the EU."
+    }
+  ],
+  "toc": [
+    {
+      "id": "avant-propos",
+      "title": {
+        "fr-FR": "Avant-propos de la 1re édition",
+        "en-US": "Foreword to the First Edition"
+      }
+    },
+    {
+      "id": "01-mysteres-du-christ",
+      "title": {
+        "fr-FR": "Les mystères du Christ sont nos mystères",
+        "en-US": "The Mysteries of Christ Are Our Mysteries"
+      }
+    },
+    {
+      "id": "02-contact-mysteres",
+      "title": {
+        "fr-FR": "Comment nous nous assimilons le fruit des mystères de Jésus",
+        "en-US": "Our Contact with the Mysteries of Jesus"
+      }
+    },
+    {
+      "id": "03-in-sinu-patris",
+      "title": {
+        "fr-FR": "In sinu Patris",
+        "en-US": "In sinu Patris"
+      }
+    },
+    {
+      "id": "04-verbe-fait-chair",
+      "title": {
+        "fr-FR": "« Et le Verbe s’est fait chair »",
+        "en-US": "« And the Word was made Flesh »"
+      }
+    },
+    {
+      "id": "05-sauveur-pontife",
+      "title": {
+        "fr-FR": "Sauveur et Pontife",
+        "en-US": "Saviour and High Priest"
+      }
+    },
+    {
+      "id": "06-preparations-divines",
+      "title": {
+        "fr-FR": "Les préparations divines (Temps de l’Avent)",
+        "en-US": "Divine Preparations (Advent)"
+      }
+    },
+    {
+      "id": "07-admirabile-commercium",
+      "title": {
+        "fr-FR": "O admirabile commercium !",
+        "en-US": "O admirabile commercium !"
+      }
+    },
+    {
+      "id": "08-epiphanie",
+      "title": {
+        "fr-FR": "L’Épiphanie",
+        "en-US": "The Epiphany"
+      }
+    },
+    {
+      "id": "09-vierge-marie-vie-cachee",
+      "title": {
+        "fr-FR": "La Vierge Marie, les mystères de l’enfance et de la vie cachée",
+        "en-US": "The Blessed Virgin Mary; the Mysteries of the Infancy and of the Hidden Life"
+      }
+    },
+    {
+      "id": "10-bapteme-tentation",
+      "title": {
+        "fr-FR": "Le baptême et la tentation de Jésus",
+        "en-US": "The Baptism and the Temptation of Jesus"
+      }
+    },
+    {
+      "id": "11-vie-publique",
+      "title": {
+        "fr-FR": "Quelques aspects de la vie publique de Jésus",
+        "en-US": "Some Aspects of the Public Life of Jesus"
+      }
+    },
+    {
+      "id": "12-thabor",
+      "title": {
+        "fr-FR": "Au sommet du Thabor",
+        "en-US": "On the Heights of Thabor"
+      }
+    },
+    {
+      "id": "13-dilexit-ecclesiam",
+      "title": {
+        "fr-FR": "« Le Christ a aimé l’Église et s’est livré pour elle afin de la sanctifier »",
+        "en-US": "« Christ loved the Church and delivered Himself up for it, that He might sanctify it »"
+      }
+    },
+    {
+      "id": "14-pretoire-calvaire",
+      "title": {
+        "fr-FR": "Sur les pas de Jésus, du prétoire au Calvaire",
+        "en-US": "In the Footsteps of Jesus, from the Praetorium to Calvary"
+      }
+    },
+    {
+      "id": "15-si-consurrexistis",
+      "title": {
+        "fr-FR": "Si consurrexistis cum Christo",
+        "en-US": "Si consurrexistis cum Christo"
+      }
+    },
+    {
+      "id": "16-glorifiez-votre-fils",
+      "title": {
+        "fr-FR": "« Et maintenant, ô Père, glorifiez votre Fils »",
+        "en-US": "« And now, Father, glorify Thy Son »"
+      }
+    },
+    {
+      "id": "17-saint-esprit",
+      "title": {
+        "fr-FR": "La mission du Saint-Esprit",
+        "en-US": "The Mission of the Holy Spirit"
+      }
+    },
+    {
+      "id": "18-in-mei-memoriam",
+      "title": {
+        "fr-FR": "In mei memoriam",
+        "en-US": "In mei memoriam"
+      }
+    },
+    {
+      "id": "19-coeur-du-christ",
+      "title": {
+        "fr-FR": "Le Cœur du Christ",
+        "en-US": "The Heart of Christ"
+      }
+    },
+    {
+      "id": "20-couronne-des-saints",
+      "title": {
+        "fr-FR": "Le Christ, couronne de tous les saints",
+        "en-US": "Christ, the Crown of All the Saints"
+      }
+    }
+  ]
+}

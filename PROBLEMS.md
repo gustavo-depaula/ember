@@ -454,3 +454,8 @@ Text is the JesusMarie.com digital edition of Coste (tomes I-XIII and the 1970 "
 - *The Resurrection of Rome*, *Outline of Sanity*, *Generally Speaking*, *Avowals and Denials*: only the Internet Archive scan listed was used (no second scan diffed).
 - *Appreciations and Criticisms of Dickens*: some novels have two essays of the same title (a preface and a later criticism); they are kept in print order.
 - Not imported (no text found online, or lending-only): *Christendom in Dublin*, *Sidelights on New London and Newer York*, *All I Survey*, *Come to Think of It*, *All is Grist*, *The Way of the Cross*, *Social Reform versus Birth Control*, *Where All Roads Lead*, *Why I Am a Catholic* (the 1926 essay), *Gloria in Profundis*, *The Judgment of Dr Johnson*, *The Turkey and the Turk*, the *Collected Poems* (its poems before 1927 are in the separate verse books above; the 1927-32 additions and the OCR need a verse builder), the *Illustrated London News* columns and the posthumous collections (*The Common Man*, *A Handful of Authors*, ...).
+
+### Marmion (opera omnia)
+
+- Built by `research/sourcing/_scripts/mc_lib.py` and the `mc_*.py` scripts from Internet Archive OCR (page-bottom reference notes become one footnote per page, placed at the end of the page; the OCR garbles their call numbers, so the notes are not tied to the exact word).
+- *Christ in His Mysteries*: the OCR lost many of the roman section numerals inside the conferences, so some sections have no `## I` heading (the text is complete; the break is there as a paragraph break only). Stray OCR slips remain in the Latin quotations and scripture references. The French is the 8th edition (1922); the 19th edition (Maredsous 1923) was not diffed.
