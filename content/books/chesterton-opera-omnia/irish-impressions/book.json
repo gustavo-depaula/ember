@@ -1,0 +1,93 @@
+{
+  "id": "chesterton-irish-impressions",
+  "cover": "classic",
+  "name": {
+    "en-US": "Irish Impressions",
+    "pt-BR": "Impressões Irlandesas"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's account of a visit to Ireland in 1918, during the conscription crisis: two stones in a square, the root of reality, the family and the feud, the paradox of labour, the mistakes of England and of Ireland, and Belfast and the religious problem.",
+    "pt-BR": "O relato de Chesterton sobre uma visita à Irlanda em 1918, durante a crise do recrutamento: duas pedras numa praça, a raiz da realidade, a família e a vendeta, o paradoxo do trabalho, os erros da Inglaterra e da Irlanda, e Belfast e o problema religioso."
+  },
+  "composed": "1919",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/irish-impressions",
+  "editions": {
+    "en-US": {
+      "editor": "W. Collins Sons & Co.",
+      "year": 1919
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/61758",
+      "edition": "Irish Impressions (W. Collins Sons & Co., 1919), Project Gutenberg #61758.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1919 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-two-stones-in-a-square",
+      "title": {
+        "en-US": "I. Two Stones in a Square"
+      }
+    },
+    {
+      "id": "ch02-the-root-of-reality",
+      "title": {
+        "en-US": "II. The Root of Reality"
+      }
+    },
+    {
+      "id": "ch03-the-family-and-the-feud",
+      "title": {
+        "en-US": "III. The Family and the Feud"
+      }
+    },
+    {
+      "id": "ch04-the-paradox-of-labour",
+      "title": {
+        "en-US": "IV. The Paradox of Labour"
+      }
+    },
+    {
+      "id": "ch05-the-englishman-in-ireland",
+      "title": {
+        "en-US": "V. The Englishman in Ireland"
+      }
+    },
+    {
+      "id": "ch06-the-mistake-of-england",
+      "title": {
+        "en-US": "VI. The Mistake of England"
+      }
+    },
+    {
+      "id": "ch07-the-mistake-of-ireland",
+      "title": {
+        "en-US": "VII. The Mistake of Ireland"
+      }
+    },
+    {
+      "id": "ch08-an-example-and-a-question",
+      "title": {
+        "en-US": "VIII. An Example and a Question"
+      }
+    },
+    {
+      "id": "ch09-belfast-and-the-religious-problem",
+      "title": {
+        "en-US": "IX. Belfast and the Religious Problem"
+      }
+    }
+  ]
+}
