@@ -8,5 +8,193 @@
     "Hugh of St. Victor",
     "Hugh of Saint Victor",
     "Hugo de Sancto Victore"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "His guide to study, then his shorter works of the soul.",
+        "pt-BR": "Seu guia de estudo e depois suas obras breves sobre a alma."
+      },
+      "works": [
+        {
+          "work": "hugh/didascalicon",
+          "why": {
+            "en-US": "His guide to study: what to learn, in what order and how",
+            "pt-BR": "Seu guia de estudo: o que aprender, em que ordem e como"
+          }
+        },
+        {
+          "work": "hugh/soliloquium-de-arrha-animae",
+          "why": {
+            "en-US": "A man's dialogue with his soul about the Bridegroom's pledge",
+            "pt-BR": "Diálogo de um homem com a alma sobre o penhor do Esposo"
+          }
+        },
+        {
+          "work": "hugh/de-institutione-novitiorum",
+          "why": {
+            "en-US": "A manual on conduct, reading and the way into religious life",
+            "pt-BR": "Manual de conduta, leitura e entrada na vida religiosa"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The summa and the great commentary",
+        "pt-BR": "A suma e o grande comentário"
+      },
+      "works": [
+        {
+          "work": "hugh/de-sacramentis",
+          "why": {
+            "en-US": "His great summa, from creation to the last things",
+            "pt-BR": "Sua grande suma, da criação às últimas coisas"
+          }
+        },
+        {
+          "work": "hugh/hierarchia-caelestis",
+          "why": {
+            "en-US": "Ten books on the Celestial Hierarchy of Dionysius",
+            "pt-BR": "Dez livros sobre a Hierarquia Celeste de Dionísio"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The Arks",
+        "pt-BR": "As Arcas"
+      },
+      "note": {
+        "en-US": "Noah's ark as the heart, the Church and the road of contemplation.",
+        "pt-BR": "A arca de Noé como coração, Igreja e caminho da contemplação."
+      },
+      "works": [
+        {
+          "work": "hugh/de-arca-noe-morali",
+          "why": {
+            "en-US": "The ark as the heart and the Church built by wisdom",
+            "pt-BR": "A arca como coração e Igreja edificada pela sabedoria"
+          }
+        },
+        {
+          "work": "hugh/de-arca-noe-mystica",
+          "why": {
+            "en-US": "The long description of the ark",
+            "pt-BR": "A longa descrição da arca"
+          }
+        },
+        {
+          "work": "hugh/de-tribus-diebus",
+          "why": {
+            "en-US": "The visible world as a book",
+            "pt-BR": "O mundo visível como um livro"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Spiritual opuscula",
+        "pt-BR": "Opúsculos espirituais"
+      },
+      "works": [
+        {
+          "work": "hugh/opuscula-spiritualia",
+          "why": {
+            "en-US": "In praise of charity and the Bridegroom's love",
+            "pt-BR": "Louvor da caridade e o amor do Esposo pela Esposa"
+          }
+        },
+        {
+          "work": "hugh/de-vanitate-mundi",
+          "why": {
+            "en-US": "A dialogue on the vanity of the world and the love of God",
+            "pt-BR": "Diálogo sobre a vaidade do mundo e o amor de Deus"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Scripture",
+        "pt-BR": "Escritura"
+      },
+      "works": [
+        {
+          "work": "hugh/homiliae-in-ecclesiasten",
+          "why": {
+            "en-US": "Nineteen homilies on Ecclesiastes",
+            "pt-BR": "Dezenove homilias sobre o Eclesiastes"
+          }
+        },
+        {
+          "work": "hugh/adnotationes-in-scripturam",
+          "why": {
+            "en-US": "Notes on Scripture, with the introduction on its writers",
+            "pt-BR": "Notas sobre a Escritura, com a introdução sobre seus autores"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Doubtful and attributed works",
+        "pt-BR": "Obras duvidosas e atribuídas"
+      },
+      "note": {
+        "en-US": "Texts printed under his name in Migne that scholarship doubts.",
+        "pt-BR": "Textos impressos sob seu nome em Migne que a crítica põe em dúvida."
+      },
+      "works": [
+        {
+          "work": "hugh/expositio-in-regulam",
+          "why": {
+            "en-US": "Commentary on the Rule of St. Augustine, with an English version",
+            "pt-BR": "Comentário à Regra de Santo Agostinho, com versão em inglês"
+          }
+        },
+        {
+          "work": "hugh/summa-sententiarum",
+          "why": {
+            "en-US": "Summa of the Sentences in seven tracts",
+            "pt-BR": "Suma das Sentenças em sete tratados"
+          }
+        },
+        {
+          "work": "hugh/de-sacramentis-legis",
+          "why": {
+            "en-US": "Dialogue on the sacraments of the natural and written law",
+            "pt-BR": "Diálogo sobre os sacramentos da lei natural e da escrita"
+          }
+        },
+        {
+          "work": "hugh/quaestiones-in-epistolas-pauli",
+          "why": {
+            "en-US": "Questions and answers on the Pauline epistles",
+            "pt-BR": "Questões e respostas sobre as epístolas paulinas"
+          }
+        },
+        {
+          "work": "hugh/miscellanea",
+          "why": {
+            "en-US": "Five books of elucidations and sentences printed under his name",
+            "pt-BR": "Cinco livros de elucidações e sentenças sob seu nome"
+          }
+        },
+        {
+          "work": "hugh/opuscula-dubia",
+          "why": {
+            "en-US": "Three short pieces of uncertain authorship",
+            "pt-BR": "Três peças breves de autoria incerta"
+          }
+        }
+      ]
+    }
   ]
 }
