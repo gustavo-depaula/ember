@@ -214,11 +214,7 @@ And it is for us that Christ accomplishes this work : pro nobis. Christ saves us
 
 O Lord, who shall be able to reveal how ineffable are the designs of Thy wisdom? Who shall celebrate the greatness of the gift Thou dost make to us ? Who shall be able to render Thee thanksgiving worthy of it ?
 
-1. Philipp. 0, 5. — 2. Rom. vil, 29. a As x Cas if
-
-‘
-
-_ THE MYSTERIES OF CHRIST i= '
+1. Philipp. 0, 5. — 2. Rom. vil, 29.
 
 [^1]: 1. Apoc. XIX, 16.— 2. Ps. xciv, 6.— 3. Ibid. xcrx, 2. —- 4. Ibid. ny, 8.
 

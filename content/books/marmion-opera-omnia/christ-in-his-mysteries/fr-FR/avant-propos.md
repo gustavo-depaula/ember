@@ -1,7 +1,5 @@
 # Avant-propos de la 1re édition
 
-AVANT-PROPOS DE LA 1" EDITION
-
 En permettant l’impression des conférences « Le Christ vie de l’ame », l’auteur n’avait en vue que d’exposer, d’après l’Évangile, les Épîtres de S. Paul et les conclusions de l’enseignement théologique, les caractères fondamentaux de la vie chrétienne. Celle-ci est essentiellement surnaturelle, et ne se peut puiser que dans le Christ, modèle unique de perfection, trésor infini de nos grâces et cause efficiente de toute sainteté.
 
 Les conférences qui composent le présent volume font logiquement suite à celles du précédent.
@@ -91,21 +89,3 @@ XIX. — Le cœur du Christ 436
 XX. — Le Christ « couronne de tous les saints ». . 465
 
 / iCTUS EST HOMO QUI ERAT DEUS, ACC1- PIE.\DO QUOD NON ERAT, VOA AMITTBNDO
-
-QUOD ERAT : ETA FACTUS EST HOMO DEUS. Wl HABES AEIQUID PR OPTER INFIRMITATEU TEAM; IBI HABES AEIUD PROPTER PERFECT10XEM TUAM. ERIGAT TE CHR1STUS PER II) QUOD HOMO EST; DUCAT TE PER ID QUOD DEUS- HOMO EST; PERDUCAT TE AD ID QUOD DEUS EST.
-
-« CELUI OUI ETAIT DIEU S EST FAIT HOMME. EN PRENANT CE QUTL N’ÉTAIT PAS. MATS SANS PERDRE CE QU’IL ÉTAIT: C EST AINSI QUE DIEU EST DEVENU HOMME. TU AS LA CE QL IL (AIT À TA FAIBLESSE. ET TU AS LÀ AUSSI CE QUTL FAUT À TA PERFECTION. QUE LE CHRIST TE RELÈVE PAR SON « ÊTRE » D’HOMME ; OU IL TE GUIDE PAR SON < ETRE ■ DE DIEl -IIOMML : QUILLE CONDUISE JUSQU’À SON « ETRE Dl DIEU ! o
-
-8. Augustin. InJoan. XXIII. 6.
-
-COJVTÉJiENCES PJ{ÉLVHmjm{ES
-
-LES MYSTERES DU CHRIST SONT NOS MYSTÈRES
-
-II. — COMMENT
-
-NOUS NOUS ASSIMILONS LE FRUIT
-
-DES MYSTÈRES DE JÉSUS
-
-I. — LES MYSTERES DU CHRIST SONT NOS MYSTERES.

@@ -150,8 +150,6 @@ What a powerful motive of confidence it is to know that the Christ Whose life we
 
 I believe, Lord Jesus, but increase my faith! I have full confidence in the reality and plenitude of Your merits, but strengthen this confidence ! I love You, O Jesus, You Who have manifested Your love in all Your mysteries, in fimem, but make my love ever greater.
 
-II. — OUR CONTACT WITH THE MYSTERIES OF JESUS.
-
 [^1]: 1.11 Cor. 1, 5 sq. — 2. Ibid. x1, 26.— 3. Act. rx, 15.— 4. Rom. I 24-32. — 5. I Cor. xv, 8.— 6. I Cor. m1, 3.— 7. Gal. rv, 13.— 8.1 Cor. D, I, 4-5. — 9. Ibid. uy, 2.
 
 [^2]: 1. Eph. m1, 14, 16, 18-19. — 2. Col. 1. 9,— 3. Ibid. 1, 1-3.

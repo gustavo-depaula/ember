@@ -308,8 +308,6 @@ Khe Heartvot Christy) Meier me ceermin ie terete etn OL as So:
 
 _ The time extending from Pentecost to All Saints especially symbolises the Church’s pilgrimage in this life. Christ the Life of the Soul could be read during this time.
 
-All Saints (and octave). Christ the Crown of all the Saints. . . . . . . . 385-407
-
 [^1]: 1. Ephes. I, 3, 22-23. — 2. Credo of the Mass.
 
 [^2]: 1. Ephes. v, 27. — 2. De Unttate Eccles. 4. — 3. Thes. Iv, 3.

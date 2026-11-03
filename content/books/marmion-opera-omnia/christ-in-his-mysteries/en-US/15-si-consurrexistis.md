@@ -184,10 +184,6 @@ Never let us forget that we make only one with Christ Jesus. His triumph is ours
 
 1. Col. 11, 4. — 2. “ Praise God ’’. — 3. Secret for Easter Saturday.
 
-XVI. — “..AND NOW, FATHER, GLORIFY THY
-
-SON ”. (Ascension).
-
 [^1]: 1. Philipp. 0, 8. — 2. Deut. xxI, 23 ; Gal. 01, 13.
 
 [^2]: 5. Cf. Joan. vir, 46. — 6. Hebr. viz, 26. — 7. Joan. xv, 6. — 8. Ibid. VAC

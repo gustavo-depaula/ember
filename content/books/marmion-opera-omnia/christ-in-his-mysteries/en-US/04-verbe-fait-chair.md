@@ -184,8 +184,6 @@ And the saint concludes : /nfirmus in carne Jesus ; sed nol tu infirmari ; in in
 
 I. Joan. 1, 18.—: 2. Ibid. 1v, 6.— 3. Tract. in Joan. xv.
 
-Wine SAVIOUR” Nt a iG eee ota
-
 [^1]: Pevicale Vis ki-52--— 2. Ibid. mi, 13, —, 3, Lbid-xvit,’5. — 4, Gal. Iv, 4.— 5. Hebr. 11, 17.— 6. Luc. XXIV, 39' sq. — 7. Hebr. Iv, 15.
 
 [^2]: 1, Epistola 28 dogmatica ad Flavian. — 2. Agnosce mediatorem Der ei hominum qui ab ipso nativitatis suae exordio divinis humana soctiat, ma. summis. S. Bernard. Sermo I de Circumcisione.

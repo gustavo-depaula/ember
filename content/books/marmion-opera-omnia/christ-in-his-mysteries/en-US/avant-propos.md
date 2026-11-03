@@ -1,7 +1,5 @@
 # Foreword to the First Edition
 
-FOREWORD TO THE 1* EDITION.
-
 In allowing the publication of the conferences “ Christ, the Life of the Soul”, the author had only in view to show forth the fundamental character of the Christian life, according to the Gospel, the Epistles of St. Paul, and the conclusions of theological teaching. The Christian life is essentially supernatural, and can only be found in Christ, the supreme Model of perfection, the infinite Treasure of grace and the efficient Cause of all holiness.
 
 The conferences that compose the present volume are the logical continuation of those of the preceding volume.
@@ -87,17 +85,3 @@ Calvary.
 . - 302
 
 323 342 362 385
-
-FACTUS EST HOMO QUI ERAT DEUS, ACCI- PIENDO QUOD NON ERAT NON AMITTENDO QUOD ERAT: ITA FACTUS EST HOMO DEUS, IBI HABES ALIQUID PROPTER INFIRMITATEM TUAM; TIBI HABES ALIUD PROPTER PERFECTIONEM TUAM. ERIGAT TE CHRISTUS PER ID QUOD HOMO EST; DUCAT TE PER ID QUOD DEUS- HOMO EST ; PERDUCAT TE AD ID QUOD DEUS EST.
-
-« HE WHO WAS GOD WAS MADE MAN, _ IN TAKING THAT WHICH HE WAS NOT, BUT WITHOUT LOSING THAT WHICH HE WAS: THUS GOD BECAME MAN. HEREIN THOU HAST SHAT WHICH | IS NEEDEUL SS TOs. DEY WEAKNESS. AND THOU HAST THAT ALSO WHICH IS NEEDFUL TO THY PERFECTION. MAY CHRIST RAISE THEE BY HIS « BEING » AS MAN: MAY HE GUIDE THEE BY HIS « BEING» AS GOD-MAN;: MAY HE BRING THEE EVEN TO HIS « BEING» AS GOD!»
-
-ST Aveustin. In Joan. XXIII, 6.
-
-PRELIMINARY CONFERENCES. I. — THE MYSTERIES OF CHRIST ARE OUR MYSTERIES.
-
-Il. — OUR CONTACT WITH THE MYSTERIES OF JESUS. rs i
-
-% . ie 7a an | Nem ‘ i & % a
-
-Y a ies es ae areas fare

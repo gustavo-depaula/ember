@@ -326,8 +326,6 @@ La période qui s’étend de la Pentecôte jusqu’à la Toussaint symbolise pa
 
 Toussaint (et octave).
 
-Couronne de tous les Saints 465-492
-
 [^1]: 1. Ephes. I, 22-23. Le Christ dans se? mystères. 30
 
 [^2]: 3. De Uni ta te

@@ -134,8 +134,6 @@ OUR CONTACT WITH THE MYSTERIES OF JESUS col
 
 ‘it is not always the hour for thinking of it, and it is not, at ali events, what is the most efficacious for us). What is most efficacious, here as everywhere, the most decisive, the most triumphant, is, as far as one can, and habitually, to look upwards ; it is to consider God and Jesus ; the perfections of God, His rights, His attiibutes, His appeals, His provocations, His patient waiting, His designs, His promises ; the mysteries of Jesus and the divine graces flowing from what He said, did, ordained and suffered. It is ever to remember that He is personally the point of depariure and the Chef of the Christian life ; that the great virtue of baptism is to incorporate us in Him,to give us His life, to make us of His race, and to pour forth His Spirit within us, that is to say a light and a strength whereby we are enabled, and so remain, not only to avoid sin, as St. John expressly says, but moreover to judge all things, to discern our way and to follow it, and ascending from light to light, from liberty to liberty, to reach the inward state of him who said: “I live, now not I ; but Christ liveth in me”.
 
-Mer Gay, Elevations upon the Life and Doctrine of our Lord Jesus Christ. gist Elev. /
-
 [^1]: 1. Joan, XIv, 9. — 2, Matth: xxv, 138) — 3) Joan xx" 2r— 4. Luc. x, 16.
 
 [^2]: 1. S. Greg. Nazian. Ovat. I in sanct. Pascha Iv.
