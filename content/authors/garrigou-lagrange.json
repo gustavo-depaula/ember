@@ -8,5 +8,218 @@
     "Reginald Garrigou-Lagrange",
     "Réginald Garrigou-Lagrange",
     "Garrigou-Lagrange"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "The spiritual-life books, written for readers who are not specialists.",
+        "pt-BR": "Os livros de vida espiritual, escritos para quem não é especialista."
+      },
+      "works": [
+        {
+          "work": "garrigou-lagrange/trois-conversions-et-trois-voies",
+          "why": {
+            "en-US": "The shortest road into his teaching on the three ways",
+            "pt-BR": "O caminho mais curto para seu ensino sobre as três vias"
+          }
+        },
+        {
+          "work": "garrigou-lagrange/trois-ages-de-la-vie-interieure",
+          "why": {
+            "en-US": "His magnum opus on the interior life and its three ages",
+            "pt-BR": "Sua obra-prima sobre a vida interior e suas três idades"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Spiritual life and contemplation",
+        "pt-BR": "Vida espiritual e contemplação"
+      },
+      "works": [
+        {
+          "work": "garrigou-lagrange/perfection-chretienne-et-contemplation",
+          "why": {
+            "en-US": "The book that opened the debate on contemplation",
+            "pt-BR": "O livro que abriu o debate sobre a contemplação"
+          }
+        },
+        {
+          "work": "garrigou-lagrange/amour-de-dieu-et-croix-de-jesus",
+          "why": {
+            "en-US": "God's love, mortification and the passive purifications",
+            "pt-BR": "O amor de Deus, a mortificação e as purificações passivas"
+          }
+        },
+        {
+          "work": "garrigou-lagrange/providence-et-confiance-en-dieu",
+          "why": {
+            "en-US": "Abandonment to Providence and trust in God",
+            "pt-BR": "O abandono à Providência e a confiança em Deus"
+          }
+        },
+        {
+          "work": "garrigou-lagrange/eternelle-vie",
+          "why": {
+            "en-US": "Death, judgment, purgatory, heaven and hell",
+            "pt-BR": "Morte, juízo, purgatório, céu e inferno"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Christ, Mary and the priest",
+        "pt-BR": "Cristo, Maria e o sacerdote"
+      },
+      "works": [
+        {
+          "work": "garrigou-lagrange/sauveur-et-son-amour",
+          "why": {
+            "en-US": "Christ's love for us and the mystery of the Redemption",
+            "pt-BR": "O amor de Cristo por nós e o mistério da Redenção"
+          }
+        },
+        {
+          "work": "garrigou-lagrange/mere-du-sauveur",
+          "why": {
+            "en-US": "Mariology in the service of the interior life",
+            "pt-BR": "A mariologia a serviço da vida interior"
+          }
+        },
+        {
+          "work": "garrigou-lagrange/unione-sacerdotis-cum-christo",
+          "why": {
+            "en-US": "The priest's union with Christ, Priest and Victim",
+            "pt-BR": "A união do sacerdote com Cristo, Sacerdote e Vítima"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Predestination",
+        "pt-BR": "Predestinação"
+      },
+      "works": [
+        {
+          "work": "garrigou-lagrange/predestination-des-saints",
+          "why": {
+            "en-US": "The Thomist doctrine of predestination as God's love",
+            "pt-BR": "A doutrina tomista da predestinação como amor de Deus"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Natural theology and philosophy",
+        "pt-BR": "Teologia natural e filosofia"
+      },
+      "works": [
+        {
+          "work": "garrigou-lagrange/dieu-son-existence-et-sa-nature",
+          "why": {
+            "en-US": "Thomistic natural theology: God's existence and attributes",
+            "pt-BR": "Teologia natural tomista: a existência e os atributos de Deus"
+          }
+        },
+        {
+          "work": "garrigou-lagrange/synthese-thomiste",
+          "why": {
+            "en-US": "The whole of Thomistic thought in synthesis",
+            "pt-BR": "Todo o pensamento tomista em síntese"
+          }
+        },
+        {
+          "work": "garrigou-lagrange/sens-commun",
+          "why": {
+            "en-US": "The philosophy of being and the value of dogmatic formulas",
+            "pt-BR": "A filosofia do ser e o valor das fórmulas dogmáticas"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Commentary on the Summa",
+        "pt-BR": "Comentário à Suma"
+      },
+      "note": {
+        "en-US": "Commentaries on the Summa theologiae, in the order of the Summa.",
+        "pt-BR": "Comentários à Suma teológica, na ordem da Suma."
+      },
+      "works": [
+        {
+          "work": "garrigou-lagrange/de-deo-uno",
+          "why": {
+            "en-US": "The Summa I, qq. 1-26: the existence and attributes of God",
+            "pt-BR": "Suma I, qq. 1-26: a existência e os atributos de Deus"
+          }
+        },
+        {
+          "work": "garrigou-lagrange/de-deo-trino-et-creatore",
+          "why": {
+            "en-US": "The Summa I, qq. 27-119: Trinity, creation, angels, man",
+            "pt-BR": "Suma I, qq. 27-119: Trindade, criação, anjos, homem"
+          }
+        },
+        {
+          "work": "garrigou-lagrange/de-beatitudine",
+          "why": {
+            "en-US": "The Summa I-II, qq. 1-54: last end, human acts, passions",
+            "pt-BR": "Suma I-II, qq. 1-54: fim último, atos humanos, paixões"
+          }
+        },
+        {
+          "work": "garrigou-lagrange/de-gratia",
+          "why": {
+            "en-US": "The Summa I-II, qq. 109-114: grace, justification, merit",
+            "pt-BR": "Suma I-II, qq. 109-114: graça, justificação, mérito"
+          }
+        },
+        {
+          "work": "garrigou-lagrange/de-virtutibus-theologicis",
+          "why": {
+            "en-US": "The Summa II-II on faith, hope and charity",
+            "pt-BR": "Suma II-II sobre a fé, a esperança e a caridade"
+          }
+        },
+        {
+          "work": "garrigou-lagrange/de-christo-salvatore",
+          "why": {
+            "en-US": "The Summa III: the Incarnation and Christ's life",
+            "pt-BR": "Suma III: a Encarnação e a vida de Cristo"
+          }
+        },
+        {
+          "work": "garrigou-lagrange/de-eucharistia",
+          "why": {
+            "en-US": "The Summa III, qq. 73-83, with questions on Penance",
+            "pt-BR": "Suma III, qq. 73-83, com questões sobre a Penitência"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Apologetics",
+        "pt-BR": "Apologética"
+      },
+      "works": [
+        {
+          "work": "garrigou-lagrange/de-revelatione",
+          "why": {
+            "en-US": "Revelation, credibility and the Church, in two volumes",
+            "pt-BR": "A revelação, a credibilidade e a Igreja, em dois volumes"
+          }
+        }
+      ]
+    }
   ]
 }
