@@ -1,0 +1,161 @@
+{
+  "id": "gueranger-annee-liturgique-10-pentecote-1",
+  "name": {
+    "fr-FR": "L’Année liturgique : le temps après la Pentecôte, I",
+    "en-US": "The Liturgical Year: Time after Pentecost, Book I (continuation by Dom Fromage)",
+    "pt-BR": "O Ano Litúrgico: Tempo depois de Pentecostes, I (continuação de Dom Fromage)"
+  },
+  "author": {
+    "fr-FR": "Dom Lucien Fromage (continuation de Dom Guéranger)",
+    "en-US": "Dom Lucien Fromage",
+    "pt-BR": "Dom Lucien Fromage"
+  },
+  "description": {
+    "fr-FR": "Volume 10 de l’Année liturgique (Le temps après la Pentecôte, I, 1e volume de la continuation par Dom Lucien Fromage) : un chapitre par jour ou fête, avec les textes liturgiques en latin et en français.",
+    "en-US": "Volume 10 of the 15-volume Liturgical Year (L’Année liturgique) in the original French, the first volume of the continuation written by Dom Lucien Fromage after Guéranger’s death. One chapter per day or feast, with the Latin and French of the liturgical texts. Made from the 1911 Oudin printing’s OCR; the two-column Latin and French text is separated by script and some running heads remain.",
+    "pt-BR": "Volume 10 dos 15 volumes de «O Ano Litúrgico» (L’Année liturgique) em francês, volume 1 da continuação escrita por Dom Lucien Fromage após a morte de Guéranger. Um capítulo por dia ou festa, com o latim e o francês dos textos litúrgicos."
+  },
+  "composed": "1878",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "fr-FR": {
+      "editor": "Dom Lucien Fromage, continuation (Oudin, Paris-Poitiers)",
+      "year": 1911
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/lanneliturgiqu10gu",
+      "edition": "L’Année liturgique, vol. 10, Paris-Poitiers: Librairie H. Oudin, 1911. Internet Archive scan (University of Toronto), OCR text.",
+      "description": "Split at detected day and feast headings; running heads and page numbers removed where recognised; the Latin and French columns, interleaved line by line in the OCR, were separated by language and set as a Latin paragraph followed by its French. The table of contents at the back is not imported.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875 and Fromage in 1916; the text was printed in 1911 (before 1931)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-preface",
+      "title": {
+        "fr-FR": "Préface"
+      }
+    },
+    {
+      "id": "002-la-pentecote-chapitre-premier-historique-du-temp",
+      "title": {
+        "fr-FR": "La Pentecôte chapitre premier historique du temps après la Pentecôte"
+      }
+    },
+    {
+      "id": "003-chapitre-ii-mystique-du-temps-apres-la-pentecote",
+      "title": {
+        "fr-FR": "Chapitre II mystique du temps après la Pentecôte"
+      }
+    },
+    {
+      "id": "004-chapitre-v-de-l-assistance-a-la-sainte-messe-au",
+      "title": {
+        "fr-FR": "Chapitre V. de l assistance à la Sainte Messe, au temps après la Pentecôte"
+      }
+    },
+    {
+      "id": "005-chapitre-vi-pratique-de-la-sainte-communion-au-t",
+      "title": {
+        "fr-FR": "Chapitre VI pratique de la Sainte Communion, au temps après la Pentecôte"
+      }
+    },
+    {
+      "id": "006-chapitre-vu-des-offices-de-tierce-sexte-et-none",
+      "title": {
+        "fr-FR": "Chapitre vu. des offices de tierce, sexte et none, au temps après la Pentecôte"
+      }
+    },
+    {
+      "id": "007-chapitre-viii",
+      "title": {
+        "fr-FR": "Chapitre VIII"
+      }
+    },
+    {
+      "id": "008-chapitre-ix-de-l-office-de-complies-au-temps-apr",
+      "title": {
+        "fr-FR": "Chapitre IX. de l office de complies, au temps après la Pentecôte"
+      }
+    },
+    {
+      "id": "009-la-fete-de-la-tres-sainte-trinite",
+      "title": {
+        "fr-FR": "La fête de la tres Sainte Trinité"
+      }
+    },
+    {
+      "id": "010-le-lundi-apres-la-trinite",
+      "title": {
+        "fr-FR": "Le lundi après la Trinité"
+      }
+    },
+    {
+      "id": "011-le-mercredi-apres-la-trinite",
+      "title": {
+        "fr-FR": "Le mercredi après la Trinité"
+      }
+    },
+    {
+      "id": "012-la-fete-du-tres-saint-sacrement",
+      "title": {
+        "fr-FR": "La fête du très Saint Sacrement"
+      }
+    },
+    {
+      "id": "013-le-vendredi-dans-loctave-du-saint-sacrement",
+      "title": {
+        "fr-FR": "Le vendredi dans l'octave du Saint-Sacrement"
+      }
+    },
+    {
+      "id": "014-le-samedi-dans-loctave-du-saint-sacrement",
+      "title": {
+        "fr-FR": "Le samedi dans l'octave du Saint-Sacrement"
+      }
+    },
+    {
+      "id": "015-le-dimanche-dans-loctave-du-saint-sacrement",
+      "title": {
+        "fr-FR": "Le dimanche dans l'octave du Saint-Sacrement"
+      }
+    },
+    {
+      "id": "016-le-mardi-dans-loctave-du-saint-sacrement",
+      "title": {
+        "fr-FR": "Le mardi dans l'octave du Saint-Sacrement"
+      }
+    },
+    {
+      "id": "017-le-mercredi-dans-loctave-du-saint-sacrement",
+      "title": {
+        "fr-FR": "Le mercredi dans l'octave du Saint-Sacrement"
+      }
+    },
+    {
+      "id": "018-le-jeudi-octave-du-saint-sacrement",
+      "title": {
+        "fr-FR": "Le jeudi octave du Saint-Sacrement"
+      }
+    },
+    {
+      "id": "019-le-vendredi-apres-l-octave-du-s-sacrement-la-fet",
+      "title": {
+        "fr-FR": "Le vendredi après l octave du s. -sacrement. la fête du Sacré-Cœur de Jésus"
+      }
+    },
+    {
+      "id": "020-le-troisieme-dimanche-apres-la-pentecote",
+      "title": {
+        "fr-FR": "Le troisième dimanche après la Pentecôte"
+      }
+    }
+  ]
+}
