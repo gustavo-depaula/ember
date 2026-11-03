@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on John",
-    "la": "Super Evangelium S. Ioannis lectura"
+    "la": "Super Evangelium S. Ioannis lectura",
+    "pt-BR": "Comentário ao Evangelho de São João"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's lecture-by-lecture commentary on the Gospel of John, delivered at Paris during the second regency. The fullest of his Gospel commentaries.",
-    "la": "Expositio Thomae lectionum in Evangelium secundum Iohannem, apud Parisios in regentia secunda habita. Maximum eius in Evangelia commentarium."
+    "la": "Expositio Thomae lectionum in Evangelium secundum Iohannem, apud Parisios in regentia secunda habita. Maximum eius in Evangelia commentarium.",
+    "pt-BR": "Comentário de Santo Tomás ao Evangelho de São João, lição por lição, ministrado em Paris durante a segunda regência. É o mais extenso dos seus comentários aos Evangelhos."
   },
   "composed": "1270–1272",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,14 +39,16 @@
       "id": "g1",
       "title": {
         "en-US": "Chapter 1 — Isaiah 6:1",
-        "la": "Caput 1"
+        "la": "Caput 1",
+        "pt-BR": "Capítulo 1 — Isaías 6:1"
       },
       "children": [
         {
           "id": "g1-pr",
           "title": {
             "en-US": "Prologue — Isaiah 6:1",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo — Isaías 6:1"
           }
         }
       ]
@@ -51,14 +57,16 @@
       "id": "g2",
       "title": {
         "en-US": "Chapter 2 — Prologue of Saint Jerome",
-        "la": "Caput 2"
+        "la": "Caput 2",
+        "pt-BR": "Capítulo 2 — Prólogo de São Jerônimo"
       },
       "children": [
         {
           "id": "g2-pr",
           "title": {
             "en-US": "Prologue — Prologue of Saint Jerome",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo — Prólogo de São Jerônimo"
           }
         }
       ]
@@ -67,14 +75,16 @@
       "id": "g3",
       "title": {
         "en-US": "Chapter 3 — Exposition of St. Thomas",
-        "la": "Caput 3"
+        "la": "Caput 3",
+        "pt-BR": "Capítulo 3 — Exposição de Santo Tomás"
       },
       "children": [
         {
           "id": "g3-pr",
           "title": {
             "en-US": "Prologue — Exposition of St. Thomas",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo — Exposição de Santo Tomás"
           }
         }
       ]
@@ -83,119 +93,136 @@
       "id": "g4",
       "title": {
         "en-US": "Chapter 4 — The Word of God",
-        "la": "Caput 4"
+        "la": "Caput 4",
+        "pt-BR": "Capítulo 4 — O Verbo de Deus"
       },
       "children": [
         {
           "id": "g4-c001",
           "title": {
             "en-US": "Lecture 1 — Eternity of the Word",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A eternidade do Verbo"
           }
         },
         {
           "id": "g4-c002",
           "title": {
             "en-US": "Lecture 2 — Power of the Word",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — O poder do Verbo"
           }
         },
         {
           "id": "g4-c003",
           "title": {
             "en-US": "Lecture 3 — The light of men",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A luz dos homens"
           }
         },
         {
           "id": "g4-c004",
           "title": {
             "en-US": "Lecture 4 — The testimony of John",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — O testemunho de João"
           }
         },
         {
           "id": "g4-c005",
           "title": {
             "en-US": "Lecture 5 — The world’s ignorance of its maker",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — O mundo não conhece o seu Criador"
           }
         },
         {
           "id": "g4-c006",
           "title": {
             "en-US": "Lecture 6 — Reception of the Word",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — O acolhimento do Verbo"
           }
         },
         {
           "id": "g4-c007",
           "title": {
             "en-US": "Lecture 7 — Incarnation of the Word",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — A encarnação do Verbo"
           }
         },
         {
           "id": "g4-c008",
           "title": {
             "en-US": "Lecture 8 — Knowledge of the Word",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — O conhecimento do Verbo"
           }
         },
         {
           "id": "g4-c009",
           "title": {
             "en-US": "Lecture 9 — John’s witness",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — João dá testemunho"
           }
         },
         {
           "id": "g4-c010",
           "title": {
             "en-US": "Lecture 10 — Grace and truth through Christ",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — A graça e a verdade por meio de Cristo"
           }
         },
         {
           "id": "g4-c011",
           "title": {
             "en-US": "Lecture 11 — Revelation of the Son",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — A revelação do Filho"
           }
         },
         {
           "id": "g4-c012",
           "title": {
             "en-US": "Lecture 12 — Identity of John",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — Quem é João"
           }
         },
         {
           "id": "g4-c013",
           "title": {
             "en-US": "Lecture 13 — John’s baptism",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — O batismo de João"
           }
         },
         {
           "id": "g4-c014",
           "title": {
             "en-US": "Lecture 14 — Coming of Christ to John",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14 — Cristo vem a João"
           }
         },
         {
           "id": "g4-c015",
           "title": {
             "en-US": "Lecture 15 — Calling of Andrew and Peter",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15 — A vocação de André e Pedro"
           }
         },
         {
           "id": "g4-c016",
           "title": {
             "en-US": "Lecture 16 — Calling of Philip and Nathanael",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16 — A vocação de Filipe e Natanael"
           }
         }
       ]
@@ -204,28 +231,32 @@
       "id": "g5",
       "title": {
         "en-US": "Chapter 5 — Beginning of Christ’s Mission",
-        "la": "Caput 5"
+        "la": "Caput 5",
+        "pt-BR": "Capítulo 5 — O início da missão de Cristo"
       },
       "children": [
         {
           "id": "g5-c001",
           "title": {
             "en-US": "Lecture 1 — The wedding at Cana",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — As bodas de Caná"
           }
         },
         {
           "id": "g5-c002",
           "title": {
             "en-US": "Lecture 2 — Cleansing of the Temple",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A purificação do Templo"
           }
         },
         {
           "id": "g5-c003",
           "title": {
             "en-US": "Lecture 3 — Destruction of the Temple",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A destruição do Templo"
           }
         }
       ]
@@ -234,49 +265,56 @@
       "id": "g6",
       "title": {
         "en-US": "Chapter 6 — Testimonies to Christ",
-        "la": "Caput 6"
+        "la": "Caput 6",
+        "pt-BR": "Capítulo 6 — Testemunhos sobre Cristo"
       },
       "children": [
         {
           "id": "g6-c001",
           "title": {
             "en-US": "Lecture 1 — Nicodemus",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Nicodemos"
           }
         },
         {
           "id": "g6-c002",
           "title": {
             "en-US": "Lecture 2 — Prophecy of the Crucifixion",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A profecia da crucifixão"
           }
         },
         {
           "id": "g6-c003",
           "title": {
             "en-US": "Lecture 3 — Purpose of the Incarnation",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A finalidade da Encarnação"
           }
         },
         {
           "id": "g6-c004",
           "title": {
             "en-US": "Lecture 4 — Christ baptizes",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Cristo batiza"
           }
         },
         {
           "id": "g6-c005",
           "title": {
             "en-US": "Lecture 5 — Christ is the bridegroom",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Cristo é o esposo"
           }
         },
         {
           "id": "g6-c006",
           "title": {
             "en-US": "Lecture 6 — Belief in the Son",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — A fé no Filho"
           }
         }
       ]
@@ -285,56 +323,64 @@
       "id": "g7",
       "title": {
         "en-US": "Chapter 7 — Conversion of the Gentiles",
-        "la": "Caput 7"
+        "la": "Caput 7",
+        "pt-BR": "Capítulo 7 — A conversão dos gentios"
       },
       "children": [
         {
           "id": "g7-c001",
           "title": {
             "en-US": "Lecture 1 — The Samaritan woman",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A samaritana"
           }
         },
         {
           "id": "g7-c002",
           "title": {
             "en-US": "Lecture 2 — The water of eternal life",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A água da vida eterna"
           }
         },
         {
           "id": "g7-c003",
           "title": {
             "en-US": "Lecture 3 — Testimony of the Samaritan woman",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — O testemunho da samaritana"
           }
         },
         {
           "id": "g7-c004",
           "title": {
             "en-US": "Lecture 4 — The harvest",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A colheita"
           }
         },
         {
           "id": "g7-c005",
           "title": {
             "en-US": "Lecture 5 — Faith of the Samaritans",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A fé dos samaritanos"
           }
         },
         {
           "id": "g7-c006",
           "title": {
             "en-US": "Lecture 6 — Entrance into Galilee",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — A entrada na Galileia"
           }
         },
         {
           "id": "g7-c007",
           "title": {
             "en-US": "Lecture 7 — Healing of the sick boy",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — A cura do menino doente"
           }
         }
       ]
@@ -343,56 +389,64 @@
       "id": "g8",
       "title": {
         "en-US": "Chapter 8 — Signs and Promises",
-        "la": "Caput 8"
+        "la": "Caput 8",
+        "pt-BR": "Capítulo 8 — Sinais e promessas"
       },
       "children": [
         {
           "id": "g8-c001",
           "title": {
             "en-US": "Lecture 1 — Healing at Bethsaida",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A cura em Betsaida"
           }
         },
         {
           "id": "g8-c002",
           "title": {
             "en-US": "Lecture 2 — Actions of the paralytic",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — As ações do paralítico"
           }
         },
         {
           "id": "g8-c003",
           "title": {
             "en-US": "Lecture 3 — Love of the Father for the Son",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — O amor do Pai pelo Filho"
           }
         },
         {
           "id": "g8-c004",
           "title": {
             "en-US": "Lecture 4 — Power of the Father and the Son",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — O poder do Pai e do Filho"
           }
         },
         {
           "id": "g8-c005",
           "title": {
             "en-US": "Lecture 5 — The coming resurrection",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A ressurreição futura"
           }
         },
         {
           "id": "g8-c006",
           "title": {
             "en-US": "Lecture 6 — Witness of Christ’s deeds",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — O testemunho das obras de Cristo"
           }
         },
         {
           "id": "g8-c007",
           "title": {
             "en-US": "Lecture 7 — Men’s lack of love",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — A falta de caridade dos homens"
           }
         }
       ]
@@ -401,63 +455,72 @@
       "id": "g9",
       "title": {
         "en-US": "Chapter 9 — The Bread of Life",
-        "la": "Caput 9"
+        "la": "Caput 9",
+        "pt-BR": "Capítulo 9 — O Pão da vida"
       },
       "children": [
         {
           "id": "g9-c001",
           "title": {
             "en-US": "Lecture 1 — Multiplication of the loaves and fishes",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A multiplicação dos pães e dos peixes"
           }
         },
         {
           "id": "g9-c002",
           "title": {
             "en-US": "Lecture 2 — Christ walks on water",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Cristo caminha sobre as águas"
           }
         },
         {
           "id": "g9-c003",
           "title": {
             "en-US": "Lecture 3 — The crowd pursues Jesus",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A multidão segue Jesus"
           }
         },
         {
           "id": "g9-c004",
           "title": {
             "en-US": "Lecture 4 — The bread of life",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — O pão da vida"
           }
         },
         {
           "id": "g9-c005",
           "title": {
             "en-US": "Lecture 5 — The Jews murmur against Christ",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Os judeus murmuram contra Cristo"
           }
         },
         {
           "id": "g9-c006",
           "title": {
             "en-US": "Lecture 6 — The bread of Christ’s flesh",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — O pão da carne de Cristo"
           }
         },
         {
           "id": "g9-c007",
           "title": {
             "en-US": "Lecture 7 — Life through the body and blood of Christ",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — A vida pela carne e pelo sangue de Cristo"
           }
         },
         {
           "id": "g9-c008",
           "title": {
             "en-US": "Lecture 8 — Many disciples scandalized",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Muitos discípulos se escandalizam"
           }
         }
       ]
@@ -466,42 +529,48 @@
       "id": "g10",
       "title": {
         "en-US": "Chapter 10 — Feast of Tabernacles",
-        "la": "Caput 10"
+        "la": "Caput 10",
+        "pt-BR": "Capítulo 10 — A festa das Tendas"
       },
       "children": [
         {
           "id": "g10-c001",
           "title": {
             "en-US": "Lecture 1 — The feast of Tabernacles",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A festa da Cenopégia"
           }
         },
         {
           "id": "g10-c002",
           "title": {
             "en-US": "Lecture 2 — Christ teaches in the temple",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Cristo ensina no templo"
           }
         },
         {
           "id": "g10-c003",
           "title": {
             "en-US": "Lecture 3 — Christ’s origin",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A origem de Cristo"
           }
         },
         {
           "id": "g10-c004",
           "title": {
             "en-US": "Lecture 4 — Prophecy of Christ’s death",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A profecia da morte de Cristo"
           }
         },
         {
           "id": "g10-c005",
           "title": {
             "en-US": "Lecture 5 — Wrath of the Pharisees",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A ira dos fariseus"
           }
         }
       ]
@@ -510,63 +579,72 @@
       "id": "g11",
       "title": {
         "en-US": "Chapter 11 — Hostility of the Pharisees",
-        "la": "Caput 11"
+        "la": "Caput 11",
+        "pt-BR": "Capítulo 11 — A hostilidade dos fariseus"
       },
       "children": [
         {
           "id": "g11-c001",
           "title": {
             "en-US": "Lecture 1 — The woman caught in adultery",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A mulher surpreendida em adultério"
           }
         },
         {
           "id": "g11-c002",
           "title": {
             "en-US": "Lecture 2 — Truth of Christ’s testimony",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A verdade do testemunho de Cristo"
           }
         },
         {
           "id": "g11-c003",
           "title": {
             "en-US": "Lecture 3 — Christ again proclaims his death",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Cristo anuncia de novo a sua morte"
           }
         },
         {
           "id": "g11-c004",
           "title": {
             "en-US": "Lecture 4 — Freedom in Christ",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A liberdade em Cristo"
           }
         },
         {
           "id": "g11-c005",
           "title": {
             "en-US": "Lecture 5 — The Jews’ presumption",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A presunção dos judeus"
           }
         },
         {
           "id": "g11-c006",
           "title": {
             "en-US": "Lecture 6 — The father of lies",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — O pai da mentira"
           }
         },
         {
           "id": "g11-c007",
           "title": {
             "en-US": "Lecture 7 — Christ honors his Father",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Cristo honra o seu Pai"
           }
         },
         {
           "id": "g11-c008",
           "title": {
             "en-US": "Lecture 8 — Christ proclaims himself God",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Cristo se proclama Deus"
           }
         }
       ]
@@ -575,35 +653,40 @@
       "id": "g12",
       "title": {
         "en-US": "Chapter 12 — The Blind Man",
-        "la": "Caput 12"
+        "la": "Caput 12",
+        "pt-BR": "Capítulo 12 — O cego"
       },
       "children": [
         {
           "id": "g12-c001",
           "title": {
             "en-US": "Lecture 1 — Healing of the blind man",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A cura do cego"
           }
         },
         {
           "id": "g12-c002",
           "title": {
             "en-US": "Lecture 2 — The blind man’s testimony",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — O testemunho do cego"
           }
         },
         {
           "id": "g12-c003",
           "title": {
             "en-US": "Lecture 3 — Persecution of the blind man",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A perseguição do cego"
           }
         },
         {
           "id": "g12-c004",
           "title": {
             "en-US": "Lecture 4 — The blind man adores Christ",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — O cego adora Cristo"
           }
         }
       ]
@@ -612,49 +695,56 @@
       "id": "g13",
       "title": {
         "en-US": "Chapter 13 — The Good Shepherd",
-        "la": "Caput 13"
+        "la": "Caput 13",
+        "pt-BR": "Capítulo 13 — O Bom Pastor"
       },
       "children": [
         {
           "id": "g13-c001",
           "title": {
             "en-US": "Lecture 1 — The sheep and the shepherd",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — As ovelhas e o pastor"
           }
         },
         {
           "id": "g13-c002",
           "title": {
             "en-US": "Lecture 2 — Explanation of the parable",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A explicação da parábola"
           }
         },
         {
           "id": "g13-c003",
           "title": {
             "en-US": "Lecture 3 — The good shepherd",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — O bom pastor"
           }
         },
         {
           "id": "g13-c004",
           "title": {
             "en-US": "Lecture 4 — Christ lays down his life",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Cristo dá a sua vida"
           }
         },
         {
           "id": "g13-c005",
           "title": {
             "en-US": "Lecture 5 — Feast of the dedication",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A festa da Dedicação"
           }
         },
         {
           "id": "g13-c006",
           "title": {
             "en-US": "Lecture 6 — Attempted stoning of Christ",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — A tentativa de apedrejar Cristo"
           }
         }
       ]
@@ -663,63 +753,72 @@
       "id": "g14",
       "title": {
         "en-US": "Chapter 14 — Lazarus",
-        "la": "Caput 14"
+        "la": "Caput 14",
+        "pt-BR": "Capítulo 14 — Lázaro"
       },
       "children": [
         {
           "id": "g14-c001",
           "title": {
             "en-US": "Lecture 1 — Sickness of Lazarus",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A doença de Lázaro"
           }
         },
         {
           "id": "g14-c002",
           "title": {
             "en-US": "Lecture 2 — Christ remains in the same place",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Cristo permanece no mesmo lugar"
           }
         },
         {
           "id": "g14-c003",
           "title": {
             "en-US": "Lecture 3 — The death of Lazarus",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A morte de Lázaro"
           }
         },
         {
           "id": "g14-c004",
           "title": {
             "en-US": "Lecture 4 — The promise of the resurrection",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A promessa da ressurreição"
           }
         },
         {
           "id": "g14-c005",
           "title": {
             "en-US": "Lecture 5 — Christ weeps over Lazarus",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Cristo chora por Lázaro"
           }
         },
         {
           "id": "g14-c006",
           "title": {
             "en-US": "Lecture 6 — The resurrection of Lazarus",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — A ressurreição de Lázaro"
           }
         },
         {
           "id": "g14-c007",
           "title": {
             "en-US": "Lecture 7 — Caiaphas’ prophecy",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — A profecia de Caifás"
           }
         },
         {
           "id": "g14-c008",
           "title": {
             "en-US": "Lecture 8 — Plotting of the chief priests",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — A conspiração dos príncipes dos sacerdotes"
           }
         }
       ]
@@ -728,63 +827,72 @@
       "id": "g15",
       "title": {
         "en-US": "Chapter 15 — Christ’s Hour Comes",
-        "la": "Caput 15"
+        "la": "Caput 15",
+        "pt-BR": "Capítulo 15 — Chega a hora de Cristo"
       },
       "children": [
         {
           "id": "g15-c001",
           "title": {
             "en-US": "Lecture 1 — Mary anoints Christ’s feet",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Maria unge os pés de Cristo"
           }
         },
         {
           "id": "g15-c002",
           "title": {
             "en-US": "Lecture 2 — Christ speaks against Judas",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Cristo fala contra Judas"
           }
         },
         {
           "id": "g15-c003",
           "title": {
             "en-US": "Lecture 3 — Christ’s entrance into Jerusalem",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A entrada de Cristo em Jerusalém"
           }
         },
         {
           "id": "g15-c004",
           "title": {
             "en-US": "Lecture 4 — The hour of glory",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A hora da glória"
           }
         },
         {
           "id": "g15-c005",
           "title": {
             "en-US": "Lecture 5 — Christ came for this hour",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Cristo veio para esta hora"
           }
         },
         {
           "id": "g15-c006",
           "title": {
             "en-US": "Lecture 6 — Christ hides from the crowd",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — Cristo se esconde da multidão"
           }
         },
         {
           "id": "g15-c007",
           "title": {
             "en-US": "Lecture 7 — Fulfillment of Isaiah’s prophecy",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — O cumprimento da profecia de Isaías"
           }
         },
         {
           "id": "g15-c008",
           "title": {
             "en-US": "Lecture 8 — Christ came to save the world",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Cristo veio salvar o mundo"
           }
         }
       ]
@@ -793,63 +901,72 @@
       "id": "g16",
       "title": {
         "en-US": "Chapter 16 — The Last Supper Discourse",
-        "la": "Caput 16"
+        "la": "Caput 16",
+        "pt-BR": "Capítulo 16 — O discurso da Última Ceia"
       },
       "children": [
         {
           "id": "g16-c001",
           "title": {
             "en-US": "Lecture 1 — Beginning of the Last Supper",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — O início da Última Ceia"
           }
         },
         {
           "id": "g16-c002",
           "title": {
             "en-US": "Lecture 2 — The washing of the feet",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — O lava-pés"
           }
         },
         {
           "id": "g16-c003",
           "title": {
             "en-US": "Lecture 3 — Christ the example",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Cristo, o exemplo"
           }
         },
         {
           "id": "g16-c004",
           "title": {
             "en-US": "Lecture 4 — Prophecy of Judas’s betrayal",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A profecia da traição de Judas"
           }
         },
         {
           "id": "g16-c005",
           "title": {
             "en-US": "Lecture 5 — Judas leaves",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Judas sai"
           }
         },
         {
           "id": "g16-c006",
           "title": {
             "en-US": "Lecture 6 — Glorification of the Son of Man",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — A glorificação do Filho do homem"
           }
         },
         {
           "id": "g16-c007",
           "title": {
             "en-US": "Lecture 7 — The new commandment",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — O mandamento novo"
           }
         },
         {
           "id": "g16-c008",
           "title": {
             "en-US": "Lecture 8 — Prophecy of Peter’s denial",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — A profecia da negação de Pedro"
           }
         }
       ]
@@ -858,63 +975,72 @@
       "id": "g17",
       "title": {
         "en-US": "Chapter 17 — The Last Supper Discourse Continued",
-        "la": "Caput 17"
+        "la": "Caput 17",
+        "pt-BR": "Capítulo 17 — Continuação do discurso da Última Ceia"
       },
       "children": [
         {
           "id": "g17-c001",
           "title": {
             "en-US": "Lecture 1 — The Father’s mansions",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — As moradas do Pai"
           }
         },
         {
           "id": "g17-c002",
           "title": {
             "en-US": "Lecture 2 — The way, the truth, and the life",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — O caminho, a verdade e a vida"
           }
         },
         {
           "id": "g17-c003",
           "title": {
             "en-US": "Lecture 3 — Unity of the Father and the Son",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A unidade do Pai e do Filho"
           }
         },
         {
           "id": "g17-c004",
           "title": {
             "en-US": "Lecture 4 — The Spirit of truth",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — O Espírito da verdade"
           }
         },
         {
           "id": "g17-c005",
           "title": {
             "en-US": "Lecture 5 — Promise of the second coming",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A promessa da segunda vinda"
           }
         },
         {
           "id": "g17-c006",
           "title": {
             "en-US": "Lecture 6 — Promise of the indwelling Trinity",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — A promessa da habitação da Trindade"
           }
         },
         {
           "id": "g17-c007",
           "title": {
             "en-US": "Lecture 7 — Christ’s peace",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — A paz de Cristo"
           }
         },
         {
           "id": "g17-c008",
           "title": {
             "en-US": "Lecture 8 — Christ goes to the Father",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Cristo vai para o Pai"
           }
         }
       ]
@@ -923,42 +1049,48 @@
       "id": "g18",
       "title": {
         "en-US": "Chapter 18 — The Last Supper Discourse Continued",
-        "la": "Caput 18"
+        "la": "Caput 18",
+        "pt-BR": "Capítulo 18 — Continuação do discurso da Última Ceia"
       },
       "children": [
         {
           "id": "g18-c001",
           "title": {
             "en-US": "Lecture 1 — The true vine",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A videira verdadeira"
           }
         },
         {
           "id": "g18-c002",
           "title": {
             "en-US": "Lecture 2 — Christ’s commandment",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — O mandamento de Cristo"
           }
         },
         {
           "id": "g18-c003",
           "title": {
             "en-US": "Lecture 3 — Not servants but friends",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Não servos, mas amigos"
           }
         },
         {
           "id": "g18-c004",
           "title": {
             "en-US": "Lecture 4 — The world’s hatred",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — O ódio do mundo"
           }
         },
         {
           "id": "g18-c005",
           "title": {
             "en-US": "Lecture 5 — No excuse for hatred",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — O ódio sem desculpa"
           }
         }
       ]
@@ -967,63 +1099,72 @@
       "id": "g19",
       "title": {
         "en-US": "Chapter 19 — The Last Supper Discourse Continued",
-        "la": "Caput 19"
+        "la": "Caput 19",
+        "pt-BR": "Capítulo 19 — Continuação do discurso da Última Ceia"
       },
       "children": [
         {
           "id": "g19-c001",
           "title": {
             "en-US": "Lecture 1 — Coming persecution",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A perseguição que virá"
           }
         },
         {
           "id": "g19-c002",
           "title": {
             "en-US": "Lecture 2 — Expedience of Christ’s going",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Convém que Cristo se vá"
           }
         },
         {
           "id": "g19-c003",
           "title": {
             "en-US": "Lecture 3 — The Spirit’s judgment",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — O juízo do Espírito"
           }
         },
         {
           "id": "g19-c004",
           "title": {
             "en-US": "Lecture 4 — Christ’s glory",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A glória de Cristo"
           }
         },
         {
           "id": "g19-c005",
           "title": {
             "en-US": "Lecture 5 — A little while",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Um pouco de tempo"
           }
         },
         {
           "id": "g19-c006",
           "title": {
             "en-US": "Lecture 6 — Ask in Christ’s name",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — Pedir em nome de Cristo"
           }
         },
         {
           "id": "g19-c007",
           "title": {
             "en-US": "Lecture 7 — Manifestation of the Father",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — A manifestação do Pai"
           }
         },
         {
           "id": "g19-c008",
           "title": {
             "en-US": "Lecture 8 — Prophecy of the apostles’ scattering",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — A profecia da dispersão dos apóstolos"
           }
         }
       ]
@@ -1032,49 +1173,56 @@
       "id": "g20",
       "title": {
         "en-US": "Chapter 20 — The Prayer of Christ",
-        "la": "Caput 20"
+        "la": "Caput 20",
+        "pt-BR": "Capítulo 20 — A oração de Cristo"
       },
       "children": [
         {
           "id": "g20-c001",
           "title": {
             "en-US": "Lecture 1 — Christ’s prayer to the Father",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A oração de Cristo ao Pai"
           }
         },
         {
           "id": "g20-c002",
           "title": {
             "en-US": "Lecture 2 — Prayer for the apostles",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A oração pelos apóstolos"
           }
         },
         {
           "id": "g20-c003",
           "title": {
             "en-US": "Lecture 3 — Petitions for the apostles",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Os pedidos pelos apóstolos"
           }
         },
         {
           "id": "g20-c004",
           "title": {
             "en-US": "Lecture 4 — Prayer for sanctification",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A oração pela santificação"
           }
         },
         {
           "id": "g20-c005",
           "title": {
             "en-US": "Lecture 5 — Prayer for all the faithful",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A oração por todos os fiéis"
           }
         },
         {
           "id": "g20-c006",
           "title": {
             "en-US": "Lecture 6 — Prayer for the vision of glory",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — A oração pela visão da glória"
           }
         }
       ]
@@ -1083,49 +1231,56 @@
       "id": "g21",
       "title": {
         "en-US": "Chapter 21 — Betrayal and Trial of Christ",
-        "la": "Caput 21"
+        "la": "Caput 21",
+        "pt-BR": "Capítulo 21 — A traição e o julgamento de Cristo"
       },
       "children": [
         {
           "id": "g21-c001",
           "title": {
             "en-US": "Lecture 1 — Betrayal of Jesus",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A traição de Jesus"
           }
         },
         {
           "id": "g21-c002",
           "title": {
             "en-US": "Lecture 2 — Malchus",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Malco"
           }
         },
         {
           "id": "g21-c003",
           "title": {
             "en-US": "Lecture 3 — Christ before Annas",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Cristo diante de Anás"
           }
         },
         {
           "id": "g21-c004",
           "title": {
             "en-US": "Lecture 4 — Peter denies Christ",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Pedro nega Cristo"
           }
         },
         {
           "id": "g21-c005",
           "title": {
             "en-US": "Lecture 5 — Christ before Pilate",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Cristo diante de Pilatos"
           }
         },
         {
           "id": "g21-c006",
           "title": {
             "en-US": "Lecture 6 — Pilate questions Christ",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — Pilatos interroga Cristo"
           }
         }
       ]
@@ -1134,49 +1289,56 @@
       "id": "g22",
       "title": {
         "en-US": "Chapter 22 — The Crucifixion",
-        "la": "Caput 22"
+        "la": "Caput 22",
+        "pt-BR": "Capítulo 22 — A crucifixão"
       },
       "children": [
         {
           "id": "g22-c001",
           "title": {
             "en-US": "Lecture 1 — The scourging and crowning",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A flagelação e a coroação de espinhos"
           }
         },
         {
           "id": "g22-c002",
           "title": {
             "en-US": "Lecture 2 — Jews call for crucifixion",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Os judeus pedem a crucifixão"
           }
         },
         {
           "id": "g22-c003",
           "title": {
             "en-US": "Lecture 3 — Christ is condemned to death",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Cristo é condenado à morte"
           }
         },
         {
           "id": "g22-c004",
           "title": {
             "en-US": "Lecture 4 — Christ on the cross",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Cristo na cruz"
           }
         },
         {
           "id": "g22-c005",
           "title": {
             "en-US": "Lecture 5 — Christ dies",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Cristo morre"
           }
         },
         {
           "id": "g22-c006",
           "title": {
             "en-US": "Lecture 6 — The burial of Christ",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — A sepultura de Cristo"
           }
         }
       ]
@@ -1185,49 +1347,56 @@
       "id": "g23",
       "title": {
         "en-US": "Chapter 23 — The Resurrection",
-        "la": "Caput 23"
+        "la": "Caput 23",
+        "pt-BR": "Capítulo 23 — A ressurreição"
       },
       "children": [
         {
           "id": "g23-c001",
           "title": {
             "en-US": "Lecture 1 — Discovery of the resurrection",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A descoberta da ressurreição"
           }
         },
         {
           "id": "g23-c002",
           "title": {
             "en-US": "Lecture 2 — Angels appear to Mary Magdalene",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Os anjos aparecem a Maria Madalena"
           }
         },
         {
           "id": "g23-c003",
           "title": {
             "en-US": "Lecture 3 — Christ appears to Mary Magdalene",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Cristo aparece a Maria Madalena"
           }
         },
         {
           "id": "g23-c004",
           "title": {
             "en-US": "Lecture 4 — Christ appears to the apostles",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Cristo aparece aos apóstolos"
           }
         },
         {
           "id": "g23-c005",
           "title": {
             "en-US": "Lecture 5 — Thomas’s doubt",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A dúvida de Tomé"
           }
         },
         {
           "id": "g23-c006",
           "title": {
             "en-US": "Lecture 6 — Christ appears to Thomas",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — Cristo aparece a Tomé"
           }
         }
       ]
@@ -1236,55 +1405,64 @@
       "id": "g24",
       "title": {
         "en-US": "Chapter 24 — Manifestation of the Resurrection",
-        "la": "Caput 24"
+        "la": "Caput 24",
+        "pt-BR": "Capítulo 24 — A manifestação da ressurreição"
       },
       "children": [
         {
           "id": "g24-c001",
           "title": {
             "en-US": "Lecture 1 — The Sea of Tiberias",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — O mar de Tiberíades"
           }
         },
         {
           "id": "g24-c002",
           "title": {
             "en-US": "Lecture 2 — Christ eats with the apostles",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Cristo come com os apóstolos"
           }
         },
         {
           "id": "g24-c003",
           "title": {
             "en-US": "Lecture 3 — Christ’s injunction to Peter",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A ordem de Cristo a Pedro"
           }
         },
         {
           "id": "g24-c004",
           "title": {
             "en-US": "Lecture 4 — Prophecy of Peter’s death",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A profecia da morte de Pedro"
           }
         },
         {
           "id": "g24-c005",
           "title": {
             "en-US": "Lecture 5 — Prophecy about John",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A profecia sobre João"
           }
         },
         {
           "id": "g24-c006",
           "title": {
             "en-US": "Lecture 6 — Epilogue",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — Epílogo"
           }
         }
       ]
     }
   ],
-  "commentsOn": ["john"],
+  "commentsOn": [
+    "john"
+  ],
   "arrived": {
     "en-US": "2026-06-04",
     "la": "2026-06-04"
