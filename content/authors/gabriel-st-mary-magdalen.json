@@ -6,5 +6,22 @@
   "century": 20,
   "matches": [
     "Fr. Gabriel of St. Mary Magdalen, O.C.D."
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "gabriel-stmm-intimita-divina",
+          "why": {
+            "en-US": "Meditations on the interior life for every day of the year",
+            "pt-BR": "Meditações sobre a vida interior para cada dia do ano"
+          }
+        }
+      ]
+    }
   ]
 }
