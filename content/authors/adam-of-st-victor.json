@@ -8,5 +8,22 @@
     "Adam of St. Victor",
     "Adam of Saint Victor",
     "Adamus de Sancto Victore"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Sequences",
+        "pt-BR": "Sequências"
+      },
+      "works": [
+        {
+          "work": "adam/sequentiae",
+          "why": {
+            "en-US": "Liturgical poems for the feasts of the year, with Wrangham's English",
+            "pt-BR": "Poemas litúrgicos para as festas do ano, com a versão inglesa de Wrangham"
+          }
+        }
+      ]
+    }
   ]
 }
