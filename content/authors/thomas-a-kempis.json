@@ -6,5 +6,243 @@
   "century": 15,
   "matches": [
     "Thomas à Kempis"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "The classic, then his cycle of prayers on the life of Christ.",
+        "pt-BR": "O clássico e depois seu ciclo de orações sobre a vida de Cristo."
+      },
+      "works": [
+        {
+          "work": "thomas-a-kempis/de-imitatione-christi",
+          "why": {
+            "en-US": "The Imitation, after the Bible the most read ascetical book",
+            "pt-BR": "A Imitação, depois da Bíblia o livro ascético mais lido"
+          }
+        },
+        {
+          "work": "thomas-a-kempis/orationes-et-meditationes-de-vita-christi",
+          "why": {
+            "en-US": "Thanksgivings and meditations on the whole life of Christ",
+            "pt-BR": "Ações de graças e meditações sobre toda a vida de Cristo"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Prayers and hymns",
+        "pt-BR": "Orações e hinos"
+      },
+      "works": [
+        {
+          "work": "thomas-a-kempis/orationes-de-passione",
+          "why": {
+            "en-US": "Sixteen prayers on the Passion, Our Lady and the saints",
+            "pt-BR": "Dezesseis orações sobre a Paixão, Nossa Senhora e os santos"
+          }
+        },
+        {
+          "work": "thomas-a-kempis/meditatio-de-incarnatione",
+          "why": {
+            "en-US": "A meditation on the Incarnation from Scripture",
+            "pt-BR": "Meditação sobre a Encarnação a partir das Escrituras"
+          }
+        },
+        {
+          "work": "thomas-a-kempis/cantica",
+          "why": {
+            "en-US": "Hymns, sequences and antiphons on Jesus, Mary and the saints",
+            "pt-BR": "Hinos, sequências e antífonas sobre Jesus, Maria e os santos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Sermons",
+        "pt-BR": "Sermões"
+      },
+      "note": {
+        "en-US": "Conferences to his novices and sermons on the Lord's life.",
+        "pt-BR": "Conferências aos noviços e sermões sobre a vida do Senhor."
+      },
+      "works": [
+        {
+          "work": "thomas-a-kempis/sermones-ad-novicios",
+          "why": {
+            "en-US": "Thirty conferences to novices at Mount St. Agnes",
+            "pt-BR": "Trinta conferências aos noviços do Monte Santa Inês"
+          }
+        },
+        {
+          "work": "thomas-a-kempis/sermones-de-vita-et-passione",
+          "why": {
+            "en-US": "Thirty-five sermons from Advent to Pentecost",
+            "pt-BR": "Trinta e cinco sermões do Advento a Pentecostes"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Short guides to the spiritual life",
+        "pt-BR": "Pequenos guias da vida espiritual"
+      },
+      "note": {
+        "en-US": "Short books for beginners and for the religious.",
+        "pt-BR": "Livrinhos para iniciantes e para religiosos."
+      },
+      "works": [
+        {
+          "work": "thomas-a-kempis/manuale-parvulorum",
+          "why": {
+            "en-US": "Fifteen chapters for beginners",
+            "pt-BR": "Quinze capítulos para iniciantes"
+          }
+        },
+        {
+          "work": "thomas-a-kempis/libellus-spiritualis-exercitii",
+          "why": {
+            "en-US": "The daily spiritual exercise of the religious",
+            "pt-BR": "O exercício espiritual diário do religioso"
+          }
+        },
+        {
+          "work": "thomas-a-kempis/de-recognitione-propriae-fragilitatis",
+          "why": {
+            "en-US": "On knowing one's weakness and trusting God's mercy",
+            "pt-BR": "Conhecer a própria fraqueza e confiar na misericórdia"
+          }
+        },
+        {
+          "work": "thomas-a-kempis/hortulus-rosarum",
+          "why": {
+            "en-US": "The first garden book, in eighteen short chapters",
+            "pt-BR": "O primeiro livro do jardim, em dezoito capítulos curtos"
+          }
+        },
+        {
+          "work": "thomas-a-kempis/vallis-liliorum",
+          "why": {
+            "en-US": "The second garden book, on the virtues of the lily",
+            "pt-BR": "O segundo livro do jardim, sobre as virtudes do lírio"
+          }
+        },
+        {
+          "work": "thomas-a-kempis/alphabetum-monachi",
+          "why": {
+            "en-US": "A dialogue of master and disciple, in alphabetical rules",
+            "pt-BR": "Diálogo de mestre e discípulo, em regras alfabéticas"
+          }
+        },
+        {
+          "work": "thomas-a-kempis/epitaphium-monachorum",
+          "why": {
+            "en-US": "The narrow way to the kingdom",
+            "pt-BR": "O caminho estreito para o reino"
+          }
+        },
+        {
+          "work": "thomas-a-kempis/vita-boni-monachi",
+          "why": {
+            "en-US": "A booklet for the good monk",
+            "pt-BR": "Um livrinho para o bom monge"
+          }
+        },
+        {
+          "work": "thomas-a-kempis/doctrinale-iuvenum",
+          "why": {
+            "en-US": "Counsel for young religious",
+            "pt-BR": "Conselhos para jovens religiosos"
+          }
+        },
+        {
+          "work": "thomas-a-kempis/tractatuli-minores",
+          "why": {
+            "en-US": "Six short treatises",
+            "pt-BR": "Seis tratados breves"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Monastic life",
+        "pt-BR": "Vida monástica"
+      },
+      "works": [
+        {
+          "work": "thomas-a-kempis/de-disciplina-claustralium",
+          "why": {
+            "en-US": "Sixteen chapters on the discipline of the cloister",
+            "pt-BR": "Dezesseis capítulos sobre a disciplina do claustro"
+          }
+        },
+        {
+          "work": "thomas-a-kempis/de-solitudine-et-silentio",
+          "why": {
+            "en-US": "A long letter in praise of solitude and silence",
+            "pt-BR": "Longa carta em louvor da solidão e do silêncio"
+          }
+        },
+        {
+          "work": "thomas-a-kempis/epistulae",
+          "why": {
+            "en-US": "Five spiritual letters",
+            "pt-BR": "Cinco cartas espirituais"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "For the poor and the sick",
+        "pt-BR": "Para os pobres e os doentes"
+      },
+      "works": [
+        {
+          "work": "thomas-a-kempis/consolatio-pauperum",
+          "why": {
+            "en-US": "Eight short addresses of comfort",
+            "pt-BR": "Oito breves discursos de consolo"
+          }
+        },
+        {
+          "work": "thomas-a-kempis/hospitale-pauperum",
+          "why": {
+            "en-US": "A treatise on poverty of spirit and patience",
+            "pt-BR": "Tratado sobre a pobreza de espírito e a paciência"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Lives and chronicle",
+        "pt-BR": "Vidas e crônica"
+      },
+      "works": [
+        {
+          "work": "thomas-a-kempis/vita-lidewigis",
+          "why": {
+            "en-US": "The life of the paralysed mystic Lydwine of Schiedam",
+            "pt-BR": "A vida da mística paralítica Lidwina de Schiedam"
+          }
+        },
+        {
+          "work": "thomas-a-kempis/chronica-montis-sanctae-agnetis",
+          "why": {
+            "en-US": "History of his own monastery near Zwolle",
+            "pt-BR": "História do seu mosteiro perto de Zwolle"
+          }
+        }
+      ]
+    }
   ]
 }
