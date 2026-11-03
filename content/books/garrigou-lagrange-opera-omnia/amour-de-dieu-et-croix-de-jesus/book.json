@@ -1,0 +1,366 @@
+{
+  "id": "garrigou-amour-de-dieu-croix-de-jesus",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "L’Amour de Dieu et la Croix de Jésus",
+    "en-US": "The Love of God and the Cross of Jesus",
+    "pt-BR": "O amor de Deus e a Cruz de Jesus"
+  },
+  "author": {
+    "fr-FR": "Réginald Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "description": {
+    "fr-FR": "Étude de la vie spirituelle à la lumière de saint Thomas et de saint Jean de la Croix : l’amour de Dieu pour nous, la mortification, les lois du progrès de la charité, les purifications passives des sens et de l’esprit, la vie d’union par Jésus et Marie. Six parties en deux tomes (Cerf, Juvisy, 1929).",
+    "en-US": "A study of the spiritual life in the light of St. Thomas and St. John of the Cross: God’s love for us, mortification, the laws of the growth of charity, the passive purifications of the senses and of the spirit, and the life of union through Jesus and Mary. Six parts in two volumes (Cerf, 1929); the English follows the same parts and chapters (Herder, 1947 and 1951), with the chapters numbered continuously in each volume.",
+    "pt-BR": "Estudo da vida espiritual à luz de São Tomás e de São João da Cruz: o amor de Deus por nós, a mortificação, as leis do progresso da caridade, as purificações passivas dos sentidos e do espírito, a vida de união por Jesus e Maria. Seis partes em dois tomos (1929)."
+  },
+  "composed": "1929",
+  "work": "garrigou-lagrange/amour-de-dieu-et-croix-de-jesus",
+  "editions": {
+    "fr-FR": {
+      "editor": "Éditions du Cerf, Juvisy (2 vol.)",
+      "year": 1929
+    },
+    "en-US": {
+      "translator": "Sister Jeanne Marie, Maryknoll",
+      "year": 1947
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/lamourdedieuetla0001preg",
+      "edition": "L’Amour de Dieu et la Croix de Jésus, t. I, Cerf, Juvisy, 1929 (GTU scan, OCR text)"
+    },
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/lamourdedieuetla0002preg",
+      "edition": "Id., t. II, 1929"
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/Garrigou-LagrangeEnglish",
+      "edition": "The Love of God and the Cross of Jesus, tr. Sister Jeanne Marie, vol. 1 (1947) and 2 (1951), St. Louis: B. Herder"
+    }
+  ],
+  "languages": [
+    "fr-FR",
+    "en-US"
+  ],
+  "toc": [
+    {
+      "id": "intro",
+      "title": {
+        "fr-FR": "Introduction",
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "ch1",
+      "title": {
+        "fr-FR": "Partie I. L’Amour de Dieu pour nous, la réponse quwil attend et le mystére de la Croix",
+        "en-US": "Part I. God's Love for Us, Our Return of Love, and the Mystery of the Cross"
+      },
+      "children": [
+        {
+          "id": "ch1-a1",
+          "title": {
+            "fr-FR": "Chapitre I. L’Amour de Dieu pour nous et la réponse qu’il attend",
+            "en-US": "Chapter I. God's Love for Us; Our Return of Love"
+          }
+        },
+        {
+          "id": "ch1-a2",
+          "title": {
+            "fr-FR": "Chapitre II. Le Probléme de ’Amour pur",
+            "en-US": "Chapter II. The Problem of Pure Love"
+          }
+        },
+        {
+          "id": "ch1-a3",
+          "title": {
+            "fr-FR": "Chapitre III. L’Amour de Dieu et VHabitation de la Sainte Trinité en nous",
+            "en-US": "Chapter III. Love of God and the Indwelling of the Blessed Trinity"
+          }
+        },
+        {
+          "id": "ch1-a4",
+          "title": {
+            "fr-FR": "Chapitre IV. L’Amour de Dieu et le mystéere de la Croix",
+            "en-US": "Chapter IV. Love of God and the Mystery of the Cross"
+          }
+        },
+        {
+          "id": "ch1-a5",
+          "title": {
+            "fr-FR": "Chapitre V. L’Amour de Dieu et le Corps mystique du Christ",
+            "en-US": "Chapter V. The Love of God and the Mystical Body of Christ"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": {
+        "fr-FR": "Partie II.",
+        "en-US": "Part II. The Love of God and Mortification"
+      },
+      "children": [
+        {
+          "id": "ch2-a1",
+          "title": {
+            "fr-FR": "Chapitre I. La mortification",
+            "en-US": "Chapter I. Mortification or Active Purification"
+          }
+        },
+        {
+          "id": "ch2-a2",
+          "title": {
+            "fr-FR": "Chapitre II. La mortification et les suites du péché originel",
+            "en-US": "Chapter II. Mortification and the Results of Original Sin"
+          }
+        },
+        {
+          "id": "ch2-a3",
+          "title": {
+            "fr-FR": "Chapitre III. La mortification et les suites de nos péchés personnels",
+            "en-US": "Chapter III. Mortification and the Results of Personal Sin"
+          }
+        },
+        {
+          "id": "ch2-a4",
+          "title": {
+            "fr-FR": "Chapitre IV. Deux formes d’examen de conscience",
+            "en-US": "Chapter IV. Two Methods of Examination of Conscience"
+          }
+        },
+        {
+          "id": "ch2-a5",
+          "title": {
+            "fr-FR": "Chapitre V. = La mortification et Pélévation infinie de notre fin surnaturelle",
+            "en-US": "Chapter V. Mortification and our Supernatural End"
+          }
+        },
+        {
+          "id": "ch2-a6",
+          "title": {
+            "fr-FR": "Chapitre VI. L’Imperfection",
+            "en-US": "Chapter VI. Imperfection"
+          }
+        },
+        {
+          "id": "ch2-a7",
+          "title": {
+            "fr-FR": "Chapitre VII. ‘La fleur de la mortification :",
+            "en-US": "Chapter VII. The Flower of Mortification: Consecrated Virginity"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": {
+        "fr-FR": "Partie III. Les Lois du progrés de PAmour de Dieu",
+        "en-US": "Part III. The Laws of Progress in Love of God"
+      },
+      "children": [
+        {
+          "id": "ch3-a1",
+          "title": {
+            "fr-FR": "Chapitre I. L’augmentation de la charité et les actes méritoires",
+            "en-US": "Chapter I. St. Thomas'Doctrine on the Increase of Charity and Meritorious Acts"
+          }
+        },
+        {
+          "id": "ch3-a2",
+          "title": {
+            "fr-FR": "Chapitre II. La diminution de la ferveur de la charité par le péché véniel",
+            "en-US": "Chapter II. Charity and Venial Sin"
+          }
+        },
+        {
+          "id": "ch3-a3",
+          "title": {
+            "fr-FR": "Chapitre III. {",
+            "en-US": "Chapter III. Normal Spiritual Progress and Daily Communion"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": {
+        "fr-FR": "Partie IV. Les Croix de la sensibilité",
+        "en-US": "Part IV. Crosses of the"
+      },
+      "children": [
+        {
+          "id": "ch4-intro",
+          "title": {
+            "fr-FR": "Introduction"
+          }
+        },
+        {
+          "id": "ch4-a1",
+          "title": {
+            "fr-FR": "Chapitre I. La Purification passive des sens",
+            "en-US": "Chapter I. The Passive Purification of the Senses"
+          }
+        },
+        {
+          "id": "ch4-a2",
+          "title": {
+            "fr-FR": "Chapitre II. Conduite a tenir dans la nuit des sens",
+            "en-US": "Chapter II. What Is to be Done During the Night of the Senses"
+          }
+        },
+        {
+          "id": "ch4-a3",
+          "title": {
+            "fr-FR": "Chapitre III. Les Effets de la purification passive des sens",
+            "en-US": "Chapter III. Effects of the Passive Purification of the Senses"
+          }
+        },
+        {
+          "id": "ch4-a4",
+          "title": {
+            "fr-FR": "Chapitre IV. Les épreuves qui accompagnent ordinairement la nuit des sens",
+            "en-US": "Chapter IV. Trials Ordinarily Accompanying the Night of the Senses"
+          }
+        },
+        {
+          "id": "ch4-a5",
+          "title": {
+            "fr-FR": "Chapitre V. L’union a Dieu qui suit d’ordinaire la nuit des sens",
+            "en-US": "Chapter V. The Union with God Ordinarily following the Night of the Senses"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": {
+        "fr-FR": "Partie V. Les croix de lesprit les graces purificatrices | de la nuit de l’esprit",
+        "en-US": "Part V. Crosses of the Soul"
+      },
+      "children": [
+        {
+          "id": "ch5-a1",
+          "title": {
+            "fr-FR": "Chapitre I. La purification passive de lesprit décrite par saint Jean de la Croix",
+            "en-US": "Chapter I. The Passive Purification of the Soul as Described by St. John of the Cross"
+          }
+        },
+        {
+          "id": "ch5-a2",
+          "title": {
+            "fr-FR": "Chapitre II. La Purification passive de la foi",
+            "en-US": "Chapter II. The Passive Purification of Faith"
+          }
+        },
+        {
+          "id": "ch5-a3",
+          "title": {
+            "fr-FR": "Chapitre III. La purification passive de lespérance",
+            "en-US": "Chapter III. The Passive Purification of Hope"
+          }
+        },
+        {
+          "id": "ch5-a4",
+          "title": {
+            "fr-FR": "Chapitre IV. La purification passive de la charité",
+            "en-US": "Chapter IV. The Passive Purification of Charity"
+          }
+        },
+        {
+          "id": "ch5-a5",
+          "title": {
+            "fr-FR": "Chapitre V. Les signes vraiment caractéristiques de la purification passive de Vesprit",
+            "en-US": "Chapter V. Characteristic Signs of the Passive Purification of the Soul"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": {
+        "fr-FR": "Partie VI. La Vie d’union Pi par Jésus et Marie _",
+        "en-US": "Part VI. The Life of Union through Jesus and Mary"
+      },
+      "children": [
+        {
+          "id": "ch6-a1",
+          "title": {
+            "fr-FR": "Chapitre I. L’Habitation de la sainte Trinité dans Pame purifiée | et Punion transformante qui en résulte",
+            "en-US": "Chapter I. The Abiding of the Blessed Trinity in Purified Souls and Transforming Union"
+          }
+        },
+        {
+          "id": "ch6-a2",
+          "title": {
+            "fr-FR": "Chapitre II. La vie unitive est-elle normalement d’ordre mystique ?",
+            "en-US": "Chapter II. The Place of the Unittve Life and the Mystical Order"
+          }
+        },
+        {
+          "id": "ch6-a3",
+          "title": {
+            "fr-FR": "Chapitre III. Unité et élévation de la vie apostolique, /ynthése de la contemplation et de Paction",
+            "en-US": "Chapter III. The Unity and Sublimity of the Apostolic Life: A Synthesis of Contemplation and Action"
+          }
+        },
+        {
+          "id": "ch6-a4",
+          "title": {
+            "fr-FR": "Chapitre IV. Le Sacerdoce du Christ et la vie d’union",
+            "en-US": "Chapter IV. The Priesthood of Christ and the Life of Union"
+          }
+        },
+        {
+          "id": "ch6-a5",
+          "title": {
+            "fr-FR": "Chapitre V. La Royauté du Christ sur les intelligences, les volontés et les coeurs",
+            "en-US": "Chapter V. The Kingship of Christ"
+          }
+        },
+        {
+          "id": "ch6-a6",
+          "title": {
+            "fr-FR": "Chapitre VI. La liberté iimpeccable du Christ exemplaire éminent de la notre",
+            "en-US": "Chapter VI. Exemplar for Our Free Will: Christ's Impeccable Liberty"
+          }
+        },
+        {
+          "id": "ch6-a7",
+          "title": {
+            "fr-FR": "Chapitre VII. Marie mecdéle de vie réparatrice",
+            "en-US": "Chapter VII. Mary, Model of the Life of Reparation"
+          }
+        },
+        {
+          "id": "ch6-a8",
+          "title": {
+            "fr-FR": "Chapitre VIII. Saint Joseph modéle de vie cachée, sa prééminence sur tout autre saint",
+            "en-US": "Chapter VIII. St. Joseph: Model of the Hidden Life and First among the Saints"
+          }
+        },
+        {
+          "id": "ch6-a9",
+          "title": {
+            "fr-FR": "Chapitre IX. L’Ame du saint sacrifice de la Messe",
+            "en-US": "Chapter IX. The Soul of the Sacrifice of the Mass"
+          }
+        }
+      ]
+    },
+    {
+      "id": "epilogue",
+      "title": {
+        "fr-FR": "Épilogue : le chemin étroit de la perfection et le plein développement des voies illuminative et unitive",
+        "en-US": "Epilogue: The Narrow Path of Perfection and the Full Development of the Illuminative and Unitive Ways"
+      }
+    }
+  ]
+}

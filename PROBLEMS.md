@@ -459,3 +459,8 @@ Text is the JesusMarie.com digital edition of Coste (tomes I-XIII and the 1970 "
 
 - Built by `research/sourcing/_scripts/mc_lib.py` and the `mc_*.py` scripts from Internet Archive OCR (page-bottom reference notes become one footnote per page, placed at the end of the page; the OCR garbles their call numbers, so the notes are not tied to the exact word).
 - *Christ in His Mysteries*: the OCR lost many of the roman section numerals inside the conferences, so some sections have no `## I` heading (the text is complete; the break is there as a paragraph break only). Stray OCR slips remain in the Latin quotations and scripture references. The French is the 8th edition (1922); the 19th edition (Maredsous 1923) was not diffed.
+
+### Garrigou-Lagrange and Tanquerey (opera omnia)
+
+- *Perfection chrétienne et contemplation*: the Herder English (Doyle 1937) lacks the French chapter VI (L'Accord des maîtres...) and the appendices, and the scan's OCR carries few of its footnotes. The two scans of the 1923 French have stray OCR in footnotes (digits for letters, "4o3").
+- *L'Amour de Dieu et la Croix de Jésus*: the French OCR (archive.org lamourdedieuetla000*preg) is rough: è/é and à/a confusions, glued words, occasional garbled lines. Needs a second pass against the printed edition. English footnotes are mostly missing from the OCR.

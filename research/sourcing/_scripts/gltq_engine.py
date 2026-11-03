@@ -25,6 +25,11 @@ def sentence(t):
     return t[:1].upper() + t[1:]
 
 
+def junk(p):
+    q = re.sub(r'\[\^\d+\]', '', p).strip()
+    return len(q) < 80 and not q.startswith('#') and sum(c.isalpha() for c in q) < 0.6 * max(1, len(q))
+
+
 def norm(l):
     return re.sub(r'\s+', ' ', l.replace('\x0c', '')).strip()
 
@@ -89,7 +94,7 @@ def parse(lines, prx, urx, heads, fnstyle='num', fix=lambda s: s, pre=None, word
             sg['parent'] = (sg['parent'][0], tfix(sg['parent'][1]))
     for sg in segs:
         paras, notes = oc.clean(sg['body'], heads, fnstyle, stop=stop)
-        paras = [fix(x) for x in paras]
+        paras = [fix(x) for x in paras if not junk(x)]
         notes = {k: fix(v) for k, v in notes.items()}
         wc = sum(len(x.split()) for x in paras)
         if sg['kind'] == 'p' and wc < minintro:
@@ -160,7 +165,7 @@ def chunk(lines, id, title, heads, fnstyle='num', fix=lambda s: s, pre=None, sto
     if pre:
         lines = [pre(l) for l in lines]
     paras, notes = oc.clean(lines, heads, fnstyle, stop=stop)
-    paras = [fix(x) for x in paras]
+    paras = [fix(x) for x in paras if not junk(x)]
     notes = {k: fix(v) for k, v in notes.items()}
     return dict(kind=kind, id=id, title=title, parent=parent, paras=paras, notes=notes, wc=sum(len(x.split()) for x in paras))
 
@@ -248,6 +253,10 @@ def finish(slug, meta, langs, srcs=()):
     for lg, nodes in langs.items():
         d = f'{root}/{lg}'
         os.makedirs(d, exist_ok=True)
+        keep = {n['id'] + '.md' for n in nodes}
+        for f in os.listdir(d):
+            if f.endswith('.md') and f not in keep:
+                os.remove(f'{d}/{f}')
         for n in nodes:
             txt = oc.render(n['title'], n['paras'], n['notes'])
             open(f"{d}/{n['id']}.md", 'w').write(txt)
