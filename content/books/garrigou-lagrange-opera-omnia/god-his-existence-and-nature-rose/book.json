@@ -1,0 +1,176 @@
+{
+  "id": "garrigou-god-his-existence-and-nature-rose",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Dieu, son existence et sa nature (traduction anglaise)",
+    "en-US": "God: His Existence and His Nature",
+    "pt-BR": "Deus, sua existência e sua natureza (tradução inglesa)"
+  },
+  "description": {
+    "en-US": "Thomistic natural theology in two volumes: the existence of God and His nature and attributes, with the antinomies of agnosticism. Dom Bede Rose’s translation of the fifth French edition (Herder, 1934-36), with the author’s prefaces and appendices.",
+    "pt-BR": "Teodiceia tomista em dois volumes: a existência de Deus e sua natureza e atributos. Tradução de Dom Bede Rose da quinta edição francesa (Herder, 1934-36)."
+  },
+  "composed": "1914",
+  "work": "garrigou-lagrange/dieu-son-existence-et-sa-nature",
+  "editions": {
+    "en-US": {
+      "translator": "Dom Bede Rose, O.S.B.",
+      "year": 1934
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/Lagrange-English",
+      "edition": "God: His Existence and His Nature, tr. Dom Bede Rose, 2 vols, St. Louis: B. Herder, 1934-36 (from the 5th French edition); the index is not imported"
+    }
+  ],
+  "author": {
+    "fr-FR": "Réginald Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "toc": [
+    {
+      "id": "prefaces",
+      "title": {
+        "en-US": "Prefaces to the first, third and fifth editions"
+      }
+    },
+    {
+      "id": "ch1-intro",
+      "title": {
+        "en-US": "Chapter I. Wuat the cathotic cuurcu tracues asout gon’s existence and his nature, and the knowlepcee wuich we can have of him sy means of the natural licut or reason"
+      }
+    },
+    {
+      "id": "ch2",
+      "title": {
+        "en-US": "Chapter II. Tue possipitiry of proving the existence or gop"
+      },
+      "children": [
+        {
+          "id": "ch2-intro",
+          "title": {
+            "en-US": "Introduction"
+          }
+        },
+        {
+          "id": "ch2-a1",
+          "title": {
+            "en-US": "Article I. The ontological validity of first ideas and first principles"
+          }
+        },
+        {
+          "id": "ch2-a2",
+          "title": {
+            "en-US": "Article II. The transcendental validity of first ideas and first principles"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch3-intro",
+      "title": {
+        "en-US": "Chapter III. Expose of the proofs for the existence of god"
+      }
+    },
+    {
+      "id": "appendix-1",
+      "title": {
+        "en-US": "Appendix to Part I: The Thomistic Proofs for the Existence of God in Relation to the Notion of Proper Cause"
+      }
+    },
+    {
+      "id": "ch4-intro",
+      "title": {
+        "en-US": "Chapter IV. Wuat Formatiy Consitirutes THE Divine Nature Accorpine TO Our Imperrect Mope or Knowine It"
+      }
+    },
+    {
+      "id": "ch5",
+      "title": {
+        "en-US": "Chapter V. Tue derivation of the atiributes from self-subsisting beinc"
+      },
+      "children": [
+        {
+          "id": "ch5-intro",
+          "title": {
+            "en-US": "Introduction"
+          }
+        },
+        {
+          "id": "ch5-a1",
+          "title": {
+            "en-US": "Article I. Attributes relative to the being of god"
+          }
+        },
+        {
+          "id": "ch5-a2",
+          "title": {
+            "en-US": "Article II. Attributes relative to the divine operations"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": {
+        "en-US": "Chapter VI. Reconciliation of the divine attributes: their formal existence and their identification in the eminence of the deity"
+      },
+      "children": [
+        {
+          "id": "ch6-a1",
+          "title": {
+            "en-US": "Article I. The apparent antinomies"
+          }
+        },
+        {
+          "id": "ch6-a2",
+          "title": {
+            "en-US": "Article II. Explanation regarding the philosophical mystery in the identification of the absolute perfections of god"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch7-intro",
+      "title": {
+        "en-US": "Chapter VII. Tue special antrnomigs relating to freedom"
+      }
+    },
+    {
+      "id": "ch8-intro",
+      "title": {
+        "en-US": "Chapter VIII. Gop’s ineffability and the absurdity of the unknowable. conclusion and confirmation"
+      }
+    },
+    {
+      "id": "appendix-2",
+      "title": {
+        "en-US": "Appendix I to Part II"
+      }
+    },
+    {
+      "id": "appendix-3",
+      "title": {
+        "en-US": "Appendix II to Part II"
+      }
+    },
+    {
+      "id": "appendix-4",
+      "title": {
+        "en-US": "Appendix III to Part II"
+      }
+    },
+    {
+      "id": "appendix-5",
+      "title": {
+        "en-US": "Appendix IV to Part II"
+      }
+    }
+  ]
+}
