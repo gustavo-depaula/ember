@@ -9,5 +9,95 @@
     "St. Ignatius of Loyola",
     "Ignatius of Loyola, Saint",
     "Ignatius of Loyola, Saint, 1491-1556"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "ignatius-of-loyola/ejercicios",
+          "why": {
+            "en-US": "The Spiritual Exercises",
+            "pt-BR": "Os Exercícios Espirituais"
+          }
+        },
+        {
+          "work": "ignatius-of-loyola/autobiografia",
+          "why": {
+            "en-US": "His life as he dictated it, 1553-1555",
+            "pt-BR": "Sua vida como a ditou, 1553-1555"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "For giving the Exercises",
+        "pt-BR": "Para dar os Exercícios"
+      },
+      "works": [
+        {
+          "work": "ignatius-of-loyola/directorios",
+          "why": {
+            "en-US": "His directories for giving the Exercises",
+            "pt-BR": "Seus diretórios para dar os Exercícios"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Letters and journal",
+        "pt-BR": "Cartas e diário"
+      },
+      "works": [
+        {
+          "work": "ignatius-of-loyola/cartas",
+          "why": {
+            "en-US": "Twenty-four letters and instructions, 1524-1547",
+            "pt-BR": "Vinte e quatro cartas e instruções, 1524-1547"
+          }
+        },
+        {
+          "work": "ignatius-of-loyola/diario-espiritual",
+          "why": {
+            "en-US": "The journal he kept in Rome, 1544-1545",
+            "pt-BR": "O diário que manteve em Roma, 1544-1545"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The Society of Jesus",
+        "pt-BR": "A Companhia de Jesus"
+      },
+      "works": [
+        {
+          "work": "ignatius-of-loyola/constituciones",
+          "why": {
+            "en-US": "Constitutions of the Society of Jesus",
+            "pt-BR": "Constituições da Companhia de Jesus"
+          }
+        },
+        {
+          "work": "ignatius-of-loyola/constituciones-latinas",
+          "why": {
+            "en-US": "The Latin text of 1558, with the English of 1838",
+            "pt-BR": "O texto latino de 1558, com o inglês de 1838"
+          }
+        },
+        {
+          "work": "ignatius-of-loyola/documentos",
+          "why": {
+            "en-US": "Founding documents of the Society, 1539-1550",
+            "pt-BR": "Documentos de fundação da Companhia, 1539-1550"
+          }
+        }
+      ]
+    }
   ]
 }
