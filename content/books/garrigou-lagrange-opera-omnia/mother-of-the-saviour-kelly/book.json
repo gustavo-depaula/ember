@@ -1,0 +1,120 @@
+{
+  "id": "garrigou-mother-of-the-saviour",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "La Mère du Sauveur et notre vie intérieure (traduction anglaise)",
+    "en-US": "The Mother of the Saviour and Our Interior Life",
+    "pt-BR": "A Mãe do Salvador e a nossa vida interior (tradução inglesa)"
+  },
+  "author": {
+    "fr-FR": "Réginald Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "description": {
+    "en-US": "Mariology in the service of the interior life: Mary’s predestination and divine maternity, her fullness of grace, her mediation and her motherhood of souls, and her part in the soul’s progress to union. Bernard J. Kelly’s translation of La Mère du Sauveur et notre vie intérieure (1941), Golden Eagle Books, Dublin 1948.",
+    "pt-BR": "A mariologia a serviço da vida interior: a predestinação de Maria e sua maternidade divina, a plenitude de graça, a mediação e a maternidade espiritual, e seu papel no progresso da alma até a união. Tradução inglesa de Bernard J. Kelly (Dublin, 1948) de La Mère du Sauveur et notre vie intérieure (1941)."
+  },
+  "composed": "1941",
+  "work": "garrigou-lagrange/mere-du-sauveur",
+  "editions": {
+    "en-US": {
+      "translator": "Bernard J. Kelly, C.S.Sp.",
+      "year": 1948
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/Lagrange-English",
+      "edition": "The Mother of the Saviour and Our Interior Life, tr. Bernard J. Kelly, C.S.Sp., Dublin: Golden Eagle Books, 1948 (archive.org Lagrange-English); the French original is not open"
+    }
+  ],
+  "languages": [
+    "en-US"
+  ],
+  "toc": [
+    {
+      "id": "ch1",
+      "title": {
+        "en-US": "Part I. The Divine Maternity and the Plenitude of Grace"
+      },
+      "children": [
+        {
+          "id": "ch1-a1",
+          "title": {
+            "en-US": "Chapter I. The Divine Maternity: its eminent dignity"
+          }
+        },
+        {
+          "id": "ch1-a2",
+          "title": {
+            "en-US": "Chapter II. Mary’s First Plenitude of Grace"
+          }
+        },
+        {
+          "id": "ch1-a3",
+          "title": {
+            "en-US": "Chapter III. Mary’s Plenitude of Grace at and after the Incarnation"
+          }
+        },
+        {
+          "id": "ch1-a4",
+          "title": {
+            "en-US": "Chapter IV. The Final Plenitude of Mary’s Grace"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": {
+        "en-US": "Part II. Mary, Mother of all men"
+      },
+      "children": [
+        {
+          "id": "ch2-intro",
+          "title": {
+            "en-US": "Introduction"
+          }
+        },
+        {
+          "id": "ch2-a5",
+          "title": {
+            "en-US": "Chapter V. The Mother of the Redeemer and of all men"
+          }
+        },
+        {
+          "id": "ch2-a6",
+          "title": {
+            "en-US": "Chapter VI. Mary’s Universal Mediation during her Earthly Existence"
+          }
+        },
+        {
+          "id": "ch2-a7",
+          "title": {
+            "en-US": "Chapter VII. Mary’s Universal Mediation in Heaven"
+          }
+        },
+        {
+          "id": "ch2-a8",
+          "title": {
+            "en-US": "Chapter VIII. Mother of Mercy"
+          }
+        },
+        {
+          "id": "ch2-a9",
+          "title": {
+            "en-US": "Chapter IX. True Devotion to Our Lady"
+          }
+        },
+        {
+          "id": "ch2-a10",
+          "title": {
+            "en-US": "Chapter X. The Predestination of St Joseph and His Eminent Sanctity"
+          }
+        }
+      ]
+    }
+  ]
+}
