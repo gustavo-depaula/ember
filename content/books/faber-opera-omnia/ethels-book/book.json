@@ -1,0 +1,69 @@
+{
+  "id": "faber-ethels-book",
+  "cover": "classic",
+  "name": {
+    "en-US": "Ethel's Book, or Tales of the Angels",
+    "pt-BR": "O Livro de Ethel, ou Histórias dos Anjos"
+  },
+  "author": {
+    "en-US": "Frederick William Faber",
+    "pt-BR": "Frederick William Faber"
+  },
+  "description": {
+    "en-US": "Ethel's Book, or Tales of the Angels (1858): four stories for children by Faber, written for Lady Etheldreda Howard: The Last Children, or the Beautiful Midnight; Philip's Death, or the Pains of Children; The Melancholy Heart, or the Child to Whom Nobody Was Kind; and The Weeping Angel.",
+    "pt-BR": "O Livro de Ethel, ou Histórias dos Anjos (1858): quatro contos para crianças escritos por Faber para Lady Etheldreda Howard: Os Últimos Meninos, ou a Bela Meia-Noite; A Morte de Filipe, ou as Dores das Crianças; O Coração Melancólico, ou a Criança com Quem Ninguém Foi Bondoso; e O Anjo que Chora."
+  },
+  "composed": 1858,
+  "languages": [
+    "en-US"
+  ],
+  "work": "faber/ethels-book",
+  "editions": {
+    "en-US": {
+      "editor": "Frederick William Faber (London: Thomas Richardson and Son, 1858)",
+      "year": 1858
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/a579644000fabeuoft",
+      "edition": "Ethel's Book, or Tales of the Angels (London: Thomas Richardson and Son, 1858), Internet Archive full-text OCR.",
+      "description": "The dedication and the four tales; the contents is dropped. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Frederick William Faber died in 1863 and the edition is of 1858, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "dedication",
+      "title": {
+        "en-US": "Dedication"
+      }
+    },
+    {
+      "id": "last-children",
+      "title": {
+        "en-US": "The Last Children; or, The Beautiful Midnight"
+      }
+    },
+    {
+      "id": "philips-death",
+      "title": {
+        "en-US": "Philip's Death; or, The Pains of Children"
+      }
+    },
+    {
+      "id": "melancholy-heart",
+      "title": {
+        "en-US": "The Melancholy Heart; or, The Child to Whom Nobody Was Kind"
+      }
+    },
+    {
+      "id": "weeping-angel",
+      "title": {
+        "en-US": "The Weeping Angel"
+      }
+    }
+  ]
+}

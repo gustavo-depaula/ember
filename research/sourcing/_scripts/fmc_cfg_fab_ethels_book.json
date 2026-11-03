@@ -1,0 +1,57 @@
+{
+ "id": "faber-ethels-book",
+ "dir": "faber-opera-omnia/ethels-book",
+ "slug": "ethels-book",
+ "work": "faber/ethels-book",
+ "name": "Ethel's Book, or Tales of the Angels",
+ "name_pt": "O Livro de Ethel, ou Hist\u00f3rias dos Anjos",
+ "author": "Frederick William Faber",
+ "author_pt": "Frederick William Faber",
+ "died": 1863,
+ "desc": "Ethel's Book, or Tales of the Angels (1858): four stories for children by Faber, written for Lady Etheldreda Howard: The Last Children, or the Beautiful Midnight; Philip's Death, or the Pains of Children; The Melancholy Heart, or the Child to Whom Nobody Was Kind; and The Weeping Angel.",
+ "desc_pt": "O Livro de Ethel, ou Hist\u00f3rias dos Anjos (1858): quatro contos para crian\u00e7as escritos por Faber para Lady Etheldreda Howard: Os \u00daltimos Meninos, ou a Bela Meia-Noite; A Morte de Filipe, ou as Dores das Crian\u00e7as; O Cora\u00e7\u00e3o Melanc\u00f3lico, ou a Crian\u00e7a com Quem Ningu\u00e9m Foi Bondoso; e O Anjo que Chora.",
+ "composed": 1858,
+ "editor": "Frederick William Faber (London: Thomas Richardson and Son, 1858)",
+ "year": 1858,
+ "url": "https://archive.org/details/a579644000fabeuoft",
+ "edition": "Ethel's Book, or Tales of the Angels (London: Thomas Richardson and Son, 1858), Internet Archive full-text OCR.",
+ "srcnote": "The dedication and the four tales; the contents is dropped.",
+ "src": "faber/ia/a579644000fabeuoft_djvu.txt",
+ "start": 49,
+ "end": 3434,
+ "fn": false,
+ "back": [],
+ "front": [
+  {
+   "id": "dedication",
+   "title": "Dedication",
+   "from": 49,
+   "to": 66
+  }
+ ],
+ "label": {},
+ "romanheads": false,
+ "inline": [],
+ "units": [
+  {
+   "id": "last-children",
+   "title": "The Last Children; or, The Beautiful Midnight",
+   "from": 91
+  },
+  {
+   "id": "philips-death",
+   "title": "Philip's Death; or, The Pains of Children",
+   "from": 545
+  },
+  {
+   "id": "melancholy-heart",
+   "title": "The Melancholy Heart; or, The Child to Whom Nobody Was Kind",
+   "from": 1111
+  },
+  {
+   "id": "weeping-angel",
+   "title": "The Weeping Angel",
+   "from": 2350
+  }
+ ]
+}
