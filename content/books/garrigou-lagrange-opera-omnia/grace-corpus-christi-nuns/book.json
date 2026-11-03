@@ -1,0 +1,110 @@
+{
+  "id": "garrigou-grace",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "De gratia (traduction anglaise)",
+    "en-US": "Grace: Commentary on the Theological Summa of St. Thomas, Ia IIae, q. 109-114",
+    "pt-BR": "A graça: comentário à Suma teológica I-II, qq. 109-114"
+  },
+  "author": {
+    "fr-FR": "Réginald Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "description": {
+    "en-US": "Commentary on the Summa theologiae I-II, qq. 109-114: the necessity of grace, its essence, its causes, justification and merit, with the long excursus on sufficient and efficacious grace. Translation by the Dominican Nuns of Corpus Christi Monastery, Menlo Park, of De gratia (1946-47), Herder 1952.",
+    "pt-BR": "Comentário à Suma teológica I-II, qq. 109-114: a necessidade da graça, sua essência, suas causas, a justificação e o mérito, com o longo excurso sobre a graça suficiente e eficaz. Tradução inglesa das monjas dominicanas de Corpus Christi, Menlo Park (Herder, 1952) de De gratia (1946-47)."
+  },
+  "composed": "1946",
+  "work": "garrigou-lagrange/de-gratia",
+  "editions": {
+    "en-US": {
+      "translator": "Dominican Nuns of Corpus Christi Monastery, Menlo Park",
+      "year": 1952
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/Lagrange-English",
+      "edition": "Grace: Commentary on the Theological Summa of St. Thomas, Ia IIae, q. 109-114, Dominican Nuns of Corpus Christi Monastery, Menlo Park, St. Louis: B. Herder, 1952 (archive.org Lagrange-English); the Latin original is imported separately where available"
+    }
+  ],
+  "languages": [
+    "en-US"
+  ],
+  "toc": [
+    {
+      "id": "art1",
+      "title": {
+        "en-US": "Chapter I. Introduction"
+      }
+    },
+    {
+      "id": "art2",
+      "title": {
+        "en-US": "Chapter II. Question 109"
+      }
+    },
+    {
+      "id": "art3",
+      "title": {
+        "en-US": "Chapter III. Question 110"
+      }
+    },
+    {
+      "id": "art4",
+      "title": {
+        "en-US": "Chapter IV. Question 111"
+      }
+    },
+    {
+      "id": "art5",
+      "title": {
+        "en-US": "Chapter V. The doctrine of the church"
+      }
+    },
+    {
+      "id": "art6",
+      "title": {
+        "en-US": "Chapter VI. Sufficient grace"
+      }
+    },
+    {
+      "id": "art7",
+      "title": {
+        "en-US": "Chapter VII. Errficacious grace"
+      }
+    },
+    {
+      "id": "art8",
+      "title": {
+        "en-US": "Chapter VIII. Excursus on Erricacious GRACE"
+      }
+    },
+    {
+      "id": "art9",
+      "title": {
+        "en-US": "Chapter IX. Question 112"
+      }
+    },
+    {
+      "id": "art10",
+      "title": {
+        "en-US": "Chapter X. Question 113"
+      }
+    },
+    {
+      "id": "art11",
+      "title": {
+        "en-US": "Chapter XI. Question 114"
+      }
+    },
+    {
+      "id": "art12",
+      "title": {
+        "en-US": "Chapter XII. Recapitulation and supplement"
+      }
+    }
+  ]
+}
