@@ -1,0 +1,220 @@
+{
+  "id": "john-of-the-cross-avisos-lewis",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Spiritual Maxims (Lewis)",
+    "pt-BR": "Máximas espirituais (Lewis, inglês)"
+  },
+  "author": {
+    "es-ES": "San Juan de la Cruz",
+    "en-US": "St. John of the Cross",
+    "pt-BR": "São João da Cruz"
+  },
+  "description": {
+    "en-US": "The Spiritual Maxims selected from the writings of St. John of the Cross, in David Lewis's English, with Zimmerman's corrections: the prologue and the maxims grouped by subject (imitation of Christ, faith, charity, prayer, obedience, poverty and so on). This is the old compilation, partly culled from his treatises, and does not follow the order of the Avisos and Dichos in Silverio's Spanish book, so it is its own book.",
+    "pt-BR": "As Máximas espirituais selecionadas dos escritos de São João da Cruz, na versão inglesa de David Lewis (revista por Zimmerman, 1919)."
+  },
+  "composed": "1578–1591",
+  "languages": [
+    "en-US"
+  ],
+  "work": "john-of-the-cross/avisos",
+  "editions": {
+    "en-US": {
+      "translator": "David Lewis (prose), with Benedict Zimmerman",
+      "year": 1919
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/johnofthecross00johnuoft",
+      "edition": "The Living Flame of Love, with his Letters, Poems and Minor Writings, translated by David Lewis, with corrections and an introduction by Benedict Zimmerman, O.C.D., London: Thomas Baker, 1919 (first edition 1912). Internet Archive scan johnofthecross00johnuoft (University of Toronto).",
+      "description": "Spiritual Maxims selected from the writings of St. John of the Cross, with prologue. The scan is the best of the three; page headings, page numbers and footnotes are dropped, line-break hyphens joined, and isolated recognition slips may remain.",
+      "tier": "A",
+      "tierEvidence": "Published 1919, before 1930; public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "m01",
+      "title": {
+        "en-US": "Prologue"
+      }
+    },
+    {
+      "id": "m02",
+      "title": {
+        "en-US": "Imitation of Christ"
+      }
+    },
+    {
+      "id": "m03",
+      "title": {
+        "en-US": "The Theological Virtues"
+      }
+    },
+    {
+      "id": "m04",
+      "title": {
+        "en-US": "Faith"
+      }
+    },
+    {
+      "id": "m05",
+      "title": {
+        "en-US": "Hope"
+      }
+    },
+    {
+      "id": "m06",
+      "title": {
+        "en-US": "Fear of God"
+      }
+    },
+    {
+      "id": "m07",
+      "title": {
+        "en-US": "Charity"
+      }
+    },
+    {
+      "id": "m08",
+      "title": {
+        "en-US": "Peace"
+      }
+    },
+    {
+      "id": "m09",
+      "title": {
+        "en-US": "Love of Our Neighbour"
+      }
+    },
+    {
+      "id": "m10",
+      "title": {
+        "en-US": "Disorderly Appetites"
+      }
+    },
+    {
+      "id": "m11",
+      "title": {
+        "en-US": "Prudence"
+      }
+    },
+    {
+      "id": "m12",
+      "title": {
+        "en-US": "The Angels"
+      }
+    },
+    {
+      "id": "m13",
+      "title": {
+        "en-US": "A Spiritual Director"
+      }
+    },
+    {
+      "id": "m14",
+      "title": {
+        "en-US": "Religion, Prayer"
+      }
+    },
+    {
+      "id": "m15",
+      "title": {
+        "en-US": "Necessity of Prayer"
+      }
+    },
+    {
+      "id": "m16",
+      "title": {
+        "en-US": "Fruits of Prayer"
+      }
+    },
+    {
+      "id": "m17",
+      "title": {
+        "en-US": "The Properties of Prayer"
+      }
+    },
+    {
+      "id": "m18",
+      "title": {
+        "en-US": "Motives for Prayer"
+      }
+    },
+    {
+      "id": "m19",
+      "title": {
+        "en-US": "Place for Prayer"
+      }
+    },
+    {
+      "id": "m20",
+      "title": {
+        "en-US": "Hindrances to Prayer"
+      }
+    },
+    {
+      "id": "m21",
+      "title": {
+        "en-US": "Obedience"
+      }
+    },
+    {
+      "id": "m22",
+      "title": {
+        "en-US": "Fortitude, Patience"
+      }
+    },
+    {
+      "id": "m23",
+      "title": {
+        "en-US": "Modesty"
+      }
+    },
+    {
+      "id": "m24",
+      "title": {
+        "en-US": "Silence"
+      }
+    },
+    {
+      "id": "m25",
+      "title": {
+        "en-US": "Humility"
+      }
+    },
+    {
+      "id": "m26",
+      "title": {
+        "en-US": "Vanity"
+      }
+    },
+    {
+      "id": "m27",
+      "title": {
+        "en-US": "Voluntary Poverty"
+      }
+    },
+    {
+      "id": "m28",
+      "title": {
+        "en-US": "Avarice"
+      }
+    },
+    {
+      "id": "m29",
+      "title": {
+        "en-US": "Poverty of Spirit"
+      }
+    },
+    {
+      "id": "m30",
+      "title": {
+        "en-US": "Prayer of the Enamoured Soul"
+      }
+    }
+  ]
+}
