@@ -13,18 +13,23 @@
   },
   "description": {
     "la": "Vita S. Francisci a S. Bonaventura, ministro generali, ex mandato Capituli Narbonensis (1260) conscripta, anno 1266 ab Ordine unica legenda recepta. ",
-    "en-US": "The official life of St. Francis, written by the Minister General St. Bonaventure for the Chapter of Narbonne (1260) and adopted in 1266 as the only legend of the Order: fifteen chapters on his life, with ten chapters of miracles after his death. The Latin is the text of the Fonti francescane, with its scriptural cross-references.",
+    "en-US": "The official life of St. Francis, written by the Minister General St. Bonaventure for the Chapter of Narbonne (1260) and adopted in 1266 as the only legend of the Order: fifteen chapters on his life, with ten chapters of miracles after his death. The Latin is the text of the Fonti francescane, with its scriptural cross-references. The English of the prologue and the fifteen chapters is E. Gurney Salter's (1904). The English of the prologue and the fifteen chapters is E. Gurney Salter's (1904). The English of the prologue and the fifteen chapters is E. Gurney Salter's (1904). The English of the prologue and the fifteen chapters is E. Gurney Salter's (1904).",
     "pt-BR": "A biografia oficial de São Francisco, escrita por São Boaventura, ministro geral, e adotada pela Ordem em 1266 como única legenda: quinze capítulos sobre a vida e dez sobre os milagres póstumos."
   },
   "composed": "1260-1263",
   "languages": [
-    "la"
+    "la",
+    "en-US"
   ],
   "work": "bonaventure/legenda-maior",
   "editions": {
     "la": {
       "editor": "Quaracchi (PP. Collegii S. Bonaventurae), after the Fonti francescane transcription",
       "year": 1898
+    },
+    "en-US": {
+      "translator": "E. Gurney Salter",
+      "year": 1904
     }
   },
   "sources": [
@@ -35,103 +40,127 @@
       "description": "Lines of numbered sentence units are joined into the sections of the edition; the modern \"cfr.\" scriptural cross-references of the transcription stay in parentheses; stray grave and acute accents of the web transcription are removed.",
       "tier": "B",
       "tierEvidence": "Bonaventure died in 1274; the Latin is his text. The web transcription is an anonymous digitization for scholarly use."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/thelittleflowers00francuoft",
+      "edition": "The Life of St. Francis by St. Bonaventure, translated by E. Gurney Salter (1904), as reset in The Little Flowers, The Mirror of Perfection, and St. Bonaventure's Life of St. Francis (London: J. M. Dent, Everyman's Library, 1910).",
+      "description": "Archive.org OCR read from the word-coordinate file and cleaned by script, not proofread; running heads and page numbers dropped, Salter's paragraph numbers kept. The Everyman volume prints the prologue and the fifteen chapters only: the Miracula after death are Latin only.",
+      "tier": "A",
+      "tierEvidence": "Published 1910: public domain."
     }
   ],
   "toc": [
     {
       "id": "prologus",
       "title": {
-        "la": "Prologus in vitam beati Francisci"
+        "la": "Prologus in vitam beati Francisci",
+        "en-US": "Prologue"
       }
     },
     {
       "id": "c01",
       "title": {
-        "la": "Caput I. De conversatione sancti Francisci in habitu saeculari"
+        "la": "Caput I. De conversatione sancti Francisci in habitu saeculari",
+        "en-US": "Chapter I. Of his Manner of Life in the Secular State"
       }
     },
     {
       "id": "c02",
       "title": {
-        "la": "Caput II. De perfecta conversione eius ad Deum et de reparatione trium ecclesiarum"
+        "la": "Caput II. De perfecta conversione eius ad Deum et de reparatione trium ecclesiarum",
+        "en-US": "Chapter II. Of his Perfect Conversion unto God, and of the Repairing of the Three Churches"
       }
     },
     {
       "id": "c03",
       "title": {
-        "la": "Caput III. De institutione Religionis et approbatione Regulae"
+        "la": "Caput III. De institutione Religionis et approbatione Regulae",
+        "en-US": "Chapter III. Of the Founding of His Religion, and Sanction of the Rule"
       }
     },
     {
       "id": "c04",
       "title": {
-        "la": "Caput IV. De profectu Ordinis sub manu ipsius et confirmatione Regulae prius approbatae"
+        "la": "Caput IV. De profectu Ordinis sub manu ipsius et confirmatione Regulae prius approbatae",
+        "en-US": "Chapter IV. Of the Advancement of the Order Under his Hand, and of the Confirmation of the Rule Already Sanctioned"
       }
     },
     {
       "id": "c05",
       "title": {
-        "la": "Caput V. De austeritate vitae et quomodo creaturae praebebant ei solatium"
+        "la": "Caput V. De austeritate vitae et quomodo creaturae praebebant ei solatium",
+        "en-US": "Chapter V. Of the Austerity of his Life, and of how All Created Things Afforded him Comfort"
       }
     },
     {
       "id": "c06",
       "title": {
-        "la": "Caput VI. De humilitate et obedientia et de condescensionibus divinis sibi factis ad nutum"
+        "la": "Caput VI. De humilitate et obedientia et de condescensionibus divinis sibi factis ad nutum",
+        "en-US": "Chapter VI. Of his Humility and Obedience, and of the Divine Condescensions Shown unto him at Will"
       }
     },
     {
       "id": "c07",
       "title": {
-        "la": "Caput VII. De amore paupertatis et mira suppletione defectuum"
+        "la": "Caput VII. De amore paupertatis et mira suppletione defectuum",
+        "en-US": "Chapter VII. Of his Love for Poverty, and of the Wondrous Supplying of his Needs"
       }
     },
     {
       "id": "c08",
       "title": {
-        "la": "Caput VIII. De pietatis affectu et quomodo ratione carentia videbantur ad ipsum affici"
+        "la": "Caput VIII. De pietatis affectu et quomodo ratione carentia videbantur ad ipsum affici",
+        "en-US": "Chapter VIII. Of the Kindly Impulses of his Piety, and of how the Creatures Lacking Understanding Seemed to be Made Subject unto him"
       }
     },
     {
       "id": "c09",
       "title": {
-        "la": "Caput IX. De fervore caritatis et desiderio martyrii"
+        "la": "Caput IX. De fervore caritatis et desiderio martyrii",
+        "en-US": "Chapter IX. Of his Ardent Love, and Yearning for Martyrdom"
       }
     },
     {
       "id": "c10",
       "title": {
-        "la": "Caput X. De studio et virtute orationis"
+        "la": "Caput X. De studio et virtute orationis",
+        "en-US": "Chapter X. Of his Zeal and Efficacy in Prayer"
       }
     },
     {
       "id": "c11",
       "title": {
-        "la": "Caput XI. De intelligentia Scripturarum et spiritu prophetiae"
+        "la": "Caput XI. De intelligentia Scripturarum et spiritu prophetiae",
+        "en-US": "Chapter XI. Of his Understanding of the Scriptures, and of his Spirit of Prophecy"
       }
     },
     {
       "id": "c12",
       "title": {
-        "la": "Caput XII. De efficacia praedicandi et gratia sanitatum"
+        "la": "Caput XII. De efficacia praedicandi et gratia sanitatum",
+        "en-US": "Chapter XII. Of the Efficacy of his Preaching, and of his Gift of Healing"
       }
     },
     {
       "id": "c13",
       "title": {
-        "la": "Caput XIII. De stigmatibus sacris"
+        "la": "Caput XIII. De stigmatibus sacris",
+        "en-US": "Chapter XIII. Of the Sacred Stigmata"
       }
     },
     {
       "id": "c14",
       "title": {
-        "la": "Caput XIV. De patientia ipsius et transitu mortis"
+        "la": "Caput XIV. De patientia ipsius et transitu mortis",
+        "en-US": "Chapter XIV. Of his Sufferings and Death"
       }
     },
     {
       "id": "c15",
       "title": {
-        "la": "Caput XV. De canonizatione et translatione ipsius"
+        "la": "Caput XV. De canonizatione et translatione ipsius",
+        "en-US": "Chapter XV. Of his Canonisation, and the Translation of his Body"
       }
     },
     {
@@ -202,5 +231,8 @@
         }
       ]
     }
-  ]
+  ],
+  "arrived": {
+    "en-US": "2026-11-03"
+  }
 }
