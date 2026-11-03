@@ -1,0 +1,189 @@
+{
+  "id": "chesterton-queen-of-seven-swords",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Queen of Seven Swords",
+    "pt-BR": "A Rainha das Sete Espadas"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's book of Marian verse of 1926: The White Witch, The Return of Eve, A Party Question, A Little Litany, The Ballad of King Arthur, Regina Angelorum, the title poem on Our Lady of Seven Sorrows, and the seven national saints (James of Spain, Denys of France, Anthony of Italy, Patrick, Andrew, David and George).",
+    "pt-BR": "O livro de versos marianos de Chesterton de 1926: A Bruxa Branca, O Retorno de Eva, Uma Questão de Partido, Uma Pequena Ladainha, A Balada do Rei Artur, Regina Angelorum, o poema-título sobre Nossa Senhora das Sete Dores e os sete santos nacionais (Tiago da Espanha, Dionísio da França, Antônio da Itália, Patrício, André, Davi e Jorge)."
+  },
+  "composed": "1926",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/queen-of-seven-swords",
+  "editions": {
+    "en-US": {
+      "editor": "Cecil Palmer",
+      "year": 1926
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/the-queen-of-seven-swords-by-g-k-chesterton",
+      "edition": "The Queen of Seven Swords (London: Cecil Palmer, 1926), Internet Archive text (the-queen-of-seven-swords-by-g-k-chesterton); recognition slips (the vertical bar for I) corrected.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1926 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-in-memoriam",
+      "title": {
+        "en-US": "In Memoriam"
+      }
+    },
+    {
+      "id": "ch02-the-white-witch",
+      "title": {
+        "en-US": "The White Witch"
+      }
+    },
+    {
+      "id": "ch03-the-return-of-eve",
+      "title": {
+        "en-US": "The Return of Eve"
+      }
+    },
+    {
+      "id": "ch04-a-party-question",
+      "title": {
+        "en-US": "A Party Question"
+      }
+    },
+    {
+      "id": "ch05-a-little-litany",
+      "title": {
+        "en-US": "A Little Litany"
+      }
+    },
+    {
+      "id": "ch06-the-ballad-of-king-arthur",
+      "title": {
+        "en-US": "The Ballad of King Arthur"
+      }
+    },
+    {
+      "id": "ch07-regina-angelorum",
+      "title": {
+        "en-US": "Regina Angelorum"
+      }
+    },
+    {
+      "id": "ch08-the-paradox",
+      "title": {
+        "en-US": "The Paradox"
+      }
+    },
+    {
+      "id": "ch09-the-towers-of-time",
+      "title": {
+        "en-US": "The Towers of Time"
+      }
+    },
+    {
+      "id": "ch10-the-two-maidens",
+      "title": {
+        "en-US": "The Two Maidens"
+      }
+    },
+    {
+      "id": "ch11-an-agreement",
+      "title": {
+        "en-US": "An Agreement"
+      }
+    },
+    {
+      "id": "ch12-in-october",
+      "title": {
+        "en-US": "In October"
+      }
+    },
+    {
+      "id": "ch13-laughter",
+      "title": {
+        "en-US": "Laughter"
+      }
+    },
+    {
+      "id": "ch14-the-black-virgin",
+      "title": {
+        "en-US": "The Black Virgin"
+      }
+    },
+    {
+      "id": "ch15-images",
+      "title": {
+        "en-US": "Images"
+      }
+    },
+    {
+      "id": "ch16-the-trinkets",
+      "title": {
+        "en-US": "The Trinkets"
+      }
+    },
+    {
+      "id": "ch17-the-queen-of-seven-swords",
+      "title": {
+        "en-US": "The Queen of Seven Swords"
+      }
+    },
+    {
+      "id": "ch18-saint-james-of-spain",
+      "title": {
+        "en-US": "Saint James of Spain"
+      }
+    },
+    {
+      "id": "ch19-saint-denys-of-france",
+      "title": {
+        "en-US": "Saint Denys of France"
+      }
+    },
+    {
+      "id": "ch20-saint-anthony-of-italy",
+      "title": {
+        "en-US": "Saint Anthony of Italy"
+      }
+    },
+    {
+      "id": "ch21-saint-patrick-of-ireland",
+      "title": {
+        "en-US": "Saint Patrick of Ireland"
+      }
+    },
+    {
+      "id": "ch22-saint-andrew-of-scotland",
+      "title": {
+        "en-US": "Saint Andrew of Scotland"
+      }
+    },
+    {
+      "id": "ch23-saint-david-of-wales",
+      "title": {
+        "en-US": "Saint David of Wales"
+      }
+    },
+    {
+      "id": "ch24-saint-george-of-england",
+      "title": {
+        "en-US": "Saint George of England"
+      }
+    },
+    {
+      "id": "ch25-all-the-seven",
+      "title": {
+        "en-US": "All the Seven"
+      }
+    }
+  ]
+}
