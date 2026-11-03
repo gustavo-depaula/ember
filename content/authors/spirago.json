@@ -1,5 +1,30 @@
 {
-  "name": { "en-US": "Francis Spirago", "pt-BR": "Francisco Spirago" },
+  "name": {
+    "en-US": "Francis Spirago",
+    "pt-BR": "Francisco Spirago"
+  },
   "century": 19,
-  "matches": ["Francis Spirago", "Franz Spirago", "Spirago, Franz, 1862-1942"]
+  "matches": [
+    "Francis Spirago",
+    "Franz Spirago",
+    "Spirago, Franz, 1862-1942",
+    "Francis Spirago, edited by Richard F. Clarke, S.J."
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "The catechism",
+        "pt-BR": "O catecismo"
+      },
+      "works": [
+        {
+          "work": "spirago/katholischer-volkskatechismus",
+          "why": {
+            "en-US": "An exhaustive explanation of doctrine for preachers and catechists",
+            "pt-BR": "Explicação exaustiva da doutrina para pregadores e catequistas"
+          }
+        }
+      ]
+    }
+  ]
 }
