@@ -1,0 +1,74 @@
+{
+  "id": "garrigou-life-everlasting",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "L’éternelle vie et la profondeur de l’âme (traduction anglaise)",
+    "en-US": "Life Everlasting",
+    "pt-BR": "A vida eterna e a profundidade da alma (tradução inglesa)"
+  },
+  "author": {
+    "fr-FR": "Réginald Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "description": {
+    "en-US": "The last things and the depth of the soul: death and judgment, purgatory, heaven and hell, and the eternal life begun by grace. Patrick Cummins’s translation of L’éternelle vie et la profondeur de l’âme (1950), Herder 1952.",
+    "pt-BR": "As últimas coisas e a profundidade da alma: morte e juízo, purgatório, céu e inferno, e a vida eterna iniciada pela graça. Tradução inglesa de Patrick Cummins (Herder, 1952) de L’éternelle vie et la profondeur de l’âme (1950)."
+  },
+  "composed": "1950",
+  "work": "garrigou-lagrange/eternelle-vie",
+  "editions": {
+    "en-US": {
+      "translator": "Patrick Cummins, O.S.B.",
+      "year": 1952
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/Lagrange-English",
+      "edition": "Life Everlasting, tr. Patrick Cummins, O.S.B., St. Louis: B. Herder, 1952 (archive.org Lagrange-English); the French original is not open"
+    }
+  ],
+  "languages": [
+    "en-US"
+  ],
+  "toc": [
+    {
+      "id": "foreword",
+      "title": {
+        "en-US": "Foreword"
+      }
+    },
+    {
+      "id": "ch1-intro",
+      "title": {
+        "en-US": "Part I"
+      }
+    },
+    {
+      "id": "ch2-intro",
+      "title": {
+        "en-US": "Part II"
+      }
+    },
+    {
+      "id": "ch3-intro",
+      "title": {
+        "en-US": "Part III"
+      }
+    },
+    {
+      "id": "ch4-intro",
+      "title": {
+        "en-US": "Part IV"
+      }
+    },
+    {
+      "id": "ch5-intro",
+      "title": {
+        "en-US": "Part V"
+      }
+    }
+  ]
+}
