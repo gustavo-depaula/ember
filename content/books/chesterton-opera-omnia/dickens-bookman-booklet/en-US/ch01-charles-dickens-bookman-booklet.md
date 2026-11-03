@@ -1,0 +1,143 @@
+# Charles Dickens (Bookman Booklet)
+
+*From a photo by Walter Dexter*
+
+THE CORN EXCHANGE, ROCHESTER HIGH STREET
+
+Showing the “Moon-faced” Clock]
+
+Considered merely as literary fashions, romanticism and realism are both tricks, and tricks alone. The only advantage lies with romanticism, which is a little less artificial and technical than realism. For the great majority of people here and now do naturally write romanticism, as we see it in a love-letter, or a diary, or a quarrel, and nobody on earth naturally writes realism as we see it in a description by Flaubert. But both are technical dodges and realism only the more eccentric. It is a trick to make things happen harmoniously always, and it is a trick to make them always happen discordantly. It is a trick to make a heroine, in the act of accepting a lover, suddenly aureoled by a chance burst of sunshine, and then to call it romance. But it is quite as much of a trick to make her, in the act of accepting a lover, drop her umbrella, or trip over a hassock, and then call it the bold plain realism of life. If any one wishes to satisfy himself as to how excessively little this technical realism has to do, I do not say with profound reality, but even with casual truth to life, let him make a simple experiment offered to him by the history of literature. Let him ask what is of all English books the book most full of this masterly technical realism, most full of all these arresting details, all these convincing irrelevancies, all these impedimenta of prosaic life; and then as far as truth to life is concerned he will find that it is a story about men as big as houses and men as small as dandelions, about horses with human souls and an island that flew like a balloon.
+
+[Illustration:
+
+“BOZ”
+
+(CHARLES DICKENS)
+
+From a drawing  
+by S. Laurence, in the  
+possession of Horace N. Pym
+
+Rischgitz Collection]
+
+[Illustration: THE BIRTHPLACE OF DICKENS: No. 387, COMMERCIAL ROAD, LANDPORT, PORTSEA
+
+(From “Rambles in Dickens-Land,” by R. Allbut. Reproduced by kind permission of Messrs. S. T. Freemantle & Co.)]
+
+We can never understand a writer of the old romantic school, even if he is as great and splendid as Dickens is great and splendid, until we realise this preliminary fact to which I have drawn attention. The fact that these merely technical changes are merely technical, and have nothing whatever to do with the force and truth behind. We are bound to find a considerable amount of Dickens’s work, especially the pathetic and heroic passages, artificial and pompous. But that is only because we are far enough off his trick or device to see that it is such. Our own trick and device we believe to be as natural as the eternal hills. It is no more natural, even when compared with the Dickens devices, than a rockery is natural, even when compared with a Dutch flower bed. The time will come when the wildest upheaval of Zolaism, when the most abrupt and colloquial dialogue of Norwegian drama, will appear a fine old piece of
+
+[Illustration: No. 15, FURNIVAL’S INN, HOLBORN
+
+Charles Dickens lived in 1836
+
+(Reproduced by kind permission of Messrs. Methuen & Co.)]
+
+charming affectation, a stilted minuet of literature, like little Nell in the churchyard, or the repentance of the white-haired Dombey. All their catchwords will have become catchwords; the professor’s
+
+[Illustration: THE “LEATHER BOTTLE,” COBHAM
+
+(Reproduced from the “Pickwick Papers,” by kind permission of Messrs. Methuen & Co.)]
+
+explanations of heredity will have the mellow, foolish sound of the villain’s curses against destiny. And in that time men will for the first time become aware of the real truth and magnificence of Zola and Ibsen, just as we, if we are wise, are now becoming aware of the real truth and magnificence of Dickens.
+
+This is even more true if we look first at that fundamental optimistic feeling about life, which as it has been often and truly said is the main essence of Dickens. If Dickens’s optimism had merely been a matter of happy endings, reconciliations, and orange flowers, it would be a mere superficial art or craft. But it would not, as in the case discussed above, be in any way more superficial than the pessimism of the modern episode, or short story, which is an affair of bad endings, disillusionments, and arsenic. The truth about life is that joy and sorrow are mingled in an almost rhythmical alternation like day and night. The whole of optimistic technique consists in the dodge of breaking off the story at dawn, and the whole of pessimistic technique in the art of breaking off the story at dusk. But wherever and whenever mere artists choose to consider the matter ended, the matter is never ended, and trouble and exultation go on in a design larger than any of ours, neither vanishing at all. Beyond our greatest happiness there lie dangers, and after our greatest dangers there remaineth a rest.
+
+But the element in Dickens which we are forced to call by the foolish and unmanageable word optimism is a very much deeper and more real matter than any question of plot and conclusion. If Mr. Pickwick had been drowned when he fell through the ice; if Mr. Dick Swiveller had never recovered from the fever, these catastrophes might have been artistically inappropriate, but they would not have sufficed to make the stories sad. If Sam Weller had committed suicide from religious difficulties, if Florence Dombey had been murdered (most justly murdered) by Captain Cuttle, the stories would still be the happiest stories in the world. For their happiness is a state of the soul; a state in which our natures are full of the wine of an ancient youth, in which banquets last for ever, and roads lead everywhere, where all things are under the exuberant leadership of faith, hope, and charity, the three gayest of the virtues.
+
+[Illustration: CHARLES DICKENS IN 1839
+
+From the picture by Daniel Maclise, R.A. Exhibited at the Royal Academy in 1840, and now in the National Portrait Gallery
+
+Rischgitz Collection]
+
+[Illustration: *From a drawing by G. Cattermole in the South Kensington Museum*
+
+THE GRAVE OF LITTLE NELL
+
+Rischgitz Collection]
+
+There is, of course, an optimism which is evil and debasing, and to this it must be confessed that Dickens sometimes descends. The worst optimism is that which, in making things comfortable, prevents them from becoming joyful; it bears the same relation to an essential and true optimism that the pleasure of sitting in an arm-chair bears to the pleasure of sitting on a galloping horse. It is the optimism which denies that burning hurts a martyr. More profoundly considered, it may be called the optimism which, in order to give a being more life, denies him his individual life; in order to give him more pleasure, denies him his especial pleasure. It offers the hunter repose, and the student pleasure, and the poet an explanation. Dickens, as I have said, sometimes fell into this. Nothing could be more atrocious, for instance, than his course of action in concluding “David Copperfield” with an account of the great Micawber at last finding wealth and success as a mayor in Australia. Micawber would never succeed; never ought to succeed; his kingdom was not of this world. His mind to him a kingdom was; he was one of those splendid and triumphant poor, who have the faculty of capturing, without a coin of money or a stroke of work, that ultimate sense of possessing wealth and luxury, which is the only reward of the toils and crimes of the rich. It is but a sentiment after all, this idea of money, and a poor man who is also a poet, like Micawber, may find a short end to it. To make such a man, after a million mental triumphs over material circumstances, become the mere pauper and dependent of material success, is something more than an artistic blunder: it is a moral lapse; it is a wicked and blasphemous thing to have done. The end of “David Copperfield” is not a happy ending; it is a very miserable ending. To make Micawber a mayor is about as satisfying a termination as it would be to make Sir Lancelot after Arthur’s death become a pork butcher or a millionaire, or to make Enoch Arden grow fat and marry an heiress. There is a satisfaction that is far more depressing than any tragedy. And the essence of it, as I have said, lies in the fact that it violates the real and profound philosophical optimism of the universe, which has given to each thing its incommunicable air and its strange reason for living. It offers instead, another joy or peace which is alien and nauseous; it offers grass to the dog and fire to the fishes. It is, indeed, in the same tradition as that cruel and detestable kindness to animals, which has been one of the disgraces of humanity: from the modern lady who pulls a fat dog on a chain through a crowded highway, back to the Roman Cæsar who fed his horse on wine, and made it a political magistrate.
+
+[Illustration:
+
+*From a photo by Walter Dexter*
+
+THE OLD CURIOSITY SHOP]
+
+The same error in an even more irreverent form occurs, of course, in the same book. The essence of the Dickens genius was
+
+[Illustration:
+
+From an engraving by C. H. Jeens, after the original sketch by  
+Daniel Maclise, R.A.
+
+CHARLES DICKENS READING “THE CHIMES” TO HIS FRIENDS AT 58, LINCOLN’S INN FIELDS, MONDAY, THE 2nd OF DECEMBER, 1844
+
+Rischgitz Collection]
+
+exaggeration, and in that general sense Dora, in “David Copperfield,” may be called an exaggerated character; but she is an extremely real and an extremely agreeable character for all that. She is supposed to be very weak and ineffectual, but she has about a hundred times more personal character than all Dickens’s waxwork heroines put together, the unendurable Agnes by no means excluded. It almost passes comprehension how a man who could conceive such a character should so insult it, as Dickens does, in making Dora recommend her husband’s second marriage with Agnes. Dora, who stands for the profound and exquisite irrationality of simple affection, is made the author of a piece of priggish and dehumanised rationalism which is worthy of Miss Agnes herself. One could easily respect such a husband when he married again,
+
+[Illustration: CHARLES DICKENS, HIS WIFE, AND HER SISTER
+
+*From an engraving by C. H. Jeens after the original sketch by Daniel Maclise, R.A., in 1843*
+
+Rischgitz Collection]
+
+but surely not such a wife when she desired it. The truth is, of course, that here again Dickens is following his evil genius which bade him make those he loved comfortable instead of happy. It may seem at first sight a paradox to say that the special fault of optimism is a lack of faith in God: but so it is. There are some whom we should not seek to make comfortable: their appeasement is in more awful hands. There are conflicts, the reconciliation of which lies beyond the powers not only of human effort but of human rational conception. One of them is the reconciliation between good and evil themselves in the scheme of nature; another is the reconciliation of Dora and Agnes. To say that we know they will be reconciled is faith; to say that we see that they will be reconciled is blasphemy.
+
+[Illustration: *From a drawing by Miss Ryland, in the South Kensington Museum*
+
+DOTHEBOYS HALL, 1841
+
+Rischgitz Collection]
+
+[Illustration: *From the painting by C. R. Leslie, R.A. Exhibited in the Royal Academy in 1846*
+
+CHARLES DICKENS AS CAPTAIN BOBADIL IN “EVERY MAN IN HIS HUMOUR”
+
+(Reproduced from *The Sketch*, by kind permission of the London Electrotype Agency)]
+
+Dickens was, of course, as is repeated *ad nauseam*, a caricaturist, and when we have understood this word we have understood the whole matter; but in truth the word, caricaturist, is commonly misunderstood; it is even, in the case of men like Dickens, used as implying a reproach. Whereas it has no more reproach in it than the word organist. Caricature is not merely an important form of art; it is a form of art which is often most useful for purposes of profound philosophy and powerful symbolism. The age of scepticism put caricature into ephemeral feuilletons; but the ages of faith built
+
+[Illustration: *From a lithograph, after the drawing by Alfred Count D’Orsay*
+
+A PORTRAIT OF CHARLES DICKENS IN 1842
+
+Reproduced from *The Magazine of Art*, by kind permission of Messrs. Cassell & Co., Ltd.]
+
+caricatures into their churches of everlasting stone. One extraordinary idea has been constantly repeated, the idea that it is very easy to make a mere caricature of anything. As a matter of fact it is
+
+[Illustration:
+
+*From an etching after a daguerreotype by Mayall*
+
+CHARLES DICKENS IN 1851]
+
+[Illustration: DICKENS’S FAVOURITE RAVEN
+
+The original of “Grip” in “Barnaby Rudge.” After death the famous bird was stuffed, and when sold at the Dickens Sale it realised £126
+
+(Reproduced by kind permission of the London Stereoscopic Co.)]
+
+extraordinarily difficult, for it implies a knowledge of what part of a thing to caricature. To reproduce the proportions of a face, exactly as they are, is a comparatively safe adventure; to arrange those features in an entirely new proportion, and yet retain a resemblance, argues a very delicate instinct for what features are really the characteristic and essential ones. Caricature is only easy when it so happens that the people depicted, like Cyrano de Bergerac, are more or less caricatures themselves. In other words caricature is only easy when it does not caricature very much. But to see an ordinary intelligent face in the street, and to know that, with the nose three times as long and the head twice as broad, it will still be a startling likeness, argues a profound insight into truth. “Caricature,” said Sir Willoughby Patterne, in his fatuous way, “is rough truth.” It is not; it is subtle truth. This is what gives Dickens his unquestionable place among artists. He realised thoroughly a certain phase or atmosphere of existence, and he knew the precise strokes and touches that would bring it home to the reader. That Dickens phase or atmosphere may be roughly defined as the phase of a vivid sociability in which every
+
+[Illustration:
+
+From the painting by Ary Scheller, in the National Portrait  
+Gallery
+
+CHARLES DICKENS IN 1855
+
+Rischgitz Collection]
+
+[Illustration: TAVISTOCK HOUSE, TAVISTOCK SQUARE
+
+Where Dickens resided for nearly nine years, dating from November,  
+1851.
+
+(From “Rambles in Dickens-Land,” by R. Allbut. Reproduced by kind  
+permission of Messrs. S. T. Freemantle & Co.)]
+
+man becomes unusually and startlingly himself. A good caricature will sometimes seem more like the original than the original: so it is in the greatest moments of social life. He is an unfortunate man; a man unfitted to value life and certainly unfitted to value Dickens, who has not sat at some table or talked in some company in which every one was in character, each a beautiful caricature of himself.
+
+G. K. CHESTERTON.
