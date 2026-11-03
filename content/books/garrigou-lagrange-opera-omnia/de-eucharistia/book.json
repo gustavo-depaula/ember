@@ -1,0 +1,687 @@
+{
+  "id": "garrigou-de-eucharistia",
+  "cover": "quarter",
+  "name": {
+    "la": "De Eucharistia, accedunt de Paenitentia quaestiones",
+    "en-US": "On the Eucharist (Latin), with questions on Penance",
+    "pt-BR": "De Eucharistia (latim), com questões sobre a Penitência"
+  },
+  "author": {
+    "la": "Reginaldus Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "description": {
+    "la": "Commentarium in Summam theologicam III, quaestiones 73-83, accedunt de Paenitentia quaestiones.",
+    "en-US": "The Latin commentary on the Summa theologiae III, qq. 73-83 on the Eucharist, with questions on Penance.",
+    "pt-BR": "O comentário latino à Suma teológica III, qq. 73-83, sobre a Eucaristia, com questões sobre a Penitência."
+  },
+  "composed": "1943",
+  "work": "garrigou-lagrange/de-eucharistia",
+  "editions": {
+    "la": {
+      "editor": "Garrigou-Lagrange (Marietti, Turin / Desclée)",
+      "year": 1943
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/GarrigouLagrangeLatin",
+      "edition": "De Eucharistia, accedunt de Paenitentia quaestiones, archive.org GarrigouLagrangeLatin, OCR text; divided by the Summa’s articles (\"Art. N — Utrum …\") found in the OCR, the indexes left out"
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "prolegomena",
+      "title": {
+        "la": "Prolegomena"
+      }
+    },
+    {
+      "id": "q1",
+      "title": {
+        "la": "Sectio 1"
+      },
+      "children": [
+        {
+          "id": "q1-a1",
+          "title": {
+            "la": "Sectio 1, art. 1: Solus Deus interius operatur (ut causa principalis) in"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "title": {
+        "la": "Sectio 2"
+      },
+      "children": [
+        {
+          "id": "q2-a1",
+          "title": {
+            "la": "Sectio 2, art. 1: Sunt septem sacramenta. Est de fide contra Lutheranos"
+          }
+        },
+        {
+          "id": "q2-a2",
+          "title": {
+            "la": "Sectio 2, art. 2: UTRUM EUCHARISTIA SIT UNUM SACRAMENTUM"
+          }
+        },
+        {
+          "id": "q2-a3",
+          "title": {
+            "la": "Sectio 2, art. 3: UTRUM HOC SACRAMENTUM CONVENIENTER"
+          }
+        },
+        {
+          "id": "q2-a4",
+          "title": {
+            "la": "Sectio 2, art. 4: UTRUM INSTITUTIO HUJUS SACRAMENTI FUERIT"
+          }
+        },
+        {
+          "id": "q2-a5",
+          "title": {
+            "la": "Sectio 2, art. 5: UTRUM AGNUS PASCHALIS FUERIT PRAECIPUA FIGURA"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "title": {
+        "la": "Sectio 3"
+      },
+      "children": [
+        {
+          "id": "q3-a1",
+          "title": {
+            "la": "Sectio 3, art. 1: UTBUM MATEHIA HUJUS SACRAMENTI"
+          }
+        },
+        {
+          "id": "q3-a2",
+          "title": {
+            "la": "Sectio 3, art. 2: UTRUM REQUIRATUR DETERMINATA QUANTITAS PANIS"
+          }
+        },
+        {
+          "id": "q3-a3",
+          "title": {
+            "la": "Sectio 3, art. 3: UTRUM REQUIRATUR PANIS TRITICEUS"
+          }
+        },
+        {
+          "id": "q3-a4",
+          "title": {
+            "la": "Sectio 3, art. 4: UTHUM HOC SACRAMENTUM DEBEAT CONFICI"
+          }
+        },
+        {
+          "id": "q3-a5",
+          "title": {
+            "la": "Sectio 3, art. 5: UTRUM VINUM DE VITE SIT PROPRIA MATERIA"
+          }
+        },
+        {
+          "id": "q3-a6",
+          "title": {
+            "la": "Sectio 3, art. 6: UTRUM AQUA SIT VINO PERMISCENDA"
+          }
+        },
+        {
+          "id": "q3-a7",
+          "title": {
+            "la": "Sectio 3, art. 7: UTRUM PERMIXTIO AQUffi"
+          }
+        },
+        {
+          "id": "q3-a8",
+          "title": {
+            "la": "Sectio 3, art. 8: UTRUM AQUA DEBEAT"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "title": {
+        "la": "Sectio 4"
+      },
+      "children": [
+        {
+          "id": "q4-a1",
+          "title": {
+            "la": "Sectio 4, art. 1: UTRUM IN HOC SACRAMENTO SIT CORPUS CHRISTI"
+          }
+        },
+        {
+          "id": "q4-a2",
+          "title": {
+            "la": "Sectio 4, art. 2: UTRUM IN HOC SACRAMENTO REMANEAT"
+          }
+        },
+        {
+          "id": "q4-a3",
+          "title": {
+            "la": "Sectio 4, art. 3: UTRUM SUBSTANTIA PANIS ET VINI"
+          }
+        },
+        {
+          "id": "q4-a4",
+          "title": {
+            "la": "Sectio 4, art. 4: UTHUM, FACTA CONSECRATIONE, REMANEAT"
+          }
+        },
+        {
+          "id": "q4-a5",
+          "title": {
+            "la": "Sectio 4, art. 5: UTRUM HXC SIT FALSA: „ EX PANE FIT CORPUS"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "title": {
+        "la": "Sectio 5"
+      },
+      "children": [
+        {
+          "id": "q5-a1",
+          "title": {
+            "la": "Sectio 5, art. 1: UTHUM TOTUS CHRISTUS SIT SUB HOC SACRAMENTO"
+          }
+        },
+        {
+          "id": "q5-a2",
+          "title": {
+            "la": "Sectio 5, art. 2: UTBUM TOTUS CHRISTUS CONTINEATUB"
+          }
+        },
+        {
+          "id": "q5-a3",
+          "title": {
+            "la": "Sectio 5, art. 3: UTRUM SIT TOTUS CHRISTUS SUB QUALIBET"
+          }
+        },
+        {
+          "id": "q5-a4",
+          "title": {
+            "la": "Sectio 5, art. 4: UTRUM TOTA QUANTITAS DIMENSIVA CORPORIS"
+          }
+        },
+        {
+          "id": "q5-a5",
+          "title": {
+            "la": "Sectio 5, art. 5: UTRUM CORPUS CHRISTI SIT IN HOC SACRAMENTO"
+          }
+        },
+        {
+          "id": "q5-a6",
+          "title": {
+            "la": "Sectio 5, art. 6: UTRUM QUANDO IN HOC SACRAMENTO APPARET"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "title": {
+        "la": "Sectio 6"
+      },
+      "children": [
+        {
+          "id": "q6-a1",
+          "title": {
+            "la": "Sectio 6, art. 1: UTRUM ACCIDENTIA PANIS ET VINI REMANEANT SINE"
+          }
+        },
+        {
+          "id": "q6-a2",
+          "title": {
+            "la": "Sectio 6, art. 2: UTRUM IN HOC SACRAMENTO QUANTITAS DIMENSIVA"
+          }
+        },
+        {
+          "id": "q6-a3",
+          "title": {
+            "la": "Sectio 6, art. 3: UTRUM SPECIES SACRAMENTALES FRANGANTUR IN"
+          }
+        },
+        {
+          "id": "q6-a4",
+          "title": {
+            "la": "Sectio 6, art. 4: UTRUM ALIQUIS LIQUOR POSSIT VINO CONSECRATO"
+          }
+        },
+        {
+          "id": "q6-a5",
+          "title": {
+            "la": "Sectio 6, art. 5: UTRUM PR-ffiDICT^ FORMUUE SINT VERyC"
+          }
+        },
+        {
+          "id": "q6-a6",
+          "title": {
+            "la": "Sectio 6, art. 6: UTRUM FORMA CONSECRATIONIS PANIS CONSEQUATUR"
+          }
+        },
+        {
+          "id": "q6-a7",
+          "title": {
+            "la": "Sectio 6, art. 7: UTHUM EFFECTUS EUCHARISTIJE SIT ADEPTIO GLORI/E"
+          }
+        },
+        {
+          "id": "q6-a8",
+          "title": {
+            "la": "Sectio 6, art. 8: UTRUM PER HOC SACRAMENTUM REMITTANTUR"
+          }
+        },
+        {
+          "id": "q6-a9",
+          "title": {
+            "la": "Sectio 6, art. 9: UTRUM PER HOC SACRAMENTUM HOMO PR^ESERVETUB"
+          }
+        },
+        {
+          "id": "q6-a10",
+          "title": {
+            "la": "Sectio 6, art. 10: UTHUM HOC SACRAMENTUM PSOSIT ALIIS QUAM"
+          }
+        },
+        {
+          "id": "q6-a11",
+          "title": {
+            "la": "Sectio 6, art. 11: UTRUM PER VENIALE PECCATUM IMPEDIATUR"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "title": {
+        "la": "Sectio 7"
+      },
+      "children": [
+        {
+          "id": "q7-a1",
+          "title": {
+            "la": "Sectio 7, art. 1: UTRUM DISTINGUI DEBEANT DUO MODI MANDUCANDI"
+          }
+        },
+        {
+          "id": "q7-a2",
+          "title": {
+            "la": "Sectio 7, art. 2: UTRUM SOLIUS HOMINIS SIT HOC SACRAMENTUM"
+          }
+        },
+        {
+          "id": "q7-a3",
+          "title": {
+            "la": "Sectio 7, art. 3: UTRUM PECCATOR. SUMENS CORPUS CHRISTI"
+          }
+        },
+        {
+          "id": "q7-a4",
+          "title": {
+            "la": "Sectio 7, art. 4: UTRUM ACCEDERE AD HOC SACRAMENTUM CUM"
+          }
+        },
+        {
+          "id": "q7-a5",
+          "title": {
+            "la": "Sectio 7, art. 5: UTH. NOCTUBNA POLLUTIO ALIQUEM IMPEDIAT"
+          }
+        },
+        {
+          "id": "q7-a6",
+          "title": {
+            "la": "Sectio 7, art. 6: DE JEJUNIO EUCHARISTICO"
+          }
+        },
+        {
+          "id": "q7-a7",
+          "title": {
+            "la": "Sectio 7, art. 7: UTRUM LICEAT QUOTIDIE HOC SACRAMENTUM SUMERE"
+          }
+        },
+        {
+          "id": "q7-a8",
+          "title": {
+            "la": "Sectio 7, art. 8: UTRUM LICEAT SUMERE CORPUS DOMINI SINE"
+          }
+        },
+        {
+          "id": "q7-a9",
+          "title": {
+            "la": "Sectio 7, art. 9: UTHUM CHRISTUS JUDAE DEDERIT CORPUS SUUM"
+          }
+        },
+        {
+          "id": "q7-a10",
+          "title": {
+            "la": "Sectio 7, art. 10: UTRUM CHRISTUS SUMPSERIT ET DEDERIT DISCIPULIS"
+          }
+        },
+        {
+          "id": "q7-a11",
+          "title": {
+            "la": "Sectio 7, art. 11: UTRUM SI HOC SACRAMENTUM TEMPORE MORTIS"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "title": {
+        "la": "Sectio 8"
+      },
+      "children": [
+        {
+          "id": "q8-a1",
+          "title": {
+            "la": "Sectio 8, art. 1: UTRUM CONSECRATIO HUJUS SACRAMENTI PROPRIE"
+          }
+        },
+        {
+          "id": "q8-a2",
+          "title": {
+            "la": "Sectio 8, art. 2: UTHUM PLURES SACERDOTES POSSINT UNAM EANDEM-"
+          }
+        },
+        {
+          "id": "q8-a3",
+          "title": {
+            "la": "Sectio 8, art. 3: UTRUM PERTINEAT SOLUM AD SACERDOTEM"
+          }
+        },
+        {
+          "id": "q8-a4",
+          "title": {
+            "la": "Sectio 8, art. 4: UTRUM SACERDOS CONSECRANS TENEATUR SUMERE"
+          }
+        },
+        {
+          "id": "q8-a5",
+          "title": {
+            "la": "Sectio 8, art. 5: UTHUM MALUS SACERDOS EUCHARISTIAM CONSECRARE"
+          }
+        },
+        {
+          "id": "q8-a6",
+          "title": {
+            "la": "Sectio 8, art. 6: UTRUM MISSA SACERDOTIS MALI MINUS VALEAT"
+          }
+        },
+        {
+          "id": "q8-a7",
+          "title": {
+            "la": "Sectio 8, art. 7: UTRUM H-ffiRETICI ET SCHISMATICI ET EXCOMMU-"
+          }
+        },
+        {
+          "id": "q8-a8",
+          "title": {
+            "la": "Sectio 8, art. 8: UTRUM ALIQUIS LICITE POSSIT COMMUNIONEM"
+          }
+        },
+        {
+          "id": "q8-a9",
+          "title": {
+            "la": "Sectio 8, art. 9: UTRUM LICEAT SACERDOTI OMNINO"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "title": {
+        "la": "Sectio 9"
+      },
+      "children": [
+        {
+          "id": "q9-a1",
+          "title": {
+            "la": "Sectio 9, art. 1: DE NOTIONE SACRIFICII IN GENERE"
+          }
+        },
+        {
+          "id": "q9-a2",
+          "title": {
+            "la": "Sectio 9, art. 2: DE DIVISIONE SACRIFICII"
+          }
+        },
+        {
+          "id": "q9-a3",
+          "title": {
+            "la": "Sectio 9, art. 3: QUARE OBLATIO SIT ID QUOD PHINCIPALE EST IN"
+          }
+        },
+        {
+          "id": "q9-a4",
+          "title": {
+            "la": "Sectio 9, art. 4: An Christus ut principalis Sacerdos non solum virtua-"
+          }
+        },
+        {
+          "id": "q9-a5",
+          "title": {
+            "la": "Sectio 9, art. 5: QUOMODO PRODUCANTUR EFFECTUS MISS^E"
+          }
+        },
+        {
+          "id": "q9-a6",
+          "title": {
+            "la": "Sectio 9, art. 6: DE VALORE MISSjE"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "title": {
+        "la": "Sectio 10"
+      },
+      "children": [
+        {
+          "id": "q10-a1",
+          "title": {
+            "la": "Sectio 10, art. 1: PJgNITBNTIA EST VIRTUS"
+          }
+        },
+        {
+          "id": "q10-a2",
+          "title": {
+            "la": "Sectio 10, art. 2: P-ffiNITENTIA EST VIRTUS SPECIALIS"
+          }
+        },
+        {
+          "id": "q10-a3",
+          "title": {
+            "la": "Sectio 10, art. 3: AD QUAMNAM VIRTUTEM CARDINALEM ANNECTITUR"
+          }
+        },
+        {
+          "id": "q10-a4",
+          "title": {
+            "la": "Sectio 10, art. 4: QUODNAM EST PROPRIUM SUBJECTUM P^NITENTIAS?"
+          }
+        },
+        {
+          "id": "q10-a5",
+          "title": {
+            "la": "Sectio 10, art. 5: QUffiNAM EST RELATIO ACTUS P^NITENTI^"
+          }
+        },
+        {
+          "id": "q10-a6",
+          "title": {
+            "la": "Sectio 10, art. 6: UTRUM P_NITENTIA SIT PRIMA VIRTUTUM"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "title": {
+        "la": "Sectio 11"
+      },
+      "children": [
+        {
+          "id": "q11-a1",
+          "title": {
+            "la": "Sectio 11, art. 1: DE IPSA POTESTATE CLAVIUM ECCLESLffi"
+          }
+        },
+        {
+          "id": "q11-a2",
+          "title": {
+            "la": "Sectio 11, art. 2: DE EXISTENTIA ET DENOMINATIONE SACRAMENTI"
+          }
+        },
+        {
+          "id": "q11-a3",
+          "title": {
+            "la": "Sectio 11, art. 3: DE MINISTRO POTESTATIS CLAVIUM"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "title": {
+        "la": "Sectio 12"
+      },
+      "children": [
+        {
+          "id": "q12-a1",
+          "title": {
+            "la": "Sectio 12, art. 1: Sacerdotes Vetorls Testamenti non babebant claves. sed in"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "title": {
+        "la": "Sectio 13"
+      },
+      "children": [
+        {
+          "id": "q13-a1",
+          "title": {
+            "la": "Sectio 13, art. 1: ESSENTIA SACRAMENTI VERE SALVATUR"
+          }
+        },
+        {
+          "id": "q13-a2",
+          "title": {
+            "la": "Sectio 13, art. 2: DE MATERIA SACRAMENTI P.ffiNITENTI.ffi"
+          }
+        },
+        {
+          "id": "q13-a3",
+          "title": {
+            "la": "Sectio 13, art. 3: DE FORMA SACRAMENTI P./ENITENTI/E"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "title": {
+        "la": "Sectio 14"
+      },
+      "children": [
+        {
+          "id": "q14-a1",
+          "title": {
+            "la": "Sectio 14, art. 1: UTRUM CONTRITIO SIT DOLOR PRO PECCATIS"
+          }
+        },
+        {
+          "id": "q14-a2",
+          "title": {
+            "la": "Sectio 14, art. 2: UTRUM CONTRITIO SIT ACTUS VIRTUTIS"
+          }
+        },
+        {
+          "id": "q14-a3",
+          "title": {
+            "la": "Sectio 14, art. 3: UTRUM ATTRITIO POSSIT FIERI CONTRITIO"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "title": {
+        "la": "Sectio 15"
+      },
+      "children": [
+        {
+          "id": "q15-a1",
+          "title": {
+            "la": "Sectio 15, art. 1: Uttum conlessio soctamentalis omnium et singulorum pecca-"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "title": {
+        "la": "Sectio 16"
+      },
+      "children": [
+        {
+          "id": "q16-a1",
+          "title": {
+            "la": "Sectio 16, art. 1: Quomodo definienda esl satisfactio ut est pais saciamenti?"
+          }
+        },
+        {
+          "id": "q16-a2",
+          "title": {
+            "la": "Sectio 16, art. 2: An vetitas lidei definita a Concilio Tridentino circa satls-"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "title": {
+        "la": "Sectio 17"
+      },
+      "children": [
+        {
+          "id": "q17-a1",
+          "title": {
+            "la": "Sectio 17, art. 1: Nullum peccatum est itiemissibile in via. S. Thomas osten-"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "title": {
+        "la": "Sectio 18"
+      },
+      "children": [
+        {
+          "id": "q18-a1",
+          "title": {
+            "la": "Sectio 18, art. 1: Uttum peccatum veniale lemitti possit sine pcenitentia"
+          }
+        }
+      ]
+    }
+  ]
+}
