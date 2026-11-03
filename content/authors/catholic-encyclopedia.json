@@ -6,5 +6,22 @@
   "century": 20,
   "matches": [
     "Charles G. Herbermann, ed. (Robert Appleton Co., 1907–1914)"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Reference",
+        "pt-BR": "Consulta"
+      },
+      "works": [
+        {
+          "work": "catholic-encyclopedia",
+          "why": {
+            "en-US": "The Catholic Encyclopedia, 1907 to 1914",
+            "pt-BR": "A Enciclopédia Católica, de 1907 a 1914"
+          }
+        }
+      ]
+    }
   ]
 }
