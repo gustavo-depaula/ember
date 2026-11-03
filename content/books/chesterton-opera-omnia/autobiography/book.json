@@ -1,0 +1,135 @@
+{
+  "id": "chesterton-autobiography",
+  "cover": "classic",
+  "name": {
+    "en-US": "Autobiography",
+    "pt-BR": "Autobiografia"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's own account of his life, written in the last year of it: the hearsay evidence of his birth, the man with the golden key, how to be a dunce and a lunatic, Notting Hill, the fantastic suburb, the crime of orthodoxy, Fleet Street, the case against corruption, friendship and foolery, political and literary celebrities, and the God with the golden key. Published posthumously in 1936.",
+    "pt-BR": "O relato do próprio Chesterton sobre sua vida, escrito no último ano dela: a prova por ouvir dizer de seu nascimento, o homem da chave de ouro, como ser um burro e um lunático, Notting Hill, o subúrbio fantástico, o crime da ortodoxia, a Fleet Street, o caso contra a corrupção, amizade e extravagância, celebridades políticas e literárias, e o Deus da chave de ouro. Publicada postumamente em 1936."
+  },
+  "composed": "1936",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/autobiography",
+  "editions": {
+    "en-US": {
+      "editor": "Hutchinson & Co.",
+      "year": 1936
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://freeread.de/@RGLibrary/GKChesterton/Biography/Autobiography.html",
+      "edition": "Autobiography (London: Hutchinson, 1936), Roy Glashan's Library / Project Gutenberg Australia transcription.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain in Brazil, the UK and the EU (Chesterton died in 1936). Published in 1936; text taken from Roy Glashan's Library, which carries it under Australian and Canadian law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-hearsay-evidence",
+      "title": {
+        "en-US": "Hearsay Evidence"
+      }
+    },
+    {
+      "id": "ch02-the-man-with-the-golden-key",
+      "title": {
+        "en-US": "The Man with the Golden Key"
+      }
+    },
+    {
+      "id": "ch03-how-to-be-a-dunce",
+      "title": {
+        "en-US": "How to Be a Dunce"
+      }
+    },
+    {
+      "id": "ch04-how-to-be-a-lunatic",
+      "title": {
+        "en-US": "How to Be a Lunatic"
+      }
+    },
+    {
+      "id": "ch05-nationalism-and-notting-hill",
+      "title": {
+        "en-US": "Nationalism and Notting Hill"
+      }
+    },
+    {
+      "id": "ch06-the-fantastic-suburb",
+      "title": {
+        "en-US": "The Fantastic Suburb"
+      }
+    },
+    {
+      "id": "ch07-the-crime-of-orthodoxy",
+      "title": {
+        "en-US": "The Crime of Orthodoxy"
+      }
+    },
+    {
+      "id": "ch08-figures-in-fleet-street",
+      "title": {
+        "en-US": "Figures in Fleet Street"
+      }
+    },
+    {
+      "id": "ch09-the-case-against-corruption",
+      "title": {
+        "en-US": "The Case Against Corruption"
+      }
+    },
+    {
+      "id": "ch10-friendship-and-foolery",
+      "title": {
+        "en-US": "Friendship and Foolery"
+      }
+    },
+    {
+      "id": "ch11-the-shadow-of-the-sword",
+      "title": {
+        "en-US": "The Shadow of the Sword"
+      }
+    },
+    {
+      "id": "ch12-some-political-celebrities",
+      "title": {
+        "en-US": "Some Political Celebrities"
+      }
+    },
+    {
+      "id": "ch13-some-literary-celebrities",
+      "title": {
+        "en-US": "Some Literary Celebrities"
+      }
+    },
+    {
+      "id": "ch14-portrait-of-a-friend",
+      "title": {
+        "en-US": "Portrait of a Friend"
+      }
+    },
+    {
+      "id": "ch15-the-incomplete-traveller",
+      "title": {
+        "en-US": "The Incomplete Traveller"
+      }
+    },
+    {
+      "id": "ch16-the-god-with-the-golden-key",
+      "title": {
+        "en-US": "The God with the Golden Key"
+      }
+    }
+  ]
+}
