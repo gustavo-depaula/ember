@@ -13,18 +13,23 @@
   },
   "description": {
     "la": "Homiliae IV super Missus est angelus Gabriel, quae De laudibus Virginis Matris inscribuntur.",
-    "en-US": "Bernard’s four homilies on the Annunciation, Missus est angelus Gabriel, the work known as the Praises of the Virgin Mother (the Missus est), with Mabillon’s monitum and preface. The Latin is the Maurist text in Migne (Patrologia Latina 183, 1854). Latin only, from the Maurist text in Migne, a machine-corrected OCR.",
+    "en-US": "Bernard’s four homilies on the Annunciation, Missus est angelus Gabriel, the work known as the Praises of the Virgin Mother (the Missus est), with Mabillon’s monitum and preface. The Latin is the Maurist text in Migne (Patrologia Latina 183, 1854). Latin only, from the Maurist text in Migne, a machine-corrected OCR. The English is the version of a priest of Mount Melleray (Dublin, 1921). The English is the version of a priest of Mount Melleray (Dublin, 1921). The English is the version of a priest of Mount Melleray (Dublin, 1921).",
     "pt-BR": "As quatro homilias de Bernardo sobre a Anunciação, Missus est angelus Gabriel, conhecidas como Louvores da Virgem Mãe, com o monitum e o prefácio de Mabillon."
   },
   "composed": "c. 1120",
   "languages": [
-    "la"
+    "la",
+    "en-US"
   ],
   "work": "bernard/in-laudibus-virginis-matris",
   "editions": {
     "la": {
       "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 183)",
       "year": 1854
+    },
+    "en-US": {
+      "translator": "A priest of Mount Melleray (Ailbe Luddy)",
+      "year": 1921
     }
   },
   "sources": [
@@ -35,6 +40,30 @@
       "description": "The complete text with Mabillon’s admonitio, chapter headings and summaries. PL page breaks and column numbers are dropped, and so are the paragraph numbers; Scripture references stay in parentheses as printed.",
       "tier": "A",
       "tierEvidence": "Bernard died in 1153; Migne’s printing is public domain everywhere."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/stbernardssermon0001prie_y4z3",
+      "edition": "St. Bernard's Sermons for the Seasons and Principal Festivals of the Year, translated from the original Latin by a Priest of Mount Melleray, vol. 1 (Dublin: Browne and Nolan, 1921).",
+      "description": "The four sermons on the glories of the Virgin Mother (Bernard's four homilies In laudibus Virginis Matris, 'Missus est'). Archive.org OCR cleaned by script, not proofread; the running heads are stripped by pattern and the translator's occasional footnotes are not kept. The translator (a priest of Mount Melleray, Ailbe Luddy) divides and orders the sermons by the liturgical calendar as listed here,.",
+      "tier": "A",
+      "tierEvidence": "Published in 1921, before 1931: public domain in the US."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/stbernardssermon0001prie_y4z3",
+      "edition": "St. Bernard's Sermons for the Seasons and Principal Festivals of the Year, translated from the original Latin by a Priest of Mount Melleray, vol. 1 (Dublin: Browne and Nolan, 1921).",
+      "description": "The four sermons on the glories of the Virgin Mother (Bernard's four homilies In laudibus Virginis Matris, 'Missus est'). Archive.org OCR cleaned by script, not proofread; the running heads are stripped by pattern and the translator's occasional footnotes are not kept. The translator (a priest of Mount Melleray, Ailbe Luddy) divides and orders the sermons by the liturgical calendar as listed here,.",
+      "tier": "A",
+      "tierEvidence": "Published in 1921, before 1931: public domain in the US."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/stbernardssermon0001prie_y4z3",
+      "edition": "St. Bernard's Sermons for the Seasons and Principal Festivals of the Year, translated from the original Latin by a Priest of Mount Melleray, vol. 1 (Dublin: Browne and Nolan, 1921).",
+      "description": "The four sermons on the glories of the Virgin Mother (Bernard's four homilies In laudibus Virginis Matris, 'Missus est'). Archive.org OCR cleaned by script, not proofread; the running heads are stripped by pattern and the translator's occasional footnotes are not kept. The translator (a priest of Mount Melleray, Ailbe Luddy) divides and orders the sermons by the liturgical calendar as listed here,.",
+      "tier": "A",
+      "tierEvidence": "Published in 1921, before 1931: public domain in the US."
     }
   ],
   "toc": [
@@ -53,25 +82,29 @@
     {
       "id": "h001",
       "title": {
-        "la": "Homilia I. Missus est angelus Gabriel a Deo in civitatem Galilaeae, cui nomen Nazareth, ad Virginem desponsatam viro, cui nomen erat Joseph, de domo David: et nomen Virginis Maria (Luc. I, 26, 27)"
+        "la": "Homilia I. Missus est angelus Gabriel a Deo in civitatem Galilaeae, cui nomen Nazareth, ad Virginem desponsatam viro, cui nomen erat Joseph, de domo David: et nomen Virginis Maria (Luc. I, 26, 27)",
+        "en-US": "Homily 1"
       }
     },
     {
       "id": "h002",
       "title": {
-        "la": "Homilia II. In Luc. I, 26, 27"
+        "la": "Homilia II. In Luc. I, 26, 27",
+        "en-US": "Homily 2"
       }
     },
     {
       "id": "h003",
       "title": {
-        "la": "Homilia III. In Luc. cap. I, 28-32"
+        "la": "Homilia III. In Luc. cap. I, 28-32",
+        "en-US": "Homily 3"
       }
     },
     {
       "id": "h004",
       "title": {
-        "la": "Homilia IV. In Luc. cap. I, V. 32-38"
+        "la": "Homilia IV. In Luc. cap. I, V. 32-38",
+        "en-US": "Homily 4"
       }
     }
   ]
