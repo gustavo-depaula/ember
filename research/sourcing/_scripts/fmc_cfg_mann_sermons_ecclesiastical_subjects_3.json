@@ -1,0 +1,90 @@
+{
+ "id": "manning-sermons-ecclesiastical-subjects-3",
+ "dir": "manning-opera-omnia/sermons-ecclesiastical-subjects-3",
+ "slug": "sermons-ecclesiastical-subjects-3",
+ "work": "manning/sermons-ecclesiastical-subjects",
+ "name": "Sermons on Ecclesiastical Subjects, III",
+ "name_pt": "Serm\u00f5es sobre Assuntos Eclesi\u00e1sticos, III",
+ "author": "Cardinal Henry Edward Manning",
+ "author_pt": "Cardeal Henry Edward Manning",
+ "died": 1892,
+ "desc": "Sermons on Ecclesiastical Subjects, volume III (1866-72): the introduction and eleven sermons preached in the Pro-Cathedral on the temporal power of the Pope, Rome and the Revolution, Christ and Antichrist, the Syllabus, the Vatican Council, the pontificate of Pius IX, the divine commonwealth and the triumph of the Church.",
+ "desc_pt": "Serm\u00f5es sobre Assuntos Eclesi\u00e1sticos, volume III (1866-72): a introdu\u00e7\u00e3o e onze serm\u00f5es pregados na Pr\u00f3-Catedral sobre o poder temporal do Papa, Roma e a Revolu\u00e7\u00e3o, Cristo e o Anticristo, o Syllabus, o Conc\u00edlio Vaticano, o pontificado de P\u00edo IX, a rep\u00fablica divina e o triunfo da Igreja.",
+ "composed": 1873,
+ "editor": "Henry Edward Manning (London: Burns, Oates and Co., 1873)",
+ "year": 1873,
+ "url": "https://archive.org/details/a591990803mannuoft",
+ "edition": "Sermons on Ecclesiastical Subjects (vol. 3) (London: Burns, Oates and Co., 1873), Internet Archive full-text OCR.",
+ "srcnote": "The sermons and the introduction; the contents, the errata and the index are dropped.",
+ "src": "manning/ia/a591990803mannuoft_djvu.txt",
+ "start": 145,
+ "end": 12418,
+ "fn": true,
+ "back": [],
+ "front": [],
+ "label": {},
+ "romanheads": false,
+ "inline": [],
+ "units": [
+  {
+   "id": "introduction",
+   "title": "Introduction",
+   "from": 145
+  },
+  {
+   "id": "sermon-1",
+   "title": "Sermon I. The Temporal Power of the Pope in its Political Aspect",
+   "from": 3272
+  },
+  {
+   "id": "sermon-2",
+   "title": "Sermon II. Rome and the Revolution",
+   "from": 4137
+  },
+  {
+   "id": "sermon-3",
+   "title": "Sermon III. Christ and Antichrist",
+   "from": 4787
+  },
+  {
+   "id": "sermon-4",
+   "title": "Sermon IV. The Syllabus",
+   "from": 5403
+  },
+  {
+   "id": "sermon-5",
+   "title": "Sermon V. Popular Objections to the Vatican Council",
+   "from": 6030
+  },
+  {
+   "id": "sermon-6",
+   "title": "Sermon VI. Rome the Capital of Christendom",
+   "from": 6808
+  },
+  {
+   "id": "sermon-7",
+   "title": "Sermon VII. The Pontificate of Pius IX and the Years of Peter",
+   "from": 7727
+  },
+  {
+   "id": "sermon-8",
+   "title": "Sermon VIII. The Divine Commonwealth",
+   "from": 8498
+  },
+  {
+   "id": "sermon-9",
+   "title": "Sermon IX. The Triumph of the Church",
+   "from": 9420
+  },
+  {
+   "id": "sermon-10",
+   "title": "Sermon X. The Glory of the Church Always Progressive",
+   "from": 10137
+  },
+  {
+   "id": "sermon-11",
+   "title": "Sermon XI. The Day of the Lord",
+   "from": 10829
+  }
+ ]
+}
