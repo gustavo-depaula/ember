@@ -1,0 +1,255 @@
+{
+  "id": "chesterton-as-i-was-saying",
+  "cover": "classic",
+  "name": {
+    "en-US": "As I Was Saying",
+    "pt-BR": "Como eu Dizia"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Thirty-six essays from the Illustrated London News in Chesterton's last year, each beginning About: mad metaphors, loving Germans, impenitence, traffic, the censor, Voltaire, beliefs, shockers, beggars and soldiers, sacrifice and royal weddings.",
+    "pt-BR": "Trinta e seis ensaios do Illustrated London News do último ano de Chesterton, cada um começando com Sobre: metáforas loucas, amar os alemães, impenitência, tráfego, o censor, Voltaire, crenças, chocantes, mendigos e soldados, sacrifício e casamentos reais."
+  },
+  "composed": "1936",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/as-i-was-saying",
+  "editions": {
+    "en-US": {
+      "editor": "Methuen & Co.",
+      "year": 1936
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.net.au/ebooks09/0900741h.html",
+      "edition": "As I Was Saying (Methuen & Co., 1936), Project Gutenberg Australia, ebooks09/0900741h.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain in Brazil, the UK and the EU (Chesterton died in 1936). Published in 1936; text taken from Project Gutenberg Australia, which carries it under Australian law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-about-mad-metaphors",
+      "title": {
+        "en-US": "About Mad Metaphors"
+      }
+    },
+    {
+      "id": "ch02-about-loving-germans",
+      "title": {
+        "en-US": "About Loving Germans"
+      }
+    },
+    {
+      "id": "ch03-about-impenitence",
+      "title": {
+        "en-US": "About Impenitence"
+      }
+    },
+    {
+      "id": "ch04-about-traffic",
+      "title": {
+        "en-US": "About Traffic"
+      }
+    },
+    {
+      "id": "ch05-about-the-censor",
+      "title": {
+        "en-US": "About the Censor"
+      }
+    },
+    {
+      "id": "ch06-about-shamelessness",
+      "title": {
+        "en-US": "About Shamelessness"
+      }
+    },
+    {
+      "id": "ch07-about-puritanism",
+      "title": {
+        "en-US": "About Puritanism"
+      }
+    },
+    {
+      "id": "ch08-about-sir-james-jeans",
+      "title": {
+        "en-US": "About Sir James Jeans"
+      }
+    },
+    {
+      "id": "ch09-about-voltaire",
+      "title": {
+        "en-US": "About Voltaire"
+      }
+    },
+    {
+      "id": "ch10-about-beliefs",
+      "title": {
+        "en-US": "About Beliefs"
+      }
+    },
+    {
+      "id": "ch11-about-modern-girls",
+      "title": {
+        "en-US": "About Modern Girls"
+      }
+    },
+    {
+      "id": "ch12-about-poetry",
+      "title": {
+        "en-US": "About Poetry"
+      }
+    },
+    {
+      "id": "ch13-about-blondes",
+      "title": {
+        "en-US": "About Blondes"
+      }
+    },
+    {
+      "id": "ch14-about-s-t-c",
+      "title": {
+        "en-US": "About S.t.c"
+      }
+    },
+    {
+      "id": "ch15-about-the-past",
+      "title": {
+        "en-US": "About the Past"
+      }
+    },
+    {
+      "id": "ch16-about-meredith",
+      "title": {
+        "en-US": "About Meredith"
+      }
+    },
+    {
+      "id": "ch17-about-political-creeds",
+      "title": {
+        "en-US": "About Political Creeds"
+      }
+    },
+    {
+      "id": "ch18-about-shirts",
+      "title": {
+        "en-US": "About Shirts"
+      }
+    },
+    {
+      "id": "ch19-about-white-fronts",
+      "title": {
+        "en-US": "About White Fronts"
+      }
+    },
+    {
+      "id": "ch20-about-impermanence",
+      "title": {
+        "en-US": "About Impermanence"
+      }
+    },
+    {
+      "id": "ch21-about-morris",
+      "title": {
+        "en-US": "About Morris"
+      }
+    },
+    {
+      "id": "ch22-about-widows",
+      "title": {
+        "en-US": "About Widows"
+      }
+    },
+    {
+      "id": "ch23-about-relativity",
+      "title": {
+        "en-US": "About Relativity"
+      }
+    },
+    {
+      "id": "ch24-about-changing-human-nature",
+      "title": {
+        "en-US": "About Changing Human Nature"
+      }
+    },
+    {
+      "id": "ch25-about-historians",
+      "title": {
+        "en-US": "About Historians"
+      }
+    },
+    {
+      "id": "ch26-about-bad-comparisons",
+      "title": {
+        "en-US": "About Bad Comparisons"
+      }
+    },
+    {
+      "id": "ch27-about-change",
+      "title": {
+        "en-US": "About Change"
+      }
+    },
+    {
+      "id": "ch28-about-the-workers",
+      "title": {
+        "en-US": "About the Workers"
+      }
+    },
+    {
+      "id": "ch29-about-education",
+      "title": {
+        "en-US": "About Education"
+      }
+    },
+    {
+      "id": "ch30-about-the-telephone",
+      "title": {
+        "en-US": "About the Telephone"
+      }
+    },
+    {
+      "id": "ch31-about-the-films",
+      "title": {
+        "en-US": "About the Films"
+      }
+    },
+    {
+      "id": "ch32-about-darwinism",
+      "title": {
+        "en-US": "About Darwinism"
+      }
+    },
+    {
+      "id": "ch33-about-shockers",
+      "title": {
+        "en-US": "About Shockers"
+      }
+    },
+    {
+      "id": "ch34-about-beggars-and-soldiers",
+      "title": {
+        "en-US": "About Beggars and Soldiers"
+      }
+    },
+    {
+      "id": "ch35-about-sacrifice",
+      "title": {
+        "en-US": "About Sacrifice"
+      }
+    },
+    {
+      "id": "ch36-about-royal-weddings",
+      "title": {
+        "en-US": "About Royal Weddings"
+      }
+    }
+  ]
+}
