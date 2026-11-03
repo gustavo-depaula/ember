@@ -1,6 +1,31 @@
 {
-  "name": { "en-US": "St. Peter Canisius", "pt-BR": "São Pedro Canísio" },
+  "name": {
+    "en-US": "St. Peter Canisius",
+    "pt-BR": "São Pedro Canísio"
+  },
   "century": 16,
   "saint": "peter_canisius",
-  "matches": ["Peter Canisius", "St. Peter Canisius", "Canisius, Petrus, Saint, 1521-1597"]
+  "matches": [
+    "Peter Canisius",
+    "St. Peter Canisius",
+    "Canisius, Petrus, Saint, 1521-1597",
+    "Peter Canisius, translated by Henry Garnet"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "The catechism",
+        "pt-BR": "O catecismo"
+      },
+      "works": [
+        {
+          "work": "canisius/summa-doctrinae-christianae",
+          "why": {
+            "en-US": "The great catechism of the Counter-Reformation, in English",
+            "pt-BR": "O grande catecismo da Contrarreforma, em inglês"
+          }
+        }
+      ]
+    }
+  ]
 }
