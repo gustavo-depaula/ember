@@ -1,0 +1,81 @@
+{
+  "id": "manning-pastoral-office",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Pastoral Office",
+    "pt-BR": "O Ofício Pastoral"
+  },
+  "author": {
+    "en-US": "Cardinal Henry Edward Manning",
+    "pt-BR": "Cardeal Henry Edward Manning"
+  },
+  "description": {
+    "en-US": "The Pastoral Office (1883): Manning on the episcopate and the priesthood as states of perfection: its jurisdiction and perfection, the episcopate in Scripture and in three periods of tradition, the episcopate the state of perfection, the state of perfection in the priesthood, and a conclusion.",
+    "pt-BR": "O Ofício Pastoral (1883): Manning sobre o epíscopado e o sacerdócio como estados de perfeição: sua jurisdição e perfeição, o epíscopado na Escritura e em três períodos da tradição, o epíscopado como estado de perfeição, o estado de perfeição no sacerdócio e uma conclusão."
+  },
+  "composed": 1883,
+  "languages": [
+    "en-US"
+  ],
+  "work": "manning/pastoral-office",
+  "editions": {
+    "en-US": {
+      "editor": "Henry Edward Manning (London: privately printed, 1883)",
+      "year": 1883
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/pastoraloffice00mannuoft",
+      "edition": "The Pastoral Office (London: privately printed, 1883), Internet Archive full-text OCR.",
+      "description": "The preface and the six chapters; the contents and the index are dropped. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Cardinal Henry Edward Manning died in 1892 and the edition is of 1883, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "chapter-1",
+      "title": {
+        "en-US": "Chapter I. The Episcopate: its Jurisdiction and Perfection"
+      }
+    },
+    {
+      "id": "chapter-2",
+      "title": {
+        "en-US": "Chapter II. The Nature of the Episcopate as Described in Scripture"
+      }
+    },
+    {
+      "id": "chapter-3",
+      "title": {
+        "en-US": "Chapter III. The Doctrine of the Episcopate in Three Periods of Tradition"
+      }
+    },
+    {
+      "id": "chapter-4",
+      "title": {
+        "en-US": "Chapter IV. The Episcopate the State of Perfection"
+      }
+    },
+    {
+      "id": "chapter-5",
+      "title": {
+        "en-US": "Chapter V. The State of Perfection in the Priesthood"
+      }
+    },
+    {
+      "id": "chapter-6",
+      "title": {
+        "en-US": "Chapter VI. Conclusion"
+      }
+    }
+  ]
+}
