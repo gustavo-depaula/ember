@@ -1,0 +1,159 @@
+{
+  "id": "chesterton-varied-types",
+  "cover": "classic",
+  "name": {
+    "en-US": "Varied Types",
+    "pt-BR": "Tipos Variados"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's collection of literary and historical portraits: Charlotte Brontë, William Morris, Byron, Pope, St. Francis, Rostand, Charles II, Stevenson, Carlyle, Tolstoy, Savonarola, Scott, Bret Harte, Alfred the Great, Maeterlinck, Ruskin, Queen Victoria, Tennyson and Mrs Browning.",
+    "pt-BR": "A coletânea de retratos literários e históricos de Chesterton: Charlotte Brontë, William Morris, Byron, Pope, São Francisco, Rostand, Carlos II, Stevenson, Carlyle, Tolstói, Savonarola, Scott, Bret Harte, Alfredo o Grande, Maeterlinck, Ruskin, a Rainha Vitória, Tennyson e Mrs. Browning."
+  },
+  "composed": "1903",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/varied-types",
+  "editions": {
+    "en-US": {
+      "editor": "Dodd, Mead and Company",
+      "year": 1903
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/14203",
+      "edition": "Varied Types (Dodd, Mead and Company, 1903), Project Gutenberg #14203.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1903 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-charlotte-bronte",
+      "title": {
+        "en-US": "Charlotte Brontë"
+      }
+    },
+    {
+      "id": "ch02-william-morris-and-his-school",
+      "title": {
+        "en-US": "William Morris and his School"
+      }
+    },
+    {
+      "id": "ch03-optimism-of-byron",
+      "title": {
+        "en-US": "Optimism of Byron"
+      }
+    },
+    {
+      "id": "ch04-pope-and-the-art-of-satire",
+      "title": {
+        "en-US": "Pope and the Art of Satire"
+      }
+    },
+    {
+      "id": "ch05-st-francis-of-assisi",
+      "title": {
+        "en-US": "St. Francis of Assisi"
+      }
+    },
+    {
+      "id": "ch06-rostand",
+      "title": {
+        "en-US": "Rostand"
+      }
+    },
+    {
+      "id": "ch07-charles-ii",
+      "title": {
+        "en-US": "Charles II"
+      }
+    },
+    {
+      "id": "ch08-stevenson",
+      "title": {
+        "en-US": "Stevenson"
+      }
+    },
+    {
+      "id": "ch09-thomas-carlyle",
+      "title": {
+        "en-US": "Thomas Carlyle"
+      }
+    },
+    {
+      "id": "ch10-tolstoy-and-the-cult-of-simplicity",
+      "title": {
+        "en-US": "Tolstoy and the Cult of Simplicity"
+      }
+    },
+    {
+      "id": "ch11-savonarola",
+      "title": {
+        "en-US": "Savonarola"
+      }
+    },
+    {
+      "id": "ch12-the-position-of-sir-walter-scott",
+      "title": {
+        "en-US": "The Position of Sir Walter Scott"
+      }
+    },
+    {
+      "id": "ch13-bret-harte",
+      "title": {
+        "en-US": "Bret Harte"
+      }
+    },
+    {
+      "id": "ch14-alfred-the-great",
+      "title": {
+        "en-US": "Alfred the Great"
+      }
+    },
+    {
+      "id": "ch15-maeterlinck",
+      "title": {
+        "en-US": "Maeterlinck"
+      }
+    },
+    {
+      "id": "ch16-ruskin",
+      "title": {
+        "en-US": "Ruskin"
+      }
+    },
+    {
+      "id": "ch17-queen-victoria",
+      "title": {
+        "en-US": "Queen Victoria"
+      }
+    },
+    {
+      "id": "ch18-the-german-emperor",
+      "title": {
+        "en-US": "The German Emperor"
+      }
+    },
+    {
+      "id": "ch19-tennyson",
+      "title": {
+        "en-US": "Tennyson"
+      }
+    },
+    {
+      "id": "ch20-elizabeth-barrett-browning",
+      "title": {
+        "en-US": "Elizabeth Barrett Browning"
+      }
+    }
+  ]
+}
