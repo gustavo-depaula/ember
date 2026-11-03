@@ -6,5 +6,22 @@
   "century": 2,
   "matches": [
     "Aristides the Philosopher"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Apology",
+        "pt-BR": "Apologia"
+      },
+      "works": [
+        {
+          "work": "aristides-apology",
+          "why": {
+            "en-US": "The Apology",
+            "pt-BR": "A Apologia"
+          }
+        }
+      ]
+    }
   ]
 }
