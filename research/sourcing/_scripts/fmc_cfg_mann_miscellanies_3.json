@@ -1,0 +1,145 @@
+{
+ "id": "manning-miscellanies-3",
+ "dir": "manning-opera-omnia/miscellanies-3",
+ "slug": "miscellanies-3",
+ "work": "manning/miscellanies",
+ "name": "Miscellanies, III",
+ "name_pt": "Miscel\u00e2nea, III",
+ "author": "Cardinal Henry Edward Manning",
+ "author_pt": "Cardeal Henry Edward Manning",
+ "died": 1892,
+ "desc": "Miscellanies, volume III (1888): essays of 1880-88 on the Education Act of 1870, the Christianity of England, the parliamentary oath, St. Francis de Sales, W. G. Ward, the Salvation Army, emigration, the national vice, the Papacy and the Reformation, Henry VIII and the monasteries, the law of nature, the soul after death, and the Church its own witness.",
+ "desc_pt": "Miscel\u00e2nea, volume III (1888): ensaios de 1880-88 sobre a Lei da Educa\u00e7\u00e3o de 1870, o cristianismo da Inglaterra, o juramento parlamentar, S. Francisco de Sales, W. G. Ward, o Ex\u00e9rcito da Salva\u00e7\u00e3o, a emigra\u00e7\u00e3o, o v\u00edcio nacional, o papado e a Reforma, Henrique VIII e os mosteiros, a lei natural, a alma antes e depois da morte e a Igreja testemunha de si mesma.",
+ "composed": 1888,
+ "editor": "Henry Edward Manning (London: Burns and Oates, 1888)",
+ "year": 1888,
+ "url": "https://archive.org/details/miscellanies03mannuoft",
+ "edition": "Miscellanies (vol. 3) (London: Burns and Oates, 1888), Internet Archive full-text OCR.",
+ "srcnote": "The essays, lectures and addresses in order; the contents, the publisher's list and the index are dropped.",
+ "src": "manning/ia/miscellanies03mannuoft_djvu.txt",
+ "start": 191,
+ "end": 16697,
+ "fn": true,
+ "back": [],
+ "front": [],
+ "label": {},
+ "romanheads": false,
+ "inline": [],
+ "units": [
+  {
+   "id": "essay-1",
+   "title": "I. Is the Education Act of 1870 a Just Law?",
+   "from": 191
+  },
+  {
+   "id": "essay-2",
+   "title": "II. The Working of the Education Act of 1870 Unequal: therefore Unjust",
+   "from": 947
+  },
+  {
+   "id": "essay-3",
+   "title": "III. Is the Christianity of England Worth Preserving?",
+   "from": 1738
+  },
+  {
+   "id": "appendix",
+   "title": "Appendix to III: Suggestions on the Education Act",
+   "from": 2953
+  },
+  {
+   "id": "essay-4",
+   "title": "IV. An Englishman's Protest",
+   "from": 3556
+  },
+  {
+   "id": "essay-5",
+   "title": "V. An Englishman's Second Protest",
+   "from": 3556
+  },
+  {
+   "id": "essay-6",
+   "title": "VI. Parliamentary Oaths",
+   "from": 4547
+  },
+  {
+   "id": "essay-7",
+   "title": "VII. Without God, No Commonwealth",
+   "from": 4982
+  },
+  {
+   "id": "essay-8",
+   "title": "VIII. S. Francis of Sales",
+   "from": 5787
+  },
+  {
+   "id": "essay-9",
+   "title": "IX. William George Ward",
+   "from": 5982
+  },
+  {
+   "id": "essay-10",
+   "title": "X. The Salvation Army",
+   "from": 6502
+  },
+  {
+   "id": "essay-11",
+   "title": "XI. Why are our People Unwilling to Emigrate",
+   "from": 7036
+  },
+  {
+   "id": "essay-12",
+   "title": "XII. Our National Vice",
+   "from": 8230
+  },
+  {
+   "id": "essay-13",
+   "title": "XIII. History of the Papacy during the Reformation",
+   "from": 8630
+  },
+  {
+   "id": "essay-14",
+   "title": "XIV. A Pleading for the Worthless",
+   "from": 9103
+  },
+  {
+   "id": "essay-15",
+   "title": "XV. Henry VIII and the English Monasteries",
+   "from": 9726
+  },
+  {
+   "id": "essay-16",
+   "title": "XVI. The Catholic Church and Modern Society",
+   "from": 10599
+  },
+  {
+   "id": "essay-17",
+   "title": "XVII. The Work and Wants of the Church in England",
+   "from": 11486
+  },
+  {
+   "id": "essay-18",
+   "title": "XVIII. Outdoor Relief",
+   "from": 13190
+  },
+  {
+   "id": "essay-19",
+   "title": "XIX. The Law of Nature Divine and Supreme",
+   "from": 13407
+  },
+  {
+   "id": "essay-20",
+   "title": "XX. Compensation to the Drink Trade",
+   "from": 13763
+  },
+  {
+   "id": "essay-21",
+   "title": "XXI. The Soul before and after Death",
+   "from": 14074
+  },
+  {
+   "id": "essay-22",
+   "title": "XXII. The Church its own Witness",
+   "from": 15102
+  }
+ ]
+}
