@@ -1,0 +1,17 @@
+# Fable IX. The Departure of Lycon
+
+WHEN same, with her shrill trampet, had an^ Dounoed Lycon*fl departure to the rural ^xk iid fwaiDs of Cyothus, all the (hady woods resounded with a loud and bitter plabt. Echo repeated it with nsoumful voice, and all the rales around, no more^ was heard the pipe's sweet found, or hautboy's merry note, the shepherds, in their grief, destroy their reeds; every thing languished, and the verdant bloom, that beautified the trees, began to fade, the heaven, till then serene, grew black with storms; and rigid Boreas already fliook the groves, as in fell winter; even the moil rnflic deities themlelves were not in* sensible to this their loss: the Dryads ifTued from the hollow trunks of venerable oaks to mourn their Lycon. all these divinities in concert, formed a sad afTembly round a (lately tree, which reared its tower* ing branches to the ikiesi ^d with its wide impene-
+
+THE DEPIRTITKB OV LTCOW. tf)
+
+trable (hade had many ages screened its parent earth» alas! around this aocieot, knotty trank, of vast dia« meter, the wood- land nymphs, where erst they used to trip it and to play, repaired in tears to tell theif doleful tale, he's gone, said they, we ne'er shall set him more; Lycon forsakes us, fn^^tched by ad? erse fortune to be the omaroeot and the delight of other happier fated groves than ours. O no! we may no longer dare to hope to hear his tuneful Toice, or ie« him draw th' elastic bow, and with his mortal (hafti to pierce the rapid birds. Even Pan comes upi forgetful of his pipe; the Fauns and Satyrs ncni suspend their dances; tl^e chearlefs birds can warbk BOW do' more; nothing was heard but frightful criei of owls^ and other boding birds; sweet Phikrael, and all her mates, the same sad silence keep,
+
+Lo! Flora and Pomona, hand in hand, sudden ap* pear, and fmiliog in the grove, the one with chaj^eti crowned, made flowers spring beneath her steps im-' preflcd upon the green; to'ther, in horn of plenty, bore the fruits, which autumn liberal pours upon the earth, to pay the pains of man. take heart, said they, to the aflembly of dejedled gods; Lycon is gone, but he will ne'er forsake this favourite mountain, sacred to Apollo; soon (hall you see him cultivate himself our happy gardens; soon his hand (hall plant the ar* botes green, the plants that nouri(h man, and flowers which conilitute his sweet delight, bewarei O nor-
+
+'^eni galcSy ye nerer blaS, with yoiir peftiferoDs breathy those favoured gardens, where Lycon ihall ioduige ao harmless joy; he, simple nature shail prefer to pomp aod lawless pleasure; he {hall love these plains, and ever shall forsake them with regret.
+
+This said, the moumiog straight was changed to joy, and Lycon's praises now by all were sang; they said, he*ll be a lover of the gardens, as erst Apollo kept. Admetus' flocks: a thousand songs divine now fill the groves, and Lycon's name makes hill and dales resound; the iwains repeat it on their tuneful reeds; the birds themselves, in their f)veet ardefs notes, seem to say fpmewhat like the charming name;. earth is adorned with flowers, enriched with fruits; the gardens gay with hopes of his return, prepare him all the graces of the spring, and autumn's rich magnificence of gifts; the very glances Lycon darts from far upon the pleasant mount, shall fertilize it: then having grubbed the wild and barren plants, the olive and the myrtle he (hall call, till Mars an harvest of new laurels raise.
+
+-t H E
+
+YOUNG PRINCE-

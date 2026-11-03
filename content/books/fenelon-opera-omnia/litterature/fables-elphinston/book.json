@@ -1,0 +1,201 @@
+{
+  "id": "fenelon-fables-elphinston",
+  "cover": "classic",
+  "name": {
+    "en-US": "Fables Composed for the Use of the Duke of Burgundy",
+    "pt-BR": "Fábulas Compostas para o Uso do Duque de Borgonha"
+  },
+  "author": {
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François Fénelon"
+  },
+  "description": {
+    "en-US": "Twenty-seven fables and tales Fénelon wrote to teach the young Duke of Burgundy, his pupil: moral histories of Aristonous, Alibeg, Florisa and others, and short animal fables, in James Elphinston's 1760 version.",
+    "pt-BR": "Vinte e sete fábulas e contos que Fénelon escreveu para instruir o jovem duque de Borgonha: histórias morais de Aristonoo, Alibeg, Florisa e outras, e curtas fábulas de animais, na versão de James Elphinston (1760)."
+  },
+  "composed": 1690,
+  "languages": [
+    "en-US"
+  ],
+  "work": "fenelon/fables",
+  "editions": {
+    "en-US": {
+      "editor": "James Elphinston (London, 1760)",
+      "year": 1760
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/fablescomposedf00fngoog",
+      "edition": "Fables composed for the use of the late Duke of Burgundy, tr. James Elphinston (London, 1760), Google Books scan on the Internet Archive; long-s OCR repaired by lexicon vote.",
+      "description": "The Medal, an epistle attributed to Bayle that follows the fables in the volume, is left out. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "François de Salignac de La Mothe-Fénelon died in 1715 and the edition is of 1760, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "fable-i-the-adventures-of-aristonous",
+      "title": {
+        "en-US": "Fable I. The Adventures of Aristonous"
+      }
+    },
+    {
+      "id": "fable-ii-the-adventures-of-melesichthon",
+      "title": {
+        "en-US": "Fable II. The Adventures of Melesichthon"
+      }
+    },
+    {
+      "id": "fable-iii-aristeus-and-virgil",
+      "title": {
+        "en-US": "Fable III. Aristeus and Virgil"
+      }
+    },
+    {
+      "id": "fable-iv-history-of-alibeg-the-persian",
+      "title": {
+        "en-US": "Fable IV. History of Alibeg the Persian"
+      }
+    },
+    {
+      "id": "fable-v-history-of-rosimund-and-braminth",
+      "title": {
+        "en-US": "Fable V. History of Rosimund and Braminth"
+      }
+    },
+    {
+      "id": "fable-vi-history-of-florisa",
+      "title": {
+        "en-US": "Fable VI. History of Florisa"
+      }
+    },
+    {
+      "id": "fable-vii-history-of-king-alfarout-and-clarisile",
+      "title": {
+        "en-US": "Fable VII. History of King Alfarout and Clarisile"
+      }
+    },
+    {
+      "id": "fable-viii-history-of-an-old-queen-and-a-young-country-maid",
+      "title": {
+        "en-US": "Fable VIII. History of an Old Queen and a Young Country-Maid"
+      }
+    },
+    {
+      "id": "fable-ix-the-departure-of-lycon",
+      "title": {
+        "en-US": "Fable IX. The Departure of Lycon"
+      }
+    },
+    {
+      "id": "fable-x-the-young-prince",
+      "title": {
+        "en-US": "Fable X. The Young Prince"
+      }
+    },
+    {
+      "id": "fable-xi-young-bacchus-and-the-faun",
+      "title": {
+        "en-US": "Fable XI. Young Bacchus and the Faun"
+      }
+    },
+    {
+      "id": "fable-xii-the-nightingale-and-the-linnet",
+      "title": {
+        "en-US": "Fable XII. The Nightingale and the Linnet"
+      }
+    },
+    {
+      "id": "fable-xiii-the-humorist",
+      "title": {
+        "en-US": "Fable XIII. The Humorist"
+      }
+    },
+    {
+      "id": "fable-xiv-the-dragon-and-the-foxes",
+      "title": {
+        "en-US": "Fable XIV. The Dragon and the Foxes"
+      }
+    },
+    {
+      "id": "fable-xv-the-two-foxes",
+      "title": {
+        "en-US": "Fable XV. The Two Foxes"
+      }
+    },
+    {
+      "id": "fable-xvi-the-wolf-and-the-lamb",
+      "title": {
+        "en-US": "Fable XVI. The Wolf and the Lamb"
+      }
+    },
+    {
+      "id": "fable-xvii-the-cat-and-the-rabbits",
+      "title": {
+        "en-US": "Fable XVII. The Cat and the Rabbits"
+      }
+    },
+    {
+      "id": "fable-xviii-the-two-mice",
+      "title": {
+        "en-US": "Fable XVIII. The Two Mice"
+      }
+    },
+    {
+      "id": "fable-xix-the-beasts-choosing-a-king",
+      "title": {
+        "en-US": "Fable XIX. The Beasts Choosing a King"
+      }
+    },
+    {
+      "id": "fable-xx-the-ape",
+      "title": {
+        "en-US": "Fable XX. The Ape"
+      }
+    },
+    {
+      "id": "fable-xxi-the-two-young-lions",
+      "title": {
+        "en-US": "Fable XXI. The Two Young Lions"
+      }
+    },
+    {
+      "id": "fable-xxii-the-bees",
+      "title": {
+        "en-US": "Fable XXII. The Bees"
+      }
+    },
+    {
+      "id": "fable-xxiii-the-bee-and-the-fly",
+      "title": {
+        "en-US": "Fable XXIII. The Bee and the Fly"
+      }
+    },
+    {
+      "id": "fable-xxiv-the-bees-and-the-silk-worms",
+      "title": {
+        "en-US": "Fable XXIV. The Bees and the Silk-Worms"
+      }
+    },
+    {
+      "id": "fable-xxv-the-owl-that-wanted-a-wife",
+      "title": {
+        "en-US": "Fable XXV. The Owl That Wanted a Wife"
+      }
+    },
+    {
+      "id": "fable-xxvi-the-shepherd-cleobulus-and-the-nymph-philida",
+      "title": {
+        "en-US": "Fable XXVI. The Shepherd Cleobulus and the Nymph Philida"
+      }
+    },
+    {
+      "id": "fable-xxvii-chromus-and-mnasylus",
+      "title": {
+        "en-US": "Fable XXVII. Chromus and Mnasylus"
+      }
+    }
+  ]
+}
