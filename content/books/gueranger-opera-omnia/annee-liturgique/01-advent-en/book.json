@@ -1,0 +1,398 @@
+{
+  "id": "gueranger-liturgical-year-01-advent",
+  "name": {
+    "en-US": "The Liturgical Year: Advent",
+    "pt-BR": "O Ano Litúrgico: Advento"
+  },
+  "author": {
+    "en-US": "Dom Prosper Guéranger",
+    "pt-BR": "Dom Prosper Guéranger"
+  },
+  "description": {
+    "en-US": "Volume 1 of the English Liturgical Year (Advent), translated from L’Année liturgique: one chapter per day or feast, with the Latin liturgical texts beside their English. Made from the Internet Archive scan of the 1870 printing; the two-column Latin and English text is separated by script, so some lines may be misassigned.",
+    "pt-BR": "Volume 1 do «Liturgical Year» em inglês (Advento), traduzido de L’Année liturgique: um capítulo por dia ou festa, com os textos litúrgicos em latim ao lado do inglês."
+  },
+  "composed": "1841",
+  "languages": [
+    "en-US"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "en-US": {
+      "translator": "Rev. Dom Laurence Shepherd (Stanbrook Abbey)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/V01TheLiturgicalYear",
+      "edition": "The Liturgical Year, Advent, translated from the French of Dom Prosper Guéranger; printing of 1870 (Stanbrook Abbey / Duffy). Internet Archive scan, OCR text.",
+      "description": "Split at each day or feast heading detected in the running text; running heads and page numbers removed; the Latin and English columns of the liturgical texts, interleaved line by line in the OCR, were separated by language and set as a Latin paragraph followed by its English.",
+      "tier": "A",
+      "tierEvidence": "Guéranger (d. 1875) and the translation printed 1870-1912: public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-introduction",
+      "title": {
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "002-general-preface",
+      "title": {
+        "en-US": "General Preface"
+      }
+    },
+    {
+      "id": "003-chapter-the-first-the-history-of-advent",
+      "title": {
+        "en-US": "Chapter the First. the History of Advent"
+      }
+    },
+    {
+      "id": "004-chapter-the-third-practice-during-advent",
+      "title": {
+        "en-US": "Chapter the Third. Practice During Advent"
+      }
+    },
+    {
+      "id": "005-chapter-the-fourth-morning-and-night-prayers-for",
+      "title": {
+        "en-US": "Chapter the Fourth. Morning and Night Prayers for Advent"
+      }
+    },
+    {
+      "id": "006-chapter-the-fifth-on-hearing-mass-during-the-tim",
+      "title": {
+        "en-US": "Chapter the Fifth. on Hearing Mass During the Time of Advent"
+      }
+    },
+    {
+      "id": "007-chapter-the-sixth-on-holy-communion-during-adven",
+      "title": {
+        "en-US": "Chapter the Sixth. on Holy Communion During Advent"
+      }
+    },
+    {
+      "id": "008-chapter-the-seventh-on-the-office-of-sundays-ves",
+      "title": {
+        "en-US": "Chapter the Seventh. on the Office of Sunday's Vespers; During Advent"
+      }
+    },
+    {
+      "id": "009-chapter-the-eighth-on-the-office-of-compline-dur",
+      "title": {
+        "en-US": "Chapter the Eighth. on the Office of Compline; During Advent"
+      }
+    },
+    {
+      "id": "010-first-sunday-of-advent",
+      "title": {
+        "en-US": "First Sunday of Advent"
+      }
+    },
+    {
+      "id": "011-monday-of-the-first-week-of-advent",
+      "title": {
+        "en-US": "Monday of the First Week of Advent"
+      }
+    },
+    {
+      "id": "012-tuesday-of-the-first-week-of-advent",
+      "title": {
+        "en-US": "Tuesday of the First Week of Advent"
+      }
+    },
+    {
+      "id": "013-wednesday-of-the-first-week-of-advent",
+      "title": {
+        "en-US": "Wednesday of the First Week of Advent"
+      }
+    },
+    {
+      "id": "014-thursday-of-the-first-week-of-advent",
+      "title": {
+        "en-US": "Thursday of the First Week of Advent"
+      }
+    },
+    {
+      "id": "015-friday-of-the-first-week-of-advent",
+      "title": {
+        "en-US": "Friday of the First Week of Advent"
+      }
+    },
+    {
+      "id": "016-saturday-of-the-first-week-of-advent",
+      "title": {
+        "en-US": "Saturday of the First Week of Advent"
+      }
+    },
+    {
+      "id": "017-the-second-sunday-of-advent",
+      "title": {
+        "en-US": "The Second Sunday of Advent"
+      }
+    },
+    {
+      "id": "018-monday-of-the-second-week-of-advent",
+      "title": {
+        "en-US": "Monday of the Second Week of Advent"
+      }
+    },
+    {
+      "id": "019-tuesday-of-the-second-week-of-advent",
+      "title": {
+        "en-US": "Tuesday of the Second Week of Advent"
+      }
+    },
+    {
+      "id": "020-wednesday-of-the-second-week-of-advent",
+      "title": {
+        "en-US": "Wednesday of the Second Week of Advent"
+      }
+    },
+    {
+      "id": "021-thursday-of-the-second-week-of-advent",
+      "title": {
+        "en-US": "Thursday of the Second Week of Advent"
+      }
+    },
+    {
+      "id": "022-friday-of-the-second-week-of-advent",
+      "title": {
+        "en-US": "Friday of the Second Week of Advent"
+      }
+    },
+    {
+      "id": "023-saturday-of-the-second-week-of-advent",
+      "title": {
+        "en-US": "Saturday of the Second Week of Advent"
+      }
+    },
+    {
+      "id": "024-the-third-sunday-of-advent",
+      "title": {
+        "en-US": "The Third Sunday of Advent"
+      }
+    },
+    {
+      "id": "025-monday-of-the-third-week-of-advent",
+      "title": {
+        "en-US": "Monday of the Third Week of Advent"
+      }
+    },
+    {
+      "id": "026-tuesday-of-the-third-week-of-advent",
+      "title": {
+        "en-US": "Tuesday of the Third Week of Advent"
+      }
+    },
+    {
+      "id": "027-wednesday-in-ember-week",
+      "title": {
+        "en-US": "Wednesday in Ember Week"
+      }
+    },
+    {
+      "id": "028-thursday-of-the-third-week-of-advent",
+      "title": {
+        "en-US": "Thursday of the Third Week of Advent"
+      }
+    },
+    {
+      "id": "029-friday-in-ember-week",
+      "title": {
+        "en-US": "Friday in Ember Week"
+      }
+    },
+    {
+      "id": "030-saturday-in-ember-week",
+      "title": {
+        "en-US": "Saturday in Ember Week"
+      }
+    },
+    {
+      "id": "031-the-fourth-sunday-of-advent",
+      "title": {
+        "en-US": "The Fourth Sunday of Advent"
+      }
+    },
+    {
+      "id": "032-monday-of-the-fourth-week-of-advent",
+      "title": {
+        "en-US": "Monday of the Fourth Week of Advent"
+      }
+    },
+    {
+      "id": "033-tuesday-of-the-fourth-week-of-advent",
+      "title": {
+        "en-US": "Tuesday of the Fourth Week of Advent"
+      }
+    },
+    {
+      "id": "034-wednesday-of-the-fourth-week-of-advent",
+      "title": {
+        "en-US": "Wednesday of the Fourth Week of Advent"
+      }
+    },
+    {
+      "id": "035-thursday-of-the-fourth-week-of-advent",
+      "title": {
+        "en-US": "Thursday of the Fourth Week of Advent"
+      }
+    },
+    {
+      "id": "036-friday-of-the-fourth-week-of-advent",
+      "title": {
+        "en-US": "Friday of the Fourth Week of Advent"
+      }
+    },
+    {
+      "id": "037-november-30-saint-andrew-apostle",
+      "title": {
+        "en-US": "November 30 — Saint Andrew, Apostle"
+      }
+    },
+    {
+      "id": "038-december-2-saint-bibiana",
+      "title": {
+        "en-US": "December 2 — Saint Bibiana"
+      }
+    },
+    {
+      "id": "039-december-3-saint-francis-xavier",
+      "title": {
+        "en-US": "December 3 — Saint Francis Xavier"
+      }
+    },
+    {
+      "id": "040-december-4-saint-peter-chrysologus",
+      "title": {
+        "en-US": "December 4 — Saint Peter Chrysologus"
+      }
+    },
+    {
+      "id": "041-december-4-saint-barbara-virgin-and-martyr",
+      "title": {
+        "en-US": "December 4 — Saint Barbara, Virgin and Martyr"
+      }
+    },
+    {
+      "id": "042-december-5-commemoration-of-saint-sabas",
+      "title": {
+        "en-US": "December 5 — Commemoration of Saint Sabas"
+      }
+    },
+    {
+      "id": "043-december-6-saint-nicholas",
+      "title": {
+        "en-US": "December 6 — Saint Nicholas"
+      }
+    },
+    {
+      "id": "044-december-7-saint-ambrose",
+      "title": {
+        "en-US": "December 7 — Saint Ambrose"
+      }
+    },
+    {
+      "id": "045-december-8-the-immaculate-conception",
+      "title": {
+        "en-US": "December 8 — The Immaculate Conception"
+      }
+    },
+    {
+      "id": "046-second-day-within-the-octave",
+      "title": {
+        "en-US": "Second Day Within the Octave"
+      }
+    },
+    {
+      "id": "047-third-day-within-the-octave",
+      "title": {
+        "en-US": "Third Day Within the Octave"
+      }
+    },
+    {
+      "id": "048-december-10-saint-melchiades-pope-and-martyr",
+      "title": {
+        "en-US": "December 10 — Saint Melchiades, Pope and Martyr"
+      }
+    },
+    {
+      "id": "049-the-translation-of-the-holy-house-of-loretto",
+      "title": {
+        "en-US": "The Translation of the Holy House of Loretto"
+      }
+    },
+    {
+      "id": "050-december-10-saint-eulalia-virgin-and-martyr",
+      "title": {
+        "en-US": "December 10 — Saint Eulalia, Virgin and Martyr"
+      }
+    },
+    {
+      "id": "051-december-11-saint-damasus",
+      "title": {
+        "en-US": "December 11 — Saint Damasus"
+      }
+    },
+    {
+      "id": "052-fifth-day-within-the-octave",
+      "title": {
+        "en-US": "Fifth Day Within the Octave"
+      }
+    },
+    {
+      "id": "053-december-13-saint-odilia-virgin-and-abbess",
+      "title": {
+        "en-US": "December 13 — Saint Odilia, Virgin and Abbess"
+      }
+    },
+    {
+      "id": "054-the-seventh-day-within-the-octave-of-the-immacul",
+      "title": {
+        "en-US": "The Seventh Day Within the Octave of the Immaculate Conception"
+      }
+    },
+    {
+      "id": "055-the-octave-of-the-immaculate-conception-of-the-m",
+      "title": {
+        "en-US": "The Octave of the Immaculate Conception of the Most Blessed Virgin"
+      }
+    },
+    {
+      "id": "056-december-16-saint-eusebius",
+      "title": {
+        "en-US": "December 16 — Saint Eusebius"
+      }
+    },
+    {
+      "id": "057-december-18-the-expectation-of-the-blessed-virgi",
+      "title": {
+        "en-US": "December 18 — The Expectation of the Blessed Virgin Mary"
+      }
+    },
+    {
+      "id": "058-december-20-saint-thomas-apostle",
+      "title": {
+        "en-US": "December 20 — Saint Thomas, Apostle"
+      }
+    },
+    {
+      "id": "059-december-21-fifth-antiphon",
+      "title": {
+        "en-US": "December 21 — Fifth Antiphon"
+      }
+    },
+    {
+      "id": "060-christmas-eve",
+      "title": {
+        "en-US": "Christmas Eve"
+      }
+    }
+  ]
+}

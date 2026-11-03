@@ -1,0 +1,695 @@
+# December 8 — The Immaculate Conception
+
+At length, on the distant horizon, rises, with a soft and radiant light, the aurora of the Sun which has been so long desired. The happy Mother of the Messias was to be born before the Messias himself ; and this is the day of the Conception of Mary. The earth already possesses a first pledge of the divine mercy ; the Son of Man is near at hand. Two true Israelites, Joachim and Anne, noble branches of the family of David, find their union, after a long barrenness, made fruitful by the divine omnipotence. Glory be to God, who has been mindful of his promises, and who deigns to announce, from the high heavens, the end of the deluge of iniquity, by -sending upon the earth the sweet white Dove that bears the tidings of peace !
+
+The Feast of the Blessed Virgin's Immaculate Conception is the most solemn of all those which the Church celebrates during the holy time of Advent ; and if the first part of the Cycle had to offer us the commemoration of some one of the Mysteries of Mary, there was none whose object could better harmonise with the spirit of the Church in this mystic season of expectation. Let us, then, celebrate this solemnity with joy ; for the Conception of Mary tells us that the Birth of Jesus is not far off.
+
+The intention of the Church, in this Feast, is not only to celebrate the anniversary of the happy moment in which began, in the womb of the pious
+
+Anne, the life of the ever-glorious Virgin Mary ; but also to honour the sublime privilege, by which Mary was preserved from the original stain, which, by a sovereign and universal decree, is contracted by all the children of Adam the very moment they are conceived in their mother's womb. The faith of the Catholic Church on the subject of the Conception of Mary is this: that at the very instant, when God united the Soul of Mary, which he had created, to the Body which it was to animate, this ever-blessed Soul did not only not contract the stain, which, at that same instant, defiles every human soul, but was filled with an immeasurable grace which rendered her, from that moment, the mirror of the sanctity of God himself, as far as this is possible to a creature. The Church, with her infallible authority, declared, by the lips of Pius the Ninth, that this article of her faith had been revealed by God himself. The Definition was received with enthusiasm by the whole of Christendom, and the Eighth of December of the year 1854 was thus made one of the most memorable days of the Church's history.
+
+It was due to his own infinite sanctity that God should suspend, in this instance, the law which his divine justice had passed upon all the children of Adam. The relations which Mary was to bear to the Divinity, could not be reconciled with her undergoing the humiliation of this punishment. She was not only Daughter of the Eternal Father ; she was destined also to become the very Mother of the Son, and the veritable Spouse of the Holy Ghost; nothing defiled could be permitted to enter, even for an atom of time, into the creature that was thus predestined to contract such close relations with the adorable Trinity; not a speck could be permitted to tarnish in Mary that perfect purity which the infinitely holy God requires in those who are one day to be admitted to enjoy even the sight of his divine majesty in heaven ; in a word, as the great Doctor St. Anselm says, "it was just that this Holy Virgin fhould be " adorned with the greatest purity which can be con- " ceived after that of God himself } since God the Father was to give to her, as her Child, that only " Begotten Son, whom he loved as himself, as being " begotten to him from his own bosom ; and this in " such a manner, that the self-same Son of God was, " by nature, the Son of both God the Father and of " this Blessed Virgin. This same Son chose her to be " substantially his Mother ; and the Holy Ghost " willed that in Her womb he would operate the con- " ception and birth of Him, from whom he himself " proceeded."1
+
+Moreover, the close ties which were to unite the Son of God with Mary, and which would elicit from him the tenderest love and the most filial reverence for her, had been present to the divine thought from all eternity : and the conclusion forces itself upon us, that, therefore, the Divine Word had for this his future Mother a love infinitely greater than that which he bore for all his other creatures. Mary's honour was infinitely dear to him, because she was to be his Mother, chosen to be so by his eternal and merciful decrees. The Son's love protected the Mother. She, indeed, in her sublime humility, willingly submitted to whatever the rest of God's creatures had brought on themselves, and obeyed every tittle of those laws which were never meant for her : but that humiliating barrier, which confronts every child of Adam at the first moment of his existence, and keeps him from light and grace until he shall have been regenerated by a new birth, — oh ! this could not be permitted to stand in Mary's way, — her Son forbade it.
+
+The Eternal Father would not do less for the Second Eve than he had done for the First ; yet she
+
+1 De Conceptu Virginali, Cap. xviii. was created, as was also the first Adam, in the state of original justice, which she afterwards forfeited by sin. The Son of God would not permit that the Woman, from whom he was to take the nature of Man, should be deprived of that gift which he had given even to her who was the mother of sin. The Holy Ghost, who was to overshadow Mary and produce Jesus within her by his divine operation, would not permit that foul stain, in which we are all conceived, to rest, even for an instant, on this his Spouse. All men were to contract the sin of Adam ; the sentence was universal ; but God's own Mother is not included. God, who is the author of that law ; God, who was free to make it as he willed ; had power to exclude from it Her whom he had predestined to be his Own in so many ways ; he could exempt her, and it was just that he should exempt her ; therefore, he did it.
+
+Was it not this grand exemption which God himself foretold, when the guilty pair, whose children we all are, appeared before him in the garden of Eden ? In the anathema which fell upon the serpent, there was included a promise of mercy to us. / will put enmities, said the Lord, between thee and the Woman, and thy seed and her seed : she shall crush thy head. Thus was salvation promised the human race under the form of a victory over Satan ; and this victory is to be gained by the Woman, and she will gain it for us also. Even granting, as some read this text, that it is the Son of the Woman that is alone to gain this victory, the enmity between the Woman and the Serpent is clearly expressed, and she, the Woman, with her own foot, is to crush the head of the hated Serpent. The Second Eve is to be worthy of the Second Adam, conquering and not to be conquered. The human race is one day to be avenged,
+
+1 Gen. iii. 15. not only by God made Man, but also by the Woman miraculously exempted from every stain of sin, in whom the primaeval creation, which was in justice and holiness? will thus reappear in her, just as though the original sin had never been committed.
+
+Raise up your heads, then, ye children of Adam, and shake off your chains ! This day, the humiliation, which weighed you down, is annihilated. Behold ! Mary, she who is of the same flesh and blood as yourselves, has seen the torrent of sin, which swept along all the generations of mankind, she has seen it flow back at her presence and not touch her ; the infernal dragon has turned away his head, daring not to breathe his venom upon her; the dignity of your origin is given to her in all its primitive grandeur. This happy day, then, on which the original purity of your race is renewed, must be a Feast to you. The Second Eve is created, and from her own blood, (which, with the exception of the element of sin, is the same as that which makes you to be the children of Adam,) she is shortly to give you the God-Man, who proceeds from her according to the flesh, as he proceeds from the Father according to the eternal generation.
+
+And how can we do less than admire and love the incomparable purity of Mary in her Immaculate Conception, when we hear even that God, who thus prepared her to become his Mother, saying to her, in the divine Canticle, these words of complacent love : Thou art all fair, 0 my Love ! and there is not a spot in thee? It is the God of all-holiness that here speaks ; that eye, which sees all things, finds not a vestige, not a shadow of sin ; therefore does he delight in her, and admire in her that gift of his own condescending munificence. We cannot be surprised after this, that Gabriel, when he came down from heaven to announce the Incarnation to her, is full
+
+^ph. iv. 24. 2 Cant. iv. 7. of admiration at the sight of that purity, whose beginning was so glorious and whose progress was immeasurable; and that this blessed Spirit should bow down profoundly before this young Maid of Nazareth, and salute her with, " Hail, 0 Full of Grace /" 1 And who is this Gabriel ? An Archangel, that lives amidst the grandest magnificences of God's creation, amidst all the gorgeous riches of heaven ; who is Brother to the Cherubim and Seraphim, to the Thrones and Dominations ; whose eye is accustomed to gaze on those nine angelic choirs with their dazzling brightness of countless degrees of light and grace ; he has found on earth, in a creature of a nature below that of Angels, the fulness of grace, of that grace which had been given to the Angels measuredly. This fulness of grace was in Mary from the very first instant of her existence. She is the future Mother of God, and she was ever holy, ever pure, ever Immaculate.
+
+This truth of Mary's Immaculate Conception, which was revealed to the Apostles by the divine Son of Mary, inherited by the Church, taught by the Holy Fathers, believed by each generation of the Christian people with an ever increasing explicitness, this truth, we say, was implied in the very notion of a Mother of God. To believe that Mary was Mother of God, was an implicitly believing that she, on whom this sublime dignity was conferred, had never been defiled with the slightest stain of sin, and that God had bestowed upon her an absolute exemption from sin. But now, the Immaculate Conception of Mary rests on an explicit Definition dictated by the Holy Ghost. Peter has spoken by the mouth of Pius ; and when Peter has spoken, every Christian should believe; for the Son of God has said : / have prayed for thee, Peter 9 that thy faith fail not. And again: The
+
+1 St. Luke, i. 28.
+
+2 St. Luke, xxii. 32.
+
+Holy Ghost, whom the Father will send in my name, he will teach you all things, and bring all things to your mind, whatsoever I shall have said to you}
+
+The Symbol of our faith has therefore received not a new truth, but a new light on a truth which was previously the object of the universal belief. On that great day of the Definition, the infernal serpent was again crushed beneath the victorious foot of the Virgin-Mother, and the Lord graciously gave us the strongest pledge of his mercy. He still loves this guilty earth, since he has deigned to enlighten it with one of the brightest rays of his Mother's glory. How this earth of ours exulted ! The present generation will never forget the enthusiasm with which the entire universe received the tidings of the Definition. It was an event of mysterious importance which thus marked this second half of our century ; and we shall look forward to the future with renewed confidence ; for if the Holy Ghost bids us tremble for the days when Truths are diminished among the children of men, he would, consequently, have us look on those times as blessed by God in which we receive an increase of truth ; an increase both in light and in authority.
+
+The Church, even before the solemn proclamation of the grand dogma, kept the Feast of this 8th day of December ; which was, in reality, a profession of her faith. It is true, that the Feast was not called the Immaculate Conception, but simply the Conception of Mary. But the fact of such a Feast being instituted and kept, was an unmistakable expression of the faith of Christendom in that truth. St. Bernard and the Angelical Doctor, St Thomas, both teach that the Church cannot celebrate the Feast of what is not holy ; the Conception of Mary, therefore, was
+
+1 St John, xiv. 26. * Ps. xi. 2. holy and immaculate, since the Church has, for ages past, honoured it with a special Feast. The Nativity of the same holy Virgin is kept as a solemnity in the Church, because Mary was born full of grace ; therefore, had the first moment of Mary's existence been one of sin, as is that of all the other children of Adam, it never could have been made the subject of the reverence of the Church. Now, there are few Feasts so generally and so firmly established in the Church as this which we are keeping to-day.
+
+The Greek Church, which, more easily than the Latin, could learn what were the pious traditions of the East, kept this feast even in the sixth century, as is evident from the ceremonial or, as it was called, the Type, of St. Sabas. In the West, we find it established in the Gothic Church of Spain as far back as the eighth century. A celebrated calendar which was engraved on marble, in the ninth century, for the use of the Church of Naples, attests that it had already been introduced there. Paul, the Deacon, Secretary to the Emperor Charlemagne, and afterwards Monk at Monte-Cassino, composed a celebrated Hymn on the mystery of the Immaculate Conception; we will insert this piece later on, as it is given in the manuscript copies of Monte-Cassino and Benevento. In 1066, the Feast was first established in England, in consequence of the pious Abbot Helsyn's being miraculously preserved from shipwreck ; and shortly after that, was made general through the whole Island by the zeal of the great St. Anselm, Monk of the Order of St. Benedict, and Archbishop of Canterbury. From England it passed into Normandy, and took root in France. We find it sanctioned in Germany* in a council held in 1049, at which St Leo IX-. was present; in Navarre, 1090, at the
+
+1 Some writers call him Elsym, and others Elpyn. See Baronius in his notes on the Roman Martyrology, Dec. 8. [Tr.]
+
+-Digitized try LjOOQIC
+
+Abbey of Irach ; in Belgium, at Liege, in 1142. Thus did the Churches of the West testify their faith in this mystery, by accepting its Feast, which is the expression of faith.
+
+Lastly, it was adopted by Borne herself, and her doing so rendered the united testimony of her children,— the other Churches, — more imposing than ever. It was Pope Sixtus IV. who, in the year 1476, published the decree of the feast of Our Lady's Conception for the City of St. Peter. In the next century, 1568, St. Pius V. published the universal edition of the Boman Breviary, and in its Calendar was inserted this feast as one of those Christian solemnities, which the faithful are every year bound to observe. It was not from Borne that the devotion of the Catholic world to this mystery received its first impulse; she sanctioned it by her liturgical authority, just as she confirmed it by her doctrinal authority, in these our own days.
+
+The three great Catholic Nations of Europe, — Germany, France, and Spain, — vied with each other in their devotion to this mystery of Mary's Immaculate Conception. France, by her King Louis XIV., obtained from Clement IX. that this feast should be kept with an Octave throughout the kingdom; which favour was afterwards extended to the universal Church by Innocent XII. For centuries previous to this, the Theological Faculty of Paris had always exacted from its Professors the oath that they would defend this privilege of Mary ; a pious practice which continued as long as the University itself.
+
+As regards Germany, the Emperor Ferdinand III., in 1647, ordered a splendid monument to be erected in the great square of Vienna. It is covered with emblems and figures symbolical of Mary's victory over sin, and on the top is the statue of the Immaculate Queen, with this solemn and truly Catholic inscription :
+
+2D
+
+TO GOD, INFINITE IN GOODNESS AND POWER, KING OF HEAVEN AND EARTH, BY WHOM KINGS REIGN; TO THE VIRGIN MOTHER OF GOD CONCEIVED WITHOUT SIN, BY WHOM PRINCES COMMAND, WHOM AUSTRIA, DEVOUTLY LOVING, HOLDS AS HER QUEEN AND PATRON; FERDINAND III., EMPEROR, CONFIDES, GIVES, CONSECRATES HIMSELF, CHILDREN, PEOPLE, ARMIES, PROVINCES, AND ALL THAT IS HIS, AND ERECTS IN ACCOMPLISHMENT OF A VOW THIS STATUE, AS A PERPETUAL MEMORIAL.
+
+But the zeal of Spain for the privilege of the holy Mother of God surpassed that of all other nations. In the year 1398, John I. King of Arragon, issued a Chart, in which he solemnly places his person and kingdom under the protection of Mary Immaculate Later on, Kings Philip III. and Philip IV. sent ambassadors to Rome, soliciting, in their names, the solemn definition, which heaven reserved, in its mercy, for our days. King Charles III. in the last century, obtained permission from Clement XIII., that the Immaculate Conception should be the patronal feast of Spain. The people of Spain, so
+
+1 D. 0. M. supremo cceli terrseque imperatori, per quern reges regnant ; Virgini Deiparae Immaculatae Conceptae, per quam principes imperant, in peculiarem Dominam, Austriae ratronam, singulari pietate susceptse, se, liberos, populos, exercitus, provincias, omnia denique confidit, donat, consecrat, et in perpetuam rei memoriam, statuam hanc ex voto ponit Ferdinandus III. Augustus.
+
+~ Dipized by justly called the Catholic Kingdom, put over the door, or on the front of their houses, a tablet with the words of Mary's privilege written on it; and when they meet, they greet each other with an expression in honour of the same dear mystery. It was a Spanish Nun, Mary of Jesus, Abbess of the C6nvent of the Immaculate Conception of Agreda, who wrote God's Mystic City, which inspired Murillo with his Immaculate Conception, the master-piece of the Spanish School.
+
+But, whilst thus mentioning the different nations which have been foremost in their zeal for this article of our holy faith, the Immaculate Conception, — it were unjust to pass over the immense share which the Seraphic Order, the Order of St. Francis of Assisi, has had in the earthly triumph of our Blessed Mother, the Queen of heaven and earth. As often as this feast comes round, is it not just that we should think with reverence and gratitude on him, who was the first theologian that showed how closely connected with the divine mystery of the Incarnation is this dogma of the Immaculate Conception ? First, then, all honour to the name of the pious and learned John Duns Scotus ! And when at length the great day of the Definition of the Immaculate Conception came, how justly merited was that grand audience, which the Vicar of Christ granted to the Franciscan Order, and with which closed the pageant of the glorious solemnity ! Pius the Ninth received from the hands of the children of St. Francis a tribute of homage and thankfulness, which the Scotist School, after having fought four hundred years in defence of Mary's Immaculate Conception, now presented to the Pontiff.
+
+In the presence of the fifty-four Cardinals, fortytwo Archbishops, and ninety- two Bishops ; before an immense concourse of people that filled Saint Peter's, and had united in prayer, begging the assistance of the Spirit of Truth ; the Vicar of Christ had just
+
+K renounced the decision which so many ages had oped to hear. The Pontiff had offered the Holy Sacrifice on the Confession of Saint Peter. He had crowned the Statue of the Immaculate Queen with a splendid diadem. Carried on his lofty throne, and wearing his triple crown, he had reached the portico of the basilica ; there he is met by the two represent tatives of St. Francis : they prostrate before the throne : the triumphal procession halts : and first, there advances the General of the Friars Minor Observantines; he presents to the Holy Father a branch of silver Lilies : he was followed by the General of the Conventual Friars, holding in his hand a branch of silver Roses. The Pope graciously accepted both. The Lilies and the Roses were symbolical of Mary's purity and love ; the whiteness of the silver was the emblem of the lovely brightness of that orb, on which is reflected the light of the Sun ; for, as the Canticle says of Mary, " she is beautiful as the Moon."1 The Pontiff was overcome with emotion at these gifts of the family of the Seraphic Patriarch, to which we might justly apply what was said of the Banner of the Maid of Orleans : " It had stood the brunt of the battle ; " it deserved to share in the glory of the victory." And thus ended the glories of that grand morning of the Eighth of December, Eighteen-hundred and Fifty-four, It is thus, O thou the humblest of creatures, that thy Immaculate Conception has been glorified on earth ! And how could it be else than a great joy to men, that thou art honoured by them, thou the aurora of the Sun of Justice ? Dost thou not bring them the tidings of their salvation ? Art not thou, O Mary, that bright ray of hope, which suddenly bursts forth in the deep abyss of the world's misery ? What should we have been without Jesus? and thou art his dearest Mother, the holiest of God's creatures,
+
+1 Cant, vi. 9. the purest of virgins, and our own most loving Mother !
+
+How thy gentle light gladdens our wearied eyes, sweet Mother ! Generation had followed generation on this earth of ours. Men looked up to heaven through their tears, hoping to see appear on the horizon the Star, which they had been told should disperse the gloomy horrors of the world's darkness ; but death came, and they sank into the tomb, without seeing even the dawn of the Light, for which alone they cared to live. It was for us that God had reserved the blessing of seeing thy lovely rising, O thou fair Morning Star ! which sheddest thy blessed rays on the sea, and bringest calm after the long stormy night ! Oh ! prepare our eyes that they may behold the divine Sun which will soon follow in thy path, and give to the world his reign of light and day. Prepare our hearts, for it is to our hearts that this Jesus of thine wishes to show himself. To see him, our hearts must be pure ; purify them, thou O Immaculate Mother! The divine wisdom has willed that of the feasts which the Church dedicates to thee, this of thy Immaculate Conception should be celebrated during Advent ; that thus the children of the Church, reflecting on the jealous care wherewith God preserved thee from every stain of sin, because thou wast to be the Mother of his divine Son, — might prepare to receive this same Jesus by the most perfect renouncing of every sin and every attachment to sin. This great change must be made ; and thy prayers, 0 Mary ! will help us to make it. Pray, we ask it of thee by the grace God gave thee in thy Immaculate Conception, that our covetousness may be destroyed, our concupiscence extinguished, and our pride turned into humility. Despise not our prayers, dear Mother of that Jesus who chose thee for his dwelling-place, that he might afterwards find one in each of us.
+
+O Mary ! Ark of the Covenant, built of an incorruptible wood, and covered over with the purest gold ! help us to correspond with those wonderful designs of our God, who, after having found his glory in thy incomparable purity, wills now to seek his glory in our unworthiness, by making us, from being slaves of the devil, his temples and his abode, where he may find his delight. Help us to this, O thou that by the mercy of thy Son hast never known sin ! and receive this day our devoutest praise. Thou art the Ark of Salvation ; the one creature unwrecked in the universal deluge ; the white Fleece filled with the dew of heaven, whilst the earth around is parched ; the Flame which the many waters could not quench; the Lily blooming amidst thorns ; the Garden shut against the infernal serpent ; the Fountain sealed, whose limpid water was never ruffled ; the House of the Lord, whereon his eyes were ever fixed, and into which nothing defiled could ever enter ; the mystic City, of which such glorious things are said. We delight in telling all thy glorious titles, O Mary ! for thou art our Mother, and we love thee, and the Mothers glory is the glory of her children. Cease not to bless and protect all them that honour thy immense privilege, O thou that wast conceived on this day ! May this feast fit us for that mystery, for which thy Conception, thy Birth, and thy Annunciation, are all preparations, — the Birth of thy Jesus in Bethlehem : yea, dear Mother, we desire thy Jesus, — give him to us and satisfy the longings of our love.
+
+FIRST VESPERS.
+
+The five Psalms which are chanted by the Church in this Office, are the ones which she always employs on the feasts of our Lady.
+
+1 Ps. lxxxvl 3.
+
+The first celebrates the Royalty, the Priesthood, and the supreme Judge- ship of Christ, the Son of God and the Son of Mary ; it implies, therefore, the great dignity, and the incomparable purity of Her that was to give him birth.
+
+Antiphon. Thou art all Antiphona. Tota pulchra fair, O Mary, and the stain es, Maria, et macula origioriginal is not in thee. nalis non est in te.
+
+PSALM 109.
+
+The Lord said to my Lord, his Son : Sit thou at my right hand, and reign with me.
+
+Until I make thy enemies thy footstool
+
+0 Christ! the Lord, thy Father, will send forth the sceptre of thy power out of Sion : from thence rule thou in the midst of thy enemies.
+
+With thee is the principality in the day of thy strength, in the brightness of the saints : for the Father hath said to thee : From the womb before the day-star I begot thee.
+
+The Lord hath sworn, and he will not repent : he hath said, speaking of thee, the God-Man: Thou art a Priest for ever, according to the order of Melchisedech.
+
+Therefore, 0 Fattier, the Lord thy Son is at thy right hand : he hath broken kings in the day of his wrath.
+
+He shall also judge among nations : in that terrible coming, ne shall fill the ruins of the world; he shall crush the heads in the land of many.
+
+Dixit Dominus Domino meo : * Sede a dextris meis.
+
+Donee ponam inimicos tuos : * scabellum pedum tuorum.
+
+Virgam virtutis tuae emittet Dominus ex Sion : * dominare in medio inimicorum tuorum
+
+Tecum principium in die virtutis tuae, in splendoribus sanctorum : * Ex utero ante lucif erum genui te.
+
+Juravit Dominus, et non poenitebit eura : * Tu es Sacerdos in aeternum secundum ordinem Melchisedech.
+
+Dominus a dextris^uis : * confregit in die irae suas reges.
+
+Judicabit in nationibus, implebit ruinas : * conquassabit capita in terra multorum. dbyGoogk
+
+De torrente in via bibet : propterea exaltabit caput.
+
+Ant. Tota pulchra es, Maria, et macula originalis non est in te.
+
+Ant. Vestimentum tuum candidum quasi nix, et f acies tua sicut sol
+
+He comeih now in humility ; he shall drink in the way of the torrent of sufferings : therefore shall he lift up the head.
+
+Ant. Thou art all fair, O Mary, and the stain original is not in thee.
+
+Ant. Thy garment is white as snow, and thy face is as the sun.
+
+The second Psalm celebrates the greatness of God, yet shows him to us as looking down with complacency on the humble of heart It was the humility of Mary which made him choose her for his own Mother, and crown her as the Queen of the universe. She ever remained a pure Virgin, and yet our Lord made her to be Mother of all mankind.
+
+Laudate, pueri, Dominum : * laudate Nomen Domini
+
+Sit Nomen Domini benedictum : * ex hoc nunc et usque in sseculum.
+
+A solis ortu usque ad occasum : * laudabile Nomen DominL
+
+Excelsus super omnes gentes Dominus : * et super coelos gloria ejus.
+
+Quis sicut Dominus Deus noster qui in altis habitat : * et humilia respicit in ccelo et in terra ?
+
+Suscitans a terra inopem : * et de stercore erigens pauperem.
+
+Ut collocet eum cum prin-
+
+[ 112.
+
+Praise the Lord, ye children ; praise ye the Name of the Lord.
+
+Blessed be the Name of the Lord, from henceforth now and for ever.
+
+From the rising of the sun unto the going down of the same, the Name of the Lord is worthy of praise.
+
+The Lord is high above all nations: and his glory above the heavens.
+
+Who is as the Lord our God, who dwelleth on high : and looketh down on the Tow things in heaven and on earth ?
+
+Kaising up the needy from the earth, and lifting up the poor out of the dunghill.
+
+That he may place him with princes, with the princes of his people.
+
+Who maketh a barren woman to dwell in a house, the joyful mother of children.
+
+Ant. Thy garment is white as snow, and thy face is as the sun.
+
+Ant. Thou art the glory of Jerusalem, thou art the joy of Israel, thou art the honour of our people. cipibus : * cum principibus populi sui
+
+Qui habitare facit sterilem in domo : * matrem filiorum laetantem.
+
+Ant. Vestimentum tuum candidum quasi nix, et f acies tua sicut sol.
+
+Ant. Tu gloria Jerusalem, tu laetitia Israel, tu honorificentia populi nostri.
+
+The third Psalm sings the glory of Jerusalem, the City of God. Mary, who was the dwelling which the Most High had chosen for himself, was signified by this blessed City. It is in her, in the admiration which her dignity excites, and in the confidence which her exhaustless love inspires, that the children of the Church are now assembled. The Church herself is also the city of God.
+
+I rejoiced at the things that were said to me : We shall go into the house of the Lord.
+
+Our feet were standing in thy courts. O Jerusalem ! Our heart loves and confides in thee, 0 Mary.
+
+Marv is like to Jerusalem that is built as a City ; which is compact together.
+
+For thither did the tribes go up, the tribes of the Lord : the testimony of Israel, to praise the Name of the Lord.
+
+Because seats sat there in
+
+1'udgment : seats upon the louse of David ; and Mary is of a kingly race.
+
+Laetatus sum in his quae dicta sunt mihi : * In domum Domini ibimus.
+
+Stantes erant pedes nostri : * in atriis tuis Jerusalem.
+
+Jerusalem quae aedificatur ut civitas: * cujus participate ejus in idipsum.
+
+Illuc enim ascenderunt tribuSj tribus Domini : * testimonium Israel ad confitendum Nomini Domini
+
+Quia illic sederunt sedes in judicio : * sedes super domum David*
+
+Kogate quae ad pacem sunt Jerusalem : * et abundantia diligentibus te.
+
+Fiat pax in virtute tua : * et abundantia in turribus tuis.
+
+Propter fratres meos et proximos meos : * loquebar pacem de te.
+
+Propter domum Domini Dei nostri : * quaesivi bona tibi
+
+Ant. Tu gloria Jerusalem, tu laetitia Israel, tu honorificentia populi nostri
+
+Ant. Benedicta es tu, Virgo Maria, a Domino Deo excelso, prae omnibus mulieribus super terram.
+
+Pray ye, through Mary, for the things that are for the peace of Jerusalem : and may abundance be on them that love thee, 0 Church of our God !
+
+The voice of Mary : Let peace be in thy strength, 0 thou new Sion I and abundance in thy towers.
+
+I, a daughter of Israel, for the sake of my brethren and of my neighbours, spoke peace of thee.
+
+Because of the house of the Lord our God, I have sought good things for thee.
+
+Ant. Thou art the glory of Jerusalem, thou art the i*oy of Israel, thou art the tonour of our people.
+
+Ant. Blessed art thou, O Virgin Mary, by the Lord the most high God, above all women upon the earth.
+
+The following Psalm is inserted in the Office of our Lady, on account of the allusion made in it to a House which God himself has built, and to a City of which he is the guardian. Mary is this House, which God built for himself ; she is this City, which he has protected from every insult and attack.
+
+PSALM 126.
+
+Nisi Dominus aedificaverit domum : * in vanum laboraverunt qui aedificant earn.
+
+Nisi Dominus custodierit civitatem : * frustra vigilat qui custodit earn.
+
+Vanum est vobis ante lucem surgere : * surgite post quam sederitis, qui manducatis panem doloris.
+
+Unless the Lord build the House, they labour in vain that build it.
+
+Unless the Lord keep the City, he watcheth in vain that keepeth it.
+
+It is vain for you to rise before light ; rise ye after you have sitten, you that eat of the bread of sorrow.
+
+When he shall give sleep to his beloved : behold the inheritance of the Lord are children ; the reward, the fruit of the womb.
+
+As arrows in the hand of the mighty, so the children of them that have been shaken.
+
+Blessed is the man that hath filled his desire with them ; he shall not be confounded when he shall speak to his enemies in the gate.
+
+Ant. Blessed art thou, O Virgin Mary, by the Lord the most high God, above all women upon the earth.
+
+Ant. Draw us, O Immaculate Virgin ! we will run after thee to the odour of thy ointments.
+
+Cum dederit dilectis suis somnum : * ecce haereditas Domini, filii : merces, fructus ventris.
+
+Sicut sagittae in manu potentis : * ita filii excussorum.
+
+Beatus vir, qui implevit desiderium suum ex ipsis : * non confundetur cum loquetur inimicis suis in porta.
+
+Ant. Benedicta et tu, Virgo Maria, a Domino Deo excelso, prae omnibus mulieribus super terram.
+
+Ant. Trahe nos, Virgo immaculata : post te curremus in odorem unguentorum tuorum.
+
+Again, it is Mary, the mystic City of God, that the Church has in view when she sings, on these feasts, the following beautiful Psalm. On this day of her Conception, our Lord strengthened the gates of his beloved City; the enemy could not enter. God owed this defence to Her, by whom he intended to send his Word upon the earth.
+
+Praise the Lord, 0 Mary, thou true Jerusalem : 0 Mary, O Sion ever holy, praise thy God.
+
+Because he hath strengthened against sin the bolts of thy gates : he hath blessed thy children within thee.
+
+Who hath placed peace in
+
+Lauda, Jerusalem, Dominum : * lauda Deum tuum, Sion.
+
+Quoniam confortavit seras ortarum tuarum : * beneixit filiis tuis in te.
+
+Qui posuit fines tuos pa- cem, * et adipe frumenti satiat te.
+
+Qui emittit eloquium suum terrae : * velociter currite sermo ejus.
+
+Qui dat nivem sicut lanam : * nebulam sicut cinerem spargit.
+
+Mittit crystallum suam sicut buccellas : * ante faciem frigoris ejus quia sustinebit ?
+
+Emittet verbum suum, et liquefaciet ea : * Habit spiritus ejus, et fluent aquae. thy borders, and filleth thee with the fat of corn, with Jesus, who is the Bread of life.
+
+Who sendeth forth by thee his Word to the earth ; his Word runneth swiftly.
+
+Who giveth snow like wool; scattereth mists like ashes.
+
+He sendeth his crystal like morsels : who shall stand before the face of his cold?
+
+He shall send forth his Word by Mary, and shall melt them : his spirit shall breathe, and the waters shall run.
+
+Who declareth his Word to Jacob: his justices and hisjudgments to IsraeL
+
+He hath-not done in like manner to every nation ; and his judgments he hath not made manifest to them.
+
+Ant. Draw us, O Immaculate Virgin ! we will run after thee to the odour of thy ointments.
+
+Qui annuntiat verbum suum Jacob : * justitias, et judicia sua IsraeL
+
+Non fecit taliter omni nationi : * et judicia sua non manif estavit eis.
+
+Ant. Trahe nos, Virgo immaculata : post te curremus in odorem unguentorum tuorum.
+
+The Capitulum is a passage from the Book of Proverbs of Solomon, in which Divine Wisdom, the Son of God, publishes the eternity of the divine decree of the Incarnation. The Church, on this day, puts these same in the mouth of Mary, inasmuch as this privileged creature was also decreed, before all time, to be the Mother of the Man-God.
+
+CAPITULUM. (Prov. viii.)
+
+Dominus possedit me in initio viarum suarum, antequam puidquam facerit a principio : ab seterno ordi-
+
+The Lord possessed me in the beginning of his ways, before he made anything from the beginning : I was dbyGoogk set up from eternity, and of old before the earth was made: the depths were not as yet, and I was already conceived. nata sum, et ex antiquis antequam terra fieret : nondum erant abyssi, et ego jam concepta eram.
+
+The Hymn is that venerable song of the Catholic Church, which is chanted on all the Feasts of our Lady. There is no heart can resist the confidence and love which this canticle inspires. How often soever repeated, it seems ever fresh. The Nun in her peaceful cloister, and the Mariner in the hour of storm, both love their Ave Maris Stella.
+
+HYMN*
+
+Hail, Star of the Sea! Blessed Mother of God, yet ever a Virgin ! O happy gate of heaven !
+
+Thou that didst receive the Ave from Gabriel's lips, confirm us in peace, ana so let Eva be changed into an Ave of blessing for us.
+
+Loose the sinner's chains, bring light to the blind, drive from us our evils, and ask all good things for us.
+
+Show thyself a Mother, and offer our prayers to Him, who would be born of thee, when born for us.
+
+O incomparable Virgin, and meekest of the meek obtain us the forgiveness 01 our sins, and make as meek and chaste.
+
+Ave, maris stella ! Dei Mater alma, Atque semper Virgo, Felix coeli porta.
+
+Sumens ulud Ave Gabrielis ore, Funda nos in pace, Mutans Evse nomen.
+
+Solve vincla reis, Profer lumen csecis, Mala nostra pelle, Bona cuncta posce.
+
+Monstra te esse Matrem Sumat per te preces, Qui pro nobis natus, Tulit esse tuus.
+
+Virgo singularis, Inter omnes mitis, Nos culpis solutos Mites fac et castos.
+
+* In Monastic Churches, it is preceded by this Besponsory : —
+
+1$. In hoc cognovi * Quoniam voluisti me. In hoc. Quoniam non gaudebit inimicus meus super ma * Quomam. Gloria. In hoc.
+
+Vitam praesta puram, Iter para tutum ; Ut videntes J esum, Semper collaetemur.
+
+Sit laus Deo Patri, Summo Christo decus, Spiritui sancto, Tribus honor unus.
+
+Amen. ft. Immaculata Conceptio est hodie sanctae Maria? Virginis.
+
+1$. Qua? serpentis caput virgineo pede contrivit.
+
+Obtain us purity of life, and a safe pilgrimage ; thai we may be united with thee in the blissful vision of Jesus.
+
+Praise be to God the Father, and to the Lord Jesus, and to the Holy Ghost : to the Three one self-same praise.
+
+Amen. ft. To-day is the Immaculate Conception of the Blessed Virgin Mary.
+
+3$. And the Virgin's foot crushed the serpent's head. antiphon of the Magnificat
+
+Ant. Beatam me dicent omnes generationes, quia fecit mihi magna qui potens est, Alleluia.
+
+Ant. All generations shall call me blessed, because he that is migjhty hath done great things in me, Alleluia.
+
+PRAYER.
+
+Deus, qui per immaculatam Virginis Conceptionem, dignum Filio tuo habitaculum praeparasti ; quaesumus, ut qui ex morte ejusdem Filii tui praevisa, earn ab omni labe praeservasti, nos cjuoque mundos ejus intercessione ad te pervenire concedas. Per eumdem.
+
+O God, who by the Immaculate Conception of the Virgin didst prepare a worthy dwelling-place for thy divine Son ; grant, we beseech thee, that, as by the foreseen merits of the death of this thy Son, thou didst preserve her from every stain of sin, we also may, through her intercession, be cleansed from our sins and united with thee. Through the same, &c.
+
+A commemoration is here made of Advent, by the Antiphon, Versicle, and Prayer of the day.
+
+MASS.
+
+The Introit is a soog of thanksgiving, taken from Isaias and the Psalms. Mary extols the wonderful gifts of God to her, and the victory which he has granted her over Satan and sin.
+
+INTROIT.
+
+I will rejoice with exceeding joy in the Lord, and my soul shall exult in my God : for he hath clothed me with the garments of salvation ; and with the rohe of justice he hath covered me, as a bride adorned with her jewels.
+
+Ps. I will extol thee, O Lord, for thou hast upheld me : and hast not made my enemies to rejoice over me. Glory be to the Father, dec, I will rejoice, &c
+
+Gaudens gaudebo in Domino, et exsultabit aoima niea in Deo meo : quia induit me vestimentis salutis ; et indumento justitise circumdedit me, quasi sponsam ornatam monilibus suis.
+
+Ps. Exaltabo te, Domine, quoniam suscepisti me : nec delectasti inimicos meos super me. Gloria Patri. Gaudens gaudebo.
+
+The Collect gives us the moral explanation of the mystery. Mary was preserved from original sin because she was to be the dwelling-place of the Most Holy : let this teach us to beg of this same God, that he would purify our souls.
+
+O God, who by the Immaculate Conception of the Virgin didst prepare a worthy dwelling-place for thy divine Son ; grant, we beseech thee, that, as by the foreseen merits of the death of this thy Son, thou didst preserve her from every stain of sin, we also may, through her intercession, be cleansed from our sins ana united with thee. Through the same, &cm
+
+Deus,qui per immaculatam Virginis Conceptionem dignum Filio tuo habitaculum prseparasti ; quaesumus, ut qui, ex morte ejusdem Filii tui praevisa, earn ab omni labe prseservasti, nos auoque mundos ejus intercessione ad te pervenire concedas. Per eumdem. dbyGoogk
+
+Here is made a commemoration of Advent, by the Collect of the preceding Sunday.
+
+EPISTLE,
+
+Lectio libri Sapientiae.
+
+Prov. Cap. 7 III. Dominus possedit me in initio viarum suarum, antequam quidquam faceret a principio. Ab aeterno ordinate sum, et ex antiquis, antequam terra fieret. Nondum erant abyssi, et ego jam concepta eram : necdum fontes aquarum eruperant ; necdum montes gravi mole constiterant : ante colles ego parturiebar : adhuc terram non f ecerat, et flumina, et cardines orbis terrae. Quando praeparabat ccelos, aderam : quando certa lege, et gyro vallabat abyssos : quando aethera firmabat sursum, et librabat fontes aquarum : quando circumdabat mari terminum suum, et legem ponebat aquis, ne transirent fines suos : quando appendebat fundamenta terrae : cum eo eram cuncta componens : et delectabar per singulos dies, ludens coram eo omni tempore, ludens in orbe terrarum : et deliciae meae, esse cum filiis hominum. Nunc ergo, filii, audite me. Beati qui custodiunt vias meas. Audite discipHnam, et estote sapientes, et nolite abjicere earn. Beatus homo qui audit me, et qui vigilat ad fores meas quotidie, et observat ad postes ostii mei. Qui me invenerit, inveniet
+
+Lesson from the Book of Wisdom.
+
+Prov. Gh. VIII. The Lord possessed me in the beginning of his ways, before he made anything from the beginning. I was set up from eternity, and of old before the earth was made. The depths were not as yet, and I was already conceived : neither had the fountains of waters as yet sprung out : the mountains with their nuge bulk had not as yet been established : before the hills I was brought forth; he had not yet made the earth, nor the rivers, nor the poles of the world. When ne prepared the heavens, I was present : when with a certain law and compass he enclosed the depths : when he established the sky above, and poised the fountains of waters : when he compassed the sea with its bounds and set a law to the waters, that they should not pass their limits : when he balanced the foundations of the earth : I was with him forming all things : and was delighted every day, playing before him at all times, playing in the world : and my delights were to be with the children of men. Now, therefore, ye children, hear me. Blessed are they that keep my ways. Hear instruction and be wise, and refuse it vitam ; et hauriet salutem a not. Blessed is the man that Domino. heareth me, and that watch- eth daily at my gates, and waiteth at the posts 01 my doors. He that shall find me, shall find life, and shall have salvation from the Lord.
+
+The Apostle teaches us that Jesus, our Emmanuel, is the first born of every creature. These mysterious words signify not only that he is, as God, eternally begotten of the Father; but also that the Divine Word is, as Man, anterior to all created beings. Yet, how is this? the world had been created, and the human race had dwelt on this earth full four thousand years, before the Son of God took to himself the nature of man. We answer, that it is not in the order of time, but in the eternal intention of God, that the Man-God preceded every creature. The Eternal Father decreed first to give to his Eternal Son a created nature, namely, the nature of man, and, in consequence of this decree, to create all beings, whether spiritual or material, as a kingdom for this Man-God. This explains to us how it is, that the divine Wisdom, the Son of God, in the passage of the sacred Scripture which forms the Epistle of this Feast, proclaims his having existed before all the creatures of the universe. As God, he was begotten from all eternity in the bosom of the Father ; as Man, he was, in the mind of God, the type of all creatures, before those creatures were made. But the Son of God could not be of our race, as the divine will decreed he should be, unless he were born in time, and born of a Mother as' other men ; and therefore She that was to be his Mother was eternally present to the thought of God, as the means whereby the Word would assume the human nature. The Son and the Mother are therefore united
+
+1 Coloss. i. 15.
+
+2 E in the plan of the Incarnation : Mary, therefore, existed, as did Jesus, in the divine decree, before creation began. This is the reason of the Church's having, from the earliest ages of Christianity, interpreted this sublime passage of the sacred volume of Jesus and of Mary unitedly, and ordering it and analogous passages of the Scriptures to be read in the assembly of the faithful on the solemnities or feasts of the Mother of God. But if Mary be thus prominent«in the divine and eternal plan ; if, in the sense in which these mysterious texts are understood by the Church, she was, with J esus, before every creature ; could God permit her to be subjected to the original sin, which was to fall on all the children of Adam ? She is, it is true, to be a child of Adam like her divine Son himself, and to be born at the time fixed ; but God's grace shall turn away from her that torrent, which sweeps all mankind along ; it shall not come near to her, and she shall transmit to her Son, who was also the Son of God, the human nature in its original perfection, created, as the Apostle says, in holiness and justice.
+
+The Gradual is the application to the Immaculate Mother of God of those praises with which the ancients of Bethulia greeted Judith, after she had slain the enemy of God's people. Judith is one of the types of Mary, who crushed the head of the serpent.
+
+The alleluia verse applies to our Blessed Lady those words of the divine Canticle, which proclaim the Spouse of God to be all fair and spotless.
+
+GRADUAL.
+
+Benedicta es tu, Virgo Maria, a Domino Deo excelso prse omnibus mulieribus super terram.
+
+Blessed art thou, O Virgin Mary, by the Lord the most high God, above all women upon the earth.
+
+1 Eph. iv. 24.
+
+DigitizeS by Google
+
+Thou art the glory of Jerusalem, thou art the joy of Israel, thou art the honour of our people.
+
+Alleluia, alleluia. f. Thou art all fair, O Mary, and the stain original is not in thee. Alleluia.
+
+Tu gloria Jerusalem, tu lsetitia Israel, tu honorificentia populi nostri.
+
+Alleluia, alleluia.
+
+Tota pulchra es, Maria, et macula originalis non est in te. Alleluia.
+
+GOSPEL.
+
+The following from the holy Gospel according to Luke.
+
+Ch.I.
+
+At that time the Angel Gabriel was sent from God into a city of Galilee, called Nazareth, to a Virgin espoused to a man whose name was Joseph, of the house of David : and the Virgin's name was Mary. And the Angel being come in, said unto her : Hail, full of grace ; the Lord is with thee : blessed art thou among women.
+
+Sequentia sancti Evangelii secundum Lucam.
+
+Cap. 1.
+
+In illo tempore : Missus est Angelus Gabriel a Deo in civitatem Galilaeae, cui nomen Nazareth, ad Virginem desponsatam viro, cui nomen erat Joseph, de domo David : et nomen Virginis, Maria. Et ingressus Angelus ad earn, dixit : Ave, gratia plena ; Dominus tecum : benedicta tu in mulieribus.
+
+This is the salutation with which the Archangel greets Mary. It shows us what was his admiration and his profound veneration for the Virgin of Nazareth. The holy Gospel tells us that Mary was troubled at these words, and thought within herself what such a salutation as this could imply. The Sacred Scriptures record many Angelical salutations : but, as St. Ambrose, St. Andrew of Crete, and, before them, Origen, had remarked, there is not one which contains such praises as this does. The prudent Virgin was, therefore, naturally surprised at the extraordinary words of the Angel, and, as the early Fathers observe, they would remind her of that other interview between Eve and the serpent She therefore remained dbyGoogk silent, and it was only after the Archangel had spoken to her a second time, that she made him a reply.
+
+And yet, Gabriel had spoken not only with all the eloquence, but with all the profound wisdom of a celestial Spirit initiated into the divine mysteries ; and, in his own superhuman language, he announced that the moment had come when Eve was to be transformed into Mary. There was present before him a woman destined for the sublimest dignity, the woman that was to be the Mother of God; yet, up to this solemn moment, Mary was but a daughter of the human race. Think, then, taking Gabriel's words as your guide, what must have been the holiness of Mary in this her first estate : is it not evident, that the prophecy, made in the earthly paradise, had already been accomplished in Her ?
+
+The Archangel proclaims her Full of Grace. What means this, but that the second Woman possesses in herself that element of which sin had deprived the first ? And observe, he does not say merely that divine grace works in her, but that she is full of it. " She is not merely in grace as others f< are," as Saint Peter Chrysologus told us on his feast, "but she is filled with it." Everything in Her is resplendent with heavenly purity, and sin has never cast its shadow on her beauty. To appreciate the full import of Gabriel's expression, we must consider what is the force of the words in the language which the sacred historian used. Grammarians tell us, that the single word which he employs is much more comprehensive than our expression " full of " grace." It implies not only the present time, but the past as well, — an incorporation of grace from the very commencement, — the full and complete affirmation of grace, — the total permanence of grace. Our translation has unavoidably weakened the terra.
+
+The better to feel the full force of our translation, let us compare this with an analogous text from the
+
+Gospel of St. John. This Evangelist, speaking of the Humanity of the Incarnate Word, expresses all by saying, that Jesus is f ull of grace and truth. Now, would this fulness have been real, had sin ever been there, instead of grace, even for a single instant ? Could we call him full of grace, who had once stood in need of being cleansed ? Undoubtedly, we must ever respectfully bear in mind the distance between the Humanity of the Incarnate Word and the person of Mary, from whose womb the Son of God assumed that Humanity; but the sacred text obliges us to confess, that the fulness of grace was, proportionately, in both Jesus and Mary,
+
+Gabriel goes on still enumerating the supernatural riches of Mary. He says to her : " the Lord is with " thee." What means this ? It means, that even before Mary had conceived our Lord in her chaste womb, she already possessed him in her soul. But, would the words be true, if that union with God had once not been, and had only begun when her disunion with him by sin had been removed ? The solemn occasion, on which the Angel uses this language, forbids us to think that he conveyed by it any other idea, than that she had always had the Lord with her. We feel the allusion to a contrast between the First and the Second Eve ; the First lost the God who had once been with her ; the Second had, like the First, received our Lord into her from the first moment of her existence, and never lost him, but continued from first to last and for ever to have him with her.
+
+Let us listen once more to the salutation, and we shall find from its last words that Gabriel is announcing the fulfilment of the divine oracle, and is addressing Mary as the woman foretold to be the instrument of the victory over Satan. " Blessed art lSt. John, i. 14.
+
+" thou among women." For four thousand years, every woman has been under the curse of God, and has brought forth her children in suffering and sorrow : but here is the one among women, that has been ever blessed of God, that has ever been the enemy of the serpent, and that shall bring forth the fruit of her womb without travail.
+
+The Immaculate Conception of Mary is therefore declared in the Archangel's salutation ; and we can now understand, why the Church selected this portion of the Gospel to be read to-day in the assembly of the faithful.
+
+After the glorious chant of the Symbol of our Faith, the Choir intones the Offertory : it is composed of the words of the Angelical Salutation. Let us say to Mary, with Gabriel : Verily, O Mary, thou art full of all grace.
+
+OFFERTORY.
+
+Ave, Maria, gratia plena: Dominus tecum, benedicta tu in mulieribus. Alleluia.
+
+Hail Mary, 'full of grace: the Lord is with thee : blessed art thou among women. Alleluia.
+
+SECRET.
+
+Salutarem hostiam, quam Keceive, 0 in solemnitate immaculatae Conceptionis beatae Virginia Mariae tibi, Domine, offerimus, suscipe et prsesta : ut tion sicut illam, tua gratia praeveniente, ab omni labe immunem profitemur : (ita ejus intercessione a culpis omnibus liberemur. Per Christum Dominum nostrum. Amen, sion,
+
+Lord, this host of salvation, which we offer unto thee on this solemnity of the Immaculate Concepof the blessed Virgin Mary ; and grant, that, as we confess her to have been preserved, by thy preventing grace, from every stain of sin, we may, by her intercesbe freed from all our sins. Through Christ our Lord. Amen.
+
+A commemoration is here made of Advent, by the Secret of the preceding Sunday, dbyGoogk
+
+PREFACE.
+
+The Church is too full of the joy of this great feast to be satisfied with her usual form of Thanksgiving ; she employs one which makes mention of the Holy Mother of God, whose Conception revives her hopes, and announces the rising of Him who is the Eternal Light
+
+Vere dignum et justum salva- est, aequum et salutare, nos tibi semper, et ubique gratias agere : Domine sancte, Pater omnipotens, aetjerne Deus : Et te in Conceptione Immaculata beatae Mariae semper Virginis collaudare, benedicere, et praedicare. Quae et Unigenitum tuum Sancti Spiritus obumbratione concepit : et virginitatis gloria permanente, Luaeternum mundo effudit, Jesum Christum Dominum nostrum. Per quern Majestatem tuam laudant Angeli, adorant Dominationes, tremunt Po testates, Virtutes, ac beata Seraphim, socia exsultatione concelebrant. Cum Seraphim, ju- quibus et nostras voces, ut admitti jubeas, deprecamur, supplici confessione dicen- Sanctus ! Sanctus ! Sanctus !
+
+It is truly meet and just, right and available to tion, that we should always, and in all places, give thanks to thee, 0 holy Lord, Father almighty, eternal God : And that we should praise, bless, and glorify thee on the Immaculate Conception of the Blessed Mary, ever a Virgin, who by the overshadowing of the Holy Ghost conceived thine Only Begotten Son, and, the glory of her virginity men still remaining, brought forth • the eternal Light to the world, Jesus Christ our Lord. By whom the Angels praise thy majesty, the Dominations adore it, the Powers tremble Cceli, ccelorumque before it, the Heavens, the heavenly Virtues, and blessed with common bilee glorify it. Together with whom we beseech thee that we may be admitted to tes : join our humble voices, saying : Holy ! Holy ! Holy I
+
+During the Communion, the Church shares in the holy enthusiasm, wherewith David proclaims the glories and the privileges of the mystic City of God.
+
+COMMUNION.
+
+Gloriosa dicta sunt de te, Glorious things are said of Maria, quia fecit tibi magna thee, O Mary ! for he that is qui potens est. mighty hath done great things in thee.
+
+POSTCOMMUNION.
+
+Sacramenta quae sumpsimus, Domine Deus noster, illius in nobis culpae vulnera reparent ; a qua immaculatam beatae Mariae Conpro viceptionem singulariter prae- dence, servasti. Per Dominum, &c. culate
+
+May the mysteries we have received, O Lord our God, repair in us the wounds of that sin, from which thou hast, with exceptional preserved the lmma- Conception of the ever Blessed Mary. Through,
+
+&c.
+
+Then is made a -commemoration of Advent, by the Postcommunion of the preceding Sunday.
+
+SECOND VESPERS.
+
+The Antiphons, Psalms, Capitulum, Hymn, and Versicle, are the same as in first Vespers, pages 407- 414. antiphon of the Magnificat
+
+Hodie egressa est virga de This day there went forth radice Jesse : Hodie sine ulla a branch from the root of peccati labe concepta est J esse : this day was Mary
+
+Maria : hodie contritum est conceived without any stain ab ea caput serpentis anti- of sin : this day was the qui. Alleluia. head of the old serpent crushed by her. Alleluia.
+
+The Prayer as in first Vespers, page 414.
+
+"Digitized by
+
+We will now give three liturgical Hymns composed in honour of the Mystery of Mary's Immaculate Conception ; they will assist the faithful to enter more fully into the spirit of to-day's feast. We must give the precedence to the beautiful strophes, in which Prudentius, in his Hymn Ante cibum, celebrates the triumph of the Woman over the serpent. We find, then, early in the 5th century, that the prince of Christian poets mentions, as one of the glories of Mary, her having triumphed over all the poisons of the infernal dragon, because there was to be bestowed upon her the dignity of Mother of God.
+
+HYMN.
+
+Lo ! there comes a new progeny : a new Man come from heaven, not formed of clay as was that first Adam ; no, it is God himself that has assumed human nature, though without that nature's sins.
+
+The Word of the Father is made living flesh ; a spotless Virgin is his Mother, not made so by the ordinary laws of wedlock, but by the overshadowing of that bright Spirit, who is God, yet chooses Mary for his Spouse.
+
+Here is the cause of that ancient hate, that ever-warring quarrel between the serpent and man, — that now the crouching viper is crushed by the Woman's foot.
+
+The Virgin, that was made worthy to be Mother of God, triumphs over all the poisons of Satan : the green monster,
+
+Ecce venit nova progenies, -^Ethere proditus alter homo, Non luteus, velut ille prior, Sed Deus ipse gerens hominem,
+
+Corporeisque carens vitiis.
+
+Fit caro vivida Sermo Patris,
+
+Numine quern rutilante gravis
+
+Non thalamo, neque jure tori,
+
+Nec genialibus illecebris, Intemerata puella parit. Hoc odium vetus illud erat,
+
+Hoc erat aspidis, atque hominis
+
+Digladiabile discidium, Quod modo cernua femineis
+
+Vipera proteritur pedibus. Edere namque Deum merita,
+
+Omnia virgo venena domat. Tractibus anguis inexplicitis,
+
+Virus inerme piger revomit, Gramine concolor in viridi.
+
+Quae feritas modo non trepidat,
+
+Ternta de grege candidulo ] Impavidas lupus inter oves Tristis obamlbulat, et rabidum
+
+Sanguinis immemor os cohibet,
+
+Agnus enim vice mirifica Ecce leonibus imperitat. Exagitansque truces aquilas Per vaga nubila, perque notos
+
+Sidere lapsa Columba fugat. now sluggish and disabled, coils his huge folds round himself, and on the grass vomits out his venom.
+
+Well may the fierce wolf tremble, and flee from the dear white lambs of the fold ! Sulky and vexed, he prowls around the inclosure wherein they safely browse : he dare not think of blood, nor show his rabid teeth.
+
+O wonderful change ! the lamb commands the lion, and the heavenly Dove in her descent to earth makes the ravenous eagle flutter through the clouds and the winds.
+
+The following Hymn belongs to the 8th century. It was written by the celebrated Paul the Deacon, who, after being secretary to Charlemagne, became a monk at Monte-Cassino. Here, too, we find the clearest profession of faith in the Immaculate Conception. The poison of original sin, as the author expresses it, has run its infection through the entire human race ; but the Creator sees that the womb of Mary is pure, and there he enters.
+
+HYMN.
+
+Quis possit amplo famine praepotens Digne fateri praemia Virginis,
+
+Per quam veternae sub la- queo necis Orbi retento reddita vita est?
+
+Haec Virga Jesse, Virgo puerpera,
+
+Where is the man with words sublime enough to tell the gifts bestowed on the Virgin, by whom life was restored to the world, which was prisoner in the snare of the old death ?
+
+She Jesse, is the the Branch of Virgin Mother,
+
+DEC. 8. THE IMMA the garden wherein grew the divine plant, the holy fountain sealed with the mysterious gift : she it is that made the world happy by the fruit of her virginal womb.
+
+Our first parent brought death on himself, by drinking in the poison of the wicked serpent ; thence came the pestilence on all mankind, and it was mortal.
+
+But the Creator of the world took compassion on man, and seeing the womb of the Virgin, that was pure from sin, it is by her he decrees to convey the joys of salvation to the world that languished in crime.
+
+Gabriel is , sent from heaven bearing to the chaste Virgin the eternal decree : and she becomes Mother of the Word, her womb containing within it Him that fills the earth.
+
+A chaste maid, yet a mother ! a virgin, yet a parent ! The Creator of the world was born in his own world ; the sceptre was wrested from the hands of the dreaded enemy ; a new light shone throughout the whole world.
+
+To the Trinity, the one only God, be glory, honour, power, highest strength, and kingdom, for ever and for ever. Amen.
+
+Hortus superno germine consitus,
+
+Signatus alto munere fons sacer,
+
+Mundum beavit viscere ccelibi.
+
+Hausto maligni primus ut occidit
+
+Virus chelydri terrigenum parens ; Hinc lapsa pestis per genus irrepens Cunctum profundo vulnere perculit. Rerum misertus sed sator, inscia
+
+Cernens piaculi viscera Virginis,
+
+Hie f erre mortis crimine languido
+
+Mandat salutis gaudia sseculo.
+
+Emissus astris Gabriel innubse iEterna portat nuntia Virgini ;
+
+Verbo tumescit latior sethere',
+
+Alvus replentem ssecula continent
+
+Intacta mater, virgoque fit parens,
+
+Orbis Creator ortus in orbe est ;
+
+Hostis pavendi sceptra re- mota sunt, Toto refulsit lux nova sae- culo.
+
+Sit Trinitati gloria unicse, Virtus, potestas, summa potentia,
+
+Regnum retentans,quse Deus unus est, Per cuncta semper ssecula sseculi. Amen.
+
+The following Prose was used in many Churches, two hundred years ago, on the Feast of the Immaculate Conception.
+
+Dies iste celebretur, In quo pie recensetur Conceptio Mariae.
+
+Virgo Mater generatur ; Concipitur et creatur Dulcis vena veniae.
+
+Adae vetus exsilium, Et J oachirn opprobrium, Hinc habent remedium,
+
+Hoc Prophetae praeviderunt,
+
+Patriarchae praesenserunt, Inspirante gratia.
+
+Virga prolem conceptura, Stella solem paritura, Hodie concipitur.
+
+Flos de Virga processurus, Sol de Stella nasciturus, Christus intelligitur.
+
+O quam felix et praeclara, Nobis grata, Deo cnara, Fuit haec Conceptio !
+
+Terminatur miseria ; Datur misericordia ; Luctus cedit gaudio.
+
+Nova mater novam prolem, Nova stella novum solem, Nova profert gratia.
+
+Genitorem genitura, Creatorem creatura, Patrem parit n'lia.
+
+Let this day be kept as a feast, on which is celebrated the Conception of Mary.
+
+The Virgin-Mother is begotten ; she, the sweet source of pardon, is conceived on this day.
+
+It was the remedy of those two evils, the long exile of Adam, and the disgrace of Joachim,
+
+It was this that the inspiring grace of God made the Prophets foretell, and the Patriarchs foresee.
+
+This day is conceived Jesse's Branch, that was to produce a Flower, the Star that was to bring forth the Sun.
+
+Who is the Flower that was to rise from the Branch, who the Sun that was to be born from the Star, but Christ our Lord 1
+
+O happy and glorious Conception ! so welcome to us, and so dear to God !
+
+Misery is at an end ; mercy is given to us ; sadness is succeeded by joy.
+
+By a new, unheard-of grace, a new Mother gives birth to a new offspring, and a new Star produces a new Sun.
+
+She that is made brings forth Him that made her, the creature her Creator, the daughter her Father.
+
+O wonderful novelty! O novel prerogative ! * the Mother's purity is made purer by the conception of her Child !
+
+Be glad, thou gracious Maid, thou Branch so lovely with thy Flower, thou Mother so venerable with thy divine Babe, thou truly full of joy !
+
+That which was heretofore hid under the thick cloud of figures, is now made manifest by the daughter of the holy Anne ; the dew of the Deity enriches this her child, and she,apure Virgin, brings forth Jesus, whilst nature beholds with astonishment an exception made to all her laws.
+
+There was a sound of malediction in the very name of Eva : but Gabriel's salutation, by an admirable change, formed A ve out of Eva. Virgin-Mother ! that didst receive this good and sweet word in thy little cell at Nazareth ; grant us the consolation of thy favour.
+
+Come, all ye faithful, delay not ; open your lips, and with hearty praise honour the Mother of J esus ; pray to her ; every day, ana every hour, let the mind concord with the voice in prayer and
+
+E raise : yea, even so must ye eg and implore her patronage.
+
+Mary ! thou the unfailing hope of the wretched, the true Mother of orphans, the consolation of the afflicted, the health of the sick, thou art all to all.
+
+O mirandam novitatem, Novam quoque dignitatem ! Ditat matris castitateni Filii conceptio.
+
+Gaude, Virgo gratiosa, Virga flore speciosa, Mater prole generosa, Vere plena gaudio.
+
+Quod praecessit in figura, Nuoe latens sub.obscura, Hoc declarat genitura Piae matris : Virgo pura, Pariendi vertit jura, Fusa, mirante natura, Deitatis pluvia.
+
+Triste fuit in Eva vce ! Sed ex Eva format ave, Versa vice, sed non prave ; Intus ferens in conclave Verbum bonum et suave ; Nobis, Mater Virgo, lave Tua frui gratia.
+
+Omnis homo, sine mora, Laude plena solvens ora, Istam colas, ipsam ora : Omni die, omni hora, Sit mens supplex, voxsonora ; Sic supplica, sic implora Hujus patrocinia.
+
+Tu spes certa miserorum, Vere mater orphanorum, Tu levamen oppressorum, Medicamen infirmorum, Omnibus es omnia.
+
+Te rogamus voto pari, O thou that art worthy of
+
+Laude digna singulari, special praise, hear our united
+
+Ut errantes in hoc mari, prayer, and may thy inter-
+
+Nos in portu salutari cession lead us, poor wan-
+
+Tua sistat gratia. derers on this sea of life, to the haven of Salvation.
