@@ -1,0 +1,1043 @@
+{
+  "id": "speculum-perfectionis",
+  "cover": "classic",
+  "name": {
+    "la": "Speculum perfectionis",
+    "en-US": "The Mirror of Perfection",
+    "pt-BR": "Espelho da perfeição"
+  },
+  "author": {
+    "la": "Socii sancti Francisci",
+    "en-US": "Companions of St. Francis (Speculum perfectionis)",
+    "pt-BR": "Companheiros de São Francisco (Espelho da perfeição)"
+  },
+  "description": {
+    "la": "Speculum perfectionis status fratris Minoris, scilicet beati Francisci, in centum viginti quattuor capitibus (redactio anni 1318).",
+    "en-US": "The Mirror of Perfection of the state of a Friar Minor: memories of St. Francis gathered from the writings of his companions, above all Brother Leo, and compiled in 1318 in 124 chapters under thirteen heads (poverty, charity, humility, zeal for the Rule, prayer, prophecy, his love of creatures, his death). Latin in Sabatier's numbering; English of Robert Steele (Everyman, 1910).",
+    "pt-BR": "O Espelho da perfeição do estado do frade menor: memórias de São Francisco recolhidas dos escritos de seus companheiros, sobretudo frei Leão, compiladas em 1318 em 124 capítulos."
+  },
+  "composed": 1318,
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "work": "companions-of-francis/speculum-perfectionis",
+  "editions": {
+    "la": {
+      "editor": "Paul Sabatier (numbering), web transcription",
+      "year": 1898
+    },
+    "en-US": {
+      "translator": "Robert Steele",
+      "year": 1910
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.franciscanos.net/fuentes/SpecPerf.htm",
+      "edition": "Speculum perfectionis, web transcription of franciscanos.net (Fuentes franciscanas), in the numbering of Sabatier's edition (Paris 1898); local mirror in research/sourcing/francis-of-assisi/mirror-franciscanos-net/.",
+      "description": "Clean transcription with verse numbers (kept as bold numbers) and the transcription's 'cfr.' Scripture references. The bracketed interpolation in chapter LXXI is kept as printed there.",
+      "tier": "A",
+      "tierEvidence": "Medieval text in the numbering of the 1898 edition."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/thelittleflowers00francuoft",
+      "edition": "The Little Flowers, The Mirror of Perfection, and St. Bonaventure's Life of St. Francis (London: J. M. Dent, Everyman's Library, 1910), the Mirror translated by Robert Steele.",
+      "description": "Archive.org OCR read from the word-coordinate file and cleaned by script, not proofread; running heads and page numbers dropped.",
+      "tier": "A",
+      "tierEvidence": "Published 1910: public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "section-01",
+      "title": {
+        "en-US": "Section I",
+        "la": "Prologus"
+      },
+      "children": [
+        {
+          "id": "cap-001",
+          "title": {
+            "la": "Caput 1. Incipit Speculum perfectionis status fratris Minoris",
+            "en-US": "Chapter I. How St. Francis Answered his Ministers when they would not be Bound to Observe the Rule which he was Making"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-02",
+      "title": {
+        "en-US": "Section II. Of the Perfection of Poverty",
+        "la": "Capitulum II. De perfectione paupertatis"
+      },
+      "children": [
+        {
+          "id": "cap-002",
+          "title": {
+            "la": "Caput 2. Et primo qualiter beatus Franciscus declaravit voluntatem et intentionem suam quam habuit a principio usque ad finem sup",
+            "en-US": "Chapter II. Firstly how Blessed Francis Declared the Will and Intention which he had from the Beginning unto the End, Concerning the Observance of Poverty"
+          }
+        },
+        {
+          "id": "cap-003",
+          "title": {
+            "la": "Caput 3. Qualiter respondit ministro volenti habere libros de licentia ejus, et qualiter ministri, ipso ignorante, fecerunt remov",
+            "en-US": "Chapter III. How he Answered a Minister who Wished to have Books with his Leave; and how the Ministers Without his Knowledge Caused the Chapter of the Prohibitions of the Gospel to be Removed from the Rule"
+          }
+        },
+        {
+          "id": "cap-004",
+          "title": {
+            "la": "Caput 4. De novitio volente habere psalterium de licentia ejus",
+            "en-US": "Chapter IV. Of Tee Novice who would Fain have a Psalter with his Leave"
+          }
+        },
+        {
+          "id": "cap-005",
+          "title": {
+            "la": "Caput 5. De paupertate servanda in libris et lectis, aedificiis et utensilibus",
+            "en-US": "Chapter V. Of Keeping Poverty in Books and Beds and Utensils"
+          }
+        },
+        {
+          "id": "cap-006",
+          "title": {
+            "la": "Caput 6. Qualiter fecit exire omnes fratres de quadam domo quae dicebatur esse domus fratrum",
+            "en-US": "Chapter VI. How he Made All the Friars Depart from a Certain House which was Called the House of the Friars"
+          }
+        },
+        {
+          "id": "cap-007",
+          "title": {
+            "la": "Caput 7. Qualiter voluit destruere quamdam domum quem fecerat populus Assisii apud Sanctam Mariam de Portinncula",
+            "en-US": "Chapter VII. How he would Fain Destroy a Certain House which the Folk of Assisi had Made at St. Mary of the Portiuncula"
+          }
+        },
+        {
+          "id": "cap-008",
+          "title": {
+            "la": "Caput 8. Qualiter increpavit vicarium suum quia faciebat ibi aedificar unam domunculam pro dicendo officio",
+            "en-US": "Chapter VIII. How he Blamed his Vicar Because he was Making a Little House to be Built for Saying the Office"
+          }
+        },
+        {
+          "id": "cap-009",
+          "title": {
+            "la": "Caput 9. Quod nolebat stare in cella curiosa vel quae diceretur esse sua",
+            "en-US": "Chapter IX. How he would not Remain in a Specially Made Cell or in One which was Called his Own"
+          }
+        },
+        {
+          "id": "cap-010",
+          "title": {
+            "la": "Caput 10. De modo capiendi loca in civitatibus et aedificandi in eis, secundum intentionem beati Francisci",
+            "en-US": "Chapter X. Concerning the Manner of Choosing Places in Cities, and of Building in them, According to the Intention of Blessed Francis"
+          }
+        },
+        {
+          "id": "cap-011",
+          "title": {
+            "la": "Caput 11. Quomodo fratres fuerunt sibi contrarii in faciendo loca et aedificia paupercula maxime praelati et scientiati",
+            "en-US": "Chapter XI. How Friars, and Especially the Prelates and Learned Among them, were Contrary to Francis in Making Humble Dwellings and Habitations"
+          }
+        },
+        {
+          "id": "cap-012",
+          "title": {
+            "la": "Caput 12. Quod reputabat furtum acquirere eleemosynas vel uti eis ultra necessitatem",
+            "en-US": "Chapter XII. How he Counted it a Theft to Get Alms or to Use them Beyond Need"
+          }
+        },
+        {
+          "id": "cap-013",
+          "title": {
+            "la": "Caput 13. Qualiter Christus dixit ei quod nolebat fratres habere aliquid in communi nec in speciali",
+            "en-US": "Chapter XIII. How Christ Said unto him that he would not that Friars should Own Aught, Neither in Common Nor in Special"
+          }
+        },
+        {
+          "id": "cap-014",
+          "title": {
+            "la": "Caput 14. De exsecratione pecuniae et qualiter punivit fratrem qui tetigit pecuniam",
+            "en-US": "Chapter XIV. Of his Horror of Money, and how he Punished a Friar for Touching it"
+          }
+        },
+        {
+          "id": "cap-015",
+          "title": {
+            "la": "Caput 15. De vitanda mollitie et multitudine tunicarum et habenda patientia in necessitatibus",
+            "en-US": "Chapter XV. Of Avoiding Softness and a Multitude of Tunics, and of Patience in Necessity"
+          }
+        },
+        {
+          "id": "cap-016",
+          "title": {
+            "la": "Caput 16. Quod nolebat satisfacere suo corpori de iis quibus putabat alios fratres indigere",
+            "en-US": "Chapter XVI. How he would not Satisfy his Own Body"
+          }
+        },
+        {
+          "id": "cap-017",
+          "title": {
+            "la": "Caput 17. Quod verecundabatur videre aliquem pauperiorem se",
+            "en-US": "Chapter XVII. How he was Ashamed to See Any One Poorer Than Himself"
+          }
+        },
+        {
+          "id": "cap-018",
+          "title": {
+            "la": "Caput 18. Qualiter induxit et docuit primos fratres ut irent pro eleemosyna quia verecundabantur",
+            "en-US": "Chapter XVIII. How he Induced and Taught the First Friars to Go and Seek Alms"
+          }
+        },
+        {
+          "id": "cap-019",
+          "title": {
+            "la": "Caput 19. Quod nolebat fratres esse providos et sollicitos de crastino",
+            "en-US": "Chapter XIX. How he would not that Friars should Take Thought and be Solicitous for the Morrow"
+          }
+        },
+        {
+          "id": "cap-020",
+          "title": {
+            "la": "Caput 20. Qualiter reprehendit fratres verbo et exemplo qui paraverant mensam sumptuose in die nativitatis Domini propter ministru",
+            "en-US": "Chapter XX. How by Word and Example he Rebuked the Friars who had Prepared a Sumptuous Table on Christmas Day"
+          }
+        },
+        {
+          "id": "cap-021",
+          "title": {
+            "la": "Caput 21. Qualiter dominus Ostiensis ploravit et aedificatus foitide paupertate fratrum tempore capituli",
+            "en-US": "Chapter XXI. How My Lord of Ostia Wept and was Edified at the Poverty of the Friars"
+          }
+        },
+        {
+          "id": "cap-022",
+          "title": {
+            "la": "Caput 22. Qualiter milites invenerunt necessaria petendo eleemosyna ostiatim, juxta consilium beati Francisci",
+            "en-US": "Chapter XXII. How the Men-at-arms Went Seeking Alms from Door to Door According to the Counsel of Blessed Francis"
+          }
+        },
+        {
+          "id": "cap-023",
+          "title": {
+            "la": "Caput 23. Qualiter ivit pro eleemosyna priusquam intraret ad mensam car-dinalis",
+            "en-US": "Chapter XXIII. How he Went Begging before he would Go in to the Table of the Cardinal"
+          }
+        },
+        {
+          "id": "cap-024",
+          "title": {
+            "la": "Caput 24. De fratre qui nec orabat, nec laborabat et bene comedebat",
+            "en-US": "Chapter XXIV. Of the Friar who Neither Used to Pray Nor Work, but who Ate Well"
+          }
+        },
+        {
+          "id": "cap-025",
+          "title": {
+            "la": "Caput 25. Qualiter exivit cum fervore ad quemdam pauperem qui ibat cum eleemosynis laudando Deum",
+            "en-US": "Chapter XXV. How he Went Out with Fervour to Meet a Poor Man who Went Away with his Alms Thanking God"
+          }
+        },
+        {
+          "id": "cap-026",
+          "title": {
+            "la": "Caput 26. Quod revelatum fuit sibi a Domino ut vocarentur fratres Minores et quod annuntiarent pacem et salutem",
+            "en-US": "Chapter XXVI. How it was Revealed by Tee Lord that they should be Called Friars Minor to Announce Peace and Salvation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-03",
+      "title": {
+        "en-US": "Section III. Of Charity and Compassion and Yielding to One's Neighbour",
+        "la": "Capitulum III. De caritate et compassione et condescensione ad proximum"
+      },
+      "children": [
+        {
+          "id": "cap-027",
+          "title": {
+            "la": "Caput 27. Et primo qualiter condescendit fratri qui moriebatur fame comedendo cum ipso, admonens fratres ut discrete paenitentiam ",
+            "en-US": "Chapter XXVII. And Firstly, how he Condescended to a Brother who was Dying of Hunger, by Eating with him, Admonishing the Brethren that they should Do Penance Discreetly"
+          }
+        },
+        {
+          "id": "cap-028",
+          "title": {
+            "la": "Caput 28. Qualiter condescendit fratri infirmo comedendo uvas cum eo",
+            "en-US": "Chapter XXVIII. How he Condescended to a Sick Friar by Eating Grapes with him"
+          }
+        },
+        {
+          "id": "cap-029",
+          "title": {
+            "la": "Caput 29. Qualiter nudavit se et socium ut vestiret pauperculam vetulam",
+            "en-US": "Chapter XXIX. How he Stripped Himself and his Fellow that he Might Clothe the Poor"
+          }
+        },
+        {
+          "id": "cap-030",
+          "title": {
+            "la": "Caput 30. Quod reputabat furtum non dare mantellum magis egenti",
+            "en-US": "Chapter XXX. How he Counted it Theft not to Give to One Whose Needs were Greater"
+          }
+        },
+        {
+          "id": "cap-031",
+          "title": {
+            "la": "Caput 31. Qualiter dedit pauperi mantellum novum cum pacto",
+            "en-US": "Chapter XXXI. How he Gave a Mantle to a Poor Man on an Agreement"
+          }
+        },
+        {
+          "id": "cap-032",
+          "title": {
+            "la": "Caput 32. Qualiter quidam pauper virtute eleemosynae beati Erancisci remisit injurias et odium domino suo",
+            "en-US": "Chapter XXXII. How a Certain Poor Man, by Virtue of the Alms of Blessed Francis, Forgave his Injuries and Hate to his Lord"
+          }
+        },
+        {
+          "id": "cap-033",
+          "title": {
+            "la": "Caput 33. Qualiter misit mantellum mulieri pauperculae quae patiebatur in oculis sicut ipse",
+            "en-US": "Chapter XXXIII. How he Sent a Mantle to a Poor Woman who Suffered from Her Eyes Like Himself"
+          }
+        },
+        {
+          "id": "cap-034",
+          "title": {
+            "la": "Caput 34. Qualiter dedit tunicam fratribus petentibus eam amore Dei",
+            "en-US": "Chapter XXXIV. How he Gave his Tunic to Friars who Begged it for the Love of God"
+          }
+        },
+        {
+          "id": "cap-035",
+          "title": {
+            "la": "Caput 35. Qualiter voluit occulte dare pauperi petiam",
+            "en-US": "Chapter XXXV. How he Wished to Give a Piece of Cloth Secretly to a Poor Man"
+          }
+        },
+        {
+          "id": "cap-036",
+          "title": {
+            "la": "Caput 36. Qualiter dixit fratri Aegidio, priusquam esset reeeptus, ut daret mantellum suum cuidam pauperi",
+            "en-US": "Chapter XXXVI. How he Bade Brother Giles Clothe a Poor Man"
+          }
+        },
+        {
+          "id": "cap-037",
+          "title": {
+            "la": "Caput 37. De paenitentia quam dedit fratri qui male judicavit quemdam pauperem",
+            "en-US": "Chapter XXXVII. Of the Penance he Gave to a Friar who Misjudged a Poor Man"
+          }
+        },
+        {
+          "id": "cap-038",
+          "title": {
+            "la": "Caput 38. De testamento novo quod fecit dari mulieri pauperi matri duorum fratrum",
+            "en-US": "Chapter XXXVIII. How he Caused a New Testament to be Given to the Mother of Two Friars"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-04",
+      "title": {
+        "en-US": "Section IV. Of the Perfection of Holy Humility and Obedience in Himself and his Brethren",
+        "la": "Capitulum IV. De perfectione sanctae humilitatis et obedientiae in seipso et in fratribus suis"
+      },
+      "children": [
+        {
+          "id": "cap-039",
+          "title": {
+            "la": "Caput 39. Et primo qualiter resignavit officium praelationis et instituit generalem ministrum fratrem Petrum Cathanii",
+            "en-US": "Chapter XXXIX. And Firstly how he Resigned the Office of his Prelacy and Appointed Peter of Catana General Minister"
+          }
+        },
+        {
+          "id": "cap-040",
+          "title": {
+            "la": "Caput 40. Qualiter resignavit etiam socios suos nolens habere socium specialem",
+            "en-US": "Chapter XL. How he Gave Up his Fellows, being Unwilling to have a Special Fellow"
+          }
+        },
+        {
+          "id": "cap-041",
+          "title": {
+            "la": "Caput 41. Quod propter malos praelatos renuntiavit officium praelationis",
+            "en-US": "Chapter XLI. That he Resigned Office by Reason of Evil Prelates"
+          }
+        },
+        {
+          "id": "cap-042",
+          "title": {
+            "la": "Caput 42. Quod humiliter acquirebat carnes pro infirmis, et monebat eo esse humiles et patientes",
+            "en-US": "Chapter XLII. That he Humbly Acquired Meat for the Infirm, and Warned them to be Patient"
+          }
+        },
+        {
+          "id": "cap-043",
+          "title": {
+            "la": "Caput 43. De humili responsione beatorum Francisci et Dominici, quando fuerunt simul interrogati utrum vellent fratres suos esse p",
+            "en-US": "Chapter XLIII. Of the Humble Answer of Blessed Francis and Dominic when they were Asked at the Same Time by the Cardinals, Whether they would that their Brethren should be Prelates of the Church"
+          }
+        },
+        {
+          "id": "cap-044",
+          "title": {
+            "la": "Caput 44. Quod pro fundamento humilitatis voluit omnes fratres servire leprosis",
+            "en-US": "Chapter XLIV. That as a Foundation of Humility, he Willed his Friars to Serve the Lepers"
+          }
+        },
+        {
+          "id": "cap-045",
+          "title": {
+            "la": "Caput 45. Quod de omnibus bonis verbis et operibus quis volebat soli Deo attribui gloriam et honorem",
+            "en-US": "Chapter XLV. That he V7ished the Glory and Honour of All his Good Works and Deeds to be Given to God Alone"
+          }
+        },
+        {
+          "id": "cap-046",
+          "title": {
+            "la": "Caput 46. Quod usque ad mortem voluit habere guardianum unum de sociis quis et vivere in subjectione",
+            "en-US": "Chapter XLVI. How Up to his Death he would Fain have a Warden and Live in Subjection"
+          }
+        },
+        {
+          "id": "cap-047",
+          "title": {
+            "la": "Caput 47. De perfecto modo obediendi quem ipse docebat",
+            "en-US": "Chapter XLVII. Ti of the Perfect Manner of Obeying which he Taught"
+          }
+        },
+        {
+          "id": "cap-048",
+          "title": {
+            "la": "Caput 48. Qualiter assimilavit perfectum obedientem corpori mortuo",
+            "en-US": "Chapter XLVIII. How he Likened Perfect Obedience, in a Parable, to the Body of a Dead Man"
+          }
+        },
+        {
+          "id": "cap-049",
+          "title": {
+            "la": "Caput 49. Quod periculosum est niinis cito praecipere per obedientiam et praecepto obedientiae non obedire",
+            "en-US": "Chapter XLIX. That it is Dangerous to Order Too Lightly by Obedience, or not to Obey an Order"
+          }
+        },
+        {
+          "id": "cap-050",
+          "title": {
+            "la": "Caput 50. Qualiter respondit fratribus suadentibus ei ut peteret privilegium quo possent libere praedicare",
+            "en-US": "Chapter L. How he Answered the Friars Persuading him to Seek the Privilege of Preaching Freely"
+          }
+        },
+        {
+          "id": "cap-051",
+          "title": {
+            "la": "Caput 51. De modo quem tenebant tunc fratres in reconciliando se invicem quando unus turbabat alterum",
+            "en-US": "Chapter LI. Of the Manner in Reconciling One Another when One Offended Another"
+          }
+        },
+        {
+          "id": "cap-052",
+          "title": {
+            "la": "Caput 52. Qualiter Christus conquestus fuit fratri Leoni socio beati Francisci de ingratitudine et superbia fratrum",
+            "en-US": "Chapter LII. How Christ Complained to Brother Leo, of the Ingratitude and Pride of the Friars"
+          }
+        },
+        {
+          "id": "cap-053",
+          "title": {
+            "la": "Caput 53. Qualiter humiliter et vere respondit cuidam doctori ordinis Praedicatorum interroganti eum de verbo scripturae",
+            "en-US": "Chapter LIII. How he Answered Humbly and Truly to a Certain Doctor of the Order of Preachers who Questioned him Concerning the Words of Scripture"
+          }
+        },
+        {
+          "id": "cap-054",
+          "title": {
+            "la": "Caput 54. De humilitate et pace habenda cum clericis",
+            "en-US": "Chapter LIV. Of Humility and Peace with the Secular Clergy"
+          }
+        },
+        {
+          "id": "cap-055",
+          "title": {
+            "la": "Caput 55. Qualiter acquisivit humiliter ecclesiam Sanctae Mariae de Angelis ab abbate Sancti Benedicti de Assisio, et voluit fratr",
+            "en-US": "Chapter LV. How he Humbly Acquired the Church of St. Mary of the Angels from the Abbot of St. Benedict, and how he Wished his Brethren to Dwell There and Live Humbly"
+          }
+        },
+        {
+          "id": "cap-056",
+          "title": {
+            "la": "Caput 56. De humili reverentia quem ostendebat circa ecclesias scopando et purgando eas",
+            "en-US": "Chapter LVI. Of the Humble Reverence which he Showed Concerning the Sweeping and Cleaning of Churches"
+          }
+        },
+        {
+          "id": "cap-057",
+          "title": {
+            "la": "Caput 57. De rustico qui invenit eum humiliter scopantem ecclesiam et, conversus, intravit ordinem et fuit sanctus frater",
+            "en-US": "Chapter LVII. Of the Rustic who Found him Sweeping a Church, and being Converted Entered the Order, and was a Saintly Friar"
+          }
+        },
+        {
+          "id": "cap-058",
+          "title": {
+            "la": "Caput 58. Qualiter punivit seipsum comedendo in scutella cum leproso, quia fecerat illi verecundiam",
+            "en-US": "Chapter LVIII. How he Punished Himself Because he had Done Shame to a Leper"
+          }
+        },
+        {
+          "id": "cap-059",
+          "title": {
+            "la": "Caput 59. Qualiter fugavit daemones cum verbis humilitatis",
+            "en-US": "Chapter LIX. How he Put the Demons to Flight with Humble Words"
+          }
+        },
+        {
+          "id": "cap-060",
+          "title": {
+            "la": "Caput 60. De visione fratris Pacifici quem vidit et audivit sedem Lucifer reservari humili Francisco",
+            "en-US": "Chapter LX. Of the Vision of Friar Pacificus which he Saw, and how he Heard that the Seat of Lucifer was Reserved for Blessed Francis"
+          }
+        },
+        {
+          "id": "cap-061",
+          "title": {
+            "la": "Caput 61. Qualiter fecit se trahi nudum cum fune ligato ad collum coram populo",
+            "en-US": "Chapter LXI. How he Made Himself to be Dragged Bound with a Rope at his Neck Unclothed before the People"
+          }
+        },
+        {
+          "id": "cap-062",
+          "title": {
+            "la": "Caput 62. Quod volebat omnibus esse notum quidquid consolationis recipiebat corpus ejus",
+            "en-US": "Chapter LXII. How he Wished that Whatever of Comfort his Body Received should be Known"
+          }
+        },
+        {
+          "id": "cap-063",
+          "title": {
+            "la": "Caput 63. Qualiter accusavit se statim de vana gloria quam habuit dando eleemosynam",
+            "en-US": "Chapter LXIII. How he Accused Himself Immediately of Vain Glory in Giving Charity"
+          }
+        },
+        {
+          "id": "cap-064",
+          "title": {
+            "la": "Caput 64. Qualiter descripsit statum perfectae humilitatis in seipso",
+            "en-US": "Chapter LXIV. How he Described the State of Perfect Humility in Himself"
+          }
+        },
+        {
+          "id": "cap-065",
+          "title": {
+            "la": "Caput 65. Qualiter descripsit statum perfectae humilitatis in seipso",
+            "en-US": "Chapter LXV. How he Wished to Go Humbly to Foreign Parts as he had Sent Other Friars, and how he Taught the Friars to Go Humbly and Devoutly Through the World"
+          }
+        },
+        {
+          "id": "cap-066",
+          "title": {
+            "la": "Caput 66. Qualiter docuit quosdam fratres lucrari animas latronum per humilitatem et caritatem",
+            "en-US": "Chapter LXVI. How he Taught Certain Friars to Gain the Souls of Some Thieves by Humility and Charity"
+          }
+        },
+        {
+          "id": "cap-067",
+          "title": {
+            "la": "Caput 67. Qualiter ex verberatione daemonum cognovit plus placere Deo quod staret in locis pauperculis et humilibus quam cum cardi",
+            "en-US": "Chapter LXVII. How from the Blows of the Demons he Knew it was More Pleasing to the Lord that he should Stay in Poor and Humble Dwellings Rather Than with Cardinals"
+          }
+        },
+        {
+          "id": "cap-068",
+          "title": {
+            "la": "Caput 68. Qualiter reprehendit fratres volentes ire per viam sapientiae et scientiae suae et non per viam humilitatis, et praedixi",
+            "en-US": "Chapter LXVIII. How he Blamed Friars Wishing to Go by the Way of their Wisdom and Knowledge, and not by the Way of Humility; and Foretold the Reformation of the Order to its First State"
+          }
+        },
+        {
+          "id": "cap-069",
+          "title": {
+            "la": "Caput 69. Qualiter praescivit et praedixit quod scientia debebat esse occasio ruinae ordinis, et qualiter prohibuit uni sociorum n",
+            "en-US": "Chapter LXIX. How he Foresaw and Predicted that Learning would be the Ruin of the Order"
+          }
+        },
+        {
+          "id": "cap-070",
+          "title": {
+            "la": "Caput 70. Quod tempore tribulationis futurae qui intrabunt ordinem erunt benedicti, et qui erunt probati erunt meliores praedecess",
+            "en-US": "Chapter LXX. How in the Time of the Tribulation to Come, Those who Shall Enter the Order Shall be Blessed, and Those who Shall be Proved Shall be Better Than their Predecessors"
+          }
+        },
+        {
+          "id": "cap-071",
+          "title": {
+            "la": "Caput 71. Qualiter respondit socio suo, quaerenti cur non corrigebat excessus qui fiebant in ordine tempore suo",
+            "en-US": "Chapter LXXI. How he Answered his Fellow who Enquired Why he did not Correct the Excesses which were in the Order in his Own Day"
+          }
+        },
+        {
+          "id": "cap-072",
+          "title": {
+            "la": "Caput 72. Quod orationibus et lacrimis humilium et simplicium fratrum convertuntur animae quae videntur converti propter scientiam",
+            "en-US": "Chapter LXXII. That Those Souls Are Converted by the Prayers and Tears of the Humble and Simple Brethren which Seem to be Converted by the Knowledge and Preaching of Others"
+          }
+        },
+        {
+          "id": "cap-073",
+          "title": {
+            "la": "Caput 73. Quod volebat et docebat praelatos et pracdicatores debere exercere se in oratione et operibus humilitatis",
+            "en-US": "Chapter LXXIII. How he Willed and Taught that Prelates and Preachers should Exercise Themselves in Prayer and Works of Humility"
+          }
+        },
+        {
+          "id": "cap-074",
+          "title": {
+            "la": "Caput 74. Qualiter ad verecundiam suam docuit fratres cognoscere quando ipse erat servus Dei et quando non",
+            "en-US": "Chapter LXXIV. How he Taught the Friars to Know when he was the Servant of God and when not"
+          }
+        },
+        {
+          "id": "cap-075",
+          "title": {
+            "la": "Caput 75. Quod voluit omnino quod fratres omnes laborarent interdum manibus suis",
+            "en-US": "Chapter LXXV. How he Willed Expressly that Friars Labour Now and Then with their Hands"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-05",
+      "title": {
+        "en-US": "Section V. Concerning his Zeal for the Perfection of the Rule and the Whole Order",
+        "la": "Capitulum V. De zelo ipsius ad professionem regulae et ad totam religionem"
+      },
+      "children": [
+        {
+          "id": "cap-076",
+          "title": {
+            "la": "Caput 76. Et primo qualiter laudabat regulae professionem, et volebat fra-tres scire eam et loqui de ea et mori cum ea",
+            "en-US": "Chapter LXXVI. And Firstly, how he Used to Praise the Profession of the Rule and Wish the Friars to Know it, and that it should be Kept by All Friars"
+          }
+        },
+        {
+          "id": "cap-077",
+          "title": {
+            "la": "Caput 77. De sancto laico qui fuit martyrisatus tenendo regulam in mani-bus",
+            "en-US": "Chapter LXXVII. Of a Holy Layman who was Martyred Holding the Rule in his Hand"
+          }
+        },
+        {
+          "id": "cap-078",
+          "title": {
+            "la": "Caput 78. Quod voluit religionem semper esse sub protectione et correctione Ecclesiae",
+            "en-US": "Chapter LXXVIII. How he Wished his Order to be Always Subject to the Protection and Correction of the Roman Church"
+          }
+        },
+        {
+          "id": "cap-079",
+          "title": {
+            "la": "Caput 79. De quatuor praerogativis quas Dominus donavit religioni et nuntiavit eas beato Francisco",
+            "en-US": "Chapter LXXIX. Of the Four Prerogatives which the Lord Gave to the Order Revealing them to Saint Francis"
+          }
+        },
+        {
+          "id": "cap-080",
+          "title": {
+            "la": "Caput 80. De conditionibus quas dixit esse necessarias generali ministro et sociis ejus",
+            "en-US": "Chapter LXXX. Of what Sort the Minister-general should be"
+          }
+        },
+        {
+          "id": "cap-081",
+          "title": {
+            "la": "Caput 81. Qualiter locutus fuit sibi Dominus dum nimis affligeretur propter fratres qui declinabant a perfectione",
+            "en-US": "Chapter LXXXI. How the Lord Spake unto him, when he was Greatly Afflicted on Account of the Friars who were Depart Ing from Perfection"
+          }
+        },
+        {
+          "id": "cap-082",
+          "title": {
+            "la": "Caput 82. De singulari zelo quem habuit ad locum Sanctae Mariae de Portiuncula et de constitutionibus quas fecit ibi contra verba ",
+            "en-US": "Chapter LXXXII. Of the Singular Zeal which he had to the Place of Blessed Mary and of the Constitutions which he had Made Against Idle Words There"
+          }
+        },
+        {
+          "id": "cap-083",
+          "title": {
+            "la": "Caput 83. Qualiter admonuit fratres ut nunquam dimitterent ipsum locum",
+            "en-US": "Chapter LXXXIII. How he Admonished the Friars that they should Never Leave that Place"
+          }
+        },
+        {
+          "id": "cap-084",
+          "title": {
+            "la": "Caput 84. De praerogativis quas Dominus fecit in loco Sanctae Mariae de Angelis",
+            "en-US": "Chapter LXXXIV. Of the Prerogatives which the Lord Wrought in the Dwelling of St. Mary"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-06",
+      "title": {
+        "en-US": "Section VI. Of his Zeal for the Perfection of the Brethren",
+        "la": "Capitulum VI. De zelo ipsius ad perfectionem fratrum"
+      },
+      "children": [
+        {
+          "id": "cap-085",
+          "title": {
+            "la": "Caput 85. Et primo qualiter descripsit eis fratrem perfectum",
+            "en-US": "Chapter LXXXV. And, Firstly, how he Described to them the Perfect Friar"
+          }
+        },
+        {
+          "id": "cap-086",
+          "title": {
+            "la": "Caput 86. Qualiter describebat oculos impudicos ut induceret fratres ad honestatem",
+            "en-US": "Chapter LXXXVI. How he Described Shamefast Eyes, that he Might Teach Becoming Behaviour"
+          }
+        },
+        {
+          "id": "cap-087",
+          "title": {
+            "la": "Caput 87. De tribus verbis quae reliquit fratribus ad conservandam perfectionem ipsorum",
+            "en-US": "Chapter LXXXVII. Of the Three Sayings which he Left to the Friars to Preserve their Perfection"
+          }
+        },
+        {
+          "id": "cap-088",
+          "title": {
+            "la": "Caput 88. De amore quem ostendit fratribus prope mortem dando singulis buccellam panis sicut fecit Christus",
+            "en-US": "Chapter LXXXVIII. Of the Love which he Showed to the Friars when Near his Death, Giving to Each a Mouthful of Bread by the Example of Christ"
+          }
+        },
+        {
+          "id": "cap-089",
+          "title": {
+            "la": "Caput 89. Qualiter timebat ne fratres incurrerent aliquam turbationem propter infirmitates suas",
+            "en-US": "Chapter LXXXIX. How he Feared Lest the Friars should Complain of his Infirmity"
+          }
+        },
+        {
+          "id": "cap-090",
+          "title": {
+            "la": "Caput 90. Qualiter admonuit sorores sanctae Clarae",
+            "en-US": "Chapter XC. How he Admonished the Sisters of St. Clare"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-07",
+      "title": {
+        "en-US": "Section VII. Of his Continual Fervour of Love and Passion for the Passion of Christ",
+        "la": "Capitulum VII. De continuo fervore amoris et compassionis ad passionem christi"
+      },
+      "children": [
+        {
+          "id": "cap-091",
+          "title": {
+            "la": "Caput 91. Et primo quod non curabat de suis infirmitatibus propter amorem passionis Christi",
+            "en-US": "Chapter XCI. And Firstly, how he Took No Care of his Own Infirmities on Account of his Love of the Passion of Christ"
+          }
+        },
+        {
+          "id": "cap-092",
+          "title": {
+            "la": "Caput 92. Qualiter inventus fuit ire plangendo alta voce passionem Christi",
+            "en-US": "Chapter XCII. How he was Found Going, Lamenting in a Loud Voice the Passion of Christ"
+          }
+        },
+        {
+          "id": "cap-093",
+          "title": {
+            "la": "Caput 93. Qualiter solatia quae aliquando faciebat exterius vertebantur in lacrimas et compassionem Christi",
+            "en-US": "Chapter XCIII. How the Joys which he Sometimes had were Turned into Tears"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-08",
+      "title": {
+        "en-US": "Section VIII. Of his Zeal for the Order and the Divine Work",
+        "la": "Capitulum VIII. De zelo ipsius ad orationem et divinum officium et ad servandam laetitiam spiritualem in se et in aliis"
+      },
+      "children": [
+        {
+          "id": "cap-094",
+          "title": {
+            "la": "Caput 94. Et primo de oratione et divino officio",
+            "en-US": "Chapter XCIV. And Firstly, of Prayer and the Divine Office"
+          }
+        },
+        {
+          "id": "cap-095",
+          "title": {
+            "la": "Caput 95. Qualiter in se et in allis semper dilexit laetitiam spiritualem in-teriorem et exteriorem",
+            "en-US": "Chapter XCV. How he Ever Loved Spiritual Gladness in Himself and Others"
+          }
+        },
+        {
+          "id": "cap-096",
+          "title": {
+            "la": "Caput 96. Qualiter reprehendit socium qui erat tristis in facie",
+            "en-US": "Chapter XCVI. How he Reproved his Fellow who was Sad of Face, and Concerning Intelligible Gladness"
+          }
+        },
+        {
+          "id": "cap-097",
+          "title": {
+            "la": "Caput 97. Qualiter docebat fratres satisfacere necessitatibus corporis ne oratio amittatur",
+            "en-US": "Chapter XCVII. How Friars should Satisfy the Necessities of the Body"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-09",
+      "title": {
+        "en-US": "Section IX. Of Certain Temptations which the Lord Permitted to him"
+      },
+      "children": [
+        {
+          "id": "cap-098",
+          "title": {
+            "la": "Caput 98. Et primo qualiter daemon intravit pulvinar quod habebat sub capite",
+            "en-US": "Chapter XCVIII. And Firstly, how the Demon Entered a Pillow which he had Under his Head"
+          }
+        },
+        {
+          "id": "cap-099",
+          "title": {
+            "la": "Caput 99. De gravissima tentatione quam habuit ultra duos annos",
+            "en-US": "Chapter XCIX. Of the Very Grave Temptation which he had for More Than Two Years"
+          }
+        },
+        {
+          "id": "cap-100",
+          "title": {
+            "la": "Caput 100. De tentatione quam habuit per mures de qua consolatus est eum Dominus et tunc certificavit eum de regno suo",
+            "en-US": "Chapter C. Of the Temptation which he had Through Mice, Concerning which the Lord Consoled him, Certifying him of his Kingdom"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": {
+        "en-US": "Section X. Of the Spirit of Prophecy",
+        "la": "Capitulum X. De spiritu prophetiae"
+      },
+      "children": [
+        {
+          "id": "cap-101",
+          "title": {
+            "la": "Caput 101. Et primo qualiter praedixit pacem fiendam inter episcopum et potestatem Assisii virtute laudis quam fecerat de creaturis",
+            "en-US": "Chapter CI. And Firstly, how he Predicted that Peace would be Made Between the Bishop and Podesta of the City of Assisi, when the Canticle was Heard which he had Made to the Praises of the Creatures"
+          }
+        },
+        {
+          "id": "cap-102",
+          "title": {
+            "la": "Caput 102. Qualiter praevidit casum fratris qui nolebat confiteri sub specie silentii",
+            "en-US": "Chapter CII. How he Foresaw the Fall of a Friar Unwilling to Confess Under an Appearance of Silence"
+          }
+        },
+        {
+          "id": "cap-103",
+          "title": {
+            "la": "Caput 103. De illo qui plorabat coram beato Francisco ut reciperetur ad ordinem",
+            "en-US": "Chapter CIII. Of a Certain Man who Wept before the Blessed Francis that he Might be Received into the Order"
+          }
+        },
+        {
+          "id": "cap-104",
+          "title": {
+            "la": "Caput 104. De vinea sacerdotis quae fuerat spoliata uvis occasione beati Francisci",
+            "en-US": "Chapter CIV. Of the Vineyard of the Priest Spoiled on Account of Blessed Francis"
+          }
+        },
+        {
+          "id": "cap-105",
+          "title": {
+            "la": "Caput 105. De militibus Perusii qui impediebant praedicationem suam",
+            "en-US": "Chapter CV. Of the Knights of Perugia who Hindered his Preaching"
+          }
+        },
+        {
+          "id": "cap-106",
+          "title": {
+            "la": "Caput 106. Qualiter praevidit occultam tentationem et tribulationem cujusdam fratris",
+            "en-US": "Chapter CVI. How he Foresaw the Hidden Temptations and Tribulations of a Certain Friar"
+          }
+        },
+        {
+          "id": "cap-107",
+          "title": {
+            "la": "Caput 107. De iis quae praedixit de fratre Bernardo, et qualiter impleta fuerunt omnia",
+            "en-US": "Chapter CVII. Of Those Things which he Foretold of Brother Bernard, which were Afterwards Fulfilled as he had Pre Dicted"
+          }
+        },
+        {
+          "id": "cap-108",
+          "title": {
+            "la": "Caput 108. Qualiter prope mortem suam misit beatae Clarae quod videret ipsum et impletum fuit post mortem ejus",
+            "en-US": "Chapter CVIII. How when Near his Death he Promised to Blessed Clare that She should See him, and how after his Death it was Fulfilled"
+          }
+        },
+        {
+          "id": "cap-109",
+          "title": {
+            "la": "Caput 109. Qualiter praedixit corpus suum esse honorandum post mortem",
+            "en-US": "Chapter CIX. How he Foretold that his Body would be Honoured after his Death"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": {
+        "en-US": "Section XI. Of the Divine Providence Concerning him",
+        "la": "Capitulum XI. De divina providentia circa ipsum in rebus exterioribus"
+      },
+      "children": [
+        {
+          "id": "cap-110",
+          "title": {
+            "la": "Caput 110. Et primo qualiter Dominus providit fratribus sedentibus ad mensam pauperculam cum medico",
+            "en-US": "Chapter CX. And Firstly, how the Lord Provided for the Friars Sitting at a Poor Table with the Physician"
+          }
+        },
+        {
+          "id": "cap-111",
+          "title": {
+            "la": "Caput 111. De pisce quem appetebat in infirmitate sua",
+            "en-US": "Chapter CXI. Of Tee Fish which he Desired in his Infirmity"
+          }
+        },
+        {
+          "id": "cap-112",
+          "title": {
+            "la": "Caput 112. De cibo et panno quos appetebat circa mortem suam",
+            "en-US": "Chapter CXII. Of the Food and Cloth which Pie Desired at his Death"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-12",
+      "title": {
+        "en-US": "Section XII. Of his Love for Creatures and of Creatures for him",
+        "la": "Capitulum XII. De amore ipsius ad creaturas et creaturarum ad ipsum"
+      },
+      "children": [
+        {
+          "id": "cap-113",
+          "title": {
+            "la": "Caput 113. Et primo de amore quem habuit specialiter ad aves quae vocantur laudae capellutae, quia per eas figurabat bonum religios",
+            "en-US": "Chapter CXIII. And Firstly, of the Love which he Especially had for the Birds which Are Called Larks"
+          }
+        },
+        {
+          "id": "cap-114",
+          "title": {
+            "la": "Caput 114. Quod volebat suadere Imperatori ut faceret specialem legem quod in Nativitate Domini homines bene providerent avibus et ",
+            "en-US": "Chapter CXIV. How he Wished to Persuade the Emperor to Make a Law that Men should Make a Good Provision for Birds and Oxen and Asses and the Poor at Christmas-time"
+          }
+        },
+        {
+          "id": "cap-115",
+          "title": {
+            "la": "Caput 115. De amore et obedientia ignis ad ipsum quando fecit sibi fieri cocturam",
+            "en-US": "Chapter CXV. Of the Obedience of the Fire to him, when he was Cauterised"
+          }
+        },
+        {
+          "id": "cap-116",
+          "title": {
+            "la": "Caput 116. Quod noluit exstinguere nec permittere exstingui ignem qui comburebat bracas suas",
+            "en-US": "Chapter CXVI. That he would not Quench the Fire that had Burnt his Hose"
+          }
+        },
+        {
+          "id": "cap-117",
+          "title": {
+            "la": "Caput 117. Quod nunquam voluit portare unam pellem, quia non permisit eam comburi ab igne",
+            "en-US": "Chapter CXVII. How he would not Wear a Skin Because he had not Permitted it to be Burnt with Fire"
+          }
+        },
+        {
+          "id": "cap-118",
+          "title": {
+            "la": "Caput 118. De singulari amore quem habuit ad aquam et petras et ligna et flores",
+            "en-US": "Chapter CXVIII. Of his Love for Water and Stones and Wood and Flowers"
+          }
+        },
+        {
+          "id": "cap-119",
+          "title": {
+            "la": "Caput 119. Qualiter commendabat solem et ignem prae allis creaturis",
+            "en-US": "Chapter CXIX. How he Used to Commend the Sun and Fire Above All Other Created Things"
+          }
+        },
+        {
+          "id": "cap-120",
+          "title": {
+            "la": "Caput 120. Haec est laus de creaturis quam fecit quando Dominus certificavit eum de regno suo",
+            "en-US": "Chapter CXX. This is the Praise of Created Things, which he Made when the Lord Certified him of his Kingdom"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-13",
+      "title": {
+        "en-US": "Section XIII. Of his Death, and of the Gladness which he Showed when he First Knew for Certain that he was Near Death",
+        "la": "Capitulum XIII. De morte ipsius et laetitia quam ostendit quando scivit pro certo se esse morti propinquum"
+      },
+      "children": [
+        {
+          "id": "cap-121",
+          "title": {
+            "la": "Caput 121. Et primo qualiter respondit fratri Heliae arguenti ipsum de tanta laetitia quam ostendebat",
+            "en-US": "Chapter CXXI. And Firstly, how he Answered Brother Elias when he Rebuked him for This"
+          }
+        },
+        {
+          "id": "cap-122",
+          "title": {
+            "la": "Caput 122. Qualiter induxit medicum ad dicendum sibi quantum poterat vivere",
+            "en-US": "Chapter CXXII. How he Induced the Physician to Tell him how Long he should Live"
+          }
+        },
+        {
+          "id": "cap-123",
+          "title": {
+            "la": "Caput 123. Quod statim cum audivit se cito moriturum fecit sibi cantari laudes quas fecerat",
+            "en-US": "Chapter CXXIII. That Straightway, when he Heard that he should Die so Soon, he Caused the Praises which he had Made to be Sung to him"
+          }
+        },
+        {
+          "id": "cap-124",
+          "title": {
+            "la": "Caput 124. Qualiter benedixit civitati Assisii quando portabatur ad Sanctam Mariam ut moreretur ibi",
+            "en-US": "Chapter CXXIV. How he Blessed the City of Assisi when he was being Carried to St. Mary Thereat to Die"
+          }
+        }
+      ]
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-03",
+    "en-US": "2026-11-03"
+  }
+}

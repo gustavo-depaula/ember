@@ -5,7 +5,8 @@
   },
   "century": 13,
   "matches": [
-    "Companions of St. Francis (Compilatio Assisiensis)"
+    "Companions of St. Francis (Compilatio Assisiensis)",
+    "Companions of St. Francis (Speculum perfectionis)"
   ],
   "guide": [
     {
@@ -19,6 +20,13 @@
           "why": {
             "en-US": "120 memories of Francis from his companions, above all Brother Leo",
             "pt-BR": "120 memórias de Francisco por seus companheiros, sobretudo frei Leão"
+          }
+        },
+        {
+          "work": "companions-of-francis/speculum-perfectionis",
+          "why": {
+            "en-US": "The companions' memories ordered by virtue, as compiled in 1318",
+            "pt-BR": "As memórias dos companheiros ordenadas por virtude, compiladas em 1318"
           }
         }
       ]
