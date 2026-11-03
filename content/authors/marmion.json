@@ -10,5 +10,92 @@
     "Dom Columba Marmion",
     "Bl. Columba Marmion",
     "Joseph Marmion"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "The three conference volumes, beginning with the one that follows the liturgical year.",
+        "pt-BR": "Os três volumes de conferências, começando pelo que segue o ano litúrgico."
+      },
+      "works": [
+        {
+          "work": "marmion/christ-in-his-mysteries",
+          "why": {
+            "en-US": "Twenty conferences on Christ's mysteries through the year",
+            "pt-BR": "Vinte conferências sobre os mistérios de Cristo ao longo do ano"
+          }
+        },
+        {
+          "work": "marmion/christ-vie-de-lame",
+          "why": {
+            "en-US": "Our adoption in Christ, model, redeemer and source of grace",
+            "pt-BR": "Nossa adoção em Cristo, modelo, redentor e fonte da graça"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "For monks and the consecrated",
+        "pt-BR": "Para monges e consagrados"
+      },
+      "works": [
+        {
+          "work": "marmion/christ-ideal-du-moine",
+          "why": {
+            "en-US": "Eighteen conferences on the Rule of St Benedict in Christ",
+            "pt-BR": "Dezoito conferências sobre a Regra de São Bento em Cristo"
+          }
+        },
+        {
+          "work": "marmion/sponsa-verbi",
+          "why": {
+            "en-US": "Seven conferences to consecrated virgins",
+            "pt-BR": "Sete conferências às virgens consagradas"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Devotions",
+        "pt-BR": "Devoções"
+      },
+      "works": [
+        {
+          "work": "marmion/chemin-de-la-croix",
+          "why": {
+            "en-US": "The Stations of the Cross, a meditation on each",
+            "pt-BR": "A Via-Sacra, com uma meditação em cada estação"
+          }
+        },
+        {
+          "work": "marmion/consecration-trinity",
+          "why": {
+            "en-US": "His act of consecration to the Trinity, Christmas 1908",
+            "pt-BR": "Seu ato de consagração à Trindade, Natal de 1908"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Letters",
+        "pt-BR": "Cartas"
+      },
+      "works": [
+        {
+          "work": "marmion/english-letters",
+          "why": {
+            "en-US": "His English letters, 1881-1923, by correspondent",
+            "pt-BR": "Suas cartas em inglês, 1881-1923, por correspondente"
+          }
+        }
+      ]
+    }
   ]
 }
