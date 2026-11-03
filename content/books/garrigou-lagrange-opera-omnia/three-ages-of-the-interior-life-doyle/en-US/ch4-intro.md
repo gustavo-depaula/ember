@@ -1,0 +1,29 @@
+# Introduction
+
+SECTION I
+
+The Entrance into the Unitive Way through the Night of the Spirit
+
+ABW AB AB BW B® AB BA B B BB B® B AB B@ B B B @ B B@ @ @ B B B B B EB B@ B® B B BE B BA B AB EB BA B EB EA EA BE EB
+
+N accordance with our plan for the division of this work,’ we shall follow the teaching of St. John of the Cross, who is the faithful echo of the tradition of the great spiritual writers, and treat of the night of the spirit at the beginning of the unitive way, since, according to the Mystical Doctor, the night of the spirit marks the entrance into this way, understood in its full and intense meaning. We shall see the nature of the passive purification of the spirit, the conduct to be observed in it, its effects, and the principal characteristics of the spiritual age of the perfect or of souls already purified.
+
+Division oF Part IV
+
+In this fourth part we shall discuss, first of all, the entrance into the unitive way. According to St. John of the Cross, the soul enters this way by the passive purification of the spirit, which he explains in the second book of The Dark Night. In our opinion the Mystical Doctor thus preserves and examines thoroughly the traditional doctrine, because he considers the illuminative way of proficients and the unitive way of the perfect not in their diminished forms, but in their normal plenitude. From this higher point of view, the illuminative way demands the passive purification of the senses, which, we have seen, marks the entrance to it and is like a second conversion, analogous to that of the apostles, especially of Peter, during the dark night of the Passion. For the same reason, the unitive way of the perfect demands a passive purification of the spirit, which is like a third conversion, or rather a transformation of the soul, simi-[^1]
+
+-a THREE AGFS OF THE INTERIOR LIFE lar to that experienced by the apostles when, after being painfully deprived of the presence of Christ on Ascension Day, they received the Holy Ghost on Pentecost. This new purification strengthened them greatly and prepared them for their apostolate, which, from then on, was to have its source in the plenitude of the contemplation of the mystery of Christ. This was truly the case, as St. Peter’s sermons on Pentecost and the following days show.?
+
+We shall, therefore, discuss, first of all, the necessity of the passive purification of the spirit because of the defects which subsist in proficients or the advanced. We shall see the nature of this purification and its theological explanation; we shall give the rules for direction appropriate at this stage, and point out the effects of this purification and its concomitant trials.
+
+It will then be easier to characterize the spiritual age of the perfect, to see the nature of the indwelling of the Blessed Trinity in the purified soul, to describe the contemplative faith of the perfect, their confidence in God, their abandonment, charity, and zeal. We shall thus be led to speak of the transforming union, following chiefly St. John of the Cross, and of the radiation of this intimate union with God in the life of reparation and in the apostolate. We shall thus be able better to determine what constitutes the fuli perfection of Christian life, the normal prelude of the life of heaven and the immediate disposition to receive the beatific vision without passing through purgatory.
+
+To show more clearly in what this normal plenitude of Christian life consists, we shall not discuss in this section the essentially extraordinary graces that sometimes accompany and even precede the transforming union; we shall deal with them in the following section. Thus we can draw a clearer distinction between every essentially extraordinary grace and the normal summit of the life of grace on earth, that is, the full development of the virtues and the gifts of the Holy Ghost. ‘To be sure, this summit is an eminent and relatively rare state, like lofty perfection; but it does not follow that it is an intrinsically extraordinary favor, like the gift of prophecy and other charisms, or graces gratis datae, which are, besides, inferior to sanctifying grace. St. Thomas ° proves that prophecy and other in a little book, which appeared in 1932, entitled Les Trois conversions et les trois voies. 3 Summa, Ia Mae, q.111, a.5: “The end is always greater than the means.
+
+ENTRANCE INTO THE UNITIVE WAY 355 similar charisms are only as it were exterior signs, whereas sanctifying grace, from which proceed charity, the other infused virtues, and the gifts, unites us to God and tends while growing to unite us ever more closely to Him, until it merits the name of consummated grace, which is eternal life itself.
+
+But sanctifying grace ordains a man immediately to a union with his last end, whereas gratia gratis data ordains a man to what is preparatory to the end; i.e., by prophecy and miracles and so forth, men are induced to unite themselves to their last end. And hence sanctifying grace is nobler than gratia gratis data.”[^2]
+
+[^1]: Cf. supra, I, 24.
+
+[^2]: Acts 2 f. We discussed the second and third conversions at greater length

@@ -1,0 +1,672 @@
+{
+  "id": "garrigou-three-ages-interior-life",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Les Trois Âges de la vie intérieure (traduction anglaise)",
+    "en-US": "The Three Ages of the Interior Life",
+    "pt-BR": "As três idades da vida interior (tradução inglesa)"
+  },
+  "author": {
+    "fr-FR": "Réginald Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "description": {
+    "en-US": "Prelude of eternal life: the magnum opus of Garrigou-Lagrange on the sources of the interior life and its three ages, purgative, illuminative and unitive, with the prayer of the Church, infused contemplation and the call to it. Sr. M. Timothea Doyle’s English of Les Trois Âges de la vie intérieure (1938), 2 vols, Herder 1947-48.",
+    "pt-BR": "Prelúdio da vida eterna: a obra maior de Garrigou-Lagrange sobre as fontes da vida interior e suas três idades, purgativa, iluminativa e unitiva. Tradução inglesa de Sr. M. Timothea Doyle (Herder, 1947-48) de Les Trois Âges de la vie intérieure (1938)."
+  },
+  "composed": "1938",
+  "work": "garrigou-lagrange/trois-ages-de-la-vie-interieure",
+  "editions": {
+    "en-US": {
+      "translator": "Sr. M. Timothea Doyle, O.P.",
+      "year": 1947
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/Lagrange-English",
+      "edition": "The Three Ages of the Interior Life: Prelude of Eternal Life, tr. Sr. M. Timothea Doyle, O.P., 2 vols, St. Louis: B. Herder, 1947-48 (archive.org Lagrange-English; the French tome 1 is not open)"
+    }
+  ],
+  "languages": [
+    "en-US"
+  ],
+  "toc": [
+    {
+      "id": "ch1",
+      "title": {
+        "en-US": "Part I. The Sources of the Interior Life and Its End"
+      },
+      "children": [
+        {
+          "id": "ch1-intro",
+          "title": {
+            "en-US": "Introduction"
+          }
+        },
+        {
+          "id": "ch1-a1",
+          "title": {
+            "en-US": "Chapter I. The Life of Grace, Eternal Life Begun"
+          }
+        },
+        {
+          "id": "ch1-a2",
+          "title": {
+            "en-US": "Chapter II. The Interior Life and Intimate Conversation with God"
+          }
+        },
+        {
+          "id": "ch1-a3",
+          "title": {
+            "en-US": "Chapter III. The Spiritual Organism"
+          }
+        },
+        {
+          "id": "ch1-a4",
+          "title": {
+            "en-US": "Chapter IV. The Blessed Trinity Present in Us, Uncreated Source of Our Interior Life"
+          }
+        },
+        {
+          "id": "ch1-a5",
+          "title": {
+            "en-US": "Chapter V. The Influence of Christ the Redeemer on His Mystical Body"
+          }
+        },
+        {
+          "id": "ch1-a6",
+          "title": {
+            "en-US": "Chapter VI. The Influence of Mary Mediatrix"
+          }
+        },
+        {
+          "id": "ch1-a7",
+          "title": {
+            "en-US": "Chapter VII. The Growth of the Life of Grace by Merit, Prayer, and the Sacraments"
+          }
+        },
+        {
+          "id": "ch1-a8",
+          "title": {
+            "en-US": "Chapter VIII. The True Nature of Christian Perfection"
+          }
+        },
+        {
+          "id": "ch1-a9",
+          "title": {
+            "en-US": "Chapter IX. The Grandeur of Christian Perfection and the Beatitudes"
+          }
+        },
+        {
+          "id": "ch1-a10",
+          "title": {
+            "en-US": "Chapter X. Perfection and Heroic Virtue"
+          }
+        },
+        {
+          "id": "ch1-a11",
+          "title": {
+            "en-US": "Chapter XI. Full Christian Perfection and the Passive Purifications"
+          }
+        },
+        {
+          "id": "ch1-a12",
+          "title": {
+            "en-US": "Chapter XII. Perfection and the Precept of the Love of God"
+          }
+        },
+        {
+          "id": "ch1-a13",
+          "title": {
+            "en-US": "Chapter XIII. Perfection and the Evangelical Counsels"
+          }
+        },
+        {
+          "id": "ch1-a14",
+          "title": {
+            "en-US": "Chapter XIV. The Special Obligation of the Priest and the Religious to Tend to Perfection"
+          }
+        },
+        {
+          "id": "ch1-a15",
+          "title": {
+            "en-US": "Chapter XV. The Three Ages of the Spiritual Life According to the Fathers and the Great Spiritual Writers"
+          }
+        },
+        {
+          "id": "ch1-a16",
+          "title": {
+            "en-US": "Chapter XVI. Spiritual Reading of Scripture, of the Works and Lives of the Saints"
+          }
+        },
+        {
+          "id": "ch1-a17",
+          "title": {
+            "en-US": "Chapter XVII. Spiritual Direction"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": {
+        "en-US": "Part II. The Purification of the Soul in Beginners"
+      },
+      "children": [
+        {
+          "id": "ch2-intro",
+          "title": {
+            "en-US": "Introduction"
+          }
+        },
+        {
+          "id": "ch2-a18",
+          "title": {
+            "en-US": "Chapter XVIII. The Spiritual Age of Beginners"
+          }
+        },
+        {
+          "id": "ch2-a19",
+          "title": {
+            "en-US": "Chapter XIX. Practical Naturalism and Mortification According to the Gospel"
+          }
+        },
+        {
+          "id": "ch2-a20",
+          "title": {
+            "en-US": "Chapter XX. Mortification According to St. Paul and the Reasons for Its Necessity"
+          }
+        },
+        {
+          "id": "ch2-a21",
+          "title": {
+            "en-US": "Chapter XXI. Sins to be Avoided Their Roots and Their Consequences"
+          }
+        },
+        {
+          "id": "ch2-a22",
+          "title": {
+            "en-US": "Chapter XXII. The Predominant Fault"
+          }
+        },
+        {
+          "id": "ch2-a23",
+          "title": {
+            "en-US": "Chapter XXIII. Passions to be Regulated"
+          }
+        },
+        {
+          "id": "ch2-a24",
+          "title": {
+            "en-US": "Chapter XXIV. The Active Purification of the Senses or of the Sensible Appetites"
+          }
+        },
+        {
+          "id": "ch2-a25",
+          "title": {
+            "en-US": "Chapter XXV. The Active Purification of the Imagination and the Memory"
+          }
+        },
+        {
+          "id": "ch2-a26",
+          "title": {
+            "en-US": "Chapter XXVI. The Active Purification of the Intellect"
+          }
+        },
+        {
+          "id": "ch2-a27",
+          "title": {
+            "en-US": "Chapter XXVII. The Active Purification of the Will"
+          }
+        },
+        {
+          "id": "ch2-a28",
+          "title": {
+            "en-US": "Chapter XXVIII. The Healing of Pride"
+          }
+        },
+        {
+          "id": "ch2-a29",
+          "title": {
+            "en-US": "Chapter XXIX. The Healing of Spiritural Sloth, or Acedia"
+          }
+        },
+        {
+          "id": "ch2-a30",
+          "title": {
+            "en-US": "Chapter XXX. Sacramental Confession"
+          }
+        },
+        {
+          "id": "ch2-a31",
+          "title": {
+            "en-US": "Chapter XXXI. Assistance at Mass, the Source of Sanctification"
+          }
+        },
+        {
+          "id": "ch2-a32",
+          "title": {
+            "en-US": "Chapter XXXII. Holy Communion"
+          }
+        },
+        {
+          "id": "ch2-a33",
+          "title": {
+            "en-US": "Chapter XXXIII. The Prayer of Petition"
+          }
+        },
+        {
+          "id": "ch2-a34",
+          "title": {
+            "en-US": "Chapter XXXIV. Liturgical Prayer"
+          }
+        },
+        {
+          "id": "ch2-a35",
+          "title": {
+            "en-US": "Chapter XXXV. The Mental Prayer of Beginners lts Progessive Simplification"
+          }
+        },
+        {
+          "id": "ch2-a36",
+          "title": {
+            "en-US": "Chapter XXXVI. How to Attain to the Life of Prayer and Persevere in It"
+          }
+        },
+        {
+          "id": "ch2-a37",
+          "title": {
+            "en-US": "Chapter XXXVII. Retarded Souls"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": {
+        "en-US": "Part III. The Illuminative Way of Proficients"
+      },
+      "children": [
+        {
+          "id": "ch3-a38",
+          "title": {
+            "en-US": "Chapter XXXVIII. The Object of the Third Part and the Language of Spiritual Writers Compared with That of Theologians"
+          }
+        },
+        {
+          "id": "ch3-a39",
+          "title": {
+            "en-US": "Chapter XXXIX. The Entrance into the Illuminative Way"
+          }
+        },
+        {
+          "id": "ch3-a40",
+          "title": {
+            "en-US": "Chapter XL. The Second Conversion According to Several Spiritual Writers"
+          }
+        },
+        {
+          "id": "ch3-a41",
+          "title": {
+            "en-US": "Chapter XLI. The Passive Purification of the Senses and the Entrance into the Illuminative Way"
+          }
+        },
+        {
+          "id": "ch3-a42",
+          "title": {
+            "en-US": "Chapter XLII. Conduct to Be Observed in the Night of the Senses"
+          }
+        },
+        {
+          "id": "ch3-a43",
+          "title": {
+            "en-US": "Chapter XLIII. The Spiritual Age of Proficients Principal Characteristics"
+          }
+        },
+        {
+          "id": "ch3-a44",
+          "title": {
+            "en-US": "Chapter XLIV. The Spiritual Edifice in Proficients"
+          }
+        },
+        {
+          "id": "ch3-a45",
+          "title": {
+            "en-US": "Chapter XLV. Prudence and the Interior Life"
+          }
+        },
+        {
+          "id": "ch3-a46",
+          "title": {
+            "en-US": "Chapter XLVI. The Different Forms of Justice and the Education of the Will"
+          }
+        },
+        {
+          "id": "ch3-a47",
+          "title": {
+            "en-US": "Chapter XLVII. Patience and Meekness"
+          }
+        },
+        {
+          "id": "ch3-a48",
+          "title": {
+            "en-US": "Chapter XLVIII. The Value of Chastity and Its Spiritual Fruitfulness"
+          }
+        },
+        {
+          "id": "ch3-a49",
+          "title": {
+            "en-US": "Chapter XLIX. The Humility of Proficients"
+          }
+        },
+        {
+          "id": "ch3-a50",
+          "title": {
+            "en-US": "Chapter L. The Humility of the Word Made Flesh and What Ours Should Be"
+          }
+        },
+        {
+          "id": "ch3-a51",
+          "title": {
+            "en-US": "Chapter LI. The Spirit of Poverty"
+          }
+        },
+        {
+          "id": "ch3-a52",
+          "title": {
+            "en-US": "Chapter LII. The Grandeur of Obedience"
+          }
+        },
+        {
+          "id": "ch3-a53",
+          "title": {
+            "en-US": "Chapter LIII. Simplicity and Uprightness"
+          }
+        },
+        {
+          "id": "ch3-a54",
+          "title": {
+            "en-US": "Chapter LIV. The Spirit of Faith and Its Progress"
+          }
+        },
+        {
+          "id": "ch3-a55",
+          "title": {
+            "en-US": "Chapter LV. Confidence in God; Its Certitude"
+          }
+        },
+        {
+          "id": "ch3-a56",
+          "title": {
+            "en-US": "Chapter LVI. The Love of Conformity to the Divine Will"
+          }
+        },
+        {
+          "id": "ch3-a57",
+          "title": {
+            "en-US": "Chapter LVII. Fraternal Charity, Radiation of the Love of God"
+          }
+        },
+        {
+          "id": "ch3-a58",
+          "title": {
+            "en-US": "Chapter LVIII. Zeal for the Glory of God and the Salvation of Souls"
+          }
+        },
+        {
+          "id": "ch3-a59",
+          "title": {
+            "en-US": "Chapter LIX. Docility to the Holy Ghost"
+          }
+        },
+        {
+          "id": "ch3-a60",
+          "title": {
+            "en-US": "Chapter LX. The Discerning of Spirits"
+          }
+        },
+        {
+          "id": "ch3-a61",
+          "title": {
+            "en-US": "Chapter LXI. The Sacrifice of the Mass and Proficients"
+          }
+        },
+        {
+          "id": "ch3-a62",
+          "title": {
+            "en-US": "Chapter LXII. The Communion of Proficients"
+          }
+        },
+        {
+          "id": "ch3-a63",
+          "title": {
+            "en-US": "Chapter LXIII. Devotion to Mary in Proficients"
+          }
+        },
+        {
+          "id": "ch3-a64",
+          "title": {
+            "en-US": "Chapter LXIV. The Universal Accessibility of the Mysticism of The Imitation"
+          }
+        },
+        {
+          "id": "ch3-a65",
+          "title": {
+            "en-US": "Chapter LXV. Contemplative Prayer"
+          }
+        },
+        {
+          "id": "ch3-a66",
+          "title": {
+            "en-US": "Chapter LXVI. The Errors of the Quietists on Contemplation and Pure Love"
+          }
+        },
+        {
+          "id": "ch3-a67",
+          "title": {
+            "en-US": "Chapter LXVII. The Degrees of Contemplative Prayer in Proficients"
+          }
+        },
+        {
+          "id": "ch3-a68",
+          "title": {
+            "en-US": "Chapter LXVIII. Questions Relative to Infused Contemplation"
+          }
+        },
+        {
+          "id": "ch3-a69",
+          "title": {
+            "en-US": "Chapter LXIX. The New Elements in Infused Prayer"
+          }
+        },
+        {
+          "id": "ch3-a70",
+          "title": {
+            "en-US": "Chapter LXX. The Agreement and Differences Between St. Teresa and St. John of the Cross"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": {
+        "en-US": "Part IV. The Unitive Way of the Perfect"
+      },
+      "children": [
+        {
+          "id": "ch4-intro",
+          "title": {
+            "en-US": "Introduction"
+          }
+        },
+        {
+          "id": "ch4-a71",
+          "title": {
+            "en-US": "Chapter LXXI. The Necessity of the Passive Purification of the Spirit, and the Prelude of the Unitive Way"
+          }
+        },
+        {
+          "id": "ch4-a72",
+          "title": {
+            "en-US": "Chapter LXXII. Description of the Passive Purification of the Spirit"
+          }
+        },
+        {
+          "id": "ch4-a73",
+          "title": {
+            "en-US": "Chapter LXXIII. The Cause of the Passive Purification of the Spirit"
+          }
+        },
+        {
+          "id": "ch4-a74",
+          "title": {
+            "en-US": "Chapter LXXIV. The Transluminous Obscurity"
+          }
+        },
+        {
+          "id": "ch4-a75",
+          "title": {
+            "en-US": "Chapter LXXV. Conduct to Be Observed during the Purification of the Spirit"
+          }
+        },
+        {
+          "id": "ch4-a76",
+          "title": {
+            "en-US": "Chapter LXXVI. The Effects of the Passive Purification of the Spirit in Relation Especially to the Three Theological Virtues"
+          }
+        },
+        {
+          "id": "ch4-a77",
+          "title": {
+            "en-US": "Chapter LXXVII. The Spiritual Age of the Perfect, Their Union with God"
+          }
+        },
+        {
+          "id": "ch4-a78",
+          "title": {
+            "en-US": "Chapter LXXVIII. A Form of Perfect Life: the Way of Spiritual Childhood"
+          }
+        },
+        {
+          "id": "ch4-a79",
+          "title": {
+            "en-US": "Chapter LXXIX. The Heroic Degree of the Virtues in General"
+          }
+        },
+        {
+          "id": "ch4-a80",
+          "title": {
+            "en-US": "Chapter LXXX. Heroic and Contemplative Faith"
+          }
+        },
+        {
+          "id": "ch4-a81",
+          "title": {
+            "en-US": "Chapter LXXXI. Heroic Hope and Abandonment"
+          }
+        },
+        {
+          "id": "ch4-a82",
+          "title": {
+            "en-US": "Chapter LXXXII. Heroic Charity"
+          }
+        },
+        {
+          "id": "ch4-a83",
+          "title": {
+            "en-US": "Chapter LXXXIII. The Heroic Degree of the Christian Moral Virtues"
+          }
+        },
+        {
+          "id": "ch4-a84",
+          "title": {
+            "en-US": "Chapter LXXXIV. The Love of Jesus Crucified and of Mary in the Unitive Way"
+          }
+        },
+        {
+          "id": "ch4-a85",
+          "title": {
+            "en-US": "Chapter LXXXV. Perfect Apostolic Life and Contemplation"
+          }
+        },
+        {
+          "id": "ch4-a86",
+          "title": {
+            "en-US": "Chapter LXXXVI. The Life of Reparation"
+          }
+        },
+        {
+          "id": "ch4-a87",
+          "title": {
+            "en-US": "Chapter LXXXVII. The Influence of the Holy Ghost in the Perfect Soul"
+          }
+        },
+        {
+          "id": "ch4-a88",
+          "title": {
+            "en-US": "Chapter LXXXVIII. Arid Mystical Union and Ecstatic Union According to St. Teresa"
+          }
+        },
+        {
+          "id": "ch4-a89",
+          "title": {
+            "en-US": "Chapter LXXXIX. The Transforming Union, Prelude of the Union of Heaven"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": {
+        "en-US": "Part V. Extraordinary Graces"
+      },
+      "children": [
+        {
+          "id": "ch5-intro",
+          "title": {
+            "en-US": "Introduction"
+          }
+        },
+        {
+          "id": "ch5-a90",
+          "title": {
+            "en-US": "Chapter XC. Charisms or Graces Gratis Datae"
+          }
+        },
+        {
+          "id": "ch5-a91",
+          "title": {
+            "en-US": "Chapter XCI. Divine Revelations and Visions"
+          }
+        },
+        {
+          "id": "ch5-a92",
+          "title": {
+            "en-US": "Chapter XCII. Supernatural Words and Divine Touches"
+          }
+        },
+        {
+          "id": "ch5-a93",
+          "title": {
+            "en-US": "Chapter XCIII. Stigmatization and Suggestion"
+          }
+        },
+        {
+          "id": "ch5-a94",
+          "title": {
+            "en-US": "Chapter XCIV. Differences Between Extraordinary Divine Facts and Morbid Phenomena"
+          }
+        },
+        {
+          "id": "ch5-a95",
+          "title": {
+            "en-US": "Chapter XCV. Diabolical Phenomena’"
+          }
+        }
+      ]
+    }
+  ]
+}

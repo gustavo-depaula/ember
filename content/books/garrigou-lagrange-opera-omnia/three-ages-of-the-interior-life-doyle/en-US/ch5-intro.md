@@ -1,0 +1,7 @@
+# Introduction
+
+We have so far discussed the three ages of the interior life, considering them not under a diminished form, but as they are described by the great spiritual writers, in particular St. John of the Cross. In the course of our work we have thus spoken of the infused contemplation of the mysteries of faith and of its degrees, though we did not treat of the extraordinary graces which at times accompany it, but are quite distinct from it. We shall now discuss these graces.
+
+To proceed in an orderly fashion, we shall see first what St. Paul tells us about these graces, which he calls charisms, and how St. Thomas Aquinas explains his teaching. Next, we shall treat of private revelations, visions, interior words, divine touches, stigmatization, and suggestion. We shall sum up the classic teaching on these subjects and thus find a new confirmation of the traditional doctrine set forth earlier in this work on the axis of the spiritual life. The examination of extraordinary facts brings out more clearly what distinguishes them from what is loftiest in the normal way of sanctity.![^1]
+
+[^1]: We utilize in these last chapters what we wrote on these questions in an earlier book (1923), Christian Perfection and Contemplation, pp. 436-57. It is, moreover, a simple summary of what St. John of the Cross says about essentially extraordinary graces. The studies that we have made since 1923 only confirm what we said then on this subject.

@@ -1,0 +1,7 @@
+# Introduction
+
+PROLOGUE
+
+Since the interior life is an increasingly conscious form of the life of grace in every generous soul, we shall first of all discuss the life of grace to see its value clearly. We shall then see the nature of the spiritual organism of the infused virtues and of the gifts of the Holy Ghost, which spring from sanctifying grace in every just soul. We shall thus be led to speak of the indwelling of the Blessed Trinity in the souls of the just, and also of the continual influence exercised on them by our Lord Jesus Christ, universal Mediator, and by Mary, Mediatrix of all graces.
+
+Such are the very elevated sources of the interior life; in their loftiness they resemble the high mountain sources of great rivers. Because our interior life descends to us from on high, it can reascend even to God and lead us to a very close union with Him. After speaking, in this first part, of the sources of interior life, we shall treat of its end, that is, of Christian perfection to which it is directed, and of everyone’s obligation to tend toward it, according to his condition. In all things the end should be considered first; for it is first in the order of intention, although it may be last in the order of execution. The end is desired first of all, even though it is last to be obtained. For this reason our Lord began His preaching by speaking of the beatitudes, and for this reason also moral theology begins with the treatise on the last end to which all our acts must be directed.
