@@ -1,0 +1,176 @@
+{
+  "id": "gueranger-naturalisme",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Essais sur le naturalisme contemporain",
+    "en-US": "Essays on Contemporary Naturalism",
+    "pt-BR": "Ensaios sobre o naturalismo contemporâneo"
+  },
+  "author": {
+    "fr-FR": "Prosper Guéranger",
+    "en-US": "Prosper Guéranger",
+    "pt-BR": "Prosper Guéranger"
+  },
+  "description": {
+    "fr-FR": "Deux séries d’articles de L’Univers : Du naturalisme dans la philosophie (sept articles, 1857-1858) et Du naturalisme dans l’histoire (treize articles, 1858-1859), suivis de la réponse Du point de vue chrétien dans l’histoire (Le Monde, 1860). Dom Guéranger y dénonce l’oubli de l’ordre surnaturel dans la philosophie et dans l’histoire.",
+    "en-US": "Two series of articles from L’Univers: On Naturalism in Philosophy (seven articles, 1857-1858) and On Naturalism in History (thirteen articles, 1858-1859), with the reply On the Christian Point of View in History (Le Monde, 1860). Dom Guéranger denounces the forgetting of the supernatural order in philosophy and in history.",
+    "pt-BR": "Duas séries de artigos de L’Univers: Do naturalismo na filosofia (sete artigos, 1857-1858) e Do naturalismo na história (treze artigos, 1858-1859), seguidas da resposta Do ponto de vista cristão na história (Le Monde, 1860). Dom Guéranger denuncia o esquecimento da ordem sobrenatural na filosofia e na história."
+  },
+  "composed": "1857",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/naturalisme",
+  "editions": {
+    "fr-FR": {
+      "editor": "L’Univers (Paris)",
+      "year": 1859
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/natural_philo_gueranger",
+      "edition": "Du Naturalisme dans la Philosophie, L’Univers, 27 September 1857 to 17 January 1858 (archive.org Nature_Philo_Gueranger, OCR text, cleaned)",
+      "description": "Seven articles; OCR with apostrophes and the capital É normalised.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; text first published in his lifetime or by 1931."
+    },
+    {
+      "language": "fr-FR",
+      "url": "https://www.domgueranger.net/?cat=Du Naturalisme dans l’Histoire",
+      "edition": "Du Naturalisme dans l’Histoire, L’Univers, 31 January 1858 to 3 July 1859, and Le Monde, 3 April 1860 (domgueranger.net HTML transcription)",
+      "description": "Thirteen articles and the 1860 reply.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; text first published in his lifetime or by 1931."
+    }
+  ],
+  "toc": [
+    {
+      "id": "philosophie-01",
+      "title": {
+        "fr-FR": "Du naturalisme dans la philosophie, article 1"
+      }
+    },
+    {
+      "id": "philosophie-02",
+      "title": {
+        "fr-FR": "Du naturalisme dans la philosophie, article 2"
+      }
+    },
+    {
+      "id": "philosophie-03",
+      "title": {
+        "fr-FR": "Du naturalisme dans la philosophie, article 3"
+      }
+    },
+    {
+      "id": "philosophie-04",
+      "title": {
+        "fr-FR": "Du naturalisme dans la philosophie, article 4"
+      }
+    },
+    {
+      "id": "philosophie-05",
+      "title": {
+        "fr-FR": "Du naturalisme dans la philosophie, article 5"
+      }
+    },
+    {
+      "id": "philosophie-06",
+      "title": {
+        "fr-FR": "Du naturalisme dans la philosophie, article 6"
+      }
+    },
+    {
+      "id": "philosophie-07",
+      "title": {
+        "fr-FR": "Du naturalisme dans la philosophie, article 7"
+      }
+    },
+    {
+      "id": "histoire-01",
+      "title": {
+        "fr-FR": "Du naturalisme dans l’histoire, article 1"
+      }
+    },
+    {
+      "id": "histoire-02",
+      "title": {
+        "fr-FR": "Du naturalisme dans l’histoire, article 2"
+      }
+    },
+    {
+      "id": "histoire-03",
+      "title": {
+        "fr-FR": "Du naturalisme dans l’histoire, article 3"
+      }
+    },
+    {
+      "id": "histoire-04",
+      "title": {
+        "fr-FR": "Du naturalisme dans l’histoire, article 4"
+      }
+    },
+    {
+      "id": "histoire-05",
+      "title": {
+        "fr-FR": "Du naturalisme dans l’histoire, article 5"
+      }
+    },
+    {
+      "id": "histoire-06",
+      "title": {
+        "fr-FR": "Du naturalisme dans l’histoire, article 6"
+      }
+    },
+    {
+      "id": "histoire-07",
+      "title": {
+        "fr-FR": "Du naturalisme dans l’histoire, article 7"
+      }
+    },
+    {
+      "id": "histoire-08",
+      "title": {
+        "fr-FR": "Du naturalisme dans l’histoire, article 8. L’origine et la conservation surnaturelles du domaine temporel des Souverains-Pontifes sur Rome et son État"
+      }
+    },
+    {
+      "id": "histoire-09",
+      "title": {
+        "fr-FR": "Du naturalisme dans l’histoire, article 9. Charlemagne et le sacre de Napoléon"
+      }
+    },
+    {
+      "id": "histoire-10",
+      "title": {
+        "fr-FR": "Du naturalisme dans l’histoire, article 10. Lutte du Sacerdoce et de l’Empire"
+      }
+    },
+    {
+      "id": "histoire-11",
+      "title": {
+        "fr-FR": "Du naturalisme dans l’histoire, article 11. Les Croisades"
+      }
+    },
+    {
+      "id": "histoire-12",
+      "title": {
+        "fr-FR": "Du naturalisme dans l’histoire, article 12. Philippe-le-Bel et Boniface VIII"
+      }
+    },
+    {
+      "id": "histoire-13",
+      "title": {
+        "fr-FR": "Du naturalisme dans l’histoire, article 13. Les papes à Avignon"
+      }
+    },
+    {
+      "id": "histoire-14",
+      "title": {
+        "fr-FR": "Du point de vue chrétien dans l’histoire (Le Monde, 3 avril 1860)"
+      }
+    }
+  ]
+}
