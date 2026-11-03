@@ -11,6 +11,7 @@ export type SearchResult =
   | { kind: 'book'; id: string; title: string; subtitle?: string }
   | { kind: 'collection'; id: string; title: string }
   | { kind: 'chant'; id: string; title: string; subtitle?: string }
+  | { kind: 'card'; id: string; title: string; subtitle?: string }
 
 export type SearchKind = SearchResult['kind']
 
@@ -35,7 +36,7 @@ export type IndexEntry = {
   description?: string[]
 }
 
-export const searchGroupOrder: SearchKind[] = ['practice', 'collection', 'book', 'chant']
+export const searchGroupOrder: SearchKind[] = ['practice', 'card', 'collection', 'book', 'chant']
 
 /**
  * `top` is the best match when its kind would otherwise list it below another

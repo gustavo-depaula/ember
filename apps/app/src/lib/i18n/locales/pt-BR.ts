@@ -1504,6 +1504,7 @@ export default {
     searchPlaceholder: 'Buscar orações, livros, coleções…',
     searchResultPractices: 'Práticas',
     searchResultPrayers: 'Orações',
+    searchResultCards: 'Santinhos',
     searchResultBooks: 'Livros',
     searchResultCollections: 'Coleções',
     searchResultChants: 'Canto',

@@ -6,6 +6,7 @@ import { XStack, YStack } from 'tamagui'
 
 import { Typography } from '@/components/typography'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
+import { useHolyCards } from '@/features/saints/useHolyCards'
 import { practiceHref } from '../practiceHref'
 import {
   buildSearchIndex,
@@ -27,8 +28,9 @@ export function SearchAutocomplete({ query }: { query: string }) {
   // Keystrokes update the native field at once; results render behind them.
   const deferredQuery = useDeferredValue(query)
 
+  const cards = useHolyCards()
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion bumps as manifests warm; titles localize per language.
-  const index = useMemo(buildSearchIndex, [catalogVersion, i18n.language])
+  const index = useMemo(() => buildSearchIndex(cards), [catalogVersion, i18n.language, cards])
   const results = useMemo(() => searchIndex(index, deferredQuery), [index, deferredQuery])
 
   const [shown, setShown] = useState(firstRows)
@@ -60,6 +62,7 @@ export function SearchAutocomplete({ query }: { query: string }) {
     book: 'pray.searchResultBooks',
     collection: 'pray.searchResultCollections',
     chant: 'pray.searchResultChants',
+    card: 'pray.searchResultCards',
   }
 
   const visible = results.slice(0, shown)
@@ -109,7 +112,8 @@ const ResultRow = memo(function ResultRow({
   isLast: boolean
 }) {
   const subtitle =
-    caption ?? (result.kind === 'book' || result.kind === 'chant' ? result.subtitle : undefined)
+    caption ??
+    (result.kind === 'practice' || result.kind === 'collection' ? undefined : result.subtitle)
   const router = useRouter()
 
   function handlePress() {
@@ -119,6 +123,10 @@ const ResultRow = memo(function ResultRow({
     }
     if (result.kind === 'book') {
       router.push({ pathname: '/browse/book/[bookId]', params: { bookId: result.id } })
+      return
+    }
+    if (result.kind === 'card') {
+      router.push({ pathname: '/saints/[index]', params: { index: result.id } })
       return
     }
     if (result.kind === 'chant') {

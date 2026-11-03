@@ -1499,6 +1499,7 @@ export default {
     searchPlaceholder: 'Search prayers, books, collections…',
     searchResultPractices: 'Practices',
     searchResultPrayers: 'Prayers',
+    searchResultCards: 'Holy cards',
     searchResultBooks: 'Books',
     searchResultCollections: 'Collections',
     searchResultChants: 'Chant',

@@ -1,5 +1,6 @@
 /**
- * Search over the catalog's practices, collections, books and chants. The index holds
+ * Search over the catalog's practices, collections, books and chants, and the
+ * holy cards. The index holds
  * every searchable field localized, normalized and split into words once, so a
  * keystroke only compares words rather than normalizing ~1,000 titles and
  * descriptions.
@@ -9,6 +10,7 @@ import { oneEditionPerWork } from '@/content/books'
 import { getEntriesByKind, getRememberedManifest } from '@/content/contentIndex'
 import type { BookEntry } from '@/content/manifestTypes'
 import { getAllManifests, isAlternateForm } from '@/content/resolver'
+import type { HolyCard } from '@/features/saints/data/holyCards'
 import { localizeContent } from '@/lib/i18n'
 import { normalizeForSearch, searchWords } from '@/lib/search'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -77,8 +79,25 @@ function bareId(corpusId: string): string {
   return slash === -1 ? corpusId : corpusId.slice(slash + 1)
 }
 
-export function buildSearchIndex(): IndexEntry[] {
+/**
+ * The holy cards ride on the saint-of-the-day practice's own blob, not the
+ * catalog, so the caller passes them once loaded.
+ */
+export function buildSearchIndex(cards: HolyCard[] = []): IndexEntry[] {
   const entries: IndexEntry[] = []
+
+  for (const card of cards) {
+    const title = localizeContent(card.name)
+    const patronOf = card.patronOf as Localized<string> | undefined
+    const patron = patronOf ? localizeContent(patronOf as Record<string, string>) : undefined
+    entries.push({
+      result: { kind: 'card', id: card.id, title, subtitle: patron },
+      ...titleFields(title),
+      otherNames: otherNames(card.name, title),
+      // "Patroness of the missions" finds St. Thérèse.
+      keywords: patronOf ? phrases(searchedLanguages.map((lang) => patronOf[lang])) : undefined,
+    })
+  }
 
   for (const m of getAllManifests()) {
     if (isAlternateForm(m)) continue
