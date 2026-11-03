@@ -1,0 +1,249 @@
+{
+  "id": "chesterton-all-things-considered",
+  "cover": "classic",
+  "name": {
+    "en-US": "All Things Considered",
+    "pt-BR": "Considerando Tudo"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Thirty-five of Chesterton's weekly essays from the Illustrated London News: on the fallacy of success, patriotism and sport, woman, the boy, science and religion, phonetic spelling, fairy tales, Tom Jones and Christmas. The book in which his journalism first showed its stride.",
+    "pt-BR": "Trinta e cinco ensaios semanais de Chesterton para o Illustrated London News: sobre a falácia do sucesso, o patriotismo e o esporte, a mulher, o menino, a ciência e a religião, a ortografia fonética, os contos de fadas, Tom Jones e o Natal. O livro em que o seu jornalismo mostrou pela primeira vez o passo."
+  },
+  "composed": "1908",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/all-things-considered",
+  "editions": {
+    "en-US": {
+      "editor": "Methuen & Co.",
+      "year": 1908
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/11505",
+      "edition": "All Things Considered (Methuen & Co., 1908), Project Gutenberg #11505.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1908 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-case-for-the-ephemeral",
+      "title": {
+        "en-US": "The Case for the Ephemeral"
+      }
+    },
+    {
+      "id": "ch02-cockneys-and-their-jokes",
+      "title": {
+        "en-US": "Cockneys and Their Jokes"
+      }
+    },
+    {
+      "id": "ch03-the-fallacy-of-success",
+      "title": {
+        "en-US": "The Fallacy of Success"
+      }
+    },
+    {
+      "id": "ch04-on-running-after-ones-hat",
+      "title": {
+        "en-US": "On Running After One’s Hat"
+      }
+    },
+    {
+      "id": "ch05-the-vote-and-the-house",
+      "title": {
+        "en-US": "The Vote and the House"
+      }
+    },
+    {
+      "id": "ch06-conceit-and-caricature",
+      "title": {
+        "en-US": "Conceit and Caricature"
+      }
+    },
+    {
+      "id": "ch07-patriotism-and-sport",
+      "title": {
+        "en-US": "Patriotism and Sport"
+      }
+    },
+    {
+      "id": "ch08-an-essay-on-two-cities",
+      "title": {
+        "en-US": "An Essay on Two Cities"
+      }
+    },
+    {
+      "id": "ch09-french-and-english",
+      "title": {
+        "en-US": "French and English"
+      }
+    },
+    {
+      "id": "ch10-the-zola-controversy",
+      "title": {
+        "en-US": "The Zola Controversy"
+      }
+    },
+    {
+      "id": "ch11-oxford-from-without",
+      "title": {
+        "en-US": "Oxford from Without"
+      }
+    },
+    {
+      "id": "ch12-woman",
+      "title": {
+        "en-US": "Woman"
+      }
+    },
+    {
+      "id": "ch13-the-modern-martyr",
+      "title": {
+        "en-US": "The Modern Martyr"
+      }
+    },
+    {
+      "id": "ch14-on-political-secrecy",
+      "title": {
+        "en-US": "On Political Secrecy"
+      }
+    },
+    {
+      "id": "ch15-edward-vii-and-scotland",
+      "title": {
+        "en-US": "Edward VII. and Scotland"
+      }
+    },
+    {
+      "id": "ch16-thoughts-around-koepenick",
+      "title": {
+        "en-US": "Thoughts Around Koepenick"
+      }
+    },
+    {
+      "id": "ch17-the-boy",
+      "title": {
+        "en-US": "The Boy"
+      }
+    },
+    {
+      "id": "ch18-limericks-and-counsels-of-perfection",
+      "title": {
+        "en-US": "Limericks and Counsels of Perfection"
+      }
+    },
+    {
+      "id": "ch19-anonymity-and-further-counsels",
+      "title": {
+        "en-US": "Anonymity and Further Counsels"
+      }
+    },
+    {
+      "id": "ch20-on-the-cryptic-and-the-elliptic",
+      "title": {
+        "en-US": "On the Cryptic and the Elliptic"
+      }
+    },
+    {
+      "id": "ch21-the-worship-of-the-wealthy",
+      "title": {
+        "en-US": "The Worship of the Wealthy"
+      }
+    },
+    {
+      "id": "ch22-science-and-religion",
+      "title": {
+        "en-US": "Science and Religion"
+      }
+    },
+    {
+      "id": "ch23-the-methuselahite",
+      "title": {
+        "en-US": "The Methuselahite"
+      }
+    },
+    {
+      "id": "ch24-spiritualism",
+      "title": {
+        "en-US": "Spiritualism"
+      }
+    },
+    {
+      "id": "ch25-the-error-of-impartiality",
+      "title": {
+        "en-US": "The Error of Impartiality"
+      }
+    },
+    {
+      "id": "ch26-phonetic-spelling",
+      "title": {
+        "en-US": "Phonetic Spelling"
+      }
+    },
+    {
+      "id": "ch27-humanitarianism-and-strength",
+      "title": {
+        "en-US": "Humanitarianism and Strength"
+      }
+    },
+    {
+      "id": "ch28-wine-when-it-is-red",
+      "title": {
+        "en-US": "Wine When It is Red"
+      }
+    },
+    {
+      "id": "ch29-demagogues-and-mystagogues",
+      "title": {
+        "en-US": "Demagogues and Mystagogues"
+      }
+    },
+    {
+      "id": "ch30-the-eatanswill-gazette",
+      "title": {
+        "en-US": "The “Eatanswill Gazette”"
+      }
+    },
+    {
+      "id": "ch31-fairy-tales",
+      "title": {
+        "en-US": "Fairy Tales"
+      }
+    },
+    {
+      "id": "ch32-tom-jones-and-morality",
+      "title": {
+        "en-US": "Tom Jones and Morality"
+      }
+    },
+    {
+      "id": "ch33-the-maid-of-orleans",
+      "title": {
+        "en-US": "The Maid of Orleans"
+      }
+    },
+    {
+      "id": "ch34-a-dead-poet",
+      "title": {
+        "en-US": "A Dead Poet"
+      }
+    },
+    {
+      "id": "ch35-christmas",
+      "title": {
+        "en-US": "Christmas"
+      }
+    }
+  ]
+}
