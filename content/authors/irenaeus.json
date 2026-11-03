@@ -7,5 +7,29 @@
   "saint": "irenaeus",
   "matches": [
     "Irenaeus of Lyons"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "irenaeus-adversus-haereses",
+          "why": {
+            "en-US": "Against Heresies, his major work",
+            "pt-BR": "Contra as Heresias, sua obra principal"
+          }
+        },
+        {
+          "work": "irenaeus-fragments-from-the-lost-writings",
+          "why": {
+            "en-US": "Fragments from his lost writings",
+            "pt-BR": "Fragmentos de seus escritos perdidos"
+          }
+        }
+      ]
+    }
   ]
 }
