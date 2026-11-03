@@ -18,13 +18,18 @@
   },
   "composed": "413",
   "languages": [
-    "la"
+    "la",
+    "en-US"
   ],
   "work": "augustine/de-fide-et-operibus",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "en-US": {
+      "translator": "C. L. Cornish",
+      "year": 1847
     }
   },
   "sources": [
@@ -35,13 +40,22 @@
       "description": "Latin pages fede_opere of augustinus.it, one page per book, long pages split at chapter boundaries. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
       "tier": "A",
       "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/seventeenshort00augu",
+      "edition": "Seventeen Short Treatises of S. Augustine, Bishop of Hippo, translated with notes and indices (Library of the Fathers, vol. 22; Oxford: John Henry Parker; London: Rivington, 1847), tr. C. L. Cornish.",
+      "description": "Internet Archive scan, read from the _djvu.xml word coordinates (research/sourcing/_scripts/aug_lf.py): marginal Scripture references, running heads, the editor’s introduction, and the small-type notes are dropped, so the text is the translation alone with the Benedictine section numbers. OCR is uncorrected beyond common letter confusions; stray fragments of marginal references remain in a few lines.",
+      "tier": "A",
+      "tierEvidence": "Published 1847 (translator d. 19th c.); long public domain."
     }
   ],
   "toc": [
     {
       "id": "ch001",
       "title": {
-        "la": "De fide et operibus"
+        "la": "De fide et operibus",
+        "en-US": "On Faith and Works"
       }
     }
   ],
