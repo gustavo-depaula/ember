@@ -8,5 +8,182 @@
     "Cardinal Henry Edward Manning",
     "Henry Edward Manning",
     "Cardinal Manning"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "His most devotional books.",
+        "pt-BR": "Seus livros mais devocionais."
+      },
+      "works": [
+        {
+          "work": "manning/eternal-priesthood",
+          "why": {
+            "en-US": "Meditations for priests, 1883, in twenty chapters",
+            "pt-BR": "Meditações para sacerdotes, 1883, em vinte capítulos"
+          }
+        },
+        {
+          "work": "manning/glories-of-the-sacred-heart",
+          "why": {
+            "en-US": "Ten discourses on the Sacred Heart, 1876",
+            "pt-BR": "Dez discursos sobre o Sagrado Coração, 1876"
+          }
+        },
+        {
+          "work": "manning/love-of-jesus-to-penitents",
+          "why": {
+            "en-US": "On the Sacrament of Penance, written in Rome, 1862",
+            "pt-BR": "Sobre o sacramento da Penitência, escrito em Roma, 1862"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The Holy Spirit",
+        "pt-BR": "O Espírito Santo"
+      },
+      "note": {
+        "en-US": "Three books on the Spirit, in the order of their dates.",
+        "pt-BR": "Três livros sobre o Espírito, na ordem das datas."
+      },
+      "works": [
+        {
+          "work": "manning/temporal-mission-holy-ghost",
+          "why": {
+            "en-US": "The Holy Ghost in the Church, lectures of 1865",
+            "pt-BR": "O Espírito Santo na Igreja, conferências de 1865"
+          }
+        },
+        {
+          "work": "manning/holy-ghost-the-sanctifier",
+          "why": {
+            "en-US": "The Holy Ghost as the source of grace in the soul, 1873",
+            "pt-BR": "O Espírito Santo como fonte da graça na alma, 1873"
+          }
+        },
+        {
+          "work": "manning/internal-mission-holy-ghost",
+          "why": {
+            "en-US": "The Spirit's work in the soul, discourses of 1875",
+            "pt-BR": "A obra do Espírito na alma, discursos de 1875"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Lectures and Lenten sermons",
+        "pt-BR": "Conferências e sermões quaresmais"
+      },
+      "works": [
+        {
+          "work": "manning/sin-and-its-consequences",
+          "why": {
+            "en-US": "Eight Lenten sermons on sin, 1874",
+            "pt-BR": "Oito sermões quaresmais sobre o pecado, 1874"
+          }
+        },
+        {
+          "work": "manning/four-great-evils-of-the-day",
+          "why": {
+            "en-US": "Four Lenten lectures, 1871",
+            "pt-BR": "Quatro conferências quaresmais, 1871"
+          }
+        },
+        {
+          "work": "manning/fourfold-sovereignty-of-god",
+          "why": {
+            "en-US": "Six lectures on God's sovereignty, 1871",
+            "pt-BR": "Seis conferências sobre a soberania de Deus, 1871"
+          }
+        },
+        {
+          "work": "manning/grounds-of-faith",
+          "why": {
+            "en-US": "Four lectures on the foundation of faith, 1852",
+            "pt-BR": "Quatro conferências sobre o fundamento da fé, 1852"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Sermons",
+        "pt-BR": "Sermões"
+      },
+      "works": [
+        {
+          "work": "manning/sermons-ecclesiastical-subjects",
+          "why": {
+            "en-US": "Sermons on Ecclesiastical Subjects, three volumes, 1863-73",
+            "pt-BR": "Sermões sobre assuntos eclesiásticos, três volumes, 1863-73"
+          }
+        },
+        {
+          "work": "manning/pastoral-office",
+          "why": {
+            "en-US": "The episcopate and priesthood as states of perfection, 1883",
+            "pt-BR": "Episcopado e sacerdócio como estados de perfeição, 1883"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The Vatican Council",
+        "pt-BR": "O Concílio Vaticano"
+      },
+      "works": [
+        {
+          "work": "manning/oecumenical-council-infallibility",
+          "why": {
+            "en-US": "Pastoral letter on the Council and infallibility, 1869",
+            "pt-BR": "Carta pastoral sobre o Concílio e a infalibilidade, 1869"
+          }
+        },
+        {
+          "work": "manning/vatican-council-and-its-definitions",
+          "why": {
+            "en-US": "Pastoral letter on the Council, 1870",
+            "pt-BR": "Carta pastoral sobre o Concílio, 1870"
+          }
+        },
+        {
+          "work": "manning/vatican-decrees-civil-allegiance",
+          "why": {
+            "en-US": "His reply to Gladstone, 1875",
+            "pt-BR": "Sua resposta a Gladstone, 1875"
+          }
+        },
+        {
+          "work": "manning/true-story-vatican-council",
+          "why": {
+            "en-US": "His account of the Council of 1869-70",
+            "pt-BR": "Seu relato do Concílio de 1869-70"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Essays and addresses",
+        "pt-BR": "Ensaios e discursos"
+      },
+      "works": [
+        {
+          "work": "manning/miscellanies",
+          "why": {
+            "en-US": "Miscellanies, three volumes of essays and addresses, 1863-88",
+            "pt-BR": "Miscelâneas, três volumes de ensaios e discursos, 1863-88"
+          }
+        }
+      ]
+    }
   ]
 }
