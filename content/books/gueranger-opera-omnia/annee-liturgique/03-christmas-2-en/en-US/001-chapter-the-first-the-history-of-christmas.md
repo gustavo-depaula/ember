@@ -1,0 +1,47 @@
+# Chapter the First. the History of Christmas
+
+We apply the name of Christmas to the forty days, which begin with the Nativity of our Lord, December 25th, and end with the Purification of the Blessed Virgin, February 2nd. It is a period, which forms a distinct portion of the Liturgical Year, as distinct, by its own special spirit, from every other, as are Advent, Lent, Easter, or Pentecost. One same Mystery is celebrated and kept in view during the wnole forty days. Neither the Feasts of the Saints, which so abound during this Season ; nor the Time of Septuagesima, with its mournful Purple, which often begins before Christmastide is over ; - seem able to distract our Holy Mother the Church, from the immense joy, of which she received the good tidings from the Angels, on that glorious Night, for which the world had been longing four thousand years. The Faithful will remember, that the Liturgy commemorates this long expectation, by the four penitential weeks of Advent.
+
+The custom of celebrating the Solemnity of our Saviour's Nativity by a feast or commemoration of
+
+»St. Luke, ii. 10. (2) B
+
+CHRISTMAS. forty-days' duration, is founded on the holy Gospel itself; for it tells us, that the Blessed Virgin Mary, after spending forty days in the contemplation of the Divine Fruit of her glorious Maternity, went to the Temple, there to fulfil, in most perfect humility, the ceremonies which the Law demanded of the daughters of Israel, when they became Mothers.
+
+The Feast of Mary's Purification is, therefore, part of that of Jesus' Birth ; and the custom of keeping this holy and glorious period of forty-days as one continued Festival, has every appearance of being a very ancient one, at least in the Roman Church. And firstly, with regard to our Saviour's Birth on thD 25th of December, we have St. John Chrysostoin telling us, in his Homily for this Feast, that the Western Churches had, from the very commencement of Christianity, kept it on this day. He is not satisfied with merely mentioning the tradition ; he undertakes to show, that it is well-founded, inasmuch as the Church of Rome had every means of knowing the true day of our Saviour's Birth, since the acts of the Enrolment, taken in Judea by command of Augustus, were kept in the public archives of Rome. The holy Doctor adduces a second argument, which he founas upon the Gospel of St Luke, and he reasons thus : we know from the sacred scriptures, that it must have been in the fast of the seventh month that the Priest Zachary had the vision in the Temple ; after which Elizabeth, his wife, conceived St. John the Baptist: hence it follows, that the Blessed Viigin Mary, having, as the Evangelist St. Luke relates, received the Angel Gabriel's visit, and conceived the Saviour of the world in the sixth
+
+1 Lev. xxiii. 24 and following verses. The seventh month (or Tisri) corresponded to the end of our September and beginning of our October. 7V.
+
+HISTORY OF CHRISTMAS. month of Elizabeth's pregnancy, that is to say, in March, — the Birth of Jesus must have taken place in the month of December.
+
+But, it was not till the fourth century that the Churches of the East began to keep the Feast of our Saviour's Birth in the month of December. Up to that period, they had kept it, at one time, on the sixth of January, thus uniting it, under the generic term of Epiphany, with the Manifestation of our Saviour made to the Magi, and, in them, to the Gentiles ; at another time, as Clement of Alexandria tells us, they kept it on the 25th of the month Paehon, (May 15,) or on the 25th of the month PJiarmuth, (April 20). St John Chrysostom, in the Homily we have just cited, which he gave in 386, tells us that the Roman custom of celebrating the Birth of our Saviour on the 25th December, had then only been observed ten years in the Church of Antioch. It is probable that this change had been introduced in obedience to the wishes of the Apostolic See, wishes which received additional weight by the edict of the Emperors Theodosius and Valentinian, which appeared towards the close of the fourth century, and decreed that the Nativity and Epiphany of our Lord should be made two distinct Festivals. The only Church, that has maintained the custom of celebrating the two mysteries on January 6th, is that of Armenia ; owing, no doubt, to the circumstance of that country's not being under the authority of the Emperors; as, also, because it was withdrawn, at an early period, from the influence of Rome, by schism and heresy.
+
+The Feast of our Lady's Purification, with which the forty days of Christmas close, is, in the Latin Church, of very great antiquity ; so ancient, indeed, as to preclude the possibility of our fixing the date of its institution. According to the unanimous opinion of Liturgists, it is the most ancient of all the Feasts of
+
+CHRISTMAS. tho Holjr Mother of God ; and as her Purification is related in the Gospel itself, they rightly infer, that its anniversary was solemnised at the very commencement of Christianity. Of course, this is only to be understood of the Roman Church; for, as regards the Oriental Church, we find that this Feast was not definitively fixed to the 2nd of February, until the reign of the Emperor Justinian, in the sixth century. It is true that tne Eastern Christians had previously to that time, a sort of commemoration of this Mystery ; but it was far from being a universal custom, and it was kept a few days after the Feast of our Lord's Nativity, and not on the day itself of Mary's going up to the Temple.
+
+But, what is the characteristic of Christmas in the Latin Liturgy ? It is twofold : it is joy, which the whole Church feels at the coming of the divine Word in the Flesh ; and it is admiration of that glorious Virgin, who was made the Mother of God. There is scarcely a prayer, or a rite, in the Liturgy of this glad Season, which does not imply these two grand Mysteries: — an Infant-God, and a Virgin- Mother.
+
+For example, on all Sundays and Feasts, which are not Doubles, the Church, throughout these forty days, makes a commemoration of the fruitful vir-
+
+S'nity of the Mother of God, by three special ■ayers in the Holy Sacrifice of the Mass. On those same days, at Lauds and Vespers, she begs the suffrage of Mary, by proclaiming her quality of Mother of God and her inviolate purity, which remained in her even after she had given birth to her Son. And again the magnificent Anthem, Alma Redemptoris, composed by the Monk Herman
+
+1 Th$ Collect, Deua qui salutit sterna beat* Man® Virginia tatsfceeutida humano generi, dec.
+
+• f. Poet {tartum, Virgo, invioUUa permansisti. ty. D$i Qcni* IrtBB, intercede pro nobis.
+
+HISTORY OF CHRISTMAS.
+
+Contractus, continues up to the very day of the Purification, to be the termination of each Canonical Hour. It is by such manifestations of her love and veneration, that the Church honouring the Son in the Mother, testifies her holy joy during this season of the Liturgical Year, which we call Christmas.
+
+Our readers are aware that, when Easter Sunday falls at its latest — that is, in April — the Ecclesiastical Calendar counts as many as six Sundays after the Epiphany. Christmastide, (that is, the forty days between Christinas Day and the Purification,) includes sometimes four out of these six Sundays; frequently only two; and sometimes, only one, as is the case when Easter comes so early, as to necessitate the keeping Septuagesima, and even Sexagesima, Sunday, in January. Still, nothing is changed, as we nave already said, in the ritual observances of this joyous season, excepting only, that on those two Sundays, — the fore-runners of Lent — the Vestments are purple, and the Gloria in excd*i$ is omitted
+
+Although our holy Mother the Church honours, with especial devotion, the Mystery of the Divine Infancy during the whole season of Christmas ; yet, she is obliged to introduce, into the Liturgy of this same season, passages from the holy Gospels, which seem premature, inasmuch as they relate to the active life of Jesus. This is owing to there being less than six months allotted by the Calendar for the celebration of the entire work of our Redemption : in other words, Christmas and Easter are so near each other, (even when Blaster is as late as it can be,) that Mysteries must of necessity be crowded into the interval ; and this entails anticipation. And yet, the Liturgy never loses sight of the Divine Babe and his incomparable Mother, and never tires in their praises, during the whole period, from the
+
+CHRISTMAS.
+
+Nativity, to the day when Mary comes to the Temple to present her Jesus.
+
+The Greeks, too, make frequent comrnemorctfioria of the Maternity of Mary, in their Offices of thia Season : but, they have a special veneration for the twelve days between Christmas Day and the Epiphany, which, in their Liturgy, are called the Dodecameron. During this time, they observe no days of Abstinence from flesh-meat; and the Emperors of the East had, out of respect for the great Mystery, decreed that no servile work should be done, and that the Courts of Law should be closed, until after the 6th of January.
+
+From this outline of the History of the holy Season, we can understand what is the characteristic of this second portion of the Liturgical Year, which we Call Christmas, and which has ever been a Season most dear to the christian world What are the Mysteries embodied in its Liturgy, will be shown in the following Chapter.

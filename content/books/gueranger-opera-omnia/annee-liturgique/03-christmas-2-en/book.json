@@ -1,0 +1,320 @@
+{
+  "id": "gueranger-liturgical-year-03-christmas-2",
+  "name": {
+    "en-US": "The Liturgical Year: Christmas, Book II",
+    "pt-BR": "O Ano Litúrgico: Natal, II"
+  },
+  "author": {
+    "en-US": "Dom Prosper Guéranger",
+    "pt-BR": "Dom Prosper Guéranger"
+  },
+  "description": {
+    "en-US": "Volume 3 of the English Liturgical Year (Christmas, Book II), translated from L’Année liturgique: one chapter per day or feast, with the Latin liturgical texts beside their English. Made from the Internet Archive scan of the 1911 printing; the two-column Latin and English text is separated by script, so some lines may be misassigned.",
+    "pt-BR": "Volume 3 do «Liturgical Year» em inglês (Natal, II), traduzido de L’Année liturgique: um capítulo por dia ou festa, com os textos litúrgicos em latim ao lado do inglês."
+  },
+  "composed": "1853",
+  "languages": [
+    "en-US"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "en-US": {
+      "translator": "Rev. Dom Laurence Shepherd (Stanbrook Abbey)",
+      "year": 1911
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/V03TheLiturgicalYear",
+      "edition": "The Liturgical Year, Christmas, Book II, translated from the French of Dom Prosper Guéranger; printing of 1911 (Stanbrook Abbey / Duffy). Internet Archive scan, OCR text.",
+      "description": "Split at each day or feast heading detected in the running text; running heads and page numbers removed; the Latin and English columns of the liturgical texts, interleaved line by line in the OCR, were separated by language and set as a Latin paragraph followed by its English.",
+      "tier": "A",
+      "tierEvidence": "Guéranger (d. 1875) and the translation printed 1870-1912: public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-chapter-the-first-the-history-of-christmas",
+      "title": {
+        "en-US": "Chapter the First. the History of Christmas"
+      }
+    },
+    {
+      "id": "002-chapter-il-the-mystery-of-christmas",
+      "title": {
+        "en-US": "Chapter IL the Mystery of Christmas"
+      }
+    },
+    {
+      "id": "003-chapter-itl-practice-during-christmas",
+      "title": {
+        "en-US": "Chapter Itl Practice During Christmas"
+      }
+    },
+    {
+      "id": "004-chapter-v-on-hearing-mass-during-the-season-of-c",
+      "title": {
+        "en-US": "Chapter V. on Hearing Mass, During the Season of Christmas"
+      }
+    },
+    {
+      "id": "005-chapter-vl-on-holy-communion-during-christmas",
+      "title": {
+        "en-US": "Chapter VL on Holy Communion During Christmas"
+      }
+    },
+    {
+      "id": "006-chapter-vil-of-the-office-of-vespers-fob-sundays",
+      "title": {
+        "en-US": "Chapter VIL of the Office of Vespers Fob Sundays and Feasts; During Christmas"
+      }
+    },
+    {
+      "id": "007-chapter-vm-ok-the-office-of-compline-during-chri",
+      "title": {
+        "en-US": "Chapter Vm. Ok the Office of Compline, During Christmas"
+      }
+    },
+    {
+      "id": "008-january-23-the-epiphany-of-our-lord",
+      "title": {
+        "en-US": "January 23 — The Epiphany of Our Lord"
+      }
+    },
+    {
+      "id": "009-sunday-within-the-octave-of-the-epiphany",
+      "title": {
+        "en-US": "Sunday Within the Octave of the Epiphany"
+      }
+    },
+    {
+      "id": "010-second-day-within-the-octave",
+      "title": {
+        "en-US": "Second Day Within the Octave"
+      }
+    },
+    {
+      "id": "011-third-day-within-the-octave",
+      "title": {
+        "en-US": "Third Day Within the Octave"
+      }
+    },
+    {
+      "id": "012-january-8-third-day-w",
+      "title": {
+        "en-US": "January 8 — Third Day W"
+      }
+    },
+    {
+      "id": "013-fifth-day-within-the-octave",
+      "title": {
+        "en-US": "Fifth Day Within the Octave"
+      }
+    },
+    {
+      "id": "014-sixth-day-within-the-octave",
+      "title": {
+        "en-US": "Sixth Day Within the Octave"
+      }
+    },
+    {
+      "id": "015-seventh-day-within-the-octave",
+      "title": {
+        "en-US": "Seventh Day Within the Octave"
+      }
+    },
+    {
+      "id": "016-seventh-dat",
+      "title": {
+        "en-US": "Seventh Dat ?!"
+      }
+    },
+    {
+      "id": "017-the-octave-of-the-epiphany",
+      "title": {
+        "en-US": "The Octave of the Epiphany"
+      }
+    },
+    {
+      "id": "018-second-sunday-after-the-epiphany-and-feast-of-th",
+      "title": {
+        "en-US": "Second Sunday after the Epiphany and Feast of the Most Holy Name of Jesus"
+      }
+    },
+    {
+      "id": "019-january-14-saint-hilary",
+      "title": {
+        "en-US": "January 14 — Saint Hilary"
+      }
+    },
+    {
+      "id": "020-january-15-saint-maurus-abbot",
+      "title": {
+        "en-US": "January 15 — Saint Maurus, Abbot"
+      }
+    },
+    {
+      "id": "021-january-16-saint-marcellus",
+      "title": {
+        "en-US": "January 16 — Saint Marcellus"
+      }
+    },
+    {
+      "id": "022-january-17-saint-antony-abbot",
+      "title": {
+        "en-US": "January 17 — Saint Antony, Abbot"
+      }
+    },
+    {
+      "id": "023-january-18-saint-peters-chair-at-rome",
+      "title": {
+        "en-US": "January 18 — Saint Peter's Chair at Rome"
+      }
+    },
+    {
+      "id": "024-january-19-saint-canute-king-and-martyr",
+      "title": {
+        "en-US": "January 19 — Saint Canute, King and Martyr"
+      }
+    },
+    {
+      "id": "025-january-19-saint-sebastian-martyr",
+      "title": {
+        "en-US": "January 19 — Saint Sebastian, Martyr"
+      }
+    },
+    {
+      "id": "026-january-19-saints-fabian-and-sebastian",
+      "title": {
+        "en-US": "January 19 — Saints Fabian and Sebastian"
+      }
+    },
+    {
+      "id": "027-january-20-saint-agnes",
+      "title": {
+        "en-US": "January 20 — Saint Agnes"
+      }
+    },
+    {
+      "id": "028-january-22-saints-vincent-and-anastasius-martyrs",
+      "title": {
+        "en-US": "January 22 — Saints Vincent and Anastasius, Martyrs. Saint Vincent, Deacon and Martyr"
+      }
+    },
+    {
+      "id": "029-january-23-saint-raymund-of-pegnafort",
+      "title": {
+        "en-US": "January 23 — Saint Raymund of Pegnafort"
+      }
+    },
+    {
+      "id": "030-january-23-commemoration-of-saint-emerentiana",
+      "title": {
+        "en-US": "January 23 — Commemoration of Saint Emerentiana"
+      }
+    },
+    {
+      "id": "031-january-23-saint-ildephonsus-bishop-and-confesso",
+      "title": {
+        "en-US": "January 23 — Saint Ildephonsus, Bishop and Confessor"
+      }
+    },
+    {
+      "id": "032-january-24-saint-timothy",
+      "title": {
+        "en-US": "January 24 — Saint Timothy"
+      }
+    },
+    {
+      "id": "033-january-25-conversion-of-saint-paul",
+      "title": {
+        "en-US": "January 25 — Conversion of Saint Paul"
+      }
+    },
+    {
+      "id": "034-january-26-saint-polycarp",
+      "title": {
+        "en-US": "January 26 — Saint Polycarp"
+      }
+    },
+    {
+      "id": "035-january-26-saint-paula-widow",
+      "title": {
+        "en-US": "January 26 — Saint Paula, Widow"
+      }
+    },
+    {
+      "id": "036-january-28-saint-agnes-her-second-feast",
+      "title": {
+        "en-US": "January 28 — Saint Agnes, Her Second Feast"
+      }
+    },
+    {
+      "id": "037-january-28-the-blessed-charlemagne-emperor",
+      "title": {
+        "en-US": "January 28 — The Blessed Charlemagne, Emperor"
+      }
+    },
+    {
+      "id": "038-january-29-saint-francis-of-sales",
+      "title": {
+        "en-US": "January 29 — Saint Francis of Sales"
+      }
+    },
+    {
+      "id": "039-january-29-saint-martina",
+      "title": {
+        "en-US": "January 29 — Saint Martina"
+      }
+    },
+    {
+      "id": "040-january-31-saint-peter-nolasco",
+      "title": {
+        "en-US": "January 31 — Saint Peter Nolasco"
+      }
+    },
+    {
+      "id": "041-january-31-saint-titus-bishop-and-confessor",
+      "title": {
+        "en-US": "January 31 — Saint Titus, Bishop and Confessor"
+      }
+    },
+    {
+      "id": "042-february-1-saint-ignatius-of-antioch",
+      "title": {
+        "en-US": "February 1 — Saint Ignatius of Antioch"
+      }
+    },
+    {
+      "id": "043-february-2-the-purification-its-mystery",
+      "title": {
+        "en-US": "February 2 — The Purification: Its Mystery"
+      }
+    },
+    {
+      "id": "044-february-2-the-purification-blessing",
+      "title": {
+        "en-US": "February 2 — The Purification: Blessing"
+      }
+    },
+    {
+      "id": "045-the-third-sunday-after-the-epiphany",
+      "title": {
+        "en-US": "The Third Sunday after the Epiphany"
+      }
+    },
+    {
+      "id": "046-foubth-sunday-afteb-epiphany",
+      "title": {
+        "en-US": "Foubth. Sunday Afteb Epiphany"
+      }
+    },
+    {
+      "id": "047-septuagesima-sunday",
+      "title": {
+        "en-US": "Septuagesima Sunday"
+      }
+    }
+  ]
+}
