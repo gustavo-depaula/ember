@@ -13,18 +13,23 @@
   },
   "description": {
     "la": "Libri V De consideratione ad Eugenium papam tertium.",
-    "en-US": "Bernard’s five books for his former monk Pope Eugene III: the need to set time for reflection amid the cares of office, the self-knowledge and knowledge of what is below, around, above and within the pope, and the contemplation of God. The Latin is the Maurist text in Migne (Patrologia Latina 182, 1854). Latin only, from the Maurist text in Migne, a machine-corrected OCR.",
+    "en-US": "Bernard’s five books for his former monk Pope Eugene III: the need to set time for reflection amid the cares of office, the self-knowledge and knowledge of what is below, around, above and within the pope, and the contemplation of God. The Latin is the Maurist text in Migne (Patrologia Latina 182, 1854). Latin only, from the Maurist text in Migne, a machine-corrected OCR. The English is George Lewis's translation (Oxford, 1908).",
     "pt-BR": "Os cinco livros de Bernardo ao papa Eugênio III, seu antigo monge: a necessidade de reservar tempo para a reflexão entre os cuidados do ofício, o conhecimento de si e do que está abaixo, ao redor, acima e dentro do papa, e a contemplação de Deus."
   },
   "composed": "1148-1153",
   "languages": [
-    "la"
+    "la",
+    "en-US"
   ],
   "work": "bernard/de-consideratione",
   "editions": {
     "la": {
       "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182)",
       "year": 1854
+    },
+    "en-US": {
+      "translator": "George Lewis",
+      "year": 1908
     }
   },
   "sources": [
@@ -35,85 +40,106 @@
       "description": "The complete text with Mabillon’s admonitio, chapter headings and summaries. PL page breaks and column numbers are dropped, and so are the paragraph numbers; Scripture references stay in parentheses as printed.",
       "tier": "A",
       "tierEvidence": "Bernard died in 1153; Migne’s printing is public domain everywhere."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/bernarddeclirvau00bernuoft",
+      "edition": "Saint Bernard On Consideration, translated by George Lewis (Oxford: Clarendon Press, 1908).",
+      "description": "Djvu OCR cleaned by script, not proofread. Lewis's footnotes and the book summaries are not imported, and about ten footnote references that the OCR ran into the text remain; chapter titles are Lewis's, the garbled ones restored by hand. The paragraph numbers are dropped.",
+      "tier": "A",
+      "tierEvidence": "Published in Oxford in 1908, before 1931: public domain in the US."
     }
   ],
   "toc": [
     {
       "id": "prologus",
       "title": {
-        "la": "Prologus"
+        "la": "Prologus",
+        "en-US": "Prologue"
       }
     },
     {
       "id": "liber-1",
       "title": {
-        "la": "Liber primus"
+        "la": "Liber primus",
+        "en-US": "Book I"
       },
       "children": [
         {
           "id": "l1-c01",
           "title": {
-            "la": "Caput I. Pontifici, tam variis occupationibus presso, condolet"
+            "la": "Caput I. Pontifici, tam variis occupationibus presso, condolet",
+            "en-US": "Chapter I. St. Bernard sympathizes with the Pope in his many cares"
           }
         },
         {
           "id": "l1-c02",
           "title": {
-            "la": "Caput II. Vis consuetudinis ad inducendos pravos mores, et duritiam cordis"
+            "la": "Caput II. Vis consuetudinis ad inducendos pravos mores, et duritiam cordis",
+            "en-US": "Chapter II. The strength of evil custom"
           }
         },
         {
           "id": "l1-c03",
           "title": {
-            "la": "Caput III. Indignum proceribus Ecclesiae continue causis litigantium audiendis et decidendis incumbere"
+            "la": "Caput III. Indignum proceribus Ecclesiae continue causis litigantium audiendis et decidendis incumbere",
+            "en-US": "Chapter III. The rulers of the Church ought not to be for ever hearing and deciding lawsuits"
           }
         },
         {
           "id": "l1-c04",
           "title": {
-            "la": "Caput IV. Quae servitus digna, quae indigna servo servorum Dei"
+            "la": "Caput IV. Quae servitus digna, quae indigna servo servorum Dei",
+            "en-US": "Chapter IV. What service is worthy, what unworthy, of the servants of God"
           }
         },
         {
           "id": "l1-c05",
           "title": {
-            "la": "Caput V. Non gerendam aliorum curam cum sui ipsius incuria et neglectu"
+            "la": "Caput V. Non gerendam aliorum curam cum sui ipsius incuria et neglectu",
+            "en-US": "Chapter V. The Pope should not be so absorbed in other men's affairs as to neglect himself"
           }
         },
         {
           "id": "l1-c06",
           "title": {
-            "la": "Caput VI. Non tam episcopis, quam principibus judiciariam potestatem competere"
+            "la": "Caput VI. Non tam episcopis, quam principibus judiciariam potestatem competere",
+            "en-US": "Chapter VI. The administration of justice concerns temporal governors rather than bishops"
           }
         },
         {
           "id": "l1-c07",
           "title": {
-            "la": "Caput VII. Pietati et rerum aeternarum considerationi in primis vacandum esse"
+            "la": "Caput VII. Pietati et rerum aeternarum considerationi in primis vacandum esse",
+            "en-US": "Chapter VII. Nothing more deserving of consideration than piety and things eternal"
           }
         },
         {
           "id": "l1-c08",
           "title": {
-            "la": "Caput VIII. Ex pietate et contemplatione pulcherrimam quatuor primarum virtutum harmoniam et connexionem oriri"
+            "la": "Caput VIII. Ex pietate et contemplatione pulcherrimam quatuor primarum virtutum harmoniam et connexionem oriri",
+            "en-US": "Chapter VIII. The four primary virtues"
           }
         },
         {
           "id": "l1-c09",
           "title": {
-            "la": "Caput IX. Recentia Pontificum exempla paulatim corrigenda, vetera imitanda"
+            "la": "Caput IX. Recentia Pontificum exempla paulatim corrigenda, vetera imitanda",
+            "en-US": "Chapter IX. The recent practice of the Popes to be gradually corrected, the old imitated"
           }
         },
         {
           "id": "l1-c10",
           "title": {
-            "la": "Caput X. Abusus advocatorum, judicum, procuratorum, eorumque fraudes graviter perstringit"
+            "la": "Caput X. Abusus advocatorum, judicum, procuratorum, eorumque fraudes graviter perstringit",
+            "en-US": "Chapter X. The shameless trickery of advocates, judges and procurators"
           }
         },
         {
           "id": "l1-c11",
           "title": {
-            "la": "Caput XI. In advocatos et procuratores, qui ex iniquitate quaestum faciunt, severe animadvertendum"
+            "la": "Caput XI. In advocatos et procuratores, qui ex iniquitate quaestum faciunt, severe animadvertendum",
+            "en-US": "Chapter XI. Such iniquitous greed to be sternly rebuked"
           }
         }
       ]
@@ -121,91 +147,106 @@
     {
       "id": "liber-2",
       "title": {
-        "la": "Liber secundus"
+        "la": "Liber secundus",
+        "en-US": "Book II"
       },
       "children": [
         {
           "id": "l2-c01",
           "title": {
-            "la": "Caput I. Apologiam instituit, ob infelicem successum expeditionis in Terram-Sanctam susceptae"
+            "la": "Caput I. Apologiam instituit, ob infelicem successum expeditionis in Terram-Sanctam susceptae",
+            "en-US": "Chapter I. St. Bernard apologizes for the failure of the Second Crusade"
           }
         },
         {
           "id": "l2-c02",
           "title": {
-            "la": "Caput II. Considerationis a contemplatione distinctio"
+            "la": "Caput II. Considerationis a contemplatione distinctio",
+            "en-US": "Chapter II. Consideration distinguished from Contemplation"
           }
         },
         {
           "id": "l2-c03",
           "title": {
-            "la": "Caput III. Considerationis quatuor puncta designat"
+            "la": "Caput III. Considerationis quatuor puncta designat",
+            "en-US": "Chapter III. Consideration fourfold: (1) the Pope himself, (2) things below him, (3) things around him, (4) things above him"
           }
         },
         {
           "id": "l2-c04",
           "title": {
-            "la": "Caput IV. Notitiam sui ipsius triplici consideratione sui complectitur; et primum quidem considerationis membrum hic exsequitur"
+            "la": "Caput IV. Notitiam sui ipsius triplici consideratione sui complectitur; et primum quidem considerationis membrum hic exsequitur",
+            "en-US": "Chapter IV. The threefold Consideration leading to self-knowledge. Firstly, what the Pope is"
           }
         },
         {
           "id": "l2-c05",
           "title": {
-            "la": "Caput V. Alterum membrum considerationis sui proponit: nempe, Quis sit, et unde"
+            "la": "Caput V. Alterum membrum considerationis sui proponit: nempe, Quis sit, et unde",
+            "en-US": "Chapter V. Secondly, who the Pope is, and whence he comes"
           }
         },
         {
           "id": "l2-c06",
           "title": {
-            "la": "Caput VI. Quale debeat esse procerum Ecclesiae studium"
+            "la": "Caput VI. Quale debeat esse procerum Ecclesiae studium",
+            "en-US": "Chapter VI. The zeal befitting ecclesiastical rulers"
           }
         },
         {
           "id": "l2-c07",
           "title": {
-            "la": "Caput VII. Resumens priorem quaestionem, quis sit, diligentius expendit"
+            "la": "Caput VII. Resumens priorem quaestionem, quis sit, diligentius expendit",
+            "en-US": "Chapter VII. Who the Pope is (continued)"
           }
         },
         {
           "id": "l2-c08",
           "title": {
-            "la": "Caput VIII. De pontificiae dignitatis et potestatis excellentia disserit"
+            "la": "Caput VIII. De pontificiae dignitatis et potestatis excellentia disserit",
+            "en-US": "Chapter VIII. The dignity and power of the Pope"
           }
         },
         {
           "id": "l2-c09",
           "title": {
-            "la": "Caput IX. Propriae naturae considerationem commendat"
+            "la": "Caput IX. Propriae naturae considerationem commendat",
+            "en-US": "Chapter IX. St. Bernard invites the Pope to consider what he is by nature"
           }
         },
         {
           "id": "l2-c10",
           "title": {
-            "la": "Caput X. Tertium membrum considerationis sui, nempe Qualis sit, exponit"
+            "la": "Caput X. Tertium membrum considerationis sui, nempe Qualis sit, exponit",
+            "en-US": "Chapter X. What manner of man the Pope is"
           }
         },
         {
           "id": "l2-c11",
           "title": {
-            "la": "Caput XI. Serium examen sui Pontifici serio commendat"
+            "la": "Caput XI. Serium examen sui Pontifici serio commendat",
+            "en-US": "Chapter XI. The necessity for self-examination"
           }
         },
         {
           "id": "l2-c12",
           "title": {
-            "la": "Caput XII. Neque in prosperis animum nimis laxandum, neque in adversis deficiendum"
+            "la": "Caput XII. Neque in prosperis animum nimis laxandum, neque in adversis deficiendum",
+            "en-US": "Chapter XII. The spiritual effects of prosperity and adversity"
           }
         },
         {
           "id": "l2-c13",
           "title": {
-            "la": "Caput XIII. Ab otio et nugis vanisque sermonibus Pontificem dehortatur"
+            "la": "Caput XIII. Ab otio et nugis vanisque sermonibus Pontificem dehortatur",
+            "en-US": "Chapter XIII. Idleness, trifling, and profitless conversation to be shunned"
           }
         },
         {
           "id": "l2-c14",
           "title": {
-            "la": "Caput XIV. Personarum acceptionem in judiciis summopere vitandam"
+            "la": "Caput XIV. Personarum acceptionem in judiciis summopere vitandam",
+            "en-US": "Chapter XIV. The Pope warned against accepting the person of any"
           }
         }
       ]
@@ -213,37 +254,43 @@
     {
       "id": "liber-3",
       "title": {
-        "la": "Liber tertius"
+        "la": "Liber tertius",
+        "en-US": "Book III"
       },
       "children": [
         {
           "id": "l3-c01",
           "title": {
-            "la": "Caput I. Pontificis esse, non tam ut omnes suo dominio subjiciat, sed ut omnes, quantum fieri potest, ad Ecclesiae gremium perducat"
+            "la": "Caput I. Pontificis esse, non tam ut omnes suo dominio subjiciat, sed ut omnes, quantum fieri potest, ad Ecclesiae gremium perducat",
+            "en-US": "Chapter I. The Pope should aim not at subjecting all men to himself, but at bringing them into the bosom of the Church"
           }
         },
         {
           "id": "l3-c02",
           "title": {
-            "la": "Caput II. Quis modus in appellationibus ad Sedem apostolicam adhibendus sit"
+            "la": "Caput II. Quis modus in appellationibus ad Sedem apostolicam adhibendus sit",
+            "en-US": "Chapter II. The limits of appeals to the Apostolic See"
           }
         },
         {
           "id": "l3-c03",
           "title": {
-            "la": "Caput III. Praesules Ecclesiae non tam ut praesint, ac semetipsos pascant, quam ut aliis prosint, constitutos esse"
+            "la": "Caput III. Praesules Ecclesiae non tam ut praesint, ac semetipsos pascant, quam ut aliis prosint, constitutos esse",
+            "en-US": "Chapter III. Church rulers are for the profit of their people"
           }
         },
         {
           "id": "l3-c04",
           "title": {
-            "la": "Caput IV. Gradus ordinum ac dignitatum, quae in Ecelesia sunt, non temere confundendos ac perturbandos. Hinc abusum quaerendi privilegia ac exemptiones perstringit"
+            "la": "Caput IV. Gradus ordinum ac dignitatum, quae in Ecelesia sunt, non temere confundendos ac perturbandos. Hinc abusum quaerendi privilegia ac exemptiones perstringit",
+            "en-US": "Chapter IV. Ecclesiastical rank and dignity to be respected. The abuse of privileges and exemptions"
           }
         },
         {
           "id": "l3-c05",
           "title": {
-            "la": "Caput V. Summo Pontifici incumbere curam de apostolicis decretis, et majorum institutis per totum orbem servandis"
+            "la": "Caput V. Summo Pontifici incumbere curam de apostolicis decretis, et majorum institutis per totum orbem servandis",
+            "en-US": "Chapter V. The Sovereign Pontiff should uphold the Apostolic decrees and ancient ordinances throughout the world"
           }
         }
       ]
@@ -251,49 +298,57 @@
     {
       "id": "liber-4",
       "title": {
-        "la": "Liber quartus"
+        "la": "Liber quartus",
+        "en-US": "Book IV"
       },
       "children": [
         {
           "id": "l4-c01",
           "title": {
-            "la": "Caput I. Tractat de iis quae circa ipsum sunt"
+            "la": "Caput I. Tractat de iis quae circa ipsum sunt",
+            "en-US": "Chapter I. The things 'around' the Pope"
           }
         },
         {
           "id": "l4-c02",
           "title": {
-            "la": "Caput II. De cleri et populi Romani moribus agit , et de veterum Pastorum cura ac vigilantia"
+            "la": "Caput II. De cleri et populi Romani moribus agit , et de veterum Pastorum cura ac vigilantia",
+            "en-US": "Chapter II. The clergy and people of Rome. The care and watchfulness of shepherds in olden time"
           }
         },
         {
           "id": "l4-c03",
           "title": {
-            "la": "Caput III. De vestium pompa resecanda, et zelo Pontifici necessario"
+            "la": "Caput III. De vestium pompa resecanda, et zelo Pontifici necessario",
+            "en-US": "Chapter III. The necessity of curtailing extravagance in dress, &c."
           }
         },
         {
           "id": "l4-c04",
           "title": {
-            "la": "Caput IV. Quales collaterales et coadjutores a Pontifice adhibendi: ubi de virtutibus praelatorum"
+            "la": "Caput IV. Quales collaterales et coadjutores a Pontifice adhibendi: ubi de virtutibus praelatorum",
+            "en-US": "Chapter IV. The Pope's colleagues and coadjutors at the Lateran"
           }
         },
         {
           "id": "l4-c05",
           "title": {
-            "la": "Caput V. Exemplis commendatur abstinentia munerum; et arrogantia ministrorum Papae perstringitur"
+            "la": "Caput V. Exemplis commendatur abstinentia munerum; et arrogantia ministrorum Papae perstringitur",
+            "en-US": "Chapter V. The Pope should refuse bribes. Martin and Gunfrid. The arrogance of the Pope's attendants"
           }
         },
         {
           "id": "l4-c06",
           "title": {
-            "la": "Caput VI. Pontifici non convenire, utpote gravioribus intento, rei domesticae curam; proindeque alteri potius oeconomo committendam"
+            "la": "Caput VI. Pontifici non convenire, utpote gravioribus intento, rei domesticae curam; proindeque alteri potius oeconomo committendam",
+            "en-US": "Chapter VI. It is not becoming in the Pope to be absorbed in the management of his household to the neglect of weightier matters. He should have a steward"
           }
         },
         {
           "id": "l4-c07",
           "title": {
-            "la": "Caput VII. Epilogus seu summa eorum quae in pontifice requiruntur"
+            "la": "Caput VII. Epilogus seu summa eorum quae in pontifice requiruntur",
+            "en-US": "Chapter VII. The ideal Pope"
           }
         }
       ]
@@ -301,91 +356,106 @@
     {
       "id": "liber-5",
       "title": {
-        "la": "Liber quintus"
+        "la": "Liber quintus",
+        "en-US": "Book V"
       },
       "children": [
         {
           "id": "l5-c01",
           "title": {
-            "la": "Caput I. De his quae supra nos sunt, id est de Deo rebusque divinis, considerationem instituit, ad quas modo per creaturas erigimur"
+            "la": "Caput I. De his quae supra nos sunt, id est de Deo rebusque divinis, considerationem instituit, ad quas modo per creaturas erigimur",
+            "en-US": "Chapter I. The things above us, namely God and things Divine, to which we rise by means of the creatures"
           }
         },
         {
           "id": "l5-c02",
           "title": {
-            "la": "Caput II. Assignat varios considerationis gradus"
+            "la": "Caput II. Assignat varios considerationis gradus",
+            "en-US": "Chapter II. The Steps of Consideration"
           }
         },
         {
           "id": "l5-c03",
           "title": {
-            "la": "Caput III. Ea quae supra nos sunt, Deum scilicet et Angelos, investigari opinione, fide, et intellectu"
+            "la": "Caput III. Ea quae supra nos sunt, Deum scilicet et Angelos, investigari opinione, fide, et intellectu",
+            "en-US": "Chapter III. Opinion, Faith, and Understanding"
           }
         },
         {
           "id": "l5-c04",
           "title": {
-            "la": "Caput IV. Angeli quomodo considerandi"
+            "la": "Caput IV. Angeli quomodo considerandi",
+            "en-US": "Chapter IV. The Angels"
           }
         },
         {
           "id": "l5-c05",
           "title": {
-            "la": "Caput V. Gratias ac dotes Angelorum a Deo in ipsos derivari"
+            "la": "Caput V. Gratias ac dotes Angelorum a Deo in ipsos derivari",
+            "en-US": "Chapter V. God is the Source of Angelic Gifts and Graces"
           }
         },
         {
           "id": "l5-c06",
           "title": {
-            "la": "Caput VI. Principii et essentiae rationem proprie soli Deo convenire"
+            "la": "Caput VI. Principii et essentiae rationem proprie soli Deo convenire",
+            "en-US": "Chapter VI. The Eternal Self- existence of God"
           }
         },
         {
           "id": "l5-c07",
           "title": {
-            "la": "Caput VII. Deum et simplicem et trinum esse"
+            "la": "Caput VII. Deum et simplicem et trinum esse",
+            "en-US": "Chapter VII. The 'Divine Trinity in Unity"
           }
         },
         {
           "id": "l5-c08",
           "title": {
-            "la": "Caput VIII. Personarum pluralitem in Deo consurgere ex proprietatibus; essentiam tamen unam et simplicem esse"
+            "la": "Caput VIII. Personarum pluralitem in Deo consurgere ex proprietatibus; essentiam tamen unam et simplicem esse",
+            "en-US": "Chapter VIII. The plurality of Persons in the Godhead, and their several properties. The unity and simplicity of the Essence"
           }
         },
         {
           "id": "l5-c09",
           "title": {
-            "la": "Caput IX. Uti in Deo simplex natura est in tribus personis, sic contra in Christo plures naturas in unam personam coalescere"
+            "la": "Caput IX. Uti in Deo simplex natura est in tribus personis, sic contra in Christo plures naturas in unam personam coalescere",
+            "en-US": "Chapter IX. As in God there are three Persons and one Nature, so in Christ there are two Natures and one Person"
           }
         },
         {
           "id": "l5-c10",
           "title": {
-            "la": "Caput X. Parabola, quae est apud Matthaeum de tribus satis, Christi personae accommodatur"
+            "la": "Caput X. Parabola, quae est apud Matthaeum de tribus satis, Christi personae accommodatur",
+            "en-US": "Chapter X. The Parable of the three measures of meal"
           }
         },
         {
           "id": "l5-c11",
           "title": {
-            "la": "Caput XI. Continuatio considerationis de Deo"
+            "la": "Caput XI. Continuatio considerationis de Deo",
+            "en-US": "Chapter XI. The consideration of God continued"
           }
         },
         {
           "id": "l5-c12",
           "title": {
-            "la": "Caput XII. Deum et bonorum operum pium remuneratorem, et scelerum aequissimum vindicem esse"
+            "la": "Caput XII. Deum et bonorum operum pium remuneratorem, et scelerum aequissimum vindicem esse",
+            "en-US": "Chapter XII. God the rewarder of the good, and the righteous judge of the wicked"
           }
         },
         {
           "id": "l5-c13",
           "title": {
-            "la": "Caput XIII. De longitudine, latitudine, profunditate, et sublimitate Dei profunde et eleganter discurrit"
+            "la": "Caput XIII. De longitudine, latitudine, profunditate, et sublimitate Dei profunde et eleganter discurrit",
+            "en-US": "Chapter XIII. The mystical interpretation of the length, and breadth, and height, and depth"
           }
         },
         {
           "id": "l5-c14",
           "title": {
-            "la": "Caput XIV. Modum, quo praedicta secundum Apostolum comprehendere possimus, ostendit"
+            "la": "Caput XIV. Modum, quo praedicta secundum Apostolum comprehendere possimus, ostendit",
+            "en-US": "Chapter XIV. What it is to comprehend God"
           }
         }
       ]
