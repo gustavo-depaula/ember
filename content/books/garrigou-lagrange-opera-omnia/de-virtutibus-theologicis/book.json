@@ -1,0 +1,517 @@
+{
+  "id": "garrigou-de-virtutibus-theologicis",
+  "cover": "quarter",
+  "name": {
+    "la": "De virtutibus theologicis: commentarium in Summam theologicam S. Thomae",
+    "en-US": "On the Theological Virtues (Latin): commentary on the Summa II-II",
+    "pt-BR": "As virtudes teologais (latim): comentário à Suma II-II"
+  },
+  "author": {
+    "la": "Reginaldus Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "description": {
+    "la": "Commentarium in Summam theologicam II-II, de fide, spe et caritate.",
+    "en-US": "The Latin commentary on the Summa theologiae II-II on faith, hope and charity.",
+    "pt-BR": "O comentário latino à Suma teológica II-II sobre a fé, a esperança e a caridade."
+  },
+  "composed": "1948",
+  "work": "garrigou-lagrange/de-virtutibus-theologicis",
+  "editions": {
+    "la": {
+      "editor": "Garrigou-Lagrange (Marietti, Turin / Desclée)",
+      "year": 1948
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/GarrigouLagrangeLatin",
+      "edition": "De virtutibus theologicis: commentarium in Summam theologicam S. Thomae, archive.org GarrigouLagrangeLatin, OCR text; divided by the Summa’s articles (\"Art. N — Utrum …\") found in the OCR, the indexes left out"
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "prolegomena",
+      "title": {
+        "la": "Prolegomena"
+      }
+    },
+    {
+      "id": "q1",
+      "title": {
+        "la": "Sectio 1"
+      },
+      "children": [
+        {
+          "id": "q1-a1",
+          "title": {
+            "la": "Sectio 1, art. 1: UTRUM CON VEN IENTER FIDES, SPES ET CARI-"
+          }
+        },
+        {
+          "id": "q1-a2",
+          "title": {
+            "la": "Sectio 1, art. 2: UTRUM FIDES SIT PRIOR SPE ET SPES CARITATE"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "title": {
+        "la": "Sectio 2"
+      },
+      "children": [
+        {
+          "id": "q2-a1",
+          "title": {
+            "la": "Sectio 2, art. 1: Beatitudines, secundum S. Thomam, sunt actus altiores"
+          }
+        },
+        {
+          "id": "q2-a2",
+          "title": {
+            "la": "Sectio 2, art. 2: UTRUM OBJECTUM FIDEI SIT VERITAS PRIMA"
+          }
+        },
+        {
+          "id": "q2-a3",
+          "title": {
+            "la": "Sectio 2, art. 3: UTBUM FIDEI POSSIT SUBESSE FALSUM"
+          }
+        },
+        {
+          "id": "q2-a4",
+          "title": {
+            "la": "Sectio 2, art. 4: UTRUM ARTICULI FIDEI"
+          }
+        },
+        {
+          "id": "q2-a5",
+          "title": {
+            "la": "Sectio 2, art. 5: UTRUM AD SUMMUM PONTIFICEM PERTINEAT"
+          }
+        },
+        {
+          "id": "q2-a6",
+          "title": {
+            "la": "Sectio 2, art. 6: UTRUM HOMO TENEATUR AD CREDENOUM"
+          }
+        },
+        {
+          "id": "q2-a7-p1",
+          "title": {
+            "la": "Sectio 2, art. 7: UTRUM CONFESSIO FIDEI SIT NECESSAR IA (pars 1)"
+          }
+        },
+        {
+          "id": "q2-a7-p2",
+          "title": {
+            "la": "Sectio 2, art. 7: UTRUM CONFESSIO FIDEI SIT NECESSAR IA (pars 2)"
+          }
+        },
+        {
+          "id": "q2-a7-p3",
+          "title": {
+            "la": "Sectio 2, art. 7: UTRUM CONFESSIO FIDEI SIT NECESSAR IA (pars 3)"
+          }
+        },
+        {
+          "id": "q2-a8",
+          "title": {
+            "la": "Sectio 2, art. 8: UTRUM OONUM INTELLECTUS POSSIT SIMUL ESSE"
+          }
+        },
+        {
+          "id": "q2-a9",
+          "title": {
+            "la": "Sectio 2, art. 9: UTRUM DONUM I NTELLECTUS 8IT SIMUL"
+          }
+        },
+        {
+          "id": "q2-a10",
+          "title": {
+            "la": "Sectio 2, art. 10: UTRUM OONUM INTELLECTUS"
+          }
+        },
+        {
+          "id": "q2-a11",
+          "title": {
+            "la": "Sectio 2, art. 11: QUOMODO OONUM INTELLECTUS DISTINCUATUR"
+          }
+        },
+        {
+          "id": "q2-a12",
+          "title": {
+            "la": "Sectio 2, art. 12: INTER FRUCTUS SPIRITUS SANCTI,"
+          }
+        },
+        {
+          "id": "q2-a13",
+          "title": {
+            "la": "Sectio 2, art. 13: UTRUM SCIENTIAE DONUM SIT PRACTICUM"
+          }
+        },
+        {
+          "id": "q2-a14",
+          "title": {
+            "la": "Sectio 2, art. 14: UTRUM INFIDELITAS SIT PECCATUM"
+          }
+        },
+        {
+          "id": "q2-a15",
+          "title": {
+            "la": "Sectio 2, art. 15: UTRUM I N FIDELITAS SIT MAXIMUM PECCATUM"
+          }
+        },
+        {
+          "id": "q2-a16",
+          "title": {
+            "la": "Sectio 2, art. 16: UTRUM OMNIA I NFIDELIU M OPERA"
+          }
+        },
+        {
+          "id": "q2-a17",
+          "title": {
+            "la": "Sectio 2, art. 17: QUAENAM SPECIES INFIDELITATIS SIT CRAVIOR"
+          }
+        },
+        {
+          "id": "q2-a18",
+          "title": {
+            "la": "Sectio 2, art. 18: UTRUM CUM INFIDELIBUS POSSIT COMMUMICARI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "title": {
+        "la": "Sectio 3"
+      },
+      "children": [
+        {
+          "id": "q3-a1",
+          "title": {
+            "la": "Sectio 3, art. 1: UTRUM H/ERESIS SIT SPECIES INFIDELITATI8"
+          }
+        },
+        {
+          "id": "q3-a2",
+          "title": {
+            "la": "Sectio 3, art. 2: UTRUM HAERETICI SINT TOLERANDI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "title": {
+        "la": "Sectio 4"
+      },
+      "children": [
+        {
+          "id": "q4-a1",
+          "title": {
+            "la": "Sectio 4, art. 1: UTRUM APOSTASIA AD INFIDELITATEM PERTINEAT"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "title": {
+        "la": "Sectio 5"
+      },
+      "children": [
+        {
+          "id": "q5-a1",
+          "title": {
+            "la": "Sectio 5, art. 1: UTRUM BLASPHEMIA OPPONATUR"
+          }
+        },
+        {
+          "id": "q5-a2",
+          "title": {
+            "la": "Sectio 5, art. 2: UTRUM BLASPHEMIA SEMPER SIT"
+          }
+        },
+        {
+          "id": "q5-a3",
+          "title": {
+            "la": "Sectio 5, art. 3: UTRUM DAMNATI BLASPHEMENT"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "title": {
+        "la": "Sectio 6"
+      },
+      "children": [
+        {
+          "id": "q6-a1",
+          "title": {
+            "la": "Sectio 6, art. 1: UTRUM PECCATUM IN SPIRITUM SANCTUM"
+          }
+        },
+        {
+          "id": "q6-a2",
+          "title": {
+            "la": "Sectio 6, art. 2: UTRUM HOMO POSSIT PRIMO PECCARE"
+          }
+        },
+        {
+          "id": "q6-a3",
+          "title": {
+            "la": "Sectio 6, art. 3: UTRUM HEBETUDO SENSUS AUT INTELLICENTI/E"
+          }
+        },
+        {
+          "id": "q6-a4",
+          "title": {
+            "la": "Sectio 6, art. 4: UTRUM BEATITUDO /ETERNA"
+          }
+        },
+        {
+          "id": "q6-a5",
+          "title": {
+            "la": "Sectio 6, art. 5: UTRUM SPES SIT VIBTUS DISTINCTA"
+          }
+        },
+        {
+          "id": "q6-a6",
+          "title": {
+            "la": "Sectio 6, art. 6: UTRUM SPES PR/ECEDAT FIDEM"
+          }
+        },
+        {
+          "id": "q6-a7",
+          "title": {
+            "la": "Sectio 6, art. 7: UTRUM CARITAS SIT PRIOR SPE"
+          }
+        },
+        {
+          "id": "q6-a8",
+          "title": {
+            "la": "Sectio 6, art. 8: UTRUM TIMOR SERVILIS SIT IDEM IN SUBSTANTIA"
+          }
+        },
+        {
+          "id": "q6-a9",
+          "title": {
+            "la": "Sectio 6, art. 9: UTRUM TIMOR SIT FNITIUM SAPIENTI/E"
+          }
+        },
+        {
+          "id": "q6-a10",
+          "title": {
+            "la": "Sectio 6, art. 10: utrum timor remaneat in patria"
+          }
+        },
+        {
+          "id": "q6-a11",
+          "title": {
+            "la": "Sectio 6, art. 11: UTRUM DESPERATIO ORIATUR EX ACEDIA"
+          }
+        },
+        {
+          "id": "q6-a12",
+          "title": {
+            "la": "Sectio 6, art. 12: U"
+          }
+        },
+        {
+          "id": "q6-a13",
+          "title": {
+            "la": "Sectio 6, art. 13: UTRUM DE SPE OEBEAT DARI"
+          }
+        },
+        {
+          "id": "q6-a14",
+          "title": {
+            "la": "Sectio 6, art. 14: UTRUM CARITAS SIT UNA VIRTUS"
+          }
+        },
+        {
+          "id": "q6-a15",
+          "title": {
+            "la": "Sectio 6, art. 15: UTRUM CARITAS SIT FORMA VIRTUTUM"
+          }
+        },
+        {
+          "id": "q6-a16",
+          "title": {
+            "la": "Sectio 6, art. 16: UTRUM CARITAS IN HAC VITA"
+          }
+        },
+        {
+          "id": "q6-a17",
+          "title": {
+            "la": "Sectio 6, art. 17: UTRUM CONVENIENTER DISTINCUANTUR TRES"
+          }
+        },
+        {
+          "id": "q6-a18",
+          "title": {
+            "la": "Sectio 6, art. 18: UTRUM CARITAS AMITTATUR"
+          }
+        },
+        {
+          "id": "q6-a19",
+          "title": {
+            "la": "Sectio 6, art. 19: UTRUM CARITAS SIT EX CARITATE DILICENDA"
+          }
+        },
+        {
+          "id": "q6-a20",
+          "title": {
+            "la": "Sectio 6, art. 20: UTRUM HOMO DEBEAT CORPUS SUUM"
+          }
+        },
+        {
+          "id": "q6-a21",
+          "title": {
+            "la": "Sectio 6, art. 21: UTRUM PECCATORES"
+          }
+        },
+        {
+          "id": "q6-a22",
+          "title": {
+            "la": "Sectio 6, art. 22: UTRUM SIT DE NECESSITATE CARITATIS"
+          }
+        },
+        {
+          "id": "q6-a23",
+          "title": {
+            "la": "Sectio 6, art. 23: UTRUM DEBEAMUS ANCELOS"
+          }
+        },
+        {
+          "id": "q6-a24",
+          "title": {
+            "la": "Sectio 6, art. 24: UTRUM HOMO EX CARITATE"
+          }
+        },
+        {
+          "id": "q6-a25",
+          "title": {
+            "la": "Sectio 6, art. 25: Conclusio est: Bomo debet diligere patrem suum"
+          }
+        },
+        {
+          "id": "q6-a26",
+          "title": {
+            "la": "Sectio 6, art. 26: Conclusio est : Per se loquendo pater est magis aman-"
+          }
+        },
+        {
+          "id": "q6-a27",
+          "title": {
+            "la": "Sectio 6, art. 27: Conclusio : Hrrmo debet plus dUigere objective et ap-"
+          }
+        },
+        {
+          "id": "q6-a28",
+          "title": {
+            "la": "Sectio 6, art. 28: UTRUM ORDO CARITATIS REMANEAT IN PATRIA"
+          }
+        },
+        {
+          "id": "q6-a29",
+          "title": {
+            "la": "Sectio 6, art. 29: AN SIT MACIS MERITORIUM"
+          }
+        },
+        {
+          "id": "q6-a30",
+          "title": {
+            "la": "Sectio 6, art. 30: UTRUM DE CARITATE FUERINT DANDA"
+          }
+        },
+        {
+          "id": "q6-a31",
+          "title": {
+            "la": "Sectio 6, art. 31: UTRUM HOC PR/ECEPTUM POSSIT"
+          }
+        },
+        {
+          "id": "q6-a32",
+          "title": {
+            "la": "Sectio 6, art. 32: UTRUM CONVENIENTER DETUR PR/ECEPTUM:"
+          }
+        },
+        {
+          "id": "q6-a33",
+          "title": {
+            "la": "Sectio 6, art. 33: UTRUM OMNIA APPETANT PACEM"
+          }
+        },
+        {
+          "id": "q6-a34",
+          "title": {
+            "la": "Sectio 6, art. 34: INTER EOS QUIBUS EST BENEFACIENDUM"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "title": {
+        "la": "Sectio 7"
+      },
+      "children": [
+        {
+          "id": "q7-a1",
+          "title": {
+            "la": "Sectio 7, art. 1: UTRUM FRATERNA CORRECTIO"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "title": {
+        "la": "Sectio 8"
+      },
+      "children": [
+        {
+          "id": "q8-a1",
+          "title": {
+            "la": "Sectio 8, art. 1: Deus clare visus nun potest odio haberi; item nec I)eus"
+          }
+        },
+        {
+          "id": "q8-a2",
+          "title": {
+            "la": "Sectio 8, art. 2: AN SCANDALUM SIT PECCATUM"
+          }
+        },
+        {
+          "id": "q8-a3",
+          "title": {
+            "la": "Sectio 8, art. 3: AN SCANDALUM SIT SPECIALE PECCATUM"
+          }
+        },
+        {
+          "id": "q8-a4",
+          "title": {
+            "la": "Sectio 8, art. 4: UTRUM SAPIENTIA SIT IN OMNIBUS"
+          }
+        },
+        {
+          "id": "q8-a5",
+          "title": {
+            "la": "Sectio 8, art. 5: UTRUM STULTITIA SIT PECCATUM"
+          }
+        }
+      ]
+    }
+  ]
+}
