@@ -1,0 +1,250 @@
+{
+  "id": "bernard-sermones-de-sanctis-mount-melleray",
+  "cover": "classic",
+  "name": {
+    "en-US": "Sermons for the Festivals of the Saints (Mount Melleray)",
+    "pt-BR": "Sermões para as festas dos santos (Mount Melleray)"
+  },
+  "author": {
+    "la": "Bernardus Claraevallensis",
+    "en-US": "St. Bernard of Clairvaux",
+    "pt-BR": "São Bernardo de Claraval"
+  },
+  "description": {
+    "en-US": "Sermons of Bernard for the feasts of St. Andrew, the Conversion of St. Paul, the Purification, St. Victor, the Annunciation, SS. Peter and Paul, the Assumption, St. Michael and All Saints, in the English of a priest of Mount Melleray (Dublin, 1925), volume three of his Sermons for the Seasons and Principal Festivals of the Year.",
+    "pt-BR": "Sermões de São Bernardo na tradução inglesa de um sacerdote de Mount Melleray (Dublin)."
+  },
+  "composed": "c. 1135-1153",
+  "languages": [
+    "en-US"
+  ],
+  "work": "bernard/sermones-de-sanctis",
+  "editions": {
+    "en-US": {
+      "translator": "A priest of Mount Melleray (Ailbe Luddy)",
+      "year": 1925
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/stbernardssermon0003prie_s9b1",
+      "edition": "St. Bernard's Sermons for the Seasons and Principal Festivals of the Year, translated from the original Latin by a Priest of Mount Melleray, vol. 3 (Dublin: Browne and Nolan, 1925).",
+      "description": "Archive.org OCR cleaned by script, not proofread; the running heads are stripped by pattern and the translator's occasional footnotes are not kept. The translator (a priest of Mount Melleray, Ailbe Luddy) divides and orders the sermons by the liturgical calendar as listed here, which differs from the Latin book.",
+      "tier": "A",
+      "tierEvidence": "Published in 1925, before 1931: public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "s01",
+      "title": {
+        "en-US": "Sermon for the Feast of St. Martin: November Iith"
+      }
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en-US": "Sermon for the Feast of St. Clement. November 23rd"
+      }
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en-US": "Sermon for the Vigil of the Feast of St. Andrew: November 20th"
+      }
+    },
+    {
+      "id": "s04",
+      "title": {
+        "en-US": "First Sermon for the Feast of St. Andrew: November 30th"
+      }
+    },
+    {
+      "id": "s05",
+      "title": {
+        "en-US": "Second Sermon for the Feast of St. Andrew"
+      }
+    },
+    {
+      "id": "s06",
+      "title": {
+        "en-US": "Sermon for the Feast of the Blessed Humbert.*: December 7th"
+      }
+    },
+    {
+      "id": "s07",
+      "title": {
+        "en-US": "First Sermon for the Feast of the Conversion of St. Paul: January 24th. lord, What Wilt Thou Have Me to Do?’’—acts Ix. 6"
+      }
+    },
+    {
+      "id": "s08",
+      "title": {
+        "en-US": "Second Sermon for the Feast of the Conversion of St. Paul"
+      }
+    },
+    {
+      "id": "s09",
+      "title": {
+        "en-US": "First Sermon for the Feast of the Purification of the Blessed Virgin Mary"
+      }
+    },
+    {
+      "id": "s10",
+      "title": {
+        "en-US": "Second Sermon for the Feast of the Purification of the Blessed Virgin Mary"
+      }
+    },
+    {
+      "id": "s11",
+      "title": {
+        "en-US": "Third Sermon for the Feast of the: Purification of the Blessed Virgin Mary"
+      }
+    },
+    {
+      "id": "s12",
+      "title": {
+        "en-US": "First Sermon for the Feast of St. Victor: February 26th"
+      }
+    },
+    {
+      "id": "s13",
+      "title": {
+        "en-US": "Second Sermon for the Feast of St. Victor"
+      }
+    },
+    {
+      "id": "s14",
+      "title": {
+        "en-US": "Sermon for the Feast of St. Benedict. March 2ist"
+      }
+    },
+    {
+      "id": "s15",
+      "title": {
+        "en-US": "First Sermon for the Feast of the Annunciation"
+      }
+    },
+    {
+      "id": "s16",
+      "title": {
+        "en-US": "Second Sermon for the Feast of the Annunciation"
+      }
+    },
+    {
+      "id": "s17",
+      "title": {
+        "en-US": "Third Sermon for the Feast of the Annunciation"
+      }
+    },
+    {
+      "id": "s18",
+      "title": {
+        "en-US": "Sermon for the Feast of the Nativity of St. John the Baptist: June 24th. on the Manner of John’s Burning and Shining. He Was a Burning and a Shining Light.’’—john V. 35"
+      }
+    },
+    {
+      "id": "s19",
+      "title": {
+        "en-US": "Sermon for the Vigil of SS. Peter and Paul: On the Reflections That Should Occupy Us on the Vigils of the Saints"
+      }
+    },
+    {
+      "id": "s20",
+      "title": {
+        "en-US": "First Sermon for the Feast of SS. Peter and Paul: How the Holy Apostles Have Taught Us to Live"
+      }
+    },
+    {
+      "id": "s21",
+      "title": {
+        "en-US": "Second Sermon for the Feast of SS. Peter and Paul"
+      }
+    },
+    {
+      "id": "s22",
+      "title": {
+        "en-US": "Third Sermon for the Feast of SS. Peter and Paul: On the Two Classes of Sinners, and on the Motives for Confidence to be Found in the Conversion of the Two Great Apostles"
+      }
+    },
+    {
+      "id": "s23",
+      "title": {
+        "en-US": "First Sermon for the Feast of the Assumption of the Blessed Virgin: On the Reception of the Son by the Mother in the Incarnation and of the Mother by the Son in the Assumption"
+      }
+    },
+    {
+      "id": "s24",
+      "title": {
+        "en-US": "Second Sermon for the Feast of the Assumption: How the Spiritual House Has to be Swept and Garnished for the Reception of Christ"
+      }
+    },
+    {
+      "id": "s25",
+      "title": {
+        "en-US": "Third Sermon for the Feast of the Assumption: On the Different Employments of Martha, Mary, and Lazarus"
+      }
+    },
+    {
+      "id": "s26",
+      "title": {
+        "en-US": "Fourth Sermon for the Feast of the Assumption: On the Resurrection of Lazarus and on the Dignity and Virtues of Mary"
+      }
+    },
+    {
+      "id": "s27",
+      "title": {
+        "en-US": "Sermon for the Sunday Within the Octave of the Assumption: On the Dignity of Mary and on the Mystical Stars That Constitute Her Crown"
+      }
+    },
+    {
+      "id": "s28",
+      "title": {
+        "en-US": "Sermon for the Feast of the Nativity of the Blessed Virgin Mary: (september 8.)"
+      }
+    },
+    {
+      "id": "s29",
+      "title": {
+        "en-US": "First Sermon for the Feast of St. Michael, Archangel: (september 29th.)"
+      }
+    },
+    {
+      "id": "s30",
+      "title": {
+        "en-US": "Second Sermon for the Feast of St. Michael: On Scandal"
+      }
+    },
+    {
+      "id": "s31",
+      "title": {
+        "en-US": "First Sermon for the Feast of All Saints: On the Eight Beatitudes"
+      }
+    },
+    {
+      "id": "s32",
+      "title": {
+        "en-US": "Second Sermon for the Feast of All Saints: On the State of the Saints Before the General Resurrection"
+      }
+    },
+    {
+      "id": "s33",
+      "title": {
+        "en-US": "Third Sermon for the Feast of All Saints: How the Souls of the Saints Are Free from Spot But Not as Yet Without Wrinkle"
+      }
+    },
+    {
+      "id": "s34",
+      "title": {
+        "en-US": "Fourth Sermon for the Feast of All Saints: On the Mystical Altar and Abraham’s Bosom"
+      }
+    },
+    {
+      "id": "s35",
+      "title": {
+        "en-US": "Fifth Sermon for the Feast of All Saints: On the Three Kinds of Sanctity and on the Communion of Saints"
+      }
+    }
+  ]
+}
