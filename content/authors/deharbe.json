@@ -1,5 +1,35 @@
 {
-  "name": { "en-US": "Joseph Deharbe", "pt-BR": "Joseph Deharbe" },
+  "name": {
+    "en-US": "Joseph Deharbe",
+    "pt-BR": "Joseph Deharbe"
+  },
   "century": 19,
-  "matches": ["Joseph Deharbe, S.J.", "Joseph Deharbe"]
+  "matches": [
+    "Joseph Deharbe, S.J.",
+    "Joseph Deharbe"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Catechism",
+        "pt-BR": "Catecismo"
+      },
+      "works": [
+        {
+          "work": "deharbe/complete-catechism",
+          "why": {
+            "en-US": "Fander's English, from revealed religion to the sacraments",
+            "pt-BR": "Em inglês de Fander, da religião revelada aos sacramentos"
+          }
+        },
+        {
+          "work": "deharbe/katholischer-katechismus",
+          "why": {
+            "en-US": "The German original, revised for the United States in 1870",
+            "pt-BR": "O original alemão, revisto para os Estados Unidos em 1870"
+          }
+        }
+      ]
+    }
+  ]
 }
