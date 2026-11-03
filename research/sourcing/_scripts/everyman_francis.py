@@ -23,6 +23,11 @@ def blocks(first, last):
     for pi in range(first, last):
         ls = [l for par in P[pi] for l in par]
         ls = [l for l in ls if not HEAD.match(l['text']) and not re.fullmatch(r"[\dIl|. ]{1,4}", l['text'].strip())]
+        # a page-top running head that names the chapter beside the page number ("Prologue 305", "312 His Conversion")
+        if ls and len(ls[0]['text'].split()) <= 9 and re.fullmatch(r"(?:\d{2,3}\s+[A-Z].*|[A-Z][^.!?]*?\s+\d{2,3})", ls[0]['text'].strip()):
+            ls = ls[1:]
+        if not ls:
+            continue
         if not ls:
             continue
         full = [l for l in ls if l['x1'] - l['x0'] > 0.8 * max(x['x1'] - x['x0'] for x in ls)] or ls
