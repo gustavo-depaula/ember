@@ -1,0 +1,111 @@
+{
+  "id": "garrigou-sens-commun",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Le Sens commun, la philosophie de l’être et les formules dogmatiques",
+    "en-US": "Common Sense, the Philosophy of Being and Dogmatic Formulas",
+    "pt-BR": "O senso comum, a filosofia do ser e as fórmulas dogmáticas"
+  },
+  "author": {
+    "fr-FR": "Réginald Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "description": {
+    "fr-FR": "La philosophie de l’être contre le nominalisme et le conceptualisme : la théorie du sens commun, les preuves traditionnelles de l’existence de Dieu et la valeur des formules dogmatiques. Deuxième édition, 1922.",
+    "en-US": "The philosophy of being against nominalism and conceptualism: the theory of common sense, the traditional proofs of the existence of God and the value of dogmatic formulas. Second edition, 1922.",
+    "pt-BR": "A filosofia do ser contra o nominalismo e o conceptualismo: a teoria do senso comum, as provas tradicionais da existência de Deus e o valor das fórmulas dogmáticas. Segunda edição, 1922."
+  },
+  "composed": "1909",
+  "work": "garrigou-lagrange/sens-commun",
+  "editions": {
+    "fr-FR": {
+      "editor": "Nouvelle Librairie Nationale, Paris (2nd ed.)",
+      "year": 1922
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/lesenscommunlaph00garr",
+      "edition": "Le Sens commun, la philosophie de l’être et les formules dogmatiques, 2e éd., Paris: Nouvelle Librairie Nationale, 1922 (Toronto scan, OCR text); chapters only"
+    }
+  ],
+  "languages": [
+    "fr-FR"
+  ],
+  "toc": [
+    {
+      "id": "intro",
+      "title": {
+        "fr-FR": "Préface et introduction"
+      }
+    },
+    {
+      "id": "ch1-intro",
+      "title": {
+        "fr-FR": "Chapitre I. La théorie nominaliste du sens commun"
+      }
+    },
+    {
+      "id": "ch2-intro",
+      "title": {
+        "fr-FR": "Chapitre II. Théorie gongeptualiste-réaliste du sens commun"
+      }
+    },
+    {
+      "id": "ch3-intro",
+      "title": {
+        "fr-FR": "Chapitre III. Comment le principe de raison d’être se rattache au principe d^dentité"
+      }
+    },
+    {
+      "id": "ch4-intro",
+      "title": {
+        "fr-FR": "Chapitre IV. :.a critique moderniste des preuves thomistes de l^existenge de dieu"
+      }
+    },
+    {
+      "id": "ch5-intro",
+      "title": {
+        "fr-FR": "Chapitre V. Le panthéisme de la philosophie nouvelle"
+      }
+    },
+    {
+      "id": "ch6-intro",
+      "title": {
+        "fr-FR": "Chapitre VI. La vérité fondamentale de la philosophie de l^étre"
+      }
+    },
+    {
+      "id": "appendice-1",
+      "title": {
+        "fr-FR": "Appendice I. Philosophie de l’être et ontologisme"
+      }
+    },
+    {
+      "id": "appendice-2",
+      "title": {
+        "fr-FR": "Appendice II"
+      }
+    },
+    {
+      "id": "ch7-intro",
+      "title": {
+        "fr-FR": "Chapitre VII. Gomment les formules dogmatiques"
+      }
+    },
+    {
+      "id": "ch8-intro",
+      "title": {
+        "fr-FR": "Chapitre VIII. Les formules dogmatiques ainsi"
+      }
+    },
+    {
+      "id": "ch9-intro",
+      "title": {
+        "fr-FR": "Chapitre IX. Les formules dogmatiques exprimées en langage philosophique"
+      }
+    }
+  ]
+}
