@@ -6,5 +6,29 @@
   "century": 2,
   "matches": [
     "Athenagoras"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "athenagoras-plea-for-the-christians",
+          "why": {
+            "en-US": "A Plea for the Christians",
+            "pt-BR": "Súplica pelos cristãos"
+          }
+        },
+        {
+          "work": "athenagoras-resurrection-of-the-dead",
+          "why": {
+            "en-US": "The Resurrection of the Dead",
+            "pt-BR": "A ressurreição dos mortos"
+          }
+        }
+      ]
+    }
   ]
 }
