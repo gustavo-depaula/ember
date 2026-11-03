@@ -1,0 +1,226 @@
+{
+  "id": "granada-libro-de-la-oracion-chester",
+  "cover": "quarter",
+  "name": {
+    "en-US": "A Treatise on Prayer and Meditation (Chester, 1862)",
+    "pt-BR": "Tratado da oração e meditação (Chester, inglês, 1862)"
+  },
+  "author": {
+    "es-ES": "Fray Luis de Granada",
+    "en-US": "Louis of Granada",
+    "pt-BR": "Frei Luís de Granada"
+  },
+  "description": {
+    "en-US": "A Victorian English rendering, in 31 chapters, of Louis of Granada's Libro de la oración y meditación: the fruits of prayer, the six points of its exercise, the fourteen meditations for the mornings and nights of the week and their considerations, and the counsels on devotion. It is condensed and re-divided against the Spanish, so it is its own book.",
+    "pt-BR": "Versão inglesa vitoriana (Chester, 1862) do Libro de la oración y meditación de Luís de Granada, em 31 capítulos."
+  },
+  "composed": "1554",
+  "languages": [
+    "en-US"
+  ],
+  "work": "louis-of-granada/libro-de-la-oracion",
+  "editions": {
+    "en-US": {
+      "translator": "anonymous, one of the congregation of the Capuchin oratory of St. Francis, Chester",
+      "year": 1862
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/treatiseonprayer0000luis",
+      "edition": "A Treatise on Prayer and Meditation, translated from the Spanish of Fray Luis de Granada, Chester: Griffith, printer, 1862 (in aid of the building fund of the new church of St. Francis, Chester). Internet Archive scan treatiseonprayer0000luis.",
+      "description": "Internet Archive OCR, split at the chapter headings; running heads and page numbers are dropped and line-break hyphens joined. The translator's dedication and appeal \"To the Purchaser\" and the table of contents are not included; isolated recognition slips remain.",
+      "tier": "A",
+      "tierEvidence": "Published 1862, before 1930; public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "en-US": "Chapter 1. On the Fruits to Be Gathered from Prayer and Meditation"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "en-US": "Chapter 2. On Six Points Belonging to the Exercise of Prayer"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "en-US": "Chapter 3. On the Subjects for Prayer and Meditation"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "en-US": "Chapter 4. On the Seasonableness and Advantage of the First Seven Meditations for the Days of the Week at Night"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "en-US": "Chapter 5. On Knowing One's-Self, and on the Sins of Our Past Life; for Monday Night"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "en-US": "Chapter 6. On Sin; Being a Lengthened Consideration of the Subject of the Last Meditation"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "en-US": "Chapter 7. On the Condition and the Miseries of Human Life.— for Tuesday Night"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "en-US": "Chapter 8. On the Miseries of Human Life; Being a Lengthened Consideration of the Subject of the Last Meditation"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "en-US": "Chapter 9. Meditation for Wednesday Night, on Death"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "en-US": "Chapter 10. On Death; Being a Lengthened Consideration of the Subject As Opened in the Previous Chapter"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "en-US": "Chapter 11. Meditation for Thursday Night, on the Last Judgment"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "en-US": "Chapter 12. On the Last Judgment ; Being a More Lengthened Consideration of the Subject of the Last Meditation"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "en-US": "Chapter 13. Meditation for Friday Night, on the Pains of Hell"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "en-US": "Chapter 14. On the Pains of Hell, Where the Subject of the Last Meditation is Considered at Greater Length"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "en-US": "Chapter 15. Meditation for Saturday Night, on the Happiness of Eternal Glory"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "en-US": "Chapter 16. On the Glory of Paradise, Being an Extension of the Last Meditation"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "en-US": "Chapter 17. Meditation for Sunday Night, on the Divine Benefits"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "en-US": "Chapter 18. On the Divine Benefits, Where the Subject of the Last Meditation is Considered at Greater Length"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "en-US": "Chapter 19. Treating Upon the Seven Other Meditations on the Sacred Passion, and on the Manner of Making Them"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "en-US": "Chapter 20. Meditation on the Washing of the Feet of the Disciples and on the Institution of the Blessed Sacrament ; for Monday Morning"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "en-US": "Chapter 21. Meditation on the Prayer in the Garden and the Apprehension of Our Saviour; for Tuesday Morning"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "en-US": "Chapter 22. Meditation on the Behaviour of Our Redeemer When Taken Before the High Priest and Judges, and on the Scourging at the Pillar; for Wednesday Morning"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "en-US": "Chapter 23. Meditation on the Crown of Thorns Worn by the Son of God, on the Ecce Homo, and on the Carrying of the Cross; for Thursday Morning"
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "en-US": "Chapter 24. Meditation on the Sacred Mystery of Our Lord's Crucifixion and on His Seven Last Words; for Friday Morning"
+      }
+    },
+    {
+      "id": "c25",
+      "title": {
+        "en-US": "Chapter 25. Meditation on the Wound in Our Saviour's Side; on the Descent from the Cross; on the Sorrows of the Blessed Virgin; and on the Burial of Christ; for Saturday Morning"
+      }
+    },
+    {
+      "id": "c26",
+      "title": {
+        "en-US": "Chapter 26. Meditation on the Descent of Our Saviour Into Limbo on His Glorious Resurrection ; on His Appearance to Our Blessed Lady to Mary Magdalen and the Disciples ; for Sunday Morning"
+      }
+    },
+    {
+      "id": "c27",
+      "title": {
+        "en-US": "Chapter 27. A Few Practical Instructions for the Exercise of Mental Prayer"
+      }
+    },
+    {
+      "id": "c28",
+      "title": {
+        "en-US": "Chapter 28. On Devotion"
+      }
+    },
+    {
+      "id": "c29",
+      "title": {
+        "en-US": "Chapter 29. On Nine Different Helps to Devotion"
+      }
+    },
+    {
+      "id": "c30",
+      "title": {
+        "en-US": "Chapter 30. On Nine Things Injurious to Devotion"
+      }
+    },
+    {
+      "id": "c31",
+      "title": {
+        "en-US": "Chapter 31. On the Ordinary Temptations to Which Those Are Subject Who Devote Themselves to A Life of Prayer, and on the Manner of Resisting Them"
+      }
+    }
+  ]
+}
