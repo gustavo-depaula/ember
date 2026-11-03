@@ -1,0 +1,2728 @@
+{
+  "id": "teresa-epistolario-stanbrook",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The Letters of Saint Teresa (Stanbrook)",
+    "pt-BR": "Cartas de Santa Teresa (Stanbrook, inglês)"
+  },
+  "author": {
+    "es-ES": "Santa Teresa de Jesús",
+    "en-US": "St. Teresa of Ávila",
+    "pt-BR": "Santa Teresa de Ávila"
+  },
+  "description": {
+    "en-US": "St. Teresa's letters in English, as translated, arranged and annotated by the Benedictines of Stanbrook (London: Thomas Baker, 1919-1924; Cardinal Gasquet's introduction). Stanbrook orders and numbers the letters differently from Silverio's Spanish Epistolario, so this is its own book. Each letter is titled with its number in the Spanish book where it could be matched by addressee and date, and 'number unidentified' where not; the editor's one-line summary of each letter is in italics. Letters by others that Stanbrook prints beside Teresa's (Luis Bertrand, Peter of Alcántara, John of Ávila) are left out, as are the editor's footnotes and the appendices.",
+    "pt-BR": "As cartas de Santa Teresa em inglês, traduzidas e anotadas pelas Beneditinas de Stanbrook (Londres, 1919-1924), numeradas pelo Epistolario espanhol de Silverio quando foi possível identificar a carta."
+  },
+  "composed": "1546–1582",
+  "languages": [
+    "en-US"
+  ],
+  "work": "teresa-of-avila/epistolario",
+  "editions": {
+    "en-US": {
+      "translator": "Benedictines of Stanbrook",
+      "year": 1919
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/letterst01tere",
+      "edition": "The Letters of Saint Teresa: a complete edition translated from the Spanish and annotated by the Benedictines of Stanbrook, 4 vols., London: Thomas Baker, 1919-1924 (archive.org: letterst01tere, letterst02tere, lettersofsaintte03tere, lettersofsaintte0004card).",
+      "description": "Internet Archive OCR of the four volumes, split on the capitalised addressee headings. Running heads, page numbers and footnotes are dropped, line-break hyphens joined. The OCR is rough in places (isolated misreadings remain, and a few short letters may be run into a neighbour or the editor's note text may stay at a page foot). Letters whose heading could not be matched to the Spanish book by addressee and date are 'number unidentified'.",
+      "tier": "A",
+      "tierEvidence": "Published 1919, before 1930; public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "s001",
+      "title": {
+        "en-US": "Letter (number unidentified). To Don Lorenzo, Avila, December 30, 1561"
+      }
+    },
+    {
+      "id": "s002",
+      "title": {
+        "en-US": "Letter (number unidentified). To Señor Venegrillo, Avila Date uncertain"
+      }
+    },
+    {
+      "id": "s003",
+      "title": {
+        "en-US": "Letter (number unidentified). To the Municipality of Avila, Avila, December 7, 1568"
+      }
+    },
+    {
+      "id": "s004",
+      "title": {
+        "en-US": "Letter (number unidentified). To Don Juan de San Cristobal, at Avila, Avila, April 18, 1564"
+      }
+    },
+    {
+      "id": "s005",
+      "title": {
+        "en-US": "Letter 5. To Doña Luisa, de la Cerda in Andalusia, Malagon, May 18, 1568"
+      }
+    },
+    {
+      "id": "s006",
+      "title": {
+        "en-US": "Letter 6. To Doña Luisa de la Cerda, Andalusia, May 27, 1568"
+      }
+    },
+    {
+      "id": "s007",
+      "title": {
+        "en-US": "Letter 7. To Doña Luisa de la Cerda, in Andalusia, Avila, June 9, 1568"
+      }
+    },
+    {
+      "id": "s008",
+      "title": {
+        "en-US": "Letter 8. To Doña Luisa de la Cerda, in Andalusia, Avila, June 23, 1568"
+      }
+    },
+    {
+      "id": "s009",
+      "title": {
+        "en-US": "Letter 9. To Alonso Ramirez, Avila, June, 1568"
+      }
+    },
+    {
+      "id": "s010",
+      "title": {
+        "en-US": "Letter (number unidentified). To Cristobal Rodriguez de Moya, Avila, June 28, 1568"
+      }
+    },
+    {
+      "id": "s011",
+      "title": {
+        "en-US": "Letter (number unidentified). To Don Alvaro de Mendoza, Bishop of Avila, Avila, July 6, 1568"
+      }
+    },
+    {
+      "id": "s012",
+      "title": {
+        "en-US": "Letter 10. To Don Francisco de Salcedo, Avila, Valladolid, the end of September, 1568"
+      }
+    },
+    {
+      "id": "s013",
+      "title": {
+        "en-US": "Letter 11. To Doña Luisa de la Cerda, Toledo, Valladolid, November 2, 1568"
+      }
+    },
+    {
+      "id": "s014",
+      "title": {
+        "en-US": "Letter 12. To Doña Luisa de la Cerda, Toledo, Valladolid, December 13, 1568"
+      }
+    },
+    {
+      "id": "s015",
+      "title": {
+        "en-US": "Letter (number unidentified). To Doña Inés Nieto, at Madrid, Valladolid, December 28, 1568"
+      }
+    },
+    {
+      "id": "s016",
+      "title": {
+        "en-US": "Letter 13. To Diego Ortiz, Citizen of Toledo, Valladolid, January 9, 1569"
+      }
+    },
+    {
+      "id": "s017",
+      "title": {
+        "en-US": "Letter 14. To Alonzo Ramirez, Valladolid, February 19, 1569"
+      }
+    },
+    {
+      "id": "s018",
+      "title": {
+        "en-US": "Letter (number unidentified). Fragment of a letter to Philip 11 containing a warning received by the, Madrid, early in March, 1569"
+      }
+    },
+    {
+      "id": "s019",
+      "title": {
+        "en-US": "Letter (number unidentified). To Doña Maria de Mendoza, Toledo, March, 1569"
+      }
+    },
+    {
+      "id": "s020",
+      "title": {
+        "en-US": "Letter 16. To Simon Ruiz, Citizen of Medina del Campo, Toledo, October 19, 1569"
+      }
+    },
+    {
+      "id": "s021",
+      "title": {
+        "en-US": "Letter (number unidentified). To the Saint's Sister, Juana de Ahumada, at Alba de Tormes, Toledo, October 19, 1569"
+      }
+    },
+    {
+      "id": "s022",
+      "title": {
+        "en-US": "Letter 18. To Doña Juana de Ahumada, at Alba de Tormes, Toledo, about the beginning of December, 1569"
+      }
+    },
+    {
+      "id": "s023",
+      "title": {
+        "en-US": "Letter 19. To Don Lorenzo de Cepeda, Lima, Toledo, January 17, 1570"
+      }
+    },
+    {
+      "id": "s024",
+      "title": {
+        "en-US": "Letter (number unidentified). To the Very Reverend Fray Antonio de Segura, Toledo, Lent, 1570"
+      }
+    },
+    {
+      "id": "s025",
+      "title": {
+        "en-US": "Letter (number unidentified). To Alonso Sanchez of Toledo and Bernardina de Quiros, Toledo, May 27, 1570"
+      }
+    },
+    {
+      "id": "s026",
+      "title": {
+        "en-US": "Letter 21. To Diego de San Pedro de la Palma, at Toledo, Toledo, July 15, 1570"
+      }
+    },
+    {
+      "id": "s027",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Don Luis, Toledo, Toledo, August 11, 1570"
+      }
+    },
+    {
+      "id": "s028",
+      "title": {
+        "en-US": "Letter 22. To Diego Ortiz at Toledo, Toledo, August, 1570"
+      }
+    },
+    {
+      "id": "s029",
+      "title": {
+        "en-US": "Letter (number unidentified). To Doña Catalina de Hurtado, Toledo, Avila, October, 1570"
+      }
+    },
+    {
+      "id": "s030",
+      "title": {
+        "en-US": "Letter 24. To Alonso Ramirez, Toledo, Alba de Tormes, February 5, 1571"
+      }
+    },
+    {
+      "id": "s031",
+      "title": {
+        "en-US": "Letter 25. To Diego Ortiz, Toledo, Salamanca, March 29, 1571"
+      }
+    },
+    {
+      "id": "s032",
+      "title": {
+        "en-US": "Letter (number unidentified). To Diego Ortiz, Salamanca, May 27, 1571"
+      }
+    },
+    {
+      "id": "s033",
+      "title": {
+        "en-US": "Letter 28. To Sister Catalina de Cristo, Postulant at Medina, Medina del Campo, October 5, 1571"
+      }
+    },
+    {
+      "id": "s034",
+      "title": {
+        "en-US": "Letter 31. To Doña Luisa de la Cerda, Paracuellos, Convent of the Incarnation, Avila. November 7, 1571"
+      }
+    },
+    {
+      "id": "s035",
+      "title": {
+        "en-US": "Letter (number unidentified). To Juan Gomez at Avila, Convent of the Incarnation, Avila, January 10, 1572"
+      }
+    },
+    {
+      "id": "s036",
+      "title": {
+        "en-US": "Letter (number unidentified). To Doña Isabel de Jimena at Segovia', Convent of the Incarnation, Avila, beginning of 1572"
+      }
+    },
+    {
+      "id": "s037",
+      "title": {
+        "en-US": "Letter 33. To Doña Juana de Ahumada, the Saint's Sister, at Galinduste, Convent of the Incarnation, Avila, February 4, 1572"
+      }
+    },
+    {
+      "id": "s038",
+      "title": {
+        "en-US": "Letter (number unidentified). To Doña Juana de Ahumada, Alba, Convent of the Incarnation, Avila, 1572"
+      }
+    },
+    {
+      "id": "s039",
+      "title": {
+        "en-US": "Letter 34. To Doña Maria de Mendoza Valladolid, Convent of the Incarnation, Avila, March 7, 1572"
+      }
+    },
+    {
+      "id": "s040",
+      "title": {
+        "en-US": "Letter (number unidentified). To Doña Juana de Ahumada, Alba de Tormes, Convent of the Incarnation, Avila, August 27, 1572"
+      }
+    },
+    {
+      "id": "s041",
+      "title": {
+        "en-US": "Letter (number unidentified). Reply to a spiritual challenge of the friars and nuns at Pastrana, Avila, circa September 14, 1572"
+      }
+    },
+    {
+      "id": "s042",
+      "title": {
+        "en-US": "Letter (number unidentified). To Doña Juana de Ahumada, Alba de Tormes, Convent of the Incarnation, Avila, September, 1572"
+      }
+    },
+    {
+      "id": "s043",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Inés de Jesus, Prioress of Medina del Campo, Convent of the Incarnation, Avila, 1572"
+      }
+    },
+    {
+      "id": "s044",
+      "title": {
+        "en-US": "Letter 41. To Maldonado Bocalan, Convent of the Incarnation, February i, 1573"
+      }
+    },
+    {
+      "id": "s045",
+      "title": {
+        "en-US": "Letter 44. To Doña Juana de Ahumada, Alba de Tormes, Convent of the Incarnation, Avila, March 9, 1573"
+      }
+    },
+    {
+      "id": "s046",
+      "title": {
+        "en-US": "Letter (number unidentified). To His Sacred, Imperial, and, Convent oí\" the Incarnation, Avila. June 1 1, 1571"
+      }
+    },
+    {
+      "id": "s047",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Ordonez, S.J. Medina del Campo, Convent of the Incarnation, Avila"
+      }
+    },
+    {
+      "id": "s048",
+      "title": {
+        "en-US": "Letter 47. To Pedro de la Vanda, Salamanca, August 2, 1573"
+      }
+    },
+    {
+      "id": "s049",
+      "title": {
+        "en-US": "Letter 48. To Don Pedro de la Vanda, Salamanca, October 6, 1573"
+      }
+    },
+    {
+      "id": "s050",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Martin Guttierez, Rector of the Society at Salamanca', Salamanca ? 1573"
+      }
+    },
+    {
+      "id": "s051",
+      "title": {
+        "en-US": "Letter (number unidentified). To Doña Inés Nieto, Wife of Señor, Salamanca, October 31, 1573"
+      }
+    },
+    {
+      "id": "s052",
+      "title": {
+        "en-US": "Letter (number unidentified). To Doña Juana de Ahumada, at Alba de Tormes, Salamanca, November, 1573"
+      }
+    },
+    {
+      "id": "s053",
+      "title": {
+        "en-US": "Letter (number unidentified). To the Father Master Domingo Bañez, Valladolid, Salamanca, December 3, 1573"
+      }
+    },
+    {
+      "id": "s054",
+      "title": {
+        "en-US": "Letter 50. To Father Domingo Bañez, Valladolid, Salamanca, January, 1574"
+      }
+    },
+    {
+      "id": "s055",
+      "title": {
+        "en-US": "Letter (number unidentified). To Don Alvaro de Mendoza, Bishop of Avila, at Valladolid, Alba de Tormes, January or February, 1574"
+      }
+    },
+    {
+      "id": "s056",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Aña de la Encarnación, Alba de Termes, February, 1574"
+      }
+    },
+    {
+      "id": "s057",
+      "title": {
+        "en-US": "Letter 53. To Mother Mary Baptist, Prioress, Segovia, May 13 and 14, 1574"
+      }
+    },
+    {
+      "id": "s058",
+      "title": {
+        "en-US": "Letter 54. To Fray Domingo Bañez, Valladolid, Segovia, end of May, 1574"
+      }
+    },
+    {
+      "id": "s059",
+      "title": {
+        "en-US": "Letter 57. To Antonio Gaytan, Salamanca, Segovia, beginning of June, 1574"
+      }
+    },
+    {
+      "id": "s060",
+      "title": {
+        "en-US": "Letter (number unidentified). To Antonio Gaytan, Segovia, June, 1524"
+      }
+    },
+    {
+      "id": "s061",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Mary Baptist, Prioress, Segovia, second half of June, 1574"
+      }
+    },
+    {
+      "id": "s062",
+      "title": {
+        "en-US": "Letter (number unidentified). To the Most Illustrious Señor, Segovia, June, 1574"
+      }
+    },
+    {
+      "id": "s063",
+      "title": {
+        "en-US": "Letter 59. To Don Teutonio de Braganza, Salamanca, Segovia, July 3, 1574"
+      }
+    },
+    {
+      "id": "s064",
+      "title": {
+        "en-US": "Letter 60. To Mother Mary Baptist, Prioress, Segovia, after July 16, 1574"
+      }
+    },
+    {
+      "id": "s065",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Mary Baptist, Prioress, Segovia, September 11, 1574"
+      }
+    },
+    {
+      "id": "s066",
+      "title": {
+        "en-US": "Letter 63. To Don Teutonic de Braganza, Salamanca, Segovia, September 15, 1574"
+      }
+    },
+    {
+      "id": "s067",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mateo de las Peñuelas, Steward of the Incarnation at Avila, Segovia, towards the end of September, 1574"
+      }
+    },
+    {
+      "id": "s068",
+      "title": {
+        "en-US": "Letter 62. To Mother Mary Baptist, Prioress of Valladolid, Segovia, end of September, 1574"
+      }
+    },
+    {
+      "id": "s069",
+      "title": {
+        "en-US": "Letter (number unidentified). To Doña Maria de Mendoza, Valladolid, Avila, St. Joseph's convent, November, 1574"
+      }
+    },
+    {
+      "id": "s070",
+      "title": {
+        "en-US": "Letter (number unidentified). To Doña Maria de Mendoza, Avila, November, 1574"
+      }
+    },
+    {
+      "id": "s071",
+      "title": {
+        "en-US": "Letter (number unidentified). To Doña Ana Enriquez, at Toro, Valladolid, December 21 and 23, 1575"
+      }
+    },
+    {
+      "id": "s072",
+      "title": {
+        "en-US": "Letter 70. To Don Teutonio de Braganza, Salamanca, Valladolid, January 6, 1575"
+      }
+    },
+    {
+      "id": "s073",
+      "title": {
+        "en-US": "Letter (number unidentified). To the Father Master Luis de, Valladolid, date unknown"
+      }
+    },
+    {
+      "id": "s074",
+      "title": {
+        "en-US": "Letter 71. To Don Alvaro de Mendoza, Bishop of Avila, Veas, May 11, 1575"
+      }
+    },
+    {
+      "id": "s075",
+      "title": {
+        "en-US": "Letter 72. To Inés de Jesus, Prioress of Medina, Veas, May 12, 1575"
+      }
+    },
+    {
+      "id": "s076",
+      "title": {
+        "en-US": "Letter 73. To Some One Living at Avila, Seville, June 4, 1575"
+      }
+    },
+    {
+      "id": "s077",
+      "title": {
+        "en-US": "Letter (number unidentified). To the Most Reverend Father, Seville, June 18, 1575"
+      }
+    },
+    {
+      "id": "s078",
+      "title": {
+        "en-US": "Letter (number unidentified). To Antonio Gaytan, Alba de Tormes, Seville, July 10, 1575"
+      }
+    },
+    {
+      "id": "s079",
+      "title": {
+        "en-US": "Letter (number unidentified). To King Philip Ii, at Madrid, Seville, July 19, 1575"
+      }
+    },
+    {
+      "id": "s080",
+      "title": {
+        "en-US": "Letter 78. To Doña Juana de Ahumada, Alba de Tormes, Seville, August 12, 1575"
+      }
+    },
+    {
+      "id": "s081",
+      "title": {
+        "en-US": "Letter 79. To Father Gracian, in Castile, Seville, September 27, 1575"
+      }
+    },
+    {
+      "id": "s082",
+      "title": {
+        "en-US": "Letter 81. To Father Gracian at Seville, Seville, towards the end of October, 1575"
+      }
+    },
+    {
+      "id": "s083",
+      "title": {
+        "en-US": "Letter (number unidentified). To One of the Saint's Confessors' at Salamanca, Seville, October 9, 1575"
+      }
+    },
+    {
+      "id": "s084",
+      "title": {
+        "en-US": "Letter (number unidentified). To A Relation in Castile, Seville, October 24, 1575"
+      }
+    },
+    {
+      "id": "s085",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Ana de San Alberto,' at Malagon, Seville, towards the end of the year 1575"
+      }
+    },
+    {
+      "id": "s086",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Grecian, Toledo, Seville, towards the end of 1575"
+      }
+    },
+    {
+      "id": "s087",
+      "title": {
+        "en-US": "Letter 88. To Father Gracian in Castile, Seville, December, 1575"
+      }
+    },
+    {
+      "id": "s088",
+      "title": {
+        "en-US": "Letter 86. To Diego Ortiz, Toledo, Seville, December 26, 1575"
+      }
+    },
+    {
+      "id": "s089",
+      "title": {
+        "en-US": "Letter 87. To Mother Mary Baptist, Prioress, Seville, December 30, 1575"
+      }
+    },
+    {
+      "id": "s090",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Mary Baptist, Prioress of Valladolid, Seville, the end of January, 1576"
+      }
+    },
+    {
+      "id": "s091",
+      "title": {
+        "en-US": "Letter 91. To Juan Bautista Rúbeo, General of the Carmelites, Seville, the beginning of February, 1576"
+      }
+    },
+    {
+      "id": "s092",
+      "title": {
+        "en-US": "Letter (number unidentified). To Don Rodrigo de Moya, Carayaca, Seville, February 19, 1576"
+      }
+    },
+    {
+      "id": "s093",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Mary Baptist, Prioress of Valladolid, Seville, April 29, 1576"
+      }
+    },
+    {
+      "id": "s094",
+      "title": {
+        "en-US": "Letter (number unidentified). To Fray Ambrosio Mariano de San, Seville, May 9, 1576"
+      }
+    },
+    {
+      "id": "s095",
+      "title": {
+        "en-US": "Letter (number unidentified). To the Venerable Mother Anne of Jesus, Seville, after June 3, 1576"
+      }
+    },
+    {
+      "id": "s096",
+      "title": {
+        "en-US": "Letter 95. To Father Gracian, at Seville, Malagon, June 15, 1576"
+      }
+    },
+    {
+      "id": "s097",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Mary of St. Joseph, Malagon, June 15, 1576"
+      }
+    },
+    {
+      "id": "s098",
+      "title": {
+        "en-US": "Letter 97. To Mother Mary of St. Joseph, Prioress of Seville, Malagon, June 18, 1576"
+      }
+    },
+    {
+      "id": "s099",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, at Seville, Malagon, end of June, 1576"
+      }
+    },
+    {
+      "id": "s100",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Mary of St. Joseph, Prioress of Seville, Toledo, July 2, 1576"
+      }
+    },
+    {
+      "id": "s101",
+      "title": {
+        "en-US": "Letter 100. To Mother Mary of St. Joseph, Prioress of Seville, Toledo, July 11, 1576"
+      }
+    },
+    {
+      "id": "s102",
+      "title": {
+        "en-US": "Letter 101. To Don Lorenzo de Cepeda, Avila, Toledo, July 24, 1576"
+      }
+    },
+    {
+      "id": "s103",
+      "title": {
+        "en-US": "Letter (number unidentified). To Lorenzo de Cepeda, Toledo, July 24, 1576"
+      }
+    },
+    {
+      "id": "s104",
+      "title": {
+        "en-US": "Letter (number unidentified). To Ven. Anne of Jesus, Prioress of Veas, and Her Nuns, Toledo, August 6, 1576"
+      }
+    },
+    {
+      "id": "s105",
+      "title": {
+        "en-US": "Letter (number unidentified). To the Nuns of Veas, Toledo, 1578"
+      }
+    },
+    {
+      "id": "s106",
+      "title": {
+        "en-US": "Letter (number unidentified). To the Hieronymite Nuns of Toledo, Toledo, August 17, 1576"
+      }
+    },
+    {
+      "id": "s107",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian in Castile, Toledo, about the month of September"
+      }
+    },
+    {
+      "id": "s108",
+      "title": {
+        "en-US": "Letter 105. To Father Gracian at Almodovar del Campo, Toledo, September 5, 1576"
+      }
+    },
+    {
+      "id": "s109",
+      "title": {
+        "en-US": "Letter 106. To Father Gracian, at Almodovar del Campo, Toledo, September 6, 1576"
+      }
+    },
+    {
+      "id": "s110",
+      "title": {
+        "en-US": "Letter 107. To Mary of St. Joseph, Prioress of Seville, Toledo, September, 7, 1576"
+      }
+    },
+    {
+      "id": "s111",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Mary of S. Joseph. ::, and Doria died shortly after on May 9, 1594 (Euvres IV, 162"
+      }
+    },
+    {
+      "id": "s112",
+      "title": {
+        "en-US": "Letter 108. To Mother Mary of St. Joseph, Prioress of Seville, Toledo, September 9, 1576"
+      }
+    },
+    {
+      "id": "s113",
+      "title": {
+        "en-US": "Letter 109. To Father Gracian, Almodovar, Toledo, September 9, 1576"
+      }
+    },
+    {
+      "id": "s114",
+      "title": {
+        "en-US": "Letter 111. To Father Gracian, Seville, Toledo, September 20, 1576"
+      }
+    },
+    {
+      "id": "s115",
+      "title": {
+        "en-US": "Letter 112. To Mother Mary of St. Joseph, Seville, Toledo, September 20, 1576"
+      }
+    },
+    {
+      "id": "s116",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Mary of St. Joseph, Prioress of Seville, Toledo, September 22, 1576"
+      }
+    },
+    {
+      "id": "s117",
+      "title": {
+        "en-US": "Letter 114. To Mother Mary of St. Joseph, Prioress of Seville, Toledo, September 26, 1576"
+      }
+    },
+    {
+      "id": "s118",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, Seville, Toledo, October 6, 1576"
+      }
+    },
+    {
+      "id": "s119",
+      "title": {
+        "en-US": "Letter 116. To Father Juan de Jesus (Roca), at la Roda, Toledo, about October 5, 1576"
+      }
+    },
+    {
+      "id": "s120",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Mary of St. Joseph, Seville, Toledo, October 5, 1576"
+      }
+    },
+    {
+      "id": "s121",
+      "title": {
+        "en-US": "Letter 117. To Mother Mary of St. Joseph, Prioress of Seville, Toledo, October 13, 1576"
+      }
+    },
+    {
+      "id": "s122",
+      "title": {
+        "en-US": "Letter 123. To Mother Mary of St. Joseph, Prioress of Seville, Toledo, about the middle of October, 1576"
+      }
+    },
+    {
+      "id": "s123",
+      "title": {
+        "en-US": "Letter 119. To Fray Ambrosio Mariano, Madrid, Toledo, about the middle of October 1576"
+      }
+    },
+    {
+      "id": "s124",
+      "title": {
+        "en-US": "Letter 120. To Father Gracian, Seville, Toledo, October 21, 1576"
+      }
+    },
+    {
+      "id": "s125",
+      "title": {
+        "en-US": "Letter 121. To Fray Ambrosio Mariano, Madrid, Toledo, October 21, 1576"
+      }
+    },
+    {
+      "id": "s126",
+      "title": {
+        "en-US": "Letter 115. To Father Gracian, Seville, Toledo, October 1576"
+      }
+    },
+    {
+      "id": "s127",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, Seville, Toledo, October 23, 1576"
+      }
+    },
+    {
+      "id": "s128",
+      "title": {
+        "en-US": "Letter 124. To Father Gracian, Seville, Toledo, October 31, 1576"
+      }
+    },
+    {
+      "id": "s129",
+      "title": {
+        "en-US": "Letter 125. To Mother Mary of St. Joseph, Prioress of Seville, Toledo, October 31, 1576"
+      }
+    },
+    {
+      "id": "s130",
+      "title": {
+        "en-US": "Letter 126. To Mother Mary Baptist, Prioress of Valladolid, Toledo, Novcrnbcr 2, 1576"
+      }
+    },
+    {
+      "id": "s131",
+      "title": {
+        "en-US": "Letter (number unidentified). To Fray Mariano, Madrid, Toledo, November 3, 1576"
+      }
+    },
+    {
+      "id": "s132",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, Seville, Toledo, November 4, 1576"
+      }
+    },
+    {
+      "id": "s133",
+      "title": {
+        "en-US": "Letter 130. To Mother Mary of St. Joseph, Prioress of Seville, Toledo, November 8, 1576"
+      }
+    },
+    {
+      "id": "s134",
+      "title": {
+        "en-US": "Letter 131. To Mother Mary of St. Joseph, Prioress of Seville, Toledo, November 11, 1576"
+      }
+    },
+    {
+      "id": "s135",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, Seville, Toledo, Novemberii, 1576"
+      }
+    },
+    {
+      "id": "s136",
+      "title": {
+        "en-US": "Letter 132. To Father Gracian, Seville, Toledo, November, 1576"
+      }
+    },
+    {
+      "id": "s137",
+      "title": {
+        "en-US": "Letter (number unidentified). To Don Lorenzo de Cepeda, Toledo, November 1576"
+      }
+    },
+    {
+      "id": "s138",
+      "title": {
+        "en-US": "Letter (number unidentified). To Don Francisco de Salcedo, Avila, Toledo, November 13, 1576"
+      }
+    },
+    {
+      "id": "s139",
+      "title": {
+        "en-US": "Letter 133. To Father Gracian, Seville, Toledo, November 19, 1576"
+      }
+    },
+    {
+      "id": "s140",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, Seville, Toledo"
+      }
+    },
+    {
+      "id": "s141",
+      "title": {
+        "en-US": "Letter 137. To Mother Mary of St. Joseph, Prioress of Seville, Toledo, November 19, 1576"
+      }
+    },
+    {
+      "id": "s142",
+      "title": {
+        "en-US": "Letter 138. To Mother Mary of St. Joseph, Prioress of Seville, Toledo, November 26, 1576"
+      }
+    },
+    {
+      "id": "s143",
+      "title": {
+        "en-US": "Letter (number unidentified). To Don Luis de Cepeda, at Torrijos, Toledo, November 26, 1576"
+      }
+    },
+    {
+      "id": "s144",
+      "title": {
+        "en-US": "Letter 134. To Father Gracian, Seville, Toledo, about the end of November 1576"
+      }
+    },
+    {
+      "id": "s145",
+      "title": {
+        "en-US": "Letter 135. To Father Gracian, Seville, Toledo, about November 1576"
+      }
+    },
+    {
+      "id": "s146",
+      "title": {
+        "en-US": "Letter 140. To Father Gracian, Seville, Toledo, about November 1576"
+      }
+    },
+    {
+      "id": "s147",
+      "title": {
+        "en-US": "Letter 143. To Mother Mary of St. Joseph, Prioress of Seville, Toledo, December 3, 1576"
+      }
+    },
+    {
+      "id": "s148",
+      "title": {
+        "en-US": "Letter 144. To Mother Mary of St. Joseph, Prioress of Seville, Toledo, December 7, 1576"
+      }
+    },
+    {
+      "id": "s149",
+      "title": {
+        "en-US": "Letter 147. To Father Gracian, Near Seville, Toledo, December 7, 1576"
+      }
+    },
+    {
+      "id": "s150",
+      "title": {
+        "en-US": "Letter 141. To Father Gracian, Near Seville, Toledo, end of November or early in December, 1576"
+      }
+    },
+    {
+      "id": "s151",
+      "title": {
+        "en-US": "Letter 146. To Father Gracian, Paterna, Toledo, the middle of December, 1576"
+      }
+    },
+    {
+      "id": "s152",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Mariano, Madrid, Toledo, December 12, 1576"
+      }
+    },
+    {
+      "id": "s153",
+      "title": {
+        "en-US": "Letter 149. To Mother Mary of St. Joseph, Prioress of Seville, Toledo, December 13, 1576"
+      }
+    },
+    {
+      "id": "s154",
+      "title": {
+        "en-US": "Letter 150. To A Benefactor of Toledo (Probably, Toledo, December 16, 1576"
+      }
+    },
+    {
+      "id": "s155",
+      "title": {
+        "en-US": "Letter 151. To Mother Mary of St. Joseph, Prioress of Seville, Toledo, December 27, 1576"
+      }
+    },
+    {
+      "id": "s156",
+      "title": {
+        "en-US": "Letter 152. To Mother Brianda de San José, Prioress of Malagon, Toledo, the end of December, 1576"
+      }
+    },
+    {
+      "id": "s157",
+      "title": {
+        "en-US": "Letter 154. To Mother Mary Baptist, Prioress of Valladolid, Toledo, the end of December, 1576"
+      }
+    },
+    {
+      "id": "s158",
+      "title": {
+        "en-US": "Letter (number unidentified). To the Very Magnificent Señor Antonio de Sorio, Toledo, the end of 1576"
+      }
+    },
+    {
+      "id": "s159",
+      "title": {
+        "en-US": "Letter 157. To Don Diego de Guzman y Cepeda the Saint's Nephew.', Toledo, December 1576"
+      }
+    },
+    {
+      "id": "s160",
+      "title": {
+        "en-US": "Letter (number unidentified). To Don Diego de Guzman y Cepeda, Toledo, the end of 1576"
+      }
+    },
+    {
+      "id": "s161",
+      "title": {
+        "en-US": "Letter 158. To Lorenzo de Cepeda, Avila, Toledo, January 2, 1577"
+      }
+    },
+    {
+      "id": "s162",
+      "title": {
+        "en-US": "Letter 162. To Mother Mary of St. Joseph, Prioress of Seville, Toledo, January 3, 1577"
+      }
+    },
+    {
+      "id": "s163",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, Andalusia, Toledo, January 9, 1577"
+      }
+    },
+    {
+      "id": "s164",
+      "title": {
+        "en-US": "Letter 161. To Fray Mariano, Madrid, Toledo, the middle of January, 1577"
+      }
+    },
+    {
+      "id": "s165",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Mary of St. Joseph, Prioress of Seville, Toledo, the middle of January, 1576"
+      }
+    },
+    {
+      "id": "s166",
+      "title": {
+        "en-US": "Letter 163. To Don Lorenzo de Cepeda, Toledo, January 17, 1577"
+      }
+    },
+    {
+      "id": "s167",
+      "title": {
+        "en-US": "Letter 164. To Mother Mary of St. Joseph, Prioress of Seville, Toledo, January 17, 1577"
+      }
+    },
+    {
+      "id": "s168",
+      "title": {
+        "en-US": "Letter 165. To Mother Mary Baptist, Toledo, January 21, 1577"
+      }
+    },
+    {
+      "id": "s169",
+      "title": {
+        "en-US": "Letter 166. To Mother Mary of St. Joseph, Toledo, January 27, 1577"
+      }
+    },
+    {
+      "id": "s170",
+      "title": {
+        "en-US": "Letter (number unidentified). To Don Alvaro de Mendoza, Bishop of Avila, Toledo, January 27, 1577"
+      }
+    },
+    {
+      "id": "s171",
+      "title": {
+        "en-US": "Letter (number unidentified). To Fray Mariano, Madrid, Toledo, February 6, 1577"
+      }
+    },
+    {
+      "id": "s172",
+      "title": {
+        "en-US": "Letter (number unidentified). To Don Lorenzo de Cepeda, Avila, Toledo. February 10, 1577"
+      }
+    },
+    {
+      "id": "s173",
+      "title": {
+        "en-US": "Letter 167. To Father Ambrosio Mariano, Madrid, Toledo, February i i, 1577"
+      }
+    },
+    {
+      "id": "s174",
+      "title": {
+        "en-US": "Letter 170. To Fray Ambrosio Mariano, Madrid, Toledo, February 16, 1577"
+      }
+    },
+    {
+      "id": "s175",
+      "title": {
+        "en-US": "Letter (number unidentified). To Don Lorenzo Be Cepe13A, Avila, Toledo, February, 27, 28, 1577"
+      }
+    },
+    {
+      "id": "s176",
+      "title": {
+        "en-US": "Letter 172. To Mother Mary of St. Joseph, Prioress of Seville, Toledo, February 28, 1577"
+      }
+    },
+    {
+      "id": "s177",
+      "title": {
+        "en-US": "Letter 173. To Mother Mary of S. Joseph, Toledo, March 2, 1577"
+      }
+    },
+    {
+      "id": "s178",
+      "title": {
+        "en-US": "Letter 175. To Fray Ambrosio Mariano, Madrid, Toledo, March 15, 1577"
+      }
+    },
+    {
+      "id": "s179",
+      "title": {
+        "en-US": "Letter 176. To Mother Mary of St. Joseph, Prioress of Seville, Toledo, April 9, 1577"
+      }
+    },
+    {
+      "id": "s180",
+      "title": {
+        "en-US": "Letter (number unidentified). To Gaspar de Villanueva, Chaplain, Toledo, April 17, 1577"
+      }
+    },
+    {
+      "id": "s181",
+      "title": {
+        "en-US": "Letter 178. To Mother Mary of St. Joseph, Prioress of Seville, Toledo, May 6, 1577"
+      }
+    },
+    {
+      "id": "s182",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Mary of St. Joseph Prioress of Seville, Toledo, May 15, 1577"
+      }
+    },
+    {
+      "id": "s183",
+      "title": {
+        "en-US": "Letter (number unidentified). To Fray Mariano, Madrid, Toledo, May 19, 1577"
+      }
+    },
+    {
+      "id": "s184",
+      "title": {
+        "en-US": "Letter 181. To Mothiir Mary of St. Josriph, Priorkss of Skvillk, Toledo, May 28, 1577"
+      }
+    },
+    {
+      "id": "s185",
+      "title": {
+        "en-US": "Letter 183. To Mother Mary of St. Joseph, Prioress of Seville, Toledo, June 28, 1577"
+      }
+    },
+    {
+      "id": "s186",
+      "title": {
+        "en-US": "Letter 184. To Mother Ana de San Alberto, Prioress of Carayaca, Toledo, July 2, 1577"
+      }
+    },
+    {
+      "id": "s187",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Mary of S. Joseph, Toledo, July 11, 1577"
+      }
+    },
+    {
+      "id": "s188",
+      "title": {
+        "en-US": "Letter (number unidentified). To Gaspar de Villanueva, Chaplain to the Nuns at Malagon, Toledo, during July, 1577"
+      }
+    },
+    {
+      "id": "s189",
+      "title": {
+        "en-US": "Letter 189. To Father Gracian, Malagon, Avila, about July, 1577"
+      }
+    },
+    {
+      "id": "s190",
+      "title": {
+        "en-US": "Letter (number unidentified). To the Community at Toledo, Segovia or Alba, August, 1577"
+      }
+    },
+    {
+      "id": "s191",
+      "title": {
+        "en-US": "Letter (number unidentified). To Sister Maria de Jesus (De Rivas), Avila, 1577 or before September 8, 1578"
+      }
+    },
+    {
+      "id": "s192",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Mary Baptist, Avila, about 1577"
+      }
+    },
+    {
+      "id": "s193",
+      "title": {
+        "en-US": "Letter 192. To Don Alvaro de Mendoza, Bishop of Avila, at Olmedo, Avila, August, 1577"
+      }
+    },
+    {
+      "id": "s194",
+      "title": {
+        "en-US": "Letter 194. To Don Alvaro de Mendoza, Bishop of Falencia, Olmedo, Avila, September 6, 1577"
+      }
+    },
+    {
+      "id": "s195",
+      "title": {
+        "en-US": "Letter 195. To Philip Ii. King of Spain, Avila, September 18, 1577"
+      }
+    },
+    {
+      "id": "s196",
+      "title": {
+        "en-US": "Letter 197. To Juan de Ovalle, Alba de Tormes, Avila, October 20, 1577"
+      }
+    },
+    {
+      "id": "s197",
+      "title": {
+        "en-US": "Letter (number unidentified). To Doña Guiomar Pardo, Daughter of Luisa de la Cerda, Avila, October 22, 1577"
+      }
+    },
+    {
+      "id": "s198",
+      "title": {
+        "en-US": "Letter 198. To Mother Mary of St. Joseph, Seville, Avila, the end of October, 1577"
+      }
+    },
+    {
+      "id": "s199",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Alonso de Aranda, Priest of Avila, Madrid, Avila, November 10, 1577"
+      }
+    },
+    {
+      "id": "s200",
+      "title": {
+        "en-US": "Letter 202. To Maria Hknriquez, Duchess of Alba, Avila, December 2, 1577"
+      }
+    },
+    {
+      "id": "s201",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Caspar de Salazar, Avila, December 7, 1577"
+      }
+    },
+    {
+      "id": "s202",
+      "title": {
+        "en-US": "Letter 206. To Juan de Ovalle, Avikj December 10, 1577"
+      }
+    },
+    {
+      "id": "s203",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Mary of St. Joseph, Avila, December 10, iSll-"
+      }
+    },
+    {
+      "id": "s204",
+      "title": {
+        "en-US": "Letter (number unidentified). To Dona Ines Nieto, Avila, after December 17, 1577"
+      }
+    },
+    {
+      "id": "s205",
+      "title": {
+        "en-US": "Letter 208. To Mother Mary of St. Joseph, Seville, Avila, December 19, 1577"
+      }
+    },
+    {
+      "id": "s206",
+      "title": {
+        "en-US": "Letter (number unidentified). To Roque de Huerta, Madrid, Avila. December 29, 1577"
+      }
+    },
+    {
+      "id": "s207",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, 1577 Date uncertain"
+      }
+    },
+    {
+      "id": "s208",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, Date uncertain, ill-"
+      }
+    },
+    {
+      "id": "s209",
+      "title": {
+        "en-US": "Letter (number unidentified). A CIRCULAR SENT TO THE PRIORESSES, Probably written in 1577"
+      }
+    },
+    {
+      "id": "s210",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, Date uncertain. 1577 "
+      }
+    },
+    {
+      "id": "s211",
+      "title": {
+        "en-US": "Letter 210. To Don Teutonio de Braganza, Arch- Bishop of Evora, Avila, January 16, 1578"
+      }
+    },
+    {
+      "id": "s212",
+      "title": {
+        "en-US": "Letter 212. To Father Juan Suarez, Provincial of the Company of Jesus, in Castile, Avila, February 10, 1578"
+      }
+    },
+    {
+      "id": "s213",
+      "title": {
+        "en-US": "Letter 213. To Father Gonzalo Davila, Rector of the Jesuits at Avila, Avila, about February 12, 1578"
+      }
+    },
+    {
+      "id": "s214",
+      "title": {
+        "en-US": "Letter 214. To Father Gracian, at Alcala Or Pastrana, Avila, February 16, 1578"
+      }
+    },
+    {
+      "id": "s215",
+      "title": {
+        "en-US": "Letter 216. To Father Gracian, Alcala de Henares, Avila, March 2, 1578"
+      }
+    },
+    {
+      "id": "s216",
+      "title": {
+        "en-US": "Letter 218. To Roque de Huerta, at Madrid, Avila, March 9, 1578"
+      }
+    },
+    {
+      "id": "s217",
+      "title": {
+        "en-US": "Letter 221. To Father Gracian, Avila, March 11, 1578"
+      }
+    },
+    {
+      "id": "s218",
+      "title": {
+        "en-US": "Letter (number unidentified). To A Relation of the Saint at Torrijos, Avila, Lent, 1578"
+      }
+    },
+    {
+      "id": "s219",
+      "title": {
+        "en-US": "Letter 222. To Dona Maria de Mendoza, Avila, March 26, 1578"
+      }
+    },
+    {
+      "id": "s220",
+      "title": {
+        "en-US": "Letter 217. To Mother Mary of St. Joseph, Prioress of Seville, Avila, March 28, 1578"
+      }
+    },
+    {
+      "id": "s221",
+      "title": {
+        "en-US": "Letter 224. To Father Gracian, Avila, April 15, 1578"
+      }
+    },
+    {
+      "id": "s222",
+      "title": {
+        "en-US": "Letter 226. To Father Gracian, Madrid, A Vila, April 17, 1578"
+      }
+    },
+    {
+      "id": "s223",
+      "title": {
+        "en-US": "Letter (number unidentified). To Dona Juan/V Dantisco', Avila, April 17, 1578"
+      }
+    },
+    {
+      "id": "s224",
+      "title": {
+        "en-US": "Letter 228. To Father Gracian, Madrid, Avila, April 26, 1578"
+      }
+    },
+    {
+      "id": "s225",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, at Madrid, Avila, April 26, 1577"
+      }
+    },
+    {
+      "id": "s226",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Ana de San Alberto Prioress of Caravaca, Avila, April 30, 1578"
+      }
+    },
+    {
+      "id": "s227",
+      "title": {
+        "en-US": "Letter 229. To Father Gracian, at Madrid, Avila, May 7, 1578"
+      }
+    },
+    {
+      "id": "s228",
+      "title": {
+        "en-US": "Letter 230. To Father Gracian, Avila, May 8, 1578"
+      }
+    },
+    {
+      "id": "s229",
+      "title": {
+        "en-US": "Letter 231. To Father Gracian, Avlla, May 14, 1578"
+      }
+    },
+    {
+      "id": "s230",
+      "title": {
+        "en-US": "Letter 232. To Father Gracian, Avila, May 22, 1578"
+      }
+    },
+    {
+      "id": "s231",
+      "title": {
+        "en-US": "Letter 234. To Father Gonzalo Davila, S.J, Avila, about June, 1578"
+      }
+    },
+    {
+      "id": "s232",
+      "title": {
+        "en-US": "Letter 233. To Mother Mary of St. Joseph, Prioress of Seville, Avila, June 4, 1578"
+      }
+    },
+    {
+      "id": "s233",
+      "title": {
+        "en-US": "Letter 236. To Fray Domingo Banez, Valladolid, Avila, July 28, 1578"
+      }
+    },
+    {
+      "id": "s234",
+      "title": {
+        "en-US": "Letter 239. To Father Gracian, Avila, the beginning of August, 1578"
+      }
+    },
+    {
+      "id": "s235",
+      "title": {
+        "en-US": "Letter 243. To Father Gracian, Avila, August, 1578"
+      }
+    },
+    {
+      "id": "s236",
+      "title": {
+        "en-US": "Letter 238. To Dona Juana de Ahumada, Avila, August 8, 1578"
+      }
+    },
+    {
+      "id": "s237",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, Valladolid, Avila, August 8 and 9, 1578"
+      }
+    },
+    {
+      "id": "s238",
+      "title": {
+        "en-US": "Letter (number unidentified). To An Unknown Person, Avila, about August 10, 1578"
+      }
+    },
+    {
+      "id": "s239",
+      "title": {
+        "en-US": "Letter (number unidentified). To An Unknown Person at Madrid, Avila, August, 1578"
+      }
+    },
+    {
+      "id": "s240",
+      "title": {
+        "en-US": "Letter 242. To Father Gracian, Madrid, Avlla, August 14, 1578"
+      }
+    },
+    {
+      "id": "s241",
+      "title": {
+        "en-US": "Letter (number unidentified). FRAGMENT OF A LETTER TO DON ROQUE DE HUERTA, Avila, August, 14-15, 1578"
+      }
+    },
+    {
+      "id": "s242",
+      "title": {
+        "en-US": "Letter 237. To Father Gracian, Madrid, Avila, August 24, 1578"
+      }
+    },
+    {
+      "id": "s243",
+      "title": {
+        "en-US": "Letter 245. To Father Gracian, at Madrid, Avila, early in August 1578"
+      }
+    },
+    {
+      "id": "s244",
+      "title": {
+        "en-US": "Letter 246. To Father Gracian, at Madrid, Avila, End of August, 1578"
+      }
+    },
+    {
+      "id": "s245",
+      "title": {
+        "en-US": "Letter 247. To Father Gracian, Madrid, Avikj the middle of September, 1578"
+      }
+    },
+    {
+      "id": "s246",
+      "title": {
+        "en-US": "Letter 250. To Father Gracian, Madrid, Avila, September 29, 1578"
+      }
+    },
+    {
+      "id": "s247",
+      "title": {
+        "en-US": "Letter (number unidentified). FRAGMENT OF A LETTER TO FATHER GRACIAN, Probably July, 1578"
+      }
+    },
+    {
+      "id": "s248",
+      "title": {
+        "en-US": "Letter 252. To Father Pablo Hernandez, S.J.. Madrid, A Vila, October 4, 1578"
+      }
+    },
+    {
+      "id": "s249",
+      "title": {
+        "en-US": "Letter 253. To Father Gracian, Madrid, Avila, October 15, 1578"
+      }
+    },
+    {
+      "id": "s250",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, Madrid, Avila, November 15, 1578"
+      }
+    },
+    {
+      "id": "s251",
+      "title": {
+        "en-US": "Letter (number unidentified). To Fray Mariano, Alcala de Henares, Avila, November, 1578"
+      }
+    },
+    {
+      "id": "s252",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Mariano, Madrid, Avik, November, 1578"
+      }
+    },
+    {
+      "id": "s253",
+      "title": {
+        "en-US": "Letter 258. To Roque de Huerta, Madrid, Avila, towards the end of December, 1578"
+      }
+    },
+    {
+      "id": "s254",
+      "title": {
+        "en-US": "Letter 260. To Roque de Huerta, Madrid, Avila, December 28, 1578"
+      }
+    },
+    {
+      "id": "s255",
+      "title": {
+        "en-US": "Letter 259. To Dona Juana Dantisco, Madrid, Avila, December 28, 1578"
+      }
+    },
+    {
+      "id": "s256",
+      "title": {
+        "en-US": "Letter (number unidentified). To the Ven. Anne of Jesus and Her, Avila, towards the end of December, 1578"
+      }
+    },
+    {
+      "id": "s257",
+      "title": {
+        "en-US": "Letter (number unidentified). To the Ven. Anne of Jesus, Prioress of Veas, Avila, towards the end of December, 1578"
+      }
+    },
+    {
+      "id": "s258",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Anne of St. Albert Prioress of Caravaca, Avila, towards the end of December, 1578"
+      }
+    },
+    {
+      "id": "s259",
+      "title": {
+        "en-US": "Letter (number unidentified). To the Same"
+      }
+    },
+    {
+      "id": "s260",
+      "title": {
+        "en-US": "Letter (number unidentified). To the Ven. Anne of Jesus, Prioress of Veas, Avila, towards the end of December, 1578"
+      }
+    },
+    {
+      "id": "s261",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Mary of St. Joseph, Prioress of Seville, A Vila, during the year 1578"
+      }
+    },
+    {
+      "id": "s262",
+      "title": {
+        "en-US": "Letter (number unidentified). To Some Ladies Who Wished to Join the Discalced, Avila, the end of December, 1578"
+      }
+    },
+    {
+      "id": "s263",
+      "title": {
+        "en-US": "Letter (number unidentified). FRAGMENT OF A LETTER TO FATHER GRACIAN, Avila, either the beginning of 1579 or end of 1578"
+      }
+    },
+    {
+      "id": "s264",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, Madrid, Avila, the end of December 1578"
+      }
+    },
+    {
+      "id": "s265",
+      "title": {
+        "en-US": "Letter (number unidentified). To A Carmelite Nun, 1579"
+      }
+    },
+    {
+      "id": "s266",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, Alcala, Avila, about January, 1579"
+      }
+    },
+    {
+      "id": "s267",
+      "title": {
+        "en-US": "Letter (number unidentified). To Don Fernando, Carthusian Prior, Avila, January 31, 1579"
+      }
+    },
+    {
+      "id": "s268",
+      "title": {
+        "en-US": "Letter (number unidentified). To the Nuns of Seville, Avila, January 31, 1579"
+      }
+    },
+    {
+      "id": "s269",
+      "title": {
+        "en-US": "Letter 265. To Dona Inks Nieto, Madrid, Avila, February 4, 1579"
+      }
+    },
+    {
+      "id": "s270",
+      "title": {
+        "en-US": "Letter 266. To Father Gracian, Madrid, Avila, February 20, 1579"
+      }
+    },
+    {
+      "id": "s271",
+      "title": {
+        "en-US": "Letter 267. To Roque de Huerta, Madrid, Avila, March 12, 1579"
+      }
+    },
+    {
+      "id": "s272",
+      "title": {
+        "en-US": "Letter (number unidentified). To Fray Mariano, Alcala, Avila, some time before March 25, 1579"
+      }
+    },
+    {
+      "id": "s273",
+      "title": {
+        "en-US": "Letter (number unidentified). To Fray Juan de Jesus, Valladolid, Avila, March 25, 1579"
+      }
+    },
+    {
+      "id": "s274",
+      "title": {
+        "en-US": "Letter 269. To Father Gracian, Avila, the beginning of April, 1579"
+      }
+    },
+    {
+      "id": "s275",
+      "title": {
+        "en-US": "Letter 270. To Father Gracian, Avila, April, 1579"
+      }
+    },
+    {
+      "id": "s276",
+      "title": {
+        "en-US": "Letter 271. To Father Gracian, Alcala Or Pastrana, Avila, April 21, 1579"
+      }
+    },
+    {
+      "id": "s277",
+      "title": {
+        "en-US": "Letter 273. To Roque de Huerta, Madrid, Avila, May 2, 1579"
+      }
+    },
+    {
+      "id": "s278",
+      "title": {
+        "en-US": "Letter 274. To Mother Isabel de San Jeronimo and Mother Mary of St. Joseph ', Avila, May 3, 1579"
+      }
+    },
+    {
+      "id": "s279",
+      "title": {
+        "en-US": "Letter 275. To the Mother Prioress and the Nuns of Valladolid, Avila, the end of May, 1579"
+      }
+    },
+    {
+      "id": "s280",
+      "title": {
+        "en-US": "Letter 277. To Mother Mary Baptist, Prioress of Valladolid, Avila, June 9, 1579"
+      }
+    },
+    {
+      "id": "s281",
+      "title": {
+        "en-US": "Letter 278. To Father Gracian, Avila, June 10, 1579"
+      }
+    },
+    {
+      "id": "s282",
+      "title": {
+        "en-US": "Letter 279. To Mother Ana de la Encarnacion, Prioress of Salamanca, Avila, June 18, 1579"
+      }
+    },
+    {
+      "id": "s283",
+      "title": {
+        "en-US": "Letter 276. To Mother Mary Baptist, Prioress of Valladolid, Avila, June 21, 1579"
+      }
+    },
+    {
+      "id": "s284",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Mary of St. Joseph, Seville, Avila, June 24, 1579"
+      }
+    },
+    {
+      "id": "s285",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Mary of St. Joseph, Date uncertain, 1579"
+      }
+    },
+    {
+      "id": "s286",
+      "title": {
+        "en-US": "Letter 282. To Father Gracian, Alcala, Valladolid, July 7, 1579"
+      }
+    },
+    {
+      "id": "s287",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, Alcala, Valladolid, July 18, 1579"
+      }
+    },
+    {
+      "id": "s288",
+      "title": {
+        "en-US": "Letter 284. To Mother Mary of St. Joseph, Valladolid, July 22, 1579"
+      }
+    },
+    {
+      "id": "s289",
+      "title": {
+        "en-US": "Letter 285. To Don Teutonic de Braganza, Archbishop of Evora, Valladolid, July 22, 1579"
+      }
+    },
+    {
+      "id": "s290",
+      "title": {
+        "en-US": "Letter 286. To Roque de Huerta, Madrid, Valladolid, July 25, 1579"
+      }
+    },
+    {
+      "id": "s291",
+      "title": {
+        "en-US": "Letter 287. To Father Gracian, Alcala, Valladolid, July 25, 1579"
+      }
+    },
+    {
+      "id": "s292",
+      "title": {
+        "en-US": "Letter 288. To Roque de Huerta, Madrid, Valladolid, July 26, 1579"
+      }
+    },
+    {
+      "id": "s293",
+      "title": {
+        "en-US": "Letter 289. To Don Lorenzo de Cepeda, Avila, Valladolid, July 27, 1579"
+      }
+    },
+    {
+      "id": "s294",
+      "title": {
+        "en-US": "Letter 290. To Father Gracian, Salamanca, October 4, 1579"
+      }
+    },
+    {
+      "id": "s295",
+      "title": {
+        "en-US": "Letter 291. To Dona Isabel Osorio, Madrid', Toledo, November 19, 1579"
+      }
+    },
+    {
+      "id": "s296",
+      "title": {
+        "en-US": "Letter 294. To Dona Isabel Osorio, Madrid, Malagon, December 3, 1579"
+      }
+    },
+    {
+      "id": "s297",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, Alcala, Malagon, after December 8, 1579"
+      }
+    },
+    {
+      "id": "s298",
+      "title": {
+        "en-US": "Letter 297. To Father Gracian, Alcala, Malagon, December 15, 1579"
+      }
+    },
+    {
+      "id": "s299",
+      "title": {
+        "en-US": "Letter 299. To Father Gracian, Alcala, Malagon, December 18, 1579"
+      }
+    },
+    {
+      "id": "s300",
+      "title": {
+        "en-US": "Letter 298. To Father Doria, Seville, Malagon, December 21, 1579"
+      }
+    },
+    {
+      "id": "s301",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, Malagon, towards the end of the year 1579"
+      }
+    },
+    {
+      "id": "s302",
+      "title": {
+        "en-US": "Letter (number unidentified). To An Unknown Person, Malagon, towards the end of 1579"
+      }
+    },
+    {
+      "id": "s303",
+      "title": {
+        "en-US": "Letter (number unidentified). To An Unknown Person, Date uncertain 1579"
+      }
+    },
+    {
+      "id": "s304",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, i579.?>"
+      }
+    },
+    {
+      "id": "s305",
+      "title": {
+        "en-US": "Letter 302. To Mother Mary of St. Joseph, Malagon, before the middle of January, 1580"
+      }
+    },
+    {
+      "id": "s306",
+      "title": {
+        "en-US": "Letter (number unidentified). To the Prioress and Nuns at Seville, Malagon, January, 1580"
+      }
+    },
+    {
+      "id": "s307",
+      "title": {
+        "en-US": "Letter 304. To Father Doria, Seville, Makgon, January 13, 1580"
+      }
+    },
+    {
+      "id": "s308",
+      "title": {
+        "en-US": "Letter 305. To Father Gracian, Malagon, January 14, 1580"
+      }
+    },
+    {
+      "id": "s309",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, Alcala, Malagon, January 15, 1580"
+      }
+    },
+    {
+      "id": "s310",
+      "title": {
+        "en-US": "Letter 308. To the Venerable Maria de Jesus,', Malagon, beginning of February 1580"
+      }
+    },
+    {
+      "id": "s311",
+      "title": {
+        "en-US": "Letter 309. To Mother Mary of St. Joseph, Prioress of Seville, Malagon, February i, 1580"
+      }
+    },
+    {
+      "id": "s312",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Mary of St. Joseph, Prioress of Seville, Malagon, February 9, 1580"
+      }
+    },
+    {
+      "id": "s313",
+      "title": {
+        "en-US": "Letter 310. To Don Lorenzo de Cepeda, la Serna, About February 10, 1580"
+      }
+    },
+    {
+      "id": "s314",
+      "title": {
+        "en-US": "Letter 312. To Dona Juana de Ahumada, Alba, Malagon, probably about February 12, 1580"
+      }
+    },
+    {
+      "id": "s315",
+      "title": {
+        "en-US": "Letter 313. To Father Gracian, Madrid, Malagon, February 12, 1580"
+      }
+    },
+    {
+      "id": "s316",
+      "title": {
+        "en-US": "Letter 311. To Father Gracian, Toledo, about the middle of February, 1580"
+      }
+    },
+    {
+      "id": "s317",
+      "title": {
+        "en-US": "Letter 314. To Mother Mary of St. Joseph, Eprioress of Seville, Toledo, April 3, 1580"
+      }
+    },
+    {
+      "id": "s318",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Mary of S. Joseph, \"See letter of Feb. 9, 1580"
+      }
+    },
+    {
+      "id": "s319",
+      "title": {
+        "en-US": "Letter 315. To Dona Isabel Osorio, Madrid, Toledo, April 8, 1580"
+      }
+    },
+    {
+      "id": "s320",
+      "title": {
+        "en-US": "Letter 316. To Don Lorenzo de Cepeda, la Serna, Near Avila, Toledo, April 10, 1580"
+      }
+    },
+    {
+      "id": "s321",
+      "title": {
+        "en-US": "Letter (number unidentified). To Don Lorenzo de Cepeda, la Serna, Toledo, April 15, 1580"
+      }
+    },
+    {
+      "id": "s322",
+      "title": {
+        "en-US": "Letter 318. To Mother Maria de Cristo, Toledo, April 16, 1580"
+      }
+    },
+    {
+      "id": "s323",
+      "title": {
+        "en-US": "Letter 319. To Father Gracian, Alcala, Toledo, May 5, 1580"
+      }
+    },
+    {
+      "id": "s324",
+      "title": {
+        "en-US": "Letter 320. To Pedro Juan de Casademonte, Medina, Toledo, May 6, 1580"
+      }
+    },
+    {
+      "id": "s325",
+      "title": {
+        "en-US": "Letter 321. To Dona Maria Henriquez, Duchess of Alba, Toledo, May 8, 1580"
+      }
+    },
+    {
+      "id": "s326",
+      "title": {
+        "en-US": "Letter 322. To Father Gracian, Toledo, May 30, 1580"
+      }
+    },
+    {
+      "id": "s327",
+      "title": {
+        "en-US": "Letter 323. To Father Gracian, Madrid, Toledo, June 3, 1580"
+      }
+    },
+    {
+      "id": "s328",
+      "title": {
+        "en-US": "Letter 324. To Don Lorenzo de Cepeda, la Serna, t Segovia, June 15, 1580"
+      }
+    },
+    {
+      "id": "s329",
+      "title": {
+        "en-US": "Letter 325. To Don Lorenzo, la Serna, Segovia, June 19, 1580"
+      }
+    },
+    {
+      "id": "s330",
+      "title": {
+        "en-US": "Letter 326. To Mother Mary of St. Joseph, Seville, Segovia, July 4, 1580"
+      }
+    },
+    {
+      "id": "s331",
+      "title": {
+        "en-US": "Letter (number unidentified). To An Unknown Lady, Medina del Campo, August 5, 1580"
+      }
+    },
+    {
+      "id": "s332",
+      "title": {
+        "en-US": "Letter 328. To Mother Mary of St. Joseph, Prioress of Seville, Medina del Campo, August 6, 1580"
+      }
+    },
+    {
+      "id": "s333",
+      "title": {
+        "en-US": "Letter (number unidentified). To Sister Teresa de Jesus, Lorenzo’s Daughter, Medina del Campo, August 7, 1570"
+      }
+    },
+    {
+      "id": "s334",
+      "title": {
+        "en-US": "Letter (number unidentified). To A Confessor of the Nuns, Medina del Campo, August, 1580"
+      }
+    },
+    {
+      "id": "s335",
+      "title": {
+        "en-US": "Letter 330. To Dona Juana de Ahumada, Alba:, Valladolid, August 9, 1580"
+      }
+    },
+    {
+      "id": "s336",
+      "title": {
+        "en-US": "Letter (number unidentified). To Don Diego de Mendoza?, Valladolid, August 21, 1 580"
+      }
+    },
+    {
+      "id": "s337",
+      "title": {
+        "en-US": "Letter 332. To Don Roque de Huerta Or Some Other Friend, Valladolid, September 8, 1580"
+      }
+    },
+    {
+      "id": "s338",
+      "title": {
+        "en-US": "Letter (number unidentified). To Dona Ines Nieto, Madrid, Valladolid, September 17, 1580"
+      }
+    },
+    {
+      "id": "s339",
+      "title": {
+        "en-US": "Letter 333. To Father Gracian, Avila Z, Valladolid, October 4, 1580"
+      }
+    },
+    {
+      "id": "s340",
+      "title": {
+        "en-US": "Letter 334. To the Community of St. Joseph’s Avila, Valladolid, October 7, 1580"
+      }
+    },
+    {
+      "id": "s341",
+      "title": {
+        "en-US": "Letter 336. To Mother Mary of St. Joseph, Prioress of Seville, Valladolid, October 25, 1580"
+      }
+    },
+    {
+      "id": "s342",
+      "title": {
+        "en-US": "Letter 337. To Father Gracian, Seville, Valladolid, November 20, 1580"
+      }
+    },
+    {
+      "id": "s343",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, See letter to Father Gracian the end of 1575, note 11"
+      }
+    },
+    {
+      "id": "s344",
+      "title": {
+        "en-US": "Letter 338. To Mother Mary of St. Joseph, Seville, Valladolid, November 21, 1580"
+      }
+    },
+    {
+      "id": "s345",
+      "title": {
+        "en-US": "Letter 339. To Mother Ana de la Encarnacion, Prioress of Salamanca, Valladolid, beginning of December, 1580"
+      }
+    },
+    {
+      "id": "s346",
+      "title": {
+        "en-US": "Letter 342. To Lorenzo de Cepeda, St. Teresa’s Nephew in Peru, Valladolid, December 27, 1580"
+      }
+    },
+    {
+      "id": "s347",
+      "title": {
+        "en-US": "Letter 343. To Mother Mary of St. Joseph, Prioress of Seville, Valladolid, December 28, 1580"
+      }
+    },
+    {
+      "id": "s348",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, Valladolid, towards the end of 1 580.\""
+      }
+    },
+    {
+      "id": "s349",
+      "title": {
+        "en-US": "Letter (number unidentified). To A Confessor of the Nuns, Date and address unknown."
+      }
+    },
+    {
+      "id": "s350",
+      "title": {
+        "en-US": "Letter (number unidentified)., Towards the end of 1 580"
+      }
+    },
+    {
+      "id": "s351",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Mary Baptist, Prioress of Valladolid, Date and address uncertain."
+      }
+    },
+    {
+      "id": "s352",
+      "title": {
+        "en-US": "Letter (number unidentified). To Dona Juana Dantisco, Mother of Father Gracian, Palencia, towards the beginning of 1581"
+      }
+    },
+    {
+      "id": "s353",
+      "title": {
+        "en-US": "Letter (number unidentified). To An Unknown Lady, Palencia, the beginning of January, 1581"
+      }
+    },
+    {
+      "id": "s354",
+      "title": {
+        "en-US": "Letter 348. To Mother Ana de la Encarnacion, Prioress of Salamanca, Palencia, the beginning of January, 1581"
+      }
+    },
+    {
+      "id": "s355",
+      "title": {
+        "en-US": "Letter 344. To Fray Juan de Jesus Roca, Pastrana’, Palencia, January 4, 1581"
+      }
+    },
+    {
+      "id": "s356",
+      "title": {
+        "en-US": "Letter 346. To Mary of St. Joseph, Seville, Palencia, January 6, 1581"
+      }
+    },
+    {
+      "id": "s357",
+      "title": {
+        "en-US": "Letter 347. To Dona Juana de Ahumada, Alba, Palencia, January 13, 1581"
+      }
+    },
+    {
+      "id": "s358",
+      "title": {
+        "en-US": "Letter (number unidentified). To Don Jeronimo Reynoso, Canon of Palencia, Palencia, the end of January, 1581"
+      }
+    },
+    {
+      "id": "s359",
+      "title": {
+        "en-US": "Letter 349. To Father Gracian, Alcala, Palencia, February 17, 1581"
+      }
+    },
+    {
+      "id": "s360",
+      "title": {
+        "en-US": "Letter 351. To Father Gracian, Alcala, Palencia, February 21, 1581"
+      }
+    },
+    {
+      "id": "s361",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, from the Papal Nuncio (1 588)"
+      }
+    },
+    {
+      "id": "s362",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, Alcala, Palencia, February 27, 1581"
+      }
+    },
+    {
+      "id": "s363",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, Alcala, Palencia, February, 1581"
+      }
+    },
+    {
+      "id": "s364",
+      "title": {
+        "en-US": "Letter 350. To Father Gracian, Alcala, Palencia, February, 1581"
+      }
+    },
+    {
+      "id": "s365",
+      "title": {
+        "en-US": "Letter (number unidentified). To Pedro Juan de Casademonte’, Madrid, Palencia, the end of February, 1581"
+      }
+    },
+    {
+      "id": "s366",
+      "title": {
+        "en-US": "Letter 354. To the Most Illustrious Senora Dona Ana Henriquez, Valladolid, Palencia, March 4, 1581"
+      }
+    },
+    {
+      "id": "s367",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, Alcala, Palencia, March 12, 1581"
+      }
+    },
+    {
+      "id": "s368",
+      "title": {
+        "en-US": "Letter (number unidentified). To Don Alphonsus Velasquez, Bishop of Osma, Palencia, March 21, 1581"
+      }
+    },
+    {
+      "id": "s369",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, Madrid, Palencia, March 23 and 24,05 R8E0"
+      }
+    },
+    {
+      "id": "s370",
+      "title": {
+        "en-US": "Letter (number unidentified). To Mother Mary of St. Joseph, Prioress of Seville, end of May, 1581"
+      }
+    },
+    {
+      "id": "s371",
+      "title": {
+        "en-US": "Letter 360. To Father Gracian, Castile, Palencia, March or April of 1581 1"
+      }
+    },
+    {
+      "id": "s372",
+      "title": {
+        "en-US": "Letter 362. To Antonio Gaitan, Alba de Tormes, March 28, 1581"
+      }
+    },
+    {
+      "id": "s373",
+      "title": {
+        "en-US": "Letter (number unidentified). PROBABLY TO CANON REYNOSO The choice of a house for the foundation at, Palencia, April 24, 1581"
+      }
+    },
+    {
+      "id": "s374",
+      "title": {
+        "en-US": "Letter (number unidentified). To Don Alonso Velasquez, Bishop of Osma, and Former Confessor of the Saint, Palencia, May, 1581"
+      }
+    },
+    {
+      "id": "s375",
+      "title": {
+        "en-US": "Letter 365. To the Ven. Mother Ana de San Augustin, Foundress of the Convent of Villanueva de la Xara, Palencia, May 22, 1581"
+      }
+    },
+    {
+      "id": "s376",
+      "title": {
+        "en-US": "Letter 366. To Father Gracian, Valladolid, Palencia, May 24, 1581"
+      }
+    },
+    {
+      "id": "s377",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, Valladolid, Palencia, May 29, 1591"
+      }
+    },
+    {
+      "id": "s378",
+      "title": {
+        "en-US": "Letter (number unidentified). To Don Alonso Velasquez, Bishop of Osma, Palencia, May, 1581"
+      }
+    },
+    {
+      "id": "s379",
+      "title": {
+        "en-US": "Letter (number unidentified). Prefatory note, Soria, June 16, 1581"
+      }
+    },
+    {
+      "id": "s380",
+      "title": {
+        "en-US": "Letter (number unidentified). FRAGMENT OF A LETTER TO MOTHER MARY OF ST, Soria, June 16, 1581"
+      }
+    },
+    {
+      "id": "s381",
+      "title": {
+        "en-US": "Letter 371. To Father Gracian, Salamanca?, Soria, June 27, 1581"
+      }
+    },
+    {
+      "id": "s382",
+      "title": {
+        "en-US": "Letter 372. To the Licentiate Ruiz de la Pena, Royal Chaplain, and Almoner, Also Confessor to Cardinal Quiroga, Soria, June 30, 1581"
+      }
+    },
+    {
+      "id": "s383",
+      "title": {
+        "en-US": "Letter 374. To Don Jerome Reynoso, Canon of Palencia I, Soria, July 13, 1581"
+      }
+    },
+    {
+      "id": "s384",
+      "title": {
+        "en-US": "Letter 375. To Father Gracian, Valladolid, Soria, July 14, 1581"
+      }
+    },
+    {
+      "id": "s385",
+      "title": {
+        "en-US": "Letter (number unidentified). FRAGMENT OF A LETTER TO AN UNKNOWN PERSON, Written in 1581 or 1582"
+      }
+    },
+    {
+      "id": "s386",
+      "title": {
+        "en-US": "Letter (number unidentified). To the Mother Prioress and Nuns of the Convent of the Most Blessed Trinity, Soria, Soria, August, 1581"
+      }
+    },
+    {
+      "id": "s387",
+      "title": {
+        "en-US": "Letter 376. To Dona Juana de Ahumada, Alba de Tormes, Segovia, August 26, 1581"
+      }
+    },
+    {
+      "id": "s388",
+      "title": {
+        "en-US": "Letter 377. To Mother Mary of St. Joseph, Prioress of Seville, Villacastin, Sept. 5. 1581"
+      }
+    },
+    {
+      "id": "s389",
+      "title": {
+        "en-US": "Letter 378. To Don Jerome Reynoso, Canon of Palencia, Avila, Sept. 9, 1581"
+      }
+    },
+    {
+      "id": "s390",
+      "title": {
+        "en-US": "Letter (number unidentified). PoslithehieENTTATE DON LUIS DE LA PENA, Avila, September 13, 1581"
+      }
+    },
+    {
+      "id": "s391",
+      "title": {
+        "en-US": "Letter (number unidentified)., Avila, September 17, 1581"
+      }
+    },
+    {
+      "id": "s392",
+      "title": {
+        "en-US": "Letter 381. To Don Sancho Davila, Alba?, Avila, October 9, 1581"
+      }
+    },
+    {
+      "id": "s393",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, Salamanca Or Its. Suburbs, Avila, October 26, 1581"
+      }
+    },
+    {
+      "id": "s394",
+      "title": {
+        "en-US": "Letter 383. To Cardinal Don Gaspar de Quiroga, Archbishop of Toledo, Avila, October 30, 1581"
+      }
+    },
+    {
+      "id": "s395",
+      "title": {
+        "en-US": "Letter 384. To Dona Maria Henriquez, Duchess of Alba, Avila, the beginning of November, 1581"
+      }
+    },
+    {
+      "id": "s396",
+      "title": {
+        "en-US": "Letter 385. To Mother Mary of St. Joseph, Prioress of Seville, Avila, November 8, 1581"
+      }
+    },
+    {
+      "id": "s397",
+      "title": {
+        "en-US": "Letter 386. To the Licentiate Martin Alonso de Salinas, Canon of Palencia, Avila, November 13 1581"
+      }
+    },
+    {
+      "id": "s398",
+      "title": {
+        "en-US": "Letter 387. To Juan de Ovalle, the Saint’s Brother-In-Law, Alba de Tormes, Avila, November 14, 1581"
+      }
+    },
+    {
+      "id": "s399",
+      "title": {
+        "en-US": "Letter 390. To Don Pedro de Castro, Canon of Avila, Avila, November 28, 1581"
+      }
+    },
+    {
+      "id": "s400",
+      "title": {
+        "en-US": "Letter 391. To Mother Mary of St. Joseph, Prioress of Seville, Avila, November 28, 1581"
+      }
+    },
+    {
+      "id": "s401",
+      "title": {
+        "en-US": "Letter 392. To Juan de Ovalle, the Saint’s Brother-In-Law, Avila, November 29, 1581"
+      }
+    },
+    {
+      "id": "s402",
+      "title": {
+        "en-US": "Letter 393. To Father Gracian, Salamanca, Avila, November 30, 1581"
+      }
+    },
+    {
+      "id": "s403",
+      "title": {
+        "en-US": "Letter 394. To Father Gracian, Salamanca, Avila, December 1 1581"
+      }
+    },
+    {
+      "id": "s404",
+      "title": {
+        "en-US": "Letter 396. To Dona Beatriz de Mendoza y Castilla, Mother-In-Law of Don Francisco. Madrid, Avila, about December 4, 1581"
+      }
+    },
+    {
+      "id": "s405",
+      "title": {
+        "en-US": "Letter 397. To Father Gracian, Salamanca, Avila, December, 1581"
+      }
+    },
+    {
+      "id": "s406",
+      "title": {
+        "en-US": "Letter 398. To Lorenzo de Cepeda, St. Teresa’s Nephew, Peru, Avila, December 15, 1581"
+      }
+    },
+    {
+      "id": "s407",
+      "title": {
+        "en-US": "Letter 400. To Mother Catalina de Cristo, Prioress of Soria, and Her Nuns, Avila, December 28, 1581"
+      }
+    },
+    {
+      "id": "s408",
+      "title": {
+        "en-US": "Letter (number unidentified). To A Nun of Another Order Who Wished to Become A Discalded Carmelite, Written in 1581 after the Chapter of Alcala"
+      }
+    },
+    {
+      "id": "s409",
+      "title": {
+        "en-US": "Letter 403. To Leonor de la Misericordia, Novice at Soria?, Valladolid or Palencia, between Jan. 12 and 26, 1582"
+      }
+    },
+    {
+      "id": "s410",
+      "title": {
+        "en-US": "Letter (number unidentified). To Catalina de Tolosa, Foundress of the Convent at Burgos, Palencia, January 16, 1582"
+      }
+    },
+    {
+      "id": "s411",
+      "title": {
+        "en-US": "Letter 405. To the Saint's Niece, Beatriz de Ahumada, Palencia or Burgos, January, 1582"
+      }
+    },
+    {
+      "id": "s412",
+      "title": {
+        "en-US": "Letter 406. To Mother Mary of St. Joseph, Prioress of Seville, Burgos, February 6, 1582"
+      }
+    },
+    {
+      "id": "s413",
+      "title": {
+        "en-US": "Letter 407. To the Licentiate Martin Alonso de Salinas, Canon of Palencia?, Hospital of la Concepcion, Burgos, March 1, 1582"
+      }
+    },
+    {
+      "id": "s414",
+      "title": {
+        "en-US": "Letter 410. To Sisters Maria de San Jose and Isabel de la Trinidad, Burgos, about March 10, 1582"
+      }
+    },
+    {
+      "id": "s415",
+      "title": {
+        "en-US": "Letter 411. To Fray Mariano, Alcala, Burgos, March 18, 1582"
+      }
+    },
+    {
+      "id": "s416",
+      "title": {
+        "en-US": "Letter (number unidentified). To Dona Maria Vela,’ Avila, Burgos, the end of March, 1582"
+      }
+    },
+    {
+      "id": "s417",
+      "title": {
+        "en-US": "Letter 412. To Don Alvaro de Mendoza, Bishop of Palencia, Burgos, April 13, 1582"
+      }
+    },
+    {
+      "id": "s418",
+      "title": {
+        "en-US": "Letter (number unidentified). To the Duke de Huescar, Burgos, April 18, 1582"
+      }
+    },
+    {
+      "id": "s419",
+      "title": {
+        "en-US": "Letter 414. To the Prioress of Toledo, Burgos, April 23, 1582"
+      }
+    },
+    {
+      "id": "s420",
+      "title": {
+        "en-US": "Letter (number unidentified). To Don Juan de Orduna, Avila?, Burgos, May 3, 1582"
+      }
+    },
+    {
+      "id": "s421",
+      "title": {
+        "en-US": "Letter (number unidentified). To Don Pedro Manso,Canon of Burgos, Afterwards Bishop of Calahorra?, Burgos, May 4, 1582"
+      }
+    },
+    {
+      "id": "s422",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Doria, Burgos, some time after May 4, 1582"
+      }
+    },
+    {
+      "id": "s423",
+      "title": {
+        "en-US": "Letter (number unidentified). To Leonor de la Misericordia, Novice at Soria, Burgos, May, 1582"
+      }
+    },
+    {
+      "id": "s424",
+      "title": {
+        "en-US": "Letter 418. To Pedro Juan de Casademonte, Burgos, May 14, 1582"
+      }
+    },
+    {
+      "id": "s425",
+      "title": {
+        "en-US": "Letter 419. To An Unknown Person at Madrid, Burgos, May 18, 1582"
+      }
+    },
+    {
+      "id": "s426",
+      "title": {
+        "en-US": "Letter (number unidentified). To Canon Jeronimo Reynoso, Burgos, May 20, 1582"
+      }
+    },
+    {
+      "id": "s427",
+      "title": {
+        "en-US": "Letter 421. To the Venerable Anne of Jesus and Her Community, Granada, Burgos, May 30, 1582"
+      }
+    },
+    {
+      "id": "s428",
+      "title": {
+        "en-US": "Letter (number unidentified). To Canon Montoya, Rome, Burgos, May, 1582"
+      }
+    },
+    {
+      "id": "s429",
+      "title": {
+        "en-US": "Letter 422. To Don Ruiz de la Pena, Confessor of Cardinal Quiroga, Burgos, June 4, 1582"
+      }
+    },
+    {
+      "id": "s430",
+      "title": {
+        "en-US": "Letter 423. To Father Gracian, Burgos, June 25, 1582"
+      }
+    },
+    {
+      "id": "s431",
+      "title": {
+        "en-US": "Letter 424. To Mother Mary of St. Joseph Prioress of Seville, Burgos, July 6, 1582"
+      }
+    },
+    {
+      "id": "s432",
+      "title": {
+        "en-US": "Letter 425. To Sister Leonor de la Misericordia, Burgos, July 7, 1582"
+      }
+    },
+    {
+      "id": "s433",
+      "title": {
+        "en-US": "Letter 427. To Mother Tomasina Bautista, Prioress of Burgos, Palencia, August 3, 1582"
+      }
+    },
+    {
+      "id": "s434",
+      "title": {
+        "en-US": "Letter (number unidentified). To Dona Catalina de Tolosa, Probably written at Palencia, August 3, 1582"
+      }
+    },
+    {
+      "id": "s435",
+      "title": {
+        "en-US": "Letter 429. To Dona Teresa de Laiz, Foundress of the Convent of Alba, Palencia, August 6, 1582"
+      }
+    },
+    {
+      "id": "s436",
+      "title": {
+        "en-US": "Letter 431. To Don Sancho Davila, Palencia, August 12, 1582"
+      }
+    },
+    {
+      "id": "s437",
+      "title": {
+        "en-US": "Letter 432. To Mother Ana de los Angeles, Prioress of Toledo, Valladolid, August 26, 1582"
+      }
+    },
+    {
+      "id": "s438",
+      "title": {
+        "en-US": "Letter 433. To Mother Tomasina Bautista, Prioress of Burgos, Valladolid, August 27, 1582"
+      }
+    },
+    {
+      "id": "s439",
+      "title": {
+        "en-US": "Letter (number unidentified). To Father Gracian, Seville, Valladolid, September 1, 1582"
+      }
+    },
+    {
+      "id": "s440",
+      "title": {
+        "en-US": "Letter 434. To Father Gracian, Seville, Valladolid, September 1, 1582"
+      }
+    },
+    {
+      "id": "s441",
+      "title": {
+        "en-US": "Letter 435. To Ana de los Angeles, Prioress of Toledo, Valladolid, September 2, 1582"
+      }
+    },
+    {
+      "id": "s442",
+      "title": {
+        "en-US": "Letter 436. To Father Pedro Sancho, Alba, Valladolid, September 5, 1582"
+      }
+    },
+    {
+      "id": "s443",
+      "title": {
+        "en-US": "Letter 437. To Catalina de Cristo, Prioress of Soria, Valladolid and Medina, September 15, 16, 1582"
+      }
+    },
+    {
+      "id": "s444",
+      "title": {
+        "en-US": "Letter (number unidentified). To Senor Alonso Venigrilla, Convent of the Incarnation, Avila, January 10, 1546"
+      }
+    },
+    {
+      "id": "s445",
+      "title": {
+        "en-US": "Letter (number unidentified). To Dona Juana Lobera, Avila Or Medina del Campo?, Toledo, May 28, 1569"
+      }
+    },
+    {
+      "id": "s446",
+      "title": {
+        "en-US": "Letter 75. To Dona Ines Nieto, Seville, June 19, 1575"
+      }
+    },
+    {
+      "id": "s447",
+      "title": {
+        "en-US": "Letter 187. To Roque de Huerta, Toledo July 14, 1577"
+      }
+    },
+    {
+      "id": "s448",
+      "title": {
+        "en-US": "Letter (number unidentified). To An Unknown Person, Probably written at Toledo in July or August, 1577"
+      }
+    }
+  ]
+}
