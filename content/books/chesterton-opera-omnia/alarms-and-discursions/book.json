@@ -1,0 +1,273 @@
+{
+  "id": "chesterton-alarms-and-discursions",
+  "cover": "classic",
+  "name": {
+    "en-US": "Alarms and Discursions",
+    "pt-BR": "Alarmes e Digressões"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Essays from the Daily News and elsewhere, from the opening plea for gargoyles to the surrender of a Cockney, the philosophy of sight-seeing, the glory of grey, Glastonbury, the long bow, the anarchist, the donkey and the wheel.",
+    "pt-BR": "Ensaios do Daily News e de outros periódicos, da defesa inicial das gárgulas à rendição de um londrino, à filosofia do turismo, à glória do cinzento, a Glastonbury, ao arco longo, ao anarquista, ao burro e à roda."
+  },
+  "composed": "1910",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/alarms-and-discursions",
+  "editions": {
+    "en-US": {
+      "editor": "Methuen & Co.",
+      "year": 1910
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/9656",
+      "edition": "Alarms and Discursions (Methuen & Co., 1910), Project Gutenberg #9656.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1910 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-introductory-on-gargoyles",
+      "title": {
+        "en-US": "Introductory: On Gargoyles"
+      }
+    },
+    {
+      "id": "ch02-the-surrender-of-a-cockney",
+      "title": {
+        "en-US": "The Surrender of a Cockney"
+      }
+    },
+    {
+      "id": "ch03-the-nightmare",
+      "title": {
+        "en-US": "The Nightmare"
+      }
+    },
+    {
+      "id": "ch04-the-telegraph-poles",
+      "title": {
+        "en-US": "The Telegraph Poles"
+      }
+    },
+    {
+      "id": "ch05-a-drama-of-dolls",
+      "title": {
+        "en-US": "A Drama of Dolls"
+      }
+    },
+    {
+      "id": "ch06-the-man-and-his-newspaper",
+      "title": {
+        "en-US": "The Man and His Newspaper"
+      }
+    },
+    {
+      "id": "ch07-the-appetite-of-earth",
+      "title": {
+        "en-US": "The Appetite of Earth"
+      }
+    },
+    {
+      "id": "ch08-simmons-and-the-social-tie",
+      "title": {
+        "en-US": "Simmons and the Social Tie"
+      }
+    },
+    {
+      "id": "ch09-cheese",
+      "title": {
+        "en-US": "Cheese"
+      }
+    },
+    {
+      "id": "ch10-the-red-town",
+      "title": {
+        "en-US": "The Red Town"
+      }
+    },
+    {
+      "id": "ch11-the-furrows",
+      "title": {
+        "en-US": "The Furrows"
+      }
+    },
+    {
+      "id": "ch12-the-philosophy-of-sight-seeing",
+      "title": {
+        "en-US": "The Philosophy of Sight-seeing"
+      }
+    },
+    {
+      "id": "ch13-a-criminal-head",
+      "title": {
+        "en-US": "A Criminal Head"
+      }
+    },
+    {
+      "id": "ch14-the-wrath-of-the-roses",
+      "title": {
+        "en-US": "The Wrath of the Roses"
+      }
+    },
+    {
+      "id": "ch15-the-gold-of-glastonbury",
+      "title": {
+        "en-US": "The Gold of Glastonbury"
+      }
+    },
+    {
+      "id": "ch16-the-futurists",
+      "title": {
+        "en-US": "The Futurists"
+      }
+    },
+    {
+      "id": "ch17-dukes",
+      "title": {
+        "en-US": "Dukes"
+      }
+    },
+    {
+      "id": "ch18-the-glory-of-grey",
+      "title": {
+        "en-US": "The Glory of Grey"
+      }
+    },
+    {
+      "id": "ch19-the-anarchist",
+      "title": {
+        "en-US": "The Anarchist"
+      }
+    },
+    {
+      "id": "ch20-how-i-found-the-superman",
+      "title": {
+        "en-US": "How I found the Superman"
+      }
+    },
+    {
+      "id": "ch21-the-new-house",
+      "title": {
+        "en-US": "The New House"
+      }
+    },
+    {
+      "id": "ch22-the-wings-of-stone",
+      "title": {
+        "en-US": "The Wings of Stone"
+      }
+    },
+    {
+      "id": "ch23-the-three-kinds-of-men",
+      "title": {
+        "en-US": "The Three Kinds of Men"
+      }
+    },
+    {
+      "id": "ch24-the-steward-of-the-chiltern-hundreds",
+      "title": {
+        "en-US": "The Steward of the Chiltern Hundreds"
+      }
+    },
+    {
+      "id": "ch25-the-field-of-blood",
+      "title": {
+        "en-US": "The Field of Blood"
+      }
+    },
+    {
+      "id": "ch26-the-strangeness-of-luxury",
+      "title": {
+        "en-US": "The Strangeness of Luxury"
+      }
+    },
+    {
+      "id": "ch27-the-triumph-of-the-donkey",
+      "title": {
+        "en-US": "The Triumph of the Donkey"
+      }
+    },
+    {
+      "id": "ch28-the-wheel",
+      "title": {
+        "en-US": "The Wheel"
+      }
+    },
+    {
+      "id": "ch29-five-hundred-and-fifty-five",
+      "title": {
+        "en-US": "Five Hundred and Fifty-five"
+      }
+    },
+    {
+      "id": "ch30-ethandune",
+      "title": {
+        "en-US": "Ethandune"
+      }
+    },
+    {
+      "id": "ch31-the-flat-freak",
+      "title": {
+        "en-US": "The Flat Freak"
+      }
+    },
+    {
+      "id": "ch32-the-garden-of-the-sea",
+      "title": {
+        "en-US": "The Garden of the Sea"
+      }
+    },
+    {
+      "id": "ch33-the-sentimentalist",
+      "title": {
+        "en-US": "The Sentimentalist"
+      }
+    },
+    {
+      "id": "ch34-the-white-horses",
+      "title": {
+        "en-US": "The White Horses"
+      }
+    },
+    {
+      "id": "ch35-the-long-bow",
+      "title": {
+        "en-US": "The Long Bow"
+      }
+    },
+    {
+      "id": "ch36-the-modern-scrooge",
+      "title": {
+        "en-US": "The Modern Scrooge"
+      }
+    },
+    {
+      "id": "ch37-the-high-plains",
+      "title": {
+        "en-US": "The High Plains"
+      }
+    },
+    {
+      "id": "ch38-the-chorus",
+      "title": {
+        "en-US": "The Chorus"
+      }
+    },
+    {
+      "id": "ch39-a-romance-of-the-marshes",
+      "title": {
+        "en-US": "A Romance of the Marshes"
+      }
+    }
+  ]
+}
