@@ -1,0 +1,99 @@
+{
+  "id": "chesterton-crimes-of-england",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Crimes of England",
+    "pt-BR": "Os Crimes da Inglaterra"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "A series of open letters to a German professor, written in the first months of the First World War, in which Chesterton replies to the charge that England was the real aggressor and sets out what England has and has not done wrong: its aristocratic capitalism, its treatment of Ireland, its slums.",
+    "pt-BR": "Uma série de cartas abertas a um professor alemão, escritas nos primeiros meses da Primeira Guerra Mundial, nas quais Chesterton responde à acusação de que a Inglaterra era a verdadeira agressora e expõe o que ela fez e não fez de errado: seu capitalismo aristocrático, seu trato com a Irlanda, seus cortiços."
+  },
+  "composed": "1915",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/crimes-of-england",
+  "editions": {
+    "en-US": {
+      "editor": "Cecil Palmer and Hayward",
+      "year": 1915
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/11554",
+      "edition": "The Crimes of England (Cecil Palmer and Hayward, 1915), Project Gutenberg #11554.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1915 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-some-words-to-professor-whirlwind",
+      "title": {
+        "en-US": "I. Some Words to Professor Whirlwind"
+      }
+    },
+    {
+      "id": "ch02-the-protestant-hero",
+      "title": {
+        "en-US": "II. The Protestant Hero"
+      }
+    },
+    {
+      "id": "ch03-the-enigma-of-waterloo",
+      "title": {
+        "en-US": "III. The Enigma of Waterloo"
+      }
+    },
+    {
+      "id": "ch04-the-coming-of-the-janissaries",
+      "title": {
+        "en-US": "IV. The Coming of the Janissaries"
+      }
+    },
+    {
+      "id": "ch05-the-lost-england",
+      "title": {
+        "en-US": "V. The Lost England"
+      }
+    },
+    {
+      "id": "ch06-hamlet-and-the-danes",
+      "title": {
+        "en-US": "VI. Hamlet and the Danes"
+      }
+    },
+    {
+      "id": "ch07-the-midnight-of-europe",
+      "title": {
+        "en-US": "VII. The Midnight of Europe"
+      }
+    },
+    {
+      "id": "ch08-the-wrong-horse",
+      "title": {
+        "en-US": "VIII. The Wrong Horse"
+      }
+    },
+    {
+      "id": "ch09-the-awakening-of-england",
+      "title": {
+        "en-US": "IX. The Awakening of England"
+      }
+    },
+    {
+      "id": "ch10-the-battle-of-the-marne",
+      "title": {
+        "en-US": "X. The Battle of the Marne"
+      }
+    }
+  ]
+}
