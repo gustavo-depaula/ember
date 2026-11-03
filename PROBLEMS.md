@@ -12,8 +12,6 @@ Paths are relative to `content/books/`.
 
 - `church-fathers/athanasius/incarnation-of-the-word`: the source numbers sections irregularly. For example, §5 jumps from 4 to 8, and §10 restarts at 1. Most section numbers are inline, not at the start of a paragraph. The numbering matches the edition, so it was not changed.
 - `church-fathers/justin-martyr/first-apology`, Ch. 55: "state possessions" doesn't make sense, and no reading for it has been found.
-- `church-fathers/ambrose/repentance`, Book I ¶61: "the law of his flesh agreed … with the law of his flesh". The second "flesh" is probably "mind". Check the printed NPNF before fixing both languages.
-- `church-fathers/john-chrysostom/priesthood`, Book V §4: "puffed up by the promises of these persons" is probably "praises". The pt-BR has "louvores".
 
 ## Wrong references in the printed edition
 
