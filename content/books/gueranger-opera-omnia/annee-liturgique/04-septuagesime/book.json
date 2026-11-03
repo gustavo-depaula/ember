@@ -1,0 +1,417 @@
+{
+  "id": "gueranger-annee-liturgique-04-septuagesime",
+  "name": {
+    "fr-FR": "L’Année liturgique : la Septuagésime",
+    "en-US": "The Liturgical Year: Septuagesima",
+    "pt-BR": "O Ano Litúrgico: a Septuagésima"
+  },
+  "author": {
+    "fr-FR": "Dom Prosper Guéranger",
+    "en-US": "Dom Prosper Guéranger",
+    "pt-BR": "Dom Prosper Guéranger"
+  },
+  "description": {
+    "fr-FR": "Quatrième volume de l’Année liturgique : la Septuagésime, de la Septuagésime au samedi après les Cendres, avec le Propre des saints de février et mars.",
+    "en-US": "Volume 4 of the 15-volume Liturgical Year (L’Année liturgique) in the original French: Septuagesima. One chapter per day or feast, with the liturgical texts in Latin and French as the edition prints them.",
+    "pt-BR": "Volume 4 dos 15 volumes de «O Ano Litúrgico» (L’Année liturgique) em francês: a Septuagésima. Um capítulo por dia ou festa, com os textos litúrgicos em latim e francês como a edição os imprime."
+  },
+  "composed": 1855,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "fr-FR": {
+      "editor": "Dom Prosper Guéranger, abbé de Solesmes (14th ed., Oudin)",
+      "year": 1900
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://domgueranger.net/lannee-liturgique-temps-de-la-septuagesime-historique-mystique-et-pratique-prieres/",
+      "edition": "L’Année liturgique, vol. 4, 14th ed. (Oudin, 1900)",
+      "description": "Dom Guéranger site (Societas pro canonizatione D. Guéranger), WordPress text of the 14th edition (1900). Split at each day or feast heading; verse kept as hard line breaks; footnotes renumbered per chapter.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; the text is the 19th-century edition transcribed."
+    },
+    {
+      "language": "fr-FR",
+      "url": "https://domgueranger.net/lannee-liturgique-temps-de-la-septuagesime-propre-du-temps/",
+      "edition": "L’Année liturgique, vol. 4, 14th ed. (Oudin, 1900)",
+      "description": "Dom Guéranger site (Societas pro canonizatione D. Guéranger), WordPress text of the 14th edition (1900). Split at each day or feast heading; verse kept as hard line breaks; footnotes renumbered per chapter.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; the text is the 19th-century edition transcribed."
+    },
+    {
+      "language": "fr-FR",
+      "url": "https://domgueranger.net/lannee-liturgique-temps-de-la-septuagesime-propre-des-saints/",
+      "edition": "L’Année liturgique, vol. 4, 14th ed. (Oudin, 1900)",
+      "description": "Dom Guéranger site (Societas pro canonizatione D. Guéranger), WordPress text of the 14th edition (1900). Split at each day or feast heading; verse kept as hard line breaks; footnotes renumbered per chapter.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; the text is the 19th-century edition transcribed."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-la-septuagesime",
+      "title": {
+        "fr-FR": "La Septuagésime"
+      }
+    },
+    {
+      "id": "002-chapitre-premier-historique-du-temps-de-la-septu",
+      "title": {
+        "fr-FR": "Chapitre premier — Historique du temps de la Septuagésime"
+      }
+    },
+    {
+      "id": "003-chapitre-ii-mystique-du-temps-de-la-septuagesime",
+      "title": {
+        "fr-FR": "Chapitre II — Mystique du temps de la Septuagésime"
+      }
+    },
+    {
+      "id": "004-chapitre-iii-pratique-du-temps-de-la-septuagesim",
+      "title": {
+        "fr-FR": "Chapitre III — Pratique du temps de la Septuagésime"
+      }
+    },
+    {
+      "id": "005-chapitre-iv-prieres-du-matin-et-du-soir-au-temps",
+      "title": {
+        "fr-FR": "Chapitre IV — Prières du matin et du soir, au temps de la Septuagésime"
+      }
+    },
+    {
+      "id": "006-chapitre-v-de-lassistance-a-la-sainte-messe-au-t",
+      "title": {
+        "fr-FR": "Chapitre V — De l’assistance à la Sainte Messe, au temps de la Septuagésime"
+      }
+    },
+    {
+      "id": "007-chapitre-vi-pratique-de-la-sainte-communion-au-t",
+      "title": {
+        "fr-FR": "Chapitre VI — Pratique de la Sainte Communion, au temps de la Septuagésime"
+      }
+    },
+    {
+      "id": "008-chapitre-vii-de-loffice-des-vepres-des-dimanches",
+      "title": {
+        "fr-FR": "Chapitre VII — De l’office des vêpres des dimanches et des fêtes, au temps de la Septuagésime"
+      }
+    },
+    {
+      "id": "009-chapitre-viii-de-loffice-de-complies-au-temps-de",
+      "title": {
+        "fr-FR": "Chapitre VIII — De l’office de complies, au temps de la Septuagésime"
+      }
+    },
+    {
+      "id": "010-propre-du-temps-de-la-septuagesime",
+      "title": {
+        "fr-FR": "Propre du temps de la Septuagésime"
+      }
+    },
+    {
+      "id": "011-le-cinquieme-dimanche-apres-lepiphanie",
+      "title": {
+        "fr-FR": "Le cinquième dimanche après l’Épiphanie"
+      }
+    },
+    {
+      "id": "012-le-sixieme-dimanche-apres-lepiphanie",
+      "title": {
+        "fr-FR": "Le sixième dimanche après l’Épiphanie"
+      }
+    },
+    {
+      "id": "013-le-samedi-avant-le-dimanche-de-la-septuagesime",
+      "title": {
+        "fr-FR": "Le samedi avant le dimanche de la Septuagésime"
+      }
+    },
+    {
+      "id": "014-le-dimanche-de-la-septuagesime",
+      "title": {
+        "fr-FR": "Le dimanche de la Septuagésime"
+      }
+    },
+    {
+      "id": "015-le-lundi-de-la-septuagesime",
+      "title": {
+        "fr-FR": "Le lundi de la Septuagésime"
+      }
+    },
+    {
+      "id": "016-le-mardi-de-la-septuagesime",
+      "title": {
+        "fr-FR": "Le mardi de la Septuagésime"
+      }
+    },
+    {
+      "id": "017-le-mercredi-de-la-septuagesime",
+      "title": {
+        "fr-FR": "Le mercredi de la Septuagésime"
+      }
+    },
+    {
+      "id": "018-le-jeudi-de-la-septuagesime",
+      "title": {
+        "fr-FR": "Le jeudi de la Septuagésime"
+      }
+    },
+    {
+      "id": "019-le-vendredi-de-la-septuagesime",
+      "title": {
+        "fr-FR": "Le vendredi de la Septuagésime"
+      }
+    },
+    {
+      "id": "020-le-samedi-de-la-septuagesime",
+      "title": {
+        "fr-FR": "Le samedi de la Septuagésime"
+      }
+    },
+    {
+      "id": "021-le-dimanche-de-la-sexagesime",
+      "title": {
+        "fr-FR": "Le dimanche de la Sexagésime"
+      }
+    },
+    {
+      "id": "022-le-lundi-de-la-sexagesime",
+      "title": {
+        "fr-FR": "Le lundi de la Sexagésime"
+      }
+    },
+    {
+      "id": "023-le-mardi-de-la-sexagesime",
+      "title": {
+        "fr-FR": "Le mardi de la Sexagésime"
+      }
+    },
+    {
+      "id": "024-le-mercredi-de-la-sexagesime",
+      "title": {
+        "fr-FR": "Le mercredi de la Sexagésime"
+      }
+    },
+    {
+      "id": "025-le-jeudi-de-la-sexagesime",
+      "title": {
+        "fr-FR": "Le jeudi de la Sexagésime"
+      }
+    },
+    {
+      "id": "026-le-vendredi-de-la-sexagesime",
+      "title": {
+        "fr-FR": "Le vendredi de la Sexagésime"
+      }
+    },
+    {
+      "id": "027-le-samedi-de-la-sexagesime",
+      "title": {
+        "fr-FR": "Le samedi de la Sexagésime"
+      }
+    },
+    {
+      "id": "028-le-dimanche-de-la-quinquagesime",
+      "title": {
+        "fr-FR": "Le dimanche de la Quinquagésime"
+      }
+    },
+    {
+      "id": "029-le-lundi-de-la-quinquagesime",
+      "title": {
+        "fr-FR": "Le lundi de la Quinquagésime"
+      }
+    },
+    {
+      "id": "030-le-mardi-de-la-quinquagesime",
+      "title": {
+        "fr-FR": "Le mardi de la Quinquagésime"
+      }
+    },
+    {
+      "id": "031-le-mercredi-des-cendres",
+      "title": {
+        "fr-FR": "Le mercredi des Cendres"
+      }
+    },
+    {
+      "id": "032-le-jeudi-apres-les-cendres",
+      "title": {
+        "fr-FR": "Le jeudi après les Cendres"
+      }
+    },
+    {
+      "id": "033-le-vendredi-apres-les-cendres",
+      "title": {
+        "fr-FR": "Le vendredi après les Cendres"
+      }
+    },
+    {
+      "id": "034-le-samedi-apres-les-cendres",
+      "title": {
+        "fr-FR": "Le samedi après les Cendres"
+      }
+    },
+    {
+      "id": "035-propre-des-saints-de-la-septuagesime",
+      "title": {
+        "fr-FR": "Propre des saints de la Septuagésime"
+      }
+    },
+    {
+      "id": "036-3-fevrier-saint-blaise-eveque-et-martyr",
+      "title": {
+        "fr-FR": "3 février — Saint Blaise, évêque et martyr"
+      }
+    },
+    {
+      "id": "037-4-fevrier-saint-andre-corsini-eveque-et-confesse",
+      "title": {
+        "fr-FR": "4 février — Saint André corsini, évêque et confesseur"
+      }
+    },
+    {
+      "id": "038-le-meme-jour-sainte-jeanne-de-valois-reine-de-fr",
+      "title": {
+        "fr-FR": "Le meme jour. Sainte Jeanne de valois, reine de france"
+      }
+    },
+    {
+      "id": "039-5-fevrier-sainte-agathe-vierge-et-martyre",
+      "title": {
+        "fr-FR": "5 février — Sainte Agathe, Vierge et martyre"
+      }
+    },
+    {
+      "id": "040-6-fevrier-sainte-dorothee-vierge-et-martyre",
+      "title": {
+        "fr-FR": "6 février — Sainte Dorothée, Vierge et martyre"
+      }
+    },
+    {
+      "id": "041-7-fevrier-saint-romuald-abbe",
+      "title": {
+        "fr-FR": "7 février — Saint Romuald, abbé"
+      }
+    },
+    {
+      "id": "042-8-fevrier-saint-jean-de-matha-confesseur",
+      "title": {
+        "fr-FR": "8 février — Saint Jean de matha, confesseur"
+      }
+    },
+    {
+      "id": "043-9-fevrier-saint-cyrille-dalexandrie-eveque-et-do",
+      "title": {
+        "fr-FR": "9 février — Saint Cyrille d’alexandrie, évêque et Docteur de l’Église"
+      }
+    },
+    {
+      "id": "044-le-meme-jour-sainte-apolline-vierge-et-martyre",
+      "title": {
+        "fr-FR": "Le meme jour. Sainte Apolline, Vierge et martyre"
+      }
+    },
+    {
+      "id": "045-10-fevrier-sainte-scholastique-vierge",
+      "title": {
+        "fr-FR": "10 février — Sainte Scholastique, Vierge"
+      }
+    },
+    {
+      "id": "046-14-fevrier-saint-valentin-pretre-et-martyr",
+      "title": {
+        "fr-FR": "14 février — Saint Valentin, prêtre et martyr"
+      }
+    },
+    {
+      "id": "047-15-fevrier-saint-faustin-et-saint-jovite-martyrs",
+      "title": {
+        "fr-FR": "15 février — Saint Faustin et Saint Jovite, martyrs"
+      }
+    },
+    {
+      "id": "048-18-fevrier-saint-simeon-eveque-et-martyr",
+      "title": {
+        "fr-FR": "18 février — Saint Siméon, évêque et martyr"
+      }
+    },
+    {
+      "id": "049-22-fevrier-la-chaire-de-saint-pierre-a-antioche",
+      "title": {
+        "fr-FR": "22 février — La chaire de Saint Pierre a antioche"
+      }
+    },
+    {
+      "id": "050-23-fevrier-saint-pierre-damien-cardinal-et-docte",
+      "title": {
+        "fr-FR": "23 février — Saint Pierre damien, cardinal et Docteur de l’Église"
+      }
+    },
+    {
+      "id": "051-24-fevrier-saint-mathias-apotre",
+      "title": {
+        "fr-FR": "24 février — Saint Mathias, Apôtre"
+      }
+    },
+    {
+      "id": "052-26-fevrier-sainte-marguerite-de-cortone-penitent",
+      "title": {
+        "fr-FR": "26 février — Sainte Marguerite de cortone, pénitente"
+      }
+    },
+    {
+      "id": "053-4-mars-saint-casimir-confesseur",
+      "title": {
+        "fr-FR": "4 mars — Saint Casimir, confesseur"
+      }
+    },
+    {
+      "id": "054-6-mars-sainte-perpetue-et-sainte-felicite-martyr",
+      "title": {
+        "fr-FR": "6 mars — Sainte Perpétue et Sainte Félicité martyres"
+      }
+    },
+    {
+      "id": "055-7-mars-saint-thomas-daquin-docteur-de-leglise",
+      "title": {
+        "fr-FR": "7 mars — Saint Thomas d’aquin, Docteur de l’Église"
+      }
+    },
+    {
+      "id": "056-8-mars-saint-jean-de-dieu-confesseur",
+      "title": {
+        "fr-FR": "8 mars — Saint Jean de Dieu, confesseur"
+      }
+    },
+    {
+      "id": "057-9-mars-sainte-francoise-veuve-romaine",
+      "title": {
+        "fr-FR": "9 mars — Sainte Françoise, veuve romaine"
+      }
+    },
+    {
+      "id": "058-10-mars-les-quarante-martyrs",
+      "title": {
+        "fr-FR": "10 mars — Les quarante martyrs"
+      }
+    },
+    {
+      "id": "059-12-mars-saint-gregoire-le-grand-pape-et-docteur",
+      "title": {
+        "fr-FR": "12 mars — Saint Grégoire le grand, Pape et Docteur de l’Église"
+      }
+    },
+    {
+      "id": "060-11-fevrier-les-sept-saints-fondateurs-de-lordre",
+      "title": {
+        "fr-FR": "11 février — Les sept Saints Fondateurs de l’ordre des servites de la b. v. Marie"
+      }
+    }
+  ]
+}

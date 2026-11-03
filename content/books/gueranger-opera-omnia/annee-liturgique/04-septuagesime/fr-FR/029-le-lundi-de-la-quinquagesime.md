@@ -1,0 +1,25 @@
+# Le lundi de la Quinquagésime
+
+La vie du chrétien fidèle que nous avons reconnue dans Abraham, n’est autre chose qu’une marche courageuse par laquelle il se dirige vers le séjour que Dieu lui destine. Il nous faut donc laisser tout ce qui fait obstacle, et ne pas regarder en arrière. Cette doctrine est sévère ; mais pour peu que l’on réfléchisse sur les dangers que court ici-bas l’homme tombé, sur les expériences que chacun de nous a été à même de faire, on cesse de s’étonner que le Sauveur ait placé la condition essentielle de notre salut dans le renoncement à nous-mêmes. Et d’ailleurs, sommes-nous donc si sages et si forts, que nous ne sentions pas qu’il vaut mieux laisser à Dieu l’arrangement de notre vie, que d’en assumer nous-mêmes la conduite ? Au reste, quelles que soient nos réclamations et nos résistances, Dieu est notre maître, et s’il nous laisse libres de lui résister ou de le suivre, il n’entend pas abdiquer ses droits. Notre refus de lui obéir ne peut compromettre que nous-mêmes.
+
+Il ne tenait qu’à Abraham, après avoir entendu l’appel divin, de rester dans la Chaldée, et de ne pas entreprendre une migration qui déracinait son existence terrestre. Dieu, alors, choisissait un autre homme auquel serait dévolu l’honneur de devenir le père du peuple choisi, et, ce qui est bien plus, l’ancêtre du Messie. Ces substitutions terribles sont fréquentes dans l’ordre de la grâce. Parce qu’une âme a refusé le salut, ce n’est pas une raison de penser que le ciel perde pour cela un seul de ses élus. Dieu, méprisé par celui qu’il a daigné appeler, se tourne vers un autre qui sera plus docile.
+
+La vie chrétienne est tout entière dans cette dépendance absolue pratiquée jusqu’à la fin. D’abord, cet esprit de soumission retire l’âme du péché et de la mort où elle languissait ; des ténèbres de la Chaldée, il la transporte dans la terre promise. Puis, quand l’âme est entrée dans la voie droite, Dieu, craignant qu’elle ne succombe aux périls qu’elle porte en elle-même, la tient en haleine par les sacrifices qu’elle exige d’elle. Nous retrouvons encore ici l’exemple d’Abraham pour lumière et pour guide. Cet illustre ami de Dieu reçoit pour récompense la plus magnifique des promesses ; un fils en devient le gage, et bientôt Dieu lui-même, pour sonder le cœur du saint Patriarche, lui commande d’immoler ce fils sur lequel reposent tant d’espérances.
+
+Telle est la voie de l’homme sur la terre. Nous ne pouvons sortir du mal que par un effort contre nous-mêmes, et nous ne pouvons nous maintenir dans le bien qu’à la condition d’entreprendre de nouvelles luttes. Élevons donc notre regard, comme Abraham, vers les collines éternelles, et, à son exemple, considérons l’habitation de ce monde comme une tente dressée pour un jour. Le Sauveur l’a dit : Je ne suis pas venu apporter la paix sur la terre, mais le glaive ; je suis venu pour séparer, pour diviser [^1] ; nous devons donc compter sur l’épreuve, et puisqu’elle nous est imposée par Celui qui nous a aimés jusqu’à se rendre semblable à nous, reconnaître qu’elle nous est salutaire. Mais il a dit aussi : Où est votre trésor, là est aussi votre cœur [^2] . Chrétiens, pouvons-nous avoir notre trésor en cette terre qui est au-dessous de nous? Il n’en peut être ainsi. Notre trésor est donc plus haut : quelle main d’homme pourrait nous le ravir?
+
+Telles sont les pensées que propose l’Église à ses enfants, en ces jours à l’issue desquels nous rencontrerons la sainte Quarantaine. Que notre cœur s’épure donc, et qu’il aspire à Dieu. Les péchés des hommes se multiplient autour de nous, le bruit du scandale retentit jusqu’à notre oreille. Demandons que le règne de Dieu arrive pour nous, et aussi pour ces pécheurs aveugles qui sont ces pierres qu’une puissante miséricorde peut transformer, s’il lui plaît, en enfants d’Abraham. Elle le fait tous les jours ; peut-être a-t-elle daigné le faire pour nous qui, comme parle l’Apôtre, après avoir été loin, sommes maintenant proche de Dieu, dans le sang de Jésus-Christ [^3] ».
+
+Prions pour nous et pour tous les pécheurs, en empruntant cette belle formule liturgique au Bréviaire Mozarabe.
+
+## Oraison
+
+*Dum te, omnipotens Deus, nostrae delinquentiae reddunt adversum, tua inspiratione, quaesumus, nostra te invocatio propitium et confessio faciat esse placatum : ut, te miserante, nec tribulatio saecularis nostram mentem dejiciat, nec persuasio nociva possideat, nec infidelitas tenebrosa concludat ; sed vultus tui super nos signato lumine fulgeamus, semperque in eodem splendore stabilitate verne fidei gradiamur. Amen.*
+
+Nos péchés, o Dieu tout-puissant, vous irritent contre nous : daignez vous rendre propice aux prières que vous nous inspirez, et vous laissez apaiser par nos louanges. Dans votre miséricorde, empêchez que les tribulations de ce monde n’abattent notre âme, que des erreurs nuisibles ne l’envahissent, que les ténèbres de l’infidélité ne la circonviennent ; mais que la lumière de votre visage se réfléchisse sur nos âmes, et que, marchant toujours dans sa splendeur , nous soyons stables dans la vraie *foi. Amen*
+
+[^1]: Matth. X, 34.
+
+[^2]: Matth. vi, 21
+
+[^3]: Eph. ii, 13.
