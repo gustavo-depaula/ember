@@ -6,5 +6,156 @@
   "century": 4,
   "matches": [
     "Gregory of Nyssa"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "Two of his best-known works: the catechesis and the dialogue on the soul.",
+        "pt-BR": "Duas de suas obras mais conhecidas: a catequese e o diálogo sobre a alma."
+      },
+      "works": [
+        {
+          "work": "gregory-nyssa-great-catechism",
+          "why": {
+            "en-US": "The Great Catechism, his outline of the faith",
+            "pt-BR": "A Grande Catequese, seu esboço da fé"
+          }
+        },
+        {
+          "work": "gregory-nyssa-soul-and-the-resurrection",
+          "why": {
+            "en-US": "A dialogue On the Soul and the Resurrection",
+            "pt-BR": "Diálogo Sobre a alma e a ressurreição"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Man and the spiritual life",
+        "pt-BR": "O homem e a vida espiritual"
+      },
+      "works": [
+        {
+          "work": "gregory-nyssa-making-of-man",
+          "why": {
+            "en-US": "On the Making of Man",
+            "pt-BR": "Sobre a criação do homem"
+          }
+        },
+        {
+          "work": "gregory-nyssa-virginity",
+          "why": {
+            "en-US": "On Virginity",
+            "pt-BR": "Sobre a virgindade"
+          }
+        },
+        {
+          "work": "gregory-nyssa-infants-early-deaths",
+          "why": {
+            "en-US": "On Infants' Early Deaths",
+            "pt-BR": "Sobre a morte prematura dos bebês"
+          }
+        },
+        {
+          "work": "gregory-nyssa-pilgrimages",
+          "why": {
+            "en-US": "On Pilgrimages",
+            "pt-BR": "Sobre as peregrinações"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The Trinity and the Holy Spirit",
+        "pt-BR": "A Trindade e o Espírito Santo"
+      },
+      "works": [
+        {
+          "work": "gregory-nyssa-not-three-gods",
+          "why": {
+            "en-US": "On \"Not Three Gods\", to Ablabius",
+            "pt-BR": "Sobre \"Não três deuses\", a Ablábio"
+          }
+        },
+        {
+          "work": "gregory-nyssa-holy-trinity-and-of-the-godhead-of-the-holy-spirit",
+          "why": {
+            "en-US": "The Trinity and the Godhead of the Spirit, to Eustathius",
+            "pt-BR": "A Trindade e a divindade do Espírito, a Eustácio"
+          }
+        },
+        {
+          "work": "gregory-nyssa-holy-spirit",
+          "why": {
+            "en-US": "On the Holy Spirit, against the followers of Macedonius",
+            "pt-BR": "Sobre o Espírito Santo, contra os macedonianos"
+          }
+        },
+        {
+          "work": "gregory-nyssa-faith",
+          "why": {
+            "en-US": "On the Faith, to Simplicius",
+            "pt-BR": "Sobre a fé, a Simplício"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Against Eunomius",
+        "pt-BR": "Contra Eunômio"
+      },
+      "works": [
+        {
+          "work": "gregory-nyssa-against-eunomius",
+          "why": {
+            "en-US": "Against Eunomius",
+            "pt-BR": "Contra Eunômio"
+          }
+        },
+        {
+          "work": "gregory-nyssa-answer-to-eunomius-second-book",
+          "why": {
+            "en-US": "Answer to Eunomius' Second Book",
+            "pt-BR": "Resposta ao segundo livro de Eunômio"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Sermons and letters",
+        "pt-BR": "Sermões e cartas"
+      },
+      "works": [
+        {
+          "work": "gregory-nyssa-baptism-of-christ",
+          "why": {
+            "en-US": "Sermon for the Day of Lights, on Christ's baptism",
+            "pt-BR": "Sermão do Dia das Luzes, sobre o batismo de Cristo"
+          }
+        },
+        {
+          "work": "gregory-nyssa-funeral-oration-on-meletius",
+          "why": {
+            "en-US": "Funeral Oration on Meletius",
+            "pt-BR": "Oração fúnebre por Melécio"
+          }
+        },
+        {
+          "work": "gregory-nyssa-letters",
+          "why": {
+            "en-US": "His Letters",
+            "pt-BR": "Suas Cartas"
+          }
+        }
+      ]
+    }
   ]
 }
