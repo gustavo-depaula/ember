@@ -6,5 +6,22 @@
   "century": 3,
   "matches": [
     "Bardesanes (154-222)"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "bardesanes-book-of-the-laws-of-various-countries",
+          "why": {
+            "en-US": "The Book of the Laws of Various Countries",
+            "pt-BR": "O Livro das Leis dos Países"
+          }
+        }
+      ]
+    }
   ]
 }
