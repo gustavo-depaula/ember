@@ -1,0 +1,398 @@
+{
+  "id": "garrigou-reality",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "La synthèse thomiste (traduction anglaise)",
+    "en-US": "Reality: A Synthesis of Thomistic Thought",
+    "pt-BR": "A síntese tomista (tradução inglesa)"
+  },
+  "author": {
+    "fr-FR": "Réginald Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "description": {
+    "en-US": "The whole of Thomistic thought in synthesis: being and its laws, God, creation, man, the moral and the supernatural order, from the first principles to the end of life. Patrick Cummins’s translation of La synthèse thomiste (1946), Herder 1950.",
+    "pt-BR": "Todo o pensamento tomista em síntese: o ser e suas leis, Deus, a criação, o homem, a ordem moral e a ordem sobrenatural. Tradução inglesa de Patrick Cummins (Herder, 1950) de La synthèse thomiste (1946)."
+  },
+  "composed": "1946",
+  "work": "garrigou-lagrange/synthese-thomiste",
+  "editions": {
+    "en-US": {
+      "translator": "Patrick Cummins, O.S.B.",
+      "year": 1950
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/Lagrange-English",
+      "edition": "Reality: A Synthesis of Thomistic Thought, tr. Patrick Cummins, O.S.B., St. Louis: B. Herder, 1950 (archive.org Lagrange-English); the French original is not open"
+    }
+  ],
+  "languages": [
+    "en-US"
+  ],
+  "toc": [
+    {
+      "id": "foreword",
+      "title": {
+        "en-US": "Foreword"
+      }
+    },
+    {
+      "id": "art1",
+      "title": {
+        "en-US": "Chapter I. Philosophical Writings"
+      }
+    },
+    {
+      "id": "art2",
+      "title": {
+        "en-US": "Chapter II. Theological Works"
+      }
+    },
+    {
+      "id": "art3",
+      "title": {
+        "en-US": "Chapter III. The Thomistic Commentators"
+      }
+    },
+    {
+      "id": "art4",
+      "title": {
+        "en-US": "Chapter IV. Intelligible Being and First Principles"
+      }
+    },
+    {
+      "id": "art5",
+      "title": {
+        "en-US": "Chapter V. Act and Potency"
+      }
+    },
+    {
+      "id": "art6",
+      "title": {
+        "en-US": "Chapter VI. The Nature of Theological Work"
+      }
+    },
+    {
+      "id": "art7",
+      "title": {
+        "en-US": "Chapter VII. The Proofs of God's Existence"
+      }
+    },
+    {
+      "id": "art8",
+      "title": {
+        "en-US": "Chapter VIII. Divine Eminence"
+      }
+    },
+    {
+      "id": "art9",
+      "title": {
+        "en-US": "Chapter IX. God's Knowledge"
+      }
+    },
+    {
+      "id": "art10",
+      "title": {
+        "en-US": "Chapter X. God's Will and God's Love"
+      }
+    },
+    {
+      "id": "art11",
+      "title": {
+        "en-US": "Chapter XI. Providence and Predestination"
+      }
+    },
+    {
+      "id": "art12",
+      "title": {
+        "en-US": "Chapter XII. Omnipotence"
+      }
+    },
+    {
+      "id": "art13",
+      "title": {
+        "en-US": "Chapter XIII. Augustine and Thomas"
+      }
+    },
+    {
+      "id": "art14",
+      "title": {
+        "en-US": "Chapter XIV. The Divine Processions"
+      }
+    },
+    {
+      "id": "art15",
+      "title": {
+        "en-US": "Chapter XV. The Divine Relations"
+      }
+    },
+    {
+      "id": "art16",
+      "title": {
+        "en-US": "Chapter XVI. The Divine Persons"
+      }
+    },
+    {
+      "id": "art17",
+      "title": {
+        "en-US": "Chapter XVII. The Notional Acts"
+      }
+    },
+    {
+      "id": "art18",
+      "title": {
+        "en-US": "Chapter XVIII. Equality and Union"
+      }
+    },
+    {
+      "id": "art19",
+      "title": {
+        "en-US": "Chapter XIX. The Trinity Naturally Unknowable"
+      }
+    },
+    {
+      "id": "art20",
+      "title": {
+        "en-US": "Chapter XX. Proper Names and Appropriations"
+      }
+    },
+    {
+      "id": "art21",
+      "title": {
+        "en-US": "Chapter XXI. The Indwelling of the Blessed Trinity"
+      }
+    },
+    {
+      "id": "art22",
+      "title": {
+        "en-US": "Chapter XXII. The Sources"
+      }
+    },
+    {
+      "id": "art23",
+      "title": {
+        "en-US": "Chapter XXIII. Angelic Nature and Knowledge"
+      }
+    },
+    {
+      "id": "art24",
+      "title": {
+        "en-US": "Chapter XXIV. The Angelic Will"
+      }
+    },
+    {
+      "id": "art25",
+      "title": {
+        "en-US": "Chapter XXV. Angelic Merit and Demerit"
+      }
+    },
+    {
+      "id": "art26",
+      "title": {
+        "en-US": "Chapter XXVI. The Treatise on Man"
+      }
+    },
+    {
+      "id": "art27",
+      "title": {
+        "en-US": "Chapter XXVII. The Nature of the Soul"
+      }
+    },
+    {
+      "id": "art28",
+      "title": {
+        "en-US": "Chapter XXVIII. The Union of Soul with Body’"
+      }
+    },
+    {
+      "id": "art29",
+      "title": {
+        "en-US": "Chapter XXIX. The Faculties of the Soul’"
+      }
+    },
+    {
+      "id": "art30",
+      "title": {
+        "en-US": "Chapter XXX. The Separated Soul’"
+      }
+    },
+    {
+      "id": "art31",
+      "title": {
+        "en-US": "Chapter XXXI. Original Sin"
+      }
+    },
+    {
+      "id": "art32",
+      "title": {
+        "en-US": "Chapter XXXII. Introduction’"
+      }
+    },
+    {
+      "id": "art33",
+      "title": {
+        "en-US": "Chapter XXXIII. The Hypostatic Union"
+      }
+    },
+    {
+      "id": "art34",
+      "title": {
+        "en-US": "Chapter XXXIV. Consequences of the Hypostatic Union"
+      }
+    },
+    {
+      "id": "art35",
+      "title": {
+        "en-US": "Chapter XXXV. Freedom and Impeccabzlity'"
+      }
+    },
+    {
+      "id": "art36",
+      "title": {
+        "en-US": "Chapter XXXVI. Christ's Victory and Passion"
+      }
+    },
+    {
+      "id": "art37",
+      "title": {
+        "en-US": "Chapter XXXVII. Mariolog y`"
+      }
+    },
+    {
+      "id": "art38",
+      "title": {
+        "en-US": "Chapter XXXVIII. The Sacraments in General"
+      }
+    },
+    {
+      "id": "art39",
+      "title": {
+        "en-US": "Chapter XXXIX. Transubstantiatzon"
+      }
+    },
+    {
+      "id": "art40",
+      "title": {
+        "en-US": "Chapter XL. The Sacrifice of the Mass’"
+      }
+    },
+    {
+      "id": "art41",
+      "title": {
+        "en-US": "Chapter XLI. Attrition and Contrition'"
+      }
+    },
+    {
+      "id": "art42",
+      "title": {
+        "en-US": "Chapter XLII. The Reviviscence of Merit"
+      }
+    },
+    {
+      "id": "art43",
+      "title": {
+        "en-US": "Chapter XLIII. The Treatise on the Church"
+      }
+    },
+    {
+      "id": "art44",
+      "title": {
+        "en-US": "Chapter XLIV. The Souls Immutability After Death"
+      }
+    },
+    {
+      "id": "art45",
+      "title": {
+        "en-US": "Chapter XLV. Man’s Ultimate Purpose and Goal’"
+      }
+    },
+    {
+      "id": "art46",
+      "title": {
+        "en-US": "Chapter XLVI. Human Acts"
+      }
+    },
+    {
+      "id": "art47",
+      "title": {
+        "en-US": "Chapter XLVII. Virtues and Vices"
+      }
+    },
+    {
+      "id": "art48",
+      "title": {
+        "en-US": "Chapter XLVIII. Law"
+      }
+    },
+    {
+      "id": "art49",
+      "title": {
+        "en-US": "Chapter XLIX. A Treatise on Grace"
+      }
+    },
+    {
+      "id": "art50",
+      "title": {
+        "en-US": "Chapter L. The Theological Virtues"
+      }
+    },
+    {
+      "id": "art51",
+      "title": {
+        "en-US": "Chapter LI. The Moral Virtues"
+      }
+    },
+    {
+      "id": "art52",
+      "title": {
+        "en-US": "Chapter LII. Christian perfection on iiol icis ocoiiedidieoodiliodediddi todd idodiit odd eod bei seeei"
+      }
+    },
+    {
+      "id": "art53",
+      "title": {
+        "en-US": "Chapter LIII. Charismatic Graces"
+      }
+    },
+    {
+      "id": "art54",
+      "title": {
+        "en-US": "Chapter LIV. Conclusion aiippiea odio iiop el oddie died idino oddo odode pop pope od pii od"
+      }
+    },
+    {
+      "id": "art55",
+      "title": {
+        "en-US": "Chapter LV. The Twenty-four Thomistic Theses"
+      }
+    },
+    {
+      "id": "art56",
+      "title": {
+        "en-US": "Chapter LVI. Realism and First Principles"
+      }
+    },
+    {
+      "id": "art57",
+      "title": {
+        "en-US": "Chapter LVII. Realism and Pragmatism"
+      }
+    },
+    {
+      "id": "art58",
+      "title": {
+        "en-US": "Chapter LVIII. Ontological Personality `"
+      }
+    },
+    {
+      "id": "art59",
+      "title": {
+        "en-US": "Chapter LIX. Efficacious Grace"
+      }
+    }
+  ]
+}
