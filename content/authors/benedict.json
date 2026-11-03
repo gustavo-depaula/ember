@@ -7,5 +7,22 @@
   "saint": "benedict",
   "matches": [
     "St. Benedict of Nursia"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "benedict/rule",
+          "why": {
+            "en-US": "The Rule for his monks at Monte Cassino",
+            "pt-BR": "A Regra para seus monges em Monte Cassino"
+          }
+        }
+      ]
+    }
   ]
 }
