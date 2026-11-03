@@ -5,5 +5,40 @@
   },
   "matches": [
     "Liturgies"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Eastern liturgies",
+        "pt-BR": "Liturgias orientais"
+      },
+      "note": {
+        "en-US": "Three ancient anaphoras, in the order of their use in the East.",
+        "pt-BR": "Três anáforas antigas."
+      },
+      "works": [
+        {
+          "work": "liturgies-liturgy-of-james",
+          "why": {
+            "en-US": "The Liturgy of James",
+            "pt-BR": "A Liturgia de Tiago"
+          }
+        },
+        {
+          "work": "liturgies-liturgy-of-mark",
+          "why": {
+            "en-US": "The Liturgy of Mark",
+            "pt-BR": "A Liturgia de Marcos"
+          }
+        },
+        {
+          "work": "liturgies-liturgy-of-the-blessed-apostles",
+          "why": {
+            "en-US": "The Liturgy of the Blessed Apostles",
+            "pt-BR": "A Liturgia dos Bem-Aventurados Apóstolos"
+          }
+        }
+      ]
+    }
   ]
 }
