@@ -1,0 +1,59 @@
+# Le jeudi de la première semaine de Carême
+
+La Station d’aujourd’hui est dans l’Église de Saint-Laurent in Paneperna, l’une de celles que la piété romaine a élevées en l’honneur du plus célèbre Martyr de la ville sainte.
+
+## Collecte
+
+*Devotionem populi tui, quaesumus Domine, benignus intende, ut qui per abstinentiam macerantur in corpore, per fructum boni operis reficiantur in mente. Per Christum Dominum nostrum. Amen.*
+
+Regardez, Seigneur, d’un œil favorable la dévotion de votre peuple, afin que ceux qui mortifient leur corps par l’abstinence soient nourris selon l’esprit par le fruit des bonnes œuvres. Par Jésus-Christ notre Seigneur. Amen.
+
+## Leçon
+
+*Lectio Ézechielis Prophetae. Cap. XVIII.*
+
+*In diebus illis : Factus est sermo Domini ad me, dicens : Quid est quod inter vos parabolam vertitis in proverbium istud in terra Israël , dicentes : Patres comederunt uvam acerbam, et dentes filiorum obstupescunt ? Vivo ego, dicit Dominus Deus, si erit ultra vobis parabola haec in proverbium in Israël. Ecce omnes animae meae sunt ; ut anima patris, ita et anima filii mea est : anima quae peccaverit, ipsa morietur. Et vir, si fuerit justus, et fecerit judicium et justitiam, in montibus non comederit, et oculos suos non levaverit ad idola domus Israël : et uxorem proximi sui non violaverit, et ad mulierem menstruatam non accesserit : et hominem non contristaverit : pignus debitori reddiderit : per vim nihil rapuerit : panem suum esurienti dederit, et nudum operuerit vestimento : ad usuram non commodaverit, et amplius non acceperit : ab iniquitate averterit manum suam. et judicium verum fecerit inter virum et virum : in praeceptis meis ambulaverit, et judicia mea custodierit, ut faciat veritatem ; hic justus est, vita vivet, ait Dominus omnipotens.*
+
+Lecture du Prophète Ézéchiel. Chap. XVIII.
+
+En ces jours-là, le Seigneur me parla, et me dit : D’où vient que vous vous servez parmi vous de cette parabole, et que vous l’avez tournée en proverbe dans la terre d’Israël, disant : Les pères ont mangé des raisins verts, et les dents des enfants en sont agacées ? Par ma vie, dit le Seigneur, cette parabole ne passera plus en proverbe parmi vous dans Israël ; car toutes les âmes sont à moi : l’âme du fils est à moi comme celle du père. L’âme qui aura péché, mourra elle-même ; et si un homme est juste, s’il fait l’équité et la justice, s’il ne mange point de viandes immolées sur les montagnes, s’il ne levé point les yeux vers les idoles de la maison d’Israël, s’il ne souille point la femme de son prochain , s’il ne s’approche point de sa propre femme lorsqu’elle souffre son incommodité naturelle, s’il ne contriste point son prochain, s’il rend à son débiteur le gage qu’il en avait reçu, s’il ne prend rien par violence, s’il donne de son pain à celui qui a faim, et des vêtements à celui qui est nu, s’il ne prête point à usure et ne reçoit point plus qu’il n’a donné ; s’il détourne sa main de l’iniquité, s’il rend un jugement équitable entre un homme et un homme, s’il marche dans mes préceptes et garde mes commandements, pour agir selon la vérité : celui-là est juste, il vivra de la vie, dit le Seigneur tout-puissant.
+
+Cette lecture du Prophète nous donne à apprécier la miséricorde de Dieu envers les Gentils, qui vont bientôt passer des ténèbres à la lumière, par la grâce du saint Baptême. En vain le proverbe juif prétend que « les dents des enfants sont agacées, parce que celles des pères ont broyé les raisins verts » : Dieu, dès l’Ancien Testament, déclare que les péchés sont personnels, et que le fils de l’impie, s’il veut suivre la justice, trouvera la miséricorde et la vie. La prédication de l’Évangile par les Apôtres et leurs disciples fut un appel qui retentit dans toute la Gentilité ; et l’on vit bientôt les fils des races idolâtres se presser autour de la piscine du salut, abjurer les mauvaises œuvres de leurs pères, et devenir l’objet des complaisances du Seigneur. La même merveille apparut dans la conversion des barbares de l’Occident ; elle se continue de nos jours chez les peuples infidèles ; et de nombreux catéchumènes, cette année encore, recevront la régénération à la fête de Pâques.
+
+Dans l’ordre temporel. Dieu punit souvent dans les fils l’iniquité des pères ; cette disposition de sa providence est utile à l’instruction des hommes, qui reçoivent par là de salutaires leçons ; mais, dans l’ordre moral, chacun est traité selon ses mérites ; et de même que Dieu n’impute pas au fils vertueux les iniquités du père, de même la vertu du père ne rachètera pas l’iniquité du fils. Saint Louis fut l’aïeul de Philippe le Bel, et Louis XVI était le petit-fils de Louis XV : ces contrastes se rencontrent dans beaucoup de familles. « Dieu a laissé l’homme dans la main de son conseil ; l’homme a devant lui la vie et la mort, le bien et le mal ; on lui donnera ce qu’il préfère [^1] . » Mais telle est la miséricorde du Seigneur notre Dieu, que lorsque l’homme a fait un mauvais choix, s’il repousse le mal qu’il avait d’abord préféré, et s’il se tourne vers le bien, lui aussi vivra de la vie, et la pénitence lui rendra ce qu’il avait perdu.
+
+## Évangile
+
+*Sequentia sancti Evangelii secundum Matthœum. Cap. XV.*
+
+*In illo tempore : Egressus Jesus, secessit in partes Tyri et Sidonis. Et ecce mulier Chananaea a finibus illis egressa clamavit, dicens ei : Miserere mei, Domine, fili David : filia mea male a daemonio vexatur. Qui non respondit ei verbum. Et accedentes discipuli ejus rogabant eum, dicentes : Dimitte eam, quia clamat post nos. Ipse autem respondens, ait : Non sum missus nisi ad oves quae perierunt domus Israël. At illa venit, et adoravit eum, dicens : Domine, adjuva me. Qui respondens, ait : Non est bonum sumere panem filiorum, et mittere canibus. At illa dixit : Etiam, Domine : nam et catelli edunt de micis quae cadunt de mensa dominorum suorum. Tunc respondens Jesus, ait illi : O mulier, magna est fides tua : fiat tibi sicut vis. Et sanata est filia ejus ex illa hora.*
+
+La suite du saint Évangile selon saint Matthieu. Chap. XV.
+
+En ce temps-là, Jésus se retira du côté de Tyr et de Sidon ; et voilà qu’une femme Chananéenne, sortant de ces contrées, lui dit avec grands cris : Ayez pitié de moi, Seigneur, fils de David ; ma fille est cruellement tourmentée par le démon. Mais il ne lui répondit pas un mot. Et ses disciples s’approchant de lui le priaient, disant : Renvoyez-la, car elle crie après nous. Mais il leur répondit : Je n’ai été envoyé qu’aux brebis perdues de la maison d’Israël. Elle s’approcha cependant et l’adora, disant : Seigneur, aidez-moi. Il lui répondit : Il n’est pas bon de prendre le pain des enfants et de le donner aux chiens. Mais elle lui dit : Il est vrai, Seigneur ; mais les petits chiens mangent des miettes qui tombent de la table de leurs maîtres. Alors Jésus lui répondit : O femme, ta foi est grande : qu’il te soit fait comme tu désires. Et sa fille fut guérie à l’heure même.
+
+Jésus admire la foi de cette femme ; il la loue, il la recommande à notre imitation. Cette femme cependant était d’une race païenne ; peut-être jusqu’alors avait-elle adoré les idoles ; mais elle vient au Sauveur ; l’amour maternel l’amène aux pieds de Jésus. Elle y obtient la guérison de sa fille, et sans doute aussi celle de son âme. C’est une application de la vérité consolante que nous trouvions tout à l’heure dans le Prophète : les élus sortent de toute race, même de la race maudite de Chanaan. Le Seigneur traite cette femme avec une dureté apparente, bien qu’il ait résolu de l’exaucer ; il veut que sa foi s’élève, qu’elle soit digne d’être récompensée. Trions donc avec instance dans ces jours de miséricorde. La fille de la Chananéenne était tourmentée par le démon dans son corps ; que d’âmes, dans toute l’Église, sont la proie de cet esprit infernal par le pèche mortel qui habite en elles ! Sentent-elles leur mal ? Songent-elles à crier vers le libérateur ? et si d’abord il fait attendre la grâce du pardon, savent-elles s’humilier comme la femme de l’Évangile, qui accepte avec tant de simplicité le mépris que le Sauveur semble avoir pour elle ? Brebis perdues de la maison d’Israël, profitez du temps où vous possédez encore le Pasteur. Avant quarante jours, il sera misa mort, « et le peuple qui l’aura renié ne sera plus son peuple [^2] ». Avant quarante jours aussi, nous célébrerons l’anniversaire de ce grand Sacrifice ; et tout pécheur qui n’aura pas converti ses voies, qui ne sera pas venu à Jésus avec l’humilité de la Chananéenne, aura mérité d’être rejeté sans retour. Hâtons-nous donc de nous rendre dignes de la réconciliation. La table des enfants de Dieu est déjà dressée ; et telle est la générosité du père de famille, que si nous voulons revenir à lui du tond de notre cœur, ce ne sont point seulement les miettes tombées de cette table qu’il nous permettra de recueillir : c’est Jésus, le Pain de vie, qu’il nous donnera, en signe d’éternelle réconciliation.
+
+*Humiliate capita vestra Deo.*
+
+Humiliez vos têtes devant Dieu.
+
+## Oraison
+
+Da quaesumus Domine, populis christianis, et quae profitentur agnoscere : et cœleste munus diligere, Quod frequentant. Per Christum Dominum nostrum. Amen.
+
+DAIGNEZ accorder , Seigneur, aux peuples chrétiens, de reconnaître la dignité de leur profession, et d’aimer le don céleste qu’ils reçoivent si souvent. Par Jésus-Christ notre Seigneur. Amen.
+
+Lisons aujourd’hui cette belle Préface du Missel Mozarabe, où le Sauveur nous est montré comme le Pain de vie qui doit soutenir les fidèles dans le jeûne.
+
+## Illation
+
+*Missale gothicum. Feria VI post Dominicam II Quadragesimae.*
+
+*Dignum et justum est, æquum vere et salutare est : nos tibi gratias agere, omnipotens Pater, et Jesu Christo Filio tuo Domino nostro ; in quo jejunantium fides alitur : spes provehitur, charitas roboratur Ipse est enim panis vivus et verus qui est et substantia aeternitatis , et esca virtutis. Verbum enim tuum est, per quod facta sunt omnia : quia non solum humanarum mentium : sed ipsorum quoque panis est Angelorum. Hujus panis alimento Moyses famulus tuus quadraginta diebus ac noctibus legem suscipiens jejunavit: et a carnalibus cibis, ut tua ; suavitatis capacior esset, abstinuit : de Verbo tuo vivens et valens, cujus et dulcedinem bibebat in spiritu, et lucem accipiebat in vultu. Inde nec famem sensit. et terrenarum est oblitus escarum : quia illum et gloriae tuae glorificabat aspectus : et influente Spiritu Sancto sermo pascebat interius. Hunc panem etiam nobis ministrare non desinis : sed ut eum indeficienter esuriamus hortaris. Cujus carne dum pascimur, roboramur : et sanguinem dum potamus, abluimur.*
+
+Il est digne et juste, équitable et salutaire, que nous vous rendions grâces, à vous, Père tout puissant, et à Jésus-Christ votre Fils notre Seigneur , en qui, dans le cours de ce jeûne, la foi trouve sa nourriture, l’espérance son avancement, la charité sa force. Il est en effet le Pain vivant et véritable, l’assurance de l’éternité, l’aliment des vertus. Il est votre Verbe, par qui tout a été fait ; il est le pain, non seulement de nos âmes, mais des Anges eux-mêmes. C’est soutenu par ce Pain que Moïse votre serviteur, lorsqu’il reçut la Loi, jeûna quarante jours et quarante nuits, et qu’il s’abstint de la nourriture matérielle, pour pouvoir goûter votre douceur. Vivant de votre Verbe, et fortifié par lui, son esprit en goûtait la suavité, et son visage en empruntait la lumière. Il n’éprouva pas la faim, il oublia la nourriture terrestre ; car l’aspect de votre gloire le glorifiait lui-même, et par l’influence de l’Esprit-Saint, votre parole le repaissait intérieurement. Ce Pain, vous ne cessez de nous le servir ; mais vous nous exhortez à entretenir pour lui en nous une faim continuelle. Cette chair, quand nous la mangeons, est notre force ; ce sang, quand nous le buvons, lave nos souillures.
+
+[^1]: Eccli. XV, 14, 18.
+
+[^2]: Dan. IX, 26.

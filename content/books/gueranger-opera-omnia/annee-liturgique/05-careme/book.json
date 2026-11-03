@@ -1,0 +1,369 @@
+{
+  "id": "gueranger-annee-liturgique-05-careme",
+  "name": {
+    "fr-FR": "L’Année liturgique : le Carême",
+    "en-US": "The Liturgical Year: Lent",
+    "pt-BR": "O Ano Litúrgico: a Quaresma"
+  },
+  "author": {
+    "fr-FR": "Dom Prosper Guéranger",
+    "en-US": "Dom Prosper Guéranger",
+    "pt-BR": "Dom Prosper Guéranger"
+  },
+  "description": {
+    "fr-FR": "Cinquième volume de l’Année liturgique : historique, mystique et pratique du Carême, le Propre du temps du premier dimanche au samedi de la quatrième semaine, et le Propre des saints.",
+    "en-US": "Volume 5 of the 15-volume Liturgical Year (L’Année liturgique) in the original French: Lent. One chapter per day or feast, with the liturgical texts in Latin and French as the edition prints them.",
+    "pt-BR": "Volume 5 dos 15 volumes de «O Ano Litúrgico» (L’Année liturgique) em francês: a Quaresma. Um capítulo por dia ou festa, com os textos litúrgicos em latim e francês como a edição os imprime."
+  },
+  "composed": 1857,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "fr-FR": {
+      "editor": "Dom Prosper Guéranger, abbé de Solesmes (14th ed., Oudin)",
+      "year": 1900
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://domgueranger.net/lannee-liturgique-le-careme-historique-mystique-pratique-prieres/",
+      "edition": "L’Année liturgique, vol. 5, 14th ed. (Oudin, 1900)",
+      "description": "Dom Guéranger site (Societas pro canonizatione D. Guéranger), WordPress text of the 14th edition (1900). Split at each day or feast heading; verse kept as hard line breaks; footnotes renumbered per chapter.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; the text is the 19th-century edition transcribed."
+    },
+    {
+      "language": "fr-FR",
+      "url": "https://domgueranger.net/lannee-liturgique-le-careme-propre-du-temps/",
+      "edition": "L’Année liturgique, vol. 5, 14th ed. (Oudin, 1900)",
+      "description": "Dom Guéranger site (Societas pro canonizatione D. Guéranger), WordPress text of the 14th edition (1900). Split at each day or feast heading; verse kept as hard line breaks; footnotes renumbered per chapter.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; the text is the 19th-century edition transcribed."
+    },
+    {
+      "language": "fr-FR",
+      "url": "https://domgueranger.net/lannee-liturgique-le-careme-propre-des-saints/",
+      "edition": "L’Année liturgique, vol. 5, 14th ed. (Oudin, 1900)",
+      "description": "Dom Guéranger site (Societas pro canonizatione D. Guéranger), WordPress text of the 14th edition (1900). Split at each day or feast heading; verse kept as hard line breaks; footnotes renumbered per chapter.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; the text is the 19th-century edition transcribed."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-le-careme",
+      "title": {
+        "fr-FR": "Le Carême"
+      }
+    },
+    {
+      "id": "002-chapitre-premier-historique-du-careme",
+      "title": {
+        "fr-FR": "Chapitre premier — — historique du Carême"
+      }
+    },
+    {
+      "id": "003-chapitre-ii-mystique-du-careme",
+      "title": {
+        "fr-FR": "Chapitre II — Mystique du Carême"
+      }
+    },
+    {
+      "id": "004-chapitre-iii-pratique-du-careme",
+      "title": {
+        "fr-FR": "Chapitre III — Pratique du Carême"
+      }
+    },
+    {
+      "id": "005-chapitre-iv-prieres-du-matin-et-du-soir-au-temps",
+      "title": {
+        "fr-FR": "Chapitre IV — Prières du matin et du soir au temps du Carême"
+      }
+    },
+    {
+      "id": "006-chapitre-v-de-lassistance-a-la-sainte-messe-au-t",
+      "title": {
+        "fr-FR": "Chapitre V — De l’assistance à la Sainte Messe, au temps du Carême"
+      }
+    },
+    {
+      "id": "007-chapitre-vi-pratique-de-la-sainte-communion-au-t",
+      "title": {
+        "fr-FR": "Chapitre VI — Pratique de la Sainte Communion au temps du Carême"
+      }
+    },
+    {
+      "id": "008-chapitre-vii-de-loffice-des-vepres-des-dimanches",
+      "title": {
+        "fr-FR": "Chapitre VII — De l’office des vêpres des dimanches et des fêtes, au temps du Carême"
+      }
+    },
+    {
+      "id": "009-chapitre-viii-de-loffice-de-complies-au-temps-de",
+      "title": {
+        "fr-FR": "Chapitre VIII — De l’office de complies, au temps de Carême"
+      }
+    },
+    {
+      "id": "010-le-premier-dimanche-de-careme",
+      "title": {
+        "fr-FR": "Le premier dimanche de Carême"
+      }
+    },
+    {
+      "id": "011-le-lundi-de-la-premiere-semaine-de-careme",
+      "title": {
+        "fr-FR": "Le lundi de la première semaine de Carême"
+      }
+    },
+    {
+      "id": "012-le-mardi-de-la-premiere-semaine-de-careme",
+      "title": {
+        "fr-FR": "Le mardi de la première semaine de Carême"
+      }
+    },
+    {
+      "id": "013-le-mercredi-des-quatre-temps-de-careme",
+      "title": {
+        "fr-FR": "Le mercredi des Quatre-Temps de Carême"
+      }
+    },
+    {
+      "id": "014-le-jeudi-de-la-premiere-semaine-de-careme",
+      "title": {
+        "fr-FR": "Le jeudi de la première semaine de Carême"
+      }
+    },
+    {
+      "id": "015-le-vendredi-des-quatre-temps-de-careme",
+      "title": {
+        "fr-FR": "Le vendredi des Quatre-Temps de Carême"
+      }
+    },
+    {
+      "id": "016-le-samedi-des-quatre-temps-de-careme",
+      "title": {
+        "fr-FR": "Le samedi des Quatre-Temps de Carême"
+      }
+    },
+    {
+      "id": "017-le-deuxieme-dimanche-de-careme",
+      "title": {
+        "fr-FR": "Le deuxième dimanche de Carême"
+      }
+    },
+    {
+      "id": "018-le-lundi-de-la-deuxieme-semaine-de-careme",
+      "title": {
+        "fr-FR": "Le lundi de la deuxième semaine de Carême"
+      }
+    },
+    {
+      "id": "019-le-mardi-de-la-deuxieme-semaine-de-careme",
+      "title": {
+        "fr-FR": "Le mardi de la deuxième semaine de Carême"
+      }
+    },
+    {
+      "id": "020-le-mercredi-de-la-deuxieme-semaine-de-careme",
+      "title": {
+        "fr-FR": "Le mercredi de la deuxième semaine de Carême"
+      }
+    },
+    {
+      "id": "021-le-jeudi-de-la-deuxieme-semaine-de-careme",
+      "title": {
+        "fr-FR": "Le jeudi de la deuxième semaine de Carême"
+      }
+    },
+    {
+      "id": "022-le-vendredi-de-la-deuxieme-semaine-de-careme",
+      "title": {
+        "fr-FR": "Le vendredi de la deuxième semaine de Carême"
+      }
+    },
+    {
+      "id": "023-le-samedi-de-la-deuxieme-semaine-de-careme",
+      "title": {
+        "fr-FR": "Le samedi de la deuxième semaine de Carême"
+      }
+    },
+    {
+      "id": "024-le-troisieme-dimanche-de-careme",
+      "title": {
+        "fr-FR": "Le troisième dimanche de Carême"
+      }
+    },
+    {
+      "id": "025-le-lundi-de-la-troisieme-semaine-de-careme",
+      "title": {
+        "fr-FR": "Le lundi de la troisième semaine de Carême"
+      }
+    },
+    {
+      "id": "026-le-mardi-de-la-troisieme-semaine-de-careme",
+      "title": {
+        "fr-FR": "Le mardi de la troisième semaine de Carême"
+      }
+    },
+    {
+      "id": "027-le-mercredi-de-la-troisieme-semaine-de-careme",
+      "title": {
+        "fr-FR": "Le mercredi de la troisième semaine de Carême"
+      }
+    },
+    {
+      "id": "028-le-jeudi-de-la-troisieme-semaine-de-careme",
+      "title": {
+        "fr-FR": "Le jeudi de la troisième semaine de Carême"
+      }
+    },
+    {
+      "id": "029-le-vendredi-de-la-troisieme-semaine-de-careme",
+      "title": {
+        "fr-FR": "Le vendredi de la troisième semaine de Carême"
+      }
+    },
+    {
+      "id": "030-le-samedi-de-la-troisieme-semaine-de-careme",
+      "title": {
+        "fr-FR": "Le samedi de la troisième semaine de Carême"
+      }
+    },
+    {
+      "id": "031-le-quatrieme-dimanche-de-careme",
+      "title": {
+        "fr-FR": "Le quatrième dimanche de Carême"
+      }
+    },
+    {
+      "id": "032-le-lundi-de-la-quatrieme-semaine-de-careme",
+      "title": {
+        "fr-FR": "Le lundi de la quatrième semaine de Carême"
+      }
+    },
+    {
+      "id": "033-le-mardi-de-la-quatrieme-semaine-de-careme",
+      "title": {
+        "fr-FR": "Le mardi de la quatrième semaine de Carême"
+      }
+    },
+    {
+      "id": "034-le-mercredi-de-la-quatrieme-semaine-de-careme",
+      "title": {
+        "fr-FR": "Le mercredi de la quatrième semaine de Carême"
+      }
+    },
+    {
+      "id": "035-le-jeudi-de-la-quatrieme-semaine-de-careme",
+      "title": {
+        "fr-FR": "Le jeudi de la quatrième semaine de Carême"
+      }
+    },
+    {
+      "id": "036-le-vendredi-de-la-quatrieme-semaine-de-careme",
+      "title": {
+        "fr-FR": "Le vendredi de la quatrième semaine de Carême"
+      }
+    },
+    {
+      "id": "037-le-samedi-de-la-quatrieme-semaine-de-careme",
+      "title": {
+        "fr-FR": "Le samedi de la quatrième semaine de Carême"
+      }
+    },
+    {
+      "id": "038-propre-des-saints-du-careme",
+      "title": {
+        "fr-FR": "Propre des saints du Carême"
+      }
+    },
+    {
+      "id": "039-9-mars-sainte-francoise-veuve-romaine",
+      "title": {
+        "fr-FR": "9 mars — Sainte Françoise, veuve romaine"
+      }
+    },
+    {
+      "id": "040-10-mars-les-quarante-martyrs",
+      "title": {
+        "fr-FR": "10 mars — Les quarante martyrs"
+      }
+    },
+    {
+      "id": "041-12-mars-saint-gregoire-le-grand-pape-et-docteur",
+      "title": {
+        "fr-FR": "12 mars — Saint Grégoire le grand, Pape et Docteur de l’Église"
+      }
+    },
+    {
+      "id": "042-17-mars-s-patrice-eveque-et-confesseur",
+      "title": {
+        "fr-FR": "17 mars — S. patrice, evêque et confesseur"
+      }
+    },
+    {
+      "id": "043-18-mars-saint-cyrille-de-jerusalem-eveque-et-doc",
+      "title": {
+        "fr-FR": "18 mars — Saint Cyrille de jérusalem, évêque et Docteur de l’Église"
+      }
+    },
+    {
+      "id": "044-le-meme-jour-saint-gabriel-archange",
+      "title": {
+        "fr-FR": "Le même jour. Saint Gabriel, archange"
+      }
+    },
+    {
+      "id": "045-19-mars-saint-joseph-epoux-de-la-tres-sainte-vie",
+      "title": {
+        "fr-FR": "19 mars — Saint Joseph, époux de la très Sainte Vierge et patron de l’Église universelle"
+      }
+    },
+    {
+      "id": "046-21-mars-saint-benoit-abbe",
+      "title": {
+        "fr-FR": "21 mars — Saint Benoît, abbé"
+      }
+    },
+    {
+      "id": "047-25-mars-lannonciation-de-la-tres-sainte-vierge",
+      "title": {
+        "fr-FR": "25 mars — L’annonciation de la très Sainte Vierge"
+      }
+    },
+    {
+      "id": "048-2-avril-saint-francois-de-paule-confesseur",
+      "title": {
+        "fr-FR": "2 avril — Saint François de paule, confesseur"
+      }
+    },
+    {
+      "id": "049-4-avril-saint-isidore-eveque-et-docteur-de-legli",
+      "title": {
+        "fr-FR": "4 avril — Saint Isidore, évêque et Docteur de l’Église"
+      }
+    },
+    {
+      "id": "050-5-avril-s-vincent-ferrier-confesseur",
+      "title": {
+        "fr-FR": "5 avril — S. vincent ferrier, confesseur"
+      }
+    },
+    {
+      "id": "051-9-avril-sainte-marie-egyptienne-penitente",
+      "title": {
+        "fr-FR": "9 avril — Sainte Marie égyptienne, pénitente"
+      }
+    },
+    {
+      "id": "052-28-mars-saint-jean-de-capistran-confesseur",
+      "title": {
+        "fr-FR": "28 mars — Saint Jean de capistran, confesseur"
+      }
+    }
+  ]
+}

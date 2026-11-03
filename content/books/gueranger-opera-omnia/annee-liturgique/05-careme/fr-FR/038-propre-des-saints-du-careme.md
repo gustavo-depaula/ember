@@ -1,0 +1,5 @@
+# Propre des saints du Carême
+
+Le mouvement de la fête de Pâques nous obligerait à faire reparaître ici un grand nombre de fêtes des Saints que nous avons déjà données dans le Temps de la Septuagésime, parce qu’elles peuvent, selon les années , appartenir au Carême. Mais il nous faut tendre à restreindre les dimensions de cet ouvrage ; et les pages consacrées à ces fêtes ne devant être que la répétition des notices déjà insérées au volume précédent, nous reprendrons seulement dans celui-ci au neuf mars, pour nous arrêter, le neuf avril, à la fête de sainte Marie Égyptienne, qui est la plus voisine du dernier terme du Dimanche de la Passion.
+
+Nous avons déjà remarqué que la diminution des fêtes, sur cette partie du Cycle, est un des caractères du Carême ; c’est à nous d’entrer dans l’esprit de l’Église qui veut par ce moyen développer en nous la sainte tristesse de la pénitence, et qui cependant nous console souvent encore par le souvenir des amis de Dieu, de leurs triomphes et de leur protection sur nous.
