@@ -1,0 +1,153 @@
+{
+  "id": "chesterton-what-i-saw-in-america",
+  "cover": "classic",
+  "name": {
+    "en-US": "What I Saw in America",
+    "pt-BR": "O que Vi na América"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's report of his lecture tour of the United States in 1921: what America is, a meditation in a New York hotel, Broadway, Prohibition, the American business man, the extraordinary American, Lincoln, and the spirit of America and of England.",
+    "pt-BR": "O relato de Chesterton sobre sua turnê de conferências pelos Estados Unidos em 1921: o que é a América, uma meditação num hotel de Nova York, a Broadway, a Lei Seca, o homem de negócios americano, o extraordinário americano, Lincoln, e o espírito da América e da Inglaterra."
+  },
+  "composed": "1922",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/what-i-saw-in-america",
+  "editions": {
+    "en-US": {
+      "editor": "Hodder & Stoughton",
+      "year": 1922
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/27250",
+      "edition": "What I Saw in America (Hodder & Stoughton, 1922), Project Gutenberg #27250.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1922 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-what-is-america",
+      "title": {
+        "en-US": "What is America?"
+      }
+    },
+    {
+      "id": "ch02-a-meditation-in-a-new-york-hotel",
+      "title": {
+        "en-US": "A Meditation in a New York Hotel"
+      }
+    },
+    {
+      "id": "ch03-a-meditation-in-broadway",
+      "title": {
+        "en-US": "A Meditation in Broadway"
+      }
+    },
+    {
+      "id": "ch04-irish-and-other-interviewers",
+      "title": {
+        "en-US": "Irish and other Interviewers"
+      }
+    },
+    {
+      "id": "ch05-some-american-cities",
+      "title": {
+        "en-US": "Some American Cities"
+      }
+    },
+    {
+      "id": "ch06-in-the-american-country",
+      "title": {
+        "en-US": "In the American Country"
+      }
+    },
+    {
+      "id": "ch07-the-american-business-man",
+      "title": {
+        "en-US": "The American Business Man"
+      }
+    },
+    {
+      "id": "ch08-presidents-and-problems",
+      "title": {
+        "en-US": "Presidents and Problems"
+      }
+    },
+    {
+      "id": "ch09-prohibition-in-fact-and-fancy",
+      "title": {
+        "en-US": "Prohibition in Fact and Fancy"
+      }
+    },
+    {
+      "id": "ch10-fads-and-public-opinion",
+      "title": {
+        "en-US": "Fads and Public Opinion"
+      }
+    },
+    {
+      "id": "ch11-the-extraordinary-american",
+      "title": {
+        "en-US": "The Extraordinary American"
+      }
+    },
+    {
+      "id": "ch12-the-republican-in-the-ruins",
+      "title": {
+        "en-US": "The Republican in the Ruins"
+      }
+    },
+    {
+      "id": "ch13-is-the-atlantic-narrowing",
+      "title": {
+        "en-US": "Is the Atlantic Narrowing?"
+      }
+    },
+    {
+      "id": "ch14-lincoln-and-lost-causes",
+      "title": {
+        "en-US": "Lincoln and Lost Causes"
+      }
+    },
+    {
+      "id": "ch15-wells-and-the-world-state",
+      "title": {
+        "en-US": "Wells and the World State"
+      }
+    },
+    {
+      "id": "ch16-a-new-martin-chuzzlewit",
+      "title": {
+        "en-US": "A New Martin Chuzzlewit"
+      }
+    },
+    {
+      "id": "ch17-the-spirit-of-america",
+      "title": {
+        "en-US": "The Spirit of America"
+      }
+    },
+    {
+      "id": "ch18-the-spirit-of-england",
+      "title": {
+        "en-US": "The Spirit of England"
+      }
+    },
+    {
+      "id": "ch19-the-future-of-democracy",
+      "title": {
+        "en-US": "The Future of Democracy"
+      }
+    }
+  ]
+}
