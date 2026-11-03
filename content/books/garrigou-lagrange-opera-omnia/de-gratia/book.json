@@ -1,0 +1,83 @@
+{
+  "id": "garrigou-de-gratia",
+  "cover": "quarter",
+  "name": {
+    "la": "De gratia: commentarium in Summam theologicam S. Thomae (I-II, qq. 109-114)",
+    "en-US": "On Grace (Latin): commentary on the Summa I-II, qq. 109-114",
+    "pt-BR": "De gratia (latim): comentário à Suma I-II, qq. 109-114"
+  },
+  "author": {
+    "la": "Reginaldus Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "description": {
+    "la": "Commentarium in Summam theologicam I-II, quaestiones 109-114 : de necessitate, essentia et causa gratiae, de iustificatione et merito.",
+    "en-US": "The Latin commentary on the Summa theologiae I-II, qq. 109-114: the necessity, essence and cause of grace, justification and merit.",
+    "pt-BR": "O comentário latino à Suma teológica I-II, qq. 109-114: a necessidade, essência e causa da graça, justificação e mérito."
+  },
+  "composed": "1946",
+  "work": "garrigou-lagrange/de-gratia",
+  "editions": {
+    "la": {
+      "editor": "Garrigou-Lagrange (Marietti, Turin / Desclée)",
+      "year": 1946
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/GarrigouLagrangeLatin",
+      "edition": "De gratia: commentarium in Summam theologicam S. Thomae (I-II, qq. 109-114), archive.org GarrigouLagrangeLatin, OCR text; divided by the Summa’s articles (\"Art. N — Utrum …\") found in the OCR, the indexes left out"
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "prolegomena",
+      "title": {
+        "la": "Prolegomena"
+      }
+    },
+    {
+      "id": "q1",
+      "title": {
+        "la": "Sectio 1"
+      },
+      "children": [
+        {
+          "id": "q1-a1-p1",
+          "title": {
+            "la": "Sectio 1, art. 1: UTRUM HOMO IN CRATIA CONSTITUTUS (pars 1)"
+          }
+        },
+        {
+          "id": "q1-a1-p2",
+          "title": {
+            "la": "Sectio 1, art. 1: UTRUM HOMO IN CRATIA CONSTITUTUS (pars 2)"
+          }
+        },
+        {
+          "id": "q1-a1-p3",
+          "title": {
+            "la": "Sectio 1, art. 1: UTRUM HOMO IN CRATIA CONSTITUTUS (pars 3)"
+          }
+        },
+        {
+          "id": "q1-a1-p4",
+          "title": {
+            "la": "Sectio 1, art. 1: UTRUM HOMO IN CRATIA CONSTITUTUS (pars 4)"
+          }
+        },
+        {
+          "id": "q1-a1-p5",
+          "title": {
+            "la": "Sectio 1, art. 1: UTRUM HOMO IN CRATIA CONSTITUTUS (pars 5)"
+          }
+        }
+      ]
+    }
+  ]
+}
