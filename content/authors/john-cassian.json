@@ -6,5 +6,44 @@
   "century": 5,
   "matches": [
     "John Cassian (c. 360-c. 435)"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "john-cassian-conferences",
+          "why": {
+            "en-US": "Conversations with the desert fathers on the monk's life",
+            "pt-BR": "Conversas com os padres do deserto sobre a vida monástica"
+          }
+        },
+        {
+          "work": "john-cassian-institutes",
+          "why": {
+            "en-US": "The rules of monastic life and the eight vices",
+            "pt-BR": "As regras da vida monástica e os oito vícios"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Doctrine",
+        "pt-BR": "Doutrina"
+      },
+      "works": [
+        {
+          "work": "john-cassian-incarnation-of-the-lord",
+          "why": {
+            "en-US": "On the Incarnation, against Nestorius",
+            "pt-BR": "Sobre a Encarnação, contra Nestório"
+          }
+        }
+      ]
+    }
   ]
 }
