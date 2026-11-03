@@ -1,0 +1,87 @@
+# The Ascension of Our Lord
+
+The sun of the fortieth day has risen in all his splendour. The earth, which shook with gladness at the birth of our Emmanuel, 1 now thrills with a strange emotion. The divine series of the mysteries of the Man- God is about to close. Heaven has caught up the joy of earth. The angelic choirs are preparing to receive their promised King, and their princes stand at the gates, that they may open them when the signal is given of the mighty conqueror's approach. 2 The holy souls, that were liberated from limbo on the morning of the Resurrection, are hovering round Jerusalem, waiting for the happy moment when heaven's gate, closed by Adam's sin, shall be thrown open, and they shall enter in oompany with their Redeemer: — a few hours more, and then to heaven ! Meanwhile, our risen Jesus has to visit His disciples and bid them farewell, for they are to be left for some years longer in this vale of tears.
+
+They are in the cenaole, impatiently awaiting His coming. Suddenly He appears in their midst. Of the Mother's joy, who would dare to speak P As to the disciples and the holy women, they fall down and affectionately adore the Master, who has oome to take His leave of them. He deigns to sit down to table with them ; He even condescends to eat with them, not, indeed, to give them proof of His Resurrection, for He knows that they have no further doubts of the mystery ; but now that He is about to
+
+1 fa. *cv. *cyL xcvii, 2 Ps. wriii, 7, sit at the right hand of the Father, He would give them this endearing mark of familiarity. Oh admirable repast I in which Mary, for the last time in this world, is seated side by side with her Jesus, and in which the Church, (represented by the disciples and the holy women) is honoured by the visible presidency of her Head and Spouse.
+
+What tongue could describe the respect, the reoollected mien, the attention of the guests ? With what love must they have riveted their eyes on the dear Master ! They long to hear Him speak ; His parting words will be so treasured ! He does not keep them long in suspense: He speaks, but His language is not what they perhaps expected it to be, all affection. He begins by reminding them of the incredulity wherewith they heard of His Resurrection. 1 He is going to entrust His apostles with the most sublime mission ever given to man; He would, therefore, prepare them for it by humbling them. A few days hence they are to be the lights of the world ; the world must believe what they preaoh, believe it on their word, believe it without having seen, believe what the apostles alone have seen. It is by faith that man approaches his God : they themselves were onoe without it, and Jesus would have them now express their sorrow for their former incredulity, and thus base their apostolate on humility.
+
+Then, assuming a tone of authority, such as none but a God oould take, He says to them: * Go ye into the whole world, and preach the Gospel to every creature. He that believeth and is baptized, shall be saved: but he that believeth not, shall be condemned.' 2 And how shall they accomplish this mission of preaching the Gospel to the whole world ? how shall they persuade men to believe their word ? By
+
+* St. Mark, xyi. 14, * Ibid. 16, 1$. miracles. * And these signs,' continues Jesus, ' shall follow them that believe : in My name they shall cast out devils ; they shall speak with new tongues ; they shall take up serpents ; and if they shall drink any deadly thing, it shall not hurt them ; they shall lay their hands upon the sick, and they shall recover/ 1 He would have miracles to be the foundation of His Church, just as He had made them the argument of His own divine mission. The suspension of the laws of nature proves to us that it is God who speaks ; we must receive the word, and humbly believe it.
+
+Here, then, we have men unknown to the world and devoid of every human means, and yet commissioned to conquer the earth and make it acknowledge Jesus as its King ! The world ignores their very existence. Tiberius, who sits on the imperial throne, trembling at every shadow of conspiracy, little suspects that there is being prepared an expedition whioh is to conquer the Roman empire. But these warriors must have their armour, and the armour must be of heaven's own tempering. Jesus tells them that they are to receive it a few days hence. * Stay,' says He, • in the city, till ye be endued with power from on high.' 2 But what is this armour ? Jesus explains it to them. He reminds them of the Father's promise ; ' that promise,' says He, ' which ye have heard by my mouth; for John, indeed, baptized with water; but ye shall be baptized with the Holy Ghost not many days hence.' 3
+
+But the hour of separation is come. Jesus rises: His blessed Mother, and the hundred and twenty persons assembled there, prepare to follow Him. The cenacle is situated on Mount Sion, which is one of the two hills within the walls of Jerusalem. The holy group traverses the city, making for the eastern gate,
+
+1 &t ? Mark, xvi. 17, 18. 2 St. Luke, xxiy, 49. 8 Acts, i. 4, 6.
+
+PASCHAL TIMB which opens on the valley of Josaphat. It is the last time that Jesus walks through the faithless city. He is invisible to the eyes of the people who denied Him, but visible to His disciples, and goes before them, as heretofore the pillar of fire led on the Israelites. How beautiful and imposing a sight ! Mary, the disciples, and the holy women accompanying Jesus in His heavenward journey, which is to lead Him to the right hand of His eternal Father ! It was commemorated in the middle ages by a solemn procession before the Mass of Ascension day. What happy times were those, when Christians took delight in honouring every action of our Redeemer! They could not be satisfied as we are, with a few vague notions, which can produce nothing but an equally vague devotion.
+
+They reflected on the thoughts whioh Mary must have had during these last moments of her Son's presence. They used to ask themselves, which of the two sentiments was uppermost in her maternal heart, — sadness, that she was to see her Jesus no mor, or joy, that He was now going to enter into the glory He so infinitely deserved. The answer was soon found: had not Jesus said to His disciples: 4 If ye loved Me, ye would indeed be glad, because I go to the Father.' 1 Now, who loved Jesus as Mary did ? The Mother's heart, then, was full of joy at parting with Him. How was she to think of herself, when there was question of the triumph of her Son and her Gtod P Could she that had witnessed the scene of Calvary, do less than desire to see Him glorified, whom she knew to be the sovereign Lord of all things, — Him whom, but a short time ago, she had seen rejected by His people, blasphemed, and dying the most ignominious and cruel of deaths P
+
+1 St John ? xiv. 28.
+
+The holy group has traversed the valley of Josaphat ; it has crossed the brook Cedron, and is moving onwards to Mount Olivet. What recollections would orowd on the mind ! This torrent, of which Jesus had drunk on the day of His humiliation, is now the path He takes to triumph and glory. The royal prophet had foretold it. 1 On their left, are the garden and the cave, where He suffered His agony and accepted the bitter chalice of His Passion. After having come as far as what St. Luke calls the distance of the journey allowed to the Jews on a Sabbath-day, 2 they are close to Bethania, that favoured village, where Jesus used to accept hospitality at the hands of Lazarus and his two sisters. This part of Mount Olivet commands a view of Jerusalem. The sight of its temple and palaces makes the disciples proud of their earthly city: they have forgotten the curse uttered against her; they seem to have forgotten, too, that Jesus has just made them oitizens and oonquerors of the whole world. They begin to dream of the earthly grandeur of Jerusalem, and, turning to their divine Master, they venture to ask Him this question : * Lord, wilt Thou, at this time, restore again the kingdom to Israel ?' 3
+
+Jesus answers them with a tone of severity : ' It is not for you to know the times or moments which the Father hath put in His own power.' 4 These words do not destroy the hope that J erusalem is to be restored by the Christian Israel ; but, as this is not to happen till the world is drawing towards its end, there is nothing that requires our Saviour's revealing the secret. What ought to be uppermost in the mind of the disciples, is the conversion of the pagan world, the establishment of the Church. J esus reminds them of the mission He has just given to them: ' Te shall iPa.cix. 7. 2 Acts, i. 12. *Jbid. 6, * Ibid. 7. receive', says He, 'the power of the Holy Q-host coming upon you ; and ye shall be witnesses unto me in Jerusalem, and in all Judea, and Samaria, and even to the uttermost part of the earth.' 1
+
+According to a tradition, which has been handed down from the earliest ages of Christianity, 2 it is midday, the same hour at which He was raised up, when nailed to His cross. Giving His blessed Mother a look of filial affection, and another of fond farewell to the rest of the group that stand around Him, J esus raises up His hands and blesses them all. While thus blessing them, He is raised up from the ground whereon He stands, and ascends into heaven. 3 Their eyes follow Him, until a cloud comes and receives Him out of their sight. 4
+
+Yes, Jesus is gone ! The earth has lost her Emmanuel ! — For four thousand years had He been expeoted: the patriarchs and prophets had desired His coming with all the fervour of their souls. He came. His love made Him our captive in the chaste womb of the Virgin of Nazareth ; it was there He first received our adorations. Nine months after, the blessed Mother offered Him to our joyous love in the stable at Bethlehem. We followed Him into Egypt ; we returned with Him ; we dwelt with Him at Nazareth. When He began the three years of His public life, we kept close to His steps ; we delighted in being near Him, we listened to His preaching and parables, we saw His miracles. The malice of His enemies reached its height ; and the time came wherein He was to give us the last and grandest proof of the love that had brought Him from heaven, by dying for us on a cross. We kept near Him as He died, and our souls were purified by the Blood that flowed from
+
+» Acts, i. 8. 8 St. Luke, xxiy. 51.
+
+* Constit. Apost. lib. v. cap. xi*.
+
+* Acts, i. 9.
+
+His wounds. On the third day, He rose again from His grave, and we stood by exulting in His triumph over death, for that triumph won for us a like resurrection. During the forty days He has deigned to spend with us since His Resurrection, our faith has made us cling to Him: we would fain have kept Him with us for ever, — but the hour is come: He has left us. Yes, our dearest Jesus is gone ! Oh happy the souls that He had taken from limbo ! They have gone with Him, and, for all eternity, are to enjoy the heaven of His visible presence.
+
+The disciples are still steadfastly looking up towards heaven, when lo ! two angels, clad in white robes, appear to them, saying: 4 Ye men of Galilee ! why stand ye looking up to heaven ? This Jesus, who is taken up from you into heaven, shall so come as ye have seen Him going into heaven I 91 He has ascend- | ^ ed, a Saviour ; He is to return, a Judge: between these I two events is comprised the whole life of the Church on earth. We are therefore living under the reign of Jesus as our Saviour, for He has said: ' God sent not His Son into the world to judge the world, but that the world might be saved by Him:' 2 and to carry out this merciful design He has just been giving to His disciples the mission to go throughout the whole world, and invite men, while yet there is time, to accept the mystery of salvation.
+
+What a task is this He imposes, on the apostles ! And now that they are to begin their work, He leaves them ! They return from Mount Olivet, and Jesus is not with them ! And yet, they are not sad ; they have Mary to console them; her unselfish generosity is their model, and well do they learn the lesson.
+
+They love J esus ; they rejoice at the thought of His having entered into His rest. 4 They went baok into
+
+1 Acts, i. 10; 11. 2 St. John, iii. 17.
+
+Jerusalem with great joy.' 1 These few simple words of the Gospel indicate the spirit of this admirable feast of the Ascension : it is a festival which, notwithstanding its soft tinge of sadness, is, more than any other, expressive of joy and triumph. During its octave, we will endeavour to describe its mystery and magnificenoe : we would only observe for the present, that this solemnity is the completion of the mysteries of our redemption ; that it is one of those which were instituted by the apostles ; 2 and finally, that it has impressed a oharaoter of saoredness on the Thursday of each week, the day already so highly honoured by the institution of the Eucharist.
+
+We have alluded to the procession, whereby our Catholio forefathers used, on this feast, to oelebrate the journey of Jesus and His disoiples to Mount Olivet. Another oustom observed on the Ascension, was the solemn blessing given to bread and to the new fruits : it was commemorative of the farewell repast taken by Jesus in the cenacle. Let us imitate the piety of the ages of faith, when Christians loved to honour the very least of our Saviour's actions, and, so to speak, make them their own, by thus interweaving the minutest details of His life into their own. What earnest reality of love and adoration was given to our Jesus in those olden times, when His being sovereign Lord and Redeemer was the ruling principle of both individual and social life ! Now-a-days, we may follow the principle, as fervently as we please, in the privacy of our own consciences, or, at most, in our own homes ; but publicly, and when we are before the world, no ! To say nothing of the evil results of this modern limitation of Jesus' rights as our King, what could be more sacrilegiously unjust to Him who deserves our whole servioe,
+
+1 St. Luke, xxiv. 52. 2 St. Augustine, Bp. ad Januar, everywhere and at all times? The angels said to the apostles: ' This Jesus shall come, as ye have seen Him going into heaven:' happy we, if, during His absence, we shall have so unreservedly loved and served Him, as to be able to meet Him with confidence when He comes to judge us.
+
+We will not here insert the Offioe of first Vespers, inasmuoh as this festival is fixed for the Thursday ; so that its vigil can never fall on a Sunday, and the faithful, consequently, have not the habit of assisting at them. Moreover, with the exoeption of the versiole and the Magnificat antiphon, the first and second Vespers are exactly alike.
+
+MASS
+
+The Roman missal gives St. Peter's as the Station for to-day. It was a happy thought to choose this basilica, inasmuch as it possesses the tomb of one of the chief witnesses of Jesus' Ascension. It is still the stational church ; but for now several centuries, the Pope and sacred college of Cardinals repair to the Lateran basilica. It is in this venerable church, dedicated by Constantino to the Saviour of the world, ' that is closed our yearly series of the mysteries whereby the Son of God wrought our salvation.
+
+In these two magnifioent basilicas, as well as in the humblest church of Christendom, the liturgical symbol of the feast is the Paschal Candle. It was first lighted on the night of the Resurrection, and was to remind us, by its forty days' presence, of the time - which Jesus spent among His brethren, after He had risen from the grave. The eyes of the faithful are fixed upon it, and its light seems to be burning more brightly, now that we are about to lose it. Let us bless our holy mother Church, whom the Holy Ghost has taught to instruct us and excite us to devotiou by so many admirable symbols. Let us glorify our divine master, who says, speaking of Himself: 'I am the light of the world/ 1
+
+The Introit is the solemn announcement of to-day's mystery. It is formed of the angels' words to the apostles : Jesns has asoended into heaven ; He is to come down again at the last day.
+
+INTROIT
+
+Viri Galilaei, quid admiramini, aspicientes in coelum? Alleluia: quemadmodum vidistis eum ascendentem in coelum, ita veniet. Alle-
+
+Ye men of Galilee! why look ye wondering, up to heaven? Alleluia. As ye have seen him ascending into heaven, so shall he come. Alleluia, alleluia, alleluia, alleluia. luia, alleluia.
+
+Ps. Omnesgentesplaudite Ps. Clap your hands, all ye manibus: jubilate Deo in nations: shout unto God, with voceexsultationis. f. Gloria the voice of joy. f. Glory.
+
+Patri. Viri Galilaei. &c. Ye men, &c.
+
+In the Collect, the Church sums up the prayers of her children, and beseeches God to grant them the grace of keeping their hearts fixed on their Redeemer, and of desiring to be united with Him in that home above, which He has gone to prepare for them.
+
+COLLECT
+
+Concede, quaesumus, om- Grant, we beseech thee, O nipotens Deus: ut qui ho- almighty God, that we, who dierna die Unigenitum tuum believe that thy only-begotten
+
+Redemptorem nostrum ad Son, our Redeemer, ascended ccelos ascendisse credimus, this day into heaven, may also ipsi quoque mente in coele- dwell there in desire. Through stibus habitemus. Per eum- the same &c. dem.
+
+EPISTLE
+
+Lectio Actuum Apostolo- Lesson from the Acts of the rum. Apostles.
