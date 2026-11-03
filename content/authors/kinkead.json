@@ -6,5 +6,22 @@
   "century": 19,
   "matches": [
     "Rev. Thomas L. Kinkead"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Catechism",
+        "pt-BR": "Catecismo"
+      },
+      "works": [
+        {
+          "work": "kinkead/explanation-of-the-baltimore-catechism",
+          "why": {
+            "en-US": "Baltimore Catechism No. 4 in thirty-seven lessons",
+            "pt-BR": "Catecismo de Baltimore n.º 4, em trinta e sete lições"
+          }
+        }
+      ]
+    }
   ]
 }
