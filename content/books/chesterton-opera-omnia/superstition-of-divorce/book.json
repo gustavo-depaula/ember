@@ -1,0 +1,93 @@
+{
+  "id": "chesterton-superstition-of-divorce",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Superstition of Divorce",
+    "pt-BR": "A Superstição do Divórcio"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's defence of the indissolubility of marriage against the divorce reformers of his day: the superstition of divorce, the story of the family and of the vow, the tragedies of marriage and the vista of divorce. A short book on the Catholic doctrine of marriage argued from common sense.",
+    "pt-BR": "A defesa de Chesterton da indissolubilidade do matrimônio contra os reformadores do divórcio de seu tempo: a superstição do divórcio, a história da família e do voto, as tragédias do casamento e a perspectiva do divórcio. Um livro breve sobre a doutrina católica do matrimônio defendida pelo bom senso."
+  },
+  "composed": "1920",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/superstition-of-divorce",
+  "editions": {
+    "en-US": {
+      "editor": "Chatto & Windus",
+      "year": 1920
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/62680",
+      "edition": "The Superstition of Divorce (Chatto & Windus, 1920), Project Gutenberg #62680.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1920 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-superstition-of-divorce",
+      "title": {
+        "en-US": "I. The Superstition of Divorce"
+      }
+    },
+    {
+      "id": "ch02-the-superstition-of-divorce",
+      "title": {
+        "en-US": "II. The Superstition of Divorce"
+      }
+    },
+    {
+      "id": "ch03-the-superstition-of-divorce",
+      "title": {
+        "en-US": "III. The Superstition of Divorce"
+      }
+    },
+    {
+      "id": "ch04-the-superstition-of-divorce",
+      "title": {
+        "en-US": "IV. The Superstition of Divorce"
+      }
+    },
+    {
+      "id": "ch05-the-story-of-the-family",
+      "title": {
+        "en-US": "V. The Story of the Family"
+      }
+    },
+    {
+      "id": "ch06-the-story-of-the-vow",
+      "title": {
+        "en-US": "VI. The Story of the Vow"
+      }
+    },
+    {
+      "id": "ch07-the-tragedies-of-marriage",
+      "title": {
+        "en-US": "VII. The Tragedies of Marriage"
+      }
+    },
+    {
+      "id": "ch08-the-vista-of-divorce",
+      "title": {
+        "en-US": "VIII. The Vista of Divorce"
+      }
+    },
+    {
+      "id": "ch09-conclusion",
+      "title": {
+        "en-US": "IX. Conclusion"
+      }
+    }
+  ]
+}
