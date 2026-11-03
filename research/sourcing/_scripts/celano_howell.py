@@ -9,7 +9,7 @@ Part II ch. I-CLXVII -> cap-020..186. Howell has no Treatise of the Miracles.
 
 Running heads ("THE SECOND LIFE OF S. FRANCIS", "HE FORETELLS FAMINE 197") are dropped; Howell's few footnotes are kept.
 The drop capital of each chapter's first word is garbled in every scan ("~^OR", "T T OLY" with "A A" on the next
-line); the first words are restored from the table OPEN (research/sourcing/_skipped/celano/open.tsv), read off the
+line); the first words are restored from the table OPEN (celano_howell_open.tsv, beside this script), read off the
 three scans and checked against the Latin's first words.
 usage: python3.13 celano_howell.py"""
 import json, os, re, sys
@@ -18,7 +18,7 @@ from en_common import join_lines, inW  # noqa: E402
 
 ROOT = '/Users/gustavo/Documents/prayer'
 SRC = ROOT + '/research/sourcing/_skipped/samples/livesofsfranciso00thom.txt'
-OPENF = ROOT + '/research/sourcing/_skipped/celano/open.tsv'
+OPENF = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'celano_howell_open.tsv')
 FR = ROOT + '/content/books/francis-of-assisi-opera-omnia'
 ROMV = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100}
 
