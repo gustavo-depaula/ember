@@ -9,5 +9,265 @@
     "St. John Eudes",
     "Saint Jean Eudes",
     "John Eudes"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "The great book of his missions, then two short devotional texts.",
+        "pt-BR": "O grande livro de suas missões, depois dois textos devocionais breves."
+      },
+      "works": [
+        {
+          "work": "john-eudes/vie-et-royaume-de-jesus",
+          "why": {
+            "en-US": "His great book on making Jesus live in the Christian soul",
+            "pt-BR": "Seu grande livro para fazer Jesus viver na alma cristã"
+          }
+        },
+        {
+          "work": "john-eudes/contrat-avec-dieu-par-le-bapteme",
+          "why": {
+            "en-US": "The promises of Baptism, with an exercise of renewal",
+            "pt-BR": "As promessas do Batismo, com um exercício de renovação"
+          }
+        },
+        {
+          "work": "john-eudes/entretiens-interieurs",
+          "why": {
+            "en-US": "Colloquies of the soul with God",
+            "pt-BR": "Colóquios da alma com Deus"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Devotion to the Hearts of Jesus and Mary",
+        "pt-BR": "Devoção aos Corações de Jesus e Maria"
+      },
+      "note": {
+        "en-US": "The work for which he is best known.",
+        "pt-BR": "A obra pela qual é mais conhecido."
+      },
+      "works": [
+        {
+          "work": "john-eudes/coeur-admirable",
+          "why": {
+            "en-US": "His twelve-book masterpiece, with the English Sacred Heart book",
+            "pt-BR": "Sua obra-prima em doze livros, com o livro inglês sobre o Sagrado Coração"
+          }
+        },
+        {
+          "work": "john-eudes/opuscules-sacres-coeurs",
+          "why": {
+            "en-US": "Shorter works on the Sacred Hearts and their confraternity",
+            "pt-BR": "Obras menores sobre os Sagrados Corações e sua confraria"
+          }
+        },
+        {
+          "work": "john-eudes/petits-offices",
+          "why": {
+            "en-US": "Little offices of the Hearts, the Immaculate Conception and more",
+            "pt-BR": "Pequenos ofícios dos Corações, da Imaculada Conceição e outros"
+          }
+        },
+        {
+          "work": "john-eudes/enfance-admirable",
+          "why": {
+            "en-US": "The childhood of the Virgin Mary, in three parts",
+            "pt-BR": "A infância da Virgem Maria, em três partes"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Prayer and the Christian life",
+        "pt-BR": "Oração e vida cristã"
+      },
+      "note": {
+        "en-US": "Practical books for the faithful, in English and French.",
+        "pt-BR": "Livros práticos para os fiéis, em inglês e francês."
+      },
+      "works": [
+        {
+          "work": "john-eudes/meditations-on-various-subjects",
+          "why": {
+            "en-US": "Meditations on prayer and for each day of the week",
+            "pt-BR": "Meditações sobre a oração e para cada dia da semana"
+          }
+        },
+        {
+          "work": "john-eudes/meditations-sur-l-humilite",
+          "why": {
+            "en-US": "Meditations on humility, with the Profession of Humility",
+            "pt-BR": "Meditações sobre a humildade, com a Profissão de Humildade"
+          }
+        },
+        {
+          "work": "john-eudes/exercice-de-piete",
+          "why": {
+            "en-US": "A small manual of daily prayer, confession and communion",
+            "pt-BR": "Pequeno manual de oração diária, confissão e comunhão"
+          }
+        },
+        {
+          "work": "john-eudes/catechisme-de-la-mission",
+          "why": {
+            "en-US": "The catechism he used in his missions",
+            "pt-BR": "O catecismo que usava em suas missões"
+          }
+        },
+        {
+          "work": "john-eudes/servir-la-messe",
+          "why": {
+            "en-US": "Instruction and prayers for serving Mass",
+            "pt-BR": "Instrução e orações para servir à Missa"
+          }
+        },
+        {
+          "work": "john-eudes/lieux-saints",
+          "why": {
+            "en-US": "A strong plea for respect for churches and cemeteries",
+            "pt-BR": "Um veemente apelo ao respeito por igrejas e cemitérios"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "For priests and confessors",
+        "pt-BR": "Para padres e confessores"
+      },
+      "note": {
+        "en-US": "His books for the clergy and for missionaries.",
+        "pt-BR": "Seus livros para o clero e os missionários."
+      },
+      "works": [
+        {
+          "work": "john-eudes/the-priest",
+          "why": {
+            "en-US": "English selection on the dignity and duties of the priest",
+            "pt-BR": "Seleção inglesa sobre a dignidade e os deveres do padre"
+          }
+        },
+        {
+          "work": "john-eudes/memorial-de-la-vie-ecclesiastique",
+          "why": {
+            "en-US": "His book for priests and clerics, in French",
+            "pt-BR": "Seu livro para padres e clérigos, em francês"
+          }
+        },
+        {
+          "work": "john-eudes/predicateur-apostolique",
+          "why": {
+            "en-US": "The qualities of the preacher and the method of sermons",
+            "pt-BR": "As qualidades do pregador e o método dos sermões"
+          }
+        },
+        {
+          "work": "john-eudes/bon-confesseur",
+          "why": {
+            "en-US": "The confessor's qualities and conduct toward penitents",
+            "pt-BR": "As qualidades do confessor e sua conduta com os penitentes"
+          }
+        },
+        {
+          "work": "john-eudes/avertissements-aux-confesseurs",
+          "why": {
+            "en-US": "Short counsels for confessors on missions",
+            "pt-BR": "Breves conselhos aos confessores de missões"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Letters",
+        "pt-BR": "Cartas"
+      },
+      "works": [
+        {
+          "work": "john-eudes/letters-and-shorter-works",
+          "why": {
+            "en-US": "243 letters and shorter works, in English",
+            "pt-BR": "243 cartas e escritos menores, em inglês"
+          }
+        },
+        {
+          "work": "john-eudes/lettres",
+          "why": {
+            "en-US": "The letters in French, to his priests and sisters",
+            "pt-BR": "As cartas em francês, a seus padres e irmãs"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Rules, constitutions and community life",
+        "pt-BR": "Regras, constituições e vida comunitária"
+      },
+      "note": {
+        "en-US": "For the Congregation of Jesus and Mary and Our Lady of Charity.",
+        "pt-BR": "Para a Congregação de Jesus e Maria e Nossa Senhora da Caridade."
+      },
+      "works": [
+        {
+          "work": "john-eudes/manuel-communaute-ecclesiastique",
+          "why": {
+            "en-US": "Manual of exercises for an ecclesiastical community",
+            "pt-BR": "Manual de exercícios para uma comunidade eclesiástica"
+          }
+        },
+        {
+          "work": "john-eudes/constitutions-cjm",
+          "why": {
+            "en-US": "French Constitutions of the Congregation of Jesus and Mary",
+            "pt-BR": "Constituições francesas da Congregação de Jesus e Maria"
+          }
+        },
+        {
+          "work": "john-eudes/regulae-congregationis",
+          "why": {
+            "en-US": "The Latin Rules of the same Congregation",
+            "pt-BR": "As Regras latinas da mesma Congregação"
+          }
+        },
+        {
+          "work": "john-eudes/constitutions-notre-dame-de-charite",
+          "why": {
+            "en-US": "Constitutions, Rule and Customary of the sisters",
+            "pt-BR": "Constituições, Regra e Costumeiro das irmãs"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Liturgy and minor writings",
+        "pt-BR": "Liturgia e escritos menores"
+      },
+      "works": [
+        {
+          "work": "john-eudes/offices-propres",
+          "why": {
+            "en-US": "Offices and Masses he composed for feasts, in Latin and French",
+            "pt-BR": "Ofícios e Missas que compôs para festas, em latim e francês"
+          }
+        },
+        {
+          "work": "john-eudes/opuscules",
+          "why": {
+            "en-US": "Thirty-three short pieces, including the Vow and petitions",
+            "pt-BR": "Trinta e três peças breves, entre elas o Voto e petições"
+          }
+        }
+      ]
+    }
   ]
 }
