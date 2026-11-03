@@ -1,0 +1,318 @@
+{
+  "id": "garrigou-perfection-chretienne-contemplation",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Perfection chrétienne et contemplation selon saint Thomas d’Aquin et saint Jean de la Croix",
+    "en-US": "Christian Perfection and Contemplation according to St. Thomas Aquinas and St. John of the Cross",
+    "pt-BR": "Perfeição cristã e contemplação segundo São Tomás de Aquino e São João da Cruz"
+  },
+  "author": {
+    "fr-FR": "Réginald Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "description": {
+    "fr-FR": "Le livre qui lança le débat sur la contemplation : la perfection chrétienne consiste surtout dans la charité, et la contemplation infuse des mystères de la foi se trouve dans la voie normale de la sainteté. Problème mystique actuel, doctrines fondamentales de saint Thomas, perfection, contemplation infuse, appel à la vie mystique, et appendices. Première édition (Éditions de la Vie Spirituelle, 1923).",
+    "en-US": "The book that opened the debate on contemplation: Christian perfection consists especially in charity, and infused contemplation of the mysteries of faith lies in the normal way of sanctity. The present mystical problem, the fundamental doctrines of St. Thomas, perfection, infused contemplation and the call to the mystical life. French of 1923 with the Herder English of 1937; the translation omits the last chapter and the appendices of the French.",
+    "pt-BR": "O livro que abriu o debate sobre a contemplação: a perfeição cristã consiste sobretudo na caridade, e a contemplação infusa dos mistérios da fé está na via normal da santidade. O problema místico atual, as doutrinas fundamentais de São Tomás, a perfeição, a contemplação infusa, o chamado à vida mística e apêndices."
+  },
+  "composed": "1923",
+  "work": "garrigou-lagrange/perfection-chretienne-et-contemplation",
+  "editions": {
+    "fr-FR": {
+      "editor": "Éditions de la Vie Spirituelle, Saint-Maximin (2 vol.)",
+      "year": 1923
+    },
+    "en-US": {
+      "translator": "Sr. M. Timothea Doyle, O.P.",
+      "year": 1937
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/perfectionchrtie01garr",
+      "edition": "Perfection chrétienne et contemplation, t. I, Éditions de la Vie Spirituelle, Saint-Maximin, 1923 (Toronto scan, OCR text)"
+    },
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/perfectionchrtie02garr",
+      "edition": "Id., t. II, 1923; the alphabetical index is not imported"
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/christianperfection_202001",
+      "edition": "Christian Perfection and Contemplation, tr. Sr. M. Timothea Doyle, O.P., St. Louis: B. Herder, 1937 (Claremont scan, OCR text); chapters VI of the French and the appendices are not in the translation"
+    }
+  ],
+  "languages": [
+    "fr-FR",
+    "en-US"
+  ],
+  "toc": [
+    {
+      "id": "intro",
+      "title": {
+        "fr-FR": "Introduction",
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "ch1",
+      "title": {
+        "fr-FR": "Chapitre I. Le Problème mystique actuel",
+        "en-US": "Chapter I. The Actual Mystical Problem ARTICLE I"
+      },
+      "children": [
+        {
+          "id": "ch1-a1",
+          "title": {
+            "fr-FR": "Article I. Objet et méthode de la théologie ascetique et mystique",
+            "en-US": "Article I. Object and Method of Ascetical and Mystical Theology"
+          }
+        },
+        {
+          "id": "ch1-a2",
+          "title": {
+            "fr-FR": "Article II. La distinction de l’ascétique et de la mystique",
+            "en-US": "Article II. The Distinction Between Ascetical Theology and Mystical Theology and the Unity of Spiritual Doctrine"
+          }
+        },
+        {
+          "id": "ch1-a3",
+          "title": {
+            "fr-FR": "Article III. Sens des termes du problème",
+            "en-US": "Article III. Meaning of the Terms of the Problem"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": {
+        "fr-FR": "Chapitre II. La Mystique",
+        "en-US": "Chapter II. Mystical Theology and the Fundamental Doctrines of St. Thomas"
+      },
+      "children": [
+        {
+          "id": "ch2-a1",
+          "title": {
+            "fr-FR": "Article I. Vie intellectuelle naturelle et vie surnaturelle",
+            "en-US": "Article I. Natural Intellectual Life and Supernatural Life"
+          }
+        },
+        {
+          "id": "ch2-a2",
+          "title": {
+            "fr-FR": "Article II. La mystique et la surnaturalité essentielle de la foi infuse",
+            "en-US": "Article II. Mystical Theology and the Essentially Supernatural Character of Infused Faith"
+          }
+        },
+        {
+          "id": "ch2-a3",
+          "title": {
+            "fr-FR": "Article III. La mystique",
+            "en-US": "Article III. Mystical Theology and the Doctrine of St. Thomas on the Efficacy of Grace"
+          }
+        },
+        {
+          "id": "ch2-a4",
+          "title": {
+            "fr-FR": "Article IV. Les conséquences pratiques de la doctrine de saint thomas sur la grace",
+            "en-US": "Article IV. The Practical Consequences of the Doctrine of St. Thomas"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": {
+        "fr-FR": "Chapitre III. La pleine perfection de la vie chrétienne",
+        "en-US": "Chapter III. The Full Perfection of Christian Life ARTICLE I"
+      },
+      "children": [
+        {
+          "id": "ch3-a1",
+          "title": {
+            "fr-FR": "Article I. La Perfection chrétienne ou la vie éternelle commencée",
+            "en-US": "Article I. Christian Perfection, or the Beginning of Eternal Life"
+          }
+        },
+        {
+          "id": "ch3-a2",
+          "title": {
+            "fr-FR": "Article II. La perfection chrétienne consiste spécialement dans la charité",
+            "en-US": "Article II. Christian Perfection Consists Especially in Charity"
+          }
+        },
+        {
+          "id": "ch3-a3",
+          "title": {
+            "fr-FR": "Article III. La pleine perfection de la charité",
+            "en-US": "Article III. The Full Perfection of Charity Presupposes the Passive Purification of the Senses and of the Spirit"
+          }
+        },
+        {
+          "id": "ch3-a4",
+          "title": {
+            "fr-FR": "Article IV. La pleine perfection de la vie chrétienne",
+            "en-US": "Article IV. According to Tradition the Full Perfection of Christian Life Belongs to the Mystical Order"
+          }
+        },
+        {
+          "id": "ch3-a5",
+          "title": {
+            "fr-FR": "Article V. La Perfection et le précepte de l’amour de Dieu",
+            "en-US": "Article V. Perfection and the Precept of the Love of God"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": {
+        "fr-FR": "Chapitre IV. La Contemplation et ses degrés",
+        "en-US": "Chapter IV. Contemplation and Its Degrees"
+      },
+      "children": [
+        {
+          "id": "ch4-intro",
+          "title": {
+            "fr-FR": "Introduction",
+            "en-US": "Introduction"
+          }
+        },
+        {
+          "id": "ch4-a1",
+          "title": {
+            "fr-FR": "Article I. La prière en général et l’oraison commune",
+            "en-US": "Article I. Prayer in General and Common Prayer"
+          }
+        },
+        {
+          "id": "ch4-a2",
+          "title": {
+            "fr-FR": "Article II. Divers sens des mots « contemplation » , « ordinaire » et « extraordinaire ))",
+            "en-US": "Article II. Meaning of “Contemplation,” “Ordinary,” “Extraordinary”"
+          }
+        },
+        {
+          "id": "ch4-a3",
+          "title": {
+            "fr-FR": "Article III. Description de la contemplation infuse et de ses degrés, selon sainte therese",
+            "en-US": "Article III. Description of Infused Contemplation and its Degrees According to St. Teresa"
+          }
+        },
+        {
+          "id": "ch4-a4",
+          "title": {
+            "fr-FR": "Article IV. Ce que la contemplation infuse",
+            "en-US": "Article IV. What Infused Contemplation Does Not Essentially Require"
+          }
+        },
+        {
+          "id": "ch4-a5",
+          "title": {
+            "fr-FR": "Article V. Rapport essentiel de la contemplation infuse",
+            "en-US": "Article V. The Essential Relation of Infused Contemplation and of The Mystical Life with the Gifts of The Holy Ghost"
+          }
+        },
+        {
+          "id": "ch4-a6",
+          "title": {
+            "fr-FR": "Article VI. Caractère essentiel de la contemplation infuse. Comment procède-t-elle du don de sagesse et de la foi?",
+            "en-US": "Article VI. The Essential Character of Infused Contemplation;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": {
+        "fr-FR": "Chapitre V. L’Appel à la contemplation ou à la vie mystique",
+        "en-US": "Chapter V. The Call to Contemplation or to the Mystical Life"
+      },
+      "children": [
+        {
+          "id": "ch5-a1",
+          "title": {
+            "fr-FR": "Article I. Les divers sens du mot appel",
+            "en-US": "Article I. The Different Meanings of the Word \"Call”"
+          }
+        },
+        {
+          "id": "ch5-a2",
+          "title": {
+            "fr-FR": "Article II. L’appel général et éloigné a la contemplation MYSTIQUE",
+            "en-US": "Article II. The General and Remote Call to Mystical Contemplation"
+          }
+        },
+        {
+          "id": "ch5-a3",
+          "title": {
+            "fr-FR": "Article III. L’Appel individuel et prochain a la contemplation",
+            "en-US": "Article III. The Individual and Proximate Call to Contemplation"
+          }
+        },
+        {
+          "id": "ch5-a4",
+          "title": {
+            "fr-FR": "Article IV. Conditions ordinairement requises a la contemplation infuse",
+            "en-US": "Article IV. The Conditions Ordinarily Required for Infused Contemplation"
+          }
+        },
+        {
+          "id": "ch5-a5",
+          "title": {
+            "fr-FR": "Article V. Les graces extraordinaires qui accompagnent parfois la contemplation infuse",
+            "en-US": "Article V. Extraordinary Graces that Sometimes Accompany Infused Contemplation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": {
+        "fr-FR": "Chapitre VI. Synthèse et confirmation"
+      },
+      "children": [
+        {
+          "id": "ch6-a1",
+          "title": {
+            "fr-FR": "Article I. L’autorité de saint Thomas en théologie mystique et les questions de méthode"
+          }
+        },
+        {
+          "id": "ch6-a2",
+          "title": {
+            "fr-FR": "Article II. La Théologie de saint Thomas et la spiritualité"
+          }
+        },
+        {
+          "id": "ch6-a3",
+          "title": {
+            "fr-FR": "Article III. L’union de la vie intérieure et de la vie intellectuelle"
+          }
+        },
+        {
+          "id": "ch6-a4",
+          "title": {
+            "fr-FR": "Article IV. La contemplation et l’Eucharistie a l’école de la Bse Vierge, Mère de Dieu"
+          }
+        },
+        {
+          "id": "ch6-a5",
+          "title": {
+            "fr-FR": "Article V. L’Accord des Maîtres"
+          }
+        }
+      ]
+    },
+    {
+      "id": "appendices",
+      "title": {
+        "fr-FR": "Appendices"
+      }
+    }
+  ]
+}
