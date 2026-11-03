@@ -1,0 +1,272 @@
+{
+  "id": "garrigou-predestination",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "La prédestination des saints et la grâce (traduction anglaise)",
+    "en-US": "Predestination",
+    "pt-BR": "A predestinação dos santos e a graça (tradução inglesa)"
+  },
+  "author": {
+    "fr-FR": "Réginald Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "description": {
+    "en-US": "The Thomist doctrine of predestination: the mystery of God’s love, the divine will and its efficacy, grace and free will, and the objections of Molinism, in the light of St. Thomas and Scripture. Dom Bede Rose’s translation of La prédestination des saints et la grâce (1936), Herder 1939.",
+    "pt-BR": "A doutrina tomista da predestinação: o mistério do amor de Deus, a vontade divina e sua eficácia, a graça e o livre-arbítrio. Tradução inglesa de Dom Bede Rose (Herder, 1939) de La prédestination des saints et la grâce (1936)."
+  },
+  "composed": "1936",
+  "work": "garrigou-lagrange/predestination-des-saints",
+  "editions": {
+    "en-US": {
+      "translator": "Dom Bede Rose, O.S.B.",
+      "year": 1939
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/Lagrange-English",
+      "edition": "Predestination, tr. Dom Bede Rose, O.S.B., St. Louis: B. Herder, 1939 (archive.org Lagrange-English); the French original is not open"
+    }
+  ],
+  "languages": [
+    "en-US"
+  ],
+  "toc": [
+    {
+      "id": "foreword",
+      "title": {
+        "en-US": "Foreword"
+      }
+    },
+    {
+      "id": "ch1",
+      "title": {
+        "en-US": "Part I. The teaching of the church and the theological systems"
+      },
+      "children": [
+        {
+          "id": "ch1-a1",
+          "title": {
+            "en-US": "Chapter I. The significance and reality of predestination according to scripture"
+          }
+        },
+        {
+          "id": "ch1-a2",
+          "title": {
+            "en-US": "Chapter II. The teaching of the church"
+          }
+        },
+        {
+          "id": "ch1-a3",
+          "title": {
+            "en-US": "Chapter III. The principal difficulties of the problem and the method of procedure"
+          }
+        },
+        {
+          "id": "ch1-a4",
+          "title": {
+            "en-US": "Chapter IV. The classification of the theological systems"
+          }
+        },
+        {
+          "id": "ch1-a5",
+          "title": {
+            "en-US": "Chapter V. The standpoint of st. augustine and his first disciples"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": {
+        "en-US": "Part II. The principal solutions of the problem of predestination"
+      },
+      "children": [
+        {
+          "id": "ch2-intro",
+          "title": {
+            "en-US": "Introduction"
+          }
+        },
+        {
+          "id": "ch2-a6",
+          "title": {
+            "en-US": "Chapter VI. The theologians prior to st. thomas"
+          }
+        },
+        {
+          "id": "ch2-a7",
+          "title": {
+            "en-US": "Chapter VII. The doctrinal principles of st. thomas"
+          }
+        },
+        {
+          "id": "ch2-a8",
+          "title": {
+            "en-US": "Chapter VIII. The nature and reason of predestination according to st. thomas"
+          }
+        },
+        {
+          "id": "ch2-a9",
+          "title": {
+            "en-US": "Chapter IX. The scriptural background for the teaching of st. thomas"
+          }
+        },
+        {
+          "id": "ch2-a10",
+          "title": {
+            "en-US": "Chapter X. Predestination and the views of the firsr thomists"
+          }
+        },
+        {
+          "id": "ch2-a11",
+          "title": {
+            "en-US": "Chapter XI. Predestination according to the teaching of duns scotus"
+          }
+        },
+        {
+          "id": "ch2-a12",
+          "title": {
+            "en-US": "Chapter XII. Protestantism"
+          }
+        },
+        {
+          "id": "ch2-a13",
+          "title": {
+            "en-US": "Chapter XIII. Baianism and jansenism"
+          }
+        },
+        {
+          "id": "ch2-a14",
+          "title": {
+            "en-US": "Chapter XIV. Predestination according to the theory advocated by molina and the molinists"
+          }
+        },
+        {
+          "id": "ch2-a15",
+          "title": {
+            "en-US": "Chapter XV. Predestination as explained by the congruism of st. robert bellarmine and suarez"
+          }
+        },
+        {
+          "id": "ch2-a16",
+          "title": {
+            "en-US": "Chapter XVI. The congruism of the sorbonne"
+          }
+        },
+        {
+          "id": "ch2-a17",
+          "title": {
+            "en-US": "Chapter XVII. Predestination according to the teaching of the post-tridentine augustinians"
+          }
+        },
+        {
+          "id": "ch2-a18",
+          "title": {
+            "en-US": "Chapter XVIII. Predestination according to the teaching of the post-tridentine thomists"
+          }
+        },
+        {
+          "id": "ch2-a19",
+          "title": {
+            "en-US": "Chapter XIX. How shall we define predestination?"
+          }
+        },
+        {
+          "id": "ch2-a20",
+          "title": {
+            "en-US": "Chapter XX. The cause of predestination"
+          }
+        },
+        {
+          "id": "ch2-a21",
+          "title": {
+            "en-US": "Chapter XXI. The motive for reprobation"
+          }
+        },
+        {
+          "id": "ch2-a22",
+          "title": {
+            "en-US": "Chapter XXII. On the certainty of predestination"
+          }
+        },
+        {
+          "id": "ch2-a23",
+          "title": {
+            "en-US": "Chapter XXIII. Conclusion"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": {
+        "en-US": "Part III. Grace and its efficacy"
+      },
+      "children": [
+        {
+          "id": "ch3-intro",
+          "title": {
+            "en-US": "Introduction"
+          }
+        },
+        {
+          "id": "ch3-a24",
+          "title": {
+            "en-US": "Chapter XXIV. Efficacious grace and sufficient grace according to scripture and the declarations of the church"
+          }
+        },
+        {
+          "id": "ch3-a25",
+          "title": {
+            "en-US": "Chapter XXV. The divine motion in general"
+          }
+        },
+        {
+          "id": "ch3-a26",
+          "title": {
+            "en-US": "Chapter XXVI. What does not constitute physical premotion"
+          }
+        },
+        {
+          "id": "ch3-a27",
+          "title": {
+            "en-US": "Chapter XXVII. what puysical premotion actually is according to classic thomism"
+          }
+        },
+        {
+          "id": "ch3-a28",
+          "title": {
+            "en-US": "Chapter XXVIII. Conformity of this doctrine with the mind of st. thomas"
+          }
+        },
+        {
+          "id": "ch3-a29",
+          "title": {
+            "en-US": "Chapter XXIX. The different ways in which physical premotion operates"
+          }
+        },
+        {
+          "id": "ch3-a30",
+          "title": {
+            "en-US": "Chapter XXX. Reasons for affirming physical premotion"
+          }
+        },
+        {
+          "id": "ch3-a31",
+          "title": {
+            "en-US": "Chapter XXXI. The divine motion and the freedom of our salutary acts"
+          }
+        },
+        {
+          "id": "ch3-a32",
+          "title": {
+            "en-US": "Chapter XXXII. The divine motion and the physical act of sin principle"
+          }
+        }
+      ]
+    }
+  ]
+}
