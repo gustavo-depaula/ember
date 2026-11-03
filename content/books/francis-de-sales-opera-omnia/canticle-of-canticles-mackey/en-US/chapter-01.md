@@ -10,8 +10,6 @@ This new volume of the Library of St. Francis
 
 Jorefoortr ix de Sales will bring consolation to many souls, not only on account of the valuable teaching it contains, but because it is a proof that the special work which God raised up the late F. Benedict Mackey to undertake, and to which he gave so much care and devotion, has not ceased with his death. To F. Benedict the Church is indebted for a fuller and more complete knowledge of the life and writings of St. Francis. May that gentle Saint reward him now for all his labours.
 
-## * Francis
-
 Archbishop of Westminster.
 
 NOTICE

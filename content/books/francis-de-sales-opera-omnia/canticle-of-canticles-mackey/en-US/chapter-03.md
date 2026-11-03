@@ -44,6 +44,3 @@ In the fourth, the obstacle is the fatigue of the body and the sensible part; th
 
 In the fifth, the obstacle is human respects; the remedy is solitude; the degree, the consideration of God in Himself and as God.
 
-## The Canticle of Canticles
-
-## An Eclogue of Solomon's Mystically Explained
