@@ -1,0 +1,150 @@
+{
+  "id": "gueranger-medal-cross-st-benedict",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Medal or Cross of St. Benedict: Its Origin, Meaning and Privileges",
+    "fr-FR": "La médaille ou croix de saint Benoît : son origine, sa signification et ses privilèges (traduction anglaise de 1880)",
+    "pt-BR": "A medalha ou cruz de São Bento: origem, significado e privilégios (tradução inglesa de 1880)"
+  },
+  "author": {
+    "fr-FR": "Prosper Guéranger",
+    "en-US": "Prosper Guéranger",
+    "pt-BR": "Prosper Guéranger"
+  },
+  "description": {
+    "en-US": "The English translation of Dom Guéranger’s Essai sur la médaille (Burns and Oates, 1880), with a Benedictine translator’s introduction, the author’s preface, fifteen chapters and an appendix on the Centenary Medal. Its chapters do not follow the French sections one for one, so it stands as its own book.",
+    "fr-FR": "La traduction anglaise de l’Essai de Dom Guéranger sur la médaille (Burns and Oates, 1880), avec introduction du traducteur, préface de l’auteur, quinze chapitres et un appendice sur la médaille du centenaire. Ses chapitres ne suivent pas un à un les paragraphes du français ; elle forme donc un livre à part.",
+    "pt-BR": "A tradução inglesa do Essai de Dom Guéranger sobre a medalha (Burns and Oates, 1880), com introdução do tradutor, prefácio do autor, quinze capítulos e um apêndice sobre a medalha do centenário. Seus capítulos não seguem um a um as seções do francês; por isso forma um livro à parte."
+  },
+  "composed": "1862",
+  "languages": [
+    "en-US"
+  ],
+  "work": "gueranger/medaille-saint-benoit",
+  "editions": {
+    "en-US": {
+      "translator": "A Benedictine monk (London: Burns and Oates)",
+      "year": 1880
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/TheMedalOrCrossOfStBenedict",
+      "edition": "The Medal or Cross of St. Benedict, its Origin, Meaning, and Privileges, London, Burns and Oates, 1880 (archive.org OCR text from the Google scan, cleaned)",
+      "description": "Page-foot notes are not separated by the OCR; the Latin of the blessing rite is as the OCR gave it.",
+      "tier": "A",
+      "tierEvidence": "Printed 1880."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "author-preface",
+      "title": {
+        "en-US": "Author’s preface"
+      }
+    },
+    {
+      "id": "01",
+      "title": {
+        "en-US": "Chapter I. On the figure of the cross represented on the medal"
+      }
+    },
+    {
+      "id": "02",
+      "title": {
+        "en-US": "Chapter II. Of the effigy of St. Benedict represented on the medal"
+      }
+    },
+    {
+      "id": "03",
+      "title": {
+        "en-US": "Chapter III. Of the letters which are inscribed on the medal"
+      }
+    },
+    {
+      "id": "04",
+      "title": {
+        "en-US": "Chapter IV. Origin of the medal of St. Benedict"
+      }
+    },
+    {
+      "id": "05",
+      "title": {
+        "en-US": "Chapter V. Of the use to be made of the medal of St. Benedict"
+      }
+    },
+    {
+      "id": "06",
+      "title": {
+        "en-US": "Chapter VI. The miraculous effects of the medal of St. Benedict in the seventeenth century"
+      }
+    },
+    {
+      "id": "07",
+      "title": {
+        "en-US": "Chapter VII. The effects of the medal of St. Benedict in the nineteenth century"
+      }
+    },
+    {
+      "id": "08",
+      "title": {
+        "en-US": "Chapter VIII. On the spiritual favours obtained by the use of the medal"
+      }
+    },
+    {
+      "id": "09",
+      "title": {
+        "en-US": "Chapter IX. Protection against the snares of the devil"
+      }
+    },
+    {
+      "id": "10",
+      "title": {
+        "en-US": "Chapter X. The medal a preservation in danger"
+      }
+    },
+    {
+      "id": "11",
+      "title": {
+        "en-US": "Chapter XI. Approbation of St. Benedict’s medal by the Holy See"
+      }
+    },
+    {
+      "id": "12",
+      "title": {
+        "en-US": "Chapter XII. Consequences of the brief of Benedict XIV in regard to the medal of St. Benedict"
+      }
+    },
+    {
+      "id": "13",
+      "title": {
+        "en-US": "Chapter XIII. List of the indulgences attached to the medal of St. Benedict by the brief of Benedict XIV"
+      }
+    },
+    {
+      "id": "14",
+      "title": {
+        "en-US": "Chapter XIV. Rite to be used in blessing the medal of St. Benedict"
+      }
+    },
+    {
+      "id": "15",
+      "title": {
+        "en-US": "Chapter XV. On devotion to St. Benedict"
+      }
+    },
+    {
+      "id": "appendix",
+      "title": {
+        "en-US": "Appendix"
+      }
+    }
+  ]
+}
