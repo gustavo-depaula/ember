@@ -1,0 +1,108 @@
+{
+  "id": "gueranger-immaculee-conception",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Mémoire sur la question de l’Immaculée Conception de la très sainte Vierge",
+    "en-US": "Memoir on the Question of the Immaculate Conception of the Most Holy Virgin",
+    "pt-BR": "Memória sobre a questão da Imaculada Conceição da Santíssima Virgem"
+  },
+  "author": {
+    "fr-FR": "Prosper Guéranger",
+    "en-US": "Prosper Guéranger",
+    "pt-BR": "Prosper Guéranger"
+  },
+  "description": {
+    "fr-FR": "Écrit en 1850, quatre ans avant la définition d’Ineffabilis Deus : après des notions préliminaires sur la foi et l’Église, Dom Guéranger établit en neuf points que l’Église a toléré, favorisé puis professé la doctrine de l’Immaculée Conception, en indique les sources, et traite des motifs, de l’autorité et de la forme d’une définition solennelle. Édition de Paris, Julien, Lanier et Cie, 1850 ; l’avant-propos de la réédition de Solesmes (2004) n’est pas repris.",
+    "en-US": "Written in 1850, four years before the definition of Ineffabilis Deus: after preliminary notions on faith and the Church, Dom Guéranger shows in nine points that the Church tolerated, favoured and then professed the doctrine of the Immaculate Conception, indicates its sources, and treats the motives, authority and form of a solemn definition. Paris, Julien, Lanier et Cie, 1850; the foreword of the 2004 Solesmes reprint is not included.",
+    "pt-BR": "Escrita em 1850, quatro anos antes da definição de Ineffabilis Deus: após noções preliminares sobre a fé e a Igreja, Dom Guéranger mostra em nove pontos que a Igreja tolerou, favoreceu e depois professou a doutrina da Imaculada Conceição, indica-lhe as fontes e trata dos motivos, da autoridade e da forma de uma definição solene. Paris, Julien, Lanier et Cie, 1850; o prefácio da reedição de Solesmes (2004) não foi incluído."
+  },
+  "composed": "1850",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/immaculee-conception",
+  "editions": {
+    "fr-FR": {
+      "editor": "Julien, Lanier et Cie",
+      "year": 1850
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://www.domgueranger.net/?p=2609",
+      "edition": "Mémoire sur la question de l’Immaculée Conception de la très sainte Vierge, Paris, Julien, Lanier et Cie / J. Lecoffre, 1850 (text of the domgueranger.net transcription)",
+      "description": "HTML transcription with the 1850 notes; the modern foreword of the Solesmes 2004 reprint is left out. Checked in size against archive.org bub_gb_XeHLuSYnFqUC.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; text first published in his lifetime or by 1931."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "fr-FR": "Préface"
+      }
+    },
+    {
+      "id": "notions-preliminaires",
+      "title": {
+        "fr-FR": "Notions préliminaires"
+      }
+    },
+    {
+      "id": "01",
+      "title": {
+        "fr-FR": "§ 1. Importance de la doctrine de l’Immaculée Conception de la très sainte Vierge, dans l’ensemble de la Révélation divine"
+      }
+    },
+    {
+      "id": "02",
+      "title": {
+        "fr-FR": "§ 2. Conduite de l’Église à l’égard de la doctrine de l’Immaculée Conception de la très sainte Vierge. L’Église a toléré cette doctrine"
+      }
+    },
+    {
+      "id": "03",
+      "title": {
+        "fr-FR": "§ 3. L’Église favorise la doctrine de l’Immaculée Conception de la très sainte Vierge"
+      }
+    },
+    {
+      "id": "04",
+      "title": {
+        "fr-FR": "§ 4. L’Église professe la doctrine de l’Immaculée Conception de la très sainte Vierge"
+      }
+    },
+    {
+      "id": "05",
+      "title": {
+        "fr-FR": "§ 5. Conséquences pratiques des trois faits qui viennent d’être établis"
+      }
+    },
+    {
+      "id": "06",
+      "title": {
+        "fr-FR": "§ 6. Sources de la doctrine de l’Immaculée Conception de la très sainte Vierge"
+      }
+    },
+    {
+      "id": "07",
+      "title": {
+        "fr-FR": "§ 7. Motifs que l’Église peut avoir de porter une définition solennelle en faveur de l’Immaculée Conception"
+      }
+    },
+    {
+      "id": "08",
+      "title": {
+        "fr-FR": "§ 8. Par quelle autorité doit être portée la décision, si elle a lieu ?"
+      }
+    },
+    {
+      "id": "09",
+      "title": {
+        "fr-FR": "§ 9. En quelle forme peut être portée la décision ?"
+      }
+    }
+  ]
+}
