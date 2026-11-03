@@ -18,7 +18,7 @@ def fix(t):
     t = t.replace('ſ', 's').replace('Ʋ', 'V')
     t = re.sub(r'([aeiou])̄', r'\1m', t)  # thēselves = themselves (one case)
     # drop-cap word printed in capitals after the decorated initial: "MANY doubtesse" -> "Many doubtesse"
-    t = re.sub(r'^([A-Z])([A-Z]{2,})\b', lambda m: m.group(1) + m.group(2).lower(), t)
+    t = re.sub(r'^([A-Z])([A-Z]+)\b', lambda m: m.group(1) + m.group(2).lower(), t)
     t = re.sub(r'\s+(\[\^\d+\])', r'\1', t)
     t = t.replace('The FIRST PART.', 'The First Part.')
     return t

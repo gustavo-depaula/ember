@@ -274,7 +274,7 @@ If therefore she has alwayes beleeved the grace of the Eucharist was not restrai
 
 ## § VII. Communion under one Species was established without contradiction.
 
-WE see also that Communion under one species was established without noise, without contradiction, without complaint, in the same manner as Baptisme was established with bare sprinkling, and other innocent customes.
+We see also that Communion under one species was established without noise, without contradiction, without complaint, in the same manner as Baptisme was established with bare sprinkling, and other innocent customes.
 
 The feare they had to spill our Saviours Blood in the midst of a multitude which approached to Communion with much confusion, was the reason why the faithfull being always persuaded that one sole species was sufficient, insensibly accustomed themselves to receive in effect but one onely.
 
@@ -318,7 +318,7 @@ Behold whether these great disputes against Communion under one kind tende. And 
 
 ## § VIII. A refutation of the History concerning the taking away of the Cupp written by M. Jurieux.
 
-IN the last Treatise that M. Jurieux published, he proposes to himselfe the making an abridgment to the history of taking away the Cupp,[^82] where although he gives us for indisputable all that he is there pleased to impose it will be easy for us to dectet almost as many falsityes as he has mentioned matters of fact.
+In the last Treatise that M. Jurieux published, he proposes to himselfe the making an abridgment to the history of taking away the Cupp,[^82] where although he gives us for indisputable all that he is there pleased to impose it will be easy for us to dectet almost as many falsityes as he has mentioned matters of fact.
 
 He proposes nothing new upon the Gospels and the Epistles of Saint Paul concerning which we have sufficiently spoken. From the Apostles times he passes to the following ages, where he showes without difficulty, that the use of the two species was ordinary. But he soon perceived that he brought nothing against us if he said nothing else: for he knows very well we mentain that at the same time the two species, were in practise they were not beleived so necessary but that they communicated as often and as publickly under one only, without any ones complaint. To take away this our defence, and to say something concluding, it did not suffise to assure us that the use of the two species was frequent but he ought also to assure us that it was regarded a indispensable, and that they never communicated after any other manner. M. Jurieux found that he ought to say this: he has said it in effect; but he has not so much as offered to proove it, so much did he dispaire of succeding in it. Only by a bold, and vehement affirmation, he thought he might supply the defect of a proof which he wanted: It is (saye he) a thing notoriously known, and that as no need of proof, tis a matter not in the least questioned. These affirmative manner of speeches impose upon men: the Pretended Reformers beleive a Minister upon his word, and cannot imagin he dars venture to avouch any thing as not contested when de facto it is. Nevertheless the truth, is that there is not any thing not only more contested, but also more false then that which M. Jurieux gives us here as for indisputable as equally confessed by both parties.
 
@@ -370,7 +370,7 @@ He do's not so much as state the question sincerely.[^89] The state of the quest
 
 ## §. IX. A reflection upon concomitancy, and upon the doctrine of the sixth chapter of Saint Johns Gospel.
 
-IF wee add to the proofs of those practises which wee have drawn from the most pure and holy source of antiquity, and to those solid maximes wee have established by the consent of the Pretended Reformers; if wee add I say to all these, what wee have already said, but which it may be has not been sufficiently weighed, that the reall presence being supposed, it cannot be denyed but that each species containes JESUS-CHRIST whole and entire: Communion under one species will remaine undoubted, there being nothing more unreasonable then to make the grace of a Sacrament, where JESUS-CHRIST has wouchsafed to be present, nor to depend of JESUS-CHRIST himselfe, but of the species under which he is hidden.
+If wee add to the proofs of those practises which wee have drawn from the most pure and holy source of antiquity, and to those solid maximes wee have established by the consent of the Pretended Reformers; if wee add I say to all these, what wee have already said, but which it may be has not been sufficiently weighed, that the reall presence being supposed, it cannot be denyed but that each species containes JESUS-CHRIST whole and entire: Communion under one species will remaine undoubted, there being nothing more unreasonable then to make the grace of a Sacrament, where JESUS-CHRIST has wouchsafed to be present, nor to depend of JESUS-CHRIST himselfe, but of the species under which he is hidden.
 
 These Gentlemen of the Pretended Reformation must permitt us here to explicate more fully this concomitancy, so much attaqued by their disputes; and seing they have let passe the reall presence as a doctrine which has no venome in it, they ought not henceforth to have such an aversion from what is but a manifest consequence of it.
 
