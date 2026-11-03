@@ -1,0 +1,27 @@
+{
+  "name": {
+    "en-US": "The Anonymous of Perugia",
+    "pt-BR": "O Anônimo de Perúgia"
+  },
+  "century": 13,
+  "matches": [
+    "Anonymous of Perugia"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "The beginning of the Order",
+        "pt-BR": "O início da Ordem"
+      },
+      "works": [
+        {
+          "work": "anonymous-of-perugia/anonymus-perusinus",
+          "why": {
+            "en-US": "The founding of the Order and its first friars, c. 1240",
+            "pt-BR": "A fundação da Ordem e seus primeiros frades, c. 1240"
+          }
+        }
+      ]
+    }
+  ]
+}

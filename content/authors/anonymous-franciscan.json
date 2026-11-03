@@ -1,0 +1,91 @@
+{
+  "name": {
+    "en-US": "Anonymous Franciscan writers",
+    "pt-BR": "Escritores franciscanos anônimos"
+  },
+  "century": 14,
+  "matches": [
+    "Anonymous Franciscan (14th century)",
+    "Anonymous Franciscan (13th century)"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "francis-of-assisi/fioretti",
+          "why": {
+            "en-US": "The best-loved stories of Francis, from the wolf of Gubbio to perfect joy",
+            "pt-BR": "As histórias mais queridas de Francisco, do lobo de Gubbio à perfeita alegria"
+          }
+        },
+        {
+          "work": "francis-of-assisi/considerazioni-stimmate",
+          "why": {
+            "en-US": "The appendix to the Fioretti: La Verna, the Seraph and the stigmata",
+            "pt-BR": "O apêndice aos Fioretti: o Alverne, o Serafim e os estigmas"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The first companions",
+        "pt-BR": "Os primeiros companheiros"
+      },
+      "works": [
+        {
+          "work": "francis-of-assisi/vita-egidio",
+          "why": {
+            "en-US": "Brother Giles, the third companion of Francis",
+            "pt-BR": "Frei Egídio, o terceiro companheiro de Francisco"
+          }
+        },
+        {
+          "work": "francis-of-assisi/vita-ginepro",
+          "why": {
+            "en-US": "Brother Juniper, “God’s good jester”",
+            "pt-BR": "Frei Junípero, “o bom jogral de Deus”"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Lady Poverty",
+        "pt-BR": "A Senhora Pobreza"
+      },
+      "works": [
+        {
+          "work": "anonymous-franciscan/sacrum-commercium",
+          "why": {
+            "en-US": "The allegory of 1227: Francis and his friars wed Lady Poverty",
+            "pt-BR": "A alegoria de 1227: Francisco e seus frades desposam a Senhora Pobreza"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The Latin source",
+        "pt-BR": "A fonte latina"
+      },
+      "note": {
+        "en-US": "The Latin deeds from which the Fioretti were translated.",
+        "pt-BR": "Os feitos em latim de que os Fioretti foram traduzidos."
+      },
+      "works": [
+        {
+          "work": "francis-of-assisi/actus-beati-francisci",
+          "why": {
+            "en-US": "The Deeds of Francis and his companions, c. 1328–1337",
+            "pt-BR": "Os feitos de Francisco e seus companheiros, c. 1328–1337"
+          }
+        }
+      ]
+    }
+  ]
+}

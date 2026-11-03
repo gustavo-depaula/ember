@@ -7,8 +7,8 @@
   },
   "author": {
     "la": "Auctor incertus saeculi XIII",
-    "en-US": "Anonymous (13th century)",
-    "pt-BR": "Anônimo (século XIII)"
+    "en-US": "Anonymous Franciscan (13th century)",
+    "pt-BR": "Anônimo franciscano (século XIII)"
   },
   "description": {
     "en-US": "Montgomery Carmichael's English (John Murray, 1901) of the allegory of the Blessed Francis and his companions seeking and wedding Lady Poverty, written in 1227 after Francis's death: the twenty-five chapters of the translation with Carmichael's notes, the Scripture references of the margin placed in parentheses. Carmichael's chapters differ from the thirty-two of the Latin book, so it is a separate book of the same work.",
@@ -18,7 +18,7 @@
   "languages": [
     "en-US"
   ],
-  "work": "francis/sacrum-commercium",
+  "work": "anonymous-franciscan/sacrum-commercium",
   "editions": {
     "en-US": {
       "translator": "Montgomery Carmichael",

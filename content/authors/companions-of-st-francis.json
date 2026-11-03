@@ -1,0 +1,27 @@
+{
+  "name": {
+    "en-US": "The Companions of St. Francis",
+    "pt-BR": "Os Companheiros de São Francisco"
+  },
+  "century": 13,
+  "matches": [
+    "Companions of St. Francis (Compilatio Assisiensis)"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Memories of Francis",
+        "pt-BR": "Memórias de Francisco"
+      },
+      "works": [
+        {
+          "work": "companions-of-francis/compilatio-assisiensis",
+          "why": {
+            "en-US": "120 memories of Francis from his companions, above all Brother Leo",
+            "pt-BR": "120 memórias de Francisco por seus companheiros, sobretudo frei Leão"
+          }
+        }
+      ]
+    }
+  ]
+}

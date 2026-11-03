@@ -1,0 +1,27 @@
+{
+  "name": {
+    "en-US": "Bl. Giles of Assisi",
+    "pt-BR": "Beato Egídio de Assis"
+  },
+  "century": 13,
+  "matches": [
+    "Brother Giles of Assisi (attributed)"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Sayings",
+        "pt-BR": "Ditos"
+      },
+      "works": [
+        {
+          "work": "francis-of-assisi/detti-egidio",
+          "why": {
+            "en-US": "Maxims on the virtues, prayer and contemplation",
+            "pt-BR": "Máximas sobre as virtudes, a oração e a contemplação"
+          }
+        }
+      ]
+    }
+  ]
+}
