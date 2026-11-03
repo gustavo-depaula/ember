@@ -10,5 +10,273 @@
     "Newman, John Henry, 1801-1890",
     "Cardinal Newman",
     "St. John Henry Newman"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "His own story, his idea of education, and his poem.",
+        "pt-BR": "Sua própria história, sua ideia de educação e seu poema."
+      },
+      "works": [
+        {
+          "work": "newman/apologia-pro-vita-sua",
+          "why": {
+            "en-US": "The history of his religious opinions, 1864-65",
+            "pt-BR": "A história de suas opiniões religiosas, 1864-65"
+          }
+        },
+        {
+          "work": "newman/idea-of-a-university",
+          "why": {
+            "en-US": "Nine Dublin discourses on university education, 1852",
+            "pt-BR": "Nove discursos de Dublin sobre a educação universitária, 1852"
+          }
+        },
+        {
+          "work": "newman/dream-of-gerontius",
+          "why": {
+            "en-US": "His poem on a dying Christian's journey, 1865",
+            "pt-BR": "Seu poema sobre a jornada de um cristão moribundo, 1865"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Major works of thought",
+        "pt-BR": "Grandes obras de pensamento"
+      },
+      "works": [
+        {
+          "work": "newman/development-of-christian-doctrine",
+          "why": {
+            "en-US": "Written on the eve of his reception, 1845",
+            "pt-BR": "Escrito na véspera de sua recepção na Igreja, 1845"
+          }
+        },
+        {
+          "work": "newman/grammar-of-assent",
+          "why": {
+            "en-US": "On how the mind comes to believe, 1870",
+            "pt-BR": "Sobre como a mente chega a crer, 1870"
+          }
+        },
+        {
+          "work": "newman/fifteen-oxford-university-sermons",
+          "why": {
+            "en-US": "Fifteen University Sermons, 1826-1843",
+            "pt-BR": "Quinze sermões universitários, 1826-1843"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Novels",
+        "pt-BR": "Romances"
+      },
+      "works": [
+        {
+          "work": "newman/loss-and-gain",
+          "why": {
+            "en-US": "A convert's story, written in 1848",
+            "pt-BR": "A história de um convertido, escrita em 1848"
+          }
+        },
+        {
+          "work": "newman/callista",
+          "why": {
+            "en-US": "A tale of the third-century persecution, 1855",
+            "pt-BR": "Um relato da perseguição do século III, 1855"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Anglican sermons",
+        "pt-BR": "Sermões anglicanos"
+      },
+      "note": {
+        "en-US": "Preached at St. Mary's, Oxford, in the order of publication.",
+        "pt-BR": "Pregados em St. Mary's, Oxford, na ordem de publicação."
+      },
+      "works": [
+        {
+          "work": "newman/parochial-and-plain-sermons-1",
+          "why": {
+            "en-US": "Parochial and Plain Sermons, vol. 1, 1834-35",
+            "pt-BR": "Sermões Paroquiais e Simples, vol. 1, 1834-35"
+          }
+        },
+        {
+          "work": "newman/parochial-and-plain-sermons-2",
+          "why": {
+            "en-US": "Parochial and Plain Sermons, vol. 2, 1835-36",
+            "pt-BR": "Sermões Paroquiais e Simples, vol. 2, 1835-36"
+          }
+        },
+        {
+          "work": "newman/parochial-and-plain-sermons-3",
+          "why": {
+            "en-US": "Parochial and Plain Sermons, vol. 3, 1836-37",
+            "pt-BR": "Sermões Paroquiais e Simples, vol. 3, 1836-37"
+          }
+        },
+        {
+          "work": "newman/parochial-and-plain-sermons-4",
+          "why": {
+            "en-US": "Parochial and Plain Sermons, vol. 4, 1837-38",
+            "pt-BR": "Sermões Paroquiais e Simples, vol. 4, 1837-38"
+          }
+        },
+        {
+          "work": "newman/parochial-and-plain-sermons-5",
+          "why": {
+            "en-US": "Parochial and Plain Sermons, vol. 5, 1838-40",
+            "pt-BR": "Sermões Paroquiais e Simples, vol. 5, 1838-40"
+          }
+        },
+        {
+          "work": "newman/parochial-and-plain-sermons-6",
+          "why": {
+            "en-US": "Parochial and Plain Sermons, vol. 6, 1840-42",
+            "pt-BR": "Sermões Paroquiais e Simples, vol. 6, 1840-42"
+          }
+        },
+        {
+          "work": "newman/parochial-and-plain-sermons-7",
+          "why": {
+            "en-US": "Parochial and Plain Sermons, vol. 7, 1842-43",
+            "pt-BR": "Sermões Paroquiais e Simples, vol. 7, 1842-43"
+          }
+        },
+        {
+          "work": "newman/parochial-and-plain-sermons-8",
+          "why": {
+            "en-US": "Parochial and Plain Sermons, vol. 8, 1843",
+            "pt-BR": "Sermões Paroquiais e Simples, vol. 8, 1843"
+          }
+        },
+        {
+          "work": "newman/sermons-on-subjects-of-the-day",
+          "why": {
+            "en-US": "Twenty-six sermons, 1836-1843",
+            "pt-BR": "Vinte e seis sermões, 1836-1843"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Catholic sermons and devotions",
+        "pt-BR": "Sermões e devoções católicas"
+      },
+      "works": [
+        {
+          "work": "newman/discourses-to-mixed-congregations",
+          "why": {
+            "en-US": "Eighteen sermons of 1849 at the Birmingham Oratory",
+            "pt-BR": "Dezoito sermões de 1849 no Oratório de Birmingham"
+          }
+        },
+        {
+          "work": "newman/sermons-preached-on-various-occasions",
+          "why": {
+            "en-US": "Fifteen Catholic sermons and lectures, 1850-1873",
+            "pt-BR": "Quinze sermões e conferências católicos, 1850-1873"
+          }
+        },
+        {
+          "work": "newman/meditations-and-devotions",
+          "why": {
+            "en-US": "His meditations and devotions, gathered in 1893",
+            "pt-BR": "Suas meditações e devoções, reunidas em 1893"
+          }
+        },
+        {
+          "work": "newman/sermon-notes",
+          "why": {
+            "en-US": "Outlines of his Catholic sermons, 1849-1878",
+            "pt-BR": "Esboços de seus sermões católicos, 1849-1878"
+          }
+        },
+        {
+          "work": "newman/verses-on-various-occasions",
+          "why": {
+            "en-US": "Collected poems, 1818-1865",
+            "pt-BR": "Poemas reunidos, 1818-1865"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Controversy and lectures",
+        "pt-BR": "Controvérsia e conferências"
+      },
+      "works": [
+        {
+          "work": "newman/difficulties-felt-by-anglicans",
+          "why": {
+            "en-US": "Twelve lectures of 1850 to those drawn to the Church",
+            "pt-BR": "Doze conferências de 1850 a quem se aproximava da Igreja"
+          }
+        },
+        {
+          "work": "newman/present-position-of-catholics",
+          "why": {
+            "en-US": "Nine lectures after the hierarchy's restoration, 1851",
+            "pt-BR": "Nove conferências após a restauração da hierarquia, 1851"
+          }
+        },
+        {
+          "work": "newman/letter-to-pusey",
+          "why": {
+            "en-US": "His reply to Pusey's Eirenicon, 1865",
+            "pt-BR": "Sua resposta ao Eirenicon de Pusey, 1865"
+          }
+        },
+        {
+          "work": "newman/letter-to-the-duke-of-norfolk",
+          "why": {
+            "en-US": "His reply to Gladstone on the Vatican Council, 1875",
+            "pt-BR": "Sua resposta a Gladstone sobre o Concílio Vaticano, 1875"
+          }
+        },
+        {
+          "work": "newman/via-media-preface-1877",
+          "why": {
+            "en-US": "The long preface to the Via Media, 1877",
+            "pt-BR": "O longo prefácio à Via Media, 1877"
+          }
+        },
+        {
+          "work": "newman/development-of-religious-error",
+          "why": {
+            "en-US": "Reply to Principal Fairbairn, 1885",
+            "pt-BR": "Resposta ao Principal Fairbairn, 1885"
+          }
+        },
+        {
+          "work": "newman/shorter-catholic-writings",
+          "why": {
+            "en-US": "Four shorter Catholic pieces, 1859-1884",
+            "pt-BR": "Quatro textos católicos breves, 1859-1884"
+          }
+        },
+        {
+          "work": "newman/historical-sketches",
+          "why": {
+            "en-US": "Historical essays written as a Catholic, 1853-59",
+            "pt-BR": "Ensaios históricos escritos como católico, 1853-59"
+          }
+        }
+      ]
+    }
   ]
 }
