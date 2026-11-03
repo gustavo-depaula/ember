@@ -8,5 +8,44 @@
     "Jean-Joseph Surin",
     "Surin, Jean-Joseph",
     "Jean-Joseph Surin, S.J."
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "surin/catechisme-spirituel",
+          "why": {
+            "en-US": "His great treatise of spiritual direction, 1657-63",
+            "pt-BR": "Seu grande tratado de direção espiritual, 1657-63"
+          }
+        },
+        {
+          "work": "surin/fondements-de-la-vie-spirituelle",
+          "why": {
+            "en-US": "A commentary on the maxims of the Imitation, 1667",
+            "pt-BR": "Comentário às máximas da Imitação, 1667"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Attributed works",
+        "pt-BR": "Obras atribuídas"
+      },
+      "works": [
+        {
+          "work": "surin/predicateur-amour-de-dieu",
+          "why": {
+            "en-US": "Questions on pure love, attributed to him, c. 1660",
+            "pt-BR": "Questões sobre o puro amor, atribuídas a ele, c. 1660"
+          }
+        }
+      ]
+    }
   ]
 }
