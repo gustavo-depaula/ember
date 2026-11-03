@@ -13,18 +13,23 @@
   },
   "description": {
     "la": "Triginta sermones Thomae a Kempis, magistri novitiorum in monte S. Agnetis, de vita religiosa: de concordia fratrum, de obedientia, humilitate, oratione, tentationibus et aliis. Textus ex editione Pohl (1905).",
-    "en-US": "Thirty conferences given by Thomas as master of novices at Mount St. Agnes, on the religious life: concord among brethren, obedience, humility, prayer, temptation and the rest. The Latin is Pohl's critical edition (Freiburg 1905), here from a raw OCR of the printed volume. Scully's 1907 English translation (Kegan Paul) is not yet imported.",
+    "en-US": "Thirty conferences given by Thomas as master of novices at Mount St. Agnes, on the religious life: concord among brethren, obedience, humility, prayer, temptation and the rest. The Latin is Pohl's critical edition (Freiburg 1905), here from a raw OCR of the printed volume. The English is Vincent Scully's (London: Kegan Paul, 1907), with Thomas's prologue, which the Latin here lacks.",
     "pt-BR": "Trinta conferências de Tomás, mestre de noviços no Monte Santa Inês, sobre a vida religiosa: concórdia entre os irmãos, obediência, humildade, oração, tentações e outros temas."
   },
   "composed": "c. 1425-1440",
   "languages": [
-    "la"
+    "la",
+    "en-US"
   ],
   "work": "thomas-a-kempis/sermones-ad-novicios",
   "editions": {
     "la": {
       "editor": "Michael Joseph Pohl",
       "year": 1905
+    },
+    "en-US": {
+      "translator": "Vincent Scully, C.R.L.",
+      "year": 1907
     }
   },
   "sources": [
@@ -35,67 +40,91 @@
       "description": "The thirty sermons in three parts, with Pohl's upper-case sermon titles recased (u/v normalised by script). Line numbers, running heads and page breaks stripped by script; Pohl's critical footnotes and introduction are not imported. The exempla and the Vita Lidewigis in the same volume are not part of this book. Raw OCR: drop capitals, margin glosses and isolated letters are sometimes garbled.",
       "tier": "A",
       "tierEvidence": "Pohl 1905; Thomas died in 1471."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/SermonsToTheNovicesRegular",
+      "edition": "Sermons to the Novices Regular, by Thomas à Kempis, translated by Vincent Scully, C.R.L. (London: Kegan Paul, Trench, Trübner & Co., 1907); archive.org SermonsToTheNovicesRegular (Google scan).",
+      "description": "Archive.org OCR read from the word-coordinate file and cleaned by script, not proofread: running heads, page numbers and the scanner's stamp dropped, and the translator's Scripture references in the margin dropped by their position. The drop capital that opens each sermon, lost in the OCR, is restored. Thomas's prologue and the note on the three parts are an English-only chapter; Scully's introduction and the table of sermons are not imported.",
+      "tier": "A",
+      "tierEvidence": "Printed 1907: public domain in the US."
     }
   ],
   "toc": [
     {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue"
+      }
+    },
+    {
       "id": "part-1",
       "title": {
-        "la": "Pars prima"
+        "la": "Pars prima",
+        "en-US": "Part I"
       },
       "children": [
         {
           "id": "p1-01",
           "title": {
-            "la": "1. De concordia fratrum et melodia divinae laudis"
+            "la": "1. De concordia fratrum et melodia divinae laudis",
+            "en-US": "Sermon I. Of the Concord of Brethren and the Melody of Divine Praise"
           }
         },
         {
           "id": "p1-02",
           "title": {
-            "la": "2. De laude bonae congregationis"
+            "la": "2. De laude bonae congregationis",
+            "en-US": "Sermon II. Of the Praise of a Good Congregation"
           }
         },
         {
           "id": "p1-03",
           "title": {
-            "la": "3. De verbis et consiliis seniorum humiliter audiendis"
+            "la": "3. De verbis et consiliis seniorum humiliter audiendis",
+            "en-US": "Sermon III. Of Humbly Hearing the Words and Counsels of Elders"
           }
         },
         {
           "id": "p1-04",
           "title": {
-            "la": "4. De bonis colloquiis invicem habendis"
+            "la": "4. De bonis colloquiis invicem habendis",
+            "en-US": "Sermon IV. Of Holding Good Discourses Together"
           }
         },
         {
           "id": "p1-05",
           "title": {
-            "la": "5. De patientia conservanda inter desides et perversos"
+            "la": "5. De patientia conservanda inter desides et perversos",
+            "en-US": "Sermon V. Of Having Patience Amid the Slothful and Perverse"
           }
         },
         {
           "id": "p1-06",
           "title": {
-            "la": "6. De vigiliis nocturnis contra impugnationem soporis"
+            "la": "6. De vigiliis nocturnis contra impugnationem soporis",
+            "en-US": "Sermon VI. Of the Night Watches Against the Assault of Sleepiness"
           }
         },
         {
           "id": "p1-07",
           "title": {
-            "la": "7. Operis cum oboedientia superioris"
+            "la": "7. Operis cum oboedientia superioris",
+            "en-US": "Sermon VII. Of Guarding the Mouth and Diligence in Labour with Obedience to the Superior"
           }
         },
         {
           "id": "p1-08",
           "title": {
-            "la": "8. De vana gloria cavenda et quod soli deo laus est exhibenda"
+            "la": "8. De vana gloria cavenda et quod soli deo laus est exhibenda",
+            "en-US": "Sermon VIII. Of Shunning Vainglory, and that Praise is to be Rendered to God Alone"
           }
         },
         {
           "id": "p1-09",
           "title": {
-            "la": "9. De periculo multorum malorum ex multiloquio verborum"
+            "la": "9. De periculo multorum malorum ex multiloquio verborum",
+            "en-US": "Sermon IX. Of the Risk of Many Evils from Much Bandying of Words"
           }
         }
       ]
@@ -103,67 +132,78 @@
     {
       "id": "part-2",
       "title": {
-        "la": "Pars secunda"
+        "la": "Pars secunda",
+        "en-US": "Part II"
       },
       "children": [
         {
           "id": "p2-01",
           "title": {
-            "la": "1. De multis tribulationibus iustorum pro regno caelorum"
+            "la": "1. De multis tribulationibus iustorum pro regno caelorum",
+            "en-US": "Sermon X. Of the Many Trials of the Just for the Kingdom of Heaven"
           }
         },
         {
           "id": "p2-02",
           "title": {
-            "la": "2. De cotidiano martyrio et bello in statu religionis"
+            "la": "2. De cotidiano martyrio et bello in statu religionis",
+            "en-US": "Sermon XI. Of the Daily Martyrdom and Warfare in the Religious State"
           }
         },
         {
           "id": "p2-03",
           "title": {
-            "la": "3. De sapientia confessorum et continentia religiosorum"
+            "la": "3. De sapientia confessorum et continentia religiosorum",
+            "en-US": "Sermon XII. Of the Wisdom of Confessors and the Continence of Religious"
           }
         },
         {
           "id": "p2-04",
           "title": {
-            "la": "4. De cauta custodia cordis, et gratia internae devotionis"
+            "la": "4. De cauta custodia cordis, et gratia internae devotionis",
+            "en-US": "Sermon XIII. Of a Careful Watch Over the Heart, and the Grace of Interior Devotion"
           }
         },
         {
           "id": "p2-05",
           "title": {
-            "la": "5. De constantia et perseverantia in statu religionis"
+            "la": "5. De constantia et perseverantia in statu religionis",
+            "en-US": "Sermon XIV. Of Constancy and Perseverance in the State of Religion"
           }
         },
         {
           "id": "p2-06",
           "title": {
-            "la": "6. De cauta custodia iuvenum contra multas temptationes"
+            "la": "6. De cauta custodia iuvenum contra multas temptationes",
+            "en-US": "Sermon XV. Of Careful Watchfulness of the Young Against Many Temptations"
           }
         },
         {
           "id": "p2-07",
           "title": {
-            "la": "7. De districto dei iudicio ubi accusabunt nos omnes creaturae"
+            "la": "7. De districto dei iudicio ubi accusabunt nos omnes creaturae",
+            "en-US": "Sermon XVI. Of the Strict Judgement of God, where all Creatures shall Accuse us"
           }
         },
         {
           "id": "p2-08",
           "title": {
-            "la": "8. De vana gloria vitanda, et humili oboedientia sectanda"
+            "la": "8. De vana gloria vitanda, et humili oboedientia sectanda",
+            "en-US": "Sermon XVII. Of Shunning Vainglory and Pursuing Humble Obedience"
           }
         },
         {
           "id": "p2-09",
           "title": {
-            "la": "9. De spirituali militia contra vitia"
+            "la": "9. De spirituali militia contra vitia",
+            "en-US": "Sermon XVIII. Of the Spiritual Warfare Against Vices"
           }
         },
         {
           "id": "p2-10",
           "title": {
-            "la": "10. De variis bellis et periculis hvius vitae"
+            "la": "10. De variis bellis et periculis hvius vitae",
+            "en-US": "Sermon XIX. Of the Divers Wars and Perils of this Life"
           }
         }
       ]
@@ -171,76 +211,91 @@
     {
       "id": "part-3",
       "title": {
-        "la": "Pars tertia"
+        "la": "Pars tertia",
+        "en-US": "Part III"
       },
       "children": [
         {
           "id": "p3-01",
           "title": {
-            "la": "1. De cruce cotidie tollenda in religione assumpta"
+            "la": "1. De cruce cotidie tollenda in religione assumpta",
+            "en-US": "Sermon XX. Of Daily Taking Up the Cross Embraced in Religion"
           }
         },
         {
           "id": "p3-02",
           "title": {
-            "la": "2. De veneratione et commemoratione beatae mariae virginis"
+            "la": "2. De veneratione et commemoratione beatae mariae virginis",
+            "en-US": "Sermon XXI. Of the Veneration and Commemoration of the Blessed Virgin Mary"
           }
         },
         {
           "id": "p3-03",
           "title": {
-            "la": "3. Eius mariae"
+            "la": "3. Eius mariae",
+            "en-US": "Sermon XXII. Of the Praise of the Most Sweet Name of Jesus: and of His Most Sweet Mother Mary"
           }
         },
         {
           "id": "p3-04",
           "title": {
-            "la": "4. De devoto servitio beatae virginis et recordatione nominis eius"
+            "la": "4. De devoto servitio beatae virginis et recordatione nominis eius",
+            "en-US": "Sermon XXIII. Of the Devout Service of the Blessed Virgin and the Remembrance of her Name"
           }
         },
         {
           "id": "p3-05",
           "title": {
-            "la": "5. De dolore et consolatione beatae mariae virginis"
+            "la": "5. De dolore et consolatione beatae mariae virginis",
+            "en-US": "Sermon XXIV. Of the Sorrow and Consolation of the Blessed Virgin Mary"
           }
         },
         {
           "id": "p3-06",
           "title": {
-            "la": "6. De excellentia meritorum et privilegiis donorum beatae mariae virginis"
+            "la": "6. De excellentia meritorum et privilegiis donorum beatae mariae virginis",
+            "en-US": "Sermon XXV. Of the Excellence of the Merits and of the Privileges of the Gifts of the Blessed Virgin Mary"
           }
         },
         {
           "id": "p3-07",
           "title": {
-            "la": "7. De tribus speciosis vestibus beatissimae agnetis virginis"
+            "la": "7. De tribus speciosis vestibus beatissimae agnetis virginis",
+            "en-US": "Sermon XXVI. Of the Three Lovely Garments of Most Blessed Agnes, Virgin"
           }
         },
         {
           "id": "p3-08",
           "title": {
-            "la": "8. De aurea corona in capite sanctissimae agnetis virginis"
+            "la": "8. De aurea corona in capite sanctissimae agnetis virginis",
+            "en-US": "Sermon XXVII. Of the Golden Crown on the Head of Most Holy Agnes, Virgin"
           }
         },
         {
           "id": "p3-09",
           "title": {
-            "la": "9. In dedicatione ecclesiae. de quinque luminaribus templi"
+            "la": "9. In dedicatione ecclesiae. de quinque luminaribus templi",
+            "en-US": "Sermon XXVIII. On the Dedication of the Church: of the Five Lamps of the Temple"
           }
         },
         {
           "id": "p3-10",
           "title": {
-            "la": "10. De ornamentis et moribus ministrorum in templo dei"
+            "la": "10. De ornamentis et moribus ministrorum in templo dei",
+            "en-US": "Sermon XXIX. Of the Ornaments and Virtues of the Ministers in the Temple of God"
           }
         },
         {
           "id": "p3-11",
           "title": {
-            "la": "11. De quatuor condicionibus ad aedificationem et decorem domus dei pertinentibus"
+            "la": "11. De quatuor condicionibus ad aedificationem et decorem domus dei pertinentibus",
+            "en-US": "Sermon XXX. Of the Four Conditions Belonging to the Building and Beauty of the House of God"
           }
         }
       ]
     }
-  ]
+  ],
+  "arrived": {
+    "en-US": "2026-11-03"
+  }
 }
