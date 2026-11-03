@@ -1,0 +1,87 @@
+{
+  "id": "chesterton-paradoxes-of-mr-pond",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Paradoxes of Mr. Pond",
+    "pt-BR": "Os Paradoxos do Sr. Pond"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Eight tales of Mr Pond, a government official whose habit of speaking in paradox conceals his shrewd resolution of crimes: The Three Horsemen of Apocalypse, The Crime of Captain Gahagan, When Doctors Agree, Pond the Pantaloon, The Unmentionable Man, Ring of Lovers, The Terrible Troubadour and A Tall Story. Chesterton's last book, published after his death.",
+    "pt-BR": "Oito contos do Sr. Pond, funcionário do governo cujo hábito de falar por paradoxos esconde sua sagaz solução de crimes: Os Três Cavaleiros do Apocalipse, O Crime do Capitão Gahagan, Quando os Médicos Concordam, Pond o Pantalone, O Homem Impronunciável, Anel de Amantes, O Trovador Terrível e Uma História Alta. O último livro de Chesterton, publicado após sua morte."
+  },
+  "composed": "1937",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/paradoxes-of-mr-pond",
+  "editions": {
+    "en-US": {
+      "editor": "Cassell & Co.",
+      "year": 1937
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.net.au/ebooks05/0500421h.html",
+      "edition": "The Paradoxes of Mr. Pond (Cassell & Co., 1937), Project Gutenberg Australia, ebooks05/0500421h.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain in Brazil, the UK and the EU (Chesterton died in 1936). Published in 1937; text taken from Project Gutenberg Australia, which carries it under Australian law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-three-horsemen-of-apocalypse",
+      "title": {
+        "en-US": "The Three Horsemen of Apocalypse"
+      }
+    },
+    {
+      "id": "ch02-the-crime-of-captain-gahagan",
+      "title": {
+        "en-US": "The Crime of Captain Gahagan"
+      }
+    },
+    {
+      "id": "ch03-when-doctors-agree",
+      "title": {
+        "en-US": "When Doctors Agree"
+      }
+    },
+    {
+      "id": "ch04-pond-the-pantaloon",
+      "title": {
+        "en-US": "Pond the Pantaloon"
+      }
+    },
+    {
+      "id": "ch05-the-unmentionable-man",
+      "title": {
+        "en-US": "The Unmentionable Man"
+      }
+    },
+    {
+      "id": "ch06-ring-of-lovers",
+      "title": {
+        "en-US": "Ring of Lovers"
+      }
+    },
+    {
+      "id": "ch07-the-terrible-troubadour",
+      "title": {
+        "en-US": "The Terrible Troubadour"
+      }
+    },
+    {
+      "id": "ch08-a-tall-story",
+      "title": {
+        "en-US": "A Tall Story"
+      }
+    }
+  ]
+}
