@@ -1,0 +1,197 @@
+{
+  "id": "gueranger-annee-liturgique-09-temps-pascal-3",
+  "name": {
+    "fr-FR": "L’Année liturgique : le temps pascal, III",
+    "en-US": "The Liturgical Year: Paschal Time, Book III",
+    "pt-BR": "O Ano Litúrgico: Tempo pascal, III"
+  },
+  "author": {
+    "fr-FR": "Dom Prosper Guéranger",
+    "en-US": "Dom Prosper Guéranger",
+    "pt-BR": "Dom Prosper Guéranger"
+  },
+  "description": {
+    "fr-FR": "Volume 9 de l’Année liturgique (Le temps pascal, III) : un chapitre par jour ou fête, avec les textes liturgiques en latin et en français.",
+    "en-US": "Volume 9 of the 15-volume Liturgical Year (L’Année liturgique) in the original French. One chapter per day or feast, with the Latin and French of the liturgical texts. Made from the 1911 Oudin printing’s OCR; the two-column Latin and French text is separated by script and some running heads remain.",
+    "pt-BR": "Volume 9 dos 15 volumes de «O Ano Litúrgico» (L’Année liturgique) em francês. Um capítulo por dia ou festa, com o latim e o francês dos textos litúrgicos."
+  },
+  "composed": "1866",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "fr-FR": {
+      "editor": "Dom Prosper Guéranger (Oudin, Paris-Poitiers)",
+      "year": 1911
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/lanneliturgiqu09gu",
+      "edition": "L’Année liturgique, vol. 9, Paris-Poitiers: Librairie H. Oudin, 1911. Internet Archive scan (University of Toronto), OCR text.",
+      "description": "Split at detected day and feast headings; running heads and page numbers removed where recognised; the Latin and French columns, interleaved line by line in the OCR, were separated by language and set as a Latin paragraph followed by its French. The table of contents at the back is not imported.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875 and Fromage in 1916; the text was printed in 1911 (before 1931)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-chapitre-premier-prieres-du-matin-et-du-soir-au",
+      "title": {
+        "fr-FR": "Chapitre premier. prieres du matin et du soir, au temps pascal"
+      }
+    },
+    {
+      "id": "002-chapitre-de-l-assistance-a-la-sainte-messe-au-te",
+      "title": {
+        "fr-FR": "Chapitre . de l assistance à la Sainte Messe, au temps pascal"
+      }
+    },
+    {
+      "id": "003-chapitre-iii-pratique-de-la-sainte-communion-au",
+      "title": {
+        "fr-FR": "Chapitre III. pratique de la Sainte Communion, au temps pascal. avant la communion. acte de foi"
+      }
+    },
+    {
+      "id": "004-chapitre-iv-des-offices-de-tierce-sexte-et-none",
+      "title": {
+        "fr-FR": "Chapitre IV. des offices de tierce, sexte et none, au temps pascal. a tierce"
+      }
+    },
+    {
+      "id": "005-chapitre-vi-dk-l-office-de-complies-au-temps-pas",
+      "title": {
+        "fr-FR": "Chapitre VI. dk l office de complies, au temps pascal"
+      }
+    },
+    {
+      "id": "006-le-mardi-des-rogations",
+      "title": {
+        "fr-FR": "Le mardi des rogations"
+      }
+    },
+    {
+      "id": "007-le-mercredi-des-rogations-la-vigile-de-lascensio",
+      "title": {
+        "fr-FR": "Le mercredi des rogations la vigile de l'ascension"
+      }
+    },
+    {
+      "id": "008-le-vendredi-dans-loctave-de-l-ascension",
+      "title": {
+        "fr-FR": "Le vendredi dans l'octave de l Ascension"
+      }
+    },
+    {
+      "id": "009-le-samedi-dans-loctavf-de-lascension",
+      "title": {
+        "fr-FR": "Le samedi dans loctavf de l'ascension"
+      }
+    },
+    {
+      "id": "010-le-dimanche-dans-loctave-de-i-ascension",
+      "title": {
+        "fr-FR": "Le dimanche dans l'octave de i/ascension"
+      }
+    },
+    {
+      "id": "011-le-mercredi-dans-loctavf-de-i-ascension",
+      "title": {
+        "fr-FR": "Le mercredi dans loctavf. de i, Ascension"
+      }
+    },
+    {
+      "id": "012-le-samedi-veille-de-la-pentecote",
+      "title": {
+        "fr-FR": "Le samedi veille de la Pentecôte"
+      }
+    },
+    {
+      "id": "013-le-lundi-de-la-pentecote",
+      "title": {
+        "fr-FR": "Le lundi de la Pentecôte"
+      }
+    },
+    {
+      "id": "014-le-mercredi-de-la-pentecote",
+      "title": {
+        "fr-FR": "Le mercredi de la Pentecôte"
+      }
+    },
+    {
+      "id": "015-le-jeudi-de-la-pentecote",
+      "title": {
+        "fr-FR": "Le jeudi de la Pentecôte"
+      }
+    },
+    {
+      "id": "016-le-vendredi-de-la-pentecote",
+      "title": {
+        "fr-FR": "Le vendredi de la Pentecôte"
+      }
+    },
+    {
+      "id": "017-le-samedi-de-la-pentecote",
+      "title": {
+        "fr-FR": "Le samedi de la Pentecôte"
+      }
+    },
+    {
+      "id": "018-20-mai-saint-bernardin-de-sienne-confesseur",
+      "title": {
+        "fr-FR": "20 mai — Saint Bernardin de sienne, confesseur"
+      }
+    },
+    {
+      "id": "019-saint-urbain-pape-et-martyr",
+      "title": {
+        "fr-FR": "Saint Urbain, Pape et martyr"
+      }
+    },
+    {
+      "id": "020-saint-philippe-nkri-confesseur",
+      "title": {
+        "fr-FR": "Saint Philippe nkri, confesseur"
+      }
+    },
+    {
+      "id": "021-saint-jean-paie-et-martyr",
+      "title": {
+        "fr-FR": "Saint Jean ^'\\ pai'e et martyr"
+      }
+    },
+    {
+      "id": "022-sainte-marie-madeleine-de-pazzi",
+      "title": {
+        "fr-FR": "Sainte Marie-madeleine de pazzi"
+      }
+    },
+    {
+      "id": "023-30-mai-saint-felix-i-pape-et-mart-r",
+      "title": {
+        "fr-FR": "30 mai — Saint Felix i\", Pape et mart^ r"
+      }
+    },
+    {
+      "id": "024-s-ferdinand-roi-de-castille-et-confesseur",
+      "title": {
+        "fr-FR": "S. ferdinand !. roi de castille, et confesseur"
+      }
+    },
+    {
+      "id": "025-31-mai-sainte-angele-de-merici-vierge",
+      "title": {
+        "fr-FR": "31 mai — Sainte Angèle de mérici, Vierge"
+      }
+    },
+    {
+      "id": "026-lascension-de-notre-seigneur",
+      "title": {
+        "fr-FR": "L'ascension de notre-seigneur"
+      }
+    }
+  ]
+}
