@@ -1,0 +1,158 @@
+{
+  "id": "gueranger-liturgical-year-13-after-pentecost-4",
+  "name": {
+    "en-US": "The Liturgical Year: Time after Pentecost, Book IV",
+    "pt-BR": "O Ano Litúrgico: Tempo depois de Pentecostes, IV"
+  },
+  "author": {
+    "en-US": "Dom Prosper Guéranger",
+    "pt-BR": "Dom Prosper Guéranger"
+  },
+  "description": {
+    "en-US": "Volume 13 of the English Liturgical Year (Time after Pentecost, Book IV), translated from L’Année liturgique: one chapter per day or feast, with the Latin liturgical texts beside their English. Made from the Internet Archive scan of the 1901 printing; the two-column Latin and English text is separated by script, so some lines may be misassigned.",
+    "pt-BR": "Volume 13 do «Liturgical Year» em inglês (Tempo depois de Pentecostes, IV), traduzido de L’Année liturgique: um capítulo por dia ou festa, com os textos litúrgicos em latim ao lado do inglês."
+  },
+  "composed": "1890",
+  "languages": [
+    "en-US"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "en-US": {
+      "translator": "Benedictines of Stanbrook",
+      "year": 1901
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/V13TheLiturgicalYear",
+      "edition": "The Liturgical Year, Time after Pentecost, Book IV, translated from the French of Dom Prosper Guéranger; printing of 1901 (Stanbrook Abbey / Duffy). Internet Archive scan, OCR text.",
+      "description": "Split at each day or feast heading detected in the running text; running heads and page numbers removed; the Latin and English columns of the liturgical texts, interleaved line by line in the OCR, were separated by language and set as a Latin paragraph followed by its English.",
+      "tier": "A",
+      "tierEvidence": "Guéranger (d. 1875) and the translation printed 1870-1912: public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-chapter-the-first-on-hearing-mass-during-the-tim",
+      "title": {
+        "en-US": "Chapter the First. on Hearing Mass, During the Time after Pentecost"
+      }
+    },
+    {
+      "id": "002-chapter-the-second",
+      "title": {
+        "en-US": "Chapter the Second"
+      }
+    },
+    {
+      "id": "003-chapter-the-third-on-the-office-of-compline-duri",
+      "title": {
+        "en-US": "Chapter the Third. on the Office of Compline, During the Time after Pentecost"
+      }
+    },
+    {
+      "id": "004-july-17-saint-camillus-of-lellis-confessor",
+      "title": {
+        "en-US": "July 17 — Saint Camillus of Lellis, Confessor. ♦"
+      }
+    },
+    {
+      "id": "005-july-17-same-day-saint-symphorosa-and-her-seven",
+      "title": {
+        "en-US": "July 17 — Same Day. Saint Symphorosa and Her Seven Sons"
+      }
+    },
+    {
+      "id": "006-july-21-saint-mary-magdalene",
+      "title": {
+        "en-US": "July 21 — Saint Mary Magdalene"
+      }
+    },
+    {
+      "id": "007-july-26-saint-pantaleon-martyr",
+      "title": {
+        "en-US": "July 26 — Saint Pantaleon, Martyr"
+      }
+    },
+    {
+      "id": "008-july-26-saints-nazarius-celsus-and-victor-mm",
+      "title": {
+        "en-US": "July 26 — Saints Nazarius, Celsus, and Victor, Mm"
+      }
+    },
+    {
+      "id": "009-july-26-saints-abdon-and-sennen-martyrs",
+      "title": {
+        "en-US": "July 26 — Saints Abdon and Sennen, Martyrs"
+      }
+    },
+    {
+      "id": "010-august-2-saint-alphonsus-mary-liguori-bishop-and",
+      "title": {
+        "en-US": "August 2 — Saint Alphonsus Mary Liguori, Bishop and Doctor of the Church"
+      }
+    },
+    {
+      "id": "011-august-4-saint-dominic-confessor",
+      "title": {
+        "en-US": "August 4 — Saint Dominic, Confessor"
+      }
+    },
+    {
+      "id": "012-august-6-transfiguration-of-our-lord",
+      "title": {
+        "en-US": "August 6 — Transfiguration of Our Lord"
+      }
+    },
+    {
+      "id": "013-august-8-saints-cyriacus-largus-and-smaragdus-mm",
+      "title": {
+        "en-US": "August 8 — Saints Cyriacus, Largus, and Smaragdus, Mm. $"
+      }
+    },
+    {
+      "id": "014-vigil-of-saint-laurence",
+      "title": {
+        "en-US": "Vigil of Saint Laurence"
+      }
+    },
+    {
+      "id": "015-august-11-saints-tiburtius-and-susanna-martyrs",
+      "title": {
+        "en-US": "August 11 — Saints Tiburtius and Susanna, Martyrs. ♦"
+      }
+    },
+    {
+      "id": "016-vigil-of-the-assumption",
+      "title": {
+        "en-US": "Vigil of the Assumption. — ♦ —"
+      }
+    },
+    {
+      "id": "017-august-15-assumption-of-the-most-blessed-virgin",
+      "title": {
+        "en-US": "August 15 — Assumption of the Most Blessed Virgin"
+      }
+    },
+    {
+      "id": "018-octave-of-saint-laurence",
+      "title": {
+        "en-US": "Octave of Saint Laurence. ♦"
+      }
+    },
+    {
+      "id": "019-august-20-saint-jane-frances-fremiot-de-chantal",
+      "title": {
+        "en-US": "August 20 — Saint Jane Frances Fremiot De Chantal, Widow"
+      }
+    },
+    {
+      "id": "020-the-octave-of-the-assumption",
+      "title": {
+        "en-US": "The Octave of the Assumption"
+      }
+    }
+  ]
+}
