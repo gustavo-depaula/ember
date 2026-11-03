@@ -1,0 +1,45 @@
+{
+  "id": "chesterton-william-blake",
+  "cover": "classic",
+  "name": {
+    "en-US": "William Blake",
+    "pt-BR": "William Blake"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's short biography of the poet and engraver: the life of Blake, who saw the angels in the tree at Peckham, and the idea that he was a sane man in a mad world. First published in the Popular Library of Art, with plates (omitted here).",
+    "pt-BR": "A breve biografia do poeta e gravador por Chesterton: a vida de Blake, que viu os anjos na árvore de Peckham, e a ideia de que ele era um homem são num mundo louco. Publicada primeiro na Popular Library of Art, com estampas (omitidas aqui)."
+  },
+  "composed": "1910",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/william-blake",
+  "editions": {
+    "en-US": {
+      "editor": "Duckworth & Co.",
+      "year": 1910
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/67639",
+      "edition": "William Blake (Duckworth & Co., 1910), Project Gutenberg #67639.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1910 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-william-blake",
+      "title": {
+        "en-US": "William Blake"
+      }
+    }
+  ]
+}
