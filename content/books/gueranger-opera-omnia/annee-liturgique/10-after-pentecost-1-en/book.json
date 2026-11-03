@@ -1,0 +1,170 @@
+{
+  "id": "gueranger-liturgical-year-10-after-pentecost-1",
+  "name": {
+    "en-US": "The Liturgical Year: Time after Pentecost, Book I",
+    "pt-BR": "O Ano Litúrgico: Tempo depois de Pentecostes, I"
+  },
+  "author": {
+    "en-US": "Dom Prosper Guéranger",
+    "pt-BR": "Dom Prosper Guéranger"
+  },
+  "description": {
+    "en-US": "Volume 10 of the English Liturgical Year (Time after Pentecost, Book I), translated from L’Année liturgique: one chapter per day or feast, with the Latin liturgical texts beside their English. Made from the Internet Archive scan of the 1901 printing; the two-column Latin and English text is separated by script, so some lines may be misassigned.",
+    "pt-BR": "Volume 10 do «Liturgical Year» em inglês (Tempo depois de Pentecostes, I), traduzido de L’Année liturgique: um capítulo por dia ou festa, com os textos litúrgicos em latim ao lado do inglês."
+  },
+  "composed": "1878",
+  "languages": [
+    "en-US"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "en-US": {
+      "translator": "Rev. Dom Laurence Shepherd (Stanbrook Abbey)",
+      "year": 1901
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/V10TheLiturgicalYear",
+      "edition": "The Liturgical Year, Time after Pentecost, Book I, translated from the French of Dom Prosper Guéranger; printing of 1901 (Stanbrook Abbey / Duffy). Internet Archive scan, OCR text.",
+      "description": "Split at each day or feast heading detected in the running text; running heads and page numbers removed; the Latin and English columns of the liturgical texts, interleaved line by line in the OCR, were separated by language and set as a Latin paragraph followed by its English.",
+      "tier": "A",
+      "tierEvidence": "Guéranger (d. 1875) and the translation printed 1870-1912: public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "002-chapter-the-second-the-mystery-op-the-time-after",
+      "title": {
+        "en-US": "Chapter the Second. the Mystery Op the Time after Pentecost"
+      }
+    },
+    {
+      "id": "003-chapter-the-third-practice-for-the-time-after-pe",
+      "title": {
+        "en-US": "Chapter the Third. Practice for the Time after Pentecost"
+      }
+    },
+    {
+      "id": "004-blessed-virgin",
+      "title": {
+        "en-US": "Blessed Virgin"
+      }
+    },
+    {
+      "id": "005-chapter-the-fifth-on-hearing-mass-during-the-tim",
+      "title": {
+        "en-US": "Chapter the Fifth. on Hearing Mass During the Time after Pentecost"
+      }
+    },
+    {
+      "id": "006-chapter-the-eighth",
+      "title": {
+        "en-US": "Chapter the Eighth"
+      }
+    },
+    {
+      "id": "007-chapter-the-ninth-on-the-office-of-compline-duri",
+      "title": {
+        "en-US": "Chapter the Ninth. on the Office of Compline, During the Time after Pentecost"
+      }
+    },
+    {
+      "id": "008-trinity-sunday",
+      "title": {
+        "en-US": "Trinity Sunday"
+      }
+    },
+    {
+      "id": "009-commemoration-of-the-first-sunday-after-pentecos",
+      "title": {
+        "en-US": "Commemoration of the First Sunday after Pentecost"
+      }
+    },
+    {
+      "id": "010-commemoration-of-the-sunday",
+      "title": {
+        "en-US": "Commemoration of the Sunday-"
+      }
+    },
+    {
+      "id": "011-trinity-sunday",
+      "title": {
+        "en-US": "Trinity Sunday"
+      }
+    },
+    {
+      "id": "012-wednesday-after-trinity-sunday",
+      "title": {
+        "en-US": "Wednesday after Trinity Sunday"
+      }
+    },
+    {
+      "id": "013-corpus-christi",
+      "title": {
+        "en-US": "Corpus Christi"
+      }
+    },
+    {
+      "id": "014-friday-within-the-octave",
+      "title": {
+        "en-US": "Friday Within the Octave"
+      }
+    },
+    {
+      "id": "015-saturday-within-tot-octavb",
+      "title": {
+        "en-US": "Saturday Within Tot Octavb"
+      }
+    },
+    {
+      "id": "016-corpus-christ",
+      "title": {
+        "en-US": "Corpus Christ!"
+      }
+    },
+    {
+      "id": "017-monday-within-the-octave",
+      "title": {
+        "en-US": "Monday Within the Octave"
+      }
+    },
+    {
+      "id": "018-tuesday-within-thb-octave",
+      "title": {
+        "en-US": "Tuesday Within Thb Octave"
+      }
+    },
+    {
+      "id": "019-wednesday-within-the-octave-of-corpus-christi",
+      "title": {
+        "en-US": "Wednesday Within the Octave of Corpus Christi"
+      }
+    },
+    {
+      "id": "020-monday-within-the-octave",
+      "title": {
+        "en-US": "Monday Within the Octave"
+      }
+    },
+    {
+      "id": "021-the-octave-of-corpus-christ",
+      "title": {
+        "en-US": "The Octave of Corpus Christ!"
+      }
+    },
+    {
+      "id": "022-feast-oe-the-sacked-heart-of-jesus",
+      "title": {
+        "en-US": "Feast Oe the Sacked Heart of Jesus"
+      }
+    }
+  ]
+}
