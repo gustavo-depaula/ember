@@ -1,0 +1,206 @@
+{
+  "cover": "quarter",
+  "author": {
+    "fr-FR": "Adolphe Tanquerey",
+    "en-US": "Adolphe Tanquerey",
+    "pt-BR": "Adolphe Tanquerey"
+  },
+  "composed": "1923",
+  "work": "tanquerey/precis-de-theologie-ascetique-et-mystique",
+  "id": "tanquerey-spiritual-life-branderis",
+  "name": {
+    "fr-FR": "La Vie spirituelle (traduction anglaise du Précis)",
+    "en-US": "The Spiritual Life: A Treatise on Ascetical and Mystical Theology",
+    "pt-BR": "A vida espiritual: tratado de teologia ascética e mística"
+  },
+  "description": {
+    "en-US": "Herman Branderis’s English translation of the Précis de théologie ascétique et mystique: the principles of the supernatural life, perfection and its means, the purgative, illuminative and unitive ways, mystical states and the discernment of spirits. Numbered paragraphs. Second revised edition (Desclée, Tournai, 1930).",
+    "pt-BR": "Tradução inglesa de Herman Branderis do Précis de théologie ascétique et mystique: os princípios da vida sobrenatural, a perfeição e seus meios, as três vias, os estados místicos e o discernimento dos espíritos. Segunda edição revista (Desclée, 1930)."
+  },
+  "editions": {
+    "en-US": {
+      "translator": "Herman Branderis, S.S.",
+      "year": 1930
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/spirituallifetre0000tanq",
+      "edition": "The Spiritual Life, tr. Herman Branderis, S.S., 2nd rev. ed., Tournai: Desclée, imprimatur Baltimore 24 May 1930 (archive.org OCR text, GTU scan); the index is not imported"
+    }
+  ],
+  "languages": [
+    "en-US"
+  ],
+  "toc": [
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "art1",
+      "title": {
+        "en-US": "Chapter I. Origin of the spiritual life"
+      }
+    },
+    {
+      "id": "art2",
+      "title": {
+        "en-US": "Chapter II. The Nature of the Christian Life"
+      }
+    },
+    {
+      "id": "art3",
+      "title": {
+        "en-US": "Chapter III. The Perfection of the Christian Life"
+      }
+    },
+    {
+      "id": "art4",
+      "title": {
+        "en-US": "Chapter IV. The Duty of Tending to Perfection ”"
+      }
+    },
+    {
+      "id": "art5",
+      "title": {
+        "en-US": "Chapter V. General Means of Perfection"
+      }
+    },
+    {
+      "id": "ch1",
+      "title": {
+        "en-US": "Book I. The Purification of the Soul or the Purgative Way"
+      },
+      "children": [
+        {
+          "id": "ch1-intro",
+          "title": {
+            "en-US": "Introduction"
+          }
+        },
+        {
+          "id": "ch1-a6",
+          "title": {
+            "en-US": "Chapter VI. The Prayer of Beginners *"
+          }
+        },
+        {
+          "id": "ch1-a7",
+          "title": {
+            "en-US": "Chapter VII. Penance"
+          }
+        },
+        {
+          "id": "ch1-a8",
+          "title": {
+            "en-US": "Chapter VIII. Mortification *"
+          }
+        },
+        {
+          "id": "ch1-a9",
+          "title": {
+            "en-US": "Chapter IX. The Struggle against the Capital Sins *"
+          }
+        },
+        {
+          "id": "ch1-a10",
+          "title": {
+            "en-US": "Chapter X. The Struggle against Temptation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": {
+        "en-US": "Book II. The Iluminative Way"
+      },
+      "children": [
+        {
+          "id": "ch2-intro",
+          "title": {
+            "en-US": "Introduction"
+          }
+        },
+        {
+          "id": "ch2-a11",
+          "title": {
+            "en-US": "Chapter XI. Affective Prayer’"
+          }
+        },
+        {
+          "id": "ch2-a12",
+          "title": {
+            "en-US": "Chapter XII. The Moral Virtues *"
+          }
+        },
+        {
+          "id": "ch2-a13",
+          "title": {
+            "en-US": "Chapter XIII. The Theological Virtues"
+          }
+        },
+        {
+          "id": "ch2-a14",
+          "title": {
+            "en-US": "Chapter XIV. Ill. Progress in the Practice of Charity"
+          }
+        },
+        {
+          "id": "ch2-a15",
+          "title": {
+            "en-US": "Chapter XV. Counter-attacks of the Enemy"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": {
+        "en-US": "Book III. The Unitive Way"
+      },
+      "children": [
+        {
+          "id": "ch3-intro",
+          "title": {
+            "en-US": "Introduction"
+          }
+        },
+        {
+          "id": "ch3-a16",
+          "title": {
+            "en-US": "Chapter XVI. The Simple Unitive Way"
+          }
+        },
+        {
+          "id": "ch3-a17",
+          "title": {
+            "en-US": "Chapter XVII. Infused Contemplation '"
+          }
+        },
+        {
+          "id": "ch3-a18",
+          "title": {
+            "en-US": "Chapter XVIII. Extraordinary Mystical Phenomena"
+          }
+        },
+        {
+          "id": "ch3-a19",
+          "title": {
+            "en-US": "Chapter XIX. Controverted Questions *"
+          }
+        }
+      ]
+    },
+    {
+      "id": "epilogue",
+      "title": {
+        "en-US": "Epilogue: The Three Ways and the Liturgical Cycle"
+      }
+    }
+  ]
+}
