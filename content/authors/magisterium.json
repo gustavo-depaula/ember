@@ -5,5 +5,22 @@
   },
   "matches": [
     "Various Popes, Roman Dicasteries, and the Second Vatican Council"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Papal documents",
+        "pt-BR": "Documentos papais"
+      },
+      "works": [
+        {
+          "work": "papal-magisterium",
+          "why": {
+            "en-US": "Papal documents and Vatican II, 1302 to 2003",
+            "pt-BR": "Documentos papais e Vaticano II, de 1302 a 2003"
+          }
+        }
+      ]
+    }
   ]
 }
