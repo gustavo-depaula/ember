@@ -42,6 +42,11 @@ The first wave (one or two works per author) is done. This queue imports each au
 - [x] Garrigou-Lagrange · Tanquerey (33 books). Left: Trois Âges in French (only tome 2 open), minor French works, Tanquerey's Dogmes générateurs / Doctrine and Devotion; Latin synopses and commentaries need real chapter splits
 - [x] Guéranger (51 books: Année liturgique fr+en, Institutions liturgiques, 17 other works). Left: re-split weak OCR volumes of the Année (fr 7, 11; en 7, 10–12), hymn verse in OCR volumes, Sainte Cécile in French, Mémoires
 
-## Later: English pass
+## English pass
 
-Separate English books for works whose translation is grouped or numbered differently: Teresa's letters (Stanbrook), John of the Cross's letters, poems and maxims (Lewis/Zimmerman), John of Ávila's other letters.
+Separate English books (same `work` as the original) for translations grouped or numbered differently from the original, cheap clean texts first; messy scans are skipped and noted.
+
+- [ ] A. Spanish: Teresa's letters (Stanbrook), John of the Cross's letters, poems, maxims and precautions (Lewis/Zimmerman), Louis of Granada (Hopkins 1582, Meres, Gibbons, Chester 1862, McGrath 1844)
+- [ ] B. French: Francis de Sales (Mackey's Controversy, Letters to Persons in the World / in Religion, Canticle, Spiritual Directory), Fénelon (Dialogues of the Dead, Fables, Eloquence, Lives of the Philosophers, Metcalf), Bossuet (Discours, Politique, Avertissements, Communion, Tradition défendue, Devotion to the Virgin, Great French Sermons)
+- [ ] C. Latin medieval: Bernard (Eales, Mount Melleray, Lewis's De consideratione, Mills, Williams), Anselm (Webb, 1891 letters), Bede (Felix, Letters, Apocalypse), early Franciscan lives (Howell, Salter, Carmichael), Bonaventure's Legendae (Lockhart, Salter), Kempis (Scully's Sermones ad novicios), Bridget's Regula
+- [ ] D. Italian and Augustine: Dante (Vita nuova, Rime), de' Pazzi (Fabrini 1900), Bernardine (Robins 1920), Augustine (LF 22 De fide et operibus and De agone christiano, the full LF Enarrationes)
