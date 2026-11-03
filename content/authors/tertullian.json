@@ -6,5 +6,318 @@
   "century": 3,
   "matches": [
     "Tertullian"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "His defence of the Christians and his rule against heretics.",
+        "pt-BR": "Sua defesa dos cristãos e sua regra contra os hereges."
+      },
+      "works": [
+        {
+          "work": "tertullian-apology",
+          "why": {
+            "en-US": "His defence of the Christians",
+            "pt-BR": "Sua defesa dos cristãos"
+          }
+        },
+        {
+          "work": "tertullian-prescription-against-heretics",
+          "why": {
+            "en-US": "His case against heretics",
+            "pt-BR": "Seu argumento contra os hereges"
+          }
+        },
+        {
+          "work": "tertullian-prayer",
+          "why": {
+            "en-US": "A treatise on prayer",
+            "pt-BR": "Tratado sobre a oração"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Apologetics",
+        "pt-BR": "Apologética"
+      },
+      "note": {
+        "en-US": "Writings addressed to pagans, Jews and magistrates.",
+        "pt-BR": "Escritos dirigidos a pagãos, judeus e magistrados."
+      },
+      "works": [
+        {
+          "work": "tertullian-ad-nationes",
+          "why": {
+            "en-US": "To the nations",
+            "pt-BR": "Às nações"
+          }
+        },
+        {
+          "work": "tertullian-soul-s-testimony",
+          "why": {
+            "en-US": "The testimony of the soul",
+            "pt-BR": "O testemunho da alma"
+          }
+        },
+        {
+          "work": "tertullian-scapula",
+          "why": {
+            "en-US": "A letter to the proconsul Scapula",
+            "pt-BR": "Carta ao procônsul Escápula"
+          }
+        },
+        {
+          "work": "tertullian-answer-to-the-jews",
+          "why": {
+            "en-US": "An answer to the Jews",
+            "pt-BR": "Resposta aos judeus"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Against the heresies",
+        "pt-BR": "Contra as heresias"
+      },
+      "note": {
+        "en-US": "Refutations of Marcion, Praxeas, Hermogenes and the Valentinians.",
+        "pt-BR": "Refutações de Márcion, Praxeas, Hermógenes e dos valentinianos."
+      },
+      "works": [
+        {
+          "work": "tertullian-against-marcion",
+          "why": {
+            "en-US": "His longest work, in five books",
+            "pt-BR": "Sua obra mais longa, em cinco livros"
+          }
+        },
+        {
+          "work": "tertullian-against-praxeas",
+          "why": {
+            "en-US": "Against Praxeas",
+            "pt-BR": "Contra Praxeas"
+          }
+        },
+        {
+          "work": "tertullian-flesh-of-christ",
+          "why": {
+            "en-US": "On the flesh of Christ",
+            "pt-BR": "Sobre a carne de Cristo"
+          }
+        },
+        {
+          "work": "tertullian-against-hermogenes",
+          "why": {
+            "en-US": "Against Hermogenes",
+            "pt-BR": "Contra Hermógenes"
+          }
+        },
+        {
+          "work": "tertullian-against-the-valentinians",
+          "why": {
+            "en-US": "Against the Valentinians",
+            "pt-BR": "Contra os valentinianos"
+          }
+        },
+        {
+          "work": "tertullian-treatise-on-the-soul",
+          "why": {
+            "en-US": "A treatise on the soul",
+            "pt-BR": "Tratado sobre a alma"
+          }
+        },
+        {
+          "work": "tertullian-resurrection-of-the-flesh",
+          "why": {
+            "en-US": "On the resurrection of the flesh",
+            "pt-BR": "Sobre a ressurreição da carne"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Practice and discipline",
+        "pt-BR": "Prática e disciplina"
+      },
+      "note": {
+        "en-US": "Baptism, prayer, penance, patience, fasting and the Christian's dress.",
+        "pt-BR": "Batismo, penitência, paciência, jejum e o modo de vestir do cristão."
+      },
+      "works": [
+        {
+          "work": "tertullian-baptism",
+          "why": {
+            "en-US": "On baptism",
+            "pt-BR": "Sobre o batismo"
+          }
+        },
+        {
+          "work": "tertullian-repentance",
+          "why": {
+            "en-US": "On repentance",
+            "pt-BR": "Sobre a penitência"
+          }
+        },
+        {
+          "work": "tertullian-patience",
+          "why": {
+            "en-US": "Of patience",
+            "pt-BR": "Da paciência"
+          }
+        },
+        {
+          "work": "tertullian-fasting",
+          "why": {
+            "en-US": "On fasting",
+            "pt-BR": "Sobre o jejum"
+          }
+        },
+        {
+          "work": "tertullian-modesty",
+          "why": {
+            "en-US": "On modesty",
+            "pt-BR": "Sobre o pudor"
+          }
+        },
+        {
+          "work": "tertullian-apparel-of-women",
+          "why": {
+            "en-US": "On the apparel of women",
+            "pt-BR": "Sobre o vestuário das mulheres"
+          }
+        },
+        {
+          "work": "tertullian-veiling-of-virgins",
+          "why": {
+            "en-US": "On the veiling of virgins",
+            "pt-BR": "Sobre o véu das virgens"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Marriage and chastity",
+        "pt-BR": "Casamento e castidade"
+      },
+      "works": [
+        {
+          "work": "tertullian-his-wife",
+          "why": {
+            "en-US": "To his wife",
+            "pt-BR": "À sua esposa"
+          }
+        },
+        {
+          "work": "tertullian-exhortation-to-chastity",
+          "why": {
+            "en-US": "An exhortation to chastity",
+            "pt-BR": "Exortação à castidade"
+          }
+        },
+        {
+          "work": "tertullian-monogamy",
+          "why": {
+            "en-US": "On monogamy",
+            "pt-BR": "Sobre a monogamia"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Martyrdom, persecution and the world",
+        "pt-BR": "Martírio, perseguição e o mundo"
+      },
+      "note": {
+        "en-US": "Counsel for Christians facing persecution and pagan society.",
+        "pt-BR": "Conselhos a cristãos diante da perseguição e da sociedade pagã."
+      },
+      "works": [
+        {
+          "work": "tertullian-ad-martyras",
+          "why": {
+            "en-US": "To the martyrs",
+            "pt-BR": "Aos mártires"
+          }
+        },
+        {
+          "work": "tertullian-scorpiace",
+          "why": {
+            "en-US": "Scorpiace, against the sting of heretics",
+            "pt-BR": "Scorpiace, contra a picada dos hereges"
+          }
+        },
+        {
+          "work": "tertullian-de-fuga-in-persecutione",
+          "why": {
+            "en-US": "On flight in persecution",
+            "pt-BR": "Sobre a fuga na perseguição"
+          }
+        },
+        {
+          "work": "tertullian-de-corona",
+          "why": {
+            "en-US": "The soldier's chaplet",
+            "pt-BR": "A coroa do soldado"
+          }
+        },
+        {
+          "work": "tertullian-idolatry",
+          "why": {
+            "en-US": "On idolatry",
+            "pt-BR": "Sobre a idolatria"
+          }
+        },
+        {
+          "work": "tertullian-de-spectaculis",
+          "why": {
+            "en-US": "The shows",
+            "pt-BR": "Os espetáculos"
+          }
+        },
+        {
+          "work": "tertullian-pallium",
+          "why": {
+            "en-US": "On the pallium",
+            "pt-BR": "Sobre o pálio"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Attributed works",
+        "pt-BR": "Obras atribuídas"
+      },
+      "note": {
+        "en-US": "Texts printed with his works that are not his own writing.",
+        "pt-BR": "Textos publicados com suas obras que não são de sua autoria."
+      },
+      "works": [
+        {
+          "work": "tertullian-martyrdom-of-perpetua-and-felicity",
+          "why": {
+            "en-US": "The martyrdom of Perpetua and Felicity",
+            "pt-BR": "O martírio de Perpétua e Felicidade"
+          }
+        },
+        {
+          "work": "tertullian-appendix",
+          "why": {
+            "en-US": "Appendix: Against All Heresies",
+            "pt-BR": "Apêndice: Contra todas as heresias"
+          }
+        }
+      ]
+    }
   ]
 }
