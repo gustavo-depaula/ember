@@ -1,5 +1,28 @@
 {
-  "name": { "en-US": "James Butler, Archbishop of Cashel", "pt-BR": "James Butler, Arcebispo de Cashel" },
+  "name": {
+    "en-US": "James Butler, Archbishop of Cashel",
+    "pt-BR": "James Butler, Arcebispo de Cashel"
+  },
   "century": 18,
-  "matches": ["James Butler, Archbishop of Cashel", "Most Rev. Dr. James Butler"]
+  "matches": [
+    "James Butler, Archbishop of Cashel",
+    "Most Rev. Dr. James Butler"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Catechism",
+        "pt-BR": "Catecismo"
+      },
+      "works": [
+        {
+          "work": "butler/catechism",
+          "why": {
+            "en-US": "Butler's Catechism of Ireland, 1775",
+            "pt-BR": "O Catecismo de Butler, da Irlanda, 1775"
+          }
+        }
+      ]
+    }
+  ]
 }
