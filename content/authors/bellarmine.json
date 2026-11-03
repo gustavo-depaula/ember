@@ -13,5 +13,274 @@
     "Robertus Bellarminus",
     "Roberto Bellarmino",
     "Bellarmine, Robert, Saint, 1542-1621"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "The catechisms and ascetical books he wrote for ordinary Christians.",
+        "pt-BR": "Os catecismos e os livros ascéticos que escreveu para os cristãos comuns."
+      },
+      "works": [
+        {
+          "work": "bellarmine/dottrina-cristiana-breve",
+          "why": {
+            "en-US": "The short catechism of 1597, to be learned by heart",
+            "pt-BR": "O catecismo breve de 1597, para aprender de cor"
+          }
+        },
+        {
+          "work": "bellarmine/dichiarazione-piu-copiosa",
+          "why": {
+            "en-US": "The longer catechism, in dialogue, on creed, prayer, sacraments",
+            "pt-BR": "O catecismo maior, em diálogo: credo, oração, sacramentos"
+          }
+        },
+        {
+          "work": "bellarmine/de-ascensione-mentis",
+          "why": {
+            "en-US": "Fifteen steps to God through created things, from a retreat",
+            "pt-BR": "Quinze degraus até Deus pelas criaturas, de um retiro"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Ascetical works",
+        "pt-BR": "Obras ascéticas"
+      },
+      "note": {
+        "en-US": "The books of his last years, written in retirement for the soul's own use.",
+        "pt-BR": "Os livros dos últimos anos, escritos no retiro para uso da própria alma."
+      },
+      "works": [
+        {
+          "work": "bellarmine/de-arte-bene-moriendi",
+          "why": {
+            "en-US": "How to live so as to die well, and the help at the end",
+            "pt-BR": "Como viver para morrer bem, e o auxílio no fim"
+          }
+        },
+        {
+          "work": "bellarmine/de-septem-verbis",
+          "why": {
+            "en-US": "The seven last words of Christ, sense by sense",
+            "pt-BR": "As sete últimas palavras de Cristo, uma a uma"
+          }
+        },
+        {
+          "work": "bellarmine/de-aeterna-felicitate",
+          "why": {
+            "en-US": "The happiness of the saints under five scriptural names",
+            "pt-BR": "A felicidade dos santos sob cinco nomes bíblicos"
+          }
+        },
+        {
+          "work": "bellarmine/de-gemitu-columbae",
+          "why": {
+            "en-US": "The value of tears and groans in the Christian life",
+            "pt-BR": "O valor das lágrimas e gemidos na vida cristã"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Scripture and preaching",
+        "pt-BR": "Escritura e pregação"
+      },
+      "note": {
+        "en-US": "His commentary on the Psalms and his Louvain sermons.",
+        "pt-BR": "Seu comentário aos Salmos e os sermões de Lovaina."
+      },
+      "works": [
+        {
+          "work": "bellarmine/explanatio-in-psalmos",
+          "why": {
+            "en-US": "All the Psalms, literal and patristic, in the Vulgate numbering",
+            "pt-BR": "Todos os Salmos, em sentido literal e patrístico, na numeração da Vulgata"
+          }
+        },
+        {
+          "work": "bellarmine/conciones",
+          "why": {
+            "en-US": "Sermons of 1570-76, by the days of the liturgical year",
+            "pt-BR": "Sermões de 1570-76, pelos dias do ano litúrgico"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The Controversies: faith and the Church",
+        "pt-BR": "As Controvérsias: a fé e a Igreja"
+      },
+      "note": {
+        "en-US": "His great Disputations on the Controversies of the Christian Faith, the foundations first.",
+        "pt-BR": "Suas grandes Disputas sobre as Controvérsias da Fé Cristã, começando pelos fundamentos."
+      },
+      "works": [
+        {
+          "work": "bellarmine/controversiae-prolegomena"
+        },
+        {
+          "work": "bellarmine/controversiae-de-verbo-dei"
+        },
+        {
+          "work": "bellarmine/controversiae-de-christo"
+        },
+        {
+          "work": "bellarmine/controversiae-de-summo-pontifice"
+        },
+        {
+          "work": "bellarmine/controversiae-appendix-de-summo-pontifice"
+        },
+        {
+          "work": "bellarmine/controversiae-de-conciliis-et-ecclesia-militante"
+        },
+        {
+          "work": "bellarmine/controversiae-de-ecclesia-triumphante"
+        },
+        {
+          "work": "bellarmine/controversiae-de-purgatorio"
+        },
+        {
+          "work": "bellarmine/controversiae-de-clericis"
+        },
+        {
+          "work": "bellarmine/controversiae-de-exemptione-clericorum"
+        },
+        {
+          "work": "bellarmine/controversiae-de-monachis"
+        },
+        {
+          "work": "bellarmine/controversiae-de-laicis"
+        },
+        {
+          "work": "bellarmine/controversiae-de-translatione-imperii"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The Controversies: grace and justification",
+        "pt-BR": "As Controvérsias: graça e justificação"
+      },
+      "works": [
+        {
+          "work": "bellarmine/controversiae-de-gratia-primi-hominis"
+        },
+        {
+          "work": "bellarmine/controversiae-de-amissione-gratiae"
+        },
+        {
+          "work": "bellarmine/controversiae-de-gratia-et-libero-arbitrio"
+        },
+        {
+          "work": "bellarmine/controversiae-de-iustificatione"
+        },
+        {
+          "work": "bellarmine/controversiae-de-bonis-operibus"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The Controversies: the sacraments",
+        "pt-BR": "As Controvérsias: os sacramentos"
+      },
+      "works": [
+        {
+          "work": "bellarmine/controversiae-de-eucharistia"
+        },
+        {
+          "work": "bellarmine/controversiae-de-sacramentis-in-genere"
+        },
+        {
+          "work": "bellarmine/controversiae-de-baptismo"
+        },
+        {
+          "work": "bellarmine/controversiae-de-confirmatione"
+        },
+        {
+          "work": "bellarmine/controversiae-de-poenitentia"
+        },
+        {
+          "work": "bellarmine/controversiae-de-extrema-unctione"
+        },
+        {
+          "work": "bellarmine/controversiae-de-ordine"
+        },
+        {
+          "work": "bellarmine/controversiae-de-matrimonio"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Church and State",
+        "pt-BR": "Igreja e Estado"
+      },
+      "note": {
+        "en-US": "His writings on papal power and the oath of allegiance, and the Venetian Interdict.",
+        "pt-BR": "Seus escritos sobre o poder papal e o juramento de fidelidade, e o Interdito de Veneza."
+      },
+      "works": [
+        {
+          "work": "bellarmine/de-potestate-summi-pontificis"
+        },
+        {
+          "work": "bellarmine/responsio-ad-triplici-nodo"
+        },
+        {
+          "work": "bellarmine/responsio-ad-apologiam-jacobi-regis"
+        },
+        {
+          "work": "bellarmine/risposte-interdetto"
+        },
+        {
+          "work": "bellarmine/de-officio-principis-christiani"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Other treatises",
+        "pt-BR": "Outros tratados"
+      },
+      "works": [
+        {
+          "work": "bellarmine/de-indulgentiis"
+        },
+        {
+          "work": "bellarmine/appendix-de-cultu-imaginum"
+        },
+        {
+          "work": "bellarmine/judicium-de-libro-concordiae"
+        },
+        {
+          "work": "bellarmine/de-scriptoribus-ecclesiasticis"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Attributed works",
+        "pt-BR": "Obras atribuídas"
+      },
+      "works": [
+        {
+          "work": "bellarmine/de-cognitione-dei",
+          "why": {
+            "en-US": "Short treatise on the knowledge of God; attribution unverified",
+            "pt-BR": "Breve tratado sobre o conhecimento de Deus; autoria não comprovada"
+          }
+        }
+      ]
+    }
   ]
 }
