@@ -1,0 +1,45 @@
+{
+ "id": "faber-spirit-genius-st-philip-neri",
+ "dir": "faber-opera-omnia/spirit-genius-st-philip-neri",
+ "slug": "spirit-genius-st-philip-neri",
+ "work": "faber/spirit-genius-st-philip-neri",
+ "name": "The Spirit and Genius of St. Philip Neri",
+ "name_pt": "O Esp\u00edrito e o G\u00eanio de S. Filipe Neri",
+ "author": "Frederick William Faber",
+ "author_pt": "Frederick William Faber",
+ "died": 1863,
+ "desc": "The Spirit and Genius of St. Philip Neri (1850): three lectures delivered in the London Oratory in the triduum before the feast of St. Philip: St. Philip a portrait of Jesus, St. Philip the representative saint of modern times, and St. Philip in England.",
+ "desc_pt": "O Esp\u00edrito e o G\u00eanio de S. Filipe Neri (1850): tr\u00eas confer\u00eancias pronunciadas no Orat\u00f3rio de Londres no tr\u00edduo anterior \u00e0 festa de S. Filipe: S. Filipe, retrato de Jesus; S. Filipe, o santo representativo dos tempos modernos; e S. Filipe na Inglaterra.",
+ "composed": 1850,
+ "editor": "Frederick William Faber (London: Henry Lucas, 1850)",
+ "year": 1850,
+ "url": "https://archive.org/details/TheSpiritAndGeniusOfStPhilipNeri",
+ "edition": "The Spirit and Genius of St. Philip Neri (London: Henry Lucas, 1850), Internet Archive full-text OCR.",
+ "srcnote": "The three lectures; the contents is dropped, and the unrelated work bound after them is left out.",
+ "src": "faber/ia/TheSpiritAndGeniusOfStPhilipNeri_djvu.txt",
+ "start": 170,
+ "end": 5283,
+ "fn": true,
+ "back": [],
+ "front": [],
+ "label": {},
+ "romanheads": false,
+ "inline": [],
+ "units": [
+  {
+   "id": "lecture-1",
+   "title": "Lecture I. St. Philip a Portrait of Jesus",
+   "from": 218
+  },
+  {
+   "id": "lecture-2",
+   "title": "Lecture II. St. Philip the Representative Saint of Modern Times",
+   "from": 1975
+  },
+  {
+   "id": "lecture-3",
+   "title": "Lecture III. St. Philip in England",
+   "from": 3800
+  }
+ ]
+}

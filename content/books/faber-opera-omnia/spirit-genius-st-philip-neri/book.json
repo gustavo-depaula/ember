@@ -1,0 +1,57 @@
+{
+  "id": "faber-spirit-genius-st-philip-neri",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Spirit and Genius of St. Philip Neri",
+    "pt-BR": "O Espírito e o Gênio de S. Filipe Neri"
+  },
+  "author": {
+    "en-US": "Frederick William Faber",
+    "pt-BR": "Frederick William Faber"
+  },
+  "description": {
+    "en-US": "The Spirit and Genius of St. Philip Neri (1850): three lectures delivered in the London Oratory in the triduum before the feast of St. Philip: St. Philip a portrait of Jesus, St. Philip the representative saint of modern times, and St. Philip in England.",
+    "pt-BR": "O Espírito e o Gênio de S. Filipe Neri (1850): três conferências pronunciadas no Oratório de Londres no tríduo anterior à festa de S. Filipe: S. Filipe, retrato de Jesus; S. Filipe, o santo representativo dos tempos modernos; e S. Filipe na Inglaterra."
+  },
+  "composed": 1850,
+  "languages": [
+    "en-US"
+  ],
+  "work": "faber/spirit-genius-st-philip-neri",
+  "editions": {
+    "en-US": {
+      "editor": "Frederick William Faber (London: Henry Lucas, 1850)",
+      "year": 1850
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/TheSpiritAndGeniusOfStPhilipNeri",
+      "edition": "The Spirit and Genius of St. Philip Neri (London: Henry Lucas, 1850), Internet Archive full-text OCR.",
+      "description": "The three lectures; the contents is dropped, and the unrelated work bound after them is left out. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Frederick William Faber died in 1863 and the edition is of 1850, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "lecture-1",
+      "title": {
+        "en-US": "Lecture I. St. Philip a Portrait of Jesus"
+      }
+    },
+    {
+      "id": "lecture-2",
+      "title": {
+        "en-US": "Lecture II. St. Philip the Representative Saint of Modern Times"
+      }
+    },
+    {
+      "id": "lecture-3",
+      "title": {
+        "en-US": "Lecture III. St. Philip in England"
+      }
+    }
+  ]
+}
