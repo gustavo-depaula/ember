@@ -1,0 +1,123 @@
+{
+  "id": "manning-sermons-ecclesiastical-subjects-2",
+  "cover": "classic",
+  "name": {
+    "en-US": "Sermons on Ecclesiastical Subjects, II",
+    "pt-BR": "Sermões sobre Assuntos Eclesiásticos, II"
+  },
+  "author": {
+    "en-US": "Cardinal Henry Edward Manning",
+    "pt-BR": "Cardeal Henry Edward Manning"
+  },
+  "description": {
+    "en-US": "Sermons on Ecclesiastical Subjects, volume II (1867-72): fourteen sermons on the Church, the Spirit and the Word, St. Vincent de Paul, the Blessed Sacrament, St. Alphonsus, truth before peace, the Disciples of the Holy Ghost, the foreign missions and the Negro mission, and St. Edmund.",
+    "pt-BR": "Sermões sobre Assuntos Eclesiásticos, volume II (1867-72): catorze sermões sobre a Igreja, o Espírito e a Palavra, S. Vicente de Paulo, o Santíssimo Sacramento, S. Afonso, a verdade antes da paz, os Discípulos do Espírito Santo, as missões estrangeiras e a missão aos negros, e S. Edmundo."
+  },
+  "composed": 1867,
+  "languages": [
+    "en-US"
+  ],
+  "work": "manning/sermons-ecclesiastical-subjects",
+  "editions": {
+    "en-US": {
+      "editor": "Henry Edward Manning (London: Burns, Oates and Co., 1867)",
+      "year": 1867
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/a591990802mannuoft",
+      "edition": "Sermons on Ecclesiastical Subjects (vol. 2) (London: Burns, Oates and Co., 1867), Internet Archive full-text OCR.",
+      "description": "The sermons; the contents, the errata and the index are dropped. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Cardinal Henry Edward Manning died in 1892 and the edition is of 1867, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "sermon-1",
+      "title": {
+        "en-US": "Sermon I. The Church, the Spirit, and the Word"
+      }
+    },
+    {
+      "id": "sermon-2",
+      "title": {
+        "en-US": "Sermon II. The Apostolate of St. Vincent of Paul"
+      }
+    },
+    {
+      "id": "sermon-3",
+      "title": {
+        "en-US": "Sermon III. St. Vincent's Love of Souls"
+      }
+    },
+    {
+      "id": "sermon-4",
+      "title": {
+        "en-US": "Sermon IV. The Death of St. Vincent"
+      }
+    },
+    {
+      "id": "sermon-5",
+      "title": {
+        "en-US": "Sermon V. The Restoration of the Church of St. Thomas"
+      }
+    },
+    {
+      "id": "sermon-6",
+      "title": {
+        "en-US": "Sermon VI. The Blessed Sacrament the Centre of Immutable Truth"
+      }
+    },
+    {
+      "id": "sermon-7",
+      "title": {
+        "en-US": "Sermon VII. The Mission of St. Alphonsus"
+      }
+    },
+    {
+      "id": "sermon-8",
+      "title": {
+        "en-US": "Sermon VIII. Truth before Peace"
+      }
+    },
+    {
+      "id": "sermon-9",
+      "title": {
+        "en-US": "Sermon IX. Omnia pro Christo"
+      }
+    },
+    {
+      "id": "sermon-10",
+      "title": {
+        "en-US": "Sermon X. The Disciples of the Holy Ghost"
+      }
+    },
+    {
+      "id": "sermon-11",
+      "title": {
+        "en-US": "Sermon XI. Our Duty to the Heathen"
+      }
+    },
+    {
+      "id": "sermon-12",
+      "title": {
+        "en-US": "Sermon XII. Missions to the Heathen a Test of Love"
+      }
+    },
+    {
+      "id": "sermon-13",
+      "title": {
+        "en-US": "Sermon XIII. The Negro Mission"
+      }
+    },
+    {
+      "id": "sermon-14",
+      "title": {
+        "en-US": "Sermon XIV. St. Edmund's Heirloom"
+      }
+    }
+  ]
+}
