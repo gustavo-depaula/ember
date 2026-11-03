@@ -1,0 +1,225 @@
+{
+  "id": "fenelon-christian-counsel-metcalf",
+  "cover": "classic",
+  "name": {
+    "en-US": "Christian Counsel on Divers Matters Pertaining to the Inner Life",
+    "pt-BR": "Conselhos Cristãos sobre Diversos Assuntos da Vida Interior"
+  },
+  "author": {
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François Fénelon"
+  },
+  "description": {
+    "en-US": "Thirty-one chapters of Fénelon's counsel on the inner life: the knowledge and love of God, pure love, prayer and meditation, mortification, self-abandonment, temptations, silence, the cross and the presence of God, in the Metcalf version of Spiritual Progress.",
+    "pt-BR": "Trinta e um capítulos de Fénelon sobre a vida interior: conhecimento e amor de Deus, amor puro, oração e meditação, mortificação, abandono, tentações, silêncio, a cruz e a presença de Deus, na versão de Metcalf."
+  },
+  "composed": 1700,
+  "languages": [
+    "en-US"
+  ],
+  "work": "fenelon/instructions-et-avis",
+  "editions": {
+    "en-US": {
+      "editor": "James W. Metcalf (New York: M. W. Dodd, 1853)",
+      "year": 1853
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://ccel.org/ccel/fenelon/progress",
+      "edition": "Spiritual Progress, ed. James W. Metcalf (New York: M. W. Dodd, 1853), CCEL proofed etext; only Fénelon's parts.",
+      "description": "Fénelon's part of the volume only; the Guyon and La Combe pieces and the editor's preface are left out. Gutenberg licence and transcriber notes are dropped. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "François de Salignac de La Mothe-Fénelon died in 1715 and the edition is of 1853, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Chapter I. Of the Little Knowledge of God There is in the World"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "Chapter II. Of the Necessity of Knowing and Loving God"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "Chapter III. On Pure Love"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "Chapter IV. On Prayer and the Principal Exercises of Piety"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "Chapter V. On Conformity to the Life of Jesus Christ"
+      }
+    },
+    {
+      "id": "chapter-06",
+      "title": {
+        "en-US": "Chapter VI. On Humility"
+      }
+    },
+    {
+      "id": "chapter-07",
+      "title": {
+        "en-US": "Chapter VII. On Prayer"
+      }
+    },
+    {
+      "id": "chapter-08",
+      "title": {
+        "en-US": "Chapter VIII. On Meditation"
+      }
+    },
+    {
+      "id": "chapter-09",
+      "title": {
+        "en-US": "Chapter IX. On Mortification"
+      }
+    },
+    {
+      "id": "chapter-10",
+      "title": {
+        "en-US": "Chapter X. On Self-abandonment"
+      }
+    },
+    {
+      "id": "chapter-11",
+      "title": {
+        "en-US": "Chapter XI. On Temptations"
+      }
+    },
+    {
+      "id": "chapter-12",
+      "title": {
+        "en-US": "Chapter XII. On Wandering Thoughts and Dejection"
+      }
+    },
+    {
+      "id": "chapter-13",
+      "title": {
+        "en-US": "Chapter XIII. On Confidence in God"
+      }
+    },
+    {
+      "id": "chapter-14",
+      "title": {
+        "en-US": "Chapter XIV. In What Manner We Are to Watch Ourselves"
+      }
+    },
+    {
+      "id": "chapter-15",
+      "title": {
+        "en-US": "Chapter XV. On the Inward Teaching of the Spirit of God"
+      }
+    },
+    {
+      "id": "chapter-16",
+      "title": {
+        "en-US": "Chapter XVI. On Daily Faults and the Toleration of Ourselves"
+      }
+    },
+    {
+      "id": "chapter-17",
+      "title": {
+        "en-US": "Chapter XVII. On Fidelity in Small Matters"
+      }
+    },
+    {
+      "id": "chapter-18",
+      "title": {
+        "en-US": "Chapter XVIII. On Transitory Emotions, Fidelity, and Simplicity"
+      }
+    },
+    {
+      "id": "chapter-19",
+      "title": {
+        "en-US": "Chapter XIX. On the Advantages of Silence and Recollection"
+      }
+    },
+    {
+      "id": "chapter-20",
+      "title": {
+        "en-US": "Chapter XX. Privation and Annihilation, a Terror Even to the Spiritually-minded"
+      }
+    },
+    {
+      "id": "chapter-21",
+      "title": {
+        "en-US": "Chapter XXI. On the Proper Use of Crosses"
+      }
+    },
+    {
+      "id": "chapter-22",
+      "title": {
+        "en-US": "Chapter XXII. On the Interior Operations of God to Bring Man to the True End of his Creation"
+      }
+    },
+    {
+      "id": "chapter-23",
+      "title": {
+        "en-US": "Chapter XXIII. On Christian Perfection"
+      }
+    },
+    {
+      "id": "chapter-24",
+      "title": {
+        "en-US": "Chapter XXIV. The Way of Naked Faith and Pure Love is Better and More Certain Than That of Illuminations and Sensible Delights"
+      }
+    },
+    {
+      "id": "chapter-25",
+      "title": {
+        "en-US": "Chapter XXV. On the Presence of God"
+      }
+    },
+    {
+      "id": "chapter-26",
+      "title": {
+        "en-US": "Chapter XXVI. On Conformity to the Will of God"
+      }
+    },
+    {
+      "id": "chapter-27",
+      "title": {
+        "en-US": "Chapter XXVII. General Directions for Attaining Inward Peace"
+      }
+    },
+    {
+      "id": "chapter-28",
+      "title": {
+        "en-US": "Chapter XXVIII. Pure Love Only Can Suffer Aright and Love its Sufferings"
+      }
+    },
+    {
+      "id": "chapter-29",
+      "title": {
+        "en-US": "Chapter XXIX. Interested and Disinterested Love Have Each its Appropriate Season"
+      }
+    },
+    {
+      "id": "chapter-30",
+      "title": {
+        "en-US": "Chapter XXX. On True Liberty"
+      }
+    },
+    {
+      "id": "chapter-31",
+      "title": {
+        "en-US": "Chapter XXXI. On the Employment of Time"
+      }
+    }
+  ]
+}
