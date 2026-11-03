@@ -1,0 +1,392 @@
+{
+  "id": "bernard-de-consideratione-mount-melleray",
+  "cover": "classic",
+  "name": {
+    "en-US": "On Consideration (Mount Melleray)",
+    "pt-BR": "Sobre a consideração (Mount Melleray)"
+  },
+  "author": {
+    "la": "Bernardus Claraevallensis",
+    "en-US": "St. Bernard of Clairvaux",
+    "pt-BR": "São Bernardo de Claraval"
+  },
+  "description": {
+    "en-US": "The English of a priest of Mount Melleray (Ailbe Luddy; Dublin, Browne and Nolan, 1921) of the five books De consideratione, Bernard's advice to Pope Eugene III: the author's preface and the sixty-one chapters, with the chapter summaries as titles. The Latin book's chapters match, and the Oxford English of George Lewis (1908) sits in that book; this second English is a separate book of the same work.",
+    "pt-BR": "A tradução inglesa de um sacerdote de Mount Melleray (Dublin, 1921) dos cinco livros De consideratione de São Bernardo ao papa Eugênio III."
+  },
+  "composed": "1148-1153",
+  "languages": [
+    "en-US"
+  ],
+  "work": "bernard/de-consideratione",
+  "editions": {
+    "en-US": {
+      "translator": "A priest of Mount Melleray (Ailbe Luddy)",
+      "year": 1921
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/stbernardstreati00bern",
+      "edition": "St. Bernard's Treatise on Consideration, translated by a priest of Mount Melleray (Dublin: Browne and Nolan, 1921).",
+      "description": "Djvu OCR cleaned by script, not proofread. The long introduction, the translator's notes (dropped because the OCR runs them into the page text) and the appendix (Letter CCXXXVII to the Roman Curia) are not imported.",
+      "tier": "A",
+      "tierEvidence": "Published in 1921, before 1931: public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologus",
+      "title": {
+        "en-US": "Author’s Preface"
+      }
+    },
+    {
+      "id": "liber-1",
+      "title": {
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "l1-c01",
+          "title": {
+            "en-US": "Chapter I. The Saint condoles with the Pontiff oppressed with the multitudinous cares of his Office"
+          }
+        },
+        {
+          "id": "l1-c02",
+          "title": {
+            "en-US": "Chapter II. On the Power of Habit to produce Evil Dispositions and Hardness of Heart"
+          }
+        },
+        {
+          "id": "l1-c03",
+          "title": {
+            "en-US": "Chapter III. That it is unworthy of Prelates of the Church to be constantly engaged in hearing and deciding lawsuits"
+          }
+        },
+        {
+          "id": "l1-c04",
+          "title": {
+            "en-US": "Chapter IV. What kind of Servitude is Worthy and What Unworthy of him who is called the Servant of the Servants of God"
+          }
+        },
+        {
+          "id": "l1-c05",
+          "title": {
+            "en-US": "Chapter V. That the Pontiff should not be so solicitous for others AS TO neglect the care OF himself"
+          }
+        },
+        {
+          "id": "l1-c06",
+          "title": {
+            "en-US": "Chapter VI. That the Judiciary Power belongs more to Civil Magistrates than to the Prelates of the Church"
+          }
+        },
+        {
+          "id": "l1-c07",
+          "title": {
+            "en-US": "Chapter VII. That the Pontiff should give his first attention TO PlETY and TO the consideration of Eternal Things"
+          }
+        },
+        {
+          "id": "l1-c08",
+          "title": {
+            "en-US": "Chapter VIII. On the Harmony of the Virtues as Revealed by Consideration"
+          }
+        },
+        {
+          "id": "l1-c09",
+          "title": {
+            "en-US": "Chapter IX. That the Precedents of Recent Pontiffs ought TO BE gradually abandoned and those OF the more ancient followed"
+          }
+        },
+        {
+          "id": "l1-c10",
+          "title": {
+            "en-US": "Chapter X. The Abuses and Fraudulent Practices of Advocates, Judges, and Procurators are severely condemned"
+          }
+        },
+        {
+          "id": "l1-c11",
+          "title": {
+            "en-US": "Chapter XI. That the Pontiff should follow the Example of Christ in dealing with Sacrilegious Traffic"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-2",
+      "title": {
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "l2-c01",
+          "title": {
+            "en-US": "Chapter I. The Saint apologises for the ill-success of the Second Crusade"
+          }
+        },
+        {
+          "id": "l2-c02",
+          "title": {
+            "en-US": "Chapter II. How Consideration differs from Contemplation"
+          }
+        },
+        {
+          "id": "l2-c03",
+          "title": {
+            "en-US": "Chapter III. On the fourfold Object of Consideration"
+          }
+        },
+        {
+          "id": "l2-c04",
+          "title": {
+            "en-US": "Chapter IV. On the three Points proposed for Self-Consideration, of which the first is briefly dealt with"
+          }
+        },
+        {
+          "id": "l2-c05",
+          "title": {
+            "en-US": "Chapter V. On the Second Point for Self-Consideration"
+          }
+        },
+        {
+          "id": "l2-c06",
+          "title": {
+            "en-US": "Chapter VI. On what ought to be the Occupation of a Prince of the Church"
+          }
+        },
+        {
+          "id": "l2-c07",
+          "title": {
+            "en-US": "Chapter VII. The Pontiff is urged to recognise and to acknowledge his shortcomings"
+          }
+        },
+        {
+          "id": "l2-c08",
+          "title": {
+            "en-US": "Chapter VIII. On the Dignity of the Roman Pontiff"
+          }
+        },
+        {
+          "id": "l2-c09",
+          "title": {
+            "en-US": "Chapter IX. The Pontiff is further reminded of what he is by Nature"
+          }
+        },
+        {
+          "id": "l2-c10",
+          "title": {
+            "en-US": "Chapter X. On the Third Point for Self-Consideration"
+          }
+        },
+        {
+          "id": "l2-c11",
+          "title": {
+            "en-US": "Chapter XI. How the Pontiff is to examine his Conscience"
+          }
+        },
+        {
+          "id": "l2-c12",
+          "title": {
+            "en-US": "Chapter XII. That it is a great thing to preserve Wisdom both in Prosperity and in Adversity"
+          }
+        },
+        {
+          "id": "l2-c13",
+          "title": {
+            "en-US": "Chapter XIII. The Pontiff is exhorted to shun Idleness, and to abstain from frivolous and useless words"
+          }
+        },
+        {
+          "id": "l2-c14",
+          "title": {
+            "en-US": "Chapter XIV. The Pontiff is warned against Respect of Persons in his Judgments"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-3",
+      "title": {
+        "en-US": "Book III"
+      },
+      "children": [
+        {
+          "id": "l3-c01",
+          "title": {
+            "en-US": "Chapter I. That the Papacy is more a Stewardship than a Dominion, and that the Pope's first Duty is to Propagate the Faith"
+          }
+        },
+        {
+          "id": "l3-c02",
+          "title": {
+            "en-US": "Chapter II. On the Manner in which Appeals should be Made to the Holy See"
+          }
+        },
+        {
+          "id": "l3-c03",
+          "title": {
+            "en-US": "Chapter III. That the Prelates of the Church are appointed, not for the purpose OF exercising Dominion or of aggrandising Themselves, but in order to promote the Spiritual Interests of their Flocks go"
+          }
+        },
+        {
+          "id": "l3-c04",
+          "title": {
+            "en-US": "Chapter IV. That the Degrees of the Ecclesiastical Hierarchy should not be confounded without adequate cause, and that the practise of seeking privileges and exemptions ought to be proscribed as an abuse"
+          }
+        },
+        {
+          "id": "l3-c05",
+          "title": {
+            "en-US": "Chapter V. That it is the duty of the Sovereign Pontiff TO see that his own decrees AS well AS those OF his predecessors are observed throughout the universal church . io3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-4",
+      "title": {
+        "en-US": "Book IV"
+      },
+      "children": [
+        {
+          "id": "l4-c01",
+          "title": {
+            "en-US": "Chapter I. On what is meant by the things about the Pontiff"
+          }
+        },
+        {
+          "id": "l4-c02",
+          "title": {
+            "en-US": "Chapter II. On the Character and Disposition of the Roman Clergy and People"
+          }
+        },
+        {
+          "id": "l4-c03",
+          "title": {
+            "en-US": "Chapter III. On the manner in which the Pontiff ought to deal with the roman people"
+          }
+        },
+        {
+          "id": "l4-c04",
+          "title": {
+            "en-US": "Chapter IV. On what manner of men the Cardinals ought to be"
+          }
+        },
+        {
+          "id": "l4-c05",
+          "title": {
+            "en-US": "Chapter V. Examples of Disinterestedness in Papal Legates"
+          }
+        },
+        {
+          "id": "l4-c06",
+          "title": {
+            "en-US": "Chapter VI. That the Pontiff should charge himself personally with the Discipline of his Household, but should leave all other domestic affairs to the management of his major-domo"
+          }
+        },
+        {
+          "id": "l4-c07",
+          "title": {
+            "en-US": "Chapter VII. A Summary of the Virtues required in the Sovereign Pontiff"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-5",
+      "title": {
+        "en-US": "Book V"
+      },
+      "children": [
+        {
+          "id": "l5-c01",
+          "title": {
+            "en-US": "Chapter I. That Consideration is in Exile amongst Material Things"
+          }
+        },
+        {
+          "id": "l5-c02",
+          "title": {
+            "en-US": "Chapter II. On the Three Degrees of Consideration"
+          }
+        },
+        {
+          "id": "l5-c03",
+          "title": {
+            "en-US": "Chapter III. The Pontiff is informed as to what are the Things above him and how they are to be considered"
+          }
+        },
+        {
+          "id": "l5-c04",
+          "title": {
+            "en-US": "Chapter IV. On the manner in which the Holy Angels are to be considered"
+          }
+        },
+        {
+          "id": "l5-c05",
+          "title": {
+            "en-US": "Chapter V. That the Operations proper to the different Angelic Choirs represent different Perfections in God. All these graces and prerogatives manifested in them, the angelic choirs owe to Him to Whom they owe  \" The name of each angelic order signifies a participation"
+          }
+        },
+        {
+          "id": "l5-c06",
+          "title": {
+            "en-US": "Chapter VI. That the Names and Notions of Being and Beginning belong most properly TO god"
+          }
+        },
+        {
+          "id": "l5-c07",
+          "title": {
+            "en-US": "Chapter VII. On the Simplicity of Nature and Trinity of Persons in God"
+          }
+        },
+        {
+          "id": "l5-c08",
+          "title": {
+            "en-US": "Chapter VIII. That the Plurality of Persons in God is due to the Personal Properties or Relations, the Essence remaining One and Simple"
+          }
+        },
+        {
+          "id": "l5-c09",
+          "title": {
+            "en-US": "Chapter IX. That as in God there is One Nature subsisting in Three Persons, so in% Christ there are Three Natures subsisting in One Person"
+          }
+        },
+        {
+          "id": "l5-c10",
+          "title": {
+            "en-US": "Chapter X. The Parable of the Three Measures is explained in Relation to Christ"
+          }
+        },
+        {
+          "id": "l5-c11",
+          "title": {
+            "en-US": "Chapter XI. What God is to His Elect"
+          }
+        },
+        {
+          "id": "l5-c12",
+          "title": {
+            "en-US": "Chapter XII. What God is to the Reprobate"
+          }
+        },
+        {
+          "id": "l5-c13",
+          "title": {
+            "en-US": "Chapter XIII. On the Length and Breadth and Height and Depth of God"
+          }
+        },
+        {
+          "id": "l5-c14",
+          "title": {
+            "en-US": "Chapter XIV. On the Manner in which the Length and Breadth and Height and Depth of God can be comprehended"
+          }
+        }
+      ]
+    }
+  ]
+}
