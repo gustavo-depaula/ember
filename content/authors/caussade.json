@@ -8,5 +8,44 @@
     "Jean-Pierre de Caussade",
     "Jean-Pierre de Caussade (attributed)",
     "Caussade, Jean-Pierre de"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "caussade/abandon-a-la-providence-divine",
+          "why": {
+            "en-US": "The duty of each moment as the veil of God's action",
+            "pt-BR": "O dever de cada momento como véu da ação de Deus"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Letters and instructions",
+        "pt-BR": "Cartas e instruções"
+      },
+      "works": [
+        {
+          "work": "caussade/lettres-spirituelles",
+          "why": {
+            "en-US": "A hundred and forty-eight spiritual letters",
+            "pt-BR": "Cento e quarenta e oito cartas espirituais"
+          }
+        },
+        {
+          "work": "caussade/instructions-spirituelles",
+          "why": {
+            "en-US": "Dialogues on the states of prayer, his only book in life",
+            "pt-BR": "Diálogos sobre os estados de oração, seu único livro em vida"
+          }
+        }
+      ]
+    }
   ]
 }
