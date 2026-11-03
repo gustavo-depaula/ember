@@ -9,5 +9,468 @@
     "François Fénelon",
     "Fénelon",
     "Fenelon"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "His counsel on the inner life, then his classic romance.",
+        "pt-BR": "Seus conselhos sobre a vida interior e depois seu romance clássico."
+      },
+      "works": [
+        {
+          "work": "fenelon/instructions-et-avis",
+          "why": {
+            "en-US": "Counsels and short treatises on Christian perfection",
+            "pt-BR": "Conselhos e breves tratados sobre a perfeição cristã"
+          }
+        },
+        {
+          "work": "fenelon/lettres-spirituelles",
+          "why": {
+            "en-US": "His letters of spiritual direction",
+            "pt-BR": "Suas cartas de direção espiritual"
+          }
+        },
+        {
+          "work": "fenelon/reflexions-saintes",
+          "why": {
+            "en-US": "Thirty-one short meditations, one for each day of the month",
+            "pt-BR": "Trinta e uma breves meditações, uma para cada dia do mês"
+          }
+        },
+        {
+          "work": "fenelon/telemaque",
+          "why": {
+            "en-US": "His didactic romance for the Duke of Burgundy, 1699",
+            "pt-BR": "Seu romance didático para o duque de Borgonha, 1699"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Spiritual direction and piety",
+        "pt-BR": "Direção espiritual e piedade"
+      },
+      "works": [
+        {
+          "work": "fenelon/manuel-de-piete",
+          "why": {
+            "en-US": "Counsels on prayer, with morning and evening prayers",
+            "pt-BR": "Conselhos sobre a oração, com orações da manhã e da noite"
+          }
+        },
+        {
+          "work": "fenelon/lettres-points-de-spiritualite",
+          "why": {
+            "en-US": "Letters on frequent communion and other points",
+            "pt-BR": "Cartas sobre a comunhão frequente e outros pontos"
+          }
+        },
+        {
+          "work": "fenelon/sermons-et-entretiens",
+          "why": {
+            "en-US": "Sermons and discourses, 1685-1707",
+            "pt-BR": "Sermões e discursos, 1685-1707"
+          }
+        },
+        {
+          "work": "fenelon/recueil-de-mandements",
+          "why": {
+            "en-US": "Pastoral letters for the jubilee, Lent and public prayers",
+            "pt-BR": "Cartas pastorais para o jubileu, a Quaresma e as preces públicas"
+          }
+        },
+        {
+          "work": "fenelon/mandatum-de-rituali-edendo",
+          "why": {
+            "en-US": "Latin mandate on the diocesan Ritual, 1703",
+            "pt-BR": "Mandato latino sobre o Ritual diocesano, 1703"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Education and fiction",
+        "pt-BR": "Educação e ficção"
+      },
+      "works": [
+        {
+          "work": "fenelon/education-des-filles",
+          "why": {
+            "en-US": "On the Education of Girls, c. 1685",
+            "pt-BR": "Sobre a educação das meninas, c. 1685"
+          }
+        },
+        {
+          "work": "fenelon/fables",
+          "why": {
+            "en-US": "Fables written for the Duke of Burgundy",
+            "pt-BR": "Fábulas escritas para o duque de Borgonha"
+          }
+        },
+        {
+          "work": "fenelon/dialogues-des-morts",
+          "why": {
+            "en-US": "Seventy-nine dialogues of the dead, for the duke's education",
+            "pt-BR": "Setenta e nove diálogos dos mortos, para a educação do duque"
+          }
+        },
+        {
+          "work": "fenelon/odyssee",
+          "why": {
+            "en-US": "The Odyssey in prose for the duke",
+            "pt-BR": "A Odisseia em prosa para o duque"
+          }
+        },
+        {
+          "work": "fenelon/vies-des-philosophes",
+          "why": {
+            "en-US": "Lives of twenty-three Greek sages, with their maxims",
+            "pt-BR": "Vidas de vinte e três sábios gregos, com suas máximas"
+          }
+        },
+        {
+          "work": "fenelon/abrege-des-vies-des-anciens-philosophes",
+          "why": {
+            "en-US": "The same abridgement in English, from Thales",
+            "pt-BR": "O mesmo resumo em inglês, a partir de Tales"
+          }
+        },
+        {
+          "work": "fenelon/dialogues-sur-leloquence",
+          "why": {
+            "en-US": "Three dialogues on oratory and the pulpit",
+            "pt-BR": "Três diálogos sobre a oratória e o púlpito"
+          }
+        },
+        {
+          "work": "fenelon/lettre-a-lacademie",
+          "why": {
+            "en-US": "Letter to the Academy and other academic writings",
+            "pt-BR": "Carta à Academia e outros escritos acadêmicos"
+          }
+        },
+        {
+          "work": "fenelon/opuscules-litteraires",
+          "why": {
+            "en-US": "Letters to La Motte, a judgment on a poet, poems",
+            "pt-BR": "Cartas a La Motte, um juízo sobre um poeta, poemas"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Philosophy and apologetics",
+        "pt-BR": "Filosofia e apologética"
+      },
+      "works": [
+        {
+          "work": "fenelon/existence-de-dieu",
+          "why": {
+            "en-US": "Treatise on the existence and attributes of God",
+            "pt-BR": "Tratado da existência e dos atributos de Deus"
+          }
+        },
+        {
+          "work": "fenelon/lettres-metaphysique",
+          "why": {
+            "en-US": "Seven letters on God, religion and the infinite",
+            "pt-BR": "Sete cartas sobre Deus, a religião e o infinito"
+          }
+        },
+        {
+          "work": "fenelon/lettres-autorite-eglise",
+          "why": {
+            "en-US": "Eight letters to a Protestant on the Church's authority",
+            "pt-BR": "Oito cartas a um protestante sobre a autoridade da Igreja"
+          }
+        },
+        {
+          "work": "fenelon/ministere-des-pasteurs",
+          "why": {
+            "en-US": "On the authority of the pastoral ministry, 1688",
+            "pt-BR": "Sobre a autoridade do ministério pastoral, 1688"
+          }
+        },
+        {
+          "work": "fenelon/entretiens-ramsay",
+          "why": {
+            "en-US": "Conversations with Ramsay on the truth of religion, 1710",
+            "pt-BR": "Conversas com Ramsay sobre a verdade da religião, 1710"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The quietism dispute",
+        "pt-BR": "A controvérsia do quietismo"
+      },
+      "note": {
+        "en-US": "From the book on pure love to its condemnation, in order.",
+        "pt-BR": "Do livro sobre o puro amor à sua condenação, em ordem."
+      },
+      "works": [
+        {
+          "work": "fenelon/maximes-des-saints",
+          "why": {
+            "en-US": "The Maxims of the Saints on pure love, 1697, later condemned",
+            "pt-BR": "As Máximas dos Santos sobre o puro amor, 1697, depois condenado"
+          }
+        },
+        {
+          "work": "fenelon/issy-et-conferences-de-paris",
+          "why": {
+            "en-US": "First pieces: Issy, Molinos and the Paris conferences",
+            "pt-BR": "Primeiros textos: Issy, Molinos e as conferências de Paris"
+          }
+        },
+        {
+          "work": "fenelon/instruction-pastorale-et-reponses",
+          "why": {
+            "en-US": "Pastoral Instruction on his book and replies, 1697",
+            "pt-BR": "Instrução pastoral sobre seu livro e respostas, 1697"
+          }
+        },
+        {
+          "work": "fenelon/dissertation-et-lettres-a-paris",
+          "why": {
+            "en-US": "Dissertation and letters to the Archbishop of Paris, 1698",
+            "pt-BR": "Dissertação e cartas ao arcebispo de Paris, 1698"
+          }
+        },
+        {
+          "work": "fenelon/lettres-a-meaux-1698",
+          "why": {
+            "en-US": "Five letters to the Bishop of Meaux, 1698",
+            "pt-BR": "Cinco cartas ao bispo de Meaux, 1698"
+          }
+        },
+        {
+          "work": "fenelon/reponses-a-la-relation",
+          "why": {
+            "en-US": "Reply to Bossuet's Account of Quietism, 1698",
+            "pt-BR": "Resposta à Relação sobre o Quietismo de Bossuet, 1698"
+          }
+        },
+        {
+          "work": "fenelon/lettres-a-l-eveque-de-chartres",
+          "why": {
+            "en-US": "Letters to the Bishop of Chartres, 1698-1699",
+            "pt-BR": "Cartas ao bispo de Chartres, 1698-1699"
+          }
+        },
+        {
+          "work": "fenelon/lettres-a-meaux-traites-latins",
+          "why": {
+            "en-US": "Replies to Bossuet's Latin treatises, 1698",
+            "pt-BR": "Respostas aos tratados latinos de Bossuet, 1698"
+          }
+        },
+        {
+          "work": "fenelon/lettres-a-meaux-1699",
+          "why": {
+            "en-US": "Last writings against the Bishop of Meaux, 1698-1699",
+            "pt-BR": "Últimos escritos contra o bispo de Meaux, 1698-1699"
+          }
+        },
+        {
+          "work": "fenelon/ecrits-latins-quietisme",
+          "why": {
+            "en-US": "His Latin writings in the dispute, 1698-1700",
+            "pt-BR": "Seus escritos latinos na controvérsia, 1698-1700"
+          }
+        },
+        {
+          "work": "fenelon/pieces-de-la-condamnation",
+          "why": {
+            "en-US": "The brief Cum alias and the documents of the condemnation",
+            "pt-BR": "O breve Cum alias e os documentos da condenação"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Jansenism",
+        "pt-BR": "O jansenismo"
+      },
+      "note": {
+        "en-US": "His pastoral writings against Jansenism, 1703-1715.",
+        "pt-BR": "Seus escritos pastorais contra o jansenismo, 1703-1715."
+      },
+      "works": [
+        {
+          "work": "fenelon/cas-de-conscience-1704",
+          "why": {
+            "en-US": "Ordinance and pastoral instruction on the Case of Conscience",
+            "pt-BR": "Ordenança e instrução pastoral sobre o Caso de Consciência"
+          }
+        },
+        {
+          "work": "fenelon/instructions-pastorales-1704-1705",
+          "why": {
+            "en-US": "The second, third and fourth pastoral instructions",
+            "pt-BR": "A segunda, a terceira e a quarta instruções pastorais"
+          }
+        },
+        {
+          "work": "fenelon/reponses-a-bissy-et-saint-pons",
+          "why": {
+            "en-US": "Replies to the bishops of Meaux and Saint-Pons, 1706",
+            "pt-BR": "Respostas aos bispos de Meaux e Saint-Pons, 1706"
+          }
+        },
+        {
+          "work": "fenelon/memoires-et-ordonnances-1706-1710",
+          "why": {
+            "en-US": "Memoranda, ordinances and letters, 1703-1709",
+            "pt-BR": "Memórias, ordenanças e cartas, 1703-1709"
+          }
+        },
+        {
+          "work": "fenelon/silence-respectueux-et-unigenitus",
+          "why": {
+            "en-US": "Respectful silence, infallibility and the Unigenitus letters",
+            "pt-BR": "Silêncio respeitoso, infalibilidade e as cartas sobre a Unigenitus"
+          }
+        },
+        {
+          "work": "fenelon/instruction-pastorale-en-dialogues",
+          "why": {
+            "en-US": "Pastoral instruction in dialogues on Jansenius, 1714-15",
+            "pt-BR": "Instrução pastoral em diálogos sobre Jansênio, 1714-15"
+          }
+        },
+        {
+          "work": "fenelon/ordonnance-contre-la-theologie-de-chalons",
+          "why": {
+            "en-US": "His last pastoral instruction, against the Theology of Châlons",
+            "pt-BR": "Sua última instrução pastoral, contra a Teologia de Châlons"
+          }
+        },
+        {
+          "work": "fenelon/dissertationes-jansenisme",
+          "why": {
+            "en-US": "Four Latin dissertations on the Jansenist controversy",
+            "pt-BR": "Quatro dissertações latinas sobre a controvérsia jansenista"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Politics and kingship",
+        "pt-BR": "Política e realeza"
+      },
+      "works": [
+        {
+          "work": "fenelon/lettre-a-louis-xiv",
+          "why": {
+            "en-US": "The anonymous letter to the King, c. 1694",
+            "pt-BR": "A carta anônima ao rei, c. 1694"
+          }
+        },
+        {
+          "work": "fenelon/examen-de-conscience-sur-les-devoirs-de-la-royaute",
+          "why": {
+            "en-US": "Examination of conscience on the duties of kingship",
+            "pt-BR": "Exame de consciência sobre os deveres da realeza"
+          }
+        },
+        {
+          "work": "fenelon/memoires-et-plans-de-gouvernement",
+          "why": {
+            "en-US": "Memoranda on war and peace, and plans of government",
+            "pt-BR": "Memórias sobre guerra e paz, e planos de governo"
+          }
+        },
+        {
+          "work": "fenelon/essai-sur-le-gouvernement-civil",
+          "why": {
+            "en-US": "Essay on civil government, after Fénelon, 1721",
+            "pt-BR": "Ensaio sobre o governo civil, a partir de Fénelon, 1721"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Correspondence",
+        "pt-BR": "Correspondência"
+      },
+      "works": [
+        {
+          "work": "fenelon/lettres-diverses-1",
+          "why": {
+            "en-US": "Miscellaneous letters I, 1670-1715",
+            "pt-BR": "Cartas diversas I, 1670-1715"
+          }
+        },
+        {
+          "work": "fenelon/lettres-diverses-2",
+          "why": {
+            "en-US": "Miscellaneous letters II, 1670-1715",
+            "pt-BR": "Cartas diversas II, 1670-1715"
+          }
+        },
+        {
+          "work": "fenelon/correspondance-famille",
+          "why": {
+            "en-US": "Letters to his family, 1675-1715",
+            "pt-BR": "Cartas à família, 1675-1715"
+          }
+        },
+        {
+          "work": "fenelon/correspondance-bourgogne-beauvilliers-chevreuse",
+          "why": {
+            "en-US": "Letters to the Duke of Burgundy and his circle",
+            "pt-BR": "Cartas ao duque de Borgonha e a seu círculo"
+          }
+        },
+        {
+          "work": "fenelon/correspondance-quietisme-1",
+          "why": {
+            "en-US": "Correspondence on the quietism affair I, 1693-1697",
+            "pt-BR": "Correspondência sobre o quietismo I, 1693-1697"
+          }
+        },
+        {
+          "work": "fenelon/correspondance-quietisme-2",
+          "why": {
+            "en-US": "Correspondence on the quietism affair II, 1697-1699",
+            "pt-BR": "Correspondência sobre o quietismo II, 1697-1699"
+          }
+        },
+        {
+          "work": "fenelon/correspondance-quietisme-3",
+          "why": {
+            "en-US": "Correspondence after the condemnation, 1699-1715",
+            "pt-BR": "Correspondência após a condenação, 1699-1715"
+          }
+        },
+        {
+          "work": "fenelon/lettres-et-memoires-juridiction",
+          "why": {
+            "en-US": "Letters on his archdiocese's jurisdiction, 1695-1715",
+            "pt-BR": "Cartas sobre a jurisdição de sua arquidiocese, 1695-1715"
+          }
+        },
+        {
+          "work": "fenelon/testament",
+          "why": {
+            "en-US": "His will, 1713",
+            "pt-BR": "Seu testamento, 1713"
+          }
+        }
+      ]
+    }
   ]
 }
