@@ -1,0 +1,125 @@
+{
+  "id": "gueranger-annee-liturgique-11-pentecote-2",
+  "name": {
+    "fr-FR": "L’Année liturgique : le temps après la Pentecôte, II",
+    "en-US": "The Liturgical Year: Time after Pentecost, Book II (continuation by Dom Fromage)",
+    "pt-BR": "O Ano Litúrgico: Tempo depois de Pentecostes, II (continuação de Dom Fromage)"
+  },
+  "author": {
+    "fr-FR": "Dom Lucien Fromage (continuation de Dom Guéranger)",
+    "en-US": "Dom Lucien Fromage",
+    "pt-BR": "Dom Lucien Fromage"
+  },
+  "description": {
+    "fr-FR": "Volume 11 de l’Année liturgique (Le temps après la Pentecôte, II, 2e volume de la continuation par Dom Lucien Fromage) : un chapitre par jour ou fête, avec les textes liturgiques en latin et en français.",
+    "en-US": "Volume 11 of the 15-volume Liturgical Year (L’Année liturgique) in the original French, the second volume of the continuation written by Dom Lucien Fromage after Guéranger’s death. One chapter per day or feast, with the Latin and French of the liturgical texts. Made from the 1911 Oudin printing’s OCR; the two-column Latin and French text is separated by script and some running heads remain.",
+    "pt-BR": "Volume 11 dos 15 volumes de «O Ano Litúrgico» (L’Année liturgique) em francês, volume 2 da continuação escrita por Dom Lucien Fromage após a morte de Guéranger. Um capítulo por dia ou festa, com o latim e o francês dos textos litúrgicos."
+  },
+  "composed": "1883",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "fr-FR": {
+      "editor": "Dom Lucien Fromage, continuation (Oudin, Paris-Poitiers)",
+      "year": 1911
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/lanneliturgiqu11gu",
+      "edition": "L’Année liturgique, vol. 11, Paris-Poitiers: Librairie H. Oudin, 1911. Internet Archive scan (University of Toronto), OCR text.",
+      "description": "Split at detected day and feast headings; running heads and page numbers removed where recognised; the Latin and French columns, interleaved line by line in the OCR, were separated by language and set as a Latin paragraph followed by its French. The table of contents at the back is not imported.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875 and Fromage in 1916; the text was printed in 1911 (before 1931)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-preface",
+      "title": {
+        "fr-FR": "Preface"
+      }
+    },
+    {
+      "id": "002-chapitre-iv-de-l-office-des-vepres-des-dimanches",
+      "title": {
+        "fr-FR": "Chapitre IV de l office des vêpres des dimanches au temps après la Pentecôte"
+      }
+    },
+    {
+      "id": "003-le-quatrieme-dimanche-apres-la-pentecote",
+      "title": {
+        "fr-FR": "Le quatrième dimanche après la Pentecôte"
+      }
+    },
+    {
+      "id": "004-le-cinquieme-dimanche-apres-la-pentecote",
+      "title": {
+        "fr-FR": "Le cinquième dimanche après la Pentecôte"
+      }
+    },
+    {
+      "id": "005-le-sixieme-dimanche-apres-la-pentecote",
+      "title": {
+        "fr-FR": "Le sixième dimanche après la Pentecôte"
+      }
+    },
+    {
+      "id": "006-le-septieme-dimanche-apres-la-pentecote",
+      "title": {
+        "fr-FR": "Le septième dimanche après la Pentecôte"
+      }
+    },
+    {
+      "id": "007-le-huitieme-dimanche-apres-la-pentecote",
+      "title": {
+        "fr-FR": "Le huitième dimanche après la Pentecôte"
+      }
+    },
+    {
+      "id": "008-le-neuvieme-dimanche-apres-la-pentecote",
+      "title": {
+        "fr-FR": "Le neuvième dimanche après la Pentecôte"
+      }
+    },
+    {
+      "id": "009-le-seizieme-dimanche-apres-la-pentecote",
+      "title": {
+        "fr-FR": "Le seizième dimanche après la Pentecôte"
+      }
+    },
+    {
+      "id": "010-les-quatre-temps-de-septembre",
+      "title": {
+        "fr-FR": "Les Quatre-Temps de septembre"
+      }
+    },
+    {
+      "id": "011-le-vingtieme-dimanche-apres-la-pentecote",
+      "title": {
+        "fr-FR": "Le vingtième dimanche après la Pentecôte"
+      }
+    },
+    {
+      "id": "012-le-troisieme-dimanche-apres-lepiphanie",
+      "title": {
+        "fr-FR": "Le troisième dimanche après l’Épiphanie"
+      }
+    },
+    {
+      "id": "013-le-quatrieme-dimanche-apres-l-epiphanie-collecte",
+      "title": {
+        "fr-FR": "Le quatrième dimanche après l Épiphanie collecte"
+      }
+    },
+    {
+      "id": "014-le-cinquieme-dimanche-apres-lepiphanie",
+      "title": {
+        "fr-FR": "Le cinquième dimanche après l’Épiphanie"
+      }
+    }
+  ]
+}
