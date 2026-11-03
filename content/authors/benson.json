@@ -7,6 +7,307 @@
   "matches": [
     "Robert Hugh Benson",
     "Benson, Robert Hugh",
-    "Benson, Robert Hugh, 1871-1914"
+    "Benson, Robert Hugh, 1871-1914",
+    "Mgr. Robert Hugh Benson"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "benson/friendship-of-christ",
+          "why": {
+            "en-US": "His best-known devotional book, on friendship with Christ",
+            "pt-BR": "Seu livro devocional mais conhecido, sobre a amizade com Cristo"
+          }
+        },
+        {
+          "work": "benson/lord-of-the-world",
+          "why": {
+            "en-US": "The apocalyptic novel of a world that has abandoned the faith",
+            "pt-BR": "O romance apocalíptico de um mundo que abandonou a fé"
+          }
+        },
+        {
+          "work": "benson/confessions-of-a-convert",
+          "why": {
+            "en-US": "His road from the Anglican priesthood to the Church",
+            "pt-BR": "Seu caminho do sacerdócio anglicano à Igreja"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Devotion and spiritual guidance",
+        "pt-BR": "Devoção e direção espiritual"
+      },
+      "note": {
+        "en-US": "The books in which Benson speaks most directly as a priest.",
+        "pt-BR": "Os livros em que Benson fala mais diretamente como sacerdote."
+      },
+      "works": [
+        {
+          "work": "benson/spiritual-letters",
+          "why": {
+            "en-US": "Letters of direction to one of his converts",
+            "pt-BR": "Cartas de direção espiritual a um de seus convertidos"
+          }
+        },
+        {
+          "work": "benson/vexilla-regis",
+          "why": {
+            "en-US": "War-time prayers and intercessions for each day",
+            "pt-BR": "Orações e intercessões de guerra para cada dia"
+          }
+        },
+        {
+          "work": "benson/mysticism",
+          "why": {
+            "en-US": "A lecture on the mystical experience and the Church",
+            "pt-BR": "Uma conferência sobre a experiência mística e a Igreja"
+          }
+        },
+        {
+          "work": "benson/lourdes",
+          "why": {
+            "en-US": "A pilgrimage to the Grotto and the cures he saw",
+            "pt-BR": "Uma peregrinação à Gruta e as curas que presenciou"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Apologetics and sermons",
+        "pt-BR": "Apologética e sermões"
+      },
+      "works": [
+        {
+          "work": "benson/paradoxes-of-catholicism",
+          "why": {
+            "en-US": "Advent sermons preached at Westminster Cathedral",
+            "pt-BR": "Sermões de Advento pregados na Catedral de Westminster"
+          }
+        },
+        {
+          "work": "benson/christ-in-the-church",
+          "why": {
+            "en-US": "The Church as the continuation of Christ's own life",
+            "pt-BR": "A Igreja como continuação da própria vida de Cristo"
+          }
+        },
+        {
+          "work": "benson/religion-of-the-plain-man",
+          "why": {
+            "en-US": "A short apologetic for the ordinary English reader",
+            "pt-BR": "Uma breve apologética para o leitor inglês comum"
+          }
+        },
+        {
+          "work": "benson/papers-of-a-pariah",
+          "why": {
+            "en-US": "Essays on religion by a convert and a priest",
+            "pt-BR": "Ensaios sobre religião de um convertido e sacerdote"
+          }
+        },
+        {
+          "work": "benson/non-catholic-denominations",
+          "why": {
+            "en-US": "A survey of the non-Catholic religions of England",
+            "pt-BR": "Um panorama das religiões não católicas da Inglaterra"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Historical novels",
+        "pt-BR": "Romances históricos"
+      },
+      "works": [
+        {
+          "work": "benson/come-rack-come-rope",
+          "why": {
+            "en-US": "The Elizabethan persecution of Catholics in Derbyshire",
+            "pt-BR": "A perseguição elisabetana aos católicos em Derbyshire"
+          }
+        },
+        {
+          "work": "benson/by-what-authority",
+          "why": {
+            "en-US": "His first Catholic novel, set in Elizabethan England",
+            "pt-BR": "Seu primeiro romance católico, na Inglaterra elisabetana"
+          }
+        },
+        {
+          "work": "benson/kings-achievement",
+          "why": {
+            "en-US": "The dissolution of the monasteries under Henry VIII",
+            "pt-BR": "A dissolução dos mosteiros sob Henrique VIII"
+          }
+        },
+        {
+          "work": "benson/oddsfish",
+          "why": {
+            "en-US": "A Catholic at the court of Charles II",
+            "pt-BR": "Um católico na corte de Carlos II"
+          }
+        },
+        {
+          "work": "benson/queens-tragedy",
+          "why": {
+            "en-US": "Mary Tudor's reign, her marriage and her sorrow",
+            "pt-BR": "O reinado de Maria Tudor, seu casamento e sua dor"
+          }
+        },
+        {
+          "work": "benson/richard-raynal-solitary",
+          "why": {
+            "en-US": "A medieval tale of a young hermit and his visions",
+            "pt-BR": "Um conto medieval sobre um jovem eremita e suas visões"
+          }
+        },
+        {
+          "work": "benson/holy-blissful-martyr",
+          "why": {
+            "en-US": "A short life of St Thomas Becket",
+            "pt-BR": "Uma breve vida de São Tomás Becket"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Novels of the future",
+        "pt-BR": "Romances do futuro"
+      },
+      "works": [
+        {
+          "work": "benson/dawn-of-all",
+          "why": {
+            "en-US": "The companion to Lord of the World: a Europe returned to the Faith",
+            "pt-BR": "O companheiro de Lord of the World: uma Europa de volta à Fé"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Novels of conversion and conscience",
+        "pt-BR": "Romances de conversão e consciência"
+      },
+      "works": [
+        {
+          "work": "benson/average-man",
+          "why": {
+            "en-US": "An ordinary Anglican man of business becomes a Catholic",
+            "pt-BR": "Um homem de negócios anglicano comum torna-se católico"
+          }
+        },
+        {
+          "work": "benson/none-other-gods",
+          "why": {
+            "en-US": "A young English earl becomes a Catholic",
+            "pt-BR": "Um jovem conde inglês torna-se católico"
+          }
+        },
+        {
+          "work": "benson/conventionalists",
+          "why": {
+            "en-US": "A conventional Anglican family and a son who turns to Rome",
+            "pt-BR": "Uma família anglicana convencional e um filho que se volta a Roma"
+          }
+        },
+        {
+          "work": "benson/necromancers",
+          "why": {
+            "en-US": "A bereaved young man and the lure of spiritualism",
+            "pt-BR": "Um jovem enlutado e o fascínio do espiritismo"
+          }
+        },
+        {
+          "work": "benson/initiation",
+          "why": {
+            "en-US": "A boy's school years and the first stirrings of the interior life",
+            "pt-BR": "Os anos escolares de um menino e os primeiros passos da vida interior"
+          }
+        },
+        {
+          "work": "benson/coward",
+          "why": {
+            "en-US": "A young man's struggle with cowardice and the spirit",
+            "pt-BR": "A luta de um jovem com a covardia e a vida do espírito"
+          }
+        },
+        {
+          "work": "benson/winnowing",
+          "why": {
+            "en-US": "A family winnowed by sudden death; faith and doubt tested",
+            "pt-BR": "Uma família provada pela morte súbita; fé e dúvida postas à prova"
+          }
+        },
+        {
+          "work": "benson/sentimentalists",
+          "why": {
+            "en-US": "A comedy of manners and conscience in Edwardian society",
+            "pt-BR": "Uma comédia de costumes e consciência na sociedade eduardiana"
+          }
+        },
+        {
+          "work": "benson/loneliness",
+          "why": {
+            "en-US": "A woman's loneliness and the search for companionship",
+            "pt-BR": "A solidão de uma mulher e a busca de companhia"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Stories and plays",
+        "pt-BR": "Contos e peças"
+      },
+      "works": [
+        {
+          "work": "benson/light-invisible",
+          "why": {
+            "en-US": "His first book of fiction: tales of a hermit-priest",
+            "pt-BR": "Seu primeiro livro de ficção: histórias de um padre eremita"
+          }
+        },
+        {
+          "work": "benson/mirror-of-shalott",
+          "why": {
+            "en-US": "Thirteen tales of the supernatural told one night in Rome",
+            "pt-BR": "Treze contos do sobrenatural contados numa noite em Roma"
+          }
+        },
+        {
+          "work": "benson/upper-room",
+          "why": {
+            "en-US": "A drama of the Passion in three acts",
+            "pt-BR": "Um drama da Paixão em três atos"
+          }
+        },
+        {
+          "work": "benson/mystery-play-nativity",
+          "why": {
+            "en-US": "A Christmas mystery play in the medieval manner",
+            "pt-BR": "Um auto de Natal à maneira medieval"
+          }
+        },
+        {
+          "work": "benson/cost-of-a-crown",
+          "why": {
+            "en-US": "A sacred drama of the martyrs of Douai and Durham",
+            "pt-BR": "Um drama sacro sobre os mártires de Douai e Durham"
+          }
+        }
+      ]
+    }
   ]
 }
