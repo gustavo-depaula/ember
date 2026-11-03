@@ -8,5 +8,66 @@
     "Fray Luis de León",
     "Luis de León",
     "Fr. Luis de León"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "luis-de-leon/nombres-de-cristo",
+          "why": {
+            "en-US": "A dialogue on the names Scripture gives to Christ",
+            "pt-BR": "Diálogo sobre os nomes que a Escritura dá a Cristo"
+          }
+        },
+        {
+          "work": "luis-de-leon/poesias",
+          "why": {
+            "en-US": "His odes and sonnet, with Phillips's verse translation",
+            "pt-BR": "Suas odes e soneto, com a tradução em verso de Phillips"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Scripture",
+        "pt-BR": "Escritura"
+      },
+      "works": [
+        {
+          "work": "luis-de-leon/cantar-de-los-cantares",
+          "why": {
+            "en-US": "The Song of Songs from the Hebrew, with commentary",
+            "pt-BR": "O Cântico dos Cânticos do hebraico, com comentário"
+          }
+        },
+        {
+          "work": "luis-de-leon/exposicion-de-job",
+          "why": {
+            "en-US": "His longest work, a chapter-by-chapter exposition of Job",
+            "pt-BR": "Sua obra mais longa, exposição capítulo a capítulo de Jó"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "For Christian life",
+        "pt-BR": "Para a vida cristã"
+      },
+      "works": [
+        {
+          "work": "luis-de-leon/perfecta-casada",
+          "why": {
+            "en-US": "A commentary on Proverbs 31, written for a bride",
+            "pt-BR": "Comentário a Provérbios 31, escrito para uma noiva"
+          }
+        }
+      ]
+    }
   ]
 }
