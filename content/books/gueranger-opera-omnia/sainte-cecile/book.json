@@ -1,0 +1,282 @@
+{
+  "id": "gueranger-sainte-cecile-en",
+  "cover": "classic",
+  "name": {
+    "en-US": "Life of Saint Cecilia, Virgin and Martyr",
+    "fr-FR": "Vie de sainte Cécile, vierge et martyre (traduction anglaise de 1866)",
+    "pt-BR": "Vida de santa Cecília, virgem e mártir"
+  },
+  "author": {
+    "fr-FR": "Prosper Guéranger",
+    "en-US": "Prosper Guéranger",
+    "pt-BR": "Prosper Guéranger"
+  },
+  "description": {
+    "en-US": "The English translation (Philadelphia, 1866) of Dom Guéranger’s Histoire de sainte Cécile et de la société romaine aux deux premiers siècles: Alexander Severus and the Church in Rome, the legend and martyrdom of Cecilia, Valerian and Tiburtius, the Acts and their testimonies, the finding of her body under Paschal I and again under Clement VIII, the Jansenist attack on the Acts and its refutation, and the later history of her basilica.",
+    "fr-FR": "La traduction anglaise (Philadelphie, 1866) de l’Histoire de sainte Cécile de Dom Guéranger : Alexandre Sévère et l’Église de Rome, la passion de Cécile, Valérien et Tiburce, les Actes et leurs témoignages, l’invention de son corps sous Pascal Ier puis sous Clément VIII, l’attaque janséniste contre les Actes et sa réfutation, l’histoire ultérieure de sa basilique.",
+    "pt-BR": "A tradução inglesa (Filadélfia, 1866) da Histoire de sainte Cécile de Dom Guéranger: Alexandre Severo e a Igreja de Roma, a paixão de Cecília, Valeriano e Tibúrcio, os Atos e seus testemunhos, a descoberta do corpo sob Pascoal I e depois sob Clemente VIII, o ataque jansenista aos Atos e sua refutação, a história posterior de sua basílica."
+  },
+  "composed": "1849",
+  "languages": [
+    "en-US"
+  ],
+  "work": "gueranger/sainte-cecile",
+  "editions": {
+    "en-US": {
+      "translator": "Anonymous (Philadelphia)",
+      "year": 1866
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/lifeofsaintcecil00gura",
+      "edition": "Life of Saint Cecilia, Virgin and Martyr, Philadelphia, 1866 (archive.org OCR text, cleaned)",
+      "description": "English only: no French text of the Histoire (1849) or of Sainte Cécile et la société romaine (1874) was found online in this pass. Page-foot notes are not separated by the OCR. Chapter titles are the first sentence of the table of contents entry.",
+      "tier": "A",
+      "tierEvidence": "Printed 1866."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "01",
+      "title": {
+        "en-US": "Chapter 1. Alexander Severus"
+      }
+    },
+    {
+      "id": "02",
+      "title": {
+        "en-US": "Chapter 2. Dispositions of the Magistrates of the Empire with regard to Christianity"
+      }
+    },
+    {
+      "id": "03",
+      "title": {
+        "en-US": "Chapter 3. Martyrs under Alexander Severus"
+      }
+    },
+    {
+      "id": "04",
+      "title": {
+        "en-US": "Chapter 4. Saint Cecilia"
+      }
+    },
+    {
+      "id": "05",
+      "title": {
+        "en-US": "Chapter 5. House in which Cecilia passed her youth"
+      }
+    },
+    {
+      "id": "06",
+      "title": {
+        "en-US": "Chapter 6. Anxiety of St"
+      }
+    },
+    {
+      "id": "07",
+      "title": {
+        "en-US": "Chapter 7. Valerian repairs to Pope Saint Urban"
+      }
+    },
+    {
+      "id": "08",
+      "title": {
+        "en-US": "Chapter 8. Interview of Tiburtius with St"
+      }
+    },
+    {
+      "id": "09",
+      "title": {
+        "en-US": "Chapter 9. Alexander Severus leaves Rome"
+      }
+    },
+    {
+      "id": "10",
+      "title": {
+        "en-US": "Chapter 10. Interrogatory of Valerian"
+      }
+    },
+    {
+      "id": "11",
+      "title": {
+        "en-US": "Chapter 11. Conversion of Maximus, Notary of Almachius"
+      }
+    },
+    {
+      "id": "12",
+      "title": {
+        "en-US": "Chapter 12. Martyrdom of St"
+      }
+    },
+    {
+      "id": "13",
+      "title": {
+        "en-US": "Chapter 13. Interrogatory of St"
+      }
+    },
+    {
+      "id": "14",
+      "title": {
+        "en-US": "Chapter 14. Martyrdom of St"
+      }
+    },
+    {
+      "id": "15",
+      "title": {
+        "en-US": "Chapter 15. Martyrdom of St"
+      }
+    },
+    {
+      "id": "16",
+      "title": {
+        "en-US": "Chapter 16. Zeal of the Roman Pontiffs in collecting the Acts of the Martyrs"
+      }
+    },
+    {
+      "id": "17",
+      "title": {
+        "en-US": "Chapter 17. Compilation of the Acts of S. Cecilia, in the Fifth Century, in their present form"
+      }
+    },
+    {
+      "id": "18",
+      "title": {
+        "en-US": "Chapter 18. Testimonies of the Liturgies of the West in favor of the Acts of St"
+      }
+    },
+    {
+      "id": "19",
+      "title": {
+        "en-US": "Chapter 19. The Appian Way from the Fourth Century to the Ninth"
+      }
+    },
+    {
+      "id": "20",
+      "title": {
+        "en-US": "Chapter 20. Events relating to St"
+      }
+    },
+    {
+      "id": "21",
+      "title": {
+        "en-US": "Chapter 21. Events relating to Cecilia and her Basilica throughout the Seventh and Eighth Centuries"
+      }
+    },
+    {
+      "id": "22",
+      "title": {
+        "en-US": "Chapter 22. Discovery of Cecilia's body by Pope St"
+      }
+    },
+    {
+      "id": "23",
+      "title": {
+        "en-US": "Chapter 23. Translation ot the bodies of Saints Cecilia, Valerian, Tiburtius, Maximus, Urban, and Lucius"
+      }
+    },
+    {
+      "id": "24",
+      "title": {
+        "en-US": "Chapter 24. Confirmation of the Acts of St"
+      }
+    },
+    {
+      "id": "25",
+      "title": {
+        "en-US": "Chapter 25. Events relating to Cecilia in her Basilica throughout the course of the Ninth and Tenth Centuries"
+      }
+    },
+    {
+      "id": "26",
+      "title": {
+        "en-US": "Chapter 26. Events relating to St"
+      }
+    },
+    {
+      "id": "27",
+      "title": {
+        "en-US": "Chapter 27. Events relating to Cecilia and her Basilica throughout the Fifteenth and Sixteenth Centuries, Homage paid by literature and the Arts to the Roman Virgin"
+      }
+    },
+    {
+      "id": "28",
+      "title": {
+        "en-US": "Chapter 28. Cardinal Paul Emilius Sfondrato"
+      }
+    },
+    {
+      "id": "29",
+      "title": {
+        "en-US": "Chapter 29. Sfondrato acquaints Clement VIII.. with the discovery of Cecilia's body"
+      }
+    },
+    {
+      "id": "30",
+      "title": {
+        "en-US": "Chapter 30. Sfondrato's preparations for the translation of Cecilia's body"
+      }
+    },
+    {
+      "id": "31",
+      "title": {
+        "en-US": "Chapter 31. Translation of Cecilia's body by Clement VIII"
+      }
+    },
+    {
+      "id": "32",
+      "title": {
+        "en-US": "Chapter 32. Confirmation of the Acts of St"
+      }
+    },
+    {
+      "id": "33",
+      "title": {
+        "en-US": "Chapter 33. Sfondrato discovers the body of St"
+      }
+    },
+    {
+      "id": "34",
+      "title": {
+        "en-US": "Chapter 34. The Jansenistic school attacks the Acts of the Holy Martyr"
+      }
+    },
+    {
+      "id": "35",
+      "title": {
+        "en-US": "Chapter 35. Continuation of the same subject"
+      }
+    },
+    {
+      "id": "36",
+      "title": {
+        "en-US": "Chapter 36. Continuation of the same subject"
+      }
+    },
+    {
+      "id": "37",
+      "title": {
+        "en-US": "Chapter 37. Events relating to Cecilia and her Basilica throughout the Eighteenth Century"
+      }
+    },
+    {
+      "id": "38",
+      "title": {
+        "en-US": "Chapter 38. Events relating to St"
+      }
+    },
+    {
+      "id": "appendix",
+      "title": {
+        "en-US": "Appendix"
+      }
+    }
+  ]
+}
