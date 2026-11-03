@@ -1,0 +1,51 @@
+{
+  "id": "chesterton-divorce-versus-democracy",
+  "cover": "classic",
+  "name": {
+    "en-US": "Divorce versus Democracy",
+    "pt-BR": "Divórcio contra Democracia"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "A pamphlet of 1916 against the divorce bill: Chesterton argues that facile divorce is a rich man's privilege and that the common people want a marriage that holds.",
+    "pt-BR": "Um panfleto de 1916 contra o projeto de lei do divórcio: Chesterton argumenta que o divórcio fácil é um privilégio dos ricos e que o povo simples quer um casamento que dure."
+  },
+  "composed": "1916",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/divorce-versus-democracy",
+  "editions": {
+    "en-US": {
+      "editor": "Society of SS. Peter and Paul",
+      "year": 1916
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/62467",
+      "edition": "Divorce versus Democracy (Society of SS. Peter and Paul, 1916), Project Gutenberg #62467.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1916 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "ch02-divorce-versus-democracy",
+      "title": {
+        "en-US": "Divorce versus Democracy"
+      }
+    }
+  ]
+}
