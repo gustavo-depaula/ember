@@ -1,0 +1,370 @@
+{
+  "id": "bernard-sermones-de-tempore-mount-melleray-2",
+  "cover": "classic",
+  "name": {
+    "en-US": "Seasonal Sermons II: Epiphany to the Dedication of a Church (Mount Melleray)",
+    "pt-BR": "Sermões do tempo litúrgico II: da Epifania à Dedicação de uma igreja (Mount Melleray)"
+  },
+  "author": {
+    "la": "Bernardus Claraevallensis",
+    "en-US": "St. Bernard of Clairvaux",
+    "pt-BR": "São Bernardo de Claraval"
+  },
+  "description": {
+    "en-US": "Sermons of Bernard for Epiphany, Septuagesima, Lent, Palm Sunday, Easter, the Ascension, Pentecost, the Sundays after Pentecost and the Dedication of a Church, with the two sermons on St. Malachy and two epistles to Malachy, in the English of a priest of Mount Melleray (Dublin, 1923), volume two of his Sermons for the Seasons and Principal Festivals of the Year.",
+    "pt-BR": "Sermões de São Bernardo na tradução inglesa de um sacerdote de Mount Melleray (Dublin)."
+  },
+  "composed": "c. 1135-1153",
+  "languages": [
+    "en-US"
+  ],
+  "work": "bernard/sermones-de-tempore",
+  "editions": {
+    "en-US": {
+      "translator": "A priest of Mount Melleray (Ailbe Luddy)",
+      "year": 1923
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/stbernardssermon0002prie_a0a5",
+      "edition": "St. Bernard's Sermons for the Seasons and Principal Festivals of the Year, translated from the original Latin by a Priest of Mount Melleray, vol. 2 (Dublin: Browne and Nolan, 1923).",
+      "description": "Archive.org OCR cleaned by script, not proofread; the running heads are stripped by pattern and the translator's occasional footnotes are not kept. The translator (a priest of Mount Melleray, Ailbe Luddy) divides and orders the sermons by the liturgical calendar as listed here, which differs from the Latin book.",
+      "tier": "A",
+      "tierEvidence": "Published in 1923, before 1931: public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "s01",
+      "title": {
+        "en-US": "Sermon for the Octave of the Epiphany: On the Reasons Why Christ Willed to be Cir- Cumcised, and on the Different Degrees of Justice . 5 : . ; 30"
+      }
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en-US": "Sermon for the Rogations: On the Three Mystical Loaves ° S 224"
+      }
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en-US": "First Sermon for the Feast of the Epiphany: On the Three Manifestations of Christ"
+      }
+    },
+    {
+      "id": "s04",
+      "title": {
+        "en-US": "Second Sermon for the Feast of the Epiphany: On the Faith of the Magi and the Symbolic Meaning of Their Gifts"
+      }
+    },
+    {
+      "id": "s05",
+      "title": {
+        "en-US": "Third Sermon for the Feast of the Epiphany: On Imitating Herod and the Magi and on the Virtues Commended in the Different Manifestations"
+      }
+    },
+    {
+      "id": "s06",
+      "title": {
+        "en-US": "Sermon for the Octave of the Epiphany: On the Reasons Why Christ Willed to be Cir- Cumcised and on the Different Degrees of Justice"
+      }
+    },
+    {
+      "id": "s07",
+      "title": {
+        "en-US": "First Sermon for the First Sunday After the Octave of the Epiphany: On the Six Spiritual Water-Pots and the Measures They Contain"
+      }
+    },
+    {
+      "id": "s08",
+      "title": {
+        "en-US": "Second Sermon for the First Sunday After the Octave of the Epiphany: On the Spiritual Espousals and the Spiritual Marriage"
+      }
+    },
+    {
+      "id": "s09",
+      "title": {
+        "en-US": "First Sermon for Septuagesima: On How We Should Listen to the Word of God and on the Spiritual Septuagesima"
+      }
+    },
+    {
+      "id": "s10",
+      "title": {
+        "en-US": "Second Sermon for Septuagesima: On the Sleep of Adam"
+      }
+    },
+    {
+      "id": "s11",
+      "title": {
+        "en-US": "First Sermon for Lent: On What is Meant by Anointing the Head and Washing the Face"
+      }
+    },
+    {
+      "id": "s12",
+      "title": {
+        "en-US": "Second Sermon for Lent: On What is Meant by Conversion and by Rending the Heart"
+      }
+    },
+    {
+      "id": "s13",
+      "title": {
+        "en-US": "Third Sermon for Lent: On the Manner of Keeping the Lenten Fast"
+      }
+    },
+    {
+      "id": "s14",
+      "title": {
+        "en-US": "Fourth Sermon for Lent: On Fasting and Prayer"
+      }
+    },
+    {
+      "id": "s15",
+      "title": {
+        "en-US": "Fifth Sermon for Lent: On the Necessity of Prayer and the Objects We Should Pray for"
+      }
+    },
+    {
+      "id": "s16",
+      "title": {
+        "en-US": "Sixth Sermon for Lent: On the Petitions of the Lord’s Prayer. Thy Will be Done on Earth as it is in Heaven. —matt. Vi. 10"
+      }
+    },
+    {
+      "id": "s17",
+      "title": {
+        "en-US": "Seventh Sermon for Lent: On’ the Pilgrim, the Dead Man, and the Man That is Crucified"
+      }
+    },
+    {
+      "id": "s18",
+      "title": {
+        "en-US": "First Sermon for Palm Sunday: On the Procession of the Saviour and Those That Take Part in it"
+      }
+    },
+    {
+      "id": "s19",
+      "title": {
+        "en-US": "Second Sermon for Palm Sunday: On the Four Classes of Christians Who Walk in the Saviour’s Procession"
+      }
+    },
+    {
+      "id": "s20",
+      "title": {
+        "en-US": "Third Sermon for Palm Sunday: On the Lessons to be Learned from the Procession of the Lord, on the Supper, the Passion, the Repose, and the Resurrection"
+      }
+    },
+    {
+      "id": "s21",
+      "title": {
+        "en-US": "Sermon for Spy Wednesday: On the Lorrd’s Passion"
+      }
+    },
+    {
+      "id": "s22",
+      "title": {
+        "en-US": "Sermon for Holy Thursday: On the Effects of Baptism, Holy Communion, and the Washing of the Feet. If I Wash Thee Not Thou Shalt Have No Part with Me. —john Xiii. 8"
+      }
+    },
+    {
+      "id": "s23",
+      "title": {
+        "en-US": "First Sermon for Easter Sunday: On the Apocalyptic Book and its Sevenfold Seal, and on the Proper Mode of Celebrating Easter"
+      }
+    },
+    {
+      "id": "s24",
+      "title": {
+        "en-US": "Second Sermon for Easter Sunday: On the Spices Wherewith the Spiritually Dead Should be Embalmed"
+      }
+    },
+    {
+      "id": "s25",
+      "title": {
+        "en-US": "Third Sermon for Easter: On the Seven Species of Spiritual Leprosy on Account of Which We Have to Wash Seven Times in the Spiritual Jordan, and on the Seven Gifts of the Holy Ghost Represented"
+      }
+    },
+    {
+      "id": "s26",
+      "title": {
+        "en-US": "Sermon for Low Sunday: On the Faith That Overcometh the World and on the Three Witnesses"
+      }
+    },
+    {
+      "id": "s27",
+      "title": {
+        "en-US": "Second Sermon for Low Sunday: On the Manner in Which the Triple Testimony in Heaven and on Earth Distinguishes the Good from the Bad Amongst Angels and Men"
+      }
+    },
+    {
+      "id": "s28",
+      "title": {
+        "en-US": "Sermon for the Rogations: On the Three Mystical Loaves"
+      }
+    },
+    {
+      "id": "s29",
+      "title": {
+        "en-US": "First Sermon for the Feast of the Ascension: On the Signs of Faith and Salvation"
+      }
+    },
+    {
+      "id": "s30",
+      "title": {
+        "en-US": "Second Sermon for the Feast of the Ascension"
+      }
+    },
+    {
+      "id": "s31",
+      "title": {
+        "en-US": "Third Sermon for the Feast of the Ascension: On the Enlightenment of the Intellect by Christ and the Purification of the Will by the Hoy Spirit"
+      }
+    },
+    {
+      "id": "s32",
+      "title": {
+        "en-US": "Fourth Sermon for the Feast of the Ascension: On the Ascensions of Lucifer and Adam, Which We Must Avoid, and the Six ‘ascensions of Christ, Which We Ought to Imitate"
+      }
+    },
+    {
+      "id": "s33",
+      "title": {
+        "en-US": "Fifth Sermon for the Feast of the Ascension: On the Manner in Which We Must Follow Christ to Heaven by Our Intellect and Will"
+      }
+    },
+    {
+      "id": "s34",
+      "title": {
+        "en-US": "First Sermon for the Feast of Pentecost: On the Six Operations of the Holy Ghost"
+      }
+    },
+    {
+      "id": "s35",
+      "title": {
+        "en-US": "Second Sermon for the Feast of Pentecost: On What the Blessed Trinity Has Done for Man, ‘and on the Threefold Grace of the Hooly Ghost"
+      }
+    },
+    {
+      "id": "s36",
+      "title": {
+        "en-US": "Third Sermon for the Feast of Pentecost: On the Different Ways in Which the Holy Ghost Is Communicated"
+      }
+    },
+    {
+      "id": "s37",
+      "title": {
+        "en-US": "Sermon for the Fourth Sunday After Pentecost: On David and Goliath"
+      }
+    },
+    {
+      "id": "s38",
+      "title": {
+        "en-US": "First Sermon for the Sixth Sunday After Pentecost: On the Three Days and the Seven Loaves"
+      }
+    },
+    {
+      "id": "s39",
+      "title": {
+        "en-US": "Second Sermon for the Sixth Sunday After Pentecost: On the Sevenfold Mercy of God Towards the Sinner"
+      }
+    },
+    {
+      "id": "s40",
+      "title": {
+        "en-US": "Third Sermon for the Sixth Sunday After Pentecost: On the Fragments of the Seven Mystical Loaves"
+      }
+    },
+    {
+      "id": "s41",
+      "title": {
+        "en-US": "First Sermon for the First Sunday in November: On the Two Visions of God"
+      }
+    },
+    {
+      "id": "s42",
+      "title": {
+        "en-US": "Second Sermon for the First Sunday in November: That None Save Those Who Are Subject to God Shall be Admitted to His Temple"
+      }
+    },
+    {
+      "id": "s43",
+      "title": {
+        "en-US": "Third Sermon for the First Sunday in November: On the Different Kinds of Seraphim. and Upon it Stood the Servaphim.—is. Vi. 2.*"
+      }
+    },
+    {
+      "id": "s44",
+      "title": {
+        "en-US": "Fourth Sermon for the First Sunday in November: On the Wings of the Seraphim"
+      }
+    },
+    {
+      "id": "s45",
+      "title": {
+        "en-US": "Fifth Sermon for the First Sunday in November: On the Way in Which the Seraphim Cover the Face and Feet of God, and on the Manner of Their Flying"
+      }
+    },
+    {
+      "id": "s46",
+      "title": {
+        "en-US": "First Sermon for the Feast of the Dedication of a Church: On the Spiritual Dedication of the Spiritual Temple"
+      }
+    },
+    {
+      "id": "s47",
+      "title": {
+        "en-US": "Second Sermon for the Dedication of a Church: On the Kind of Temple God Requires Us to Build } for Him"
+      }
+    },
+    {
+      "id": "s48",
+      "title": {
+        "en-US": "Third Sermon for the Dedication of a Church: On How the Stronghold of the King May be Defended and Betrayed"
+      }
+    },
+    {
+      "id": "s49",
+      "title": {
+        "en-US": "Fourth Sermon for the Dedication of a Church: On the Tabernacles, the Courts, and the House of the Lord"
+      }
+    },
+    {
+      "id": "s50",
+      "title": {
+        "en-US": "Fifth Sermon for the Dedication of a Church: On the House, Temple, City, and Spouse of God"
+      }
+    },
+    {
+      "id": "s51",
+      "title": {
+        "en-US": "Sixth Sermon for the Dedication of a Church: On the Various Modes of the Divine Presence. Truly the Lord is in This Place. —gen. Xxviii. 16"
+      }
+    },
+    {
+      "id": "s52",
+      "title": {
+        "en-US": "First Sermon on St. Malachy: Preached in the New Cemetery of Clairvaux, November 2nd, 1148, After the Holy Bishop's Burial"
+      }
+    },
+    {
+      "id": "s53",
+      "title": {
+        "en-US": "Second Sermon on St. Malachy. Preached on Some Anniversary"
+      }
+    },
+    {
+      "id": "s54",
+      "title": {
+        "en-US": "Second Epistle to St. Malachy"
+      }
+    },
+    {
+      "id": "s55",
+      "title": {
+        "en-US": "Third Epistle to St. Malachy"
+      }
+    }
+  ]
+}
