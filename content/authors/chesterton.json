@@ -10,5 +10,697 @@
     "Gilbert Keith Chesterton",
     "Gilbert K. Chesterton",
     "Chesterton, G. K. (Gilbert Keith), 1874-1936"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "How he came to believe, and the argument that turned his readers.",
+        "pt-BR": "Como ele chegou à fé, e o argumento que converteu seus leitores."
+      },
+      "works": [
+        {
+          "work": "chesterton/orthodoxy",
+          "why": {
+            "en-US": "How he came to believe, as a spirit rather than a proof",
+            "pt-BR": "Como chegou a crer, como espírito e não como prova"
+          }
+        },
+        {
+          "work": "chesterton/everlasting-man",
+          "why": {
+            "en-US": "His answer to Wells; Lewis said it did most for him",
+            "pt-BR": "Resposta a Wells, que mais marcou C. S. Lewis"
+          }
+        },
+        {
+          "work": "chesterton/innocence-of-father-brown",
+          "why": {
+            "en-US": "The first twelve Father Brown stories",
+            "pt-BR": "As doze primeiras histórias do Padre Brown"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The faith and its defence",
+        "pt-BR": "A fé e sua defesa"
+      },
+      "note": {
+        "en-US": "The Catholic books, from the first polemic to the last apologia.",
+        "pt-BR": "Os livros católicos, da primeira polêmica à última apologia."
+      },
+      "works": [
+        {
+          "work": "chesterton/heretics",
+          "why": {
+            "en-US": "Twenty essays on the fashions of Edwardian thought",
+            "pt-BR": "Vinte ensaios sobre as modas do pensamento eduardiano"
+          }
+        },
+        {
+          "work": "chesterton/the-thing",
+          "why": {
+            "en-US": "Thirty-four essays on the Church and its critics",
+            "pt-BR": "Trinta e quatro ensaios sobre a Igreja e seus críticos"
+          }
+        },
+        {
+          "work": "chesterton/catholic-church-and-conversion",
+          "why": {
+            "en-US": "Why people enter the Church and what keeps them there",
+            "pt-BR": "Por que se entra na Igreja e o que mantém nela"
+          }
+        },
+        {
+          "work": "chesterton/superstitions-of-the-sceptic",
+          "why": {
+            "en-US": "The 1925 Cambridge lecture on the modern sceptic",
+            "pt-BR": "A conferência de Cambridge, de 1925, sobre o cético moderno"
+          }
+        },
+        {
+          "work": "chesterton/avowals-and-denials",
+          "why": {
+            "en-US": "1934 essays on monsters, logic and Christmas",
+            "pt-BR": "Ensaios de 1934 sobre monstros, lógica e Natal"
+          }
+        },
+        {
+          "work": "chesterton/well-and-the-shallows",
+          "why": {
+            "en-US": "Late essays by a Catholic of some years' standing",
+            "pt-BR": "Ensaios tardios de um católico já de alguns anos"
+          }
+        },
+        {
+          "work": "chesterton/resurrection-of-rome",
+          "why": {
+            "en-US": "His visit to Rome after the Lateran Treaty",
+            "pt-BR": "Sua visita a Roma após o Tratado de Latrão"
+          }
+        },
+        {
+          "work": "chesterton/new-jerusalem",
+          "why": {
+            "en-US": "His 1919 journey to the Holy Land",
+            "pt-BR": "Sua viagem à Terra Santa em 1919"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Saints",
+        "pt-BR": "Santos"
+      },
+      "note": {
+        "en-US": "Two short lives, written for readers who hardly knew their subjects.",
+        "pt-BR": "Duas biografias breves, para leitores que mal conheciam os biografados."
+      },
+      "works": [
+        {
+          "work": "chesterton/st-francis-of-assisi",
+          "why": {
+            "en-US": "His life of the Poverello",
+            "pt-BR": "Sua vida do Poverello"
+          }
+        },
+        {
+          "work": "chesterton/st-thomas-aquinas",
+          "why": {
+            "en-US": "A short life of the Angelic Doctor",
+            "pt-BR": "Uma vida breve do Doutor Angélico"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Father Brown",
+        "pt-BR": "Padre Brown"
+      },
+      "note": {
+        "en-US": "The detective stories, in order of publication.",
+        "pt-BR": "As histórias de detetive, em ordem de publicação."
+      },
+      "works": [
+        {
+          "work": "chesterton/wisdom-of-father-brown",
+          "why": {
+            "en-US": "Twelve more cases of the little priest",
+            "pt-BR": "Mais doze casos do padre baixinho"
+          }
+        },
+        {
+          "work": "chesterton/incredulity-of-father-brown",
+          "why": {
+            "en-US": "Sceptics want a miracle and the priest solves it",
+            "pt-BR": "Céticos querem um milagre e o padre decifra"
+          }
+        },
+        {
+          "work": "chesterton/secret-of-father-brown",
+          "why": {
+            "en-US": "Father Brown's own account of how he does it",
+            "pt-BR": "O próprio Padre Brown explica como faz"
+          }
+        },
+        {
+          "work": "chesterton/scandal-of-father-brown",
+          "why": {
+            "en-US": "The last collection",
+            "pt-BR": "A última coletânea"
+          }
+        },
+        {
+          "work": "chesterton/father-brown-uncollected",
+          "why": {
+            "en-US": "Two stories that belong to none of the collections",
+            "pt-BR": "Duas histórias fora das coletâneas"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Novels and tales",
+        "pt-BR": "Romances e contos"
+      },
+      "note": {
+        "en-US": "Fantasy, farce and nightmare, with the other detective cycles.",
+        "pt-BR": "Fantasia, farsa e pesadelo, com outros ciclos policiais."
+      },
+      "works": [
+        {
+          "work": "chesterton/man-who-was-thursday",
+          "why": {
+            "en-US": "A poet-detective among the anarchists",
+            "pt-BR": "Um poeta-detetive entre os anarquistas"
+          }
+        },
+        {
+          "work": "chesterton/napoleon-of-notting-hill",
+          "why": {
+            "en-US": "His first novel, set in a grey London of 1984",
+            "pt-BR": "Seu primeiro romance, numa Londres cinzenta de 1984"
+          }
+        },
+        {
+          "work": "chesterton/manalive",
+          "why": {
+            "en-US": "Innocent Smith bursts into a boarding house",
+            "pt-BR": "Innocent Smith irrompe numa pensão londrina"
+          }
+        },
+        {
+          "work": "chesterton/ball-and-the-cross",
+          "why": {
+            "en-US": "A Catholic and an atheist set out to fight a duel",
+            "pt-BR": "Um católico e um ateu decidem duelar"
+          }
+        },
+        {
+          "work": "chesterton/flying-inn",
+          "why": {
+            "en-US": "England half-conquered by prohibitionist reform",
+            "pt-BR": "Inglaterra meio conquistada por uma reforma proibicionista"
+          }
+        },
+        {
+          "work": "chesterton/return-of-don-quixote",
+          "why": {
+            "en-US": "His last novel",
+            "pt-BR": "Seu último romance"
+          }
+        },
+        {
+          "work": "chesterton/club-of-queer-trades",
+          "why": {
+            "en-US": "Six stories of a club of invented trades",
+            "pt-BR": "Seis contos sobre um clube de ofícios inventados"
+          }
+        },
+        {
+          "work": "chesterton/man-who-knew-too-much",
+          "why": {
+            "en-US": "Eight stories of Horne Fisher",
+            "pt-BR": "Oito histórias de Horne Fisher"
+          }
+        },
+        {
+          "work": "chesterton/poet-and-the-lunatics",
+          "why": {
+            "en-US": "Eight episodes of Gabriel Gale, poet and painter",
+            "pt-BR": "Oito episódios de Gabriel Gale, poeta e pintor"
+          }
+        },
+        {
+          "work": "chesterton/tales-of-the-long-bow",
+          "why": {
+            "en-US": "Eight tall tales of the League of the Long Bow",
+            "pt-BR": "Oito histórias da Liga do Arco Longo"
+          }
+        },
+        {
+          "work": "chesterton/four-faultless-felons",
+          "why": {
+            "en-US": "Four tales of criminals better than their crimes",
+            "pt-BR": "Quatro contos de criminosos melhores que seus crimes"
+          }
+        },
+        {
+          "work": "chesterton/paradoxes-of-mr-pond",
+          "why": {
+            "en-US": "Eight tales of Mr Pond",
+            "pt-BR": "Oito contos do Sr. Pond"
+          }
+        },
+        {
+          "work": "chesterton/trees-of-pride",
+          "why": {
+            "en-US": "A Cornish legend of man-eating peacock trees",
+            "pt-BR": "Uma lenda da Cornualha sobre árvores devoradoras"
+          }
+        },
+        {
+          "work": "chesterton/white-pillars-murder",
+          "why": {
+            "en-US": "A short detective story of 1925",
+            "pt-BR": "Um conto policial de 1925"
+          }
+        },
+        {
+          "work": "chesterton/sword-of-wood",
+          "why": {
+            "en-US": "A short fantastic tale of 1928",
+            "pt-BR": "Um breve conto fantástico de 1928"
+          }
+        },
+        {
+          "work": "chesterton/magic",
+          "why": {
+            "en-US": "His stage comedy of a conjuror and fairies",
+            "pt-BR": "Sua comédia de palco sobre um mágico e fadas"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Poetry",
+        "pt-BR": "Poesia"
+      },
+      "note": {
+        "en-US": "Epic, ballad and verse, from the Marian poems to the drinking songs.",
+        "pt-BR": "Epopeia, balada e verso, dos poemas marianos às canções de taverna."
+      },
+      "works": [
+        {
+          "work": "chesterton/ballad-of-the-white-horse",
+          "why": {
+            "en-US": "His epic of King Alfred at Ethandune",
+            "pt-BR": "Sua epopeia do rei Alfredo em Ethandune"
+          }
+        },
+        {
+          "work": "chesterton/poems-1915",
+          "why": {
+            "en-US": "Short poems of 1915, with Lepanto",
+            "pt-BR": "Poemas curtos de 1915, incluindo Lepanto"
+          }
+        },
+        {
+          "work": "chesterton/queen-of-seven-swords",
+          "why": {
+            "en-US": "His book of Marian verse",
+            "pt-BR": "Seu livro de versos marianos"
+          }
+        },
+        {
+          "work": "chesterton/ballad-of-st-barbara",
+          "why": {
+            "en-US": "Verse of 1922, opening with the St. Barbara ballad",
+            "pt-BR": "Versos de 1922, abrindo com a balada de Santa Bárbara"
+          }
+        },
+        {
+          "work": "chesterton/wild-knight",
+          "why": {
+            "en-US": "His first collection of verse",
+            "pt-BR": "Sua primeira coletânea de versos"
+          }
+        },
+        {
+          "work": "chesterton/wine-water-and-song",
+          "why": {
+            "en-US": "Drinking songs for the Anti-Prohibition cause",
+            "pt-BR": "Canções de taverna contra a proibição"
+          }
+        },
+        {
+          "work": "chesterton/greybeards-at-play",
+          "why": {
+            "en-US": "Nonsense verses of 1900 with his drawings",
+            "pt-BR": "Versos nonsense de 1900, com seus desenhos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Essays",
+        "pt-BR": "Ensaios"
+      },
+      "note": {
+        "en-US": "Weekly and daily columns on small things and large.",
+        "pt-BR": "Colunas semanais e diárias sobre coisas pequenas e grandes."
+      },
+      "works": [
+        {
+          "work": "chesterton/tremendous-trifles",
+          "why": {
+            "en-US": "Forty short essays from the Daily News",
+            "pt-BR": "Quarenta ensaios curtos do Daily News"
+          }
+        },
+        {
+          "work": "chesterton/all-things-considered",
+          "why": {
+            "en-US": "Thirty-five weekly essays of 1908",
+            "pt-BR": "Trinta e cinco ensaios semanais de 1908"
+          }
+        },
+        {
+          "work": "chesterton/defendant",
+          "why": {
+            "en-US": "His first prose collection, defending despised things",
+            "pt-BR": "Sua primeira coletânea, em defesa do desprezado"
+          }
+        },
+        {
+          "work": "chesterton/alarms-and-discursions",
+          "why": {
+            "en-US": "Essays from the Daily News and elsewhere",
+            "pt-BR": "Ensaios do Daily News e de outros jornais"
+          }
+        },
+        {
+          "work": "chesterton/miscellany-of-men",
+          "why": {
+            "en-US": "Thirty-six character essays",
+            "pt-BR": "Trinta e seis ensaios de caráter"
+          }
+        },
+        {
+          "work": "chesterton/uses-of-diversity",
+          "why": {
+            "en-US": "Essays on seriousness, lamp-posts and the Irishman",
+            "pt-BR": "Ensaios sobre seriedade, postes e o irlandês"
+          }
+        },
+        {
+          "work": "chesterton/fancies-versus-fads",
+          "why": {
+            "en-US": "Essays against the faddists in art and science",
+            "pt-BR": "Ensaios contra as modas na arte e na ciência"
+          }
+        },
+        {
+          "work": "chesterton/generally-speaking",
+          "why": {
+            "en-US": "Essays on detective novels, Europe and Asia",
+            "pt-BR": "Ensaios sobre romances policiais, Europa e Ásia"
+          }
+        },
+        {
+          "work": "chesterton/as-i-was-saying",
+          "why": {
+            "en-US": "Thirty-six essays from his last year",
+            "pt-BR": "Trinta e seis ensaios do seu último ano"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Society and politics",
+        "pt-BR": "Sociedade e política"
+      },
+      "note": {
+        "en-US": "The home, property and the family against the reformers of his day.",
+        "pt-BR": "O lar, a propriedade e a família contra os reformadores da época."
+      },
+      "works": [
+        {
+          "work": "chesterton/whats-wrong-with-the-world",
+          "why": {
+            "en-US": "The home as what the world cannot do without",
+            "pt-BR": "O lar como aquilo de que o mundo não prescinde"
+          }
+        },
+        {
+          "work": "chesterton/outline-of-sanity",
+          "why": {
+            "en-US": "His exposition of distributism",
+            "pt-BR": "Sua exposição do distributismo"
+          }
+        },
+        {
+          "work": "chesterton/superstition-of-divorce",
+          "why": {
+            "en-US": "A defence of indissoluble marriage",
+            "pt-BR": "Defesa da indissolubilidade do matrimônio"
+          }
+        },
+        {
+          "work": "chesterton/divorce-versus-democracy",
+          "why": {
+            "en-US": "A 1916 pamphlet against the divorce bill",
+            "pt-BR": "Panfleto de 1916 contra a lei do divórcio"
+          }
+        },
+        {
+          "work": "chesterton/eugenics-and-other-evils",
+          "why": {
+            "en-US": "His attack on eugenics and scientific tyranny",
+            "pt-BR": "Seu ataque à eugenia e à tirania científica"
+          }
+        },
+        {
+          "work": "chesterton/utopia-of-usurers",
+          "why": {
+            "en-US": "The servile state of the plutocrats",
+            "pt-BR": "O Estado servil dos plutocratas"
+          }
+        },
+        {
+          "work": "chesterton/short-history-of-england",
+          "why": {
+            "en-US": "England told as the story of a people",
+            "pt-BR": "A Inglaterra contada como história de um povo"
+          }
+        },
+        {
+          "work": "chesterton/what-i-saw-in-america",
+          "why": {
+            "en-US": "His 1921 lecture tour of the United States",
+            "pt-BR": "Sua turnê de conferências nos EUA, em 1921"
+          }
+        },
+        {
+          "work": "chesterton/irish-impressions",
+          "why": {
+            "en-US": "A visit to Ireland in 1918",
+            "pt-BR": "Uma visita à Irlanda em 1918"
+          }
+        },
+        {
+          "work": "chesterton/barbarism-of-berlin",
+          "why": {
+            "en-US": "His first essay on the war of 1914",
+            "pt-BR": "Seu primeiro ensaio sobre a guerra de 1914"
+          }
+        },
+        {
+          "work": "chesterton/crimes-of-england",
+          "why": {
+            "en-US": "Open letters to a German professor, 1915",
+            "pt-BR": "Cartas abertas a um professor alemão, 1915"
+          }
+        },
+        {
+          "work": "chesterton/appetite-of-tyranny",
+          "why": {
+            "en-US": "The war essays of 1915",
+            "pt-BR": "Os ensaios de guerra de 1915"
+          }
+        },
+        {
+          "work": "chesterton/lord-kitchener",
+          "why": {
+            "en-US": "A short sketch written after his death",
+            "pt-BR": "Um breve perfil escrito após sua morte"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Literary criticism and lives",
+        "pt-BR": "Crítica literária e biografias"
+      },
+      "note": {
+        "en-US": "Studies of writers, with Dickens at the centre.",
+        "pt-BR": "Estudos de escritores, com Dickens ao centro."
+      },
+      "works": [
+        {
+          "work": "chesterton/charles-dickens",
+          "why": {
+            "en-US": "The study that made his name as a critic",
+            "pt-BR": "O estudo que lhe deu nome como crítico"
+          }
+        },
+        {
+          "work": "chesterton/appreciations-and-criticisms-of-dickens",
+          "why": {
+            "en-US": "His Everyman prefaces to Dickens, gathered",
+            "pt-BR": "Seus prefácios a Dickens, reunidos"
+          }
+        },
+        {
+          "work": "chesterton/george-bernard-shaw",
+          "why": {
+            "en-US": "A friendly study of his great opponent",
+            "pt-BR": "Estudo amistoso do seu grande adversário"
+          }
+        },
+        {
+          "work": "chesterton/robert-browning",
+          "why": {
+            "en-US": "His study of Browning",
+            "pt-BR": "Seu estudo sobre Browning"
+          }
+        },
+        {
+          "work": "chesterton/robert-louis-stevenson",
+          "why": {
+            "en-US": "His life of Stevenson",
+            "pt-BR": "Sua vida de Stevenson"
+          }
+        },
+        {
+          "work": "chesterton/chaucer",
+          "why": {
+            "en-US": "His last literary biography",
+            "pt-BR": "Sua última biografia literária"
+          }
+        },
+        {
+          "work": "chesterton/william-blake",
+          "why": {
+            "en-US": "A short life of the poet and engraver",
+            "pt-BR": "Breve vida do poeta e gravurista"
+          }
+        },
+        {
+          "work": "chesterton/william-cobbett",
+          "why": {
+            "en-US": "A study of the radical journalist",
+            "pt-BR": "Estudo do jornalista radical"
+          }
+        },
+        {
+          "work": "chesterton/varied-types",
+          "why": {
+            "en-US": "Literary and historical portraits",
+            "pt-BR": "Retratos literários e históricos"
+          }
+        },
+        {
+          "work": "chesterton/twelve-types",
+          "why": {
+            "en-US": "Twelve brief critical portraits",
+            "pt-BR": "Doze breves retratos críticos"
+          }
+        },
+        {
+          "work": "chesterton/victorian-age-in-literature",
+          "why": {
+            "en-US": "A survey for the Home University Library",
+            "pt-BR": "Um panorama para a Home University Library"
+          }
+        },
+        {
+          "work": "chesterton/g-f-watts",
+          "why": {
+            "en-US": "A study of the painter G. F. Watts",
+            "pt-BR": "Estudo do pintor G. F. Watts"
+          }
+        },
+        {
+          "work": "chesterton/milton-man-and-poet",
+          "why": {
+            "en-US": "A short essay on Milton, 1917",
+            "pt-BR": "Breve ensaio sobre Milton, 1917"
+          }
+        },
+        {
+          "work": "chesterton/dickens-bookman-booklet",
+          "why": {
+            "en-US": "A short essay on Dickens",
+            "pt-BR": "Breve ensaio sobre Dickens"
+          }
+        },
+        {
+          "work": "chesterton/leo-tolstoy",
+          "why": {
+            "en-US": "A short essay on Tolstoy",
+            "pt-BR": "Breve ensaio sobre Tolstói"
+          }
+        },
+        {
+          "work": "chesterton/tennyson",
+          "why": {
+            "en-US": "A short essay on Tennyson",
+            "pt-BR": "Breve ensaio sobre Tennyson"
+          }
+        },
+        {
+          "work": "chesterton/thackeray",
+          "why": {
+            "en-US": "A short essay on Thackeray",
+            "pt-BR": "Breve ensaio sobre Thackeray"
+          }
+        },
+        {
+          "work": "chesterton/thomas-carlyle",
+          "why": {
+            "en-US": "A short essay on Carlyle",
+            "pt-BR": "Breve ensaio sobre Carlyle"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Autobiography",
+        "pt-BR": "Autobiografia"
+      },
+      "works": [
+        {
+          "work": "chesterton/autobiography",
+          "why": {
+            "en-US": "His own account of his life, written in his last year",
+            "pt-BR": "Sua própria vida, escrita no último ano"
+          }
+        }
+      ]
+    }
   ]
 }
