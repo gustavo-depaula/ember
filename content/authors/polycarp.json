@@ -7,5 +7,29 @@
   "saint": "polycarp",
   "matches": [
     "Polycarp"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "polycarp-epistle-to-the-philippians",
+          "why": {
+            "en-US": "His letter to the Philippians",
+            "pt-BR": "Sua carta aos filipenses"
+          }
+        },
+        {
+          "work": "polycarp-martyrdom",
+          "why": {
+            "en-US": "The martyrdom of Polycarp",
+            "pt-BR": "O martírio de Policarpo"
+          }
+        }
+      ]
+    }
   ]
 }
