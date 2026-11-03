@@ -4,10 +4,6 @@ The open problems from the first-wave imports of November 2026, then those from 
 
 Paths are relative to `content/books/`.
 
-## Missing content
-
-- `aquinas-opera-omnia/opuscula/de-articulis-fidei/en-US/g1-pr.md` has headings but no body text. The pt-BR prologue was translated from the Latin alone. `scripts/scrape-aquinas-cc.py` can't re-import it, because the aquinas.cc `getCells` endpoint now returns 404. Import the prologue from another copy of the Collins translation, or update the scraper to the site's current API.
-
 ## Source readings left as they are
 
 - `church-fathers/athanasius/incarnation-of-the-word`: the source numbers sections irregularly. For example, §5 jumps from 4 to 8, and §10 restarts at 1. Most section numbers are inline, not at the start of a paragraph. The numbering matches the edition, so it was not changed.
@@ -25,6 +21,7 @@ These errors are in the printed edition itself, not the import, so both language
 - Incarnation: 35.7 reads "Josias of Amos" (historically Amon).
 - 1 Clement: Ch. 45 reads "Michael" where the biblical name is Mishael.
 - Protoevangelium of James: ¶6 "led her astray" is a known mistranslation in Walker's English. The pt-BR adds a translator's note.
+- Two wording slips of the printed NPNF are corrected in the en-US, not mirrored, because both languages now agree on the right reading: Ambrose, *Repentance* I ¶61, "the law of his flesh … with the law of his flesh" now ends "of his mind" (the Latin, through Schulte's German in the BKV, has *Geistes*); Chrysostom, *Priesthood* V §4, "puffed up by the promises" now reads "praises" (as in the 1866 and 1907 translations, and the next sentence).
 
 ## Unfinished work
 
