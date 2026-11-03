@@ -7,5 +7,37 @@
   "saint": "basil_gregory",
   "matches": [
     "Gregory Nazianzen"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "gregory-nazianzen-orations",
+          "why": {
+            "en-US": "His orations",
+            "pt-BR": "Seus discursos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Letters",
+        "pt-BR": "Cartas"
+      },
+      "works": [
+        {
+          "work": "gregory-nazianzen-letters",
+          "why": {
+            "en-US": "Letters, a stub of about 20 words so far",
+            "pt-BR": "Cartas, por ora apenas um esboço de cerca de 20 palavras"
+          }
+        }
+      ]
+    }
   ]
 }
