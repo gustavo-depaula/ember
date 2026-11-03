@@ -1,0 +1,429 @@
+{
+  "id": "chesterton-utopia-of-usurers",
+  "cover": "classic",
+  "name": {
+    "en-US": "Utopia of Usurers and Other Essays",
+    "pt-BR": "A Utopia dos Usurários e Outros Ensaios"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "A Song of Swords, the title essay against the servile state of the plutocrats, and a run of newspaper articles from the Daily News and the Illustrated London News on the war on holidays, the lash for labour, the mask of socialism, the tyranny of bad journalism and the poetry of revolution.",
+    "pt-BR": "A Song of Swords, o ensaio-título contra o Estado servil dos plutocratas, e uma série de artigos do Daily News e do Illustrated London News sobre a guerra às festas, o chicote para o trabalho, a máscara do socialismo, a tirania do mau jornalismo e a poesia da revolução."
+  },
+  "composed": "1917",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/utopia-of-usurers",
+  "editions": {
+    "en-US": {
+      "editor": "Boni and Liveright",
+      "year": 1917
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/2134",
+      "edition": "Utopia of Usurers and Other Essays (Boni and Liveright, 1917), Project Gutenberg #2134.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1917 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-a-song-of-swords",
+      "title": {
+        "en-US": "A Song of Swords"
+      }
+    },
+    {
+      "id": "ch02-utopia-of-usurers",
+      "title": {
+        "en-US": "Utopia of Usurers"
+      }
+    },
+    {
+      "id": "ch03-art-and-advertisement",
+      "title": {
+        "en-US": "I. Art and Advertisement"
+      }
+    },
+    {
+      "id": "ch04-the-example-of-the-arts",
+      "title": {
+        "en-US": "The Example of the Arts"
+      }
+    },
+    {
+      "id": "ch05-the-first-effect",
+      "title": {
+        "en-US": "The First Effect"
+      }
+    },
+    {
+      "id": "ch06-letters-and-the-new-laureates",
+      "title": {
+        "en-US": "II. Letters and the New Laureates"
+      }
+    },
+    {
+      "id": "ch07-a-dance-of-degradation",
+      "title": {
+        "en-US": "A Dance of Degradation"
+      }
+    },
+    {
+      "id": "ch08-haloes-for-employers",
+      "title": {
+        "en-US": "Haloes for Employers"
+      }
+    },
+    {
+      "id": "ch09-unbusinesslike-business",
+      "title": {
+        "en-US": "III. Unbusinesslike Business"
+      }
+    },
+    {
+      "id": "ch10-the-war-on-holidays",
+      "title": {
+        "en-US": "IV. The War on Holidays"
+      }
+    },
+    {
+      "id": "ch11-the-great-holiday",
+      "title": {
+        "en-US": "The Great Holiday"
+      }
+    },
+    {
+      "id": "ch12-the-supreme-adventure",
+      "title": {
+        "en-US": "The Supreme Adventure"
+      }
+    },
+    {
+      "id": "ch13-the-church-of-the-servile-state",
+      "title": {
+        "en-US": "V. The Church of the Servile State"
+      }
+    },
+    {
+      "id": "ch14-science-and-the-eugenists",
+      "title": {
+        "en-US": "VI. Science and the Eugenists"
+      }
+    },
+    {
+      "id": "ch15-the-evolution-of-the-prison",
+      "title": {
+        "en-US": "VII. The Evolution of the Prison"
+      }
+    },
+    {
+      "id": "ch16-the-evolutionists-error",
+      "title": {
+        "en-US": "The Evolutionists’ Error"
+      }
+    },
+    {
+      "id": "ch17-prisons-for-all",
+      "title": {
+        "en-US": "Prisons for All"
+      }
+    },
+    {
+      "id": "ch18-the-lash-for-labour",
+      "title": {
+        "en-US": "VIII. The Lash for Labour"
+      }
+    },
+    {
+      "id": "ch19-the-sultan-and-the-sack",
+      "title": {
+        "en-US": "The Sultan and the Sack"
+      }
+    },
+    {
+      "id": "ch20-the-barbarous-revival",
+      "title": {
+        "en-US": "The Barbarous Revival"
+      }
+    },
+    {
+      "id": "ch21-the-mask-of-socialism",
+      "title": {
+        "en-US": "IX. The Mask of Socialism"
+      }
+    },
+    {
+      "id": "ch22-the-escape",
+      "title": {
+        "en-US": "The Escape"
+      }
+    },
+    {
+      "id": "ch23-the-new-raid",
+      "title": {
+        "en-US": "The New Raid"
+      }
+    },
+    {
+      "id": "ch24-the-new-name",
+      "title": {
+        "en-US": "The New Name"
+      }
+    },
+    {
+      "id": "ch25-our-lawless-enemies",
+      "title": {
+        "en-US": "Our Lawless Enemies"
+      }
+    },
+    {
+      "id": "ch26-captured-our-standards",
+      "title": {
+        "en-US": "Captured Our Standards"
+      }
+    },
+    {
+      "id": "ch27-a-workmans-history-of-england",
+      "title": {
+        "en-US": "A Workman’s History of England"
+      }
+    },
+    {
+      "id": "ch28-that-great-reform-bill",
+      "title": {
+        "en-US": "That Great Reform Bill"
+      }
+    },
+    {
+      "id": "ch29-the-capitalist-is-in-the-dock",
+      "title": {
+        "en-US": "The Capitalist Is in the Dock"
+      }
+    },
+    {
+      "id": "ch30-the-french-revolution-and-the-irish",
+      "title": {
+        "en-US": "The French Revolution and the Irish"
+      }
+    },
+    {
+      "id": "ch31-revolution-by-snap-division",
+      "title": {
+        "en-US": "Revolution by Snap Division"
+      }
+    },
+    {
+      "id": "ch32-the-revival-of-reality",
+      "title": {
+        "en-US": "The Revival of Reality"
+      }
+    },
+    {
+      "id": "ch33-mental-breakdown-in-fleet-street",
+      "title": {
+        "en-US": "Mental Breakdown in Fleet Street"
+      }
+    },
+    {
+      "id": "ch34-when-the-journalist-is-ruined",
+      "title": {
+        "en-US": "When the Journalist Is Ruined"
+      }
+    },
+    {
+      "id": "ch35-the-fatigue-of-fleet-street",
+      "title": {
+        "en-US": "The Fatigue of Fleet Street"
+      }
+    },
+    {
+      "id": "ch36-insane-exaggeration",
+      "title": {
+        "en-US": "Insane Exaggeration"
+      }
+    },
+    {
+      "id": "ch37-their-load-of-lies",
+      "title": {
+        "en-US": "Their Load of Lies"
+      }
+    },
+    {
+      "id": "ch38-the-amnesty-for-aggression",
+      "title": {
+        "en-US": "The Amnesty for Aggression"
+      }
+    },
+    {
+      "id": "ch39-ought-to-be-hammered",
+      "title": {
+        "en-US": "Ought to Be Hammered"
+      }
+    },
+    {
+      "id": "ch40-the-whole-loathsome-load",
+      "title": {
+        "en-US": "The Whole Loathsome Load"
+      }
+    },
+    {
+      "id": "ch41-crying-over-spilt-blood",
+      "title": {
+        "en-US": "Crying Over Spilt Blood"
+      }
+    },
+    {
+      "id": "ch42-revive-the-court-jester",
+      "title": {
+        "en-US": "Revive the Court Jester"
+      }
+    },
+    {
+      "id": "ch43-praise-and-prophecy-impossible",
+      "title": {
+        "en-US": "Praise and Prophecy Impossible"
+      }
+    },
+    {
+      "id": "ch44-the-field-for-a-fool",
+      "title": {
+        "en-US": "The Field for a Fool"
+      }
+    },
+    {
+      "id": "ch45-carsons-dilemma",
+      "title": {
+        "en-US": "Carson’s Dilemma"
+      }
+    },
+    {
+      "id": "ch46-belated-chattiness-by-wireless",
+      "title": {
+        "en-US": "Belated Chattiness by Wireless"
+      }
+    },
+    {
+      "id": "ch47-a-fool-who-shall-be-free",
+      "title": {
+        "en-US": "A Fool Who Shall Be Free"
+      }
+    },
+    {
+      "id": "ch48-the-art-of-missing-the-point",
+      "title": {
+        "en-US": "The Art of Missing the Point"
+      }
+    },
+    {
+      "id": "ch49-the-candid-candidate",
+      "title": {
+        "en-US": "The Candid Candidate"
+      }
+    },
+    {
+      "id": "ch50-tyranny-and-head-dress",
+      "title": {
+        "en-US": "Tyranny and Head-Dress"
+      }
+    },
+    {
+      "id": "ch51-the-servile-state-again",
+      "title": {
+        "en-US": "The Servile State Again"
+      }
+    },
+    {
+      "id": "ch52-the-empire-of-the-ignorant",
+      "title": {
+        "en-US": "The Empire of the Ignorant"
+      }
+    },
+    {
+      "id": "ch53-literally-illiterate",
+      "title": {
+        "en-US": "Literally Illiterate"
+      }
+    },
+    {
+      "id": "ch54-but-they-know",
+      "title": {
+        "en-US": "But They Know"
+      }
+    },
+    {
+      "id": "ch55-smile-and-smile",
+      "title": {
+        "en-US": "Smile and Smile"
+      }
+    },
+    {
+      "id": "ch56-the-symbolism-of-krupp",
+      "title": {
+        "en-US": "The Symbolism of Krupp"
+      }
+    },
+    {
+      "id": "ch57-the-tower-of-bebel",
+      "title": {
+        "en-US": "The Tower of Bebel"
+      }
+    },
+    {
+      "id": "ch58-a-real-danger",
+      "title": {
+        "en-US": "A Real Danger"
+      }
+    },
+    {
+      "id": "ch59-must-be-a-mystery",
+      "title": {
+        "en-US": "Must Be a Mystery"
+      }
+    },
+    {
+      "id": "ch60-the-plain-difference",
+      "title": {
+        "en-US": "The Plain Difference"
+      }
+    },
+    {
+      "id": "ch61-the-dregs-of-puritanism",
+      "title": {
+        "en-US": "The Dregs of Puritanism"
+      }
+    },
+    {
+      "id": "ch62-the-tyranny-of-bad-journalism",
+      "title": {
+        "en-US": "The Tyranny of Bad Journalism"
+      }
+    },
+    {
+      "id": "ch63-the-poetry-of-the-revolution",
+      "title": {
+        "en-US": "The Poetry of the Revolution"
+      }
+    },
+    {
+      "id": "ch64-the-symbolism-of-the-badge",
+      "title": {
+        "en-US": "The Symbolism of the Badge"
+      }
+    },
+    {
+      "id": "ch65-the-beastly-individualist",
+      "title": {
+        "en-US": "The Beastly Individualist"
+      }
+    }
+  ]
+}

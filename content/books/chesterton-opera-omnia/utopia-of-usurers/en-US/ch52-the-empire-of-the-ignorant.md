@@ -1,0 +1,5 @@
+# The Empire of the Ignorant
+
+That anarchic future which the more timid Tories professed to fear has already fallen upon us. We are ruled by ignorant people. But the most ignorant people in modern Britain are to be found in the upper class, the middle class, and especially the upper middle class. I do not say it with the smallest petulance or even distaste; these classes are often really beneficent in their breeding or their hospitality, or their humanity to animals.
+
+There is still no better company than the young at the two Universities, or the best of the old in the Army or some of the other services. Also, of course, there are exceptions in the matter of learning; real scholars like Professor Gilbert Murray or Professor Phillimore are not ignorant, though they *are* gentlemen. But when one looks up at any mass of the wealthier and more powerful classes, at the Grand Stand at Epsom, at the windows of Park-lane, at the people at a full-dress debate or a fashionable wedding, we shall be safe in saying that they are, for the most part, the most ill-taught, or untaught, creatures in these islands.
