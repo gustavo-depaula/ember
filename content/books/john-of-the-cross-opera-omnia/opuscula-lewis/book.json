@@ -1,0 +1,52 @@
+{
+  "id": "john-of-the-cross-opuscula-lewis",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Instructions and Precautions; Censure (Lewis)",
+    "pt-BR": "Instruções e precauções; Censura (Lewis, inglês)"
+  },
+  "author": {
+    "es-ES": "San Juan de la Cruz",
+    "en-US": "St. John of the Cross",
+    "pt-BR": "São João da Cruz"
+  },
+  "description": {
+    "en-US": "The Instructions and Precautions to be observed by one who would be a true religious (the Cautelas and the Counsels to a religious in one piece) and the Censure and Judgment on a nun's prayer, in David Lewis's English with Zimmerman's corrections. Lewis joins what Silverio's Spanish book keeps as separate Cautelas and Consejos, so this is its own book.",
+    "pt-BR": "As Instruções e precauções e a Censura de São João da Cruz na versão inglesa de David Lewis (revista por Zimmerman, 1919)."
+  },
+  "composed": "1578–1591",
+  "languages": [
+    "en-US"
+  ],
+  "work": "john-of-the-cross/opuscula",
+  "editions": {
+    "en-US": {
+      "translator": "David Lewis (prose), with Benedict Zimmerman",
+      "year": 1919
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/johnofthecross00johnuoft",
+      "edition": "The Living Flame of Love, with his Letters, Poems and Minor Writings, translated by David Lewis, with corrections and an introduction by Benedict Zimmerman, O.C.D., London: Thomas Baker, 1919 (first edition 1912). Internet Archive scan johnofthecross00johnuoft (University of Toronto).",
+      "description": "Instructions and Precautions; Censure and Judgment of the Blessed Father. The scan is the best of the three; page headings, page numbers and footnotes are dropped, line-break hyphens joined, and isolated recognition slips may remain.",
+      "tier": "A",
+      "tierEvidence": "Published 1919, before 1930; public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "instrucoes",
+      "title": {
+        "en-US": "Instructions and Precautions"
+      }
+    },
+    {
+      "id": "censure",
+      "title": {
+        "en-US": "Censure and Judgment on the Spirit and Method of Prayer of a Nun"
+      }
+    }
+  ]
+}
