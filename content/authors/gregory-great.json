@@ -7,5 +7,107 @@
   "saint": "gregory_great",
   "matches": [
     "Gregory the Great, Pope (c. 540-604)"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "The pastor's handbook and the saints of Italy.",
+        "pt-BR": "O manual do pastor e os santos da Itália."
+      },
+      "works": [
+        {
+          "work": "gregory-the-great/regula-pastoralis",
+          "why": {
+            "en-US": "The Pastoral Rule",
+            "pt-BR": "A Regra pastoral"
+          }
+        },
+        {
+          "work": "gregory-the-great/dialogi",
+          "why": {
+            "en-US": "Four books on the saints of Italy, 593-594",
+            "pt-BR": "Quatro livros sobre os santos da Itália, 593-594"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Homilies",
+        "pt-BR": "Homilias"
+      },
+      "works": [
+        {
+          "work": "gregory-the-great/homiliae-in-evangelia",
+          "why": {
+            "en-US": "Forty homilies on the Gospels, 590-593",
+            "pt-BR": "Quarenta homilias sobre os Evangelhos, 590-593"
+          }
+        },
+        {
+          "work": "gregory-the-great/homiliae-in-hiezechihelem",
+          "why": {
+            "en-US": "Twenty-two homilies on Ezekiel",
+            "pt-BR": "Vinte e duas homilias sobre Ezequiel"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Scripture commentary",
+        "pt-BR": "Comentário bíblico"
+      },
+      "works": [
+        {
+          "work": "gregory-the-great/moralia-in-iob",
+          "why": {
+            "en-US": "His vast commentary on Job, in thirty-five books",
+            "pt-BR": "Seu vasto comentário a Jó, em trinta e cinco livros"
+          }
+        },
+        {
+          "work": "gregory-the-great/expositio-in-canticum",
+          "why": {
+            "en-US": "A short commentary on Song of Songs 1:1-8",
+            "pt-BR": "Breve comentário a Cantares 1,1-8"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Letters",
+        "pt-BR": "Cartas"
+      },
+      "works": [
+        {
+          "work": "gregory-the-great/registrum-epistularum",
+          "why": {
+            "en-US": "The Register of his letters, 590-604",
+            "pt-BR": "O Registro de suas cartas, 590-604"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Attributed works",
+        "pt-BR": "Obras atribuídas"
+      },
+      "works": [
+        {
+          "work": "gregory-the-great/in-primum-regum",
+          "why": {
+            "en-US": "Exposition on 1 Kings, of doubtful authorship",
+            "pt-BR": "Exposição sobre 1 Reis, de autoria duvidosa"
+          }
+        }
+      ]
+    }
   ]
 }
