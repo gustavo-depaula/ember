@@ -7,5 +7,51 @@
   "saint": "cornelius_cyprian",
   "matches": [
     "Cyprian of Carthage"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "cyprian-treatises",
+          "why": {
+            "en-US": "His treatises",
+            "pt-BR": "Seus tratados"
+          }
+        },
+        {
+          "work": "cyprian-life-and-passion",
+          "why": {
+            "en-US": "The life and passion of Cyprian",
+            "pt-BR": "A vida e a paixão de Cipriano"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Letters and council",
+        "pt-BR": "Cartas e concílio"
+      },
+      "works": [
+        {
+          "work": "cyprian-epistles",
+          "why": {
+            "en-US": "His epistles",
+            "pt-BR": "Suas epístolas"
+          }
+        },
+        {
+          "work": "cyprian-seventh-council-of-carthage",
+          "why": {
+            "en-US": "The Seventh Council of Carthage",
+            "pt-BR": "O Sétimo Concílio de Cartago"
+          }
+        }
+      ]
+    }
   ]
 }
