@@ -7,5 +7,70 @@
   "matches": [
     "Adolphe Tanquerey",
     "Tanquerey"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "tanquerey/precis-de-theologie-ascetique-et-mystique",
+          "why": {
+            "en-US": "The great manual of spiritual theology, with Branderis's English",
+            "pt-BR": "O grande manual de teologia espiritual, com o inglês de Branderis"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Dogmatic theology",
+        "pt-BR": "Teologia dogmática"
+      },
+      "note": {
+        "en-US": "The longer Latin manual and its shorter form.",
+        "pt-BR": "O manual latino mais longo e sua forma resumida."
+      },
+      "works": [
+        {
+          "work": "tanquerey/synopsis-theologiae-dogmaticae",
+          "why": {
+            "en-US": "The Latin seminary manual, according to St. Thomas",
+            "pt-BR": "O manual latino de seminário, segundo São Tomás"
+          }
+        },
+        {
+          "work": "tanquerey/brevior-synopsis-theologiae-dogmaticae",
+          "why": {
+            "en-US": "The shorter dogmatic manual, third edition of 1919",
+            "pt-BR": "O manual dogmático abreviado, terceira edição de 1919"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Moral and pastoral theology",
+        "pt-BR": "Teologia moral e pastoral"
+      },
+      "works": [
+        {
+          "work": "tanquerey/synopsis-theologiae-moralis-et-pastoralis",
+          "why": {
+            "en-US": "The Latin manual of moral and pastoral theology",
+            "pt-BR": "O manual latino de teologia moral e pastoral"
+          }
+        },
+        {
+          "work": "tanquerey/brevior-synopsis-theologiae-moralis-et-pastoralis",
+          "why": {
+            "en-US": "The shorter manual, twelfth edition of 1946",
+            "pt-BR": "O manual abreviado, décima segunda edição de 1946"
+          }
+        }
+      ]
+    }
   ]
 }
