@@ -1,0 +1,147 @@
+{
+  "id": "chesterton-defendant",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Defendant",
+    "pt-BR": "O Réu"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's first prose collection: sixteen essays defending the things that are despised, from penny dreadfuls, rash vows and skeletons to farce, slang, humility, detective stories and patriotism. The paradoxical method he would perfect in Orthodoxy.",
+    "pt-BR": "A primeira coletânea em prosa de Chesterton: dezesseis ensaios em defesa das coisas desprezadas, dos romances baratos, dos votos temerários e dos esqueletos à farsa, à gíria, à humildade, às histórias de detetive e ao patriotismo. O método paradoxal que ele aperfeiçoaria em Ortodoxia."
+  },
+  "composed": "1901",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/defendant",
+  "editions": {
+    "en-US": {
+      "editor": "R. Brimley Johnson",
+      "year": 1901
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/12245",
+      "edition": "The Defendant (R. Brimley Johnson, 1901), Project Gutenberg #12245.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1901 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-in-defence-of-a-new-edition",
+      "title": {
+        "en-US": "In Defence of a New Edition"
+      }
+    },
+    {
+      "id": "ch02-introduction",
+      "title": {
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "ch03-a-defence-of-penny-dreadfuls",
+      "title": {
+        "en-US": "A Defence of Penny Dreadfuls"
+      }
+    },
+    {
+      "id": "ch04-a-defence-of-rash-vows",
+      "title": {
+        "en-US": "A Defence of Rash Vows"
+      }
+    },
+    {
+      "id": "ch05-a-defence-of-skeletons",
+      "title": {
+        "en-US": "A Defence of Skeletons"
+      }
+    },
+    {
+      "id": "ch06-a-defence-of-publicity",
+      "title": {
+        "en-US": "A Defence of Publicity"
+      }
+    },
+    {
+      "id": "ch07-a-defence-of-nonsense",
+      "title": {
+        "en-US": "A Defence of Nonsense"
+      }
+    },
+    {
+      "id": "ch08-a-defence-of-planets",
+      "title": {
+        "en-US": "A Defence of Planets"
+      }
+    },
+    {
+      "id": "ch09-a-defence-of-china-shepherdesses",
+      "title": {
+        "en-US": "A Defence of China Shepherdesses"
+      }
+    },
+    {
+      "id": "ch10-a-defence-of-useful-information",
+      "title": {
+        "en-US": "A Defence of Useful Information"
+      }
+    },
+    {
+      "id": "ch11-a-defence-of-heraldry",
+      "title": {
+        "en-US": "A Defence of Heraldry"
+      }
+    },
+    {
+      "id": "ch12-a-defence-of-ugly-things",
+      "title": {
+        "en-US": "A Defence of Ugly Things"
+      }
+    },
+    {
+      "id": "ch13-a-defence-of-farce",
+      "title": {
+        "en-US": "A Defence of Farce"
+      }
+    },
+    {
+      "id": "ch14-a-defence-of-humility",
+      "title": {
+        "en-US": "A Defence of Humility"
+      }
+    },
+    {
+      "id": "ch15-a-defence-of-slang",
+      "title": {
+        "en-US": "A Defence of Slang"
+      }
+    },
+    {
+      "id": "ch16-a-defence-of-baby-worship",
+      "title": {
+        "en-US": "A Defence of Baby-worship"
+      }
+    },
+    {
+      "id": "ch17-a-defence-of-detective-stories",
+      "title": {
+        "en-US": "A Defence of Detective Stories"
+      }
+    },
+    {
+      "id": "ch18-a-defence-of-patriotism",
+      "title": {
+        "en-US": "A Defence of Patriotism"
+      }
+    }
+  ]
+}
