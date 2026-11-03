@@ -1,0 +1,157 @@
+{
+  "id": "chesterton-eugenics-and-other-evils",
+  "cover": "classic",
+  "name": {
+    "en-US": "Eugenics and Other Evils",
+    "pt-BR": "A Eugenia e Outros Males"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's attack on the eugenics movement and on the scientific tyranny it licensed: first the false theory (what eugenics is, the lunatic and the law, the established Church of doubt), then the real aim (the vengeance of the flesh, the meanness of the motive, the end of the household gods).",
+    "pt-BR": "O ataque de Chesterton ao movimento eugenista e à tirania científica que ele autorizava: primeiro a falsa teoria (o que é a eugenia, o lunático e a lei, a Igreja estabelecida da dúvida), depois o verdadeiro objetivo (a vingança da carne, a mesquinhez do motivo, o fim dos deuses do lar)."
+  },
+  "composed": "1922",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/eugenics-and-other-evils",
+  "editions": {
+    "en-US": {
+      "editor": "Cassell and Company",
+      "year": 1922
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/25308",
+      "edition": "Eugenics and Other Evils (Cassell and Company, 1922), Project Gutenberg #25308.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1922 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "part01-part-i-the-false-theory",
+      "title": {
+        "en-US": "Part I: The False Theory"
+      },
+      "children": [
+        {
+          "id": "ch01-what-is-eugenics",
+          "title": {
+            "en-US": "1. What Is Eugenics?"
+          }
+        },
+        {
+          "id": "ch02-the-first-obstacles",
+          "title": {
+            "en-US": "2. The First Obstacles"
+          }
+        },
+        {
+          "id": "ch03-the-anarchy-from-above",
+          "title": {
+            "en-US": "3. The Anarchy from Above"
+          }
+        },
+        {
+          "id": "ch04-the-lunatic-and-the-law",
+          "title": {
+            "en-US": "4. The Lunatic and the Law"
+          }
+        },
+        {
+          "id": "ch05-the-flying-authority",
+          "title": {
+            "en-US": "5. The Flying Authority"
+          }
+        },
+        {
+          "id": "ch06-the-unanswered-challenge",
+          "title": {
+            "en-US": "6. The Unanswered Challenge"
+          }
+        },
+        {
+          "id": "ch07-the-established-church-of-doubt",
+          "title": {
+            "en-US": "7. The Established Church of Doubt"
+          }
+        },
+        {
+          "id": "ch08-a-summary-of-a-false-theory",
+          "title": {
+            "en-US": "8. A Summary of a False Theory"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part02-part-ii-the-real-aim",
+      "title": {
+        "en-US": "Part II: The Real Aim"
+      },
+      "children": [
+        {
+          "id": "ch09-the-impotence-of-impenitence",
+          "title": {
+            "en-US": "1. The Impotence of Impenitence"
+          }
+        },
+        {
+          "id": "ch10-true-history-of-a-tramp",
+          "title": {
+            "en-US": "2. True History of a Tramp"
+          }
+        },
+        {
+          "id": "ch11-true-history-of-a-eugenist",
+          "title": {
+            "en-US": "3. True History of a Eugenist"
+          }
+        },
+        {
+          "id": "ch12-the-vengeance-of-the-flesh",
+          "title": {
+            "en-US": "4. The Vengeance of the Flesh"
+          }
+        },
+        {
+          "id": "ch13-the-meanness-of-the-motive",
+          "title": {
+            "en-US": "5. The Meanness of the Motive"
+          }
+        },
+        {
+          "id": "ch14-the-eclipse-of-liberty",
+          "title": {
+            "en-US": "6. The Eclipse of Liberty"
+          }
+        },
+        {
+          "id": "ch15-the-transformation-of-socialism",
+          "title": {
+            "en-US": "7. The Transformation of Socialism"
+          }
+        },
+        {
+          "id": "ch16-the-end-of-the-household-gods",
+          "title": {
+            "en-US": "8. The End of the Household Gods"
+          }
+        },
+        {
+          "id": "ch17-a-short-chapter",
+          "title": {
+            "en-US": "9. A Short Chapter"
+          }
+        }
+      ]
+    }
+  ]
+}
