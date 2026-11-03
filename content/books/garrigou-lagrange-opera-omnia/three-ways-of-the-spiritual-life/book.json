@@ -1,0 +1,74 @@
+{
+  "id": "garrigou-three-ways-spiritual-life",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Les trois conversions et les trois voies (traduction anglaise)",
+    "en-US": "The Three Ways of the Spiritual Life",
+    "pt-BR": "As três vias da vida espiritual (tradução inglesa)"
+  },
+  "author": {
+    "fr-FR": "Réginald Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "description": {
+    "en-US": "The three conversions and the three ways of the spiritual life: the purgative, illuminative and unitive ways, and the passage from each to the next. English version of Les trois conversions et les trois voies (1933), Burns Oates, London 1938; Newman Press 1950.",
+    "pt-BR": "As três conversões e as três vias da vida espiritual: via purgativa, iluminativa e unitiva. Versão inglesa de Les trois conversions et les trois voies (1933), Londres, 1938."
+  },
+  "composed": "1933",
+  "work": "garrigou-lagrange/trois-conversions-et-trois-voies",
+  "editions": {
+    "en-US": {
+      "translator": "Unnamed translator (Burns Oates)",
+      "year": 1938
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/Lagrange-English",
+      "edition": "The Three Ways of the Spiritual Life, London: Burns Oates & Washbourne, 1938 (Westminster, Md.: Newman Press, 1950), archive.org Lagrange-English; the French original is not open"
+    }
+  ],
+  "languages": [
+    "en-US"
+  ],
+  "toc": [
+    {
+      "id": "art1",
+      "title": {
+        "en-US": "Chapter I. The life of grace and the importance of the first conversion"
+      }
+    },
+    {
+      "id": "art2",
+      "title": {
+        "en-US": "Chapter II. The second conversion : entrance into the illuminative way"
+      }
+    },
+    {
+      "id": "art3",
+      "title": {
+        "en-US": "Chapter III. The third conversion or transformation of the soul: entrance into the unitive way"
+      }
+    },
+    {
+      "id": "art4",
+      "title": {
+        "en-US": "Chapter IV. The problem of the three stages of the spiritual life in ascetical and mystical theology"
+      }
+    },
+    {
+      "id": "art5",
+      "title": {
+        "en-US": "Chapter V. Characteristics of the three stages of the spiritual life"
+      }
+    },
+    {
+      "id": "art6",
+      "title": {
+        "en-US": "Chapter VI. The peace of the kingdom of God: a prelude to the life of heaven"
+      }
+    }
+  ]
+}
