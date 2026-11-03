@@ -8,5 +8,48 @@
     "Lorenzo Scupoli, C.R.",
     "Lorenzo Scupoli",
     "Scupoli, Lorenzo"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "The handbook that was the favorite book of St Francis de Sales.",
+        "pt-BR": "O manual que foi o livro favorito de São Francisco de Sales."
+      },
+      "works": [
+        {
+          "work": "scupoli/combattimento-spirituale",
+          "why": {
+            "en-US": "Christian perfection as a war against oneself, 66 chapters",
+            "pt-BR": "A perfeição cristã como guerra contra si mesmo, 66 capítulos"
+          }
+        },
+        {
+          "work": "scupoli/aggiunta",
+          "why": {
+            "en-US": "Thirty-eight short chapters added to the Combat",
+            "pt-BR": "Trinta e oito capítulos breves acrescentados ao Combate"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Further treatise",
+        "pt-BR": "Outro tratado"
+      },
+      "works": [
+        {
+          "work": "scupoli/sentiero-del-paradiso",
+          "why": {
+            "en-US": "On interior peace, called the Path to Paradise",
+            "pt-BR": "Sobre a paz interior, chamado Caminho do Paraíso"
+          }
+        }
+      ]
+    }
   ]
 }
