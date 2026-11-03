@@ -1,0 +1,194 @@
+{
+  "id": "gueranger-liturgical-year-12-after-pentecost-3",
+  "name": {
+    "en-US": "The Liturgical Year: Time after Pentecost, Book III",
+    "pt-BR": "O Ano Litúrgico: Tempo depois de Pentecostes, III"
+  },
+  "author": {
+    "en-US": "Dom Prosper Guéranger",
+    "pt-BR": "Dom Prosper Guéranger"
+  },
+  "description": {
+    "en-US": "Volume 12 of the English Liturgical Year (Time after Pentecost, Book III), translated from L’Année liturgique: one chapter per day or feast, with the Latin liturgical texts beside their English. Made from the Internet Archive scan of the 1900 printing; the two-column Latin and English text is separated by script, so some lines may be misassigned.",
+    "pt-BR": "Volume 12 do «Liturgical Year» em inglês (Tempo depois de Pentecostes, III), traduzido de L’Année liturgique: um capítulo por dia ou festa, com os textos litúrgicos em latim ao lado do inglês."
+  },
+  "composed": "1886",
+  "languages": [
+    "en-US"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "en-US": {
+      "translator": "Rev. Dom Laurence Shepherd (Stanbrook Abbey)",
+      "year": 1900
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/V12TheLiturgicalYear",
+      "edition": "The Liturgical Year, Time after Pentecost, Book III, translated from the French of Dom Prosper Guéranger; printing of 1900 (Stanbrook Abbey / Duffy). Internet Archive scan, OCR text.",
+      "description": "Split at each day or feast heading detected in the running text; running heads and page numbers removed; the Latin and English columns of the liturgical texts, interleaved line by line in the OCR, were separated by language and set as a Latin paragraph followed by its English.",
+      "tier": "A",
+      "tierEvidence": "Guéranger (d. 1875) and the translation printed 1870-1912: public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "002-chapter-the-first-on-hearing-mass-during-the-tim",
+      "title": {
+        "en-US": "Chapter the First. on Hearing Mass, During the Time after Pentecost"
+      }
+    },
+    {
+      "id": "003-june-30-saints-marcellinus-and-erasmus",
+      "title": {
+        "en-US": "June 30 — Saints Marcellinus, and Erasmus"
+      }
+    },
+    {
+      "id": "004-june-9-saints-primus-and-felioian-martyrs",
+      "title": {
+        "en-US": "June 9 — Saints Primus and Felioian Martyrs"
+      }
+    },
+    {
+      "id": "005-june-10-queen-of-scotland",
+      "title": {
+        "en-US": "June 10 — Queen of Scotland"
+      }
+    },
+    {
+      "id": "006-june-11-saint-john-a-s-facundo-or-of-sahagun-con",
+      "title": {
+        "en-US": "June 11 — Saint John a S. Facundo, or of Sahagun. Confessor"
+      }
+    },
+    {
+      "id": "007-june-11-saint-basilides-and-companions-martyrs",
+      "title": {
+        "en-US": "June 11 — Saint Basilides and Companions, Martyrs"
+      }
+    },
+    {
+      "id": "008-june-11-saint-leo-the-third-pope-and-confessor",
+      "title": {
+        "en-US": "June 11 — Saint Leo the Third, Pope and Confessor. ♦"
+      }
+    },
+    {
+      "id": "009-june-14-saint-basil-the-great",
+      "title": {
+        "en-US": "June 14 — Saint Basil the Great"
+      }
+    },
+    {
+      "id": "010-june-14-saints-vitus-modestus-and-crescentia-mar",
+      "title": {
+        "en-US": "June 14 — Saints Vitus, Modestus, and Crescentia, Martyrs. ♦"
+      }
+    },
+    {
+      "id": "011-june-14-saints-cyr-and-julitta",
+      "title": {
+        "en-US": "June 14 — Saints Cyr and Julitta"
+      }
+    },
+    {
+      "id": "012-june-14-saints-mark-and-marcellian-martyrs",
+      "title": {
+        "en-US": "June 14 — Saints Mark and Marcellian, Martyrs. — ♦"
+      }
+    },
+    {
+      "id": "013-june-14-saints-gervase-and-protase-martyrs",
+      "title": {
+        "en-US": "June 14 — Saints Gervase and Protase. Martyrs. ♦"
+      }
+    },
+    {
+      "id": "014-june-14-saint-paulinus-bishop-and-confessor",
+      "title": {
+        "en-US": "June 14 — Saint Paulinus, Bishop and Confessor"
+      }
+    },
+    {
+      "id": "015-the-vigil-of-saint-john-the-baptist",
+      "title": {
+        "en-US": "The Vigil of Saint John the Baptist"
+      }
+    },
+    {
+      "id": "016-june-25-saint-william-abbot",
+      "title": {
+        "en-US": "June 25 — Saint William, Abbot. ♦"
+      }
+    },
+    {
+      "id": "017-the-vigil-of-the-holy-apostles-saints-peter-and",
+      "title": {
+        "en-US": "The Vigil of the Holy Apostles Saints Peter and Paul"
+      }
+    },
+    {
+      "id": "018-june-28-saint-leo-the-second-pope-and-confessor",
+      "title": {
+        "en-US": "June 28 — Saint Leo the Second, Pope and Confessor. - ■"
+      }
+    },
+    {
+      "id": "019-june-28-saint-irenieus",
+      "title": {
+        "en-US": "June 28 — Saint Irenieus"
+      }
+    },
+    {
+      "id": "020-june-28-saint-peter-and-saint-paul",
+      "title": {
+        "en-US": "June 28 — Saint Peter and Saint Paul"
+      }
+    },
+    {
+      "id": "021-june-28-the-commemoration-of-saint-paul-ap",
+      "title": {
+        "en-US": "June 28 — The Commemoration of Saint Paul, Ap"
+      }
+    },
+    {
+      "id": "022-the-first-sunday-of-july-feast-of-the-most-preci",
+      "title": {
+        "en-US": "The First Sunday of July. Feast of the Most Precious Blood of Our Lord Jesus Christ"
+      }
+    },
+    {
+      "id": "023-the-octave-day-of-saint-john-the-baptist",
+      "title": {
+        "en-US": "The Octave Day of Saint John the Baptist"
+      }
+    },
+    {
+      "id": "024-july-4-saints-cyril-and-methodius-bishops-and-co",
+      "title": {
+        "en-US": "July 4 — Saints Cyril and Methodius, Bishops and Confessors, Apostles of the Sclaves"
+      }
+    },
+    {
+      "id": "025-july-4-saints-cyril-and-methodius",
+      "title": {
+        "en-US": "July 4 — Saints Cyril and Methodius"
+      }
+    },
+    {
+      "id": "026-the-octave-dat-of-the-holy-apostles-peter-and-pa",
+      "title": {
+        "en-US": "The Octave Dat of the Holy Apostles Peter and Paul"
+      }
+    }
+  ]
+}

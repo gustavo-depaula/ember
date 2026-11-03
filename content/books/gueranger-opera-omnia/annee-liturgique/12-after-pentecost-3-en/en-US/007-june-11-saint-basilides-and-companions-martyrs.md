@@ -1,0 +1,19 @@
+# June 11 — Saint Basilides and Companions, Martyrs
+
+Beside John of Sahagun, the Apostle of peace, are grouped four warriors of our Lord's army. Thus peace and war this day, go hand in hand, yea, form but one in the kingdom of the Son of God. The three-fold peace, preached by Christ, namely, man's peace with his God, with himself, and with his brethren, all fellow citizens in the Holy City, — is to be won only at the cost of combat with Satan, the flesh, and the world, which is the "accursed city." Together with the Church, let us blend in one united homage, our praises of the glorious Confessor of these later ages, and of the stern veterans of persecuting times.
+
+Basilides, Cyrinus, Nabor Basilides, Cyrinus, Nabor,
+
+«t Nazarius, romani milites, and Nazarius were Roman nobiles genere et virtute il- soldiers of illustrious birth and lustres, Christiana religione valour. Having embraced the suscepta, cum Christum Dei Christian religion, and being
+
+Filium, Diocletiano impera- found publishing that Christ tore, prsedicarent, ab Aure- is the Son of God, they were lio, prsefecto Urbis compre- arrested by Aurelius, Prefect hensi, et ut diis sacra face- of Borne, under Diocletian, rent admoniti, ejus jussa As they despised his orders to contemnentes, missi sunt in sacrifice to the gods, theywere carcerem, Quibus oranti- committed to prison. While
+
+ST. BASILIDES Al they were at prayer there, a brilliant light broke forth before the eyes of all present and shone in all the prison. Marcellinus, the gaoler and many others, were moved by this heavenly glory to believe in the Lord Christ. Having gone forth from the prison, they were afterwards thrown in again, by the Emperor Maximian, who caused them, first of all, to be beaten with scorpions, for having, despite his orders, continued to have ever in their mouth that there is but one Christ, one God, one Lord, and so they were laden with chains. Thence, on the seventh day, they were brought out, and set before the emperor, and there still persisting m mocking at the foolish idols, and declaring Jesus Christ to be God, they were accordingly condemned to death, and beheaded. Their bodies were given to wild beasts to be devoured, but as they refused to touch them, the Christians took and buried them honourably. bus, cum subito clarissima lux oborta omnium oculis qui ibidem essent carcerem collustrasset, illo coalesti splendore commotus Marcellus custodiae propositus, multique alii Christo Domino crediderunt. Verum postea e carcere emissi, ab imperatore Maximiano, cum, ejus etiam neglecto imperio, unum Christum Deum et Dominum in ore haberent, scorpionibus cruciati iterum conjiciuntur in vincula, unde septimo die educti et ante pedes imperatorisconstituti, perstiterunt in irrisione inanium deorum, Jesum Christum Deum constantissime confitentes. Quamobrem damnati, securi feriuntur. Quorum corpora feris object a, nec ab illis tacta, a qfiristianis honorifice sepulta sunt.
+
+From you we learn, O soldiers of Jesus Christ, the nature of that peace which He came to bring upon earth to men of good will. Its reward is no other than God himself, who by it and together with it, communicates himself to such as are worthy. Its invigorating sweetness overpowers every sensitive feeling, even that of tortures such as Christians, after your example, must be ready to undergo, in order to preserve intact this priceless treasure. Amidst torments and beneath the death-stroke, this
+
+TIME AFTER PENTECOST.
+
+Eeace upheld you, keeping your mind and heart ee, — fixed alone on heaven i this same peace now forms for ever, your eternal beatitude, in the presence of the undivided and ever tranquil Trinity. Whatsoever be the varied condition of our life here below, lead us, O holy Martyrs, by the path of this perfect
+
+!>eace, fraught as it necessarily is with valour and ove, unto the repose of endless bliss.
