@@ -1,5 +1,29 @@
 {
-  "name": { "en-US": "Jean-Joseph Gaume", "pt-BR": "Jean-Joseph Gaume" },
+  "name": {
+    "en-US": "Jean-Joseph Gaume",
+    "pt-BR": "Jean-Joseph Gaume"
+  },
   "century": 19,
-  "matches": ["Jean-Joseph Gaume", "Abbé Gaume", "Gaume, Jean-Joseph"]
+  "matches": [
+    "Jean-Joseph Gaume",
+    "Abbé Gaume",
+    "Gaume, Jean-Joseph"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Catechism",
+        "pt-BR": "Catecismo"
+      },
+      "works": [
+        {
+          "work": "gaume/petit-catechisme-de-perseverance",
+          "why": {
+            "en-US": "The Portuguese summary of the Catechism of Perseverance",
+            "pt-BR": "O resumo português do Catecismo de Perseverança"
+          }
+        }
+      ]
+    }
+  ]
 }
