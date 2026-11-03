@@ -6,5 +6,22 @@
   "century": 18,
   "matches": [
     "Alban Butler"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Lives of the saints",
+        "pt-BR": "Vidas de santos"
+      },
+      "works": [
+        {
+          "work": "butler-lives-of-saints",
+          "why": {
+            "en-US": "Capsule lives arranged by the day of the year",
+            "pt-BR": "Vidas breves dispostas por dia do ano"
+          }
+        }
+      ]
+    }
   ]
 }
