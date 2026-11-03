@@ -1,0 +1,62 @@
+{
+  "id": "garrigou-our-saviour-and-his-love",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Le Sauveur et son amour pour nous (traduction anglaise)",
+    "en-US": "Our Saviour and His Love for Us",
+    "pt-BR": "O Salvador e o seu amor por nós (tradução inglesa)"
+  },
+  "author": {
+    "fr-FR": "Réginald Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "description": {
+    "en-US": "Christ’s love for us and the mystery of the Redemption: the Incarnation, the Savior’s knowledge and love, the Passion and the Cross, and our response of love. A. Bouchard’s translation of Le Sauveur et son amour pour nous (1933), Herder 1951.",
+    "pt-BR": "O amor de Cristo por nós e o mistério da Redenção: a Encarnação, o conhecimento e o amor do Salvador, a Paixão e a Cruz. Tradução inglesa de A. Bouchard (Herder, 1951) de Le Sauveur et son amour pour nous (1933)."
+  },
+  "composed": "1933",
+  "work": "garrigou-lagrange/sauveur-et-son-amour",
+  "editions": {
+    "en-US": {
+      "translator": "A. Bouchard",
+      "year": 1951
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/Lagrange-English",
+      "edition": "Our Saviour and His Love for Us, tr. A. Bouchard, St. Louis: B. Herder, 1951 (archive.org Garrigou-LagrangeEnglish); the French original is not open"
+    }
+  ],
+  "languages": [
+    "en-US"
+  ],
+  "toc": [
+    {
+      "id": "ch1-intro",
+      "title": {
+        "en-US": "Part I. The mystery of the incarnation and the personality of the savior"
+      }
+    },
+    {
+      "id": "ch2-intro",
+      "title": {
+        "en-US": "Part II. Our savior's love for us and the mystery of redemption"
+      }
+    },
+    {
+      "id": "ch3-intro",
+      "title": {
+        "en-US": "Part III. The mystery of the incarnation and the personality of the savior"
+      }
+    },
+    {
+      "id": "ch4-intro",
+      "title": {
+        "en-US": "Part IV. Our savior's love for us and the mystery of redemption"
+      }
+    }
+  ]
+}
