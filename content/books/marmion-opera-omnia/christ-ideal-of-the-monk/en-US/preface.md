@@ -33,7 +33,3 @@ Solemnity of St. Benedict.
 July, ii th, 1922.
 
 1. Among Benedictine authors, we have chiefly quoted those who, by their teaching or life, have more particularly laid stress on the central idea expressed by the title of this book ; this explains why we have by preference utilised the writings of St Gregory, St Bernard, St Gertude, St Mechtilde and Blosius.
-
-INDEX OF CONFERENCES i.
-
-GENERAL VIEW OF THE MONASTIC INSTITUTION
