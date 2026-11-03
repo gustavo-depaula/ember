@@ -1,0 +1,168 @@
+{
+  "id": "gueranger-institutions-liturgiques-1",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Institutions liturgiques, tome I : Introduction et histoire jusqu’au XVIIe siècle",
+    "en-US": "Liturgical Institutions, Volume I: Introduction and History to the 17th Century",
+    "pt-BR": "Instituições litúrgicas, tomo I: Introdução e história até o século XVII"
+  },
+  "author": {
+    "fr-FR": "Prosper Guéranger",
+    "en-US": "Prosper Guéranger",
+    "pt-BR": "Prosper Guéranger"
+  },
+  "description": {
+    "fr-FR": "Premier volume de la seconde édition (1878) : brefs de Pie IX, préfaces, notions préliminaires sur la Liturgie et histoire de la Liturgie depuis les Apôtres jusqu’à la première moitié du XVIIe siècle (chapitres I-XVI), chaque chapitre clos par ses notes.",
+    "en-US": "First volume of the second edition (1878): briefs of Pius IX, prefaces, preliminary notions on the Liturgy and the history of the Liturgy from the Apostles to the first half of the 17th century (chapters I-XVI), each chapter closed by its notes.",
+    "pt-BR": "Primeiro volume da segunda edição (1878): breves de Pio IX, prefácios, noções preliminares sobre a Liturgia e história da Liturgia dos Apóstolos à primeira metade do século XVII (capítulos I-XVI), cada capítulo encerrado por suas notas."
+  },
+  "composed": "1840-1851",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/institutions-liturgiques",
+  "editions": {
+    "fr-FR": {
+      "editor": "Société générale de librairie catholique, Victor Palmé (Paris)",
+      "year": 1878
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/institutions011878gu",
+      "edition": "Institutions liturgiques, 2nd ed., tome I, Paris, Société générale de librairie catholique, Palmé",
+      "description": "archive.org OCR (djvu.xml word coordinates used to drop running heads, marginal notes and page-foot notes from the body; page-foot notes became footnotes where their markers could be matched; the chapter notes stay as the closing section of each chapter). Raw OCR text in sources/french-originals.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; text first published in his lifetime (1840-1851) and reprinted by 1885."
+    }
+  ],
+  "toc": [
+    {
+      "id": "brefs",
+      "title": {
+        "fr-FR": "Brefs de Notre Saint-Père le Pape"
+      }
+    },
+    {
+      "id": "preface-nouvelle-edition",
+      "title": {
+        "fr-FR": "Préface de cette nouvelle édition"
+      }
+    },
+    {
+      "id": "epitre-dedicatoire",
+      "title": {
+        "fr-FR": "Épître dédicatoire"
+      }
+    },
+    {
+      "id": "preface-auteur",
+      "title": {
+        "fr-FR": "Préface de l’auteur"
+      }
+    },
+    {
+      "id": "chapitre-01",
+      "title": {
+        "fr-FR": "Chapitre I. Notions préliminaires"
+      }
+    },
+    {
+      "id": "chapitre-02",
+      "title": {
+        "fr-FR": "Chapitre II. Importance de l’étude de la Liturgie"
+      }
+    },
+    {
+      "id": "chapitre-03",
+      "title": {
+        "fr-FR": "Chapitre III. État de la Liturgie au temps des Apôtres"
+      }
+    },
+    {
+      "id": "chapitre-04",
+      "title": {
+        "fr-FR": "Chapitre IV. De la Liturgie durant les trois premiers siècles de l’Église"
+      }
+    },
+    {
+      "id": "chapitre-05",
+      "title": {
+        "fr-FR": "Chapitre V. De la Liturgie, dans l’Église en général, au IVe siècle"
+      }
+    },
+    {
+      "id": "chapitre-06",
+      "title": {
+        "fr-FR": "Chapitre VI. De la Liturgie durant les Ve et VIe siècles. Premières tentatives pour établir l’unité"
+      }
+    },
+    {
+      "id": "chapitre-07",
+      "title": {
+        "fr-FR": "Chapitre VII. Travaux de saint Grégoire le Grand sur la Liturgie romaine"
+      }
+    },
+    {
+      "id": "chapitre-08",
+      "title": {
+        "fr-FR": "Chapitre VIII. Digression sur l’histoire des autres Liturgies d’Occident"
+      }
+    },
+    {
+      "id": "chapitre-09",
+      "title": {
+        "fr-FR": "Chapitre IX. Autre digression sur l’histoire des Liturgies orientales"
+      }
+    },
+    {
+      "id": "chapitre-10",
+      "title": {
+        "fr-FR": "Chapitre X. Abolition de la Liturgie gallicane. Introduction de la Liturgie romaine-française"
+      }
+    },
+    {
+      "id": "chapitre-11",
+      "title": {
+        "fr-FR": "Chapitre XI. Abolition du rite gothique ou mozarabe en Espagne"
+      }
+    },
+    {
+      "id": "chapitre-12",
+      "title": {
+        "fr-FR": "Chapitre XII. Révision de l’Office romain par les franciscains"
+      }
+    },
+    {
+      "id": "chapitre-13",
+      "title": {
+        "fr-FR": "Chapitre XIII. Altération de la Liturgie et du chant, durant les XIVe et XVe siècles"
+      }
+    },
+    {
+      "id": "chapitre-14",
+      "title": {
+        "fr-FR": "Chapitre XIV. De l’hérésie antiliturgique et de la réforme protestante"
+      }
+    },
+    {
+      "id": "chapitre-15-1",
+      "title": {
+        "fr-FR": "Chapitre XV. Réforme catholique de la Liturgie (partie 1)"
+      }
+    },
+    {
+      "id": "chapitre-15-2",
+      "title": {
+        "fr-FR": "Chapitre XV. Réforme catholique de la Liturgie (partie 2)"
+      }
+    },
+    {
+      "id": "chapitre-16",
+      "title": {
+        "fr-FR": "Chapitre XVI. De la Liturgie durant la première moitié du XVIIe siècle"
+      }
+    }
+  ]
+}
