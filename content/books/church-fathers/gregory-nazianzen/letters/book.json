@@ -13,16 +13,250 @@
   "sources": [
     {
       "language": "en-US",
-      "url": "http://www.newadvent.org/fathers/3103.htm",
+      "url": "https://www.newadvent.org/fathers/3103.htm",
       "description": "Translated by Charles Gordon Browne and James Edward Swallow. From Nicene and Post-Nicene Fathers, Second Series, Vol. 7, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1894. Revised and edited for New Advent by Kevin Knight."
     }
   ],
   "toc": [
     {
-      "id": "ch001",
+      "id": "d1",
       "title": {
-        "en-US": "Letters"
-      }
+        "en-US": "Division I. Letters on the Apollinarian Controversy"
+      },
+      "children": [
+        {
+          "id": "d1-01",
+          "title": {
+            "en-US": "Introduction"
+          }
+        },
+        {
+          "id": "d1-02",
+          "title": {
+            "en-US": "To Nectarius, Bishop of Constantinople. (Ep. CCII.)"
+          }
+        },
+        {
+          "id": "d1-03",
+          "title": {
+            "en-US": "To Cledonius the Priest Against Apollinarius. (Ep. CI.)"
+          }
+        },
+        {
+          "id": "d1-04",
+          "title": {
+            "en-US": "Against Apollinarius; The Second Letter to Cledonius. (Ep. CII.)"
+          }
+        },
+        {
+          "id": "d1-05",
+          "title": {
+            "en-US": "Epistle 125. To Olympius"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d2",
+      "title": {
+        "en-US": "Division II. Correspondence with St. Basil the Great"
+      },
+      "children": [
+        {
+          "id": "d2-01",
+          "title": {
+            "en-US": "Epistle 1. To Basil His Comrade"
+          }
+        },
+        {
+          "id": "d2-02",
+          "title": {
+            "en-US": "Epistle 2"
+          }
+        },
+        {
+          "id": "d2-03",
+          "title": {
+            "en-US": "Epistle 4"
+          }
+        },
+        {
+          "id": "d2-04",
+          "title": {
+            "en-US": "Epistle 5"
+          }
+        },
+        {
+          "id": "d2-05",
+          "title": {
+            "en-US": "Epistle 6"
+          }
+        },
+        {
+          "id": "d2-06",
+          "title": {
+            "en-US": "Epistle 8"
+          }
+        },
+        {
+          "id": "d2-07",
+          "title": {
+            "en-US": "Epistle 19"
+          }
+        },
+        {
+          "id": "d2-08",
+          "title": {
+            "en-US": "Epistle 16. To Eusebius, Bishop of Cæsarea"
+          }
+        },
+        {
+          "id": "d2-09",
+          "title": {
+            "en-US": "Epistle 17. To Eusebius, Archbishop of Cæsarea"
+          }
+        },
+        {
+          "id": "d2-10",
+          "title": {
+            "en-US": "Epistle 18. To Eusebius of Cæsarea"
+          }
+        },
+        {
+          "id": "d2-11",
+          "title": {
+            "en-US": "Epistle 40. To the Great Basil"
+          }
+        },
+        {
+          "id": "d2-12",
+          "title": {
+            "en-US": "Epistle 41. To the People of Cæsarea, in His Father's Name"
+          }
+        },
+        {
+          "id": "d2-13",
+          "title": {
+            "en-US": "Epistle 43. To the Bishops"
+          }
+        },
+        {
+          "id": "d2-14",
+          "title": {
+            "en-US": "Epistle 42. To Eusebius, Bishop of Samosata"
+          }
+        },
+        {
+          "id": "d2-15",
+          "title": {
+            "en-US": "Epistle 45. To Basil"
+          }
+        },
+        {
+          "id": "d2-16",
+          "title": {
+            "en-US": "Epistle 46. To Basil"
+          }
+        },
+        {
+          "id": "d2-17",
+          "title": {
+            "en-US": "Epistle 47. To Basil"
+          }
+        },
+        {
+          "id": "d2-18",
+          "title": {
+            "en-US": "Epistle 48. To Basil"
+          }
+        },
+        {
+          "id": "d2-19",
+          "title": {
+            "en-US": "Epistle 49. To Basil. (The Praises of Quiet.)"
+          }
+        },
+        {
+          "id": "d2-20",
+          "title": {
+            "en-US": "Epistle 50. To Basil"
+          }
+        },
+        {
+          "id": "d2-21",
+          "title": {
+            "en-US": "Epistle 58. To Basil"
+          }
+        },
+        {
+          "id": "d2-22",
+          "title": {
+            "en-US": "Epistle 59. To Basil"
+          }
+        },
+        {
+          "id": "d2-23",
+          "title": {
+            "en-US": "Epistle 60. To Basil"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d3",
+      "title": {
+        "en-US": "Division III. Miscellaneous Letters"
+      },
+      "children": [
+        {
+          "id": "d3-01",
+          "title": {
+            "en-US": "Letters to His Brother Cæsarius"
+          }
+        },
+        {
+          "id": "d3-02",
+          "title": {
+            "en-US": "To S. Gregory of Nyssa"
+          }
+        },
+        {
+          "id": "d3-03",
+          "title": {
+            "en-US": "To Eusebius Bishop of Samosata"
+          }
+        },
+        {
+          "id": "d3-04",
+          "title": {
+            "en-US": "To Sophronius, Prefect of Constantinople"
+          }
+        },
+        {
+          "id": "d3-05",
+          "title": {
+            "en-US": "To Amphilochius the Younger"
+          }
+        },
+        {
+          "id": "d3-06",
+          "title": {
+            "en-US": "To Nectarius Archbishop of Constantinople"
+          }
+        },
+        {
+          "id": "d3-07",
+          "title": {
+            "en-US": "To Theodore, Bishop of Tyana"
+          }
+        },
+        {
+          "id": "d3-08",
+          "title": {
+            "en-US": "To Nicobulus"
+          }
+        }
+      ]
     }
   ],
   "arrived": {
