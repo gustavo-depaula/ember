@@ -7,5 +7,44 @@
   "saint": "basil_gregory",
   "matches": [
     "Basil the Great"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "basil-nine-homilies-of-hexaemeron",
+          "why": {
+            "en-US": "Nine homilies on the six days of creation",
+            "pt-BR": "Nove homilias sobre os seis dias da criação"
+          }
+        },
+        {
+          "work": "basil-de-spiritu-sancto",
+          "why": {
+            "en-US": "On the Holy Spirit",
+            "pt-BR": "Sobre o Espírito Santo"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Letters",
+        "pt-BR": "Cartas"
+      },
+      "works": [
+        {
+          "work": "basil-letters",
+          "why": {
+            "en-US": "His letters",
+            "pt-BR": "Suas cartas"
+          }
+        }
+      ]
+    }
   ]
 }
