@@ -1,0 +1,99 @@
+{
+  "id": "chesterton-robert-louis-stevenson",
+  "cover": "classic",
+  "name": {
+    "en-US": "Robert Louis Stevenson",
+    "pt-BR": "Robert Louis Stevenson"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's life of the Scottish writer: the myth of Stevenson, the country of Skelt, youth and Edinburgh, the reaction to romance, the Scottish stories, the style, the limits of a craft, the philosophy of gesture and the moral of Stevenson.",
+    "pt-BR": "A vida do escritor escocês por Chesterton: o mito de Stevenson, o país de Skelt, a juventude e Edimburgo, a reação ao romance, as histórias escocesas, o estilo, os limites de um ofício, a filosofia do gesto e a moral de Stevenson."
+  },
+  "composed": "1927",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/robert-louis-stevenson",
+  "editions": {
+    "en-US": {
+      "editor": "Hodder & Stoughton",
+      "year": 1927
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.net.au/ebooks09/0900631h.html",
+      "edition": "Robert Louis Stevenson (Hodder & Stoughton, 1927), Project Gutenberg Australia, ebooks09/0900631h.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain in Brazil, the UK and the EU (Chesterton died in 1936). Published in 1927; text taken from Project Gutenberg Australia, which carries it under Australian law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-myth-of-stevenson",
+      "title": {
+        "en-US": "\"The Myth of Stevenson\""
+      }
+    },
+    {
+      "id": "ch02-in-the-country-of-skelt",
+      "title": {
+        "en-US": "In the Country of Skelt"
+      }
+    },
+    {
+      "id": "ch03-youth-and-edinburgh",
+      "title": {
+        "en-US": "Youth and Edinburgh"
+      }
+    },
+    {
+      "id": "ch04-the-reaction-to-romance",
+      "title": {
+        "en-US": "The Reaction to Romance"
+      }
+    },
+    {
+      "id": "ch05-the-scottish-stories",
+      "title": {
+        "en-US": "The Scottish Stories"
+      }
+    },
+    {
+      "id": "ch06-the-style-of-stevenson",
+      "title": {
+        "en-US": "The Style of Stevenson"
+      }
+    },
+    {
+      "id": "ch07-experiment-and-range",
+      "title": {
+        "en-US": "Experiment and Range"
+      }
+    },
+    {
+      "id": "ch08-the-limits-of-a-craft",
+      "title": {
+        "en-US": "The Limits of a Craft"
+      }
+    },
+    {
+      "id": "ch09-the-philosophy-of-gesture",
+      "title": {
+        "en-US": "The Philosophy of Gesture"
+      }
+    },
+    {
+      "id": "ch10-the-moral-of-stevenson",
+      "title": {
+        "en-US": "The Moral of Stevenson"
+      }
+    }
+  ]
+}
