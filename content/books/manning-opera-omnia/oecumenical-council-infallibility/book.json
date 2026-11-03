@@ -1,0 +1,69 @@
+{
+  "id": "manning-oecumenical-council-infallibility",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Oecumenical Council and the Infallibility of the Roman Pontiff",
+    "pt-BR": "O Concílio Ecumênico e a Infalibilidade do Romano Pontífice"
+  },
+  "author": {
+    "en-US": "Cardinal Henry Edward Manning",
+    "pt-BR": "Cardeal Henry Edward Manning"
+  },
+  "description": {
+    "en-US": "The Oecumenical Council and the Infallibility of the Roman Pontiff (1869): a pastoral letter to the clergy of Westminster on the effect of the coming Vatican Council, the opportuneness of defining papal infallibility, the tradition of that doctrine from Chalcedon through the Gallican period, and two certain effects of the Council, with a postscript on Mgr Maret.",
+    "pt-BR": "O Concílio Ecumênico e a Infalibilidade do Romano Pontífice (1869): carta pastoral ao clero de Westminster sobre o efeito do Concílio Vaticano que se aproximava, a oportunidade de definir a infalibilidade papal, a tradição dessa doutrina de Calcedónia ao período galicano e dois efeitos certos do Concílio, com um post-scriptum sobre Mons. Maret."
+  },
+  "composed": 1869,
+  "languages": [
+    "en-US"
+  ],
+  "work": "manning/oecumenical-council-infallibility",
+  "editions": {
+    "en-US": {
+      "editor": "Henry Edward Manning (London: Longmans, Green and Co., 1869)",
+      "year": 1869
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/theoecumenicalco00mannuoft",
+      "edition": "The Oecumenical Council and the Infallibility of the Roman Pontiff (London: Longmans, Green and Co., 1869), Internet Archive full-text OCR.",
+      "description": "The four chapters and the postscript; the contents is dropped. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Cardinal Henry Edward Manning died in 1892 and the edition is of 1869, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-1",
+      "title": {
+        "en-US": "Chapter I"
+      }
+    },
+    {
+      "id": "chapter-2",
+      "title": {
+        "en-US": "Chapter II"
+      }
+    },
+    {
+      "id": "chapter-3",
+      "title": {
+        "en-US": "Chapter III"
+      }
+    },
+    {
+      "id": "chapter-4",
+      "title": {
+        "en-US": "Chapter IV"
+      }
+    },
+    {
+      "id": "postscript",
+      "title": {
+        "en-US": "Postscript. Mgr Maret on the General Council"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "manning-vatican-decrees-civil-allegiance",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Vatican Decrees in their Bearing on Civil Allegiance",
+    "pt-BR": "Os Decretos do Vaticano e a Lealdade Civil"
+  },
+  "author": {
+    "en-US": "Cardinal Henry Edward Manning",
+    "pt-BR": "Cardeal Henry Edward Manning"
+  },
+  "description": {
+    "en-US": "The Vatican Decrees in their Bearing on Civil Allegiance (1875): Manning's reply to Mr Gladstone's Expostulation, on the Vatican Council and the infallibility, the relations of the Church and the civil power, the history of the question, and the loyalty of Catholics to the State, with appendices.",
+    "pt-BR": "Os Decretos do Vaticano e a Lealdade Civil (1875): a resposta de Manning à Expostulação de Mr Gladstone sobre o Concílio Vaticano e a infalibilidade, as relações da Igreja com o poder civil, a história da questão e a lealdade dos católicos ao Estado, com apêndices."
+  },
+  "composed": 1875,
+  "languages": [
+    "en-US"
+  ],
+  "work": "manning/vatican-decrees-civil-allegiance",
+  "editions": {
+    "en-US": {
+      "editor": "Henry Edward Manning (London: Longmans, Green and Co., 1875)",
+      "year": 1875
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/a628785800mannuoft",
+      "edition": "The Vatican Decrees in their Bearing on Civil Allegiance (London: Longmans, Green and Co., 1875), Internet Archive full-text OCR.",
+      "description": "The preface, introduction, five chapters, conclusion and three appendices; the contents is dropped. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Cardinal Henry Edward Manning died in 1892 and the edition is of 1875, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "chapter-1",
+      "title": {
+        "en-US": "Chapter I"
+      }
+    },
+    {
+      "id": "chapter-2",
+      "title": {
+        "en-US": "Chapter II"
+      }
+    },
+    {
+      "id": "chapter-3",
+      "title": {
+        "en-US": "Chapter III"
+      }
+    },
+    {
+      "id": "chapter-4",
+      "title": {
+        "en-US": "Chapter IV"
+      }
+    },
+    {
+      "id": "chapter-5",
+      "title": {
+        "en-US": "Chapter V"
+      }
+    },
+    {
+      "id": "conclusion",
+      "title": {
+        "en-US": "Conclusion"
+      }
+    },
+    {
+      "id": "appendix-a",
+      "title": {
+        "en-US": "Appendix A"
+      }
+    },
+    {
+      "id": "appendix-b",
+      "title": {
+        "en-US": "Appendix B"
+      }
+    },
+    {
+      "id": "appendix-c",
+      "title": {
+        "en-US": "Appendix C"
+      }
+    }
+  ]
+}

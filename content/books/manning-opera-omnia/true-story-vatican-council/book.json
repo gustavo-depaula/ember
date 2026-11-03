@@ -1,0 +1,81 @@
+{
+  "id": "manning-true-story-vatican-council",
+  "cover": "classic",
+  "name": {
+    "en-US": "The True Story of the Vatican Council",
+    "pt-BR": "A Verdadeira História do Concílio Vaticano"
+  },
+  "author": {
+    "en-US": "Cardinal Henry Edward Manning",
+    "pt-BR": "Cardeal Henry Edward Manning"
+  },
+  "description": {
+    "en-US": "The True Story of the Vatican Council (1877): Manning's account of the Council of 1869-70: the first thought of holding it, the assembly of the bishops and the preparation, the opening and the constitution on Catholic faith, the debates on infallibility, and the definition and its consequences.",
+    "pt-BR": "A Verdadeira História do Concílio Vaticano (1877): o relato de Manning sobre o Concílio de 1869-70: o primeiro pensamento de o convocar, a reunião dos bispos e a preparação, a abertura e a constituição sobre a fé católica, os debates sobre a infalibilidade, a definição e as suas consequências."
+  },
+  "composed": 1877,
+  "languages": [
+    "en-US"
+  ],
+  "work": "manning/true-story-vatican-council",
+  "editions": {
+    "en-US": {
+      "editor": "Henry Edward Manning (London: Burns and Oates, 1877)",
+      "year": 1877
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/truestoryofvatic00mannuoft",
+      "edition": "The True Story of the Vatican Council (London: Burns and Oates, 1877), Internet Archive full-text OCR.",
+      "description": "The preface and the five chapters with the appendix to the third; the contents is dropped. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Cardinal Henry Edward Manning died in 1892 and the edition is of 1877, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "chapter-1",
+      "title": {
+        "en-US": "Chapter I"
+      }
+    },
+    {
+      "id": "chapter-2",
+      "title": {
+        "en-US": "Chapter II"
+      }
+    },
+    {
+      "id": "chapter-3",
+      "title": {
+        "en-US": "Chapter III"
+      }
+    },
+    {
+      "id": "appendix",
+      "title": {
+        "en-US": "Appendix to Chapter III"
+      }
+    },
+    {
+      "id": "chapter-4",
+      "title": {
+        "en-US": "Chapter IV"
+      }
+    },
+    {
+      "id": "chapter-5",
+      "title": {
+        "en-US": "Chapter V"
+      }
+    }
+  ]
+}

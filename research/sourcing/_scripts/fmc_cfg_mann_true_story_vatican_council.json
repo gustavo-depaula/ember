@@ -1,0 +1,67 @@
+{
+ "id": "manning-true-story-vatican-council",
+ "dir": "manning-opera-omnia/true-story-vatican-council",
+ "slug": "true-story-vatican-council",
+ "work": "manning/true-story-vatican-council",
+ "name": "The True Story of the Vatican Council",
+ "name_pt": "A Verdadeira Hist\u00f3ria do Conc\u00edlio Vaticano",
+ "author": "Cardinal Henry Edward Manning",
+ "author_pt": "Cardeal Henry Edward Manning",
+ "died": 1892,
+ "desc": "The True Story of the Vatican Council (1877): Manning's account of the Council of 1869-70: the first thought of holding it, the assembly of the bishops and the preparation, the opening and the constitution on Catholic faith, the debates on infallibility, and the definition and its consequences.",
+ "desc_pt": "A Verdadeira Hist\u00f3ria do Conc\u00edlio Vaticano (1877): o relato de Manning sobre o Conc\u00edlio de 1869-70: o primeiro pensamento de o convocar, a reuni\u00e3o dos bispos e a prepara\u00e7\u00e3o, a abertura e a constitui\u00e7\u00e3o sobre a f\u00e9 cat\u00f3lica, os debates sobre a infalibilidade, a defini\u00e7\u00e3o e as suas consequ\u00eancias.",
+ "composed": 1877,
+ "editor": "Henry Edward Manning (London: Burns and Oates, 1877)",
+ "year": 1877,
+ "url": "https://archive.org/details/truestoryofvatic00mannuoft",
+ "edition": "The True Story of the Vatican Council (London: Burns and Oates, 1877), Internet Archive full-text OCR.",
+ "srcnote": "The preface and the five chapters with the appendix to the third; the contents is dropped.",
+ "src": "manning/ia/truestoryofvatic00mannuoft_djvu.txt",
+ "start": 58,
+ "end": 7700,
+ "fn": true,
+ "back": [],
+ "front": [
+  {
+   "id": "preface",
+   "title": "Preface",
+   "from": 59,
+   "to": 83
+  }
+ ],
+ "label": {},
+ "romanheads": false,
+ "inline": [],
+ "units": [
+  {
+   "id": "chapter-1",
+   "title": "Chapter I",
+   "from": 167
+  },
+  {
+   "id": "chapter-2",
+   "title": "Chapter II",
+   "from": 1538
+  },
+  {
+   "id": "chapter-3",
+   "title": "Chapter III",
+   "from": 3154
+  },
+  {
+   "id": "appendix",
+   "title": "Appendix to Chapter III",
+   "from": 4530
+  },
+  {
+   "id": "chapter-4",
+   "title": "Chapter IV",
+   "from": 5175
+  },
+  {
+   "id": "chapter-5",
+   "title": "Chapter V",
+   "from": 6271
+  }
+ ]
+}

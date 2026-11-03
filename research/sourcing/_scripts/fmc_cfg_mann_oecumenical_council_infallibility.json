@@ -1,0 +1,55 @@
+{
+ "id": "manning-oecumenical-council-infallibility",
+ "dir": "manning-opera-omnia/oecumenical-council-infallibility",
+ "slug": "oecumenical-council-infallibility",
+ "work": "manning/oecumenical-council-infallibility",
+ "name": "The Oecumenical Council and the Infallibility of the Roman Pontiff",
+ "name_pt": "O Conc\u00edlio Ecum\u00eanico e a Infalibilidade do Romano Pont\u00edfice",
+ "author": "Cardinal Henry Edward Manning",
+ "author_pt": "Cardeal Henry Edward Manning",
+ "died": 1892,
+ "desc": "The Oecumenical Council and the Infallibility of the Roman Pontiff (1869): a pastoral letter to the clergy of Westminster on the effect of the coming Vatican Council, the opportuneness of defining papal infallibility, the tradition of that doctrine from Chalcedon through the Gallican period, and two certain effects of the Council, with a postscript on Mgr Maret.",
+ "desc_pt": "O Conc\u00edlio Ecum\u00eanico e a Infalibilidade do Romano Pont\u00edfice (1869): carta pastoral ao clero de Westminster sobre o efeito do Conc\u00edlio Vaticano que se aproximava, a oportunidade de definir a infalibilidade papal, a tradi\u00e7\u00e3o dessa doutrina de Calced\u00f3nia ao per\u00edodo galicano e dois efeitos certos do Conc\u00edlio, com um post-scriptum sobre Mons. Maret.",
+ "composed": 1869,
+ "editor": "Henry Edward Manning (London: Longmans, Green and Co., 1869)",
+ "year": 1869,
+ "url": "https://archive.org/details/theoecumenicalco00mannuoft",
+ "edition": "The Oecumenical Council and the Infallibility of the Roman Pontiff (London: Longmans, Green and Co., 1869), Internet Archive full-text OCR.",
+ "srcnote": "The four chapters and the postscript; the contents is dropped.",
+ "src": "manning/ia/theoecumenicalco00mannuoft_djvu.txt",
+ "start": 95,
+ "end": 5715,
+ "fn": true,
+ "back": [],
+ "front": [],
+ "label": {},
+ "romanheads": false,
+ "inline": [],
+ "units": [
+  {
+   "id": "chapter-1",
+   "title": "Chapter I",
+   "from": 95
+  },
+  {
+   "id": "chapter-2",
+   "title": "Chapter II",
+   "from": 800
+  },
+  {
+   "id": "chapter-3",
+   "title": "Chapter III",
+   "from": 2023
+  },
+  {
+   "id": "chapter-4",
+   "title": "Chapter IV",
+   "from": 4659
+  },
+  {
+   "id": "postscript",
+   "title": "Postscript. Mgr Maret on the General Council",
+   "from": 5230
+  }
+ ]
+}
