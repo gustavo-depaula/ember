@@ -1,0 +1,186 @@
+{
+  "id": "tanquerey-brevior-synopsis-moralis",
+  "cover": "quarter",
+  "name": {
+    "la": "Brevior synopsis theologiae moralis et pastoralis",
+    "en-US": "Shorter Synopsis of Moral and Pastoral Theology",
+    "pt-BR": "Sinopse breve de teologia moral e pastoral"
+  },
+  "author": {
+    "la": "Adolphus Tanquerey",
+    "en-US": "Adolphe Tanquerey",
+    "pt-BR": "Adolphe Tanquerey",
+    "fr-FR": "Adolphe Tanquerey"
+  },
+  "description": {
+    "la": "Epitome synopsis theologiae moralis et pastoralis in usum seminariorum. Editio duodecima penitus recognita, Cimetier et Cancé, 1946; paragraphi numerati.",
+    "en-US": "The shorter Latin manual of moral and pastoral theology for seminaries, 12th edition thoroughly revised by F. Cimetier and A. Cancé (1946). Divided by runs of the author’s numbered paragraphs.",
+    "pt-BR": "O manual breve de teologia moral e pastoral para os seminários, 12.ª edição revista por F. Cimetier e A. Cancé (1946). Dividido por séries dos parágrafos numerados do autor."
+  },
+  "composed": "1913",
+  "work": "tanquerey/brevior-synopsis-theologiae-moralis-et-pastoralis",
+  "editions": {
+    "la": {
+      "editor": "Desclée et Soc., Tournai (12th ed., revised by F. Cimetier and A. Cancé)",
+      "year": 1946
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/breviorsynopsist0000unse",
+      "edition": "Brevior synopsis theologiae moralis et pastoralis, ed. 12 recognita, Tournai: Desclée, 1946 (archive.org breviorsynopsist0000unse, OCR text); divided by runs of numbered paragraphs"
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "t1",
+      "title": {
+        "la": "Textus"
+      },
+      "children": [
+        {
+          "id": "t1-s01",
+          "title": {
+            "la": "Nn. 1–67"
+          }
+        },
+        {
+          "id": "t1-s02",
+          "title": {
+            "la": "Nn. 68–144"
+          }
+        },
+        {
+          "id": "t1-s03",
+          "title": {
+            "la": "Nn. 145–219"
+          }
+        },
+        {
+          "id": "t1-s04",
+          "title": {
+            "la": "Nn. 220–313"
+          }
+        },
+        {
+          "id": "t1-s05",
+          "title": {
+            "la": "Nn. 314–367"
+          }
+        },
+        {
+          "id": "t1-s06",
+          "title": {
+            "la": "Nn. 369–433"
+          }
+        },
+        {
+          "id": "t1-s07",
+          "title": {
+            "la": "Nn. 434–512"
+          }
+        },
+        {
+          "id": "t1-s08",
+          "title": {
+            "la": "Nn. 513–607"
+          }
+        },
+        {
+          "id": "t1-s09",
+          "title": {
+            "la": "Nn. 608–680"
+          }
+        },
+        {
+          "id": "t1-s10",
+          "title": {
+            "la": "Nn. 681–735"
+          }
+        },
+        {
+          "id": "t1-s11",
+          "title": {
+            "la": "Nn. 737–784"
+          }
+        },
+        {
+          "id": "t1-s12",
+          "title": {
+            "la": "Nn. 786–881"
+          }
+        },
+        {
+          "id": "t1-s13",
+          "title": {
+            "la": "Nn. 882–924"
+          }
+        },
+        {
+          "id": "t1-s14",
+          "title": {
+            "la": "Nn. 925–977"
+          }
+        },
+        {
+          "id": "t1-s15",
+          "title": {
+            "la": "Nn. 978–1055"
+          }
+        },
+        {
+          "id": "t1-s16",
+          "title": {
+            "la": "Nn. 1056–1144"
+          }
+        },
+        {
+          "id": "t1-s17",
+          "title": {
+            "la": "Nn. 1145–1212"
+          }
+        },
+        {
+          "id": "t1-s18",
+          "title": {
+            "la": "Nn. 1213–1296"
+          }
+        },
+        {
+          "id": "t1-s19",
+          "title": {
+            "la": "Nn. 1297–1362"
+          }
+        },
+        {
+          "id": "t1-s20",
+          "title": {
+            "la": "Nn. 1363–1449"
+          }
+        },
+        {
+          "id": "t1-s21",
+          "title": {
+            "la": "Nn. 1450–1514"
+          }
+        },
+        {
+          "id": "t1-s22",
+          "title": {
+            "la": "Nn. 1515–1580"
+          }
+        },
+        {
+          "id": "t1-s23",
+          "title": {
+            "la": "Nn. 1581–1609"
+          }
+        }
+      ]
+    }
+  ]
+}
