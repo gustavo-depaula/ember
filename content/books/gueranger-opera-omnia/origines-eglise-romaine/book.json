@@ -1,0 +1,54 @@
+{
+  "id": "gueranger-origines-eglise-romaine",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Origines de l’Église romaine",
+    "en-US": "Origins of the Roman Church",
+    "pt-BR": "Origens da Igreja romana"
+  },
+  "author": {
+    "fr-FR": "Prosper Guéranger",
+    "en-US": "Prosper Guéranger",
+    "pt-BR": "Prosper Guéranger"
+  },
+  "description": {
+    "fr-FR": "La préface et le plan des Origines de l’Église romaine (1836), premier volume des Origines catholiques que Dom Guéranger projetait. Le volume lui-même n’a pas été retrouvé en texte ; seuls la préface et le plan, donnés par Dom Delatte, sont ici.",
+    "en-US": "The preface and plan of the Origines de l’Église romaine (1836), the first volume of the Origines catholiques that Dom Guéranger planned. The volume itself was not found as text; only the preface and plan, as given by Dom Delatte, are here.",
+    "pt-BR": "O prefácio e o plano das Origines de l’Église romaine (1836), primeiro volume das Origines catholiques que Dom Guéranger projetava. O volume em si não foi encontrado em texto; aqui estão apenas o prefácio e o plano, tais como os dá Dom Delatte."
+  },
+  "composed": "1836",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/origines-eglise-romaine",
+  "editions": {
+    "fr-FR": {
+      "editor": "Dom Delatte, Dom Guéranger, abbé de Solesmes (Paris, 1910)",
+      "year": 1836
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://www.domgueranger.net/origines-de-leglise-romaine/",
+      "edition": "Origines de l’Église romaine, t. 1, 1836: preface and plan (domgueranger.net HTML transcription)",
+      "description": "Preface and plan only; the body of the volume was not found online.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; text first published in his lifetime or by 1931."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "fr-FR": "Préface"
+      }
+    },
+    {
+      "id": "importance-plan",
+      "title": {
+        "fr-FR": "Importance des origines de l’Église romaine. Plan de l’ouvrage"
+      }
+    }
+  ]
+}
