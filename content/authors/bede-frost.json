@@ -6,5 +6,22 @@
   "century": 20,
   "matches": [
     "Bede Frost"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "frost-art-of-mental-prayer",
+          "why": {
+            "en-US": "The methods of mental prayer of the Catholic schools, 1931",
+            "pt-BR": "Os métodos de oração mental das escolas católicas, 1931"
+          }
+        }
+      ]
+    }
   ]
 }
