@@ -1,0 +1,148 @@
+{
+  "id": "john-of-the-cross-epistolario-lewis",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letters (Lewis)",
+    "pt-BR": "Cartas (Lewis, inglês)"
+  },
+  "author": {
+    "es-ES": "San Juan de la Cruz",
+    "en-US": "St. John of the Cross",
+    "pt-BR": "São João da Cruz"
+  },
+  "description": {
+    "en-US": "Eighteen letters of St. John of the Cross in David Lewis's English, with Zimmerman's 1919 corrections, to nuns, to Doña Ana de Peñalosa and others (1581-1591). Lewis numbers them I-XVIII in the order of the 1912 edition, which is not Silverio's order in the Spanish Epistolario, so this is its own book; the Censure on a nun's prayer is in the Opuscula book. Zimmerman's footnotes are not included.",
+    "pt-BR": "As dezoito cartas de São João da Cruz na versão inglesa de David Lewis (1912, revista por Zimmerman em 1919)."
+  },
+  "composed": "1581–1591",
+  "languages": [
+    "en-US"
+  ],
+  "work": "john-of-the-cross/epistolario",
+  "editions": {
+    "en-US": {
+      "translator": "David Lewis (prose), with Benedict Zimmerman",
+      "year": 1919
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/johnofthecross00johnuoft",
+      "edition": "The Living Flame of Love, with his Letters, Poems and Minor Writings, translated by David Lewis, with corrections and an introduction by Benedict Zimmerman, O.C.D., London: Thomas Baker, 1919 (first edition 1912). Internet Archive scan johnofthecross00johnuoft (University of Toronto).",
+      "description": "Letters I-XVIII. The scan is the best of the three; page headings, page numbers and footnotes are dropped, line-break hyphens joined, and isolated recognition slips may remain.",
+      "tier": "A",
+      "tierEvidence": "Published 1919, before 1930; public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "en-US": "Letter 1. To Mother Catherine of Jesus"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "en-US": "Letter 2. To the Religious in Veas"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "en-US": "Letter 3. To the Religious of Veas"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "en-US": "Letter 4. To Mother Eleanora Baptist"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "en-US": "Letter 5. To Mother Anne of St. Albert"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "en-US": "Letter 6. To the Same Religious"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "en-US": "Letter 7. To the Same Religious"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "en-US": "Letter 8. To F. Ambrose Mariano of St. Benedict"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "en-US": "Letter 9. To A Young Lady at Madrid"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "en-US": "Letter 10. To A Spiritual Son in Religion"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "en-US": "Letter 11. To Mother Eleonor of St. Gabriel"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "en-US": "Letter 12. To Mother Mary of Jesus"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "en-US": "Letter 13. To Mother Magdalen of the Holy Ghost"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "en-US": "Letter 14. To Dona Juana de Pedraca"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "en-US": "Letter 15. To Mother Mary of Jesus"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "en-US": "Letter 16. To Mother Anne of Jesus"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "en-US": "Letter 17. To Mother Mary of the Incarnation"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "en-US": "Letter 18. To Dona Ana de Penalosa He Informs Her of His Recent Illness"
+      }
+    }
+  ]
+}
