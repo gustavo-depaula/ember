@@ -1,0 +1,250 @@
+{
+  "id": "augustine-enarrationes-in-psalmos-lf-vol-1",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Expositions on the Book of Psalms, Vol. I (Psalms 1–36)",
+    "pt-BR": "Exposições sobre o Livro dos Salmos, vol. I (Salmos 1–36)"
+  },
+  "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Augustine’s Enarrationes in Psalmos in the full Oxford translation of the Library of the Fathers (volume I of the Psalms, 1847): Psalms 1–36, one chapter per psalm, with the separate expositions, sermons and discourses of a psalm as sections. The translation numbers the psalms as the English Bible does; the Vulgate number (Augustine’s own) is added to the title where it differs. This is the complete text, which the condensed NPNF version in the other book of this work abridges.",
+    "pt-BR": "As Enarrationes in Psalmos de Agostinho na tradução oxfordiana completa da Library of the Fathers (volume I dos Salmos, 1847): Salmos 1–36, um capítulo por salmo. A numeração é a da Bíblia inglesa; onde difere, o título traz o número da Vulgata, que é o de Agostinho."
+  },
+  "composed": "392-420",
+  "languages": [
+    "en-US"
+  ],
+  "work": "augustine/enarrationes-in-psalmos",
+  "editions": {
+    "en-US": {
+      "translator": "Members of the English Church (Library of the Fathers, ed. E. B. Pusey)",
+      "year": 1847
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/24ALibraryOfFathersOfTheHolyCatholicV24",
+      "edition": "Expositions on the Book of Psalms by S. Augustine, Bishop of Hippo (Library of the Fathers of the Holy Catholic Church, vol. 24; Oxford: John Henry Parker, 1847).",
+      "description": "Internet Archive scan, read from the _djvu.xml word coordinates (research/sourcing/_scripts/aug_lf.py, aug_lf_ps_build.py): marginal Scripture references, running heads, small-type notes and the volume’s front and back matter are dropped; psalm boundaries come from the printed PSALM headings, recovered in sequence where the OCR spoiled them (a psalm whose heading was lost is merged with its neighbour and titled as a range). OCR is uncorrected beyond common letter confusions and stray fragments of marginal references remain in some lines.",
+      "tier": "A",
+      "tierEvidence": "Published 1847-1857 (Library of the Fathers, Oxford); long public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ps-001",
+      "title": {
+        "en-US": "Psalm 1"
+      }
+    },
+    {
+      "id": "ps-002",
+      "title": {
+        "en-US": "Psalm 2"
+      }
+    },
+    {
+      "id": "ps-003",
+      "title": {
+        "en-US": "Psalm 3"
+      }
+    },
+    {
+      "id": "ps-004",
+      "title": {
+        "en-US": "Psalm 4"
+      }
+    },
+    {
+      "id": "ps-005",
+      "title": {
+        "en-US": "Psalm 5"
+      }
+    },
+    {
+      "id": "ps-006",
+      "title": {
+        "en-US": "Psalm 6"
+      }
+    },
+    {
+      "id": "ps-007",
+      "title": {
+        "en-US": "Psalm 7"
+      }
+    },
+    {
+      "id": "ps-008",
+      "title": {
+        "en-US": "Psalm 8"
+      }
+    },
+    {
+      "id": "ps-009",
+      "title": {
+        "en-US": "Psalm 9"
+      }
+    },
+    {
+      "id": "ps-011",
+      "title": {
+        "en-US": "Psalm 11 (Vulgate 10)"
+      }
+    },
+    {
+      "id": "ps-012",
+      "title": {
+        "en-US": "Psalm 12 (Vulgate 11)"
+      }
+    },
+    {
+      "id": "ps-013",
+      "title": {
+        "en-US": "Psalm 13 (Vulgate 12)"
+      }
+    },
+    {
+      "id": "ps-014",
+      "title": {
+        "en-US": "Psalm 14 (Vulgate 13)"
+      }
+    },
+    {
+      "id": "ps-015",
+      "title": {
+        "en-US": "Psalm 15 (Vulgate 14)"
+      }
+    },
+    {
+      "id": "ps-016",
+      "title": {
+        "en-US": "Psalm 16 (Vulgate 15)"
+      }
+    },
+    {
+      "id": "ps-017",
+      "title": {
+        "en-US": "Psalm 17 (Vulgate 16)"
+      }
+    },
+    {
+      "id": "ps-018",
+      "title": {
+        "en-US": "Psalm 18 (Vulgate 17)"
+      }
+    },
+    {
+      "id": "ps-019",
+      "title": {
+        "en-US": "Psalm 19 (Vulgate 18)"
+      }
+    },
+    {
+      "id": "ps-020",
+      "title": {
+        "en-US": "Psalm 20 (Vulgate 19)"
+      }
+    },
+    {
+      "id": "ps-021",
+      "title": {
+        "en-US": "Psalm 21 (Vulgate 20)"
+      }
+    },
+    {
+      "id": "ps-022",
+      "title": {
+        "en-US": "Psalm 22 (Vulgate 21)"
+      }
+    },
+    {
+      "id": "ps-023",
+      "title": {
+        "en-US": "Psalm 23 (Vulgate 22)"
+      }
+    },
+    {
+      "id": "ps-024",
+      "title": {
+        "en-US": "Psalm 24 (Vulgate 23)"
+      }
+    },
+    {
+      "id": "ps-025",
+      "title": {
+        "en-US": "Psalm 25 (Vulgate 24)"
+      }
+    },
+    {
+      "id": "ps-026",
+      "title": {
+        "en-US": "Psalm 26 (Vulgate 25)"
+      }
+    },
+    {
+      "id": "ps-027",
+      "title": {
+        "en-US": "Psalm 27 (Vulgate 26)"
+      }
+    },
+    {
+      "id": "ps-028",
+      "title": {
+        "en-US": "Psalm 28 (Vulgate 27)"
+      }
+    },
+    {
+      "id": "ps-029",
+      "title": {
+        "en-US": "Psalm 29 (Vulgate 28)"
+      }
+    },
+    {
+      "id": "ps-030",
+      "title": {
+        "en-US": "Psalm 30 (Vulgate 29)"
+      }
+    },
+    {
+      "id": "ps-031",
+      "title": {
+        "en-US": "Psalm 31 (Vulgate 30)"
+      }
+    },
+    {
+      "id": "ps-032",
+      "title": {
+        "en-US": "Psalm 32 (Vulgate 31)"
+      }
+    },
+    {
+      "id": "ps-033",
+      "title": {
+        "en-US": "Psalm 33 (Vulgate 32)"
+      }
+    },
+    {
+      "id": "ps-034",
+      "title": {
+        "en-US": "Psalm 34 (Vulgate 33)"
+      }
+    },
+    {
+      "id": "ps-035",
+      "title": {
+        "en-US": "Psalm 35 (Vulgate 34)"
+      }
+    },
+    {
+      "id": "ps-036",
+      "title": {
+        "en-US": "Psalm 36 (Vulgate 35)"
+      }
+    }
+  ]
+}
