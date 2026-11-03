@@ -12,5 +12,37 @@
     "Peter of Alcantara",
     "San Pedro de Alcántara",
     "Pedro de Alcántara"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "peter-of-alcantara/tratado-oracion-meditacion",
+          "why": {
+            "en-US": "His handbook of mental prayer, c. 1556",
+            "pt-BR": "Seu manual de oração mental, c. 1556"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Letters",
+        "pt-BR": "Cartas"
+      },
+      "works": [
+        {
+          "work": "peter-of-alcantara/cartas",
+          "why": {
+            "en-US": "Two letters of 1562, one to Teresa",
+            "pt-BR": "Duas cartas de 1562, uma a Teresa"
+          }
+        }
+      ]
+    }
   ]
 }
