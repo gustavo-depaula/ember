@@ -7,5 +7,37 @@
   "saint": "leo_great",
   "matches": [
     "Leo the Great, Pope (c. 395-461)"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "leo-sermons",
+          "why": {
+            "en-US": "His sermons",
+            "pt-BR": "Seus sermões"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Letters",
+        "pt-BR": "Cartas"
+      },
+      "works": [
+        {
+          "work": "leo-letters",
+          "why": {
+            "en-US": "His letters",
+            "pt-BR": "Suas cartas"
+          }
+        }
+      ]
+    }
   ]
 }
