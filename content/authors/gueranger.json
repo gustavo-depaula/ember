@@ -11,5 +11,177 @@
     "Prosper Gueranger",
     "Dom Guéranger",
     "Guéranger"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "The work he is known for, and a short commentary on the Mass.",
+        "pt-BR": "A obra pela qual é conhecido e um breve comentário sobre a Missa."
+      },
+      "works": [
+        {
+          "work": "gueranger/annee-liturgique",
+          "why": {
+            "en-US": "The Liturgical Year, fifteen volumes, Advent to Pentecost",
+            "pt-BR": "O Ano Litúrgico, quinze volumes, do Advento ao Pentecostes"
+          }
+        },
+        {
+          "work": "gueranger/explication-messe",
+          "why": {
+            "en-US": "The Mass explained prayer by prayer, from the Introibo on",
+            "pt-BR": "A Missa explicada oração por oração, do Intróito em diante"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Liturgy",
+        "pt-BR": "Liturgia"
+      },
+      "works": [
+        {
+          "work": "gueranger/institutions-liturgiques",
+          "why": {
+            "en-US": "Liturgical Institutions, four volumes with the polemic",
+            "pt-BR": "Instituições litúrgicas, quatro volumes com a polêmica"
+          }
+        },
+        {
+          "work": "gueranger/considerations-liturgie",
+          "why": {
+            "en-US": "His first writings on the liturgy, 1830",
+            "pt-BR": "Seus primeiros escritos sobre a liturgia, 1830"
+          }
+        },
+        {
+          "work": "gueranger/priere-pour-le-roi",
+          "why": {
+            "en-US": "1830 articles on the liturgical prayer for the king",
+            "pt-BR": "Artigos de 1830 sobre a oração litúrgica pelo rei"
+          }
+        },
+        {
+          "work": "gueranger/louange-divine",
+          "why": {
+            "en-US": "Counsels on joining the Church's praise, dictated in 1875",
+            "pt-BR": "Conselhos para unir-se ao louvor da Igreja, ditados em 1875"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Monastic and spiritual life",
+        "pt-BR": "Vida monástica e espiritual"
+      },
+      "works": [
+        {
+          "work": "gueranger/conferences-vie-chretienne",
+          "why": {
+            "en-US": "Conferences to the Solesmes chapter, 1872-1874",
+            "pt-BR": "Conferências ao capítulo de Solesmes, 1872-1874"
+          }
+        },
+        {
+          "work": "gueranger/notions-vie-religieuse",
+          "why": {
+            "en-US": "Instructions for novices on the religious life",
+            "pt-BR": "Instruções aos noviços sobre a vida religiosa"
+          }
+        },
+        {
+          "work": "gueranger/medaille-saint-benoit",
+          "why": {
+            "en-US": "The medal of St Benedict: origin, meaning and privileges",
+            "pt-BR": "A medalha de São Bento: origem, sentido e privilégios"
+          }
+        },
+        {
+          "work": "gueranger/panegyrique-francois-de-sales",
+          "why": {
+            "en-US": "A sermon at the Visitation of Le Mans, 1832",
+            "pt-BR": "Um sermão na Visitação de Le Mans, 1832"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Saints and devotion",
+        "pt-BR": "Santos e devoção"
+      },
+      "works": [
+        {
+          "work": "gueranger/sainte-cecile",
+          "why": {
+            "en-US": "The life of St Cecilia and Roman society",
+            "pt-BR": "A vida de Santa Cecília e a sociedade romana"
+          }
+        },
+        {
+          "work": "gueranger/immaculee-conception",
+          "why": {
+            "en-US": "A memoir written in 1850 on the Immaculate Conception",
+            "pt-BR": "Memória de 1850 sobre a Imaculada Conceição"
+          }
+        },
+        {
+          "work": "gueranger/marie-d-agreda",
+          "why": {
+            "en-US": "Articles on Mary of Agreda and private revelations",
+            "pt-BR": "Artigos sobre Maria de Ágreda e as revelações privadas"
+          }
+        },
+        {
+          "work": "gueranger/origines-eglise-romaine",
+          "why": {
+            "en-US": "Preface and plan for the Origins of the Roman Church",
+            "pt-BR": "Prefácio e plano das Origens da Igreja romana"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Church and controversy",
+        "pt-BR": "Igreja e controvérsia"
+      },
+      "works": [
+        {
+          "work": "gueranger/monarchie-pontificale",
+          "why": {
+            "en-US": "The pontifical monarchy, on the eve of Vatican I",
+            "pt-BR": "A monarquia pontifical, às vésperas do Vaticano I"
+          }
+        },
+        {
+          "work": "gueranger/naturalisme",
+          "why": {
+            "en-US": "Essays on naturalism in philosophy and in history",
+            "pt-BR": "Ensaios sobre o naturalismo na filosofia e na história"
+          }
+        },
+        {
+          "work": "gueranger/jansenisme",
+          "why": {
+            "en-US": "Articles of 1858 on Jansenism and the Jesuits",
+            "pt-BR": "Artigos de 1858 sobre o jansenismo e os jesuítas"
+          }
+        },
+        {
+          "work": "gueranger/election-eveques",
+          "why": {
+            "en-US": "His first book, on electing and naming bishops, 1831",
+            "pt-BR": "Seu primeiro livro, sobre a eleição dos bispos, 1831"
+          }
+        }
+      ]
+    }
   ]
 }
