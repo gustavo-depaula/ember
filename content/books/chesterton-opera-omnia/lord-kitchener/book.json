@@ -1,0 +1,45 @@
+{
+  "id": "chesterton-lord-kitchener",
+  "cover": "classic",
+  "name": {
+    "en-US": "Lord Kitchener",
+    "pt-BR": "Lord Kitchener"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "A short sketch of Lord Kitchener, written soon after his death in 1916: his Irish birth, his rise in the army, Khartoum, South Africa, India, and his part in the first years of the Great War.",
+    "pt-BR": "Um breve esboço de Lord Kitchener, escrito logo depois de sua morte em 1916: seu nascimento irlandês, sua ascensão no exército, Cartum, a África do Sul, a Índia e seu papel nos primeiros anos da Grande Guerra."
+  },
+  "composed": "1917",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/lord-kitchener",
+  "editions": {
+    "en-US": {
+      "editor": "Hodder & Stoughton",
+      "year": 1917
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/25795",
+      "edition": "Lord Kitchener (Hodder & Stoughton, 1917), Project Gutenberg #25795.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1917 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-lord-kitchener",
+      "title": {
+        "en-US": "Lord Kitchener"
+      }
+    }
+  ]
+}
