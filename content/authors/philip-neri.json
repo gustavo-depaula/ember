@@ -12,5 +12,44 @@
     "Filippo Neri",
     "San Filippo Neri",
     "Filippo Neri, santo"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "philip-neri/massime",
+          "why": {
+            "en-US": "Three hundred and sixty-six sayings",
+            "pt-BR": "Trezentas e sessenta e seis máximas"
+          }
+        },
+        {
+          "work": "philip-neri/lettere",
+          "why": {
+            "en-US": "His twenty-six authentic letters, 1556-1595",
+            "pt-BR": "Suas vinte e seis cartas autênticas, 1556-1595"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Poems",
+        "pt-BR": "Poemas"
+      },
+      "works": [
+        {
+          "work": "philip-neri/sonetti",
+          "why": {
+            "en-US": "Three sonnets",
+            "pt-BR": "Três sonetos"
+          }
+        }
+      ]
+    }
   ]
 }
