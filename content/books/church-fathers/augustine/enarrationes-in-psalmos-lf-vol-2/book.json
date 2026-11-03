@@ -1,0 +1,136 @@
+{
+  "id": "augustine-enarrationes-in-psalmos-lf-vol-2",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Expositions on the Book of Psalms, Vol. II (Psalms 37–52)",
+    "pt-BR": "Exposições sobre o Livro dos Salmos, vol. II (Salmos 37–52)"
+  },
+  "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Augustine’s Enarrationes in Psalmos in the full Oxford translation of the Library of the Fathers (volume II of the Psalms, 1848): Psalms 37–52, one chapter per psalm, with the separate expositions, sermons and discourses of a psalm as sections. The translation numbers the psalms as the English Bible does; the Vulgate number (Augustine’s own) is added to the title where it differs. This is the complete text, which the condensed NPNF version in the other book of this work abridges.",
+    "pt-BR": "As Enarrationes in Psalmos de Agostinho na tradução oxfordiana completa da Library of the Fathers (volume II dos Salmos, 1848): Salmos 37–52, um capítulo por salmo. A numeração é a da Bíblia inglesa; onde difere, o título traz o número da Vulgata, que é o de Agostinho."
+  },
+  "composed": "392-420",
+  "languages": [
+    "en-US"
+  ],
+  "work": "augustine/enarrationes-in-psalmos",
+  "editions": {
+    "en-US": {
+      "translator": "Members of the English Church (Library of the Fathers, ed. E. B. Pusey)",
+      "year": 1848
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/25ALibraryOfFathersOfTheHolyCatholicV25",
+      "edition": "Expositions on the Book of Psalms by S. Augustine, Bishop of Hippo (Library of the Fathers of the Holy Catholic Church, vol. 25; Oxford: John Henry Parker, 1848).",
+      "description": "Internet Archive scan, read from the _djvu.xml word coordinates (research/sourcing/_scripts/aug_lf.py, aug_lf_ps_build.py): marginal Scripture references, running heads, small-type notes and the volume’s front and back matter are dropped; psalm boundaries come from the printed PSALM headings, recovered in sequence where the OCR spoiled them (a psalm whose heading was lost is merged with its neighbour and titled as a range). OCR is uncorrected beyond common letter confusions and stray fragments of marginal references remain in some lines.",
+      "tier": "A",
+      "tierEvidence": "Published 1847-1857 (Library of the Fathers, Oxford); long public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ps-037",
+      "title": {
+        "en-US": "Psalm 37 (Vulgate 36)"
+      }
+    },
+    {
+      "id": "ps-038",
+      "title": {
+        "en-US": "Psalm 38 (Vulgate 37)"
+      }
+    },
+    {
+      "id": "ps-039",
+      "title": {
+        "en-US": "Psalm 39 (Vulgate 38)"
+      }
+    },
+    {
+      "id": "ps-040",
+      "title": {
+        "en-US": "Psalm 40 (Vulgate 39)"
+      }
+    },
+    {
+      "id": "ps-041",
+      "title": {
+        "en-US": "Psalm 41 (Vulgate 40)"
+      }
+    },
+    {
+      "id": "ps-042",
+      "title": {
+        "en-US": "Psalm 42 (Vulgate 41)"
+      }
+    },
+    {
+      "id": "ps-043",
+      "title": {
+        "en-US": "Psalm 43 (Vulgate 42)"
+      }
+    },
+    {
+      "id": "ps-044",
+      "title": {
+        "en-US": "Psalm 44 (Vulgate 43)"
+      }
+    },
+    {
+      "id": "ps-045",
+      "title": {
+        "en-US": "Psalm 45 (Vulgate 44)"
+      }
+    },
+    {
+      "id": "ps-046",
+      "title": {
+        "en-US": "Psalm 46 (Vulgate 45)"
+      }
+    },
+    {
+      "id": "ps-047",
+      "title": {
+        "en-US": "Psalm 47 (Vulgate 46)"
+      }
+    },
+    {
+      "id": "ps-048",
+      "title": {
+        "en-US": "Psalm 48 (Vulgate 47)"
+      }
+    },
+    {
+      "id": "ps-049",
+      "title": {
+        "en-US": "Psalm 49 (Vulgate 48)"
+      }
+    },
+    {
+      "id": "ps-050",
+      "title": {
+        "en-US": "Psalm 50 (Vulgate 49)"
+      }
+    },
+    {
+      "id": "ps-051",
+      "title": {
+        "en-US": "Psalm 51 (Vulgate 50)"
+      }
+    },
+    {
+      "id": "ps-052",
+      "title": {
+        "en-US": "Psalm 52 (Vulgate 51)"
+      }
+    }
+  ]
+}
