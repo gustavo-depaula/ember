@@ -1,0 +1,112 @@
+{
+  "id": "granada-meditaciones-meres",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Granados Spiritual and Heavenly Exercises (Meres, 1598)",
+    "pt-BR": "Exercícios espirituais e celestiais de Granada (Meres, inglês, 1598)"
+  },
+  "author": {
+    "es-ES": "Fray Luis de Granada",
+    "en-US": "Louis of Granada",
+    "pt-BR": "Frei Luís de Granada"
+  },
+  "description": {
+    "en-US": "Francis Meres's 1598 English version of Louis of Granada's seven short meditations for the days of the week (prologue, then Monday to Sunday), with the volume's exposition of Psalm 51 and a prayer on the name of Jesus. It follows the Latin and French redactions, not a single chapter of the Spanish Manual, so it is its own book.",
+    "pt-BR": "A versão inglesa de Francis Meres (1598) das sete meditações para os dias da semana de Luís de Granada, com uma exposição do Salmo 51."
+  },
+  "composed": "1554",
+  "languages": [
+    "en-US"
+  ],
+  "work": "louis-of-granada/manual-y-opusculos",
+  "editions": {
+    "en-US": {
+      "translator": "Francis Meres (1598)",
+      "year": 1598
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/textcreationpartnership/A06448",
+      "edition": "Granados Spirituall and Heavenlie Exercises, divided into seven pithie and briefe meditations, for every day in the weeke one, englished by Francis Meres (1598), EEBO-TCP A06448, with the Exposition of the 51st Psalm and a Prayer of the name of Jesus bound with it.",
+      "description": "EEBO-TCP hand-keyed transcription (A06448), old spelling kept; long s printed as s, vv as w. 9 illegible places in the source are marked […]. Marginal notes are footnotes. Raw TEI in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Printed 1598; the TCP transcription is released to the public domain (CC0)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "en-US": "Dedication"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "en-US": "The Prologue, and a Brief Manner of Meditation"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "en-US": "The First Meditation, for Monday"
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "en-US": "The second Meditation for Tuesday: of sin, and what discommodities come by it"
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "en-US": "The third Meditation for Wednesday: howe dangerous it is to deferre repentance"
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "en-US": "The fourth Meditation, for Thursday: of the contempt of the world, and with what hatred, and…"
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "en-US": "The fift Meditation, for Friday: of the vanitie of the glory, and magnificence of this world"
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "en-US": "The sixt Meditation for Saterday: howe death is to be feared: and that a Christian ought so to…"
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "en-US": "The seauenth Meditation for Sonday: of the ioyes of the blessed in heauen, and of the paynes of the…"
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "en-US": "Dedication to the Lady Judith Kinaston"
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "en-US": "An Exposition upon the Fifty-first Psalm"
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "en-US": "A most deuout Prayer of the name of Iesus"
+      }
+    }
+  ]
+}
