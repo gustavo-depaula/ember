@@ -1,0 +1,66 @@
+{
+  "id": "gueranger-louange-divine",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "L’Église ou la société de la louange divine",
+    "en-US": "The Church, or the Society of Divine Praise",
+    "pt-BR": "A Igreja ou a sociedade do louvor divino"
+  },
+  "author": {
+    "fr-FR": "Prosper Guéranger",
+    "en-US": "Prosper Guéranger",
+    "pt-BR": "Prosper Guéranger"
+  },
+  "description": {
+    "fr-FR": "Opuscule dicté par Dom Guéranger quelques semaines avant sa mort (1875) et publié par ses fils : conseils aux fidèles qui veulent s’associer à la louange que l’Église rend à Dieu, avec le calendrier des fêtes de l’association. La lettre d’approbation de Mgr de Marseille et la seconde partie, Le prêtre et l’ordre de saint Benoît de Cécile Bruyère, ne sont pas de Dom Guéranger et sont omises.",
+    "en-US": "A short work dictated by Dom Guéranger a few weeks before his death (1875) and published by his sons: counsels for the faithful who wish to join in the praise the Church renders to God, with the calendar of feasts of the association. The approving letter of the bishop of Marseille and the second part, Le prêtre et l’ordre de saint Benoît by Cécile Bruyère, are not Guéranger’s and are left out.",
+    "pt-BR": "Opúsculo ditado por Dom Guéranger algumas semanas antes de morrer (1875) e publicado por seus filhos: conselhos aos fiéis que desejam associar-se ao louvor que a Igreja rende a Deus, com o calendário das festas da associação. A carta de aprovação do bispo de Marselha e a segunda parte, Le prêtre et l’ordre de saint Benoît, de Cécile Bruyère, não são de Dom Guéranger e foram omitidas."
+  },
+  "composed": "1875",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/louange-divine",
+  "editions": {
+    "fr-FR": {
+      "editor": "Moines de Solesmes (Imprimerie Saint-Pierre)",
+      "year": 1875
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://www.domgueranger.net/leglise-ou-la-societe-de-la-louange-divine/",
+      "edition": "L’Église ou la société de la louange divine, Solesmes, Imprimerie Saint-Pierre, 1875 (domgueranger.net HTML transcription)",
+      "description": "Guéranger’s part only.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died 1875; printed 1875."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "fr-FR": "Préface"
+      }
+    },
+    {
+      "id": "i",
+      "title": {
+        "fr-FR": "I"
+      }
+    },
+    {
+      "id": "ii",
+      "title": {
+        "fr-FR": "II"
+      }
+    },
+    {
+      "id": "iii",
+      "title": {
+        "fr-FR": "III"
+      }
+    }
+  ]
+}
