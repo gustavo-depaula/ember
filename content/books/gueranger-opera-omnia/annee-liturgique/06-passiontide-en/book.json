@@ -1,0 +1,200 @@
+{
+  "id": "gueranger-liturgical-year-06-passiontide",
+  "name": {
+    "en-US": "The Liturgical Year: Passiontide and Holy Week",
+    "pt-BR": "O Ano Litúrgico: Paixão e Semana Santa"
+  },
+  "author": {
+    "en-US": "Dom Prosper Guéranger",
+    "pt-BR": "Dom Prosper Guéranger"
+  },
+  "description": {
+    "en-US": "Volume 6 of the English Liturgical Year (Passiontide and Holy Week), translated from L’Année liturgique: one chapter per day or feast, with the Latin liturgical texts beside their English. Made from the Internet Archive scan of the 1900 printing; the two-column Latin and English text is separated by script, so some lines may be misassigned.",
+    "pt-BR": "Volume 6 do «Liturgical Year» em inglês (Paixão e Semana Santa), traduzido de L’Année liturgique: um capítulo por dia ou festa, com os textos litúrgicos em latim ao lado do inglês."
+  },
+  "composed": "1858",
+  "languages": [
+    "en-US"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "en-US": {
+      "translator": "Rev. Dom Laurence Shepherd (Stanbrook Abbey)",
+      "year": 1900
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/V06TheLiturgicalYear",
+      "edition": "The Liturgical Year, Passiontide and Holy Week, translated from the French of Dom Prosper Guéranger; printing of 1900 (Stanbrook Abbey / Duffy). Internet Archive scan, OCR text.",
+      "description": "Split at each day or feast heading detected in the running text; running heads and page numbers removed; the Latin and English columns of the liturgical texts, interleaved line by line in the OCR, were separated by language and set as a Latin paragraph followed by its English.",
+      "tier": "A",
+      "tierEvidence": "Guéranger (d. 1875) and the translation printed 1870-1912: public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-holy-week",
+      "title": {
+        "en-US": "Holy Week"
+      }
+    },
+    {
+      "id": "002-holy-week-chapter-the-first-the-history-of-passi",
+      "title": {
+        "en-US": "Holy Week Chapter the First the History of Passiontide and Holy Week"
+      }
+    },
+    {
+      "id": "003-chapter-the-fifth-on-hearing-mass-during-passion",
+      "title": {
+        "en-US": "Chapter the Fifth on Hearing Mass During Passiontide and Holt Week"
+      }
+    },
+    {
+      "id": "004-chapter-the-seventh",
+      "title": {
+        "en-US": "Chapter the Seventh"
+      }
+    },
+    {
+      "id": "005-passion-sunday",
+      "title": {
+        "en-US": "Passion Sunday"
+      }
+    },
+    {
+      "id": "006-monday-in-passion-week",
+      "title": {
+        "en-US": "Monday in Passion Week"
+      }
+    },
+    {
+      "id": "007-tuesday-in-passion-week",
+      "title": {
+        "en-US": "Tuesday in Passion Week"
+      }
+    },
+    {
+      "id": "008-wednesday-in-passion-week",
+      "title": {
+        "en-US": "Wednesday in Passion Week"
+      }
+    },
+    {
+      "id": "009-thursday-in-passion-week",
+      "title": {
+        "en-US": "Thursday in Passion Week"
+      }
+    },
+    {
+      "id": "010-friday-in-passion-week-the-seven-dolours-of-the",
+      "title": {
+        "en-US": "Friday in Passion Week the Seven Dolours of the Blessed Virgin"
+      }
+    },
+    {
+      "id": "011-feast-of-the-seven-dolours",
+      "title": {
+        "en-US": "Feast of the Seven Dolours"
+      }
+    },
+    {
+      "id": "012-saturday-in-passion-week",
+      "title": {
+        "en-US": "Saturday in Passion Week"
+      }
+    },
+    {
+      "id": "013-palm-sunday",
+      "title": {
+        "en-US": "Palm Sunday"
+      }
+    },
+    {
+      "id": "014-alm-sunday-blessing-of-palms",
+      "title": {
+        "en-US": "Alm Sunday: Blessing of Palms"
+      }
+    },
+    {
+      "id": "015-alm-sunday-mass",
+      "title": {
+        "en-US": "Alm Sunday: Mass"
+      }
+    },
+    {
+      "id": "016-monday-in-holy-week",
+      "title": {
+        "en-US": "Monday in Holy Week"
+      }
+    },
+    {
+      "id": "017-tuesday-in-holy-week",
+      "title": {
+        "en-US": "Tuesday in Holy Week"
+      }
+    },
+    {
+      "id": "018-wednesday-in-holt-week",
+      "title": {
+        "en-US": "Wednesday in Holt Week"
+      }
+    },
+    {
+      "id": "019-maundy-thursday-the-night-office",
+      "title": {
+        "en-US": "Maundy Thursday the Night Office"
+      }
+    },
+    {
+      "id": "020-mattndt-thursday-tenebra",
+      "title": {
+        "en-US": "Mattndt Thursday: Tenebra"
+      }
+    },
+    {
+      "id": "021-maundy-thursday-morning",
+      "title": {
+        "en-US": "Maundy Thursday: Morning"
+      }
+    },
+    {
+      "id": "022-the-mass-op-maundy-thursday",
+      "title": {
+        "en-US": "The Mass Op Maundy Thursday"
+      }
+    },
+    {
+      "id": "023-maundy-thursday-altars-stripped",
+      "title": {
+        "en-US": "Maundy Thursday: Altars Stripped"
+      }
+    },
+    {
+      "id": "024-maundy-thursday-evening",
+      "title": {
+        "en-US": "Maundy Thursday : Evening"
+      }
+    },
+    {
+      "id": "025-good-friday-morning",
+      "title": {
+        "en-US": "Good Friday: Morning"
+      }
+    },
+    {
+      "id": "026-holt-saturday-the-night-office",
+      "title": {
+        "en-US": "Holt Saturday the Night Office"
+      }
+    },
+    {
+      "id": "027-holy-saturday-morning-service",
+      "title": {
+        "en-US": "Holy Saturday: Morning Service"
+      }
+    }
+  ]
+}
