@@ -1,0 +1,7 @@
+# Letter XXXII. To Sister M. A. Humbert
+
+Remedies against evil thoughts.
+
+zoth January [1622?]. TO MY VERY DEAR DAUGHTER, MY SlSTER MARIE-
+
+AUGUSTINE HUMBERT — Do not trouble yourself at all about these extraordinary or terrible imaginations and thoughts which come to you; for according to the true knowledge which I have of your heart, I assure you before Our Lord that you can incur no sin by them. And to strengthen yourself in this belief, at the end of your morning exercise renounce by a short and simple disavowal all sorts of thoughts contrary to heavenly love; saying, for instance: I renounce all thoughts which are not for you, 0 my God; I disown and reject them for ever. Then when they attack you, you will have nothing to do but say occasionally: 0 Lord, I have renounced them, you know it. Sometimes you may kiss your cross or give some other sign that you confirm your disavowal; and do not vex yourself, do not worry yourself, since all this does not only not separate you from Our Lord, but gives you occasion to unite yourself more and more to his mercy. Go on then gently and sweetly serving God and Our Lady where you are called by their will. And may the grace and consolation of his Holy Spirit be ever with you. Amen. My dear daughter, live in God sweetly and simply, with a continual love of your own abjection, and a great courage to serve him who to save you died on the cross.

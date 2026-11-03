@@ -1,0 +1,7 @@
+# Letter XXIII. To Mother de Chastel
+
+Answer to the Preceding.
+
+I WELL believe, my very dear daughter, that you think we ought to relieve you of the charge and quality of Mother, but we do not think so at all. Oh! my dear daughter, do you think Our Lady was less the Mother of Our Lord when she appeared all beside herself with sorrow, and when loaded with distress, and quite over whelmed with affliction, she breathed out that word, Yes, my Son, because so it hath pleased thee — than when with exalted voice and heart thrilling with joy she sang the heavenly song of her Magnificat? Do not fear to disedify the sisters; God will take care of that. Your heart is simple, frank, and sincere, your way is good, and I find nothing in it to object to except that you consider your steps too scrupulously through fear of falling. About what do you trouble yourself so much? God is so good! Do not be so solicitous for him; he reproved Martha for it; do not want to be so
+
+LET. xxiv.] Later Letters to Visitation. 2 1 3 perfect.* St. Paul warns you not to "be iviser than it Ijehoveth to be wiseA Examine not so much your soul on its progress; it is useful for you not to know your graces and the riches which you have acquired before God; comfort your poor heart, which I paternally cherish before God, and it is God who wills that I should have the consolation of saying so. Remain at peace then, my dear daughter; be a mother, and a good mother, as long as God shall so ordain.

@@ -1,0 +1,17 @@
+# Letter XXI. To Father Stephen Binet, S.j., at Paris
+
+The Saint explains Ms course of action with regard to the desire of the Abbess of Port Royal to enter the Visitation.
+
+ANNECY, nth November 1621.
+
+MY REVEREND FATHER — With a thousand thanks for the trouble you have taken to write to me, I say in answer that when at Paris I would never acquiesce in the desire that Madame de Port-Royal manifested to me of withdrawing from the Order in which she had so profitably lived up to that time; and veritably I
+
+* Phil. ii. 13. t Matt. xxv. 21.
+
+LET. xxii.] Further Letters Outside Visitation. 329 brought into this country not so much as a thought of it, but time after time I received by letters very ear nest pleadings, with which she excited me to enter into her ideas and approve her wishes.
+
+I temporised as much as I could, and showed myself not only cold, but altogether opposed to her disposi tions, until after eighteen months a person of great consideration wrote to me in such a sense that I considered it well not to make myself the sovereign judge on this occasion, but to leave the final decision to the event. I refrained then from giving her advice, and wrote to her that since her heart found no repose in all that I had said to her she might have her petition presented for what she desired; that if His Holiness granted it there would be a very probable appearance that her desire is the will of God, inasmuch as the thing being in itself difficult could not succeed without a special concurrence of the divine favour; that if on the contrary His Holiness refused it, there would no longer be anything left save to humble herself and abase her heart. This, my reverend Father, is as far as I have gone. I clearly saw that this design was extra ordinary, but I also saw an extraordinary heart. I saw indeed the inclination of this heart towards commanding; but I saw that it was to conquer this inclination that she wanted to bind herself to obedience. I saw indeed that she was a woman, but I saw she had been more than a woman in commanding and governing, and that she might well be so in obeying properly.
+
+As for the interest of the Visitation, certainly, my reverend Father, I protest before God and your Reverence that I never thought of it, or if I thought it was so little that I have no recollection of doing so. I confess indeed that I have a particular loving affection for the institute of the Visitation; but Madame de Chantal, your dear daughter and mine, will tell you that for it I would not have withdrawn the most excel lent and most esteemed creature in the world from her just vocation, even though she might become a canonised Saint in the Visitation. I rejoice when God draws good subjects to it, but I will never employ either word or art, however holy it might be, to attract any one, unless it might be some feeble prayer before God. The inconstancy of woman is to be feared, but one cannot guess, and constancy is in this case equally, and better than equally, to be hoped for.
+
+Oh! my Father, how extraordinarily our ancient friendship makes my soul familiar and effusive with yours! I am running on too much. I let myself go by the advice of others; I will also willingly accommodate myself to the adnce of those who will take the pains to examine this affair, but above all your own, which therefore I will very affectionately wait for and very lovingly receive, being ever, my reverend Father, your most humble, &c.

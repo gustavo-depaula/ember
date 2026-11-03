@@ -1,0 +1,11 @@
+# Letter XXII. To the Abbess of Sainte Catherine
+
+[This was a Cistercian Abbey near Annecy.]
+
+On certain measures of reform taken somewhat 'precipitately by some of her daughters.
+
+I ANSWER your letter frankly, my very dear cousin, my daughter. It is true that I have long perceived the
+
+LET. xxin desires which several of your daughters had for a reform, and as far as my conscience permitted I have told you of it from time to time. But it is also true that I should have wished them to have a little more patience, since we are on the eve of seeing a general order for the reform of all the monasteries of this province this side the Alps, in particular of the monas teries of women, amongst whom little failings are more blamed than great ones among men. But, my dear cousin, the thing has now come out. That there have been some acts of impatience, im mortification, disdain, disobedience, self-love, certainly cannot be denied: still for all that the substance of the affair does not cease to be good and according to God's will. All the defects which occur in a good work do not spoil its essential goodness; wherever good comes from we must love it. My inclination was to wait before doing this till the order came from Rome, in order that there might be less resistance. The fervour of the charity of some, or if you like the ardour of the self-will of others, has chosen another means which seemed to them shorter. It must not on this account be re jected, but we must contribute to it all that holy, sincere, and true charity will suggest to us; and we must take care not to let our own interest or self-love use our own prudence contrarily to the will of the heavenly Spouse. But of all this we must talk more at length, God helping.
+
+Madame my dear cousin, my daughter, that this matter was so designed I knew before my departure from this town; that it had come to execution I knew in Argentine; but you were the first to give me information as to particulars, although I have since learnt even more. It matters little whether good be done in one way or in another, provided that it be done in such sort that a greater glory may come to Our Lord from it. I am, inadame my dear cousin, your, &c.

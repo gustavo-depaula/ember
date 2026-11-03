@@ -1,0 +1,9 @@
+# Letter XXIX. To a Religious Sister
+
+Patience and silence during trouble^ with the thought of Christ crucified and of eternity.
+
+GOD then is good to you, my dear daughter, is he not? But to whom is he not good, that sovereign love of hearts? Those who taste him cannot be satisfied with him, and those who draw near to his heart cannot restrain theirs from blessing and praising him for ever. Keep this holy silence which you tell me of, for truly it is good to be sparing of our words, for God and for his glory. God has held you with his kind hand during your affliction. Well then, my dear daughter, you must always act so. " Alas! " said St. Gregory to an afflicted bishop, "how can our hearts which are henceforth in heaven be disturbed by the accidents of earth? " It is rightly said: the mere sight of our dear Jesus crucified can in a moment soften all our pains, which are but flowers compared with his thorns. And then our grand goal is in that eternity, and compared with this what power can that have with us which ends with time?
+
+Continue, my daughter, to unite yourself more and more with this Saviour; plunge your heart into the depths of the charity of his, and let us always say with all our heart: Let me die and Jesus live! Our death will be happy if it is made in his life. / live, says the Apostle; * but he corrects himself: no, novj not /, but my Jesus lives in me.
+
+Blessed may you be, my dear daughter, with the blessing which the divine goodness has prepared for the hearts which abandon themselves as a prey to his holy and sacred love. And courage, dear daughter; God is good to us; if everything be evil to us what should it matter? Live joyously by his side; it is in him that my soul is wholly dedicated to yours. The years pass away, and eternity comes towards us. May we so employ these years in divine love, that we may have eternity in his glory. Amen.

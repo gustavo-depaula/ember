@@ -1,0 +1,13 @@
+# Letter II. To the Same. the Excellence of her Vocation : the Saint Praises God for It
+
+IN proportion as the sovereign goodness of the divine Trinity renews the spirit of his adoration * in the Holy Church, it seems to me to renew that of the sacred vocation of my dearest, best, and most honoured mother, who going out from her country, without knowing whither she was going, but believing God, who had said to her: Go out from tJiy country and thy father's house^ came in to the mountain whose name was " God will see her; " t and God did see her, multiplying her spiritual offspring like the stars of heaven.
+
+May God be ever glorified, my very dear mother, with whom I rejoice, yea, in whose heart my heart rejoices as in itself. May it, this heart of my mother, be eternally fixed in heaven like a fair star, the centre of a constellation. Is it possible that we shall eternally sing the canticle of Glory to the Father, to the Son, and to the Holy Ghost? Yes; the soul of my mother shall sing it for ever and ever, Amen. And God shall be blessed thereby unto eternity of * Adoption? [Tr.] f Gen. xii. i. J Ibid, xxii.
+
+LET. in.] Earlier Letters to Visitation. 95 eternities, Amen. Vive Jdsusf Glory be to the Father, and to the Son, and to the Holy Ghost, for the gathering together of all these hearts for his honour. But, alas! what confusion for mine, which has co-operated in so holy a work with so slight a fidelity! But still, this same most holy Trinity, who is so sovereign a goodness, will be gracious to us, and we will in future do his will. Amen.
+
+To THE SAME (MOTHER DE CHANTAL). That she should receive her son with signs of love.
+
+IT is I, I think, who will be the first to announce to you, my very dear daughter, the coming of the well-beloved Celse Benigne. He arrived yesterday evening very late, and we had a difficulty in restraining him from going to see you in bed, where you doubtless were. How sorry am I to be unable to be witness of the caresses which he will receive from a mother who is insensible to all that is of natural love! For I think they will be terribly mortified ones. Ah! no, my dear daughter, be not so cruel; manifest to him some pleasure at his coming, to this poor young Celse Benigne. It is not right all at once to show such strong signs of this death of our natural passion.
+
+Well, then, I will go to see you, if I can, but I will not be in a hurry; for we ought not to be insensible in the presence of objects which so strongly call for love. Friendship rather goes downwards than upwards. I will g6 content myself with not ceasing to cherish you for my daughter as much as you cherish him for your son, and, moreover, I defy you to do better than I.
