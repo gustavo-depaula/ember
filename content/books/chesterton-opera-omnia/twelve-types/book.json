@@ -1,0 +1,111 @@
+{
+  "id": "chesterton-twelve-types",
+  "cover": "classic",
+  "name": {
+    "en-US": "Twelve Types",
+    "pt-BR": "Doze Tipos"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Twelve brief critical portraits of writers and figures, among them Charlotte Brontë, William Morris, Byron, Pope, St. Francis, Rostand, Stevenson, Carlyle, Tolstoy, Savonarola and Scott, each a start toward the exuberant criticism of his later biographies. Later enlarged as Varied Types.",
+    "pt-BR": "Doze breves retratos críticos de escritores e figuras, entre eles Charlotte Brontë, William Morris, Byron, Pope, São Francisco, Rostand, Stevenson, Carlyle, Tolstói, Savonarola e Scott, cada um um primeiro passo rumo à crítica exuberante de suas biografias posteriores. Depois ampliado como Varied Types."
+  },
+  "composed": "1902",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/twelve-types",
+  "editions": {
+    "en-US": {
+      "editor": "Arthur L. Humphreys",
+      "year": 1902
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/12491",
+      "edition": "Twelve Types (Arthur L. Humphreys, 1902), Project Gutenberg #12491.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1902 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-charlotte-bronte",
+      "title": {
+        "en-US": "Charlotte Brontë"
+      }
+    },
+    {
+      "id": "ch02-william-morris-and-his-school",
+      "title": {
+        "en-US": "William Morris and his School"
+      }
+    },
+    {
+      "id": "ch03-the-optimism-of-byron",
+      "title": {
+        "en-US": "The Optimism of Byron"
+      }
+    },
+    {
+      "id": "ch04-pope-and-the-art-of-satire",
+      "title": {
+        "en-US": "Pope and the Art of Satire"
+      }
+    },
+    {
+      "id": "ch05-st-francis-of-assisi",
+      "title": {
+        "en-US": "St. Francis of Assisi"
+      }
+    },
+    {
+      "id": "ch06-rostand",
+      "title": {
+        "en-US": "Rostand"
+      }
+    },
+    {
+      "id": "ch07-charles-ii",
+      "title": {
+        "en-US": "Charles II"
+      }
+    },
+    {
+      "id": "ch08-stevenson",
+      "title": {
+        "en-US": "Stevenson"
+      }
+    },
+    {
+      "id": "ch09-thomas-carlyle",
+      "title": {
+        "en-US": "Thomas Carlyle"
+      }
+    },
+    {
+      "id": "ch10-tolstoy-and-the-cult-of-simplicity",
+      "title": {
+        "en-US": "Tolstoy and the Cult of Simplicity"
+      }
+    },
+    {
+      "id": "ch11-savonarola",
+      "title": {
+        "en-US": "Savonarola"
+      }
+    },
+    {
+      "id": "ch12-the-position-of-sir-walter-scott",
+      "title": {
+        "en-US": "The Position of Sir Walter Scott"
+      }
+    }
+  ]
+}
