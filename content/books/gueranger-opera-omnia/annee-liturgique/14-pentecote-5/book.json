@@ -1,0 +1,155 @@
+{
+  "id": "gueranger-annee-liturgique-14-pentecote-5",
+  "name": {
+    "fr-FR": "L’Année liturgique : le temps après la Pentecôte, V",
+    "en-US": "The Liturgical Year: Time after Pentecost, Book V (continuation by Dom Fromage)",
+    "pt-BR": "O Ano Litúrgico: Tempo depois de Pentecostes, V (continuação de Dom Fromage)"
+  },
+  "author": {
+    "fr-FR": "Dom Lucien Fromage (continuation de Dom Guéranger)",
+    "en-US": "Dom Lucien Fromage",
+    "pt-BR": "Dom Lucien Fromage"
+  },
+  "description": {
+    "fr-FR": "Volume 14 de l’Année liturgique (Le temps après la Pentecôte, V, 5e volume de la continuation par Dom Lucien Fromage) : un chapitre par jour ou fête, avec les textes liturgiques en latin et en français.",
+    "en-US": "Volume 14 of the 15-volume Liturgical Year (L’Année liturgique) in the original French, the fifth volume of the continuation written by Dom Lucien Fromage after Guéranger’s death. One chapter per day or feast, with the Latin and French of the liturgical texts. Made from the 1911 Oudin printing’s OCR; the two-column Latin and French text is separated by script and some running heads remain.",
+    "pt-BR": "Volume 14 dos 15 volumes de «O Ano Litúrgico» (L’Année liturgique) em francês, volume 5 da continuação escrita por Dom Lucien Fromage após a morte de Guéranger. Um capítulo por dia ou festa, com o latim e o francês dos textos litúrgicos."
+  },
+  "composed": "1897",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "fr-FR": {
+      "editor": "Dom Lucien Fromage, continuation (Oudin, Paris-Poitiers)",
+      "year": 1911
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/lanneliturgiqu14gu",
+      "edition": "L’Année liturgique, vol. 14, Paris-Poitiers: Librairie H. Oudin, 1911. Internet Archive scan (University of Toronto), OCR text.",
+      "description": "Split at detected day and feast headings; running heads and page numbers removed where recognised; the Latin and French columns, interleaved line by line in the OCR, were separated by language and set as a Latin paragraph followed by its French. The table of contents at the back is not imported.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875 and Fromage in 1916; the text was printed in 1911 (before 1931)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-la-pentecote-chapitre-premier-de-lassistance-a-i",
+      "title": {
+        "fr-FR": "La Pentecôte chapitre premier de l'assistance A I.A Sainte messe, au temps i après L\\ Pentecôte"
+      }
+    },
+    {
+      "id": "002-chapitre-des-offices-de-tierce-sexte-et-none-au",
+      "title": {
+        "fr-FR": "Chapitre . des offices de tierce, sexte et none, au temps après la Pentecôte a tierce"
+      }
+    },
+    {
+      "id": "003-saint-barthelemy-apotre",
+      "title": {
+        "fr-FR": "Saint Barthélémy, Apôtre"
+      }
+    },
+    {
+      "id": "004-saint-zephyrin-pape-et-martyr",
+      "title": {
+        "fr-FR": "Saint Zéphyrin. Pape et martyr"
+      }
+    },
+    {
+      "id": "005-30-aout-sainte-rosf-nu-sainte-marie-vierge",
+      "title": {
+        "fr-FR": "30 août — Sainte Rosf;; nu sainte-marie. Vierge"
+      }
+    },
+    {
+      "id": "006-31-aout-confesseur",
+      "title": {
+        "fr-FR": "31 août — Confesseur"
+      }
+    },
+    {
+      "id": "007-8-septembre",
+      "title": {
+        "fr-FR": "8 septembre"
+      }
+    },
+    {
+      "id": "008-9-septembre-deuxieme-jour",
+      "title": {
+        "fr-FR": "9 septembre — Deuxième jour"
+      }
+    },
+    {
+      "id": "009-10-septembre-saint-nicolas-r-e-tolentino-confess",
+      "title": {
+        "fr-FR": "10 septembre — Saint Nicolas r)e tolentino, confesseur"
+      }
+    },
+    {
+      "id": "010-15-septembre",
+      "title": {
+        "fr-FR": "15 septembre"
+      }
+    },
+    {
+      "id": "011-la-fete-des-sept-douleurs-de-l-v-bienheureuse-vi",
+      "title": {
+        "fr-FR": "La fête des sept douleurs de l.'v bienheureuse Vierge Marie"
+      }
+    },
+    {
+      "id": "012-17-septembre-les-stigmates-de-saint-francois",
+      "title": {
+        "fr-FR": "17 septembre — Les stigmates de Saint François"
+      }
+    },
+    {
+      "id": "013-4-octobre",
+      "title": {
+        "fr-FR": "4 octobre"
+      }
+    },
+    {
+      "id": "014-6-octobre-saint-bruno-confesseur",
+      "title": {
+        "fr-FR": "6 octobre — Saint Bruno, confesseur"
+      }
+    },
+    {
+      "id": "015-8-octobre-sainte-brigitte-veuve",
+      "title": {
+        "fr-FR": "8 octobre — Sainte Brigitte. veuve"
+      }
+    },
+    {
+      "id": "016-10-octobre-saint-francois-i-f-borgia",
+      "title": {
+        "fr-FR": "10 octobre — Saint François i^f borgia"
+      }
+    },
+    {
+      "id": "017-13-octobre-saint-edouard-lk-confesseur-roi-dangl",
+      "title": {
+        "fr-FR": "13 octobre — Saint Edouard lk confesseur. roi d'angleterre"
+      }
+    },
+    {
+      "id": "018-le-xvi",
+      "title": {
+        "fr-FR": "Le XVI"
+      }
+    },
+    {
+      "id": "019-17-octobre",
+      "title": {
+        "fr-FR": "17 octobre"
+      }
+    }
+  ]
+}
