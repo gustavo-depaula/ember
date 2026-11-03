@@ -8,5 +8,81 @@
   "matches": [
     "St. Jane Frances de Chantal",
     "Jane Frances Frémyot de Chantal"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "jane-de-chantal/lettres",
+          "why": {
+            "en-US": "Her letters, in French and in English selections",
+            "pt-BR": "Suas cartas, em francês e em seleções inglesas"
+          }
+        },
+        {
+          "work": "jane-de-chantal/meditations-solitudes",
+          "why": {
+            "en-US": "Thirty-three meditations for the annual retreat",
+            "pt-BR": "Trinta e três meditações para o retiro anual"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Teaching to the Visitation",
+        "pt-BR": "Ensino à Visitação"
+      },
+      "works": [
+        {
+          "work": "jane-de-chantal/exhortations",
+          "why": {
+            "en-US": "Exhortations, conferences and instructions to her daughters",
+            "pt-BR": "Exortações, conferências e instruções às suas filhas"
+          }
+        },
+        {
+          "work": "jane-de-chantal/opuscules",
+          "why": {
+            "en-US": "Minor writings, including a short treatise on prayer",
+            "pt-BR": "Escritos menores, entre eles um breve tratado sobre a oração"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Personal papers",
+        "pt-BR": "Papéis pessoais"
+      },
+      "works": [
+        {
+          "work": "jane-de-chantal/papiers",
+          "why": {
+            "en-US": "Her Little Book, questions and answers, private papers",
+            "pt-BR": "Seu Livrinho, perguntas e respostas, papéis privados"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Francis de Sales",
+        "pt-BR": "Francisco de Sales"
+      },
+      "works": [
+        {
+          "work": "jane-de-chantal/deposition",
+          "why": {
+            "en-US": "Her deposition for the canonisation of Francis de Sales, 1627",
+            "pt-BR": "Seu depoimento para a canonização de Francisco de Sales, 1627"
+          }
+        }
+      ]
+    }
   ]
 }
