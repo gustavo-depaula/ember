@@ -1,0 +1,19 @@
+# Chapter X. The Uounter-aeguments of our Adversaries, and the Answers Thereto
+
+(i.) Was not the Church everywhere destroyed when Adam and Eve sinned? Answer: Adam and Eve were not the Church, but the commencement of the Church. And it is not true that the Church was ruined then, or yet that it had been, because they did not sin in doctrine or belief but in act.
+
+(2.) Did not Aaron the High Priest adore the golden
+
+* l)c Unit. Eccl. xvii.
+
+OHAP. X.] Mission. 6i calf with all his people? Answer: Aaron was not as yet High Priest, nor head of the people, but became so afterwards. And it is not true that all the people worshipped idols: — for were not the children of Levi men of God, who joined themselves to Moses?
+
+(3.) Elias lamented that he was alone in Israel (3 K. xix. 14). Answer: Elias was not the only good man in Israel, for there were seven thousand men who had not given themselves up to idolatry, and what the Prophet says here is only to express better the justice of his complaint. It is not true again that if all Israel had failed, the Church would have thereby ceased to exist, for Israel was not the whole Church. Indeed it was already separated therefrom by the schism of Jeroboam; and the kingdom of Juda was the better and principal part; and it is Israel, not Juda, of which Azarias predicted (II Par. xv. 3), that it should be without priest and sacrifice.
+
+(4.) Isaias says (i. 6) that from head to foot tlure is no soundness. Answer: these are forms of speaking, and of vehemently detesting the vice of a people. And although the Prophets, pastors and preachers use these general modes of expression, we are not to understand them of each particular person, but only of a large porportion; as appears by the example of Elias who complained that he was alone, notwithstanding that there were yet seven thousand faithful. S. Paul complains to the Philippians (ii. 21) that all seek their own interest and advantage; still at the end of the Epistle he acknowledges that there were many good people with him and with them. Who knows not the complaint of David (Ps. xiii. 3), that there is none that doth good, no, not one? — and who knows not on the other hand that there were many good people in his day? These forms of speech are frequent, but we must not draw a particular conclusion about each individual. Further, — such things do not prove that faith had failed. in the Church, nor that the Church was dead: for it does not follow that if a body is everywhere diseased it is therefore dead. Thus, without doubt, are to be understood all similar things which are found in the threats and rebukes of the Prophets.
+
+(4.) Jeremias tells us (vii. 4) not to trust in lying words, saying: the Temple of the Lord, the Temple of the Lord. Answer: who maintains that under pretence of the Church we are to trust to a lie? Yea, on the contrary, he who rests on the judgment of the Church rests on the pillar and ground of truth; he who trusts to the infallibility of the Church trusts to no lie, unless that is a lie which is written: the gates of hell shall not prevail against it. We place our trust then in the Holy Word, which promises perpetuity to the Church.
+
+(5.) Is it not written that the revolt and separation must come (2 Thess. ii. 3), and that the sacrifice shall cease (Dan. xii. 11), and that the Son of Man shall hardly find faith on earth at his second A/isible return (Luke xviii. 8), when he will come to judge? Answer: all these passages are understood of the affliction which antichrist will cause in the Church, during the three and a half years that he si 1 all reign mightily; but in spite of this the Church during even these three years shall not fail, and shall be fed and preserved amid the deserts and solitudes whither it shall retire, as the Scripture says (Apoc. xii.).
+
+CHAP. XL] Mission, 63

@@ -1,0 +1,639 @@
+{
+  "id": "sales-catholic-controversy-mackey",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Catholic Controversy",
+    "pt-BR": "A Controvérsia Católica"
+  },
+  "author": {
+    "en-US": "St. Francis de Sales",
+    "pt-BR": "São Francisco de Sales"
+  },
+  "description": {
+    "en-US": "Francis de Sales's controversial tracts to the Calvinists of the Chablais (1593-94), in Canon Mackey's English version: the lack of mission in the ministers and the rule of faith, Scripture, apostolic tradition and the authority of the Church.",
+    "pt-BR": "Os escritos de controvérsia de São Francisco de Sales aos calvinistas do Chablais (1593-94), na versão inglesa do cônego Mackey: a falta de missão dos ministros e a regra de fé, a Escritura, a tradição apostólica e a autoridade da Igreja."
+  },
+  "composed": 1594,
+  "languages": [
+    "en-US"
+  ],
+  "work": "francis-de-sales/controverses",
+  "editions": {
+    "en-US": {
+      "editor": "Rev. H. B. Mackey, O.S.B. (London: Burns & Oates, 3rd ed. 1909)",
+      "year": 1909
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/catholiccontrove00sain",
+      "edition": "The Catholic Controversy, tr. H. B. Mackey, Library of St. Francis de Sales III (London: Burns & Oates, 1909), Internet Archive full-text OCR.",
+      "description": " Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "St. Francis de Sales died in 1622 and the edition is of 1909, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "translators-preface",
+      "title": {
+        "en-US": "Translator's Preface"
+      }
+    },
+    {
+      "id": "note-second-edition",
+      "title": {
+        "en-US": "Note to the Second Edition"
+      }
+    },
+    {
+      "id": "part-1",
+      "title": {
+        "en-US": "Part I: The Mission of the Ministers"
+      },
+      "children": [
+        {
+          "id": "chapter-01",
+          "title": {
+            "en-US": "Chapter I. The Lack of Mission in the Ministers of the New Pretended Church Leaves Both Them and Their Followers Without Excuse"
+          }
+        },
+        {
+          "id": "chapter-02",
+          "title": {
+            "en-US": "Chapter II. That the Pretended Reformers Had No Mediate Mission Either from the People or the Bishops"
+          }
+        },
+        {
+          "id": "chapter-03",
+          "title": {
+            "en-US": "Chapter III. The Pretended Reformers Had No Immediate or Extraordinary Mission from God"
+          }
+        },
+        {
+          "id": "chapter-04",
+          "title": {
+            "en-US": "Chapter IV. An Answer to the Two Objections Which Are Made by the Supporters of the Theory of Immediate Mission"
+          }
+        },
+        {
+          "id": "chapter-05",
+          "title": {
+            "en-US": "Chapter V. That the Invisible Church from Which the Innovators Pretend to Derive Their Mission is a Figment ; and That the True Church of Christ is Visible"
+          }
+        },
+        {
+          "id": "chapter-06",
+          "title": {
+            "en-US": "Chapter VI. Answer to the Objections Made Against the Visibility of the Church"
+          }
+        },
+        {
+          "id": "chapter-07",
+          "title": {
+            "en-US": "Chapter VII. That in the Church There Are Good and Bad, Predestinate and Reprobate"
+          }
+        },
+        {
+          "id": "chapter-08",
+          "title": {
+            "en-US": "Chapter VIII. Ans\\^er to the Objections of Those Who Would Have the Church to Consist of the Predestinate Alone"
+          }
+        },
+        {
+          "id": "chapter-09",
+          "title": {
+            "en-US": "Chapter IX. That the Church Cannot Perish"
+          }
+        },
+        {
+          "id": "chapter-10",
+          "title": {
+            "en-US": "Chapter X. The Uounter-aeguments of our Adversaries, and the Answers Thereto"
+          }
+        },
+        {
+          "id": "chapter-11",
+          "title": {
+            "en-US": "Chapter XI. That the Chuech Has Nevee Been Dispersed Nor"
+          }
+        },
+        {
+          "id": "chapter-12",
+          "title": {
+            "en-US": "Chapter XII. The Church Cannot Err"
+          }
+        },
+        {
+          "id": "chapter-13",
+          "title": {
+            "en-US": "Chapter XIII. The Ministers Have Violated the Authority of the Church"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "Part II: The Rule of Faith"
+      },
+      "children": [
+        {
+          "id": "part-2-intro",
+          "title": {
+            "en-US": "Part II: The Rule of Faith"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "title": {
+        "en-US": "Article I: Holy Scripture, the First Rule of Faith"
+      },
+      "children": [
+        {
+          "id": "chapter-14",
+          "title": {
+            "en-US": "Chapter I. The Scripture is a True Rule of Christian Faith"
+          }
+        },
+        {
+          "id": "chapter-15",
+          "title": {
+            "en-US": "Chapter II. How Jealous We Should Be of Their Integrity"
+          }
+        },
+        {
+          "id": "chapter-16",
+          "title": {
+            "en-US": "Chapter III. What Are the Sacred Books of the Word of God"
+          }
+        },
+        {
+          "id": "chapter-17",
+          "title": {
+            "en-US": "Chapter IV. First Violation of the Holy Scriptures Made by the Reformers: by Cutting Off Some of its Parts"
+          }
+        },
+        {
+          "id": "chapter-18",
+          "title": {
+            "en-US": "Chapter V. Second Violation of the Scriptures: by the Rule Which These Reformers Bring Forward to Distinguish the Sacred Books from the Others : and of Some Smaller Parts They Cut Off from Them According to This Rule"
+          }
+        },
+        {
+          "id": "chapter-19",
+          "title": {
+            "en-US": "Chapter VI. Answer to an Objection"
+          }
+        },
+        {
+          "id": "chapter-20",
+          "title": {
+            "en-US": "Chapter VII. How Greatly the Reformers Have Violated the Integrity of the Scriptures"
+          }
+        },
+        {
+          "id": "chapter-21",
+          "title": {
+            "en-US": "Chapter VIII. How the Majesty of the Scriptures Has Been Violated in the Interpretations and Versions of the Heretics"
+          }
+        },
+        {
+          "id": "chapter-22",
+          "title": {
+            "en-US": "Chapter IX. Of the Profanations Contained in the Versions Made into the Vulgar Tongue"
+          }
+        },
+        {
+          "id": "chapter-23",
+          "title": {
+            "en-US": "Chapter X. Of the Profanation of the Scriptures Through the Facility They Pretend There is in Understanding Scripture"
+          }
+        },
+        {
+          "id": "chapter-24",
+          "title": {
+            "en-US": "Chapter XI. On the Profanation of the Scmptures in the Versified Psalms Used by the Pretended Reformers"
+          }
+        },
+        {
+          "id": "chapter-25",
+          "title": {
+            "en-US": "Chapter XII. Answer to Objections ; and Conclusion of This First Article"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-4",
+      "title": {
+        "en-US": "Article II: Apostolic Traditions, the Second Rule of Faith"
+      },
+      "children": [
+        {
+          "id": "chapter-26",
+          "title": {
+            "en-US": "Chapter I. What is Understood by Apostolic Traditions"
+          }
+        },
+        {
+          "id": "chapter-27",
+          "title": {
+            "en-US": "Chapter II. That There Are Apostolic Traditions in the"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": {
+        "en-US": "Article III: The Church, the Third Rule of Faith"
+      },
+      "children": [
+        {
+          "id": "chapter-28",
+          "title": {
+            "en-US": "Chapter I. That We Need Some Other Rule Besides the Word of God"
+          }
+        },
+        {
+          "id": "chapter-29",
+          "title": {
+            "en-US": "Chapter II. That the Church is an Infallible Guide for our Faith. That the True Church is Visible. Definition of the Church"
+          }
+        },
+        {
+          "id": "chapter-30",
+          "title": {
+            "en-US": "Chapter III. The Catholic Chuech is One. Mark the First. It is Under One Visible Head ; That of the Protestants is not"
+          }
+        },
+        {
+          "id": "chapter-31",
+          "title": {
+            "en-US": "Chapter IV"
+          }
+        },
+        {
+          "id": "chapter-32",
+          "title": {
+            "en-US": "Chapter V. Of the Sanctity of the Church: Second Mark"
+          }
+        },
+        {
+          "id": "chapter-33",
+          "title": {
+            "en-US": "Chapter VI. SECOND MAEK {continued), the true church ought"
+          }
+        },
+        {
+          "id": "chapter-34",
+          "title": {
+            "en-US": "Chapter VII"
+          }
+        },
+        {
+          "id": "chapter-35",
+          "title": {
+            "en-US": "Chapter VIII"
+          }
+        },
+        {
+          "id": "chapter-36",
+          "title": {
+            "en-US": "Chapter IX"
+          }
+        },
+        {
+          "id": "chapter-37",
+          "title": {
+            "en-US": "Chapter X"
+          }
+        },
+        {
+          "id": "chapter-38",
+          "title": {
+            "en-US": "Chapter XI. Of the Universality or Catholicity of the Church: Third Mark"
+          }
+        },
+        {
+          "id": "chapter-39",
+          "title": {
+            "en-US": "Chapter XII"
+          }
+        },
+        {
+          "id": "chapter-40",
+          "title": {
+            "en-US": "Chapter XIII"
+          }
+        },
+        {
+          "id": "chapter-41",
+          "title": {
+            "en-US": "Chapter XIV"
+          }
+        },
+        {
+          "id": "chapter-42",
+          "title": {
+            "en-US": "Chapter XV"
+          }
+        },
+        {
+          "id": "chapter-43",
+          "title": {
+            "en-US": "Chapter XVI. That the Church is Apostolic: Fourth Mark"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": {
+        "en-US": "Article IV: Councils, the Fourth Rule of Faith"
+      },
+      "children": [
+        {
+          "id": "chapter-44",
+          "title": {
+            "en-US": "Chapter I. Of the Qualities of a True Council"
+          }
+        },
+        {
+          "id": "chapter-45",
+          "title": {
+            "en-US": "Chapter II. How Holy and Sacred is the Authority of Universal"
+          }
+        },
+        {
+          "id": "chapter-46",
+          "title": {
+            "en-US": "Chapter III. How the Ministers Have Despised and Violated the Authority of Councils"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-7",
+      "title": {
+        "en-US": "Article V: The Fathers, the Fifth Rule of Faith"
+      },
+      "children": [
+        {
+          "id": "chapter-47",
+          "title": {
+            "en-US": "Chapter I. The Authority of the Ancient Fathers is Venerabt,e"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-8",
+      "title": {
+        "en-US": "Article VI: The Authority of the Pope, the Sixth Rule of Faith"
+      },
+      "children": [
+        {
+          "id": "chapter-48",
+          "title": {
+            "en-US": "Chapter I. First and Second Proofs. of the First Promise Made to S. Peter : upon This Rock I Will Build My Church"
+          }
+        },
+        {
+          "id": "chapter-49",
+          "title": {
+            "en-US": "Chapter II. Resolution of a Difficulty"
+          }
+        },
+        {
+          "id": "chapter-50",
+          "title": {
+            "en-US": "Chapter III. Third Proof. of the Second Promise Made to S. Peter : and I Will Give Thee the Keys of the Kingdom of Heaven"
+          }
+        },
+        {
+          "id": "chapter-51",
+          "title": {
+            "en-US": "Chapter IV. Fourth Proof. of the Third Promise Made to S. Peter: I Have Prayed for Thee, &C"
+          }
+        },
+        {
+          "id": "chapter-52",
+          "title": {
+            "en-US": "Chapter V. Fifth Peoof. the Fulfilment of These Promises: Feed My Sheep"
+          }
+        },
+        {
+          "id": "chapter-53",
+          "title": {
+            "en-US": "Chapter VI. Seventh Peoof. of Some Other Marks Which Are Scattered Throughout the Scriptures of the Primacy of S. Peter"
+          }
+        },
+        {
+          "id": "chapter-54",
+          "title": {
+            "en-US": "Chapter VII. Eighth Proof. Testimonies of the Church to This Fact"
+          }
+        },
+        {
+          "id": "chapter-55",
+          "title": {
+            "en-US": "Chapter VIII. That Saint Peter Has Had Successors in the Vicar-generalship of our Lord. the Conditions Required for Succeeding Him"
+          }
+        },
+        {
+          "id": "chapter-56",
+          "title": {
+            "en-US": "Chapter IX. That the Bishop of Rome is Tkue Successor of S. Peter, and Head of the Militant Church"
+          }
+        },
+        {
+          "id": "chapter-57",
+          "title": {
+            "en-US": "Chapter X. Short Description of the Life of S. Peter, and of the Institution of his First Successors"
+          }
+        },
+        {
+          "id": "chapter-58",
+          "title": {
+            "en-US": "Chapter XI. Confirmation of All the Above by the Titles Which Antiquity Has Given to the Pope"
+          }
+        },
+        {
+          "id": "chapter-59",
+          "title": {
+            "en-US": "Chapter XII. In How Great Esteem the Authority of the Pope Ought to Be Held"
+          }
+        },
+        {
+          "id": "chapter-60",
+          "title": {
+            "en-US": "Chapter XIII. How the Ministers Have Violated This Authority"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-9",
+      "title": {
+        "en-US": "Article VII: Miracles, the Seventh Rule of Faith"
+      },
+      "children": [
+        {
+          "id": "chapter-61",
+          "title": {
+            "en-US": "Chapter I. How Important Miracles Are for Confirming our"
+          }
+        },
+        {
+          "id": "chapter-62",
+          "title": {
+            "en-US": "Chapter II. How Greatly the Ministers Have Violated the Faith Due to the Testimony of Miracles"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-10",
+      "title": {
+        "en-US": "Article VIII: Harmony of Faith and Reason, the Eighth Rule of Faith"
+      },
+      "children": [
+        {
+          "id": "chapter-63",
+          "title": {
+            "en-US": "Chapter I. In Avhat Sense Reason and Experience Are a Rule of Right Believing"
+          }
+        },
+        {
+          "id": "chapter-64",
+          "title": {
+            "en-US": "Chapter II. That the Teaching of the Pretended Reformers Contradicts Reason.*"
+          }
+        },
+        {
+          "id": "chapter-65",
+          "title": {
+            "en-US": "Chapter III. That the Analogy of the Faith Cannot Serve as a Rule to the Ministers to Establish Their Doctrine"
+          }
+        },
+        {
+          "id": "chapter-66",
+          "title": {
+            "en-US": "Chapter IV. Conclusion of the Whole of This Second Part by a Short Enumeration of Many Excellences Which Are in the Catholic Doctrine as Compared with the Opinion of the Heretics of our Age.*"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-11",
+      "title": {
+        "en-US": "Part III: Church Doctrines and Institutions"
+      },
+      "children": [
+        {
+          "id": "part-11-intro",
+          "title": {
+            "en-US": "Part III: Church Doctrines and Institutions"
+          }
+        },
+        {
+          "id": "chapter-67",
+          "title": {
+            "en-US": "Chapter I. Of the Name of Sacrament"
+          }
+        },
+        {
+          "id": "chapter-68",
+          "title": {
+            "en-US": "Chapter II. Of the Form of the Sacraments"
+          }
+        },
+        {
+          "id": "chapter-69",
+          "title": {
+            "en-US": "Chapter III. Of the Intention Required in the Administration of the Sacraments"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-12",
+      "title": {
+        "en-US": "Article II: Purgatory"
+      },
+      "children": [
+        {
+          "id": "part-12-intro",
+          "title": {
+            "en-US": "Aeticle II: Purgatory"
+          }
+        },
+        {
+          "id": "chapter-70",
+          "title": {
+            "en-US": "Chapter I. Of the Name of Purgatory"
+          }
+        },
+        {
+          "id": "chapter-71",
+          "title": {
+            "en-US": "Chapter II. Of Those Who Have Denied Purgatory: and of the Means of Proving It"
+          }
+        },
+        {
+          "id": "chapter-72",
+          "title": {
+            "en-US": "Chapter III. Of Some Passages of the Scripture in Which Mention is Made of a Purgation After This Life, and of a Time and a Place for It"
+          }
+        },
+        {
+          "id": "chapter-73",
+          "title": {
+            "en-US": "Chapter IV. Of Another Passage Out of the New Testament, to This Effect"
+          }
+        },
+        {
+          "id": "chapter-74",
+          "title": {
+            "en-US": "Chapter V. Of Some Other Passages by Which Prayer, Almsdeeds and Holy Actions for the Departed Are Authorised"
+          }
+        },
+        {
+          "id": "chapter-75",
+          "title": {
+            "en-US": "Chapter VI. Of Certain Other Places of Scripture by Which We Prove That Some Sins Can Be Pardoned in the Other World"
+          }
+        },
+        {
+          "id": "chapter-76",
+          "title": {
+            "en-US": "Chapter VII. Of Some Other Places from Which by Various Consequences is Deduced the Truth of Purgatory"
+          }
+        },
+        {
+          "id": "chapter-77",
+          "title": {
+            "en-US": "Chapter VIII. Of the Councils Which Have Received Purgatory as an Article of Faith"
+          }
+        },
+        {
+          "id": "chapter-78",
+          "title": {
+            "en-US": "Chapter IX. Of the Testimony of the Ancient Fathers to the Truth of Purgatory"
+          }
+        },
+        {
+          "id": "chapter-79",
+          "title": {
+            "en-US": "Chapter X. Of Two Principal Reasons, and of the Testimony of Outsiders in Favour of Purgatory"
+          }
+        }
+      ]
+    }
+  ]
+}

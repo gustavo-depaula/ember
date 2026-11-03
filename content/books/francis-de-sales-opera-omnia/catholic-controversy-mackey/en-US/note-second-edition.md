@@ -1,0 +1,9 @@
+# Note to the Second Edition
+
+NOTE TO THE SECOND EDITION.
+
+Since the appearance of the first edition of this translation the French complete and definitive text of the original has been prepared and published, forming the first volume of the " GEuvres de Saint Franpois de Sales." In the researches necessary for this purpose various discoveries were made in addition to those which had already been utilised for the first English edition: a certain amount of new matter was found; the exact intention of the Author as to the order of his subjects became more evident; a number of verbal corrections were able to be effected. These discoveries had to be taken into account when it became necessary to make a second edition of the translation. The new material, which concerns the important subject of miracles and of the anology of faith with reason, was of course introduced as it stood, and will be found on pages 317 to 330 of the present volume. With regard to the order of the divisions, as the only serious difference in that respect between the MS. and on previous editions was the attachment of the section on the " Marks of the Church " to the first part entitled " Mission " in our version, instead of to the second, " The Eule of Faith," it did not seem necessary to make a change. The verbal corrections regard principally the greater xxxii Note to the Second Edition, perfection of the French style, and are as a rule unimportant in a translation. They have therefore been adopted only on the few occasions when they were really important for the sense. The references to authors have been revised and corrected, but they are not given with the same fulness as in the French text. To this latter, it may be said in passing, are added an historical introduction to the work, and a list of writers posterior to the thirteenth century cited by the saintly Author, which do not figure in the present version.
+
+ANNECY.
+
+Feasl of our Holy Father St. Benedict, 1899.

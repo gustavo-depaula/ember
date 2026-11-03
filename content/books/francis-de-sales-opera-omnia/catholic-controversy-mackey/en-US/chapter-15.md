@@ -1,0 +1,19 @@
+# Chapter II. How Jealous We Should Be of Their Integrity
+
+On this point, again, I will scarcely delay. Tiie Holy Scripture is called the Book of the Old and of the New Testament. When a notary has drawn a contract or other deed, when a testament is confirmed by the death of the testator, there must not be added, withdrawn, or altered, one single word under penalty of falsification. Are not the Holy Scriptures the true testament of the eternal God, drawn by the notaries deputed for this purpose, duly sealed and signed with his blood, confirmed by death? Being such, how can we alter even the smallest point without impiety? "A testament," says the great Ulpian, "is a just expression of our will as to what we would have done after our death." '^ Our Lord by the Holy Scriptures shows us what we must believe, hope for, love, and do, and this by a true expression of his will; if we add, take away, or change, it will no longer be the true expression of God's will. For our Lord having duly expressed in Scripture his will, if we add anything of our own we shall make the statement go beyond the will of the testator, if we take anything away we shall make it fall short, if we make changes in it we shall set it awry, and it will no longer correspond to the will of the author, nor be a correct statement. When two things exactly correspond, he who changes the one destroys the equality and the correspondence between them. If it be a true statement, whatever right have
+
+* Test. i. IT. Qai tc&t. facere posmnt.
+
+we to alter it? Our Lord puts a value on the iotas, yea, the mere little points and accents of his holy words. How jealous then is he of their integrity, and what punishment shall they not deserve who violate this integrity! Brethren^ says S. Paul * (/ s]peak after the manner of man), yet a man's testament^ if it he confirmed, no man despiseth, nor addeth to it. And to show how important it is to learn the Scripture in its exactness he gives an example. To Abraham were the promises made, and to his seed. He says not and to his seeds as of many, hut as of one; and to thy seed, who is Christ. See, I beg you, how the change from singular to plural would have spoilt the mysterious meaning of this word.
+
+The Ephrathites [Ephraimites] said Sibolleth, not forgetting a single letter, but because they did not pronounce it thickly enough, the Galaadites slew them at the fords of Jordan.t The simple difference of pronunciation in speaking, and in writing the mere transposition of one single point on the letter sdn caused the ambiguity, and changing the janin into semol, instead of an ear of wheat expressed a weight or a burden. Whosoever alters or adds the slightest accent in the Scripture is a sacrilegious man, and deserves the death of him who dares to mingle the profane with the sacred.
+
+The Arians, as S. Augustine tells us,J corrupted this sentence of S. John i. i: In priiicipio erat verhum, et verhum erat apiid JDeum, et Deus erat verhum. Hoc erat in princijno apud Deum: by simply changing a point. For they read it thus: M verhum erat apiui
+
+* Gal. iii. 15, 1 6. t Judges xii. 6.
+
+t De doc. Chris, iii. 2.
+
+AETi. 0. III.] The Rule of Faith. 91
+
+Deum et Deios erect Verbum hoc, &c.: instead of: Deus erat verbum. Hoc erat in principio apud Deum: They placed the full stop after the erat, instead of after the verbum. They so acted for fear of having to grant that the Word was God; so little is required to change the sense of God's Word. When one is handling glass beads, if two or three are lost, it is a small matter, but if they were oriental pearls the loss would be great. The better the wine the more it suffers from the mixture of a foreign flavour, and the exquisite symmetry of a great picture will not bear the admixture of new colours. Such is the conscientiousness with which we ought to regard and handle the sacred deposit of the Scriptures.
