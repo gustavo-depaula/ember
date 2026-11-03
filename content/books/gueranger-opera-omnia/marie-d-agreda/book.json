@@ -1,0 +1,210 @@
+{
+  "id": "gueranger-marie-d-agreda",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Marie d’Agréda et la Cité mystique de Dieu",
+    "en-US": "Mary of Agreda and the Mystical City of God",
+    "pt-BR": "Maria de Ágreda e a Cidade mística de Deus"
+  },
+  "author": {
+    "fr-FR": "Prosper Guéranger",
+    "en-US": "Prosper Guéranger",
+    "pt-BR": "Prosper Guéranger"
+  },
+  "description": {
+    "fr-FR": "Série de vingt-huit articles publiés dans L’Univers (1858-1859) : Dom Guéranger présente la vie de la vénérable Marie d’Agréda et la Cité mystique de Dieu, discute les règles des révélations privées, et retrace l’histoire des attaques contre le livre, notamment la censure de la Sorbonne de 1696.",
+    "en-US": "Twenty-eight articles published in L’Univers (1858-1859): Dom Guéranger presents the life of the venerable Mary of Agreda and the Mystical City of God, discusses the rules for private revelations, and traces the history of the attacks on the book, above all the Sorbonne censure of 1696.",
+    "pt-BR": "Série de vinte e oito artigos publicados em L’Univers (1858-1859): Dom Guéranger apresenta a vida da venerável Maria de Ágreda e a Cidade mística de Deus, discute as regras das revelações privadas e traça a história dos ataques ao livro, sobretudo a censura da Sorbonne de 1696."
+  },
+  "composed": "1858",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/marie-d-agreda",
+  "editions": {
+    "fr-FR": {
+      "editor": "L’Univers (Paris)",
+      "year": 1859
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://www.domgueranger.net/?cat=Marie d’Agréda",
+      "edition": "Marie d’Agréda et la Cité mystique de Dieu, 28 articles, L’Univers, 24 May 1858 to 1859 (domgueranger.net HTML transcription)",
+      "description": "The site’s own one-line summary heading each article is left out.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; text first published in his lifetime or by 1931."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01",
+      "title": {
+        "fr-FR": "Premier article"
+      }
+    },
+    {
+      "id": "02",
+      "title": {
+        "fr-FR": "Article 2"
+      }
+    },
+    {
+      "id": "03",
+      "title": {
+        "fr-FR": "Article 3"
+      }
+    },
+    {
+      "id": "04",
+      "title": {
+        "fr-FR": "Article 4"
+      }
+    },
+    {
+      "id": "05",
+      "title": {
+        "fr-FR": "Article 5"
+      }
+    },
+    {
+      "id": "06",
+      "title": {
+        "fr-FR": "Article 6"
+      }
+    },
+    {
+      "id": "07",
+      "title": {
+        "fr-FR": "Article 7"
+      }
+    },
+    {
+      "id": "08",
+      "title": {
+        "fr-FR": "Article 8"
+      }
+    },
+    {
+      "id": "09",
+      "title": {
+        "fr-FR": "Article 9"
+      }
+    },
+    {
+      "id": "10",
+      "title": {
+        "fr-FR": "Article 10"
+      }
+    },
+    {
+      "id": "11",
+      "title": {
+        "fr-FR": "Article 11"
+      }
+    },
+    {
+      "id": "12",
+      "title": {
+        "fr-FR": "Article 12"
+      }
+    },
+    {
+      "id": "13",
+      "title": {
+        "fr-FR": "Article 13"
+      }
+    },
+    {
+      "id": "14",
+      "title": {
+        "fr-FR": "Article 14"
+      }
+    },
+    {
+      "id": "15",
+      "title": {
+        "fr-FR": "Article 15"
+      }
+    },
+    {
+      "id": "16",
+      "title": {
+        "fr-FR": "Article 16"
+      }
+    },
+    {
+      "id": "17",
+      "title": {
+        "fr-FR": "Article 17"
+      }
+    },
+    {
+      "id": "18",
+      "title": {
+        "fr-FR": "Article 18"
+      }
+    },
+    {
+      "id": "19",
+      "title": {
+        "fr-FR": "Article 19"
+      }
+    },
+    {
+      "id": "20",
+      "title": {
+        "fr-FR": "Article 20"
+      }
+    },
+    {
+      "id": "21",
+      "title": {
+        "fr-FR": "Article 21"
+      }
+    },
+    {
+      "id": "22",
+      "title": {
+        "fr-FR": "Article 22"
+      }
+    },
+    {
+      "id": "23",
+      "title": {
+        "fr-FR": "Article 23"
+      }
+    },
+    {
+      "id": "24",
+      "title": {
+        "fr-FR": "Article 24"
+      }
+    },
+    {
+      "id": "25",
+      "title": {
+        "fr-FR": "Article 25"
+      }
+    },
+    {
+      "id": "26",
+      "title": {
+        "fr-FR": "Article 26"
+      }
+    },
+    {
+      "id": "27",
+      "title": {
+        "fr-FR": "Article 27"
+      }
+    },
+    {
+      "id": "28",
+      "title": {
+        "fr-FR": "Article 28"
+      }
+    }
+  ]
+}
