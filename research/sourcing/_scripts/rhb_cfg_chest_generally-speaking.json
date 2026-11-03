@@ -1,0 +1,187 @@
+{
+ "author": "G. K. Chesterton",
+ "author_pt": "G. K. Chesterton",
+ "died": 1936,
+ "mode": "ia",
+ "label": "",
+ "lang": "en-US",
+ "id": "chesterton-generally-speaking",
+ "dir": "chesterton-opera-omnia/generally-speaking",
+ "slug": "generally-speaking",
+ "name": "Generally Speaking",
+ "name_pt": "Falando em Geral",
+ "desc": "Forty-two essays from the Illustrated London News and elsewhere, on detective novels, the young idea, Europe and Asia, broadcasting, the movies, flags, Buddhism, leisure, Holland, Bath, carols, Prohibition, total abstinence, good King Arthur, Byron, R. L. S. and Thomas Hardy.",
+ "desc_pt": "Quarenta e dois ensaios do Illustrated London News e de outros periódicos, sobre romances policiais, a ideia jovem, a Europa e a Ásia, o rádio, o cinema, as bandeiras, o budismo, o lazer, a Holanda, Bath, os cantos natalinos, a Lei Seca, a abstinência total, o bom rei Artur, Byron, R. L. S. e Thomas Hardy.",
+ "composed": 1928,
+ "editor": "Methuen & Co.",
+ "year": 1928,
+ "url": "https://archive.org/details/generallyspeakin00ches",
+ "edition": "Generally Speaking (London: Methuen, 1928; New York: Dodd, Mead, 1929), Internet Archive full-text OCR (generallyspeakin00ches).",
+ "src": "chesterton/raw/ia/generallyspeakin00ches.txt",
+ "start": 317,
+ "end": 9295,
+ "manual": [
+  [
+   317,
+   "On Detective Novels"
+  ],
+  [
+   615,
+   "On the Young Idea"
+  ],
+  [
+   707,
+   "On a Negation"
+  ],
+  [
+   915,
+   "On Europe and Asia"
+  ],
+  [
+   1147,
+   "On Broadcasting"
+  ],
+  [
+   1357,
+   "On Aids to Golf"
+  ],
+  [
+   1574,
+   "On the Englishman Abroad"
+  ],
+  [
+   1791,
+   "Two Words From Poland"
+  ],
+  [
+   2004,
+   "On New Capitals"
+  ],
+  [
+   2216,
+   "On the Movies"
+  ],
+  [
+   2420,
+   "On Helen's Babies"
+  ],
+  [
+   2631,
+   "On Electric Houses"
+  ],
+  [
+   2819,
+   "On the Pillory"
+  ],
+  [
+   2995,
+   "On Flags"
+  ],
+  [
+   3419,
+   "On Misunderstanding"
+  ],
+  [
+   3636,
+   "On Buddhism"
+  ],
+  [
+   3855,
+   "On Funeral Customs"
+  ],
+  [
+   4096,
+   "On Leisure"
+  ],
+  [
+   4309,
+   "On Holland"
+  ],
+  [
+   4499,
+   "On Bath"
+  ],
+  [
+   4711,
+   "On Egyptian Influence"
+  ],
+  [
+   4917,
+   "On Archaeology"
+  ],
+  [
+   5114,
+   "On Maltreating Words"
+  ],
+  [
+   5332,
+   "On Pleasure-seeking"
+  ],
+  [
+   5543,
+   "On Domestic Servants"
+  ],
+  [
+   5789,
+   "On the Writing of History"
+  ],
+  [
+   6020,
+   "On Christmas"
+  ],
+  [
+   6208,
+   "On Carols"
+  ],
+  [
+   6461,
+   "On the Comic Spirit"
+  ],
+  [
+   6653,
+   "On Changes in Taste"
+  ],
+  [
+   6870,
+   "On Impartiality"
+  ],
+  [
+   7082,
+   "On American Morals"
+  ],
+  [
+   7320,
+   "On Prohibition"
+  ],
+  [
+   7513,
+   "On Total Abstinence"
+  ],
+  [
+   7707,
+   "On Good King Arthur"
+  ],
+  [
+   7899,
+   "On Architecture"
+  ],
+  [
+   8308,
+   "On Edwin Drood"
+  ],
+  [
+   8528,
+   "On Byron and Tom Moore"
+  ],
+  [
+   8710,
+   "On R. L. S"
+  ],
+  [
+   9077,
+   "On Thomas Hardy"
+  ]
+ ],
+ "srcnote": "The essays as printed; the essay list was read from the headings of the OCR.",
+ "tierEvidence": "Chesterton died in 1936 and the book was published in 1928, so it is public domain."
+}

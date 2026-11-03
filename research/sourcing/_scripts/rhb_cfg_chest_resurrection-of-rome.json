@@ -1,0 +1,59 @@
+{
+ "author": "G. K. Chesterton",
+ "author_pt": "G. K. Chesterton",
+ "died": 1936,
+ "mode": "ia",
+ "label": "",
+ "lang": "en-US",
+ "id": "chesterton-resurrection-of-rome",
+ "dir": "chesterton-opera-omnia/resurrection-of-rome",
+ "slug": "resurrection-of-rome",
+ "name": "The Resurrection of Rome",
+ "name_pt": "A Ressurreição de Roma",
+ "desc": "Chesterton's book on his visit to Rome in 1929-30, after the Lateran Treaty: the outline of a city, the story of the statues, the pillar of the Lateran, the return of the gods, the return of the Romans and the Holy Island. A traveller's tale and a meditation on the permanence of Rome and the Church.",
+ "desc_pt": "O livro de Chesterton sobre sua visita a Roma em 1929-30, depois do Tratado de Latrão: o esboço de uma cidade, a história das estátuas, o pilar do Latrão, o retorno dos deuses, o retorno dos romanos e a Ilha Santa. Um relato de viagem e uma meditação sobre a permanência de Roma e da Igreja.",
+ "composed": 1930,
+ "editor": "Hodder and Stoughton",
+ "year": 1930,
+ "url": "https://archive.org/details/in.ernet.dli.2015.522960",
+ "edition": "The Resurrection of Rome (London: Hodder and Stoughton, 1930), Internet Archive (Digital Library of India scan), OCR full text.",
+ "src": "chesterton/raw/ia/in.ernet.dli.2015.522960.txt",
+ "start": 137,
+ "end": 11696,
+ "manual": [
+  [
+   137,
+   "Part I: The Outline of a City"
+  ],
+  [
+   1147,
+   "Part II: The Story of the Statues"
+  ],
+  [
+   3003,
+   "Part III: The Pillar of the Lateran"
+  ],
+  [
+   4477,
+   "Part IV: The Return of the Gods"
+  ],
+  [
+   6312,
+   "Part V: The Return of the Romans"
+  ],
+  [
+   9871,
+   "Part VI: The Holy Island"
+  ],
+  [
+   11571,
+   "Appendix A"
+  ],
+  [
+   11635,
+   "Appendix B"
+  ]
+ ],
+ "srcnote": "Six parts and two appendices as printed.",
+ "tierEvidence": "Chesterton died in 1936 and the book was published in 1930, so it is public domain (in the US since 1 January 2026)."
+}

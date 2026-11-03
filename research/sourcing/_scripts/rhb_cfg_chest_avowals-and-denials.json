@@ -1,0 +1,159 @@
+{
+ "author": "G. K. Chesterton",
+ "author_pt": "G. K. Chesterton",
+ "died": 1936,
+ "mode": "ia",
+ "label": "",
+ "lang": "en-US",
+ "id": "chesterton-avowals-and-denials",
+ "dir": "chesterton-opera-omnia/avowals-and-denials",
+ "slug": "avowals-and-denials",
+ "name": "Avowals and Denials",
+ "name_pt": "Afirmações e Negações",
+ "desc": "Chesterton's 1934 collection of essays from the Illustrated London News: on monsters and logic, Christmas, the new prudery, women who vote, the fallacy of eugenics, the return to the land, dialect and decency, dogs with bad names, the prison of jazz, dreams, Blake and his critics, Wordsworth, Eric Gill, Prussian paganism and the great relapse.",
+ "desc_pt": "A coletânea de ensaios de Chesterton de 1934 do Illustrated London News: sobre monstros e lógica, o Natal, o novo pudor, as mulheres que votam, a falácia da eugenia, o retorno à terra, o dialeto e a decência, os cães de nomes ruins, a prisão do jazz, os sonhos, Blake e seus críticos, Wordsworth, Eric Gill, o paganismo prussiano e a grande recaída.",
+ "composed": 1934,
+ "editor": "Methuen & Co.",
+ "year": 1934,
+ "url": "https://archive.org/details/vowalsanddenials012186mbp",
+ "edition": "Avowals and Denials (London: Methuen, 1934; New York: Dodd, Mead, 1935 and 1938 reprint), Internet Archive (Universal Digital Library scan), full-text OCR.",
+ "src": "chesterton/raw/ia/vowalsanddenials012186mbp.txt",
+ "start": 238,
+ "end": 6848,
+ "manual": [
+  [
+   238,
+   "On Monsters and Logic"
+  ],
+  [
+   399,
+   "On Christmas That Is Coming"
+  ],
+  [
+   586,
+   "On the Man on the Spot"
+  ],
+  [
+   803,
+   "On Shaw and His Black Girl"
+  ],
+  [
+   976,
+   "On the Atheist Museum"
+  ],
+  [
+   1148,
+   "On the New Prudery"
+  ],
+  [
+   1340,
+   "On the Return of the Barbarian"
+  ],
+  [
+   1518,
+   "On Women Who Vote"
+  ],
+  [
+   1697,
+   "On the Fallacy of Eugenics"
+  ],
+  [
+   1869,
+   "On the Classicism of the Terror"
+  ],
+  [
+   2080,
+   "On the Return to the Land"
+  ],
+  [
+   2269,
+   "On Dialect and Decency"
+  ],
+  [
+   2637,
+   "On the Real Animal"
+  ],
+  [
+   2828,
+   "On Dogs With Bad Names"
+  ],
+  [
+   2994,
+   "On the Prison of Jazz"
+  ],
+  [
+   3183,
+   "On the Deceptibility of Youth"
+  ],
+  [
+   3370,
+   "On the Duke of Marlborough"
+  ],
+  [
+   3568,
+   "On the Crank and the Cad"
+  ],
+  [
+   3743,
+   "On Dreams"
+  ],
+  [
+   3912,
+   "On the Fossil of a Fanatic"
+  ],
+  [
+   4091,
+   "On Blake and His Critics"
+  ],
+  [
+   4276,
+   "On the Instability of the State"
+  ],
+  [
+   4451,
+   "On a Melodrama"
+  ],
+  [
+   4627,
+   "On the One-party System"
+  ],
+  [
+   4816,
+   "On Books for Pessimists"
+  ],
+  [
+   5181,
+   "On the Letter-bag Novel"
+  ],
+  [
+   5357,
+   "On the Touchy Realist"
+  ],
+  [
+   5548,
+   "On Wordsworth"
+  ],
+  [
+   5736,
+   "On Facing Facts . . . ,"
+  ],
+  [
+   5935,
+   "On Free Verse"
+  ],
+  [
+   6300,
+   "On Prussian Paganism"
+  ],
+  [
+   6496,
+   "On the Great Relapse"
+  ],
+  [
+   6685,
+   "On the Next Hundred Years . . . ,"
+  ]
+ ],
+ "srcnote": "The essays as printed; the essay list was read from the contents page of the OCR, so an essay whose entry the OCR lost is merged into the one before it.",
+ "tierEvidence": "Chesterton died in 1936 and the book was published in 1934 (no US renewal found; the 1934 text is taken from a Universal Digital Library scan that Internet Archive serves openly)."
+}

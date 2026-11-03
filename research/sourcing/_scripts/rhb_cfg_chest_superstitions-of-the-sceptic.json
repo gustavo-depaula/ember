@@ -1,0 +1,39 @@
+{
+ "author": "G. K. Chesterton",
+ "author_pt": "G. K. Chesterton",
+ "died": 1936,
+ "mode": "ia",
+ "label": "",
+ "lang": "en-US",
+ "id": "chesterton-superstitions-of-the-sceptic",
+ "dir": "chesterton-opera-omnia/superstitions-of-the-sceptic",
+ "slug": "superstitions-of-the-sceptic",
+ "name": "The Superstitions of the Sceptic",
+ "name_pt": "As Superstições do Cético",
+ "desc": "Chesterton's 1925 Cambridge lecture, taking up what Bernard Shaw said of St Joan to argue that the modern sceptic is as credulous as anyone, followed by his correspondence with the medievalist G. G. Coulton in the Cambridge Review on the Middle Ages and the faith.",
+ "desc_pt": "A conferência de Chesterton em Cambridge (1925), que parte do que Bernard Shaw disse de Santa Joana para argumentar que o cético moderno é tão crédulo quanto qualquer um, seguida de sua correspondência com o medievalista G. G. Coulton na Cambridge Review sobre a Idade Média e a fé.",
+ "composed": 1925,
+ "editor": "W. Heffer & Sons",
+ "year": 1925,
+ "url": "https://archive.org/details/superstitionsofs0000unse_q9f6",
+ "edition": "The Superstitions of the Sceptic, with a correspondence between the author and Mr. G. G. Coulton (Cambridge: Heffer, 1925), I.D.K. Club Booklets no. 1, Internet Archive full-text OCR.",
+ "src": "chesterton/raw/ia/superstitionsofs0000unse_q9f6.txt",
+ "start": 106,
+ "end": 1980,
+ "manual": [
+  [
+   106,
+   "Preface"
+  ],
+  [
+   137,
+   "The Superstitions of the Sceptic"
+  ],
+  [
+   813,
+   "The Correspondence between the Author and Mr. G. G. Coulton"
+  ]
+ ],
+ "srcnote": "Preface, the lecture, and the correspondence as printed (Coulton's letters included).",
+ "tierEvidence": "Chesterton died in 1936 and the booklet was published in 1925, so it is public domain; Coulton died in 1947."
+}

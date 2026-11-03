@@ -1,0 +1,51 @@
+{
+ "author": "G. K. Chesterton",
+ "author_pt": "G. K. Chesterton",
+ "died": 1936,
+ "mode": "ia",
+ "label": "",
+ "lang": "en-US",
+ "id": "chesterton-outline-of-sanity",
+ "dir": "chesterton-opera-omnia/outline-of-sanity",
+ "slug": "outline-of-sanity",
+ "name": "The Outline of Sanity",
+ "name_pt": "O Esboço da Sanidade",
+ "desc": "Chesterton's exposition of distributism: some general ideas, some aspects of big business, of the land and of machinery, a note on emigration, and a summary. A plea for the widest possible distribution of property against both capitalism and socialism, from the Catholic social tradition.",
+ "desc_pt": "A exposição de Chesterton do distributismo: algumas ideias gerais, alguns aspectos da grande empresa, da terra e da maquinaria, uma nota sobre a emigração e um resumo. Um apelo à mais ampla distribuição possível da propriedade contra o capitalismo e o socialismo, na tradição social católica.",
+ "composed": 1926,
+ "editor": "Methuen & Co.",
+ "year": 1926,
+ "url": "https://archive.org/details/theoutlineofsanity",
+ "edition": "The Outline of Sanity (London: Methuen, 1926), Internet Archive full-text OCR (theoutlineofsanity).",
+ "src": "chesterton/raw/ia/theoutlineofsanity.txt",
+ "start": 145,
+ "end": 8455,
+ "manual": [
+  [
+   145,
+   "I. Some General Ideas"
+  ],
+  [
+   2362,
+   "II. Some Aspects of Big Business"
+  ],
+  [
+   3984,
+   "III. Some Aspects of the Land"
+  ],
+  [
+   5168,
+   "IV. Some Aspects of Machinery"
+  ],
+  [
+   6732,
+   "V. A Note on Emigration"
+  ],
+  [
+   7751,
+   "VI. A Summary"
+  ]
+ ],
+ "srcnote": "Six parts as printed; the numbered subsections inside each part are not marked off.",
+ "tierEvidence": "Chesterton died in 1936 and the book was published in 1926, so it is public domain."
+}
