@@ -7,5 +7,29 @@
   "saint": "pius_x",
   "matches": [
     "Pope Saint Pius X"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "pius-x-catechism",
+          "why": {
+            "en-US": "The shorter catechism, 433 questions, 1912",
+            "pt-BR": "O catecismo breve, 433 perguntas, 1912"
+          }
+        },
+        {
+          "work": "pius-x-greater-catechism",
+          "why": {
+            "en-US": "The Greater Catechism, 1905",
+            "pt-BR": "O Catecismo Maior, 1905"
+          }
+        }
+      ]
+    }
   ]
 }
