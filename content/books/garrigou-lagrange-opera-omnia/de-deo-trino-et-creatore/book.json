@@ -1,0 +1,415 @@
+{
+  "id": "garrigou-de-deo-trino-et-creatore",
+  "cover": "quarter",
+  "name": {
+    "la": "De Deo trino et creatore: commentarium in Summam theologicam S. Thomae (I, qq. 27-119)",
+    "en-US": "On God Triune and Creator (Latin): commentary on the Summa I, qq. 27-119",
+    "pt-BR": "De Deo trino et creatore (latim): comentário à Suma I, qq. 27-119"
+  },
+  "author": {
+    "la": "Reginaldus Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "description": {
+    "la": "Commentarium in primam partem Summae theologicae, quaestiones 27-119 : de Trinitate, de creatione, de angelis, de homine.",
+    "en-US": "The Latin commentary on the Summa theologiae I, qq. 27-119: the Trinity, creation, the angels and man.",
+    "pt-BR": "O comentário latino à Suma teológica I, qq. 27-119: a Trindade, a criação, os anjos e o homem."
+  },
+  "composed": "1943",
+  "work": "garrigou-lagrange/de-deo-trino-et-creatore",
+  "editions": {
+    "la": {
+      "editor": "Garrigou-Lagrange (Marietti, Turin / Desclée)",
+      "year": 1943
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/GarrigouLagrangeLatin",
+      "edition": "De Deo trino et creatore: commentarium in Summam theologicam S. Thomae (I, qq. 27-119), archive.org GarrigouLagrangeLatin, OCR text; divided by the Summa’s articles (\"Art. N — Utrum …\") found in the OCR, the indexes left out"
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "prolegomena",
+      "title": {
+        "la": "Prolegomena"
+      },
+      "children": [
+        {
+          "id": "prolegomena-p1",
+          "title": {
+            "la": "Prolegomena (pars 1)"
+          }
+        },
+        {
+          "id": "prolegomena-p2",
+          "title": {
+            "la": "Prolegomena (pars 2)"
+          }
+        },
+        {
+          "id": "prolegomena-p3",
+          "title": {
+            "la": "Prolegomena (pars 3)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q1",
+      "title": {
+        "la": "Sectio 1"
+      },
+      "children": [
+        {
+          "id": "q1-a1",
+          "title": {
+            "la": "Sectio 1, art. 1: Utriim in Deo sint tantiun quatuor"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "title": {
+        "la": "Sectio 2"
+      },
+      "children": [
+        {
+          "id": "q2-a1",
+          "title": {
+            "la": "Sectio 2, art. 1: Utrum sit Trinitas in divinis"
+          }
+        },
+        {
+          "id": "q2-a2",
+          "title": {
+            "la": "Sectio 2, art. 2: Utriim Filius sit alius a Patre"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "title": {
+        "la": "Sectio 3"
+      },
+      "children": [
+        {
+          "id": "q3-a1",
+          "title": {
+            "la": "Sectio 3, art. 1: Utrum Trinitas divinarum personarum possit"
+          }
+        },
+        {
+          "id": "q3-a2",
+          "title": {
+            "la": "Sectio 3, art. 2: Utrum Verbtim sit proprium nomen Filii"
+          }
+        },
+        {
+          "id": "q3-a3",
+          "title": {
+            "la": "Sectio 3, art. 3: Utrum in nomine Verbi irnportetur respectus ad creaturas"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "title": {
+        "la": "Sectio 4"
+      },
+      "children": [
+        {
+          "id": "q4-a1",
+          "title": {
+            "la": "Sectio 4, art. 1: Utrum hoc nomen « Spiritus Sanctus"
+          }
+        },
+        {
+          "id": "q4-a2",
+          "title": {
+            "la": "Sectio 4, art. 2: Utrum nomina essentialia sint approprianda personis"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "title": {
+        "la": "Sectio 5"
+      },
+      "children": [
+        {
+          "id": "q5-a1",
+          "title": {
+            "la": "Sectio 5, art. 1: Utrum relatio sit idem quod persona"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "title": {
+        "la": "Sectio 6"
+      },
+      "children": [
+        {
+          "id": "q6-a1",
+          "title": {
+            "la": "Sectio 6, art. 1: Utrum actus notionales sint attribuendi personis"
+          }
+        },
+        {
+          "id": "q6-a2",
+          "title": {
+            "la": "Sectio 6, art. 2: Utrum in divinis sit potentia respectu actuum notionalium"
+          }
+        },
+        {
+          "id": "q6-a3",
+          "title": {
+            "la": "Sectio 6, art. 3: Utrum Filius sit in Patre et e converso"
+          }
+        },
+        {
+          "id": "q6-a4",
+          "title": {
+            "la": "Sectio 6, art. 4: Utrum missio sit aeteraa an temporalis tantum"
+          }
+        },
+        {
+          "id": "q6-a5",
+          "title": {
+            "la": "Sectio 6, art. 5: An conveniat Filio invisibiliter mitti"
+          }
+        },
+        {
+          "id": "q6-a6",
+          "title": {
+            "la": "Sectio 6, art. 6: Utrum missio invisibilis fiat ad omnes,"
+          }
+        },
+        {
+          "id": "q6-a7",
+          "title": {
+            "la": "Sectio 6, art. 7: Utr. Deus possit ahquid creare"
+          }
+        },
+        {
+          "id": "q6-a8",
+          "title": {
+            "la": "Sectio 6, art. 8: Utr. creatio admisceatnr operibus naturae et arti"
+          }
+        },
+        {
+          "id": "q6-a9",
+          "title": {
+            "la": "Sectio 6, art. 9: Utr. mundum incepisse sit articulus fidei"
+          }
+        },
+        {
+          "id": "q6-a10",
+          "title": {
+            "la": "Sectio 6, art. 10: Utr. omnia divinae gubernationi subdantur"
+          }
+        },
+        {
+          "id": "q6-a11",
+          "title": {
+            "la": "Sectio 6, art. 11: Utr. omnia immediate gubernentur a Deo"
+          }
+        },
+        {
+          "id": "q6-a12",
+          "title": {
+            "la": "Sectio 6, art. 12: Utr. Deus possit immediate movere aliquod corpus"
+          }
+        },
+        {
+          "id": "q6-a13",
+          "title": {
+            "la": "Sectio 6, art. 13: TJtr. Deus moveat immediate intellectum creatum"
+          }
+        },
+        {
+          "id": "q6-a14",
+          "title": {
+            "la": "Sectio 6, art. 14: Utr. Deus operetur in omni operante"
+          }
+        },
+        {
+          "id": "q6-a15",
+          "title": {
+            "la": "Sectio 6, art. 15: Utr. Deus possit facere aliquid praeter ordinem"
+          }
+        },
+        {
+          "id": "q6-a16",
+          "title": {
+            "la": "Sectio 6, art. 16: Utr. unum miraculum sit majus alio"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "title": {
+        "la": "Sectio 7"
+      },
+      "children": [
+        {
+          "id": "q7-a1",
+          "title": {
+            "la": "Sectio 7, art. 1: Utr. malum sit natura quaedam"
+          }
+        },
+        {
+          "id": "q7-a2",
+          "title": {
+            "la": "Sectio 7, art. 2: Utr. malum inveniatur in rebus"
+          }
+        },
+        {
+          "id": "q7-a3",
+          "title": {
+            "la": "Sectio 7, art. 3: Utr. malum corrumpat totum bonum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "title": {
+        "la": "Sectio 8"
+      },
+      "children": [
+        {
+          "id": "q8-a1",
+          "title": {
+            "la": "Sectio 8, art. 1: Utr. bonura possit esse causa mali"
+          }
+        },
+        {
+          "id": "q8-a2",
+          "title": {
+            "la": "Sectio 8, art. 2: Quomodo angeli assumunt corpora?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "title": {
+        "la": "Sectio 9"
+      },
+      "children": [
+        {
+          "id": "q9-a1",
+          "title": {
+            "la": "Sectio 9, art. 1: Utr. intelUgere angeli sit ejus substantia"
+          }
+        },
+        {
+          "id": "q9-a2",
+          "title": {
+            "la": "Sectio 9, art. 2: Utr. potentia intellectiva angeli sit ejus essentia"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "title": {
+        "la": "Sectio 10"
+      },
+      "children": [
+        {
+          "id": "q10-a1",
+          "title": {
+            "la": "Sectio 10, art. 1: De eorum voluntate et libertate"
+          }
+        },
+        {
+          "id": "q10-a2",
+          "title": {
+            "la": "Sectio 10, art. 2: Utr. angelus naturali dilectione diligat Deum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "title": {
+        "la": "Sectio 11"
+      },
+      "children": [
+        {
+          "id": "q11-a1",
+          "title": {
+            "la": "Sectio 11, art. 1: utr. angelus beatus suam beatitudinem meruerit"
+          }
+        },
+        {
+          "id": "q11-a2",
+          "title": {
+            "la": "Sectio 11, art. 2: De obstinatione daemonum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "title": {
+        "la": "Sectio 12"
+      },
+      "children": [
+        {
+          "id": "q12-a1",
+          "title": {
+            "la": "Sectio 12, art. 1: De ipsa eorum custodia"
+          }
+        },
+        {
+          "id": "q12-a2",
+          "title": {
+            "la": "Sectio 12, art. 2: De unitate generis humani"
+          }
+        },
+        {
+          "id": "q12-a3",
+          "title": {
+            "la": "Sectio 12, art. 3: Utr. gratia sanctificans fuerit in Adamo innocente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "title": {
+        "la": "Sectio 13"
+      },
+      "children": [
+        {
+          "id": "q13-a1",
+          "title": {
+            "la": "Sectio 13, art. 1: De peccato protoparentum"
+          }
+        },
+        {
+          "id": "q13-a2",
+          "title": {
+            "la": "Sectio 13, art. 2: De existentia peccati originalis et ejns effectuum"
+          }
+        }
+      ]
+    }
+  ]
+}
