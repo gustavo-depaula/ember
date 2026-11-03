@@ -14,18 +14,23 @@
   },
   "description": {
     "it": "Il libello di Dante giovane (1292-1294): la storia del suo amore per Beatrice, dal primo incontro a nove anni alla visione che lo spinge a tacere di lei «infino a tanto che io non potessi più degnamente trattare di lei». Prosimetro di quarantadue capitoli con trentuno componimenti, ciascuno accompagnato dalla sua divisione. Testo dell’edizione Agresti (Torino: Roux e Viarengo, 1903), nella trascrizione del Progetto Gutenberg, diviso nei quarantadue capitoli di Barbi; le poesie sono versi, una riga per verso.",
-    "en-US": "Dante’s little book of his youth (1292-1294): the story of his love for Beatrice, from their first meeting at nine years old to the vision that leads him to say nothing more of her until he can write of her more worthily. A prosimetrum of forty-two chapters with thirty-one poems, each followed by its division. The Italian is the Agresti edition (Turin: Roux e Viarengo, 1903) as transcribed by Project Gutenberg, divided into Barbi’s forty-two chapters; the poems are verse, one line to a verse.",
+    "en-US": "Dante’s little book of his youth (1292-1294): the story of his love for Beatrice, from their first meeting at nine years old to the vision that leads him to say nothing more of her until he can write of her more worthily. A prosimetrum of forty-two chapters with thirty-one poems, each followed by its division. The Italian is the Agresti edition (Turin: Roux e Viarengo, 1903) as transcribed by Project Gutenberg, divided into Barbi’s forty-two chapters; the poems are verse, one line to a verse. The English is Rossetti’s verse and prose, cut to the same forty-two chapters.",
     "pt-BR": "O livrinho da juventude de Dante (1292-1294): a história do seu amor por Beatriz, do primeiro encontro aos nove anos até a visão que o leva a calar-se sobre ela até poder tratar dela mais dignamente. Prosimetro de quarenta e dois capítulos com trinta e uma poesias."
   },
   "composed": "1292-1294",
   "languages": [
-    "it"
+    "it",
+    "en-US"
   ],
   "work": "dante/vita-nuova",
   "editions": {
     "it": {
       "editor": "Arnaldo Agresti (Torino: Roux e Viarengo)",
       "year": 1903
+    },
+    "en-US": {
+      "translator": "Dante Gabriel Rossetti",
+      "year": 1861
     }
   },
   "sources": [
@@ -33,262 +38,312 @@
       "language": "it",
       "url": "https://www.gutenberg.org/ebooks/71218",
       "edition": "La vita nuova, ed. A. Agresti, con le illustrazioni di D. G. Rossetti (Torino-Roma: Roux e Viarengo, 1903), Project Gutenberg #71218.",
-      "description": "The text of Dante from the Incipit to the last chapter; Agresti’s essay on Rossetti, the indexes and the notes on the paintings are dropped. The book has no chapter numbers; they are restored here from the incipits of Barbi’s forty-two chapters (Società Dantesca Italiana, 1921), so cap-01 to cap-42 follow the standard reference numbering although the wording is Agresti’s (vulgate) text, not Barbi’s critical one. Poems are verse with hard breaks; the divisioni stay in italics. The English of Rossetti (Gutenberg #41085) and Norton is not imported: their sections are not numbered to Barbi’s chapters.",
+      "description": "The text of Dante from the Incipit to the last chapter; Agresti’s essay on Rossetti, the indexes and the notes on the paintings are dropped. The book has no chapter numbers; they are restored here from the incipits of Barbi’s forty-two chapters (Società Dantesca Italiana, 1921), so cap-01 to cap-42 follow the standard reference numbering although the wording is Agresti’s (vulgate) text, not Barbi’s critical one. Poems are verse with hard breaks; the divisioni stay in italics.",
       "tier": "B",
       "tierEvidence": "Dante’s text is public domain; Agresti’s 1903 edition is a century old, transcribed by Distributed Proofreaders for Project Gutenberg. Barbi’s critical text on it.wikisource is only transcribed for chapters I-XIII."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/41085",
+      "edition": "The New Life (La Vita Nuova) of Dante Alighieri, translated by Dante Gabriel Rossetti (first printed 1861 in The Early Italian Poets), Siddal Edition (London: Ellis and Elvey, 1899), Project Gutenberg #41085.",
+      "description": "Rossetti prints his version without chapter numbers, so it is cut into Barbi’s forty-two chapters at the sentences that match the Italian incipits (chapters VI, XI and XIX begin inside one of his paragraphs). The prefatory note and Rossetti’s preface are dropped; his notes stay as footnotes, the poems are verse. Norton’s 1867 version is not imported.",
+      "tier": "A",
+      "tierEvidence": "Translated 1846-1861 by Rossetti (d. 1882); Project Gutenberg distributes it."
     }
   ],
   "toc": [
     {
       "id": "cap-01",
       "title": {
-        "it": "Capitolo I"
+        "it": "Capitolo I",
+        "en-US": "Chapter I"
       }
     },
     {
       "id": "cap-02",
       "title": {
-        "it": "Capitolo II"
+        "it": "Capitolo II",
+        "en-US": "Chapter II"
       }
     },
     {
       "id": "cap-03",
       "title": {
-        "it": "Capitolo III"
+        "it": "Capitolo III",
+        "en-US": "Chapter III"
       }
     },
     {
       "id": "cap-04",
       "title": {
-        "it": "Capitolo IV"
+        "it": "Capitolo IV",
+        "en-US": "Chapter IV"
       }
     },
     {
       "id": "cap-05",
       "title": {
-        "it": "Capitolo V"
+        "it": "Capitolo V",
+        "en-US": "Chapter V"
       }
     },
     {
       "id": "cap-06",
       "title": {
-        "it": "Capitolo VI"
+        "it": "Capitolo VI",
+        "en-US": "Chapter VI"
       }
     },
     {
       "id": "cap-07",
       "title": {
-        "it": "Capitolo VII"
+        "it": "Capitolo VII",
+        "en-US": "Chapter VII"
       }
     },
     {
       "id": "cap-08",
       "title": {
-        "it": "Capitolo VIII"
+        "it": "Capitolo VIII",
+        "en-US": "Chapter VIII"
       }
     },
     {
       "id": "cap-09",
       "title": {
-        "it": "Capitolo IX"
+        "it": "Capitolo IX",
+        "en-US": "Chapter IX"
       }
     },
     {
       "id": "cap-10",
       "title": {
-        "it": "Capitolo X"
+        "it": "Capitolo X",
+        "en-US": "Chapter X"
       }
     },
     {
       "id": "cap-11",
       "title": {
-        "it": "Capitolo XI"
+        "it": "Capitolo XI",
+        "en-US": "Chapter XI"
       }
     },
     {
       "id": "cap-12",
       "title": {
-        "it": "Capitolo XII"
+        "it": "Capitolo XII",
+        "en-US": "Chapter XII"
       }
     },
     {
       "id": "cap-13",
       "title": {
-        "it": "Capitolo XIII"
+        "it": "Capitolo XIII",
+        "en-US": "Chapter XIII"
       }
     },
     {
       "id": "cap-14",
       "title": {
-        "it": "Capitolo XIV"
+        "it": "Capitolo XIV",
+        "en-US": "Chapter XIV"
       }
     },
     {
       "id": "cap-15",
       "title": {
-        "it": "Capitolo XV"
+        "it": "Capitolo XV",
+        "en-US": "Chapter XV"
       }
     },
     {
       "id": "cap-16",
       "title": {
-        "it": "Capitolo XVI"
+        "it": "Capitolo XVI",
+        "en-US": "Chapter XVI"
       }
     },
     {
       "id": "cap-17",
       "title": {
-        "it": "Capitolo XVII"
+        "it": "Capitolo XVII",
+        "en-US": "Chapter XVII"
       }
     },
     {
       "id": "cap-18",
       "title": {
-        "it": "Capitolo XVIII"
+        "it": "Capitolo XVIII",
+        "en-US": "Chapter XVIII"
       }
     },
     {
       "id": "cap-19",
       "title": {
-        "it": "Capitolo XIX"
+        "it": "Capitolo XIX",
+        "en-US": "Chapter XIX"
       }
     },
     {
       "id": "cap-20",
       "title": {
-        "it": "Capitolo XX"
+        "it": "Capitolo XX",
+        "en-US": "Chapter XX"
       }
     },
     {
       "id": "cap-21",
       "title": {
-        "it": "Capitolo XXI"
+        "it": "Capitolo XXI",
+        "en-US": "Chapter XXI"
       }
     },
     {
       "id": "cap-22",
       "title": {
-        "it": "Capitolo XXII"
+        "it": "Capitolo XXII",
+        "en-US": "Chapter XXII"
       }
     },
     {
       "id": "cap-23",
       "title": {
-        "it": "Capitolo XXIII"
+        "it": "Capitolo XXIII",
+        "en-US": "Chapter XXIII"
       }
     },
     {
       "id": "cap-24",
       "title": {
-        "it": "Capitolo XXIV"
+        "it": "Capitolo XXIV",
+        "en-US": "Chapter XXIV"
       }
     },
     {
       "id": "cap-25",
       "title": {
-        "it": "Capitolo XXV"
+        "it": "Capitolo XXV",
+        "en-US": "Chapter XXV"
       }
     },
     {
       "id": "cap-26",
       "title": {
-        "it": "Capitolo XXVI"
+        "it": "Capitolo XXVI",
+        "en-US": "Chapter XXVI"
       }
     },
     {
       "id": "cap-27",
       "title": {
-        "it": "Capitolo XXVII"
+        "it": "Capitolo XXVII",
+        "en-US": "Chapter XXVII"
       }
     },
     {
       "id": "cap-28",
       "title": {
-        "it": "Capitolo XXVIII"
+        "it": "Capitolo XXVIII",
+        "en-US": "Chapter XXVIII"
       }
     },
     {
       "id": "cap-29",
       "title": {
-        "it": "Capitolo XXIX"
+        "it": "Capitolo XXIX",
+        "en-US": "Chapter XXIX"
       }
     },
     {
       "id": "cap-30",
       "title": {
-        "it": "Capitolo XXX"
+        "it": "Capitolo XXX",
+        "en-US": "Chapter XXX"
       }
     },
     {
       "id": "cap-31",
       "title": {
-        "it": "Capitolo XXXI"
+        "it": "Capitolo XXXI",
+        "en-US": "Chapter XXXI"
       }
     },
     {
       "id": "cap-32",
       "title": {
-        "it": "Capitolo XXXII"
+        "it": "Capitolo XXXII",
+        "en-US": "Chapter XXXII"
       }
     },
     {
       "id": "cap-33",
       "title": {
-        "it": "Capitolo XXXIII"
+        "it": "Capitolo XXXIII",
+        "en-US": "Chapter XXXIII"
       }
     },
     {
       "id": "cap-34",
       "title": {
-        "it": "Capitolo XXXIV"
+        "it": "Capitolo XXXIV",
+        "en-US": "Chapter XXXIV"
       }
     },
     {
       "id": "cap-35",
       "title": {
-        "it": "Capitolo XXXV"
+        "it": "Capitolo XXXV",
+        "en-US": "Chapter XXXV"
       }
     },
     {
       "id": "cap-36",
       "title": {
-        "it": "Capitolo XXXVI"
+        "it": "Capitolo XXXVI",
+        "en-US": "Chapter XXXVI"
       }
     },
     {
       "id": "cap-37",
       "title": {
-        "it": "Capitolo XXXVII"
+        "it": "Capitolo XXXVII",
+        "en-US": "Chapter XXXVII"
       }
     },
     {
       "id": "cap-38",
       "title": {
-        "it": "Capitolo XXXVIII"
+        "it": "Capitolo XXXVIII",
+        "en-US": "Chapter XXXVIII"
       }
     },
     {
       "id": "cap-39",
       "title": {
-        "it": "Capitolo XXXIX"
+        "it": "Capitolo XXXIX",
+        "en-US": "Chapter XXXIX"
       }
     },
     {
       "id": "cap-40",
       "title": {
-        "it": "Capitolo XL"
+        "it": "Capitolo XL",
+        "en-US": "Chapter XL"
       }
     },
     {
       "id": "cap-41",
       "title": {
-        "it": "Capitolo XLI"
+        "it": "Capitolo XLI",
+        "en-US": "Chapter XLI"
       }
     },
     {
       "id": "cap-42",
       "title": {
-        "it": "Capitolo XLII"
+        "it": "Capitolo XLII",
+        "en-US": "Chapter XLII"
       }
     }
   ]

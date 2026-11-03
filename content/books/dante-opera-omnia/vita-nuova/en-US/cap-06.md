@@ -1,0 +1,3 @@
+# Chapter VI
+
+Moreover, about the same time while this lady was a screen for so much love on my part, I took the resolution to set down the name of this most gracious creature accompanied with many other women’s names, and especially with hers whom I spake of. And to this end I put together the names of sixty of the most beautiful ladies in that city where God had placed mine own lady; and these names I introduced in an epistle in the form of a *sirvent*, which it is not my intention to transcribe here. Neither should I have said anything of this matter, did I not wish to take note of a certain strange thing, to wit: that having written the list, I found my lady’s name would not stand otherwise than ninth in order among the names of these ladies.

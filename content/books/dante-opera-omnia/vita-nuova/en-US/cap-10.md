@@ -1,0 +1,3 @@
+# Chapter X
+
+On my return, I set myself to seek out that lady whom my master had named to me while I journeyed sighing. And because I would be brief, I will now narrate that in a short while I made her my surety, in such sort that the matter was spoken of by many in terms scarcely courteous; through the which I had oftenwhiles many troublesome hours. And by this it happened (to wit: by this false and evil rumour which seemed to misfame me of vice) that she who was the destroyer of all evil and the queen of all good, coming where I was, denied me her most sweet salutation, in the which alone was my blessedness.
