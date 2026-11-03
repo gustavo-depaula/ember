@@ -1,0 +1,246 @@
+{
+  "id": "granada-libro-de-la-oracion-hopkins",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Of Prayer and Meditation (Hopkins, 1582)",
+    "pt-BR": "Da oração e meditação (Hopkins, inglês, 1582)"
+  },
+  "author": {
+    "es-ES": "Fray Luis de Granada",
+    "en-US": "Louis of Granada",
+    "pt-BR": "Frei Luís de Granada"
+  },
+  "description": {
+    "en-US": "Richard Hopkins's 1582 English version of the first part of Louis of Granada's Libro de la oración y meditación: the great profit of consideration, the five parts of prayer, the fourteen meditations for the mornings and evenings of the week, the advices for meditation and the six points of the Redemption. The Spanish book's second part (on devotion) is not in this volume, and the division of chapters differs, so it is its own book.",
+    "pt-BR": "A versão inglesa de Richard Hopkins (1582) da primeira parte do Libro de la oración y meditación de Luís de Granada."
+  },
+  "composed": "1554",
+  "languages": [
+    "en-US"
+  ],
+  "work": "louis-of-granada/libro-de-la-oracion",
+  "editions": {
+    "en-US": {
+      "translator": "Richard Hopkins (1582)",
+      "year": 1582
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/textcreationpartnership/A06436",
+      "edition": "Of Prayer and Meditation, wherein are conteined fowertien devoute meditations for the seven daies of the weeke, translated by Richard Hopkins (1582), EEBO-TCP A06436.",
+      "description": "EEBO-TCP hand-keyed transcription (A06436), old spelling kept; long s printed as s. 65 illegible places in the source are marked […]. Marginal notes are footnotes. Raw TEI in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Printed 1582; the TCP transcription is released to the public domain (CC0)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "en-US": "Dedication"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "en-US": "The Translator to the Reader"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "en-US": "An Exhortation to the Christian Reader"
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "en-US": "The Author's Dedication"
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "en-US": "The Prologue and Argument of This Book"
+      }
+    },
+    {
+      "id": "g030",
+      "title": {
+        "en-US": "THE FIRST PARTE, WHICH TREATETH OF the matter of consideration"
+      },
+      "children": [
+        {
+          "id": "c006",
+          "title": {
+            "en-US": "THE FIRST CHAPTER. Wherein is treated of the great profitt, and necessitie of consideration"
+          }
+        },
+        {
+          "id": "g022",
+          "title": {
+            "en-US": "Of the Five Partes of Praier. Cap. II"
+          },
+          "children": [
+            {
+              "id": "c007",
+              "title": {
+                "en-US": "Of the Five Partes of Praier. Cap. II"
+              }
+            },
+            {
+              "id": "g015",
+              "title": {
+                "en-US": "HERE FOLLOWE THE FIRST SEVEN MEDITATIONS FOR the seuen daies of the weke in the morninges"
+              },
+              "children": [
+                {
+                  "id": "c008",
+                  "title": {
+                    "en-US": "Mondaie Morninge"
+                  }
+                },
+                {
+                  "id": "c009",
+                  "title": {
+                    "en-US": "Tewsdaie Morninge"
+                  }
+                },
+                {
+                  "id": "c010",
+                  "title": {
+                    "en-US": "Wensdaie in the Morninge"
+                  }
+                },
+                {
+                  "id": "c011",
+                  "title": {
+                    "en-US": "Thvrsdaie Morninge"
+                  }
+                },
+                {
+                  "id": "c012",
+                  "title": {
+                    "en-US": "Fridaie Morninge"
+                  }
+                },
+                {
+                  "id": "c013",
+                  "title": {
+                    "en-US": "Sattvrdaie Morninge"
+                  }
+                },
+                {
+                  "id": "c014",
+                  "title": {
+                    "en-US": "Sondaie Morninge"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "g022",
+              "title": {
+                "en-US": "HERE BEGINNE THE OTHER SEVEN MEDITATIONS FOR THE SAME SEVEN daies in the nightes. And althowghe…"
+              },
+              "children": [
+                {
+                  "id": "c015",
+                  "title": {
+                    "en-US": "Mondaie Nighte"
+                  }
+                },
+                {
+                  "id": "c016",
+                  "title": {
+                    "en-US": "Tewsdaie Nighte. of the Miseries of This Lyfe"
+                  }
+                },
+                {
+                  "id": "c017",
+                  "title": {
+                    "en-US": "Wensdaie Nighte. Of the Hower of Deathe"
+                  }
+                },
+                {
+                  "id": "c018",
+                  "title": {
+                    "en-US": "Thvrsdaie Nighte. Of the Generall Daye of Ivdgement"
+                  }
+                },
+                {
+                  "id": "c019",
+                  "title": {
+                    "en-US": "Frydaie Nighte. Of the Paynes of Hell"
+                  }
+                },
+                {
+                  "id": "c020",
+                  "title": {
+                    "en-US": "Sattvrdaie Nighte. of the Everlastinge Glorie and Felicitie of the Kingdome of Heaven"
+                  }
+                },
+                {
+                  "id": "c021",
+                  "title": {
+                    "en-US": "Sondaie Nighte. of the Benefites of Almightie God"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c022",
+          "title": {
+            "en-US": "Of Five Partes That Maie Be Exercised in Prayer. Cap. IIII"
+          }
+        },
+        {
+          "id": "c023",
+          "title": {
+            "en-US": "Of Preparation, which is a thinge verie requisite to be vsed before praier, and meditation. CAP. V"
+          }
+        },
+        {
+          "id": "c024",
+          "title": {
+            "en-US": "Of Readinge. Cap. VI"
+          }
+        },
+        {
+          "id": "c025",
+          "title": {
+            "en-US": "Of Meditation. Cap. VII"
+          }
+        },
+        {
+          "id": "c026",
+          "title": {
+            "en-US": "Of Thankes-Gevinge. Cap. VIII"
+          }
+        },
+        {
+          "id": "c027",
+          "title": {
+            "en-US": "Of Petition. Cap. IX"
+          }
+        },
+        {
+          "id": "c028",
+          "title": {
+            "en-US": "CERTAIN ADVISES TO BE OBSERVED IN THESE FIVE partes aboue named, and espetially in Meditation. CAP.…"
+          }
+        },
+        {
+          "id": "c029",
+          "title": {
+            "en-US": "OF SIXE POYNTES THAT ARE TO BE MEDITATED VPON, in the holie Passion of our Sauiour Iesus Christ.…"
+          }
+        }
+      ]
+    }
+  ]
+}
