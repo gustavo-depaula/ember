@@ -1,0 +1,160 @@
+{
+  "id": "augustine-enarrationes-in-psalmos-lf-vol-3",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Expositions on the Book of Psalms, Vol. III (Psalms 53–75)",
+    "pt-BR": "Exposições sobre o Livro dos Salmos, vol. III (Salmos 53–75)"
+  },
+  "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Augustine’s Enarrationes in Psalmos in the full Oxford translation of the Library of the Fathers (volume III of the Psalms, 1849): Psalms 53–75, one chapter per psalm, with the separate expositions, sermons and discourses of a psalm as sections. The translation numbers the psalms as the English Bible does; the Vulgate number (Augustine’s own) is added to the title where it differs. This is the complete text, which the condensed NPNF version in the other book of this work abridges.",
+    "pt-BR": "As Enarrationes in Psalmos de Agostinho na tradução oxfordiana completa da Library of the Fathers (volume III dos Salmos, 1849): Salmos 53–75, um capítulo por salmo. A numeração é a da Bíblia inglesa; onde difere, o título traz o número da Vulgata, que é o de Agostinho."
+  },
+  "composed": "392-420",
+  "languages": [
+    "en-US"
+  ],
+  "work": "augustine/enarrationes-in-psalmos",
+  "editions": {
+    "en-US": {
+      "translator": "Members of the English Church (Library of the Fathers, ed. E. B. Pusey)",
+      "year": 1849
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/30ALibraryOfFathersOfTheHolyCatholicV30",
+      "edition": "Expositions on the Book of Psalms by S. Augustine, Bishop of Hippo (Library of the Fathers of the Holy Catholic Church, vol. 30; Oxford: John Henry Parker, 1849).",
+      "description": "Internet Archive scan, read from the _djvu.xml word coordinates (research/sourcing/_scripts/aug_lf.py, aug_lf_ps_build.py): marginal Scripture references, running heads, small-type notes and the volume’s front and back matter are dropped; psalm boundaries come from the printed PSALM headings, recovered in sequence where the OCR spoiled them (a psalm whose heading was lost is merged with its neighbour and titled as a range). OCR is uncorrected beyond common letter confusions and stray fragments of marginal references remain in some lines.",
+      "tier": "A",
+      "tierEvidence": "Published 1847-1857 (Library of the Fathers, Oxford); long public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ps-053",
+      "title": {
+        "en-US": "Psalm 53 (Vulgate 52)"
+      }
+    },
+    {
+      "id": "ps-054",
+      "title": {
+        "en-US": "Psalm 54 (Vulgate 53)"
+      }
+    },
+    {
+      "id": "ps-055-056",
+      "title": {
+        "en-US": "Psalms 55–56 (Vulgate 54–55)"
+      }
+    },
+    {
+      "id": "ps-057",
+      "title": {
+        "en-US": "Psalm 57 (Vulgate 56)"
+      }
+    },
+    {
+      "id": "ps-058",
+      "title": {
+        "en-US": "Psalm 58 (Vulgate 57)"
+      }
+    },
+    {
+      "id": "ps-059",
+      "title": {
+        "en-US": "Psalm 59 (Vulgate 58)"
+      }
+    },
+    {
+      "id": "ps-060",
+      "title": {
+        "en-US": "Psalm 60 (Vulgate 59)"
+      }
+    },
+    {
+      "id": "ps-061",
+      "title": {
+        "en-US": "Psalm 61 (Vulgate 60)"
+      }
+    },
+    {
+      "id": "ps-062",
+      "title": {
+        "en-US": "Psalm 62 (Vulgate 61)"
+      }
+    },
+    {
+      "id": "ps-063",
+      "title": {
+        "en-US": "Psalm 63 (Vulgate 62)"
+      }
+    },
+    {
+      "id": "ps-064",
+      "title": {
+        "en-US": "Psalm 64 (Vulgate 63)"
+      }
+    },
+    {
+      "id": "ps-065",
+      "title": {
+        "en-US": "Psalm 65 (Vulgate 64)"
+      }
+    },
+    {
+      "id": "ps-066",
+      "title": {
+        "en-US": "Psalm 66 (Vulgate 65)"
+      }
+    },
+    {
+      "id": "ps-067-068",
+      "title": {
+        "en-US": "Psalms 67–68 (Vulgate 66–67)"
+      }
+    },
+    {
+      "id": "ps-069",
+      "title": {
+        "en-US": "Psalm 69 (Vulgate 68)"
+      }
+    },
+    {
+      "id": "ps-070",
+      "title": {
+        "en-US": "Psalm 70 (Vulgate 69)"
+      }
+    },
+    {
+      "id": "ps-071",
+      "title": {
+        "en-US": "Psalm 71 (Vulgate 70)"
+      }
+    },
+    {
+      "id": "ps-072-073",
+      "title": {
+        "en-US": "Psalms 72–73 (Vulgate 71–72)"
+      }
+    },
+    {
+      "id": "ps-074",
+      "title": {
+        "en-US": "Psalm 74 (Vulgate 73)"
+      }
+    },
+    {
+      "id": "ps-075",
+      "title": {
+        "en-US": "Psalm 75 (Vulgate 74)"
+      }
+    }
+  ]
+}
