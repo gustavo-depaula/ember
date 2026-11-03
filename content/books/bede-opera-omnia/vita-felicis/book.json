@@ -13,18 +13,24 @@
   },
   "description": {
     "la": "Vita Felicis confessoris Nolani, a Beda ex hexametris Paulini Nolani in prosam sermonem redacta.",
-    "en-US": "Bede's prose retelling of Paulinus of Nola's hexameter poems on St. Felix of Nola (3rd century): the priest who survived persecution, hidden by a spider's web and fed by an angel. Latin text of Migne (PL 94); the English of Giles survives only in an OCR scan, not yet imported.",
+    "en-US": "Bede's prose retelling of Paulinus of Nola's hexameter poems on St. Felix of Nola (3rd century): the priest who survived persecution, hidden by a spider's web and fed by an angel. Latin text of Migne (PL 94); English translation of J. A. Giles (1843).",
     "pt-BR": "O resumo em prosa que Beda fez dos poemas em hexâmetros de Paulino de Nola sobre São Félix de Nola (séc. III): o sacerdote que sobreviveu à perseguição, escondido por uma teia de aranha e alimentado por um anjo."
   },
   "composed": "c. 700-716",
   "languages": [
-    "la"
+    "la",
+    "en-US"
   ],
   "work": "bede/vita-felicis",
   "editions": {
     "la": {
       "editor": "Migne, PL 94 (1862)",
       "year": 1862
+    },
+    "en-US": {
+      "translator": "J. A. Giles",
+      "year": 1843,
+      "from": "la"
     }
   },
   "sources": [
@@ -35,10 +41,19 @@
       "description": "Wikitext removed; PL column numbers dropped; one chapter.",
       "tier": "A",
       "tierEvidence": "Eighth-century text in Migne's reprint: public domain."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/theminorhistoric00bede",
+      "edition": "The Miscellaneous Works of Venerable Bede, ed. and trans. J. A. Giles, vol. 4 (London: Whittaker, 1843), in the reprint as 'The Minor Historical Works of Venerable Bede'; archive.org theminorhistoric00bede.",
+      "tier": "A",
+      "tierEvidence": "Giles died in 1884; printed 1843: public domain.",
+      "description": "Archive.org OCR read from the word-coordinate file and cleaned by script, not proofread: Giles's side-notes in the margin dropped by their position, running heads and page numbers dropped."
     }
   ],
   "arrived": {
-    "la": "2026-11-02"
+    "la": "2026-11-02",
+    "en-US": "2026-11-03"
   },
   "toc": [
     {

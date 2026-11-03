@@ -13,18 +13,24 @@
   },
   "description": {
     "la": "Epistolae Bedae: ad Albinum abbatem, ad Ecgberctum antistitem (734), ad Plegwinum de aetatibus mundi, ad Wicredam de Pascha, ad Accam episcopum, ad Nothelmum, ad Eusebium (Hwaetberht) et aliae de scripturis.",
-    "en-US": "Bede's surviving letters: to Abbot Albinus on the Ecclesiastical History, the famous letter to Bishop Egbert of York (734) on the reform of the Northumbrian church, the apology to Plegwin on the six ages of the world, letters to Wicred on Easter, to Bishop Acca and others as prefaces to his biblical commentaries, and short exegetical letters. Latin text of Migne (PL 94); no public-domain English translation of the whole is available here.",
+    "en-US": "Bede's surviving letters: to Abbot Albinus on the Ecclesiastical History, the famous letter to Bishop Egbert of York (734) on the reform of the Northumbrian church, the apology to Plegwin on the six ages of the world, letters to Wicred on Easter, to Bishop Acca and others as prefaces to his biblical commentaries, and short exegetical letters. Latin text of Migne (PL 94); the letters to Albinus and to Egbert in the English of J. A. Giles (1843).",
     "pt-BR": "As cartas de Beda que sobreviveram: a Albino sobre a História Eclesiástica, a célebre carta ao bispo Egberto de York (734) sobre a reforma da Igreja da Nortúmbria, a apologia a Plegwin sobre as seis idades do mundo, as cartas a Wicred sobre a Páscoa, a Acca e outros como prefácios dos comentários bíblicos, e breves cartas exegéticas."
   },
   "composed": "c. 700-734",
   "languages": [
-    "la"
+    "la",
+    "en-US"
   ],
   "work": "bede/epistolae",
   "editions": {
     "la": {
       "editor": "Migne, PL 94 (1862), after Giles and Smith",
       "year": 1862
+    },
+    "en-US": {
+      "translator": "J. A. Giles",
+      "year": 1843,
+      "from": "la"
     }
   },
   "sources": [
@@ -35,22 +41,33 @@
       "description": "Wikitext removed; PL column numbers and source notes dropped; one file per letter.",
       "tier": "A",
       "tierEvidence": "Eighth-century texts in Migne's reprint: public domain."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/theminorhistoric00bede",
+      "edition": "The Miscellaneous Works of Venerable Bede, ed. and trans. J. A. Giles, vol. 4 (London: Whittaker, 1843), in the reprint as 'The Minor Historical Works of Venerable Bede'; archive.org theminorhistoric00bede.",
+      "tier": "A",
+      "tierEvidence": "Giles died in 1884; printed 1843: public domain.",
+      "description": "Archive.org OCR read from the word-coordinate file and cleaned by script, not proofread: the letters to Albinus and to Egbert only (I and II). Giles's side-notes dropped by their position; his footnotes kept; the section numbers of the letter to Egbert as inert bold."
     }
   ],
   "arrived": {
-    "la": "2026-11-02"
+    "la": "2026-11-02",
+    "en-US": "2026-11-03"
   },
   "toc": [
     {
       "id": "e01",
       "title": {
-        "la": "Epistola I, Ad Albinum Abbatem"
+        "la": "Epistola I, Ad Albinum Abbatem",
+        "en-US": "Letter I. To Abbot Albinus, on His Ecclesiastical History"
       }
     },
     {
       "id": "e02",
       "title": {
-        "la": "Epistola II, Ad Ecgberctum Antistitem"
+        "la": "Epistola II, Ad Ecgberctum Antistitem",
+        "en-US": "Letter II. To Bishop Egbert, on Ecclesiastical Discipline"
       }
     },
     {
