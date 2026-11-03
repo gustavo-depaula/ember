@@ -1,0 +1,165 @@
+{
+  "id": "gueranger-monarchie-pontificale",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "De la monarchie pontificale",
+    "en-US": "On the Pontifical Monarchy",
+    "pt-BR": "Da monarquia pontifical"
+  },
+  "author": {
+    "fr-FR": "Prosper Guéranger",
+    "en-US": "Prosper Guéranger",
+    "pt-BR": "Prosper Guéranger"
+  },
+  "description": {
+    "fr-FR": "Réponse de Dom Guéranger (1870), à la veille du concile du Vatican, au livre de Mgr Maret, évêque de Sura, Du Concile général et de la paix religieuse : neuf préjugés contre ce livre, puis l’étude de l’infaillibilité personnelle du pontife romain comme dogme, avec le bref de Pie IX et des appendices. En opuscules : les trois Défenses de l’Église romaine contre le P. Gratry, et les deux écrits sur la définition de l’infaillibilité (réponse à Mgr Dupanloup, réponse aux dernières objections). Deuxième édition, Paris, Palmé, 1870.",
+    "en-US": "Dom Guéranger’s reply (1870), on the eve of the Vatican Council, to Mgr Maret’s book Du Concile général et de la paix religieuse: nine prejudices against that book, then a study of the personal infallibility of the Roman pontiff as a dogma, with the brief of Pius IX and appendices. As pamphlets: the three Defences of the Roman Church against Fr Gratry and the two writings on the definition of infallibility (reply to Mgr Dupanloup, reply to the last objections). Second edition, Paris, Palmé, 1870.",
+    "pt-BR": "Resposta de Dom Guéranger (1870), às vésperas do Concílio do Vaticano, ao livro de Mons. Maret, Du Concile général et de la paix religieuse: nove preconceitos contra esse livro, depois o estudo da infalibilidade pessoal do pontífice romano como dogma, com o breve de Pio IX e apêndices. Como opúsculos: as três Defesas da Igreja romana contra o P. Gratry e os dois escritos sobre a definição da infalibilidade (resposta a Mons. Dupanloup, resposta às últimas objeções). Segunda edição, Paris, Palmé, 1870."
+  },
+  "composed": "1870",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/monarchie-pontificale",
+  "editions": {
+    "fr-FR": {
+      "editor": "Palmé (Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://www.domgueranger.net/?cat=De la monarchie pontificale",
+      "edition": "De la monarchie pontificale, 2nd ed., Paris, Palmé, 1870, and the Gratry and infallibility pamphlets of 1870 (domgueranger.net HTML transcription of the OCR; compound hyphens lost in the transcription are restored for Jésus-Christ, -même, -ce, peut-être)",
+      "description": "Checked in size against archive.org delamonarchiepon00gu, dfensedeleglis00gu, deladfinitionde00gugoog. The site’s 2.8k-word presentation pieces about the book (L’infaillibilité du pape à partir des réflexions…) are not included.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; text first published in his lifetime or by 1931."
+    }
+  ],
+  "toc": [
+    {
+      "id": "bref-pie-ix",
+      "title": {
+        "fr-FR": "Bref de N. S. P. le pape Pie IX (12 mars 1870)"
+      }
+    },
+    {
+      "id": "preface",
+      "title": {
+        "fr-FR": "Préface"
+      }
+    },
+    {
+      "id": "introduction",
+      "title": {
+        "fr-FR": "Introduction"
+      }
+    },
+    {
+      "id": "prejuge-1",
+      "title": {
+        "fr-FR": "Premier préjugé. L’auteur semble supposer un état de guerre qui n’existe pas"
+      }
+    },
+    {
+      "id": "prejuge-2",
+      "title": {
+        "fr-FR": "Deuxième préjugé. L’auteur n’a pas suffisamment connu la situation respective des deux Écoles qu’il oppose avec raison l’une à l’autre"
+      }
+    },
+    {
+      "id": "prejuge-3",
+      "title": {
+        "fr-FR": "Troisième préjugé. L’auteur, dans l’examen théologique des questions, procède d’une manière qui ne saurait conduire à une conclusion sûre"
+      }
+    },
+    {
+      "id": "prejuge-4",
+      "title": {
+        "fr-FR": "Quatrième préjugé. L’auteur n’a pas tenu compte du seul véritable point de la question"
+      }
+    },
+    {
+      "id": "prejuge-5",
+      "title": {
+        "fr-FR": "Cinquième préjugé. L’auteur ne semble pas posséder la notion complète du Concile œcuménique"
+      }
+    },
+    {
+      "id": "prejuge-6",
+      "title": {
+        "fr-FR": "Sixième préjugé. L’auteur applique à l’Église les conditions des gouvernements humains"
+      }
+    },
+    {
+      "id": "prejuge-7",
+      "title": {
+        "fr-FR": "Septième préjugé. L’esprit du livre semble dirigé en sens inverse d’une des vérités de la foi"
+      }
+    },
+    {
+      "id": "prejuge-8",
+      "title": {
+        "fr-FR": "Huitième préjugé. L’auteur se contredit plus d’une fois dans le cours de son livre"
+      }
+    },
+    {
+      "id": "prejuge-9",
+      "title": {
+        "fr-FR": "Neuvième préjugé. L’auteur n’est pas toujours exact sur les faits historiques"
+      }
+    },
+    {
+      "id": "infaillibilite-dogme",
+      "title": {
+        "fr-FR": "L’infaillibilité personnelle du pontife romain peut-elle être l’objet d’une définition doctrinale qui en fasse un dogme de foi catholique ?"
+      }
+    },
+    {
+      "id": "appendices",
+      "title": {
+        "fr-FR": "Appendices"
+      }
+    },
+    {
+      "id": "opuscula",
+      "title": {
+        "fr-FR": "Opuscules de 1870",
+        "en-US": "Pamphlets of 1870"
+      },
+      "children": [
+        {
+          "id": "gratry-1",
+          "title": {
+            "fr-FR": "Défense de l’Église romaine contre les accusations du R. P. Gratry (première lettre)"
+          }
+        },
+        {
+          "id": "gratry-2",
+          "title": {
+            "fr-FR": "Deuxième défense de l’Église romaine contre les accusations du R. P. Gratry"
+          }
+        },
+        {
+          "id": "gratry-3",
+          "title": {
+            "fr-FR": "Troisième défense de l’Église romaine contre les accusations du R. P. Gratry"
+          }
+        },
+        {
+          "id": "definition-infaillibilite",
+          "title": {
+            "fr-FR": "De la définition de l’infaillibilité papale, à propos de la lettre de Mgr d’Orléans à Mgr de Malines"
+          }
+        },
+        {
+          "id": "reponse-objections",
+          "title": {
+            "fr-FR": "Réponses aux dernières objections contre la définition de l’infaillibilité du pontife romain"
+          }
+        }
+      ]
+    }
+  ]
+}
