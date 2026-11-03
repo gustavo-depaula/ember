@@ -7,5 +7,128 @@
   "saint": "ambrose",
   "matches": [
     "Ambrose (340-397)"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "The bishop who taught Augustine, on the sacraments and the Christian life.",
+        "pt-BR": "O bispo que ensinou Agostinho, sobre os sacramentos e a vida cristã."
+      },
+      "works": [
+        {
+          "work": "ambrose-mysteries",
+          "why": {
+            "en-US": "His catechesis for the newly baptized",
+            "pt-BR": "Sua catequese aos recém-batizados"
+          }
+        },
+        {
+          "work": "ambrose-repentance",
+          "why": {
+            "en-US": "On sin, penance and the Church's mercy",
+            "pt-BR": "Sobre o pecado, a penitência e a misericórdia da Igreja"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Pastoral and ascetical treatises",
+        "pt-BR": "Tratados pastorais e ascéticos"
+      },
+      "works": [
+        {
+          "work": "ambrose-duties-of-the-clergy",
+          "why": {
+            "en-US": "His manual of Christian conduct, written for his clergy",
+            "pt-BR": "Seu manual de conduta cristã, escrito para o clero"
+          }
+        },
+        {
+          "work": "ambrose-concerning-virgins",
+          "why": {
+            "en-US": "On consecrated virginity",
+            "pt-BR": "Sobre a virgindade consagrada"
+          }
+        },
+        {
+          "work": "ambrose-concerning-widows",
+          "why": {
+            "en-US": "On the life of widows",
+            "pt-BR": "Sobre a vida das viúvas"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Doctrine",
+        "pt-BR": "Doutrina"
+      },
+      "works": [
+        {
+          "work": "ambrose-christian-faith",
+          "why": {
+            "en-US": "His defense of the Trinity against the Arians",
+            "pt-BR": "Sua defesa da Trindade contra os arianos"
+          }
+        },
+        {
+          "work": "ambrose-holy-spirit",
+          "why": {
+            "en-US": "On the divinity of the Holy Spirit",
+            "pt-BR": "Sobre a divindade do Espírito Santo"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Church and state",
+        "pt-BR": "Igreja e Estado"
+      },
+      "works": [
+        {
+          "work": "ambrose-sermon-against-auxentius",
+          "why": {
+            "en-US": "His sermon against the Arian bishop Auxentius",
+            "pt-BR": "Seu sermão contra o bispo ariano Auxêncio"
+          }
+        },
+        {
+          "work": "ambrose-memorial-of-symmachus",
+          "why": {
+            "en-US": "His answer to Symmachus, who asked to restore the altar of Victory",
+            "pt-BR": "Sua resposta a Símaco, que pedia restaurar o altar da Vitória"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Letters and funeral oration",
+        "pt-BR": "Cartas e oração fúnebre"
+      },
+      "works": [
+        {
+          "work": "ambrose-letters",
+          "why": {
+            "en-US": "His letters",
+            "pt-BR": "Suas cartas"
+          }
+        },
+        {
+          "work": "ambrose-death-of-satyrus",
+          "why": {
+            "en-US": "His funeral oration for his brother Satyrus",
+            "pt-BR": "Sua oração fúnebre pelo irmão Sátiro"
+          }
+        }
+      ]
+    }
   ]
 }
