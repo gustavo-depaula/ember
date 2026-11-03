@@ -6,5 +6,22 @@
   "century": 20,
   "matches": [
     "Maison de la Bonne Presse (trans. E. E. Fernandez)"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Catechism",
+        "pt-BR": "Catecismo"
+      },
+      "works": [
+        {
+          "work": "bonne-presse-catechism-in-pictures",
+          "why": {
+            "en-US": "Doctrine in sixty-eight plates with short explanations",
+            "pt-BR": "A doutrina em sessenta e oito pranchas com breves explicações"
+          }
+        }
+      ]
+    }
   ]
 }
