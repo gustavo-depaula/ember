@@ -5,7 +5,8 @@
   },
   "century": 19,
   "matches": [
-    "Rev. Thomas L. Kinkead"
+    "Rev. Thomas L. Kinkead",
+    "Third Plenary Council of Baltimore; supplemented by Rev. Thomas L. Kinkead"
   ],
   "guide": [
     {
@@ -14,6 +15,13 @@
         "pt-BR": "Catecismo"
       },
       "works": [
+        {
+          "work": "third-plenary-council-of-baltimore/catechism-no-3",
+          "why": {
+            "en-US": "The post-confirmation course, with about 980 further questions",
+            "pt-BR": "O curso pós-crisma, com cerca de 980 perguntas a mais"
+          }
+        },
         {
           "work": "kinkead/explanation-of-the-baltimore-catechism",
           "why": {
