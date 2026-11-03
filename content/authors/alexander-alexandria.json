@@ -6,5 +6,22 @@
   "century": 4,
   "matches": [
     "Alexander of Alexandria"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "alexander-alexandria-epistles-on-the-arian-heresy-and-the-deposition-of-arius",
+          "why": {
+            "en-US": "Letters on Arianism and the deposition of Arius",
+            "pt-BR": "Cartas sobre o arianismo e a deposição de Ário"
+          }
+        }
+      ]
+    }
   ]
 }
