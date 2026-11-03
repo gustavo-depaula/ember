@@ -7,5 +7,88 @@
   "saint": "ephrem",
   "matches": [
     "Ephraim the Syrian (306-373)"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "ephraim-faith",
+          "why": {
+            "en-US": "On the Faith (\"The Pearl\")",
+            "pt-BR": "Sobre a Fé (\"A Pérola\")"
+          }
+        },
+        {
+          "work": "ephraim-nativity-of-christ-in-the-flesh",
+          "why": {
+            "en-US": "On the Nativity of Christ in the flesh",
+            "pt-BR": "Sobre a Natividade de Cristo na carne"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "On Christ and the feasts",
+        "pt-BR": "Sobre Cristo e as festas"
+      },
+      "works": [
+        {
+          "work": "ephraim-our-lord",
+          "why": {
+            "en-US": "On Our Lord",
+            "pt-BR": "Sobre Nosso Senhor"
+          }
+        },
+        {
+          "work": "ephraim-for-the-feast-of-the-epiphany",
+          "why": {
+            "en-US": "For the feast of the Epiphany",
+            "pt-BR": "Para a festa da Epifania"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Repentance",
+        "pt-BR": "Penitência"
+      },
+      "works": [
+        {
+          "work": "ephraim-admonition-and-repentance",
+          "why": {
+            "en-US": "On admonition and repentance",
+            "pt-BR": "Sobre a admoestação e a penitência"
+          }
+        },
+        {
+          "work": "ephraim-sinful-woman",
+          "why": {
+            "en-US": "On the sinful woman",
+            "pt-BR": "Sobre a pecadora"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Hymns",
+        "pt-BR": "Hinos"
+      },
+      "works": [
+        {
+          "work": "ephraim-nisibene-hymns",
+          "why": {
+            "en-US": "The Nisibene Hymns, a fragment only",
+            "pt-BR": "Os Hinos de Nísibis, apenas um fragmento"
+          }
+        }
+      ]
+    }
   ]
 }
