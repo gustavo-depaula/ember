@@ -54,7 +54,7 @@ def title_block(lines, i, maxlines=4):
 
 
 def parse(lines, prx, urx, heads, fnstyle='num', fix=lambda s: s, pre=None, words=('Chapter', 'Article', 'Introduction'), stop=None,
-          ptitle_lines=3, utitle_lines=3, minintro=120, p0=0, titles=None, tfix=lambda s: s):
+          ptitle_lines=3, utitle_lines=3, minintro=120, p0=0, titles=None, tfix=lambda s: s, u0=0, continuous=False, bare=False):
     """returns list of nodes: dict(id, title, parent(id,title) or None, paras, notes)"""
     if pre:
         lines = [pre(l) for l in lines]
@@ -66,15 +66,17 @@ def parse(lines, prx, urx, heads, fnstyle='num', fix=lambda s: s, pre=None, word
         elif urx and urx.match(s):
             H.append((i, 'u'))
     pw, uw, iw = words
-    segs, p, u = [], p0, 0
+    segs, p, u = [], p0, u0
     parent = None
     for k, (i, kind) in enumerate(H):
         j = H[k + 1][0] if k + 1 < len(H) else len(lines)
         tb, body0 = title_block(lines, i, ptitle_lines if kind == 'p' else utitle_lines)
+        if bare:
+            tb, body0 = '', i + 1
         body = lines[body0:j]
         if kind == 'p':
             p += 1
-            u = 0
+            u = u if continuous else 0
             parent = (f'ch{p}', f'{pw} {roman(p)}. {sentence(tb)}' if tb else f'{pw} {roman(p)}')
             segs.append(dict(kind='p', id=f'ch{p}-intro', title=iw, parent=parent, body=body))
         else:
@@ -288,3 +290,61 @@ def finish(slug, meta, langs, srcs=()):
 def authors():
     author_file('garrigou-lagrange', 'Reginald Garrigou-Lagrange', 'Reginaldo Garrigou-Lagrange', 20, ['Reginald Garrigou-Lagrange', 'Réginald Garrigou-Lagrange', 'Garrigou-Lagrange'])
     author_file('tanquerey', 'Adolphe Tanquerey', 'Adolphe Tanquerey', 20, ['Adolphe Tanquerey', 'Tanquerey'])
+
+
+def auto_heads(lines):
+    """running heads: caps lines that recur (page numbers stripped) or are bare numbers"""
+    from collections import Counter
+    c = Counter()
+    for l in lines:
+        t = norm(l)
+        if 4 < len(t) < 70 and sum(ch.isalpha() for ch in t) >= 4 and not re.search(r'[a-z]{3,}', t):
+            c[re.sub(r'[\d\s\W_]+', ' ', t).strip()] += 1
+    common = {k for k, v in c.items() if v >= 4}
+    mixed = Counter()
+    for l in lines:
+        t = norm(l)
+        if 4 < len(t) < 60 and re.search(r'\d{1,3}$|^\d{1,3}\s', t):
+            mixed[re.sub(r'[\d\s\W_]+', ' ', t).strip().lower()] += 1
+    mcommon = {k for k, v in mixed.items() if v >= 4}
+
+    def head(t):
+        k = re.sub(r'[\d\s\W_]+', ' ', t).strip()
+        return k in common or k.lower() in mcommon
+    return [head]
+
+
+def find_body(lines, prx, urx, gap=80):
+    H = []
+    for i, l in enumerate(lines):
+        t = norm(l)
+        if prx and prx.match(t):
+            H.append((i, 'p'))
+        elif urx and urx.match(t):
+            H.append((i, 'u'))
+    for k, (i, kind) in enumerate(H):
+        nxt = H[k + 1][0] if k + 1 < len(H) else len(lines)
+        if nxt - i >= gap and kind == 'u':
+            start = i
+            if k and H[k - 1][1] == 'p' and i - H[k - 1][0] < 25:
+                start = H[k - 1][0]
+            return start
+    return 0
+
+
+def find_end(lines, start):
+    last = start
+    for i in range(len(lines) - 1, start, -1):
+        if re.match(r'^\s*(GENERAL |ANALYTICAL |ALPHABETICAL )?INDEX( OF [A-Z ]+)?\s*$', lines[i]):
+            last = i
+    return last if last > start + 500 else len(lines)
+
+
+def find_front(lines, limit):
+    a = next((i for i, l in enumerate(lines[:limit]) if re.match(r'^\s*(FOREWORD|PREFACE|INTRODUCTION)\b\s*$', l)), None)
+    if a is None:
+        return None
+    b = next((i for i in range(a + 1, limit) if re.match(r'^\s*CONTENTS\b', lines[i])), None)
+    if b is None or not (30 < b - a < 1500):
+        return None
+    return a, b
