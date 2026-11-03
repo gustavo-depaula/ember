@@ -1,0 +1,158 @@
+{
+  "id": "gueranger-liturgical-year-07-paschal-1",
+  "name": {
+    "en-US": "The Liturgical Year: Paschal Time, Book I",
+    "pt-BR": "O Ano Litúrgico: Tempo pascal, I"
+  },
+  "author": {
+    "en-US": "Dom Prosper Guéranger",
+    "pt-BR": "Dom Prosper Guéranger"
+  },
+  "description": {
+    "en-US": "Volume 7 of the English Liturgical Year (Paschal Time, Book I), translated from L’Année liturgique: one chapter per day or feast, with the Latin liturgical texts beside their English. Made from the Internet Archive scan of the 1900 printing; the two-column Latin and English text is separated by script, so some lines may be misassigned.",
+    "pt-BR": "Volume 7 do «Liturgical Year» em inglês (Tempo pascal, I), traduzido de L’Année liturgique: um capítulo por dia ou festa, com os textos litúrgicos em latim ao lado do inglês."
+  },
+  "composed": "1864",
+  "languages": [
+    "en-US"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "en-US": {
+      "translator": "Rev. Dom Laurence Shepherd (Stanbrook Abbey)",
+      "year": 1900
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/V07TheLiturgicalYear",
+      "edition": "The Liturgical Year, Paschal Time, Book I, translated from the French of Dom Prosper Guéranger; printing of 1900 (Stanbrook Abbey / Duffy). Internet Archive scan, OCR text.",
+      "description": "Split at each day or feast heading detected in the running text; running heads and page numbers removed; the Latin and English columns of the liturgical texts, interleaved line by line in the OCR, were separated by language and set as a Latin paragraph followed by its English.",
+      "tier": "A",
+      "tierEvidence": "Guéranger (d. 1875) and the translation printed 1870-1912: public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-easter-sunday",
+      "title": {
+        "en-US": "Easter Sunday"
+      }
+    },
+    {
+      "id": "002-chapter-the-first-the-history-of-paschal-time",
+      "title": {
+        "en-US": "Chapter the First. the History of Paschal Time"
+      }
+    },
+    {
+      "id": "003-chapter-the-second-the-mystery-of-paschal-time",
+      "title": {
+        "en-US": "Chapter the Second. the Mystery of Paschal Time"
+      }
+    },
+    {
+      "id": "004-chapter-the-third-practice-during-paschal-time",
+      "title": {
+        "en-US": "Chapter the Third. Practice During Paschal Time"
+      }
+    },
+    {
+      "id": "005-chapter-the-fourth-morning-and-night-prayers-for",
+      "title": {
+        "en-US": "Chapter the Fourth. Morning and Night Prayers for Paschal Time"
+      }
+    },
+    {
+      "id": "006-chapter-the-fifth-on-hearing-mass-during-paschal",
+      "title": {
+        "en-US": "Chapter the Fifth. on Hearing Mass During Paschal Time"
+      }
+    },
+    {
+      "id": "007-chapter-the-sixth-on-holy-communion-during-pasch",
+      "title": {
+        "en-US": "Chapter the Sixth. on Holy Communion During Paschal Time"
+      }
+    },
+    {
+      "id": "008-chapter-the-seventh-of-the-office-of-vespers-for",
+      "title": {
+        "en-US": "Chapter the Seventh. of the Office of Vespers for Sundays and Feasts During Paschal Time"
+      }
+    },
+    {
+      "id": "009-chapter-the-eighth-of-the-office-of-compline-dur",
+      "title": {
+        "en-US": "Chapter the Eighth. of the Office of Compline, During Paschal Time"
+      }
+    },
+    {
+      "id": "010-easter-sunday-morning",
+      "title": {
+        "en-US": "Easter Sunday: Morning"
+      }
+    },
+    {
+      "id": "011-easter-sunday-lauds",
+      "title": {
+        "en-US": "Easter Sunday: Lauds"
+      }
+    },
+    {
+      "id": "012-easter-song",
+      "title": {
+        "en-US": "Easter Song"
+      }
+    },
+    {
+      "id": "013-easter-sunday-i-afternoon",
+      "title": {
+        "en-US": "Easter Sunday I Afternoon"
+      }
+    },
+    {
+      "id": "014-b-aster-monday",
+      "title": {
+        "en-US": "B Aster Monday"
+      }
+    },
+    {
+      "id": "015-easter-tuesday",
+      "title": {
+        "en-US": "Easter Tuesday"
+      }
+    },
+    {
+      "id": "016-wednesday-in-easter-week",
+      "title": {
+        "en-US": "Wednesday in Easter Week"
+      }
+    },
+    {
+      "id": "017-thursday-in-easter-week",
+      "title": {
+        "en-US": "Thursday in Easter Week"
+      }
+    },
+    {
+      "id": "018-friday-in-easter-week",
+      "title": {
+        "en-US": "Friday in Easter Week"
+      }
+    },
+    {
+      "id": "019-saturday-in-easter-week",
+      "title": {
+        "en-US": "Saturday in Easter Week"
+      }
+    },
+    {
+      "id": "020-the-annunciation-of-the-ever-blessed-virgin",
+      "title": {
+        "en-US": "The Annunciation of the Ever Blessed Virgin"
+      }
+    }
+  ]
+}
