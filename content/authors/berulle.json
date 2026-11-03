@@ -7,5 +7,128 @@
   "matches": [
     "Cardinal Pierre de Bérulle",
     "Pierre de Bérulle"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "His masterpiece on the Incarnation, and a shorter prayer on Mary Magdalene.",
+        "pt-BR": "Sua obra-prima sobre a Encarnação e uma oração mais curta sobre Maria Madalena."
+      },
+      "works": [
+        {
+          "work": "berulle/grandeurs-de-jesus",
+          "why": {
+            "en-US": "His masterpiece: twelve discourses on the Incarnation",
+            "pt-BR": "Sua obra-prima: doze discursos sobre a Encarnação"
+          }
+        },
+        {
+          "work": "berulle/elevation-sainte-madeleine",
+          "why": {
+            "en-US": "Twenty chapters on the Magdalene's conversion and love",
+            "pt-BR": "Vinte capítulos sobre a conversão e o amor da Madalena"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The mystery of Jesus",
+        "pt-BR": "O mistério de Jesus"
+      },
+      "works": [
+        {
+          "work": "berulle/vie-de-jesus",
+          "why": {
+            "en-US": "The Life of Jesus, 1629, from the Annunciation on",
+            "pt-BR": "A Vida de Jesus, 1629, a partir da Anunciação"
+          }
+        },
+        {
+          "work": "berulle/elevations",
+          "why": {
+            "en-US": "Three elevations to Jesus, the Trinity and God, with Mary",
+            "pt-BR": "Três elevações a Jesus, à Trindade e a Deus, com Maria"
+          }
+        },
+        {
+          "work": "berulle/voeux-de-servitude",
+          "why": {
+            "en-US": "The vows of servitude to Jesus and Mary",
+            "pt-BR": "Os votos de servidão a Jesus e a Maria"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Pious writings and letters",
+        "pt-BR": "Escritos de piedade e cartas"
+      },
+      "works": [
+        {
+          "work": "berulle/oeuvres-de-piete",
+          "why": {
+            "en-US": "Brief discourse on abnegation and over 200 opuscules",
+            "pt-BR": "Breve discurso sobre a abnegação e mais de 200 opúsculos"
+          }
+        },
+        {
+          "work": "berulle/lettres",
+          "why": {
+            "en-US": "Letters from 1604 to 1629",
+            "pt-BR": "Cartas de 1604 a 1629"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The Oratory",
+        "pt-BR": "O Oratório"
+      },
+      "works": [
+        {
+          "work": "berulle/memorial-de-direction",
+          "why": {
+            "en-US": "Counsel to the Oratory's superiors",
+            "pt-BR": "Conselhos aos superiores do Oratório"
+          }
+        },
+        {
+          "work": "berulle/reglement-oratoire",
+          "why": {
+            "en-US": "The Rule of the Oratory and the Office of Jesus",
+            "pt-BR": "A Regra do Oratório e o Ofício de Jesus"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Controversy and discernment",
+        "pt-BR": "Controvérsia e discernimento"
+      },
+      "works": [
+        {
+          "work": "berulle/controverse",
+          "why": {
+            "en-US": "Discourses on the Mass, the real presence and the pastors' mission",
+            "pt-BR": "Discursos sobre a Missa, a presença real e a missão dos pastores"
+          }
+        },
+        {
+          "work": "berulle/traite-des-energumenes",
+          "why": {
+            "en-US": "The 1599 treatise on possession and its discernment",
+            "pt-BR": "O tratado de 1599 sobre a possessão e seu discernimento"
+          }
+        }
+      ]
+    }
   ]
 }
