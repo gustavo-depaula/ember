@@ -1,0 +1,45 @@
+{
+  "id": "chesterton-g-f-watts",
+  "cover": "classic",
+  "name": {
+    "en-US": "G. F. Watts",
+    "pt-BR": "G. F. Watts"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's study of the Victorian painter George Frederick Watts, his symbolic paintings, his portraits and his part in the Victorian conscience; illustrated in the original (plates omitted here).",
+    "pt-BR": "O estudo de Chesterton sobre o pintor vitoriano George Frederick Watts, suas pinturas simbólicas, seus retratos e seu papel na consciência vitoriana; ilustrado no original (estampas omitidas aqui)."
+  },
+  "composed": "1904",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/g-f-watts",
+  "editions": {
+    "en-US": {
+      "editor": "Duckworth & Co.",
+      "year": 1904
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/64074",
+      "edition": "G. F. Watts (Duckworth & Co., 1904), Project Gutenberg #64074.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1904 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-g-f-watts",
+      "title": {
+        "en-US": "G. F. Watts"
+      }
+    }
+  ]
+}
