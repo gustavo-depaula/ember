@@ -7,5 +7,44 @@
   "matches": [
     "Peter Lombard",
     "Petrus Lombardus"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "peter-lombard/sententiae",
+          "why": {
+            "en-US": "The standard textbook of medieval theology",
+            "pt-BR": "O manual-padrão da teologia medieval"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Scripture glosses",
+        "pt-BR": "Glosas bíblicas"
+      },
+      "works": [
+        {
+          "work": "peter-lombard/psalmos",
+          "why": {
+            "en-US": "The Great Gloss on the whole Psalter",
+            "pt-BR": "A Grande Glosa sobre todo o Saltério"
+          }
+        },
+        {
+          "work": "peter-lombard/collectanea-in-paulum",
+          "why": {
+            "en-US": "Verse-by-verse gloss on St. Paul's fourteen epistles",
+            "pt-BR": "Glosa versículo a versículo das quatorze epístolas de Paulo"
+          }
+        }
+      ]
+    }
   ]
 }
