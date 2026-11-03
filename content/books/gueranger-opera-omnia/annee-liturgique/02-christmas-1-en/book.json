@@ -1,0 +1,182 @@
+{
+  "id": "gueranger-liturgical-year-02-christmas-1",
+  "name": {
+    "en-US": "The Liturgical Year: Christmas, Book I",
+    "pt-BR": "O Ano Litúrgico: Natal, I"
+  },
+  "author": {
+    "en-US": "Dom Prosper Guéranger",
+    "pt-BR": "Dom Prosper Guéranger"
+  },
+  "description": {
+    "en-US": "Volume 2 of the English Liturgical Year (Christmas, Book I), translated from L’Année liturgique: one chapter per day or feast, with the Latin liturgical texts beside their English. Made from the Internet Archive scan of the 1868 printing; the two-column Latin and English text is separated by script, so some lines may be misassigned.",
+    "pt-BR": "Volume 2 do «Liturgical Year» em inglês (Natal, I), traduzido de L’Année liturgique: um capítulo por dia ou festa, com os textos litúrgicos em latim ao lado do inglês."
+  },
+  "composed": "1853",
+  "languages": [
+    "en-US"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "en-US": {
+      "translator": "Rev. Dom Laurence Shepherd (Stanbrook Abbey)",
+      "year": 1868
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/liturgicalyear02gura",
+      "edition": "The Liturgical Year, Christmas, Book I, translated from the French of Dom Prosper Guéranger; printing of 1868 (Stanbrook Abbey / Duffy). Internet Archive scan, OCR text.",
+      "description": "Split at each day or feast heading detected in the running text; running heads and page numbers removed; the Latin and English columns of the liturgical texts, interleaved line by line in the OCR, were separated by language and set as a Latin paragraph followed by its English.",
+      "tier": "A",
+      "tierEvidence": "Guéranger (d. 1875) and the translation printed 1870-1912: public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-chapter-ii-the-mystery-of-christmas",
+      "title": {
+        "en-US": "Chapter II. the Mystery of Christmas"
+      }
+    },
+    {
+      "id": "002-chapter-iii-practice-during-christmas",
+      "title": {
+        "en-US": "Chapter III. Practice During Christmas"
+      }
+    },
+    {
+      "id": "003-chapter-iv-morning-and-night-prayers-for-christm",
+      "title": {
+        "en-US": "Chapter IV. Morning and Night Prayers for Christmas"
+      }
+    },
+    {
+      "id": "004-chapter-v-on-hearing-mass-during-the-season-of-c",
+      "title": {
+        "en-US": "Chapter V. on Hearing Mass, During the Season of Christmas"
+      }
+    },
+    {
+      "id": "005-chapter-vi-on-holy-communion-during-christmas",
+      "title": {
+        "en-US": "Chapter VI on Holy Communion During Christmas"
+      }
+    },
+    {
+      "id": "006-chapter-vii-of-the-office-of-vespees-for-sundays",
+      "title": {
+        "en-US": "Chapter VII. of the Office of Vespees for Sundays and Feasts ; During Christmas"
+      }
+    },
+    {
+      "id": "007-sunday-s-vespees",
+      "title": {
+        "en-US": "Sunday S Vespees"
+      }
+    },
+    {
+      "id": "008-christmas-day-afternoon-of-the-eve",
+      "title": {
+        "en-US": "Christmas Day: Afternoon of the Eve"
+      }
+    },
+    {
+      "id": "009-january-1-christmas-day-the-hour-before-matins",
+      "title": {
+        "en-US": "January 1 — Christmas Day : the Hour before Matins"
+      }
+    },
+    {
+      "id": "010-january-1-christmas-day-midnight-mass",
+      "title": {
+        "en-US": "January 1 — Christmas Day: Midnight Mass"
+      }
+    },
+    {
+      "id": "011-january-1-christmas-day-lauds",
+      "title": {
+        "en-US": "January 1 — Christmas Day: Lauds"
+      }
+    },
+    {
+      "id": "012-january-1-christmas-day-second-mass",
+      "title": {
+        "en-US": "January 1 — Christmas Day: Second Mass"
+      }
+    },
+    {
+      "id": "013-january-1-christmas-day-early-morning",
+      "title": {
+        "en-US": "January 1 — Christmas Day : Early Morning"
+      }
+    },
+    {
+      "id": "014-january-1-christmas-day-third-mass",
+      "title": {
+        "en-US": "January 1 — Christmas Day: Third Mass"
+      }
+    },
+    {
+      "id": "015-december-26-saint-stephen",
+      "title": {
+        "en-US": "December 26 — Saint Stephen"
+      }
+    },
+    {
+      "id": "016-holy-innocents",
+      "title": {
+        "en-US": "Holy Innocents"
+      }
+    },
+    {
+      "id": "017-december-29-saint-thomas-of-canterbury",
+      "title": {
+        "en-US": "December 29 — Saint Thomas of Canterbury"
+      }
+    },
+    {
+      "id": "018-sunday-within-the-octave-of-christmas-or-the-six",
+      "title": {
+        "en-US": "Sunday Within the Octave of Christmas, or the Sixth Day Within the Octave"
+      }
+    },
+    {
+      "id": "019-december-30-saint-sylvester",
+      "title": {
+        "en-US": "December 30 — Saint Sylvester"
+      }
+    },
+    {
+      "id": "020-january-1-the-circumcision",
+      "title": {
+        "en-US": "January 1 — The Circumcision"
+      }
+    },
+    {
+      "id": "021-octave-of-saint-stephen",
+      "title": {
+        "en-US": "Octave of Saint Stephen"
+      }
+    },
+    {
+      "id": "022-octave-of-saint-thomas-of-canterbury",
+      "title": {
+        "en-US": "Octave of Saint Thomas of Canterbury"
+      }
+    },
+    {
+      "id": "023-january-5-saint-telesphorus-pope-and-martyr",
+      "title": {
+        "en-US": "January 5 — Saint Telesphorus, Pope and Martyr"
+      }
+    },
+    {
+      "id": "024-vigil-of-the-epiphany",
+      "title": {
+        "en-US": "Vigil of the Epiphany"
+      }
+    }
+  ]
+}
