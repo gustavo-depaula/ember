@@ -5,5 +5,181 @@
   },
   "matches": [
     "Miscellaneous"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "The earliest church order and the earliest martyr record.",
+        "pt-BR": "A mais antiga ordem eclesiástica e o mais antigo relato de martírio."
+      },
+      "works": [
+        {
+          "work": "miscellaneous-didache",
+          "why": {
+            "en-US": "The Didache, a church order from about 100",
+            "pt-BR": "A Didaqué, ordem eclesiástica de cerca de 100"
+          }
+        },
+        {
+          "work": "miscellaneous-passion-of-the-scillitan-martyrs",
+          "why": {
+            "en-US": "The Scillitan martyrs, c. 180, in a few paragraphs",
+            "pt-BR": "Os mártires de Scilli, c. 180, em poucos parágrafos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Church order and canon law",
+        "pt-BR": "Ordem eclesiástica e direito canônico"
+      },
+      "works": [
+        {
+          "work": "miscellaneous-apostolic-constitutions",
+          "why": {
+            "en-US": "The Apostolic Constitutions, c. 400",
+            "pt-BR": "As Constituições Apostólicas, c. 400"
+          }
+        },
+        {
+          "work": "miscellaneous-apostolic-constitutions-book-viii-chapter-47",
+          "why": {
+            "en-US": "Apostolic Constitutions, Book VIII, chapter 47",
+            "pt-BR": "Constituições Apostólicas, Livro VIII, capítulo 47"
+          }
+        },
+        {
+          "work": "miscellaneous-teaching-of-the-apostles",
+          "why": {
+            "en-US": "The Teaching of the Apostles",
+            "pt-BR": "O Ensinamento dos Apóstolos"
+          }
+        },
+        {
+          "work": "miscellaneous-false-decretals",
+          "why": {
+            "en-US": "The False Decretals, c. 850",
+            "pt-BR": "As Falsas Decretais, c. 850"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Baptism and Novatian",
+        "pt-BR": "Batismo e Novaciano"
+      },
+      "note": {
+        "en-US": "Two treatises of about 255.",
+        "pt-BR": "Dois tratados de cerca de 255."
+      },
+      "works": [
+        {
+          "work": "miscellaneous-treatise-on-re-baptism",
+          "why": {
+            "en-US": "A treatise on re-baptism, c. 255",
+            "pt-BR": "Tratado sobre o rebatismo, c. 255"
+          }
+        },
+        {
+          "work": "miscellaneous-treatise-against-the-heretic-novatian",
+          "why": {
+            "en-US": "A treatise against the heretic Novatian, c. 255",
+            "pt-BR": "Tratado contra o herege Novaciano, c. 255"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Syriac martyrs and acts",
+        "pt-BR": "Mártires e atos siríacos"
+      },
+      "works": [
+        {
+          "work": "miscellaneous-martyrdom-of-habib-the-deacon",
+          "why": {
+            "en-US": "Martyrdom of Habib the Deacon",
+            "pt-BR": "Martírio do diácono Habib"
+          }
+        },
+        {
+          "work": "miscellaneous-martyrdom-of-the-holy-confessors-shamuna-guria-and-habib",
+          "why": {
+            "en-US": "Martyrdom of the confessors Shamuna, Guria and Habib",
+            "pt-BR": "Martírio dos confessores Shamuna, Guria e Habib"
+          }
+        },
+        {
+          "work": "miscellaneous-martyrdom-of-barsamya",
+          "why": {
+            "en-US": "The Martyrdom of Barsamya",
+            "pt-BR": "O martírio de Barsamya"
+          }
+        },
+        {
+          "work": "miscellaneous-acts-of-sharbil",
+          "why": {
+            "en-US": "The Acts of Sharbil",
+            "pt-BR": "Os Atos de Sharbil"
+          }
+        },
+        {
+          "work": "miscellaneous-extracts-from-various-books-concerning-abgar-the-king-and-addaeus-",
+          "why": {
+            "en-US": "Extracts concerning King Abgar and the apostle Addaeus",
+            "pt-BR": "Extratos sobre o rei Abgar e o apóstolo Addai"
+          }
+        },
+        {
+          "work": "miscellaneous-teaching-of-simon-cephas-in-the-city-of-rome",
+          "why": {
+            "en-US": "The Teaching of Simon Cephas in Rome",
+            "pt-BR": "O Ensinamento de Simão Cefas em Roma"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Letters, legend and fragments",
+        "pt-BR": "Cartas, lenda e fragmentos"
+      },
+      "works": [
+        {
+          "work": "miscellaneous-legend-of-barlaam-and-josaphat",
+          "why": {
+            "en-US": "The legend of Barlaam and Josaphat",
+            "pt-BR": "A lenda de Barlaão e Josafá"
+          }
+        },
+        {
+          "work": "miscellaneous-letter-of-mara-son-of-serapion",
+          "why": {
+            "en-US": "A letter of Mara, son of Serapion",
+            "pt-BR": "Carta de Mara, filho de Serapião"
+          }
+        },
+        {
+          "work": "miscellaneous-ambrose",
+          "why": {
+            "en-US": "A short piece titled Ambrose",
+            "pt-BR": "Breve texto intitulado Ambrósio"
+          }
+        },
+        {
+          "work": "miscellaneous-remains-of-the-second-and-third-centuries",
+          "why": {
+            "en-US": "Remains of the second and third centuries",
+            "pt-BR": "Restos dos séculos II e III"
+          }
+        }
+      ]
+    }
   ]
 }
