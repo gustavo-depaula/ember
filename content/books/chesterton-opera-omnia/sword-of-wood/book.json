@@ -1,0 +1,45 @@
+{
+  "id": "chesterton-sword-of-wood",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Sword of Wood",
+    "pt-BR": "A Espada de Madeira"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "A short fantastic tale from 1928, in which the sword of a boy's game and the sword of a knight prove to be, for a moment, the same thing.",
+    "pt-BR": "Um breve conto fantástico de 1928, em que a espada de brinquedo de um menino e a espada de um cavaleiro se mostram, por um instante, a mesma coisa."
+  },
+  "composed": "1928",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/sword-of-wood",
+  "editions": {
+    "en-US": {
+      "editor": "E. Mathews & Marrot",
+      "year": 1928
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.net.au/ebooks09/0900731h.html",
+      "edition": "The Sword of Wood (E. Mathews & Marrot, 1928), Project Gutenberg Australia, ebooks09/0900731h.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain in Brazil, the UK and the EU (Chesterton died in 1936). Published in 1928; text taken from Project Gutenberg Australia, which carries it under Australian law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-sword-of-wood",
+      "title": {
+        "en-US": "The Sword of Wood"
+      }
+    }
+  ]
+}
