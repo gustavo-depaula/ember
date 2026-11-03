@@ -1,0 +1,58 @@
+{
+  "id": "pazzi-works-fabrini-isoleri",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The Works of St. Mary Magdalen de-Pazzi (Fabrini, Part II)",
+    "pt-BR": "As obras de Santa Maria Madalena de Pazzi (Fabrini, Parte II)"
+  },
+  "author": {
+    "it": "Santa Maria Maddalena de' Pazzi",
+    "en-US": "St. Mary Magdalene de' Pazzi",
+    "pt-BR": "Santa Maria Madalena de Pazzi"
+  },
+  "description": {
+    "en-US": "Part II of Placido Fabrini's Life of the saint in Antony Isoleri's English (Philadelphia, 1900): a thematic anthology of her ecstatic contemplations on the mysteries of faith (25 pieces), her moral doctrine on the virtues and religious perfection (16 pieces), and her maxims and letters. It is arranged by theme from Puccini's collection, not in the order of the manuscript books, so it is a separate book of the same work as her Italian Tutte le opere.",
+    "pt-BR": "A Parte II da Vida da santa, de Placido Fabrini, na versão inglesa de Antony Isoleri (Filadélfia, 1900): antologia temática de suas contemplações extáticas, de sua doutrina moral e de seus ditos e cartas."
+  },
+  "composed": "1584-1607",
+  "languages": [
+    "en-US"
+  ],
+  "work": "mary-magdalene-de-pazzi/tutte-le-opere",
+  "editions": {
+    "en-US": {
+      "translator": "Antony Isoleri",
+      "year": 1900
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/lifeofstmarymagd00fabr",
+      "edition": "The Life of St. Mary Magdalen De-Pazzi, Florentine Noble, Sacred Carmelite Virgin, by Placido Fabrini, tr. Antony Isoleri (Philadelphia, 1900), Part II: The Works.",
+      "description": "Internet Archive full-text OCR, Part II only (the Life, the appendix of miracles and the prayers are dropped). Running heads, page numbers and the translator's footnotes are dropped; paragraph breaks are rebuilt from short lines, so some run together. Pieces I-XXV and I-XVI are the printed numbers; piece XIII of the first section is merged into XII (its numeral was lost in the OCR). The letters of the third section are not divided by addressee.",
+      "tier": "A",
+      "tierEvidence": "Published in Philadelphia in 1900."
+    }
+  ],
+  "toc": [
+    {
+      "id": "first-section",
+      "title": {
+        "en-US": "First Section: Contemplations on the Principal Mysteries of Faith, the Humanity of Christ and the Divine Attributes"
+      }
+    },
+    {
+      "id": "second-section",
+      "title": {
+        "en-US": "Second Section: Moral Doctrines on Divers Virtues, and Chiefly Religious Perfection"
+      }
+    },
+    {
+      "id": "third-section",
+      "title": {
+        "en-US": "Third Section: Maxims and Exclamations of the Saint, and Her Letters"
+      }
+    }
+  ]
+}
