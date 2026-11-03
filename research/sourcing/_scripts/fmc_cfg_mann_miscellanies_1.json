@@ -1,0 +1,90 @@
+{
+ "id": "manning-miscellanies-1",
+ "dir": "manning-opera-omnia/miscellanies-1",
+ "slug": "miscellanies-1",
+ "work": "manning/miscellanies",
+ "name": "Miscellanies, I",
+ "name_pt": "Miscel\u00e2nea, I",
+ "author": "Cardinal Henry Edward Manning",
+ "author_pt": "Cardeal Henry Edward Manning",
+ "died": 1892,
+ "desc": "Miscellanies, volume I (1877): essays and addresses of 1863-72: Roma Aeterna, the work and wants of the Catholic Church in England, Father Faber, Cardinal Wiseman, Garibaldi's visit, French infidelity, Ireland, on progress, and the Daemon of Socrates.",
+ "desc_pt": "Miscel\u00e2nea, volume I (1877): ensaios e discursos de 1863-72: Roma Aeterna, a obra e as necessidades da Igreja Cat\u00f3lica na Inglaterra, o Padre Faber, o Cardeal Wiseman, a visita de Garibaldi, a incredulidade francesa, a Irlanda, sobre o progresso e o dem\u00f4nio de S\u00f3crates.",
+ "composed": 1877,
+ "editor": "Henry Edward Manning (London: Burns and Oates, 1877)",
+ "year": 1877,
+ "url": "https://archive.org/details/miscellanies01mannuoft",
+ "edition": "Miscellanies (vol. 1) (London: Burns and Oates, 1877), Internet Archive full-text OCR.",
+ "srcnote": "The essays, lectures and addresses in order; the contents, the publisher's list and the index are dropped.",
+ "src": "manning/ia/miscellanies01mannuoft_djvu.txt",
+ "start": 181,
+ "end": 13128,
+ "fn": true,
+ "back": [],
+ "front": [],
+ "label": {},
+ "romanheads": false,
+ "inline": [],
+ "units": [
+  {
+   "id": "essay-1",
+   "title": "I. Roma Eterna",
+   "from": 181
+  },
+  {
+   "id": "essay-2",
+   "title": "II. The Work and the Wants of the Catholic Church in England",
+   "from": 868
+  },
+  {
+   "id": "essay-3",
+   "title": "III. On the Subjects Proper to the Academia",
+   "from": 2513
+  },
+  {
+   "id": "essay-4",
+   "title": "IV. Father Faber",
+   "from": 3833
+  },
+  {
+   "id": "essay-5",
+   "title": "V. The Visit of Garibaldi to England",
+   "from": 4135
+  },
+  {
+   "id": "essay-6",
+   "title": "VI. Cardinal Wiseman",
+   "from": 5016
+  },
+  {
+   "id": "essay-7",
+   "title": "VII. Inaugural Address",
+   "from": 5743
+  },
+  {
+   "id": "essay-8",
+   "title": "VIII. French Infidelity",
+   "from": 6493
+  },
+  {
+   "id": "essay-9",
+   "title": "IX. Ireland",
+   "from": 7049
+  },
+  {
+   "id": "essay-10",
+   "title": "X. Inaugural Address",
+   "from": 8648
+  },
+  {
+   "id": "essay-11",
+   "title": "XI. On Progress",
+   "from": 9879
+  },
+  {
+   "id": "essay-12",
+   "title": "XII. The Daemon of Socrates",
+   "from": 10918
+  }
+ ]
+}

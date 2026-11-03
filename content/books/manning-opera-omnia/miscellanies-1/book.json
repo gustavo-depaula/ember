@@ -1,0 +1,111 @@
+{
+  "id": "manning-miscellanies-1",
+  "cover": "classic",
+  "name": {
+    "en-US": "Miscellanies, I",
+    "pt-BR": "Miscelânea, I"
+  },
+  "author": {
+    "en-US": "Cardinal Henry Edward Manning",
+    "pt-BR": "Cardeal Henry Edward Manning"
+  },
+  "description": {
+    "en-US": "Miscellanies, volume I (1877): essays and addresses of 1863-72: Roma Aeterna, the work and wants of the Catholic Church in England, Father Faber, Cardinal Wiseman, Garibaldi's visit, French infidelity, Ireland, on progress, and the Daemon of Socrates.",
+    "pt-BR": "Miscelânea, volume I (1877): ensaios e discursos de 1863-72: Roma Aeterna, a obra e as necessidades da Igreja Católica na Inglaterra, o Padre Faber, o Cardeal Wiseman, a visita de Garibaldi, a incredulidade francesa, a Irlanda, sobre o progresso e o demônio de Sócrates."
+  },
+  "composed": 1877,
+  "languages": [
+    "en-US"
+  ],
+  "work": "manning/miscellanies",
+  "editions": {
+    "en-US": {
+      "editor": "Henry Edward Manning (London: Burns and Oates, 1877)",
+      "year": 1877
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/miscellanies01mannuoft",
+      "edition": "Miscellanies (vol. 1) (London: Burns and Oates, 1877), Internet Archive full-text OCR.",
+      "description": "The essays, lectures and addresses in order; the contents, the publisher's list and the index are dropped. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Cardinal Henry Edward Manning died in 1892 and the edition is of 1877, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "essay-1",
+      "title": {
+        "en-US": "I. Roma Eterna"
+      }
+    },
+    {
+      "id": "essay-2",
+      "title": {
+        "en-US": "II. The Work and the Wants of the Catholic Church in England"
+      }
+    },
+    {
+      "id": "essay-3",
+      "title": {
+        "en-US": "III. On the Subjects Proper to the Academia"
+      }
+    },
+    {
+      "id": "essay-4",
+      "title": {
+        "en-US": "IV. Father Faber"
+      }
+    },
+    {
+      "id": "essay-5",
+      "title": {
+        "en-US": "V. The Visit of Garibaldi to England"
+      }
+    },
+    {
+      "id": "essay-6",
+      "title": {
+        "en-US": "VI. Cardinal Wiseman"
+      }
+    },
+    {
+      "id": "essay-7",
+      "title": {
+        "en-US": "VII. Inaugural Address"
+      }
+    },
+    {
+      "id": "essay-8",
+      "title": {
+        "en-US": "VIII. French Infidelity"
+      }
+    },
+    {
+      "id": "essay-9",
+      "title": {
+        "en-US": "IX. Ireland"
+      }
+    },
+    {
+      "id": "essay-10",
+      "title": {
+        "en-US": "X. Inaugural Address"
+      }
+    },
+    {
+      "id": "essay-11",
+      "title": {
+        "en-US": "XI. On Progress"
+      }
+    },
+    {
+      "id": "essay-12",
+      "title": {
+        "en-US": "XII. The Daemon of Socrates"
+      }
+    }
+  ]
+}
