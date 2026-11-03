@@ -8,5 +8,282 @@
   "matches": [
     "St. Francis of Sales",
     "St. Francis de Sales"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "His two classics: living devotion in the world, then the love of God.",
+        "pt-BR": "Seus dois clássicos: viver a devoção no mundo e depois o amor de Deus."
+      },
+      "works": [
+        {
+          "work": "francis-de-sales/introduction",
+          "why": {
+            "en-US": "His guide to devout life for lay people, still his best-loved",
+            "pt-BR": "Seu guia da vida devota para leigos, ainda o mais amado"
+          }
+        },
+        {
+          "work": "francis-de-sales/traite-amour-de-dieu",
+          "why": {
+            "en-US": "His great treatise on the love of God, written to Theotimus",
+            "pt-BR": "Seu grande tratado do amor de Deus, escrito a Teótimo"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Conferences and spiritual direction",
+        "pt-BR": "Conferências e direção espiritual"
+      },
+      "note": {
+        "en-US": "Francis speaking and writing to those he guided.",
+        "pt-BR": "Francisco falando e escrevendo a quem ele conduzia."
+      },
+      "works": [
+        {
+          "work": "francis-de-sales/entretiens-spirituels",
+          "why": {
+            "en-US": "Conferences to the Visitation sisters, in his own voice",
+            "pt-BR": "Conferências às irmãs da Visitação, na voz do próprio santo"
+          }
+        },
+        {
+          "work": "francis-de-sales/lettres-spirituelles-lear",
+          "why": {
+            "en-US": "About 150 letters of direction, a gentle first selection",
+            "pt-BR": "Cerca de 150 cartas de direção, uma seleção acessível"
+          }
+        },
+        {
+          "work": "francis-de-sales/lettres-spirituelles-monde",
+          "why": {
+            "en-US": "Letters to lay people in every state of life",
+            "pt-BR": "Cartas a leigos em todos os estados de vida"
+          }
+        },
+        {
+          "work": "francis-de-sales/lettres-spirituelles-religion",
+          "why": {
+            "en-US": "Letters to religious, in six books",
+            "pt-BR": "Cartas a religiosos, em seis livros"
+          }
+        },
+        {
+          "work": "francis-de-sales/explication-mystique-du-cantique",
+          "why": {
+            "en-US": "Six discourses on the Song of Songs",
+            "pt-BR": "Seis discursos sobre o Cântico dos Cânticos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Controversy with the Calvinists",
+        "pt-BR": "Controvérsia com os calvinistas"
+      },
+      "note": {
+        "en-US": "Written to win back the people of the Chablais.",
+        "pt-BR": "Escritos para reconquistar o povo do Chablais."
+      },
+      "works": [
+        {
+          "work": "francis-de-sales/controverses",
+          "why": {
+            "en-US": "The tracts to the Chablais, in French and in English",
+            "pt-BR": "Os folhetos ao Chablais, em francês e em inglês"
+          }
+        },
+        {
+          "work": "francis-de-sales/estendart-de-la-croix",
+          "why": {
+            "en-US": "A four-book defence of the veneration of the Cross",
+            "pt-BR": "Defesa em quatro livros da veneração da Cruz"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Sermons",
+        "pt-BR": "Sermões"
+      },
+      "note": {
+        "en-US": "Four volumes of the Annecy edition, in its order.",
+        "pt-BR": "Quatro volumes da edição de Annecy, em sua ordem."
+      },
+      "works": [
+        {
+          "work": "francis-de-sales/sermons-vii",
+          "why": {
+            "en-US": "Sermons of 1593-1602, the first volume",
+            "pt-BR": "Sermões de 1593-1602, o primeiro volume"
+          }
+        },
+        {
+          "work": "francis-de-sales/sermons-viii",
+          "why": {
+            "en-US": "The second volume of sermons",
+            "pt-BR": "O segundo volume de sermões"
+          }
+        },
+        {
+          "work": "francis-de-sales/sermons-ix",
+          "why": {
+            "en-US": "The third volume of sermons",
+            "pt-BR": "O terceiro volume de sermões"
+          }
+        },
+        {
+          "work": "francis-de-sales/sermons-x",
+          "why": {
+            "en-US": "The fourth volume of sermons",
+            "pt-BR": "O quarto volume de sermões"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Complete letters",
+        "pt-BR": "Cartas completas"
+      },
+      "note": {
+        "en-US": "The Annecy edition's letters, in order of date.",
+        "pt-BR": "As cartas da edição de Annecy, em ordem de data."
+      },
+      "works": [
+        {
+          "work": "francis-de-sales/lettres-xi",
+          "why": {
+            "en-US": "The Annecy letters of 1590-1598",
+            "pt-BR": "As cartas da edição de Annecy de 1590-1598"
+          }
+        },
+        {
+          "work": "francis-de-sales/lettres-xii",
+          "why": {
+            "en-US": "The Annecy letters of 1599-1604",
+            "pt-BR": "As cartas da edição de Annecy de 1599-1604"
+          }
+        },
+        {
+          "work": "francis-de-sales/lettres-xiii",
+          "why": {
+            "en-US": "The Annecy letters of 1605-1607",
+            "pt-BR": "As cartas da edição de Annecy de 1605-1607"
+          }
+        },
+        {
+          "work": "francis-de-sales/lettres-xiv",
+          "why": {
+            "en-US": "The Annecy letters of 1608-1610",
+            "pt-BR": "As cartas da edição de Annecy de 1608-1610"
+          }
+        },
+        {
+          "work": "francis-de-sales/lettres-xv",
+          "why": {
+            "en-US": "The Annecy letters of 1611-1613",
+            "pt-BR": "As cartas da edição de Annecy de 1611-1613"
+          }
+        },
+        {
+          "work": "francis-de-sales/lettres-xvi",
+          "why": {
+            "en-US": "The Annecy letters of 1613-1614",
+            "pt-BR": "As cartas da edição de Annecy de 1613-1614"
+          }
+        },
+        {
+          "work": "francis-de-sales/lettres-xvii",
+          "why": {
+            "en-US": "The Annecy letters of 1615-1617",
+            "pt-BR": "As cartas da edição de Annecy de 1615-1617"
+          }
+        },
+        {
+          "work": "francis-de-sales/lettres-xviii",
+          "why": {
+            "en-US": "The Annecy letters of 1617-1619",
+            "pt-BR": "As cartas da edição de Annecy de 1617-1619"
+          }
+        },
+        {
+          "work": "francis-de-sales/lettres-xix",
+          "why": {
+            "en-US": "The Annecy letters of 1619-1620",
+            "pt-BR": "As cartas da edição de Annecy de 1619-1620"
+          }
+        },
+        {
+          "work": "francis-de-sales/lettres-xx",
+          "why": {
+            "en-US": "The Annecy letters of 1621",
+            "pt-BR": "As cartas da edição de Annecy de 1621"
+          }
+        },
+        {
+          "work": "francis-de-sales/lettres-xxi",
+          "why": {
+            "en-US": "The Annecy edition's last letters and supplement",
+            "pt-BR": "As últimas cartas e o suplemento da edição de Annecy"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Opuscules",
+        "pt-BR": "Opúsculos"
+      },
+      "note": {
+        "en-US": "Shorter writings, from his student notes to the Visitation rules.",
+        "pt-BR": "Escritos menores, das notas de estudante às regras da Visitação."
+      },
+      "works": [
+        {
+          "work": "francis-de-sales/opuscules-xxvi",
+          "why": {
+            "en-US": "Asceticism and mysticism, with counsels to superiors",
+            "pt-BR": "Ascese e mística, com conselhos aos superiores"
+          }
+        },
+        {
+          "work": "francis-de-sales/opuscules-xxv",
+          "why": {
+            "en-US": "The Visitation series: Constitutions and Directory",
+            "pt-BR": "A série da Visitação: Constituições e Diretório"
+          }
+        },
+        {
+          "work": "francis-de-sales/opuscules-xxii",
+          "why": {
+            "en-US": "Studies and inner life: the Padua spiritual exercises",
+            "pt-BR": "Estudos e vida interior: os exercícios espirituais de Pádua"
+          }
+        },
+        {
+          "work": "francis-de-sales/opuscules-xxiii",
+          "why": {
+            "en-US": "Controversy fragments and the brief Creed meditation",
+            "pt-BR": "Fragmentos de controvérsia e a breve meditação sobre o Credo"
+          }
+        },
+        {
+          "work": "francis-de-sales/opuscules-xxiv",
+          "why": {
+            "en-US": "Episcopal administration: ordinances and synods",
+            "pt-BR": "Administração episcopal: ordenações e sínodos"
+          }
+        }
+      ]
+    }
   ]
 }
