@@ -1,0 +1,765 @@
+{
+  "id": "garrigou-de-deo-uno",
+  "cover": "quarter",
+  "name": {
+    "la": "De Deo uno: commentarium in Summam theologicam S. Thomae (I, qq. 1-26)",
+    "en-US": "On the One God (Latin): commentary on the Summa I, qq. 1-26",
+    "pt-BR": "De Deo uno (latim): comentário à Suma I, qq. 1-26"
+  },
+  "author": {
+    "la": "Reginaldus Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "description": {
+    "la": "Commentarium in primam partem Summae theologicae, quaestiones 1-26 : de sacra doctrina, de existentia Dei, de Dei attributis.",
+    "en-US": "The Latin commentary on the Summa theologiae I, qq. 1-26: sacred doctrine, the existence of God and His attributes.",
+    "pt-BR": "O comentário latino à Suma teológica I, qq. 1-26: a doutrina sagrada, a existência de Deus e seus atributos."
+  },
+  "composed": "1938",
+  "work": "garrigou-lagrange/de-deo-uno",
+  "editions": {
+    "la": {
+      "editor": "Garrigou-Lagrange (Marietti, Turin / Desclée)",
+      "year": 1938
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/GarrigouLagrangeLatin",
+      "edition": "De Deo uno: commentarium in Summam theologicam S. Thomae (I, qq. 1-26), archive.org GarrigouLagrangeLatin, OCR text; divided by the Summa’s articles (\"Art. N — Utrum …\") found in the OCR, the indexes left out"
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "prolegomena",
+      "title": {
+        "la": "Prolegomena"
+      }
+    },
+    {
+      "id": "q1",
+      "title": {
+        "la": "Sectio 1"
+      },
+      "children": [
+        {
+          "id": "q1-a1",
+          "title": {
+            "la": "Sectio 1, art. 1: Utrum sacra doctrina sit scientia"
+          }
+        },
+        {
+          "id": "q1-a2",
+          "title": {
+            "la": "Sectio 1, art. 2: Utrum saera doetrina sit una seientia"
+          }
+        },
+        {
+          "id": "q1-a3",
+          "title": {
+            "la": "Sectio 1, art. 3: Utruin sacra doctrina sit seientia pracfcica"
+          }
+        },
+        {
+          "id": "q1-a4",
+          "title": {
+            "la": "Sectio 1, art. 4: Utrum saera dectrina sit diguior aliis sfcientUs*"
+          }
+        },
+        {
+          "id": "q1-a5",
+          "title": {
+            "la": "Sectio 1, art. 5: Utrum Sacra Theologia sit sapientia"
+          }
+        },
+        {
+          "id": "q1-a6",
+          "title": {
+            "la": "Sectio 1, art. 6: Utrum Deus sit subjectum hnjus scientiae"
+          }
+        },
+        {
+          "id": "q1-a7",
+          "title": {
+            "la": "Sectio 1, art. 7: Utrum Mm Th^ologia slt argnmentativa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "title": {
+        "la": "Sectio 2"
+      },
+      "children": [
+        {
+          "id": "q2-a1",
+          "title": {
+            "la": "Sectio 2, art. 1: Utrum Deum esse sit per se notunu"
+          }
+        },
+        {
+          "id": "q2-a2",
+          "title": {
+            "la": "Sectio 2, art. 2: Utrum Deum esse sit demonskabile"
+          }
+        },
+        {
+          "id": "q2-a3",
+          "title": {
+            "la": "Sectio 2, art. 3: Utrum Deus fife"
+          }
+        },
+        {
+          "id": "q2-a4",
+          "title": {
+            "la": "Sectio 2, art. 4: Utrum sit ide:"
+          }
+        },
+        {
+          "id": "q2-a5",
+          "title": {
+            "la": "Sectio 2, art. 5: Utrum Deus sit in genere aliquo"
+          }
+        },
+        {
+          "id": "q2-a6",
+          "title": {
+            "la": "Sectio 2, art. 6: Utmm in Deo sint aliqna accidenfe"
+          }
+        },
+        {
+          "id": "q2-a7",
+          "title": {
+            "la": "Sectio 2, art. 7: Utrum Deus sit omnino simplex"
+          }
+        },
+        {
+          "id": "q2-a8",
+          "title": {
+            "la": "Sectio 2, art. 8: Utrum Deus in compositionem aliorum veniat"
+          }
+        },
+        {
+          "id": "q2-a9",
+          "title": {
+            "la": "Sectio 2, art. 9: Utrum aliqua cre&tura sit similis Beo"
+          }
+        },
+        {
+          "id": "q2-a10",
+          "title": {
+            "la": "Sectio 2, art. 10: Utrum bonum secundum rationem sit prius quam ens"
+          }
+        },
+        {
+          "id": "q2-a11",
+          "title": {
+            "la": "Sectio 2, art. 11: Utrum omne ©ns sit bonum"
+          }
+        },
+        {
+          "id": "q2-a12",
+          "title": {
+            "la": "Sectio 2, art. 12: Utrum foomam habeat ratioueni"
+          }
+        },
+        {
+          "id": "q2-a13",
+          "title": {
+            "la": "Sectio 2, art. 13: Utrum ratio boni consistat in modo, specie et ordine*"
+          }
+        },
+        {
+          "id": "q2-a14",
+          "title": {
+            "la": "Sectio 2, art. 14: Utrum esse oonum Deo conveniat,"
+          }
+        },
+        {
+          "id": "q2-a15",
+          "title": {
+            "la": "Sectio 2, art. 15: Utrum Dms sit summuna fooiHim*"
+          }
+        },
+        {
+          "id": "q2-a16",
+          "title": {
+            "la": "Sectio 2, art. 16: Utrum esse bonum per essentiam iit proprium Dei*"
+          }
+        },
+        {
+          "id": "q2-a17",
+          "title": {
+            "la": "Sectio 2, art. 17: Utrum omnia sint bona bonitate divina"
+          }
+        },
+        {
+          "id": "q2-a18",
+          "title": {
+            "la": "Sectio 2, art. 18: Utrum aUquid aliud quam Deus possit esse inflnitum"
+          }
+        },
+        {
+          "id": "q2-a19",
+          "title": {
+            "la": "Sectio 2, art. 19: Utmm possii esse aliquid infinitum sceundum"
+          }
+        },
+        {
+          "id": "q2-a20",
+          "title": {
+            "la": "Sectio 2, art. 20: Utmm possit esse mflnitum in rebus seeimdum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "title": {
+        "la": "Sectio 3"
+      },
+      "children": [
+        {
+          "id": "q3-a1",
+          "title": {
+            "la": "Sectio 3, art. 1: Utrum Deus sit in omnibus rebus"
+          }
+        },
+        {
+          "id": "q3-a2",
+          "title": {
+            "la": "Sectio 3, art. 2: Ufcrum De s sit Hfeique"
+          }
+        },
+        {
+          "id": "q3-a3",
+          "title": {
+            "la": "Sectio 3, art. 3: Utrum Deus sit ubique per esseHtiam^ praesentiaifi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "title": {
+        "la": "Sectio 4"
+      },
+      "children": [
+        {
+          "id": "q4-a1",
+          "title": {
+            "la": "Sectio 4, art. 1: Utrum Deus sit omnino immutabilis"
+          }
+        },
+        {
+          "id": "q4-a2",
+          "title": {
+            "la": "Sectio 4, art. 2: Utrum esse immutabile sit Dei proprium"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "title": {
+        "la": "Sectio 5"
+      },
+      "children": [
+        {
+          "id": "q5-a1",
+          "title": {
+            "la": "Sectio 5, art. 1: Utram emvenlenter delbiiatur aete^nitas :"
+          }
+        },
+        {
+          "id": "q5-a2",
+          "title": {
+            "la": "Sectio 5, art. 2: Utrum aeternitas differat a tempore"
+          }
+        },
+        {
+          "id": "q5-a3",
+          "title": {
+            "la": "Sectio 5, art. 3: De differentia aevi et temporis"
+          }
+        },
+        {
+          "id": "q5-a4",
+          "title": {
+            "la": "Sectio 5, art. 4: Utrum sit unum aevum tanturn,"
+          }
+        },
+        {
+          "id": "q5-a5",
+          "title": {
+            "la": "Sectio 5, art. 5: Utrum unum et multa opponanturo"
+          }
+        },
+        {
+          "id": "q5-a6",
+          "title": {
+            "la": "Sectio 5, art. 6: Utrura Deus sit unus"
+          }
+        },
+        {
+          "id": "q5-a7",
+          "title": {
+            "la": "Sectio 5, art. 7: Utruira Deus sit maxime unus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "title": {
+        "la": "Sectio 6"
+      },
+      "children": [
+        {
+          "id": "q6-a1",
+          "title": {
+            "la": "Sectio 6, art. 1: Utrum aliquis intellectus creatus possit Beum videre"
+          }
+        },
+        {
+          "id": "q6-a2",
+          "title": {
+            "la": "Sectio 6, art. 2: Utrum essenti® Dei videri possit oeulis eorporalibus*"
+          }
+        },
+        {
+          "id": "q6-a3",
+          "title": {
+            "la": "Sectio 6, art. 3: Utram aliquis inteUectus creatus per sua naturalia"
+          }
+        },
+        {
+          "id": "q6-a4",
+          "title": {
+            "la": "Sectio 6, art. 4: Utrum intelleetus creatus^ad videndam Dei essentiam"
+          }
+        },
+        {
+          "id": "q6-a5",
+          "title": {
+            "la": "Sectio 6, art. 5: Utrum videntium essentiam Dei unus alio perfectius"
+          }
+        },
+        {
+          "id": "q6-a6",
+          "title": {
+            "la": "Sectio 6, art. 6: Utrum videntes Beum per essentiam ipsum"
+          }
+        },
+        {
+          "id": "q6-a7",
+          "title": {
+            "la": "Sectio 6, art. 7: utram aliquis m hae vita possit videre Deum per"
+          }
+        },
+        {
+          "id": "q6-a8",
+          "title": {
+            "la": "Sectio 6, art. 8: Utram per gratiam feabeatur altior cognitio Dei qimm"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "title": {
+        "la": "Sectio 7"
+      },
+      "children": [
+        {
+          "id": "q7-a1",
+          "title": {
+            "la": "Sectio 7, art. 1: Utrum aliquod nomen Deo conveniat"
+          }
+        },
+        {
+          "id": "q7-a2",
+          "title": {
+            "la": "Sectio 7, art. 2: Utrum aliquod nomen dicatur de Deo substantiaiiter"
+          }
+        },
+        {
+          "id": "q7-a3",
+          "title": {
+            "la": "Sectio 7, art. 3: Utrum aliquod nomen dicatur de Deo proprie*"
+          }
+        },
+        {
+          "id": "q7-a4",
+          "title": {
+            "la": "Sectio 7, art. 4: Utrum nomina dicta de Deo sint synonyma"
+          }
+        },
+        {
+          "id": "q7-a5",
+          "title": {
+            "la": "Sectio 7, art. 5: Utrum nomina per prius dicantur de creatuiis quam"
+          }
+        },
+        {
+          "id": "q7-a6",
+          "title": {
+            "la": "Sectio 7, art. 6: Utrum nomma quae important relationcm ad creaturas"
+          }
+        },
+        {
+          "id": "q7-a7",
+          "title": {
+            "la": "Sectio 7, art. 7: Utrum hoc nomen « Deus » sit communicabile"
+          }
+        },
+        {
+          "id": "q7-a8",
+          "title": {
+            "la": "Sectio 7, art. 8: Utrum hoc nomen Deus dicatur univoce de vero Deo,"
+          }
+        },
+        {
+          "id": "q7-a9",
+          "title": {
+            "la": "Sectio 7, art. 9: Utium propositiones affirmativae possint formari"
+          }
+        },
+        {
+          "id": "q7-a10",
+          "title": {
+            "la": "Sectio 7, art. 10: Utrum Beus intelllgat se"
+          }
+        },
+        {
+          "id": "q7-a11",
+          "title": {
+            "la": "Sectio 7, art. 11: Utrum Deus comprehendat seipsunu"
+          }
+        },
+        {
+          "id": "q7-a12",
+          "title": {
+            "la": "Sectio 7, art. 12: Utrum ipsum intelligere Dei sit ejus substantia"
+          }
+        },
+        {
+          "id": "q7-a13",
+          "title": {
+            "la": "Sectio 7, art. 13: Utrum Bous cognoseat alia a se propria cognitione*"
+          }
+        },
+        {
+          "id": "q7-a14",
+          "title": {
+            "la": "Sectio 7, art. 14: Utrum scientia Dei sit causa rerum*"
+          }
+        },
+        {
+          "id": "q7-a15",
+          "title": {
+            "la": "Sectio 7, art. 15: Utrum Deus habeat scicntiam non entium"
+          }
+        },
+        {
+          "id": "q7-a16",
+          "title": {
+            "la": "Sectio 7, art. 16: Utrum Deus cognoscat mala"
+          }
+        },
+        {
+          "id": "q7-a17",
+          "title": {
+            "la": "Sectio 7, art. 17: Utrum Deus cognoseat singulana"
+          }
+        },
+        {
+          "id": "q7-a18",
+          "title": {
+            "la": "Sectio 7, art. 18: Utrum Deus possit cognoscere infiiuta"
+          }
+        },
+        {
+          "id": "q7-a19",
+          "title": {
+            "la": "Sectio 7, art. 19: Utrum scientia Dei sit futurorum contingeiitium*"
+          }
+        },
+        {
+          "id": "q7-a20",
+          "title": {
+            "la": "Sectio 7, art. 20: Utruui Deus cogiioscat euuntiabilia"
+          }
+        },
+        {
+          "id": "q7-a21",
+          "title": {
+            "la": "Sectio 7, art. 21: Utrum seientia Dei sit invariabilis*"
+          }
+        },
+        {
+          "id": "q7-a22",
+          "title": {
+            "la": "Sectio 7, art. 22: Utrum Peus habeat de rebas scieuti&m speeulativam"
+          }
+        },
+        {
+          "id": "q7-a23",
+          "title": {
+            "la": "Sectio 7, art. 23: Utrum omnium quae eognoscit Deus sint ideae"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "title": {
+        "la": "Sectio 8"
+      },
+      "children": [
+        {
+          "id": "q8-a1",
+          "title": {
+            "la": "Sectio 8, art. 1: Utrum in Deo sit voluntas"
+          }
+        },
+        {
+          "id": "q8-a2",
+          "title": {
+            "la": "Sectio 8, art. 2: Utrum Deujs velit alia a se"
+          }
+        },
+        {
+          "id": "q8-a3",
+          "title": {
+            "la": "Sectio 8, art. 3: Utrum voluntas Dei sit causa rerum"
+          }
+        },
+        {
+          "id": "q8-a4",
+          "title": {
+            "la": "Sectio 8, art. 4: Utrum voluntatis divinae sit assignare aliquam otusam"
+          }
+        },
+        {
+          "id": "q8-a5",
+          "title": {
+            "la": "Sectio 8, art. 5: utrum volanias Dei semper impleatur"
+          }
+        },
+        {
+          "id": "q8-a6",
+          "title": {
+            "la": "Sectio 8, art. 6: Utrum voluntas Dei necessitatem rebus volitis imponai"
+          }
+        },
+        {
+          "id": "q8-a7",
+          "title": {
+            "la": "Sectio 8, art. 7: Utrum Deus habeat liberura arbitrium"
+          }
+        },
+        {
+          "id": "q8-a8",
+          "title": {
+            "la": "Sectio 8, art. 8: Utrum sit distinguenda in Deo voluntas signi"
+          }
+        },
+        {
+          "id": "q8-a9",
+          "title": {
+            "la": "Sectio 8, art. 9: Utrum convenienter circa divinam voluntatem"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "title": {
+        "la": "Sectio 9"
+      },
+      "children": [
+        {
+          "id": "q9-a1",
+          "title": {
+            "la": "Sectio 9, art. 1: Uferum amor sit in l)eo"
+          }
+        },
+        {
+          "id": "q9-a2",
+          "title": {
+            "la": "Sectio 9, art. 2: Utrum Deus aequaliter diligat omiiia"
+          }
+        },
+        {
+          "id": "q9-a3",
+          "title": {
+            "la": "Sectio 9, art. 3: An Dem semper magis diligat meliora"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "title": {
+        "la": "Sectio 10"
+      },
+      "children": [
+        {
+          "id": "q10-a1",
+          "title": {
+            "la": "Sectio 10, art. 1: Utrum in Deo sit jastitia-"
+          }
+        },
+        {
+          "id": "q10-a2",
+          "title": {
+            "la": "Sectio 10, art. 2: Utrain justitia Dei sit veritas"
+          }
+        },
+        {
+          "id": "q10-a3",
+          "title": {
+            "la": "Sectio 10, art. 3: Utrum misericordia competat Deo*"
+          }
+        },
+        {
+          "id": "q10-a4",
+          "title": {
+            "la": "Sectio 10, art. 4: Utrum in omnibus operibus Dei sit misericordia"
+          }
+        },
+        {
+          "id": "q10-a5",
+          "title": {
+            "la": "Sectio 10, art. 5: Utrum providentia Deo conveniat"
+          }
+        },
+        {
+          "id": "q10-a6",
+          "title": {
+            "la": "Sectio 10, art. 6: Utrum omnia slnt subjecta divinae providcntiae"
+          }
+        },
+        {
+          "id": "q10-a7",
+          "title": {
+            "la": "Sectio 10, art. 7: Utrum Deus immediate omnibus provideat"
+          }
+        },
+        {
+          "id": "q10-a8",
+          "title": {
+            "la": "Sectio 10, art. 8: Utrum jprovidemtia rebus provisis nacessitatem imponat*"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "title": {
+        "la": "Sectio 11"
+      },
+      "children": [
+        {
+          "id": "q11-a1",
+          "title": {
+            "la": "Sectio 11, art. 1: Utrum homines praedestiueiitur a Deo"
+          }
+        },
+        {
+          "id": "q11-a2",
+          "title": {
+            "la": "Sectio 11, art. 2: Utrum Deus aliquem hominem repro&et"
+          }
+        },
+        {
+          "id": "q11-a3",
+          "title": {
+            "la": "Sectio 11, art. 3: Ufrum praed€stLtttf eligantor a Deo"
+          }
+        },
+        {
+          "id": "q11-a4",
+          "title": {
+            "la": "Sectio 11, art. 4: Utrum praescienfla meritorum sit eauss praedestinattoms"
+          }
+        },
+        {
+          "id": "q11-a5",
+          "title": {
+            "la": "Sectio 11, art. 5: Utrum numerus praedestiuatorum sit certus,"
+          }
+        },
+        {
+          "id": "q11-a6",
+          "title": {
+            "la": "Sectio 11, art. 6: utrum praedestinatio posait juvari precibas"
+          }
+        },
+        {
+          "id": "q11-a7",
+          "title": {
+            "la": "Sectio 11, art. 7: Utrum in Deo sit potentia,"
+          }
+        },
+        {
+          "id": "q11-a8",
+          "title": {
+            "la": "Sectio 11, art. 8: Utrum Deus sit omnipotens*"
+          }
+        },
+        {
+          "id": "q11-a9",
+          "title": {
+            "la": "Sectio 11, art. 9: Utrum Deus possit facere quae non facit"
+          }
+        },
+        {
+          "id": "q11-a10",
+          "title": {
+            "la": "Sectio 11, art. 10: Utrum Beus posait meUora f&eere ea quae facit"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "title": {
+        "la": "Sectio 12"
+      },
+      "children": [
+        {
+          "id": "q12-a1",
+          "title": {
+            "la": "Sectio 12, art. 1: Utriim beatitudo Deo competat,"
+          }
+        },
+        {
+          "id": "q12-a2",
+          "title": {
+            "la": "Sectio 12, art. 2: Utrum Deus dieatur beatus secundum iuteHectnm*"
+          }
+        },
+        {
+          "id": "q12-a3",
+          "title": {
+            "la": "Sectio 12, art. 3: Utrum Deus sit be&titndo cujaslibet beatL"
+          }
+        },
+        {
+          "id": "q12-a4",
+          "title": {
+            "la": "Sectio 12, art. 4: Utrum in Dei boatitudine omnis beatitudo includatur"
+          }
+        }
+      ]
+    }
+  ]
+}
