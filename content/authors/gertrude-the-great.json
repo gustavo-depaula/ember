@@ -13,5 +13,51 @@
     "Gertrude of Helfta",
     "Gertrud von Helfta",
     "Santa Gertrudes, a Grande"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "gertrude/exercitia-spiritualia",
+          "why": {
+            "en-US": "Seven devotional exercises, in English",
+            "pt-BR": "Sete exercícios devocionais, em inglês"
+          }
+        },
+        {
+          "work": "gertrude/legatus-divinae-pietatis",
+          "why": {
+            "en-US": "Her life and revelations, in Cusack's English of 1870",
+            "pt-BR": "Sua vida e revelações, no inglês de Cusack, 1870"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The Herald of Divine Love in Latin",
+        "pt-BR": "O Arauto do Amor Divino em latim"
+      },
+      "works": [
+        {
+          "work": "gertrude/legatus-2",
+          "why": {
+            "en-US": "Book II, written by Gertrude herself",
+            "pt-BR": "Livro II, escrito pela própria Gertrudes"
+          }
+        },
+        {
+          "work": "gertrude/legatus-1",
+          "why": {
+            "en-US": "Book I, her life as told by a sister of Helfta",
+            "pt-BR": "Livro I, sua vida contada por uma irmã de Helfta"
+          }
+        }
+      ]
+    }
   ]
 }
