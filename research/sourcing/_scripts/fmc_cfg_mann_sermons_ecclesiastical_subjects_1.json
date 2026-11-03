@@ -1,0 +1,100 @@
+{
+ "id": "manning-sermons-ecclesiastical-subjects-1",
+ "dir": "manning-opera-omnia/sermons-ecclesiastical-subjects-1",
+ "slug": "sermons-ecclesiastical-subjects-1",
+ "work": "manning/sermons-ecclesiastical-subjects",
+ "name": "Sermons on Ecclesiastical Subjects, I",
+ "name_pt": "Serm\u00f5es sobre Assuntos Eclesi\u00e1sticos, I",
+ "author": "Cardinal Henry Edward Manning",
+ "author_pt": "Cardeal Henry Edward Manning",
+ "died": 1892,
+ "desc": "Sermons on Ecclesiastical Subjects, volume I (1863): the introduction on the relations of England to Christianity and thirteen sermons preached at the Provincial Councils of Westminster, in Rome, Paris and London, on dogmatic authority, the Council of Trent, divine faith, the Good Shepherd, unity and the Resurrection of the dry bones.",
+ "desc_pt": "Serm\u00f5es sobre Assuntos Eclesi\u00e1sticos, volume I (1863): a introdu\u00e7\u00e3o sobre as rela\u00e7\u00f5es da Inglaterra com o cristianismo e treze serm\u00f5es pregados nos Conc\u00edlios Provinciais de Westminster, em Roma, Paris e Londres, sobre a autoridade dogm\u00e1tica, o Conc\u00edlio de Trento, a f\u00e9 divina, o Bom Pastor, a unidade e a ressurrei\u00e7\u00e3o dos ossos secos.",
+ "composed": 1863,
+ "editor": "Henry Edward Manning (London: Burns and Lambert, 1863)",
+ "year": 1863,
+ "url": "https://archive.org/details/ecclesiastical00mannuoft",
+ "edition": "Sermons on Ecclesiastical Subjects (vol. 1) (London: Burns and Lambert, 1863), Internet Archive full-text OCR.",
+ "srcnote": "The sermons and the introduction; the contents, the errata and the index are dropped.",
+ "src": "manning/ia/ecclesiastical00mannuoft_djvu.txt",
+ "start": 279,
+ "end": 14586,
+ "fn": true,
+ "back": [],
+ "front": [],
+ "label": {},
+ "romanheads": false,
+ "inline": [],
+ "units": [
+  {
+   "id": "introduction",
+   "title": "The Relations of England to Christianity",
+   "from": 279
+  },
+  {
+   "id": "sermon-1",
+   "title": "Sermon I. Help Nearest when Need Greatest",
+   "from": 3128
+  },
+  {
+   "id": "sermon-2",
+   "title": "Sermon II. Dogmatic Authority Supernatural and Infallible",
+   "from": 4085
+  },
+  {
+   "id": "sermon-3",
+   "title": "Sermon III. The Perpetual Office of the Council of Trent",
+   "from": 5106
+  },
+  {
+   "id": "sermon-4",
+   "title": "Sermon IV. The Name and Patience of Jesus",
+   "from": 5854
+  },
+  {
+   "id": "sermon-5",
+   "title": "Sermon V. The Certainty of Divine Faith",
+   "from": 6619
+  },
+  {
+   "id": "sermon-6",
+   "title": "Sermon VI. Strength in Weakness",
+   "from": 7577
+  },
+  {
+   "id": "sermon-7",
+   "title": "Sermon VII. Occisi et Coronati",
+   "from": 8730
+  },
+  {
+   "id": "sermon-8",
+   "title": "Sermon VIII. Unity in Diversity the Perfection of the Church",
+   "from": 9430
+  },
+  {
+   "id": "sermon-9",
+   "title": "Sermon IX. The Good Shepherd",
+   "from": 10194
+  },
+  {
+   "id": "sermon-10",
+   "title": "Sermon X. The Mantle of the Good Shepherd",
+   "from": 11141
+  },
+  {
+   "id": "sermon-11",
+   "title": "Sermon XI. The Powers of the World to Come",
+   "from": 11722
+  },
+  {
+   "id": "sermon-12",
+   "title": "Sermon XII. The Weapons of Our Warfare",
+   "from": 12667
+  },
+  {
+   "id": "sermon-13",
+   "title": "Sermon XIII. The Resurrection of the Dry Bones",
+   "from": 13382
+  }
+ ]
+}
