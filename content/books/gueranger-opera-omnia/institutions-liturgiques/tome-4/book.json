@@ -1,0 +1,138 @@
+{
+  "id": "gueranger-institutions-liturgiques-4",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Institutions liturgiques, tome IV : Polémique liturgique",
+    "en-US": "Liturgical Institutions, Volume IV: Liturgical Polemic",
+    "pt-BR": "Instituições litúrgicas, tomo IV: Polêmica litúrgica"
+  },
+  "author": {
+    "fr-FR": "Prosper Guéranger",
+    "en-US": "Prosper Guéranger",
+    "pt-BR": "Prosper Guéranger"
+  },
+  "description": {
+    "fr-FR": "Quatrième volume de la seconde édition : la polémique liturgique de Dom Guéranger (Défense des Institutions liturgiques, lettre à Mgr l’archevêque de Toulouse, pièce justificative, et les trois lettres à Mgr l’évêque d’Orléans de la Nouvelle défense), avec leurs préfaces et l’appendice. La table analytique n’est pas reprise.",
+    "en-US": "Fourth volume of the second edition: Dom Guéranger’s liturgical polemic (Defence of the Liturgical Institutions, letter to the Archbishop of Toulouse, supporting document, and the three letters to the Bishop of Orléans of the New Defence), with their prefaces and the appendix. The analytical table is not reproduced.",
+    "pt-BR": "Quarto volume da segunda edição: a polêmica litúrgica de Dom Guéranger (Defesa das Instituições litúrgicas, carta ao arcebispo de Toulouse, peça justificativa e as três cartas ao bispo de Orléans da Nova defesa), com seus prefácios e o apêndice. A tabela analítica não foi reproduzida."
+  },
+  "composed": "1840-1851",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/institutions-liturgiques",
+  "editions": {
+    "fr-FR": {
+      "editor": "Société générale de librairie catholique, Victor Palmé (Paris)",
+      "year": 1885
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/institutions-liturgiques-tome-4-000000293",
+      "edition": "Institutions liturgiques, 2nd ed., tome IV, Paris, Société générale de librairie catholique, Palmé",
+      "description": "archive.org OCR (djvu.xml word coordinates used to drop running heads, marginal notes and page-foot notes from the body; page-foot notes became footnotes where their markers could be matched; the chapter notes stay as the closing section of each chapter). Raw OCR text in sources/french-originals.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; text first published in his lifetime (1840-1851) and reprinted by 1885."
+    }
+  ],
+  "toc": [
+    {
+      "id": "note-editeur",
+      "title": {
+        "fr-FR": "Note de l’éditeur"
+      }
+    },
+    {
+      "id": "premiere-defense-preface",
+      "title": {
+        "fr-FR": "Première défense : Préface"
+      }
+    },
+    {
+      "id": "lettre-archeveque-toulouse-1",
+      "title": {
+        "fr-FR": "Lettre à Monseigneur l’archevêque de Toulouse (partie 1)"
+      }
+    },
+    {
+      "id": "lettre-archeveque-toulouse-2",
+      "title": {
+        "fr-FR": "Lettre à Monseigneur l’archevêque de Toulouse (partie 2)"
+      }
+    },
+    {
+      "id": "lettre-archeveque-toulouse-3",
+      "title": {
+        "fr-FR": "Lettre à Monseigneur l’archevêque de Toulouse (partie 3)"
+      }
+    },
+    {
+      "id": "lettre-archeveque-toulouse-4",
+      "title": {
+        "fr-FR": "Lettre à Monseigneur l’archevêque de Toulouse (partie 4)"
+      }
+    },
+    {
+      "id": "piece-justificative",
+      "title": {
+        "fr-FR": "Pièce justificative"
+      }
+    },
+    {
+      "id": "nouvelle-defense-preface",
+      "title": {
+        "fr-FR": "Nouvelle défense : Préface"
+      }
+    },
+    {
+      "id": "premiere-lettre-orleans",
+      "title": {
+        "fr-FR": "Première lettre à Monseigneur l’évêque d’Orléans"
+      }
+    },
+    {
+      "id": "appendice-premiere-lettre",
+      "title": {
+        "fr-FR": "Appendice"
+      }
+    },
+    {
+      "id": "deuxieme-lettre-preface",
+      "title": {
+        "fr-FR": "Deuxième lettre : Préface"
+      }
+    },
+    {
+      "id": "deuxieme-lettre-orleans-1",
+      "title": {
+        "fr-FR": "Deuxième lettre à Monseigneur l’évêque d’Orléans (partie 1)"
+      }
+    },
+    {
+      "id": "deuxieme-lettre-orleans-2",
+      "title": {
+        "fr-FR": "Deuxième lettre à Monseigneur l’évêque d’Orléans (partie 2)"
+      }
+    },
+    {
+      "id": "troisieme-lettre-preface",
+      "title": {
+        "fr-FR": "Troisième lettre : Préface"
+      }
+    },
+    {
+      "id": "troisieme-lettre-orleans-1",
+      "title": {
+        "fr-FR": "Troisième lettre à Monseigneur l’évêque d’Orléans (partie 1)"
+      }
+    },
+    {
+      "id": "troisieme-lettre-orleans-2",
+      "title": {
+        "fr-FR": "Troisième lettre à Monseigneur l’évêque d’Orléans (partie 2)"
+      }
+    }
+  ]
+}
