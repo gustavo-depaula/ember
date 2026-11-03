@@ -6,5 +6,22 @@
   "century": 2,
   "matches": [
     "Mathetes"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "mathetes-epistle-to-diognetus",
+          "why": {
+            "en-US": "A short early letter on how Christians live in the world",
+            "pt-BR": "Breve carta antiga sobre como vivem os cristãos no mundo"
+          }
+        }
+      ]
+    }
   ]
 }
