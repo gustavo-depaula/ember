@@ -7,5 +7,102 @@
   "saint": "ignatius_antioch",
   "matches": [
     "Ignatius of Antioch"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "ignatius-epistle-to-the-romans",
+          "why": {
+            "en-US": "His letter asking the Romans not to prevent his martyrdom",
+            "pt-BR": "Sua carta pedindo aos romanos que não impeçam seu martírio"
+          }
+        },
+        {
+          "work": "ignatius-epistle-to-the-ephesians",
+          "why": {
+            "en-US": "The longest of his seven letters",
+            "pt-BR": "A mais longa de suas sete cartas"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The other letters",
+        "pt-BR": "As demais cartas"
+      },
+      "works": [
+        {
+          "work": "ignatius-epistle-to-the-smyrnaeans",
+          "why": {
+            "en-US": "Epistle to the Smyrnæans",
+            "pt-BR": "Epístola aos Esmirnenses"
+          }
+        },
+        {
+          "work": "ignatius-epistle-to-the-magnesians",
+          "why": {
+            "en-US": "Epistle to the Magnesians",
+            "pt-BR": "Epístola aos Magnésios"
+          }
+        },
+        {
+          "work": "ignatius-epistle-to-the-trallians",
+          "why": {
+            "en-US": "Epistle to the Trallians",
+            "pt-BR": "Epístola aos Tralianos"
+          }
+        },
+        {
+          "work": "ignatius-epistle-to-the-philadelphians",
+          "why": {
+            "en-US": "Epistle to the Philadelphians",
+            "pt-BR": "Epístola aos Filadelfienses"
+          }
+        },
+        {
+          "work": "ignatius-epistle-to-polycarp",
+          "why": {
+            "en-US": "Epistle to Polycarp",
+            "pt-BR": "Epístola a Policarpo"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "His martyrdom",
+        "pt-BR": "Seu martírio"
+      },
+      "works": [
+        {
+          "work": "ignatius-martyrdom",
+          "why": {
+            "en-US": "The account of his martyrdom",
+            "pt-BR": "O relato de seu martírio"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Spurious",
+        "pt-BR": "Espúrias"
+      },
+      "works": [
+        {
+          "work": "ignatius-spurious-epistles",
+          "why": {
+            "en-US": "Letters falsely attributed to him",
+            "pt-BR": "Cartas falsamente atribuídas a ele"
+          }
+        }
+      ]
+    }
   ]
 }
