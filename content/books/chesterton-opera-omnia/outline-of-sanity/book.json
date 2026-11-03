@@ -1,0 +1,75 @@
+{
+  "id": "chesterton-outline-of-sanity",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Outline of Sanity",
+    "pt-BR": "O Esboço da Sanidade"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's exposition of distributism: some general ideas, some aspects of big business, of the land and of machinery, a note on emigration, and a summary. A plea for the widest possible distribution of property against both capitalism and socialism, from the Catholic social tradition.",
+    "pt-BR": "A exposição de Chesterton do distributismo: algumas ideias gerais, alguns aspectos da grande empresa, da terra e da maquinaria, uma nota sobre a emigração e um resumo. Um apelo à mais ampla distribuição possível da propriedade contra o capitalismo e o socialismo, na tradição social católica."
+  },
+  "composed": 1926,
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/outline-of-sanity",
+  "editions": {
+    "en-US": {
+      "editor": "Methuen & Co.",
+      "year": 1926
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/theoutlineofsanity",
+      "edition": "The Outline of Sanity (London: Methuen, 1926), Internet Archive full-text OCR (theoutlineofsanity).",
+      "description": "Six parts as printed; the numbered subsections inside each part are not marked off. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Chesterton died in 1936 and the book was published in 1926, so it is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "I. Some General Ideas"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "II. Some Aspects of Big Business"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "III. Some Aspects of the Land"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "IV. Some Aspects of Machinery"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "V. A Note on Emigration"
+      }
+    },
+    {
+      "id": "chapter-06",
+      "title": {
+        "en-US": "VI. A Summary"
+      }
+    }
+  ]
+}
