@@ -1,0 +1,99 @@
+{
+  "id": "sales-canticle-of-canticles-mackey",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Mystical Explanation of the Canticle of Canticles",
+    "pt-BR": "A Explicação Mística do Cântico dos Cânticos"
+  },
+  "author": {
+    "en-US": "St. Francis de Sales",
+    "pt-BR": "São Francisco de Sales"
+  },
+  "description": {
+    "en-US": "Francis de Sales's six discourses on the Canticle of Canticles as a treatise on mental prayer: the hindrances to prayer, their remedies and the five degrees of the soul's ascent, in Canon Mackey's English version.",
+    "pt-BR": "Os seis discursos de São Francisco de Sales sobre o Cântico dos Cânticos como tratado de oração mental: os obstáculos, os remédios e os cinco graus de ascensão da alma, na versão inglesa do cônego Mackey."
+  },
+  "composed": 1595,
+  "languages": [
+    "en-US"
+  ],
+  "work": "francis-de-sales/explication-mystique-du-cantique",
+  "editions": {
+    "en-US": {
+      "editor": "H. B. Mackey, O.S.B., foreword by the Archbishop of Westminster (London: Burns & Oates, 1908)",
+      "year": 1908
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/themysticalexpla00franuoft",
+      "edition": "The Mystical Explanation of the Canticle of Canticles, tr. H. B. Mackey, Library of St. Francis de Sales VI (London: Burns & Oates, 1908), Internet Archive full-text OCR. Chantal's Depositions, printed in the same volume, are left out.",
+      "description": " Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "St. Francis de Sales died in 1622 and the edition is of 1908, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Foreword by the Archbishop of Westminster"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "The Publisher to the Reader, 1643"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "Argument"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "Discourse I: The First Hindrance and Its Remedy"
+      }
+    },
+    {
+      "id": "chapter-06",
+      "title": {
+        "en-US": "Discourse II: The Second Hindrance and Its Remedy"
+      }
+    },
+    {
+      "id": "chapter-07",
+      "title": {
+        "en-US": "Discourse III: The Third Hindrance and Its Remedy"
+      }
+    },
+    {
+      "id": "chapter-08",
+      "title": {
+        "en-US": "Discourse IV: The Fourth Hindrance and Its Remedy"
+      }
+    },
+    {
+      "id": "chapter-09",
+      "title": {
+        "en-US": "Discourse V: The Fifth Hindrance and Its Remedy"
+      }
+    },
+    {
+      "id": "chapter-10",
+      "title": {
+        "en-US": "Discourse VI: The Soul United to God"
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+# The Publisher to the Reader, 1643
+
+MY dear Reader, — I know well that to ensure your esteem for this little work which I present to you, it is sufficient for you to know that its author is the Blessed Francis of Sales: such a holy, saintly, and enlightened mind could not speak on such a subject but what was holy and worth hearing.
+
+I do not think I am going against his wishes in publishing it, for although for a long time he kept it to himself, as it was one of the first attempts of his pen, it is nevertheless quite conceivable that, if death had not prevented the plan he had formed of giving more of his writings to the public, not less useful than those now circulating everywhere with such high approbation and good results, his incomparable charity would have induced him to give it to you himself, but no doubt in a more perfect and elaborate form. However, here it is, exactly as it left his hands, and as it was found after his death. The persons with whom he left it, either kept it for their own consolation, or, for some other good reason, did not think fit to publish it sooner. The Latin x text has been added in the margin to make it more clear by comparing one with another.* Souls that are advanced and experienced in the interior life will find, as I hope, satisfaction from it. But I beg you, dear reader, if you desire to profit by it, to rea4 it with as reverent a mind as the holiness of the subject demands.
+
+* This has not been done by Canon Mackey in the translation.
