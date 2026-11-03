@@ -1,0 +1,3 @@
+# Tale of Two Cities
+
+It was well for him, at any rate, that the people rose in France. It was well for him, at any rate, that the guillotine was set up in the Place de la Concorde. Unconsciously, but not accidentally, Dickens was here working out the whole true comparison between swift revolutionism in Paris and slow evolutionism in London. Sidney Carton is one of those sublime ascetics whose head offends them, and who cut it off. For him at least it was better that the blood should flow in Paris than that the wine should flow any longer in London. And if I say that even now the guillotine might be the best cure for many a London lawyer, I ask you to believe that I am not merely flippant. But you will not believe it.

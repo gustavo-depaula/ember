@@ -1,0 +1,231 @@
+{
+  "id": "chesterton-appreciations-and-criticisms-of-dickens",
+  "cover": "classic",
+  "name": {
+    "en-US": "Appreciations and Criticisms of the Works of Charles Dickens",
+    "pt-BR": "Apreciações e Críticas da Obra de Charles Dickens"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's prefaces to the Everyman edition of Dickens, gathered: a long introduction, and an essay on each of the novels and miscellanies, from Pickwick, Oliver Twist and Nicholas Nickleby to Little Dorrit and Our Mutual Friend.",
+    "pt-BR": "Os prefácios de Chesterton à edição Everyman de Dickens, reunidos: uma longa introdução e um ensaio sobre cada romance e miscelânea, de Pickwick, Oliver Twist e Nicholas Nickleby a Little Dorrit e Our Mutual Friend."
+  },
+  "composed": "1911",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/appreciations-and-criticisms-of-dickens",
+  "editions": {
+    "en-US": {
+      "editor": "J. M. Dent & Sons",
+      "year": 1911
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/22362",
+      "edition": "Appreciations and Criticisms of the Works of Charles Dickens (J. M. Dent & Sons, 1911), Project Gutenberg #22362.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1911 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-introduction",
+      "title": {
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "ch02-little-dorrit",
+      "title": {
+        "en-US": "Little Dorrit"
+      }
+    },
+    {
+      "id": "ch03-reprinted-pieces",
+      "title": {
+        "en-US": "Reprinted Pieces"
+      }
+    },
+    {
+      "id": "ch04-our-mutual-friend",
+      "title": {
+        "en-US": "Our Mutual Friend"
+      }
+    },
+    {
+      "id": "ch05-david-copperfield",
+      "title": {
+        "en-US": "David Copperfield"
+      }
+    },
+    {
+      "id": "ch06-christmas-books",
+      "title": {
+        "en-US": "Christmas Books"
+      }
+    },
+    {
+      "id": "ch07-tale-of-two-cities",
+      "title": {
+        "en-US": "Tale of Two Cities"
+      }
+    },
+    {
+      "id": "ch08-barnaby-rudge",
+      "title": {
+        "en-US": "Barnaby Rudge"
+      }
+    },
+    {
+      "id": "ch09-the-uncommercial-traveller",
+      "title": {
+        "en-US": "The Uncommercial Traveller"
+      }
+    },
+    {
+      "id": "ch10-sketches-by-boz",
+      "title": {
+        "en-US": "Sketches by Boz"
+      }
+    },
+    {
+      "id": "ch11-pickwick-papers",
+      "title": {
+        "en-US": "Pickwick Papers"
+      }
+    },
+    {
+      "id": "ch12-nicholas-nickleby",
+      "title": {
+        "en-US": "Nicholas Nickleby"
+      }
+    },
+    {
+      "id": "ch13-oliver-twist",
+      "title": {
+        "en-US": "Oliver Twist"
+      }
+    },
+    {
+      "id": "ch14-old-curiosity-shop",
+      "title": {
+        "en-US": "Old Curiosity Shop"
+      }
+    },
+    {
+      "id": "ch15-barnaby-rudge",
+      "title": {
+        "en-US": "Barnaby Rudge"
+      }
+    },
+    {
+      "id": "ch16-american-notes",
+      "title": {
+        "en-US": "American Notes"
+      }
+    },
+    {
+      "id": "ch17-pictures-from-italy",
+      "title": {
+        "en-US": "Pictures from Italy"
+      }
+    },
+    {
+      "id": "ch18-martin-chuzzlewit",
+      "title": {
+        "en-US": "Martin Chuzzlewit"
+      }
+    },
+    {
+      "id": "ch19-christmas-books",
+      "title": {
+        "en-US": "Christmas Books"
+      }
+    },
+    {
+      "id": "ch20-dombey-and-son",
+      "title": {
+        "en-US": "Dombey and Son"
+      }
+    },
+    {
+      "id": "ch21-david-copperfield",
+      "title": {
+        "en-US": "David Copperfield"
+      }
+    },
+    {
+      "id": "ch22-christmas-stories",
+      "title": {
+        "en-US": "Christmas Stories"
+      }
+    },
+    {
+      "id": "ch23-bleak-house",
+      "title": {
+        "en-US": "Bleak House"
+      }
+    },
+    {
+      "id": "ch24-child-s-history-of-england",
+      "title": {
+        "en-US": "Child's History of England"
+      }
+    },
+    {
+      "id": "ch25-hard-times",
+      "title": {
+        "en-US": "Hard Times"
+      }
+    },
+    {
+      "id": "ch26-little-dorrit",
+      "title": {
+        "en-US": "Little Dorrit"
+      }
+    },
+    {
+      "id": "ch27-a-tale-of-two-cities",
+      "title": {
+        "en-US": "A Tale of Two Cities"
+      }
+    },
+    {
+      "id": "ch28-great-expectations",
+      "title": {
+        "en-US": "Great Expectations"
+      }
+    },
+    {
+      "id": "ch29-our-mutual-friend",
+      "title": {
+        "en-US": "Our Mutual Friend"
+      }
+    },
+    {
+      "id": "ch30-edwin-drood",
+      "title": {
+        "en-US": "Edwin Drood"
+      }
+    },
+    {
+      "id": "ch31-master-humphrey-s-clock",
+      "title": {
+        "en-US": "Master Humphrey's Clock"
+      }
+    },
+    {
+      "id": "ch32-reprinted-pieces",
+      "title": {
+        "en-US": "Reprinted Pieces"
+      }
+    }
+  ]
+}
