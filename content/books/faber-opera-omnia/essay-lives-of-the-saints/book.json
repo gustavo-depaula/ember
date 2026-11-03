@@ -1,0 +1,51 @@
+{
+  "id": "faber-essay-lives-of-the-saints",
+  "cover": "classic",
+  "name": {
+    "en-US": "Essay on the Interest and Characteristics of the Lives of the Saints",
+    "pt-BR": "Ensaio sobre o Interesse e as Características das Vidas dos Santos"
+  },
+  "author": {
+    "en-US": "Frederick William Faber",
+    "pt-BR": "Frederick William Faber"
+  },
+  "description": {
+    "en-US": "Essay on the Interest and Characteristics of the Lives of the Saints, with Illustrations from Mystical Theology (1853): Faber's introduction to the Oratorian series of the Lives of the Modern Saints, on why the saints' lives edify, the devotional character of Italian, Spanish and French hagiography, the marvellous and the mystical in the saints' lives, and the use of such lives.",
+    "pt-BR": "Ensaio sobre o Interesse e as Características das Vidas dos Santos, com Ilustrações da Teologia Mística (1853): a introdução de Faber à série oratoriana das Vidas dos Santos Modernos, sobre por que as vidas dos santos edificam, o caráter devocional da hagiografia italiana, espanhola e francesa, o maravilhoso e o místico nas vidas dos santos e o uso dessas vidas."
+  },
+  "composed": 1853,
+  "languages": [
+    "en-US"
+  ],
+  "work": "faber/essay-lives-of-the-saints",
+  "editions": {
+    "en-US": {
+      "editor": "Frederick William Faber (London: Richardson and Son, 1853)",
+      "year": 1853
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/a579642500fabeuoft",
+      "edition": "Essay on the Interest and Characteristics of the Lives of the Saints (London: Richardson and Son, 1853), Internet Archive full-text OCR.",
+      "description": "The dedication and the essay. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Frederick William Faber died in 1863 and the edition is of 1853, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "dedication",
+      "title": {
+        "en-US": "Dedication"
+      }
+    },
+    {
+      "id": "essay",
+      "title": {
+        "en-US": "On the Interest and Characteristics of the Lives of the Saints"
+      }
+    }
+  ]
+}

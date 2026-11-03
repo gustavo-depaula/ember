@@ -1,0 +1,42 @@
+{
+ "id": "faber-essay-lives-of-the-saints",
+ "dir": "faber-opera-omnia/essay-lives-of-the-saints",
+ "slug": "essay-lives-of-the-saints",
+ "work": "faber/essay-lives-of-the-saints",
+ "name": "Essay on the Interest and Characteristics of the Lives of the Saints",
+ "name_pt": "Ensaio sobre o Interesse e as Caracter\u00edsticas das Vidas dos Santos",
+ "author": "Frederick William Faber",
+ "author_pt": "Frederick William Faber",
+ "died": 1863,
+ "desc": "Essay on the Interest and Characteristics of the Lives of the Saints, with Illustrations from Mystical Theology (1853): Faber's introduction to the Oratorian series of the Lives of the Modern Saints, on why the saints' lives edify, the devotional character of Italian, Spanish and French hagiography, the marvellous and the mystical in the saints' lives, and the use of such lives.",
+ "desc_pt": "Ensaio sobre o Interesse e as Caracter\u00edsticas das Vidas dos Santos, com Ilustra\u00e7\u00f5es da Teologia M\u00edstica (1853): a introdu\u00e7\u00e3o de Faber \u00e0 s\u00e9rie oratoriana das Vidas dos Santos Modernos, sobre por que as vidas dos santos edificam, o car\u00e1ter devocional da hagiografia italiana, espanhola e francesa, o maravilhoso e o m\u00edstico nas vidas dos santos e o uso dessas vidas.",
+ "composed": 1853,
+ "editor": "Frederick William Faber (London: Richardson and Son, 1853)",
+ "year": 1853,
+ "url": "https://archive.org/details/a579642500fabeuoft",
+ "edition": "Essay on the Interest and Characteristics of the Lives of the Saints (London: Richardson and Son, 1853), Internet Archive full-text OCR.",
+ "srcnote": "The dedication and the essay.",
+ "src": "faber/ia/a579642500fabeuoft_djvu.txt",
+ "start": 51,
+ "end": 4968,
+ "fn": true,
+ "back": [],
+ "front": [
+  {
+   "id": "dedication",
+   "title": "Dedication",
+   "from": 51,
+   "to": 89
+  }
+ ],
+ "label": {},
+ "romanheads": false,
+ "inline": [],
+ "units": [
+  {
+   "id": "essay",
+   "title": "On the Interest and Characteristics of the Lives of the Saints",
+   "from": 91
+  }
+ ]
+}
