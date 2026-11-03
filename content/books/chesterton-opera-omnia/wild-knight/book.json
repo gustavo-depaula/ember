@@ -1,0 +1,345 @@
+{
+  "id": "chesterton-wild-knight",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Wild Knight and Other Poems",
+    "pt-BR": "O Cavaleiro Selvagem e Outros Poemas"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's first collection of verse: poems of wonder and of the strangeness of being alive, among them By the Babe Unborn, The Donkey, The Mirror of Madmen and The Ballad of the Battle of Gibeon, in which a young romantic discovers that the world is a gift.",
+    "pt-BR": "A primeira coletânea de versos de Chesterton: poemas de assombro e da estranheza de estar vivo, entre eles By the Babe Unborn, O Burro, O Espelho dos Loucos e A Balada da Batalha de Gibeão, em que um jovem romântico descobre que o mundo é um dom."
+  },
+  "composed": "1900",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/wild-knight",
+  "editions": {
+    "en-US": {
+      "editor": "J. M. Dent",
+      "year": 1900
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/12037",
+      "edition": "The Wild Knight and Other Poems (J. M. Dent, 1900), Project Gutenberg #12037.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1900 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-by-the-babe-unborn",
+      "title": {
+        "en-US": "By the Babe Unborn"
+      }
+    },
+    {
+      "id": "ch02-the-world-s-lover",
+      "title": {
+        "en-US": "The World's Lover"
+      }
+    },
+    {
+      "id": "ch03-the-skeleton",
+      "title": {
+        "en-US": "The Skeleton"
+      }
+    },
+    {
+      "id": "ch04-a-chord-of-colour",
+      "title": {
+        "en-US": "A Chord of Colour"
+      }
+    },
+    {
+      "id": "ch05-the-happy-man",
+      "title": {
+        "en-US": "The Happy Man"
+      }
+    },
+    {
+      "id": "ch06-the-unpardonable-sin",
+      "title": {
+        "en-US": "The Unpardonable Sin"
+      }
+    },
+    {
+      "id": "ch07-a-novelty",
+      "title": {
+        "en-US": "A Novelty"
+      }
+    },
+    {
+      "id": "ch08-ultimate",
+      "title": {
+        "en-US": "Ultimate"
+      }
+    },
+    {
+      "id": "ch09-the-donkey",
+      "title": {
+        "en-US": "The Donkey"
+      }
+    },
+    {
+      "id": "ch10-the-beatific-vision",
+      "title": {
+        "en-US": "The Beatific Vision"
+      }
+    },
+    {
+      "id": "ch11-the-hope-of-the-streets",
+      "title": {
+        "en-US": "The Hope of the Streets"
+      }
+    },
+    {
+      "id": "ch12-ecclesiastes",
+      "title": {
+        "en-US": "Ecclesiastes"
+      }
+    },
+    {
+      "id": "ch13-the-fish",
+      "title": {
+        "en-US": "The Fish"
+      }
+    },
+    {
+      "id": "ch14-gold-leaves",
+      "title": {
+        "en-US": "Gold Leaves"
+      }
+    },
+    {
+      "id": "ch15-a-man-and-his-image",
+      "title": {
+        "en-US": "A Man and his Image"
+      }
+    },
+    {
+      "id": "ch16-the-mariner",
+      "title": {
+        "en-US": "The Mariner"
+      }
+    },
+    {
+      "id": "ch17-the-triumph-of-man",
+      "title": {
+        "en-US": "The Triumph of Man"
+      }
+    },
+    {
+      "id": "ch18-cyclopean",
+      "title": {
+        "en-US": "Cyclopean"
+      }
+    },
+    {
+      "id": "ch19-joseph",
+      "title": {
+        "en-US": "Joseph"
+      }
+    },
+    {
+      "id": "ch20-modern-elfland",
+      "title": {
+        "en-US": "Modern Elfland"
+      }
+    },
+    {
+      "id": "ch21-eternities",
+      "title": {
+        "en-US": "Eternities"
+      }
+    },
+    {
+      "id": "ch22-a-christmas-carol",
+      "title": {
+        "en-US": "A Christmas Carol"
+      }
+    },
+    {
+      "id": "ch23-alone",
+      "title": {
+        "en-US": "Alone"
+      }
+    },
+    {
+      "id": "ch24-king-s-cross-station",
+      "title": {
+        "en-US": "King's Cross Station"
+      }
+    },
+    {
+      "id": "ch25-the-human-tree",
+      "title": {
+        "en-US": "The Human Tree"
+      }
+    },
+    {
+      "id": "ch26-to-them-that-mourn",
+      "title": {
+        "en-US": "To Them That Mourn"
+      }
+    },
+    {
+      "id": "ch27-the-outlaw",
+      "title": {
+        "en-US": "The Outlaw"
+      }
+    },
+    {
+      "id": "ch28-behind",
+      "title": {
+        "en-US": "Behind"
+      }
+    },
+    {
+      "id": "ch29-the-end-of-fear",
+      "title": {
+        "en-US": "The End of Fear"
+      }
+    },
+    {
+      "id": "ch30-the-holy-of-holies",
+      "title": {
+        "en-US": "The Holy of Holies"
+      }
+    },
+    {
+      "id": "ch31-the-mirror-of-madmen",
+      "title": {
+        "en-US": "The Mirror of Madmen"
+      }
+    },
+    {
+      "id": "ch32-the-desecraters",
+      "title": {
+        "en-US": "The Desecraters"
+      }
+    },
+    {
+      "id": "ch33-an-alliance",
+      "title": {
+        "en-US": "An Alliance"
+      }
+    },
+    {
+      "id": "ch34-the-ancient-of-days",
+      "title": {
+        "en-US": "The Ancient of Days"
+      }
+    },
+    {
+      "id": "ch35-the-last-masquerade",
+      "title": {
+        "en-US": "The Last Masquerade"
+      }
+    },
+    {
+      "id": "ch36-the-earth-s-shame",
+      "title": {
+        "en-US": "The Earth's Shame"
+      }
+    },
+    {
+      "id": "ch37-vanity",
+      "title": {
+        "en-US": "Vanity"
+      }
+    },
+    {
+      "id": "ch38-the-lamp-post",
+      "title": {
+        "en-US": "The Lamp Post"
+      }
+    },
+    {
+      "id": "ch39-the-pessimist",
+      "title": {
+        "en-US": "The Pessimist"
+      }
+    },
+    {
+      "id": "ch40-a-fairy-tale",
+      "title": {
+        "en-US": "A Fairy Tale"
+      }
+    },
+    {
+      "id": "ch41-a-portrait",
+      "title": {
+        "en-US": "A Portrait"
+      }
+    },
+    {
+      "id": "ch42-femina-contra-mundum",
+      "title": {
+        "en-US": "Femina Contra Mundum"
+      }
+    },
+    {
+      "id": "ch43-to-a-certain-nation",
+      "title": {
+        "en-US": "To a Certain Nation"
+      }
+    },
+    {
+      "id": "ch44-the-praise-of-dust",
+      "title": {
+        "en-US": "The Praise of Dust"
+      }
+    },
+    {
+      "id": "ch45-the-ballad-of-the-battle-of-gibeon",
+      "title": {
+        "en-US": "The Ballad of the Battle of Gibeon"
+      }
+    },
+    {
+      "id": "ch46-vulgarised",
+      "title": {
+        "en-US": "'Vulgarised'"
+      }
+    },
+    {
+      "id": "ch47-the-ballad-of-god-makers",
+      "title": {
+        "en-US": "The Ballad of God-makers"
+      }
+    },
+    {
+      "id": "ch48-at-night",
+      "title": {
+        "en-US": "At Night"
+      }
+    },
+    {
+      "id": "ch49-art-colours",
+      "title": {
+        "en-US": "Art Colours"
+      }
+    },
+    {
+      "id": "ch50-the-two-women",
+      "title": {
+        "en-US": "The Two Women"
+      }
+    },
+    {
+      "id": "ch51-the-wild-knight",
+      "title": {
+        "en-US": "The Wild Knight"
+      }
+    }
+  ]
+}
