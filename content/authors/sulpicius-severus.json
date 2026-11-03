@@ -6,5 +6,78 @@
   "century": 5,
   "matches": [
     "Sulpitius Severus (c. 363-c. 420)"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "His life of St Martin, with the dialogues that follow it.",
+        "pt-BR": "Sua vida de São Martinho, com os diálogos que a seguem."
+      },
+      "works": [
+        {
+          "work": "sulpitius-severus-life-of-st-martin",
+          "why": {
+            "en-US": "On the Life of St Martin",
+            "pt-BR": "Sobre a vida de São Martinho"
+          }
+        },
+        {
+          "work": "sulpitius-severus-dialogues",
+          "why": {
+            "en-US": "Dialogues",
+            "pt-BR": "Diálogos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "History",
+        "pt-BR": "História"
+      },
+      "works": [
+        {
+          "work": "sulpitius-severus-sacred-history",
+          "why": {
+            "en-US": "Sacred History",
+            "pt-BR": "História Sagrada"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Other writings",
+        "pt-BR": "Outros escritos"
+      },
+      "works": [
+        {
+          "work": "sulpitius-severus-genuine",
+          "why": {
+            "en-US": "The genuine writings",
+            "pt-BR": "Os escritos genuínos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Attributed works",
+        "pt-BR": "Obras atribuídas"
+      },
+      "works": [
+        {
+          "work": "sulpitius-severus-dubious",
+          "why": {
+            "en-US": "The dubious writings",
+            "pt-BR": "Os escritos duvidosos"
+          }
+        }
+      ]
+    }
   ]
 }
