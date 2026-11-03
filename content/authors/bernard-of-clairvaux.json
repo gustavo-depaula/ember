@@ -9,5 +9,231 @@
     "St. Bernard of Clairvaux",
     "Bernard of Clairvaux",
     "Bernardus Claraevallensis"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "The two short treatises on love and its steps.",
+        "pt-BR": "Os dois tratados breves sobre o amor e seus degraus."
+      },
+      "works": [
+        {
+          "work": "bernard/de-diligendo-deo",
+          "why": {
+            "en-US": "Why and how to love God, in four degrees of love",
+            "pt-BR": "Por que e como amar a Deus, em quatro graus de amor"
+          }
+        },
+        {
+          "work": "bernard/de-gradibus-humilitatis",
+          "why": {
+            "en-US": "His first treatise: twelve steps of humility and of pride",
+            "pt-BR": "Seu primeiro tratado: doze degraus de humildade e de soberba"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The great sermons",
+        "pt-BR": "Os grandes sermões"
+      },
+      "note": {
+        "en-US": "His preaching to his monks and his Marian homilies.",
+        "pt-BR": "A pregação a seus monges e as homilias marianas."
+      },
+      "works": [
+        {
+          "work": "bernard/sermones-super-cantica",
+          "why": {
+            "en-US": "Eighty-six sermons on the Song of Songs, preached at Clairvaux",
+            "pt-BR": "Oitenta e seis sermões sobre o Cântico dos Cânticos, pregados em Claraval"
+          }
+        },
+        {
+          "work": "bernard/in-laudibus-virginis-matris",
+          "why": {
+            "en-US": "Four homilies on the Annunciation, the Missus est",
+            "pt-BR": "Quatro homilias sobre a Anunciação, o Missus est"
+          }
+        },
+        {
+          "work": "bernard/in-psalmum-qui-habitat",
+          "why": {
+            "en-US": "Seventeen Lenten sermons on Psalm 90",
+            "pt-BR": "Dezessete sermões quaresmais sobre o Salmo 90"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Sermons for the liturgical year",
+        "pt-BR": "Sermões do ano litúrgico"
+      },
+      "note": {
+        "en-US": "Sermons for the seasons, the saints and various subjects.",
+        "pt-BR": "Sermões dos tempos, dos santos e de assuntos diversos."
+      },
+      "works": [
+        {
+          "work": "bernard/sermones-de-tempore",
+          "why": {
+            "en-US": "Sermons from Advent through Pentecost and after",
+            "pt-BR": "Sermões do Advento ao Pentecostes e depois"
+          }
+        },
+        {
+          "work": "bernard/sermones-de-sanctis",
+          "why": {
+            "en-US": "Sermons for the feasts of the saints and of Our Lady",
+            "pt-BR": "Sermões para as festas dos santos e de Nossa Senhora"
+          }
+        },
+        {
+          "work": "bernard/sermones-de-diversis",
+          "why": {
+            "en-US": "125 sermons on various subjects",
+            "pt-BR": "125 sermões sobre assuntos diversos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Treatises on the spiritual life",
+        "pt-BR": "Tratados sobre a vida espiritual"
+      },
+      "works": [
+        {
+          "work": "bernard/de-consideratione",
+          "why": {
+            "en-US": "Five books of counsel to Pope Eugene III, his former monk",
+            "pt-BR": "Cinco livros de conselho ao papa Eugênio III, seu antigo monge"
+          }
+        },
+        {
+          "work": "bernard/de-gratia-et-libero-arbitrio",
+          "why": {
+            "en-US": "What grace and free choice each do in a good work",
+            "pt-BR": "O que a graça e o livre-arbítrio fazem cada um na obra boa"
+          }
+        },
+        {
+          "work": "bernard/de-conversione-ad-clericos",
+          "why": {
+            "en-US": "An address to the clerics of Paris on conversion",
+            "pt-BR": "Discurso aos clérigos de Paris sobre a conversão"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Monastic life and the Church",
+        "pt-BR": "Vida monástica e Igreja"
+      },
+      "note": {
+        "en-US": "Writings on the Cistercian life, bishops and the new knighthood.",
+        "pt-BR": "Escritos sobre a vida cisterciense, os bispos e a nova cavalaria."
+      },
+      "works": [
+        {
+          "work": "bernard/apologia-ad-guillelmum",
+          "why": {
+            "en-US": "Defends the Cistercians and attacks the luxury of the Black Monks",
+            "pt-BR": "Defende os cistercienses e ataca o luxo dos monges negros"
+          }
+        },
+        {
+          "work": "bernard/de-praecepto-et-dispensatione",
+          "why": {
+            "en-US": "On the Rule of Saint Benedict: precept, dispensation and vow",
+            "pt-BR": "Sobre a Regra de São Bento: preceito, dispensa e voto"
+          }
+        },
+        {
+          "work": "bernard/de-moribus-et-officio-episcoporum",
+          "why": {
+            "en-US": "Letter 42, on the life and duties of bishops",
+            "pt-BR": "Carta 42, sobre a vida e os deveres dos bispos"
+          }
+        },
+        {
+          "work": "bernard/de-laude-novae-militiae",
+          "why": {
+            "en-US": "For the Knights Templar: the new knighthood of Christ",
+            "pt-BR": "Para os Templários: a nova cavalaria de Cristo"
+          }
+        },
+        {
+          "work": "bernard/vita-sancti-malachiae",
+          "why": {
+            "en-US": "His life of his friend Malachy, who died at Clairvaux in 1148",
+            "pt-BR": "Sua vida de Malaquias, amigo que morreu em Claraval em 1148"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Letters",
+        "pt-BR": "Cartas"
+      },
+      "works": [
+        {
+          "work": "bernard/epistolae",
+          "why": {
+            "en-US": "The 460 letters, to popes, kings, bishops, monks and friends",
+            "pt-BR": "As 460 cartas, a papas, reis, bispos, monges e amigos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Controversy",
+        "pt-BR": "Controvérsia"
+      },
+      "note": {
+        "en-US": "Treatises against Abelard and on baptism.",
+        "pt-BR": "Tratados contra Abelardo e sobre o batismo."
+      },
+      "works": [
+        {
+          "work": "bernard/contra-errores-abaelardi",
+          "why": {
+            "en-US": "Letter 190: nineteen propositions drawn from Abelard",
+            "pt-BR": "Carta 190: dezenove proposições tiradas de Abelardo"
+          }
+        },
+        {
+          "work": "bernard/de-baptismo",
+          "why": {
+            "en-US": "Letter 77, answering Hugh of Saint-Victor on baptism",
+            "pt-BR": "Carta 77, em resposta a Hugo de São Vítor sobre o batismo"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Minor works",
+        "pt-BR": "Obras menores"
+      },
+      "works": [
+        {
+          "work": "bernard/opuscula-minora",
+          "why": {
+            "en-US": "Shorter pieces: the antiphonary prologue, a confession formula, charters",
+            "pt-BR": "Peças breves: o prólogo do antifonário, uma fórmula de confissão, cartas de doação"
+          }
+        }
+      ]
+    }
   ]
 }
