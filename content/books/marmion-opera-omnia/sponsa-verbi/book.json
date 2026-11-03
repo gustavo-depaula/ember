@@ -1,0 +1,86 @@
+{
+  "id": "marmion-sponsa-verbi",
+  "name": {
+    "en-US": "Sponsa Verbi: The Virgin Consecrated to Christ",
+    "pt-BR": "Sponsa Verbi: a virgem consagrada a Cristo"
+  },
+  "author": {
+    "en-US": "Bl. Columba Marmion",
+    "pt-BR": "Bem-aventurado Columba Marmion"
+  },
+  "description": {
+    "en-US": "Seven spiritual conferences to consecrated virgins: the call to be a spouse of Christ, the human nature in Christ, leaving all, the vows, living by the Word, the means of union and the fecundity of the spouse of the Word. Published in 1923 (Maredsous, Collection Pax 13), edited by Dom Thibaut. English only: no open French text exists.",
+    "pt-BR": "Sete conferências espirituais às virgens consagradas: o chamado a ser esposa de Cristo, a natureza humana em Cristo, deixar tudo, os votos, viver pelo Verbo, os meios de união e a fecundidade da esposa do Verbo. Publicado em 1923 (Maredsous, Coleção Pax 13), editado por Dom Thibaut."
+  },
+  "composed": "1923",
+  "languages": [
+    "en-US"
+  ],
+  "work": "marmion/sponsa-verbi",
+  "editions": {
+    "en-US": {
+      "translator": "Dom Francis Izard, O.S.B.",
+      "year": 1925
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://piercedhearts.org/consecrated_hearts/Sponsa_Verbi_Marmion_.htm",
+      "edition": "Sponsa Verbi: the Virgin Consecrated to Christ, spiritual conferences, translated from the French by Dom Francis Izard O.S.B., London: Sands, 1925 (imprimatur 5 Jan 1925). HTML transcription by the Servants of the Pierced Hearts of Jesus and Mary.",
+      "description": "Editor’s preface and the seven conferences with their footnotes (scripture references and the editor’s notes). The French original has no open text.",
+      "tier": "A",
+      "tierEvidence": "Translation published 1925: public domain in the US (before 1931); Marmion died 1923. The transcription carries no copyright notice."
+    }
+  ],
+  "toc": [
+    {
+      "id": "editors-preface",
+      "title": {
+        "en-US": "Editor’s Preface"
+      }
+    },
+    {
+      "id": "1-call",
+      "title": {
+        "en-US": "I. The Call to the Dignity of a Spouse of Christ"
+      }
+    },
+    {
+      "id": "2-human-nature",
+      "title": {
+        "en-US": "II. The Human Nature in Christ, the Spouse of the Word"
+      }
+    },
+    {
+      "id": "3-relictis-omnibus",
+      "title": {
+        "en-US": "III. Relictis omnibus"
+      }
+    },
+    {
+      "id": "4-votis-omnibus",
+      "title": {
+        "en-US": "IV. Votis omnibus Verbo adhaerere"
+      }
+    },
+    {
+      "id": "5-verbo-vivere",
+      "title": {
+        "en-US": "V. Verbo vivere, Verbo se regere"
+      }
+    },
+    {
+      "id": "6-means-of-union",
+      "title": {
+        "en-US": "VI. Means of Union with the Spouse"
+      }
+    },
+    {
+      "id": "7-fecundity",
+      "title": {
+        "en-US": "VII. The Admirable Fecundity of a Spouse of the Word"
+      }
+    }
+  ]
+}
