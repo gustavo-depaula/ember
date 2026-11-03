@@ -7,5 +7,22 @@
   "saint": "john_damascene",
   "matches": [
     "John of Damascus"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "john-exposition-of-the-faith",
+          "why": {
+            "en-US": "Exposition of the Faith",
+            "pt-BR": "Exposição da Fé"
+          }
+        }
+      ]
+    }
   ]
 }
