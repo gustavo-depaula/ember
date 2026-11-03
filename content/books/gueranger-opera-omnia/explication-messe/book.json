@@ -1,0 +1,370 @@
+{
+  "id": "gueranger-explication-messe",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Explication des prières et des cérémonies de la sainte messe",
+    "en-US": "Explanation of the Prayers and Ceremonies of Holy Mass",
+    "pt-BR": "Explicação das orações e das cerimônias da santa missa"
+  },
+  "author": {
+    "fr-FR": "Prosper Guéranger",
+    "en-US": "Prosper Guéranger",
+    "pt-BR": "Prosper Guéranger"
+  },
+  "description": {
+    "fr-FR": "Commentaire de l’Ordinaire de la messe, de l’antienne Introibo au dernier évangile, tiré des notes prises aux conférences de Dom Guéranger par les moniales de Stanbrook et publié à Solesmes en 1885 (seconde édition). Texte de notes de conférences, non de la rédaction définitive de l’auteur.",
+    "en-US": "A commentary on the Ordinary of the Mass, from the Introibo antiphon to the Last Gospel, taken from notes of Dom Guéranger’s conferences by the nuns of Stanbrook; translated by Dom Laurence Shepherd (his last, unfinished work, completed by the Stanbrook community), 1885. Conference notes, not the author’s finished prose.",
+    "pt-BR": "Comentário ao Ordinário da missa, da antífona Introibo ao último evangelho, tirado das anotações das conferências de Dom Guéranger pelas monjas de Stanbrook e publicado em Solesmes em 1885 (segunda edição). Texto de anotações de conferências, não a redação definitiva do autor."
+  },
+  "composed": "1885",
+  "languages": [
+    "fr-FR",
+    "en-US"
+  ],
+  "work": "gueranger/explication-messe",
+  "editions": {
+    "fr-FR": {
+      "editor": "Stanbrook Abbey (Solesmes, Imprimerie Saint-Pierre)",
+      "year": 1885
+    },
+    "en-US": {
+      "translator": "Dom Laurence Shepherd (completed by the nuns of Stanbrook)",
+      "year": 1885
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://www.domgueranger.net/explication-des-prieres-de-la-sainte-messe-2/",
+      "edition": "Explication des prières et des cérémonies de la sainte messe, 2nd ed., Solesmes, Imprimerie Saint-Pierre, 1885 (domgueranger.net HTML transcription)",
+      "description": "The French appendix of the Ordinary of the Mass is not on the site.",
+      "tier": "A",
+      "tierEvidence": "Conference notes edited by Stanbrook before 1885; Guéranger died 1875."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/ExplanationOfThePrayersAndGurangerProsperO.S.B.S5723",
+      "edition": "Explanation of the Prayers and Ceremonies of Holy Mass, trans. Dom Laurence Shepherd, London, Burns and Oates / Stanbrook, 1885 (archive.org OCR text of the isidore.co copy, cleaned)",
+      "description": "The translator’s preliminary notice opens the Preface chapter and the appendix of the Ordinary of the Mass closes the Last Gospel chapter; neither has a counterpart in the French.",
+      "tier": "A",
+      "tierEvidence": "Printed 1885."
+    }
+  ],
+  "toc": [
+    {
+      "id": "avant-propos",
+      "title": {
+        "fr-FR": "Avant-propos de la première édition",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "explication-de-la-messe",
+      "title": {
+        "fr-FR": "Explication de la messe",
+        "en-US": "Explanation of the Mass"
+      }
+    },
+    {
+      "id": "judica",
+      "title": {
+        "fr-FR": "Psaume Judica",
+        "en-US": "Judica, Psalm XLII"
+      }
+    },
+    {
+      "id": "confiteor",
+      "title": {
+        "fr-FR": "Confiteor",
+        "en-US": "Confiteor"
+      }
+    },
+    {
+      "id": "encensement-autel",
+      "title": {
+        "fr-FR": "Encensement de l’autel",
+        "en-US": "Incensing the Altar"
+      }
+    },
+    {
+      "id": "introit",
+      "title": {
+        "fr-FR": "Introït",
+        "en-US": "Introit"
+      }
+    },
+    {
+      "id": "kyrie",
+      "title": {
+        "fr-FR": "Kyrie",
+        "en-US": "Kyrie"
+      }
+    },
+    {
+      "id": "gloria",
+      "title": {
+        "fr-FR": "Gloria in excelsis",
+        "en-US": "Gloria in excelsis"
+      }
+    },
+    {
+      "id": "collecte",
+      "title": {
+        "fr-FR": "Collecte",
+        "en-US": "Collect"
+      }
+    },
+    {
+      "id": "epitre",
+      "title": {
+        "fr-FR": "Épître",
+        "en-US": "Epistle"
+      }
+    },
+    {
+      "id": "graduel",
+      "title": {
+        "fr-FR": "Graduel",
+        "en-US": "Gradual"
+      }
+    },
+    {
+      "id": "alleluia-trait",
+      "title": {
+        "fr-FR": "Alléluia, trait",
+        "en-US": "Alleluia, tract"
+      }
+    },
+    {
+      "id": "sequence",
+      "title": {
+        "fr-FR": "Séquence",
+        "en-US": "Sequence"
+      }
+    },
+    {
+      "id": "evangile",
+      "title": {
+        "fr-FR": "Évangile",
+        "en-US": "Gospel"
+      }
+    },
+    {
+      "id": "credo",
+      "title": {
+        "fr-FR": "Credo",
+        "en-US": "Credo"
+      }
+    },
+    {
+      "id": "offertoire",
+      "title": {
+        "fr-FR": "Offertoire",
+        "en-US": "The Offertory"
+      }
+    },
+    {
+      "id": "encensement-offertoire",
+      "title": {
+        "fr-FR": "Encensement de l’autel",
+        "en-US": "Incensing of the Altar"
+      }
+    },
+    {
+      "id": "lavabo",
+      "title": {
+        "fr-FR": "Lavabo",
+        "en-US": "Lavabo"
+      }
+    },
+    {
+      "id": "suscipe",
+      "title": {
+        "fr-FR": "Suscipe, sancta Trinitas",
+        "en-US": "Suscipe, sancta Trinitas"
+      }
+    },
+    {
+      "id": "orate-fratres",
+      "title": {
+        "fr-FR": "Orate, fratres",
+        "en-US": "Orate, fratres"
+      }
+    },
+    {
+      "id": "preface",
+      "title": {
+        "fr-FR": "Préface",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "sanctus",
+      "title": {
+        "fr-FR": "Sanctus",
+        "en-US": "Sanctus"
+      }
+    },
+    {
+      "id": "canon",
+      "title": {
+        "fr-FR": "Canon de la messe",
+        "en-US": "The Canon of the Mass"
+      }
+    },
+    {
+      "id": "te-igitur",
+      "title": {
+        "fr-FR": "Te igitur",
+        "en-US": "Te igitur"
+      }
+    },
+    {
+      "id": "memento-vivants",
+      "title": {
+        "fr-FR": "Memento des vivants",
+        "en-US": "Memento of the living"
+      }
+    },
+    {
+      "id": "communicantes",
+      "title": {
+        "fr-FR": "Communicantes",
+        "en-US": "Communicantes"
+      }
+    },
+    {
+      "id": "hanc-igitur",
+      "title": {
+        "fr-FR": "Hanc igitur",
+        "en-US": "Hanc igitur"
+      }
+    },
+    {
+      "id": "quam-oblationem",
+      "title": {
+        "fr-FR": "Quam oblationem",
+        "en-US": "Quam oblationem"
+      }
+    },
+    {
+      "id": "consecration-hostie",
+      "title": {
+        "fr-FR": "Consécration de l’hostie",
+        "en-US": "Consecration of the host"
+      }
+    },
+    {
+      "id": "consecration-vin",
+      "title": {
+        "fr-FR": "Consécration du vin",
+        "en-US": "Consecration of the wine"
+      }
+    },
+    {
+      "id": "unde-et-memores",
+      "title": {
+        "fr-FR": "Unde et memores",
+        "en-US": "Unde et memores"
+      }
+    },
+    {
+      "id": "supra-quae",
+      "title": {
+        "fr-FR": "Supra quae propitio",
+        "en-US": "Supra quae propitio"
+      }
+    },
+    {
+      "id": "supplices",
+      "title": {
+        "fr-FR": "Supplices te rogamus",
+        "en-US": "Supplices te rogamus"
+      }
+    },
+    {
+      "id": "memento-morts",
+      "title": {
+        "fr-FR": "Memento des morts",
+        "en-US": "Memento of the dead"
+      }
+    },
+    {
+      "id": "nobis-quoque",
+      "title": {
+        "fr-FR": "Nobis quoque peccatoribus",
+        "en-US": "Nobis quoque peccatoribus"
+      }
+    },
+    {
+      "id": "per-quem",
+      "title": {
+        "fr-FR": "Per quem haec omnia",
+        "en-US": "Per quem haec omnia"
+      }
+    },
+    {
+      "id": "oraison-dominicale",
+      "title": {
+        "fr-FR": "L’oraison dominicale",
+        "en-US": "The Lord’s Prayer"
+      }
+    },
+    {
+      "id": "libera-nos",
+      "title": {
+        "fr-FR": "Libera nos, quaesumus",
+        "en-US": "Libera nos, quaesumus"
+      }
+    },
+    {
+      "id": "agnus-dei",
+      "title": {
+        "fr-FR": "Agnus Dei",
+        "en-US": "Agnus Dei"
+      }
+    },
+    {
+      "id": "oraisons-avant-communion",
+      "title": {
+        "fr-FR": "Oraisons avant la communion",
+        "en-US": "Prayers before the Communion"
+      }
+    },
+    {
+      "id": "communion",
+      "title": {
+        "fr-FR": "Communion",
+        "en-US": "Communion"
+      }
+    },
+    {
+      "id": "postcommunion",
+      "title": {
+        "fr-FR": "Postcommunion",
+        "en-US": "Postcommunion"
+      }
+    },
+    {
+      "id": "ite-missa-est",
+      "title": {
+        "fr-FR": "Ite, missa est",
+        "en-US": "Ite, missa est"
+      }
+    },
+    {
+      "id": "benediction",
+      "title": {
+        "fr-FR": "Bénédiction",
+        "en-US": "The Blessing"
+      }
+    },
+    {
+      "id": "dernier-evangile",
+      "title": {
+        "fr-FR": "Dernier évangile",
+        "en-US": "The Last Gospel"
+      }
+    }
+  ]
+}

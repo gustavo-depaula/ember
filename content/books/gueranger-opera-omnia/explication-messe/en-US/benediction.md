@@ -1,0 +1,3 @@
+# The Blessing
+
+After this prayer, the Priest kisses the Altar, raises his eyes to heaven, stretches out his hands, and then bows before the Cross, saying: Benedicat vos omnipotens Deus, then turning round to the people, he adds, blessing them: Pater, et Filius, et Spiritus Sanctus; to which they answer: Amen. A simple Priest should only give the blessing once, even in solemn Masses; whereas, Bishops, by way of distinction, give it thrice. Prelates likewise bless three times, when they celebrate pontifically. Some of them are even allowed to do so in a Low Mass; but if so, it is only by privilege. The Blessing is not given in a Requiem Mass, because it is a sign of joy which would ill contrast with the mournfulness pervading the function.

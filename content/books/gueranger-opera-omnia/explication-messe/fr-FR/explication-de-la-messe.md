@@ -1,0 +1,9 @@
+# Explication de la messe
+
+L’ordinaire de la Messe, *Ordo Missae*, est l’ensemble des rubriques et des prières servant à la célébration de la Messe et dont la disposition ne change pas, malgré la variété des fêtes célébrées par l’Église.
+
+On ne saurait avoir une idée complète des cérémonies de la Messe, qu’en se reportant à la Messe solennelle, *Missa solemnis*, ou Grand’Messe, type de toutes les autres. On aurait sujet, en effet, de se demander, par exemple, pourquoi le Prêtre s’en va dire l’Épître à un côté de l’autel, l’Évangile à l’autre, plutôt que de rester au milieu. Cela n’a pas trait au Sacrifice, et ne fait que rappeler ce qui se pratique dans la Messe solennelle : le Diacre lisant l’Évangile à gauche, le Sous-Diacre lisant l’Épître à droite, comme nous l’expliquerons plus loin. Le Prêtre remplissant seul les fonctions exercées par le Diacre et le Sous-Diacre va successivement à la place que ceux-ci occupent à la Messe solennelle. II faut donc souvent chercher dans la Messe solennelle les raisons qui font agir le Prêtre qui dit une Messe basse.
+
+Le Sacrifice de la Messe est le Sacrifice de la Croix ; nous y devons voir Notre Seigneur cloué à la Croix, et offrant son sang, pour nos péchés, à Dieu son Père. Toutefois on ne saurait absolument trouver dans les différentes parties de la Messe les diverses circonstances de la Passion de Notre Seigneur, ainsi qu’ont voulu le faire certains auteurs traitant de méthodes pour assister à la Messe.
+
+Le Prêtre sort de la sacristie et se rend à l’autel pour offrir le saint Sacrifice. Il est, dit la rubrique, *paratus*, c’est-à-dire revêtu des parements sacrés, ou ornements propres à la célébration de la sainte Messe. Arrivé devant l’autel, il y fait la révérence due, c’est-à-dire que, si le Saint-Sacrement s’y trouve, il fait la génuflexion ; s’il n’y est pas, il se contente d’une profonde inclination ; voilà pourquoi la rubrique porte ces mots : *debita reverentia*.

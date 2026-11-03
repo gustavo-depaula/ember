@@ -1,0 +1,5 @@
+# Postcommunion
+
+All these things being completed, the Priest, after saying Dominus vobiscum, recites the final Prayer, which is now called the Postcommunion, but which, in the Sacramentary of Saint Gregory was designated as: Oratio ad complendum. No mention is there made of the Communion Antiphon being to be said by the Priest, because this being one of the sung parts, has no place in the Sacramentary. It was but the Antiphon of a Psalm, sung during the Communion. We have a vestige of this custom in the Mass of the Dead. It was the same also with the Introit, the chanting of which used to accompany the Priest from the moment of his quitting the Sacrarium till he reached the Altar.
+
+This Prayer called the Postcommunion is an important one: in it, mention is always made of the Communion just received. It is immediately followed by the ordinary good wish of the Priest to the people: Dominus Vobiscum. Then the Deacon, turning towards the assembly of the faithful, intones the following words:

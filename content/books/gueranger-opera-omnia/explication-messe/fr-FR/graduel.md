@@ -1,0 +1,3 @@
+# Graduel
+
+Entre l’Épître et l’Évangile on chante le *Graduel*. Il se compose d’un Répons avec son verset ; autrefois on reprenait le Répons tout entier avant et après le verset, dans la forme encore usitée pour les Répons brefs, mais sur une mélodie très ornée. Le *Graduel* est en effet la partie la plus musicale de l’Office ; et comme le chant en est très délicat, jamais plus de deux chantres n’étaient admis à le faire entendre. Ceux-ci se rendaient pour cela à l’ambon, espèce de chaire en marbre placée dans l’Église, et c’est précisément à cause des degrés de l’ambon qu’il fallait monte, que ce morceau a reçu le nom de *Graduel ;* de même qu’on a appelé *Psaumes graduels*, ceux que les juifs chantaient en montant les degrés du Temple.

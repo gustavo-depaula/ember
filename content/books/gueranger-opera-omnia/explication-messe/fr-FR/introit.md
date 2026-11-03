@@ -1,0 +1,7 @@
+# Introït
+
+La cérémonie de l’encensement terminée, le Prêtre dit l’Introït. Autrefois, le Prêtre ne faisait pas ainsi ; *l’Ordo* de saint Grégoire nous dit que le Prêtre s’habillait clans le *Secretarium* et qu’il se rendait à l’autel, précédé de la Croix et des chandeliers. Pendant ce temps on chantait au chœur l’Introït, qui était plus long que de nos jours ; car on chantait le Psaume dont on ne dit actuellement qu’un verset avec le *Gloria.* De même le chœur s’occupait seul des autres pièces qui devaient être chantées durant la Messe L’usage de faire dire ces différentes parties par le Prêtre est venu avec celui des Messes basses, et on a fini par l’observer dans les Grand’Messes.
+
+Les anciens Missels, pour cette raison, n’étaient pas semblables à ceux dont nous nous servons aujourd’hui ; ils contenaient simplement les Oraisons : Collectes, Secrètes, Postcommunions, les Préfaces et le Canon ; ils portaient le nom de Sacramentaires. Tout ce qui se chantait se trouvait dans *l’Antiphonarium*, qui a reçu aujourd’hui le nom de *Graduale*. (Les chants de la Messe ne sont en effet, pour la plupart, que des Antiennes plus chargées de notes que les Antiennes ordinaires.) De nos jours, depuis que l’usage des Messes basses s’est introduit, le Missel renferme tout ce que le chœur chantait autrefois, ainsi que les Epîtres et les Évangiles.
+
+Le Prêtre, ainsi que le chœur, fait le signe de la Croix en commençant l’Introït, parce que cette pièce est regardée comme le commencement des Lectures. Aux Messes des Morts il se contente de signer le livre.

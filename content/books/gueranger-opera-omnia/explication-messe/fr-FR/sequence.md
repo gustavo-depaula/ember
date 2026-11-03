@@ -1,0 +1,7 @@
+# Séquence
+
+Dans quelques solennités, on ajoute à *l’Alléluia* ou au *Trait* , ce qu’on appelle la *Séquence*, *Sequentia*,. Elle fut ajoutée au chant de la Messe bien après saint Grégoire, vers le 9e siècle. Elle a reçu le nom de *Sequentia,* c’est-à-dire suite, parce qu’elle consistait primitivement en un texte qu’on adaptait aux notes mélodiques qui font *suite* au mot *Alléluia*, et qui s’appelaient déjà *Sequentia,* avant l’invention de la Séquence.
+
+On l’appelle aussi *Prosa*, Prose, parce que dans l’origine, elle ne ressemblait ni aux hymnes mesurées dont on trouve des modèles chez les anciens, ni aux rythmes régulièrement cadencés qui ont fait leur apparition plus tardivement. C’était un véritable morceau de prose que l’on chantait ainsi simplement, comme nous l’avons dit, pour revêtir de paroles le neume de *l’Alléluia*. Peu à peu toutefois on rapprocha son genre de celui des hymnes. – La Séquence servait ainsi à relever la solennité des Offices, et pendant qu’on la chantait, les cloches et l’orgue se faisaient entendre. On en fit pour toutes les fêtes, et aussi pour les Dimanches au temps de l’Avent
+
+Dans la réforme du Missel romain, sous saint Pie V, quatre d’entre elles seulement furent conservées. Ce sont le *Victimae Paschali*, la plus ancienne de toutes, et modèle de toute Prose ; le *Veni Sancte Spiritus, le Lauda Sion* et *le Dies irae*. Plus tard on y ajouta le *Stabat Mater*. Notre Missel monastique renferme aussi le *Laeta dies*, pour la fête de saint Benoît ; c’est une composition qui date du 16e siècle.
