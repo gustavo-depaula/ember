@@ -1,8 +1,8 @@
 # The Last Children; or, The Beautiful Midnight
 
-SIGH! Sigh! Sigh! said the midnight wind, as it swept over the great Brazilian forest. And the tall palms trembled, and waved their green fans, to get all the sea s coolness, which came in the breeze; and their feathery domes swung to and fro, like ships rocking at anchor.
+SIGH! Sigh! Sigh! said the midnight wind, as it swept over the great Brazilian forest. And the tall palms trembled, and waved their green fans, to get all the sea's coolness, which came in the breeze; and their feathery domes swung to and fro, like ships rocking at anchor.
 
-Lilalpa! death must be very beautiful, said Oniato: for death is God s night.
+Lilalpa! death must be very beautiful, said Oniato: for death is God's night.
 
 Ah! Oniato, replied Lilalpa, but light is more beautiful than darkness.
 
@@ -40,7 +40,7 @@ Dearest Lilalpa! said Oniato, you know I love you: you know what I mean.
 
 yes, Brother, replied Lilalpa, I am not un happy. I do know what you mean; for I feel the same myself: and yet I love you, oh so much; so much it hurts my heart sometimes!
 
-And Oniato threw his arms round her, and said, We will find God to-night. And a star shone into Lilalpa s tearful eyes. sometimes the stars seem almost to speak by their shining.
+And Oniato threw his arms round her, and said, We will find God to-night. And a star shone into Lilalpa's tearful eyes. sometimes the stars seem almost to speak by their shining.
 
 Ah! Oniato! I wish our father would not burn those white-faced priests in the fires of the snake-temples. Even now it seems to me as if the wind was full of the sound of those sighs and murmurs which they make in the fire.
 
@@ -48,7 +48,7 @@ And yet, Lilalpa, they are not like the mur murs of pain or anger.
 
 No! that is the strange thing.
 
-Lilalpa! I cannot breathe in my father s palace. I have enticed you here on purpose. Let us find God. If not, let us live in the forest, and die here, like flowers. Let us seek the white-faced man of God whom my father drove into the forest to-day to die of hunger, or to be eaten by the wild beasts. I have hidden a flask of wine in my clothes to take to him, if we can find him.
+Lilalpa! I cannot breathe in my father's palace. I have enticed you here on purpose. Let us find God. If not, let us live in the forest, and die here, like flowers. Let us seek the white-faced man of God whom my father drove into the forest to-day to die of hunger, or to be eaten by the wild beasts. I have hidden a flask of wine in my clothes to take to him, if we can find him.
 
 Oniato! shall we ask those dear stars to lead us to him?
 
@@ -94,9 +94,9 @@ They went up to the priest, and poured some wine down his throat, and he revived
 
 My children! who are you?
 
-We are the king s children. We want to know about your God.
+We are the king's children. We want to know about your God.
 
-He smiled, and kissed them, saying, You shall be king s children indeed! r
+He smiled, and kissed them, saying, You shall be king's children indeed! r
 
 Then it thundered again under their feet, and it thundered over their heads, and the trees moaned, and the meteors crackled.
 
@@ -116,7 +116,7 @@ Behold! ten thousand wild-beasts, howling and moaning, rushed past them, pursued
 
 And he told them of the Mount of Olives, and the Ascension, and the coming again to Judgment.
 
-And Lilalpa took hold of Oniato s hand and they both looked up to heaven, and said, Jesus! Jesus!
+And Lilalpa took hold of Oniato's hand and they both looked up to heaven, and said, Jesus! Jesus!
 
 And the priest smiled, and wept.
 
@@ -136,9 +136,9 @@ And he baptized the children.
 
 And when they were baptized, they said, Come, sweet Jesus!
 
-And the earthquake shook the rock on which they stood, and it rolled over into the deep foamy water, and, as they fell, the priest s arm was round them, and they saw St. Joseph smiling at them, and he pointed upwards where a heavenly Lady, all dressed in golden light, was waiting for them.
+And the earthquake shook the rock on which they stood, and it rolled over into the deep foamy water, and, as they fell, the priest's arm was round them, and they saw St. Joseph smiling at them, and he pointed upwards where a heavenly Lady, all dressed in golden light, was waiting for them.
 
-At first they thought it was their mother. But the Lady was more beautiful than their mother, and, though it seems strange to say so, her face was more full of love than their mother s was. Yet everybody, who sees that heavenly Lady for the first time, thinks her like his mother, because her beauty is so motherly.
+At first they thought it was their mother. But the Lady was more beautiful than their mother, and, though it seems strange to say so, her face was more full of love than their mother's was. Yet everybody, who sees that heavenly Lady for the first time, thinks her like his mother, because her beauty is so motherly.
 
 Then they kissed each other, and said, The Angels are whispering in our hearts, that it is Mary of Bethlehem; and they cried, Dear Mary! And all three sank into the cold waters, and it thundered louder than ever, and the water gurg led in their ears, and they clung closer together, and it was painful for a moment. Then their ears were full of the sounds of harps, and they t opened their eyes, and {he water was turned into light, and it was heaven!
 
