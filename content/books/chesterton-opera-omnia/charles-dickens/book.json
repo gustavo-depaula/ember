@@ -1,0 +1,111 @@
+{
+  "id": "chesterton-charles-dickens",
+  "cover": "classic",
+  "name": {
+    "en-US": "Charles Dickens: A Critical Study",
+    "pt-BR": "Charles Dickens: Um Estudo Crítico"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's celebrated life and criticism of Dickens, which made his reputation as a literary critic: the Dickens period, boyhood and youth, Pickwick, the great popularity, America, Christmas, later works, the great characters, the alleged optimism of Dickens and a note on his future.",
+    "pt-BR": "A célebre vida e crítica de Dickens por Chesterton, que lhe deu fama de crítico literário: o período dickensiano, a infância e juventude, Pickwick, a grande popularidade, a América, o Natal, as obras tardias, os grandes personagens, o suposto otimismo de Dickens e uma nota sobre o seu futuro."
+  },
+  "composed": "1906",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/charles-dickens",
+  "editions": {
+    "en-US": {
+      "editor": "Methuen & Co.",
+      "year": 1906
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/68682",
+      "edition": "Charles Dickens: A Critical Study (Methuen & Co., 1906), Project Gutenberg #68682.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1906 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-dickens-period",
+      "title": {
+        "en-US": "I. The Dickens Period"
+      }
+    },
+    {
+      "id": "ch02-the-boyhood-of-dickens",
+      "title": {
+        "en-US": "II. The Boyhood of Dickens"
+      }
+    },
+    {
+      "id": "ch03-the-youth-of-dickens",
+      "title": {
+        "en-US": "III. The Youth of Dickens"
+      }
+    },
+    {
+      "id": "ch04-the-pickwick-papers",
+      "title": {
+        "en-US": "IV. “The Pickwick Papers”"
+      }
+    },
+    {
+      "id": "ch05-the-great-popularity",
+      "title": {
+        "en-US": "V. The Great Popularity"
+      }
+    },
+    {
+      "id": "ch06-dickens-and-america",
+      "title": {
+        "en-US": "VI. Dickens and America"
+      }
+    },
+    {
+      "id": "ch07-dickens-and-christmas",
+      "title": {
+        "en-US": "VII. Dickens and Christmas"
+      }
+    },
+    {
+      "id": "ch08-the-time-of-transition",
+      "title": {
+        "en-US": "VIII. The Time of Transition"
+      }
+    },
+    {
+      "id": "ch09-later-life-and-works",
+      "title": {
+        "en-US": "IX. Later Life and Works"
+      }
+    },
+    {
+      "id": "ch10-the-great-dickens-characters",
+      "title": {
+        "en-US": "X. The Great Dickens Characters"
+      }
+    },
+    {
+      "id": "ch11-on-the-alleged-optimism-of-dickens",
+      "title": {
+        "en-US": "XI. On the Alleged Optimism of Dickens"
+      }
+    },
+    {
+      "id": "ch12-a-note-on-the-future-of-dickens",
+      "title": {
+        "en-US": "XII. A Note on the Future of Dickens"
+      }
+    }
+  ]
+}
