@@ -1,0 +1,47 @@
+{
+  "id": "marmion-consecration-trinity",
+  "name": {
+    "fr-FR": "Acte de consécration (Noël 1908)",
+    "en-US": "Act of Consecration (Christmas 1908)",
+    "pt-BR": "Ato de consagração (Natal de 1908)"
+  },
+  "author": {
+    "fr-FR": "Bx Columba Marmion",
+    "en-US": "Bl. Columba Marmion",
+    "pt-BR": "Bem-aventurado Columba Marmion"
+  },
+  "description": {
+    "fr-FR": "L’acte de consécration au Père, au Fils et à l’Esprit-Saint que dom Marmion composa le jour de Noël 1908 et renouvela à Paray-le-Monial en mars 1909 : le résumé de ses « lumières » sur le Christ et la réponse à tant d’appels divins. Texte cité par dom Raymond Thibaut dans « Dom Columba Marmion, un maître de la vie spirituelle ».",
+    "en-US": "The act of consecration to the Father, the Son and the Holy Spirit that Dom Marmion wrote on Christmas Day 1908 and renewed at Paray-le-Monial in March 1909. French text as quoted by Dom Raymond Thibaut in his biography; no English translation is included.",
+    "pt-BR": "O ato de consagração ao Pai, ao Filho e ao Espírito Santo que dom Marmion compôs no Natal de 1908 e renovou em Paray-le-Monial em março de 1909. Texto citado por dom Raymond Thibaut em sua biografia."
+  },
+  "composed": "1908",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "marmion/consecration-trinity",
+  "editions": {
+    "fr-FR": {
+      "editor": "Dom Raymond Thibaut, O.S.B. (quoted in Dom Columba Marmion, Maredsous, 2nd ed.)",
+      "year": 1930
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/un0000unse",
+      "edition": "Dom Raymond Thibaut, Dom Columba Marmion, abbé de Maredsous, un maître de la vie spirituelle, 2e éd., Maredsous, 1930, p. 190. Internet Archive scan, OCR text.",
+      "description": "The act of consecration only, transcribed from the biography (whose OCR reads à as 4 or A) and corrected by hand. Marmion’s many letters quoted in the biography are not imported.",
+      "tier": "A",
+      "tierEvidence": "Marmion’s own text (died 1923), quoted in a 1930 work."
+    }
+  ],
+  "toc": [
+    {
+      "id": "acte-de-consecration",
+      "title": {
+        "fr-FR": "Acte de consécration (Noël 1908)"
+      }
+    }
+  ]
+}
