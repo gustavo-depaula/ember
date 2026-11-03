@@ -12,6 +12,7 @@ export {
   type ShelfBook,
   shortReads,
 } from './catalog'
+export { type AuthorGuide, type GuideSection, resolveGuide } from './guide'
 export {
   AuthorFace,
   AuthorTile,
@@ -20,11 +21,13 @@ export {
   bookHref,
   LinkRow,
   languagesOf,
+  RowCover,
   ShelfCover,
   ShelfLabel,
   ShelfTabs,
   sortName,
   useReadingTime,
 } from './parts'
+export { GuideSectionView, ReadingGuide, useReadingGuide } from './ReadingGuide'
 export { ShelfPage } from './ShelfPage'
 export { type Shelf, useShelf } from './useShelf'

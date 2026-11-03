@@ -10,5 +10,152 @@
     "St. Therese of Lisieux",
     "St. Thérèse of the Child Jesus",
     "Thérèse, de Lisieux, Saint, 1873-1897"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "Her own story, written in obedience for her sisters. Everything else grows from it.",
+        "pt-BR": "A própria história, escrita por obediência para as irmãs. Todo o resto nasce dela."
+      },
+      "works": [
+        {
+          "work": "therese-of-lisieux/histoire-d-une-ame",
+          "why": {
+            "en-US": "The book that made her known, as first published in 1898",
+            "pt-BR": "O livro que a tornou conhecida, como saiu em 1898"
+          }
+        },
+        {
+          "work": "therese-of-lisieux/manuscrits-autobiographiques",
+          "why": {
+            "en-US": "The same story as she wrote it, in three manuscripts",
+            "pt-BR": "A mesma história como ela a escreveu, em três manuscritos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Her last months",
+        "pt-BR": "Os últimos meses"
+      },
+      "note": {
+        "en-US": "Taken down at her bedside by her sisters, April to September 1897.",
+        "pt-BR": "Anotados à sua cabeceira pelas irmãs, de abril a setembro de 1897."
+      },
+      "works": [
+        {
+          "work": "therese-of-lisieux/derniers-entretiens",
+          "why": {
+            "en-US": "Her last words on suffering, trust and the Little Way",
+            "pt-BR": "Suas últimas palavras sobre o sofrimento, a confiança e a pequena via"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Prayer",
+        "pt-BR": "Oração"
+      },
+      "note": {
+        "en-US": "The prayers she wrote for herself and her novices.",
+        "pt-BR": "As orações que escreveu para si e para as noviças."
+      },
+      "works": [
+        {
+          "work": "therese-of-lisieux/prieres",
+          "why": {
+            "en-US": "All of them, with the Act of Oblation to Merciful Love",
+            "pt-BR": "Todas, com o Ato de Oferecimento ao Amor Misericordioso"
+          }
+        },
+        {
+          "work": "therese-of-lisieux/prieres-1898",
+          "why": {
+            "en-US": "The selection printed with the first Story of a Soul",
+            "pt-BR": "A seleção impressa com a primeira História de uma alma"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Letters",
+        "pt-BR": "Cartas"
+      },
+      "note": {
+        "en-US": "To her family, her sisters in Carmel and her two missionary brothers.",
+        "pt-BR": "À família, às irmãs do Carmelo e aos dois irmãos missionários."
+      },
+      "works": [
+        {
+          "work": "therese-of-lisieux/lettres",
+          "why": {
+            "en-US": "The whole correspondence, 1877–1897",
+            "pt-BR": "Toda a correspondência, 1877–1897"
+          }
+        },
+        {
+          "work": "therese-of-lisieux/lettres-1898",
+          "why": {
+            "en-US": "The letters chosen for the 1898 edition",
+            "pt-BR": "As cartas escolhidas para a edição de 1898"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Poems and plays",
+        "pt-BR": "Poesias e peças"
+      },
+      "note": {
+        "en-US": "Written for the community’s feast \"days\": the Little Way in verse.",
+        "pt-BR": "Escritas para as festas da \"comunidade\": a pequena via em verso."
+      },
+      "works": [
+        {
+          "work": "therese-of-lisieux/poesies",
+          "why": {
+            "en-US": "Her poems, “To live by love” among them",
+            "pt-BR": "Suas poesias, entre elas “Viver de amor”"
+          }
+        },
+        {
+          "work": "therese-of-lisieux/recreations-pieuses",
+          "why": {
+            "en-US": "The plays she wrote for recreation, Joan of Arc among them",
+            "pt-BR": "As peças que escreveu para o recreio, entre elas Joana d’Arc"
+          }
+        },
+        {
+          "work": "therese-of-lisieux/poems-emery",
+          "why": {
+            "en-US": "An English verse translation of 1907",
+            "pt-BR": "Uma tradução inglesa em verso, de 1907"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Other writings",
+        "pt-BR": "Outros escritos"
+      },
+      "works": [
+        {
+          "work": "therese-of-lisieux/ecrits-divers",
+          "why": {
+            "en-US": "Notes, holy cards and fragments",
+            "pt-BR": "Notas, santinhos e fragmentos"
+          }
+        }
+      ]
+    }
   ]
 }

@@ -8,6 +8,8 @@ export type ShelfBook = {
   title: string
   author?: string
   authorRef?: string
+  /** The work it is an edition of; a book naming none is its own work, under its id. */
+  work: string
   cover?: TileCover
   langs: string[]
   /** Minutes to read it in the first language it reads in, by the reader's preference. */
@@ -54,6 +56,7 @@ export function shelfBook(
     title: localize((entry.name ?? entry.title ?? {}) as Record<string, string>) || bareId(id),
     author: author || undefined,
     authorRef: entry.authorRef,
+    work: entry.work ?? bareId(id),
     cover: coverFor(entry),
     langs: entry.langs ?? [],
     minutes: preferred(entry.minutes, lang),

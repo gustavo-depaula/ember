@@ -1262,6 +1262,8 @@ export default {
     notFound: 'This chant is not in the library.',
   },
   shelf: {
+    writings: 'Writings',
+    otherWorks: 'Other works',
     arrivals: 'New arrivals',
     arrivalsEmpty: 'Nothing has arrived in the last two months.',
     newBook: 'New',

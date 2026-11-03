@@ -56,7 +56,6 @@ export function BookRow({
 }) {
   const { t } = useTranslation()
   const router = useRouter()
-  const image = artFor(book.id)
   return (
     <AnimatedPressable
       onPress={() => router.push(bookHref(book))}
@@ -64,31 +63,7 @@ export function BookRow({
       accessibilityLabel={t('a11y.openShelfItem', { name: book.title })}
     >
       <XStack gap="$md" alignItems="center" paddingVertical="$xs" minHeight={56}>
-        {image || !book.cover ? (
-          <YStack
-            width={thumbWidth}
-            height={thumbWidth * 1.5}
-            borderRadius={4}
-            overflow="hidden"
-            backgroundColor={toneForKey(book.id).from}
-          >
-            {image ? (
-              <Image
-                source={image}
-                style={{ flex: 1 }}
-                contentFit="cover"
-                cachePolicy="memory-disk"
-              />
-            ) : null}
-          </YStack>
-        ) : (
-          <GeneratedCover
-            cover={book.cover}
-            title={book.title}
-            tone={toneForKey(book.id)}
-            width={thumbWidth}
-          />
-        )}
+        <RowCover book={book} />
         <YStack flex={1} gap={2}>
           <Typography fontSize="$3" numberOfLines={2}>
             {book.title}
@@ -106,6 +81,34 @@ export function BookRow({
         ) : null}
       </XStack>
     </AnimatedPressable>
+  )
+}
+
+/** A book's cover, small, as a row of the shelf draws it: its art, else its drawn cover. */
+export function RowCover({ book }: { book: ShelfBook }) {
+  const image = artFor(book.id)
+  if (!image && book.cover) {
+    return (
+      <GeneratedCover
+        cover={book.cover}
+        title={book.title}
+        tone={toneForKey(book.id)}
+        width={thumbWidth}
+      />
+    )
+  }
+  return (
+    <YStack
+      width={thumbWidth}
+      height={thumbWidth * 1.5}
+      borderRadius={4}
+      overflow="hidden"
+      backgroundColor={toneForKey(book.id).from}
+    >
+      {image ? (
+        <Image source={image} style={{ flex: 1 }} contentFit="cover" cachePolicy="memory-disk" />
+      ) : null}
+    </YStack>
   )
 }
 
@@ -313,15 +316,8 @@ export function ShelfTabs<T extends string>({
   )
 }
 
-const languageCodes: Record<string, string> = {
-  'pt-BR': 'PT',
-  'en-US': 'EN',
-  la: 'LA',
-  it: 'IT',
-  'fr-FR': 'FR',
-}
-
 /** "PT · EN · LA": the languages a book reads in. */
 export function languagesOf(book: ShelfBook): string {
-  return book.langs.map((l) => languageCodes[l] ?? l.toUpperCase()).join(' · ')
+  // The language alone, not its region: es-ES reads as ES, as pt-BR does as PT.
+  return book.langs.map((l) => l.split('-')[0].toUpperCase()).join(' · ')
 }

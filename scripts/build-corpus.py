@@ -1773,6 +1773,34 @@ def build_authors(b: Builder) -> dict[str, str]:
     return by_book_author
 
 
+def check_author_guides(b: Builder) -> None:
+    """An author's `guide` is the reading order the app shows on their page and
+    holy card: titled sections of works, each work once. A book naming no
+    `work` is its own work, under its book id. A guide must name every work of
+    its author, so a newly imported book can't go missing from the page."""
+    works_of: dict[str, set[str]] = {}
+    for item_id, entry in b.catalog.items():
+        if entry.get("kind") == "book" and entry.get("authorRef"):
+            works_of.setdefault(entry["authorRef"], set()).add(entry.get("work") or item_id.split("/", 1)[1])
+    for f in sorted((CONTENT / "authors").glob("*.json")):
+        guide = json.loads(f.read_text(encoding="utf-8")).get("guide")
+        if guide is None:
+            continue
+        where = f"author {f.stem}: guide"
+        listed: list[str] = []
+        for i, section in enumerate(guide):
+            title = section.get("title") or {}
+            if not (title.get("en-US") and title.get("pt-BR")):
+                raise SystemExit(f"{where} section {i + 1} needs an en-US and a pt-BR title")
+            listed += [w["work"] for w in section.get("works") or []]
+        twice = sorted({w for w in listed if listed.count(w) > 1})
+        unknown = sorted(set(listed) - works_of.get(f.stem, set()))
+        missing = sorted(works_of.get(f.stem, set()) - set(listed))
+        for label, ws in (("lists twice", twice), ("names works not by this author", unknown), ("leaves out", missing)):
+            if ws:
+                raise SystemExit(f"{where} {label}: {', '.join(ws)}")
+
+
 def build_creators(b: Builder) -> None:
     """Catholic creators — directory + per-creator manifest.
 
@@ -1878,6 +1906,7 @@ def main(argv: list[str]) -> int:
     authors = build_authors(b)
     print("[corpus] books...")
     build_books(b, authors)
+    check_author_guides(b)
     print("[corpus] of (rebuilt missal corpus)...")
     build_missal(b)
     print("[corpus] liturgy of the hours...")

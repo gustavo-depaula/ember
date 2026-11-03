@@ -16,6 +16,7 @@ import { Text, View, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, PageWidth } from '@/components'
 import { Typography } from '@/components/typography'
+import { useShelf } from '@/features/books/shelf'
 import type { SaintEntry } from '../data/catalog'
 import { useSaintsCatalog } from '../data/catalog'
 import { useCopies } from '../data/collection'
@@ -24,7 +25,13 @@ import { useSaintLife } from '../useSaintLife'
 import { useWaysToReceive } from '../useWaysToReceive'
 import { ReceiveChapter } from './ReceiveChapter'
 import { SaintCard, saintCardWidth } from './SaintCard'
-import { CardsChapter, FeastChapter, LifeChapter, PrayChapter, ReadChapter } from './SaintChapters'
+import {
+  CardsChapter,
+  FeastChapter,
+  LifeChapter,
+  PrayChapter,
+  WritingsChapter,
+} from './SaintChapters'
 
 // The hero is a dark stage whatever the theme: the card is lit against it.
 const night = '#17120E'
@@ -102,6 +109,7 @@ export const SaintPage = memo(function SaintPage({
   const { t } = useTranslation()
   const insets = useSafeAreaInsets()
   const { byId } = useSaintsCatalog()
+  const shelf = useShelf()
   const copies = useCopies(saint.id)
   const held = copies.length > 0
   // The first copy: how the card first came.
@@ -139,14 +147,22 @@ export const SaintPage = memo(function SaintPage({
         body: <PrayChapter shelves={saint.pray} />,
       })
     }
-    if (saint.read.length > 0 || saint.collections.length > 0) {
-      const count = saint.read.reduce((n, s) => n + s.refs.length, 0) + saint.collections.length
+    // The saint's own books come from their author's reading guide, so the card
+    // lists none of them again among its other readings.
+    const authors = shelf.authors.filter((a) => a.saint === saint.id)
+    const own = new Set(authors.flatMap((a) => a.books.map((b) => b.id)))
+    const read = saint.read
+      .map((s) => ({ ...s, refs: s.refs.filter((ref) => !own.has(ref)) }))
+      .filter((s) => s.refs.length > 0)
+    if (own.size > 0 || read.length > 0 || saint.collections.length > 0) {
+      const count =
+        own.size + read.reduce((n, s) => n + s.refs.length, 0) + saint.collections.length
       out.push({
         key: 'read',
         title: t('saints.page.reading'),
         chip: t('saints.page.chip.reading'),
         meta: String(count),
-        body: <ReadChapter shelves={saint.read} collections={saint.collections} />,
+        body: <WritingsChapter authors={authors} shelves={read} collections={saint.collections} />,
       })
     }
     if (feast) {

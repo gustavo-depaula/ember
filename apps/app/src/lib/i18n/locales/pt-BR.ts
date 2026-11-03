@@ -1267,6 +1267,8 @@ export default {
     notFound: 'Este canto não está na biblioteca.',
   },
   shelf: {
+    writings: 'Escritos',
+    otherWorks: 'Outras obras',
     arrivals: 'Recém-chegados',
     arrivalsEmpty: 'Nada chegou nos últimos dois meses.',
     newBook: 'Novo',

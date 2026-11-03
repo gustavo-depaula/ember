@@ -8,6 +8,7 @@ import { ProseBlock } from '@/components/prayer'
 import { Typography } from '@/components/typography'
 import { bareId, getEntry, getRememberedManifest } from '@/content/contentIndex'
 import type { PracticeManifest } from '@/content/manifestTypes'
+import { byTitle, ReadingGuide, type ShelfAuthor, useReadingGuide } from '@/features/books/shelf'
 import { CollectionTile } from '@/features/collections'
 import { CardRow } from '@/features/explore/CardRow'
 import { practiceHref } from '@/features/practices/practiceHref'
@@ -178,6 +179,50 @@ export function ReadChapter({
           </CardRow>
         </YStack>
       ))}
+    </YStack>
+  )
+}
+
+/**
+ * The saint's own writings, in their author's reading guide (by title for an
+ * author with no guide yet), then the card's other readings and collections.
+ * A card of two saints shows each one's writings under their name.
+ */
+export function WritingsChapter({
+  authors,
+  shelves,
+  collections,
+}: {
+  authors: ShelfAuthor[]
+  shelves: ContentShelf[]
+  collections: string[]
+}) {
+  return (
+    <YStack gap="$lg">
+      {authors.map((author) => (
+        <AuthorWritings key={author.id} author={author} named={authors.length > 1} />
+      ))}
+      {shelves.length > 0 || collections.length > 0 ? (
+        <ReadChapter shelves={shelves} collections={collections} />
+      ) : null}
+    </YStack>
+  )
+}
+
+function AuthorWritings({ author, named }: { author: ShelfAuthor; named: boolean }) {
+  const { t } = useTranslation()
+  const guide = useReadingGuide(author)
+  if (guide.pending) return null
+  const sections = guide.sections ?? [
+    {
+      title: t('shelf.writings'),
+      entries: [...author.books].sort(byTitle).map((book) => ({ book })),
+    },
+  ]
+  return (
+    <YStack gap="$md">
+      {named ? <ShelfTitle title={author.name} /> : null}
+      <ReadingGuide sections={sections} />
     </YStack>
   )
 }
