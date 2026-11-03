@@ -1,0 +1,67 @@
+{
+  "id": "fenelon-dialogues-on-eloquence-eales",
+  "cover": "classic",
+  "name": {
+    "en-US": "Three Dialogues on Pulpit Eloquence (Eales)",
+    "pt-BR": "Três diálogos sobre a eloquência do púlpito (Eales, inglês)"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "en-US": "Fénelon's three dialogues on preaching, between A, a man of taste, and two friends: against wit and brilliancy in sermons; how the orator must prove, portray and move; and the eloquence of Scripture and the Fathers. In the English of Samuel J. Eales (London, 1897), with his introductory essay and notes. The French book is divided by length, not by dialogue, so this is its own book of the same work.",
+    "pt-BR": "Os três diálogos de Fénelon sobre a pregação, na tradução inglesa de Samuel J. Eales (Londres, 1897), com o ensaio introdutório e as notas do tradutor."
+  },
+  "composed": "1679–1715",
+  "languages": [
+    "en-US"
+  ],
+  "work": "fenelon/dialogues-sur-leloquence",
+  "editions": {
+    "en-US": {
+      "translator": "Samuel J. Eales",
+      "year": 1897
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/threedialogueson00ealeuoft",
+      "edition": "Three Dialogues on Pulpit Eloquence, by Mgr. François de Salignac de Lamothe Fénelon, translated and illustrated by quotations from modern writers, with an introductory essay, by Samuel J. Eales (London: Thomas Baker; Philadelphia: John J. McVey, 1897).",
+      "description": "Archive.org OCR cleaned by script, not proofread: running heads and the publisher's advertisements dropped, the translator's page notes kept as footnotes where their marker was found on the same page.",
+      "tier": "A",
+      "tierEvidence": "Published in 1897: public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introductory-essay",
+      "title": {
+        "en-US": "Introductory Essay (Eales)"
+      }
+    },
+    {
+      "id": "dialogue-1",
+      "title": {
+        "en-US": "First Dialogue"
+      }
+    },
+    {
+      "id": "dialogue-2",
+      "title": {
+        "en-US": "Second Dialogue"
+      }
+    },
+    {
+      "id": "dialogue-3",
+      "title": {
+        "en-US": "Third Dialogue"
+      }
+    }
+  ],
+  "arrived": {
+    "en-US": "2026-11-03"
+  }
+}
