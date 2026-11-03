@@ -7,5 +7,44 @@
   "saint": "hilary",
   "matches": [
     "Hilary of Poitiers"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "hilary-trinity",
+          "why": {
+            "en-US": "On the Trinity",
+            "pt-BR": "Sobre a Trindade"
+          }
+        },
+        {
+          "work": "hilary-homilies-on-the-psalms",
+          "why": {
+            "en-US": "Homilies on the Psalms",
+            "pt-BR": "Homilias sobre os Salmos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Controversy",
+        "pt-BR": "Controvérsia"
+      },
+      "works": [
+        {
+          "work": "hilary-councils-or-the-faith-of-the-easterns",
+          "why": {
+            "en-US": "On the Councils, or the faith of the Easterns",
+            "pt-BR": "Sobre os Concílios, ou a fé dos orientais"
+          }
+        }
+      ]
+    }
   ]
 }
