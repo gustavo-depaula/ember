@@ -1,0 +1,314 @@
+{
+  "id": "gueranger-liturgical-year-04-septuagesima",
+  "name": {
+    "en-US": "The Liturgical Year: Septuagesima",
+    "pt-BR": "O Ano Litúrgico: Septuagésima"
+  },
+  "author": {
+    "en-US": "Dom Prosper Guéranger",
+    "pt-BR": "Dom Prosper Guéranger"
+  },
+  "description": {
+    "en-US": "Volume 4 of the English Liturgical Year (Septuagesima), translated from L’Année liturgique: one chapter per day or feast, with the Latin liturgical texts beside their English. Made from the Internet Archive scan of the 1909 printing; the two-column Latin and English text is separated by script, so some lines may be misassigned.",
+    "pt-BR": "Volume 4 do «Liturgical Year» em inglês (Septuagésima), traduzido de L’Année liturgique: um capítulo por dia ou festa, com os textos litúrgicos em latim ao lado do inglês."
+  },
+  "composed": "1855",
+  "languages": [
+    "en-US"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "en-US": {
+      "translator": "Rev. Dom Laurence Shepherd (Stanbrook Abbey)",
+      "year": 1909
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/V04TheLiturgicalYear",
+      "edition": "The Liturgical Year, Septuagesima, translated from the French of Dom Prosper Guéranger; printing of 1909 (Stanbrook Abbey / Duffy). Internet Archive scan, OCR text.",
+      "description": "Split at each day or feast heading detected in the running text; running heads and page numbers removed; the Latin and English columns of the liturgical texts, interleaved line by line in the OCR, were separated by language and set as a Latin paragraph followed by its English.",
+      "tier": "A",
+      "tierEvidence": "Guéranger (d. 1875) and the translation printed 1870-1912: public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "002-introductory-chapters",
+      "title": {
+        "en-US": "Introductory Chapters"
+      }
+    },
+    {
+      "id": "003-the-fifth-sunday-aftee-the-epiphany-mass-introit",
+      "title": {
+        "en-US": "The Fifth Sunday Aftee the Epiphany Mass Introit"
+      }
+    },
+    {
+      "id": "004-fifth-sunday-after-epiphany",
+      "title": {
+        "en-US": "Fifth Sunday after Epiphany"
+      }
+    },
+    {
+      "id": "005-the-sixth-sunday-aftee-the-epiphany-mass-introit",
+      "title": {
+        "en-US": "The Sixth Sunday Aftee the Epiphany Mass Introit"
+      }
+    },
+    {
+      "id": "006-sixth-sunday-after-epiphany",
+      "title": {
+        "en-US": "Sixth Sunday after Epiphany"
+      }
+    },
+    {
+      "id": "007-march-10-suspension-of-the-alleluia",
+      "title": {
+        "en-US": "March 10 — Suspension of the ' Alleluia '"
+      }
+    },
+    {
+      "id": "008-sbptuagbsima-sunday",
+      "title": {
+        "en-US": "Sbptuagbsima Sunday"
+      }
+    },
+    {
+      "id": "009-monday-of-septuagesima-week",
+      "title": {
+        "en-US": "Monday of Septuagesima Week"
+      }
+    },
+    {
+      "id": "010-tuesday-of-septuagesima-week",
+      "title": {
+        "en-US": "Tuesday of Septuagesima Week"
+      }
+    },
+    {
+      "id": "011-wednesday-of-sept-u-age-sim-a-week",
+      "title": {
+        "en-US": "Wednesday of Sept U Age Sim a Week"
+      }
+    },
+    {
+      "id": "012-thursday-of-septu-age-sima-week",
+      "title": {
+        "en-US": "Thursday of Septu Age Sima Week"
+      }
+    },
+    {
+      "id": "013-friday-of-septuagesima-week",
+      "title": {
+        "en-US": "Friday of Septuagesima Week"
+      }
+    },
+    {
+      "id": "014-saturday-of-septuagesima-week",
+      "title": {
+        "en-US": "Saturday of Septuagesima Week"
+      }
+    },
+    {
+      "id": "015-sexagesima-sunday",
+      "title": {
+        "en-US": "Sexagesima Sunday"
+      }
+    },
+    {
+      "id": "016-monday-of-sexagesima-week",
+      "title": {
+        "en-US": "Monday of Sexagesima Week"
+      }
+    },
+    {
+      "id": "017-tuesday-of-sexagesima-week",
+      "title": {
+        "en-US": "Tuesday of Sexagesima Week"
+      }
+    },
+    {
+      "id": "018-wednesday-of-sexagesima-week",
+      "title": {
+        "en-US": "Wednesday of Sexagesima Week"
+      }
+    },
+    {
+      "id": "019-thursday-of-sexagesima-week",
+      "title": {
+        "en-US": "Thursday of Sexagesima Week"
+      }
+    },
+    {
+      "id": "020-friday-of-sexagesima-week",
+      "title": {
+        "en-US": "Friday of Sexagesima Week"
+      }
+    },
+    {
+      "id": "021-saturday-of-sexagesima-week",
+      "title": {
+        "en-US": "Saturday of Sexagesima Week"
+      }
+    },
+    {
+      "id": "022-quinqu-age-sim-a-sunday",
+      "title": {
+        "en-US": "Quinqu Age Sim a Sunday"
+      }
+    },
+    {
+      "id": "023-monday-of-quinquagesima-week",
+      "title": {
+        "en-US": "Monday of Quinquagesima Week"
+      }
+    },
+    {
+      "id": "024-tuesday-of-quinquagesima-week",
+      "title": {
+        "en-US": "Tuesday of Quinquagesima Week"
+      }
+    },
+    {
+      "id": "025-ash-wednesday",
+      "title": {
+        "en-US": "Ash Wednesday"
+      }
+    },
+    {
+      "id": "026-february-3-saint-blase",
+      "title": {
+        "en-US": "February 3 — Saint Blase"
+      }
+    },
+    {
+      "id": "027-february-3-saint-blase-bishop-and-martyr",
+      "title": {
+        "en-US": "February 3 — Saint Blase, Bishop and Martyr"
+      }
+    },
+    {
+      "id": "028-february-4-saint-andrew-corsini",
+      "title": {
+        "en-US": "February 4 — Saint Andrew Corsini"
+      }
+    },
+    {
+      "id": "029-february-5-saint-agatha-virgin-and-martyr",
+      "title": {
+        "en-US": "February 5 — Saint Agatha, Virgin and Martyr"
+      }
+    },
+    {
+      "id": "030-february-6-saint-dorothy",
+      "title": {
+        "en-US": "February 6 — Saint Dorothy"
+      }
+    },
+    {
+      "id": "031-february-7-saint-bomuald-abbot",
+      "title": {
+        "en-US": "February 7 — Saint Bomuald, Abbot"
+      }
+    },
+    {
+      "id": "032-february-8-saint-john-of-matha-confessor",
+      "title": {
+        "en-US": "February 8 — Saint John of Matha, Confessor"
+      }
+    },
+    {
+      "id": "033-february-8-saint-apollonia",
+      "title": {
+        "en-US": "February 8 — Saint Apollonia"
+      }
+    },
+    {
+      "id": "034-february-10-saint-scholastica",
+      "title": {
+        "en-US": "February 10 — Saint Scholastica"
+      }
+    },
+    {
+      "id": "035-saint-valentine-priest-and-martyr",
+      "title": {
+        "en-US": "Saint Valentine, Priest and Martyr"
+      }
+    },
+    {
+      "id": "036-february-14-saints-faustinus-and-jovita",
+      "title": {
+        "en-US": "February 14 — Saints Faustinus and Jovita"
+      }
+    },
+    {
+      "id": "037-february-15-saint-simeon-bishop-and-martyr",
+      "title": {
+        "en-US": "February 15 — Saint Simeon, Bishop and Martyr"
+      }
+    },
+    {
+      "id": "038-february-18-saint-peters-chair-at-antioch",
+      "title": {
+        "en-US": "February 18 — Saint Peter's Chair at Antioch"
+      }
+    },
+    {
+      "id": "039-february-23-saint-peter-damian",
+      "title": {
+        "en-US": "February 23 — Saint Peter Damian"
+      }
+    },
+    {
+      "id": "040-february-24-saint-mathias-apostle",
+      "title": {
+        "en-US": "February 24 — Saint Mathias, Apostle"
+      }
+    },
+    {
+      "id": "041-february-26-saint-margaret-of-cortona",
+      "title": {
+        "en-US": "February 26 — Saint Margaret of Cortona"
+      }
+    },
+    {
+      "id": "042-march-4-saint-casimir",
+      "title": {
+        "en-US": "March 4 — Saint Casimir"
+      }
+    },
+    {
+      "id": "043-march-6-saints-perpetua-and-felicitas",
+      "title": {
+        "en-US": "March 6 — Saints Perpetua and Felicitas"
+      }
+    },
+    {
+      "id": "044-march-7-saint-thomas-of-aquin-doctoe-of-the-chur",
+      "title": {
+        "en-US": "March 7 — Saint Thomas of Aquin, Doctoe of the Church"
+      }
+    },
+    {
+      "id": "045-march-9-saint-frances-of-rome",
+      "title": {
+        "en-US": "March 9 — Saint Frances of Rome"
+      }
+    },
+    {
+      "id": "046-march-10-the-forty-martyrs",
+      "title": {
+        "en-US": "March 10 — The Forty Martyrs"
+      }
+    }
+  ]
+}
