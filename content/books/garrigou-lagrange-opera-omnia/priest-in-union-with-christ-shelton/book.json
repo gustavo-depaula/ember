@@ -1,0 +1,192 @@
+{
+  "id": "garrigou-priest-in-union-with-christ",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "De unione sacerdotis cum Christo (traduction anglaise)",
+    "en-US": "The Priest in Union with Christ",
+    "pt-BR": "O sacerdote em união com Cristo (tradução inglesa)"
+  },
+  "author": {
+    "fr-FR": "Réginald Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "description": {
+    "en-US": "The priest’s union with Christ the Priest and Victim: the priesthood of Christ, the priest’s spiritual life, and his sanctification through the Mass, the divine office and prayer, from the author’s 1948 treatise. G. W. Shelton’s translation (Mercier Press, Cork 1951; Newman Press 1952).",
+    "pt-BR": "A união do sacerdote com Cristo Sacerdote e Vítima: o sacerdócio de Cristo, a vida espiritual do sacerdote e sua santificação. Tradução inglesa de G. W. Shelton (Cork, 1951)."
+  },
+  "composed": "1948",
+  "work": "garrigou-lagrange/unione-sacerdotis-cum-christo",
+  "editions": {
+    "en-US": {
+      "translator": "G. W. Shelton",
+      "year": 1951
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/Lagrange-English",
+      "edition": "The Priest in Union with Christ, tr. G. W. Shelton, Cork: Mercier Press, 1951 (Westminster, Md.: Newman Press, 1952), archive.org Lagrange-English; the Latin original is not open"
+    }
+  ],
+  "languages": [
+    "en-US"
+  ],
+  "toc": [
+    {
+      "id": "foreword",
+      "title": {
+        "en-US": "Foreword"
+      }
+    },
+    {
+      "id": "art1",
+      "title": {
+        "en-US": "Chapter I. The priesthood of christ our saviour"
+      }
+    },
+    {
+      "id": "art2",
+      "title": {
+        "en-US": "Chapter II. Our priesthood"
+      }
+    },
+    {
+      "id": "ch1",
+      "title": {
+        "en-US": "Part I. The interior life of the priest"
+      },
+      "children": [
+        {
+          "id": "ch1-a3",
+          "title": {
+            "en-US": "Chapter III. The life of christ in us, his members!"
+          }
+        },
+        {
+          "id": "ch1-a4",
+          "title": {
+            "en-US": "Chapter IV. The priest in union with christ as priest"
+          }
+        },
+        {
+          "id": "ch1-a5",
+          "title": {
+            "en-US": "Chapter V. The priest in union with christ as victim?"
+          }
+        },
+        {
+          "id": "ch1-a6",
+          "title": {
+            "en-US": "Chapter VI. The priest’s communion"
+          }
+        },
+        {
+          "id": "ch1-a7",
+          "title": {
+            "en-US": "Chapter VII. The four ends of sacrifice and priestly perfection?!"
+          }
+        },
+        {
+          "id": "ch1-a8",
+          "title": {
+            "en-US": "Chapter VIII. The priest in union with mary— with"
+          }
+        },
+        {
+          "id": "ch1-a9",
+          "title": {
+            "en-US": "Chapter IX. The example of the saints"
+          }
+        },
+        {
+          "id": "ch1-a10",
+          "title": {
+            "en-US": "Chapter X. The excellence of the priestly grace: a summary of the preceding chapters"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": {
+        "en-US": "Part II. The priest’s ministry"
+      },
+      "children": [
+        {
+          "id": "ch2-a11",
+          "title": {
+            "en-US": "Chapter XI. Christ’s preaching, the model for all christian preaching"
+          }
+        },
+        {
+          "id": "ch2-a12",
+          "title": {
+            "en-US": "Chapter XII. The secular approach to christian preaching!"
+          }
+        },
+        {
+          "id": "ch2-a13",
+          "title": {
+            "en-US": "Chapter XIII. The purpose of christian preaching"
+          }
+        },
+        {
+          "id": "ch2-a14",
+          "title": {
+            "en-US": "Chapter XIV. The efficacy of christian preaching"
+          }
+        },
+        {
+          "id": "ch2-a15",
+          "title": {
+            "en-US": "Chapter XV. Subjects for sermons and their treatment"
+          }
+        },
+        {
+          "id": "ch2-a16",
+          "title": {
+            "en-US": "Chapter XVI. Different types of sermons"
+          }
+        },
+        {
+          "id": "ch2-a17",
+          "title": {
+            "en-US": "Chapter XVII. The priest’s ministry in the confessional"
+          }
+        },
+        {
+          "id": "ch2-a18",
+          "title": {
+            "en-US": "Chapter XVIII. Spiritual direction in general"
+          }
+        },
+        {
+          "id": "ch2-a19",
+          "title": {
+            "en-US": "Chapter XIX. The direction of beginners!"
+          }
+        },
+        {
+          "id": "ch2-a20",
+          "title": {
+            "en-US": "Chapter XX. The direction of proficients!"
+          }
+        },
+        {
+          "id": "ch2-a21",
+          "title": {
+            "en-US": "Chapter XXI. The direction of perfect souls"
+          }
+        },
+        {
+          "id": "ch2-a22",
+          "title": {
+            "en-US": "Chapter XXII. The discernment of spirits"
+          }
+        }
+      ]
+    }
+  ]
+}
