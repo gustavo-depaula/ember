@@ -14,5 +14,44 @@
     "Caterina da Siena",
     "Caterina da Siena, santa",
     "Caterina da Siena (santa)"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "catherine-of-siena/dialogo",
+          "why": {
+            "en-US": "The Dialogue of Divine Providence, dictated 1377-1378",
+            "pt-BR": "O Diálogo da Divina Providência, ditado em 1377-1378"
+          }
+        },
+        {
+          "work": "catherine-of-siena/lettere",
+          "why": {
+            "en-US": "Her letters, 1366-1380",
+            "pt-BR": "Suas cartas, 1366-1380"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Prayer",
+        "pt-BR": "Oração"
+      },
+      "works": [
+        {
+          "work": "catherine-of-siena/orazioni",
+          "why": {
+            "en-US": "Her prayer to the Holy Spirit",
+            "pt-BR": "Sua oração ao Espírito Santo"
+          }
+        }
+      ]
+    }
   ]
 }
