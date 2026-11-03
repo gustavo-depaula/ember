@@ -7,5 +7,99 @@
   "matches": [
     "Jean-Jacques Olier",
     "Olier"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "Two short, practical books on the Christian life.",
+        "pt-BR": "Dois livros práticos sobre a vida cristã."
+      },
+      "works": [
+        {
+          "work": "olier/catechisme-chretien",
+          "why": {
+            "en-US": "Questions and answers on the interior life, 1656",
+            "pt-BR": "Perguntas e respostas sobre a vida interior, 1656"
+          }
+        },
+        {
+          "work": "olier/journee-chretienne",
+          "why": {
+            "en-US": "The exercises of a Christian day, from rising to sleep",
+            "pt-BR": "Os exercícios do dia cristão, do despertar ao sono"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The Christian life and virtues",
+        "pt-BR": "A vida e as virtudes cristãs"
+      },
+      "works": [
+        {
+          "work": "olier/introduction-vie-et-vertus",
+          "why": {
+            "en-US": "The religion of Jesus Christ, then the virtues",
+            "pt-BR": "A religião de Jesus Cristo e depois as virtudes"
+          }
+        },
+        {
+          "work": "olier/vie-interieure-de-la-sainte-vierge",
+          "why": {
+            "en-US": "Mary's life mystery by mystery, from predestination to Assumption",
+            "pt-BR": "A vida de Maria, mistério a mistério, até a Assunção"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Priesthood and the Mass",
+        "pt-BR": "Sacerdócio e Missa"
+      },
+      "works": [
+        {
+          "work": "olier/traite-des-saints-ordres",
+          "why": {
+            "en-US": "Clericature, minor orders and the priesthood",
+            "pt-BR": "Clericatura, ordens menores e sacerdócio"
+          }
+        },
+        {
+          "work": "olier/ceremonies-grand-messe",
+          "why": {
+            "en-US": "A mystical commentary on the parish High Mass",
+            "pt-BR": "Comentário místico da missa solene paroquial"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Letters and papers",
+        "pt-BR": "Cartas e escritos"
+      },
+      "works": [
+        {
+          "work": "olier/lettres",
+          "why": {
+            "en-US": "Spiritual letters to nuns, priests and laity, 1631-1657",
+            "pt-BR": "Cartas espirituais a religiosas, padres e leigos, 1631-1657"
+          }
+        },
+        {
+          "work": "olier/opuscules",
+          "why": {
+            "en-US": "Extracts from the Memoirs, the Spirit of a Director and counsels",
+            "pt-BR": "Extratos das Memórias, do Espírito de um diretor e conselhos"
+          }
+        }
+      ]
+    }
   ]
 }
