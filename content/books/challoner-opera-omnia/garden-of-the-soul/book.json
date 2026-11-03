@@ -1,0 +1,228 @@
+{
+  "id": "challoner-garden-of-the-soul",
+  "cover": "missal",
+  "name": {
+    "en-US": "The Garden of the Soul",
+    "pt-BR": "O jardim da alma"
+  },
+  "author": {
+    "en-US": "Bp. Richard Challoner",
+    "pt-BR": "D. Richard Challoner"
+  },
+  "description": {
+    "en-US": "Bishop Challoner's manual of spiritual exercises and instructions for Christians who, living in the world, aspire to devotion (1740): the summary of Christian doctrine, morning and evening exercises, the method of meditation with St. Francis de Sales's ten meditations, the Mass, Vespers and Benediction, the ordinary actions of the day, remedies against sin, confession, communion, the sick and the dead. The text is the 1916 reprint of the 1741 impression of the first edition, before a century and a half of editions rewrote it; the feast and fasting tables, Vespers and Complin and a few sentences were brought up to date in 1916.",
+    "pt-BR": "O manual de exercícios espirituais e instruções do bispo Challoner para os cristãos que, vivendo no mundo, aspiram à devoção (1740), na reimpressão de 1916 da primeira edição."
+  },
+  "composed": 1740,
+  "languages": [
+    "en-US"
+  ],
+  "work": "challoner/garden-of-the-soul",
+  "editions": {
+    "en-US": {
+      "editor": "Society of SS. Peter & Paul (reprint of the 1741 impression)",
+      "year": 1916
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/gardenofsoul0000vari",
+      "edition": "The Garden of the Soul: or, a Manual of Spiritual Exercises and Instructions for Christians who, living in the World, aspire to Devotion. Bishop Challoner's original edition reprinted (London: Society of SS. Peter & Paul, 1916).",
+      "description": "Archive.org OCR of three scans of the same printing (gardenofsoul0000vari, bwb_Y0-ARJ-962, gardenofsoul0000vari_t3p2) collated word by word, then cleaned by script; not proofread. Running heads and the index are dropped. The decorated initials of section openings, lost in all three scans, were restored from later editions of the Garden where the opening is the same.",
+      "tier": "A",
+      "tierEvidence": "Challoner died in 1781; the 1916 reprint resets the 1741 text and is public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "advertisement",
+      "title": {
+        "en-US": "Advertisement (1916)"
+      }
+    },
+    {
+      "id": "christian-doctrine",
+      "title": {
+        "en-US": "Christian Doctrine"
+      }
+    },
+    {
+      "id": "gospel-lessons",
+      "title": {
+        "en-US": "Gospel-Lessons to be Ponder'd at Leisure by Every Christian"
+      }
+    },
+    {
+      "id": "morning-exercise",
+      "title": {
+        "en-US": "A Morning Exercise"
+      }
+    },
+    {
+      "id": "instructions-for-meditation",
+      "title": {
+        "en-US": "Instructions for Meditation"
+      }
+    },
+    {
+      "id": "meditations",
+      "title": {
+        "en-US": "Ten Meditations of St. Francis de Sales"
+      }
+    },
+    {
+      "id": "mass",
+      "title": {
+        "en-US": "Instructions and Devotions for Hearing Mass"
+      }
+    },
+    {
+      "id": "mass-for-the-absent",
+      "title": {
+        "en-US": "A Method of Hearing Mass for the Absent"
+      }
+    },
+    {
+      "id": "sunday-devotions",
+      "title": {
+        "en-US": "Other Devotions Proper for Sundays and Holidays"
+      }
+    },
+    {
+      "id": "vespers",
+      "title": {
+        "en-US": "The Vespers, or Even-Song, and Complin"
+      }
+    },
+    {
+      "id": "benediction",
+      "title": {
+        "en-US": "The Benediction of the Blessed Sacrament"
+      }
+    },
+    {
+      "id": "prayers-for-the-king",
+      "title": {
+        "en-US": "Prayers for the King"
+      }
+    },
+    {
+      "id": "penitential-psalms",
+      "title": {
+        "en-US": "The Seven Penitential Psalms"
+      }
+    },
+    {
+      "id": "evening-devotions",
+      "title": {
+        "en-US": "Evening Devotions for Families"
+      }
+    },
+    {
+      "id": "examination-every-night",
+      "title": {
+        "en-US": "An Examination of Conscience for Every Night"
+      }
+    },
+    {
+      "id": "ordinary-actions",
+      "title": {
+        "en-US": "Of the Ordinary Actions of the Day"
+      }
+    },
+    {
+      "id": "invocations-and-virtues",
+      "title": {
+        "en-US": "Invocations of the Holy Ghost; Necessary Virtues; Aspirations"
+      }
+    },
+    {
+      "id": "preservatives-against-sin",
+      "title": {
+        "en-US": "Preservatives and Remedies against Sin"
+      }
+    },
+    {
+      "id": "confession",
+      "title": {
+        "en-US": "Instructions and Devotions for Confession"
+      }
+    },
+    {
+      "id": "examination-before-confession",
+      "title": {
+        "en-US": "An Examination of Conscience before Confession"
+      }
+    },
+    {
+      "id": "meditation-before-confession",
+      "title": {
+        "en-US": "A Meditation before Confession"
+      }
+    },
+    {
+      "id": "affections-and-resolutions",
+      "title": {
+        "en-US": "Affections and Resolutions"
+      }
+    },
+    {
+      "id": "method-of-confession",
+      "title": {
+        "en-US": "The Method of Confession"
+      }
+    },
+    {
+      "id": "communion",
+      "title": {
+        "en-US": "Instructions and Devotions for Communion"
+      }
+    },
+    {
+      "id": "meditation-before-communion",
+      "title": {
+        "en-US": "A Meditation before Communion"
+      }
+    },
+    {
+      "id": "devotions-before-communion",
+      "title": {
+        "en-US": "Devotions before Communion"
+      }
+    },
+    {
+      "id": "devotions-after-communion",
+      "title": {
+        "en-US": "Devotions after Communion"
+      }
+    },
+    {
+      "id": "the-sick",
+      "title": {
+        "en-US": "Instructions and Devotions for the Sick"
+      }
+    },
+    {
+      "id": "prayers-for-the-dead",
+      "title": {
+        "en-US": "Prayers for the Dead"
+      }
+    },
+    {
+      "id": "woman-with-child",
+      "title": {
+        "en-US": "A Prayer to be Said by a Woman with Child"
+      }
+    },
+    {
+      "id": "litanies",
+      "title": {
+        "en-US": "Litanies, and the Fifteen Mysteries of the Rosary"
+      }
+    }
+  ],
+  "arrived": {
+    "en-US": "2026-11-03"
+  }
+}

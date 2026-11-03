@@ -42,6 +42,13 @@
       },
       "works": [
         {
+          "work": "challoner/garden-of-the-soul",
+          "why": {
+            "en-US": "His prayer book and rule of life for Catholics in the world, as first printed",
+            "pt-BR": "Seu livro de orações e regra de vida para católicos no mundo, como saiu primeiro"
+          }
+        },
+        {
           "work": "challoner/grounds-catholic-doctrine",
           "why": {
             "en-US": "The creed of Pius IV in Challoner's translation, with notes",
