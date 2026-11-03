@@ -1,0 +1,87 @@
+{
+  "id": "chesterton-poet-and-the-lunatics",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Poet and the Lunatics",
+    "pt-BR": "O Poeta e os Lunáticos"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Eight episodes in the life of Gabriel Gale, a poet and painter who solves crimes by understanding the criminal's madness from within. The Fantastic Friends, The Yellow Bird, The Shadow of the Shark, The Crime of Gabriel Gale, The Finger of Stone, The House of the Peacock, The Purple Jewel and The Asylum of Adventure.",
+    "pt-BR": "Oito episódios da vida de Gabriel Gale, poeta e pintor que resolve crimes compreendendo por dentro a loucura do criminoso. Os Amigos Fantásticos, O Pássaro Amarelo, A Sombra do Tubarão, O Crime de Gabriel Gale, O Dedo de Pedra, A Casa do Pavão, A Joia Púrpura e O Asilo da Aventura."
+  },
+  "composed": "1929",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/poet-and-the-lunatics",
+  "editions": {
+    "en-US": {
+      "editor": "Cassell & Co.",
+      "year": 1929
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.net.au/ebooks09/0900711h.html",
+      "edition": "The Poet and the Lunatics (Cassell & Co., 1929), Project Gutenberg Australia, ebooks09/0900711h.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain in Brazil, the UK and the EU (Chesterton died in 1936). Published in 1929; text taken from Project Gutenberg Australia, which carries it under Australian law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-fantastic-friends",
+      "title": {
+        "en-US": "The Fantastic Friends"
+      }
+    },
+    {
+      "id": "ch02-the-yellow-bird",
+      "title": {
+        "en-US": "The Yellow Bird"
+      }
+    },
+    {
+      "id": "ch03-the-shadow-of-the-shark",
+      "title": {
+        "en-US": "The Shadow of the Shark"
+      }
+    },
+    {
+      "id": "ch04-the-crime-of-gabriel-gale",
+      "title": {
+        "en-US": "The Crime of Gabriel Gale"
+      }
+    },
+    {
+      "id": "ch05-the-finger-of-stone",
+      "title": {
+        "en-US": "The Finger of Stone"
+      }
+    },
+    {
+      "id": "ch06-the-house-of-the-peacock",
+      "title": {
+        "en-US": "The House of the Peacock"
+      }
+    },
+    {
+      "id": "ch07-the-purple-jewel",
+      "title": {
+        "en-US": "The Purple Jewel"
+      }
+    },
+    {
+      "id": "ch08-the-asylum-of-adventure",
+      "title": {
+        "en-US": "The Asylum of Adventure"
+      }
+    }
+  ]
+}
