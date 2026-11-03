@@ -217,7 +217,3 @@ I very early formed the impression that this black blot was rather the bright sp
 'Yes, I see that,' assented the other. 'If she had seen the Rev. Samuel Horner, she would instantly have recognized the very unreverend actor Hankin, disguised as a sham parson with a pretty bad character behind the disguise. Well, that is the whole of this simple village idyll, I think. But you will admit I kept my promise; I have shown you something in the village considerably more creepy than a corpse; even a corpse stuffed with poison. The black coat of a parson stuffed with a blackmailer is at least worth noticing and my live man is much deadlier than your dead one.'
 
 'Yes,' said the doctor, settling himself back comfortably in the cushions. 'If it comes to a little cosy company on a railway journey, I should prefer the corpse.'
-
-@@ THE END
-
-This site is full of FREE ebooks - Project Gutenberg Australia
