@@ -13,5 +13,37 @@
     "Bernardino da Siena",
     "Bernardino da Siena, santo",
     "Bernardinus Senensis"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "bernardine-of-siena/novellette-ed-esempi-morali",
+          "why": {
+            "en-US": "Tales and examples cut from his vernacular sermons",
+            "pt-BR": "Contos e exemplos extraídos de seus sermões em vernáculo"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Sermons",
+        "pt-BR": "Sermões"
+      },
+      "works": [
+        {
+          "work": "bernardine-of-siena/prediche-siena-1427",
+          "why": {
+            "en-US": "Forty-five sermons in the Piazza del Campo, 1427",
+            "pt-BR": "Quarenta e cinco sermões na Piazza del Campo, 1427"
+          }
+        }
+      ]
+    }
   ]
 }
