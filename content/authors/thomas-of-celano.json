@@ -8,5 +8,48 @@
     "Thomas of Celano",
     "Thomas de Celano",
     "Thomas a Celano"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "The Life written for the canonization, then the Second Life.",
+        "pt-BR": "A Vida escrita para a canonização e depois a Segunda Vida."
+      },
+      "works": [
+        {
+          "work": "thomas-of-celano/vita-prima",
+          "why": {
+            "en-US": "The First Life, written for the canonization in 1228-1229",
+            "pt-BR": "A Primeira Vida, escrita para a canonização em 1228-1229"
+          }
+        },
+        {
+          "work": "thomas-of-celano/vita-secunda",
+          "why": {
+            "en-US": "The Memorial in the Desire of the Soul, 1246-1247",
+            "pt-BR": "O Memorial no Desejo da Alma, 1246-1247"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Miracles",
+        "pt-BR": "Milagres"
+      },
+      "works": [
+        {
+          "work": "thomas-of-celano/tractatus-de-miraculis",
+          "why": {
+            "en-US": "The stigmata, healings and the miracles after his death",
+            "pt-BR": "Os estigmas, as curas e os milagres após sua morte"
+          }
+        }
+      ]
+    }
   ]
 }
