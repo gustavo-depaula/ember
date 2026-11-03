@@ -1,0 +1,203 @@
+{
+  "id": "gueranger-annee-liturgique-06-passion",
+  "name": {
+    "fr-FR": "L’Année liturgique : la Passion et la Semaine sainte",
+    "en-US": "The Liturgical Year: Passiontide and Holy Week",
+    "pt-BR": "O Ano Litúrgico: a Paixão e a Semana Santa"
+  },
+  "author": {
+    "fr-FR": "Dom Prosper Guéranger",
+    "en-US": "Dom Prosper Guéranger",
+    "pt-BR": "Dom Prosper Guéranger"
+  },
+  "description": {
+    "fr-FR": "Sixième volume de l’Année liturgique : le temps de la Passion et la Semaine sainte, du dimanche de la Passion au samedi saint, avec le Triduum sacré en entier.",
+    "en-US": "Volume 6 of the 15-volume Liturgical Year (L’Année liturgique) in the original French: Passiontide and Holy Week. One chapter per day or feast, with the liturgical texts in Latin and French as the edition prints them.",
+    "pt-BR": "Volume 6 dos 15 volumes de «O Ano Litúrgico» (L’Année liturgique) em francês: a Paixão e a Semana Santa. Um capítulo por dia ou festa, com os textos litúrgicos em latim e francês como a edição os imprime."
+  },
+  "composed": 1858,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "fr-FR": {
+      "editor": "Dom Prosper Guéranger, abbé de Solesmes (14th ed., Oudin)",
+      "year": 1900
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://domgueranger.net/lannee-liturgique-passion-et-semaine-sainte-historique-mystique-pratique-et-prieres/",
+      "edition": "L’Année liturgique, vol. 6, 14th ed. (Oudin, 1900)",
+      "description": "Dom Guéranger site (Societas pro canonizatione D. Guéranger), WordPress text of the 14th edition (1900). Split at each day or feast heading; verse kept as hard line breaks; footnotes renumbered per chapter.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; the text is the 19th-century edition transcribed."
+    },
+    {
+      "language": "fr-FR",
+      "url": "https://domgueranger.net/lannee-liturgique-temps-de-la-passion-propre-du-temps/",
+      "edition": "L’Année liturgique, vol. 6, 14th ed. (Oudin, 1900)",
+      "description": "Dom Guéranger site (Societas pro canonizatione D. Guéranger), WordPress text of the 14th edition (1900). Split at each day or feast heading; verse kept as hard line breaks; footnotes renumbered per chapter.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; the text is the 19th-century edition transcribed."
+    },
+    {
+      "language": "fr-FR",
+      "url": "https://domgueranger.net/lannee-liturgique-semaine-sainte-propre-du-temps/",
+      "edition": "L’Année liturgique, vol. 6, 14th ed. (Oudin, 1900)",
+      "description": "Dom Guéranger site (Societas pro canonizatione D. Guéranger), WordPress text of the 14th edition (1900). Split at each day or feast heading; verse kept as hard line breaks; footnotes renumbered per chapter.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; the text is the 19th-century edition transcribed."
+    },
+    {
+      "language": "fr-FR",
+      "url": "https://domgueranger.net/lannee-liturgique-jeudi-vendredi-et-samedi-saint-propre-du-temps/",
+      "edition": "L’Année liturgique, vol. 6, 14th ed. (Oudin, 1900)",
+      "description": "Dom Guéranger site (Societas pro canonizatione D. Guéranger), WordPress text of the 14th edition (1900). Split at each day or feast heading; verse kept as hard line breaks; footnotes renumbered per chapter.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; the text is the 19th-century edition transcribed."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-la-passion-et-la-semaine-sainte",
+      "title": {
+        "fr-FR": "La Passion et la Semaine sainte"
+      }
+    },
+    {
+      "id": "002-chapitre-premier-historique-du-temps-de-i-a-pass",
+      "title": {
+        "fr-FR": "Chapitre premier — Historique du temps de i.a Passion et de la semaine Sainte"
+      }
+    },
+    {
+      "id": "003-chapitre-ii-mystique-du-temps-de-la-passion-et-d",
+      "title": {
+        "fr-FR": "Chapitre II — Mystique du temps de la Passion et de la semaine Sainte"
+      }
+    },
+    {
+      "id": "004-chapitre-iii-pratique-du-temps-de-la-passion-et",
+      "title": {
+        "fr-FR": "Chapitre III — Pratique du temps de la Passion et de la semaine Sainte"
+      }
+    },
+    {
+      "id": "005-chapitre-iv-prieres-du-matin-et-du-soir-au-temps",
+      "title": {
+        "fr-FR": "Chapitre IV — Prières du matin et du soir au temps de la Passion et dans la semaine Sainte"
+      }
+    },
+    {
+      "id": "006-chapitre-v-de-lassistance-a-la-sainte-messe-au-t",
+      "title": {
+        "fr-FR": "Chapitre V — De l’assistance à la Sainte Messe au temps de la Passion et dans la semaine Sainte"
+      }
+    },
+    {
+      "id": "007-chapitre-vi-pratique-de-la-sainte-communion-au-t",
+      "title": {
+        "fr-FR": "Chapitre VI — Pratique de la Sainte Communion au temps de la Passion et dans la semaine Sainte"
+      }
+    },
+    {
+      "id": "008-chapitre-vii-de-loffice-des-vepres-les-dimanches",
+      "title": {
+        "fr-FR": "Chapitre VII — De l’office des vêpres, les dimanches et fêtes, au temps de la Passion et dans la semaine Sainte"
+      }
+    },
+    {
+      "id": "009-chapitre-viii-de-loffice-des-complies-au-temps-d",
+      "title": {
+        "fr-FR": "Chapitre VIII — De l’office des complies au temps de la Passion et dans la semaine Sainte"
+      }
+    },
+    {
+      "id": "010-le-dimanche-de-la-passion",
+      "title": {
+        "fr-FR": "Le dimanche de la Passion"
+      }
+    },
+    {
+      "id": "011-le-lundi-de-la-semaine-de-la-passion",
+      "title": {
+        "fr-FR": "Le lundi de la semaine de la Passion"
+      }
+    },
+    {
+      "id": "012-le-mardi-de-la-semaine-de-la-passion",
+      "title": {
+        "fr-FR": "Le mardi de la semaine de la Passion"
+      }
+    },
+    {
+      "id": "013-le-mercredi-de-la-semaine-de-la-passion",
+      "title": {
+        "fr-FR": "Le mercredi de la semaine de la Passion"
+      }
+    },
+    {
+      "id": "014-le-jeudi-de-la-semaine-de-la-passion",
+      "title": {
+        "fr-FR": "Le jeudi de la semaine de la Passion"
+      }
+    },
+    {
+      "id": "015-le-vendredi-de-la-passion-les-sept-douleurs-de-l",
+      "title": {
+        "fr-FR": "Le vendredi de la Passion les sept douleurs de la très Sainte Vierge"
+      }
+    },
+    {
+      "id": "016-le-samedi-de-la-semaine-de-la-passion",
+      "title": {
+        "fr-FR": "Le samedi de la semaine de la Passion"
+      }
+    },
+    {
+      "id": "017-le-dimanche-des-rameaux",
+      "title": {
+        "fr-FR": "Le dimanche des Rameaux.\u0003 \u0004"
+      }
+    },
+    {
+      "id": "018-le-lundi-saint",
+      "title": {
+        "fr-FR": "Le lundi Saint"
+      }
+    },
+    {
+      "id": "019-le-mardi-saint",
+      "title": {
+        "fr-FR": "Le mardi Saint"
+      }
+    },
+    {
+      "id": "020-le-mercredi-saint",
+      "title": {
+        "fr-FR": "Le mercredi Saint"
+      }
+    },
+    {
+      "id": "021-le-jeudi-saint",
+      "title": {
+        "fr-FR": "Le jeudi Saint"
+      }
+    },
+    {
+      "id": "022-le-vendredi-saint",
+      "title": {
+        "fr-FR": "Le vendredi Saint"
+      }
+    },
+    {
+      "id": "023-le-samedi-saint",
+      "title": {
+        "fr-FR": "Le samedi Saint"
+      }
+    }
+  ]
+}
