@@ -1,0 +1,160 @@
+{
+  "id": "augustine-enarrationes-in-psalmos-lf-vol-6",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Expositions on the Book of Psalms, Vol. VI (Psalms 126–150)",
+    "pt-BR": "Exposições sobre o Livro dos Salmos, vol. VI (Salmos 126–150)"
+  },
+  "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Augustine’s Enarrationes in Psalmos in the full Oxford translation of the Library of the Fathers (volume VI of the Psalms, 1857): Psalms 126–150, one chapter per psalm, with the separate expositions, sermons and discourses of a psalm as sections. The translation numbers the psalms as the English Bible does; the Vulgate number (Augustine’s own) is added to the title where it differs. This is the complete text, which the condensed NPNF version in the other book of this work abridges.",
+    "pt-BR": "As Enarrationes in Psalmos de Agostinho na tradução oxfordiana completa da Library of the Fathers (volume VI dos Salmos, 1857): Salmos 126–150, um capítulo por salmo. A numeração é a da Bíblia inglesa; onde difere, o título traz o número da Vulgata, que é o de Agostinho."
+  },
+  "composed": "392-420",
+  "languages": [
+    "en-US"
+  ],
+  "work": "augustine/enarrationes-in-psalmos",
+  "editions": {
+    "en-US": {
+      "translator": "Members of the English Church (Library of the Fathers, ed. E. B. Pusey)",
+      "year": 1857
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/39ALibraryOfFathersOfTheHolyCatholicV39",
+      "edition": "Expositions on the Book of Psalms by S. Augustine, Bishop of Hippo (Library of the Fathers of the Holy Catholic Church, vol. 39; Oxford: John Henry Parker, 1857).",
+      "description": "Internet Archive scan, read from the _djvu.xml word coordinates (research/sourcing/_scripts/aug_lf.py, aug_lf_ps_build.py): marginal Scripture references, running heads, small-type notes and the volume’s front and back matter are dropped; psalm boundaries come from the printed PSALM headings, recovered in sequence where the OCR spoiled them (a psalm whose heading was lost is merged with its neighbour and titled as a range). OCR is uncorrected beyond common letter confusions and stray fragments of marginal references remain in some lines.",
+      "tier": "A",
+      "tierEvidence": "Published 1847-1857 (Library of the Fathers, Oxford); long public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ps-126",
+      "title": {
+        "en-US": "Psalm 126 (Vulgate 125)"
+      }
+    },
+    {
+      "id": "ps-127",
+      "title": {
+        "en-US": "Psalm 127 (Vulgate 126)"
+      }
+    },
+    {
+      "id": "ps-128",
+      "title": {
+        "en-US": "Psalm 128 (Vulgate 127)"
+      }
+    },
+    {
+      "id": "ps-129",
+      "title": {
+        "en-US": "Psalm 129 (Vulgate 128)"
+      }
+    },
+    {
+      "id": "ps-130",
+      "title": {
+        "en-US": "Psalm 130 (Vulgate 129)"
+      }
+    },
+    {
+      "id": "ps-131",
+      "title": {
+        "en-US": "Psalm 131 (Vulgate 130)"
+      }
+    },
+    {
+      "id": "ps-132",
+      "title": {
+        "en-US": "Psalm 132 (Vulgate 131)"
+      }
+    },
+    {
+      "id": "ps-133-134",
+      "title": {
+        "en-US": "Psalms 133–134 (Vulgate 132–133)"
+      }
+    },
+    {
+      "id": "ps-135",
+      "title": {
+        "en-US": "Psalm 135 (Vulgate 134)"
+      }
+    },
+    {
+      "id": "ps-136-137",
+      "title": {
+        "en-US": "Psalms 136–137 (Vulgate 135–136)"
+      }
+    },
+    {
+      "id": "ps-138-139",
+      "title": {
+        "en-US": "Psalms 138–139 (Vulgate 137–138)"
+      }
+    },
+    {
+      "id": "ps-140-141",
+      "title": {
+        "en-US": "Psalms 140–141 (Vulgate 139–140)"
+      }
+    },
+    {
+      "id": "ps-142-143",
+      "title": {
+        "en-US": "Psalms 142–143 (Vulgate 141–142)"
+      }
+    },
+    {
+      "id": "ps-144",
+      "title": {
+        "en-US": "Psalm 144 (Vulgate 143)"
+      }
+    },
+    {
+      "id": "ps-145",
+      "title": {
+        "en-US": "Psalm 145 (Vulgate 144)"
+      }
+    },
+    {
+      "id": "ps-146",
+      "title": {
+        "en-US": "Psalm 146 (Vulgate 145)"
+      }
+    },
+    {
+      "id": "ps-147",
+      "title": {
+        "en-US": "Psalm 147 (Vulgate 146–147)"
+      }
+    },
+    {
+      "id": "ps-148",
+      "title": {
+        "en-US": "Psalm 148"
+      }
+    },
+    {
+      "id": "ps-149",
+      "title": {
+        "en-US": "Psalm 149"
+      }
+    },
+    {
+      "id": "ps-150",
+      "title": {
+        "en-US": "Psalm 150"
+      }
+    }
+  ]
+}
