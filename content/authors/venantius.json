@@ -6,5 +6,22 @@
   "century": 6,
   "matches": [
     "Venantius"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Poem",
+        "pt-BR": "Poema"
+      },
+      "works": [
+        {
+          "work": "venantius-poem-on-easter",
+          "why": {
+            "en-US": "Poem on Easter",
+            "pt-BR": "Poema sobre a Páscoa"
+          }
+        }
+      ]
+    }
   ]
 }
