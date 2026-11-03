@@ -1,0 +1,228 @@
+{
+  "id": "gueranger-conferences-vie-chretienne",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Conférences sur la vie chrétienne",
+    "en-US": "Conferences on the Christian Life",
+    "pt-BR": "Conferências sobre a vida cristã"
+  },
+  "author": {
+    "fr-FR": "Prosper Guéranger",
+    "en-US": "Prosper Guéranger",
+    "pt-BR": "Prosper Guéranger"
+  },
+  "description": {
+    "fr-FR": "Conférences données par Dom Guéranger au chapitre de Saint-Pierre de Solesmes entre octobre 1872 et mai 1874, d’après les notes recueillies par plusieurs moines : théologie dogmatique, morale, mystique et ascétique, vies purgative, illuminative et unitive, méditation. Vingt-neuf conférences numérotées de 1 à 32 : les conférences 19 et 31 manquent à la source. Notes de conférences, non la rédaction définitive de l’auteur.",
+    "en-US": "Conferences given by Dom Guéranger to the chapter of Saint-Pierre de Solesmes between October 1872 and May 1874, from notes taken by several monks: dogmatic, moral, mystical and ascetical theology, the purgative, illuminative and unitive ways, meditation. Thirty conferences numbered 1 to 32 (nos. 19 and 31 are missing from the source). Conference notes, not the author’s finished prose.",
+    "pt-BR": "Conferências dadas por Dom Guéranger ao capítulo de Saint-Pierre de Solesmes entre outubro de 1872 e maio de 1874, a partir de anotações de vários monges: teologia dogmática, moral, mística e ascética, vias purgativa, iluminativa e unitiva, meditação. Trinta conferências numeradas de 1 a 32 (faltam as de números 19 e 31 na fonte). Anotações de conferências, não a redação definitiva do autor."
+  },
+  "composed": "1874",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/conferences-vie-chretienne",
+  "editions": {
+    "fr-FR": {
+      "editor": "Moines de Solesmes (from notes)",
+      "year": 1874
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://www.domgueranger.net/?cat=Conférences sur la vie chrétienne",
+      "edition": "Conférences sur la vie chrétienne prononcées dans le chapitre de S. Pierre de Solesmes (octobre 1872 – mai 1874), d’après les notes recueillies par plusieurs moines (domgueranger.net HTML transcription)",
+      "description": "Conferences 19 and 31 are not on the site. The printing year of the source edition is not stated; the text is a 19th-century record of the conferences.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died 1875; text recorded 1872-74."
+    }
+  ],
+  "toc": [
+    {
+      "id": "avant-propos",
+      "title": {
+        "fr-FR": "Avant-propos"
+      }
+    },
+    {
+      "id": "conference-01",
+      "title": {
+        "fr-FR": "Première conférence"
+      }
+    },
+    {
+      "id": "conference-02",
+      "title": {
+        "fr-FR": "Deuxième conférence"
+      }
+    },
+    {
+      "id": "conference-03",
+      "title": {
+        "fr-FR": "Troisième conférence"
+      }
+    },
+    {
+      "id": "conference-04",
+      "title": {
+        "fr-FR": "Quatrième conférence"
+      }
+    },
+    {
+      "id": "conference-05",
+      "title": {
+        "fr-FR": "Cinquième conférence"
+      }
+    },
+    {
+      "id": "conference-06",
+      "title": {
+        "fr-FR": "Sixième conférence"
+      }
+    },
+    {
+      "id": "conference-07",
+      "title": {
+        "fr-FR": "Septième conférence"
+      }
+    },
+    {
+      "id": "conference-08",
+      "title": {
+        "fr-FR": "Huitième conférence"
+      }
+    },
+    {
+      "id": "conference-09",
+      "title": {
+        "fr-FR": "Neuvième conférence"
+      }
+    },
+    {
+      "id": "conference-10",
+      "title": {
+        "fr-FR": "Dixième conférence"
+      }
+    },
+    {
+      "id": "conference-11",
+      "title": {
+        "fr-FR": "Onzième conférence"
+      }
+    },
+    {
+      "id": "conference-12",
+      "title": {
+        "fr-FR": "Douzième conférence"
+      }
+    },
+    {
+      "id": "conference-13",
+      "title": {
+        "fr-FR": "Treizième conférence"
+      }
+    },
+    {
+      "id": "conference-14",
+      "title": {
+        "fr-FR": "Quatorzième conférence"
+      }
+    },
+    {
+      "id": "conference-15",
+      "title": {
+        "fr-FR": "Quinzième conférence"
+      }
+    },
+    {
+      "id": "conference-16",
+      "title": {
+        "fr-FR": "Seizième conférence"
+      }
+    },
+    {
+      "id": "conference-17",
+      "title": {
+        "fr-FR": "Dix-septième conférence"
+      }
+    },
+    {
+      "id": "conference-18",
+      "title": {
+        "fr-FR": "Dix-huitième conférence"
+      }
+    },
+    {
+      "id": "conference-20",
+      "title": {
+        "fr-FR": "Vingtième conférence"
+      }
+    },
+    {
+      "id": "conference-21",
+      "title": {
+        "fr-FR": "Vingt et unième conférence"
+      }
+    },
+    {
+      "id": "conference-22",
+      "title": {
+        "fr-FR": "Vingt-deuxième conférence"
+      }
+    },
+    {
+      "id": "conference-23",
+      "title": {
+        "fr-FR": "Vingt-troisième conférence"
+      }
+    },
+    {
+      "id": "conference-24",
+      "title": {
+        "fr-FR": "Vingt-quatrième conférence"
+      }
+    },
+    {
+      "id": "conference-25",
+      "title": {
+        "fr-FR": "Vingt-cinquième conférence"
+      }
+    },
+    {
+      "id": "conference-26",
+      "title": {
+        "fr-FR": "Vingt-sixième conférence"
+      }
+    },
+    {
+      "id": "conference-27",
+      "title": {
+        "fr-FR": "Vingt-septième conférence"
+      }
+    },
+    {
+      "id": "conference-28",
+      "title": {
+        "fr-FR": "Vingt-huitième conférence"
+      }
+    },
+    {
+      "id": "conference-29",
+      "title": {
+        "fr-FR": "Vingt-neuvième conférence"
+      }
+    },
+    {
+      "id": "conference-30",
+      "title": {
+        "fr-FR": "Trentième conférence"
+      }
+    },
+    {
+      "id": "conference-32",
+      "title": {
+        "fr-FR": "Trente-deuxième conférence"
+      }
+    }
+  ]
+}
