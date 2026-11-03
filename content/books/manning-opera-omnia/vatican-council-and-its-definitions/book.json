@@ -1,0 +1,87 @@
+{
+  "id": "manning-vatican-council-and-its-definitions",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Vatican Council and its Definitions",
+    "pt-BR": "O Concílio Vaticano e as Suas Definições"
+  },
+  "author": {
+    "en-US": "Cardinal Henry Edward Manning",
+    "pt-BR": "Cardeal Henry Edward Manning"
+  },
+  "description": {
+    "en-US": "The Vatican Council and its Definitions (1870): Manning's pastoral letter to the clergy on the Council: the world and the Council, the two constitutions, the terminology of infallibility, the scientific history of the Catholic rule of faith, the tradition of England and the result of the definition, with an appendix and the English text of the two dogmatic constitutions Dei Filius and Pastor Aeternus.",
+    "pt-BR": "O Concílio Vaticano e as Suas Definições (1870): carta pastoral de Manning ao clero sobre o Concílio: o mundo e o Concílio, as duas constituições, a terminologia da infalibilidade, a história científica da regra da fé católica, a tradição da Inglaterra e o resultado da definição, com um apêndice e o texto inglês das duas constituições dogmáticas Dei Filius e Pastor Aeternus."
+  },
+  "composed": 1870,
+  "languages": [
+    "en-US"
+  ],
+  "work": "manning/vatican-council-and-its-definitions",
+  "editions": {
+    "en-US": {
+      "editor": "Henry Edward Manning (New York: D. and J. Sadlier, 1887)",
+      "year": 1887
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/a592047000mannuoft",
+      "edition": "The Vatican Council and its Definitions (New York: D. and J. Sadlier, 1887), Internet Archive full-text OCR.",
+      "description": "The five chapters, the appendix and the English text of the two constitutions; the contents is dropped, and the Latin text of the constitutions is left out. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Cardinal Henry Edward Manning died in 1892 and the edition is of 1887, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-1",
+      "title": {
+        "en-US": "Chapter I. The World and the Council"
+      }
+    },
+    {
+      "id": "chapter-2",
+      "title": {
+        "en-US": "Chapter II. The Two Constitutions"
+      }
+    },
+    {
+      "id": "chapter-3",
+      "title": {
+        "en-US": "Chapter III. The Terminology of the Doctrine of Infallibility"
+      }
+    },
+    {
+      "id": "chapter-4",
+      "title": {
+        "en-US": "Chapter IV. Scientific History of the Catholic Rule of Faith"
+      }
+    },
+    {
+      "id": "chapter-5",
+      "title": {
+        "en-US": "Chapter V. Result of the Definition: Tradition of England"
+      }
+    },
+    {
+      "id": "appendix",
+      "title": {
+        "en-US": "Appendix"
+      }
+    },
+    {
+      "id": "dei-filius",
+      "title": {
+        "en-US": "Dogmatic Constitution on the Catholic Faith"
+      }
+    },
+    {
+      "id": "pastor-aeternus",
+      "title": {
+        "en-US": "First Dogmatic Constitution on the Church of Christ"
+      }
+    }
+  ]
+}

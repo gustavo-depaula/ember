@@ -1,0 +1,70 @@
+{
+ "id": "manning-vatican-council-and-its-definitions",
+ "dir": "manning-opera-omnia/vatican-council-and-its-definitions",
+ "slug": "vatican-council-and-its-definitions",
+ "work": "manning/vatican-council-and-its-definitions",
+ "name": "The Vatican Council and its Definitions",
+ "name_pt": "O Conc\u00edlio Vaticano e as Suas Defini\u00e7\u00f5es",
+ "author": "Cardinal Henry Edward Manning",
+ "author_pt": "Cardeal Henry Edward Manning",
+ "died": 1892,
+ "desc": "The Vatican Council and its Definitions (1870): Manning's pastoral letter to the clergy on the Council: the world and the Council, the two constitutions, the terminology of infallibility, the scientific history of the Catholic rule of faith, the tradition of England and the result of the definition, with an appendix and the English text of the two dogmatic constitutions Dei Filius and Pastor Aeternus.",
+ "desc_pt": "O Conc\u00edlio Vaticano e as Suas Defini\u00e7\u00f5es (1870): carta pastoral de Manning ao clero sobre o Conc\u00edlio: o mundo e o Conc\u00edlio, as duas constitui\u00e7\u00f5es, a terminologia da infalibilidade, a hist\u00f3ria cient\u00edfica da regra da f\u00e9 cat\u00f3lica, a tradi\u00e7\u00e3o da Inglaterra e o resultado da defini\u00e7\u00e3o, com um ap\u00eandice e o texto ingl\u00eas das duas constitui\u00e7\u00f5es dogm\u00e1ticas Dei Filius e Pastor Aeternus.",
+ "composed": 1870,
+ "editor": "Henry Edward Manning (New York: D. and J. Sadlier, 1887)",
+ "year": 1887,
+ "url": "https://archive.org/details/a592047000mannuoft",
+ "edition": "The Vatican Council and its Definitions (New York: D. and J. Sadlier, 1887), Internet Archive full-text OCR.",
+ "srcnote": "The five chapters, the appendix and the English text of the two constitutions; the contents is dropped, and the Latin text of the constitutions is left out.",
+ "src": "manning/ia/a592047000mannuoft_djvu.txt",
+ "start": 161,
+ "end": 10365,
+ "fn": true,
+ "back": [],
+ "front": [],
+ "label": {},
+ "romanheads": false,
+ "inline": [],
+ "units": [
+  {
+   "id": "chapter-1",
+   "title": "Chapter I. The World and the Council",
+   "from": 161
+  },
+  {
+   "id": "chapter-2",
+   "title": "Chapter II. The Two Constitutions",
+   "from": 1779
+  },
+  {
+   "id": "chapter-3",
+   "title": "Chapter III. The Terminology of the Doctrine of Infallibility",
+   "from": 3950
+  },
+  {
+   "id": "chapter-4",
+   "title": "Chapter IV. Scientific History of the Catholic Rule of Faith",
+   "from": 4873
+  },
+  {
+   "id": "chapter-5",
+   "title": "Chapter V. Result of the Definition: Tradition of England",
+   "from": 5881
+  },
+  {
+   "id": "appendix",
+   "title": "Appendix",
+   "from": 6803
+  },
+  {
+   "id": "dei-filius",
+   "title": "Dogmatic Constitution on the Catholic Faith",
+   "from": 8380
+  },
+  {
+   "id": "pastor-aeternus",
+   "title": "First Dogmatic Constitution on the Church of Christ",
+   "from": 9399
+  }
+ ]
+}
