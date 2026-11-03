@@ -1,0 +1,213 @@
+{
+  "id": "chesterton-fancies-versus-fads",
+  "cover": "classic",
+  "name": {
+    "en-US": "Fancies Versus Fads",
+    "pt-BR": "Fantasias Contra Modismos"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Essays against the faddists in matters of art, politics and science: the romance of rhyme, Hamlet and the psycho-analyst, free verse, prohibition, Darwin, the film, divorce, the Pilgrim myth and Milton.",
+    "pt-BR": "Ensaios contra os modistas em matéria de arte, política e ciência: o romance da rima, Hamlet e o psicanalista, o verso livre, a lei seca, Darwin, o cinema, o divórcio, o mito do Mayflower e Milton."
+  },
+  "composed": "1923",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/fancies-versus-fads",
+  "editions": {
+    "en-US": {
+      "editor": "Methuen & Co.",
+      "year": 1923
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/60164",
+      "edition": "Fancies Versus Fads (Methuen & Co., 1923), Project Gutenberg #60164.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1923 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-romance-of-rhyme",
+      "title": {
+        "en-US": "The Romance of Rhyme"
+      }
+    },
+    {
+      "id": "ch02-hamlet-and-the-psycho-analyst",
+      "title": {
+        "en-US": "Hamlet and the Psycho-Analyst"
+      }
+    },
+    {
+      "id": "ch03-the-meaning-of-mock-turkey",
+      "title": {
+        "en-US": "The Meaning of Mock Turkey"
+      }
+    },
+    {
+      "id": "ch04-shakespeare-and-the-legal-lady",
+      "title": {
+        "en-US": "Shakespeare and the Legal Lady"
+      }
+    },
+    {
+      "id": "ch05-on-being-an-old-bean",
+      "title": {
+        "en-US": "On Being an Old Bean"
+      }
+    },
+    {
+      "id": "ch06-the-fear-of-the-film",
+      "title": {
+        "en-US": "The Fear of the Film"
+      }
+    },
+    {
+      "id": "ch07-wings-and-the-housemaid",
+      "title": {
+        "en-US": "Wings and the Housemaid"
+      }
+    },
+    {
+      "id": "ch08-the-slavery-of-free-verse",
+      "title": {
+        "en-US": "The Slavery of Free Verse"
+      }
+    },
+    {
+      "id": "ch09-prohibition-and-the-press",
+      "title": {
+        "en-US": "Prohibition and the Press"
+      }
+    },
+    {
+      "id": "ch10-a-defence-of-dramatic-unities",
+      "title": {
+        "en-US": "A Defence of Dramatic Unities"
+      }
+    },
+    {
+      "id": "ch11-the-boredom-of-butterflies",
+      "title": {
+        "en-US": "The Boredom of Butterflies"
+      }
+    },
+    {
+      "id": "ch12-the-terror-of-a-toy",
+      "title": {
+        "en-US": "The Terror of a Toy"
+      }
+    },
+    {
+      "id": "ch13-false-theory-and-the-theatre",
+      "title": {
+        "en-US": "False Theory and the Theatre"
+      }
+    },
+    {
+      "id": "ch14-the-secret-society-of-mankind",
+      "title": {
+        "en-US": "The Secret Society of Mankind"
+      }
+    },
+    {
+      "id": "ch15-the-sentimentalism-of-divorce",
+      "title": {
+        "en-US": "The Sentimentalism of Divorce"
+      }
+    },
+    {
+      "id": "ch16-street-cries-and-stretching-the-law",
+      "title": {
+        "en-US": "Street Cries and Stretching the Law"
+      }
+    },
+    {
+      "id": "ch17-the-revolt-of-the-spoilt-child",
+      "title": {
+        "en-US": "The Revolt of the Spoilt Child"
+      }
+    },
+    {
+      "id": "ch18-the-innocence-of-the-criminal",
+      "title": {
+        "en-US": "The Innocence of the Criminal"
+      }
+    },
+    {
+      "id": "ch19-the-prudery-of-the-feminists",
+      "title": {
+        "en-US": "The Prudery of the Feminists"
+      }
+    },
+    {
+      "id": "ch20-how-mad-laws-are-made",
+      "title": {
+        "en-US": "How Mad Laws are Made"
+      }
+    },
+    {
+      "id": "ch21-the-pagoda-of-progress",
+      "title": {
+        "en-US": "The Pagoda of Progress"
+      }
+    },
+    {
+      "id": "ch22-the-myth-of-the-mayflower",
+      "title": {
+        "en-US": "The Myth of the “Mayflower”"
+      }
+    },
+    {
+      "id": "ch23-much-too-modern-history",
+      "title": {
+        "en-US": "Much Too Modern History"
+      }
+    },
+    {
+      "id": "ch24-the-evolution-of-slaves",
+      "title": {
+        "en-US": "The Evolution of Slaves"
+      }
+    },
+    {
+      "id": "ch25-is-darwin-dead",
+      "title": {
+        "en-US": "Is Darwin Dead?"
+      }
+    },
+    {
+      "id": "ch26-turning-inside-out",
+      "title": {
+        "en-US": "Turning Inside Out"
+      }
+    },
+    {
+      "id": "ch27-strikes-and-the-spirit-of-wonder",
+      "title": {
+        "en-US": "Strikes and the Spirit of Wonder"
+      }
+    },
+    {
+      "id": "ch28-a-note-on-old-nonsense",
+      "title": {
+        "en-US": "A Note on Old Nonsense"
+      }
+    },
+    {
+      "id": "ch29-milton-and-merry-england",
+      "title": {
+        "en-US": "Milton and Merry England"
+      }
+    }
+  ]
+}
