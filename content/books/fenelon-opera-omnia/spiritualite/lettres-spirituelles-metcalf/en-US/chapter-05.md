@@ -1,0 +1,9 @@
+# Letter V. Peace lies in simplicity and obedience
+
+Cultivate peace; be deaf to your too prolific imagination; its great activity not only injures the health of your body, but introduces aridity into your soul. You consume yourself to no purpose; peace and interior sweetness are destroyed by your restlessness. Think you God can speak in those soft and tender accents that melt the soul, in the midst of such a tumult as you excite by your incessant hurry of thought? Be quiet, and He will soon be heard. Indulge but a single scruple; to be scrupulously obedient.
+
+You ask for consolation; but you do not perceive that you have been led to the brink of the fountain, and refuse to drink. Peace and consolation are only to be found in simple obedience. Be faithful in obeying without reference to your scruples, and you will soon find that the rivers of living water will flow according to the promise. You will receive according to the measure of your faith; much, if you believe much; nothing, if you believe nothing and continue to give ear to your empty imaginations.
+
+You dishonor true love by the supposition that it is anxious about such trifles as continually occupy your attention; it goes straight to God in pure simplicity. Satan is transformed into an angel of light; he assumes the beautiful form of a scrupulous love and a tender conscience; but you should know by experience the trouble and danger into which he will lead you by vehement scruples. Everything depends upon your faithfulness in repelling his first advances.
+
+If you become ingenuous and simple in your desires, I think you will have been more pleasing to God than if you had suffered a hundred martyrdoms. Turn all your anxieties toward your delay in offering a sacrifice so right in the sight of God. Can true love hesitate when it is required to please its well-beloved? __________________________________________________________________

@@ -1,0 +1,3 @@
+# Letter XXXV. Daily dying takes the place of final death
+
+We must bear our crosses; self is the greatest of them; we are not entirely rid of it until we can tolerate ourselves as simply and patiently as we do our neighbor. If we die in part every day of our lives, we shall have but little to do on the last. What we so much dread in the future will cause us no fear when it comes, if we do not suffer its terrors to be exaggerated by the restless anxieties of self-love. Bear with yourself, and consent in all lowliness to be supported by your neighbor. O how utterly will these little daily deaths destroy the power of the final dying! __________________________________________________________________

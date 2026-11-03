@@ -1,0 +1,279 @@
+{
+  "id": "fenelon-spiritual-letters-metcalf",
+  "cover": "classic",
+  "name": {
+    "en-US": "Spiritual Letters",
+    "pt-BR": "Cartas Espirituais"
+  },
+  "author": {
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François Fénelon"
+  },
+  "description": {
+    "en-US": "Forty of Fénelon's spiritual letters: humiliation, suffering, the cross, the death of self, peace, simplicity and abandonment, in the Metcalf version of Spiritual Progress.",
+    "pt-BR": "Quarenta cartas espirituais de Fénelon: humilhação, sofrimento, cruz, morte de si, paz, simplicidade e abandono, na versão de Metcalf."
+  },
+  "composed": 1700,
+  "languages": [
+    "en-US"
+  ],
+  "work": "fenelon/lettres-spirituelles",
+  "editions": {
+    "en-US": {
+      "editor": "James W. Metcalf (New York: M. W. Dodd, 1853)",
+      "year": 1853
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://ccel.org/ccel/fenelon/progress",
+      "edition": "Spiritual Progress, ed. James W. Metcalf (New York: M. W. Dodd, 1853), CCEL proofed etext; only Fénelon's parts.",
+      "description": "Fénelon's part of the volume only; the Guyon and La Combe pieces and the editor's preface are left out. Gutenberg licence and transcriber notes are dropped. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "François de Salignac de La Mothe-Fénelon died in 1715 and the edition is of 1853, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Letter I. The advantage of humiliation"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "Letter II. How to bear suffering so as to preserve our peace"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "Letter III. The beauty of the cross"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "Letter IV. The death of self"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "Letter V. Peace lies in simplicity and obedience"
+      }
+    },
+    {
+      "id": "chapter-06",
+      "title": {
+        "en-US": "Letter VI. The true source of peace is in the surrender of the will"
+      }
+    },
+    {
+      "id": "chapter-07",
+      "title": {
+        "en-US": "Letter VII. True good is only reached by abandonment"
+      }
+    },
+    {
+      "id": "chapter-08",
+      "title": {
+        "en-US": "Letter VIII. Knowledge puffeth up; charity edifieth"
+      }
+    },
+    {
+      "id": "chapter-09",
+      "title": {
+        "en-US": "Letter IX. We are not to choose the manner in which our blessings shall be bestowed"
+      }
+    },
+    {
+      "id": "chapter-10",
+      "title": {
+        "en-US": "Letter X. The discovery and death of self"
+      }
+    },
+    {
+      "id": "chapter-11",
+      "title": {
+        "en-US": "Letter XI. The sight of our imperfections should not take away our peace"
+      }
+    },
+    {
+      "id": "chapter-12",
+      "title": {
+        "en-US": "Letter XII. Living by the cross and by faith"
+      }
+    },
+    {
+      "id": "chapter-13",
+      "title": {
+        "en-US": "Letter XIII. Despair at our imperfection is a greater obstacle than the imperfection itself"
+      }
+    },
+    {
+      "id": "chapter-14",
+      "title": {
+        "en-US": "Letter XIV. Pure faith sees God alone"
+      }
+    },
+    {
+      "id": "chapter-15",
+      "title": {
+        "en-US": "Letter XV. Our knowledge stands in the way of our becoming wise"
+      }
+    },
+    {
+      "id": "chapter-16",
+      "title": {
+        "en-US": "Letter XVI. Those who endeavor to injure us are to be loved and welcomed as the hand of God"
+      }
+    },
+    {
+      "id": "chapter-17",
+      "title": {
+        "en-US": "Letter XVII. Quietness in God our true resource"
+      }
+    },
+    {
+      "id": "chapter-18",
+      "title": {
+        "en-US": "Letter XVIII. True friendships are founded only in God"
+      }
+    },
+    {
+      "id": "chapter-19",
+      "title": {
+        "en-US": "Letter XIX. The cross a source of our pleasure"
+      }
+    },
+    {
+      "id": "chapter-20",
+      "title": {
+        "en-US": "Letter XX. The absence of feeling and the revelation of self no sufficient causes of distress"
+      }
+    },
+    {
+      "id": "chapter-21",
+      "title": {
+        "en-US": "Letter XXI. The imperfection of others to be borne in love"
+      }
+    },
+    {
+      "id": "chapter-22",
+      "title": {
+        "en-US": "Letter XXII. The fear of death not taken away by our own courage, but by the grace of God"
+      }
+    },
+    {
+      "id": "chapter-23",
+      "title": {
+        "en-US": "Letter XXIII. Sensitiveness under reproof the surest sign we needed it"
+      }
+    },
+    {
+      "id": "chapter-24",
+      "title": {
+        "en-US": "Letter XXIV. Imperfection only is intolerant of imperfection"
+      }
+    },
+    {
+      "id": "chapter-25",
+      "title": {
+        "en-US": "Letter XXV. We should listen to God and not to self-love"
+      }
+    },
+    {
+      "id": "chapter-26",
+      "title": {
+        "en-US": "Letter XXVI. Absolute trust the shortest road to God"
+      }
+    },
+    {
+      "id": "chapter-27",
+      "title": {
+        "en-US": "Letter XXVII. The time of temptation and distress is no time to form resolves"
+      }
+    },
+    {
+      "id": "chapter-28",
+      "title": {
+        "en-US": "Letter XXVIII. Who has love, has all"
+      }
+    },
+    {
+      "id": "chapter-29",
+      "title": {
+        "en-US": "Letter XXIX. Weakness preferable to strength, and practice better than knowledge"
+      }
+    },
+    {
+      "id": "chapter-30",
+      "title": {
+        "en-US": "Letter XXX. Beware of the pride of reasoning; the true guide to knowledge is love"
+      }
+    },
+    {
+      "id": "chapter-31",
+      "title": {
+        "en-US": "Letter XXXI. The gifts of God not to be rejected on account of the channel that brings them"
+      }
+    },
+    {
+      "id": "chapter-32",
+      "title": {
+        "en-US": "Letter XXXII. Poverty and spoliation the way of Christ"
+      }
+    },
+    {
+      "id": "chapter-33",
+      "title": {
+        "en-US": "Letter XXXIII. The will of God our only treasure"
+      }
+    },
+    {
+      "id": "chapter-34",
+      "title": {
+        "en-US": "Letter XXXIV. Abandonment not a heroic sacrifice, but a simple sinking into the will of God"
+      }
+    },
+    {
+      "id": "chapter-35",
+      "title": {
+        "en-US": "Letter XXXV. Daily dying takes the place of final death"
+      }
+    },
+    {
+      "id": "chapter-36",
+      "title": {
+        "en-US": "Letter XXXVI. Suffering belongs to the living, not the dead"
+      }
+    },
+    {
+      "id": "chapter-37",
+      "title": {
+        "en-US": "Letter XXXVII. The limits of our grace are those of our temptation"
+      }
+    },
+    {
+      "id": "chapter-38",
+      "title": {
+        "en-US": "Letter XXXVIII. Resisting God, an effectual bar to grace"
+      }
+    },
+    {
+      "id": "chapter-39",
+      "title": {
+        "en-US": "Letter XXXIX. God speaks more effectually in the soul, than to it"
+      }
+    },
+    {
+      "id": "chapter-40",
+      "title": {
+        "en-US": "Letter XL. The circumcision of the heart"
+      }
+    }
+  ]
+}

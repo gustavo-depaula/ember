@@ -1,0 +1,7 @@
+# Letter XXXIV. Abandonment not a heroic sacrifice, but a simple sinking into the will of God
+
+Your sole task, my dear daughter, is, to bear your infirmities both of body and mind. When I am weak, says the Apostle, then am I strong; strength is made perfect in weakness. We are only strong in God in proportion as we are weak in ourselves; your feebleness will be your strength if you accept it in all lowliness.
+
+We are tempted to believe that weakness and lowliness are incompatible with abandonment, because this latter is represented as a generous act of the soul by which it testifies its great love, and makes the most heroic sacrifices. But a true abandonment does not at all correspond to this flattering description; it is a simple resting in the love of God, as an infant lies in its mother's arms. A perfect abandonment must even go so far as to abandon its abandonment. We renounce ourselves without knowing it; if we knew it, it would no longer be complete, for there can be no greater support than a consciousness that we are wholly given up.
+
+Abandonment consist, not in doing great things for self to take delight in, but simply in suffering our weakness and infirmity, in letting everything alone. It is peaceful, for it would no longer be sincere, if we were still restless about anything we had renounced. It is thus that abandonment is the source of true peace; if we have not peace, it is because our abandonment is exceedingly imperfect. __________________________________________________________________

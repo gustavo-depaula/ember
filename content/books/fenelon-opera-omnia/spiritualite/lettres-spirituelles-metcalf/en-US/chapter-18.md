@@ -1,0 +1,5 @@
+# Letter XVIII. True friendships are founded only in God
+
+We must be content with what God gives, without having any choice of our own. It is right that his will should be done, not ours; and that his should become ours without the least reservation, in order that it may be done on earth as it is done in heaven. This is a hundred times more valuable an attainment than to be engaged in the view or consolation of self.
+
+O how near are we to each other when we are all united in God! How well do we converse when we have but a single will and a single thought in Him who is all things in us! Would you find your true friends, then? Seek them only in Him who is the single source of true and eternal friendship. Would you speak with or hear from them? Sink in silence into the bosom of Him who is the word, the life, and the soul of all those who speak and live the truth. You will find in Him not only every want supplied, but everything perfect, which you find so imperfect in the creatures in whom you confide. __________________________________________________________________
