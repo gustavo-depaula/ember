@@ -8,5 +8,690 @@
   "matches": [
     "Augustine of Hippo",
     "Augustine, Saint, Bishop of Hippo (345-430)"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "His own story and the shortest summary of his faith, then how he teaches the beginner.",
+        "pt-BR": "A própria história e o resumo mais breve da sua fé, e depois como ele ensina o principiante."
+      },
+      "works": [
+        {
+          "work": "augustine/confessions",
+          "why": {
+            "en-US": "His life and conversion, told as a prayer to God",
+            "pt-BR": "A vida e a conversão, contadas como oração a Deus"
+          }
+        },
+        {
+          "work": "augustine/enchiridion",
+          "why": {
+            "en-US": "A short handbook on faith, hope and charity",
+            "pt-BR": "Pequeno manual sobre a fé, a esperança e a caridade"
+          }
+        },
+        {
+          "work": "augustine/de-catechizandis-rudibus",
+          "why": {
+            "en-US": "How to teach the faith to beginners, with model catechesis",
+            "pt-BR": "Como ensinar a fé aos principiantes, com catequeses modelo"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The major works",
+        "pt-BR": "As grandes obras"
+      },
+      "note": {
+        "en-US": "The long books on which his place in the Church rests.",
+        "pt-BR": "Os livros longos em que se apoia o seu lugar na Igreja."
+      },
+      "works": [
+        {
+          "work": "augustine/de-trinitate",
+          "why": {
+            "en-US": "His great work on the Triune God, fifteen books",
+            "pt-BR": "A grande obra sobre o Deus Trino, em quinze livros"
+          }
+        },
+        {
+          "work": "augustine/de-civitate-dei",
+          "why": {
+            "en-US": "Rome's fall and the two cities, in twenty-two books",
+            "pt-BR": "A queda de Roma e as duas cidades, em vinte e dois livros"
+          }
+        },
+        {
+          "work": "augustine/de-doctrina-christiana",
+          "why": {
+            "en-US": "How to read Scripture and how to preach it",
+            "pt-BR": "Como ler a Escritura e como pregá-la"
+          }
+        },
+        {
+          "work": "augustine/retractationes",
+          "why": {
+            "en-US": "His own review of his works, written near the end",
+            "pt-BR": "A revisão que fez das próprias obras, perto do fim"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Psalms, the Gospels and Scripture",
+        "pt-BR": "Os Salmos, os Evangelhos e a Escritura"
+      },
+      "note": {
+        "en-US": "Commentary and preaching on Scripture, the largest part of his output.",
+        "pt-BR": "Comentário e pregação sobre a Escritura, a maior parte da sua obra."
+      },
+      "works": [
+        {
+          "work": "augustine/enarrationes-in-psalmos",
+          "why": {
+            "en-US": "Sermons and commentary on all 150 psalms",
+            "pt-BR": "Sermões e comentários sobre os 150 salmos"
+          }
+        },
+        {
+          "work": "augustine/in-iohannis-evangelium-tractatus",
+          "why": {
+            "en-US": "Homilies on John's Gospel, verse by verse",
+            "pt-BR": "Homilias sobre o Evangelho de João, versículo a versículo"
+          }
+        },
+        {
+          "work": "augustine/in-epistulam-iohannis-ad-parthos",
+          "why": {
+            "en-US": "Ten homilies on love in the First Letter of John",
+            "pt-BR": "Dez homilias sobre o amor na Primeira Carta de João"
+          }
+        },
+        {
+          "work": "augustine/de-sermone-domini-in-monte",
+          "why": {
+            "en-US": "A verse-by-verse reading of the Sermon on the Mount",
+            "pt-BR": "Leitura versículo a versículo do Sermão da Montanha"
+          }
+        },
+        {
+          "work": "augustine/de-consensu-evangelistarum",
+          "why": {
+            "en-US": "Why the four Gospels agree, and where they seem not to",
+            "pt-BR": "Por que os quatro Evangelhos concordam e onde parecem divergir"
+          }
+        },
+        {
+          "work": "augustine/de-genesi-ad-litteram",
+          "why": {
+            "en-US": "A long literal commentary on Genesis, 401-415",
+            "pt-BR": "Longo comentário literal ao Gênesis, de 401 a 415"
+          }
+        },
+        {
+          "work": "augustine/de-genesi-contra-manichaeos",
+          "why": {
+            "en-US": "An early allegorical reading of Genesis against the Manichaeans",
+            "pt-BR": "Leitura alegórica do Gênesis contra os maniqueus"
+          }
+        },
+        {
+          "work": "augustine/de-genesi-ad-litteram-imperfectus-liber",
+          "why": {
+            "en-US": "His first attempt at a literal Genesis, left unfinished",
+            "pt-BR": "Primeira tentativa de ler o Gênesis ao pé da letra, inacabada"
+          }
+        },
+        {
+          "work": "augustine/quaestiones-evangeliorum",
+          "why": {
+            "en-US": "Questions on passages of Matthew and Luke",
+            "pt-BR": "Questões sobre passagens de Mateus e Lucas"
+          }
+        },
+        {
+          "work": "augustine/quaestiones-in-heptateuchum",
+          "why": {
+            "en-US": "Questions on the first seven books of the Old Testament",
+            "pt-BR": "Questões sobre os sete primeiros livros do Antigo Testamento"
+          }
+        },
+        {
+          "work": "augustine/locutiones-in-heptateuchum",
+          "why": {
+            "en-US": "Notes on the idioms of the Heptateuch, 419",
+            "pt-BR": "Notas sobre as locuções do Heptateuco, de 419"
+          }
+        },
+        {
+          "work": "augustine/adnotationes-in-iob",
+          "why": {
+            "en-US": "Notes on Job, from 399",
+            "pt-BR": "Notas sobre Jó, de 399"
+          }
+        },
+        {
+          "work": "augustine/expositio-epistulae-ad-galatas",
+          "why": {
+            "en-US": "A running commentary on Galatians, 394-395",
+            "pt-BR": "Comentário contínuo à Carta aos Gálatas, de 394-395"
+          }
+        },
+        {
+          "work": "augustine/expositio-quarundam-propositionum-ex-epistula-ad-romanos",
+          "why": {
+            "en-US": "Certain propositions from Romans, 394",
+            "pt-BR": "Algumas proposições da Carta aos Romanos, de 394"
+          }
+        },
+        {
+          "work": "augustine/epistulae-ad-romanos-inchoata-expositio",
+          "why": {
+            "en-US": "A commentary on Romans, abandoned after its opening verses",
+            "pt-BR": "Comentário a Romanos, abandonado nos primeiros versículos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Sermons and letters",
+        "pt-BR": "Sermões e cartas"
+      },
+      "note": {
+        "en-US": "The bishop speaking to his people and writing to his correspondents.",
+        "pt-BR": "O bispo falando ao seu povo e escrevendo aos seus correspondentes."
+      },
+      "works": [
+        {
+          "work": "augustine/sermones",
+          "why": {
+            "en-US": "His preaching on the feasts and the Gospels, in Latin",
+            "pt-BR": "Pregação sobre as festas e os Evangelhos, em latim"
+          }
+        },
+        {
+          "work": "augustine/epistulae",
+          "why": {
+            "en-US": "His letters, with the English of the Nicene Fathers",
+            "pt-BR": "Suas cartas, com o inglês dos Padres da Igreja"
+          }
+        },
+        {
+          "work": "augustine/de-symbolo-ad-catechumenos",
+          "why": {
+            "en-US": "A sermon explaining the Creed to catechumens",
+            "pt-BR": "Sermão que explica o Credo aos catecúmenos"
+          }
+        },
+        {
+          "work": "augustine/de-fide-et-symbolo",
+          "why": {
+            "en-US": "The Creed explained to the bishops in council, 393",
+            "pt-BR": "O Credo explicado aos bispos reunidos em concílio, 393"
+          }
+        },
+        {
+          "work": "augustine/de-fide-rerum-quae-non-videntur",
+          "why": {
+            "en-US": "Why we believe what we cannot see",
+            "pt-BR": "Por que cremos no que não vemos"
+          }
+        },
+        {
+          "work": "augustine/sermo-ad-caesareensis-ecclesiae-plebem",
+          "why": {
+            "en-US": "A sermon to the people of Caesarea, 418",
+            "pt-BR": "Sermão ao povo da Igreja de Cesareia, de 418"
+          }
+        },
+        {
+          "work": "augustine/de-excidio-urbis-romae",
+          "why": {
+            "en-US": "A sermon after the sack of Rome, 410",
+            "pt-BR": "Sermão depois do saque de Roma, em 410"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The early dialogues and philosophy",
+        "pt-BR": "Os primeiros diálogos e a filosofia"
+      },
+      "note": {
+        "en-US": "Written at and after his conversion, 386-391, on the soul, truth and order.",
+        "pt-BR": "Escritos na conversão e logo depois, entre 386 e 391, sobre a alma, a verdade e a ordem."
+      },
+      "works": [
+        {
+          "work": "augustine/soliloquia",
+          "why": {
+            "en-US": "A conversation with his own reason about God and the soul",
+            "pt-BR": "Conversa com a própria razão sobre Deus e a alma"
+          }
+        },
+        {
+          "work": "augustine/de-beata-vita",
+          "why": {
+            "en-US": "A dialogue on what makes a person happy, 386",
+            "pt-BR": "Diálogo sobre o que faz alguém feliz, de 386"
+          }
+        },
+        {
+          "work": "augustine/de-libero-arbitrio",
+          "why": {
+            "en-US": "Free will and the origin of evil, in three books",
+            "pt-BR": "O livre-arbítrio e a origem do mal, em três livros"
+          }
+        },
+        {
+          "work": "augustine/de-magistro",
+          "why": {
+            "en-US": "A dialogue with his son on words and teaching",
+            "pt-BR": "Diálogo com o filho sobre as palavras e o ensino"
+          }
+        },
+        {
+          "work": "augustine/de-vera-religione",
+          "why": {
+            "en-US": "True religion against the philosophers, 390",
+            "pt-BR": "A verdadeira religião contra os filósofos, de 390"
+          }
+        },
+        {
+          "work": "augustine/de-utilitate-credendi",
+          "why": {
+            "en-US": "Why belief must come before understanding",
+            "pt-BR": "Por que a fé precede a compreensão"
+          }
+        },
+        {
+          "work": "augustine/contra-academicos",
+          "why": {
+            "en-US": "Against the skeptics: can truth be found?",
+            "pt-BR": "Contra os céticos: é possível achar a verdade?"
+          }
+        },
+        {
+          "work": "augustine/de-ordine",
+          "why": {
+            "en-US": "Order and providence, a dialogue from Cassiciacum",
+            "pt-BR": "Ordem e providência, diálogo escrito em Cassicíaco"
+          }
+        },
+        {
+          "work": "augustine/de-immortalitate-animae",
+          "why": {
+            "en-US": "A short argument for the soul's immortality",
+            "pt-BR": "Breve argumento a favor da imortalidade da alma"
+          }
+        },
+        {
+          "work": "augustine/de-quantitate-animae",
+          "why": {
+            "en-US": "The soul's greatness and its stages of ascent",
+            "pt-BR": "A grandeza da alma e os seus graus de elevação"
+          }
+        },
+        {
+          "work": "augustine/de-musica",
+          "why": {
+            "en-US": "A treatise on rhythm and number, six books",
+            "pt-BR": "Tratado sobre o ritmo e o número, em seis livros"
+          }
+        },
+        {
+          "work": "augustine/de-diversis-quaestionibus-octoginta-tribus",
+          "why": {
+            "en-US": "Eighty-three questions, answered between 388 and 396",
+            "pt-BR": "Oitenta e três questões, respondidas entre 388 e 396"
+          }
+        },
+        {
+          "work": "augustine/de-dialectica"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Christian life and the Church",
+        "pt-BR": "A vida cristã e a Igreja"
+      },
+      "note": {
+        "en-US": "Short treatises on marriage, virginity, patience, truthfulness and the monk's work.",
+        "pt-BR": "Pequenos tratados sobre o matrimônio, a virgindade, a paciência, a verdade e o trabalho dos monges."
+      },
+      "works": [
+        {
+          "work": "augustine/regula",
+          "why": {
+            "en-US": "The Rule that shaped later religious life",
+            "pt-BR": "A Regra que moldou a vida religiosa posterior"
+          }
+        },
+        {
+          "work": "augustine/de-bono-coniugali",
+          "why": {
+            "en-US": "The goods of marriage: children, fidelity, sacrament",
+            "pt-BR": "Os bens do matrimônio: filhos, fidelidade, sacramento"
+          }
+        },
+        {
+          "work": "augustine/de-sancta-virginitate",
+          "why": {
+            "en-US": "Holy virginity, humility and Mary",
+            "pt-BR": "A santa virgindade, a humildade e Maria"
+          }
+        },
+        {
+          "work": "augustine/de-bono-viduitatis",
+          "why": {
+            "en-US": "Widowhood, written for the widow Juliana",
+            "pt-BR": "A viuvez, escrito para a viúva Juliana"
+          }
+        },
+        {
+          "work": "augustine/de-patientia",
+          "why": {
+            "en-US": "Patience as a gift of God",
+            "pt-BR": "A paciência como dom de Deus"
+          }
+        },
+        {
+          "work": "augustine/de-continentia",
+          "why": {
+            "en-US": "Continence as a gift to be asked for",
+            "pt-BR": "A continência como dom a pedir"
+          }
+        },
+        {
+          "work": "augustine/de-mendacio",
+          "why": {
+            "en-US": "Whether a lie is ever permitted",
+            "pt-BR": "Se alguma vez é lícito mentir"
+          }
+        },
+        {
+          "work": "augustine/contra-mendacium",
+          "why": {
+            "en-US": "A second book on lying, to Consentius",
+            "pt-BR": "Segundo livro sobre a mentira, a Consêncio"
+          }
+        },
+        {
+          "work": "augustine/de-opere-monachorum",
+          "why": {
+            "en-US": "Monks must work with their hands",
+            "pt-BR": "Os monges devem trabalhar com as próprias mãos"
+          }
+        },
+        {
+          "work": "augustine/de-agone-christiano",
+          "why": {
+            "en-US": "The Christian struggle, in plain words for the simple",
+            "pt-BR": "O combate cristão, em palavras simples para os humildes"
+          }
+        },
+        {
+          "work": "augustine/de-fide-et-operibus",
+          "why": {
+            "en-US": "Faith and works, and baptism for the unready",
+            "pt-BR": "A fé e as obras, e o batismo dos mal preparados"
+          }
+        },
+        {
+          "work": "augustine/de-cura-pro-mortuis-gerenda",
+          "why": {
+            "en-US": "Whether burial and prayers help the dead",
+            "pt-BR": "Se o sepultamento e as orações ajudam os mortos"
+          }
+        },
+        {
+          "work": "augustine/de-nuptiis-et-concupiscentia"
+        },
+        {
+          "work": "augustine/de-adulterinis-coniugiis"
+        },
+        {
+          "work": "augustine/de-disciplina-christiana"
+        },
+        {
+          "work": "augustine/de-divinatione-daemonum"
+        },
+        {
+          "work": "augustine/de-octo-dulcitii-quaestionibus"
+        },
+        {
+          "work": "augustine/de-haeresibus"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Grace and the Pelagian controversy",
+        "pt-BR": "A graça e a controvérsia pelagiana"
+      },
+      "note": {
+        "en-US": "Against Pelagius and Julian, from 411 to his death.",
+        "pt-BR": "Contra Pelágio e Juliano, de 411 até a sua morte."
+      },
+      "works": [
+        {
+          "work": "augustine/de-spiritu-et-littera",
+          "why": {
+            "en-US": "The letter kills, the Spirit gives life",
+            "pt-BR": "A letra mata, o Espírito dá a vida"
+          }
+        },
+        {
+          "work": "augustine/de-natura-et-gratia",
+          "why": {
+            "en-US": "Nature and grace, answering Pelagius's book",
+            "pt-BR": "Natureza e graça, em resposta ao livro de Pelágio"
+          }
+        },
+        {
+          "work": "augustine/de-gratia-christi-et-de-peccato-originali",
+          "why": {
+            "en-US": "Christ's grace and original sin",
+            "pt-BR": "A graça de Cristo e o pecado original"
+          }
+        },
+        {
+          "work": "augustine/de-gratia-et-libero-arbitrio",
+          "why": {
+            "en-US": "Grace and free will, for monks in doubt",
+            "pt-BR": "Graça e livre-arbítrio, para monges em dúvida"
+          }
+        },
+        {
+          "work": "augustine/de-correptione-et-gratia",
+          "why": {
+            "en-US": "Rebuke and grace, a sequel for the same monks",
+            "pt-BR": "Correção e graça, continuação para os mesmos monges"
+          }
+        },
+        {
+          "work": "augustine/de-praedestinatione-sanctorum",
+          "why": {
+            "en-US": "Predestination, and perseverance as a gift",
+            "pt-BR": "A predestinação e a perseverança como dom"
+          }
+        },
+        {
+          "work": "augustine/de-peccatorum-meritis-et-remissione"
+        },
+        {
+          "work": "augustine/de-perfectione-iustitiae-hominis"
+        },
+        {
+          "work": "augustine/de-gestis-pelagii"
+        },
+        {
+          "work": "augustine/de-anima-et-eius-origine"
+        },
+        {
+          "work": "augustine/contra-duas-epistulas-pelagianorum"
+        },
+        {
+          "work": "augustine/contra-iulianum"
+        },
+        {
+          "work": "augustine/contra-iulianum-opus-imperfectum"
+        },
+        {
+          "work": "augustine/ad-simplicianum"
+        },
+        {
+          "work": "augustine/ad-orosium-contra-priscillianistas-et-origenistas"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Against the Manichaeans",
+        "pt-BR": "Contra os maniqueus"
+      },
+      "note": {
+        "en-US": "The sect he had belonged to for nine years.",
+        "pt-BR": "A seita a que pertenceu durante nove anos."
+      },
+      "works": [
+        {
+          "work": "augustine/de-moribus-ecclesiae-catholicae"
+        },
+        {
+          "work": "augustine/de-moribus-manichaeorum"
+        },
+        {
+          "work": "augustine/de-duabus-animabus"
+        },
+        {
+          "work": "augustine/acta-contra-fortunatum"
+        },
+        {
+          "work": "augustine/contra-epistulam-fundamenti"
+        },
+        {
+          "work": "augustine/de-natura-boni"
+        },
+        {
+          "work": "augustine/contra-faustum"
+        },
+        {
+          "work": "augustine/contra-felicem"
+        },
+        {
+          "work": "augustine/contra-secundinum"
+        },
+        {
+          "work": "augustine/contra-adimantum"
+        },
+        {
+          "work": "augustine/contra-adversarium-legis-et-prophetarum"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Against the Donatists, Arians and Jews",
+        "pt-BR": "Contra donatistas, arianos e judeus"
+      },
+      "note": {
+        "en-US": "Controversy over the Church's unity, baptism and the Trinity.",
+        "pt-BR": "Controvérsia sobre a unidade da Igreja, o batismo e a Trindade."
+      },
+      "works": [
+        {
+          "work": "augustine/de-baptismo"
+        },
+        {
+          "work": "augustine/contra-litteras-petiliani"
+        },
+        {
+          "work": "augustine/contra-epistulam-parmeniani"
+        },
+        {
+          "work": "augustine/contra-cresconium"
+        },
+        {
+          "work": "augustine/de-unico-baptismo"
+        },
+        {
+          "work": "augustine/psalmus-contra-partem-donati"
+        },
+        {
+          "work": "augustine/breviculus-collationis-cum-donatistis"
+        },
+        {
+          "work": "augustine/gesta-collationis-carthaginiensis"
+        },
+        {
+          "work": "augustine/contra-donatistas-post-collationem"
+        },
+        {
+          "work": "augustine/gesta-cum-emerito"
+        },
+        {
+          "work": "augustine/contra-gaudentium"
+        },
+        {
+          "work": "augustine/contra-sermonem-arrianorum"
+        },
+        {
+          "work": "augustine/collatio-cum-maximino"
+        },
+        {
+          "work": "augustine/contra-maximinum"
+        },
+        {
+          "work": "augustine/adversus-iudaeos"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Attributed works",
+        "pt-BR": "Obras atribuídas"
+      },
+      "note": {
+        "en-US": "Doubtful or spurious works transmitted under his name.",
+        "pt-BR": "Obras duvidosas ou espúrias transmitidas sob o seu nome."
+      },
+      "works": [
+        {
+          "work": "augustine/epistula-ad-catholicos-de-secta-donatistarum"
+        },
+        {
+          "work": "augustine/de-grammatica"
+        },
+        {
+          "work": "augustine/de-grammatica-regulae"
+        },
+        {
+          "work": "augustine/de-rhetorica"
+        },
+        {
+          "work": "augustine/de-utilitate-ieiunii"
+        },
+        {
+          "work": "augustine/de-octo-quaestionibus-ex-veteri-testamento"
+        },
+        {
+          "work": "augustine/quaestiones-xvii-in-matthaeum"
+        },
+        {
+          "work": "augustine/speculum"
+        }
+      ]
+    }
   ]
 }
