@@ -1,0 +1,99 @@
+{
+  "id": "chesterton-ballad-of-the-white-horse",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Ballad of the White Horse",
+    "pt-BR": "A Balada do Cavalo Branco"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's epic poem of King Alfred and the battle of Ethandune against the Danes, told in eight books of ballad stanzas: the vision of the king, the gathering of the chiefs, the harp of Alfred, the woman in the forest, the battle and the scouring of the White Horse of Uffington. It sings the Christian West against the pagan sea.",
+    "pt-BR": "O poema épico de Chesterton sobre o rei Alfredo e a batalha de Ethandune contra os dinamarqueses, narrado em oito livros de estrofes de balada: a visão do rei, a reunião dos chefes, a harpa de Alfredo, a mulher na floresta, a batalha e a limpeza do Cavalo Branco de Uffington. Canta o Ocidente cristão contra o mar pagão."
+  },
+  "composed": "1911",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/ballad-of-the-white-horse",
+  "editions": {
+    "en-US": {
+      "editor": "Methuen & Co.",
+      "year": 1911
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/1719",
+      "edition": "The Ballad of the White Horse (Methuen & Co., 1911), Project Gutenberg #1719.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1911 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-prefatory-note",
+      "title": {
+        "en-US": "Prefatory Note:"
+      }
+    },
+    {
+      "id": "ch02-dedication",
+      "title": {
+        "en-US": "Dedication"
+      }
+    },
+    {
+      "id": "ch03-book-i-the-vision-of-the-king",
+      "title": {
+        "en-US": "Book I. The Vision of the King"
+      }
+    },
+    {
+      "id": "ch04-book-ii-the-gathering-of-the-chiefs",
+      "title": {
+        "en-US": "Book II. The Gathering of the Chiefs"
+      }
+    },
+    {
+      "id": "ch05-book-iii-the-harp-of-alfred",
+      "title": {
+        "en-US": "Book III. The Harp of Alfred"
+      }
+    },
+    {
+      "id": "ch06-book-iv-the-woman-in-the-forest",
+      "title": {
+        "en-US": "Book IV. The Woman in the Forest"
+      }
+    },
+    {
+      "id": "ch07-book-v-ethandune-the-first-stroke",
+      "title": {
+        "en-US": "Book V. Ethandune: The First Stroke"
+      }
+    },
+    {
+      "id": "ch08-book-vi-ethandune-the-slaying-of-the",
+      "title": {
+        "en-US": "Book VI. Ethandune: The Slaying of the Chiefs"
+      }
+    },
+    {
+      "id": "ch09-book-vii-ethandune-the-last-charge",
+      "title": {
+        "en-US": "Book VII. Ethandune: The Last Charge"
+      }
+    },
+    {
+      "id": "ch10-book-viii-the-scouring-of-the-horse",
+      "title": {
+        "en-US": "Book VIII. The Scouring of the Horse"
+      }
+    }
+  ]
+}
