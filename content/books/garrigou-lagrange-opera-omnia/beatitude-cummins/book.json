@@ -1,0 +1,212 @@
+{
+  "id": "garrigou-beatitude",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "De beatitudine (traduction anglaise)",
+    "en-US": "Beatitude: A Commentary on St. Thomas’ Theological Summa, Ia IIae, q. 1-54",
+    "pt-BR": "A bem-aventurança: comentário à Suma teológica I-II, qq. 1-54"
+  },
+  "author": {
+    "fr-FR": "Réginald Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "description": {
+    "en-US": "Commentary on the Summa theologiae I-II, qq. 1-54: man’s last end, beatitude, human acts, the passions and habits. Patrick Cummins’s translation of De beatitudine (1951), Herder 1956.",
+    "pt-BR": "Comentário à Suma teológica I-II, qq. 1-54: o fim último do homem, a bem-aventurança, os atos humanos, as paixões e os hábitos. Tradução inglesa de Patrick Cummins (Herder, 1956) de De beatitudine (1951)."
+  },
+  "composed": "1951",
+  "work": "garrigou-lagrange/de-beatitudine",
+  "editions": {
+    "en-US": {
+      "translator": "Patrick Cummins, O.S.B.",
+      "year": 1956
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/Lagrange-English",
+      "edition": "Beatitude: A Commentary on St. Thomas’ Theological Summa, Ia IIae, q. 1-54, Patrick Cummins, O.S.B., St. Louis: B. Herder, 1956 (archive.org Lagrange-English); the Latin original is imported separately where available"
+    }
+  ],
+  "languages": [
+    "en-US"
+  ],
+  "toc": [
+    {
+      "id": "art1",
+      "title": {
+        "en-US": "Chapter I. The nature of moral theology"
+      }
+    },
+    {
+      "id": "art2",
+      "title": {
+        "en-US": "Chapter II. Divisions of moral theology"
+      }
+    },
+    {
+      "id": "art3",
+      "title": {
+        "en-US": "Chapter III. Ethical systems"
+      }
+    },
+    {
+      "id": "art4",
+      "title": {
+        "en-US": "Chapter IV. The four chief systems"
+      }
+    },
+    {
+      "id": "art5",
+      "title": {
+        "en-US": "Chapter V. The ultimate goal in general"
+      }
+    },
+    {
+      "id": "art6",
+      "title": {
+        "en-US": "Chapter VI. Man’s objective beatitude prologue"
+      }
+    },
+    {
+      "id": "art7",
+      "title": {
+        "en-US": "Chapter VII. Wuart 1s beatitude considered formally, subjectively? (q. 3)"
+      }
+    },
+    {
+      "id": "art8",
+      "title": {
+        "en-US": "Chapter VIII. The characteristics of beatitude (q. 4)"
+      }
+    },
+    {
+      "id": "art9",
+      "title": {
+        "en-US": "Chapter IX. On attaining beatitude (q. 5)"
+      }
+    },
+    {
+      "id": "art10",
+      "title": {
+        "en-US": "Chapter X. Voluntary and involuntary (q. 6)"
+      }
+    },
+    {
+      "id": "art11",
+      "title": {
+        "en-US": "Chapter XI. ‘the circumstances of human acrts (q. 7)"
+      }
+    },
+    {
+      "id": "art12",
+      "title": {
+        "en-US": "Chapter XII. The wii and its osjecr (q. 8)"
+      }
+    },
+    {
+      "id": "art13",
+      "title": {
+        "en-US": "Chapter XIII. By what motives the will is moven (q. 9)"
+      }
+    },
+    {
+      "id": "art14",
+      "title": {
+        "en-US": "Chapter XIV. How is the witt movenp? (q. 10) preliminaries"
+      }
+    },
+    {
+      "id": "art15",
+      "title": {
+        "en-US": "Chapter XV. Other acts elicited by the will (q. 11-17) fruition (q. 11)"
+      }
+    },
+    {
+      "id": "art16",
+      "title": {
+        "en-US": "Chapter XVI. Sources of goop and evit (q. 18) preliminaries"
+      }
+    },
+    {
+      "id": "art17",
+      "title": {
+        "en-US": "Chapter XVII. Goop and evil in interior acts (q. 19)"
+      }
+    },
+    {
+      "id": "art18",
+      "title": {
+        "en-US": "Chapter XVIII. Good and evil in exterior acts (q.20)"
+      }
+    },
+    {
+      "id": "art19",
+      "title": {
+        "en-US": "Chapter XIX. Definition and division"
+      }
+    },
+    {
+      "id": "art20",
+      "title": {
+        "en-US": "Chapter XX. Dusious conscience"
+      }
+    },
+    {
+      "id": "art21",
+      "title": {
+        "en-US": "Chapter XXI. Probable conscience preliminaries"
+      }
+    },
+    {
+      "id": "art22",
+      "title": {
+        "en-US": "Chapter XXII. The passions in general (q. 22-25)"
+      }
+    },
+    {
+      "id": "art23",
+      "title": {
+        "en-US": "Chapter XXIII. The passions in particular (q. 26—49)"
+      }
+    },
+    {
+      "id": "art24",
+      "title": {
+        "en-US": "Chapter XXIV. Habits in their essence (q. 49) prologue"
+      }
+    },
+    {
+      "id": "art25",
+      "title": {
+        "en-US": "Chapter XXV. Habits and their subjects (q. 50)"
+      }
+    },
+    {
+      "id": "art26",
+      "title": {
+        "en-US": "Chapter XXVI. The Source or Hasits (Q. 51)"
+      }
+    },
+    {
+      "id": "art27",
+      "title": {
+        "en-US": "Chapter XXVII. The growth of hapsits (q. 52)"
+      }
+    },
+    {
+      "id": "art28",
+      "title": {
+        "en-US": "Chapter XXVIII. Corruption and diminution of habits (q. 53)"
+      }
+    },
+    {
+      "id": "art29",
+      "title": {
+        "en-US": "Chapter XXIX. Hasits, how distinguished (q. 54)"
+      }
+    }
+  ]
+}
