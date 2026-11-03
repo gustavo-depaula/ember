@@ -273,7 +273,3 @@ Byrne still looked at him a little doubtfully, though understanding was dawning 
 'It was quite a good adventure,' said Byrne regretfully. 'It fitted into the landscape, and was really very convincing.'
 
 'Too convincing to convince,' said Father Brown, shaking his head. 'How very vivid was that moonlit foam flung up and turning to a ghost. And how very literary! Home is a sneak and a skunk, but do not forget that, like many other sneaks and skunks in history, he is also a poet.'
-
-@@ THE END
-
-This site is full of FREE ebooks - Project Gutenberg Australia
