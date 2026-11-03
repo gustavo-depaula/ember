@@ -14,14 +14,14 @@
         "pt-BR": "Comece por aqui"
       },
       "note": {
-        "en-US": "His one complete dialogue, on virginity and the Church.",
-        "pt-BR": "Seu único diálogo completo, sobre a virgindade e a Igreja."
+        "en-US": "The longest of his works, a banquet of ten virgins.",
+        "pt-BR": "A mais longa de suas obras, um banquete de dez virgens."
       },
       "works": [
         {
           "work": "methodius-banquet-of-the-ten-virgins",
           "why": {
-            "en-US": "The Banquet of the Ten Virgins, his longest work",
+            "en-US": "The Banquet of the Ten Virgins",
             "pt-BR": "O Banquete das Dez Virgens, sua obra mais longa"
           }
         }
