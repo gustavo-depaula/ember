@@ -1,0 +1,87 @@
+{
+  "id": "chesterton-incredulity-of-father-brown",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Incredulity of Father Brown",
+    "pt-BR": "A Incredulidade do Padre Brown"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Eight Father Brown stories, many of them cases where the sceptics want a miracle and the priest is the one to doubt it: The Resurrection of Father Brown, The Arrow of Heaven, The Oracle of the Dog, The Miracle of Moon Crescent, The Dagger with Wings.",
+    "pt-BR": "Oito histórias do Padre Brown, muitas em que os céticos querem um milagre e é o padre quem desconfia: A Ressurreição do Padre Brown, A Flecha do Céu, O Oráculo do Cão, O Milagre de Moon Crescent, A Adaga com Asas."
+  },
+  "composed": "1926",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/incredulity-of-father-brown",
+  "editions": {
+    "en-US": {
+      "editor": "Cassell and Company",
+      "year": 1926
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.net.au/ebooks02/0201021h.html",
+      "edition": "The Incredulity of Father Brown (London: Cassell, 1926), Project Gutenberg Australia, ebooks02/0201021h.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1926 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-resurrection-of-father-brown",
+      "title": {
+        "en-US": "The Resurrection of Father Brown"
+      }
+    },
+    {
+      "id": "ch02-the-arrow-of-heaven",
+      "title": {
+        "en-US": "The Arrow of Heaven"
+      }
+    },
+    {
+      "id": "ch03-the-oracle-of-the-dog",
+      "title": {
+        "en-US": "The Oracle of the Dog"
+      }
+    },
+    {
+      "id": "ch04-the-miracle-of-moon-crescent",
+      "title": {
+        "en-US": "The Miracle of Moon Crescent"
+      }
+    },
+    {
+      "id": "ch05-the-curse-of-the-golden-cross",
+      "title": {
+        "en-US": "The Curse of the Golden Cross"
+      }
+    },
+    {
+      "id": "ch06-the-dagger-with-wings",
+      "title": {
+        "en-US": "The Dagger with Wings"
+      }
+    },
+    {
+      "id": "ch07-the-doom-of-the-darnaways",
+      "title": {
+        "en-US": "The Doom of the Darnaways"
+      }
+    },
+    {
+      "id": "ch08-the-ghost-of-gideon-wise",
+      "title": {
+        "en-US": "The Ghost of Gideon Wise"
+      }
+    }
+  ]
+}
