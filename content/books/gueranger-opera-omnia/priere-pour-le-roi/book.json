@@ -1,0 +1,54 @@
+{
+  "id": "gueranger-priere-pour-le-roi",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "De la prière pour le roi",
+    "en-US": "On Prayer for the King",
+    "pt-BR": "Da oração pelo rei"
+  },
+  "author": {
+    "fr-FR": "Prosper Guéranger",
+    "en-US": "Prosper Guéranger",
+    "pt-BR": "Prosper Guéranger"
+  },
+  "description": {
+    "fr-FR": "Articles de Prosper Guéranger parus dans le Mémorial catholique à l’automne de 1830 sur la prière liturgique pour le roi après la chute de Charles X. Le chapeau explicatif de Dom Delatte est omis.",
+    "en-US": "Articles by Prosper Guéranger published in the Mémorial catholique in the autumn of 1830 on the liturgical prayer for the king after the fall of Charles X. Dom Delatte’s explanatory headnote is left out.",
+    "pt-BR": "Artigos de Prosper Guéranger publicados no Mémorial catholique no outono de 1830 sobre a oração litúrgica pelo rei após a queda de Carlos X. O resumo explicativo de Dom Delatte foi omitido."
+  },
+  "composed": "1830",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/priere-pour-le-roi",
+  "editions": {
+    "fr-FR": {
+      "editor": "Mémorial catholique (Paris)",
+      "year": 1830
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://www.domgueranger.net/de-la-priere-pour-le-roi/",
+      "edition": "De la prière pour le roi, Mémorial catholique, October-November 1830 (domgueranger.net HTML transcription)",
+      "description": "Articles in the order of the site.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; text first published in his lifetime or by 1931."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01",
+      "title": {
+        "fr-FR": "Premier article (24 octobre 1830)"
+      }
+    },
+    {
+      "id": "02",
+      "title": {
+        "fr-FR": "Deuxième article (28 octobre 1830)"
+      }
+    }
+  ]
+}
