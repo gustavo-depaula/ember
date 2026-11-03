@@ -1,0 +1,123 @@
+{
+  "id": "chesterton-new-jerusalem",
+  "cover": "classic",
+  "name": {
+    "en-US": "The New Jerusalem",
+    "pt-BR": "A Nova Jerusalém"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's account of his journey to the Holy Land in 1919: the way of the cities and the desert, the philosophy of sight-seeing, the battle with the dragon, the meaning of the Crusade and the fall of chivalry, and the problem of Zionism.",
+    "pt-BR": "O relato de Chesterton sobre sua viagem à Terra Santa em 1919: o caminho das cidades e do deserto, a filosofia do turismo, a batalha com o dragão, o sentido da Cruzada e a queda da cavalaria, e o problema do sionismo."
+  },
+  "composed": "1920",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/new-jerusalem",
+  "editions": {
+    "en-US": {
+      "editor": "Hodder & Stoughton",
+      "year": 1920
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/13468",
+      "edition": "The New Jerusalem (Hodder & Stoughton, 1920), Project Gutenberg #13468.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1920 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-way-of-the-cities",
+      "title": {
+        "en-US": "I. The Way of the Cities"
+      }
+    },
+    {
+      "id": "ch02-the-way-of-the-desert",
+      "title": {
+        "en-US": "II. The Way of the Desert"
+      }
+    },
+    {
+      "id": "ch03-the-gates-of-the-city",
+      "title": {
+        "en-US": "III. The Gates of the City"
+      }
+    },
+    {
+      "id": "ch04-the-philosophy-of-sight-seeing",
+      "title": {
+        "en-US": "IV. The Philosophy of Sight-seeing"
+      }
+    },
+    {
+      "id": "ch05-the-streets-of-the-city",
+      "title": {
+        "en-US": "V. The Streets of the City"
+      }
+    },
+    {
+      "id": "ch06-the-groups-of-the-city",
+      "title": {
+        "en-US": "VI. The Groups of the City"
+      }
+    },
+    {
+      "id": "ch07-the-shadow-of-the-problem",
+      "title": {
+        "en-US": "VII. The Shadow of the Problem"
+      }
+    },
+    {
+      "id": "ch08-the-other-side-of-the-desert",
+      "title": {
+        "en-US": "VIII. The Other Side of the Desert"
+      }
+    },
+    {
+      "id": "ch09-the-battle-with-the-dragon",
+      "title": {
+        "en-US": "IX. The Battle with the Dragon"
+      }
+    },
+    {
+      "id": "ch10-the-endless-empire",
+      "title": {
+        "en-US": "X. The Endless Empire"
+      }
+    },
+    {
+      "id": "ch11-the-meaning-of-the-crusade",
+      "title": {
+        "en-US": "XI. The Meaning of the Crusade"
+      }
+    },
+    {
+      "id": "ch12-the-fall-of-chivalry",
+      "title": {
+        "en-US": "XII. The Fall of Chivalry"
+      }
+    },
+    {
+      "id": "ch13-the-problem-of-zionism",
+      "title": {
+        "en-US": "XIII. The Problem of Zionism"
+      }
+    },
+    {
+      "id": "ch14-conclusion",
+      "title": {
+        "en-US": "Conclusion"
+      }
+    }
+  ]
+}
