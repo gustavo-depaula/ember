@@ -1,0 +1,132 @@
+{
+  "id": "gueranger-institutions-liturgiques-2",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Institutions liturgiques, tome II : La Liturgie du XVIIe au XIXe siècle",
+    "en-US": "Liturgical Institutions, Volume II: The Liturgy from the 17th to the 19th Century",
+    "pt-BR": "Instituições litúrgicas, tomo II: A Liturgia do século XVII ao XIX"
+  },
+  "author": {
+    "fr-FR": "Prosper Guéranger",
+    "en-US": "Prosper Guéranger",
+    "pt-BR": "Prosper Guéranger"
+  },
+  "description": {
+    "fr-FR": "Deuxième volume de la seconde édition : préface, puis la suite de l’histoire de la Liturgie (chapitres XVII-XXIV) : les liturgies néo-gallicanes du XVIIe et du XVIIIe siècle, le rétablissement de la Liturgie romaine au XIXe siècle ; avec l’appendice et l’addition.",
+    "en-US": "Second volume of the second edition: preface, then the rest of the history of the Liturgy (chapters XVII-XXIV): the neo-Gallican liturgies of the 17th and 18th centuries and the restoration of the Roman Liturgy in the 19th; with the appendix and the addition.",
+    "pt-BR": "Segundo volume da segunda edição: prefácio e a continuação da história da Liturgia (capítulos XVII-XXIV): as liturgias neogalicanas dos séculos XVII e XVIII e o restabelecimento da Liturgia romana no século XIX; com o apêndice e o adendo."
+  },
+  "composed": "1840-1851",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/institutions-liturgiques",
+  "editions": {
+    "fr-FR": {
+      "editor": "Société générale de librairie catholique, Victor Palmé (Paris)",
+      "year": 1883
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/institutions-liturgiques-tome-2-000000254",
+      "edition": "Institutions liturgiques, 2nd ed., tome II, Paris, Société générale de librairie catholique, Palmé",
+      "description": "archive.org OCR (djvu.xml word coordinates used to drop running heads, marginal notes and page-foot notes from the body; page-foot notes became footnotes where their markers could be matched; the chapter notes stay as the closing section of each chapter). Raw OCR text in sources/french-originals.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; text first published in his lifetime (1840-1851) and reprinted by 1885."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "fr-FR": "Préface"
+      }
+    },
+    {
+      "id": "chapitre-17-1",
+      "title": {
+        "fr-FR": "Chapitre XVII. De la Liturgie durant la seconde moitié du XVIIe siècle (partie 1)"
+      }
+    },
+    {
+      "id": "chapitre-17-2",
+      "title": {
+        "fr-FR": "Chapitre XVII. De la Liturgie durant la seconde moitié du XVIIe siècle (partie 2)"
+      }
+    },
+    {
+      "id": "chapitre-18-1",
+      "title": {
+        "fr-FR": "Chapitre XVIII. De la Liturgie durant la première moitié du XVIIIe siècle (partie 1)"
+      }
+    },
+    {
+      "id": "chapitre-18-2",
+      "title": {
+        "fr-FR": "Chapitre XVIII. De la Liturgie durant la première moitié du XVIIIe siècle (partie 2)"
+      }
+    },
+    {
+      "id": "chapitre-19-1",
+      "title": {
+        "fr-FR": "Chapitre XIX. Suite de l’histoire de la Liturgie durant la première moitié du XVIIIe siècle (partie 1)"
+      }
+    },
+    {
+      "id": "chapitre-19-2",
+      "title": {
+        "fr-FR": "Chapitre XIX. Suite de l’histoire de la Liturgie durant la première moitié du XVIIIe siècle (partie 2)"
+      }
+    },
+    {
+      "id": "chapitre-20",
+      "title": {
+        "fr-FR": "Chapitre XX. Suite de l’histoire de la Liturgie durant la première moitié du XVIIIe siècle"
+      }
+    },
+    {
+      "id": "chapitre-21",
+      "title": {
+        "fr-FR": "Chapitre XXI. Suite de l’histoire de la Liturgie durant la première moitié du XVIIIe siècle"
+      }
+    },
+    {
+      "id": "chapitre-22",
+      "title": {
+        "fr-FR": "Chapitre XXII. Fin de l’histoire de la Liturgie durant la première moitié du XVIIIe siècle"
+      }
+    },
+    {
+      "id": "chapitre-23",
+      "title": {
+        "fr-FR": "Chapitre XXIII. De la Liturgie durant la seconde moitié du XVIIIe siècle"
+      }
+    },
+    {
+      "id": "chapitre-24-1",
+      "title": {
+        "fr-FR": "Chapitre XXIV. De la Liturgie au XIXe siècle (partie 1)"
+      }
+    },
+    {
+      "id": "chapitre-24-2",
+      "title": {
+        "fr-FR": "Chapitre XXIV. De la Liturgie au XIXe siècle (partie 2)"
+      }
+    },
+    {
+      "id": "appendice",
+      "title": {
+        "fr-FR": "Appendice : Critique des hymnes de Santeul"
+      }
+    },
+    {
+      "id": "addition",
+      "title": {
+        "fr-FR": "Addition"
+      }
+    }
+  ]
+}
