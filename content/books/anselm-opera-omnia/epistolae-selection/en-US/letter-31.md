@@ -1,0 +1,5 @@
+# 31. To Gondulph
+
+Anselm, archbishop, to the reverend Bishop Gondulph, greeting.
+
+Where and how I am you will hear from the bearer of this, but why I do not yet return to England you may learn from the letter which I send to the king. But I want you to greet him faithfully from me, and to give him my seal, which my messengers are bringing you, and which I send to him, and if it should please him to answer me by letter, send that to me by the same messenger. If he does not wish to do this, tell me in your letter what his answer is. But do not show To his Nephew Anselm. 171 my ring to the king after William of Warelwast comes to England, and to that same William do you secretly show a copy of the letter which I send to the king. And see to it that no one besides him, excepting only our prior, knows of that letter before it is given to the king. But after the king is acquainted with it, notify it to the bishops and others, and greet the queen lovingly from me. I send you a copy of the letter I am addressing to the king.

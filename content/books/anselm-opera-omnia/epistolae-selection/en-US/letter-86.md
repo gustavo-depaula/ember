@@ -1,0 +1,5 @@
+# 86. To Willermus
+
+Anselm the archbishop to his beloved son Willermus, greeting, and the blessing of God, and his own.
+
+I well know that you love me with a great and deep affection, and therefore I cannot help returning your love. You love me as a Father in God to whom you committed your whole self without reserve, and I who received you with sincere affection, love you as a son. From God you learnt to love me, and God gave to me to love you. Therefore since our mutual affection comes from God, it cannot be destroyed, nor ought it to be, unless some offence against God should cause this. Therefore as you wish to retain my affection, strive with all your might to avoid offending God. I like you to love me, but I like better that you should love yourself. Love yourself, and as to affection, you possess me. By keeping my admonition in mind, you will always keep in mind the love of God, and in that, my love; I cannot always be present with you. May God, who is present everywhere, guard you. I would admonish you to be always in His presence.

@@ -1,0 +1,5 @@
+# 7. To Gondulph
+
+His own to his own, friend to friend, Anselm to Gondulph, wishes through love of bliss perseverance in holiness, and for the reward of holiness an eternity of blessedness.
+
+And now, this Gondulph and Anselm is witness that I and thou are never so in want of each other as that we must needs prove our mutual affection by letters. For since thy spirit and mine can never bear to be absent from each other, but unceasingly are intertwined; we mutually need nothing from each other, save that we are not together in bodily presence. But why should I depict to thee on paper my affection, since thou dost carefully keep its exact image in the cell of thy heart? For what is thy love for me but the image of mine for thee? Therefore thy known wish induces me to write somewhat to thee on account of our bodily separation; but since we are known to each other by the presence together of our spirits, I know not what to say to thee, save — may God do with thee as He knoweth shall please Him, and be profitable to thee. Farewell.

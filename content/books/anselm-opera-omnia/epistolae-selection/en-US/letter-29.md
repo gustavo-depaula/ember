@@ -1,0 +1,5 @@
+# 29. To Matilda, Queen of the English
+
+To his mistress and dearest daughter Matilda, queen of the English, Anselm, archbishop of Canterbury, offers his faithful prayers and faithful service, and God's blessing, and his own.
+
+I give thanks to God and to your highness for the good-will which you bear towards me and towards the Church of God, and I pray God Almighty of His love to increase your piety, and thus to make you persevere until you receive from Him an eternal reward. I also pray that He may so cause your good intentions to succeed as that by your means He may turn the heart of our lord the king from that advice of the nobles which He reprobates, and cause the king to abide by His counsel, which is for ever sure. I gratefully accept your consolation and advice as from a mistress and a friend in the sight of God, for I know that your affection is given me by God. If your affection pleaseth to send me word of anything, you may tell it safely by word of mouth to the bearer of this. May Almighty God direct all your actions, and guard you from all evil.

@@ -1,0 +1,5 @@
+# 54. Anselm to Guarnerius
+
+Anselm, archbishop, to Guarnerius his brother and son beloved, greeting and God's blessing, and his own.
+
+For the affection which I perceive in thy letter to me, and for thy desire for my return, I return thee as a brother and beloved son, my thanks. My return, God willing, I shall not defer when by His providence I shall perceive that I can carry it out rightly. But I warn thee as one the care of whose soul God committed to me, that thou be not negligent in learning and keeping the rule thou didst accept, but set thy whole heart on advancing in those things which belong to the perfection of a monk. For it is certain that if a monk be tepid in his resolution as a novice, he will hardly ever, or never, be fervid in his religious life as a monk. That therefore which thou wouldst be found in the days of thy death, the same seek to prove thyself every day; and always as though thou wert dying, each day, prepare to give an account of thy life, and thus thou wilt advance from virtue to virtue.

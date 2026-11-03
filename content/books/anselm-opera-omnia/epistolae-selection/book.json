@@ -1,0 +1,604 @@
+{
+  "id": "anselm-letters-selection",
+  "cover": "classic",
+  "name": {
+    "en-US": "A Selection from His Letters",
+    "pt-BR": "Seleção de cartas (inglês)"
+  },
+  "author": {
+    "la": "Anselmus Cantuariensis",
+    "en-US": "St. Anselm of Canterbury",
+    "pt-BR": "Santo Anselmo de Cantuária"
+  },
+  "description": {
+    "en-US": "Eighty-nine of Anselm's letters in an anonymous English translation, in three groups: written as a simple monk of Bec, as Abbot of Bec, and as Archbishop of Canterbury, to Lanfranc, Popes Urban and Paschal, Queen Matilda, King Henry, the kings of Scotland and Ireland, bishops, monks and friends. The selection does not follow the books of the Latin correspondence, so it is its own book of the letters.",
+    "pt-BR": "Oitenta e nove cartas de Santo Anselmo numa tradução inglesa anônima, escritas como monge, como abade de Bec e como arcebispo de Cantuária."
+  },
+  "composed": "1070–1109",
+  "languages": [
+    "en-US"
+  ],
+  "work": "anselm/epistolae",
+  "editions": {
+    "en-US": {
+      "translator": "Anonymous",
+      "year": 1909
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/curdeushomo00anseuoft",
+      "edition": "Cur Deus Homo, by St Anselm, to which is added a Selection from his Letters (The Ancient and Modern Library of Theological Literature; Edinburgh: John Grant, 1909).",
+      "description": "Archive.org OCR cleaned by script, not proofread: running heads, page numbers and signature marks dropped; the letter titles are those of the contents list.",
+      "tier": "A",
+      "tierEvidence": "Printed 1909: public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "monk",
+      "title": {
+        "en-US": "Written When a Simple Monk",
+        "pt-BR": "Escritas quando simples monge"
+      },
+      "children": [
+        {
+          "id": "letter-01",
+          "title": {
+            "en-US": "1. To Lanfranc"
+          }
+        },
+        {
+          "id": "letter-02",
+          "title": {
+            "en-US": "2. To Odo and Lanzo"
+          }
+        },
+        {
+          "id": "letter-03",
+          "title": {
+            "en-US": "3. To Hernostus"
+          }
+        },
+        {
+          "id": "letter-04",
+          "title": {
+            "en-US": "4. To Gondulph"
+          }
+        },
+        {
+          "id": "letter-05",
+          "title": {
+            "en-US": "5. To Henry"
+          }
+        },
+        {
+          "id": "letter-06",
+          "title": {
+            "en-US": "6. To Hugo"
+          }
+        },
+        {
+          "id": "letter-07",
+          "title": {
+            "en-US": "7. To Gondulph"
+          }
+        },
+        {
+          "id": "letter-08",
+          "title": {
+            "en-US": "8. To Lambert and Falcerald"
+          }
+        },
+        {
+          "id": "letter-09",
+          "title": {
+            "en-US": "9. To Lanfranc"
+          }
+        },
+        {
+          "id": "letter-10",
+          "title": {
+            "en-US": "10. To Maurice"
+          }
+        },
+        {
+          "id": "letter-11",
+          "title": {
+            "en-US": "11. To Henry"
+          }
+        },
+        {
+          "id": "letter-12",
+          "title": {
+            "en-US": "12. To Rainald"
+          }
+        },
+        {
+          "id": "letter-13",
+          "title": {
+            "en-US": "13. To Gilbert"
+          }
+        },
+        {
+          "id": "letter-14",
+          "title": {
+            "en-US": "14. To Adelide"
+          }
+        }
+      ]
+    },
+    {
+      "id": "abbot",
+      "title": {
+        "en-US": "Written When Abbot of Bec",
+        "pt-BR": "Escritas quando abade de Bec"
+      },
+      "children": [
+        {
+          "id": "letter-15",
+          "title": {
+            "en-US": "15. To William"
+          }
+        },
+        {
+          "id": "letter-16",
+          "title": {
+            "en-US": "16. To Henry"
+          }
+        }
+      ]
+    },
+    {
+      "id": "archbishop",
+      "title": {
+        "en-US": "Written When Archbishop of Canterbury",
+        "pt-BR": "Escritas quando arcebispo de Cantuária"
+      },
+      "children": [
+        {
+          "id": "letter-17",
+          "title": {
+            "en-US": "17. To the Monks of Bec"
+          }
+        },
+        {
+          "id": "letter-18",
+          "title": {
+            "en-US": "18. To the Monks of Bec"
+          }
+        },
+        {
+          "id": "letter-19",
+          "title": {
+            "en-US": "19. To Fulk, Bishop"
+          }
+        },
+        {
+          "id": "letter-20",
+          "title": {
+            "en-US": "20. To the Monks of Bec"
+          }
+        },
+        {
+          "id": "letter-21",
+          "title": {
+            "en-US": "21. To Hugh, Archbishop of Lyons"
+          }
+        },
+        {
+          "id": "letter-22",
+          "title": {
+            "en-US": "22. To Boso"
+          }
+        },
+        {
+          "id": "letter-23",
+          "title": {
+            "en-US": "23. To Lanfrid, Abbot of St Ulmar"
+          }
+        },
+        {
+          "id": "letter-24",
+          "title": {
+            "en-US": "24. To Pope Pascal"
+          }
+        },
+        {
+          "id": "letter-25",
+          "title": {
+            "en-US": "25. To the Prior and Brethren of the Church at Canterbury"
+          }
+        },
+        {
+          "id": "letter-26",
+          "title": {
+            "en-US": "26. To Donald, Donatus, and other Bishops"
+          }
+        },
+        {
+          "id": "letter-27",
+          "title": {
+            "en-US": "27. To Pope Pascal"
+          }
+        },
+        {
+          "id": "letter-28",
+          "title": {
+            "en-US": "28. To Pope Pascal"
+          }
+        },
+        {
+          "id": "letter-29",
+          "title": {
+            "en-US": "29. To Matilda, Queen of the English"
+          }
+        },
+        {
+          "id": "letter-30",
+          "title": {
+            "en-US": "30. To Roger, Robert, and other Abbots"
+          }
+        },
+        {
+          "id": "letter-31",
+          "title": {
+            "en-US": "31. To Gondulph"
+          }
+        },
+        {
+          "id": "letter-32",
+          "title": {
+            "en-US": "32. To his Nephew Anselm"
+          }
+        },
+        {
+          "id": "letter-33",
+          "title": {
+            "en-US": "33. To Matilda, Queen of the English"
+          }
+        },
+        {
+          "id": "letter-34",
+          "title": {
+            "en-US": "34. To Gondulph, Bishop"
+          }
+        },
+        {
+          "id": "letter-35",
+          "title": {
+            "en-US": "35. Anselm to his dearest Adruin"
+          }
+        },
+        {
+          "id": "letter-36",
+          "title": {
+            "en-US": "36. To Pope Pascal"
+          }
+        },
+        {
+          "id": "letter-37",
+          "title": {
+            "en-US": "37. To Burgundius and his wife Richera"
+          }
+        },
+        {
+          "id": "letter-38",
+          "title": {
+            "en-US": "38. To Richera"
+          }
+        },
+        {
+          "id": "letter-39",
+          "title": {
+            "en-US": "39. To Pope Pascal"
+          }
+        },
+        {
+          "id": "letter-40",
+          "title": {
+            "en-US": "40. To Pope Pascal"
+          }
+        },
+        {
+          "id": "letter-41",
+          "title": {
+            "en-US": "41. To William the Abbot and to the community of Bec"
+          }
+        },
+        {
+          "id": "letter-42",
+          "title": {
+            "en-US": "42. To his friend Cuno"
+          }
+        },
+        {
+          "id": "letter-43",
+          "title": {
+            "en-US": "43. To Gondulph, Archbishop"
+          }
+        },
+        {
+          "id": "letter-44",
+          "title": {
+            "en-US": "44. To Henry, King of the English"
+          }
+        },
+        {
+          "id": "letter-45",
+          "title": {
+            "en-US": "45. To Ernulph and the Monks of Canterbury"
+          }
+        },
+        {
+          "id": "letter-46",
+          "title": {
+            "en-US": "46. To Abbot Gerontius"
+          }
+        },
+        {
+          "id": "letter-47",
+          "title": {
+            "en-US": "47. To Henry, King of the English"
+          }
+        },
+        {
+          "id": "letter-48",
+          "title": {
+            "en-US": "48. To Orduvinus"
+          }
+        },
+        {
+          "id": "letter-49",
+          "title": {
+            "en-US": "49. To Warner"
+          }
+        },
+        {
+          "id": "letter-50",
+          "title": {
+            "en-US": "50. To Rainald"
+          }
+        },
+        {
+          "id": "letter-51",
+          "title": {
+            "en-US": "51. To Farman, Orduvinus, and Benjamin"
+          }
+        },
+        {
+          "id": "letter-52",
+          "title": {
+            "en-US": "52. To Henry, King of the English"
+          }
+        },
+        {
+          "id": "letter-53",
+          "title": {
+            "en-US": "53. To Henry, King of the English"
+          }
+        },
+        {
+          "id": "letter-54",
+          "title": {
+            "en-US": "54. Anselm to Guarnerius"
+          }
+        },
+        {
+          "id": "letter-55",
+          "title": {
+            "en-US": "55. To Henry, King of the English"
+          }
+        },
+        {
+          "id": "letter-56",
+          "title": {
+            "en-US": "56. Anselm to his Bishops"
+          }
+        },
+        {
+          "id": "letter-57",
+          "title": {
+            "en-US": "57. To Hugh, Archbishop of Lyons"
+          }
+        },
+        {
+          "id": "letter-58",
+          "title": {
+            "en-US": "58. To Eulalia, Abbess"
+          }
+        },
+        {
+          "id": "letter-59",
+          "title": {
+            "en-US": "59. To Henry, King of the English"
+          }
+        },
+        {
+          "id": "letter-60",
+          "title": {
+            "en-US": "60. To Mabilia, a Nun"
+          }
+        },
+        {
+          "id": "letter-61",
+          "title": {
+            "en-US": "61. To Matilda, Queen of the English"
+          }
+        },
+        {
+          "id": "letter-62",
+          "title": {
+            "en-US": "62. To Helgotus, Abbot of St Andaenus"
+          }
+        },
+        {
+          "id": "letter-63",
+          "title": {
+            "en-US": "63. To Alexander, King of the Scots"
+          }
+        },
+        {
+          "id": "letter-64",
+          "title": {
+            "en-US": "64. To Robert and his Sisters and Daughters"
+          }
+        },
+        {
+          "id": "letter-65",
+          "title": {
+            "en-US": "65. To Turold, a Monk of Bec"
+          }
+        },
+        {
+          "id": "letter-66",
+          "title": {
+            "en-US": "66. To Basilia"
+          }
+        },
+        {
+          "id": "letter-67",
+          "title": {
+            "en-US": "67. To Lambert, Abbot of St Bertinus"
+          }
+        },
+        {
+          "id": "letter-68",
+          "title": {
+            "en-US": "68. To Muriardachus, King of Ireland"
+          }
+        },
+        {
+          "id": "letter-69",
+          "title": {
+            "en-US": "69. To Muriardachus, King of Ireland"
+          }
+        },
+        {
+          "id": "letter-70",
+          "title": {
+            "en-US": "70. To Odo, Monk"
+          }
+        },
+        {
+          "id": "letter-71",
+          "title": {
+            "en-US": "71. To Thomas, Archbishop of York"
+          }
+        },
+        {
+          "id": "letter-72",
+          "title": {
+            "en-US": "72. To Godfrid"
+          }
+        },
+        {
+          "id": "letter-73",
+          "title": {
+            "en-US": "73. To Pope Paschal the Second"
+          }
+        },
+        {
+          "id": "letter-74",
+          "title": {
+            "en-US": "74. To Thomas, Archbishop of York"
+          }
+        },
+        {
+          "id": "letter-75",
+          "title": {
+            "en-US": "75. To Henry, King of the English"
+          }
+        },
+        {
+          "id": "letter-76",
+          "title": {
+            "en-US": "76. To a Certain Lady"
+          }
+        },
+        {
+          "id": "letter-77",
+          "title": {
+            "en-US": "77. To William, Bishop-Elect of Winchester"
+          }
+        },
+        {
+          "id": "letter-78",
+          "title": {
+            "en-US": "78. To Malchus, Bishop of Waterford"
+          }
+        },
+        {
+          "id": "letter-79",
+          "title": {
+            "en-US": "79. To Baldwin, King of Jerusalem"
+          }
+        },
+        {
+          "id": "letter-80",
+          "title": {
+            "en-US": "80. To G., Canon of St Quintin"
+          }
+        },
+        {
+          "id": "letter-81",
+          "title": {
+            "en-US": "81. To Matilda, Queen of the English"
+          }
+        },
+        {
+          "id": "letter-82",
+          "title": {
+            "en-US": "82. To Count Hugo"
+          }
+        },
+        {
+          "id": "letter-83",
+          "title": {
+            "en-US": "83. To Count Haco"
+          }
+        },
+        {
+          "id": "letter-84",
+          "title": {
+            "en-US": "84. To Henry, King of the English"
+          }
+        },
+        {
+          "id": "letter-85",
+          "title": {
+            "en-US": "85. To Richard, a Monk"
+          }
+        },
+        {
+          "id": "letter-86",
+          "title": {
+            "en-US": "86. To Willermus"
+          }
+        },
+        {
+          "id": "letter-87",
+          "title": {
+            "en-US": "87. To Herbert, Bishop of Thioford"
+          }
+        },
+        {
+          "id": "letter-88",
+          "title": {
+            "en-US": "88. To his Nephew"
+          }
+        },
+        {
+          "id": "letter-89",
+          "title": {
+            "en-US": "89. To Bernard and his Monks , , *"
+          }
+        }
+      ]
+    }
+  ],
+  "arrived": {
+    "en-US": "2026-11-03"
+  }
+}

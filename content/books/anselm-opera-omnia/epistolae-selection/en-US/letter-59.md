@@ -1,0 +1,5 @@
+# 59. To Henry, King of the English
+
+Anselm, archbishop, to his beloved lord, Henry, by the grace of God King of England and Duke of Normandy, sendeth faithful service and prayers.
+
+Your highness sent me word by the bishop elect of Winchester that I should write and tell you whether the Lord Hervey, Bishop of Bangor, could be made a bishop in the diocese of Lyons. I do not see how this could easily be done. For as no bishops ought to be consecrated for any church without the assent and agreement of the archbishops and other bishops throughout the province, so he who is consecrated bishop cannot be made a bishop of any other province without the agreement and consent of the archbishop and bishops of that same province and the authority of the apostolic see, nor without leave from the arch bishops and bishops of the province wherein he was consecrated. Which permission cannot be given with out long and joint inquiry and deliberation by those without whom he could not, as I said, be consecrated; even although his bishopric should seem to be so completely annihilated that he cannot stay there. May Almighty God direct you in this and in all your actions. Amen.

@@ -1,0 +1,5 @@
+# 75. To Henry, King of the English
+
+To his illustrious lord, Henry, by the grace of God king of the English, Anselm the archbishop presents faithful service and prayers.
+
+To a Certain Lady. 227 I pray you, my dearest lord, as lord and king and guardian of the Church of God committed to you, to hear with attention the complaint of this monk from M., and I beg that, according as you may think be coming for you and expedient for the Church, he may feel your loyal and paternal assistance and consolation. For my own part, as being most devoted to you, to your soul and your body and to your true honour, I advise and exhort you that you do not, by setting over the Churches of God such as you ought not, and otherwise than as you ought, and by the advice of those by whose advice you ought not, that you do not, I say, draw upon yourself, which God forbid! the anger of God. It is a fact that already in some matters coun sellors who as to your soul's welfare are evil and unfaithful, have advised you otherwise than was expedient. May Almighty God grant you so to rule over what He has given into your charge as that He may rule you, and keep you safe from all harm.
