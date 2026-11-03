@@ -1,0 +1,139 @@
+{
+  "id": "gueranger-notions-vie-religieuse",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Notions sur la vie religieuse et monastique",
+    "en-US": "Religious and Monastic Life Explained",
+    "pt-BR": "Noções sobre a vida religiosa e monástica"
+  },
+  "author": {
+    "fr-FR": "Prosper Guéranger",
+    "en-US": "Prosper Guéranger",
+    "pt-BR": "Prosper Guéranger"
+  },
+  "description": {
+    "fr-FR": "Instructions de Dom Guéranger pour la formation des novices de Solesmes, publiées en 1885 par Dom Charles Couturier : essence de la vie religieuse et monastique, excellence de la Règle, foi, espérance, amour de Dieu et de Notre Seigneur, perfection, imitation de Jésus-Christ, conseils évangéliques. Le chapitre sur l’essence de la vie religieuse n’a pas de titre propre dans l’édition ; son titre vient du début du texte.",
+    "en-US": "Dom Guéranger’s instructions for the training of the novices of Solesmes, published in 1885 by Dom Charles Couturier: the essence of the religious and monastic life, the excellence of the Rule, faith, hope, the love of God and of our Lord, perfection, the imitation of Jesus Christ and the evangelical counsels. Authorised translation from the French, 1908.",
+    "pt-BR": "Instruções de Dom Guéranger para a formação dos noviços de Solesmes, publicadas em 1885 por Dom Charles Couturier: essência da vida religiosa e monástica, excelência da Regra, fé, esperança, amor de Deus e de Nosso Senhor, perfeição, imitação de Jesus Cristo e conselhos evangélicos."
+  },
+  "composed": "1885",
+  "languages": [
+    "fr-FR",
+    "en-US"
+  ],
+  "work": "gueranger/notions-vie-religieuse",
+  "editions": {
+    "fr-FR": {
+      "editor": "Dom Charles Couturier (Solesmes, Imprimerie Saint-Pierre)",
+      "year": 1885
+    },
+    "en-US": {
+      "translator": "Anonymous, authorised version (St. Louis: Herder)",
+      "year": 1908
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://www.domgueranger.net/?s=Notions+sur+la+vie+religieuse",
+      "edition": "Notions sur la vie religieuse et monastique, Solesmes, Imprimerie Saint-Pierre, 1885 (domgueranger.net HTML transcription)",
+      "description": "Instructions to novices edited after Guéranger’s death.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died 1875; printed 1885."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/religiousmonasti00gura",
+      "edition": "Religious and Monastic Life Explained, authorised version from the French, St. Louis, B. Herder, 1908 (archive.org OCR text, cleaned)",
+      "description": "English chapters I and II correspond to the French opening chapter and chapter I; the translator’s preface is added to the Preface chapter. Page-foot notes, where any, were not separated by the OCR.",
+      "tier": "A",
+      "tierEvidence": "Printed 1908."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "fr-FR": "Préface de l’édition française",
+        "en-US": "Prefaces"
+      }
+    },
+    {
+      "id": "vie-religieuse",
+      "title": {
+        "fr-FR": "Essence de la vie religieuse",
+        "en-US": "Essence of the religious life"
+      }
+    },
+    {
+      "id": "vie-monastique",
+      "title": {
+        "fr-FR": "Essence de la vie monastique",
+        "en-US": "Essence of the monastic life"
+      }
+    },
+    {
+      "id": "regle",
+      "title": {
+        "fr-FR": "De l’excellence et de l’observation de la Règle",
+        "en-US": "On the excellence and observance of the Rule"
+      }
+    },
+    {
+      "id": "fondement",
+      "title": {
+        "fr-FR": "Du fondement essentiel de la vie religieuse",
+        "en-US": "On the essential foundation of the religious life"
+      }
+    },
+    {
+      "id": "foi",
+      "title": {
+        "fr-FR": "De la foi",
+        "en-US": "On faith"
+      }
+    },
+    {
+      "id": "esperance",
+      "title": {
+        "fr-FR": "De l’espérance",
+        "en-US": "On hope"
+      }
+    },
+    {
+      "id": "amour-de-dieu",
+      "title": {
+        "fr-FR": "De l’amour de Dieu",
+        "en-US": "On the love of God"
+      }
+    },
+    {
+      "id": "amour-de-jesus-christ",
+      "title": {
+        "fr-FR": "De l’amour de Notre Seigneur Jésus-Christ",
+        "en-US": "On the love of our Lord Jesus Christ"
+      }
+    },
+    {
+      "id": "perfection",
+      "title": {
+        "fr-FR": "De la perfection",
+        "en-US": "On perfection"
+      }
+    },
+    {
+      "id": "imitation",
+      "title": {
+        "fr-FR": "De l’imitation de Notre Seigneur Jésus-Christ",
+        "en-US": "On the imitation of our Lord Jesus Christ"
+      }
+    },
+    {
+      "id": "conseils-evangeliques",
+      "title": {
+        "fr-FR": "Des conseils évangéliques",
+        "en-US": "On the evangelical counsels"
+      }
+    }
+  ]
+}
