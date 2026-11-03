@@ -1,0 +1,518 @@
+{
+  "id": "gueranger-liturgical-year-08-paschal-2",
+  "name": {
+    "en-US": "The Liturgical Year: Paschal Time, Book II",
+    "pt-BR": "O Ano Litúrgico: Tempo pascal, II"
+  },
+  "author": {
+    "en-US": "Dom Prosper Guéranger",
+    "pt-BR": "Dom Prosper Guéranger"
+  },
+  "description": {
+    "en-US": "Volume 8 of the English Liturgical Year (Paschal Time, Book II), translated from L’Année liturgique: one chapter per day or feast, with the Latin liturgical texts beside their English. Made from the Internet Archive scan of the 1910 printing; the two-column Latin and English text is separated by script, so some lines may be misassigned.",
+    "pt-BR": "Volume 8 do «Liturgical Year» em inglês (Tempo pascal, II), traduzido de L’Année liturgique: um capítulo por dia ou festa, com os textos litúrgicos em latim ao lado do inglês."
+  },
+  "composed": "1865",
+  "languages": [
+    "en-US"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "en-US": {
+      "translator": "Rev. Dom Laurence Shepherd (Stanbrook Abbey)",
+      "year": 1910
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/V08TheLiturgicalYear",
+      "edition": "The Liturgical Year, Paschal Time, Book II, translated from the French of Dom Prosper Guéranger; printing of 1910 (Stanbrook Abbey / Duffy). Internet Archive scan, OCR text.",
+      "description": "Split at each day or feast heading detected in the running text; running heads and page numbers removed; the Latin and English columns of the liturgical texts, interleaved line by line in the OCR, were separated by language and set as a Latin paragraph followed by its English.",
+      "tier": "A",
+      "tierEvidence": "Guéranger (d. 1875) and the translation printed 1870-1912: public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-chapter-the-first-the-history-of-paschal-time",
+      "title": {
+        "en-US": "Chapter the First. the History of Paschal Time"
+      }
+    },
+    {
+      "id": "002-chapter-the-second-the-mystery-of-paschal-time",
+      "title": {
+        "en-US": "Chapter the Second. the Mystery of Paschal Time"
+      }
+    },
+    {
+      "id": "003-chapter-the-third-practice-during-paschal-time",
+      "title": {
+        "en-US": "Chapter the Third. Practice During Paschal Time"
+      }
+    },
+    {
+      "id": "004-chapter-the-fourth-morning-and-night-prayers-for",
+      "title": {
+        "en-US": "Chapter the Fourth* Morning and Night Prayers for Paschal Time"
+      }
+    },
+    {
+      "id": "005-chapter-the-fifth-on-hearing-mass-during-paschal",
+      "title": {
+        "en-US": "Chapter the Fifth. on Hearing Mass During Paschal Tims"
+      }
+    },
+    {
+      "id": "006-chapter-the-sixth-on-holy-communion-during-pasch",
+      "title": {
+        "en-US": "Chapter the Sixth. on Holy Communion During Paschal Time"
+      }
+    },
+    {
+      "id": "007-chapter-the-seventh-of-the-office-of-vespers-for",
+      "title": {
+        "en-US": "Chapter the Seventh. of the Office of Vespers for Sundays and Feasts During Pasohal Time"
+      }
+    },
+    {
+      "id": "008-monday-of-the-second-week-afteb-easter",
+      "title": {
+        "en-US": "Monday of the Second Week Afteb Easter"
+      }
+    },
+    {
+      "id": "009-tuesday-op-the-second-week-after-easter",
+      "title": {
+        "en-US": "Tuesday Op the Second Week after Easter"
+      }
+    },
+    {
+      "id": "010-wednesday-of-the-second-week-after-easter",
+      "title": {
+        "en-US": "Wednesday of the Second Week after Easter"
+      }
+    },
+    {
+      "id": "011-thursday-of-the-second-week-after-easter",
+      "title": {
+        "en-US": "Thursday of the Second Week after Easter"
+      }
+    },
+    {
+      "id": "012-second-sunday-after-east-kb",
+      "title": {
+        "en-US": "Second Sunday after East Kb"
+      }
+    },
+    {
+      "id": "013-monday-of-the-third-week-after-easter",
+      "title": {
+        "en-US": "Monday of the Third Week. after Easter. ♦"
+      }
+    },
+    {
+      "id": "014-tuesday-op-the-third-week-after-easter",
+      "title": {
+        "en-US": "Tuesday Op the Third Week after Easter"
+      }
+    },
+    {
+      "id": "015-wednesday-of-the-third-week-after-easter",
+      "title": {
+        "en-US": "Wednesday of the Third Week after Easter. ♦"
+      }
+    },
+    {
+      "id": "016-thursday-of-the-third-week-after-easter",
+      "title": {
+        "en-US": "Thursday of the Third Week after Easter"
+      }
+    },
+    {
+      "id": "017-saturday-of-the-third-week-after-easter",
+      "title": {
+        "en-US": "Saturday of the Third Week after Easter"
+      }
+    },
+    {
+      "id": "018-monday-of-the-fourth-week-after-easter",
+      "title": {
+        "en-US": "Monday of the Fourth Week after Easter"
+      }
+    },
+    {
+      "id": "019-tuesday-op-the-fourth-week-after-easter",
+      "title": {
+        "en-US": "Tuesday Op the Fourth Week after Easter"
+      }
+    },
+    {
+      "id": "020-wednesday-of-the-fourth-week-after-easter",
+      "title": {
+        "en-US": "Wednesday of the Fourth Week after Easter"
+      }
+    },
+    {
+      "id": "021-thursday-of-the-fourth-week-after-easter",
+      "title": {
+        "en-US": "Thursday of the Fourth Week after Easter"
+      }
+    },
+    {
+      "id": "022-friday-of-the-fourth-week-after-easter",
+      "title": {
+        "en-US": "Friday of the Fourth Week after Easter"
+      }
+    },
+    {
+      "id": "023-fourth-sunday-after-easter",
+      "title": {
+        "en-US": "Fourth Sunday after Easter"
+      }
+    },
+    {
+      "id": "024-monday-of-the-fifth-week-after-easter",
+      "title": {
+        "en-US": "Monday of the Fifth Week after Easter"
+      }
+    },
+    {
+      "id": "025-tuesday-of-the-fifth-week-after-easter",
+      "title": {
+        "en-US": "Tuesday of the Fifth Week after Easter"
+      }
+    },
+    {
+      "id": "026-wednesday-of-the-fifth-week-after-easter",
+      "title": {
+        "en-US": "Wednesday of the Fifth Week after Easter. ♦"
+      }
+    },
+    {
+      "id": "027-thursday-of-the-fifth-week-after-easter",
+      "title": {
+        "en-US": "Thursday of the Fifth Week after Easter. ♦"
+      }
+    },
+    {
+      "id": "028-friday-of-the-fifth-week-after-easter",
+      "title": {
+        "en-US": "Friday of the Fifth Week after Easter. ♦"
+      }
+    },
+    {
+      "id": "029-saturday-op-the-fifth-week-after-easter",
+      "title": {
+        "en-US": "Saturday Op the Fifth Week after Easter"
+      }
+    },
+    {
+      "id": "030-may-31-saint-francis-of-paula-confessor",
+      "title": {
+        "en-US": "May 31 — Saint Francis of Paula, Confessor. ♦"
+      }
+    },
+    {
+      "id": "031-april-4-saint-isidore",
+      "title": {
+        "en-US": "April 4 — Saint Isidore"
+      }
+    },
+    {
+      "id": "032-april-4-saint-vincent-ferrer-saint-vincent-ferre",
+      "title": {
+        "en-US": "April 4 — Saint Vincent Ferrer. * Saint Vincent Ferrer. Confessor. ♦"
+      }
+    },
+    {
+      "id": "033-april-5-saint-leo-the-great-pope-and-doctor-of-t",
+      "title": {
+        "en-US": "April 5 — Saint Leo the Great, Pope and Doctor of the Church"
+      }
+    },
+    {
+      "id": "034-april-11-saint-hermenegild-martyr",
+      "title": {
+        "en-US": "April 11 — Saint Hermenegild, Martyr"
+      }
+    },
+    {
+      "id": "035-april-14-saintstiburtius-valerian-and-maximus",
+      "title": {
+        "en-US": "April 14 — Saintstiburtius, Valerian, and Maximus"
+      }
+    },
+    {
+      "id": "036-april-14-saint-anicetus-pope-and-martyr",
+      "title": {
+        "en-US": "April 14 — Saint Anicetus, Pope and Martyr"
+      }
+    },
+    {
+      "id": "037-april-21-saint-anselm-bishop-and-doctor-of-the-c",
+      "title": {
+        "en-US": "April 21 — Saint Anselm, Bishop, and Doctor of the Church. ♦"
+      }
+    },
+    {
+      "id": "038-april-21-saints-soter-and-caius-popes-and-martyr",
+      "title": {
+        "en-US": "April 21 — Saints Soter and Caius, Popes and Martyrs"
+      }
+    },
+    {
+      "id": "039-april-22-saint-george-martyr",
+      "title": {
+        "en-US": "April 22 — Saint George, Martyr, ♦"
+      }
+    },
+    {
+      "id": "040-april-23-saint-fidelis-of-sigmaringen-martyr",
+      "title": {
+        "en-US": "April 23 — Saint Fidelis of Sigmaringen, Martyr"
+      }
+    },
+    {
+      "id": "041-april-25-saint-mark-evangelist",
+      "title": {
+        "en-US": "April 25 — Saint Mark, Evangelist"
+      }
+    },
+    {
+      "id": "042-april-25-saint-marks-procession-saint-mark",
+      "title": {
+        "en-US": "April 25 — Saint Mark's Procession. Saint Mark"
+      }
+    },
+    {
+      "id": "043-april-26-saints-cletus-and-marcellinus",
+      "title": {
+        "en-US": "April 26 — Saints Cletus and Marcellinus"
+      }
+    },
+    {
+      "id": "044-april-26-saint-vitalis-martyr",
+      "title": {
+        "en-US": "April 26 — Saint Vitalis, Martyr"
+      }
+    },
+    {
+      "id": "045-april-28-saint-peter-the-martyr",
+      "title": {
+        "en-US": "April 28 — Saint Peter the Martyr"
+      }
+    },
+    {
+      "id": "046-april-29-saint-catharine-of-sienna-virgin",
+      "title": {
+        "en-US": "April 29 — Saint Catharine of Sienna Virgin. —"
+      }
+    },
+    {
+      "id": "047-april-30-saint-philip-and-st-james-the-less-apos",
+      "title": {
+        "en-US": "April 30 — Saint Philip and St James the Less, Apostles. ♦"
+      }
+    },
+    {
+      "id": "048-may-1-saints-philip-and-james",
+      "title": {
+        "en-US": "May 1 — Saints Philip and James"
+      }
+    },
+    {
+      "id": "049-may-1-saint-athanasius-bishop-and-doctor-of-the",
+      "title": {
+        "en-US": "May 1 — Saint Athanasius, Bishop and Doctor of the Church. ♦"
+      }
+    },
+    {
+      "id": "050-may-2-saint-atha-nasius",
+      "title": {
+        "en-US": "May 2 — Saint Atha.nasius"
+      }
+    },
+    {
+      "id": "051-the-finding-of-the-holy-cross",
+      "title": {
+        "en-US": "The Finding of the Holy Cross. — ♦ —"
+      }
+    },
+    {
+      "id": "052-may-3-saint-alexander-pope-and-martyr",
+      "title": {
+        "en-US": "May 3 — Saint Alexander, Pope and Martyr"
+      }
+    },
+    {
+      "id": "053-may-3-saint-monica-widow",
+      "title": {
+        "en-US": "May 3 — Saint Monica, Widow. ♦"
+      }
+    },
+    {
+      "id": "054-may-5-saint-pius-the-fifth-pope",
+      "title": {
+        "en-US": "May 5 — Saint Pius the Fifth, Pope. ♦"
+      }
+    },
+    {
+      "id": "055-may-6-saint-john-before-the-latin-gate",
+      "title": {
+        "en-US": "May 6 — Saint John before the Latin Gate"
+      }
+    },
+    {
+      "id": "056-may-6-saint-stanislaus-bishop-and-martyr",
+      "title": {
+        "en-US": "May 6 — Saint Stanislaus, Bishop and Martyr"
+      }
+    },
+    {
+      "id": "057-may-8-the-apparition-of-saint-michael",
+      "title": {
+        "en-US": "May 8 — The Apparition of Saint Michael"
+      }
+    },
+    {
+      "id": "058-may-9-saint-antoninus-bishop-and-confessor",
+      "title": {
+        "en-US": "May 9 — Saint Antoninus, Bishop and Confessor"
+      }
+    },
+    {
+      "id": "059-may-10-saints-gordian-and-epimachus",
+      "title": {
+        "en-US": "May 10 — Saints Gordian and Epimachus"
+      }
+    },
+    {
+      "id": "060-may-12-saints-nereus-and-achilleus-etc",
+      "title": {
+        "en-US": "May 12 — Saints Nereus and Achilleus, Etc"
+      }
+    },
+    {
+      "id": "061-may-12-saint-pancras-martyr",
+      "title": {
+        "en-US": "May 12 — Saint Pancras, Martyr"
+      }
+    },
+    {
+      "id": "062-may-12-saint-boniface-martyr",
+      "title": {
+        "en-US": "May 12 — Saint Boniface, Martyr. ♦"
+      }
+    },
+    {
+      "id": "063-may-16-saint-ub-aldus",
+      "title": {
+        "en-US": "May 16 — Saint Ub Aldus"
+      }
+    },
+    {
+      "id": "064-may-16-saint-john-nepomucen-martyr",
+      "title": {
+        "en-US": "May 16 — Saint John. Nepomucen, Martyr"
+      }
+    },
+    {
+      "id": "065-may-17-saint-paschal-baylon-confessor",
+      "title": {
+        "en-US": "May 17 — Saint Paschal Baylon, Confessor"
+      }
+    },
+    {
+      "id": "066-may-17-saint-venantius-martyr",
+      "title": {
+        "en-US": "May 17 — Saint Venantius, Martyr"
+      }
+    },
+    {
+      "id": "067-may-19-saint-peter-celestine-pope",
+      "title": {
+        "en-US": "May 19 — Saint Peter Celestine, Pope. ♦"
+      }
+    },
+    {
+      "id": "068-may-19-saint-pudentiana-virgin",
+      "title": {
+        "en-US": "May 19 — Saint Pudentiana, Virgin. ♦"
+      }
+    },
+    {
+      "id": "069-may-19-saint-bernardin-of-sienna",
+      "title": {
+        "en-US": "May 19 — Saint Bernardin of Sienna"
+      }
+    },
+    {
+      "id": "070-may-20-feast-of-our-lady-the-help-of-christians",
+      "title": {
+        "en-US": "May 20 — Feast of Our Lady the Help of Christians"
+      }
+    },
+    {
+      "id": "071-saint-gregory-the-seventh-pope-and-confessor",
+      "title": {
+        "en-US": "Saint Gregory the Seventh. Pope and Confessor"
+      }
+    },
+    {
+      "id": "072-may-25-saint-urban-pope-and-martyr",
+      "title": {
+        "en-US": "May 25 — Saint Urban, Pope and Martyr"
+      }
+    },
+    {
+      "id": "073-may-26-saint-philip-neri-confessor",
+      "title": {
+        "en-US": "May 26 — Saint Philip Neri, Confessor"
+      }
+    },
+    {
+      "id": "074-may-26-saint-eleutherius-pope-and-martyr",
+      "title": {
+        "en-US": "May 26 — Saint Eleutherius, Pope and Martyr"
+      }
+    },
+    {
+      "id": "075-may-26-saint-augustine-bishop-apostle-of-england",
+      "title": {
+        "en-US": "May 26 — Saint Augustine, Bishop, Apostle of England"
+      }
+    },
+    {
+      "id": "076-may-27-saint-mart-magdalene-de-pazzi-virgin",
+      "title": {
+        "en-US": "May 27 — Saint Mart Magdalene De Pazzi, Virgin. ♦"
+      }
+    },
+    {
+      "id": "077-may-27-same-day-saint-john-the-first-pope-and-ma",
+      "title": {
+        "en-US": "May 27 — Same Day. Saint John the First, Pope and Martyr"
+      }
+    },
+    {
+      "id": "078-may-30-saint-ferdinand-the-third-king-of-castile",
+      "title": {
+        "en-US": "May 30 — Saint Ferdinand the Third, King of Castile, and Confessor. ♦"
+      }
+    },
+    {
+      "id": "079-may-30-saint-petronilla-virgin",
+      "title": {
+        "en-US": "May 30 — Saint Petronilla, Virgin"
+      }
+    },
+    {
+      "id": "080-may-31-saint-angela-de-merici-virgin",
+      "title": {
+        "en-US": "May 31 — Saint Angela De Merici, Virgin"
+      }
+    }
+  ]
+}

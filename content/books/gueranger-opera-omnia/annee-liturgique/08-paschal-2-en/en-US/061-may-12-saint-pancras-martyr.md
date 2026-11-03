@@ -1,0 +1,15 @@
+# May 12 — Saint Pancras, Martyr
+
+A fourth Marfcyr claims our veneration, on this twelfth day of May. Like the three others, he culled his palm at Rome. But, whilst they died for the Faith at the very commencement of the Christian Era, Pan eras was not called to the glorious combat) till the Persecution under Dioclesian, — the last and greatest effort of Pagan Rome against the Church. Our young hero was only fourteen years of age ; but he was old enough to be a brave Martyr, and he has been honoured by his name being placed on tho Cycle of Paschal Time. The venerable Church, in the Holy City, which is dedicated to him, and which gives one of the Cardinalate Titles, was built on the site of the Cemetery, where his Body was buried. The following commemoration is made of him in the Matins of this Feast.
+
+Pancratius in Phrygia, uobili genere natus, puer quatuordecim annorum Romam venit, Diocletiano et Maximiano imperatoribus : ubi a Pontifice Romano baptizatus, et in fide Christiana eruditus, ob eamdem paulo
+
+§ost comprehensus, quam iia sacrificare constanter renuisset, virili fortitudine
+
+Pancras was born in Phry gia, of a noble family. When but a boy of fourteen, he went to Rome, under the reign of the Emperors, Dioclesian and Maximian. He there received Baptism from the Roman Pontiff, and was instructed in the Christian Faith. Shortly afterwards, he was seized, as being a Christian; but upon his-
+
+• Digitized^
+
+MAY 12. ST. PANCRA.S, sacri- datis cervicibus, illustrem con- martyrii coronam consecutus est : cujus corpus Octasustulit, et unguentis delibutum via rious sepelivit. firmly refusing to offer fice to the gods, he was demned to be beheaded. He suffered death with manly villa matrona noctu courage, and obtained the glocrown of martyrdom. Aurelia During the night, a matron, . by name Octavilla, took away his body, and had it buried, after embalming it, on the Aurelian Way.
+
+Divine Grace, which called thee to the crown of Martyrdom, selected thee, O Pajicras, from the distant land of Phrygia, and led thee to the Capital of the Empire, — the centre of every vice and every error of Paganism. Thy name, like that of millions of others, who were better known to the world, had else been quite forgotten. But now, though thy earthly career was soon ended, the name of Pancras is loved and venerated throughout the whole earth : it is breathed at the Altar, in the prayers which accompany the Sacrifice of the Lamb. How earnest thou, dear youthful Martyr, by this celebrity, which will last to the end of the world ? It was, because having imitated Jesus* Death by suffering and shedding thy blood for his name, thou hast been made a sharer in the glory of his Immortality. ' In return for the honour we pay thee, deign to aid us by thy protection. Speak of us to Jesus, who is our Divine Master, as he was thine. In this vale of our exile, we sing our Alleluia for his Resurrection, which has filled us with hope; obtain for us, by thy prayers, that we may sing Alleluia with thee in heaven, where it will be eternal, and be prompted, not by the gladness of hope, but by the bliss of possession.
