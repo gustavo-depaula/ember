@@ -1,0 +1,733 @@
+{
+  "id": "garrigou-de-christo-salvatore",
+  "cover": "quarter",
+  "name": {
+    "la": "De Christo Salvatore: commentarium in Summam theologicam S. Thomae (III, qq. 1-59)",
+    "en-US": "On Christ the Saviour (Latin): commentary on the Summa III",
+    "pt-BR": "De Christo Salvatore (latim): comentário à Suma III"
+  },
+  "author": {
+    "la": "Reginaldus Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "description": {
+    "la": "Commentarium in tertiam partem Summae theologicae : de Incarnatione, de scientia et gratia Christi, de eius vita et passione.",
+    "en-US": "The Latin commentary on the Summa theologiae III: the Incarnation, Christ’s knowledge and grace, His life and Passion.",
+    "pt-BR": "O comentário latino à Suma teológica III: a Encarnação, a ciência e a graça de Cristo, sua vida e Paixão."
+  },
+  "composed": "1945",
+  "work": "garrigou-lagrange/de-christo-salvatore",
+  "editions": {
+    "la": {
+      "editor": "Garrigou-Lagrange (Marietti, Turin / Desclée)",
+      "year": 1945
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/GarrigouLagrangeLatin",
+      "edition": "De Christo Salvatore: commentarium in Summam theologicam S. Thomae (III, qq. 1-59), archive.org GarrigouLagrangeLatin, OCR text; divided by the Summa’s articles (\"Art. N — Utrum …\") found in the OCR, the indexes left out"
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "prolegomena",
+      "title": {
+        "la": "Prolegomena"
+      }
+    },
+    {
+      "id": "q1",
+      "title": {
+        "la": "Sectio 1"
+      },
+      "children": [
+        {
+          "id": "q1-a1",
+          "title": {
+            "la": "Sectio 1, art. 1: TESTIMONIUM CHRISTI ET APOSTOLORUM"
+          }
+        },
+        {
+          "id": "q1-a2",
+          "title": {
+            "la": "Sectio 1, art. 2: TESTIMONIUM TRAOITIONIS"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "title": {
+        "la": "Sectio 2"
+      },
+      "children": [
+        {
+          "id": "q2-a1",
+          "title": {
+            "la": "Sectio 2, art. 1: UTRUM CONVENIENS FUERIT DEUM INCARNARI"
+          }
+        },
+        {
+          "id": "q2-a2",
+          "title": {
+            "la": "Sectio 2, art. 2: UTRUM CONVENIENS FUERIT DEUM INCARNARI"
+          }
+        },
+        {
+          "id": "q2-a3",
+          "title": {
+            "la": "Sectio 2, art. 3: UTRUM INCARNATIO DIFFERRI OEBUERIT"
+          }
+        },
+        {
+          "id": "q2-a4",
+          "title": {
+            "la": "Sectio 2, art. 4: UTRUM UNIO VERBI INCARNATI"
+          }
+        },
+        {
+          "id": "q2-a5",
+          "title": {
+            "la": "Sectio 2, art. 5: UTRUM UNIO VERBI INCARNATI"
+          }
+        },
+        {
+          "id": "q2-a6",
+          "title": {
+            "la": "Sectio 2, art. 6: UTRUM SIT FACTA ALIQUA UNIO ANIM/E"
+          }
+        },
+        {
+          "id": "q2-a7",
+          "title": {
+            "la": "Sectio 2, art. 7: UTRUM NATURA HUMANA"
+          }
+        },
+        {
+          "id": "q2-a8",
+          "title": {
+            "la": "Sectio 2, art. 8: UTRUM UNIONEM VERBI INCARNATI"
+          }
+        },
+        {
+          "id": "q2-a9",
+          "title": {
+            "la": "Sectio 2, art. 9: UTRUM CRATIA UNIONIS"
+          }
+        },
+        {
+          "id": "q2-a10",
+          "title": {
+            "la": "Sectio 2, art. 10: UTRUM UNA PERSONA POSSIT"
+          }
+        },
+        {
+          "id": "q2-a11",
+          "title": {
+            "la": "Sectio 2, art. 11: UTRUM QU/ELIBET PERSONA DIVINA"
+          }
+        },
+        {
+          "id": "q2-a12",
+          "title": {
+            "la": "Sectio 2, art. 12: UTRUM PLURES PERSON/E DIVINAE"
+          }
+        },
+        {
+          "id": "q2-a13",
+          "title": {
+            "la": "Sectio 2, art. 13: UTRUM FILIUS DEI ASSUMPSERIT PERSONAM"
+          }
+        },
+        {
+          "id": "q2-a14",
+          "title": {
+            "la": "Sectio 2, art. 14: UTRUM VERBUM ASSUMPSERIT HOMINEM?"
+          }
+        },
+        {
+          "id": "q2-a15",
+          "title": {
+            "la": "Sectio 2, art. 15: UTRUM FILIUS DEI DEBUERIT ASSUMERE"
+          }
+        },
+        {
+          "id": "q2-a16",
+          "title": {
+            "la": "Sectio 2, art. 16: UTRUM FILIUS DEI NATURAM HUMANAM"
+          }
+        },
+        {
+          "id": "q2-a17",
+          "title": {
+            "la": "Sectio 2, art. 17: UTRUM FILIUS DEI ASSUMPSERIT INTELLECTU M"
+          }
+        },
+        {
+          "id": "q2-a18",
+          "title": {
+            "la": "Sectio 2, art. 18: UTRUM FILIUS DEI ASSUMPSERIT ANIMAM"
+          }
+        },
+        {
+          "id": "q2-a19",
+          "title": {
+            "la": "Sectio 2, art. 19: UTRUM ANIMA A DEI FILIO"
+          }
+        },
+        {
+          "id": "q2-a20",
+          "title": {
+            "la": "Sectio 2, art. 20: UTRUM IN CHRISTO FUERINT DONA"
+          }
+        },
+        {
+          "id": "q2-a21",
+          "title": {
+            "la": "Sectio 2, art. 21: UTRUM IN CHRISTO FUERIT DONUM TIMORIS"
+          }
+        },
+        {
+          "id": "q2-a22",
+          "title": {
+            "la": "Sectio 2, art. 22: UTRUM IN CHRISTO FUERINT C R ATI/E"
+          }
+        },
+        {
+          "id": "q2-a23",
+          "title": {
+            "la": "Sectio 2, art. 23: UTRUM IN CHRISTO FUERIT PLENITUDO CRATI/E"
+          }
+        },
+        {
+          "id": "q2-a24",
+          "title": {
+            "la": "Sectio 2, art. 24: UTRUM CRATIA CHRISTI POTUERIT AUCERI"
+          }
+        },
+        {
+          "id": "q2-a25",
+          "title": {
+            "la": "Sectio 2, art. 25: UTRUM CHRISTUS SIT CAPUT"
+          }
+        },
+        {
+          "id": "q2-a26",
+          "title": {
+            "la": "Sectio 2, art. 26: UTRUM CHRISTUS SIT CAPUT ANCELORUM"
+          }
+        },
+        {
+          "id": "q2-a27",
+          "title": {
+            "la": "Sectio 2, art. 27: UTRUM CRATIA QUA CHRISTUS EST CAPUT"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "title": {
+        "la": "Sectio 3"
+      },
+      "children": [
+        {
+          "id": "q3-a1",
+          "title": {
+            "la": "Sectio 3, art. 1: UTRUM CHRISTUS HABUERIT ALIQUAM SCIENTIAM"
+          }
+        },
+        {
+          "id": "q3-a2",
+          "title": {
+            "la": "Sectio 3, art. 2: UTRUM CHRISTUS HABUERIT SCIENTIAM"
+          }
+        },
+        {
+          "id": "q3-a3",
+          "title": {
+            "la": "Sectio 3, art. 3: UTRUM CHRISTUS HABUERIT SCIENTIAM"
+          }
+        },
+        {
+          "id": "q3-a4",
+          "title": {
+            "la": "Sectio 3, art. 4: UTRUM CHRISTUS HABUERIT ALIQUAM"
+          }
+        },
+        {
+          "id": "q3-a5",
+          "title": {
+            "la": "Sectio 3, art. 5: UTRUM ANIMA CHRISTI"
+          }
+        },
+        {
+          "id": "q3-a6",
+          "title": {
+            "la": "Sectio 3, art. 6: UTRUM ANIMA CHRISTI"
+          }
+        },
+        {
+          "id": "q3-a7",
+          "title": {
+            "la": "Sectio 3, art. 7: UTRUM H/EC SCIENTIA INFUSA CHRISTI"
+          }
+        },
+        {
+          "id": "q3-a8",
+          "title": {
+            "la": "Sectio 3, art. 8: UTRUM SCIENTIA INFUSA CHRISTI FUERIT HA-"
+          }
+        },
+        {
+          "id": "q3-a9",
+          "title": {
+            "la": "Sectio 3, art. 9: UTRUM CHRISTUS ALIQUID"
+          }
+        },
+        {
+          "id": "q3-a10",
+          "title": {
+            "la": "Sectio 3, art. 10: UTRUM CHRISTUS ALIQUIO ACCEPERIT"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "title": {
+        "la": "Sectio 4"
+      },
+      "children": [
+        {
+          "id": "q4-a1",
+          "title": {
+            "la": "Sectio 4, art. 1: UTRUM ANIMA CHRISTI"
+          }
+        },
+        {
+          "id": "q4-a2",
+          "title": {
+            "la": "Sectio 4, art. 2: UTRUM ANIMA CHRISTI HABUERIT OMNIPO-"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "title": {
+        "la": "Sectio 5"
+      },
+      "children": [
+        {
+          "id": "q5-a1",
+          "title": {
+            "la": "Sectio 5, art. 1: UTRUM FILIUS DEI IN NATURA HUMANA"
+          }
+        },
+        {
+          "id": "q5-a2",
+          "title": {
+            "la": "Sectio 5, art. 2: UTRUM CHRISTUS EX NECESSITATE"
+          }
+        },
+        {
+          "id": "q5-a3",
+          "title": {
+            "la": "Sectio 5, art. 3: UTRUM CHRISTUS HOS DEFECTUS CORPORALES"
+          }
+        },
+        {
+          "id": "q5-a4",
+          "title": {
+            "la": "Sectio 5, art. 4: UTRUM IN CHRISTO FUERIT ICNORANTIA"
+          }
+        },
+        {
+          "id": "q5-a5",
+          "title": {
+            "la": "Sectio 5, art. 5: UTRUM ANIMA CHRISTI FUERIT PASSIBILIS"
+          }
+        },
+        {
+          "id": "q5-a6",
+          "title": {
+            "la": "Sectio 5, art. 6: UTRUM IN CHRISTO FUERIT DOLOR SENSIBILIS"
+          }
+        },
+        {
+          "id": "q5-a7",
+          "title": {
+            "la": "Sectio 5, art. 7: UTRUM IN CHRISTO FUERIT TRISTITIA"
+          }
+        },
+        {
+          "id": "q5-a8",
+          "title": {
+            "la": "Sectio 5, art. 8: UTRUM IN CHRISTO FUERIT TIMOR"
+          }
+        },
+        {
+          "id": "q5-a9",
+          "title": {
+            "la": "Sectio 5, art. 9: UTRUM CHRISTUS FUERIT VIATOR"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "title": {
+        "la": "Sectio 6"
+      },
+      "children": [
+        {
+          "id": "q6-a1",
+          "title": {
+            "la": "Sectio 6, art. 1: UTRUM H/EC SIT VERA : DEUS EST HOMO"
+          }
+        },
+        {
+          "id": "q6-a2",
+          "title": {
+            "la": "Sectio 6, art. 2: UTRUM H/EC SIT VERA : HOMO EST DEUS"
+          }
+        },
+        {
+          "id": "q6-a3",
+          "title": {
+            "la": "Sectio 6, art. 3: UTRUM EA QU/E CONVENIUNT FILIO HOMINIS"
+          }
+        },
+        {
+          "id": "q6-a4",
+          "title": {
+            "la": "Sectio 6, art. 4: UTRUM H/EC SIT VERA :"
+          }
+        },
+        {
+          "id": "q6-a5",
+          "title": {
+            "la": "Sectio 6, art. 5: UTRUM H/EC SIT VERA:"
+          }
+        },
+        {
+          "id": "q6-a6",
+          "title": {
+            "la": "Sectio 6, art. 6: UTRUM H/EC SIT VERA:"
+          }
+        },
+        {
+          "id": "q6-a7",
+          "title": {
+            "la": "Sectio 6, art. 7: UTRUM H/EC SIT VERA:"
+          }
+        },
+        {
+          "id": "q6-a8",
+          "title": {
+            "la": "Sectio 6, art. 8: UTRUM H/BC SIT VERA: CHRISTUS,"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "title": {
+        "la": "Sectio 7"
+      },
+      "children": [
+        {
+          "id": "q7-a1",
+          "title": {
+            "la": "Sectio 7, art. 1: UTRUM CHRISTUS SIT UNUM AN DUO"
+          }
+        },
+        {
+          "id": "q7-a2",
+          "title": {
+            "la": "Sectio 7, art. 2: UTRUM IN CHRISTO SIT TANTUM UNUM ESSE"
+          }
+        },
+        {
+          "id": "q7-a3",
+          "title": {
+            "la": "Sectio 7, art. 3: UTRUM IN CHRISTO FUERINT"
+          }
+        },
+        {
+          "id": "q7-a4",
+          "title": {
+            "la": "Sectio 7, art. 4: UTRUM IN CHRISTO FUERIT"
+          }
+        },
+        {
+          "id": "q7-a5",
+          "title": {
+            "la": "Sectio 7, art. 5: UTRUM VOLUNTAS HUMANA CHRISTI FUE-"
+          }
+        },
+        {
+          "id": "q7-a6",
+          "title": {
+            "la": "Sectio 7, art. 6: UTRUM IN CHRISTO"
+          }
+        },
+        {
+          "id": "q7-a7",
+          "title": {
+            "la": "Sectio 7, art. 7: UTRUM IN CHRISTO"
+          }
+        },
+        {
+          "id": "q7-a8",
+          "title": {
+            "la": "Sectio 7, art. 8: UTRUM CHRISTUS ORAVERIT PRO SE"
+          }
+        },
+        {
+          "id": "q7-a9",
+          "title": {
+            "la": "Sectio 7, art. 9: UTRUM ORATIO CHRISTI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "title": {
+        "la": "Sectio 8"
+      },
+      "children": [
+        {
+          "id": "q8-a1",
+          "title": {
+            "la": "Sectio 8, art. 1: UTRUM CHRISTO CONVENIAT ESSE SACERDOTEM"
+          }
+        },
+        {
+          "id": "q8-a2",
+          "title": {
+            "la": "Sectio 8, art. 2: UTRUM EFFECTUS SACERDOTII CHRISTI"
+          }
+        },
+        {
+          "id": "q8-a3",
+          "title": {
+            "la": "Sectio 8, art. 3: UTRUM EFFECTUS SACERDOTII CHRISTI NON"
+          }
+        },
+        {
+          "id": "q8-a4",
+          "title": {
+            "la": "Sectio 8, art. 4: UTRUM SACERDOTIUM CHRISTI"
+          }
+        },
+        {
+          "id": "q8-a5",
+          "title": {
+            "la": "Sectio 8, art. 5: UTRUM SACERDOTIUM CHRISTI"
+          }
+        },
+        {
+          "id": "q8-a6",
+          "title": {
+            "la": "Sectio 8, art. 6: UTRUM ADOPTARE CONVENIAT TOTI TRINITATI"
+          }
+        },
+        {
+          "id": "q8-a7",
+          "title": {
+            "la": "Sectio 8, art. 7: UTRUM ADOPTAR I SIT PROPRIUM"
+          }
+        },
+        {
+          "id": "q8-a8",
+          "title": {
+            "la": "Sectio 8, art. 8: UTRUM CHRISTUS, SECUNDUM QUOD HOMO,"
+          }
+        },
+        {
+          "id": "q8-a9",
+          "title": {
+            "la": "Sectio 8, art. 9: UTRUM H/EC SIT FALSA : CHRISTUS, SECUNDUM"
+          }
+        },
+        {
+          "id": "q8-a10",
+          "title": {
+            "la": "Sectio 8, art. 10: UTRUM PR/EDESTI NATIO CHRISTI"
+          }
+        },
+        {
+          "id": "q8-a11",
+          "title": {
+            "la": "Sectio 8, art. 11: UTRUM PR^EDESTINATIO CHRISTI"
+          }
+        },
+        {
+          "id": "q8-a12",
+          "title": {
+            "la": "Sectio 8, art. 12: UTRUM HUMANITAS CHRISTI ADORANDA"
+          }
+        },
+        {
+          "id": "q8-a13",
+          "title": {
+            "la": "Sectio 8, art. 13: UTRUM IMACO CHRISTI"
+          }
+        },
+        {
+          "id": "q8-a14",
+          "title": {
+            "la": "Sectio 8, art. 14: UTRUM CRUX CHRISTI"
+          }
+        },
+        {
+          "id": "q8-a15",
+          "title": {
+            "la": "Sectio 8, art. 15: UTRUM MATER CHRISTI"
+          }
+        },
+        {
+          "id": "q8-a16",
+          "title": {
+            "la": "Sectio 8, art. 16: UTRUM CHRISTUS, SECUNDUM QUOD HOMO,"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "title": {
+        "la": "Sectio 9"
+      },
+      "children": [
+        {
+          "id": "q9-a1",
+          "title": {
+            "la": "Sectio 9, art. 1: Vtrum fuerit necessarium Christum pati pro libera-"
+          }
+        },
+        {
+          "id": "q9-a2",
+          "title": {
+            "la": "Sectio 9, art. 2: Vtrum totg anima Ghristi in passione frueretur'"
+          }
+        },
+        {
+          "id": "q9-a3",
+          "title": {
+            "la": "Sectio 9, art. 3: Vtrum Ghristus fuerit ex obedientia mortuus"
+          }
+        },
+        {
+          "id": "q9-a4",
+          "title": {
+            "la": "Sectio 9, art. 4: Utrum juerit conveniens Christum pati a gentilibux"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "title": {
+        "la": "Sectio 10"
+      },
+      "children": [
+        {
+          "id": "q10-a1",
+          "title": {
+            "la": "Sectio 10, art. 1: DE BEDEMPTIONE PER MODUM MERITI"
+          }
+        },
+        {
+          "id": "q10-a2",
+          "title": {
+            "la": "Sectio 10, art. 2: DE REDEMPTIONE PER MODUM LIBERATIONIS"
+          }
+        },
+        {
+          "id": "q10-a3",
+          "title": {
+            "la": "Sectio 10, art. 3: DE REDEMPTIONE PER MODUM EFFICIENTIAE"
+          }
+        },
+        {
+          "id": "q10-a4",
+          "title": {
+            "la": "Sectio 10, art. 4: Per passionem Christi liberati sumus a potcstate dia>"
+          }
+        },
+        {
+          "id": "q10-a5",
+          "title": {
+            "la": "Sectio 10, art. 5: Per passioncm Christi sumus Dco rcvoncUiati , solulfl"
+          }
+        },
+        {
+          "id": "q10-a6",
+          "title": {
+            "la": "Sectio 10, art. 6: Christus passione sua aperuit nobis januam cceli,"
+          }
+        },
+        {
+          "id": "q10-a7",
+          "title": {
+            "la": "Sectio 10, art. 7: Christus per suam passionem meruit exaltari (Phi"
+          }
+        },
+        {
+          "id": "q10-a8",
+          "title": {
+            "la": "Sectio 10, art. 8: OE UNIONE IN CHRISTO SALVATORE"
+          }
+        },
+        {
+          "id": "q10-a9",
+          "title": {
+            "la": "Sectio 10, art. 9: DE DESCENSU CHRISTI AD INFEROS (q. 52)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "title": {
+        "la": "Sectio 11"
+      },
+      "children": [
+        {
+          "id": "q11-a1",
+          "title": {
+            "la": "Sectio 11, art. 1: DE CHRISTO RECE"
+          }
+        },
+        {
+          "id": "q11-a2",
+          "title": {
+            "la": "Sectio 11, art. 2: B. V. MARIA PR^ESER VATA EST"
+          }
+        },
+        {
+          "id": "q11-a3",
+          "title": {
+            "la": "Sectio 11, art. 3: DE PERFECTIONE INITIALIS"
+          }
+        },
+        {
+          "id": "q11-a4",
+          "title": {
+            "la": "Sectio 11, art. 4: DE AUCMENTO CRATI/E IN B. V. MARIA"
+          }
+        }
+      ]
+    }
+  ]
+}
