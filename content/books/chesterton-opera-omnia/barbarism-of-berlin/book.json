@@ -1,0 +1,69 @@
+{
+  "id": "chesterton-barbarism-of-berlin",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Barbarism of Berlin",
+    "pt-BR": "A Barbárie de Berlim"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's first essay on the war of 1914, written within weeks of the invasion of Belgium: the war on the word, the refusal of reciprocity, the appetite of tyranny and the escape of folly. The case against Prussian philosophy and its contempt for treaties and for small nations.",
+    "pt-BR": "O primeiro ensaio de Chesterton sobre a guerra de 1914, escrito semanas após a invasão da Bélgica: a guerra contra a palavra, a recusa da reciprocidade, o apetite da tirania e a fuga da loucura. O processo contra a filosofia prussiana e o seu desprezo pelos tratados e pelas nações pequenas."
+  },
+  "composed": "1914",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/barbarism-of-berlin",
+  "editions": {
+    "en-US": {
+      "editor": "Cassell and Company",
+      "year": 1914
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/11560",
+      "edition": "The Barbarism of Berlin (Cassell and Company, 1914), Project Gutenberg #11560.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1914 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-introduction-the-facts-of-the-case",
+      "title": {
+        "en-US": "Introduction: The Facts of the Case"
+      }
+    },
+    {
+      "id": "ch02-the-war-on-the-word",
+      "title": {
+        "en-US": "I. The War on the Word"
+      }
+    },
+    {
+      "id": "ch03-the-refusal-of-reciprocity",
+      "title": {
+        "en-US": "II. The Refusal of Reciprocity"
+      }
+    },
+    {
+      "id": "ch04-the-appetite-of-tyranny",
+      "title": {
+        "en-US": "III. The Appetite of Tyranny"
+      }
+    },
+    {
+      "id": "ch05-the-escape-of-folly",
+      "title": {
+        "en-US": "IV. The Escape of Folly"
+      }
+    }
+  ]
+}
