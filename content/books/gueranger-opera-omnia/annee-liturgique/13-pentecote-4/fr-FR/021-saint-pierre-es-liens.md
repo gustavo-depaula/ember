@@ -1,0 +1,83 @@
+# Saint Pierre ès-liens
+
+AiSANT un dieu de l’homme qui l’avait asservie, Rome consacra le mois d’août à la mémoire de César Auguste. Quand le Christ l’eut délivrée, elle plaça comme monument de sa liberté reconquise, en tête du même mois, la fête des chaînes que Pierre vicaire du Christ avait portées pour rompre les siennes.
+
+Divine Sagesse, qui régnez sur ce mois plus légitimement que le fils adoptif de César, vous ne pouviez inaugurer plus authentiquement votre empire. Force et douceur réunies sont l’attribut de vos œuvres i, et c’est dans la faiblesse de vos élus que vous triomphez des puissants 2. Vous-même, pour nous donner la vie, aviez absorbé la mort;
+
+Eour affranchir la terre à lui confiée, Simon Is de Jean est devenu captif. Hérode d’abord, Néron plus tard, ont fait connaître à quel prix était la promesse qu’il reçut autrefois de lier et de délier ici-bas comme aux cieux 3 : il devait en retour porter l’amour du Pasteur suprême jusqu’à se laisser comme
+
+I. Sap. VIII, I. — 2. I Cor. I, i8-3i. — 3. Matth. XVI, 19.
+
+3 14 ^^ Temps après la Pentecôte. lui 1 charger de liens pour le troupeau et conduire où il ne voulait pas 2.
+
+Chaînes glorieuses, qui ne ferez jamais trembler non plus les successeurs de Pierre, vous serez en face des Hérodes, des Nérons, des Césars de tous les temps, la garantie de la liberté des âmes. Aussi de quelle vénération, dès les âges les plus reculés, le peuple chrétien vous honore! On peut dire en toute vérité de la fête présente qu’elle se perd dans la nuit des siècles. Selon d’antiques monuments =% c’est à Pierre même que remonterait la consécration première à cette date du sanctuaire qui rassemble en ce jour d’émancipation, sur la plus haute des sept collines, les citoyens de la Ville éternelle. L’appellation de Titre d’Eudoxie, sous laquelle la vénérable église est souvent dénommée, proviendrait des restaurations dont elle fut l’objet à l’occasion des événements rappelés dans les Leçons de la fête. Quant aux liens sacrés devenus son trésor, la plus ancienne mention qu’on nous ait conservée du culte qui leur fut rendu, remonte aux premières années du second siècle. Balbina, fille du tribun Quirinus préposé à la garde des prisons, s’était vue guérie au contact des chaînes du saint Pape Alexandre; elle ne se rassasiait pas de baiser les liens qui l’avaient délivrée. « Cherche les fers du bienheureux Pierre, et baise-les plutôt que ceux-ci, » lui dit le Pontife; Balbina donc, ayant heureusement trouvé les fers apostoliques, reporta
+
+I. JOHAN. XVin, 12. — 2. IbiJ. XXI, i5-i. — 3. Marlyrolog. Hieronym., Bed., Raban., Notker.
+
+Saint Pierre es liens. 3i sur eux ses démonstrations pieuses, et les remit peu après à la noble Théodora, sœur d’Hermès i.
+
+Les anneaux qui avaient enserré les bras du Docteur des nations sans pouvoir lier la parole de Dieu 2, furent aussi recueillis plus chèrement que les pierreries et l’or après son martyre. D’Antioche de Syrie, Jean Chrysostome, portant une envie sainte aux rivages qu’enrichissent ces trophées d’une captivité triomphante, s’écriait dans un transport sublime : « Quoi de plus magnihque que ces • chaînes ? Prisonnier pour le Christ est un nom plus beau que celui d’apôtre, d’évangéliste ou de docteur. Etre lié pour le Christ vaut mieux que d’habiter les cieux; siéger sur les douze trônes 3 est un moindre honneur. Si quelqu’un aime, il me comprend; mais qui comme le très saint choeur des Apôtres pénétra ces choses ? Pour moi, si l’on m’offrait à choisir ou ces fers, ou le ciel tout entier, je n’hésiterais pas; car c’est en eux qu’est le bonheur. Je voudrais présentement me trouver dans les lieux où l’on dit que sont encore gardés les liens de ces hommes admirables. S’il m’était donné d’être libre des soucis de cette église, d’avoir quelque santé, je ne balancerais pas à entreprendre ce voyage pour voir seulement la chaîne de Paul. Si l’on me disait : Qu’aimes-tu mieux être, ou l’Ange qui délivra Pierre, ou Pierre enchaîné ? j’aimerais mieux être Pierre, à cause de ses liens ^. »
+
+I. Acta S. Alexandri.— 2. II Titn. n, 9.— 3. Matth. XIX, 28. — 4. Chrys. in Ep. ad Eph. Hom. vui.
+
+3 16 Le Temps après la Pentecôte.
+
+Toujours vénérée dans l’auguste basilique qui couvre sa tombe, la chaîne de Paul n’est point devenue pourtant comme celles de Pierre l’objet d’une fcte spéciale en l’Eglise. Cette distinction était due à la prééminence de celui qui « reçut seul les Clefs du Royaume des cieux pour les communiquer aux autres • », qui seul continue par ses successeurs de lier et de délier souverainement dans rétendue des mondes. Le recueil des lettres de saint Grégoire le Grand atteste combien, au vi^ siècle, était universellement répandu le culte des saintes chaînes, dont quelques parcelles de limure, enfermées dans des clefs d’argent ou d’or, étaient le plus riche présent que les Souverains Pontifes eussent coutume d’offrir aux églises insignes et aux princes qu’ils voulaient honorer. C’bnstantinople, à une époque assez indécise, fut elle aussi dotée de quelque portion de ces précieux liens ; elle en tîxa la fête au lô janvier, exaltant à cette occasion dans l’Apôtre Pierre Voccupant du premier Siège, le fondement de la foi, la base inébranlable des dogmes 2.
+
+Voici la Légende de la fête au Bréviaire Romain.
+
+Au temps de l’empire de Théodose le jeune, Euioxie son épouse vint à lérusalem pour accomplir in vœu ; elle y fut comblée le nombreux présents, dont
+
+I. Opt.Milev. Contra Parmen. VII, m. — 2. Menées
+
+ITheodosio juniore im- 1 perante, cum Eudocia ejus uxor Jerosolymam solvendi voti causa venissct, ibi multis est affecta muneribus : prae le principal consistait en une chaîne de fer ornée d’or et de pierreries, qu’on assurait être celle dont l’Apôtre Pierre avait été lié par Hérode. L’impératrice, l’ayant pieusement vénérée, l’envoya ensuite à Rome à sa fille Eudoxie qui l’apporta au Souverain Pontife; celui-ci à son tour lui montra une autre chaîne dont le même Apôtre avait été chargé sous Néron.
+
+COMME donc le Pontife comparait la chaîne romaine avec celle qu’on avait apportée de Jérusalem, il arriva qu’elles se joignirent entre elles de telle sorte qu’elles parurent, non pas deux, mais une seule chaîne faite par le même ouvrier. Ce miracle fut pour ces liens sacrés le point de départ des plus grands honneurs ; sous le nom de Saint- Pierre - es - liens du titre d’Eudoxie, on fit sur l’Esquilin la dédicace d’une église dont la fête anniversaire fut établie aux calendes d’août.
+
+DE ce moment les solennités profanes des Gentils que l’on continuait de célébrer à ce jour, cédèrent devant l’hommage rendu casteris insigne donum accepit ferreae catenae, auro gemmisque ornatae : quam illam esse affirmabant, qua Petrus Apostolus ab Herode vinctus fuerat. Eudocia catenam pie venerata, eam postea Romam ad filiam Eudoxiam misit, quae illam Pontifici maximo detulit : isque vicissim illi monstravit alteram catenam : qua, Nerone imperatore.idem Apostolus constrictus fuerat.
+
+CUM igitur Pontifex Romanam catenam cum ea, quae Jerosolymis allata fuerat, contulisset, factura est ut illas inter se sic connecterentur, ut non duas, sed una catena ab eodem artifice confecta esse videretur. Quo miraculo tantus honor sacris illis vinculis haberi cœpit, ut propterea hoc nomine sancti Pétri ad Vincula ecclesia titulo Eudoxiae, dedicata sit in Exquiliis, ejusque mémorise dies festus institutus calendis augusti.
+
+QUO ex tempore honos, qui eo die profanis (jentilium celebritatibus tribui solitus erat. Pétri vinculis haberi cœpit :
+
+3iS Le Temps après la Pentecôte. qux tacta aegros sanabant, et daemones ejiciebant. Quo in génère anno salutis humanae nongentesirao sexagesimo nono accidit, ut quidam cornes, Othonis imperatoris familiaris, occupatus ab immundo spiritu, seipsum dentibus dilaniaret. Quare is jussu imperatoris ad Joannem Pontificem ducitur : qui, ut sacra catena comitis collum attigit, erumpens nefarius spiritus hominem liberum reliquit : ac deinceps in Urbe sanctorum vinculorum religio propagata est. aux chaînes de Pierre. Le contact de ces chaînes guérissait les malades et chassait les démons. Ainsi arriva-t-il que, l’an du salut neuf cent soixante-neuf, un certain comte, familier de l’empereur Othon, possédé par l’esprit immonde, se déchirait de ses propres dents ; conduit par ordre de l’empereur au Pontife Jean, à peine la chaîne sacrée eut-elle touché son cou, que le malin esprit s’échappant le laissa délivré. En suite de quoi, la dévotion des saints liens se répandit dans Rome.
+
+METS tes pieds dans les fers de la Sagesse, et ton cou dans ses chaînes, disait prophétiquement l’Esprit sous l’ancienne alliance; ne te lasse point de ses liens : car à la fin elle te sera repos et joie, et ses entraves seront pour loi une protection puissante, et ses colliers un glorieux ornement, et ses liens le salut *. » Et la Sagesse incarnée vous appliquant l’oracle elle-même, ô Prince des Apôtres, annonçait qu’en témoignage de votre amour, un jour viendrait où vous connaîtriez en effet la contrainte et les liens 2. L’épreuve, ô Pierre, a été convaincante pour cette Sagesse éternelle qui proportionne ses exigence’s à la mesure
+
+Saint Pierre es liens. 3iq de son propre amour i. Mais vous aussi l’avez trouvée fidèle : aux jours du redoutable combat où elle voulut montrer sa puissance en votre faiblesse, elle ne vous abandonna point dans les fers - ; c’est dans ses bras que vous dormiez d’un sommeil si calme en la prison d’Hérode 3 ; descendue avec vous dans la fosse de Néron *, elle vous y tint fidèle compagnie jusqu’à l’heure où, soumettant à l’opprimé les persécuteurs mêmes, elle mit le sceptre en vos mains et sur votre front la triple couronne.
+
+Du trône où vous siégez avec l’Homme- Dieu dans les cieux ^ comme vous l’avez suivi ici-bas dans l’épreuve et l’angoisse 6, déliez nos liens qui n’ont rien, hélas! de la gloire des vôtres : brisez ces fers du péché qui nous •rivent à Satan, ces attaches de toutes les passions qui nous empêchent de prendre vers Dieu notre essor. Le monde, plus que jamais esclave dans l’engouement de ses fausses libertés qui lui font oublier la seule vraie, a plus besoin d’affranchissement qu’au temps des Césars païens : vous qui seul pouvez l’être, une fois de plus soyez son libérateur. Que Rome surtout, tombée plus bas parce qu’elle a été précipitée de plus haut, éprouve à nouveau la vertu d’émancipation qui réside en vos chaînes ; elles sont devenues pour ses fidèles un signe de ralliement dans les dernières épreuves "* ; vérifiez la parole qui fut
+
+I. Eccli. IV, 17-22. — 2. Sap. X, 12-14.— 3. Act. XII, 6. — 4. Sap. X. i. — 5. Apoc, iir, 21, — 6. Luc. XXII, 28. — 7. Archiconfrérie des Chaînes de S. Pierre, srigée le 18 juin 1867.
+
+320 Le Temps après la Pentecôte. dite par ses poètes autrefois, qu’a entourée de ces liens elle serait toujours libre * ».
+
+AOUT resplendit des feux de la plus brillante des constellations qui soit au Cycle sacré. Déjà au sixième siècle, le deuxième concile de Tours observait que les fêtes des Saints remplissaient sa durée ’^. Mes délices sont d’être avec les enfants des hommes 3, disait la Sagesse ; il semble que dans le mois où retentissent ses enseignements, elle ait mis sa gloire à s’entourer des hommes bienheureux * qui, marchant avec elle par le milieu des sentiers de la justice ■’, ont trouvé en la trouvant elle-même la \ie et le salut qui vient du Seigneur <^. Noble cour, présidée par la Reine de toute grâce dont ie ’ triomphe, consacrant le milieu de ce mois, appelait sur lui les prédilections de cette Sagesse du Père qui ne s’est plus séparée de Marie depuis qu’elle en a fait son trône. Quelle effusion des divines faveurs Fopulence des jours que nous allons traverser promet à nos âmes! Jamais les greniers du Père de famille ne s’enrichirent plus qu’en ce temps de maturité pour les moissons de la terre et pour celle des cieux.
+
+Tandis qu’ici-bas l’Eglise, inaugurant ces jours bénis, se pare de la chaîne de Pierre
+
+I Arator, De Act. Apost. L. I, v. 1070-1076. —
+
+2. Toto Auguste... festivitates sunt et missae sanctorum. De observatione psallendi. Labbe, V, 857. —
+
+3. Prov. VIII, 3l. — 4. Ibid. 32-34- — 5. Ibid. 20. - 6. IbU. 35.
+
+Mémoire des SS, Machabées, Mart. 32 i comme de son joyau le plus précieux, pour la troisième fois le septénaire brille au ciel. Dans l’arène sanglante, les sept Frères Machabées ont précédé les fils de Symphorose et de Félicite ; ils ont suivi la Sagesse avant au’elle eût manifesté dans la chair ses attraits ivins. La cause sacrée dont ils furent les athlètes, leur force d’âme dans les tourments, leurs sublimes réponses aux bourreaux, offrirent à tel point le type reproduit depuis par tous les Martyrs, qu’on vit les Pères, aux premiers siècles de l’Église chrétienne, revendiquer pour elle tout d’une voix ces héros de la synagogue qui n’avaient puisé leur courage que dans la foi au Christ attendu. Seuls aussi, de tous les saints personnages de l’ancienne alliance, ils trouvèrent placé pour cette raison au Cycle chrétien ; tous les martyrologes, les fastes de l’Orient comme de l’Occident, attestent l’universalité de leur culte ; et telle est son antiquité que, dans la basilique Eudoxienne c^ui garde également à Rome leurs restes précieux, elle le dispute à l’antiquité même du culte rendu aux liens sacrés du Prince des Apôtres.
+
+Au temps où dans l’espoir d’une résurrection meilleure ’, ils refusaient sous l’assaut des tourments de racheter leur vie, d’autres héros du môme sang, s’inspirant d’une même foi, couraient aux armes et délivraient leur pays d’une crise terrible. Plusieurs enfants d’Israël, oublieux des traditions de leur peuple, avaient ambitionné pour lui les mœurs des nations étrangères ; et le Seigneur, pour châtiment,
+
+I. Heb. XI, 35 ; II Mach. vu, 9, 11, 14, 23.
+
+LE TEMPS APRÈS LAPENTECOTF. — T. TV.
+
+32 2 Le Temps après la Pentecôte. avait laissé peser de tout son poids sur la Judée le joug de législation profane qu’elle avait commis la faute de se laisser imposer*. Mais lorsque le roi d’alors, Antiochus, exploitant la trahison de ouelques-uns, l’insouciance du grand nombre, prétendit par ses ordonnances éliminer la divine loi qui seule donne à l’homme autorité sur l’homme, Israël, réveillé soudain, opposa au tyran la réaction simultanée de la révolte et du martyre. Judas Machabée, en d’immortels combats, revendiquait pour Dieu la terre de son héritage - ; tandis que par la vertu de leur généreuse confession, les sept Frères, émules de sa gloire, sauvaient eux aussi la loi, comme dit l’Ecriture, de l’asservissement des nations et des rois 3. Bientôt demandant grâce sous la main du Seigneur Dieu sans pouvoir l’obtenir *, Antiochus mourait dévoré des vers comme plus tard devaient aussi mourir le premier persécuteur des chrétiens et le dernier, Hérode Agrippa et Galère Maximien.
+
+L’Esprit-Saint, qui se réservait de transmettre lui-même à la postérité les Actes du protomartyr de la loi nouvelle, n’a point fait autrement pour la passion des glorieux précurseurs d’Etienne aux siècles de l’attente. Au reste, c’était bien lui déjà qui, comme sous la loi d’amour =, inspirait paroles aussi bien que courage aux vaillants frères, à cette mère plus adniirable encore qui, devant ses i. I Mach. I, 12-67. — 2. Deut. xzxii, Q. — 3. I Mac’n. Il, 48. — 4. Il Mach. ix, i. — 5. Matth. x.
+
+Mémoire des SS. Machabéts. Mattyrs. 323 sept fils livrés Tun après l’autre à d’effroyables tortures, ne trouvait pour chacun d’eux que des exhortations brûlantes à mourir. Entourée de leurs corps affreusement mutilés, elle se riait du tyran dont la fausse pitié voulait du moins qu’elle persuadât au plus jeune de sauver sa vie ; elle se penchait sur ce dernier survivant laissé encore à sa tendresse, et lui disait : « Mon fds, aie pitié de moi qui t’ai porté neuf mois dans mon sein, qui t’ai nourri trois ans de mon lait et élevé jusqu’à cet âge. Je t’en prie, mon enfant : regarde le ciel et la terre et tout ce qu’ils renferment ; comprends que tout cela, Dieu l’a fait de rien aussi bien que les hommes. Ne crains donc pas ce bourreau ; sois digne de tes frères, reçois comme eux la mort, afin que je le retrouve avec eux par la divine bonté qui doit me les rendre. » Et l’intrépide enfant courait dans son innocence au-devant des supplices ; et l’incomparable mère suivait ses fils 1.
+
+ORAISON.
+
+/^^E la couronne fraterv^nelle de vos Martyrs, Seigneur, soit pour nous une cause d’allégresse, en procurant à notre foi l’accroissement des vertus et nous soutenant de leur multiple suffrage. Par Jésus- Christ.
+
+FRATERNAnos, Domine Martyrum tuorum corona lastificet : quœ et fidei nostras praebeat incr^menta virtutum, et multiplici nos suffragio consoletur. Per Dominum.

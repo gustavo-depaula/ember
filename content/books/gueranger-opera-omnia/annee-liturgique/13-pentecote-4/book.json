@@ -1,0 +1,281 @@
+{
+  "id": "gueranger-annee-liturgique-13-pentecote-4",
+  "name": {
+    "fr-FR": "L’Année liturgique : le temps après la Pentecôte, IV",
+    "en-US": "The Liturgical Year: Time after Pentecost, Book IV (continuation by Dom Fromage)",
+    "pt-BR": "O Ano Litúrgico: Tempo depois de Pentecostes, IV (continuação de Dom Fromage)"
+  },
+  "author": {
+    "fr-FR": "Dom Lucien Fromage (continuation de Dom Guéranger)",
+    "en-US": "Dom Lucien Fromage",
+    "pt-BR": "Dom Lucien Fromage"
+  },
+  "description": {
+    "fr-FR": "Volume 13 de l’Année liturgique (Le temps après la Pentecôte, IV, 4e volume de la continuation par Dom Lucien Fromage) : un chapitre par jour ou fête, avec les textes liturgiques en latin et en français.",
+    "en-US": "Volume 13 of the 15-volume Liturgical Year (L’Année liturgique) in the original French, the fourth volume of the continuation written by Dom Lucien Fromage after Guéranger’s death. One chapter per day or feast, with the Latin and French of the liturgical texts. Made from the 1911 Oudin printing’s OCR; the two-column Latin and French text is separated by script and some running heads remain.",
+    "pt-BR": "Volume 13 dos 15 volumes de «O Ano Litúrgico» (L’Année liturgique) em francês, volume 4 da continuação escrita por Dom Lucien Fromage após a morte de Guéranger. Um capítulo por dia ou festa, com o latim e o francês dos textos litúrgicos."
+  },
+  "composed": "1890",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "fr-FR": {
+      "editor": "Dom Lucien Fromage, continuation (Oudin, Paris-Poitiers)",
+      "year": 1911
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/lanneliturgiqu13gu",
+      "edition": "L’Année liturgique, vol. 13, Paris-Poitiers: Librairie H. Oudin, 1911. Internet Archive scan (University of Toronto), OCR text.",
+      "description": "Split at detected day and feast headings; running heads and page numbers removed where recognised; the Latin and French columns, interleaved line by line in the OCR, were separated by language and set as a Latin paragraph followed by its French. The table of contents at the back is not imported.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875 and Fromage in 1916; the text was printed in 1911 (before 1931)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-la-pentecote-chapitre-premier-de-l-assistance-a",
+      "title": {
+        "fr-FR": "La Pentecôte chapitre premier de l assistance a i.a. Sainte Messe, au temps après la Pentecôte"
+      }
+    },
+    {
+      "id": "002-chapitre-ii",
+      "title": {
+        "fr-FR": "Chapitre II"
+      }
+    },
+    {
+      "id": "003-8-juillet-sainte-elisabeth-reine-de-portugal",
+      "title": {
+        "fr-FR": "8 juillet — Sainte Elisabeth reine de portugal"
+      }
+    },
+    {
+      "id": "004-10-juillet-les-sept-freres-martyrs",
+      "title": {
+        "fr-FR": "10 juillet — Les sept frères. martyrs"
+      }
+    },
+    {
+      "id": "005-11-juillet-saint-pie-icr-pape-et-martyr",
+      "title": {
+        "fr-FR": "11 juillet — Saint Pie icr, Pape et martyr"
+      }
+    },
+    {
+      "id": "006-12-juillet-saint-jean-gualbert-abbe",
+      "title": {
+        "fr-FR": "12 juillet — Saint Jean gualbert, abbe"
+      }
+    },
+    {
+      "id": "007-14-juillet-saint-bon-aventure-cardinal-et-docteu",
+      "title": {
+        "fr-FR": "14 juillet — Saint Bon aventure cardinal et Docteur de l'Église"
+      }
+    },
+    {
+      "id": "008-15-juillet-saint-henri-empereur",
+      "title": {
+        "fr-FR": "15 juillet — , Saint Henri, empereur"
+      }
+    },
+    {
+      "id": "009-16-juillet-notre-dame-du-mont-carmel",
+      "title": {
+        "fr-FR": "16 juillet — Notre-dame du mont-carmel"
+      }
+    },
+    {
+      "id": "010-17-juillet-saint-alexis-confesseur",
+      "title": {
+        "fr-FR": "17 juillet — Saint Alexis, confesseur"
+      }
+    },
+    {
+      "id": "011-s-symphorose-et-ses-sept-fils-martyrs",
+      "title": {
+        "fr-FR": "S\" symphorose et ses sept fils. martyrs"
+      }
+    },
+    {
+      "id": "012-19-juillet",
+      "title": {
+        "fr-FR": "19 juillet"
+      }
+    },
+    {
+      "id": "013-sainte-marguerite-vierge-et-martyre",
+      "title": {
+        "fr-FR": "Sainte Marguerite, Vierge et martyre"
+      }
+    },
+    {
+      "id": "014-22-juillet-sainte-marie-madeleine",
+      "title": {
+        "fr-FR": "22 juillet — Sainte Marie madeleine"
+      }
+    },
+    {
+      "id": "015-23-juillet-saint-apollinaire-eveque-et-martyr",
+      "title": {
+        "fr-FR": "23 juillet — Saint Apollinaire, évéque et martyr"
+      }
+    },
+    {
+      "id": "016-sainte-christine-vierge-et-martyre",
+      "title": {
+        "fr-FR": "Sainte Christine, Vierge et martyre"
+      }
+    },
+    {
+      "id": "017-sainte-anne-mere-de-la-bienheureuse-vierge-marie",
+      "title": {
+        "fr-FR": "Sainte Anne, Mère de la bienheureuse Vierge Marie"
+      }
+    },
+    {
+      "id": "018-sainte-marthe-vierge",
+      "title": {
+        "fr-FR": "Sainte Marthe, Vierge"
+      }
+    },
+    {
+      "id": "019-30-juillet-les-saints-abdon-et-sennen-martyre",
+      "title": {
+        "fr-FR": "30 juillet — Les Saints Abdon et sennen, martyre"
+      }
+    },
+    {
+      "id": "020-31-juillet-saint-ignace-confesseur",
+      "title": {
+        "fr-FR": "31 juillet — Saint Ignace, confesseur"
+      }
+    },
+    {
+      "id": "021-saint-pierre-es-liens",
+      "title": {
+        "fr-FR": "Saint Pierre ès-liens"
+      }
+    },
+    {
+      "id": "022-saint-alphonse-marie-de-liguori-eveque-et-docteu",
+      "title": {
+        "fr-FR": "Saint Alphonse-marie de liguori évêque et Docteur de l'Église"
+      }
+    },
+    {
+      "id": "023-le-iii-invention-de-saint-etienne-premier-martyr",
+      "title": {
+        "fr-FR": "Le III 'invention de Saint Étienne premier martyr"
+      }
+    },
+    {
+      "id": "024-4-aout-saint-dominique-confesseur",
+      "title": {
+        "fr-FR": "4 août — Saint Dominique, confesseur"
+      }
+    },
+    {
+      "id": "025-5-aout-notre-dame-des-neiges",
+      "title": {
+        "fr-FR": "5 août — Notre-dame-des-neiges"
+      }
+    },
+    {
+      "id": "026-6-aout-la-transfiguration-de-notre-seigneur",
+      "title": {
+        "fr-FR": "6 août — La transfiguration de notre-seigneur"
+      }
+    },
+    {
+      "id": "027-saint-sixte-ii-pape-et-martyr-et-les-ss-feliciss",
+      "title": {
+        "fr-FR": "Saint Sixte II, Pape et martyr, et les ss. félicissime et agapit, martyrs"
+      }
+    },
+    {
+      "id": "028-8-aout-les-saints-cyriaque-largus-et-smaragdus-m",
+      "title": {
+        "fr-FR": "8 août — Les Saints Cyriaque, largus et smaragdus, martyrs"
+      }
+    },
+    {
+      "id": "029-9-aout-la-vigile-de-saint-laurent-saint-romain-m",
+      "title": {
+        "fr-FR": "9 août — La vigile de Saint Laurent, - Saint Romain, martyr"
+      }
+    },
+    {
+      "id": "030-13-aout-sainte-radegonde-reine-de-france",
+      "title": {
+        "fr-FR": "13 août — Sainte Radegonde, reine de france"
+      }
+    },
+    {
+      "id": "031-14-aout-la-vigile-de-lassomption",
+      "title": {
+        "fr-FR": "14 août — La vigile de l'assomption"
+      }
+    },
+    {
+      "id": "032-le-xv-assomption-de-la-tres-sainte-vierge",
+      "title": {
+        "fr-FR": "Le XV 'assomption de la tres Sainte Vierge"
+      }
+    },
+    {
+      "id": "033-le-dimanche-dans-loctave-de-lassomption-saint-jo",
+      "title": {
+        "fr-FR": "Le dimanche dans l'octave de l'assomption. Saint Joachim, confesseur. père de la bienheureuse Vierge Marie"
+      }
+    },
+    {
+      "id": "034-saint-hyacinthe-confesseur",
+      "title": {
+        "fr-FR": "Saint Hyacinthe, confesseur"
+      }
+    },
+    {
+      "id": "035-le-xvii-octave-de-saint-laurent-diacre-et-martyr",
+      "title": {
+        "fr-FR": "Le XVII 'octave de Saint Laurent. diacre et martyr"
+      }
+    },
+    {
+      "id": "036-18-aout-quatrieme-jour-dans-octave-de-lassomptio",
+      "title": {
+        "fr-FR": "18 août — Quatrième jour dans /octave de l'assomption"
+      }
+    },
+    {
+      "id": "037-20-aout-saint-bernard-abbe-et-docteur-de-leglise",
+      "title": {
+        "fr-FR": "20 août — Saint Bernard, abbé et Docteur de l'Église"
+      }
+    },
+    {
+      "id": "038-21-aout-sainte-jeanne-francoise-fremiot-de-chant",
+      "title": {
+        "fr-FR": "21 août — Sainte Jeanne françoise frémiot de chantal, veuve"
+      }
+    },
+    {
+      "id": "039-loctave-de-lassomption",
+      "title": {
+        "fr-FR": "L'octave de l'assomption"
+      }
+    },
+    {
+      "id": "040-4-aout-le-bienheureux-jean-marie-vl-nney-confess",
+      "title": {
+        "fr-FR": "4 août — Le bienheureux jean-marie vl\\nney, confesseur"
+      }
+    }
+  ]
+}
