@@ -9,5 +9,114 @@
     "St. Alphonsus Maria de Liguori",
     "Santo Afonso Maria de Ligório",
     "Père Saint-Omer, C.SS.R."
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "Prayer and the Eucharist first.",
+        "pt-BR": "A oração e a Eucaristia primeiro."
+      },
+      "works": [
+        {
+          "work": "liguori-visite-al-ss-sacramento",
+          "why": {
+            "en-US": "Thirty-one visits to the Blessed Sacrament and to Mary",
+            "pt-BR": "Trinta e uma visitas ao Santíssimo Sacramento e a Maria"
+          }
+        },
+        {
+          "work": "liguori-gran-mezzo-della-preghiera",
+          "why": {
+            "en-US": "On the necessity, value and conditions of prayer",
+            "pt-BR": "Sobre a necessidade, o valor e as condições da oração"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Love of God and his will",
+        "pt-BR": "O amor de Deus e a sua vontade"
+      },
+      "works": [
+        {
+          "work": "liguori-pratica-di-amar-gesu-cristo",
+          "why": {
+            "en-US": "The virtues of charity, from 1 Corinthians 13",
+            "pt-BR": "As virtudes da caridade, a partir de 1 Coríntios 13"
+          }
+        },
+        {
+          "work": "liguori-uniformita-alla-volonta-di-dio",
+          "why": {
+            "en-US": "Perfection through conformity to God's will",
+            "pt-BR": "A perfeição pela conformidade à vontade de Deus"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Mary",
+        "pt-BR": "Maria"
+      },
+      "works": [
+        {
+          "work": "liguori-glorie-di-maria",
+          "why": {
+            "en-US": "A commentary on the Salve Regina",
+            "pt-BR": "Um comentário à Salve Rainha"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Death and the Passion",
+        "pt-BR": "A morte e a Paixão"
+      },
+      "works": [
+        {
+          "work": "liguori-apparecchio-alla-morte",
+          "why": {
+            "en-US": "Thirty-six considerations to prepare for death",
+            "pt-BR": "Trinta e seis considerações para preparar-se para a morte"
+          }
+        },
+        {
+          "work": "liguori-esercizio-via-crucis",
+          "why": {
+            "en-US": "Meditations for the fourteen stations",
+            "pt-BR": "Meditações para as catorze estações"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Collections",
+        "pt-BR": "Coletâneas"
+      },
+      "works": [
+        {
+          "work": "liguori-meditacoes",
+          "why": {
+            "en-US": "Meditations, in Portuguese",
+            "pt-BR": "Meditações, em português"
+          }
+        },
+        {
+          "work": "liguori-plus-belles-prieres",
+          "why": {
+            "en-US": "Prayers collected in French, 1878",
+            "pt-BR": "Orações reunidas em francês, 1878"
+          }
+        }
+      ]
+    }
   ]
 }
