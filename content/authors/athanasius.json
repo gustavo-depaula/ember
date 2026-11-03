@@ -7,5 +7,195 @@
   "saint": "athanasius",
   "matches": [
     "Athanasius"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "athanasius-incarnation-of-the-word",
+          "why": {
+            "en-US": "His treatise On the Incarnation of the Word",
+            "pt-BR": "Seu tratado Sobre a Encarnação do Verbo"
+          }
+        },
+        {
+          "work": "athanasius-vita-s-antoni",
+          "why": {
+            "en-US": "The Life of St. Anthony",
+            "pt-BR": "A Vida de Santo Antão"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Against the heathen and the Arians",
+        "pt-BR": "Contra os pagãos e os arianos"
+      },
+      "note": {
+        "en-US": "The doctrinal treatises, from the pagans to the Arians.",
+        "pt-BR": "Os tratados doutrinais, dos pagãos aos arianos."
+      },
+      "works": [
+        {
+          "work": "athanasius-against-the-heathen",
+          "why": {
+            "en-US": "Against the Heathen, a treatise of some 24,000 words",
+            "pt-BR": "Contra os pagãos, tratado de cerca de 24 mil palavras"
+          }
+        },
+        {
+          "work": "athanasius-four-discourses-against-the-arians",
+          "why": {
+            "en-US": "The largest of his books here, in four discourses",
+            "pt-BR": "O maior de seus livros aqui, em quatro discursos"
+          }
+        },
+        {
+          "work": "athanasius-de-decretis",
+          "why": {
+            "en-US": "On the Decrees (of Nicaea)",
+            "pt-BR": "Sobre os decretos (de Niceia)"
+          }
+        },
+        {
+          "work": "athanasius-de-synodis",
+          "why": {
+            "en-US": "On the Synods",
+            "pt-BR": "Sobre os sínodos"
+          }
+        },
+        {
+          "work": "athanasius-de-sententia-dionysii",
+          "why": {
+            "en-US": "On the Opinion of Dionysius",
+            "pt-BR": "Sobre a opinião de Dionísio"
+          }
+        },
+        {
+          "work": "athanasius-luke-10",
+          "why": {
+            "en-US": "On Luke 10:22 (Matthew 11:27)",
+            "pt-BR": "Sobre Lucas 10,22 (Mateus 11,27)"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Defence of his own conduct",
+        "pt-BR": "Defesa de sua conduta"
+      },
+      "note": {
+        "en-US": "Apologies written under accusation and exile.",
+        "pt-BR": "Apologias escritas sob acusação e exílio."
+      },
+      "works": [
+        {
+          "work": "athanasius-apologia-contra-arianos",
+          "why": {
+            "en-US": "Apology against the Arians",
+            "pt-BR": "Apologia contra os arianos"
+          }
+        },
+        {
+          "work": "athanasius-apologia-ad-constantium",
+          "why": {
+            "en-US": "Apology to the Emperor Constantius",
+            "pt-BR": "Apologia ao imperador Constâncio"
+          }
+        },
+        {
+          "work": "athanasius-apologia-de-fuga",
+          "why": {
+            "en-US": "Apology for his flight",
+            "pt-BR": "Apologia de sua fuga"
+          }
+        },
+        {
+          "work": "athanasius-historia-arianorum",
+          "why": {
+            "en-US": "History of the Arians",
+            "pt-BR": "História dos arianos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Letters",
+        "pt-BR": "Cartas"
+      },
+      "works": [
+        {
+          "work": "athanasius-letters",
+          "why": {
+            "en-US": "His letters",
+            "pt-BR": "Suas cartas"
+          }
+        },
+        {
+          "work": "athanasius-circular-letter",
+          "why": {
+            "en-US": "The circular letter",
+            "pt-BR": "A carta circular"
+          }
+        },
+        {
+          "work": "athanasius-ad-episcopus-aegypti-et-libyae",
+          "why": {
+            "en-US": "Letter to the bishops of Egypt and Libya",
+            "pt-BR": "Carta aos bispos do Egito e da Líbia"
+          }
+        },
+        {
+          "work": "athanasius-ad-afros-epistola-synodica",
+          "why": {
+            "en-US": "Synodal letter to the bishops of Africa",
+            "pt-BR": "Carta sinodal aos bispos da África"
+          }
+        },
+        {
+          "work": "athanasius-tomus-ad-antiochenos",
+          "why": {
+            "en-US": "The Tomus to the Antiochenes",
+            "pt-BR": "O Tomo aos antioquenos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Documents and statements",
+        "pt-BR": "Documentos e profissões"
+      },
+      "works": [
+        {
+          "work": "athanasius-statement-of-faith",
+          "why": {
+            "en-US": "A short statement of faith",
+            "pt-BR": "Uma breve profissão de fé"
+          }
+        },
+        {
+          "work": "athanasius-deposition-of-arius",
+          "why": {
+            "en-US": "The deposition of Arius",
+            "pt-BR": "A deposição de Ario"
+          }
+        },
+        {
+          "work": "athanasius-historia-acephala",
+          "why": {
+            "en-US": "The Historia Acephala",
+            "pt-BR": "A Historia Acephala"
+          }
+        }
+      ]
+    }
   ]
 }
