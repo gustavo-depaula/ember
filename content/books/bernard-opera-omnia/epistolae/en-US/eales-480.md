@@ -1,0 +1,5 @@
+# Letter CDLXXX. To a Certain Prince (Theobald, Count of Champagne.)
+
+To the laudable Prince T(heobald), Bernard, Abbot of Clairvaux, health and his prayers.
+
+I fear to be tedious to you, since I intrude upon your many occupations with so frequent letters. But since it is the very love of God which obliges me to do this, I fear still more, if I should fail to obey. If then I have found any favour in your eyes, if there is still in you that justice and kindness which hitherto I have been able to trust to, I entreat a you by the Lord Jesus, and by that bond of brotherhood which you took upon you in our Chapter: I entreat you with my whole heart, and prostrate as a suppliant at your knees, to act according to mercy with Anseric, who is prepared to submit himself in all things (faithful and lawful) to your will. Consider the kindness which you may show to him as done to me. That his castle has 21 7 come into your hands, is in consequence of my advice. Nor do I regret to have thus advised, so much confidence have I in your truth and goodness.

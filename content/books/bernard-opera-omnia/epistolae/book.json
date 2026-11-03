@@ -8,7 +8,7 @@
   },
   "description": {
     "la": "Epistolae S. Bernardi, CDLX, ordine Mabillonii, cum epistolis ad eum scriptis quae inter eas typis expressae sunt. Textus ex editione Migne (Patrologia Latina 182, 1854).",
-    "en-US": "The 460 letters of Bernard of Clairvaux in Mabillon’s numbering, as printed in the Maurist text of Migne (Patrologia Latina 182, 1854): to popes, kings, bishops, monks and friends, each headed with its addressee and Mabillon’s summary, with a few letters to Bernard (Peter the Venerable’s reply, Eugene III’s letter to the Cistercian chapter) that Mabillon prints among them. Latin only, from a machine-corrected OCR. Letters 42 (On the conduct and office of bishops), 77 (On baptism) and 190 (Against the errors of Abelard) are the treatises Mabillon moved to the second tome; they are given here as letters.",
+    "en-US": "The 460 letters of Bernard of Clairvaux in Mabillon’s numbering, as printed in the Maurist text of Migne (Patrologia Latina 182, 1854): to popes, kings, bishops, monks and friends, each headed with its addressee and Mabillon’s summary, with a few letters to Bernard (Peter the Venerable’s reply, Eugene III’s letter to the Cistercian chapter) that Mabillon prints among them. Latin from a machine-corrected OCR. Letters 42 (On the conduct and office of bishops), 77 (On baptism) and 190 (Against the errors of Abelard) are the treatises Mabillon moved to the second tome; they are given here as letters. The English is Samuel J. Eales's (Life and Works of Saint Bernard, 1889–1896), with his notes: his numbering follows the Latin to 419, and the letters he adds (charters, letters to Bernard, and those found by Hüffer and others) follow the Latin as an English-only group.",
     "pt-BR": "As 460 cartas de Bernardo de Claraval, na numeração de Mabillon, a monges, bispos, papas, reis e amigos."
   },
   "composed": "1115-1153",
@@ -17,6 +17,10 @@
     "la": {
       "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182)",
       "year": 1854
+    },
+    "en-US": {
+      "translator": "Samuel J. Eales",
+      "year": "1889–1896"
     }
   },
   "sources": [
@@ -27,6 +31,14 @@
       "description": "All letters I-CDLX with their summaries (in italics) and Mabillon’s monita. PL page breaks, columns and the paragraph numbers are dropped. Where the printed numeral repeats a number and skips the next (the second CXX and CCXXI), the skipped number is restored (CXXI, CCXXIX).",
       "tier": "A",
       "tierEvidence": "Bernard died in 1153; Migne’s 1854 printing is public domain everywhere."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/saintbernardlife00bernuoft",
+      "edition": "Life and Works of Saint Bernard, Abbot of Clairvaux, ed. Dom John Mabillon, translated and edited with additional notes by Samuel J. Eales: vols. 1-2, second edition (London: Burns & Oates, n.d.; archive.org saintbernardlife00bernuoft, saintbernardlife02bernuoft), letters I-CCCLXXX; vol. 3 (London: John Hodges, 1896; archive.org lifeworksofsaint03bern), letters CCCLXXXI-CDXC.",
+      "description": "Archive.org OCR read from the word-coordinate files and cleaned by script, not proofread: running heads, page numbers and signature marks dropped, the translator's footnotes told from the text by their type and placed at their marker (or, where the OCR lost the marker, at the end of the text of their page). Eales's numbering is the Latin's for letters 1-419; his 420-454 are Latin 421-455, his 455 is Latin 420, and his 485-488 are Latin 457-460, so those chapters carry a line giving his number. His 456-484, 489 and 490 (charters, letters to Bernard, and the appendix of letters found since Mabillon) have no Latin here and are English-only chapters. Latin 456 (to Raymond, a doubtful letter) has no English. Letters 42 and 77 are given by Eales only as a note sending the reader to the treatises.",
+      "tier": "A",
+      "tierEvidence": "Eales died in 1910; the volumes were printed 1889-1896: public domain in the US."
     }
   ],
   "author": {
@@ -35,313 +47,365 @@
     "pt-BR": "São Bernardo de Claraval"
   },
   "languages": [
-    "la"
+    "la",
+    "en-US"
   ],
   "toc": [
     {
       "id": "epp-001-050",
       "title": {
-        "la": "Epistolae I-L"
+        "la": "Epistolae I-L",
+        "en-US": "Letters I–L"
       },
       "children": [
         {
           "id": "e001",
           "title": {
-            "la": "Epistola I. Ad Robertum Nepotem Suum, qui de Ordine Cisterciensi Transierat ad Cluniacensem"
+            "la": "Epistola I. Ad Robertum Nepotem Suum, qui de Ordine Cisterciensi Transierat ad Cluniacensem",
+            "en-US": "Letter I. To his Cousin Robert, who had Withdrawn from the Cistercian Order to the Cluniac"
           }
         },
         {
           "id": "e002",
           "title": {
-            "la": "Epistola II. Ad Fulconem Puerum qui Postea Fuit Lingonensis Archidiaconus"
+            "la": "Epistola II. Ad Fulconem Puerum qui Postea Fuit Lingonensis Archidiaconus",
+            "en-US": "Letter II. To a Youth Named Fulk, who Afterwards was Archdeacon of Langres"
           }
         },
         {
           "id": "e003",
           "title": {
-            "la": "Epistola III. Ad Canonicos Regulares de Aildicurte"
+            "la": "Epistola III. Ad Canonicos Regulares de Aildicurte",
+            "en-US": "Letter III. To the Canons Regular of Horricourt"
           }
         },
         {
           "id": "e004",
           "title": {
-            "la": "Epistola IV. Ad Arnoldum Abbatem Morimundi"
+            "la": "Epistola IV. Ad Arnoldum Abbatem Morimundi",
+            "en-US": "Letter IV. To Arnold, Abbot of Morimond"
           }
         },
         {
           "id": "e005",
           "title": {
-            "la": "Epistola V. Ad Adam Monachum"
+            "la": "Epistola V. Ad Adam Monachum",
+            "en-US": "Letter V. To a Monk Adam"
           }
         },
         {
           "id": "e006",
           "title": {
-            "la": "Epistola VI. Ad Brunonem Coloniensem"
+            "la": "Epistola VI. Ad Brunonem Coloniensem",
+            "en-US": "Letter VI. To Bruno of Cologne"
           }
         },
         {
           "id": "e007",
           "title": {
-            "la": "Epistola VII. Ad Adam Monachum"
+            "la": "Epistola VII. Ad Adam Monachum",
+            "en-US": "Letter VII. To the Monk Adam"
           }
         },
         {
           "id": "e008",
           "title": {
-            "la": "Epistola VIII. Ad Brunonem Coloniensem Electum"
+            "la": "Epistola VIII. Ad Brunonem Coloniensem Electum",
+            "en-US": "Letter VIII. To Bruno, Archbishop Elect of Cologne"
           }
         },
         {
           "id": "e009",
           "title": {
-            "la": "Epistola IX. Ad eumdem Jam Archiepiscopum Coloniensem"
+            "la": "Epistola IX. Ad eumdem Jam Archiepiscopum Coloniensem",
+            "en-US": "Letter IX. To the Same, Then Archbishop of Cologne"
           }
         },
         {
           "id": "e010",
           "title": {
-            "la": "Epistola X. Ad eumdem"
+            "la": "Epistola X. Ad eumdem",
+            "en-US": "Letter X. To the Same"
           }
         },
         {
           "id": "e011",
           "title": {
-            "la": "Epistola XI. Ad Guigonem Priorem, et Caeteros Cartusiae Majoris Religiosos"
+            "la": "Epistola XI. Ad Guigonem Priorem, et Caeteros Cartusiae Majoris Religiosos",
+            "en-US": "Letter XI. To Guigues, the Prior, and to the Other Monks of the Grand Chartreuse"
           }
         },
         {
           "id": "e012",
           "title": {
-            "la": "Epistola XII. Ad eosdem"
+            "la": "Epistola XII. Ad eosdem",
+            "en-US": "Letter XII. To the Same"
           }
         },
         {
           "id": "e013",
           "title": {
-            "la": "Epistola XIII. Ad Dominum Papam Honorium"
+            "la": "Epistola XIII. Ad Dominum Papam Honorium",
+            "en-US": "Letter XIII. To the Lord Pope Honorius"
           }
         },
         {
           "id": "e014",
           "title": {
-            "la": "Epistola XIV. Ad eumdem Honorium Papam"
+            "la": "Epistola XIV. Ad eumdem Honorium Papam",
+            "en-US": "Letter XIV. To the Same Pope Honor Lus"
           }
         },
         {
           "id": "e015",
           "title": {
-            "la": "Epistola XV. Ad Haimericum Cancellarium"
+            "la": "Epistola XV. Ad Haimericum Cancellarium",
+            "en-US": "Letter XV. To Haimeric the Chancellor"
           }
         },
         {
           "id": "e016",
           "title": {
-            "la": "Epistola XVI. Ad Petrum Presbyterum Cardinalem"
+            "la": "Epistola XVI. Ad Petrum Presbyterum Cardinalem",
+            "en-US": "Letter XVI. To Peter, Cardinal Presbyter"
           }
         },
         {
           "id": "e017",
           "title": {
-            "la": "Epistola XVII. Ad Petrum Diaconum Cardinalem"
+            "la": "Epistola XVII. Ad Petrum Diaconum Cardinalem",
+            "en-US": "Letter XVII. To Peter, Cardinal Deacon.!"
           }
         },
         {
           "id": "e018",
           "title": {
-            "la": "Epistola XVIII. Ad eumdem"
+            "la": "Epistola XVIII. Ad eumdem",
+            "en-US": "Letter XVIII. To the Same"
           }
         },
         {
           "id": "e019",
           "title": {
-            "la": "Epistola XIX. Ad eumdem"
+            "la": "Epistola XIX. Ad eumdem",
+            "en-US": "Letter XIX. To Thf, Same"
           }
         },
         {
           "id": "e020",
           "title": {
-            "la": "Epistola XX. Ad Haimericum Cancellarium"
+            "la": "Epistola XX. Ad Haimericum Cancellarium",
+            "en-US": "Letter XX. To Haimkric, the Chaxcellor, Ox the Same Subject"
           }
         },
         {
           "id": "e021",
           "title": {
-            "la": "Epistola XXI. Ad Matthaeum Legatum"
+            "la": "Epistola XXI. Ad Matthaeum Legatum",
+            "en-US": "Letter XXI. To Matthew. the Legate.1"
           }
         },
         {
           "id": "e022",
           "title": {
-            "la": "Epistola XXII. Ad Humbaldum Lugdunensem Archiepiscopum et Legatum"
+            "la": "Epistola XXII. Ad Humbaldum Lugdunensem Archiepiscopum et Legatum",
+            "en-US": "Letter XXII. To Humbald, Archbishop of Lyons and Legate"
           }
         },
         {
           "id": "e023",
           "title": {
-            "la": "Epistola XXIII. Ad Attonem Trecensem Episcopum"
+            "la": "Epistola XXIII. Ad Attonem Trecensem Episcopum",
+            "en-US": "Letter XXIII. To Atto, Bishop of Troves"
           }
         },
         {
           "id": "e024",
           "title": {
-            "la": "Epistola XXIV. Ad Magistrum Gillebertum Universalem, Episcopum Londoniensem"
+            "la": "Epistola XXIV. Ad Magistrum Gillebertum Universalem, Episcopum Londoniensem",
+            "en-US": "Letter XXIV. To Gilbert, Bishop of London, Universal Doctor. R"
           }
         },
         {
           "id": "e025",
           "title": {
-            "la": "Epistola XXV. Ad Hugonem, Rotomagensem Archiepiscopum"
+            "la": "Epistola XXV. Ad Hugonem, Rotomagensem Archiepiscopum",
+            "en-US": "Letter XXV. To Hugo, Archbishop of Rouen.3"
           }
         },
         {
           "id": "e026",
           "title": {
-            "la": "Epistola XXVI. Ad Guidonem Lausannensem Episcopum"
+            "la": "Epistola XXVI. Ad Guidonem Lausannensem Episcopum",
+            "en-US": "Letter XXVI. To Guy, Bishop of Lausanne"
           }
         },
         {
           "id": "e027",
           "title": {
-            "la": "Epistola XXVII. Ad Ardutionem Gebennensem Electum"
+            "la": "Epistola XXVII. Ad Ardutionem Gebennensem Electum",
+            "en-US": "Letter XXVII. To Ardutio (or Ardutius), Bishop Elect of Geneva"
           }
         },
         {
           "id": "e028",
           "title": {
-            "la": "Epistola XXVIII. Ad eumdem Jam Episcopum"
+            "la": "Epistola XXVIII. Ad eumdem Jam Episcopum",
+            "en-US": "Letter XXVIII. To the Same, When Bishop"
           }
         },
         {
           "id": "e029",
           "title": {
-            "la": "Epistola XXIX. Ad Stephanum Metensem Episcopum"
+            "la": "Epistola XXIX. Ad Stephanum Metensem Episcopum",
+            "en-US": "Letter XXIX. To Stephen, Bishop of Metz"
           }
         },
         {
           "id": "e030",
           "title": {
-            "la": "Epistola XXX. Ad Alberonem Primicerium Metensem"
+            "la": "Epistola XXX. Ad Alberonem Primicerium Metensem",
+            "en-US": "Letter XXX. To Albero, Primicerius of Metz"
           }
         },
         {
           "id": "e031",
           "title": {
-            "la": "Epistola XXXI. Ad Hugonem Comitem Campaniae, Militem Templi Factum"
+            "la": "Epistola XXXI. Ad Hugonem Comitem Campaniae, Militem Templi Factum",
+            "en-US": "Letter XXXI. To Huco, Count of Champagne, who had Become a Knight of the Temple"
           }
         },
         {
           "id": "e032",
           "title": {
-            "la": "Epistola XXXII. Ad Abbatem Sancti-nicasii Remensis"
+            "la": "Epistola XXXII. Ad Abbatem Sancti-nicasii Remensis",
+            "en-US": "Letter XXXII. To the Abbot of Saint Nicasius at Rheims"
           }
         },
         {
           "id": "e033",
           "title": {
-            "la": "Epistola XXXIII. Ad Hugonem Pontiniacensem Abbatem"
+            "la": "Epistola XXXIII. Ad Hugonem Pontiniacensem Abbatem",
+            "en-US": "Letter XXXIII. To Hugo, Abbot of Pontigny"
           }
         },
         {
           "id": "e034",
           "title": {
-            "la": "Epistola XXXIV. Ad Drogonem Monachum"
+            "la": "Epistola XXXIV. Ad Drogonem Monachum",
+            "en-US": "Letter XXXIV. To Drogo, the Monk"
           }
         },
         {
           "id": "e035",
           "title": {
-            "la": "Epistola XXXV. Ad Magistrum Hugonem Farsitum"
+            "la": "Epistola XXXV. Ad Magistrum Hugonem Farsitum",
+            "en-US": "Letter XXXV. To Magister Hugo Farsrr"
           }
         },
         {
           "id": "e036",
           "title": {
-            "la": "Epistola XXXVI. Ad eumdem"
+            "la": "Epistola XXXVI. Ad eumdem",
+            "en-US": "Letter XXXVI. To the Same"
           }
         },
         {
           "id": "e037",
           "title": {
-            "la": "Epistola XXXVII. Ad Theobaldum Comitem Campaniae"
+            "la": "Epistola XXXVII. Ad Theobaldum Comitem Campaniae",
+            "en-US": "Letter XXXVII. To Theobald, Count of Champagne.2"
           }
         },
         {
           "id": "e038",
           "title": {
-            "la": "Epistola XXXVIII. Ad eumdem"
+            "la": "Epistola XXXVIII. Ad eumdem",
+            "en-US": "Letter XXXVIII. To the Same, on the Same Subject"
           }
         },
         {
           "id": "e039",
           "title": {
-            "la": "Epistola XXXIX. Ad eumdem"
+            "la": "Epistola XXXIX. Ad eumdem",
+            "en-US": "Letter XXXIX. To the Same"
           }
         },
         {
           "id": "e040",
           "title": {
-            "la": "Epistola XL. Ad eumdem"
+            "la": "Epistola XL. Ad eumdem",
+            "en-US": "Letter XL. To the Same"
           }
         },
         {
           "id": "e041",
           "title": {
-            "la": "Epistola XLI. Ad eumdem"
+            "la": "Epistola XLI. Ad eumdem",
+            "en-US": "Letter XLI. To the Same"
           }
         },
         {
           "id": "e042",
           "title": {
-            "la": "Epistola XLII. Ad Henricum Senonensem Archiepiscopum"
+            "la": "Epistola XLII. Ad Henricum Senonensem Archiepiscopum",
+            "en-US": "Letter XLII. To Henry, Archbishop of Sens"
           }
         },
         {
           "id": "e043",
           "title": {
-            "la": "Epistola XLIII. Ad eumdem Henricum"
+            "la": "Epistola XLIII. Ad eumdem Henricum",
+            "en-US": "Letter XLIII. To the Same Henry"
           }
         },
         {
           "id": "e044",
           "title": {
-            "la": "Epistola XLIV. Ad eumdem"
+            "la": "Epistola XLIV. Ad eumdem",
+            "en-US": "Letter XLIV. To the Same, on the Same Subject"
           }
         },
         {
           "id": "e045",
           "title": {
-            "la": "Epistola XLV. Ad Ludovicum Regem Francorum"
+            "la": "Epistola XLV. Ad Ludovicum Regem Francorum",
+            "en-US": "Letter XLV. To Louis, King of France"
           }
         },
         {
           "id": "e046",
           "title": {
-            "la": "Epistola XLVI. Ad Dominum Papam Honorium Ii"
+            "la": "Epistola XLVI. Ad Dominum Papam Honorium Ii",
+            "en-US": "Letter XLVI. To the Lord Pope Honorius II., on the Same Subject"
           }
         },
         {
           "id": "e047",
           "title": {
-            "la": "Epistola XLVII. Ad eumdem ex Persona Gaufridi Carnotensis Episcopi"
+            "la": "Epistola XLVII. Ad eumdem ex Persona Gaufridi Carnotensis Episcopi",
+            "en-US": "Letter XLVII. To the Same Pope, in the Name of Geoffrey, Bishop of Chartres"
           }
         },
         {
           "id": "e048",
           "title": {
-            "la": "Epistola XLVIII. Ad Haimericum Cancellarium, Unde Supra, et contra Obtrectatores"
+            "la": "Epistola XLVIII. Ad Haimericum Cancellarium, Unde Supra, et contra Obtrectatores",
+            "en-US": "Letter XLVIII. To Haimeric, the Chancellor, on the Same Subject, and Against Detractors"
           }
         },
         {
           "id": "e049",
           "title": {
-            "la": "Epistola XLIX. Ad Dominum Papam Honorium, pro Henrico Senonensi Archiepiscopo"
+            "la": "Epistola XLIX. Ad Dominum Papam Honorium, pro Henrico Senonensi Archiepiscopo",
+            "en-US": "Letter XLIX. To the Lord Pope Honorius, on Behalf of Henry, Archbishop of Sens"
           }
         },
         {
           "id": "e050",
           "title": {
-            "la": "Epistola L. Ad eumdem"
+            "la": "Epistola L. Ad eumdem",
+            "en-US": "Letter L. To the Same, on the Same Subject"
           }
         }
       ]
@@ -349,307 +413,358 @@
     {
       "id": "epp-051-100",
       "title": {
-        "la": "Epistolae LI-C"
+        "la": "Epistolae LI-C",
+        "en-US": "Letters LI–C"
       },
       "children": [
         {
           "id": "e051",
           "title": {
-            "la": "Epistola LI. Ad Haimericum Cancellarium"
+            "la": "Epistola LI. Ad Haimericum Cancellarium",
+            "en-US": "Letter LI. To Haimeric, the Chancellor, on the Same Subject"
           }
         },
         {
           "id": "e052",
           "title": {
-            "la": "Epistola LII. Ad eumdem"
+            "la": "Epistola LII. Ad eumdem",
+            "en-US": "Letter LII. To the Same"
           }
         },
         {
           "id": "e053",
           "title": {
-            "la": "Epistola LIII. Ad eumdem"
+            "la": "Epistola LIII. Ad eumdem",
+            "en-US": "Letter LIII. To the Same"
           }
         },
         {
           "id": "e054",
           "title": {
-            "la": "Epistola LIV. Ad eumdem"
+            "la": "Epistola LIV. Ad eumdem",
+            "en-US": "Letter LIV. To the Same"
           }
         },
         {
           "id": "e055",
           "title": {
-            "la": "Epistola LV. Ad Gaufridum Carnotensem Episcopum"
+            "la": "Epistola LV. Ad Gaufridum Carnotensem Episcopum",
+            "en-US": "Letter LV. To Geoffrey, Bishop of Chartres"
           }
         },
         {
           "id": "e056",
           "title": {
-            "la": "Epistola LVI. Ad eumdem"
+            "la": "Epistola LVI. Ad eumdem",
+            "en-US": "Letter LVI. To the Same"
           }
         },
         {
           "id": "e057",
           "title": {
-            "la": "Epistola LVII. Ad eumdem"
+            "la": "Epistola LVII. Ad eumdem",
+            "en-US": "Letter LVII. To the Same"
           }
         },
         {
           "id": "e058",
           "title": {
-            "la": "Epistola LVIII. Ad Ebalum Catalaunensem Episcopum"
+            "la": "Epistola LVIII. Ad Ebalum Catalaunensem Episcopum",
+            "en-US": "Letter LVIII. To Ebal, Bishop of Chalons-SUR-MARNE"
           }
         },
         {
           "id": "e059",
           "title": {
-            "la": "Epistola LIX. Ad Guilencum Lingonensem Episcopum"
+            "la": "Epistola LIX. Ad Guilencum Lingonensem Episcopum",
+            "en-US": "Letter LIX. To Guilencus, Bishop of Langres"
           }
         },
         {
           "id": "e060",
           "title": {
-            "la": "Epistola LX. Ad eumdem"
+            "la": "Epistola LX. Ad eumdem",
+            "en-US": "Letter LX. To the Same"
           }
         },
         {
           "id": "e061",
           "title": {
-            "la": "Epistola LXI. Ad Ricuinum Tullensem Episcopum"
+            "la": "Epistola LXI. Ad Ricuinum Tullensem Episcopum",
+            "en-US": "Letter LXI. To Ricuin, Bishop of Toul, in Lorraine"
           }
         },
         {
           "id": "e062",
           "title": {
-            "la": "Epistola LXII. Ad Henricum Virdunensem Episcopum"
+            "la": "Epistola LXII. Ad Henricum Virdunensem Episcopum",
+            "en-US": "Letter LXII. To Henry/ Bishop of Verdun"
           }
         },
         {
           "id": "e063",
           "title": {
-            "la": "Epistola LXIII. Ad eumdem"
+            "la": "Epistola LXIII. Ad eumdem",
+            "en-US": "Letter LXIII. To the Same"
           }
         },
         {
           "id": "e064",
           "title": {
-            "la": "Epistola LXIV. Ad Alexandrum Lincolniensem Episcopum"
+            "la": "Epistola LXIV. Ad Alexandrum Lincolniensem Episcopum",
+            "en-US": "Letter LXIV. To Alexander, Blshop of Lincoln"
           }
         },
         {
           "id": "e065",
           "title": {
-            "la": "Epistola LXV. Ad Alvisum Abbatem Aquiscincti"
+            "la": "Epistola LXV. Ad Alvisum Abbatem Aquiscincti",
+            "en-US": "Letter LXV. To Alvisus, Abbot of Anchin"
           }
         },
         {
           "id": "e066",
           "title": {
-            "la": "Epistola LXVI. Ad Gaufridum Abbatem Sancti-medardi"
+            "la": "Epistola LXVI. Ad Gaufridum Abbatem Sancti-medardi",
+            "en-US": "Letter LXVI. To Geoffrey, Abbot of S. Medard"
           }
         },
         {
           "id": "e067",
           "title": {
-            "la": "Epistola LXVII. Ad Monachos Flaviacenses"
+            "la": "Epistola LXVII. Ad Monachos Flaviacenses",
+            "en-US": "Letter LXVII. To the Monks of Flay"
           }
         },
         {
           "id": "e068",
           "title": {
-            "la": "Epistola LXVIII. Ad eosdem"
+            "la": "Epistola LXVIII. Ad eosdem",
+            "en-US": "Letter LXVIII. To the Same, Upon the Same Subject"
           }
         },
         {
           "id": "e069",
           "title": {
-            "la": "Epistola LXIX. Ad Guidonem Abbatem de Tribus-fontibus"
+            "la": "Epistola LXIX. Ad Guidonem Abbatem de Tribus-fontibus",
+            "en-US": "Letter LXIX. To Guv, Abbot of Trois Fontaines"
           }
         },
         {
           "id": "e070",
           "title": {
-            "la": "Epistola LXX. Ad eumdem"
+            "la": "Epistola LXX. Ad eumdem",
+            "en-US": "Letter LXX. To the Same"
           }
         },
         {
           "id": "e071",
           "title": {
-            "la": "Epistola LXXI. Ab Monachos Ejusdem Loci"
+            "la": "Epistola LXXI. Ab Monachos Ejusdem Loci",
+            "en-US": "Letter LXXI. To the Monks of the Same Place"
           }
         },
         {
           "id": "e072",
           "title": {
-            "la": "Epistola LXXII. Ad Rainaldum Fusniacensem Abbatem"
+            "la": "Epistola LXXII. Ad Rainaldum Fusniacensem Abbatem",
+            "en-US": "Letter LXXII. To Rainald, Abbot of Foigny"
           }
         },
         {
           "id": "e073",
           "title": {
-            "la": "Epistola LXXIII. Ad eumdem"
+            "la": "Epistola LXXIII. Ad eumdem",
+            "en-US": "Letter LXXIII. To the Same"
           }
         },
         {
           "id": "e074",
           "title": {
-            "la": "Epistola LXXIV. Ad eumdem"
+            "la": "Epistola LXXIV. Ad eumdem",
+            "en-US": "Letter LXXIV. To the Same"
           }
         },
         {
           "id": "e075",
           "title": {
-            "la": "Epistola LXXV. Ad Artaldum Prulliacencem Abbatem"
+            "la": "Epistola LXXV. Ad Artaldum Prulliacencem Abbatem",
+            "en-US": "Letter LXXV. To Artaud, Abbot of Prully"
           }
         },
         {
           "id": "e076",
           "title": {
-            "la": "Epistola LXXVI. Ad Abbatem Canonicorum S. Petri-de-monte"
+            "la": "Epistola LXXVI. Ad Abbatem Canonicorum S. Petri-de-monte",
+            "en-US": "Letter LXXVI. To the Abbot of the Regular Canons of S. Plerremont"
           }
         },
         {
           "id": "e077",
           "title": {
-            "la": "Epistola LXXVII. Ad Magistrum Hugonem de S. Victore"
+            "la": "Epistola LXXVII. Ad Magistrum Hugonem de S. Victore",
+            "en-US": "Letter LXXVII. To Magister Hugo, of S. Victor"
           }
         },
         {
           "id": "e078",
           "title": {
-            "la": "Epistola LXXVIII. Ad Sugerium Abbatem Sancti Dionysii"
+            "la": "Epistola LXXVIII. Ad Sugerium Abbatem Sancti Dionysii",
+            "en-US": "Letter LXXVIII. To Suger, Abbot of S. Denis"
           }
         },
         {
           "id": "e079",
           "title": {
-            "la": "Epistola LXXIX. Ad Abbatem Lucam"
+            "la": "Epistola LXXIX. Ad Abbatem Lucam",
+            "en-US": "Letter LXXIX. To Abbot Luke"
           }
         },
         {
           "id": "e080",
           "title": {
-            "la": "Epistola LXXX. Ad Guidonem Abbatem Molismensem"
+            "la": "Epistola LXXX. Ad Guidonem Abbatem Molismensem",
+            "en-US": "Letter LXXX. To Guy, Abbot of Molesmes"
           }
         },
         {
           "id": "e081",
           "title": {
-            "la": "Epistola LXXXI. Ad Gerardum Abbatem Pultariensem"
+            "la": "Epistola LXXXI. Ad Gerardum Abbatem Pultariensem",
+            "en-US": "Letter LXXXI. To Gerard, Abbot of Pottieres"
           }
         },
         {
           "id": "e082",
           "title": {
-            "la": "Epistola LXXXII. Ad Abbatem Sancti Joannis Carnotensis"
+            "la": "Epistola LXXXII. Ad Abbatem Sancti Joannis Carnotensis",
+            "en-US": "Letter LXXXII. To the Abbot of S. John at Chartres"
           }
         },
         {
           "id": "e083",
           "title": {
-            "la": "Epistola LXXXIII. Ad Simonem Abbatem Sancti Nicolai"
+            "la": "Epistola LXXXIII. Ad Simonem Abbatem Sancti Nicolai",
+            "en-US": "Letter LXXXIII. To Simon, Abbot of S. Nicholas. L"
           }
         },
         {
           "id": "e084",
           "title": {
-            "la": "Epistola LXXXIV. Ad eumdem"
+            "la": "Epistola LXXXIV. Ad eumdem",
+            "en-US": "Letter LXXXIV. To the Same"
           }
         },
         {
           "id": "e085",
           "title": {
-            "la": "Epistola LXXXV. Ad eumdem Guillelmum"
+            "la": "Epistola LXXXV. Ad eumdem Guillelmum",
+            "en-US": "Letter LXXXV. To the Same Wllliam"
           }
         },
         {
           "id": "e086",
           "title": {
-            "la": "Epistola LXXXVI. Ad eumdem"
+            "la": "Epistola LXXXVI. Ad eumdem",
+            "en-US": "Letter LXXXVI. To the Same"
           }
         },
         {
           "id": "e087",
           "title": {
-            "la": "Epistola LXXXVII. Ad Ogerium Canonicum Regularem"
+            "la": "Epistola LXXXVII. Ad Ogerium Canonicum Regularem",
+            "en-US": "Letter LXXXVII. To Oger, Regular Canon"
           }
         },
         {
           "id": "e088",
           "title": {
-            "la": "Epistola LXXXVIII. Ad eumdem"
+            "la": "Epistola LXXXVIII. Ad eumdem",
+            "en-US": "Letter LXXXVIII. To the Same"
           }
         },
         {
           "id": "e089",
           "title": {
-            "la": "Epistola LXXXIX. Ad eumdem"
+            "la": "Epistola LXXXIX. Ad eumdem",
+            "en-US": "Letter LXXXIX. To the Same"
           }
         },
         {
           "id": "e090",
           "title": {
-            "la": "Epistola XC. Ad eumdem"
+            "la": "Epistola XC. Ad eumdem",
+            "en-US": "Letter XC. To the Same"
           }
         },
         {
           "id": "e091",
           "title": {
-            "la": "Epistola XCI. Ad Abbates Suessione Congregatos"
+            "la": "Epistola XCI. Ad Abbates Suessione Congregatos",
+            "en-US": "Letter XCI. To the Abbots Assembled at Soissons"
           }
         },
         {
           "id": "e092",
           "title": {
-            "la": "Epistola XCII. Ad Henricum Regem Anglorum"
+            "la": "Epistola XCII. Ad Henricum Regem Anglorum",
+            "en-US": "Letter XCII. To Henry, King of England"
           }
         },
         {
           "id": "e093",
           "title": {
-            "la": "Epistola XCIII. Ad Henricum Wintoniensem Episcopum"
+            "la": "Epistola XCIII. Ad Henricum Wintoniensem Episcopum",
+            "en-US": "Letter XCIII. To Henry, Bishop of Winchester"
           }
         },
         {
           "id": "e094",
           "title": {
-            "la": "Epistola XCIV. Ad Abbatem Cujusdam Monasterii Eboracensis, Unde Exierat Prior cum Aliquantis Fratribus"
+            "la": "Epistola XCIV. Ad Abbatem Cujusdam Monasterii Eboracensis, Unde Exierat Prior cum Aliquantis Fratribus",
+            "en-US": "Letter XCIV. To the Abbot of a Certain Monastery at York, from which the Prior had Departed, Taking Several Religious with Him"
           }
         },
         {
           "id": "e095",
           "title": {
-            "la": "Epistola XCV. Ad Turstinum Archiepiscopum Eboracensem"
+            "la": "Epistola XCV. Ad Turstinum Archiepiscopum Eboracensem",
+            "en-US": "Letter XCV. To Thurstan, Archbishop of York"
           }
         },
         {
           "id": "e096",
           "title": {
-            "la": "Epistola XCVI. Ad Richardum Fontanensem Abbatem, et Socios Ejus, qui de Alio Ordine ad Cisterciensem Transierant"
+            "la": "Epistola XCVI. Ad Richardum Fontanensem Abbatem, et Socios Ejus, qui de Alio Ordine ad Cisterciensem Transierant",
+            "en-US": "Letter XCVI. To Richard/ Abbot of Fountains/* and his Com Panions, who had Passed Over to the Clstercian Order from Another"
           }
         },
         {
           "id": "e097",
           "title": {
-            "la": "Epistola XCVII. Ad Ducem Conradum"
+            "la": "Epistola XCVII. Ad Ducem Conradum",
+            "en-US": "Letter XCVII. To Duke Conrad"
           }
         },
         {
           "id": "e098",
           "title": {
-            "la": "Epistola XCVIII. De Machabaeis, Sed ad Quem Scripta Sit Ignoratur"
+            "la": "Epistola XCVIII. De Machabaeis, Sed ad Quem Scripta Sit Ignoratur",
+            "en-US": "Letter XCVIII. Concerning the Maccabees, but to whom Written is Unknown"
           }
         },
         {
           "id": "e099",
           "title": {
-            "la": "Epistola XCIX. Ad Monachum Quemdam"
+            "la": "Epistola XCIX. Ad Monachum Quemdam",
+            "en-US": "Letter XCIX. To a Certain Monk"
           }
         },
         {
           "id": "e100",
           "title": {
-            "la": "Epistola C. Ad Episcopum Quemdam"
+            "la": "Epistola C. Ad Episcopum Quemdam",
+            "en-US": "Letter C. To a Certain Blshop"
           }
         }
       ]
@@ -657,307 +772,358 @@
     {
       "id": "epp-101-150",
       "title": {
-        "la": "Epistolae CI-CL"
+        "la": "Epistolae CI-CL",
+        "en-US": "Letters CI–CL"
       },
       "children": [
         {
           "id": "e101",
           "title": {
-            "la": "Epistola CI. Ad Religiosos"
+            "la": "Epistola CI. Ad Religiosos",
+            "en-US": "Letter CI. To Certain Monks"
           }
         },
         {
           "id": "e102",
           "title": {
-            "la": "Epistola CII. Ad Quemdam Abbatem"
+            "la": "Epistola CII. Ad Quemdam Abbatem",
+            "en-US": "Letter CII. To a Certain Abbot"
           }
         },
         {
           "id": "e103",
           "title": {
-            "la": "Epistola CIII. Ad Fratrem Willelmi Monachi Clarae-vallensis"
+            "la": "Epistola CIII. Ad Fratrem Willelmi Monachi Clarae-vallensis",
+            "en-US": "Letter CIII. To the Brother of William, a Monk of Clairvaux"
           }
         },
         {
           "id": "e104",
           "title": {
-            "la": "Epistola CIV. Ad Magistrum Gualterum de Calvo-monte"
+            "la": "Epistola CIV. Ad Magistrum Gualterum de Calvo-monte",
+            "en-US": "Letter CIV. To Magister X Walter De Chaumont"
           }
         },
         {
           "id": "e105",
           "title": {
-            "la": "Epistola CV. Ad Romanum Romanae Curiae Subdiaconum"
+            "la": "Epistola CV. Ad Romanum Romanae Curiae Subdiaconum",
+            "en-US": "Letter CV. To Romanus, Sub-DEACON of the Roman Curia"
           }
         },
         {
           "id": "e106",
           "title": {
-            "la": "Epistola CVI. Ad Magistrum Henricum Murdach"
+            "la": "Epistola CVI. Ad Magistrum Henricum Murdach",
+            "en-US": "Letter CVI. To Magister Henry Murdach"
           }
         },
         {
           "id": "e107",
           "title": {
-            "la": "Epistola CVII. Ad Thomam Praepositum de Beverla"
+            "la": "Epistola CVII. Ad Thomam Praepositum de Beverla",
+            "en-US": "Letter CVII. To Thomas, Prior of Beverley.1"
           }
         },
         {
           "id": "e108",
           "title": {
-            "la": "Epistola CVIII. Ad Thomam de Sancto-audomaro, Post Transgressionem Promissionis Suae Veniendi ad Conversionem"
+            "la": "Epistola CVIII. Ad Thomam de Sancto-audomaro, Post Transgressionem Promissionis Suae Veniendi ad Conversionem",
+            "en-US": "Letter CVIII. To Thomas of St. Omer/ After he had Broken his Promise of Adopting a Change of Life"
           }
         },
         {
           "id": "e109",
           "title": {
-            "la": "Epistola CIX. Ad Illustrem Juvenem Gaufridum de Perrona, et Socios Ejus"
+            "la": "Epistola CIX. Ad Illustrem Juvenem Gaufridum de Perrona, et Socios Ejus",
+            "en-US": "Letter CIX. To the Illustrious Youth, Geoffrey De Perrone, and his Comrades"
           }
         },
         {
           "id": "e110",
           "title": {
-            "la": "Epistola CX. Ad Parentes Ejusdem Gaufridi Consolatoria"
+            "la": "Epistola CX. Ad Parentes Ejusdem Gaufridi Consolatoria",
+            "en-US": "Letter CX. A Consolatory Letter to the Parents of Geoffrey"
           }
         },
         {
           "id": "e111",
           "title": {
-            "la": "Epistola CXI. Ex Persona Eliae Monachi ad Parentes suos"
+            "la": "Epistola CXI. Ex Persona Eliae Monachi ad Parentes suos",
+            "en-US": "Letter CXI. In the Person of Elias, a Monk, to his Parents"
           }
         },
         {
           "id": "e112",
           "title": {
-            "la": "Epistola CXII. Ad Gaufridum Lexoviensem"
+            "la": "Epistola CXII. Ad Gaufridum Lexoviensem",
+            "en-US": "Letter CXII. To Geoffrey, of Lisieux"
           }
         },
         {
           "id": "e113",
           "title": {
-            "la": "Epistola CXIII. Ad Sophiam Virginem"
+            "la": "Epistola CXIII. Ad Sophiam Virginem",
+            "en-US": "Letter CXIII. To the Virgin Sophia"
           }
         },
         {
           "id": "e114",
           "title": {
-            "la": "Epistola CXIV. Ad Alteram Sanctimonialem"
+            "la": "Epistola CXIV. Ad Alteram Sanctimonialem",
+            "en-US": "Letter CXIV. To Another Holy Virgin"
           }
         },
         {
           "id": "e115",
           "title": {
-            "la": "Epistola CXV. Ad Aliam Sanctimonialem de Monasterio Sanctae Mariae Trecensis"
+            "la": "Epistola CXV. Ad Aliam Sanctimonialem de Monasterio Sanctae Mariae Trecensis",
+            "en-US": "Letter CXV. To Another Holy Virgin of the Convent of S. Mary of Troyes"
           }
         },
         {
           "id": "e116",
           "title": {
-            "la": "Epistola CXVI. Ad Ermengardem Quondam Comitissam Britanniae"
+            "la": "Epistola CXVI. Ad Ermengardem Quondam Comitissam Britanniae",
+            "en-US": "Letter CXVI. To Ermengarde, Formerly Countess of Brittany. L"
           }
         },
         {
           "id": "e117",
           "title": {
-            "la": "Epistola CXVII. Ad eamdem"
+            "la": "Epistola CXVII. Ad eamdem",
+            "en-US": "Letter CXVII. To the Same"
           }
         },
         {
           "id": "e118",
           "title": {
-            "la": "Epistola CXVIII. Ad Beatricem Nobilem et Religiosam Matronam"
+            "la": "Epistola CXVIII. Ad Beatricem Nobilem et Religiosam Matronam",
+            "en-US": "Letter CXVIII. To Beatrice, a Noble and Religious Lady"
           }
         },
         {
           "id": "e119",
           "title": {
-            "la": "Epistola CXIX. Ad Ducem et Ducissam Lotharingiae"
+            "la": "Epistola CXIX. Ad Ducem et Ducissam Lotharingiae",
+            "en-US": "Letter CXIX. To the Duke and Duchess of Lorraine"
           }
         },
         {
           "id": "e120",
           "title": {
-            "la": "Epistola CXX. Ad Ducissam Lotharingiae"
+            "la": "Epistola CXX. Ad Ducissam Lotharingiae",
+            "en-US": "Letter CXX. To the Duchess of Lorraine"
           }
         },
         {
           "id": "e121",
           "title": {
-            "la": "Epistola CXXI. Ad Ducissam Burgundiae"
+            "la": "Epistola CXXI. Ad Ducissam Burgundiae",
+            "en-US": "Letter CXXI. To the Duchess of Burgundy"
           }
         },
         {
           "id": "e122",
           "title": {
-            "la": "Epistola CXXII. Hildeberti Turonensis Archiepiscopi ad Bernardum Abbatem"
+            "la": "Epistola CXXII. Hildeberti Turonensis Archiepiscopi ad Bernardum Abbatem",
+            "en-US": "Letter CXXII. Hlldebert, Archbishop of Tours, to the Abbot Bernard"
           }
         },
         {
           "id": "e123",
           "title": {
-            "la": "Epistola CXXIII. Rescriptum Abbatis Bernardi ad Hildebertum Turonensem Archiepiscopum"
+            "la": "Epistola CXXIII. Rescriptum Abbatis Bernardi ad Hildebertum Turonensem Archiepiscopum",
+            "en-US": "Letter CXXIII. Reply of the Abbot Bernard to Hildebert, Arch Bishop of Tours"
           }
         },
         {
           "id": "e124",
           "title": {
-            "la": "Epistola CXXIV. Ad eumdem Hildebertum, qui Nondum Receperat Dominum Innocentium Papam"
+            "la": "Epistola CXXIV. Ad eumdem Hildebertum, qui Nondum Receperat Dominum Innocentium Papam",
+            "en-US": "Letter CXXIV. To the Same Hildebert, who had not Yet Acknow Ledged the Lord Innocent as Pope"
           }
         },
         {
           "id": "e125",
           "title": {
-            "la": "Epistola CXXV. Ad Magistrum Gaufridum de Loratorio"
+            "la": "Epistola CXXV. Ad Magistrum Gaufridum de Loratorio",
+            "en-US": "Letter CXXV. To Magister Geoffrey, of Loretto.X"
           }
         },
         {
           "id": "e126",
           "title": {
-            "la": "Epistola CXXVI. Ad Episcopos Aquitaniae contra Gerardum Engolismensem"
+            "la": "Epistola CXXVI. Ad Episcopos Aquitaniae contra Gerardum Engolismensem",
+            "en-US": "Letter CXXVI. To the Bishops of Aquitaine, Against Gerard of Angouleme"
           }
         },
         {
           "id": "e127",
           "title": {
-            "la": "Epistola CXXVII. Ad Guillelmum Comitem Pictavorum, Ducem Aquitaniae, ex Persona Hugonis Ducis Rurgundiae"
+            "la": "Epistola CXXVII. Ad Guillelmum Comitem Pictavorum, Ducem Aquitaniae, ex Persona Hugonis Ducis Rurgundiae",
+            "en-US": "Letter CXXVII. To William, Count of Poitou and Duke of Aquitaine, in the Name of Hugh, Duke of Burgundy"
           }
         },
         {
           "id": "e128",
           "title": {
-            "la": "Epistola CXXVIII. Ad eumdem"
+            "la": "Epistola CXXVIII. Ad eumdem",
+            "en-US": "Letter CXXVIII. To the Same"
           }
         },
         {
           "id": "e129",
           "title": {
-            "la": "Epistola CXXIX. Ad Januenses"
+            "la": "Epistola CXXIX. Ad Januenses",
+            "en-US": "Letter CXXIX. To the Citizens of Genoa"
           }
         },
         {
           "id": "e130",
           "title": {
-            "la": "Epistola CXXX. Ad Pisanos"
+            "la": "Epistola CXXX. Ad Pisanos",
+            "en-US": "Letter CXXX. To the Citizens of Pisa"
           }
         },
         {
           "id": "e131",
           "title": {
-            "la": "Epistola CXXXI. Ad Mediolanenses"
+            "la": "Epistola CXXXI. Ad Mediolanenses",
+            "en-US": "Letter CXXXI. To the Inhabitants of Milan"
           }
         },
         {
           "id": "e132",
           "title": {
-            "la": "Epistola CXXXII. Ad Clerum Mediolanensem"
+            "la": "Epistola CXXXII. Ad Clerum Mediolanensem",
+            "en-US": "Letter CXXXII. To the Clergy of Milan"
           }
         },
         {
           "id": "e133",
           "title": {
-            "la": "Epistola CXXXIII. Ad Universos Cives Mediolanensium"
+            "la": "Epistola CXXXIII. Ad Universos Cives Mediolanensium",
+            "en-US": "Letter CXXXIII. To All the Citizens of Milan"
           }
         },
         {
           "id": "e134",
           "title": {
-            "la": "Epistola CXXXIV. Ad Novitios apud Mediolanum Conversos"
+            "la": "Epistola CXXXIV. Ad Novitios apud Mediolanum Conversos",
+            "en-US": "Letter CXXXIV. To Some Novices Recently Converted at Milan"
           }
         },
         {
           "id": "e135",
           "title": {
-            "la": "Epistola CXXXV. Ad Petrum Papiensem Episcopum"
+            "la": "Epistola CXXXV. Ad Petrum Papiensem Episcopum",
+            "en-US": "Letter CXXXV. To Peter, Bishop of Pavia. L"
           }
         },
         {
           "id": "e136",
           "title": {
-            "la": "Epistola CXXXVI. Ad Innocentium Papam"
+            "la": "Epistola CXXXVI. Ad Innocentium Papam",
+            "en-US": "Letter CXXXVI. To Pope Innocent"
           }
         },
         {
           "id": "e137",
           "title": {
-            "la": "Epistola CXXXVII. Ad Imperatricem Romanorum"
+            "la": "Epistola CXXXVII. Ad Imperatricem Romanorum",
+            "en-US": "Letter CXXXVII. To the Empress of the Romans"
           }
         },
         {
           "id": "e138",
           "title": {
-            "la": "Epistola CXXXVIII. Ad Henricum Regem Anglorum"
+            "la": "Epistola CXXXVIII. Ad Henricum Regem Anglorum",
+            "en-US": "Letter CXXXVIII. To Henry, King of the English"
           }
         },
         {
           "id": "e139",
           "title": {
-            "la": "Epistola CXXXIX. Ad Lotharium Imperatorem"
+            "la": "Epistola CXXXIX. Ad Lotharium Imperatorem",
+            "en-US": "Letter CXXXIX. To the Emperor Lothaire"
           }
         },
         {
           "id": "e140",
           "title": {
-            "la": "Epistola CXL. Ad eumdem"
+            "la": "Epistola CXL. Ad eumdem",
+            "en-US": "Letter CXL. To the Same"
           }
         },
         {
           "id": "e141",
           "title": {
-            "la": "Epistola CXLI. Ad Humbertum Abbatem Igniacensem"
+            "la": "Epistola CXLI. Ad Humbertum Abbatem Igniacensem",
+            "en-US": "Letter CXLI. To Humbert, Abbot of Icny"
           }
         },
         {
           "id": "e142",
           "title": {
-            "la": "Epistola CXLII. Ad Monachos Alpenses"
+            "la": "Epistola CXLII. Ad Monachos Alpenses",
+            "en-US": "Letter CXLII. To the Monks of the Abbey in the Alps"
           }
         },
         {
           "id": "e143",
           "title": {
-            "la": "Epistola CXLIII. Ad suos Clarae-vallenses"
+            "la": "Epistola CXLIII. Ad suos Clarae-vallenses",
+            "en-US": "Letter CXLIII. To his Monks of Clairvaux"
           }
         },
         {
           "id": "e144",
           "title": {
-            "la": "Epistola CXLIV. Ad eosdem"
+            "la": "Epistola CXLIV. Ad eosdem",
+            "en-US": "Letter CXLIV. To the Same"
           }
         },
         {
           "id": "e145",
           "title": {
-            "la": "Epistola CXLV. Ad Abbates Cistercii Congregatos"
+            "la": "Epistola CXLV. Ad Abbates Cistercii Congregatos",
+            "en-US": "Letter CXLV. To the Abbots Assembled at Citeaux"
           }
         },
         {
           "id": "e146",
           "title": {
-            "la": "Epistola CXLVI. Ad Burchardum Balernensem Abbatem"
+            "la": "Epistola CXLVI. Ad Burchardum Balernensem Abbatem",
+            "en-US": "Letter CXLVI. To Burchard, Abbot of Balerne.1"
           }
         },
         {
           "id": "e147",
           "title": {
-            "la": "Epistola CXLVII. Ad Petrum Abbatem Cluniacensem"
+            "la": "Epistola CXLVII. Ad Petrum Abbatem Cluniacensem",
+            "en-US": "Letter CXLVII. To Peter, Abbot of Ciajny"
           }
         },
         {
           "id": "e148",
           "title": {
-            "la": "Epistola CXLVIII. Ad eumdem"
+            "la": "Epistola CXLVIII. Ad eumdem",
+            "en-US": "Letter CXLVIII. To the Same"
           }
         },
         {
           "id": "e149",
           "title": {
-            "la": "Epistola CXLIX. Ad eumdem"
+            "la": "Epistola CXLIX. Ad eumdem",
+            "en-US": "Letter CXLIX. To the Same"
           }
         },
         {
           "id": "e150",
           "title": {
-            "la": "Epistola CL. Ad Dominum Papam Innocentium"
+            "la": "Epistola CL. Ad Dominum Papam Innocentium",
+            "en-US": "Letter CL. To Pope Innocent"
           }
         }
       ]
@@ -965,307 +1131,358 @@
     {
       "id": "epp-151-200",
       "title": {
-        "la": "Epistolae CLI-CC"
+        "la": "Epistolae CLI-CC",
+        "en-US": "Letters CLI–CC"
       },
       "children": [
         {
           "id": "e151",
           "title": {
-            "la": "Epistola CLI. Ad Philippum Turonensis Ecclesiae Invasorem"
+            "la": "Epistola CLI. Ad Philippum Turonensis Ecclesiae Invasorem",
+            "en-US": "Letter CLI. To Philip, the Intruded Archbishop of Tours. L"
           }
         },
         {
           "id": "e152",
           "title": {
-            "la": "Epistola CLII. Ad Dominum Papam Innocentium, pro Trecensi Episcopo"
+            "la": "Epistola CLII. Ad Dominum Papam Innocentium, pro Trecensi Episcopo",
+            "en-US": "Letter CLII. To Pope Innocent, on Behalf of the Bishop of Troves"
           }
         },
         {
           "id": "e153",
           "title": {
-            "la": "Epistola CLIII. Ad Bernardum de Portis, de Ordine Carthusiensi"
+            "la": "Epistola CLIII. Ad Bernardum de Portis, de Ordine Carthusiensi",
+            "en-US": "Letter CLIII. To Bernard Desportes/ of the Carthusian Order"
           }
         },
         {
           "id": "e154",
           "title": {
-            "la": "Epistola CLIV. Ad eumdem"
+            "la": "Epistola CLIV. Ad eumdem",
+            "en-US": "Letter CLIV. To the Same"
           }
         },
         {
           "id": "e155",
           "title": {
-            "la": "Epistola CLV. Ad Dominum Papam Innocentium, pro Eodem Quando Electus Est"
+            "la": "Epistola CLV. Ad Dominum Papam Innocentium, pro Eodem Quando Electus Est",
+            "en-US": "Letter CLV. To Pope Innocent, on Behalf of the Same Bernard When Elected Bishop.1"
           }
         },
         {
           "id": "e156",
           "title": {
-            "la": "Epistola CLVI. Ad Eumdem, pro Clericis Aurelianensibus"
+            "la": "Epistola CLVI. Ad Eumdem, pro Clericis Aurelianensibus",
+            "en-US": "Letter CLVI. To the Same, on Behalf of the Clergy of Orleans"
           }
         },
         {
           "id": "e157",
           "title": {
-            "la": "Epistola CLVII. Ad Haimericum, pro Eisdem"
+            "la": "Epistola CLVII. Ad Haimericum, pro Eisdem",
+            "en-US": "Letter CLVII. To Haimeric, on Behalf of the Same"
           }
         },
         {
           "id": "e158",
           "title": {
-            "la": "Epistola CLVIII. Ad Dominum Papam Innocentium, super Interfectione Magistri Thomae Prioris S. Victoris Parisiensis"
+            "la": "Epistola CLVIII. Ad Dominum Papam Innocentium, super Interfectione Magistri Thomae Prioris S. Victoris Parisiensis",
+            "en-US": "Letter CLVIII. To Pope Innocent, on the Murder of Master Thomas, Prior of S. Victor, of Paris.S"
           }
         },
         {
           "id": "e159",
           "title": {
-            "la": "Epistola CLIX. Ad Eumdem, in Persona Stephani Parisiensis Episcopi"
+            "la": "Epistola CLIX. Ad Eumdem, in Persona Stephani Parisiensis Episcopi",
+            "en-US": "Letter CLIX. To the Same, in the Name of Stephen, Bishop of Paris, and on the Same Subject"
           }
         },
         {
           "id": "e160",
           "title": {
-            "la": "Epistola CLX. Ad Haimericum Cancellarium, in Persona Ejusdem Episcopi"
+            "la": "Epistola CLX. Ad Haimericum Cancellarium, in Persona Ejusdem Episcopi",
+            "en-US": "Letter CLX. To Haimeric, the Chancellor, in the Name of the Same Bishop"
           }
         },
         {
           "id": "e161",
           "title": {
-            "la": "Epistola CLXI. Ad Dominum Papam Innocentium"
+            "la": "Epistola CLXI. Ad Dominum Papam Innocentium",
+            "en-US": "Letter CLXI. To the Lori) Pope Innocent"
           }
         },
         {
           "id": "e162",
           "title": {
-            "la": "Epistola CLXII. Ad Haimericum Cancellarium de Eodem"
+            "la": "Epistola CLXII. Ad Haimericum Cancellarium de Eodem",
+            "en-US": "Letter CLXII. To Haimeric, the Chancellor, on the Same Subject"
           }
         },
         {
           "id": "e163",
           "title": {
-            "la": "Epistola CLXIII. Ad Joannem Cremensem Cardinalem Presbyterum de Eodem"
+            "la": "Epistola CLXIII. Ad Joannem Cremensem Cardinalem Presbyterum de Eodem",
+            "en-US": "Letter CLXIII. To John of Crema, Cardinal-PRIEST, on the Same Subject"
           }
         },
         {
           "id": "e164",
           "title": {
-            "la": "Epistola CLXIV. Actio Causae Lingonensis Ecclesiae ad Dominum Innocentium Papam"
+            "la": "Epistola CLXIV. Actio Causae Lingonensis Ecclesiae ad Dominum Innocentium Papam",
+            "en-US": "Letter CLXIV. To Pope Innocent in the Matter of the Church of Langres"
           }
         },
         {
           "id": "e165",
           "title": {
-            "la": "Epistola CLXV. Ad Falconem Decanum, et Guidonem Thesaurarium Lugdunensis Ecclesiae"
+            "la": "Epistola CLXV. Ad Falconem Decanum, et Guidonem Thesaurarium Lugdunensis Ecclesiae",
+            "en-US": "Letter CLXV. To Falco, Dean, and Guy, Treasurer, of the Church of Lyons"
           }
         },
         {
           "id": "e166",
           "title": {
-            "la": "Epistola CLXVI. Ad Dominum Papam Innocentium"
+            "la": "Epistola CLXVI. Ad Dominum Papam Innocentium",
+            "en-US": "Letter CLXVI. To Pope Innocent, on the Same Subject"
           }
         },
         {
           "id": "e167",
           "title": {
-            "la": "Epistola CLXVII. Ad eumdem"
+            "la": "Epistola CLXVII. Ad eumdem",
+            "en-US": "Letter CLXVII. To the Same, on the Same Subject"
           }
         },
         {
           "id": "e168",
           "title": {
-            "la": "Epistola CLXVIII. Ad Episcopos et Cardinales Romanae Curiae"
+            "la": "Epistola CLXVIII. Ad Episcopos et Cardinales Romanae Curiae",
+            "en-US": "Letter CLXVIII. To the Bishops and Cardinals of the Roman Court on the Same Subject"
           }
         },
         {
           "id": "e169",
           "title": {
-            "la": "Epistola CLXIX. Ad Dominum Papam Innocentium"
+            "la": "Epistola CLXIX. Ad Dominum Papam Innocentium",
+            "en-US": "Letter CLXIX. To Pope Innocent, on the Same Subject"
           }
         },
         {
           "id": "e170",
           "title": {
-            "la": "Epistola CLXX. Ad Ludovicum Juniorem Regem Francorum"
+            "la": "Epistola CLXX. Ad Ludovicum Juniorem Regem Francorum",
+            "en-US": "Letter CLXX. To Louis the Younger, Klng of the French"
           }
         },
         {
           "id": "e171",
           "title": {
-            "la": "Epistola CLXXI. Ad Dominum Papam Innocentium"
+            "la": "Epistola CLXXI. Ad Dominum Papam Innocentium",
+            "en-US": "Letter CLXXI. To Pope Innocent"
           }
         },
         {
           "id": "e172",
           "title": {
-            "la": "Epistola CLXXII. Ad eumdem in Persona Godefridi Lingonensis Episcopi"
+            "la": "Epistola CLXXII. Ad eumdem in Persona Godefridi Lingonensis Episcopi",
+            "en-US": "Letter CLXXII. To the Same, in the Name of Godfrey, Bishop of Langres"
           }
         },
         {
           "id": "e173",
           "title": {
-            "la": "Epistola CLXXIII. Ad Ipsum Falconem"
+            "la": "Epistola CLXXIII. Ad Ipsum Falconem",
+            "en-US": "Letter CLXXIII. To the Above-NAMED Falco"
           }
         },
         {
           "id": "e174",
           "title": {
-            "la": "Epistola CLXXIV. Ad Canonicos Lugdunenses, de Conceptione S. Mariae"
+            "la": "Epistola CLXXIV. Ad Canonicos Lugdunenses, de Conceptione S. Mariae",
+            "en-US": "Letter CLXXIV. To the Canons of Lyons, on the Conception of S. Mary"
           }
         },
         {
           "id": "e175",
           "title": {
-            "la": "Epistola CLXXV. Ad Patriarcham Jerosolymorum"
+            "la": "Epistola CLXXV. Ad Patriarcham Jerosolymorum",
+            "en-US": "Letter CLXXV. To the Patriarch of Jerusalem"
           }
         },
         {
           "id": "e176",
           "title": {
-            "la": "Epistola CLXXVI. Ad Dominum Papam Innocentium, ex Persona Alberonis Treverensis Archiepiscopi"
+            "la": "Epistola CLXXVI. Ad Dominum Papam Innocentium, ex Persona Alberonis Treverensis Archiepiscopi",
+            "en-US": "Letter CLXXVI. To Pope Innocent, in the Person of Albero, Arch Bishop of Treves"
           }
         },
         {
           "id": "e177",
           "title": {
-            "la": "Epistola CLXXVII. Ad eumdem in Persona Ejusdem"
+            "la": "Epistola CLXXVII. Ad eumdem in Persona Ejusdem",
+            "en-US": "Letter CLXXVII. To the Same, in the Person of the Same"
           }
         },
         {
           "id": "e178",
           "title": {
-            "la": "Epistola CLXXVIII. Ad Dominum Papam Innocentium pro Alberone Treverensi Archiepiscopo"
+            "la": "Epistola CLXXVIII. Ad Dominum Papam Innocentium pro Alberone Treverensi Archiepiscopo",
+            "en-US": "Letter CLXXVIII. To the Same, on Behalf of the Same"
           }
         },
         {
           "id": "e179",
           "title": {
-            "la": "Epistola CLXXIX. Ad eumdem pro Eodem"
+            "la": "Epistola CLXXIX. Ad eumdem pro Eodem",
+            "en-US": "Letter CLXXIX. To the Same, on Behalf of the Same"
           }
         },
         {
           "id": "e180",
           "title": {
-            "la": "Epistola CLXXX. Ad eumdem pro Eodem"
+            "la": "Epistola CLXXX. Ad eumdem pro Eodem",
+            "en-US": "Letter CLXXX. To the Same on Behalf of the Same"
           }
         },
         {
           "id": "e181",
           "title": {
-            "la": "Epistola CLXXXI. Ad Haimericum Cancellarium"
+            "la": "Epistola CLXXXI. Ad Haimericum Cancellarium",
+            "en-US": "Letter CLXXXI. To the Chancellor Haimeric"
           }
         },
         {
           "id": "e182",
           "title": {
-            "la": "Epistola CLXXXII. Ad Henricum Senonensem Archiepiscopum"
+            "la": "Epistola CLXXXII. Ad Henricum Senonensem Archiepiscopum",
+            "en-US": "Letter CLXXXII. To Henry, Archbishop of Sens"
           }
         },
         {
           "id": "e183",
           "title": {
-            "la": "Epistola CLXXXIII. Ad Conradum Regem Romanorum"
+            "la": "Epistola CLXXXIII. Ad Conradum Regem Romanorum",
+            "en-US": "Letter CLXXXIII. To Conrad, King of the Romans"
           }
         },
         {
           "id": "e184",
           "title": {
-            "la": "Epistola CLXXXIV. Ad Dominum Papam Innocentium"
+            "la": "Epistola CLXXXIV. Ad Dominum Papam Innocentium",
+            "en-US": "Letter CLXXXIV. To the Lord Pope Innocent"
           }
         },
         {
           "id": "e185",
           "title": {
-            "la": "Epistola CLXXXV. Ad Eustachium Occupatorem Valentinae Sedis"
+            "la": "Epistola CLXXXV. Ad Eustachium Occupatorem Valentinae Sedis",
+            "en-US": "Letter CLXXXV. To Eustace, Intrusive Occupier of the See of Valence"
           }
         },
         {
           "id": "e186",
           "title": {
-            "la": "Epistola CLXXXVI. Ad Simonem Filium Castellani Cameracensis"
+            "la": "Epistola CLXXXVI. Ad Simonem Filium Castellani Cameracensis",
+            "en-US": "Letter CLXXXVI. To Simon, Son of the Castellan of Cambray"
           }
         },
         {
           "id": "e187",
           "title": {
-            "la": "Epistola CLXXXVII. Ad Episcopos Senonas Convocandos, contra Petrum Abaelardum"
+            "la": "Epistola CLXXXVII. Ad Episcopos Senonas Convocandos, contra Petrum Abaelardum",
+            "en-US": "Letter CLXXXVII. To Call Together the Bishops of the Archdiocese of Sens Against Peter Abaelard. X"
           }
         },
         {
           "id": "e188",
           "title": {
-            "la": "Epistola CLXXXVIII. Ad Episcopos et Cardinales Curiae, de Eodem"
+            "la": "Epistola CLXXXVIII. Ad Episcopos et Cardinales Curiae, de Eodem",
+            "en-US": "Letter CLXXXVIII. To the Bishops and Cardinals of the Curia on the Same Subject"
           }
         },
         {
           "id": "e189",
           "title": {
-            "la": "Epistola CLXXXIX. Ad Dominum Papam Innocentium, de Eodem"
+            "la": "Epistola CLXXXIX. Ad Dominum Papam Innocentium, de Eodem",
+            "en-US": "Letter CLXXXIX. To Pope Innocent, on the Same Subject"
           }
         },
         {
           "id": "e190",
           "title": {
-            "la": "Epistola CXC. Ad Innocentium Pontificem, de Erroribus Quibusdam Petri Abaelardi"
+            "la": "Epistola CXC. Ad Innocentium Pontificem, de Erroribus Quibusdam Petri Abaelardi",
+            "en-US": "Letter CXC. To the Same, Against Certain Heads of Auaelard's Heresies"
           }
         },
         {
           "id": "e191",
           "title": {
-            "la": "Epistola CXCI. Ad Innocentium ex Persona Domini Archiepiscopi Remensis, Etc"
+            "la": "Epistola CXCI. Ad Innocentium ex Persona Domini Archiepiscopi Remensis, Etc",
+            "en-US": "Letter CXCI. To the Same, in the Person of the Archbishop of Rheims"
           }
         },
         {
           "id": "e192",
           "title": {
-            "la": "Epistola CXCII. Ad Magistrum Guidonem de Castello"
+            "la": "Epistola CXCII. Ad Magistrum Guidonem de Castello",
+            "en-US": "Letter CXCII. To Magister Gui Do Du Chatel, who had Been a Disciple of Peter, on which Peter Presumed Too Much, and who was Afterwards Pope Celestine"
           }
         },
         {
           "id": "e193",
           "title": {
-            "la": "Epistola CXCIII. Ad Magistrum Ivonem Cardinalem, de Eodem"
+            "la": "Epistola CXCIII. Ad Magistrum Ivonem Cardinalem, de Eodem",
+            "en-US": "Letter CXCIII. To Cardinal Ivo, on the Same Subject"
           }
         },
         {
           "id": "e194",
           "title": {
-            "la": "Epistola CXCIV. Rescriptum Domini Innocentii Papae contra Haereses Petri Abaelardi"
+            "la": "Epistola CXCIV. Rescriptum Domini Innocentii Papae contra Haereses Petri Abaelardi",
+            "en-US": "Letter CXCIV. Rescript of Pope Innocent Against -the Heresies of Peter Abaelard"
           }
         },
         {
           "id": "e195",
           "title": {
-            "la": "Epistola CXCV. Ad Episcopum Constantiensem"
+            "la": "Epistola CXCV. Ad Episcopum Constantiensem",
+            "en-US": "Letter CXCV. To the Bishop of Constance about Arnold of Brescia"
           }
         },
         {
           "id": "e196",
           "title": {
-            "la": "Epistola CXCVI. Ad Guidonem Legatum de Eodem"
+            "la": "Epistola CXCVI. Ad Guidonem Legatum de Eodem",
+            "en-US": "Letter CXCVI. To Gnno, the Legate, Ox the Same Subject"
           }
         },
         {
           "id": "e197",
           "title": {
-            "la": "Epistola CXCVII. Ad Petrum Bisuntinum Decanum"
+            "la": "Epistola CXCVII. Ad Petrum Bisuntinum Decanum",
+            "en-US": "Letter CXCVII. To Peter, Dean of Besanqon"
           }
         },
         {
           "id": "e198",
           "title": {
-            "la": "Epistola CXCVIII. Ad Dominum Papam Innocentium"
+            "la": "Epistola CXCVIII. Ad Dominum Papam Innocentium",
+            "en-US": "Letter CXCVIII. To Pope Innocent"
           }
         },
         {
           "id": "e199",
           "title": {
-            "la": "Epistola CXCIX. Ad eumdem"
+            "la": "Epistola CXCIX. Ad eumdem",
+            "en-US": "Letter CXCIX. To the Same"
           }
         },
         {
           "id": "e200",
           "title": {
-            "la": "Epistola CC. Ad Magistrum Ulgerium Andegavensem Episcopum, pro Gravi Querela quae Erat inter Ipsum et Abbatissam Fontis-ebraldi"
+            "la": "Epistola CC. Ad Magistrum Ulgerium Andegavensem Episcopum, pro Gravi Querela quae Erat inter Ipsum et Abbatissam Fontis-ebraldi",
+            "en-US": "Letter CC. To Magister Ulcer, Bishop of Angers, concerning the Grievous Quarrel Existing Between Him and the Abbess of Fontevraui/r"
           }
         }
       ]
@@ -1273,307 +1490,358 @@
     {
       "id": "epp-201-250",
       "title": {
-        "la": "Epistolae CCI-CCL"
+        "la": "Epistolae CCI-CCL",
+        "en-US": "Letters CCI–CCL"
       },
       "children": [
         {
           "id": "e201",
           "title": {
-            "la": "Epistola CCI. Ad Balduinum Abbatem Reatini Monasterii"
+            "la": "Epistola CCI. Ad Balduinum Abbatem Reatini Monasterii",
+            "en-US": "Letter CCI. To Baldwin,* Abbot of the Monastery of Rieti"
           }
         },
         {
           "id": "e202",
           "title": {
-            "la": "Epistola CCII. Ad Clerum Senonensem"
+            "la": "Epistola CCII. Ad Clerum Senonensem",
+            "en-US": "Letter CCII. To the Clergy of the Archdiocese of Sens"
           }
         },
         {
           "id": "e203",
           "title": {
-            "la": "Epistola CCIII. Ad Attonem Episcopum et Clerum Trecensem"
+            "la": "Epistola CCIII. Ad Attonem Episcopum et Clerum Trecensem",
+            "en-US": "Letter CCIII. To the Bishop Am) Clergy of Troves"
           }
         },
         {
           "id": "e204",
           "title": {
-            "la": "Epistola CCIV. Ad Abbatem Sancti-albini"
+            "la": "Epistola CCIV. Ad Abbatem Sancti-albini",
+            "en-US": "Letter CCIV. To the Abbot of S. Aubin"
           }
         },
         {
           "id": "e205",
           "title": {
-            "la": "Epistola CCV. Ad Episcopum Roffensem"
+            "la": "Epistola CCV. Ad Episcopum Roffensem",
+            "en-US": "Letter CCV. To the Bishop of Rochester"
           }
         },
         {
           "id": "e206",
           "title": {
-            "la": "Epistola CCVI. Ad Reginam Jerosolymorum"
+            "la": "Epistola CCVI. Ad Reginam Jerosolymorum",
+            "en-US": "Letter CCVI. To the Queen of Jerusalem"
           }
         },
         {
           "id": "e207",
           "title": {
-            "la": "Epistola CCVII. Ad Rogerium Regem Siciliae"
+            "la": "Epistola CCVII. Ad Rogerium Regem Siciliae",
+            "en-US": "Letter CCVII. To Roger, King of Sicily"
           }
         },
         {
           "id": "e208",
           "title": {
-            "la": "Epistola CCVIII. Ad eumdem"
+            "la": "Epistola CCVIII. Ad eumdem",
+            "en-US": "Letter CCVIII. To the Same"
           }
         },
         {
           "id": "e209",
           "title": {
-            "la": "Epistola CCIX. Ad eumdem"
+            "la": "Epistola CCIX. Ad eumdem",
+            "en-US": "Letter CCIX. To the Same"
           }
         },
         {
           "id": "e210",
           "title": {
-            "la": "Epistola CCX. Ad Dominum Papam Innocentium"
+            "la": "Epistola CCX. Ad Dominum Papam Innocentium",
+            "en-US": "Letter CCX. To Pope Innocent"
           }
         },
         {
           "id": "e211",
           "title": {
-            "la": "Epistola CCXI. Ad eumdem"
+            "la": "Epistola CCXI. Ad eumdem",
+            "en-US": "Letter CCXI. To the Same"
           }
         },
         {
           "id": "e212",
           "title": {
-            "la": "Epistola CCXII. Ad eumdem"
+            "la": "Epistola CCXII. Ad eumdem",
+            "en-US": "Letter CCXII. To the Same"
           }
         },
         {
           "id": "e213",
           "title": {
-            "la": "Epistola CCXIII. Ad eumdem"
+            "la": "Epistola CCXIII. Ad eumdem",
+            "en-US": "Letter CCXIII. To the Same"
           }
         },
         {
           "id": "e214",
           "title": {
-            "la": "Epistola CCXIV. Ad eumdem"
+            "la": "Epistola CCXIV. Ad eumdem",
+            "en-US": "Letter CCXIV. To the Same"
           }
         },
         {
           "id": "e215",
           "title": {
-            "la": "Epistola CCXV. Ad eumdem"
+            "la": "Epistola CCXV. Ad eumdem",
+            "en-US": "Letter CCXV. To the Same"
           }
         },
         {
           "id": "e216",
           "title": {
-            "la": "Epistola CCXVI. Ad eumdem"
+            "la": "Epistola CCXVI. Ad eumdem",
+            "en-US": "Letter CCXVI. To the Same"
           }
         },
         {
           "id": "e217",
           "title": {
-            "la": "Epistola CCXVII. Ad eumdem"
+            "la": "Epistola CCXVII. Ad eumdem",
+            "en-US": "Letter CCXVII. To the Same"
           }
         },
         {
           "id": "e218",
           "title": {
-            "la": "Epistola CCXVIII. Ad eumdem Excusatoria, et Novissima"
+            "la": "Epistola CCXVIII. Ad eumdem Excusatoria, et Novissima",
+            "en-US": "Letter CCXVIII. His Last Letter to Innocent Ii.; in Self Defence"
           }
         },
         {
           "id": "e219",
           "title": {
-            "la": "Epistola CCXIX. Ad Tres Episcopos Curiae, Albericum Ostiensem, Stephanum Praenestinum, Igmarum Tusculanum , et Gerardum Cancellarium"
+            "la": "Epistola CCXIX. Ad Tres Episcopos Curiae, Albericum Ostiensem, Stephanum Praenestinum, Igmarum Tusculanum , et Gerardum Cancellarium",
+            "en-US": "Letter CCXIX. To Three Bishops of the Curia; Alberic of Ostia, Stephen of Pr^ENESTE, Igmarus of Tusculum, 3 and to the Chancellor Gerard"
           }
         },
         {
           "id": "e220",
           "title": {
-            "la": "Epistola CCXX. Ad Ludovicum Regem Francorum"
+            "la": "Epistola CCXX. Ad Ludovicum Regem Francorum",
+            "en-US": "Letter CCXX. To Louis, King of France"
           }
         },
         {
           "id": "e221",
           "title": {
-            "la": "Epistola CCXXI. Ad eumdem"
+            "la": "Epistola CCXXI. Ad eumdem",
+            "en-US": "Letter CCXXI. To the Same"
           }
         },
         {
           "id": "e222",
           "title": {
-            "la": "Epistola CCXXII. Ad Joslenum Suessionensem Episcopum, et Sugerium Abbatem Sancti-dionysii"
+            "la": "Epistola CCXXII. Ad Joslenum Suessionensem Episcopum, et Sugerium Abbatem Sancti-dionysii",
+            "en-US": "Letter CCXXII. To Joscelyn, Bishop of Soissons, and Suger, Abbot of S. Denys"
           }
         },
         {
           "id": "e223",
           "title": {
-            "la": "Epistola CCXXIII. Ad Joslenum Episcopum Suessionensem"
+            "la": "Epistola CCXXIII. Ad Joslenum Episcopum Suessionensem",
+            "en-US": "Letter CCXXIII. To the Bishop of Soissons"
           }
         },
         {
           "id": "e224",
           "title": {
-            "la": "Epistola CCXXIV. Ad Stephanum Praenestinum Episcopum"
+            "la": "Epistola CCXXIV. Ad Stephanum Praenestinum Episcopum",
+            "en-US": "Letter CCXXIV. To Stephen, Bishop of Praeneste.2"
           }
         },
         {
           "id": "e225",
           "title": {
-            "la": "Epistola CCXXV. Ad Dominum Episcopum Suessionensem"
+            "la": "Epistola CCXXV. Ad Dominum Episcopum Suessionensem",
+            "en-US": "Letter CCXXV. TO THE BISHOP OF SOISSONS. Bernard urges him to promote peace"
           }
         },
         {
           "id": "e226",
           "title": {
-            "la": "Epistola CCXXVI. Ad Ludovicum Regem Francorum"
+            "la": "Epistola CCXXVI. Ad Ludovicum Regem Francorum",
+            "en-US": "Letter CCXXVI. To Louis, King of the French"
           }
         },
         {
           "id": "e227",
           "title": {
-            "la": "Epistola CCXXVII. Ad Episcopum Suessionensem"
+            "la": "Epistola CCXXVII. Ad Episcopum Suessionensem",
+            "en-US": "Letter CCXXVII. To the Bishop of Soissons"
           }
         },
         {
           "id": "e228",
           "title": {
-            "la": "Epistola CCXXVIII. Ad Petrum Cluniacensem Abbatem, Conquerentem quod Ei non Rescriberet"
+            "la": "Epistola CCXXVIII. Ad Petrum Cluniacensem Abbatem, Conquerentem quod Ei non Rescriberet",
+            "en-US": "Letter CCXXVIII. To Peter, Abbot of Cluny"
           }
         },
         {
           "id": "e229",
           "title": {
-            "la": "Epistola CCXXIX. Petri Venerabilis ad Bernardum Abbatem"
+            "la": "Epistola CCXXIX. Petri Venerabilis ad Bernardum Abbatem",
+            "en-US": "Letter CCXXIX. Peter the Venerable, to Abbot Bernard"
           }
         },
         {
           "id": "e230",
           "title": {
-            "la": "Epistola CCXXX. Ad Tres Episcopos Ostiensem, Tusculanum, Praenestinum"
+            "la": "Epistola CCXXX. Ad Tres Episcopos Ostiensem, Tusculanum, Praenestinum",
+            "en-US": "Letter CCXXX. To the Bishops of Ostia, Tusculum, and Pr/ENESTE"
           }
         },
         {
           "id": "e231",
           "title": {
-            "la": "Epistola CCXXXI. Ad eosdem pro Abbate Latiniacensi"
+            "la": "Epistola CCXXXI. Ad eosdem pro Abbate Latiniacensi",
+            "en-US": "Letter CCXXXI. To the Same Three Bishops on Behalf of the Abbot of Lagny.1 he Asserts the Innocence of This Abbot"
           }
         },
         {
           "id": "e232",
           "title": {
-            "la": "Epistola CCXXXII. Ad eosdem"
+            "la": "Epistola CCXXXII. Ad eosdem",
+            "en-US": "Letter CCXXXII. To the Same Bishops"
           }
         },
         {
           "id": "e233",
           "title": {
-            "la": "Epistola CCXXXIII. Ad Abbatem Joannem de Busaio, qui Abbatiam suam Reliquerat, et Abierat in Solitudinem"
+            "la": "Epistola CCXXXIII. Ad Abbatem Joannem de Busaio, qui Abbatiam suam Reliquerat, et Abierat in Solitudinem",
+            "en-US": "Letter CCXXXIII. To John, Abbot of Bu/AY, who had Left his Abbey and Betaken Himself to Solitude"
           }
         },
         {
           "id": "e234",
           "title": {
-            "la": "Epistola CCXXXIV. Ad Herbertum Abbatem Sancti Stephani Divionensis"
+            "la": "Epistola CCXXXIV. Ad Herbertum Abbatem Sancti Stephani Divionensis",
+            "en-US": "Letter CCXXXIV. To Herbert, Abbot of S. Stephen of Dijon"
           }
         },
         {
           "id": "e235",
           "title": {
-            "la": "Epistola CCXXXV. Ad Dominum Papam Coelestinum, pro Intruso Eboracensi"
+            "la": "Epistola CCXXXV. Ad Dominum Papam Coelestinum, pro Intruso Eboracensi",
+            "en-US": "Letter CCXXXV. To Pope Celestine in the Case of the Disputed Election at York"
           }
         },
         {
           "id": "e236",
           "title": {
-            "la": "Epistola CCXXXVI. Ad Totam Curiam Romanam"
+            "la": "Epistola CCXXXVI. Ad Totam Curiam Romanam",
+            "en-US": "Letter CCXXXVI. To the Whole Roman Curia, on the Same Subject"
           }
         },
         {
           "id": "e237",
           "title": {
-            "la": "Epistola CCXXXVII. Ad Totam Curiam Romanam, Quando Elegerunt Abbatem Sancti-anastasii in Papam Eugenium"
+            "la": "Epistola CCXXXVII. Ad Totam Curiam Romanam, Quando Elegerunt Abbatem Sancti-anastasii in Papam Eugenium",
+            "en-US": "Letter CCXXXVII. To the Whole Roman Curia, When They Chose the Abbot of S. Anastasius for Pope (Eucenius)"
           }
         },
         {
           "id": "e238",
           "title": {
-            "la": "Epistola CCXXXVIII. Ad Dominum Papam Eugenium Prima"
+            "la": "Epistola CCXXXVIII. Ad Dominum Papam Eugenium Prima",
+            "en-US": "Letter CCXXXVIII. To Pope Eugenics: his First Letter"
           }
         },
         {
           "id": "e239",
           "title": {
-            "la": "Epistola CCXXXIX. Ad eumdem"
+            "la": "Epistola CCXXXIX. Ad eumdem",
+            "en-US": "Letter CCXXXIX. To the Same"
           }
         },
         {
           "id": "e240",
           "title": {
-            "la": "Epistola CCXL. Ad Eumdem, de Eboracensi Intruso"
+            "la": "Epistola CCXL. Ad Eumdem, de Eboracensi Intruso",
+            "en-US": "Letter CCXL. To the Same, Ox the Same Subject"
           }
         },
         {
           "id": "e241",
           "title": {
-            "la": "Epistola CCXLI. Ad Hildefonsum Comitem Sancti Aegidii, de Henrico Haeretico"
+            "la": "Epistola CCXLI. Ad Hildefonsum Comitem Sancti Aegidii, de Henrico Haeretico",
+            "en-US": "Letter CCXLI. To Hlldefonsus, Count of S. Eloy, about the Heretic Henry"
           }
         },
         {
           "id": "e242",
           "title": {
-            "la": "Epistola CCXLII. Ad Tolosanos, Post Reditum suum"
+            "la": "Epistola CCXLII. Ad Tolosanos, Post Reditum suum",
+            "en-US": "Letter CCXLII. To the People of Toulouse After his Return"
           }
         },
         {
           "id": "e243",
           "title": {
-            "la": "Epistola CCXLIII. Ad Romanos, Quando Recesserunt a Domino Papa Eugenio"
+            "la": "Epistola CCXLIII. Ad Romanos, Quando Recesserunt a Domino Papa Eugenio",
+            "en-US": "Letter CCXLIII. To the Romans When They Revolted Against Pope Eugenius"
           }
         },
         {
           "id": "e244",
           "title": {
-            "la": "Epistola CCXLIV. Ad Conradum Regem Romanorum"
+            "la": "Epistola CCXLIV. Ad Conradum Regem Romanorum",
+            "en-US": "Letter CCXLIV. To Conrad, King of the Romans"
           }
         },
         {
           "id": "e245",
           "title": {
-            "la": "Epistola CCXLV. Ad Dominum Papam Eugenium, pro Aurelianensi Episcopo. Etc"
+            "la": "Epistola CCXLV. Ad Dominum Papam Eugenium, pro Aurelianensi Episcopo. Etc",
+            "en-US": "Letter CCXLV. To POPE EUGENIUS, ON BEHALF OF TIIK BISHOP OF ORLEANS. He praises the zeal of the Pope in this matter"
           }
         },
         {
           "id": "e246",
           "title": {
-            "la": "Epistola CCXLVI. Ad eumdem pro Eodem, Quando Praedictus Aurelianensis Depositus Est"
+            "la": "Epistola CCXLVI. Ad eumdem pro Eodem, Quando Praedictus Aurelianensis Depositus Est",
+            "en-US": "Letter CCXLVI. To the Same, on Behalf of the Same Bishop of Orleans, After his Deposition"
           }
         },
         {
           "id": "e247",
           "title": {
-            "la": "Epistola CCXLVII. Ad eumdem pro Remensi Archiepiscopo"
+            "la": "Epistola CCXLVII. Ad eumdem pro Remensi Archiepiscopo",
+            "en-US": "Letter CCXLVII. To the Same, for the Archbishop of Rheims"
           }
         },
         {
           "id": "e248",
           "title": {
-            "la": "Epistola CCXLVIII. Ad eumdem"
+            "la": "Epistola CCXLVIII. Ad eumdem",
+            "en-US": "Letter CCXLVIII. To the Same"
           }
         },
         {
           "id": "e249",
           "title": {
-            "la": "Epistola CCXLIX. Ad eumdem"
+            "la": "Epistola CCXLIX. Ad eumdem",
+            "en-US": "Letter CCXLIX. To the Same"
           }
         },
         {
           "id": "e250",
           "title": {
-            "la": "Epistola CCL. Ad Bernardum Priorem Portarum"
+            "la": "Epistola CCL. Ad Bernardum Priorem Portarum",
+            "en-US": "Letter CCL. To Bernard,'- Prior of Fortes"
           }
         }
       ]
@@ -1581,307 +1849,358 @@
     {
       "id": "epp-251-300",
       "title": {
-        "la": "Epistolae CCLI-CCC"
+        "la": "Epistolae CCLI-CCC",
+        "en-US": "Letters CCLI–CCC"
       },
       "children": [
         {
           "id": "e251",
           "title": {
-            "la": "Epistola CCLI. Ad Dominum Eugenium Papam"
+            "la": "Epistola CCLI. Ad Dominum Eugenium Papam",
+            "en-US": "Letter CCLI. To Pope Eugenius"
           }
         },
         {
           "id": "e252",
           "title": {
-            "la": "Epistola CCLII. Ad Eumdem, pro Eboracensi"
+            "la": "Epistola CCLII. Ad Eumdem, pro Eboracensi",
+            "en-US": "Letter CCLII. To the Same, about the Disputed Election at York"
           }
         },
         {
           "id": "e253",
           "title": {
-            "la": "Epistola CCLIII. Ad Abbatem de Praemonstrato"
+            "la": "Epistola CCLIII. Ad Abbatem de Praemonstrato",
+            "en-US": "Letter CCLIII. To the Abbot of P"
           }
         },
         {
           "id": "e254",
           "title": {
-            "la": "Epistola CCLIV. Ad Abbatem Guarinum Alpensem"
+            "la": "Epistola CCLIV. Ad Abbatem Guarinum Alpensem",
+            "en-US": "Letter CCLIV. To Warren,- Abbot of S. Mary of the Alps"
           }
         },
         {
           "id": "e255",
           "title": {
-            "la": "Epistola CCLV. Ad Ludovicum Regem Francorum"
+            "la": "Epistola CCLV. Ad Ludovicum Regem Francorum",
+            "en-US": "Letter CCLV. To Louis, King of France"
           }
         },
         {
           "id": "e256",
           "title": {
-            "la": "Epistola CCLVI. Ad Dominum Papam Eugenium"
+            "la": "Epistola CCLVI. Ad Dominum Papam Eugenium",
+            "en-US": "Letter CCLVI. To Pope Eugenics"
           }
         },
         {
           "id": "e257",
           "title": {
-            "la": "Epistola CCLVII. Ad Eumdem, pro Fratre Philippo"
+            "la": "Epistola CCLVII. Ad Eumdem, pro Fratre Philippo",
+            "en-US": "Letter CCLVII. To the Same, for Brother Philip"
           }
         },
         {
           "id": "e258",
           "title": {
-            "la": "Epistola CCLVIII. Ad Eumdem, pro Fratre Rualeno"
+            "la": "Epistola CCLVIII. Ad Eumdem, pro Fratre Rualeno",
+            "en-US": "Letter CCLVIII. To the Same, for Brother Rualene"
           }
         },
         {
           "id": "e259",
           "title": {
-            "la": "Epistola CCLIX. Ad eumdem"
+            "la": "Epistola CCLIX. Ad eumdem",
+            "en-US": "Letter CCLIX. To the Same, for the Same"
           }
         },
         {
           "id": "e260",
           "title": {
-            "la": "Epistola CCLX. Ad Rualenum Abbatem"
+            "la": "Epistola CCLX. Ad Rualenum Abbatem",
+            "en-US": "Letter CCLX. To Abbot Rualene"
           }
         },
         {
           "id": "e261",
           "title": {
-            "la": "Epistola CCLXI. Ad Dominum Papam Eugenium"
+            "la": "Epistola CCLXI. Ad Dominum Papam Eugenium",
+            "en-US": "Letter CCLXI. To Pope Eugenius"
           }
         },
         {
           "id": "e262",
           "title": {
-            "la": "Epistola CCLXII. Ad eumdem pro Monachis Mosomensibus"
+            "la": "Epistola CCLXII. Ad eumdem pro Monachis Mosomensibus",
+            "en-US": "Letter CCLXII. To the Same, for the Monks of S. Marie-suR-MEUSE.2"
           }
         },
         {
           "id": "e263",
           "title": {
-            "la": "Epistola CCLXIII. Episcopo Suessionensi pro Abbate Caziacensi"
+            "la": "Epistola CCLXIII. Episcopo Suessionensi pro Abbate Caziacensi",
+            "en-US": "Letter CCLXIII. To the Bishop of Soissons, for the Abbot of Chezy"
           }
         },
         {
           "id": "e264",
           "title": {
-            "la": "Epistola CCLXIV. Petri Cluniacensis Abbatis ad Bernardum Abbatem"
+            "la": "Epistola CCLXIV. Petri Cluniacensis Abbatis ad Bernardum Abbatem",
+            "en-US": "Letter CCLXIV. Peter, Abbot of Ciajny, to Bernard, Abbot of Clairvaux"
           }
         },
         {
           "id": "e265",
           "title": {
-            "la": "Epistola CCLXV. Rescriptum Bernardi Abbatis ad eumdem"
+            "la": "Epistola CCLXV. Rescriptum Bernardi Abbatis ad eumdem",
+            "en-US": "Letter CCLXV. To Peter, Abbot of Cluny (Reply to the Above)"
           }
         },
         {
           "id": "e266",
           "title": {
-            "la": "Epistola CCLXVI. Ad Sugerium Abbatem Sancti Dionysii"
+            "la": "Epistola CCLXVI. Ad Sugerium Abbatem Sancti Dionysii",
+            "en-US": "Letter CCLXVI. To Suger, Abbot of S. Denys, * to Comfort Him on his Death-BED"
           }
         },
         {
           "id": "e267",
           "title": {
-            "la": "Epistola CCLXVII. Abbati Cluniacensi"
+            "la": "Epistola CCLXVII. Abbati Cluniacensi",
+            "en-US": "Letter CCLXVII. To the Abbot of Cluny"
           }
         },
         {
           "id": "e268",
           "title": {
-            "la": "Epistola CCLXVIII. Ad Dominum Papam Eugenium"
+            "la": "Epistola CCLXVIII. Ad Dominum Papam Eugenium",
+            "en-US": "Letter CCLXVIII. To Pope Eugenius"
           }
         },
         {
           "id": "e269",
           "title": {
-            "la": "Epistola CCLXIX. Ad eumdem"
+            "la": "Epistola CCLXIX. Ad eumdem",
+            "en-US": "Letter CCLXIX. To the Same"
           }
         },
         {
           "id": "e270",
           "title": {
-            "la": "Epistola CCLXX. Ad eumdem"
+            "la": "Epistola CCLXX. Ad eumdem",
+            "en-US": "Letter CCLXX. To the Same"
           }
         },
         {
           "id": "e271",
           "title": {
-            "la": "Epistola CCLXXI. Ad Comitem Campaniae Theobaldum"
+            "la": "Epistola CCLXXI. Ad Comitem Campaniae Theobaldum",
+            "en-US": "Letter CCLXXI. To Theobald, Count of Champagne"
           }
         },
         {
           "id": "e272",
           "title": {
-            "la": "Epistola CCLXXII. Episcopo Laudunensi"
+            "la": "Epistola CCLXXII. Episcopo Laudunensi",
+            "en-US": "Letter CCLXXII. TO THE BISHOP OF LAON. Bernard presses him to show pious liberality"
           }
         },
         {
           "id": "e273",
           "title": {
-            "la": "Epistola CCLXXIII. Ad Dominum Papam Eugenium"
+            "la": "Epistola CCLXXIII. Ad Dominum Papam Eugenium",
+            "en-US": "Letter CCLXXIII. To Pope Eugenius"
           }
         },
         {
           "id": "e274",
           "title": {
-            "la": "Epistola CCLXXIV. Ad Hugonem Abbatem Trium Fontium, Quando Erat Romae"
+            "la": "Epistola CCLXXIV. Ad Hugonem Abbatem Trium Fontium, Quando Erat Romae",
+            "en-US": "Letter CCLXXIV. To Hugh, Abbot of Trois-FONTAINKS, When he was at Rome"
           }
         },
         {
           "id": "e275",
           "title": {
-            "la": "Epistola CCLXXV. Ad Dominum Papam Eugenium, pro Antissiodorensi Electione"
+            "la": "Epistola CCLXXV. Ad Dominum Papam Eugenium, pro Antissiodorensi Electione",
+            "en-US": "Letter CCLXXV. To Pope Eugenius, about the Election of a Bishop at Auxerre"
           }
         },
         {
           "id": "e276",
           "title": {
-            "la": "Epistola CCLXXVI. Ad Eumdem, Post Obitum Episcopi Antissiodorensis"
+            "la": "Epistola CCLXXVI. Ad Eumdem, Post Obitum Episcopi Antissiodorensis",
+            "en-US": "Letter CCLXXVI. To the Same, After the Death of the Bishop of Auxerre"
           }
         },
         {
           "id": "e277",
           "title": {
-            "la": "Epistola CCLXXVII. Ad Eumdem, pro Abbate Cluniacensi"
+            "la": "Epistola CCLXXVII. Ad Eumdem, pro Abbate Cluniacensi",
+            "en-US": "Letter CCLXXVII. To the Same, on Behalf of the Abbot of Cluny"
           }
         },
         {
           "id": "e278",
           "title": {
-            "la": "Epistola CCLXXVIII. Ad Eumdem, pro Episcopo Belvacensi"
+            "la": "Epistola CCLXXVIII. Ad Eumdem, pro Episcopo Belvacensi",
+            "en-US": "Letter CCLXXVIII. To the Same, for the Bishop of Beauvais"
           }
         },
         {
           "id": "e279",
           "title": {
-            "la": "Epistola CCLXXIX. Ad Henricum Comitem"
+            "la": "Epistola CCLXXIX. Ad Henricum Comitem",
+            "en-US": "Letter CCLXXIX. To Count Henry"
           }
         },
         {
           "id": "e280",
           "title": {
-            "la": "Epistola CCLXXX. Ad Dominum Papam Eugenium pro Antissiodorensi Negotio"
+            "la": "Epistola CCLXXX. Ad Dominum Papam Eugenium pro Antissiodorensi Negotio",
+            "en-US": "Letter CCLXXX. To Pope Eugenics about the Trouble at Auxerre"
           }
         },
         {
           "id": "e281",
           "title": {
-            "la": "Epistola CCLXXXI. Abbati Brunoni de Chara-valle"
+            "la": "Epistola CCLXXXI. Abbati Brunoni de Chara-valle",
+            "en-US": "Letter CCLXXXI. To Abbot Bruno of Cmarravalle"
           }
         },
         {
           "id": "e282",
           "title": {
-            "la": "Epistola CCLXXXII. Ad Ludovicum Regem Francorum Juniorem, pro Electione Antissiodorensi"
+            "la": "Epistola CCLXXXII. Ad Ludovicum Regem Francorum Juniorem, pro Electione Antissiodorensi",
+            "en-US": "Letter CCLXXXII. To Louis, King of the French, on Behalf of the Bishop-ELECT of Auxerre"
           }
         },
         {
           "id": "e283",
           "title": {
-            "la": "Epistola CCLXXXIII. Ad Dominum Papam Eugenium, pro Fratribus de Miratorio"
+            "la": "Epistola CCLXXXIII. Ad Dominum Papam Eugenium, pro Fratribus de Miratorio",
+            "en-US": "Letter CCLXXXIII. To Pope Eugenius, on Behalf of the Monks of Moiremont"
           }
         },
         {
           "id": "e284",
           "title": {
-            "la": "Epistola CCLXXXIV. Ad Dominum Papam Eugenium, pro Remensi Archiepiscopo, et Aliis Personis"
+            "la": "Epistola CCLXXXIV. Ad Dominum Papam Eugenium, pro Remensi Archiepiscopo, et Aliis Personis",
+            "en-US": "Letter CCLXXXIV. To Pope Eugenius, on Behalf of the Archbishop of Rheims and Other Persons"
           }
         },
         {
           "id": "e285",
           "title": {
-            "la": "Epistola CCLXXXV. Ad Eumdem, pro Odone Abbate Sancti-dionysii"
+            "la": "Epistola CCLXXXV. Ad Eumdem, pro Odone Abbate Sancti-dionysii",
+            "en-US": "Letter CCLXXXV. To the Same, on Behalf of Quo,' Abbot of S. Denys"
           }
         },
         {
           "id": "e286",
           "title": {
-            "la": "Epistola CCLXXXVI. Ad Eumdem, pro Eodem"
+            "la": "Epistola CCLXXXVI. Ad Eumdem, pro Eodem",
+            "en-US": "Letter CCLXXXVI. To the Same, on Behalf of the Same"
           }
         },
         {
           "id": "e287",
           "title": {
-            "la": "Epistola CCLXXXVII. Domino Ostiensi, pro Eodem Arbate"
+            "la": "Epistola CCLXXXVII. Domino Ostiensi, pro Eodem Arbate",
+            "en-US": "Letter CCLXXXVII. To the Bishop of Ostia, on Behalf of the Same Abbot"
           }
         },
         {
           "id": "e288",
           "title": {
-            "la": "Epistola CCLXXXVIII. Ad Andream Avunculum Suum, Militem Templi"
+            "la": "Epistola CCLXXXVIII. Ad Andream Avunculum Suum, Militem Templi",
+            "en-US": "Letter CCLXXXVIII. To his Uncle Andrew, a Knight of the Temple"
           }
         },
         {
           "id": "e289",
           "title": {
-            "la": "Epistola CCLXXXIX. Ad Reginam Jerosolymorum"
+            "la": "Epistola CCLXXXIX. Ad Reginam Jerosolymorum",
+            "en-US": "Letter CCLXXXIX. To the Queen of Jerusalem"
           }
         },
         {
           "id": "e290",
           "title": {
-            "la": "Epistola CCXC. Domino Ostiensi, de Jordano Cardinale"
+            "la": "Epistola CCXC. Domino Ostiensi, de Jordano Cardinale",
+            "en-US": "Letter CCXC. To the Bishop of Ostia about Cardinal Jordan. L"
           }
         },
         {
           "id": "e291",
           "title": {
-            "la": "Epistola CCXCI. Ad Dominum Papam Eugenium, pro Ecclesia Sancti-eugendi Jurensis"
+            "la": "Epistola CCXCI. Ad Dominum Papam Eugenium, pro Ecclesia Sancti-eugendi Jurensis",
+            "en-US": "Letter CCXCI. To Pope Eugenius for the Church of S. Eugendus in the Jura"
           }
         },
         {
           "id": "e292",
           "title": {
-            "la": "Epistola CCXCII. Ad Quemdam Saecularem"
+            "la": "Epistola CCXCII. Ad Quemdam Saecularem",
+            "en-US": "Letter CCXCII. Letter CCXCII"
           }
         },
         {
           "id": "e293",
           "title": {
-            "la": "Epistola CCXCIII. Petro Abbati de Cella, pro Monacho Caziacensi, qui ad Claram-vallem Transierat"
+            "la": "Epistola CCXCIII. Petro Abbati de Cella, pro Monacho Caziacensi, qui ad Claram-vallem Transierat",
+            "en-US": "Letter CCXCIII. To Peter, Abbot of Moustier La Celled on Behalf of a Monk of Chkxy, who had Changed Over to Clairvaux"
           }
         },
         {
           "id": "e294",
           "title": {
-            "la": "Epistola CCXCIV. Ad Dominum Papam Eugenium, pro Episcopo Cenomannensi"
+            "la": "Epistola CCXCIV. Ad Dominum Papam Eugenium, pro Episcopo Cenomannensi",
+            "en-US": "Letter CCXCIV. To Pope Eugemus, on Behalf of the Bishop of Le Mans"
           }
         },
         {
           "id": "e295",
           "title": {
-            "la": "Epistola CCXCV. Domino Henrico Cardinali, pro Eodem Episcopo"
+            "la": "Epistola CCXCV. Domino Henrico Cardinali, pro Eodem Episcopo",
+            "en-US": "Letter CCXCV. To Cardinal Henry, for the Same Bishop"
           }
         },
         {
           "id": "e296",
           "title": {
-            "la": "Epistola CCXCVI. Domino Ostiensi, pro Eodem"
+            "la": "Epistola CCXCVI. Domino Ostiensi, pro Eodem",
+            "en-US": "Letter CCXCVI. To the Bishop of Ostia, for the Same"
           }
         },
         {
           "id": "e297",
           "title": {
-            "la": "Epistola CCXCVII. Abbati Arremarensi"
+            "la": "Epistola CCXCVII. Abbati Arremarensi",
+            "en-US": "Letter CCXCVII. To the Abbot of Montier Ramey,T Ox Behalf of a Fugitive Monk"
           }
         },
         {
           "id": "e298",
           "title": {
-            "la": "Epistola CCXCVIII. Ad Dominum Papam Eugenium"
+            "la": "Epistola CCXCVIII. Ad Dominum Papam Eugenium",
+            "en-US": "Letter CCXCVIII. To Pope Eugenius, about Nicholas"
           }
         },
         {
           "id": "e299",
           "title": {
-            "la": "Epistola CCXCIX. Comiti Engolismensi, pro Fratribus de Buxia"
+            "la": "Epistola CCXCIX. Comiti Engolismensi, pro Fratribus de Buxia",
+            "en-US": "Letter CCXCIX. To the Count of Angouleme, on Behalf of the Monks of S. Amand De Boissn"
           }
         },
         {
           "id": "e300",
           "title": {
-            "la": "Epistola CCC. Blesensi Comitissae"
+            "la": "Epistola CCC. Blesensi Comitissae",
+            "en-US": "Letter CCC. To the Countess of Blois"
           }
         }
       ]
@@ -1889,307 +2208,358 @@
     {
       "id": "epp-301-350",
       "title": {
-        "la": "Epistolae CCCI-CCCL"
+        "la": "Epistolae CCCI-CCCL",
+        "en-US": "Letters CCCI–CCCL"
       },
       "children": [
         {
           "id": "e301",
           "title": {
-            "la": "Epistola CCCI. Sanctae Sorori Imperatoris Hispaniae"
+            "la": "Epistola CCCI. Sanctae Sorori Imperatoris Hispaniae",
+            "en-US": "Letter CCCI. To Sanchia, Sister of the Emperor of Spain"
           }
         },
         {
           "id": "e302",
           "title": {
-            "la": "Epistola CCCII. Legatis Apostolicis, pro Archiepiscopo Moguntino"
+            "la": "Epistola CCCII. Legatis Apostolicis, pro Archiepiscopo Moguntino",
+            "en-US": "Letter CCCII. To the Legates of the Holy See, on Behalf of the Archbishop of Mayence"
           }
         },
         {
           "id": "e303",
           "title": {
-            "la": "Epistola CCCIII. Ludovico Juniori Regi Francorum"
+            "la": "Epistola CCCIII. Ludovico Juniori Regi Francorum",
+            "en-US": "Letter CCCIII. To Louis the Younger, King of France"
           }
         },
         {
           "id": "e304",
           "title": {
-            "la": "Epistola CCCIV. Eidem"
+            "la": "Epistola CCCIV. Eidem",
+            "en-US": "Letter CCCIV. To the Same"
           }
         },
         {
           "id": "e305",
           "title": {
-            "la": "Epistola CCCV. Ad Dominum Papam Eugenium"
+            "la": "Epistola CCCV. Ad Dominum Papam Eugenium",
+            "en-US": "Letter CCCV. To Pope Eugenius"
           }
         },
         {
           "id": "e306",
           "title": {
-            "la": "Epistola CCCVI. Domino Ostiensi pro Electione Abbatis Turoldi de Tribus-fontibus"
+            "la": "Epistola CCCVI. Domino Ostiensi pro Electione Abbatis Turoldi de Tribus-fontibus",
+            "en-US": "Letter CCCVI. To the Bishop of Ostia, for the Election of Thorold, Abbot of Trois-FONTAIXES"
           }
         },
         {
           "id": "e307",
           "title": {
-            "la": "Epistola CCCVII. Ad eumdem"
+            "la": "Epistola CCCVII. Ad eumdem",
+            "en-US": "Letter CCCVII. To the Same"
           }
         },
         {
           "id": "e308",
           "title": {
-            "la": "Epistola CCCVIII. Ad Alfonsum Portugalliae Regem"
+            "la": "Epistola CCCVIII. Ad Alfonsum Portugalliae Regem",
+            "en-US": "Letter CCCVIII. To Alfonso, King of Portugal"
           }
         },
         {
           "id": "e309",
           "title": {
-            "la": "Epistola CCCIX. Ad Eugenium Pontificem"
+            "la": "Epistola CCCIX. Ad Eugenium Pontificem",
+            "en-US": "Letter CCCIX. To Pope Eugenius"
           }
         },
         {
           "id": "e310",
           "title": {
-            "la": "Epistola CCCX. Ad Arnoldum Carnotensem Abbatem Bonaevallis"
+            "la": "Epistola CCCX. Ad Arnoldum Carnotensem Abbatem Bonaevallis",
+            "en-US": "Letter CCCX. To Arnold of Chartres, Abbot of Bonneval"
           }
         },
         {
           "id": "e311",
           "title": {
-            "la": "Epistola CCCXI. Ad Haimericum Cancellarium"
+            "la": "Epistola CCCXI. Ad Haimericum Cancellarium",
+            "en-US": "Letter CCCXI. To Haimeric, the Chancellor"
           }
         },
         {
           "id": "e312",
           "title": {
-            "la": "Epistola CCCXII. Ad Raynaldum Archiepiscopum Remensem"
+            "la": "Epistola CCCXII. Ad Raynaldum Archiepiscopum Remensem",
+            "en-US": "Letter CCCXII. To Raynald, Archbishop of Rheims"
           }
         },
         {
           "id": "e313",
           "title": {
-            "la": "Epistola CCCXIII. Ad Gaufridum Abbatem Sanctae-mariae Eboracensis"
+            "la": "Epistola CCCXIII. Ad Gaufridum Abbatem Sanctae-mariae Eboracensis",
+            "en-US": "Letter CCCXIII. To Geoffrey, Abbot of S. Mary at York"
           }
         },
         {
           "id": "e314",
           "title": {
-            "la": "Epistola CCCXIV. Ad Dominum Papam Innocentium"
+            "la": "Epistola CCCXIV. Ad Dominum Papam Innocentium",
+            "en-US": "Letter CCCXIV. To Pope Innocent"
           }
         },
         {
           "id": "e315",
           "title": {
-            "la": "Epistola CCCXV. Ad Malthildem Reginam Anglorum"
+            "la": "Epistola CCCXV. Ad Malthildem Reginam Anglorum",
+            "en-US": "Letter CCCXV. To Matilda, Queen of England"
           }
         },
         {
           "id": "e316",
           "title": {
-            "la": "Epistola CCCXVI. Ad Henricum Senonensem Archiepiscopum et ad Haimericum Cancellarium"
+            "la": "Epistola CCCXVI. Ad Henricum Senonensem Archiepiscopum et ad Haimericum Cancellarium",
+            "en-US": "Letter CCCXVI. To Henry, Archbishop of Sens, and Haimeric, the Chancellor"
           }
         },
         {
           "id": "e317",
           "title": {
-            "la": "Epistola CCCXVII. Ad Priorem suum Godefridum"
+            "la": "Epistola CCCXVII. Ad Priorem suum Godefridum",
+            "en-US": "Letter CCCXVII. To his Prior, Godfrey"
           }
         },
         {
           "id": "e318",
           "title": {
-            "la": "Epistola CCCXVIII. Ad Papam Innocentium"
+            "la": "Epistola CCCXVIII. Ad Papam Innocentium",
+            "en-US": "Letter CCCXVIII. To Pope Innocent"
           }
         },
         {
           "id": "e319",
           "title": {
-            "la": "Epistola CCCXIX. Ad Turstinum Eboraci Archiepiscopum"
+            "la": "Epistola CCCXIX. Ad Turstinum Eboraci Archiepiscopum",
+            "en-US": "Letter CCCXIX. To Thurstan, Archbishop of York"
           }
         },
         {
           "id": "e320",
           "title": {
-            "la": "Epistola CCCXX. Alexandro Priori de Fontibus, et Ejusdem Loci Fratribus"
+            "la": "Epistola CCCXX. Alexandro Priori de Fontibus, et Ejusdem Loci Fratribus",
+            "en-US": "Letter CCCXX. To Alexander, Prior of Fountains, and to his Brethren at the Same Place"
           }
         },
         {
           "id": "e321",
           "title": {
-            "la": "Epistola CCCXXI. Ad Henricum de Murdach, Primum Abbatem de Valle-clara, Postea de Fontibus, Tandem Archiepiscopum Eboracensem"
+            "la": "Epistola CCCXXI. Ad Henricum de Murdach, Primum Abbatem de Valle-clara, Postea de Fontibus, Tandem Archiepiscopum Eboracensem",
+            "en-US": "Letter CCCXXI. To Henry Murdach, First Abbot of Vauclair, Then of Fountains, and Finally Archbishop of York"
           }
         },
         {
           "id": "e322",
           "title": {
-            "la": "Epistola CCCXXII. Ad Hugonem Novitium, Postea Bonae-vallis Abbatem"
+            "la": "Epistola CCCXXII. Ad Hugonem Novitium, Postea Bonae-vallis Abbatem",
+            "en-US": "Letter CCCXXII. To Hugo, a Novice, who Afterwards Became Abbot of Bonneval"
           }
         },
         {
           "id": "e323",
           "title": {
-            "la": "Epistola CCCXXIII. Ad Innocentium Papam"
+            "la": "Epistola CCCXXIII. Ad Innocentium Papam",
+            "en-US": "Letter CCCXXIII. To Pope Innocent"
           }
         },
         {
           "id": "e324",
           "title": {
-            "la": "Epistola CCCXXIV. Ad Robertum Abbatem de Dunis"
+            "la": "Epistola CCCXXIV. Ad Robertum Abbatem de Dunis",
+            "en-US": "Letter CCCXXIV. To Robert, Abbot of Dunes"
           }
         },
         {
           "id": "e325",
           "title": {
-            "la": "Epistola CCCXXV. Ad Eumdem, de Iderio Novitio"
+            "la": "Epistola CCCXXV. Ad Eumdem, de Iderio Novitio",
+            "en-US": "Letter CCCXXV. To the Same, Respecting the Novice Idiek"
           }
         },
         {
           "id": "e326",
           "title": {
-            "la": "Epistola CCCXXVI. Guillelmi Abbatis, ad Caufridum Garnotensem Episcopum, et Bernardum Abbatem Clarae-vallensem"
+            "la": "Epistola CCCXXVI. Guillelmi Abbatis, ad Caufridum Garnotensem Episcopum, et Bernardum Abbatem Clarae-vallensem",
+            "en-US": "Letter CCCXXVI. From Abbot William to Geoffrey, Bishop of Chartres, and to Bernard, Abbot or Ci.AiRVArx"
           }
         },
         {
           "id": "e327",
           "title": {
-            "la": "Epistola CCCXXVII. Rescriptum Bernardi ad Guillelmum Abbatem"
+            "la": "Epistola CCCXXVII. Rescriptum Bernardi ad Guillelmum Abbatem",
+            "en-US": "Letter CCCXXVII. Reply of Bernard to Abbot William"
           }
         },
         {
           "id": "e328",
           "title": {
-            "la": "Epistola CCCXXVIII. Ad Romanum Pontificem"
+            "la": "Epistola CCCXXVIII. Ad Romanum Pontificem",
+            "en-US": "Letter CCCXXVIII. To THE ROMAN PONTIFF^ Against the person elected Bishop of Rodez"
           }
         },
         {
           "id": "e329",
           "title": {
-            "la": "Epistola CCCXXIX. Ad Episcopum Lemovicensem"
+            "la": "Epistola CCCXXIX. Ad Episcopum Lemovicensem",
+            "en-US": "Letter CCCXXIX. To the Bishop of Limoges"
           }
         },
         {
           "id": "e330",
           "title": {
-            "la": "Epistola CCCXXX. Ad Innocentium Papam"
+            "la": "Epistola CCCXXX. Ad Innocentium Papam",
+            "en-US": "Letter CCCXXX. To Pope Innocent"
           }
         },
         {
           "id": "e331",
           "title": {
-            "la": "Epistola CCCXXXI. Ad Stephanum Cardinalem et Episcopum Praenestinum"
+            "la": "Epistola CCCXXXI. Ad Stephanum Cardinalem et Episcopum Praenestinum",
+            "en-US": "Letter CCCXXXI. To Cardinal Stephen, Bishop of Palestrina"
           }
         },
         {
           "id": "e332",
           "title": {
-            "la": "Epistola CCCXXXII. Ad G. Cardinalem"
+            "la": "Epistola CCCXXXII. Ad G. Cardinalem",
+            "en-US": "Letter CCCXXXII. To Cardinal G"
           }
         },
         {
           "id": "e333",
           "title": {
-            "la": "Epistola CCCXXXIII. Ad G. Cardinalem"
+            "la": "Epistola CCCXXXIII. Ad G. Cardinalem",
+            "en-US": "Letter CCCXXXIII. To Cardinal G"
           }
         },
         {
           "id": "e334",
           "title": {
-            "la": "Epistola CCCXXXIV. Ad Guidonem Pisanum"
+            "la": "Epistola CCCXXXIV. Ad Guidonem Pisanum",
+            "en-US": "Letter CCCXXXIV. To GUY, OF Pis A. Against the same Abaelard"
           }
         },
         {
           "id": "e335",
           "title": {
-            "la": "Epistola CCCXXXV. Ad Quemdam Presbyterum Cardinalem"
+            "la": "Epistola CCCXXXV. Ad Quemdam Presbyterum Cardinalem",
+            "en-US": "Letter CCCXXXV. To A CERTAIN CARDINAL PRESBYTER. Also against Peter Abelard"
           }
         },
         {
           "id": "e336",
           "title": {
-            "la": "Epistola CCCXXXVI. Ad Quemdam Abbatem"
+            "la": "Epistola CCCXXXVI. Ad Quemdam Abbatem",
+            "en-US": "Letter CCCXXXVI. To A CERTAIN ABBOT.* On the Same Subject"
           }
         },
         {
           "id": "e337",
           "title": {
-            "la": "Epistola CCCXXXVII. Ad Innocentium Pontificem, in Persona Franciae Episcoporum"
+            "la": "Epistola CCCXXXVII. Ad Innocentium Pontificem, in Persona Franciae Episcoporum",
+            "en-US": "Letter CCCXXXVII. To Pope Innocent, in the Name of the Bishops of France"
           }
         },
         {
           "id": "e338",
           "title": {
-            "la": "Epistola CCCXXXVIII. Ad Haimericum Cardinalem et Cancellarium"
+            "la": "Epistola CCCXXXVIII. Ad Haimericum Cardinalem et Cancellarium",
+            "en-US": "Letter CCCXXXVIII. To Haimeric, Cardinal and Chancellor"
           }
         },
         {
           "id": "e339",
           "title": {
-            "la": "Epistola CCCXXXIX. Ad Papam Innocentium"
+            "la": "Epistola CCCXXXIX. Ad Papam Innocentium",
+            "en-US": "Letter CCCXXXIX. To Pope Innocent"
           }
         },
         {
           "id": "e340",
           "title": {
-            "la": "Epistola CCCXL. Ad eumdem Innocentium Papam"
+            "la": "Epistola CCCXL. Ad eumdem Innocentium Papam",
+            "en-US": "Letter CCCXL. To the Same Pope Innocent"
           }
         },
         {
           "id": "e341",
           "title": {
-            "la": "Epistola CCCXLI. Ad Malachiam Hiberniae Archiepiscopum"
+            "la": "Epistola CCCXLI. Ad Malachiam Hiberniae Archiepiscopum",
+            "en-US": "Letter CCCXLI. To Malachi, Archbishop of Ireland"
           }
         },
         {
           "id": "e342",
           "title": {
-            "la": "Epistola CCCXLII. Ad Joslenum Episcopum Suessionensem"
+            "la": "Epistola CCCXLII. Ad Joslenum Episcopum Suessionensem",
+            "en-US": "Letter CCCXLII. To Joscelyn, Bishop of Soissoxs"
           }
         },
         {
           "id": "e343",
           "title": {
-            "la": "Epistola CCCXLIII. Bernardi Abbatis Itali ad Innocentium"
+            "la": "Epistola CCCXLIII. Bernardi Abbatis Itali ad Innocentium",
+            "en-US": "Letter CCCXLIII. From Abbot Bernard, of Italy, to Pope Innocent"
           }
         },
         {
           "id": "e344",
           "title": {
-            "la": "Epistola CCCXLIV. Ejusdem Bernardi ad Sanctum Bernardum"
+            "la": "Epistola CCCXLIV. Ejusdem Bernardi ad Sanctum Bernardum",
+            "en-US": "Letter CCCXLIV. From the Same Bernard to Saint Bernard"
           }
         },
         {
           "id": "e345",
           "title": {
-            "la": "Epistola CCCXLV. Ad Fratres de Sancto Anastasio"
+            "la": "Epistola CCCXLV. Ad Fratres de Sancto Anastasio",
+            "en-US": "Letter CCCXLV. To the Brethren of S. Anastasius"
           }
         },
         {
           "id": "e346",
           "title": {
-            "la": "Epistola CCCXLVI. Ad Dominum Innocentium Papam"
+            "la": "Epistola CCCXLVI. Ad Dominum Innocentium Papam",
+            "en-US": "Letter CCCXLVI. To the Lord Pope Innocent"
           }
         },
         {
           "id": "e347",
           "title": {
-            "la": "Epistola CCCXLVII. Ad eumdem Dominum Innocentium Papam"
+            "la": "Epistola CCCXLVII. Ad eumdem Dominum Innocentium Papam",
+            "en-US": "Letter CCCXLVII. To the Same"
           }
         },
         {
           "id": "e348",
           "title": {
-            "la": "Epistola CCCXLVIII. Ad eumdem Innocentium"
+            "la": "Epistola CCCXLVIII. Ad eumdem Innocentium",
+            "en-US": "Letter CCCXLVIII. To the Same"
           }
         },
         {
           "id": "e349",
           "title": {
-            "la": "Epistola CCCXLIX. Ad eumdem"
+            "la": "Epistola CCCXLIX. Ad eumdem",
+            "en-US": "Letter CCCXLIX. To the Same"
           }
         },
         {
           "id": "e350",
           "title": {
-            "la": "Epistola CCCL. Ad eumdem"
+            "la": "Epistola CCCL. Ad eumdem",
+            "en-US": "Letter CCCL. To the Same"
           }
         }
       ]
@@ -2197,307 +2567,358 @@
     {
       "id": "epp-351-400",
       "title": {
-        "la": "Epistolae CCCLI-CD"
+        "la": "Epistolae CCCLI-CD",
+        "en-US": "Letters CCCLI–CD"
       },
       "children": [
         {
           "id": "e351",
           "title": {
-            "la": "Epistola CCCLI. Ad eumdem Innocentium"
+            "la": "Epistola CCCLI. Ad eumdem Innocentium",
+            "en-US": "Letter CCCLI. To the Same"
           }
         },
         {
           "id": "e352",
           "title": {
-            "la": "Epistola CCCLII. Seu Innocentii Ii Papae Privilegium Sancto Bernardo Concessum"
+            "la": "Epistola CCCLII. Seu Innocentii Ii Papae Privilegium Sancto Bernardo Concessum",
+            "en-US": "Letter CCCLII. Privilege or Grant Made by Pope Innocent II. to Saint Bernard"
           }
         },
         {
           "id": "e353",
           "title": {
-            "la": "Epistola CCCLIII. Ad Willelmum Abbatem de Rievalle"
+            "la": "Epistola CCCLIII. Ad Willelmum Abbatem de Rievalle",
+            "en-US": "Letter CCCLIII. To William, Abbot of Rievaulx"
           }
         },
         {
           "id": "e354",
           "title": {
-            "la": "Epistola CCCLIV. Ad Reginam Jerosolymorum Milisendem, Filiam Balduini Regis, et Fulconis Uxorem"
+            "la": "Epistola CCCLIV. Ad Reginam Jerosolymorum Milisendem, Filiam Balduini Regis, et Fulconis Uxorem",
+            "en-US": "Letter CCCLIV. To Milisendis, Queen of Jerusalem, Daughter of King Baldwin and Wife of Fulk"
           }
         },
         {
           "id": "e355",
           "title": {
-            "la": "Epistola CCCLV. Ad eamdem Reginam Jerosolymorum"
+            "la": "Epistola CCCLV. Ad eamdem Reginam Jerosolymorum",
+            "en-US": "Letter CCCLV. To the Same Queen"
           }
         },
         {
           "id": "e356",
           "title": {
-            "la": "Epistola CCCLVI. Ad Malachiam Hiberniae Archiepiscopum"
+            "la": "Epistola CCCLVI. Ad Malachiam Hiberniae Archiepiscopum",
+            "en-US": "Letter CCCLVI. To Malachi, Archbishop of Ireland"
           }
         },
         {
           "id": "e357",
           "title": {
-            "la": "Epistola CCCLVII. Ad eumdem"
+            "la": "Epistola CCCLVII. Ad eumdem",
+            "en-US": "Letter CCCLVII. To the Same"
           }
         },
         {
           "id": "e358",
           "title": {
-            "la": "Epistola CCCLVIII. Ad Dominum Papam, Nempe Coelestinum"
+            "la": "Epistola CCCLVIII. Ad Dominum Papam, Nempe Coelestinum",
+            "en-US": "Letter CCCLVIII. To Pope Celestine"
           }
         },
         {
           "id": "e359",
           "title": {
-            "la": "Epistola CCCLIX. Clarae-vallensium ad eumdem Coelestinum"
+            "la": "Epistola CCCLIX. Clarae-vallensium ad eumdem Coelestinum",
+            "en-US": "Letter CCCLIX. The Community of Clairvaux to the Same Celestine"
           }
         },
         {
           "id": "e360",
           "title": {
-            "la": "Epistola CCCLX. Ad Willelmum Abbatem de Rievalle"
+            "la": "Epistola CCCLX. Ad Willelmum Abbatem de Rievalle",
+            "en-US": "Letter CCCLX. To William, Abbot of Rievaulx"
           }
         },
         {
           "id": "e361",
           "title": {
-            "la": "Epistola CCCLXI. Ad Theobaldum Archiepiscopum, pro Joanne Salesberiensi"
+            "la": "Epistola CCCLXI. Ad Theobaldum Archiepiscopum, pro Joanne Salesberiensi",
+            "en-US": "Letter CCCLXI. To Archbishop Theobald,-* on Behalf of John of Salisbury"
           }
         },
         {
           "id": "e362",
           "title": {
-            "la": "Epistola CCCLXII. Ad Robertum Pullum Cardinalem et Cancellarium"
+            "la": "Epistola CCCLXII. Ad Robertum Pullum Cardinalem et Cancellarium",
+            "en-US": "Letter CCCLXII. To Robert Pullen,3 Cardinal and Chancellor"
           }
         },
         {
           "id": "e363",
           "title": {
-            "la": "Epistola CCCLXIII. Ad Orientalis Franciae Clerum et Populum"
+            "la": "Epistola CCCLXIII. Ad Orientalis Franciae Clerum et Populum",
+            "en-US": "Letter CCCLXIII. To the Clergy and People of Eastern France"
           }
         },
         {
           "id": "e364",
           "title": {
-            "la": "Epistola CCCLXIV. Ad Petrum Abbatem Cluniacensem"
+            "la": "Epistola CCCLXIV. Ad Petrum Abbatem Cluniacensem",
+            "en-US": "Letter CCCLXIV. To Peter, Abbot of Clunv"
           }
         },
         {
           "id": "e365",
           "title": {
-            "la": "Epistola CCCLXV. Ad Henricum Moguntinum Archiepiscopum"
+            "la": "Epistola CCCLXV. Ad Henricum Moguntinum Archiepiscopum",
+            "en-US": "Letter CCCLXV. To Henry, Archbishop of Mayence"
           }
         },
         {
           "id": "e366",
           "title": {
-            "la": "Epistola CCCLXVI. Ad Hildegardem Abbatissam"
+            "la": "Epistola CCCLXVI. Ad Hildegardem Abbatissam",
+            "en-US": "Letter CCCLXVI. To the Abbess Hlldegarde.2"
           }
         },
         {
           "id": "e367",
           "title": {
-            "la": "Epistola CCCLXVII. G. Cancellario"
+            "la": "Epistola CCCLXVII. G. Cancellario",
+            "en-US": "Letter CCCLXVII. To the Chancellor G"
           }
         },
         {
           "id": "e368",
           "title": {
-            "la": "Epistola CCCLXVIII. Ad G. Diaconum Cardinalem"
+            "la": "Epistola CCCLXVIII. Ad G. Diaconum Cardinalem",
+            "en-US": "Letter CCCLXVIII. To the Cardinal-DEACON G"
           }
         },
         {
           "id": "e369",
           "title": {
-            "la": "Epistola CCCLXIX. Ad Sugerium Abbatem"
+            "la": "Epistola CCCLXIX. Ad Sugerium Abbatem",
+            "en-US": "Letter CCCLXIX. To Abbot Stgkr"
           }
         },
         {
           "id": "e370",
           "title": {
-            "la": "Epistola CCCLXX. Ad eumdem"
+            "la": "Epistola CCCLXX. Ad eumdem",
+            "en-US": "Letter CCCLXX. To the Same"
           }
         },
         {
           "id": "e371",
           "title": {
-            "la": "Epistola CCCLXXI. Ad eumdem"
+            "la": "Epistola CCCLXXI. Ad eumdem",
+            "en-US": "Letter CCCLXXI. To the Same"
           }
         },
         {
           "id": "e372",
           "title": {
-            "la": "Epistola CCCLXXII. Ad P. Episcopum Palentinum in Hispania"
+            "la": "Epistola CCCLXXII. Ad P. Episcopum Palentinum in Hispania",
+            "en-US": "Letter CCCLXXII. To P., Bishop of Palencia, in Spain"
           }
         },
         {
           "id": "e373",
           "title": {
-            "la": "Epistola CCCLXXIII. Abbatis Sp. ad Sanctum Bernardum"
+            "la": "Epistola CCCLXXIII. Abbatis Sp. ad Sanctum Bernardum",
+            "en-US": "Letter CCCLXXIII. From the Abbot of Siv to S. Bernard"
           }
         },
         {
           "id": "e374",
           "title": {
-            "la": "Epistola CCCLXXIV. Ad Fratres de Hibernia, in Transitu Beati Malachiae Episcopi"
+            "la": "Epistola CCCLXXIV. Ad Fratres de Hibernia, in Transitu Beati Malachiae Episcopi",
+            "en-US": "Letter CCCLXXIV. To the Brethren in Ireland, on the Occasion of the Death of the Blessed Blshop Malachi"
           }
         },
         {
           "id": "e375",
           "title": {
-            "la": "Epistola CCCLXXV. Ad Idam Comitissam Nivernensem"
+            "la": "Epistola CCCLXXV. Ad Idam Comitissam Nivernensem",
+            "en-US": "Letter CCCLXXV. To Ida, Countess of Nevers"
           }
         },
         {
           "id": "e376",
           "title": {
-            "la": "Epistola CCCLXXVI. Ad Sugerium Abbatem"
+            "la": "Epistola CCCLXXVI. Ad Sugerium Abbatem",
+            "en-US": "Letter CCCLXXVI. To Abbot Suger"
           }
         },
         {
           "id": "e377",
           "title": {
-            "la": "Epistola CCCLXXVII. Ad eumdem"
+            "la": "Epistola CCCLXXVII. Ad eumdem",
+            "en-US": "Letter CCCLXXVII. To the Same"
           }
         },
         {
           "id": "e378",
           "title": {
-            "la": "Epistola CCCLXXVIII. Ad eumdem"
+            "la": "Epistola CCCLXXVIII. Ad eumdem",
+            "en-US": "Letter CCCLXXVIII. To the Same"
           }
         },
         {
           "id": "e379",
           "title": {
-            "la": "Epistola CCCLXXIX. Ad eumdem"
+            "la": "Epistola CCCLXXIX. Ad eumdem",
+            "en-US": "Letter CCCLXXIX. » to the Same"
           }
         },
         {
           "id": "e380",
           "title": {
-            "la": "Epistola CCCLXXX. Ad eumdem"
+            "la": "Epistola CCCLXXX. Ad eumdem",
+            "en-US": "Letter CCCLXXX. To the Same"
           }
         },
         {
           "id": "e381",
           "title": {
-            "la": "Epistola CCCLXXXI. Ad eumdem"
+            "la": "Epistola CCCLXXXI. Ad eumdem",
+            "en-US": "Letter CCCLXXXI. To Abbot Suger"
           }
         },
         {
           "id": "e382",
           "title": {
-            "la": "Epistola CCCLXXXII. Ad Leonium Abbatem Sancti Bertini"
+            "la": "Epistola CCCLXXXII. Ad Leonium Abbatem Sancti Bertini",
+            "en-US": "Letter CCCLXXXII. To Leonius, Abbot of S. Bertin"
           }
         },
         {
           "id": "e383",
           "title": {
-            "la": "Epistola CCCLXXXIII. Ad eumdem Abbatem Sancti Bertini"
+            "la": "Epistola CCCLXXXIII. Ad eumdem Abbatem Sancti Bertini",
+            "en-US": "Letter CCCLXXXIII. To the Same Abbot of S. Bertin"
           }
         },
         {
           "id": "e384",
           "title": {
-            "la": "Epistola CCCLXXXIV. Ad Monachos Ecclesiae Sancti Bertini"
+            "la": "Epistola CCCLXXXIV. Ad Monachos Ecclesiae Sancti Bertini",
+            "en-US": "Letter CCCLXXXIV. To the Monks of S. Bertin"
           }
         },
         {
           "id": "e385",
           "title": {
-            "la": "Epistola CCCLXXXV. Ad eosdem"
+            "la": "Epistola CCCLXXXV. Ad eosdem",
+            "en-US": "Letter CCCLXXXV. To the Same"
           }
         },
         {
           "id": "e386",
           "title": {
-            "la": "Epistola CCCLXXXVI. Joannis Casae-marii ad Bernardum Abbatem"
+            "la": "Epistola CCCLXXXVI. Joannis Casae-marii ad Bernardum Abbatem",
+            "en-US": "Letter CCCLXXXVI. John, Abbot of Casamario to Abbot Bernard"
           }
         },
         {
           "id": "e387",
           "title": {
-            "la": "Epistola CCCLXXXVII. Ad Petrum Abbatem Cluniacensem"
+            "la": "Epistola CCCLXXXVII. Ad Petrum Abbatem Cluniacensem",
+            "en-US": "Letter CCCLXXXVII. To Peter, Abbot of Cluny"
           }
         },
         {
           "id": "e388",
           "title": {
-            "la": "Epistola CCCLXXXVIII. Petri Venerabilis ad Bernardum Abbatem Clarae-vallensem"
+            "la": "Epistola CCCLXXXVIII. Petri Venerabilis ad Bernardum Abbatem Clarae-vallensem",
+            "en-US": "Letter CCCLXXXVIII. Letter of Peter the Venerable to Bernard, Abbot of Clairvaux"
           }
         },
         {
           "id": "e389",
           "title": {
-            "la": "Epistola CCCLXXXIX. Ad Petrum Abbatem Cluniacensem"
+            "la": "Epistola CCCLXXXIX. Ad Petrum Abbatem Cluniacensem",
+            "en-US": "Letter CCCLXXXIX. To Peter, Abbot of Cluny"
           }
         },
         {
           "id": "e390",
           "title": {
-            "la": "Epistola CCCXC. Ad Eskilum Lundensem Archiepiscopum, Sedis Apostolicae in Dacia et Suecia Legatum"
+            "la": "Epistola CCCXC. Ad Eskilum Lundensem Archiepiscopum, Sedis Apostolicae in Dacia et Suecia Legatum",
+            "en-US": "Letter CCCXC. To Eskilus, Archbishop op Lund, and Legate of the Apostolic See in Denmark and Sweden"
           }
         },
         {
           "id": "e391",
           "title": {
-            "la": "Epistola CCCXCI. Ad Abbatissam Faberniacensem"
+            "la": "Epistola CCCXCI. Ad Abbatissam Faberniacensem",
+            "en-US": "Letter CCCXCI. To the Abbess of Favernay"
           }
         },
         {
           "id": "e392",
           "title": {
-            "la": "Epistola CCCXCII. Ad Radulfum Patriarcham Antiochenum"
+            "la": "Epistola CCCXCII. Ad Radulfum Patriarcham Antiochenum",
+            "en-US": "Letter CCCXCII. To Ralph, Patriarch of Antioch"
           }
         },
         {
           "id": "e393",
           "title": {
-            "la": "Epistola CCCXCIII. Ad W. Patriarcham Jerosolymorum"
+            "la": "Epistola CCCXCIII. Ad W. Patriarcham Jerosolymorum",
+            "en-US": "Letter CCCXCIII. To W., Patriarch of Jerusalem.1 Bernard exhorts him to humility"
           }
         },
         {
           "id": "e394",
           "title": {
-            "la": "Epistola CCCXCIV. Ad Archiepiscopum Lugdunensem"
+            "la": "Epistola CCCXCIV. Ad Archiepiscopum Lugdunensem",
+            "en-US": "Letter CCCXCIV. To the Archbishop of Lyons"
           }
         },
         {
           "id": "e395",
           "title": {
-            "la": "Epistola CCCXCV. Ad Alvisum Atrebatensem Episcopum"
+            "la": "Epistola CCCXCV. Ad Alvisum Atrebatensem Episcopum",
+            "en-US": "Letter CCCXCV. To Alvisus, Bishop of Arras"
           }
         },
         {
           "id": "e396",
           "title": {
-            "la": "Epistola CCCXCVI. Ad Ricuinum Episcopum Tullensem"
+            "la": "Epistola CCCXCVI. Ad Ricuinum Episcopum Tullensem",
+            "en-US": "Letter CCCXCVI. To Ricuin, Bishop of Toul"
           }
         },
         {
           "id": "e397",
           "title": {
-            "la": "Epistola CCCXCVII. Ad Odonem Abbatem Majoris-monasterii Prope Turones"
+            "la": "Epistola CCCXCVII. Ad Odonem Abbatem Majoris-monasterii Prope Turones",
+            "en-US": "Letter CCCXCVII. To Odo, Abbot of Marmoutiers, near Tours"
           }
         },
         {
           "id": "e398",
           "title": {
-            "la": "Epistola CCCXCVIII. Ad Guidonem Abbatem et Fratres Arremarenses"
+            "la": "Epistola CCCXCVIII. Ad Guidonem Abbatem et Fratres Arremarenses",
+            "en-US": "Letter CCCXCVIII. To Guy, Abbot of Montier-Ramey, and the Religious of that Abbey"
           }
         },
         {
           "id": "e399",
           "title": {
-            "la": "Epistola CCCXCIX. Ad Lelbertum Abbatem Sancti-michaelis"
+            "la": "Epistola CCCXCIX. Ad Lelbertum Abbatem Sancti-michaelis",
+            "en-US": "Letter CCCXCIX. To Lelbert, Abbot of S. Michael"
           }
         },
         {
           "id": "e400",
           "title": {
-            "la": "Epistola CD. Ad Abbatem Laetiensem"
+            "la": "Epistola CD. Ad Abbatem Laetiensem",
+            "en-US": "Letter CD. To the Abbot of Liesse"
           }
         }
       ]
@@ -2505,307 +2926,358 @@
     {
       "id": "epp-401-450",
       "title": {
-        "la": "Epistolae CDI-CDL"
+        "la": "Epistolae CDI-CDL",
+        "en-US": "Letters CDI–CDL"
       },
       "children": [
         {
           "id": "e401",
           "title": {
-            "la": "Epistola CDI. Ad Abbatem Balduinum de Castellione"
+            "la": "Epistola CDI. Ad Abbatem Balduinum de Castellione",
+            "en-US": "Letter CDI. To Baldwin, Abbot of Chatillon"
           }
         },
         {
           "id": "e402",
           "title": {
-            "la": "Epistola CDII. Ad Balduinum Noviomensem Episcopum"
+            "la": "Epistola CDII. Ad Balduinum Noviomensem Episcopum",
+            "en-US": "Letter CDII. To Baldwin, Bishop of Noyon"
           }
         },
         {
           "id": "e403",
           "title": {
-            "la": "Epistola CDIII. Ad Henricum Archidiaconum"
+            "la": "Epistola CDIII. Ad Henricum Archidiaconum",
+            "en-US": "Letter CDIII. To the Archdeacon Henry. \""
           }
         },
         {
           "id": "e404",
           "title": {
-            "la": "Epistola CDIV. Ad Albertum Inclusum"
+            "la": "Epistola CDIV. Ad Albertum Inclusum",
+            "en-US": "Letter CDIV. To Albert, a Recluse"
           }
         },
         {
           "id": "e405",
           "title": {
-            "la": "Epistola CDV. Ad G. Abbatem"
+            "la": "Epistola CDV. Ad G. Abbatem",
+            "en-US": "Letter CDV. To the Abbot G"
           }
         },
         {
           "id": "e406",
           "title": {
-            "la": "Epistola CDVI. Ad Abbatem Sancti-nicolai"
+            "la": "Epistola CDVI. Ad Abbatem Sancti-nicolai",
+            "en-US": "Letter CDVI. To the Abbot of S. Nicholas"
           }
         },
         {
           "id": "e407",
           "title": {
-            "la": "Epistola CDVII. Ad Odonem Abbatem Belli-loci"
+            "la": "Epistola CDVII. Ad Odonem Abbatem Belli-loci",
+            "en-US": "Letter CDVII. To Odo, Abbot of Beaulieu"
           }
         },
         {
           "id": "e408",
           "title": {
-            "la": "Epistola CDVIII. Ad W. Abbatem Trecensem"
+            "la": "Epistola CDVIII. Ad W. Abbatem Trecensem",
+            "en-US": "Letter CDVIII. To W., Abbot of Troyes"
           }
         },
         {
           "id": "e409",
           "title": {
-            "la": "Epistola CDIX. Ad Rorgonem de Abbatis-villa"
+            "la": "Epistola CDIX. Ad Rorgonem de Abbatis-villa",
+            "en-US": "Letter CDIX. To Borgon of Abbeville"
           }
         },
         {
           "id": "e410",
           "title": {
-            "la": "Epistola CDX. Ad Gilduinum Abbatem Sancti-victoris"
+            "la": "Epistola CDX. Ad Gilduinum Abbatem Sancti-victoris",
+            "en-US": "Letter CDX. To Gilduin, Abbot of S. Victor. Bernard recommends Peter Lombard to him"
           }
         },
         {
           "id": "e411",
           "title": {
-            "la": "Epistola CDXI. Ad Thomam Beverlacensem Praepositum"
+            "la": "Epistola CDXI. Ad Thomam Beverlacensem Praepositum",
+            "en-US": "Letter CDXI. To Thomas, Provost of Beverley"
           }
         },
         {
           "id": "e412",
           "title": {
-            "la": "Epistola CDXII. Ad T. Adolescentem qui Vitam Monasticam Voverat"
+            "la": "Epistola CDXII. Ad T. Adolescentem qui Vitam Monasticam Voverat",
+            "en-US": "Letter CDXII. To T., a Young Man, who had Vowed to Enter the Monastic Life"
           }
         },
         {
           "id": "e413",
           "title": {
-            "la": "Epistola CDXIII. Ad Rainaldum Abbatem"
+            "la": "Epistola CDXIII. Ad Rainaldum Abbatem",
+            "en-US": "Letter CDXIII. To Abbot Rainauld"
           }
         },
         {
           "id": "e414",
           "title": {
-            "la": "Epistola CDXIV. Ad Alardum Monachum"
+            "la": "Epistola CDXIV. Ad Alardum Monachum",
+            "en-US": "Letter CDXIV. To the Monk Alard on the same subject"
           }
         },
         {
           "id": "e415",
           "title": {
-            "la": "Epistola CDXV. Ad Quemdam Pacti Sui Praevaricatorem"
+            "la": "Epistola CDXV. Ad Quemdam Pacti Sui Praevaricatorem",
+            "en-US": "Letter CDXV. To a Certain Man, who had Broken a Promise he had Given"
           }
         },
         {
           "id": "e416",
           "title": {
-            "la": "Epistola CDXVI. Ad Incognitum"
+            "la": "Epistola CDXVI. Ad Incognitum",
+            "en-US": "Letter CDXVI. To a Person Unknown"
           }
         },
         {
           "id": "e417",
           "title": {
-            "la": "Epistola CDXVII. Ad Abbatem de Trunco-berengarii"
+            "la": "Epistola CDXVII. Ad Abbatem de Trunco-berengarii",
+            "en-US": "Letter CDXVII. To the Abbot of Saint Tron"
           }
         },
         {
           "id": "e418",
           "title": {
-            "la": "Epistola CDXVIII. Ad Hugonem Archiepiscopum Rotomagensem"
+            "la": "Epistola CDXVIII. Ad Hugonem Archiepiscopum Rotomagensem",
+            "en-US": "Letter CDXVIII. To Hugh, Archbishop of Rouen"
           }
         },
         {
           "id": "e419",
           "title": {
-            "la": "Epistola CDXIX. Ad Petrum Abbatem Cellensem"
+            "la": "Epistola CDXIX. Ad Petrum Abbatem Cellensem",
+            "en-US": "Letter CDXIX. To Peter Abbot of Celles"
           }
         },
         {
           "id": "e420",
           "title": {
-            "la": "Epistola CDXX. (fragmentum.) ad Nicolaum Cameracensem Episcopum"
+            "la": "Epistola CDXX. (fragmentum.) ad Nicolaum Cameracensem Episcopum",
+            "en-US": "Letter CDXX. Fragment of a letter to Nicholas, Bishop of Cambrai"
           }
         },
         {
           "id": "e421",
           "title": {
-            "la": "Epistola CDXXI. Ad Mar. et Uxorem Ejus"
+            "la": "Epistola CDXXI. Ad Mar. et Uxorem Ejus",
+            "en-US": "Letter CDXXI. To Mar. and his wife"
           }
         },
         {
           "id": "e422",
           "title": {
-            "la": "Epistola CDXXII. Ad Quemdam Abbatem"
+            "la": "Epistola CDXXII. Ad Quemdam Abbatem",
+            "en-US": "Letter CDXXII. To a Certain Abbot"
           }
         },
         {
           "id": "e423",
           "title": {
-            "la": "Epistola CDXXIII. Ad Quemdam Episcopum"
+            "la": "Epistola CDXXIII. Ad Quemdam Episcopum",
+            "en-US": "Letter CDXXIII. To a Certain Blshop"
           }
         },
         {
           "id": "e424",
           "title": {
-            "la": "Epistola CDXXIV. Ad Quemdam Amicum"
+            "la": "Epistola CDXXIV. Ad Quemdam Amicum",
+            "en-US": "Letter CDXXIV. To a Certain Friend"
           }
         },
         {
           "id": "e425",
           "title": {
-            "la": "Epistola CDXXV. Ad Quemdam Judicem"
+            "la": "Epistola CDXXV. Ad Quemdam Judicem",
+            "en-US": "Letter CDXXV. To a Certain Judge"
           }
         },
         {
           "id": "e426",
           "title": {
-            "la": "Epistola CDXXVI. Ad Quemdam Amicum"
+            "la": "Epistola CDXXVI. Ad Quemdam Amicum",
+            "en-US": "Letter CDXXVI. To a Certain Friend"
           }
         },
         {
           "id": "e427",
           "title": {
-            "la": "Epistola CDXXVII. Ad Episcopum Trecensem"
+            "la": "Epistola CDXXVII. Ad Episcopum Trecensem",
+            "en-US": "Letter CDXXVII. To the Bishop of Troyes"
           }
         },
         {
           "id": "e428",
           "title": {
-            "la": "Epistola CDXXVIII. Ad Quemdam Abbatem"
+            "la": "Epistola CDXXVIII. Ad Quemdam Abbatem",
+            "en-US": "Letter CDXXVIII. To a Certain Abbot"
           }
         },
         {
           "id": "e429",
           "title": {
-            "la": "Epistola CDXXIX. Ad Quemdam Amicum"
+            "la": "Epistola CDXXIX. Ad Quemdam Amicum",
+            "en-US": "Letter CDXXIX. To a Certain Friend"
           }
         },
         {
           "id": "e430",
           "title": {
-            "la": "Epistola CDXXX. Ad Quemdam Amicum"
+            "la": "Epistola CDXXX. Ad Quemdam Amicum",
+            "en-US": "Letter CDXXX. To a Certain Friend"
           }
         },
         {
           "id": "e431",
           "title": {
-            "la": "Epistola CDXXXI. Ad Innocentium Ii Papam"
+            "la": "Epistola CDXXXI. Ad Innocentium Ii Papam",
+            "en-US": "Letter CDXXXI. To Pope Innocent II"
           }
         },
         {
           "id": "e432",
           "title": {
-            "la": "Epistola CDXXXII. Ad Dominum Papam"
+            "la": "Epistola CDXXXII. Ad Dominum Papam",
+            "en-US": "Letter CDXXXII. To the Lord Pope"
           }
         },
         {
           "id": "e433",
           "title": {
-            "la": "Epistola CDXXXIII. Ad eumdem"
+            "la": "Epistola CDXXXIII. Ad eumdem",
+            "en-US": "Letter CDXXXIII. To the Same, on the Same Subject"
           }
         },
         {
           "id": "e434",
           "title": {
-            "la": "Epistola CDXXXIV. Ad eumdem"
+            "la": "Epistola CDXXXIV. Ad eumdem",
+            "en-US": "Letter CDXXXIV. To the Same, on the Same Subject"
           }
         },
         {
           "id": "e435",
           "title": {
-            "la": "Epistola CDXXXV. Ad eumdem"
+            "la": "Epistola CDXXXV. Ad eumdem",
+            "en-US": "Letter CDXXXV. To the Same"
           }
         },
         {
           "id": "e436",
           "title": {
-            "la": "Epistola CDXXXVI. Ad eumdem"
+            "la": "Epistola CDXXXVI. Ad eumdem",
+            "en-US": "Letter CDXXXVI. To the Same"
           }
         },
         {
           "id": "e437",
           "title": {
-            "la": "Epistola CDXXXVII. Ad eumdem"
+            "la": "Epistola CDXXXVII. Ad eumdem",
+            "en-US": "Letter CDXXXVII. To the Same"
           }
         },
         {
           "id": "e438",
           "title": {
-            "la": "Epistola CDXXXVIII. Ad eumdem"
+            "la": "Epistola CDXXXVIII. Ad eumdem",
+            "en-US": "Letter CDXXXVIII. To the Same, for the Same Purpose"
           }
         },
         {
           "id": "e439",
           "title": {
-            "la": "Epistola CDXXXIX. Ad eumdem"
+            "la": "Epistola CDXXXIX. Ad eumdem",
+            "en-US": "Letter CDXXXIX. To the Same on the Same Subject"
           }
         },
         {
           "id": "e440",
           "title": {
-            "la": "Epistola CDXL. Ad Anonymum"
+            "la": "Epistola CDXL. Ad Anonymum",
+            "en-US": "Letter CDXL. To a Person Unknown"
           }
         },
         {
           "id": "e441",
           "title": {
-            "la": "Epistola CDXLI. Ad Priorem Quemdam"
+            "la": "Epistola CDXLI. Ad Priorem Quemdam",
+            "en-US": "Letter CDXLI. To a Certain Prior"
           }
         },
         {
           "id": "e442",
           "title": {
-            "la": "Epistola CDXLII. Ad Quemdam Ordinis S. Benedicti Abbatem"
+            "la": "Epistola CDXLII. Ad Quemdam Ordinis S. Benedicti Abbatem",
+            "en-US": "Letter CDXLII. To a Certain Abbot of the Benedictine Order"
           }
         },
         {
           "id": "e443",
           "title": {
-            "la": "Epistola CDXLIII. Ad Quemdam Amicum"
+            "la": "Epistola CDXLIII. Ad Quemdam Amicum",
+            "en-US": "Letter CDXLIII. To a Certain Friend"
           }
         },
         {
           "id": "e444",
           "title": {
-            "la": "Epistola CDXLIV. Ad Quemdam Abbatem"
+            "la": "Epistola CDXLIV. Ad Quemdam Abbatem",
+            "en-US": "Letter CDXLIV. To a Certain Abbot"
           }
         },
         {
           "id": "e445",
           "title": {
-            "la": "Epistola CDXLV. Ad Quemdam Abbatem"
+            "la": "Epistola CDXLV. Ad Quemdam Abbatem",
+            "en-US": "Letter CDXLV. To a Certain Abbot"
           }
         },
         {
           "id": "e446",
           "title": {
-            "la": "Epistola CDXLVI. Ad Anonymum"
+            "la": "Epistola CDXLVI. Ad Anonymum",
+            "en-US": "Letter CDXLVI. To a Person Unknown"
           }
         },
         {
           "id": "e447",
           "title": {
-            "la": "Epistola CDXLVII. Ad Amedeum Altae-cumbae Abbatem"
+            "la": "Epistola CDXLVII. Ad Amedeum Altae-cumbae Abbatem",
+            "en-US": "Letter CDXLVII. To Amadeus, Abbot of Hautecombe"
           }
         },
         {
           "id": "e448",
           "title": {
-            "la": "Epistola CDXLVIII. Ad Anonymum"
+            "la": "Epistola CDXLVIII. Ad Anonymum",
+            "en-US": "Letter CDXLVIII. To a Person Unknown"
           }
         },
         {
           "id": "e449",
           "title": {
-            "la": "Epistola CDXLIX. Ad Regem Francorum"
+            "la": "Epistola CDXLIX. Ad Regem Francorum",
+            "en-US": "Letter CDXLIX. To the King of France"
           }
         },
         {
           "id": "e450",
           "title": {
-            "la": "Epistola CDL. Ad Amicum"
+            "la": "Epistola CDL. Ad Amicum",
+            "en-US": "Letter CDL. To a Friend"
           }
         }
       ]
@@ -2813,37 +3285,43 @@
     {
       "id": "epp-451-500",
       "title": {
-        "la": "Epistolae CDLI-D"
+        "la": "Epistolae CDLI-D",
+        "en-US": "Letters CDLI–D"
       },
       "children": [
         {
           "id": "e451",
           "title": {
-            "la": "Epistola CDLI. Ad Fratres"
+            "la": "Epistola CDLI. Ad Fratres",
+            "en-US": "Letter CDLI. To the Brethren * *"
           }
         },
         {
           "id": "e452",
           "title": {
-            "la": "Epistola CDLII. Ad Quemdam Abbatem"
+            "la": "Epistola CDLII. Ad Quemdam Abbatem",
+            "en-US": "Letter CDLII. To a Certain Abbot"
           }
         },
         {
           "id": "e453",
           "title": {
-            "la": "Epistola CDLIII. Ad Anonymum"
+            "la": "Epistola CDLIII. Ad Anonymum",
+            "en-US": "Letter CDLIII. To a Person Unknown"
           }
         },
         {
           "id": "e454",
           "title": {
-            "la": "Epistola CDLIV. Ad Anonymum"
+            "la": "Epistola CDLIV. Ad Anonymum",
+            "en-US": "Letter CDLIV. To a Person Unknown"
           }
         },
         {
           "id": "e455",
           "title": {
-            "la": "Epistola CDLV. Ad Materteram Imperatoris Hispaniarum"
+            "la": "Epistola CDLV. Ad Materteram Imperatoris Hispaniarum",
+            "en-US": "Letter CDLV. To the Aunt of the Emperor of Spain"
           }
         },
         {
@@ -2855,28 +3333,230 @@
         {
           "id": "e457",
           "title": {
-            "la": "Epistola CDLVII. Ad Universos Fideles. (anno 1147.)"
+            "la": "Epistola CDLVII. Ad Universos Fideles. (anno 1147.)",
+            "en-US": "Letter CDLVII. To All Faithful Christians"
           }
         },
         {
           "id": "e458",
           "title": {
-            "la": "Epistola CDLVIII. Ad Wladislaum Ducem, Magnates et Populum Bohemiae. (anno 1147.)"
+            "la": "Epistola CDLVIII. Ad Wladislaum Ducem, Magnates et Populum Bohemiae. (anno 1147.)",
+            "en-US": "Letter CDLVIII"
           }
         },
         {
           "id": "e459",
           "title": {
-            "la": "Epistola CDLIX. Ad G . . . . . de Stopho.om Gerbert, 1765, 8º, P. 216.]"
+            "la": "Epistola CDLIX. Ad G . . . . . de Stopho.om Gerbert, 1765, 8º, P. 216.]",
+            "en-US": "Letter CDLIX. To G.... of Stopho [Staufen]"
           }
         },
         {
           "id": "e460",
           "title": {
-            "la": "Epistola CDLX. Ad N"
+            "la": "Epistola CDLX. Ad N",
+            "en-US": "Letter CDLX. To N"
+          }
+        }
+      ]
+    },
+    {
+      "id": "eales-additions",
+      "title": {
+        "en-US": "Letters Added in Eales's Edition",
+        "pt-BR": "Cartas acrescentadas na edição de Eales"
+      },
+      "children": [
+        {
+          "id": "eales-456",
+          "title": {
+            "en-US": "Letter CDLVI. of the Abbey of S. Tron"
+          }
+        },
+        {
+          "id": "eales-457",
+          "title": {
+            "en-US": "Letter CDLVII. on behalf of the monasteries of Luxeuil and S. Evre"
+          }
+        },
+        {
+          "id": "eales-458",
+          "title": {
+            "en-US": "Letter CDLVIII. of the monastery of S. Amand de Boisse"
+          }
+        },
+        {
+          "id": "eales-459",
+          "title": {
+            "en-US": "Letter CDLIX. From Peter de Roya, Novice of Clairvaux, to C., Provost of Noyon"
+          }
+        },
+        {
+          "id": "eales-460",
+          "title": {
+            "en-US": "Letter CDLX. Tom. iii. p. 501- A. D. 1152)"
+          }
+        },
+        {
+          "id": "eales-461",
+          "title": {
+            "en-US": "Letter CDLXI. To Cardinal U. [Humbald.]"
+          }
+        },
+        {
+          "id": "eales-462",
+          "title": {
+            "en-US": "Letter CDLXII. To Pope Innocent"
+          }
+        },
+        {
+          "id": "eales-463",
+          "title": {
+            "en-US": "Letter CDLXIII. To Cardinal Luke. On the same matter"
+          }
+        },
+        {
+          "id": "eales-464",
+          "title": {
+            "en-US": "Letter CDLXIV. To B. [Baldwin], Archbishop of Pisa"
+          }
+        },
+        {
+          "id": "eales-465",
+          "title": {
+            "en-US": "Letter CDLXV. To his Friend Vi. Brother Bernard"
+          }
+        },
+        {
+          "id": "eales-466",
+          "title": {
+            "en-US": "Letter CDLXVI. To the Monks of Grace de Dieu"
+          }
+        },
+        {
+          "id": "eales-467",
+          "title": {
+            "en-US": "Letter CDLXVII. To Pope Eugenius"
+          }
+        },
+        {
+          "id": "eales-468",
+          "title": {
+            "en-US": "Letter CDLXVIII. To Berald, Abbot of S. Benignus at Dijon"
+          }
+        },
+        {
+          "id": "eales-469",
+          "title": {
+            "en-US": "Letter CDLXIX. Peter, Abbot of Cluny, to Abbot Bernard"
+          }
+        },
+        {
+          "id": "eales-470",
+          "title": {
+            "en-US": "Letter CDLXX. Dom Galandus, Abbot of Regny, to S. Bernard"
+          }
+        },
+        {
+          "id": "eales-471",
+          "title": {
+            "en-US": "Letter CDLXXI. Gerulf to S. Brenard"
+          }
+        },
+        {
+          "id": "eales-472",
+          "title": {
+            "en-US": "Letter CDLXXII. Brother G.[erhoch] to Abbot Bernard"
+          }
+        },
+        {
+          "id": "eales-473",
+          "title": {
+            "en-US": "Letter CDLXXIII. To the Archbishop of Treves"
+          }
+        },
+        {
+          "id": "eales-474",
+          "title": {
+            "en-US": "Letter CDLXXIV. To Adelaide, Queen of France"
+          }
+        },
+        {
+          "id": "eales-475",
+          "title": {
+            "en-US": "Letter CDLXXV. To the Chancellor S"
+          }
+        },
+        {
+          "id": "eales-476",
+          "title": {
+            "en-US": "Letter CDLXXVI. To a Certain Nobleman Named Ebal"
+          }
+        },
+        {
+          "id": "eales-477",
+          "title": {
+            "en-US": "Letter CDLXXVII. To the Count of Blois"
+          }
+        },
+        {
+          "id": "eales-478",
+          "title": {
+            "en-US": "Letter CDLXXVIII. To the Count of Nevers"
+          }
+        },
+        {
+          "id": "eales-479",
+          "title": {
+            "en-US": "Letter CDLXXIX. To the Count of Nevers"
+          }
+        },
+        {
+          "id": "eales-480",
+          "title": {
+            "en-US": "Letter CDLXXX. To a Certain Prince (Theobald, Count of Champagne.)"
+          }
+        },
+        {
+          "id": "eales-481",
+          "title": {
+            "en-US": "Letter CDLXXXI. To a Person Unknown"
+          }
+        },
+        {
+          "id": "eales-482",
+          "title": {
+            "en-US": "Letter CDLXXXII. To David, King of Scotland"
+          }
+        },
+        {
+          "id": "eales-483",
+          "title": {
+            "en-US": "Letter CDLXXXIII. To Pope Lucius II"
+          }
+        },
+        {
+          "id": "eales-484",
+          "title": {
+            "en-US": "Letter CDLXXXIV. To Pope Eugenius III. On the same subject"
+          }
+        },
+        {
+          "id": "eales-489",
+          "title": {
+            "en-US": "Letter CDLXXXIX. Hatto, Bishop of Troyes, at the request of Hugo, Bishop"
+          }
+        },
+        {
+          "id": "eales-490",
+          "title": {
+            "en-US": "Letter CDXC. Hatto, Bishop of Troyes, at the request of Bernard of"
           }
         }
       ]
     }
-  ]
+  ],
+  "arrived": {
+    "en-US": "2026-11-03"
+  }
 }

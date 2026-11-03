@@ -1,0 +1,11 @@
+# Letter CDLXIX. Peter, Abbot of Cluny, to Abbot Bernard
+
+*'*
+
+To the venerable, and every way most worthy of deep respect, Dom. Bernard, Abbot of Clairvaux, Brother P., the humble Abbot of Cluny, wishes the fulness of health and true affection.
+
+That you have acceded to my earnest requests, and at my instance, have undertaken and succeeded by continual and wise pressure in accomplishing a peaceful settlement of the quarrel which had broken out between our brother H., Prior of Arche, and the canons of Lonway, I gratefully accept, and render true thanks to you therefore. But that you may be assured that the issue of your efforts is agreeable to me, I express definitely on this page my sanction and confirmation, with the consent of my whole Chapter, of the award: viz., the receiving of Ten Solidi yearly from the Canons above named by this prior of Arche and his successors for ever.: promising you that because of this cooperation, our thanks and service shall never fail wheresoever it shall be needful. To our beloved brother W., Prior of Arche.[^1]
+
+The canons of Lonway, as we hear, held from you a certain plot of land of the estimated value of Ten Solidi (yearly), which sum I understand has been paid by the hand of the lord (Abbot) of Clairvaux, as my letter now existing is found to attest: (he directs the land to be peaceably yielded to the brethren of Clairvaux:) who have entered into possession of it.
+
+[^1]: This is a merely formal letter of approval and official sanction, from that intimate friend of S. Bernard, Peter the Venerable, Abbot of Cluny. Bernard, as we learn, had at the ‘ request of the latter interposed in a quarrel between the Cluniac Prior of Arche and the Canons of Lonway, and Peter willingly sanctioned the conditions of agreement. A second short letter to that Prior contains with reference to the former letter the conditions for placing in the place of the canons monks from Clairvaux. These letters were discovered in the Cartulary of Lonway by the late Vicar (Merle) of Fontaine-lez-Dijon, who conjectures the date of the first to be about A. D. 1145, of the second A. D. 1149. He points out also that it is the Priory of Arche-enBarrois that is here referred to. (E-)
