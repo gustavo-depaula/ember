@@ -1,0 +1,51 @@
+{
+  "id": "chesterton-father-brown-uncollected",
+  "cover": "classic",
+  "name": {
+    "en-US": "Father Brown: Two Uncollected Stories",
+    "pt-BR": "Padre Brown: Duas Histórias Não Coletadas"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Two Father Brown stories that belong to none of the five collections: The Donnington Affair (1914, written with Max Pemberton for The Premier) and The Mask of Midas (written in 1936, first printed long after).",
+    "pt-BR": "Duas histórias do Padre Brown que não pertencem a nenhuma das cinco coletâneas: O Caso Donnington (1914, escrita com Max Pemberton para a The Premier) e A Máscara de Midas (escrita em 1936 e impressa muito depois)."
+  },
+  "composed": "1914",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/father-brown-uncollected",
+  "editions": {
+    "en-US": {
+      "editor": "The Premier / posthumous",
+      "year": 1914
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.net.au/ebooks13/1301541h.html",
+      "edition": "The Donnington Affair (The Premier, November 1914; with Max Pemberton) and The Mask of Midas (written 1936), Project Gutenberg Australia, ebooks13/1301541h and ebooks13/1302281h.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain in Brazil, the UK and the EU (Chesterton died in 1936). The Donnington Affair was published in 1914; The Mask of Midas was written in 1936 and first printed later; text taken from Project Gutenberg Australia, which carries both under Australian law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-donnington-affair",
+      "title": {
+        "en-US": "The Donnington Affair"
+      }
+    },
+    {
+      "id": "ch02-the-mask-of-midas",
+      "title": {
+        "en-US": "The Mask of Midas"
+      }
+    }
+  ]
+}
