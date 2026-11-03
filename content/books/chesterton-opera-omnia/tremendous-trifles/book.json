@@ -1,0 +1,279 @@
+{
+  "id": "chesterton-tremendous-trifles",
+  "cover": "classic",
+  "name": {
+    "en-US": "Tremendous Trifles",
+    "pt-BR": "Ninharias Tremendas"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Forty short essays from the Daily News on small things: a piece of chalk, a cabman, lying in bed, a toy theatre, a train, a lion, the end of the world. Each trifle turns, by the turn of the paradox, into a window on the whole of creation.",
+    "pt-BR": "Quarenta breves ensaios do Daily News sobre coisas pequenas: um pedaço de giz, um cocheiro, ficar na cama, um teatro de brinquedo, um trem, um leão, o fim do mundo. Cada ninharia se torna, por uma virada do paradoxo, uma janela para toda a criação."
+  },
+  "composed": "1909",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/tremendous-trifles",
+  "editions": {
+    "en-US": {
+      "editor": "Methuen & Co.",
+      "year": 1909
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/8092",
+      "edition": "Tremendous Trifles (Methuen & Co., 1909), Project Gutenberg #8092.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1909 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "ch01-tremendous-trifles",
+      "title": {
+        "en-US": "I. Tremendous Trifles"
+      }
+    },
+    {
+      "id": "ch02-a-piece-of-chalk",
+      "title": {
+        "en-US": "II. A Piece of Chalk"
+      }
+    },
+    {
+      "id": "ch03-the-secret-of-a-train",
+      "title": {
+        "en-US": "III. The Secret of a Train"
+      }
+    },
+    {
+      "id": "ch04-the-perfect-game",
+      "title": {
+        "en-US": "IV. The Perfect Game"
+      }
+    },
+    {
+      "id": "ch05-the-extraordinary-cabman",
+      "title": {
+        "en-US": "V. The Extraordinary Cabman"
+      }
+    },
+    {
+      "id": "ch06-an-accident",
+      "title": {
+        "en-US": "VI. An Accident"
+      }
+    },
+    {
+      "id": "ch07-the-advantages-of-having-one-leg",
+      "title": {
+        "en-US": "VII. The Advantages of Having One Leg"
+      }
+    },
+    {
+      "id": "ch08-the-end-of-the-world",
+      "title": {
+        "en-US": "VIII. The End of the World"
+      }
+    },
+    {
+      "id": "ch09-in-the-place-de-la-bastille",
+      "title": {
+        "en-US": "IX. In the Place de La Bastille"
+      }
+    },
+    {
+      "id": "ch10-on-lying-in-bed",
+      "title": {
+        "en-US": "X. On Lying in Bed"
+      }
+    },
+    {
+      "id": "ch11-the-twelve-men",
+      "title": {
+        "en-US": "XI. The Twelve Men"
+      }
+    },
+    {
+      "id": "ch12-the-wind-and-the-trees",
+      "title": {
+        "en-US": "XII. The Wind and the Trees"
+      }
+    },
+    {
+      "id": "ch13-the-dickensian",
+      "title": {
+        "en-US": "XIII. The Dickensian"
+      }
+    },
+    {
+      "id": "ch14-in-topsy-turvy-land",
+      "title": {
+        "en-US": "XIV. In Topsy-Turvy Land"
+      }
+    },
+    {
+      "id": "ch15-what-i-found-in-my-pocket",
+      "title": {
+        "en-US": "XV. What I Found in My Pocket"
+      }
+    },
+    {
+      "id": "ch16-the-dragons-grandmother",
+      "title": {
+        "en-US": "XVI. The Dragon’s Grandmother"
+      }
+    },
+    {
+      "id": "ch17-the-red-angel",
+      "title": {
+        "en-US": "XVII. The Red Angel"
+      }
+    },
+    {
+      "id": "ch18-the-tower",
+      "title": {
+        "en-US": "XVIII. The Tower"
+      }
+    },
+    {
+      "id": "ch19-how-i-met-the-president",
+      "title": {
+        "en-US": "XIX. How I Met the President"
+      }
+    },
+    {
+      "id": "ch20-the-giant",
+      "title": {
+        "en-US": "XX. The Giant"
+      }
+    },
+    {
+      "id": "ch21-a-great-man",
+      "title": {
+        "en-US": "XXI. A Great Man"
+      }
+    },
+    {
+      "id": "ch22-the-orthodox-barber",
+      "title": {
+        "en-US": "XXII. The Orthodox Barber"
+      }
+    },
+    {
+      "id": "ch23-the-toy-theatre",
+      "title": {
+        "en-US": "XXIII. The Toy Theatre"
+      }
+    },
+    {
+      "id": "ch24-a-tragedy-of-twopence",
+      "title": {
+        "en-US": "XXIV. A Tragedy of Twopence"
+      }
+    },
+    {
+      "id": "ch25-a-cab-ride-across-country",
+      "title": {
+        "en-US": "XXV. A Cab Ride Across Country"
+      }
+    },
+    {
+      "id": "ch26-the-two-noises",
+      "title": {
+        "en-US": "XXVI. The Two Noises"
+      }
+    },
+    {
+      "id": "ch27-some-policemen-and-a-moral",
+      "title": {
+        "en-US": "XXVII. Some Policemen and a Moral"
+      }
+    },
+    {
+      "id": "ch28-the-lion",
+      "title": {
+        "en-US": "XXVIII. The Lion"
+      }
+    },
+    {
+      "id": "ch29-humanity-an-interlude",
+      "title": {
+        "en-US": "XXIX. Humanity: an Interlude"
+      }
+    },
+    {
+      "id": "ch30-the-little-birds-who-wont-sing",
+      "title": {
+        "en-US": "XXX. The Little Birds Who Won’t Sing"
+      }
+    },
+    {
+      "id": "ch31-the-riddle-of-the-ivy",
+      "title": {
+        "en-US": "XXXI. The Riddle of the Ivy"
+      }
+    },
+    {
+      "id": "ch32-the-travellers-in-state",
+      "title": {
+        "en-US": "XXXII. The Travellers in State"
+      }
+    },
+    {
+      "id": "ch33-the-prehistoric-railway-station",
+      "title": {
+        "en-US": "XXXIII. The Prehistoric Railway Station"
+      }
+    },
+    {
+      "id": "ch34-the-diabolist",
+      "title": {
+        "en-US": "XXXIV. The Diabolist"
+      }
+    },
+    {
+      "id": "ch35-a-glimpse-of-my-country",
+      "title": {
+        "en-US": "XXXV. A Glimpse of My Country"
+      }
+    },
+    {
+      "id": "ch36-a-somewhat-improbable-story",
+      "title": {
+        "en-US": "XXXVI. A Somewhat Improbable Story"
+      }
+    },
+    {
+      "id": "ch37-the-shop-of-ghosts",
+      "title": {
+        "en-US": "XXXVII. The Shop Of Ghosts"
+      }
+    },
+    {
+      "id": "ch38-the-ballade-of-a-strange-town",
+      "title": {
+        "en-US": "XXXVIII. The Ballade of a Strange Town"
+      }
+    },
+    {
+      "id": "ch39-the-mystery-of-a-pageant",
+      "title": {
+        "en-US": "XXXIX. The Mystery of a Pageant"
+      }
+    }
+  ]
+}
