@@ -13,5 +13,123 @@
     "Birgitta de Regno Swecie",
     "Brígida da Suécia",
     "Birgitta Birgersdotter"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "The short devotional texts, then the first book of the Revelations.",
+        "pt-BR": "Os textos devocionais breves e depois o primeiro livro das Revelações."
+      },
+      "works": [
+        {
+          "work": "bridget-of-sweden/quattuor-orationes",
+          "why": {
+            "en-US": "The Four Prayers revealed to Bridget, praising Christ and the Virgin",
+            "pt-BR": "As Quatro Orações reveladas a Brígida, em louvor de Cristo e da Virgem"
+          }
+        },
+        {
+          "work": "bridget-of-sweden/sermo-angelicus",
+          "why": {
+            "en-US": "Twenty-one lessons on the excellence of Mary, dictated by an angel",
+            "pt-BR": "Vinte e uma lições sobre a excelência de Maria, ditadas por um anjo"
+          }
+        },
+        {
+          "work": "bridget-of-sweden/revelationes-1",
+          "why": {
+            "en-US": "Book I: Christ and Mary on the Incarnation, the faith and the Church",
+            "pt-BR": "Livro I: Cristo e Maria sobre a Encarnação, a fé e a Igreja"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The Revelations",
+        "pt-BR": "As Revelações"
+      },
+      "note": {
+        "en-US": "The eight books, in order.",
+        "pt-BR": "Os oito livros, em ordem."
+      },
+      "works": [
+        {
+          "work": "bridget-of-sweden/revelationes-2",
+          "why": {
+            "en-US": "Book II: the Son instructs the bride against the devil",
+            "pt-BR": "Livro II: o Filho instrui a esposa contra o demônio"
+          }
+        },
+        {
+          "work": "bridget-of-sweden/revelationes-3",
+          "why": {
+            "en-US": "Book III: counsels to a bishop on the episcopal office",
+            "pt-BR": "Livro III: conselhos a um bispo sobre o ofício episcopal"
+          }
+        },
+        {
+          "work": "bridget-of-sweden/revelationes-4",
+          "why": {
+            "en-US": "Book IV: Christ, Mary and the saints, with the words of John",
+            "pt-BR": "Livro IV: Cristo, Maria e os santos, com as palavras de João"
+          }
+        },
+        {
+          "work": "bridget-of-sweden/revelationes-5",
+          "why": {
+            "en-US": "Book V, the Book of Questions: a proud religious and Christ the Judge",
+            "pt-BR": "Livro V, o Livro das Questões: um religioso soberbo e Cristo Juiz"
+          }
+        },
+        {
+          "work": "bridget-of-sweden/revelationes-6",
+          "why": {
+            "en-US": "Book VI, from her years in Naples and Rome",
+            "pt-BR": "Livro VI, de seus anos em Nápoles e Roma"
+          }
+        },
+        {
+          "work": "bridget-of-sweden/revelationes-7",
+          "why": {
+            "en-US": "Book VII: her pilgrimage to the Holy Land and accounts of her death",
+            "pt-BR": "Livro VII: sua peregrinação à Terra Santa e relatos de sua morte"
+          }
+        },
+        {
+          "work": "bridget-of-sweden/revelationes-8",
+          "why": {
+            "en-US": "Book VIII: revelations for kings and princes",
+            "pt-BR": "Livro VIII: revelações para reis e príncipes"
+          }
+        },
+        {
+          "work": "bridget-of-sweden/revelaciones-extravagantes",
+          "why": {
+            "en-US": "Revelations left out of the eight books, on the Rule, the sisters and the Church",
+            "pt-BR": "Revelações fora dos oito livros, sobre a Regra, as irmãs e a Igreja"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The Rule",
+        "pt-BR": "A Regra"
+      },
+      "works": [
+        {
+          "work": "bridget-of-sweden/regula-salvatoris",
+          "why": {
+            "en-US": "The Rule of the Savior for the order she founded at Vadstena",
+            "pt-BR": "A Regra do Salvador para a ordem que ela fundou em Vadstena"
+          }
+        }
+      ]
+    }
   ]
 }
