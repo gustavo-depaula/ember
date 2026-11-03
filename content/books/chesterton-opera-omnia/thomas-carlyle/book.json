@@ -1,0 +1,45 @@
+{
+  "id": "chesterton-thomas-carlyle",
+  "cover": "classic",
+  "name": {
+    "en-US": "Thomas Carlyle",
+    "pt-BR": "Thomas Carlyle"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's essay on Carlyle in the Bookman Booklets series. A short critical study.",
+    "pt-BR": "O ensaio de Chesterton sobre Carlyle na série Bookman Booklets. Um breve estudo crítico."
+  },
+  "composed": "1902",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/thomas-carlyle",
+  "editions": {
+    "en-US": {
+      "editor": "Hodder and Stoughton",
+      "year": 1902
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/71159",
+      "edition": "Thomas Carlyle (Hodder and Stoughton, 1902), Project Gutenberg #71159.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1902 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-thomas-carlyle",
+      "title": {
+        "en-US": "Thomas Carlyle"
+      }
+    }
+  ]
+}

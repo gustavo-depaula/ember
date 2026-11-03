@@ -1,0 +1,291 @@
+# Thomas Carlyle
+
+There are few cultivated people who do not pretend to have read Mr. Lecky’s “History of Rationalism in Europe.” That very able work covers the whole of one very important side of modern development. But the picture of the real progress, the real mental and moral improvement of our species during the last few centuries, will not be complete until Mr. Lecky publishes a companion volume entitled “The History of Irrationalism in Europe.” The two tendencies, acting together, have been responsible for the whole advancement of the Western world. Rationalism is, of course, that power which makes people invent sewing machines, understand Euclid, reform vestries, pull out teeth, and number the fixed stars. Irrationalism is that other force, if possible more essential, which makes men look at sunsets, laugh at jokes, go on crusades, write poems, enter monasteries, and jump over hay-cocks. Rationalism is the beneficent attempt to make our institutions and theories fit the world we live in, as clothes fit the wearer. Irrationalism is the beneficent reminder that, at the best, they do not fit. Irrationalism exists to point out that that eccentric old gentleman, “The World,” is such a curiously shaped old gentleman that the most perfect coats and waistcoats have an extraordinary way of leaving parts of him out, sometimes whole legs and arms, the existence of which the tailor had not suspected. And as surely as there arises a consistent theory of life which seems to give a whole plan of it, there will appear within a score or two of years a great Irrationalist to tell the world of strange seas and forests which are nowhere down on the map. The great movement of the eighteenth and nineteenth centuries, which rose to its height in the French Revolution and the Positivist philosophy, was the last great Rationalistic synthesis. The inevitable Irrationalist who followed it was Thomas Carlyle. This is the first and most essential view of his position.
+
+[Illustration:
+
+*From a photo by J. Patrick, Edinburgh*
+
+ARCH HOUSE, ECCLEFECHAN
+
+The Birthplace of Thomas Carlyle]
+
+[Illustration:
+
+*From a photo by G. G. Napier, M.A.*
+
+THE ROOM AT ARCH HOUSE IN WHICH CARLYLE WAS BORN]
+
+[Illustration: ECCLEFECHAN, DUMFRIESSHIRE
+
+Carlyle’s native village, and the Entepfuhl of “Sartor Resartus”
+
+(Reproduced from “Letters of Thomas Carlyle to his Youngest Sister,” by kind permission of Messrs. Chapman and Hall)]
+
+[Illustration:
+
+*From a photo by G. G. Napier, M.A.*
+
+MAINHILL FARM
+
+The Home of Carlyle’s Parents from 1815 to 1825]
+
+[Illustration:
+
+*From a photo by J. Patrick, Edinburgh*
+
+HODDAM HILL
+
+Where Carlyle lived in 1825]
+
+[Illustration: THOMAS CARLYLE
+
+*From a portrait by Daniel Maclise, R.A. now in the Victoria and Albert Museum*
+
+Rischgitz Collection]
+
+[Illustration:
+
+A PORTRAIT OF CARLYLE ENGRAVED BY F. CROLL FROM A DAGUERREOTYPE BY BEARD
+
+Rischgitz Collection]
+
+In order to explain the matter more clearly, it is necessary to recur to our image of the old gentleman whom no tailor could fit. Not only do the tailors tend to think that clothes can be made to fit the old gentleman, but they tend very often to think that the whole question is a question of clothes. Thus, for instance, the Popes and Bolingbrokes of the earlier eighteenth century tried to make man a purer symbol of civilisation. They tried to pluck from him altogether his love of the savage and primeval, as they might have plucked off a shaggy wig from the old gentleman in order to put on a powdered one. A bystander of the name of Byron, who was indeed none other than the inevitable Irrationalist, startled them by pointing out that the shaggy object was not a wig at all, but the poor old gentleman’s own hair; that, in other words, the love of the savage, the primeval, the lonely and unsociable, was a part of man, and it was their business to recognise it. Then arose the new fashion in cosmic clothes, which did recognise this natural element. Rousseau and Shelley took the old gentleman in hand, and provided him with spring-like garments, coloured like the clouds of morning. But one of their principles was the absolute principle of equality. Finding, therefore, that the old gentleman was wearing a curiously shaped hat, compounded of crown, coronet, and mitre, the great hat of Godhood, kinghood, and superiority, they proceeded, in order to make him more natural, to knock it off; and to them suddenly appeared the inevitable Irrationalist, a Scotch gentleman from Dumfriesshire, who, addressing them politely, said, “You believe that that regal object you are knocking off is his hat: believe me, gentlemen, it is his head. Such mistakes will occur after a hasty inspection, but that kingship is really a part of the old gentleman, and it is your business to recognise it.” As Byron had come, just as the classic edifice of polite deism had been completed, to point out that the fact remained that he, Byron, did prefer walking by the seashore to taking tea in the garden, so Carlyle appeared, just as the austere temple of political equality was erected, to point out that the fact remained that he did think many people a great deal better than himself, and very many people a great deal worse. Thus, then, as the asserter of the natural character of kingship against the natural character of equality, it is that Thomas Carlyle primarily stands twenty-one years after his death.
+
+[Illustration: THOMAS CARLYLE
+
+*From a sketch by Count D’Orsay* (1839)
+
+Rischgitz Collection]
+
+[Illustration: CARLYLE’S FIRST EDINBURGH LODGING IN SIMON SQUARE
+
+*From a photograph by Mr. Thomas Clark, Edinburgh*]
+
+[Illustration: 1, MORAY STREET (NOW SPEY STREET), LEITH WALK, EDINBURGH
+
+*From a photograph by Mr. Thomas Clark, Edinburgh*]
+
+Now I do not think, as I shall show later, that Carlyle ever really understood the true doctrine of equality; but it is certainly at least equally true that the egalitarians and the ordinary opponents of Carlyle have never done the least justice to Carlyle’s doctrine of hero-worship. The usual theory is that he believed in a race of arrogant strong men, brutally self-sufficient and brazenly indifferent to ethical limits, and that he wanted these men to frighten and dominate the populace as a keeper or a doctor frightens and dominates the lunatic in a cell. It is not too much to say that there is scarcely a trace in Carlyle’s works of this barbarous and ridiculous idea. If there be a trace of it here and there, it is mere explosion of personal ill-temper, and has nothing whatever in common with Carlyle’s deliberate theory of the hero. His theory of the hero was that he was a man whom men followed, not because they could not help fearing, but because they could not help loving him. His theory, right or wrong, was that when a man was your superior you were acting naturally in looking up to him, and were therefore happy; that you were acting unnaturally in equalising yourself with him, and were therefore unhappy. Most people, except those solemn persons who are called with some humour free-thinkers, would agree, for instance, that the worship of God was a human function, and therefore gave pleasure to the performer of it, like eating or taking exercise. Now Carlyle held, rightly or wrongly, that the worship of man, of the great man, was also a human function, and therefore gave pleasure to the performer of it. It all depends upon whether we do take an egalitarian or an aristocratic view of the spiritual world. If the spiritual world is based upon equality, then, no doubt, to keep a man in an inferior position must spiritually depress and degrade him; but if beings in the spiritual world have higher and lower functions, it is obvious that it is equally depressing and degrading to a man to take him out of his position and make him either a citizen or an emperor.
+
+[Illustration: THOMAS CARLYLE
+
+*From a photo by the London Stereoscopic Co.*]
+
+[Illustration:
+
+*From a photo by G. G. Napier, M.A.*
+
+MRS. CARLYLE’S BIRTHPLACE
+
+Dr. Welsh’s House at Haddington.]
+
+[Illustration:
+
+*From a photo by R. Milliken, Kirkcaldy.*
+
+THE HOUSE IN WHICH CARLYLE LIVED WHILST TEACHING AT KIRKCALDY SCHOOL]
+
+Moreover, the real practical truth that underlay Carlyle’s gospel of the hero has in other ways been misunderstood. The general idea is that Carlyle thought that, if a man were only able, everything was to be excused to him. If Carlyle, even at any moment, thought this, it can only be said that for that moment Carlyle was a fool, as many able men may happen to be. But, as a matter of fact, what Carlyle meant was something much sounder. To say that any man may tyrannise so long as he is able, is as ridiculous as saying that any man may knock people down so long as he is six feet high. But in urging this very obvious fact the opponents of Carlyle too often forget a simpler truth at the back of the Carlyle gospel. It is that, while in one sense the same moral test is to be applied to all men, there does remain in ordinary charitable practice a very great difference between the people who consider it necessary to see some definite thing done before they die, and the people who cheerfully admit that two hundred years will scarcely bring what they require, and that meanwhile they desire to do nothing. A Tolstoian anarchist who thinks that men should be morally persuaded for the next two or three centuries to give up every kind of physical compulsion may, it is quite conceivable, be more right than the English Home Secretary who finds himself responsible for the suppression of a riot in Manchester; but surely it is patently ridiculous to say that it is just as much to the anarchist’s credit that he avoids shooting Manchester workmen as it would be to the Home Secretary’s credit if he avoided shooting them. It would be equally ridiculous to say that, if the Home Secretary conceived it necessary to shoot them, from a sense of responsibility, that his action, even if wrong, was really as wrong as the conduct of a Tolstoian who should shoot them without any reason at all. In this sense, therefore, there is really a different test, and a perfectly fair one, for men of action and for men of abstract theories and remote hopes.
+
+[Illustration:
+
+*From a photo by G. G. Napier, M.A.*
+
+SCOTSBRIG
+
+A farm in the neighbourhood of Ecclefechan to which the Carlyles removed from Mainhill in 1826]
+
+[Illustration:
+
+*From a photo by J. Patrick, Edinburgh*
+
+TEMPLAND, NEAR THORNHILL, DUMFRIESSHIRE
+
+Thomas Carlyle married Jane Baillie Welsh on October 17th, 1826, at Templand, Mrs. Welsh’s residence]
+
+[Illustration:
+
+*From the painting by J. McNeill Whistler*
+
+THOMAS CARLYLE
+
+(Reproduced by kind permission of Messrs. T. & R. Annan & Sons, by courtesy of the Glasgow Corporation)]
+
+[Illustration:
+
+*From a photo, by Mr. Thomas Clark, Edinburgh*
+
+21, COMELY BANK, EDINBURGH
+
+Carlyle and his wife lived at Comely Bank for eighteen months after their marriage]
+
+[Illustration:
+
+*From a wood engraving by Pearson of Sir J. E. Boehm’s gold medallion*
+
+THOMAS CARLYLE
+
+(Reproduced by kind permission of Messrs. Chapman and Hall)]
+
+Now, it must definitely be set to the credit of men like Cromwell and Mirabeau, that they were undoubtedly opposed to and embarrassed by men whose projects, even in their own eyes, were scarcely a part of practical politics. These men exist in every country and in every age. They are wilfully and eternally in opposition. They do not agree sufficiently with the active powers even to argue with them with any profit. Their ideal is so far away that they do not even desire it with any immediate hunger. They count it a pleasant and natural thing to live and die in revolt. They are ready to be critics, they are ready to be martyrs, they are emphatically not ready to be rulers. In this way Cromwell, considering how he might make some English polity out of a chaos of English parties, had to argue for hours together with Fifth Monarchy men, to whom the vital question was whether the children of malignants should not be slain, and whether a man who was caught swearing should not be stoned to death. In this way Mirabeau, striving to keep the tradition of French civilisation intact amid a hundred essential reforms, found his way blocked by men who insisted on discussing whether in the ideal commonwealth men would believe in immortality, or go through a rite of marriage. Now, while fully granting that both types have an eternal value, it is certainly not just that precisely the same ethical test should be applied to Cromwell and the Fifth Monarchy men, to Mirabeau and the worshipper of pure reason. It is not just that we should judge in precisely the same way the pace of a butcher’s cart which is obliged to get to Pimlico, and the pace of a butcher’s cart which is designed at some time or other to reach the site of the Garden of Eden. It is not just that we should judge in the same way the man who is simply anxious to erect a parish pump, and the opponent of the pump, who looks forward to a day when there shall not only be no pump, but no parish. The man of action, then, really has in this sane and limited sense a claim to a peculiar kind of allowance, in that it is of vital necessity to him that a certain limited grievance should be removed. It is easy enough to be the man who lives in a contented impotence; the man who luxuriates in an endless and satisfied defeat. He does not desire to be effective; he only desires to be right. He does not desire passionately that something should be done; he only desires that it should be triumphantly proved to be necessary.
+
+[Illustration:
+
+*From a photo by the London Stereoscopic Co.*
+
+THOMAS CARLYLE, ABOUT 1860]
+
+[Illustration:
+
+*From a photo by Elliott & Fry*
+
+THOMAS CARLYLE, 1865]
+
+This is the real contribution of Carlyle to the philosophy of the man of action. He revealed, entirely justly, and entirely to the profit of us all, the pathos of the practical man. He made us feel, what is profoundly true, that the tragedy of the death of Mary, Queen of Scots, is nothing to the tragedy of the death of Elizabeth; that the tragedy of the death of Charles I. is nothing to the tragedy of the death of Cromwell. A man like Charles I. died triumphantly; he did not indeed die as a martyr, but he died as something which is much more awful and exceptional—a consistent man. He was worse than a tyrant, he was a logician. But a man like Cromwell is in a much harder case, for he does not wish to die and be a spectacle, but to live and be a force. He has to break altogether with the splendid logic of martyrdom. He has to eat his own words for breakfast, dinner, and supper. He has to outlive a hundred incarnations, and always reject the last; his progress is like that unnerving initiation in the wild tale of Tom Moore’s, in which the disciple had to climb up a stone stairway into the sky, every step of which fell away the moment his foot had left it. This is the only genuine truth that Carlyle brought from his study of strong men. If ever he said that we must blindly obey the strong man, he was merely angry and personal, and untrue to his essentially generous and humane spirit. When he said that we must reverence the strong man he sometimes expressed himself with a certain heated confusion, and left it doubtful whether he meant that we should reverence the strong man as we respect Christ, or merely as we respect Sandow. But we should all agree with him in his essential and eternal contribution—that we should pity the strong man more than an idiot or a cripple.
+
+[Illustration: A PORTRAIT OF CARLYLE TAKEN IN 1879
+
+Rischgitz Collection]
+
+[Illustration: FACSIMILES OF CARLYLE’S SIGNATURE
+
+(Reproduced by kind permission of Messrs. Chapman & Hall) ]
+
+It may be said that there is a certain inconsistency between these two justifications of Carlyle’s hero-worship: that we cannot at the same time respect a man because he is above us in a definite spiritual order, and because he is in what is popularly called a hole; that we cannot at once reverence Mirabeau because he was strong and because he was weak. This kind of inconsistency does exist in Carlyle; it is, I may say with all reverence and with all certainty, the eternal and inevitable inconsistency which characterises those who receive divine revelations. The larger world, which our systems attempt to explain and chiefly succeed in hiding, must, when it breaks through upon us, take forms which appear to be conflicting. The spiritual world is so rich that it is varied; so varied that it is inconsistent. That is why so many saints and great doctors of religion have pinned their faith to paradoxes like the “Credo Quia Impossibile,” the great theological paradoxes which are so much more dazzling and daring than the paradoxes of the modern *flâneur*. The supreme glory of Carlyle was that he heard the veritable voices of the Cosmos. He left it to others to attune them into an orchestra. Sometimes the truth he heard was this truth, that some men are to be commanded and some obeyed; sometimes that deeper and more democratic truth that all men are above all things to be pitied.
+
+[Illustration:
+
+*From a photo by J. Patrick, Edinburgh*
+
+CRAIGENPUTTOCK
+
+Carlyle’s residence from 1828 to 1834]
+
+[Illustration:
+
+*From a photo by J. Patrick, Edinburgh*
+
+PORTRAIT GROUP TAKEN AT KIRKCALDY
+
+Thomas Carlyle, his niece, his brother, and Provost Swan]
+
+[Illustration: *From a terra-cotta bust in the National Portrait Gallery, by Sir J. E. Boehm, R.A.*
+
+THOMAS CARLYLE
+
+(Reproduced from “Past and Present.” by kind permission of Messrs. J. M. Dent & Co.)]
+
+It will be found relevant to what I have to say hereafter to remark at this point that I do not myself accept Carlyle’s conception of the spiritual world as exhaustive. I believe in the essence of the old doctrine of equality, because it appears to me to result from all conceptions of the divinity of man. Of course there are inequalities, and obvious ones, but though they are not insignificant positively, they are insignificant comparatively. If men are all really the images of God, to talk about their differences has its significance, but only about the same significance which may be found in talking about the respective heights of twenty men, all of whom have received the Victoria Cross, or the respective length of the moustaches of twenty men, all of whom have died to save their fellow-creatures. In comparison with the point in which they are equal, the point in which they are unequal is not merely decidedly, but almost infinitely, insignificant. But my reason for indicating my own opinion on the matter, at this point, is a definite one. Carlyle’s view of equality does not happen to be mine; but it has an absolute right to be stated justly, and to be stated from Carlyle’s point of view. It was not a brutal fear or a mean worship of force; it was a serious belief that some found blessedness in commanding, and some in obeying. Now this kind of intellectual justice was the one great quality which was lacking in Carlyle himself. He would not consent to listen to Rousseau’s gospel, as I have suggested that we should listen to Carlyle’s gospel. He would not put Rousseau’s gospel from Rousseau’s point of view. And consequently to the end of his days he never understood any gospel except Carlyle’s gospel.
+
+[Illustration:
+
+*From a photo by J. Patrick, Edinburgh*
+
+CARLYLE’S HOUSE AT 5 (*now 24*), CHEYNE ROW, CHELSEA]
+
+[Illustration: JANE WELSH CARLYLE
+
+(Reproduced by kind permission of Messrs. Chapman and Hall)]
+
+[Illustration:
+
+CORNER IN DRAWING-ROOM AT 5, CHEYNE ROW, with Carlyle’s Reading Chair, given him by John Forster
+
+*Drawn by R. Gray from a photograph by C. Baly* (1881)
+
+(Reproduced from Reginald Blunt’s “The Carlyles’ Chelsea Home,” by kind permission of the author) ]
+
+When a literary man is known to have been almost a monster of industry, when he has produced a colossal epic like “Frederick the Great” on the dullest of all earthly subjects—Germany in the eighteenth century—when he has piled up all the complicated material of the history of the French Revolution, lost it, and by a portent of heroism piled it all up again; when he has achieved such masterpieces of research as the discovery of sense in Cromwell’s speeches, and good qualities in Frederick of Prussia: when an author has done all this, it may seem a singular comment upon him to say that his main characteristic was a lack of patience. But this was in reality the chief weakness, in fact the only real weakness, of Carlyle as a moralist. It is very much easier to have what may be called moral patience or mental patience than to have something which may best be described as spiritual patience. Carlyle was patient with facts, dates, documents, intolerably wearisome memoirs; but he was not patient with the soul of man. He was not patient with ideas, theories, tendencies, outside his own philosophy. He never understood, and therefore persistently undervalued, the real meaning of the idea of liberty, which is a faith in the growth and life of the human mind; vague indeed in its nature, but transcending in its magnitude even our faith in our own faiths. He was something of a Tory, something of a Sans-culotte, something of a Puritan, something of an Imperialist, something of a Socialist; but he was never, even for a single moment, a Liberal. He did not believe as the Liberal believes, first indeed in his own truth, which in his eyes is pure truth, but beyond that also in that mightier truth which is made up of a million lies.
+
+[Illustration:
+
+THE GARDEN AT No. 5, CHEYNE ROW ]
+
+[Illustration:
+
+*From a drawing by E. J. Sullivan*
+
+THOMAS CARLYLE
+
+(Reproduced from the illustrated “Sartor Resartus,” by kind permission of Messrs. George Bell & Sons)]
+
+[Illustration:
+
+*From a photo in possession of W. Robertson Nicoll, LL.D.*
+
+MRS. CARLYLE ABOUT 1864]
+
+And this spiritual impatience of Carlyle has left its peculiar mark in the only defect which can really be found in his historical works. Of the astonishing power and humour and poignancy of those historical works I think it scarcely necessary to speak. A man must have a very poor literary sense who can read one of Carlyle’s slighter sketches, such as “The Diamond Necklace,” and not feel that he has at the same time to deal with one of the greatest satirists, one of the greatest mystics, and incomparably one of the finest story-tellers in the world. No historian ever realised so strongly the recondite and ill-digested fact that history has consisted of human beings, each isolated, each vacillating, each living in an eternal present; or, in other words, that history has not consisted of crowds, or kings, or Acts of Parliament, or systems of government, or articles of belief. And Carlyle has, moreover, introduced into the philosophy of history one element which had been absent from it since the writing of the Old Testament—the element of something which can only be called humour in the just government of the universe. “He that sitteth in the heavens shall laugh them to scorn, the Lord shall have them in derision,” is a note that is struck again in Carlyle for the first time after two thousand years. It is the note of the sarcasm of Providence. Any one who will read those admirable chapters of Carlyle on Chartism will realise that, while all other humanitarians were insisting upon the cruelty or the inconsistency or the barbarism of neglecting the problem of labour, Carlyle is rather filled with a kind of almost celestial astonishment at the absurdity of neglecting it.
+
+[Illustration:
+
+*From a photo by G. G. Napier M.A.*
+
+CARLYLE’S GRAVE AT ECCLEFECHAN
+
+Thomas Carlyle died on February 5th, 1881]
+
+[Illustration:
+
+*From a photo by J. F. Gordon, Haddington*
+
+MRS. CARLYLE’S GRAVE IN HADDINGTON CHURCH
+
+Mrs. Carlyle died on April 21st, 1866]
+
+But a definite defect there is, as I have suggested, in Carlyle, considered as an historian, and it flows directly from that real moral defect in his nature, an impatience with other men’s ideas. In judging of men as men, he was not only quick and graphic and correct, but in the main essentially genial and magnanimous. Only a very superficial critic will think that Carlyle was misanthropic because he was surly. There is very much more real sympathy with human problems and temptations in a page of this shaggy old malcontent than in whole libraries of constitutional history by dapper and polite rationalists, who treat men as automata, and put their virtues and vices into separate pigeonholes. If I had made a mistake or committed a sin that had any sort of human character about it, I would very much rather fall into the hands of Carlyle than into the hands of Mr. Hallam or Mr. James Mill. But while Carlyle did realise the fact that every man carries about with him his own life and atmosphere, he did not realise that other truth, that every man carries about with him his own theory of the world. Each one of us is living in a separate Cosmos. The theory of life held by one man never corresponds exactly to that held by another. The whole of a man’s opinions, morals, tastes, manners, hobbies, work back eventually to some picture of existence itself which, whether it be a paradise or a battle-field, or a school or a chaos, is not precisely the same picture of existence which lies at the back of any other brain. Carlyle had not fully realised that it was a case of one man, one Cosmos. Consequently, he devoted himself to asking what place any man, say Robespierre or Shelley, occupied in Carlyle’s Cosmos. It never occurred to him sufficiently clearly to ask what place Shelley occupied in Shelley’s Cosmos, or Robespierre in Robespierre’s Cosmos. Not feeling the need of this, he never studied, he never really listened to, Shelley’s philosophy or Robespierre’s philosophy. Here, after a somewhat long circuit, we have arrived at the one serious deficiency in Carlyle’s histories, a neglect to realise the importance of theory and of alternative theories in human affairs.
+
+[Illustration:
+
+*From the portrait painted by Sir J. E. Millais, P.R.A., for Mr. J. A. Froude in 1877*
+
+THOMAS CARLYLE
+
+In the National Portrait Gallery. Rischgitz Collection.]
+
+[Illustration: THE GROUND-FLOOR ROOMS AT 5, CHEYNE ROW (1900)
+
+(Reproduced from Reginald Blunt’s “Historical Handbook to Chelsea,” by kind permission of the author)]
+
+[Illustration:
+
+*From a photo by Robert Tait*
+
+THE GARRET STUDY AT CHEYNE ROW (1857)
+
+(Reproduced from Reginald Blunt’s “The Carlyles’ Chelsea Home,” by kind permission of the author)]
+
+[Illustration:
+
+*Photo by Frederick Hollyer*
+
+THOMAS CARLYLE, ÆT. 73
+
+From the painting by G. F. Watts, R.A., now in the National Portrait Gallery]
+
+[Illustration: THE SOUND-PROOF STUDY AT CHEYNE ROW IN 1900, SHOWING THE DOUBLE WALLS
+
+(Reproduced from Reginald Blunt’s “Historical Handbook to Chelsea,” by kind permission of the author)]
+
+The standing example of this is the “History of the French Revolution.” Carlyle’s conception of the French Revolution is simply and absolutely that of an elemental outbreak, an explosion of nature in history, an earthquake in the moral world. Human nature, Carlyle seems to tell us, had been stifled more and more in the wrappings of artificiality, until, when its condition had just passed the tolerable, gagged, blinded, deaf, and ignorant of what it really wanted, by a gigantic muscular effort it burst its bonds.
+
+[Illustration: THE KITCHEN AT No. 5, CHEYNE ROW (1900)
+
+(Reproduced from Reginald Blunt’s “Historical Handbook to Chelsea,” by kind permission of the author)]
+
+[Illustration: CARLYLE’S WRITING-DESK AND CHAIR
+
+(Reproduced by kind permission of Mr. Reginald Blunt)]
+
+So far as it goes, that is perfectly true of the French Revolution; but only so far as it goes. The French Revolution was a sudden starting from slumber of that terrible spirit of man which sleeps through the greater number of the centuries; and Carlyle appreciates this, and describes it more powerfully and fearfully than any human historian, because this idea of the spirit of man breaking through formulae and building again on fundamentals was a part of his own philosophical theory, and therefore he understood it. But he never, as I have said, took any real trouble to understand other people’s philosophical theories. And he did not realise the other fact about the French Revolution—the fact that it was not merely an elementary outbreak, but was also a great doctrinal movement. It is an astonishing thing that Carlyle’s “French Revolution” contrives to be as admirable and as accurate a history as it is, while from one end to the other there is hardly a suggestion that he comprehended the moral and political theories which were the guiding stars of the French Revolutionists. It was not necessary that he should agree with them, but it was necessary that he should be interested in them; nay, in order that he should write a perfect history of their developments, it was necessary that he should admire them. The truly impartial historian is not he who is enthusiastic for neither side in a historic struggle: that method was adopted by the rationalistic historians of the Hallam type, and resulted in the dullest and thinnest and most essentially false chronicles that were ever compiled about mankind. The truly impartial historian is he who is enthusiastic for both sides. He holds in his heart a hundred fanaticisms. The truly philosophical historian does not patronise Cromwell and pat the King on the head, as Hallam does; the true philosophical historian could ride after Cromwell like an Ironside and adore the King like a Cavalier.
+
+The only history that is worth knowing, or worth striving to know, is the history of the human head and the human heart, and of what great loves it has been enamoured: truth in the sense of the absolute justice is a thing for which fools look in history and wise men in the Day of Judgment. It is the glory of Carlyle that he did realise that the intellectual impartiality of the rationalist historian was merely emotional ignorance. It was his only defect that he extended his sympathy, in cases like that of the French Revolution, only to headlong men and impetuous actions, and not to great schools of revolutionary doctrine and faith. He made somewhat the same mistake with regard to the Middle Ages, touching which his contributions are unequalled in picturesqueness and potency. He conceived the mediæval period in Europe as a barbaric verity, “a rude, stalwart age”; he did not realise what is more and more unfolding itself to all serious historians, that the mediæval period in Europe was a civilisation based upon a certain scheme of moral science of almost unexampled multiplicity and stringency, a scheme in which the colours of a lacquey’s coat could be traced back to a system of astronomy, and the smallest bye-law for a village green had some relation to great ecclesiastical and moral mysteries. It is remarkable that we always call a rival civilisation savage: the Chinese call us barbarians, and we call them barbarians. The Middle Ages were a rival civilisation, based upon moral science, to ours based upon physical science. Most modern historians have abused this great civilisation for being barbarous: Carlyle had made one great stride beyond them in so far that he admired it for being barbarous. But his fatal strain of intellectual impatience prevented him from getting on to the right side of Catholic dogmas, just as it prevented him from getting on to the right side of Jacobin dogmas. He never really discovered what other people meant by Apostolic Succession, or Liberty, or Equality, or Fraternity.
+
+[Illustration: STATUE OF CARLYLE
+
+By Sir J. E. Boehm, R.A. In the Gardens on the Chelsea Embankment Rischgitz Collection.]
+
+Probably his few mistakes arose from his unfortunate tendency to find “shams.” Some have supposed this to be the essence and value of his message; it was in truth its worst pitfall and disaster. A man is almost always wrong when he sets about to prove the unreality and uselessness of anything: he is almost invariably right when he sets about to prove the reality and value of anything. I have a quite different and much more genuine right to say that bull’s-eyes are nice than I have to say liquorice is nasty: I have found out the meaning of the first and not of the second. And if a man goes on a tearing hunt after shams, as Carlyle did, it is probable that he will find little or nothing real. He is tearing off the branches to find the tree.
+
+I have said all that is to be said against Carlyle’s work almost designedly: for he is one of those who are so great that we rather need to blame them for the sake of our own independence than praise them for the sake of their fame. He came and spoke a word, and the chatter of rationalism stopped, and the sums would no longer work out and be ended. He was a breath of Nature turning in her sleep under the load of civilisation, a stir in the very stillness of God to tell us He was still there.
