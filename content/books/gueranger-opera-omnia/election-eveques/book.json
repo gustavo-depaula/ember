@@ -1,0 +1,168 @@
+{
+  "id": "gueranger-election-eveques",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "De l’élection et de la nomination des évêques",
+    "en-US": "On the Election and Nomination of Bishops",
+    "pt-BR": "Da eleição e da nomeação dos bispos"
+  },
+  "author": {
+    "fr-FR": "Prosper Guéranger",
+    "en-US": "Prosper Guéranger",
+    "pt-BR": "Prosper Guéranger"
+  },
+  "description": {
+    "fr-FR": "Premier livre de Prosper Guéranger (1831), écrit au Mans après la Révolution de 1830 : le ministère de l’élection, le rôle du clergé et du peuple, les devoirs et les limites du prince chrétien, les investitures, les réserves, la Pragmatique Sanction, le Concordat de 1516 et leurs conséquences, avec une exhortation aux évêques de France. Les paragraphes explicatifs de Dom Delatte qui précèdent le texte sont omis.",
+    "en-US": "Prosper Guéranger’s first book (1831), written at Le Mans after the Revolution of 1830: the ministry of election, the role of clergy and people, the duties and limits of the Christian prince, investitures, reservations, the Pragmatic Sanction, the Concordat of 1516 and its consequences, with an exhortation to the bishops of France. Dom Delatte’s explanatory paragraphs that precede the text are left out.",
+    "pt-BR": "O primeiro livro de Prosper Guéranger (1831), escrito em Le Mans após a Revolução de 1830: o ministério da eleição, o papel do clero e do povo, os deveres e limites do príncipe cristão, as investiduras, as reservas, a Pragmática Sanção, a Concordata de 1516 e suas consequências, com uma exortação aos bispos da França. Os parágrafos explicativos de Dom Delatte que precedem o texto foram omitidos."
+  },
+  "composed": "1831",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/election-eveques",
+  "editions": {
+    "fr-FR": {
+      "editor": "Au Mans (1831), as reproduced in Dom Delatte’s Dom Guéranger, abbé de Solesmes (Paris, 1910)",
+      "year": 1831
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://www.domgueranger.net/de-lelection-et-la-nomination-des-eveques/",
+      "edition": "De l’élection et de la nomination des évêques, Le Mans, 1831 (domgueranger.net HTML transcription, 271 notes)",
+      "description": "Complete text of the twenty chapters as reproduced on the site; headnote paragraphs in italics omitted.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; text first published in his lifetime or by 1931."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "fr-FR": "Préface"
+      }
+    },
+    {
+      "id": "01",
+      "title": {
+        "fr-FR": "Chapitre 1. Du ministère de l’élection en général"
+      }
+    },
+    {
+      "id": "02",
+      "title": {
+        "fr-FR": "Chapitre 2. L’élection des évêques a toujours appartenu au clergé"
+      }
+    },
+    {
+      "id": "03",
+      "title": {
+        "fr-FR": "Chapitre 3. Du pouvoir accordé au peuple chrétien dans les élections"
+      }
+    },
+    {
+      "id": "04",
+      "title": {
+        "fr-FR": "Chapitre 4. Indépendance de l’Église à l’égard des princes, dans les élections, avant la conversion des empereurs"
+      }
+    },
+    {
+      "id": "05",
+      "title": {
+        "fr-FR": "Chapitre 5. Du prince chrétien ; ses devoirs"
+      }
+    },
+    {
+      "id": "06",
+      "title": {
+        "fr-FR": "Chapitre 6. Concorde du sacerdoce et de l’empire, considérée spécialement dans les élections"
+      }
+    },
+    {
+      "id": "07",
+      "title": {
+        "fr-FR": "Chapitre 7. Respect religieux des princes chrétiens pour la liberté des élections"
+      }
+    },
+    {
+      "id": "08",
+      "title": {
+        "fr-FR": "Chapitre 8. Travaux de l’Église pour la liberté des élections"
+      }
+    },
+    {
+      "id": "09",
+      "title": {
+        "fr-FR": "Chapitre 9. Des investitures"
+      }
+    },
+    {
+      "id": "10",
+      "title": {
+        "fr-FR": "Chapitre 10. Des réserves"
+      }
+    },
+    {
+      "id": "11",
+      "title": {
+        "fr-FR": "Chapitre 11. La pragmatique sanction"
+      }
+    },
+    {
+      "id": "12",
+      "title": {
+        "fr-FR": "Chapitre 12. Concordat de Léon X et de François Ier"
+      }
+    },
+    {
+      "id": "13",
+      "title": {
+        "fr-FR": "Chapitre 13. De la nomination royale et du refus des bulles"
+      }
+    },
+    {
+      "id": "14",
+      "title": {
+        "fr-FR": "Chapitre 14. Inconvénients du concordat de 1516"
+      }
+    },
+    {
+      "id": "15",
+      "title": {
+        "fr-FR": "Chapitre 15. Déplorable issue des derniers concordats"
+      }
+    },
+    {
+      "id": "16",
+      "title": {
+        "fr-FR": "Chapitre 16. Les concordats ont néanmoins produit d’heureux résultats"
+      }
+    },
+    {
+      "id": "17",
+      "title": {
+        "fr-FR": "Chapitre 17. Le gouvernement actuel peut-il réclamer la nomination des évêques en vertu des concordats ?"
+      }
+    },
+    {
+      "id": "18",
+      "title": {
+        "fr-FR": "Chapitre 18. Le gouvernement peut-il réclamer la nomination des évêques, sous le régime de la charte de 1830 ?"
+      }
+    },
+    {
+      "id": "19",
+      "title": {
+        "fr-FR": "Chapitre 19. Les catholiques de France peuvent-ils laisser la nomination des évêques entre les mains du gouvernement ?"
+      }
+    },
+    {
+      "id": "20",
+      "title": {
+        "fr-FR": "Chapitre 20. Conclusion"
+      }
+    }
+  ]
+}
