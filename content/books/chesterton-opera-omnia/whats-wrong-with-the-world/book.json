@@ -1,0 +1,381 @@
+{
+  "id": "chesterton-whats-wrong-with-the-world",
+  "cover": "classic",
+  "name": {
+    "en-US": "What's Wrong with the World",
+    "pt-BR": "O que Há de Errado com o Mundo"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's book against the modern reformers, on the home as the one thing the world cannot do without: against the medical mistake, imperialism, feminism and the experts of education, he defends the family, the common man and property for everyone (distributism's founding text).",
+    "pt-BR": "O livro de Chesterton contra os reformadores modernos, em defesa do lar como o que o mundo não pode dispensar: contra o erro médico, o imperialismo, o feminismo e os peritos em educação, ele defende a família, o homem comum e a propriedade para todos (texto fundador do distributismo)."
+  },
+  "composed": "1910",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/whats-wrong-with-the-world",
+  "editions": {
+    "en-US": {
+      "editor": "Cassell and Company",
+      "year": 1910
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/1717",
+      "edition": "What's Wrong with the World (Cassell and Company, 1910), Project Gutenberg #1717.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1910 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "part01-part-one-the-homelessness-of-man",
+      "title": {
+        "en-US": "Part One. the Homelessness of Man"
+      },
+      "children": [
+        {
+          "id": "ch01-the-medical-mistake",
+          "title": {
+            "en-US": "I. The Medical Mistake"
+          }
+        },
+        {
+          "id": "ch02-wanted-an-unpractical-man",
+          "title": {
+            "en-US": "II. Wanted, an Unpractical Man"
+          }
+        },
+        {
+          "id": "ch03-the-new-hypocrite",
+          "title": {
+            "en-US": "III. The New Hypocrite"
+          }
+        },
+        {
+          "id": "ch04-the-fear-of-the-past",
+          "title": {
+            "en-US": "IV. The Fear of the Past"
+          }
+        },
+        {
+          "id": "ch05-the-unfinished-temple",
+          "title": {
+            "en-US": "V. The Unfinished Temple"
+          }
+        },
+        {
+          "id": "ch06-the-enemies-of-property",
+          "title": {
+            "en-US": "VI. The Enemies of Property"
+          }
+        },
+        {
+          "id": "ch07-the-free-family",
+          "title": {
+            "en-US": "VII. The Free Family"
+          }
+        },
+        {
+          "id": "ch08-the-wildness-of-domesticity",
+          "title": {
+            "en-US": "VIII. The Wildness of Domesticity"
+          }
+        },
+        {
+          "id": "ch09-history-of-hudge-and-gudge",
+          "title": {
+            "en-US": "IX. History of Hudge and Gudge"
+          }
+        },
+        {
+          "id": "ch10-oppression-by-optimism",
+          "title": {
+            "en-US": "X. Oppression by Optimism"
+          }
+        },
+        {
+          "id": "ch11-the-homelessness-of-jones",
+          "title": {
+            "en-US": "XI. The Homelessness of Jones"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part02-part-two-imperialism-or-the-mistake-about",
+      "title": {
+        "en-US": "Part Two. Imperialism, or the Mistake About Man"
+      },
+      "children": [
+        {
+          "id": "ch12-the-charm-of-jingoism",
+          "title": {
+            "en-US": "I. The Charm of Jingoism"
+          }
+        },
+        {
+          "id": "ch13-wisdom-and-the-weather",
+          "title": {
+            "en-US": "II. Wisdom and the Weather"
+          }
+        },
+        {
+          "id": "ch14-the-common-vision",
+          "title": {
+            "en-US": "III. The Common Vision"
+          }
+        },
+        {
+          "id": "ch15-the-insane-necessity",
+          "title": {
+            "en-US": "IV. The Insane Necessity"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part03-part-three-feminism-or-the-mistake-about",
+      "title": {
+        "en-US": "Part Three. Feminism, or the Mistake About Woman"
+      },
+      "children": [
+        {
+          "id": "ch16-the-unmilitary-suffragette",
+          "title": {
+            "en-US": "I. The Unmilitary Suffragette"
+          }
+        },
+        {
+          "id": "ch17-the-universal-stick",
+          "title": {
+            "en-US": "II. The Universal Stick"
+          }
+        },
+        {
+          "id": "ch18-the-emancipation-of-domesticity",
+          "title": {
+            "en-US": "III. The Emancipation of Domesticity"
+          }
+        },
+        {
+          "id": "ch19-the-romance-of-thrift",
+          "title": {
+            "en-US": "IV. The Romance of Thrift"
+          }
+        },
+        {
+          "id": "ch20-the-coldness-of-chloe",
+          "title": {
+            "en-US": "V. The Coldness of Chloe"
+          }
+        },
+        {
+          "id": "ch21-the-pedant-and-the-savage",
+          "title": {
+            "en-US": "VI. The Pedant and the Savage"
+          }
+        },
+        {
+          "id": "ch22-the-modern-surrender-of-woman",
+          "title": {
+            "en-US": "VII. The Modern Surrender of Woman"
+          }
+        },
+        {
+          "id": "ch23-the-brand-of-the-fleur-de-lis",
+          "title": {
+            "en-US": "VIII. The Brand of the Fleur-de-lis"
+          }
+        },
+        {
+          "id": "ch24-sincerity-and-the-gallows",
+          "title": {
+            "en-US": "IX. Sincerity and the Gallows"
+          }
+        },
+        {
+          "id": "ch25-the-higher-anarchy",
+          "title": {
+            "en-US": "X. The Higher Anarchy"
+          }
+        },
+        {
+          "id": "ch26-the-queen-and-the-suffragettes",
+          "title": {
+            "en-US": "XI. The Queen and the Suffragettes"
+          }
+        },
+        {
+          "id": "ch27-the-modern-slave",
+          "title": {
+            "en-US": "XII. The Modern Slave"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part04-part-four-education-or-the-mistake-about",
+      "title": {
+        "en-US": "Part Four. Education: or the Mistake About the Child"
+      },
+      "children": [
+        {
+          "id": "ch28-the-calvinism-of-to-day",
+          "title": {
+            "en-US": "I. The Calvinism of To-day"
+          }
+        },
+        {
+          "id": "ch29-the-tribal-terror",
+          "title": {
+            "en-US": "II. The Tribal Terror"
+          }
+        },
+        {
+          "id": "ch30-the-tricks-of-environment",
+          "title": {
+            "en-US": "III. The Tricks of Environment"
+          }
+        },
+        {
+          "id": "ch31-the-truth-about-education",
+          "title": {
+            "en-US": "IV. The Truth About Education"
+          }
+        },
+        {
+          "id": "ch32-an-evil-cry",
+          "title": {
+            "en-US": "V. An Evil Cry"
+          }
+        },
+        {
+          "id": "ch33-authority-the-unavoidable",
+          "title": {
+            "en-US": "VI. Authority the Unavoidable"
+          }
+        },
+        {
+          "id": "ch34-the-humility-of-mrs-grundy",
+          "title": {
+            "en-US": "VII. The Humility of Mrs. Grundy"
+          }
+        },
+        {
+          "id": "ch35-the-broken-rainbow",
+          "title": {
+            "en-US": "VIII. The Broken Rainbow"
+          }
+        },
+        {
+          "id": "ch36-the-need-for-narrowness",
+          "title": {
+            "en-US": "IX. The Need for Narrowness"
+          }
+        },
+        {
+          "id": "ch37-the-case-for-the-public-schools",
+          "title": {
+            "en-US": "X. The Case for the Public Schools"
+          }
+        },
+        {
+          "id": "ch38-the-school-for-hypocrites",
+          "title": {
+            "en-US": "XI. The School for Hypocrites"
+          }
+        },
+        {
+          "id": "ch39-the-staleness-of-the-new-schools",
+          "title": {
+            "en-US": "XII. The Staleness of the New Schools"
+          }
+        },
+        {
+          "id": "ch40-the-outlawed-parent",
+          "title": {
+            "en-US": "XIII. The Outlawed Parent"
+          }
+        },
+        {
+          "id": "ch41-folly-and-female-education",
+          "title": {
+            "en-US": "XIV. Folly and Female Education"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part05-part-five-the-home-of-man",
+      "title": {
+        "en-US": "Part Five. the Home of Man"
+      },
+      "children": [
+        {
+          "id": "ch42-the-empire-of-the-insect",
+          "title": {
+            "en-US": "I. The Empire of the Insect"
+          }
+        },
+        {
+          "id": "ch43-the-fallacy-of-the-umbrella-stand",
+          "title": {
+            "en-US": "II. The Fallacy of the Umbrella Stand"
+          }
+        },
+        {
+          "id": "ch44-the-dreadful-duty-of-gudge",
+          "title": {
+            "en-US": "III. The Dreadful Duty of Gudge"
+          }
+        },
+        {
+          "id": "ch45-a-last-instance",
+          "title": {
+            "en-US": "IV. A Last Instance"
+          }
+        },
+        {
+          "id": "ch46-conclusion",
+          "title": {
+            "en-US": "V. Conclusion"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part06-three-notes",
+      "title": {
+        "en-US": "Three Notes"
+      },
+      "children": [
+        {
+          "id": "ch47-on-female-suffrage",
+          "title": {
+            "en-US": "I. On Female Suffrage"
+          }
+        },
+        {
+          "id": "ch48-on-cleanliness-in-education",
+          "title": {
+            "en-US": "II. On Cleanliness in Education"
+          }
+        },
+        {
+          "id": "ch49-on-peasant-proprietorship",
+          "title": {
+            "en-US": "III. On Peasant Proprietorship"
+          }
+        }
+      ]
+    }
+  ]
+}
