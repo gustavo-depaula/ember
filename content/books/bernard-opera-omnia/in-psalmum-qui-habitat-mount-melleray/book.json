@@ -1,0 +1,112 @@
+{
+  "id": "bernard-in-psalmum-qui-habitat-mount-melleray",
+  "cover": "classic",
+  "name": {
+    "en-US": "Sermons on Psalm XC, Qui habitat (Mount Melleray)",
+    "pt-BR": "Sermões sobre o Salmo 90, Qui habitat (Mount Melleray)"
+  },
+  "author": {
+    "la": "Bernardus Claraevallensis",
+    "en-US": "St. Bernard of Clairvaux",
+    "pt-BR": "São Bernardo de Claraval"
+  },
+  "description": {
+    "en-US": "Twelve of Bernard's sermons on Psalm 90 (Qui habitat), preached in Lent, in the English of a priest of Mount Melleray (Dublin, 1921). The translator's twelve sermons are not the seventeen of the Latin book, so this is a separate book of the same work.",
+    "pt-BR": "Sermões de São Bernardo na tradução inglesa de um sacerdote de Mount Melleray (Dublin)."
+  },
+  "composed": "c. 1135-1153",
+  "languages": [
+    "en-US"
+  ],
+  "work": "bernard/in-psalmum-qui-habitat",
+  "editions": {
+    "en-US": {
+      "translator": "A priest of Mount Melleray (Ailbe Luddy)",
+      "year": 1921
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/stbernardssermon0001prie_y4z3",
+      "edition": "St. Bernard's Sermons for the Seasons and Principal Festivals of the Year, translated from the original Latin by a Priest of Mount Melleray, vol. 1 (Dublin: Browne and Nolan, 1921).",
+      "description": "Archive.org OCR cleaned by script, not proofread; the running heads are stripped by pattern and the translator's occasional footnotes are not kept. The translator (a priest of Mount Melleray, Ailbe Luddy) divides and orders the sermons by the liturgical calendar as listed here, which differs from the Latin book.",
+      "tier": "A",
+      "tierEvidence": "Published in 1921, before 1931: public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "s01",
+      "title": {
+        "en-US": "First Sermon on Psalm XC: On the Three Classes of Men Who Dwell Outside the Aid of the Most High"
+      }
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en-US": "Second Sermon on Psalm XC"
+      }
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en-US": "Third Sermon on Psalm XC: On the Spiritual Snares and Hunters, and on the Necessity of Penance and Fear"
+      }
+    },
+    {
+      "id": "s04",
+      "title": {
+        "en-US": "Fourth Sermon on Psalm XC: On What is Meant by the Shoulders of God, and on the Four Benefits We Receive Under Them"
+      }
+    },
+    {
+      "id": "s05",
+      "title": {
+        "en-US": "Fifth Sermon on Psalm XC: On the Inevitableness of Temptation"
+      }
+    },
+    {
+      "id": "s06",
+      "title": {
+        "en-US": "Sixth Sermon on Psalm XC: On the Four Temptations Which Have to be Encountered by Every Soul Aiming at Perfection"
+      }
+    },
+    {
+      "id": "s07",
+      "title": {
+        "en-US": "Seventh Sermon on Psalm XC: On the Protection Given to the Just at the Hour of Death, on the Meaning of the Right and Left Hand, and on the Preference We Ought to Give to the Interests of the Soul"
+      }
+    },
+    {
+      "id": "s08",
+      "title": {
+        "en-US": "Eighth Sermon on Psalm XC: On the Resurrection of the Body, and on the Reasons Why the Just Shall Rejoice at the Sufferings of the Wicked"
+      }
+    },
+    {
+      "id": "s09",
+      "title": {
+        "en-US": "Ninth Sermon on Psalm XC: On the Advantage of Living for God Alone, and Putting All Our Hope in Him"
+      }
+    },
+    {
+      "id": "s10",
+      "title": {
+        "en-US": "Tenth Sermon on Psalm XC: On Sin and its Punishment, and on the Deliverance from Both Which the Resurrection Shall Bring Us"
+      }
+    },
+    {
+      "id": "s11",
+      "title": {
+        "en-US": "Eleventh Sermon on Psalm XC: On the Ways of Men, the Ways of the Demons, The Ways of the Holy Angels, and the Ways of the Lord"
+      }
+    },
+    {
+      "id": "s12",
+      "title": {
+        "en-US": "Twelfth Sermon on the Psalm XC: On God’s Goodness to Us, and on the Respect, Love, Gratitude and Confidence Due to Our Guardian Angels"
+      }
+    }
+  ]
+}
