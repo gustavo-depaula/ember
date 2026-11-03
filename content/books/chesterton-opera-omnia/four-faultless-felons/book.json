@@ -1,0 +1,221 @@
+{
+  "id": "chesterton-four-faultless-felons",
+  "cover": "classic",
+  "name": {
+    "en-US": "Four Faultless Felons",
+    "pt-BR": "Quatro Criminosos Impecáveis"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Four linked tales of criminals who are better than their crimes: the Honest Quack, the Ecstatic Thief, the Loyal Traitor, told by a pressman who has been sent to dig up a story. A comic parable of the virtues that turn up in the dock.",
+    "pt-BR": "Quatro contos ligados de criminosos melhores que seus crimes: o Charlatão Honesto, o Ladrão Extático, o Traidor Leal, contados por um jornalista mandado em busca de uma história. Uma parábola cômica das virtudes que aparecem no banco dos réus."
+  },
+  "composed": "1930",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/four-faultless-felons",
+  "editions": {
+    "en-US": {
+      "editor": "Cassell & Co.",
+      "year": 1930
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.net.au/ebooks03/0300781h.html",
+      "edition": "Four Faultless Felons (Cassell & Co., 1930), Project Gutenberg Australia, ebooks03/0300781h.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain in Brazil, the UK and the EU (Chesterton died in 1936). Published in 1930; text taken from Project Gutenberg Australia, which carries it under Australian law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "part01-prologue-of-the-pressman",
+      "title": {
+        "en-US": "Prologue of the Pressman"
+      },
+      "children": [
+        {
+          "id": "ch01-the-man-with-the-green-umbrella",
+          "title": {
+            "en-US": "The Man with the Green Umbrella"
+          }
+        },
+        {
+          "id": "ch02-the-boy-who-made-a-scene",
+          "title": {
+            "en-US": "The Boy Who Made a Scene"
+          }
+        },
+        {
+          "id": "ch03-the-man-who-could-not-hate",
+          "title": {
+            "en-US": "The Man Who Could not Hate"
+          }
+        },
+        {
+          "id": "ch04-the-detective-and-the-parson",
+          "title": {
+            "en-US": "The Detective and the Parson"
+          }
+        },
+        {
+          "id": "ch05-the-theory-of-moderate-murder",
+          "title": {
+            "en-US": "The Theory of Moderate Murder"
+          }
+        },
+        {
+          "id": "ch06-the-thing-that-really-happened",
+          "title": {
+            "en-US": "The Thing That Really Happened"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part02-the-honest-quack",
+      "title": {
+        "en-US": "The Honest Quack"
+      },
+      "children": [
+        {
+          "id": "ch07-the-prologue-of-the-tree",
+          "title": {
+            "en-US": "The Prologue of the Tree"
+          }
+        },
+        {
+          "id": "ch08-the-man-with-the-black-bag",
+          "title": {
+            "en-US": "The Man with the Black Bag"
+          }
+        },
+        {
+          "id": "ch09-the-trespasser-in-the-garden",
+          "title": {
+            "en-US": "The Trespasser in the Garden"
+          }
+        },
+        {
+          "id": "ch10-the-disease-of-duodiapsychosis",
+          "title": {
+            "en-US": "The Disease of Duodiapsychosis"
+          }
+        },
+        {
+          "id": "ch11-the-secret-of-the-tree",
+          "title": {
+            "en-US": "The Secret of the Tree"
+          }
+        },
+        {
+          "id": "ch12-the-epilogue-of-the-garden",
+          "title": {
+            "en-US": "The Epilogue of the Garden"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part03-the-ecstatic-thief",
+      "title": {
+        "en-US": "The Ecstatic Thief"
+      },
+      "children": [
+        {
+          "id": "ch13-the-name-of-nadoway",
+          "title": {
+            "en-US": "The Name of Nadoway"
+          }
+        },
+        {
+          "id": "ch14-the-burglar-and-the-brooch",
+          "title": {
+            "en-US": "The Burglar and the Brooch"
+          }
+        },
+        {
+          "id": "ch15-a-queer-reformation",
+          "title": {
+            "en-US": "A Queer Reformation"
+          }
+        },
+        {
+          "id": "ch16-the-problems-of-detective-price",
+          "title": {
+            "en-US": "The Problems of Detective Price"
+          }
+        },
+        {
+          "id": "ch17-the-thief-on-trial",
+          "title": {
+            "en-US": "The Thief on Trial"
+          }
+        },
+        {
+          "id": "ch18-the-cleansing-of-the-name",
+          "title": {
+            "en-US": "The Cleansing of the Name"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part04-the-loyal-traitor",
+      "title": {
+        "en-US": "The Loyal Traitor"
+      },
+      "children": [
+        {
+          "id": "ch19-the-menace-of-the-word",
+          "title": {
+            "en-US": "The Menace of the Word"
+          }
+        },
+        {
+          "id": "ch20-the-procession-of-the-plotters",
+          "title": {
+            "en-US": "The Procession of the Plotters"
+          }
+        },
+        {
+          "id": "ch21-the-princess-intervenes",
+          "title": {
+            "en-US": "The Princess Intervenes"
+          }
+        },
+        {
+          "id": "ch22-the-unreasonableness-of-woman",
+          "title": {
+            "en-US": "The Unreasonableness of Woman"
+          }
+        },
+        {
+          "id": "ch23-the-terms-of-a-traitor",
+          "title": {
+            "en-US": "The Terms of a Traitor"
+          }
+        },
+        {
+          "id": "ch24-the-speaking-of-the-word",
+          "title": {
+            "en-US": "The Speaking of the Word"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch25-epilogue-of-the-pressman",
+      "title": {
+        "en-US": "Epilogue of the Pressman"
+      }
+    }
+  ]
+}
