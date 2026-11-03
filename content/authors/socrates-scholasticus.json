@@ -6,5 +6,22 @@
   "century": 5,
   "matches": [
     "Socrates Scholasticus (c. 379-c. 450)"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Church history",
+        "pt-BR": "História da Igreja"
+      },
+      "works": [
+        {
+          "work": "socrates-scholasticus-ecclesiastical-history",
+          "why": {
+            "en-US": "Ecclesiastical History",
+            "pt-BR": "História Eclesiástica"
+          }
+        }
+      ]
+    }
   ]
 }
