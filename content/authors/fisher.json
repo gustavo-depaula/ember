@@ -11,5 +11,102 @@
     "Fisher, John, Saint, 1469-1535",
     "Fisher, John, Saint, Bishop of Rochester, 1469-1535",
     "St. John Fisher"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "fisher/penitential-psalms",
+          "why": {
+            "en-US": "Seven sermons on the Penitential Psalms, for Lady Margaret, 1508",
+            "pt-BR": "Sete sermões sobre os Salmos penitenciais, para Lady Margaret, 1508"
+          }
+        },
+        {
+          "work": "fisher/spiritual-consolation",
+          "why": {
+            "en-US": "Two Tower treatises of 1534–35, for his sister and on religious life",
+            "pt-BR": "Dois tratados da Torre, 1534–35: à irmã e sobre a vida religiosa"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Prayer",
+        "pt-BR": "Oração"
+      },
+      "works": [
+        {
+          "work": "fisher/treatise-of-prayer",
+          "why": {
+            "en-US": "On the necessity and benefits of prayer, in the 1640 translation",
+            "pt-BR": "Sobre a necessidade e os benefícios da oração, na tradução de 1640"
+          }
+        },
+        {
+          "work": "fisher/godly-treatise-of-prayer",
+          "why": {
+            "en-US": "The same treatise in Anthony Browne’s 1560 translation",
+            "pt-BR": "O mesmo tratado na tradução de Anthony Browne, de 1560"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Sermons",
+        "pt-BR": "Sermões"
+      },
+      "works": [
+        {
+          "work": "fisher/two-fruitful-sermons",
+          "why": {
+            "en-US": "Two sermons of 1532 on the Gospel of the day and the use of the Word",
+            "pt-BR": "Dois sermões de 1532 sobre o Evangelho do dia e o uso da Palavra"
+          }
+        },
+        {
+          "work": "fisher/funeral-sermon-henry-vii",
+          "why": {
+            "en-US": "Funeral sermon for Henry VII at St Paul’s, 1509",
+            "pt-BR": "Sermão fúnebre de Henrique VII em St Paul’s, 1509"
+          }
+        },
+        {
+          "work": "fisher/month-mind-lady-margaret",
+          "why": {
+            "en-US": "Sermon at the month’s mind of Lady Margaret Beaufort, 1509",
+            "pt-BR": "Sermão no mês da morte de Lady Margaret Beaufort, 1509"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Against Luther and the reformers",
+        "pt-BR": "Contra Lutero e os reformadores"
+      },
+      "works": [
+        {
+          "work": "fisher/sermon-against-luther",
+          "why": {
+            "en-US": "St Paul’s, 12 May 1521, when Luther’s books were burned",
+            "pt-BR": "St Paul’s, 12 de maio de 1521, quando queimaram os livros de Lutero"
+          }
+        },
+        {
+          "work": "fisher/sermon-barnes",
+          "why": {
+            "en-US": "At St Paul’s Cross, 1526, at the abjuration of Robert Barnes",
+            "pt-BR": "Em St Paul’s Cross, 1526, na abjuração de Robert Barnes"
+          }
+        }
+      ]
+    }
   ]
 }
