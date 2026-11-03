@@ -9,5 +9,44 @@
     "Heinrich Seuse (c. 1295-1366)",
     "Henry Suso",
     "Heinrich Seuse"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "suso/buchlein-der-ewigen-weisheit",
+          "why": {
+            "en-US": "The Servant's dialogue with Eternal Wisdom on the Passion",
+            "pt-BR": "O diálogo do Servo com a Sabedoria Eterna sobre a Paixão"
+          }
+        },
+        {
+          "work": "suso/vita",
+          "why": {
+            "en-US": "His life written with Elsbeth Stagel, with his letters",
+            "pt-BR": "Sua vida escrita com Elsbeth Stagel, com suas cartas"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Latin expansion",
+        "pt-BR": "Ampliação latina"
+      },
+      "works": [
+        {
+          "work": "suso/horologium-sapientiae",
+          "why": {
+            "en-US": "His own Latin expansion of the Little Book, c. 1334",
+            "pt-BR": "Sua própria ampliação latina do Livrinho, c. 1334"
+          }
+        }
+      ]
+    }
   ]
 }
