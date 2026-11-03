@@ -11,5 +11,361 @@
     "Bonaventure",
     "Bonaventura",
     "Bonaventure, Saint, Cardinal, ca. 1217-1274"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "The short works that open the heart of his thought: the soul's ascent and the life of Christ.",
+        "pt-BR": "As obras breves que abrem o coração do seu pensamento: a subida da alma e a vida de Cristo."
+      },
+      "works": [
+        {
+          "work": "bonaventure/itinerarium-mentis-in-deum",
+          "why": {
+            "en-US": "His best-known work: six steps of the mind to God",
+            "pt-BR": "Sua obra mais conhecida: seis degraus da mente até Deus"
+          }
+        },
+        {
+          "work": "bonaventure/lignum-vitae",
+          "why": {
+            "en-US": "The life of Christ as a tree of twelve fruits, with prayers",
+            "pt-BR": "A vida de Cristo como árvore de doze frutos, com orações"
+          }
+        },
+        {
+          "work": "bonaventure/legenda-maior",
+          "why": {
+            "en-US": "The official life of St. Francis, written by his successor",
+            "pt-BR": "A vida oficial de São Francisco, escrita por seu sucessor"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The major works",
+        "pt-BR": "As obras maiores"
+      },
+      "note": {
+        "en-US": "His compendium of theology and his last great course of lectures.",
+        "pt-BR": "Seu compêndio de teologia e seu último grande curso."
+      },
+      "works": [
+        {
+          "work": "bonaventure/breviloquium",
+          "why": {
+            "en-US": "A compact summary of all theology, about 1257",
+            "pt-BR": "Um resumo conciso de toda a teologia, por volta de 1257"
+          }
+        },
+        {
+          "work": "bonaventure/collationes-in-hexaemeron",
+          "why": {
+            "en-US": "Unfinished lectures of 1273 on the six days of creation",
+            "pt-BR": "Conferências inacabadas de 1273 sobre os seis dias da criação"
+          }
+        },
+        {
+          "work": "bonaventure/de-reductione-artium",
+          "why": {
+            "en-US": "How every kind of knowledge leads back to theology",
+            "pt-BR": "Como todo saber conduz de volta à teologia"
+          }
+        },
+        {
+          "work": "bonaventure/collationes-de-septem-donis",
+          "why": {
+            "en-US": "Nine collations on the gifts of the Holy Spirit",
+            "pt-BR": "Nove conferências sobre os dons do Espírito Santo"
+          }
+        },
+        {
+          "work": "bonaventure/collationes-de-decem-praeceptis",
+          "why": {
+            "en-US": "Seven Lenten collations on the Ten Commandments",
+            "pt-BR": "Sete conferências da Quaresma sobre os Dez Mandamentos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The spiritual life",
+        "pt-BR": "A vida espiritual"
+      },
+      "note": {
+        "en-US": "Short treatises and meditations on the way of the soul, prayer and the Passion.",
+        "pt-BR": "Tratados breves e meditações sobre o caminho da alma, a oração e a Paixão."
+      },
+      "works": [
+        {
+          "work": "bonaventure/de-triplici-via",
+          "why": {
+            "en-US": "The purgative, illuminative and unitive ways, in three chapters",
+            "pt-BR": "As vias purgativa, iluminativa e unitiva, em três capítulos"
+          }
+        },
+        {
+          "work": "bonaventure/soliloquium",
+          "why": {
+            "en-US": "The soul in dialogue with the inner man on four exercises",
+            "pt-BR": "A alma em diálogo com o homem interior sobre quatro exercícios"
+          }
+        },
+        {
+          "work": "bonaventure/vitis-mystica",
+          "why": {
+            "en-US": "The Passion under the figure of the vine",
+            "pt-BR": "A Paixão sob a figura da videira"
+          }
+        },
+        {
+          "work": "bonaventure/de-perfectione-vitae-ad-sorores",
+          "why": {
+            "en-US": "A letter of direction to a Poor Clare",
+            "pt-BR": "Uma carta de direção a uma clarissa"
+          }
+        },
+        {
+          "work": "bonaventure/de-sex-alis-seraphim",
+          "why": {
+            "en-US": "Six virtues of a prelate, from the wings of the seraph",
+            "pt-BR": "Seis virtudes de um prelado, nas asas do serafim"
+          }
+        },
+        {
+          "work": "bonaventure/de-quinque-festivitatibus",
+          "why": {
+            "en-US": "Meditations on five feasts of the Child Jesus",
+            "pt-BR": "Meditações sobre cinco festas do Menino Jesus"
+          }
+        },
+        {
+          "work": "bonaventure/de-praeparatione-ad-missam",
+          "why": {
+            "en-US": "A short guide to preparing for Mass",
+            "pt-BR": "Um breve guia para preparar-se para a Missa"
+          }
+        },
+        {
+          "work": "bonaventure/officium-de-passione",
+          "why": {
+            "en-US": "A rhymed Office of the Passion through the hours",
+            "pt-BR": "Um Ofício rimado da Paixão ao longo das horas"
+          }
+        },
+        {
+          "work": "bonaventure/de-regimine-animae",
+          "why": {
+            "en-US": "Brief counsels on the conduct of the soul",
+            "pt-BR": "Breves conselhos sobre o governo da alma"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "St. Francis and the Order",
+        "pt-BR": "São Francisco e a Ordem"
+      },
+      "note": {
+        "en-US": "The lives of the founder and the writings of Bonaventure as Minister General.",
+        "pt-BR": "As vidas do fundador e os escritos de Boaventura como Ministro Geral."
+      },
+      "works": [
+        {
+          "work": "bonaventure/legenda-minor",
+          "why": {
+            "en-US": "The short legend for liturgical reading",
+            "pt-BR": "A legenda breve, para a leitura litúrgica"
+          }
+        },
+        {
+          "work": "bonaventure/apologia-pauperum",
+          "why": {
+            "en-US": "His defence of the poverty of the Friars Minor",
+            "pt-BR": "Sua defesa da pobreza dos Frades Menores"
+          }
+        },
+        {
+          "work": "bonaventure/regula-novitiorum",
+          "why": {
+            "en-US": "Rule for the formation of novices, in sixteen chapters",
+            "pt-BR": "Regra para a formação dos noviços, em dezesseis capítulos"
+          }
+        },
+        {
+          "work": "bonaventure/constitutiones-narbonenses",
+          "why": {
+            "en-US": "The constitutions of the chapter of 1260",
+            "pt-BR": "As constituições do capítulo de 1260"
+          }
+        },
+        {
+          "work": "bonaventure/epistolae-officiales",
+          "why": {
+            "en-US": "His official letters as Minister General",
+            "pt-BR": "Suas cartas oficiais como Ministro Geral"
+          }
+        },
+        {
+          "work": "bonaventure/epistola-de-tribus-quaestionibus",
+          "why": {
+            "en-US": "Three questions on the Rule, answered to a master",
+            "pt-BR": "Três questões sobre a Regra, respondidas a um mestre"
+          }
+        },
+        {
+          "work": "bonaventure/sermo-super-regulam-fratrum-minorum"
+        },
+        {
+          "work": "bonaventure/epistola-de-imitatione-christi"
+        },
+        {
+          "work": "bonaventure/epistola-xxv-memorialia"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Disputed questions",
+        "pt-BR": "Questões disputadas"
+      },
+      "note": {
+        "en-US": "His Paris academic disputations.",
+        "pt-BR": "Suas disputas acadêmicas em Paris."
+      },
+      "works": [
+        {
+          "work": "bonaventure/quaestiones-disputatae-de-scientia-christi",
+          "why": {
+            "en-US": "Seven questions on what Christ knew",
+            "pt-BR": "Sete questões sobre o que Cristo sabia"
+          }
+        },
+        {
+          "work": "bonaventure/quaestiones-disputatae-de-mysterio-trinitatis",
+          "why": {
+            "en-US": "Eight questions on the Trinity and the divine attributes",
+            "pt-BR": "Oito questões sobre a Trindade e os atributos divinos"
+          }
+        },
+        {
+          "work": "bonaventure/quaestiones-disputatae-de-perfectione-evangelica",
+          "why": {
+            "en-US": "Four questions defending the mendicant life",
+            "pt-BR": "Quatro questões em defesa da vida mendicante"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Sermons",
+        "pt-BR": "Sermões"
+      },
+      "note": {
+        "en-US": "His preaching through the year, on the Virgin and on the saints.",
+        "pt-BR": "Sua pregação ao longo do ano, sobre a Virgem e os santos."
+      },
+      "works": [
+        {
+          "work": "bonaventure/sermones-de-beata-virgine-maria",
+          "why": {
+            "en-US": "Sermons for the feasts of the Blessed Virgin",
+            "pt-BR": "Sermões para as festas da Virgem Maria"
+          }
+        },
+        {
+          "work": "bonaventure/sermones-de-tempore"
+        },
+        {
+          "work": "bonaventure/sermones-de-sanctis"
+        },
+        {
+          "work": "bonaventure/sermones-de-diversis"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Scripture commentaries",
+        "pt-BR": "Comentários bíblicos"
+      },
+      "note": {
+        "en-US": "Commentaries and collations on the Gospels and the wisdom books.",
+        "pt-BR": "Comentários e conferências sobre os Evangelhos e os livros sapienciais."
+      },
+      "works": [
+        {
+          "work": "bonaventure/commentarius-in-evangelium-ioannis"
+        },
+        {
+          "work": "bonaventure/collationes-in-evangelium-ioannis"
+        },
+        {
+          "work": "bonaventure/commentarius-in-evangelium-lucae"
+        },
+        {
+          "work": "bonaventure/commentarius-in-ecclesiasten"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The Sentences",
+        "pt-BR": "As Sentenças"
+      },
+      "note": {
+        "en-US": "His commentary on Peter Lombard, the work of his years as a young master; Latin only and very long.",
+        "pt-BR": "Seu comentário a Pedro Lombardo, obra dos anos de jovem mestre; só em latim e muito longo."
+      },
+      "works": [
+        {
+          "work": "bonaventure/commentaria-in-sententias-1"
+        },
+        {
+          "work": "bonaventure/commentaria-in-sententias-2"
+        },
+        {
+          "work": "bonaventure/commentaria-in-sententias-3"
+        },
+        {
+          "work": "bonaventure/commentaria-in-sententias-4"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Attributed works",
+        "pt-BR": "Obras atribuídas"
+      },
+      "note": {
+        "en-US": "Works of doubtful authorship that have come down under his name.",
+        "pt-BR": "Obras de autoria duvidosa que chegaram sob o seu nome."
+      },
+      "works": [
+        {
+          "work": "bonaventure/commentarius-in-librum-sapientiae"
+        },
+        {
+          "work": "bonaventure/expositio-super-regulam-fratrum-minorum"
+        },
+        {
+          "work": "bonaventure/determinationes-quaestionum-circa-regulam"
+        },
+        {
+          "work": "bonaventure/quare-fratres-minores-praedicent"
+        },
+        {
+          "work": "bonaventure/epistola-de-sandaliis-apostolorum"
+        }
+      ]
+    }
   ]
 }
