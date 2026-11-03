@@ -1,0 +1,42 @@
+{
+ "id": "faber-essay-beatification-canonization",
+ "dir": "faber-opera-omnia/essay-beatification-canonization",
+ "slug": "essay-beatification-canonization",
+ "work": "faber/essay-beatification-canonization",
+ "name": "Essay on Beatification, Canonization and the Processes of the Congregation of Rites",
+ "name_pt": "Ensaio sobre a Beatifica\u00e7\u00e3o, a Canoniza\u00e7\u00e3o e os Processos da Congrega\u00e7\u00e3o dos Ritos",
+ "author": "Frederick William Faber",
+ "author_pt": "Frederick William Faber",
+ "died": 1863,
+ "desc": "An Essay on Beatification, Canonization, and the Processes of the Congregation of Rites (1848): Faber's account, written for the Earl and Countess of Shrewsbury, of how the Church examines the cause of a servant of God: the stages of the process, the roles of the Congregation of Rites and the devil's advocate, the proofs of virtues and miracles, and the meaning of beatification and canonization.",
+ "desc_pt": "Um Ensaio sobre a Beatifica\u00e7\u00e3o, a Canoniza\u00e7\u00e3o e os Processos da Congrega\u00e7\u00e3o dos Ritos (1848): a exposi\u00e7\u00e3o de Faber, escrita para os Condes de Shrewsbury, de como a Igreja examina a causa de um servo de Deus: as etapas do processo, o papel da Congrega\u00e7\u00e3o dos Ritos e do advogado do diabo, as provas das virtudes e dos milagres e o sentido da beatifica\u00e7\u00e3o e da canoniza\u00e7\u00e3o.",
+ "composed": 1848,
+ "editor": "Frederick William Faber (London: Richardson and Son, 1848)",
+ "year": 1848,
+ "url": "https://archive.org/details/anessayonbeatif00fabegoog",
+ "edition": "Essay on Beatification, Canonization and the Processes of the Congregation of Rites (London: Richardson and Son, 1848), Internet Archive full-text OCR.",
+ "srcnote": "The dedication and the essay; the publisher's catalogue is dropped.",
+ "src": "faber/ia/anessayonbeatif00fabegoog_djvu.txt",
+ "start": 84,
+ "end": 5536,
+ "fn": true,
+ "back": [],
+ "front": [
+  {
+   "id": "dedication",
+   "title": "Dedication",
+   "from": 85,
+   "to": 114
+  }
+ ],
+ "label": {},
+ "romanheads": false,
+ "inline": [],
+ "units": [
+  {
+   "id": "essay",
+   "title": "On Beatification, Canonization, and the Processes of the Congregation of Rites",
+   "from": 116
+  }
+ ]
+}

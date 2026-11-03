@@ -1,0 +1,51 @@
+{
+  "id": "faber-essay-beatification-canonization",
+  "cover": "classic",
+  "name": {
+    "en-US": "Essay on Beatification, Canonization and the Processes of the Congregation of Rites",
+    "pt-BR": "Ensaio sobre a Beatificação, a Canonização e os Processos da Congregação dos Ritos"
+  },
+  "author": {
+    "en-US": "Frederick William Faber",
+    "pt-BR": "Frederick William Faber"
+  },
+  "description": {
+    "en-US": "An Essay on Beatification, Canonization, and the Processes of the Congregation of Rites (1848): Faber's account, written for the Earl and Countess of Shrewsbury, of how the Church examines the cause of a servant of God: the stages of the process, the roles of the Congregation of Rites and the devil's advocate, the proofs of virtues and miracles, and the meaning of beatification and canonization.",
+    "pt-BR": "Um Ensaio sobre a Beatificação, a Canonização e os Processos da Congregação dos Ritos (1848): a exposição de Faber, escrita para os Condes de Shrewsbury, de como a Igreja examina a causa de um servo de Deus: as etapas do processo, o papel da Congregação dos Ritos e do advogado do diabo, as provas das virtudes e dos milagres e o sentido da beatificação e da canonização."
+  },
+  "composed": 1848,
+  "languages": [
+    "en-US"
+  ],
+  "work": "faber/essay-beatification-canonization",
+  "editions": {
+    "en-US": {
+      "editor": "Frederick William Faber (London: Richardson and Son, 1848)",
+      "year": 1848
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/anessayonbeatif00fabegoog",
+      "edition": "Essay on Beatification, Canonization and the Processes of the Congregation of Rites (London: Richardson and Son, 1848), Internet Archive full-text OCR.",
+      "description": "The dedication and the essay; the publisher's catalogue is dropped. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Frederick William Faber died in 1863 and the edition is of 1848, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "dedication",
+      "title": {
+        "en-US": "Dedication"
+      }
+    },
+    {
+      "id": "essay",
+      "title": {
+        "en-US": "On Beatification, Canonization, and the Processes of the Congregation of Rites"
+      }
+    }
+  ]
+}
