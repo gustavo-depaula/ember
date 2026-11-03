@@ -442,5 +442,3 @@ Stood up in the pale purple sky
 One turret of smoke like ivory;  
 And the smoke changed and the wind went by,  
 And the King took London Town.
-
-End of Project Gutenberg's The Ballad of the White Horse, by G.K. Chesterton

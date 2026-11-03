@@ -381,5 +381,3 @@ We were still dazed when we drank, amid a crash of glasses, the health of Basil'
 “Mr P. G. Northover will now explain the Adventure and Romance Agency.”
 
 And we heard equally dimly Northover beginning the statement he had made long ago to Major Brown. Thus our epic ended where it had begun, like a true cycle.
-
-End of Project Gutenberg's The Club of Queer Trades, by G. K. Chesterton

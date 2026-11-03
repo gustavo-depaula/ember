@@ -44,7 +44,8 @@ Then the almost equally silent Horne Fisher suddenly spoke, without taking his b
 
 "And there's more, besides," went on Horne Fisher, who seemed to have suddenly found his tongue. "If we want country people to vote for us, why don't we get somebody with some notion about the country? We don't talk to people in Threadneedle Street about nothing but turnips and pigsties. Why do we talk to people in Somerset about nothing but slums and socialism? Why don't we give the squire's land to the squire's tenants, instead of dragging in the county council?"
 
-"Three acres and a cow," cried Harry, emitting what the Parliamentary reports call an ironical cheer.
+"Three acres and a cow," cried Harry, emitting what the  
+Parliamentary reports call an ironical cheer.
 
 "Yes," replied his brother, stubbornly. "Don't you think agricultural laborers would rather have three acres and a cow than three acres of printed forms and a committee? Why doesn't somebody start a yeoman party in politics, appealing to the old traditions of the small landowner? And why don't they attack men like Verner for what they are, which is something about as old and traditional as an American oil trust?"
 

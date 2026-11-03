@@ -201,5 +201,3 @@ As darkness sank again over land and sea, there came another sound; far away in 
 In the mad excitement of that moment March peered through the storm, looking again for the long lean figure that stood beside the stand of the rocket. Then another flash lit up the whole ridge. The figure was not there.
 
 Before the fires of the rocket had faded from the sky, long before the first gun had sounded from the distant hills, a splutter of rifle fire had flashed and flickered all around from the hidden trenches of the enemy. Something lay in the shadow at the foot of the ridge, as stiff as the stick of the fallen rocket; and the man who knew too much knew what is worth knowing.
-
-End of Project Gutenberg's The Man Who Knew Too Much, by G.K. Chesterton

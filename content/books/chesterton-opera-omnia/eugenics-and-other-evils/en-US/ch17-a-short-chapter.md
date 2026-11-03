@@ -472,7 +472,3 @@ PRINTED IN ENGLAND BY CASSELL & COMPANY, LIMITED, LONDON, E.C.4.
 | Page 65: undoubledly replaced with undoubtedly |  
 | |  
 +—————————————————————————————-+
-
-* * *
-
-End of Project Gutenberg's Eugenics and Other Evils, by G. K. Chesterton

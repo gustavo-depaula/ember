@@ -71,5 +71,3 @@ My front-door is beaten in and broken down suddenly. I see nothing outside, exce
 And then something European that is prouder than pride will rise up in me; and I shall answer:—
 
 "I am that Englishman who has tortured Ireland, who has been tortured by South Africa; who knows all his mistakes, who is heavy with all his sins. And he tells you, Faultless Being, with a truth as deep as his own guilt, and as deathless as his own remembrance, that you shall not pass this way."
-
-End of Project Gutenberg's The Appetite of Tyranny, by G.K. Chesterton
