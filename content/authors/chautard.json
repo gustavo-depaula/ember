@@ -8,6 +8,24 @@
     "Chautard",
     "Jean-Baptiste Chautard",
     "Jean-Baptist Chautard",
-    "Dom Chautard"
+    "Dom Chautard",
+    "Dom Jean-Baptiste Chautard"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "The interior life",
+        "pt-BR": "A vida interior"
+      },
+      "works": [
+        {
+          "work": "chautard/ame-de-tout-apostolat",
+          "why": {
+            "en-US": "The interior life as the soul of every apostolic work",
+            "pt-BR": "A vida interior como alma de toda obra apostólica"
+          }
+        }
+      ]
+    }
   ]
 }
