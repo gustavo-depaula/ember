@@ -7,5 +7,847 @@
   "saint": "thomas_aquinas",
   "matches": [
     "St. Thomas Aquinas"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "The shortest roads into his mind: his prayers, his hymns and his teaching on the Creed.",
+        "pt-BR": "Os caminhos mais curtos para o seu pensamento: orações, hinos e o ensino sobre o Credo."
+      },
+      "works": [
+        {
+          "work": "aquinas-devotional-prayers",
+          "why": {
+            "en-US": "The prayers before study and Communion that he prayed himself",
+            "pt-BR": "As orações antes do estudo e da Comunhão, atribuídas a ele"
+          }
+        },
+        {
+          "work": "aquinas-catechetical-instructions",
+          "why": {
+            "en-US": "His last teaching, on Creed, Our Father and Hail Mary, for all",
+            "pt-BR": "Seu último ensino, sobre Credo, Pai-Nosso e Ave-Maria"
+          }
+        },
+        {
+          "work": "aquinas-hymns",
+          "why": {
+            "en-US": "Pange Lingua and the Corpus Christi hymns, in Latin and English",
+            "pt-BR": "Pange Lingua e os hinos de Corpus Christi, em latim e vernáculo"
+          }
+        },
+        {
+          "work": "aquinas-to-john-vercelli",
+          "why": {
+            "en-US": "A one-page letter on how to study, with sixteen precepts",
+            "pt-BR": "Uma carta de uma página sobre como estudar, com dezesseis conselhos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The Summae",
+        "pt-BR": "As Sumas"
+      },
+      "note": {
+        "en-US": "His systematic works, from the great Summa to the short compendium.",
+        "pt-BR": "Suas obras sistemáticas, da grande Suma ao breve compêndio."
+      },
+      "works": [
+        {
+          "work": "aquinas/summa-theologiae",
+          "why": {
+            "en-US": "The unfinished masterwork: God, man's path to God, Christ and sacraments",
+            "pt-BR": "A obra-prima inacabada: Deus, o caminho do homem a Deus, Cristo e sacramentos"
+          }
+        },
+        {
+          "work": "aquinas-summa-contra-gentiles",
+          "why": {
+            "en-US": "A summa for missionaries, reasoning from what all can grasp",
+            "pt-BR": "Uma suma para missionários, que parte do que todos podem compreender"
+          }
+        },
+        {
+          "work": "aquinas-compendium-theology",
+          "why": {
+            "en-US": "A short summary of faith, hope and charity, left unfinished",
+            "pt-BR": "Resumo breve da fé, da esperança e da caridade, deixado inacabado"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Teaching on the Faith and the Sacraments",
+        "pt-BR": "Ensino sobre a Fé e os Sacramentos"
+      },
+      "note": {
+        "en-US": "Short works that put the Creed, the sacraments and the Divine Names within reach.",
+        "pt-BR": "Obras curtas que põem ao alcance o Credo, os sacramentos e os Nomes Divinos."
+      },
+      "works": [
+        {
+          "work": "aquinas-catechetical-sermons-cc",
+          "why": {
+            "en-US": "The four Naples sermon cycles of 1273, in a bilingual edition",
+            "pt-BR": "Os quatro ciclos de sermões de Nápoles, de 1273, em edição bilíngue"
+          }
+        },
+        {
+          "work": "aquinas-de-articulis-fidei",
+          "why": {
+            "en-US": "The articles of the Creed and the sacraments in a few pages",
+            "pt-BR": "Os artigos do Credo e os sacramentos em poucas páginas"
+          }
+        },
+        {
+          "work": "aquinas-de-rationibus-fidei",
+          "why": {
+            "en-US": "Reasons for the faith, for a Dominican cantor in Antioch",
+            "pt-BR": "Razões da fé, para um cantor dominicano em Antioquia"
+          }
+        },
+        {
+          "work": "aquinas-de-forma-absolutionis",
+          "why": {
+            "en-US": "Whether the form of absolution is indicative or deprecative",
+            "pt-BR": "Se a forma da absolvição é indicativa ou deprecativa"
+          }
+        },
+        {
+          "work": "aquinas-decretalem",
+          "why": {
+            "en-US": "Two decretals of Innocent III on Trinity and Christ",
+            "pt-BR": "Duas decretais de Inocêncio III sobre a Trindade e Cristo"
+          }
+        },
+        {
+          "work": "aquinas-contra-errores-graecorum",
+          "why": {
+            "en-US": "Against Greek errors, on the procession of the Spirit and the papacy",
+            "pt-BR": "Contra os erros dos gregos, sobre a processão do Espírito e o papado"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Scripture: the Gospels",
+        "pt-BR": "Escritura: os Evangelhos"
+      },
+      "note": {
+        "en-US": "His lectures on the Gospels, and the Fathers gathered verse by verse.",
+        "pt-BR": "Suas lições sobre os Evangelhos e os Padres reunidos versículo a versículo."
+      },
+      "works": [
+        {
+          "work": "aquinas-super-iohannem",
+          "why": {
+            "en-US": "His fullest Gospel commentary, lectured at Paris",
+            "pt-BR": "O seu mais amplo comentário a um Evangelho, dado em Paris"
+          }
+        },
+        {
+          "work": "aquinas-super-matthaeum",
+          "why": {
+            "en-US": "Lectures on Matthew, from the second Paris regency",
+            "pt-BR": "Lições sobre Mateus, do segundo magistério em Paris"
+          }
+        },
+        {
+          "work": "aquinas-catena-aurea-matthew",
+          "why": {
+            "en-US": "The Fathers woven into one commentary on Matthew",
+            "pt-BR": "Os Padres tecidos num só comentário a Mateus"
+          }
+        },
+        {
+          "work": "aquinas-catena-aurea-mark",
+          "why": {
+            "en-US": "The Fathers on Mark, shortest of the Gospel volumes",
+            "pt-BR": "Os Padres sobre Marcos, o menor dos volumes dos Evangelhos"
+          }
+        },
+        {
+          "work": "aquinas-catena-aurea-luke",
+          "why": {
+            "en-US": "The Fathers on Luke, a gloss of patristic voices",
+            "pt-BR": "Os Padres sobre Lucas, uma glosa de vozes patrísticas"
+          }
+        },
+        {
+          "work": "aquinas-catena-aurea-john",
+          "why": {
+            "en-US": "The Fathers on John, the fourth and last volume",
+            "pt-BR": "Os Padres sobre João, o quarto e último volume"
+          }
+        },
+        {
+          "work": "aquinas-super-matt-petri-de-scala",
+          "why": {
+            "en-US": "A second report of the Matthew lectures, by Peter of Scala",
+            "pt-BR": "Outra reportação das lições sobre Mateus, por Pedro de Scala"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Scripture: Paul",
+        "pt-BR": "Escritura: São Paulo"
+      },
+      "note": {
+        "en-US": "The Pauline letters in his lectures, from Romans, his fullest, to Philemon.",
+        "pt-BR": "As cartas paulinas em suas lições, de Romanos, a mais ampla, a Filêmon."
+      },
+      "works": [
+        {
+          "work": "aquinas-super-romanos",
+          "why": {
+            "en-US": "His fullest and most mature Pauline commentary",
+            "pt-BR": "Seu comentário paulino mais amplo e maduro"
+          }
+        },
+        {
+          "work": "aquinas-super-1-cor",
+          "why": {
+            "en-US": "On First Corinthians, in a compact commentary",
+            "pt-BR": "Sobre a Primeira aos Coríntios, em comentário compacto"
+          }
+        },
+        {
+          "work": "aquinas-super-2-cor",
+          "why": {
+            "en-US": "On Second Corinthians",
+            "pt-BR": "Sobre a Segunda aos Coríntios"
+          }
+        },
+        {
+          "work": "aquinas-super-galatas",
+          "why": {
+            "en-US": "On Galatians, faith and the law",
+            "pt-BR": "Sobre Gálatas, a fé e a lei"
+          }
+        },
+        {
+          "work": "aquinas-super-ephesios",
+          "why": {
+            "en-US": "On Ephesians, the Church and the Body of Christ",
+            "pt-BR": "Sobre Efésios, a Igreja e o Corpo de Cristo"
+          }
+        },
+        {
+          "work": "aquinas-super-philippenses",
+          "why": {
+            "en-US": "On Philippians",
+            "pt-BR": "Sobre Filipenses"
+          }
+        },
+        {
+          "work": "aquinas-super-colossenses",
+          "why": {
+            "en-US": "On Colossians",
+            "pt-BR": "Sobre Colossenses"
+          }
+        },
+        {
+          "work": "aquinas-super-hebraeos",
+          "why": {
+            "en-US": "On Hebrews",
+            "pt-BR": "Sobre Hebreus"
+          }
+        },
+        {
+          "work": "aquinas-super-1-thess",
+          "why": {
+            "en-US": "On First Thessalonians",
+            "pt-BR": "Sobre a Primeira aos Tessalonicenses"
+          }
+        },
+        {
+          "work": "aquinas-super-2-thessalonicenses",
+          "why": {
+            "en-US": "On Second Thessalonians",
+            "pt-BR": "Sobre a Segunda aos Tessalonicenses"
+          }
+        },
+        {
+          "work": "aquinas-super-1-timotheum",
+          "why": {
+            "en-US": "On First Timothy",
+            "pt-BR": "Sobre a Primeira a Timóteo"
+          }
+        },
+        {
+          "work": "aquinas-super-2-timotheum",
+          "why": {
+            "en-US": "On Second Timothy",
+            "pt-BR": "Sobre a Segunda a Timóteo"
+          }
+        },
+        {
+          "work": "aquinas-super-titum",
+          "why": {
+            "en-US": "On Titus",
+            "pt-BR": "Sobre Tito"
+          }
+        },
+        {
+          "work": "aquinas-super-philemonem",
+          "why": {
+            "en-US": "On Philemon, the shortest of the letters",
+            "pt-BR": "Sobre Filêmon, a mais breve das cartas"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Scripture: the Old Testament",
+        "pt-BR": "Escritura: o Antigo Testamento"
+      },
+      "note": {
+        "en-US": "Commentaries from his early years as a bachelor of Scripture and from Orvieto and Naples.",
+        "pt-BR": "Comentários dos primeiros anos como bacharel em Escritura, de Orvieto e de Nápoles."
+      },
+      "works": [
+        {
+          "work": "aquinas-super-iob",
+          "why": {
+            "en-US": "On Job, a theology of providence written at Orvieto",
+            "pt-BR": "Sobre Jó, uma teologia da providência escrita em Orvieto"
+          }
+        },
+        {
+          "work": "aquinas-super-psalmos",
+          "why": {
+            "en-US": "The Psalms, from his last lectures at Naples",
+            "pt-BR": "Os Salmos, de suas últimas lições em Nápoles"
+          }
+        },
+        {
+          "work": "aquinas-super-isaiam",
+          "why": {
+            "en-US": "Early literal commentary on Isaiah",
+            "pt-BR": "Comentário literal de juventude a Isaías"
+          }
+        },
+        {
+          "work": "aquinas-super-ieremiam",
+          "why": {
+            "en-US": "Early literal commentary on Jeremiah",
+            "pt-BR": "Comentário literal de juventude a Jeremias"
+          }
+        },
+        {
+          "work": "aquinas-super-threnos",
+          "why": {
+            "en-US": "Early literal commentary on Lamentations",
+            "pt-BR": "Comentário literal de juventude às Lamentações"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Disputed Questions",
+        "pt-BR": "Questões Disputadas"
+      },
+      "note": {
+        "en-US": "The university disputations, where he argues a question to its end.",
+        "pt-BR": "As disputas universitárias, em que ele leva uma questão até o fim."
+      },
+      "works": [
+        {
+          "work": "aquinas-de-veritate",
+          "why": {
+            "en-US": "Twenty-nine questions on truth, knowledge, providence and grace",
+            "pt-BR": "Vinte e nove questões sobre verdade, conhecimento, providência e graça"
+          }
+        },
+        {
+          "work": "aquinas-de-potentia",
+          "why": {
+            "en-US": "Ten questions on God's power, creation and the Trinity",
+            "pt-BR": "Dez questões sobre o poder de Deus, a criação e a Trindade"
+          }
+        },
+        {
+          "work": "aquinas-de-malo",
+          "why": {
+            "en-US": "Sixteen questions on evil, original sin and the vices",
+            "pt-BR": "Dezesseis questões sobre o mal, o pecado original e os vícios"
+          }
+        },
+        {
+          "work": "aquinas-de-virtutibus",
+          "why": {
+            "en-US": "Five questions on the virtues, charity and hope",
+            "pt-BR": "Cinco questões sobre as virtudes, a caridade e a esperança"
+          }
+        },
+        {
+          "work": "aquinas-qd-de-anima",
+          "why": {
+            "en-US": "One question in twenty-one articles on the human soul",
+            "pt-BR": "Uma questão em vinte e um artigos sobre a alma humana"
+          }
+        },
+        {
+          "work": "aquinas-de-unione-verbi",
+          "why": {
+            "en-US": "Five articles on the union of the two natures in Christ",
+            "pt-BR": "Cinco artigos sobre a união das duas naturezas em Cristo"
+          }
+        },
+        {
+          "work": "aquinas-de-spiritualibus-creaturis",
+          "why": {
+            "en-US": "One question on angels and immaterial substances",
+            "pt-BR": "Uma questão sobre os anjos e as substâncias imateriais"
+          }
+        },
+        {
+          "work": "aquinas-quodlibetales",
+          "why": {
+            "en-US": "Twelve open-topic disputations, at Paris and Naples",
+            "pt-BR": "Doze disputas de tema livre, em Paris e Nápoles"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Short Treatises",
+        "pt-BR": "Opúsculos"
+      },
+      "note": {
+        "en-US": "Short works on being, nature, the intellect, the angels and the world.",
+        "pt-BR": "Obras curtas sobre o ser, a natureza, o intelecto, os anjos e o mundo."
+      },
+      "works": [
+        {
+          "work": "aquinas-de-ente-et-essentia",
+          "why": {
+            "en-US": "His earliest treatise, on essence and existence",
+            "pt-BR": "Seu primeiro tratado, sobre essência e existência"
+          }
+        },
+        {
+          "work": "aquinas-de-principiis-naturae",
+          "why": {
+            "en-US": "The Aristotelian principles of natural things, briefly",
+            "pt-BR": "Os princípios aristotélicos das coisas naturais, em breve"
+          }
+        },
+        {
+          "work": "aquinas-de-aeternitate-mundi",
+          "why": {
+            "en-US": "Why creation in time does not contradict reason",
+            "pt-BR": "Por que a criação no tempo não contradiz a razão"
+          }
+        },
+        {
+          "work": "aquinas-de-unitate-intellectus",
+          "why": {
+            "en-US": "Against the Averroists, on the unity of the intellect",
+            "pt-BR": "Contra os averroístas, sobre a unidade do intelecto"
+          }
+        },
+        {
+          "work": "aquinas-de-substantiis-separatis",
+          "why": {
+            "en-US": "A late treatise on the angels",
+            "pt-BR": "Um tratado tardio sobre os anjos"
+          }
+        },
+        {
+          "work": "aquinas-de-motu-cordis",
+          "why": {
+            "en-US": "On the motion of the heart, a late short consultation",
+            "pt-BR": "Sobre o movimento do coração, consulta breve e tardia"
+          }
+        },
+        {
+          "work": "aquinas-de-operationibus-occultis",
+          "why": {
+            "en-US": "On the hidden powers of natural things",
+            "pt-BR": "Sobre os poderes ocultos das coisas naturais"
+          }
+        },
+        {
+          "work": "aquinas-de-mixtione-elementorum",
+          "why": {
+            "en-US": "How the four elements blend in a compound",
+            "pt-BR": "Como os quatro elementos se combinam num composto"
+          }
+        },
+        {
+          "work": "aquinas-de-sortibus",
+          "why": {
+            "en-US": "On casting lots, divination and gambling",
+            "pt-BR": "Sobre lançar sortes, adivinhação e jogo"
+          }
+        },
+        {
+          "work": "aquinas-de-judiciis-astrorum",
+          "why": {
+            "en-US": "On astrology, in a short consultation",
+            "pt-BR": "Sobre a astrologia, em breve consulta"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Religious Life, Kingship and Controversy",
+        "pt-BR": "Vida Religiosa, Realeza e Controvérsia"
+      },
+      "note": {
+        "en-US": "His defence of the mendicant orders, and his advice to a king.",
+        "pt-BR": "Sua defesa das ordens mendicantes e seu conselho a um rei."
+      },
+      "works": [
+        {
+          "work": "aquinas-de-perfectione-vitae",
+          "why": {
+            "en-US": "The religious state as a state of perfection",
+            "pt-BR": "O estado religioso como estado de perfeição"
+          }
+        },
+        {
+          "work": "aquinas-contra-impugnantes",
+          "why": {
+            "en-US": "An apology for the mendicant orders",
+            "pt-BR": "Uma apologia das ordens mendicantes"
+          }
+        },
+        {
+          "work": "aquinas-contra-retrahentes",
+          "why": {
+            "en-US": "Against teaching that deters youth from religious life",
+            "pt-BR": "Contra o ensino que afasta os jovens da vida religiosa"
+          }
+        },
+        {
+          "work": "aquinas-de-regno",
+          "why": {
+            "en-US": "A mirror for the King of Cyprus on kingship",
+            "pt-BR": "Um espelho de príncipe para o rei de Chipre sobre a realeza"
+          }
+        },
+        {
+          "work": "aquinas-de-emptione",
+          "why": {
+            "en-US": "A short consultation on credit sales and usury",
+            "pt-BR": "Breve consulta sobre vendas a crédito e usura"
+          }
+        },
+        {
+          "work": "aquinas-de-secreto",
+          "why": {
+            "en-US": "Whether a superior may compel disclosure of secret faults",
+            "pt-BR": "Se um superior pode exigir a revelação de faltas secretas"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Sermons and the Liturgy",
+        "pt-BR": "Sermões e Liturgia"
+      },
+      "note": {
+        "en-US": "His preaching and the Office of Corpus Christi.",
+        "pt-BR": "Sua pregação e o Ofício de Corpus Christi."
+      },
+      "works": [
+        {
+          "work": "aquinas-office-corpus-christi",
+          "why": {
+            "en-US": "The full Office of Corpus Christi, composed in 1264",
+            "pt-BR": "O Ofício completo de Corpus Christi, composto em 1264"
+          }
+        },
+        {
+          "work": "aquinas-sermon-immensa",
+          "why": {
+            "en-US": "The sermon of the Corpus Christi Office, on the gift of the Eucharist",
+            "pt-BR": "O sermão do Ofício de Corpus Christi, sobre o dom da Eucaristia"
+          }
+        },
+        {
+          "work": "aquinas-sermons-bilingual",
+          "why": {
+            "en-US": "University and feast-day sermons, in a bilingual edition",
+            "pt-BR": "Sermões universitários e de festas, em edição bilíngue"
+          }
+        },
+        {
+          "work": "aquinas-rigans-montes",
+          "why": {
+            "en-US": "His first inaugural sermon as Master at Paris, 1256",
+            "pt-BR": "Seu primeiro sermão inaugural como Mestre em Paris, 1256"
+          }
+        },
+        {
+          "work": "aquinas-hic-est-liber",
+          "why": {
+            "en-US": "His second inaugural sermon, on Sacred Scripture",
+            "pt-BR": "Seu segundo sermão inaugural, sobre a Sagrada Escritura"
+          }
+        },
+        {
+          "work": "aquinas-principium",
+          "why": {
+            "en-US": "Both inaugural sermons of 1256 together",
+            "pt-BR": "Os dois sermões inaugurais de 1256 reunidos"
+          }
+        },
+        {
+          "work": "aquinas-office-corpus-christi-sapientia",
+          "why": {
+            "en-US": "The early draft of the Office, Sapientia aedificavit",
+            "pt-BR": "O primeiro esboço do Ofício, Sapientia aedificavit"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Letters",
+        "pt-BR": "Cartas"
+      },
+      "note": {
+        "en-US": "Letters of counsel and of answer to doctrinal questions.",
+        "pt-BR": "Cartas de conselho e de resposta a questões doutrinais."
+      },
+      "works": [
+        {
+          "work": "aquinas-to-bernard-abbot",
+          "why": {
+            "en-US": "To the Abbot of Monte Cassino, on prayer for the dying",
+            "pt-BR": "Ao abade de Monte Cassino, sobre a oração pelos moribundos"
+          }
+        },
+        {
+          "work": "aquinas-to-duchess-flanders",
+          "why": {
+            "en-US": "To the Duchess of Brabant, on the rule of Jews",
+            "pt-BR": "À duquesa de Brabante, sobre o governo dos judeus"
+          }
+        },
+        {
+          "work": "aquinas-letter-6-articles",
+          "why": {
+            "en-US": "To Brother Gerard, six doctrinal questions",
+            "pt-BR": "A frei Gerardo, seis questões doutrinais"
+          }
+        },
+        {
+          "work": "aquinas-letter-30-articles",
+          "why": {
+            "en-US": "To Bassiano of Lodi, thirty articles",
+            "pt-BR": "A Bassiano de Lodi, trinta artigos"
+          }
+        },
+        {
+          "work": "aquinas-letter-36-articles",
+          "why": {
+            "en-US": "To Bassiano of Lodi, thirty-six articles",
+            "pt-BR": "A Bassiano de Lodi, trinta e seis artigos"
+          }
+        },
+        {
+          "work": "aquinas-letter-43-articles",
+          "why": {
+            "en-US": "To John of Vercelli, forty-three articles",
+            "pt-BR": "A João de Vercelli, quarenta e três artigos"
+          }
+        },
+        {
+          "work": "aquinas-letter-108-articles",
+          "why": {
+            "en-US": "To John of Vercelli, a hundred and eight articles",
+            "pt-BR": "A João de Vercelli, cento e oito artigos"
+          }
+        },
+        {
+          "work": "aquinas-roman-chapters",
+          "why": {
+            "en-US": "Acts of the Roman Province chapters he attended",
+            "pt-BR": "Atas dos capítulos da Província Romana de que participou"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Commentaries on Aristotle",
+        "pt-BR": "Comentários a Aristóteles"
+      },
+      "note": {
+        "en-US": "His commentaries on Aristotle, from logic and nature to ethics and politics.",
+        "pt-BR": "Seus comentários a Aristóteles, da lógica e da natureza à ética e à política."
+      },
+      "works": [
+        {
+          "work": "aquinas-comm-ethics",
+          "why": {
+            "en-US": "On the Nicomachean Ethics: happiness, virtue, friendship",
+            "pt-BR": "Sobre a Ética a Nicômaco: felicidade, virtude, amizade"
+          }
+        },
+        {
+          "work": "aquinas-comm-metaphysics",
+          "why": {
+            "en-US": "On the Metaphysics, being and first principles",
+            "pt-BR": "Sobre a Metafísica, o ser e os primeiros princípios"
+          }
+        },
+        {
+          "work": "aquinas-comm-physics",
+          "why": {
+            "en-US": "On the Physics: motion, time and the prime mover",
+            "pt-BR": "Sobre a Física: movimento, tempo e primeiro motor"
+          }
+        },
+        {
+          "work": "aquinas-comm-de-anima",
+          "why": {
+            "en-US": "On the De Anima, the soul as form of the body",
+            "pt-BR": "Sobre o De Anima, a alma como forma do corpo"
+          }
+        },
+        {
+          "work": "aquinas-comm-politics",
+          "why": {
+            "en-US": "On the Politics, the city and its regimes",
+            "pt-BR": "Sobre a Política, a cidade e seus regimes"
+          }
+        },
+        {
+          "work": "aquinas-comm-posterior-analytics",
+          "why": {
+            "en-US": "On the Posterior Analytics, demonstrative science",
+            "pt-BR": "Sobre os Analíticos Posteriores, a ciência demonstrativa"
+          }
+        },
+        {
+          "work": "aquinas-comm-peri-hermeneias",
+          "why": {
+            "en-US": "On De Interpretatione, names, verbs and statements",
+            "pt-BR": "Sobre o De Interpretatione, nomes, verbos e enunciados"
+          }
+        },
+        {
+          "work": "aquinas-comm-de-sensu",
+          "why": {
+            "en-US": "On the senses and their objects",
+            "pt-BR": "Sobre os sentidos e seus objetos"
+          }
+        },
+        {
+          "work": "aquinas-comm-de-memoria",
+          "why": {
+            "en-US": "On memory and recollection",
+            "pt-BR": "Sobre a memória e a reminiscência"
+          }
+        },
+        {
+          "work": "aquinas-comm-generation-corruption",
+          "why": {
+            "en-US": "On substantial change and prime matter",
+            "pt-BR": "Sobre a mudança substancial e a matéria-prima"
+          }
+        },
+        {
+          "work": "aquinas-comm-de-caelo",
+          "why": {
+            "en-US": "On the heavens, left unfinished",
+            "pt-BR": "Sobre o céu, deixado inacabado"
+          }
+        },
+        {
+          "work": "aquinas-comm-meteora",
+          "why": {
+            "en-US": "On the Meteorologica, Book I only",
+            "pt-BR": "Sobre a Meteorológica, só o Livro I"
+          }
+        },
+        {
+          "work": "aquinas-tabula-ethicorum",
+          "why": {
+            "en-US": "His alphabetical index to the Ethics",
+            "pt-BR": "Seu índice alfabético da Ética"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Commentaries on Boethius and the Neoplatonists",
+        "pt-BR": "Comentários a Boécio e aos Neoplatônicos"
+      },
+      "note": {
+        "en-US": "Commentaries on the texts that shaped his metaphysics of God and being.",
+        "pt-BR": "Comentários aos textos que moldaram sua metafísica de Deus e do ser."
+      },
+      "works": [
+        {
+          "work": "aquinas-boethius-de-trinitate",
+          "why": {
+            "en-US": "On Boethius's De Trinitate, with its prologue on the sciences",
+            "pt-BR": "Sobre o De Trinitate de Boécio, com o prólogo sobre as ciências"
+          }
+        },
+        {
+          "work": "aquinas-boethius-de-hebdomadibus",
+          "why": {
+            "en-US": "On how things are good by being",
+            "pt-BR": "Sobre como as coisas são boas por existirem"
+          }
+        },
+        {
+          "work": "aquinas-de-divinis-nominibus",
+          "why": {
+            "en-US": "On Dionysius's Divine Names",
+            "pt-BR": "Sobre os Nomes Divinos de Dionísio"
+          }
+        },
+        {
+          "work": "aquinas-liber-de-causis",
+          "why": {
+            "en-US": "On the Book of Causes, drawn from Proclus",
+            "pt-BR": "Sobre o Livro das Causas, derivado de Proclo"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The Commentary on the Sentences",
+        "pt-BR": "O Comentário às Sentenças"
+      },
+      "note": {
+        "en-US": "His student work at Paris, vast and meant for study rather than a first read.",
+        "pt-BR": "Obra de estudante em Paris, vasta e feita para o estudo, não para uma primeira leitura."
+      },
+      "works": [
+        {
+          "work": "aquinas-super-sententias",
+          "why": {
+            "en-US": "Commentary on Peter Lombard, 1252 to 1256",
+            "pt-BR": "Comentário a Pedro Lombardo, de 1252 a 1256"
+          }
+        }
+      ]
+    }
   ]
 }
