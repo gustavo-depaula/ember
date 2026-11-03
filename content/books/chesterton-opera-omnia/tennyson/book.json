@@ -1,0 +1,45 @@
+{
+  "id": "chesterton-tennyson",
+  "cover": "classic",
+  "name": {
+    "en-US": "Tennyson",
+    "pt-BR": "Tennyson"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's essay on Tennyson in the Bookman Booklets series. A short critical study.",
+    "pt-BR": "O ensaio de Chesterton sobre Tennyson na série Bookman Booklets. Um breve estudo crítico."
+  },
+  "composed": "1903",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/tennyson",
+  "editions": {
+    "en-US": {
+      "editor": "Hodder and Stoughton",
+      "year": 1903
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/61764",
+      "edition": "Tennyson (Hodder and Stoughton, 1903), Project Gutenberg #61764.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1903 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-tennyson",
+      "title": {
+        "en-US": "Tennyson"
+      }
+    }
+  ]
+}
