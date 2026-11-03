@@ -1,0 +1,150 @@
+{
+  "id": "gueranger-medaille-saint-benoit",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Essai sur l’origine, la signification et les privilèges de la médaille ou croix de saint Benoît",
+    "en-US": "Essay on the Origin, Meaning and Privileges of the Medal or Cross of St. Benedict",
+    "pt-BR": "Ensaio sobre a origem, o significado e os privilégios da medalha ou cruz de São Bento"
+  },
+  "author": {
+    "fr-FR": "Prosper Guéranger",
+    "en-US": "Prosper Guéranger",
+    "pt-BR": "Prosper Guéranger"
+  },
+  "description": {
+    "fr-FR": "Le petit livre de Dom Guéranger sur la médaille de saint Benoît (1862) : l’image de la croix et celle du saint, les lettres de la médaille, son origine, son usage, ses effets (XVIIe et XIXe siècles), l’approbation de Benoît XIV, les indulgences, le rite de bénédiction et la dévotion à saint Benoît.",
+    "en-US": "Dom Guéranger’s little book on the medal of St. Benedict (1862): the image of the cross and of the saint, the letters on the medal, its origin, use and effects (17th and 19th centuries), the approval of Benedict XIV, the indulgences, the rite of blessing, and devotion to St. Benedict.",
+    "pt-BR": "O pequeno livro de Dom Guéranger sobre a medalha de São Bento (1862): a imagem da cruz e a do santo, as letras da medalha, sua origem, uso e efeitos (séculos XVII e XIX), a aprovação de Bento XIV, as indulgências, o rito de bênção e a devoção a São Bento."
+  },
+  "composed": "1862",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/medaille-saint-benoit",
+  "editions": {
+    "fr-FR": {
+      "editor": "Oudin (Poitiers / Paris)",
+      "year": 1862
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://www.domgueranger.net/la-medaille-de-saint-benoit/",
+      "edition": "Essai sur l’origine, la signification et les privilèges de la médaille ou croix de saint Benoît, Paris-Poitiers, Oudin, 1862 (domgueranger.net HTML transcription)",
+      "description": "Checked in size against archive.org essaisurlorigine00gu (Oudin 1887).",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; text first published in his lifetime or by 1931."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "fr-FR": "Préface"
+      }
+    },
+    {
+      "id": "01",
+      "title": {
+        "fr-FR": "§ I. De l’image de la croix représentée sur la médaille"
+      }
+    },
+    {
+      "id": "02",
+      "title": {
+        "fr-FR": "§ II. De l’image de saint Benoît représentée sur la médaille"
+      }
+    },
+    {
+      "id": "03",
+      "title": {
+        "fr-FR": "§ III. Des caractères qui se lisent sur la médaille"
+      }
+    },
+    {
+      "id": "04",
+      "title": {
+        "fr-FR": "§ IV. Origine de la médaille de saint Benoît"
+      }
+    },
+    {
+      "id": "05",
+      "title": {
+        "fr-FR": "§ V. Usage de la médaille de saint Benoît"
+      }
+    },
+    {
+      "id": "06",
+      "title": {
+        "fr-FR": "§ VI. Effets merveilleux de la médaille de saint Benoît au XVIIe siècle"
+      }
+    },
+    {
+      "id": "07",
+      "title": {
+        "fr-FR": "§ VII. Effets de la médaille de saint Benoît au XIXe siècle. — guérisons obtenues"
+      }
+    },
+    {
+      "id": "08",
+      "title": {
+        "fr-FR": "§ VIII. Grâces spirituelles"
+      }
+    },
+    {
+      "id": "09",
+      "title": {
+        "fr-FR": "§ IX. Protection contre les embuches des démons"
+      }
+    },
+    {
+      "id": "10",
+      "title": {
+        "fr-FR": "§ X. Préservation dans les dangers"
+      }
+    },
+    {
+      "id": "11",
+      "title": {
+        "fr-FR": "§ XI. Secours aux animaux utiles à l’homme, et influence sur les conditions naturelles"
+      }
+    },
+    {
+      "id": "12",
+      "title": {
+        "fr-FR": "§ XII. La médaille de saint Benoît dans les pays de missions"
+      }
+    },
+    {
+      "id": "13",
+      "title": {
+        "fr-FR": "§ XIII. Approbation de la médaille de saint Benoît par le Siège apostolique"
+      }
+    },
+    {
+      "id": "14",
+      "title": {
+        "fr-FR": "§ XIV. Conséquences du bref de Benoît XIV relativement à la médaille de saint Benoît"
+      }
+    },
+    {
+      "id": "15",
+      "title": {
+        "fr-FR": "§ XV. Détail des indulgences attachées à la médaille de saint Benoît, selon le bref de Benoît XIV"
+      }
+    },
+    {
+      "id": "16",
+      "title": {
+        "fr-FR": "§ XVI. Rite a employer pour la bénédiction de la médaille de saint Benoît"
+      }
+    },
+    {
+      "id": "17",
+      "title": {
+        "fr-FR": "§ XVII. De la dévotion envers saint Benoît"
+      }
+    }
+  ]
+}
