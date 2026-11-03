@@ -1,0 +1,221 @@
+{
+  "id": "chautard-ame-de-tout-apostolat",
+  "name": {
+    "fr-FR": "L’Âme de tout apostolat",
+    "en-US": "The Soul of the Apostolate",
+    "pt-BR": "A alma de todo apostolado"
+  },
+  "author": {
+    "fr-FR": "Dom Jean-Baptiste Chautard",
+    "en-US": "Dom Jean-Baptiste Chautard",
+    "pt-BR": "Dom Jean-Baptiste Chautard"
+  },
+  "description": {
+    "fr-FR": "Le livre de l’abbé de Sept-Fons sur la vie intérieure comme âme des œuvres : Dieu veut les œuvres et la vie intérieure, leur union, le danger de l’action sans vie intérieure, la fécondité des œuvres par la vie intérieure, puis les principes et avis pour la vie intérieure (oraison, vie liturgique, garde du cœur, dévotion à Marie). Né d’une brochure de 1907, il parut en 1912 et fut sans cesse augmenté ; texte de l’édition de Sept-Fons, Lyon, Vitte, 1927. Texte tiré d’un OCR médiocre, dont les accents ont été rétablis par machine.",
+    "en-US": "The Abbot of Sept-Fons on the interior life as the soul of all apostolic works: God wills works and the interior life, their union, the danger of action without it, the fertility of works through it, then principles and counsels (mental prayer, the liturgical life, custody of the heart, devotion to Mary). Grown from a 1907 pamphlet into the 1912 book and enlarged ever after; French text of the Sept-Fons edition (Lyon, Vitte, 1927), from a poor OCR whose accents were restored by machine. See also the condensed 1918 English version by Girardey.",
+    "pt-BR": "O livro do abade de Sept-Fons sobre a vida interior como alma das obras: Deus quer as obras e a vida interior, sua união, o perigo da ação sem vida interior, a fecundidade das obras pela vida interior, depois princípios e conselhos (oração, vida litúrgica, guarda do coração, devoção a Maria). Texto francês da edição de Sept-Fons (Lyon, Vitte, 1927)."
+  },
+  "composed": "1912",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "chautard/ame-de-tout-apostolat",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbaye de Sept-Fons (Lyon: Em. Vitte / Paris: P. Téqui; later enlarged edition)",
+      "year": 1927
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/lamedetoutaposto0000unse",
+      "edition": "L’Âme de tout apostolat, Abbaye de Sept-Fons / Em. Vitte, Lyon / P. Téqui, Paris, 1927 printing (imprimatur Moulins 2 Aug 1912). Graduate Theological Union copy, Internet Archive OCR text.",
+      "description": "Prologue, the five parts (each section, and in Part IV each lettered section, a chapter) and the epilogue. Approbation letters and the contents are not imported. The OCR is poor (accents é for è, à read as 4 or a, œ read as ce); accents and ligatures were restored by a vocabulary-driven script and residual errors remain. Footnotes are the book’s numbered notes.",
+      "tier": "A",
+      "tierEvidence": "Chautard died in 1935: public domain in Brazil and the EU; the 1912 text and this 1927 printing are public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologue",
+      "title": {
+        "fr-FR": "Prologue : Ex quo omnia, per quem omnia, in quo omnia"
+      }
+    },
+    {
+      "id": "1-1-oeuvres-voulues",
+      "title": {
+        "fr-FR": "Première partie, 1. Les œuvres et dès lors le zèle sont voulus par Dieu"
+      }
+    },
+    {
+      "id": "1-2-jesus-vie-des-oeuvres",
+      "title": {
+        "fr-FR": "Première partie, 2. Dieu veut que Jésus soit la Vie des œuvres"
+      }
+    },
+    {
+      "id": "1-3-vie-interieure",
+      "title": {
+        "fr-FR": "Première partie, 3. Qu’est-ce que la Vie intérieure ?"
+      }
+    },
+    {
+      "id": "1-4-meconnue",
+      "title": {
+        "fr-FR": "Première partie, 4. Combien cette Vie intérieure est méconnue"
+      }
+    },
+    {
+      "id": "1-5-difficile",
+      "title": {
+        "fr-FR": "Première partie, 5. Réponse à une première objection : la Vie intérieure est-elle difficile ?"
+      }
+    },
+    {
+      "id": "1-6-egoiste",
+      "title": {
+        "fr-FR": "Première partie, 6. Réponse à une autre objection : la Vie intérieure est-elle égoïste et stérile ?"
+      }
+    },
+    {
+      "id": "1-7-salut-des-ames",
+      "title": {
+        "fr-FR": "Première partie, 7. Objection tirée de l’importance du salut des âmes"
+      }
+    },
+    {
+      "id": "2-1-priorite",
+      "title": {
+        "fr-FR": "Deuxième partie, 1. Priorité de la Vie intérieure sur la Vie active au regard de Dieu"
+      }
+    },
+    {
+      "id": "2-2-debordement",
+      "title": {
+        "fr-FR": "Deuxième partie, 2. Les œuvres ne doivent être que le débordement de la Vie intérieure"
+      }
+    },
+    {
+      "id": "2-3-imbibees",
+      "title": {
+        "fr-FR": "Deuxième partie, 3. Base, fin et moyens d’une œuvre doivent être imprégnés de Vie intérieure"
+      }
+    },
+    {
+      "id": "2-4-mutuel",
+      "title": {
+        "fr-FR": "Deuxième partie, 4. Vie intérieure et Vie active s’appellent mutuellement"
+      }
+    },
+    {
+      "id": "2-5-excellence",
+      "title": {
+        "fr-FR": "Deuxième partie, 5. Excellence de cette union"
+      }
+    },
+    {
+      "id": "3-1-danger",
+      "title": {
+        "fr-FR": "Troisième partie, 1. Les œuvres, moyen de sainteté pour les âmes intérieures, danger pour les autres"
+      }
+    },
+    {
+      "id": "3-2-sans-vie-interieure",
+      "title": {
+        "fr-FR": "Troisième partie, 2. De l’homme d’œuvres sans la Vie intérieure"
+      }
+    },
+    {
+      "id": "3-3-saintete-ouvrier",
+      "title": {
+        "fr-FR": "Troisième partie, 3. La Vie intérieure, base de la sainteté de l’ouvrier apostolique"
+      }
+    },
+    {
+      "id": "4-0-fecondite",
+      "title": {
+        "fr-FR": "Quatrième partie : Fécondité des œuvres par la Vie intérieure"
+      }
+    },
+    {
+      "id": "4-a-benedictions",
+      "title": {
+        "fr-FR": "Quatrième partie, a) La Vie intérieure attire les bénédictions de Dieu"
+      }
+    },
+    {
+      "id": "4-b-bon-exemple",
+      "title": {
+        "fr-FR": "Quatrième partie, b) Elle rend l’apôtre sanctificateur par le bon exemple"
+      }
+    },
+    {
+      "id": "4-c-rayonnement",
+      "title": {
+        "fr-FR": "Quatrième partie, c) Elle produit dans l’apôtre le rayonnement surnaturel"
+      }
+    },
+    {
+      "id": "4-d-eloquence",
+      "title": {
+        "fr-FR": "Quatrième partie, d) Elle donne à l’ouvrier évangélique la vraie éloquence"
+      }
+    },
+    {
+      "id": "4-e-engendre",
+      "title": {
+        "fr-FR": "Quatrième partie, e) La Vie intérieure engendre la Vie intérieure"
+      }
+    },
+    {
+      "id": "4-f-elites",
+      "title": {
+        "fr-FR": "Quatrième partie, f) Importance de la formation des élites et de la direction spirituelle"
+      }
+    },
+    {
+      "id": "4-g-eucharistie",
+      "title": {
+        "fr-FR": "Quatrième partie, g) La Vie intérieure par l’Eucharistie"
+      }
+    },
+    {
+      "id": "5-1-conseils",
+      "title": {
+        "fr-FR": "Cinquième partie, 1. Quelques conseils aux hommes d’œuvres pour la Vie intérieure"
+      }
+    },
+    {
+      "id": "5-2-oraison",
+      "title": {
+        "fr-FR": "Cinquième partie, 2. L’Oraison, élément indispensable de la Vie intérieure"
+      }
+    },
+    {
+      "id": "5-3-vie-liturgique",
+      "title": {
+        "fr-FR": "Cinquième partie, 3. La Vie liturgique, source de Vie intérieure"
+      }
+    },
+    {
+      "id": "5-4-garde-du-coeur",
+      "title": {
+        "fr-FR": "Cinquième partie, 4. La Garde du cœur, clef de voûte de la Vie intérieure"
+      }
+    },
+    {
+      "id": "5-5-marie",
+      "title": {
+        "fr-FR": "Cinquième partie, 5. Besoin pour l’apôtre d’une ardente dévotion envers Marie Immaculée"
+      }
+    },
+    {
+      "id": "epilogue",
+      "title": {
+        "fr-FR": "Épilogue"
+      }
+    }
+  ]
+}
