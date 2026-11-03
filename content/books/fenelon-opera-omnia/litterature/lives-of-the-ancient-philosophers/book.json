@@ -1,0 +1,201 @@
+{
+  "id": "fenelon-lives-ancient-philosophers",
+  "cover": "classic",
+  "name": {
+    "en-US": "Lives of the Ancient Philosophers",
+    "pt-BR": "Vidas dos Filósofos Antigos"
+  },
+  "author": {
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François Fénelon"
+  },
+  "description": {
+    "en-US": "Fénelon's abridgement of the lives and maxims of the ancient philosophers, from Thales to Zeno, written for the instruction of the Duke of Burgundy, in the English edition of 1825 with a life of the author.",
+    "pt-BR": "O compêndio de Fénelon sobre as vidas e máximas dos filósofos antigos, de Tales a Zenão, escrito para a instrução do duque de Borgonha, na edição inglesa de 1825 com uma vida do autor."
+  },
+  "composed": 1700,
+  "languages": [
+    "en-US"
+  ],
+  "work": "fenelon/abrege-des-vies-des-anciens-philosophes",
+  "editions": {
+    "en-US": {
+      "editor": "London: Knight and Lacey, 1825",
+      "year": 1825
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/livesancientphi00fngoog",
+      "edition": "The Lives of the Ancient Philosophers (London: Knight and Lacey, 1825), Google Books scan on the Internet Archive, full-text OCR.",
+      "description": "With the editor's Life of Fénelon. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "François de Salignac de La Mothe-Fénelon died in 1715 and the edition is of 1825, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Life of Fénelon"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "Thales"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "Solon"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "Pittacus"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "Bias"
+      }
+    },
+    {
+      "id": "chapter-06",
+      "title": {
+        "en-US": "Periander"
+      }
+    },
+    {
+      "id": "chapter-07",
+      "title": {
+        "en-US": "Chilo"
+      }
+    },
+    {
+      "id": "chapter-08",
+      "title": {
+        "en-US": "Cleobulus"
+      }
+    },
+    {
+      "id": "chapter-09",
+      "title": {
+        "en-US": "Epimenides"
+      }
+    },
+    {
+      "id": "chapter-10",
+      "title": {
+        "en-US": "Anacharsis"
+      }
+    },
+    {
+      "id": "chapter-11",
+      "title": {
+        "en-US": "Pythagoras"
+      }
+    },
+    {
+      "id": "chapter-12",
+      "title": {
+        "en-US": "Heraclitus"
+      }
+    },
+    {
+      "id": "chapter-13",
+      "title": {
+        "en-US": "Anaxagoras"
+      }
+    },
+    {
+      "id": "chapter-14",
+      "title": {
+        "en-US": "Democritus"
+      }
+    },
+    {
+      "id": "chapter-15",
+      "title": {
+        "en-US": "Empedocles"
+      }
+    },
+    {
+      "id": "chapter-16",
+      "title": {
+        "en-US": "Socrates"
+      }
+    },
+    {
+      "id": "chapter-17",
+      "title": {
+        "en-US": "Plato"
+      }
+    },
+    {
+      "id": "chapter-18",
+      "title": {
+        "en-US": "Antisthenes"
+      }
+    },
+    {
+      "id": "chapter-19",
+      "title": {
+        "en-US": "Aristippus"
+      }
+    },
+    {
+      "id": "chapter-20",
+      "title": {
+        "en-US": "Aristotle"
+      }
+    },
+    {
+      "id": "chapter-21",
+      "title": {
+        "en-US": "Xenocrates"
+      }
+    },
+    {
+      "id": "chapter-22",
+      "title": {
+        "en-US": "Diogenes"
+      }
+    },
+    {
+      "id": "chapter-23",
+      "title": {
+        "en-US": "Crates"
+      }
+    },
+    {
+      "id": "chapter-24",
+      "title": {
+        "en-US": "Pyrrho"
+      }
+    },
+    {
+      "id": "chapter-25",
+      "title": {
+        "en-US": "Bion"
+      }
+    },
+    {
+      "id": "chapter-26",
+      "title": {
+        "en-US": "Epicurus"
+      }
+    },
+    {
+      "id": "chapter-27",
+      "title": {
+        "en-US": "Zeno"
+      }
+    }
+  ]
+}
