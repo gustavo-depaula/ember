@@ -1,0 +1,87 @@
+{
+  "id": "chesterton-resurrection-of-rome",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Resurrection of Rome",
+    "pt-BR": "A Ressurreição de Roma"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's book on his visit to Rome in 1929-30, after the Lateran Treaty: the outline of a city, the story of the statues, the pillar of the Lateran, the return of the gods, the return of the Romans and the Holy Island. A traveller's tale and a meditation on the permanence of Rome and the Church.",
+    "pt-BR": "O livro de Chesterton sobre sua visita a Roma em 1929-30, depois do Tratado de Latrão: o esboço de uma cidade, a história das estátuas, o pilar do Latrão, o retorno dos deuses, o retorno dos romanos e a Ilha Santa. Um relato de viagem e uma meditação sobre a permanência de Roma e da Igreja."
+  },
+  "composed": 1930,
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/resurrection-of-rome",
+  "editions": {
+    "en-US": {
+      "editor": "Hodder and Stoughton",
+      "year": 1930
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/in.ernet.dli.2015.522960",
+      "edition": "The Resurrection of Rome (London: Hodder and Stoughton, 1930), Internet Archive (Digital Library of India scan), OCR full text.",
+      "description": "Six parts and two appendices as printed. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Chesterton died in 1936 and the book was published in 1930, so it is public domain (in the US since 1 January 2026)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Part I: The Outline of a City"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "Part II: The Story of the Statues"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "Part III: The Pillar of the Lateran"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "Part IV: The Return of the Gods"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "Part V: The Return of the Romans"
+      }
+    },
+    {
+      "id": "chapter-06",
+      "title": {
+        "en-US": "Part VI: The Holy Island"
+      }
+    },
+    {
+      "id": "chapter-07",
+      "title": {
+        "en-US": "Appendix A"
+      }
+    },
+    {
+      "id": "chapter-08",
+      "title": {
+        "en-US": "Appendix B"
+      }
+    }
+  ]
+}
