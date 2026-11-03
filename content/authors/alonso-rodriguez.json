@@ -8,5 +8,22 @@
     "Alonso Rodríguez, S.J.",
     "Fr. Alonso Rodríguez, S.J.",
     "Alonso Rodríguez SJ"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "alonso-rodriguez/ejercicio-de-perfeccion",
+          "why": {
+            "en-US": "The Jesuit novice master classic of 1609",
+            "pt-BR": "O clássico do mestre de noviços jesuíta, 1609"
+          }
+        }
+      ]
+    }
   ]
 }
