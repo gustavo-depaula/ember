@@ -37,7 +37,7 @@ The first wave (one or two works per author) is done. This queue imports each au
 - [x] Newman (30 books incl. the Anglican sermons). Left: Essays Critical and Historical, Discussions and Arguments, Tracts Theological, Arians, Tracts for the Times, Via Media lectures, Justification, Miracles, the rest of Historical Sketches, Dissertatiunculae, Athanasius
 - [x] Faber · Challoner (rest) · Manning (38 books). Left: Challoner's Garden of the Soul, Britannia Sancta, Memorial, pamphlets (long-s scans need repair); Manning's Petri Privilegium, Temporal Power, Reunion, Religio Viatoris and minor works; Faber's Poems (verse builder) and Anglican works
 - [x] R. H. Benson · More & Fisher (60 books). Left: Benson's Book of the Love of Jesus, Essays, Sermon Notes, Poems, Alphabet of Saints; More's Latin De Tristitia, Treatise on the Passion, Blessed Body, Instructions and Prayers, letters, Richard III, Epigrammata, Responsio, Lucian; Fisher's Latin works (scan-only); filling TCP gaps from the 1557 Workes
-- [ ] Chesterton (rest)
+- [x] Chesterton (82 books). Left: Christendom in Dublin, Sidelights, All I Survey, Come to Think of It, All is Grist, The Way of the Cross, Where All Roads Lead, Gloria in Profundis, two plays (no open text); Collected Poems 1927–32 additions
 - [ ] Marmion · Chautard
 - [ ] Garrigou-Lagrange · Tanquerey
 - [ ] Guéranger
