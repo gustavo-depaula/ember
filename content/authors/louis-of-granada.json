@@ -11,5 +11,142 @@
     "Fray Luis de Granada",
     "Frei Luís de Granada",
     "Ludovicus Granatensis"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "His masterpiece and his book on prayer.",
+        "pt-BR": "Sua obra-prima e seu livro sobre a oração."
+      },
+      "works": [
+        {
+          "work": "louis-of-granada/guia-de-pecadores",
+          "why": {
+            "en-US": "His masterpiece, The Sinner's Guide (1567 text)",
+            "pt-BR": "Sua obra-prima, o Guia de Pecadores (texto de 1567)"
+          }
+        },
+        {
+          "work": "louis-of-granada/libro-de-la-oracion",
+          "why": {
+            "en-US": "How to pray by meditating on the mysteries, 1554",
+            "pt-BR": "Como rezar meditando os mistérios, 1554"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Prayer and the Christian life",
+        "pt-BR": "Oração e vida cristã"
+      },
+      "works": [
+        {
+          "work": "louis-of-granada/memorial-de-la-vida-cristiana",
+          "why": {
+            "en-US": "Memorial of the Christian Life in seven treatises, 1565",
+            "pt-BR": "Memorial da Vida Cristã em sete tratados, 1565"
+          }
+        },
+        {
+          "work": "louis-of-granada/adiciones-al-memorial",
+          "why": {
+            "en-US": "The treatise on the love of God, added in 1574",
+            "pt-BR": "O tratado sobre o amor de Deus, acrescentado em 1574"
+          }
+        },
+        {
+          "work": "louis-of-granada/doctrina-espiritual",
+          "why": {
+            "en-US": "Six treatises on prayer and Christian living, 1587",
+            "pt-BR": "Seis tratados sobre a oração e a vida cristã, 1587"
+          }
+        },
+        {
+          "work": "louis-of-granada/manual-y-opusculos",
+          "why": {
+            "en-US": "Manual of prayers and other devotional opuscula",
+            "pt-BR": "Manual de orações e outros opúsculos devocionais"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The Creed and Christian doctrine",
+        "pt-BR": "O Credo e a doutrina cristã"
+      },
+      "works": [
+        {
+          "work": "louis-of-granada/introduccion-del-simbolo",
+          "why": {
+            "en-US": "His major work, in four parts, 1583",
+            "pt-BR": "Sua obra maior, em quatro partes, 1583"
+          }
+        },
+        {
+          "work": "louis-of-granada/compendio-del-simbolo",
+          "why": {
+            "en-US": "The compendium of the Introduction to the Creed, 1585",
+            "pt-BR": "O compêndio da Introdução ao Símbolo, 1585"
+          }
+        },
+        {
+          "work": "louis-of-granada/compendio-de-doctrina-cristiana",
+          "why": {
+            "en-US": "Compendium of Christian Doctrine, written in 1559",
+            "pt-BR": "Compêndio de Doutrina Cristã, escrito em 1559"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Discourses, lives and letters",
+        "pt-BR": "Discursos, vidas e cartas"
+      },
+      "works": [
+        {
+          "work": "louis-of-granada/discursos",
+          "why": {
+            "en-US": "Discourses on the Incarnation and the Passion",
+            "pt-BR": "Discursos sobre a Encarnação e a Paixão"
+          }
+        },
+        {
+          "work": "louis-of-granada/vidas",
+          "why": {
+            "en-US": "Lives of John of Ávila and other servants of God",
+            "pt-BR": "Vidas de João de Ávila e de outros servos de Deus"
+          }
+        },
+        {
+          "work": "louis-of-granada/cartas",
+          "why": {
+            "en-US": "Letters, 1560-1588",
+            "pt-BR": "Cartas, 1560-1588"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The first text of the Sinner's Guide",
+        "pt-BR": "O primeiro texto do Guia de Pecadores"
+      },
+      "works": [
+        {
+          "work": "louis-of-granada/guia-de-pecadores-primitiva",
+          "why": {
+            "en-US": "The first redaction, Lisbon 1556-1557",
+            "pt-BR": "A primeira redação, Lisboa 1556-1557"
+          }
+        }
+      ]
+    }
   ]
 }
