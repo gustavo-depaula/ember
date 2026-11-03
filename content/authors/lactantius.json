@@ -6,5 +6,87 @@
   "century": 4,
   "matches": [
     "Lactantius"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "lactantius-divine-institutes",
+          "why": {
+            "en-US": "His principal work, in seven books",
+            "pt-BR": "Sua obra principal, em sete livros"
+          }
+        },
+        {
+          "work": "lactantius-epitome-of-the-divine-institutes",
+          "why": {
+            "en-US": "The Divine Institutes in brief",
+            "pt-BR": "As Instituições Divinas em resumo"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Treatises",
+        "pt-BR": "Tratados"
+      },
+      "works": [
+        {
+          "work": "lactantius-workmanship-of-god",
+          "why": {
+            "en-US": "On the workmanship of God",
+            "pt-BR": "Sobre a obra de Deus"
+          }
+        },
+        {
+          "work": "lactantius-anger-of-god",
+          "why": {
+            "en-US": "On the anger of God",
+            "pt-BR": "Sobre a ira de Deus"
+          }
+        },
+        {
+          "work": "lactantius-manner-in-which-the-persecutors-died",
+          "why": {
+            "en-US": "How the persecutors died",
+            "pt-BR": "Como morreram os perseguidores"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Poems and fragments",
+        "pt-BR": "Poemas e fragmentos"
+      },
+      "works": [
+        {
+          "work": "lactantius-phoenix",
+          "why": {
+            "en-US": "The Phoenix, a poem",
+            "pt-BR": "A Fênix, um poema"
+          }
+        },
+        {
+          "work": "lactantius-poem-on-the-passion-of-the-lord",
+          "why": {
+            "en-US": "A poem on the Passion of the Lord",
+            "pt-BR": "Um poema sobre a Paixão do Senhor"
+          }
+        },
+        {
+          "work": "lactantius-fragments",
+          "why": {
+            "en-US": "Fragments",
+            "pt-BR": "Fragmentos"
+          }
+        }
+      ]
+    }
   ]
 }
