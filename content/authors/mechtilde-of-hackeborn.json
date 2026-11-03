@@ -12,5 +12,22 @@
     "Mechtilde of Helfta",
     "Matilde de Hackeborn",
     "Santa Matilde de Hackeborn"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "mechtilde-of-hackeborn/liber-specialis-gratiae",
+          "why": {
+            "en-US": "Her revelations in seven parts, written down at Helfta",
+            "pt-BR": "Suas revelações em sete partes, registradas em Helfta"
+          }
+        }
+      ]
+    }
   ]
 }
