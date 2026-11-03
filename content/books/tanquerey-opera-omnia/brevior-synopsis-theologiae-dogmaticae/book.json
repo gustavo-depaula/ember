@@ -1,0 +1,180 @@
+{
+  "id": "tanquerey-brevior-synopsis-dogmaticae",
+  "cover": "quarter",
+  "name": {
+    "la": "Brevior synopsis theologiae dogmaticae",
+    "en-US": "Shorter Synopsis of Dogmatic Theology",
+    "pt-BR": "Sinopse breve de teologia dogmática"
+  },
+  "author": {
+    "la": "Adolphus Tanquerey",
+    "en-US": "Adolphe Tanquerey",
+    "pt-BR": "Adolphe Tanquerey",
+    "fr-FR": "Adolphe Tanquerey"
+  },
+  "description": {
+    "la": "Epitome synopsis theologiae dogmaticae in usum seminariorum, cum E.-M. Quévastre et L. Hébert. Editio tertia, 1919; paragraphi numerati.",
+    "en-US": "The shorter Latin dogmatic manual for seminaries, with E.-M. Quévastre and L. Hébert. 3rd edition, 1919. Divided by runs of the author’s numbered paragraphs.",
+    "pt-BR": "O manual breve de teologia dogmática para os seminários. 3.ª edição, 1919. Dividido por séries dos parágrafos numerados do autor."
+  },
+  "composed": "1911",
+  "work": "tanquerey/brevior-synopsis-theologiae-dogmaticae",
+  "editions": {
+    "la": {
+      "editor": "Desclée et Soc., Tournai (3rd ed.)",
+      "year": 1919
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/breviorsynopsist00tanq",
+      "edition": "Brevior synopsis theologiae dogmaticae, ed. 3, Tournai: Desclée, 1919 (archive.org breviorsynopsist00tanq, OCR text); divided by runs of numbered paragraphs"
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "t1",
+      "title": {
+        "la": "Textus"
+      },
+      "children": [
+        {
+          "id": "t1-s01",
+          "title": {
+            "la": "Nn. 1–78"
+          }
+        },
+        {
+          "id": "t1-s02",
+          "title": {
+            "la": "Nn. 80–177"
+          }
+        },
+        {
+          "id": "t1-s03",
+          "title": {
+            "la": "Nn. 178–242"
+          }
+        },
+        {
+          "id": "t1-s04",
+          "title": {
+            "la": "Nn. 243–296"
+          }
+        },
+        {
+          "id": "t1-s05",
+          "title": {
+            "la": "Nn. 297–374"
+          }
+        },
+        {
+          "id": "t1-s06",
+          "title": {
+            "la": "Nn. 375–444"
+          }
+        },
+        {
+          "id": "t1-s07",
+          "title": {
+            "la": "Nn. 445–518"
+          }
+        },
+        {
+          "id": "t1-s08",
+          "title": {
+            "la": "Nn. 520–560"
+          }
+        },
+        {
+          "id": "t1-s09",
+          "title": {
+            "la": "Nn. 561–617"
+          }
+        },
+        {
+          "id": "t1-s10",
+          "title": {
+            "la": "Nn. 618–670"
+          }
+        },
+        {
+          "id": "t1-s11",
+          "title": {
+            "la": "Nn. 671–709"
+          }
+        },
+        {
+          "id": "t1-s12",
+          "title": {
+            "la": "Nn. 710–762"
+          }
+        },
+        {
+          "id": "t1-s13",
+          "title": {
+            "la": "Nn. 763–815"
+          }
+        },
+        {
+          "id": "t1-s14",
+          "title": {
+            "la": "Nn. 817–881"
+          }
+        },
+        {
+          "id": "t1-s15",
+          "title": {
+            "la": "Nn. 882–946"
+          }
+        },
+        {
+          "id": "t1-s16",
+          "title": {
+            "la": "Nn. 947–1030"
+          }
+        },
+        {
+          "id": "t1-s17",
+          "title": {
+            "la": "Nn. 1032–1090"
+          }
+        },
+        {
+          "id": "t1-s18",
+          "title": {
+            "la": "Nn. 1092–1145"
+          }
+        },
+        {
+          "id": "t1-s19",
+          "title": {
+            "la": "Nn. 1149–1205"
+          }
+        },
+        {
+          "id": "t1-s20",
+          "title": {
+            "la": "Nn. 1206–1263"
+          }
+        },
+        {
+          "id": "t1-s21",
+          "title": {
+            "la": "Nn. 1264–1320"
+          }
+        },
+        {
+          "id": "t1-s22",
+          "title": {
+            "la": "Nn. 1321–1348"
+          }
+        }
+      ]
+    }
+  ]
+}
