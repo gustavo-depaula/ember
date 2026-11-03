@@ -6,5 +6,95 @@
   "century": 3,
   "matches": [
     "Origen"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "The great defence of the faith and the first systematic theology.",
+        "pt-BR": "A grande defesa da fé e a primeira teologia sistemática."
+      },
+      "works": [
+        {
+          "work": "origen-against-celsus",
+          "why": {
+            "en-US": "His long reply to the pagan critic Celsus",
+            "pt-BR": "Sua longa resposta ao crítico pagão Celso"
+          }
+        },
+        {
+          "work": "origen-de-principiis",
+          "why": {
+            "en-US": "His first-principles treatise on God, the world and Scripture",
+            "pt-BR": "Seu tratado dos primeiros princípios: Deus, mundo e Escritura"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Scripture commentaries",
+        "pt-BR": "Comentários bíblicos"
+      },
+      "works": [
+        {
+          "work": "origen-commentary-on-the-gospel-of-john",
+          "why": {
+            "en-US": "Commentary on the Fourth Gospel",
+            "pt-BR": "Comentário ao Quarto Evangelho"
+          }
+        },
+        {
+          "work": "origen-commentary-on-the-gospel-of-matthew",
+          "why": {
+            "en-US": "Commentary on the First Gospel",
+            "pt-BR": "Comentário ao Primeiro Evangelho"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Letters",
+        "pt-BR": "Cartas"
+      },
+      "note": {
+        "en-US": "Short letters, with the exchange on Susanna.",
+        "pt-BR": "Cartas breves, com a troca sobre Susana."
+      },
+      "works": [
+        {
+          "work": "origen-letter-of-origen-to-gregory",
+          "why": {
+            "en-US": "A short letter to his pupil Gregory",
+            "pt-BR": "Breve carta ao discípulo Gregório"
+          }
+        },
+        {
+          "work": "origen-origen-to-gregory",
+          "why": {
+            "en-US": "A second short letter to Gregory",
+            "pt-BR": "Segunda carta breve a Gregório"
+          }
+        },
+        {
+          "work": "origen-africanus-to-origen",
+          "why": {
+            "en-US": "Africanus writes to Origen",
+            "pt-BR": "Africano escreve a Orígenes"
+          }
+        },
+        {
+          "work": "origen-origen-to-africanus",
+          "why": {
+            "en-US": "Origen's reply to Africanus",
+            "pt-BR": "A resposta de Orígenes a Africano"
+          }
+        }
+      ]
+    }
   ]
 }
