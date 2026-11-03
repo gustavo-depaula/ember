@@ -1,0 +1,63 @@
+{
+  "id": "chesterton-magic",
+  "cover": "classic",
+  "name": {
+    "en-US": "Magic: A Fantastic Comedy",
+    "pt-BR": "Magia: Uma Comédia Fantástica"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's stage comedy: a conjuror, a duke's sister who believes in fairies and a sceptical doctor, set at a tea-party in an English country house, with the question underneath of whether the supernatural is real.",
+    "pt-BR": "A comédia teatral de Chesterton: um ilusionista, a irmã de um duque que acredita em fadas e um médico cético, num chá numa casa de campo inglesa, com a pergunta de fundo sobre se o sobrenatural é real."
+  },
+  "composed": "1913",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/magic",
+  "editions": {
+    "en-US": {
+      "editor": "Dodd, Mead and Company",
+      "year": 1913
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/19094",
+      "edition": "Magic: A Fantastic Comedy (Dodd, Mead and Company, 1913), Project Gutenberg #19094.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1913 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-note",
+      "title": {
+        "en-US": "Note"
+      }
+    },
+    {
+      "id": "ch02-the-prelude",
+      "title": {
+        "en-US": "The Prelude"
+      }
+    },
+    {
+      "id": "ch03-act-ii",
+      "title": {
+        "en-US": "Act II"
+      }
+    },
+    {
+      "id": "ch04-act-iii",
+      "title": {
+        "en-US": "Act III"
+      }
+    }
+  ]
+}
