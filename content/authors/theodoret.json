@@ -6,5 +6,70 @@
   "century": 5,
   "matches": [
     "Theodoret"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "The narrative of the Church that anchors his other works.",
+        "pt-BR": "A narrativa da Igreja que ancora suas demais obras."
+      },
+      "works": [
+        {
+          "work": "theodoret-ecclesiastical-history",
+          "why": {
+            "en-US": "Ecclesiastical History",
+            "pt-BR": "História Eclesiástica"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Christology",
+        "pt-BR": "Cristologia"
+      },
+      "works": [
+        {
+          "work": "theodoret-dialogues",
+          "why": {
+            "en-US": "Dialogues, \"Eranistes\" or \"Polymorphus\"",
+            "pt-BR": "Diálogos, \"Eranistes\" ou \"Polimorfo\""
+          }
+        },
+        {
+          "work": "theodoret-counter-statements-to-cyril-s-12-anathemas-against-nestorius",
+          "why": {
+            "en-US": "Counter-statements to Cyril's twelve anathemas",
+            "pt-BR": "Contra-declarações aos doze anátemas de Cirilo"
+          }
+        },
+        {
+          "work": "theodoret-demonstrations-by-syllogism",
+          "why": {
+            "en-US": "Demonstrations by Syllogism",
+            "pt-BR": "Demonstrações por silogismo"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Letters",
+        "pt-BR": "Cartas"
+      },
+      "works": [
+        {
+          "work": "theodoret-letters",
+          "why": {
+            "en-US": "Letters",
+            "pt-BR": "Cartas"
+          }
+        }
+      ]
+    }
   ]
 }
