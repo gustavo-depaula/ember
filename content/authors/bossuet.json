@@ -8,5 +8,480 @@
     "Jacques-Bénigne Bossuet",
     "Jacques Bénigne Bossuet",
     "Bossuet"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "His plain statement of the faith, his meditations, and his funeral orations.",
+        "pt-BR": "Sua exposição simples da fé, suas meditações e suas orações fúnebres."
+      },
+      "works": [
+        {
+          "work": "bossuet/exposition-de-la-doctrine",
+          "why": {
+            "en-US": "A plain statement of the Catholic faith without polemic, 1671",
+            "pt-BR": "Exposição simples da fé católica, sem polêmica, 1671"
+          }
+        },
+        {
+          "work": "bossuet/elevations-sur-les-mysteres",
+          "why": {
+            "en-US": "Twenty-five weeks of meditations on the mysteries, 1695",
+            "pt-BR": "Vinte e cinco semanas de meditações sobre os mistérios, 1695"
+          }
+        },
+        {
+          "work": "bossuet/oraisons-funebres",
+          "why": {
+            "en-US": "His six great funeral orations, in order of delivery",
+            "pt-BR": "Suas seis grandes orações fúnebres, na ordem em que foram proferidas"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Meditation and devotion",
+        "pt-BR": "Meditação e devoção"
+      },
+      "works": [
+        {
+          "work": "bossuet/meditations-sur-l-evangile",
+          "why": {
+            "en-US": "Day-by-day meditations on the discourses of the Lord, 1695",
+            "pt-BR": "Meditações diárias sobre os discursos do Senhor, 1695"
+          }
+        },
+        {
+          "work": "bossuet/meditations-sur-l-evangile-capes",
+          "why": {
+            "en-US": "Thirty-seven meditations on the Sermon on the Mount",
+            "pt-BR": "Trinta e sete meditações sobre o Sermão da Montanha"
+          }
+        },
+        {
+          "work": "bossuet/prieres-ecclesiastiques",
+          "why": {
+            "en-US": "Prayers and devotions for the faithful of Meaux, 1689",
+            "pt-BR": "Orações e devoções para os fiéis de Meaux, 1689"
+          }
+        },
+        {
+          "work": "bossuet/opuscules",
+          "why": {
+            "en-US": "Shorter spiritual writings, 1690-1703",
+            "pt-BR": "Escritos espirituais breves, 1690-1703"
+          }
+        },
+        {
+          "work": "bossuet/traite-de-la-concupiscence",
+          "why": {
+            "en-US": "On the words of St. John, Love not the world, 1693",
+            "pt-BR": "Sobre as palavras de São João, Não ameis o mundo, 1693"
+          }
+        },
+        {
+          "work": "bossuet/catechismes-de-meaux",
+          "why": {
+            "en-US": "Catechisms for his diocese, 1687",
+            "pt-BR": "Catecismos para sua diocese, 1687"
+          }
+        },
+        {
+          "work": "bossuet/explication-des-prieres-de-la-messe",
+          "why": {
+            "en-US": "Difficulties on the prayers of the Mass, 1689",
+            "pt-BR": "Dificuldades sobre as orações da Missa, 1689"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Sermons and orations",
+        "pt-BR": "Sermões e orações"
+      },
+      "works": [
+        {
+          "work": "bossuet/sermons",
+          "why": {
+            "en-US": "Sermons in the order of the liturgical year, 1649-1704",
+            "pt-BR": "Sermões na ordem do ano litúrgico, 1649-1704"
+          }
+        },
+        {
+          "work": "bossuet/sermons-marials",
+          "why": {
+            "en-US": "Sermons for Our Lady's feasts, in English",
+            "pt-BR": "Sermões para as festas de Nossa Senhora, em inglês"
+          }
+        },
+        {
+          "work": "bossuet/panegyriques",
+          "why": {
+            "en-US": "Panegyrics of the saints, 1655-1668",
+            "pt-BR": "Panegíricos dos santos, 1655-1668"
+          }
+        },
+        {
+          "work": "bossuet/oraisons-funebres-lachat",
+          "why": {
+            "en-US": "All ten funeral orations, Lachat edition",
+            "pt-BR": "As dez orações fúnebres, edição Lachat"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Spiritual direction",
+        "pt-BR": "Direção espiritual"
+      },
+      "works": [
+        {
+          "work": "bossuet/lettres-de-direction",
+          "why": {
+            "en-US": "Letters of piety and direction, by recipient",
+            "pt-BR": "Cartas de piedade e direção, por destinatário"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Scripture",
+        "pt-BR": "Escritura"
+      },
+      "works": [
+        {
+          "work": "bossuet/liber-psalmorum",
+          "why": {
+            "en-US": "Latin commentary on the Psalms, 1690",
+            "pt-BR": "Comentário latino aos Salmos, 1690"
+          }
+        },
+        {
+          "work": "bossuet/libri-salomonis",
+          "why": {
+            "en-US": "Latin commentaries on the Wisdom books, 1690",
+            "pt-BR": "Comentários latinos aos livros sapienciais, 1690"
+          }
+        },
+        {
+          "work": "bossuet/explications-d-isaie-et-du-psaume-21",
+          "why": {
+            "en-US": "Letters on Isaiah's virgin prophecy and Psalm 21, 1690",
+            "pt-BR": "Cartas sobre a profecia da virgem em Isaías e o Salmo 21, 1690"
+          }
+        },
+        {
+          "work": "bossuet/ecrits-sur-le-nouveau-testament",
+          "why": {
+            "en-US": "Writings on the New Testament and the Trévoux version, 1699",
+            "pt-BR": "Escritos sobre o Novo Testamento e a versão de Trévoux, 1699"
+          }
+        },
+        {
+          "work": "bossuet/avertissement-sur-les-propheties",
+          "why": {
+            "en-US": "Against Jurieu's reading of the prophecies, 1686",
+            "pt-BR": "Contra a leitura das profecias por Jurieu, 1686"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Works for the Dauphin",
+        "pt-BR": "Obras para o Delfim"
+      },
+      "note": {
+        "en-US": "Written for the king's son.",
+        "pt-BR": "Escritas para o filho do rei."
+      },
+      "works": [
+        {
+          "work": "bossuet/discours-sur-l-histoire-universelle",
+          "why": {
+            "en-US": "A history of the world in three parts, 1681",
+            "pt-BR": "Uma história do mundo em três partes, 1681"
+          }
+        },
+        {
+          "work": "bossuet/connaissance-de-dieu-et-de-soi-meme",
+          "why": {
+            "en-US": "A philosophical treatise on knowing God and oneself, 1677",
+            "pt-BR": "Tratado filosófico sobre o conhecimento de Deus e de si, 1677"
+          }
+        },
+        {
+          "work": "bossuet/politique-tiree-de-l-ecriture-sainte",
+          "why": {
+            "en-US": "Politics drawn from Scripture, in ten books, 1679",
+            "pt-BR": "Política tirada da Sagrada Escritura, em dez livros, 1679"
+          }
+        },
+        {
+          "work": "bossuet/traite-du-libre-arbitre",
+          "why": {
+            "en-US": "Freedom and providence reconciled, 1677",
+            "pt-BR": "Liberdade e providência conciliadas, 1677"
+          }
+        },
+        {
+          "work": "bossuet/logique",
+          "why": {
+            "en-US": "A logic in three books, 1677",
+            "pt-BR": "Uma lógica em três livros, 1677"
+          }
+        },
+        {
+          "work": "bossuet/abrege-de-l-histoire-de-france",
+          "why": {
+            "en-US": "History of France from Pharamond to Charles IX, 1675",
+            "pt-BR": "História da França de Faramundo a Carlos IX, 1675"
+          }
+        },
+        {
+          "work": "bossuet/melanges-pour-le-dauphin",
+          "why": {
+            "en-US": "Exercises for the Dauphin and plan of a theology, 1675",
+            "pt-BR": "Exercícios para o Delfim e plano de uma teologia, 1675"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Controversy with the Protestants",
+        "pt-BR": "Controvérsia com os protestantes"
+      },
+      "works": [
+        {
+          "work": "bossuet/histoire-des-variations",
+          "why": {
+            "en-US": "History of the Variations of the Protestant Churches, 1688",
+            "pt-BR": "História das Variações das Igrejas Protestantes, 1688"
+          }
+        },
+        {
+          "work": "bossuet/defense-de-l-histoire-des-variations",
+          "why": {
+            "en-US": "Reply to Basnage on the Variations, 1691",
+            "pt-BR": "Resposta a Basnage sobre as Variações, 1691"
+          }
+        },
+        {
+          "work": "bossuet/conference-avec-m-claude",
+          "why": {
+            "en-US": "The 1678 conference with the minister Claude",
+            "pt-BR": "A conferência de 1678 com o ministro Claude"
+          }
+        },
+        {
+          "work": "bossuet/avertissements-aux-protestants",
+          "why": {
+            "en-US": "Six warnings against the minister Jurieu, 1689-91",
+            "pt-BR": "Seis advertências contra o ministro Jurieu, 1689-91"
+          }
+        },
+        {
+          "work": "bossuet/refutation-du-catechisme-de-paul-ferry",
+          "why": {
+            "en-US": "Refutation of Paul Ferry's catechism, 1655",
+            "pt-BR": "Refutação do catecismo de Paul Ferry, 1655"
+          }
+        },
+        {
+          "work": "bossuet/traite-de-la-communion-sous-les-deux-especes",
+          "why": {
+            "en-US": "Why the Latin Church gives one species, 1682",
+            "pt-BR": "Por que a Igreja latina dá uma só espécie, 1682"
+          }
+        },
+        {
+          "work": "bossuet/la-tradition-defendue",
+          "why": {
+            "en-US": "Tradition defended on communion under one kind, 1700",
+            "pt-BR": "A tradição defendida sobre a comunhão sob uma espécie, 1700"
+          }
+        },
+        {
+          "work": "bossuet/ecrits-pour-les-nouveaux-catholiques",
+          "why": {
+            "en-US": "Pastoral letter to the converted Protestants of Meaux, 1686",
+            "pt-BR": "Carta pastoral aos protestantes convertidos de Meaux, 1686"
+          }
+        },
+        {
+          "work": "bossuet/projet-de-reunion",
+          "why": {
+            "en-US": "Documents of the attempts at reunion, 1691",
+            "pt-BR": "Documentos das tentativas de reunião, 1691"
+          }
+        },
+        {
+          "work": "bossuet/instructions-sur-les-promesses-de-l-eglise",
+          "why": {
+            "en-US": "Two pastoral instructions on the Church's promises, 1700",
+            "pt-BR": "Duas instruções pastorais sobre as promessas da Igreja, 1700"
+          }
+        },
+        {
+          "work": "bossuet/defense-de-la-tradition-et-des-saints-peres",
+          "why": {
+            "en-US": "Reply in thirteen books to Richard Simon, 1703",
+            "pt-BR": "Resposta em treze livros a Richard Simon, 1703"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The quietism dispute",
+        "pt-BR": "A controvérsia do quietismo"
+      },
+      "works": [
+        {
+          "work": "bossuet/instruction-sur-les-etats-d-oraison",
+          "why": {
+            "en-US": "Treatise against Quietism in two parts, 1696-97",
+            "pt-BR": "Tratado contra o quietismo em duas partes, 1696-97"
+          }
+        },
+        {
+          "work": "bossuet/ecrits-sur-les-maximes-des-saints",
+          "why": {
+            "en-US": "Memoranda and replies on Fénelon's Maxims, 1697",
+            "pt-BR": "Memórias e respostas sobre as Máximas de Fénelon, 1697"
+          }
+        },
+        {
+          "work": "bossuet/relation-sur-le-quietisme",
+          "why": {
+            "en-US": "His narrative of Quietism and of Fénelon, 1698",
+            "pt-BR": "Sua narrativa do quietismo e de Fénelon, 1698"
+          }
+        },
+        {
+          "work": "bossuet/reponses-aux-ecrits-de-fenelon",
+          "why": {
+            "en-US": "Replies to Fénelon's writings, 1698",
+            "pt-BR": "Respostas aos escritos de Fénelon, 1698"
+          }
+        },
+        {
+          "work": "bossuet/lettres-sur-le-quietisme-i",
+          "why": {
+            "en-US": "Letters on the Quietist affair, 1694-1698",
+            "pt-BR": "Cartas sobre o quietismo, 1694-1698"
+          }
+        },
+        {
+          "work": "bossuet/lettres-sur-le-quietisme-ii",
+          "why": {
+            "en-US": "Letters on the Quietist affair, 1698-1703",
+            "pt-BR": "Cartas sobre o quietismo, 1698-1703"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Gallicanism and moral questions",
+        "pt-BR": "Galicanismo e questões morais"
+      },
+      "works": [
+        {
+          "work": "bossuet/defensio-declarationis-cleri-gallicani",
+          "why": {
+            "en-US": "Latin defence of the Gallican Declaration, 1683",
+            "pt-BR": "Defesa latina da Declaração galicana, 1683"
+          }
+        },
+        {
+          "work": "bossuet/appendix-ad-defensionem",
+          "why": {
+            "en-US": "Appendix to the Defence, 1685",
+            "pt-BR": "Apêndice à Defesa, 1685"
+          }
+        },
+        {
+          "work": "bossuet/maximes-et-reflexions-sur-la-comedie",
+          "why": {
+            "en-US": "Maxims and reflections on the theatre, 1694",
+            "pt-BR": "Máximas e reflexões sobre o teatro, 1694"
+          }
+        },
+        {
+          "work": "bossuet/traite-de-l-usure-et-memoires",
+          "why": {
+            "en-US": "Treatise on usury and memoranda, 1700",
+            "pt-BR": "Tratado da usura e memórias, 1700"
+          }
+        },
+        {
+          "work": "bossuet/dissertatiunculae-adversus-probabilitatem",
+          "why": {
+            "en-US": "Four Latin dissertations against probabilism, 1700",
+            "pt-BR": "Quatro dissertações latinas contra o probabilismo, 1700"
+          }
+        },
+        {
+          "work": "bossuet/remarques-sur-dupin-et-la-mystique-cite",
+          "why": {
+            "en-US": "Remarks on Dupin and the Mystical City of God, 1693",
+            "pt-BR": "Observações sobre Dupin e a Mística Cidade de Deus, 1693"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Letters and administration",
+        "pt-BR": "Cartas e administração"
+      },
+      "works": [
+        {
+          "work": "bossuet/lettres-diverses",
+          "why": {
+            "en-US": "General correspondence, 1658-1697",
+            "pt-BR": "Correspondência geral, 1658-1697"
+          }
+        },
+        {
+          "work": "bossuet/lettres-diverses-suite",
+          "why": {
+            "en-US": "General correspondence, 1695-1704",
+            "pt-BR": "Correspondência geral, 1695-1704"
+          }
+        },
+        {
+          "work": "bossuet/nouvelles-lettres-et-memoires",
+          "why": {
+            "en-US": "Further letters and memoranda, 1687-1703",
+            "pt-BR": "Outras cartas e memórias, 1687-1703"
+          }
+        },
+        {
+          "work": "bossuet/lettres-ecrites-a-bossuet",
+          "why": {
+            "en-US": "Letters written to Bossuet, 1670-1704",
+            "pt-BR": "Cartas escritas a Bossuet, 1670-1704"
+          }
+        },
+        {
+          "work": "bossuet/ordonnances-et-pieces-administratives",
+          "why": {
+            "en-US": "Ordinances of the Bishop of Meaux, 1685-1702",
+            "pt-BR": "Ordenanças do bispo de Meaux, 1685-1702"
+          }
+        }
+      ]
+    }
   ]
 }
