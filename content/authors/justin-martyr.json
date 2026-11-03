@@ -7,5 +7,102 @@
   "saint": "justin",
   "matches": [
     "Justin Martyr"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "justin-martyr-first-apology",
+          "why": {
+            "en-US": "His defense of the Christians, about 21,600 words",
+            "pt-BR": "Sua defesa dos cristãos, cerca de 21.600 palavras"
+          }
+        },
+        {
+          "work": "justin-martyr-second-apology",
+          "why": {
+            "en-US": "The shorter second apology",
+            "pt-BR": "A segunda apologia, mais breve"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Dialogue and doctrine",
+        "pt-BR": "Diálogo e doutrina"
+      },
+      "works": [
+        {
+          "work": "justin-martyr-dialogue-with-trypho",
+          "why": {
+            "en-US": "His dialogue with Trypho",
+            "pt-BR": "Seu diálogo com Trifão"
+          }
+        },
+        {
+          "work": "justin-martyr-sole-government-of-god",
+          "why": {
+            "en-US": "On the sole government of God",
+            "pt-BR": "Sobre o governo único de Deus"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Addresses to the Greeks",
+        "pt-BR": "Discursos aos gregos"
+      },
+      "works": [
+        {
+          "work": "justin-martyr-hortatory-address-to-the-greeks",
+          "why": {
+            "en-US": "Hortatory address to the Greeks",
+            "pt-BR": "Exortação aos gregos"
+          }
+        },
+        {
+          "work": "justin-martyr-discourse-to-the-greeks",
+          "why": {
+            "en-US": "Discourse to the Greeks",
+            "pt-BR": "Discurso aos gregos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Fragments and martyrdom",
+        "pt-BR": "Fragmentos e martírio"
+      },
+      "works": [
+        {
+          "work": "justin-martyr-martyrdom-of-justin-chariton-and-other-roman-martyrs",
+          "why": {
+            "en-US": "The martyrdom of Justin and his companions",
+            "pt-BR": "O martírio de Justino e seus companheiros"
+          }
+        },
+        {
+          "work": "justin-martyr-fragments-of-the-lost-work-on-the-resurrection",
+          "why": {
+            "en-US": "Fragments of a lost work on the resurrection",
+            "pt-BR": "Fragmentos de uma obra perdida sobre a ressurreição"
+          }
+        },
+        {
+          "work": "justin-martyr-miscellaneous-fragments-from-lost-writings",
+          "why": {
+            "en-US": "Fragments from lost writings",
+            "pt-BR": "Fragmentos de escritos perdidos"
+          }
+        }
+      ]
+    }
   ]
 }
