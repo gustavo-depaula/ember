@@ -13,18 +13,23 @@
   },
   "description": {
     "fr-FR": "Pourquoi l’Église latine donne la communion sous la seule espèce du pain : la pratique des premiers siècles, puis les principes de l’Église, à la lumière de l’Écriture et de la tradition. Composé vers 1682, publié en 1683. Édition Lachat (1864).",
-    "en-US": "Why the Latin Church gives communion under the one species of bread: the practice of the first centuries, then the principles of the Church, in the light of Scripture and tradition. Composed around 1682 and published in 1683. Lachat edition (1864).",
+    "en-US": "Why the Latin Church gives communion under the one species of bread: the practice of the first centuries, then the principles of the Church, in the light of Scripture and tradition. Composed around 1682 and published in 1683. Lachat edition (1864). The English is the anonymous translation printed at Paris in 1685, with the translator's address to the reader.",
     "pt-BR": "Por que a Igreja latina dá a comunhão sob a única espécie do pão: a prática dos primeiros séculos e depois os princípios da Igreja, à luz da Escritura e da tradição. Composto por volta de 1682 e publicado em 1683. Edição Lachat (1864)."
   },
   "composed": "1682",
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "en-US"
   ],
   "work": "bossuet/traite-de-la-communion-sous-les-deux-especes",
   "editions": {
     "fr-FR": {
       "editor": "Abbé F. Lachat",
       "year": 1864
+    },
+    "en-US": {
+      "translator": "Anonymous (Paris: Sébastien Mabre-Cramoisy)",
+      "year": 1685
     }
   },
   "sources": [
@@ -35,20 +40,40 @@
       "description": "Typed transcription of volume XVI, pages 007-008. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
       "tier": "A",
       "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    },
+    {
+      "language": "en-US",
+      "url": "https://github.com/textcreationpartnership/A28850",
+      "edition": "A Treatise of Communion under Both Species, by the Lord James Benigne Bossuet, Bishop of Meaux (Paris: Sebastian Mabre Cramoisy, 1685), EEBO-TCP A28850",
+      "description": "EEBO-TCP hand-keyed transcription, original spelling kept; long s printed as s. The translator's marginal references are footnotes; 4 illegible places in them are marked […]. The division into two parts opens Part I, as in Lachat; the translator's address 'The Publisher to the Reader' has no French counterpart. The table of articles is left out. Raw TEI in sources/english-originals/.",
+      "tier": "A",
+      "tierEvidence": "Printed 1685; the TCP transcription is released to the public domain (CC0)."
     }
   ],
   "toc": [
     {
+      "id": "publisher-to-the-reader",
+      "title": {
+        "en-US": "The Publisher to the Reader"
+      }
+    },
+    {
       "id": "premiere-partie",
       "title": {
-        "fr-FR": "Première partie : la pratique et le sentiment de l’Église dès les premiers siècles"
+        "fr-FR": "Première partie : la pratique et le sentiment de l’Église dès les premiers siècles",
+        "en-US": "The First Part: The Practise and Judgement of the Church from the First Ages"
       }
     },
     {
       "id": "seconde-partie",
       "title": {
-        "fr-FR": "Seconde partie : les principes sur lesquels sont appuyés les sentiments et la pratique de l’Église"
+        "fr-FR": "Seconde partie : les principes sur lesquels sont appuyés les sentiments et la pratique de l’Église",
+        "en-US": "The Second Part: Principles upon which are Established the Judgement and Practise of the Church"
       }
     }
-  ]
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-02",
+    "en-US": "2026-11-03"
+  }
 }

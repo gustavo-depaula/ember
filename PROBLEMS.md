@@ -275,7 +275,7 @@ Text is the JesusMarie.com digital edition of Coste (tomes I-XIII and the 1970 "
 - `doctrine/exposition-de-la-doctrine`: the English (Tracts on Catholic Unity, 1845, a free translation) stops after chapter XX; XXI-XXII are missing. `controverse/conference-with-m-claude-en` (1842) is a separate OCR book, whose sections do not follow the French pages.
 - `doctrine/discours-sur-l-histoire-universelle` uses the Lachat typing (with Lachat's variant notes, 154k words), not the proofread Wikisource 1681 text (130k); `doctrine/politique-tiree-de-l-ecriture-sainte` likewise. No English was added to either (Elphinston 1767/1821 and the 1842 Book I are still to do).
 - `gallicanisme/`: the Latin *Defensio* and its Appendix come from the Bibliothèque monastique Word-HTML (Lachat XXI-XXII), with page marks of vol. XXI stripped; chapter headings are as in the source, a few chapter titles are the editor's argument line and may be cut. The analytical table that follows the Appendix in the file is left out.
-- Not done: `controverse/` English for the Avertissements, Communion, Tradition défendue; the Lachat vol. XXVI-XXX letters and vol. XXVII-XXVIII (left to the correspondence agent); vol. XXXI tables and the *Mémoire* pages 004-030.
+- Not done: `controverse/` English for the Avertissements, Tradition défendue; the Lachat vol. XXVI-XXX letters and vol. XXVII-XXVIII (left to the correspondence agent); vol. XXXI tables and the *Mémoire* pages 004-030.
 
 ### Bonaventure (opera omnia)
 
@@ -517,7 +517,7 @@ Text is the JesusMarie.com digital edition of Coste (tomes I-XIII and the 1970 "
 - Fénelon, Stevenson's *Dialogues on Eloquence* (1722/1729): skipped. Long-s plus italic OCR; the repaired text (`research/sourcing/fenelon/en2/eloq_s.txt`, made with `_scripts/en_longs.py`) still has damaged headings, so the three dialogues cannot be split safely.
 - Fénelon, *Fables* (Elphinston 1760): the long-s repair is by lexicon vote, but the scan is poor and unrepaired slips remain (about one word in fifty). The facing *Medal* epistle (Bayle) is left out.
 - Bossuet, *Universal History* (Elphinston, `anuniversalhist00bossgoog`): cut only at the work's three parts (Epochs, Continuation of Religion, Revolutions of Empires); the OCR has marginal date notes and scan noise, and chapter divisions inside the parts are not recoverable. Each part is a very long single chapter.
-- Bossuet, *Communion under Both Kinds* (1685/1687, EEBO scan on Internet Archive): skipped, the OCR is unreadable in places ("Rght Honeuroble"). A transcribed EEBO-TCP text would be needed. *Tradition défendue*, the *Avertissements*: no English translation found. *Great French Sermons* gave ten Bossuet sermons; some are abridged or exordia in the anthology.
+- Bossuet, *Communion under Both Kinds*: since imported from EEBO-TCP (see "Skipped texts, second sources"). *Tradition défendue*, the *Avertissements*: no English translation found. *Great French Sermons* gave ten Bossuet sermons; some are abridged or exordia in the anthology.
 - Bossuet, *Political Science* Book I (1842): only Book I exists in this English edition.
 
 ### English pass, group C (medieval Latin authors)
@@ -534,3 +534,9 @@ Skipped, with the reason:
 - Bonaventure, Lockhart (1868) and Salter (1904) *Legenda maior*: Lockhart's drop-capital openings are destroyed in every chapter (for example "e\N the city of Assisi") and its miracle sections are headed "First: ... Tenth:"; Salter has the same marginal rubrics as above. Neither imported.
 - Kempis, Scully's *Sermons to the Novices Regular*: the OCR keeps the marginal Scripture references and column debris ("W|", "2|") inside the paragraphs and garbles the opening lines of all 30 sermons, so it would need a page-image pass. Thirty sermons correspond one for one to the Latin book (p1-01 to p3-11), so the English can go into that book's `en-US/` later.
 - Bridget, *Regula Salvatoris*: no free English translation found.
+
+### Skipped texts, second sources (November 2026)
+
+Texts skipped earlier for want of a clean copy, imported from the second sources in `research/sourcing/_skipped-sources.md`.
+
+- `bossuet-opera-omnia/controverse/traite-de-la-communion-sous-les-deux-especes/en-US` (`research/sourcing/_scripts/bossuet_communion_tcp.py`): the anonymous English of 1685 (Paris, Mabre-Cramoisy), EEBO-TCP A28850, hand-keyed, old spelling kept with the long s normalised. The two parts pair with the French; the division into two parts opens Part I in both. The translator's marginal references are footnotes (4 illegible letters marked […]); the table of articles is left out, and "The Publisher to the Reader" is an English-only chapter. The keyers' slips are kept (for example "S. Lukc").
