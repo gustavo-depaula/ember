@@ -1,0 +1,153 @@
+{
+  "id": "chesterton-return-of-don-quixote",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Return of Don Quixote",
+    "pt-BR": "O Retorno de Dom Quixote"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's last novel: a Seawood Abbey pageant of King Arthur, played by a company of actors with a Quixotic librarian, turns into a charade of the Middle Ages in a modern England of wealth and rebellion. A comedy of chivalry, the Church and the Crown, and of the idea that a man can enter into a story so deeply that he returns to it.",
+    "pt-BR": "O último romance de Chesterton: um espetáculo do rei Artur na Abadia de Seawood, representado por atores com um bibliotecário quixotesco, transforma-se numa charada da Idade Média numa Inglaterra moderna de riqueza e rebelião. Uma comédia sobre a cavalaria, a Igreja e a Coroa, e a ideia de que um homem pode entrar tão fundo numa história que a ela retorna."
+  },
+  "composed": "1927",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/return-of-don-quixote",
+  "editions": {
+    "en-US": {
+      "editor": "Chatto & Windus",
+      "year": 1927
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.net.au/ebooks09/0900401h.html",
+      "edition": "The Return of Don Quixote (Chatto & Windus, 1927), Project Gutenberg Australia, ebooks09/0900401h.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain in Brazil, the UK and the EU (Chesterton died in 1936). Published in 1927; text taken from Project Gutenberg Australia, which carries it under Australian law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-a-hole-in-the-caste",
+      "title": {
+        "en-US": "A Hole in the Caste"
+      }
+    },
+    {
+      "id": "ch02-a-dangerous-man",
+      "title": {
+        "en-US": "A Dangerous Man"
+      }
+    },
+    {
+      "id": "ch03-the-ladder-in-the-library",
+      "title": {
+        "en-US": "The Ladder in the Library"
+      }
+    },
+    {
+      "id": "ch04-the-first-trial-of-john-braintree",
+      "title": {
+        "en-US": "The First Trial of John Braintree"
+      }
+    },
+    {
+      "id": "ch05-the-second-trial-of-john-braintree",
+      "title": {
+        "en-US": "The Second Trial of John Braintree"
+      }
+    },
+    {
+      "id": "ch06-a-commission-as-colourman",
+      "title": {
+        "en-US": "A Commission as Colourman"
+      }
+    },
+    {
+      "id": "ch07-blondel-the-troubadour",
+      "title": {
+        "en-US": "\"Blondel the Troubadour\""
+      }
+    },
+    {
+      "id": "ch08-the-misadventures-of-monkey",
+      "title": {
+        "en-US": "The Misadventures of Monkey"
+      }
+    },
+    {
+      "id": "ch09-the-mystery-of-a-hansom-cab",
+      "title": {
+        "en-US": "The Mystery of a Hansom Cab"
+      }
+    },
+    {
+      "id": "ch10-when-doctors-disagree",
+      "title": {
+        "en-US": "When Doctors Disagree"
+      }
+    },
+    {
+      "id": "ch11-the-lunacy-of-the-librarian",
+      "title": {
+        "en-US": "The Lunacy of the Librarian"
+      }
+    },
+    {
+      "id": "ch12-the-statesman-and-the-summer-house",
+      "title": {
+        "en-US": "The Statesman and the Summer-house"
+      }
+    },
+    {
+      "id": "ch13-the-victorian-and-the-arrow",
+      "title": {
+        "en-US": "The Victorian and the Arrow"
+      }
+    },
+    {
+      "id": "ch14-the-return-of-the-knight-errant",
+      "title": {
+        "en-US": "The Return of the Knight-errant"
+      }
+    },
+    {
+      "id": "ch15-the-parting-of-the-ways",
+      "title": {
+        "en-US": "The Parting of the Ways"
+      }
+    },
+    {
+      "id": "ch16-the-judgment-of-the-king",
+      "title": {
+        "en-US": "The Judgment of the King"
+      }
+    },
+    {
+      "id": "ch17-the-departure-of-don-quixote",
+      "title": {
+        "en-US": "The Departure of Don Quixote"
+      }
+    },
+    {
+      "id": "ch18-the-secret-of-seawood",
+      "title": {
+        "en-US": "The Secret of Seawood"
+      }
+    },
+    {
+      "id": "ch19-the-return-of-don-quixote",
+      "title": {
+        "en-US": "The Return of Don Quixote"
+      }
+    }
+  ]
+}
