@@ -6,5 +6,29 @@
   "century": 3,
   "matches": [
     "Novatian"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "novatian-treatise-concerning-the-trinity",
+          "why": {
+            "en-US": "His treatise on the Trinity",
+            "pt-BR": "Seu tratado sobre a Trindade"
+          }
+        },
+        {
+          "work": "novatian-jewish-meats",
+          "why": {
+            "en-US": "On the Jewish meats",
+            "pt-BR": "Sobre as carnes judaicas"
+          }
+        }
+      ]
+    }
   ]
 }
