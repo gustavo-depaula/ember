@@ -1,0 +1,81 @@
+{
+  "id": "chesterton-william-cobbett",
+  "cover": "classic",
+  "name": {
+    "en-US": "William Cobbett",
+    "pt-BR": "William Cobbett"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's study of the radical journalist and countryman: his self-made youth, his tragedy as a patriot, his Political Register, his Rural Rides, his History of the Protestant Reformation, and a man who saw clearly what the industrial age would do to the English land.",
+    "pt-BR": "O estudo de Chesterton sobre o jornalista radical e homem do campo: sua juventude de autodidata, sua tragédia de patriota, seu Political Register, seus Rural Rides, sua História da Reforma Protestante, e um homem que viu claramente o que a era industrial faria com a terra inglesa."
+  },
+  "composed": "1925",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/william-cobbett",
+  "editions": {
+    "en-US": {
+      "editor": "Hodder & Stoughton",
+      "year": 1925
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.net.au/ebooks09/0900441h.html",
+      "edition": "William Cobbett (Hodder & Stoughton, 1925), Project Gutenberg Australia, ebooks09/0900441h.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain in Brazil, the UK and the EU (Chesterton died in 1936). Published in 1925; text taken from Project Gutenberg Australia, which carries it under Australian law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-revival-of-cobbett",
+      "title": {
+        "en-US": "The Revival of Cobbett"
+      }
+    },
+    {
+      "id": "ch02-a-self-made-man",
+      "title": {
+        "en-US": "A Self-made Man"
+      }
+    },
+    {
+      "id": "ch03-the-tragedy-of-the-patriot",
+      "title": {
+        "en-US": "The Tragedy of the Patriot"
+      }
+    },
+    {
+      "id": "ch04-revolution-and-the-bones-of-paine",
+      "title": {
+        "en-US": "Revolution and the Bones of Paine"
+      }
+    },
+    {
+      "id": "ch05-the-amateur-historian",
+      "title": {
+        "en-US": "The Amateur Historian"
+      }
+    },
+    {
+      "id": "ch06-the-rural-rider",
+      "title": {
+        "en-US": "The Rural Rider"
+      }
+    },
+    {
+      "id": "ch07-last-days-and-death",
+      "title": {
+        "en-US": "Last Days and Death"
+      }
+    }
+  ]
+}
