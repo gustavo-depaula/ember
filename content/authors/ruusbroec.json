@@ -9,5 +9,120 @@
     "Jan van Ruusbroec (1293-1381)",
     "John of Ruysbroeck",
     "Jan van Ruusbroec"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "The masterpiece, with a short treatise that sums up his teaching.",
+        "pt-BR": "A obra-prima e um breve tratado que resume seu ensino."
+      },
+      "works": [
+        {
+          "work": "ruusbroec/blinkende-steen",
+          "why": {
+            "en-US": "A short treatise on the good, interior and contemplative man",
+            "pt-BR": "Breve tratado sobre o homem bom, interior e contemplativo"
+          }
+        },
+        {
+          "work": "ruusbroec/brulocht",
+          "why": {
+            "en-US": "His masterpiece on the active, interior and contemplative life",
+            "pt-BR": "Sua obra-prima sobre a vida ativa, interior e contemplativa"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Treatises on the interior life",
+        "pt-BR": "Tratados sobre a vida interior"
+      },
+      "works": [
+        {
+          "work": "ruusbroec/rijcke-der-ghelieven",
+          "why": {
+            "en-US": "His earliest: the gifts of the Spirit and five kingdoms",
+            "pt-BR": "O mais antigo: os dons do Espírito e cinco reinos"
+          }
+        },
+        {
+          "work": "ruusbroec/boec-der-hoechster-waerheit",
+          "why": {
+            "en-US": "On union with God, written against false mysticism",
+            "pt-BR": "Sobre a união com Deus, contra a falsa mística"
+          }
+        },
+        {
+          "work": "ruusbroec/seven-trappen",
+          "why": {
+            "en-US": "The seven steps of spiritual love, for Margaret of Meerbeke",
+            "pt-BR": "Os sete degraus do amor espiritual, para Margarida de Meerbeke"
+          }
+        },
+        {
+          "work": "ruusbroec/spieghel-der-eeuwigher-salicheit",
+          "why": {
+            "en-US": "On Holy Communion and the stages of the interior life",
+            "pt-BR": "Sobre a Sagrada Comunhão e as etapas da vida interior"
+          }
+        },
+        {
+          "work": "ruusbroec/seven-sloten",
+          "why": {
+            "en-US": "A letter to the Poor Clares on seven enclosures",
+            "pt-BR": "Carta às Clarissas sobre sete clausuras"
+          }
+        },
+        {
+          "work": "ruusbroec/vier-becoringhen",
+          "why": {
+            "en-US": "On the four temptations",
+            "pt-BR": "Sobre as quatro tentações"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Doctrine and symbol",
+        "pt-BR": "Doutrina e símbolo"
+      },
+      "works": [
+        {
+          "work": "ruusbroec/kerstenen-ghelove",
+          "why": {
+            "en-US": "An exposition of the Creed and Christian doctrine",
+            "pt-BR": "Exposição do Credo e da doutrina cristã"
+          }
+        },
+        {
+          "work": "ruusbroec/gheestelike-tabernakel",
+          "why": {
+            "en-US": "His longest: the tabernacle read as Christ and the interior life",
+            "pt-BR": "O mais longo: o tabernáculo lido como Cristo e vida interior"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Last work",
+        "pt-BR": "Última obra"
+      },
+      "works": [
+        {
+          "work": "ruusbroec/twaelf-beghinen",
+          "why": {
+            "en-US": "Twelve béguines on the love of Christ",
+            "pt-BR": "Doze beguinas falam do amor de Cristo"
+          }
+        }
+      ]
+    }
   ]
 }
