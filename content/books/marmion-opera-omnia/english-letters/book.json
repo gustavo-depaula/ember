@@ -1,0 +1,200 @@
+{
+  "id": "marmion-english-letters",
+  "name": {
+    "en-US": "The English Letters of Abbot Marmion",
+    "pt-BR": "As cartas inglesas do abade Marmion"
+  },
+  "author": {
+    "en-US": "Bl. Columba Marmion",
+    "pt-BR": "Bem-aventurado Columba Marmion"
+  },
+  "description": {
+    "en-US": "The letters Dom Columba Marmion wrote in English (1881-1923), grouped by correspondent: bishops and priests, his sisters, fellow monks and abbots (Salvado, Hildebrand de Hemptinne, van Caloen, Bede Camm, Wolter) and above all nuns and religious superiors, with the editors’ introductions and notes. Edited by Dom Gisbert Ghysens and Dom Thomas Delforge (Helicon, 1962).",
+    "pt-BR": "As cartas que Dom Columba Marmion escreveu em inglês (1881-1923), agrupadas por destinatário: bispos e sacerdotes, suas irmãs, monges e abades (Salvado, Hildebrand de Hemptinne, van Caloen, Bede Camm, Wolter) e sobretudo religiosas e superioras, com as introduções e notas dos editores. Editadas por Dom Gisbert Ghysens e Dom Thomas Delforge (Helicon, 1962)."
+  },
+  "composed": "1881-1923",
+  "languages": [
+    "en-US"
+  ],
+  "work": "marmion/english-letters",
+  "editions": {
+    "en-US": {
+      "editor": "Dom Gisbert Ghysens and Dom Thomas Delforge, O.S.B.",
+      "year": 1962
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/englishlettersof00marm",
+      "edition": "The English Letters of Abbot Marmion, 1858-1923, edited by Dom Gisbert Ghysens and Dom Thomas Delforge, Baltimore/Dublin: Helicon Press, 1962. Internet Archive scan, OCR text.",
+      "description": "Foreword, introduction, the thirty-two sections of letters (some of them run together where the OCR lost the heading), and the chronology. The editors’ notes are left in the text as paragraphs. The bibliography and index are not imported.",
+      "tier": "B",
+      "tierEvidence": "Marmion’s letters are public domain (died 1923); the editors’ introductions and notes are of 1962 (no renewal found in the NYPL records), imported as freely available."
+    }
+  ],
+  "toc": [
+    {
+      "id": "foreword",
+      "title": {
+        "en-US": "Foreword"
+      }
+    },
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "s01-03",
+      "title": {
+        "en-US": "I–III. To Abbot-Bishop Rudesind Salvado; to Bishop Kirby; to a bishop friend"
+      }
+    },
+    {
+      "id": "s04-06",
+      "title": {
+        "en-US": "IV–VI. To an Irish nun; to an Irish Sister of Mercy; to his future abbot"
+      }
+    },
+    {
+      "id": "s07-08",
+      "title": {
+        "en-US": "VII–VIII. To his sisters Flora and Rosie"
+      }
+    },
+    {
+      "id": "s09",
+      "title": {
+        "en-US": "IX. To a young priest"
+      }
+    },
+    {
+      "id": "s10",
+      "title": {
+        "en-US": "X. To Abbot-Primate Hildebrand de Hemptinne"
+      }
+    },
+    {
+      "id": "s11",
+      "title": {
+        "en-US": "XI. To an unknown correspondent"
+      }
+    },
+    {
+      "id": "s12",
+      "title": {
+        "en-US": "XII. To Dom Gerald van Caloen, Abbot of Olinda"
+      }
+    },
+    {
+      "id": "s13",
+      "title": {
+        "en-US": "XIII. To Dom Anschar Hoeckelmann, Abbot of Erdington"
+      }
+    },
+    {
+      "id": "s14",
+      "title": {
+        "en-US": "XIV. To Dom Bede Camm"
+      }
+    },
+    {
+      "id": "s15",
+      "title": {
+        "en-US": "XV. To a priest friend of Dublin"
+      }
+    },
+    {
+      "id": "s16",
+      "title": {
+        "en-US": "XVI. To Dom Placid Wolter, Archabbot of Beuron"
+      }
+    },
+    {
+      "id": "s17",
+      "title": {
+        "en-US": "XVII. To a nun"
+      }
+    },
+    {
+      "id": "s18",
+      "title": {
+        "en-US": "XVIII. To a superioress"
+      }
+    },
+    {
+      "id": "s19",
+      "title": {
+        "en-US": "XIX. To an English superioress"
+      }
+    },
+    {
+      "id": "s20",
+      "title": {
+        "en-US": "XX. To an English Benedictine abbess"
+      }
+    },
+    {
+      "id": "s21-23",
+      "title": {
+        "en-US": "XXI–XXIII. To a young girl; to a teaching sister; to one of his nieces, a nun"
+      }
+    },
+    {
+      "id": "s24",
+      "title": {
+        "en-US": "XXIV. To a Benedictine nun of Tyburn Convent"
+      }
+    },
+    {
+      "id": "s25",
+      "title": {
+        "en-US": "XXV. To a Benedictine nun of Ventnor"
+      }
+    },
+    {
+      "id": "s26",
+      "title": {
+        "en-US": "XXVI. To a Dominican sister of Dublin"
+      }
+    },
+    {
+      "id": "s27",
+      "title": {
+        "en-US": "XXVII. To a nun"
+      }
+    },
+    {
+      "id": "s28-29",
+      "title": {
+        "en-US": "XXVIII–XXIX. To the Poor Clare Colettines of Cork; to a young girl"
+      }
+    },
+    {
+      "id": "s30",
+      "title": {
+        "en-US": "XXX. To the mother of a family"
+      }
+    },
+    {
+      "id": "s31",
+      "title": {
+        "en-US": "XXXI. To a Benedictine nun"
+      }
+    },
+    {
+      "id": "s32",
+      "title": {
+        "en-US": "XXXII. To an Irish novice"
+      }
+    },
+    {
+      "id": "chronology",
+      "title": {
+        "en-US": "Chronology"
+      }
+    }
+  ]
+}
