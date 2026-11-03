@@ -8,5 +8,123 @@
   "matches": [
     "St. Vincent de Paul",
     "Saint Vincent de Paul"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "Vincent speaking to the people he formed.",
+        "pt-BR": "Vicente falando às pessoas que formou."
+      },
+      "works": [
+        {
+          "work": "vincent-de-paul/entretiens-missionnaires",
+          "why": {
+            "en-US": "Conferences to the priests and brothers of the Mission, 1617–1660",
+            "pt-BR": "Conferências aos padres e irmãos da Missão, 1617–1660"
+          }
+        },
+        {
+          "work": "vincent-de-paul/entretiens-filles-de-la-charite",
+          "why": {
+            "en-US": "Conferences to the Daughters of Charity, taken down by the sisters",
+            "pt-BR": "Conferências às Filhas da Caridade, anotadas pelas irmãs"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Documents",
+        "pt-BR": "Documentos"
+      },
+      "works": [
+        {
+          "work": "vincent-de-paul/documents",
+          "why": {
+            "en-US": "Papers on his life, rules and acts of the Mission and the Charities",
+            "pt-BR": "Escritos sobre sua vida, regras e atos da Missão e das Caridades"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Correspondence",
+        "pt-BR": "Correspondência"
+      },
+      "note": {
+        "en-US": "Pierre Coste’s edition, in chronological volumes.",
+        "pt-BR": "A edição de Pierre Coste, em volumes cronológicos."
+      },
+      "works": [
+        {
+          "work": "vincent-de-paul/correspondance-i",
+          "why": {
+            "en-US": "Vol. I: letters 1 to 416, 1616–1639",
+            "pt-BR": "Vol. I: cartas 1 a 416, 1616–1639"
+          }
+        },
+        {
+          "work": "vincent-de-paul/correspondance-ii",
+          "why": {
+            "en-US": "Vol. II: letters 417 to 828, 1640–1646",
+            "pt-BR": "Vol. II: cartas 417 a 828, 1640–1646"
+          }
+        },
+        {
+          "work": "vincent-de-paul/correspondance-iii",
+          "why": {
+            "en-US": "Vol. III: letters 829 to 1205, 1646–1650",
+            "pt-BR": "Vol. III: cartas 829 a 1205, 1646–1650"
+          }
+        },
+        {
+          "work": "vincent-de-paul/correspondance-iv",
+          "why": {
+            "en-US": "Vol. IV: letters 1206 to 1645, 1650–1653",
+            "pt-BR": "Vol. IV: cartas 1206 a 1645, 1650–1653"
+          }
+        },
+        {
+          "work": "vincent-de-paul/correspondance-v",
+          "why": {
+            "en-US": "Vol. V: letters 1646 to 2090, 1653–1656",
+            "pt-BR": "Vol. V: cartas 1646 a 2090, 1653–1656"
+          }
+        },
+        {
+          "work": "vincent-de-paul/correspondance-vi",
+          "why": {
+            "en-US": "Vol. VI: letters 2091 to 2474, 1656–1657",
+            "pt-BR": "Vol. VI: cartas 2091 a 2474, 1656–1657"
+          }
+        },
+        {
+          "work": "vincent-de-paul/correspondance-vii",
+          "why": {
+            "en-US": "Vol. VII: letters 2475 to 2887, 1657–1659",
+            "pt-BR": "Vol. VII: cartas 2475 a 2887, 1657–1659"
+          }
+        },
+        {
+          "work": "vincent-de-paul/correspondance-viii",
+          "why": {
+            "en-US": "Vol. VIII: letters 2888 to 3316, 1659–1661",
+            "pt-BR": "Vol. VIII: cartas 2888 a 3316, 1659–1661"
+          }
+        },
+        {
+          "work": "vincent-de-paul/correspondance-xv",
+          "why": {
+            "en-US": "Unpublished letters, 1630–1660 (Mission et Charité, 1970)",
+            "pt-BR": "Cartas inéditas, 1630–1660 (Mission et Charité, 1970)"
+          }
+        }
+      ]
+    }
   ]
 }
