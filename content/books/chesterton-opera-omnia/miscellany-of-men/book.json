@@ -1,0 +1,267 @@
+{
+  "id": "chesterton-miscellany-of-men",
+  "cover": "classic",
+  "name": {
+    "en-US": "A Miscellany of Men",
+    "pt-BR": "Uma Miscelânea de Homens"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Thirty-six character essays in which the Suffragist, the Poet and the Cheese, the Man Who Thinks Backwards, the Mad Official, the Sultan, the Divine Detective and the Contented Man are examined as types, in Chesterton's favourite mode of the fable-essay.",
+    "pt-BR": "Trinta e seis ensaios de caráter em que o Sufragista, o Poeta e o Queijo, o Homem que Pensa às Avessas, o Funcionário Louco, o Sultão, o Detetive Divino e o Homem Satisfeito são examinados como tipos, no modo favorito de Chesterton, o ensaio-fábula."
+  },
+  "composed": "1912",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/miscellany-of-men",
+  "editions": {
+    "en-US": {
+      "editor": "Methuen & Co.",
+      "year": 1912
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/2015",
+      "edition": "A Miscellany of Men (Methuen & Co., 1912), Project Gutenberg #2015.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1912 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-suffragist",
+      "title": {
+        "en-US": "The Suffragist"
+      }
+    },
+    {
+      "id": "ch02-the-poet-and-the-cheese",
+      "title": {
+        "en-US": "The Poet and the Cheese"
+      }
+    },
+    {
+      "id": "ch03-the-thing",
+      "title": {
+        "en-US": "The Thing"
+      }
+    },
+    {
+      "id": "ch04-the-man-who-thinks-backwards",
+      "title": {
+        "en-US": "The Man Who Thinks Backwards"
+      }
+    },
+    {
+      "id": "ch05-the-nameless-man",
+      "title": {
+        "en-US": "The Nameless Man"
+      }
+    },
+    {
+      "id": "ch06-the-gardener-and-the-guinea",
+      "title": {
+        "en-US": "The Gardener and the Guinea"
+      }
+    },
+    {
+      "id": "ch07-the-voter-and-the-two-voices",
+      "title": {
+        "en-US": "The Voter and the Two Voices"
+      }
+    },
+    {
+      "id": "ch08-the-mad-official",
+      "title": {
+        "en-US": "The Mad Official"
+      }
+    },
+    {
+      "id": "ch09-the-enchanted-man",
+      "title": {
+        "en-US": "The Enchanted Man"
+      }
+    },
+    {
+      "id": "ch10-the-sun-worshipper",
+      "title": {
+        "en-US": "The Sun Worshipper"
+      }
+    },
+    {
+      "id": "ch11-the-wrong-incendiary",
+      "title": {
+        "en-US": "The Wrong Incendiary"
+      }
+    },
+    {
+      "id": "ch12-the-free-man",
+      "title": {
+        "en-US": "The Free Man"
+      }
+    },
+    {
+      "id": "ch13-the-hypothetical-householder",
+      "title": {
+        "en-US": "The Hypothetical Householder"
+      }
+    },
+    {
+      "id": "ch14-the-priest-of-spring",
+      "title": {
+        "en-US": "The Priest of Spring"
+      }
+    },
+    {
+      "id": "ch15-the-real-journalist",
+      "title": {
+        "en-US": "The Real Journalist"
+      }
+    },
+    {
+      "id": "ch16-the-sentimental-scot",
+      "title": {
+        "en-US": "The Sentimental Scot"
+      }
+    },
+    {
+      "id": "ch17-the-sectarian-of-society",
+      "title": {
+        "en-US": "The Sectarian of Society"
+      }
+    },
+    {
+      "id": "ch18-the-fool",
+      "title": {
+        "en-US": "The Fool"
+      }
+    },
+    {
+      "id": "ch19-the-conscript-and-the-crisis",
+      "title": {
+        "en-US": "The Conscript and the Crisis"
+      }
+    },
+    {
+      "id": "ch20-the-miser-and-his-friends",
+      "title": {
+        "en-US": "The Miser and his Friends"
+      }
+    },
+    {
+      "id": "ch21-the-mystagogue",
+      "title": {
+        "en-US": "The Mystagogue"
+      }
+    },
+    {
+      "id": "ch22-the-red-reactionary",
+      "title": {
+        "en-US": "The Red Reactionary"
+      }
+    },
+    {
+      "id": "ch23-the-separatist-and-sacred-things",
+      "title": {
+        "en-US": "The Separatist and Sacred Things"
+      }
+    },
+    {
+      "id": "ch24-the-mummer",
+      "title": {
+        "en-US": "The Mummer"
+      }
+    },
+    {
+      "id": "ch25-the-aristocratic-arry",
+      "title": {
+        "en-US": "The Aristocratic 'Arry"
+      }
+    },
+    {
+      "id": "ch26-the-new-theologian",
+      "title": {
+        "en-US": "The New Theologian"
+      }
+    },
+    {
+      "id": "ch27-the-romantic-in-the-rain",
+      "title": {
+        "en-US": "The Romantic in the Rain"
+      }
+    },
+    {
+      "id": "ch28-the-false-photographer",
+      "title": {
+        "en-US": "The False Photographer"
+      }
+    },
+    {
+      "id": "ch29-the-sultan",
+      "title": {
+        "en-US": "The Sultan"
+      }
+    },
+    {
+      "id": "ch30-the-architect-of-spears",
+      "title": {
+        "en-US": "The Architect of Spears"
+      }
+    },
+    {
+      "id": "ch31-the-man-on-top",
+      "title": {
+        "en-US": "The Man on Top"
+      }
+    },
+    {
+      "id": "ch32-the-other-kind-of-man",
+      "title": {
+        "en-US": "The Other Kind of Man"
+      }
+    },
+    {
+      "id": "ch33-the-medival-villain",
+      "title": {
+        "en-US": "The Mediæval Villain"
+      }
+    },
+    {
+      "id": "ch34-the-divine-detective",
+      "title": {
+        "en-US": "The Divine Detective"
+      }
+    },
+    {
+      "id": "ch35-the-elf-of-japan",
+      "title": {
+        "en-US": "The Elf of Japan"
+      }
+    },
+    {
+      "id": "ch36-the-chartered-libertine",
+      "title": {
+        "en-US": "The Chartered Libertine"
+      }
+    },
+    {
+      "id": "ch37-the-contented-man",
+      "title": {
+        "en-US": "The Contented Man"
+      }
+    },
+    {
+      "id": "ch38-the-angry-author-his-farewell",
+      "title": {
+        "en-US": "The Angry Author: his Farewell"
+      }
+    }
+  ]
+}
