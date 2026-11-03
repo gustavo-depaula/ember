@@ -1,0 +1,175 @@
+{
+  "cover": "quarter",
+  "author": {
+    "fr-FR": "Adolphe Tanquerey",
+    "en-US": "Adolphe Tanquerey",
+    "pt-BR": "Adolphe Tanquerey"
+  },
+  "composed": "1923",
+  "work": "tanquerey/precis-de-theologie-ascetique-et-mystique",
+  "id": "tanquerey-precis-theologie-ascetique-mystique",
+  "name": {
+    "fr-FR": "Précis de théologie ascétique et mystique",
+    "en-US": "Précis of Ascetical and Mystical Theology",
+    "pt-BR": "Compêndio de teologia ascética e mística"
+  },
+  "description": {
+    "fr-FR": "Le grand manuel de théologie spirituelle : les principes de la vie surnaturelle, la perfection et ses moyens, puis les trois voies, purgative, illuminative et unitive, avec les états mystiques et le discernement des esprits. Paragraphes numérotés. Dixième édition (Desclée, 1928).",
+    "en-US": "The great manual of spiritual theology: the principles of the supernatural life, perfection and its means, then the three ways, purgative, illuminative and unitive, with the mystical states and the discernment of spirits. Numbered paragraphs. Tenth French edition (Desclée, 1928); the English translation is its own book.",
+    "pt-BR": "O grande manual de teologia espiritual: os princípios da vida sobrenatural, a perfeição e seus meios, depois as três vias, purgativa, iluminativa e unitiva, com os estados místicos e o discernimento dos espíritos. Parágrafos numerados. Décima edição (Desclée, 1928)."
+  },
+  "editions": {
+    "fr-FR": {
+      "editor": "Desclée et Cie, Tournai (10th ed.)",
+      "year": 1928
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/precisdetheologi0000tanq",
+      "edition": "Précis de théologie ascétique et mystique, 10e éd., Tournai: Desclée, imprimatur 1928 (archive.org OCR text); the alphabetical table is not imported"
+    }
+  ],
+  "languages": [
+    "fr-FR"
+  ],
+  "toc": [
+    {
+      "id": "introduction",
+      "title": {
+        "fr-FR": "Introduction"
+      }
+    },
+    {
+      "id": "ch1",
+      "title": {
+        "fr-FR": "Première partie : les principes"
+      },
+      "children": [
+        {
+          "id": "ch1-intro",
+          "title": {
+            "fr-FR": "Introduction"
+          }
+        },
+        {
+          "id": "ch1-a1",
+          "title": {
+            "fr-FR": "Chapitre I. Les origines de la vie surnaturelle"
+          }
+        },
+        {
+          "id": "ch1-a2",
+          "title": {
+            "fr-FR": "Chapitre II. Nature de la vie chrétienne"
+          }
+        },
+        {
+          "id": "ch1-a3",
+          "title": {
+            "fr-FR": "Chapitre III. Perfection de la vie chrétienne"
+          }
+        },
+        {
+          "id": "ch1-a4",
+          "title": {
+            "fr-FR": "Chapitre IV. “De l’obligation de tendre à la perfection. ?"
+          }
+        },
+        {
+          "id": "ch1-a5",
+          "title": {
+            "fr-FR": "Chapitre V. Des moyens généraux de perfection"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch2-intro",
+      "title": {
+        "fr-FR": "Seconde partie : avant-propos"
+      }
+    },
+    {
+      "id": "ch3",
+      "title": {
+        "fr-FR": "Seconde partie : les trois voies"
+      },
+      "children": [
+        {
+          "id": "ch3-intro",
+          "title": {
+            "fr-FR": "Introduction"
+          }
+        },
+        {
+          "id": "ch3-a6",
+          "title": {
+            "fr-FR": "Chapitre VI. La prière des commençants’,"
+          }
+        },
+        {
+          "id": "ch3-a7",
+          "title": {
+            "fr-FR": "Chapitre VII. De la penitence"
+          }
+        },
+        {
+          "id": "ch3-a8",
+          "title": {
+            "fr-FR": "Chapitre VIII. La mortification £"
+          }
+        },
+        {
+          "id": "ch3-a9",
+          "title": {
+            "fr-FR": "Chapitre IX. Lutte contre les péchés capitaux `"
+          }
+        },
+        {
+          "id": "ch3-a10",
+          "title": {
+            "fr-FR": "Chapitre X. Lutte contre les tentations"
+          }
+        },
+        {
+          "id": "ch3-a11",
+          "title": {
+            "fr-FR": "Chapitre XI. De l’oraison affective. :"
+          }
+        },
+        {
+          "id": "ch3-a12",
+          "title": {
+            "fr-FR": "Chapitre XII. Les retours offensifs de lennemi"
+          }
+        },
+        {
+          "id": "ch3-a13",
+          "title": {
+            "fr-FR": "Chapitre XIII. De la contemplation infuse :"
+          }
+        },
+        {
+          "id": "ch3-a14",
+          "title": {
+            "fr-FR": "Chapitre XIV. 1484. Pour mieux faire saisir les erreurs de détail, mettons sur deux colonnes la doctrine catholique et"
+          }
+        },
+        {
+          "id": "ch3-a15",
+          "title": {
+            "fr-FR": "Chapitre XV. Questions controversées ’"
+          }
+        }
+      ]
+    },
+    {
+      "id": "epilogue",
+      "title": {
+        "fr-FR": "Épilogue : les trois voies et le cycle liturgique"
+      }
+    }
+  ]
+}
