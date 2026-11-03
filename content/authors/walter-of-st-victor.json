@@ -8,5 +8,22 @@
     "Walter of St. Victor",
     "Walter of Saint Victor",
     "Gualterus de Sancto Victore"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "walter/contra-quatuor-labyrinthos",
+          "why": {
+            "en-US": "Polemic against four masters, c. 1179, in Latin",
+            "pt-BR": "Polêmica contra quatro mestres, c. 1179, em latim"
+          }
+        }
+      ]
+    }
   ]
 }
