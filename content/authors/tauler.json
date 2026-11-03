@@ -9,5 +9,22 @@
     "Johannes Tauler (c. 1300-1361)",
     "Johannes Tauler",
     "John Tauler"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Sermons",
+        "pt-BR": "Sermões"
+      },
+      "works": [
+        {
+          "work": "tauler/predigten",
+          "why": {
+            "en-US": "Sermons for the Church year, in Hutton and Elliott's English",
+            "pt-BR": "Sermões do ano litúrgico, em inglês de Hutton e Elliott"
+          }
+        }
+      ]
+    }
   ]
 }
