@@ -9,5 +9,77 @@
     "St. Elizabeth of the Trinity",
     "Sister Elizabeth of the Trinity",
     "Élisabeth de la Trinité, sainte, 1880-1906"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "Her prayer and her last retreat.",
+        "pt-BR": "Sua oração e seu último retiro."
+      },
+      "works": [
+        {
+          "work": "elisabeth-of-the-trinity/elevation",
+          "why": {
+            "en-US": "Her prayer to the Trinity, 21 November 1904",
+            "pt-BR": "Sua oração à Trindade, 21 de novembro de 1904"
+          }
+        },
+        {
+          "work": "elisabeth-of-the-trinity/derniere-retraite",
+          "why": {
+            "en-US": "Sixteen days of meditations: to be a praise of glory",
+            "pt-BR": "Dezesseis dias de meditações: ser louvor de glória"
+          }
+        },
+        {
+          "work": "elisabeth-of-the-trinity/ciel-dans-la-foi",
+          "why": {
+            "en-US": "Ten days of her second retreat, August 1906",
+            "pt-BR": "Dez dias do seu segundo retiro, agosto de 1906"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Her life",
+        "pt-BR": "Sua vida"
+      },
+      "works": [
+        {
+          "work": "elisabeth-of-the-trinity/souvenirs",
+          "why": {
+            "en-US": "Her life as told by the Carmel of Dijon, 1909",
+            "pt-BR": "Sua vida contada pelo Carmelo de Dijon, 1909"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Letters and poems",
+        "pt-BR": "Cartas e poesias"
+      },
+      "works": [
+        {
+          "work": "elisabeth-of-the-trinity/lettres",
+          "why": {
+            "en-US": "Selected letters, 1901-1906",
+            "pt-BR": "Cartas selecionadas, 1901-1906"
+          }
+        },
+        {
+          "work": "elisabeth-of-the-trinity/poesies",
+          "why": {
+            "en-US": "Thirteen poems, 1901 to September 1906",
+            "pt-BR": "Treze poemas, de 1901 a setembro de 1906"
+          }
+        }
+      ]
+    }
   ]
 }
