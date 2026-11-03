@@ -6,5 +6,22 @@
   "century": 16,
   "matches": [
     "Council of Trent (promulgated by Pope St. Pius V, 1566)"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "The Roman Catechism",
+        "pt-BR": "O Catecismo Romano"
+      },
+      "works": [
+        {
+          "work": "council-of-trent/roman-catechism",
+          "why": {
+            "en-US": "The 1566 manual for parish priests, in four parts",
+            "pt-BR": "O manual de 1566 para os párocos, em quatro partes"
+          }
+        }
+      ]
+    }
   ]
 }
