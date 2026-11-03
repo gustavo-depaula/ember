@@ -6,5 +6,58 @@
   "century": 4,
   "matches": [
     "Eusebius of Caesarea (c. 265-c. 340)"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "eusebius-church-history",
+          "why": {
+            "en-US": "The first history of the Church, to Constantine",
+            "pt-BR": "A primeira história da Igreja, até Constantino"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Constantine",
+        "pt-BR": "Constantino"
+      },
+      "works": [
+        {
+          "work": "eusebius-life-of-constantine",
+          "why": {
+            "en-US": "The emperor's life",
+            "pt-BR": "A vida do imperador"
+          }
+        },
+        {
+          "work": "eusebius-letter-on-the-council-of-nicaea",
+          "why": {
+            "en-US": "His letter to his flock on Nicaea",
+            "pt-BR": "Sua carta à comunidade sobre Niceia"
+          }
+        },
+        {
+          "work": "eusebius-oration-in-praise-of-constantine",
+          "why": {
+            "en-US": "An oration in praise of Constantine",
+            "pt-BR": "Um discurso em louvor de Constantino"
+          }
+        },
+        {
+          "work": "eusebius-oration-of-constantine-to-the-assembly-of-the-saints",
+          "why": {
+            "en-US": "Oration of Constantine to the assembly of the saints",
+            "pt-BR": "Discurso de Constantino à assembleia dos santos"
+          }
+        }
+      ]
+    }
   ]
 }
