@@ -40,7 +40,7 @@ The first wave (one or two works per author) is done. This queue imports each au
 - [x] Chesterton (82 books). Left: Christendom in Dublin, Sidelights, All I Survey, Come to Think of It, All is Grist, The Way of the Cross, Where All Roads Lead, Gloria in Profundis, two plays (no open text); Collected Poems 1927–32 additions
 - [x] Marmion · Chautard (9 books). Left: Union with God, Christ the Ideal of the Priest, Words of Life (borrow-only), French originals of Life of the Soul, Ideal of the Monk, Sponsa Verbi (no open text)
 - [x] Garrigou-Lagrange · Tanquerey (33 books). Left: Trois Âges in French (only tome 2 open), minor French works, Tanquerey's Dogmes générateurs / Doctrine and Devotion; Latin synopses and commentaries need real chapter splits
-- [ ] Guéranger (Année liturgique done: 15 French + 15 English volumes). Other works in progress. Left: re-split weak OCR volumes (fr 7, 11; en 7, 10–12), hymn verse in OCR volumes
+- [x] Guéranger (51 books: Année liturgique fr+en, Institutions liturgiques, 17 other works). Left: re-split weak OCR volumes of the Année (fr 7, 11; en 7, 10–12), hymn verse in OCR volumes, Sainte Cécile in French, Mémoires
 
 ## Later: English pass
 
