@@ -12,5 +12,88 @@
     "St. Mary Magdalen de-Pazzi",
     "Maria Maddalena de' Pazzi",
     "Maria Maddalena de' Pazzi, santa"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "A selection in English, then the first of her ecstasy books.",
+        "pt-BR": "Uma seleção em inglês e depois o primeiro dos livros de êxtases."
+      },
+      "works": [
+        {
+          "work": "mary-magdalene-de-pazzi/tutte-le-opere",
+          "why": {
+            "en-US": "An English anthology of her contemplations and doctrine",
+            "pt-BR": "Antologia em inglês de suas contemplações e doutrina"
+          }
+        },
+        {
+          "work": "mary-magdalene-de-pazzi/quaranta-giorni",
+          "why": {
+            "en-US": "Her first ecstasies, after her profession in 1584",
+            "pt-BR": "Os primeiros êxtases, após a profissão em 1584"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "The four manuscript books",
+        "pt-BR": "Os quatro livros manuscritos"
+      },
+      "note": {
+        "en-US": "In the order they were taken down.",
+        "pt-BR": "Na ordem em que foram registrados."
+      },
+      "works": [
+        {
+          "work": "mary-magdalene-de-pazzi/colloqui",
+          "why": {
+            "en-US": "The evening colloquies with the sisters, 1584-1585",
+            "pt-BR": "Os colóquios noturnos com as irmãs, 1584-1585"
+          }
+        },
+        {
+          "work": "mary-magdalene-de-pazzi/revelatione-e-intelligentie",
+          "why": {
+            "en-US": "Eight days of the Holy Spirit from Pentecost eve, 1585",
+            "pt-BR": "Oito dias do Espírito Santo desde a vigília de Pentecostes, 1585"
+          }
+        },
+        {
+          "work": "mary-magdalene-de-pazzi/probatione",
+          "why": {
+            "en-US": "The five years of trial: aridity and abandonment",
+            "pt-BR": "Os cinco anos de provação: aridez e abandono"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Church renewal and appendices",
+        "pt-BR": "Renovação da Igreja e apêndices"
+      },
+      "works": [
+        {
+          "work": "mary-magdalene-de-pazzi/renovatione-della-chiesa",
+          "why": {
+            "en-US": "Twelve letters on the renewal of the Church, 1586",
+            "pt-BR": "Doze cartas sobre a renovação da Igreja, 1586"
+          }
+        },
+        {
+          "work": "mary-magdalene-de-pazzi/appendici",
+          "why": {
+            "en-US": "Her morning exercise, sayings and a brief account of her life",
+            "pt-BR": "Seu exercício matinal, ditos e breve relato de sua vida"
+          }
+        }
+      ]
+    }
   ]
 }
