@@ -6,5 +6,22 @@
   "century": 4,
   "matches": [
     "Arnobius"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "arnobius-against-the-heathen",
+          "why": {
+            "en-US": "His defence of Christianity against the pagans",
+            "pt-BR": "Sua defesa do cristianismo contra os pagãos"
+          }
+        }
+      ]
+    }
   ]
 }
