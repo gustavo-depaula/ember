@@ -1,0 +1,105 @@
+{
+  "id": "bossuet-devotion-to-the-blessed-virgin-capes",
+  "cover": "classic",
+  "name": {
+    "en-US": "Devotion to the Blessed Virgin",
+    "pt-BR": "A Devoção à Santíssima Virgem"
+  },
+  "author": {
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "en-US": "The substance of Bossuet's sermons for Our Lady's feasts through the year (Conception, Nativity, Annunciation, Visitation, Purification, Compassion, Assumption), condensed, arranged and translated by F. M. Capes, with an introduction by William T. Gordon.",
+    "pt-BR": "A substância dos sermões de Bossuet para as festas de Nossa Senhora ao longo do ano (Conceição, Natividade, Anunciação, Visitação, Purificação, Compaixão, Assunção), resumidos, organizados e traduzidos por F. M. Capes, com introdução de William T. Gordon."
+  },
+  "composed": 1690,
+  "languages": [
+    "en-US"
+  ],
+  "work": "bossuet/sermons-marials",
+  "editions": {
+    "en-US": {
+      "editor": "F. M. Capes, with an introduction by W. T. Gordon (London: Longmans, Green, 1899)",
+      "year": 1899
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/devotiontoblesse00bossiala",
+      "edition": "Bossuet on Devotion to the Blessed Virgin, condensed, arranged and translated by F. M. Capes (London: Longmans, Green, 1899), Internet Archive full-text OCR.",
+      "description": "A condensed English rendering of the Marian sermons, not a complete translation. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Jacques-Bénigne Bossuet died in 1704 and the edition is of 1899, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Introduction by William T. Gordon"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "I. On the Grounds of Devotion to the Blessed Virgin and the Saints"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "II. The Blessed Virgin's Conception"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "III. Mary a Foreshadowing of Christ"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "IV. The Blessed Virgin's Nativity"
+      }
+    },
+    {
+      "id": "chapter-06",
+      "title": {
+        "en-US": "V. The Feast of the Annunciation"
+      }
+    },
+    {
+      "id": "chapter-07",
+      "title": {
+        "en-US": "VI. The Feast of the Visitation"
+      }
+    },
+    {
+      "id": "chapter-08",
+      "title": {
+        "en-US": "VII. The Hiddenness and Poverty of Jesus and Mary"
+      }
+    },
+    {
+      "id": "chapter-09",
+      "title": {
+        "en-US": "VIII. The Blessed Virgin's Compassion"
+      }
+    },
+    {
+      "id": "chapter-10",
+      "title": {
+        "en-US": "IX. The Assumption of Mary"
+      }
+    },
+    {
+      "id": "chapter-11",
+      "title": {
+        "en-US": "Note to Sermon II: On Mary's Conception"
+      }
+    }
+  ]
+}
