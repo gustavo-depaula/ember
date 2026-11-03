@@ -24,6 +24,7 @@ import { useSaintLife } from '../useSaintLife'
 import { useWaysToReceive } from '../useWaysToReceive'
 import { ReceiveChapter } from './ReceiveChapter'
 import { SaintCard, saintCardWidth } from './SaintCard'
+import { guideOfCard, ReadingGuidePrototype } from '@/features/books/ReadingGuidePrototype'
 import { CardsChapter, FeastChapter, LifeChapter, PrayChapter, ReadChapter } from './SaintChapters'
 
 // The hero is a dark stage whatever the theme: the card is lit against it.
@@ -139,7 +140,21 @@ export const SaintPage = memo(function SaintPage({
         body: <PrayChapter shelves={saint.pray} />,
       })
     }
-    if (saint.read.length > 0 || saint.collections.length > 0) {
+    // PROTOTYPE: the author's reading guide in the card's Reading chapter, the
+    // card's own items after it in the same grouped look.
+    const guideAuthor = guideOfCard[saint.id]
+    if (guideAuthor) {
+      const extras = [
+        ...saint.read.map((s) => ({ title: s.title ?? t('saints.page.reading'), refs: s.refs })),
+        ...(saint.collections.length > 0 ? [{ title: t('saints.page.collections'), refs: saint.collections }] : []),
+      ].filter((x) => !(guideAuthor === 'thomas-aquinas' && x.refs.every((r) => r.startsWith('book/aquinas'))))
+      out.push({
+        key: 'read',
+        title: t('saints.page.reading'),
+        chip: t('saints.page.chip.reading'),
+        body: <ReadingGuidePrototype authorId={guideAuthor} extras={extras} />,
+      })
+    } else if (saint.read.length > 0 || saint.collections.length > 0) {
       const count = saint.read.reduce((n, s) => n + s.refs.length, 0) + saint.collections.length
       out.push({
         key: 'read',

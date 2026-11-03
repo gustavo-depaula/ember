@@ -1,4 +1,5 @@
 import { useLocalSearchParams } from 'expo-router'
+import { useEffect } from 'react'
 import { useTranslation } from 'react-i18next'
 import { XStack, YStack } from 'tamagui'
 
@@ -12,10 +13,17 @@ import {
   useReadingTime,
   useShelf,
 } from '@/features/books/shelf'
+import {
+  hasGuidePrototype,
+  initVariant,
+  ReadingGuidePrototype,
+} from '@/features/books/ReadingGuidePrototype'
 
 /** One author's shelf: their face and century, then every work, by title. */
 export default function AuthorScreen() {
-  const { authorId } = useLocalSearchParams<{ authorId: string }>()
+  const { authorId, variant } = useLocalSearchParams<{ authorId: string; variant?: string }>()
+  useEffect(() => initVariant(variant), [variant])
+  const guide = hasGuidePrototype(authorId)
   const { t } = useTranslation()
   const shelf = useShelf()
   const readingTime = useReadingTime()
@@ -41,7 +49,8 @@ export default function AuthorScreen() {
           </XStack>
         ) : undefined
       }
-      data={author?.books ?? []}
+      data={guide ? [] : (author?.books ?? [])}
+      empty={guide ? <ReadingGuidePrototype authorId={authorId} /> : undefined}
       keyExtractor={(book) => book.id}
       renderItem={({ item }) => (
         <BookRow
