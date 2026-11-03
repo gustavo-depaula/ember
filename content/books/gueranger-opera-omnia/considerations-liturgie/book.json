@@ -1,0 +1,90 @@
+{
+  "id": "gueranger-considerations-liturgie",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Considérations sur la liturgie catholique",
+    "en-US": "Considerations on the Catholic Liturgy",
+    "pt-BR": "Considerações sobre a liturgia católica"
+  },
+  "author": {
+    "fr-FR": "Prosper Guéranger",
+    "en-US": "Prosper Guéranger",
+    "pt-BR": "Prosper Guéranger"
+  },
+  "description": {
+    "fr-FR": "Les quatre premiers écrits de Prosper Guéranger (Mémorial catholique, 1830) : antiquité, universalité, autorité et onction comme caractères de la liturgie, avec les pièces de la polémique qui les suivit dans l’Ami de la Religion et du Roi. Les chapeaux explicatifs que Dom Delatte y a mêlés dans sa biographie sont omis.",
+    "en-US": "Prosper Guéranger’s first writings (Mémorial catholique, 1830): antiquity, universality, authority and unction as the marks of the liturgy, with the pieces of the polemic that followed in the Ami de la Religion et du Roi. Dom Delatte’s explanatory headnotes, mixed in from his biography, are left out.",
+    "pt-BR": "Os primeiros escritos de Prosper Guéranger (Mémorial catholique, 1830): antiguidade, universalidade, autoridade e unção como marcas da liturgia, com as peças da polêmica que se seguiu no Ami de la Religion et du Roi. Os resumos explicativos que Dom Delatte intercalou em sua biografia foram omitidos."
+  },
+  "composed": "1830",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/considerations-liturgie",
+  "editions": {
+    "fr-FR": {
+      "editor": "Mémorial catholique (Paris)",
+      "year": 1830
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://www.domgueranger.net/?cat=Considérations sur la liturgie catholique",
+      "edition": "Mémorial catholique and Ami de la Religion et du Roi, 1830 (domgueranger.net HTML transcription, via Delatte’s collection)",
+      "description": "Eight pieces in chronological order.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; text first published in his lifetime or by 1931."
+    }
+  ],
+  "toc": [
+    {
+      "id": "1-article-1",
+      "title": {
+        "fr-FR": "Premier article (28 février 1830)"
+      }
+    },
+    {
+      "id": "2-article-2",
+      "title": {
+        "fr-FR": "Deuxième article (31 mars 1830)"
+      }
+    },
+    {
+      "id": "3-article-3",
+      "title": {
+        "fr-FR": "Troisième article (31 mai 1830)"
+      }
+    },
+    {
+      "id": "4-polemique-liturgies-diocesaines",
+      "title": {
+        "fr-FR": "Polémique sur l’usage des liturgies diocésaines en France (2-9 juin 1830)"
+      }
+    },
+    {
+      "id": "5-defense",
+      "title": {
+        "fr-FR": "Défense des Considérations sur la liturgie catholique (15 juin 1830)"
+      }
+    },
+    {
+      "id": "6-sur-une-reponse",
+      "title": {
+        "fr-FR": "Sur une réponse de l’auteur des Considérations (3 juillet 1830)"
+      }
+    },
+    {
+      "id": "7-nouvelle-defense",
+      "title": {
+        "fr-FR": "Nouvelle défense des Considérations sur la liturgie catholique (15 juillet 1830)"
+      }
+    },
+    {
+      "id": "8-article-4",
+      "title": {
+        "fr-FR": "Quatrième article (31 juillet 1830)"
+      }
+    }
+  ]
+}
