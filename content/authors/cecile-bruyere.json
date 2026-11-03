@@ -6,5 +6,22 @@
   "century": 19,
   "matches": [
     "Cécile Bruyère, O.S.B."
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "bruyere-spiritual-life-and-prayer",
+          "why": {
+            "en-US": "The spiritual life and prayer in Scripture and monastic tradition",
+            "pt-BR": "A vida espiritual e a oração segundo a Escritura e a tradição monástica"
+          }
+        }
+      ]
+    }
   ]
 }
