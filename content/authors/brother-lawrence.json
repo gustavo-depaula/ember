@@ -8,5 +8,22 @@
     "Brother Lawrence of the Resurrection",
     "Brother Lawrence",
     "Nicolas Herman"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "brother-lawrence/pratique-de-la-presence-de-dieu",
+          "why": {
+            "en-US": "Four conversations and sixteen letters, and his maxims",
+            "pt-BR": "Quatro conversas, dezesseis cartas e suas máximas"
+          }
+        }
+      ]
+    }
   ]
 }
