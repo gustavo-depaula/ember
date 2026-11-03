@@ -6,5 +6,44 @@
   "century": 4,
   "matches": [
     "Rufinus"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "rufinus-commentary-on-the-apostles-creed",
+          "why": {
+            "en-US": "A commentary on the Apostles' Creed",
+            "pt-BR": "Comentário ao Credo dos Apóstolos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Other works",
+        "pt-BR": "Outras obras"
+      },
+      "works": [
+        {
+          "work": "rufinus-apology",
+          "why": {
+            "en-US": "Apology",
+            "pt-BR": "Apologia"
+          }
+        },
+        {
+          "work": "rufinus-prefaces-and-other-works",
+          "why": {
+            "en-US": "Prefaces and other works",
+            "pt-BR": "Prefácios e outras obras"
+          }
+        }
+      ]
+    }
   ]
 }
