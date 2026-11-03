@@ -1,0 +1,314 @@
+{
+  "id": "garrigou-trinity-and-god-the-creator",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "De Deo trino et creatore (traduction anglaise)",
+    "en-US": "The Trinity and God the Creator: A Commentary on St. Thomas’ Theological Summa, Ia, q. 27-119",
+    "pt-BR": "A Trindade e Deus Criador: comentário à Suma teológica I, qq. 27-119"
+  },
+  "author": {
+    "fr-FR": "Réginald Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "description": {
+    "en-US": "Commentary on the Summa theologiae I, qq. 27-119: the processions and the Persons of the Trinity, creation, the angels, the six days and man. Frederic C. Eckhoff’s translation of De Deo trino et creatore (1943), Herder 1952.",
+    "pt-BR": "Comentário à Suma teológica I, qq. 27-119: as processões e as Pessoas da Trindade, a criação, os anjos, os seis dias e o homem. Tradução inglesa de Frederic C. Eckhoff (Herder, 1952) de De Deo trino et creatore (1943)."
+  },
+  "composed": "1943",
+  "work": "garrigou-lagrange/de-deo-trino-et-creatore",
+  "editions": {
+    "en-US": {
+      "translator": "Frederic C. Eckhoff",
+      "year": 1952
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/Lagrange-English",
+      "edition": "The Trinity and God the Creator: A Commentary on St. Thomas’ Theological Summa, Ia, q. 27-119, Frederic C. Eckhoff, St. Louis: B. Herder, 1952 (archive.org Lagrange-English); the Latin original is imported separately where available"
+    }
+  ],
+  "languages": [
+    "en-US"
+  ],
+  "toc": [
+    {
+      "id": "foreword",
+      "title": {
+        "en-US": "Foreword"
+      }
+    },
+    {
+      "id": "art1",
+      "title": {
+        "en-US": "Chapter I. Question 27"
+      }
+    },
+    {
+      "id": "art2",
+      "title": {
+        "en-US": "Chapter II. Question 28"
+      }
+    },
+    {
+      "id": "art3",
+      "title": {
+        "en-US": "Chapter III. Question 29"
+      }
+    },
+    {
+      "id": "art4",
+      "title": {
+        "en-US": "Chapter IV. Question 30"
+      }
+    },
+    {
+      "id": "art5",
+      "title": {
+        "en-US": "Chapter V. Question 31"
+      }
+    },
+    {
+      "id": "art6",
+      "title": {
+        "en-US": "Chapter VI. Question 32"
+      }
+    },
+    {
+      "id": "art7",
+      "title": {
+        "en-US": "Chapter VII. Question 33"
+      }
+    },
+    {
+      "id": "art8",
+      "title": {
+        "en-US": "Chapter VIII. Question 34"
+      }
+    },
+    {
+      "id": "art9",
+      "title": {
+        "en-US": "Chapter IX. Question 35"
+      }
+    },
+    {
+      "id": "art10",
+      "title": {
+        "en-US": "Chapter X. Question 36"
+      }
+    },
+    {
+      "id": "art11",
+      "title": {
+        "en-US": "Chapter XI. Question 37"
+      }
+    },
+    {
+      "id": "art12",
+      "title": {
+        "en-US": "Chapter XII. Question 38"
+      }
+    },
+    {
+      "id": "art13",
+      "title": {
+        "en-US": "Chapter XIII. Question 39"
+      }
+    },
+    {
+      "id": "art14",
+      "title": {
+        "en-US": "Chapter XIV. Question 40"
+      }
+    },
+    {
+      "id": "art15",
+      "title": {
+        "en-US": "Chapter XV. Question 41"
+      }
+    },
+    {
+      "id": "art16",
+      "title": {
+        "en-US": "Chapter XVI. Question 42"
+      }
+    },
+    {
+      "id": "art17",
+      "title": {
+        "en-US": "Chapter XVII. Question 43"
+      }
+    },
+    {
+      "id": "art18",
+      "title": {
+        "en-US": "Chapter XVIII. Question 44"
+      }
+    },
+    {
+      "id": "art19",
+      "title": {
+        "en-US": "Chapter XIX. Question 45"
+      }
+    },
+    {
+      "id": "art20",
+      "title": {
+        "en-US": "Chapter XX. Question 46"
+      }
+    },
+    {
+      "id": "art21",
+      "title": {
+        "en-US": "Chapter XXI. Question 47"
+      }
+    },
+    {
+      "id": "art22",
+      "title": {
+        "en-US": "Chapter XXII. Question 103"
+      }
+    },
+    {
+      "id": "art23",
+      "title": {
+        "en-US": "Chapter XXIII. Question 104"
+      }
+    },
+    {
+      "id": "art24",
+      "title": {
+        "en-US": "Chapter XXIV. Question 105"
+      }
+    },
+    {
+      "id": "art25",
+      "title": {
+        "en-US": "Chapter XXV. Questions 48, 49"
+      }
+    },
+    {
+      "id": "art26",
+      "title": {
+        "en-US": "Chapter XXVI. Question 49"
+      }
+    },
+    {
+      "id": "art27",
+      "title": {
+        "en-US": "Chapter XXVII. Question 50"
+      }
+    },
+    {
+      "id": "art28",
+      "title": {
+        "en-US": "Chapter XXVIII. Question 54, a. 1"
+      }
+    },
+    {
+      "id": "art29",
+      "title": {
+        "en-US": "Chapter XXIX. Question 55"
+      }
+    },
+    {
+      "id": "art30",
+      "title": {
+        "en-US": "Chapter XXX. Question 60"
+      }
+    },
+    {
+      "id": "art31",
+      "title": {
+        "en-US": "Chapter XXXI. Question 62, a. 4, 5, 6"
+      }
+    },
+    {
+      "id": "art32",
+      "title": {
+        "en-US": "Chapter XXXII. The guilt and opstinacy of the devils"
+      }
+    },
+    {
+      "id": "art33",
+      "title": {
+        "en-US": "Chapter XXXIII. Question 106"
+      }
+    },
+    {
+      "id": "art34",
+      "title": {
+        "en-US": "Chapter XXXIV. Questions 108-112"
+      }
+    },
+    {
+      "id": "art35",
+      "title": {
+        "en-US": "Chapter XXXV. Question 113"
+      }
+    },
+    {
+      "id": "art36",
+      "title": {
+        "en-US": "Chapter XXXVI. Question 114"
+      }
+    },
+    {
+      "id": "art37",
+      "title": {
+        "en-US": "Chapter XXXVII. Questions 65-74"
+      }
+    },
+    {
+      "id": "art38",
+      "title": {
+        "en-US": "Chapter XXXVIII. Man"
+      }
+    },
+    {
+      "id": "art39",
+      "title": {
+        "en-US": "Chapter XXXIX. The union of the soul with the bopy"
+      }
+    },
+    {
+      "id": "art40",
+      "title": {
+        "en-US": "Chapter XL. Questions 77-83"
+      }
+    },
+    {
+      "id": "art41",
+      "title": {
+        "en-US": "Chapter XLI. The acts of the intellective part of the soul}"
+      }
+    },
+    {
+      "id": "art42",
+      "title": {
+        "en-US": "Chapter XLII. The separated soul"
+      }
+    },
+    {
+      "id": "art43",
+      "title": {
+        "en-US": "Chapter XLIII. The origin of man"
+      }
+    },
+    {
+      "id": "art44",
+      "title": {
+        "en-US": "Chapter XLIV. Man’s elevation to the supernatural state"
+      }
+    },
+    {
+      "id": "art45",
+      "title": {
+        "en-US": "Chapter XLV. The fatt or man"
+      }
+    }
+  ]
+}

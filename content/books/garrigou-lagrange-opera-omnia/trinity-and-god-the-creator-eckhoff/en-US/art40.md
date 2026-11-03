@@ -1,0 +1,55 @@
+# Chapter XL. Questions 77-83
+
+Tue FACULTIES OF THE SOUL
+
+SBWBWBW BB BBB BB BBWBBQBQBBQeBBVBBBBBBeBBeeB BBQ BBB BBB ER EES
+
+HE questions in the Summa Theologica from seventy-seven to eighty-three, treating of the distinction and subordination of the faculties of the soul, are governed by the principle that “the faculties, acts, and habits are specified by the formal object to which they are essentially ordered, that is, by the formal object which they touch on immediately and by the formal motive under which they attain their object.” More briefly: the relative is specified by the absolute to which it is essentially ordered. In his work, De tribus principiis doctrinae S. Thomae, A. Reginaldus enunciates this principle as the third. The other two principles are: being is transcendental and analogical, and God is pure act. Indeed this third principle illumines all psychology and ethics, as well as all moral theology and the theological treatises on the angels and man.
+
+From this principle it follows first that the faculties are really distinguished from the soul, because as the soul is ordered to its own being the faculties are ordered to operation, and operation presupposes being and is distinct from it. Moreover, no creature is immediately operative; to operate it requires an operative faculty. Hence the human soul, like the angel, cannot understand except through the intellective faculty, nor can it will except through the will. When we speak in this way it is not because of the usages of language but because the very nature of things requires it. As the essence of the soul is the real capacity for existence, so the intellect is the real capacity for knowing truth, and the will is the capacity for willing what is proposed as good. Hence by reason of this principle the faculties of the soul are really distinct from each other according to their formal objects.
+
+Only in God are essence, existence, intellect, intellection, will, and 589 love identified without any real distinction. Even in the angel there is a real distinction between essence and being, between the essence and the faculties, between the faculties themselves, between the intellect and successive intellections, and between the will and successive volitions. Such is also the case with the human soul.
+
+Instead of a real distinction Scotus introduced his formal-actual distinction derived from the nature of the thing as a middle between the real distinction and the distinction of reason. To this the Thomists reply that either this new distinction is antecedent to the consideration of our minds, and then it is real, or it is not antecedent to the consideration of the mind, and then it is a distinction of reason based on the nature of the thing, that is, a virtual distinction.
+
+Suarez, an eclectic in these questions as in others, sought a middle way between St. Thomas and Scotus by saying that the distinction between the soul and its faculties is not certain but only probable. Here again it is evident that Suarez did not understand the distinction between potency and act as St. Thomas did."
+
+From this same principle, that the faculties are specified by their formal object, we learn of the distinction and the immeasurable distance between the intellect and the sensitive faculties. These latter, no matter how perfect they may be, never attain to anything but sensible being, that is, sensible and imaginable phenomena; they do not penetrate to intelligible being, to the reasons for the being of things, or to the universal and necessary principles of contradiction, causality, finality. Nor do they attain to the first principle of ethics: Good is to be done and evil is to be avoided. This immeasurable distance between the intellect and the sensitive faculties is the foundation for the proof of the spirituality of the soul.’
+
+For the same reason the will, the rational appetite, is distinguished from the sensible appetite, both irascible and concupiscible.* For the will, directed by the intellect, is specified by the universal good, which is known only by the intellect, whereas the sensitive appetite, which is immediately directed by the cognitive sensitive faculties, is specified not by the universal good but by the sensible, delectable, and useful good. Therefore the sensitive appetite, as such, cannot will the rational or moral good which is the object of virtue. However, under
+
+THE FACULTIES OF THE SOUL 591 the direction of prudence, the virtues of temperance and fortitude, which are in the sensitive appetite disciplined and regulated by reason, are specified by the moral good as demanding preservation in circumstances of enjoyment or attack.
+
+This profound distinction between the will and sensibility is not acknowledged by many modern psychologists, particularly after J. J. Rousseau.
+
+From what we have said it follows that the sensitive faculties are in the human composite as in their immediate subject as well as in the particular animated organ, whereas the intellect and the will, which are intrinsically independent of the organism, are not in the human composite but in the soul alone as in their immediate subject.‘
+
+The definition of liberty. From this doctrine on the intellect and the will is derived what St. Thomas teaches about liberty.” We have explained and defended this teaching on another occasion.*® Here we wish to point out the difference between the Thomistic definition of liberty and the definition proposed by Molina. According to Molina “that agent is said to be free which, when all the requirements are present for acting, is able to act or not act.” * What is the meaning of the words, “when all the requirements for acting are present”? They include not only those things that are prerequisite in time but also by the simple priority of nature and causality, such as actual grace received in the same instant in which the salutary act is elicited and the ultimate practical judgment is placed. Moreover, Molina’s definition means not only that under the influence of efficacious grace liberty retains the ability to resist although it actually never resists, but that grace is not efficacious in itself but only that our consent is foreseen by scientia media prior to the divine decree.
+
+According to the Thomists, Molina’s definition is not sound because it does not take into consideration the object by which the free act is specified and in this way neglects the principle that acts are specified by their formal objects.
+
+But if we take this specifying object into consideration, we must say with St. Thomas: “If an object is proposed to the will that is not good from every viewpoint, the will is not necessarily drawn to it.” °[^1]
+
+® Cf. Garrigou-Lagrange, The One God, pp. 508 ff.[^2]
+
+In other words, the Thomists say: “Liberty is that dominating indifference of the will with regard to an object proposed by reason as not good in every way.”
+
+The essence of liberty consists in the dominating indifference of the will with regard to every object proposed by the reason as good here and now under one aspect and not good under some other aspect. We are concerned first with the indifference of the exercise of the will with regard to willing or not willing this object. This indifference is potential in the free faculty and actual in the free act. For while the will actually wills this object and while it is determined to willing the object, it still wills it freely with a dominating indifference that is now not potential but actual. In God, however, who is most free there is no potential or passive indifference but only an active and actual indifference. Liberty therefore arises from the disproportion that exists between the will specified by the universal good and the’ will specified by some particular good, some good under one aspect and not good or insufficient under another aspect.
+
+The Thomists add that even by His absolute power God cannot force the will to will a particular object proposed with indifference of the judgment. Why? Because it implies a contradiction for the will necessarily to will an object proposed by the intellect as indifferent, that is, good under one aspect and not under another, or an object that is absolutely out of proportion to the unlimited capability of our will specified by the universal good.
+
+The relation of choice to the final practical judgment. From the foregoing is derived the twenty-first of the twenty-four propositions approved by the Sacred Congregation of Studies: “The will does not precede but follows the intellect, and the will necessarily desires that which is presented to it as good in every way and thus satisfying the (rational) appetite. But the will freely chooses among several goods that are proposed as desirable to the changeable judgment. The choice therefore allows the final practical judgment, and the will effects that which is final.” The choice follows freely upon the final practical judgment by which it is directed, and the will does that which is final by accepting the direction of the judgment. But the will is able to apply the intellect to another consideration which would lead to the opposite practical judgment. Here we see the influence that the intellect and the will have on each other; it is, as it were, the marriage
+
+THE FACULTIES OF THE SOUL 593 of the intellect and will. Thus the consent of the will does whatever accepted practical judgment remains as final.
+
+This intellectual direction is necessary because the will itself is blind, and nothing is willed unless first known as acceptable. This is an application of the principle that causes are causes with regard to each other but in different genera of causes. The intellect directs with respect to the specification of the act, and the will applies the intellect with respect to the exercise of its act, and it applies the intellect to a certain consideration as it is inclined to it.
+
+Scotus and Suarez however held that it was not necessary that the choice be directed immediately by the final practical judgment. According to Suarez,'® the will is able to choose one of two equal or unequal goods even though the intellect docs not propose it to us as better here and now. To this the Thomists reply that nothing is willed here and now unless it is first known as more acceptable to us here and now; each one judges according to his actual inclination, which however does not force us and can be removed.”
+
+The intellect and the will are not coordinated; the will is subordinated to the direction of the intellect in such a way however that the final practical judgment about an object that is not good under every aspect is free and not compelling. This is the indifference of the judgment which is followed by the dominating indifference of the will.”
+
+10 Disp. met., XIX, sect. 6. 11 Summa theol., la, q.83, a.1 ad 5. 12 Cf, Garrigou-Lagrange, The One God, pp. 559-79.
+
+[^1]: Cf. Disp. met., XIV, sect. 5. 2 Cf. Summa theol., la, 4-77, a.4, 53 4-79. 3 [bid., q.80, a.2.
+
+[^2]: Concordia, q.14, a.13, disp. Il. 8 Summa theol., Ia Ilae, q.10, a.2.

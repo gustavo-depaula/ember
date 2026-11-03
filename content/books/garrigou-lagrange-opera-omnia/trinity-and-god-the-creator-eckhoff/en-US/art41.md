@@ -1,0 +1,25 @@
+# Chapter XLI. The acts of the intellective part of the soul}
+
+How THE Sout Knows ITSELF
+
+BAAWABABBBSBBBEREREERERERERERERE EERE EEE EEE ESE SEER EE ESE EEE SE
+
+N questions eighty-four to eighty-eight of the first part of the Summa theologica, St. Thomas treats only of the acts and habits of the intellective part of the soul, because the acts and habits of the appetitive part are considered in moral theology and because the operations of the sensitive part do not directly pertain to theology. St. Thomas asks: 1. how the soul joined to the body understands corporeal things (q. 84); by what means it knows them (q. 85); what it understands in them (q. 86); 2. how the soul knows itself and the things that are in itself (q. 87) ; 3. how the soul knows the things that are above, that is, immaterial substances (q. 88).
+
+It should be noted particularly that for St. Thomas the adequate object of our intellect, as intellect, is intelligible being in the entire extent of being. Hence we are able to know God naturally as the first cause, and supernaturally we can be elevated to the direct vision of the divine essence, which is not outside the full extent of being.’
+
+But the proper or proportionate object of the human intellect, as human, is the essence of sensible things, since the lowest intelligible being of sensible things, knowable by means of the senses, corresponds to the lowest intellect. Hence our intellect is united to the senses.? Hence also we know God and spiritual substances naturally only by analogy, in the mirror of sensible things. In the state of union with the body our souls do not know spiritual things directly as does the angel, and therefore it conceives spiritual being as immaterial, and this is a sign that the soul first knows the nature of material things, such as the nature of stones, plants, and animals.
+
+HOW THE SOUL KNOWS ITSELF 595
+
+In particular it is asked whether the soul as united to the body knows itself through its essence. In De veritate è St. Thomas examines the arguments pro and con at great length, and in the Summa theologica * he proceeds in a simpler way and says: “Whatever is knowable is knowable as it is in act. . . . For sight does not perceive the colored thing in potency but only in act. And so it is with the intellect. . . . Thus it is that we do not know prime matter except in its relation to the form. Hence in immaterial substances, just as each one is in act by its essence so each one is intelligible by its essence. . . . God, who is pure act and from whom all things proceed, not only knows Himself but all things through His essence. The essence of the angel is in the genus of intelligible being as it is act, but not pure act... . Hence the angel knows itself through its essence, but the angel does not know everything through its essence; it knows some things through their representations. The position of the human intellect in the scale of intelligible beings is that of a being in potency, similar to the position of prime matter in the scale of sensible being, and therefore the human intellect is called possibilis. Considered in its essence, therefore, the human intellect is a cognitive potency. Of itself it has the power of intellection but it does not have the power of being known except when it is in act. But because it is connatural for our intellect in its present state to be concerned with material and sensible things, it follows that our intellect knows itself inasmuch as it is in act by means of the species abstracted from sensible things by the light of the intellectus agens, which is the act of these intelligible beings, and through the mediation of these intelligible species the intellectus possibilis understands. Our intellect therefore knows itself not through its essence but by its act."
+
+This happens in two ways. First, in the particular when Socrates or Plato perceives that he has an intellective soul from the fact that he perceives that he understands. Secondly, in the universal when we study the human mind through the act of the intellect. But it is true that the efficacy of this knowledge, by which we understand the nature of the soul, is based on the light which our intellect derives from divine truth, in which the natures of all things are contained.
+
+St. Thomas therefore arrives at the same conclusion that he reached
+
+8 St. Thomas, De veritate, q. 10, a.8. 4 Summa theol., Ia, q.87, a.1. 5 Ibid., q.84, 2.7; q-86, 2.4 ad 2.[^1]
+
+in the De veritate: “Hence our mind cannot understand itself in the sense that it understands itself directly or immediately.” ° If the soul knew itself immediately through its own essence, its spirituality would be fully evident to the soul, and there would be no materialists, just as there are no materialists among the angels. But when the soul is separated from the body, in the exact instant of the separation when the soul is no longer existing in the body, the soul will know itself through itself.
+
+[^1]: Cf. Summa theol., la, q.12, a.1. ? bid., q.76, a.t.
