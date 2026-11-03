@@ -1,0 +1,279 @@
+{
+  "id": "chesterton-generally-speaking",
+  "cover": "classic",
+  "name": {
+    "en-US": "Generally Speaking",
+    "pt-BR": "Falando em Geral"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Essays from the Illustrated London News and elsewhere, on detective novels, the young idea, Europe and Asia, broadcasting, the movies, flags, Buddhism, leisure, Holland, Bath, carols, Prohibition, total abstinence, good King Arthur, Byron, R. L. S. and Thomas Hardy.",
+    "pt-BR": "Ensaios do Illustrated London News e de outros periódicos, sobre romances policiais, a ideia jovem, a Europa e a Ásia, o rádio, o cinema, as bandeiras, o budismo, o lazer, a Holanda, Bath, os cantos natalinos, a Lei Seca, a abstinência total, o bom rei Artur, Byron, R. L. S. e Thomas Hardy."
+  },
+  "composed": 1928,
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/generally-speaking",
+  "editions": {
+    "en-US": {
+      "editor": "Methuen & Co.",
+      "year": 1928
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/generallyspeakin00ches",
+      "edition": "Generally Speaking (London: Methuen, 1928; New York: Dodd, Mead, 1929), Internet Archive full-text OCR (generallyspeakin00ches).",
+      "description": "The essays as printed; the essay list was read from the headings of the OCR. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Chesterton died in 1936 and the book was published in 1928, so it is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "On Detective Novels"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "On the Young Idea"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "On a Negation"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "On Europe and Asia"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "On Broadcasting"
+      }
+    },
+    {
+      "id": "chapter-06",
+      "title": {
+        "en-US": "On Aids to Golf"
+      }
+    },
+    {
+      "id": "chapter-07",
+      "title": {
+        "en-US": "On the Englishman Abroad"
+      }
+    },
+    {
+      "id": "chapter-08",
+      "title": {
+        "en-US": "Two Words From Poland"
+      }
+    },
+    {
+      "id": "chapter-09",
+      "title": {
+        "en-US": "On New Capitals"
+      }
+    },
+    {
+      "id": "chapter-10",
+      "title": {
+        "en-US": "On the Movies"
+      }
+    },
+    {
+      "id": "chapter-11",
+      "title": {
+        "en-US": "On Helen's Babies"
+      }
+    },
+    {
+      "id": "chapter-12",
+      "title": {
+        "en-US": "On Electric Houses"
+      }
+    },
+    {
+      "id": "chapter-13",
+      "title": {
+        "en-US": "On the Pillory"
+      }
+    },
+    {
+      "id": "chapter-14",
+      "title": {
+        "en-US": "On Flags"
+      }
+    },
+    {
+      "id": "chapter-15",
+      "title": {
+        "en-US": "On Misunderstanding"
+      }
+    },
+    {
+      "id": "chapter-16",
+      "title": {
+        "en-US": "On Buddhism"
+      }
+    },
+    {
+      "id": "chapter-17",
+      "title": {
+        "en-US": "On Funeral Customs"
+      }
+    },
+    {
+      "id": "chapter-18",
+      "title": {
+        "en-US": "On Leisure"
+      }
+    },
+    {
+      "id": "chapter-19",
+      "title": {
+        "en-US": "On Holland"
+      }
+    },
+    {
+      "id": "chapter-20",
+      "title": {
+        "en-US": "On Bath"
+      }
+    },
+    {
+      "id": "chapter-21",
+      "title": {
+        "en-US": "On Egyptian Influence"
+      }
+    },
+    {
+      "id": "chapter-22",
+      "title": {
+        "en-US": "On Archaeology"
+      }
+    },
+    {
+      "id": "chapter-23",
+      "title": {
+        "en-US": "On Maltreating Words"
+      }
+    },
+    {
+      "id": "chapter-24",
+      "title": {
+        "en-US": "On Pleasure-seeking"
+      }
+    },
+    {
+      "id": "chapter-25",
+      "title": {
+        "en-US": "On Domestic Servants"
+      }
+    },
+    {
+      "id": "chapter-26",
+      "title": {
+        "en-US": "On the Writing of History"
+      }
+    },
+    {
+      "id": "chapter-27",
+      "title": {
+        "en-US": "On Christmas"
+      }
+    },
+    {
+      "id": "chapter-28",
+      "title": {
+        "en-US": "On Carols"
+      }
+    },
+    {
+      "id": "chapter-29",
+      "title": {
+        "en-US": "On the Comic Spirit"
+      }
+    },
+    {
+      "id": "chapter-30",
+      "title": {
+        "en-US": "On Changes in Taste"
+      }
+    },
+    {
+      "id": "chapter-31",
+      "title": {
+        "en-US": "On Impartiality"
+      }
+    },
+    {
+      "id": "chapter-32",
+      "title": {
+        "en-US": "On American Morals"
+      }
+    },
+    {
+      "id": "chapter-33",
+      "title": {
+        "en-US": "On Prohibition"
+      }
+    },
+    {
+      "id": "chapter-34",
+      "title": {
+        "en-US": "On Total Abstinence"
+      }
+    },
+    {
+      "id": "chapter-35",
+      "title": {
+        "en-US": "On Good King Arthur"
+      }
+    },
+    {
+      "id": "chapter-36",
+      "title": {
+        "en-US": "On Architecture"
+      }
+    },
+    {
+      "id": "chapter-37",
+      "title": {
+        "en-US": "On Edwin Drood"
+      }
+    },
+    {
+      "id": "chapter-38",
+      "title": {
+        "en-US": "On Byron and Tom Moore"
+      }
+    },
+    {
+      "id": "chapter-39",
+      "title": {
+        "en-US": "On R. L. S"
+      }
+    },
+    {
+      "id": "chapter-40",
+      "title": {
+        "en-US": "On Thomas Hardy"
+      }
+    }
+  ]
+}
