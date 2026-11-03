@@ -1,0 +1,256 @@
+{
+  "id": "garrigou-providence",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "La Providence et la confiance en Dieu (traduction anglaise)",
+    "en-US": "Providence",
+    "pt-BR": "A Providência e a confiança em Deus (tradução inglesa)"
+  },
+  "author": {
+    "fr-FR": "Réginald Garrigou-Lagrange",
+    "en-US": "Reginald Garrigou-Lagrange",
+    "pt-BR": "Reginaldo Garrigou-Lagrange"
+  },
+  "description": {
+    "en-US": "Fidelity to duty and abandonment to divine Providence: the nature of providence and its mysteries, the divine government, the problem of evil, and the trust in God that follows. Dom Bede Rose’s translation of La Providence et la confiance en Dieu (1932), Herder 1937.",
+    "pt-BR": "Fidelidade ao dever e abandono à Providência divina: a natureza da providência e seus mistérios, o governo divino, o problema do mal e a confiança em Deus. Tradução inglesa de Dom Bede Rose (Herder, 1937) de La Providence et la confiance en Dieu (1932)."
+  },
+  "composed": "1932",
+  "work": "garrigou-lagrange/providence-et-confiance-en-dieu",
+  "editions": {
+    "en-US": {
+      "translator": "Dom Bede Rose, O.S.B.",
+      "year": 1937
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/Lagrange-English",
+      "edition": "Providence, tr. Dom Bede Rose, O.S.B., St. Louis: B. Herder, 1937 (7th printing 1953), archive.org Lagrange-English; the French original is not open"
+    }
+  ],
+  "languages": [
+    "en-US"
+  ],
+  "toc": [
+    {
+      "id": "foreword",
+      "title": {
+        "en-US": "Foreword"
+      }
+    },
+    {
+      "id": "ch1",
+      "title": {
+        "en-US": "Part I. The existence of God and of providence"
+      },
+      "children": [
+        {
+          "id": "ch1-a1",
+          "title": {
+            "en-US": "Chapter I. God the prime mover or corporeal and spiritual beings"
+          }
+        },
+        {
+          "id": "ch1-a2",
+          "title": {
+            "en-US": "Chapter II. The order in the universe, and providence"
+          }
+        },
+        {
+          "id": "ch1-a3",
+          "title": {
+            "en-US": "Chapter III. God, the supreme being and supreme truth"
+          }
+        },
+        {
+          "id": "ch1-a4",
+          "title": {
+            "en-US": "Chapter IV. God the sovereign good and the desire for happiness(2)"
+          }
+        },
+        {
+          "id": "ch1-a5",
+          "title": {
+            "en-US": "Chapter V. God, the ultimate foundation of duty"
+          }
+        },
+        {
+          "id": "ch1-a6",
+          "title": {
+            "en-US": "Chapter VI. On the nature or God"
+          }
+        },
+        {
+          "id": "ch1-a7",
+          "title": {
+            "en-US": "Chapter VII. The Divine Simpvicity"
+          }
+        },
+        {
+          "id": "ch1-a8",
+          "title": {
+            "en-US": "Chapter VIII. The Infinity oF God"
+          }
+        },
+        {
+          "id": "ch1-a9",
+          "title": {
+            "en-US": "Chapter IX. The immensity of God"
+          }
+        },
+        {
+          "id": "ch1-a10",
+          "title": {
+            "en-US": "Chapter X. The Eternity oF God"
+          }
+        },
+        {
+          "id": "ch1-a11",
+          "title": {
+            "en-US": "Chapter XI. The divine incomprehensibility"
+          }
+        },
+        {
+          "id": "ch1-a12",
+          "title": {
+            "en-US": "Chapter XII. The Wispom or God"
+          }
+        },
+        {
+          "id": "ch1-a13",
+          "title": {
+            "en-US": "Chapter XIII. The Witt anp Hoty Love or God"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": {
+        "en-US": "Part II. Provipence according to revelation"
+      },
+      "children": [
+        {
+          "id": "ch2-a14",
+          "title": {
+            "en-US": "Chapter XIV. The notion of providence"
+          }
+        },
+        {
+          "id": "ch2-a15",
+          "title": {
+            "en-US": "Chapter XV. The characteristics of providence according to the op testament"
+          }
+        },
+        {
+          "id": "ch2-a16",
+          "title": {
+            "en-US": "Chapter XVI. The hipp—en ways of providence and the book of jos"
+          }
+        },
+        {
+          "id": "ch2-a17",
+          "title": {
+            "en-US": "Chapter XVII. Providence according to the gospel"
+          }
+        },
+        {
+          "id": "ch2-a18",
+          "title": {
+            "en-US": "Chapter XVIII. Providence and prayer"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": {
+        "en-US": "Part III. Self-abandonment to providence"
+      },
+      "children": [
+        {
+          "id": "ch3-a19",
+          "title": {
+            "en-US": "Chapter XIX. Way anp in what matrers we should abandon ourselves to providence"
+          }
+        },
+        {
+          "id": "ch3-a20",
+          "title": {
+            "en-US": "Chapter XX. The manner in wuich we must abandon ourselves to providence"
+          }
+        },
+        {
+          "id": "ch3-a21",
+          "title": {
+            "en-US": "Chapter XXI. Providence and the duty of the present moment"
+          }
+        },
+        {
+          "id": "ch3-a22",
+          "title": {
+            "en-US": "Chapter XXII. The grace of the present moment and fidelity in little things"
+          }
+        },
+        {
+          "id": "ch3-a23",
+          "title": {
+            "en-US": "Chapter XXIII. The attitude of provipence towarp those who abandon themselves completely to it"
+          }
+        },
+        {
+          "id": "ch3-a24",
+          "title": {
+            "en-US": "Chapter XXIV. Providence and the way of perfection"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": {
+        "en-US": "Part IV. Providence, justice, and mercy"
+      },
+      "children": [
+        {
+          "id": "ch4-a25",
+          "title": {
+            "en-US": "Chapter XXV. Providence and divine justice"
+          }
+        },
+        {
+          "id": "ch4-a26",
+          "title": {
+            "en-US": "Chapter XXVI. Providence and mercy"
+          }
+        },
+        {
+          "id": "ch4-a27",
+          "title": {
+            "en-US": "Chapter XXVII. Providence and the grace of a happy death"
+          }
+        },
+        {
+          "id": "ch4-a28",
+          "title": {
+            "en-US": "Chapter XXVIII. Providence and charity toward our neighbor"
+          }
+        },
+        {
+          "id": "ch4-a29",
+          "title": {
+            "en-US": "Chapter XXIX. Providence and the communion of saints"
+          }
+        },
+        {
+          "id": "ch4-a30",
+          "title": {
+            "en-US": "Chapter XXX. The end and purpose of the divine governance"
+          }
+        }
+      ]
+    }
+  ]
+}

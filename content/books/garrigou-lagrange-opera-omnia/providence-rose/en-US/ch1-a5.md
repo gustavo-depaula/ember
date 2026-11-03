@@ -1,0 +1,99 @@
+# Chapter V. God, the ultimate foundation of duty
+
+We have been considering the proof for the existence of the sovereign good based on our natural desire for happiness. It may be summed up, we said, in this way: A natural desire, one that has its foundation not in the imagination or the vagaries of reason but in our very nature, which we have in common with all men, cannot possibly be ineffective, chimerical, deceptive; this means that it cannot be for a good that is either unreal or unattainable.
+
+Now every man has a natural desire for happiness, and true happiness is not to be found in any finite or limited good, for our intellect, with its conception of universal, unlimited good, naturally constrains us to desire it.
+
+There must, then, be an unlimited good, pure and simple, without any admixture of non-good or imperfection; without it the universal range of our will would be a psychological absurdity and without any meaning whatever.
+
+If the herbivora find the grass they need and the carnivora the prey necessary for their sustenance, then the natural desire in man cannot be to no purpose. The natural desire for true happiness must be possible of attainment and, since it is to be found only in the knowledge and love of the sovereign good, and this is God, then God must exist.
+
+There is another proof for God’s existence, the starting- 53 point of which is not in our desire for happiness but in moral obligation or the direction of our will to moral good. This proof leads up to the sovereign good, not considered as simply the supreme desirable but as possessing the right to be loved, as having a claim on our love, and as the foundation of duty.
+
+1) The ordering of our will to moral good
+
+This proof has its starting-point in human conscience. All men, including even those who doubt the existence of God, realize, at least vaguely, that one must do good and avoid evil. To recognize this truth it is enough to have a notion of “good” and to distinguish, as common sense does, between (1) sensible or purely delectable goods, (2) good that is useful in view of some end, and (3) honorable or moral good (bonum honestum), which is good in itself independently of the enjoyment or utility it may afford. The animal finds its complete satisfaction in delectable good of the senses; by instinct it makes use of sensible good that it finds to be useful, but without perceiving that the raison d’étre of the useful lies in the end for which it is employed. The swallow picks up a piece of straw with which to make its nest without knowing that the straw is of use in building it. Man alone, through his reason, recognizes that the utility or raison d'être of the means lies in the end they subserve.
+
+Again, he alone recognizes and can love the honorable good; he alone can understand this moral truth: that one must do good and avoid evil. The imagination of the brute may be trained and continually perfected in its own order, but never will it succeed in grasping this truth.
+
+But, on the other hand, every man, however uncultured he may be, will grasp this truth as soon as he comes to the age of reason. Everyone who has come to the full use of reason will recognize this threefold distinction in the good, even though he may not always be able to put it into words. It is obvious to anyone that a tasty fruit is a delectable good of the sensible order, a physical good having nothing to do with moral good, since the use it is put to may be either morally good or morally bad: the delectable is not therefore in itself moral.
+
+Again, all are aware that a bitter medicine is not a delectable good, but one that is useful in view of some end, as a possible means of recovering their health. In this way money is useful and, from the moral point of view, the use it is put to may be either good or bad. Here is one of the most elementary principles of common sense.
+
+Lastly, everyone who has come to the age of reason sees that transcending the delectable and the useful there is the honorable good, the rational or moral good, which is good in itself independently of any pleasure or advantage or convenience resulting from it.
+
+In this sense virtue is a good, such as patience, courage, justice. That justice is a spiritual good and not a sensible one is obvious to everybody. Though it may bring joy to the person practicing it, it is good regardless of this enjoyment; it is good because it is reasonable or in conformity with right reason. We are fully aware that justice must be practiced for its own sake and not merely for the advantage to be gained, let us say, in avoiding the evil consequences of injustice. Thus, even though it should mean certain death to us, we are bound to do justice and avoid injustice, especially where the injustice is grave.
+
+This is a perfection belonging to man as man, to man as a rational being, and not as an animal.
+
+To know truth, to love it above all things, to act in all things in accordance with right reason, is likewise good in itself apart from the pleasure we may find in it or the advantages to be gained thereby.
+
+Furthermore, this honorable or rational good is presented to us as the necessary end of our activity and hence as of obligation. Everyone is aware that a rational being must behave in conformity with right reason, even as reason itself is in conformity with the absolute principles of being or reality: “That which is, is, and cannot at the same time be and not be.” The honest man who is beaten unmercifully by some scamp proves to him the superiority of the intelligible world over that of sense when he exclaims: “You may be the stronger, but that does not prove that you are right.” Justice is justice.
+
+“Do your duty, come what may,” “one must do good and avoid evil.” In these or equivalent formulas the idea of duty finds expression among all peoples. Pleasure and self-interest must be subordinated to duty, the delectable and the useful to the moral. Here we have an eternal truth, which has always been true and will ever be so.
+
+What is the proximate basis of duty or moral obligation ? As St. Thomas (Ia Iae, q. 94, a. 2) says, this basis is the principle of finality, evident to our intellect, according to which every being acts in view of some end and must tend to that end which is proportionate to it. Whence it follows that in rational beings the will must tend to the honorable or rational good, to which it has been ordered. The faculty to will and act rationally is for the rational act as the eye is[^1] for seeing, the ear for hearing, the foot for walking, the wings of the bird for flying, the cognitive faculty for knowing. A potency is for its correlative act; if it fails to tend to that act it ceases to have a raison d'étre. It is not merely better for the faculty to tend to its act, it is its intrinsic primordial law.
+
+Since over and above the sensible, the delectable, and the useful good, the will from its very nature is capable of desiring the honorable or rational good (and this is equivalent to saying that it is essentially ordered to that good), it cannot refuse to desire that good without ceasing to have a raison d'étre. The will is for the purpose of loving and desiring rational good; this good must therefore be realized by it—by man, that is, who is capable of realizing this good and who exists for such purpose. This is the proximate basis of moral obligation. But is there not also a far nobler and ultimate basis?
+
+The voice of conscience is peculiarly insistent at times in commanding or forbidding the performance of certain acts —in forbidding perjury or treason, for instance—or again in rebuking and condemning when a grave offense has been committed. Is not the murderer tormented by his conscience after his crime, even when the deed is perpetrated in complete secrecy? The crime is unknown to men, yet conscience never ceases to upbraid him even though he chooses to doubt God’s existence.
+
+Where does this voice of conscience come from? Is it simply the result of a logical process? Does it come simply from our own reason? No, for it makes itself heard in each and every human being; it dominates them all.
+
+Is it the result of human legislation? No, for it is above human legislation, above the legislation of any one nation, of every nation and of the League of Nations. It is this voice which tells us that an unjust law is not binding in conscience; those who enact unjust laws are themselves rebuked in the secrecy of their hearts by the persistent voice of right reason.
+
+2) The ordering of our will to moral good presupposes a divine intelligent designer i
+
+Whence, then, comes this voice of conscience, so insistent at times? We take for granted that a means cannot be ordered to an end except by an intelligent designer, who alone can recognize in the end to be attained the raison d’étre of the means, and therefore can alone determine the means to the end. We take for granted also, as was seen above (chap. 2), that the order in the physical universe presupposes a divine intelligent designer. Then with much greater reason must such an intellect be presupposed in the ordering of our will to moral good. There is no passive direction without a corresponding active direction, which in this case must be from the very Author of our nature.
+
+Again, if from the eternal speculative truths (such as, that the same thing cannot at the same time be and not be), we pass by a necessary transition to the existence of a supreme Truth, the fountain of all other truths, why should we not ascend from the first principle of the moral law (it is necessary to do good and avoid evil) up to the eternal law?
+
+Here we begin with the practical instead of the speculative principles; the obligatory character of the good merely gives a new aspect to the proof, and this characteristic, evident already in the proximate basis of moral obligation, leads us on to seek its ultimate basis.
+
+If honorable good, to which our rational nature is ordered, must be desired apart from the satisfaction or advantages we derive from it; if that being which is capable of desiring it must do so under pain of ceasing to have a raison d'étre; if our conscience loudly proclaims this duty and thereafter approves or condemns without our being able to stifle remorse of conscience; if, in a word, the right to be loved and practiced inherent in the good dominates the whole of our moral activity and that of every society, actual or possible, as the principle of contradition dominates all reality, actual or possible: then of necessity there must exist from all eternity some basis on which these absolute rights inherent in the good are founded.
+
+These claims inherent in justice dominate our individual, family, social, and political lives, and dominate the international life of nations, past, present, and to come. These necessary and predominating rights cannot have their raison d'étre in the contingent, transient realities which they dominate, nor even in those manifold and subordinate goods or duties which are imposed upon us as rational beings. Transcending as they do everything that is not the Good itself, the rights of justice can have none but that Good as their foundation, their ultimate reason.
+
+If, then, the proximate basis of moral obligation lies in the essential order of things, or, to be more precise, in the rational good to which our nature and activity are essentially ordered, its ultimate basis is to be found in the sovereign good, our objective last end. This moral obligation could only have been established by a law of the same order as the sovereign good—by the divine wisdom, whose cternal law orders and directs all creatures to their end. Agent and end are in corresponding orders. The passive direction on the part of our will to the good presupposes an active direction on the part of Him who created it for the good. In other words, in rational beings the will must tend to the honorable or rational good, since this is the purpose for which it was created by a higher efficient cause, who Himself had in view the realization of this good.
+
+This is why, according to common sense or natural reason, duty is in the last resort founded on the being, intelligence, and will of God, who has created us to know, love, and serve Him and thereby obtain eternal bliss.
+
+And so, common sense has respect for duty, while at the same time it regards as legitimate our search after happiness. It rejects utilitarian morality on the one hand, and on the other Kantian morality, which consists in pure duty to the exclusion of all objective good. To common sense this latter is like an arid waste where the sun never shines.
+
+Against this demonstration of God’s existence, the objection is sometimes advanced that it is a begging of the question, that it involves a vicious circle. Strictly speaking, there is no moral obligation, so it is said, without a supreme lawgiver, and it is impossible to regard ourselves as subject to a categorical moral obligation unless this supreme lawgiver is first recognized. Hence the proof put forward presupposes what it seeks to prove; at the most it brings out more explicitly what is presumed to be already implicitly admitted.
+
+To this we may reply, and rightly so, that it is sufficient first of all to show the passive direction of our will to moral good and then go on to prove the further truth that, since
+
+GOD, THE ULTIMATE FOUNDATION OF DUTY ói there can be no passive direction without an active direction, there must exist a first cause who has so given this tendency to the will. Thus we have seen that the order in the world presupposes a supreme intelligent designer, and that the cternal truths governing all contingent reality and every finite intelligence themselves require an eternal foundation.
+
+Moreover, this passive direction of our will to moral good is not the only starting-point from which we may argue. We may also begin with moral obligation as evidenced in its effects, in the remorse felt by the murderer, for instance. Whence comes this terrible voice of remorse of conscience which the criminal never succeeds in silencing in the depths of his soul?
+
+Right reason within us commands us to do good, that rational good to which our rational nature is directed. Nevertheless it does not command as a first and eternal cause; for in each of us reason first of all begins to command, then it slumbers, and is awakened again; it has many imperfections, many limitations. It is not the principle of all order, but is itself ordered. We must therefore ascend higher to that divine wisdom by which everything is directed to the supreme good.
+
+There alone do we find the ultimate basis of moral obligation or duty. There is no vicious circle; from the feeling of remorse or from its contrary, peace of mind, we ascend to conscience. In the approval or disapproval of conscience lies the explanation of these feelings. We then look for the source of this voice of conscience. The ultimate source is not in our imperfect reason, for reason in its commanding had a beginning. It commands only as secondary cause, presupposing a first cause that is eternal, simple, and perfect—wisdom itself, by which everything is directed to the good.
+
+The sovereign good is now no longer presented simply as the supreme desirable, wherein alone we may find true happiness, if we love it above all things; it is further presented as the sovereign good which must be loved above all things, which demands our love and is the foundation of duty.
+
+From all this it is plain that, if the primary duty toward God the last end of man is denied, then every other duty is deprived of its ultimate foundation. If we deny that we are morally bound to love before all else the good as such and God the sovereign good, what proof have we that we are bound to love that far less compelling good, the general welfare of humanity, which is the main object of the League of Nations? What proof have we that we are bound to love our country and family more than our life; or that we are bound to go on living and avoid suicide, even in the most overwhelming afflictions? If the sovereign good has not an inalienable right to be loved above all things, then a fortiori inferior goods have no such right. If we are not morally bound by a last end, then no end or means whatever is morally binding. If the foundation for moral obligation is not in a supreme lawgiver, then every human law is deprived of its ultimate foundation.
+
+Such is the proof for the existence of God as supreme lawgiver and the sovereign good, who is the foundation of duty. Such is the eminent origin of the imperious voice of conscience, that voice which torments the criminal after his crime and gives to the conscientious who have done their utmost, that peace which comes from duty accomplished.
+
+The moral sanction
+
+In conclusion we shall say a few words about another proof for the existence of God, a proof closely related to the preceding: that based on moral sanction.
+
+The consideration of heroic acts unrequited here on earth and of crimes that go unpunished shows us the necessity of a sovereign judge, a rewarder and vindicator.
+
+The existence of this sovereign judge and of an cternal sanction may be proved from the insufficiency of all other sanctions. Kant himself chose to attach some importance to this argument, but in itself it is far more convincing than he made it out to be. It may be summed up in this way:
+
+By perseverance in virtue the just man merits happiness since he has persevered in doing good. Now the harmony prevailing between virtue and happiness, in another and better life, is accomplished by God alone. Therefore God and that other life exist.
+
+The more exalted a man’s moral life is, the firmer and livelier is his conviction resulting from this proof. In reality it presupposes the preceding proof and is a confirmation of it. If, in fact, the voice of conscience comes from the supreme lawgiver, then He must also be the sovereign judge who rewards and vindicates. Because He is intelligent and good, He owes it to Himself to give to every being what is necessary for it to attain the end for which He has destined it, and hence to give to the just that knowledge of truth and that beatitude which they deserve. (Cf. St. Thomas, Ia, q. 21, a. 1.) Furthermore, since the supreme lawgiver must of necessity love the good above all things, He owes it to Himself also to compel respect for its absolute rights and repress their violation (Ia lae, q. 87, a. 1, 3).
+
+In other words, if there is order in the physical world and if that order demands an intelligent designer, much more must there be order in the moral world, which is on an infinitely higher plane.
+
+Herein is the answer to the complaints of the just who are persecuted and unjustly condemned by men. How often in this world do the wicked and indifferent triumph, while upright and high-minded souls, like Joan of Arc, are condemned? Barabbas was even preferred to Jesus; Barabbas was set free and Jesus was crucified. Injustice cannot have the last word, especially when it is so flagrant as this. There is a higher justice; its voice makes itself heard in our conscience and it will one day restore all things to the true order. Then will be clearly made manifest the two aspects of the Sovereign Good: His right to be loved above all things, which is the principle of justice, and His being essentially selfdiffusive, which is the principle of mercy.
+
+These moral proofs for the existence of God are of a nature to convince any mind that does not try to stifle the interior voice of conscience. Such a mind will have little difficulty in discovering the deeper source of this voice directing us to the good, because it comes from Him who is the good itself.
+
+[^1]: e
