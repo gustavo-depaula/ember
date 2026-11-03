@@ -1,0 +1,172 @@
+{
+  "id": "bernard-sermones-de-tempore-mount-melleray-1",
+  "cover": "classic",
+  "name": {
+    "en-US": "Seasonal Sermons I: Advent, Christmas and the Circumcision (Mount Melleray)",
+    "pt-BR": "Sermões do tempo litúrgico I: Advento, Natal e Circuncisão (Mount Melleray)"
+  },
+  "author": {
+    "la": "Bernardus Claraevallensis",
+    "en-US": "St. Bernard of Clairvaux",
+    "pt-BR": "São Bernardo de Claraval"
+  },
+  "description": {
+    "en-US": "Twenty sermons of Bernard for Advent, Christmas Eve, Christmas Day and the Circumcision, in the English of a priest of Mount Melleray (Dublin, 1921), the first volume of his Sermons for the Seasons and Principal Festivals of the Year. The translator arranges and divides the sermons by the liturgical calendar, so this is a separate book of the same work as the Latin Sermones de tempore.",
+    "pt-BR": "Sermões de São Bernardo na tradução inglesa de um sacerdote de Mount Melleray (Dublin)."
+  },
+  "composed": "c. 1135-1153",
+  "languages": [
+    "en-US"
+  ],
+  "work": "bernard/sermones-de-tempore",
+  "editions": {
+    "en-US": {
+      "translator": "A priest of Mount Melleray (Ailbe Luddy)",
+      "year": 1921
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/stbernardssermon0001prie_y4z3",
+      "edition": "St. Bernard's Sermons for the Seasons and Principal Festivals of the Year, translated from the original Latin by a Priest of Mount Melleray, vol. 1 (Dublin: Browne and Nolan, 1921).",
+      "description": "Archive.org OCR cleaned by script, not proofread; the running heads are stripped by pattern and the translator's occasional footnotes are not kept. The translator (a priest of Mount Melleray, Ailbe Luddy) divides and orders the sermons by the liturgical calendar as listed here, which differs from the Latin book.",
+      "tier": "A",
+      "tierEvidence": "Published in 1921, before 1931: public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "s01",
+      "title": {
+        "en-US": "First Sermon for Advent: On the Coming of Christ and the Circumstances Which Attended it"
+      }
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en-US": "Second Sermon for Advent: On the Words of the Prophet Isaias to King Achaz"
+      }
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en-US": "Third Sermon for Advent: On the Three Advents of the Lord, and the Seven Pillars Which We Ought to Erect Within Us"
+      }
+    },
+    {
+      "id": "s04",
+      "title": {
+        "en-US": "Fourth Sermon for Advent: On True and False Virtue and That Our Virtues Must be Modelled on the Virtues of Christ. Length of Days is in (his) Right Hand, and in (his) Left Hand"
+      }
+    },
+    {
+      "id": "s05",
+      "title": {
+        "en-US": "Fifth Sermon for Advent: On the Second and Secret Advent, and How We Are to Keep the Words of Christ"
+      }
+    },
+    {
+      "id": "s06",
+      "title": {
+        "en-US": "Sixth Sermon for Advent: On the Glorification of the Body, and How it Must be Merited"
+      }
+    },
+    {
+      "id": "s07",
+      "title": {
+        "en-US": "Seventh Sermon for Advent: On Our Threefold Need of Christ. If God be for Us, Who is Against Us ?’’—rom. Viii. 31"
+      }
+    },
+    {
+      "id": "s08",
+      "title": {
+        "en-US": "First Sermon for Christmas Eve: On the Three Benefits Which We Owe to the Birth of Christ"
+      }
+    },
+    {
+      "id": "s09",
+      "title": {
+        "en-US": "Second Sermon for Christmas Eve: On the Spiritual Jews and the Spiritual Jerusalem"
+      }
+    },
+    {
+      "id": "s10",
+      "title": {
+        "en-US": "Third Sermon for Christmas Eve: On the Three Days, the Three Watches, the Three Winds, and the Three Unions"
+      }
+    },
+    {
+      "id": "s11",
+      "title": {
+        "en-US": "Fourth Sermon for Christmas Eve: On the Spiritual Riches Which Christ Brought on Earth. Length of Days is in (his) Right Hand and in (his) Left Hand Riches and Glory.’’—prov. Iii. 16"
+      }
+    },
+    {
+      "id": "s12",
+      "title": {
+        "en-US": "Fifth Sermon for Christmas Eve: On the Manner in Which We Must Prepare and Sanctify Ourselves for the Vision of God"
+      }
+    },
+    {
+      "id": "s13",
+      "title": {
+        "en-US": "Sixth Sermon for Christmas Eve: On the Manner in Which Each of Us Should Make Himself a Bethlehem of Juda, So That Christ May be Born in His Soul"
+      }
+    },
+    {
+      "id": "s14",
+      "title": {
+        "en-US": "First Sermon for Christmas Day: On the Fountains of the Saviour"
+      }
+    },
+    {
+      "id": "s15",
+      "title": {
+        "en-US": "Second Sermon for Christmas Day: On the Three Principal Works of God, and the Special Virtue Conspicuous in Each"
+      }
+    },
+    {
+      "id": "s16",
+      "title": {
+        "en-US": "Third Sermon for Christmas Day: On the Place, Time, and Other Circumstances of the Nativity"
+      }
+    },
+    {
+      "id": "s17",
+      "title": {
+        "en-US": "Fourth Sermon for Christmas Day"
+      }
+    },
+    {
+      "id": "s18",
+      "title": {
+        "en-US": "Fifth Sermon for Christmas Day: On Man’s Twofold Misery and the Twofold Mercy of God, and on the Consolation Which the Poor Find in the Nativity"
+      }
+    },
+    {
+      "id": "s19",
+      "title": {
+        "en-US": "Sermon for the Feast of the Holy Innocents: On the Three Kinds of Sanctity or Martyr- Dom, Represented by St. Stephen, St. John Evangelist, and the Holy Innocents"
+      }
+    },
+    {
+      "id": "s20",
+      "title": {
+        "en-US": "First Sermon for the Feast of Circumcision: On the Different Kinds of Circumcision ; on the Name of Salvation and the Three Witnesses"
+      }
+    },
+    {
+      "id": "s21",
+      "title": {
+        "en-US": "Second Sermon for the Feast of Circumcision: On the Manner in Which the Name of Jesus Has Been Poured Out in the Saviour’s Other Titles"
+      }
+    },
+    {
+      "id": "s22",
+      "title": {
+        "en-US": "Sermon for the Octave of the Feast of Circumcision: On the Eight Mystical Days of the Soul’s Progress"
+      }
+    }
+  ]
+}
