@@ -5,5 +5,347 @@
   },
   "matches": [
     "Apocrypha"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "The earliest and most influential of the apocryphal texts.",
+        "pt-BR": "Os textos apócrifos mais antigos e influentes."
+      },
+      "works": [
+        {
+          "work": "apocrypha-protoevangelium-of-james",
+          "why": {
+            "en-US": "Mary's birth and childhood; written about 150",
+            "pt-BR": "Nascimento e infância de Maria; escrito por volta de 150"
+          }
+        },
+        {
+          "work": "apocrypha-acts-of-paul-and-thecla",
+          "why": {
+            "en-US": "The Acts of Thecla, written about 180",
+            "pt-BR": "Os Atos de Tecla, escritos por volta de 180"
+          }
+        },
+        {
+          "work": "apocrypha-gospel-of-nicodemus",
+          "why": {
+            "en-US": "The Gospel of Nicodemus",
+            "pt-BR": "O Evangelho de Nicodemos"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Infancy and the Holy Family",
+        "pt-BR": "Infância e Sagrada Família"
+      },
+      "note": {
+        "en-US": "Mary, Joseph and the childhood of Jesus.",
+        "pt-BR": "Maria, José e a infância de Jesus."
+      },
+      "works": [
+        {
+          "work": "apocrypha-gospel-of-pseudo-matthew",
+          "why": {
+            "en-US": "The infancy narrative, about 400",
+            "pt-BR": "A narrativa da infância, por volta de 400"
+          }
+        },
+        {
+          "work": "apocrypha-gospel-of-the-nativity-of-mary",
+          "why": {
+            "en-US": "Mary's nativity; a late text",
+            "pt-BR": "A natividade de Maria; texto tardio"
+          }
+        },
+        {
+          "work": "apocrypha-gospel-of-thomas",
+          "why": {
+            "en-US": "A Gospel of Thomas, about 200",
+            "pt-BR": "Um Evangelho de Tomé, por volta de 200"
+          }
+        },
+        {
+          "work": "apocrypha-history-of-joseph-the-carpenter",
+          "why": {
+            "en-US": "The life and death of Joseph, about 400",
+            "pt-BR": "Vida e morte de José, por volta de 400"
+          }
+        },
+        {
+          "work": "apocrypha-arabic-gospel-of-the-infancy-of-the-saviour",
+          "why": {
+            "en-US": "The infancy of Jesus, about 600",
+            "pt-BR": "A infância de Jesus, por volta de 600"
+          }
+        },
+        {
+          "work": "apocrypha-assumption-of-mary",
+          "why": {
+            "en-US": "The Assumption of Mary, about 400",
+            "pt-BR": "A Assunção de Maria, por volta de 400"
+          }
+        },
+        {
+          "work": "apocrypha-apocalypse-of-the-virgin",
+          "why": {
+            "en-US": "Mary's vision of the other world; a very late text",
+            "pt-BR": "A visão de Maria do além; texto muito tardio"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Passion and Pilate",
+        "pt-BR": "Paixão e Pilatos"
+      },
+      "note": {
+        "en-US": "The Gospel of Peter and the writings gathered around Pilate and the descent to hell.",
+        "pt-BR": "O Evangelho de Pedro e os escritos reunidos em torno de Pilatos e da descida aos infernos."
+      },
+      "works": [
+        {
+          "work": "apocrypha-gospel-of-peter",
+          "why": {
+            "en-US": "The Gospel of Peter, about 190",
+            "pt-BR": "O Evangelho de Pedro, por volta de 190"
+          }
+        },
+        {
+          "work": "apocrypha-report-of-pontius-pilate",
+          "why": {
+            "en-US": "Pilate's report",
+            "pt-BR": "O relatório de Pilatos"
+          }
+        },
+        {
+          "work": "apocrypha-letter-of-pontius-pilate",
+          "why": {
+            "en-US": "A letter attributed to Pilate",
+            "pt-BR": "Uma carta atribuída a Pilatos"
+          }
+        },
+        {
+          "work": "apocrypha-narrative-of-joseph-of-arimathea",
+          "why": {
+            "en-US": "Joseph of Arimathea's narrative",
+            "pt-BR": "A narrativa de José de Arimateia"
+          }
+        },
+        {
+          "work": "apocrypha-narrative-of-zosimus",
+          "why": {
+            "en-US": "The narrative of Zosimus",
+            "pt-BR": "A narrativa de Zósimo"
+          }
+        },
+        {
+          "work": "apocrypha-giving-up-of-pontius-pilate",
+          "why": {
+            "en-US": "The giving up of Pilate",
+            "pt-BR": "A entrega de Pilatos"
+          }
+        },
+        {
+          "work": "apocrypha-death-of-pilate",
+          "why": {
+            "en-US": "The death of Pilate",
+            "pt-BR": "A morte de Pilatos"
+          }
+        },
+        {
+          "work": "apocrypha-avenging-of-the-saviour",
+          "why": {
+            "en-US": "The avenging of the Saviour, about 700",
+            "pt-BR": "A vingança do Salvador, por volta de 700"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Acts of the apostles",
+        "pt-BR": "Atos dos apóstolos"
+      },
+      "note": {
+        "en-US": "Accounts of the apostles' missions and martyrdoms.",
+        "pt-BR": "Relatos das missões e dos martírios dos apóstolos."
+      },
+      "works": [
+        {
+          "work": "apocrypha-acts-of-thomas",
+          "why": {
+            "en-US": "Thomas in India, about 240",
+            "pt-BR": "Tomé na Índia, por volta de 240"
+          }
+        },
+        {
+          "work": "apocrypha-acts-of-peter-and-paul",
+          "why": {
+            "en-US": "Peter and Paul, about 200",
+            "pt-BR": "Pedro e Paulo, por volta de 200"
+          }
+        },
+        {
+          "work": "apocrypha-acts-of-andrew",
+          "why": {
+            "en-US": "Andrew, about 260",
+            "pt-BR": "André, por volta de 260"
+          }
+        },
+        {
+          "work": "apocrypha-acts-of-andrew-and-matthias",
+          "why": {
+            "en-US": "Andrew and Matthias",
+            "pt-BR": "André e Matias"
+          }
+        },
+        {
+          "work": "apocrypha-acts-of-john",
+          "why": {
+            "en-US": "Acts of John",
+            "pt-BR": "Atos de João"
+          }
+        },
+        {
+          "work": "apocrypha-acts-of-philip",
+          "why": {
+            "en-US": "Philip, about 350",
+            "pt-BR": "Filipe, por volta de 350"
+          }
+        },
+        {
+          "work": "apocrypha-acts-of-bartholomew",
+          "why": {
+            "en-US": "Bartholomew, about 500",
+            "pt-BR": "Bartolomeu, por volta de 500"
+          }
+        },
+        {
+          "work": "apocrypha-acts-of-barnabas",
+          "why": {
+            "en-US": "Barnabas, about 500",
+            "pt-BR": "Barnabé, por volta de 500"
+          }
+        },
+        {
+          "work": "apocrypha-acts-and-martyrdom-of-st-matthew-the-apostle",
+          "why": {
+            "en-US": "Matthew's acts and martyrdom, about 550",
+            "pt-BR": "Atos e martírio de Mateus, por volta de 550"
+          }
+        },
+        {
+          "work": "apocrypha-acts-of-peter-and-andrew",
+          "why": {
+            "en-US": "Peter and Andrew",
+            "pt-BR": "Pedro e André"
+          }
+        },
+        {
+          "work": "apocrypha-acts-of-thaddaeus",
+          "why": {
+            "en-US": "Thaddaeus, about 250",
+            "pt-BR": "Tadeu, por volta de 250"
+          }
+        },
+        {
+          "work": "apocrypha-acts-of-xanthippe-and-polyxena",
+          "why": {
+            "en-US": "Xanthippe and Polyxena, about 270",
+            "pt-BR": "Xantipa e Polixena, por volta de 270"
+          }
+        },
+        {
+          "work": "apocrypha-consummation-of-thomas-the-apostle",
+          "why": {
+            "en-US": "The consummation of Thomas",
+            "pt-BR": "A consumação de Tomé"
+          }
+        },
+        {
+          "work": "apocrypha-doctrine-of-addai",
+          "why": {
+            "en-US": "The doctrine of Addai, about 400",
+            "pt-BR": "A doutrina de Addai, por volta de 400"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en-US": "Apocalypses and testaments",
+        "pt-BR": "Apocalipses e testamentos"
+      },
+      "note": {
+        "en-US": "Visions of heaven and hell, and the last words of the patriarchs.",
+        "pt-BR": "Visões do céu e do inferno, e as últimas palavras dos patriarcas."
+      },
+      "works": [
+        {
+          "work": "apocrypha-apocalypse-of-peter",
+          "why": {
+            "en-US": "The Apocalypse of Peter, about 130",
+            "pt-BR": "O Apocalipse de Pedro, por volta de 130"
+          }
+        },
+        {
+          "work": "apocrypha-apocalypse-of-paul",
+          "why": {
+            "en-US": "Paul's vision of heaven and hell, about 380",
+            "pt-BR": "A visão de Paulo do céu e do inferno, por volta de 380"
+          }
+        },
+        {
+          "work": "apocrypha-testaments-of-the-twelve-patriarchs",
+          "why": {
+            "en-US": "The patriarchs' farewell words",
+            "pt-BR": "As palavras de despedida dos patriarcas"
+          }
+        },
+        {
+          "work": "apocrypha-testament-of-abraham",
+          "why": {
+            "en-US": "The testament of Abraham",
+            "pt-BR": "O testamento de Abraão"
+          }
+        },
+        {
+          "work": "apocrypha-apocalypse-of-moses",
+          "why": {
+            "en-US": "The Apocalypse of Moses",
+            "pt-BR": "O Apocalipse de Moisés"
+          }
+        },
+        {
+          "work": "apocrypha-apocalypse-of-esdras",
+          "why": {
+            "en-US": "The Apocalypse of Esdras",
+            "pt-BR": "O Apocalipse de Esdras"
+          }
+        },
+        {
+          "work": "apocrypha-apocalypse-of-john",
+          "why": {
+            "en-US": "The Apocalypse of John; a late text",
+            "pt-BR": "O Apocalipse de João; texto tardio"
+          }
+        },
+        {
+          "work": "apocrypha-apocalypse-of-sedrach",
+          "why": {
+            "en-US": "The Apocalypse of Sedrach; a very late text",
+            "pt-BR": "O Apocalipse de Sedrac; texto muito tardio"
+          }
+        }
+      ]
+    }
   ]
 }
