@@ -21,7 +21,7 @@ These errors are in the printed edition itself, not the import, so both language
 - Incarnation: 35.7 reads "Josias of Amos" (historically Amon).
 - 1 Clement: Ch. 45 reads "Michael" where the biblical name is Mishael.
 - Protoevangelium of James: ¶6 "led her astray" is a known mistranslation in Walker's English. The pt-BR adds a translator's note.
-- Two wording slips of the printed NPNF are corrected in the en-US, not mirrored, because both languages now agree on the right reading: Ambrose, *Repentance* I ¶61, "the law of his flesh … with the law of his flesh" now ends "of his mind" (the Latin, through Schulte's German in the BKV, has *Geistes*); Chrysostom, *Priesthood* V §4, "puffed up by the promises" now reads "praises" (as in the 1866 and 1907 translations, and the next sentence).
+- Two wording slips of the printed NPNF are corrected in both languages, with a footnote at each giving the printed reading: Ambrose, *Repentance* I ¶61, "the law of his flesh … with the law of his flesh" now ends "of his mind" (the Latin, through Schulte's German in the BKV, has *Geistes*); Chrysostom, *Priesthood* V §4, "puffed up by the promises" now reads "praises" (as in the 1866 and 1907 translations, and the next sentence).
 
 ## Unfinished work
 
