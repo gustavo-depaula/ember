@@ -1,0 +1,75 @@
+{
+  "id": "chesterton-appetite-of-tyranny",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Appetite of Tyranny, Including Letters to an Old Garibaldian",
+    "pt-BR": "O Apetite da Tirania, com Cartas a um Velho Garibaldino"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "The war essays of 1915: the facts of the case against Prussia, the war on the word, the refusal of reciprocity, the appetite of tyranny, the escape of folly, and the Letters to an Old Garibaldian on the nature of the war.",
+    "pt-BR": "Os ensaios de guerra de 1915: os fatos do caso contra a Prússia, a guerra contra a palavra, a recusa da reciprocidade, o apetite da tirania, a fuga da loucura e as Cartas a um Velho Garibaldino sobre a natureza da guerra."
+  },
+  "composed": "1915",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/appetite-of-tyranny",
+  "editions": {
+    "en-US": {
+      "editor": "Dodd, Mead and Company",
+      "year": 1915
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/11605",
+      "edition": "The Appetite of Tyranny, Including Letters to an Old Garibaldian (Dodd, Mead and Company, 1915), Project Gutenberg #11605.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1915 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-facts-of-the-case",
+      "title": {
+        "en-US": "The Facts of the Case"
+      }
+    },
+    {
+      "id": "ch02-the-war-on-the-word",
+      "title": {
+        "en-US": "I. The War on the Word"
+      }
+    },
+    {
+      "id": "ch03-the-refusal-of-reciprocity",
+      "title": {
+        "en-US": "II. The Refusal of Reciprocity"
+      }
+    },
+    {
+      "id": "ch04-the-appetite-of-tyranny",
+      "title": {
+        "en-US": "III. The Appetite of Tyranny"
+      }
+    },
+    {
+      "id": "ch05-the-escape-of-folly",
+      "title": {
+        "en-US": "IV. The Escape of Folly"
+      }
+    },
+    {
+      "id": "ch06-letters-to-an-old-garibaldian",
+      "title": {
+        "en-US": "Letters to an Old Garibaldian"
+      }
+    }
+  ]
+}
