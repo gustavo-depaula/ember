@@ -10,6 +10,7 @@ import {
   loadPracticeData,
 } from '@/content/resolver'
 import { artFor } from '@/features/explore/artMap'
+import { calendarStart } from '@/features/plan-of-life/program'
 import { localizeContent } from '@/lib/i18n'
 import { bootCorpus } from './corpus'
 import { type Locale, withLocale } from './locale'
@@ -79,6 +80,8 @@ export type PrayerPage = {
   formLabel?: string
   days: DayEntry[]
   dayCount: number
+  /** The first day of this year's round of a novena kept to the calendar, else next year's. */
+  starts?: string
   collections: { id: string; name: string }[]
   isAlternate: boolean
 }
@@ -124,6 +127,7 @@ export async function loadPrayerPage(
         group && manifest.alternativeTo ? localizeContent(manifest.alternativeTo.label) : undefined,
       days,
       dayCount: total > 1 && total <= maxDayPages ? total : 0,
+      starts: manifest.program ? calendarStart(manifest.program, today) : undefined,
       collections: getCollectionsForItem(manifest.id).flatMap((collectionId) => {
         const entry = getEntry(collectionId)
         return entry?.name ? [{ id: collectionId, name: localizeContent(entry.name) }] : []

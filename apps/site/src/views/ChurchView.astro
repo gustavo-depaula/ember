@@ -6,6 +6,8 @@ import ChurchChanges from '~/components/ChurchChanges.astro'
 import Base from '~/layouts/Base.astro'
 import type { Locale } from '~/lib/locale'
 import { churchById, countryName, nearestChurches, placeOf } from '~/lib/massTimes/data'
+import { stateAbbreviation } from '~/lib/massTimes/places'
+import { weekLine } from '~/lib/massTimes/summary'
 import { makeT } from '~/lib/massTimes/t'
 import { churchHtml } from '~/lib/massTimes/view'
 import { href } from '~/routes'
@@ -31,9 +33,20 @@ const { country, region, city } = await placeOf(found)
 const name = church.longName ?? church.name
 const where = [church.city, church.region].filter(Boolean).join(', ')
 const html = churchHtml(church, { t, locale, churchHref: (other) => href.church(locale, other) })
-const description = pt
-  ? `Horários de Missa, confissão e adoração: ${name}${where ? `, ${where}` : ''}. Endereço, telefone e como chegar.`
-  : `Mass, confession and adoration times at ${name}${where ? `, ${where}` : ''}. Address, phone and directions.`
+// The title is the church as it is searched, "Paróquia São José, Goiânia (GO)"; the description
+// leads with its times, which is what the searcher came for.
+const abbreviation = region && stateAbbreviation(country.code, region.slug)
+const shortWhere = church.city && abbreviation ? `${church.city} (${abbreviation})` : where
+const masses = weekLine(church.services, 'mass', locale)
+const confessions = weekLine(church.services, 'confession', locale)
+const description = [
+  masses && `${pt ? 'Missas' : 'Masses'}: ${masses}.`,
+  confessions && `${pt ? 'Confissão' : 'Confession'}: ${confessions}.`,
+  church.address && `${church.address}.`,
+  pt ? 'Horários, mapa e telefone.' : 'Times, map and phone.',
+]
+  .filter(Boolean)
+  .join(' ')
 const nearby = nearestChurches(found, region?.churches ?? country.churches)
 
 const trail = [
@@ -48,7 +61,7 @@ const up = trail[trail.length - 2]
 
 <Base
   locale={locale}
-  title={`${name}${where ? ` — ${where}` : ''}: ${pt ? 'horários de Missa' : 'Mass times'}`}
+  title={`${name}${shortWhere ? `, ${shortWhere}` : ''} — ${pt ? 'horários de Missa' : 'Mass times'}`}
   description={description}
   alternates={alternates}
   section="massTimes"

@@ -67,15 +67,14 @@ const pillars = pt
     : 'Ember Catholic App — Daily Mass readings, saint of the day, prayers and Mass times'}
   alternates={alternates}
   section="home"
-  jsonLd={{
+  jsonLd={pt ? undefined : {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
-    // Search results take the site name from the subdomain's root alone, and pass over a name
-    // as common as "Ember" (Ember.js, the mug) unless a more distinctive one stands behind it.
-    name: 'Ember',
-    alternateName: pt
-      ? ['Ember App Católico', 'Ember Catholic App']
-      : ['Ember Catholic App', 'Ember App Católico'],
+    // Search results take the site name from the subdomain's root page alone, and fall back to
+    // the domain ("dpgu.me") for a name as common as "Ember" (Ember.js, the mug), so the name is
+    // the distinctive one and appears once, on the root, as the og:site_name of every page says.
+    name: 'Ember Catholic App',
+    alternateName: ['Ember', 'Ember App Católico'],
     url: new URL('/', Astro.site).href,
     description: s('description'),
     inLanguage: locale,

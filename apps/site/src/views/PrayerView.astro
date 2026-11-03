@@ -28,16 +28,27 @@ if (!page) throw new Error(`No practice ${id}`)
 
 const dayEntry = day ? page.days[(day - 1) % Math.max(1, page.days.length)] : undefined
 const dayLabel = day ? s('day', { n: day }) : undefined
+// A novena is searched by its day ("novena de santo antônio 6º dia"), not by its dates; the
+// date range goes in the description, for the reader choosing when to begin.
+const range = (() => {
+  if (!page.starts || !page.dayCount) return undefined
+  const [y, m, d] = page.starts.split('-').map(Number)
+  return new Intl.DateTimeFormat(locale, { day: 'numeric', month: 'long', year: 'numeric' }).formatRange(
+    new Date(y, m - 1, d),
+    new Date(y, m - 1, d + page.dayCount - 1),
+  )
+})()
 // A prayer is searched for by its name and what one wants of it: the words, how to pray it, a
 // novena's days. The suffix says which of these the page gives.
 const title = (() => {
-  if (dayLabel) return `${page.name} — ${dayLabel}`
+  if (day) return `${page.name} — ${pt ? `${day}º dia` : `Day ${day}`}`
   if (page.dayCount > 1) return pt ? `${page.name} — os ${page.dayCount} dias` : `${page.name} — all ${page.dayCount} days`
   if (page.howToPray) return pt ? `${page.name}: como rezar, passo a passo` : `${page.name}: how to pray it, step by step`
   return pt ? `${page.name} — oração completa` : `${page.name} — full text`
 })()
+const lead = range && !day ? `${range}. ` : ''
 const description = plainExcerpt(
-  dayEntry?.excerpt ?? page.description ?? page.subtitle ?? page.history ?? page.name,
+  lead + (dayEntry?.excerpt ?? page.description ?? page.subtitle ?? page.history ?? page.name),
 )
 const about = [
   { title: s('aboutThisPrayer'), body: page.description },
