@@ -1,0 +1,314 @@
+{
+  "id": "gueranger-liturgical-year-05-lent",
+  "name": {
+    "en-US": "The Liturgical Year: Lent",
+    "pt-BR": "O Ano Litúrgico: Quaresma"
+  },
+  "author": {
+    "en-US": "Dom Prosper Guéranger",
+    "pt-BR": "Dom Prosper Guéranger"
+  },
+  "description": {
+    "en-US": "Volume 5 of the English Liturgical Year (Lent), translated from L’Année liturgique: one chapter per day or feast, with the Latin liturgical texts beside their English. Made from the Internet Archive scan of the 1912 printing; the two-column Latin and English text is separated by script, so some lines may be misassigned.",
+    "pt-BR": "Volume 5 do «Liturgical Year» em inglês (Quaresma), traduzido de L’Année liturgique: um capítulo por dia ou festa, com os textos litúrgicos em latim ao lado do inglês."
+  },
+  "composed": "1857",
+  "languages": [
+    "en-US"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "en-US": {
+      "translator": "Rev. Dom Laurence Shepherd (Stanbrook Abbey)",
+      "year": 1912
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/V05TheLiturgicalYear",
+      "edition": "The Liturgical Year, Lent, translated from the French of Dom Prosper Guéranger; printing of 1912 (Stanbrook Abbey / Duffy). Internet Archive scan, OCR text.",
+      "description": "Split at each day or feast heading detected in the running text; running heads and page numbers removed; the Latin and English columns of the liturgical texts, interleaved line by line in the OCR, were separated by language and set as a Latin paragraph followed by its English.",
+      "tier": "A",
+      "tierEvidence": "Guéranger (d. 1875) and the translation printed 1870-1912: public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "002-chapter-the-first-the-history-of-lent",
+      "title": {
+        "en-US": "Chapter the First the History of Lent"
+      }
+    },
+    {
+      "id": "003-chapter-the-second-the-mystery-of-lent",
+      "title": {
+        "en-US": "Chapter the Second the Mystery of Lent"
+      }
+    },
+    {
+      "id": "004-chapter-the-fourth-morning-and-night-prayers-dur",
+      "title": {
+        "en-US": "Chapter the Fourth Morning and Night Prayers During Lent"
+      }
+    },
+    {
+      "id": "005-chapter-the-fifth-on-hearing-mass-during-the-sea",
+      "title": {
+        "en-US": "Chapter the Fifth on Hearing Mass, During the Season of Lent"
+      }
+    },
+    {
+      "id": "006-chapter-the-sixth-on-holy-communion-during-lent",
+      "title": {
+        "en-US": "Chapter the Sixth on Holy Communion During Lent"
+      }
+    },
+    {
+      "id": "007-chapter-the-eighth-on-the-office-of-compline-dur",
+      "title": {
+        "en-US": "Chapter the Eighth on the Office of Compline During Lent"
+      }
+    },
+    {
+      "id": "008-april-9-blessed-virgin",
+      "title": {
+        "en-US": "April 9 — Blessed Virgin"
+      }
+    },
+    {
+      "id": "009-the-first-sunday-of-lent",
+      "title": {
+        "en-US": "The First Sunday of Lent"
+      }
+    },
+    {
+      "id": "010-monday-first-week-of-lent",
+      "title": {
+        "en-US": "Monday, First Week of Lent"
+      }
+    },
+    {
+      "id": "011-tuesday-of-the-first-week-of-lent",
+      "title": {
+        "en-US": "Tuesday of the First Week of Lent"
+      }
+    },
+    {
+      "id": "012-wednesday-in-ember-week",
+      "title": {
+        "en-US": "Wednesday in Ember Week"
+      }
+    },
+    {
+      "id": "013-thursday-op-the-first-week-of-lent",
+      "title": {
+        "en-US": "Thursday Op the First Week of Lent"
+      }
+    },
+    {
+      "id": "014-friday-in-ember-week",
+      "title": {
+        "en-US": "Friday in Ember Week"
+      }
+    },
+    {
+      "id": "015-saturday-in-ember-week",
+      "title": {
+        "en-US": "Saturday in Ember Week"
+      }
+    },
+    {
+      "id": "016-the-second-sunday-of-lent",
+      "title": {
+        "en-US": "The Second Sunday of Lent"
+      }
+    },
+    {
+      "id": "017-monday-of-the-second-week-op-lent",
+      "title": {
+        "en-US": "Monday of the Second Week Op Lent"
+      }
+    },
+    {
+      "id": "018-tuesday-of-the-second-week-op-lent",
+      "title": {
+        "en-US": "Tuesday of the Second Week Op Lent"
+      }
+    },
+    {
+      "id": "019-wednesday-of-the-second-week-of-lent",
+      "title": {
+        "en-US": "Wednesday of the Second Week of Lent"
+      }
+    },
+    {
+      "id": "020-thursday-op-the-second-week-op-lent",
+      "title": {
+        "en-US": "Thursday Op the Second Week Op Lent"
+      }
+    },
+    {
+      "id": "021-friday-of-the-second-week-of-lent",
+      "title": {
+        "en-US": "Friday of the Second Week of Lent"
+      }
+    },
+    {
+      "id": "022-saturday-op-the-second-week-op-lent",
+      "title": {
+        "en-US": "Saturday Op the Second Week Op Lent"
+      }
+    },
+    {
+      "id": "023-the-third-sunday-of-lent",
+      "title": {
+        "en-US": "The Third Sunday of Lent"
+      }
+    },
+    {
+      "id": "024-monday-op-the-third-week-op-lent",
+      "title": {
+        "en-US": "Monday Op the Third Week Op Lent"
+      }
+    },
+    {
+      "id": "025-tuesday-of-the-third-week-of-lent",
+      "title": {
+        "en-US": "Tuesday of the Third Week of Lent"
+      }
+    },
+    {
+      "id": "026-wednesday-of-the-third-week-of-lent",
+      "title": {
+        "en-US": "Wednesday of the Third Week of Lent"
+      }
+    },
+    {
+      "id": "027-thursday-of-the-third-week-op-lent",
+      "title": {
+        "en-US": "Thursday of the Third Week Op Lent"
+      }
+    },
+    {
+      "id": "028-friday-third-week-of-lent",
+      "title": {
+        "en-US": "Friday, Third Week of Lent"
+      }
+    },
+    {
+      "id": "029-saturday-of-the-third-week-of-lent",
+      "title": {
+        "en-US": "Saturday of the Third Week of Lent"
+      }
+    },
+    {
+      "id": "030-the-fourth-sunday-of-lent",
+      "title": {
+        "en-US": "The Fourth Sunday of Lent"
+      }
+    },
+    {
+      "id": "031-monday-of-the-fourth-week-of-lent",
+      "title": {
+        "en-US": "Monday of the Fourth Week of Lent"
+      }
+    },
+    {
+      "id": "032-tuesday-of-the-fourth-week-of-lent",
+      "title": {
+        "en-US": "Tuesday of the Fourth Week of Lent"
+      }
+    },
+    {
+      "id": "033-wednesday-of-the-fourth-week-of-lent",
+      "title": {
+        "en-US": "Wednesday of the Fourth Week of Lent"
+      }
+    },
+    {
+      "id": "034-thursday-of-the-fourth-week-of-lent",
+      "title": {
+        "en-US": "Thursday of the Fourth Week of Lent"
+      }
+    },
+    {
+      "id": "035-friday-op-the-fourth-week-of-lent",
+      "title": {
+        "en-US": "Friday Op the Fourth Week of Lent"
+      }
+    },
+    {
+      "id": "036-saturday-fourth-week-op-lent",
+      "title": {
+        "en-US": "Saturday, Fourth Week Op Lent"
+      }
+    },
+    {
+      "id": "037-march-12-saint-gregory-the-great-pope-and-doctor",
+      "title": {
+        "en-US": "March 12 — Saint Gregory the Great Pope and Doctor of the Church"
+      }
+    },
+    {
+      "id": "038-march-17-saint-patrick-apostle-of-ireland",
+      "title": {
+        "en-US": "March 17 — Saint Patrick, Apostle of Ireland"
+      }
+    },
+    {
+      "id": "039-march-18-saint-gabriel-the-archangel",
+      "title": {
+        "en-US": "March 18 — Saint Gabriel, the Archangel"
+      }
+    },
+    {
+      "id": "040-march-19-saint-joseph-spouse-op-the-blessed-virg",
+      "title": {
+        "en-US": "March 19 — Saint Joseph Spouse Op the Blessed Virgin"
+      }
+    },
+    {
+      "id": "041-march-21-saint-benedict-abbot-saint-benedict",
+      "title": {
+        "en-US": "March 21 — Saint Benedict Abbot Saint Benedict"
+      }
+    },
+    {
+      "id": "042-the-annunciation-op-the-ever-blessed-virgin",
+      "title": {
+        "en-US": "The Annunciation Op the Ever Blessed Virgin"
+      }
+    },
+    {
+      "id": "043-april-2-saint-francis-of-paula-confessor",
+      "title": {
+        "en-US": "April 2 — Saint Francis of Paula Confessor"
+      }
+    },
+    {
+      "id": "044-april-4-saint-isidore-bishop-and-doctor-of-the-c",
+      "title": {
+        "en-US": "April 4 — Saint Isidore Bishop and Doctor of the Church"
+      }
+    },
+    {
+      "id": "045-april-5-saint-vincent-ferrer-confessor",
+      "title": {
+        "en-US": "April 5 — Saint Vincent Ferrer Confessor"
+      }
+    },
+    {
+      "id": "046-april-9-saint-mary-op-egypt",
+      "title": {
+        "en-US": "April 9 — Saint Mary Op Egypt"
+      }
+    }
+  ]
+}
