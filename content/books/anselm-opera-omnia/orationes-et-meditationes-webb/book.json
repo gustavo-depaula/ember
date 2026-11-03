@@ -1,0 +1,130 @@
+{
+  "id": "anselm-orationes-et-meditationes-webb",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Devotions of Saint Anselm",
+    "pt-BR": "As Devoções de Santo Anselmo"
+  },
+  "author": {
+    "la": "Anselmus Cantuariensis",
+    "en-US": "St. Anselm of Canterbury",
+    "pt-BR": "Santo Anselmo de Cantuária"
+  },
+  "description": {
+    "en-US": "C. C. J. Webb's English (Methuen, Library of Devotion, 1903) of a selection from Anselm's Orationes sive meditationes: his preface, Meditations I-IV and four prayers, with five letters of spiritual counsel. Webb's selection and numbering differ from the Latin book, so it is a separate book of the same work.",
+    "pt-BR": "A tradução inglesa de C. C. J. Webb (1903) de uma seleção das orações e meditações de Anselmo, com cinco cartas de direção espiritual."
+  },
+  "composed": "1070-1109",
+  "languages": [
+    "en-US"
+  ],
+  "work": "anselm/orationes-et-meditationes",
+  "editions": {
+    "en-US": {
+      "translator": "Clement C. J. Webb",
+      "year": 1903
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/devotionofsaint00anseuoft",
+      "edition": "The Devotions of Saint Anselm, Archbishop of Canterbury, edited by Clement C. J. Webb (London: Methuen, 1903).",
+      "description": "Djvu OCR cleaned by script, not proofread. The Proslogion, Webb's introduction and note on its argument are not imported (the Proslogion is in its own book). Webb's footnotes are kept as footnotes where the OCR keeps the markers legible and dropped otherwise; the drop capitals the OCR lost at the head of each piece are restored by hand.",
+      "tier": "A",
+      "tierEvidence": "Published in 1903, before 1931: public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "en-US": "Preface to the Meditations and Prayers"
+      }
+    },
+    {
+      "id": "meditatio-1",
+      "title": {
+        "en-US": "Meditation I. Concerning the Dignity and the Misery of Human Nature"
+      }
+    },
+    {
+      "id": "meditatio-2",
+      "title": {
+        "en-US": "Meditation II. Concerning the Terrors of the Day of Judgment: An Incentive to Tears"
+      }
+    },
+    {
+      "id": "meditatio-3",
+      "title": {
+        "en-US": "Meditation III. To Encourage the Spirit Not to Fall into Despair, since, if We Truly Repent, We Shall Without Doubt Find Mercy for All Our Sins"
+      }
+    },
+    {
+      "id": "meditatio-4",
+      "title": {
+        "en-US": "Meditation IV. Concerning the Redemption of Mankind"
+      }
+    },
+    {
+      "id": "oratio-1",
+      "title": {
+        "en-US": "Prayer I. A Prayer of Praise and Thanksgiving to God"
+      }
+    },
+    {
+      "id": "oratio-2",
+      "title": {
+        "en-US": "Prayer II. A Prayer to the Holy Spirit"
+      }
+    },
+    {
+      "id": "oratio-3",
+      "title": {
+        "en-US": "Prayer III. A Prayer to Christ for My Friends"
+      }
+    },
+    {
+      "id": "oratio-4",
+      "title": {
+        "en-US": "Prayer IV. A Prayer to Christ for My Enemies"
+      }
+    },
+    {
+      "id": "epistolae-intro",
+      "title": {
+        "en-US": "Letters of Spiritual Counsel: Introductory Note"
+      }
+    },
+    {
+      "id": "epistola-1",
+      "title": {
+        "en-US": "Letter I. To Ralph"
+      }
+    },
+    {
+      "id": "epistola-2",
+      "title": {
+        "en-US": "Letter II. To Herlwin, Gondulf, and Maurice, Monks of Bec Sojourning in Christ Church, Canterbury"
+      }
+    },
+    {
+      "id": "epistola-3",
+      "title": {
+        "en-US": "Letter III. To Burgundius and His Wife Richera, on Burgundius' Departure as a Pilgrim to Jerusalem"
+      }
+    },
+    {
+      "id": "epistola-4",
+      "title": {
+        "en-US": "Letter IV. To Alexander, King of Scots"
+      }
+    },
+    {
+      "id": "epistola-5",
+      "title": {
+        "en-US": "Letter V. To Robert and the Devout Women under His Care"
+      }
+    }
+  ]
+}
