@@ -1,0 +1,351 @@
+{
+  "id": "gueranger-annee-liturgique-03-noel-2",
+  "name": {
+    "fr-FR": "L’Année liturgique : le temps de Noël, II",
+    "en-US": "The Liturgical Year: Christmas, Book II",
+    "pt-BR": "O Ano Litúrgico: o tempo do Natal, II"
+  },
+  "author": {
+    "fr-FR": "Dom Prosper Guéranger",
+    "en-US": "Dom Prosper Guéranger",
+    "pt-BR": "Dom Prosper Guéranger"
+  },
+  "description": {
+    "fr-FR": "Troisième volume de l’Année liturgique : le temps de Noël depuis l’Épiphanie, les prières, le Propre de l’Épiphanie au 14 janvier, puis les fêtes de janvier et de février jusqu’à la Quinquagésime.",
+    "en-US": "Volume 3 of the 15-volume Liturgical Year (L’Année liturgique) in the original French: Christmas, Book II. One chapter per day or feast, with the liturgical texts in Latin and French as the edition prints them.",
+    "pt-BR": "Volume 3 dos 15 volumes de «O Ano Litúrgico» (L’Année liturgique) em francês: o tempo do Natal, II. Um capítulo por dia ou festa, com os textos litúrgicos em latim e francês como a edição os imprime."
+  },
+  "composed": 1853,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "gueranger/annee-liturgique",
+  "editions": {
+    "fr-FR": {
+      "editor": "Dom Prosper Guéranger, abbé de Solesmes (14th ed., Oudin)",
+      "year": 1900
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://domgueranger.net/lannee-liturgique-temps-de-noel-a-partir-de-lepiphanie-preface-et-prieres/",
+      "edition": "L’Année liturgique, vol. 3, 14th ed. (Oudin, 1900)",
+      "description": "Dom Guéranger site (Societas pro canonizatione D. Guéranger), WordPress text of the 14th edition (1900). Split at each day or feast heading; verse kept as hard line breaks; footnotes renumbered per chapter.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; the text is the 19th-century edition transcribed."
+    },
+    {
+      "language": "fr-FR",
+      "url": "https://domgueranger.net/lannee-liturgique-temps-de-noel-de-lepiphanie-au-14-janvier/",
+      "edition": "L’Année liturgique, vol. 3, 14th ed. (Oudin, 1900)",
+      "description": "Dom Guéranger site (Societas pro canonizatione D. Guéranger), WordPress text of the 14th edition (1900). Split at each day or feast heading; verse kept as hard line breaks; footnotes renumbered per chapter.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; the text is the 19th-century edition transcribed."
+    },
+    {
+      "language": "fr-FR",
+      "url": "https://domgueranger.net/lannee-liturgique-le-temps-de-noel-du-14-janvier-a-la-quinquagesime/",
+      "edition": "L’Année liturgique, vol. 3, 14th ed. (Oudin, 1900)",
+      "description": "Dom Guéranger site (Societas pro canonizatione D. Guéranger), WordPress text of the 14th edition (1900). Split at each day or feast heading; verse kept as hard line breaks; footnotes renumbered per chapter.",
+      "tier": "A",
+      "tierEvidence": "Guéranger died in 1875; the text is the 19th-century edition transcribed."
+    }
+  ],
+  "toc": [
+    {
+      "id": "001-le-temps-de-noel-depuis-lepiphanie",
+      "title": {
+        "fr-FR": "Le temps de Noël depuis l’Épiphanie"
+      }
+    },
+    {
+      "id": "002-chapitre-premier-prieres-du-matin-et-du-soir",
+      "title": {
+        "fr-FR": "Chapitre premier — Prieres du matin et du soir"
+      }
+    },
+    {
+      "id": "003-chapitre-ii-de-lassistance-a-la-sainte-messe-au",
+      "title": {
+        "fr-FR": "Chapitre II — De l’assistance à la Sainte Messe au temps de Noël"
+      }
+    },
+    {
+      "id": "004-chapitre-iii-pratique-de-la-sainte-communion-au",
+      "title": {
+        "fr-FR": "Chapitre III — Pratique de la Sainte Communion au temps de Noël"
+      }
+    },
+    {
+      "id": "005-chapitre-iv-des-offices-de-tierce-sexte-et-none",
+      "title": {
+        "fr-FR": "Chapitre IV — Des offices de tierce, sexte et none au temps de Noël"
+      }
+    },
+    {
+      "id": "006-chapitre-v-de-loffice-des-vepres-des-dimanches-a",
+      "title": {
+        "fr-FR": "Chapitre V — De l’office des vêpres des dimanches, au temps de Noël"
+      }
+    },
+    {
+      "id": "007-chapitre-vi-de-loffice-de-complies-au-temps-de-n",
+      "title": {
+        "fr-FR": "Chapitre VI — De l’office de complies, au temps de Noël"
+      }
+    },
+    {
+      "id": "008-lepiphanie",
+      "title": {
+        "fr-FR": "L’Épiphanie"
+      }
+    },
+    {
+      "id": "009-6-janvier",
+      "title": {
+        "fr-FR": "6 janvier"
+      }
+    },
+    {
+      "id": "010-le-dimanche-dans-loctave-de-lepiphanie",
+      "title": {
+        "fr-FR": "Le dimanche dans l’octave de l’Épiphanie"
+      }
+    },
+    {
+      "id": "011-7-janvier-le-deuxieme-jour-dans-loctave-de-lepip",
+      "title": {
+        "fr-FR": "7 janvier — Le deuxième jour dans l’octave de l’Épiphanie"
+      }
+    },
+    {
+      "id": "012-8-janvier-le-troisieme-jour-dans-loctave-de-lepi",
+      "title": {
+        "fr-FR": "8 janvier — Le troisième jour dans l’octave de l’Épiphanie"
+      }
+    },
+    {
+      "id": "013-9-janvier-le-quatrieme-jour-dans-loctave-de-lepi",
+      "title": {
+        "fr-FR": "9 janvier — Le quatrième jour dans l’octave de l’Épiphanie"
+      }
+    },
+    {
+      "id": "014-10-janvier-le-cinquieme-jour-dans-loctave-de-lep",
+      "title": {
+        "fr-FR": "10 janvier — Le cinquième jour dans l’octave de l’Épiphanie"
+      }
+    },
+    {
+      "id": "015-11-janvier-le-sixieme-jour-dans-loctave-de-lepip",
+      "title": {
+        "fr-FR": "11 janvier — Le sixième jour dans l’octave de l’Épiphanie"
+      }
+    },
+    {
+      "id": "016-12-janvier-le-septieme-jour-dans-loctave-de-lepi",
+      "title": {
+        "fr-FR": "12 janvier — Le septième jour dans l’octave de l’Épiphanie"
+      }
+    },
+    {
+      "id": "017-13-janvier-loctave-de-lepiphanie",
+      "title": {
+        "fr-FR": "13 janvier — L’octave de l’Épiphanie"
+      }
+    },
+    {
+      "id": "018-le-deuxieme-dimanche-apres-lepiphanie-la-fete-du",
+      "title": {
+        "fr-FR": "Le deuxième dimanche après l’Épiphanie. la fête du très Saint Nom de Jésus"
+      }
+    },
+    {
+      "id": "019-14-janvier-saint-hilaire-eveque-et-docteur-de-le",
+      "title": {
+        "fr-FR": "14 janvier — Saint Hilaire, évêque et Docteur de l’Église"
+      }
+    },
+    {
+      "id": "020-14-janvier-saint-felix-pretre-et-martyr",
+      "title": {
+        "fr-FR": "14 janvier — Saint Félix, prêtre et martyr"
+      }
+    },
+    {
+      "id": "021-15-janvier-saint-paul-premier-ermite",
+      "title": {
+        "fr-FR": "15 janvier — Saint Paul, premier ermite"
+      }
+    },
+    {
+      "id": "022-15-janvier-saint-maur-abbe",
+      "title": {
+        "fr-FR": "15 janvier — Saint Maur, abbé"
+      }
+    },
+    {
+      "id": "023-16-janvier-saint-marcel-pape-et-martyr",
+      "title": {
+        "fr-FR": "16 janvier — Saint Marcel, Pape et martyr"
+      }
+    },
+    {
+      "id": "024-17-janvier-saint-antoine-abbe",
+      "title": {
+        "fr-FR": "17 janvier — Saint Antoine, abbé"
+      }
+    },
+    {
+      "id": "025-18-janvier-la-chaire-de-saint-pierre-a-rome",
+      "title": {
+        "fr-FR": "18 janvier — La chaire de Saint Pierre a rome"
+      }
+    },
+    {
+      "id": "026-19-janvier-saint-canut-roi-et-martyr",
+      "title": {
+        "fr-FR": "19 janvier — Saint Canut, roi et martyr"
+      }
+    },
+    {
+      "id": "027-20-janvier-saint-fabien-pape-et-martyr-et-saint",
+      "title": {
+        "fr-FR": "20 janvier — Saint Fabien, Pape et martyr, et Saint Sébastien, martyr"
+      }
+    },
+    {
+      "id": "028-21-janvier-sainte-agnes-vierge-et-martyre",
+      "title": {
+        "fr-FR": "21 janvier — Sainte Agnès, Vierge et martyre"
+      }
+    },
+    {
+      "id": "029-22-janvier-saint-vincent-diacre-et-martyr-et-sai",
+      "title": {
+        "fr-FR": "22 janvier — Saint Vincent, diacre et martyr, et Saint Anastase, martyr"
+      }
+    },
+    {
+      "id": "030-23-janvier-saint-raymond-de-pegnafort-confesseur",
+      "title": {
+        "fr-FR": "23 janvier — Saint Raymond de pegnafort, confesseur"
+      }
+    },
+    {
+      "id": "031-23-janvier-saint-ildefonse-eveque-et-confesseur",
+      "title": {
+        "fr-FR": "23 janvier — Saint Ildefonse, évêque et confesseur"
+      }
+    },
+    {
+      "id": "032-24-janvier-saint-timothee-eveque-et-martyr",
+      "title": {
+        "fr-FR": "24 janvier — Saint Timothée, évêque et martyr"
+      }
+    },
+    {
+      "id": "033-25-janvier-la-conversion-de-saint-paul",
+      "title": {
+        "fr-FR": "25 janvier — La conversion de Saint Paul"
+      }
+    },
+    {
+      "id": "034-26-janvier-saint-polycarpe-eveque-et-martyr",
+      "title": {
+        "fr-FR": "26 janvier — Saint Polycarpe, évêque et martyr"
+      }
+    },
+    {
+      "id": "035-26-janvier-sainte-paule-veuve",
+      "title": {
+        "fr-FR": "26 janvier — Sainte Paule, veuve"
+      }
+    },
+    {
+      "id": "036-27-janvier-saint-jean-chrysostome-eveque-et-doct",
+      "title": {
+        "fr-FR": "27 janvier — Saint Jean chrysostome, évêque et Docteur de l’Église"
+      }
+    },
+    {
+      "id": "037-27-janvier-saint-julien-eveque-du-mans",
+      "title": {
+        "fr-FR": "27 janvier — Saint Julien, évêque du mans"
+      }
+    },
+    {
+      "id": "038-28-janvier-sainte-agnes-pour-la-seconde-fois",
+      "title": {
+        "fr-FR": "28 janvier — Sainte Agnès, pour la seconde fois"
+      }
+    },
+    {
+      "id": "039-28-janvier-le-bienheureux-charlemagne-empereur",
+      "title": {
+        "fr-FR": "28 janvier — Le bienheureux charlemagne, empereur"
+      }
+    },
+    {
+      "id": "040-29-janvier-saint-francois-de-sales-eveque-et-doc",
+      "title": {
+        "fr-FR": "29 janvier — Saint François de sales, évêque et Docteur de l’Église"
+      }
+    },
+    {
+      "id": "041-30-janvier-sainte-martine-vierge-et-martyre",
+      "title": {
+        "fr-FR": "30 janvier — Sainte Martine,Vierge et martyre"
+      }
+    },
+    {
+      "id": "042-30-janvier-sainte-bathilde-reine-de-france",
+      "title": {
+        "fr-FR": "30 janvier — Sainte Bathilde, reine de france"
+      }
+    },
+    {
+      "id": "043-31-janvier-saint-pierre-nolasque-confesseur",
+      "title": {
+        "fr-FR": "31 janvier — Saint Pierre nolasque, confesseur"
+      }
+    },
+    {
+      "id": "044-2-fevrier-la-purification-de-la-tres-sainte-vier",
+      "title": {
+        "fr-FR": "2 février — La purification de la très Sainte Vierge"
+      }
+    },
+    {
+      "id": "045-le-troisieme-dimanche-apres-l-epiphanie",
+      "title": {
+        "fr-FR": "Le troisième dimanche après l’ Épiphanie"
+      }
+    },
+    {
+      "id": "046-le-quatrieme-dimanche-apres-lepiphanie",
+      "title": {
+        "fr-FR": "Le quatrième dimanche après l’Épiphanie"
+      }
+    },
+    {
+      "id": "047-le-dimanche-de-la-septuagesime",
+      "title": {
+        "fr-FR": "Le dimanche de la Septuagésime"
+      }
+    },
+    {
+      "id": "048-le-dimanche-de-la-sexagesime",
+      "title": {
+        "fr-FR": "Le dimanche de la Sexagésime"
+      }
+    },
+    {
+      "id": "049-le-dimanche-de-la-quinquagesime",
+      "title": {
+        "fr-FR": "Le dimanche de la Quinquagésime"
+      }
+    }
+  ]
+}
