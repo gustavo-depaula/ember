@@ -6,5 +6,33 @@
   "century": 19,
   "matches": [
     "Third Plenary Council of Baltimore"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "note": {
+        "en-US": "The two catechisms the Council ordered, the shorter first.",
+        "pt-BR": "Os dois catecismos que o Concílio determinou, o mais curto primeiro."
+      },
+      "works": [
+        {
+          "work": "third-plenary-council-of-baltimore/catechism-no-1",
+          "why": {
+            "en-US": "Baltimore Catechism No. 1, the abridged form",
+            "pt-BR": "Catecismo de Baltimore nº 1, a forma abreviada"
+          }
+        },
+        {
+          "work": "third-plenary-council-of-baltimore/catechism",
+          "why": {
+            "en-US": "Baltimore Catechism No. 2, the fuller form",
+            "pt-BR": "Catecismo de Baltimore nº 2, a forma mais ampla"
+          }
+        }
+      ]
+    }
   ]
 }
