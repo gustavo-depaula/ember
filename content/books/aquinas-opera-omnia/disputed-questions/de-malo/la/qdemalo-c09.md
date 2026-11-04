@@ -56,7 +56,7 @@ Ad quintum dicendum, quod pro praemio promittitur gloria non vana, sed vera, qua
 
 Ad sextum dicendum, quod plures hominum ad bona spiritualia propter aliqua bona temporalia incitantur; non tamen propter hoc inordinata cupiditas bonorum temporalium vitio caret; ita etiam, etsi plurimi propter gloriam, virtutis opera faciant, non tamen propter hoc inordinatus appetitus gloriae vitio caret, quia virtutis opera non sunt propter gloriam facienda, sed magis propter bonum virtutis, vel potius propter Deum.  
 
-Ad septimum dicendum, quod, sicut Sallustius ibi subdit, *boni nituntur ad gloriam vera via, idest per virtutem*. Hoc autem non est inaniter appetere gloriam, sed ad eam inordinate conari.  
+Ad septimum dicendum, quod, sicut Sallustius ibi subdit, *boni nituntur ad gloriam vera via, idest per virtutem*. Hoc autem non est inaniter appetere gloriam, sed ad eam ordinate conari.  
 
 Ad octavum dicendum, quod iudicium bene opinantium de aliquo, ita ad inanem gloriam pertinet dum absque utilitate appetitur.  
 

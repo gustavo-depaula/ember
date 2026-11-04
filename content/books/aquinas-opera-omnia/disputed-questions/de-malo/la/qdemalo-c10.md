@@ -62,7 +62,7 @@ Ad nonum dicendum, quod quibusdam peccatis adiunguntur quaedam poenalitates; et 
 
 Ad decimum dicendum, quod omne peccatum est amor improbus per causam, non per essentiam; quia omnis affectio animae, etiam tristitia, ex amore procedit, ut Augustinus in eodem libro dicit.  
 
-Ad undecimum dicendum, quod Aristoteles I Rhetor., distinguens inter zelum et invidiam, dicit: *zelus ex bonis est virtuosorum; invidere autem est proelium pravorum*. Zelans enim seipsum praeparat propter aemulationem, ut obtineat bona, invidus autem, ut proximus non habeat, propter invidiam; invidia enim est cum aliquis tristatur de hoc quod proximus habet bona quae ipse non habet; zelus autem est cum aliquis tristatur de hoc quod ipse non habet bona quae proximus habet. Hieronymus autem in auctoritate praedicta accepit invidiam pro zelo. Est enim laudabile ut aliquis addiscens conetur ad addiscendum quae alius addiscit, secundum illud apostoli I Cor., XII, 31: *aemulamini charismata meliora*.  
+Ad undecimum dicendum, quod Aristoteles I Rhetor., distinguens inter zelum et invidiam, dicit: *zelus ex bonis est virtuosorum; invidere autem est proprium pravorum*. Zelans enim seipsum praeparat propter aemulationem, ut obtineat bona, invidus autem, ut proximus non habeat, propter invidiam; invidia enim est cum aliquis tristatur de hoc quod proximus habet bona quae ipse non habet; zelus autem est cum aliquis tristatur de hoc quod ipse non habet bona quae proximus habet. Hieronymus autem in auctoritate praedicta accepit invidiam pro zelo. Est enim laudabile ut aliquis addiscens conetur ad addiscendum quae alius addiscit, secundum illud apostoli I Cor., XII, 31: *aemulamini charismata meliora*.  
 
 Articulus 2  
 
@@ -110,7 +110,7 @@ Ad primum ergo dicendum, quod quia in definitione alicuius non ponitur id quod e
 
 Contingit autem aliquem tristari de felicitate alterius propter alias rationes quae ad invidiam non pertinent, sed quandoque ad alia vitia. Quicumque enim odit aliquem, tristatur de felicitate eius, non in quantum est excellentia quaedam, sed in quantum est simpliciter bonum quoddam eius quem odit. Cum enim aliquis inimico velit malum, consequens est quod de omni bono eius tristetur.  
 
-Unde haec est differentia inter invidentem et odientem: quia invidens non tristatur de bono alterius nisi per hoc quod excellitur, vel singularitatem suae gloriae admittit; odiens autem de quocumque bono inimici tristatur.  
+Unde haec est differentia inter invidentem et odientem: quia invidens non tristatur de bono alterius nisi per hoc quod excellitur, vel singularitatem suae gloriae amittit; odiens autem de quocumque bono inimici tristatur.  
 
 Potest etiam esse et alia ratio, quare aliquis de felicitate alterius tristetur, quia scilicet timet ex hoc aliquod nocumentum sibi provenire, vel aliquibus quos amat; quod magis est timoris quam invidiae, ut philosophus dicit in II Rhetor. Contingit autem timorem esse et bonum et malum; unde hoc potest fieri et cum peccato, quando timor est malus, et sine peccato, quando timor est bonus. Unde Gregorius praemissa verba exponens subdit, quod hoc credimus, cum ruente aliquo quosdam bene erigi credimus; et proficiente illo plures iniuste opprimi formidamus. Unde etiam interponit, quod talis tristitia est sine invidiae culpa.  
 

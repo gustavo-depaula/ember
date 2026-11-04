@@ -118,7 +118,7 @@ Et similiter dicendum est ad decimumseptimum; quia etiam concupiscentia ibi acci
 
 Ad decimumoctavum dicendum, quod divitiae ex hoc quod habent rationem boni utilis, deficiunt quidem a ratione principalis finis; sed hic defectus recompensatur propter generalem utilitatem divitiarum, quae quodammodo virtute continent omnia appetibilia mundana.  
 
-Ad decimumnonum dicendum, quod sicut philosophus dicit in II Rhetor., amare est velle bonum alicui. In hoc ergo quod homo appetit sibi quaecumque bona, videtur amare seipsum; et ideo amor sui ipsius non punitur seorsum vel radix peccati, vel etiam vitium capitale, quia omnes radices et capita vitiorum includunt inordinatum sui amorem.  
+Ad decimumnonum dicendum, quod sicut philosophus dicit in II Rhetor., amare est velle bonum alicui. In hoc ergo quod homo appetit sibi quaecumque bona, videtur amare seipsum; et ideo amor sui ipsius non ponitur seorsum vel radix peccati, vel etiam vitium capitale, quia omnes radices et capita vitiorum includunt inordinatum sui amorem.  
 
 Ad vicesimum dicendum, quod timor et spes sunt passiones irascibilis. Omnes autem passiones irascibilis derivantur a passionibus concupiscibilis; et ideo prima capita vitiorum non sumuntur penes timorem et spem, sed magis penes delectationem et tristitiam. Quamvis enim aliqua vitia ex timore et spe oriantur, tamen etiam ipse timor et spes ex aliis oriuntur, scilicet ex amore vel cupiditate alicuius boni.  
 
@@ -158,7 +158,7 @@ Praeterea, super illud Eccli. X, 14: *initium peccati hominis apostatare a Deo*,
 
 Praeterea, in eodem capitulo dicit alia Glossa: *caveamus cupiditatem et superbiam, non duo mala, sed unum*. Ergo superbia non est peccatum speciale ab aliis distinctum.  
 
-Praeterea, super illud Iob XXXIII, 17: *ut avertat hominem ab iniquitate*, dicit Glossa: *contra conditionem superbire, est eius praecepta peccando transcendere*. Sed quicumque peccat, transgreditur Dei praecepta; dicit enim Augustinus XXIII contra Faustum, quod peccatum est dictum vel factum vel concupitum contra legem aeternam. Ergo quicumque peccat, superbit, et omne peccatum est superbia.  
+Praeterea, super illud Iob XXXIII, 17: *ut avertat hominem ab iniquitate*, dicit Glossa: *contra conditorem superbire, est eius praecepta peccando transcendere*. Sed quicumque peccat, transgreditur Dei praecepta; dicit enim Augustinus XXIII contra Faustum, quod peccatum est dictum vel factum vel concupitum contra legem aeternam. Ergo quicumque peccat, superbit, et omne peccatum est superbia.  
 
 Praeterea, Anselmus dicit, quod anima ex necessitate appetit proprium bonum. Quod autem fit ex necessitate, non est peccatum. Ergo superbia non est peccatum; et ita non est speciale peccatum.  
 

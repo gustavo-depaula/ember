@@ -94,7 +94,7 @@ Si ergo dispositio, per quam alicui videtur aliquid bonum et conveniens, fuerit 
 
 Sic ergo quantum ad aliqua voluntas ex necessitate movetur ex parte obiecti, non autem quantum ad omnia; sed ex parte exercitii actus, non ex necessitate movetur.  
 
-Ad primum ergo dicendum, quod actualitas illa dupliciter potest intelligi. Uno modo ut loquatur propheta quantum ad executionem electionis: non enim est in potestate hominis ut expleat in effectu quod mente deliberat. Alio modo potest intelligi quantum ad hoc quod etiam interior voluntas movetur ab aliquo superiori principio, quod est Deus; et secundum hoc apostolus dicit, quod non est volentis, scilicet velle, neque currentis, currere, sicut primi principii, sed Dei miserentis.  
+Ad primum ergo dicendum, quod auctoritas illa dupliciter potest intelligi. Uno modo ut loquatur propheta quantum ad executionem electionis: non enim est in potestate hominis ut expleat in effectu quod mente deliberat. Alio modo potest intelligi quantum ad hoc quod etiam interior voluntas movetur ab aliquo superiori principio, quod est Deus; et secundum hoc apostolus dicit, quod non est volentis, scilicet velle, neque currentis, currere, sicut primi principii, sed Dei miserentis.  
 
 Unde patet solutio ad secundum.  
 
