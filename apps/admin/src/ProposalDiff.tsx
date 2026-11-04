@@ -242,10 +242,10 @@ export function ProposalDiff({
           )
         })}
 
-        {draft.created.map(({ key, lat, lng, record }) => (
+        {draft.created.map(({ key, lat, lng, standalone, record }) => (
           <div key={key} className="church-diff">
             <h4>
-              <span className="chip chip--good">new</span>
+              <span className="chip chip--good">{standalone ? 'new church' : 'new chapel'}</span>
               {record.fields.name || 'Unnamed church'}
               <span className="muted">
                 {record.fields.address}
@@ -334,13 +334,14 @@ export function ProposalDiff({
                       key: `new-${Date.now()}`,
                       lat: String(item.church?.lat ?? ''),
                       lng: String(item.church?.lng ?? ''),
+                      standalone: false,
                       record: recordOf(undefined),
                     },
                   ],
                 })
               }
             >
-              Add a missing chapel
+              Add a missing church
             </button>
           </div>
         ) : null}

@@ -42,7 +42,14 @@ export type Draft = {
   record: RecordDraft
   related: Array<{ churchId: string; record: RecordDraft }>
   // `key` only tells new churches apart on the page; coordinates stay text while being typed.
-  created: Array<{ key: string; lat: string; lng: string; record: RecordDraft }>
+  // `standalone`: a church of its own, not a chapel of this parish.
+  created: Array<{
+    key: string
+    lat: string
+    lng: string
+    standalone: boolean
+    record: RecordDraft
+  }>
 }
 
 const fieldKeys = Object.keys(fieldLabels) as FieldKey[]
@@ -94,12 +101,15 @@ export function proposalDraft(item: Case): Draft {
         churchId: related.churchId,
         record: withChange(otherChurch(item, related.churchId), related),
       })),
-    created: (proposal.created ?? []).map(({ lat, lng, services, texts, links, ...fields }, i) => ({
-      key: `new-${i}`,
-      lat: String(lat),
-      lng: String(lng),
-      record: withChange(undefined, { fields, services, texts, links }),
-    })),
+    created: (proposal.created ?? []).map(
+      ({ lat, lng, standalone, services, texts, links, ...fields }, i) => ({
+        key: `new-${i}`,
+        lat: String(lat),
+        lng: String(lng),
+        standalone: standalone === true,
+        record: withChange(undefined, { fields, services, texts, links }),
+      }),
+    ),
   }
 }
 
@@ -159,7 +169,8 @@ export function toResolution(item: Case, draft: Draft): Resolution {
       churchId,
       ...toChange(otherChurch(item, churchId), record),
     }))
-  const created = draft.created.map(({ lat, lng, record }) => ({
+  const created = draft.created.map(({ lat, lng, standalone, record }) => ({
+    standalone: standalone || undefined,
     name: record.fields.name,
     address: record.fields.address || undefined,
     city: record.fields.city || undefined,

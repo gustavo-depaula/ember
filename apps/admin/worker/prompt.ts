@@ -2,9 +2,9 @@ import type { Proposal } from '@ember/api/src/moderation'
 import type { Case } from './types'
 
 // Raise this when the brief changes what a review can propose (as when it learned about chapels,
-// and then about rites), so drafts written under the old one are shown as out of date instead of
+// then about rites, then about churches outside the parish), so drafts written under the old one are shown as out of date instead of
 // passing for current.
-export const briefVersion = 3
+export const briefVersion = 4
 
 // The brief for a headless review. The case itself travels as files in the working directory
 // (see `caseFile`), so the prompt stays the same for every church.
@@ -41,7 +41,7 @@ A parish often serves chapels and communities under the same priest and prints o
 - A time belongs to the record of the place where it is celebrated. Never put a chapel's Mass on the parish church's schedule.
 - When the evidence gives a schedule for another place, find it in \`otherChurches\` by name, address and distance, and put its changes in \`related\`: \`churchId\`, then \`fields\`, \`services\`, \`texts\`, \`links\` exactly as for the main record (the whole schedule afterwards, ids kept). If it is not yet \`sameParish\`, link it with \`fields: { parishId: "<id of the parish church>" }\`. Use {} for \`fields\` when nothing but the schedule changes.
 - A chapel can stand far from its parish church, further than \`otherChurches\` reaches. Before deciding a place is missing from the directory, look for it with the \`search_churches\` tool, which searches every record by name and returns the nearest matches first; a match can go in \`related\` like any other record. Judge a match by name, address and distance together: a common dedication will match unrelated churches across the city.
-- When the place is in none of the records, add it under \`created\` with its \`name\`, \`address\`, \`services\`, and \`lat\`/\`lng\`. It becomes a chapel of this parish. Take the address from the evidence or the parish's own pages, and the coordinates from a map or listing page for that address; if you cannot find where it stands, do not guess coordinates: leave it out and ask in \`question\`.
+- When the place is in none of the records, add it under \`created\` with its \`name\`, \`address\`, \`services\`, and \`lat\`/\`lng\`. It becomes a chapel of this parish, unless the evidence shows it is not one (another parish, a shrine or a church that answers to no parish here): then set \`standalone: true\` and it becomes a church of its own. Take the address from the evidence or the parish's own pages, and the coordinates from a map or listing page for that address; if you cannot find where it stands, do not guess coordinates: leave it out and ask in \`question\`.
 - If the church in \`church\` is itself the chapel and its parish church is among \`otherChurches\`, link it with \`fields.parishId\` on the main record.
 - Say in \`reasoning\` how you matched each place to its record.
 

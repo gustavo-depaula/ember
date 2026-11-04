@@ -104,12 +104,13 @@ export function resolveChurch(
   return { ...set, lastVerifiedAt: iso, verifiedSource: 'moderator', updatedAt: iso }
 }
 
-// A church the resolution adds, as a chapel of `parish` standing in `near`'s country and timezone.
+// A church the resolution adds, standing in `near`'s country and timezone: a chapel of `parishId`,
+// or a church of its own when that is undefined.
 function createChurch(
   id: string,
   created: CreatedChurch,
   near: Church,
-  parishId: string,
+  parishId: string | undefined,
   now: Date,
 ): Church {
   const services = settleServices(id, [], created.services)
@@ -130,7 +131,7 @@ function createChurch(
     geohash: encodeGeohash(created.lat, created.lng),
     timezone: near.timezone,
     status: 'active',
-    parishId,
+    parishId: parishId ?? null,
     hasStructuredSchedule: services.length > 0,
     lastVerifiedAt: iso,
     verifiedSource: 'moderator',
@@ -191,14 +192,21 @@ export function planResolution(
   }
 
   const created = resolution.created ?? []
-  if (created.length && !current) throw new Error('A new church needs a parish to belong to.')
+  // A new church takes its country and timezone from the church the resolution is about.
+  if (created.length && !current) throw new Error('A new church needs a church to stand beside.')
   created.forEach((entry, index) => {
     const id = createdIds[index]
     if (!current || !id) throw new Error(`No id was reserved for ${entry.name}.`)
     // The parish as the resolution leaves it: the church itself, or the one it is a chapel of.
     const parishId =
       records.find((r) => r.after.id === churchId)?.after.parishId ?? current.parishId
-    const after = createChurch(id, entry, current, parishId ?? current.id, now)
+    const after = createChurch(
+      id,
+      entry,
+      current,
+      entry.standalone ? undefined : (parishId ?? current.id),
+      now,
+    )
     statements.push(toSql(qb.insert(church).values(after)))
     records.push({ after })
   })

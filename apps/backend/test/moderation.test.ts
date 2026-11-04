@@ -207,6 +207,36 @@ describe('a parish and its chapels', () => {
     expect(await readChurch('st-clare-chapel-newark-nj')).toBeUndefined()
   })
 
+  it('creates a church of its own, outside the parish, beside the one the case is about', async () => {
+    const parish = await readChurch()
+    const { statements, records } = plan(
+      parish,
+      resolve({
+        created: [
+          {
+            standalone: true,
+            name: 'Shrine of St. Jude',
+            lat: 40.74,
+            lng: -74.18,
+            services: [{ kind: 'mass', rrule: 'FREQ=WEEKLY;BYDAY=SU', startTime: '10:00' }],
+          },
+        ],
+      }),
+      [],
+      ['shrine-of-st-jude-newark-nj'],
+    )
+    await run(statements)
+
+    expect(await readChurch('shrine-of-st-jude-newark-nj')).toMatchObject({
+      parishId: null,
+      timezone: 'America/New_York',
+      city: 'Newark',
+    })
+    // Nothing was asked of the church it stands beside.
+    expect(records.map((r) => r.after.id)).toEqual(['shrine-of-st-jude-newark-nj'])
+    expect(await readChurch()).toEqual(parish)
+  })
+
   it('keeps parishes one level deep', async () => {
     const parish = await readChurch()
     const chapel = { ...(await readChurch(chapelId)), parishId: 'somewhere-else' }

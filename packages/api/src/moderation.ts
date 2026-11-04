@@ -61,10 +61,12 @@ const recordSchema = z.object({
   links: z.array(z.object({ kind: z.string(), url: z.string() })).optional(),
 })
 
-// A church the directory lacks, usually a chapel named on its parish's bulletin. It is created as
-// part of the parish of the church the corrections are about, and takes that church's country and
-// timezone.
+// A church the directory lacks. Usually a chapel named on its parish's bulletin, created as part of
+// the parish of the church the corrections are about; `standalone` makes it a church of its own
+// instead (another parish, a shrine, a church nobody had listed). Either way it takes that church's
+// country and timezone.
 const createdChurchSchema = z.object({
+  standalone: z.boolean().optional(),
   name: z.string().trim().min(1),
   address: z.string().optional(),
   city: z.string().optional(),

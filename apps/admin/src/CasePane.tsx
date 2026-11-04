@@ -300,7 +300,7 @@ function ByHand({
   const parishes = [church, ...item.others.map((other) => other.church)].filter(
     (candidate) => !candidate.parishId && candidate.id !== target.church?.id,
   )
-  const setPlace = (place: { lat?: string; lng?: string }) =>
+  const setPlace = (place: { lat?: string; lng?: string; standalone?: boolean }) =>
     setDraft({
       ...draft,
       created: draft.created.map((c) => (c === created ? { ...c, ...place } : c)),
@@ -324,6 +324,22 @@ function ByHand({
       ) : null}
       {created ? (
         <div className="card fields">
+          <div className="segmented">
+            <button
+              type="button"
+              className={created.standalone ? '' : 'on'}
+              onClick={() => setPlace({ standalone: false })}
+            >
+              Chapel of {church.name}
+            </button>
+            <button
+              type="button"
+              className={created.standalone ? 'on' : ''}
+              onClick={() => setPlace({ standalone: true })}
+            >
+              A church of its own
+            </button>
+          </div>
           <label>
             Latitude
             <input value={created.lat} onChange={(e) => setPlace({ lat: e.target.value })} />
