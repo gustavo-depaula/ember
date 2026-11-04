@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Summa Contra Gentiles",
-    "la": "Summa Contra Gentiles"
+    "la": "Summa Contra Gentiles",
+    "pt-BR": "Suma contra os gentios"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's summa for missionaries — the existence and unity of God; God as the source of created being; creation, providence, and the moral life; the truths of revelation accessible only through faith. Composed at the request of Raymond of Peñafort to equip Dominicans preaching to Jews and Muslims in Iberia. Full Shapcote-derived translation paired row-for-row with the Leonine Latin.",
-    "la": "Liber Thomae missionarius — de existentia et unitate Dei; Deo ut fonte esse creati; creatione, providentia, vita morali; veritatibus revelationis quae sola fide pertingi possunt."
+    "la": "Liber Thomae missionarius — de existentia et unitate Dei; Deo ut fonte esse creati; creatione, providentia, vita morali; veritatibus revelationis quae sola fide pertingi possunt.",
+    "pt-BR": "A suma de Tomás de Aquino para missionários — a existência e a unidade de Deus; Deus como fonte do ser criado; a criação, a providência e a vida moral; as verdades da revelação acessíveis somente pela fé. Composta a pedido de Raimundo de Penhaforte para preparar os dominicanos que pregavam a judeus e muçulmanos na Península Ibérica. Tradução integral do latim da edição Leonina, alinhada linha a linha com o original, com o inglês derivado de Shapcote como referência."
   },
   "composed": "1259–1265",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,721 +39,824 @@
       "id": "b1",
       "title": {
         "en-US": "Book I",
-        "la": "Liber I"
+        "la": "Liber I",
+        "pt-BR": "Livro I"
       },
       "children": [
         {
           "id": "b1-ch001",
           "title": {
             "en-US": "Chapter 1 — In what the office of a wise man consists",
-            "la": "Caput 1"
+            "la": "Caput 1",
+            "pt-BR": "Capítulo 1 — Em que consiste o ofício do sábio"
           }
         },
         {
           "id": "b1-ch002",
           "title": {
             "en-US": "Chapter 2 — The author’s intention in this work",
-            "la": "Caput 2"
+            "la": "Caput 2",
+            "pt-BR": "Capítulo 2 — A intenção do autor nesta obra"
           }
         },
         {
           "id": "b1-ch003",
           "title": {
             "en-US": "Chapter 3 — In what way it is possible to make known the divine truth",
-            "la": "Caput 3"
+            "la": "Caput 3",
+            "pt-BR": "Capítulo 3 — De que modo é possível manifestar a verdade divina"
           }
         },
         {
           "id": "b1-ch004",
           "title": {
             "en-US": "Chapter 4 — That the truth about divine things which is attainable by reason is fittingly proposed to man as an object of belief",
-            "la": "Caput 4"
+            "la": "Caput 4",
+            "pt-BR": "Capítulo 4 — Que a verdade sobre as coisas divinas acessível à razão é convenientemente proposta ao homem como objeto de fé"
           }
         },
         {
           "id": "b1-ch005",
           "title": {
             "en-US": "Chapter 5 — That those things which cannot be investigated by reason are fittingly proposed to man as an object of faith",
-            "la": "Caput 5"
+            "la": "Caput 5",
+            "pt-BR": "Capítulo 5 — Que as coisas que não podem ser investigadas pela razão são convenientemente propostas ao homem como objeto de fé"
           }
         },
         {
           "id": "b1-ch006",
           "title": {
             "en-US": "Chapter 6 — That it is not a mark of levity to assent to the things that are of faith although they are above reason",
-            "la": "Caput 6"
+            "la": "Caput 6",
+            "pt-BR": "Capítulo 6 — Que assentir às coisas da fé não é sinal de leviandade, embora estejam acima da razão"
           }
         },
         {
           "id": "b1-ch007",
           "title": {
             "en-US": "Chapter 7 — That the truth of reason is not in opposition to the truth of the Christian faith",
-            "la": "Caput 7"
+            "la": "Caput 7",
+            "pt-BR": "Capítulo 7 — Que a verdade da razão não é contrária à verdade da fé cristã"
           }
         },
         {
           "id": "b1-ch008",
           "title": {
             "en-US": "Chapter 8 — In what relation human reason stands to the truth of faith",
-            "la": "Caput 8"
+            "la": "Caput 8",
+            "pt-BR": "Capítulo 8 — Como a razão humana se relaciona com a verdade da fé"
           }
         },
         {
           "id": "b1-ch009",
           "title": {
             "en-US": "Chapter 9 — Of the order and mode of procedure in this work",
-            "la": "Caput 9"
+            "la": "Caput 9",
+            "pt-BR": "Capítulo 9 — Da ordem e do modo de proceder nesta obra"
           }
         },
         {
           "id": "b1-ch010",
           "title": {
             "en-US": "Chapter 10 — Of the opinion of those who say it cannot be demonstrated that there is a God, since this is self-evident",
-            "la": "Caput 10"
+            "la": "Caput 10",
+            "pt-BR": "Capítulo 10 — Da opinião dos que dizem que não se pode demonstrar que Deus existe, por ser isso conhecido por si"
           }
         },
         {
           "id": "b1-ch011",
           "title": {
             "en-US": "Chapter 11 — Refutation of the foregoing opinion and solution of the aforesaid arguments",
-            "la": "Caput 11"
+            "la": "Caput 11",
+            "pt-BR": "Capítulo 11 — Refutação da opinião anterior e solução dos argumentos apresentados"
           }
         },
         {
           "id": "b1-ch012",
           "title": {
             "en-US": "Chapter 12 — Of the opinion of those who say that the existence of God cannot be proved and that it is held by faith alone",
-            "la": "Caput 12"
+            "la": "Caput 12",
+            "pt-BR": "Capítulo 12 — Da opinião dos que dizem que a existência de Deus não pode ser demonstrada, mas é acolhida somente pela fé"
           }
         },
         {
           "id": "b1-ch013",
           "title": {
             "en-US": "Chapter 13 — Arguments in proof of God’s existence",
-            "la": "Caput 13"
+            "la": "Caput 13",
+            "pt-BR": "Capítulo 13 — Argumentos para provar que Deus existe"
           }
         },
         {
           "id": "b1-ch014",
           "title": {
             "en-US": "Chapter 14 — That to acquire knowledge of God one must use the way of remotion",
-            "la": "Caput 14"
+            "la": "Caput 14",
+            "pt-BR": "Capítulo 14 — Que, para conhecer Deus, é necessário usar a via da remoção"
           }
         },
         {
           "id": "b1-ch015",
           "title": {
             "en-US": "Chapter 15 — That God is eternal",
-            "la": "Caput 15"
+            "la": "Caput 15",
+            "pt-BR": "Capítulo 15 — Que Deus é eterno"
           }
         },
         {
           "id": "b1-ch016",
           "title": {
             "en-US": "Chapter 16 — That in God there is no passive potency",
-            "la": "Caput 16"
+            "la": "Caput 16",
+            "pt-BR": "Capítulo 16 — Que em Deus não há potência passiva"
           }
         },
         {
           "id": "b1-ch017",
           "title": {
             "en-US": "Chapter 17 — That in God there is no matter",
-            "la": "Caput 17"
+            "la": "Caput 17",
+            "pt-BR": "Capítulo 17 — Que em Deus não há matéria"
           }
         },
         {
           "id": "b1-ch018",
           "title": {
             "en-US": "Chapter 18 — That in God there is no composition",
-            "la": "Caput 18"
+            "la": "Caput 18",
+            "pt-BR": "Capítulo 18 — Que em Deus não há composição"
           }
         },
         {
           "id": "b1-ch019",
           "title": {
             "en-US": "Chapter 19 — That in God there is nothing violent or beside nature",
-            "la": "Caput 19"
+            "la": "Caput 19",
+            "pt-BR": "Capítulo 19 — Que em Deus nada há de violento ou alheio à natureza"
           }
         },
         {
           "id": "b1-ch020",
           "title": {
             "en-US": "Chapter 20 — That God is not a body",
-            "la": "Caput 20"
+            "la": "Caput 20",
+            "pt-BR": "Capítulo 20 — Que Deus não é corpo"
           }
         },
         {
           "id": "b1-ch021",
           "title": {
             "en-US": "Chapter 21 — That God is his own essence",
-            "la": "Caput 21"
+            "la": "Caput 21",
+            "pt-BR": "Capítulo 21 — Que Deus é sua própria essência"
           }
         },
         {
           "id": "b1-ch022",
           "title": {
             "en-US": "Chapter 22 — That in God essence and existence are the same",
-            "la": "Caput 22"
+            "la": "Caput 22",
+            "pt-BR": "Capítulo 22 — Que em Deus a essência e o ser são o mesmo"
           }
         },
         {
           "id": "b1-ch023",
           "title": {
             "en-US": "Chapter 23 — That there is no accident in God",
-            "la": "Caput 23"
+            "la": "Caput 23",
+            "pt-BR": "Capítulo 23 — Que em Deus não há acidente"
           }
         },
         {
           "id": "b1-ch024",
           "title": {
             "en-US": "Chapter 24 — That the divine being cannot be specified by the addition of any substantial difference",
-            "la": "Caput 24"
+            "la": "Caput 24",
+            "pt-BR": "Capítulo 24 — Que o ser divino não pode ser especificado pela adição de nenhuma diferença substancial"
           }
         },
         {
           "id": "b1-ch025",
           "title": {
             "en-US": "Chapter 25 — That God is not in any genus",
-            "la": "Caput 25"
+            "la": "Caput 25",
+            "pt-BR": "Capítulo 25 — Que Deus não está em nenhum gênero"
           }
         },
         {
           "id": "b1-ch026",
           "title": {
             "en-US": "Chapter 26 — That God is not the formal being of all things",
-            "la": "Caput 26"
+            "la": "Caput 26",
+            "pt-BR": "Capítulo 26 — Que Deus não é o ser formal de todas as coisas"
           }
         },
         {
           "id": "b1-ch027",
           "title": {
             "en-US": "Chapter 27 — That God is not the form of a body",
-            "la": "Caput 27"
+            "la": "Caput 27",
+            "pt-BR": "Capítulo 27 — Que Deus não é a forma de um corpo"
           }
         },
         {
           "id": "b1-ch028",
           "title": {
             "en-US": "Chapter 28 — Of the divine perfection",
-            "la": "Caput 28"
+            "la": "Caput 28",
+            "pt-BR": "Capítulo 28 — Da perfeição divina"
           }
         },
         {
           "id": "b1-ch029",
           "title": {
             "en-US": "Chapter 29 — Of the likeness of creatures",
-            "la": "Caput 29"
+            "la": "Caput 29",
+            "pt-BR": "Capítulo 29 — Da semelhança das criaturas"
           }
         },
         {
           "id": "b1-ch030",
           "title": {
             "en-US": "Chapter 30 — What terms can be predicated of God",
-            "la": "Caput 30"
+            "la": "Caput 30",
+            "pt-BR": "Capítulo 30 — Quais termos podem ser predicados de Deus"
           }
         },
         {
           "id": "b1-ch031",
           "title": {
             "en-US": "Chapter 31 — That the divine perfection and the plurality of divine names are not inconsistent with the divine simplicity",
-            "la": "Caput 31"
+            "la": "Caput 31",
+            "pt-BR": "Capítulo 31 — Que a perfeição divina e a pluralidade dos nomes divinos não são incompatíveis com a simplicidade divina"
           }
         },
         {
           "id": "b1-ch032",
           "title": {
             "en-US": "Chapter 32 — That nothing is predicated univocally of God and other things",
-            "la": "Caput 32"
+            "la": "Caput 32",
+            "pt-BR": "Capítulo 32 — Que nada se predica univocamente de Deus e das outras coisas"
           }
         },
         {
           "id": "b1-ch033",
           "title": {
             "en-US": "Chapter 33 — That not all terms applied to God and creatures are purely equivocal",
-            "la": "Caput 33"
+            "la": "Caput 33",
+            "pt-BR": "Capítulo 33 — Que nem todos os termos aplicados a Deus e às criaturas são puramente equívocos"
           }
         },
         {
           "id": "b1-ch034",
           "title": {
             "en-US": "Chapter 34 — That terms applied to God and creatures are said analogically",
-            "la": "Caput 34"
+            "la": "Caput 34",
+            "pt-BR": "Capítulo 34 — Que os termos aplicados a Deus e às criaturas se dizem analogicamente"
           }
         },
         {
           "id": "b1-ch035",
           "title": {
             "en-US": "Chapter 35 — That the several names predicated of God are not synonymous",
-            "la": "Caput 35"
+            "la": "Caput 35",
+            "pt-BR": "Capítulo 35 — Que os diversos nomes predicados de Deus não são sinônimos"
           }
         },
         {
           "id": "b1-ch036",
           "title": {
             "en-US": "Chapter 36 — How our intellect forms a proposition about God",
-            "la": "Caput 36"
+            "la": "Caput 36",
+            "pt-BR": "Capítulo 36 — Como nosso intelecto forma uma proposição a respeito de Deus"
           }
         },
         {
           "id": "b1-ch037",
           "title": {
             "en-US": "Chapter 37 — That God is good",
-            "la": "Caput 37"
+            "la": "Caput 37",
+            "pt-BR": "Capítulo 37 — Que Deus é bom"
           }
         },
         {
           "id": "b1-ch038",
           "title": {
             "en-US": "Chapter 38 — That God is goodness itself",
-            "la": "Caput 38"
+            "la": "Caput 38",
+            "pt-BR": "Capítulo 38 — Que Deus é a própria bondade"
           }
         },
         {
           "id": "b1-ch039",
           "title": {
             "en-US": "Chapter 39 — That no evil can be in God",
-            "la": "Caput 39"
+            "la": "Caput 39",
+            "pt-BR": "Capítulo 39 — Que nenhum mal pode existir em Deus"
           }
         },
         {
           "id": "b1-ch040",
           "title": {
             "en-US": "Chapter 40 — That God is the good of every good",
-            "la": "Caput 40"
+            "la": "Caput 40",
+            "pt-BR": "Capítulo 40 — Que Deus é o bem de todo bem"
           }
         },
         {
           "id": "b1-ch041",
           "title": {
             "en-US": "Chapter 41 — That God is the highest good",
-            "la": "Caput 41"
+            "la": "Caput 41",
+            "pt-BR": "Capítulo 41 — Que Deus é o sumo bem"
           }
         },
         {
           "id": "b1-ch042",
           "title": {
             "en-US": "Chapter 42 — That God is one",
-            "la": "Caput 42"
+            "la": "Caput 42",
+            "pt-BR": "Capítulo 42 — Que Deus é uno"
           }
         },
         {
           "id": "b1-ch043",
           "title": {
             "en-US": "Chapter 43 — That God is infinite",
-            "la": "Caput 43"
+            "la": "Caput 43",
+            "pt-BR": "Capítulo 43 — Que Deus é infinito"
           }
         },
         {
           "id": "b1-ch044",
           "title": {
             "en-US": "Chapter 44 — That God is an intelligent being",
-            "la": "Caput 44"
+            "la": "Caput 44",
+            "pt-BR": "Capítulo 44 — Que Deus é um ser inteligente"
           }
         },
         {
           "id": "b1-ch045",
           "title": {
             "en-US": "Chapter 45 — That God’s act of intelligence is his essence",
-            "la": "Caput 45"
+            "la": "Caput 45",
+            "pt-BR": "Capítulo 45 — Que o entender de Deus é sua essência"
           }
         },
         {
           "id": "b1-ch046",
           "title": {
             "en-US": "Chapter 46 — That God understands by nothing else than his essence",
-            "la": "Caput 46"
+            "la": "Caput 46",
+            "pt-BR": "Capítulo 46 — Que Deus entende somente por sua essência"
           }
         },
         {
           "id": "b1-ch047",
           "title": {
             "en-US": "Chapter 47 — That God understands himself perfectly",
-            "la": "Caput 47"
+            "la": "Caput 47",
+            "pt-BR": "Capítulo 47 — Que Deus entende perfeitamente a si mesmo"
           }
         },
         {
           "id": "b1-ch048",
           "title": {
             "en-US": "Chapter 48 — That God knows only himself first and essentially",
-            "la": "Caput 48"
+            "la": "Caput 48",
+            "pt-BR": "Capítulo 48 — Que Deus conhece somente a si mesmo primeira e essencialmente"
           }
         },
         {
           "id": "b1-ch049",
           "title": {
             "en-US": "Chapter 49 — That God knows things other than himself",
-            "la": "Caput 49"
+            "la": "Caput 49",
+            "pt-BR": "Capítulo 49 — Que Deus conhece outras coisas além de si mesmo"
           }
         },
         {
           "id": "b1-ch050",
           "title": {
             "en-US": "Chapter 50 — That God has proper knowledge of all things",
-            "la": "Caput 50"
+            "la": "Caput 50",
+            "pt-BR": "Capítulo 50 — Que Deus tem conhecimento próprio de todas as coisas"
           }
         },
         {
           "id": "b1-ch051",
           "title": {
             "en-US": "Chapter 51 — Reasons for inquiring how there is a multitude of things understood in the divine intellect",
-            "la": "Caput 51"
+            "la": "Caput 51",
+            "pt-BR": "Capítulo 51 — Razões para investigar como há uma multiplicidade de coisas entendidas no intelecto divino"
           }
         },
         {
           "id": "b1-ch052",
           "title": {
             "en-US": "Chapter 52 — Continuation of the foregoing",
-            "la": "Caput 52"
+            "la": "Caput 52",
+            "pt-BR": "Capítulo 52 — Continuação do que precede"
           }
         },
         {
           "id": "b1-ch053",
           "title": {
             "en-US": "Chapter 53 — Solution of the foregoing doubt",
-            "la": "Caput 53"
+            "la": "Caput 53",
+            "pt-BR": "Capítulo 53 — Solução da dúvida anterior"
           }
         },
         {
           "id": "b1-ch054",
           "title": {
             "en-US": "Chapter 54 — How the divine essence, though one and simple, is a proper likeness of all things intelligible",
-            "la": "Caput 54"
+            "la": "Caput 54",
+            "pt-BR": "Capítulo 54 — Como a essência divina, embora una e simples, é semelhança própria de todas as coisas inteligíveis"
           }
         },
         {
           "id": "b1-ch055",
           "title": {
             "en-US": "Chapter 55 — That God understands all things at the same instant",
-            "la": "Caput 55"
+            "la": "Caput 55",
+            "pt-BR": "Capítulo 55 — Que Deus entende todas as coisas no mesmo instante"
           }
         },
         {
           "id": "b1-ch056",
           "title": {
             "en-US": "Chapter 56 — That God’s knowledge is not a habit",
-            "la": "Caput 56"
+            "la": "Caput 56",
+            "pt-BR": "Capítulo 56 — Que o conhecimento de Deus não é um hábito"
           }
         },
         {
           "id": "b1-ch057",
           "title": {
             "en-US": "Chapter 57 — That God’s knowledge is not discursive",
-            "la": "Caput 57"
+            "la": "Caput 57",
+            "pt-BR": "Capítulo 57 — Que o conhecimento de Deus não é discursivo"
           }
         },
         {
           "id": "b1-ch058",
           "title": {
             "en-US": "Chapter 58 — That God does not understand by composition and division",
-            "la": "Caput 58"
+            "la": "Caput 58",
+            "pt-BR": "Capítulo 58 — Que Deus não entende por composição e divisão"
           }
         },
         {
           "id": "b1-ch059",
           "title": {
             "en-US": "Chapter 59 — That God is not ignorant of the truth of enunciations",
-            "la": "Caput 59"
+            "la": "Caput 59",
+            "pt-BR": "Capítulo 59 — Que Deus não ignora a verdade dos enunciados"
           }
         },
         {
           "id": "b1-ch060",
           "title": {
             "en-US": "Chapter 60 — That God is truth",
-            "la": "Caput 60"
+            "la": "Caput 60",
+            "pt-BR": "Capítulo 60 — Que Deus é a verdade"
           }
         },
         {
           "id": "b1-ch061",
           "title": {
             "en-US": "Chapter 61 — That God is the most pure truth",
-            "la": "Caput 61"
+            "la": "Caput 61",
+            "pt-BR": "Capítulo 61 — Que Deus é a verdade puríssima"
           }
         },
         {
           "id": "b1-ch062",
           "title": {
             "en-US": "Chapter 62 — That the divine truth is the first and supreme truth",
-            "la": "Caput 62"
+            "la": "Caput 62",
+            "pt-BR": "Capítulo 62 — Que a verdade divina é a verdade primeira e suprema"
           }
         },
         {
           "id": "b1-ch063",
           "title": {
             "en-US": "Chapter 63 — The arguments of those who would deny to God the knowledge of singulars",
-            "la": "Caput 63"
+            "la": "Caput 63",
+            "pt-BR": "Capítulo 63 — Os argumentos dos que pretendem negar a Deus o conhecimento dos singulares"
           }
         },
         {
           "id": "b1-ch064",
           "title": {
             "en-US": "Chapter 64 — Order of the things to be said about the divine knowledge",
-            "la": "Caput 64"
+            "la": "Caput 64",
+            "pt-BR": "Capítulo 64 — Ordem do que se deve dizer sobre o conhecimento divino"
           }
         },
         {
           "id": "b1-ch065",
           "title": {
             "en-US": "Chapter 65 — That God knows singulars",
-            "la": "Caput 65"
+            "la": "Caput 65",
+            "pt-BR": "Capítulo 65 — Que Deus conhece os singulares"
           }
         },
         {
           "id": "b1-ch066",
           "title": {
             "en-US": "Chapter 66 — That God knows the things that are not",
-            "la": "Caput 66"
+            "la": "Caput 66",
+            "pt-BR": "Capítulo 66 — Que Deus conhece as coisas que não existem"
           }
         },
         {
           "id": "b1-ch067",
           "title": {
             "en-US": "Chapter 67 — That God knows future contingent singulars",
-            "la": "Caput 67"
+            "la": "Caput 67",
+            "pt-BR": "Capítulo 67 — Que Deus conhece os singulares futuros contingentes"
           }
         },
         {
           "id": "b1-ch068",
           "title": {
             "en-US": "Chapter 68 — That God knows the movements of the will",
-            "la": "Caput 68"
+            "la": "Caput 68",
+            "pt-BR": "Capítulo 68 — Que Deus conhece os movimentos da vontade"
           }
         },
         {
           "id": "b1-ch069",
           "title": {
             "en-US": "Chapter 69 — That God knows infinite things",
-            "la": "Caput 69"
+            "la": "Caput 69",
+            "pt-BR": "Capítulo 69 — Que Deus conhece infinitas coisas"
           }
         },
         {
           "id": "b1-ch070",
           "title": {
             "en-US": "Chapter 70 — That God knows trivial things",
-            "la": "Caput 70"
+            "la": "Caput 70",
+            "pt-BR": "Capítulo 70 — Que Deus conhece as coisas insignificantes"
           }
         },
         {
           "id": "b1-ch071",
           "title": {
             "en-US": "Chapter 71 — That God knows evil things",
-            "la": "Caput 71"
+            "la": "Caput 71",
+            "pt-BR": "Capítulo 71 — Que Deus conhece os males"
           }
         },
         {
           "id": "b1-ch072",
           "title": {
             "en-US": "Chapter 72 — That in God there is will",
-            "la": "Caput 72"
+            "la": "Caput 72",
+            "pt-BR": "Capítulo 72 — Que em Deus há vontade"
           }
         },
         {
           "id": "b1-ch073",
           "title": {
             "en-US": "Chapter 73 — That God’s will is his essence",
-            "la": "Caput 73"
+            "la": "Caput 73",
+            "pt-BR": "Capítulo 73 — Que a vontade de Deus é sua essência"
           }
         },
         {
           "id": "b1-ch074",
           "title": {
             "en-US": "Chapter 74 — That the principal object of God’s will is the divine essence",
-            "la": "Caput 74"
+            "la": "Caput 74",
+            "pt-BR": "Capítulo 74 — Que o objeto principal da vontade de Deus é a essência divina"
           }
         },
         {
           "id": "b1-ch075",
           "title": {
             "en-US": "Chapter 75 — That God in willing himself wills also other things",
-            "la": "Caput 75"
+            "la": "Caput 75",
+            "pt-BR": "Capítulo 75 — Que Deus, ao querer a si mesmo, quer também outras coisas"
           }
         },
         {
           "id": "b1-ch076",
           "title": {
             "en-US": "Chapter 76 — That God, by the one act of his will, wills himself and other things",
-            "la": "Caput 76"
+            "la": "Caput 76",
+            "pt-BR": "Capítulo 76 — Que Deus, por um único ato de sua vontade, quer a si mesmo e as outras coisas"
           }
         },
         {
           "id": "b1-ch077",
           "title": {
             "en-US": "Chapter 77 — That the multitude of things willed is not inconsistent with the divine simplicity",
-            "la": "Caput 77"
+            "la": "Caput 77",
+            "pt-BR": "Capítulo 77 — Que a multiplicidade das coisas queridas não é incompatível com a simplicidade divina"
           }
         },
         {
           "id": "b1-ch078",
           "title": {
             "en-US": "Chapter 78 — That the divine will extends to particular goods",
-            "la": "Caput 78"
+            "la": "Caput 78",
+            "pt-BR": "Capítulo 78 — Que a vontade divina se estende aos bens particulares"
           }
         },
         {
           "id": "b1-ch079",
           "title": {
             "en-US": "Chapter 79 — That God wills even the things that are not yet",
-            "la": "Caput 79"
+            "la": "Caput 79",
+            "pt-BR": "Capítulo 79 — Que Deus quer também as coisas que ainda não existem"
           }
         },
         {
           "id": "b1-ch080",
           "title": {
             "en-US": "Chapter 80 — That God necessarily wills his being and his goodness",
-            "la": "Caput 80"
+            "la": "Caput 80",
+            "pt-BR": "Capítulo 80 — Que Deus quer necessariamente seu ser e sua bondade"
           }
         },
         {
           "id": "b1-ch081",
           "title": {
             "en-US": "Chapter 81 — That God does not necessarily will other things than himself",
-            "la": "Caput 81"
+            "la": "Caput 81",
+            "pt-BR": "Capítulo 81 — Que Deus não quer necessariamente outras coisas além de si mesmo"
           }
         },
         {
           "id": "b1-ch082",
           "title": {
             "en-US": "Chapter 82 — Objections against the statement that God wills not of necessity things other than himself",
-            "la": "Caput 82"
+            "la": "Caput 82",
+            "pt-BR": "Capítulo 82 — Objeções à afirmação de que Deus não quer por necessidade outras coisas além de si mesmo"
           }
         },
         {
           "id": "b1-ch083",
           "title": {
             "en-US": "Chapter 83 — That God wills something other than himself by a necessity of supposition",
-            "la": "Caput 83"
+            "la": "Caput 83",
+            "pt-BR": "Capítulo 83 — Que Deus quer algo além de si mesmo por uma necessidade de suposição"
           }
         },
         {
           "id": "b1-ch084",
           "title": {
             "en-US": "Chapter 84 — That God’s will is not of things impossible in themselves",
-            "la": "Caput 84"
+            "la": "Caput 84",
+            "pt-BR": "Capítulo 84 — Que a vontade de Deus não tem por objeto coisas impossíveis em si mesmas"
           }
         },
         {
           "id": "b1-ch085",
           "title": {
             "en-US": "Chapter 85 — That the divine will does not remove contingency from things nor impose absolute necessity on them",
-            "la": "Caput 85"
+            "la": "Caput 85",
+            "pt-BR": "Capítulo 85 — Que a vontade divina não retira das coisas a contingência nem lhes impõe necessidade absoluta"
           }
         },
         {
           "id": "b1-ch086",
           "title": {
             "en-US": "Chapter 86 — That a reason of the divine will can be assigned",
-            "la": "Caput 86"
+            "la": "Caput 86",
+            "pt-BR": "Capítulo 86 — Que se pode indicar uma razão da vontade divina"
           }
         },
         {
           "id": "b1-ch087",
           "title": {
             "en-US": "Chapter 87 — That nothing can be the cause of the divine will",
-            "la": "Caput 87"
+            "la": "Caput 87",
+            "pt-BR": "Capítulo 87 — Que nada pode ser causa da vontade divina"
           }
         },
         {
           "id": "b1-ch088",
           "title": {
             "en-US": "Chapter 88 — That in God there is free will",
-            "la": "Caput 88"
+            "la": "Caput 88",
+            "pt-BR": "Capítulo 88 — Que em Deus há livre-arbítrio"
           }
         },
         {
           "id": "b1-ch089",
           "title": {
             "en-US": "Chapter 89 — That the passions of the appetite are not in God",
-            "la": "Caput 89"
+            "la": "Caput 89",
+            "pt-BR": "Capítulo 89 — Que as paixões do apetite não estão em Deus"
           }
         },
         {
           "id": "b1-ch090",
           "title": {
             "en-US": "Chapter 90 — That in God are delight and joy, nor are they incompatible with the divine perfection",
-            "la": "Caput 90"
+            "la": "Caput 90",
+            "pt-BR": "Capítulo 90 — Que em Deus há deleite e alegria, e que não são incompatíveis com a perfeição divina"
           }
         },
         {
           "id": "b1-ch091",
           "title": {
             "en-US": "Chapter 91 — That in God there is love",
-            "la": "Caput 91"
+            "la": "Caput 91",
+            "pt-BR": "Capítulo 91 — Que em Deus há amor"
           }
         },
         {
           "id": "b1-ch092",
           "title": {
             "en-US": "Chapter 92 — How virtues are to be ascribed to God",
-            "la": "Caput 92"
+            "la": "Caput 92",
+            "pt-BR": "Capítulo 92 — Como se devem atribuir virtudes a Deus"
           }
         },
         {
           "id": "b1-ch093",
           "title": {
             "en-US": "Chapter 93 — That in God there are moral virtues which are about actions",
-            "la": "Caput 93"
+            "la": "Caput 93",
+            "pt-BR": "Capítulo 93 — Que em Deus há virtudes morais relativas às ações"
           }
         },
         {
           "id": "b1-ch094",
           "title": {
             "en-US": "Chapter 94 — That the contemplative virtues are in God",
-            "la": "Caput 94"
+            "la": "Caput 94",
+            "pt-BR": "Capítulo 94 — Que as virtudes contemplativas estão em Deus"
           }
         },
         {
           "id": "b1-ch095",
           "title": {
             "en-US": "Chapter 95 — That God cannot will evil",
-            "la": "Caput 95"
+            "la": "Caput 95",
+            "pt-BR": "Capítulo 95 — Que Deus não pode querer o mal"
           }
         },
         {
           "id": "b1-ch096",
           "title": {
             "en-US": "Chapter 96 — That God hates nothing, nor can the hatred of anything be ascribed to him",
-            "la": "Caput 96"
+            "la": "Caput 96",
+            "pt-BR": "Capítulo 96 — Que Deus nada odeia, nem se lhe pode atribuir ódio de coisa alguma"
           }
         },
         {
           "id": "b1-ch097",
           "title": {
             "en-US": "Chapter 97 — That God is a living being",
-            "la": "Caput 97"
+            "la": "Caput 97",
+            "pt-BR": "Capítulo 97 — Que Deus é um ser vivo"
           }
         },
         {
           "id": "b1-ch098",
           "title": {
             "en-US": "Chapter 98 — That God is his own life",
-            "la": "Caput 98"
+            "la": "Caput 98",
+            "pt-BR": "Capítulo 98 — Que Deus é sua própria vida"
           }
         },
         {
           "id": "b1-ch099",
           "title": {
             "en-US": "Chapter 99 — That God’s life is eternal",
-            "la": "Caput 99"
+            "la": "Caput 99",
+            "pt-BR": "Capítulo 99 — Que a vida de Deus é eterna"
           }
         },
         {
           "id": "b1-ch100",
           "title": {
             "en-US": "Chapter 100 — That God is happy",
-            "la": "Caput 100"
+            "la": "Caput 100",
+            "pt-BR": "Capítulo 100 — Que Deus é bem-aventurado"
           }
         },
         {
           "id": "b1-ch101",
           "title": {
             "en-US": "Chapter 101 — That God is his own happiness",
-            "la": "Caput 101"
+            "la": "Caput 101",
+            "pt-BR": "Capítulo 101 — Que Deus é sua própria bem-aventurança"
           }
         },
         {
           "id": "b1-ch102",
           "title": {
             "en-US": "Chapter 102 — That God’s happiness is perfect and singular, surpassing all other happiness",
-            "la": "Caput 102"
+            "la": "Caput 102",
+            "pt-BR": "Capítulo 102 — Que a bem-aventurança de Deus é perfeita e singular, superando toda outra bem-aventurança"
           }
         }
       ]
@@ -758,714 +865,816 @@
       "id": "b2",
       "title": {
         "en-US": "Book II",
-        "la": "Liber II"
+        "la": "Liber II",
+        "pt-BR": "Livro II"
       },
       "children": [
         {
           "id": "b2-ch001",
           "title": {
             "en-US": "Chapter 1 — Connection of the foregoing with the sequel",
-            "la": "Caput 1"
+            "la": "Caput 1",
+            "pt-BR": "Capítulo 1 — Relação entre o que precede e o que se segue"
           }
         },
         {
           "id": "b2-ch002",
           "title": {
             "en-US": "Chapter 2 — That the consideration of creatures is useful for building up our faith",
-            "la": "Caput 2"
+            "la": "Caput 2",
+            "pt-BR": "Capítulo 2 — Que a consideração das criaturas é útil para fortalecer nossa fé"
           }
         },
         {
           "id": "b2-ch003",
           "title": {
             "en-US": "Chapter 3 — That the knowledge of the nature of creatures avails for refuting errors against God",
-            "la": "Caput 3"
+            "la": "Caput 3",
+            "pt-BR": "Capítulo 3 — Que o conhecimento da natureza das criaturas serve para refutar os erros contra Deus"
           }
         },
         {
           "id": "b2-ch004",
           "title": {
             "en-US": "Chapter 4 — That the philosopher and the theologian treat of creatures in different ways",
-            "la": "Caput 4"
+            "la": "Caput 4",
+            "pt-BR": "Capítulo 4 — Que o filósofo e o teólogo tratam das criaturas de modos diferentes"
           }
         },
         {
           "id": "b2-ch005",
           "title": {
             "en-US": "Chapter 5 — Order of the things to be said",
-            "la": "Caput 5"
+            "la": "Caput 5",
+            "pt-BR": "Capítulo 5 — Ordem do que se deve dizer"
           }
         },
         {
           "id": "b2-ch006",
           "title": {
             "en-US": "Chapter 6 — That it becomes God to be the source of being to other things",
-            "la": "Caput 6"
+            "la": "Caput 6",
+            "pt-BR": "Capítulo 6 — Que convém a Deus ser a fonte do ser das outras coisas"
           }
         },
         {
           "id": "b2-ch007",
           "title": {
             "en-US": "Chapter 7 — That in God there is active power",
-            "la": "Caput 7"
+            "la": "Caput 7",
+            "pt-BR": "Capítulo 7 — Que em Deus há potência ativa"
           }
         },
         {
           "id": "b2-ch008",
           "title": {
             "en-US": "Chapter 8 — That God’s power is his substance",
-            "la": "Caput 8"
+            "la": "Caput 8",
+            "pt-BR": "Capítulo 8 — Que o poder de Deus é sua substância"
           }
         },
         {
           "id": "b2-ch009",
           "title": {
             "en-US": "Chapter 9 — That God’s power is his action",
-            "la": "Caput 9"
+            "la": "Caput 9",
+            "pt-BR": "Capítulo 9 — Que o poder de Deus é sua ação"
           }
         },
         {
           "id": "b2-ch010",
           "title": {
             "en-US": "Chapter 10 — In what way power is ascribed to God",
-            "la": "Caput 10"
+            "la": "Caput 10",
+            "pt-BR": "Capítulo 10 — De que modo se atribui poder a Deus"
           }
         },
         {
           "id": "b2-ch011",
           "title": {
             "en-US": "Chapter 11 — That something is said of God in relation to creatures",
-            "la": "Caput 11"
+            "la": "Caput 11",
+            "pt-BR": "Capítulo 11 — Que algo se diz de Deus em relação às criaturas"
           }
         },
         {
           "id": "b2-ch012",
           "title": {
             "en-US": "Chapter 12 — That relations said of God in reference to creatures are not really in God",
-            "la": "Caput 12"
+            "la": "Caput 12",
+            "pt-BR": "Capítulo 12 — Que as relações atribuídas a Deus com referência às criaturas não estão realmente em Deus"
           }
         },
         {
           "id": "b2-ch013",
           "title": {
             "en-US": "Chapter 13 — How the aforesaid relations are predicated of God",
-            "la": "Caput 13"
+            "la": "Caput 13",
+            "pt-BR": "Capítulo 13 — Como as relações mencionadas são predicadas de Deus"
           }
         },
         {
           "id": "b2-ch014",
           "title": {
             "en-US": "Chapter 14 — Continuation of the foregoing",
-            "la": "Caput 14"
+            "la": "Caput 14",
+            "pt-BR": "Capítulo 14 — Continuação do que precede"
           }
         },
         {
           "id": "b2-ch015",
           "title": {
             "en-US": "Chapter 15 — That God is the cause of being to all things",
-            "la": "Caput 15"
+            "la": "Caput 15",
+            "pt-BR": "Capítulo 15 — Que Deus é a causa do ser de todas as coisas"
           }
         },
         {
           "id": "b2-ch016",
           "title": {
             "en-US": "Chapter 16 — That God brought things into being out of nothing",
-            "la": "Caput 16"
+            "la": "Caput 16",
+            "pt-BR": "Capítulo 16 — Que Deus produziu as coisas no ser a partir do nada"
           }
         },
         {
           "id": "b2-ch017",
           "title": {
             "en-US": "Chapter 17 — That creation is neither movement nor change",
-            "la": "Caput 17"
+            "la": "Caput 17",
+            "pt-BR": "Capítulo 17 — Que a criação não é movimento nem mudança"
           }
         },
         {
           "id": "b2-ch018",
           "title": {
             "en-US": "Chapter 18 — How to solve the objections against creation",
-            "la": "Caput 18"
+            "la": "Caput 18",
+            "pt-BR": "Capítulo 18 — Como resolver as objeções contra a criação"
           }
         },
         {
           "id": "b2-ch019",
           "title": {
             "en-US": "Chapter 19 — That in creation there is no succession",
-            "la": "Caput 19"
+            "la": "Caput 19",
+            "pt-BR": "Capítulo 19 — Que na criação não há sucessão"
           }
         },
         {
           "id": "b2-ch020",
           "title": {
             "en-US": "Chapter 20 — That no body can create",
-            "la": "Caput 20"
+            "la": "Caput 20",
+            "pt-BR": "Capítulo 20 — Que nenhum corpo pode criar"
           }
         },
         {
           "id": "b2-ch021",
           "title": {
             "en-US": "Chapter 21 — That it belongs to God alone to create",
-            "la": "Caput 21"
+            "la": "Caput 21",
+            "pt-BR": "Capítulo 21 — Que somente a Deus pertence criar"
           }
         },
         {
           "id": "b2-ch022",
           "title": {
             "en-US": "Chapter 22 — That God can do all things",
-            "la": "Caput 22"
+            "la": "Caput 22",
+            "pt-BR": "Capítulo 22 — Que Deus pode fazer todas as coisas"
           }
         },
         {
           "id": "b2-ch023",
           "title": {
             "en-US": "Chapter 23 — That God does not act of natural necessity",
-            "la": "Caput 23"
+            "la": "Caput 23",
+            "pt-BR": "Capítulo 23 — Que Deus não age por necessidade natural"
           }
         },
         {
           "id": "b2-ch024",
           "title": {
             "en-US": "Chapter 24 — That God works according to his wisdom",
-            "la": "Caput 24"
+            "la": "Caput 24",
+            "pt-BR": "Capítulo 24 — Que Deus age segundo sua sabedoria"
           }
         },
         {
           "id": "b2-ch025",
           "title": {
             "en-US": "Chapter 25 — How the Almighty is said to be unable to do certain things",
-            "la": "Caput 25"
+            "la": "Caput 25",
+            "pt-BR": "Capítulo 25 — Como se diz que o Onipotente não pode fazer certas coisas"
           }
         },
         {
           "id": "b2-ch026",
           "title": {
             "en-US": "Chapter 26 — That the divine intellect is not confined to certain determined effects",
-            "la": "Caput 26"
+            "la": "Caput 26",
+            "pt-BR": "Capítulo 26 — Que o intelecto divino não está limitado a certos efeitos determinados"
           }
         },
         {
           "id": "b2-ch027",
           "title": {
             "en-US": "Chapter 27 — That the divine will is not confined to certain effects",
-            "la": "Caput 27"
+            "la": "Caput 27",
+            "pt-BR": "Capítulo 27 — Que a vontade divina não está limitada a certos efeitos"
           }
         },
         {
           "id": "b2-ch028",
           "title": {
             "en-US": "Chapter 28 — How there is anything due in the production of things",
-            "la": "Caput 28"
+            "la": "Caput 28",
+            "pt-BR": "Capítulo 28 — Como há algo devido na produção das coisas"
           }
         },
         {
           "id": "b2-ch029",
           "title": {
             "en-US": "Chapter 29 — Continuation of the foregoing",
-            "la": "Caput 29"
+            "la": "Caput 29",
+            "pt-BR": "Capítulo 29 — Continuação do que precede"
           }
         },
         {
           "id": "b2-ch030",
           "title": {
             "en-US": "Chapter 30 — How there can be absolute necessity in created things",
-            "la": "Caput 30"
+            "la": "Caput 30",
+            "pt-BR": "Capítulo 30 — Como pode haver necessidade absoluta nas coisas criadas"
           }
         },
         {
           "id": "b2-ch031",
           "title": {
             "en-US": "Chapter 31 — That it is not necessary for creatures to have been always",
-            "la": "Caput 31"
+            "la": "Caput 31",
+            "pt-BR": "Capítulo 31 — Que não é necessário que as criaturas tenham existido sempre"
           }
         },
         {
           "id": "b2-ch032",
           "title": {
             "en-US": "Chapter 32 — Arguments of those who wish to prove the eternity of the world from God’s side of the question",
-            "la": "Caput 32"
+            "la": "Caput 32",
+            "pt-BR": "Capítulo 32 — Argumentos dos que pretendem provar a eternidade do mundo a partir de Deus"
           }
         },
         {
           "id": "b2-ch033",
           "title": {
             "en-US": "Chapter 33 — Arguments of those who would prove the eternity of the world from the point of view of creatures",
-            "la": "Caput 33"
+            "la": "Caput 33",
+            "pt-BR": "Capítulo 33 — Argumentos dos que pretendem provar a eternidade do mundo a partir das criaturas"
           }
         },
         {
           "id": "b2-ch034",
           "title": {
             "en-US": "Chapter 34 — Arguments to prove the eternity of the world from the point of view of the making",
-            "la": "Caput 34"
+            "la": "Caput 34",
+            "pt-BR": "Capítulo 34 — Argumentos para provar a eternidade do mundo a partir de sua produção"
           }
         },
         {
           "id": "b2-ch035",
           "title": {
             "en-US": "Chapter 35 — Solution of the foregoing arguments, and first of those taken from the standpoint of God",
-            "la": "Caput 35"
+            "la": "Caput 35",
+            "pt-BR": "Capítulo 35 — Solução dos argumentos anteriores, começando pelos tomados a partir de Deus"
           }
         },
         {
           "id": "b2-ch036",
           "title": {
             "en-US": "Chapter 36 — Solution of the arguments produced on the part of the things made",
-            "la": "Caput 36"
+            "la": "Caput 36",
+            "pt-BR": "Capítulo 36 — Solução dos argumentos apresentados a partir das coisas produzidas"
           }
         },
         {
           "id": "b2-ch037",
           "title": {
             "en-US": "Chapter 37 — Solution of the arguments taken from the making of things",
-            "la": "Caput 37"
+            "la": "Caput 37",
+            "pt-BR": "Capítulo 37 — Solução dos argumentos tomados da produção das coisas"
           }
         },
         {
           "id": "b2-ch038",
           "title": {
             "en-US": "Chapter 38 — Arguments by which some endeavor to prove that the world is not eternal",
-            "la": "Caput 38"
+            "la": "Caput 38",
+            "pt-BR": "Capítulo 38 — Argumentos pelos quais alguns procuram provar que o mundo não é eterno"
           }
         },
         {
           "id": "b2-ch039",
           "title": {
             "en-US": "Chapter 39 — That the distinction of things is not from chance",
-            "la": "Caput 39"
+            "la": "Caput 39",
+            "pt-BR": "Capítulo 39 — Que a distinção das coisas não procede do acaso"
           }
         },
         {
           "id": "b2-ch040",
           "title": {
             "en-US": "Chapter 40 — That matter is not the first cause of the distinction of things",
-            "la": "Caput 40"
+            "la": "Caput 40",
+            "pt-BR": "Capítulo 40 — Que a matéria não é a primeira causa da distinção das coisas"
           }
         },
         {
           "id": "b2-ch041",
           "title": {
             "en-US": "Chapter 41 — That the distinction of things is not on account of a contrariety of agents",
-            "la": "Caput 41"
+            "la": "Caput 41",
+            "pt-BR": "Capítulo 41 — Que a distinção das coisas não se deve à contrariedade dos agentes"
           }
         },
         {
           "id": "b2-ch042",
           "title": {
             "en-US": "Chapter 42 — That the first cause of the distinction of things is not the order of secondary agents",
-            "la": "Caput 42"
+            "la": "Caput 42",
+            "pt-BR": "Capítulo 42 — Que a primeira causa da distinção das coisas não é a ordem dos agentes secundários"
           }
         },
         {
           "id": "b2-ch043",
           "title": {
             "en-US": "Chapter 43 — That the distinction among things does not result from some secondary agent introducing various forms into matter",
-            "la": "Caput 43"
+            "la": "Caput 43",
+            "pt-BR": "Capítulo 43 — Que a distinção das coisas não resulta de algum agente secundário que introduza diversas formas na matéria"
           }
         },
         {
           "id": "b2-ch044",
           "title": {
             "en-US": "Chapter 44 — That distinction among things did not result from the diversity of merits or demerits",
-            "la": "Caput 44"
+            "la": "Caput 44",
+            "pt-BR": "Capítulo 44 — Que a distinção das coisas não resultou da diversidade de méritos ou deméritos"
           }
         },
         {
           "id": "b2-ch045",
           "title": {
             "en-US": "Chapter 45 — What is in truth the first cause of the distinction of things",
-            "la": "Caput 45"
+            "la": "Caput 45",
+            "pt-BR": "Capítulo 45 — Qual é verdadeiramente a primeira causa da distinção das coisas"
           }
         },
         {
           "id": "b2-ch046",
           "title": {
             "en-US": "Chapter 46 — That for the perfection of the universe it was necessary that there should be some intellectual creatures",
-            "la": "Caput 46"
+            "la": "Caput 46",
+            "pt-BR": "Capítulo 46 — Que, para a perfeição do universo, era necessário haver algumas criaturas intelectuais"
           }
         },
         {
           "id": "b2-ch047",
           "title": {
             "en-US": "Chapter 47 — That intellectual substances are capable of willing",
-            "la": "Caput 47"
+            "la": "Caput 47",
+            "pt-BR": "Capítulo 47 — Que as substâncias intelectuais são capazes de querer"
           }
         },
         {
           "id": "b2-ch048",
           "title": {
             "en-US": "Chapter 48 — That intellectual substances are of free will in acting",
-            "la": "Caput 48"
+            "la": "Caput 48",
+            "pt-BR": "Capítulo 48 — Que as substâncias intelectuais agem com livre-arbítrio"
           }
         },
         {
           "id": "b2-ch049",
           "title": {
             "en-US": "Chapter 49 — That the intellectual substance is not a body",
-            "la": "Caput 49"
+            "la": "Caput 49",
+            "pt-BR": "Capítulo 49 — Que a substância intelectual não é corpo"
           }
         },
         {
           "id": "b2-ch050",
           "title": {
             "en-US": "Chapter 50 — That intellectual substances are immaterial",
-            "la": "Caput 50"
+            "la": "Caput 50",
+            "pt-BR": "Capítulo 50 — Que as substâncias intelectuais são imateriais"
           }
         },
         {
           "id": "b2-ch051",
           "title": {
             "en-US": "Chapter 51 — That the intellectual substance is not a material form",
-            "la": "Caput 51"
+            "la": "Caput 51",
+            "pt-BR": "Capítulo 51 — Que a substância intelectual não é uma forma material"
           }
         },
         {
           "id": "b2-ch052",
           "title": {
             "en-US": "Chapter 52 — That in created intellectual substances there is a difference between being and what is",
-            "la": "Caput 52"
+            "la": "Caput 52",
+            "pt-BR": "Capítulo 52 — Que nas substâncias intelectuais criadas há diferença entre o ser e aquilo que é"
           }
         },
         {
           "id": "b2-ch053",
           "title": {
             "en-US": "Chapter 53 — That in created intellectual substances there is act and potency",
-            "la": "Caput 53"
+            "la": "Caput 53",
+            "pt-BR": "Capítulo 53 — Que nas substâncias intelectuais criadas há ato e potência"
           }
         },
         {
           "id": "b2-ch054",
           "title": {
             "en-US": "Chapter 54 — That composition of substance and being is not the same as composition of matter and form",
-            "la": "Caput 54"
+            "la": "Caput 54",
+            "pt-BR": "Capítulo 54 — Que a composição de substância e ser não é a mesma que a composição de matéria e forma"
           }
         },
         {
           "id": "b2-ch055",
           "title": {
             "en-US": "Chapter 55 — That intellectual substances are incorruptible",
-            "la": "Caput 55"
+            "la": "Caput 55",
+            "pt-BR": "Capítulo 55 — Que as substâncias intelectuais são incorruptíveis"
           }
         },
         {
           "id": "b2-ch056",
           "title": {
             "en-US": "Chapter 56 — In what way it is possible for an intellectual substance to be united to the body",
-            "la": "Caput 56"
+            "la": "Caput 56",
+            "pt-BR": "Capítulo 56 — De que modo uma substância intelectual pode unir-se ao corpo"
           }
         },
         {
           "id": "b2-ch057",
           "title": {
             "en-US": "Chapter 57 — The opinion of Plato concerning the union of the intellectual soul with the body",
-            "la": "Caput 57"
+            "la": "Caput 57",
+            "pt-BR": "Capítulo 57 — A opinião de Platão sobre a união da alma intelectual com o corpo"
           }
         },
         {
           "id": "b2-ch058",
           "title": {
             "en-US": "Chapter 58 — That the nutritive, sensitive, and intellective faculties in man are not three souls",
-            "la": "Caput 58"
+            "la": "Caput 58",
+            "pt-BR": "Capítulo 58 — Que as faculdades nutritiva, sensitiva e intelectiva no homem não são três almas"
           }
         },
         {
           "id": "b2-ch059",
           "title": {
             "en-US": "Chapter 59 — That man’s possible intellect is not a separate substance",
-            "la": "Caput 59"
+            "la": "Caput 59",
+            "pt-BR": "Capítulo 59 — Que o intelecto possível do homem não é uma substância separada"
           }
         },
         {
           "id": "b2-ch060",
           "title": {
             "en-US": "Chapter 60 — That man derives his species not from the passive, but from the possible intellect",
-            "la": "Caput 60"
+            "la": "Caput 60",
+            "pt-BR": "Capítulo 60 — Que o homem recebe sua espécie do intelecto possível, e não do passivo"
           }
         },
         {
           "id": "b2-ch061",
           "title": {
             "en-US": "Chapter 61 — That the aforesaid opinion is contrary to that of Aristotle",
-            "la": "Caput 61"
+            "la": "Caput 61",
+            "pt-BR": "Capítulo 61 — Que a opinião mencionada é contrária à de Aristóteles"
           }
         },
         {
           "id": "b2-ch062",
           "title": {
             "en-US": "Chapter 62 — Against the opinion of Alexander about the possible intellect",
-            "la": "Caput 62"
+            "la": "Caput 62",
+            "pt-BR": "Capítulo 62 — Contra a opinião de Alexandre sobre o intelecto possível"
           }
         },
         {
           "id": "b2-ch063",
           "title": {
             "en-US": "Chapter 63 — That the soul is not a temperament, as Galen asserted",
-            "la": "Caput 63"
+            "la": "Caput 63",
+            "pt-BR": "Capítulo 63 — Que a alma não é um temperamento, como afirmou Galeno"
           }
         },
         {
           "id": "b2-ch064",
           "title": {
             "en-US": "Chapter 64 — That the soul is not a harmony",
-            "la": "Caput 64"
+            "la": "Caput 64",
+            "pt-BR": "Capítulo 64 — Que a alma não é uma harmonia"
           }
         },
         {
           "id": "b2-ch065",
           "title": {
             "en-US": "Chapter 65 — That the soul is not a body",
-            "la": "Caput 65"
+            "la": "Caput 65",
+            "pt-BR": "Capítulo 65 — Que a alma não é corpo"
           }
         },
         {
           "id": "b2-ch066",
           "title": {
             "en-US": "Chapter 66 — Against those who say that intellect and sense are the same",
-            "la": "Caput 66"
+            "la": "Caput 66",
+            "pt-BR": "Capítulo 66 — Contra os que dizem que o intelecto e os sentidos são o mesmo"
           }
         },
         {
           "id": "b2-ch067",
           "title": {
             "en-US": "Chapter 67 — Against those who say that the possible intellect is the imagination",
-            "la": "Caput 67"
+            "la": "Caput 67",
+            "pt-BR": "Capítulo 67 — Contra os que dizem que o intelecto possível é a imaginação"
           }
         },
         {
           "id": "b2-ch068",
           "title": {
             "en-US": "Chapter 68 — How an intellectual substance can be the form of the body",
-            "la": "Caput 68"
+            "la": "Caput 68",
+            "pt-BR": "Capítulo 68 — Como uma substância intelectual pode ser a forma do corpo"
           }
         },
         {
           "id": "b2-ch069",
           "title": {
             "en-US": "Chapter 69 — Solution of the arguments by which it was proved above that an intellectual substance cannot be united to the body as its form",
-            "la": "Caput 69"
+            "la": "Caput 69",
+            "pt-BR": "Capítulo 69 — Solução dos argumentos pelos quais se provou acima que uma substância intelectual não pode unir-se ao corpo como sua forma"
           }
         },
         {
           "id": "b2-ch070",
           "title": {
             "en-US": "Chapter 70 — That according to the words of Aristotle we must say that the intellect is united to the body as its form",
-            "la": "Caput 70"
+            "la": "Caput 70",
+            "pt-BR": "Capítulo 70 — Que, segundo as palavras de Aristóteles, devemos dizer que o intelecto se une ao corpo como sua forma"
           }
         },
         {
           "id": "b2-ch071",
           "title": {
             "en-US": "Chapter 71 — That the soul is united to the body immediately",
-            "la": "Caput 71"
+            "la": "Caput 71",
+            "pt-BR": "Capítulo 71 — Que a alma se une ao corpo imediatamente"
           }
         },
         {
           "id": "b2-ch072",
           "title": {
             "en-US": "Chapter 72 — That the whole soul is in the whole body and in each part thereof",
-            "la": "Caput 72"
+            "la": "Caput 72",
+            "pt-BR": "Capítulo 72 — Que a alma inteira está no corpo inteiro e em cada uma de suas partes"
           }
         },
         {
           "id": "b2-ch073",
           "title": {
             "en-US": "Chapter 73 — That there is not one possible intellect in all men",
-            "la": "Caput 73"
+            "la": "Caput 73",
+            "pt-BR": "Capítulo 73 — Que não há um único intelecto possível em todos os homens"
           }
         },
         {
           "id": "b2-ch074",
           "title": {
             "en-US": "Chapter 74 — Of the opinion of Avicenna, who asserted that intelligible forms are not preserved in the possible intellect",
-            "la": "Caput 74"
+            "la": "Caput 74",
+            "pt-BR": "Capítulo 74 — Da opinião de Avicena, que afirmou que as formas inteligíveis não se conservam no intelecto possível"
           }
         },
         {
           "id": "b2-ch075",
           "title": {
             "en-US": "Chapter 75 — Solution of the arguments which would seem to prove the unity of the possible intellect",
-            "la": "Caput 75"
+            "la": "Caput 75",
+            "pt-BR": "Capítulo 75 — Solução dos argumentos que parecem provar a unidade do intelecto possível"
           }
         },
         {
           "id": "b2-ch076",
           "title": {
             "en-US": "Chapter 76 — That the active intellect is not a separate substance but part of the soul",
-            "la": "Caput 76"
+            "la": "Caput 76",
+            "pt-BR": "Capítulo 76 — Que o intelecto agente não é uma substância separada, mas parte da alma"
           }
         },
         {
           "id": "b2-ch077",
           "title": {
             "en-US": "Chapter 77 — That it is not impossible for the possible and active intellect to concur in the one substance of the soul",
-            "la": "Caput 77"
+            "la": "Caput 77",
+            "pt-BR": "Capítulo 77 — Que não é impossível que o intelecto possível e o agente coexistam na única substância da alma"
           }
         },
         {
           "id": "b2-ch078",
           "title": {
             "en-US": "Chapter 78 — That Aristotle’s opinion concerning the active intellect was not that it is a separate substance, but rather that it is part of the soul",
-            "la": "Caput 78"
+            "la": "Caput 78",
+            "pt-BR": "Capítulo 78 — Que Aristóteles considerava o intelecto agente parte da alma, e não uma substância separada"
           }
         },
         {
           "id": "b2-ch079",
           "title": {
             "en-US": "Chapter 79 — That the human soul is not corrupted when the body is corrupted",
-            "la": "Caput 79"
+            "la": "Caput 79",
+            "pt-BR": "Capítulo 79 — Que a alma humana não se corrompe quando o corpo se corrompe"
           }
         },
         {
           "id": "b2-ch080",
           "title": {
             "en-US": "Chapter 80 — Arguments to prove that the soul is corrupted when the body is corrupted",
-            "la": "Caput 80"
+            "la": "Caput 80",
+            "pt-BR": "Capítulo 80 — Argumentos para provar que a alma se corrompe quando o corpo se corrompe"
           }
         },
         {
           "id": "b2-ch081",
           "title": {
             "en-US": "Chapter 81 — Continuation of the foregoing",
-            "la": "Caput 81"
+            "la": "Caput 81",
+            "pt-BR": "Capítulo 81 — Continuação do que precede"
           }
         },
         {
           "id": "b2-ch082",
           "title": {
             "en-US": "Chapter 82 — That the souls of dumb animals are not immortal",
-            "la": "Caput 82"
+            "la": "Caput 82",
+            "pt-BR": "Capítulo 82 — Que as almas dos animais irracionais não são imortais"
           }
         },
         {
           "id": "b2-ch083",
           "title": {
             "en-US": "Chapter 83 — That the human soul begins to exist with the body",
-            "la": "Caput 83"
+            "la": "Caput 83",
+            "pt-BR": "Capítulo 83 — Que a alma humana começa a existir com o corpo"
           }
         },
         {
           "id": "b2-ch084",
           "title": {
             "en-US": "Chapter 84 — Solution of the foregoing arguments",
-            "la": "Caput 84"
+            "la": "Caput 84",
+            "pt-BR": "Capítulo 84 — Solução dos argumentos anteriores"
           }
         },
         {
           "id": "b2-ch085",
           "title": {
             "en-US": "Chapter 85 — That the soul is not made of God’s substance",
-            "la": "Caput 85"
+            "la": "Caput 85",
+            "pt-BR": "Capítulo 85 — Que a alma não é feita da substância de Deus"
           }
         },
         {
           "id": "b2-ch086",
           "title": {
             "en-US": "Chapter 86 — That the human soul is not transmitted with the semen",
-            "la": "Caput 86"
+            "la": "Caput 86",
+            "pt-BR": "Capítulo 86 — Que a alma humana não é transmitida com o sêmen"
           }
         },
         {
           "id": "b2-ch087",
           "title": {
             "en-US": "Chapter 87 — That the human soul is brought into being through creation by God",
-            "la": "Caput 87"
+            "la": "Caput 87",
+            "pt-BR": "Capítulo 87 — Que a alma humana é produzida no ser por criação de Deus"
           }
         },
         {
           "id": "b2-ch088",
           "title": {
             "en-US": "Chapter 88 — Arguments for proving that the human soul is formed from the semen",
-            "la": "Caput 88"
+            "la": "Caput 88",
+            "pt-BR": "Capítulo 88 — Argumentos para provar que a alma humana é formada a partir do sêmen"
           }
         },
         {
           "id": "b2-ch089",
           "title": {
             "en-US": "Chapter 89 — Solution of the foregoing arguments",
-            "la": "Caput 89"
+            "la": "Caput 89",
+            "pt-BR": "Capítulo 89 — Solução dos argumentos anteriores"
           }
         },
         {
           "id": "b2-ch090",
           "title": {
             "en-US": "Chapter 90 — That an intellectual substance is united as a form to no other than the human body",
-            "la": "Caput 90"
+            "la": "Caput 90",
+            "pt-BR": "Capítulo 90 — Que uma substância intelectual se une como forma somente ao corpo humano"
           }
         },
         {
           "id": "b2-ch091",
           "title": {
             "en-US": "Chapter 91 — That there are some intellectual substances which are not united to bodies",
-            "la": "Caput 91"
+            "la": "Caput 91",
+            "pt-BR": "Capítulo 91 — Que existem algumas substâncias intelectuais que não estão unidas a corpos"
           }
         },
         {
           "id": "b2-ch092",
           "title": {
             "en-US": "Chapter 92 — Of the great number of separate substances",
-            "la": "Caput 92"
+            "la": "Caput 92",
+            "pt-BR": "Capítulo 92 — Do grande número de substâncias separadas"
           }
         },
         {
           "id": "b2-ch093",
           "title": {
             "en-US": "Chapter 93 — That there are not several separate substances of one species",
-            "la": "Caput 93"
+            "la": "Caput 93",
+            "pt-BR": "Capítulo 93 — Que não há várias substâncias separadas de uma mesma espécie"
           }
         },
         {
           "id": "b2-ch094",
           "title": {
             "en-US": "Chapter 94 — That the separate substance and the soul are not of one species",
-            "la": "Caput 94"
+            "la": "Caput 94",
+            "pt-BR": "Capítulo 94 — Que a substância separada e a alma não são da mesma espécie"
           }
         },
         {
           "id": "b2-ch095",
           "title": {
             "en-US": "Chapter 95 — How we are to understand genus and species in separate substances",
-            "la": "Caput 95"
+            "la": "Caput 95",
+            "pt-BR": "Capítulo 95 — Como se devem entender o gênero e a espécie nas substâncias separadas"
           }
         },
         {
           "id": "b2-ch096",
           "title": {
             "en-US": "Chapter 96 — That separate substances do not gather their knowledge from sensibles",
-            "la": "Caput 96"
+            "la": "Caput 96",
+            "pt-BR": "Capítulo 96 — Que as substâncias separadas não obtêm seu conhecimento das coisas sensíveis"
           }
         },
         {
           "id": "b2-ch097",
           "title": {
             "en-US": "Chapter 97 — That the intellect of a separate substance always understands actually",
-            "la": "Caput 97"
+            "la": "Caput 97",
+            "pt-BR": "Capítulo 97 — Que o intelecto de uma substância separada entende sempre em ato"
           }
         },
         {
           "id": "b2-ch098",
           "title": {
             "en-US": "Chapter 98 — How one separate substance understands another",
-            "la": "Caput 98"
+            "la": "Caput 98",
+            "pt-BR": "Capítulo 98 — Como uma substância separada entende outra"
           }
         },
         {
           "id": "b2-ch099",
           "title": {
             "en-US": "Chapter 99 — That separate substances know material things",
-            "la": "Caput 99"
+            "la": "Caput 99",
+            "pt-BR": "Capítulo 99 — Que as substâncias separadas conhecem as coisas materiais"
           }
         },
         {
           "id": "b2-ch100",
           "title": {
             "en-US": "Chapter 100 — That separate substances know singulars",
-            "la": "Caput 100"
+            "la": "Caput 100",
+            "pt-BR": "Capítulo 100 — Que as substâncias separadas conhecem os singulares"
           }
         },
         {
           "id": "b2-ch101",
           "title": {
             "en-US": "Chapter 101 — Whether separate substances know all things at the same time by their natural knowledge",
-            "la": "Caput 101"
+            "la": "Caput 101",
+            "pt-BR": "Capítulo 101 — Se as substâncias separadas conhecem todas as coisas simultaneamente por seu conhecimento natural"
           }
         }
       ]
@@ -1474,1148 +1683,1312 @@
       "id": "b3",
       "title": {
         "en-US": "Book III",
-        "la": "Liber III"
+        "la": "Liber III",
+        "pt-BR": "Livro III"
       },
       "children": [
         {
           "id": "b3-ch001",
           "title": {
             "en-US": "Chapter 1 — Prologue",
-            "la": "Caput 1"
+            "la": "Caput 1",
+            "pt-BR": "Capítulo 1 — Prólogo"
           }
         },
         {
           "id": "b3-ch002",
           "title": {
             "en-US": "Chapter 2 — That every agent acts for an end",
-            "la": "Caput 2"
+            "la": "Caput 2",
+            "pt-BR": "Capítulo 2 — Que todo agente age em vista de um fim"
           }
         },
         {
           "id": "b3-ch003",
           "title": {
             "en-US": "Chapter 3 — That every agent acts for a good",
-            "la": "Caput 3"
+            "la": "Caput 3",
+            "pt-BR": "Capítulo 3 — Que todo agente age em vista de um bem"
           }
         },
         {
           "id": "b3-ch004",
           "title": {
             "en-US": "Chapter 4 — That evil is unintentional in things",
-            "la": "Caput 4"
+            "la": "Caput 4",
+            "pt-BR": "Capítulo 4 — Que o mal ocorre nas coisas fora da intenção"
           }
         },
         {
           "id": "b3-ch005",
           "title": {
             "en-US": "Chapter 5 — Arguments that would seem to prove that evil is not beside the intention",
-            "la": "Caput 5"
+            "la": "Caput 5",
+            "pt-BR": "Capítulo 5 — Argumentos que parecem provar que o mal não está fora da intenção"
           }
         },
         {
           "id": "b3-ch006",
           "title": {
             "en-US": "Chapter 6 — Answers to these arguments",
-            "la": "Caput 6"
+            "la": "Caput 6",
+            "pt-BR": "Capítulo 6 — Respostas a esses argumentos"
           }
         },
         {
           "id": "b3-ch007",
           "title": {
             "en-US": "Chapter 7 — That evil is not an essence",
-            "la": "Caput 7"
+            "la": "Caput 7",
+            "pt-BR": "Capítulo 7 — Que o mal não é uma essência"
           }
         },
         {
           "id": "b3-ch008",
           "title": {
             "en-US": "Chapter 8 — Arguments whereby it seems to be proved that evil is a nature or a thing",
-            "la": "Caput 8"
+            "la": "Caput 8",
+            "pt-BR": "Capítulo 8 — Argumentos pelos quais parece provar-se que o mal é uma natureza ou uma coisa"
           }
         },
         {
           "id": "b3-ch009",
           "title": {
             "en-US": "Chapter 9 — Answers to these arguments",
-            "la": "Caput 9"
+            "la": "Caput 9",
+            "pt-BR": "Capítulo 9 — Respostas a esses argumentos"
           }
         },
         {
           "id": "b3-ch010",
           "title": {
             "en-US": "Chapter 10 — That the cause of evil is a good",
-            "la": "Caput 10"
+            "la": "Caput 10",
+            "pt-BR": "Capítulo 10 — Que a causa do mal é um bem"
           }
         },
         {
           "id": "b3-ch011",
           "title": {
             "en-US": "Chapter 11 — That the subject of evil is a good",
-            "la": "Caput 11"
+            "la": "Caput 11",
+            "pt-BR": "Capítulo 11 — Que o sujeito do mal é um bem"
           }
         },
         {
           "id": "b3-ch012",
           "title": {
             "en-US": "Chapter 12 — That evil does not entirely destroy good",
-            "la": "Caput 12"
+            "la": "Caput 12",
+            "pt-BR": "Capítulo 12 — Que o mal não destrói inteiramente o bem"
           }
         },
         {
           "id": "b3-ch013",
           "title": {
             "en-US": "Chapter 13 — That evil has a cause of some kind",
-            "la": "Caput 13"
+            "la": "Caput 13",
+            "pt-BR": "Capítulo 13 — Que o mal tem alguma causa"
           }
         },
         {
           "id": "b3-ch014",
           "title": {
             "en-US": "Chapter 14 — That evil is an accidental cause",
-            "la": "Caput 14"
+            "la": "Caput 14",
+            "pt-BR": "Capítulo 14 — Que o mal é causa por acidente"
           }
         },
         {
           "id": "b3-ch015",
           "title": {
             "en-US": "Chapter 15 — That there is no highest evil",
-            "la": "Caput 15"
+            "la": "Caput 15",
+            "pt-BR": "Capítulo 15 — Que não existe um sumo mal"
           }
         },
         {
           "id": "b3-ch016",
           "title": {
             "en-US": "Chapter 16 — That the end of everything is a good",
-            "la": "Caput 16"
+            "la": "Caput 16",
+            "pt-BR": "Capítulo 16 — Que o fim de cada coisa é um bem"
           }
         },
         {
           "id": "b3-ch017",
           "title": {
             "en-US": "Chapter 17 — That all things are directed to one end, which is God",
-            "la": "Caput 17"
+            "la": "Caput 17",
+            "pt-BR": "Capítulo 17 — Que todas as coisas se ordenam a um único fim, que é Deus"
           }
         },
         {
           "id": "b3-ch018",
           "title": {
             "en-US": "Chapter 18 — How God is the end of things",
-            "la": "Caput 18"
+            "la": "Caput 18",
+            "pt-BR": "Capítulo 18 — Como Deus é o fim das coisas"
           }
         },
         {
           "id": "b3-ch019",
           "title": {
             "en-US": "Chapter 19 — That all things tend to be like unto God",
-            "la": "Caput 19"
+            "la": "Caput 19",
+            "pt-BR": "Capítulo 19 — Que todas as coisas tendem a assemelhar-se a Deus"
           }
         },
         {
           "id": "b3-ch020",
           "title": {
             "en-US": "Chapter 20 — How things imitate the divine goodness",
-            "la": "Caput 20"
+            "la": "Caput 20",
+            "pt-BR": "Capítulo 20 — Como as coisas imitam a bondade divina"
           }
         },
         {
           "id": "b3-ch021",
           "title": {
             "en-US": "Chapter 21 — That things have a natural tendency to be like God in that he is a cause",
-            "la": "Caput 21"
+            "la": "Caput 21",
+            "pt-BR": "Capítulo 21 — Que as coisas tendem naturalmente a assemelhar-se a Deus enquanto ele é causa"
           }
         },
         {
           "id": "b3-ch022",
           "title": {
             "en-US": "Chapter 22 — How things are directed in various ways to their respective ends",
-            "la": "Caput 22"
+            "la": "Caput 22",
+            "pt-BR": "Capítulo 22 — Como as coisas se ordenam de diversos modos a seus respectivos fins"
           }
         },
         {
           "id": "b3-ch023",
           "title": {
             "en-US": "Chapter 23 — That the movement of the heaven is from an intellective principle",
-            "la": "Caput 23"
+            "la": "Caput 23",
+            "pt-BR": "Capítulo 23 — Que o movimento do céu procede de um princípio intelectivo"
           }
         },
         {
           "id": "b3-ch024",
           "title": {
             "en-US": "Chapter 24 — How even things devoid of knowledge seek the good",
-            "la": "Caput 24"
+            "la": "Caput 24",
+            "pt-BR": "Capítulo 24 — Como até as coisas desprovidas de conhecimento buscam o bem"
           }
         },
         {
           "id": "b3-ch025",
           "title": {
             "en-US": "Chapter 25 — That to know God is the end of every intelligent substance",
-            "la": "Caput 25"
+            "la": "Caput 25",
+            "pt-BR": "Capítulo 25 — Que conhecer Deus é o fim de toda substância inteligente"
           }
         },
         {
           "id": "b3-ch026",
           "title": {
             "en-US": "Chapter 26 — Whether happiness consists in an act of the will",
-            "la": "Caput 26"
+            "la": "Caput 26",
+            "pt-BR": "Capítulo 26 — Se a bem-aventurança consiste num ato da vontade"
           }
         },
         {
           "id": "b3-ch027",
           "title": {
             "en-US": "Chapter 27 — That human happiness does not consist in carnal pleasures",
-            "la": "Caput 27"
+            "la": "Caput 27",
+            "pt-BR": "Capítulo 27 — Que a bem-aventurança humana não consiste nos prazeres carnais"
           }
         },
         {
           "id": "b3-ch028",
           "title": {
             "en-US": "Chapter 28 — That happiness does not consist in honors",
-            "la": "Caput 28"
+            "la": "Caput 28",
+            "pt-BR": "Capítulo 28 — Que a bem-aventurança não consiste nas honras"
           }
         },
         {
           "id": "b3-ch029",
           "title": {
             "en-US": "Chapter 29 — That man’s happiness consists not in glory",
-            "la": "Caput 29"
+            "la": "Caput 29",
+            "pt-BR": "Capítulo 29 — Que a bem-aventurança do homem não consiste na glória"
           }
         },
         {
           "id": "b3-ch030",
           "title": {
             "en-US": "Chapter 30 — That man’s happiness does not consist in wealth",
-            "la": "Caput 30"
+            "la": "Caput 30",
+            "pt-BR": "Capítulo 30 — Que a bem-aventurança do homem não consiste nas riquezas"
           }
         },
         {
           "id": "b3-ch031",
           "title": {
             "en-US": "Chapter 31 — That happiness consists not in worldly power",
-            "la": "Caput 31"
+            "la": "Caput 31",
+            "pt-BR": "Capítulo 31 — Que a bem-aventurança não consiste no poder mundano"
           }
         },
         {
           "id": "b3-ch032",
           "title": {
             "en-US": "Chapter 32 — That happiness consists not in goods of the body",
-            "la": "Caput 32"
+            "la": "Caput 32",
+            "pt-BR": "Capítulo 32 — Que a bem-aventurança não consiste nos bens do corpo"
           }
         },
         {
           "id": "b3-ch033",
           "title": {
             "en-US": "Chapter 33 — That human happiness is not seated in the senses",
-            "la": "Caput 33"
+            "la": "Caput 33",
+            "pt-BR": "Capítulo 33 — Que a bem-aventurança humana não reside nos sentidos"
           }
         },
         {
           "id": "b3-ch034",
           "title": {
             "en-US": "Chapter 34 — That man’s ultimate happiness does not consist in acts of moral virtue",
-            "la": "Caput 34"
+            "la": "Caput 34",
+            "pt-BR": "Capítulo 34 — Que a bem-aventurança última do homem não consiste nos atos de virtude moral"
           }
         },
         {
           "id": "b3-ch035",
           "title": {
             "en-US": "Chapter 35 — That ultimate happiness does not consist in the act of prudence",
-            "la": "Caput 35"
+            "la": "Caput 35",
+            "pt-BR": "Capítulo 35 — Que a bem-aventurança última não consiste no ato da prudência"
           }
         },
         {
           "id": "b3-ch036",
           "title": {
             "en-US": "Chapter 36 — That happiness does not consist in the practice of art",
-            "la": "Caput 36"
+            "la": "Caput 36",
+            "pt-BR": "Capítulo 36 — Que a bem-aventurança não consiste no exercício da arte"
           }
         },
         {
           "id": "b3-ch037",
           "title": {
             "en-US": "Chapter 37 — That man’s ultimate happiness consists in contemplating God",
-            "la": "Caput 37"
+            "la": "Caput 37",
+            "pt-BR": "Capítulo 37 — Que a bem-aventurança última do homem consiste na contemplação de Deus"
           }
         },
         {
           "id": "b3-ch038",
           "title": {
             "en-US": "Chapter 38 — That human happiness does not consist in the knowledge of God which is possessed generally by the majority",
-            "la": "Caput 38"
+            "la": "Caput 38",
+            "pt-BR": "Capítulo 38 — Que a bem-aventurança humana não consiste no conhecimento de Deus geralmente possuído pela maioria"
           }
         },
         {
           "id": "b3-ch039",
           "title": {
             "en-US": "Chapter 39 — That man’s happiness does not consist in the knowledge of God acquired by demonstration",
-            "la": "Caput 39"
+            "la": "Caput 39",
+            "pt-BR": "Capítulo 39 — Que a bem-aventurança do homem não consiste no conhecimento de Deus adquirido por demonstração"
           }
         },
         {
           "id": "b3-ch040",
           "title": {
             "en-US": "Chapter 40 — That man’s happiness does not consist in the knowledge of God by faith",
-            "la": "Caput 40"
+            "la": "Caput 40",
+            "pt-BR": "Capítulo 40 — Que a bem-aventurança do homem não consiste no conhecimento de Deus pela fé"
           }
         },
         {
           "id": "b3-ch041",
           "title": {
             "en-US": "Chapter 41 — Whether it is possible for man in this life to understand separate substances by the study and inquiry of speculative sciences",
-            "la": "Caput 41"
+            "la": "Caput 41",
+            "pt-BR": "Capítulo 41 — Se o homem pode, nesta vida, entender as substâncias separadas pelo estudo e pela investigação das ciências especulativas"
           }
         },
         {
           "id": "b3-ch042",
           "title": {
             "en-US": "Chapter 42 — That in this life we are unable to know separate substances in the manner proposed by Alexander",
-            "la": "Caput 42"
+            "la": "Caput 42",
+            "pt-BR": "Capítulo 42 — Que nesta vida não podemos conhecer as substâncias separadas do modo proposto por Alexandre"
           }
         },
         {
           "id": "b3-ch043",
           "title": {
             "en-US": "Chapter 43 — That we cannot understand separate substances in this life in the manner suggested by Averroes",
-            "la": "Caput 43"
+            "la": "Caput 43",
+            "pt-BR": "Capítulo 43 — Que não podemos entender as substâncias separadas nesta vida do modo proposto por Averróis"
           }
         },
         {
           "id": "b3-ch044",
           "title": {
             "en-US": "Chapter 44 — That man’s ultimate happiness does not consist in the knowledge of separate substances as pretended by the aforesaid opinions",
-            "la": "Caput 44"
+            "la": "Caput 44",
+            "pt-BR": "Capítulo 44 — Que a bem-aventurança última do homem não consiste no conhecimento das substâncias separadas como pretendem as opiniões mencionadas"
           }
         },
         {
           "id": "b3-ch045",
           "title": {
             "en-US": "Chapter 45 — That it is impossible in this life to understand separate substances",
-            "la": "Caput 45"
+            "la": "Caput 45",
+            "pt-BR": "Capítulo 45 — Que é impossível entender as substâncias separadas nesta vida"
           }
         },
         {
           "id": "b3-ch046",
           "title": {
             "en-US": "Chapter 46 — That in this life the soul does not understand itself by itself",
-            "la": "Caput 46"
+            "la": "Caput 46",
+            "pt-BR": "Capítulo 46 — Que nesta vida a alma não entende a si mesma por si mesma"
           }
         },
         {
           "id": "b3-ch047",
           "title": {
             "en-US": "Chapter 47 — That in this life we are unable to see God in his essence",
-            "la": "Caput 47"
+            "la": "Caput 47",
+            "pt-BR": "Capítulo 47 — Que nesta vida não podemos ver Deus em sua essência"
           }
         },
         {
           "id": "b3-ch048",
           "title": {
             "en-US": "Chapter 48 — That man’s ultimate happiness is not in this life",
-            "la": "Caput 48"
+            "la": "Caput 48",
+            "pt-BR": "Capítulo 48 — Que a bem-aventurança última do homem não está nesta vida"
           }
         },
         {
           "id": "b3-ch049",
           "title": {
             "en-US": "Chapter 49 — That separate substances do not see God in his essence through knowing him by their own essences",
-            "la": "Caput 49"
+            "la": "Caput 49",
+            "pt-BR": "Capítulo 49 — Que as substâncias separadas não veem Deus em sua essência ao conhecê-lo por suas próprias essências"
           }
         },
         {
           "id": "b3-ch050",
           "title": {
             "en-US": "Chapter 50 — That the natural desire of the separate substances is not set at rest in the natural knowledge they have of God",
-            "la": "Caput 50"
+            "la": "Caput 50",
+            "pt-BR": "Capítulo 50 — Que o desejo natural das substâncias separadas não repousa no conhecimento natural que têm de Deus"
           }
         },
         {
           "id": "b3-ch051",
           "title": {
             "en-US": "Chapter 51 — How God may be seen in his essence",
-            "la": "Caput 51"
+            "la": "Caput 51",
+            "pt-BR": "Capítulo 51 — Como Deus pode ser visto em sua essência"
           }
         },
         {
           "id": "b3-ch052",
           "title": {
             "en-US": "Chapter 52 — That no created substance can by its natural power arrive at seeing God in his essence",
-            "la": "Caput 52"
+            "la": "Caput 52",
+            "pt-BR": "Capítulo 52 — Que nenhuma substância criada pode, por seu poder natural, chegar a ver Deus em sua essência"
           }
         },
         {
           "id": "b3-ch053",
           "title": {
             "en-US": "Chapter 53 — That the created intellect needs a ray of the divine light in order to see God in his essence",
-            "la": "Caput 53"
+            "la": "Caput 53",
+            "pt-BR": "Capítulo 53 — Que o intelecto criado necessita de um raio da luz divina para ver Deus em sua essência"
           }
         },
         {
           "id": "b3-ch054",
           "title": {
             "en-US": "Chapter 54 — Arguments that would seem to prove that God cannot be seen in his essence, and their solution",
-            "la": "Caput 54"
+            "la": "Caput 54",
+            "pt-BR": "Capítulo 54 — Argumentos que parecem provar que Deus não pode ser visto em sua essência, e sua solução"
           }
         },
         {
           "id": "b3-ch055",
           "title": {
             "en-US": "Chapter 55 — That the created intellect does not comprehend the divine substance",
-            "la": "Caput 55"
+            "la": "Caput 55",
+            "pt-BR": "Capítulo 55 — Que o intelecto criado não compreende a substância divina"
           }
         },
         {
           "id": "b3-ch056",
           "title": {
             "en-US": "Chapter 56 — That no created intellect, in seeing God, sees all that can be seen in him",
-            "la": "Caput 56"
+            "la": "Caput 56",
+            "pt-BR": "Capítulo 56 — Que nenhum intelecto criado, ao ver Deus, vê tudo o que nele pode ser visto"
           }
         },
         {
           "id": "b3-ch057",
           "title": {
             "en-US": "Chapter 57 — That every intellect of any degree can participate in the divine vision",
-            "la": "Caput 57"
+            "la": "Caput 57",
+            "pt-BR": "Capítulo 57 — Que todo intelecto, de qualquer grau, pode participar da visão divina"
           }
         },
         {
           "id": "b3-ch058",
           "title": {
             "en-US": "Chapter 58 — That it is possible for one to see God more perfectly than another",
-            "la": "Caput 58"
+            "la": "Caput 58",
+            "pt-BR": "Capítulo 58 — Que é possível a um ver Deus mais perfeitamente que a outro"
           }
         },
         {
           "id": "b3-ch059",
           "title": {
             "en-US": "Chapter 59 — How those who see the divine substance see all things",
-            "la": "Caput 59"
+            "la": "Caput 59",
+            "pt-BR": "Capítulo 59 — Como aqueles que veem a substância divina veem todas as coisas"
           }
         },
         {
           "id": "b3-ch060",
           "title": {
             "en-US": "Chapter 60 — That those who see God see all in him at once",
-            "la": "Caput 60"
+            "la": "Caput 60",
+            "pt-BR": "Capítulo 60 — Que aqueles que veem Deus veem nele todas as coisas simultaneamente"
           }
         },
         {
           "id": "b3-ch061",
           "title": {
             "en-US": "Chapter 61 — That by seeing God a man is made a partaker of eternal life",
-            "la": "Caput 61"
+            "la": "Caput 61",
+            "pt-BR": "Capítulo 61 — Que, ao ver Deus, o homem se torna participante da vida eterna"
           }
         },
         {
           "id": "b3-ch062",
           "title": {
             "en-US": "Chapter 62 — That those who see God will see him forever",
-            "la": "Caput 62"
+            "la": "Caput 62",
+            "pt-BR": "Capítulo 62 — Que aqueles que veem Deus o verão para sempre"
           }
         },
         {
           "id": "b3-ch063",
           "title": {
             "en-US": "Chapter 63 — How in that ultimate happiness man’s every desire is fulfilled",
-            "la": "Caput 63"
+            "la": "Caput 63",
+            "pt-BR": "Capítulo 63 — Como naquela bem-aventurança última se realiza todo desejo do homem"
           }
         },
         {
           "id": "b3-ch064",
           "title": {
             "en-US": "Chapter 64 — That God governs things by his providence",
-            "la": "Caput 64"
+            "la": "Caput 64",
+            "pt-BR": "Capítulo 64 — Que Deus governa as coisas por sua providência"
           }
         },
         {
           "id": "b3-ch065",
           "title": {
             "en-US": "Chapter 65 — That God preserves things in existence",
-            "la": "Caput 65"
+            "la": "Caput 65",
+            "pt-BR": "Capítulo 65 — Que Deus conserva as coisas no ser"
           }
         },
         {
           "id": "b3-ch066",
           "title": {
             "en-US": "Chapter 66 — That nothing gives existence except insofar as it acts by God’s power",
-            "la": "Caput 66"
+            "la": "Caput 66",
+            "pt-BR": "Capítulo 66 — Que nada dá o ser senão enquanto age pelo poder de Deus"
           }
         },
         {
           "id": "b3-ch067",
           "title": {
             "en-US": "Chapter 67 — That in all things that operate God is the cause of their operating",
-            "la": "Caput 67"
+            "la": "Caput 67",
+            "pt-BR": "Capítulo 67 — Que em todas as coisas que operam Deus é a causa de sua operação"
           }
         },
         {
           "id": "b3-ch068",
           "title": {
             "en-US": "Chapter 68 — That God is everywhere",
-            "la": "Caput 68"
+            "la": "Caput 68",
+            "pt-BR": "Capítulo 68 — Que Deus está em toda parte"
           }
         },
         {
           "id": "b3-ch069",
           "title": {
             "en-US": "Chapter 69 — Concerning the opinion of those who withdraw from natural things their proper actions",
-            "la": "Caput 69"
+            "la": "Caput 69",
+            "pt-BR": "Capítulo 69 — Da opinião dos que retiram das coisas naturais suas ações próprias"
           }
         },
         {
           "id": "b3-ch070",
           "title": {
             "en-US": "Chapter 70 — How the same effect is from God and from the natural agent",
-            "la": "Caput 70"
+            "la": "Caput 70",
+            "pt-BR": "Capítulo 70 — Como o mesmo efeito procede de Deus e do agente natural"
           }
         },
         {
           "id": "b3-ch071",
           "title": {
             "en-US": "Chapter 71 — That divine providence does not entirely exclude evil from things",
-            "la": "Caput 71"
+            "la": "Caput 71",
+            "pt-BR": "Capítulo 71 — Que a providência divina não exclui inteiramente o mal das coisas"
           }
         },
         {
           "id": "b3-ch072",
           "title": {
             "en-US": "Chapter 72 — That divine providence does not exclude contingency from things",
-            "la": "Caput 72"
+            "la": "Caput 72",
+            "pt-BR": "Capítulo 72 — Que a providência divina não exclui a contingência das coisas"
           }
         },
         {
           "id": "b3-ch073",
           "title": {
             "en-US": "Chapter 73 — That divine providence does not exclude free-will",
-            "la": "Caput 73"
+            "la": "Caput 73",
+            "pt-BR": "Capítulo 73 — Que a providência divina não exclui o livre-arbítrio"
           }
         },
         {
           "id": "b3-ch074",
           "title": {
             "en-US": "Chapter 74 — That divine providence does not exclude chance or luck",
-            "la": "Caput 74"
+            "la": "Caput 74",
+            "pt-BR": "Capítulo 74 — Que a providência divina não exclui o acaso nem a fortuna"
           }
         },
         {
           "id": "b3-ch075",
           "title": {
             "en-US": "Chapter 75 — That divine providence is concerned with singular contingencies",
-            "la": "Caput 75"
+            "la": "Caput 75",
+            "pt-BR": "Capítulo 75 — Que a providência divina se ocupa dos contingentes singulares"
           }
         },
         {
           "id": "b3-ch076",
           "title": {
             "en-US": "Chapter 76 — That God’s providence cares for all individuals immediately",
-            "la": "Caput 76"
+            "la": "Caput 76",
+            "pt-BR": "Capítulo 76 — Que a providência de Deus cuida imediatamente de todos os indivíduos"
           }
         },
         {
           "id": "b3-ch077",
           "title": {
             "en-US": "Chapter 77 — That the execution of divine providence is carried out by secondary causes",
-            "la": "Caput 77"
+            "la": "Caput 77",
+            "pt-BR": "Capítulo 77 — Que a execução da providência divina se realiza por causas secundárias"
           }
         },
         {
           "id": "b3-ch078",
           "title": {
             "en-US": "Chapter 78 — That by means of intellectual creatures other creatures are ruled by God",
-            "la": "Caput 78"
+            "la": "Caput 78",
+            "pt-BR": "Capítulo 78 — Que Deus governa as outras criaturas por meio das criaturas intelectuais"
           }
         },
         {
           "id": "b3-ch079",
           "title": {
             "en-US": "Chapter 79 — That the lower intellectual substances are ruled by the higher",
-            "la": "Caput 79"
+            "la": "Caput 79",
+            "pt-BR": "Capítulo 79 — Que as substâncias intelectuais inferiores são governadas pelas superiores"
           }
         },
         {
           "id": "b3-ch080",
           "title": {
             "en-US": "Chapter 80 — Of the order between one angel and another",
-            "la": "Caput 80"
+            "la": "Caput 80",
+            "pt-BR": "Capítulo 80 — Da ordem entre um anjo e outro"
           }
         },
         {
           "id": "b3-ch081",
           "title": {
             "en-US": "Chapter 81 — Of the ordering of men among themselves and to other things",
-            "la": "Caput 81"
+            "la": "Caput 81",
+            "pt-BR": "Capítulo 81 — Da ordenação dos homens entre si e em relação às outras coisas"
           }
         },
         {
           "id": "b3-ch082",
           "title": {
             "en-US": "Chapter 82 — That the inferior bodies are ruled by God by means of the heavenly bodies",
-            "la": "Caput 82"
+            "la": "Caput 82",
+            "pt-BR": "Capítulo 82 — Que Deus governa os corpos inferiores por meio dos corpos celestes"
           }
         },
         {
           "id": "b3-ch083",
           "title": {
             "en-US": "Chapter 83 — Conclusion of the foregoing",
-            "la": "Caput 83"
+            "la": "Caput 83",
+            "pt-BR": "Capítulo 83 — Conclusão do que precede"
           }
         },
         {
           "id": "b3-ch084",
           "title": {
             "en-US": "Chapter 84 — That the heavenly bodies do not impress on our intellect",
-            "la": "Caput 84"
+            "la": "Caput 84",
+            "pt-BR": "Capítulo 84 — Que os corpos celestes não exercem ação sobre nosso intelecto"
           }
         },
         {
           "id": "b3-ch085",
           "title": {
             "en-US": "Chapter 85 — That the heavenly bodies are not the cause of our willing and choosing",
-            "la": "Caput 85"
+            "la": "Caput 85",
+            "pt-BR": "Capítulo 85 — Que os corpos celestes não são causa de nosso querer e de nossa escolha"
           }
         },
         {
           "id": "b3-ch086",
           "title": {
             "en-US": "Chapter 86 — That corporeal effects in this lower world do not result of necessity from the action of the heavenly bodies",
-            "la": "Caput 86"
+            "la": "Caput 86",
+            "pt-BR": "Capítulo 86 — Que os efeitos corporais neste mundo inferior não resultam necessariamente da ação dos corpos celestes"
           }
         },
         {
           "id": "b3-ch087",
           "title": {
             "en-US": "Chapter 87 — That the movement of a heavenly body is not the cause of our choosing by virtue of its soul moving us, as some say",
-            "la": "Caput 87"
+            "la": "Caput 87",
+            "pt-BR": "Capítulo 87 — Que o movimento de um corpo celeste não é causa de nossa escolha pelo poder da alma que o move, como dizem alguns"
           }
         },
         {
           "id": "b3-ch088",
           "title": {
             "en-US": "Chapter 88 — That created substances cannot be the direct causes of our acts of choosing and willing, but God alone",
-            "la": "Caput 88"
+            "la": "Caput 88",
+            "pt-BR": "Capítulo 88 — Que as substâncias criadas não podem ser causas diretas de nossos atos de escolher e querer, mas somente Deus"
           }
         },
         {
           "id": "b3-ch089",
           "title": {
             "en-US": "Chapter 89 — That the movement of the will is caused by God, and not only the power of the will",
-            "la": "Caput 89"
+            "la": "Caput 89",
+            "pt-BR": "Capítulo 89 — Que Deus causa o movimento da vontade, e não somente sua potência"
           }
         },
         {
           "id": "b3-ch090",
           "title": {
             "en-US": "Chapter 90 — That human choice and will are subject to divine providence",
-            "la": "Caput 90"
+            "la": "Caput 90",
+            "pt-BR": "Capítulo 90 — Que a escolha e a vontade humanas estão sujeitas à providência divina"
           }
         },
         {
           "id": "b3-ch091",
           "title": {
             "en-US": "Chapter 91 — How human affairs may be referred to higher causes",
-            "la": "Caput 91"
+            "la": "Caput 91",
+            "pt-BR": "Capítulo 91 — Como os acontecimentos humanos podem ser referidos a causas superiores"
           }
         },
         {
           "id": "b3-ch092",
           "title": {
             "en-US": "Chapter 92 — How a man may be said to be fortunate, and how he is assisted by higher causes",
-            "la": "Caput 92"
+            "la": "Caput 92",
+            "pt-BR": "Capítulo 92 — Como se pode dizer que um homem é afortunado e como ele é auxiliado por causas superiores"
           }
         },
         {
           "id": "b3-ch093",
           "title": {
             "en-US": "Chapter 93 — Concerning fate: whether it is, and what it is",
-            "la": "Caput 93"
+            "la": "Caput 93",
+            "pt-BR": "Capítulo 93 — Do destino: se existe e o que é"
           }
         },
         {
           "id": "b3-ch094",
           "title": {
             "en-US": "Chapter 94 — Of the certainty of divine providence",
-            "la": "Caput 94"
+            "la": "Caput 94",
+            "pt-BR": "Capítulo 94 — Da certeza da providência divina"
           }
         },
         {
           "id": "b3-ch095",
           "title": {
             "en-US": "Chapter 95 — That the unchangeableness of divine providence does not exclude the usefulness of prayer",
-            "la": "Caput 95"
+            "la": "Caput 95",
+            "pt-BR": "Capítulo 95 — Que a imutabilidade da providência divina não exclui a utilidade da oração"
           }
         },
         {
           "id": "b3-ch096",
           "title": {
             "en-US": "Chapter 96 — That it is not unfitting if sometimes the petitions of those who pray be not granted by God",
-            "la": "Caput 96"
+            "la": "Caput 96",
+            "pt-BR": "Capítulo 96 — Que não é inconveniente que Deus às vezes não conceda os pedidos daqueles que oram"
           }
         },
         {
           "id": "b3-ch097",
           "title": {
             "en-US": "Chapter 97 — How there is a reason for divine providence",
-            "la": "Caput 97"
+            "la": "Caput 97",
+            "pt-BR": "Capítulo 97 — Como há uma razão da providência divina"
           }
         },
         {
           "id": "b3-ch098",
           "title": {
             "en-US": "Chapter 98 — How it is possible, and how it is impossible, for God to do something outside the order of his providence",
-            "la": "Caput 98"
+            "la": "Caput 98",
+            "pt-BR": "Capítulo 98 — Como é possível e como é impossível que Deus faça algo fora da ordem de sua providência"
           }
         },
         {
           "id": "b3-ch099",
           "title": {
             "en-US": "Chapter 99 — That God can work outside the order imposed on things by producing effects without their proximate causes",
-            "la": "Caput 99"
+            "la": "Caput 99",
+            "pt-BR": "Capítulo 99 — Que Deus pode agir fora da ordem imposta às coisas, produzindo efeitos sem suas causas próximas"
           }
         },
         {
           "id": "b3-ch100",
           "title": {
             "en-US": "Chapter 100 — That what God does beside the order of nature is not contrary to nature",
-            "la": "Caput 100"
+            "la": "Caput 100",
+            "pt-BR": "Capítulo 100 — Que aquilo que Deus faz fora da ordem da natureza não é contrário à natureza"
           }
         },
         {
           "id": "b3-ch101",
           "title": {
             "en-US": "Chapter 101 — Of miracles",
-            "la": "Caput 101"
+            "la": "Caput 101",
+            "pt-BR": "Capítulo 101 — Dos milagres"
           }
         },
         {
           "id": "b3-ch102",
           "title": {
             "en-US": "Chapter 102 — That God alone works miracles",
-            "la": "Caput 102"
+            "la": "Caput 102",
+            "pt-BR": "Capítulo 102 — Que somente Deus opera milagres"
           }
         },
         {
           "id": "b3-ch103",
           "title": {
             "en-US": "Chapter 103 — That spiritual substances do wonders which, however, are not miracles properly speaking",
-            "la": "Caput 103"
+            "la": "Caput 103",
+            "pt-BR": "Capítulo 103 — Que as substâncias espirituais realizam prodígios que, contudo, não são milagres em sentido próprio"
           }
         },
         {
           "id": "b3-ch104",
           "title": {
             "en-US": "Chapter 104 — That the works of magicians result not only from the influence of heavenly bodies",
-            "la": "Caput 104"
+            "la": "Caput 104",
+            "pt-BR": "Capítulo 104 — Que as obras dos magos não resultam somente da influência dos corpos celestes"
           }
         },
         {
           "id": "b3-ch105",
           "title": {
             "en-US": "Chapter 105 — Whence the works of magicians derive their efficacy",
-            "la": "Caput 105"
+            "la": "Caput 105",
+            "pt-BR": "Capítulo 105 — De onde as obras dos magos recebem sua eficácia"
           }
         },
         {
           "id": "b3-ch106",
           "title": {
             "en-US": "Chapter 106 — That the intellectual substance which gives efficacy to the practices of magic is not good according to virtue",
-            "la": "Caput 106"
+            "la": "Caput 106",
+            "pt-BR": "Capítulo 106 — Que a substância intelectual que dá eficácia às práticas de magia não é boa segundo a virtude"
           }
         },
         {
           "id": "b3-ch107",
           "title": {
             "en-US": "Chapter 107 — That the intellectual substance whose assistance is employed in the magic arts is not evil in its nature",
-            "la": "Caput 107"
+            "la": "Caput 107",
+            "pt-BR": "Capítulo 107 — Que a substância intelectual cujo auxílio se emprega nas artes mágicas não é má por natureza"
           }
         },
         {
           "id": "b3-ch108",
           "title": {
             "en-US": "Chapter 108 — Arguments that would seem to prove that there can be no sin in the demons",
-            "la": "Caput 108"
+            "la": "Caput 108",
+            "pt-BR": "Capítulo 108 — Argumentos que parecem provar que não pode haver pecado nos demônios"
           }
         },
         {
           "id": "b3-ch109",
           "title": {
             "en-US": "Chapter 109 — That sin is possible in the demons, and how",
-            "la": "Caput 109"
+            "la": "Caput 109",
+            "pt-BR": "Capítulo 109 — Que o pecado é possível nos demônios, e de que modo"
           }
         },
         {
           "id": "b3-ch110",
           "title": {
             "en-US": "Chapter 110 — Solution of the aforesaid arguments",
-            "la": "Caput 110"
+            "la": "Caput 110",
+            "pt-BR": "Capítulo 110 — Solução dos argumentos mencionados"
           }
         },
         {
           "id": "b3-ch111",
           "title": {
             "en-US": "Chapter 111 — That rational creatures are subject to divine providence in a special manner",
-            "la": "Caput 111"
+            "la": "Caput 111",
+            "pt-BR": "Capítulo 111 — Que as criaturas racionais estão sujeitas à providência divina de modo especial"
           }
         },
         {
           "id": "b3-ch112",
           "title": {
             "en-US": "Chapter 112 — That rational creatures are governed for their own sake, and other creatures as directed to them",
-            "la": "Caput 112"
+            "la": "Caput 112",
+            "pt-BR": "Capítulo 112 — Que as criaturas racionais são governadas em vista de si mesmas, e as outras criaturas enquanto ordenadas a elas"
           }
         },
         {
           "id": "b3-ch113",
           "title": {
             "en-US": "Chapter 113 — That the rational creature is directed to its action by God not only in its relation to the species, but also in its relation to the individual",
-            "la": "Caput 113"
+            "la": "Caput 113",
+            "pt-BR": "Capítulo 113 — Que Deus dirige a criatura racional à sua ação não só segundo a espécie, mas também segundo o indivíduo"
           }
         },
         {
           "id": "b3-ch114",
           "title": {
             "en-US": "Chapter 114 — That laws are given by God to man",
-            "la": "Caput 114"
+            "la": "Caput 114",
+            "pt-BR": "Capítulo 114 — Que Deus dá leis ao homem"
           }
         },
         {
           "id": "b3-ch115",
           "title": {
             "en-US": "Chapter 115 — That the divine law directs man chiefly to God",
-            "la": "Caput 115"
+            "la": "Caput 115",
+            "pt-BR": "Capítulo 115 — Que a lei divina dirige o homem principalmente a Deus"
           }
         },
         {
           "id": "b3-ch116",
           "title": {
             "en-US": "Chapter 116 — That the end of God’s law is the love of God",
-            "la": "Caput 116"
+            "la": "Caput 116",
+            "pt-BR": "Capítulo 116 — Que o fim da lei de Deus é o amor de Deus"
           }
         },
         {
           "id": "b3-ch117",
           "title": {
             "en-US": "Chapter 117 — That we are directed by the divine law to the love of our neighbor",
-            "la": "Caput 117"
+            "la": "Caput 117",
+            "pt-BR": "Capítulo 117 — Que a lei divina nos dirige ao amor do próximo"
           }
         },
         {
           "id": "b3-ch118",
           "title": {
             "en-US": "Chapter 118 — That the divine law binds men to the true faith",
-            "la": "Caput 118"
+            "la": "Caput 118",
+            "pt-BR": "Capítulo 118 — Que a lei divina obriga os homens à verdadeira fé"
           }
         },
         {
           "id": "b3-ch119",
           "title": {
             "en-US": "Chapter 119 — That our mind is directed to God by certain sensible things",
-            "la": "Caput 119"
+            "la": "Caput 119",
+            "pt-BR": "Capítulo 119 — Que nossa mente é dirigida a Deus por certas coisas sensíveis"
           }
         },
         {
           "id": "b3-ch120",
           "title": {
             "en-US": "Chapter 120 — That the worship of <i>latria</i> is due to God alone",
-            "la": "Caput 120"
+            "la": "Caput 120",
+            "pt-BR": "Capítulo 120 — Que o culto de <i>latria</i> é devido somente a Deus"
           }
         },
         {
           "id": "b3-ch121",
           "title": {
             "en-US": "Chapter 121 — That the divine law directs man according to reason as regards things corporeal and sensible",
-            "la": "Caput 121"
+            "la": "Caput 121",
+            "pt-BR": "Capítulo 121 — Que a lei divina dirige o homem segundo a razão quanto às coisas corporais e sensíveis"
           }
         },
         {
           "id": "b3-ch122",
           "title": {
             "en-US": "Chapter 122 — How simple fornication is a sin according to the divine law, and that matrimony is natural",
-            "la": "Caput 122"
+            "la": "Caput 122",
+            "pt-BR": "Capítulo 122 — Como a simples fornicação é pecado segundo a lei divina, e que o matrimônio é natural"
           }
         },
         {
           "id": "b3-ch123",
           "title": {
             "en-US": "Chapter 123 — That matrimony should be indissoluble",
-            "la": "Caput 123"
+            "la": "Caput 123",
+            "pt-BR": "Capítulo 123 — Que o matrimônio deve ser indissolúvel"
           }
         },
         {
           "id": "b3-ch124",
           "title": {
             "en-US": "Chapter 124 — That matrimony should be the union of one man with one woman",
-            "la": "Caput 124"
+            "la": "Caput 124",
+            "pt-BR": "Capítulo 124 — Que o matrimônio deve ser a união de um só homem com uma só mulher"
           }
         },
         {
           "id": "b3-ch125",
           "title": {
             "en-US": "Chapter 125 — That marriage should not be contracted between relatives",
-            "la": "Caput 125"
+            "la": "Caput 125",
+            "pt-BR": "Capítulo 125 — Que o matrimônio não deve ser contraído entre parentes"
           }
         },
         {
           "id": "b3-ch126",
           "title": {
             "en-US": "Chapter 126 — That not all carnal intercourse is sinful",
-            "la": "Caput 126"
+            "la": "Caput 126",
+            "pt-BR": "Capítulo 126 — Que nem toda união carnal é pecaminosa"
           }
         },
         {
           "id": "b3-ch127",
           "title": {
             "en-US": "Chapter 127 — That no food is in itself sinful for one to take",
-            "la": "Caput 127"
+            "la": "Caput 127",
+            "pt-BR": "Capítulo 127 — Que o consumo de nenhum alimento é pecaminoso em si mesmo"
           }
         },
         {
           "id": "b3-ch128",
           "title": {
             "en-US": "Chapter 128 — How by the divine law man is directed to his neighbor",
-            "la": "Caput 128"
+            "la": "Caput 128",
+            "pt-BR": "Capítulo 128 — Como a lei divina dirige o homem em relação ao próximo"
           }
         },
         {
           "id": "b3-ch129",
           "title": {
             "en-US": "Chapter 129 — That some human acts are right by nature, and not because they are prescribed by law",
-            "la": "Caput 129"
+            "la": "Caput 129",
+            "pt-BR": "Capítulo 129 — Que alguns atos humanos são retos por natureza, e não por serem prescritos pela lei"
           }
         },
         {
           "id": "b3-ch130",
           "title": {
             "en-US": "Chapter 130 — Of the counsels given in the divine law",
-            "la": "Caput 130"
+            "la": "Caput 130",
+            "pt-BR": "Capítulo 130 — Dos conselhos dados na lei divina"
           }
         },
         {
           "id": "b3-ch131",
           "title": {
             "en-US": "Chapter 131 — Concerning the error of those who condemn voluntary poverty",
-            "la": "Caput 131"
+            "la": "Caput 131",
+            "pt-BR": "Capítulo 131 — Do erro dos que condenam a pobreza voluntária"
           }
         },
         {
           "id": "b3-ch132",
           "title": {
             "en-US": "Chapter 132 — Of the ways of life followed by those who embrace voluntary poverty",
-            "la": "Caput 132"
+            "la": "Caput 132",
+            "pt-BR": "Capítulo 132 — Dos modos de vida daqueles que abraçam a pobreza voluntária"
           }
         },
         {
           "id": "b3-ch133",
           "title": {
             "en-US": "Chapter 133 — How poverty is good",
-            "la": "Caput 133"
+            "la": "Caput 133",
+            "pt-BR": "Capítulo 133 — Como a pobreza é boa"
           }
         },
         {
           "id": "b3-ch134",
           "title": {
             "en-US": "Chapter 134 — Solution of the arguments given above against poverty",
-            "la": "Caput 134"
+            "la": "Caput 134",
+            "pt-BR": "Capítulo 134 — Solução dos argumentos apresentados acima contra a pobreza"
           }
         },
         {
           "id": "b3-ch135",
           "title": {
             "en-US": "Chapter 135 — Solution of the objections urged against the various ways of life followed by those who embrace voluntary poverty",
-            "la": "Caput 135"
+            "la": "Caput 135",
+            "pt-BR": "Capítulo 135 — Solução das objeções contra os diversos modos de vida daqueles que abraçam a pobreza voluntária"
           }
         },
         {
           "id": "b3-ch136",
           "title": {
             "en-US": "Chapter 136 — Concerning the error of those who condemn perpetual continence",
-            "la": "Caput 136"
+            "la": "Caput 136",
+            "pt-BR": "Capítulo 136 — Do erro dos que condenam a continência perpétua"
           }
         },
         {
           "id": "b3-ch137",
           "title": {
             "en-US": "Chapter 137 — That the state of continence is more perfect than the state of marriage",
-            "la": "Caput 137"
+            "la": "Caput 137",
+            "pt-BR": "Capítulo 137 — Que o estado de continência é mais perfeito que o estado matrimonial"
           }
         },
         {
           "id": "b3-ch138",
           "title": {
             "en-US": "Chapter 138 — Against those who condemn vows",
-            "la": "Caput 138"
+            "la": "Caput 138",
+            "pt-BR": "Capítulo 138 — Contra os que condenam os votos"
           }
         },
         {
           "id": "b3-ch139",
           "title": {
             "en-US": "Chapter 139 — That neither merits nor sins are equal",
-            "la": "Caput 139"
+            "la": "Caput 139",
+            "pt-BR": "Capítulo 139 — Que nem os méritos nem os pecados são iguais"
           }
         },
         {
           "id": "b3-ch140",
           "title": {
             "en-US": "Chapter 140 — That man’s actions are punished or rewarded by God",
-            "la": "Caput 140"
+            "la": "Caput 140",
+            "pt-BR": "Capítulo 140 — Que as ações do homem são punidas ou recompensadas por Deus"
           }
         },
         {
           "id": "b3-ch141",
           "title": {
             "en-US": "Chapter 141 — Of the difference and order of punishments",
-            "la": "Caput 141"
+            "la": "Caput 141",
+            "pt-BR": "Capítulo 141 — Da diferença e da ordem das penas"
           }
         },
         {
           "id": "b3-ch142",
           "title": {
             "en-US": "Chapter 142 — That punishments and rewards are not all equal",
-            "la": "Caput 142"
+            "la": "Caput 142",
+            "pt-BR": "Capítulo 142 — Que as penas e as recompensas não são todas iguais"
           }
         },
         {
           "id": "b3-ch143",
           "title": {
             "en-US": "Chapter 143 — Of the punishment due to mortal and venial sin in relation to the last end",
-            "la": "Caput 143"
+            "la": "Caput 143",
+            "pt-BR": "Capítulo 143 — Da pena devida ao pecado mortal e ao venial em relação ao fim último"
           }
         },
         {
           "id": "b3-ch144",
           "title": {
             "en-US": "Chapter 144 — That by mortal sin man forfeits his last end for eternity",
-            "la": "Caput 144"
+            "la": "Caput 144",
+            "pt-BR": "Capítulo 144 — Que pelo pecado mortal o homem perde seu fim último por toda a eternidade"
           }
         },
         {
           "id": "b3-ch145",
           "title": {
             "en-US": "Chapter 145 — That sins are punished also by the sinner being subjected to some kind of pain",
-            "la": "Caput 145"
+            "la": "Caput 145",
+            "pt-BR": "Capítulo 145 — Que os pecados também são punidos pela sujeição do pecador a algum sofrimento"
           }
         },
         {
           "id": "b3-ch146",
           "title": {
             "en-US": "Chapter 146 — That it is lawful for judges to inflict punishments",
-            "la": "Caput 146"
+            "la": "Caput 146",
+            "pt-BR": "Capítulo 146 — Que é lícito aos juízes impor penas"
           }
         },
         {
           "id": "b3-ch147",
           "title": {
             "en-US": "Chapter 147 — That man needs the divine assistance in order to obtain beatitude",
-            "la": "Caput 147"
+            "la": "Caput 147",
+            "pt-BR": "Capítulo 147 — Que o homem necessita do auxílio divino para alcançar a bem-aventurança"
           }
         },
         {
           "id": "b3-ch148",
           "title": {
             "en-US": "Chapter 148 — That the assistance of divine grace does not compel man to virtue",
-            "la": "Caput 148"
+            "la": "Caput 148",
+            "pt-BR": "Capítulo 148 — Que o auxílio da graça divina não força o homem à virtude"
           }
         },
         {
           "id": "b3-ch149",
           "title": {
             "en-US": "Chapter 149 — That man is unable to merit the divine assistance",
-            "la": "Caput 149"
+            "la": "Caput 149",
+            "pt-BR": "Capítulo 149 — Que o homem não pode merecer o auxílio divino"
           }
         },
         {
           "id": "b3-ch150",
           "title": {
             "en-US": "Chapter 150 — That this same assistance is called grace, and what is meant by sanctifying grace",
-            "la": "Caput 150"
+            "la": "Caput 150",
+            "pt-BR": "Capítulo 150 — Que esse auxílio se chama graça, e o que se entende por graça santificante"
           }
         },
         {
           "id": "b3-ch151",
           "title": {
             "en-US": "Chapter 151 — That sanctifying grace causes in us the love of God",
-            "la": "Caput 151"
+            "la": "Caput 151",
+            "pt-BR": "Capítulo 151 — Que a graça santificante causa em nós o amor de Deus"
           }
         },
         {
           "id": "b3-ch152",
           "title": {
             "en-US": "Chapter 152 — That grace causes faith in us",
-            "la": "Caput 152"
+            "la": "Caput 152",
+            "pt-BR": "Capítulo 152 — Que a graça causa em nós a fé"
           }
         },
         {
           "id": "b3-ch153",
           "title": {
             "en-US": "Chapter 153 — That divine grace causes hope in us",
-            "la": "Caput 153"
+            "la": "Caput 153",
+            "pt-BR": "Capítulo 153 — Que a graça divina causa em nós a esperança"
           }
         },
         {
           "id": "b3-ch154",
           "title": {
             "en-US": "Chapter 154 — Of the gifts of gratuitous grace; in which the divinations of demons are treated",
-            "la": "Caput 154"
+            "la": "Caput 154",
+            "pt-BR": "Capítulo 154 — Dos dons da graça gratuitamente dada; no qual se trata das adivinhações dos demônios"
           }
         },
         {
           "id": "b3-ch155",
           "title": {
             "en-US": "Chapter 155 — That man needs the divine aid in order to persevere in good",
-            "la": "Caput 155"
+            "la": "Caput 155",
+            "pt-BR": "Capítulo 155 — Que o homem necessita do auxílio divino para perseverar no bem"
           }
         },
         {
           "id": "b3-ch156",
           "title": {
             "en-US": "Chapter 156 — That he who falls away from grace by sin can recover again by means of grace",
-            "la": "Caput 156"
+            "la": "Caput 156",
+            "pt-BR": "Capítulo 156 — Que aquele que perde a graça pelo pecado pode recuperá-la por meio da graça"
           }
         },
         {
           "id": "b3-ch157",
           "title": {
             "en-US": "Chapter 157 — That man cannot be freed from sin save by grace",
-            "la": "Caput 157"
+            "la": "Caput 157",
+            "pt-BR": "Capítulo 157 — Que o homem não pode ser libertado do pecado senão pela graça"
           }
         },
         {
           "id": "b3-ch158",
           "title": {
             "en-US": "Chapter 158 — How man is freed from sin",
-            "la": "Caput 158"
+            "la": "Caput 158",
+            "pt-BR": "Capítulo 158 — Como o homem é libertado do pecado"
           }
         },
         {
           "id": "b3-ch159",
           "title": {
             "en-US": "Chapter 159 — That although man cannot be converted to God without God’s grace, yet it is reasonably imputed to him if he be not converted",
-            "la": "Caput 159"
+            "la": "Caput 159",
+            "pt-BR": "Capítulo 159 — Que, embora o homem não possa converter-se a Deus sem a graça divina, é justo imputar-lhe a culpa se não se converte"
           }
         },
         {
           "id": "b3-ch160",
           "title": {
             "en-US": "Chapter 160 — That a man who is in sin cannot avoid sin without grace",
-            "la": "Caput 160"
+            "la": "Caput 160",
+            "pt-BR": "Capítulo 160 — Que o homem que está em pecado não pode evitar o pecado sem a graça"
           }
         },
         {
           "id": "b3-ch161",
           "title": {
             "en-US": "Chapter 161 — That God delivers some from sin, and leaves others in sin",
-            "la": "Caput 161"
+            "la": "Caput 161",
+            "pt-BR": "Capítulo 161 — Que Deus liberta alguns do pecado e deixa outros no pecado"
           }
         },
         {
           "id": "b3-ch162",
           "title": {
             "en-US": "Chapter 162 — That God is not the cause of any man sinning",
-            "la": "Caput 162"
+            "la": "Caput 162",
+            "pt-BR": "Capítulo 162 — Que Deus não é causa de que homem algum peque"
           }
         },
         {
           "id": "b3-ch163",
           "title": {
             "en-US": "Chapter 163 — Of predestination, reprobation, and the divine election",
-            "la": "Caput 163"
+            "la": "Caput 163",
+            "pt-BR": "Capítulo 163 — Da predestinação, da reprovação e da eleição divina"
           }
         }
       ]
@@ -2624,686 +2997,784 @@
       "id": "b4",
       "title": {
         "en-US": "Book IV",
-        "la": "Liber IV"
+        "la": "Liber IV",
+        "pt-BR": "Livro IV"
       },
       "children": [
         {
           "id": "b4-ch001",
           "title": {
             "en-US": "Chapter 1 — Prologue",
-            "la": "Caput 1"
+            "la": "Caput 1",
+            "pt-BR": "Capítulo 1 — Prólogo"
           }
         },
         {
           "id": "b4-ch002",
           "title": {
             "en-US": "Chapter 2 — That in God there is generation, paternity, and filiation",
-            "la": "Caput 2"
+            "la": "Caput 2",
+            "pt-BR": "Capítulo 2 — Que em Deus há geração, paternidade e filiação"
           }
         },
         {
           "id": "b4-ch003",
           "title": {
             "en-US": "Chapter 3 — That the Son of God is God",
-            "la": "Caput 3"
+            "la": "Caput 3",
+            "pt-BR": "Capítulo 3 — Que o Filho de Deus é Deus"
           }
         },
         {
           "id": "b4-ch004",
           "title": {
             "en-US": "Chapter 4 — The opinion of Photinus concerning the Son of God, and its refutation",
-            "la": "Caput 4"
+            "la": "Caput 4",
+            "pt-BR": "Capítulo 4 — A opinião de Fotino sobre o Filho de Deus, e sua refutação"
           }
         },
         {
           "id": "b4-ch005",
           "title": {
             "en-US": "Chapter 5 — The opinion of Sabellius concerning the Son of God, and its refutation",
-            "la": "Caput 5"
+            "la": "Caput 5",
+            "pt-BR": "Capítulo 5 — A opinião de Sabélio sobre o Filho de Deus, e sua refutação"
           }
         },
         {
           "id": "b4-ch006",
           "title": {
             "en-US": "Chapter 6 — Concerning the opinion of Arius about the Son of God",
-            "la": "Caput 6"
+            "la": "Caput 6",
+            "pt-BR": "Capítulo 6 — Da opinião de Ário sobre o Filho de Deus"
           }
         },
         {
           "id": "b4-ch007",
           "title": {
             "en-US": "Chapter 7 — Refutation of the opinion of Arius",
-            "la": "Caput 7"
+            "la": "Caput 7",
+            "pt-BR": "Capítulo 7 — Refutação da opinião de Ário"
           }
         },
         {
           "id": "b4-ch008",
           "title": {
             "en-US": "Chapter 8 — Solution of the arguments adduced by Arius in support of his view",
-            "la": "Caput 8"
+            "la": "Caput 8",
+            "pt-BR": "Capítulo 8 — Solução dos argumentos apresentados por Ário em apoio à sua opinião"
           }
         },
         {
           "id": "b4-ch009",
           "title": {
             "en-US": "Chapter 9 — Explanation of the texts quoted by Photinus and Sabellius",
-            "la": "Caput 9"
+            "la": "Caput 9",
+            "pt-BR": "Capítulo 9 — Explicação dos textos citados por Fotino e Sabélio"
           }
         },
         {
           "id": "b4-ch010",
           "title": {
             "en-US": "Chapter 10 — Arguments against the divine generation and procession",
-            "la": "Caput 10"
+            "la": "Caput 10",
+            "pt-BR": "Capítulo 10 — Argumentos contra a geração e a processão divinas"
           }
         },
         {
           "id": "b4-ch011",
           "title": {
             "en-US": "Chapter 11 — The meaning of generation in God, and of the scriptural references to the Son of God",
-            "la": "Caput 11"
+            "la": "Caput 11",
+            "pt-BR": "Capítulo 11 — O significado da geração em Deus e das referências da Escritura ao Filho de Deus"
           }
         },
         {
           "id": "b4-ch012",
           "title": {
             "en-US": "Chapter 12 — How the Son of God is called the Wisdom of God",
-            "la": "Caput 12"
+            "la": "Caput 12",
+            "pt-BR": "Capítulo 12 — Como o Filho de Deus é chamado Sabedoria de Deus"
           }
         },
         {
           "id": "b4-ch013",
           "title": {
             "en-US": "Chapter 13 — That there is only one Son in God",
-            "la": "Caput 13"
+            "la": "Caput 13",
+            "pt-BR": "Capítulo 13 — Que em Deus há um único Filho"
           }
         },
         {
           "id": "b4-ch014",
           "title": {
             "en-US": "Chapter 14 — Solution of the foregoing objections against the divine generation",
-            "la": "Caput 14"
+            "la": "Caput 14",
+            "pt-BR": "Capítulo 14 — Solução das objeções anteriores contra a geração divina"
           }
         },
         {
           "id": "b4-ch015",
           "title": {
             "en-US": "Chapter 15 — Of the Holy Spirit, that he is in God",
-            "la": "Caput 15"
+            "la": "Caput 15",
+            "pt-BR": "Capítulo 15 — Do Espírito Santo: que ele está em Deus"
           }
         },
         {
           "id": "b4-ch016",
           "title": {
             "en-US": "Chapter 16 — Reasons for which certain men have deemed the Holy Spirit to be a creature",
-            "la": "Caput 16"
+            "la": "Caput 16",
+            "pt-BR": "Capítulo 16 — Razões pelas quais alguns julgaram que o Espírito Santo é uma criatura"
           }
         },
         {
           "id": "b4-ch017",
           "title": {
             "en-US": "Chapter 17 — That the Holy Spirit is true God",
-            "la": "Caput 17"
+            "la": "Caput 17",
+            "pt-BR": "Capítulo 17 — Que o Espírito Santo é verdadeiro Deus"
           }
         },
         {
           "id": "b4-ch018",
           "title": {
             "en-US": "Chapter 18 — That the Holy Spirit is a subsistent person",
-            "la": "Caput 18"
+            "la": "Caput 18",
+            "pt-BR": "Capítulo 18 — Que o Espírito Santo é uma pessoa subsistente"
           }
         },
         {
           "id": "b4-ch019",
           "title": {
             "en-US": "Chapter 19 — The meaning of statements that are made about the Holy Spirit",
-            "la": "Caput 19"
+            "la": "Caput 19",
+            "pt-BR": "Capítulo 19 — O significado das afirmações feitas a respeito do Espírito Santo"
           }
         },
         {
           "id": "b4-ch020",
           "title": {
             "en-US": "Chapter 20 — Of the effects ascribed by Scripture to the Holy Spirit in respect of all creatures",
-            "la": "Caput 20"
+            "la": "Caput 20",
+            "pt-BR": "Capítulo 20 — Dos efeitos atribuídos pela Escritura ao Espírito Santo em relação a todas as criaturas"
           }
         },
         {
           "id": "b4-ch021",
           "title": {
             "en-US": "Chapter 21 — Of the effects ascribed to the Holy Spirit as regards the gifts bestowed by God on the rational creature",
-            "la": "Caput 21"
+            "la": "Caput 21",
+            "pt-BR": "Capítulo 21 — Dos efeitos atribuídos ao Espírito Santo quanto aos dons concedidos por Deus à criatura racional"
           }
         },
         {
           "id": "b4-ch022",
           "title": {
             "en-US": "Chapter 22 — Of the effects ascribed to the Holy Spirit according as he moves the creature to God",
-            "la": "Caput 22"
+            "la": "Caput 22",
+            "pt-BR": "Capítulo 22 — Dos efeitos atribuídos ao Espírito Santo enquanto move a criatura para Deus"
           }
         },
         {
           "id": "b4-ch023",
           "title": {
             "en-US": "Chapter 23 — Solution of the arguments given above, against the divinity of the Holy Spirit",
-            "la": "Caput 23"
+            "la": "Caput 23",
+            "pt-BR": "Capítulo 23 — Solução dos argumentos apresentados acima contra a divindade do Espírito Santo"
           }
         },
         {
           "id": "b4-ch024",
           "title": {
             "en-US": "Chapter 24 — That the Holy Spirit proceeds from the Son",
-            "la": "Caput 24"
+            "la": "Caput 24",
+            "pt-BR": "Capítulo 24 — Que o Espírito Santo procede do Filho"
           }
         },
         {
           "id": "b4-ch025",
           "title": {
             "en-US": "Chapter 25 — Arguments of those who would prove that the Holy Spirit proceeds not from the Son, and their solution",
-            "la": "Caput 25"
+            "la": "Caput 25",
+            "pt-BR": "Capítulo 25 — Argumentos dos que pretendem provar que o Espírito Santo não procede do Filho, e sua solução"
           }
         },
         {
           "id": "b4-ch026",
           "title": {
             "en-US": "Chapter 26 — That there are no more than three persons in God: the Father, the Son, and the Holy Spirit",
-            "la": "Caput 26"
+            "la": "Caput 26",
+            "pt-BR": "Capítulo 26 — Que em Deus há somente três pessoas: o Pai, o Filho e o Espírito Santo"
           }
         },
         {
           "id": "b4-ch027",
           "title": {
             "en-US": "Chapter 27 — Of the Incarnation of the Word as handed down in Sacred Scripture",
-            "la": "Caput 27"
+            "la": "Caput 27",
+            "pt-BR": "Capítulo 27 — Da Encarnação do Verbo conforme transmitida na Sagrada Escritura"
           }
         },
         {
           "id": "b4-ch028",
           "title": {
             "en-US": "Chapter 28 — The error of Photinus about the Incarnation",
-            "la": "Caput 28"
+            "la": "Caput 28",
+            "pt-BR": "Capítulo 28 — O erro de Fotino sobre a Encarnação"
           }
         },
         {
           "id": "b4-ch029",
           "title": {
             "en-US": "Chapter 29 — The error of the Manicheans concerning the Incarnation",
-            "la": "Caput 29"
+            "la": "Caput 29",
+            "pt-BR": "Capítulo 29 — O erro dos maniqueus sobre a Encarnação"
           }
         },
         {
           "id": "b4-ch030",
           "title": {
             "en-US": "Chapter 30 — The error of Valentine about the Incarnation",
-            "la": "Caput 30"
+            "la": "Caput 30",
+            "pt-BR": "Capítulo 30 — O erro de Valentim sobre a Encarnação"
           }
         },
         {
           "id": "b4-ch031",
           "title": {
             "en-US": "Chapter 31 — The error of Apollinaris concerning Christ’s body",
-            "la": "Caput 31"
+            "la": "Caput 31",
+            "pt-BR": "Capítulo 31 — O erro de Apolinário sobre o corpo de Cristo"
           }
         },
         {
           "id": "b4-ch032",
           "title": {
             "en-US": "Chapter 32 — The error of Arius and Apollinaris concerning Christ’s soul",
-            "la": "Caput 32"
+            "la": "Caput 32",
+            "pt-BR": "Capítulo 32 — O erro de Ário e Apolinário sobre a alma de Cristo"
           }
         },
         {
           "id": "b4-ch033",
           "title": {
             "en-US": "Chapter 33 — The errors of Apollinaris who said that Christ had not a rational soul, and of Origen who said that Christ’s soul was created before the world",
-            "la": "Caput 33"
+            "la": "Caput 33",
+            "pt-BR": "Capítulo 33 — Os erros de Apolinário, que disse que Cristo não tinha alma racional, e de Orígenes, que disse que a alma de Cristo foi criada antes do mundo"
           }
         },
         {
           "id": "b4-ch034",
           "title": {
             "en-US": "Chapter 34 — The error of Theodore of Mopsuestia concerning the union of the Word with man",
-            "la": "Caput 34"
+            "la": "Caput 34",
+            "pt-BR": "Capítulo 34 — O erro de Teodoro de Mopsuéstia e de Nestório sobre a união do Verbo com o homem"
           }
         },
         {
           "id": "b4-ch035",
           "title": {
             "en-US": "Chapter 35 — Against the error of Eutyches",
-            "la": "Caput 35"
+            "la": "Caput 35",
+            "pt-BR": "Capítulo 35 — Contra o erro de Êutiques"
           }
         },
         {
           "id": "b4-ch036",
           "title": {
             "en-US": "Chapter 36 — The error of Macarius of Antioch who said that there was only one will in Christ",
-            "la": "Caput 36"
+            "la": "Caput 36",
+            "pt-BR": "Capítulo 36 — O erro de Macário de Antioquia, que disse haver uma única vontade em Cristo"
           }
         },
         {
           "id": "b4-ch037",
           "title": {
             "en-US": "Chapter 37 — Refutation of those who maintained that Christ’s body and soul were not united together",
-            "la": "Caput 37"
+            "la": "Caput 37",
+            "pt-BR": "Capítulo 37 — Refutação dos que sustentaram que o corpo e a alma de Cristo não estavam unidos"
           }
         },
         {
           "id": "b4-ch038",
           "title": {
             "en-US": "Chapter 38 — Refutation of those who hold that in the person of Christ there are two hypostases or supposita",
-            "la": "Caput 38"
+            "la": "Caput 38",
+            "pt-BR": "Capítulo 38 — Refutação dos que sustentam que na pessoa de Cristo há duas hipóstases ou supostos"
           }
         },
         {
           "id": "b4-ch039",
           "title": {
             "en-US": "Chapter 39 — The teaching of the Catholic Church on the Incarnation of Christ",
-            "la": "Caput 39"
+            "la": "Caput 39",
+            "pt-BR": "Capítulo 39 — O ensinamento da Igreja Católica sobre a Encarnação de Cristo"
           }
         },
         {
           "id": "b4-ch040",
           "title": {
             "en-US": "Chapter 40 — Objections against faith in the Incarnation",
-            "la": "Caput 40"
+            "la": "Caput 40",
+            "pt-BR": "Capítulo 40 — Objeções contra a fé na Encarnação"
           }
         },
         {
           "id": "b4-ch041",
           "title": {
             "en-US": "Chapter 41 — How we are to understand that the Son of God was incarnate",
-            "la": "Caput 41"
+            "la": "Caput 41",
+            "pt-BR": "Capítulo 41 — Como devemos entender que o Filho de Deus se encarnou"
           }
         },
         {
           "id": "b4-ch042",
           "title": {
             "en-US": "Chapter 42 — That it was most becoming to the Word of God that he should take human nature",
-            "la": "Caput 42"
+            "la": "Caput 42",
+            "pt-BR": "Capítulo 42 — Que era sumamente conveniente que o Verbo de Deus assumisse a natureza humana"
           }
         },
         {
           "id": "b4-ch043",
           "title": {
             "en-US": "Chapter 43 — That the human nature assumed by the Word did not exist before it was assumed, but was assumed by the Word at the moment of its conception",
-            "la": "Caput 43"
+            "la": "Caput 43",
+            "pt-BR": "Capítulo 43 — Que a natureza humana assumida pelo Verbo não existia antes de ser assumida, mas foi assumida pelo Verbo no instante de sua concepção"
           }
         },
         {
           "id": "b4-ch044",
           "title": {
             "en-US": "Chapter 44 — That the human nature assumed by the Word was perfect in body and soul at the moment of conception",
-            "la": "Caput 44"
+            "la": "Caput 44",
+            "pt-BR": "Capítulo 44 — Que a natureza humana assumida pelo Verbo era perfeita em corpo e alma no instante da concepção"
           }
         },
         {
           "id": "b4-ch045",
           "title": {
             "en-US": "Chapter 45 — That it was fitting that Christ should be born of a virgin",
-            "la": "Caput 45"
+            "la": "Caput 45",
+            "pt-BR": "Capítulo 45 — Que era conveniente que Cristo nascesse de uma virgem"
           }
         },
         {
           "id": "b4-ch046",
           "title": {
             "en-US": "Chapter 46 — That Christ was conceived by the Holy Spirit",
-            "la": "Caput 46"
+            "la": "Caput 46",
+            "pt-BR": "Capítulo 46 — Que Cristo foi concebido pelo Espírito Santo"
           }
         },
         {
           "id": "b4-ch047",
           "title": {
             "en-US": "Chapter 47 — That Christ was not the Son of the Holy Spirit according to the flesh",
-            "la": "Caput 47"
+            "la": "Caput 47",
+            "pt-BR": "Capítulo 47 — Que Cristo não era Filho do Espírito Santo segundo a carne"
           }
         },
         {
           "id": "b4-ch048",
           "title": {
             "en-US": "Chapter 48 — That we must not say that Christ is a creature",
-            "la": "Caput 48"
+            "la": "Caput 48",
+            "pt-BR": "Capítulo 48 — Que não devemos dizer que Cristo é uma criatura"
           }
         },
         {
           "id": "b4-ch049",
           "title": {
             "en-US": "Chapter 49 — Reply to the objections given above against the Incarnation",
-            "la": "Caput 49"
+            "la": "Caput 49",
+            "pt-BR": "Capítulo 49 — Resposta às objeções apresentadas acima contra a Encarnação"
           }
         },
         {
           "id": "b4-ch050",
           "title": {
             "en-US": "Chapter 50 — That original sin is transmitted by our first parent to his posterity",
-            "la": "Caput 50"
+            "la": "Caput 50",
+            "pt-BR": "Capítulo 50 — Que o pecado original é transmitido por nosso primeiro pai à sua descendência"
           }
         },
         {
           "id": "b4-ch051",
           "title": {
             "en-US": "Chapter 51 — Arguments against original sin",
-            "la": "Caput 51"
+            "la": "Caput 51",
+            "pt-BR": "Capítulo 51 — Argumentos contra o pecado original"
           }
         },
         {
           "id": "b4-ch052",
           "title": {
             "en-US": "Chapter 52 — Reply to the above arguments",
-            "la": "Caput 52"
+            "la": "Caput 52",
+            "pt-BR": "Capítulo 52 — Resposta aos argumentos anteriores"
           }
         },
         {
           "id": "b4-ch053",
           "title": {
             "en-US": "Chapter 53 — Arguments that would seem to show that it was not fitting that God should be incarnate",
-            "la": "Caput 53"
+            "la": "Caput 53",
+            "pt-BR": "Capítulo 53 — Argumentos que parecem mostrar que não era conveniente que Deus se encarnasse"
           }
         },
         {
           "id": "b4-ch054",
           "title": {
             "en-US": "Chapter 54 — That it was fitting for God to be incarnate",
-            "la": "Caput 54"
+            "la": "Caput 54",
+            "pt-BR": "Capítulo 54 — Que era conveniente que Deus se encarnasse"
           }
         },
         {
           "id": "b4-ch055",
           "title": {
             "en-US": "Chapter 55 — Reply to the arguments given above against the fittingness of the Incarnation",
-            "la": "Caput 55"
+            "la": "Caput 55",
+            "pt-BR": "Capítulo 55 — Resposta aos argumentos apresentados acima contra a conveniência da Encarnação"
           }
         },
         {
           "id": "b4-ch056",
           "title": {
             "en-US": "Chapter 56 — Of the necessity of the sacraments",
-            "la": "Caput 56"
+            "la": "Caput 56",
+            "pt-BR": "Capítulo 56 — Da necessidade dos sacramentos"
           }
         },
         {
           "id": "b4-ch057",
           "title": {
             "en-US": "Chapter 57 — Of the difference between the sacraments of the Old and of the New Law",
-            "la": "Caput 57"
+            "la": "Caput 57",
+            "pt-BR": "Capítulo 57 — Da diferença entre os sacramentos da Lei Antiga e os da Lei Nova"
           }
         },
         {
           "id": "b4-ch058",
           "title": {
             "en-US": "Chapter 58 — The number of the sacraments of the New Law",
-            "la": "Caput 58"
+            "la": "Caput 58",
+            "pt-BR": "Capítulo 58 — O número dos sacramentos da Lei Nova"
           }
         },
         {
           "id": "b4-ch059",
           "title": {
             "en-US": "Chapter 59 — On baptism",
-            "la": "Caput 59"
+            "la": "Caput 59",
+            "pt-BR": "Capítulo 59 — Do batismo"
           }
         },
         {
           "id": "b4-ch060",
           "title": {
             "en-US": "Chapter 60 — On confirmation",
-            "la": "Caput 60"
+            "la": "Caput 60",
+            "pt-BR": "Capítulo 60 — Da confirmação"
           }
         },
         {
           "id": "b4-ch061",
           "title": {
             "en-US": "Chapter 61 — On the Eucharist",
-            "la": "Caput 61"
+            "la": "Caput 61",
+            "pt-BR": "Capítulo 61 — Da Eucaristia"
           }
         },
         {
           "id": "b4-ch062",
           "title": {
             "en-US": "Chapter 62 — The error of unbelievers concerning the sacrament of the Eucharist",
-            "la": "Caput 62"
+            "la": "Caput 62",
+            "pt-BR": "Capítulo 62 — O erro dos que não creem a respeito do sacramento da Eucaristia"
           }
         },
         {
           "id": "b4-ch063",
           "title": {
             "en-US": "Chapter 63 — Solution of the foregoing difficulties, and first with regard to the changing of the bread into Christ’s body",
-            "la": "Caput 63"
+            "la": "Caput 63",
+            "pt-BR": "Capítulo 63 — Solução das dificuldades anteriores, começando pela conversão do pão no corpo de Cristo"
           }
         },
         {
           "id": "b4-ch064",
           "title": {
             "en-US": "Chapter 64 — Solution of the difficulties as regards place",
-            "la": "Caput 64"
+            "la": "Caput 64",
+            "pt-BR": "Capítulo 64 — Solução das dificuldades relativas ao lugar"
           }
         },
         {
           "id": "b4-ch065",
           "title": {
             "en-US": "Chapter 65 — Solution of the objections on the part of the accidents",
-            "la": "Caput 65"
+            "la": "Caput 65",
+            "pt-BR": "Capítulo 65 — Solução das objeções relativas aos acidentes"
           }
         },
         {
           "id": "b4-ch066",
           "title": {
             "en-US": "Chapter 66 — Solution of the objections on the part of action and passion",
-            "la": "Caput 66"
+            "la": "Caput 66",
+            "pt-BR": "Capítulo 66 — Solução das objeções relativas à ação e à paixão"
           }
         },
         {
           "id": "b4-ch067",
           "title": {
             "en-US": "Chapter 67 — Solution of the objections in regard to breaking of the Host",
-            "la": "Caput 67"
+            "la": "Caput 67",
+            "pt-BR": "Capítulo 67 — Solução das objeções relativas à fração da hóstia"
           }
         },
         {
           "id": "b4-ch068",
           "title": {
             "en-US": "Chapter 68 — Explanation of the passage quoted above",
-            "la": "Caput 68"
+            "la": "Caput 68",
+            "pt-BR": "Capítulo 68 — Explicação da passagem citada acima"
           }
         },
         {
           "id": "b4-ch069",
           "title": {
             "en-US": "Chapter 69 — What kind of bread and wine should be used in this sacrament",
-            "la": "Caput 69"
+            "la": "Caput 69",
+            "pt-BR": "Capítulo 69 — Que espécie de pão e vinho deve ser usada neste sacramento"
           }
         },
         {
           "id": "b4-ch070",
           "title": {
             "en-US": "Chapter 70 — On the sacrament of penance: first, that it is possible for a man to sin after receiving sacramental grace",
-            "la": "Caput 70"
+            "la": "Caput 70",
+            "pt-BR": "Capítulo 70 — Do sacramento da penitência: primeiro, que o homem pode pecar depois de receber a graça sacramental"
           }
         },
         {
           "id": "b4-ch071",
           "title": {
             "en-US": "Chapter 71 — That a man who has sinned after receiving the grace of the sacrament can return to grace",
-            "la": "Caput 71"
+            "la": "Caput 71",
+            "pt-BR": "Capítulo 71 — Que o homem que pecou depois de receber a graça do sacramento pode voltar à graça"
           }
         },
         {
           "id": "b4-ch072",
           "title": {
             "en-US": "Chapter 72 — The necessity of penance and of its parts",
-            "la": "Caput 72"
+            "la": "Caput 72",
+            "pt-BR": "Capítulo 72 — A necessidade da penitência e de suas partes"
           }
         },
         {
           "id": "b4-ch073",
           "title": {
             "en-US": "Chapter 73 — On the sacrament of extreme unction",
-            "la": "Caput 73"
+            "la": "Caput 73",
+            "pt-BR": "Capítulo 73 — Do sacramento da extrema-unção"
           }
         },
         {
           "id": "b4-ch074",
           "title": {
             "en-US": "Chapter 74 — On the sacrament of order",
-            "la": "Caput 74"
+            "la": "Caput 74",
+            "pt-BR": "Capítulo 74 — Do sacramento da ordem"
           }
         },
         {
           "id": "b4-ch075",
           "title": {
             "en-US": "Chapter 75 — On the different kinds of order",
-            "la": "Caput 75"
+            "la": "Caput 75",
+            "pt-BR": "Capítulo 75 — Dos diferentes graus da ordem"
           }
         },
         {
           "id": "b4-ch076",
           "title": {
             "en-US": "Chapter 76 — Of the episcopal dignity, and that one bishop is over all",
-            "la": "Caput 76"
+            "la": "Caput 76",
+            "pt-BR": "Capítulo 76 — Da dignidade episcopal, e que um bispo preside a todos"
           }
         },
         {
           "id": "b4-ch077",
           "title": {
             "en-US": "Chapter 77 — That the sacraments can be dispensed by wicked ministers",
-            "la": "Caput 77"
+            "la": "Caput 77",
+            "pt-BR": "Capítulo 77 — Que os sacramentos podem ser administrados por ministros maus"
           }
         },
         {
           "id": "b4-ch078",
           "title": {
             "en-US": "Chapter 78 — On the sacrament of matrimony",
-            "la": "Caput 78"
+            "la": "Caput 78",
+            "pt-BR": "Capítulo 78 — Do sacramento do matrimônio"
           }
         },
         {
           "id": "b4-ch079",
           "title": {
             "en-US": "Chapter 79 — That our bodies will rise again through Christ",
-            "la": "Caput 79"
+            "la": "Caput 79",
+            "pt-BR": "Capítulo 79 — Que nossos corpos ressuscitarão por Cristo"
           }
         },
         {
           "id": "b4-ch080",
           "title": {
             "en-US": "Chapter 80 — Objections against the resurrection",
-            "la": "Caput 80"
+            "la": "Caput 80",
+            "pt-BR": "Capítulo 80 — Objeções contra a ressurreição"
           }
         },
         {
           "id": "b4-ch081",
           "title": {
             "en-US": "Chapter 81 — Solution of the foregoing objections",
-            "la": "Caput 81"
+            "la": "Caput 81",
+            "pt-BR": "Capítulo 81 — Solução das objeções anteriores"
           }
         },
         {
           "id": "b4-ch082",
           "title": {
             "en-US": "Chapter 82 — That man will rise again immortal",
-            "la": "Caput 82"
+            "la": "Caput 82",
+            "pt-BR": "Capítulo 82 — Que o homem ressuscitará imortal"
           }
         },
         {
           "id": "b4-ch083",
           "title": {
             "en-US": "Chapter 83 — That after the resurrection there will be no use of food or sex",
-            "la": "Caput 83"
+            "la": "Caput 83",
+            "pt-BR": "Capítulo 83 — Que depois da ressurreição não haverá uso de alimentos nem de relações sexuais"
           }
         },
         {
           "id": "b4-ch084",
           "title": {
             "en-US": "Chapter 84 — That the bodies of those who rise again will have the same nature as before",
-            "la": "Caput 84"
+            "la": "Caput 84",
+            "pt-BR": "Capítulo 84 — Que os corpos dos ressuscitados terão a mesma natureza de antes"
           }
         },
         {
           "id": "b4-ch085",
           "title": {
             "en-US": "Chapter 85 — That the bodies of those who rise again will have a different disposition",
-            "la": "Caput 85"
+            "la": "Caput 85",
+            "pt-BR": "Capítulo 85 — Que os corpos dos ressuscitados terão uma disposição diferente"
           }
         },
         {
           "id": "b4-ch086",
           "title": {
             "en-US": "Chapter 86 — The quality of glorified bodies",
-            "la": "Caput 86"
+            "la": "Caput 86",
+            "pt-BR": "Capítulo 86 — A qualidade dos corpos glorificados"
           }
         },
         {
           "id": "b4-ch087",
           "title": {
             "en-US": "Chapter 87 — The place of the glorified bodies",
-            "la": "Caput 87"
+            "la": "Caput 87",
+            "pt-BR": "Capítulo 87 — O lugar dos corpos glorificados"
           }
         },
         {
           "id": "b4-ch088",
           "title": {
             "en-US": "Chapter 88 — The sex and age of those who will rise again",
-            "la": "Caput 88"
+            "la": "Caput 88",
+            "pt-BR": "Capítulo 88 — O sexo e a idade dos que ressuscitarão"
           }
         },
         {
           "id": "b4-ch089",
           "title": {
             "en-US": "Chapter 89 — The quality of the bodies in the resurrection as regards the damned",
-            "la": "Caput 89"
+            "la": "Caput 89",
+            "pt-BR": "Capítulo 89 — A qualidade dos corpos dos condenados na ressurreição"
           }
         },
         {
           "id": "b4-ch090",
           "title": {
             "en-US": "Chapter 90 — How incorporeal substances can suffer from a material fire",
-            "la": "Caput 90"
+            "la": "Caput 90",
+            "pt-BR": "Capítulo 90 — Como as substâncias incorpóreas podem sofrer pela ação de um fogo material"
           }
         },
         {
           "id": "b4-ch091",
           "title": {
             "en-US": "Chapter 91 — That the soul will receive its punishment or reward, as soon as it departs from the body",
-            "la": "Caput 91"
+            "la": "Caput 91",
+            "pt-BR": "Capítulo 91 — Que a alma receberá sua pena ou recompensa assim que se separar do corpo"
           }
         },
         {
           "id": "b4-ch092",
           "title": {
             "en-US": "Chapter 92 — That immediately after death the souls of the just have their will fixed unchangeably on the good",
-            "la": "Caput 92"
+            "la": "Caput 92",
+            "pt-BR": "Capítulo 92 — Que imediatamente após a morte as almas dos justos têm sua vontade fixada imutavelmente no bem"
           }
         },
         {
           "id": "b4-ch093",
           "title": {
             "en-US": "Chapter 93 — That the souls of the wicked after death have their will fixed unchangeably on evil",
-            "la": "Caput 93"
+            "la": "Caput 93",
+            "pt-BR": "Capítulo 93 — Que as almas dos maus, após a morte, têm sua vontade fixada imutavelmente no mal"
           }
         },
         {
           "id": "b4-ch094",
           "title": {
             "en-US": "Chapter 94 — The unchangeableness of will of the souls in purgatory",
-            "la": "Caput 94"
+            "la": "Caput 94",
+            "pt-BR": "Capítulo 94 — A imutabilidade da vontade das almas no purgatório"
           }
         },
         {
           "id": "b4-ch095",
           "title": {
             "en-US": "Chapter 95 — The common cause of this unchangeableness in all souls after their departure from the body",
-            "la": "Caput 95"
+            "la": "Caput 95",
+            "pt-BR": "Capítulo 95 — A causa comum dessa imutabilidade em todas as almas depois de sua separação do corpo"
           }
         },
         {
           "id": "b4-ch096",
           "title": {
             "en-US": "Chapter 96 — On the last judgment",
-            "la": "Caput 96"
+            "la": "Caput 96",
+            "pt-BR": "Capítulo 96 — Do juízo final"
           }
         },
         {
           "id": "b4-ch097",
           "title": {
             "en-US": "Chapter 97 — On the state of the world after the judgment",
-            "la": "Caput 97"
+            "la": "Caput 97",
+            "pt-BR": "Capítulo 97 — Do estado do mundo depois do juízo"
           }
         }
       ]
@@ -3312,5 +3783,12 @@
   "arrived": {
     "en-US": "2026-06-04",
     "la": "2026-06-06"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
+    }
   }
 }
