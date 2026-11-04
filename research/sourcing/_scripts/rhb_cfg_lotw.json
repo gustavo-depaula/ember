@@ -1,0 +1,23 @@
+{
+ "id": "benson-lord-of-the-world",
+ "dir": "benson-opera-omnia/lord-of-the-world",
+ "slug": "lord-of-the-world",
+ "name": "Lord of the World",
+ "name_pt": "O Senhor do Mundo",
+ "desc": "Benson's apocalyptic novel of 1907, set in a near-future world that has all but abandoned the faith: a charismatic humanist statesman, Julian Felsenburgh, unites the nations under the religion of Humanity while a priest, Percy Franklin, and a dwindling Church stand against him. In three books: the Advent, the Encounter, the Victory.",
+ "desc_pt": "O romance apocal\u00edptico de Benson (1907), ambientado num futuro pr\u00f3ximo que quase abandonou a f\u00e9: um estadista humanista carism\u00e1tico, Julian Felsenburgh, une as na\u00e7\u00f5es sob a religi\u00e3o da Humanidade, enquanto um padre, Percy Franklin, e uma Igreja cada vez menor lhe resistem. Em tr\u00eas livros: o Advento, o Encontro, a Vit\u00f3ria.",
+ "composed": 1907,
+ "editor": "Robert Hugh Benson (London: Hutchinson, 1907)",
+ "year": 1907,
+ "url": "https://www.gutenberg.org/ebooks/14021",
+ "edition": "Lord of the World (London: Hutchinson, 1907), Project Gutenberg #14021, proofread.",
+ "srcnote": "Book and chapter divisions as printed; the numbered sections inside chapters are kept as ## headings.",
+ "src": "robert-hugh-benson/pg/pg14021.txt",
+ "start": 79,
+ "end": 11737,
+ "chap_re": "^CHAPTER (?P<n>[IVXL]+)\\.?$",
+ "part_re": "^BOOK [IVX]+-.*$",
+ "sec_re": "^[IVXL]+\\.?$",
+ "lead_title": "Prologue",
+ "lead_id": "prologue"
+}

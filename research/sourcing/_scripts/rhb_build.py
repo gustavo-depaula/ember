@@ -164,7 +164,7 @@ def build(cfg):
             bl = blocks_of(seg)
             if bl:
                 t0 = joinb(bl[0], cfg['mode'])
-                if len(t0.split()) <= cfg.get('title_max', 12) and (t0 == t0.upper() or not re.search(r'[a-z]{3,}.*[.!?]$', t0)) and not (secre and secre.match(t0)):
+                if len(t0.split()) <= cfg.get('title_max', 12) and (t0 == t0.upper() or not re.search(r'[a-z]{3,}.*[.!?]$', t0) or re.match(cfg.get('title_ok', r'^\b$'), t0)) and not (secre and secre.match(t0)):
                     title = t0
                     k = 0; seen = 0
                     while seen < 1 and k < len(seg):
@@ -176,6 +176,7 @@ def build(cfg):
         if title == '__skip': continue
         title = tcase(title).rstrip('.') if title else ''
         n = (m.groupdict().get('n') or '').strip().rstrip('.')
+        if cfg.get('nfix') and n: n = n.upper().replace('1','I').replace('L','I').replace('Y','V')
         if kind == 'chap' and cfg.get('renumber'): pcount += 1; n = roman(pcount)
         if kind == 'part':
             npart += 1; pcount = 0
