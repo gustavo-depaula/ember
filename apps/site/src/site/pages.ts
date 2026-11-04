@@ -47,7 +47,7 @@ export type Page =
   | { view: 'churchShell' }
   | { view: 'massTimesChanges' }
   | { view: 'church'; id: string }
-  | { view: 'place'; country: string; region?: string; city?: string }
+  | { view: 'place'; country: string; region?: string; city?: string; neighbourhood?: string }
   | { view: 'search' }
   | { view: 'connect' }
   | { view: 'plans' }
@@ -204,14 +204,16 @@ async function drafts(): Promise<Draft[]> {
   // A country's churches and places are published in its own language only (`churchLocale`).
   for (const country of await directory()) {
     const only = [country.locale]
-    const place = (region?: string, city?: string) =>
+    const place = (region?: string, city?: string, neighbourhood?: string) =>
       out.push({
-        page: { view: 'place', country: country.code, region, city },
+        page: { view: 'place', country: country.code, region, city, neighbourhood },
         locales: only,
         path: (l) =>
           href.massTimesPlace(
             l,
-            ...[country.code, region, city].filter((p): p is string => p !== undefined),
+            ...[country.code, region, city, neighbourhood].filter(
+              (p): p is string => p !== undefined,
+            ),
           ),
       })
     place()
@@ -219,6 +221,7 @@ async function drafts(): Promise<Draft[]> {
       place(region.slug)
       for (const city of region.cities) {
         if (city.churches.length >= cityPageMin) place(region.slug, city.slug)
+        for (const area of city.neighbourhoods) place(region.slug, city.slug, area.slug)
       }
     }
     for (const church of country.churches) {

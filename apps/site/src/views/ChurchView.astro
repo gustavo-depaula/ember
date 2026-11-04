@@ -29,7 +29,7 @@ const church = {
   city: found.located.city ?? found.city,
   region: found.located.region?.name ?? found.region,
 }
-const { country, region, city } = await placeOf(found)
+const { country, region, city, neighbourhood } = await placeOf(found)
 const name = church.longName ?? church.name
 const where = [church.city, church.region].filter(Boolean).join(', ')
 const html = churchHtml(church, { t, locale, churchHref: (other) => href.church(locale, other) })
@@ -54,6 +54,14 @@ const trail = [
   { name: countryName(country.code, locale), path: href.massTimesPlace(locale, country.code) },
   ...(region ? [{ name: region.name, path: href.massTimesPlace(locale, country.code, region.slug) }] : []),
   ...(region && city ? [{ name: city.name, path: href.massTimesPlace(locale, country.code, region.slug, city.slug) }] : []),
+  ...(region && city && neighbourhood
+    ? [
+        {
+          name: neighbourhood.name,
+          path: href.massTimesPlace(locale, country.code, region.slug, city.slug, neighbourhood.slug),
+        },
+      ]
+    : []),
   { name, path: href.church(locale, id) },
 ]
 const up = trail[trail.length - 2]

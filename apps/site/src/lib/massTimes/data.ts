@@ -96,7 +96,9 @@ export type DirectoryChurch = ChurchDetail & {
   located: Located
 }
 
-export type City = { name: string; slug: string; churches: DirectoryChurch[] }
+export type Area = { name: string; slug: string; churches: DirectoryChurch[] }
+/** A city, and the neighbourhoods of it that have a page (`neighbourhoodCityMin`). */
+export type City = Area & { neighbourhoods: Area[] }
 export type Region = { name: string; slug: string; churches: DirectoryChurch[]; cities: City[] }
 export type Country = {
   code: string
@@ -107,6 +109,13 @@ export type Country = {
 
 /** A city has a page of its own once it has this many churches; a smaller one is listed in its state. */
 export const cityPageMin = 2
+
+/**
+ * A city this big is read by neighbourhood ("missa em Pinheiros"): each neighbourhood with
+ * `cityPageMin` churches has a page, the rest are listed in the city. A smaller city's single page
+ * is short enough to read whole.
+ */
+export const neighbourhoodCityMin = 30
 
 function group<T>(items: T[], keyOf: (item: T) => string | undefined): Map<string, T[]> {
   const out = new Map<string, T[]>()
@@ -152,6 +161,17 @@ async function build(): Promise<Country[]> {
               name: commonest(inCity.map((c) => c.located.city as string)),
               slug: key,
               churches: inCity,
+              neighbourhoods:
+                inCity.length < neighbourhoodCityMin
+                  ? []
+                  : [...group(inCity, (c) => c.located.neighbourhood).values()]
+                      .filter((inArea) => inArea.length >= cityPageMin)
+                      .map((inArea) => ({
+                        name: inArea[0].located.neighbourhood as string,
+                        slug: slug(inArea[0].located.neighbourhood as string),
+                        churches: inArea,
+                      }))
+                      .sort(byName),
             }))
             .sort(byName),
         }))
@@ -181,7 +201,13 @@ export async function placeOf(church: DirectoryChurch) {
   const country = (await directory()).find((c) => c.code === church.country) as Country
   const region = country.regions.find((r) => r.slug === church.located.region?.slug)
   const city = region?.cities.find((c) => c.slug === slug(church.located.city ?? ''))
-  return { country, region, city: city && city.churches.length >= cityPageMin ? city : undefined }
+  const neighbourhood = city?.neighbourhoods.find((n) => n.churches.includes(church))
+  return {
+    country,
+    region,
+    city: city && city.churches.length >= cityPageMin ? city : undefined,
+    neighbourhood,
+  }
 }
 
 /** The churches nearest this one, within its state: the next places a reader near it might go. */

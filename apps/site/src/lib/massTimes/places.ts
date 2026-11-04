@@ -1,4 +1,5 @@
 import { municipalityAt } from './municipalities'
+import { neighbourhoodAt } from './neighbourhoods'
 
 // Where a church is, as the pages that list churches by place need it. The directory's
 // region and city fields come from many importers and read "SP", "São Paulo", "Sao Paulo",
@@ -12,6 +13,8 @@ export type Located = {
   region?: { name: string; slug: string }
   /** The city: in Brazil the municipality the church stands in, elsewhere as written. */
   city?: string
+  /** In Brazil, the census neighbourhood (or São Paulo district) the church stands in. */
+  neighbourhood?: string
 }
 
 type RawPlace = {
@@ -253,7 +256,11 @@ function locateBrazil(church: Placed): Located | undefined {
   const found = municipalityAt(church.lat, church.lng, church.city, brStateWords)
   if (!found) return undefined
   const name = brStates[found.uf]
-  return { region: { name, slug: slug(name) }, city: found.name }
+  return {
+    region: { name, slug: slug(name) },
+    city: found.name,
+    neighbourhood: neighbourhoodAt(found.id, church.lat, church.lng),
+  }
 }
 
 /**

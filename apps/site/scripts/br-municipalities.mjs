@@ -47,7 +47,12 @@ const municipalities = names
   .map((m) => {
     const geometry = outlines.get(String(m['municipio-id']))
     const polygons = geometry.type === 'Polygon' ? [geometry.coordinates] : geometry.coordinates
-    return { name: m['municipio-nome'], uf: m['UF-sigla'], polygons: polygons.map((p) => p.map(pack)) }
+    return {
+      id: String(m['municipio-id']),
+      name: m['municipio-nome'],
+      uf: m['UF-sigla'],
+      polygons: polygons.map((p) => p.map(pack)),
+    }
   })
 
 writeFileSync(out, `${JSON.stringify(municipalities)}\n`)

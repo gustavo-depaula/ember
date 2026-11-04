@@ -72,12 +72,12 @@ describe('locateAll in Brazil', () => {
     const betania = church('Betânia', -19.9605, -44.0137, 'MG')
     const aldeota = church('Aldeota', -3.7365, -38.4996)
     const placed = locateAll([centro, betania, aldeota])
-    expect(placed.get(centro)).toEqual({
+    expect(placed.get(centro)).toMatchObject({
       region: { name: 'Minas Gerais', slug: 'minas-gerais' },
       city: 'Belo Horizonte',
     })
     expect(placed.get(betania)?.city).toBe('Belo Horizonte')
-    expect(placed.get(aldeota)).toEqual({
+    expect(placed.get(aldeota)).toMatchObject({
       region: { name: 'Ceará', slug: 'ceara' },
       city: 'Fortaleza',
     })
@@ -95,7 +95,7 @@ describe('locateAll in Brazil', () => {
 
   it('counts the Federal District as Brasília, not the town across the line it shares a name with', () => {
     const planaltina = church('Planaltina', -15.6189, -47.6524)
-    expect(locateAll([planaltina]).get(planaltina)).toEqual({
+    expect(locateAll([planaltina]).get(planaltina)).toMatchObject({
       region: { name: 'Distrito Federal', slug: 'distrito-federal' },
       city: 'Brasília',
     })
@@ -106,5 +106,25 @@ describe('stateAbbreviation', () => {
   it('finds the abbreviation of a state by its page slug', () => {
     expect(stateAbbreviation('BR', 'minas-gerais')).toBe('MG')
     expect(stateAbbreviation('IT', 'lazio')).toBeUndefined()
+  })
+})
+
+describe('the neighbourhood of a Brazilian church', () => {
+  const at = (lat: number, lng: number) => {
+    const church = { countryCode: 'BR', region: null, city: null, lat, lng }
+    return locateAll([church]).get(church)
+  }
+
+  it('is the census bairro where a city has them', () => {
+    expect(at(-22.9711, -43.1822)).toMatchObject({
+      city: 'Rio de Janeiro',
+      neighbourhood: 'Copacabana',
+    })
+    expect(at(-3.7365, -38.4996)).toMatchObject({ city: 'Fortaleza', neighbourhood: 'Aldeota' })
+  })
+
+  it("is São Paulo's district and Brasília's administrative region, which stand for them there", () => {
+    expect(at(-23.5674, -46.6908)).toMatchObject({ city: 'São Paulo', neighbourhood: 'Pinheiros' })
+    expect(at(-15.8197, -48.1086)).toMatchObject({ city: 'Brasília', neighbourhood: 'Ceilândia' })
   })
 })

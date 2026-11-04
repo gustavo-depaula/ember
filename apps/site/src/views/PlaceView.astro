@@ -18,9 +18,17 @@ interface Props {
   country: string
   region?: string
   city?: string
+  neighbourhood?: string
 }
 
-const { locale, alternates, country: code, region: regionSlug, city: citySlug } = Astro.props
+const {
+  locale,
+  alternates,
+  country: code,
+  region: regionSlug,
+  city: citySlug,
+  neighbourhood: areaSlug,
+} = Astro.props
 const pt = locale === 'pt-BR'
 const country = (await directory()).find((c) => c.code === code)
 if (!country) throw new Error(`No country ${code}`)
@@ -28,16 +36,22 @@ const region = regionSlug ? country.regions.find((r) => r.slug === regionSlug) :
 if (regionSlug && !region) throw new Error(`No region ${code}/${regionSlug}`)
 const city = citySlug ? region?.cities.find((c) => c.slug === citySlug) : undefined
 if (citySlug && !city) throw new Error(`No city ${code}/${regionSlug}/${citySlug}`)
+const area = areaSlug ? city?.neighbourhoods.find((n) => n.slug === areaSlug) : undefined
+if (areaSlug && !area) throw new Error(`No neighbourhood ${code}/${regionSlug}/${citySlug}/${areaSlug}`)
 
 const countryLabel = countryName(code, locale)
 const section = pt ? 'Horários de Missa' : 'Mass times'
 // A city is searched by its own name; the state's abbreviation tells apart the towns that share it.
-const placeName = (() => {
-  if (!city || !region) return region?.name ?? countryLabel
+const cityName = (() => {
+  if (!city || !region) return undefined
   const abbreviation = stateAbbreviation(code, region.slug)
   return abbreviation ? `${city.name} (${abbreviation})` : `${city.name}, ${region.name}`
 })()
-const churches = city?.churches ?? region?.churches ?? country.churches
+const placeName = (() => {
+  if (area) return `${area.name}, ${cityName}`
+  return cityName ?? region?.name ?? countryLabel
+})()
+const churches = area?.churches ?? city?.churches ?? region?.churches ?? country.churches
 const count = churches.length
 const counted = new Intl.NumberFormat(locale).format(count)
 // Portuguese gives most states and countries an article: "no Brasil", "na Bahia", "em Goiás".
@@ -49,6 +63,9 @@ const preposition = (key: string) =>
   Object.entries(contracted).find(([, keys]) => keys.split(' ').includes(key))?.[0] ?? 'em '
 const into = (() => {
   if (!pt) return 'in '
+  // "no Centro", "no Rio de Janeiro"; a neighbourhood's own article is not known, and "em" reads
+  // right before most.
+  if (area) return area.slug.startsWith('centro') ? 'no ' : 'em '
   if (city) return city.slug.startsWith('rio-') ? 'no ' : 'em '
   return preposition(region?.slug ?? code)
 })()
@@ -56,15 +73,28 @@ const from: Record<string, string> = { 'em ': 'de ', 'no ': 'do ', 'na ': 'da ' 
 const title = pt
   ? `Horários de Missa ${into}${placeName} — ${counted} igrejas`
   : `Mass times in ${placeName} — ${counted} churches`
+// A big city's description names its largest neighbourhoods, which are searched by name.
+const largest = (city && !area ? city.neighbourhoods : [])
+  .toSorted((x, y) => y.churches.length - x.churches.length)
+  .slice(0, 5)
+  .map((n) => n.name)
+const byArea = (() => {
+  const names = largest.join(', ')
+  if (largest.length) return pt ? `, por bairro: ${names} e outros` : `, by neighbourhood: ${names} and more`
+  return pt ? ', com os horários de domingo de cada uma' : ", with each one's Sunday Masses"
+})()
 const description = pt
-  ? `Horários de Missa, confissão e adoração em ${counted} igrejas católicas ${from[into]}${placeName}, com os horários de domingo de cada uma.`
-  : `Mass, confession and adoration times at ${counted} Catholic churches in ${placeName}, with each one's Sunday Masses.`
+  ? `Horários de Missa, confissão e adoração em ${counted} igrejas católicas ${from[into]}${placeName}${byArea}.`
+  : `Mass, confession and adoration times at ${counted} Catholic churches in ${placeName}${byArea}.`
 
 const trail = [
   { name: section, path: href.section(locale, 'massTimes') },
   { name: countryLabel, path: href.massTimesPlace(locale, code) },
   ...(region ? [{ name: region.name, path: href.massTimesPlace(locale, code, region.slug) }] : []),
   ...(region && city ? [{ name: city.name, path: href.massTimesPlace(locale, code, region.slug, city.slug) }] : []),
+  ...(region && city && area
+    ? [{ name: area.name, path: href.massTimesPlace(locale, code, region.slug, city.slug, area.slug) }]
+    : []),
 ]
 
 const byName = (a: DirectoryChurch, b: DirectoryChurch) =>
@@ -83,7 +113,13 @@ const loose = region && !city
       .filter((church) => !cityRows.some((c) => c.churches.includes(church)))
       .sort(byName)
   : []
-const listed = city ? [...city.churches].sort(byName) : loose
+// In a big city, likewise: a neighbourhood with a page is one row, the lone churches below.
+const areaRows = city && !area ? city.neighbourhoods : []
+const listed = (() => {
+  if (area) return [...area.churches].sort(byName)
+  if (city) return city.churches.filter((church) => !areaRows.some((n) => n.churches.includes(church))).sort(byName)
+  return loose
+})()
 ---
 
 <Base locale={locale} title={title} description={description} alternates={alternates} section="massTimes" breadcrumbs={trail}>
@@ -92,7 +128,7 @@ const listed = city ? [...city.churches].sort(byName) : loose
       <nav class="t-kicker crumbs" aria-label={pt ? 'Caminho' : 'Breadcrumb'}>
         {trail.slice(0, -1).map((crumb) => <><a href={crumb.path}>{crumb.name}</a><span aria-hidden="true"> › </span></>)}
       </nav>
-      <h1 class="t-screen" style="font-size:clamp(32px,5vw,44px)">{city?.name ?? region?.name ?? countryLabel}</h1>
+      <h1 class="t-screen" style="font-size:clamp(32px,5vw,44px)">{area?.name ?? city?.name ?? region?.name ?? countryLabel}</h1>
       <p class="lede">{description}</p>
     </header>
 
@@ -127,9 +163,27 @@ const listed = city ? [...city.churches].sort(byName) : loose
       </section>
     )}
 
+    {areaRows.length > 0 && region && city && (
+      <section>
+        <h2 class="t-label list-head">{pt ? 'Bairros' : 'Neighbourhoods'}</h2>
+        <ul class="rows">
+          {areaRows.map((n) => (
+            <li>
+              <a class="row" href={href.massTimesPlace(locale, code, region.slug, city.slug, n.slug)}>
+                <span class="grow row-title">{n.name}</span>
+                <span class="t-annotation">{n.churches.length}</span>
+                <svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6" /></svg>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
     {listed.length > 0 && (
       <section>
         {region && !city && cityRows.length > 0 && <h2 class="t-label list-head">{pt ? 'Outras cidades' : 'Other towns'}</h2>}
+        {areaRows.length > 0 && <h2 class="t-label list-head">{pt ? 'Outras igrejas' : 'Other churches'}</h2>}
         <ul class="rows">
           {listed.map((church) => {
             const times = sunday(church)
