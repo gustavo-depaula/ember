@@ -136,7 +136,6 @@ jobs:
           # Brazil's churches until the directory's other countries are as well kept; a repository
           # variable widens it (`BR,US`, `all`) without a change here.
           EMBER_SITE_CHURCHES: ${{ vars.SITE_CHURCHES || 'BR' }}
-          EMBER_APP_STORE_ID: ${{ vars.APP_STORE_ID }}
           EMBER_SITE_ANALYTICS_TOKEN: ${{ vars.SITE_ANALYTICS_TOKEN }}
 
       - uses: actions/upload-pages-artifact@v3

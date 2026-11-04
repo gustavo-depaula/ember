@@ -8,9 +8,9 @@ export const ofTexts = process.env.EMBER_SITE_OF_TEXTS !== '0'
 
 /**
  * The app's numeric App Store id. With it, iPhone Safari shows its own
- * "open in the App Store" bar on every page. Unset until the app is listed.
+ * "open in the App Store" bar on every page.
  */
-export const appStoreId = process.env.EMBER_APP_STORE_ID || undefined
+export const appStoreId = '6761686469'
 
 /**
  * The Cloudflare Web Analytics token for ember.dpgu.me. Set only by the deploy,
