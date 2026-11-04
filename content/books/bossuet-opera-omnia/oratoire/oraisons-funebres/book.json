@@ -1,0 +1,81 @@
+{
+  "id": "bossuet-oraisons-funebres",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Oraisons funèbres",
+    "en-US": "Funeral Orations",
+    "pt-BR": "Orações fúnebres"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Les six grandes oraisons funèbres de Bossuet, dans l’ordre où elles furent prononcées : Henriette-Marie de France (1669), Henriette-Anne d’Angleterre (1670), Marie-Thérèse d’Autriche (1683), Anne de Gonzague (1685), Michel Le Tellier (1686) et le prince de Condé (1687). Texte du Recueil de 1699 (Grégoire Dupuis).",
+    "en-US": "Bossuet’s six great funeral orations in the order they were delivered: Henrietta Maria of France (1669), Henrietta Anne of England (1670), Maria Theresa of Austria (1683), Anne de Gonzague (1685), Michel Le Tellier (1686) and the Prince of Condé (1687). Text of the 1699 Recueil (Grégoire Dupuis).",
+    "pt-BR": "As seis grandes orações fúnebres de Bossuet, na ordem em que foram pronunciadas: Henriqueta Maria de França (1669), Henriqueta Ana da Inglaterra (1670), Maria Teresa da Áustria (1683), Ana de Gonzaga (1685), Michel Le Tellier (1686) e o príncipe de Condé (1687). Texto do Recueil de 1699 (Grégoire Dupuis)."
+  },
+  "composed": "1669–1687",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/oraisons-funebres",
+  "editions": {
+    "fr-FR": {
+      "editor": "Recueil des oraisons funèbres, Paris, Grégoire Dupuis",
+      "year": 1699
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://fr.wikisource.org/wiki/Oraisons_fun%C3%A8bres_(Bossuet)",
+      "edition": "Recueil des oraisons funèbres prononcées par Messire Jacques-Bénigne Bossuet, Paris, Grégoire Dupuis, 1699 (fr.wikisource, from the Bossuet oraisons djvu)",
+      "description": "Proofread transcription on fr.wikisource (page-boundary word splits rejoined; long s normalised).",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; the 1699 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "henriette-marie",
+      "title": {
+        "fr-FR": "Oraison funèbre de Henriette-Marie de France, reine de la Grande-Bretagne"
+      }
+    },
+    {
+      "id": "henriette-anne",
+      "title": {
+        "fr-FR": "Oraison funèbre de Henriette-Anne d’Angleterre, duchesse d’Orléans"
+      }
+    },
+    {
+      "id": "marie-therese",
+      "title": {
+        "fr-FR": "Oraison funèbre de Marie-Thérèse d’Autriche, reine de France"
+      }
+    },
+    {
+      "id": "anne-de-gonzague",
+      "title": {
+        "fr-FR": "Oraison funèbre d’Anne de Gonzague de Clèves, princesse palatine"
+      }
+    },
+    {
+      "id": "le-tellier",
+      "title": {
+        "fr-FR": "Oraison funèbre de Michel Le Tellier, chancelier de France"
+      }
+    },
+    {
+      "id": "conde",
+      "title": {
+        "fr-FR": "Oraison funèbre de Louis de Bourbon, prince de Condé"
+      }
+    }
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-03"
+  }
+}
