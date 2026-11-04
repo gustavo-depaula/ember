@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Disputed Questions on the Power of God",
-    "la": "Quaestiones Disputatae de Potentia Dei"
+    "la": "Quaestiones Disputatae de Potentia Dei",
+    "pt-BR": "Questões Disputadas sobre a Potência de Deus"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Ten disputed questions, conducted at Rome — on the divine power, especially as it bears on creation, the Trinity, and the procession of the Holy Spirit.",
-    "la": "Decem quaestiones disputatae apud Romam — de potentia divina, praesertim in creatione, Trinitate, et processione Spiritus Sancti."
+    "la": "Decem quaestiones disputatae apud Romam — de potentia divina, praesertim in creatione, Trinitate, et processione Spiritus Sancti.",
+    "pt-BR": "Dez questões disputadas em Roma — sobre a potência divina, sobretudo no que toca à criação, à Trindade e à processão do Espírito Santo."
   },
   "composed": "1265–1266",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,63 +39,72 @@
       "id": "g1",
       "title": {
         "en-US": "Question 1 — On the power of God",
-        "la": "Quaestio 1"
+        "la": "Quaestio 1",
+        "pt-BR": "Questão 1 — Sobre a potência de Deus"
       },
       "children": [
         {
           "id": "g1-pr",
           "title": {
             "en-US": "Prologue — On the power of God",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo — Sobre a potência de Deus"
           }
         },
         {
           "id": "g1-c001",
           "title": {
             "en-US": "Article 1 — Whether there is power in God",
-            "la": "Articulus 1"
+            "la": "Articulus 1",
+            "pt-BR": "Artigo 1 — Se em Deus há potência"
           }
         },
         {
           "id": "g1-c002",
           "title": {
             "en-US": "Article 2 — Whether God’s power is infinite",
-            "la": "Articulus 2"
+            "la": "Articulus 2",
+            "pt-BR": "Artigo 2 — Se a potência de Deus é infinita"
           }
         },
         {
           "id": "g1-c003",
           "title": {
             "en-US": "Article 3 — Whether things that are impossible for nature are possible for God",
-            "la": "Articulus 3"
+            "la": "Articulus 3",
+            "pt-BR": "Artigo 3 — Se as coisas que são impossíveis à natureza são possíveis a Deus"
           }
         },
         {
           "id": "g1-c004",
           "title": {
             "en-US": "Article 4 — Whether we ought to judge of a thing’s possibility or impossibility in reference to its lower or its higher causes",
-            "la": "Articulus 4"
+            "la": "Articulus 4",
+            "pt-BR": "Artigo 4 — Se algo deve ser julgado possível ou impossível segundo as causas inferiores ou segundo as superiores"
           }
         },
         {
           "id": "g1-c005",
           "title": {
             "en-US": "Article 5 — Whether God can do what he does not do and can leave undone what he does",
-            "la": "Articulus 5"
+            "la": "Articulus 5",
+            "pt-BR": "Artigo 5 — Se Deus pode fazer o que não faz e deixar de fazer o que faz"
           }
         },
         {
           "id": "g1-c006",
           "title": {
             "en-US": "Article 6 — Whether God can do things that are possible to others",
-            "la": "Articulus 6"
+            "la": "Articulus 6",
+            "pt-BR": "Artigo 6 — Se Deus pode fazer as coisas que são possíveis a outros"
           }
         },
         {
           "id": "g1-c007",
           "title": {
             "en-US": "Article 7 — Why God is called omnipotent",
-            "la": "Articulus 7"
+            "la": "Articulus 7",
+            "pt-BR": "Artigo 7 — Por que Deus se diz onipotente"
           }
         }
       ]
@@ -100,56 +113,64 @@
       "id": "g2",
       "title": {
         "en-US": "Question 2 — On the generative power in God",
-        "la": "Quaestio 2"
+        "la": "Quaestio 2",
+        "pt-BR": "Questão 2 — Sobre a potência geradora em Deus"
       },
       "children": [
         {
           "id": "g2-pr",
           "title": {
             "en-US": "Prologue — On the generative power in God",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo — Sobre a potência geradora em Deus"
           }
         },
         {
           "id": "g2-c001",
           "title": {
             "en-US": "Article 1 — Whether within the divine there is the power to beget",
-            "la": "Articulus 1"
+            "la": "Articulus 1",
+            "pt-BR": "Artigo 1 — Se nas coisas divinas há a potência de gerar"
           }
         },
         {
           "id": "g2-c002",
           "title": {
             "en-US": "Article 2 — Whether the generative power in God is spoken of essentially or notionally",
-            "la": "Articulus 2"
+            "la": "Articulus 2",
+            "pt-BR": "Artigo 2 — Se a potência geradora em Deus se diz essencial ou nocionalmente"
           }
         },
         {
           "id": "g2-c003",
           "title": {
             "en-US": "Article 3 — Whether the generative power goes into the act of generation at the command of the will",
-            "la": "Articulus 3"
+            "la": "Articulus 3",
+            "pt-BR": "Artigo 3 — Se a potência geradora passa ao ato da geração por império da vontade"
           }
         },
         {
           "id": "g2-c004",
           "title": {
             "en-US": "Article 4 — Whether there can be several sons in God",
-            "la": "Articulus 4"
+            "la": "Articulus 4",
+            "pt-BR": "Artigo 4 — Se pode haver vários filhos em Deus"
           }
         },
         {
           "id": "g2-c005",
           "title": {
             "en-US": "Article 5 — Whether the generative power is included in omnipotence",
-            "la": "Articulus 5"
+            "la": "Articulus 5",
+            "pt-BR": "Artigo 5 — Se a potência geradora está incluída na onipotência"
           }
         },
         {
           "id": "g2-c006",
           "title": {
             "en-US": "Article 6 — Whether the power to beget is the same as the power to create",
-            "la": "Articulus 6"
+            "la": "Articulus 6",
+            "pt-BR": "Artigo 6 — Se a potência de gerar é a mesma que a potência de criar"
           }
         }
       ]
@@ -158,147 +179,168 @@
       "id": "g3",
       "title": {
         "en-US": "Question 3 — On creation, the first effect of the divine power",
-        "la": "Quaestio 3"
+        "la": "Quaestio 3",
+        "pt-BR": "Questão 3 — Sobre a criação, primeiro efeito da potência divina"
       },
       "children": [
         {
           "id": "g3-pr",
           "title": {
             "en-US": "Prologue — On creation, the first effect of the divine power",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo — Sobre a criação, primeiro efeito da potência divina"
           }
         },
         {
           "id": "g3-c001",
           "title": {
             "en-US": "Article 1 — Whether God can create something out of nothing",
-            "la": "Articulus 1"
+            "la": "Articulus 1",
+            "pt-BR": "Artigo 1 — Se Deus pode criar algo do nada"
           }
         },
         {
           "id": "g3-c002",
           "title": {
             "en-US": "Article 2 — Whether creation is a change",
-            "la": "Articulus 2"
+            "la": "Articulus 2",
+            "pt-BR": "Artigo 2 — Se a criação é uma mudança"
           }
         },
         {
           "id": "g3-c003",
           "title": {
             "en-US": "Article 3 — Whether creation is something real in the creature",
-            "la": "Articulus 3"
+            "la": "Articulus 3",
+            "pt-BR": "Artigo 3 — Se a criação é algo real na criatura"
           }
         },
         {
           "id": "g3-c004",
           "title": {
             "en-US": "Article 4 — Whether the creative power is communicable to a creature",
-            "la": "Articulus 4"
+            "la": "Articulus 4",
+            "pt-BR": "Artigo 4 — Se a potência criadora é comunicável a uma criatura"
           }
         },
         {
           "id": "g3-c005",
           "title": {
             "en-US": "Article 5 — Whether there can be anything that is not created by God",
-            "la": "Articulus 5"
+            "la": "Articulus 5",
+            "pt-BR": "Artigo 5 — Se pode haver algo que não seja criado por Deus"
           }
         },
         {
           "id": "g3-c006",
           "title": {
             "en-US": "Article 6 — Whether there is but one principle of creation",
-            "la": "Articulus 6"
+            "la": "Articulus 6",
+            "pt-BR": "Artigo 6 — Se há um só princípio da criação"
           }
         },
         {
           "id": "g3-c007",
           "title": {
             "en-US": "Article 7 — Whether God works in the activity of nature",
-            "la": "Articulus 7"
+            "la": "Articulus 7",
+            "pt-BR": "Artigo 7 — Se Deus opera na operação da natureza"
           }
         },
         {
           "id": "g3-c008",
           "title": {
             "en-US": "Article 8 — Whether God works in nature by creating",
-            "la": "Articulus 8"
+            "la": "Articulus 8",
+            "pt-BR": "Artigo 8 — Se Deus opera na natureza criando"
           }
         },
         {
           "id": "g3-c009",
           "title": {
             "en-US": "Article 9 — Whether the rational soul is brought into being by creation or by the transmission of seed",
-            "la": "Articulus 9"
+            "la": "Articulus 9",
+            "pt-BR": "Artigo 9 — Se a alma racional é trazida ao ser por criação ou pela transmissão do sêmen"
           }
         },
         {
           "id": "g3-c010",
           "title": {
             "en-US": "Article 10 — Whether the rational soul is created in or apart from the body",
-            "la": "Articulus 10"
+            "la": "Articulus 10",
+            "pt-BR": "Artigo 10 — Se a alma racional é criada no corpo ou fora dele"
           }
         },
         {
           "id": "g3-c011",
           "title": {
             "en-US": "Article 11 — Whether the sensitive and vegetative souls are created or transmitted through the seed",
-            "la": "Articulus 11"
+            "la": "Articulus 11",
+            "pt-BR": "Artigo 11 — Se as almas sensitiva e vegetativa são criadas ou transmitidas pelo sêmen"
           }
         },
         {
           "id": "g3-c012",
           "title": {
             "en-US": "Article 12 — Whether the sensitive or vegetative souls are in the seed when it is separated",
-            "la": "Articulus 12"
+            "la": "Articulus 12",
+            "pt-BR": "Artigo 12 — Se as almas sensitiva ou vegetativa estão no sêmen quando este é separado"
           }
         },
         {
           "id": "g3-c013",
           "title": {
             "en-US": "Article 13 — Whether any being that is from another can be eternal",
-            "la": "Articulus 13"
+            "la": "Articulus 13",
+            "pt-BR": "Artigo 13 — Se algum ente que procede de outro pode ser eterno"
           }
         },
         {
           "id": "g3-c014",
           "title": {
             "en-US": "Article 14 — Whether it is possible for that which differs essentially from God to have existed always",
-            "la": "Articulus 14"
+            "la": "Articulus 14",
+            "pt-BR": "Artigo 14 — Se é possível que o que difere de Deus pela essência tenha existido sempre"
           }
         },
         {
           "id": "g3-c015",
           "title": {
             "en-US": "Article 15 — Whether things proceeded from God of natural necessity or by a decree of his will",
-            "la": "Articulus 15"
+            "la": "Articulus 15",
+            "pt-BR": "Artigo 15 — Se as coisas procederam de Deus por necessidade de natureza ou por decisão da sua vontade"
           }
         },
         {
           "id": "g3-c016",
           "title": {
             "en-US": "Article 16 — Whether many things can proceed from one first thing",
-            "la": "Articulus 16"
+            "la": "Articulus 16",
+            "pt-BR": "Artigo 16 — Se de um só primeiro podem proceder muitas coisas"
           }
         },
         {
           "id": "g3-c017",
           "title": {
             "en-US": "Article 17 — Whether the world has always existed",
-            "la": "Articulus 17"
+            "la": "Articulus 17",
+            "pt-BR": "Artigo 17 — Se o mundo existiu sempre"
           }
         },
         {
           "id": "g3-c018",
           "title": {
             "en-US": "Article 18 — Whether the angels were created before the visible world",
-            "la": "Articulus 18"
+            "la": "Articulus 18",
+            "pt-BR": "Artigo 18 — Se os anjos foram criados antes do mundo visível"
           }
         },
         {
           "id": "g3-c019",
           "title": {
             "en-US": "Article 19 — Whether it would be possible for the angels to exist before the visible world",
-            "la": "Articulus 19"
+            "la": "Articulus 19",
+            "pt-BR": "Artigo 19 — Se seria possível que os anjos existissem antes do mundo visível"
           }
         }
       ]
@@ -307,28 +349,32 @@
       "id": "g4",
       "title": {
         "en-US": "Question 4 — On the creation of formless matter",
-        "la": "Quaestio 4"
+        "la": "Quaestio 4",
+        "pt-BR": "Questão 4 — Sobre a criação da matéria informe"
       },
       "children": [
         {
           "id": "g4-pr",
           "title": {
             "en-US": "Prologue — On the creation of formless matter",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo — Sobre a criação da matéria informe"
           }
         },
         {
           "id": "g4-c001",
           "title": {
             "en-US": "Article 1 — Whether the creation of formless matter preceded in duration the creation of things",
-            "la": "Articulus 1"
+            "la": "Articulus 1",
+            "pt-BR": "Artigo 1 — Se a criação da matéria informe precedeu em duração a criação das coisas"
           }
         },
         {
           "id": "g4-c002",
           "title": {
             "en-US": "Article 2 — Whether the formation of matter occurred all at once or by degrees",
-            "la": "Articulus 2"
+            "la": "Articulus 2",
+            "pt-BR": "Artigo 2 — Se a formação da matéria se deu de uma só vez ou gradualmente"
           }
         }
       ]
@@ -337,84 +383,96 @@
       "id": "g5",
       "title": {
         "en-US": "Question 5 — On the preservation of things in existence by God",
-        "la": "Quaestio 5"
+        "la": "Quaestio 5",
+        "pt-BR": "Questão 5 — Sobre a conservação das coisas no ser por Deus"
       },
       "children": [
         {
           "id": "g5-pr",
           "title": {
             "en-US": "Prologue — On the preservation of things in existence by God",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo — Sobre a conservação das coisas no ser por Deus"
           }
         },
         {
           "id": "g5-c001",
           "title": {
             "en-US": "Article 1 — Whether things are preserved in their being by God, or, if all God’s action were circumscribed, they would remain in being by themselves",
-            "la": "Articulus 1"
+            "la": "Articulus 1",
+            "pt-BR": "Artigo 1 — Se as coisas são conservadas no ser por Deus, ou se, cessando toda ação de Deus, permaneceriam no ser por si mesmas"
           }
         },
         {
           "id": "g5-c002",
           "title": {
             "en-US": "Article 2 — Whether God can make a creature able of itself to keep itself in existence independently of God",
-            "la": "Articulus 2"
+            "la": "Articulus 2",
+            "pt-BR": "Artigo 2 — Se Deus pode fazer uma criatura capaz de se conservar por si mesma no ser, independentemente de Deus"
           }
         },
         {
           "id": "g5-c003",
           "title": {
             "en-US": "Article 3 — Whether God can annihilate a creature",
-            "la": "Articulus 3"
+            "la": "Articulus 3",
+            "pt-BR": "Artigo 3 — Se Deus pode aniquilar uma criatura"
           }
         },
         {
           "id": "g5-c004",
           "title": {
             "en-US": "Article 4 — Whether any creature ought to be annihilated or even has been annihilated",
-            "la": "Articulus 4"
+            "la": "Articulus 4",
+            "pt-BR": "Artigo 4 — Se alguma criatura deve ser aniquilada, ou mesmo se alguma é aniquilada"
           }
         },
         {
           "id": "g5-c005",
           "title": {
             "en-US": "Article 5 — Whether the movement of the heavens will cease at some time",
-            "la": "Articulus 5"
+            "la": "Articulus 5",
+            "pt-BR": "Artigo 5 — Se o movimento dos céus cessará em algum momento"
           }
         },
         {
           "id": "g5-c006",
           "title": {
             "en-US": "Article 6 — Whether man can know when the movement of the heavens will cease",
-            "la": "Articulus 6"
+            "la": "Articulus 6",
+            "pt-BR": "Artigo 6 — Se o homem pode saber quando cessará o movimento dos céus"
           }
         },
         {
           "id": "g5-c007",
           "title": {
             "en-US": "Article 7 — Whether the elements will remain when the heavens cease to be in motion",
-            "la": "Articulus 7"
+            "la": "Articulus 7",
+            "pt-BR": "Artigo 7 — Se os elementos permanecerão quando os céus deixarem de se mover"
           }
         },
         {
           "id": "g5-c008",
           "title": {
             "en-US": "Article 8 — Whether action and passion will remain in the elements after the heavens have ceased to be in motion",
-            "la": "Articulus 8"
+            "la": "Articulus 8",
+            "pt-BR": "Artigo 8 — Se a ação e a paixão permanecerão nos elementos depois que os céus deixarem de se mover"
           }
         },
         {
           "id": "g5-c009",
           "title": {
             "en-US": "Article 9 — Whether plants, brute animals, and minerals will remain after the end of the world",
-            "la": "Articulus 9"
+            "la": "Articulus 9",
+            "pt-BR": "Artigo 9 — Se as plantas, os animais irracionais e os minerais permanecerão depois do fim do mundo"
           }
         },
         {
           "id": "g5-c010",
           "title": {
             "en-US": "Article 10 — Whether human bodies will remain after the heavenly movement has ceased",
-            "la": "Articulus 10"
+            "la": "Articulus 10",
+            "pt-BR": "Artigo 10 — Se os corpos humanos permanecerão depois de cessar o movimento celeste"
           }
         }
       ]
@@ -423,84 +481,96 @@
       "id": "g6",
       "title": {
         "en-US": "Question 6 — On miracles",
-        "la": "Quaestio 6"
+        "la": "Quaestio 6",
+        "pt-BR": "Questão 6 — Sobre os milagres"
       },
       "children": [
         {
           "id": "g6-pr",
           "title": {
             "en-US": "Prologue — On miracles",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo — Sobre os milagres"
           }
         },
         {
           "id": "g6-c001",
           "title": {
             "en-US": "Article 1 — Whether God can do anything in creatures that is beyond or against nature, or contrary to the course of nature",
-            "la": "Articulus 1"
+            "la": "Articulus 1",
+            "pt-BR": "Artigo 1 — Se Deus pode fazer nas criaturas algo que esteja além ou contra a natureza, ou seja contrário ao curso da natureza"
           }
         },
         {
           "id": "g6-c002",
           "title": {
             "en-US": "Article 2 — Whether everything that God does without natural causes or contrary to the course of nature can be called a miracle",
-            "la": "Articulus 2"
+            "la": "Articulus 2",
+            "pt-BR": "Artigo 2 — Se tudo o que Deus faz sem as causas naturais ou contra o curso da natureza pode ser chamado milagre"
           }
         },
         {
           "id": "g6-c003",
           "title": {
             "en-US": "Article 3 — Whether spiritual creatures can work miracles by their natural power",
-            "la": "Articulus 3"
+            "la": "Articulus 3",
+            "pt-BR": "Artigo 3 — Se as criaturas espirituais podem fazer milagres por sua potência natural"
           }
         },
         {
           "id": "g6-c004",
           "title": {
             "en-US": "Article 4 — Whether good angels and men can work miracles by some gift of grace",
-            "la": "Articulus 4"
+            "la": "Articulus 4",
+            "pt-BR": "Artigo 4 — Se os anjos bons e os homens podem fazer milagres por algum dom da graça"
           }
         },
         {
           "id": "g6-c005",
           "title": {
             "en-US": "Article 5 — Whether the demons also cooperate in the working of miracles",
-            "la": "Articulus 5"
+            "la": "Articulus 5",
+            "pt-BR": "Artigo 5 — Se também os demônios cooperam na realização de milagres"
           }
         },
         {
           "id": "g6-c006",
           "title": {
             "en-US": "Article 6 — Whether angels and demons have bodies naturally united to them",
-            "la": "Articulus 6"
+            "la": "Articulus 6",
+            "pt-BR": "Artigo 6 — Se os anjos e os demônios têm corpos naturalmente unidos a si"
           }
         },
         {
           "id": "g6-c007",
           "title": {
             "en-US": "Article 7 — Whether angels or demons can assume bodies",
-            "la": "Articulus 7"
+            "la": "Articulus 7",
+            "pt-BR": "Artigo 7 — Se os anjos ou os demônios podem assumir corpos"
           }
         },
         {
           "id": "g6-c008",
           "title": {
             "en-US": "Article 8 — Whether an angel or demon by means of an assumed body can exercise the functions of a living body",
-            "la": "Articulus 8"
+            "la": "Articulus 8",
+            "pt-BR": "Artigo 8 — Se o anjo ou o demônio, por meio de um corpo assumido, pode exercer as funções de um corpo vivo"
           }
         },
         {
           "id": "g6-c009",
           "title": {
             "en-US": "Article 9 — Whether the working of a miracle should be attributed to faith",
-            "la": "Articulus 9"
+            "la": "Articulus 9",
+            "pt-BR": "Artigo 9 — Se a realização de um milagre deve ser atribuída à fé"
           }
         },
         {
           "id": "g6-c010",
           "title": {
             "en-US": "Article 10 — Whether by means of certain sensible and corporeal objects, deeds, or words, the demons are forced to work the miracles that seem to occur by magic",
-            "la": "Articulus 10"
+            "la": "Articulus 10",
+            "pt-BR": "Artigo 10 — Se, por meio de certos objetos sensíveis e corpóreos, de ações ou de palavras, os demônios são forçados a fazer os milagres que parecem acontecer por magia"
           }
         }
       ]
@@ -509,91 +579,104 @@
       "id": "g7",
       "title": {
         "en-US": "Question 7 — On the simplicity of the divine essence",
-        "la": "Quaestio 7"
+        "la": "Quaestio 7",
+        "pt-BR": "Questão 7 — Sobre a simplicidade da essência divina"
       },
       "children": [
         {
           "id": "g7-pr",
           "title": {
             "en-US": "Prologue — On the simplicity of the divine essence",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo — Sobre a simplicidade da essência divina"
           }
         },
         {
           "id": "g7-c001",
           "title": {
             "en-US": "Article 1 — Whether God is simple",
-            "la": "Articulus 1"
+            "la": "Articulus 1",
+            "pt-BR": "Artigo 1 — Se Deus é simples"
           }
         },
         {
           "id": "g7-c002",
           "title": {
             "en-US": "Article 2 — Whether God’s essence or substance is the same as his existence",
-            "la": "Articulus 2"
+            "la": "Articulus 2",
+            "pt-BR": "Artigo 2 — Se a essência ou substância de Deus é o mesmo que o seu ser"
           }
         },
         {
           "id": "g7-c003",
           "title": {
             "en-US": "Article 3 — Whether God is contained in a genus",
-            "la": "Articulus 3"
+            "la": "Articulus 3",
+            "pt-BR": "Artigo 3 — Se Deus está contido em um gênero"
           }
         },
         {
           "id": "g7-c004",
           "title": {
             "en-US": "Article 4 — Whether good, wise, just, and the like predicate an accident in God",
-            "la": "Articulus 4"
+            "la": "Articulus 4",
+            "pt-BR": "Artigo 4 — Se bom, sábio, justo e semelhantes predicam um acidente em Deus"
           }
         },
         {
           "id": "g7-c005",
           "title": {
             "en-US": "Article 5 — Whether these terms signify the divine substance",
-            "la": "Articulus 5"
+            "la": "Articulus 5",
+            "pt-BR": "Artigo 5 — Se esses termos significam a substância divina"
           }
         },
         {
           "id": "g7-c006",
           "title": {
             "en-US": "Article 6 — Whether these terms are synonymous",
-            "la": "Articulus 6"
+            "la": "Articulus 6",
+            "pt-BR": "Artigo 6 — Se esses termos são sinônimos"
           }
         },
         {
           "id": "g7-c007",
           "title": {
             "en-US": "Article 7 — Whether these terms are said of God and creatures univocally or equivocally",
-            "la": "Articulus 7"
+            "la": "Articulus 7",
+            "pt-BR": "Artigo 7 — Se esses termos se dizem de Deus e das criaturas unívoca ou equivocamente"
           }
         },
         {
           "id": "g7-c008",
           "title": {
             "en-US": "Article 8 — Whether there is any relation between God and the creature",
-            "la": "Articulus 8"
+            "la": "Articulus 8",
+            "pt-BR": "Artigo 8 — Se há alguma relação entre Deus e a criatura"
           }
         },
         {
           "id": "g7-c009",
           "title": {
             "en-US": "Article 9 — Whether these relations between creatures and God are really in the creatures themselves",
-            "la": "Articulus 9"
+            "la": "Articulus 9",
+            "pt-BR": "Artigo 9 — Se essas relações entre as criaturas e Deus estão realmente nas próprias criaturas"
           }
         },
         {
           "id": "g7-c010",
           "title": {
             "en-US": "Article 10 — Whether God is really related to the creature such that this relation is something in God",
-            "la": "Articulus 10"
+            "la": "Articulus 10",
+            "pt-BR": "Artigo 10 — Se Deus se refere realmente à criatura, de modo que essa relação seja algo em Deus"
           }
         },
         {
           "id": "g7-c011",
           "title": {
             "en-US": "Article 11 — Whether these temporal relations are in God according to account or reason",
-            "la": "Articulus 11"
+            "la": "Articulus 11",
+            "pt-BR": "Artigo 11 — Se essas relações temporais estão em Deus segundo a razão"
           }
         }
       ]
@@ -602,42 +685,48 @@
       "id": "g8",
       "title": {
         "en-US": "Question 8 — On those things that are said of God relatively from eternity",
-        "la": "Quaestio 8"
+        "la": "Quaestio 8",
+        "pt-BR": "Questão 8 — Sobre o que se diz de Deus relativamente desde a eternidade"
       },
       "children": [
         {
           "id": "g8-pr",
           "title": {
             "en-US": "Prologue — On those things that are said of God relatively from eternity",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo — Sobre o que se diz de Deus relativamente desde a eternidade"
           }
         },
         {
           "id": "g8-c001",
           "title": {
             "en-US": "Article 1 — Whether the relations said of God from eternity that are indicated by the names “Father” and “Son” are real or only relations of account or reason",
-            "la": "Articulus 1"
+            "la": "Articulus 1",
+            "pt-BR": "Artigo 1 — Se as relações ditas de Deus desde a eternidade, indicadas pelos nomes “Pai” e “Filho”, são reais ou apenas de razão"
           }
         },
         {
           "id": "g8-c002",
           "title": {
             "en-US": "Article 2 — Whether relation in God is his substance",
-            "la": "Articulus 2"
+            "la": "Articulus 2",
+            "pt-BR": "Artigo 2 — Se a relação em Deus é a sua substância"
           }
         },
         {
           "id": "g8-c003",
           "title": {
             "en-US": "Article 3 — Whether the relations constitute and distinguish the persons or hypostases",
-            "la": "Articulus 3"
+            "la": "Articulus 3",
+            "pt-BR": "Artigo 3 — Se as relações constituem e distinguem as pessoas ou hipóstases"
           }
         },
         {
           "id": "g8-c004",
           "title": {
             "en-US": "Article 4 — Whether, if relation is removed by the intellect, the hypostasis remains in the divine",
-            "la": "Articulus 4"
+            "la": "Articulus 4",
+            "pt-BR": "Artigo 4 — Se, removida a relação pelo intelecto, permanece a hipóstase nas coisas divinas"
           }
         }
       ]
@@ -646,77 +735,88 @@
       "id": "g9",
       "title": {
         "en-US": "Question 9 — On the divine persons",
-        "la": "Quaestio 9"
+        "la": "Quaestio 9",
+        "pt-BR": "Questão 9 — Sobre as pessoas divinas"
       },
       "children": [
         {
           "id": "g9-pr",
           "title": {
             "en-US": "Prologue — On the divine persons",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo — Sobre as pessoas divinas"
           }
         },
         {
           "id": "g9-c001",
           "title": {
             "en-US": "Article 1 — How the persons are compared with the essence, subsistence, and hypostasis",
-            "la": "Articulus 1"
+            "la": "Articulus 1",
+            "pt-BR": "Artigo 1 — Como as pessoas se comparam com a essência, a subsistência e a hipóstase"
           }
         },
         {
           "id": "g9-c002",
           "title": {
             "en-US": "Article 2 — What a person is",
-            "la": "Articulus 2"
+            "la": "Articulus 2",
+            "pt-BR": "Artigo 2 — O que é a pessoa"
           }
         },
         {
           "id": "g9-c003",
           "title": {
             "en-US": "Article 3 — Whether there can be a person in God",
-            "la": "Articulus 3"
+            "la": "Articulus 3",
+            "pt-BR": "Artigo 3 — Se pode haver pessoa em Deus"
           }
         },
         {
           "id": "g9-c004",
           "title": {
             "en-US": "Article 4 — Whether this term “person” signifies something relative or something absolute in God",
-            "la": "Articulus 4"
+            "la": "Articulus 4",
+            "pt-BR": "Artigo 4 — Se este termo “pessoa” significa em Deus algo relativo ou algo absoluto"
           }
         },
         {
           "id": "g9-c005",
           "title": {
             "en-US": "Article 5 — Whether there is a number of persons in God",
-            "la": "Articulus 5"
+            "la": "Articulus 5",
+            "pt-BR": "Artigo 5 — Se há número de pessoas em Deus"
           }
         },
         {
           "id": "g9-c006",
           "title": {
             "en-US": "Article 6 — Whether, when we speak of God, we may rightly use the word “person” in the plural",
-            "la": "Articulus 6"
+            "la": "Articulus 6",
+            "pt-BR": "Artigo 6 — Se, ao falar de Deus, podemos usar retamente a palavra “pessoa” no plural"
           }
         },
         {
           "id": "g9-c007",
           "title": {
             "en-US": "Article 7 — How numerical terms are predicated of the divine persons, whether positively or only negatively",
-            "la": "Articulus 7"
+            "la": "Articulus 7",
+            "pt-BR": "Artigo 7 — Como os termos numerais se predicam das pessoas divinas: se positivamente ou só negativamente"
           }
         },
         {
           "id": "g9-c008",
           "title": {
             "en-US": "Article 8 — Whether there is any diversity in God",
-            "la": "Articulus 8"
+            "la": "Articulus 8",
+            "pt-BR": "Artigo 8 — Se há alguma diversidade em Deus"
           }
         },
         {
           "id": "g9-c009",
           "title": {
             "en-US": "Article 9 — Whether in God there are only three persons, or more or fewer than three",
-            "la": "Articulus 9"
+            "la": "Articulus 9",
+            "pt-BR": "Artigo 9 — Se em Deus há só três pessoas, ou mais ou menos que três"
           }
         }
       ]
@@ -725,49 +825,56 @@
       "id": "g10",
       "title": {
         "en-US": "Question 10 — On the procession of the divine persons",
-        "la": "Quaestio 10"
+        "la": "Quaestio 10",
+        "pt-BR": "Questão 10 — Sobre a processão das pessoas divinas"
       },
       "children": [
         {
           "id": "g10-pr",
           "title": {
             "en-US": "Prologue — On the procession of the divine persons",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo — Sobre a processão das pessoas divinas"
           }
         },
         {
           "id": "g10-c001",
           "title": {
             "en-US": "Article 1 — Whether there is any procession in the divine persons",
-            "la": "Articulus 1"
+            "la": "Articulus 1",
+            "pt-BR": "Artigo 1 — Se há alguma processão nas pessoas divinas"
           }
         },
         {
           "id": "g10-c002",
           "title": {
             "en-US": "Article 2 — Whether there is only one procession in God or more than one",
-            "la": "Articulus 2"
+            "la": "Articulus 2",
+            "pt-BR": "Artigo 2 — Se há em Deus uma só processão ou mais de uma"
           }
         },
         {
           "id": "g10-c003",
           "title": {
             "en-US": "Article 3 — On the order between procession and relation in God",
-            "la": "Articulus 3"
+            "la": "Articulus 3",
+            "pt-BR": "Artigo 3 — Sobre a ordem entre a processão e a relação em Deus"
           }
         },
         {
           "id": "g10-c004",
           "title": {
             "en-US": "Article 4 — Whether the Holy Spirit proceeds from the Son",
-            "la": "Articulus 4"
+            "la": "Articulus 4",
+            "pt-BR": "Artigo 4 — Se o Espírito Santo procede do Filho"
           }
         },
         {
           "id": "g10-c005",
           "title": {
             "en-US": "Article 5 — Whether the Holy Spirit would still be distinct from the Son if he did not proceed from him",
-            "la": "Articulus 5"
+            "la": "Articulus 5",
+            "pt-BR": "Artigo 5 — Se o Espírito Santo seria ainda distinto do Filho caso não procedesse dele"
           }
         }
       ]
@@ -776,5 +883,12 @@
   "arrived": {
     "en-US": "2026-06-04",
     "la": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
+    }
   }
 }
