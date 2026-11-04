@@ -4,7 +4,7 @@ The admin panel, a Cloudflare Worker (`ember-admin`) that serves the page in `sr
 
 - `worker/` — the Worker. It binds the same D1 as the public API (apps/backend), whose migrations hold the desk's `moderation_*` tables.
 - `reviewer/` — a container image: the Claude Code CLI behind a small queue. A Worker cannot run a command-line program, so reviews run here. It has no database and no credential; see `worker/reviewer.ts`.
-- `src/` — the page.
+- `src/` — the page. `/lirio` is a second desk: each week's download of Lírio Católico's directory, his changes set against our churches, carried over through the moderation desk's apply (so its change log and undo hold them). Its first state was written by `research/lirio-mass-times/seed.py`.
 
 ## Run it locally
 

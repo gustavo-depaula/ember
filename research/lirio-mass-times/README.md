@@ -22,18 +22,20 @@ His download (`app_dados/horario_missa.zip`) is `uf/<UF>.json`, one record per c
   or a December–February season into the whole year. So his grid is never imported whole; only his
   changes are.
 
-## Each week (by hand for now)
+## Each week
 
-His site sits behind a Cloudflare bot check, so download the zip in a browser.
+The admin panel's Lírio desk (`/lirio`) does the weekly work: download his zip in a browser (his
+site sits behind a Cloudflare bot check) and upload it there. Every church whose `atualizado` moved
+since the previous upload waits with his changes ticked against our church; the page and its
+reasoning live in `apps/admin/src/lirio/` and `apps/backend/src/lib/lirio.ts`.
+
+`seed.py` wrote the desk's starting state from this folder's first extraction: his 2026-10-29
+download as the copy the first upload is compared with, and his hand edits since his bulk import
+as the first items.
 
 ```bash
-M=~/Documents/mass-times/lirio
-unzip -o horario_missa.zip -d $M/snapshots/$(date +%F)
-python3 diff.py --weekly $M/snapshots/<last week>/horario_missa $M/snapshots/$(date +%F)/horario_missa \
-  $M/extract-2026-10-29/lirio-map.jsonl $M/weekly/$(date +%F)
+M=~/Documents/mass-times
+python3 seed.py $M/lirio/horario_missa $M/lirio/extract-2026-10-29/lirio-map.jsonl seed.sql \
+  $M/churches.jsonl $M/snapshots/2026-06-17.jsonl.gz
+pnpm --filter @ember/backend exec wrangler d1 execute ember-mass-times --remote --file=seed.sql
 ```
-
-`proposals.md` lists, per church he touched, the fields he changed and the times he added or removed.
-A removed time maps onto our weekly rule for that day; our monthly and seasonal Masses are outside
-his model, so nothing in a proposal touches them. A church he adds has no entry in `lirio-map.jsonl`
-until we add it ourselves.

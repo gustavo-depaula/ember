@@ -3,6 +3,7 @@ import { Hono } from 'hono'
 import { identify } from './access'
 import { createDesk, issues, message } from './desk'
 import type { Env } from './env'
+import { createLirio } from './lirio'
 import { reviewer } from './reviewer'
 import type { Seen } from './types'
 import { loadUsage } from './usage'
@@ -86,6 +87,39 @@ app.post('/history/:id/shared', async (c) => {
   const { shared } = await c.req.json<{ shared?: boolean }>()
   return c.json(await desk(c).markShared(c.req.param('id'), shared === true))
 })
+
+// The Lírio desk (worker/lirio.ts). Its writes go through the moderation desk's own apply.
+const lirio = (c: { env: Env; req: { url: string } }) => {
+  const d = desk(c)
+  return createLirio(c.env, d.target, d)
+}
+
+app.get('/lirio', async (c) => c.json(await lirio(c).load()))
+
+app.post('/lirio/upload', async (c) => {
+  const { churches } = await c.req.json<{ churches?: unknown }>()
+  if (!Array.isArray(churches)) throw new Error('Send the churches read from his download.')
+  return c.json(await lirio(c).upload(churches))
+})
+
+app.post('/lirio/items/:id/match', async (c) => {
+  const { churchId } = await c.req.json<{ churchId?: string }>()
+  return c.json(await lirio(c).match(c.req.param('id'), churchId || undefined))
+})
+
+app.post('/lirio/items/:id/apply', async (c) => {
+  const { resolution, seen } = await c.req.json<Body>()
+  const parsed = resolutionSchema.safeParse(resolution)
+  if (!parsed.success) throw new Error(issues(parsed.error))
+  return c.json(
+    await lirio(c).apply(c.req.param('id'), {
+      resolution: parsed.data,
+      seen: (seen ?? {}) as Seen,
+    }),
+  )
+})
+
+app.post('/lirio/items/:id/skip', async (c) => c.json(await lirio(c).skip(c.req.param('id'))))
 
 app.get('/usage', async (c) => {
   const days = Number(c.req.query('days'))

@@ -1,5 +1,6 @@
 import type { Proposal, Resolution } from '@ember/api/src/moderation'
 import type { Church } from '@ember/api/src/schema'
+import type { ChangeState, LirioChange, LirioRecord } from '@ember/backend/src/lib/lirio'
 
 // What the desk's Worker and its page say to each other.
 
@@ -135,4 +136,30 @@ export type Usage = {
     devices: { devices: number; accounts: number }[]
     weekly: { week: string; created: number; deleted: number }[]
   }
+}
+
+// The Lírio desk: what Lírio Católico changed in his directory, waiting to be carried into ours.
+
+export type LirioItem = {
+  id: string
+  lirioId: number
+  createdAt: string
+  // His record as we last held it, and as he has it now; one is missing for a church he added or
+  // removed.
+  before?: LirioRecord
+  after?: LirioRecord
+  // Ours, when we know which it is; else the churches of ours standing near his.
+  church?: Church
+  nearby: Array<{ church: Church; distanceKm: number }>
+  changes: Array<LirioChange & { state: ChangeState }>
+}
+
+export type LirioDesk = {
+  target: Desk['target']
+  // How many of his churches we hold a copy of, and his latest edit among them.
+  held: number
+  latestEdit?: string
+  items: LirioItem[]
+  applied: number
+  skipped: number
 }

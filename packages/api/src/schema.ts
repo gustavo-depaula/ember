@@ -197,6 +197,35 @@ export const moderationChange = sqliteTable(
   (t) => [index('moderation_change_applied_idx').on(t.appliedAt)],
 )
 
+// Lírio Católico's directory, which grew from the same scrape as ours and is followed for its hand
+// edits (the admin panel's Lírio desk). `lirio_church` is his latest download, one row per church of
+// his, joined to ours where we found it; `lirio_item` is what he changed on a church since the copy
+// before, waiting for a moderator to carry it over (`pending`) or settled (`applied`, `skipped`).
+export const lirioChurch = sqliteTable('lirio_church', {
+  lirioId: integer('lirio_id').primaryKey(),
+  record: text('record', { mode: 'json' }).$type<Record<string, unknown>>().notNull(),
+  updated: text('updated'), // his `atualizado`
+  churchId: text('church_id'), // ours, when it was found
+})
+
+export const lirioItem = sqliteTable(
+  'lirio_item',
+  {
+    id: text('id').primaryKey(),
+    lirioId: integer('lirio_id').notNull(),
+    churchId: text('church_id'), // ours it concerns; missing for a church of his we don't hold
+    status: text('status').notNull(), // pending | applied | skipped
+    // His record as we last held it (missing for a church he added) and as he has it now (missing for
+    // one he removed). A later download moves `after` on while the item waits.
+    before: text('before', { mode: 'json' }).$type<Record<string, unknown>>(),
+    after: text('after', { mode: 'json' }).$type<Record<string, unknown>>(),
+    createdAt: text('created_at').notNull(),
+    settledAt: text('settled_at'),
+    changeId: text('change_id'), // the moderation_change an applied item wrote
+  },
+  (t) => [index('lirio_item_status_idx').on(t.status, t.lirioId)],
+)
+
 export type Church = InferSelectModel<typeof church>
 export type Correction = InferSelectModel<typeof correction>
 export type VerificationEvent = InferSelectModel<typeof verificationEvent>

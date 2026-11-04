@@ -5,7 +5,7 @@ import type { Case, Desk, OtherChurch, Progress, Seen } from '../worker/types'
 
 const deskKey = ['desk']
 
-async function call<T>(path: string, body?: unknown): Promise<T> {
+export async function call<T>(path: string, body?: unknown): Promise<T> {
   const response = await fetch(
     `/api${path}`,
     body === undefined

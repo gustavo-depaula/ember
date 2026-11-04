@@ -72,6 +72,7 @@ const createdChurchSchema = z.object({
   city: z.string().optional(),
   region: z.string().optional(),
   postalCode: z.string().optional(),
+  phoneE164: z.string().optional(),
   lat: z.number().min(-90).max(90),
   lng: z.number().min(-180).max(180),
   services: z.array(proposedServiceSchema),

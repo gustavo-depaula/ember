@@ -118,6 +118,29 @@ button:disabled {
   opacity: 0.5;
 }
 
+/* A file picker dressed as a button (the Lírio desk's upload). */
+label.button {
+  display: inline-block;
+  cursor: pointer;
+  padding: 7px 14px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+  font-size: 14px;
+}
+
+label.button.primary {
+  border-color: transparent;
+  background: var(--text);
+  color: var(--bg);
+  font-weight: 600;
+}
+
+label.button.disabled {
+  cursor: default;
+  opacity: 0.5;
+}
+
 button.primary {
   border-color: transparent;
   background: var(--text);
@@ -1331,6 +1354,93 @@ button.reject:not(:disabled) {
   font: 15px / 1.45 var(--body);
   color: var(--text-2);
   max-width: 70ch;
+}
+
+/* Lírio desk */
+
+.lirio-changes,
+.lirio-ours,
+.lirio-nearby {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.lirio-changes li {
+  display: grid;
+  gap: 2px;
+  padding: 7px 4px;
+  border-bottom: 1px solid var(--border);
+}
+
+.lirio-changes label {
+  display: flex;
+  gap: 10px;
+  align-items: baseline;
+  font: 16px / 1.35 var(--body);
+  color: var(--text);
+}
+
+.lirio-changes input[type='checkbox'] {
+  flex: none;
+  width: auto;
+  margin: 0;
+}
+
+.lirio-changes label > span:last-child {
+  flex: 1;
+}
+
+.lirio-changes li > .muted {
+  padding-left: 46px;
+  font-size: 12.5px;
+}
+
+.lirio-changes .warn {
+  color: var(--orange);
+}
+
+.lirio-change--closed label {
+  color: var(--text-2);
+}
+
+.mark--add {
+  color: var(--green);
+}
+
+.mark--remove {
+  color: var(--red);
+}
+
+.mark--edit {
+  color: var(--orange);
+}
+
+.lirio-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: flex-end;
+  align-items: center;
+  margin-top: 14px;
+}
+
+.lirio-listed blockquote {
+  font-size: 15px;
+}
+
+.lirio-ours li {
+  padding: 3px 0;
+  font: 16px / 1.35 var(--body);
+}
+
+.lirio-nearby li {
+  display: flex;
+  gap: 12px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border);
 }
 
 @media (max-width: 860px) {

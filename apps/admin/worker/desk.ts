@@ -366,8 +366,20 @@ export function createDesk(env: Env, target: Desk['target']) {
 
   // Write a resolution to the directory. Every church it names is read again first: what gets
   // saved for undo, and what the resolution is compared against, is the row as it is now, and a
-  // row that moved since the moderator saw it is refused rather than overwritten.
+  // row that moved since the moderator saw it is refused rather than overwritten. `basis` says
+  // what the change rests on when no review of Claude's stands behind it (the Lírio desk's).
   async function apply(churchId: string, resolution: Resolution, seen: Seen): Promise<Desk> {
+    await write(churchId, resolution, seen)
+    return load()
+  }
+
+  // `apply` without reading the desk back; the id of the change it logged.
+  async function write(
+    churchId: string,
+    resolution: Resolution,
+    seen: Seen,
+    givenBasis?: string,
+  ): Promise<string> {
     const named = [churchId, ...(resolution.related ?? []).map((related) => related.churchId)]
     const parishes = [resolution, ...(resolution.related ?? [])].flatMap(
       (record) => record.fields.parishId || [],
@@ -403,15 +415,25 @@ export function createDesk(env: Env, target: Desk['target']) {
 
     const count = (status: string) =>
       resolution.verdicts.filter((verdict) => verdict.status === status).length
-    const changed = records.length === 1 ? '1 church updated' : `${records.length} churches updated`
-    const basis = review && (JSON.parse(review.proposal as string) as { summary?: string }).summary
+    const counted = (n: number, done: string) =>
+      n === 0 ? '' : `${n} ${n === 1 ? 'church' : 'churches'} ${done}`
+    const added = records.filter((record) => !record.before).length
+    // A church created beside one that itself stays as it was is what the change is about.
+    const subject = records.some((record) => record.after.id === churchId)
+      ? current
+      : (records[0]?.after ?? current)
+    const basis =
+      givenBasis ??
+      (review && (JSON.parse(review.proposal as string) as { summary?: string }).summary)
+    const changeId = `${now.toISOString()}-${churchId}`
     await store.writeChange({
-      id: `${now.toISOString()}-${churchId}`,
+      id: changeId,
       churchId,
-      churchName: current?.name ?? churchId,
+      churchName: subject?.name ?? churchId,
       appliedAt: now.toISOString(),
       summary: [
-        records.length ? changed : '',
+        counted(records.length - added, 'updated'),
+        counted(added, 'added'),
         ...['accepted', 'rejected', 'duplicate'].map((status) =>
           count(status) ? `${count(status)} ${status}` : '',
         ),
@@ -423,7 +445,7 @@ export function createDesk(env: Env, target: Desk['target']) {
       basis,
     })
     if (resolution.verdicts.length === waitingIds.size) await store.clearCase(churchId)
-    return load()
+    return changeId
   }
 
   // An id nobody holds for each church the resolution creates, slugged the way the import does.
@@ -487,6 +509,7 @@ export function createDesk(env: Env, target: Desk['target']) {
   }
 
   return {
+    target,
     load,
     photoResponse,
     search,
@@ -498,6 +521,7 @@ export function createDesk(env: Env, target: Desk['target']) {
     finish,
     searchFor,
     apply,
+    write,
     undo,
     markShared,
   }

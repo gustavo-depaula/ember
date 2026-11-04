@@ -124,6 +124,7 @@ function createChurch(
     city: created.city?.trim() || near.city,
     region: created.region?.trim() || near.region,
     postalCode: created.postalCode?.trim() || null,
+    phoneE164: created.phoneE164?.trim() || null,
     country: near.country,
     countryCode: near.countryCode,
     lat: created.lat,
