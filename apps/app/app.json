@@ -16,6 +16,7 @@
         "tinted": "./assets/icon-tinted.png"
       },
       "bundleIdentifier": "me.dpgu.ember",
+      "appStoreUrl": "https://apps.apple.com/app/id6761686469",
       "appleTeamId": "F3D9WF9H7X",
       "associatedDomains": ["applinks:ember.dpgu.me"],
       "infoPlist": {
@@ -30,6 +31,7 @@
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
       "package": "me.dpgu.ember",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=me.dpgu.ember",
       "intentFilters": [
         {
           "action": "VIEW",
