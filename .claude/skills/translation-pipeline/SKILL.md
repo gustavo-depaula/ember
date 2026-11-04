@@ -21,7 +21,7 @@ Translates corpus books into Brazilian Portuguese without supervision: each book
 3. **Start the heartbeat** from `pipeline/`. It starts and keeps alive the watchdog, the committer, the pools and any driver left without a process, every 2 minutes, until `DEADLINE`:
 
    ```sh
-   (POOLS="claude:3 codex:2" DEADLINE="2026-10-26 05:50" SESSION_LIMIT=88 WEEK_LIMIT=95 \
+   (POOLS="claude:2 codex:2" DEADLINE="2026-10-26 05:50" SESSION_LIMIT=70 KILL_AT=80 WEEK_LIMIT=95 \
      CODEX_LIMIT=99 MAX_ROUNDS=10 nohup ./heartbeat.sh >> heartbeat.out 2>&1 &)
    ```
 
@@ -77,7 +77,7 @@ Codex's weekly usage is in its newest `~/.codex/sessions/*/*/*/rollout-*.jsonl` 
 ## Rules
 
 - claude-work's session must never reach 100%. The watchdog is what guarantees it, so keep it running; at 98% or more, kill the heartbeat, the pools and every driver.
-- At most 3 claude slots: wider pools exhaust the session faster than the watchdog can react.
+- At most 3 claude slots, and 2 with `KILL_AT=80`: Opus calls run uncached, and three in flight have taken the session from under 90% to 100% between two of the watchdog's one-minute reads (Nov 4, 2026). Kill at 90% overshot to 94% and then 100%.
 - Edit a script by writing a copy and `mv`-ing it over the original: zsh reads a running script as it goes, so an in-place edit corrupts the drivers executing it.
 - After the Mac wakes from sleep, a `claude -p` or `codex exec` far past its usual ~15 minutes is hung on a dead connection: kill it, and its driver retries.
 - Commit messages carry no `Co-Authored-By` line.
