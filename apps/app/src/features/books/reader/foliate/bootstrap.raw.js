@@ -15,6 +15,12 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
     else if (window.parent !== window) window.parent.postMessage(json, '*');
   };
   window.onerror = (m, _u, l) => post({ type: 'error', message: String(m) + ' @' + l });
+  // Breadcrumbs for the host: a renderer that crashes takes every later
+  // message with it, so the last stage posted says how far the reader got.
+  // Chapter documents report through it too (they are this window's blobs).
+  const stage = (name) => post({ type: 'stage', name });
+  window.__foliateStage = stage;
+  stage('init');
 
   let cfg = initialCfg;
   // Font files the host hands over as base64 (Android: a WebView there cannot
@@ -35,6 +41,7 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
       .join('\n');
   };
   applyFontFaces(initialFontFaces);
+  stage('fonts');
   let chapterTotal = chapterCount;
   // One Map<index, {body?, url?, pending?}>. Map insertion order is recency
   // for the LRU pass below — a long reading session would otherwise grow this
@@ -77,9 +84,10 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
       line-height: ${c.lineHeightPx}px;
       text-align: ${c.textAlign};
       /* Hyphenation: WebKit picks the dictionary from the html @lang.
-         Critical for justified text — avoids ugly inter-word gaps. */
-      -webkit-hyphens: auto;
-      hyphens: auto;
+         Critical for justified text — avoids ugly inter-word gaps. Plain mode
+         (the host's fallback after a renderer crash) leaves it off. */
+      -webkit-hyphens: ${c.plain ? 'manual' : 'auto'};
+      hyphens: ${c.plain ? 'manual' : 'auto'};
       -webkit-hyphenate-limit-before: 3;
       -webkit-hyphenate-limit-after: 3;
       overflow-wrap: break-word;
@@ -201,11 +209,13 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
       if (!document.body || !document.body.clientWidth) return false;
       // Only elements computing to text-align: justify are enhanced, so the
       // reader's "left" setting turns this into a no-op on its own.
+      try { parent.__foliateStage('justify'); } catch (e) {}
       window.__justifCtl = J.justify(els, {
         hyphenate: hy,
         hangingPunctuation: 'first-line-and-line-ends',
         onSkip: function (el, why) { window.__justifSkips.push(String(why)); },
       });
+      try { parent.__foliateStage('justified'); } catch (e) {}
       return true;
     };
     if (!window.__justifRun() && window.ResizeObserver) {
@@ -241,10 +251,11 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
           '<style>',
           buildStyle(cfg),
           '</style>',
-          inlineScript(justifSrc),
+          // Plain mode skips justification: the host's fallback after a crash.
+          cfg.plain ? '' : inlineScript(justifSrc),
           '</head><body>',
           body,
-          inlineScript(justifInit(cfg.lang)),
+          cfg.plain ? '' : inlineScript(justifInit(cfg.lang)),
           '</body></html>',
         ],
         { type: 'text/html' },
@@ -440,6 +451,7 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
   // Foliate awaits this (paginator line ~1013). Cache-hit returns synchronously;
   // cache-miss posts requestChapter and resolves once provideChapter lands.
   const loadSection = (i) => {
+    stage('section ' + i);
     const ready = ensureSectionUrl(i);
     if (ready) return Promise.resolve(ready);
     const s = getSection(i);
@@ -793,6 +805,7 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
 
   const openBook = (index, fraction, elementId) => {
     ensurePaginator();
+    stage('open');
     paginator.open(buildBook());
     paginator.goTo({
       index: index ?? 0,

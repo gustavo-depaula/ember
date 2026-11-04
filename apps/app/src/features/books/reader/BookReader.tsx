@@ -38,6 +38,7 @@ import {
   type FoliateMessage,
   FoliateReader,
   type FoliateReaderHandle,
+  type ReaderFontFace,
 } from './foliate/FoliateReader'
 import { HIGHLIGHT_COLORS, paintColorFor } from './highlightColors'
 import {
@@ -130,6 +131,13 @@ function ReaderFrame({
     </YStack>
   )
 }
+
+// How far the reader backs off after its WebView renderer crashes, for the rest
+// of the app session: 1 drops the justification engine and hyphenation, 2 also
+// the embedded reading font (Android hands it over as base64). A phone that
+// can't lay out the full reader then still reads, a crash per open at most.
+let sessionFallback = 0
+const noFontFaces: ReaderFontFace[] = []
 
 // Styled as the book's title page.
 function LoadingPane({
@@ -380,6 +388,11 @@ export function BookReader({ bookId, chapter, lang: edition }: Props) {
   // transient and a later paint still wins; retrying mounts a fresh WebView.
   const [engineError, setEngineError] = useState<string>()
   const [engineMount, setEngineMount] = useState(0)
+  const [fallback, setFallback] = useState(sessionFallback)
+  // The last stage the engine reported, and where each crash so far happened:
+  // the error names them, since a dead renderer reports nothing itself.
+  const stageRef = useRef('start')
+  const crashesRef = useRef<string[]>([])
   // Every step before the first paint gets 20s. One that never settles (a
   // download that stalls, a WebView that never answers) would otherwise leave
   // the title page up forever with nothing to report, so name the step instead.
@@ -404,6 +417,7 @@ export function BookReader({ bookId, chapter, lang: edition }: Props) {
   const retryLoad = () => {
     setStalled(false)
     setEngineError(undefined)
+    crashesRef.current = []
     setLoadAttempt((n) => n + 1)
     setEngineMount((n) => n + 1)
     void refetchManifest()
@@ -644,6 +658,22 @@ export function BookReader({ bookId, chapter, lang: edition }: Props) {
           // The first error is the cause; what follows is fallout from it.
           setEngineError((first) => first ?? msg.message)
           return
+        case 'stage':
+          stageRef.current = msg.name
+          return
+        case 'crashed': {
+          crashesRef.current.push(`${msg.message} at ${stageRef.current}`)
+          stageRef.current = 'start'
+          setPainted(false)
+          if (sessionFallback < 2) {
+            sessionFallback += 1
+            setFallback(sessionFallback)
+            setEngineMount((n) => n + 1)
+            return
+          }
+          setEngineError(`WebView ${crashesRef.current.join(' → ')}`)
+          return
+        }
         case 'crossRefTap': {
           // Cross-book anchor refs ("book/ccc#1-25"): resolve the anchor to a
           // chapter via the target book's anchor index, then jump (same book)
@@ -1032,8 +1062,8 @@ export function BookReader({ bookId, chapter, lang: edition }: Props) {
         initialIndex={startIndex}
         initialFraction={startFraction}
         initialElement={startElement}
-        config={config}
-        fontFaces={fontFaces}
+        config={fallback > 0 ? { ...config, plain: true } : config}
+        fontFaces={fallback > 1 ? noFontFaces : fontFaces}
         onMessage={onMessage}
       />
 

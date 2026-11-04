@@ -17,6 +17,9 @@ export type FoliateConfig = {
   lang: string
   /** 'paginated' = horizontal columns; 'scrolled' = vertical scroll. */
   flow: ReaderFlowMode
+  /** No justification engine and no hyphenation: the host's fallback after the
+   *  WebView renderer crashed on a full-featured chapter. */
+  plain?: boolean
 }
 
 /** A font file for the WebView to register as an `@font-face` (see `readerFontFaces`). */
@@ -54,6 +57,10 @@ export type FoliateMessage =
   | { type: 'requestChapter'; index: number }
   | { type: 'log'; message: string }
   | { type: 'error'; message: string }
+  /** How far the engine got: the last one before a renderer crash names where it died. */
+  | { type: 'stage'; name: string }
+  /** The renderer process is gone; the WebView is dead and must be remounted. */
+  | { type: 'crashed'; message: string }
 
 export type BootstrapHighlight = {
   id: string
@@ -244,15 +251,15 @@ export const FoliateReader = forwardRef<FoliateReaderHandle, Props>(function Fol
           console.warn('[FoliateReader] bad message from WebView:', err)
         }
       }}
-      // A renderer the OS killed (low memory: the host HTML carries the reading
-      // font as base64) or a page that failed to load posts nothing, so report
-      // them as engine errors rather than leave the title page up.
+      // A renderer that crashed or that the OS killed, and a page that failed to
+      // load, post nothing from inside, so report them from here rather than
+      // leave the title page up.
       onRenderProcessGone={(e: { nativeEvent: { didCrash: boolean } }) => {
         const crashed = e.nativeEvent.didCrash
-        onMessage?.({ type: 'error', message: `WebView renderer gone (crashed: ${crashed})` })
+        onMessage?.({ type: 'crashed', message: crashed ? 'renderer crashed' : 'renderer killed' })
       }}
       onContentProcessDidTerminate={() =>
-        onMessage?.({ type: 'error', message: 'WebView content process terminated' })
+        onMessage?.({ type: 'crashed', message: 'content process terminated' })
       }
       onError={(e: { nativeEvent: { description: string } }) => {
         const description = e.nativeEvent.description
