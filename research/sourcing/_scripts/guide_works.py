@@ -11,6 +11,7 @@ corpus build does, when the guide leaves out a work, repeats one, names one
 not by this author, or has a section without an en-US and a pt-BR title.
 """
 import json
+import subprocess
 import sys
 from pathlib import Path
 
@@ -23,8 +24,14 @@ def author_books(aid: str) -> dict[str, list[tuple[Path, dict]]]:
     for f in (CONTENT / "authors").glob("*.json"):
         for s in json.loads(f.read_text(encoding="utf-8")).get("matches") or []:
             spellings[s] = f.stem
+    # Only committed books count: CI builds from git, so a guide naming a work
+    # that exists only as an untracked folder here passes locally and breaks
+    # every deploy.
+    tracked = subprocess.run(
+        ["git", "ls-files", "content/books"], cwd=ROOT, capture_output=True, text=True, check=True
+    ).stdout.split("\n")
     works: dict[str, list[tuple[Path, dict]]] = {}
-    for meta_path in sorted((CONTENT / "books").rglob("book.json")):
+    for meta_path in sorted(ROOT / t for t in tracked if t.endswith("/book.json")):
         meta = json.loads(meta_path.read_text(encoding="utf-8"))
         text = meta.get("author") or {}
         key = text.get("en-US") or next(iter(text.values()), None)
