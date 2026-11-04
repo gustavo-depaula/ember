@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Quodlibetal Questions",
-    "la": "Quaestiones Quodlibetales"
+    "la": "Quaestiones Quodlibetales",
+    "pt-BR": "Questões Quodlibetais"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "The twelve sets of *quodlibeta* (open-topic disputations) conducted by Aquinas at Paris (Advent and Lent, 1268–1272) and Naples, in which the master answered any question put by the audience. Full bilingual edition: Sandra Edwards for Quodlibets I–II (PIMS, 1983) and the Aquinas Institute team for III–XII.",
-    "la": "Duodecim quodlibeta — disputationes Thomae Parisienses (Adventu et Quadragesima, 1268–1272) et Neapolitanae, in quibus magister cuilibet ex auditoribus quaerenti respondebat."
+    "la": "Duodecim quodlibeta — disputationes Thomae Parisienses (Adventu et Quadragesima, 1268–1272) et Neapolitanae, in quibus magister cuilibet ex auditoribus quaerenti respondebat.",
+    "pt-BR": "Os doze conjuntos de *quodlibeta* (disputas de tema livre) conduzidos por Tomás de Aquino em Paris (Advento e Quaresma, 1268–1272) e Nápoles, nos quais o mestre respondia a qualquer pergunta proposta pelos ouvintes. Edição bilíngue integral: Sandra Edwards para os Quodlibetos I–II (PIMS, 1983) e a equipe do Aquinas Institute para os III–XII."
   },
   "composed": "1268–1272",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,28 +39,32 @@
       "id": "p1",
       "title": {
         "en-US": "Quodlibet I",
-        "la": "Quodlibet I"
+        "la": "Quodlibet I",
+        "pt-BR": "Quodlibeto I"
       },
       "children": [
         {
           "id": "p1-qi-c01",
           "title": {
             "en-US": "On God",
-            "la": "On God"
+            "la": "On God",
+            "pt-BR": "Sobre Deus"
           }
         },
         {
           "id": "p1-qi-c02",
           "title": {
             "en-US": "On Angels",
-            "la": "On Angels"
+            "la": "On Angels",
+            "pt-BR": "Sobre os anjos"
           }
         },
         {
           "id": "p1-qi-c03",
           "title": {
             "en-US": "On Man",
-            "la": "On Man"
+            "la": "On Man",
+            "pt-BR": "Sobre o homem"
           }
         }
       ]
@@ -65,28 +73,32 @@
       "id": "p2",
       "title": {
         "en-US": "Quodlibet II",
-        "la": "Quodlibet II"
+        "la": "Quodlibet II",
+        "pt-BR": "Quodlibeto II"
       },
       "children": [
         {
           "id": "p2-qii-c01",
           "title": {
             "en-US": "On Christ",
-            "la": "On Christ"
+            "la": "On Christ",
+            "pt-BR": "Sobre Cristo"
           }
         },
         {
           "id": "p2-qii-c02",
           "title": {
             "en-US": "On Angels",
-            "la": "On Angels"
+            "la": "On Angels",
+            "pt-BR": "Sobre os anjos"
           }
         },
         {
           "id": "p2-qii-c03",
           "title": {
             "en-US": "On Man",
-            "la": "On Man"
+            "la": "On Man",
+            "pt-BR": "Sobre o homem"
           }
         }
       ]
@@ -95,35 +107,40 @@
       "id": "p3",
       "title": {
         "en-US": "Quodlibet III",
-        "la": "Quodlibet III"
+        "la": "Quodlibet III",
+        "pt-BR": "Quodlibeto III"
       },
       "children": [
         {
           "id": "p3-qiii-c01",
           "title": {
             "en-US": "On God",
-            "la": "On God"
+            "la": "On God",
+            "pt-BR": "Sobre Deus"
           }
         },
         {
           "id": "p3-qiii-c02",
           "title": {
             "en-US": "On Angels",
-            "la": "On Angels"
+            "la": "On Angels",
+            "pt-BR": "Sobre os anjos"
           }
         },
         {
           "id": "p3-qiii-c03",
           "title": {
             "en-US": "On Men",
-            "la": "On Men"
+            "la": "On Men",
+            "pt-BR": "Sobre os homens"
           }
         },
         {
           "id": "p3-qiii-c04",
           "title": {
             "en-US": "On a Purely Bodily Creature",
-            "la": "On a Purely Bodily Creature"
+            "la": "On a Purely Bodily Creature",
+            "pt-BR": "Sobre a criatura puramente corpórea"
           }
         }
       ]
@@ -132,21 +149,24 @@
       "id": "p4",
       "title": {
         "en-US": "Quodlibet IV",
-        "la": "Quodlibet IV"
+        "la": "Quodlibet IV",
+        "pt-BR": "Quodlibeto IV"
       },
       "children": [
         {
           "id": "p4-qiv-c01",
           "title": {
             "en-US": "On Divine Things",
-            "la": "On Divine Things"
+            "la": "On Divine Things",
+            "pt-BR": "Sobre as coisas divinas"
           }
         },
         {
           "id": "p4-qiv-c02",
           "title": {
             "en-US": "On Human Things",
-            "la": "On Human Things"
+            "la": "On Human Things",
+            "pt-BR": "Sobre as coisas humanas"
           }
         }
       ]
@@ -155,28 +175,32 @@
       "id": "p5",
       "title": {
         "en-US": "Quodlibet V",
-        "la": "Quodlibet V"
+        "la": "Quodlibet V",
+        "pt-BR": "Quodlibeto V"
       },
       "children": [
         {
           "id": "p5-qv-c01",
           "title": {
             "en-US": "On God",
-            "la": "On God"
+            "la": "On God",
+            "pt-BR": "Sobre Deus"
           }
         },
         {
           "id": "p5-qv-c02",
           "title": {
             "en-US": "On Angels",
-            "la": "On Angels"
+            "la": "On Angels",
+            "pt-BR": "Sobre os anjos"
           }
         },
         {
           "id": "p5-qv-c03",
           "title": {
             "en-US": "On Men",
-            "la": "On Men"
+            "la": "On Men",
+            "pt-BR": "Sobre os homens"
           }
         }
       ]
@@ -185,35 +209,40 @@
       "id": "p6",
       "title": {
         "en-US": "Quodlibet VI",
-        "la": "Quodlibet VI"
+        "la": "Quodlibet VI",
+        "pt-BR": "Quodlibeto VI"
       },
       "children": [
         {
           "id": "p6-qvi-c01",
           "title": {
             "en-US": "On God",
-            "la": "On God"
+            "la": "On God",
+            "pt-BR": "Sobre Deus"
           }
         },
         {
           "id": "p6-qvi-c02",
           "title": {
             "en-US": "On Angels",
-            "la": "On Angels"
+            "la": "On Angels",
+            "pt-BR": "Sobre os anjos"
           }
         },
         {
           "id": "p6-qvi-c03",
           "title": {
             "en-US": "On Man",
-            "la": "On Man"
+            "la": "On Man",
+            "pt-BR": "Sobre o homem"
           }
         },
         {
           "id": "p6-qvi-c04",
           "title": {
             "en-US": "On a Purely Bodily Creature",
-            "la": "On a Purely Bodily Creature"
+            "la": "On a Purely Bodily Creature",
+            "pt-BR": "Sobre a criatura puramente corpórea"
           }
         }
       ]
@@ -222,42 +251,48 @@
       "id": "p7",
       "title": {
         "en-US": "Quodlibet VII",
-        "la": "Quodlibet VII"
+        "la": "Quodlibet VII",
+        "pt-BR": "Quodlibeto VII"
       },
       "children": [
         {
           "id": "p7-qvii-c01",
           "title": {
             "en-US": "About Spiritual Substances",
-            "la": "About Spiritual Substances"
+            "la": "About Spiritual Substances",
+            "pt-BR": "Sobre as substâncias espirituais"
           }
         },
         {
           "id": "p7-qvii-c02",
           "title": {
             "en-US": "On the Sacrament of the Altar",
-            "la": "On the Sacrament of the Altar"
+            "la": "On the Sacrament of the Altar",
+            "pt-BR": "Sobre o sacramento do altar"
           }
         },
         {
           "id": "p7-qvii-c03",
           "title": {
             "en-US": "On the Bodies of the Damned",
-            "la": "On the Bodies of the Damned"
+            "la": "On the Bodies of the Damned",
+            "pt-BR": "Sobre os corpos dos condenados"
           }
         },
         {
           "id": "p7-qvii-c04",
           "title": {
             "en-US": "On Sacred Scripture",
-            "la": "On Sacred Scripture"
+            "la": "On Sacred Scripture",
+            "pt-BR": "Sobre a Sagrada Escritura"
           }
         },
         {
           "id": "p7-qvii-c05",
           "title": {
             "en-US": "On Manual Work",
-            "la": "On Manual Work"
+            "la": "On Manual Work",
+            "pt-BR": "Sobre o trabalho manual"
           }
         }
       ]
@@ -266,28 +301,32 @@
       "id": "p8",
       "title": {
         "en-US": "Quodlibet VIII",
-        "la": "Quodlibet VIII"
+        "la": "Quodlibet VIII",
+        "pt-BR": "Quodlibeto VIII"
       },
       "children": [
         {
           "id": "p8-qviii-c01",
           "title": {
             "en-US": "On Things Pertaining to Nature",
-            "la": "On Things Pertaining to Nature"
+            "la": "On Things Pertaining to Nature",
+            "pt-BR": "Sobre o que diz respeito à natureza"
           }
         },
         {
           "id": "p8-qviii-c02",
           "title": {
             "en-US": "On Things Pertaining to Grace and Fault",
-            "la": "On Things Pertaining to Grace and Fault"
+            "la": "On Things Pertaining to Grace and Fault",
+            "pt-BR": "Sobre o que diz respeito à graça e à culpa"
           }
         },
         {
           "id": "p8-qviii-c03",
           "title": {
             "en-US": "On Things Pertaining to Punishment and Glory",
-            "la": "On Things Pertaining to Punishment and Glory"
+            "la": "On Things Pertaining to Punishment and Glory",
+            "pt-BR": "Sobre o que diz respeito à pena e à glória"
           }
         }
       ]
@@ -296,21 +335,24 @@
       "id": "p9",
       "title": {
         "en-US": "Quodlibet IX",
-        "la": "Quodlibet IX"
+        "la": "Quodlibet IX",
+        "pt-BR": "Quodlibeto IX"
       },
       "children": [
         {
           "id": "p9-qix-c01",
           "title": {
             "en-US": "On Christ",
-            "la": "On Christ"
+            "la": "On Christ",
+            "pt-BR": "Sobre Cristo"
           }
         },
         {
           "id": "p9-qix-c02",
           "title": {
             "en-US": "On the Members of Christ",
-            "la": "On the Members of Christ"
+            "la": "On the Members of Christ",
+            "pt-BR": "Sobre os membros de Cristo"
           }
         }
       ]
@@ -319,28 +361,32 @@
       "id": "p10",
       "title": {
         "en-US": "Quodlibet X",
-        "la": "Quodlibet X"
+        "la": "Quodlibet X",
+        "pt-BR": "Quodlibeto X"
       },
       "children": [
         {
           "id": "p10-qx-c01",
           "title": {
             "en-US": "On God",
-            "la": "On God"
+            "la": "On God",
+            "pt-BR": "Sobre Deus"
           }
         },
         {
           "id": "p10-qx-c02",
           "title": {
             "en-US": "On an Angel",
-            "la": "On an Angel"
+            "la": "On an Angel",
+            "pt-BR": "Sobre o anjo"
           }
         },
         {
           "id": "p10-qx-c03",
           "title": {
             "en-US": "On the Soul",
-            "la": "On the Soul"
+            "la": "On the Soul",
+            "pt-BR": "Sobre a alma"
           }
         }
       ]
@@ -349,28 +395,32 @@
       "id": "p11",
       "title": {
         "en-US": "Quodlibet XI",
-        "la": "Quodlibet XI"
+        "la": "Quodlibet XI",
+        "pt-BR": "Quodlibeto XI"
       },
       "children": [
         {
           "id": "p11-qxi-c01",
           "title": {
             "en-US": "On God",
-            "la": "On God"
+            "la": "On God",
+            "pt-BR": "Sobre Deus"
           }
         },
         {
           "id": "p11-qxi-c02",
           "title": {
             "en-US": "On Angels",
-            "la": "On Angels"
+            "la": "On Angels",
+            "pt-BR": "Sobre os anjos"
           }
         },
         {
           "id": "p11-qxi-c03",
           "title": {
             "en-US": "On Man",
-            "la": "On Man"
+            "la": "On Man",
+            "pt-BR": "Sobre o homem"
           }
         }
       ]
@@ -379,21 +429,24 @@
       "id": "p12",
       "title": {
         "en-US": "Quodlibet XII",
-        "la": "Quodlibet XII"
+        "la": "Quodlibet XII",
+        "pt-BR": "Quodlibeto XII"
       },
       "children": [
         {
           "id": "p12-qxii-c01",
           "title": {
             "en-US": "On Things above Man",
-            "la": "On Things above Man"
+            "la": "On Things above Man",
+            "pt-BR": "Sobre o que está acima do homem"
           }
         },
         {
           "id": "p12-qxii-c02",
           "title": {
             "en-US": "On Human Things",
-            "la": "On Human Things"
+            "la": "On Human Things",
+            "pt-BR": "Sobre as coisas humanas"
           }
         }
       ]
@@ -402,5 +455,12 @@
   "arrived": {
     "en-US": "2026-06-04",
     "la": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
+    }
   }
 }
