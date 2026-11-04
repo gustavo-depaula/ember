@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on the Psalms",
-    "la": "Expositio super Psalmos"
+    "la": "Expositio super Psalmos",
+    "pt-BR": "Comentário aos Salmos"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's commentary on the Psalms — a reportatio from his Neapolitan lectures shortly before the December 1273 mystical experience that ended his writing. Covers Psalms 1–54 (Vulgate).",
-    "la": "Expositio Thomae in Psalmos — reportatio ex lectionibus Neapolitanis paulo ante experientiam mysticam Decembri 1273 quae scriptionem eius finivit. Psalmos 1–54 (Vulgatae) tractat."
+    "la": "Expositio Thomae in Psalmos — reportatio ex lectionibus Neapolitanis paulo ante experientiam mysticam Decembri 1273 quae scriptionem eius finivit. Psalmos 1–54 (Vulgatae) tractat.",
+    "pt-BR": "O comentário de Santo Tomás aos Salmos — uma reportatio das suas lições em Nápoles, pouco antes da experiência mística de dezembro de 1273 que encerrou a sua obra escrita. Abrange os Salmos 1–54 (Vulgata)."
   },
   "composed": "1272–1273",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,391 +39,455 @@
       "id": "prologue",
       "title": {
         "en-US": "Prologue — Prologue",
-        "la": "Prooemium"
+        "la": "Prooemium",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "ch001",
       "title": {
         "en-US": "Psalm 1 — Blessed is the man",
-        "la": "Psalmus 1"
+        "la": "Psalmus 1",
+        "pt-BR": "Salmo 1 — Bem-aventurado o homem"
       }
     },
     {
       "id": "ch002",
       "title": {
         "en-US": "Psalm 2 — Why have the gentiles raged?",
-        "la": "Psalmus 2"
+        "la": "Psalmus 2",
+        "pt-BR": "Salmo 2 — Por que bramaram os gentios?"
       }
     },
     {
       "id": "ch003",
       "title": {
         "en-US": "Psalm 3 — Why, O Lord are they multiplied?",
-        "la": "Psalmus 3"
+        "la": "Psalmus 3",
+        "pt-BR": "Salmo 3 — Senhor, por que se multiplicaram?"
       }
     },
     {
       "id": "ch004",
       "title": {
         "en-US": "Psalm 4 — When I called upon him",
-        "la": "Psalmus 4"
+        "la": "Psalmus 4",
+        "pt-BR": "Salmo 4 — Quando eu o invocava"
       }
     },
     {
       "id": "ch005",
       "title": {
         "en-US": "Psalm 5 — Give ear, O Lord, to my words",
-        "la": "Psalmus 5"
+        "la": "Psalmus 5",
+        "pt-BR": "Salmo 5 — Escutai, Senhor, as minhas palavras"
       }
     },
     {
       "id": "ch006",
       "title": {
         "en-US": "Psalm 6 — O Lord, rebuke me not",
-        "la": "Psalmus 6"
+        "la": "Psalmus 6",
+        "pt-BR": "Salmo 6 — Senhor, não me repreendais"
       }
     },
     {
       "id": "ch007",
       "title": {
         "en-US": "Psalm 7 — In you have I put my trust",
-        "la": "Psalmus 7"
+        "la": "Psalmus 7",
+        "pt-BR": "Salmo 7 — Em vós esperei"
       }
     },
     {
       "id": "ch008",
       "title": {
         "en-US": "Psalm 8 — O Lord our Lord, how wonderful is your name",
-        "la": "Psalmus 8"
+        "la": "Psalmus 8",
+        "pt-BR": "Salmo 8 — Senhor, nosso Senhor, quão admirável é o vosso nome"
       }
     },
     {
       "id": "ch009",
       "title": {
         "en-US": "Psalm 9 — I will confess to you, O Lord",
-        "la": "Psalmus 9"
+        "la": "Psalmus 9",
+        "pt-BR": "Salmo 9 — Eu vos louvarei, Senhor"
       }
     },
     {
       "id": "ch010",
       "title": {
         "en-US": "Psalm 10 — In the Lord I put my trust",
-        "la": "Psalmus 10"
+        "la": "Psalmus 10",
+        "pt-BR": "Salmo 10 — No Senhor confio"
       }
     },
     {
       "id": "ch011",
       "title": {
         "en-US": "Psalm 11 — Save me, O Lord, for there is now no saint",
-        "la": "Psalmus 11"
+        "la": "Psalmus 11",
+        "pt-BR": "Salmo 11 — Salvai-me, Senhor, porque já não há santo"
       }
     },
     {
       "id": "ch012",
       "title": {
         "en-US": "Psalm 12 — How long, O Lord, will you forget me?",
-        "la": "Psalmus 12"
+        "la": "Psalmus 12",
+        "pt-BR": "Salmo 12 — Até quando, Senhor, vos esquecereis de mim?"
       }
     },
     {
       "id": "ch013",
       "title": {
         "en-US": "Psalm 13 — The fool has said in his heart, “There is no God”",
-        "la": "Psalmus 13"
+        "la": "Psalmus 13",
+        "pt-BR": "Salmo 13 — Disse o insensato em seu coração: “Não há Deus”"
       }
     },
     {
       "id": "ch014",
       "title": {
         "en-US": "Psalm 14 — Lord, who shall dwell in your tabernacle?",
-        "la": "Psalmus 14"
+        "la": "Psalmus 14",
+        "pt-BR": "Salmo 14 — Senhor, quem habitará em vosso tabernáculo?"
       }
     },
     {
       "id": "ch015",
       "title": {
         "en-US": "Psalm 15 — Preserve me, O Lord, for I have hoped in you",
-        "la": "Psalmus 15"
+        "la": "Psalmus 15",
+        "pt-BR": "Salmo 15 — Guardai-me, Senhor, porque em vós esperei"
       }
     },
     {
       "id": "ch016",
       "title": {
         "en-US": "Psalm 16 — Hear, O Lord, my justice",
-        "la": "Psalmus 16"
+        "la": "Psalmus 16",
+        "pt-BR": "Salmo 16 — Escutai, Senhor, a minha justiça"
       }
     },
     {
       "id": "ch017",
       "title": {
         "en-US": "Psalm 17 — I will love you, O Lord, my strength",
-        "la": "Psalmus 17"
+        "la": "Psalmus 17",
+        "pt-BR": "Salmo 17 — Eu vos amarei, Senhor, minha fortaleza"
       }
     },
     {
       "id": "ch018",
       "title": {
         "en-US": "Psalm 18 — The heavens show forth the glory of God",
-        "la": "Psalmus 18"
+        "la": "Psalmus 18",
+        "pt-BR": "Salmo 18 — Os céus narram a glória de Deus"
       }
     },
     {
       "id": "ch019",
       "title": {
         "en-US": "Psalm 19 — May the Lord hear you in the day of tribulation",
-        "la": "Psalmus 19"
+        "la": "Psalmus 19",
+        "pt-BR": "Salmo 19 — O Senhor te ouça no dia da tribulação"
       }
     },
     {
       "id": "ch020",
       "title": {
         "en-US": "Psalm 20 — In your strength, O Lord, the king shall joy",
-        "la": "Psalmus 20"
+        "la": "Psalmus 20",
+        "pt-BR": "Salmo 20 — Senhor, na vossa força se alegrará o rei"
       }
     },
     {
       "id": "ch021",
       "title": {
         "en-US": "Psalm 21 — O God, my God, look upon me",
-        "la": "Psalmus 21"
+        "la": "Psalmus 21",
+        "pt-BR": "Salmo 21 — Ó Deus, meu Deus, olhai para mim"
       }
     },
     {
       "id": "ch022",
       "title": {
         "en-US": "Psalm 22 — The Lord rules me",
-        "la": "Psalmus 22"
+        "la": "Psalmus 22",
+        "pt-BR": "Salmo 22 — O Senhor me governa"
       }
     },
     {
       "id": "ch023",
       "title": {
         "en-US": "Psalm 23 — The earth is the Lord’s",
-        "la": "Psalmus 23"
+        "la": "Psalmus 23",
+        "pt-BR": "Salmo 23 — Do Senhor é a terra"
       }
     },
     {
       "id": "ch024",
       "title": {
         "en-US": "Psalm 24 — To you, O Lord, have I lifted up my soul",
-        "la": "Psalmus 24"
+        "la": "Psalmus 24",
+        "pt-BR": "Salmo 24 — A vós, Senhor, elevei a minha alma"
       }
     },
     {
       "id": "ch025",
       "title": {
         "en-US": "Psalm 25 — Judge me, O Lord, for I have walked",
-        "la": "Psalmus 25"
+        "la": "Psalmus 25",
+        "pt-BR": "Salmo 25 — Julgai-me, Senhor, porque andei"
       }
     },
     {
       "id": "ch026",
       "title": {
         "en-US": "Psalm 26 — The Lord is my light and my salvation",
-        "la": "Psalmus 26"
+        "la": "Psalmus 26",
+        "pt-BR": "Salmo 26 — O Senhor é a minha luz e a minha salvação"
       }
     },
     {
       "id": "ch027",
       "title": {
         "en-US": "Psalm 27 — Unto you will I cry, O Lord",
-        "la": "Psalmus 27"
+        "la": "Psalmus 27",
+        "pt-BR": "Salmo 27 — A vós, Senhor, clamarei"
       }
     },
     {
       "id": "ch028",
       "title": {
         "en-US": "Psalm 28 — Bring to the Lord, O you children of God",
-        "la": "Psalmus 28"
+        "la": "Psalmus 28",
+        "pt-BR": "Salmo 28 — Trazei ao Senhor, ó filhos de Deus"
       }
     },
     {
       "id": "ch029",
       "title": {
         "en-US": "Psalm 29 — I will extol you, O Lord",
-        "la": "Psalmus 29"
+        "la": "Psalmus 29",
+        "pt-BR": "Salmo 29 — Eu vos exaltarei, Senhor"
       }
     },
     {
       "id": "ch030",
       "title": {
         "en-US": "Psalm 30 — In you, O Lord, have I hoped",
-        "la": "Psalmus 30"
+        "la": "Psalmus 30",
+        "pt-BR": "Salmo 30 — Em vós, Senhor, esperei"
       }
     },
     {
       "id": "ch031",
       "title": {
         "en-US": "Psalm 31 — Blessed are they whose iniquities are forgiven",
-        "la": "Psalmus 31"
+        "la": "Psalmus 31",
+        "pt-BR": "Salmo 31 — Bem-aventurados aqueles cujas iniquidades foram perdoadas"
       }
     },
     {
       "id": "ch032",
       "title": {
         "en-US": "Psalm 32 — Rejoice in the Lord, O you just",
-        "la": "Psalmus 32"
+        "la": "Psalmus 32",
+        "pt-BR": "Salmo 32 — Exultai no Senhor, ó justos"
       }
     },
     {
       "id": "ch033",
       "title": {
         "en-US": "Psalm 33 — I will bless the Lord at all times",
-        "la": "Psalmus 33"
+        "la": "Psalmus 33",
+        "pt-BR": "Salmo 33 — Bendirei o Senhor em todo o tempo"
       }
     },
     {
       "id": "ch034",
       "title": {
         "en-US": "Psalm 34 — Judge, O Lord, those who wrong me",
-        "la": "Psalmus 34"
+        "la": "Psalmus 34",
+        "pt-BR": "Salmo 34 — Julgai, Senhor, os que me fazem mal"
       }
     },
     {
       "id": "ch035",
       "title": {
         "en-US": "Psalm 35 — The unjust has said within himself",
-        "la": "Psalmus 35"
+        "la": "Psalmus 35",
+        "pt-BR": "Salmo 35 — Disse o injusto dentro de si"
       }
     },
     {
       "id": "ch036",
       "title": {
         "en-US": "Psalm 36 — Be not quick to imitate evildoers",
-        "la": "Psalmus 36"
+        "la": "Psalmus 36",
+        "pt-BR": "Salmo 36 — Não queiras emular os malignos"
       }
     },
     {
       "id": "ch037",
       "title": {
         "en-US": "Psalm 37 — Rebuke me not, O Lord",
-        "la": "Psalmus 37"
+        "la": "Psalmus 37",
+        "pt-BR": "Salmo 37 — Senhor, não me repreendais"
       }
     },
     {
       "id": "ch038",
       "title": {
         "en-US": "Psalm 38 — I will take heed to my ways",
-        "la": "Psalmus 38"
+        "la": "Psalmus 38",
+        "pt-BR": "Salmo 38 — Guardarei os meus caminhos"
       }
     },
     {
       "id": "ch039",
       "title": {
         "en-US": "Psalm 39 — With expectation I have waited",
-        "la": "Psalmus 39"
+        "la": "Psalmus 39",
+        "pt-BR": "Salmo 39 — Esperei com ansiosa expectativa"
       }
     },
     {
       "id": "ch040",
       "title": {
         "en-US": "Psalm 40 — Blessed is he who understands",
-        "la": "Psalmus 40"
+        "la": "Psalmus 40",
+        "pt-BR": "Salmo 40 — Bem-aventurado aquele que entende"
       }
     },
     {
       "id": "ch041",
       "title": {
         "en-US": "Psalm 41 — As the hart longs for the fountains",
-        "la": "Psalmus 41"
+        "la": "Psalmus 41",
+        "pt-BR": "Salmo 41 — Como o cervo anseia pelas fontes"
       }
     },
     {
       "id": "ch042",
       "title": {
         "en-US": "Psalm 42 — Judge me, O God, and distinguish my cause",
-        "la": "Psalmus 42"
+        "la": "Psalmus 42",
+        "pt-BR": "Salmo 42 — Julgai-me, ó Deus, e distingui a minha causa"
       }
     },
     {
       "id": "ch043",
       "title": {
         "en-US": "Psalm 43 — We have heard, O God, with our ears",
-        "la": "Psalmus 43"
+        "la": "Psalmus 43",
+        "pt-BR": "Salmo 43 — Ó Deus, com os nossos ouvidos ouvimos"
       }
     },
     {
       "id": "ch044",
       "title": {
         "en-US": "Psalm 44 — My heart has uttered a good word",
-        "la": "Psalmus 44"
+        "la": "Psalmus 44",
+        "pt-BR": "Salmo 44 — O meu coração proferiu uma boa palavra"
       }
     },
     {
       "id": "ch045",
       "title": {
         "en-US": "Psalm 45 — God is our refuge and strength",
-        "la": "Psalmus 45"
+        "la": "Psalmus 45",
+        "pt-BR": "Salmo 45 — Deus é o nosso refúgio e a nossa força"
       }
     },
     {
       "id": "ch046",
       "title": {
         "en-US": "Psalm 46 — O clap your hands, all you nations",
-        "la": "Psalmus 46"
+        "la": "Psalmus 46",
+        "pt-BR": "Salmo 46 — Povos todos, batei palmas"
       }
     },
     {
       "id": "ch047",
       "title": {
         "en-US": "Psalm 47 — Great is the Lord and exceedingly to be praised",
-        "la": "Psalmus 47"
+        "la": "Psalmus 47",
+        "pt-BR": "Salmo 47 — Grande é o Senhor e digníssimo de louvor"
       }
     },
     {
       "id": "ch048",
       "title": {
         "en-US": "Psalm 48 — Hear these things, all you nations",
-        "la": "Psalmus 48"
+        "la": "Psalmus 48",
+        "pt-BR": "Salmo 48 — Ouvi isto, povos todos"
       }
     },
     {
       "id": "ch049",
       "title": {
         "en-US": "Psalm 49 — The God of gods, the Lord, has spoken",
-        "la": "Psalmus 49"
+        "la": "Psalmus 49",
+        "pt-BR": "Salmo 49 — O Deus dos deuses, o Senhor, falou"
       }
     },
     {
       "id": "ch050",
       "title": {
         "en-US": "Psalm 50 — Have mercy on me, O God",
-        "la": "Psalmus 50"
+        "la": "Psalmus 50",
+        "pt-BR": "Salmo 50 — Tende piedade de mim, ó Deus"
       }
     },
     {
       "id": "ch051",
       "title": {
         "en-US": "Psalm 51 — Why do you glory in malice?",
-        "la": "Psalmus 51"
+        "la": "Psalmus 51",
+        "pt-BR": "Salmo 51 — Por que te glorias na malícia?"
       }
     },
     {
       "id": "ch052",
       "title": {
         "en-US": "Psalm 52 — The fool said in his heart, “There is no God”",
-        "la": "Psalmus 52"
+        "la": "Psalmus 52",
+        "pt-BR": "Salmo 52 — Disse o insensato em seu coração: “Não há Deus”"
       }
     },
     {
       "id": "ch053",
       "title": {
         "en-US": "Psalm 53 — Save me, O God, by your name",
-        "la": "Psalmus 53"
+        "la": "Psalmus 53",
+        "pt-BR": "Salmo 53 — Salvai-me, ó Deus, pelo vosso nome"
       }
     },
     {
       "id": "ch054",
       "title": {
         "en-US": "Psalm 54 — Hear, O God, my prayer",
-        "la": "Psalmus 54"
+        "la": "Psalmus 54",
+        "pt-BR": "Salmo 54 — Escutai, ó Deus, a minha oração"
       }
     }
   ],
-  "commentsOn": ["psalms"],
+  "commentsOn": [
+    "psalms"
+  ],
   "arrived": {
     "en-US": "2026-06-04",
     "la": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
+    }
   }
 }
