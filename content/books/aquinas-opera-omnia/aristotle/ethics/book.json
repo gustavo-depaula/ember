@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on the Nicomachean Ethics",
-    "la": "Sententia super Ethicam"
+    "la": "Sententia super Ethicam",
+    "pt-BR": "Comentário à Ética a Nicômaco"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's commentary on Aristotle's *Nicomachean Ethics* — on happiness as the human end, the virtues, friendship, and contemplation. Read at Paris during the second regency.",
-    "la": "Expositio *Ethicorum Nicomacheorum* Aristotelis — de felicitate ut fine humano, virtutibus, amicitia, contemplatione."
+    "la": "Expositio *Ethicorum Nicomacheorum* Aristotelis — de felicitate ut fine humano, virtutibus, amicitia, contemplatione.",
+    "pt-BR": "Comentário de Santo Tomás de Aquino à *Ética a Nicômaco* de Aristóteles — sobre a felicidade como fim humano, as virtudes, a amizade e a contemplação. Exposto em Paris durante a segunda regência."
   },
   "composed": "1271–1272",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,147 +39,168 @@
       "id": "g1",
       "title": {
         "en-US": "Book 1 — The Good for Man",
-        "la": "Liber 1"
+        "la": "Liber 1",
+        "pt-BR": "Livro 1 — O bem do homem"
       },
       "children": [
         {
           "id": "g1-c001",
           "title": {
             "en-US": "Lecture 1 — Subject Matter and End of Moral Philosophy",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Matéria e fim da filosofia moral"
           }
         },
         {
           "id": "g1-c002",
           "title": {
             "en-US": "Lecture 2 — The Supreme End of Human Affairs",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — O fim supremo das coisas humanas"
           }
         },
         {
           "id": "g1-c003",
           "title": {
             "en-US": "Lecture 3 — Qualities of the Student and Teacher",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Qualidades do ouvinte e do mestre"
           }
         },
         {
           "id": "g1-c004",
           "title": {
             "en-US": "Lecture 4 — Opinions About Happiness",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Opiniões sobre a felicidade"
           }
         },
         {
           "id": "g1-c005",
           "title": {
             "en-US": "Lecture 5 — Examination of the Opinions",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Exame das opiniões"
           }
         },
         {
           "id": "g1-c006",
           "title": {
             "en-US": "Lecture 6 — Happiness and a Separated Good",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — A felicidade e um bem separado"
           }
         },
         {
           "id": "g1-c007",
           "title": {
             "en-US": "Lecture 7 — An Absolute Good",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Um bem absoluto"
           }
         },
         {
           "id": "g1-c008",
           "title": {
             "en-US": "Lecture 8 — Happiness Not Sought in the Separated Good",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — A felicidade não deve ser buscada no bem separado"
           }
         },
         {
           "id": "g1-c009",
           "title": {
             "en-US": "Lecture 9 — The Nature of Happiness",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — A natureza da felicidade"
           }
         },
         {
           "id": "g1-c010",
           "title": {
             "en-US": "Lecture 10 — The Definition of Happiness",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — A definição da felicidade"
           }
         },
         {
           "id": "g1-c011",
           "title": {
             "en-US": "Lecture 11 — The Task Before Us",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — A tarefa que temos diante de nós"
           }
         },
         {
           "id": "g1-c012",
           "title": {
             "en-US": "Lecture 12 — Confirmation of the Definition",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — Confirmação da definição"
           }
         },
         {
           "id": "g1-c013",
           "title": {
             "en-US": "Lecture 13 — Some Place Happiness in Virtue with Pleasure; Others Say External Goods Are Necessary for Happiness",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — Alguns situam a felicidade na virtude com o deleite; outros dizem que os bens exteriores são necessários à felicidade"
           }
         },
         {
           "id": "g1-c014",
           "title": {
             "en-US": "Lecture 14 — The Cause of Happiness",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14 — A causa da felicidade"
           }
         },
         {
           "id": "g1-c015",
           "title": {
             "en-US": "Lecture 15 — A Problem about Happiness",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15 — Uma dificuldade acerca da felicidade"
           }
         },
         {
           "id": "g1-c016",
           "title": {
             "en-US": "Lecture 16 — Happiness and Changes of Fortune",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16 — A felicidade e as mudanças da fortuna"
           }
         },
         {
           "id": "g1-c017",
           "title": {
             "en-US": "Lecture 17 — The Fortune of Friends and Happiness of the Dead",
-            "la": "Lectio 17"
+            "la": "Lectio 17",
+            "pt-BR": "Lição 17 — A fortuna dos amigos e a felicidade dos mortos"
           }
         },
         {
           "id": "g1-c018",
           "title": {
             "en-US": "Lecture 18 — Happiness, a Good Deserving Honor",
-            "la": "Lectio 18"
+            "la": "Lectio 18",
+            "pt-BR": "Lição 18 — A felicidade, um bem digno de honra"
           }
         },
         {
           "id": "g1-c019",
           "title": {
             "en-US": "Lecture 19 — Happiness and Virtue",
-            "la": "Lectio 19"
+            "la": "Lectio 19",
+            "pt-BR": "Lição 19 — A felicidade e a virtude"
           }
         },
         {
           "id": "g1-c020",
           "title": {
             "en-US": "Lecture 20 — Subdivisions of the Irrational Soul",
-            "la": "Lectio 20"
+            "la": "Lectio 20",
+            "pt-BR": "Lição 20 — Subdivisões da alma irracional"
           }
         }
       ]
@@ -184,84 +209,96 @@
       "id": "g2",
       "title": {
         "en-US": "Book 2 — Moral Virtue in General",
-        "la": "Liber 2"
+        "la": "Liber 2",
+        "pt-BR": "Livro 2 — A virtude moral em geral"
       },
       "children": [
         {
           "id": "g2-c001",
           "title": {
             "en-US": "Lecture 1 — Moral Virtue is Caused by Habit",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A virtude moral é causada pelo costume"
           }
         },
         {
           "id": "g2-c002",
           "title": {
             "en-US": "Lecture 2 — Virtue and Action",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A virtude e a ação"
           }
         },
         {
           "id": "g2-c003",
           "title": {
             "en-US": "Lecture 3 — Signs of Virtue",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Sinais da virtude"
           }
         },
         {
           "id": "g2-c004",
           "title": {
             "en-US": "Lecture 4 — Comparison Between Virtue and Art",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Comparação entre a virtude e a arte"
           }
         },
         {
           "id": "g2-c005",
           "title": {
             "en-US": "Lecture 5 — The Definition of Virtue",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A definição da virtude"
           }
         },
         {
           "id": "g2-c006",
           "title": {
             "en-US": "Lecture 6 — Virtue Is a Kind of Habit",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — A virtude é um tipo de hábito"
           }
         },
         {
           "id": "g2-c007",
           "title": {
             "en-US": "Lecture 7 — Conclusion of the Definition",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Conclusão da definição"
           }
         },
         {
           "id": "g2-c008",
           "title": {
             "en-US": "Lecture 8 — Explanation of the Definition in Detail",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Explicação detalhada da definição"
           }
         },
         {
           "id": "g2-c009",
           "title": {
             "en-US": "Lecture 9 — Virtues Regarding Honors",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — Virtudes relativas às honras"
           }
         },
         {
           "id": "g2-c010",
           "title": {
             "en-US": "Lecture 10 — Opposition among the Virtues and Vices",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — Oposição entre as virtudes e os vícios"
           }
         },
         {
           "id": "g2-c011",
           "title": {
             "en-US": "Lecture 11 — Ways of Becoming Virtuous",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — Modos de tornar-se virtuoso"
           }
         }
       ]
@@ -270,161 +307,184 @@
       "id": "g3",
       "title": {
         "en-US": "Book 3 — The Voluntary, Fortitude, and Temperance",
-        "la": "Liber 3"
+        "la": "Liber 3",
+        "pt-BR": "Livro 3 — O voluntário, a fortaleza e a temperança"
       },
       "children": [
         {
           "id": "g3-c001",
           "title": {
             "en-US": "Lecture 1 — Voluntary and Involuntary Action",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A ação voluntária e involuntária"
           }
         },
         {
           "id": "g3-c002",
           "title": {
             "en-US": "Lecture 2 — Definition of Violent Action",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Definição da ação violenta"
           }
         },
         {
           "id": "g3-c003",
           "title": {
             "en-US": "Lecture 3 — The Involuntary Resulting from Ignorance",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — O involuntário resultante da ignorância"
           }
         },
         {
           "id": "g3-c004",
           "title": {
             "en-US": "Lecture 4 — Definition of the Voluntary",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Definição do voluntário"
           }
         },
         {
           "id": "g3-c005",
           "title": {
             "en-US": "Lecture 5 — Choice",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A escolha"
           }
         },
         {
           "id": "g3-c006",
           "title": {
             "en-US": "Lecture 6 — Choice and Opinion",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — A escolha e a opinião"
           }
         },
         {
           "id": "g3-c007",
           "title": {
             "en-US": "Lecture 7 — Counsel",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — O conselho"
           }
         },
         {
           "id": "g3-c008",
           "title": {
             "en-US": "Lecture 8 — Method and Order of Taking Counsel",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Método e ordem da deliberação"
           }
         },
         {
           "id": "g3-c009",
           "title": {
             "en-US": "Lecture 9 — A Comparison Between Counsel and Choice",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — Comparação entre o conselho e a escolha"
           }
         },
         {
           "id": "g3-c010",
           "title": {
             "en-US": "Lecture 10 — The Object of Willing",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — O objeto da vontade"
           }
         },
         {
           "id": "g3-c011",
           "title": {
             "en-US": "Lecture 11 — Virtue and Vice Are Within Our Power",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — A virtude e o vício estão em nosso poder"
           }
         },
         {
           "id": "g3-c012",
           "title": {
             "en-US": "Lecture 12 — Refutation of the Opinion That No One Is Voluntarily Evil",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — Refutação da opinião de que ninguém é mau voluntariamente"
           }
         },
         {
           "id": "g3-c013",
           "title": {
             "en-US": "Lecture 13 — Refutation of the Opinion That We Have No Faculty Cognoscitive of Good",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — Refutação da opinião de que não temos faculdade cognoscitiva do bem"
           }
         },
         {
           "id": "g3-c014",
           "title": {
             "en-US": "Lecture 14 — Fortitude",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14 — A fortaleza"
           }
         },
         {
           "id": "g3-c015",
           "title": {
             "en-US": "Lecture 15 — The Act of Fortitude",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15 — O ato da fortaleza"
           }
         },
         {
           "id": "g3-c016",
           "title": {
             "en-US": "Lecture 16 — Acts of Civic and Military Fortitude",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16 — Atos de fortaleza cívica e militar"
           }
         },
         {
           "id": "g3-c017",
           "title": {
             "en-US": "Lecture 17 — Counterfeit Fortitude",
-            "la": "Lectio 17"
+            "la": "Lectio 17",
+            "pt-BR": "Lição 17 — A falsa fortaleza"
           }
         },
         {
           "id": "g3-c018",
           "title": {
             "en-US": "Lecture 18 — The Properties of Fortitude",
-            "la": "Lectio 18"
+            "la": "Lectio 18",
+            "pt-BR": "Lição 18 — As propriedades da fortaleza"
           }
         },
         {
           "id": "g3-c019",
           "title": {
             "en-US": "Lecture 19 — Temperance",
-            "la": "Lectio 19"
+            "la": "Lectio 19",
+            "pt-BR": "Lição 19 — A temperança"
           }
         },
         {
           "id": "g3-c020",
           "title": {
             "en-US": "Lecture 20 — Temperance in Relation to Touch and Taste",
-            "la": "Lectio 20"
+            "la": "Lectio 20",
+            "pt-BR": "Lição 20 — A temperança em relação ao tato e ao paladar"
           }
         },
         {
           "id": "g3-c021",
           "title": {
             "en-US": "Lecture 21 — How Sorrows, Pleasures, and Desires Affect the Temperate Man",
-            "la": "Lectio 21"
+            "la": "Lectio 21",
+            "pt-BR": "Lição 21 — Como as tristezas, os deleites e os desejos afetam o homem temperante"
           }
         },
         {
           "id": "g3-c022",
           "title": {
             "en-US": "Lecture 22 — Intemperance Compared with Cowardice and the Sins of Children",
-            "la": "Lectio 22"
+            "la": "Lectio 22",
+            "pt-BR": "Lição 22 — Comparação da intemperança com a covardia e os pecados das crianças"
           }
         }
       ]
@@ -433,126 +493,144 @@
       "id": "g4",
       "title": {
         "en-US": "Book 4 — Other Moral Virtues",
-        "la": "Liber 4"
+        "la": "Liber 4",
+        "pt-BR": "Livro 4 — Outras virtudes morais"
       },
       "children": [
         {
           "id": "g4-c001",
           "title": {
             "en-US": "Lecture 1 — Liberality",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A liberalidade"
           }
         },
         {
           "id": "g4-c002",
           "title": {
             "en-US": "Lecture 2 — The Act of Liberality",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — O ato da liberalidade"
           }
         },
         {
           "id": "g4-c003",
           "title": {
             "en-US": "Lecture 3 — Extravagance",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A prodigalidade"
           }
         },
         {
           "id": "g4-c004",
           "title": {
             "en-US": "Lecture 4 — The Gravity of Extravagance",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A gravidade da prodigalidade"
           }
         },
         {
           "id": "g4-c005",
           "title": {
             "en-US": "Lecture 5 — The Incurableness of Illiberality",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A incurabilidade da avareza"
           }
         },
         {
           "id": "g4-c006",
           "title": {
             "en-US": "Lecture 6 — Magnificence",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — A magnificência"
           }
         },
         {
           "id": "g4-c007",
           "title": {
             "en-US": "Lecture 7 — The Objects of Magnificence",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Os objetos da magnificência"
           }
         },
         {
           "id": "g4-c008",
           "title": {
             "en-US": "Lecture 8 — Magnanimity",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — A magnanimidade"
           }
         },
         {
           "id": "g4-c009",
           "title": {
             "en-US": "Lecture 9 — The Acts of Magnanimity",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — Os atos da magnanimidade"
           }
         },
         {
           "id": "g4-c010",
           "title": {
             "en-US": "Lecture 10 — Properties of Magnanimity",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — Propriedades da magnanimidade"
           }
         },
         {
           "id": "g4-c011",
           "title": {
             "en-US": "Lecture 11 — Vices Opposed to Magnanimity",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — Vícios opostos à magnanimidade"
           }
         },
         {
           "id": "g4-c012",
           "title": {
             "en-US": "Lecture 12 — The Virtue Concerned with Ordinary Honors",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — A virtude relativa às honras comuns"
           }
         },
         {
           "id": "g4-c013",
           "title": {
             "en-US": "Lecture 13 — Meekness and Its Opposed Vices",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — A mansidão e os vícios que se lhe opõem"
           }
         },
         {
           "id": "g4-c014",
           "title": {
             "en-US": "Lecture 14 — Amiability",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14 — A afabilidade"
           }
         },
         {
           "id": "g4-c015",
           "title": {
             "en-US": "Lecture 15 — Veracity",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15 — A veracidade"
           }
         },
         {
           "id": "g4-c016",
           "title": {
             "en-US": "Lecture 16 — Amusement",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16 — A diversão"
           }
         },
         {
           "id": "g4-c017",
           "title": {
             "en-US": "Lecture 17 — Shame",
-            "la": "Lectio 17"
+            "la": "Lectio 17",
+            "pt-BR": "Lição 17 — A vergonha"
           }
         }
       ]
@@ -561,126 +639,144 @@
       "id": "g5",
       "title": {
         "en-US": "Book 5 — Justice",
-        "la": "Liber 5"
+        "la": "Liber 5",
+        "pt-BR": "Livro 5 — A justiça"
       },
       "children": [
         {
           "id": "g5-c001",
           "title": {
             "en-US": "Lecture 1 — Justice",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A justiça"
           }
         },
         {
           "id": "g5-c002",
           "title": {
             "en-US": "Lecture 2 — Legal Justice",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A justiça legal"
           }
         },
         {
           "id": "g5-c003",
           "title": {
             "en-US": "Lecture 3 — Particular Justice",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A justiça particular"
           }
         },
         {
           "id": "g5-c004",
           "title": {
             "en-US": "Lecture 4 — Distributive and Commutative Justice",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A justiça distributiva e comutativa"
           }
         },
         {
           "id": "g5-c005",
           "title": {
             "en-US": "Lecture 5 — Proportionality",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A proporcionalidade"
           }
         },
         {
           "id": "g5-c006",
           "title": {
             "en-US": "Lecture 6 — The Mean of Commutative Justice",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — O meio-termo da justiça comutativa"
           }
         },
         {
           "id": "g5-c007",
           "title": {
             "en-US": "Lecture 7 — Finding the Mean of Commutative Justice",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Determinação do meio-termo da justiça comutativa"
           }
         },
         {
           "id": "g5-c008",
           "title": {
             "en-US": "Lecture 8 — The Opinion of Pythagoras",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — A opinião de Pitágoras"
           }
         },
         {
           "id": "g5-c009",
           "title": {
             "en-US": "Lecture 9 — Money",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — A moeda"
           }
         },
         {
           "id": "g5-c010",
           "title": {
             "en-US": "Lecture 10 — Just Action as a Mean",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — A ação justa como meio-termo"
           }
         },
         {
           "id": "g5-c011",
           "title": {
             "en-US": "Lecture 11 — The Unjust Man",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — O homem injusto"
           }
         },
         {
           "id": "g5-c012",
           "title": {
             "en-US": "Lecture 12 — A Division of Political Justice",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — Uma divisão da justiça política"
           }
         },
         {
           "id": "g5-c013",
           "title": {
             "en-US": "Lecture 13 — Actions That Make a Man Just or Unjust",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — Ações que tornam o homem justo ou injusto"
           }
         },
         {
           "id": "g5-c014",
           "title": {
             "en-US": "Lecture 14 — Suffering Injustice, an Involuntary Action",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14 — Sofrer injustiça é involuntário"
           }
         },
         {
           "id": "g5-c015",
           "title": {
             "en-US": "Lecture 15 — Injustice in Distributions",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15 — A injustiça nas distribuições"
           }
         },
         {
           "id": "g5-c016",
           "title": {
             "en-US": "Lecture 16 — Equity",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16 — A equidade"
           }
         },
         {
           "id": "g5-c017",
           "title": {
             "en-US": "Lecture 17 — Injustice to Oneself",
-            "la": "Lectio 17"
+            "la": "Lectio 17",
+            "pt-BR": "Lição 17 — A injustiça para consigo mesmo"
           }
         }
       ]
@@ -689,84 +785,96 @@
       "id": "g6",
       "title": {
         "en-US": "Book 6 — Intellectual Virtues",
-        "la": "Liber 6"
+        "la": "Liber 6",
+        "pt-BR": "Livro 6 — As virtudes intelectuais"
       },
       "children": [
         {
           "id": "g6-c001",
           "title": {
             "en-US": "Lecture 1 — Right Reason",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A reta razão"
           }
         },
         {
           "id": "g6-c002",
           "title": {
             "en-US": "Lecture 2 — Function Proper to Each Part of the Soul",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A função própria de cada parte da alma"
           }
         },
         {
           "id": "g6-c003",
           "title": {
             "en-US": "Lecture 3 — An Enumeration of the Intellectual Virtues",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Enumeração das virtudes intelectuais"
           }
         },
         {
           "id": "g6-c004",
           "title": {
             "en-US": "Lecture 4 — Prudence",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A prudência"
           }
         },
         {
           "id": "g6-c005",
           "title": {
             "en-US": "Lecture 5 — Understanding and Wisdom",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — O intelecto e a sabedoria"
           }
         },
         {
           "id": "g6-c006",
           "title": {
             "en-US": "Lecture 6 — Wisdom, the Principal Intellectual Virtue",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — A sabedoria, principal virtude intelectual"
           }
         },
         {
           "id": "g6-c007",
           "title": {
             "en-US": "Lecture 7 — Prudence, the Principal Virtue in Human Affairs",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — A prudência, principal virtude nas coisas humanas"
           }
         },
         {
           "id": "g6-c008",
           "title": {
             "en-US": "Lecture 8 — Eubulia (Excellence in Deliberating)",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Eubulia (excelência na deliberação)"
           }
         },
         {
           "id": "g6-c009",
           "title": {
             "en-US": "Lecture 9 — Synesis (Habit of Right Judgment in Practical Individual Cases)",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — Sínese (hábito de julgar retamente os casos práticos particulares)"
           }
         },
         {
           "id": "g6-c010",
           "title": {
             "en-US": "Lecture 10 — Doubts About the Usefulness of Wisdom and Prudence",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — Dúvidas sobre a utilidade da sabedoria e da prudência"
           }
         },
         {
           "id": "g6-c011",
           "title": {
             "en-US": "Lecture 11 — Moral Virtue and Prudence",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — A virtude moral e a prudência"
           }
         }
       ]
@@ -775,105 +883,120 @@
       "id": "g7",
       "title": {
         "en-US": "Book 7 — Continence and Incontinence",
-        "la": "Liber 7"
+        "la": "Liber 7",
+        "pt-BR": "Livro 7 — A continência e a incontinência"
       },
       "children": [
         {
           "id": "g7-c001",
           "title": {
             "en-US": "Lecture 1 — Censurable Moral Dispositions and Their Opposites",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Disposições morais censuráveis e seus opostos"
           }
         },
         {
           "id": "g7-c002",
           "title": {
             "en-US": "Lecture 2 — Doubts Concerning Continence",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Dúvidas acerca da continência"
           }
         },
         {
           "id": "g7-c003",
           "title": {
             "en-US": "Lecture 3 — The Solution of Doubts",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A solução das dúvidas"
           }
         },
         {
           "id": "g7-c004",
           "title": {
             "en-US": "Lecture 4 — The Generic Matter of Continence and Incontinence",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A matéria genérica da continência e da incontinência"
           }
         },
         {
           "id": "g7-c005",
           "title": {
             "en-US": "Lecture 5 — Kinds of Pleasure",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Espécies de deleite"
           }
         },
         {
           "id": "g7-c006",
           "title": {
             "en-US": "Lecture 6 — Comparison of Different Kinds of Incontinence",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — Comparação das diferentes espécies de incontinência"
           }
         },
         {
           "id": "g7-c007",
           "title": {
             "en-US": "Lecture 7 — Continence and Perseverance",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — A continência e a perseverança"
           }
         },
         {
           "id": "g7-c008",
           "title": {
             "en-US": "Lecture 8 — The Intemperate Are Worse Than the Incontinent",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Os intemperantes são piores que os incontinentes"
           }
         },
         {
           "id": "g7-c009",
           "title": {
             "en-US": "Lecture 9 — The Continent and the Obstinate Man",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — O homem continente e o obstinado"
           }
         },
         {
           "id": "g7-c010",
           "title": {
             "en-US": "Lecture 10 — The Prudent and the Incontinent Man",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — O homem prudente e o incontinente"
           }
         },
         {
           "id": "g7-c011",
           "title": {
             "en-US": "Lecture 11 — Pleasure and Pain",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — O deleite e a tristeza"
           }
         },
         {
           "id": "g7-c012",
           "title": {
             "en-US": "Lecture 12 — Refutation of Previous Arguments",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — Refutação dos argumentos anteriores"
           }
         },
         {
           "id": "g7-c013",
           "title": {
             "en-US": "Lecture 13 — One Pleasure is the Highest Good",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — Um deleite é o sumo bem"
           }
         },
         {
           "id": "g7-c014",
           "title": {
             "en-US": "Lecture 14 — Physical Pleasures",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14 — Os deleites corporais"
           }
         }
       ]
@@ -882,105 +1005,120 @@
       "id": "g8",
       "title": {
         "en-US": "Book 8 — Friendship",
-        "la": "Liber 8"
+        "la": "Liber 8",
+        "pt-BR": "Livro 8 — A amizade"
       },
       "children": [
         {
           "id": "g8-c001",
           "title": {
             "en-US": "Lecture 1 — Friendship, a Subject of Moral Philosophy",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A amizade, objeto da filosofia moral"
           }
         },
         {
           "id": "g8-c002",
           "title": {
             "en-US": "Lecture 2 — The Object of Friendship",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — O objeto da amizade"
           }
         },
         {
           "id": "g8-c003",
           "title": {
             "en-US": "Lecture 3 — Kinds of Friendship",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Espécies de amizade"
           }
         },
         {
           "id": "g8-c004",
           "title": {
             "en-US": "Lecture 4 — Useful and Pleasurable Friendships Compared",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Comparação entre as amizades úteis e deleitáveis"
           }
         },
         {
           "id": "g8-c005",
           "title": {
             "en-US": "Lecture 5 — The Act and Habit of Friendship",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — O ato e o hábito da amizade"
           }
         },
         {
           "id": "g8-c006",
           "title": {
             "en-US": "Lecture 6 — Friendship in Relation to its Subject",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — A amizade em relação ao seu sujeito"
           }
         },
         {
           "id": "g8-c007",
           "title": {
             "en-US": "Lecture 7 — Friendship Between Unequals",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — A amizade entre desiguais"
           }
         },
         {
           "id": "g8-c008",
           "title": {
             "en-US": "Lecture 8 — Loving and Being Loved as Related to Friendship",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Amar e ser amado em relação à amizade"
           }
         },
         {
           "id": "g8-c009",
           "title": {
             "en-US": "Lecture 9 — Friendships and Civic Association",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — As amizades e a associação política"
           }
         },
         {
           "id": "g8-c010",
           "title": {
             "en-US": "Lecture 10 — Distinction of the Kinds of States",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — Distinção das espécies de regimes políticos"
           }
         },
         {
           "id": "g8-c011",
           "title": {
             "en-US": "Lecture 11 — Friendships Conform to Kinds of States",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — As amizades correspondem às espécies de regimes políticos"
           }
         },
         {
           "id": "g8-c012",
           "title": {
             "en-US": "Lecture 12 — Subdivisions of Friendship",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — Subdivisões da amizade"
           }
         },
         {
           "id": "g8-c013",
           "title": {
             "en-US": "Lecture 13 — Quarrels and Complaints in Friendship",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — Queixas e reclamações na amizade"
           }
         },
         {
           "id": "g8-c014",
           "title": {
             "en-US": "Lecture 14 — Complaints in Friendships Between Unequals",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14 — Reclamações nas amizades entre desiguais"
           }
         }
       ]
@@ -989,105 +1127,120 @@
       "id": "g9",
       "title": {
         "en-US": "Book 9 — Properties of Friendship",
-        "la": "Liber 9"
+        "la": "Liber 9",
+        "pt-BR": "Livro 9 — Propriedades da amizade"
       },
       "children": [
         {
           "id": "g9-c001",
           "title": {
             "en-US": "Lecture 1 — Proportionate Properties in Friendship",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Propriedades proporcionais na amizade"
           }
         },
         {
           "id": "g9-c002",
           "title": {
             "en-US": "Lecture 2 — Doubts on the Duties of Friendship",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Dúvidas sobre os deveres da amizade"
           }
         },
         {
           "id": "g9-c003",
           "title": {
             "en-US": "Lecture 3 — Minor Doubts on the Dissolution of Friendship",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Dúvidas menores sobre a dissolução da amizade"
           }
         },
         {
           "id": "g9-c004",
           "title": {
             "en-US": "Lecture 4 — The Acts or Effects of Friendship",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Os atos ou efeitos da amizade"
           }
         },
         {
           "id": "g9-c005",
           "title": {
             "en-US": "Lecture 5 — Goodwill",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A benevolência"
           }
         },
         {
           "id": "g9-c006",
           "title": {
             "en-US": "Lecture 6 — Concord",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — A concórdia"
           }
         },
         {
           "id": "g9-c007",
           "title": {
             "en-US": "Lecture 7 — Beneficence",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — A beneficência"
           }
         },
         {
           "id": "g9-c008",
           "title": {
             "en-US": "Lecture 8 — Doubt Concerning Love of Self",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Dúvida acerca do amor de si"
           }
         },
         {
           "id": "g9-c009",
           "title": {
             "en-US": "Lecture 9 — A Virtuous Man’s Love of Self",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — O amor de si do homem virtuoso"
           }
         },
         {
           "id": "g9-c010",
           "title": {
             "en-US": "Lecture 10 — A Doubt on a Happy Man’s Need of Friends",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — Dúvida sobre a necessidade de amigos para o homem feliz"
           }
         },
         {
           "id": "g9-c011",
           "title": {
             "en-US": "Lecture 11 — Why a Happy Man Needs Friends",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — Por que o homem feliz precisa de amigos"
           }
         },
         {
           "id": "g9-c012",
           "title": {
             "en-US": "Lecture 12 — Limitation of the Number of Friends",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — Limitação do número de amigos"
           }
         },
         {
           "id": "g9-c013",
           "title": {
             "en-US": "Lecture 13 — Friends Needed in Both Prosperity and Adversity",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — Os amigos são necessários tanto na prosperidade como na adversidade"
           }
         },
         {
           "id": "g9-c014",
           "title": {
             "en-US": "Lecture 14 — Friends’ Pleasure in Living Together",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14 — O deleite dos amigos na convivência"
           }
         }
       ]
@@ -1096,119 +1249,136 @@
       "id": "g10",
       "title": {
         "en-US": "Book 10 — Pleasure and Happiness",
-        "la": "Liber 10"
+        "la": "Liber 10",
+        "pt-BR": "Livro 10 — O deleite e a felicidade"
       },
       "children": [
         {
           "id": "g10-c001",
           "title": {
             "en-US": "Lecture 1 — Pleasure",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — O deleite"
           }
         },
         {
           "id": "g10-c002",
           "title": {
             "en-US": "Lecture 2 — Opinions on Pleasure as a Good",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Opiniões sobre o deleite como um bem"
           }
         },
         {
           "id": "g10-c003",
           "title": {
             "en-US": "Lecture 3 — Pleasure is Not a Good According to Plato",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Segundo Platão, o deleite não é um bem"
           }
         },
         {
           "id": "g10-c004",
           "title": {
             "en-US": "Lecture 4 — A Fourth Argument That Pleasure Is Not a Good",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Um quarto argumento de que o deleite não é um bem"
           }
         },
         {
           "id": "g10-c005",
           "title": {
             "en-US": "Lecture 5 — Pleasure is Neither a Motion Nor a Process of Change",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — O deleite não é movimento nem processo de mudança"
           }
         },
         {
           "id": "g10-c006",
           "title": {
             "en-US": "Lecture 6 — The Nature and Properties of Pleasure",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — A natureza e as propriedades do deleite"
           }
         },
         {
           "id": "g10-c007",
           "title": {
             "en-US": "Lecture 7 — Pleasures Differ in Kind",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Os deleites diferem em espécie"
           }
         },
         {
           "id": "g10-c008",
           "title": {
             "en-US": "Lecture 8 — The Morality of Pleasures",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — A moralidade dos deleites"
           }
         },
         {
           "id": "g10-c009",
           "title": {
             "en-US": "Lecture 9 — The Nature of Happiness",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — A natureza da felicidade"
           }
         },
         {
           "id": "g10-c010",
           "title": {
             "en-US": "Lecture 10 — Happiness, an Activity According to the Highest Virtue",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — A felicidade, uma operação segundo a virtude mais elevada"
           }
         },
         {
           "id": "g10-c011",
           "title": {
             "en-US": "Lecture 11 — Happiness and Leisure",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — A felicidade e o ócio"
           }
         },
         {
           "id": "g10-c012",
           "title": {
             "en-US": "Lecture 12 — Happiness and the Moral Virtues",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — A felicidade e as virtudes morais"
           }
         },
         {
           "id": "g10-c013",
           "title": {
             "en-US": "Lecture 13 — Happiness and External Goods",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — A felicidade e os bens exteriores"
           }
         },
         {
           "id": "g10-c014",
           "title": {
             "en-US": "Lecture 14 — The Need of Virtue",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14 — A necessidade da virtude"
           }
         },
         {
           "id": "g10-c015",
           "title": {
             "en-US": "Lecture 15 — Man Must be Capable of Legislating",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15 — O homem deve ser capaz de legislar"
           }
         },
         {
           "id": "g10-c016",
           "title": {
             "en-US": "Lecture 16 — How to Learn the Science of Lawmaking",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16 — Como aprender a ciência de legislar"
           }
         }
       ]
@@ -1217,5 +1387,12 @@
   "arrived": {
     "en-US": "2026-06-04",
     "la": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
+    }
   }
 }
