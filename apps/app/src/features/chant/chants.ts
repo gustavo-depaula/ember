@@ -6,6 +6,7 @@ import { getJson, getText } from '@/content/store'
 import type { LocalizedText } from '@/content/types'
 import { localizeContent } from '@/lib/i18n'
 import { parseGabc } from './gabc'
+import type { ChantGenre } from './textKey'
 
 export type ChantBookSection = {
   id: string
@@ -15,7 +16,19 @@ export type ChantBookSection = {
   occasion?: LocalizedText
   /** `chant/<id>` refs, in the book's order. */
   chants: string[]
+  /** The book's group it is printed under: a season, a month, the Commons. */
+  group?: string
+  /** A saint's day, `MM-DD`. */
+  date?: string
+  /** A rubric printed before the chant at `at`: an hour of the Office, "Tempore Paschali". */
+  heads?: { at: number; title: LocalizedText }[]
 }
+
+/** A division of a book that names its groups: the Proper of Time, the Proper of the Saints. */
+export type ChantBookPart = { id: string; title: LocalizedText }
+
+/** A season, a month, the Commons: what the thumb index jumps to, by its `short` tab. */
+export type ChantBookGroup = { id: string; part: string; title: LocalizedText; short: string }
 
 export type ChantBook = {
   id: string
@@ -28,6 +41,8 @@ export type ChantBook = {
    * section is a shelf and the table lists every chant under it.
    */
   list?: 'chants'
+  parts?: ChantBookPart[]
+  groups?: ChantBookGroup[]
   sections: ChantBookSection[]
 }
 
@@ -44,14 +59,41 @@ export type Chant = {
   score: string
 }
 
-const kyrialeId = 'chant-book/kyriale'
+// The shelf's order: the books of the Mass and the Office, then the Ordinary, then the prayers.
+const shelf = ['graduale', 'antiphonale', 'kyriale', 'cantus'].map((id) => `chant-book/${id}`)
 
-/** Every chant book in the corpus, the Kyriale first: it is the one a Mass is sung from. */
+function shelfRank(id: string): number {
+  const at = shelf.indexOf(id)
+  return at < 0 ? shelf.length : at
+}
+
+/** The chant books in the corpus, as the catalog names them, in the shelf's order. */
+export function chantBookEntries(): {
+  id: string
+  name: LocalizedText
+  description: LocalizedText
+  count: number
+}[] {
+  return getEntriesByKind('chant-book')
+    .sort(([a], [b]) => shelfRank(a) - shelfRank(b) || a.localeCompare(b))
+    .map(([id, entry]) => ({
+      id,
+      name: entry.name as LocalizedText,
+      description: entry.description as LocalizedText,
+      count: entry.itemCount ?? 0,
+    }))
+}
+
+export async function loadChantBook(id: string): Promise<ChantBook | undefined> {
+  const entry = getEntry(id)
+  if (entry?.kind !== 'chant-book') return undefined
+  return getJson<ChantBook>(entry.hash)
+}
+
+/** Every chant book in the corpus, in the shelf's order. */
 export async function loadChantBooks(): Promise<ChantBook[]> {
-  const entries = getEntriesByKind('chant-book').sort(
-    ([a], [b]) => Number(b === kyrialeId) - Number(a === kyrialeId) || a.localeCompare(b),
-  )
-  return Promise.all(entries.map(([, entry]) => getJson<ChantBook>(entry.hash)))
+  const books = await Promise.all(chantBookEntries().map(({ id }) => loadChantBook(id)))
+  return books.filter((book) => book !== undefined)
 }
 
 export async function loadChant(id: string): Promise<Chant | undefined> {
@@ -71,13 +113,19 @@ export async function loadChant(id: string): Promise<Chant | undefined> {
 }
 
 /** What a list shows of a chant, from the catalog alone. */
-export function chantSummary(id: string): { name: string; subtitle?: string; mode?: string } {
+export function chantSummary(id: string): {
+  name: string
+  subtitle?: string
+  mode?: string
+  genre?: ChantGenre
+} {
   const entry = getEntry(id)
   return {
     // Latin only, which is where `localizeContent` lands when a text has neither app language.
     name: entry?.name ? localizeContent(entry.name) : id,
     subtitle: entry?.subtitle && localizeContent(entry.subtitle),
     mode: entry?.mode,
+    genre: entry?.genre as ChantGenre | undefined,
   }
 }
 

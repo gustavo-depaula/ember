@@ -105,6 +105,8 @@ export type CatalogEntry = {
   subtitle?: LocalizedText
   /** A chant's mode, as its book numbers it (`1`–`8`, or a letter for a tonus). */
   mode?: string
+  /** A chant's genre: `in` an Introit, `an` an antiphon, … (`ChantGenre`). */
+  genre?: string
   // Praying this practice is Mass or the Office (holy cards); forms carry their
   // group primary's, resolved at build.
   liturgicalAct?: LiturgicalAct

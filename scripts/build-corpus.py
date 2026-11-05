@@ -30,6 +30,7 @@ import shutil
 import subprocess
 import sys
 import time
+import unicodedata
 from datetime import datetime, timezone
 from multiprocessing import Pool
 from pathlib import Path
@@ -1333,20 +1334,36 @@ def gabc_headers(text: str) -> dict[str, str]:
     return out
 
 
+def search_fold(text: str) -> str:
+    """Text as the app's search matches it (`normalizeForSearch`): unaccented, lower case,
+    with the Latin ligatures spelled out, so "caeli" finds "cæli"."""
+    text = text.replace("æ", "ae").replace("Æ", "Ae").replace("œ", "oe").replace("Œ", "Oe")
+    plain = "".join(c for c in unicodedata.normalize("NFD", text) if not unicodedata.combining(c))
+    return re.sub(r"\s+", " ", plain.lower()).strip()
+
+
 def build_chants(b: Builder) -> None:
-    """Gregorian chant (content/chants/, content/chant-books/).
+    """Gregorian chant (content/chants/, content/chant-propers/, content/chant-books/).
 
     Catalog kinds:
       chant/<id>       one score, the GABC file as it stands; the catalog entry
-                       carries what a list needs to name it without fetching it
+                       carries what a list needs to name it without fetching it:
+                       its name, mode and genre (`in`, `an`, … as chant_link names them)
       chant-book/<id>  a book's chants in order, by section
+      chant-text/all   {chant id: its sung words, folded for search}, read only
+                       when a search reaches past the chants' names
     """
     src = CONTENT / "chants"
     if not src.is_dir():
         return
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    import chant_link
 
+    genre_of = {name: genre for genre, name in {**chant_link.GENRES, **chant_link.OFFICE_GENRES}.items()}
+    genre_of["Hymnus"] = "hy"
     known: set[str] = set()
-    for f in sorted(src.glob("*.gabc")):
+    words: dict[str, str] = {}
+    for f in [*sorted(src.glob("*.gabc")), *sorted((CONTENT / "chant-propers").glob("*.gabc"))]:
         text = f.read_text(encoding="utf-8")
         try:
             headers = gabc_headers(text)
@@ -1359,8 +1376,13 @@ def build_chants(b: Builder) -> None:
             entry["subtitle"] = {"la": headers["subtitle"]}
         if headers.get("mode"):
             entry["mode"] = headers["mode"]
+        if genre_of.get(headers.get("office-part", "")):
+            entry["genre"] = genre_of[headers["office-part"]]
         b.add_catalog(f"chant/{f.stem}", entry)
         known.add(f"chant/{f.stem}")
+        words[f"chant/{f.stem}"] = search_fold(chant_link.lyrics(text.partition("\n%%\n")[2]))
+    h, size = b.write_json_blob(words)
+    b.add_catalog("chant-text/all", {"kind": "chant-text", "hash": h, "size": size})
 
     for f in sorted((CONTENT / "chant-books").glob("*.json")):
         with f.open(encoding="utf-8") as fh:
