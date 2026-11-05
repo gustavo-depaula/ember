@@ -85,7 +85,12 @@ export function usePracticeContent(
       const renderedSections = await resolveFlowAsync(flow, context, ec)
       const primitives = await preprocessFlow(renderedSections, {
         queryClient,
-        prefs: { lang: contentLanguage, translation, jurisdiction },
+        prefs: {
+          lang: contentLanguage,
+          translation,
+          jurisdiction,
+          secondaryLang: secondaryLanguage,
+        },
         date: now,
         programDay,
       })

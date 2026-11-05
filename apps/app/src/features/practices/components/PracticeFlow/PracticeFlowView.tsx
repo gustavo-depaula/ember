@@ -156,14 +156,15 @@ function PracticeReady({
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const translation = usePreferencesStore((s) => s.translation)
   const jurisdiction = usePreferencesStore((s) => s.jurisdiction)
+  const secondaryLang = usePreferencesStore((s) => s.secondaryLanguage)
   const preprocessCtx = useMemo(
     () => ({
       queryClient,
-      prefs: { lang: contentLanguage, translation, jurisdiction },
+      prefs: { lang: contentLanguage, translation, jurisdiction, secondaryLang },
       date: now,
       programDay,
     }),
-    [queryClient, contentLanguage, translation, jurisdiction, now, programDay],
+    [queryClient, contentLanguage, translation, jurisdiction, secondaryLang, now, programDay],
   )
 
   // On a wide window the page's divisions and its tools stand in rails beside

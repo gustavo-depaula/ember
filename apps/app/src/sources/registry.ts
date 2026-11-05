@@ -4,7 +4,7 @@ import { cccCompendiumSource } from './ccc-compendium'
 import { doHourSource } from './divinum-officium/do-hour'
 import { doMassSource } from './divinum-officium/do-mass'
 import { emberDaysSource } from './ember-days'
-import { breviarySource, officeOfReadingsReadingSource } from './ibreviary'
+import { breviarySource, latinBreviarySource, officeOfReadingsReadingSource } from './ibreviary'
 import { lothHourSource } from './loth/source'
 import { missalMassSource, missalProperSource } from './missal-mass'
 import { opusDeiGospelCommentarySource, opusDeiMeditationSource } from './opus-dei'
@@ -39,6 +39,11 @@ registerSource(doHourSource as ContentSource)
 registerSource(emberDaysSource as ContentSource)
 registerSource(breviarySource as ContentSource)
 registerSource(officeOfReadingsReadingSource as ContentSource)
-registerSource(lothHourSource(breviarySource as ContentSource) as ContentSource)
+registerSource(
+  lothHourSource(
+    breviarySource as ContentSource,
+    latinBreviarySource as ContentSource,
+  ) as ContentSource,
+)
 registerSource(opusDeiGospelCommentarySource as ContentSource)
 registerSource(opusDeiMeditationSource as ContentSource)
