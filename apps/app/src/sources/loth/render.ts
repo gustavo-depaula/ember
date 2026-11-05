@@ -5,6 +5,7 @@
 import type { Block, HourPart, Line, Seg } from '@ember/loth'
 import { lineText, segText } from '@ember/loth'
 import type { Primitive, VersesPrimitive } from '@/content/primitives'
+import type { SlotPrimitives } from './pair'
 
 export interface RenderContext {
   // The complementary texts an hour links to (Latin versions, the
@@ -567,22 +568,31 @@ function chosenAmong(choices: Block[][], chosen: number, ctx: RenderContext): Pr
   )
 }
 
-/** An hour's parts as primitives. */
-export function renderParts(parts: HourPart[], ctx: RenderContext): Primitive[] {
+/** An hour's parts as primitives, each part's apart. */
+export function renderSlots(parts: HourPart[], ctx: RenderContext): SlotPrimitives[] {
   // What opens the hour comes as a part to each kind of line (the name, the
   // rank, the Common); it is read as the one heading it is.
   const opening = parts.filter((part) => part.slot.startsWith('head'))
   const rest = parts.filter((part) => !part.slot.startsWith('head'))
   return [
-    ...renderBlocks(
-      opening.flatMap((part) => part.blocks),
-      ctx,
-      { depth: 0, head: true },
-    ),
-    ...rest.flatMap((part) =>
-      part.choices
+    {
+      slot: 'head',
+      primitives: renderBlocks(
+        opening.flatMap((part) => part.blocks),
+        ctx,
+        { depth: 0, head: true },
+      ),
+    },
+    ...rest.map((part) => ({
+      slot: part.slot,
+      primitives: part.choices
         ? chosenAmong(part.choices, part.chosen ?? 0, ctx)
         : renderBlocks(part.blocks, ctx),
-    ),
+    })),
   ]
+}
+
+/** An hour's parts as primitives. */
+export function renderParts(parts: HourPart[], ctx: RenderContext): Primitive[] {
+  return renderSlots(parts, ctx).flatMap((slot) => slot.primitives)
 }

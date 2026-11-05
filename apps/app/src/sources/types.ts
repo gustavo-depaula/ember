@@ -10,6 +10,8 @@ export type ProducerPrefs = {
   translation: string // bible translation code: 'DRB' | 'CPDV' | 'AM' | ...
   // The reader's calendar region ('BR', 'US'); absent, the General Calendar.
   jurisdiction?: string
+  // The language set beside the content language, if the reader has one.
+  secondaryLang?: string
 }
 
 export type SourceAccessor = {
@@ -40,5 +42,9 @@ export type ContentSource<T extends Primitive | Primitive[] = Primitive | Primit
   // forever. When set, the runtime stamps `params.date` with the logical
   // YYYY-MM-DD before computing the cache key and calling fetch.
   dateScoped?: boolean
+  // Whether a result is kept on the device. A result made without a part
+  // that could not be fetched (offline) is shown, not kept, so the next
+  // opening tries again.
+  keep?(payload: T): boolean
   fetch: (ctx: SourceFetchContext) => Promise<T>
 }

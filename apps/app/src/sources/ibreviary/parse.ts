@@ -254,12 +254,17 @@ const primitiveFirstLine = (p: Primitive): string => {
 // + acclamation once after the last hour's reading; PT repeats the oration
 // per hour and shares only the closing Benedicamus versicle; LA returns to
 // common twice — at the psalmody (after the per-hour hymns) and at the
-// shared oration.
+// shared oration, which it prints after None, each hour's reading ending in a
+// bare "Oratio" that points to it. On a weekday of the year each hour has an
+// oration of its own instead, printed after its reading: there the oration
+// stays with its hour.
 const commonStarts: Record<IbLang, (p: Primitive) => boolean> = {
   en: (p) => p.type === 'rubric' && /^(CONCLUDING PRAYER|ACCLAMATION)/i.test(p.text.primary),
   pt: (p) => p.type === 'verses' && /^Bendigamos/.test(p.items[0]?.text.primary ?? ''),
-  la: (p) => p.type === 'rubric' && /^(PSALMODIA|ORATIO)/i.test(p.text.primary),
+  la: (p) => p.type === 'rubric' && /^PSALMODIA/i.test(p.text.primary),
 }
+
+const isOwnOration = (p: Primitive) => p.type === 'rubric' && p.text.primary.trim() === 'ORATIO'
 
 // ora_media carries the three little hours on one page, alternating shared
 // parts (opening, psalmody, ending) with hour-specific blocks introduced by
@@ -280,6 +285,8 @@ export function splitDaytime(
   const out: Record<DaytimeHour, Primitive[]> = { terce: [], sext: [], none: [] }
   let region: DaytimeHour | 'common' = 'common'
   const seen = new Set<DaytimeHour>()
+  const ownOrations =
+    ibLang === 'la' && primitives.filter(isOwnOration).length === daytimeHours.length
   for (const p of primitives) {
     const hour = markerHourOf(p)
     if (hour) {
@@ -287,7 +294,8 @@ export function splitDaytime(
       seen.add(hour)
       continue // the marker itself is dropped — the hour picker already names it
     }
-    if (region !== 'common' && commonStarts[ibLang](p)) region = 'common'
+    const shared = ibLang === 'la' ? isOwnOration(p) && !ownOrations : false
+    if (region !== 'common' && (commonStarts[ibLang](p) || shared)) region = 'common'
     if (region === 'common') {
       for (const h of daytimeHours) out[h].push(p)
     } else {

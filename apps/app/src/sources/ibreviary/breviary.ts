@@ -1,6 +1,6 @@
 import type { Primitive } from '@/content/primitives'
 import type { SourceFetchContext } from '../types'
-import { hourSections, ibLangFor, narrowHour } from './config'
+import { hourSections, type IbLang, ibLangFor, narrowHour } from './config'
 import { parseHourPage } from './parse'
 import { fetchSectionHtml } from './session'
 
@@ -19,11 +19,21 @@ export const breviarySource = {
   version: '1.1',
   prefsDeps: ['lang' as const],
   dateScoped: true,
-  async fetch(ctx: SourceFetchContext): Promise<Primitive[]> {
-    const hour = narrowHour(ctx.params.hour)
+  fetch: (ctx: SourceFetchContext) => hourIn(ibLangFor(ctx.prefs.lang), ctx),
+}
 
-    const ibLang = ibLangFor(ctx.prefs.lang)
-    const html = await fetchSectionHtml(ibLang, ctx.date, hourSections[hour])
-    return parseHourPage(html, hour, ibLang)
-  },
+// The same office in the Latin of the editio typica, whatever the reader's
+// language: what the Brazilian hours set beside their own text.
+export const latinBreviarySource = {
+  id: 'producer/breviary-of-the-day-la',
+  version: '1.0',
+  prefsDeps: [],
+  dateScoped: true,
+  fetch: (ctx: SourceFetchContext) => hourIn('la', ctx),
+}
+
+async function hourIn(ibLang: IbLang, ctx: SourceFetchContext): Promise<Primitive[]> {
+  const hour = narrowHour(ctx.params.hour)
+  const html = await fetchSectionHtml(ibLang, ctx.date, hourSections[hour])
+  return parseHourPage(html, hour, ibLang)
 }
