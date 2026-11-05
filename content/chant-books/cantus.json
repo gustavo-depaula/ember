@@ -80,6 +80,7 @@
         "chant/te-lucis-ante-terminum",
         "chant/te-splendor-et-virtus",
         "chant/ut-queant-laxis",
+        "chant/veni-creator-spiritus",
         "chant/verbum-supernum-prodiens-nec"
       ]
     },
@@ -109,10 +110,15 @@
         "chant/benedictus",
         "chant/benedictus-deus",
         "chant/credo-in-deum",
+        "chant/litaniae-lauretanae",
         "chant/lux-aeterna",
         "chant/magnificat",
         "chant/memorare",
-        "chant/sancte-michael-archangele"
+        "chant/oremus-pro-pontifice",
+        "chant/pater-noster",
+        "chant/rorate-caeli-desuper",
+        "chant/sancte-michael-archangele",
+        "chant/subvenite"
       ]
     }
   ]
