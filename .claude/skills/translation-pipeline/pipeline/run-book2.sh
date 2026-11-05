@@ -307,7 +307,14 @@ while true; do
 done
 }
 
-parts=("${(@f)$(R2 parts content/books/$book ${PART_WORDS:-40000})}")
+# A run can fix its own parts in parts.list (one line of chapter files per
+# part): when a book's chapters change after some parts converged, the
+# converged ones keep their numbers and are skipped.
+if [[ -f $base/parts.list ]]; then
+  parts=("${(@f)$(<$base/parts.list)}")
+else
+  parts=("${(@f)$(R2 parts content/books/$book ${PART_WORDS:-40000})}")
+fi
 if (( ${#parts} <= 1 )); then
   reviewLoop; exit $?
 fi
