@@ -31,6 +31,7 @@
 				}
 			]
 		},
+		{"type": "chant", "ref": "chant/oremus-pro-pontifice"},
 		{
 			"type": "prayer",
 			"ref": "our-father"
