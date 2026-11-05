@@ -12,7 +12,7 @@ import type { ChantBookGroup } from './chants'
 import { toneOfGroup } from './library'
 
 const width = 36
-const seal = 132
+const seal = 150
 
 /**
  * A printed missal's thumb tabs, down the page's edge: a touch or a drag lands
@@ -87,8 +87,15 @@ export function ThumbIndex({
           const on = group.id === (touched?.group.id ?? current)
           const newPart = i > 0 && groups[i - 1].part !== group.part
           return (
-            <YStack key={group.id} alignItems="center" gap={2}>
-              {newPart && <YStack width={12} height={1} backgroundColor="$borderColor" />}
+            // Each tab an equal cell, so where the thumb is down is the tab under it.
+            <YStack
+              key={group.id}
+              flex={1}
+              alignItems="center"
+              justifyContent="center"
+              borderTopWidth={newPart ? 1 : 0}
+              borderColor="$borderColor"
+            >
               <Text
                 fontFamily="$heading"
                 fontSize={10}
@@ -116,10 +123,10 @@ export function ThumbIndex({
           </Text>
           <Typography
             fontFamily="$title"
-            fontSize="$3"
+            fontSize="$2"
             color={blockInk}
             textAlign="center"
-            paddingHorizontal="$sm"
+            paddingHorizontal="$md"
             numberOfLines={2}
           >
             {localizeContent(touched.group.title)}
@@ -136,9 +143,7 @@ const styles = StyleSheet.create({
     right: 2,
     top: 8,
     width,
-    justifyContent: 'space-between',
-    alignItems: 'center',
-    paddingVertical: 4,
+    alignItems: 'stretch',
   },
   seal: {
     position: 'absolute',

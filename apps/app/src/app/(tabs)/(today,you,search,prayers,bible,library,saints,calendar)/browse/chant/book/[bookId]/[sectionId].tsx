@@ -24,6 +24,7 @@ export default function ChantPageScreen() {
           title={title}
           chants={section.chants}
           heads={section.heads}
+          parts={section.parts}
           hours={bookId === 'antiphonale'}
         />
       ) : (

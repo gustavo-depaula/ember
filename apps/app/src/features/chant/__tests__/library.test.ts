@@ -44,6 +44,12 @@ describe('sectionOfDay', () => {
     expect(await pageOf(() => graduale, 2026, 11, 11)).toBe('sancti-11-11')
   })
 
+  it('opens a Sunday after Epiphany kept late in the year, which sings the twenty-third after Pentecost', async () => {
+    const [day] = await chantDays(new Date(2026, 10, 8), 1)
+    const page = sectionOfDay(graduale, day)
+    expect(page?.chants[0]).toBe('chant/in-dicit-dominus-ego-735')
+  })
+
   it('opens Christmas Day at its third Mass', async () => {
     expect(await pageOf(() => graduale, 2026, 12, 25)).toBe('sancti-12-25m3')
   })

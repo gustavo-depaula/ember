@@ -14,6 +14,7 @@ import { BackHeader } from './BackHeader'
 import { type ChantBookSection, chantSummary, romanMode } from './chants'
 import { useChant } from './hooks'
 import { ScoreView } from './ScoreView'
+import type { ChantGenre } from './textKey'
 
 const gutter = 20
 // A staff wider than this spreads its neumes too thin to read as phrases.
@@ -34,10 +35,13 @@ export function ChantSheet({
   title,
   chants,
   heads = [],
+  parts,
   hours = false,
 }: {
   title: string
   chants: string[]
+  /** The part each chant is sung as, where the page says (`ChantBookSection.parts`). */
+  parts?: ChantGenre[]
   /** Rubrics printed before a chant: an hour of the Office, "Tempore Paschali". */
   heads?: Head[]
   /** The heads are the Office's hours, which the strip then names. */
@@ -56,10 +60,10 @@ export function ChantSheet({
       hours
         ? heads.map((head) => ({ label: head.short ?? localizeContent(head.title), at: head.at }))
         : chants.map((chant, at) => {
-            const { genre } = chantSummary(chant)
+            const genre = parts?.[at] ?? chantSummary(chant).genre
             return { label: genre ? t(`chant.genreShort.${genre}`) : String(at + 1), at }
           }),
-    [chants, heads, hours, t],
+    [chants, heads, hours, parts, t],
   )
   const headAt = useMemo(() => new Map(heads.map((h) => [h.at, h])), [heads])
 
@@ -83,11 +87,11 @@ export function ChantSheet({
               {localizeContent(head.title)}
             </Typography>
           )}
-          <SheetChant id={item} width={scoreWidth} />
+          <SheetChant id={item} part={parts?.[index]} width={scoreWidth} />
         </YStack>
       )
     },
-    [headAt, hours, scoreWidth],
+    [headAt, hours, parts, scoreWidth],
   )
 
   return (
@@ -178,7 +182,15 @@ const SheetTabs = memo(function SheetTabs({
 })
 
 /** One chant of the sheet: its part and mode in red, its incipit, the score, where it was read from. */
-const SheetChant = memo(function SheetChant({ id, width }: { id: string; width: number }) {
+const SheetChant = memo(function SheetChant({
+  id,
+  part: sungAs,
+  width,
+}: {
+  id: string
+  part?: ChantGenre
+  width: number
+}) {
   const { t } = useTranslation()
   const theme = useTheme()
   // The score follows the reader's text size, as every other page does.
@@ -188,8 +200,9 @@ const SheetChant = memo(function SheetChant({ id, width }: { id: string; width: 
   const summary = chantSummary(id)
   const { saved, isWorking, toggle } = useSaveToggle(id, 'chant')
 
+  const genre = sungAs ?? summary.genre
   const part = [
-    summary.genre && t(`chant.genre.${summary.genre}`),
+    genre && t(`chant.genre.${genre}`),
     summary.mode && t('chant.mode', { mode: romanMode(summary.mode) }),
   ]
     .filter(Boolean)

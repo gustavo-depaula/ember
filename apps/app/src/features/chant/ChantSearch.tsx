@@ -49,21 +49,20 @@ export function ChantSearchStart() {
         <Typography variant="label" paddingBottom="$xs">
           {t('chant.byForm')}
         </Typography>
-        <XStack flexWrap="wrap" alignItems="center">
-          {genreOrder.map((genre, i) => (
-            <XStack key={genre} alignItems="center">
-              {i > 0 && <Typography tone="muted">{' · '}</Typography>}
-              <Pressable
-                onPress={() => openList({ genre })}
-                hitSlop={{ top: 8, bottom: 8 }}
-                accessibilityRole="link"
-                accessibilityLabel={t(`chant.genres.${genre}`)}
-              >
-                <Typography fontSize="$3" lineHeight={36} color="$colorMutedBlue">
-                  {t(`chant.genres.${genre}`)}
-                </Typography>
-              </Pressable>
-            </XStack>
+        {/* Spaced, not dotted: a separator would start a wrapped line. */}
+        <XStack flexWrap="wrap" alignItems="center" columnGap="$lg">
+          {genreOrder.map((genre) => (
+            <Pressable
+              key={genre}
+              onPress={() => openList({ genre })}
+              hitSlop={{ top: 8, bottom: 8 }}
+              accessibilityRole="link"
+              accessibilityLabel={t(`chant.genres.${genre}`)}
+            >
+              <Typography fontSize="$3" lineHeight={36} color="$colorMutedBlue">
+                {t(`chant.genres.${genre}`)}
+              </Typography>
+            </Pressable>
           ))}
         </XStack>
       </YStack>

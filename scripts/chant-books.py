@@ -98,17 +98,22 @@ def lines_of(text):
     return text.rstrip('\n').split('\n')
 
 
-def scores(found, pieces):
-    """The scores that set `pieces` ([(genre, text)]), each once, in order."""
-    out = []
+def sung(found, pieces):
+    """The scores that set `pieces` ([(genre, text)]), each once, in order, with
+    the part each is sung as: a gradual GregoBase files as a tract is still the gradual."""
+    out = {}
     for genre, text in pieces:
         key = cl.piece_key(genre, text) if genre in cl.GENRES else cl.fold(text)
         if len(key) < 12:
             continue
         score, stem = found.find(cl.KIN.get(genre, (genre,)), key)
         if score >= cl.THRESHOLD and stem not in out:
-            out.append(stem)
+            out[stem] = genre
     return out
+
+
+def scores(found, pieces):
+    return list(sung(found, pieces))
 
 
 def season_of(day):
@@ -126,6 +131,10 @@ def tempora_rank(day):
         month, d = day['date'].split('-')
         return (0, (int(month) - 12) % 12, int(d), 0)
     m = re.match(r'^[A-Za-z]+(\d+)(?:-(\d))?$', day['file'])
+    # The Sundays after Epiphany that Epiphanytide had no room for are kept
+    # after the twenty-third after Pentecost, whose chants they sing.
+    if day['file'].startswith('PentEpi'):
+        return (1, 23, 10 + int(m.group(1)), int(m.group(2) or 0))
     return (1, int(m.group(1)), int(m.group(2) or 0), 0)
 
 
@@ -174,7 +183,7 @@ def order(days):
     return sorted(days, key=rank)
 
 
-def section(day, chants, heads=None):
+def section(day, chants, heads=None, parts=None):
     out = {
         'id': f'{day["part"]}-{day["file"]}'.lower().replace(' ', '-').replace('/', '-'),
         'title': {'la': day['title']},
@@ -193,6 +202,9 @@ def section(day, chants, heads=None):
         out['date'] = day['date']
     if heads:
         out['heads'] = heads
+    # The part of the Mass each chant is sung as, which the genre its score is filed under can belie.
+    if parts:
+        out['parts'] = parts
     return out
 
 
@@ -212,17 +224,19 @@ def sung_on(day, name):
 
 
 def mass_section(found, day):
-    chants, heads = [], []
+    chants, heads, parts = [], [], []
     for name in MASS_ORDER:
         if name not in day['sections'] or not sung_on(day, name):
             continue
-        got = [s for s in scores(found, cl.mass_pieces(name, lines_of(day['sections'][name]))) if s not in chants]
+        pieces = sung(found, cl.mass_pieces(name, lines_of(day['sections'][name])))
+        got = [s for s in pieces if s not in chants]
+        parts += [pieces[s] for s in got]
         # A Mass of the Proper of Time sings its tract in its own season; the rubric is a saint's.
         head = MASS_HEADS.get(name) if not (name == 'Tractus' and day['part'] == 'tempora') else None
         if got and head and not (heads and heads[-1]['title']['la'] == head):
             heads.append({'at': len(chants), 'title': {'la': head}})
         chants += got
-    return chants, heads
+    return chants, heads, parts
 
 
 def office_section(found, day, hours):
@@ -323,9 +337,9 @@ def main():
     masses = [d for d in days if d['area'] == 'missa']
     graduale = []
     for d in order(masses):
-        chants, heads = mass_section(found, d)
+        chants, heads, parts = mass_section(found, d)
         if chants:
-            graduale.append(section(d, chants, heads))
+            graduale.append(section(d, chants, heads, parts))
 
     offices = [d for d in days if d['area'] == 'horas' and d['part'] != 'psalterium']
     antiphonale = []

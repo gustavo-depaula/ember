@@ -234,7 +234,14 @@
     "chant/of-ad-te-domine-962",
     "chant/co-dominus-dabit-1036"
    ],
-   "file": "Tempora/Adv1-0"
+   "file": "Tempora/Adv1-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-adv2-0",
@@ -249,7 +256,14 @@
     "chant/of-deus-tu-convertens-631",
     "chant/co-jerusalem-surge-966"
    ],
-   "file": "Tempora/Adv2-0"
+   "file": "Tempora/Adv2-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-adv3-0",
@@ -264,7 +278,14 @@
     "chant/of-benedixisti-domine-113",
     "chant/co-dicite-pusillanimes-218"
    ],
-   "file": "Tempora/Adv3-0"
+   "file": "Tempora/Adv3-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-adv3-3",
@@ -279,7 +300,14 @@
     "chant/of-confortamini-290",
     "chant/co-ecce-virgo-1144"
    ],
-   "file": "Tempora/Adv3-3"
+   "file": "Tempora/Adv3-3",
+   "parts": [
+    "in",
+    "gr",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-adv3-5",
@@ -293,7 +321,13 @@
     "chant/of-deus-tu-convertens-631",
     "chant/co-ecce-dominus-veniet-439"
    ],
-   "file": "Tempora/Adv3-5"
+   "file": "Tempora/Adv3-5",
+   "parts": [
+    "in",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-adv3-6",
@@ -311,7 +345,17 @@
     "chant/of-exsulta-satis-929",
     "chant/co-exsultavit-ut-gigas-88"
    ],
-   "file": "Tempora/Adv3-6"
+   "file": "Tempora/Adv3-6",
+   "parts": [
+    "in",
+    "gr",
+    "gr",
+    "gr",
+    "gr",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-adv4-0",
@@ -326,7 +370,14 @@
     "chant/of-ave-maria-et-benedictus-843",
     "chant/co-ecce-virgo-1144"
    ],
-   "file": "Tempora/Adv4-0"
+   "file": "Tempora/Adv4-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-12-24",
@@ -341,7 +392,13 @@
     "chant/co-revelabitur-367"
    ],
    "file": "Sancti/12-24",
-   "date": "12-24"
+   "date": "12-24",
+   "parts": [
+    "in",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-12-25m1",
@@ -357,7 +414,14 @@
     "chant/co-in-splendoribus-117"
    ],
    "file": "Sancti/12-25m1",
-   "date": "12-25"
+   "date": "12-25",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-12-25m2",
@@ -373,7 +437,14 @@
     "chant/co-exsulta-filia-1125"
    ],
    "file": "Sancti/12-25m2",
-   "date": "12-25"
+   "date": "12-25",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-12-25m3",
@@ -389,7 +460,14 @@
     "chant/co-viderunt-omnes-1139"
    ],
    "file": "Sancti/12-25m3",
-   "date": "12-25"
+   "date": "12-25",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-12-26",
@@ -406,7 +484,14 @@
    ],
    "file": "Sancti/12-26",
    "common": "C2a",
-   "date": "12-26"
+   "date": "12-26",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-12-27",
@@ -422,7 +507,13 @@
    ],
    "file": "Sancti/12-27",
    "common": "C1",
-   "date": "12-27"
+   "date": "12-27",
+   "parts": [
+    "in",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-12-28r",
@@ -439,7 +530,14 @@
    ],
    "file": "Sancti/12-28r",
    "common": "C3",
-   "date": "12-28"
+   "date": "12-28",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-12-29r",
@@ -456,7 +554,14 @@
    ],
    "file": "Sancti/12-29r",
    "common": "C2",
-   "date": "12-29"
+   "date": "12-29",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-12-31r",
@@ -473,7 +578,14 @@
    ],
    "file": "Sancti/12-31r",
    "common": "C4b",
-   "date": "12-31"
+   "date": "12-31",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-01-01",
@@ -489,7 +601,14 @@
     "chant/co-viderunt-omnes-1139"
    ],
    "file": "Sancti/01-01",
-   "date": "01-01"
+   "date": "01-01",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-01-05cc",
@@ -506,7 +625,14 @@
    ],
    "file": "Sancti/01-05cc",
    "common": "C2b",
-   "date": "01-05"
+   "date": "01-05",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-nat1-0",
@@ -521,7 +647,14 @@
     "chant/of-deus-enim-979",
     "chant/co-tolle-puerum-1282"
    ],
-   "file": "Tempora/Nat1-0"
+   "file": "Tempora/Nat1-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-nat2-0",
@@ -546,6 +679,15 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -561,7 +703,14 @@
     "chant/of-tui-sunt-caeli-1274",
     "chant/co-viderunt-omnes-1139"
    ],
-   "file": "Tempora/Nat29"
+   "file": "Tempora/Nat29",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-nat30",
@@ -576,7 +725,14 @@
     "chant/of-tui-sunt-caeli-1274",
     "chant/co-viderunt-omnes-1139"
    ],
-   "file": "Tempora/Nat30"
+   "file": "Tempora/Nat30",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-nat31",
@@ -591,7 +747,14 @@
     "chant/of-tui-sunt-caeli-1274",
     "chant/co-viderunt-omnes-1139"
    ],
-   "file": "Tempora/Nat31"
+   "file": "Tempora/Nat31",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-01-06",
@@ -607,7 +770,14 @@
     "chant/co-vidimus-stellam-918"
    ],
    "file": "Sancti/01-06",
-   "date": "01-06"
+   "date": "01-06",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-01-11",
@@ -624,7 +794,14 @@
    ],
    "file": "Sancti/01-11",
    "common": "C4b",
-   "date": "01-11"
+   "date": "01-11",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-01-13",
@@ -640,7 +817,14 @@
     "chant/co-vidimus-stellam-918"
    ],
    "file": "Sancti/01-13",
-   "date": "01-13"
+   "date": "01-13",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-epi1-0",
@@ -656,7 +840,15 @@
     "chant/of-tulerunt-jesum-93",
     "chant/co-descendit-jesus-626"
    ],
-   "file": "Tempora/Epi1-0"
+   "file": "Tempora/Epi1-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-epi2-0",
@@ -671,7 +863,14 @@
     "chant/of-jubilate-deo-universa-937",
     "chant/co-dicit-dominus-230"
    ],
-   "file": "Tempora/Epi2-0"
+   "file": "Tempora/Epi2-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-epi3-0",
@@ -686,7 +885,14 @@
     "chant/of-dextera-domini-47",
     "chant/co-mirabantur-omnes-1148"
    ],
-   "file": "Tempora/Epi3-0"
+   "file": "Tempora/Epi3-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-epi4-0",
@@ -701,7 +907,14 @@
     "chant/of-dextera-domini-47",
     "chant/co-mirabantur-omnes-1148"
    ],
-   "file": "Tempora/Epi4-0"
+   "file": "Tempora/Epi4-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-epi5-0",
@@ -716,7 +929,14 @@
     "chant/of-dextera-domini-47",
     "chant/co-mirabantur-omnes-1148"
    ],
-   "file": "Tempora/Epi5-0"
+   "file": "Tempora/Epi5-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-epi6-0",
@@ -731,7 +951,14 @@
     "chant/of-dextera-domini-47",
     "chant/co-mirabantur-omnes-1148"
    ],
-   "file": "Tempora/Epi6-0"
+   "file": "Tempora/Epi6-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quadp1-0",
@@ -746,7 +973,14 @@
     "chant/of-bonum-est-confiteri-1194",
     "chant/co-illumina-faciem-640"
    ],
-   "file": "Tempora/Quadp1-0"
+   "file": "Tempora/Quadp1-0",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quadp1-1",
@@ -757,7 +991,10 @@
    "chants": [
     "chant/gr-adjutor-in-opportunitatibus-222"
    ],
-   "file": "Tempora/Quadp1-1"
+   "file": "Tempora/Quadp1-1",
+   "parts": [
+    "gr"
+   ]
   },
   {
    "id": "tempora-quadp1-2",
@@ -768,7 +1005,10 @@
    "chants": [
     "chant/gr-adjutor-in-opportunitatibus-222"
    ],
-   "file": "Tempora/Quadp1-2"
+   "file": "Tempora/Quadp1-2",
+   "parts": [
+    "gr"
+   ]
   },
   {
    "id": "tempora-quadp1-3",
@@ -779,7 +1019,10 @@
    "chants": [
     "chant/gr-adjutor-in-opportunitatibus-222"
    ],
-   "file": "Tempora/Quadp1-3"
+   "file": "Tempora/Quadp1-3",
+   "parts": [
+    "gr"
+   ]
   },
   {
    "id": "tempora-quadp1-4",
@@ -790,7 +1033,10 @@
    "chants": [
     "chant/gr-adjutor-in-opportunitatibus-222"
    ],
-   "file": "Tempora/Quadp1-4"
+   "file": "Tempora/Quadp1-4",
+   "parts": [
+    "gr"
+   ]
   },
   {
    "id": "tempora-quadp1-5",
@@ -801,7 +1047,10 @@
    "chants": [
     "chant/gr-adjutor-in-opportunitatibus-222"
    ],
-   "file": "Tempora/Quadp1-5"
+   "file": "Tempora/Quadp1-5",
+   "parts": [
+    "gr"
+   ]
   },
   {
    "id": "tempora-quadp1-6",
@@ -812,7 +1061,10 @@
    "chants": [
     "chant/gr-adjutor-in-opportunitatibus-222"
    ],
-   "file": "Tempora/Quadp1-6"
+   "file": "Tempora/Quadp1-6",
+   "parts": [
+    "gr"
+   ]
   },
   {
    "id": "tempora-quadp2-0",
@@ -827,7 +1079,14 @@
     "chant/of-perfice-gressus-265",
     "chant/co-introibo-554"
    ],
-   "file": "Tempora/Quadp2-0"
+   "file": "Tempora/Quadp2-0",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quadp2-1",
@@ -838,7 +1097,10 @@
    "chants": [
     "chant/gr-sciant-gentes-1265"
    ],
-   "file": "Tempora/Quadp2-1"
+   "file": "Tempora/Quadp2-1",
+   "parts": [
+    "gr"
+   ]
   },
   {
    "id": "tempora-quadp2-2",
@@ -849,7 +1111,10 @@
    "chants": [
     "chant/gr-sciant-gentes-1265"
    ],
-   "file": "Tempora/Quadp2-2"
+   "file": "Tempora/Quadp2-2",
+   "parts": [
+    "gr"
+   ]
   },
   {
    "id": "tempora-quadp2-3",
@@ -860,7 +1125,10 @@
    "chants": [
     "chant/gr-sciant-gentes-1265"
    ],
-   "file": "Tempora/Quadp2-3"
+   "file": "Tempora/Quadp2-3",
+   "parts": [
+    "gr"
+   ]
   },
   {
    "id": "tempora-quadp2-4",
@@ -871,7 +1139,10 @@
    "chants": [
     "chant/gr-sciant-gentes-1265"
    ],
-   "file": "Tempora/Quadp2-4"
+   "file": "Tempora/Quadp2-4",
+   "parts": [
+    "gr"
+   ]
   },
   {
    "id": "tempora-quadp2-5",
@@ -882,7 +1153,10 @@
    "chants": [
     "chant/gr-sciant-gentes-1265"
    ],
-   "file": "Tempora/Quadp2-5"
+   "file": "Tempora/Quadp2-5",
+   "parts": [
+    "gr"
+   ]
   },
   {
    "id": "tempora-quadp2-6",
@@ -893,7 +1167,10 @@
    "chants": [
     "chant/gr-sciant-gentes-1265"
    ],
-   "file": "Tempora/Quadp2-6"
+   "file": "Tempora/Quadp2-6",
+   "parts": [
+    "gr"
+   ]
   },
   {
    "id": "tempora-quadp3-0",
@@ -907,7 +1184,13 @@
     "chant/tr-jubilate-domino-1299",
     "chant/co-manducaverunt-677"
    ],
-   "file": "Tempora/Quadp3-0"
+   "file": "Tempora/Quadp3-0",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "co"
+   ]
   },
   {
    "id": "tempora-quadp3-1",
@@ -918,7 +1201,10 @@
    "chants": [
     "chant/gr-tu-es-deus-850"
    ],
-   "file": "Tempora/Quadp3-1"
+   "file": "Tempora/Quadp3-1",
+   "parts": [
+    "gr"
+   ]
   },
   {
    "id": "tempora-quadp3-2",
@@ -929,7 +1215,10 @@
    "chants": [
     "chant/gr-tu-es-deus-850"
    ],
-   "file": "Tempora/Quadp3-2"
+   "file": "Tempora/Quadp3-2",
+   "parts": [
+    "gr"
+   ]
   },
   {
    "id": "tempora-quadp3-3",
@@ -944,7 +1233,14 @@
     "chant/of-exaltabo-te-648",
     "chant/co-qui-meditabitur-582"
    ],
-   "file": "Tempora/Quadp3-3"
+   "file": "Tempora/Quadp3-3",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quadp3-4",
@@ -958,7 +1254,13 @@
     "chant/of-ad-te-domine-962",
     "chant/co-acceptabis-1221"
    ],
-   "file": "Tempora/Quadp3-4"
+   "file": "Tempora/Quadp3-4",
+   "parts": [
+    "in",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quadp3-5",
@@ -971,7 +1273,12 @@
     "chant/of-domine-vivifica-109",
     "chant/co-servite-domino-897"
    ],
-   "file": "Tempora/Quadp3-5"
+   "file": "Tempora/Quadp3-5",
+   "parts": [
+    "in",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quadp3-6",
@@ -985,7 +1292,13 @@
     "chant/of-domine-vivifica-109",
     "chant/co-servite-domino-897"
    ],
-   "file": "Tempora/Quadp3-6"
+   "file": "Tempora/Quadp3-6",
+   "parts": [
+    "in",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad1-0",
@@ -1000,7 +1313,14 @@
     "chant/of-scapulis-suis-294",
     "chant/co-scapulis-suis-1100"
    ],
-   "file": "Tempora/Quad1-0"
+   "file": "Tempora/Quad1-0",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad1-1",
@@ -1015,7 +1335,14 @@
     "chant/of-levabo-oculos-1060",
     "chant/co-amen-dico-vobis-quod-uni-623"
    ],
-   "file": "Tempora/Quad1-1"
+   "file": "Tempora/Quad1-1",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad1-2",
@@ -1029,7 +1356,13 @@
     "chant/of-in-te-speravi-967",
     "chant/co-cum-invocarem-te-384"
    ],
-   "file": "Tempora/Quad1-2"
+   "file": "Tempora/Quad1-2",
+   "parts": [
+    "in",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad1-3",
@@ -1044,7 +1377,14 @@
     "chant/of-meditabor-810",
     "chant/co-intellige-clamorem-373"
    ],
-   "file": "Tempora/Quad1-3"
+   "file": "Tempora/Quad1-3",
+   "parts": [
+    "in",
+    "gr",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad1-4",
@@ -1058,7 +1398,13 @@
     "chant/of-immittet-angelus-747",
     "chant/co-panis-quem-ego-782"
    ],
-   "file": "Tempora/Quad1-4"
+   "file": "Tempora/Quad1-4",
+   "parts": [
+    "in",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad1-5",
@@ -1073,7 +1419,14 @@
     "chant/of-benedic-anima-mea-1359",
     "chant/co-erubescant-et-conturbentur-484"
    ],
-   "file": "Tempora/Quad1-5"
+   "file": "Tempora/Quad1-5",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad1-6",
@@ -1091,7 +1444,17 @@
     "chant/of-domine-deus-salutis-542",
     "chant/co-domine-deus-meus-131"
    ],
-   "file": "Tempora/Quad1-6"
+   "file": "Tempora/Quad1-6",
+   "parts": [
+    "in",
+    "gr",
+    "gr",
+    "gr",
+    "gr",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad2-0",
@@ -1106,7 +1469,14 @@
     "chant/of-meditabor-810",
     "chant/co-intellige-clamorem-373"
    ],
-   "file": "Tempora/Quad2-0"
+   "file": "Tempora/Quad2-0",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad2-1",
@@ -1121,7 +1491,14 @@
     "chant/of-benedicam-dominum-143",
     "chant/co-domine-dominus-noster-998"
    ],
-   "file": "Tempora/Quad2-1"
+   "file": "Tempora/Quad2-1",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad2-2",
@@ -1135,7 +1512,13 @@
     "chant/of-miserere-mihi-922",
     "chant/co-narrabo-omnia-639"
    ],
-   "file": "Tempora/Quad2-2"
+   "file": "Tempora/Quad2-2",
+   "parts": [
+    "in",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad2-3",
@@ -1150,7 +1533,14 @@
     "chant/of-ad-te-domine-962",
     "chant/co-justus-dominus-268"
    ],
-   "file": "Tempora/Quad2-3"
+   "file": "Tempora/Quad2-3",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad2-4",
@@ -1163,7 +1553,12 @@
     "chant/gr-propitius-esto-332",
     "chant/co-qui-manducat-798"
    ],
-   "file": "Tempora/Quad2-4"
+   "file": "Tempora/Quad2-4",
+   "parts": [
+    "in",
+    "gr",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad2-5",
@@ -1178,7 +1573,14 @@
     "chant/of-domine-in-auxilium-993",
     "chant/co-tu-domine-servabis-1159"
    ],
-   "file": "Tempora/Quad2-5"
+   "file": "Tempora/Quad2-5",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad2-6",
@@ -1192,7 +1594,13 @@
     "chant/of-illumina-708",
     "chant/co-oportet-te-fili-1066"
    ],
-   "file": "Tempora/Quad2-6"
+   "file": "Tempora/Quad2-6",
+   "parts": [
+    "in",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad3-0",
@@ -1207,7 +1615,14 @@
     "chant/of-iustitiae-domini-14985",
     "chant/co-passer-invenit-1090"
    ],
-   "file": "Tempora/Quad3-0"
+   "file": "Tempora/Quad3-0",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad3-1",
@@ -1222,7 +1637,14 @@
     "chant/of-exaudi-deus-842",
     "chant/co-quis-dabit-931"
    ],
-   "file": "Tempora/Quad3-1"
+   "file": "Tempora/Quad3-1",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad3-2",
@@ -1236,7 +1658,13 @@
     "chant/of-dextera-domini-47",
     "chant/co-domine-quis-habitabit-1340"
    ],
-   "file": "Tempora/Quad3-2"
+   "file": "Tempora/Quad3-2",
+   "parts": [
+    "in",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad3-3",
@@ -1251,7 +1679,14 @@
     "chant/of-domine-fac-mecum-1369",
     "chant/co-notas-mihi-fecisti-531"
    ],
-   "file": "Tempora/Quad3-3"
+   "file": "Tempora/Quad3-3",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad3-4",
@@ -1265,7 +1700,13 @@
     "chant/of-si-ambulavero-18132",
     "chant/co-tu-mandasti-479"
    ],
-   "file": "Tempora/Quad3-4"
+   "file": "Tempora/Quad3-4",
+   "parts": [
+    "in",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad3-5",
@@ -1280,7 +1721,14 @@
     "chant/of-intende-voci-293",
     "chant/co-qui-biberit-894"
    ],
-   "file": "Tempora/Quad3-5"
+   "file": "Tempora/Quad3-5",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad3-6",
@@ -1294,7 +1742,13 @@
     "chant/of-gressus-meos-1099",
     "chant/co-nemo-te-condemnavit-1010"
    ],
-   "file": "Tempora/Quad3-6"
+   "file": "Tempora/Quad3-6",
+   "parts": [
+    "in",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad4-0",
@@ -1309,7 +1763,14 @@
     "chant/of-laudate-dominum-899",
     "chant/co-jerusalem-quae-1353"
    ],
-   "file": "Tempora/Quad4-0"
+   "file": "Tempora/Quad4-0",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad4-1",
@@ -1322,7 +1783,12 @@
     "chant/tr-domine-non-secundum-425",
     "chant/co-ab-occultis-meis-1316"
    ],
-   "file": "Tempora/Quad4-1"
+   "file": "Tempora/Quad4-1",
+   "parts": [
+    "gr",
+    "tr",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad4-2",
@@ -1336,7 +1802,13 @@
     "chant/of-exspectans-182",
     "chant/co-laetabimur-1296"
    ],
-   "file": "Tempora/Quad4-2"
+   "file": "Tempora/Quad4-2",
+   "parts": [
+    "in",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad4-3",
@@ -1351,7 +1823,14 @@
     "chant/of-benedicite-gentes-860",
     "chant/co-lutum-fecit-989"
    ],
-   "file": "Tempora/Quad4-3"
+   "file": "Tempora/Quad4-3",
+   "parts": [
+    "gr",
+    "gr",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad4-4",
@@ -1365,7 +1844,13 @@
     "chant/of-domine-ad-adjuvandum-731",
     "chant/co-domine-memorabor-1318"
    ],
-   "file": "Tempora/Quad4-4"
+   "file": "Tempora/Quad4-4",
+   "parts": [
+    "in",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad4-5",
@@ -1380,7 +1865,14 @@
     "chant/of-populum-humilem-1080",
     "chant/co-videns-dominus-704"
    ],
-   "file": "Tempora/Quad4-5"
+   "file": "Tempora/Quad4-5",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad4-6",
@@ -1394,7 +1886,13 @@
     "chant/of-factus-est-223",
     "chant/co-dominus-regit-me-278"
    ],
-   "file": "Tempora/Quad4-6"
+   "file": "Tempora/Quad4-6",
+   "parts": [
+    "in",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad5-0",
@@ -1409,7 +1907,14 @@
     "chant/of-confitebor-tibi-in-toto-318",
     "chant/co-hoc-corpus-726"
    ],
-   "file": "Tempora/Quad5-0"
+   "file": "Tempora/Quad5-0",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad5-1",
@@ -1424,7 +1929,14 @@
     "chant/of-domine-convertere-848",
     "chant/co-dominus-virtutum-81"
    ],
-   "file": "Tempora/Quad5-1"
+   "file": "Tempora/Quad5-1",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad5-2",
@@ -1438,7 +1950,13 @@
     "chant/of-sperent-in-te-1328",
     "chant/co-redime-me-433"
    ],
-   "file": "Tempora/Quad5-2"
+   "file": "Tempora/Quad5-2",
+   "parts": [
+    "in",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad5-3",
@@ -1453,7 +1971,14 @@
     "chant/of-eripe-me-de-inimicis-deus-245",
     "chant/co-lavabo-141"
    ],
-   "file": "Tempora/Quad5-3"
+   "file": "Tempora/Quad5-3",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad5-4",
@@ -1467,7 +1992,13 @@
     "chant/of-super-flumina-812",
     "chant/co-memento-verbi-tui-696"
    ],
-   "file": "Tempora/Quad5-4"
+   "file": "Tempora/Quad5-4",
+   "parts": [
+    "in",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad5-5",
@@ -1493,6 +2024,16 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "al",
+    "se",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -1507,7 +2048,13 @@
     "chant/of-benedictus-es-et-non-tradas-408",
     "chant/co-ne-tradideris-me-1158"
    ],
-   "file": "Tempora/Quad5-6"
+   "file": "Tempora/Quad5-6",
+   "parts": [
+    "in",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad6-0",
@@ -1522,7 +2069,14 @@
     "chant/of-improperium-et-dederunt-486",
     "chant/co-pater-si-non-potest-650"
    ],
-   "file": "Tempora/Quad6-0"
+   "file": "Tempora/Quad6-0",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad6-1",
@@ -1537,7 +2091,14 @@
     "chant/of-eripe-me-de-inimicis-domine-411",
     "chant/co-erubescant-et-revereantur-196"
    ],
-   "file": "Tempora/Quad6-1"
+   "file": "Tempora/Quad6-1",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad6-2",
@@ -1551,7 +2112,13 @@
     "chant/of-custodi-me-1322",
     "chant/co-adversum-me-397"
    ],
-   "file": "Tempora/Quad6-2"
+   "file": "Tempora/Quad6-2",
+   "parts": [
+    "in",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad6-3",
@@ -1566,7 +2133,14 @@
     "chant/of-domine-exaudi-ne-avertas-867",
     "chant/co-potum-meum-588"
    ],
-   "file": "Tempora/Quad6-3"
+   "file": "Tempora/Quad6-3",
+   "parts": [
+    "in",
+    "gr",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-quad6-4",
@@ -1580,7 +2154,13 @@
     "chant/of-dextera-domini-47",
     "chant/co-dominus-jesus-140"
    ],
-   "file": "Tempora/Quad6-4"
+   "file": "Tempora/Quad6-4",
+   "parts": [
+    "in",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc0-0",
@@ -1596,7 +2176,15 @@
     "chant/of-terra-tremuit-725",
     "chant/co-pascha-nostrum-952"
    ],
-   "file": "Tempora/Pasc0-0"
+   "file": "Tempora/Pasc0-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "se",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc0-1",
@@ -1612,7 +2200,15 @@
     "chant/of-angelus-domini-descendit-789",
     "chant/co-surrexit-dominus-et-apparuit-121"
    ],
-   "file": "Tempora/Pasc0-1"
+   "file": "Tempora/Pasc0-1",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "se",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc0-2",
@@ -1628,7 +2224,15 @@
     "chant/of-intonuit-de-caelo-869",
     "chant/co-si-consurrexistis-243"
    ],
-   "file": "Tempora/Pasc0-2"
+   "file": "Tempora/Pasc0-2",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "se",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc0-3",
@@ -1644,7 +2248,15 @@
     "chant/of-portas-caeli-1361",
     "chant/co-christus-resurgens-593"
    ],
-   "file": "Tempora/Pasc0-3"
+   "file": "Tempora/Pasc0-3",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "se",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc0-4",
@@ -1660,7 +2272,15 @@
     "chant/of-in-die-solemnitatis-1129",
     "chant/co-populus-acquisitionis-1219"
    ],
-   "file": "Tempora/Pasc0-4"
+   "file": "Tempora/Pasc0-4",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "se",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc0-5",
@@ -1676,7 +2296,15 @@
     "chant/of-erit-vobis-151",
     "chant/co-data-est-mihi-1260"
    ],
-   "file": "Tempora/Pasc0-5"
+   "file": "Tempora/Pasc0-5",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "se",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc0-6",
@@ -1692,7 +2320,15 @@
     "chant/of-benedictus-qui-venit-941",
     "chant/co-omnes-qui-in-christo-1293"
    ],
-   "file": "Tempora/Pasc0-6"
+   "file": "Tempora/Pasc0-6",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "se",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc1-0",
@@ -1707,7 +2343,14 @@
     "chant/of-angelus-domini-descendit-789",
     "chant/co-mitte-manum-alleluia-953"
    ],
-   "file": "Tempora/Pasc1-0"
+   "file": "Tempora/Pasc1-0",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc2-0",
@@ -1722,7 +2365,14 @@
     "chant/of-deus-deus-meus-924",
     "chant/co-ego-sum-pastor-95"
    ],
-   "file": "Tempora/Pasc2-0"
+   "file": "Tempora/Pasc2-0",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc2-3",
@@ -1737,7 +2387,14 @@
     "chant/of-lauda-jerusalem-845",
     "chant/co-jacob-autem-534"
    ],
-   "file": "Tempora/Pasc2-3"
+   "file": "Tempora/Pasc2-3",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc3-0",
@@ -1752,7 +2409,14 @@
     "chant/of-lauda-anima-668",
     "chant/co-modicum-813"
    ],
-   "file": "Tempora/Pasc3-0"
+   "file": "Tempora/Pasc3-0",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc4-0",
@@ -1766,7 +2430,13 @@
     "chant/al-christus-resurgens-1348",
     "chant/of-jubilate-deo-universa-937"
    ],
-   "file": "Tempora/Pasc4-0"
+   "file": "Tempora/Pasc4-0",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "of"
+   ]
   },
   {
    "id": "tempora-pasc5-0",
@@ -1781,7 +2451,14 @@
     "chant/of-benedicite-gentes-860",
     "chant/co-cantate-domino-579"
    ],
-   "file": "Tempora/Pasc5-0"
+   "file": "Tempora/Pasc5-0",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc5-1",
@@ -1794,7 +2471,12 @@
     "chant/of-confitebor-domino-cum-alleluia-584",
     "chant/co-petite-cum-alleluia-364"
    ],
-   "file": "Tempora/Pasc5-1"
+   "file": "Tempora/Pasc5-1",
+   "parts": [
+    "in",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc5-3",
@@ -1809,7 +2491,14 @@
     "chant/of-benedicite-gentes-860",
     "chant/co-cantate-domino-579"
    ],
-   "file": "Tempora/Pasc5-3"
+   "file": "Tempora/Pasc5-3",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc5-4",
@@ -1824,7 +2513,14 @@
     "chant/of-ascendit-deus-211",
     "chant/co-psallite-domino-263"
    ],
-   "file": "Tempora/Pasc5-4"
+   "file": "Tempora/Pasc5-4",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc5-5",
@@ -1839,7 +2535,14 @@
     "chant/of-ascendit-deus-211",
     "chant/co-psallite-domino-263"
    ],
-   "file": "Tempora/Pasc5-5"
+   "file": "Tempora/Pasc5-5",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc5-6",
@@ -1854,7 +2557,14 @@
     "chant/of-ascendit-deus-211",
     "chant/co-psallite-domino-263"
    ],
-   "file": "Tempora/Pasc5-6"
+   "file": "Tempora/Pasc5-6",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc6-0",
@@ -1869,7 +2579,14 @@
     "chant/of-ascendit-deus-211",
     "chant/co-pater-cum-essem-1091"
    ],
-   "file": "Tempora/Pasc6-0"
+   "file": "Tempora/Pasc6-0",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc6-1",
@@ -1884,7 +2601,14 @@
     "chant/of-ascendit-deus-211",
     "chant/co-psallite-domino-263"
    ],
-   "file": "Tempora/Pasc6-1"
+   "file": "Tempora/Pasc6-1",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc6-2",
@@ -1899,7 +2623,14 @@
     "chant/of-ascendit-deus-211",
     "chant/co-psallite-domino-263"
    ],
-   "file": "Tempora/Pasc6-2"
+   "file": "Tempora/Pasc6-2",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc6-3",
@@ -1914,7 +2645,14 @@
     "chant/of-ascendit-deus-211",
     "chant/co-psallite-domino-263"
    ],
-   "file": "Tempora/Pasc6-3"
+   "file": "Tempora/Pasc6-3",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc6-4",
@@ -1929,7 +2667,14 @@
     "chant/of-ascendit-deus-211",
     "chant/co-psallite-domino-263"
    ],
-   "file": "Tempora/Pasc6-4"
+   "file": "Tempora/Pasc6-4",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc6-6",
@@ -1941,7 +2686,11 @@
     "chant/of-emitte-spiritum-1176",
     "chant/co-ultimo-festivitatis-255"
    ],
-   "file": "Tempora/Pasc6-6"
+   "file": "Tempora/Pasc6-6",
+   "parts": [
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc7-0",
@@ -1957,7 +2706,15 @@
     "chant/of-confirma-hoc-cum-alleluia-361",
     "chant/co-factus-est-cum-alleluia-1041"
    ],
-   "file": "Tempora/Pasc7-0"
+   "file": "Tempora/Pasc7-0",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "se",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc7-1",
@@ -1973,7 +2730,15 @@
     "chant/of-intonuit-de-caelo-869",
     "chant/co-spiritus-sanctus-1151"
    ],
-   "file": "Tempora/Pasc7-1"
+   "file": "Tempora/Pasc7-1",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "se",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc7-2",
@@ -1989,7 +2754,15 @@
     "chant/of-portas-caeli-1361",
     "chant/co-spiritus-qui-333"
    ],
-   "file": "Tempora/Pasc7-2"
+   "file": "Tempora/Pasc7-2",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "se",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc7-3",
@@ -2002,7 +2775,12 @@
     "chant/se-veni-sancte-spiritus-et-emitte-68",
     "chant/of-meditabor-alleluia-1218"
    ],
-   "file": "Tempora/Pasc7-3"
+   "file": "Tempora/Pasc7-3",
+   "parts": [
+    "al",
+    "se",
+    "of"
+   ]
   },
   {
    "id": "tempora-pasc7-4",
@@ -2018,7 +2796,15 @@
     "chant/of-confirma-hoc-cum-alleluia-361",
     "chant/co-factus-est-cum-alleluia-1041"
    ],
-   "file": "Tempora/Pasc7-4"
+   "file": "Tempora/Pasc7-4",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "se",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc7-5",
@@ -2034,7 +2820,15 @@
     "chant/of-lauda-anima-668",
     "chant/co-non-vos-relinquam-981"
    ],
-   "file": "Tempora/Pasc7-5"
+   "file": "Tempora/Pasc7-5",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "se",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pasc7-6",
@@ -2049,7 +2843,14 @@
     "chant/of-domine-deus-salutis-alleluia-987",
     "chant/co-spiritus-ubi-190"
    ],
-   "file": "Tempora/Pasc7-6"
+   "file": "Tempora/Pasc7-6",
+   "parts": [
+    "in",
+    "gr",
+    "se",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent01-0",
@@ -2064,7 +2865,14 @@
     "chant/of-benedictus-sit-1303",
     "chant/co-benedicimus-deum-391"
    ],
-   "file": "Tempora/Pent01-0"
+   "file": "Tempora/Pent01-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent01-4",
@@ -2080,7 +2888,15 @@
     "chant/of-sacerdotes-domini-645",
     "chant/co-quotiescumque-577"
    ],
-   "file": "Tempora/Pent01-4"
+   "file": "Tempora/Pent01-4",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "se",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent02-0",
@@ -2095,7 +2911,14 @@
     "chant/of-domine-convertere-848",
     "chant/co-cantabo-domino-794"
    ],
-   "file": "Tempora/Pent02-0"
+   "file": "Tempora/Pent02-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent02-5",
@@ -2111,7 +2934,15 @@
     "chant/of-improperium-et-non-inveni-628",
     "chant/co-unus-militum-1356"
    ],
-   "file": "Tempora/Pent02-5"
+   "file": "Tempora/Pent02-5",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent03-0",
@@ -2126,7 +2957,14 @@
     "chant/of-sperent-in-te-1328",
     "chant/co-dico-vobis-1058"
    ],
-   "file": "Tempora/Pent03-0"
+   "file": "Tempora/Pent03-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent04-0",
@@ -2141,7 +2979,14 @@
     "chant/of-illumina-708",
     "chant/co-dominus-firmamentum-512"
    ],
-   "file": "Tempora/Pent04-0"
+   "file": "Tempora/Pent04-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent05-0",
@@ -2156,7 +3001,14 @@
     "chant/of-benedicam-dominum-143",
     "chant/co-unam-petii-574"
    ],
-   "file": "Tempora/Pent05-0"
+   "file": "Tempora/Pent05-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent06-0",
@@ -2171,7 +3023,14 @@
     "chant/of-perfice-gressus-265",
     "chant/co-circuibo-1079"
    ],
-   "file": "Tempora/Pent06-0"
+   "file": "Tempora/Pent06-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent07-0",
@@ -2186,7 +3045,14 @@
     "chant/of-sicut-in-holocausto-675",
     "chant/co-inclina-aurem-tuam-339"
    ],
-   "file": "Tempora/Pent07-0"
+   "file": "Tempora/Pent07-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent08-0",
@@ -2201,7 +3067,14 @@
     "chant/of-populum-humilem-1080",
     "chant/co-gustate-1203"
    ],
-   "file": "Tempora/Pent08-0"
+   "file": "Tempora/Pent08-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent09-0",
@@ -2216,7 +3089,14 @@
     "chant/of-iustitiae-domini-14985",
     "chant/co-qui-manducat-798"
    ],
-   "file": "Tempora/Pent09-0"
+   "file": "Tempora/Pent09-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent10-0",
@@ -2231,7 +3111,14 @@
     "chant/of-ad-te-domine-962",
     "chant/co-acceptabis-1221"
    ],
-   "file": "Tempora/Pent10-0"
+   "file": "Tempora/Pent10-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent11-0",
@@ -2246,7 +3133,14 @@
     "chant/of-exaltabo-te-648",
     "chant/co-honora-dominum-1145"
    ],
-   "file": "Tempora/Pent11-0"
+   "file": "Tempora/Pent11-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent12-0",
@@ -2260,7 +3154,13 @@
     "chant/al-domine-deus-salutis-1082",
     "chant/co-de-fructu-1245"
    ],
-   "file": "Tempora/Pent12-0"
+   "file": "Tempora/Pent12-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent13-0",
@@ -2275,7 +3175,14 @@
     "chant/of-in-te-speravi-967",
     "chant/co-panem-de-caelo-388"
    ],
-   "file": "Tempora/Pent13-0"
+   "file": "Tempora/Pent13-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent14-0",
@@ -2290,7 +3197,14 @@
     "chant/of-immittet-angelus-747",
     "chant/co-primum-quaerite-868"
    ],
-   "file": "Tempora/Pent14-0"
+   "file": "Tempora/Pent14-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent15-0",
@@ -2305,7 +3219,14 @@
     "chant/of-exspectans-182",
     "chant/co-panis-quem-ego-782"
    ],
-   "file": "Tempora/Pent15-0"
+   "file": "Tempora/Pent15-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent16-0",
@@ -2320,7 +3241,14 @@
     "chant/of-domine-in-auxilium-993",
     "chant/co-domine-memorabor-1318"
    ],
-   "file": "Tempora/Pent16-0"
+   "file": "Tempora/Pent16-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent17-0",
@@ -2335,7 +3263,14 @@
     "chant/of-oravi-deum-652",
     "chant/co-vovete-1134"
    ],
-   "file": "Tempora/Pent17-0"
+   "file": "Tempora/Pent17-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent18-0",
@@ -2350,7 +3285,14 @@
     "chant/of-sanctificavit-838",
     "chant/co-tollite-hostias-404"
    ],
-   "file": "Tempora/Pent18-0"
+   "file": "Tempora/Pent18-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent19-0",
@@ -2365,7 +3307,14 @@
     "chant/of-si-ambulavero-18132",
     "chant/co-tu-mandasti-479"
    ],
-   "file": "Tempora/Pent19-0"
+   "file": "Tempora/Pent19-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent20-0",
@@ -2380,7 +3329,14 @@
     "chant/of-super-flumina-812",
     "chant/co-memento-verbi-tui-696"
    ],
-   "file": "Tempora/Pent20-0"
+   "file": "Tempora/Pent20-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent21-0",
@@ -2395,7 +3351,14 @@
     "chant/of-vir-erat-1363",
     "chant/co-in-salutari-1290"
    ],
-   "file": "Tempora/Pent21-0"
+   "file": "Tempora/Pent21-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent22-0",
@@ -2410,7 +3373,14 @@
     "chant/of-recordare-mei-18135",
     "chant/co-ego-clamavi-464"
    ],
-   "file": "Tempora/Pent22-0"
+   "file": "Tempora/Pent22-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent23-0",
@@ -2425,7 +3395,102 @@
     "chant/of-de-profundis-986",
     "chant/co-amen-dico-vobis-quidquid-592"
    ],
-   "file": "Tempora/Pent23-0"
+   "file": "Tempora/Pent23-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
+  },
+  {
+   "id": "tempora-pentepi3-0",
+   "title": {
+    "la": "Dominica III quæ superfuit Post Epiphaniam"
+   },
+   "group": "pentecostes",
+   "chants": [
+    "chant/in-dicit-dominus-ego-735",
+    "chant/gr-liberasti-nos-395",
+    "chant/al-de-profundis-331",
+    "chant/of-de-profundis-986",
+    "chant/co-amen-dico-vobis-quidquid-592"
+   ],
+   "file": "Tempora/PentEpi3-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
+  },
+  {
+   "id": "tempora-pentepi4-0",
+   "title": {
+    "la": "Dominica IV quæ superfuit Post Epiphaniam"
+   },
+   "group": "pentecostes",
+   "chants": [
+    "chant/in-dicit-dominus-ego-735",
+    "chant/gr-liberasti-nos-395",
+    "chant/al-de-profundis-331",
+    "chant/of-de-profundis-986",
+    "chant/co-amen-dico-vobis-quidquid-592"
+   ],
+   "file": "Tempora/PentEpi4-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
+  },
+  {
+   "id": "tempora-pentepi5-0",
+   "title": {
+    "la": "Dominica V quæ superfuit Post Epiphaniam"
+   },
+   "group": "pentecostes",
+   "chants": [
+    "chant/in-dicit-dominus-ego-735",
+    "chant/gr-liberasti-nos-395",
+    "chant/al-de-profundis-331",
+    "chant/of-de-profundis-986",
+    "chant/co-amen-dico-vobis-quidquid-592"
+   ],
+   "file": "Tempora/PentEpi5-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
+  },
+  {
+   "id": "tempora-pentepi6-0",
+   "title": {
+    "la": "Dominica VI quæ superfuit Post Epiphaniam"
+   },
+   "group": "pentecostes",
+   "chants": [
+    "chant/in-dicit-dominus-ego-735",
+    "chant/gr-liberasti-nos-395",
+    "chant/al-de-profundis-331",
+    "chant/of-de-profundis-986",
+    "chant/co-amen-dico-vobis-quidquid-592"
+   ],
+   "file": "Tempora/PentEpi6-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "tempora-pent24-0",
@@ -2440,7 +3505,14 @@
     "chant/of-de-profundis-986",
     "chant/co-amen-dico-vobis-quidquid-592"
    ],
-   "file": "Tempora/Pent24-0"
+   "file": "Tempora/Pent24-0",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-01-14",
@@ -2457,7 +3529,14 @@
    ],
    "file": "Sancti/01-14",
    "common": "C4a",
-   "date": "01-14"
+   "date": "01-14",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-01-15",
@@ -2474,7 +3553,14 @@
    ],
    "file": "Sancti/01-15",
    "common": "C5",
-   "date": "01-15"
+   "date": "01-15",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-01-16",
@@ -2491,7 +3577,14 @@
    ],
    "file": "Sancti/01-16",
    "common": "C2b",
-   "date": "01-16"
+   "date": "01-16",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-01-17",
@@ -2508,7 +3601,14 @@
    ],
    "file": "Sancti/01-17",
    "common": "C5b",
-   "date": "01-17"
+   "date": "01-17",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-01-18r",
@@ -2534,6 +3634,14 @@
       "la": "Post Septuagesimam"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "of",
+    "co"
    ]
   },
   {
@@ -2560,6 +3668,14 @@
       "la": "Post Septuagesimam"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "of",
+    "co"
    ]
   },
   {
@@ -2586,6 +3702,14 @@
       "la": "Post Septuagesimam"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "of",
+    "co"
    ]
   },
   {
@@ -2612,6 +3736,14 @@
       "la": "Post Septuagesimam"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "of",
+    "co"
    ]
   },
   {
@@ -2629,7 +3761,14 @@
    ],
    "file": "Sancti/01-22",
    "common": "C3",
-   "date": "01-22"
+   "date": "01-22",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-01-23",
@@ -2646,7 +3785,14 @@
    ],
    "file": "Sancti/01-23",
    "common": "C5",
-   "date": "01-23"
+   "date": "01-23",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-01-24",
@@ -2663,7 +3809,14 @@
    ],
    "file": "Sancti/01-24",
    "common": "C2",
-   "date": "01-24"
+   "date": "01-24",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-01-25r",
@@ -2688,6 +3841,14 @@
       "la": "Post Septuagesimam"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "of",
+    "co"
    ]
   },
   {
@@ -2705,7 +3866,14 @@
    ],
    "file": "Sancti/01-26",
    "common": "C2",
-   "date": "01-26"
+   "date": "01-26",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-01-27",
@@ -2731,6 +3899,14 @@
       "la": "Post Septuagesimam"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "of",
+    "co"
    ]
   },
   {
@@ -2748,7 +3924,14 @@
    ],
    "file": "Sancti/01-28",
    "common": "C5",
-   "date": "01-28"
+   "date": "01-28",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-01-29",
@@ -2765,7 +3948,14 @@
    ],
    "file": "Sancti/01-29",
    "common": "C4a",
-   "date": "01-29"
+   "date": "01-29",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-01-30",
@@ -2791,6 +3981,14 @@
       "la": "Post Septuagesimam"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "of",
+    "co"
    ]
   },
   {
@@ -2817,6 +4015,14 @@
       "la": "Post Septuagesimam"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "of",
+    "co"
    ]
   },
   {
@@ -2834,7 +4040,14 @@
    ],
    "file": "Sancti/02-01",
    "common": "C2",
-   "date": "02-01"
+   "date": "02-01",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-02-02",
@@ -2851,7 +4064,14 @@
    ],
    "file": "Sancti/02-02",
    "common": "C11",
-   "date": "02-02"
+   "date": "02-02",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-02-03",
@@ -2868,7 +4088,14 @@
    ],
    "file": "Sancti/02-03",
    "common": "C2",
-   "date": "02-03"
+   "date": "02-03",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-02-04",
@@ -2885,7 +4112,14 @@
    ],
    "file": "Sancti/02-04",
    "common": "C4",
-   "date": "02-04"
+   "date": "02-04",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-02-05",
@@ -2911,6 +4145,14 @@
       "la": "Post Septuagesimam"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "of",
+    "co"
    ]
   },
   {
@@ -2928,7 +4170,14 @@
    ],
    "file": "Sancti/02-06",
    "common": "C4",
-   "date": "02-06"
+   "date": "02-06",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-02-07",
@@ -2945,7 +4194,14 @@
    ],
    "file": "Sancti/02-07",
    "common": "C5b",
-   "date": "02-07"
+   "date": "02-07",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-02-08",
@@ -2962,7 +4218,14 @@
    ],
    "file": "Sancti/02-08",
    "common": "C5",
-   "date": "02-08"
+   "date": "02-08",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-02-09",
@@ -2979,7 +4242,14 @@
    ],
    "file": "Sancti/02-09",
    "common": "C4a",
-   "date": "02-09"
+   "date": "02-09",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-02-10",
@@ -3005,6 +4275,14 @@
       "la": "Post Septuagesimam"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "of",
+    "co"
    ]
   },
   {
@@ -3031,6 +4309,14 @@
       "la": "Post Septuagesimam"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "of",
+    "co"
    ]
   },
   {
@@ -3048,7 +4334,14 @@
    ],
    "file": "Sancti/02-12",
    "common": "C5c",
-   "date": "02-12"
+   "date": "02-12",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-02-14",
@@ -3075,6 +4368,15 @@
       "la": "Post Septuagesimam"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "tr",
+    "of",
+    "co"
    ]
   },
   {
@@ -3092,7 +4394,14 @@
    ],
    "file": "Sancti/02-15",
    "common": "C3a",
-   "date": "02-15"
+   "date": "02-15",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-02-18",
@@ -3109,7 +4418,14 @@
    ],
    "file": "Sancti/02-18",
    "common": "C2",
-   "date": "02-18"
+   "date": "02-18",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-02-22",
@@ -3135,6 +4451,14 @@
       "la": "Post Septuagesimam"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "of",
+    "co"
    ]
   },
   {
@@ -3152,7 +4476,14 @@
    ],
    "file": "Sancti/02-23r",
    "common": "C4a",
-   "date": "02-23"
+   "date": "02-23",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-02-24",
@@ -3177,6 +4508,13 @@
       "la": "Post Septuagesimam"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "of",
+    "co"
    ]
   },
   {
@@ -3203,6 +4541,14 @@
       "la": "Post Septuagesimam"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "of",
+    "co"
    ]
   },
   {
@@ -3220,7 +4566,14 @@
    ],
    "file": "Sancti/03-04",
    "common": "C5",
-   "date": "03-04"
+   "date": "03-04",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-03-06",
@@ -3246,6 +4599,14 @@
       "la": "Post Septuagesimam"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "of",
+    "co"
    ]
   },
   {
@@ -3263,7 +4624,14 @@
    ],
    "file": "Sancti/03-07",
    "common": "C5a",
-   "date": "03-07"
+   "date": "03-07",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-03-08",
@@ -3280,7 +4648,14 @@
    ],
    "file": "Sancti/03-08",
    "common": "C5",
-   "date": "03-08"
+   "date": "03-08",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-03-09",
@@ -3305,6 +4680,13 @@
       "la": "Post Septuagesimam"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "of"
    ]
   },
   {
@@ -3322,7 +4704,14 @@
    ],
    "file": "Sancti/03-10",
    "common": "C3",
-   "date": "03-10"
+   "date": "03-10",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-03-12",
@@ -3339,7 +4728,14 @@
    ],
    "file": "Sancti/03-12",
    "common": "C4a",
-   "date": "03-12"
+   "date": "03-12",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-03-17",
@@ -3356,7 +4752,14 @@
    ],
    "file": "Sancti/03-17",
    "common": "C4",
-   "date": "03-17"
+   "date": "03-17",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-03-18",
@@ -3373,7 +4776,14 @@
    ],
    "file": "Sancti/03-18",
    "common": "C4a",
-   "date": "03-18"
+   "date": "03-18",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-03-19",
@@ -3389,7 +4799,14 @@
     "chant/co-joseph-fili-david-139"
    ],
    "file": "Sancti/03-19",
-   "date": "03-19"
+   "date": "03-19",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-03-21",
@@ -3406,7 +4823,14 @@
    ],
    "file": "Sancti/03-21",
    "common": "C5b",
-   "date": "03-21"
+   "date": "03-21",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-03-24",
@@ -3432,6 +4856,15 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -3465,6 +4898,15 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "tr",
+    "tr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -3499,6 +4941,16 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -3532,6 +4984,15 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -3558,6 +5019,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -3584,6 +5053,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -3610,6 +5087,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -3636,6 +5121,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -3670,6 +5163,16 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "tr",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -3695,6 +5198,13 @@
       "la": "Post Septuagesimam"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "of",
+    "co"
    ]
   },
   {
@@ -3721,6 +5231,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -3747,6 +5265,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -3773,6 +5299,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -3807,6 +5341,16 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "tr",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -3841,6 +5385,16 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "tr",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -3858,7 +5412,14 @@
    ],
    "file": "Sancti/04-25",
    "common": "C1ap",
-   "date": "04-25"
+   "date": "04-25",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-04-26",
@@ -3884,6 +5445,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -3910,6 +5479,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -3929,7 +5506,16 @@
    ],
    "file": "Sancti/04-28",
    "common": "C5",
-   "date": "04-28"
+   "date": "04-28",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-04-29",
@@ -3955,6 +5541,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -3981,6 +5575,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -3997,7 +5599,14 @@
     "chant/co-unde-huic-sapientia-haec-28"
    ],
    "file": "Sancti/05-01r",
-   "date": "05-01"
+   "date": "05-01",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-05-02",
@@ -4015,7 +5624,15 @@
    ],
    "file": "Sancti/05-02",
    "common": "C4a",
-   "date": "05-02"
+   "date": "05-02",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-05-03r",
@@ -4032,7 +5649,14 @@
    ],
    "file": "Sancti/05-03r",
    "common": "C3",
-   "date": "05-03"
+   "date": "05-03",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-05-04",
@@ -4057,6 +5681,13 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of"
    ]
   },
   {
@@ -4083,6 +5714,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -4100,7 +5739,14 @@
    ],
    "file": "Sancti/05-07",
    "common": "C2",
-   "date": "05-07"
+   "date": "05-07",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-05-09",
@@ -4126,6 +5772,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -4152,6 +5806,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -4169,7 +5831,14 @@
    ],
    "file": "Sancti/05-11r",
    "common": "C1",
-   "date": "05-11"
+   "date": "05-11",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-05-12",
@@ -4186,7 +5855,14 @@
    ],
    "file": "Sancti/05-12",
    "common": "C3a",
-   "date": "05-12"
+   "date": "05-12",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-05-13",
@@ -4212,6 +5888,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -4238,6 +5922,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -4255,7 +5947,14 @@
    ],
    "file": "Sancti/05-15",
    "common": "C5",
-   "date": "05-15"
+   "date": "05-15",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-05-16",
@@ -4281,6 +5980,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -4307,6 +6014,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -4333,6 +6048,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -4359,6 +6082,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -4385,6 +6116,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -4398,7 +6137,10 @@
    ],
    "file": "Sancti/05-25",
    "common": "C4b",
-   "date": "05-25"
+   "date": "05-25",
+   "parts": [
+    "in"
+   ]
   },
   {
    "id": "sancti-05-26",
@@ -4424,6 +6166,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -4438,7 +6188,11 @@
    ],
    "file": "Sancti/05-27",
    "common": "C5a",
-   "date": "05-27"
+   "date": "05-27",
+   "parts": [
+    "in",
+    "co"
+   ]
   },
   {
    "id": "sancti-05-28",
@@ -4464,6 +6218,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -4490,6 +6252,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -4516,6 +6286,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -4543,6 +6321,15 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -4569,6 +6356,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -4595,6 +6390,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -4622,6 +6425,15 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -4639,7 +6451,14 @@
    ],
    "file": "Sancti/06-05",
    "common": "C2",
-   "date": "06-05"
+   "date": "06-05",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-06-06",
@@ -4665,6 +6484,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -4691,6 +6518,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -4716,6 +6551,13 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of"
    ]
   },
   {
@@ -4733,7 +6575,14 @@
    ],
    "file": "Sancti/06-11",
    "common": "C1",
-   "date": "06-11"
+   "date": "06-11",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-06-12",
@@ -4759,6 +6608,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -4785,6 +6642,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -4802,7 +6667,14 @@
    ],
    "file": "Sancti/06-14",
    "common": "C4a",
-   "date": "06-14"
+   "date": "06-14",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-06-15",
@@ -4819,7 +6691,14 @@
    ],
    "file": "Sancti/06-15",
    "common": "C3",
-   "date": "06-15"
+   "date": "06-15",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-06-17r",
@@ -4845,6 +6724,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -4871,6 +6758,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -4897,6 +6792,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -4914,7 +6817,14 @@
    ],
    "file": "Sancti/06-20",
    "common": "C2b",
-   "date": "06-20"
+   "date": "06-20",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-06-21",
@@ -4931,7 +6841,14 @@
    ],
    "file": "Sancti/06-21",
    "common": "C5",
-   "date": "06-21"
+   "date": "06-21",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-06-22",
@@ -4948,7 +6865,14 @@
    ],
    "file": "Sancti/06-22",
    "common": "C4",
-   "date": "06-22"
+   "date": "06-22",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-06-23",
@@ -4963,7 +6887,13 @@
     "chant/co-magna-est-gloria-365"
    ],
    "file": "Sancti/06-23",
-   "date": "06-23"
+   "date": "06-23",
+   "parts": [
+    "in",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-06-24",
@@ -4979,7 +6909,14 @@
     "chant/co-tu-puer-133"
    ],
    "file": "Sancti/06-24",
-   "date": "06-24"
+   "date": "06-24",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-06-25",
@@ -4996,7 +6933,14 @@
    ],
    "file": "Sancti/06-25",
    "common": "C5b",
-   "date": "06-25"
+   "date": "06-25",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-06-26",
@@ -5013,7 +6957,14 @@
    ],
    "file": "Sancti/06-26",
    "common": "C3",
-   "date": "06-26"
+   "date": "06-26",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-06-28r",
@@ -5029,7 +6980,13 @@
    ],
    "file": "Sancti/06-28r",
    "common": "C1a",
-   "date": "06-28"
+   "date": "06-28",
+   "parts": [
+    "in",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-06-29",
@@ -5046,7 +7003,14 @@
    ],
    "file": "Sancti/06-29",
    "common": "C1",
-   "date": "06-29"
+   "date": "06-29",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-06-30",
@@ -5063,7 +7027,14 @@
    ],
    "file": "Sancti/06-30",
    "common": "C1",
-   "date": "06-30"
+   "date": "06-30",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-07-01",
@@ -5079,7 +7050,14 @@
     "chant/co-christus-semel-1019"
    ],
    "file": "Sancti/07-01",
-   "date": "07-01"
+   "date": "07-01",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-07-02",
@@ -5096,7 +7074,14 @@
    ],
    "file": "Sancti/07-02",
    "common": "C11",
-   "date": "07-02"
+   "date": "07-02",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-07-03r",
@@ -5113,7 +7098,14 @@
    ],
    "file": "Sancti/07-03r",
    "common": "C2",
-   "date": "07-03"
+   "date": "07-03",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-07-05",
@@ -5130,7 +7122,14 @@
    ],
    "file": "Sancti/07-05",
    "common": "C5",
-   "date": "07-05"
+   "date": "07-05",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-07-07",
@@ -5147,7 +7146,14 @@
    ],
    "file": "Sancti/07-07",
    "common": "C4",
-   "date": "07-07"
+   "date": "07-07",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-07-08",
@@ -5163,7 +7169,13 @@
    ],
    "file": "Sancti/07-08",
    "common": "C7a",
-   "date": "07-08"
+   "date": "07-08",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of"
+   ]
   },
   {
    "id": "sancti-07-10",
@@ -5180,7 +7192,14 @@
    ],
    "file": "Sancti/07-10",
    "common": "C3",
-   "date": "07-10"
+   "date": "07-10",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-07-11",
@@ -5197,7 +7216,14 @@
    ],
    "file": "Sancti/07-11",
    "common": "C2b",
-   "date": "07-11"
+   "date": "07-11",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-07-12",
@@ -5214,7 +7240,14 @@
    ],
    "file": "Sancti/07-12",
    "common": "C5",
-   "date": "07-12"
+   "date": "07-12",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-07-14",
@@ -5231,7 +7264,14 @@
    ],
    "file": "Sancti/07-14",
    "common": "C4a",
-   "date": "07-14"
+   "date": "07-14",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-07-15",
@@ -5248,7 +7288,14 @@
    ],
    "file": "Sancti/07-15",
    "common": "C5",
-   "date": "07-15"
+   "date": "07-15",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-07-16",
@@ -5265,7 +7312,14 @@
    ],
    "file": "Sancti/07-16",
    "common": "C11",
-   "date": "07-16"
+   "date": "07-16",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-07-17",
@@ -5282,7 +7336,14 @@
    ],
    "file": "Sancti/07-17",
    "common": "C5",
-   "date": "07-17"
+   "date": "07-17",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-07-18",
@@ -5299,7 +7360,14 @@
    ],
    "file": "Sancti/07-18",
    "common": "C5",
-   "date": "07-18"
+   "date": "07-18",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-07-19",
@@ -5316,7 +7384,14 @@
    ],
    "file": "Sancti/07-19",
    "common": "C5",
-   "date": "07-19"
+   "date": "07-19",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-07-20",
@@ -5333,7 +7408,14 @@
    ],
    "file": "Sancti/07-20",
    "common": "C5",
-   "date": "07-20"
+   "date": "07-20",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-07-21r",
@@ -5350,7 +7432,14 @@
    ],
    "file": "Sancti/07-21r",
    "common": "C5a",
-   "date": "07-21"
+   "date": "07-21",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-07-22",
@@ -5367,7 +7456,14 @@
    ],
    "file": "Sancti/07-22",
    "common": "C7a",
-   "date": "07-22"
+   "date": "07-22",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-07-23",
@@ -5384,7 +7480,14 @@
    ],
    "file": "Sancti/07-23",
    "common": "C2",
-   "date": "07-23"
+   "date": "07-23",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-07-24r",
@@ -5401,7 +7504,14 @@
    ],
    "file": "Sancti/07-24r",
    "common": "C6",
-   "date": "07-24"
+   "date": "07-24",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-07-25",
@@ -5418,7 +7528,14 @@
    ],
    "file": "Sancti/07-25",
    "common": "C1",
-   "date": "07-25"
+   "date": "07-25",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-07-26",
@@ -5434,7 +7551,13 @@
    ],
    "file": "Sancti/07-26",
    "common": "C7a",
-   "date": "07-26"
+   "date": "07-26",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of"
+   ]
   },
   {
    "id": "sancti-07-27",
@@ -5451,7 +7574,14 @@
    ],
    "file": "Sancti/07-27",
    "common": "C2a",
-   "date": "07-27"
+   "date": "07-27",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-07-28",
@@ -5468,7 +7598,14 @@
    ],
    "file": "Sancti/07-28",
    "common": "C3",
-   "date": "07-28"
+   "date": "07-28",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-07-29",
@@ -5485,7 +7622,14 @@
    ],
    "file": "Sancti/07-29",
    "common": "C6a",
-   "date": "07-29"
+   "date": "07-29",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-07-30",
@@ -5502,7 +7646,14 @@
    ],
    "file": "Sancti/07-30",
    "common": "C3",
-   "date": "07-30"
+   "date": "07-30",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-07-31",
@@ -5517,7 +7668,12 @@
    ],
    "file": "Sancti/07-31",
    "common": "C5",
-   "date": "07-31"
+   "date": "07-31",
+   "parts": [
+    "in",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-01r",
@@ -5534,7 +7690,14 @@
    ],
    "file": "Sancti/08-01r",
    "common": "C3",
-   "date": "08-01"
+   "date": "08-01",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-02",
@@ -5551,7 +7714,14 @@
    ],
    "file": "Sancti/08-02",
    "common": "C4a",
-   "date": "08-02"
+   "date": "08-02",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-04",
@@ -5568,7 +7738,14 @@
    ],
    "file": "Sancti/08-04",
    "common": "C5",
-   "date": "08-04"
+   "date": "08-04",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-05",
@@ -5585,7 +7762,14 @@
    ],
    "file": "Sancti/08-05",
    "common": "C11",
-   "date": "08-05"
+   "date": "08-05",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-06",
@@ -5601,7 +7785,14 @@
     "chant/co-visionem-885"
    ],
    "file": "Sancti/08-06",
-   "date": "08-06"
+   "date": "08-06",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-07",
@@ -5616,7 +7807,12 @@
    ],
    "file": "Sancti/08-07",
    "common": "C5",
-   "date": "08-07"
+   "date": "08-07",
+   "parts": [
+    "in",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-09",
@@ -5633,7 +7829,14 @@
    ],
    "file": "Sancti/08-09",
    "common": "C5",
-   "date": "08-08"
+   "date": "08-08",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-09t",
@@ -5649,7 +7852,13 @@
    ],
    "file": "Sancti/08-09t",
    "common": "C2b",
-   "date": "08-09"
+   "date": "08-09",
+   "parts": [
+    "in",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-10",
@@ -5666,7 +7875,14 @@
    ],
    "file": "Sancti/08-10",
    "common": "C2a",
-   "date": "08-10"
+   "date": "08-10",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-11",
@@ -5683,7 +7899,14 @@
    ],
    "file": "Sancti/08-11",
    "common": "C3a",
-   "date": "08-11"
+   "date": "08-11",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-12",
@@ -5700,7 +7923,14 @@
    ],
    "file": "Sancti/08-12",
    "common": "C6a",
-   "date": "08-12"
+   "date": "08-12",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-13",
@@ -5717,7 +7947,14 @@
    ],
    "file": "Sancti/08-13",
    "common": "C3a",
-   "date": "08-13"
+   "date": "08-13",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-14",
@@ -5732,7 +7969,13 @@
     "chant/co-beata-viscera-160"
    ],
    "file": "Sancti/08-14",
-   "date": "08-14"
+   "date": "08-14",
+   "parts": [
+    "in",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-15",
@@ -5749,7 +7992,14 @@
    ],
    "file": "Sancti/08-15",
    "common": "C11",
-   "date": "08-15"
+   "date": "08-15",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-16",
@@ -5766,7 +8016,14 @@
    ],
    "file": "Sancti/08-16",
    "common": "C5",
-   "date": "08-16"
+   "date": "08-16",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-17",
@@ -5783,7 +8040,14 @@
    ],
    "file": "Sancti/08-17",
    "common": "C5",
-   "date": "08-17"
+   "date": "08-17",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-18r",
@@ -5800,7 +8064,14 @@
    ],
    "file": "Sancti/08-18r",
    "common": "C2a",
-   "date": "08-18"
+   "date": "08-18",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-19",
@@ -5817,7 +8088,14 @@
    ],
    "file": "Sancti/08-19",
    "common": "C5",
-   "date": "08-19"
+   "date": "08-19",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-20",
@@ -5834,7 +8112,14 @@
    ],
    "file": "Sancti/08-20",
    "common": "C5a",
-   "date": "08-20"
+   "date": "08-20",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-21",
@@ -5850,7 +8135,13 @@
    ],
    "file": "Sancti/08-21",
    "common": "C7a",
-   "date": "08-21"
+   "date": "08-21",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of"
+   ]
   },
   {
    "id": "sancti-08-22",
@@ -5867,7 +8158,14 @@
    ],
    "file": "Sancti/08-22",
    "common": "C11",
-   "date": "08-22"
+   "date": "08-22",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-23",
@@ -5884,7 +8182,14 @@
    ],
    "file": "Sancti/08-23",
    "common": "C5",
-   "date": "08-23"
+   "date": "08-23",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-24",
@@ -5901,7 +8206,14 @@
    ],
    "file": "Sancti/08-24",
    "common": "C1",
-   "date": "08-24"
+   "date": "08-24",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-25",
@@ -5916,7 +8228,12 @@
    ],
    "file": "Sancti/08-25",
    "common": "C5",
-   "date": "08-25"
+   "date": "08-25",
+   "parts": [
+    "in",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-26",
@@ -5933,7 +8250,14 @@
    ],
    "file": "Sancti/08-26",
    "common": "C2",
-   "date": "08-26"
+   "date": "08-26",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-27",
@@ -5950,7 +8274,14 @@
    ],
    "file": "Sancti/08-27",
    "common": "C5",
-   "date": "08-27"
+   "date": "08-27",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-28",
@@ -5967,7 +8298,14 @@
    ],
    "file": "Sancti/08-28",
    "common": "C4a",
-   "date": "08-28"
+   "date": "08-28",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-29",
@@ -5984,7 +8322,14 @@
    ],
    "file": "Sancti/08-29",
    "common": "C2a",
-   "date": "08-29"
+   "date": "08-29",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-30",
@@ -6001,7 +8346,14 @@
    ],
    "file": "Sancti/08-30",
    "common": "C6a",
-   "date": "08-30"
+   "date": "08-30",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-08-31",
@@ -6018,7 +8370,14 @@
    ],
    "file": "Sancti/08-31",
    "common": "C5",
-   "date": "08-31"
+   "date": "08-31",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-09-01",
@@ -6035,7 +8394,14 @@
    ],
    "file": "Sancti/09-01",
    "common": "C5",
-   "date": "09-01"
+   "date": "09-01",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-09-02",
@@ -6052,7 +8418,14 @@
    ],
    "file": "Sancti/09-02",
    "common": "C5",
-   "date": "09-02"
+   "date": "09-02",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-09-03",
@@ -6069,7 +8442,14 @@
    ],
    "file": "Sancti/09-03",
    "common": "C4b",
-   "date": "09-03"
+   "date": "09-03",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-09-05",
@@ -6086,7 +8466,14 @@
    ],
    "file": "Sancti/09-05",
    "common": "C4",
-   "date": "09-05"
+   "date": "09-05",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-09-08",
@@ -6103,7 +8490,14 @@
    ],
    "file": "Sancti/09-08",
    "common": "C11",
-   "date": "09-08"
+   "date": "09-08",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-09-09",
@@ -6120,7 +8514,14 @@
    ],
    "file": "Sancti/09-09",
    "common": "C2a",
-   "date": "09-09"
+   "date": "09-09",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-09-10",
@@ -6137,7 +8538,14 @@
    ],
    "file": "Sancti/09-10",
    "common": "C5",
-   "date": "09-10"
+   "date": "09-10",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-09-11",
@@ -6154,7 +8562,14 @@
    ],
    "file": "Sancti/09-11",
    "common": "C3a",
-   "date": "09-11"
+   "date": "09-11",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-09-12",
@@ -6171,7 +8586,14 @@
    ],
    "file": "Sancti/09-12",
    "common": "C11",
-   "date": "09-12"
+   "date": "09-12",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-09-14",
@@ -6187,7 +8609,14 @@
     "chant/co-per-signum-crucis-346"
    ],
    "file": "Sancti/09-14",
-   "date": "09-14"
+   "date": "09-14",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-09-15",
@@ -6205,7 +8634,15 @@
    ],
    "file": "Sancti/09-15",
    "common": "C11",
-   "date": "09-15"
+   "date": "09-15",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "se",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-09-16",
@@ -6222,7 +8659,14 @@
    ],
    "file": "Sancti/09-16",
    "common": "C3",
-   "date": "09-16"
+   "date": "09-16",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-09-17",
@@ -6239,7 +8683,14 @@
    ],
    "file": "Sancti/09-17",
    "common": "C5",
-   "date": "09-17"
+   "date": "09-17",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-09-18",
@@ -6256,7 +8707,14 @@
    ],
    "file": "Sancti/09-18",
    "common": "C5",
-   "date": "09-18"
+   "date": "09-18",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-09-19",
@@ -6273,7 +8731,14 @@
    ],
    "file": "Sancti/09-19",
    "common": "C3a",
-   "date": "09-19"
+   "date": "09-19",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-09-20",
@@ -6290,7 +8755,14 @@
    ],
    "file": "Sancti/09-20",
    "common": "C3a",
-   "date": "09-20"
+   "date": "09-20",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-09-21",
@@ -6307,7 +8779,14 @@
    ],
    "file": "Sancti/09-21",
    "common": "C1a",
-   "date": "09-21"
+   "date": "09-21",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-09-22",
@@ -6324,7 +8803,14 @@
    ],
    "file": "Sancti/09-22",
    "common": "C4",
-   "date": "09-22"
+   "date": "09-22",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-09-23",
@@ -6341,7 +8827,14 @@
    ],
    "file": "Sancti/09-23",
    "common": "C2b",
-   "date": "09-23"
+   "date": "09-23",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-09-24",
@@ -6358,7 +8851,14 @@
    ],
    "file": "Sancti/09-24",
    "common": "C11",
-   "date": "09-24"
+   "date": "09-24",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-09-26",
@@ -6375,7 +8875,14 @@
    ],
    "file": "Sancti/09-26",
    "common": "C3a",
-   "date": "09-26"
+   "date": "09-26",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-09-27",
@@ -6392,7 +8899,14 @@
    ],
    "file": "Sancti/09-27",
    "common": "C3a",
-   "date": "09-27"
+   "date": "09-27",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-09-28",
@@ -6409,7 +8923,14 @@
    ],
    "file": "Sancti/09-28",
    "common": "C2a",
-   "date": "09-28"
+   "date": "09-28",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-09-29",
@@ -6425,7 +8946,14 @@
     "chant/co-benedicite-omnes-angeli-1127"
    ],
    "file": "Sancti/09-29",
-   "date": "09-29"
+   "date": "09-29",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-09-30",
@@ -6442,7 +8970,14 @@
    ],
    "file": "Sancti/09-30",
    "common": "C5a",
-   "date": "09-30"
+   "date": "09-30",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-10-01",
@@ -6459,7 +8994,14 @@
    ],
    "file": "Sancti/10-01",
    "common": "C4",
-   "date": "10-01"
+   "date": "10-01",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-10-02",
@@ -6476,7 +9018,14 @@
    ],
    "file": "Sancti/10-02",
    "common": "C4",
-   "date": "10-02"
+   "date": "10-02",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-10-03",
@@ -6493,7 +9042,14 @@
    ],
    "file": "Sancti/10-03",
    "common": "C6a",
-   "date": "10-03"
+   "date": "10-03",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-10-04",
@@ -6510,7 +9066,14 @@
    ],
    "file": "Sancti/10-04",
    "common": "C5",
-   "date": "10-04"
+   "date": "10-04",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-10-05",
@@ -6527,7 +9090,14 @@
    ],
    "file": "Sancti/10-05",
    "common": "C3a",
-   "date": "10-05"
+   "date": "10-05",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-10-06",
@@ -6544,7 +9114,14 @@
    ],
    "file": "Sancti/10-06",
    "common": "C5",
-   "date": "10-06"
+   "date": "10-06",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-10-07",
@@ -6560,7 +9137,13 @@
    ],
    "file": "Sancti/10-07",
    "common": "C11",
-   "date": "10-07"
+   "date": "10-07",
+   "parts": [
+    "in",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-10-08",
@@ -6576,7 +9159,13 @@
    ],
    "file": "Sancti/10-08",
    "common": "C7a",
-   "date": "10-08"
+   "date": "10-08",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of"
+   ]
   },
   {
    "id": "sancti-10-09",
@@ -6593,7 +9182,14 @@
    ],
    "file": "Sancti/10-09",
    "common": "C5",
-   "date": "10-09"
+   "date": "10-09",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-10-10",
@@ -6610,7 +9206,14 @@
    ],
    "file": "Sancti/10-10",
    "common": "C5b",
-   "date": "10-10"
+   "date": "10-10",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-10-11",
@@ -6627,7 +9230,14 @@
    ],
    "file": "Sancti/10-11",
    "common": "C11",
-   "date": "10-11"
+   "date": "10-11",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-10-13",
@@ -6644,7 +9254,14 @@
    ],
    "file": "Sancti/10-13",
    "common": "C5",
-   "date": "10-13"
+   "date": "10-13",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-10-14",
@@ -6661,7 +9278,14 @@
    ],
    "file": "Sancti/10-14",
    "common": "C2b",
-   "date": "10-14"
+   "date": "10-14",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-10-15",
@@ -6678,7 +9302,14 @@
    ],
    "file": "Sancti/10-15",
    "common": "C6a",
-   "date": "10-15"
+   "date": "10-15",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-10-16",
@@ -6694,7 +9325,13 @@
    ],
    "file": "Sancti/10-16",
    "common": "C7a",
-   "date": "10-16"
+   "date": "10-16",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of"
+   ]
   },
   {
    "id": "sancti-10-17",
@@ -6711,7 +9348,14 @@
    ],
    "file": "Sancti/10-17",
    "common": "C6a",
-   "date": "10-17"
+   "date": "10-17",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-10-18",
@@ -6728,7 +9372,14 @@
    ],
    "file": "Sancti/10-18",
    "common": "C1a",
-   "date": "10-18"
+   "date": "10-18",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-10-19",
@@ -6745,7 +9396,14 @@
    ],
    "file": "Sancti/10-19",
    "common": "C5",
-   "date": "10-19"
+   "date": "10-19",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-10-20",
@@ -6762,7 +9420,14 @@
    ],
    "file": "Sancti/10-20",
    "common": "C5",
-   "date": "10-20"
+   "date": "10-20",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-10-21",
@@ -6779,7 +9444,14 @@
    ],
    "file": "Sancti/10-21",
    "common": "C5b",
-   "date": "10-21"
+   "date": "10-21",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-10-23r",
@@ -6796,7 +9468,14 @@
    ],
    "file": "Sancti/10-23r",
    "common": "C4",
-   "date": "10-23"
+   "date": "10-23",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-10-24",
@@ -6812,7 +9491,14 @@
     "chant/co-benedicite-omnes-angeli-1127"
    ],
    "file": "Sancti/10-24",
-   "date": "10-24"
+   "date": "10-24",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-10-25",
@@ -6829,7 +9515,14 @@
    ],
    "file": "Sancti/10-25",
    "common": "C3",
-   "date": "10-25"
+   "date": "10-25",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-10-26",
@@ -6846,7 +9539,14 @@
    ],
    "file": "Sancti/10-26",
    "common": "C2b",
-   "date": "10-26"
+   "date": "10-26",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-10-28",
@@ -6863,7 +9563,14 @@
    ],
    "file": "Sancti/10-28",
    "common": "C1",
-   "date": "10-28"
+   "date": "10-28",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-11-01",
@@ -6880,7 +9587,14 @@
    ],
    "file": "Sancti/11-01",
    "common": "C3",
-   "date": "11-01"
+   "date": "11-01",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-11-02m1",
@@ -6898,7 +9612,15 @@
    ],
    "file": "Sancti/11-02m1",
    "common": "C9",
-   "date": "11-02"
+   "date": "11-02",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "se",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-11-02m2",
@@ -6916,7 +9638,15 @@
    ],
    "file": "Sancti/11-02m2",
    "common": "C9",
-   "date": "11-02"
+   "date": "11-02",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "se",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-11-02m3",
@@ -6934,7 +9664,15 @@
    ],
    "file": "Sancti/11-02m3",
    "common": "C9",
-   "date": "11-02"
+   "date": "11-02",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "se",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-11-04",
@@ -6951,7 +9689,14 @@
    ],
    "file": "Sancti/11-04",
    "common": "C4",
-   "date": "11-04"
+   "date": "11-04",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-11-08r",
@@ -6968,7 +9713,14 @@
    ],
    "file": "Sancti/11-08r",
    "common": "C3",
-   "date": "11-08"
+   "date": "11-08",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-11-09",
@@ -6985,7 +9737,14 @@
    ],
    "file": "Sancti/11-09",
    "common": "C8",
-   "date": "11-09"
+   "date": "11-09",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-11-10",
@@ -7002,7 +9761,14 @@
    ],
    "file": "Sancti/11-10",
    "common": "C5",
-   "date": "11-10"
+   "date": "11-10",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-11-11",
@@ -7019,7 +9785,14 @@
    ],
    "file": "Sancti/11-11",
    "common": "C4",
-   "date": "11-11"
+   "date": "11-11",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-11-12",
@@ -7036,7 +9809,14 @@
    ],
    "file": "Sancti/11-12",
    "common": "C2b",
-   "date": "11-12"
+   "date": "11-12",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-11-13",
@@ -7053,7 +9833,14 @@
    ],
    "file": "Sancti/11-13",
    "common": "C5",
-   "date": "11-13"
+   "date": "11-13",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-11-14",
@@ -7070,7 +9857,14 @@
    ],
    "file": "Sancti/11-14",
    "common": "C2",
-   "date": "11-14"
+   "date": "11-14",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-11-15",
@@ -7087,7 +9881,14 @@
    ],
    "file": "Sancti/11-15",
    "common": "C4a",
-   "date": "11-15"
+   "date": "11-15",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-11-16",
@@ -7104,7 +9905,14 @@
    ],
    "file": "Sancti/11-16",
    "common": "C6a",
-   "date": "11-16"
+   "date": "11-16",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-11-17",
@@ -7121,7 +9929,14 @@
    ],
    "file": "Sancti/11-17",
    "common": "C4",
-   "date": "11-17"
+   "date": "11-17",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-11-18r",
@@ -7138,7 +9953,14 @@
    ],
    "file": "Sancti/11-18r",
    "common": "C8",
-   "date": "11-18"
+   "date": "11-18",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-11-19",
@@ -7154,7 +9976,13 @@
    ],
    "file": "Sancti/11-19",
    "common": "C7a",
-   "date": "11-19"
+   "date": "11-19",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of"
+   ]
   },
   {
    "id": "sancti-11-20",
@@ -7171,7 +9999,14 @@
    ],
    "file": "Sancti/11-20",
    "common": "C5",
-   "date": "11-20"
+   "date": "11-20",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-11-21",
@@ -7188,7 +10023,14 @@
    ],
    "file": "Sancti/11-21",
    "common": "C11",
-   "date": "11-21"
+   "date": "11-21",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-11-22",
@@ -7205,7 +10047,14 @@
    ],
    "file": "Sancti/11-22",
    "common": "C6",
-   "date": "11-22"
+   "date": "11-22",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-11-23",
@@ -7218,7 +10067,10 @@
    ],
    "file": "Sancti/11-23",
    "common": "C2b",
-   "date": "11-23"
+   "date": "11-23",
+   "parts": [
+    "in"
+   ]
   },
   {
    "id": "sancti-11-24",
@@ -7235,7 +10087,14 @@
    ],
    "file": "Sancti/11-24",
    "common": "C5a",
-   "date": "11-24"
+   "date": "11-24",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-11-25",
@@ -7252,7 +10111,14 @@
    ],
    "file": "Sancti/11-25",
    "common": "C6",
-   "date": "11-25"
+   "date": "11-25",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-11-26",
@@ -7269,7 +10135,14 @@
    ],
    "file": "Sancti/11-26",
    "common": "C5b",
-   "date": "11-26"
+   "date": "11-26",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-11-29r",
@@ -7286,7 +10159,14 @@
    ],
    "file": "Sancti/11-29r",
    "common": "C2a",
-   "date": "11-29"
+   "date": "11-29",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-11-30",
@@ -7302,7 +10182,13 @@
    ],
    "file": "Sancti/11-30",
    "common": "C1",
-   "date": "11-30"
+   "date": "11-30",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of"
+   ]
   },
   {
    "id": "sancti-12-02",
@@ -7319,7 +10205,14 @@
    ],
    "file": "Sancti/12-02",
    "common": "C6",
-   "date": "12-02"
+   "date": "12-02",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-12-03",
@@ -7334,7 +10227,12 @@
    ],
    "file": "Sancti/12-03",
    "common": "C5",
-   "date": "12-03"
+   "date": "12-03",
+   "parts": [
+    "in",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-12-04",
@@ -7351,7 +10249,14 @@
    ],
    "file": "Sancti/12-04",
    "common": "C4a",
-   "date": "12-04"
+   "date": "12-04",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-12-05",
@@ -7368,7 +10273,14 @@
    ],
    "file": "Sancti/12-05",
    "common": "C5b",
-   "date": "12-05"
+   "date": "12-05",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-12-06",
@@ -7385,7 +10297,14 @@
    ],
    "file": "Sancti/12-06",
    "common": "C4",
-   "date": "12-06"
+   "date": "12-06",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-12-07",
@@ -7402,7 +10321,14 @@
    ],
    "file": "Sancti/12-07",
    "common": "C4a",
-   "date": "12-07"
+   "date": "12-07",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-12-08",
@@ -7419,7 +10345,14 @@
    ],
    "file": "Sancti/12-08",
    "common": "C11",
-   "date": "12-08"
+   "date": "12-08",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-12-10o",
@@ -7436,7 +10369,14 @@
    ],
    "file": "Sancti/12-10o",
    "common": "C2b",
-   "date": "12-10"
+   "date": "12-10",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-12-11",
@@ -7453,7 +10393,14 @@
    ],
    "file": "Sancti/12-11",
    "common": "C4b",
-   "date": "12-11"
+   "date": "12-11",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-12-13r",
@@ -7469,7 +10416,13 @@
    ],
    "file": "Sancti/12-13r",
    "common": "C6",
-   "date": "12-13"
+   "date": "12-13",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "co"
+   ]
   },
   {
    "id": "sancti-12-16",
@@ -7486,7 +10439,14 @@
    ],
    "file": "Sancti/12-16",
    "common": "C2",
-   "date": "12-16"
+   "date": "12-16",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "sancti-12-21",
@@ -7503,7 +10463,14 @@
    ],
    "file": "Sancti/12-21",
    "common": "C1",
-   "date": "12-21"
+   "date": "12-21",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "commune-c10",
@@ -7518,7 +10485,14 @@
     "chant/of-ave-maria-et-benedictus-843",
     "chant/co-beata-viscera-160"
    ],
-   "common": "C10"
+   "common": "C10",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "commune-c10pasc",
@@ -7543,6 +10517,15 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -7558,7 +10541,14 @@
     "chant/of-ave-maria-et-benedictus-843",
     "chant/co-ecce-virgo-1144"
    ],
-   "common": "C10a"
+   "common": "C10a",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "commune-c10b",
@@ -7573,7 +10563,14 @@
     "chant/of-felix-namque-es-280",
     "chant/co-beata-viscera-160"
    ],
-   "common": "C10b"
+   "common": "C10b",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "commune-c10c",
@@ -7597,6 +10594,14 @@
       "la": "Post Septuagesimam"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "of",
+    "co"
    ]
   },
   {
@@ -7629,6 +10634,16 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -7643,7 +10658,13 @@
     "chant/of-gloria-et-honore-407",
     "chant/co-magna-est-gloria-365"
    ],
-   "common": "C1v"
+   "common": "C1v",
+   "parts": [
+    "in",
+    "gr",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "commune-c2",
@@ -7658,7 +10679,14 @@
     "chant/of-veritas-mea-630",
     "chant/co-semel-juravi-317"
    ],
-   "common": "C2"
+   "common": "C2",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "commune-c2-1",
@@ -7673,7 +10701,14 @@
     "chant/of-inveni-david-779",
     "chant/co-posuisti-domine-586"
    ],
-   "common": "C2-1"
+   "common": "C2-1",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "commune-c2-1p",
@@ -7688,7 +10723,14 @@
     "chant/of-confitebuntur-1382",
     "chant/co-laetabitur-justus-617"
    ],
-   "common": "C2-1p"
+   "common": "C2-1p",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "commune-c2a",
@@ -7720,6 +10762,16 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "tr",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -7745,6 +10797,15 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -7769,6 +10830,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -7784,7 +10853,14 @@
     "chant/of-mirabilis-deus-919",
     "chant/co-et-si-coram-658"
    ],
-   "common": "C3"
+   "common": "C3",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "commune-c3a",
@@ -7799,7 +10875,14 @@
     "chant/of-exsultabunt-sancti-33",
     "chant/co-dico-autem-vobis-699"
    ],
-   "common": "C3a"
+   "common": "C3a",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "commune-c3a-1",
@@ -7814,7 +10897,14 @@
     "chant/of-justorum-animae-835",
     "chant/co-quod-dico-vobis-1002"
    ],
-   "common": "C3a-1"
+   "common": "C3a-1",
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "commune-c3a-1p",
@@ -7829,7 +10919,14 @@
     "chant/of-laetamini-in-domino-870",
     "chant/co-gaudete-cum-alleluia-772"
    ],
-   "common": "C3a-1p"
+   "common": "C3a-1p",
+   "parts": [
+    "in",
+    "al",
+    "al",
+    "of",
+    "co"
+   ]
   },
   {
    "id": "commune-c4",
@@ -7853,6 +10950,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -7884,6 +10989,15 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -7908,6 +11022,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -7932,6 +11054,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -7963,6 +11093,15 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -7987,6 +11126,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -8018,6 +11165,15 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -8049,6 +11205,15 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -8080,6 +11245,15 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -8104,6 +11278,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -8135,6 +11317,15 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -8165,6 +11356,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "tr",
+    "al",
+    "of"
    ]
   },
   {
@@ -8189,6 +11388,14 @@
       "la": "Tempore Paschali"
      }
     }
+   ],
+   "parts": [
+    "in",
+    "gr",
+    "al",
+    "al",
+    "of",
+    "co"
    ]
   },
   {
@@ -8205,7 +11412,15 @@
     "chant/of-domine-jesu-christe-1199",
     "chant/co-lux-aeterna-241"
    ],
-   "common": "C9"
+   "common": "C9",
+   "parts": [
+    "in",
+    "gr",
+    "tr",
+    "se",
+    "of",
+    "co"
+   ]
   }
  ]
 }

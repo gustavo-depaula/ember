@@ -24,6 +24,8 @@ export type ChantBookSection = {
   file?: string
   /** The Common the day draws on, or a Common's own page: `C11` Our Lady, `C2` a martyr, `C9` the dead. */
   common?: string
+  /** The part of the Mass each chant is sung as, beside `chants`: a gradual GregoBase files as a tract is the gradual here. */
+  parts?: ChantGenre[]
   /** A rubric printed before the chant at `at`: an hour of the Office (with its `short` tab), "Tempore Paschali". */
   heads?: { at: number; title: LocalizedText; short?: string }[]
 }

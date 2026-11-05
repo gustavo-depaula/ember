@@ -80,7 +80,7 @@ async function main() {
   for (const area of ['missa', 'horas'] as const) {
     const tempora = readdirSync(`${www}/${area}/Latin/Tempora`)
       .map((f) => f.replace(/\.txt$/, ''))
-      .filter((f) => /^(Adv|Nat|Epi|Quadp|Quad|Pasc|Pent)\d+(-\d)?$/.test(f))
+      .filter((f) => /^(Adv|Nat|Epi|Quadp|Quad|Pasc|Pent|PentEpi)\d+(-\d)?$/.test(f))
     for (const t of tempora) push(await day(area, 'tempora', `Tempora/${t}`))
 
     for (let m = 1; m <= 12; m++) {
