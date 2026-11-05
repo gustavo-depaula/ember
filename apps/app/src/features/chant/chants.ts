@@ -20,8 +20,17 @@ export type ChantBookSection = {
   group?: string
   /** A saint's day, `MM-DD`. */
   date?: string
-  /** A rubric printed before the chant at `at`: an hour of the Office, "Tempore Paschali". */
-  heads?: { at: number; title: LocalizedText }[]
+  /** The Divinum Officium file the calendar names for the day: `Tempora/Adv1-0`, `Sancti/12-25m3`. */
+  file?: string
+  /** The Common the day draws on, or a Common's own page: `C11` Our Lady, `C2` a martyr, `C9` the dead. */
+  common?: string
+  /** A rubric printed before the chant at `at`: an hour of the Office (with its `short` tab), "Tempore Paschali". */
+  heads?: { at: number; title: LocalizedText; short?: string }[]
+}
+
+/** A page's name as a list shows it: the Mass's title, and a Mass of the Kyriale's Latin name. */
+export function sectionLabel(section: ChantBookSection): string {
+  return [localizeContent(section.title), section.name].filter(Boolean).join(' · ')
 }
 
 /** A division of a book that names its groups: the Proper of Time, the Proper of the Saints. */

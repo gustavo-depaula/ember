@@ -109,6 +109,9 @@ export function SungBlock({
           />
         </Pressable>
       </XStack>
+      {/* Until the block has a width to page by, its text stands alone: the
+          words are there from the first frame, and the pager takes them over. */}
+      {width === 0 && <YStack gap="$md">{body.map(renderText)}</YStack>}
       {width > 0 && (
         <ScrollView
           ref={pager}

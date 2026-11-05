@@ -7,7 +7,7 @@ import type { SearchBarCommands } from 'react-native-screens'
 import { useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, PageFlourish, PageHeader, ScreenLayout } from '@/components'
-import { SearchInput } from '@/components/SearchInput'
+import { SearchField } from '@/components/SearchField'
 import { SearchAutocomplete } from '@/features/practices/components'
 import { Acervo, Places, RecentRow } from '@/features/search'
 import { useDeferredTabMount } from '@/hooks/useDeferredTabMount'
@@ -104,7 +104,7 @@ export default function SearchScreen() {
               lightAspectRatio={flourishLightAspect}
             />
           )}
-          {inPageField && <SearchField query={query} onQuery={setQuery} />}
+          {inPageField && <InPageSearchField query={query} onQuery={setQuery} />}
           {isSearching && (
             <YStack paddingVertical="$lg">
               <SearchAutocomplete query={query} />
@@ -117,45 +117,22 @@ export default function SearchScreen() {
   )
 }
 
-function SearchField({ query, onQuery }: { query: string; onQuery: (query: string) => void }) {
+function InPageSearchField({
+  query,
+  onQuery,
+}: {
+  query: string
+  onQuery: (query: string) => void
+}) {
   const { t } = useTranslation()
-  const theme = useTheme()
   return (
-    <XStack
-      marginTop="$md"
-      marginBottom="$sm"
-      paddingHorizontal="$md"
-      alignItems="center"
-      gap="$sm"
-      borderRadius="$lg"
-      backgroundColor="$backgroundSurface"
-    >
-      <Search size={18} color={theme.colorSecondary?.val} />
-      <SearchInput
-        flex={1}
-        value={query}
-        onChangeText={onQuery}
+    <XStack marginTop="$md" marginBottom="$sm">
+      <SearchField
+        query={query}
+        onQuery={onQuery}
         placeholder={t('pray.searchPlaceholder')}
-        placeholderTextColor="$colorSecondary"
-        backgroundColor="transparent"
-        borderWidth={0}
-        paddingHorizontal={0}
-        height={48}
-        color="$color"
-        fontFamily="$body"
-        fontSize="$3"
-        accessibilityLabel={t('nav.searchPlaceholder')}
+        label={t('nav.searchPlaceholder')}
       />
-      {query.length > 0 && (
-        <AnimatedPressable
-          onPress={() => onQuery('')}
-          hitSlop={14}
-          accessibilityRole="button"
-          accessibilityLabel={t('a11y.clearSearch')}
-        >
-          <X size={16} color={theme.colorSecondary?.val} />
-        </AnimatedPressable>
-      )}
     </XStack>
   )
 }

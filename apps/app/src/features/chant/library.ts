@@ -5,11 +5,13 @@
 // out the Graduale and the Antiphonale), so the website can share them.
 
 import { createDirectorium, type Directorium, efVersion, resolveDay } from '@ember/divinum-officium'
-import { type BlockTone, jewelTones } from '@/features/explore/bgColor'
-import { localizeContent } from '@/lib/i18n'
+import type { LiturgicalCategory, LiturgicalSeason } from '@ember/liturgical'
+import { getEntriesByKind } from '@/content/contentIndex'
+import { type BlockTone, toneForCelebration } from '@/features/explore/bgColor'
 import { matchWords, normalizeForSearch, searchWords } from '@/lib/search'
 import { createCorpusDoLoader } from '@/sources/divinum-officium/loader'
 import { type ChantBook, type ChantBookSection, chantSummary } from './chants'
+import { ordinaryOfDay } from './ordinary'
 import type { ChantGenre } from './textKey'
 
 export const gradualeId = 'chant-book/graduale'
@@ -23,6 +25,9 @@ export type ChantDay = {
   /** The week of the season: `Pent24`, `Adv1`. */
   week: string
   weekday: number
+  /** Divinum Officium's rank, and the Common the office draws on: what the Kyriale's Mass is chosen by. */
+  rank: number
+  commune: string
 }
 
 let directorium: Promise<Directorium> | undefined
@@ -49,7 +54,14 @@ export async function chantDays(from: Date, count: number): Promise<ChantDay[]> 
         missa: true,
         sections: false,
       })
-      return { date, winner: day.winner, week: day.dayname[0], weekday: day.dayofweek }
+      return {
+        date,
+        winner: day.winner,
+        week: day.dayname[0],
+        weekday: day.dayofweek,
+        rank: day.rank,
+        commune: day.commune,
+      }
     }),
   )
 }
@@ -60,17 +72,21 @@ export async function chantDays(from: Date, count: number): Promise<ChantDay[]> 
  * propers of its own repeats.
  */
 export function sectionOfDay(book: ChantBook, day: ChantDay): ChantBookSection | undefined {
+  // `TemporaM/…` and its like are a rubric's variant folder of the same day.
   const file = /^(Tempora|Sancti)\w*\/(.+?)\.txt$/.exec(day.winner)
   if (!file) return undefined
-  const [, folder, name] = file
-  const byId = (id: string) => book.sections.find((s) => s.id === id.toLowerCase())
-  const own = `${folder === 'Tempora' ? 'tempora' : 'sancti'}-${name}`
-  return (
-    byId(own) ??
-    byId(`${own}m3`) ??
-    (folder === 'Tempora' ? byId(`tempora-${name.replace(/-\d$/, '-0')}`) : undefined) ??
-    byId(`tempora-${day.week}-0`)
-  )
+  const winner = `${file[1]}/${file[2]}`
+  const byFile = (f: string) => book.sections.find((s) => s.file === f)
+  return byFile(winner) ?? byFile(`${winner}m3`) ?? byFile(`Tempora/${day.week}-0`)
+}
+
+/** The page a book opens a day at: the Kyriale's Mass the day's rank chooses, the proper's page of the others. */
+export function pageOfDay(book: ChantBook, day: ChantDay): ChantBookSection | undefined {
+  if (book.id === 'chant-book/kyriale') {
+    const id = ordinaryOfDay(day)
+    return book.sections.find((s) => s.id === id)
+  }
+  return book.list === 'chants' ? undefined : sectionOfDay(book, day)
 }
 
 /** Where a chant is sung: each book and page that prints it. */
@@ -93,29 +109,40 @@ export function placesOfChants(books: ChantBook[]): Map<string, ChantPlace[]> {
 /** The order a search and a list set the genres in: the Mass's, then the Office's. */
 export const genreOrder: ChantGenre[] = ['in', 'gr', 'al', 'tr', 'se', 'of', 'co', 'an', 'hy', 'rb']
 
-/** A jewel ground for a day's page: its season's, or Our Lady's, a martyr's, a dedication's. */
+// A book's seasons as the calendar names them; a month of the saints falls back on the green of the year.
+const seasonOfGroup: Record<string, LiturgicalSeason> = {
+  adventus: 'advent',
+  nativitas: 'christmas',
+  epiphania: 'epiphany',
+  septuagesima: 'septuagesima',
+  quadragesima: 'lent',
+  passio: 'lent',
+  pascha: 'easter',
+  pentecostes: 'post-pentecost',
+}
+
+// What kind of feast a Common is for, by Divinum Officium's numbering of the Commons.
+const categoryOfCommon: [RegExp, LiturgicalCategory][] = [
+  [/^C1[01]/, 'blessed_virgin_mary'],
+  [/^C1/, 'apostle'],
+  [/^C[23]/, 'martyr'],
+  [/^C[45]a/, 'doctor_of_the_church'],
+  [/^C5b/, 'religious'],
+  [/^C[45]/, 'pastor'],
+  [/^C6/, 'virgin'],
+  [/^C7/, 'holy_woman'],
+  [/^C8/, 'dedication'],
+]
+
+/** A jewel ground for a group of a book: its season's. */
+export function toneOfGroup(group: string | undefined): BlockTone {
+  return toneForCelebration(undefined, seasonOfGroup[group ?? ''] ?? 'ordinary')
+}
+
+/** A jewel ground for a day's page: the kind of feast its Common says, else its season's. */
 export function toneOfSection(section: ChantBookSection): BlockTone {
-  const title = localizeContent(section.title)
-  if (/Mari(æ|ae)|B\.\s*M\.\s*V|Virginis Mari|Septem Dolorum/i.test(title)) return jewelTones.marian
-  if (/Dedicatione/.test(title)) return { from: '#2E3A4A', to: '#11161E' }
-  if (/Martyr|Apostol|Pentecost(es|en)$|Cruc/i.test(title) && section.group !== 'pentecostes')
-    return jewelTones.red
-  switch (section.group) {
-    case 'adventus':
-    case 'septuagesima':
-      return { from: '#4A2860', to: '#1F1030' }
-    case 'quadragesima':
-    case 'passio':
-      return { from: '#3D1F52', to: '#180A22' }
-    case 'nativitas':
-    case 'pascha':
-      return jewelTones.gold
-    case 'epiphania':
-    case 'pentecostes':
-      return jewelTones.green
-    default:
-      return { from: '#5A1722', to: '#24090E' }
-  }
+  const category = categoryOfCommon.find(([common]) => common.test(section.common ?? ''))?.[1]
+  return toneForCelebration(category, seasonOfGroup[section.group ?? ''] ?? 'ordinary')
 }
 
 export type OccasionId = 'marian' | 'defunct' | 'eucharist'
@@ -127,10 +154,12 @@ export const occasions: { id: OccasionId; art: string }[] = [
   { id: 'eucharist', art: 'collection/eucharistic' },
 ]
 
-const occasionTitles: Record<OccasionId, RegExp> = {
-  marian: /Mari(æ|ae)|B\.\s*M\.\s*V|Virginis Mari|Septem Dolorum|Sanctæ Mariæ Sabbato/i,
-  defunct: /Defunct/i,
-  eucharist: /Corporis Christi|Sanguinis/i,
+// The pages of an occasion: Our Lady's Commons and the feasts that draw on them,
+// the Mass and Office of the dead, Corpus Christi and the Precious Blood.
+const occasionPages: Record<OccasionId, (section: ChantBookSection) => boolean> = {
+  marian: (s) => /^C1[01]/.test(s.common ?? ''),
+  defunct: (s) => /^C9/.test(s.common ?? ''),
+  eucharist: (s) => s.file === 'Tempora/Pent01-4' || s.file === 'Sancti/07-01',
 }
 
 // The prayers of the hymns-and-antiphons book an occasion also gathers.
@@ -148,17 +177,30 @@ export function occasionContents(
   id: OccasionId,
 ): { places: ChantPlace[]; chants: string[] } {
   const places = books.flatMap((book) =>
-    book.list === 'chants'
-      ? []
-      : book.sections
-          .filter((s) => occasionTitles[id].test(localizeContent(s.title)))
-          .map((section) => ({ book, section })),
+    book.sections.filter(occasionPages[id]).map((section) => ({ book, section })),
   )
   const chants = books
     .filter((book) => book.list === 'chants')
     .flatMap((book) => book.sections.flatMap((s) => s.chants))
     .filter((chant) => occasionChants[id].test(chantSummary(chant).name))
   return { places, chants: [...new Set(chants)] }
+}
+
+/** A chant as a list or a search reads it, its name folded into words once. */
+export type ChantEntry = {
+  id: string
+  name: string
+  genre?: ChantGenre
+  mode?: string
+  words: string[]
+}
+
+/** Every chant of the catalog, ready to list and search. */
+export function chantEntries(): ChantEntry[] {
+  return getEntriesByKind('chant').map(([id]) => {
+    const { name, genre, mode } = chantSummary(id)
+    return { id, name, genre, mode, words: searchWords(fold(name)) }
+  })
 }
 
 /**
@@ -168,17 +210,17 @@ export function occasionContents(
  */
 export function searchChants(
   query: string,
-  chantIds: string[],
+  entries: ChantEntry[],
   texts: Record<string, string> | undefined,
-): string[] {
+): ChantEntry[] {
   const q = fold(query)
   const tokens = searchWords(q)
   if (!tokens.length) return []
-  const byName = chantIds.filter(
-    (id) => matchWords(searchWords(fold(chantSummary(id).name)), tokens) !== undefined,
-  )
+  const byName = entries.filter((entry) => matchWords(entry.words, tokens) !== undefined)
   const named = new Set(byName)
-  const byText = texts ? chantIds.filter((id) => !named.has(id) && texts[id]?.includes(q)) : []
+  const byText = texts
+    ? entries.filter((entry) => !named.has(entry) && texts[entry.id]?.includes(q))
+    : []
   return [...byName, ...byText]
 }
 

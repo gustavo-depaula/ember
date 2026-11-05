@@ -1,11 +1,2 @@
-export {
-  type Chant,
-  type ChantBook,
-  type ChantBookSection,
-  chantSummary,
-  loadChant,
-  loadChantBooks,
-  romanMode,
-  sectionOf,
-} from './chants'
+export { type Chant, chantSummary, loadChant } from './chants'
 export { ScoreView } from './ScoreView'

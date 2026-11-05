@@ -1348,7 +1348,8 @@ def build_chants(b: Builder) -> None:
     Catalog kinds:
       chant/<id>       one score, the GABC file as it stands; the catalog entry
                        carries what a list needs to name it without fetching it:
-                       its name, mode and genre (`in`, `an`, … as chant_link names them)
+                       its name, mode and genre (`in`, `an`, … as chant_link names
+                       them), and `proper` for a Mass or Office proper (content/chant-propers/)
       chant-book/<id>  a book's chants in order, by section
       chant-text/all   {chant id: its sung words, folded for search}, read only
                        when a search reaches past the chants' names
@@ -1363,7 +1364,8 @@ def build_chants(b: Builder) -> None:
     genre_of["Hymnus"] = "hy"
     known: set[str] = set()
     words: dict[str, str] = {}
-    for f in [*sorted(src.glob("*.gabc")), *sorted((CONTENT / "chant-propers").glob("*.gabc"))]:
+    propers = sorted((CONTENT / "chant-propers").glob("*.gabc"))
+    for f in [*sorted(src.glob("*.gabc")), *propers]:
         text = f.read_text(encoding="utf-8")
         try:
             headers = gabc_headers(text)
@@ -1378,6 +1380,8 @@ def build_chants(b: Builder) -> None:
             entry["mode"] = headers["mode"]
         if genre_of.get(headers.get("office-part", "")):
             entry["genre"] = genre_of[headers["office-part"]]
+        if f.parent.name == "chant-propers":
+            entry["proper"] = True
         b.add_catalog(f"chant/{f.stem}", entry)
         known.add(f"chant/{f.stem}")
         words[f"chant/{f.stem}"] = search_fold(chant_link.lyrics(text.partition("\n%%\n")[2]))

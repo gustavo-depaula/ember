@@ -74,6 +74,13 @@ HOURS = [
     ('Ad Horas minores', ['Responsory Breve Tertia', 'Responsory Breve Sexta', 'Responsory Breve Nona']),
     ('Ad Vesperas', ['Ant Vespera', 'Hymnus Vespera', 'Ant 1', 'Ant 3']),
 ]
+# An hour as the strip above a day's page names it, in its few letters.
+HOUR_TABS = {'Ad I Vesperas': 'I Vesp', 'Ad Matutinum': 'Mat', 'Ad Laudes': 'Laud',
+             'Ad Horas minores': 'Hor', 'Ad II Vesperas': 'II Vesp', 'Ad Vesperas': 'Vesp'}
+
+
+def hour_head(at, hour):
+    return {'at': at, 'title': {'la': hour}, 'short': HOUR_TABS[hour]}
 WEEKDAYS = ['Dominica', 'Feria II', 'Feria III', 'Feria IV', 'Feria V', 'Feria VI', 'Sabbato']
 
 
@@ -174,6 +181,14 @@ def section(day, chants, heads=None):
         'group': group_of(day),
         'chants': [f'chant/{s}' for s in chants],
     }
+    # The Divinum Officium file a calendar day names as its winner (`Sancti/11-11`),
+    # which is how the app opens a day's page; and the Common it draws on, which
+    # says what kind of feast it is (`C11` Our Lady, `C2` a martyr, `C9` the dead).
+    if day['part'] in ('tempora', 'sancti'):
+        out['file'] = f'{day["part"].capitalize()}/{day["file"]}'
+    common = day['file'] if day['part'] == 'commune' else day.get('common')
+    if common:
+        out['common'] = common
     if day.get('date'):
         out['date'] = day['date']
     if heads:
@@ -218,7 +233,7 @@ def office_section(found, day, hours):
             if name in day['sections']:
                 got += [s for s in scores(found, cl.office_pieces(name, lines_of(day['sections'][name]))) if s not in chants + got]
         if got:
-            heads.append({'at': len(chants), 'title': {'la': hour}})
+            heads.append(hour_head(len(chants), hour))
             chants += got
     return chants, heads
 
@@ -267,7 +282,7 @@ def psalter_section(found, day, sections):
         got = [g for g in dict.fromkeys(got) if g not in chants]
         if got:
             if day['file'] != 'psalterium-completorium':
-                heads.append({'at': len(chants), 'title': {'la': hour}})
+                heads.append(hour_head(len(chants), hour))
             chants += got
     return chants, heads
 

@@ -107,6 +107,8 @@ export type CatalogEntry = {
   mode?: string
   /** A chant's genre: `in` an Introit, `an` an antiphon, … (`ChantGenre`). */
   genre?: string
+  /** A chant that is a Mass or Office proper, printed in the Graduale or the Antiphonale. */
+  proper?: boolean
   // Praying this practice is Mass or the Office (holy cards); forms carry their
   // group primary's, resolved at build.
   liturgicalAct?: LiturgicalAct

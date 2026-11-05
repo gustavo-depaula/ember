@@ -233,7 +233,8 @@
     "chant/al-ostende-nobis-1115",
     "chant/of-ad-te-domine-962",
     "chant/co-dominus-dabit-1036"
-   ]
+   ],
+   "file": "Tempora/Adv1-0"
   },
   {
    "id": "tempora-adv2-0",
@@ -247,7 +248,8 @@
     "chant/al-laetatus-sum-1480",
     "chant/of-deus-tu-convertens-631",
     "chant/co-jerusalem-surge-966"
-   ]
+   ],
+   "file": "Tempora/Adv2-0"
   },
   {
    "id": "tempora-adv3-0",
@@ -261,7 +263,8 @@
     "chant/al-excita-domine-855",
     "chant/of-benedixisti-domine-113",
     "chant/co-dicite-pusillanimes-218"
-   ]
+   ],
+   "file": "Tempora/Adv3-0"
   },
   {
    "id": "tempora-adv3-3",
@@ -275,7 +278,8 @@
     "chant/gr-prope-est-dominus-284",
     "chant/of-confortamini-290",
     "chant/co-ecce-virgo-1144"
-   ]
+   ],
+   "file": "Tempora/Adv3-3"
   },
   {
    "id": "tempora-adv3-5",
@@ -288,7 +292,8 @@
     "chant/gr-ostende-nobis-1055",
     "chant/of-deus-tu-convertens-631",
     "chant/co-ecce-dominus-veniet-439"
-   ]
+   ],
+   "file": "Tempora/Adv3-5"
   },
   {
    "id": "tempora-adv3-6",
@@ -305,7 +310,8 @@
     "chant/tr-qui-regis-israel-1157",
     "chant/of-exsulta-satis-929",
     "chant/co-exsultavit-ut-gigas-88"
-   ]
+   ],
+   "file": "Tempora/Adv3-6"
   },
   {
    "id": "tempora-adv4-0",
@@ -319,7 +325,8 @@
     "chant/al-veni-domine-et-noli-224",
     "chant/of-ave-maria-et-benedictus-843",
     "chant/co-ecce-virgo-1144"
-   ]
+   ],
+   "file": "Tempora/Adv4-0"
   },
   {
    "id": "sancti-12-24",
@@ -333,6 +340,7 @@
     "chant/of-tollite-portas-171",
     "chant/co-revelabitur-367"
    ],
+   "file": "Sancti/12-24",
    "date": "12-24"
   },
   {
@@ -348,6 +356,7 @@
     "chant/of-laetentur-caeli-811",
     "chant/co-in-splendoribus-117"
    ],
+   "file": "Sancti/12-25m1",
    "date": "12-25"
   },
   {
@@ -363,6 +372,7 @@
     "chant/of-deus-enim-979",
     "chant/co-exsulta-filia-1125"
    ],
+   "file": "Sancti/12-25m2",
    "date": "12-25"
   },
   {
@@ -378,6 +388,7 @@
     "chant/of-tui-sunt-caeli-1274",
     "chant/co-viderunt-omnes-1139"
    ],
+   "file": "Sancti/12-25m3",
    "date": "12-25"
   },
   {
@@ -393,6 +404,8 @@
     "chant/of-elegerunt-apostoli-462",
     "chant/co-video-caelos-920"
    ],
+   "file": "Sancti/12-26",
+   "common": "C2a",
    "date": "12-26"
   },
   {
@@ -407,6 +420,8 @@
     "chant/of-justus-ut-palma-777",
     "chant/co-exiit-sermo-781"
    ],
+   "file": "Sancti/12-27",
+   "common": "C1",
    "date": "12-27"
   },
   {
@@ -422,6 +437,8 @@
     "chant/of-anima-nostra-1031",
     "chant/co-vox-in-rama-136"
    ],
+   "file": "Sancti/12-28r",
+   "common": "C3",
    "date": "12-28"
   },
   {
@@ -437,6 +454,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-semel-juravi-317"
    ],
+   "file": "Sancti/12-29r",
+   "common": "C2",
    "date": "12-29"
   },
   {
@@ -452,6 +471,8 @@
     "chant/of-ecce-dedi-358",
     "chant/co-tu-es-petrus-alleluia-509"
    ],
+   "file": "Sancti/12-31r",
+   "common": "C4b",
    "date": "12-31"
   },
   {
@@ -467,6 +488,7 @@
     "chant/of-tui-sunt-caeli-1274",
     "chant/co-viderunt-omnes-1139"
    ],
+   "file": "Sancti/01-01",
    "date": "01-01"
   },
   {
@@ -482,6 +504,8 @@
     "chant/of-ecce-dedi-358",
     "chant/co-tu-es-petrus-alleluia-509"
    ],
+   "file": "Sancti/01-05cc",
+   "common": "C2b",
    "date": "01-05"
   },
   {
@@ -496,7 +520,8 @@
     "chant/al-dominus-regnavit-decorem-714",
     "chant/of-deus-enim-979",
     "chant/co-tolle-puerum-1282"
-   ]
+   ],
+   "file": "Tempora/Nat1-0"
   },
   {
    "id": "tempora-nat2-0",
@@ -513,6 +538,7 @@
     "chant/of-confitebor-tibi-deus-980",
     "chant/co-omnes-gentes-8"
    ],
+   "file": "Tempora/Nat2-0",
    "heads": [
     {
      "at": 4,
@@ -534,7 +560,8 @@
     "chant/al-dies-sanctificatus-324",
     "chant/of-tui-sunt-caeli-1274",
     "chant/co-viderunt-omnes-1139"
-   ]
+   ],
+   "file": "Tempora/Nat29"
   },
   {
    "id": "tempora-nat30",
@@ -548,7 +575,8 @@
     "chant/al-dies-sanctificatus-324",
     "chant/of-tui-sunt-caeli-1274",
     "chant/co-viderunt-omnes-1139"
-   ]
+   ],
+   "file": "Tempora/Nat30"
   },
   {
    "id": "tempora-nat31",
@@ -562,7 +590,8 @@
     "chant/al-dies-sanctificatus-324",
     "chant/of-tui-sunt-caeli-1274",
     "chant/co-viderunt-omnes-1139"
-   ]
+   ],
+   "file": "Tempora/Nat31"
   },
   {
    "id": "sancti-01-06",
@@ -577,6 +606,7 @@
     "chant/of-reges-tharsis-1147",
     "chant/co-vidimus-stellam-918"
    ],
+   "file": "Sancti/01-06",
    "date": "01-06"
   },
   {
@@ -592,6 +622,8 @@
     "chant/of-ecce-dedi-358",
     "chant/co-tu-es-petrus-alleluia-509"
    ],
+   "file": "Sancti/01-11",
+   "common": "C4b",
    "date": "01-11"
   },
   {
@@ -607,6 +639,7 @@
     "chant/of-reges-tharsis-1147",
     "chant/co-vidimus-stellam-918"
    ],
+   "file": "Sancti/01-13",
    "date": "01-13"
   },
   {
@@ -622,7 +655,8 @@
     "chant/tr-hostiam-1153",
     "chant/of-tulerunt-jesum-93",
     "chant/co-descendit-jesus-626"
-   ]
+   ],
+   "file": "Tempora/Epi1-0"
   },
   {
    "id": "tempora-epi2-0",
@@ -636,7 +670,8 @@
     "chant/al-laudate-deum-538",
     "chant/of-jubilate-deo-universa-937",
     "chant/co-dicit-dominus-230"
-   ]
+   ],
+   "file": "Tempora/Epi2-0"
   },
   {
    "id": "tempora-epi3-0",
@@ -650,7 +685,8 @@
     "chant/al-dominus-regnavit-exsultet-1001",
     "chant/of-dextera-domini-47",
     "chant/co-mirabantur-omnes-1148"
-   ]
+   ],
+   "file": "Tempora/Epi3-0"
   },
   {
    "id": "tempora-epi4-0",
@@ -664,7 +700,8 @@
     "chant/al-dominus-regnavit-exsultet-1001",
     "chant/of-dextera-domini-47",
     "chant/co-mirabantur-omnes-1148"
-   ]
+   ],
+   "file": "Tempora/Epi4-0"
   },
   {
    "id": "tempora-epi5-0",
@@ -678,7 +715,8 @@
     "chant/al-dominus-regnavit-exsultet-1001",
     "chant/of-dextera-domini-47",
     "chant/co-mirabantur-omnes-1148"
-   ]
+   ],
+   "file": "Tempora/Epi5-0"
   },
   {
    "id": "tempora-epi6-0",
@@ -692,7 +730,8 @@
     "chant/al-dominus-regnavit-exsultet-1001",
     "chant/of-dextera-domini-47",
     "chant/co-mirabantur-omnes-1148"
-   ]
+   ],
+   "file": "Tempora/Epi6-0"
   },
   {
    "id": "tempora-quadp1-0",
@@ -706,7 +745,8 @@
     "chant/tr-de-profundis-926",
     "chant/of-bonum-est-confiteri-1194",
     "chant/co-illumina-faciem-640"
-   ]
+   ],
+   "file": "Tempora/Quadp1-0"
   },
   {
    "id": "tempora-quadp1-1",
@@ -716,7 +756,8 @@
    "group": "septuagesima",
    "chants": [
     "chant/gr-adjutor-in-opportunitatibus-222"
-   ]
+   ],
+   "file": "Tempora/Quadp1-1"
   },
   {
    "id": "tempora-quadp1-2",
@@ -726,7 +767,8 @@
    "group": "septuagesima",
    "chants": [
     "chant/gr-adjutor-in-opportunitatibus-222"
-   ]
+   ],
+   "file": "Tempora/Quadp1-2"
   },
   {
    "id": "tempora-quadp1-3",
@@ -736,7 +778,8 @@
    "group": "septuagesima",
    "chants": [
     "chant/gr-adjutor-in-opportunitatibus-222"
-   ]
+   ],
+   "file": "Tempora/Quadp1-3"
   },
   {
    "id": "tempora-quadp1-4",
@@ -746,7 +789,8 @@
    "group": "septuagesima",
    "chants": [
     "chant/gr-adjutor-in-opportunitatibus-222"
-   ]
+   ],
+   "file": "Tempora/Quadp1-4"
   },
   {
    "id": "tempora-quadp1-5",
@@ -756,7 +800,8 @@
    "group": "septuagesima",
    "chants": [
     "chant/gr-adjutor-in-opportunitatibus-222"
-   ]
+   ],
+   "file": "Tempora/Quadp1-5"
   },
   {
    "id": "tempora-quadp1-6",
@@ -766,7 +811,8 @@
    "group": "septuagesima",
    "chants": [
     "chant/gr-adjutor-in-opportunitatibus-222"
-   ]
+   ],
+   "file": "Tempora/Quadp1-6"
   },
   {
    "id": "tempora-quadp2-0",
@@ -780,7 +826,8 @@
     "chant/tr-commovisti-1178",
     "chant/of-perfice-gressus-265",
     "chant/co-introibo-554"
-   ]
+   ],
+   "file": "Tempora/Quadp2-0"
   },
   {
    "id": "tempora-quadp2-1",
@@ -790,7 +837,8 @@
    "group": "septuagesima",
    "chants": [
     "chant/gr-sciant-gentes-1265"
-   ]
+   ],
+   "file": "Tempora/Quadp2-1"
   },
   {
    "id": "tempora-quadp2-2",
@@ -800,7 +848,8 @@
    "group": "septuagesima",
    "chants": [
     "chant/gr-sciant-gentes-1265"
-   ]
+   ],
+   "file": "Tempora/Quadp2-2"
   },
   {
    "id": "tempora-quadp2-3",
@@ -810,7 +859,8 @@
    "group": "septuagesima",
    "chants": [
     "chant/gr-sciant-gentes-1265"
-   ]
+   ],
+   "file": "Tempora/Quadp2-3"
   },
   {
    "id": "tempora-quadp2-4",
@@ -820,7 +870,8 @@
    "group": "septuagesima",
    "chants": [
     "chant/gr-sciant-gentes-1265"
-   ]
+   ],
+   "file": "Tempora/Quadp2-4"
   },
   {
    "id": "tempora-quadp2-5",
@@ -830,7 +881,8 @@
    "group": "septuagesima",
    "chants": [
     "chant/gr-sciant-gentes-1265"
-   ]
+   ],
+   "file": "Tempora/Quadp2-5"
   },
   {
    "id": "tempora-quadp2-6",
@@ -840,7 +892,8 @@
    "group": "septuagesima",
    "chants": [
     "chant/gr-sciant-gentes-1265"
-   ]
+   ],
+   "file": "Tempora/Quadp2-6"
   },
   {
    "id": "tempora-quadp3-0",
@@ -853,7 +906,8 @@
     "chant/gr-tu-es-deus-850",
     "chant/tr-jubilate-domino-1299",
     "chant/co-manducaverunt-677"
-   ]
+   ],
+   "file": "Tempora/Quadp3-0"
   },
   {
    "id": "tempora-quadp3-1",
@@ -863,7 +917,8 @@
    "group": "septuagesima",
    "chants": [
     "chant/gr-tu-es-deus-850"
-   ]
+   ],
+   "file": "Tempora/Quadp3-1"
   },
   {
    "id": "tempora-quadp3-2",
@@ -873,7 +928,8 @@
    "group": "septuagesima",
    "chants": [
     "chant/gr-tu-es-deus-850"
-   ]
+   ],
+   "file": "Tempora/Quadp3-2"
   },
   {
    "id": "tempora-quadp3-3",
@@ -887,7 +943,8 @@
     "chant/tr-domine-non-secundum-425",
     "chant/of-exaltabo-te-648",
     "chant/co-qui-meditabitur-582"
-   ]
+   ],
+   "file": "Tempora/Quadp3-3"
   },
   {
    "id": "tempora-quadp3-4",
@@ -900,7 +957,8 @@
     "chant/gr-jacta-cogitatum-423",
     "chant/of-ad-te-domine-962",
     "chant/co-acceptabis-1221"
-   ]
+   ],
+   "file": "Tempora/Quadp3-4"
   },
   {
    "id": "tempora-quadp3-5",
@@ -912,7 +970,8 @@
     "chant/in-audivit-dominus-45",
     "chant/of-domine-vivifica-109",
     "chant/co-servite-domino-897"
-   ]
+   ],
+   "file": "Tempora/Quadp3-5"
   },
   {
    "id": "tempora-quadp3-6",
@@ -925,7 +984,8 @@
     "chant/gr-unam-petii-ut-protegar-229",
     "chant/of-domine-vivifica-109",
     "chant/co-servite-domino-897"
-   ]
+   ],
+   "file": "Tempora/Quadp3-6"
   },
   {
    "id": "tempora-quad1-0",
@@ -939,7 +999,8 @@
     "chant/tr-qui-habitat-889",
     "chant/of-scapulis-suis-294",
     "chant/co-scapulis-suis-1100"
-   ]
+   ],
+   "file": "Tempora/Quad1-0"
   },
   {
    "id": "tempora-quad1-1",
@@ -953,7 +1014,8 @@
     "chant/tr-domine-non-secundum-425",
     "chant/of-levabo-oculos-1060",
     "chant/co-amen-dico-vobis-quod-uni-623"
-   ]
+   ],
+   "file": "Tempora/Quad1-1"
   },
   {
    "id": "tempora-quad1-2",
@@ -966,7 +1028,8 @@
     "chant/gr-dirigatur-oratio-mea-44",
     "chant/of-in-te-speravi-967",
     "chant/co-cum-invocarem-te-384"
-   ]
+   ],
+   "file": "Tempora/Quad1-2"
   },
   {
    "id": "tempora-quad1-3",
@@ -980,7 +1043,8 @@
     "chant/tr-de-necessitatibus-276",
     "chant/of-meditabor-810",
     "chant/co-intellige-clamorem-373"
-   ]
+   ],
+   "file": "Tempora/Quad1-3"
   },
   {
    "id": "tempora-quad1-4",
@@ -993,7 +1057,8 @@
     "chant/gr-custodi-me-1088",
     "chant/of-immittet-angelus-747",
     "chant/co-panis-quem-ego-782"
-   ]
+   ],
+   "file": "Tempora/Quad1-4"
   },
   {
    "id": "tempora-quad1-5",
@@ -1007,7 +1072,8 @@
     "chant/tr-domine-non-secundum-425",
     "chant/of-benedic-anima-mea-1359",
     "chant/co-erubescant-et-conturbentur-484"
-   ]
+   ],
+   "file": "Tempora/Quad1-5"
   },
   {
    "id": "tempora-quad1-6",
@@ -1024,7 +1090,8 @@
     "chant/tr-laudate-omnes-gentes-1247",
     "chant/of-domine-deus-salutis-542",
     "chant/co-domine-deus-meus-131"
-   ]
+   ],
+   "file": "Tempora/Quad1-6"
   },
   {
    "id": "tempora-quad2-0",
@@ -1038,7 +1105,8 @@
     "chant/tr-confitemini-domino-quia-455",
     "chant/of-meditabor-810",
     "chant/co-intellige-clamorem-373"
-   ]
+   ],
+   "file": "Tempora/Quad2-0"
   },
   {
    "id": "tempora-quad2-1",
@@ -1052,7 +1120,8 @@
     "chant/tr-domine-non-secundum-425",
     "chant/of-benedicam-dominum-143",
     "chant/co-domine-dominus-noster-998"
-   ]
+   ],
+   "file": "Tempora/Quad2-1"
   },
   {
    "id": "tempora-quad2-2",
@@ -1065,7 +1134,8 @@
     "chant/gr-jacta-cogitatum-423",
     "chant/of-miserere-mihi-922",
     "chant/co-narrabo-omnia-639"
-   ]
+   ],
+   "file": "Tempora/Quad2-2"
   },
   {
    "id": "tempora-quad2-3",
@@ -1079,7 +1149,8 @@
     "chant/tr-domine-non-secundum-425",
     "chant/of-ad-te-domine-962",
     "chant/co-justus-dominus-268"
-   ]
+   ],
+   "file": "Tempora/Quad2-3"
   },
   {
    "id": "tempora-quad2-4",
@@ -1091,7 +1162,8 @@
     "chant/in-deus-in-adjutorium-501",
     "chant/gr-propitius-esto-332",
     "chant/co-qui-manducat-798"
-   ]
+   ],
+   "file": "Tempora/Quad2-4"
   },
   {
    "id": "tempora-quad2-5",
@@ -1105,7 +1177,8 @@
     "chant/tr-domine-non-secundum-425",
     "chant/of-domine-in-auxilium-993",
     "chant/co-tu-domine-servabis-1159"
-   ]
+   ],
+   "file": "Tempora/Quad2-5"
   },
   {
    "id": "tempora-quad2-6",
@@ -1118,7 +1191,8 @@
     "chant/gr-bonum-est-confiteri-1338",
     "chant/of-illumina-708",
     "chant/co-oportet-te-fili-1066"
-   ]
+   ],
+   "file": "Tempora/Quad2-6"
   },
   {
    "id": "tempora-quad3-0",
@@ -1132,7 +1206,8 @@
     "chant/tr-ad-te-levavi-1329",
     "chant/of-iustitiae-domini-14985",
     "chant/co-passer-invenit-1090"
-   ]
+   ],
+   "file": "Tempora/Quad3-0"
   },
   {
    "id": "tempora-quad3-1",
@@ -1146,7 +1221,8 @@
     "chant/tr-domine-non-secundum-425",
     "chant/of-exaudi-deus-842",
     "chant/co-quis-dabit-931"
-   ]
+   ],
+   "file": "Tempora/Quad3-1"
   },
   {
    "id": "tempora-quad3-2",
@@ -1159,7 +1235,8 @@
     "chant/gr-ab-occultis-meis-1210",
     "chant/of-dextera-domini-47",
     "chant/co-domine-quis-habitabit-1340"
-   ]
+   ],
+   "file": "Tempora/Quad3-2"
   },
   {
    "id": "tempora-quad3-3",
@@ -1173,7 +1250,8 @@
     "chant/tr-domine-non-secundum-425",
     "chant/of-domine-fac-mecum-1369",
     "chant/co-notas-mihi-fecisti-531"
-   ]
+   ],
+   "file": "Tempora/Quad3-3"
   },
   {
    "id": "tempora-quad3-4",
@@ -1186,7 +1264,8 @@
     "chant/gr-oculi-omnium-1230",
     "chant/of-si-ambulavero-18132",
     "chant/co-tu-mandasti-479"
-   ]
+   ],
+   "file": "Tempora/Quad3-4"
   },
   {
    "id": "tempora-quad3-5",
@@ -1200,7 +1279,8 @@
     "chant/tr-domine-non-secundum-425",
     "chant/of-intende-voci-293",
     "chant/co-qui-biberit-894"
-   ]
+   ],
+   "file": "Tempora/Quad3-5"
   },
   {
    "id": "tempora-quad3-6",
@@ -1213,7 +1293,8 @@
     "chant/gr-si-ambulem-1121",
     "chant/of-gressus-meos-1099",
     "chant/co-nemo-te-condemnavit-1010"
-   ]
+   ],
+   "file": "Tempora/Quad3-6"
   },
   {
    "id": "tempora-quad4-0",
@@ -1227,7 +1308,8 @@
     "chant/tr-qui-confidunt-1377",
     "chant/of-laudate-dominum-899",
     "chant/co-jerusalem-quae-1353"
-   ]
+   ],
+   "file": "Tempora/Quad4-0"
   },
   {
    "id": "tempora-quad4-1",
@@ -1239,7 +1321,8 @@
     "chant/gr-esto-mihi-886",
     "chant/tr-domine-non-secundum-425",
     "chant/co-ab-occultis-meis-1316"
-   ]
+   ],
+   "file": "Tempora/Quad4-1"
   },
   {
    "id": "tempora-quad4-2",
@@ -1252,7 +1335,8 @@
     "chant/gr-exsurge-fer-opem-152",
     "chant/of-exspectans-182",
     "chant/co-laetabimur-1296"
-   ]
+   ],
+   "file": "Tempora/Quad4-2"
   },
   {
    "id": "tempora-quad4-3",
@@ -1266,7 +1350,8 @@
     "chant/tr-domine-non-secundum-425",
     "chant/of-benedicite-gentes-860",
     "chant/co-lutum-fecit-989"
-   ]
+   ],
+   "file": "Tempora/Quad4-3"
   },
   {
    "id": "tempora-quad4-4",
@@ -1279,7 +1364,8 @@
     "chant/gr-respice-domine-1232",
     "chant/of-domine-ad-adjuvandum-731",
     "chant/co-domine-memorabor-1318"
-   ]
+   ],
+   "file": "Tempora/Quad4-4"
   },
   {
    "id": "tempora-quad4-5",
@@ -1293,7 +1379,8 @@
     "chant/tr-domine-non-secundum-425",
     "chant/of-populum-humilem-1080",
     "chant/co-videns-dominus-704"
-   ]
+   ],
+   "file": "Tempora/Quad4-5"
   },
   {
    "id": "tempora-quad4-6",
@@ -1306,7 +1393,8 @@
     "chant/gr-tibi-domine-818",
     "chant/of-factus-est-223",
     "chant/co-dominus-regit-me-278"
-   ]
+   ],
+   "file": "Tempora/Quad4-6"
   },
   {
    "id": "tempora-quad5-0",
@@ -1320,7 +1408,8 @@
     "chant/tr-saepe-expugnaverunt-742",
     "chant/of-confitebor-tibi-in-toto-318",
     "chant/co-hoc-corpus-726"
-   ]
+   ],
+   "file": "Tempora/Quad5-0"
   },
   {
    "id": "tempora-quad5-1",
@@ -1334,7 +1423,8 @@
     "chant/tr-domine-non-secundum-425",
     "chant/of-domine-convertere-848",
     "chant/co-dominus-virtutum-81"
-   ]
+   ],
+   "file": "Tempora/Quad5-1"
   },
   {
    "id": "tempora-quad5-2",
@@ -1347,7 +1437,8 @@
     "chant/gr-discerne-causam-665",
     "chant/of-sperent-in-te-1328",
     "chant/co-redime-me-433"
-   ]
+   ],
+   "file": "Tempora/Quad5-2"
   },
   {
    "id": "tempora-quad5-3",
@@ -1361,7 +1452,8 @@
     "chant/tr-domine-non-secundum-425",
     "chant/of-eripe-me-de-inimicis-deus-245",
     "chant/co-lavabo-141"
-   ]
+   ],
+   "file": "Tempora/Quad5-3"
   },
   {
    "id": "tempora-quad5-4",
@@ -1374,7 +1466,8 @@
     "chant/gr-tollite-hostias-282",
     "chant/of-super-flumina-812",
     "chant/co-memento-verbi-tui-696"
-   ]
+   ],
+   "file": "Tempora/Quad5-4"
   },
   {
    "id": "tempora-quad5-5",
@@ -1392,6 +1485,7 @@
     "chant/of-recordare-virgo-787",
     "chant/co-felices-sensus-1180"
    ],
+   "file": "Tempora/Quad5-5",
    "heads": [
     {
      "at": 5,
@@ -1412,7 +1506,8 @@
     "chant/gr-pacifice-loquebantur-819",
     "chant/of-benedictus-es-et-non-tradas-408",
     "chant/co-ne-tradideris-me-1158"
-   ]
+   ],
+   "file": "Tempora/Quad5-6"
   },
   {
    "id": "tempora-quad6-0",
@@ -1426,7 +1521,8 @@
     "chant/tr-deus-deus-meus-372",
     "chant/of-improperium-et-dederunt-486",
     "chant/co-pater-si-non-potest-650"
-   ]
+   ],
+   "file": "Tempora/Quad6-0"
   },
   {
    "id": "tempora-quad6-1",
@@ -1440,7 +1536,8 @@
     "chant/tr-domine-non-secundum-425",
     "chant/of-eripe-me-de-inimicis-domine-411",
     "chant/co-erubescant-et-revereantur-196"
-   ]
+   ],
+   "file": "Tempora/Quad6-1"
   },
   {
    "id": "tempora-quad6-2",
@@ -1453,7 +1550,8 @@
     "chant/gr-ego-autem-903",
     "chant/of-custodi-me-1322",
     "chant/co-adversum-me-397"
-   ]
+   ],
+   "file": "Tempora/Quad6-2"
   },
   {
    "id": "tempora-quad6-3",
@@ -1467,7 +1565,8 @@
     "chant/tr-domine-exaudi-824",
     "chant/of-domine-exaudi-ne-avertas-867",
     "chant/co-potum-meum-588"
-   ]
+   ],
+   "file": "Tempora/Quad6-3"
   },
   {
    "id": "tempora-quad6-4",
@@ -1480,7 +1579,8 @@
     "chant/gr-christus-factus-est-873",
     "chant/of-dextera-domini-47",
     "chant/co-dominus-jesus-140"
-   ]
+   ],
+   "file": "Tempora/Quad6-4"
   },
   {
    "id": "tempora-pasc0-0",
@@ -1495,7 +1595,8 @@
     "chant/se-victimae-paschali-1086",
     "chant/of-terra-tremuit-725",
     "chant/co-pascha-nostrum-952"
-   ]
+   ],
+   "file": "Tempora/Pasc0-0"
   },
   {
    "id": "tempora-pasc0-1",
@@ -1510,7 +1611,8 @@
     "chant/se-victimae-paschali-1086",
     "chant/of-angelus-domini-descendit-789",
     "chant/co-surrexit-dominus-et-apparuit-121"
-   ]
+   ],
+   "file": "Tempora/Pasc0-1"
   },
   {
    "id": "tempora-pasc0-2",
@@ -1525,7 +1627,8 @@
     "chant/se-victimae-paschali-1086",
     "chant/of-intonuit-de-caelo-869",
     "chant/co-si-consurrexistis-243"
-   ]
+   ],
+   "file": "Tempora/Pasc0-2"
   },
   {
    "id": "tempora-pasc0-3",
@@ -1540,7 +1643,8 @@
     "chant/se-victimae-paschali-1086",
     "chant/of-portas-caeli-1361",
     "chant/co-christus-resurgens-593"
-   ]
+   ],
+   "file": "Tempora/Pasc0-3"
   },
   {
    "id": "tempora-pasc0-4",
@@ -1555,7 +1659,8 @@
     "chant/se-victimae-paschali-1086",
     "chant/of-in-die-solemnitatis-1129",
     "chant/co-populus-acquisitionis-1219"
-   ]
+   ],
+   "file": "Tempora/Pasc0-4"
   },
   {
    "id": "tempora-pasc0-5",
@@ -1570,7 +1675,8 @@
     "chant/se-victimae-paschali-1086",
     "chant/of-erit-vobis-151",
     "chant/co-data-est-mihi-1260"
-   ]
+   ],
+   "file": "Tempora/Pasc0-5"
   },
   {
    "id": "tempora-pasc0-6",
@@ -1585,7 +1691,8 @@
     "chant/se-victimae-paschali-1086",
     "chant/of-benedictus-qui-venit-941",
     "chant/co-omnes-qui-in-christo-1293"
-   ]
+   ],
+   "file": "Tempora/Pasc0-6"
   },
   {
    "id": "tempora-pasc1-0",
@@ -1599,7 +1706,8 @@
     "chant/al-post-dies-octo-275",
     "chant/of-angelus-domini-descendit-789",
     "chant/co-mitte-manum-alleluia-953"
-   ]
+   ],
+   "file": "Tempora/Pasc1-0"
   },
   {
    "id": "tempora-pasc2-0",
@@ -1613,7 +1721,8 @@
     "chant/al-ego-sum-pastor-1220",
     "chant/of-deus-deus-meus-924",
     "chant/co-ego-sum-pastor-95"
-   ]
+   ],
+   "file": "Tempora/Pasc2-0"
   },
   {
    "id": "tempora-pasc2-3",
@@ -1627,7 +1736,8 @@
     "chant/al-fac-nos-innocuam-213",
     "chant/of-lauda-jerusalem-845",
     "chant/co-jacob-autem-534"
-   ]
+   ],
+   "file": "Tempora/Pasc2-3"
   },
   {
    "id": "tempora-pasc3-0",
@@ -1641,7 +1751,8 @@
     "chant/al-oportebat-pati-christum-446",
     "chant/of-lauda-anima-668",
     "chant/co-modicum-813"
-   ]
+   ],
+   "file": "Tempora/Pasc3-0"
   },
   {
    "id": "tempora-pasc4-0",
@@ -1654,7 +1765,8 @@
     "chant/al-dextera-dei-159",
     "chant/al-christus-resurgens-1348",
     "chant/of-jubilate-deo-universa-937"
-   ]
+   ],
+   "file": "Tempora/Pasc4-0"
   },
   {
    "id": "tempora-pasc5-0",
@@ -1668,7 +1780,8 @@
     "chant/al-exivi-a-patre-1040",
     "chant/of-benedicite-gentes-860",
     "chant/co-cantate-domino-579"
-   ]
+   ],
+   "file": "Tempora/Pasc5-0"
   },
   {
    "id": "tempora-pasc5-1",
@@ -1680,7 +1793,8 @@
     "chant/in-exaudivit-cum-alleluia-939",
     "chant/of-confitebor-domino-cum-alleluia-584",
     "chant/co-petite-cum-alleluia-364"
-   ]
+   ],
+   "file": "Tempora/Pasc5-1"
   },
   {
    "id": "tempora-pasc5-3",
@@ -1694,7 +1808,8 @@
     "chant/al-exivi-a-patre-1040",
     "chant/of-benedicite-gentes-860",
     "chant/co-cantate-domino-579"
-   ]
+   ],
+   "file": "Tempora/Pasc5-3"
   },
   {
    "id": "tempora-pasc5-4",
@@ -1708,7 +1823,8 @@
     "chant/al-dominus-in-sina-57",
     "chant/of-ascendit-deus-211",
     "chant/co-psallite-domino-263"
-   ]
+   ],
+   "file": "Tempora/Pasc5-4"
   },
   {
    "id": "tempora-pasc5-5",
@@ -1722,7 +1838,8 @@
     "chant/al-dominus-in-sina-57",
     "chant/of-ascendit-deus-211",
     "chant/co-psallite-domino-263"
-   ]
+   ],
+   "file": "Tempora/Pasc5-5"
   },
   {
    "id": "tempora-pasc5-6",
@@ -1736,7 +1853,8 @@
     "chant/al-dominus-in-sina-57",
     "chant/of-ascendit-deus-211",
     "chant/co-psallite-domino-263"
-   ]
+   ],
+   "file": "Tempora/Pasc5-6"
   },
   {
    "id": "tempora-pasc6-0",
@@ -1750,7 +1868,8 @@
     "chant/al-non-vos-relinquam-107",
     "chant/of-ascendit-deus-211",
     "chant/co-pater-cum-essem-1091"
-   ]
+   ],
+   "file": "Tempora/Pasc6-0"
   },
   {
    "id": "tempora-pasc6-1",
@@ -1764,7 +1883,8 @@
     "chant/al-dominus-in-sina-57",
     "chant/of-ascendit-deus-211",
     "chant/co-psallite-domino-263"
-   ]
+   ],
+   "file": "Tempora/Pasc6-1"
   },
   {
    "id": "tempora-pasc6-2",
@@ -1778,7 +1898,8 @@
     "chant/al-dominus-in-sina-57",
     "chant/of-ascendit-deus-211",
     "chant/co-psallite-domino-263"
-   ]
+   ],
+   "file": "Tempora/Pasc6-2"
   },
   {
    "id": "tempora-pasc6-3",
@@ -1792,7 +1913,8 @@
     "chant/al-dominus-in-sina-57",
     "chant/of-ascendit-deus-211",
     "chant/co-psallite-domino-263"
-   ]
+   ],
+   "file": "Tempora/Pasc6-3"
   },
   {
    "id": "tempora-pasc6-4",
@@ -1806,7 +1928,8 @@
     "chant/al-dominus-in-sina-57",
     "chant/of-ascendit-deus-211",
     "chant/co-psallite-domino-263"
-   ]
+   ],
+   "file": "Tempora/Pasc6-4"
   },
   {
    "id": "tempora-pasc6-6",
@@ -1817,7 +1940,8 @@
    "chants": [
     "chant/of-emitte-spiritum-1176",
     "chant/co-ultimo-festivitatis-255"
-   ]
+   ],
+   "file": "Tempora/Pasc6-6"
   },
   {
    "id": "tempora-pasc7-0",
@@ -1832,7 +1956,8 @@
     "chant/se-veni-sancte-spiritus-et-emitte-68",
     "chant/of-confirma-hoc-cum-alleluia-361",
     "chant/co-factus-est-cum-alleluia-1041"
-   ]
+   ],
+   "file": "Tempora/Pasc7-0"
   },
   {
    "id": "tempora-pasc7-1",
@@ -1847,7 +1972,8 @@
     "chant/se-veni-sancte-spiritus-et-emitte-68",
     "chant/of-intonuit-de-caelo-869",
     "chant/co-spiritus-sanctus-1151"
-   ]
+   ],
+   "file": "Tempora/Pasc7-1"
   },
   {
    "id": "tempora-pasc7-2",
@@ -1862,7 +1988,8 @@
     "chant/se-veni-sancte-spiritus-et-emitte-68",
     "chant/of-portas-caeli-1361",
     "chant/co-spiritus-qui-333"
-   ]
+   ],
+   "file": "Tempora/Pasc7-2"
   },
   {
    "id": "tempora-pasc7-3",
@@ -1874,7 +2001,8 @@
     "chant/al-veni-sancte-spiritus-181",
     "chant/se-veni-sancte-spiritus-et-emitte-68",
     "chant/of-meditabor-alleluia-1218"
-   ]
+   ],
+   "file": "Tempora/Pasc7-3"
   },
   {
    "id": "tempora-pasc7-4",
@@ -1889,7 +2017,8 @@
     "chant/se-veni-sancte-spiritus-et-emitte-68",
     "chant/of-confirma-hoc-cum-alleluia-361",
     "chant/co-factus-est-cum-alleluia-1041"
-   ]
+   ],
+   "file": "Tempora/Pasc7-4"
   },
   {
    "id": "tempora-pasc7-5",
@@ -1904,7 +2033,8 @@
     "chant/se-veni-sancte-spiritus-et-emitte-68",
     "chant/of-lauda-anima-668",
     "chant/co-non-vos-relinquam-981"
-   ]
+   ],
+   "file": "Tempora/Pasc7-5"
   },
   {
    "id": "tempora-pasc7-6",
@@ -1918,7 +2048,8 @@
     "chant/se-veni-sancte-spiritus-et-emitte-68",
     "chant/of-domine-deus-salutis-alleluia-987",
     "chant/co-spiritus-ubi-190"
-   ]
+   ],
+   "file": "Tempora/Pasc7-6"
   },
   {
    "id": "tempora-pent01-0",
@@ -1932,7 +2063,8 @@
     "chant/al-benedictus-es-1289",
     "chant/of-benedictus-sit-1303",
     "chant/co-benedicimus-deum-391"
-   ]
+   ],
+   "file": "Tempora/Pent01-0"
   },
   {
    "id": "tempora-pent01-4",
@@ -1947,7 +2079,8 @@
     "chant/se-lauda-sion-308",
     "chant/of-sacerdotes-domini-645",
     "chant/co-quotiescumque-577"
-   ]
+   ],
+   "file": "Tempora/Pent01-4"
   },
   {
    "id": "tempora-pent02-0",
@@ -1961,7 +2094,8 @@
     "chant/al-domine-deus-meus-in-te-801",
     "chant/of-domine-convertere-848",
     "chant/co-cantabo-domino-794"
-   ]
+   ],
+   "file": "Tempora/Pent02-0"
   },
   {
    "id": "tempora-pent02-5",
@@ -1976,7 +2110,8 @@
     "chant/tr-misericors-et-miserator-1244",
     "chant/of-improperium-et-non-inveni-628",
     "chant/co-unus-militum-1356"
-   ]
+   ],
+   "file": "Tempora/Pent02-5"
   },
   {
    "id": "tempora-pent03-0",
@@ -1990,7 +2125,8 @@
     "chant/al-deus-judex-justus-1264",
     "chant/of-sperent-in-te-1328",
     "chant/co-dico-vobis-1058"
-   ]
+   ],
+   "file": "Tempora/Pent03-0"
   },
   {
    "id": "tempora-pent04-0",
@@ -2004,7 +2140,8 @@
     "chant/al-deus-qui-sedes-727",
     "chant/of-illumina-708",
     "chant/co-dominus-firmamentum-512"
-   ]
+   ],
+   "file": "Tempora/Pent04-0"
   },
   {
    "id": "tempora-pent05-0",
@@ -2018,7 +2155,8 @@
     "chant/al-domine-in-virtute-797",
     "chant/of-benedicam-dominum-143",
     "chant/co-unam-petii-574"
-   ]
+   ],
+   "file": "Tempora/Pent05-0"
   },
   {
    "id": "tempora-pent06-0",
@@ -2032,7 +2170,8 @@
     "chant/al-in-te-domine-239",
     "chant/of-perfice-gressus-265",
     "chant/co-circuibo-1079"
-   ]
+   ],
+   "file": "Tempora/Pent06-0"
   },
   {
    "id": "tempora-pent07-0",
@@ -2046,7 +2185,8 @@
     "chant/al-omnes-gentes-plaudite-77",
     "chant/of-sicut-in-holocausto-675",
     "chant/co-inclina-aurem-tuam-339"
-   ]
+   ],
+   "file": "Tempora/Pent07-0"
   },
   {
    "id": "tempora-pent08-0",
@@ -2060,7 +2200,8 @@
     "chant/al-magnus-dominus-709",
     "chant/of-populum-humilem-1080",
     "chant/co-gustate-1203"
-   ]
+   ],
+   "file": "Tempora/Pent08-0"
   },
   {
    "id": "tempora-pent09-0",
@@ -2074,7 +2215,8 @@
     "chant/al-eripe-me-879",
     "chant/of-iustitiae-domini-14985",
     "chant/co-qui-manducat-798"
-   ]
+   ],
+   "file": "Tempora/Pent09-0"
   },
   {
    "id": "tempora-pent10-0",
@@ -2088,7 +2230,8 @@
     "chant/al-te-decet-hymnus-1052",
     "chant/of-ad-te-domine-962",
     "chant/co-acceptabis-1221"
-   ]
+   ],
+   "file": "Tempora/Pent10-0"
   },
   {
    "id": "tempora-pent11-0",
@@ -2102,7 +2245,8 @@
     "chant/al-exsultate-deo-580",
     "chant/of-exaltabo-te-648",
     "chant/co-honora-dominum-1145"
-   ]
+   ],
+   "file": "Tempora/Pent11-0"
   },
   {
    "id": "tempora-pent12-0",
@@ -2115,7 +2259,8 @@
     "chant/gr-benedicam-dominum-1182",
     "chant/al-domine-deus-salutis-1082",
     "chant/co-de-fructu-1245"
-   ]
+   ],
+   "file": "Tempora/Pent12-0"
   },
   {
    "id": "tempora-pent13-0",
@@ -2129,7 +2274,8 @@
     "chant/al-domine-refugium-820",
     "chant/of-in-te-speravi-967",
     "chant/co-panem-de-caelo-388"
-   ]
+   ],
+   "file": "Tempora/Pent13-0"
   },
   {
    "id": "tempora-pent14-0",
@@ -2143,7 +2289,8 @@
     "chant/al-venite-exsultemus-1246",
     "chant/of-immittet-angelus-747",
     "chant/co-primum-quaerite-868"
-   ]
+   ],
+   "file": "Tempora/Pent14-0"
   },
   {
    "id": "tempora-pent15-0",
@@ -2157,7 +2304,8 @@
     "chant/al-quoniam-deus-magnus-1352",
     "chant/of-exspectans-182",
     "chant/co-panis-quem-ego-782"
-   ]
+   ],
+   "file": "Tempora/Pent15-0"
   },
   {
    "id": "tempora-pent16-0",
@@ -2171,7 +2319,8 @@
     "chant/al-cantate-domino-1077",
     "chant/of-domine-in-auxilium-993",
     "chant/co-domine-memorabor-1318"
-   ]
+   ],
+   "file": "Tempora/Pent16-0"
   },
   {
    "id": "tempora-pent17-0",
@@ -2185,7 +2334,8 @@
     "chant/al-domine-exaudi-595",
     "chant/of-oravi-deum-652",
     "chant/co-vovete-1134"
-   ]
+   ],
+   "file": "Tempora/Pent17-0"
   },
   {
    "id": "tempora-pent18-0",
@@ -2199,7 +2349,8 @@
     "chant/al-timebunt-gentes-1097",
     "chant/of-sanctificavit-838",
     "chant/co-tollite-hostias-404"
-   ]
+   ],
+   "file": "Tempora/Pent18-0"
   },
   {
    "id": "tempora-pent19-0",
@@ -2213,7 +2364,8 @@
     "chant/al-confitemini-et-invocate-1192",
     "chant/of-si-ambulavero-18132",
     "chant/co-tu-mandasti-479"
-   ]
+   ],
+   "file": "Tempora/Pent19-0"
   },
   {
    "id": "tempora-pent20-0",
@@ -2227,7 +2379,8 @@
     "chant/al-paratum-cor-meum-745",
     "chant/of-super-flumina-812",
     "chant/co-memento-verbi-tui-696"
-   ]
+   ],
+   "file": "Tempora/Pent20-0"
   },
   {
    "id": "tempora-pent21-0",
@@ -2241,7 +2394,8 @@
     "chant/al-in-exitu-israel-1380",
     "chant/of-vir-erat-1363",
     "chant/co-in-salutari-1290"
-   ]
+   ],
+   "file": "Tempora/Pent21-0"
   },
   {
    "id": "tempora-pent22-0",
@@ -2255,7 +2409,8 @@
     "chant/al-qui-timent-dominum-933",
     "chant/of-recordare-mei-18135",
     "chant/co-ego-clamavi-464"
-   ]
+   ],
+   "file": "Tempora/Pent22-0"
   },
   {
    "id": "tempora-pent23-0",
@@ -2269,7 +2424,8 @@
     "chant/al-de-profundis-331",
     "chant/of-de-profundis-986",
     "chant/co-amen-dico-vobis-quidquid-592"
-   ]
+   ],
+   "file": "Tempora/Pent23-0"
   },
   {
    "id": "tempora-pent24-0",
@@ -2283,7 +2439,8 @@
     "chant/al-de-profundis-331",
     "chant/of-de-profundis-986",
     "chant/co-amen-dico-vobis-quidquid-592"
-   ]
+   ],
+   "file": "Tempora/Pent24-0"
   },
   {
    "id": "sancti-01-14",
@@ -2298,6 +2455,8 @@
     "chant/of-justus-ut-palma-777",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/01-14",
+   "common": "C4a",
    "date": "01-14"
   },
   {
@@ -2313,6 +2472,8 @@
     "chant/of-in-virtute-tua-667",
     "chant/co-laetabitur-justus-617"
    ],
+   "file": "Sancti/01-15",
+   "common": "C5",
    "date": "01-15"
   },
   {
@@ -2328,6 +2489,8 @@
     "chant/of-ecce-dedi-358",
     "chant/co-tu-es-petrus-alleluia-509"
    ],
+   "file": "Sancti/01-16",
+   "common": "C2b",
    "date": "01-16"
   },
   {
@@ -2343,6 +2506,8 @@
     "chant/of-desiderium-animae-722",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/01-17",
+   "common": "C5b",
    "date": "01-17"
   },
   {
@@ -2359,6 +2524,8 @@
     "chant/of-afferentur-proximae-1107",
     "chant/co-confundantur-1032"
    ],
+   "file": "Sancti/01-18r",
+   "common": "C6",
    "date": "01-18",
    "heads": [
     {
@@ -2383,6 +2550,8 @@
     "chant/of-anima-nostra-1031",
     "chant/co-dico-autem-vobis-699"
    ],
+   "file": "Sancti/01-19",
+   "common": "C3a",
    "date": "01-19",
    "heads": [
     {
@@ -2407,6 +2576,8 @@
     "chant/of-laetamini-in-domino-786",
     "chant/co-multitudo-ad-eum-902"
    ],
+   "file": "Sancti/01-20",
+   "common": "C3",
    "date": "01-20",
    "heads": [
     {
@@ -2431,6 +2602,8 @@
     "chant/of-afferentur-proximae-1107",
     "chant/co-quinque-prudentes-1301"
    ],
+   "file": "Sancti/01-21",
+   "common": "C6",
    "date": "01-21",
    "heads": [
     {
@@ -2454,6 +2627,8 @@
     "chant/of-mirabilis-deus-919",
     "chant/co-et-si-coram-658"
    ],
+   "file": "Sancti/01-22",
+   "common": "C3",
    "date": "01-22"
   },
   {
@@ -2469,6 +2644,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/01-23",
+   "common": "C5",
    "date": "01-23"
   },
   {
@@ -2484,6 +2661,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-semel-juravi-317"
    ],
+   "file": "Sancti/01-24",
+   "common": "C2",
    "date": "01-24"
   },
   {
@@ -2500,6 +2679,7 @@
     "chant/of-mihi-autem-nimis-499",
     "chant/co-amen-dico-vobis-quod-vos-1337"
    ],
+   "file": "Sancti/01-25r",
    "date": "01-25",
    "heads": [
     {
@@ -2523,6 +2703,8 @@
     "chant/of-inveni-david-779",
     "chant/co-posuisti-domine-586"
    ],
+   "file": "Sancti/01-26",
+   "common": "C2",
    "date": "01-26"
   },
   {
@@ -2539,6 +2721,8 @@
     "chant/of-justus-ut-palma-777",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/01-27",
+   "common": "C4a",
    "date": "01-27",
    "heads": [
     {
@@ -2562,6 +2746,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/01-28",
+   "common": "C5",
    "date": "01-28"
   },
   {
@@ -2577,6 +2763,8 @@
     "chant/of-justus-ut-palma-777",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/01-29",
+   "common": "C4a",
    "date": "01-29"
   },
   {
@@ -2593,6 +2781,8 @@
     "chant/of-afferentur-proximae-1107",
     "chant/co-confundantur-1032"
    ],
+   "file": "Sancti/01-30",
+   "common": "C6",
    "date": "01-30",
    "heads": [
     {
@@ -2617,6 +2807,8 @@
     "chant/of-venite-filii-805",
     "chant/co-contra-spem-186"
    ],
+   "file": "Sancti/01-31",
+   "common": "C5",
    "date": "01-31",
    "heads": [
     {
@@ -2640,6 +2832,8 @@
     "chant/of-gloria-et-honore-407",
     "chant/co-frumentum-368"
    ],
+   "file": "Sancti/02-01",
+   "common": "C2",
    "date": "02-01"
   },
   {
@@ -2655,6 +2849,8 @@
     "chant/of-diffusa-est-177",
     "chant/co-responsum-803"
    ],
+   "file": "Sancti/02-02",
+   "common": "C11",
    "date": "02-02"
   },
   {
@@ -2670,6 +2866,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-semel-juravi-317"
    ],
+   "file": "Sancti/02-03",
+   "common": "C2",
    "date": "02-03"
   },
   {
@@ -2685,6 +2883,8 @@
     "chant/of-inveni-david-779",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/02-04",
+   "common": "C4",
    "date": "02-04"
   },
   {
@@ -2701,6 +2901,8 @@
     "chant/of-afferentur-post-eam-768",
     "chant/co-qui-me-dignatus-est-454"
    ],
+   "file": "Sancti/02-05",
+   "common": "C6",
    "date": "02-05",
    "heads": [
     {
@@ -2724,6 +2926,8 @@
     "chant/of-inveni-david-779",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/02-06",
+   "common": "C4",
    "date": "02-06"
   },
   {
@@ -2739,6 +2943,8 @@
     "chant/of-desiderium-animae-722",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/02-07",
+   "common": "C5b",
    "date": "02-07"
   },
   {
@@ -2754,6 +2960,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/02-08",
+   "common": "C5",
    "date": "02-08"
   },
   {
@@ -2769,6 +2977,8 @@
     "chant/of-justus-ut-palma-777",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/02-09",
+   "common": "C4a",
    "date": "02-09"
   },
   {
@@ -2785,6 +2995,8 @@
     "chant/of-filiae-regum-1333",
     "chant/co-quinque-prudentes-1301"
    ],
+   "file": "Sancti/02-10",
+   "common": "C6a",
    "date": "02-10",
    "heads": [
     {
@@ -2809,6 +3021,8 @@
     "chant/of-ave-gratia-plena-234",
     "chant/co-visitasti-terram-80"
    ],
+   "file": "Sancti/02-11",
+   "common": "C11",
    "date": "02-11",
    "heads": [
     {
@@ -2832,6 +3046,8 @@
     "chant/of-adducam-eos-1275",
     "chant/co-ego-vos-elegi-470"
    ],
+   "file": "Sancti/02-12",
+   "common": "C5c",
    "date": "02-12"
   },
   {
@@ -2849,6 +3065,8 @@
     "chant/of-gloria-et-honore-407",
     "chant/co-qui-vult-venire-89"
    ],
+   "file": "Sancti/02-14",
+   "common": "C2a",
    "date": "02-14",
    "heads": [
     {
@@ -2872,6 +3090,8 @@
     "chant/of-exsultabunt-sancti-33",
     "chant/co-dico-autem-vobis-699"
    ],
+   "file": "Sancti/02-15",
+   "common": "C3a",
    "date": "02-15"
   },
   {
@@ -2887,6 +3107,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-semel-juravi-317"
    ],
+   "file": "Sancti/02-18",
+   "common": "C2",
    "date": "02-18"
   },
   {
@@ -2903,6 +3125,8 @@
     "chant/of-tu-es-petrus-1234",
     "chant/co-tu-es-petrus-alleluia-509"
    ],
+   "file": "Sancti/02-22",
+   "common": "C4",
    "date": "02-22",
    "heads": [
     {
@@ -2926,6 +3150,8 @@
     "chant/of-justus-ut-palma-777",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/02-23r",
+   "common": "C4a",
    "date": "02-23"
   },
   {
@@ -2941,6 +3167,8 @@
     "chant/of-constitues-eos-17548",
     "chant/co-vos-qui-secuti-dicit-97"
    ],
+   "file": "Sancti/02-24",
+   "common": "C1",
    "date": "02-24",
    "heads": [
     {
@@ -2965,6 +3193,8 @@
     "chant/of-o-domine-et-filius-1193",
     "chant/co-ecce-sto-164"
    ],
+   "file": "Sancti/02-27",
+   "common": "C5",
    "date": "02-27",
    "heads": [
     {
@@ -2988,6 +3218,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/03-04",
+   "common": "C5",
    "date": "03-04"
   },
   {
@@ -3004,6 +3236,8 @@
     "chant/of-diffusa-est-177",
     "chant/co-feci-judicium-844"
    ],
+   "file": "Sancti/03-06",
+   "common": "C7b",
    "date": "03-06",
    "heads": [
     {
@@ -3027,6 +3261,8 @@
     "chant/of-justus-ut-palma-777",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/03-07",
+   "common": "C5a",
    "date": "03-07"
   },
   {
@@ -3042,6 +3278,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/03-08",
+   "common": "C5",
    "date": "03-08"
   },
   {
@@ -3057,6 +3295,8 @@
     "chant/tr-veni-sponsa-christi-256",
     "chant/of-diffusa-est-177"
    ],
+   "file": "Sancti/03-09",
+   "common": "C7a",
    "date": "03-09",
    "heads": [
     {
@@ -3080,6 +3320,8 @@
     "chant/of-laetamini-in-domino-786",
     "chant/co-quicumque-fecerit-957"
    ],
+   "file": "Sancti/03-10",
+   "common": "C3",
    "date": "03-10"
   },
   {
@@ -3095,6 +3337,8 @@
     "chant/of-justus-ut-palma-777",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/03-12",
+   "common": "C4a",
    "date": "03-12"
   },
   {
@@ -3110,6 +3354,8 @@
     "chant/of-inveni-david-779",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/03-17",
+   "common": "C4",
    "date": "03-17"
   },
   {
@@ -3125,6 +3371,8 @@
     "chant/of-justus-ut-palma-777",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/03-18",
+   "common": "C4a",
    "date": "03-18"
   },
   {
@@ -3140,6 +3388,7 @@
     "chant/of-veritas-mea-630",
     "chant/co-joseph-fili-david-139"
    ],
+   "file": "Sancti/03-19",
    "date": "03-19"
   },
   {
@@ -3155,6 +3404,8 @@
     "chant/of-desiderium-animae-722",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/03-21",
+   "common": "C5b",
    "date": "03-21"
   },
   {
@@ -3172,6 +3423,7 @@
     "chant/of-stetit-angelus-302",
     "chant/co-benedicite-omnes-angeli-1127"
    ],
+   "file": "Sancti/03-24",
    "date": "03-24",
    "heads": [
     {
@@ -3197,6 +3449,8 @@
     "chant/of-ave-maria-et-benedictus-843",
     "chant/co-ecce-virgo-1144"
    ],
+   "file": "Sancti/03-25",
+   "common": "C11",
    "date": "03-25",
    "heads": [
     {
@@ -3229,6 +3483,8 @@
     "chant/of-lignum-habet-166",
     "chant/co-brachia-peccatorum-601"
    ],
+   "file": "Sancti/03-27",
+   "common": "C4a",
    "date": "03-27",
    "heads": [
     {
@@ -3260,6 +3516,8 @@
     "chant/of-invocavit-244",
     "chant/co-decantaverunt-877"
    ],
+   "file": "Sancti/03-28",
+   "common": "C4a",
    "date": "03-28",
    "heads": [
     {
@@ -3290,6 +3548,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/04-02",
+   "common": "C5",
    "date": "04-02",
    "heads": [
     {
@@ -3314,6 +3574,8 @@
     "chant/of-justus-ut-palma-777",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/04-04",
+   "common": "C4a",
    "date": "04-04",
    "heads": [
     {
@@ -3338,6 +3600,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/04-05",
+   "common": "C5",
    "date": "04-05",
    "heads": [
     {
@@ -3362,6 +3626,8 @@
     "chant/of-ecce-dedi-358",
     "chant/co-tu-es-petrus-alleluia-509"
    ],
+   "file": "Sancti/04-11",
+   "common": "C4b",
    "date": "04-11",
    "heads": [
     {
@@ -3388,6 +3654,8 @@
     "chant/of-gloria-et-honore-407",
     "chant/co-qui-vult-venire-89"
    ],
+   "file": "Sancti/04-13",
+   "common": "C2a",
    "date": "04-13",
    "heads": [
     {
@@ -3417,6 +3685,8 @@
     "chant/of-non-enim-judicavi-285",
     "chant/co-reposita-est-400"
    ],
+   "file": "Sancti/04-14",
+   "common": "C2a",
    "date": "04-14",
    "heads": [
     {
@@ -3441,6 +3711,8 @@
     "chant/of-ecce-dedi-358",
     "chant/co-tu-es-petrus-alleluia-509"
    ],
+   "file": "Sancti/04-17",
+   "common": "C2b",
    "date": "04-17",
    "heads": [
     {
@@ -3465,6 +3737,8 @@
     "chant/of-justus-ut-palma-777",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/04-21",
+   "common": "C4a",
    "date": "04-21",
    "heads": [
     {
@@ -3489,6 +3763,8 @@
     "chant/of-ecce-dedi-358",
     "chant/co-tu-es-petrus-alleluia-509"
    ],
+   "file": "Sancti/04-22",
+   "common": "C3b",
    "date": "04-22",
    "heads": [
     {
@@ -3515,6 +3791,8 @@
     "chant/of-gloria-et-honore-407",
     "chant/co-qui-vult-venire-89"
    ],
+   "file": "Sancti/04-23",
+   "common": "C2a",
    "date": "04-23",
    "heads": [
     {
@@ -3547,6 +3825,8 @@
     "chant/of-gloria-et-honore-407",
     "chant/co-qui-vult-venire-89"
    ],
+   "file": "Sancti/04-24",
+   "common": "C2a",
    "date": "04-24",
    "heads": [
     {
@@ -3576,6 +3856,8 @@
     "chant/of-confitebuntur-1382",
     "chant/co-laetabitur-justus-617"
    ],
+   "file": "Sancti/04-25",
+   "common": "C1ap",
    "date": "04-25"
   },
   {
@@ -3592,6 +3874,8 @@
     "chant/of-ecce-dedi-358",
     "chant/co-tu-es-petrus-alleluia-509"
    ],
+   "file": "Sancti/04-26",
+   "common": "C3b",
    "date": "04-26",
    "heads": [
     {
@@ -3616,6 +3900,8 @@
     "chant/of-justus-ut-palma-777",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/04-27",
+   "common": "C5a",
    "date": "04-27",
    "heads": [
     {
@@ -3641,6 +3927,8 @@
     "chant/of-ambulate-773",
     "chant/co-communicantes-732"
    ],
+   "file": "Sancti/04-28",
+   "common": "C5",
    "date": "04-28"
   },
   {
@@ -3657,6 +3945,8 @@
     "chant/of-gloria-et-honore-407",
     "chant/co-qui-vult-venire-89"
    ],
+   "file": "Sancti/04-29",
+   "common": "C2a",
    "date": "04-29",
    "heads": [
     {
@@ -3681,6 +3971,8 @@
     "chant/of-filiae-regum-1333",
     "chant/co-quinque-prudentes-1301"
    ],
+   "file": "Sancti/04-30",
+   "common": "C6a",
    "date": "04-30",
    "heads": [
     {
@@ -3704,6 +3996,7 @@
     "chant/of-bonitas-domini-26",
     "chant/co-unde-huic-sapientia-haec-28"
    ],
+   "file": "Sancti/05-01r",
    "date": "05-01"
   },
   {
@@ -3720,6 +4013,8 @@
     "chant/of-inveni-david-779",
     "chant/co-quod-dico-vobis-1002"
    ],
+   "file": "Sancti/05-02",
+   "common": "C4a",
    "date": "05-02"
   },
   {
@@ -3735,6 +4030,8 @@
     "chant/of-mirabilis-deus-919",
     "chant/co-et-si-coram-658"
    ],
+   "file": "Sancti/05-03r",
+   "common": "C3",
    "date": "05-03"
   },
   {
@@ -3750,6 +4047,8 @@
     "chant/al-propter-veritatem-913",
     "chant/of-diffusa-est-177"
    ],
+   "file": "Sancti/05-04",
+   "common": "C7a",
    "date": "05-04",
    "heads": [
     {
@@ -3774,6 +4073,8 @@
     "chant/of-ecce-dedi-358",
     "chant/co-tu-es-petrus-alleluia-509"
    ],
+   "file": "Sancti/05-05",
+   "common": "C4b",
    "date": "05-05",
    "heads": [
     {
@@ -3797,6 +4098,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-semel-juravi-317"
    ],
+   "file": "Sancti/05-07",
+   "common": "C2",
    "date": "05-07"
   },
   {
@@ -3813,6 +4116,8 @@
     "chant/of-justus-ut-palma-777",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/05-09",
+   "common": "C4a",
    "date": "05-09",
    "heads": [
     {
@@ -3837,6 +4142,8 @@
     "chant/of-inveni-david-779",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/05-10",
+   "common": "C4",
    "date": "05-10",
    "heads": [
     {
@@ -3860,6 +4167,8 @@
     "chant/of-confitebuntur-1382",
     "chant/co-tanto-tempore-vobiscum-sum-921"
    ],
+   "file": "Sancti/05-11r",
+   "common": "C1",
    "date": "05-11"
   },
   {
@@ -3875,6 +4184,8 @@
     "chant/of-confitebuntur-1382",
     "chant/co-gaudete-cum-alleluia-772"
    ],
+   "file": "Sancti/05-12",
+   "common": "C3a",
    "date": "05-12"
   },
   {
@@ -3891,6 +4202,8 @@
     "chant/of-mihi-autem-adhaerere-102",
     "chant/co-vos-estis-lux-mundi-559"
    ],
+   "file": "Sancti/05-13",
+   "common": "C4a",
    "date": "05-13",
    "heads": [
     {
@@ -3915,6 +4228,8 @@
     "chant/of-gloria-et-honore-407",
     "chant/co-qui-vult-venire-89"
    ],
+   "file": "Sancti/05-14",
+   "common": "C2a",
    "date": "05-14",
    "heads": [
     {
@@ -3938,6 +4253,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/05-15",
+   "common": "C5",
    "date": "05-15"
   },
   {
@@ -3954,6 +4271,8 @@
     "chant/of-inveni-david-779",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/05-16",
+   "common": "C4",
    "date": "05-16",
    "heads": [
     {
@@ -3978,6 +4297,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/05-17",
+   "common": "C5",
    "date": "05-17",
    "heads": [
     {
@@ -4002,6 +4323,8 @@
     "chant/of-gloria-et-honore-407",
     "chant/co-qui-vult-venire-89"
    ],
+   "file": "Sancti/05-18",
+   "common": "C2a",
    "date": "05-18",
    "heads": [
     {
@@ -4026,6 +4349,8 @@
     "chant/of-ecce-dedi-358",
     "chant/co-tu-es-petrus-alleluia-509"
    ],
+   "file": "Sancti/05-19",
+   "common": "C4b",
    "date": "05-19",
    "heads": [
     {
@@ -4050,6 +4375,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/05-20",
+   "common": "C5",
    "date": "05-20",
    "heads": [
     {
@@ -4069,6 +4396,8 @@
    "chants": [
     "chant/in-si-diligis-me-674"
    ],
+   "file": "Sancti/05-25",
+   "common": "C4b",
    "date": "05-25"
   },
   {
@@ -4085,6 +4414,8 @@
     "chant/of-viam-mandatorum-1253",
     "chant/co-cor-meum-1367"
    ],
+   "file": "Sancti/05-26",
+   "common": "C5",
    "date": "05-26",
    "heads": [
     {
@@ -4105,6 +4436,8 @@
     "chant/in-in-medio-ecclesiae-233",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/05-27",
+   "common": "C5a",
    "date": "05-27"
   },
   {
@@ -4121,6 +4454,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/05-28",
+   "common": "C4",
    "date": "05-28",
    "heads": [
     {
@@ -4145,6 +4480,8 @@
     "chant/of-filiae-regum-1333",
     "chant/co-quinque-prudentes-1301"
    ],
+   "file": "Sancti/05-29",
+   "common": "C6a",
    "date": "05-29",
    "heads": [
     {
@@ -4169,6 +4506,8 @@
     "chant/of-ecce-dedi-358",
     "chant/co-tu-es-petrus-alleluia-509"
    ],
+   "file": "Sancti/05-30",
+   "common": "C2b",
    "date": "05-30",
    "heads": [
     {
@@ -4194,6 +4533,8 @@
     "chant/of-regali-ex-progenie-719",
     "chant/co-regina-mundi-1053"
    ],
+   "file": "Sancti/05-31",
+   "common": "C11",
    "date": "05-31",
    "heads": [
     {
@@ -4218,6 +4559,8 @@
     "chant/of-filiae-regum-1333",
     "chant/co-quinque-prudentes-1301"
    ],
+   "file": "Sancti/06-01",
+   "common": "C6a",
    "date": "06-01",
    "heads": [
     {
@@ -4242,6 +4585,8 @@
     "chant/of-laetamini-in-domino-870",
     "chant/co-justorum-animae-209"
    ],
+   "file": "Sancti/06-02",
+   "common": "C3",
    "date": "06-02",
    "heads": [
     {
@@ -4267,6 +4612,8 @@
     "chant/of-justus-ut-palma-777",
     "chant/co-quam-magna-6"
    ],
+   "file": "Sancti/06-04",
+   "common": "C5",
    "date": "06-04",
    "heads": [
     {
@@ -4290,6 +4637,8 @@
     "chant/of-benedicam-dominum-143",
     "chant/co-qui-vicerit-1190"
    ],
+   "file": "Sancti/06-05",
+   "common": "C2",
    "date": "06-05"
   },
   {
@@ -4306,6 +4655,8 @@
     "chant/of-inveni-david-779",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/06-06",
+   "common": "C4",
    "date": "06-06",
    "heads": [
     {
@@ -4330,6 +4681,8 @@
     "chant/of-mirabilis-deus-919",
     "chant/co-ego-vos-elegi-470"
    ],
+   "file": "Sancti/06-09",
+   "common": "C3a",
    "date": "06-09",
    "heads": [
     {
@@ -4353,6 +4706,8 @@
     "chant/al-propter-veritatem-913",
     "chant/of-diffusa-est-177"
    ],
+   "file": "Sancti/06-10",
+   "common": "C7a",
    "date": "06-10",
    "heads": [
     {
@@ -4376,6 +4731,8 @@
     "chant/of-constitues-eos-17548",
     "chant/co-vos-qui-secuti-dicit-97"
    ],
+   "file": "Sancti/06-11",
+   "common": "C1",
    "date": "06-11"
   },
   {
@@ -4392,6 +4749,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/06-12",
+   "common": "C5",
    "date": "06-12",
    "heads": [
     {
@@ -4416,6 +4775,8 @@
     "chant/of-justus-ut-palma-777",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/06-13",
+   "common": "C5a",
    "date": "06-13",
    "heads": [
     {
@@ -4439,6 +4800,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/06-14",
+   "common": "C4a",
    "date": "06-14"
   },
   {
@@ -4454,6 +4817,8 @@
     "chant/of-mirabilis-deus-919",
     "chant/co-justorum-animae-209"
    ],
+   "file": "Sancti/06-15",
+   "common": "C3",
    "date": "06-15"
   },
   {
@@ -4470,6 +4835,8 @@
     "chant/of-inveni-david-779",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/06-17r",
+   "common": "C4",
    "date": "06-17",
    "heads": [
     {
@@ -4494,6 +4861,8 @@
     "chant/of-justus-ut-palma-777",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/06-18",
+   "common": "C5a",
    "date": "06-18",
    "heads": [
     {
@@ -4518,6 +4887,8 @@
     "chant/of-filiae-regum-1333",
     "chant/co-quinque-prudentes-1301"
    ],
+   "file": "Sancti/06-19",
+   "common": "C6a",
    "date": "06-19",
    "heads": [
     {
@@ -4541,6 +4912,8 @@
     "chant/of-ecce-dedi-358",
     "chant/co-tu-es-petrus-alleluia-509"
    ],
+   "file": "Sancti/06-20",
+   "common": "C2b",
    "date": "06-20"
   },
   {
@@ -4556,6 +4929,8 @@
     "chant/of-quis-ascendet-1306",
     "chant/co-panem-caeli-711"
    ],
+   "file": "Sancti/06-21",
+   "common": "C5",
    "date": "06-21"
   },
   {
@@ -4571,6 +4946,8 @@
     "chant/of-inveni-david-779",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/06-22",
+   "common": "C4",
    "date": "06-22"
   },
   {
@@ -4585,6 +4962,7 @@
     "chant/of-gloria-et-honore-407",
     "chant/co-magna-est-gloria-365"
    ],
+   "file": "Sancti/06-23",
    "date": "06-23"
   },
   {
@@ -4600,6 +4978,7 @@
     "chant/of-justus-ut-palma-777",
     "chant/co-tu-puer-133"
    ],
+   "file": "Sancti/06-24",
    "date": "06-24"
   },
   {
@@ -4615,6 +4994,8 @@
     "chant/of-desiderium-animae-722",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/06-25",
+   "common": "C5b",
    "date": "06-25"
   },
   {
@@ -4630,6 +5011,8 @@
     "chant/of-gloriabuntur-1375",
     "chant/co-et-si-coram-658"
    ],
+   "file": "Sancti/06-26",
+   "common": "C3",
    "date": "06-26"
   },
   {
@@ -4644,6 +5027,8 @@
     "chant/of-mihi-autem-nimis-499",
     "chant/co-simon-joannis-846"
    ],
+   "file": "Sancti/06-28r",
+   "common": "C1a",
    "date": "06-28"
   },
   {
@@ -4659,6 +5044,8 @@
     "chant/of-constitues-eos-17548",
     "chant/co-tu-es-petrus-alleluia-509"
    ],
+   "file": "Sancti/06-29",
+   "common": "C1",
    "date": "06-29"
   },
   {
@@ -4674,6 +5061,8 @@
     "chant/of-mihi-autem-nimis-499",
     "chant/co-amen-dico-vobis-quod-vos-1337"
    ],
+   "file": "Sancti/06-30",
+   "common": "C1",
    "date": "06-30"
   },
   {
@@ -4689,6 +5078,7 @@
     "chant/of-calix-benedictionis-320",
     "chant/co-christus-semel-1019"
    ],
+   "file": "Sancti/07-01",
    "date": "07-01"
   },
   {
@@ -4704,6 +5094,8 @@
     "chant/of-beata-es-virgo-567",
     "chant/co-beata-viscera-160"
    ],
+   "file": "Sancti/07-02",
+   "common": "C11",
    "date": "07-02"
   },
   {
@@ -4719,6 +5111,8 @@
     "chant/of-doctrinam-1300",
     "chant/co-videte-quoniam-703"
    ],
+   "file": "Sancti/07-03r",
+   "common": "C2",
    "date": "07-03"
   },
   {
@@ -4734,6 +5128,8 @@
     "chant/of-in-conspectu-angelorum-662",
     "chant/co-imitatores-201"
    ],
+   "file": "Sancti/07-05",
+   "common": "C5",
    "date": "07-05"
   },
   {
@@ -4749,6 +5145,8 @@
     "chant/of-mirabilis-deus-919",
     "chant/co-quod-dico-vobis-1002"
    ],
+   "file": "Sancti/07-07",
+   "common": "C4",
    "date": "07-07"
   },
   {
@@ -4763,6 +5161,8 @@
     "chant/al-specie-tua-406",
     "chant/of-diffusa-est-177"
    ],
+   "file": "Sancti/07-08",
+   "common": "C7a",
    "date": "07-08"
   },
   {
@@ -4778,6 +5178,8 @@
     "chant/of-anima-nostra-1031",
     "chant/co-quicumque-fecerit-957"
    ],
+   "file": "Sancti/07-10",
+   "common": "C3",
    "date": "07-10"
   },
   {
@@ -4793,6 +5195,8 @@
     "chant/of-ecce-dedi-358",
     "chant/co-tu-es-petrus-alleluia-509"
    ],
+   "file": "Sancti/07-11",
+   "common": "C2b",
    "date": "07-11"
   },
   {
@@ -4808,6 +5212,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/07-12",
+   "common": "C5",
    "date": "07-12"
   },
   {
@@ -4823,6 +5229,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/07-14",
+   "common": "C4a",
    "date": "07-14"
   },
   {
@@ -4838,6 +5246,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/07-15",
+   "common": "C5",
    "date": "07-15"
   },
   {
@@ -4853,6 +5263,8 @@
     "chant/of-recordare-virgo-787",
     "chant/co-regina-mundi-1053"
    ],
+   "file": "Sancti/07-16",
+   "common": "C11",
    "date": "07-16"
   },
   {
@@ -4868,6 +5280,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/07-17",
+   "common": "C5",
    "date": "07-17"
   },
   {
@@ -4883,6 +5297,8 @@
     "chant/of-in-virtute-tua-667",
     "chant/co-infirmus-fui-1126"
    ],
+   "file": "Sancti/07-18",
+   "common": "C5",
    "date": "07-18"
   },
   {
@@ -4898,6 +5314,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/07-19",
+   "common": "C5",
    "date": "07-19"
   },
   {
@@ -4913,6 +5331,8 @@
     "chant/of-quando-orabas-1362",
     "chant/co-religio-munda-1014"
    ],
+   "file": "Sancti/07-20",
+   "common": "C5",
    "date": "07-20"
   },
   {
@@ -4928,6 +5348,8 @@
     "chant/of-justus-ut-palma-777",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/07-21r",
+   "common": "C5a",
    "date": "07-21"
   },
   {
@@ -4943,6 +5365,8 @@
     "chant/of-filiae-regum-1333",
     "chant/co-feci-judicium-844"
    ],
+   "file": "Sancti/07-22",
+   "common": "C7a",
    "date": "07-22"
   },
   {
@@ -4958,6 +5382,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-domine-quinque-talenta-383"
    ],
+   "file": "Sancti/07-23",
+   "common": "C2",
    "date": "07-23"
   },
   {
@@ -4973,6 +5399,8 @@
     "chant/of-afferentur-proximae-1107",
     "chant/co-confundantur-1032"
    ],
+   "file": "Sancti/07-24r",
+   "common": "C6",
    "date": "07-24"
   },
   {
@@ -4988,6 +5416,8 @@
     "chant/of-in-omnem-terram-570",
     "chant/co-vos-qui-secuti-dicit-97"
    ],
+   "file": "Sancti/07-25",
+   "common": "C1",
    "date": "07-25"
   },
   {
@@ -5002,6 +5432,8 @@
     "chant/al-diffusa-est-1076",
     "chant/of-filiae-regum-1333"
    ],
+   "file": "Sancti/07-26",
+   "common": "C7a",
    "date": "07-26"
   },
   {
@@ -5017,6 +5449,8 @@
     "chant/of-gloria-et-honore-407",
     "chant/co-qui-vult-venire-89"
    ],
+   "file": "Sancti/07-27",
+   "common": "C2a",
    "date": "07-27"
   },
   {
@@ -5032,6 +5466,8 @@
     "chant/of-mirabilis-deus-919",
     "chant/co-et-si-coram-658"
    ],
+   "file": "Sancti/07-28",
+   "common": "C3",
    "date": "07-28"
   },
   {
@@ -5047,6 +5483,8 @@
     "chant/of-filiae-regum-1333",
     "chant/co-quinque-prudentes-1301"
    ],
+   "file": "Sancti/07-29",
+   "common": "C6a",
    "date": "07-29"
   },
   {
@@ -5062,6 +5500,8 @@
     "chant/of-mirabilis-deus-919",
     "chant/co-posuerunt-mortalia-184"
    ],
+   "file": "Sancti/07-30",
+   "common": "C3",
    "date": "07-30"
   },
   {
@@ -5075,6 +5515,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-ignem-veni-514"
    ],
+   "file": "Sancti/07-31",
+   "common": "C5",
    "date": "07-31"
   },
   {
@@ -5090,6 +5532,8 @@
     "chant/of-exsultabunt-sancti-33",
     "chant/co-dico-autem-vobis-699"
    ],
+   "file": "Sancti/08-01r",
+   "common": "C3",
    "date": "08-01"
   },
   {
@@ -5105,6 +5549,8 @@
     "chant/of-honora-dominum-1116",
     "chant/co-sacerdos-magnus-1196"
    ],
+   "file": "Sancti/08-02",
+   "common": "C4a",
    "date": "08-02"
   },
   {
@@ -5120,6 +5566,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/08-04",
+   "common": "C5",
    "date": "08-04"
   },
   {
@@ -5135,6 +5583,8 @@
     "chant/of-ave-maria-et-benedictus-843",
     "chant/co-beata-viscera-160"
    ],
+   "file": "Sancti/08-05",
+   "common": "C11",
    "date": "08-05"
   },
   {
@@ -5150,6 +5600,7 @@
     "chant/of-gloria-et-divitiae-125",
     "chant/co-visionem-885"
    ],
+   "file": "Sancti/08-06",
    "date": "08-06"
   },
   {
@@ -5163,6 +5614,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/08-07",
+   "common": "C5",
    "date": "08-07"
   },
   {
@@ -5178,6 +5631,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/08-09",
+   "common": "C5",
    "date": "08-08"
   },
   {
@@ -5192,6 +5647,8 @@
     "chant/of-oratio-mea-185",
     "chant/co-qui-vult-venire-89"
    ],
+   "file": "Sancti/08-09t",
+   "common": "C2b",
    "date": "08-09"
   },
   {
@@ -5207,6 +5664,8 @@
     "chant/of-confessio-105",
     "chant/co-qui-mihi-ministrat-685"
    ],
+   "file": "Sancti/08-10",
+   "common": "C2a",
    "date": "08-10"
   },
   {
@@ -5222,6 +5681,8 @@
     "chant/of-exsultabunt-sancti-33",
     "chant/co-dico-autem-vobis-699"
    ],
+   "file": "Sancti/08-11",
+   "common": "C3a",
    "date": "08-11"
   },
   {
@@ -5237,6 +5698,8 @@
     "chant/of-filiae-regum-1333",
     "chant/co-quinque-prudentes-1301"
    ],
+   "file": "Sancti/08-12",
+   "common": "C6a",
    "date": "08-12"
   },
   {
@@ -5252,6 +5715,8 @@
     "chant/of-exsultabunt-sancti-33",
     "chant/co-dico-autem-vobis-699"
    ],
+   "file": "Sancti/08-13",
+   "common": "C3a",
    "date": "08-13"
   },
   {
@@ -5266,6 +5731,7 @@
     "chant/of-beata-es-virgo-567",
     "chant/co-beata-viscera-160"
    ],
+   "file": "Sancti/08-14",
    "date": "08-14"
   },
   {
@@ -5281,6 +5747,8 @@
     "chant/of-inimicitias-ponam-1083",
     "chant/co-beatam-me-dicent-286"
    ],
+   "file": "Sancti/08-15",
+   "common": "C11",
    "date": "08-15"
   },
   {
@@ -5296,6 +5764,8 @@
     "chant/of-gloria-et-honore-407",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/08-16",
+   "common": "C5",
    "date": "08-16"
   },
   {
@@ -5311,6 +5781,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/08-17",
+   "common": "C5",
    "date": "08-17"
   },
   {
@@ -5326,6 +5798,8 @@
     "chant/of-gloria-et-honore-407",
     "chant/co-qui-vult-venire-89"
    ],
+   "file": "Sancti/08-18r",
+   "common": "C2a",
    "date": "08-18"
   },
   {
@@ -5341,6 +5815,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/08-19",
+   "common": "C5",
    "date": "08-19"
   },
   {
@@ -5356,6 +5832,8 @@
     "chant/of-justus-ut-palma-777",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/08-20",
+   "common": "C5a",
    "date": "08-20"
   },
   {
@@ -5370,6 +5848,8 @@
     "chant/al-specie-tua-406",
     "chant/of-diffusa-est-177"
    ],
+   "file": "Sancti/08-21",
+   "common": "C7a",
    "date": "08-21"
   },
   {
@@ -5385,6 +5865,8 @@
     "chant/of-exsultavit-1045",
     "chant/co-dixit-jesus-matri-suae-982"
    ],
+   "file": "Sancti/08-22",
+   "common": "C11",
    "date": "08-22"
   },
   {
@@ -5400,6 +5882,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/08-23",
+   "common": "C5",
    "date": "08-23"
   },
   {
@@ -5415,6 +5899,8 @@
     "chant/of-mihi-autem-nimis-499",
     "chant/co-vos-qui-secuti-dicit-97"
    ],
+   "file": "Sancti/08-24",
+   "common": "C1",
    "date": "08-24"
   },
   {
@@ -5428,6 +5914,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/08-25",
+   "common": "C5",
    "date": "08-25"
   },
   {
@@ -5443,6 +5931,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-semel-juravi-317"
    ],
+   "file": "Sancti/08-26",
+   "common": "C2",
    "date": "08-26"
   },
   {
@@ -5458,6 +5948,8 @@
     "chant/of-desiderium-pauperum-1331",
     "chant/co-sinite-parvulos-643"
    ],
+   "file": "Sancti/08-27",
+   "common": "C5",
    "date": "08-27"
   },
   {
@@ -5473,6 +5965,8 @@
     "chant/of-justus-ut-palma-777",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/08-28",
+   "common": "C4a",
    "date": "08-28"
   },
   {
@@ -5488,6 +5982,8 @@
     "chant/of-in-virtute-tua-667",
     "chant/co-posuisti-domine-586"
    ],
+   "file": "Sancti/08-29",
+   "common": "C2a",
    "date": "08-29"
   },
   {
@@ -5503,6 +5999,8 @@
     "chant/of-filiae-regum-1333",
     "chant/co-quinque-prudentes-1301"
    ],
+   "file": "Sancti/08-30",
+   "common": "C6a",
    "date": "08-30"
   },
   {
@@ -5518,6 +6016,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/08-31",
+   "common": "C5",
    "date": "08-31"
   },
   {
@@ -5533,6 +6033,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/09-01",
+   "common": "C5",
    "date": "09-01"
   },
   {
@@ -5548,6 +6050,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/09-02",
+   "common": "C5",
    "date": "09-02"
   },
   {
@@ -5563,6 +6067,8 @@
     "chant/of-venite-filii-805",
     "chant/co-caro-mea-vere-90"
    ],
+   "file": "Sancti/09-03",
+   "common": "C4b",
    "date": "09-03"
   },
   {
@@ -5578,6 +6084,8 @@
     "chant/of-inveni-david-779",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/09-05",
+   "common": "C4",
    "date": "09-05"
   },
   {
@@ -5593,6 +6101,8 @@
     "chant/of-beata-es-virgo-567",
     "chant/co-beata-viscera-160"
    ],
+   "file": "Sancti/09-08",
+   "common": "C11",
    "date": "09-08"
   },
   {
@@ -5608,6 +6118,8 @@
     "chant/of-gloria-et-honore-407",
     "chant/co-qui-vult-venire-89"
    ],
+   "file": "Sancti/09-09",
+   "common": "C2a",
    "date": "09-09"
   },
   {
@@ -5623,6 +6135,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/09-10",
+   "common": "C5",
    "date": "09-10"
   },
   {
@@ -5638,6 +6152,8 @@
     "chant/of-exsultabunt-sancti-33",
     "chant/co-dico-autem-vobis-699"
    ],
+   "file": "Sancti/09-11",
+   "common": "C3a",
    "date": "09-11"
   },
   {
@@ -5653,6 +6169,8 @@
     "chant/of-ave-maria-et-benedictus-843",
     "chant/co-beata-viscera-160"
    ],
+   "file": "Sancti/09-12",
+   "common": "C11",
    "date": "09-12"
   },
   {
@@ -5668,6 +6186,7 @@
     "chant/of-protege-domine-195",
     "chant/co-per-signum-crucis-346"
    ],
+   "file": "Sancti/09-14",
    "date": "09-14"
   },
   {
@@ -5684,6 +6203,8 @@
     "chant/of-recordare-virgo-787",
     "chant/co-felices-sensus-1180"
    ],
+   "file": "Sancti/09-15",
+   "common": "C11",
    "date": "09-15"
   },
   {
@@ -5699,6 +6220,8 @@
     "chant/of-mirabilis-deus-919",
     "chant/co-et-si-coram-658"
    ],
+   "file": "Sancti/09-16",
+   "common": "C3",
    "date": "09-16"
   },
   {
@@ -5714,6 +6237,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/09-17",
+   "common": "C5",
    "date": "09-17"
   },
   {
@@ -5729,6 +6254,8 @@
     "chant/of-ego-autem-607",
     "chant/co-ego-sum-pauper-976"
    ],
+   "file": "Sancti/09-18",
+   "common": "C5",
    "date": "09-18"
   },
   {
@@ -5744,6 +6271,8 @@
     "chant/of-exsultabunt-sancti-33",
     "chant/co-dico-autem-vobis-699"
    ],
+   "file": "Sancti/09-19",
+   "common": "C3a",
    "date": "09-19"
   },
   {
@@ -5759,6 +6288,8 @@
     "chant/of-exsultabunt-sancti-33",
     "chant/co-dico-autem-vobis-699"
    ],
+   "file": "Sancti/09-20",
+   "common": "C3a",
    "date": "09-20"
   },
   {
@@ -5774,6 +6305,8 @@
     "chant/of-posuisti-domine-487",
     "chant/co-magna-est-gloria-365"
    ],
+   "file": "Sancti/09-21",
+   "common": "C1a",
    "date": "09-21"
   },
   {
@@ -5789,6 +6322,8 @@
     "chant/of-inveni-david-779",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/09-22",
+   "common": "C4",
    "date": "09-22"
   },
   {
@@ -5804,6 +6339,8 @@
     "chant/of-ecce-dedi-358",
     "chant/co-tu-es-petrus-alleluia-509"
    ],
+   "file": "Sancti/09-23",
+   "common": "C2b",
    "date": "09-23"
   },
   {
@@ -5819,6 +6356,8 @@
     "chant/of-ave-maria-et-benedictus-843",
     "chant/co-beata-viscera-160"
    ],
+   "file": "Sancti/09-24",
+   "common": "C11",
    "date": "09-24"
   },
   {
@@ -5834,6 +6373,8 @@
     "chant/of-exsultabunt-sancti-33",
     "chant/co-dico-autem-vobis-699"
    ],
+   "file": "Sancti/09-26",
+   "common": "C3a",
    "date": "09-26"
   },
   {
@@ -5849,6 +6390,8 @@
     "chant/of-gloriabuntur-1375",
     "chant/co-posuerunt-mortalia-184"
    ],
+   "file": "Sancti/09-27",
+   "common": "C3a",
    "date": "09-27"
   },
   {
@@ -5864,6 +6407,8 @@
     "chant/of-gloria-et-honore-407",
     "chant/co-qui-vult-venire-89"
    ],
+   "file": "Sancti/09-28",
+   "common": "C2a",
    "date": "09-28"
   },
   {
@@ -5879,6 +6424,7 @@
     "chant/of-stetit-angelus-302",
     "chant/co-benedicite-omnes-angeli-1127"
    ],
+   "file": "Sancti/09-29",
    "date": "09-29"
   },
   {
@@ -5894,6 +6440,8 @@
     "chant/of-justus-ut-palma-777",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/09-30",
+   "common": "C5a",
    "date": "09-30"
   },
   {
@@ -5909,6 +6457,8 @@
     "chant/of-inveni-david-779",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/10-01",
+   "common": "C4",
    "date": "10-01"
   },
   {
@@ -5924,6 +6474,8 @@
     "chant/of-benedicite-dominum-omnes-angeli-1270",
     "chant/co-benedicite-omnes-angeli-1127"
    ],
+   "file": "Sancti/10-02",
+   "common": "C4",
    "date": "10-02"
   },
   {
@@ -5939,6 +6491,8 @@
     "chant/of-magnificat-362",
     "chant/co-circumduxit-eam-162"
    ],
+   "file": "Sancti/10-03",
+   "common": "C6a",
    "date": "10-03"
   },
   {
@@ -5954,6 +6508,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/10-04",
+   "common": "C5",
    "date": "10-04"
   },
   {
@@ -5969,6 +6525,8 @@
     "chant/of-exsultabunt-sancti-33",
     "chant/co-dico-autem-vobis-699"
    ],
+   "file": "Sancti/10-05",
+   "common": "C3a",
    "date": "10-05"
   },
   {
@@ -5984,6 +6542,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/10-06",
+   "common": "C5",
    "date": "10-06"
   },
   {
@@ -5998,6 +6558,8 @@
     "chant/of-in-me-gratia-494",
     "chant/co-florete-et-date-104"
    ],
+   "file": "Sancti/10-07",
+   "common": "C11",
    "date": "10-07"
   },
   {
@@ -6012,6 +6574,8 @@
     "chant/al-specie-tua-406",
     "chant/of-diffusa-est-177"
    ],
+   "file": "Sancti/10-08",
+   "common": "C7a",
    "date": "10-08"
   },
   {
@@ -6027,6 +6591,8 @@
     "chant/of-christi-factus-sum-1098",
     "chant/co-quae-mihi-fuerunt-991"
    ],
+   "file": "Sancti/10-09",
+   "common": "C5",
    "date": "10-09"
   },
   {
@@ -6042,6 +6608,8 @@
     "chant/of-desiderium-animae-722",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/10-10",
+   "common": "C5b",
    "date": "10-10"
   },
   {
@@ -6057,6 +6625,8 @@
     "chant/of-cum-esset-desponsata-910",
     "chant/co-beata-viscera-160"
    ],
+   "file": "Sancti/10-11",
+   "common": "C11",
    "date": "10-11"
   },
   {
@@ -6072,6 +6642,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/10-13",
+   "common": "C5",
    "date": "10-13"
   },
   {
@@ -6087,6 +6659,8 @@
     "chant/of-ecce-dedi-358",
     "chant/co-tu-es-petrus-alleluia-509"
    ],
+   "file": "Sancti/10-14",
+   "common": "C2b",
    "date": "10-14"
   },
   {
@@ -6102,6 +6676,8 @@
     "chant/of-filiae-regum-1333",
     "chant/co-quinque-prudentes-1301"
    ],
+   "file": "Sancti/10-15",
+   "common": "C6a",
    "date": "10-15"
   },
   {
@@ -6116,6 +6692,8 @@
     "chant/al-specie-tua-406",
     "chant/of-diffusa-est-177"
    ],
+   "file": "Sancti/10-16",
+   "common": "C7a",
    "date": "10-16"
   },
   {
@@ -6131,6 +6709,8 @@
     "chant/of-quid-bonum-618",
     "chant/co-ego-dilecto-459"
    ],
+   "file": "Sancti/10-17",
+   "common": "C6a",
    "date": "10-17"
   },
   {
@@ -6146,6 +6726,8 @@
     "chant/of-mihi-autem-nimis-499",
     "chant/co-vos-qui-secuti-dicit-97"
    ],
+   "file": "Sancti/10-18",
+   "common": "C1a",
    "date": "10-18"
   },
   {
@@ -6161,6 +6743,8 @@
     "chant/of-in-virtute-tua-667",
     "chant/co-amen-dico-vobis-quod-vos-1337"
    ],
+   "file": "Sancti/10-19",
+   "common": "C5",
    "date": "10-19"
   },
   {
@@ -6176,6 +6760,8 @@
     "chant/of-justitia-indutus-515",
     "chant/co-date-et-dabitur-1003"
    ],
+   "file": "Sancti/10-20",
+   "common": "C5",
    "date": "10-20"
   },
   {
@@ -6191,6 +6777,8 @@
     "chant/of-desiderium-animae-722",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/10-21",
+   "common": "C5b",
    "date": "10-21"
   },
   {
@@ -6206,6 +6794,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/10-23r",
+   "common": "C4",
    "date": "10-23"
   },
   {
@@ -6221,6 +6811,7 @@
     "chant/of-stetit-angelus-302",
     "chant/co-benedicite-omnes-angeli-1127"
    ],
+   "file": "Sancti/10-24",
    "date": "10-24"
   },
   {
@@ -6236,6 +6827,8 @@
     "chant/of-mirabilis-deus-919",
     "chant/co-et-si-coram-658"
    ],
+   "file": "Sancti/10-25",
+   "common": "C3",
    "date": "10-25"
   },
   {
@@ -6251,6 +6844,8 @@
     "chant/of-ecce-dedi-358",
     "chant/co-tu-es-petrus-alleluia-509"
    ],
+   "file": "Sancti/10-26",
+   "common": "C2b",
    "date": "10-26"
   },
   {
@@ -6266,6 +6861,8 @@
     "chant/of-in-omnem-terram-570",
     "chant/co-vos-qui-secuti-dicit-97"
    ],
+   "file": "Sancti/10-28",
+   "common": "C1",
    "date": "10-28"
   },
   {
@@ -6281,6 +6878,8 @@
     "chant/of-justorum-animae-835",
     "chant/co-beati-mundo-corde-345"
    ],
+   "file": "Sancti/11-01",
+   "common": "C3",
    "date": "11-01"
   },
   {
@@ -6297,6 +6896,8 @@
     "chant/of-domine-jesu-christe-1199",
     "chant/co-lux-aeterna-241"
    ],
+   "file": "Sancti/11-02m1",
+   "common": "C9",
    "date": "11-02"
   },
   {
@@ -6313,6 +6914,8 @@
     "chant/of-domine-jesu-christe-1199",
     "chant/co-lux-aeterna-241"
    ],
+   "file": "Sancti/11-02m2",
+   "common": "C9",
    "date": "11-02"
   },
   {
@@ -6329,6 +6932,8 @@
     "chant/of-domine-jesu-christe-1199",
     "chant/co-lux-aeterna-241"
    ],
+   "file": "Sancti/11-02m3",
+   "common": "C9",
    "date": "11-02"
   },
   {
@@ -6344,6 +6949,8 @@
     "chant/of-inveni-david-779",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/11-04",
+   "common": "C4",
    "date": "11-04"
   },
   {
@@ -6359,6 +6966,8 @@
     "chant/of-mirabilis-deus-919",
     "chant/co-et-si-coram-658"
    ],
+   "file": "Sancti/11-08r",
+   "common": "C3",
    "date": "11-08"
   },
   {
@@ -6374,6 +6983,8 @@
     "chant/of-domine-deus-qui-repertus-200",
     "chant/co-domus-mea-43"
    ],
+   "file": "Sancti/11-09",
+   "common": "C8",
    "date": "11-09"
   },
   {
@@ -6389,6 +7000,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/11-10",
+   "common": "C5",
    "date": "11-10"
   },
   {
@@ -6404,6 +7017,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/11-11",
+   "common": "C4",
    "date": "11-11"
   },
   {
@@ -6419,6 +7034,8 @@
     "chant/of-ecce-dedi-358",
     "chant/co-tu-es-petrus-alleluia-509"
    ],
+   "file": "Sancti/11-12",
+   "common": "C2b",
    "date": "11-12"
   },
   {
@@ -6434,6 +7051,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/11-13",
+   "common": "C5",
    "date": "11-13"
   },
   {
@@ -6449,6 +7068,8 @@
     "chant/of-majorem-caritatem-401",
     "chant/co-ego-sum-pastor-95"
    ],
+   "file": "Sancti/11-14",
+   "common": "C2",
    "date": "11-14"
   },
   {
@@ -6464,6 +7085,8 @@
     "chant/of-justus-ut-palma-777",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/11-15",
+   "common": "C4a",
    "date": "11-15"
   },
   {
@@ -6479,6 +7102,8 @@
     "chant/of-filiae-regum-1333",
     "chant/co-quinque-prudentes-1301"
    ],
+   "file": "Sancti/11-16",
+   "common": "C6a",
    "date": "11-16"
   },
   {
@@ -6494,6 +7119,8 @@
     "chant/of-inveni-david-779",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/11-17",
+   "common": "C4",
    "date": "11-17"
   },
   {
@@ -6509,6 +7136,8 @@
     "chant/of-domine-deus-qui-repertus-200",
     "chant/co-domus-mea-43"
    ],
+   "file": "Sancti/11-18r",
+   "common": "C8",
    "date": "11-18"
   },
   {
@@ -6523,6 +7152,8 @@
     "chant/al-specie-tua-406",
     "chant/of-diffusa-est-177"
    ],
+   "file": "Sancti/11-19",
+   "common": "C7a",
    "date": "11-19"
   },
   {
@@ -6538,6 +7169,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/11-20",
+   "common": "C5",
    "date": "11-20"
   },
   {
@@ -6553,6 +7186,8 @@
     "chant/of-ave-maria-et-benedictus-843",
     "chant/co-beata-viscera-160"
    ],
+   "file": "Sancti/11-21",
+   "common": "C11",
    "date": "11-21"
   },
   {
@@ -6568,6 +7203,8 @@
     "chant/of-afferentur-proximae-1107",
     "chant/co-confundantur-1032"
    ],
+   "file": "Sancti/11-22",
+   "common": "C6",
    "date": "11-22"
   },
   {
@@ -6579,6 +7216,8 @@
    "chants": [
     "chant/in-dicit-dominus-sermones-409"
    ],
+   "file": "Sancti/11-23",
+   "common": "C2b",
    "date": "11-23"
   },
   {
@@ -6594,6 +7233,8 @@
     "chant/of-justus-ut-palma-777",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/11-24",
+   "common": "C5a",
    "date": "11-24"
   },
   {
@@ -6609,6 +7250,8 @@
     "chant/of-afferentur-proximae-1107",
     "chant/co-confundantur-1032"
    ],
+   "file": "Sancti/11-25",
+   "common": "C6",
    "date": "11-25"
   },
   {
@@ -6624,6 +7267,8 @@
     "chant/of-desiderium-animae-722",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/11-26",
+   "common": "C5b",
    "date": "11-26"
   },
   {
@@ -6639,6 +7284,8 @@
     "chant/of-gloria-et-honore-407",
     "chant/co-qui-vult-venire-89"
    ],
+   "file": "Sancti/11-29r",
+   "common": "C2a",
    "date": "11-29"
   },
   {
@@ -6653,6 +7300,8 @@
     "chant/al-dilexit-andream-984",
     "chant/of-mihi-autem-nimis-499"
    ],
+   "file": "Sancti/11-30",
+   "common": "C1",
    "date": "11-30"
   },
   {
@@ -6668,6 +7317,8 @@
     "chant/of-afferentur-proximae-1107",
     "chant/co-confundantur-1032"
    ],
+   "file": "Sancti/12-02",
+   "common": "C6",
    "date": "12-02"
   },
   {
@@ -6681,6 +7332,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "file": "Sancti/12-03",
+   "common": "C5",
    "date": "12-03"
   },
   {
@@ -6696,6 +7349,8 @@
     "chant/of-justus-ut-palma-777",
     "chant/co-domine-quinque-talenta-383"
    ],
+   "file": "Sancti/12-04",
+   "common": "C4a",
    "date": "12-04"
   },
   {
@@ -6711,6 +7366,8 @@
     "chant/of-desiderium-animae-722",
     "chant/co-fidelis-servus-1008"
    ],
+   "file": "Sancti/12-05",
+   "common": "C5b",
    "date": "12-05"
   },
   {
@@ -6726,6 +7383,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-semel-juravi-317"
    ],
+   "file": "Sancti/12-06",
+   "common": "C4",
    "date": "12-06"
   },
   {
@@ -6741,6 +7400,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-semel-juravi-317"
    ],
+   "file": "Sancti/12-07",
+   "common": "C4a",
    "date": "12-07"
   },
   {
@@ -6756,6 +7417,8 @@
     "chant/of-ave-maria-210",
     "chant/co-gloriosa-dicta-maria-1004"
    ],
+   "file": "Sancti/12-08",
+   "common": "C11",
    "date": "12-08"
   },
   {
@@ -6771,6 +7434,8 @@
     "chant/of-ecce-dedi-358",
     "chant/co-tu-es-petrus-alleluia-509"
    ],
+   "file": "Sancti/12-10o",
+   "common": "C2b",
    "date": "12-10"
   },
   {
@@ -6786,6 +7451,8 @@
     "chant/of-ecce-dedi-358",
     "chant/co-tu-es-petrus-alleluia-509"
    ],
+   "file": "Sancti/12-11",
+   "common": "C4b",
    "date": "12-11"
   },
   {
@@ -6800,6 +7467,8 @@
     "chant/al-diffusa-est-1076",
     "chant/co-principes-1292"
    ],
+   "file": "Sancti/12-13r",
+   "common": "C6",
    "date": "12-13"
   },
   {
@@ -6815,6 +7484,8 @@
     "chant/of-veritas-mea-630",
     "chant/co-semel-juravi-317"
    ],
+   "file": "Sancti/12-16",
+   "common": "C2",
    "date": "12-16"
   },
   {
@@ -6830,6 +7501,8 @@
     "chant/of-in-omnem-terram-570",
     "chant/co-mitte-manum-alleluia-953"
    ],
+   "file": "Sancti/12-21",
+   "common": "C1",
    "date": "12-21"
   },
   {
@@ -6844,7 +7517,8 @@
     "chant/al-post-partum-127",
     "chant/of-ave-maria-et-benedictus-843",
     "chant/co-beata-viscera-160"
-   ]
+   ],
+   "common": "C10"
   },
   {
    "id": "commune-c10pasc",
@@ -6861,6 +7535,7 @@
     "chant/of-beata-es-virgo-567",
     "chant/co-beata-viscera-160"
    ],
+   "common": "C10Pasc",
    "heads": [
     {
      "at": 3,
@@ -6882,7 +7557,8 @@
     "chant/al-ave-maria-1209",
     "chant/of-ave-maria-et-benedictus-843",
     "chant/co-ecce-virgo-1144"
-   ]
+   ],
+   "common": "C10a"
   },
   {
    "id": "commune-c10b",
@@ -6896,7 +7572,8 @@
     "chant/al-post-partum-127",
     "chant/of-felix-namque-es-280",
     "chant/co-beata-viscera-160"
-   ]
+   ],
+   "common": "C10b"
   },
   {
    "id": "commune-c10c",
@@ -6912,6 +7589,7 @@
     "chant/of-felix-namque-es-280",
     "chant/co-beata-viscera-160"
    ],
+   "common": "C10c",
    "heads": [
     {
      "at": 3,
@@ -6937,6 +7615,7 @@
     "chant/of-ave-maria-et-benedictus-843",
     "chant/co-beata-viscera-160"
    ],
+   "common": "C11",
    "heads": [
     {
      "at": 3,
@@ -6963,7 +7642,8 @@
     "chant/gr-justus-ut-palma-34",
     "chant/of-gloria-et-honore-407",
     "chant/co-magna-est-gloria-365"
-   ]
+   ],
+   "common": "C1v"
   },
   {
    "id": "commune-c2",
@@ -6977,7 +7657,8 @@
     "chant/al-juravit-dominus-1187",
     "chant/of-veritas-mea-630",
     "chant/co-semel-juravi-317"
-   ]
+   ],
+   "common": "C2"
   },
   {
    "id": "commune-c2-1",
@@ -6991,7 +7672,8 @@
     "chant/al-hic-est-sacerdos-1118",
     "chant/of-inveni-david-779",
     "chant/co-posuisti-domine-586"
-   ]
+   ],
+   "common": "C2-1"
   },
   {
    "id": "commune-c2-1p",
@@ -7005,7 +7687,8 @@
     "chant/al-posuisti-domine-1249",
     "chant/of-confitebuntur-1382",
     "chant/co-laetabitur-justus-617"
-   ]
+   ],
+   "common": "C2-1p"
   },
   {
    "id": "commune-c2a",
@@ -7023,6 +7706,7 @@
     "chant/of-gloria-et-honore-407",
     "chant/co-qui-vult-venire-89"
    ],
+   "common": "C2a",
    "heads": [
     {
      "at": 3,
@@ -7053,6 +7737,7 @@
     "chant/of-posuisti-domine-487",
     "chant/co-qui-mihi-ministrat-685"
    ],
+   "common": "C2a-1",
    "heads": [
     {
      "at": 3,
@@ -7076,6 +7761,7 @@
     "chant/of-ecce-dedi-358",
     "chant/co-tu-es-petrus-alleluia-509"
    ],
+   "common": "C2b",
    "heads": [
     {
      "at": 3,
@@ -7097,7 +7783,8 @@
     "chant/al-corpora-sanctorum-1250",
     "chant/of-mirabilis-deus-919",
     "chant/co-et-si-coram-658"
-   ]
+   ],
+   "common": "C3"
   },
   {
    "id": "commune-c3a",
@@ -7111,7 +7798,8 @@
     "chant/al-justi-epulentur-896",
     "chant/of-exsultabunt-sancti-33",
     "chant/co-dico-autem-vobis-699"
-   ]
+   ],
+   "common": "C3a"
   },
   {
    "id": "commune-c3a-1",
@@ -7125,7 +7813,8 @@
     "chant/al-te-martyrum-590",
     "chant/of-justorum-animae-835",
     "chant/co-quod-dico-vobis-1002"
-   ]
+   ],
+   "common": "C3a-1"
   },
   {
    "id": "commune-c3a-1p",
@@ -7139,7 +7828,8 @@
     "chant/al-pretiosa-207",
     "chant/of-laetamini-in-domino-870",
     "chant/co-gaudete-cum-alleluia-772"
-   ]
+   ],
+   "common": "C3a-1p"
   },
   {
    "id": "commune-c4",
@@ -7155,6 +7845,7 @@
     "chant/of-inveni-david-779",
     "chant/co-fidelis-servus-1008"
    ],
+   "common": "C4",
    "heads": [
     {
      "at": 3,
@@ -7179,6 +7870,7 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "common": "C4-1",
    "heads": [
     {
      "at": 3,
@@ -7208,6 +7900,7 @@
     "chant/of-justus-ut-palma-777",
     "chant/co-fidelis-servus-1008"
    ],
+   "common": "C4a",
    "heads": [
     {
      "at": 3,
@@ -7231,6 +7924,7 @@
     "chant/of-veritas-mea-630",
     "chant/co-beatus-servus-1154"
    ],
+   "common": "C5",
    "heads": [
     {
      "at": 3,
@@ -7255,6 +7949,7 @@
     "chant/of-in-virtute-tua-667",
     "chant/co-amen-dico-vobis-quod-vos-1337"
    ],
+   "common": "C5-1",
    "heads": [
     {
      "at": 3,
@@ -7284,6 +7979,7 @@
     "chant/of-desiderium-animae-722",
     "chant/co-fidelis-servus-1008"
    ],
+   "common": "C5b",
    "heads": [
     {
      "at": 3,
@@ -7308,6 +8004,7 @@
     "chant/of-afferentur-proximae-1107",
     "chant/co-confundantur-1032"
    ],
+   "common": "C6",
    "heads": [
     {
      "at": 3,
@@ -7338,6 +8035,7 @@
     "chant/of-diffusa-est-177",
     "chant/co-feci-judicium-844"
    ],
+   "common": "C6-1",
    "heads": [
     {
      "at": 3,
@@ -7368,6 +8066,7 @@
     "chant/of-filiae-regum-1333",
     "chant/co-quinque-prudentes-1301"
    ],
+   "common": "C6a",
    "heads": [
     {
      "at": 3,
@@ -7397,6 +8096,7 @@
     "chant/of-afferentur-proximae-1107",
     "chant/co-simile-est-homini-673"
    ],
+   "common": "C6a-1",
    "heads": [
     {
      "at": 3,
@@ -7421,6 +8121,7 @@
     "chant/of-diffusa-est-177",
     "chant/co-principes-1292"
    ],
+   "common": "C7",
    "heads": [
     {
      "at": 3,
@@ -7450,6 +8151,7 @@
     "chant/al-propter-veritatem-913",
     "chant/of-diffusa-est-177"
    ],
+   "common": "C7a",
    "heads": [
     {
      "at": 3,
@@ -7479,6 +8181,7 @@
     "chant/of-domine-deus-qui-repertus-200",
     "chant/co-domus-mea-43"
    ],
+   "common": "C8",
    "heads": [
     {
      "at": 3,
@@ -7501,7 +8204,8 @@
     "chant/se-dies-irae-1198",
     "chant/of-domine-jesu-christe-1199",
     "chant/co-lux-aeterna-241"
-   ]
+   ],
+   "common": "C9"
   }
  ]
 }

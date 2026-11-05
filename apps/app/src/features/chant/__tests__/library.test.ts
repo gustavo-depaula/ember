@@ -9,6 +9,7 @@ import { type ChantBook, loadChantBook } from '../chants'
 import {
   antiphonaleId,
   chantDays,
+  chantEntries,
   gradualeId,
   placesOfChants,
   searchChants,
@@ -66,10 +67,10 @@ describe('placesOfChants', () => {
 })
 
 describe('searchChants', () => {
-  const ids = () => [...new Set(graduale.sections.flatMap((s) => s.chants))]
+  const ids = (entries: ReturnType<typeof chantEntries>) => entries.map((e) => e.id)
 
   it('finds a chant by its incipit, ligatures and accents aside', () => {
-    expect(searchChants('rorate caeli', ids(), undefined)).toContain(
+    expect(ids(searchChants('rorate caeli', chantEntries(), undefined))).toContain(
       'chant/in-rorate-caeli-caeli-79',
     )
   })
@@ -87,6 +88,8 @@ describe('searchChants', () => {
     const { getJson } = await import('@/content/store')
     const words = await getJson<Record<string, string>>(texts.items['chant-text/all'].hash)
     // The Introit of the first Sunday of Advent goes on: "… non erubescam".
-    expect(searchChants('non erubescam', ids(), words)).toContain('chant/in-ad-te-levavi-132')
+    expect(ids(searchChants('non erubescam', chantEntries(), words))).toContain(
+      'chant/in-ad-te-levavi-132',
+    )
   })
 })

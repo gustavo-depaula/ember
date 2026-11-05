@@ -3,7 +3,7 @@ import type { IndexEntry } from '@/features/practices/searchScore'
 import { normalizeForSearch, searchWords } from '@/lib/search'
 import { href } from '~/routes'
 import { listBibleBooks } from './bible'
-import { listEntries, tileFor } from './catalog'
+import { isPublishedChant, listEntries, tileFor } from './catalog'
 import { bootCorpus } from './corpus'
 import { type Locale, withLocale } from './locale'
 import { saintsCatalog } from './saints'
@@ -29,20 +29,22 @@ export async function buildSearchData(locale: Locale): Promise<SearchData> {
   await bootCorpus()
   const [saints, books] = await Promise.all([saintsCatalog(locale), listBibleBooks(locale)])
   return withLocale(locale, () => {
-    const catalog = buildSearchIndex().map((entry) => {
-      const { kind, id } = entry.result
-      const url =
-        kind === 'practice'
-          ? href.prayer(locale, id)
-          : kind === 'book'
-            ? href.book(locale, id)
-            : kind === 'chant'
-              ? href.chant(locale, id)
-              : href.collection(locale, id)
-      // Descriptions and opening lines make the index several times larger
-      // for a weak signal.
-      return { ...entry, description: undefined, lines: undefined, url }
-    })
+    const catalog = buildSearchIndex()
+      .filter(({ result }) => result.kind !== 'chant' || isPublishedChant(result.id))
+      .map((entry) => {
+        const { kind, id } = entry.result
+        const url =
+          kind === 'practice'
+            ? href.prayer(locale, id)
+            : kind === 'book'
+              ? href.book(locale, id)
+              : kind === 'chant'
+                ? href.chant(locale, id)
+                : href.collection(locale, id)
+        // Descriptions and opening lines make the index several times larger
+        // for a weak signal.
+        return { ...entry, description: undefined, lines: undefined, url }
+      })
     const extra: ExtraEntry[] = [
       ...saints.saints.map((saint) => ({
         kind: 'saint' as const,
