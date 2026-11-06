@@ -46,8 +46,8 @@ type PreferencesState = {
   psalterCycle: PsalterCycle
   language: string
   jurisdiction: string | undefined
+  // Settings' time travel: the whole app as on this date, kept across launches.
   timeTravelDate: string | undefined
-  persistedTimeTravelDate: string | undefined
 
   // The reader's vernacular: the language of the content outside a prayer's
   // own choice, and of a prayer not prayed in Latin.
@@ -76,7 +76,6 @@ type PreferencesState = {
   setLanguage: (language: string) => void
   setJurisdiction: (jurisdiction: string | undefined) => void
   setTimeTravelDate: (date: string | undefined) => void
-  setTimeTravelDateEphemeral: (date: string | undefined) => void
 
   setContentLanguage: (lang: ContentLanguage) => void
   setLatinStance: (stance: LatinStance) => void
@@ -108,7 +107,6 @@ export const usePreferencesStore = create<PreferencesState>()(
     language: initialLanguage,
     jurisdiction: undefined,
     timeTravelDate: undefined,
-    persistedTimeTravelDate: undefined,
     contentLanguage: initialLanguage,
     latinStance: 'tradition',
     bilingualLayout: 'auto',
@@ -166,19 +164,12 @@ export const usePreferencesStore = create<PreferencesState>()(
     setTimeTravelDate: (date) => {
       set((state) => {
         state.timeTravelDate = date
-        state.persistedTimeTravelDate = date
       })
       if (date) {
         setPreference('time-travel-date', date)
       } else {
         removePreference('time-travel-date')
       }
-    },
-
-    setTimeTravelDateEphemeral: (date) => {
-      set((state) => {
-        state.timeTravelDate = date
-      })
     },
 
     setContentLanguage: (lang) => {
@@ -303,7 +294,6 @@ export const usePreferencesStore = create<PreferencesState>()(
         state.jurisdiction = prefs.jurisdiction || undefined
         if (prefs['time-travel-date']) {
           state.timeTravelDate = prefs['time-travel-date']
-          state.persistedTimeTravelDate = prefs['time-travel-date']
         }
 
         const cl = prefs['content-language']

@@ -15,7 +15,7 @@ import {
 } from '@/features/plan-of-life'
 import type { ChecklistItem } from '@/features/plan-of-life/components/PracticeChecklist'
 import { scheduleContextFor } from '@/features/plan-of-life/due'
-import { useStableToday, useToday } from '@/hooks/useToday'
+import { useToday, useViewedDay } from '@/hooks/useToday'
 import { getLiturgicalSeason } from '@/lib/liturgical'
 import { useOfTransfers } from '@/lib/missal/useOfTransfers'
 
@@ -27,9 +27,9 @@ import { useOfTransfers } from '@/lib/missal/useOfTransfers'
  */
 export function useTodayPlan() {
   const router = useRouter()
-  const now = useToday()
+  const now = useViewedDay()
   const selectedDate = format(now, 'yyyy-MM-dd')
-  const anchorDate = format(useStableToday(), 'yyyy-MM-dd')
+  const anchorDate = format(useToday(), 'yyyy-MM-dd')
   const transfers = useOfTransfers()
   const season = useMemo(() => getLiturgicalSeason(now, 'of', transfers), [now, transfers])
 
@@ -63,12 +63,20 @@ export function useTodayPlan() {
         return
       }
       // Pray the active variant; the tapped slot is what the prayer completes.
+      // Another day than today is prayed for that day — its liturgy, its Amen —
+      // and a day ahead can only be read.
+      const otherDay = selectedDate !== anchorDate
       router.push({
         pathname: '/pray/[practiceId]',
-        params: { practiceId: resolvedId, slotKey: item.id },
+        params: {
+          practiceId: resolvedId,
+          slotKey: item.id,
+          ...(otherDay ? { dayDate: selectedDate } : {}),
+          ...(selectedDate > anchorDate ? { read: '1' } : {}),
+        },
       })
     },
-    [router],
+    [router, selectedDate, anchorDate],
   )
 
   return {

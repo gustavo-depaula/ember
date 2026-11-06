@@ -19,7 +19,7 @@ import {
   useSaintOfDayBookImage,
   useSaintOfDayIndex,
 } from '@/features/saints'
-import { useToday } from '@/hooks/useToday'
+import { useViewedDay } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { getLiturgicalSeason } from '@/lib/liturgical'
 import { useGospelOfTheDay } from '@/lib/missal/use-gospel-of-the-day'
@@ -57,7 +57,7 @@ export function ExploreFeatured({ leading }: { leading?: ReactNode }) {
   const router = useRouter()
   const { t } = useTranslation()
   const catalogVersion = useCatalogVersion()
-  const today = useToday()
+  const today = useViewedDay()
   const season = getLiturgicalSeason(today, 'of', useOfTransfers())
   const saint = useSaintOfDay()
   const celebrationDisplay = useCelebrationDisplay(saint?.celebration)
@@ -201,7 +201,7 @@ export function ExploreFeatured({ leading }: { leading?: ReactNode }) {
 export function DailyMeditations() {
   const { t } = useTranslation()
   const catalogVersion = useCatalogVersion()
-  const today = useToday()
+  const today = useViewedDay()
   const featured = pickFeatured(getLiturgicalSeason(today, 'of', useOfTransfers()), today)
   const prayed = usePrayedOn(format(today, 'yyyy-MM-dd'))
 

@@ -25,7 +25,7 @@ import {
   updateSlot,
 } from '@/db/repositories'
 import type { UserPractice } from '@/db/schema'
-import { getToday, useStableToday, useToday } from '@/hooks/useToday'
+import { getToday, useToday, useViewedDay } from '@/hooks/useToday'
 import i18n from '@/lib/i18n'
 import { rescheduleAllReminders } from '@/lib/notifications'
 import { planSlots, programHides } from './due'
@@ -81,7 +81,7 @@ export function usePractice(practiceId: string | undefined): UserPractice | unde
 }
 
 export function useRestartNeededPractices(): Set<string> {
-  const realToday = useStableToday()
+  const realToday = useToday()
   const realKey = realToday.getTime()
   const { slots, practices, cursors, completionsByPractice, completions } = useEventStore(
     useShallow((s) => ({
@@ -132,8 +132,8 @@ export function useProgramProgress(
   program: ProgramConfig | undefined,
   targetDate?: Date,
 ) {
-  const fallbackTarget = useToday()
-  const realToday = useStableToday()
+  const fallbackTarget = useViewedDay()
+  const realToday = useToday()
   const target = targetDate ?? fallbackTarget
   const { slots, cursors, completionsByPractice, completions } = useEventStore(
     useShallow((s) => ({
@@ -182,7 +182,7 @@ export function useProgramDayDates(
   program: ProgramConfig | undefined,
   { restarted = false }: { restarted?: boolean } = {},
 ) {
-  const today = useStableToday()
+  const today = useToday()
   const todayKey = today.getTime()
   const { slots, cursors, completionsByPractice, completions } = useEventStore(
     useShallow((s) => ({
@@ -227,7 +227,7 @@ export function useProgramDayDates(
  * within the last week, so the end is seen before the line goes.
  */
 export function useProgramsUnderWay(slots: SlotState[]): SlotState[] {
-  const today = useStableToday()
+  const today = useToday()
   const todayKey = today.getTime()
   const { cursors, completionsByPractice, completions } = useEventStore(
     useShallow((s) => ({
@@ -275,7 +275,7 @@ export function useProgramsUnderWay(slots: SlotState[]): SlotState[] {
 }
 
 export function useProgramHidesForDate(dateStr: string): ReadonlySet<string> {
-  const realToday = useStableToday()
+  const realToday = useToday()
   const { slots, practices, cursors, completionsByPractice, completions } = useEventStore(
     useShallow((s) => ({
       slots: s.slots,
@@ -493,7 +493,7 @@ export function useFlows(practiceIds: string[]): number {
  * year. Mounted once, where the day's plan is drawn.
  */
 export function useRollStandingPrograms(transfers?: Transfers) {
-  const today = useStableToday()
+  const today = useToday()
   const todayKey = today.getTime()
   const slots = useEventStore((s) => s.slots)
   // biome-ignore lint/correctness/useExhaustiveDependencies: todayKey gates the effect; the Date is read from the closure

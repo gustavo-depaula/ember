@@ -12,7 +12,7 @@ import {
   ShelfPage,
   useShelf,
 } from '@/features/books/shelf'
-import { useStableToday } from '@/hooks/useToday'
+import { useToday } from '@/hooks/useToday'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 
 const windowDays = 60
@@ -23,7 +23,7 @@ type Line = { kind: 'day'; date: string; count: number } | { kind: 'book'; arriv
 export default function NewArrivalsScreen() {
   const { t, i18n } = useTranslation()
   const shelf = useShelf()
-  const today = useStableToday()
+  const today = useToday()
   const since = format(subDays(today, windowDays), 'yyyy-MM-dd')
 
   const lines = useMemo<Line[]>(() => {

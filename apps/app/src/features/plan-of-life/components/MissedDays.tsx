@@ -5,7 +5,7 @@ import { XStack, YStack } from 'tamagui'
 
 import { AnimatedCheckbox, AnimatedPressable, Typography } from '@/components'
 import type { ProgramConfig } from '@/content/types'
-import { useStableToday } from '@/hooks/useToday'
+import { useToday } from '@/hooks/useToday'
 import { lightTap } from '@/lib/haptics'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 
@@ -30,7 +30,7 @@ export function MissedDays({
   program: ProgramConfig
 }) {
   const { t } = useTranslation()
-  const today = useStableToday()
+  const today = useToday()
   const progress = useProgramProgress(practiceId, program, today)
   const dates = useProgramDayDates(practiceId, program)
   const restartDates = useProgramDayDates(practiceId, program, { restarted: true })

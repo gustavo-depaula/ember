@@ -6,15 +6,17 @@ import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { useEventStore } from '@/db/events'
 import { sortedCompletionDates, useSlots } from '@/features/plan-of-life/hooks'
 import { parseSchedule } from '@/features/plan-of-life/schedule'
-import { useToday } from '@/hooks/useToday'
+import { useToday, useViewedDay } from '@/hooks/useToday'
 import { useOfTransfers } from '@/lib/missal/useOfTransfers'
 
 import { type JoinedProgram, type ProgramEvent, programEvents } from './programEvents'
 
 /** The programs on Today's events row — see `programEvents`. */
 export function useProgramEvents(): ProgramEvent[] {
-  const today = useToday()
+  const today = useViewedDay()
+  const realToday = useToday()
   const todayKey = today.getTime()
+  const realKey = realToday.getTime()
   const transfers = useOfTransfers()
   const catalogVersion = useCatalogVersion()
   const slots = useSlots()
@@ -26,7 +28,7 @@ export function useProgramEvents(): ProgramEvent[] {
     })),
   )
 
-  // biome-ignore lint/correctness/useExhaustiveDependencies: todayKey keys the day and catalogVersion the manifests; the Date is read from the closure
+  // biome-ignore lint/correctness/useExhaustiveDependencies: todayKey/realKey key the days and catalogVersion the manifests; the Date is read from the closure
   return useMemo(() => {
     const joined = new Map<string, JoinedProgram>()
     for (const slot of slots) {
@@ -46,7 +48,17 @@ export function useProgramEvents(): ProgramEvent[] {
       joined: [...joined.values()],
       manifests: getAllManifests().filter((m) => m.program && !isAlternateForm(m)),
       today,
+      realToday,
       transfers,
     })
-  }, [slots, cursors, completionsByPractice, completions, todayKey, transfers, catalogVersion])
+  }, [
+    slots,
+    cursors,
+    completionsByPractice,
+    completions,
+    todayKey,
+    realKey,
+    transfers,
+    catalogVersion,
+  ])
 }

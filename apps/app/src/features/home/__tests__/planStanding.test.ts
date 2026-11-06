@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest'
 
 import { dayMinutes } from '@/features/plan-of-life/timeBlocks'
-import { entriesAround, owedAt, planStanding } from '../planStanding'
+import { entriesAround, hourOfDay, owedAt, planStanding } from '../planStanding'
 
 const plan = [
   { block: 'morning' as const, slots: [['offering', '06:00'], ['lauds']] },
@@ -88,5 +88,36 @@ describe('entriesAround', () => {
     const all = new Set(blocks.flatMap((b) => b.slots.map((s) => s.id)))
     const day = planStanding(blocks, all, at('08:00'))
     expect(ids(entriesAround(day.entries, 'morning', 3))).toEqual(['reading', 'examen', 'compline'])
+  })
+})
+
+describe('a day the date scrubber shows', () => {
+  const today = '2026-11-06'
+  const afternoon = 15 * 60
+  const standingOn = (date: string) => {
+    const { now } = hourOfDay(date, today, afternoon)
+    return planStanding(blocks, morningDone, now)
+  }
+
+  it('reads today at the clock', () => {
+    expect(standingOn(today).standing).toBe('atrisk')
+  })
+
+  it('reads a day ahead as not yet begun, whatever the clock says', () => {
+    const day = standingOn('2026-11-07')
+    expect(day.standing).toBe('ontrack')
+    expect(day.entries.some((e) => e.status === 'late')).toBe(false)
+    expect(hourOfDay('2026-11-07', today, afternoon).current).toBe('morning')
+  })
+
+  it('reads a day gone by as over, its unprayed practices all late', () => {
+    const day = standingOn('2026-11-05')
+    expect(day.standing).toBe('atrisk')
+    expect(day.entries.filter((e) => e.status === 'late').map((e) => e.id)).toEqual([
+      'angelus',
+      'reading',
+      'examen',
+      'compline',
+    ])
   })
 })

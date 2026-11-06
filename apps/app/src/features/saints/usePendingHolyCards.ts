@@ -19,7 +19,7 @@ import { useShallow } from 'zustand/react/shallow'
 import { useEventStore } from '@/db/events'
 import { getPreference, recordHolyCardCopy, setPreference } from '@/db/repositories'
 import { useCompletionRange } from '@/features/plan-of-life/completion'
-import { getToday, useToday } from '@/hooks/useToday'
+import { getToday, useToday, useViewedDay } from '@/hooks/useToday'
 import { loadMissalCalendar } from '@/lib/missal/loaders'
 import { useOfRegions, useOfTransfers } from '@/lib/missal/useOfTransfers'
 
@@ -93,10 +93,16 @@ export function holyCardCatalog(
  * What the holy-card rules read: the acts the plan's records hold, the
  * calendar and the cards drawn so far. Undefined while the calendar and the
  * cards load.
+ *
+ * Cards are won and lapse on the real day (`today`); the day Today's date
+ * scrubber looks at (`viewed`) only chooses which day's cards are shown. Judged
+ * on a scrubbed day, a novena would take its one-miss allowance before its last
+ * day had gone by, and an envelope already lapsed would open again.
  */
-function useHolyCardInput(): { input: EngineInput; today: string } | undefined {
+function useHolyCardInput(): { input: EngineInput; today: string; viewed: string } | undefined {
   const day = useToday()
   const today = format(day, 'yyyy-MM-dd')
+  const viewed = format(useViewedDay(), 'yyyy-MM-dd')
   const holyCards = useHolyCardCatalog()
   const regions = useOfRegions()
   const transfers = useOfTransfers()
@@ -110,7 +116,11 @@ function useHolyCardInput(): { input: EngineInput; today: string } | undefined {
     queryFn: holyCardsSince,
     staleTime: Number.POSITIVE_INFINITY,
   })
-  const start = useMemo(() => historyStart(today, transfers), [today, transfers])
+  // Far enough back for the day viewed, when it is one gone by.
+  const start = useMemo(
+    () => historyStart(viewed < today ? viewed : today, transfers),
+    [viewed, today, transfers],
+  )
   const completions = useCompletionRange(start, today)
   const plan = useEventStore(
     useShallow((s) => ({
@@ -145,8 +155,9 @@ function useHolyCardInput(): { input: EngineInput; today: string } | undefined {
   return useMemo(() => {
     if (!statics || !catalog || !since) return undefined
     const calendar = { statics, regions, transfers }
-    return { input: { acts, occurrences: [], calendar, catalog, firstOpened: since }, today }
-  }, [statics, regions, transfers, catalog, since, acts, today])
+    const input = { acts, occurrences: [], calendar, catalog, firstOpened: since }
+    return { input, today, viewed }
+  }, [statics, regions, transfers, catalog, since, acts, today, viewed])
 }
 
 /**
@@ -203,7 +214,7 @@ export function useCardsToday(): TodayCard[] | undefined {
     () =>
       rules &&
       todayCards(
-        offersToday(rules.input, rules.today),
+        offersToday(rules.input, rules.viewed),
         new Map([...copies.values()].map((c) => [c.grant, c.card])),
       ),
     [rules, copies],
@@ -222,7 +233,7 @@ export function useCardsAhead(days: number): CardsAhead[] | undefined {
   const rules = useHolyCardInput()
   return useMemo(() => {
     if (!rules) return undefined
-    const today = parseISO(rules.today)
+    const today = parseISO(rules.viewed)
     return Array.from({ length: days }, (_, i) => format(addDays(today, i + 1), 'yyyy-MM-dd'))
       .map((date) => ({ date, cards: todayCards(offersToday(rules.input, date), new Map()) }))
       .filter((day) => day.cards.length > 0)

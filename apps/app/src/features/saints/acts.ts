@@ -1,5 +1,4 @@
 import type { Act, EmberSeason } from '@ember/holy-cards'
-import { logicalDay } from '@ember/liturgical'
 import { format } from 'date-fns'
 
 import { canonicalize, getEntry } from '@/content/contentIndex'
@@ -110,21 +109,21 @@ export function novenaActs(
 }
 
 /**
- * The dates a practice was marked on the day itself. A round's day is kept
- * only so: a fast can't be made up, and a day ticked afterwards doesn't
- * count.
+ * The dates a practice was prayed. A day ticked afterwards — from the
+ * checklist, or on a day the date scrubber went back to — counts as the others
+ * do; a day a program filled in after missing it doesn't.
  */
-export function markedOnTheDay(plan: Plan, practiceId: string): Set<string> {
+export function daysKept(plan: Plan, practiceId: string): Set<string> {
   return new Set(
     resolveCompletions(plan.completionsByPractice.get(practiceId), plan.completions)
-      .filter((c) => format(logicalDay(new Date(c.completed_at)), 'yyyy-MM-dd') === c.date)
+      .filter((c) => !isBackfill(c))
       .map((c) => c.date),
   )
 }
 
 /** How many of a round's days were kept. */
 export function roundDaysKept(plan: Plan, practiceId: string, days: string[]): number {
-  const kept = markedOnTheDay(plan, practiceId)
+  const kept = daysKept(plan, practiceId)
   return days.filter((d) => kept.has(d)).length
 }
 
