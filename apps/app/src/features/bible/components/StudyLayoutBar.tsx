@@ -120,8 +120,11 @@ export function StudyLayoutBar({ hebrew, study }: { hebrew: boolean; study: bool
     requestAnimationFrame(() => setTimeout(() => setStored(change), 0))
   }
   const [choosing, setChoosing] = useState(false)
-  // Beside the Greek, any edition that is not itself Greek.
-  const editions = translationsFor(i18n.language).filter((tr) => tr.language !== 'GRC')
+  // Beside the Greek, any edition that is not itself Greek. Beside the Hebrew,
+  // the reader's own language: the Greek and the Latin are witnesses of their own.
+  const editions = translationsFor(i18n.language).filter((tr) =>
+    hebrew ? !['GRC', 'HBO', 'LA'].includes(tr.language) : tr.language !== 'GRC',
+  )
   const parallel = editions.find((tr) => tr.code === layout.parallel) ?? editions[0]
   const modes: StudyLayout['mode'][] = ['text', 'interlinear', 'parallel']
 
@@ -146,36 +149,49 @@ export function StudyLayoutBar({ hebrew, study }: { hebrew: boolean; study: bool
 
       {study && layout.mode === 'interlinear' ? (
         <XStack gap="$lg">
-          <Toggle
-            label={t('bible.layout.lemma')}
-            on={layout.lemma}
-            onPress={() => choose({ lemma: !layout.lemma })}
-          />
-          <Toggle
-            label={t('bible.layout.parsing')}
-            on={layout.parsing}
-            onPress={() => choose({ parsing: !layout.parsing })}
-          />
+          {(hebrew
+            ? (['pieces', 'sound', 'parsing'] as const)
+            : (['lemma', 'parsing'] as const)
+          ).map((line) => (
+            <Toggle
+              key={line}
+              label={t(`bible.layout.${hebrew && line === 'parsing' ? 'grammar' : line}`)}
+              on={layout[line]}
+              onPress={() => choose({ [line]: !layout[line] })}
+            />
+          ))}
         </XStack>
       ) : undefined}
 
       {study && layout.mode === 'parallel' ? (
         <YStack>
-          <Pressable
-            onPress={() => setChoosing(!choosing)}
-            hitSlop={10}
-            accessibilityRole="button"
-            accessibilityLabel={t('a11y.parallelEdition')}
-            accessibilityState={{ expanded: choosing }}
-          >
-            <XStack alignItems="center" gap={6} minHeight={32}>
-              <Typography variant="label" fontSize="$1" letterSpacing={1.5} tone="muted">
-                {t('bible.layout.with').toUpperCase()}
-              </Typography>
-              <Typography fontSize="$2">{parallel?.name}</Typography>
-              <ChevronDown size={14} color={theme.colorSecondary.val} />
-            </XStack>
-          </Pressable>
+          <XStack alignItems="center" gap="$lg" flexWrap="wrap">
+            {hebrew
+              ? (['septuagint', 'vulgate'] as const).map((witness) => (
+                  <Toggle
+                    key={witness}
+                    label={t(`bible.layout.${witness}`)}
+                    on={layout[witness]}
+                    onPress={() => choose({ [witness]: !layout[witness] })}
+                  />
+                ))
+              : undefined}
+            <Pressable
+              onPress={() => setChoosing(!choosing)}
+              hitSlop={10}
+              accessibilityRole="button"
+              accessibilityLabel={t('a11y.parallelEdition')}
+              accessibilityState={{ expanded: choosing }}
+            >
+              <XStack alignItems="center" gap={6} minHeight={32}>
+                <Typography variant="label" fontSize="$1" letterSpacing={1.5} tone="muted">
+                  {t('bible.layout.with').toUpperCase()}
+                </Typography>
+                <Typography fontSize="$2">{parallel?.name}</Typography>
+                <ChevronDown size={14} color={theme.colorSecondary.val} />
+              </XStack>
+            </Pressable>
+          </XStack>
           {choosing ? (
             <YStack paddingVertical="$xs" accessibilityRole="radiogroup">
               {editions.map((tr) => {
@@ -191,27 +207,36 @@ export function StudyLayoutBar({ hebrew, study }: { hebrew: boolean; study: bool
                     accessibilityLabel={tr.name}
                     accessibilityState={{ selected }}
                   >
-                    <Typography
-                      fontSize="$3"
-                      lineHeight={36}
-                      color={selected ? '$colorBurgundy' : '$color'}
-                    >
-                      {tr.name}
-                    </Typography>
+                    <XStack alignItems="baseline" justifyContent="space-between" gap="$md">
+                      <Typography
+                        fontSize="$3"
+                        lineHeight={36}
+                        color={selected ? '$colorBurgundy' : '$color'}
+                      >
+                        {tr.name}
+                      </Typography>
+                      {hebrew && tr.translatedFrom ? (
+                        <Typography variant="caption" fontSize="$2">
+                          {t(`bible.translatedFrom.${tr.translatedFrom}`)}
+                        </Typography>
+                      ) : undefined}
+                    </XStack>
                   </Pressable>
                 )
               })}
             </YStack>
           ) : undefined}
-          <TabLine
-            tabs={[
-              { id: 'rows', label: t('bible.layout.rows') },
-              { id: 'columns', label: t('bible.layout.columns') },
-            ]}
-            selected={layout.columns ? 'columns' : 'rows'}
-            onSelect={(id) => choose({ columns: id === 'columns' })}
-            bleed
-          />
+          {hebrew ? undefined : (
+            <TabLine
+              tabs={[
+                { id: 'rows', label: t('bible.layout.rows') },
+                { id: 'columns', label: t('bible.layout.columns') },
+              ]}
+              selected={layout.columns ? 'columns' : 'rows'}
+              onSelect={(id) => choose({ columns: id === 'columns' })}
+              bleed
+            />
+          )}
         </YStack>
       ) : undefined}
     </YStack>

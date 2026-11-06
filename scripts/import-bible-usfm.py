@@ -127,7 +127,9 @@ TEXT_MARKERS = {"p", "m", "pi", "pi1", "q", "q1", "q2", "q3", "qm", "nb", "pc", 
 
 
 def clean(text: str) -> str:
-    text = re.sub(r"\\f .*?\\f\*", "", text)  # Challoner's annotations
+    # Challoner's annotations, and the Vulgate's glosses (Psalm 1:1, Job 1:1), which
+    # run over several lines: without DOTALL they slipped into the verse, markers stripped.
+    text = re.sub(r"\\f .*?\\f\*", "", text, flags=re.S)
     text = re.sub(r"\\x .*?\\x\*", "", text)  # cross-references
     text = re.sub(r"\\rq .*?\\rq\*", "", text)
     text = re.sub(r"\\vp .*?\\vp\*", "", text)  # alternate printed verse number

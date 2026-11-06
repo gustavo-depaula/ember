@@ -45,7 +45,9 @@ export type HebrewWord = {
 }
 
 /** A slot with a word in it to study. */
-export function isStudiable(word: HebrewWord | undefined): word is HebrewWord {
+export function isStudiable(
+  word: HebrewWord | undefined,
+): word is HebrewWord & { p: [HebrewPiece, ...HebrewPiece[]] } {
   return word !== undefined && word.p.length > 0
 }
 

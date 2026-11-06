@@ -3,6 +3,8 @@ export type PsalmNumbering = 'mt' | 'lxx'
 export type Translation = {
   code: string
   name: string
+  /** The name where room is short: a witness's label beside the Hebrew. */
+  shortName?: string
   language: string
   description: string
   numbering: PsalmNumbering
@@ -20,36 +22,48 @@ export type Translation = {
   words?: true
   /** The edition the books this one lacks are read from, so a Testament reads as a whole Bible. */
   completes?: string
+  /**
+   * What a translation was made from, where its own front matter says so: a
+   * reader comparing it with the Hebrew and the Greek sees which it follows.
+   */
+  translatedFrom?: 'vulgate'
 }
 
 export const translations: Translation[] = [
   {
     code: 'DRB',
     name: 'Douay-Rheims Bible',
+    shortName: 'Douay',
     language: 'EN',
     description: 'Bishop Challoner’s revision (1749–52), the classic English Catholic Bible.',
     numbering: 'lxx',
     corpus: 'drb',
+    translatedFrom: 'vulgate',
   },
   {
     code: 'CPDV',
     name: 'Catholic Public Domain Version',
+    shortName: 'CPDV',
     language: 'EN',
     description: 'Ronald Conte’s modern English translation of the Vulgate (2009).',
     numbering: 'lxx',
     corpus: 'cpdv',
+    translatedFrom: 'vulgate',
   },
   {
     code: 'KNOX',
     name: 'Knox Bible',
+    shortName: 'Knox',
     language: 'EN',
     description: 'Mgr Ronald Knox’s literary translation of the Vulgate (1945–50).',
     numbering: 'lxx',
     corpus: 'knox',
+    translatedFrom: 'vulgate',
   },
   {
     code: 'AM',
     name: 'Bíblia Ave Maria',
+    shortName: 'Ave Maria',
     language: 'PT',
     description:
       'A tradução dos Missionários Claretianos, a mais lida no Brasil. Lida dos Claretianos.',
@@ -58,10 +72,12 @@ export const translations: Translation[] = [
   {
     code: 'MS',
     name: 'Bíblia Matos Soares',
+    shortName: 'Matos Soares',
     language: 'PT',
     description: 'A tradução portuguesa do Pe. Matos Soares, na edição de 1956.',
     numbering: 'lxx',
     corpus: 'matos-soares',
+    translatedFrom: 'vulgate',
   },
   {
     code: 'VULG',

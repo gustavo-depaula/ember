@@ -50,8 +50,9 @@ import { isReferenceKind } from '../references'
 import { getVersification, getVersificationAt, whereChapterWent } from '../versification'
 import { isUnchecked, verseTokens } from '../words'
 import { BibleDrawer } from './BibleDrawer'
-import { ChapterContent, type PageLayout } from './ChapterContent'
+import { ChapterContent, type PageLayout, type Witness } from './ChapterContent'
 import { ChapterNav } from './ChapterNav'
+import { HebrewInterlinear } from './HebrewInterlinear'
 import { HebrewWordStudy } from './HebrewWordStudy'
 import { InterlinearChapter } from './InterlinearChapter'
 import { StudyLayoutBar } from './StudyLayoutBar'
@@ -340,10 +341,70 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
       pageKeys ? { keys: pageKeys, tokenize, studied, onWordPress, onWordLongPress } : undefined,
     [pageKeys, tokenize, studied, onWordPress, onWordLongPress],
   )
+  // The Hebrew's parallel is its witnesses: the Septuagint, the Vulgate, and
+  // the reader's own translation, each at this page's verses.
+  const witnessing = hebrewPage && layout === 'parallel'
+  const septuagint = useParallelVerses(
+    edition,
+    'LXX',
+    bookId,
+    chapter,
+    witnessing && studyLayout.septuagint,
+  )
+  const vulgate = useParallelVerses(
+    edition,
+    'VULG',
+    bookId,
+    chapter,
+    witnessing && studyLayout.vulgate,
+  )
+  const witnesses = useMemo<Witness[] | undefined>(() => {
+    if (!witnessing) return undefined
+    const own = findTranslation(studyLayout.parallel)
+    return [
+      septuagint.data && studyLayout.septuagint
+        ? {
+            id: 'LXX',
+            label: t('bible.layout.septuagint'),
+            texts: septuagint.data,
+            language: 'grc',
+            muted: false,
+          }
+        : undefined,
+      vulgate.data && studyLayout.vulgate
+        ? {
+            id: 'VULG',
+            label: t('bible.layout.vulgate'),
+            texts: vulgate.data,
+            language: 'la',
+            muted: false,
+          }
+        : undefined,
+      parallel.data
+        ? {
+            id: studyLayout.parallel,
+            label: own?.shortName ?? own?.name ?? studyLayout.parallel,
+            note: own?.translatedFrom ? t(`bible.translatedFrom.${own.translatedFrom}`) : undefined,
+            texts: parallel.data,
+            language: editionLanguage(studyLayout.parallel),
+            muted: true,
+          }
+        : undefined,
+    ].filter((w): w is Witness => w !== undefined)
+  }, [
+    witnessing,
+    septuagint.data,
+    vulgate.data,
+    parallel.data,
+    studyLayout.parallel,
+    studyLayout.septuagint,
+    studyLayout.vulgate,
+    t,
+  ])
   const besideLanguage = editionLanguage(studyLayout.parallel)
   const beside = useMemo(
     () =>
-      layout === 'parallel' && parallel.data
+      layout === 'parallel' && !hebrewPage && parallel.data
         ? {
             texts: parallel.data,
             language: besideLanguage,
@@ -352,7 +413,15 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
             onSplit,
           }
         : undefined,
-    [layout, parallel.data, besideLanguage, studyLayout.columns, studyLayout.split, onSplit],
+    [
+      layout,
+      hebrewPage,
+      parallel.data,
+      besideLanguage,
+      studyLayout.columns,
+      studyLayout.split,
+      onSplit,
+    ],
   )
   // What the edition prints beyond its words (see `PageLayout`).
   const { data: paragraphs } = useHebrewParagraphs(edition, bookId, hebrewPage)
@@ -609,7 +678,27 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
         {pageKeys || hebrewPage ? (
           <StudyLayoutBar hebrew={hebrewPage} study={pageKeys !== undefined} />
         ) : undefined}
-        {layout === 'interlinear' && greekWords ? (
+        {layout === 'interlinear' && hebrewWords ? (
+          <HebrewInterlinear
+            bookName={bookName}
+            chapter={chapter}
+            fallback={chapterData.fallback}
+            completedBy={completedBy}
+            vulgateChapter={printed?.vulgateChapter}
+            verses={pageVerses ?? chapterData.verses}
+            words={hebrewWords}
+            morphology={hebrewMorphology}
+            pieces={studyLayout.pieces}
+            sound={studyLayout.sound}
+            parsing={studyLayout.parsing}
+            studied={studied}
+            markedVerse={commentedVerse}
+            onWordPress={onWordPress}
+            onWordLongPress={onWordLongPress}
+            onVersePress={handleVersePress}
+            onVerseLayout={handleVerseLayout}
+          />
+        ) : layout === 'interlinear' && greekWords ? (
           <InterlinearChapter
             bookName={bookName}
             chapter={chapter}
@@ -641,6 +730,7 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
               study={pageStudy}
               beside={beside}
               layout={printed}
+              witnesses={witnesses}
               completedBy={completedBy}
               moved={moved}
               marked={marked}

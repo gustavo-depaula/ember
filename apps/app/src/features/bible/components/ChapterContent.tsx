@@ -4,6 +4,7 @@ import { Pressable, StyleSheet, type TextStyle } from 'react-native'
 import { Gesture, GestureDetector } from 'react-native-gesture-handler'
 import Animated, { runOnJS, useAnimatedStyle, useSharedValue } from 'react-native-reanimated'
 import { useTheme, View, XStack, YStack } from 'tamagui'
+import { Typography } from '@/components'
 import { ReadingLanguage, ReadingParagraph } from '@/components/ReadingParagraph'
 import { useReadingStyle } from '@/hooks/useReadingStyle'
 import type { Verse } from '@/lib/content'
@@ -187,6 +188,20 @@ export type PageLayout = {
   splits?: Record<number, number>
 }
 
+/**
+ * A witness read under each verse of the Hebrew: the Septuagint, the Vulgate,
+ * the reader's own translation. The ancient witnesses stand in full ink; a
+ * translation of them is muted, and says what it was made from.
+ */
+export type Witness = {
+  id: string
+  label: string
+  note?: string
+  texts: Record<number, string>
+  language: string
+  muted: boolean
+}
+
 /** The verse whose commentary is open, and the passage that commentary covers. */
 export type MarkedVerses = { verse: number; from: number; to: number }
 
@@ -202,6 +217,7 @@ export function ChapterContent({
   study,
   beside,
   layout: printed,
+  witnesses,
   onVersePress,
   onVerseLayout,
 }: {
@@ -219,6 +235,8 @@ export function ChapterContent({
   beside?: BesideProps
   /** How the edition sets its verses, where it differs from plain prose. */
   layout?: PageLayout
+  /** The Hebrew's parallel: its witnesses as rows under each verse. */
+  witnesses?: Witness[]
   /** `y` is the verse's top within this component, for scrolling it into view. */
   onVersePress?: (verse: number, y: number) => void
   /** Each verse's top as it is laid out, for a reader that turns to a verse untapped. */
@@ -240,6 +258,7 @@ export function ChapterContent({
     () => ({ color: theme.colorBurgundy?.val as string }),
     [theme.colorBurgundy],
   )
+  const inkRender = useMemo(() => ({ color: theme.color?.val as string }), [theme.color])
   const looks = useWordLooks()
   const tops = useRef(new Map<number, number>())
 
@@ -273,6 +292,32 @@ export function ChapterContent({
     )
     const besideText = beside?.texts[v.verse]
     const line = (() => {
+      if (witnesses?.length) {
+        return (
+          <YStack gap="$xs" paddingBottom="$sm">
+            {verseLine}
+            {witnesses.map((witness) =>
+              witness.texts[v.verse] ? (
+                <YStack key={witness.id} gap={2}>
+                  <Typography variant="label" fontSize="$1" letterSpacing={1.5} tone="muted">
+                    {witness.label.toUpperCase()}
+                    {witness.note ? (
+                      <Typography variant="caption" fontSize="$1" letterSpacing={0}>
+                        {`  ${witness.note}`}
+                      </Typography>
+                    ) : undefined}
+                  </Typography>
+                  <BesideLine
+                    text={witness.texts[v.verse]}
+                    language={witness.language}
+                    render={witness.muted ? numberRender : inkRender}
+                  />
+                </YStack>
+              ) : undefined,
+            )}
+          </YStack>
+        )
+      }
       if (!beside || !besideText) return verseLine
       const other = (
         // Muted as the verse marker is: the page's own text leads.
