@@ -15,6 +15,7 @@ So the dump lays a book out, and each score is then read from the live site.
     python3 scripts/import-gregobase.py --propers    # (re)write the chants of the 1962 Missal's propers
     python3 scripts/import-gregobase.py --office     # (re)write the antiphons, hymns and short responsories of the 1960 Breviary
     python3 scripts/import-gregobase.py --prayers    # the chant of each prayer in content/practices/, and its place in the prayer
+    python3 scripts/import-gregobase.py --hours      # the Liturgia Horarum's scores content/loth/chant.json pairs the breviary with
     python3 scripts/import-gregobase.py --offline    # either, from the dump alone
     python3 scripts/import-gregobase.py --sync       # refresh every score already in content/
     python3 scripts/import-gregobase.py --find "salve regina"
@@ -39,6 +40,9 @@ import chant_link  # noqa: E402
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 CHANTS = ROOT / 'content/chants'
 PROPERS = ROOT / 'content/chant-propers'
+# The Liturgia Horarum's chant that the Brazilian breviary's texts are sung to (content/loth/chant.json).
+HOURS = ROOT / 'content/chant-hours'
+LOTH_CHANT = ROOT / 'content/loth/chant.json'
 DO_WWW = ROOT / 'content/do/web/www'
 BOOKS = ROOT / 'content/chant-books'
 COMMIT = '2ebcda3f523f9b19933d59fa32bb4215cd8e7675'
@@ -138,8 +142,11 @@ def rows(sql, table):
 
 
 def tidy(gabc):
-    """A score with Unix line ends, no trailing blanks and one final newline."""
-    lines = [line.rstrip() for line in gabc.replace('\r\n', '\n').replace('\r', '\n').split('\n')]
+    """A score with Unix line ends, no trailing blanks and one final newline,
+    without the copy of its own headers (`name:…;` lines and a `%%`) some
+    scores carry before their notes."""
+    gabc = re.sub(r'\A\s*(?:[\w-]+:[^\n]*\n)*\s*%%\s*\n', '', gabc.replace('\r\n', '\n').replace('\r', '\n'))
+    lines = [line.rstrip() for line in gabc.split('\n')]
     return '\n'.join(lines).strip() + '\n'
 
 
@@ -204,7 +211,7 @@ def sync(files=None):
     """Bring each chant file up to the live site: its score and the headers
     GregoBase owns. Prints what changed; returns the number of files rewritten."""
     changed, gone = [], []
-    files = sorted(files or [*CHANTS.glob('*.gabc'), *PROPERS.glob('*.gabc')])
+    files = sorted(files or [*CHANTS.glob('*.gabc'), *PROPERS.glob('*.gabc'), *HOURS.glob('*.gabc')])
     for n, f in enumerate(files, 1):
         text = f.read_text(encoding='utf-8')
         head, _, body = text.partition('%%\n')
@@ -517,6 +524,69 @@ def link_into_propers(books, genres, pieces, book_name, offline):
         sync(sorted(f for f in PROPERS.glob('*.gabc') if f.stem.split('-')[0] in genres))
 
 
+# The books of the Liturgia Horarum's chant, best first: the Liber Hymnarius,
+# then the Antiphonale Romanum of 2020 (Lauds) and of 2009 (Vespers).
+HOURS_BOOKS = ['15', '53', '6']
+HOURS_PART = {'hy': 'Hymnus', 'an': 'Antiphona', 're': 'Responsorium', 'rb': 'Responsorium breve'}
+
+
+def write_hours(offline=False):
+    """The scores content/loth/chant.json pairs the breviary's texts with.
+
+    A pairing names a score `chant/<genre>-<incipit>-<GregoBase id>`; each named
+    and not yet here is written from the dump, and the folder holds nothing else."""
+    pairs = json.loads(LOTH_CHANT.read_text(encoding='utf-8'))
+    wanted = {}
+    for ids in pairs.values():
+        for ref in [ids] if isinstance(ids, str) else ids:
+            found = re.fullmatch(r'chant/(\w+)-[a-z0-9-]+-(\d+)', ref)
+            # A score the Latin Office already sings is in content/chant-propers/ under the same name.
+            if found and not (PROPERS / f"{ref.removeprefix('chant/')}.gabc").exists():
+                wanted[ref.removeprefix('chant/')] = found.group(2)
+    sql = dump()
+    chants = {c['id']: c for c in rows(sql, 'gregobase_chants') if not int(c['copyrighted'])}
+    sources = {s['id']: s for s in rows(sql, 'gregobase_sources')}
+    pages = {}
+    for s in rows(sql, 'gregobase_chant_sources'):
+        pages.setdefault(s['chant_id'], []).append((s['source'], s['page']))
+    rank = {b: i for i, b in enumerate(HOURS_BOOKS)}
+    HOURS.mkdir(parents=True, exist_ok=True)
+    for stem, cid in sorted(wanted.items()):
+        if (HOURS / f'{stem}.gabc').exists():
+            continue
+        c = chants.get(cid)
+        if not c:
+            sys.exit(f'chant-hours: GregoBase {cid} ({stem}) is not in the dump, or is under copyright')
+        where = sorted(pages.get(cid, []), key=lambda sp: rank.get(sp[0], 99))
+        book = f"{sources[where[0][0]]['title']}, {sources[where[0][0]]['year']}, p. {where[0][1]}" if where else None
+        (HOURS / f'{stem}.gabc').write_text(
+            header('name', re.sub(r'\s*\(.*\)\s*$', '', c['incipit'].strip()))
+            + header('office-part', HOURS_PART.get(c['office-part'], ''))
+            + header('mode', c['mode'])
+            + header('commentary', (c['commentary'] or '').strip())
+            + header('transcriber', c['transcriber'])
+            + header('book', book)
+            + header('gregobase', cid)
+            + '%%\n'
+            + score(c),
+            encoding='utf-8',
+        )
+    for stale in HOURS.glob('*.gabc'):
+        if stale.stem not in wanted:
+            stale.unlink()
+    print(f'chant-hours: {len(wanted)} scores paired with the breviary')
+    if not offline:
+        sync(sorted(HOURS.glob('*.gabc')))
+
+
+def hours_ref(cid):
+    """The chant id a pairing in content/loth/chant.json names GregoBase's chant `cid` by."""
+    sql = dump()
+    c = next(c for c in rows(sql, 'gregobase_chants') if c['id'] == str(cid))
+    incipit = re.sub(r'\s*\(.*\)\s*$', '', c['incipit'].strip())
+    return f"chant/{c['office-part']}-{slug(incipit)}-{cid}"
+
+
 # Where a prayer's chant is taken from, best first: the books a parish sings from
 # before the monastic ones. Liber Usualis, Graduale Romanum 1961, Liber antiphonarius,
 # Cantus selecti, Chants of the Church, Liber cantualis, Liber Hymnarius, Antiphonale Monasticum.
@@ -751,6 +821,8 @@ if __name__ == '__main__':
         write_office(offline)
     elif args == ['--prayers']:
         write_prayers(offline)
+    elif args == ['--hours']:
+        write_hours(offline)
     elif args == []:
         write_kyriale(offline)
     else:

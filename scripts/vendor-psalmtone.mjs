@@ -36,8 +36,15 @@ export default (function () {
   var exports = {}
   // Two names the script assigns without declaring, which a module, being strict, refuses.
   var temp, g_tones
-  var require = function () {
-    return {}
+  // It asks for jQuery only for its extend, to copy a note of a cadence where a
+  // verse ends on its stress: rare in Latin, the rule in Portuguese ("Senhor").
+  var jquery = {
+    extend: function () {
+      return Object.assign.apply(Object, arguments)
+    },
+  }
+  var require = function (name) {
+    return name === 'jquery' ? jquery : {}
   }
   // It schedules a refresh of a word list it only needs in a browser.
   var setTimeout = function () {

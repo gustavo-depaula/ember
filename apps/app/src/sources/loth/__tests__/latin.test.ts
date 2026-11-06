@@ -23,6 +23,8 @@ vi.mock('@/lib/loth/loaders', () => ({
     parts: async (bundle: string) => read(`parts/${bundle}.json`),
     extras: async () => read('extras.json'),
   },
+  // No chant paired here: these tests are of the Latin, and a sung text keeps its words in a block.
+  lothChantPairs: async () => ({}),
 }))
 
 const { lothHourSource } = await import('../source')

@@ -1,3 +1,5 @@
+import type { ToneSyllable } from './portuguese'
+
 // What scripts/vendor-psalmtone.mjs keeps of jgabc's psalmtone.js.
 
 export type ToneFormulas = {
@@ -14,7 +16,8 @@ declare const psalmtone: {
   tones: Record<string, ToneFormulas>
   /** One half of a verse set to a formula, as GABC without clef or bar. */
   applyPsalmTone: (options: {
-    text: string
+    /** Latin as written, or syllables already split (`toneSyllables`), which jgabc takes as they are. */
+    text: string | ToneSyllable[]
     gabc: string
     useOpenNotes: boolean
     prefix?: boolean
