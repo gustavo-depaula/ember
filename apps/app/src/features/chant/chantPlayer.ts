@@ -12,9 +12,10 @@ import { melodyOf, type Tone } from './layoutScore'
 import { melodyWav, toneAt, toneStarts } from './melody'
 
 /**
- * Whether this build can sound a chant. The store builds leave expo-audio's
- * native module out (`expo.autolinking.exclude` in package.json), and importing
- * expo-audio where it is absent throws as the app starts, which makes
+ * Whether this build can sound a chant. Store builds made before 2026-11-06
+ * left expo-audio's native module out, and they take the same updates as the
+ * builds that have it (the runtime version is pinned). Importing expo-audio
+ * where its module is absent throws as the app starts, which makes
  * expo-updates roll the whole update back. So expo-audio is only imported when
  * a chant is played, and only where its module is there.
  */
