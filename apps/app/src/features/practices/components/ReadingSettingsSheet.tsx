@@ -1,14 +1,10 @@
 import { BottomSheet } from '@expo/ui/community/bottom-sheet'
-import { useState } from 'react'
-import { useTranslation } from 'react-i18next'
 import { useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
-import { ScrollView, Text, useTheme, View, XStack, YStack } from 'tamagui'
+import { ScrollView, useTheme, YStack } from 'tamagui'
 
-import { LanguageSettings, ReadingConfig } from '@/components'
+import { ReadingConfig } from '@/components'
 import { pullDown } from '@/components/NativeSheet'
-
-type Tab = 'reading' | 'language'
 
 // Single fixed detent. The RN ScrollView inside a native SwiftUI sheet only
 // scrolls when its frame is height-bounded — `flex` alone gets no bound from the
@@ -16,16 +12,14 @@ type Tab = 'reading' | 'language'
 const sheetFraction = 0.9
 
 /**
- * Reading & language settings for the praying experience, in the native
+ * How the praying experience is set (type, size, spacing, margins), in the native
  * `@expo/ui` bottom sheet. `open` drives the snap index; swipe-down / backdrop
  * tap calls `onClose`.
  */
 export function ReadingSettingsSheet({ open, onClose }: { open: boolean; onClose: () => void }) {
-  const { t } = useTranslation()
   const theme = useTheme()
   const insets = useSafeAreaInsets()
   const { height } = useWindowDimensions()
-  const [tab, setTab] = useState<Tab>('reading')
 
   return (
     <BottomSheet
@@ -36,66 +30,15 @@ export function ReadingSettingsSheet({ open, onClose }: { open: boolean; onClose
       backgroundStyle={{ backgroundColor: theme.background?.val }}
     >
       <YStack height={height * sheetFraction} width="100%" paddingHorizontal="$lg" paddingTop="$md">
-        <Segmented
-          value={tab}
-          onChange={setTab}
-          options={[
-            { value: 'reading', label: t('readingConfig.reading') },
-            { value: 'language', label: t('readingConfig.language') },
-          ]}
-        />
-
         <ScrollView
           {...pullDown(onClose)}
           flex={1}
           showsVerticalScrollIndicator={false}
-          contentContainerStyle={{ paddingTop: 16, paddingBottom: insets.bottom + 48 }}
+          contentContainerStyle={{ paddingBottom: insets.bottom + 48 }}
         >
-          {tab === 'reading' ? <ReadingConfig /> : <LanguageSettings />}
+          <ReadingConfig />
         </ScrollView>
       </YStack>
     </BottomSheet>
-  )
-}
-
-function Segmented<T extends string>({
-  value,
-  onChange,
-  options,
-}: {
-  value: T
-  onChange: (value: T) => void
-  options: ReadonlyArray<{ value: T; label: string }>
-}) {
-  return (
-    <XStack
-      width="100%"
-      gap={2}
-      borderRadius="$lg"
-      borderWidth={1}
-      borderColor="$borderColor"
-      overflow="hidden"
-    >
-      {options.map((opt) => {
-        const selected = opt.value === value
-        return (
-          <View
-            key={opt.value}
-            flex={1}
-            paddingVertical="$sm"
-            alignItems="center"
-            backgroundColor={selected ? '$accent' : '$backgroundSurface'}
-            pressStyle={{ opacity: 0.85 }}
-            onPress={() => onChange(opt.value)}
-            accessibilityRole="button"
-            accessibilityState={{ selected }}
-          >
-            <Text fontFamily="$heading" fontSize="$2" color={selected ? '$background' : '$color'}>
-              {opt.label}
-            </Text>
-          </View>
-        )
-      })}
-    </XStack>
   )
 }

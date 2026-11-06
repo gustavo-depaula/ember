@@ -126,7 +126,8 @@ function bodyOf(block: Block, kind: Kind): string {
 }
 
 function bilingual(primary: string, secondary: string | undefined): BilingualText {
-  return secondary ? { primary, secondary } : { primary }
+  // The second column is always the Latin (`massesOfDay`).
+  return secondary ? { primary, secondary, secondaryLanguage: 'la' } : { primary }
 }
 
 function emit(kind: Kind, text: BilingualText, out: Primitive[]) {

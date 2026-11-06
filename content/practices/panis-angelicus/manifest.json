@@ -1,5 +1,6 @@
 {
 	"id": "panis-angelicus",
+	"prayedIn": "la",
 	"form": "prayer",
 	"liturgical": true,
 	"icon": "eucharist",

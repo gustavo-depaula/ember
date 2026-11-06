@@ -3,10 +3,9 @@ import { useTranslation } from 'react-i18next'
 import { Pressable, ScrollView } from 'react-native'
 import Svg, { Path, Rect } from 'react-native-svg'
 import { useTheme, View, XStack, YStack } from 'tamagui'
-
+import { usePageLanguage } from '@/components/prayer/PageLanguage'
 import { Typography } from '@/components/typography'
 import type { ChantPrimitive, Primitive } from '@/content/primitives'
-import { usePreferencesStore } from '@/stores/preferencesStore'
 import { ChantBlock } from './ChantBlock'
 import { glossOf } from './gloss'
 
@@ -44,7 +43,7 @@ export function SungBlock({
   // Under the notes, what they say: the Latin is in the score, so one who reads
   // in another language gets the words back, quietly. Of a psalm only its
   // antiphon, once: the verses are long and the score has them all.
-  const latin = usePreferencesStore((s) => s.contentLanguage) === 'la'
+  const latin = usePageLanguage().pray === 'la'
   const gloss = latin ? [] : glossOf(body)
 
   // The staff only asks the pager to turn. Which face shows is read back from

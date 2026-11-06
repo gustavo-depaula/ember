@@ -127,7 +127,7 @@ const corpusVersion = (version: number) => `${version}:${getCatalog().generated}
 export const missalMassSource: ContentSource<Primitive[]> = {
   id: 'producer/mass-of',
   get version() {
-    return corpusVersion(12)
+    return corpusVersion(13)
   },
   prefsDeps: ['lang', 'jurisdiction'],
   dateScoped: true,
@@ -149,7 +149,7 @@ export const missalMassSource: ContentSource<Primitive[]> = {
 export const missalProperSource: ContentSource<Primitive[]> = {
   id: 'producer/mass-proper-of',
   get version() {
-    return corpusVersion(2)
+    return corpusVersion(3)
   },
   prefsDeps: ['lang', 'jurisdiction'],
   dateScoped: true,

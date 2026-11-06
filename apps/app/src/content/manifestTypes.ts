@@ -7,6 +7,7 @@
  * actual content blobs by hash. All blobs live at `/hearth/v2/blobs/{ab}/{cd}/{hash}`.
  */
 
+import type { ContentLanguage } from '@ember/content-engine'
 import type { LiturgicalAnchor } from '@ember/liturgical'
 import type { Tier } from '@/db/schema'
 import type { Schedule } from '@/features/plan-of-life/schedule'
@@ -234,6 +235,13 @@ export type PracticeManifest = {
   // generic novena ("any saint") names none.
   holyCard?: string | string[]
   alternativeTo?: AlternativeToRef
+  // Its languages (`LanguageTraits`): the one it is prayed in by tradition,
+  // which the stance "Latin where it is tradition" follows; the ones it can be
+  // prayed in, absent all; and which pairings its text has. Set on a form
+  // group's primary, a form without its own inherits them at build.
+  prayedIn?: ContentLanguage
+  languages?: ContentLanguage[]
+  parallel?: false | 'la'
   // Flow template vars (`{{rubrics}}`). Forms of one practice share a flow and
   // differ only here, e.g. which Divinum Officium version the breviary follows.
   vars?: Record<string, string>

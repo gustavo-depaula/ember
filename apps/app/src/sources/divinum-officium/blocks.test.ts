@@ -21,7 +21,7 @@ describe('mapItemsToPrimitives', () => {
 
     expect(out[0]).toEqual({
       type: 'heading',
-      text: { primary: 'Introit', secondary: 'Introitus' },
+      text: { primary: 'Introit', secondary: 'Introitus', secondaryLanguage: 'la' },
       size: 'h1',
     })
     expect(out[1]).toEqual({
@@ -34,13 +34,28 @@ describe('mapItemsToPrimitives', () => {
       text: {
         primary: 'To me, thy friends, O God, are honourable.\nGlory be to the Father.',
         secondary: 'Mihi autem nimis honoráti sunt amíci tui, Deus.\nGlória Patri.',
+        secondaryLanguage: 'la',
       },
     })
     const dialog = out.find((p) => p.type === 'verses' && p.items.length === 2)
     expect(dialog).toMatchObject({
       items: [
-        { text: { primary: 'Lord, have mercy.', secondary: 'Kýrie, eléison.' }, role: 'v' },
-        { text: { primary: 'Christ, have mercy.', secondary: 'Christe, eléison.' }, role: 'r' },
+        {
+          text: {
+            primary: 'Lord, have mercy.',
+            secondary: 'Kýrie, eléison.',
+            secondaryLanguage: 'la',
+          },
+          role: 'v',
+        },
+        {
+          text: {
+            primary: 'Christ, have mercy.',
+            secondary: 'Christe, eléison.',
+            secondaryLanguage: 'la',
+          },
+          role: 'r',
+        },
       ],
     })
     expect(out[out.length - 1]).toEqual({ type: 'divider' })
@@ -66,9 +81,9 @@ describe('mapItemsToPrimitives', () => {
     const verses = mapItemsToPrimitives(vernacular, latin).find((p) => p.type === 'verses')
     expect(verses).toMatchObject({
       items: [
-        { text: { primary: 'Pai Nosso', secondary: 'Pater noster' } },
-        { text: { primary: 'E não nos deixeis', secondary: 'Et ne nos' } },
-        { text: { primary: 'Amém.', secondary: 'Amen.' } },
+        { text: { primary: 'Pai Nosso', secondary: 'Pater noster', secondaryLanguage: 'la' } },
+        { text: { primary: 'E não nos deixeis', secondary: 'Et ne nos', secondaryLanguage: 'la' } },
+        { text: { primary: 'Amém.', secondary: 'Amen.', secondaryLanguage: 'la' } },
       ],
     })
   })
@@ -87,6 +102,7 @@ describe('mapItemsToPrimitives', () => {
             text: {
               primary: 'Sede o meu auxiliador * e o meu libertador.',
               secondary: 'Adiútor meus * et liberátor meus.',
+              secondaryLanguage: 'la',
             },
           },
         ],
@@ -132,6 +148,7 @@ describe('mapItemsToPrimitives', () => {
       text: {
         primary: 'Da terra és esperança,\nDo céu já és o brilho;',
         secondary: 'Ætérna cæli glória,\nBeáta spes mortálium,',
+        secondaryLanguage: 'la',
       },
     })
     expect(out[2]).toMatchObject({
@@ -148,11 +165,12 @@ describe('mapItemsToPrimitives', () => {
     expect(out).toEqual([
       {
         type: 'heading',
-        text: { primary: 'Salmos', secondary: 'Psalmi' },
+        text: { primary: 'Salmos', secondary: 'Psalmi', secondaryLanguage: 'la' },
         size: 'h1',
         note: {
           primary: 'Laudes:2 Salmos e antífonas do Saltério',
           secondary: 'Laudes:2 Psalmi et antiphonæ ex Psalterio',
+          secondaryLanguage: 'la',
         },
       },
     ])
@@ -178,7 +196,11 @@ describe('mapItemsToPrimitives', () => {
       {
         type: 'text',
         markup: 'do',
-        text: { primary: 'One line only.', secondary: 'Linea una.\nLinea altera.' },
+        text: {
+          primary: 'One line only.',
+          secondary: 'Linea una.\nLinea altera.',
+          secondaryLanguage: 'la',
+        },
       },
     ])
   })

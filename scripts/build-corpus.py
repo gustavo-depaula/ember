@@ -470,6 +470,10 @@ def build_practices(b: Builder) -> None:
     # or one of the three prayers of a prayed day; every form inherits it, so
     # the app reads it off any form's catalog entry.
     group_acts = {"liturgicalAct": {}, "dayPrayer": {}}
+    # Its languages too (prayed in Latin by tradition, which languages, which
+    # pairings): forms share their primary's text, so a form without its own
+    # takes them into its manifest, where the app reads them.
+    group_languages: dict[str, dict] = {}
     # Every flow by practice, for the minutes of a prayer that refers to others.
     flows: dict[str, dict] = {}
     for m in src.glob("*/manifest.json"):
@@ -477,6 +481,9 @@ def build_practices(b: Builder) -> None:
         for key, acts in group_acts.items():
             if key in data:
                 acts[data["id"]] = data[key]
+        traits = {k: data[k] for k in ("prayedIn", "languages", "parallel") if k in data}
+        if traits:
+            group_languages[data["id"]] = traits
         flow = _practice_flow(m.parent, data)
         if flow:
             flows[m.parent.name] = flow
@@ -655,6 +662,9 @@ def build_practices(b: Builder) -> None:
             item_manifest["perDay"] = per_day
         if images:
             item_manifest["images"] = images
+        primary = (manifest_data.get("alternativeTo") or {}).get("id")
+        for key, value in group_languages.get(primary, {}).items():
+            item_manifest.setdefault(key, value)
 
         ih, isize = b.write_json_blob(item_manifest)
 

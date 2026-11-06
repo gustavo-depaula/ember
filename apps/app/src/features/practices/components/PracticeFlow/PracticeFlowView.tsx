@@ -23,10 +23,12 @@ import {
 } from '@/components'
 import { ImageViewerProvider } from '@/components/ImageViewerContext'
 import { OutlineProvider, useOutline } from '@/components/outline'
+import { PageLanguageProvider } from '@/components/prayer/PageLanguage'
 import type { PracticeManifest } from '@/content/manifestTypes'
 import { PreprocessProvider } from '@/content/preprocessRuntime'
 import { useChurchHere } from '@/features/mass-times'
 import { PracticeHeader } from '@/features/practices/components/PracticeHeader'
+import { usePracticePageLanguage } from '@/features/practices/language/usePracticeLanguages'
 import { useProgressiveCount } from '@/hooks/useProgressiveCount'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
 import { useStableToday, useToday } from '@/hooks/useToday'
@@ -153,7 +155,8 @@ function PracticeReady({
 
   // Runtime for lazily preprocessing a select branch the user switches to.
   const queryClient = useQueryClient()
-  const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
+  const page = usePracticePageLanguage(manifest)
+  const contentLanguage = page.primary
   const translation = usePreferencesStore((s) => s.translation)
   const jurisdiction = usePreferencesStore((s) => s.jurisdiction)
   const preprocessCtx = useMemo(
@@ -174,106 +177,108 @@ function PracticeReady({
 
   return (
     <PreprocessProvider value={preprocessCtx}>
-      <ImageViewerProvider>
-        <ReaderFrame
-          left={<PracticeContentsRail outline={outline} actions={actions} onJump={jumpTo} />}
-          right={<PracticeToolsRail actions={actions} />}
-        >
-          <YStack flex={1}>
-            <ScreenLayout scrollRef={scroller}>
-              <YStack gap="$lg" paddingVertical="$lg">
-                <PracticeHeader
-                  name={practiceName}
-                  caption={formatLocalized(now, t('practice.headerDate')).toLocaleLowerCase()}
-                  variant={<PracticeVariant actions={actions} />}
-                  // The tools rail carries these where it is shown.
-                  actions={rails ? undefined : <PracticeActionIcons actions={actions} />}
-                  onBack={() => router.back()}
-                />
+      <PageLanguageProvider value={page}>
+        <ImageViewerProvider>
+          <ReaderFrame
+            left={<PracticeContentsRail outline={outline} actions={actions} onJump={jumpTo} />}
+            right={<PracticeToolsRail actions={actions} />}
+          >
+            <YStack flex={1}>
+              <ScreenLayout scrollRef={scroller}>
+                <YStack gap="$lg" paddingVertical="$lg">
+                  <PracticeHeader
+                    name={practiceName}
+                    caption={formatLocalized(now, t('practice.headerDate')).toLocaleLowerCase()}
+                    variant={<PracticeVariant actions={actions} />}
+                    // The tools rail carries these where it is shown.
+                    actions={rails ? undefined : <PracticeActionIcons actions={actions} />}
+                    onBack={() => router.back()}
+                  />
 
-                <YStack gap="$md" paddingHorizontal={readingMargin} paddingTop="$md">
-                  <OutlineProvider registry={registry}>
-                    {sections.slice(0, visibleCount).map((primitive, index) => (
-                      <PrimitiveBlock
-                        key={`${primitive.type}-${index}`}
-                        primitive={primitive}
-                        practiceId={practiceId}
-                        onSelectOverride={onSelectOverride}
-                      />
-                    ))}
-                  </OutlineProvider>
-                </YStack>
+                  <YStack gap="$md" paddingHorizontal={readingMargin} paddingTop="$md">
+                    <OutlineProvider registry={registry}>
+                      {sections.slice(0, visibleCount).map((primitive, index) => (
+                        <PrimitiveBlock
+                          key={`${primitive.type}-${index}`}
+                          primitive={primitive}
+                          practiceId={practiceId}
+                          onSelectOverride={onSelectOverride}
+                        />
+                      ))}
+                    </OutlineProvider>
+                  </YStack>
 
-                {canComplete && (
-                  <YStack paddingHorizontal={readingMargin} paddingTop="$lg" gap="$sm">
-                    <AnimatedPressable
-                      onPress={() => completion.handleComplete()}
-                      disabled={completion.isCompleting}
-                      accessibilityRole="button"
-                      accessibilityLabel={t('office.amen')}
-                    >
-                      <YStack
-                        backgroundColor="$accent"
-                        borderRadius="$md"
-                        borderWidth={1}
-                        borderColor="$accentSubtle"
-                        paddingVertical="$md"
-                        alignItems="center"
-                        opacity={completion.isCompleting ? 0.6 : 1}
-                      >
-                        <Typography variant="section-title" color="$background">
-                          {completion.isCompleting ? t('office.completing') : t('office.amen')}
-                        </Typography>
-                      </YStack>
-                    </AnimatedPressable>
-                    {church ? (
+                  {canComplete && (
+                    <YStack paddingHorizontal={readingMargin} paddingTop="$lg" gap="$sm">
                       <AnimatedPressable
-                        onPress={() => completion.handleComplete(church)}
+                        onPress={() => completion.handleComplete()}
                         disabled={completion.isCompleting}
                         accessibilityRole="button"
-                        accessibilityLabel={t('massTimes.amenAndCheckIn', { name: church.name })}
+                        accessibilityLabel={t('office.amen')}
                       >
                         <YStack
-                          backgroundColor="$backgroundSurface"
+                          backgroundColor="$accent"
                           borderRadius="$md"
-                          paddingVertical="$sm"
-                          paddingHorizontal="$md"
+                          borderWidth={1}
+                          borderColor="$accentSubtle"
+                          paddingVertical="$md"
                           alignItems="center"
                           opacity={completion.isCompleting ? 0.6 : 1}
                         >
-                          <Typography variant="interface" fontSize="$3">
-                            {t('massTimes.amenAndCheckInLabel')}
-                          </Typography>
-                          <Typography variant="annotation" numberOfLines={1}>
-                            {church.name}
+                          <Typography variant="section-title" color="$background">
+                            {completion.isCompleting ? t('office.completing') : t('office.amen')}
                           </Typography>
                         </YStack>
                       </AnimatedPressable>
-                    ) : null}
-                  </YStack>
+                      {church ? (
+                        <AnimatedPressable
+                          onPress={() => completion.handleComplete(church)}
+                          disabled={completion.isCompleting}
+                          accessibilityRole="button"
+                          accessibilityLabel={t('massTimes.amenAndCheckIn', { name: church.name })}
+                        >
+                          <YStack
+                            backgroundColor="$backgroundSurface"
+                            borderRadius="$md"
+                            paddingVertical="$sm"
+                            paddingHorizontal="$md"
+                            alignItems="center"
+                            opacity={completion.isCompleting ? 0.6 : 1}
+                          >
+                            <Typography variant="interface" fontSize="$3">
+                              {t('massTimes.amenAndCheckInLabel')}
+                            </Typography>
+                            <Typography variant="annotation" numberOfLines={1}>
+                              {church.name}
+                            </Typography>
+                          </YStack>
+                        </AnimatedPressable>
+                      ) : null}
+                    </YStack>
+                  )}
+
+                  <YStack paddingBottom="$lg" />
+                </YStack>
+
+                {completion.showCompleteModal && manifest.program && (
+                  <Suspense fallback={null}>
+                    <ProgramCompleteModal
+                      practiceId={practiceId}
+                      manifest={{ ...manifest, program: manifest.program }}
+                      practiceName={practiceName}
+                      showRestart={manifest.program.completionBehavior === 'offer-restart'}
+                      onRestart={completion.onRestart}
+                      onDone={completion.dismissCompleteModal}
+                    />
+                  </Suspense>
                 )}
+              </ScreenLayout>
 
-                <YStack paddingBottom="$lg" />
-              </YStack>
-
-              {completion.showCompleteModal && manifest.program && (
-                <Suspense fallback={null}>
-                  <ProgramCompleteModal
-                    practiceId={practiceId}
-                    manifest={{ ...manifest, program: manifest.program }}
-                    practiceName={practiceName}
-                    showRestart={manifest.program.completionBehavior === 'offer-restart'}
-                    onRestart={completion.onRestart}
-                    onDone={completion.dismissCompleteModal}
-                  />
-                </Suspense>
-              )}
-            </ScreenLayout>
-
-            <PracticeActionSheets actions={actions} />
-          </YStack>
-        </ReaderFrame>
-      </ImageViewerProvider>
+              <PracticeActionSheets actions={actions} />
+            </YStack>
+          </ReaderFrame>
+        </ImageViewerProvider>
+      </PageLanguageProvider>
     </PreprocessProvider>
   )
 }

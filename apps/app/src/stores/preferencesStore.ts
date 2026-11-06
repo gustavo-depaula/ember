@@ -10,14 +10,23 @@ import { getAllPreferences, removePreference, setPreference } from '@/db/reposit
 import { defaultTranslationForLanguage, findTranslation } from '@/lib/bibleTranslations'
 import i18n from '@/lib/i18n'
 import { detectLanguage } from '@/lib/i18n/detectLanguage'
+import {
+  type BilingualLayout,
+  bilingualLayouts,
+  type LanguageOverride,
+  type LatinStance,
+  latinStances,
+  parseOverrides,
+} from '@/lib/practiceLanguages'
 
 type PsalterCycle = '30-day'
 type ThemePreference = 'light' | 'dark' | 'system'
 type TextAlignment = 'justify' | 'left'
 type MarginPreset = 'narrow' | 'normal' | 'wide'
-type DisplayMode = 'side-by-side' | 'tap-to-switch'
-
-const contentLanguages: ContentLanguage[] = ['en-US', 'pt-BR', 'la']
+// The languages a reader can call their own. Latin is chosen per prayer, by
+// the stance on Latin or the prayer's own override, never as the vernacular.
+const vernaculars: ContentLanguage[] = ['en-US', 'pt-BR']
+const practiceLanguagesKey = 'practice-languages'
 
 const validFontIds = new Set(readingFonts.map((f) => f.id))
 const minStep = 1
@@ -40,9 +49,13 @@ type PreferencesState = {
   timeTravelDate: string | undefined
   persistedTimeTravelDate: string | undefined
 
+  // The reader's vernacular: the language of the content outside a prayer's
+  // own choice, and of a prayer not prayed in Latin.
   contentLanguage: ContentLanguage
-  secondaryLanguage: ContentLanguage | undefined
-  displayMode: DisplayMode
+  latinStance: LatinStance
+  bilingualLayout: BilingualLayout
+  // By practice id: the prayers whose languages the reader chose themselves.
+  practiceLanguages: Record<string, LanguageOverride>
 
   theme: ThemePreference
   readerPalette: ReaderPaletteId
@@ -66,8 +79,9 @@ type PreferencesState = {
   setTimeTravelDateEphemeral: (date: string | undefined) => void
 
   setContentLanguage: (lang: ContentLanguage) => void
-  setSecondaryLanguage: (lang: ContentLanguage | undefined) => void
-  setDisplayMode: (mode: DisplayMode) => void
+  setLatinStance: (stance: LatinStance) => void
+  setBilingualLayout: (layout: BilingualLayout) => void
+  setPracticeLanguage: (practiceId: string, override: LanguageOverride | undefined) => void
 
   setTheme: (theme: ThemePreference) => void
   setReaderPalette: (palette: ReaderPaletteId) => void
@@ -96,8 +110,9 @@ export const usePreferencesStore = create<PreferencesState>()(
     timeTravelDate: undefined,
     persistedTimeTravelDate: undefined,
     contentLanguage: initialLanguage,
-    secondaryLanguage: undefined,
-    displayMode: 'side-by-side',
+    latinStance: 'tradition',
+    bilingualLayout: 'auto',
+    practiceLanguages: {},
     theme: 'system',
     readerPalette: 'auto',
     bookReaderHintSeen: false,
@@ -128,7 +143,7 @@ export const usePreferencesStore = create<PreferencesState>()(
       set((state) => {
         state.language = language
         if (defaultTranslation) state.translation = defaultTranslation
-        if (contentLanguages.includes(language as ContentLanguage)) {
+        if (vernaculars.includes(language as ContentLanguage)) {
           state.contentLanguage = language as ContentLanguage
         }
       })
@@ -169,27 +184,33 @@ export const usePreferencesStore = create<PreferencesState>()(
     setContentLanguage: (lang) => {
       set((state) => {
         state.contentLanguage = lang
-        if (state.secondaryLanguage === lang) state.secondaryLanguage = undefined
       })
       setPreference('content-language', lang)
     },
 
-    setSecondaryLanguage: (lang) => {
+    setLatinStance: (stance) => {
       set((state) => {
-        state.secondaryLanguage = lang
+        state.latinStance = stance
       })
-      if (lang) {
-        setPreference('secondary-language', lang)
-      } else {
-        removePreference('secondary-language')
-      }
+      setPreference('latin-stance', stance)
     },
 
-    setDisplayMode: (mode) => {
+    setBilingualLayout: (layout) => {
       set((state) => {
-        state.displayMode = mode
+        state.bilingualLayout = layout
       })
-      setPreference('display-mode', mode)
+      setPreference('bilingual-layout', layout)
+    },
+
+    setPracticeLanguage: (practiceId, override) => {
+      set((state) => {
+        if (override) state.practiceLanguages[practiceId] = override
+        else delete state.practiceLanguages[practiceId]
+      })
+      setPreference(
+        practiceLanguagesKey,
+        JSON.stringify(usePreferencesStore.getState().practiceLanguages),
+      )
     },
 
     setTheme: (theme) => {
@@ -286,18 +307,20 @@ export const usePreferencesStore = create<PreferencesState>()(
         }
 
         const cl = prefs['content-language']
-        if (cl && contentLanguages.includes(cl as ContentLanguage)) {
+        if (cl && vernaculars.includes(cl as ContentLanguage)) {
           state.contentLanguage = cl as ContentLanguage
-        } else if (prefs.language && contentLanguages.includes(prefs.language as ContentLanguage)) {
+        } else if (prefs.language && vernaculars.includes(prefs.language as ContentLanguage)) {
           state.contentLanguage = prefs.language as ContentLanguage
         }
-        const sl = prefs['secondary-language']
-        state.secondaryLanguage =
-          sl && contentLanguages.includes(sl as ContentLanguage)
-            ? (sl as ContentLanguage)
-            : undefined
-        const dm = prefs['display-mode']
-        if (dm === 'side-by-side' || dm === 'tap-to-switch') state.displayMode = dm
+        const stance = prefs['latin-stance']
+        if (latinStances.includes(stance as LatinStance)) state.latinStance = stance as LatinStance
+        // A reader who read everything in Latin before the stance existed.
+        else if (cl === 'la') state.latinStance = 'always'
+        const layout = prefs['bilingual-layout']
+        if (bilingualLayouts.includes(layout as BilingualLayout)) {
+          state.bilingualLayout = layout as BilingualLayout
+        } else if (prefs['display-mode'] === 'tap-to-switch') state.bilingualLayout = 'tap'
+        state.practiceLanguages = parseOverrides(prefs[practiceLanguagesKey])
 
         const theme = prefs.theme
         if (theme === 'light' || theme === 'dark' || theme === 'system') state.theme = theme
