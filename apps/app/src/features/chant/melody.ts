@@ -36,6 +36,23 @@ export function sungNotes(tones: Tone[]): { notes: SungNote[]; duration: number 
   return { notes, duration: at }
 }
 
+/** When each tone of a melody begins, in seconds: the clock a player lights its notes by. */
+export function toneStarts(tones: Tone[]): number[] {
+  let at = 0
+  return tones.map((tone) => {
+    const start = at
+    at += tone.beats * melodyPulse
+    return start
+  })
+}
+
+/** The tone sounding `seconds` in, by its place in the melody; a breath sounds none. */
+export function toneAt(tones: Tone[], starts: number[], seconds: number): number | undefined {
+  let found = -1
+  for (let i = 0; i < starts.length && starts[i] <= seconds; i++) found = i
+  return found >= 0 && tones[found].pitch !== undefined ? found : undefined
+}
+
 /** The gain of a note `t` seconds into it: a quick swell, held, a short fall into the next. */
 export function noteEnvelope(t: number, length: number): number {
   if (t < 0 || t >= length + fallTo) return 0

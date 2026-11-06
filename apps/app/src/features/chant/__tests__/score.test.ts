@@ -162,6 +162,7 @@ describe('inkPaths', () => {
           top: 0,
           height: 10,
           glyphs: ['g'],
+          notes: [],
           marks: [{ type: 'glyph', glyph: 'g', x: 100, y: 50 }],
         },
       ],

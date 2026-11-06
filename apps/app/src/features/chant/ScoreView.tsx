@@ -5,7 +5,7 @@ import { useTheme, YStack } from 'tamagui'
 import { useProgressiveCount } from '@/hooks/useProgressiveCount'
 import type { TextStyleName } from '@/lib/typography/fontMetrics'
 import { inkPaths } from './inkPath'
-import { layoutScore, type ScoreLine, type ScoreText } from './layoutScore'
+import { layoutScore, noteGlyphs, type ScoreLine, type ScoreText } from './layoutScore'
 
 // The faces the lyrics were measured in (`layoutScore`), by the name each is
 // loaded under. Every one is a family of its own on both platforms, so no
@@ -29,11 +29,14 @@ export function ScoreView({
   label,
   lines,
   palette,
+  sounding,
 }: {
   score: string
   width: number
   scale: number
   label: string
+  /** The note sounding now, by its place in the melody (`melodyOf`): drawn in red. */
+  sounding?: number
   /** Show only the opening lines — an incipit, where the score is ornament. */
   lines?: number
   /** Colours for a score drawn on its own ground rather than the theme's page. */
@@ -59,6 +62,8 @@ export function ScoreView({
           ink={ink}
           inkColor={inkColor}
           rubricColor={rubricColor}
+          // Only the line that holds the note is told of it, so the others stay as drawn.
+          sounding={line.notes.some((note) => note.tone === sounding) ? sounding : undefined}
         />
       ))}
       {/* Hold the unmounted lines' room, so the page does not grow under a reader. */}
@@ -75,20 +80,28 @@ const StaffLine = memo(function StaffLine({
   ink,
   inkColor,
   rubricColor,
+  sounding,
 }: {
   line: ScoreLine
   width: number
   ink: (line: ScoreLine) => string
   inkColor: string
   rubricColor: string
+  sounding?: number
 }) {
   const d = useMemo(() => ink(line), [ink, line])
+  // The sounding note drawn again over itself in red.
+  const lit = useMemo(() => {
+    const marks = sounding === undefined ? [] : noteGlyphs(line, sounding)
+    return marks.length ? ink({ ...line, marks }) : undefined
+  }, [ink, line, sounding])
   const colors = { ink: inkColor, rubric: rubricColor }
   const texts = line.marks.filter((mark): mark is ScoreText => mark.type === 'text')
   const strokes = line.marks.filter((mark) => mark.type === 'stroke')
   return (
     <Svg width={width} height={line.height} viewBox={`0 ${line.top} ${width} ${line.height}`}>
       <Path d={d} fill={inkColor} />
+      {lit && <Path d={lit} fill={rubricColor} />}
       {strokes.map((stroke, i) => (
         <Path key={i} d={stroke.d} stroke={inkColor} strokeWidth={stroke.weight} fill="none" />
       ))}

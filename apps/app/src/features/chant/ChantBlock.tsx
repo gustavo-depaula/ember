@@ -4,6 +4,7 @@ import { XStack, YStack } from 'tamagui'
 import { Typography } from '@/components/typography'
 import type { ChantPrimitive } from '@/content/primitives'
 import { readingScale, useReadingFontSizePx } from '@/hooks/useReadingStyle'
+import { chantKey, useSounding } from './chantPlayer'
 import { romanMode } from './chants'
 import { PlayToggle } from './PlayToggle'
 import { ScoreView } from './ScoreView'
@@ -22,6 +23,7 @@ export function ChantBlock({
   // The score follows the reader's text size, as the text it sets does.
   const scale = useReadingFontSizePx() / readingScale.fontSize[2]
   const mode = romanMode(chant.mode)
+  const sounding = useSounding(chantKey(chant.score))
 
   return (
     <YStack gap="$sm">
@@ -35,7 +37,13 @@ export function ChantBlock({
         </Typography>
         <PlayToggle score={chant.score} name={chant.name} />
       </XStack>
-      <ScoreView score={chant.score} width={width} scale={scale} label={chant.name} />
+      <ScoreView
+        score={chant.score}
+        width={width}
+        scale={scale}
+        label={chant.name}
+        sounding={sounding}
+      />
       <Typography variant="reference">
         {[
           chant.book,

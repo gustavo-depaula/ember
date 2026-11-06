@@ -11,6 +11,7 @@ import { useSaveToggle } from '@/features/library/savedHooks'
 import { readingScale, useReadingFontSizePx } from '@/hooks/useReadingStyle'
 import { localizeContent } from '@/lib/i18n'
 import { BackHeader } from './BackHeader'
+import { useSounding } from './chantPlayer'
 import { type ChantBookSection, chantSummary, romanMode } from './chants'
 import { useChant } from './hooks'
 import { PlayToggle } from './PlayToggle'
@@ -200,6 +201,7 @@ const SheetChant = memo(function SheetChant({
   const chant = query.data
   const summary = chantSummary(id)
   const { saved, isWorking, toggle } = useSaveToggle(id, 'chant')
+  const sounding = useSounding(id)
 
   const genre = sungAs ?? summary.genre
   const part = [
@@ -246,7 +248,13 @@ const SheetChant = memo(function SheetChant({
       {chant === null && <Typography tone="muted">{t('chant.notFound')}</Typography>}
       {chant && (
         <>
-          <ScoreView score={chant.score} width={width} scale={scale} label={summary.name} />
+          <ScoreView
+            score={chant.score}
+            width={width}
+            scale={scale}
+            label={summary.name}
+            sounding={sounding}
+          />
           <Typography variant="reference">
             {[
               chant.book,

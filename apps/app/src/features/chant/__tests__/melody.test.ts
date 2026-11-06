@@ -5,7 +5,7 @@ import { fileURLToPath } from 'node:url'
 import { describe, expect, it } from 'vitest'
 
 import { parseGabc } from '../gabc'
-import { melodyOf } from '../layoutScore'
+import { layoutScore, melodyOf, noteGlyphs } from '../layoutScore'
 import { melodyPulse, melodyWav, sungNotes } from '../melody'
 
 const score = (name: string) =>
@@ -45,5 +45,26 @@ describe('melodyWav', () => {
     expect(view.getUint16(34, true)).toBe(16)
     const seconds = view.getUint32(40, true) / 2 / 8000
     expect(seconds).toBeCloseTo(sungNotes(tones).duration + 0.3, 1)
+  })
+})
+
+describe('the notes a player lights', () => {
+  it.each([
+    'salve-regina',
+    'kyrie-xi',
+    'veni-creator-spiritus',
+  ])('%s: one box a sounded note, each over a glyph', (name) => {
+    const gabc = score(name)
+    const tones = melodyOf(gabc)
+    const layout = layoutScore(gabc, { width: 340 })
+    const notes = layout.lines.flatMap((line) => line.notes)
+    expect(notes.map((n) => n.tone)).toEqual(
+      tones.flatMap((tone, i) => (tone.pitch === undefined ? [] : [i])),
+    )
+    // A note drawn as part of a compound shape (a porrectus) has no glyph of its own to light.
+    const lit = layout.lines.flatMap((line) =>
+      line.notes.filter((n) => noteGlyphs(line, n.tone).length > 0),
+    )
+    expect(lit.length / notes.length).toBeGreaterThan(0.9)
   })
 })

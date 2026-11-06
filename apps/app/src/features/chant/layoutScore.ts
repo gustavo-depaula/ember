@@ -34,11 +34,28 @@ export type ScoreMark =
   | { type: 'stroke'; d: string; weight: number }
   | ScoreText
 
+/**
+ * Where a note of the melody is drawn on its line: `tone` is its place in
+ * `melodyOf`. exsurge places a note's box at the left of its neume whatever
+ * its place in it, so the box gives the note's height (its pitch) and the
+ * neume's span, and `rank` which of the neume's notes at that height it is.
+ */
+export type ScoreNote = {
+  tone: number
+  x: number
+  y: number
+  width: number
+  height: number
+  rank: number
+}
+
 export type ScoreLine = {
   /** Top of the line's box, in its own coordinates: marks sit at y ≥ top. */
   top: number
   height: number
   marks: ScoreMark[]
+  /** The notes the line draws, each with its place in the melody — what a player lights as it sounds. */
+  notes: ScoreNote[]
   /** The glyphs this line draws, for a renderer that defines them per line. */
   glyphs: string[]
 }
@@ -119,12 +136,23 @@ type Context = {
 type Line = {
   bounds: { y: number; height: number }
   origin: { y: number }
+  notationsStartIndex: number
+  numNotationsOnLine: number
   createSvgTree: (ctxt: Context, top: number) => Tree
 }
+type Box = { x: number; y: number; width: number; height: number }
 // What the score was parsed into, before any drawing: neumes with their notes, and the bars between.
+type Note = {
+  pitch: { toInt: () => number }
+  morae: unknown[]
+  episemata: unknown[]
+  // Where the note is drawn, once laid out: its box within its neume, and the glyph's origin in that box.
+  glyphVisualizer?: { bounds: Box; origin: { x: number; y: number } }
+}
 type Notation = {
   isDivider?: boolean
-  notes?: Array<{ pitch: { toInt: () => number }; morae: unknown[]; episemata: unknown[] }>
+  bounds?: Box
+  notes?: Note[]
 }
 type Score = {
   notations: Notation[]
@@ -196,22 +224,30 @@ export type Tone = {
  * bar as long as the bar is tall.
  */
 export function melodyOf(gabc: string): Tone[] {
-  const { score } = parse(gabc, 1)
+  return sing(parse(gabc, 1).score)
+}
+
+/**
+ * The melody of a parsed score, telling `onNote` where each note falls in it:
+ * one walk for the sound and for the notes a player lights, so the two agree.
+ */
+function sing(score: Score, onNote?: (note: Note, tone: number, notation: number) => void): Tone[] {
   const tones: Tone[] = []
-  for (const notation of score.notations) {
+  score.notations.forEach((notation, at) => {
     if (notation.notes) {
       for (const note of notation.notes) {
+        onNote?.(note, tones.length, at)
         const held = note.morae.length ? 2 : note.episemata.length ? 1.5 : 1
         tones.push({ pitch: note.pitch.toInt(), beats: held })
       }
     } else if (notation.isDivider && tones.length) {
       const last = tones[tones.length - 1]
-      if (last.pitch === undefined) continue
+      if (last.pitch === undefined) return
       last.beats = Math.max(last.beats, 2)
       const small = notation instanceof exsurge.QuarterBar || notation instanceof exsurge.Virgula
       tones.push({ beats: small ? 0.5 : notation instanceof exsurge.HalfBar ? 1 : 2 })
     }
-  }
+  })
   return tones
 }
 
@@ -232,7 +268,26 @@ export function layoutScore(gabc: string, { width, scale = 1 }: ScoreOptions): S
     glyphs[String(def.props.id)] = outlines(def)
   }
 
-  const lines = score.lines.map((line): ScoreLine => {
+  // Each note's box on its line, by the line that holds its neume.
+  const notesOf = score.lines.map((): ScoreNote[] => [])
+  sing(score, (note, tone, at) => {
+    const line = score.lines.findIndex(
+      (l) => at >= l.notationsStartIndex && at < l.notationsStartIndex + l.numNotationsOnLine,
+    )
+    const neume = score.notations[at].bounds
+    const glyph = note.glyphVisualizer
+    if (line < 0 || !neume || !glyph) return
+    const { y, height } = glyph.bounds
+    const same = notesOf[line].filter(
+      (n) =>
+        n.x === neume.x && n.y === y && n.tone >= tone - (score.notations[at].notes?.length ?? 0),
+    )
+    // The neume's span, out to where its last glyph is drawn from (a glyph is placed by its origin).
+    const width = neume.width + glyph.origin.x
+    notesOf[line].push({ tone, x: neume.x, y, width, height, rank: same.length })
+  })
+
+  const lines = score.lines.map((line, n): ScoreLine => {
     const marks: ScoreMark[] = []
     const used = new Set<string>()
     collect(line.createSvgTree(ctxt, line.bounds.y), 0, 0, sizes, marks, used)
@@ -240,10 +295,38 @@ export function layoutScore(gabc: string, { width, scale = 1 }: ScoreOptions): S
       // Only the staff reaches the end of the line; a ledger line stops short.
       if (mark.type === 'line' && mark.x2 > setWidth - 0.01) mark.x2 = width
     }
-    return { top: -line.origin.y, height: line.bounds.height, marks, glyphs: [...used] }
+    return {
+      top: -line.origin.y,
+      height: line.bounds.height,
+      marks,
+      notes: notesOf[n],
+      glyphs: [...used],
+    }
   })
 
   return { width, lines, glyphs, glyphScale: ctxt.glyphScaling }
+}
+
+// What a neume draws beside its notes: accidentals, dots, episemata — never lit as the note.
+const besideTheNote = /Flat|Natural|Sharp|Mora|Episema|Clef|Custos|Ictus/
+
+/** The glyphs that draw a note: within its neume's span, at its height, the `rank`-th there. */
+export function noteGlyphs(line: ScoreLine, tone: number): ScoreMark[] {
+  const note = line.notes.find((n) => n.tone === tone)
+  if (!note) return []
+  const there = line.marks
+    .filter(
+      (m) =>
+        m.type === 'glyph' &&
+        !besideTheNote.test(m.glyph) &&
+        m.x >= note.x &&
+        m.x <= note.x + note.width &&
+        m.y >= note.y &&
+        m.y <= note.y + note.height,
+    )
+    .sort((a, b) => (a as { x: number }).x - (b as { x: number }).x)
+  const mark = there[Math.min(note.rank, there.length - 1)]
+  return mark ? [mark] : []
 }
 
 function outlines(node: Tree): string[] {
