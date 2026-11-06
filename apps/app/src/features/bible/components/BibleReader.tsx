@@ -686,6 +686,7 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
             completedBy={completedBy}
             vulgateChapter={printed?.vulgateChapter}
             verses={pageVerses ?? chapterData.verses}
+            pointed={chapterData.verses}
             words={hebrewWords}
             morphology={hebrewMorphology}
             pieces={studyLayout.pieces}

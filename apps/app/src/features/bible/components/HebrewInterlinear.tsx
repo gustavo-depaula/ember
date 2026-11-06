@@ -52,6 +52,7 @@ export function HebrewInterlinear({
   completedBy,
   vulgateChapter,
   verses,
+  pointed,
   words,
   morphology,
   pieces,
@@ -71,6 +72,8 @@ export function HebrewInterlinear({
   vulgateChapter?: number
   /** The verses as the page shows them, with the pointing chosen. */
   verses: Verse[]
+  /** The verses with all their marks: a word's stress is read from its accents. */
+  pointed: Verse[]
   words: Record<number, HebrewWord[]>
   morphology: Record<string, MorphFields> | undefined
   pieces: boolean
@@ -85,6 +88,7 @@ export function HebrewInterlinear({
 }) {
   const fontSize = useReadingFontSizePx()
   const theme = useTheme()
+  const pointedText = useMemo(() => new Map(pointed.map((v) => [v.verse, v.text])), [pointed])
   const color = theme.color?.val as string
   const muted = theme.colorSecondary?.val as string
   const burgundy = theme.colorBurgundy?.val as string
@@ -153,6 +157,7 @@ export function HebrewInterlinear({
         <InterlinearVerse
           key={v.verse}
           verse={v}
+          pointedText={pointedText.get(v.verse) ?? v.text}
           words={words[v.verse]}
           morphology={morphology}
           pieces={pieces}
@@ -173,6 +178,7 @@ export function HebrewInterlinear({
 
 const InterlinearVerse = memo(function InterlinearVerse({
   verse,
+  pointedText,
   words = [],
   morphology,
   pieces,
@@ -187,6 +193,7 @@ const InterlinearVerse = memo(function InterlinearVerse({
   onVerseLayout,
 }: {
   verse: Verse
+  pointedText: string
   words?: HebrewWord[]
   morphology: Record<string, MorphFields> | undefined
   pieces: boolean
@@ -204,6 +211,7 @@ const InterlinearVerse = memo(function InterlinearVerse({
   const top = useRef(0)
   const n = verse.verse
   const slots = hebrewTokens(verse.text)
+  const pointedSlots = hebrewTokens(pointedText)
 
   return (
     <View
@@ -281,7 +289,7 @@ const InterlinearVerse = memo(function InterlinearVerse({
               )}
               {sound && word.t ? (
                 <Text style={looks.sound}>
-                  {syllables(word.t)
+                  {syllables(word.t, pointedSlots[index])
                     .map((s) => (s.stressed ? s.text.toUpperCase() : s.text))
                     .join('·')}
                 </Text>

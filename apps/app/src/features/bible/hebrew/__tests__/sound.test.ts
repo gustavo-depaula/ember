@@ -17,6 +17,16 @@ describe('syllables', () => {
     expect(syllables("De.she'").map((s) => s.stressed)).toEqual([true, false])
   })
 
+  test('finds a capital inside the syllable', () => {
+    expect(syllables('ha.laKh').map((s) => s.stressed)).toEqual([false, true])
+  })
+
+  // חַ֭טָּאִים: Deḥî stands before the first letter, and STEPBible stressed it.
+  test('marks no stress where the accent is written at the word’s edge', () => {
+    expect(syllables("Cha.ta.'im", 'חַ֭טָּאִים').some((s) => s.stressed)).toBe(false)
+    expect(syllables('be./re.Shit', 'בְּרֵאשִׁ֖ית').map((s) => s.stressed)).toEqual([false, false, true])
+  })
+
   test('leaves God’s Name unpronounced', () => {
     expect(syllables('la./YHWH')).toEqual([
       { text: 'la', stressed: false },

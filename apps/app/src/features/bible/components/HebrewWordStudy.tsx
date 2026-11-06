@@ -107,7 +107,7 @@ export function HebrewWordStudy({
   const accent =
     accents.data &&
     accentOf(accents.data, accentSystem(accents.data, bookId, chapter, verse), slots, index)
-  const sound = word.t ? syllables(word.t) : []
+  const sound = word.t ? syllables(word.t, slots[index]) : []
   const count = occurrences.data?.length
   const lemma = brief.data?.lemma ?? piece[3]
   const tabs: Tab[] = [...(root ? (['family'] as const) : []), 'bdb', 'strongs', 'occurrences']
