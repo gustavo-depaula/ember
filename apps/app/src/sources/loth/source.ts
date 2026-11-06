@@ -1,8 +1,9 @@
 import type { Hour } from '@ember/loth'
 import { getCatalog } from '@/content/contentIndex'
 import type { Primitive } from '@/content/primitives'
-import { corpusLoth } from '@/lib/loth/loaders'
+import { corpusLoth, lothChantPairs } from '@/lib/loth/loaders'
 import type { ContentSource, SourceFetchContext } from '../types'
+import { withChant } from './chant'
 import { type LatinSource, lothHour } from './hour'
 
 // The practice's hour ids, which are also the ones its other source takes.
@@ -33,7 +34,7 @@ export function lothHourSource(
     id: 'producer/loth-hour',
     // The corpus is the input: a rebuilt corpus is a new version.
     get version() {
-      return `14:${getCatalog().generated}`
+      return `15:${getCatalog().generated}`
     },
     prefsDeps: [
       'lang' as const,
@@ -48,11 +49,17 @@ export function lothHourSource(
       if (!hour) throw new Error(`Liturgy of the Hours: unknown hour ${JSON.stringify(id)}`)
       const { lang, secondaryLang, jurisdiction, vernacular } = ctx.prefs
       if (lang === 'pt-BR')
-        return lothHour(ctx.date, hour, corpusLoth, secondaryLang === 'la' ? latin : undefined)
+        return withChant(
+          await lothHour(ctx.date, hour, corpusLoth, secondaryLang === 'la' ? latin : undefined),
+          await lothChantPairs(),
+        )
       const brazilian = jurisdiction === 'BR' || vernacular === 'pt-BR'
       const inLatin = lang === 'la' || secondaryLang === 'la'
       if (brazilian && inLatin && latin)
-        return inItsLatin(await lothHour(ctx.date, hour, corpusLoth, latin))
+        return withChant(
+          inItsLatin(await lothHour(ctx.date, hour, corpusLoth, latin)),
+          await lothChantPairs(),
+        )
       return ctx.sources.fetch(elsewhere, { hour: id })
     },
   }

@@ -1310,6 +1310,7 @@ def build_loth(b: Builder) -> None:
       loth-parts/<bundle>  the parts themselves, some dozens to a bundle
       loth-latin/<bundle>  the Latin of a bundle's parts, part for part
       loth-extras          the complementary texts the hours link to
+      loth-chant           the chant a text is sung to, by the text's opening words
       loth-library/<id>    the psalter by psalm, and the offices, prayers and
                            rites opened by name rather than by date
     """
@@ -1330,7 +1331,8 @@ def build_loth(b: Builder) -> None:
             h, size = b.write_json_blob(data)
             b.add_catalog(f"{kind}/{data['id']}", {"kind": kind, "hash": h, "size": size})
 
-    for name, item_id in (("calendar", "loth-calendar"), ("extras", "loth-extras")):
+    # chant: the Gregorian chant a text of the hours is sung to, by its opening words.
+    for name, item_id in (("calendar", "loth-calendar"), ("extras", "loth-extras"), ("chant", "loth-chant")):
         with (src / f"{name}.json").open(encoding="utf-8") as fh:
             data = json.load(fh)
         h, size = b.write_json_blob(data)
@@ -1380,7 +1382,7 @@ def build_chants(b: Builder) -> None:
     genre_of["Hymnus"] = "hy"
     known: set[str] = set()
     words: dict[str, str] = {}
-    propers = sorted((CONTENT / "chant-propers").glob("*.gabc"))
+    propers = [*sorted((CONTENT / "chant-propers").glob("*.gabc")), *sorted((CONTENT / "chant-hours").glob("*.gabc"))]
     for f in [*sorted(src.glob("*.gabc")), *propers]:
         text = f.read_text(encoding="utf-8")
         try:
@@ -1396,7 +1398,7 @@ def build_chants(b: Builder) -> None:
             entry["mode"] = headers["mode"]
         if genre_of.get(headers.get("office-part", "")):
             entry["genre"] = genre_of[headers["office-part"]]
-        if f.parent.name == "chant-propers":
+        if f.parent.name in ("chant-propers", "chant-hours"):
             entry["proper"] = True
         b.add_catalog(f"chant/{f.stem}", entry)
         known.add(f"chant/{f.stem}")

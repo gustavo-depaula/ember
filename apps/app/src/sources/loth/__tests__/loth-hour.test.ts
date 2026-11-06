@@ -24,7 +24,23 @@ vi.mock('@/lib/loth/loaders', () => ({
     parts: async (bundle: string) => read(`parts/${bundle}.json`),
     extras: async () => read('extras.json'),
   },
+  lothChantPairs: async () => read('chant.json'),
 }))
+// The chant the pairings name, read from the corpus's own GABC files.
+vi.mock('@/features/chant/chants', async () => {
+  const { parseGabc } = await import('@/features/chant/gabc')
+  return {
+    loadChant: async (id: string) => {
+      const stem = id.replace(/^chant\//, '')
+      const file = ['chants', 'chant-hours']
+        .map((dir) => resolve(root, '..', dir, `${stem}.gabc`))
+        .find((f) => existsSync(f))
+      if (!file) return undefined
+      const { headers, score } = parseGabc(readFileSync(file, 'utf8'))
+      return { id, name: headers.name ?? id, mode: headers.mode, score }
+    },
+  }
+})
 
 const { lothHourSource } = await import('../source')
 
@@ -60,6 +76,7 @@ function shown(primitives: Primitive[], open = false): string {
   const walk = (list: Primitive[]) => {
     for (const p of list) {
       if (p.type === 'text' || p.type === 'rubric' || p.type === 'heading') out.push(p.text.primary)
+      else if (p.type === 'sung') walk(p.text)
       else if (p.type === 'verses')
         out.push(
           ...p.items.map((i) => `${i.mark ?? (i.role === 'v' ? '℣.' : '℟.')} ${i.text.primary}`),
@@ -202,9 +219,14 @@ describe('the Liturgy of the Hours in Brazilian Portuguese', () => {
   })
 
   it('titles each part, with its citation beneath', async () => {
-    const headings = (await hourOn('2026-10-06', 'lauds')).flatMap((p) =>
-      p.type === 'container' && p.behavior.kind === 'select' ? p.behavior.options[0].children : [p],
-    )
+    const headings = (await hourOn('2026-10-06', 'lauds'))
+      .flatMap((p) =>
+        p.type === 'container' && p.behavior.kind === 'select'
+          ? p.behavior.options[0].children
+          : [p],
+      )
+      // A sung part keeps its heading as the title of its block.
+      .flatMap((p) => (p.type === 'sung' ? p.text : [p]))
     const titles = headings.flatMap((p) =>
       p.type === 'heading' ? [`${p.text.primary}${p.note ? ` | ${p.note.primary}` : ''}`] : [],
     )
@@ -284,6 +306,45 @@ describe('outside the years checked against the breviary', () => {
     const [first] = await hourOn('2043-05-05', 'lauds')
     expect(first).toMatchObject({ type: 'rubric' })
     expect((await hourOn('2026-05-05', 'lauds'))[0].type).not.toBe('rubric')
+  })
+})
+
+describe('the chant of the hours', () => {
+  // The sung blocks of an hour, each by its chant's name and the text it opens on.
+  function sung(primitives: Primitive[], into: string[] = []): string[] {
+    for (const p of primitives) {
+      if (p.type === 'sung') {
+        const first = p.text.find((t) => t.type === 'text')
+        into.push(
+          `${p.chants.map((c) => c.name).join(' + ')}: ${first?.type === 'text' ? first.text.primary.split('\n')[0] : ''}`,
+        )
+      } else if (p.type === 'container') {
+        sung(p.children ?? [], into)
+        if ('options' in p.behavior) for (const o of p.behavior.options) sung(o.children, into)
+      }
+    }
+    return into
+  }
+
+  it("sings Compline's Marian antiphons, in Portuguese and in Latin, to their chant", async () => {
+    const blocks = sung(await hourOn('2026-11-08', 'compline'))
+    expect(blocks).toContain('Salve Regina: Salve, Rainha, Mãe de misericórdia,')
+    expect(blocks).toContain('Salve Regina: Salve, Regína, mater misericórdiae;')
+    expect(blocks).toContain('Alma Redemptoris: Ó Mãe do Redentor, do céu ó porta,')
+    expect(blocks).toContain('Ave Regina caelorum: Ave, Regína caelórum')
+    // The hymn, a translation of the Liturgia Horarum's, to the Latin's melody.
+    expect(blocks).toContain('Te lucis ante terminum: Agora que o clarão da luz se apaga,')
+    // A Brazilian hymn to Our Lady has no Gregorian melody, and stays as it reads.
+    expect(blocks.some((b) => b.includes('Salve Rainha mãe de Deus'))).toBe(false)
+  })
+
+  it('sings the Te Deum of a Sunday, its stanzas and its Latin, as one block each', async () => {
+    const readings = await hourOn('2026-11-08', 'office-of-readings')
+    const blocks = sung(readings)
+    expect(blocks).toContain('Te Deum: A vós, ó Deus, louvamos,')
+    expect(blocks.some((b) => b.startsWith('Te Deum: Te Deum laudámus'))).toBe(true)
+    // Every stanza is inside the block: none is left standing after it.
+    expect(shown(readings, true).split('A vós, ó Deus, louvamos').length).toBe(2)
   })
 })
 

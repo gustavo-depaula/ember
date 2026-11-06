@@ -24,3 +24,8 @@ export const corpusLoth: LothSource = {
 
 // The Latin of each bundle's parts, where they have a Latin original.
 export const corpusLothLatin = (bundle: string) => loadById<LatinBundle>(`loth-latin/${bundle}`)
+
+/** Which chant each text of the hours is sung to (`content/loth/chant.json`); none before a corpus that has it. */
+export async function lothChantPairs(): Promise<Record<string, string | string[]>> {
+  return (await loadById<Record<string, string | string[]>>('loth-chant')) ?? {}
+}
