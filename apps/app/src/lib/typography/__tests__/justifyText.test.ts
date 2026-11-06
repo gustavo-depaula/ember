@@ -48,6 +48,17 @@ describe('font metrics', () => {
     }
   })
 
+  // Psalm 23:3 set one line too many on Android until this was modelled: the
+  // shaper draws גּ as one wider glyph, and בְמַעְגְּלֵי overran by a pixel.
+  test('a Hebrew letter with dagesh is measured as the glyph drawn', () => {
+    const m = getFontMetrics('ezra-sil')
+    if (!m) throw new Error('no metrics')
+    // Points take no width; a dagesh after the vowel still counts.
+    expect(m.width('גְּ', 22)).toBeCloseTo(m.width('גּ', 22), 6)
+    expect(m.width('גְּ', 22)).toBeGreaterThan(m.width('ג', 22))
+    expect(m.width('רֹ֝עִ֗י', 22)).toBeCloseTo(m.width('רעי', 22), 6)
+  })
+
   // The direction matters: an under-measured line overruns its measure and gets
   // re-broken by the platform, which is free to drop what no longer fits.
   test('over-estimates a glyph it cannot measure, never under-estimates', () => {

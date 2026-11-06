@@ -27,6 +27,37 @@ const ligatures: ReadonlyArray<readonly [sequence: string, form: string]> = [
   ['fl', 'ﬂ'],
 ]
 
+// Hebrew letter → its precomposed dagesh form (Alphabetic Presentation Forms).
+// Heth, final mem, final nun, ayin and final tsadi have none.
+const hebrewDageshForms: ReadonlyArray<readonly [letter: number, form: number]> = [
+  [0x05d0, 0xfb30],
+  [0x05d1, 0xfb31],
+  [0x05d2, 0xfb32],
+  [0x05d3, 0xfb33],
+  [0x05d4, 0xfb34],
+  [0x05d5, 0xfb35],
+  [0x05d6, 0xfb36],
+  [0x05d8, 0xfb38],
+  [0x05d9, 0xfb39],
+  [0x05da, 0xfb3a],
+  [0x05db, 0xfb3b],
+  [0x05dc, 0xfb3c],
+  [0x05de, 0xfb3e],
+  [0x05e0, 0xfb40],
+  [0x05e1, 0xfb41],
+  [0x05e3, 0xfb43],
+  [0x05e4, 0xfb44],
+  [0x05e6, 0xfb46],
+  [0x05e7, 0xfb47],
+  [0x05e8, 0xfb48],
+  [0x05e9, 0xfb49],
+  [0x05ea, 0xfb4a],
+]
+
+/** A point or accent that sits on the letter before it (not maqaf, paseq, sof pasuq or nun hafukha). */
+const isHebrewMark = (cp: number) =>
+  cp >= 0x0591 && cp <= 0x05c7 && cp !== 0x05be && cp !== 0x05c0 && cp !== 0x05c3 && cp !== 0x05c6
+
 export type FontMetrics = {
   /**
    * Width of `text` at `fontSizePx` as a shaper draws it: advances, the
@@ -98,6 +129,27 @@ function build(table: FaceMetrics): FontMetrics {
     return right === undefined ? 0 : kernMatrix[left * rightClassCount + right]
   }
 
+  // Hebrew: a font's shaper (`ccmp`) draws a letter carrying a dagesh as one
+  // precomposed glyph, and Ezra SIL's are not all as wide as the bare letter —
+  // gimel with dagesh is 58 units wider, bet 50 narrower. Measured as letter +
+  // zero-width mark, a line of them overran its measure by a pixel and the
+  // platform wrapped it. The dagesh may come after the vowel under the same
+  // letter (canonical order puts it after most points), so the letter's whole
+  // mark cluster is searched. Letters with no presentation form keep their own.
+  const dageshForm = new Map<number, number>()
+  for (const [letter, form] of hebrewDageshForms) {
+    const advance = byCodepoint.get(form)
+    if (advance !== undefined && byCodepoint.has(letter)) dageshForm.set(letter, advance)
+  }
+  const carriesDagesh = (text: string, from: number) => {
+    for (let j = from; j < text.length; j++) {
+      const mark = text.charCodeAt(j)
+      if (mark === 0x05bc) return true
+      if (!isHebrewMark(mark)) return false
+    }
+    return false
+  }
+
   // The innermost loop of the justifier: justif measures every cumulative
   // prefix of a word to price its hyphenation breaks, so this runs many times
   // per word per layout. Indexed `charCodeAt` rather than `for...of`, which
@@ -114,7 +166,12 @@ function build(table: FaceMetrics): FontMetrics {
       // affected word. It is invisible to the shaper too, so the pair it sits
       // inside still kerns across it.
       if (cp === 0x00ad) continue
-      total += byCodepoint.get(cp) ?? fallback
+      // Hebrew points and accents are positioned on their letter, and the
+      // shaper zeroes their advance whatever the font's table says (Ezra SIL
+      // gives a few of them 2 units).
+      if (isHebrewMark(cp)) continue
+      const asDagesh = dageshForm.size && dageshForm.has(cp) && carriesDagesh(text, i + 1)
+      total += asDagesh ? (dageshForm.get(cp) as number) : (byCodepoint.get(cp) ?? fallback)
       if (kerned && prev >= 0) total += kernBetween(prev, cp)
       prev = cp
     }

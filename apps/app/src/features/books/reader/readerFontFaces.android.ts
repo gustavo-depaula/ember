@@ -28,6 +28,7 @@ const faceFiles: Record<ReadingFontId, FaceFile[]> = {
   'libre-baskerville': [{ module: LibreBaskerville_400Regular, style: 'normal' }],
   'source-serif-4': [{ module: SourceSerif4_400Regular, style: 'normal' }],
   merriweather: [{ module: Merriweather_400Regular, style: 'normal' }],
+  'ezra-sil': [{ module: require('../../../../assets/fonts/EzraSIL.ttf'), style: 'normal' }],
 }
 
 async function loadFaces(fontId: ReadingFontId): Promise<ReaderFontFace[]> {

@@ -40,6 +40,7 @@ export const appFonts = {
   LibreBaskerville_400Regular,
   SourceSerif4_400Regular,
   Merriweather_400Regular,
+  EzraSIL: require('../../assets/fonts/EzraSIL.ttf'),
   UnifrakturMaguntia: require('../../assets/fonts/UnifrakturMaguntia-Book.ttf'),
   Junicode: require('../../assets/fonts/Junicode.ttf'),
   Junicode_Italic: require('../../assets/fonts/Junicode-Italic.ttf'),

@@ -5,7 +5,7 @@ import { Modal, Pressable } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, Text, useTheme, View, XStack, YStack } from 'tamagui'
 
-import { readingFonts } from '@/config/readingFonts'
+import { pickableReadingFonts } from '@/config/readingFonts'
 import { useReadingMargin, useReadingStyle } from '@/hooks/useReadingStyle'
 import type { StyledSegment } from '@/lib/typography/justifyText'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -263,7 +263,7 @@ export function ReadingConfig() {
       </XStack>
 
       <YStack gap="$xs">
-        {readingFonts.map((f) => {
+        {pickableReadingFonts.map((f) => {
           const selected = rc.fontFamily === f.id
           return (
             <Pressable

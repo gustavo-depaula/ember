@@ -1,4 +1,5 @@
 import { isGreek } from '@/lib/typography/greek'
+import { isHebrew } from '@/lib/typography/hebrew'
 
 export type ReadingFontId =
   | 'eb-garamond'
@@ -8,6 +9,7 @@ export type ReadingFontId =
   | 'libre-baskerville'
   | 'source-serif-4'
   | 'merriweather'
+  | 'ezra-sil'
 
 type ReadingFontDef = {
   id: ReadingFontId
@@ -16,6 +18,9 @@ type ReadingFontDef = {
   family: string
   /** Draws polytonic Greek (breathings, circumflex, iota subscript). */
   greek?: true
+  /** A face for one script only, set wherever that script is and never offered
+   *  in the font picker: the reader's choice of face is for the Latin alphabet. */
+  script?: 'hebrew'
 }
 
 export const readingFonts: ReadingFontDef[] = [
@@ -62,7 +67,17 @@ export const readingFonts: ReadingFontDef[] = [
     description: 'Sturdy slab serif, highly legible',
     family: 'Merriweather_400Regular',
   },
+  {
+    id: 'ezra-sil',
+    label: 'Ezra SIL',
+    description: 'Biblical Hebrew, after the Biblia Hebraica Stuttgartensia',
+    family: 'EzraSIL',
+    script: 'hebrew',
+  },
 ]
+
+/** The faces a reader chooses between. */
+export const pickableReadingFonts = readingFonts.filter((f) => !f.script)
 
 /**
  * The face text in `language` is set in: the reader's own, unless it cannot
@@ -71,6 +86,9 @@ export const readingFonts: ReadingFontDef[] = [
  * one face and bare ones in another.
  */
 export function readingFontFor(chosen: ReadingFontId, language: string): ReadingFontId {
+  // None of the reading faces has the Hebrew points and cantillation; Ezra SIL
+  // stacks them as the printed Hebrew Bible does.
+  if (isHebrew(language)) return 'ezra-sil'
   if (!isGreek(language) || readingFonts.find((f) => f.id === chosen)?.greek) return chosen
   return 'eb-garamond'
 }

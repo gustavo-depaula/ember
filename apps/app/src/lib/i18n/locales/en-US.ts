@@ -1010,6 +1010,7 @@ export default {
       PT: 'Portuguese',
       LA: 'Latin',
       GRC: 'Greek',
+      HBO: 'Hebrew',
     },
     divisions: {
       pentateuch: 'Pentateuch',

@@ -16,6 +16,7 @@ import type { TextStyle } from 'react-native'
 import type { ReadingFontId } from '@/config/readingFonts'
 import { type FontMetrics, getFontMetrics, type TextStyleName } from './fontMetrics'
 import { isGreek } from './greek'
+import { isHebrew } from './hebrew'
 import { hyphenateGreek } from './hyphenGreek'
 import { laLiturgicPatterns } from './hyphenLaLiturgic.generated'
 
@@ -143,6 +144,7 @@ function getHyphenator(language: string | undefined) {
     if (lang.startsWith('pt')) return 'pt'
     if (lang.startsWith('la')) return 'la'
     if (isGreek(lang)) return 'grc'
+    if (isHebrew(lang)) return 'he'
     return 'en'
   })()
   if (hyphenators.has(key)) return hyphenators.get(key)
@@ -155,6 +157,9 @@ function getHyphenator(language: string | undefined) {
     if (key === 'la') return createHyphenator(laLiturgicPatterns)
     if (key === 'pt') return hyphenatePt
     if (key === 'grc') return hyphenateGreek
+    // Hebrew is never broken inside a word, nor after a maqaf: the maqaf binds
+    // its words into one accent unit. The line is evened by its spaces alone.
+    if (key === 'he') return (word: string) => [word]
     return hyphenateEnUS
   })()
   hyphenators.set(key, fn)

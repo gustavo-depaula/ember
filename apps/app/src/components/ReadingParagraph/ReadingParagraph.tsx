@@ -5,6 +5,7 @@ import { Text } from 'tamagui'
 import { useLastLineGuard } from '@/hooks/useLastLineGuard'
 import { useReadingFontId, useReadingStyle } from '@/hooks/useReadingStyle'
 import type { TextStyleName } from '@/lib/typography/fontMetrics'
+import { isHebrew } from '@/lib/typography/hebrew'
 import type { StyledSegment } from '@/lib/typography/justifyText'
 import { blockFace } from '../prayer/InlineMarkdown'
 import { JustifiedLines } from './JustifiedLines'
@@ -67,6 +68,10 @@ export function ReadingParagraph({
   const face = blockFace(baseFamily, base) as ComponentProps<typeof Text>
 
   const text = useMemo(() => source?.map((s) => s.text).join('') ?? '', [source])
+  // A right-to-left paragraph: the platform orders each line's words itself,
+  // so the breaker only decides where lines end; the start edge is the right.
+  const rtl = isHebrew(lang)
+  const direction = rtl ? ({ writingDirection: 'rtl' } as const) : undefined
   const guard = useLastLineGuard(
     `${reading.fontSize}|${reading.lineHeight}|${baseFamily}|${base}|${lang}|${text}`,
   )
@@ -95,7 +100,10 @@ export function ReadingParagraph({
         testID={testID}
         accessibilityLabel={accessibilityLabel}
         {...reading}
-        {...(ragged ? { textAlign: 'left' as const, style: undefined } : {})}
+        {...(ragged
+          ? { textAlign: rtl ? ('right' as const) : ('left' as const), style: undefined }
+          : {})}
+        {...direction}
         color={color}
         {...face}
         minHeight={guard.minHeight}
@@ -121,7 +129,8 @@ export function ReadingParagraph({
       color={color}
       // The line model already places every break, so the enclosing Text must
       // not add its own justification on top.
-      textAlign="left"
+      textAlign={rtl ? 'right' : 'left'}
+      {...direction}
       {...face}
     />
   )

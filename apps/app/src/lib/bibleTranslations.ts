@@ -131,6 +131,16 @@ export const translations: Translation[] = [
     words: true,
     completes: 'LXX',
   },
+  {
+    code: 'WLC',
+    name: 'Westminster Leningrad Codex',
+    language: 'HBO',
+    description:
+      'The Hebrew Bible as the Leningrad Codex (1008) gives it, the oldest complete manuscript, with its vowels and cantillation.',
+    numbering: 'mt',
+    corpus: 'hebrew-wlc',
+    completes: 'LXX',
+  },
 ]
 
 export const defaultTranslationForLanguage: Record<string, string> = {
@@ -155,7 +165,13 @@ export function findTranslation(code: string): Translation | undefined {
 }
 
 // The tag the reading components hyphenate and choose a face by.
-const readingLanguages: Record<string, string> = { EN: 'en-US', PT: 'pt-BR', LA: 'la', GRC: 'grc' }
+const readingLanguages: Record<string, string> = {
+  EN: 'en-US',
+  PT: 'pt-BR',
+  LA: 'la',
+  GRC: 'grc',
+  HBO: 'hbo',
+}
 
 /** The language an edition's text is set in, as `ReadingLanguage` takes it. */
 export function editionLanguage(code: string): string {

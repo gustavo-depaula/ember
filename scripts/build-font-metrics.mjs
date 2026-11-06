@@ -57,6 +57,9 @@ const fonts = {
   merriweather: {
     regular: ['@expo-google-fonts/merriweather', '400Regular/Merriweather_400Regular.ttf'],
   },
+  // No npm package: SIL's file, vendored with its OFL beside it. `null` = a
+  // path from the repo root.
+  'ezra-sil': { regular: [null, 'apps/app/assets/fonts/EzraSIL.ttf'] },
 }
 
 // Whole blocks rather than a hand-picked list. A character the corpus uses but
@@ -73,6 +76,7 @@ const blocks = [
   [0x0020, 0x00ff], // Basic Latin + Latin-1 Supplement (º ª § £ · ¡ ¿ « »)
   [0x0100, 0x024f], // Latin Extended-A and -B (macrons, breves, ǽ)
   [0x0370, 0x03ff], // Greek and Coptic
+  [0x0590, 0x05ff], // Hebrew: letters, points, cantillation, maqaf, sof pasuq
   [0x1e00, 0x1eff], // Latin Extended Additional
   [0x1f00, 0x1fff], // Greek Extended (polytonic, in the Fathers)
   [0x2000, 0x206f], // General Punctuation (dashes, the fixed-width spaces)
@@ -80,6 +84,7 @@ const blocks = [
   [0x2100, 0x214f], // Letterlike symbols (℣ ℟ ℞)
   [0x2190, 0x21ff], // Arrows (cross-reference markers in imported articles)
   [0xfb00, 0xfb06], // f-ligatures, which `fontMetrics.ts` substitutes before summing
+  [0xfb1d, 0xfb4f], // Hebrew presentation forms (precomposed pointed letters)
 ]
 
 // Default-ignorable formatting characters. Their `hmtx` entry is whatever glyph
@@ -520,6 +525,7 @@ function encodeCell(value) {
 }
 
 const resolveFont = (pkg, file) => {
+  if (pkg === null) return existsSync(join(repo, file)) ? join(repo, file) : undefined
   for (const base of [join(repo, 'node_modules'), join(repo, 'apps/app/node_modules')]) {
     const p = join(base, pkg, file)
     if (existsSync(p)) return p
