@@ -6,7 +6,9 @@
 		"en-US": "Chaplet of the Infant Jesus of Prague",
 		"pt-BR": "Coroinha do Menino Jesus de Praga"
 	},
-	"categories": ["devotion"],
+	"categories": [
+		"devotion"
+	],
 	"estimatedMinutes": 8,
 	"flowMode": "scroll",
 	"completion": "flow-end",
@@ -24,14 +26,22 @@
 	},
 	"source": {
 		"en-US": "Patrick Shaughnessy, O.S.B., *Twenty-four Rosaries and Chaplets* (St. Meinrad, Ind.: Grail Publications, 1954), \"Little Crown or Chaplet of the Infant Jesus of Prague\", pp. 21–22 — [archive.org](https://archive.org/details/twentyfourrosari00shau/page/21)",
-		"pt-BR": "Sem fonte portuguesa: as jaculatórias e o oferecimento seguem o texto inglês de Patrick Shaughnessy, O.S.B., *Twenty-four Rosaries and Chaplets* (Grail Publications, 1954), pp. 21–22 — [archive.org](https://archive.org/details/twentyfourrosari00shau/page/21)"
+		"pt-BR": "Patrick Shaughnessy, O.S.B., *Twenty-four Rosaries and Chaplets* (Grail Publications, 1954), pp. 21–22 — [archive.org](https://archive.org/details/twentyfourrosari00shau/page/21). O oferecimento e a invocação final foram traduzidos desse inglês para este aplicativo; a jaculatória é Jo 1,14 como no Ângelus."
 	},
-	"tags": ["chaplet", "infant-jesus", "prague", "childhood", "carmelite"],
+	"tags": [
+		"chaplet",
+		"infant-jesus",
+		"prague",
+		"childhood",
+		"carmelite"
+	],
 	"defaults": {
 		"sortOrder": 513,
 		"slots": [
 			{
-				"schedule": { "type": "daily" },
+				"schedule": {
+					"type": "daily"
+				},
 				"tier": "extra",
 				"enabled": false
 			}

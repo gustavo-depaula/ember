@@ -6,7 +6,10 @@
 		"en-US": "Franciscan Crown",
 		"pt-BR": "Coroa Franciscana"
 	},
-	"categories": ["devotion", "marian"],
+	"categories": [
+		"devotion",
+		"marian"
+	],
 	"estimatedMinutes": 25,
 	"flowMode": "scroll",
 	"completion": "flow-end",
@@ -24,14 +27,22 @@
 	},
 	"source": {
 		"en-US": "*Manual of the Third Order of St. Francis of Assisi*, vol. I (London: Burns, Oates, and Company, 1869), \"The Franciscan Crown\", pp. 305–307 — [archive.org](https://archive.org/details/manualthirdorde01ordegoog/page/n326); the seven joys also listed in *The Raccolta*, 1910 ed., no. 223, p. 214",
-		"pt-BR": "Estrutura segundo o *Manual of the Third Order of St. Francis of Assisi*, vol. I (Londres: Burns, Oates, 1869), pp. 305–307 — [archive.org](https://archive.org/details/manualthirdorde01ordegoog/page/n326); sem fonte portuguesa para o versículo inicial, os enunciados das alegrias e a oração final"
+		"pt-BR": "Estrutura segundo o *Manual of the Third Order of St. Francis of Assisi*, vol. I (Londres: Burns, Oates, 1869), pp. 305–307 — [archive.org](https://archive.org/details/manualthirdorde01ordegoog/page/n326). Os enunciados das alegrias foram traduzidos desse inglês para este aplicativo; o versículo inicial é o do corpus, e a oração final é a coleta da Imaculada Conceição em português do Divinum Officium."
 	},
-	"tags": ["chaplet", "franciscan", "seven-joys", "marian", "seraphic-rosary"],
+	"tags": [
+		"chaplet",
+		"franciscan",
+		"seven-joys",
+		"marian",
+		"seraphic-rosary"
+	],
 	"defaults": {
 		"sortOrder": 514,
 		"slots": [
 			{
-				"schedule": { "type": "daily" },
+				"schedule": {
+					"type": "daily"
+				},
 				"tier": "extra",
 				"enabled": false
 			}
