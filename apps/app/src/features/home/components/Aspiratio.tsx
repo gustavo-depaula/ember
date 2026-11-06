@@ -4,13 +4,13 @@ import { Pressable } from 'react-native'
 import { XStack } from 'tamagui'
 
 import { Typography } from '@/components'
-import { useToday } from '@/hooks/useToday'
+import { useViewedDay } from '@/hooks/useToday'
 import { lightTap } from '@/lib/haptics'
 import { aspirationFor } from '../aspirations'
 
 export function Aspiratio({ date }: { date?: Date }) {
   const { t } = useTranslation()
-  const today = useToday()
+  const today = useViewedDay()
   const d = date ?? today
   const [offset, setOffset] = useState(0)
   const aspiration = useMemo(() => aspirationFor(d, offset), [d, offset])

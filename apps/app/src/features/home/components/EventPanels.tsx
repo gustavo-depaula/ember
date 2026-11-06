@@ -20,7 +20,7 @@ import {
   useHeldCards,
   useSaintsCatalog,
 } from '@/features/saints'
-import { useToday } from '@/hooks/useToday'
+import { useViewedDay } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 
@@ -108,7 +108,7 @@ const actGlyph = { mass: 'chalice', office: 'book', prayedDay: 'day' } as const
 export function TodayPanel({ cards, date }: { cards: TodayCard[]; date?: string }) {
   const { t } = useTranslation()
   const router = useRouter()
-  const today = useToday()
+  const today = useViewedDay()
   const day = date ? parseISO(date) : today
   const heading = (() => {
     if (!date) return t('home.events.cardsToday')

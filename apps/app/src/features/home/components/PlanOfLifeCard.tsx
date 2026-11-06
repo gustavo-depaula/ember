@@ -7,17 +7,12 @@ import { AnimatedPressable } from '@/components'
 import { CoverKicker, OrdoSheet } from '@/features/covers'
 import { coverFonts, coverInk } from '@/features/covers/parts'
 import { type BlockTone, jewelTones } from '@/features/explore/bgColor'
-import {
-  dayMinutes,
-  getActiveBlocks,
-  getCurrentTimeBlock,
-  getSlotName,
-  getSlotPinLabel,
-} from '@/features/plan-of-life'
+import { getActiveBlocks, getSlotName, getSlotPinLabel } from '@/features/plan-of-life'
 import { useMinuteOfDay } from '@/hooks/useCurrentHour'
 import {
   type DayStanding,
   entriesAround,
+  hourOfDay,
   owedAt,
   type PlanEntry,
   planStanding,
@@ -46,14 +41,14 @@ const bandTone: Record<DayStanding, BlockTone> = {
  * invites one instead.
  */
 export function PlanOfLifeCard({
-  plan: { slots, todaySlots, completedIds, pinnedFlows },
+  plan: { slots, todaySlots, completedIds, pinnedFlows, selectedDate, anchorDate },
   onPress,
 }: {
   plan: TodayPlan
   onPress: () => void
 }) {
   const { t } = useTranslation()
-  const now = useMinuteOfDay()
+  const { now, current } = hourOfDay(selectedDate, anchorDate, useMinuteOfDay())
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: pinnedFlows re-derives pinned slots' names as their flows load
   const blocks = useMemo(
@@ -70,10 +65,9 @@ export function PlanOfLifeCard({
     [todaySlots, t, pinnedFlows],
   )
   const { day, shown } = useMemo(() => {
-    const day = planStanding(blocks, completedIds, dayMinutes(now))
-    const current = getCurrentTimeBlock(Math.floor(now / 60))
+    const day = planStanding(blocks, completedIds, now)
     return { day, shown: entriesAround(day.entries, current, shownEntries) }
-  }, [blocks, completedIds, now])
+  }, [blocks, completedIds, now, current])
   const total = day.entries.length
   const noPlan = slots.length === 0
   const tone = total > 0 ? bandTone[day.standing] : jewelTones.red

@@ -1,5 +1,10 @@
 import type { TimeBlock } from '@/db/schema'
-import { blockEnds, blockOrder, dayMinutes } from '@/features/plan-of-life/timeBlocks'
+import {
+  blockEnds,
+  blockOrder,
+  dayMinutes,
+  getCurrentTimeBlock,
+} from '@/features/plan-of-life/timeBlocks'
 
 export type EntryStatus = 'done' | 'pending' | 'late'
 export type DayStanding = 'done' | 'ontrack' | 'delayed' | 'atrisk'
@@ -74,4 +79,24 @@ export function entriesAround(
   const after = entries.slice(start, start + count)
   const before = entries.slice(Math.max(0, start - (count - after.length)), start)
   return [...before, ...after]
+}
+
+/**
+ * Where in its day the plan of `date` is read: the clock's minute (logical-day
+ * minutes) and part of the day when it is today. The day Today's date scrubber
+ * shows is read at its own hour, not the clock's: a day ahead hasn't begun, so
+ * nothing in it is late, and a day gone by is over, so whatever it left
+ * unprayed is.
+ */
+export function hourOfDay(
+  date: string,
+  today: string,
+  clockMinute: number,
+): { now: number; current: TimeBlock } {
+  if (date > today) return { now: 0, current: 'morning' }
+  if (date < today) return { now: Number.MAX_SAFE_INTEGER, current: 'evening' }
+  return {
+    now: dayMinutes(clockMinute),
+    current: getCurrentTimeBlock(Math.floor(clockMinute / 60)),
+  }
 }

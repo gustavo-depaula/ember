@@ -15,7 +15,7 @@ import {
 } from '@/features/plan-of-life/hooks'
 import { computeAllDayStates, traditionalStart } from '@/features/plan-of-life/program'
 import { parseSchedule } from '@/features/plan-of-life/schedule'
-import { useStableToday } from '@/hooks/useToday'
+import { useToday } from '@/hooks/useToday'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 import { useOfTransfers } from '@/lib/missal/useOfTransfers'
 
@@ -37,7 +37,7 @@ export function useProgramFeast(
   program: ProgramConfig | undefined,
   cardFeast?: CardFeast,
 ) {
-  const today = useStableToday()
+  const today = useToday()
   const last = useProgramDayDates(practiceId, program).at(-1)
   if (!program?.ends || !last) return undefined
   const lastDay = parseISO(last)
@@ -140,7 +140,7 @@ export function EndingStars({
   program: ProgramConfig
   cardFeast?: CardFeast
 }) {
-  const today = useStableToday()
+  const today = useToday()
   const progress = useProgramProgress(practiceId, program, today)
   const dates = useProgramDayDates(practiceId, program)
   const feast = useProgramFeast(practiceId, program, cardFeast)
@@ -223,7 +223,7 @@ export function NextYearSwitch({
   program: ProgramConfig
 }) {
   const { t } = useTranslation()
-  const today = useStableToday()
+  const today = useToday()
   const transfers = useOfTransfers()
   const slot = useSlotsForPractice(practiceId)[0]
   const updateSlot = useUpdateSlot()

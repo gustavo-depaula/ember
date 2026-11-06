@@ -6,7 +6,7 @@ import type { Primitive } from '@/content/primitives'
 import type { RenderedSection } from '@/content/types'
 import { currentRound } from '@/features/plan-of-life/program'
 import { usePracticePageLanguage } from '@/features/practices/language/usePracticeLanguages'
-import { useToday } from '@/hooks/useToday'
+import { useViewedDay } from '@/hooks/useToday'
 import { getPsalmNumbering } from '@/lib/bibleTranslations'
 import { transfersForJurisdiction } from '@/lib/missal/loaders'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -44,7 +44,7 @@ export function usePracticeContent(
   const jurisdiction = usePreferencesStore((s) => s.jurisdiction)
   const numbering = getPsalmNumbering(translation)
 
-  const now = useToday()
+  const now = useViewedDay()
   const todayKey = now.getTime()
   // `now` is the logical day at midnight — hour-mapped selects need the real
   // clock, and keying by it re-resolves the default as the day advances.

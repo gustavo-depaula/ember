@@ -12,7 +12,7 @@ import { loadPracticeData } from '@/content/resolver'
 import { useEventStore } from '@/db/events'
 import { PracticeHeader } from '@/features/practices/components/PracticeHeader'
 import { PracticePlanEditor, usePracticePlan } from '@/features/practices/components/PracticePlan'
-import { markedOnTheDay } from '@/features/saints/acts'
+import { daysKept } from '@/features/saints/acts'
 import { SaintCardTile } from '@/features/saints/components/SaintCardTile'
 import { useSaintsCatalog } from '@/features/saints/data/catalog'
 import { useToday } from '@/hooks/useToday'
@@ -53,7 +53,7 @@ export function RoundsProgram({ manifest }: { manifest: PracticeManifest }) {
   const translation = usePreferencesStore((s) => s.translation)
   const jurisdiction = usePreferencesStore((s) => s.jurisdiction)
   // As one string, so the page redraws only when a day is marked.
-  const kept = useEventStore((s) => [...markedOnTheDay(s, manifest.id)].sort().join(',')).split(',')
+  const kept = useEventStore((s) => [...daysKept(s, manifest.id)].sort().join(',')).split(',')
 
   const program = manifest.program
   const round = program && currentRound(program, today)
