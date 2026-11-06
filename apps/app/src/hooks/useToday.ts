@@ -1,6 +1,6 @@
 import { logicalDay, normalizeDate } from '@ember/liturgical'
 import { parseISO } from 'date-fns'
-import { createContext, useContext, useMemo, useSyncExternalStore } from 'react'
+import { createContext, useCallback, useContext, useMemo, useSyncExternalStore } from 'react'
 import { AppState } from 'react-native'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
@@ -45,6 +45,20 @@ export function useViewedDay(): Date {
   const viewed = useContext(ViewedDayContext)
   const today = useToday()
   return useMemo(() => (viewed ? normalizeDate(parseISO(viewed)) : today), [viewed, today])
+}
+
+/**
+ * A link that opens on the day the screen shows: on another day than today,
+ * `href` carrying it as `dayDate`, which the tab stack provides to the screen
+ * it opens as its viewed day.
+ */
+export function useOnViewedDay() {
+  const viewed = useContext(ViewedDayContext)
+  return useCallback(
+    <T extends { pathname: string; params?: object }>(href: T): T =>
+      viewed ? { ...href, params: { ...href.params, dayDate: viewed } } : href,
+    [viewed],
+  )
 }
 
 // The live logical day, shared by every `useToday` so an app left open rolls

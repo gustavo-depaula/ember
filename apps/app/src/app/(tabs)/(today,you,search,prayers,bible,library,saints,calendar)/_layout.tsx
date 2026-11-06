@@ -6,6 +6,7 @@ import { useTheme } from 'tamagui'
 import { GlassBackdropScope } from '@/components/glassBackdrop'
 import { TabBarInsets } from '@/components/TabBarInsets'
 import { useTabBarOnTop } from '@/components/tabAccessory'
+import { ViewedDayContext } from '@/hooks/useToday'
 import { fullScreenRoutes } from '@/lib/fullScreenRoutes'
 
 // Shared array group: the same route files back every tab, each with its
@@ -43,9 +44,13 @@ export default function TabStackLayout() {
   return (
     <Stack
       screenLayout={({ children, route }) => (
-        <GlassBackdropScope>
-          <TabBarInsets skip={fullScreenRoutes.has(route.name)}>{children}</TabBarInsets>
-        </GlassBackdropScope>
+        // A screen opened for another day than today (`dayDate`, from Today's
+        // scrubber or a missed program day) shows that day.
+        <ViewedDayContext.Provider value={(route.params as { dayDate?: string })?.dayDate}>
+          <GlassBackdropScope>
+            <TabBarInsets skip={fullScreenRoutes.has(route.name)}>{children}</TabBarInsets>
+          </GlassBackdropScope>
+        </ViewedDayContext.Provider>
       )}
       screenOptions={({ route }) => ({
         headerShown: false,

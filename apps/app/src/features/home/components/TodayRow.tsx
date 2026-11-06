@@ -9,6 +9,7 @@ import { ArtCoverCard } from '@/features/explore/ArtCoverCard'
 import { artFor } from '@/features/explore/artMap'
 import { jewelTones, toneForKey } from '@/features/explore/bgColor'
 import { CardRow } from '@/features/explore/CardRow'
+import { useOnViewedDay } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { useObligations } from '@/lib/liturgical'
 import { useMostPrayed } from '../useMostPrayed'
@@ -33,6 +34,7 @@ export function TodayRow({
 }) {
   const { t } = useTranslation()
   const router = useRouter()
+  const onViewedDay = useOnViewedDay()
   const practices = useEventStore((s) => s.practices)
   // The Rosary and the Mass the plan prays, when it has settled on a variant.
   // The plan keys a practice by its bare or its canonical id.
@@ -74,7 +76,7 @@ export function TodayRow({
         cover={{ kind: 'practice', icon: 'book' }}
         tone={jewelTones.marian}
         size={planCardSize}
-        onPress={() => router.push('/bible')}
+        onPress={() => router.push(onViewedDay({ pathname: '/bible' }))}
       />
       {!massFirst && massTile}
       {mostPrayed.map(({ id, entry }) => (
@@ -87,6 +89,7 @@ export function TodayRow({
 /** A practice in the row: its cover, and a tap prays it. */
 function PracticeTile({ id, entry }: { id: string; entry: CatalogEntry }) {
   const router = useRouter()
+  const onViewedDay = useOnViewedDay()
   return (
     <ArtCoverCard
       title={localizeContent(entry.name ?? {})}
@@ -94,7 +97,9 @@ function PracticeTile({ id, entry }: { id: string; entry: CatalogEntry }) {
       cover={coverFor(entry)}
       tone={toneForKey(`practice/${id}`)}
       size={planCardSize}
-      onPress={() => router.push({ pathname: '/pray/[practiceId]', params: { practiceId: id } })}
+      onPress={() =>
+        router.push(onViewedDay({ pathname: '/pray/[practiceId]', params: { practiceId: id } }))
+      }
     />
   )
 }

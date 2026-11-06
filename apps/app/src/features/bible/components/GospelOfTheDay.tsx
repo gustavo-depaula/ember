@@ -9,7 +9,7 @@ import { AnimatedPressable, InlineRetry } from '@/components'
 import { Typography } from '@/components/typography'
 import { blockInk, blockLabelInk, jewelTones } from '@/features/explore/bgColor'
 import { evangelistArtFor } from '@/features/explore/evangelistArt'
-import { useToday } from '@/hooks/useToday'
+import { useViewedDay } from '@/hooks/useToday'
 import { useGospelOfTheDay as useGospelOfTheDayQuery } from '@/lib/missal/use-gospel-of-the-day'
 
 const dayMs = 86_400_000
@@ -18,7 +18,7 @@ const tone = jewelTones.red
 export function GospelOfTheDay() {
   const { t } = useTranslation()
   const router = useRouter()
-  const today = useToday()
+  const today = useViewedDay()
   const { data: gospel, isLoading, isError, refetch } = useGospelOfTheDayQuery()
 
   if (isError) {

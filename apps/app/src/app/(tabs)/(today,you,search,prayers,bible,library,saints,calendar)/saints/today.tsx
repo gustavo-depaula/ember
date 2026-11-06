@@ -7,7 +7,7 @@ import { Typography } from '@/components/typography'
 import { useCelebrationDisplay, useYearCalendar } from '@/features/calendar'
 import { useSaintOfDay } from '@/features/explore'
 import { useSaintOfDayReading } from '@/features/saints'
-import { useToday } from '@/hooks/useToday'
+import { useViewedDay } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { getCelebrationsForDate } from '@/lib/liturgical'
 
@@ -16,7 +16,7 @@ import { getCelebrationsForDate } from '@/lib/liturgical'
 export default function CelebrationOfDayScreen() {
   const { t } = useTranslation()
   const router = useRouter()
-  const today = useToday()
+  const today = useViewedDay()
   const saint = useSaintOfDay()
   const { data: calendar } = useYearCalendar(today.getFullYear())
   const { name, description } = useCelebrationDisplay(saint?.celebration)
