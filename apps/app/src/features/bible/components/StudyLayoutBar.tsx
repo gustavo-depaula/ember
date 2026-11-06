@@ -1,12 +1,13 @@
 import { ChevronDown } from 'lucide-react-native'
 import { useEffect, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
+import { Pressable, StyleSheet } from 'react-native'
 import { useTheme, View, XStack, YStack } from 'tamagui'
 
 import { Typography } from '@/components'
 import { translationsFor } from '@/lib/bibleTranslations'
-import { type GreekLayout, useBibleStore } from '@/stores/bibleStore'
+import type { HebrewMarks } from '@/lib/typography/hebrew'
+import { type StudyLayout, useBibleStore } from '@/stores/bibleStore'
 
 import { TabLine } from './TabLine'
 
@@ -38,21 +39,83 @@ function Toggle({ label, on, onPress }: { label: string; on: boolean; onPress: (
 }
 
 /**
- * How a Greek page is laid out: as text, as an interlinear, or beside another
- * edition; and under it, what the chosen layout adds.
+ * The Hebrew pointing, in three stops on one line: the consonants alone, with
+ * their vowels, with the cantillation. One control rather than two switches,
+ * because each stop includes the one before it.
  */
-export function GreekLayoutBar() {
+function MarksControl({
+  marks,
+  onChoose,
+}: {
+  marks: HebrewMarks
+  onChoose: (marks: HebrewMarks) => void
+}) {
+  const { t } = useTranslation()
+  const levels: HebrewMarks[] = ['letters', 'vowels', 'chant']
+  return (
+    <XStack accessibilityRole="radiogroup" alignItems="flex-start">
+      {levels.map((level, i) => {
+        const on = level === marks
+        return (
+          <Pressable
+            key={level}
+            onPress={() => onChoose(level)}
+            hitSlop={8}
+            accessibilityRole="radio"
+            accessibilityLabel={t('a11y.hebrewMarks', { level: t(`bible.layout.${level}`) })}
+            accessibilityState={{ selected: on }}
+          >
+            <YStack alignItems="center" gap={4} minWidth={72} minHeight={44}>
+              <XStack alignItems="center" height={12} width="100%">
+                {/* The rule runs between the stops, not past the ends. */}
+                <View
+                  flex={1}
+                  height={StyleSheet.hairlineWidth}
+                  backgroundColor={i ? '$colorSecondary' : 'transparent'}
+                />
+                <View
+                  width={9}
+                  height={9}
+                  borderRadius={5}
+                  borderWidth={1}
+                  borderColor={on ? '$colorBurgundy' : '$colorSecondary'}
+                  backgroundColor={on ? '$colorBurgundy' : '$background'}
+                />
+                <View
+                  flex={1}
+                  height={StyleSheet.hairlineWidth}
+                  backgroundColor={i < levels.length - 1 ? '$colorSecondary' : 'transparent'}
+                />
+              </XStack>
+              <Typography fontSize="$2" color={on ? '$color' : '$colorSecondary'}>
+                {t(`bible.layout.${level}`)}
+              </Typography>
+            </YStack>
+          </Pressable>
+        )
+      })}
+    </XStack>
+  )
+}
+
+/**
+ * How a page in Greek or Hebrew is laid out: as text, as an interlinear, or
+ * beside another edition; and under it, what the chosen layout adds. A Hebrew
+ * page also sets how much of its pointing shows. `study` is false while a page
+ * has no word data, and then only the pointing can be chosen.
+ */
+export function StudyLayoutBar({ hebrew, study }: { hebrew: boolean; study: boolean }) {
   const { t, i18n } = useTranslation()
   const theme = useTheme()
-  const stored = useBibleStore((s) => s.greekLayout)
-  const setStored = useBibleStore((s) => s.setGreekLayout)
+  const stored = useBibleStore((s) => s.studyLayout)
+  const setStored = useBibleStore((s) => s.setStudyLayout)
   // The bar answers from its own copy, at once; the page, which may take a
   // good part of a second to set a thousand words again, follows once the
   // bar's frame has painted. A store update renders synchronously, so
   // without the copy the switch would wait on the page.
   const [layout, setLayout] = useState(stored)
   useEffect(() => setLayout(stored), [stored])
-  function choose(change: Partial<GreekLayout>) {
+  function choose(change: Partial<StudyLayout>) {
     setLayout((shown) => ({ ...shown, ...change }))
     requestAnimationFrame(() => setTimeout(() => setStored(change), 0))
   }
@@ -60,22 +123,28 @@ export function GreekLayoutBar() {
   // Beside the Greek, any edition that is not itself Greek.
   const editions = translationsFor(i18n.language).filter((tr) => tr.language !== 'GRC')
   const parallel = editions.find((tr) => tr.code === layout.parallel) ?? editions[0]
-  const modes: GreekLayout['mode'][] = ['text', 'interlinear', 'parallel']
+  const modes: StudyLayout['mode'][] = ['text', 'interlinear', 'parallel']
 
   return (
     <YStack paddingHorizontal="$lg" gap={2}>
-      <TabLine
-        tabs={modes.map((mode) => ({
-          id: mode,
-          label: t(`bible.layout.${mode}`),
-          a11yLabel: t('a11y.readingLayout', { layout: t(`bible.layout.${mode}`) }),
-        }))}
-        selected={layout.mode}
-        onSelect={(mode) => choose({ mode })}
-        bleed
-      />
+      {study ? (
+        <TabLine
+          tabs={modes.map((mode) => ({
+            id: mode,
+            label: t(`bible.layout.${mode}`),
+            a11yLabel: t('a11y.readingLayout', { layout: t(`bible.layout.${mode}`) }),
+          }))}
+          selected={layout.mode}
+          onSelect={(mode) => choose({ mode })}
+          bleed
+        />
+      ) : undefined}
 
-      {layout.mode === 'interlinear' ? (
+      {hebrew ? (
+        <MarksControl marks={layout.marks} onChoose={(marks) => choose({ marks })} />
+      ) : undefined}
+
+      {study && layout.mode === 'interlinear' ? (
         <XStack gap="$lg">
           <Toggle
             label={t('bible.layout.lemma')}
@@ -90,7 +159,7 @@ export function GreekLayoutBar() {
         </XStack>
       ) : undefined}
 
-      {layout.mode === 'parallel' ? (
+      {study && layout.mode === 'parallel' ? (
         <YStack>
           <Pressable
             onPress={() => setChoosing(!choosing)}

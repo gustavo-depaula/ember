@@ -13,26 +13,44 @@ import { defaultCommentarySource, findCommentarySource } from '@/features/bible/
 import { type BiblePlace, recordPlace } from '@/features/bible/recents'
 import { isReferenceKind } from '@/features/bible/references'
 import { type Book, getDrbBooks } from '@/lib/content'
+import type { HebrewMarks } from '@/lib/typography/hebrew'
 
-/** How a Greek edition is laid out on the page. */
-export type GreekLayout = {
+/**
+ * How an edition in the original languages is laid out on the page. One set
+ * for Greek and Hebrew: a reader who studies one studies the other the same way.
+ */
+export type StudyLayout = {
   mode: 'text' | 'interlinear' | 'parallel'
   /** Interlinear lines beside the gloss, which is always there. */
   lemma: boolean
   parsing: boolean
-  /** The edition read beside the Greek in parallel. */
+  /** Hebrew interlinear: each word cut at its joints, each piece over its gloss. */
+  pieces: boolean
+  /** Hebrew interlinear: the transliteration under each word. */
+  sound: boolean
+  /** How much of the Hebrew pointing the page shows. */
+  marks: HebrewMarks
+  /** The edition read beside the original: in Hebrew, the vernacular witness. */
   parallel: string
+  /** Hebrew parallel: the Septuagint and the Vulgate under each verse. */
+  septuagint: boolean
+  vulgate: boolean
   /** Parallel as two columns rather than a translation under each verse. */
   columns: boolean
-  /** The Greek column's share of the width. */
+  /** The original's column's share of the width. */
   split: number
 }
 
-export const defaultGreekLayout: GreekLayout = {
+export const defaultStudyLayout: StudyLayout = {
   mode: 'text',
   lemma: false,
   parsing: false,
+  pieces: false,
+  sound: false,
+  marks: 'vowels',
   parallel: 'DRB',
+  septuagint: true,
+  vulgate: true,
   columns: false,
   split: 0.5,
 }
@@ -46,13 +64,13 @@ type BibleState = {
   places: BiblePlace[]
   /** What was last read beside the text: a commentator's id, or a kind of reference. */
   paneKind: string
-  greekLayout: GreekLayout
+  studyLayout: StudyLayout
   hydrated: boolean
   setPosition: (bookId: string, chapter: number) => void
   /** Counts the open chapter as read: it becomes, or moves, a place. */
   recordReading: (books: Book[]) => void
   setPaneKind: (id: string) => void
-  setGreekLayout: (change: Partial<GreekLayout>) => void
+  setStudyLayout: (change: Partial<StudyLayout>) => void
   hydrate: () => Promise<void>
 }
 
@@ -85,7 +103,7 @@ export const useBibleStore = create<BibleState>()(
     chapter: 1,
     places: [],
     paneKind: defaultCommentarySource,
-    greekLayout: defaultGreekLayout,
+    studyLayout: defaultStudyLayout,
     hydrated: false,
 
     setPosition: (bookId, chapter) => {
@@ -114,11 +132,12 @@ export const useBibleStore = create<BibleState>()(
       setPreference('bible-commentary', id)
     },
 
-    setGreekLayout: (change) => {
-      const next = { ...get().greekLayout, ...change }
+    setStudyLayout: (change) => {
+      const next = { ...get().studyLayout, ...change }
       set((state) => {
-        state.greekLayout = next
+        state.studyLayout = next
       })
+      // Saved under its first name, from when only Greek had a layout.
       setPreference('bible-greek-layout', JSON.stringify(next))
     },
 
@@ -140,7 +159,7 @@ export const useBibleStore = create<BibleState>()(
             : findCommentarySource(commentary).id
         }
         // Over the defaults, so a layout saved before a field existed still reads.
-        if (layout) state.greekLayout = { ...defaultGreekLayout, ...JSON.parse(layout) }
+        if (layout) state.studyLayout = { ...defaultStudyLayout, ...JSON.parse(layout) }
         state.hydrated = true
       })
     },

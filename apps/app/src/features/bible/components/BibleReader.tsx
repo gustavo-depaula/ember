@@ -24,6 +24,7 @@ import {
 import { useBottomClearance } from '@/components/tabAccessory'
 import { editionLanguage, findTranslation } from '@/lib/bibleTranslations'
 import { type Book, servingEdition } from '@/lib/content'
+import { isHebrew, showHebrewMarks } from '@/lib/typography/hebrew'
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
@@ -44,8 +45,8 @@ import { verseTokens } from '../words'
 import { BibleDrawer } from './BibleDrawer'
 import { ChapterContent } from './ChapterContent'
 import { ChapterNav } from './ChapterNav'
-import { GreekLayoutBar } from './GreekLayoutBar'
 import { InterlinearChapter } from './InterlinearChapter'
+import { StudyLayoutBar } from './StudyLayoutBar'
 import { VersePane } from './VersePane'
 import { paneFraction } from './VersePaneContent'
 import { WordStudy } from './WordStudy'
@@ -110,6 +111,15 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
   // The edition the page is read from: the one chosen, the one completing it,
   // or the Douay-Rheims standing in.
   const edition = chapterData?.edition ?? translation
+  const hebrewPage = isHebrew(editionLanguage(edition))
+  const marks = useBibleStore((s) => s.studyLayout.marks)
+  // The verses as the page shows them: a Hebrew page with as much of its
+  // pointing as the reader chose. Word data keys on tokens, which marks never
+  // add or remove, so it reads against either.
+  const pageVerses = useMemo(() => {
+    if (!chapterData || !hebrewPage || marks === 'chant') return chapterData?.verses
+    return chapterData.verses.map((v) => ({ ...v, text: showHebrewMarks(v.text, marks) }))
+  }, [chapterData, hebrewPage, marks])
   const { data: words } = useChapterWords(edition, bookId, chapter)
   const pageWords = words ?? undefined
   const tokensOf = (verse: number) => {
@@ -129,12 +139,12 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
         : undefined,
     [studiedVerse, studiedIndex, studiedLemma],
   )
-  const greekLayout = useBibleStore((s) => s.greekLayout)
-  const setGreekLayout = useBibleStore((s) => s.setGreekLayout)
-  const layout = pageWords ? greekLayout.mode : 'text'
+  const studyLayout = useBibleStore((s) => s.studyLayout)
+  const setStudyLayout = useBibleStore((s) => s.setStudyLayout)
+  const layout = pageWords ? studyLayout.mode : 'text'
   const parallel = useParallelVerses(
     edition,
-    greekLayout.parallel,
+    studyLayout.parallel,
     bookId,
     chapter,
     layout === 'parallel',
@@ -287,25 +297,25 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
     if (y !== undefined) reveal(y)
   }, [])
 
-  const onSplit = useCallback((split: number) => setGreekLayout({ split }), [setGreekLayout])
+  const onSplit = useCallback((split: number) => setStudyLayout({ split }), [setStudyLayout])
   // Stable, so the page's verses are set again only when what they show changes.
   const pageStudy = useMemo(
     () => (pageWords ? { words: pageWords, studied, onWordPress, onWordLongPress } : undefined),
     [pageWords, studied, onWordPress, onWordLongPress],
   )
-  const besideLanguage = editionLanguage(greekLayout.parallel)
+  const besideLanguage = editionLanguage(studyLayout.parallel)
   const beside = useMemo(
     () =>
       layout === 'parallel' && parallel.data
         ? {
             texts: parallel.data,
             language: besideLanguage,
-            columns: greekLayout.columns,
-            split: greekLayout.split,
+            columns: studyLayout.columns,
+            split: studyLayout.split,
             onSplit,
           }
         : undefined,
-    [layout, parallel.data, besideLanguage, greekLayout.columns, greekLayout.split, onSplit],
+    [layout, parallel.data, besideLanguage, studyLayout.columns, studyLayout.split, onSplit],
   )
   const completedBy =
     !chapterData || chapterData.edition === translation || chapterData.fallback
@@ -468,17 +478,19 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
     if (!chapterData) return undefined
     return (
       <>
-        {pageWords ? <GreekLayoutBar /> : undefined}
+        {pageWords || hebrewPage ? (
+          <StudyLayoutBar hebrew={hebrewPage} study={pageWords !== undefined} />
+        ) : undefined}
         {layout === 'interlinear' && pageWords ? (
           <InterlinearChapter
             bookName={bookName}
             chapter={chapter}
             fallback={chapterData.fallback}
             completedBy={completedBy}
-            verses={chapterData.verses}
+            verses={pageVerses ?? chapterData.verses}
             words={pageWords}
-            lemma={greekLayout.lemma}
-            parsing={greekLayout.parsing}
+            lemma={studyLayout.lemma}
+            parsing={studyLayout.parsing}
             studied={studied}
             markedVerse={commentedVerse}
             onWordPress={onWordPress}
@@ -495,7 +507,7 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
             <ChapterContent
               bookName={bookName}
               chapter={chapter}
-              verses={chapterData.verses}
+              verses={pageVerses ?? chapterData.verses}
               language={editionLanguage(chapterData.edition)}
               fallback={chapterData.fallback}
               study={pageStudy}
