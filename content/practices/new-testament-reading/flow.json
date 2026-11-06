@@ -3,8 +3,8 @@
 		{
 			"type": "rubric",
 			"text": {
-				"en-US": "A few minutes of the New Testament, taken in order. Read the passage once for what it says; then read it again from inside — you are one more of the people standing there.",
-				"pt-BR": "Alguns minutos do Novo Testamento, por ordem. Leia a passagem uma vez pelo que ela diz; depois leia-a de novo por dentro — você é mais uma das pessoas ali presentes."
+				"en-US": "A few minutes of the New Testament. Open it where you left off and read a short passage once for what it says; then read it again from inside — you are one more of the people standing there.",
+				"pt-BR": "Alguns minutos do Novo Testamento. Abra-o onde parou e leia uma passagem breve uma vez pelo que ela diz; depois leia-a de novo por dentro — você é mais uma das pessoas ali presentes."
 			}
 		},
 		{
@@ -16,13 +16,6 @@
 			}
 		},
 		{"type": "chant", "ref": "chant/loquere-domine"},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "lectio",
-			"track": "nt-reading"
-		},
 		{
 			"type": "divider"
 		},
