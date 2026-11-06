@@ -4,9 +4,7 @@ import { useTheme } from 'tamagui'
 
 import type { StyledSegment } from '@/lib/typography/justifyText'
 
-import { verseTokens, type WordEntry } from '../words'
-
-/** The word on the study sheet: its verse, its place in the verse, and its lemma. */
+/** The word on the study sheet: its verse, its slot in the verse, and what it is studied by (its lemma). */
 export type StudiedWord = { verse: number; index: number; lemma: string }
 
 /** Resolved styles (see `StyledSegment.render`): the studied word, and the page's other forms of its lemma. */
@@ -42,45 +40,52 @@ export function useWordLooks(): WordLooks {
 }
 
 /**
- * A Greek verse as one segment per word, each its own tap target: a tap
- * studies the word, a hold opens the verse. The gaps between words are
- * segments of their own and unpressable: a gap belongs to the line.
+ * A verse as one segment per word, each its own tap target: a tap studies the
+ * word, a hold opens the verse. `slots` are the verse's word slots as its
+ * edition cuts them, `keys` what each is studied by — a Greek lemma, a Hebrew
+ * word's Strong's number — and undefined for a slot with nothing to study (a
+ * paseq). The gaps between words are segments of their own and unpressable: a
+ * gap belongs to the line. A Hebrew word joined by maqaf has no gap after it.
  */
-export function greekSegments({
+export function wordSegments({
   verse,
-  text,
-  words,
+  slots,
+  keys,
   studied,
   looks,
   onPress,
   onLongPress,
 }: {
   verse: number
-  text: string
-  words: WordEntry[]
+  slots: string[]
+  keys: (string | undefined)[]
   studied: StudiedWord | undefined
   looks: WordLooks
   onPress: (verse: number, index: number) => void
   onLongPress: (verse: number) => void
 }): StyledSegment[] {
   const hold = () => onLongPress(verse)
-  return verseTokens(text).flatMap((token, index): StyledSegment[] => {
-    const lemma = words[index]?.[0]
+  return slots.flatMap((slot, index): StyledSegment[] => {
+    const key = keys[index]
     const isStudied = studied?.verse === verse && studied.index === index
     const render = (() => {
       if (isStudied) return looks.studied
-      if (studied && lemma === studied.lemma) return looks.kin
+      if (studied && key !== undefined && key === studied.lemma) return looks.kin
       return undefined
     })()
-    const word: StyledSegment = {
-      text: token,
-      style: 'regular',
-      render,
-      onPress: () => onPress(verse, index),
-      onLongPress: hold,
-    }
+    const word: StyledSegment =
+      key === undefined
+        ? { text: slot, style: 'regular' }
+        : {
+            text: slot,
+            style: 'regular',
+            render,
+            onPress: () => onPress(verse, index),
+            onLongPress: hold,
+          }
     // The space before a word is a segment of its own, so the studied word's
     // wash and its kin's underline start at the word and not at the gap.
-    return index === 0 ? [word] : [{ text: ' ', style: 'regular' }, word]
+    if (index === 0 || slots[index - 1].endsWith('\u05be')) return [word]
+    return [{ text: ' ', style: 'regular' }, word]
   })
 }

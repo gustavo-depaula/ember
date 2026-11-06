@@ -27,24 +27,29 @@ import { type Book, servingEdition } from '@/lib/content'
 import { isHebrew, showHebrewMarks } from '@/lib/typography/hebrew'
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
-
 import { spanForVerse } from '../commentary'
+import { describeHebrew } from '../hebrew/morphology'
+import { type HebrewWord, hebrewTokens, isStudiable, mainPiece } from '../hebrew/words'
 import {
   useBooks,
   useChapter,
   useChapterCommentary,
   useChapterWords,
+  useHebrewChapterWords,
+  useHebrewMorphology,
   useParallelVerses,
   usePrefetchAdjacentChapters,
   useVersePane,
   useVersification,
 } from '../hooks'
+import { describeParsing, parseRobinson } from '../morphology'
 import { isReferenceKind } from '../references'
 import { getVersification, getVersificationAt, whereChapterWent } from '../versification'
-import { verseTokens } from '../words'
+import { isUnchecked, verseTokens } from '../words'
 import { BibleDrawer } from './BibleDrawer'
 import { ChapterContent } from './ChapterContent'
 import { ChapterNav } from './ChapterNav'
+import { HebrewWordStudy } from './HebrewWordStudy'
 import { InterlinearChapter } from './InterlinearChapter'
 import { StudyLayoutBar } from './StudyLayoutBar'
 import { VersePane } from './VersePane'
@@ -61,6 +66,13 @@ const readingDwellMs = 20_000
 const verseRestOffset = 72
 
 type Place = { bookId: string; chapter: number; verse: number }
+
+/** A Hebrew slot's study key: its word's own piece, the word before for a joined slot, nothing for punctuation. */
+function hebrewKey(list: HebrewWord[], i: number): string | undefined {
+  const word = list[i]
+  if (word?.j) return i > 0 ? hebrewKey(list, i - 1) : undefined
+  return isStudiable(word) ? mainPiece(word)?.[0] : undefined
+}
 
 export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?: boolean }) {
   const { t } = useTranslation()
@@ -121,13 +133,34 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
     return chapterData.verses.map((v) => ({ ...v, text: showHebrewMarks(v.text, marks) }))
   }, [chapterData, hebrewPage, marks])
   const { data: words } = useChapterWords(edition, bookId, chapter)
-  const pageWords = words ?? undefined
+  const greekWords = words ?? undefined
+  const { data: hebrewWords } = useHebrewChapterWords(edition, bookId, chapter, hebrewPage)
+  const { data: hebrewMorphology } = useHebrewMorphology(edition, hebrewPage)
+  const tokenize = hebrewPage ? hebrewTokens : verseTokens
   const tokensOf = (verse: number) => {
     const found = chapterData?.verses.find((v) => v.verse === verse)
-    return found ? verseTokens(found.text) : []
+    return found ? tokenize(found.text) : []
   }
-  const studiedEntry = study && pageWords?.[study.verse]?.[study.index]
-  const studiedLemma = study && studiedEntry ? studiedEntry[0] : undefined
+  // What each word slot is studied by: a Greek lemma, a Hebrew word's
+  // Strong's number; undefined for a slot with nothing to study (a paseq). A
+  // Hebrew slot joined to the word before it is studied as that word.
+  const pageKeys = useMemo(() => {
+    const byVerse = <T,>(
+      all: Record<number, T[]>,
+      key: (list: T[], i: number) => string | undefined,
+    ) =>
+      Object.fromEntries(
+        Object.entries(all).map(([verse, list]) => [
+          Number(verse),
+          list.map((_, i) => key(list, i)),
+        ]),
+      ) as Record<number, (string | undefined)[]>
+    if (hebrewWords) return byVerse(hebrewWords, hebrewKey)
+    if (greekWords) return byVerse(greekWords, (list, i) => list[i][0] || undefined)
+    return undefined
+  }, [greekWords, hebrewWords])
+  const studiedEntry = study && greekWords?.[study.verse]?.[study.index]
+  const studiedLemma = study ? pageKeys?.[study.verse]?.[study.index] : undefined
   // Memoised on its fields: every verse holding the lemma is justified again
   // when this changes identity.
   const studiedVerse = study?.verse
@@ -141,7 +174,7 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
   )
   const studyLayout = useBibleStore((s) => s.studyLayout)
   const setStudyLayout = useBibleStore((s) => s.setStudyLayout)
-  const layout = pageWords ? studyLayout.mode : 'text'
+  const layout = pageKeys ? studyLayout.mode : 'text'
   const parallel = useParallelVerses(
     edition,
     studyLayout.parallel,
@@ -158,10 +191,10 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
       ? undefined
       : versification.toShared({ bookId, chapter, verse: commentedVerse })
   const unmatched = commentedVerse !== undefined && versification !== undefined && !shared
-  const commentedWords = commentedVerse === undefined ? undefined : pageWords?.[commentedVerse]
+  const commentedKeys = commentedVerse === undefined ? undefined : pageKeys?.[commentedVerse]
   const commentary = useChapterCommentary(bookId, shared?.chapter ?? chapter, shared !== undefined)
   const pane = useVersePane(bookId, shared?.chapter ?? chapter, shared?.verse, commentary, {
-    hasWords: commentedWords !== undefined,
+    hasWords: commentedKeys !== undefined,
     unmatched,
   })
   const closeCommentary = useCallback(() => {
@@ -300,8 +333,9 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
   const onSplit = useCallback((split: number) => setStudyLayout({ split }), [setStudyLayout])
   // Stable, so the page's verses are set again only when what they show changes.
   const pageStudy = useMemo(
-    () => (pageWords ? { words: pageWords, studied, onWordPress, onWordLongPress } : undefined),
-    [pageWords, studied, onWordPress, onWordLongPress],
+    () =>
+      pageKeys ? { keys: pageKeys, tokenize, studied, onWordPress, onWordLongPress } : undefined,
+    [pageKeys, tokenize, studied, onWordPress, onWordLongPress],
   )
   const besideLanguage = editionLanguage(studyLayout.parallel)
   const beside = useMemo(
@@ -346,19 +380,75 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
       }
     : undefined
 
-  /** ‹ › walk the chapter word by word, across verses. */
+  /** ‹ › walk the chapter word by word, across verses, past what has nothing to study. */
   function stepWord(direction: -1 | 1) {
     if (!study || !chapterData) return
     const verses = chapterData.verses.map((v) => v.verse)
-    const at = verses.indexOf(study.verse)
-    const index = study.index + direction
-    if (index >= 0 && index < tokensOf(study.verse).length) {
-      setStudy({ ...study, index })
-      return
+    let { verse, index } = study
+    for (;;) {
+      index += direction
+      if (index < 0 || index >= tokensOf(verse).length) {
+        const next = verses[verses.indexOf(verse) + direction]
+        if (next === undefined) return
+        verse = next
+        index = direction === 1 ? 0 : tokensOf(verse).length - 1
+      }
+      const key = pageKeys?.[verse]?.[index]
+      // A Hebrew slot joined to the one before is that word again.
+      if (key !== undefined && !hebrewWords?.[verse]?.[index]?.j) break
     }
-    const verse = verses[at + direction]
-    if (verse === undefined) return
-    setStudy({ ...study, verse, index: direction === 1 ? 0 : tokensOf(verse).length - 1 })
+    setStudy({ ...study, verse, index })
+  }
+
+  // The studied Hebrew word, from the slot tapped or the word it is joined to.
+  const hebrewStudied = (() => {
+    if (!study || !hebrewWords) return undefined
+    const list = hebrewWords[study.verse] ?? []
+    const index = list[study.index]?.j ? study.index - 1 : study.index
+    const word = list[index]
+    return isStudiable(word) ? { index, word } : undefined
+  })()
+  // The verse with all its marks, whatever the page shows: accents are read from them.
+  const chantTokensOf = (verse: number) => {
+    const found = chapterData?.verses.find((v) => v.verse === verse)
+    return found ? hebrewTokens(found.text) : []
+  }
+
+  /** The verse pane's list of words: each word, its headword and gloss, its grammar in plain words. */
+  function verseWordRows(verse: number) {
+    const slots = tokensOf(verse)
+    if (hebrewWords) {
+      const list = hebrewWords[verse] ?? []
+      return slots.map((token, i) => {
+        const word = list[i]
+        const piece = isStudiable(word) ? mainPiece(word) : undefined
+        const fields = piece && hebrewMorphology?.[piece[2]]
+        return {
+          token,
+          head:
+            word?.p
+              .map(([, gloss]) => gloss)
+              .filter(Boolean)
+              .join(' · ') ?? '',
+          grammar: fields ? describeHebrew(fields, t).join(' · ') : undefined,
+          studiable: piece !== undefined,
+        }
+      })
+    }
+    const entries = greekWords?.[verse] ?? []
+    return slots.map((token, i) => {
+      const entry = entries[i]
+      const [lemma, morph, gloss] = entry ?? []
+      const parsing = morph ? parseRobinson(morph) : undefined
+      return {
+        token,
+        head: [lemma, gloss && `“${gloss}”`].filter(Boolean).join('  '),
+        grammar: parsing
+          ? `${describeParsing(parsing, t)}${isUnchecked(entry) ? ` · ${t('bible.study.uncheckedShort')}` : ''}`
+          : undefined,
+        studiable: entry !== undefined,
+      }
+    })
   }
 
   const currentBook = books.find((b) => b.id === bookId)
@@ -478,17 +568,17 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
     if (!chapterData) return undefined
     return (
       <>
-        {pageWords || hebrewPage ? (
-          <StudyLayoutBar hebrew={hebrewPage} study={pageWords !== undefined} />
+        {pageKeys || hebrewPage ? (
+          <StudyLayoutBar hebrew={hebrewPage} study={pageKeys !== undefined} />
         ) : undefined}
-        {layout === 'interlinear' && pageWords ? (
+        {layout === 'interlinear' && greekWords ? (
           <InterlinearChapter
             bookName={bookName}
             chapter={chapter}
             fallback={chapterData.fallback}
             completedBy={completedBy}
             verses={pageVerses ?? chapterData.verses}
-            words={pageWords}
+            words={greekWords}
             lemma={studyLayout.lemma}
             parsing={studyLayout.parsing}
             studied={studied}
@@ -589,15 +679,19 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
               chapter={shared?.chapter ?? chapter}
               verse={paneVerse}
               renderStudy={
-                study && studiedEntry
+                study && hebrewStudied
                   ? (bottomPadding) => (
-                      <WordStudy
+                      <HebrewWordStudy
+                        // A new word starts its sheet afresh: its pieces, its tab.
+                        key={`${study.verse}:${hebrewStudied.index}`}
                         edition={edition}
                         bookName={bookName}
+                        bookId={bookId}
                         chapter={chapter}
                         verse={study.verse}
-                        token={tokensOf(study.verse)[study.index] ?? ''}
-                        entry={studiedEntry}
+                        slots={chantTokensOf(study.verse)}
+                        index={hebrewStudied.index}
+                        word={hebrewStudied.word}
                         backTo={
                           study.fromPane ? `${bookName} ${chapter}:${study.verse}` : undefined
                         }
@@ -611,13 +705,34 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
                         }}
                       />
                     )
-                  : undefined
+                  : study && studiedEntry
+                    ? (bottomPadding) => (
+                        <WordStudy
+                          edition={edition}
+                          bookName={bookName}
+                          chapter={chapter}
+                          verse={study.verse}
+                          token={tokensOf(study.verse)[study.index] ?? ''}
+                          entry={studiedEntry}
+                          backTo={
+                            study.fromPane ? `${bookName} ${chapter}:${study.verse}` : undefined
+                          }
+                          bottomPadding={bottomPadding}
+                          onStep={stepWord}
+                          onBack={() => setStudy(undefined)}
+                          onClose={closeCommentary}
+                          onOpenPlace={(toBook, toChapter, verse) => {
+                            leaveTrail()
+                            turnTo({ bookId: toBook, chapter: toChapter, verse })
+                          }}
+                        />
+                      )
+                    : undefined
               }
               verseWords={
-                commentedVerse !== undefined && commentedWords
+                commentedVerse !== undefined && commentedKeys
                   ? {
-                      tokens: tokensOf(commentedVerse),
-                      entries: commentedWords,
+                      rows: verseWordRows(commentedVerse),
                       onStudy: (index) =>
                         setStudy({ verse: commentedVerse, index, fromPane: true }),
                     }

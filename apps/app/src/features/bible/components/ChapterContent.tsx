@@ -9,9 +9,8 @@ import { useReadingStyle } from '@/hooks/useReadingStyle'
 import type { Verse } from '@/lib/content'
 import type { StyledSegment } from '@/lib/typography/justifyText'
 
-import type { WordEntry } from '../words'
 import { ChapterFrame } from './ChapterFrame'
-import { greekSegments, type StudiedWord, useWordLooks, type WordLooks } from './greekWords'
+import { type StudiedWord, useWordLooks, type WordLooks, wordSegments } from './pageWords'
 
 // The verse marker: same face as the text, set small and muted. It is a run of
 // its own rather than a reason to skip justification — justif prices each run
@@ -32,7 +31,8 @@ const VerseLine = memo(function VerseLine({
   verse,
   numberSizePx,
   numberRender,
-  words,
+  keys,
+  tokenize,
   studied,
   looks,
   onWordPress,
@@ -42,8 +42,10 @@ const VerseLine = memo(function VerseLine({
   numberSizePx: number
   /** Resolved style for the marker — see `numberRender` in the parent. */
   numberRender: TextStyle
-  /** The verse's words, on a Greek page: each becomes its own tap target. */
-  words?: WordEntry[]
+  /** What each of the verse's word slots is studied by, on a page with word data: each becomes its own tap target. */
+  keys?: (string | undefined)[]
+  /** The edition's cut of a verse into word slots. */
+  tokenize?: (text: string) => string[]
   /** The word studied, where it or its lemma stands in this verse. */
   studied?: StudiedWord
   looks: WordLooks
@@ -58,23 +60,33 @@ const VerseLine = memo(function VerseLine({
       render: numberRender,
       atomic: true,
     }
-    if (!words || !onWordPress || !onWordLongPress) {
+    if (!keys || !tokenize || !onWordPress || !onWordLongPress) {
       return [number, { text: `  ${verse.text}`, style: 'regular' }]
     }
     return [
       number,
       { text: '  ', style: 'regular' },
-      ...greekSegments({
+      ...wordSegments({
         verse: verse.verse,
-        text: verse.text,
-        words,
+        slots: tokenize(verse.text),
+        keys,
         studied,
         looks,
         onPress: onWordPress,
         onLongPress: onWordLongPress,
       }),
     ]
-  }, [verse, numberSizePx, numberRender, words, studied, looks, onWordPress, onWordLongPress])
+  }, [
+    verse,
+    numberSizePx,
+    numberRender,
+    keys,
+    tokenize,
+    studied,
+    looks,
+    onWordPress,
+    onWordLongPress,
+  ])
 
   return <ReadingParagraph source={source} />
 })
@@ -100,10 +112,11 @@ const BesideLine = memo(function BesideLine({
   )
 })
 
-/** What makes a Greek page's words studiable. */
+/** What makes a page's words studiable, in Greek or Hebrew. */
 export type WordStudyProps = {
-  /** Each verse's words: with these, every word is a tap target. */
-  words: Record<number, WordEntry[]>
+  /** Each verse's slots' keys (see `wordSegments`): with these, every word is a tap target. */
+  keys: Record<number, (string | undefined)[]>
+  tokenize: (text: string) => string[]
   studied: StudiedWord | undefined
   onWordPress: (verse: number, index: number) => void
   onWordLongPress: (verse: number) => void
@@ -177,11 +190,11 @@ export function ChapterContent({
   const studied = study?.studied
   const lines = verses.map((v) => {
     const inPassage = marked !== undefined && marked.from <= v.verse && v.verse <= marked.to
-    const words = study?.words[v.verse]
+    const keys = study?.keys[v.verse]
     // Only this verse's own marks: another verse's word being studied leaves
     // this one's segments (and so its line breaks) untouched.
     const marks =
-      studied && (studied.verse === v.verse || words?.some(([lemma]) => lemma === studied.lemma))
+      studied && (studied.verse === v.verse || keys?.some((key) => key === studied.lemma))
         ? studied
         : undefined
     const verseLine = (
@@ -189,7 +202,8 @@ export function ChapterContent({
         verse={v}
         numberSizePx={numberSizePx}
         numberRender={marked?.verse === v.verse ? markedNumberRender : numberRender}
-        words={words}
+        keys={keys}
+        tokenize={study?.tokenize}
         studied={marks}
         looks={looks}
         onWordPress={study?.onWordPress}

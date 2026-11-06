@@ -139,6 +139,7 @@ export const translations: Translation[] = [
       'The Hebrew Bible as the Leningrad Codex (1008) gives it, the oldest complete manuscript, with its vowels and cantillation.',
     numbering: 'mt',
     corpus: 'hebrew-wlc',
+    versification: true,
     completes: 'LXX',
   },
 ]

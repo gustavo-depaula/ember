@@ -47,7 +47,11 @@ export type VersePaneProps = {
   /** A word being studied: the frame shows its study in place of the verse's kinds. */
   renderStudy?: (bottomPadding: number) => ReactNode
   /** A Greek verse's words, listed on a page of their own; a row opens its study. */
-  verseWords?: { tokens: string[]; entries: WordEntry[]; onStudy: (index: number) => void }
+  /** The verse word by word, each row as the page's language describes it. */
+  verseWords?: {
+    rows: { token: string; head: string; grammar?: string; studiable: boolean }[]
+    onStudy: (index: number) => void
+  }
   commentary: ReturnType<typeof useChapterCommentary>
   pane: VersePaneState
   /** Where it opens, and how far it may be drawn up, where it is drawn by hand. */
@@ -304,40 +308,34 @@ export function PaneKinds({
 }
 
 /** A Greek verse word by word: each word, its lemma, gloss and parsing; a row opens the word's study. */
-function VerseWords({ tokens, entries, onStudy }: NonNullable<VersePaneProps['verseWords']>) {
+function VerseWords({ rows, onStudy }: NonNullable<VersePaneProps['verseWords']>) {
   const { t } = useTranslation()
   return (
     <YStack gap="$sm">
-      {tokens.map((token, i) => {
-        const [lemma, morph, gloss] = entries[i] ?? []
-        const parsing = morph ? parseRobinson(morph) : undefined
-        return (
-          <Pressable
-            // biome-ignore lint/suspicious/noArrayIndexKey: a verse's words are positional
-            key={i}
-            onPress={() => onStudy(i)}
-            accessibilityRole="button"
-            accessibilityLabel={t('a11y.studyWord', { word: token })}
-          >
-            <XStack gap="$md" alignItems="baseline" minHeight={36}>
-              <Typography fontSize="$4" minWidth={96}>
-                {token}
-              </Typography>
-              <YStack flex={1}>
-                <Typography fontSize="$3">
-                  {[lemma, gloss && `“${gloss}”`].filter(Boolean).join('  ')}
+      {rows.map(({ token, head, grammar, studiable }, i) => (
+        <Pressable
+          // biome-ignore lint/suspicious/noArrayIndexKey: a verse's words are positional
+          key={i}
+          onPress={studiable ? () => onStudy(i) : undefined}
+          disabled={!studiable}
+          accessibilityRole="button"
+          accessibilityLabel={t('a11y.studyWord', { word: token })}
+        >
+          <XStack gap="$md" alignItems="baseline" minHeight={36}>
+            <Typography fontSize="$4" minWidth={96}>
+              {token}
+            </Typography>
+            <YStack flex={1}>
+              <Typography fontSize="$3">{head}</Typography>
+              {grammar ? (
+                <Typography variant="annotation" fontSize="$1">
+                  {grammar}
                 </Typography>
-                {parsing ? (
-                  <Typography variant="annotation" fontSize="$1">
-                    {describeParsing(parsing, t)}
-                    {isUnchecked(entries[i]) ? ` · ${t('bible.study.uncheckedShort')}` : ''}
-                  </Typography>
-                ) : undefined}
-              </YStack>
-            </XStack>
-          </Pressable>
-        )
-      })}
+              ) : undefined}
+            </YStack>
+          </XStack>
+        </Pressable>
+      ))}
     </YStack>
   )
 }

@@ -3,7 +3,7 @@ import { useEffect, useRef } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useShallow } from 'zustand/react/shallow'
 
-import { translations } from '@/lib/bibleTranslations'
+import { findTranslation, translations } from '@/lib/bibleTranslations'
 import { type Book, getBooks, getChapter } from '@/lib/content'
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -18,6 +18,15 @@ import {
   loadVoices,
   sourcesForBook,
 } from './commentary'
+import { getAccentTable } from './hebrew/accents'
+import {
+  getHebrewChapterWords,
+  getHebrewMorphology,
+  getHebrewOccurrences,
+  getHebrewParagraphs,
+  getRootFamily,
+  lookUpHebrew,
+} from './hebrew/words'
 import {
   getChapterReadings,
   getSummaArticles,
@@ -411,5 +420,78 @@ export function useParallelVerses(
         }),
       ) as Record<number, string>
     },
+  })
+}
+
+/** A Hebrew chapter's words, when `enabled` (the page is Hebrew); else nothing is read. */
+export function useHebrewChapterWords(
+  edition: string,
+  bookId: string,
+  chapter: number,
+  enabled: boolean,
+) {
+  const corpus = findTranslation(edition)?.corpus
+  return useQuery({
+    queryKey: ['bible', 'hebrew-words', edition, bookId, chapter],
+    queryFn: () => getHebrewChapterWords(corpus as string, bookId, chapter),
+    enabled: enabled && corpus !== undefined,
+    staleTime: Number.POSITIVE_INFINITY,
+  })
+}
+
+/** What each Hebrew grammar code means (TEHMC). */
+export function useHebrewMorphology(edition: string, enabled: boolean) {
+  const corpus = findTranslation(edition)?.corpus
+  return useQuery({
+    queryKey: ['bible', 'hebrew-morphology', corpus],
+    queryFn: () => getHebrewMorphology(corpus as string),
+    enabled: enabled && corpus !== undefined,
+    staleTime: Number.POSITIVE_INFINITY,
+  })
+}
+
+export function useHebrewParagraphs(edition: string, bookId: string, enabled: boolean) {
+  const corpus = findTranslation(edition)?.corpus
+  return useQuery({
+    queryKey: ['bible', 'hebrew-paragraphs', corpus, bookId],
+    queryFn: () => getHebrewParagraphs(corpus as string, bookId),
+    enabled: enabled && corpus !== undefined,
+    staleTime: Number.POSITIVE_INFINITY,
+  })
+}
+
+export function useAccentTable(edition: string, enabled: boolean) {
+  const corpus = findTranslation(edition)?.corpus
+  return useQuery({
+    queryKey: ['bible', 'hebrew-accents', corpus],
+    queryFn: () => getAccentTable(corpus as string),
+    enabled: enabled && corpus !== undefined,
+    staleTime: Number.POSITIVE_INFINITY,
+  })
+}
+
+export function useHebrewOccurrences(edition: string, dStrong: string) {
+  const corpus = findTranslation(edition)?.corpus
+  return useQuery({
+    queryKey: ['bible', 'hebrew-occurrences', corpus, dStrong],
+    queryFn: () => getHebrewOccurrences(corpus as string, dStrong),
+    enabled: corpus !== undefined,
+    staleTime: Number.POSITIVE_INFINITY,
+  })
+}
+
+export function useHebrewLexicon(source: string, dStrong: string) {
+  return useQuery({
+    queryKey: ['bible', 'hebrew-lexicon', source, dStrong],
+    queryFn: async () => (await lookUpHebrew(source, dStrong)) ?? null,
+    staleTime: Number.POSITIVE_INFINITY,
+  })
+}
+
+export function useRootFamily(dStrong: string) {
+  return useQuery({
+    queryKey: ['bible', 'hebrew-root', dStrong],
+    queryFn: async () => (await getRootFamily(dStrong)) ?? null,
+    staleTime: Number.POSITIVE_INFINITY,
   })
 }

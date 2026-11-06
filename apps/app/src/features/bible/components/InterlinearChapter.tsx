@@ -8,7 +8,7 @@ import type { Verse } from '@/lib/content'
 
 import { isUnchecked, verseTokens, type WordEntry } from '../words'
 import { ChapterFrame } from './ChapterFrame'
-import type { StudiedWord } from './greekWords'
+import type { StudiedWord } from './pageWords'
 
 /** Every style a word's stack is drawn with, resolved once per page look. */
 type Looks = {
