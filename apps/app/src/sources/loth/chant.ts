@@ -7,6 +7,7 @@
 
 import type { ChantPrimitive, ContainerOption, Primitive } from '@/content/primitives'
 import { loadChant } from '@/features/chant/chants'
+import { type PsalmTone, pointPsalm, toneOf } from '@/features/chant/psalmody'
 
 /** The chant ids paired with a text, by its opening words as the breviary prints them. */
 export type ChantPairs = Record<string, string | string[]>
@@ -29,7 +30,15 @@ function fold(text: string): string {
 
 type Pairing = { key: string; ids: string[] }
 
-const textOf = (p: Primitive) => (p.type === 'text' ? p.text.primary : undefined)
+// An antiphon is a versicle block marked `Ant.`, `Ant. 1`.
+const isAntiphon = (p: Primitive) =>
+  p.type === 'verses' && p.items.length > 0 && /^Ant\b/.test(p.items[0].mark ?? '')
+
+function textOf(p: Primitive): string | undefined {
+  if (p.type === 'text') return p.text.primary
+  if (isAntiphon(p) && p.type === 'verses') return p.items[0].text.primary
+  return undefined
+}
 
 function pairingOf(p: Primitive, pairings: Pairing[]): Pairing | undefined {
   const text = textOf(p)
@@ -38,10 +47,36 @@ function pairingOf(p: Primitive, pairings: Pairing[]): Pairing | undefined {
   return pairings.find(({ key }) => folded.startsWith(key))
 }
 
+// A psalm's verses as the breviary prints them: each opens on `–` or, where it
+// bends at a flex, on `=`, and its number is set in the text as `/:5:/`.
+const opensVerse = /^\s*[–=]/
+
+/** The verses of a psalm's stanzas, each its words with the `*` and `†` it is pointed by. */
+function versesOf(stanzas: Primitive[]): string[] {
+  const verses: string[] = []
+  for (const p of stanzas) {
+    if (p.type !== 'text' || p.layout !== 'verse') continue
+    for (const line of p.text.primary.split('\n')) {
+      const words = line
+        .replace(/\/:[^:]*:\//g, ' ')
+        .replace(/^\s*[–=]\s*/, '')
+        .replace(/\s+[–-]\s*$/, '')
+        .replace(/[“”"]/g, '')
+        .trim()
+      if (!words) continue
+      if (opensVerse.test(line) || verses.length === 0) verses.push(words)
+      else verses[verses.length - 1] += ` ${words}`
+    }
+  }
+  return verses
+}
+
 /**
  * The primitives with every paired text sung: the text, the stanzas and
  * rubrics that run on from it, and the heading or rubric just above it, which
- * the block keeps as its title.
+ * the block keeps as its title. A psalm after a sung antiphon is sung too, in
+ * Portuguese, on the tone the antiphon's ending gives it, as in the Office the
+ * antiphon gives its psalm its tone.
  */
 function sing(
   list: Primitive[],
@@ -51,6 +86,8 @@ function sing(
   const out: Primitive[] = []
   const inOptions = (options: ContainerOption[]) =>
     options.map((option) => ({ ...option, children: sing(option.children, pairings, chants) }))
+  // The tone of the last sung antiphon, which its psalm takes.
+  let tone: PsalmTone | undefined
   for (let i = 0; i < list.length; i++) {
     const p = list[i]
     if (p.type === 'container') {
@@ -65,8 +102,49 @@ function sing(
       } as Primitive)
       continue
     }
+    if (p.type === 'heading') tone = undefined
     const pairing = pairingOf(p, pairings)
     const found = pairing?.ids.flatMap((id) => chants.get(id) ?? [])
+
+    if (found?.length && isAntiphon(p)) {
+      const [antiphon] = found
+      tone = toneOf(antiphon.mode, antiphon.score) ?? tone
+      out.push({ type: 'sung', text: [p], chants: found })
+      continue
+    }
+
+    // The psalm the antiphon before it governs: its title, its note and its
+    // stanzas, up to the antiphon said again after it.
+    if (tone && p.type === 'rubric' && psalmTitle.test(p.text.primary)) {
+      const text: Primitive[] = [p]
+      while (
+        i + 1 < list.length &&
+        (list[i + 1].type === 'text' || list[i + 1].type === 'rubric') &&
+        !pairingOf(list[i + 1], pairings)
+      ) {
+        text.push(list[++i])
+      }
+      const verses = versesOf(text)
+      if (verses.length === 0) {
+        out.push(...text)
+        continue
+      }
+      out.push({
+        type: 'sung',
+        text,
+        chants: [
+          {
+            type: 'chant',
+            name: p.text.primary.split('\n')[0],
+            part: 'Psalmus',
+            commentary: `Tom ${tone.name}`,
+            score: pointPsalm(tone, verses, 'pt'),
+          },
+        ],
+      })
+      continue
+    }
+
     if (!found?.length) {
       out.push(p)
       continue
@@ -86,10 +164,18 @@ function sing(
   return out
 }
 
+// What heads a psalm or a canticle in the breviary: `Salmo 117(118)`, `Cântico de Simeão`.
+const psalmTitle = /^(?:Salmo|C[âa]ntico)\b/i
+
 /** Every text in the hour that `pairs` names, set as one block with its chant. */
 export async function withChant(primitives: Primitive[], pairs: ChantPairs): Promise<Primitive[]> {
   const pairings = Object.entries(pairs)
-    .map(([opening, ids]) => ({ key: fold(opening), ids: [ids].flat() }))
+    // Ten words at most: an antiphon printed with or without its Alleluia, or
+    // with its ending marks, is the same antiphon.
+    .map(([opening, ids]) => ({
+      key: fold(opening).split(' ').slice(0, 10).join(' '),
+      ids: [ids].flat(),
+    }))
     // The longest opening first, so a text that opens on a shorter pairing's
     // words still finds its own.
     .sort((a, b) => b.key.length - a.key.length)
