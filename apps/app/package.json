@@ -5,8 +5,7 @@
   "expo": {
     "autolinking": {
       "exclude": [
-        "react-native-device-activity",
-        "expo-audio"
+        "react-native-device-activity"
       ]
     }
   },
