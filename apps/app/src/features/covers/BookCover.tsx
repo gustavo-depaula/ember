@@ -55,7 +55,9 @@ export function BookCover({
             <ToneGradient id="tone" tone={tone} />
           </Defs>
           <Rect width="100" height="150" fill="url(#tone)" />
-          {!compact && <Ornament format={format} />}
+          {/* A small cover keeps its binding's line art; Banded's cream band would
+              sit under the small face's cream title, so it goes plain. */}
+          {(!compact || format !== 'banded') && <Ornament format={format} />}
         </Svg>
         <Face title={title} author={compact ? undefined : author} w={w} tone={tone} />
         <Svg
@@ -270,7 +272,8 @@ function ClassicFace({ title, author, w }: FaceProps) {
           </CoverText>
         )}
       </View>
-      <Imprint w={w} style={{ marginBottom: w * 0.06 }} />
+      {/* Under 80pt the imprint is a smudge, not a word. */}
+      {w >= compactCoverWidth && <Imprint w={w} style={{ marginBottom: w * 0.06 }} />}
     </View>
   )
 }
