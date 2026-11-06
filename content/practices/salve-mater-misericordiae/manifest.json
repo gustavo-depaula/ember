@@ -1,0 +1,47 @@
+{
+	"id": "salve-mater-misericordiae",
+	"prayedIn": "la",
+	"form": "prayer",
+	"icon": "mary",
+	"name": {
+		"en-US": "Salve Mater misericordiae",
+		"pt-BR": "Salve Mater misericordiae",
+		"la": "Salve Mater misericordiae"
+	},
+	"categories": [
+		"devotion",
+		"marian"
+	],
+	"estimatedMinutes": 3,
+	"description": {
+		"en-US": "*Hail, Mother of mercy, Mother of God, and Mother of pardon* — a hymn greeting Mary as the honour of mankind and the solace of exiles.",
+		"pt-BR": "*Salve, Mãe de misericórdia, Mãe de Deus e Mãe do perdão* — um hino que saúda Maria como glória do gênero humano e consolo dos exilados."
+	},
+	"history": {
+		"en-US": "A medieval Marian hymn long cherished by the Carmelites, who sang it in procession; the Solesmes collections of the twentieth century spread it to parishes as a hymn of the Blessed Virgin.",
+		"pt-BR": "Um hino mariano medieval muito amado pelos carmelitas, que o cantavam em procissão; as coletâneas de Solesmes do século XX o levaram às paróquias como hino da Santíssima Virgem."
+	},
+	"source": {
+		"en-US": "Latin and English: *The Parish Book of Chant* (Church Music Association of America, 2nd ed., 2012), pp. 126–127 — [musicasacra.com](https://media.musicasacra.com/pdf/pbc-web.pdf)",
+		"pt-BR": "Latim: *The Parish Book of Chant* (Church Music Association of America, 2.ª ed., 2012), pp. 126–127 — [musicasacra.com](https://media.musicasacra.com/pdf/pbc-web.pdf) · Português: [Instavrare omnia in Christo](https://instavrareomniainchristo.wordpress.com/2013/10/12/hino-salve-mater-misericordiae/)"
+	},
+	"tags": [
+		"hymn",
+		"marian"
+	],
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"defaults": {
+		"sortOrder": 545,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

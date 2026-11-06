@@ -58,7 +58,7 @@ Use `psalm` only for centos. A psalm recited whole belongs in an `include` of `p
 
 ## One language per key
 
-Each language gets its own key in `LocalizedContent`. **Never stack two languages in one key.** The renderer (`apps/app/src/components/prayer/BilingualBlock.tsx`) picks primary and secondary from the user's language preferences for side-by-side or tap-to-switch; it cannot split a stacked string.
+Each language gets its own key in `LocalizedContent`. **Never stack two languages in one key.** The renderer (`apps/app/src/components/prayer/BilingualBlock.tsx`) sets the two languages each practice is prayed in (`apps/app/src/lib/practiceLanguages.ts`) interleaved, in columns or tap-to-switch; it cannot split a stacked string. A practice prayed in Latin by tradition says so with `prayedIn: "la"` in its manifest.
 
 ```json
 { "type": "prayer", "inline": {

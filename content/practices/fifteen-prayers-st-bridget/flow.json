@@ -1,0 +1,460 @@
+{
+	"sections": [
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "To be said in honor of the sacred wounds of our blessed Saviour. After each prayer, say an Our Father and a Hail Mary.",
+				"pt-BR": "Para rezar em honra das sagradas chagas de nosso bendito Salvador. Depois de cada oração, reze um Pai-Nosso e uma Ave-Maria."
+			}
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "First Prayer",
+				"pt-BR": "Primeira Oração"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most sweet Lord Jesus Christ, eternal delight of those who love thee; joy, desire and firm hope of the hopeless; solace of the sorrowful, and most merciful lover of all penitent sinners; who hast said, “my delight is to be with the sons of men;” for the love of whom thou didst in the fulness of time assume human nature; remember, most sweet Lord Jesus, all those sharp sorrows which transpierced thy sacred soul, from the first instant of thy incarnation, until the time of thy sorrowful passion, preordained from all eternity: remember, O most amiable Saviour, all those bitter anguishes thou didst suffer, when at thy last supper, after washing the feet of thy disciples, thou didst feed them with the sacred banquet of thy precious body and blood, and most sweetly comforting them, didst foretel them thy ensuing passion; after which, going to Mount Olivet, thou saidst, “My soul is sorrowful unto death.” Remember, I beseech thee, O most sweet Saviour, that bitter grief and anguish, which thy sacred soul did suffer, when praying three several times to thy heavenly Father, thou didst sweat water and blood, wast betrayed by thy own disciple, apprehended by thy chosen people, accused by false witnesses, unjustly judged by three judges, and in thy elect city, on the Paschal solemnity, in the flourishing age of thy youth, wrongfully condemned, bound, beaten, spurned, spit upon, despoiled of thy garments and clothed with others in derision; wast blindfolded, buffeted, spit upon again, bound naked to a pillar, most cruelly scourged, crowned with thorns, struck with a reed, and afflicted with innumerable other torments, pains, and injuries. O my most sweet Lord Jesus, by the memory and merit of all these bitter pains and anguishes, before thy expiration on the cross, vouchsafe to grant me, before my death, true contrition, entire confession, a flowing fountain of tears, full satisfaction, and plenary remission of all my sins. Amen.",
+				"pt-BR": "Ó dulcíssimo Senhor Jesus Cristo, eterna delícia dos que vos amam; alegria, desejo e firme esperança dos desesperados; consolo dos aflitos e amantíssimo de todos os pecadores arrependidos; que dissestes: “As minhas delícias são estar com os filhos dos homens”; por amor dos quais, na plenitude dos tempos, tomastes a natureza humana: lembrai-vos, dulcíssimo Senhor Jesus, de todas as agudas dores que trespassaram a vossa alma santíssima, desde o primeiro instante da vossa Encarnação até o tempo da vossa dolorosa Paixão, predestinada desde toda a eternidade. Lembrai-vos, ó amabilíssimo Salvador, de todas as amargas angústias que padecestes quando, na última Ceia, depois de lavar os pés aos vossos discípulos, os alimentastes com o sagrado banquete do vosso precioso Corpo e Sangue e, consolando-os com toda a doçura, lhes predissestes a vossa Paixão já próxima; depois do que, indo ao Monte das Oliveiras, dissestes: “A minha alma está numa tristeza mortal.” Lembrai-vos, eu vos suplico, ó dulcíssimo Salvador, da amarga dor e angústia que padeceu a vossa alma santíssima quando, orando por três vezes ao vosso Pai celeste, suastes água e sangue; fostes traído pelo vosso próprio discípulo, preso pelo vosso povo escolhido, acusado por falsas testemunhas, injustamente julgado por três juízes e, na vossa cidade eleita, na solenidade da Páscoa, na flor da vossa juventude, iniquamente condenado, atado, espancado, calcado aos pés, cuspido, despojado das vossas vestes e vestido de outras por escárnio; fostes vendado, esbofeteado, de novo cuspido, atado nu a uma coluna, cruelissimamente flagelado, coroado de espinhos, ferido com uma cana e afligido com inumeráveis outros tormentos, dores e injúrias. Ó meu dulcíssimo Senhor Jesus, pela memória e merecimento de todas estas amargas dores e angústias, antes da vossa morte na cruz, dignai-vos conceder-me, antes da minha morte, verdadeira contrição, confissão inteira, uma fonte abundante de lágrimas, plena satisfação e remissão plenária de todos os meus pecados. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most gracious Lord Jesus, be propitious to me a sinner.",
+				"pt-BR": "Ó clementíssimo Senhor Jesus, sede propício a mim, pecador."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Second Prayer",
+				"pt-BR": "Segunda Oração"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most sweet Lord Jesus, true liberty of angels, and paradise of delights; remember, I beseech thee, that grief and sorrow which thou didst suffer, when thy cruel enemies, like fierce lions, with furious and dreadful looks, compassing thee round about, did tear off thine hair, spit upon thy sacred face, scratch, beat and buffet thee, and with all manner of unheard-of injuries, outrages, and torments, most cruelly and basely blaspheme scorn and affront thee. O most amiable Lord Jesus, by all those most barbarous and inhuman outrages, which thou didst then suffer, vouchsafe to deliver me from all my enemies, visible and invisible, that, protected under the shadow of thy wings, I may safely arrive at the port of eternal glory. Amen.",
+				"pt-BR": "Ó dulcíssimo Senhor Jesus, verdadeira liberdade dos anjos e paraíso de delícias; lembrai-vos, eu vos suplico, da dor e tristeza que padecestes quando os vossos cruéis inimigos, como leões ferozes, com olhares furiosos e terríveis, vos cercaram por todos os lados, vos arrancaram os cabelos, cuspiram no vosso rosto sagrado, vos arranharam, bateram e esbofetearam e, com toda sorte de injúrias, ultrajes e tormentos inauditos, mui cruel e vilmente vos blasfemaram, escarneceram e afrontaram. Ó amabilíssimo Senhor Jesus, por todos aqueles bárbaros e desumanos ultrajes que então sofrestes, dignai-vos livrar-me de todos os meus inimigos, visíveis e invisíveis, para que, protegido à sombra das vossas asas, eu chegue seguro ao porto da glória eterna. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most gracious Lord Jesus Christ, be propitious to me a sinner.",
+				"pt-BR": "Ó clementíssimo Senhor Jesus Cristo, sede propício a mim, pecador."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Third Prayer",
+				"pt-BR": "Terceira Oração"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most sweet Lord Jesus, omnipotent Creator and Fabricator of the world, and Repairer of mankind, who containest both heaven and earth in thy hand, and whose immensity no bounds can limit; remember, I beseech thee, the bitter pains and anguishes which thou didst endure, when the perfidious Jews pierced thy delicate and tender hands and feet with most rough and blunt nails, stretching them forth so violently with cords to the holes, which they had made in the cross. Thus they heaped dolors upon dolors, most cruelly disjointing all thy bones, breaking all thy veins, and renewing all thy sacred wounds. O most sweet Jesus, by the memory of all these thy pains and torments on the cross, vouchsafe to give me thy fear and love, with perfect charity towards my neighbor. Amen.",
+				"pt-BR": "Ó dulcíssimo Senhor Jesus, Criador onipotente e Artífice do mundo, Reparador do gênero humano, que tendes na vossa mão o céu e a terra e cuja imensidade nenhum limite pode conter; lembrai-vos, eu vos suplico, das amargas dores e angústias que padecestes quando os pérfidos judeus trespassaram as vossas delicadas e tenras mãos e pés com cravos ásperos e rombudos e, com cordas, os estenderam tão violentamente até os furos que tinham feito na cruz. Assim acumularam dores sobre dores, deslocando cruelissimamente todos os vossos ossos, rompendo todas as vossas veias e renovando todas as vossas sagradas chagas. Ó dulcíssimo Jesus, pela memória de todas estas vossas dores e tormentos na cruz, dignai-vos dar-me o vosso temor e o vosso amor, com perfeita caridade para com o meu próximo. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most pious Lord Jesus Christ be propitious to me a sinner.",
+				"pt-BR": "Ó piedosíssimo Senhor Jesus Cristo, sede propício a mim, pecador."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Fourth Prayer",
+				"pt-BR": "Quarta Oração"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most meek Lord Jesus, heavenly Physician of human nature, and eternal King; remember, I beseech thee, all those bitter pains which thou didst endure in thy sacred members, who, being hoisted up upon the cross, with all thy precious body rent and torn, all thy bones being so disjointed, that not one remained in its right place; not having from the crown of thy head unto the soles of thy feet any part left whole, so that no dolor could be compared to thine; at which time being unmindful of thine own torments, thou didst mercifully pray to thy heavenly Father for thy cruel enemies, saying, “Father, forgive them, for they know not what they do.” O most meek and merciful Lord Jesus, by this thy admirable benignity, goodness, love and mercy, and by all thy bitter pains and torments, grant that the memory of thy dolorous passion may be to me a most powerful protection of soul and body, against all the deceits, temptations, and molestations of the devils, my cruel enemies. Amen.",
+				"pt-BR": "Ó mansíssimo Senhor Jesus, Médico celeste da natureza humana e Rei eterno; lembrai-vos, eu vos suplico, de todas as amargas dores que suportastes nos vossos sagrados membros quando, levantado na cruz, com todo o vosso precioso corpo rasgado e dilacerado, todos os vossos ossos tão deslocados que nenhum ficou no seu lugar, não tínheis, desde o alto da cabeça até a planta dos pés, parte alguma sã, de modo que nenhuma dor se podia comparar à vossa; nesse tempo, esquecido dos vossos próprios tormentos, orastes misericordiosamente ao vosso Pai celeste pelos vossos cruéis inimigos, dizendo: “Pai, perdoa-lhes, porque não sabem o que fazem.” Ó mansíssimo e misericordiosíssimo Senhor Jesus, por esta vossa admirável benignidade, bondade, amor e misericórdia, e por todas as vossas amargas dores e tormentos, concedei que a memória da vossa dolorosa Paixão seja para mim poderosíssima proteção da alma e do corpo contra todos os enganos, tentações e assaltos dos demônios, meus cruéis inimigos. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most merciful Lord Jesus, be propitious to me a sinner.",
+				"pt-BR": "Ó misericordiosíssimo Senhor Jesus, sede propício a mim, pecador."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Fifth Prayer",
+				"pt-BR": "Quinta Oração"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most sweet Lord Jesus, Mirror of eternal brightness, and Wisdom of the omnipotent Father; remember the bitter grief and sorrow thy sacred soul did feel, when, beholding in the clear mirror of thy divine presence, the predestination of thy elect, who, through the merits of thy most holy passion, were to be saved, and the reprobation of the wicked, who, for their ingratitude, were to be damned, and the abyss of thy immense mercy, by which thou didst commisserate and shed tears for us miserable, lost, forlorn sinners; and chiefly by that mercy thou didst show to the thief upon the cross, saying to him, “This day thou shalt be with me in Paradise.” I beseech thee, O most compassionate Lord Jesus, my Lord and my God, to show the like mercy to me now and at the hour of my death. Amen.",
+				"pt-BR": "Ó dulcíssimo Senhor Jesus, Espelho do eterno resplendor e Sabedoria do Pai onipotente; lembrai-vos da amarga dor e tristeza que sentiu a vossa alma santíssima quando contemplastes, no claro espelho da vossa presença divina, a predestinação dos vossos eleitos, que pelos merecimentos da vossa santíssima Paixão haviam de salvar-se, e a reprovação dos ímpios, que pela sua ingratidão haviam de condenar-se; e o abismo da vossa imensa misericórdia, pela qual vos compadecestes de nós e derramastes lágrimas por nós, miseráveis, perdidos e desamparados pecadores; e sobretudo por aquela misericórdia que mostrastes ao ladrão na cruz, dizendo-lhe: “Hoje estarás comigo no paraíso.” Eu vos suplico, ó compassivíssimo Senhor Jesus, meu Senhor e meu Deus, que useis da mesma misericórdia comigo, agora e na hora da minha morte. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most sweet Lord Jesus, be propitious to me a sinner.",
+				"pt-BR": "Ó dulcíssimo Senhor Jesus, sede propício a mim, pecador."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Sixth Prayer",
+				"pt-BR": "Sexta Oração"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most sweet Lord Jesus, omnipotent King, and most amiable Friend; remember the bitter grief and sorrow thy sacred soul did suffer, when, being forsaken by all thy friends and acquaintance, thou didst hang naked, rent, and torn upon the cross, not having any one to comfort or compassionate thee, except the blessed Virgin Mary, thy mother, who, standing under the cross, in the bitterness of her soul, accompanied thee in all thy torments: unto whom thou didst commend thy beloved disciple, St. John, in thy place, saying unto her, “Woman, behold thy son;” and afterwards to that disciple, “Behold thy mother.” O most sweet Lord Jesus, by that sword of sorrow which did then transpierce her sacred soul, and by the tender love and compassion wherewith thou didst behold the sad distress of thy sorrowful mother, have pity and compassion on me, I beseech thee, my dearest Lord, and mercifully help, comfort, succor, and assist me in all my tribulations, adversities, necessities, sorrows, and sufferings, both spiritual and corporeal. Amen.",
+				"pt-BR": "Ó dulcíssimo Senhor Jesus, Rei onipotente e Amigo amabilíssimo; lembrai-vos da amarga dor e tristeza que padeceu a vossa alma santíssima quando, abandonado por todos os vossos amigos e conhecidos, estivestes pendente da cruz, nu, rasgado e dilacerado, sem ninguém que vos consolasse ou se compadecesse de vós, senão a bem-aventurada Virgem Maria, vossa Mãe, que, de pé junto à cruz, na amargura da sua alma, vos acompanhou em todos os vossos tormentos; a quem recomendastes, em vosso lugar, o vosso discípulo amado, São João, dizendo-lhe: “Mulher, eis o teu filho”; e depois ao discípulo: “Eis a tua Mãe.” Ó dulcíssimo Senhor Jesus, por aquela espada de dor que então trespassou a sua alma santíssima, e pelo terno amor e compaixão com que contemplastes a triste aflição da vossa Mãe dolorosa, tende piedade e compaixão de mim, eu vos suplico, meu caríssimo Senhor, e misericordiosamente ajudai-me, consolai-me, socorrei-me e assisti-me em todas as minhas tribulações, adversidades, necessidades, tristezas e sofrimentos, assim espirituais como corporais. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most blessed Lord Jesus, be propitious to me a sinner.",
+				"pt-BR": "Ó benditíssimo Senhor Jesus, sede propício a mim, pecador."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Seventh Prayer",
+				"pt-BR": "Sétima Oração"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most sweet and blessed Lord Jesus, crown of joy, treasure of felicity, sweet source of consolation, and inexhaustible fountain of mercy; who, hanging on the cross, out of the most inflamed desire thou hadst of the salvation of souls, saidst, “I thirst;” to wit, for the redemption of mankind. O, dearest Lord, by this thy ardent charity, inflame our hearts with thy holy love, enkindle our desires to accomplish diligently all good works, and wholly extinguish the heat of all evil concupiscence, and worldly affections in me. Amen.",
+				"pt-BR": "Ó dulcíssimo e bendito Senhor Jesus, coroa de alegria, tesouro de felicidade, doce manancial de consolação e fonte inesgotável de misericórdia; que, pendente da cruz, pelo desejo ardentíssimo que tínheis da salvação das almas, dissestes: “Tenho sede”, a saber, da redenção do gênero humano. Ó caríssimo Senhor, por esta vossa ardente caridade, inflamai os nossos corações no vosso santo amor, acendei os nossos desejos de cumprir diligentemente todas as boas obras e extingui de todo em mim o ardor de toda má concupiscência e das afeições mundanas. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most excellent Lord Jesus, be propitious to me a sinner.",
+				"pt-BR": "Ó excelentíssimo Senhor Jesus, sede propício a mim, pecador."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Eighth Prayer",
+				"pt-BR": "Oitava Oração"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most sweet Lord Jesus, true light of those that believe in thee, suavity of our hearts and sovereign solace of all faithful souls, by that bitter gall and vinegar thou didst taste upon the cross at the hour of thy death, grant us, miserable sinners, grace worthily to receive at all times, and particularly at the hour of our death, thy most precious body and blood, that by the virtue of this divine banquet and thy other salutary sacraments, we may be preserved from all evils, sins, and punishments, and, replenished with all joy, we may securely appear in thy divine presence. Amen.",
+				"pt-BR": "Ó dulcíssimo Senhor Jesus, luz verdadeira dos que creem em vós, suavidade dos nossos corações e consolo soberano de todas as almas fiéis, por aquele amargo fel e vinagre que provastes na cruz, na hora da vossa morte, concedei-nos, a nós, miseráveis pecadores, a graça de receber dignamente em todo tempo, e particularmente na hora da nossa morte, o vosso preciosíssimo Corpo e Sangue, para que, pela virtude deste divino banquete e dos vossos outros sacramentos salutares, sejamos preservados de todos os males, pecados e castigos e, repletos de toda alegria, possamos comparecer seguros na vossa divina presença. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most sweet Lord Jesus, be propitious to me a sinner.",
+				"pt-BR": "Ó dulcíssimo Senhor Jesus, sede propício a mim, pecador."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Ninth Prayer",
+				"pt-BR": "Nona Oração"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most sweet Lord Jesus, regal strength, and mental jubilee; remember, I beseech thee, those excessive pains and anguishes thou didst endure for us sinners upon the cross, when, through the bitterness of death, and the impious blasphemies, derisions, scorns, and reproaches of the Jews, with a loud voice and weeping eyes, thou didst cry to thy heavenly Father, with this sad complaint, Eloi, Eloi, lamma sabacthani? that is to say, “My God, my God, why hast thou forsaken me?” O most sweet Lord Jesus, by this thy bitter torment, sorrow, grief, and anguish, vouchsafe, I beseech thee, to have pity on me, and succor me in all my sorrows, sufferings, and tribulations, and particularly at the hour of my death: O then, my dearest Lord and my God, vouchsafe to assist and succor me, and do not forsake me, I beseech thee. Amen.",
+				"pt-BR": "Ó dulcíssimo Senhor Jesus, fortaleza real e júbilo da alma; lembrai-vos, eu vos suplico, das excessivas dores e angústias que suportastes por nós, pecadores, na cruz, quando, pela amargura da morte e pelas ímpias blasfêmias, zombarias, escárnios e afrontas dos judeus, em alta voz e com os olhos em lágrimas, clamastes ao vosso Pai celeste com esta triste queixa: Eloí, Eloí, lamá sabactâni? isto é: “Deus meu, Deus meu, por que me abandonaste?” Ó dulcíssimo Senhor Jesus, por este vosso amargo tormento, tristeza, dor e angústia, dignai-vos, eu vos suplico, ter piedade de mim e socorrer-me em todas as minhas tristezas, sofrimentos e tribulações, e particularmente na hora da minha morte. Ó, então, meu caríssimo Senhor e meu Deus, dignai-vos assistir-me e socorrer-me, e não me abandoneis, eu vos suplico. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most gracious Lord Jesus, be propitious to me a sinner.",
+				"pt-BR": "Ó clementíssimo Senhor Jesus, sede propício a mim, pecador."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Tenth Prayer",
+				"pt-BR": "Décima Oração"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most sacred Lord Jesus, Alpha and Omega, the beginning and the end of all things, and mirror of all virtues; remember how, from the crown of thy head to the soles of thy feet, thou wast immerged in the deluge of thy dolorous passion, for the love of us vile sinners. O my most sweet Lord Jesus, by the length, breadth, greatness, and multitude of thy most sacred wounds, take from me the love of the world, and teach me, by a true and perfect charity, always to keep thy holy laws and commandments. Amen.",
+				"pt-BR": "Ó santíssimo Senhor Jesus, Alfa e Ômega, princípio e fim de todas as coisas e espelho de todas as virtudes; lembrai-vos de como, desde o alto da cabeça até a planta dos pés, fostes submergido no dilúvio da vossa dolorosa Paixão, por amor de nós, vis pecadores. Ó meu dulcíssimo Senhor Jesus, pelo comprimento, largura, grandeza e multidão das vossas sacratíssimas chagas, tirai de mim o amor do mundo e ensinai-me, por uma verdadeira e perfeita caridade, a guardar sempre as vossas santas leis e mandamentos. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most wise Lord Jesus, be propitious to me a sinner.",
+				"pt-BR": "Ó sapientíssimo Senhor Jesus, sede propício a mim, pecador."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Eleventh Prayer",
+				"pt-BR": "Décima primeira Oração"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most sweet Lord Jesus, sovereign goodness, eternal beatitude of thy saints, and most profound abyss of mercy! by the deep and dolorous wounds which did not only transpierce thy sacred flesh, but even thy bowels, and the marrow of thy bones, be merciful to me a miserable sinner, who now am drowned in my sins and iniquities, and hide me in thy sacred wounds from the face of thy wrath, until thy indignation be past and appeased. Amen.",
+				"pt-BR": "Ó dulcíssimo Senhor Jesus, bondade soberana, eterna bem-aventurança dos vossos santos e profundíssimo abismo de misericórdia! Pelas profundas e dolorosas chagas que trespassaram não só a vossa sagrada carne, mas até as vossas entranhas e a medula dos vossos ossos, sede misericordioso para comigo, miserável pecador, que agora estou submerso nos meus pecados e iniquidades, e escondei-me nas vossas sagradas chagas da face da vossa ira, até que passe e se aplaque a vossa indignação. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most potent Lord Jesus, be propitious to me a sinner.",
+				"pt-BR": "Ó poderosíssimo Senhor Jesus, sede propício a mim, pecador."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Twelfth Prayer",
+				"pt-BR": "Décima segunda Oração"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most sweet Lord Jesus, mirror of verity, pledge of unity, and bond of charity; remember the innumerable multitude of all those painful wounds wherewith thou wert covered from head to foot; thy sacred body being most cruelly rent and torn by the impious hands of thy enemies, and dyed with thy precious blood; all which most dreadful torments thou didst endure for us vile sinners. O most sacred Lord Jesus, what couldst thou do for us more than thou hast done? O my most gracious Lord, engrave these thy sufferings deeply in my heart; write them therein with thy precious blood, that in them I may always read thy love and dolors, so that the memory of thy painful passion being daily renewed in me, and my love towards thee increased, I may remain perpetually thankful to thy immense charity to the last period of my life, until I come to enjoy thee, my only dear Lord, and most desired treasure, abounding with all joy and felicity, which through thy goodness be pleased to grant me, O most sweet Lord Jesus. Amen.",
+				"pt-BR": "Ó dulcíssimo Senhor Jesus, espelho da verdade, penhor da unidade e vínculo da caridade; lembrai-vos da inumerável multidão de todas aquelas dolorosas chagas com que fostes coberto da cabeça aos pés, sendo o vosso sagrado corpo cruelissimamente rasgado e dilacerado pelas mãos ímpias dos vossos inimigos e tinto do vosso precioso Sangue; todos esses horríveis tormentos suportastes por nós, vis pecadores. Ó santíssimo Senhor Jesus, que mais podíeis fazer por nós do que fizestes? Ó meu clementíssimo Senhor, gravai profundamente estes vossos sofrimentos no meu coração; escrevei-os nele com o vosso precioso Sangue, para que neles eu leia sempre o vosso amor e as vossas dores, de modo que, renovando-se cada dia em mim a memória da vossa dolorosa Paixão e crescendo o meu amor para convosco, eu permaneça perpetuamente agradecido à vossa imensa caridade até o último instante da minha vida, até que chegue a gozar de vós, meu único e caro Senhor e tesouro desejadíssimo, abundante de toda alegria e felicidade; o que, pela vossa bondade, dignai-vos conceder-me, ó dulcíssimo Senhor Jesus. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most glorious Lord Jesus, be propitious to me a sinner.",
+				"pt-BR": "Ó gloriosíssimo Senhor Jesus, sede propício a mim, pecador."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Thirteenth Prayer",
+				"pt-BR": "Décima terceira Oração"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most sweet Lord Jesus, victorious Lion, invincible, triumphant, and immortal King; remember, I beseech thee, all the bitter pains and anguishes thou didst endure when, all the strength of thy soul and body failing, bowing down thy sacred head, thou saidst, It is consummated. O dearest Lord, by these thy deadly dolors, have mercy on me at my last passage, when my heart and soul shall be in anguish and anxiety. Amen.",
+				"pt-BR": "Ó dulcíssimo Senhor Jesus, Leão vitorioso, Rei invencível, triunfante e imortal; lembrai-vos, eu vos suplico, de todas as amargas dores e angústias que suportastes quando, faltando-vos todas as forças da alma e do corpo, inclinando a vossa sagrada cabeça, dissestes: “Tudo está consumado.” Ó caríssimo Senhor, por estas vossas dores mortais, tende misericórdia de mim na minha última passagem, quando o meu coração e a minha alma estiverem em angústia e aflição. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most noble Lord Jesus, be propitious to me a sinner.",
+				"pt-BR": "Ó nobilíssimo Senhor Jesus, sede propício a mim, pecador."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Fourteenth Prayer",
+				"pt-BR": "Décima quarta Oração"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most sweet Lord Jesus, only begotten Son of the eternal Father, figure of his substance, and splendor of his glory; remember that most earnest recommendation wherewith thou didst commend thy sweet and sacred soul to thy omnipotent Father, upon the cross, saying; Father, into thy hands I commend my spirit: at which time thou didst hang naked upon the cross, with thy most holy body, all over wounded, rent, torn, and pouring forth streams of most precious blood; with thy face pale and wan, thy head crowned with thorns, thy arms extended, thy hands nailed, thy veins broken, thy bones disjointed, thy bowels of mercy opened, thy eyes weeping and obscured, thy voice failing, thy breast thirsting, and thy whole heart broken. O my most merciful Lord, unto all these cruel pains and torments didst thou deliver thy most sacred, innocent, tender, pure, and precious body, for the redemption of us most wretched, vile, and miserable sinners; and in this manner renderedst thou thy sweet soul to thy celestial Father; by which most precious and innocent death of thine, and by the virtue of thy holy cross, I beseech thee, O Father of Mercy, and omnipotent King of Saints, to give me grace to resist the world, the flesh, and the devil, that being dead to all terrestrial things, I may live to thee alone, and have the happiness to be received by thee at my last passage, when this my miserable exile shall be ended. Amen.",
+				"pt-BR": "Ó dulcíssimo Senhor Jesus, Filho unigênito do Pai eterno, figura da sua substância e esplendor da sua glória; lembrai-vos daquela instantíssima recomendação com que encomendastes a vossa doce e sagrada alma ao vosso Pai onipotente, na cruz, dizendo: “Pai, nas tuas mãos encomendo o meu espírito”; nesse tempo estáveis pendente da cruz, nu, com o vosso santíssimo corpo todo chagado, rasgado, dilacerado e vertendo torrentes de preciosíssimo Sangue; com o rosto pálido e macilento, a cabeça coroada de espinhos, os braços estendidos, as mãos cravadas, as veias rotas, os ossos deslocados, as entranhas de misericórdia abertas, os olhos em lágrimas e escurecidos, a voz desfalecida, o peito sedento e todo o coração despedaçado. Ó meu misericordiosíssimo Senhor, a todas estas cruéis dores e tormentos entregastes o vosso sacratíssimo, inocente, terno, puro e precioso corpo, pela redenção de nós, misérrimos, vis e miseráveis pecadores; e deste modo rendestes a vossa doce alma ao vosso Pai celeste. Por esta vossa preciosíssima e inocente morte, e pela virtude da vossa santa cruz, eu vos suplico, ó Pai de misericórdia e Rei onipotente dos santos, que me deis a graça de resistir ao mundo, à carne e ao demônio, para que, morto a todas as coisas terrenas, eu viva só para vós e tenha a felicidade de ser recebido por vós na minha última passagem, quando se acabar este meu miserável desterro. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most pious Lord Jesus, be propitious to me a sinner.",
+				"pt-BR": "Ó piedosíssimo Senhor Jesus, sede propício a mim, pecador."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Fifteenth Prayer",
+				"pt-BR": "Décima quinta Oração"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most sweet Lord Jesus, most flourishing, true and fruitful vine, remember the superabundant effusion of thy precious blood, which thou didst pour forth so plenteously from all parts of thy holy body, like a cluster of pressed grapes, when thou thyself alone didst tread the wine press on the cross, and out of thy pierced side didst give us water and wine to drink, not leaving so much as one drop, being then like a bundle of pure and precious myrrh; thou wert hanging on nigh upon the cross, at which time the liquor of thy bowels dried up, the marrow of thy bones consumed, and thy most delicate and tender body wholly fainted and failed. O most sweet Lord Jesus, by this most liberal effusion of thy precious blood, by thy bitter death and passion, and all thy sacred wounds, vouchsafe to wound my heart with that tender love wherewith the holy heart of thy most blessed mother was wounded under the cross, that tears of love and penance may be my bread day and night, and convert me wholly to thee, that my heart may be thy perpetual habitation, my conversation pleasing and acceptable to thy divine majesty, and the end of my life so laudable, that having finished this mortal pilgrimage, I may be admitted into immortal glory, to praise and glorify thee, my sovereign Lord, in the sweet society of the holy angels and saints to all eternity. Amen.",
+				"pt-BR": "Ó dulcíssimo Senhor Jesus, videira verdadeira, florescentíssima e fecunda, lembrai-vos da superabundante efusão do vosso precioso Sangue, que tão copiosamente derramastes de todas as partes do vosso santo corpo, como um cacho de uvas espremido, quando vós mesmo, sozinho, pisastes o lagar na cruz e do vosso lado aberto nos destes a beber água e vinho, sem deixar uma só gota, sendo então como um feixe de mirra pura e preciosa; estáveis pendente da cruz quando se secou o humor das vossas entranhas, se consumiu a medula dos vossos ossos e o vosso delicadíssimo e terno corpo de todo desfaleceu e se extinguiu. Ó dulcíssimo Senhor Jesus, por esta liberalíssima efusão do vosso precioso Sangue, pela vossa amarga morte e Paixão e por todas as vossas sagradas chagas, dignai-vos ferir o meu coração com aquele terno amor com que foi ferido, ao pé da cruz, o santo coração da vossa santíssima Mãe, para que as lágrimas de amor e de penitência sejam o meu pão de dia e de noite; convertei-me todo a vós, para que o meu coração seja a vossa perpétua morada, o meu viver agradável e aceito à vossa divina majestade, e o fim da minha vida tão digno de louvor que, acabada esta peregrinação mortal, eu seja admitido à glória imortal, para vos louvar e glorificar, meu soberano Senhor, na doce companhia dos santos anjos e dos santos, por toda a eternidade. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most gracious Lord Jesus, be propitious to me a sinner.",
+				"pt-BR": "Ó clementíssimo Senhor Jesus, sede propício a mim, pecador."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "The Prayer",
+				"pt-BR": "Oração Final"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most sweet Lord Jesus Christ, son of the living God, vouchsafe to receive these prayers in union with that most exquisite love wherewith thou didst suffer all the wounds of thy most precious body, and be merciful to me thy poor unworthy servant, and all sinners, with all faithful souls, both living and dead, graciously granting to us all mercy, grace, remission of sins, and life everlasting. Amen.",
+				"pt-BR": "Ó dulcíssimo Senhor Jesus Cristo, Filho de Deus vivo, dignai-vos receber estas orações em união com aquele amor perfeitíssimo com que sofrestes todas as chagas do vosso preciosíssimo corpo, e sede misericordioso para comigo, vosso pobre e indigno servo, e para com todos os pecadores e todas as almas fiéis, vivas e defuntas, concedendo benignamente a todos nós misericórdia, graça, remissão dos pecados e a vida eterna. Amém."
+			}
+		}
+	]
+}

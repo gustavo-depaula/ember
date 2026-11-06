@@ -1,0 +1,51 @@
+{
+	"id": "chaplet-st-michael",
+	"form": "prayer",
+	"icon": "angel",
+	"name": {
+		"en-US": "Chaplet of St. Michael",
+		"pt-BR": "Terço de São Miguel Arcanjo"
+	},
+	"categories": [
+		"devotion"
+	],
+	"estimatedMinutes": 15,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"description": {
+		"en-US": "The Angelical Crown: nine salutations to the nine choirs of angels through the intercession of St. Michael, each with an Our Father and three Hail Marys, closing with four Our Fathers to the archangels and the guardian angel.",
+		"pt-BR": "A Coroa Angélica: nove saudações aos nove coros dos anjos pela intercessão de São Miguel, cada uma com um Pai-Nosso e três Ave-Marias, terminando com quatro Pai-Nossos aos arcanjos e ao anjo da guarda."
+	},
+	"history": {
+		"en-US": "Tradition traces the chaplet to Antónia d'Astónac, a Portuguese Carmelite of the eighteenth century, to whom St. Michael appeared asking to be honoured by nine salutations, one for each choir of angels, and promising his escort and that of an angel from each choir to those who prayed them. Pius IX enriched the 'Angelical Crown' with indulgences on 8 August 1851, and it entered the Raccolta.",
+		"pt-BR": "A tradição atribui o terço a Antônia d'Astónac, carmelita portuguesa do século XVIII, a quem São Miguel teria aparecido pedindo ser honrado com nove saudações, uma para cada coro de anjos, e prometendo sua companhia e a de um anjo de cada coro a quem as rezasse. Pio IX concedeu indulgências à 'Coroa Angélica' em 8 de agosto de 1851, e ela passou a figurar na Raccolta."
+	},
+	"howToPray": {
+		"en-US": "The chaplet is prayed on special beads of nine groups of one large and three small beads, with four large beads and a medal of St. Michael. For each choir, pray its salutation, an Our Father and three Hail Marys. Then pray four Our Fathers in honour of St. Michael, St. Gabriel, St. Raphael and the guardian angel, and end with the closing prayer.",
+		"pt-BR": "O terço é rezado num cordão próprio de nove grupos de uma conta grande e três pequenas, com mais quatro contas grandes e uma medalha de São Miguel. Para cada coro, reze a saudação, um Pai-Nosso e três Ave-Marias. Depois reze quatro Pai-Nossos em honra de São Miguel, São Gabriel, São Rafael e do anjo da guarda, e termine com a oração final."
+	},
+	"source": {
+		"en-US": "*The Raccolta, or Collection of Indulgenced Prayers and Good Works*, tr. Ambrose St John, 1910 ed. (Burns & Oates / Benziger), no. 291 \"Angelical Crown\", pp. 261–263 — [archive.org](https://archive.org/details/theraccoltaorcol00unknuoft/page/261)",
+		"pt-BR": "Paróquia São Miguel Arcanjo (Riacho Fundo I, Brasília), *Pequeno Devocionário Paroquial ao Glorioso Padroeiro São Miguel Arcanjo*, \"Coroa de São Miguel Arcanjo\", pp. 27–29 — [archive.org](https://archive.org/details/pequeno-devocionario-paroquial-a-sao-miguel-arcanjo). A antífona e o versículo finais, que o devocionário não traz, foram traduzidos para este aplicativo a partir da *Raccolta* (1910), n.º 291."
+	},
+	"tags": [
+		"chaplet",
+		"michael",
+		"angels",
+		"archangel",
+		"raccolta"
+	],
+	"defaults": {
+		"sortOrder": 510,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

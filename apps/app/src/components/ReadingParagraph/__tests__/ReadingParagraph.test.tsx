@@ -12,6 +12,7 @@ import { unhyphenated } from '@/test/text'
 import { ProducerHtmlBlock } from '../../include/ProducerHtmlBlock'
 import { PrayerLines } from '../../PrayerText'
 import { BilingualBlock } from '../../prayer/BilingualBlock'
+import { PageLanguageProvider } from '../../prayer/PageLanguage'
 import { VersesBlock } from '../../VersesBlock'
 import { ReadingParagraph } from '..'
 
@@ -47,7 +48,6 @@ afterEach(() => {
   usePreferencesStore.setState({
     textAlign: 'justify',
     contentLanguage: 'en-US',
-    secondaryLanguage: undefined,
   })
 })
 
@@ -243,17 +243,23 @@ describe('ReadingParagraph draws the segments itself wherever the breaker does n
     const english = 'Open Thou, O Lord, my mouth to bless Thy holy name.'
     expect(hyphenate(latin, 'la')).not.toBe(hyphenate(latin, 'en-US'))
 
-    usePreferencesStore.setState({
-      textAlign: 'left',
-      contentLanguage: 'en-US',
-      secondaryLanguage: 'la',
-      displayMode: 'side-by-side',
-    })
+    usePreferencesStore.setState({ textAlign: 'left', contentLanguage: 'en-US' })
     const { container } = wrap(
-      <BilingualBlock
-        content={{ primary: english, secondary: latin }}
-        renderText={(text) => <PrayerLines text={text} />}
-      />,
+      <PageLanguageProvider
+        value={{
+          pray: 'en-US',
+          follow: 'la',
+          primary: 'en-US',
+          secondary: 'la',
+          swapped: false,
+          layout: 'columns',
+        }}
+      >
+        <BilingualBlock
+          content={{ primary: english, secondary: latin }}
+          renderText={(text) => <PrayerLines text={text} />}
+        />
+      </PageLanguageProvider>,
     )
     expect(container.textContent).toContain(hyphenate(latin, 'la'))
     expect(container.textContent).toContain(hyphenate(english, 'en-US'))

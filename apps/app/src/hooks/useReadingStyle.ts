@@ -1,3 +1,5 @@
+import { createContext, useContext } from 'react'
+
 import { useReadingLanguage } from '@/components/ReadingParagraph/readingLanguage'
 import { getFontFamily, type ReadingFontId, readingFontFor } from '@/config/readingFonts'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -15,6 +17,11 @@ export const readingScale = {
 // line (a per-Text maxWidth fights flex and breaks bilingual side-by-side).
 const maxMeasureEm = 34
 
+// A factor on the reading size for the text below: the companion language set
+// under each paragraph reads a step smaller than the prayer it accompanies.
+const ReadingScale = createContext(1)
+export const ReadingScaleProvider = ReadingScale.Provider
+
 const marginMap = { narrow: '$sm', normal: '$md', wide: '$lg' } as const
 
 /** The reader's face, or the one that can draw the language of the text it sets. */
@@ -28,8 +35,9 @@ export function useReadingStyle(language?: string) {
   const fontSizeStep = usePreferencesStore((s) => s.fontSizeStep)
   const lineHeightStep = usePreferencesStore((s) => s.lineHeightStep)
   const textAlign = usePreferencesStore((s) => s.textAlign)
+  const scale = useContext(ReadingScale)
 
-  const fontSize = readingScale.fontSize[fontSizeStep - 1]
+  const fontSize = Math.round(readingScale.fontSize[fontSizeStep - 1] * scale)
   const ratio = readingScale.leadingRatio[lineHeightStep - 1]
 
   return {

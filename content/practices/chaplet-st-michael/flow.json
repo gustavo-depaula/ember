@@ -1,0 +1,281 @@
+{
+	"data": {
+		"salutation": [
+			{
+				"title": {
+					"en-US": "First Salutation",
+					"pt-BR": "Primeira Saudação"
+				},
+				"choir": {
+					"en-US": "To the First Angelic Choir, the Seraphim",
+					"pt-BR": "Ao primeiro coro dos Anjos, os Serafins"
+				},
+				"text": {
+					"en-US": "At the intercession of St Michael and the heavenly choir of the Seraphim, may it please God to make us worthy to receive into our hearts the fire of his perfect charity. Amen.",
+					"pt-BR": "Saudamos o primeiro coro dos Anjos, pedindo pela intercessão de São Miguel Arcanjo e do coro celeste dos Serafins, para que o Senhor nos torne dignos de sermos abrasados de uma perfeita caridade."
+				}
+			},
+			{
+				"title": {
+					"en-US": "Second Salutation",
+					"pt-BR": "Segunda Saudação"
+				},
+				"choir": {
+					"en-US": "To the Second Angelic Choir, the Cherubim",
+					"pt-BR": "Ao segundo coro dos Anjos, os Querubins"
+				},
+				"text": {
+					"en-US": "At the intercession of St Michael and the heavenly choir of the Cherubim, may God grant us grace to abandon the ways of sin, and follow the path of Christian perfection. Amen.",
+					"pt-BR": "Saudamos o segundo coro dos Anjos, pedindo pela intercessão de São Miguel Arcanjo e dos coros celestes dos Querubins, para que o Senhor nos conceda a graça de fugirmos do pecado e procurarmos a perfeição cristã."
+				}
+			},
+			{
+				"title": {
+					"en-US": "Third Salutation",
+					"pt-BR": "Terceira Saudação"
+				},
+				"choir": {
+					"en-US": "To the Third Angelic Choir, the Thrones",
+					"pt-BR": "Ao terceiro coro dos Anjos, os Tronos"
+				},
+				"text": {
+					"en-US": "At the intercession of St Michael and the sacred choir of the Thrones, may it please God to infuse into our hearts a true and earnest spirit of humility. Amen.",
+					"pt-BR": "Saudamos o terceiro coro dos Anjos, pedindo pela intercessão de São Miguel Arcanjo e do coro celeste dos Tronos, para que Deus derrame em nossos corações o espírito de verdadeira e sincera humildade."
+				}
+			},
+			{
+				"title": {
+					"en-US": "Fourth Salutation",
+					"pt-BR": "Quarta Saudação"
+				},
+				"choir": {
+					"en-US": "To the Fourth Angelic Choir, the Dominations",
+					"pt-BR": "Ao quarto coro dos Anjos, as Dominações"
+				},
+				"text": {
+					"en-US": "At the intercession of St Michael and the heavenly choir of the Dominations, may it please God to grant us grace to have dominion over our senses, and to correct our depraved passions. Amen.",
+					"pt-BR": "Saudamos o quarto coro dos Anjos, pedindo pela intercessão de São Miguel Arcanjo e do coro celeste das Dominações, para que o Senhor nos conceda a graça de dominar nossos sentidos e de nos corrigir das nossas más paixões."
+				}
+			},
+			{
+				"title": {
+					"en-US": "Fifth Salutation",
+					"pt-BR": "Quinta Saudação"
+				},
+				"choir": {
+					"en-US": "To the Fifth Angelic Choir, the Powers",
+					"pt-BR": "Ao quinto coro dos Anjos, as Potestades"
+				},
+				"text": {
+					"en-US": "At the intercession of St Michael and the heavenly choir of the Powers, may God vouchsafe to keep our souls from the wiles and temptations of the devil. Amen.",
+					"pt-BR": "Saudamos o quinto coro dos Anjos, pedindo pela intercessão de São Miguel Arcanjo e do coro celeste das Potestades, para que o Senhor se digne proteger nossas almas contra as ciladas e as tentações do demônio."
+				}
+			},
+			{
+				"title": {
+					"en-US": "Sixth Salutation",
+					"pt-BR": "Sexta Saudação"
+				},
+				"choir": {
+					"en-US": "To the Sixth Angelic Choir, the Virtues",
+					"pt-BR": "Ao sexto coro dos Anjos, as Virtudes"
+				},
+				"text": {
+					"en-US": "At the intercession of St Michael and the choir of the admirable celestial Virtues, may our Lord keep us from falling into temptations and deliver us from evil. Amen.",
+					"pt-BR": "Saudamos o sexto coro dos Anjos, pedindo pela intercessão de São Miguel Arcanjo e do coro admirável das Virtudes, para que o Senhor não nos deixe cair em tentação, mas que nos livre de todo mal."
+				}
+			},
+			{
+				"title": {
+					"en-US": "Seventh Salutation",
+					"pt-BR": "Sétima Saudação"
+				},
+				"choir": {
+					"en-US": "To the Seventh Angelic Choir, the Principalities",
+					"pt-BR": "Ao sétimo coro dos Anjos, os Principados"
+				},
+				"text": {
+					"en-US": "At the intercession of St Michael and the heavenly choir of the Principalities, may it please God to fill our souls with the spirit of true and hearty obedience. Amen.",
+					"pt-BR": "Saudamos o sétimo coro dos Anjos, pedindo pela intercessão de São Miguel Arcanjo e do coro celeste dos Principados, para que o Senhor encha nossas almas do espírito de uma verdadeira e sincera obediência."
+				}
+			},
+			{
+				"title": {
+					"en-US": "Eighth Salutation",
+					"pt-BR": "Oitava Saudação"
+				},
+				"choir": {
+					"en-US": "To the Eighth Angelic Choir, the Archangels",
+					"pt-BR": "Ao oitavo coro dos Anjos, os Arcanjos"
+				},
+				"text": {
+					"en-US": "At the intercession of St Michael and the heavenly choir of Archangels, may it please God to grant us the gift of perseverance in the faith and in all good works, that we may thereby be enabled to attain unto the glory of Paradise. Amen.",
+					"pt-BR": "Saudamos o oitavo coro dos Anjos, pedindo pela intercessão de São Miguel Arcanjo e do coro celeste dos Arcanjos, para que o Senhor nos conceda o dom da perseverança na fé e nas boas obras, a fim de que possamos chegar a possuir a glória eterna do Paraíso."
+				}
+			},
+			{
+				"title": {
+					"en-US": "Ninth Salutation",
+					"pt-BR": "Nona Saudação"
+				},
+				"choir": {
+					"en-US": "To the Ninth Angelic Choir, the Angels",
+					"pt-BR": "Ao nono coro dos Anjos, os Anjos"
+				},
+				"text": {
+					"en-US": "At the intercession of St Michael and the heavenly choir of Angels, may God vouchsafe to grant that the Holy Angels may protect us during life, and after death may lead us into the everlasting glory of heaven. Amen.",
+					"pt-BR": "Saudamos o nono coro dos Anjos, pedindo pela intercessão de São Miguel Arcanjo e do coro celeste de todos os Anjos, para que sejamos por eles guardados nesta vida mortal e conduzidos à glória eterna do Céu."
+				}
+			}
+		]
+	},
+	"sections": [
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross",
+			"lang": "pt-BR"
+		},
+		{
+			"type": "response",
+			"lang": "en-US",
+			"verses": [
+				{
+					"v": {
+						"en-US": "O God, come to my assistance.",
+						"pt-BR": "Ó Deus, vinde em meu auxílio."
+					},
+					"r": {
+						"en-US": "O Lord, make haste to help me.",
+						"pt-BR": "Senhor, socorrei-me e apressai-vos."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"ref": "glory-be",
+			"lang": "en-US"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "repeat",
+			"count": 9,
+			"from": "salutation",
+			"sections": [
+				{
+					"type": "heading",
+					"text": "{{title}}"
+				},
+				{
+					"type": "rubric",
+					"text": "{{choir}}"
+				},
+				{
+					"type": "prayer",
+					"inline": "{{text}}"
+				},
+				{
+					"type": "rubric",
+					"text": {
+						"en-US": "One Our Father and three Hail Marys.",
+						"pt-BR": "Um Pai-Nosso e três Ave-Marias."
+					}
+				},
+				{
+					"type": "prayer",
+					"ref": "our-father"
+				},
+				{
+					"type": "repeat",
+					"count": 3,
+					"sections": [
+						{
+							"type": "prayer",
+							"ref": "hail-mary"
+						}
+					]
+				},
+				{
+					"type": "prayer",
+					"ref": "glory-be",
+					"lang": "pt-BR"
+				},
+				{
+					"type": "divider"
+				}
+			]
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "In Conclusion",
+				"pt-BR": "Conclusão"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Four Our Fathers: the first to St Michael, the second to St Gabriel, the third to St Raphael, the fourth to our Angel Guardian.",
+				"pt-BR": "Quatro Pai-Nossos: o primeiro em honra de São Miguel, o segundo de São Gabriel, o terceiro de São Rafael, o quarto do nosso Anjo da Guarda."
+			}
+		},
+		{
+			"type": "repeat",
+			"count": 4,
+			"sections": [
+				{
+					"type": "prayer",
+					"ref": "our-father"
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Antiphon",
+				"pt-BR": "Antífona"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Michael, glorious Prince, chief and champion of the heavenly host, guardian of the souls of men, conqueror of the rebel angels, who art set over the palace of God, our worthy captain under Jesus Christ, endowed with superhuman excellence and virtue; vouchsafe to free us from every evil, who with full confidence have recourse to thee; and by thy powerful protection enable us to make progress every day in the faithful service of our God.",
+				"pt-BR": "Gloriosíssimo Príncipe São Miguel, chefe e campeão da milícia celeste, guarda das almas dos homens, vencedor dos anjos rebeldes, que estais à frente do palácio de Deus, nosso digno capitão abaixo de Jesus Cristo, dotado de excelência e virtude sobre-humanas: dignai-vos livrar de todo mal a nós, que com plena confiança recorremos a vós, e fazei, com a vossa poderosa proteção, que progridamos cada dia no fiel serviço do nosso Deus."
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "Pray for us, most blessed Michael, Prince of the Church of Jesus Christ.",
+						"pt-BR": "Rogai por nós, ó bem-aventurado São Miguel, Príncipe da Igreja de Jesus Cristo."
+					},
+					"r": {
+						"en-US": "That we may be made worthy of his promises.",
+						"pt-BR": "Para que sejamos dignos das suas promessas."
+					}
+				}
+			]
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Let us pray.",
+				"pt-BR": "Oremos."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Almighty and eternal God, who in thy own marvellous goodness and pity didst, for the common salvation of man, choose the glorious Archangel Michael to be the Prince of thy Church; make us worthy, we pray Thee, to be delivered by his beneficent protection from all our enemies, that at the hour of our death no one of them may approach to harm us, and that by the same Archangel Michael we may be introduced into the presence of thy high and heavenly Majesty. Through the merits of Jesus Christ our Lord. Amen.",
+				"pt-BR": "Deus todo poderoso e eterno, que por um prodígio de bondade e misericórdia para a salvação dos homens escolhestes para príncipe de vossa igreja o gloriosíssimo São Miguel Arcanjo, tornai-nos dignos, nós vos pedimos, de sermos preservados de todos os nossos inimigos, a fim de que na hora da nossa morte nenhum deles nos possa inquietar, e por Ele sejamos introduzidos na presença da vossa Poderosa e Augusta Majestade, pelos merecimentos de Jesus Cristo, Nosso Senhor. Amém."
+			}
+		}
+	]
+}

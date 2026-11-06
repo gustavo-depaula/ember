@@ -10,6 +10,7 @@ import { layoutScore, melodyOf, type Tone } from '@/features/chant/layoutScore'
 import { scoreSvg } from '@/features/chant/scoreSvg'
 import { localizeContent } from '@/lib/i18n'
 import { href, slugOf } from '~/routes'
+import { isPublishedChant } from './catalog'
 import { bootCorpus } from './corpus'
 import { type Locale, withLocale } from './locale'
 
@@ -43,9 +44,12 @@ function link(id: string, locale: Locale): ChantLink {
   return { id, name, subtitle, mode: romanMode(mode), href: href.chant(locale, id) }
 }
 
+// The books whose every chant the site publishes (`isPublishedChant`).
 async function books(): Promise<ChantBook[]> {
   await bootCorpus()
-  return loadChantBooks()
+  return (await loadChantBooks()).filter((book) =>
+    book.sections.every((s) => s.chants.every(isPublishedChant)),
+  )
 }
 
 /** Every chant book, with its sections and the page of each chant. */

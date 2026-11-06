@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on the Politics",
-    "la": "Sententia super Politicam"
+    "la": "Sententia super Politicam",
+    "pt-BR": "Comentário à Política"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's commentary on Aristotle's *Politics* — on the household, the city, regimes and constitutions, slavery, citizenship, and the best forms of rule. Unfinished — Aquinas covered Books I–III; Peter of Auvergne completed the remainder.",
-    "la": "Expositio *Politicorum* Aristotelis — de domo, civitate, regiminibus, constitutionibus, servitute, civilitate, et optimis regiminis formis. Opus inchoatum — Thomas Libros I–III tractavit; Petrus Alvernius cetera complevit."
+    "la": "Expositio *Politicorum* Aristotelis — de domo, civitate, regiminibus, constitutionibus, servitute, civilitate, et optimis regiminis formis. Opus inchoatum — Thomas Libros I–III tractavit; Petrus Alvernius cetera complevit.",
+    "pt-BR": "Comentário de Santo Tomás à *Política* de Aristóteles — sobre a casa, a cidade, os regimes e as constituições, a escravidão, a cidadania e as melhores formas de governo. Obra inacabada — Santo Tomás comentou os livros I–III; Pedro de Alvérnia completou o restante."
   },
   "composed": "1269–1272",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -34,15 +38,17 @@
     {
       "id": "g1",
       "title": {
-        "en-US": "Book 1 — Prologue",
-        "la": "Liber 1"
+        "en-US": "Prologue",
+        "la": "Prooemium",
+        "pt-BR": "Proêmio"
       },
       "children": [
         {
           "id": "g1-pr",
           "title": {
             "en-US": "Prologue — Prologue",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo"
           }
         }
       ]
@@ -50,85 +56,97 @@
     {
       "id": "g2",
       "title": {
-        "en-US": "Book 2",
-        "la": "Liber 2"
+        "en-US": "Book 1",
+        "la": "Liber 1",
+        "pt-BR": "Livro 1"
       },
       "children": [
         {
           "id": "g2-pr",
           "title": {
             "en-US": "Prologue",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo"
           }
         },
         {
           "id": "g2-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g2-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g2-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g2-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g2-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g2-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g2-c008",
           "title": {
             "en-US": "Lecture 8",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         },
         {
           "id": "g2-c009",
           "title": {
             "en-US": "Lecture 9",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9"
           }
         },
         {
           "id": "g2-c010",
           "title": {
             "en-US": "Lecture 10",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10"
           }
         },
         {
           "id": "g2-c011",
           "title": {
             "en-US": "Lecture 11",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11"
           }
         }
       ]
@@ -136,127 +154,145 @@
     {
       "id": "g3",
       "title": {
-        "en-US": "Book 3",
-        "la": "Liber 3"
+        "en-US": "Book 2",
+        "la": "Liber 2",
+        "pt-BR": "Livro 2"
       },
       "children": [
         {
           "id": "g3-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g3-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g3-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g3-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g3-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g3-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g3-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g3-c008",
           "title": {
             "en-US": "Lecture 8",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         },
         {
           "id": "g3-c009",
           "title": {
             "en-US": "Lecture 9",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9"
           }
         },
         {
           "id": "g3-c010",
           "title": {
             "en-US": "Lecture 10",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10"
           }
         },
         {
           "id": "g3-c011",
           "title": {
             "en-US": "Lecture 11",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11"
           }
         },
         {
           "id": "g3-c012",
           "title": {
             "en-US": "Lecture 12",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12"
           }
         },
         {
           "id": "g3-c013",
           "title": {
             "en-US": "Lecture 13",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13"
           }
         },
         {
           "id": "g3-c014",
           "title": {
             "en-US": "Lecture 14",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14"
           }
         },
         {
           "id": "g3-c015",
           "title": {
             "en-US": "Lecture 15",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15"
           }
         },
         {
           "id": "g3-c016",
           "title": {
             "en-US": "Lecture 16",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16"
           }
         },
         {
           "id": "g3-c017",
           "title": {
             "en-US": "Lecture 17",
-            "la": "Lectio 17"
+            "la": "Lectio 17",
+            "pt-BR": "Lição 17"
           }
         }
       ]
@@ -264,50 +300,57 @@
     {
       "id": "g4",
       "title": {
-        "en-US": "Book 4",
-        "la": "Liber 4"
+        "en-US": "Book 3",
+        "la": "Liber 3",
+        "pt-BR": "Livro 3"
       },
       "children": [
         {
           "id": "g4-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g4-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g4-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g4-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g4-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g4-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         }
       ]
@@ -315,78 +358,539 @@
     {
       "id": "g5",
       "title": {
-        "en-US": "Book 5 — Continuation of Peter of Auvergne",
-        "la": "Liber 5"
+        "en-US": "Book 3 — Continuation of Peter of Auvergne",
+        "la": "Liber 3",
+        "pt-BR": "Livro 3 — Continuação de Pedro de Alvérnia"
       },
       "children": [
         {
           "id": "g5-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g5-c008",
           "title": {
             "en-US": "Lecture 8 — Utrum unum an plures dominari conveniat; et si plures, num optimates, an divites, an multitudo.",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Se convém que domine um só ou muitos; e, se muitos, se os melhores, os ricos ou a multidão."
           }
         },
         {
           "id": "g5-c009",
           "title": {
             "en-US": "Lecture 9 — Multitudini committendam esse electionem magistratuum et administratarum rerum examen; magistratus autem legibus obtemperare debere, et solum in his quae lex cavere non valuit arbitrium habere.",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — Deve-se confiar à multidão a eleição dos magistrados e o exame da administração; os magistrados, porém, devem obedecer às leis e só ter arbítrio naquilo que a lei não pôde prever."
           }
         },
         {
           "id": "g5-c010",
           "title": {
             "en-US": "Lecture 10 — Magistratus non esse distribuendos secundum excessum cuiuslibet boni.",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — As magistraturas não devem ser distribuídas segundo a superioridade em qualquer bem."
           }
         },
         {
           "id": "g5-c011",
           "title": {
             "en-US": "Lecture 11 — Utrum nobilibus, an opulentis, an virtute praeditis, an potentioribus, attribuendi sint magistratus.",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — Se as magistraturas devem ser atribuídas aos nobres, aos opulentos, aos dotados de virtude ou aos mais poderosos."
           }
         },
         {
           "id": "g5-c012",
           "title": {
             "en-US": "Lecture 12 — Post longam discussionem concludit excellentem probitate virum ceteris praeferendum, cum natura talis sit cui debeant omnes subesse.",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — Após longa discussão, conclui que o homem de excelente probidade deve ser preferido aos demais, pois é tal por natureza que todos lhe devem estar sujeitos."
           }
         },
         {
           "id": "g5-c013",
           "title": {
             "en-US": "Lecture 13 — Quinque regum species proponit et de qua disputaturus sit eligit.",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — Propõe cinco espécies de reis e escolhe aquela sobre a qual vai discutir."
           }
         },
         {
           "id": "g5-c014",
           "title": {
             "en-US": "Lecture 14 — Utrum a legibus an ab optimo rege melius sit civitatem gubernari; et de eius successione et custodia.",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14 — Se é melhor que a cidade seja governada pelas leis ou pelo melhor rei; e da sucessão e da guarda deste."
           }
         },
         {
           "id": "g5-c015",
           "title": {
             "en-US": "Lecture 15 — Obiectiones continet quae adversus regiam potestatem adduci possunt.",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15 — Contém as objeções que se podem aduzir contra o poder régio."
           }
         },
         {
           "id": "g5-c016",
           "title": {
             "en-US": "Lecture 16 — Declarat quibus civitatibus regem creare conveniat, et quibus optimatum administrationem.",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16 — Declara a que cidades convém instituir um rei e a quais o governo dos melhores."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": {
+        "en-US": "Book 4 — Continuation of Peter of Auvergne",
+        "la": "Liber 4",
+        "pt-BR": "Livro 4 — Continuação de Pedro de Alvérnia"
+      },
+      "children": [
+        {
+          "id": "p4-l01",
+          "title": {
+            "en-US": "Lecture 1 — Quod ad virum politicum pertineat scire quae sit respublica prorsus optima, quae ut secunda ab ea; et cum multae sint species rerumpublicarum, omnes omnibus non convenire; deinde commemorat quid dixerit, quidve dicendum sit, proponit.",
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Que pertence ao homem político saber qual é a república absolutamente ótima e qual vem como segunda depois dela; e que, sendo muitas as espécies de repúblicas, nem todas convêm a todos; depois recorda o que disse e propõe o que se há de dizer."
+          }
+        },
+        {
+          "id": "p4-l02",
+          "title": {
+            "en-US": "Lecture 2 — Causa investigatur ut plures sint species rerumpublicarum; reiciturque illa divisio quae per multos et paucos fiebat a quibusdam.",
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Investiga-se a causa de haver várias espécies de repúblicas; e rejeita-se aquela divisão que alguns faziam por muitos e poucos."
+          }
+        },
+        {
+          "id": "p4-l03",
+          "title": {
+            "en-US": "Lecture 3 — Ex quibus partibus hoc est personis respublicae constent: et quae partes necessariae sint, quaeve adiunctae: quaeque sibi cohaerere possint, et quae non.",
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — De que partes, isto é, de que pessoas, constam as repúblicas; quais partes são necessárias e quais acrescentadas; e quais podem coexistir entre si e quais não."
+          }
+        },
+        {
+          "id": "p4-l04",
+          "title": {
+            "en-US": "Lecture 4 — Popularis administrationis quinque modi enumerantur, et paucorum status quatuor: quorum ultimi non legibus sed decretis regnant, persimiles sunt tyranno.",
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Enumeram-se cinco modos de administração popular e quatro do estado de poucos; os últimos de ambos, que reinam não pelas leis, mas por decretos, são muito semelhantes ao tirano."
+          }
+        },
+        {
+          "id": "p4-l05",
+          "title": {
+            "en-US": "Lecture 5 — Comprobat singulas quasque species popularis administrationis, et paucorum, superius enumeratas.",
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Comprova cada uma das espécies de administração popular e de poucos acima enumeradas."
+          }
+        },
+        {
+          "id": "p4-l06",
+          "title": {
+            "en-US": "Lecture 6 — De optimatum administratione, et eius variis speciebus, quae ex commixtione virtutis ad divitias et multitudinem insurgunt.",
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — Da administração dos melhores e das suas várias espécies, que surgem da mistura da virtude com as riquezas e com a multidão."
+          }
+        },
+        {
+          "id": "p4-l07",
+          "title": {
+            "en-US": "Lecture 7 — De eo civitatis statu qui communi nomine respublica dicitur, a ceteris tamen discreto, in quo et virtus et libertas et divitiae suum locum habent.",
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Daquele estado da cidade que com o nome comum se chama república, distinto, porém, dos demais, em que a virtude, a liberdade e as riquezas têm o seu lugar."
+          }
+        },
+        {
+          "id": "p4-l08",
+          "title": {
+            "en-US": "Lecture 8 — Quo pacto supradicta reipublicae species contemperari debeat, ita ut et multitudinis et paucorum statum participet, neutrum tamen exquisite habeat.",
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — De que modo se deve temperar a mencionada espécie de regime, de maneira que participe do estado da multidão e do de poucos, sem, no entanto, ter nenhum dos dois em estado puro."
+          }
+        },
+        {
+          "id": "p4-l09",
+          "title": {
+            "en-US": "Lecture 9 — De tyrannide et eius speciebus tribus; quaeve tyrannis maxime opponatur regiae gubernationi.",
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — Da tirania e das suas três espécies; e qual tirania se opõe maximamente ao governo régio."
+          }
+        },
+        {
+          "id": "p4-l10",
+          "title": {
+            "en-US": "Lecture 10 — Civitatem quae mediocres cives habet, id est neque nimium divites, neque nimium pauperes, optimam esse, securiorem, diuturniorem, minimeque seditiosam.",
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — A cidade que tem cidadãos medianos, isto é, nem demasiado ricos nem demasiado pobres, é a melhor, a mais segura, a mais duradoura e a menos sujeita a sedições."
+          }
+        },
+        {
+          "id": "p4-l11",
+          "title": {
+            "en-US": "Lecture 11 — De conservatione optimae reipublicae; deque cautione ne labatur aut ad multitudinis gubernationem, aut ad paucorum potentiam.",
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — Da conservação do melhor regime; e da precaução para que não decline nem para o governo da multidão nem para o poder de poucos."
+          }
+        },
+        {
+          "id": "p4-l12",
+          "title": {
+            "en-US": "Lecture 12 — De quibus consulationes in civitatibus fieri soleant; deque ipsarum varietate pro cuiusque civitatis administratione.",
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — Das matérias sobre que se costumam fazer as deliberações nas cidades; e da variedade delas segundo a administração de cada cidade."
+          }
+        },
+        {
+          "id": "p4-l13",
+          "title": {
+            "en-US": "Lecture 13 — De magistratuum numero, auctoritate, et diuturnitate consideratio habetur; et quando uni an pluribus demandandi sit.",
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — Considera-se o número, a autoridade e a duração das magistraturas; e quando devem ser confiadas a um só ou a vários."
+          }
+        },
+        {
+          "id": "p4-l14",
+          "title": {
+            "en-US": "Lecture 14 — Tria esse in magistratibus creandis animadvertenda: qui constituantur; a quibus eligantur, et quo creentur, sorte an electione, ab omnibus aut a paucis.",
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14 — Três coisas se devem atender na criação dos magistrados: quais se constituem; por quem são eleitos; e como são criados, por sorteio ou por eleição, por todos ou por poucos."
+          }
+        },
+        {
+          "id": "p4-l15",
+          "title": {
+            "en-US": "Lecture 15 — Quod iudiciorum species sint, et quomodo purgandi, et a quibus.",
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15 — Quais são as espécies de juízos, e como se há de purgar, e por quem."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p5",
+      "title": {
+        "en-US": "Book 5 — Continuation of Peter of Auvergne",
+        "la": "Liber 5",
+        "pt-BR": "Livro 5 — Continuação de Pedro de Alvérnia"
+      },
+      "children": [
+        {
+          "id": "p5-l01",
+          "title": {
+            "en-US": "Lecture 1 — Quod ad virum politicum pertineat scire quae sit respublica prorsus optima, quae ut secunda ab ea; et cum multae sint species rerumpublicarum, omnes omnibus non convenire; deinde commemorat quid dixerit, quidve dicendum sit, proponit.",
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Que cabe ao homem político saber qual é a república absolutamente ótima e qual vem como segunda depois dela; e que, sendo muitas as espécies de repúblicas, nem todas convêm a todos; depois recorda o que disse e propõe o que se há de dizer."
+          }
+        },
+        {
+          "id": "p5-l02",
+          "title": {
+            "en-US": "Lecture 2 — Causa investigatur ut plures sint species rerumpublicarum; reiciturque illa divisio quae per multos et paucos fiebat a quibusdam.",
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Investiga-se a causa de haver muitas espécies de repúblicas; e rejeita-se a divisão que alguns faziam por muitos e poucos."
+          }
+        },
+        {
+          "id": "p5-l03",
+          "title": {
+            "en-US": "Lecture 3 — Ex quibus partibus hoc est personis respubicae constent: et quae partes necessariae sint, quaeve adiunctae: quaeque sibi cohaerere possint, et quae non.",
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — De que partes, isto é, pessoas, constam as repúblicas; e quais partes são necessárias e quais acrescentadas; e quais podem estar unidas entre si e quais não."
+          }
+        },
+        {
+          "id": "p5-l04",
+          "title": {
+            "en-US": "Lecture 4 — Quomodo status popularis labatur ad tyrannidem, et cur minus nunc quam prius.",
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Como o estado popular resvala para a tirania, e por que menos agora do que antes."
+          }
+        },
+        {
+          "id": "p5-l05",
+          "title": {
+            "en-US": "Lecture 5 — De immutatione status paucorum vel in se ipsum, vel ad statum multitudinis vel in tyrannidem.",
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Da mudança do estado de poucos, ou em si mesmo, ou para o estado da multidão, ou em tirania."
+          }
+        },
+        {
+          "id": "p5-l06",
+          "title": {
+            "en-US": "Lecture 6 — De lapsu status optimatum in popularem, et reipublicae ad statum paucorum.",
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — Da queda do estado dos melhores no popular, e da república no estado de poucos."
+          }
+        },
+        {
+          "id": "p5-l07",
+          "title": {
+            "en-US": "Lecture 7 — De conversatione status popularis, paucorum, optimatum et reipublicae.",
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Da conservação do estado popular, do dos poucos, do dos melhores e da república."
+          }
+        },
+        {
+          "id": "p5-l08",
+          "title": {
+            "en-US": "Lecture 8 — Regni et tyrannidis origo.",
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Origem do reino e da tirania."
+          }
+        },
+        {
+          "id": "p5-l09",
+          "title": {
+            "en-US": "Lecture 9 — Quibus ex causis tyrannides et regna dissolvantur.",
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — Por que causas se dissolvem as tiranias e os reinos."
+          }
+        },
+        {
+          "id": "p5-l10",
+          "title": {
+            "en-US": "Lecture 10 — Honor, odium et contemptus tyrannidem evertit; regnum domestica seditio.",
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — A honra, o ódio e o desprezo derrubam a tirania; o reino, a sedição doméstica."
+          }
+        },
+        {
+          "id": "p5-l11",
+          "title": {
+            "en-US": "Lecture 11 — Primus modus conversandi tyrannidem per incrementum administrationis tyrannicae.",
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — Primeiro modo de conservar a tirania: pelo aumento da administração tirânica."
+          }
+        },
+        {
+          "id": "p5-l12",
+          "title": {
+            "en-US": "Lecture 12 — Secundus modus conservandae tyrannidis per appropinquationem ad regnum.",
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — Segundo modo de conservar a tirania: pela aproximação ao reino."
+          }
+        },
+        {
+          "id": "p5-l13",
+          "title": {
+            "en-US": "Lecture 13 — Discussio de interitu rerumpublicarum a Platone in actavo de Republica assignato.",
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — Discussão sobre a ruína dos regimes assinalada por Platão no oitavo livro da República."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p6",
+      "title": {
+        "en-US": "Book 6 — Continuation of Peter of Auvergne",
+        "la": "Liber 6",
+        "pt-BR": "Livro 6 — Continuação de Pedro de Alvérnia"
+      },
+      "children": [
+        {
+          "id": "p6-l01",
+          "title": {
+            "en-US": "Lecture 1 — Popularis status varietas non solum pendet a diversitate operationum, sed etiam ab institutis in eundem finem minus tendentibus.",
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A variedade do regime popular depende não só da diversidade das operações, mas também das instituições que tendem menos para o mesmo fim."
+          }
+        },
+        {
+          "id": "p6-l02",
+          "title": {
+            "en-US": "Lecture 2 — De fine popularis status, et aliis quibusdam in ipsum tendibus.",
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Do fim do regime popular e de outras coisas que tendem a ele."
+          }
+        },
+        {
+          "id": "p6-l03",
+          "title": {
+            "en-US": "Lecture 3 — Quomodo in populari statu quippiam iuste decernatur.",
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Como no regime popular se decide algo com justiça."
+          }
+        },
+        {
+          "id": "p6-l04",
+          "title": {
+            "en-US": "Lecture 4 — Quibus institutis optimus popularis status conservetur.",
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Com que instituições se conserva o melhor regime popular."
+          }
+        },
+        {
+          "id": "p6-l05",
+          "title": {
+            "en-US": "Lecture 5 — Quo pacto sit administrandus popularis status qui omnes indifferenter admittit.",
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — De que modo se deve administrar o regime popular que admite a todos indiferentemente."
+          }
+        },
+        {
+          "id": "p6-l06",
+          "title": {
+            "en-US": "Lecture 6 — Paucorum status administrationem continet.",
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — Contém a administração do regime dos poucos."
+          }
+        },
+        {
+          "id": "p6-l07",
+          "title": {
+            "en-US": "Lecture 7 — De magistratibus a quibus civitates administrandae sunt.",
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Das magistraturas pelas quais se devem administrar as cidades."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p7",
+      "title": {
+        "en-US": "Book 7 — Continuation of Peter of Auvergne",
+        "la": "Liber 7",
+        "pt-BR": "Livro 7 — Continuação de Pedro de Alvérnia"
+      },
+      "children": [
+        {
+          "id": "p7-l01",
+          "title": {
+            "en-US": "Lecture 1 — Quod optima vita, et privatim unicuique, et publice civitatibus, est ad virtutem vivere, reliquis bonis ad id adiuvantibus.",
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Que a melhor vida, tanto em particular para cada um como publicamente para as cidades, é viver segundo a virtude, com a ajuda dos demais bens."
+          }
+        },
+        {
+          "id": "p7-l02",
+          "title": {
+            "en-US": "Lecture 2 — De felicitate cuiusque et civitatis, deque vita contemplativa, activa et dominante.",
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Da felicidade de cada um e da cidade, e da vida contemplativa, ativa e dominadora."
+          }
+        },
+        {
+          "id": "p7-l03",
+          "title": {
+            "en-US": "Lecture 3 — Quod tanta debeat esse in civitate multitudo, ut sibi satis sit ad vitam optime degendam.",
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Que deve haver na cidade uma multidão tal que lhe baste para levar a vida da melhor maneira."
+          }
+        },
+        {
+          "id": "p7-l04",
+          "title": {
+            "en-US": "Lecture 4 — De modo agri, urbis situ, nundinatione et nautica turba.",
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Da medida do campo, da situação da cidade, do comércio e da turba marinheira."
+          }
+        },
+        {
+          "id": "p7-l05",
+          "title": {
+            "en-US": "Lecture 5 — Quales esse debeant qui civitatem incolunt et regunt.",
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Quais devem ser os que habitam e regem a cidade."
+          }
+        },
+        {
+          "id": "p7-l06",
+          "title": {
+            "en-US": "Lecture 6 — Sex esse sine quibus civitas consistere non potest.",
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — Seis coisas sem as quais a cidade não pode subsistir."
+          }
+        },
+        {
+          "id": "p7-l07",
+          "title": {
+            "en-US": "Lecture 7 — Quinam in optima civitate habendi sint pars civitatis.",
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Quais, na melhor cidade, devem ser tidos por parte da cidade."
+          }
+        },
+        {
+          "id": "p7-l08",
+          "title": {
+            "en-US": "Lecture 8 — Qualis agri totius facienda sit partitio.",
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Que partilha se deve fazer de todo o campo."
+          }
+        },
+        {
+          "id": "p7-l09",
+          "title": {
+            "en-US": "Lecture 9 — Quo in loco sit urbs extruenda, et quo pacto.",
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — Em que lugar e de que modo se deve edificar a urbe."
+          }
+        },
+        {
+          "id": "p7-l10",
+          "title": {
+            "en-US": "Lecture 10 — Quod et eadem et diversa sit, magistratuum et subditorum disciplina.",
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — Que a educação dos magistrados e dos súditos é a mesma e é diversa."
+          }
+        },
+        {
+          "id": "p7-l11",
+          "title": {
+            "en-US": "Lecture 11 — Cum vita otio et negotio constet, oportet leges non minus ad pacem, quam ad bellum cives instruere.",
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — Como a vida consta de ócio e de ocupação, é preciso que as leis instruam os cidadãos não menos para a paz do que para a guerra."
+          }
+        },
+        {
+          "id": "p7-l12",
+          "title": {
+            "en-US": "Lecture 12 — Qua cura corporis alendi sint cives.",
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — Com que cuidado do corpo devem ser criados os cidadãos."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p8",
+      "title": {
+        "en-US": "Book 8 — Continuation of Peter of Auvergne",
+        "la": "Liber 8",
+        "pt-BR": "Livro 8 — Continuação de Pedro de Alvérnia"
+      },
+      "children": [
+        {
+          "id": "p8-l01",
+          "title": {
+            "en-US": "Lecture 1 — Ex utilibus disciplinis ea discenda sunt, quae operantem non reddant vilem.",
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Das disciplinas úteis, devem-se aprender as que não tornam vil quem as pratica."
+          }
+        },
+        {
+          "id": "p8-l02",
+          "title": {
+            "en-US": "Lecture 2 — Num civis musicam addiscere debeat.",
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Se o cidadão deve aprender música."
+          }
+        },
+        {
+          "id": "p8-l03",
+          "title": {
+            "en-US": "Lecture 3 — Quid ex musica ediscendum sit, et quo pacto ea utendum.",
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — O que se deve aprender da música e de que modo se deve usar dela."
           }
         }
       ]
@@ -395,5 +899,12 @@
   "arrived": {
     "en-US": "2026-06-04",
     "la": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
+    }
   }
 }

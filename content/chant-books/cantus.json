@@ -21,6 +21,7 @@
         "chant/alma-redemptoris",
         "chant/ave-regina-caelorum",
         "chant/loquere-domine",
+        "chant/parce-domine",
         "chant/regina-caeli",
         "chant/salve-regina",
         "chant/sub-tuum-praesidium",
@@ -59,6 +60,7 @@
         "chant/jesu-dulcis-memoria",
         "chant/lucis-creator-optime",
         "chant/nunc-sancte-nobis",
+        "chant/o-filii-et-filiae",
         "chant/o-gloriosa-virginum",
         "chant/o-salutaris-hostia",
         "chant/o-sol-salutis-intimis",
@@ -80,6 +82,8 @@
         "chant/te-lucis-ante-terminum",
         "chant/te-splendor-et-virtus",
         "chant/ut-queant-laxis",
+        "chant/veni-creator-spiritus",
+        "chant/veni-veni-emmanuel",
         "chant/verbum-supernum-prodiens-nec"
       ]
     },
@@ -91,6 +95,7 @@
       },
       "chants": [
         "chant/dies-irae",
+        "chant/inviolata",
         "chant/lauda-sion",
         "chant/veni-sancte-spiritus-et-emitte",
         "chant/victimae-paschali"
@@ -109,10 +114,16 @@
         "chant/benedictus",
         "chant/benedictus-deus",
         "chant/credo-in-deum",
+        "chant/litaniae-lauretanae",
         "chant/lux-aeterna",
         "chant/magnificat",
         "chant/memorare",
-        "chant/sancte-michael-archangele"
+        "chant/oremus-pro-pontifice",
+        "chant/pater-noster",
+        "chant/rorate-caeli-desuper",
+        "chant/salve-mater-misericordiae",
+        "chant/sancte-michael-archangele",
+        "chant/subvenite"
       ]
     }
   ]

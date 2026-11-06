@@ -10,6 +10,7 @@ import { getEntriesByKind, isMetaId } from '@/content/contentIndex'
 import { getAllManifests, isAlternateForm } from '@/content/resolver'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { loadChant, ScoreView } from '@/features/chant'
+import { leafPalette, leafPaper } from '@/features/chant/leaf'
 import { artFor } from '@/features/explore/artMap'
 import { BookFan, Door, Fanned, ImageFan } from '@/features/explore/Door'
 
@@ -119,8 +120,6 @@ function ArtFan({ ids }: { ids: string[] }) {
 // Three leaves of the Kyriale, fanned as the other doors fan their art. A leaf
 // is parchment and ink in either theme, as a painting keeps its own colours.
 const chantLeaves = ['chant/kyrie-xi', 'chant/sanctus-xi', 'chant/agnus-dei-xi']
-const leafPalette = { ink: '#2B2118', rubric: '#8C1D2B' }
-
 function LeafFan() {
   return chantLeaves.map((id, i) => (
     <Fanned key={id} index={i}>
@@ -142,7 +141,7 @@ function Leaf({ id }: { id: string }) {
       height={96}
       borderRadius={8}
       overflow="hidden"
-      backgroundColor="#EFE4CB"
+      backgroundColor={leafPaper}
       paddingLeft={6}
       paddingTop={2}
     >

@@ -62,6 +62,14 @@
 				{
 					"kind": "item",
 					"ref": "practice/fatima-prayer"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-mary-help-of-christians"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/thirty-days-prayer"
 				}
 			]
 		},
@@ -100,6 +108,10 @@
 				{
 					"kind": "item",
 					"ref": "practice/rosary"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/franciscan-crown"
 				},
 				{
 					"kind": "item",
@@ -226,6 +238,14 @@
 				{
 					"kind": "item",
 					"ref": "practice/o-gloriosa-virginum"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/inviolata"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/salve-mater-misericordiae"
 				}
 			]
 		},
@@ -391,26 +411,6 @@
 					"title": {
 						"en-US": "Brown Scapular: enrollment, Promise, Sabbatine Privilege",
 						"pt-BR": "Escapulário do Carmo: imposição, Promessa, Privilégio Sabatino"
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Franciscan Crown / Seraphic Rosary",
-						"pt-BR": "Coroa Franciscana / Rosário Seráfico"
-					},
-					"notes": {
-						"en-US": "Seven Joys of Mary in seven decades.",
-						"pt-BR": "Sete Alegrias de Maria em sete dezenas."
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Fifteen Prayers of St. Bridget of Sweden",
-						"pt-BR": "Quinze Orações de Santa Brígida da Suécia"
 					},
 					"proposedKind": "practice"
 				},

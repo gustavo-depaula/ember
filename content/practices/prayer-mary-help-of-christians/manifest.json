@@ -1,0 +1,59 @@
+{
+	"id": "prayer-mary-help-of-christians",
+	"form": "prayer",
+	"icon": "mary",
+	"name": {
+		"en-US": "Prayer to Mary, Help of Christians",
+		"pt-BR": "Oração a Nossa Senhora Auxiliadora",
+		"it": "O Maria, Vergine potente"
+	},
+	"categories": [
+		"marian"
+	],
+	"estimatedMinutes": 1,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"description": {
+		"en-US": "St. John Bosco's prayer to Mary, Help of Christians: the powerful Virgin, defender of the Church, asked to guard us in every struggle and to receive our soul at the hour of death.",
+		"pt-BR": "A oração de São João Bosco a Maria Auxiliadora: a Virgem poderosa, defensora da Igreja, a quem se pede proteção em toda luta e que acolha a nossa alma na hora da morte."
+	},
+	"history": {
+		"en-US": "The title *Auxilium Christianorum* is old, but the feast of Mary, Help of Christians on 24 May was instituted by Pius VII in 1815, in thanksgiving for his return to Rome from Napoleon's captivity. St. John Bosco (1815–1888) made her the patroness of his work, built her basilica in Turin (1868), and named his sisters the Daughters of Mary Help of Christians. This short prayer is attributed to him and is prayed throughout the Salesian Family, especially in the novena before her feast.",
+		"pt-BR": "O título *Auxilium Christianorum* é antigo, mas a festa de Maria Auxiliadora em 24 de maio foi instituída por Pio VII em 1815, em ação de graças pelo seu retorno a Roma após o cativeiro sob Napoleão. São João Bosco (1815–1888) fez dela a padroeira da sua obra, construiu a sua basílica em Turim (1868) e deu às suas irmãs o nome de Filhas de Maria Auxiliadora. Esta breve oração é atribuída a ele e é rezada em toda a Família Salesiana, sobretudo na novena antes da sua festa."
+	},
+	"source": {
+		"en-US": "ADMA / Salesians of Don Bosco, *\"O Mary, Powerful Virgin\": Novena in preparation for the Feast of Mary Help of Christians* (2021) — [archive.sdb.org](https://archive.sdb.org/Documenti/Santita/preghiere/pdf/Novena_MA_2021_en.pdf). Italian: same novena — [archive.sdb.org](https://archive.sdb.org/Documenti/Santita/preghiere/pdf/Novena_MA_2021_it.pdf)",
+		"pt-BR": "Salesianos do Brasil, *Oração salesiana em tempo de pandemia* (2020), n. 10 — [salesianos.org.br](https://www.salesianos.org.br/wp-content/uploads/2020/04/ORA%C3%87%C3%83O-SALESIANA-EM-TEMPO-DE-PANDEMIA-03.04.220.pdf)"
+	},
+	"tags": [
+		"marian",
+		"help-of-christians",
+		"bosco",
+		"salesian",
+		"protection"
+	],
+	"defaults": {
+		"sortOrder": 525,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "O Mary, powerful Virgin,\nYou great illustrious garrison of the Church;\nYou the marvelous help of Christians;\nYou terrible as an army arrayed in battle;\nYou alone have destroyed every heresy\nthroughout the world;\nYou in distress, in strife, in hardship\ndefend us from the enemy and at the hour of death\nreceive our soul in Paradise!\nAmen",
+					"pt-BR": "Ó Maria, Virgem poderosa; Tu grande e ilustre defensora da Igreja. Tu, auxílio maravilhoso dos cristãos. Tu, terrível como exército ordenado em batalha. Tu, que só destruíste toda heresia em todo o mundo: nas nossas angústias, nas nossas lutas, nas nossas aflições, defende-nos do inimigo; e na hora da morte, acolhe a nossa alma no paraíso. Amém.",
+					"it": "O Maria, Vergine potente,\nTu grande illustre presidio della Chiesa;\nTu aiuto meraviglioso dei Cristiani;\nTu terribile come esercito schierato a battaglia;\nTu sola hai distrutto ogni eresia in tutto il mondo;\nTu nelle angustie, nelle lotte, nelle strettezze\ndifendici dal nemico e nell’ora della morte\naccogli l’anima nostra in Paradiso!\nAmen"
+				}
+			}
+		]
+	}
+}

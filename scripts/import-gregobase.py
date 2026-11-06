@@ -523,6 +523,26 @@ def link_into_propers(books, genres, pieces, book_name, offline):
 PRAYER_BOOKS = ['3', '2', '48', '10', '5', '66', '15', '7']
 # A prayer and a score are the same text only when nearly all of each is in the other.
 PRAYER_THRESHOLD = 0.95
+# Prayers whose chant the text match can't find, set by hand: practice → (GregoBase id,
+# the start of the Latin the score sets, or None for the score in the book but not the prayer).
+PRAYER_SETTINGS = {
+    # The practice's verses read a little differently from the Liber Usualis's.
+    'veni-creator-spiritus': ('2923', 'Veni, Creator'),
+    # The Missal's Pater noster opens with the priest's "Praeceptis salutaribus"; the Liber cantualis's is the prayer alone.
+    'our-father': ('3326', 'Pater noster'),
+    'rorate-caeli': ('2719', 'Rorate'),
+    # The responsory shares its section with the "Ego sum" before it.
+    'responsory-subvenite': ('1152', 'Ego sum'),
+    # This setting reads "N." where the Liber Usualis's transcription names a pope.
+    'prayer-pope-bishop': ('18296', 'Orémus pro beatíssimo'),
+    # A litany is dozens of sections, and a chant sets only the one before it.
+    'litany-loreto': ('15767', None),
+    # The prayer prints fewer stanzas than the book sets, or writes out a refrain the book prints once.
+    'o-filii-et-filiae': ('3031', 'Alleluia, alleluia'),
+    'parce-domine': ('3038', 'Parce, Dómine'),
+    'salve-mater-misericordiae': ('12111', 'Salve mater'),
+    'veni-veni-emmanuel': ('7426', 'Veni, veni'),
+}
 PRAYER_BOOK = {
     'id': 'chant-book/cantus',
     'name': {'en-US': 'Hymns and antiphons', 'pt-BR': 'Hinos e antífonas'},
@@ -638,12 +658,20 @@ def write_prayers(offline=False):
         flow = json.loads(flow_path.read_text(encoding='utf-8')) if flow_path.exists() else manifest.get('flow')
         blocks = []
         latin_blocks(flow, blocks)
-        # One Latin text, or a prayer with its versicle and collect. A whole office is not a prayer.
-        if not blocks or len(blocks) > 3:
-            continue
-        found = finder.settings(genres, chant_link.fold(blocks[0]), PRAYER_THRESHOLD)
-        if not found:
-            continue
+        if d.name in PRAYER_SETTINGS:
+            chant_at, start = PRAYER_SETTINGS[d.name]
+            block = start and next((b for b in blocks if b.startswith(start)), None)
+            if start and not block:
+                sys.exit(f'{d.name}: no Latin text starts with {start!r}')
+            found = [(1.0, 0, chant_at)]
+        else:
+            # One Latin text, or a prayer with its versicle and collect. A whole office is not a prayer.
+            if not blocks or len(blocks) > 3:
+                continue
+            found = finder.settings(genres, chant_link.fold(blocks[0]), PRAYER_THRESHOLD)
+            if not found:
+                continue
+            block = blocks[0]
         c = chants[found[0][2]]
         name = re.sub(r'\s*\([^)]*\)', '', c['incipit']).replace('...', '').strip()
         name = re.sub(r'\s+(I{1,3}|IV|V)$', '', name)
@@ -677,10 +705,12 @@ def write_prayers(offline=False):
             section = next((key for key, kinds, _ in PRAYER_SECTIONS if c['office-part'] in kinds), 'other')
             by_section[section].append((name, f'chant/{chant_id}'))
         ref = f'chant/{chant_id}'
-        if flow_path.exists():
-            done = place_chant(flow_path, lambda text: 0, blocks[0], ref)
+        if not block:
+            done = False
+        elif flow_path.exists():
+            done = place_chant(flow_path, lambda text: 0, block, ref)
         else:
-            done = place_chant(manifest_path, lambda text: text.index('"flow"'), blocks[0], ref)
+            done = place_chant(manifest_path, lambda text: text.index('"flow"'), block, ref)
         placed.append((d.name, ref, round(found[0][0], 2), len(found), done))
 
     book = dict(PRAYER_BOOK)

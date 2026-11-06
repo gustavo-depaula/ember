@@ -1,0 +1,46 @@
+{
+	"id": "christus-vincit",
+	"prayedIn": "la",
+	"form": "prayer",
+	"icon": "cross",
+	"name": {
+		"en-US": "Christus vincit",
+		"pt-BR": "Christus vincit",
+		"la": "Christus vincit"
+	},
+	"categories": [
+		"devotion"
+	],
+	"estimatedMinutes": 5,
+	"description": {
+		"en-US": "*Christ conquers, Christ reigns, Christ commands* — the royal acclamations, hailing Christ the King and calling on the saints for the Church, the Pope, the bishop and the people.",
+		"pt-BR": "*Cristo vence, Cristo reina, Cristo impera* — as aclamações régias, que saúdam Cristo Rei e invocam os santos pela Igreja, pelo Papa, pelo bispo e pelo povo."
+	},
+	"history": {
+		"en-US": "The Laudes Regiae go back to the Frankish court of the eighth century, where they acclaimed the Pope and the king; in later centuries they were sung at papal and episcopal Masses, at coronations and after Benediction.",
+		"pt-BR": "As Laudes Regiae remontam à corte franca do século VIII, onde aclamavam o Papa e o rei; nos séculos seguintes foram cantadas nas Missas papais e episcopais, nas coroações e depois da Bênção do Santíssimo."
+	},
+	"source": {
+		"en-US": "Latin and English: *The Parish Book of Chant* (Church Music Association of America, 2nd ed., 2012), pp. 93–98, after the Solesmes *Cantus selecti* (1957), pp. 264*–269* — [musicasacra.com](https://media.musicasacra.com/pdf/pbc-web.pdf)",
+		"pt-BR": "Latim e inglês: *The Parish Book of Chant* (Church Music Association of America, 2.ª ed., 2012), pp. 93–98, segundo o *Cantus selecti* de Solesmes (1957), pp. 264*–269* — [musicasacra.com](https://media.musicasacra.com/pdf/pbc-web.pdf) · O português foi traduzido do latim para este aplicativo."
+	},
+	"tags": [
+		"hymn",
+		"christ-the-king"
+	],
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"defaults": {
+		"sortOrder": 543,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

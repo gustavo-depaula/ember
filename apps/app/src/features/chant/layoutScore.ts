@@ -34,11 +34,25 @@ export type ScoreMark =
   | { type: 'stroke'; d: string; weight: number }
   | ScoreText
 
+/**
+ * A note of the melody on its line, and the ink that draws it: `tone` is its
+ * place in `melodyOf`, `mark` the glyph among the line's marks, and `band`,
+ * for a note drawn by a stroke of several (a porrectus), the stretch of the
+ * staff that is this note's end of it.
+ */
+export type ScoreNote = {
+  tone: number
+  mark?: number
+  band?: { top: number; bottom: number }
+}
+
 export type ScoreLine = {
   /** Top of the line's box, in its own coordinates: marks sit at y ≥ top. */
   top: number
   height: number
   marks: ScoreMark[]
+  /** The notes the line draws, each with its place in the melody — what a player lights as it sounds. */
+  notes: ScoreNote[]
   /** The glyphs this line draws, for a renderer that defines them per line. */
   glyphs: string[]
 }
@@ -112,6 +126,8 @@ type Context = {
   textStyles: Record<string, { size: number }>
   makeDefs: Array<{ makeSvgTree: () => Tree }>
   glyphScaling: number
+  staffInterval: number
+  calculateHeightFromStaffPosition: (position: number) => number
   setRubricColor: (color: string) => void
   setFont: (family: string, size: number, baseStyle: object, fonts: object) => void
   setGlyphScaling: (scaling: number) => void
@@ -119,12 +135,24 @@ type Context = {
 type Line = {
   bounds: { y: number; height: number }
   origin: { y: number }
+  notationsStartIndex: number
+  numNotationsOnLine: number
   createSvgTree: (ctxt: Context, top: number) => Tree
 }
+type Box = { x: number; y: number; width: number; height: number }
 // What the score was parsed into, before any drawing: neumes with their notes, and the bars between.
+type Note = {
+  pitch: { toInt: () => number }
+  morae: unknown[]
+  episemata: unknown[]
+  // Where the note is drawn, once laid out: its box within its neume, and the glyph's origin in that box.
+  glyphVisualizer?: { bounds: Box; origin: { x: number; y: number } }
+  staffPosition: number
+}
 type Notation = {
   isDivider?: boolean
-  notes?: Array<{ pitch: { toInt: () => number }; morae: unknown[]; episemata: unknown[] }>
+  bounds?: Box
+  notes?: Note[]
 }
 type Score = {
   notations: Notation[]
@@ -196,22 +224,30 @@ export type Tone = {
  * bar as long as the bar is tall.
  */
 export function melodyOf(gabc: string): Tone[] {
-  const { score } = parse(gabc, 1)
+  return sing(parse(gabc, 1).score)
+}
+
+/**
+ * The melody of a parsed score, telling `onNote` where each note falls in it:
+ * one walk for the sound and for the notes a player lights, so the two agree.
+ */
+function sing(score: Score, onNote?: (note: Note, tone: number, notation: number) => void): Tone[] {
   const tones: Tone[] = []
-  for (const notation of score.notations) {
+  score.notations.forEach((notation, at) => {
     if (notation.notes) {
       for (const note of notation.notes) {
+        onNote?.(note, tones.length, at)
         const held = note.morae.length ? 2 : note.episemata.length ? 1.5 : 1
         tones.push({ pitch: note.pitch.toInt(), beats: held })
       }
     } else if (notation.isDivider && tones.length) {
       const last = tones[tones.length - 1]
-      if (last.pitch === undefined) continue
+      if (last.pitch === undefined) return
       last.beats = Math.max(last.beats, 2)
       const small = notation instanceof exsurge.QuarterBar || notation instanceof exsurge.Virgula
       tones.push({ beats: small ? 0.5 : notation instanceof exsurge.HalfBar ? 1 : 2 })
     }
-  }
+  })
   return tones
 }
 
@@ -232,7 +268,22 @@ export function layoutScore(gabc: string, { width, scale = 1 }: ScoreOptions): S
     glyphs[String(def.props.id)] = outlines(def)
   }
 
-  const lines = score.lines.map((line): ScoreLine => {
+  // Each note on its line, with its neume's span and its pitch's height, to be matched to the glyphs.
+  const notesOf = score.lines.map((): Placed[] => [])
+  sing(score, (note, tone, at) => {
+    const line = score.lines.findIndex(
+      (l) => at >= l.notationsStartIndex && at < l.notationsStartIndex + l.numNotationsOnLine,
+    )
+    const neume = score.notations[at].bounds
+    const glyph = note.glyphVisualizer
+    if (line < 0 || !neume || !glyph) return
+    const y = ctxt.calculateHeightFromStaffPosition(note.staffPosition)
+    // The neume's span, out to where its last glyph is drawn from (a glyph is placed by its origin).
+    const width = neume.width + glyph.origin.x
+    notesOf[line].push({ tone, x: neume.x, width, y })
+  })
+
+  const lines = score.lines.map((line, n): ScoreLine => {
     const marks: ScoreMark[] = []
     const used = new Set<string>()
     collect(line.createSvgTree(ctxt, line.bounds.y), 0, 0, sizes, marks, used)
@@ -240,10 +291,87 @@ export function layoutScore(gabc: string, { width, scale = 1 }: ScoreOptions): S
       // Only the staff reaches the end of the line; a ledger line stops short.
       if (mark.type === 'line' && mark.x2 > setWidth - 0.01) mark.x2 = width
     }
-    return { top: -line.origin.y, height: line.bounds.height, marks, glyphs: [...used] }
+    return {
+      top: -line.origin.y,
+      height: line.bounds.height,
+      marks,
+      notes: inkNotes(notesOf[n], marks, ctxt.staffInterval),
+      glyphs: [...used],
+    }
   })
 
   return { width, lines, glyphs, glyphScale: ctxt.glyphScaling }
+}
+
+type Placed = { tone: number; x: number; width: number; y: number }
+
+// What a neume draws beside its notes: accidentals, dots, episemata, and the
+// empty placeholder a compound neume keeps for a note its stroke already draws.
+const besideTheNote = /^None$|Flat|Natural|Sharp|Mora|Episema|Clef|Custos|Ictus/
+// A stroke that draws more than one note, and how many: a porrectus draws its first two as a diagonal.
+const strokes: [RegExp, number][] = [[/^Porrectus/, 2]]
+
+/**
+ * Each note matched to the glyph that draws it. exsurge says which neume a
+ * note is in but not which of the neume's glyphs is its own, so a neume's
+ * notes and its glyphs are walked together, left to right: a glyph draws one
+ * note, a stroke as many as it covers, each of those lit at its own pitch.
+ */
+function inkNotes(placed: Placed[], marks: ScoreMark[], step: number): ScoreNote[] {
+  // The line's note glyphs once, left to right; each neume takes those within its span.
+  const glyphs = marks
+    .flatMap((mark, index) =>
+      mark.type === 'glyph' && !besideTheNote.test(mark.glyph)
+        ? [{ x: mark.x, name: mark.glyph, index }]
+        : [],
+    )
+    .sort((a, b) => a.x - b.x)
+  const out: ScoreNote[] = []
+  let from = 0
+  let at = 0
+  while (at < placed.length) {
+    const neume = placed[at]
+    let end = at
+    while (end < placed.length && placed[end].x === neume.x) end++
+    while (from < glyphs.length && glyphs[from].x < neume.x) from++
+    let g = from
+    let usedOfStroke = 0
+    for (const note of placed.slice(at, end)) {
+      const glyph = glyphs[g]
+      if (!glyph || glyph.x > neume.x + neume.width) {
+        out.push({ tone: note.tone })
+        continue
+      }
+      const covers = strokes.find(([stroke]) => stroke.test(glyph.name))?.[1]
+      if (!covers) {
+        out.push({ tone: note.tone, mark: glyph.index })
+        g += 1
+        continue
+      }
+      out.push({
+        tone: note.tone,
+        mark: glyph.index,
+        band: { top: note.y - step, bottom: note.y + step },
+      })
+      usedOfStroke += 1
+      if (usedOfStroke === covers) {
+        g += 1
+        usedOfStroke = 0
+      }
+    }
+    at = end
+  }
+  return out
+}
+
+/** What draws a note on its line: its glyph, and for a stroke of several notes, the band that is its end. */
+export function noteInk(
+  line: ScoreLine,
+  tone: number,
+): { marks: ScoreMark[]; band?: { top: number; bottom: number } } {
+  const note = line.notes.find((n) => n.tone === tone)
+  if (note?.mark === undefined) return { marks: [] }
+  return { marks: [line.marks[note.mark]], band: note.band }
 }
 
 function outlines(node: Tree): string[] {

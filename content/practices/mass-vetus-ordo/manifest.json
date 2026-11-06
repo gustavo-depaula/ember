@@ -1,5 +1,7 @@
 {
   "id": "mass-vetus-ordo",
+  "prayedIn": "la",
+  "parallel": "la",
   "icon": "cross",
   "name": {
     "en-US": "Holy Mass",

@@ -1,0 +1,47 @@
+{
+	"id": "parce-domine",
+	"prayedIn": "la",
+	"form": "prayer",
+	"icon": "mercy",
+	"name": {
+		"en-US": "Parce Domine",
+		"pt-BR": "Parce Domine",
+		"la": "Parce Domine"
+	},
+	"categories": [
+		"devotion",
+		"seasonal"
+	],
+	"estimatedMinutes": 3,
+	"description": {
+		"en-US": "*Spare, O Lord, spare Thy people* — the Lenten plea of the prophet Joel, with verses that call the faithful to weep before the Judge.",
+		"pt-BR": "*Perdoai, Senhor, perdoai ao vosso povo* — a súplica quaresmal do profeta Joel, com estrofes que chamam os fiéis a chorar diante do Juiz."
+	},
+	"history": {
+		"en-US": "The antiphon is Joel 2:17, the cry of the priests between the porch and the altar; its verses are taken from the Lenten hymns of the Breviary, *Ex more docti mystico* and *Audi, benigne Conditor*.",
+		"pt-BR": "A antífona é Joel 2, 17, o clamor dos sacerdotes entre o vestíbulo e o altar; as estrofes vêm dos hinos quaresmais do Breviário, *Ex more docti mystico* e *Audi, benigne Conditor*."
+	},
+	"source": {
+		"en-US": "Latin: *The Liber Usualis* (Desclée, 1961), p. 1868, as transcribed in [GregoBase](https://gregobase.selapa.net/chant.php?id=3038) · English: *The Parish Book of Chant* (Church Music Association of America, 2nd ed., 2012), p. 142 — [musicasacra.com](https://media.musicasacra.com/pdf/pbc-web.pdf)",
+		"pt-BR": "Latim: *The Liber Usualis* (Desclée, 1961), p. 1868, conforme a transcrição do [GregoBase](https://gregobase.selapa.net/chant.php?id=3038) · Inglês: *The Parish Book of Chant* (Church Music Association of America, 2.ª ed., 2012), p. 142 — [musicasacra.com](https://media.musicasacra.com/pdf/pbc-web.pdf) · O português foi traduzido do latim para este aplicativo."
+	},
+	"tags": [
+		"hymn",
+		"lent"
+	],
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"defaults": {
+		"sortOrder": 544,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

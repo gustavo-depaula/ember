@@ -27,6 +27,7 @@ import { AddToCollectionSheet } from '@/features/library/AddToCollectionSheet'
 import { useSaveToggle } from '@/features/library/savedHooks'
 import { usePinToggle } from '@/features/pinning/hooks'
 import { ReadingSettingsSheet } from '@/features/practices/components/ReadingSettingsSheet'
+import { LanguageChip, LanguageSheet } from '@/features/practices/language/LanguageSheet'
 import { lightTap } from '@/lib/haptics'
 import { localizeContent } from '@/lib/i18n'
 import { practiceWebUrl } from '@/lib/webLinks'
@@ -53,6 +54,7 @@ export function usePracticeActions(manifest: PracticeManifest) {
   const [sheetOpen, setSheetOpen] = useState(false)
   const [collectionOpen, setCollectionOpen] = useState(false)
   const [settingsOpen, setSettingsOpen] = useState(false)
+  const [languageOpen, setLanguageOpen] = useState(false)
 
   const afterSheet = (next: () => void) => {
     if (!sheetOpen) return next()
@@ -80,6 +82,12 @@ export function usePracticeActions(manifest: PracticeManifest) {
       setSettingsOpen(true)
     },
     closeSettings: () => setSettingsOpen(false),
+    languageOpen,
+    openLanguage: () => {
+      lightTap()
+      setLanguageOpen(true)
+    },
+    closeLanguage: () => setLanguageOpen(false),
     onShare: () => {
       lightTap()
       const url = practiceWebUrl(manifest.id, i18n.language)
@@ -150,7 +158,7 @@ export function PracticeVariant({ actions }: { actions: Actions }) {
 }
 
 /**
- * How the page is set (reading & language), the link to send a friend, then ⊕
+ * The prayer's languages, how the page is set, the link to send a friend, then ⊕
  * for everything that adds the practice somewhere: the plan, the saved list, a
  * collection, the device.
  */
@@ -159,6 +167,7 @@ export function PracticeActionIcons({ actions }: { actions: Actions }) {
 
   return (
     <XStack gap={20} alignItems="center">
+      <LanguageChip manifest={actions.manifest} onPress={actions.openLanguage} />
       <Glyph
         icon={Type}
         onPress={actions.openSettings}
@@ -219,6 +228,11 @@ export function PracticeActionSheets({ actions }: { actions: Actions }) {
       />
       <PracticePlanEditor plan={plan} />
       <ReadingSettingsSheet open={actions.settingsOpen} onClose={actions.closeSettings} />
+      <LanguageSheet
+        manifest={manifest}
+        open={actions.languageOpen}
+        onClose={actions.closeLanguage}
+      />
     </>
   )
 }

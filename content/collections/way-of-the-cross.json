@@ -119,6 +119,27 @@
 			]
 		},
 		{
+			"id": "chaplets-and-prayers",
+			"title": {
+				"en-US": "Chaplets and Prayers of the Passion",
+				"pt-BR": "Coroinhas e Orações da Paixão"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/chaplet-five-wounds"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/chaplet-precious-blood"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/fifteen-prayers-st-bridget"
+				}
+			]
+		},
+		{
 			"id": "hymns-of-the-cross",
 			"title": {
 				"en-US": "Hymns of the Cross",

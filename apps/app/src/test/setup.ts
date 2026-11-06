@@ -290,6 +290,23 @@ vi.mock('expo-haptics', () => ({
   NotificationFeedbackType: { Success: 'success', Warning: 'warning', Error: 'error' },
 }))
 
+// The app takes one thing from `expo`: the guard for a native module a build may
+// lack (chant playback, the rating prompt, the camera, turning the page). The
+// real package index loads the dev client's async-require, which no test can,
+// and no native module is here.
+vi.mock('expo', () => ({ requireOptionalNativeModule: () => null }))
+
+// Native audio: a player that plays nothing (chant melodies, creators' audio).
+vi.mock('expo-audio', () => ({
+  setAudioModeAsync: vi.fn(async () => undefined),
+  createAudioPlayer: vi.fn(() => ({
+    play: vi.fn(),
+    pause: vi.fn(),
+    remove: vi.fn(),
+    addListener: vi.fn(() => ({ remove: vi.fn() })),
+  })),
+}))
+
 vi.mock('expo-notifications', () => ({
   setNotificationHandler: () => {},
   getPermissionsAsync: async () => ({ status: 'granted', granted: true }),

@@ -1,0 +1,51 @@
+{
+	"id": "chaplet-infant-jesus-prague",
+	"form": "prayer",
+	"icon": "candle",
+	"name": {
+		"en-US": "Chaplet of the Infant Jesus of Prague",
+		"pt-BR": "Coroinha do Menino Jesus de Praga"
+	},
+	"categories": [
+		"devotion"
+	],
+	"estimatedMinutes": 8,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"description": {
+		"en-US": "A little crown of three Our Fathers in honour of the Holy Family and twelve Hail Marys for the twelve years of Christ's childhood, each preceded by 'And the Word was made flesh'.",
+		"pt-BR": "Uma pequena coroa de três Pai-Nossos em honra da Sagrada Família e doze Ave-Marias pelos doze anos da infância de Cristo, cada um precedido de 'E o Verbo se fez carne'."
+	},
+	"history": {
+		"en-US": "The chaplet goes back to Ven. Margaret of the Blessed Sacrament (d. 1648), a Carmelite of Beaune in France known for her devotion to the Holy Child. It was carried with the cult of the Infant Jesus of Prague, the statue given to the Discalced Carmelites of Our Lady of Victory in 1628 and whose devotion Ven. Cyril of the Mother of God revived after the Thirty Years' War, and Carmelites spread it wherever the image went.",
+		"pt-BR": "A coroinha remonta à Ven. Margarida do Santíssimo Sacramento (†1648), carmelita de Beaune, na França, conhecida por sua devoção ao Santo Menino. Difundiu-se com o culto do Menino Jesus de Praga, a imagem doada aos Carmelitas Descalços de Nossa Senhora da Vitória em 1628 e cuja devoção o Ven. Cirilo da Mãe de Deus reavivou depois da Guerra dos Trinta Anos, e os carmelitas a levaram aonde quer que a imagem chegasse."
+	},
+	"howToPray": {
+		"en-US": "The chaplet has fifteen beads and a medal of the Infant Jesus. Pray the offering on the medal, then three Our Fathers and twelve Hail Marys, saying 'And the Word was made flesh and dwelt amongst us' before each. End with 'Holy Infant Jesus, bless and protect us.'",
+		"pt-BR": "A coroinha tem quinze contas e uma medalha do Menino Jesus. Reze o oferecimento na medalha, depois três Pai-Nossos e doze Ave-Marias, dizendo antes de cada um a jaculatória do Verbo encarnado. Termine pedindo ao Santo Menino que nos abençoe e proteja."
+	},
+	"source": {
+		"en-US": "Patrick Shaughnessy, O.S.B., *Twenty-four Rosaries and Chaplets* (St. Meinrad, Ind.: Grail Publications, 1954), \"Little Crown or Chaplet of the Infant Jesus of Prague\", pp. 21–22 — [archive.org](https://archive.org/details/twentyfourrosari00shau/page/21)",
+		"pt-BR": "Patrick Shaughnessy, O.S.B., *Twenty-four Rosaries and Chaplets* (Grail Publications, 1954), pp. 21–22 — [archive.org](https://archive.org/details/twentyfourrosari00shau/page/21). O oferecimento e a invocação final foram traduzidos desse inglês para este aplicativo; a jaculatória é Jo 1,14 como no Ângelus."
+	},
+	"tags": [
+		"chaplet",
+		"infant-jesus",
+		"prague",
+		"childhood",
+		"carmelite"
+	],
+	"defaults": {
+		"sortOrder": 513,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

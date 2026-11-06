@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on the Metaphysics",
-    "la": "Sententia super Metaphysicam"
+    "la": "Sententia super Metaphysicam",
+    "pt-BR": "Comentário à Metafísica"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's commentary on Aristotle's *Metaphysics* — on being qua being, substance, the categories, the first principles of all things, and the unmoved mover.",
-    "la": "Expositio *Metaphysicorum* Aristotelis — de ente in quantum ens, de substantia, de categoriis, de primis principiis omnium rerum, de primo motore."
+    "la": "Expositio *Metaphysicorum* Aristotelis — de ente in quantum ens, de substantia, de categoriis, de primis principiis omnium rerum, de primo motore.",
+    "pt-BR": "Comentário de Santo Tomás de Aquino à *Metafísica* de Aristóteles — sobre o ente enquanto ente, a substância, as categorias, os primeiros princípios de todas as coisas e o motor imóvel."
   },
   "composed": "1270–1272",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,14 +39,16 @@
       "id": "g1",
       "title": {
         "en-US": "Book 1 — Prologue",
-        "la": "Liber 1"
+        "la": "Liber 1",
+        "pt-BR": "Livro 1 — Prólogo"
       },
       "children": [
         {
           "id": "g1-pr",
           "title": {
             "en-US": "Prologue — Prologue",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo — Prólogo"
           }
         }
       ]
@@ -51,126 +57,144 @@
       "id": "g2",
       "title": {
         "en-US": "Book 2 — History of Metaphysical Inquiry",
-        "la": "Liber 2"
+        "la": "Liber 2",
+        "pt-BR": "Livro 2 — História da investigação metafísica"
       },
       "children": [
         {
           "id": "g2-c001",
           "title": {
             "en-US": "Lecture 1 — The dignity and object of this science",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A dignidade e o objeto desta ciência"
           }
         },
         {
           "id": "g2-c002",
           "title": {
             "en-US": "Lecture 2 — What wisdom considers",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — O que a sabedoria considera"
           }
         },
         {
           "id": "g2-c003",
           "title": {
             "en-US": "Lecture 3 — Metaphysics’ nature and goal",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A natureza e o fim da metafísica"
           }
         },
         {
           "id": "g2-c004",
           "title": {
             "en-US": "Lecture 4 — Opinions about the material cause",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Opiniões sobre a causa material"
           }
         },
         {
           "id": "g2-c005",
           "title": {
             "en-US": "Lecture 5 — Opinions about the efficient cause",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Opiniões sobre a causa eficiente"
           }
         },
         {
           "id": "g2-c006",
           "title": {
             "en-US": "Lecture 6 — Love and hate as causes",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — O amor e o ódio como causas"
           }
         },
         {
           "id": "g2-c007",
           "title": {
             "en-US": "Lecture 7 — Atomists’ and Pythagoreans’ opinions",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Opiniões dos atomistas e dos pitagóricos"
           }
         },
         {
           "id": "g2-c008",
           "title": {
             "en-US": "Lecture 8 — The Pythagoreans’ doctrine of contraries",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — A doutrina dos pitagóricos sobre os contrários"
           }
         },
         {
           "id": "g2-c009",
           "title": {
             "en-US": "Lecture 9 — Eleatics and Pythagoreans’ opinions",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — Opiniões dos eleatas e dos pitagóricos"
           }
         },
         {
           "id": "g2-c010",
           "title": {
             "en-US": "Lecture 10 — The Platonic theory of ideas",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — A teoria platônica das ideias"
           }
         },
         {
           "id": "g2-c011",
           "title": {
             "en-US": "Lecture 11 — Summary of ancient opinions",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — Recapitulação das opiniões dos antigos"
           }
         },
         {
           "id": "g2-c012",
           "title": {
             "en-US": "Lecture 12 — The number of material principles",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — O número dos princípios materiais"
           }
         },
         {
           "id": "g2-c013",
           "title": {
             "en-US": "Lecture 13 — Critique of the Pythagoreans’ opinions",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — Crítica das opiniões dos pitagóricos"
           }
         },
         {
           "id": "g2-c014",
           "title": {
             "en-US": "Lecture 14 — Critique of the Platonic Ideas",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14 — Crítica das ideias platônicas"
           }
         },
         {
           "id": "g2-c015",
           "title": {
             "en-US": "Lecture 15 — The destruction of the Platonists’ arguments for the ideas",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15 — Refutação dos argumentos dos platônicos em favor das ideias"
           }
         },
         {
           "id": "g2-c016",
           "title": {
             "en-US": "Lecture 16 — The ideas are not numbers",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16 — As ideias não são números"
           }
         },
         {
           "id": "g2-c017",
           "title": {
             "en-US": "Lecture 17 — The ideas are not principles",
-            "la": "Lectio 17"
+            "la": "Lectio 17",
+            "pt-BR": "Lição 17 — As ideias não são princípios"
           }
         }
       ]
@@ -179,42 +203,48 @@
       "id": "g3",
       "title": {
         "en-US": "Book 3 — The Search for Truth and Causes",
-        "la": "Liber 3"
+        "la": "Liber 3",
+        "pt-BR": "Livro 3 — A busca da verdade e das causas"
       },
       "children": [
         {
           "id": "g3-c001",
           "title": {
             "en-US": "Lecture 1 — The acquisition of truth",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A aquisição da verdade"
           }
         },
         {
           "id": "g3-c002",
           "title": {
             "en-US": "Lecture 2 — The supreme science of truth",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A ciência suprema da verdade"
           }
         },
         {
           "id": "g3-c003",
           "title": {
             "en-US": "Lecture 3 — The existence of first efficient and material causes",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A existência de causas eficientes e materiais primeiras"
           }
         },
         {
           "id": "g3-c004",
           "title": {
             "en-US": "Lecture 4 — The existence of first final and formal causes",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A existência de causas finais e formais primeiras"
           }
         },
         {
           "id": "g3-c005",
           "title": {
             "en-US": "Lecture 5 — The method of metaphysics",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — O método da metafísica"
           }
         }
       ]
@@ -223,112 +253,128 @@
       "id": "g4",
       "title": {
         "en-US": "Book 4 — Metaphysical Problems",
-        "la": "Liber 4"
+        "la": "Liber 4",
+        "pt-BR": "Livro 4 — Problemas metafísicos"
       },
       "children": [
         {
           "id": "g4-c001",
           "title": {
             "en-US": "Lecture 1 — Necessity of considering all difficulties",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A necessidade de considerar todas as dificuldades"
           }
         },
         {
           "id": "g4-c002",
           "title": {
             "en-US": "Lecture 2 — Questions on metaphysical method",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Questões sobre o método da metafísica"
           }
         },
         {
           "id": "g4-c003",
           "title": {
             "en-US": "Lecture 3 — Questions on metaphysics’ object",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Questões sobre o objeto da metafísica"
           }
         },
         {
           "id": "g4-c004",
           "title": {
             "en-US": "Lecture 4 — How many sciences study all causes?",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Quantas ciências estudam todas as causas?"
           }
         },
         {
           "id": "g4-c005",
           "title": {
             "en-US": "Lecture 5 — How many sciences study the principles of demonstration and substance?",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Quantas ciências estudam os princípios da demonstração e da substância?"
           }
         },
         {
           "id": "g4-c006",
           "title": {
             "en-US": "Lecture 6 — Are all substances considered by one science or by many?",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — Todas as substâncias são consideradas por uma só ciência ou por várias?"
           }
         },
         {
           "id": "g4-c007",
           "title": {
             "en-US": "Lecture 7 — Are there substances separate from sensible things?",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Há substâncias separadas das coisas sensíveis?"
           }
         },
         {
           "id": "g4-c008",
           "title": {
             "en-US": "Lecture 8 — Are genera principles of things?",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Os gêneros são princípios das coisas?"
           }
         },
         {
           "id": "g4-c009",
           "title": {
             "en-US": "Lecture 9 — Are there universals separate from singular things?",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — Há universais separados das coisas singulares?"
           }
         },
         {
           "id": "g4-c010",
           "title": {
             "en-US": "Lecture 10 — Do all things have a single substance?",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — Todas as coisas têm uma única substância?"
           }
         },
         {
           "id": "g4-c011",
           "title": {
             "en-US": "Lecture 11 — Do corruptible and incorruptible things have the same principles?",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — As coisas corruptíveis e incorruptíveis têm os mesmos princípios?"
           }
         },
         {
           "id": "g4-c012",
           "title": {
             "en-US": "Lecture 12 — Are unity and being the substance and principle of all things?",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — A unidade e o ente são a substância e o princípio de todas as coisas?"
           }
         },
         {
           "id": "g4-c013",
           "title": {
             "en-US": "Lecture 13 — Is quantity the substance and principle of sensible things?",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — A quantidade é a substância e o princípio das coisas sensíveis?"
           }
         },
         {
           "id": "g4-c014",
           "title": {
             "en-US": "Lecture 14 — Are there separate forms which are the essences of sensible things?",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14 — Há formas separadas que sejam as essências das coisas sensíveis?"
           }
         },
         {
           "id": "g4-c015",
           "title": {
             "en-US": "Lecture 15 — Do first principles exist actually or potentially, and are they universal or singular?",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15 — Os primeiros princípios existem em ato ou em potência, e são universais ou singulares?"
           }
         }
       ]
@@ -337,126 +383,144 @@
       "id": "g5",
       "title": {
         "en-US": "Book 5 — The Subject of Metaphysics",
-        "la": "Liber 5"
+        "la": "Liber 5",
+        "pt-BR": "Livro 5 — O sujeito da metafísica"
       },
       "children": [
         {
           "id": "g5-c001",
           "title": {
             "en-US": "Lecture 1 — The proper subject of metaphysics",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — O sujeito próprio da metafísica"
           }
         },
         {
           "id": "g5-c002",
           "title": {
             "en-US": "Lecture 2 — The divisions of being and unity",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — As divisões do ente e da unidade"
           }
         },
         {
           "id": "g5-c003",
           "title": {
             "en-US": "Lecture 3 — One sciences treats unity, plurality, and all opposites",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Uma só ciência trata da unidade, da pluralidade e de todos os opostos"
           }
         },
         {
           "id": "g5-c004",
           "title": {
             "en-US": "Lecture 4 — Metaphysics’ distinction from logic",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A distinção entre a metafísica e a lógica"
           }
         },
         {
           "id": "g5-c005",
           "title": {
             "en-US": "Lecture 5 — Solution of difficulties on the principles of demonstration",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Solução das dificuldades sobre os princípios da demonstração"
           }
         },
         {
           "id": "g5-c006",
           "title": {
             "en-US": "Lecture 6 — The first principle of demonstration",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — O primeiro princípio da demonstração"
           }
         },
         {
           "id": "g5-c007",
           "title": {
             "en-US": "Lecture 7 — Contradictories cannot be true at the same time",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Os contraditórios não podem ser verdadeiros ao mesmo tempo"
           }
         },
         {
           "id": "g5-c008",
           "title": {
             "en-US": "Lecture 8 — Arguments against the foregoing position",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Argumentos contra a posição anterior"
           }
         },
         {
           "id": "g5-c009",
           "title": {
             "en-US": "Lecture 9 — Further refutations",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — Outras refutações"
           }
         },
         {
           "id": "g5-c010",
           "title": {
             "en-US": "Lecture 10 — Methods of refutation",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — Métodos de refutação"
           }
         },
         {
           "id": "g5-c011",
           "title": {
             "en-US": "Lecture 11 — Why some considered appearances to be true",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — Por que alguns consideraram verdadeiras as aparências"
           }
         },
         {
           "id": "g5-c012",
           "title": {
             "en-US": "Lecture 12 — Two reasons why some identify truth with appearances",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — Duas razões pelas quais alguns identificam a verdade com as aparências"
           }
         },
         {
           "id": "g5-c013",
           "title": {
             "en-US": "Lecture 13 — Change in sensible things not opposed to their truth",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — A mudança nas coisas sensíveis não se opõe à sua verdade"
           }
         },
         {
           "id": "g5-c014",
           "title": {
             "en-US": "Lecture 14 — Truth does not consist in appearances",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14 — A verdade não consiste nas aparências"
           }
         },
         {
           "id": "g5-c015",
           "title": {
             "en-US": "Lecture 15 — Contraries cannot belong to the same subject at the same time",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15 — Os contrários não podem pertencer ao mesmo sujeito ao mesmo tempo"
           }
         },
         {
           "id": "g5-c016",
           "title": {
             "en-US": "Lecture 16 — Contradictories have no intermediate",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16 — Não há intermediário entre os contraditórios"
           }
         },
         {
           "id": "g5-c017",
           "title": {
             "en-US": "Lecture 17 — Nothing is both true and false, or both at rest and in motion",
-            "la": "Lectio 17"
+            "la": "Lectio 17",
+            "pt-BR": "Lição 17 — Nada é ao mesmo tempo verdadeiro e falso, ou está ao mesmo tempo em repouso e em movimento"
           }
         }
       ]
@@ -465,161 +529,184 @@
       "id": "g6",
       "title": {
         "en-US": "Book 6 — Definitions",
-        "la": "Liber 6"
+        "la": "Liber 6",
+        "pt-BR": "Livro 6 — Definições"
       },
       "children": [
         {
           "id": "g6-c001",
           "title": {
             "en-US": "Lecture 1 — The definition of “principle”",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A definição de “princípio”"
           }
         },
         {
           "id": "g6-c002",
           "title": {
             "en-US": "Lecture 2 — The definition of “cause”",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A definição de “causa”"
           }
         },
         {
           "id": "g6-c003",
           "title": {
             "en-US": "Lecture 3 — All causes reduced to four",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Todas as causas se reduzem a quatro"
           }
         },
         {
           "id": "g6-c004",
           "title": {
             "en-US": "Lecture 4 — The definition of “element”",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A definição de “elemento”"
           }
         },
         {
           "id": "g6-c005",
           "title": {
             "en-US": "Lecture 5 — The definition of “nature”",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A definição de “natureza”"
           }
         },
         {
           "id": "g6-c006",
           "title": {
             "en-US": "Lecture 6 — The definition of “necessary”",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — A definição de “necessário”"
           }
         },
         {
           "id": "g6-c007",
           "title": {
             "en-US": "Lecture 7 — The kinds of accidental and essential unity",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Os modos de unidade por acidente e por si"
           }
         },
         {
           "id": "g6-c008",
           "title": {
             "en-US": "Lecture 8 — The definition of “one”",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — A definição de “uno”"
           }
         },
         {
           "id": "g6-c009",
           "title": {
             "en-US": "Lecture 9 — Division of being into accidental and essential",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — A divisão do ente em ente por acidente e ente por si"
           }
         },
         {
           "id": "g6-c010",
           "title": {
             "en-US": "Lecture 10 — The definition of “substance”",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — A definição de “substância”"
           }
         },
         {
           "id": "g6-c011",
           "title": {
             "en-US": "Lecture 11 — How things are the same essentially and accidentally",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — Como as coisas são as mesmas por si e por acidente"
           }
         },
         {
           "id": "g6-c012",
           "title": {
             "en-US": "Lecture 12 — “Diverse,” “different,” “like,” “contrary,” and “diverse in species”",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — “Diverso”, “diferente”, “semelhante”, “contrário” e “diverso em espécie”"
           }
         },
         {
           "id": "g6-c013",
           "title": {
             "en-US": "Lecture 13 — How things are prior and subsequent",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — Como as coisas são anteriores e posteriores"
           }
         },
         {
           "id": "g6-c014",
           "title": {
             "en-US": "Lecture 14 — “Potency,” “capable,” “incapable,” “possible,” and “impossible”",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14 — “Potência”, “capaz”, “incapaz”, “possível” e “impossível”"
           }
         },
         {
           "id": "g6-c015",
           "title": {
             "en-US": "Lecture 15 — The definition of “quantity”",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15 — A definição de “quantidade”"
           }
         },
         {
           "id": "g6-c016",
           "title": {
             "en-US": "Lecture 16 — The definition of “quality”",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16 — A definição de “qualidade”"
           }
         },
         {
           "id": "g6-c017",
           "title": {
             "en-US": "Lecture 17 — The definition of “relative”",
-            "la": "Lectio 17"
+            "la": "Lectio 17",
+            "pt-BR": "Lição 17 — A definição de “relativo”"
           }
         },
         {
           "id": "g6-c018",
           "title": {
             "en-US": "Lecture 18 — The definition of “perfect”",
-            "la": "Lectio 18"
+            "la": "Lectio 18",
+            "pt-BR": "Lição 18 — A definição de “perfeito”"
           }
         },
         {
           "id": "g6-c019",
           "title": {
             "en-US": "Lecture 19 — “Limit,” “according to which,” and “in itself”",
-            "la": "Lectio 19"
+            "la": "Lectio 19",
+            "pt-BR": "Lição 19 — “Limite”, “segundo o qual” e “em si”"
           }
         },
         {
           "id": "g6-c020",
           "title": {
             "en-US": "Lecture 20 — “Disposition,” “having,” “affection,” “privation,” and “to have”",
-            "la": "Lectio 20"
+            "la": "Lectio 20",
+            "pt-BR": "Lição 20 — “Disposição”, “hábito”, “paixão”, “privação” e “ter”"
           }
         },
         {
           "id": "g6-c021",
           "title": {
             "en-US": "Lecture 21 — “To come from something,” “part,” “whole,” and “mutilated”",
-            "la": "Lectio 21"
+            "la": "Lectio 21",
+            "pt-BR": "Lição 21 — “Provir de algo”, “parte”, “todo” e “mutilado”"
           }
         },
         {
           "id": "g6-c022",
           "title": {
             "en-US": "Lecture 22 — “Genus,” “falsity,” and “accident”",
-            "la": "Lectio 22"
+            "la": "Lectio 22",
+            "pt-BR": "Lição 22 — “Gênero”, “falsidade” e “acidente”"
           }
         }
       ]
@@ -628,35 +715,40 @@
       "id": "g7",
       "title": {
         "en-US": "Book 7 — The Method of Investigating Being",
-        "la": "Liber 7"
+        "la": "Liber 7",
+        "pt-BR": "Livro 7 — O método de investigação do ente"
       },
       "children": [
         {
           "id": "g7-c001",
           "title": {
             "en-US": "Lecture 1 — The method of investigating being as being",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — O método de investigação do ente enquanto ente"
           }
         },
         {
           "id": "g7-c002",
           "title": {
             "en-US": "Lecture 2 — Being as the object of metaphysics",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — O ente como objeto da metafísica"
           }
         },
         {
           "id": "g7-c003",
           "title": {
             "en-US": "Lecture 3 — Accidental being",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — O ente por acidente"
           }
         },
         {
           "id": "g7-c004",
           "title": {
             "en-US": "Lecture 4 — Kinds of being not investigated by metaphysics",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Os modos de ente que a metafísica não investiga"
           }
         }
       ]
@@ -665,126 +757,144 @@
       "id": "g8",
       "title": {
         "en-US": "Book 8 — Substance",
-        "la": "Liber 8"
+        "la": "Liber 8",
+        "pt-BR": "Livro 8 — A substância"
       },
       "children": [
         {
           "id": "g8-c001",
           "title": {
             "en-US": "Lecture 1 — The primacy of substance",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A primazia da substância"
           }
         },
         {
           "id": "g8-c002",
           "title": {
             "en-US": "Lecture 2 — Substance as form, as matter, and as body",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A substância como forma, como matéria e como corpo"
           }
         },
         {
           "id": "g8-c003",
           "title": {
             "en-US": "Lecture 3 — The definition of “essence”",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A definição de “essência”"
           }
         },
         {
           "id": "g8-c004",
           "title": {
             "en-US": "Lecture 4 — The analogous character of definition",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — O caráter analógico da definição"
           }
         },
         {
           "id": "g8-c005",
           "title": {
             "en-US": "Lecture 5 — Essential and accidental predication",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A predicação por si e por acidente"
           }
         },
         {
           "id": "g8-c006",
           "title": {
             "en-US": "Lecture 6 — Becoming by nature, by art, and by chance",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — O vir a ser por natureza, por arte e por acaso"
           }
         },
         {
           "id": "g8-c007",
           "title": {
             "en-US": "Lecture 7 — Generation is of the composite, not of the form",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — A geração é do composto, não da forma"
           }
         },
         {
           "id": "g8-c008",
           "title": {
             "en-US": "Lecture 8 — Generation by art and by chance",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — A geração por arte e por acaso"
           }
         },
         {
           "id": "g8-c009",
           "title": {
             "en-US": "Lecture 9 — Parts of a definition",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — As partes de uma definição"
           }
         },
         {
           "id": "g8-c010",
           "title": {
             "en-US": "Lecture 10 — Priority of parts to whole",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — A prioridade das partes em relação ao todo"
           }
         },
         {
           "id": "g8-c011",
           "title": {
             "en-US": "Lecture 11 — Kinds of forms",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — Os tipos de formas"
           }
         },
         {
           "id": "g8-c012",
           "title": {
             "en-US": "Lecture 12 — The unity of the thing defined and of the definition",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — A unidade da coisa definida e da definição"
           }
         },
         {
           "id": "g8-c013",
           "title": {
             "en-US": "Lecture 13 — Universals are not substances",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — Os universais não são substâncias"
           }
         },
         {
           "id": "g8-c014",
           "title": {
             "en-US": "Lecture 14 — Universals are not separate substances",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14 — Os universais não são substâncias separadas"
           }
         },
         {
           "id": "g8-c015",
           "title": {
             "en-US": "Lecture 15 — Why ideas cannot be defined",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15 — Por que as ideias não podem ser definidas"
           }
         },
         {
           "id": "g8-c016",
           "title": {
             "en-US": "Lecture 16 — Unity and being are not substances",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16 — A unidade e o ente não são substâncias"
           }
         },
         {
           "id": "g8-c017",
           "title": {
             "en-US": "Lecture 17 — Nature as a principle and cause",
-            "la": "Lectio 17"
+            "la": "Lectio 17",
+            "pt-BR": "Lição 17 — A natureza como princípio e causa"
           }
         }
       ]
@@ -793,42 +903,48 @@
       "id": "g9",
       "title": {
         "en-US": "Book 9 — Principles of Sensible Substances",
-        "la": "Liber 9"
+        "la": "Liber 9",
+        "pt-BR": "Livro 9 — Princípios das substâncias sensíveis"
       },
       "children": [
         {
           "id": "g9-c001",
           "title": {
             "en-US": "Lecture 1 — Kinds of matter in sensible substances",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Os tipos de matéria nas substâncias sensíveis"
           }
         },
         {
           "id": "g9-c002",
           "title": {
             "en-US": "Lecture 2 — Inference of form in sensible substances",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A inferência da forma nas substâncias sensíveis"
           }
         },
         {
           "id": "g9-c003",
           "title": {
             "en-US": "Lecture 3 — Form as part of a thing’s essence",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A forma como parte da essência de uma coisa"
           }
         },
         {
           "id": "g9-c004",
           "title": {
             "en-US": "Lecture 4 — How matter is found in all things",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Como a matéria se encontra em todas as coisas"
           }
         },
         {
           "id": "g9-c005",
           "title": {
             "en-US": "Lecture 5 — The union of matter and form",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A união da matéria e da forma"
           }
         }
       ]
@@ -837,84 +953,96 @@
       "id": "g10",
       "title": {
         "en-US": "Book 10 — Potency and Act",
-        "la": "Liber 10"
+        "la": "Liber 10",
+        "pt-BR": "Livro 10 — Potência e ato"
       },
       "children": [
         {
           "id": "g10-c001",
           "title": {
             "en-US": "Lecture 1 — Active and passive potencies",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — As potências ativas e passivas"
           }
         },
         {
           "id": "g10-c002",
           "title": {
             "en-US": "Lecture 2 — Rational and irrational potencies",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — As potências racionais e irracionais"
           }
         },
         {
           "id": "g10-c003",
           "title": {
             "en-US": "Lecture 3 — Errors about potency",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Erros acerca da potência"
           }
         },
         {
           "id": "g10-c004",
           "title": {
             "en-US": "Lecture 4 — Priority in act and potency",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A prioridade no ato e na potência"
           }
         },
         {
           "id": "g10-c005",
           "title": {
             "en-US": "Lecture 5 — Meanings of “act”",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Os sentidos de “ato”"
           }
         },
         {
           "id": "g10-c006",
           "title": {
             "en-US": "Lecture 6 — Matter as potency",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — A matéria como potência"
           }
         },
         {
           "id": "g10-c007",
           "title": {
             "en-US": "Lecture 7 — Priority of act and potency in time and concept",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — A prioridade do ato e da potência no tempo e na noção"
           }
         },
         {
           "id": "g10-c008",
           "title": {
             "en-US": "Lecture 8 — Priority of act to potency in substance",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — A prioridade do ato em relação à potência segundo a substância"
           }
         },
         {
           "id": "g10-c009",
           "title": {
             "en-US": "Lecture 9 — Actuality in incorruptible things",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — O ato nas coisas incorruptíveis"
           }
         },
         {
           "id": "g10-c010",
           "title": {
             "en-US": "Lecture 10 — Actuality better than potency",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — O ato é melhor que a potência"
           }
         },
         {
           "id": "g10-c011",
           "title": {
             "en-US": "Lecture 11 — Truth and falsity referred to act",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — A verdade e a falsidade em relação ao ato"
           }
         }
       ]
@@ -923,91 +1051,104 @@
       "id": "g11",
       "title": {
         "en-US": "Book 11 — Unity",
-        "la": "Liber 11"
+        "la": "Liber 11",
+        "pt-BR": "Livro 11 — A unidade"
       },
       "children": [
         {
           "id": "g11-c001",
           "title": {
             "en-US": "Lecture 1 — The kinds of unity",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Os modos de unidade"
           }
         },
         {
           "id": "g11-c002",
           "title": {
             "en-US": "Lecture 2 — Unity as a measure",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A unidade como medida"
           }
         },
         {
           "id": "g11-c003",
           "title": {
             "en-US": "Lecture 3 — The nature of unity",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A natureza da unidade"
           }
         },
         {
           "id": "g11-c004",
           "title": {
             "en-US": "Lecture 4 — Ways that one and many are opposed",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Os modos de oposição entre o uno e o múltiplo"
           }
         },
         {
           "id": "g11-c005",
           "title": {
             "en-US": "Lecture 5 — Contrariety is the greatest and perfect difference",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A contrariedade é a diferença máxima e perfeita"
           }
         },
         {
           "id": "g11-c006",
           "title": {
             "en-US": "Lecture 6 — Contrariety based on privation and possession",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — A contrariedade fundada na privação e na posse"
           }
         },
         {
           "id": "g11-c007",
           "title": {
             "en-US": "Lecture 7 — Opposition of the equal to the large and the small",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — A oposição do igual ao grande e ao pequeno"
           }
         },
         {
           "id": "g11-c008",
           "title": {
             "en-US": "Lecture 8 — Opposition between the one and the many",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — A oposição entre o uno e o múltiplo"
           }
         },
         {
           "id": "g11-c009",
           "title": {
             "en-US": "Lecture 9 — The nature of contraries",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — A natureza dos contrários"
           }
         },
         {
           "id": "g11-c010",
           "title": {
             "en-US": "Lecture 10 — How contraries differ in species",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — Como os contrários diferem em espécie"
           }
         },
         {
           "id": "g11-c011",
           "title": {
             "en-US": "Lecture 11 — The nature of specific difference",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — A natureza da diferença específica"
           }
         },
         {
           "id": "g11-c012",
           "title": {
             "en-US": "Lecture 12 — The corruptible and the incorruptible differ generically",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — O corruptível e o incorruptível diferem em gênero"
           }
         }
       ]
@@ -1016,98 +1157,112 @@
       "id": "g12",
       "title": {
         "en-US": "Book 12 — Metaphysical Principles; Preparation for Knowledge of Separated Substances",
-        "la": "Liber 12"
+        "la": "Liber 12",
+        "pt-BR": "Livro 12 — Princípios metafísicos; preparação para o conhecimento das substâncias separadas"
       },
       "children": [
         {
           "id": "g12-c001",
           "title": {
             "en-US": "Lecture 1 — The science of principles",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A ciência dos princípios"
           }
         },
         {
           "id": "g12-c002",
           "title": {
             "en-US": "Lecture 2 — Whether there are non-sensible substances and principles",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Se há substâncias e princípios não sensíveis"
           }
         },
         {
           "id": "g12-c003",
           "title": {
             "en-US": "Lecture 3 — All things reduced to being and unity",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Todas as coisas se reduzem ao ente e à unidade"
           }
         },
         {
           "id": "g12-c004",
           "title": {
             "en-US": "Lecture 4 — The principles of demonstration",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Os princípios da demonstração"
           }
         },
         {
           "id": "g12-c005",
           "title": {
             "en-US": "Lecture 5 — The principle of non-contradiction",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — O princípio de não contradição"
           }
         },
         {
           "id": "g12-c006",
           "title": {
             "en-US": "Lecture 6 — Contradictories cannot be true at the same time",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — Os contraditórios não podem ser verdadeiros ao mesmo tempo"
           }
         },
         {
           "id": "g12-c007",
           "title": {
             "en-US": "Lecture 7 — Metaphysics differs from all the other sciences",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — A metafísica difere de todas as outras ciências"
           }
         },
         {
           "id": "g12-c008",
           "title": {
             "en-US": "Lecture 8 — No science of accidental being",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Não há ciência do ente por acidente"
           }
         },
         {
           "id": "g12-c009",
           "title": {
             "en-US": "Lecture 9 — The definition of motion",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — A definição do movimento"
           }
         },
         {
           "id": "g12-c010",
           "title": {
             "en-US": "Lecture 10 — The infinite",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — O infinito"
           }
         },
         {
           "id": "g12-c011",
           "title": {
             "en-US": "Lecture 11 — Motion and change",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — Movimento e mudança"
           }
         },
         {
           "id": "g12-c012",
           "title": {
             "en-US": "Lecture 12 — Motion pertains to quantity, quality, and place",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — O movimento diz respeito à quantidade, à qualidade e ao lugar"
           }
         },
         {
           "id": "g12-c013",
           "title": {
             "en-US": "Lecture 13 — Concepts related to motion",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — Conceitos relacionados ao movimento"
           }
         }
       ]
@@ -1116,91 +1271,104 @@
       "id": "g13",
       "title": {
         "en-US": "Book 13 — Mobile and Immobile Substance; The Prime Mover",
-        "la": "Liber 13"
+        "la": "Liber 13",
+        "pt-BR": "Livro 13 — A substância móvel e imóvel; o primeiro motor"
       },
       "children": [
         {
           "id": "g13-c001",
           "title": {
             "en-US": "Lecture 1 — Metaphysics studies substance",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A metafísica estuda a substância"
           }
         },
         {
           "id": "g13-c002",
           "title": {
             "en-US": "Lecture 2 — Three kinds of substances",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Três tipos de substâncias"
           }
         },
         {
           "id": "g13-c003",
           "title": {
             "en-US": "Lecture 3 — Characteristics of forms",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Características das formas"
           }
         },
         {
           "id": "g13-c004",
           "title": {
             "en-US": "Lecture 4 — The principles of movable substances",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Os princípios das substâncias móveis"
           }
         },
         {
           "id": "g13-c005",
           "title": {
             "en-US": "Lecture 5 — An eternal immovable substance must exist",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — É necessário que exista uma substância eterna e imóvel"
           }
         },
         {
           "id": "g13-c006",
           "title": {
             "en-US": "Lecture 6 — Eternal motion requires an eternal mover",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — O movimento eterno exige um motor eterno"
           }
         },
         {
           "id": "g13-c007",
           "title": {
             "en-US": "Lecture 7 — How the first mover causes motion",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Como o primeiro motor causa o movimento"
           }
         },
         {
           "id": "g13-c008",
           "title": {
             "en-US": "Lecture 8 — The perfection of the first substance",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — A perfeição da primeira substância"
           }
         },
         {
           "id": "g13-c009",
           "title": {
             "en-US": "Lecture 9 — The number of primary movers",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — O número dos motores primeiros"
           }
         },
         {
           "id": "g13-c010",
           "title": {
             "en-US": "Lecture 10 — The number of unmoved movers",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — O número dos motores imóveis"
           }
         },
         {
           "id": "g13-c011",
           "title": {
             "en-US": "Lecture 11 — The dignity of the first intelligence",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — A dignidade da primeira inteligência"
           }
         },
         {
           "id": "g13-c012",
           "title": {
             "en-US": "Lecture 12 — God as final cause of the universe",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — Deus como causa final do universo"
           }
         }
       ]
@@ -1209,5 +1377,12 @@
   "arrived": {
     "en-US": "2026-06-04",
     "la": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
+    }
   }
 }

@@ -77,6 +77,10 @@
 			},
 			"blocks": [
 				{
+					"kind": "item",
+					"ref": "practice/nada-te-turbe"
+				},
+				{
 					"kind": "todo",
 					"title": {
 						"en-US": "The Way of Perfection",

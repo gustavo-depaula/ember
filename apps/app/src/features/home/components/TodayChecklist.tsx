@@ -21,6 +21,7 @@ import {
 import { useCurrentHour } from '@/hooks/useCurrentHour'
 import { getToday } from '@/hooks/useToday'
 import { parseSlotKey } from '@/lib/slotKey'
+import { askForReviewIfDue } from '@/lib/storeReview'
 import type { TodayPlan } from '../useTodayPlan'
 import { TierLegend, TimeBlockSection } from './TimeBlockSection'
 
@@ -107,7 +108,11 @@ export function TodayChecklist({
                 {
                   // Mass ticked today: ask, under its row, at which church it was.
                   onSuccess: () => {
-                    if (!isTodaysMass(item.id)) return
+                    if (!isTodaysMass(item.id)) {
+                      // Once the tick has landed, so the sheet doesn't cut off its haptic and check.
+                      if (done) setTimeout(() => void askForReviewIfDue(3), 600)
+                      return
+                    }
                     if (done) askMassWhere(item.id)
                     else stopAskingMassWhere(item.id)
                   },

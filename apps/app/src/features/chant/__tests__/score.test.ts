@@ -77,7 +77,9 @@ describe('layoutScore', () => {
         }
       }
     }
-  })
+    // Some 2,600 scores at two widths take about fifteen seconds alone, past the
+    // suite's twenty when the whole suite runs beside it.
+  }, 90_000)
 
   it('reflows: a narrower page takes more lines, and no mark leaves the page', () => {
     const { score } = chant('gloria-viii')
@@ -162,6 +164,7 @@ describe('inkPaths', () => {
           top: 0,
           height: 10,
           glyphs: ['g'],
+          notes: [],
           marks: [{ type: 'glyph', glyph: 'g', x: 100, y: 50 }],
         },
       ],

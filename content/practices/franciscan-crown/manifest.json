@@ -1,0 +1,52 @@
+{
+	"id": "franciscan-crown",
+	"form": "prayer",
+	"icon": "rosary",
+	"name": {
+		"en-US": "Franciscan Crown",
+		"pt-BR": "Coroa Franciscana"
+	},
+	"categories": [
+		"devotion",
+		"marian"
+	],
+	"estimatedMinutes": 25,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"description": {
+		"en-US": "The Seraphic Rosary of the Seven Joys of Mary: seven decades meditating her joys from the Annunciation to the Assumption, two Hail Marys to make seventy-two for the years of her life, and an Our Father and Hail Mary for the Pope.",
+		"pt-BR": "O Rosário Seráfico das Sete Alegrias de Maria: sete dezenas meditando suas alegrias, da Anunciação à Assunção, duas Ave-Marias para completar setenta e duas pelos anos de sua vida, e um Pai-Nosso e uma Ave-Maria pelo Papa."
+	},
+	"history": {
+		"en-US": "Franciscan tradition tells of a young novice, around 1420, who had been used to crowning a statue of our Lady with fresh flowers and grieved that the cloister left him none. Our Lady appeared and asked instead for a crown of seventy-two Hail Marys, meditating seven of her joys. The practice spread through the whole Order; St. Bernardine of Siena credited it with the graces of his life, and the Popes enriched it with indulgences, plenary for all the children of St. Francis.",
+		"pt-BR": "A tradição franciscana fala de um jovem noviço, por volta de 1420, que costumava coroar uma imagem de Nossa Senhora com flores frescas e se entristecia por não poder mais fazê-lo no claustro. Nossa Senhora apareceu-lhe e pediu, em vez disso, uma coroa de setenta e duas Ave-Marias meditando sete de suas alegrias. A prática espalhou-se por toda a Ordem; São Bernardino de Sena atribuía-lhe as graças de sua vida, e os Papas enriqueceram-na de indulgências, plenária para todos os filhos de São Francisco."
+	},
+	"howToPray": {
+		"en-US": "For each of the seven joys, pray an Our Father, ten Hail Marys and a Glory Be while meditating on it. Then add two Hail Marys, and an Our Father and Hail Mary for the intentions of the Holy Father. Single decades may be said separately during the day.",
+		"pt-BR": "Para cada uma das sete alegrias, reze um Pai-Nosso, dez Ave-Marias e um Glória, meditando-a. Depois acrescente duas Ave-Marias, e um Pai-Nosso e uma Ave-Maria pelas intenções do Santo Padre. As dezenas podem ser rezadas separadamente ao longo do dia."
+	},
+	"source": {
+		"en-US": "*Manual of the Third Order of St. Francis of Assisi*, vol. I (London: Burns, Oates, and Company, 1869), \"The Franciscan Crown\", pp. 305–307 — [archive.org](https://archive.org/details/manualthirdorde01ordegoog/page/n326); the seven joys also listed in *The Raccolta*, 1910 ed., no. 223, p. 214",
+		"pt-BR": "Estrutura segundo o *Manual of the Third Order of St. Francis of Assisi*, vol. I (Londres: Burns, Oates, 1869), pp. 305–307 — [archive.org](https://archive.org/details/manualthirdorde01ordegoog/page/n326). Os enunciados das alegrias foram traduzidos desse inglês para este aplicativo; o versículo inicial é o do corpus, e a oração final é a coleta da Imaculada Conceição em português do Divinum Officium."
+	},
+	"tags": [
+		"chaplet",
+		"franciscan",
+		"seven-joys",
+		"marian",
+		"seraphic-rosary"
+	],
+	"defaults": {
+		"sortOrder": 514,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

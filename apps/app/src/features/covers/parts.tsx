@@ -1,6 +1,6 @@
 import type { ReactNode } from 'react'
-import { type StyleProp, Text, type TextStyle } from 'react-native'
-import Svg, { LinearGradient, Path, Rect, Stop } from 'react-native-svg'
+import { type StyleProp, StyleSheet, Text, type TextStyle } from 'react-native'
+import Svg, { Defs, LinearGradient, Path, Rect, Stop } from 'react-native-svg'
 
 import { type BlockTone, blockInk, blockLabelInk } from '@/features/explore/bgColor'
 
@@ -52,6 +52,30 @@ export function CoverText({
     >
       {children}
     </Text>
+  )
+}
+
+/** A block filled with a tone's diagonal, laid under its content (absolute, behind it). */
+export function ToneFill({
+  id,
+  tone,
+  width,
+  height,
+  radius = 0,
+}: {
+  id: string
+  tone: BlockTone
+  width: number
+  height: number
+  radius?: number
+}) {
+  return (
+    <Svg width={width} height={height} style={StyleSheet.absoluteFill}>
+      <Defs>
+        <ToneGradient id={id} tone={tone} />
+      </Defs>
+      <Rect width={width} height={height} rx={radius} fill={`url(#${id})`} />
+    </Svg>
   )
 }
 

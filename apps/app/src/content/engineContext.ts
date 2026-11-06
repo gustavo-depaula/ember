@@ -29,7 +29,8 @@ export function createEngineContext(
 ): EngineContext {
   const state = usePreferencesStore.getState()
   const contentLanguage = languagePrefs?.contentLanguage ?? state.contentLanguage
-  const secondaryLanguage = languagePrefs?.secondaryLanguage ?? state.secondaryLanguage
+  // A second language is the practice's own choice, so only its caller knows it.
+  const secondaryLanguage = languagePrefs?.secondaryLanguage
 
   const prayers = new Proxy({} as Record<string, import('@ember/content-engine').PrayerAsset>, {
     get(_, ref: string) {

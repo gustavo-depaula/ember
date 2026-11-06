@@ -4,6 +4,10 @@ export type BilingualText = {
   primary: string
   secondary?: string
   secondaryMissing?: boolean
+  // The secondary's language, where the source fixes it whatever the reader
+  // asked for (the missals always set the Latin beside the vernacular). A
+  // renderer shows such a secondary only to a reader who asked for that language.
+  secondaryLanguage?: ContentLanguage
 }
 
 export type LocalizedText = { 'en-US'?: string; 'pt-BR'?: string }

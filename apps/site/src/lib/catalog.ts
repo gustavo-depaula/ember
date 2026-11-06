@@ -95,5 +95,16 @@ export function tileFor(ref: string, locale: Locale): TileData | undefined {
 export function listEntries(
   kind: 'collection' | 'book' | 'chapter' | 'plan-of-life-template' | 'creator' | 'chant',
 ) {
-  return getEntriesByKind(kind).filter(([id]) => !isMetaId(id))
+  return getEntriesByKind(kind).filter(
+    ([id]) => !isMetaId(id) && (kind !== 'chant' || isPublishedChant(id)),
+  )
+}
+
+/**
+ * The site publishes the chants of the Kyriale and of the hymns-and-antiphons
+ * book, not yet the Mass and Office propers of the Graduale and the
+ * Antiphonale, which want a library page of their own before 2,500 more pages.
+ */
+export function isPublishedChant(id: string): boolean {
+  return !getEntry(id)?.proper
 }

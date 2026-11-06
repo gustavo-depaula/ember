@@ -1,0 +1,101 @@
+{
+	"fragments": {
+		"aspiration": [
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "And the Word was made flesh and dwelt amongst us.",
+					"pt-BR": "E o Verbo se fez carne e habitou entre nós."
+				}
+			}
+		]
+	},
+	"sections": [
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "On the medal:",
+				"pt-BR": "Na medalha:"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Divine Infant Jesus, I adore Thy Cross and I accept all the crosses Thou wilt be pleased to send me. Adorable Trinity, I offer Thee for the glory of Thy Holy Name of God, all the adorations of the Sacred Heart of the Holy Infant Jesus.",
+				"pt-BR": "Divino Menino Jesus, adoro a vossa Cruz e aceito todas as cruzes que vos aprouver enviar-me. Trindade adorável, ofereço-vos, para a glória do Santo Nome de Deus, todas as adorações do Sagrado Coração do Santo Menino Jesus."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "The Holy Family",
+				"pt-BR": "A Sagrada Família"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Three Our Fathers in honour of the Holy Family, each preceded by the aspiration.",
+				"pt-BR": "Três Pai-Nossos em honra da Sagrada Família, cada um precedido da jaculatória."
+			}
+		},
+		{
+			"type": "repeat",
+			"count": 3,
+			"sections": [
+				{
+					"type": "fragment",
+					"ref": "aspiration"
+				},
+				{
+					"type": "prayer",
+					"ref": "our-father"
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "The Twelve Years of the Holy Childhood",
+				"pt-BR": "Os Doze Anos da Santa Infância"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Twelve Hail Marys in memory of the twelve years of the Sacred Infancy of our Divine Saviour, each preceded by the aspiration.",
+				"pt-BR": "Doze Ave-Marias em memória dos doze anos da Sagrada Infância do Divino Salvador, cada uma precedida da jaculatória."
+			}
+		},
+		{
+			"type": "repeat",
+			"count": 12,
+			"sections": [
+				{
+					"type": "fragment",
+					"ref": "aspiration"
+				},
+				{
+					"type": "prayer",
+					"ref": "hail-mary"
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Holy Infant Jesus, bless and protect us.",
+				"pt-BR": "Santo Menino Jesus, abençoai-nos e protegei-nos."
+			}
+		}
+	]
+}
