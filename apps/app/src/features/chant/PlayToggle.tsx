@@ -5,7 +5,7 @@ import { useTranslation } from 'react-i18next'
 import { Alert, Pressable } from 'react-native'
 import { useTheme, YStack } from 'tamagui'
 
-import { chantKey, playChant, stopChant, useChantPlayerStore } from './chantPlayer'
+import { canPlayChant, chantKey, playChant, stopChant, useChantPlayerStore } from './chantPlayer'
 
 /**
  * Sounds a chant's melody, or stops it; leaving the page, or its tab, stops it
@@ -36,6 +36,7 @@ export function PlayToggle({ id, score, name }: { id?: string; score: string; na
     })
   }
 
+  if (!canPlayChant) return null
   const Icon = playing ? Square : Play
   return (
     <Pressable

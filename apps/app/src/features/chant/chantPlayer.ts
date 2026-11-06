@@ -2,13 +2,23 @@
 // before. The melody is rendered to a WAV (`melodyWav`) the first time it is
 // played and kept in the cache, then played as a file.
 
-import { type AudioPlayer, createAudioPlayer, setAudioModeAsync } from 'expo-audio'
+import { requireOptionalNativeModule } from 'expo'
+import type { AudioPlayer } from 'expo-audio'
 import { Directory, File, Paths } from 'expo-file-system'
 import { create } from 'zustand'
 import { immer } from 'zustand/middleware/immer'
 
 import { melodyOf, type Tone } from './layoutScore'
 import { melodyWav, toneAt, toneStarts } from './melody'
+
+/**
+ * Whether this build can sound a chant. The store builds leave expo-audio's
+ * native module out (`expo.autolinking.exclude` in package.json), and importing
+ * expo-audio where it is absent throws as the app starts, which makes
+ * expo-updates roll the whole update back. So expo-audio is only imported when
+ * a chant is played, and only where its module is there.
+ */
+export const canPlayChant = requireOptionalNativeModule('ExpoAudio') != null
 
 type ChantPlayerState = {
   /** The chant sounding now: its catalog id, or `chantKey` of its score. */
@@ -67,6 +77,7 @@ export function stopChant(): void {
 /** Plays a chant from its first note, stopping whatever chant was sounding. Throws if it cannot. */
 export async function playChant(key: string, score: string): Promise<void> {
   stopChant()
+  const { createAudioPlayer, setAudioModeAsync } = await import('expo-audio')
   // Heard through the silent switch, as a pitch pipe would be; it stops when the app leaves.
   await setAudioModeAsync({ playsInSilentMode: true, shouldPlayInBackground: false })
   const tones = melodyOf(score)
