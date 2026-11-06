@@ -162,7 +162,7 @@ function PracticeReady({
   const contentLanguage = page.primary
   const translation = usePreferencesStore((s) => s.translation)
   const jurisdiction = usePreferencesStore((s) => s.jurisdiction)
-  const secondaryLang = usePreferencesStore((s) => s.secondaryLanguage)
+  const secondaryLang = page.secondary
   const preprocessCtx = useMemo(
     () => ({
       queryClient,
