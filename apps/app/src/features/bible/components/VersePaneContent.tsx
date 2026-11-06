@@ -1,4 +1,4 @@
-import { ChevronLeft, X } from 'lucide-react-native'
+import { X } from 'lucide-react-native'
 import { type ReactNode, useEffect, useRef } from 'react'
 import { useTranslation } from 'react-i18next'
 import {
@@ -8,7 +8,7 @@ import {
   ScrollView,
   useWindowDimensions,
 } from 'react-native'
-import { useTheme, View, XStack, YStack } from 'tamagui'
+import { useTheme, XStack, YStack } from 'tamagui'
 
 import { PrayerSpinner, Typography } from '@/components'
 import { useBibleStore } from '@/stores/bibleStore'
@@ -25,7 +25,9 @@ import { type useChapterCommentary, useEntryVoices, type VersePaneState } from '
 import { describeParsing, parseRobinson } from '../morphology'
 import { isReferenceKind } from '../references'
 import { isUnchecked, type WordEntry } from '../words'
+import { BackRow } from './BackRow'
 import { CommentaryVoices } from './CommentaryVoices'
+import { TabLine } from './TabLine'
 import { VerseReferenceList } from './VerseReferences'
 
 /** How much of the screen the half page takes where it opens. */
@@ -199,37 +201,24 @@ export function PaneKinds({
   bottomPadding: number
 }) {
   const { t } = useTranslation()
-  const theme = useTheme()
   const { width } = useWindowDimensions()
   const setKind = useBibleStore((s) => s.setPaneKind)
-  const chosen = useBibleStore((s) => s.paneKind)
-  const { references } = pane
-  // A Greek verse's words come first; a verse with no Vulgate counterpart has
-  // nothing else to show.
-  const kinds = [...(verseWords ? ['words'] : []), ...(unmatched ? [] : pane.kinds)]
-  const kind =
-    verseWords && chosen === 'words' ? 'words' : kinds.includes(pane.kind) ? pane.kind : kinds[0]
+  const { references, kinds, kind } = pane
   const { sources } = commentary
   const tabs = kinds.map((id) => {
-    if (id === 'words') return { id, label: t('bible.kinds.words'), count: undefined }
+    if (id === 'words') return { id, label: t('bible.kinds.words') }
     const commentator = sources.find((s) => s.id === id)
-    if (commentator) return { id, label: commentator.name, count: undefined }
+    if (commentator) return { id, label: commentator.name }
+    const label = t(`bible.kinds.${id}`)
+    // Every verse has its other editions: a count of them would say nothing.
+    const count = isReferenceKind(id) && id !== 'translations' ? references.counts[id] : undefined
     return {
       id,
-      label: t(`bible.kinds.${id}`),
-      // Every verse has its other editions: a count of them would say nothing.
-      count: isReferenceKind(id) && id !== 'translations' ? references.counts[id] : undefined,
+      label,
+      count,
+      a11yLabel: count ? t('a11y.verseKind', { name: label, count }) : undefined,
     }
   })
-
-  // The kind in hand is brought onto the line's visible stretch: it may be
-  // the last of eight, chosen on another verse.
-  const lineRef = useRef<ScrollView>(null)
-  const tabLefts = useRef(new Map<string, number>())
-  function showOnLine(id: string) {
-    const left = tabLefts.current.get(id)
-    if (left !== undefined) lineRef.current?.scrollTo({ x: Math.max(0, left - 72) })
-  }
 
   // The pages follow the kind in hand: it changes under them when a tab is
   // tapped, and its place among them when a verse has other kinds to show.
@@ -240,7 +229,6 @@ export function PaneKinds({
   }
   // biome-ignore lint/correctness/useExhaustiveDependencies: the kind's page is the trigger
   useEffect(() => {
-    showOnLine(kind)
     turnToPage()
   }, [kind, page, width])
 
@@ -261,76 +249,8 @@ export function PaneKinds({
 
   return (
     <YStack flex={1}>
-      <View borderBottomWidth={1} borderBottomColor="$borderColor">
-        <ScrollView
-          ref={lineRef}
-          horizontal
-          showsHorizontalScrollIndicator={false}
-          contentContainerStyle={{ paddingHorizontal: 24, gap: 20 }}
-          accessibilityRole="tablist"
-        >
-          {tabs.map((tab) => {
-            const selected = tab.id === kind
-            return (
-              <Pressable
-                key={tab.id}
-                onLayout={(e) => {
-                  tabLefts.current.set(tab.id, e.nativeEvent.layout.x)
-                  if (selected) showOnLine(tab.id)
-                }}
-                onPress={() => setKind(tab.id)}
-                accessibilityRole="tab"
-                accessibilityLabel={
-                  tab.count ? t('a11y.verseKind', { name: tab.label, count: tab.count }) : tab.label
-                }
-                accessibilityState={{ selected }}
-                aria-selected={selected}
-              >
-                <XStack
-                  minHeight={40}
-                  alignItems="center"
-                  gap={6}
-                  borderBottomWidth={2}
-                  borderBottomColor={selected ? '$colorBurgundy' : 'transparent'}
-                >
-                  <Typography
-                    variant="label"
-                    fontSize="$1"
-                    letterSpacing={1.5}
-                    color={selected ? '$colorBurgundy' : '$color'}
-                  >
-                    {tab.label.toUpperCase()}
-                  </Typography>
-                  {tab.count ? (
-                    <Typography
-                      variant="annotation"
-                      fontSize="$1"
-                      marginLeft={4}
-                      color={selected ? '$colorBurgundy' : '$colorSecondary'}
-                    >
-                      {tab.count}
-                    </Typography>
-                  ) : undefined}
-                </XStack>
-              </Pressable>
-            )
-          })}
-        </ScrollView>
-      </View>
-      {cameFrom ? (
-        <Pressable
-          onPress={onReturn}
-          accessibilityRole="button"
-          accessibilityLabel={t('a11y.backToPlace', { place: cameFrom })}
-        >
-          <XStack alignItems="center" gap="$xs" minHeight={36} paddingHorizontal={24}>
-            <ChevronLeft size={16} color={theme.colorSecondary.val} />
-            <Typography variant="annotation" fontSize="$2">
-              {cameFrom}
-            </Typography>
-          </XStack>
-        </Pressable>
-      ) : undefined}
+      <TabLine tabs={tabs} selected={kind ?? ''} onSelect={setKind} ruled />
+      {cameFrom ? <BackRow place={cameFrom} onPress={onReturn} /> : undefined}
       <ScrollView
         ref={pagesRef}
         horizontal

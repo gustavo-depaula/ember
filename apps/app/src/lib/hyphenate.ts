@@ -8,6 +8,7 @@ const ptPatterns = require('hyphen/patterns/pt')
 const laPatterns = require('hyphen/patterns/la')
 
 import { usePreferencesStore } from '@/stores/preferencesStore'
+import { isGreek } from './typography/greek'
 import { hyphenateGreek } from './typography/hyphenGreek'
 
 const hyphenators = {
@@ -21,6 +22,6 @@ const hyphenators = {
 
 export function hyphenate(text: string, language?: string): string {
   const lang = language ?? usePreferencesStore.getState().contentLanguage
-  const fn = hyphenators[lang] ?? hyphenators['en-US']
+  const fn = hyphenators[isGreek(lang) ? 'grc' : lang] ?? hyphenators['en-US']
   return fn(text)
 }

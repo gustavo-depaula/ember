@@ -1,4 +1,4 @@
-import { useQueries, useQuery, useQueryClient } from '@tanstack/react-query'
+import { type QueryClient, useQueries, useQuery, useQueryClient } from '@tanstack/react-query'
 import { useEffect, useRef } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useShallow } from 'zustand/react/shallow'
@@ -26,7 +26,7 @@ import {
   readingsForVerse,
   referenceKinds,
 } from './references'
-import { getVersificationAt } from './versification'
+import { type Address, getVersification, getVersificationAt } from './versification'
 import { getChapterWords, getLexiconSources, getOccurrences, lookUp } from './words'
 
 export function useBooks(translation: string) {
@@ -68,12 +68,66 @@ export function useBibleResume() {
   return useBiblePlaces().at(0)
 }
 
-/** How the edition's verses map onto the shared address the rest of the Bible layer uses. */
-export function useVersification(translation: string, bookId: string) {
+/**
+ * How an edition's verses map onto the shared address the rest of the Bible
+ * layer uses. `edition` is the one a page was actually read from (a chapter's
+ * `edition`): the Douay-Rheims standing in is numbered as the Vulgate, whatever
+ * the edition chosen.
+ */
+export function useVersification(edition: string | undefined) {
   return useQuery({
-    queryKey: ['bible', 'versification', translation, bookId],
-    queryFn: () => getVersificationAt(translation, bookId),
+    queryKey: ['bible', 'versification', edition],
+    queryFn: () => getVersification(edition as string),
+    enabled: edition !== undefined,
     staleTime: Number.POSITIVE_INFINITY,
+  })
+}
+
+/** A chapter through the reader's own query, so a chapter open on the page is not read twice. */
+function readChapter(
+  queryClient: QueryClient,
+  translation: string,
+  bookId: string,
+  chapter: number,
+) {
+  return queryClient.fetchQuery({
+    queryKey: ['chapter', translation, bookId, chapter],
+    queryFn: () => getChapter(translation, bookId, chapter),
+    staleTime: Number.POSITIVE_INFINITY,
+  })
+}
+
+/**
+ * An edition's verse at a shared address: carried into the edition's own
+ * numbering and read there. `edition` is the one it was read from; `fallback`
+ * where the Douay-Rheims stood in, read at the shared address itself, since
+ * it is numbered so.
+ */
+export async function readVerseAt(
+  queryClient: QueryClient,
+  translation: string,
+  place: Address,
+): Promise<{ text?: string; edition: string; fallback: boolean }> {
+  const versification = await getVersificationAt(translation, place.bookId)
+  const own = versification.fromShared(place)
+  if (!own) return { edition: translation, fallback: false }
+  const data = await readChapter(queryClient, translation, own.bookId, own.chapter)
+  const at = data.fallback ? place : own
+  const verses =
+    at === own ? data.verses : (await readChapter(queryClient, 'DRB', at.bookId, at.chapter)).verses
+  return {
+    text: verses.find((v) => v.verse === at.verse)?.text,
+    edition: data.edition,
+    fallback: data.fallback === true,
+  }
+}
+
+/** The verse at a shared address in the reader's edition, as `readVerseAt` reads it. */
+export function useVerseAt(translation: string, place: Address) {
+  const queryClient = useQueryClient()
+  return useQuery({
+    queryKey: ['bible', 'verse-in', translation, place.bookId, place.chapter, place.verse],
+    queryFn: () => readVerseAt(queryClient, translation, place),
   })
 }
 
@@ -254,11 +308,12 @@ export function useVersePane(
   chapter: number,
   verse: number | undefined,
   commentary: ReturnType<typeof useChapterCommentary>,
+  { hasWords, unmatched }: { hasWords: boolean; unmatched: boolean },
 ) {
   const chosen = useBibleStore((s) => s.paneKind)
   const references = useVerseReferences(bookId, chapter, verse ?? 0, verse !== undefined)
   // A kind still being read keeps its place, so the line does not jump as it fills.
-  const kinds = [
+  const pointing = [
     ...commentary.sources
       .filter(
         (s) =>
@@ -268,7 +323,13 @@ export function useVersePane(
       .map((s) => s.id),
     ...referenceKinds.filter((id) => references.status[id].isLoading || references.counts[id] > 0),
   ]
-  return { references, kinds, kind: kinds.includes(chosen) ? chosen : kinds[0] }
+  // A Greek verse's words come first; a verse with no Vulgate counterpart has
+  // nothing else to show.
+  const kinds = [...(hasWords ? ['words'] : []), ...(unmatched ? [] : pointing)]
+  // Where the kind last chosen is not on this verse's line, what speaks of
+  // the verse stands in before its words.
+  const kind = kinds.includes(chosen) ? chosen : (kinds.find((k) => k !== 'words') ?? kinds[0])
+  return { references, kinds, kind }
 }
 
 export type VersePaneState = ReturnType<typeof useVersePane>
@@ -291,21 +352,19 @@ export function useLexiconSources() {
 }
 
 /** A lemma's entries in one lexicon, the exact spelling first. */
-export function useLexiconEntries(source: string, lemma: string | undefined) {
+export function useLexiconEntries(source: string, lemma: string) {
   return useQuery({
     queryKey: ['bible', 'lexicon', source, lemma],
-    queryFn: () => lookUp(source, lemma as string),
-    enabled: lemma !== undefined,
+    queryFn: () => lookUp(source, lemma),
     staleTime: Number.POSITIVE_INFINITY,
   })
 }
 
 /** Every verse of an edition where a lemma stands, in canonical order. */
-export function useOccurrences(edition: string, lemma: string | undefined) {
+export function useOccurrences(edition: string, lemma: string) {
   return useQuery({
     queryKey: ['bible', 'occurrences', edition, lemma],
-    queryFn: () => getOccurrences(edition, lemma as string),
-    enabled: lemma !== undefined,
+    queryFn: () => getOccurrences(edition, lemma),
     staleTime: Number.POSITIVE_INFINITY,
   })
 }
@@ -313,30 +372,36 @@ export function useOccurrences(edition: string, lemma: string | undefined) {
 /**
  * Each of a chapter's verses in another edition, for reading the two side by
  * side: carried through both editions' tables, so the Septuagint's Jeremiah
- * 32 stands beside the Douay's chapter 25. A verse the other lacks is absent.
+ * 32 stands beside the Douay's chapter 25. Keyed by the page's own verse; a
+ * verse the other lacks is absent. The whole chapter at once, so every caller
+ * on the chapter (the parallel page, a word's occurrences) shares one read.
  */
 export function useParallelVerses(
   edition: string,
   parallel: string,
   bookId: string,
   chapter: number,
-  verses: number[] | undefined,
+  enabled = true,
 ) {
+  const queryClient = useQueryClient()
   return useQuery({
-    queryKey: ['bible', 'parallel', edition, parallel, bookId, chapter, verses],
-    enabled: verses !== undefined,
+    queryKey: ['bible', 'parallel', edition, parallel, bookId, chapter],
+    enabled,
     staleTime: Number.POSITIVE_INFINITY,
     queryFn: async () => {
-      const [own, other] = await Promise.all([
+      const [page, own, other] = await Promise.all([
+        readChapter(queryClient, edition, bookId, chapter),
         getVersificationAt(edition, bookId),
         getVersificationAt(parallel, bookId),
       ])
-      const places = (verses ?? []).map((verse) => {
+      const places = page.verses.map(({ verse }) => {
         const shared = own.toShared({ bookId, chapter, verse })
         return { verse, at: shared && other.fromShared(shared) }
       })
       const chapters = [...new Set(places.flatMap(({ at }) => (at ? [at.chapter] : [])))]
-      const read = await Promise.all(chapters.map((c) => getChapter(parallel, bookId, c)))
+      const read = await Promise.all(
+        chapters.map((c) => readChapter(queryClient, parallel, bookId, c)),
+      )
       const text = (c: number, v: number) =>
         read[chapters.indexOf(c)]?.verses.find((x) => x.verse === v)?.text
       return Object.fromEntries(

@@ -4,10 +4,11 @@ import { Pressable } from 'react-native'
 import { XStack, YStack } from 'tamagui'
 
 import { Typography } from '@/components'
-import { useReadingFontSizePx, useReadingMargin, useReadingMaxWidth } from '@/hooks/useReadingStyle'
+import { useReadingFontSizePx } from '@/hooks/useReadingStyle'
 import type { Verse } from '@/lib/content'
 
-import { isUnchecked, type WordEntry } from '../words'
+import { isUnchecked, verseTokens, type WordEntry } from '../words'
+import { ChapterFrame } from './ChapterFrame'
 import type { StudiedWord } from './greekWords'
 
 /**
@@ -19,6 +20,8 @@ import type { StudiedWord } from './greekWords'
 export function InterlinearChapter({
   bookName,
   chapter,
+  fallback,
+  completedBy,
   verses,
   words,
   lemma,
@@ -32,6 +35,8 @@ export function InterlinearChapter({
 }: {
   bookName: string
   chapter: number
+  fallback?: boolean
+  completedBy?: string
   verses: Verse[]
   words: Record<number, WordEntry[]>
   lemma: boolean
@@ -45,29 +50,17 @@ export function InterlinearChapter({
 }) {
   const { t } = useTranslation()
   const fontSize = useReadingFontSizePx()
-  const margin = useReadingMargin()
-  const maxWidth = useReadingMaxWidth()
   const tops = useRef(new Map<number, number>()).current
   const small = Math.round(fontSize * 0.62)
 
   return (
-    <YStack
+    <ChapterFrame
+      bookName={bookName}
+      chapter={chapter}
+      fallback={fallback}
+      completedBy={completedBy}
       gap="$lg"
-      paddingVertical="$lg"
-      paddingHorizontal={margin}
-      width="100%"
-      maxWidth={maxWidth}
-      alignSelf="center"
     >
-      <YStack alignItems="center" gap="$md" paddingBottom="$md">
-        <Typography variant="label" tone="muted" fontSize="$5" textAlign="center">
-          {bookName}
-        </Typography>
-        <Typography variant="label" tone="muted" fontSize="$4">
-          {t('position.chapter', { n: chapter })}
-        </Typography>
-      </YStack>
-
       {verses.map((v) => {
         const entries = words[v.verse] ?? []
         return (
@@ -97,7 +90,7 @@ export function InterlinearChapter({
               </Typography>
             </Pressable>
             <XStack flex={1} flexWrap="wrap" columnGap={14} rowGap={12}>
-              {v.text.split(/\s+/).map((token, index) => {
+              {verseTokens(v.text).map((token, index) => {
                 const [lemmaOf, morph, gloss] = entries[index] ?? []
                 const isStudied = studied?.verse === v.verse && studied.index === index
                 return (
@@ -142,6 +135,6 @@ export function InterlinearChapter({
           </XStack>
         )
       })}
-    </YStack>
+    </ChapterFrame>
   )
 }

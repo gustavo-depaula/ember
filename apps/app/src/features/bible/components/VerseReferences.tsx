@@ -6,7 +6,6 @@ import { XStack, YStack } from 'tamagui'
 
 import { PrayerSpinner, Typography } from '@/components'
 import { translationsFor } from '@/lib/bibleTranslations'
-import { getChapter } from '@/lib/content'
 import { localizeContent } from '@/lib/i18n'
 import { loadMissalCalendar } from '@/lib/missal/loaders'
 import { fetchParagraphs } from '@/sources/ccc/extract'
@@ -16,7 +15,7 @@ import { usePreferencesStore } from '@/stores/preferencesStore'
 
 import type { CitingDocument } from '../citations'
 import { spanLabel } from '../commentary'
-import { useBookName, type VerseReferences } from '../hooks'
+import { readVerseAt, useBookName, type VerseReferences } from '../hooks'
 import {
   type CitedVerses,
   getParagraphScripture,
@@ -26,7 +25,6 @@ import {
   type Talk,
   versesLabel,
 } from '../references'
-import { getVersificationAt } from '../versification'
 import { CitedSections } from './CitedSections'
 import { Capped, ReferenceRow } from './ReferenceRow'
 
@@ -227,18 +225,7 @@ function VerseTranslations({
       queryKey: ['bible', 'verse-in', edition.code, bookId, chapter, verse],
       // `chapter` and `verse` are the shared address: each edition is read
       // at its own verse there, where it has one.
-      queryFn: async () => {
-        const versification = await getVersificationAt(edition.code, bookId)
-        const own = versification.fromShared({ bookId, chapter, verse })
-        if (!own) return { fallback: false, text: undefined }
-        // The reader's own key for a chapter, so the edition open above is already here.
-        const data = await queryClient.fetchQuery({
-          queryKey: ['chapter', edition.code, own.bookId, own.chapter],
-          queryFn: () => getChapter(edition.code, own.bookId, own.chapter),
-        })
-        const text = data.verses.find((v) => v.verse === own.verse)?.text
-        return { fallback: data.fallback === true, text }
-      },
+      queryFn: () => readVerseAt(queryClient, edition.code, { bookId, chapter, verse }),
     })),
   })
   return (

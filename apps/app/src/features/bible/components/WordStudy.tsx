@@ -2,7 +2,7 @@ import { ChevronLeft, ChevronRight, X } from 'lucide-react-native'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, ScrollView } from 'react-native'
-import { useTheme, View, XStack, YStack } from 'tamagui'
+import { useTheme, XStack, YStack } from 'tamagui'
 
 import { PrayerSpinner, Typography } from '@/components'
 import { InlineMarkdown } from '@/components/prayer/InlineMarkdown'
@@ -18,7 +18,9 @@ import {
 } from '../hooks'
 import { describeParsing, parseRobinson } from '../morphology'
 import { transliterate } from '../transliterate'
-import { isUnchecked, type Place, type WordEntry } from '../words'
+import { isUnchecked, verseTokens, type WordEntry } from '../words'
+import { BackRow } from './BackRow'
+import { TabLine } from './TabLine'
 
 // The lexicons in the order the sheet offers them: the short NT glosses first,
 // Liddell, who knows the Septuagint's words too, after.
@@ -41,7 +43,7 @@ function bare(token: string) {
  */
 export function WordStudy({
   edition,
-  bookId,
+  bookName,
   chapter,
   verse,
   token,
@@ -54,7 +56,7 @@ export function WordStudy({
   onOpenPlace,
 }: {
   edition: string
-  bookId: string
+  bookName: string
   chapter: number
   verse: number
   /** The word as printed on the page. */
@@ -71,7 +73,6 @@ export function WordStudy({
 }) {
   const { t } = useTranslation()
   const theme = useTheme()
-  const bookName = useBookName(edition, bookId)
   const [lemma, morph, gloss] = entry
   const [tab, setTab] = useState<Tab>('dodson')
   const dodson = useLexiconEntries('dodson', lemma)
@@ -122,20 +123,7 @@ export function WordStudy({
           </Pressable>
         </XStack>
       </XStack>
-      {backTo ? (
-        <Pressable
-          onPress={onBack}
-          accessibilityRole="button"
-          accessibilityLabel={t('a11y.backToPlace', { place: backTo })}
-        >
-          <XStack alignItems="center" gap="$xs" minHeight={36} paddingHorizontal="$lg">
-            <ChevronLeft size={16} color={theme.colorSecondary.val} />
-            <Typography variant="annotation" fontSize="$2">
-              {backTo}
-            </Typography>
-          </XStack>
-        </Pressable>
-      ) : undefined}
+      {backTo ? <BackRow place={backTo} onPress={onBack} /> : undefined}
 
       <ScrollView
         contentContainerStyle={{
@@ -187,56 +175,22 @@ export function WordStudy({
           </XStack>
         </YStack>
 
-        <ScrollView
-          horizontal
-          showsHorizontalScrollIndicator={false}
-          style={{ marginTop: 16, marginHorizontal: -24 }}
-          contentContainerStyle={{ paddingHorizontal: 24, gap: 24 }}
-          accessibilityRole="tablist"
-        >
-          {[...lexicons, 'occurrences' as const].map((id) => {
-            const selected = id === tab
-            const label = t(`bible.study.tabs.${id}`)
-            return (
-              <Pressable
-                key={id}
-                onPress={() => setTab(id)}
-                accessibilityRole="tab"
-                accessibilityLabel={label}
-                accessibilityState={{ selected }}
-                aria-selected={selected}
-              >
-                <View
-                  minHeight={40}
-                  justifyContent="center"
-                  borderBottomWidth={2}
-                  borderBottomColor={selected ? '$colorBurgundy' : 'transparent'}
-                >
-                  <Typography
-                    variant="label"
-                    fontSize="$1"
-                    letterSpacing={1.5}
-                    color={selected ? '$colorBurgundy' : '$color'}
-                  >
-                    {label.toUpperCase()}
-                  </Typography>
-                </View>
-              </Pressable>
-            )
-          })}
-        </ScrollView>
-        <View height={1} backgroundColor="$borderColor" marginHorizontal={-24} />
+        <YStack marginTop={16}>
+          <TabLine
+            tabs={[...lexicons, 'occurrences' as const].map((id) => ({
+              id,
+              label: t(`bible.study.tabs.${id}`),
+            }))}
+            selected={tab}
+            onSelect={setTab}
+            bleed
+            ruled
+          />
+        </YStack>
 
         <YStack paddingTop="$md">
           {tab === 'occurrences' ? (
-            <Occurrences
-              edition={edition}
-              lemma={lemma}
-              places={occurrences.data}
-              isLoading={occurrences.isLoading}
-              error={occurrences.error ?? undefined}
-              onOpenPlace={onOpenPlace}
-            />
+            <Occurrences edition={edition} lemma={lemma} onOpenPlace={onOpenPlace} />
           ) : (
             <LexiconTab source={tab} lemma={lemma} />
           )}
@@ -285,20 +239,15 @@ function LexiconTab({ source, lemma }: { source: string; lemma: string }) {
 function Occurrences({
   edition,
   lemma,
-  places,
-  isLoading,
-  error,
   onOpenPlace,
 }: {
   edition: string
   lemma: string
-  places: Place[] | undefined
-  isLoading: boolean
-  error?: Error
   onOpenPlace: (bookId: string, chapter: number, verse: number) => void
 }) {
   const { t } = useTranslation()
   const [shown, setShown] = useState(occurrencePage)
+  const { data: places, isLoading, error } = useOccurrences(edition, lemma)
   if (error) return <Typography variant="annotation">{t('common.couldntLoad')}</Typography>
   if (isLoading || !places) return <PrayerSpinner />
   return (
@@ -351,9 +300,10 @@ function Occurrence({
   const words = useChapterWords(edition, bookId, chapter)
   // The verse in the Douay-Rheims beneath, carried through the edition's
   // numbering: the reader who cannot yet read the Greek reads what it says.
-  const douay = useParallelVerses(edition, 'DRB', bookId, chapter, [verse])
+  const douay = useParallelVerses(edition, 'DRB', bookId, chapter)
   const label = `${bookName} ${chapter}:${verse}`
-  const tokens = text.data?.verses.find((v) => v.verse === verse)?.text.split(/\s+/)
+  const found = text.data?.verses.find((v) => v.verse === verse)
+  const tokens = found && verseTokens(found.text)
   const lemmas = words.data?.[verse]
   return (
     <Pressable onPress={onOpen} accessibilityRole="link" accessibilityLabel={label}>

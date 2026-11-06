@@ -15,13 +15,7 @@ import {
   readingMinutes,
   spanLabel,
 } from '../commentary'
-import {
-  useBookName,
-  useChapter,
-  useChapterCommentary,
-  useEntryVoices,
-  useVersification,
-} from '../hooks'
+import { useBookName, useChapterCommentary, useEntryVoices, useVerseAt } from '../hooks'
 import { CommentaryVoices } from './CommentaryVoices'
 
 /** One commentator on the verse, in full: each entry's words, read from where they are kept. */
@@ -87,14 +81,13 @@ export function VersePage({
   const bookName = useBookName(translation, bookId)
   // `chapter` and `verse` are the shared address the commentary is read at;
   // the verse's words are the edition's own verse there.
-  const { data: versification } = useVersification(translation, bookId)
-  const own = versification?.fromShared({ bookId, chapter, verse })
-  const { data: chapterData } = useChapter(translation, bookId, own?.chapter ?? chapter)
+  const { data: read } = useVerseAt(translation, { bookId, chapter, verse })
   const { sources, bySource, isLoading, error } = useChapterCommentary(bookId, chapter, true)
 
-  const text = own && chapterData?.verses.find((v) => v.verse === own.verse)?.text
-  // A stand-in chapter is the Douay-Rheims, whatever the edition chosen.
-  const edition = chapterData?.fallback ? findTranslation('DRB') : findTranslation(translation)
+  const text = read?.text
+  // Named as the edition it was read from: a stand-in Douay-Rheims, or the
+  // edition completing the one chosen.
+  const edition = findTranslation(read?.edition ?? translation)
   const spoken = sources
     .filter((s) => source === undefined || s.id === source)
     .map((s) => ({ source: s, entries: entriesForVerse(bySource[s.id] ?? [], verse) }))

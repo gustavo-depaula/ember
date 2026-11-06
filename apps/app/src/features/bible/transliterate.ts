@@ -48,32 +48,29 @@ export function transliterate(word: string): string {
     const letter = char.toLowerCase()
     units.push({ letter, rough: false, diaeresis: false, upper: letter !== char })
   }
-  let out = ''
-  units.forEach((unit, i) => {
-    const previous = units[i - 1]
-    const next = units[i + 1]
-    const latin = letters[unit.letter]
-    if (latin === undefined) {
-      out += unit.letter
-      return
-    }
-    const inDiphthong =
-      unit.letter === 'υ' && previous && 'αεηο'.includes(previous.letter) && !unit.diaeresis
-    let piece = (() => {
+  // A rough breathing opens a word: it stands on the first vowel, or on the
+  // second of an opening diphthong (υἱός, αἷμα), and is said first either way.
+  const [first, second] = units
+  const isVowel = (unit: (typeof units)[number] | undefined) =>
+    unit !== undefined && vowels.includes(unit.letter)
+  const h =
+    (first?.rough && first.letter !== 'ρ') || (isVowel(first) && isVowel(second) && second.rough)
+  const body = units
+    .map((unit, i) => {
+      const previous = units[i - 1]
+      const next = units[i + 1]
+      const latin = letters[unit.letter]
+      if (latin === undefined) return unit.letter
       if (unit.letter === 'γ' && next && velars.includes(next.letter)) return 'n'
-      if (inDiphthong || (unit.letter === 'υ' && next?.letter === 'ι' && !next.diaeresis))
-        return 'u'
+      // υ closing a diphthong, or opening υι, unless a diaeresis parts the two.
+      const inDiphthong =
+        (previous && 'αεηο'.includes(previous.letter) && !unit.diaeresis) ||
+        (next?.letter === 'ι' && !next.diaeresis)
+      if (unit.letter === 'υ' && inDiphthong) return 'u'
       if (unit.letter === 'ρ' && unit.rough) return 'rh'
       return latin
-    })()
-    // The breathing of a diphthong stands on its second vowel, but is said first.
-    const rough =
-      (unit.rough && unit.letter !== 'ρ') ||
-      (next?.rough && vowels.includes(unit.letter) && vowels.includes(next.letter) && i === 0)
-    const breathed = rough && !(previous && vowels.includes(previous.letter) && i === 1)
-    if (breathed) piece = `h${piece}`
-    if (unit.upper && i === 0) piece = piece[0].toUpperCase() + piece.slice(1)
-    out += piece
-  })
-  return out
+    })
+    .join('')
+  const out = h ? `h${body}` : body
+  return first?.upper ? out.charAt(0).toUpperCase() + out.slice(1) : out
 }

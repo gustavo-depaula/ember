@@ -15,6 +15,7 @@ import type { TextStyle } from 'react-native'
 
 import type { ReadingFontId } from '@/config/readingFonts'
 import { type FontMetrics, getFontMetrics, type TextStyleName } from './fontMetrics'
+import { isGreek } from './greek'
 import { hyphenateGreek } from './hyphenGreek'
 import { laLiturgicPatterns } from './hyphenLaLiturgic.generated'
 
@@ -141,8 +142,7 @@ function getHyphenator(language: string | undefined) {
   const key = (() => {
     if (lang.startsWith('pt')) return 'pt'
     if (lang.startsWith('la')) return 'la'
-    // Koine (`grc`) and modern Greek share one syllabification.
-    if (lang.startsWith('grc') || lang.startsWith('el')) return 'grc'
+    if (isGreek(lang)) return 'grc'
     return 'en'
   })()
   if (hyphenators.has(key)) return hyphenators.get(key)
@@ -290,22 +290,48 @@ export function justifyText({
   const keyOf = (s: StyledSegment) =>
     `${s.style}|${s.fontSizePx ?? fontSizePx}|${s.letterSpacing ?? 0}|${s.atomic ? 1 : 0}|${identity(s.render)}|${identity(s.onPress)}|${identity(s.onLongPress)}`
 
+  // A Greek verse is a segment per word, each with a tap target of its own and
+  // so a run of its own: what a run is measured with depends only on its face,
+  // size and tracking, so that is worked out once per look and shared.
+  const faces = new Map<
+    string,
+    { metrics: FontMetrics; sizePx: number; spaceWidth: number; hyphenWidth: number } | undefined
+  >()
+  const faceOf = (segment: StyledSegment) => {
+    const letterSpacingPx = segment.letterSpacing ?? 0
+    const key = `${segment.style}|${segment.fontSizePx ?? fontSizePx}|${letterSpacingPx}`
+    if (faces.has(key)) return faces.get(key)
+    const face = (() => {
+      // A missing face means the platform would synthesize a width we can't
+      // predict, so the whole paragraph declines rather than drifting.
+      const metrics = getFontMetrics(fontFamilyId, segment.style)
+      if (!metrics) return undefined
+      const sizePx = drawnSizePx(segment.fontSizePx ?? fontSizePx)
+      if (!(sizePx > 0)) return undefined
+      const spaceWidth = metrics.width(' ', sizePx) + letterSpacingPx
+      if (!(spaceWidth > 0)) return undefined
+      return { metrics, sizePx, spaceWidth, hyphenWidth: metrics.width('-', sizePx) }
+    })()
+    faces.set(key, face)
+    return face
+  }
+
   const runIndex = new Map<string, number>()
   const runs: JustifRun[] = []
+  const segmentRuns: number[] = []
   for (const segment of segments) {
     const key = keyOf(segment)
-    if (runIndex.has(key)) continue
-    // A missing face means the platform would synthesize a width we can't
-    // predict, so the whole paragraph declines rather than drifting.
-    const metrics = getFontMetrics(fontFamilyId, segment.style)
-    if (!metrics) return undefined
-
-    const sizePx = drawnSizePx(segment.fontSizePx ?? fontSizePx)
+    const known = runIndex.get(key)
+    if (known !== undefined) {
+      segmentRuns.push(known)
+      continue
+    }
+    const face = faceOf(segment)
+    if (!face) return undefined
+    const { metrics, sizePx, spaceWidth, hyphenWidth } = face
     const letterSpacingPx = segment.letterSpacing ?? 0
-    if (!(sizePx > 0)) return undefined
-    const spaceWidth = metrics.width(' ', sizePx) + letterSpacingPx
-    if (!(spaceWidth > 0)) return undefined
 
+    segmentRuns.push(runs.length)
     runIndex.set(key, runs.length)
     runs.push({
       fontKey: `${fontFamilyId}-${key}`,
@@ -314,7 +340,7 @@ export function justifyText({
       space: segment.atomic
         ? { width: spaceWidth, stretch: 0, shrink: 0 }
         : { width: spaceWidth, stretch: spaceWidth * 0.5, shrink: spaceWidth / 3 },
-      hyphenWidth: metrics.width('-', sizePx),
+      hyphenWidth,
       // Static faces — no `wdth` axis to expand along.
       ratioAtMax: 1,
       ratioAtMin: 1,
@@ -373,7 +399,7 @@ export function justifyText({
   try {
     const texts = segments.map((s, i) => ({
       text: s.text,
-      run: runIndex.get(keyOf(s)) as number,
+      run: segmentRuns[i],
       // Per SEGMENT rather than per run: two citations sharing an appearance
       // must still allow a break between them, they are separate atoms.
       ...(s.atomic ? { atomicKey: i + 1 } : {}),

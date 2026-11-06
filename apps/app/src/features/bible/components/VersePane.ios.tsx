@@ -12,8 +12,9 @@ import { PaneBar, PaneKinds, paneFraction, type VersePaneProps } from './VersePa
  * in use: it opens part-way, the page above it still scrolls and takes taps,
  * and drawn up it covers the page for a long read. Swiped down, it closes.
  */
-export function VersePane({ verse, onClose, ...content }: VersePaneProps) {
+export function VersePane({ verse, onClose, renderStudy, ...content }: VersePaneProps) {
   const insets = useSafeAreaInsets()
+  const bottomPadding = insets.bottom + 24
   const sheet = useMemo(createSheet, [])
   // A sheet stands over the whole window, so it steps aside for a page the
   // reader opens from it (an article, a homily) and returns with the reader.
@@ -41,16 +42,18 @@ export function VersePane({ verse, onClose, ...content }: VersePaneProps) {
     <NativeSheet sheet={sheet} fraction={paneFraction} letsThrough>
       {({ height }) => (
         <YStack height={height} paddingTop="$md">
-          {showing === undefined ? undefined : content.renderStudy ? (
-            content.renderStudy(insets.bottom + 24)
-          ) : (
-            <>
-              <YStack paddingHorizontal="$lg">
-                <PaneBar {...content} verse={showing} onClose={onClose} />
-              </YStack>
-              <PaneKinds {...content} verse={showing} bottomPadding={insets.bottom + 24} />
-            </>
-          )}
+          {(() => {
+            if (showing === undefined) return undefined
+            if (renderStudy) return renderStudy(bottomPadding)
+            return (
+              <>
+                <YStack paddingHorizontal="$lg">
+                  <PaneBar {...content} verse={showing} onClose={onClose} />
+                </YStack>
+                <PaneKinds {...content} verse={showing} bottomPadding={bottomPadding} />
+              </>
+            )
+          })()}
         </YStack>
       )}
     </NativeSheet>

@@ -34,9 +34,11 @@ function DividedPane({
   maxHeight,
   onResize,
   onClose,
+  renderStudy,
   ...content
 }: VersePaneProps & { verse: number }) {
   const insets = useSafeAreaInsets()
+  const bottomPadding = insets.bottom + 24
   // The half page stands over the floating tab bar, as a sheet would. Only
   // while its reader is the screen in front: a page opened from it has the
   // bar back.
@@ -76,6 +78,13 @@ function DividedPane({
     [height, startHeight, halfHeight, maxHeight, onClose, onResize],
   )
   const heightStyle = useAnimatedStyle(() => ({ height: height.value }))
+  // A word's study stands alone under the grip; a verse has its bar and kinds.
+  const body = renderStudy
+    ? { bar: undefined, page: renderStudy(bottomPadding) }
+    : {
+        bar: <PaneBar {...content} onClose={onClose} />,
+        page: <PaneKinds {...content} bottomPadding={bottomPadding} />,
+      }
 
   return (
     <Animated.View entering={FadeIn.duration(180)} style={heightStyle}>
@@ -97,11 +106,7 @@ function DividedPane({
         elevation={12}
       >
         <GestureDetector gesture={drag}>
-          <YStack
-            paddingHorizontal="$lg"
-            paddingTop={6}
-            paddingBottom={content.renderStudy ? 6 : 0}
-          >
+          <YStack paddingHorizontal="$lg" paddingTop={6} paddingBottom={body.bar ? 0 : 6}>
             <View
               alignSelf="center"
               width={36}
@@ -111,14 +116,10 @@ function DividedPane({
               accessibilityElementsHidden
               importantForAccessibility="no-hide-descendants"
             />
-            {content.renderStudy ? undefined : <PaneBar {...content} onClose={onClose} />}
+            {body.bar}
           </YStack>
         </GestureDetector>
-        {content.renderStudy ? (
-          content.renderStudy(insets.bottom + 24)
-        ) : (
-          <PaneKinds {...content} bottomPadding={insets.bottom + 24} />
-        )}
+        {body.page}
       </YStack>
     </Animated.View>
   )

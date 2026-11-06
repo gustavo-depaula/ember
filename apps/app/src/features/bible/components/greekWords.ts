@@ -1,14 +1,45 @@
-import type { TextStyle } from 'react-native'
+import { useMemo } from 'react'
+import { Platform, type TextStyle } from 'react-native'
+import { useTheme } from 'tamagui'
 
 import type { StyledSegment } from '@/lib/typography/justifyText'
 
-import type { WordEntry } from '../words'
+import { verseTokens, type WordEntry } from '../words'
 
 /** The word on the study sheet: its verse, its place in the verse, and its lemma. */
 export type StudiedWord = { verse: number; index: number; lemma: string }
 
 /** Resolved styles (see `StyledSegment.render`): the studied word, and the page's other forms of its lemma. */
 export type WordLooks = { studied: TextStyle; kin: TextStyle }
+
+/**
+ * The looks off the theme, as raw RN styles: a run's `render` is not a Tamagui
+ * prop, so tokens do not resolve there. Memoised, since `justifyText` groups
+ * runs by the identity of these objects.
+ */
+export function useWordLooks(): WordLooks {
+  const theme = useTheme()
+  return useMemo<WordLooks>(
+    () => ({
+      studied: {
+        color: theme.colorBurgundy?.val as string,
+        backgroundColor: theme.backgroundSurface?.val as string,
+      },
+      // The page's other forms of the studied word. iOS draws a dotted gold
+      // underline; Android draws only a solid one in the text's own colour,
+      // which reads as part of the text, so there the words are tinted.
+      kin:
+        Platform.OS === 'ios'
+          ? {
+              textDecorationLine: 'underline',
+              textDecorationStyle: 'dotted',
+              textDecorationColor: theme.gold?.val as string,
+            }
+          : { color: theme.accent?.val as string },
+    }),
+    [theme.colorBurgundy, theme.backgroundSurface, theme.gold, theme.accent],
+  )
+}
 
 /**
  * A Greek verse as one segment per word, each its own tap target: a tap
@@ -33,7 +64,7 @@ export function greekSegments({
   onLongPress: (verse: number) => void
 }): StyledSegment[] {
   const hold = () => onLongPress(verse)
-  return text.split(/\s+/).flatMap((token, index): StyledSegment[] => {
+  return verseTokens(text).flatMap((token, index): StyledSegment[] => {
     const lemma = words[index]?.[0]
     const isStudied = studied?.verse === verse && studied.index === index
     const render = (() => {

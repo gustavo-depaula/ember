@@ -9,6 +9,19 @@ import { hyphenateEl } from 'justif/hyphenate/el'
  * word is broken, and the word itself is cut at the same places.
  */
 export function hyphenateGreek(word: string): string[] {
+  const known = broken.get(word)
+  if (known) return known
+  const pieces = breakWord(word)
+  broken.set(word, pieces)
+  return pieces
+}
+
+// Every justify of a Greek verse breaks each of its words again; the words of
+// the New Testament and the Septuagint are a bounded vocabulary, so each is
+// broken once.
+const broken = new Map<string, string[]>()
+
+function breakWord(word: string): string[] {
   const letters = [...word]
   const reduced = letters.map((letter) =>
     letter.normalize('NFD').replace(/\p{M}/gu, '').toLowerCase(),

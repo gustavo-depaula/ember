@@ -1,3 +1,5 @@
+import { isGreek } from '@/lib/typography/greek'
+
 export type ReadingFontId =
   | 'eb-garamond'
   | 'crimson-pro'
@@ -69,8 +71,7 @@ export const readingFonts: ReadingFontDef[] = [
  * one face and bare ones in another.
  */
 export function readingFontFor(chosen: ReadingFontId, language: string): ReadingFontId {
-  const greek = language === 'grc' || language.startsWith('el')
-  if (!greek || readingFonts.find((f) => f.id === chosen)?.greek) return chosen
+  if (!isGreek(language) || readingFonts.find((f) => f.id === chosen)?.greek) return chosen
   return 'eb-garamond'
 }
 

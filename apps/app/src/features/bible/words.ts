@@ -6,8 +6,16 @@ import { lexiconKey } from './lexiconKey'
 /**
  * What the Greek editions say of each word: its dictionary form and its
  * parsing (a Robinson code, see `morphology.ts`), one entry per word of the
- * verse as `text.split(/\s+/)` cuts it.
+ * verse as `verseTokens` cuts it.
  */
+/**
+ * A verse's word slots: the one cut the word files are aligned to, so the nth
+ * token is the nth `WordEntry` wherever a verse is laid out word by word.
+ */
+export function verseTokens(text: string) {
+  return text.split(/\s+/)
+}
+
 export type WordEntry = [lemma: string, morph: string, gloss?: string, unchecked?: '?']
 
 /**
@@ -19,6 +27,31 @@ export function isUnchecked(entry: WordEntry | undefined) {
   return entry?.[3] === '?'
 }
 
+// A book's words, a concordance shard and a lexicon shard are each 0.5 to
+// 1.4 MB of JSON. Walking a chapter word by word or opening a page of
+// occurrences asks for the same few files over and over, so the last few are
+// kept parsed. A failed read is not kept, so the next asks again.
+const recent = new Map<string, Promise<unknown>>()
+const recentLimit = 6
+
+function readLarge<T>(path: string): Promise<T> {
+  const held = recent.get(path)
+  if (held) {
+    // Most recently used last, so the first is the one to let go.
+    recent.delete(path)
+    recent.set(path, held)
+    return held as Promise<T>
+  }
+  const promise = fetchHearth<T>(path)
+  promise.catch(() => {
+    if (recent.get(path) === promise) recent.delete(path)
+  })
+  recent.set(path, promise)
+  const oldest = recent.keys().next().value
+  if (recent.size > recentLimit && oldest !== undefined) recent.delete(oldest)
+  return promise
+}
+
 export type Place = [bookId: string, chapter: number, verse: number]
 
 /** The verses of an edition where a lemma stands, from its concordance. */
@@ -26,7 +59,7 @@ export async function getOccurrences(translation: string, lemma: string): Promis
   const edition = findTranslation(translation)
   const key = lexiconKey(lemma)
   if (!edition?.corpus || !edition.words || !key) return []
-  const shard = await fetchHearth<Record<string, Record<string, Place[]>>>(
+  const shard = await readLarge<Record<string, Record<string, Place[]>>>(
     `bible/${edition.corpus}/concordance/${shardOf(key)}.json`,
   )
   return shard[key]?.[lemma.normalize('NFC')] ?? []
@@ -42,7 +75,7 @@ export async function getChapterWords(
 ): Promise<Record<number, WordEntry[]> | undefined> {
   const edition = findTranslation(translation)
   if (!edition?.corpus || !edition.words) return undefined
-  const book = await fetchHearth<BookWords>(`bible/${edition.corpus}/words/${bookId}.json`)
+  const book = await readLarge<BookWords>(`bible/${edition.corpus}/words/${bookId}.json`)
   const verses = book[String(chapter)] ?? {}
   return Object.fromEntries(Object.entries(verses).map(([verse, words]) => [Number(verse), words]))
 }
@@ -84,7 +117,7 @@ function shardOf(key: string) {
 export async function lookUp(source: string, lemma: string): Promise<LexiconEntry[]> {
   const key = lexiconKey(lemma)
   if (!key) return []
-  const shard = await fetchHearth<Record<string, LexiconEntry[]>>(
+  const shard = await readLarge<Record<string, LexiconEntry[]>>(
     `bible/lexicon/${source}/${shardOf(key)}.json`,
   )
   const entries = shard[key] ?? []

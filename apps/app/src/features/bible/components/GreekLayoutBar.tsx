@@ -8,45 +8,7 @@ import { Typography } from '@/components'
 import { translationsFor } from '@/lib/bibleTranslations'
 import { type GreekLayout, useBibleStore } from '@/stores/bibleStore'
 
-/** A typographic choice: a tracked-caps label, underlined when chosen. */
-function Choice({
-  label,
-  selected,
-  onPress,
-  a11yLabel,
-}: {
-  label: string
-  selected: boolean
-  onPress: () => void
-  a11yLabel: string
-}) {
-  return (
-    <Pressable
-      onPress={onPress}
-      hitSlop={10}
-      accessibilityRole="tab"
-      accessibilityLabel={a11yLabel}
-      accessibilityState={{ selected }}
-      aria-selected={selected}
-    >
-      <View
-        minHeight={32}
-        justifyContent="center"
-        borderBottomWidth={2}
-        borderBottomColor={selected ? '$colorBurgundy' : 'transparent'}
-      >
-        <Typography
-          variant="label"
-          fontSize="$1"
-          letterSpacing={1.5}
-          color={selected ? '$colorBurgundy' : '$colorSecondary'}
-        >
-          {label.toUpperCase()}
-        </Typography>
-      </View>
-    </Pressable>
-  )
-}
+import { TabLine } from './TabLine'
 
 /** A line the interlinear can add under each word, on or off. */
 function Toggle({ label, on, onPress }: { label: string; on: boolean; onPress: () => void }) {
@@ -92,17 +54,16 @@ export function GreekLayoutBar() {
 
   return (
     <YStack paddingHorizontal="$lg" gap={2}>
-      <XStack gap="$lg" accessibilityRole="tablist">
-        {modes.map((mode) => (
-          <Choice
-            key={mode}
-            label={t(`bible.layout.${mode}`)}
-            selected={layout.mode === mode}
-            onPress={() => setLayout({ mode })}
-            a11yLabel={t('a11y.readingLayout', { layout: t(`bible.layout.${mode}`) })}
-          />
-        ))}
-      </XStack>
+      <TabLine
+        tabs={modes.map((mode) => ({
+          id: mode,
+          label: t(`bible.layout.${mode}`),
+          a11yLabel: t('a11y.readingLayout', { layout: t(`bible.layout.${mode}`) }),
+        }))}
+        selected={layout.mode}
+        onSelect={(mode) => setLayout({ mode })}
+        bleed
+      />
 
       {layout.mode === 'interlinear' ? (
         <XStack gap="$lg">
@@ -163,20 +124,15 @@ export function GreekLayoutBar() {
               })}
             </YStack>
           ) : undefined}
-          <XStack gap="$lg">
-            <Choice
-              label={t('bible.layout.rows')}
-              selected={!layout.columns}
-              onPress={() => setLayout({ columns: false })}
-              a11yLabel={t('bible.layout.rows')}
-            />
-            <Choice
-              label={t('bible.layout.columns')}
-              selected={layout.columns}
-              onPress={() => setLayout({ columns: true })}
-              a11yLabel={t('bible.layout.columns')}
-            />
-          </XStack>
+          <TabLine
+            tabs={[
+              { id: 'rows', label: t('bible.layout.rows') },
+              { id: 'columns', label: t('bible.layout.columns') },
+            ]}
+            selected={layout.columns ? 'columns' : 'rows'}
+            onSelect={(id) => setLayout({ columns: id === 'columns' })}
+            bleed
+          />
         </YStack>
       ) : undefined}
     </YStack>
