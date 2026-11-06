@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Canto — a semana e os livros</title>
+<style>
+@font-face { font-family: Garamond; src: url(assets/EBGaramond_400Regular.woff2); }
+@font-face { font-family: Garamond; font-weight: 600; src: url(assets/EBGaramond_600SemiBold.ttf); }
+@font-face { font-family: Garamond; font-style: italic; src: url(assets/EBGaramond_400Regular_Italic.woff2); }
+@font-face { font-family: Cinzel; src: url(assets/Cinzel_400Regular.woff2); }
+@font-face { font-family: Cinzel; font-weight: 600; src: url(assets/Cinzel_600SemiBold.ttf); }
+@font-face { font-family: Junicode; src: url(assets/Junicode.woff2); }
+@font-face { font-family: Junicode; font-style: italic; src: url(assets/Junicode-Italic.woff2); }
+@font-face { font-family: Fraktur; src: url(assets/UnifrakturMaguntia-Book.ttf); }
+:root {
+  --bg: #0E0D0C; --surface: #242120; --ink: #EDE6D8; --ink2: #A39A8A; --rule: #3A352E;
+  --gold: #E8C97A; --cream: #F5EFE2; --rubric: #9E2A2B; --paper: #F1E8D3; --paperInk: #2A2118;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: #1A1917; color: var(--ink); font-family: Garamond, serif; }
+.doc { max-width: 1500px; margin: 0 auto; padding: 56px 48px 120px; }
+.doc > header h1 { font-family: Junicode; font-style: italic; font-weight: 400; font-size: 50px; color: var(--cream); }
+.doc > header p { font-size: 20px; max-width: 940px; margin-top: 12px; line-height: 1.45; color: var(--ink2); }
+section { margin-top: 80px; }
+section > h2 { font-family: Junicode; font-weight: 400; font-size: 36px; color: var(--cream); }
+section > h2 small { font-family: Cinzel; font-size: 15px; letter-spacing: 2px; color: var(--gold); display: block; margin-bottom: 6px; }
+section > p { font-size: 19px; line-height: 1.45; max-width: 980px; margin-top: 8px; color: var(--ink2); }
+.phones { display: flex; gap: 44px; margin-top: 30px; flex-wrap: wrap; align-items: flex-start; }
+figure figcaption { max-width: 390px; margin-top: 14px; font-size: 16px; line-height: 1.4; color: var(--ink2); }
+figure figcaption b { font-family: Cinzel; font-weight: 400; letter-spacing: 1.5px; font-size: 14px; color: var(--gold); display: block; margin-bottom: 3px; }
+
+.phone { width: 390px; height: 844px; border-radius: 54px; background: var(--bg); position: relative; overflow: hidden;
+  box-shadow: 0 0 0 11px #000, 0 0 0 12px #3a352d, 0 30px 60px rgba(0,0,0,.5); }
+.island { position: absolute; top: 11px; left: 50%; transform: translateX(-50%); width: 124px; height: 36px; border-radius: 20px; background: #000; z-index: 9; }
+.screen { position: absolute; inset: 0; padding: 74px 24px 0; overflow: hidden; }
+.page-title { font-family: Junicode; font-style: italic; font-size: 48px; line-height: 1.25; color: var(--cream); }
+.kicker { font-family: Cinzel; font-size: 16px; letter-spacing: 1.2px; color: var(--ink); margin: 26px 0 14px; font-variant: small-caps; }
+.search { height: 46px; border-radius: 12px; background: var(--surface); display: flex; align-items: center; gap: 10px; padding: 0 16px; color: var(--ink2); font-size: 17px; margin-top: 22px; }
+.search svg { width: 18px; height: 18px; }
+.row { display: flex; gap: 14px; margin: 0 -24px; padding: 0 24px; overflow: hidden; }
+.tabbar { position: absolute; bottom: 22px; left: 20px; width: 186px; height: 62px; border-radius: 31px; background: #1F1D1B; border: 1px solid #333; }
+.tabkey { position: absolute; bottom: 22px; right: 20px; width: 62px; height: 62px; border-radius: 31px; background: #1F1D1B; border: 1px solid #333; }
+
+/* ——— current: letter tiles, flat jewel cards ——— */
+.list .item { display: flex; gap: 16px; align-items: center; padding: 10px 0; border-bottom: 1px solid var(--rule); }
+.tile { width: 46px; height: 58px; border-radius: 6px; flex: none; display: grid; place-items: center; font-family: Junicode; font-size: 24px; color: var(--cream); }
+.item .name { font-family: Junicode; font-size: 19px; color: var(--cream); }
+.item .sub { font-size: 14px; color: var(--ink2); line-height: 1.3; }
+.chev { margin-left: auto; color: var(--ink2); font-size: 20px; }
+
+/* ——— W1 Folha: a leaf of the Graduale ——— */
+.leaf { flex: none; height: 214px; border-radius: 6px; position: relative; padding: 16px 16px 14px; color: var(--paperInk);
+  background: radial-gradient(120% 90% at 30% 20%, #F6EEDC, #E9DDC2 70%, #DCCDAC);
+  box-shadow: 0 6px 16px rgba(0,0,0,.45), inset 0 0 0 1px rgba(120,90,50,.18); }
+.leaf .day { font-family: Cinzel; font-size: 11px; letter-spacing: 1.6px; color: var(--rubric); }
+.leaf .title { font-family: Junicode; font-size: 22px; line-height: 1.25; margin-top: 6px; }
+.leaf.narrow .title { font-size: 18px; }
+.leaf .staff { margin: 10px 0 8px; }
+.leaf .chant { font-size: 15px; line-height: 1.55; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.leaf .chant i { font-style: normal; font-family: Cinzel; font-size: 10px; letter-spacing: 1px; color: var(--rubric); margin-right: 7px; }
+.leaf .ribbon { position: absolute; top: -4px; right: 18px; width: 12px; height: 48px; background: var(--rib);
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 82%, 0 100%); box-shadow: 0 2px 3px rgba(0,0,0,.3); }
+.leaf .versal { font-family: Junicode; color: var(--rubric); font-size: 30px; line-height: 1; float: left; margin: 2px 4px 0 0; }
+
+/* ——— W2 Estampa: gilt-framed jewel card ——— */
+.gilt { flex: none; height: 214px; border-radius: 14px; position: relative; overflow: hidden; color: var(--cream);
+  background: linear-gradient(155deg, var(--from), var(--to)); box-shadow: 0 6px 16px rgba(0,0,0,.45); }
+.gilt .frame { position: absolute; inset: 8px; border: 1.2px solid rgba(232,201,122,.7); border-radius: 8px; }
+.gilt .frame2 { position: absolute; inset: 12px; border: .8px solid rgba(232,201,122,.35); border-radius: 6px; }
+.gilt .c { position: absolute; color: var(--gold); font-size: 11px; transform: translate(-50%,-50%); }
+.gilt .in { position: absolute; inset: 0; padding: 22px 22px 18px; display: flex; flex-direction: column; align-items: center; text-align: center; }
+.gilt .day { font-family: Cinzel; font-size: 10.5px; letter-spacing: 1.8px; color: var(--gold); }
+.gilt .x { color: var(--gold); font-size: 14px; margin-top: 6px; }
+.gilt .title { font-family: Junicode; font-size: 21px; line-height: 1.22; margin-top: 4px; }
+.gilt.narrow .title { font-size: 17px; }
+.gilt .rule { width: 34px; height: 1px; background: rgba(232,201,122,.7); margin: 10px 0 8px; }
+.gilt .chant { font-size: 14px; line-height: 1.5; font-style: italic; opacity: .92; white-space: nowrap; }
+.gilt .chant i { font-style: normal; font-family: Cinzel; font-size: 9.5px; letter-spacing: 1px; color: var(--gold); margin-right: 6px; }
+
+/* ——— W3 Pauta: the Introit's first notes ——— */
+.pauta { flex: none; height: 214px; border-radius: 16px; position: relative; overflow: hidden; color: var(--cream);
+  background: linear-gradient(155deg, var(--from), var(--to)); box-shadow: 0 6px 16px rgba(0,0,0,.45); }
+.pauta .in { position: absolute; inset: 0; padding: 14px 16px; display: flex; flex-direction: column; }
+.pauta .day { font-family: Cinzel; font-size: 11px; letter-spacing: 1.6px; color: var(--gold); }
+.pauta .title { font-family: Junicode; font-size: 21px; line-height: 1.22; margin-top: 4px; }
+.pauta.narrow .title { font-size: 17px; }
+.pauta .score { margin-top: auto; }
+.pauta .words { font-size: 13px; letter-spacing: .3px; opacity: .85; margin-top: 2px; white-space: nowrap; }
+.pauta .words i { font-family: Cinzel; font-style: normal; font-size: 9.5px; letter-spacing: 1px; color: var(--gold); margin-right: 6px; }
+
+/* ——— the covers (docs/design/cover-sketches/formats.html) ——— */
+.book { --w: 140px; width: var(--w); height: calc(var(--w)*1.5); position: relative; flex: none;
+  border-radius: calc(var(--w)*.012) calc(var(--w)*.035) calc(var(--w)*.035) calc(var(--w)*.012);
+  background: linear-gradient(155deg, var(--from), var(--to)); overflow: hidden; color: var(--cream); font-size: calc(var(--w)*.01);
+  box-shadow: 0 calc(var(--w)*.05) calc(var(--w)*.1) rgba(0,0,0,.45), 0 1px 2px rgba(0,0,0,.3); }
+.book .hinge { position: absolute; inset: 0; z-index: 5; background: linear-gradient(90deg, rgba(0,0,0,.42) 0%, rgba(0,0,0,.18) 3.2%, rgba(255,255,255,.16) 4.4%, rgba(255,255,255,.05) 6.2%, rgba(0,0,0,.22) 7.4%, rgba(0,0,0,.06) 9.5%, rgba(0,0,0,0) 13%, rgba(0,0,0,0) 94%, rgba(0,0,0,.12) 100%); }
+.book .sheen { position: absolute; inset: 0; z-index: 4; background: linear-gradient(180deg, rgba(255,255,255,.07), rgba(255,255,255,0) 35%, rgba(0,0,0,0) 75%, rgba(0,0,0,.14)); }
+.missal .face { position: absolute; inset: 0 0 0 10%; padding: 10% 11% 9%; display: flex; flex-direction: column; align-items: center; justify-content: space-between; text-align: center; }
+.missal .rules { width: 100%; border-top: 1.5px solid var(--gold); border-bottom: .8px solid var(--gold); height: 1.6em; }
+.missal .stack { display: flex; flex-direction: column; align-items: center; gap: 5em; }
+.missal .x { font-size: 15em; color: var(--gold); line-height: 1; }
+.missal .t { font-family: Fraktur; font-size: calc(var(--ts)*115em); line-height: 1.1; }
+.missal .a { font-family: Cinzel; font-size: 3.6em; letter-spacing: .14em; color: var(--gold); }
+.missal .imprint { font-family: Cinzel; font-size: 2.6em; letter-spacing: .3em; opacity: .6; }
+
+.shelf { display: flex; gap: 16px; margin: 0 -24px; padding: 4px 24px 0; overflow: hidden; }
+.shelf .cap { margin-top: 10px; width: 112px; }
+.shelf .cap .n { font-family: Junicode; font-size: 16px; color: var(--cream); }
+.shelf .cap .s { font-size: 13px; color: var(--ink2); line-height: 1.25; }
+.grid { display: grid; grid-template-columns: 1fr 1fr; gap: 22px 18px; }
+.grid .cap { margin-top: 8px; }
+.grid .cap .n { font-family: Junicode; font-size: 17px; color: var(--cream); }
+.grid .cap .s { font-size: 13px; color: var(--ink2); line-height: 1.25; }
+.note { font-size: 13px; color: var(--ink2); margin-top: 14px; }
+</style>
+</head>
+<body>
+<div class="doc">
+<header>
+  <h1>Canto — a semana e os livros</h1>
+  <p>Duas partes da página do Canto, em três propostas cada. Os cartões da semana podem ser escolhidos à parte dos livros. Tudo no tema escuro, com os tons, as fontes e as capas que o app já usa.</p>
+</header>
+
+<section>
+  <h2><small>A semana</small>Os cartões das Missas da semana</h2>
+  <p>Hoje é um cartão de tom de joia liso, com o título e três incipits. As três propostas dão a ele o feitio de algo do canto: uma folha do Gradual, uma estampa dourada, ou as primeiras notas do Intróito.</p>
+  <div class="phones" id="week"></div>
+</section>
+
+<section>
+  <h2><small>Os livros</small>Os quatro livros</h2>
+  <p>Hoje cada livro é uma letra num quadrado. As propostas usam as capas do app (o formato <i>Missal</i>: filetes dourados, título em gótico), como estão na Biblioteca.</p>
+  <div class="phones" id="books"></div>
+</section>
+</div>
+
+<script>
+const tone = { green: ['#1E4A32', '#0C2418'], burgundy: ['#5A1722', '#24090E'], marian: ['#1E3A5C', '#0A1626'], gold: ['#8B6914', '#352608'], red: ['#6B1620', '#2A080C'] }
+const ribbon = { green: '#2F7A4E', red: '#A3232C', violet: '#5B2C83', white: '#E9E2CC' }
+const days = [
+  { day: 'HOJE · SEX 6', title: 'Dominica XXIII Post Pentecosten', tone: 'green', rib: 'green',
+    chants: [['INTR', 'Dicit Dominus: Ego cogito'], ['GRAD', 'Liberasti nos'], ['AL', 'De profundis']] },
+  { day: 'DOM 8', title: 'Dominica V quæ superfuit Post Epiphaniam', tone: 'green', rib: 'green', chants: [['INTR', 'Dicit Dominus: Ego cogito']] },
+  { day: 'SEG 9', title: 'Dedicatio Basilicæ Ss. Salvatoris', tone: 'gold', rib: 'white', chants: [['INTR', 'Terribilis est locus iste']] },
+]
+const books = [
+  ['Graduale', 'Os cantos próprios de cada Missa do ano', 'burgundy', 'Os próprios da Missa'],
+  ['Antiphonale', 'Antífonas, hinos e responsórios das Horas', 'marian', 'As Horas'],
+  ['Kyriale', 'O Ordinário da Missa nas dezoito Missas', 'gold', 'O Ordinário'],
+  ['Hymni et antiphonæ', 'Antífonas de Nossa Senhora, hinos do Ofício e do Santíssimo', 'green', 'Hinos e antífonas'],
+]
+
+// A four-line staff with a C clef and a run of square notes, as the Introit opens.
+function staff(w, ink, notes = [3, 3, 4, 5, 5, 4, [5, 6], 5, 4, 3, 2, 3, 3], h = 30, gap = 13) {
+  const s = h / 5, top = s
+  const y = (p) => top + 3 * s - (p - 1) * (s / 2) - s / 2
+  let x = 20, out = ''
+  for (let i = 0; i < 4; i++) out += `<line x1="0" x2="${w}" y1="${top + i * s}" y2="${top + i * s}" stroke="${ink}" stroke-opacity=".55" stroke-width=".8"/>`
+  out += `<path d="M4 ${top + s * .5} h4 v${s * 1.6} h-4 z M4 ${top + s * 1.4} h4" fill="${ink}"/><rect x="3" y="${top + s * .5}" width="5" height="${s * .9}" fill="${ink}"/><rect x="3" y="${top + s * 1.6}" width="5" height="${s * .9}" fill="${ink}"/>`
+  const sq = s * .82
+  for (const n of notes) {
+    if (x > w - 10) break
+    if (Array.isArray(n)) {
+      const [a, b] = n
+      out += `<rect x="${x}" y="${y(a) - sq / 2}" width="${sq}" height="${sq}" fill="${ink}"/><rect x="${x}" y="${y(b) - sq / 2}" width="${sq}" height="${sq}" fill="${ink}"/><rect x="${x + sq - .9}" y="${y(b)}" width=".9" height="${y(a) - y(b)}" fill="${ink}"/>`
+    } else out += `<rect x="${x}" y="${y(n) - sq / 2}" width="${sq}" height="${sq}" fill="${ink}"/>`
+    x += gap
+  }
+  return `<svg width="${w}" height="${h}" viewBox="0 0 ${w} ${h}">${out}</svg>`
+}
+
+const leaf = (d, wide) => `<div class="leaf ${wide ? '' : 'narrow'}" style="width:${wide ? 262 : 158}px;--rib:${ribbon[d.rib]}">
+  <div class="ribbon"></div><div class="day">${d.day}</div>
+  <div class="title">${wide ? d.title : d.title.split(' ').slice(0, 5).join(' ')}</div>
+  <div class="staff">${staff(wide ? 230 : 126, '#9E2A2B', [3, 3, 4, 5, 5, 4, [5, 6], 5, 4, 3, 2, 3, 3], 22, 11)}</div>
+  ${(wide ? d.chants : d.chants.slice(0, 1)).map(([g, n]) => `<div class="chant">${wide ? `<i>${g}</i>` : ''}${n}</div>`).join('')}
+</div>`
+
+const gilt = (d, wide) => {
+  const w = wide ? 262 : 158
+  return `<div class="gilt ${wide ? '' : 'narrow'}" style="width:${w}px;--from:${tone[d.tone][0]};--to:${tone[d.tone][1]}">
+  <div class="frame"></div><div class="frame2"></div>
+  ${[[8, 8], [w - 8, 8], [8, 206], [w - 8, 206]].map(([l, t]) => `<div class="c" style="left:${l}px;top:${t}px">✦</div>`).join('')}
+  <div class="in"><div class="day">${d.day}</div><div class="x">✠</div><div class="title">${wide ? d.title : d.title.split(' ').slice(0, 5).join(' ')}</div>
+  <div class="rule"></div>${(wide ? d.chants : d.chants.slice(0, 1)).map(([g, n]) => `<div class="chant">${wide ? `<i>${g}</i>` : ''}${n}</div>`).join('')}</div></div>`
+}
+
+const pauta = (d, wide) => `<div class="pauta ${wide ? '' : 'narrow'}" style="width:${wide ? 262 : 158}px;--from:${tone[d.tone][0]};--to:${tone[d.tone][1]}">
+  <div class="in"><div class="day">${d.day}</div><div class="title">${wide ? d.title : d.title.split(' ').slice(0, 5).join(' ')}</div>
+  <div class="score">${staff(wide ? 230 : 126, '#F5EFE2', [3, 3, 4, 5, 5, 4, [5, 6], 5, 4, 3, 2, 3, 3], 34, 14)}
+  <div class="words"><i>INTR</i>${d.chants[0][1]}</div>
+  ${wide ? `<div class="words" style="opacity:.7"><i>GRAD</i>${d.chants[1][1]} · <i style="margin-left:4px">AL</i>${d.chants[2][1]}</div>` : ''}</div></div></div>`
+
+const currentWeek = (d, wide) => `<div class="gilt" style="width:${wide ? 262 : 158}px;--from:${tone[d.tone][0]};--to:${tone[d.tone][1]};border-radius:16px">
+  <div class="in" style="align-items:flex-start;text-align:left;padding:14px 16px"><div class="day">${d.day}</div><div class="title" style="font-size:${wide ? 22 : 18}px">${wide ? d.title : d.title.split(' ').slice(0, 5).join(' ')}</div>
+  <div style="margin-top:auto">${(wide ? d.chants : d.chants.slice(0, 1)).map(([g, n]) => `<div class="chant" style="font-style:normal">${wide ? `<i>${g}</i>` : ''}${n}</div>`).join('')}</div></div></div>`
+
+const search = `<div class="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>Incipit ou palavras do texto</div>`
+const currentBooks = `<div class="kicker">Livros</div><div class="list">${books.map(([n, s, t]) => `<div class="item"><div class="tile" style="background:linear-gradient(155deg,${tone[t][0]},${tone[t][1]})">${n[0]}</div><div><div class="name">${n === 'Hymni et antiphonæ' ? 'Hinos e antífonas' : n}</div><div class="sub">${s}</div></div><div class="chev">›</div></div>`).join('')}</div>`
+
+const phone = (inner, cap) => `<figure><div class="phone"><div class="island"></div><div class="screen">${inner}</div><div class="tabbar"></div><div class="tabkey"></div></div><figcaption>${cap}</figcaption></figure>`
+const weekPhone = (card, cap) => phone(`<div class="page-title">Canto</div><div class="kicker">Esta semana</div><div class="row">${days.map((d, i) => card(d, i === 0)).join('')}</div>${search}${currentBooks}`, cap)
+
+document.getElementById('week').innerHTML = [
+  weekPhone(currentWeek, '<b>Hoje</b>Tom de joia liso: nada no cartão diz que é canto.'),
+  weekPhone(leaf, '<b>W1 · Folha</b>Uma folha do Gradual: papel, rubricas em vermelho, uma pauta com as primeiras notas, e uma fita na cor litúrgica do dia marcando a página. O tom de joia vira só a fita.'),
+  weekPhone(gilt, '<b>W2 · Estampa</b>O tom de joia com moldura dourada e florões nos cantos, como a capa <i>Gilt</i>; título centrado sob a ✠, os cantos sob um filete.'),
+  weekPhone(pauta, '<b>W3 · Pauta</b>O tom de joia, e no pé do cartão as primeiras notas do Intróito do dia em notação quadrada (no app, a própria partitura), com as palavras embaixo.'),
+].join('')
+
+const ts = (t) => (t.length > 14 ? 0.085 : t.length > 9 ? 0.1 : 0.118)
+const cover = ([n, , t, a], w) => `<div class="book missal" style="--w:${w}px;--from:${tone[t][0]};--to:${tone[t][1]};--ts:${ts(n)}"><div class="face"><div class="rules"></div><div class="stack"><div class="x">✠</div><div class="t">${n}</div>${w >= 100 ? `<div class="a">${a}</div>` : ''}</div><div class="stack" style="gap:3em">${w >= 100 ? '<div class="imprint">EMBER LIBRARY</div>' : ''}<div class="rules"></div></div></div><div class="sheen"></div><div class="hinge"></div></div>`
+const weekTop = `<div class="page-title">Canto</div><div class="kicker">Esta semana</div><div class="row">${days.map((d, i) => currentWeek(d, i === 0)).join('')}</div>${search}`
+const pt = (n) => (n === 'Hymni et antiphonæ' ? 'Hinos e antífonas' : n)
+const shelf = `<div class="kicker">Livros</div><div class="shelf">${books.map((b) => `<div>${cover(b, 112)}<div class="cap"><div class="n">${pt(b[0])}</div><div class="s">${b[3]}</div></div></div>`).join('')}</div>`
+const rows = `<div class="kicker">Livros</div><div class="list">${books.map((b) => `<div class="item">${cover(b, 52)}<div><div class="name">${pt(b[0])}</div><div class="sub">${b[1]}</div></div><div class="chev">›</div></div>`).join('')}</div>`
+const grid = `<div class="page-title">Canto</div>${search}<div class="kicker">Livros</div><div class="grid">${books.map((b) => `<div>${cover(b, 160)}<div class="cap"><div class="n">${pt(b[0])}</div><div class="s">${b[3]}</div></div></div>`).join('')}</div>`
+
+document.getElementById('books').innerHTML = [
+  phone(weekTop + currentBooks, '<b>Hoje</b>Uma letra num quadrado de cor.'),
+  phone(weekTop + shelf, '<b>B1 · Estante</b>Os quatro livros em pé, numa fileira que corre para o lado como as outras do app, com o nome e o que guardam embaixo.'),
+  phone(weekTop + rows, '<b>B2 · Lista com capas</b>A lista de hoje, com a capa do livro no lugar da letra. Guarda a descrição inteira.'),
+  phone(grid, '<b>B3 · Estante grande</b>Duas capas por fileira, grandes; a semana desce para depois dos livros (aqui fora da tela). Para quem abre o livro mais do que a semana.'),
+].join('')
+</script>
+</body>
+</html>
