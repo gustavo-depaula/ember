@@ -290,6 +290,17 @@ vi.mock('expo-haptics', () => ({
   NotificationFeedbackType: { Success: 'success', Warning: 'warning', Error: 'error' },
 }))
 
+// Native audio: a player that plays nothing (chant melodies, creators' audio).
+vi.mock('expo-audio', () => ({
+  setAudioModeAsync: vi.fn(async () => undefined),
+  createAudioPlayer: vi.fn(() => ({
+    play: vi.fn(),
+    pause: vi.fn(),
+    remove: vi.fn(),
+    addListener: vi.fn(() => ({ remove: vi.fn() })),
+  })),
+}))
+
 vi.mock('expo-notifications', () => ({
   setNotificationHandler: () => {},
   getPermissionsAsync: async () => ({ status: 'granted', granted: true }),

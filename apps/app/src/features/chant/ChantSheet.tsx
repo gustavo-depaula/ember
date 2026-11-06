@@ -1,15 +1,7 @@
-import { useFocusEffect } from 'expo-router'
-import { Play, Square, Star } from 'lucide-react-native'
+import { Star } from 'lucide-react-native'
 import { memo, useCallback, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import {
-  Alert,
-  FlatList,
-  Pressable,
-  ScrollView,
-  useWindowDimensions,
-  type ViewToken,
-} from 'react-native'
+import { FlatList, Pressable, ScrollView, useWindowDimensions, type ViewToken } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme, XStack, YStack } from 'tamagui'
 
@@ -19,9 +11,9 @@ import { useSaveToggle } from '@/features/library/savedHooks'
 import { readingScale, useReadingFontSizePx } from '@/hooks/useReadingStyle'
 import { localizeContent } from '@/lib/i18n'
 import { BackHeader } from './BackHeader'
-import { playChant, stopChant, useChantPlayerStore } from './chantPlayer'
 import { type ChantBookSection, chantSummary, romanMode } from './chants'
 import { useChant } from './hooks'
+import { PlayToggle } from './PlayToggle'
 import { ScoreView } from './ScoreView'
 import type { ChantGenre } from './textKey'
 
@@ -269,43 +261,3 @@ const SheetChant = memo(function SheetChant({
     </YStack>
   )
 })
-
-/** Sounds the chant's melody, or stops it; leaving the page, or its tab, stops it too. */
-function PlayToggle({ id, score, name }: { id: string; score: string; name: string }) {
-  const { t } = useTranslation()
-  const theme = useTheme()
-  const playing = useChantPlayerStore((s) => s.playing === id)
-
-  // A tab keeps its pages mounted, so a page left for another tab is only blurred: stop on that.
-  useFocusEffect(
-    useCallback(
-      () => () => {
-        if (useChantPlayerStore.getState().playing === id) stopChant()
-      },
-      [id],
-    ),
-  )
-
-  const toggle = () => {
-    if (playing) return stopChant()
-    playChant(id, score).catch((error: unknown) => {
-      stopChant()
-      Alert.alert(t('chant.playFailed'), error instanceof Error ? error.message : String(error))
-    })
-  }
-
-  const Icon = playing ? Square : Play
-  return (
-    <Pressable
-      onPress={toggle}
-      hitSlop={6}
-      accessibilityRole="button"
-      accessibilityState={{ selected: playing }}
-      accessibilityLabel={t(playing ? 'a11y.stopChant' : 'a11y.playChant', { name })}
-    >
-      <YStack width={44} height={44} alignItems="center" justifyContent="center">
-        <Icon size={18} color={theme.accentHover.val} fill={theme.accentHover.val} />
-      </YStack>
-    </Pressable>
-  )
-}

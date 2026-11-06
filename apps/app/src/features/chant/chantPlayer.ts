@@ -11,7 +11,7 @@ import { melodyOf } from './layoutScore'
 import { melodyWav } from './melody'
 
 type ChantPlayerState = {
-  /** The chant sounding now, by its catalog id. */
+  /** The chant sounding now: its catalog id, or `chantKey` of its score. */
   playing?: string
 }
 
@@ -20,14 +20,23 @@ export const useChantPlayerStore = create<ChantPlayerState>()(immer(() => ({})))
 let player: AudioPlayer | undefined
 let finished: { remove(): void } | undefined
 
+function scoreHash(score: string): string {
+  let hash = 0
+  for (let i = 0; i < score.length; i++) hash = (hash * 31 + score.charCodeAt(i)) | 0
+  return (hash >>> 0).toString(36)
+}
+
+/** What a chant with no catalog id — one set in a prayer or an hour — is known by: its score. */
+export function chantKey(score: string): string {
+  return `score-${scoreHash(score)}`
+}
+
 /** The melody of a score as a file: rendered once, then read from the cache. */
-function melodyFile(id: string, score: string): File {
+function melodyFile(key: string, score: string): File {
   const folder = new Directory(Paths.cache, 'chant-melody')
   folder.create({ intermediates: true, idempotent: true })
   // Keyed by the score too, so a corrected transcription is heard as corrected.
-  let hash = 0
-  for (let i = 0; i < score.length; i++) hash = (hash * 31 + score.charCodeAt(i)) | 0
-  const file = new File(folder, `${id.replace(/\W/g, '-')}-${(hash >>> 0).toString(36)}.wav`)
+  const file = new File(folder, `${key.replace(/\W/g, '-')}-${scoreHash(score)}.wav`)
   if (!file.exists) file.write(melodyWav(melodyOf(score)))
   return file
 }
@@ -45,17 +54,17 @@ export function stopChant(): void {
 }
 
 /** Plays a chant from its first note, stopping whatever chant was sounding. Throws if it cannot. */
-export async function playChant(id: string, score: string): Promise<void> {
+export async function playChant(key: string, score: string): Promise<void> {
   stopChant()
   // Heard through the silent switch, as a pitch pipe would be; it stops when the app leaves.
   await setAudioModeAsync({ playsInSilentMode: true, shouldPlayInBackground: false })
-  const sound = createAudioPlayer({ uri: melodyFile(id, score).uri })
+  const sound = createAudioPlayer({ uri: melodyFile(key, score).uri })
   player = sound
   finished = sound.addListener('playbackStatusUpdate', (status) => {
     if (status.didJustFinish && player === sound) stopChant()
   })
   useChantPlayerStore.setState((s) => {
-    s.playing = id
+    s.playing = key
   })
   sound.play()
 }

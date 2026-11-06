@@ -7,7 +7,13 @@
  * mount the right component when navigation happens.
  */
 
-import { Fragment, type ReactNode, useSyncExternalStore } from 'react'
+import {
+  type EffectCallback,
+  Fragment,
+  type ReactNode,
+  useEffect,
+  useSyncExternalStore,
+} from 'react'
 import { create } from 'zustand'
 
 type RouterState = {
@@ -140,6 +146,15 @@ export function useRouter(): Router {
 
 export function useLocalSearchParams<T = Record<string, string>>(): T {
   return useRouterStore((s) => s.params) as T
+}
+
+// The rendered screen is always the focused one: focus is its mount, blur its unmount.
+export function useFocusEffect(effect: EffectCallback): void {
+  useEffect(effect, [effect])
+}
+
+export function useIsFocused(): boolean {
+  return true
 }
 
 export function usePathname(): string {
