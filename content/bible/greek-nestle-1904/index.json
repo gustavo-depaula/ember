@@ -1,0 +1,164 @@
+[
+	{
+		"slug": "matthew",
+		"name": "Matthew",
+		"testament": "nt",
+		"chapters": 28
+	},
+	{
+		"slug": "mark",
+		"name": "Mark",
+		"testament": "nt",
+		"chapters": 16
+	},
+	{
+		"slug": "luke",
+		"name": "Luke",
+		"testament": "nt",
+		"chapters": 24
+	},
+	{
+		"slug": "john",
+		"name": "John",
+		"testament": "nt",
+		"chapters": 21
+	},
+	{
+		"slug": "acts",
+		"name": "Acts",
+		"testament": "nt",
+		"chapters": 28
+	},
+	{
+		"slug": "romans",
+		"name": "Romans",
+		"testament": "nt",
+		"chapters": 16
+	},
+	{
+		"slug": "1-corinthians",
+		"name": "1 Corinthians",
+		"testament": "nt",
+		"chapters": 16
+	},
+	{
+		"slug": "2-corinthians",
+		"name": "2 Corinthians",
+		"testament": "nt",
+		"chapters": 13
+	},
+	{
+		"slug": "galatians",
+		"name": "Galatians",
+		"testament": "nt",
+		"chapters": 6
+	},
+	{
+		"slug": "ephesians",
+		"name": "Ephesians",
+		"testament": "nt",
+		"chapters": 6
+	},
+	{
+		"slug": "philippians",
+		"name": "Philippians",
+		"testament": "nt",
+		"chapters": 4
+	},
+	{
+		"slug": "colossians",
+		"name": "Colossians",
+		"testament": "nt",
+		"chapters": 4
+	},
+	{
+		"slug": "1-thessalonians",
+		"name": "1 Thessalonians",
+		"testament": "nt",
+		"chapters": 5
+	},
+	{
+		"slug": "2-thessalonians",
+		"name": "2 Thessalonians",
+		"testament": "nt",
+		"chapters": 3
+	},
+	{
+		"slug": "1-timothy",
+		"name": "1 Timothy",
+		"testament": "nt",
+		"chapters": 6
+	},
+	{
+		"slug": "2-timothy",
+		"name": "2 Timothy",
+		"testament": "nt",
+		"chapters": 4
+	},
+	{
+		"slug": "titus",
+		"name": "Titus",
+		"testament": "nt",
+		"chapters": 3
+	},
+	{
+		"slug": "philemon",
+		"name": "Philemon",
+		"testament": "nt",
+		"chapters": 1
+	},
+	{
+		"slug": "hebrews",
+		"name": "Hebrews",
+		"testament": "nt",
+		"chapters": 13
+	},
+	{
+		"slug": "james",
+		"name": "James",
+		"testament": "nt",
+		"chapters": 5
+	},
+	{
+		"slug": "1-peter",
+		"name": "1 Peter",
+		"testament": "nt",
+		"chapters": 5
+	},
+	{
+		"slug": "2-peter",
+		"name": "2 Peter",
+		"testament": "nt",
+		"chapters": 3
+	},
+	{
+		"slug": "1-john",
+		"name": "1 John",
+		"testament": "nt",
+		"chapters": 5
+	},
+	{
+		"slug": "2-john",
+		"name": "2 John",
+		"testament": "nt",
+		"chapters": 1
+	},
+	{
+		"slug": "3-john",
+		"name": "3 John",
+		"testament": "nt",
+		"chapters": 1
+	},
+	{
+		"slug": "jude",
+		"name": "Jude",
+		"testament": "nt",
+		"chapters": 1
+	},
+	{
+		"slug": "apocalypse",
+		"name": "Apocalypse",
+		"testament": "nt",
+		"chapters": 22
+	}
+]
