@@ -1,4 +1,5 @@
-import { getFontFamily } from '@/config/readingFonts'
+import { useReadingLanguage } from '@/components/ReadingParagraph/readingLanguage'
+import { getFontFamily, type ReadingFontId, readingFontFor } from '@/config/readingFonts'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 // Reading-specific scale — larger than body font tokens for comfortable extended reading
@@ -16,8 +17,14 @@ const maxMeasureEm = 34
 
 const marginMap = { narrow: '$sm', normal: '$md', wide: '$lg' } as const
 
-export function useReadingStyle() {
-  const fontFamilyId = usePreferencesStore((s) => s.fontFamily)
+/** The reader's face, or the one that can draw the language of the text it sets. */
+export function useReadingFontId(language?: string): ReadingFontId {
+  const chosen = usePreferencesStore((s) => s.fontFamily)
+  return readingFontFor(chosen, useReadingLanguage(language))
+}
+
+export function useReadingStyle(language?: string) {
+  const fontFamilyId = useReadingFontId(language)
   const fontSizeStep = usePreferencesStore((s) => s.fontSizeStep)
   const lineHeightStep = usePreferencesStore((s) => s.lineHeightStep)
   const textAlign = usePreferencesStore((s) => s.textAlign)

@@ -21,6 +21,7 @@ import {
   TwoColumnReaderHeader,
 } from '@/components'
 import { useBottomClearance } from '@/components/tabAccessory'
+import { editionLanguage, findTranslation } from '@/lib/bibleTranslations'
 import type { Book } from '@/lib/content'
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -32,8 +33,10 @@ import {
   useChapterCommentary,
   usePrefetchAdjacentChapters,
   useVersePane,
+  useVersification,
 } from '../hooks'
 import { isReferenceKind } from '../references'
+import { getVersificationAt } from '../versification'
 import { BibleDrawer } from './BibleDrawer'
 import { ChapterContent } from './ChapterContent'
 import { ChapterNav } from './ChapterNav'
@@ -80,8 +83,16 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
   const unrevealed = useRef<number | undefined>(undefined)
   // The places citations were followed from, the last one first to go back to.
   const [trail, setTrail] = useState<Place[]>([])
-  const commentary = useChapterCommentary(bookId, chapter, commentedVerse !== undefined)
-  const pane = useVersePane(bookId, chapter, commentedVerse, commentary)
+  // The page is in the edition's own numbering; everything that points at a
+  // verse is read at its shared address.
+  const { data: versification } = useVersification(translation, bookId)
+  const shared =
+    commentedVerse === undefined || !versification
+      ? undefined
+      : versification.toShared({ bookId, chapter, verse: commentedVerse })
+  const unmatched = commentedVerse !== undefined && versification !== undefined && !shared
+  const commentary = useChapterCommentary(bookId, shared?.chapter ?? chapter, shared !== undefined)
+  const pane = useVersePane(bookId, shared?.chapter ?? chapter, shared?.verse, commentary)
   const closeCommentary = useCallback(() => setCommentedVerse(undefined), [])
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: a new chapter is the trigger
@@ -102,13 +113,21 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
   const marked = (() => {
     if (commentedVerse === undefined) return undefined
     // Only a commentator speaks of a passage; what cites a verse is listed by the verse.
-    const span = isReferenceKind(pane.kind)
-      ? undefined
-      : spanForVerse(commentary.bySource[pane.kind] ?? [], commentedVerse)
+    const span =
+      !shared || isReferenceKind(pane.kind)
+        ? undefined
+        : spanForVerse(commentary.bySource[pane.kind] ?? [], shared.verse)
+    // The passage is spoken of in the shared numbering; on the page its ends
+    // are the edition's own verses, where they stand in this chapter.
+    const onPage = (verse: number | undefined) => {
+      if (verse === undefined || !shared) return undefined
+      const own = versification?.fromShared({ bookId, chapter: shared.chapter, verse })
+      return own?.chapter === chapter ? own.verse : undefined
+    }
     return {
       verse: commentedVerse,
-      from: span?.from ?? commentedVerse,
-      to: span?.to ?? commentedVerse,
+      from: onPage(span?.from) ?? commentedVerse,
+      to: onPage(span?.to) ?? commentedVerse,
     }
   })()
 
@@ -142,11 +161,15 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
     setPosition(place.bookId, place.chapter)
   }
 
+  /** `place` is a shared address: what the pane cites is numbered as the Vulgate. */
   function followCitation(place: Place) {
     if (commentedVerse !== undefined) {
       setTrail([{ bookId, chapter, verse: commentedVerse }, ...trail])
     }
-    turnTo(place)
+    // A citation may lead to a book another edition completes this one with.
+    getVersificationAt(translation, place.bookId).then((target) =>
+      turnTo(target.fromShared(place) ?? place),
+    )
   }
 
   function goBack() {
@@ -157,10 +180,10 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
   }
 
   function readOn(source: string) {
-    if (commentedVerse === undefined) return
+    if (!shared) return
     router.push({
       pathname: '/bible/verse',
-      params: { bookId, chapter: String(chapter), verse: String(commentedVerse), source },
+      params: { bookId, chapter: String(shared.chapter), verse: String(shared.verse), source },
     })
   }
 
@@ -179,6 +202,14 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
 
   const currentBook = books.find((b) => b.id === bookId)
   const bookName = t(`bookName.${bookId}`, { defaultValue: currentBook?.name ?? bookId })
+  // The pane names the verse as the page does, and its Vulgate address beside
+  // it where the two differ, since that is where what it shows is read from.
+  const paneHeading = (() => {
+    if (!shared || commentedVerse === undefined) return undefined
+    if (shared.chapter === chapter && shared.verse === commentedVerse) return undefined
+    const place = t('bible.sharedPlace', { place: `${shared.chapter}:${shared.verse}` })
+    return `${bookName} ${chapter}:${commentedVerse} · ${place}`
+  })()
   const cameFrom = (() => {
     const [last] = trail
     if (!last) return undefined
@@ -286,7 +317,13 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
             bookName={bookName}
             chapter={chapter}
             verses={chapterData.verses}
+            language={editionLanguage(chapterData.edition)}
             fallback={chapterData.fallback}
+            completedBy={
+              chapterData.edition === translation || chapterData.fallback
+                ? undefined
+                : findTranslation(chapterData.edition)?.name
+            }
             marked={marked}
             onVersePress={handleVersePress}
             onVerseLayout={handleVerseLayout}
@@ -358,8 +395,10 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
             <VersePane
               bookId={bookId}
               bookName={bookName}
-              chapter={chapter}
-              verse={commentedVerse}
+              chapter={shared?.chapter ?? chapter}
+              verse={unmatched ? commentedVerse : shared?.verse}
+              heading={paneHeading}
+              unmatched={unmatched}
               commentary={commentary}
               pane={pane}
               initialHeight={paneHeight}

@@ -26,6 +26,7 @@ import {
   readingsForVerse,
   referenceKinds,
 } from './references'
+import { getVersificationAt } from './versification'
 
 export function useBooks(translation: string) {
   return useQuery({
@@ -64,6 +65,15 @@ export function useBiblePlaces() {
 /** Where to resume the Bible: the place read most recently, if there is one. */
 export function useBibleResume() {
   return useBiblePlaces().at(0)
+}
+
+/** How the edition's verses map onto the shared address the rest of the Bible layer uses. */
+export function useVersification(translation: string, bookId: string) {
+  return useQuery({
+    queryKey: ['bible', 'versification', translation, bookId],
+    queryFn: () => getVersificationAt(translation, bookId),
+    staleTime: Number.POSITIVE_INFINITY,
+  })
 }
 
 export function useChapter(translation: string, bookId: string, chapter: number) {

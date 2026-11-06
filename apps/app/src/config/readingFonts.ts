@@ -12,6 +12,8 @@ type ReadingFontDef = {
   label: string
   description: string
   family: string
+  /** Draws polytonic Greek (breathings, circumflex, iota subscript). */
+  greek?: true
 }
 
 export const readingFonts: ReadingFontDef[] = [
@@ -20,6 +22,7 @@ export const readingFonts: ReadingFontDef[] = [
     label: 'EB Garamond',
     description: 'Renaissance old-style serif',
     family: 'EBGaramond_400Regular',
+    greek: true,
   },
   {
     id: 'crimson-pro',
@@ -58,6 +61,18 @@ export const readingFonts: ReadingFontDef[] = [
     family: 'Merriweather_400Regular',
   },
 ]
+
+/**
+ * The face text in `language` is set in: the reader's own, unless it cannot
+ * draw the language. Only EB Garamond has polytonic Greek; in the others a
+ * Greek page falls back glyph by glyph to a system face, accented letters in
+ * one face and bare ones in another.
+ */
+export function readingFontFor(chosen: ReadingFontId, language: string): ReadingFontId {
+  const greek = language === 'grc' || language.startsWith('el')
+  if (!greek || readingFonts.find((f) => f.id === chosen)?.greek) return chosen
+  return 'eb-garamond'
+}
 
 export function getFontFamily(id: ReadingFontId): string {
   return readingFonts.find((f) => f.id === id)?.family ?? 'EBGaramond_400Regular'

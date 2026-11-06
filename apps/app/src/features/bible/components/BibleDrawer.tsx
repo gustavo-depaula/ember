@@ -29,6 +29,7 @@ import { usePreferencesStore } from '@/stores/preferencesStore'
 
 import { type CanonDivisionId, canonDivisions, divisionOfBook, divisionStartingAt } from '../canon'
 import type { BiblePlace } from '../recents'
+import { switchTranslation } from '../switchTranslation'
 
 const chaptersPerRow = 5
 const indexWidth = 40
@@ -452,7 +453,6 @@ function EditionsPanel({
   const { t, i18n } = useTranslation()
   const theme = useTheme()
   const translation = usePreferencesStore((s) => s.translation)
-  const setTranslation = usePreferencesStore((s) => s.setTranslation)
 
   // Each edition shows how it opens the chapter in hand, so it is chosen by
   // reading it. Same key as the reader's own query: picking one costs no fetch.
@@ -473,7 +473,7 @@ function EditionsPanel({
       <Pressable
         key={tr.code}
         onPress={() => {
-          setTranslation(tr.code)
+          switchTranslation(tr.code)
           onBack()
         }}
         accessibilityRole="radio"

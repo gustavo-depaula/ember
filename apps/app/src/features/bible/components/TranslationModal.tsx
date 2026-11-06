@@ -5,7 +5,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, Text, useTheme, View, XStack, YStack } from 'tamagui'
 import { translationsFor } from '@/lib/bibleTranslations'
 import { usePreferencesStore } from '@/stores/preferencesStore'
-
+import { switchTranslation } from '../switchTranslation'
 import { LanguageBadge } from './TranslationBadge'
 
 function TranslationRow({
@@ -66,10 +66,9 @@ export function TranslationModal({ visible, onClose }: { visible: boolean; onClo
   const insets = useSafeAreaInsets()
   const theme = useTheme()
   const translation = usePreferencesStore((s) => s.translation)
-  const setTranslation = usePreferencesStore((s) => s.setTranslation)
 
   function handleSelect(code: string) {
-    setTranslation(code)
+    switchTranslation(code)
     onClose()
   }
 

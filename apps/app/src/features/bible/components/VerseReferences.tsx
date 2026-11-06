@@ -1,4 +1,4 @@
-import { useQueries, useQuery } from '@tanstack/react-query'
+import { useQueries, useQuery, useQueryClient } from '@tanstack/react-query'
 import { useRouter } from 'expo-router'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
@@ -26,6 +26,7 @@ import {
   type Talk,
   versesLabel,
 } from '../references'
+import { getVersificationAt } from '../versification'
 import { CitedSections } from './CitedSections'
 import { Capped, ReferenceRow } from './ReferenceRow'
 
@@ -219,20 +220,33 @@ function VerseTranslations({
   verse: number
 }) {
   const { t, i18n } = useTranslation()
+  const queryClient = useQueryClient()
   const editions = translationsFor(i18n.language)
-  const chapters = useQueries({
+  const found = useQueries({
     queries: editions.map((edition) => ({
-      // The reader's own key for a chapter, so the edition open above is already here.
-      queryKey: ['chapter', edition.code, bookId, chapter],
-      queryFn: () => getChapter(edition.code, bookId, chapter),
+      queryKey: ['bible', 'verse-in', edition.code, bookId, chapter, verse],
+      // `chapter` and `verse` are the shared address: each edition is read
+      // at its own verse there, where it has one.
+      queryFn: async () => {
+        const versification = await getVersificationAt(edition.code, bookId)
+        const own = versification.fromShared({ bookId, chapter, verse })
+        if (!own) return { fallback: false, text: undefined }
+        // The reader's own key for a chapter, so the edition open above is already here.
+        const data = await queryClient.fetchQuery({
+          queryKey: ['chapter', edition.code, own.bookId, own.chapter],
+          queryFn: () => getChapter(edition.code, own.bookId, own.chapter),
+        })
+        const text = data.verses.find((v) => v.verse === own.verse)?.text
+        return { fallback: data.fallback === true, text }
+      },
     })),
   })
   return (
     <YStack gap="$md">
       {editions.map((edition, i) => {
-        const { data, isLoading, error } = chapters[i]
+        const { data, isLoading, error } = found[i]
         if (data?.fallback && edition.code !== 'DRB') return undefined
-        const text = data?.verses.find((v) => v.verse === verse)?.text
+        const text = data?.text
         if (data && !text) return undefined
         return (
           <YStack key={edition.code} gap={2}>

@@ -15,6 +15,7 @@ import type { TextStyle } from 'react-native'
 
 import type { ReadingFontId } from '@/config/readingFonts'
 import { type FontMetrics, getFontMetrics, type TextStyleName } from './fontMetrics'
+import { hyphenateGreek } from './hyphenGreek'
 import { laLiturgicPatterns } from './hyphenLaLiturgic.generated'
 
 /**
@@ -134,15 +135,25 @@ const hyphenators = new Map<string, ((word: string) => readonly string[]) | unde
 
 function getHyphenator(language: string | undefined) {
   const lang = (language ?? 'en').toLowerCase()
-  const key = lang.startsWith('pt') ? 'pt' : lang.startsWith('la') ? 'la' : 'en'
+  const key = (() => {
+    if (lang.startsWith('pt')) return 'pt'
+    if (lang.startsWith('la')) return 'la'
+    // Koine (`grc`) and modern Greek share one syllabification.
+    if (lang.startsWith('grc') || lang.startsWith('el')) return 'grc'
+    return 'en'
+  })()
   if (hyphenators.has(key)) return hyphenators.get(key)
 
-  // All three of the corpus's languages are bundled. Hyphenation is not
-  // optional at these measures: a bilingual side-by-side column is ~170px,
-  // and without break opportunities the breaker has to open word spaces
-  // enormously to fit anything at all.
-  const fn =
-    key === 'la' ? createHyphenator(laLiturgicPatterns) : key === 'pt' ? hyphenatePt : hyphenateEnUS
+  // All of the corpus's languages are bundled. Hyphenation is not optional at
+  // these measures: a bilingual side-by-side column is ~170px, and without
+  // break opportunities the breaker has to open word spaces enormously to fit
+  // anything at all.
+  const fn = (() => {
+    if (key === 'la') return createHyphenator(laLiturgicPatterns)
+    if (key === 'pt') return hyphenatePt
+    if (key === 'grc') return hyphenateGreek
+    return hyphenateEnUS
+  })()
   hyphenators.set(key, fn)
   return fn
 }

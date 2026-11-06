@@ -11,6 +11,15 @@ export type Translation = {
    * for one read from its publisher by the matching entry in `sources/bible`.
    */
   corpus?: string
+  /**
+   * The corpus edition is numbered otherwise than the Vulgate in places, and
+   * ships `versification.json` mapping its verses onto the shared address.
+   */
+  versification?: true
+  /** The corpus edition ships `words/<book>.json`: each word's lemma and parsing. */
+  words?: true
+  /** The edition the books this one lacks are read from, so a Testament reads as a whole Bible. */
+  completes?: string
 }
 
 export const translations: Translation[] = [
@@ -62,6 +71,72 @@ export const translations: Translation[] = [
     numbering: 'lxx',
     corpus: 'vulgate',
   },
+  {
+    code: 'N1904',
+    name: 'Nestle 1904',
+    language: 'GRC',
+    description:
+      'Eberhard Nestle’s Greek New Testament (1904), the critical text of the British and Foreign Bible Society.',
+    numbering: 'lxx',
+    corpus: 'greek-nestle-1904',
+    versification: true,
+    words: true,
+  },
+  {
+    code: 'SBLGNT',
+    name: 'SBL Greek New Testament',
+    language: 'GRC',
+    description:
+      'Michael Holmes’s critical text (2010), © Society of Biblical Literature and Logos Bible Software, CC BY 4.0; parsing from MorphGNT, CC BY-SA.',
+    numbering: 'lxx',
+    corpus: 'greek-sblgnt',
+    versification: true,
+    words: true,
+  },
+  {
+    code: 'TISCH',
+    name: 'Tischendorf',
+    language: 'GRC',
+    description:
+      'Constantin von Tischendorf’s eighth critical edition (1869–72), weighted to Codex Sinaiticus, which he found.',
+    numbering: 'lxx',
+    corpus: 'greek-tischendorf',
+    versification: true,
+    words: true,
+  },
+  {
+    code: 'RP',
+    name: 'Byzantine Text',
+    language: 'GRC',
+    description:
+      'The majority text of the Greek manuscripts, as Robinson and Pierpont edited it (2018): the text the Greek Church reads.',
+    numbering: 'lxx',
+    corpus: 'greek-byzantine',
+    versification: true,
+    words: true,
+  },
+  {
+    code: 'WH',
+    name: 'Westcott–Hort',
+    language: 'GRC',
+    description:
+      'Westcott and Hort’s New Testament in the Original Greek (1881). Its only open text is unaccented and unpunctuated.',
+    numbering: 'lxx',
+    corpus: 'greek-westcott-hort',
+    versification: true,
+    words: true,
+  },
+  {
+    code: 'TR',
+    name: 'Textus Receptus',
+    language: 'GRC',
+    description:
+      'Scrivener’s 1894 Textus Receptus, the Greek behind the Reformation translations. Its only open text is unaccented and unpunctuated.',
+    numbering: 'lxx',
+    corpus: 'greek-scrivener',
+    versification: true,
+    words: true,
+  },
 ]
 
 export const defaultTranslationForLanguage: Record<string, string> = {
@@ -83,6 +158,14 @@ export function translationsFor(appLanguage: string): Translation[] {
 
 export function findTranslation(code: string): Translation | undefined {
   return translations.find((t) => t.code === code)
+}
+
+// The tag the reading components hyphenate and choose a face by.
+const readingLanguages: Record<string, string> = { EN: 'en-US', PT: 'pt-BR', LA: 'la', GRC: 'grc' }
+
+/** The language an edition's text is set in, as `ReadingLanguage` takes it. */
+export function editionLanguage(code: string): string {
+  return readingLanguages[findTranslation(code)?.language ?? 'EN'] ?? 'en-US'
 }
 
 export function getPsalmNumbering(code: string): PsalmNumbering {

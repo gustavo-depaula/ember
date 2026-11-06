@@ -8,11 +8,15 @@ const ptPatterns = require('hyphen/patterns/pt')
 const laPatterns = require('hyphen/patterns/la')
 
 import { usePreferencesStore } from '@/stores/preferencesStore'
+import { hyphenateGreek } from './typography/hyphenGreek'
 
 const hyphenators = {
   'en-US': createHyphenator(enUsPatterns, { async: false }),
   'pt-BR': createHyphenator(ptPatterns, { async: false }),
   la: createHyphenator(laPatterns, { async: false }),
+  // The justifier's own Greek breaks, as soft hyphens, so a line the platform
+  // breaks breaks a Greek word where a justified one would.
+  grc: (text: string) => text.replace(/\p{L}+/gu, (word) => hyphenateGreek(word).join('\u00AD')),
 } as Record<string, (text: string) => string>
 
 export function hyphenate(text: string, language?: string): string {

@@ -3,7 +3,7 @@ import { useTranslation } from 'react-i18next'
 import { Pressable, type TextStyle } from 'react-native'
 import { Text, useTheme, View, YStack } from 'tamagui'
 import { Typography } from '@/components'
-import { ReadingParagraph } from '@/components/ReadingParagraph'
+import { ReadingLanguage, ReadingParagraph } from '@/components/ReadingParagraph'
 import { useReadingMargin, useReadingMaxWidth, useReadingStyle } from '@/hooks/useReadingStyle'
 import type { Verse } from '@/lib/content'
 import type { StyledSegment } from '@/lib/typography/justifyText'
@@ -54,7 +54,9 @@ export function ChapterContent({
   bookName,
   chapter,
   verses,
+  language,
   fallback,
+  completedBy,
   marked,
   onVersePress,
   onVerseLayout,
@@ -62,7 +64,11 @@ export function ChapterContent({
   bookName: string
   chapter: number
   verses: Verse[]
+  /** The edition's language, to hyphenate the verses by and set them in a face that has it. */
+  language: string
   fallback?: boolean
+  /** The edition the chapter is read from, where it completes the one chosen. */
+  completedBy?: string
   marked?: MarkedVerses
   /** `y` is the verse's top within this component, for scrolling it into view. */
   onVersePress?: (verse: number, y: number) => void
@@ -114,45 +120,52 @@ export function ChapterContent({
           {t('bible.showingFallback')}
         </Text>
       ) : undefined}
+      {completedBy ? (
+        <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" textAlign="center">
+          {t('bible.showingEdition', { name: completedBy })}
+        </Text>
+      ) : undefined}
 
-      {verses.map((v) => {
-        const inPassage = marked !== undefined && marked.from <= v.verse && v.verse <= marked.to
-        const line = (
-          <VerseLine
-            verse={v}
-            numberSizePx={numberSizePx}
-            numberRender={marked?.verse === v.verse ? markedNumberRender : numberRender}
-          />
-        )
-        if (!onVersePress) return <View key={v.verse}>{line}</View>
-        return (
-          <Pressable
-            key={v.verse}
-            onLayout={(e) => {
-              const { y } = e.nativeEvent.layout
-              tops.current.set(v.verse, y)
-              onVerseLayout?.(v.verse, y)
-            }}
-            onPress={() => onVersePress(v.verse, tops.current.get(v.verse) ?? 0)}
-            accessibilityRole="button"
-            accessibilityLabel={t('a11y.verseCommentary', { n: v.verse })}
-            accessibilityState={{ selected: marked?.verse === v.verse }}
-            aria-selected={marked?.verse === v.verse}
-          >
-            {/* The wash runs past the text on every side, across the gap
-              between verses, so a marked passage reads as one block. */}
-            <View
-              backgroundColor={inPassage ? '$backgroundSurface' : 'transparent'}
-              marginHorizontal={-6}
-              paddingHorizontal={6}
-              marginVertical={-2}
-              paddingVertical={2}
+      <ReadingLanguage language={language}>
+        {verses.map((v) => {
+          const inPassage = marked !== undefined && marked.from <= v.verse && v.verse <= marked.to
+          const line = (
+            <VerseLine
+              verse={v}
+              numberSizePx={numberSizePx}
+              numberRender={marked?.verse === v.verse ? markedNumberRender : numberRender}
+            />
+          )
+          if (!onVersePress) return <View key={v.verse}>{line}</View>
+          return (
+            <Pressable
+              key={v.verse}
+              onLayout={(e) => {
+                const { y } = e.nativeEvent.layout
+                tops.current.set(v.verse, y)
+                onVerseLayout?.(v.verse, y)
+              }}
+              onPress={() => onVersePress(v.verse, tops.current.get(v.verse) ?? 0)}
+              accessibilityRole="button"
+              accessibilityLabel={t('a11y.verseCommentary', { n: v.verse })}
+              accessibilityState={{ selected: marked?.verse === v.verse }}
+              aria-selected={marked?.verse === v.verse}
             >
-              {line}
-            </View>
-          </Pressable>
-        )
-      })}
+              {/* The wash runs past the text on every side, across the gap
+              between verses, so a marked passage reads as one block. */}
+              <View
+                backgroundColor={inPassage ? '$backgroundSurface' : 'transparent'}
+                marginHorizontal={-6}
+                paddingHorizontal={6}
+                marginVertical={-2}
+                paddingVertical={2}
+              >
+                {line}
+              </View>
+            </Pressable>
+          )
+        })}
+      </ReadingLanguage>
     </YStack>
   )
 }

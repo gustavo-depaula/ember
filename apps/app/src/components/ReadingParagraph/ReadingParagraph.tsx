@@ -3,10 +3,9 @@ import { useMemo } from 'react'
 import { Text } from 'tamagui'
 
 import { useLastLineGuard } from '@/hooks/useLastLineGuard'
-import { useReadingStyle } from '@/hooks/useReadingStyle'
+import { useReadingFontId, useReadingStyle } from '@/hooks/useReadingStyle'
 import type { TextStyleName } from '@/lib/typography/fontMetrics'
 import type { StyledSegment } from '@/lib/typography/justifyText'
-import { usePreferencesStore } from '@/stores/preferencesStore'
 import { blockFace } from '../prayer/InlineMarkdown'
 import { JustifiedLines } from './JustifiedLines'
 import { useReadingLanguage } from './readingLanguage'
@@ -58,8 +57,8 @@ export function ReadingParagraph({
     }
   | { children: ReactNode; source?: never; lead?: never; platformBreaks?: never }
 )) {
-  const reading = useReadingStyle()
-  const fontFamilyId = usePreferencesStore((s) => s.fontFamily)
+  const reading = useReadingStyle(language)
+  const fontFamilyId = useReadingFontId(language)
   const lang = useReadingLanguage(language)
   const baseFamily = reading.fontFamily as unknown as string
   const faces = useFaces(baseFamily, base)

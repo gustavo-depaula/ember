@@ -54,6 +54,7 @@ describe('getChapter', () => {
 
     expect(await getChapter('CPDV', 'matthew', 1)).toEqual({
       verses: [{ verse: 1, text: 'The book of the lineage' }],
+      edition: 'CPDV',
     })
   })
 
@@ -63,7 +64,10 @@ describe('getChapter', () => {
     const first = await getChapter('AM', 'matthew', 1)
     const second = await getChapter('AM', 'matthew', 1)
 
-    expect(first).toEqual({ verses: [{ verse: 1, text: 'Genealogia de Jesus Cristo' }] })
+    expect(first).toEqual({
+      verses: [{ verse: 1, text: 'Genealogia de Jesus Cristo' }],
+      edition: 'AM',
+    })
     expect(second).toEqual(first)
     expect(fetchAveMaria).toHaveBeenCalledTimes(1)
     expect(fetchAveMaria).toHaveBeenCalledWith('matthew', 1)
@@ -96,6 +100,7 @@ describe('getChapter', () => {
     expect(await getChapter('CPDV', 'matthew', 2)).toEqual({
       verses: [{ verse: 1, text: 'When Jesus therefore was born' }],
       fallback: true,
+      edition: 'DRB',
     })
   })
 })

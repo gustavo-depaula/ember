@@ -34,8 +34,12 @@ export type VersePaneProps = {
   bookId: string
   bookName: string
   chapter: number
-  /** The verse it is open on; none, and it is closed. */
+  /** The verse it is open on, at its shared address; none, and it is closed. */
   verse: number | undefined
+  /** The verse as the edition in hand numbers it, where that is not its shared address. */
+  heading?: string
+  /** The edition's verse has no counterpart in the Vulgate, so nothing points at it. */
+  unmatched?: boolean
   commentary: ReturnType<typeof useChapterCommentary>
   pane: VersePaneState
   /** Where it opens, and how far it may be drawn up, where it is drawn by hand. */
@@ -117,10 +121,11 @@ export function PaneBar({
   bookName,
   chapter,
   verse,
+  heading,
   commentary,
   pane,
   onClose,
-}: Pick<VersePaneProps, 'bookName' | 'chapter' | 'commentary' | 'pane' | 'onClose'> & {
+}: Pick<VersePaneProps, 'bookName' | 'chapter' | 'heading' | 'commentary' | 'pane' | 'onClose'> & {
   verse: number
 }) {
   const { t } = useTranslation()
@@ -129,7 +134,9 @@ export function PaneBar({
   const span = source ? spanForVerse(commentary.bySource[source.id] ?? [], verse) : undefined
   return (
     <XStack alignItems="center" justifyContent="space-between" gap="$sm" minHeight={40}>
-      <Typography variant="section-title">{`${bookName} ${chapter}:${verse}`}</Typography>
+      <Typography variant="section-title">
+        {heading ?? `${bookName} ${chapter}:${verse}`}
+      </Typography>
       <XStack alignItems="center" gap="$md">
         {span && span.from !== span.to ? (
           <Typography variant="label" fontSize="$1" color="$colorBurgundy">
@@ -161,6 +168,7 @@ export function PaneKinds({
   verse,
   commentary,
   pane,
+  unmatched,
   cameFrom,
   bottomPadding,
   onReadOn,
@@ -172,6 +180,7 @@ export function PaneKinds({
   | 'chapter'
   | 'commentary'
   | 'pane'
+  | 'unmatched'
   | 'cameFrom'
   | 'onReadOn'
   | 'onOpenPlace'
@@ -223,6 +232,16 @@ export function PaneKinds({
   function onPageSettled(e: NativeSyntheticEvent<NativeScrollEvent>) {
     const settled = kinds[Math.round(e.nativeEvent.contentOffset.x / width)]
     if (settled && settled !== kind) setKind(settled)
+  }
+
+  if (unmatched) {
+    return (
+      <YStack paddingHorizontal={24} paddingTop={12}>
+        <Typography variant="caption" fontSize="$3">
+          {t('bible.unmatchedVerse')}
+        </Typography>
+      </YStack>
+    )
   }
 
   return (

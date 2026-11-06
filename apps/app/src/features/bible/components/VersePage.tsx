@@ -15,7 +15,13 @@ import {
   readingMinutes,
   spanLabel,
 } from '../commentary'
-import { useBookName, useChapter, useChapterCommentary, useEntryVoices } from '../hooks'
+import {
+  useBookName,
+  useChapter,
+  useChapterCommentary,
+  useEntryVoices,
+  useVersification,
+} from '../hooks'
 import { CommentaryVoices } from './CommentaryVoices'
 
 /** One commentator on the verse, in full: each entry's words, read from where they are kept. */
@@ -79,10 +85,14 @@ export function VersePage({
   const theme = useTheme()
   const translation = usePreferencesStore((s) => s.translation)
   const bookName = useBookName(translation, bookId)
-  const { data: chapterData } = useChapter(translation, bookId, chapter)
+  // `chapter` and `verse` are the shared address the commentary is read at;
+  // the verse's words are the edition's own verse there.
+  const { data: versification } = useVersification(translation, bookId)
+  const own = versification?.fromShared({ bookId, chapter, verse })
+  const { data: chapterData } = useChapter(translation, bookId, own?.chapter ?? chapter)
   const { sources, bySource, isLoading, error } = useChapterCommentary(bookId, chapter, true)
 
-  const text = chapterData?.verses.find((v) => v.verse === verse)?.text
+  const text = own && chapterData?.verses.find((v) => v.verse === own.verse)?.text
   // A stand-in chapter is the Douay-Rheims, whatever the edition chosen.
   const edition = chapterData?.fallback ? findTranslation('DRB') : findTranslation(translation)
   const spoken = sources
