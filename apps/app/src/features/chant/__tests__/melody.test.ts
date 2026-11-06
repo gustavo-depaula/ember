@@ -5,15 +5,16 @@ import { fileURLToPath } from 'node:url'
 import { describe, expect, it } from 'vitest'
 
 import { parseGabc } from '../gabc'
-import { layoutScore, melodyOf, noteGlyphs } from '../layoutScore'
+import { layoutScore, melodyOf, noteInk } from '../layoutScore'
 import { melodyPulse, melodyWav, sungNotes } from '../melody'
 
-const score = (name: string) =>
+// A chant by its path under content/ (`chant-propers/in-…`), or its name in content/chants/.
+const score = (path: string) =>
   parseGabc(
     readFileSync(
       resolve(
         dirname(fileURLToPath(import.meta.url)),
-        `../../../../../../content/chants/${name}.gabc`,
+        `../../../../../../content/${path.includes('/') ? path : `chants/${path}`}.gabc`,
       ),
       'utf8',
     ),
@@ -50,10 +51,12 @@ describe('melodyWav', () => {
 
 describe('the notes a player lights', () => {
   it.each([
-    'salve-regina',
-    'kyrie-xi',
-    'veni-creator-spiritus',
-  ])('%s: one box a sounded note, each over a glyph', (name) => {
+    'chants/salve-regina',
+    'chants/kyrie-xi',
+    'chants/veni-creator-spiritus',
+    // A porrectus over "Invocá-": three notes, of which a diagonal draws two.
+    'chant-propers/in-invocabit-me-327',
+  ])('%s: every sounded note has ink to light', (name) => {
     const gabc = score(name)
     const tones = melodyOf(gabc)
     const layout = layoutScore(gabc, { width: 340 })
@@ -61,10 +64,20 @@ describe('the notes a player lights', () => {
     expect(notes.map((n) => n.tone)).toEqual(
       tones.flatMap((tone, i) => (tone.pitch === undefined ? [] : [i])),
     )
-    // A note drawn as part of a compound shape (a porrectus) has no glyph of its own to light.
-    const lit = layout.lines.flatMap((line) =>
-      line.notes.filter((n) => noteGlyphs(line, n.tone).length > 0),
+    const unlit = layout.lines.flatMap((line) =>
+      line.notes.filter((n) => noteInk(line, n.tone).marks.length === 0),
     )
-    expect(lit.length / notes.length).toBeGreaterThan(0.9)
+    expect(unlit).toEqual([])
+  })
+
+  it('lights each end of a porrectus, not the whole stroke', () => {
+    const gabc = score('chant-propers/in-invocabit-me-327')
+    const [line] = layoutScore(gabc, { width: 340 }).lines
+    // "Invocá-" sings e!hgh: the porrectus is its notes 4 to 6, after In-vo's three.
+    const [first, second, third] = [4, 5, 6].map((tone) => noteInk(line, tone))
+    expect(first.marks).toEqual(second.marks)
+    expect(first.band).toBeDefined()
+    expect(second.band?.top).toBeGreaterThan(first.band?.top ?? 0)
+    expect(third.band).toBeUndefined()
   })
 })

@@ -1,11 +1,11 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: the lines and marks of one layout never reorder
 import { memo, useMemo } from 'react'
-import Svg, { Path, Text as SvgText, TSpan } from 'react-native-svg'
+import Svg, { ClipPath, Defs, Path, Rect, Text as SvgText, TSpan } from 'react-native-svg'
 import { useTheme, YStack } from 'tamagui'
 import { useProgressiveCount } from '@/hooks/useProgressiveCount'
 import type { TextStyleName } from '@/lib/typography/fontMetrics'
 import { inkPaths } from './inkPath'
-import { layoutScore, noteGlyphs, type ScoreLine, type ScoreText } from './layoutScore'
+import { layoutScore, noteInk, type ScoreLine, type ScoreText } from './layoutScore'
 
 // The faces the lyrics were measured in (`layoutScore`), by the name each is
 // loaded under. Every one is a family of its own on both platforms, so no
@@ -90,10 +90,11 @@ const StaffLine = memo(function StaffLine({
   sounding?: number
 }) {
   const d = useMemo(() => ink(line), [ink, line])
-  // The sounding note drawn again over itself in red.
+  // The sounding note drawn again over itself in red; a stroke of several notes, only this note's end of it.
   const lit = useMemo(() => {
-    const marks = sounding === undefined ? [] : noteGlyphs(line, sounding)
-    return marks.length ? ink({ ...line, marks }) : undefined
+    if (sounding === undefined) return undefined
+    const { marks, band } = noteInk(line, sounding)
+    return marks.length ? { d: ink({ ...line, marks }), band } : undefined
   }, [ink, line, sounding])
   const colors = { ink: inkColor, rubric: rubricColor }
   const texts = line.marks.filter((mark): mark is ScoreText => mark.type === 'text')
@@ -101,7 +102,16 @@ const StaffLine = memo(function StaffLine({
   return (
     <Svg width={width} height={line.height} viewBox={`0 ${line.top} ${width} ${line.height}`}>
       <Path d={d} fill={inkColor} />
-      {lit && <Path d={lit} fill={rubricColor} />}
+      {lit?.band && (
+        <Defs>
+          <ClipPath id="sounding">
+            <Rect x={0} y={lit.band.top} width={width} height={lit.band.bottom - lit.band.top} />
+          </ClipPath>
+        </Defs>
+      )}
+      {lit && (
+        <Path d={lit.d} fill={rubricColor} clipPath={lit.band ? 'url(#sounding)' : undefined} />
+      )}
       {strokes.map((stroke, i) => (
         <Path key={i} d={stroke.d} stroke={inkColor} strokeWidth={stroke.weight} fill="none" />
       ))}
