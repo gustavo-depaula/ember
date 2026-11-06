@@ -22,18 +22,18 @@ import { chantBookEntries } from '@/features/chant/chants'
 import { useChantPlaces, useChantTexts } from '@/features/chant/hooks'
 import { chantBookHref, chantListHref } from '@/features/chant/routes'
 import { useThumbIndexDismissal } from '@/features/chant/ThumbIndex'
-import { ToneFill } from '@/features/covers/parts'
+import { BookCover } from '@/features/covers'
 import { type BlockTone, blockInk, jewelTones } from '@/features/explore/bgColor'
 import { localizeContent } from '@/lib/i18n'
 
 type BookEntry = ReturnType<typeof chantBookEntries>[number]
 
-// Each book's spine: its initial on the jewel of what it serves.
-const spines: Record<string, { initial: string; tone: BlockTone }> = {
-  'chant-book/graduale': { initial: 'G', tone: jewelTones.burgundy },
-  'chant-book/antiphonale': { initial: 'A', tone: jewelTones.marian },
-  'chant-book/kyriale': { initial: 'K', tone: jewelTones.gold },
-  'chant-book/cantus': { initial: 'C', tone: jewelTones.green },
+// Each book bound in the jewel of what it serves, as the Library binds its books.
+const bindings: Record<string, BlockTone> = {
+  'chant-book/graduale': jewelTones.burgundy,
+  'chant-book/antiphonale': jewelTones.marian,
+  'chant-book/kyriale': jewelTones.gold,
+  'chant-book/cantus': jewelTones.green,
 }
 
 // The chant library: the week's Masses first, for whoever sings today or
@@ -74,7 +74,7 @@ export default function ChantLibraryScreen() {
           <BookRow
             name={localizeContent(item.name)}
             description={localizeContent(item.description)}
-            spine={spines[item.id]}
+            tone={bindings[item.id]}
             onPress={() => router.push(chantBookHref(item.id))}
           />
         )
@@ -202,12 +202,12 @@ const keyOf = (item: SearchRow | BookEntry) => ('kind' in item ? item.key : item
 function BookRow({
   name,
   description,
-  spine,
+  tone,
   onPress,
 }: {
   name: string
   description: string
-  spine?: { initial: string; tone: BlockTone }
+  tone?: BlockTone
   onPress: () => void
 }) {
   const { t } = useTranslation()
@@ -225,18 +225,7 @@ function BookRow({
         borderBottomWidth={1}
         borderColor="$borderColor"
       >
-        <YStack width={44} height={56} alignItems="center" justifyContent="center">
-          <ToneFill
-            id={`spine-${name}`}
-            tone={spine?.tone ?? jewelTones.green}
-            width={44}
-            height={56}
-            radius={6}
-          />
-          <Text fontFamily="$title" fontSize={22} lineHeight={30} color={blockInk}>
-            {spine?.initial ?? name[0]}
-          </Text>
-        </YStack>
+        <BookCover title={name} tone={tone ?? jewelTones.green} format="missal" width={52} />
         <YStack flex={1}>
           <Typography fontSize="$3">{name}</Typography>
           <Typography variant="annotation" numberOfLines={2}>
