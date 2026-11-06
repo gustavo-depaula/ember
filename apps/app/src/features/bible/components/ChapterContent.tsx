@@ -37,8 +37,17 @@ const VerseLine = memo(function VerseLine({
   looks,
   onWordPress,
   onWordLongPress,
+  numberLabel,
+  mark,
+  split,
 }: {
   verse: Verse
+  /** The marker as printed, where it says more than the number: "19 · Vulg. 4:1". */
+  numberLabel?: string
+  /** The codex's paragraph mark closing the verse: open (פ) or closed (ס). */
+  mark?: 'p' | 's'
+  /** A verse of poetry: the slot its second line starts at. */
+  split?: number
   numberSizePx: number
   /** Resolved style for the marker — see `numberRender` in the parent. */
   numberRender: TextStyle
@@ -52,32 +61,54 @@ const VerseLine = memo(function VerseLine({
   onWordPress?: (verse: number, index: number) => void
   onWordLongPress?: (verse: number) => void
 }) {
-  const source = useMemo<StyledSegment[]>(() => {
+  const lines = useMemo<StyledSegment[][]>(() => {
     const number: StyledSegment = {
-      text: `${verse.verse}`,
+      text: numberLabel ?? `${verse.verse}`,
       style: 'regular',
       fontSizePx: numberSizePx,
       render: numberRender,
       atomic: true,
     }
+    // The paragraph letter, small and muted as the verse marker is, where the
+    // codex sets it: after the verse's last word.
+    const closing: StyledSegment[] = mark
+      ? [
+          { text: '  ', style: 'regular' },
+          {
+            text: mark === 'p' ? '\u05e4' : '\u05e1',
+            style: 'regular',
+            fontSizePx: numberSizePx,
+            render: numberRender,
+            atomic: true,
+          },
+        ]
+      : []
     if (!keys || !tokenize || !onWordPress || !onWordLongPress) {
-      return [number, { text: `  ${verse.text}`, style: 'regular' }]
+      return [[number, { text: `  ${verse.text}`, style: 'regular' }, ...closing]]
     }
-    return [
-      number,
-      { text: '  ', style: 'regular' },
-      ...wordSegments({
+    const slots = tokenize(verse.text)
+    const part = (from: number, to: number) =>
+      wordSegments({
         verse: verse.verse,
-        slots: tokenize(verse.text),
-        keys,
+        offset: from,
+        slots: slots.slice(from, to),
+        keys: keys.slice(from, to),
         studied,
         looks,
         onPress: onWordPress,
         onLongPress: onWordLongPress,
-      }),
+      })
+    const gap: StyledSegment = { text: '  ', style: 'regular' }
+    if (split === undefined) return [[number, gap, ...part(0, slots.length), ...closing]]
+    return [
+      [number, gap, ...part(0, split)],
+      [...part(split, slots.length), ...closing],
     ]
   }, [
     verse,
+    numberLabel,
+    mark,
+    split,
     numberSizePx,
     numberRender,
     keys,
@@ -88,7 +119,18 @@ const VerseLine = memo(function VerseLine({
     onWordLongPress,
   ])
 
-  return <ReadingParagraph source={source} />
+  if (lines.length === 1) return <ReadingParagraph source={lines[0]} />
+  // Poetry: each half its own line, set ragged — the breaks are the verse's —
+  // and the second indented from where Hebrew lines start, the right, as a
+  // printed psalter sets it.
+  return (
+    <YStack>
+      <ReadingParagraph source={lines[0]} ragged />
+      <View paddingRight={20}>
+        <ReadingParagraph source={lines[1]} ragged />
+      </View>
+    </YStack>
+  )
 })
 
 /** The other edition's verse, set once for as long as its text and look hold. */
@@ -132,6 +174,19 @@ export type BesideProps = {
   onSplit: (split: number) => void
 }
 
+/**
+ * What an edition prints beyond its words: the Vulgate's number beside a verse
+ * numbered otherwise, the codex's paragraph marks after a verse, and the slot
+ * where a verse of poetry breaks into its second line.
+ */
+export type PageLayout = {
+  /** The Vulgate's chapter, where the whole chapter is numbered otherwise there. */
+  vulgateChapter?: number
+  numbers?: Record<number, string>
+  marks?: Record<number, 'p' | 's'>
+  splits?: Record<number, number>
+}
+
 /** The verse whose commentary is open, and the passage that commentary covers. */
 export type MarkedVerses = { verse: number; from: number; to: number }
 
@@ -146,6 +201,7 @@ export function ChapterContent({
   marked,
   study,
   beside,
+  layout: printed,
   onVersePress,
   onVerseLayout,
 }: {
@@ -161,6 +217,8 @@ export function ChapterContent({
   marked?: MarkedVerses
   study?: WordStudyProps
   beside?: BesideProps
+  /** How the edition sets its verses, where it differs from plain prose. */
+  layout?: PageLayout
   /** `y` is the verse's top within this component, for scrolling it into view. */
   onVersePress?: (verse: number, y: number) => void
   /** Each verse's top as it is laid out, for a reader that turns to a verse untapped. */
@@ -208,6 +266,9 @@ export function ChapterContent({
         looks={looks}
         onWordPress={study?.onWordPress}
         onWordLongPress={study?.onWordLongPress}
+        numberLabel={printed?.numbers?.[v.verse]}
+        mark={printed?.marks?.[v.verse]}
+        split={printed?.splits?.[v.verse]}
       />
     )
     const besideText = beside?.texts[v.verse]
@@ -232,10 +293,24 @@ export function ChapterContent({
         </YStack>
       )
     })()
-    if (!onVersePress) return <View key={v.verse}>{line}</View>
+    // An open paragraph leaves a line's space before the next, a closed one a little.
+    const paragraphGap = (() => {
+      const after = printed?.marks?.[v.verse]
+      if (after === 'p') return Math.round(readingStyle.lineHeight * 0.6)
+      if (after === 's') return Math.round(readingStyle.lineHeight * 0.2)
+      return 0
+    })()
+    if (!onVersePress) {
+      return (
+        <View key={v.verse} marginBottom={paragraphGap}>
+          {line}
+        </View>
+      )
+    }
     return (
       <Pressable
         key={v.verse}
+        style={{ marginBottom: paragraphGap }}
         onLayout={(e) => {
           const { y } = e.nativeEvent.layout
           tops.current.set(v.verse, y)
@@ -270,6 +345,7 @@ export function ChapterContent({
       fallback={fallback}
       completedBy={completedBy}
       moved={moved}
+      vulgateChapter={printed?.vulgateChapter}
       gap="$xs"
     >
       {beside?.columns ? (

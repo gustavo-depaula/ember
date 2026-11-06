@@ -170,6 +170,10 @@ function build(table: FaceMetrics): FontMetrics {
       // shaper zeroes their advance whatever the font's table says (Ezra SIL
       // gives a few of them 2 units).
       if (isHebrewMark(cp)) continue
+      // Zero-width formatting marks (ZWSP to RLM): no glyph, no advance, though
+      // the font's table points them at one. The right-to-left mark starts
+      // every Hebrew paragraph (see ReadingParagraph).
+      if (cp >= 0x200b && cp <= 0x200f) continue
       const asDagesh = dageshForm.size && dageshForm.has(cp) && carriesDagesh(text, i + 1)
       total += asDagesh ? (dageshForm.get(cp) as number) : (byCodepoint.get(cp) ?? fallback)
       if (kerned && prev >= 0) total += kernBetween(prev, cp)

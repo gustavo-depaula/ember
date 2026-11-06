@@ -55,8 +55,11 @@ export function wordSegments({
   looks,
   onPress,
   onLongPress,
+  offset = 0,
 }: {
   verse: number
+  /** Where `slots` start in the verse, for a verse set in parts (a line of poetry). */
+  offset?: number
   slots: string[]
   keys: (string | undefined)[]
   studied: StudiedWord | undefined
@@ -65,8 +68,9 @@ export function wordSegments({
   onLongPress: (verse: number) => void
 }): StyledSegment[] {
   const hold = () => onLongPress(verse)
-  return slots.flatMap((slot, index): StyledSegment[] => {
-    const key = keys[index]
+  return slots.flatMap((slot, at): StyledSegment[] => {
+    const index = at + offset
+    const key = keys[at]
     const isStudied = studied?.verse === verse && studied.index === index
     const render = (() => {
       if (isStudied) return looks.studied
@@ -85,7 +89,7 @@ export function wordSegments({
           }
     // The space before a word is a segment of its own, so the studied word's
     // wash and its kin's underline start at the word and not at the gap.
-    if (index === 0 || slots[index - 1].endsWith('\u05be')) return [word]
+    if (at === 0 || slots[at - 1].endsWith('\u05be')) return [word]
     return [{ text: ' ', style: 'regular' }, word]
   })
 }

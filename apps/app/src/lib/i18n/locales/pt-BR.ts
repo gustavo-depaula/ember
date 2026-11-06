@@ -1084,6 +1084,8 @@ export default {
       vowels: 'Vogais',
       chant: 'Cantilação',
     },
+    vulgateChapter: 'Vulgata {{n}}',
+    vulgShort: 'Vulg.',
     showingEdition: 'Do texto {{name}}',
     chapterMoved: '{{name}} traz estes versículos no capítulo {{chapter}} · ir até lá',
     hebrewMorph: {

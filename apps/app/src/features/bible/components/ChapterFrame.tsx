@@ -17,11 +17,14 @@ export function ChapterFrame({
   fallback,
   completedBy,
   moved,
+  vulgateChapter,
   gap,
   children,
 }: {
   bookName: string
   chapter: number
+  /** The Vulgate's number for this chapter, where the edition numbers it otherwise (Psalm 23 · Vulgate 22). */
+  vulgateChapter?: number
   fallback?: boolean
   /** The edition the chapter is read from, where it completes the one chosen. */
   completedBy?: string
@@ -49,6 +52,11 @@ export function ChapterFrame({
         </Typography>
         <Typography variant="label" tone="muted" fontSize="$4">
           {t('position.chapter', { n: chapter })}
+          {vulgateChapter ? (
+            <Typography variant="label" tone="muted" fontSize="$3">
+              {` · ${t('bible.vulgateChapter', { n: vulgateChapter })}`}
+            </Typography>
+          ) : undefined}
         </Typography>
       </YStack>
 

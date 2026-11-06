@@ -1080,6 +1080,8 @@ export default {
       vowels: 'Vowels',
       chant: 'Chant',
     },
+    vulgateChapter: 'Vulgate {{n}}',
+    vulgShort: 'Vulg.',
     showingEdition: 'From {{name}}',
     chapterMoved: '{{name}} sets these verses in chapter {{chapter}} · go there',
     hebrewMorph: {

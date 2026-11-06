@@ -1,5 +1,7 @@
 import { PixelRatio, Platform } from 'react-native'
 
+import { isHebrew } from './hebrew'
+
 /**
  * How a justified paragraph's measure is fitted to the platform that draws it.
  *
@@ -92,10 +94,23 @@ export function breakWidth(
   key: string,
   widthPx: number,
   fontSizePx: number,
+  language?: string,
 ): number | undefined {
   const shrinkPx = fit?.key === key ? fit.shrinkPx : 0
   if (shrinkPx > maxShrinkPx(fontSizePx)) return undefined
-  return widthPx - headroomPx() - shrinkPx
+  return widthPx - headroomPx() - scriptHeadroomPx(language) - shrinkPx
+}
+
+/**
+ * The model's share for a script its tables describe less closely. Pointed
+ * Hebrew in Ezra SIL draws up to 2.4 px wider than its tables sum on a full
+ * line (measured on Genesis 1 and Psalm 23, Android): its shaper positions
+ * marks and composes letters in ways the advances do not carry. Android
+ * reports such a line as fitting and then wraps it when it draws, so the
+ * fitting loop never sees it; the headroom has to.
+ */
+function scriptHeadroomPx(language: string | undefined) {
+  return isHebrew(language) ? 3 : 0
 }
 
 /**

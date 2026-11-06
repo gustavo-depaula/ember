@@ -28,15 +28,18 @@ import { isHebrew, showHebrewMarks } from '@/lib/typography/hebrew'
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import { spanForVerse } from '../commentary'
+import { accentOf, accentSystem } from '../hebrew/accents'
 import { describeHebrew } from '../hebrew/morphology'
 import { type HebrewWord, hebrewTokens, isStudiable, mainPiece } from '../hebrew/words'
 import {
+  useAccentTable,
   useBooks,
   useChapter,
   useChapterCommentary,
   useChapterWords,
   useHebrewChapterWords,
   useHebrewMorphology,
+  useHebrewParagraphs,
   useParallelVerses,
   usePrefetchAdjacentChapters,
   useVersePane,
@@ -47,7 +50,7 @@ import { isReferenceKind } from '../references'
 import { getVersification, getVersificationAt, whereChapterWent } from '../versification'
 import { isUnchecked, verseTokens } from '../words'
 import { BibleDrawer } from './BibleDrawer'
-import { ChapterContent } from './ChapterContent'
+import { ChapterContent, type PageLayout } from './ChapterContent'
 import { ChapterNav } from './ChapterNav'
 import { HebrewWordStudy } from './HebrewWordStudy'
 import { InterlinearChapter } from './InterlinearChapter'
@@ -351,6 +354,41 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
         : undefined,
     [layout, parallel.data, besideLanguage, studyLayout.columns, studyLayout.split, onSplit],
   )
+  // What the edition prints beyond its words (see `PageLayout`).
+  const { data: paragraphs } = useHebrewParagraphs(edition, bookId, hebrewPage)
+  const { data: accentTable } = useAccentTable(edition, hebrewPage)
+  const printed = useMemo<PageLayout | undefined>(() => {
+    if (!chapterData) return undefined
+    const numbers: Record<number, string> = {}
+    const marks: Record<number, 'p' | 's'> = {}
+    const splits: Record<number, number> = {}
+    // The Vulgate's chapter for most of these verses: the heading names it
+    // where it differs, and only a verse that departs from it is marked.
+    const shared = chapterData.verses.map(({ verse }) =>
+      versification?.toShared({ bookId, chapter, verse }),
+    )
+    const tally = new Map<number, number>()
+    for (const at of shared) if (at) tally.set(at.chapter, (tally.get(at.chapter) ?? 0) + 1)
+    const vulgate = [...tally].sort((a, b) => b[1] - a[1])[0]?.[0] ?? chapter
+    chapterData.verses.forEach(({ verse, text }, i) => {
+      const at = shared[i]
+      if (at && (at.chapter !== vulgate || at.verse !== verse)) {
+        const where = at.chapter === vulgate ? `${at.verse}` : `${at.chapter}:${at.verse}`
+        numbers[verse] = `${verse} · ${t('bible.vulgShort')} ${where}`
+      }
+      const mark = paragraphs?.after[`${chapter}:${verse}`]
+      if (mark) marks[verse] = mark
+      if (accentTable && accentSystem(accentTable, bookId, chapter, verse) === 'poetic') {
+        // The verse breaks after its first word in great pause short of the end.
+        const slots = hebrewTokens(text)
+        const pause = slots.findIndex(
+          (_, i) => i < slots.length - 2 && accentOf(accentTable, 'poetic', slots, i)?.inPause,
+        )
+        if (pause >= 0) splits[verse] = pause + 1
+      }
+    })
+    return { vulgateChapter: vulgate === chapter ? undefined : vulgate, numbers, marks, splits }
+  }, [chapterData, versification, bookId, chapter, paragraphs, accentTable, t])
   const completedBy =
     !chapterData || chapterData.edition === translation || chapterData.fallback
       ? undefined
@@ -602,6 +640,7 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
               fallback={chapterData.fallback}
               study={pageStudy}
               beside={beside}
+              layout={printed}
               completedBy={completedBy}
               moved={moved}
               marked={marked}

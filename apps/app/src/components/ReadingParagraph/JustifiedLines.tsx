@@ -68,7 +68,7 @@ export function JustifiedLines({
 
   const lines = useMemo(() => {
     if (!width) return undefined
-    const widthPx = breakWidth(fit, modelKey, width, fontSizePx)
+    const widthPx = breakWidth(fit, modelKey, width, fontSizePx, language)
     if (widthPx === undefined) return undefined
     return justifyText({
       source: segments,

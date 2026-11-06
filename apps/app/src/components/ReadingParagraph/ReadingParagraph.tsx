@@ -72,6 +72,16 @@ export function ReadingParagraph({
   // so the breaker only decides where lines end; the start edge is the right.
   const rtl = isHebrew(lang)
   const direction = rtl ? ({ writingDirection: 'rtl' } as const) : undefined
+  // Android ignores `writingDirection` and takes a paragraph's direction from
+  // its first strong letter, so a Hebrew verse whose marker reads "1 · Vulg. 2"
+  // would be laid out left to right. A right-to-left mark first settles it.
+  const directed = useMemo(
+    () =>
+      rtl && source?.length
+        ? [{ ...source[0], text: `\u200f${source[0].text}` }, ...source.slice(1)]
+        : source,
+    [rtl, source],
+  )
   const guard = useLastLineGuard(
     `${reading.fontSize}|${reading.lineHeight}|${baseFamily}|${base}|${lang}|${text}`,
   )
@@ -79,7 +89,7 @@ export function ReadingParagraph({
   const platformText = source ? (
     <>
       {lead}
-      <SegmentRuns segments={source} faces={faces} language={lang} />
+      <SegmentRuns segments={directed ?? []} faces={faces} language={lang} />
     </>
   ) : (
     children
@@ -116,7 +126,7 @@ export function ReadingParagraph({
 
   return (
     <JustifiedLines
-      segments={source}
+      segments={directed ?? source}
       faces={faces}
       fontFamilyId={fontFamilyId}
       fontSizePx={reading.fontSize}
