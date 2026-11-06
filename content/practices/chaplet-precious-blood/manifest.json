@@ -6,7 +6,10 @@
 		"en-US": "Chaplet of the Precious Blood",
 		"pt-BR": "Coroa do Preciosíssimo Sangue"
 	},
-	"categories": ["devotion", "passion"],
+	"categories": [
+		"devotion",
+		"passion"
+	],
 	"estimatedMinutes": 20,
 	"flowMode": "scroll",
 	"completion": "flow-end",
@@ -24,14 +27,22 @@
 	},
 	"source": {
 		"en-US": "*The Raccolta, or Collection of Indulgenced Prayers and Good Works*, tr. Ambrose St John, 1910 ed. (Burns & Oates / Benziger), no. 138 \"Chaplet of the Precious Blood\", pp. 117–121 — [archive.org](https://archive.org/details/theraccoltaorcol00unknuoft/page/117)",
-		"pt-BR": "*Pio e devoto exercicio para os irmãos da Archiconfraria do Preciosissimo Sangue de N.S.J.C.* (Porto: Typ. de F. Pereira de Azevedo, 1857), \"Coroa em honra do Preciosissimo Sangue de Jesus Christo\", pp. 10–18, spelling modernized — [archive.org](https://archive.org/details/pioedevotoexerci00arch/page/10)"
+		"pt-BR": "*Pio e devoto exercicio para os irmãos da Archiconfraria do Preciosissimo Sangue de N.S.J.C.* (Porto: Typ. de F. Pereira de Azevedo, 1857), \"Coroa em honra do Preciosissimo Sangue de Jesus Christo\", pp. 10–18 — [archive.org](https://archive.org/details/pioedevotoexerci00arch/page/10). Ortografia, pontuação e colocação dos pronomes adaptadas ao uso brasileiro; o versículo inicial, que o livro dá em latim, segue a forma do corpus."
 	},
-	"tags": ["chaplet", "precious-blood", "passion", "raccolta", "gaspar-del-bufalo"],
+	"tags": [
+		"chaplet",
+		"precious-blood",
+		"passion",
+		"raccolta",
+		"gaspar-del-bufalo"
+	],
 	"defaults": {
 		"sortOrder": 511,
 		"slots": [
 			{
-				"schedule": { "type": "daily" },
+				"schedule": {
+					"type": "daily"
+				},
 				"tier": "extra",
 				"enabled": false
 			}

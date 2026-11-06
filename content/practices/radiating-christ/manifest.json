@@ -18,7 +18,7 @@
 	},
 	"history": {
 		"en-US": "These are Newman's own words, the third part of the meditation \"Jesus the Light of the Soul\" in his Meditations on Christian Doctrine, published after his death in Meditations and Devotions (1893). The prayer widely known as \"Radiating Christ\" (\"Dear Jesus, help me to spread Thy fragrance everywhere I go…\") is a later adaptation of this passage, prayed daily by St. Teresa of Calcutta and her Missionaries of Charity. This practice keeps Newman's original text.",
-		"pt-BR": "Estas são as próprias palavras de Newman, a terceira parte da meditação \"Jesus, a Luz da Alma\" das suas Meditações sobre a Doutrina Cristã, publicadas após a sua morte em Meditations and Devotions (1893). A oração conhecida como \"Irradiar Cristo\" (\"Querido Jesus, ajudai-me a espalhar a vossa fragrância…\") é uma adaptação posterior desta passagem, rezada diariamente por Santa Teresa de Calcutá e pelas Missionárias da Caridade. Esta prática conserva o texto original de Newman, que só existe em inglês nas fontes consultadas."
+		"pt-BR": "Estas são as próprias palavras de Newman, a terceira parte da meditação \"Jesus, a Luz da Alma\" das suas Meditações sobre a Doutrina Cristã, publicadas após a sua morte em Meditations and Devotions (1893). A oração conhecida como \"Irradiar Cristo\" (\"Querido Jesus, ajudai-me a espalhar a vossa fragrância…\") é uma adaptação posterior desta passagem, rezada diariamente por Santa Teresa de Calcutá e pelas Missionárias da Caridade. Esta prática conserva o texto original de Newman."
 	},
 	"howToPray": {
 		"en-US": "Pray it in the morning, before going out among others, asking that the day's work and words let Christ be seen.",
@@ -26,7 +26,7 @@
 	},
 	"source": {
 		"en-US": "John Henry Newman, *Meditations and Devotions of the Late Cardinal Newman* (London: Longmans, Green, and Co., 1893), Meditations on Christian Doctrine, VII \"God with Us\", 3 \"Jesus the Light of the Soul\", §3, pp. 500–501 ([archive.org scan](https://archive.org/details/a600404300newmuoft/page/500)).",
-		"pt-BR": "John Henry Newman, *Meditations and Devotions of the Late Cardinal Newman* (Londres: Longmans, Green, and Co., 1893), Meditations on Christian Doctrine, VII \"God with Us\", 3 \"Jesus the Light of the Soul\", §3, pp. 500–501 ([digitalização no archive.org](https://archive.org/details/a600404300newmuoft/page/500)). Sem tradução portuguesa publicada encontrada; o texto aparece em inglês."
+		"pt-BR": "John Henry Newman, *Meditations and Devotions of the Late Cardinal Newman* (Londres: Longmans, Green, and Co., 1893), Meditations on Christian Doctrine, VII \"God with Us\", 3 \"Jesus the Light of the Soul\", §3, pp. 500–501 ([digitalização no archive.org](https://archive.org/details/a600404300newmuoft/page/500)). O português foi traduzido desse inglês para este aplicativo."
 	},
 	"tags": [
 		"newman",
@@ -51,7 +51,8 @@
 			{
 				"type": "prayer",
 				"inline": {
-					"en-US": "Stay with me, and then I shall begin to shine as Thou shinest: so to shine as to be a light to others. The light, O Jesus, will be all from Thee. None of it will be mine. No merit to me. It will be Thou who shinest through me upon others. O let me thus praise Thee, in the way which Thou dost love best, by shining on all those around me. Give light to them as well as to me; light them with me, through me. Teach me to show forth Thy praise, Thy truth, Thy will. Make me preach Thee without preaching—not by words, but by my example and by the catching force, the sympathetic influence, of what I do—by my visible resemblance to Thy saints, and the evident fulness of the love which my heart bears to Thee."
+					"en-US": "Stay with me, and then I shall begin to shine as Thou shinest: so to shine as to be a light to others. The light, O Jesus, will be all from Thee. None of it will be mine. No merit to me. It will be Thou who shinest through me upon others. O let me thus praise Thee, in the way which Thou dost love best, by shining on all those around me. Give light to them as well as to me; light them with me, through me. Teach me to show forth Thy praise, Thy truth, Thy will. Make me preach Thee without preaching—not by words, but by my example and by the catching force, the sympathetic influence, of what I do—by my visible resemblance to Thy saints, and the evident fulness of the love which my heart bears to Thee.",
+					"pt-BR": "Ficai comigo, e então começarei a brilhar como vós brilhais: a brilhar de tal modo que seja luz para os outros. A luz, ó Jesus, virá toda de vós; nada dela será meu. Nenhum mérito para mim. Sereis vós que, através de mim, brilhareis sobre os outros. Ó, deixai-me assim louvar-vos, do modo que mais amais: brilhando sobre todos os que me rodeiam. Dai-lhes luz a eles como a mim; iluminai-os comigo, por meio de mim. Ensinai-me a manifestar o vosso louvor, a vossa verdade, a vossa vontade. Fazei que eu vos pregue sem pregar — não por palavras, mas pelo meu exemplo e pela força que contagia, pela influência que atrai os corações, do que eu faço —, pela minha visível semelhança com os vossos santos e pela evidente plenitude do amor que o meu coração vos tem."
 				}
 			}
 		]

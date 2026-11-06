@@ -6,7 +6,9 @@
 		"en-US": "Chaplet of St. Michael",
 		"pt-BR": "Terço de São Miguel Arcanjo"
 	},
-	"categories": ["devotion"],
+	"categories": [
+		"devotion"
+	],
 	"estimatedMinutes": 15,
 	"flowMode": "scroll",
 	"completion": "flow-end",
@@ -24,14 +26,22 @@
 	},
 	"source": {
 		"en-US": "*The Raccolta, or Collection of Indulgenced Prayers and Good Works*, tr. Ambrose St John, 1910 ed. (Burns & Oates / Benziger), no. 291 \"Angelical Crown\", pp. 261–263 — [archive.org](https://archive.org/details/theraccoltaorcol00unknuoft/page/261)",
-		"pt-BR": "Paróquia São Miguel Arcanjo (Riacho Fundo I, Brasília), *Pequeno Devocionário Paroquial ao Glorioso Padroeiro São Miguel Arcanjo*, \"Coroa de São Miguel Arcanjo\", pp. 27–29 — [archive.org](https://archive.org/details/pequeno-devocionario-paroquial-a-sao-miguel-arcanjo)"
+		"pt-BR": "Paróquia São Miguel Arcanjo (Riacho Fundo I, Brasília), *Pequeno Devocionário Paroquial ao Glorioso Padroeiro São Miguel Arcanjo*, \"Coroa de São Miguel Arcanjo\", pp. 27–29 — [archive.org](https://archive.org/details/pequeno-devocionario-paroquial-a-sao-miguel-arcanjo). A antífona e o versículo finais, que o devocionário não traz, foram traduzidos para este aplicativo a partir da *Raccolta* (1910), n.º 291."
 	},
-	"tags": ["chaplet", "michael", "angels", "archangel", "raccolta"],
+	"tags": [
+		"chaplet",
+		"michael",
+		"angels",
+		"archangel",
+		"raccolta"
+	],
 	"defaults": {
 		"sortOrder": 510,
 		"slots": [
 			{
-				"schedule": { "type": "daily" },
+				"schedule": {
+					"type": "daily"
+				},
 				"tier": "extra",
 				"enabled": false
 			}
