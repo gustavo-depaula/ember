@@ -27,6 +27,7 @@ import {
   referenceKinds,
 } from './references'
 import { getVersificationAt } from './versification'
+import { getChapterWords, getLexiconSources, getOccurrences, lookUp } from './words'
 
 export function useBooks(translation: string) {
   return useQuery({
@@ -271,3 +272,79 @@ export function useVersePane(
 }
 
 export type VersePaneState = ReturnType<typeof useVersePane>
+
+/** Each verse's words with their lemma, parsing and gloss, for an edition that has them. */
+export function useChapterWords(edition: string, bookId: string, chapter: number) {
+  return useQuery({
+    queryKey: ['bible', 'words', edition, bookId, chapter],
+    queryFn: async () => (await getChapterWords(edition, bookId, chapter)) ?? null,
+    staleTime: Number.POSITIVE_INFINITY,
+  })
+}
+
+export function useLexiconSources() {
+  return useQuery({
+    queryKey: ['bible', 'lexicons'],
+    queryFn: getLexiconSources,
+    staleTime: Number.POSITIVE_INFINITY,
+  })
+}
+
+/** A lemma's entries in one lexicon, the exact spelling first. */
+export function useLexiconEntries(source: string, lemma: string | undefined) {
+  return useQuery({
+    queryKey: ['bible', 'lexicon', source, lemma],
+    queryFn: () => lookUp(source, lemma as string),
+    enabled: lemma !== undefined,
+    staleTime: Number.POSITIVE_INFINITY,
+  })
+}
+
+/** Every verse of an edition where a lemma stands, in canonical order. */
+export function useOccurrences(edition: string, lemma: string | undefined) {
+  return useQuery({
+    queryKey: ['bible', 'occurrences', edition, lemma],
+    queryFn: () => getOccurrences(edition, lemma as string),
+    enabled: lemma !== undefined,
+    staleTime: Number.POSITIVE_INFINITY,
+  })
+}
+
+/**
+ * Each of a chapter's verses in another edition, for reading the two side by
+ * side: carried through both editions' tables, so the Septuagint's Jeremiah
+ * 32 stands beside the Douay's chapter 25. A verse the other lacks is absent.
+ */
+export function useParallelVerses(
+  edition: string,
+  parallel: string,
+  bookId: string,
+  chapter: number,
+  verses: number[] | undefined,
+) {
+  return useQuery({
+    queryKey: ['bible', 'parallel', edition, parallel, bookId, chapter],
+    enabled: verses !== undefined,
+    staleTime: Number.POSITIVE_INFINITY,
+    queryFn: async () => {
+      const [own, other] = await Promise.all([
+        getVersificationAt(edition, bookId),
+        getVersificationAt(parallel, bookId),
+      ])
+      const places = (verses ?? []).map((verse) => {
+        const shared = own.toShared({ bookId, chapter, verse })
+        return { verse, at: shared && other.fromShared(shared) }
+      })
+      const chapters = [...new Set(places.flatMap(({ at }) => (at ? [at.chapter] : [])))]
+      const read = await Promise.all(chapters.map((c) => getChapter(parallel, bookId, c)))
+      const text = (c: number, v: number) =>
+        read[chapters.indexOf(c)]?.verses.find((x) => x.verse === v)?.text
+      return Object.fromEntries(
+        places.flatMap(({ verse, at }) => {
+          const found = at && text(at.chapter, at.verse)
+          return found ? [[verse, found]] : []
+        }),
+      ) as Record<number, string>
+    },
+  })
+}

@@ -5,7 +5,7 @@ import { describe, expect, it } from 'vitest'
 import { translations } from '@/lib/bibleTranslations'
 import { getChapter } from '@/lib/content'
 
-import { getVersification } from '../versification'
+import { carryPlace, getVersification } from '../versification'
 import { getChapterWords, lookUp } from '../words'
 
 // The built corpus (`pnpm build:corpus`), as the app reads it.
@@ -60,11 +60,11 @@ describe('the Greek editions’ words', () => {
   it('reads John 1:1 word by word, and finds the Word in the lexicon', async () => {
     const words = await getChapterWords('N1904', 'john', 1)
     expect(words?.[1].slice(0, 5)).toEqual([
-      ['ἐν', 'PREP'],
-      ['ἀρχή', 'N-DSF'],
-      ['εἰμί', 'V-IAI-3S'],
-      ['ὁ', 'T-NSM'],
-      ['λόγος', 'N-NSM'],
+      ['ἐν', 'PREP', 'In [the]'],
+      ['ἀρχή', 'N-DSF', 'beginning'],
+      ['εἰμί', 'V-IAI-3S', 'was'],
+      ['ὁ', 'T-NSM', 'the'],
+      ['λόγος', 'N-NSM', 'Word'],
     ])
     const [entry] = await lookUp('dodson', 'λόγος')
     expect(entry.lemma).toBe('λόγος')
@@ -76,6 +76,28 @@ describe('the Greek editions’ words', () => {
     const [go] = await lookUp('middle-liddell', 'εἶμι')
     expect(be.lemma).toBe('εἰμί')
     expect(go.lemma).toBe('εἶμι')
+  })
+})
+
+describe('the Septuagint', () => {
+  it('carries the cup of wrath from its Jeremiah 32 to the Vulgate’s chapter 25', async () => {
+    const septuagint = await getVersification('LXX')
+    expect(septuagint.toShared({ bookId: 'jeremias', chapter: 32, verse: 15 })).toEqual({
+      bookId: 'jeremias',
+      chapter: 25,
+      verse: 15,
+    })
+    expect(await carryPlace('LXX', 'DRB', 'jeremias', 32)).toEqual({
+      bookId: 'jeremias',
+      chapter: 25,
+    })
+  })
+
+  it('reads the Old Testament of a Greek New Testament', async () => {
+    const genesis = await getChapter('N1904', 'genesis', 1)
+    expect(genesis.edition).toBe('LXX')
+    expect(genesis.fallback).toBeUndefined()
+    expect(genesis.verses[0].text).toMatch(/ἀρχῇ ἐποίησεν ὁ Θεὸς/)
   })
 })
 

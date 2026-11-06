@@ -1,3 +1,5 @@
+import type { TFunction } from 'i18next'
+
 /**
  * Robinson's parsing codes, as the Greek editions' word files carry them
  * (`V-AAI-3S`, `N-GSF`, `P-1NP`, `S-1SNSM`), read into their parts. The words
@@ -151,7 +153,11 @@ export function parseRobinson(code: string): Parsing | undefined {
  * A parsing spelled out, as a grammar writes it: "aorist active indicative,
  * 3rd person singular"; "noun, genitive plural feminine". `t` is i18next's.
  */
-export function describeParsing(parsing: Parsing, t: (key: string, options?: object) => string) {
+export function describeParsing(
+  parsing: Parsing,
+  t: TFunction,
+  { pos = true }: { pos?: boolean } = {},
+) {
   const say = (group: string, value: string | undefined) =>
     value ? t(`bible.morph.${group}.${value}`) : undefined
   const words = (...parts: (string | undefined)[]) => parts.filter(Boolean).join(' ')
@@ -167,7 +173,7 @@ export function describeParsing(parsing: Parsing, t: (key: string, options?: obj
       number: say('number', parsing.possessor.number),
     })
   return [
-    parsing.pos === 'verb' ? undefined : say('pos', parsing.pos),
+    !pos || parsing.pos === 'verb' ? undefined : say('pos', parsing.pos),
     verbal,
     words(say('person', parsing.person), parsing.case ? undefined : say('number', parsing.number)),
     words(

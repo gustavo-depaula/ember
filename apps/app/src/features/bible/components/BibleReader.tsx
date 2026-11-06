@@ -31,6 +31,8 @@ import {
   useBooks,
   useChapter,
   useChapterCommentary,
+  useChapterWords,
+  useParallelVerses,
   usePrefetchAdjacentChapters,
   useVersePane,
   useVersification,
@@ -40,8 +42,11 @@ import { getVersificationAt } from '../versification'
 import { BibleDrawer } from './BibleDrawer'
 import { ChapterContent } from './ChapterContent'
 import { ChapterNav } from './ChapterNav'
+import { GreekLayoutBar } from './GreekLayoutBar'
+import { InterlinearChapter } from './InterlinearChapter'
 import { VersePane } from './VersePane'
 import { paneFraction } from './VersePaneContent'
+import { WordStudy } from './WordStudy'
 
 const springConfig = { damping: 24, stiffness: 200, mass: 0.8 }
 const noBooks: Book[] = []
@@ -93,7 +98,13 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
   const unmatched = commentedVerse !== undefined && versification !== undefined && !shared
   const commentary = useChapterCommentary(bookId, shared?.chapter ?? chapter, shared !== undefined)
   const pane = useVersePane(bookId, shared?.chapter ?? chapter, shared?.verse, commentary)
-  const closeCommentary = useCallback(() => setCommentedVerse(undefined), [])
+  // The word on the study sheet; `fromPane` when it was opened from the
+  // verse's Words, which the sheet goes back to.
+  const [study, setStudy] = useState<{ verse: number; index: number; fromPane: boolean }>()
+  const closeCommentary = useCallback(() => {
+    setCommentedVerse(undefined)
+    setStudy(undefined)
+  }, [])
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: a new chapter is the trigger
   useEffect(() => {
@@ -101,6 +112,7 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
     arriving.current = undefined
     unrevealed.current = verse
     setCommentedVerse(verse)
+    setStudy(undefined)
     // A chapter turned to by hand leaves the trail of citations behind.
     if (verse === undefined) setTrail([])
     scrollRef.current?.scrollTo({ y: 0, animated: false })
@@ -136,6 +148,7 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
   }
 
   function handleVersePress(verse: number, y: number) {
+    setStudy(undefined)
     if (verse === commentedVerse) {
       closeCommentary()
       return
@@ -151,6 +164,7 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
   }
 
   function turnTo(place: Place) {
+    setStudy(undefined)
     if (place.bookId === bookId && place.chapter === chapter) {
       setCommentedVerse(place.verse)
       const y = verseTops.current.get(place.verse)
@@ -200,6 +214,60 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
   } = useChapter(translation, bookId, chapter)
   usePrefetchAdjacentChapters(translation, bookId, chapter, books)
 
+  // The edition the page is read from: the one chosen, or the one completing it.
+  const edition = chapterData?.edition ?? translation
+  const { data: words } = useChapterWords(edition, bookId, chapter)
+  const pageWords = words ?? undefined
+  const tokensOf = (verse: number) =>
+    chapterData?.verses.find((v) => v.verse === verse)?.text.split(/\s+/) ?? []
+  const studiedEntry = study && pageWords?.[study.verse]?.[study.index]
+  const studied = study && studiedEntry ? { ...study, lemma: studiedEntry[0] } : undefined
+  const greekLayout = useBibleStore((s) => s.greekLayout)
+  const setGreekLayout = useBibleStore((s) => s.setGreekLayout)
+  const layout = pageWords ? greekLayout.mode : 'text'
+  const parallel = useParallelVerses(
+    edition,
+    greekLayout.parallel,
+    bookId,
+    chapter,
+    layout === 'parallel' ? chapterData?.verses.map((v) => v.verse) : undefined,
+  )
+
+  // Stable, so a verse's word segments (and its line breaks) are built once.
+  const studyRef = useRef(study)
+  studyRef.current = study
+  const onWordPress = useCallback((verse: number, index: number) => {
+    const open = studyRef.current
+    if (open?.verse === verse && open.index === index) {
+      setStudy(undefined)
+      return
+    }
+    setCommentedVerse(undefined)
+    setStudy({ verse, index, fromPane: false })
+  }, [])
+  // biome-ignore lint/correctness/useExhaustiveDependencies: `reveal` reads only refs
+  const onWordLongPress = useCallback((verse: number) => {
+    setStudy(undefined)
+    setCommentedVerse(verse)
+    const y = verseTops.current.get(verse)
+    if (y !== undefined) reveal(y)
+  }, [])
+
+  /** ‹ › walk the chapter word by word, across verses. */
+  function stepWord(direction: -1 | 1) {
+    if (!study || !chapterData) return
+    const verses = chapterData.verses.map((v) => v.verse)
+    const at = verses.indexOf(study.verse)
+    const index = study.index + direction
+    if (index >= 0 && index < tokensOf(study.verse).length) {
+      setStudy({ ...study, index })
+      return
+    }
+    const verse = verses[at + direction]
+    if (verse === undefined) return
+    setStudy({ ...study, verse, index: direction === 1 ? 0 : tokensOf(verse).length - 1 })
+  }
+
   const currentBook = books.find((b) => b.id === bookId)
   const bookName = t(`bookName.${bookId}`, { defaultValue: currentBook?.name ?? bookId })
   // The pane names the verse as the page does, and its Vulgate address beside
@@ -246,7 +314,8 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
   // On iOS the pane is a sheet over the page, not a part of it: the page keeps
   // its height, and its drawer swipe never starts under the sheet.
   const paneInPage = Platform.OS !== 'ios'
-  const paneReach = commentedVerse === undefined || !paneInPage ? 0 : paneHeight
+  const paneOpen = commentedVerse !== undefined || study !== undefined
+  const paneReach = !paneOpen || !paneInPage ? 0 : paneHeight
   // What the chapter's last verses must clear to be read with the pane open.
   const openFoot = paneInPage ? 24 : Math.round(screenHeight * paneFraction) + 24
   const pageHeight = useSharedValue(screenHeight)
@@ -308,27 +377,58 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
     if (!chapterData) return undefined
     return (
       <>
-        <View
-          onLayout={(e) => {
-            chapterTop.current = e.nativeEvent.layout.y
-          }}
-        >
-          <ChapterContent
+        {pageWords ? <GreekLayoutBar /> : undefined}
+        {layout === 'interlinear' && pageWords ? (
+          <InterlinearChapter
             bookName={bookName}
             chapter={chapter}
             verses={chapterData.verses}
-            language={editionLanguage(chapterData.edition)}
-            fallback={chapterData.fallback}
-            completedBy={
-              chapterData.edition === translation || chapterData.fallback
-                ? undefined
-                : findTranslation(chapterData.edition)?.name
-            }
-            marked={marked}
+            words={pageWords}
+            lemma={greekLayout.lemma}
+            parsing={greekLayout.parsing}
+            studied={studied}
+            markedVerse={commentedVerse}
+            onWordPress={onWordPress}
+            onWordLongPress={onWordLongPress}
             onVersePress={handleVersePress}
             onVerseLayout={handleVerseLayout}
           />
-        </View>
+        ) : (
+          <View
+            onLayout={(e) => {
+              chapterTop.current = e.nativeEvent.layout.y
+            }}
+          >
+            <ChapterContent
+              bookName={bookName}
+              chapter={chapter}
+              verses={chapterData.verses}
+              language={editionLanguage(chapterData.edition)}
+              fallback={chapterData.fallback}
+              words={pageWords}
+              study={pageWords ? { studied, onWordPress, onWordLongPress } : undefined}
+              beside={
+                layout === 'parallel' && parallel.data
+                  ? {
+                      texts: parallel.data,
+                      language: editionLanguage(greekLayout.parallel),
+                      columns: greekLayout.columns,
+                      split: greekLayout.split,
+                      onSplit: (split) => setGreekLayout({ split }),
+                    }
+                  : undefined
+              }
+              completedBy={
+                chapterData.edition === translation || chapterData.fallback
+                  ? undefined
+                  : findTranslation(chapterData.edition)?.name
+              }
+              marked={marked}
+              onVersePress={handleVersePress}
+              onVerseLayout={handleVerseLayout}
+            />
+          </View>
+        )}
         <ChapterNav bookId={bookId} chapter={chapter} books={books} onNavigate={handleNavigate} />
       </>
     )
@@ -374,7 +474,7 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
                   showsVerticalScrollIndicator={false}
                   contentContainerStyle={{
                     flexGrow: 1,
-                    paddingBottom: commentedVerse === undefined ? bottomClearance : openFoot,
+                    paddingBottom: paneOpen ? openFoot : bottomClearance,
                   }}
                 >
                   <YStack flex={1}>
@@ -396,7 +496,44 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
               bookId={bookId}
               bookName={bookName}
               chapter={shared?.chapter ?? chapter}
-              verse={unmatched ? commentedVerse : shared?.verse}
+              verse={study ? study.verse : unmatched ? commentedVerse : shared?.verse}
+              renderStudy={
+                study && studiedEntry
+                  ? (bottomPadding) => (
+                      <WordStudy
+                        edition={edition}
+                        bookId={bookId}
+                        chapter={chapter}
+                        verse={study.verse}
+                        token={tokensOf(study.verse)[study.index] ?? ''}
+                        entry={studiedEntry}
+                        backTo={
+                          study.fromPane ? `${bookName} ${chapter}:${study.verse}` : undefined
+                        }
+                        bottomPadding={bottomPadding}
+                        onStep={stepWord}
+                        onBack={() => setStudy(undefined)}
+                        onClose={closeCommentary}
+                        onOpenPlace={(toBook, toChapter, verse) => {
+                          if (commentedVerse !== undefined) {
+                            setTrail([{ bookId, chapter, verse: commentedVerse }, ...trail])
+                          }
+                          turnTo({ bookId: toBook, chapter: toChapter, verse })
+                        }}
+                      />
+                    )
+                  : undefined
+              }
+              verseWords={
+                commentedVerse !== undefined && pageWords?.[commentedVerse]
+                  ? {
+                      tokens: tokensOf(commentedVerse),
+                      entries: pageWords[commentedVerse],
+                      onStudy: (index) =>
+                        setStudy({ verse: commentedVerse, index, fromPane: true }),
+                    }
+                  : undefined
+              }
               heading={paneHeading}
               unmatched={unmatched}
               commentary={commentary}

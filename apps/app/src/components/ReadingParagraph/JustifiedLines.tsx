@@ -143,7 +143,11 @@ export function JustifiedLines({
             <Fragment key={p}>
               {/* `onPress` rides on the piece, so a cross-reference the breaker
                   split across two lines stays tappable on both halves. */}
-              <Text style={drawStyle(faces, piece)} onPress={piece.onPress}>
+              <Text
+                style={drawStyle(faces, piece)}
+                onPress={piece.onPress}
+                onLongPress={piece.onLongPress}
+              >
                 {piece.text}
               </Text>
               {piece.spaceAfter && (

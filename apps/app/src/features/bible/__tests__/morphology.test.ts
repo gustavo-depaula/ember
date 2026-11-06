@@ -1,3 +1,4 @@
+import type { TFunction } from 'i18next'
 import { describe, expect, it } from 'vitest'
 
 import { describeParsing, type Parsing, parseRobinson } from '../morphology'
@@ -82,10 +83,11 @@ describe('parseRobinson', () => {
 })
 
 describe('describeParsing', () => {
-  const t = (key: string, options?: object) =>
+  const say = (key: string, options?: object) =>
     key === 'bible.morph.possessor'
       ? `${(options as { person: string }).person} ${(options as { number: string }).number} possessor`
       : (key.split('.').at(-1) as string)
+  const t = say as unknown as TFunction
 
   it('writes a verb as a grammar does', () => {
     expect(describeParsing(parseRobinson('V-AAI-3S') as Parsing, t)).toBe(

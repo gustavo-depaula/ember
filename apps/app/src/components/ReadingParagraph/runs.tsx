@@ -64,9 +64,11 @@ export function SegmentRuns({
       {segments.map((segment, i) => {
         const text = segment.atomic ? segment.text : hyphenate(segment.text, language)
         const style = drawStyle(faces, segment)
-        if (!style && !segment.onPress) return <Fragment key={i}>{text}</Fragment>
+        if (!style && !segment.onPress && !segment.onLongPress) {
+          return <Fragment key={i}>{text}</Fragment>
+        }
         return (
-          <Text key={i} style={style} onPress={segment.onPress}>
+          <Text key={i} style={style} onPress={segment.onPress} onLongPress={segment.onLongPress}>
             {text}
           </Text>
         )

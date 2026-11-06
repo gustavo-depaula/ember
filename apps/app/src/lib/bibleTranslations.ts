@@ -72,6 +72,17 @@ export const translations: Translation[] = [
     corpus: 'vulgate',
   },
   {
+    code: 'LXX',
+    name: 'Septuagint',
+    language: 'GRC',
+    description:
+      'The Greek Old Testament of the Apostles and the Fathers, in the text of Brenton’s edition (1851), after Codex Vaticanus.',
+    numbering: 'lxx',
+    corpus: 'greek-brenton',
+    versification: true,
+    completes: 'N1904',
+  },
+  {
     code: 'N1904',
     name: 'Nestle 1904',
     language: 'GRC',
@@ -81,6 +92,7 @@ export const translations: Translation[] = [
     corpus: 'greek-nestle-1904',
     versification: true,
     words: true,
+    completes: 'LXX',
   },
   {
     code: 'SBLGNT',
@@ -92,6 +104,7 @@ export const translations: Translation[] = [
     corpus: 'greek-sblgnt',
     versification: true,
     words: true,
+    completes: 'LXX',
   },
   {
     code: 'TISCH',
@@ -103,6 +116,7 @@ export const translations: Translation[] = [
     corpus: 'greek-tischendorf',
     versification: true,
     words: true,
+    completes: 'LXX',
   },
   {
     code: 'RP',
@@ -114,6 +128,7 @@ export const translations: Translation[] = [
     corpus: 'greek-byzantine',
     versification: true,
     words: true,
+    completes: 'LXX',
   },
 ]
 

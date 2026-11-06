@@ -61,6 +61,8 @@ export type StyledSegment = {
   /** Carried onto every piece the run produces, so a cross-reference stays
    *  tappable after the breaker has split it across two lines. */
   onPress?: () => void
+  /** Held rather than tapped: a Greek word opens its verse this way. */
+  onLongPress?: () => void
   /** An atom: never hyphenated, never broken inside, and its own spaces do not
    *  flex. A scripture citation is one object, not three stretchable words. */
   atomic?: boolean
@@ -69,7 +71,7 @@ export type StyledSegment = {
 /** What a piece needs in order to be drawn — the run's appearance, flattened. */
 export type Appearance = Pick<
   StyledSegment,
-  'style' | 'fontSizePx' | 'letterSpacing' | 'render' | 'onPress'
+  'style' | 'fontSizePx' | 'letterSpacing' | 'render' | 'onPress' | 'onLongPress'
 >
 
 // Soft hyphens render as nothing unless the line breaks there, so they must not
@@ -100,7 +102,8 @@ const sameLook = (a: Appearance, b: Appearance) =>
   a.fontSizePx === b.fontSizePx &&
   a.letterSpacing === b.letterSpacing &&
   a.render === b.render &&
-  a.onPress === b.onPress
+  a.onPress === b.onPress &&
+  a.onLongPress === b.onLongPress
 
 /**
  * A stretch of same-styled text on a line.
@@ -285,7 +288,7 @@ export function justifyText({
     return id
   }
   const keyOf = (s: StyledSegment) =>
-    `${s.style}|${s.fontSizePx ?? fontSizePx}|${s.letterSpacing ?? 0}|${s.atomic ? 1 : 0}|${identity(s.render)}|${identity(s.onPress)}`
+    `${s.style}|${s.fontSizePx ?? fontSizePx}|${s.letterSpacing ?? 0}|${s.atomic ? 1 : 0}|${identity(s.render)}|${identity(s.onPress)}|${identity(s.onLongPress)}`
 
   const runIndex = new Map<string, number>()
   const runs: JustifRun[] = []
@@ -328,6 +331,7 @@ export function justifyText({
         letterSpacing: segment.letterSpacing,
         render: segment.render,
         onPress: segment.onPress,
+        onLongPress: segment.onLongPress,
       } satisfies Appearance,
     })
   }

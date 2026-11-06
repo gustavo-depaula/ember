@@ -97,7 +97,11 @@ function DividedPane({
         elevation={12}
       >
         <GestureDetector gesture={drag}>
-          <YStack paddingHorizontal="$lg" paddingTop={6}>
+          <YStack
+            paddingHorizontal="$lg"
+            paddingTop={6}
+            paddingBottom={content.renderStudy ? 6 : 0}
+          >
             <View
               alignSelf="center"
               width={36}
@@ -107,10 +111,14 @@ function DividedPane({
               accessibilityElementsHidden
               importantForAccessibility="no-hide-descendants"
             />
-            <PaneBar {...content} onClose={onClose} />
+            {content.renderStudy ? undefined : <PaneBar {...content} onClose={onClose} />}
           </YStack>
         </GestureDetector>
-        <PaneKinds {...content} bottomPadding={insets.bottom + 24} />
+        {content.renderStudy ? (
+          content.renderStudy(insets.bottom + 24)
+        ) : (
+          <PaneKinds {...content} bottomPadding={insets.bottom + 24} />
+        )}
       </YStack>
     </Animated.View>
   )

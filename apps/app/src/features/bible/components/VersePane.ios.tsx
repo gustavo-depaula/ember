@@ -41,7 +41,9 @@ export function VersePane({ verse, onClose, ...content }: VersePaneProps) {
     <NativeSheet sheet={sheet} fraction={paneFraction} letsThrough>
       {({ height }) => (
         <YStack height={height} paddingTop="$md">
-          {showing === undefined ? undefined : (
+          {showing === undefined ? undefined : content.renderStudy ? (
+            content.renderStudy(insets.bottom + 24)
+          ) : (
             <>
               <YStack paddingHorizontal="$lg">
                 <PaneBar {...content} verse={showing} onClose={onClose} />

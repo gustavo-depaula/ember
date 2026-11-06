@@ -14,6 +14,29 @@ import { type BiblePlace, recordPlace } from '@/features/bible/recents'
 import { isReferenceKind } from '@/features/bible/references'
 import { type Book, getDrbBooks } from '@/lib/content'
 
+/** How a Greek edition is laid out on the page. */
+export type GreekLayout = {
+  mode: 'text' | 'interlinear' | 'parallel'
+  /** Interlinear lines beside the gloss, which is always there. */
+  lemma: boolean
+  parsing: boolean
+  /** The edition read beside the Greek in parallel. */
+  parallel: string
+  /** Parallel as two columns rather than a translation under each verse. */
+  columns: boolean
+  /** The Greek column's share of the width. */
+  split: number
+}
+
+export const defaultGreekLayout: GreekLayout = {
+  mode: 'text',
+  lemma: false,
+  parsing: false,
+  parallel: 'DRB',
+  columns: false,
+  split: 0.5,
+}
+
 type BibleState = {
   bookId: string
   chapter: number
@@ -23,11 +46,13 @@ type BibleState = {
   places: BiblePlace[]
   /** What was last read beside the text: a commentator's id, or a kind of reference. */
   paneKind: string
+  greekLayout: GreekLayout
   hydrated: boolean
   setPosition: (bookId: string, chapter: number) => void
   /** Counts the open chapter as read: it becomes, or moves, a place. */
   recordReading: (books: Book[]) => void
   setPaneKind: (id: string) => void
+  setGreekLayout: (change: Partial<GreekLayout>) => void
   hydrate: () => Promise<void>
 }
 
@@ -60,6 +85,7 @@ export const useBibleStore = create<BibleState>()(
     chapter: 1,
     places: [],
     paneKind: defaultCommentarySource,
+    greekLayout: defaultGreekLayout,
     hydrated: false,
 
     setPosition: (bookId, chapter) => {
@@ -88,11 +114,20 @@ export const useBibleStore = create<BibleState>()(
       setPreference('bible-commentary', id)
     },
 
+    setGreekLayout: (change) => {
+      const next = { ...get().greekLayout, ...change }
+      set((state) => {
+        state.greekLayout = next
+      })
+      setPreference('bible-greek-layout', JSON.stringify(next))
+    },
+
     hydrate: async () => {
       const position = getCursor(biblePositionCursorId)?.position
       const saved = position ? (JSON.parse(position) as Position) : undefined
       const places = getCursor(biblePlacesCursorId)?.position
       const commentary = await getPreference('bible-commentary')
+      const layout = await getPreference('bible-greek-layout')
       const bookId = saved && (await slugForSavedBook(saved.bookId))
       set((state) => {
         if (bookId) state.bookId = bookId
@@ -104,6 +139,8 @@ export const useBibleStore = create<BibleState>()(
             ? commentary
             : findCommentarySource(commentary).id
         }
+        // Over the defaults, so a layout saved before a field existed still reads.
+        if (layout) state.greekLayout = { ...defaultGreekLayout, ...JSON.parse(layout) }
         state.hydrated = true
       })
     },

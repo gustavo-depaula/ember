@@ -1,5 +1,5 @@
 import { ChevronLeft, X } from 'lucide-react-native'
-import { useEffect, useRef } from 'react'
+import { type ReactNode, useEffect, useRef } from 'react'
 import { useTranslation } from 'react-i18next'
 import {
   type NativeScrollEvent,
@@ -22,7 +22,9 @@ import {
   spanLabel,
 } from '../commentary'
 import { type useChapterCommentary, useEntryVoices, type VersePaneState } from '../hooks'
+import { describeParsing, parseRobinson } from '../morphology'
 import { isReferenceKind } from '../references'
+import type { WordEntry } from '../words'
 import { CommentaryVoices } from './CommentaryVoices'
 import { VerseReferenceList } from './VerseReferences'
 
@@ -40,6 +42,10 @@ export type VersePaneProps = {
   heading?: string
   /** The edition's verse has no counterpart in the Vulgate, so nothing points at it. */
   unmatched?: boolean
+  /** A word being studied: the frame shows its study in place of the verse's kinds. */
+  renderStudy?: (bottomPadding: number) => ReactNode
+  /** A Greek verse's words, listed on a page of their own; a row opens its study. */
+  verseWords?: { tokens: string[]; entries: WordEntry[]; onStudy: (index: number) => void }
   commentary: ReturnType<typeof useChapterCommentary>
   pane: VersePaneState
   /** Where it opens, and how far it may be drawn up, where it is drawn by hand. */
@@ -169,6 +175,7 @@ export function PaneKinds({
   commentary,
   pane,
   unmatched,
+  verseWords,
   cameFrom,
   bottomPadding,
   onReadOn,
@@ -181,6 +188,7 @@ export function PaneKinds({
   | 'commentary'
   | 'pane'
   | 'unmatched'
+  | 'verseWords'
   | 'cameFrom'
   | 'onReadOn'
   | 'onOpenPlace'
@@ -194,9 +202,16 @@ export function PaneKinds({
   const theme = useTheme()
   const { width } = useWindowDimensions()
   const setKind = useBibleStore((s) => s.setPaneKind)
-  const { references, kind, kinds } = pane
+  const chosen = useBibleStore((s) => s.paneKind)
+  const { references } = pane
+  // A Greek verse's words come first; a verse with no Vulgate counterpart has
+  // nothing else to show.
+  const kinds = [...(verseWords ? ['words'] : []), ...(unmatched ? [] : pane.kinds)]
+  const kind =
+    verseWords && chosen === 'words' ? 'words' : kinds.includes(pane.kind) ? pane.kind : kinds[0]
   const { sources } = commentary
   const tabs = kinds.map((id) => {
+    if (id === 'words') return { id, label: t('bible.kinds.words'), count: undefined }
     const commentator = sources.find((s) => s.id === id)
     if (commentator) return { id, label: commentator.name, count: undefined }
     return {
@@ -234,7 +249,7 @@ export function PaneKinds({
     if (settled && settled !== kind) setKind(settled)
   }
 
-  if (unmatched) {
+  if (unmatched && !verseWords) {
     return (
       <YStack paddingHorizontal={24} paddingTop={12}>
         <Typography variant="caption" fontSize="$3">
@@ -351,6 +366,7 @@ export function PaneKinds({
                   onOpenPlace={onOpenPlace}
                 />
               ) : undefined}
+              {near && id === 'words' && verseWords ? <VerseWords {...verseWords} /> : undefined}
               {near && source ? (
                 <Commentary
                   source={source}
@@ -363,6 +379,44 @@ export function PaneKinds({
           )
         })}
       </ScrollView>
+    </YStack>
+  )
+}
+
+/** A Greek verse word by word: each word, its lemma, gloss and parsing; a row opens the word's study. */
+function VerseWords({ tokens, entries, onStudy }: NonNullable<VersePaneProps['verseWords']>) {
+  const { t } = useTranslation()
+  return (
+    <YStack gap="$sm">
+      {tokens.map((token, i) => {
+        const [lemma, morph, gloss] = entries[i] ?? []
+        const parsing = morph ? parseRobinson(morph) : undefined
+        return (
+          <Pressable
+            // biome-ignore lint/suspicious/noArrayIndexKey: a verse's words are positional
+            key={i}
+            onPress={() => onStudy(i)}
+            accessibilityRole="button"
+            accessibilityLabel={t('a11y.studyWord', { word: token })}
+          >
+            <XStack gap="$md" alignItems="baseline" minHeight={36}>
+              <Typography fontSize="$4" minWidth={96}>
+                {token}
+              </Typography>
+              <YStack flex={1}>
+                <Typography fontSize="$3">
+                  {[lemma, gloss && `“${gloss}”`].filter(Boolean).join('  ')}
+                </Typography>
+                {parsing ? (
+                  <Typography variant="annotation" fontSize="$1">
+                    {describeParsing(parsing, t)}
+                  </Typography>
+                ) : undefined}
+              </YStack>
+            </XStack>
+          </Pressable>
+        )
+      })}
     </YStack>
   )
 }

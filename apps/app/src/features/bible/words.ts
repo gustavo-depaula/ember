@@ -8,7 +8,20 @@ import { lexiconKey } from './lexiconKey'
  * parsing (a Robinson code, see `morphology.ts`), one entry per word of the
  * verse as `text.split(/\s+/)` cuts it.
  */
-export type WordEntry = [lemma: string, morph: string]
+export type WordEntry = [lemma: string, morph: string, gloss?: string]
+
+export type Place = [bookId: string, chapter: number, verse: number]
+
+/** The verses of an edition where a lemma stands, from its concordance. */
+export async function getOccurrences(translation: string, lemma: string): Promise<Place[]> {
+  const edition = findTranslation(translation)
+  const key = lexiconKey(lemma)
+  if (!edition?.corpus || !edition.words || !key) return []
+  const shard = await fetchHearth<Record<string, Record<string, Place[]>>>(
+    `bible/${edition.corpus}/concordance/${shardOf(key)}.json`,
+  )
+  return shard[key]?.[lemma.normalize('NFC')] ?? []
+}
 
 type BookWords = Record<string, Record<string, WordEntry[]>>
 

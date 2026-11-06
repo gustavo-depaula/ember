@@ -1,5 +1,5 @@
 import { findTranslation } from '@/lib/bibleTranslations'
-import { servingEdition } from '@/lib/content'
+import { getChapter, servingEdition } from '@/lib/content'
 import { fetchHearth } from '@/lib/hearth'
 
 /**
@@ -89,7 +89,7 @@ export async function getVersificationAt(translation: string, bookId: string) {
 /**
  * Where a reader at an edition's chapter lands in another edition: the
  * chapter's opening carried across the two tables, and the same chapter where
- * neither of its first verses has a counterpart.
+ * none of its first verses has a counterpart.
  */
 export async function carryPlace(
   from: string,
@@ -98,13 +98,14 @@ export async function carryPlace(
   chapter: number,
 ): Promise<{ bookId: string; chapter: number }> {
   if (from === to) return { bookId, chapter }
+  // The chapter's own first verses, not 1 to 5: Brenton's Jeremiah 32 opens
+  // at verse 15. One only one edition has (a Greek addition) is passed over.
+  const page = await getChapter(from, bookId, chapter)
   const [source, target] = await Promise.all([
-    getVersificationAt(from, bookId),
+    getVersification(page.edition),
     getVersificationAt(to, bookId),
   ])
-  // A chapter can open on a verse only one edition has (a Greek addition),
-  // so the first few are tried.
-  for (let verse = 1; verse <= 5; verse++) {
+  for (const { verse } of page.verses.slice(0, 5)) {
     const shared = source.toShared({ bookId, chapter, verse })
     const own = shared && target.fromShared(shared)
     if (own) return { bookId: own.bookId, chapter: own.chapter }
