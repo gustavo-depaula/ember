@@ -1,0 +1,32 @@
+[
+	{
+		"id": "tbesh",
+		"name": "Translators Brief lexicon of Extended Strongs for Hebrew",
+		"author": "Tyndale House Cambridge / STEPBible.org",
+		"year": 2024,
+		"licence": "CC-BY-4.0",
+		"attribution": "TBESH, data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0).",
+		"url": "https://github.com/STEPBible/STEPBible-Data",
+		"entries": 11682
+	},
+	{
+		"id": "bdb",
+		"name": "A Hebrew and English Lexicon of the Old Testament",
+		"author": "Francis Brown, S. R. Driver and Charles A. Briggs",
+		"year": 1906,
+		"licence": "Public Domain",
+		"attribution": "Brown, Driver & Briggs (1906), public domain; XML and lexical index by the Open Scriptures Hebrew Bible project (CC BY 4.0).",
+		"url": "https://github.com/openscriptures/HebrewLexicon",
+		"entries": 11387
+	},
+	{
+		"id": "strongs",
+		"name": "A Concise Dictionary of the Words in the Hebrew Bible",
+		"author": "James Strong",
+		"year": 1890,
+		"licence": "Public Domain",
+		"attribution": "James Strong, Strong's Exhaustive Concordance (1890), public domain; XML by the Open Scriptures Hebrew Bible project.",
+		"url": "https://github.com/openscriptures/HebrewLexicon",
+		"entries": 11919
+	}
+]
