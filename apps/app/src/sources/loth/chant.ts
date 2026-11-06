@@ -28,7 +28,9 @@ function fold(text: string): string {
   )
 }
 
-type Pairing = { key: string; ids: string[] }
+// `antiphon`: the chant is an antiphon's, and sets only an antiphon. An
+// antiphon's words are often a verse of its psalm, which must stay a verse.
+type Pairing = { key: string; ids: string[]; antiphon: boolean }
 
 // An antiphon is a versicle block marked `Ant.`, `Ant. 1`.
 const isAntiphon = (p: Primitive) =>
@@ -44,7 +46,9 @@ function pairingOf(p: Primitive, pairings: Pairing[]): Pairing | undefined {
   const text = textOf(p)
   if (!text) return undefined
   const folded = fold(text)
-  return pairings.find(({ key }) => folded.startsWith(key))
+  return pairings.find(
+    ({ key, antiphon }) => folded.startsWith(key) && (!antiphon || isAntiphon(p)),
+  )
 }
 
 // A psalm's verses as the breviary prints them: each opens on `–` or, where it
@@ -175,6 +179,7 @@ export async function withChant(primitives: Primitive[], pairs: ChantPairs): Pro
     .map(([opening, ids]) => ({
       key: fold(opening).split(' ').slice(0, 10).join(' '),
       ids: [ids].flat(),
+      antiphon: [ids].flat().every((id) => id.startsWith('chant/an-')),
     }))
     // The longest opening first, so a text that opens on a shorter pairing's
     // words still finds its own.

@@ -349,6 +349,13 @@ describe('the chant of the hours', () => {
     expect(blocks.some((b) => b.startsWith('Salmo 150'))).toBe(true)
   })
 
+  it("sets an antiphon's chant on the antiphon, never on the psalm verse it quotes", async () => {
+    const blocks = sung(await hourOn('2026-11-06', 'lauds'))
+    // "Sobre este desce a bênção do Senhor" is a verse of Psalm 23(24), and the antiphon of another psalm.
+    expect(blocks.some((b) => b.includes('/:5:/'))).toBe(false)
+    expect(blocks.filter((b) => b.startsWith('Tibi soli peccavi:'))).toHaveLength(2)
+  })
+
   it('sings the Te Deum of a Sunday, its stanzas and its Latin, as one block each', async () => {
     const readings = await hourOn('2026-11-08', 'office-of-readings')
     const blocks = sung(readings)

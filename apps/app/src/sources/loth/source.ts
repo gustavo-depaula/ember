@@ -27,7 +27,7 @@ export function lothHourSource(elsewhere: ContentSource<Primitive | Primitive[]>
     id: 'producer/loth-hour',
     // The corpus is the input: a rebuilt corpus is a new version.
     get version() {
-      return `12:${getCatalog().generated}`
+      return `13:${getCatalog().generated}`
     },
     prefsDeps: ['lang' as const],
     dateScoped: true,
