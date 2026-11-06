@@ -5,20 +5,6 @@ transcriber: Joerg Hudelmaier;
 book: Liber Hymnarius, 1983, p. 205;
 gregobase: 15638;
 %%
-initial-style: 1;
-name: Plasmator hominis;
-book: Liber Hymnarius, p. 205;
-occasion: In Feriis VI Per Annum;
-office-part: Ad Vesperas H;
-user-notes: ;
-commentary: ;
-annotation: D;
-centering-scheme: english;
-fontsize: 12;
-font: OFLSortsMillGoudy;
-height: 11;
-width: 4.5;
-%%
 (c4)PLas(d)má(f)tor(g) hó(g)mi(f)nis,(h) De(g)us,(g'_) (,)
 qui,(d) cun(f)cta(g) so(g)lus(f) ór(h)di(g)nans,(g.) (;)
 hu(h)mum(jk) iu(j)bes(j) pro(g)dú(h)ce(g)re(g'_) (,)

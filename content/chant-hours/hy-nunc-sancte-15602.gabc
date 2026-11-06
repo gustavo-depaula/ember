@@ -5,20 +5,6 @@ transcriber: Joerg Hudelmaier;
 book: Liber Hymnarius, 1983, p. 185;
 gregobase: 15602;
 %%
-initial-style: 1;
-name: Nunc Sancte nobis Spiritus;
-book: Liber Hymnarius, p. 185;
-occasion: Tempore Per Annum Diebus Dominicis i & III;
-office-part: Ad Tertiam H;
-user-notes: ;
-commentary: ;
-annotation: 2;
-centering-scheme: english;
-fontsize: 12;
-font: OFLSortsMillGoudy;
-height: 11;
-width: 4.5;
-%%
 (f3)Nunc,(f) San(e)cte,(f) no(h)bis,(g) Spí(f)ri(f)tus,(e'_) (,)
 u(f)num(e) Pa(f)tri(h) cum(g) Fí(f)li(e)o,(eh..) (;)
 di(h)gná(j)re(i) prom(j)ptus(h) ín(i)ge(hg)ri(f'_) (,)

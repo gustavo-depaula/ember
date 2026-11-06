@@ -5,20 +5,6 @@ transcriber: Joerg Hudelmaier;
 book: Liber Hymnarius, 1983, p. 198;
 gregobase: 15635;
 %%
-initial-style: 1;
-name: Telluris ingens conditor;
-book: Liber Hymnarius, p. 198;
-occasion: In Feriis III Per Annum;
-office-part: Ad Vesperas H;
-user-notes: ;
-commentary: ;
-annotation: D;
-centering-scheme: english;
-fontsize: 12;
-font: OFLSortsMillGoudy;
-height: 11;
-width: 4.5;
-%%
 (c4)Tel(d)lú(f)ris(g) in(g)gens(f) cón(h)di(g)tor,(g'_) (,)
 mun(d)di(f) so(g)lum(g) qui(f) é(h)ru(g)ens,(g.) (;)
 pul(h)sis(jk) a(j)quæ(j) mo(g)lé(h)sti(g)is,(g'_) (,)

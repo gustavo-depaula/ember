@@ -5,20 +5,6 @@ transcriber: Joerg Hudelmaier;
 book: Liber Hymnarius, 1983, p. 108;
 gregobase: 15455;
 %%
-initial-style: 1;
-name: Trinitas summo;
-book: Liber Hymnarius p. 108;
-occasion: Sanctissimae Trinitatis;
-office-part: Ad Officium lectionis H;
-user-notes: ;
-commentary: ;
-annotation: 1;
-centering-scheme: english;
-fontsize: 12;
-font: OFLSortsMillGoudy;
-height: 11;
-width: 4.5;
-%%
 (c4)Trí(d!efd)ni(dc)tas,(cd) sum(d.)mo(d.) (,) só(f)li(e)o(d) co(e)rú(e.)scans,(d.) (;)
 gló(dhiv)ri(h)æ(h) car(hg)men(g_h) ti(f)bi(gh) sit(g) pe(fg)rén(gvFE)ne,(d.) (:)
 quæ(dg) te(fe)nes(dc) no(dd)stri(c.) (,) ve(fe)he(fg)mén(fe)t<i>i</i>() a(dc)mó(de)re(e_d_) (,)

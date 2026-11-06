@@ -5,20 +5,6 @@ transcriber: Joerg Hudelmaier;
 book: Liber Hymnarius, 1983, p. 94;
 gregobase: 15200;
 %%
-initial-style: 1;
-name: Optatus votis omnium;
-book: Liber Hymnaris, p. 94;
-occasion: Dominicis Tempore Paschali Ab Ascensione Domini;
-office-part: Ad Laudes H;
-user-notes: ;
-commentary: ;
-annotation: 1;
-centering-scheme: english;
-fontsize: 12;
-font: OFLSortsMillGoudy;
-height: 11;
-width: 4.5;
-%%
 (c4)Op(dhiv)tá(hg)tus(h) vo(jvIH)tis(g) óm(h)ni(gf)um(eghv) (;)
 sa(dh)crá(gfh)tus(g) il(fe)lú(de)xit(g) di(f)es,(ed) (:)
 quo(hi) Chri(hg)stus,(hj) mun(ivHG)di(h) spes,(gf/fe) De(d)us,(h) (;)

@@ -364,6 +364,19 @@ describe('the chant of the hours', () => {
     expect(blocks.some((b) => b.startsWith('Salmo 133'))).toBe(false)
   })
 
+  it("sings the hour's opening versicle, the Invitatory's antiphon and the short responsory", async () => {
+    // 1 December 2026, a Tuesday of Advent.
+    const lauds = sung(await hourOn('2026-12-01', 'lauds'))
+    expect(lauds).toContain('Deus in adiutorium: Vinde, ó Deus, em meu auxílio.')
+    expect(
+      lauds.some((b) =>
+        b.startsWith('Regem venturum Dominum: Vinde, adoremos o Rei que vai chegar'),
+      ),
+    ).toBe(true)
+    const compline = sung(await hourOn('2026-12-01', 'compline'))
+    expect(compline.some((b) => /^In manus tuas.*: Senhor, em vossas mãos/.test(b))).toBe(true)
+  })
+
   it('sings the Te Deum of a Sunday, its stanzas and its Latin, as one block each', async () => {
     const readings = await hourOn('2026-11-08', 'office-of-readings')
     const blocks = sung(readings)

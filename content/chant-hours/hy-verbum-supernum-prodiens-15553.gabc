@@ -5,20 +5,6 @@ transcriber: Joerg Hudelmaier;
 book: Liber Hymnarius, 1983, p. 115;
 gregobase: 15553;
 %%
-initial-style: 1;
-name: Verbum supernum prodiens;
-book: Liber Hymnarius p. 115;
-occasion: Sanctissimae Corporis et Sanguinis Christi;
-office-part: Laudes H;
-user-notes: ;
-commentary: ;
-annotation: 8;
-centering-scheme: english;
-fontsize: 12;
-font: OFLSortsMillGoudy;
-height: 11;
-width: 4.5;
-%%
 (c4)VEr(g)bum(ghwih) su(gf)pér(hg)num(hiwji) pród(hg)i(fg)ens(g.) (;)
 nec(g) Pa(ih)tris(jk) lin(k)quens(ji) déx(hg)te(hj)ram,(j.) (:)
 ad(j) o(h)pus(i) su(g)um(gh) éx(hg)i(fg)ens(g.) (;)

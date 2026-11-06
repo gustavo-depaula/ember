@@ -5,20 +5,6 @@ transcriber: Joerg Hudelmaier;
 book: Liber Hymnarius, 1983, p. 197;
 gregobase: 15629;
 %%
-initial-style: 1;
-name: Pergrato mundo;
-book: Liber Hymnarius, p. 197;
-occasion: Tempore Per Annum Feriis III Hebd. I & III;
-office-part: Ad Laudes matutinas H;
-user-notes: ;
-commentary: ;
-annotation: 1;
-centering-scheme: english;
-fontsize: 12;
-font: OFLSortsMillGoudy;
-height: 11;
-width: 4.5;
-%%
 (c4)PEr(h)grá(h)ta(h) mun(h)do(h) nún(hi)ti(h)at(h'_) (,)
 au(h)ró(h)ra(h) so(g)lis(f) spí(gh)cu(g)la,(g.) (;)
 res(f) et(h) co(h)ló(g)re(f) vé(g)sti(g)ens(h'_) (,)

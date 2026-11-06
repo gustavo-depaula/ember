@@ -5,20 +5,6 @@ transcriber: Joerg Hudelmaier;
 book: Liber Hymnarius, 1983, p. 105;
 gregobase: 15453;
 %%
-initial-style: 1;
-name: Immensa et una;
-book: Liber Hymnarius p. 105;
-occasion: Sanctissimae Trinitatus;
-office-part: Ad Vesperas H;
-user-notes: ;
-commentary: ;
-annotation: 8;
-centering-scheme: english;
-fontsize: 12;
-font: OFLSortsMillGoudy;
-height: 11;
-width: 4.5;
-%%
 (c4)Im(gh)mén(gf)s<i>a</i>() et(d) u(e)na,(f) Trí(gh)ni(h)tas,(g.) (,)
 cu(gh)ius(gf) po(d)té(e)stas(f) óm(gh)ni(h)a(g.) (;)
 fa(h)cit(j) re(ij)gít(h)que(gf) tém(gh)po(gf)ra(e_) (,)

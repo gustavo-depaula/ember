@@ -5,20 +5,6 @@ transcriber: Joerg Hudelmaier;
 book: Liber Hymnarius, 1983, p. 86;
 gregobase: 15089;
 %%
-initial-style: 1;
-name: Venite servi TP;
-book: Liber Hymnaris, p. 86;
-occasion: Dominicis Tempore Paschali Usque ad Ascensionem Domini;
-office-part: Ad Sextam H;
-user-notes: ;
-commentary: ;
-annotation: 8;
-centering-scheme: english;
-fontsize: 12;
-font: OFLSortsMillGoudy;
-height: 11;
-width: 4.5;
-%%
 (c4)VE(g)ní(h)te,(g) ser(h)vi,(i) súp(j)pli(h)ces,(i) (,)
 et(i) men(i)t<i>e</i>() et(j) o(h)r<i>e</i>() ex(g)tól(h)li(j)te(ijwkJI) (;)
 di(h)gnis(i) be(j)á(k)tum(i) láu(j)di(j)bus(i) (,)

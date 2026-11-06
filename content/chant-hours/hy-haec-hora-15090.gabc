@@ -5,20 +5,6 @@ transcriber: Joerg Hudelmaier;
 book: Liber Hymnarius, 1983, p. 87;
 gregobase: 15090;
 %%
-initial-style: 1;
-name: Haec hora TP;
-book: Liber Hymnaris, p. 87;
-occasion: Dominicis Tempore Paschali Usque ad Ascensionem Domini;
-office-part: Ad Nonam H;
-user-notes: ;
-commentary: ;
-annotation: 8;
-centering-scheme: english;
-fontsize: 12;
-font: OFLSortsMillGoudy;
-height: 11;
-width: 4.5;
-%%
 (c4)HÆC(g) ho(h)ra,(g) quæ(h) res(i)plén(j)du(h)it(i) (,)
 cru(i)cís(i)que(j) sol(h)vit(g) nú(h)bi(j)la,(ijwkJI) (;)
 mun(h)dum(i) te(j)né(k)bris(i) é(j)xu(j)ens,(i) (,)

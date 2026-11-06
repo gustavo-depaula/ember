@@ -5,20 +5,6 @@ transcriber: Joerg Hudelmaier;
 book: Liber Hymnarius, 1983, p. 188;
 gregobase: 15605;
 %%
-initial-style: 1;
-name: Lucis creator optime;
-book: Liber Hymnarius, p. 188;
-occasion: Tempore Per Annum Diebus Dominicis I & III;
-office-part: Ad Vesperas II H;
-user-notes: ;
-commentary: ;
-annotation: 8;
-centering-scheme: english;
-fontsize: 12;
-font: OFLSortsMillGoudy;
-height: 11;
-width: 4.5;
-%%
 (c3)Lu(e)cis(fh) cre(h)á(hg)tor(fe) óp(h)ti(ih)me,(gvFE'_) (,)
 lu(h)cem(iji) di(j)é(hf)rum(g) pró(g)fe(fe)rens,(e.) (;)
 pri(e)mór(fh)di(h)is(hg) lu(fe)cis(h) no(ih)væ(gvFE'_) (,)

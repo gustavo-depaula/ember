@@ -32,13 +32,17 @@ function fold(text: string): string {
 // antiphon's words are often a verse of its psalm, which must stay a verse.
 type Pairing = { key: string; ids: string[]; antiphon: boolean }
 
-// An antiphon is a versicle block marked `Ant.`, `Ant. 1`.
+// An antiphon is a versicle block marked `Ant.`, `Ant. 1`; the Invitatory's,
+// said responsorially, is a response standing alone.
 const isAntiphon = (p: Primitive) =>
-  p.type === 'verses' && p.items.length > 0 && /^Ant\b/.test(p.items[0].mark ?? '')
+  p.type === 'verses' &&
+  p.items.length > 0 &&
+  (/^Ant\b/.test(p.items[0].mark ?? '') || (p.items.length === 1 && p.items[0].role === 'r'))
 
+/** What a text, an antiphon or a versicle (`Vinde, ó Deus, em meu auxílio`) opens on. */
 function textOf(p: Primitive): string | undefined {
   if (p.type === 'text') return p.text.primary
-  if (isAntiphon(p) && p.type === 'verses') return p.items[0].text.primary
+  if (p.type === 'verses') return p.items[0]?.text.primary
   return undefined
 }
 
@@ -156,7 +160,9 @@ function sing(
       out.push(p)
       continue
     }
-    const title = out.at(-1)
+    // A hymn or a text keeps the heading above it as its title; a versicle opens
+    // the hour, and the heading above it is the day's.
+    const title = p.type === 'text' ? out.at(-1) : undefined
     const text: Primitive[] =
       title?.type === 'heading' || title?.type === 'rubric' ? [out.pop() as Primitive, p] : [p]
     while (
