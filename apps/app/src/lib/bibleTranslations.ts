@@ -115,28 +115,6 @@ export const translations: Translation[] = [
     versification: true,
     words: true,
   },
-  {
-    code: 'WH',
-    name: 'Westcott–Hort',
-    language: 'GRC',
-    description:
-      'Westcott and Hort’s New Testament in the Original Greek (1881). Its only open text is unaccented and unpunctuated.',
-    numbering: 'lxx',
-    corpus: 'greek-westcott-hort',
-    versification: true,
-    words: true,
-  },
-  {
-    code: 'TR',
-    name: 'Textus Receptus',
-    language: 'GRC',
-    description:
-      'Scrivener’s 1894 Textus Receptus, the Greek behind the Reformation translations. Its only open text is unaccented and unpunctuated.',
-    numbering: 'lxx',
-    corpus: 'greek-scrivener',
-    versification: true,
-    words: true,
-  },
 ]
 
 export const defaultTranslationForLanguage: Record<string, string> = {

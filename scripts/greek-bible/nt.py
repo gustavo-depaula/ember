@@ -40,6 +40,11 @@ Editions, sources and licences (each verified in the repo it comes from):
                      github.com/byztxt/greektext-textus-receptus (public domain),
                      a TR that differs from Scrivener in a few hundred words.
 
+Westcott-Hort and Scrivener are not shipped: their only open texts have no
+accents, breathings, capitals or punctuation, and the Byzantine text and
+Tischendorf/Nestle already stand for their traditions. Rebuild them here if
+an accented copy turns up.
+
 Lemmas for the byztxt editions, which carry only Strong's numbers, come from
 Strong's Greek dictionary, github.com/openscriptures/strongs
 (greek/StrongsGreekDictionaryXML_1.4/strongsgreek.xml, public domain).
