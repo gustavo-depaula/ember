@@ -2,11 +2,12 @@
 """Build a lemma concordance for each Greek New Testament and the Septuagint.
 
 Writes content/bible/greek-<edition>/concordance/<shard>.json:
-    {lexicon_key(lemma): {lemma: [[book slug, chapter, verse], ...]}}
-every verse where the lemma occurs, once per verse, in canonical order and in
-the edition's own numbering. Keys and shards are the lexicons' (see
-lexicon_key.py), so a word looked up in the lexicon finds its concordance in
-the shard of the same name; the app counts occurrences from the lists.
+    {lexicon_key(lemma): {lemma: [[book slug, chapter, verse, morph], ...]}}
+every occurrence of the lemma (a lemma twice in a verse is two rows), with
+its parsing there, in canonical order and in the edition's own numbering, so
+the app can count occurrences and filter them by form. Keys and shards are
+the lexicons' (see lexicon_key.py), so a word looked up in the lexicon finds
+its concordance in the shard of the same name.
 
 Derived only from words/ (built by nt.py, see glosses.py for the order of
 the steps; for the Brenton Septuagint by lxx_words.py). Rerun after either.
@@ -38,13 +39,13 @@ def concordance(edition: str) -> dict[str, dict[str, dict[str, list]]]:
         words = json.loads((BIBLE / f"greek-{edition}" / "words" / f"{slug}.json").read_text(encoding="utf-8"))
         for chapter in sorted(words, key=int):
             for verse in sorted(words[chapter], key=int):
-                # dict.fromkeys: each lemma once per verse, in the verse's order.
-                for lemma in dict.fromkeys(entry[0] for entry in words[chapter][verse]):
+                for entry in words[chapter][verse]:
+                    lemma, morph = entry[0], entry[1]
                     key = lexicon_key(lemma)
                     if not key:
                         continue
                     refs = shards.setdefault(shard_of(key), {}).setdefault(key, {}).setdefault(lemma, [])
-                    refs.append([slug, int(chapter), int(verse)])
+                    refs.append([slug, int(chapter), int(verse), morph])
     return shards
 
 
