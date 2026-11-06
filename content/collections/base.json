@@ -296,6 +296,100 @@
 			]
 		},
 		{
+			"id": "chaplets",
+			"title": {
+				"en-US": "Chaplets",
+				"pt-BR": "Terços e Coroinhas"
+			},
+			"description": {
+				"body": {
+					"en-US": "Short prayers counted on beads, each keeping one mystery or one patron before the heart.",
+					"pt-BR": "Orações breves contadas nas contas, cada uma guardando diante do coração um mistério ou um patrono."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/chaplet-of-divine-mercy"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/chaplet-st-michael"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/chaplet-precious-blood"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/chaplet-five-wounds"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/chaplet-infant-jesus-prague"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/franciscan-crown"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/seven-sorrows"
+				}
+			]
+		},
+		{
+			"id": "prayers-of-the-saints",
+			"title": {
+				"en-US": "Prayers of the Saints",
+				"pt-BR": "Orações dos Santos"
+			},
+			"description": {
+				"body": {
+					"en-US": "Prayers the saints left us, and that the faithful have kept praying after them.",
+					"pt-BR": "Orações que os santos nos deixaram e que os fiéis continuaram a rezar depois deles."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/st-patrick-breastplate"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/canticle-of-the-creatures"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/nada-te-turbe"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/st-benedict-medal-prayer"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-of-abandonment"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/radiating-christ"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/lead-kindly-light"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/breathe-in-me-holy-spirit"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-holy-spirit-mercier"
+				}
+			]
+		},
+		{
 			"id": "marian-antiphons",
 			"title": {
 				"en-US": "Marian Antiphons",

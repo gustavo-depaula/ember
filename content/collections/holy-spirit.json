@@ -66,6 +66,23 @@
 			]
 		},
 		{
+			"id": "prayers",
+			"title": {
+				"en-US": "Prayers to the Holy Spirit",
+				"pt-BR": "Orações ao Espírito Santo"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/breathe-in-me-holy-spirit"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-holy-spirit-mercier"
+				}
+			]
+		},
+		{
 			"id": "novena-and-triduum",
 			"title": {
 				"en-US": "Novena & Triduum",

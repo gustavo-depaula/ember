@@ -1,0 +1,110 @@
+{
+	"data": {
+		"joy": [
+			{
+				"title": { "en-US": "First Joy: The Annunciation", "pt-BR": "Primeira Alegria: A Anunciação" },
+				"text": { "en-US": "First joy of Mary at her Annunciation and Divine Maternity." }
+			},
+			{
+				"title": { "en-US": "Second Joy: The Visitation", "pt-BR": "Segunda Alegria: A Visitação" },
+				"text": { "en-US": "Second joy of Mary at her Visit to St. Elizabeth." }
+			},
+			{
+				"title": { "en-US": "Third Joy: The Nativity", "pt-BR": "Terceira Alegria: O Nascimento de Jesus" },
+				"text": { "en-US": "Third joy of Mary at the Birth of Jesus." }
+			},
+			{
+				"title": { "en-US": "Fourth Joy: The Adoration of the Magi", "pt-BR": "Quarta Alegria: A Adoração dos Magos" },
+				"text": { "en-US": "Fourth joy of Mary on the Adoration of the Magi." }
+			},
+			{
+				"title": { "en-US": "Fifth Joy: The Finding in the Temple", "pt-BR": "Quinta Alegria: O Encontro no Templo" },
+				"text": { "en-US": "Fifth joy of Mary on finding Jesus in the Temple, after having lost Him, where He was disputing with the doctors." }
+			},
+			{
+				"title": { "en-US": "Sixth Joy: The Resurrection", "pt-BR": "Sexta Alegria: A Ressurreição" },
+				"text": { "en-US": "Sixth joy of Mary at the glorious Resurrection of her Divine Son." }
+			},
+			{
+				"title": { "en-US": "Seventh Joy: The Assumption", "pt-BR": "Sétima Alegria: A Assunção" },
+				"text": { "en-US": "Seventh joy of Mary on her Assumption into heaven, in body and in soul." }
+			}
+		]
+	},
+	"sections": [
+		{
+			"type": "response",
+			"lang": "en-US",
+			"verses": [
+				{
+					"v": { "la": "Deus, in adjutorium meum intende.", "en-US": "O God, come to my assistance." },
+					"r": { "la": "Domine, ad adjuvandum me festina.", "en-US": "O Lord, make haste to help me." }
+				}
+			]
+		},
+		{ "type": "prayer", "ref": "glory-be", "lang": "en-US" },
+		{ "type": "divider", "lang": "en-US" },
+		{
+			"type": "repeat",
+			"count": 7,
+			"from": "joy",
+			"sections": [
+				{ "type": "heading", "text": "{{title}}" },
+				{ "type": "meditation", "text": "{{text}}", "lang": "en-US" },
+				{ "type": "prayer", "ref": "our-father" },
+				{
+					"type": "repeat",
+					"count": 10,
+					"sections": [{ "type": "prayer", "ref": "hail-mary" }]
+				},
+				{ "type": "prayer", "ref": "glory-be" },
+				{ "type": "divider" }
+			]
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Two more Hail Marys, completing the seventy-two years of our Lady's life on earth:",
+				"pt-BR": "Mais duas Ave-Marias, completando os setenta e dois anos da vida de Nossa Senhora na terra:"
+			}
+		},
+		{
+			"type": "repeat",
+			"count": 2,
+			"sections": [{ "type": "prayer", "ref": "hail-mary" }]
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "An Our Father and a Hail Mary for the Sovereign Pontiff:",
+				"pt-BR": "Um Pai-Nosso e uma Ave-Maria pelo Sumo Pontífice:"
+			}
+		},
+		{ "type": "prayer", "ref": "our-father" },
+		{ "type": "prayer", "ref": "hail-mary" },
+		{ "type": "divider", "lang": "en-US" },
+		{
+			"type": "response",
+			"lang": "en-US",
+			"verses": [
+				{
+					"v": { "la": "In Conceptione tua, Virgo, immaculata fuisti.", "en-US": "In thy Conception, O Virgin Mary, thou wast immaculate." },
+					"r": { "la": "Ora pro nobis Patrem, cujus Filium peperisti.", "en-US": "Pray for us to the Father, whose Son thou didst bring forth." }
+				}
+			]
+		},
+		{
+			"type": "rubric",
+			"lang": "en-US",
+			"text": { "la": "Oremus.", "en-US": "Let us pray." }
+		},
+		{
+			"type": "prayer",
+			"lang": "en-US",
+			"inline": {
+				"la": "Deus, qui per immaculatam Virginis Conceptionem, dignum Filio tuo habitaculum præparasti, quæsumus, ut qui ex morte ejusdem Filii sui prævisa eam ab omni labe præservasti, nos quoque mundos, ejus intercessione ad te pervenire concedas. Per eundum Christum Dominum nostrum. Amen.",
+				"en-US": "O God, who didst prepare for thy Son a worthy habitation, by the Immaculate Conception of the Blessed Virgin Mary, we beseech Thee that, as Thou didst preserve her from every stain of sin, through the merits of the preordained atonement of Jesus Christ, so Thou wouldst grant that we also may come without spot to Thee. Through the same Christ our Lord. Amen."
+			}
+		}
+	]
+}

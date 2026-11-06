@@ -1,0 +1,63 @@
+{
+	"id": "st-patrick-breastplate",
+	"form": "prayer",
+	"icon": "cross",
+	"name": {
+		"en-US": "St. Patrick's Breastplate",
+		"pt-BR": "Couraça de São Patrício"
+	},
+	"categories": [
+		"devotion",
+		"protection"
+	],
+	"estimatedMinutes": 4,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"description": {
+		"en-US": "The Lorica of St. Patrick, an ancient Irish prayer of protection: the Christian clothes himself, as in armour, with the strength of the Trinity, the mysteries of Christ, the saints and all creation, and asks Christ to surround him on every side.",
+		"pt-BR": "A Lorica de São Patrício, antiga oração irlandesa de proteção: o cristão se reveste, como de uma armadura, da força da Trindade, dos mistérios de Cristo, dos santos e de toda a criação, e pede que Cristo o envolva por todos os lados."
+	},
+	"history": {
+		"en-US": "Known in Old Irish as *Fáeth Fiada* (\"The Deer's Cry\") and in Latin as a *lorica*, a \"breastplate\" prayer, it is preserved in the Irish *Liber Hymnorum* (11th century) and attributed to St. Patrick (5th century). Legend says he sang it on the road to Tara when King Lóegaire laid ambushes for him, and that the soldiers saw only a deer passing with its fawn. Scholars date the text to the 7th or 8th century. The English here is Kuno Meyer's translation from the Old Irish; the Portuguese follows the same version.",
+		"pt-BR": "Conhecida em irlandês antigo como *Fáeth Fiada* (\"O grito do cervo\") e em latim como *lorica*, oração-\"couraça\", está conservada no *Liber Hymnorum* irlandês (séc. XI) e é atribuída a São Patrício (séc. V). Conta a lenda que ele a cantou a caminho de Tara, quando o rei Lóegaire lhe armou emboscadas, e que os soldados viram passar apenas um cervo com a sua cria. Os estudiosos datam o texto dos séculos VII ou VIII."
+	},
+	"howToPray": {
+		"en-US": "Traditionally prayed in the morning, as one sets out on the day's work, or in any time of danger or spiritual struggle.",
+		"pt-BR": "Tradicionalmente rezada pela manhã, ao começar o trabalho do dia, ou em qualquer momento de perigo ou de combate espiritual."
+	},
+	"source": {
+		"en-US": "Kuno Meyer, *Selections from Ancient Irish Poetry* (London: Constable, 1911), \"The Deer's Cry\", pp. 25–27 — [Wikisource](https://en.wikisource.org/wiki/Selections_from_Ancient_Irish_Poetry/The_Deer%27s_Cry), [archive.org scan](https://archive.org/details/selectionsfroman00meye_0)",
+		"pt-BR": "Rosa Maria, \"Conheça a couraça de São Patrício\", *Revista Ave Maria* (Claretianos), março de 2026, pp. 20–21 — [revistaavemaria.com.br](https://revistaavemaria.com.br/wp-content/uploads/2026/03/avemaria-marco2026-12.pdf)"
+	},
+	"tags": [
+		"patrick",
+		"lorica",
+		"protection",
+		"trinity",
+		"irish",
+		"morning"
+	],
+	"defaults": {
+		"sortOrder": 520,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "I arise to-day\nThrough a mighty strength, the invocation of the Trinity,\nThrough belief in the threeness,\nThrough confession of the oneness\nOf the Creator of Creation.\n\nI arise to-day\nThrough the strength of Christ's birth with His baptism,\nThrough the strength of His crucifixion with His burial,\nThrough the strength of His resurrection with His ascension,\nThrough the strength of His descent for the judgment of Doom.\n\nI arise to-day\nThrough the strength of the love of Cherubim,\nIn obedience of angels,\nIn the service of archangels,\nIn hope of resurrection to meet with reward,\nIn prayers of patriarchs,\nIn predictions of prophets,\nIn preachings of apostles,\nIn faiths of confessors,\nIn innocence of holy virgins,\nIn deeds of righteous men.\n\nI arise to-day\nThrough the strength of heaven:\nLight of sun,\nRadiance of moon,\nSplendour of fire,\nSpeed of lightning,\nSwiftness of wind,\nDepth of sea,\nStability of earth,\nFirmness of rock.\n\nI arise to day\nThrough God's strength to pilot me:\nGod's might to uphold me,\nGod's wisdom to guide me,\nGod's eye to look before me,\nGod's ear to hear me,\nGod's word to speak for me,\nGod's hand to guard me,\nGod's way to lie before me,\nGod's shield to protect me,\nGod's host to save me\nFrom snares of devils,\nFrom temptations of vices,\nFrom every one who shall wish me ill,\nAfar and anear,\nAlone and in a multitude.\n\nI summon to-day all these powers between me and those evils,\nAgainst every cruel merciless power that may oppose my body and soul,\nAgainst incantations of false prophets,\nAgainst black laws of pagandom,\nAgainst false laws of heretics,\nAgainst craft of idolatry,\nAgainst spells of women and smiths and wizards,\nAgainst every knowledge that corrupts man's body and soul.\n\nChrist to shield me to-day\nAgainst poison, against burning,\nAgainst drowning, against wounding,\nSo that there may come to me abundance of reward.\nChrist with me, Christ before me, Christ behind me,\nChrist in me, Christ beneath me, Christ above me,\nChrist on my right, Christ on my left,\nChrist when I lie down, Christ when I sit down, Christ when I arise,\nChrist in the heart of every man who thinks of me,\nChrist in the mouth of every one who speaks of me,\nChrist in every eye that sees me,\nChrist in every ear that hears me.\n\nI arise to-day\nThrough a mighty strength, the invocation of the Trinity,\nThrough belief in the threeness,\nThrough confession of the oneness\nOf the Creator of Creation.",
+					"pt-BR": "Levanto-me, neste dia que amanhece, por uma grande força, a invocação da Trindade, pela fé na Tríade, pela afirmação da unidade do Criador da criação.\n\nLevanto-me, neste dia que amanhece, pela força do nascimento de Cristo e de seu Batismo, pela força de sua crucificação e sepultamento, pela força de sua ressurreição e ascensão, pela força de sua descida para o julgamento dos mortos.\n\nLevanto-me, neste dia que amanhece, pela força do amor dos querubins, em obediência aos anjos, a serviço dos arcanjos, pela esperança da ressurreição e do prêmio, pelas orações dos patriarcas, pelas previsões dos profetas, pela pregação dos apóstolos, pela fé dos confessores, pela inocência das virgens santas, pelos atos dos bem-aventurados.\n\nLevanto-me, neste dia que amanhece, pela força do céu: luz do sol, clarão da lua, esplendor do fogo, pressa do relâmpago, presteza do vento, profundeza dos mares, firmeza da terra, solidez da rocha.\n\nLevanto-me, neste dia que amanhece: que a força de Deus me dirija, que o poder de Deus me ampare, que a sabedoria de Deus me guie, que o olhar de Deus me vigie, que o ouvido de Deus me ouça, que a palavra de Deus me faça eloquente, que a mão de Deus me guarde, que o caminho de Deus me esteja à frente, que o escudo de Deus me proteja, que o exército de Deus me defenda das armadilhas do demônio, das tentações do vício, de todos os que me desejam mal, longe e perto de mim, agindo só ou em grupo.\n\nConclamo, hoje, tais forças a me protegerem contra o mal, contra qualquer força cruel que me ameace corpo e alma, contra a encantação de falsos profetas, contra as leis negras do paganismo, contra as leis falsas dos hereges, contra a arte da idolatria, contra feitiços de bruxas e magos, contra saberes que corrompem o corpo e a alma.\n\nCristo guarde-me hoje contra veneno, contra fogo, contra afogamento, contra ferimento, para que eu possa receber e desfrutar a recompensa.\n\nCristo comigo, Cristo à minha frente, Cristo atrás de mim, Cristo em mim, Cristo embaixo de mim, Cristo acima de mim, Cristo à minha direita, Cristo à minha esquerda, Cristo ao me deitar, Cristo ao me sentar, Cristo ao me levantar, Cristo no coração de todos a quem eu falar, Cristo na boca de todos os que me falarem, Cristo em todos os olhos que me virem, Cristo em todos os ouvidos que me ouvirem.\n\nLevanto-me, neste dia que amanhece, por uma grande força, pela invocação da Trindade, pela fé na Tríade, pela afirmação da Unidade, pelo Criador da criação. Amém."
+				}
+			}
+		]
+	}
+}

@@ -114,6 +114,10 @@
 				},
 				{
 					"kind": "item",
+					"ref": "practice/veni-veni-emmanuel"
+				},
+				{
+					"kind": "item",
 					"ref": "practice/adeste-fideles"
 				},
 				{
@@ -144,6 +148,10 @@
 				{
 					"kind": "item",
 					"ref": "practice/audi-benigne-conditor"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/parce-domine"
 				},
 				{
 					"kind": "item",
@@ -185,6 +193,10 @@
 				{
 					"kind": "item",
 					"ref": "practice/victimae-paschali"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/o-filii-et-filiae"
 				},
 				{
 					"kind": "item",
@@ -315,6 +327,14 @@
 				{
 					"kind": "item",
 					"ref": "practice/akathist-hymn-to-the-theotokos-and-ever-vrgin-mary"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/inviolata"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/salve-mater-misericordiae"
 				}
 			]
 		},
@@ -376,6 +396,10 @@
 				{
 					"kind": "item",
 					"ref": "practice/caelestis-urbs-ierusalem"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/christus-vincit"
 				}
 			]
 		},

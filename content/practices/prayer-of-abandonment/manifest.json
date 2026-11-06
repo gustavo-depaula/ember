@@ -1,0 +1,58 @@
+{
+	"id": "prayer-of-abandonment",
+	"form": "prayer",
+	"icon": "prayer",
+	"name": {
+		"en-US": "Prayer of Abandonment",
+		"pt-BR": "Oração do Abandono",
+		"fr": "Prière d'abandon"
+	},
+	"categories": [
+		"devotion"
+	],
+	"estimatedMinutes": 1,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"description": {
+		"en-US": "The prayer of St. Charles de Foucauld's spiritual family: a complete surrender into the hands of the Father, after Jesus' last words on the Cross.",
+		"pt-BR": "A oração da família espiritual de São Carlos de Foucauld: um abandono completo nas mãos do Pai, a partir das últimas palavras de Jesus na Cruz."
+	},
+	"history": {
+		"en-US": "St. Charles de Foucauld (1858–1916) did not write this prayer as it stands. In 1896, as a Trappist at Akbès, he wrote a meditation on Luke 23:46, \"Father, into your hands I commend my spirit\", wishing that Christ's last prayer might be ours at every moment. In December 1940 Little Sister Magdeleine of Jesus and her first novices shortened it for daily recitation in common, and it was first printed as a prayer in 1946. It is now the shared prayer of all the groups that look to him, usually said in the evening.",
+		"pt-BR": "São Carlos de Foucauld (1858–1916) não escreveu esta oração tal como está. Em 1896, trapista em Akbès, escreveu uma meditação sobre Lucas 23,46, \"Pai, em tuas mãos entrego o meu espírito\", desejando que a última oração de Cristo fosse a nossa em todos os momentos. Em dezembro de 1940, a Irmãzinha Madalena de Jesus e as suas primeiras noviças a abreviaram para a recitação diária em comum, e ela foi impressa pela primeira vez como oração em 1946. Hoje é a oração comum de todos os grupos que se inspiram nele, rezada habitualmente à noite."
+	},
+	"source": {
+		"en-US": "Association Famille Spirituelle Charles de Foucauld, \"Prayer of Abandon\" — [charlesdefoucauld.org](https://www.charlesdefoucauld.org/en/priere.php). French: [charlesdefoucauld.org](https://www.charlesdefoucauld.org/fr/priere.php); history from Antoine Chatelard, *Vie consacrée* 67 (1995) — [PDF](https://www.charlesdefoucauld.org/docs/4-priere-abandon.pdf)",
+		"pt-BR": "Association Famille Spirituelle Charles de Foucauld, tradução portuguesa — [charlesdefoucauld.org](https://www.charlesdefoucauld.org/en/priere.php?id_trad=45)"
+	},
+	"tags": [
+		"foucauld",
+		"surrender",
+		"trust",
+		"evening"
+	],
+	"defaults": {
+		"sortOrder": 523,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "Father,\nI abandon myself into your hands;\ndo with me what you will.\n\nWhatever you may do,\nI thank you.\n\nI am ready for all, I accept all.\nLet only your will be done in me,\nand in all your creatures.\nI wish no more than this, O Lord.\n\nInto your hands I commend my soul;\nI offer it to you\nwith all the love of my heart,\nfor I love you, Lord,\nand so need to give myself,\nto surrender myself into your hands,\nwithout reserve,\nand with boundless confidence,\nfor you are my Father.",
+					"pt-BR": "Meu Pai,\na vós me abandono:\nfazei de mim o que quiserdes!\n\nO que de mim fizerdes, eu vos agradeço.\n\nEstou pronto para tudo, aceito tudo,\ncontanto que a vossa vontade\nse faça em mim\ne em todas as vossas criaturas.\nNão quero outra coisa, meu Deus.\n\nEntrego minha vida em vossas mãos,\neu vo-la dou meu Deus,\ncom todo o amor do meu coração,\nporque eu vos amo.\nE porque é para mim uma necessidade de amor\ndar-me, entregar-me\nem vossas mãos sem medida,\ncom infinita confiança\nporque sois meu Pai.",
+					"fr": "Mon Père,\nJe m'abandonne à toi,\nfais de moi ce qu'il te plaira.\n\nQuoi que tu fasses de moi,\nje te remercie.\n\nJe suis prêt à tout, j'accepte tout.\nPourvu que ta volonté\nse fasse en moi, en toutes tes créatures,\nje ne désire rien d'autre, mon Dieu.\n\nJe remets mon âme entre tes mains.\nJe te la donne, mon Dieu,\navec tout l'amour de mon cœur,\nparce que je t'aime,\net que ce m'est un besoin d'amour\nde me donner,\nde me remettre entre tes mains, sans mesure,\navec une infinie confiance,\ncar tu es mon Père."
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,55 @@
+{
+	"id": "breathe-in-me-holy-spirit",
+	"form": "prayer",
+	"icon": "flame",
+	"name": {
+		"en-US": "Breathe in Me, O Holy Spirit",
+		"pt-BR": "Oração de Santo Agostinho ao Espírito Santo"
+	},
+	"categories": [
+		"devotion",
+		"holy-spirit"
+	],
+	"estimatedMinutes": 1,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"description": {
+		"en-US": "A short prayer to the Holy Spirit for holiness of thought, love, strength and perseverance, traditionally attributed to St. Augustine.",
+		"pt-BR": "Uma breve oração ao Espírito Santo pela santidade dos pensamentos, do amor, da fortaleza e da perseverança, tradicionalmente atribuída a Santo Agostinho."
+	},
+	"history": {
+		"en-US": "The prayer circulates on holy cards under the name of St. Augustine of Hippo (354–430). The attribution is traditional: the verses are not found in his known works, and no early source for them has been identified. Its four petitions follow the pattern of Augustine's teaching that the Spirit is the love of God poured into our hearts.",
+		"pt-BR": "A oração circula em santinhos com o nome de Santo Agostinho de Hipona (354–430). A atribuição é tradicional: os versos não se encontram nas suas obras conhecidas, e não se identificou nenhuma fonte antiga. Não se encontrou tradução portuguesa de fonte confiável; o texto aparece em inglês."
+	},
+	"source": {
+		"en-US": "As printed on holy cards; text from [Catholic Culture, \"Breathe in me, O Holy Spirit\"](https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1116) (source given there: *Prayers from Various Holy Cards*).",
+		"pt-BR": "Como impressa em santinhos; texto de [Catholic Culture, \"Breathe in me, O Holy Spirit\"](https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1116) (fonte indicada: *Prayers from Various Holy Cards*)."
+	},
+	"tags": [
+		"holy-spirit",
+		"augustine",
+		"holiness"
+	],
+	"defaults": {
+		"sortOrder": 532,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "Breathe in me, O Holy Spirit,\nThat my thoughts may all be holy;\nAct in me, O Holy Spirit,\nThat I love but what is holy;\nStrengthen me, O Holy Spirit,\nTo defend all that is holy;\nGuard me, then, O Holy Spirit,\nThat I always may be holy. Amen."
+				}
+			}
+		]
+	}
+}

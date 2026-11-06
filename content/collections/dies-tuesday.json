@@ -53,6 +53,7 @@
 			"blocks": [
 				{ "kind": "item", "ref": "practice/prayer-st-michael" },
 				{ "kind": "item", "ref": "practice/st-michael" },
+				{ "kind": "item", "ref": "practice/chaplet-st-michael" },
 				{ "kind": "item", "ref": "practice/angele-dei" },
 				{ "kind": "item", "ref": "practice/guardian-angel" },
 				{

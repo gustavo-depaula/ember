@@ -1,0 +1,41 @@
+{
+	"id": "chaplet-five-wounds",
+	"form": "prayer",
+	"icon": "cross",
+	"name": {
+		"en-US": "Chaplet of the Five Wounds",
+		"pt-BR": "Coroa das Cinco Chagas"
+	},
+	"categories": ["devotion", "passion"],
+	"estimatedMinutes": 10,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"description": {
+		"en-US": "The Passionist chaplet: five groups of five Glory Bes, one group for each of the Wounds of Christ crucified, each closed by a Hail Mary in honour of our Lady of Sorrows.",
+		"pt-BR": "A coroa passionista: cinco grupos de cinco Glórias, um grupo para cada uma das Chagas de Cristo crucificado, cada um encerrado com uma Ave-Maria em honra de Nossa Senhora das Dores."
+	},
+	"history": {
+		"en-US": "The chaplet was introduced in Rome in 1821 by Fr. Paul Aloysius of the Virgin Mary, superior general of the Passionists, who had beads and medals made and leaflets of short prayers printed for the missionaries to give away. Pius VII approved it in 1822 with an Our Father, Hail Mary and Glory Be on every bead; Leo XII, by decree of 20 December 1823, reduced it to the form kept since: a Glory Be on each of twenty-five beads and a Hail Mary between the groups, while the Wounds are meditated upon. Pius IX confirmed and extended its indulgences in 1851. The order of the Wounds is not prescribed; the Passionist medals customarily lead from the left Foot to the Side.",
+		"pt-BR": "A coroa foi introduzida em Roma em 1821 pelo Pe. Paulo Luís da Virgem Maria, superior geral dos Passionistas, que mandou fazer contas e medalhas e imprimir folhetos de breves orações para os missionários distribuírem. Pio VII aprovou-a em 1822 com um Pai-Nosso, uma Ave-Maria e um Glória em cada conta; Leão XII, por decreto de 20 de dezembro de 1823, reduziu-a à forma conservada desde então: um Glória em cada uma das vinte e cinco contas e uma Ave-Maria entre os grupos, meditando-se as Chagas. Pio IX confirmou e ampliou suas indulgências em 1851. A ordem das Chagas não é prescrita; as medalhas passionistas costumam ir do pé esquerdo ao Lado."
+	},
+	"howToPray": {
+		"en-US": "Pray on beads of five groups of five. While meditating on one Wound, pray a Glory Be on each of the five beads, then one Hail Mary in honour of our Lady of Sorrows. Repeat for each of the five Wounds.",
+		"pt-BR": "Reze numa coroa de cinco grupos de cinco contas. Meditando numa das Chagas, reze um Glória em cada uma das cinco contas e depois uma Ave-Maria em honra de Nossa Senhora das Dores. Repita para cada uma das cinco Chagas."
+	},
+	"source": {
+		"en-US": "*The Raccolta, or Collection of Indulgenced Prayers and Good Works*, tr. Ambrose St John, 1910 ed. (Burns & Oates / Benziger), no. 126 \"Chaplet of the Five Wounds\", pp. 106–107 — [archive.org](https://archive.org/details/theraccoltaorcol00unknuoft/page/106); order of the Wounds: Fr. Warren Womack, C.P., \"Chaplet of the Five Wounds: Its history, blessing and indulgences\", *The Passionist*, Dec. 1951 — [Passionist Historical Archives](https://web.archive.org/web/20191023192929/http://www.cpprovince.org/archives/thepassionist/chaplet-5wounds.php)",
+		"pt-BR": "*The Raccolta*, tr. Ambrose St John, ed. 1910, n.º 126, pp. 106–107 — [archive.org](https://archive.org/details/theraccoltaorcol00unknuoft/page/106); ordem das Chagas: Pe. Warren Womack, C.P., *The Passionist*, dez. 1951 — [Passionist Historical Archives](https://web.archive.org/web/20191023192929/http://www.cpprovince.org/archives/thepassionist/chaplet-5wounds.php)"
+	},
+	"tags": ["chaplet", "wounds", "passion", "passionist", "raccolta", "sorrows"],
+	"defaults": {
+		"sortOrder": 512,
+		"slots": [
+			{
+				"schedule": { "type": "daily" },
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

@@ -1,0 +1,41 @@
+{
+	"id": "chaplet-precious-blood",
+	"form": "prayer",
+	"icon": "cross",
+	"name": {
+		"en-US": "Chaplet of the Precious Blood",
+		"pt-BR": "Coroa do Preciosíssimo Sangue"
+	},
+	"categories": ["devotion", "passion"],
+	"estimatedMinutes": 20,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"description": {
+		"en-US": "Seven mysteries on the seven times Christ shed His Blood for us, from the Circumcision to the piercing of His Side, with thirty-three Our Fathers for the thirty-three years of His life.",
+		"pt-BR": "Sete mistérios sobre as sete vezes em que Cristo derramou o seu Sangue por nós, da Circuncisão ao Lado aberto pela lança, com trinta e três Pai-Nossos pelos trinta e três anos de sua vida."
+	},
+	"history": {
+		"en-US": "The chaplet was composed in Rome in the early nineteenth century by Fr. Francesco Albertini, spiritual director of St. Gaspar del Bufalo, and spread by St. Gaspar and his Missionaries of the Precious Blood. Pius VII indulgenced it in 1809 and 1815, and it entered the Raccolta.",
+		"pt-BR": "A coroa foi composta em Roma no início do século XIX pelo Pe. Francesco Albertini, diretor espiritual de São Gaspar del Bufalo, e difundida por São Gaspar e seus Missionários do Preciosíssimo Sangue. Pio VII concedeu-lhe indulgências em 1809 e 1815, e ela passou a figurar na Raccolta."
+	},
+	"howToPray": {
+		"en-US": "After the opening versicle, read each mystery and pray five Our Fathers and one Glory Be, then the versicle 'We beseech Thee, therefore'. At the seventh mystery pray three Our Fathers, making thirty-three in all. End with the prayer 'Most Precious Blood', the versicle and the collect.",
+		"pt-BR": "Depois do versículo inicial, leia cada mistério e reze cinco Pai-Nossos e um Glória, e então o versículo 'Rogamo-vos, Senhor'. No sétimo mistério reze três Pai-Nossos, completando trinta e três. Termine com a súplica 'Ó Sangue preciosíssimo', o versículo e a oração."
+	},
+	"source": {
+		"en-US": "*The Raccolta, or Collection of Indulgenced Prayers and Good Works*, tr. Ambrose St John, 1910 ed. (Burns & Oates / Benziger), no. 138 \"Chaplet of the Precious Blood\", pp. 117–121 — [archive.org](https://archive.org/details/theraccoltaorcol00unknuoft/page/117)",
+		"pt-BR": "*Pio e devoto exercicio para os irmãos da Archiconfraria do Preciosissimo Sangue de N.S.J.C.* (Porto: Typ. de F. Pereira de Azevedo, 1857), \"Coroa em honra do Preciosissimo Sangue de Jesus Christo\", pp. 10–18, spelling modernized — [archive.org](https://archive.org/details/pioedevotoexerci00arch/page/10)"
+	},
+	"tags": ["chaplet", "precious-blood", "passion", "raccolta", "gaspar-del-bufalo"],
+	"defaults": {
+		"sortOrder": 511,
+		"slots": [
+			{
+				"schedule": { "type": "daily" },
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

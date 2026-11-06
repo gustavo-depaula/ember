@@ -1,0 +1,75 @@
+{
+	"id": "thirty-days-prayer",
+	"form": "prayer",
+	"icon": "mary",
+	"name": {
+		"en-US": "Thirty Days' Prayer to the Blessed Virgin",
+		"pt-BR": "Oração dos Trinta Dias à Santíssima Virgem"
+	},
+	"categories": [
+		"marian",
+		"devotion",
+		"passion"
+	],
+	"estimatedMinutes": 8,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"description": {
+		"en-US": "A long petition to Our Lady of Sorrows, pleading every mystery of Christ's Passion and glory, said for thirty days for a particular request.",
+		"pt-BR": "Uma longa súplica a Nossa Senhora das Dores, que invoca cada mistério da Paixão e da glória de Cristo, rezada durante trinta dias por um pedido particular."
+	},
+	"history": {
+		"en-US": "The Thirty Days' Prayer belongs to the English recusant tradition and was printed for generations in the standard Catholic manuals of the English-speaking world, such as Bishop Challoner's Garden of the Soul and Bishop Milner's Key of Heaven. Its heading recommends it \"in honor of the sacred Passion of our Lord Jesus Christ\", for thirty days to obtain a lawful request, and especially for every day in Lent and all the Fridays of the year.",
+		"pt-BR": "A Oração dos Trinta Dias pertence à tradição dos católicos ingleses perseguidos (recusants) e foi impressa por gerações nos manuais católicos clássicos de língua inglesa, como o Garden of the Soul do bispo Challoner e o Key of Heaven do bispo Milner. O seu título a recomenda \"em honra da sagrada Paixão de Nosso Senhor Jesus Cristo\", durante trinta dias para obter um pedido lícito, e especialmente em todos os dias da Quaresma e em todas as sextas-feiras do ano. Não se encontrou tradução portuguesa tradicional; o texto aparece em inglês."
+	},
+	"howToPray": {
+		"en-US": "Say it daily for thirty days for one lawful request, asked under the condition that it agrees with God's will and serves your spiritual good. It is also suited to every day of Lent and to Fridays.",
+		"pt-BR": "Reze-a diariamente durante trinta dias por um pedido lícito, feito sob a condição de que seja conforme à vontade de Deus e sirva ao seu bem espiritual. Convém também a todos os dias da Quaresma e às sextas-feiras."
+	},
+	"source": {
+		"en-US": "John Milner, *The Key of Heaven; or, A Manual of Prayer* (New York: Thomas Kelly, 1874), \"The Thirty Days' Prayer to the Blessed Virgin Mary\", pp. 156–162 ([archive.org scan](https://archive.org/details/keyofheavenorman00miln/page/156)), checked against the page images. The rubric before \"And as I am persuaded\" is the book's own direction.",
+		"pt-BR": "John Milner, *The Key of Heaven; or, A Manual of Prayer* (Nova York: Thomas Kelly, 1874), \"The Thirty Days' Prayer to the Blessed Virgin Mary\", pp. 156–162 ([digitalização no archive.org](https://archive.org/details/keyofheavenorman00miln/page/156)), conferido com as imagens das páginas. A rubrica antes de \"And as I am persuaded\" é a indicação do próprio livro (traduzida no pt-BR)."
+	},
+	"tags": [
+		"marian",
+		"sorrows",
+		"passion",
+		"petition",
+		"lent"
+	],
+	"defaults": {
+		"sortOrder": 534,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "Ever glorious and blessed Mary, Queen of Virgins, Mother of Mercy, hope and comfort of dejected and desolate souls, through that sword of sorrow which pierced thy tender heart whilst thine only Son, Christ Jesus our Lord, suffered death and ignominy on the Cross; through that filial tenderness and pure love he had for thee, grieving in thy grief, whilst from his Cross he recommended thee to the care and protection of his beloved disciple, St. John, take pity, I beseech thee, on my poverty and necessities; have compassion on my anxieties and cares; assist and comfort me in all my infirmities and miseries, of what kind soever. Thou art the Mother of Mercies, the sweet comforter and only refuge of the needy and the orphan, of the desolate and the afflicted. Cast, therefore, an eye of pity on a miserable forlorn child of Eve, and hear my prayer; for since, in just punishment of my sins, I find myself encompassed by a multitude of evils, and oppressed with much anguish of spirit, whither can I fly for more secure shelter, O amiable Mother of my Lord and Saviour Jesus Christ, than under the wings of thy maternal protection? Attend, therefore, I beseech thee, with an ear of pity and compassion, to my humble and earnest request. I ask it, through the bowels of mercy of thy dear Son; through that love and condescension wherewith he embraced our nature, when, in compliance with the divine will, thou gavest thy consent, and whom, after the expiration of nine months, thou didst bring forth from the chaste enclosure of thy womb, to visit this world, and bless it with his presence. I ask it, through that anguish of mind wherewith thy beloved Son, our dear Saviour, was overwhelmed on Mount Olivet, when he besought his eternal Father to remove from him, if possible, the bitter chalice of his future passion. I ask it, through the threefold repetition of his prayers in the garden, whence afterwards, with dolorous steps and mournful tears, thou didst accompany him to the doleful theatre of his death and sufferings. I ask it, through the welts and bruises of his virginal flesh, occasioned by the cords and whips wherewith he was bound and scourged, when stripped of his seamless garment, for which his executioners afterwards cast lots. I ask it, through the scoffs and ignominies by which he was insulted; the false accusations and unjust sentence by which he was condemned to death, and which he bore with heavenly patience. I ask it, through his bitter tears and bloody sweat; his silence and resignation; his sadness and grief of heart. I ask it, through the blood which trickled from his royal and sacred head when struck with the sceptre of a reed, and pierced with his crown of thorns. I ask it, through the excruciating torments he suffered, when his hands and feet were fastened with gross nails to the tree of the Cross. I ask it, through his vehement thirst, and bitter potion of vinegar and gall. I ask it, through his dereliction on the Cross, when he exclaimed, “My God! my God! why hast thou forsaken me?” I ask it, through his mercy extended to the good thief, and through his recommending his precious soul and spirit into the hands of his eternal Father before he expired, saying, “All is consummated.” I ask it, through the blood mixed with water, which issued from his sacred side when pierced with a lance, and whence a flood of grace and mercy has flowed to us. I ask it, through his immaculate life, bitter passion, and ignominious death on the Cross, at which nature itself was thrown into convulsions, by the bursting of rocks, rending of the veil of the temple, the earthquake, and darkness of the sun and moon. I ask it, through his descent into hell, where he comforted the Saints of the old law with his presence, and led captivity captive. I ask it, through his glorious victory over death, when he arose again to life on the third day, and through the joy which his appearance for forty days after gave thee his blessed Mother, his Apostles, and the rest of his Disciples; when in thine and their presence he miraculously ascended into heaven. I ask it, through the grace of the Holy Ghost, infused into the hearts of his Disciples, when he descended upon them in the form of fiery tongues, and by which they were inspired with zeal in the conversion of the world, when they went to preach the Gospel. I ask it, through the awful appearance of thy Son, at the last dreadful day, when he shall come to judge the living and the dead, and the world by fire. I ask it, through the compassion he bore thee, in this life, and the unspeakable joy thou didst feel at thine assumption into heaven, where thou art eternally absorbed in the sweet contemplation of his divine perfections. O glorious and ever-blessed Virgin! comfort the heart of thy suppliant, by obtaining for me"
+				}
+			},
+			{
+				"type": "rubric",
+				"text": {
+					"en-US": "Here mention or reflect on your lawful request, under the reservation of its being agreeable to the will of God, who sees whether it will contribute towards your spiritual good.",
+					"pt-BR": "Mencione ou considere aqui o seu pedido lícito, sob a condição de que seja agradável à vontade de Deus, que vê se ele contribuirá para o seu bem espiritual."
+				}
+			},
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "And as I am persuaded my divine Saviour doth honor thee as his beloved Mother, to whom he can refuse nothing, so let me speedily experience the efficacy of thy powerful intercession, according to the tenderness of thy maternal affection, and his filial loving heart, who mercifully granteth the requests, and complieth with the desires of those that love and fear him. Wherefore, O most blessed Virgin, besides the object of my present petition, and whatever else I may stand in need of, obtain for me also of thy dear Son, our Lord and our God, a lively faith, firm hope, perfect charity, true contrition of heart, unfeigned tears of compunction, sincere confession, condign satisfaction, abstinence from sin, love of God and my neighbor, contempt of the world, patience to suffer affronts and ignominies, nay even, if necessary, an opprobrious death itself, for love of thy Son our Saviour Jesus Christ. Obtain likewise for me, O sacred Mother of God! perseverance in good works, performance of good resolutions, mortifications of self-will, a pious conversation through life, and, at my last moments, strong and sincere repentance, accompanied by such a lively and attentive presence of mind, as may enable me to receive the last Sacraments of the church worthily, and die in thy friendship and favor. Lastly, obtain, I beseech thee, for the souls of my parents, brethren, relatives, and benefactors, both living and dead, life everlasting. Amen."
+				}
+			}
+		]
+	}
+}

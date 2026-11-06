@@ -1,0 +1,67 @@
+{
+	"id": "st-benedict-medal-prayer",
+	"form": "prayer",
+	"icon": "cross",
+	"name": {
+		"en-US": "Prayer of the St. Benedict Medal",
+		"pt-BR": "Oração da Medalha de São Bento",
+		"la": "Crux Sacra"
+	},
+	"categories": [
+		"devotion",
+		"protection"
+	],
+	"estimatedMinutes": 1,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"description": {
+		"en-US": "The verses engraved, letter by letter, on the medal of St. Benedict: a profession of trust in the Cross and a rejection of the devil and his temptations.",
+		"pt-BR": "Os versos gravados, letra por letra, na medalha de São Bento: uma profissão de confiança na Cruz e uma rejeição do demônio e das suas tentações."
+	},
+	"history": {
+		"en-US": "The verses were explained by a manuscript of 1415 found in 1647 in the library of the abbey of Metten, in Bavaria, when no one could any longer read the initials painted around old crosses on the monastery's walls. The first pair recalls St. Benedict overcoming temptation by the sign of the Cross; the second, the poisoned cup that shattered when he blessed it. Pope Benedict XIV approved the medal by a brief of 12 March 1742. The Latin and English here are from Dom Prosper Guéranger's treatise on the medal (French 1862; English 1880).",
+		"pt-BR": "Os versos foram explicados por um manuscrito de 1415 encontrado em 1647 na biblioteca da abadia de Metten, na Baviera, quando já ninguém sabia ler as iniciais pintadas em torno de antigas cruzes nas paredes do mosteiro. O primeiro par recorda São Bento vencendo a tentação com o sinal da Cruz; o segundo, o cálice envenenado que se partiu quando ele o abençoou. O Papa Bento XIV aprovou a medalha pelo breve de 12 de março de 1742."
+	},
+	"source": {
+		"en-US": "Prosper Guéranger, *The Medal or Cross of St. Benedict: Its Origin, Meaning, and Privileges* (London: Burns & Oates, 1880), ch. II, pp. 12–13 — [archive.org](https://archive.org/details/TheMedalOrCrossOfStBenedict)",
+		"pt-BR": "Cássia Duarte Leal, \"A medalha de São Bento: uma devoção antiga e atual\", *Revista Ave Maria* (Claretianos), julho de 2023, pp. 22–23 — [revistaavemaria.com.br](https://revistaavemaria.com.br/wp-content/uploads/2023/06/avemaria-julho2023-13.pdf)"
+	},
+	"tags": [
+		"benedict",
+		"medal",
+		"protection",
+		"cross",
+		"sacramental"
+	],
+	"defaults": {
+		"sortOrder": 524,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "rubric",
+				"text": {
+					"en-US": "On the back of the medal, the letters C S P B in the angles of the cross stand for *Crux Sancti Patris Benedicti*, \"the Cross of the Holy Father Benedict\". On the upright of the cross, C S S M L; on the crossbar, N D S M D: the first two verses below. Around the rim, after the Holy Name (IHS, or PAX), V R S N S M V S M Q L I V B: the last two.",
+					"pt-BR": "No verso da medalha, as letras C S P B nos ângulos da cruz significam *Crux Sancti Patris Benedicti*, \"a Cruz do Santo Pai Bento\". Na haste vertical da cruz, C S S M L; na horizontal, N D S M D: os dois primeiros versos abaixo. Na borda, depois do santo Nome (IHS, ou PAX), V R S N S M V S M Q L I V B: os dois últimos."
+				}
+			},
+			{
+				"type": "prayer",
+				"inline": {
+					"la": "Crux Sacra sit mihi Lux;\nNon Draco sit mihi Dux.\n\nVade retro, Satana;\nnunquam suade mihi vana.\nSunt mala quae libas;\nipse venena bibas.",
+					"en-US": "May the Holy Cross be my Light.\nLet not the Dragon be my Guide.\n\nBegone, Satan! and suggest not to me thy vain things:\nthe cup thou profferest me is evil;\ndrink thou thy poison.",
+					"pt-BR": "A cruz sagrada seja a minha luz.\nNão seja o dragão o meu guia.\n\nRetira-te, Satanás.\nNunca me aconselhes coisas vãs.\nÉ mau o que tu me ofereces.\nBebe tu mesmo o teu veneno."
+				}
+			}
+		]
+	}
+}

@@ -523,6 +523,16 @@ def link_into_propers(books, genres, pieces, book_name, offline):
 PRAYER_BOOKS = ['3', '2', '48', '10', '5', '66', '15', '7']
 # A prayer and a score are the same text only when nearly all of each is in the other.
 PRAYER_THRESHOLD = 0.95
+# Prayers whose text is the score's but not all of it: the prayer prints fewer
+# stanzas than the book sets (Veni Emmanuel, Salve Mater), or writes out a
+# refrain the book prints once (O filii's Alleluia, Parce Domine's antiphon), so
+# the whole-text match falls short. The score is named here by its GregoBase id.
+PRAYER_SETTINGS = {
+    'o-filii-et-filiae': '3031',
+    'parce-domine': '3038',
+    'salve-mater-misericordiae': '12111',
+    'veni-veni-emmanuel': '7426',
+}
 PRAYER_BOOK = {
     'id': 'chant-book/cantus',
     'name': {'en-US': 'Hymns and antiphons', 'pt-BR': 'Hinos e antífonas'},
@@ -642,6 +652,8 @@ def write_prayers(offline=False):
         if not blocks or len(blocks) > 3:
             continue
         found = finder.settings(genres, chant_link.fold(blocks[0]), PRAYER_THRESHOLD)
+        if not found and d.name in PRAYER_SETTINGS:
+            found = [(0.0, 0, PRAYER_SETTINGS[d.name])]
         if not found:
             continue
         c = chants[found[0][2]]

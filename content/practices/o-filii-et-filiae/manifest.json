@@ -1,0 +1,46 @@
+{
+	"id": "o-filii-et-filiae",
+	"form": "prayer",
+	"icon": "sunrise",
+	"name": {
+		"en-US": "O filii et filiae",
+		"pt-BR": "O filii et filiae",
+		"la": "O filii et filiae"
+	},
+	"categories": [
+		"devotion",
+		"seasonal"
+	],
+	"estimatedMinutes": 4,
+	"description": {
+		"en-US": "*Ye sons and daughters of the King* — the Easter carol that tells the morning of the Resurrection and the faith of Thomas, each verse crowned with Alleluia.",
+		"pt-BR": "*Ó filhos e filhas* — o cântico pascal que narra a manhã da Ressurreição e a fé de Tomé, cada estrofe coroada pelo Aleluia."
+	},
+	"history": {
+		"en-US": "Written by the Franciscan preacher Jean Tisserand (d. 1494) in Paris; it spread from France across Europe and is sung through Eastertide, above all on Low Sunday, whose Gospel of Thomas it retells.",
+		"pt-BR": "Escrito pelo pregador franciscano Jean Tisserand (†1494) em Paris; espalhou-se da França por toda a Europa e é cantado no Tempo Pascal, sobretudo no Domingo in Albis, cujo Evangelho de Tomé recorda."
+	},
+	"source": {
+		"en-US": "Latin: *The Liber Usualis* (Desclée, 1961), p. 1875 — [archive.org](https://archive.org/details/TheLiberUsualis1961) · English: J. M. Neale, *Mediæval Hymns and Sequences* (3rd ed., 1867), pp. 164–165 — [Wikisource](https://en.wikisource.org/wiki/Mediaeval_Hymns_and_Sequences/O_Filii_et_Filiae)",
+		"pt-BR": "Latim: *The Liber Usualis* (Desclée, 1961), p. 1875 — [archive.org](https://archive.org/details/TheLiberUsualis1961) · Inglês: J. M. Neale, *Mediæval Hymns and Sequences* (3.ª ed., 1867), pp. 164–165 — [Wikisource](https://en.wikisource.org/wiki/Mediaeval_Hymns_and_Sequences/O_Filii_et_Filiae)"
+	},
+	"tags": [
+		"hymn",
+		"easter"
+	],
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"defaults": {
+		"sortOrder": 541,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}
