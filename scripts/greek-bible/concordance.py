@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build a lemma concordance for each Greek New Testament.
+"""Build a lemma concordance for each Greek New Testament and the Septuagint.
 
 Writes content/bible/greek-<edition>/concordance/<shard>.json:
     {lexicon_key(lemma): {lemma: [[book slug, chapter, verse], ...]}}
@@ -8,8 +8,8 @@ the edition's own numbering. Keys and shards are the lexicons' (see
 lexicon_key.py), so a word looked up in the lexicon finds its concordance in
 the shard of the same name; the app counts occurrences from the lists.
 
-Derived only from words/ (built by nt.py; see glosses.py for the order of
-the steps). Rerun after either.
+Derived only from words/ (built by nt.py, see glosses.py for the order of
+the steps; for the Brenton Septuagint by lxx_words.py). Rerun after either.
 
 Usage: python3 -I scripts/greek-bible/concordance.py [edition ...]
 """
@@ -22,14 +22,19 @@ from pathlib import Path
 # -I drops the script's directory from sys.path; nt.py and the key live beside us.
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from lexicon_key import lexicon_key, shard_of  # noqa: E402
+from lxx import OT  # noqa: E402
 from nt import BIBLE, BOOKS  # noqa: E402
 
-EDITIONS = ["nestle-1904", "sblgnt", "tischendorf", "byzantine"]
+# Edition → its books, in canonical order.
+EDITIONS = {
+    "nestle-1904": BOOKS, "sblgnt": BOOKS, "tischendorf": BOOKS, "byzantine": BOOKS,
+    "brenton": OT,
+}
 
 
 def concordance(edition: str) -> dict[str, dict[str, dict[str, list]]]:
     shards: dict[str, dict[str, dict[str, list]]] = {}
-    for slug, *_ in BOOKS:
+    for slug, *_ in EDITIONS[edition]:
         words = json.loads((BIBLE / f"greek-{edition}" / "words" / f"{slug}.json").read_text(encoding="utf-8"))
         for chapter in sorted(words, key=int):
             for verse in sorted(words[chapter], key=int):
