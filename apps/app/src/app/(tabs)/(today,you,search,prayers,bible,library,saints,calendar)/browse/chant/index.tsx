@@ -21,7 +21,7 @@ import { ChantWeek } from '@/features/chant/ChantWeek'
 import { chantBookEntries } from '@/features/chant/chants'
 import { useChantPlaces, useChantTexts } from '@/features/chant/hooks'
 import { chantBookHref, chantListHref } from '@/features/chant/routes'
-import { useThumbIndexDismissal } from '@/features/chant/ThumbIndex'
+import { ThumbIndexDismissal } from '@/features/chant/ThumbIndex'
 import { BookCover } from '@/features/covers'
 import { type BlockTone, blockInk, jewelTones } from '@/features/explore/bgColor'
 import { localizeContent } from '@/lib/i18n'
@@ -46,8 +46,6 @@ export default function ChantLibraryScreen() {
   const bottomClearance = useBottomClearance()
   const catalogVersion = useCatalogVersion()
   const [focused, setFocused] = useState(false)
-  // This page is the one the Acervo's door zooms open; its books carry a thumb index.
-  useThumbIndexDismissal()
   const [query, setQuery] = useState('')
   const searching = focused || query.length > 0
   const typed = useDeferredValue(query.trim())
@@ -131,6 +129,8 @@ export default function ChantLibraryScreen() {
   return (
     <YStack flex={1} backgroundColor="$background">
       <Stack.Screen options={{ title: t('chant.library') }} />
+      {/* This page is the one the Acervo's door zooms open; its books carry a thumb index. */}
+      <ThumbIndexDismissal />
       <FlatList<SearchRow | BookEntry>
         style={{ flex: 1 }}
         contentContainerStyle={{
