@@ -8,7 +8,16 @@ import { lexiconKey } from './lexiconKey'
  * parsing (a Robinson code, see `morphology.ts`), one entry per word of the
  * verse as `text.split(/\s+/)` cuts it.
  */
-export type WordEntry = [lemma: string, morph: string, gloss?: string]
+export type WordEntry = [lemma: string, morph: string, gloss?: string, unchecked?: '?']
+
+/**
+ * The Septuagint's words were tagged by machine from two independent sources:
+ * where they disagree, or only one tagger saw the word, the entry says so,
+ * and the reader is told rather than shown a guess as fact.
+ */
+export function isUnchecked(entry: WordEntry | undefined) {
+  return entry?.[3] === '?'
+}
 
 export type Place = [bookId: string, chapter: number, verse: number]
 

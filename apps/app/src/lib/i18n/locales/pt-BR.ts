@@ -1051,6 +1051,9 @@ export default {
       occurs_one: 'uma vez nesta edição',
       occurs_other: '{{count}}× nesta edição',
       notInLexicon: '{{lexicon}} não traz esta palavra.',
+      unchecked:
+        'Não verificada: os etiquetadores automáticos discordam sobre esta palavra, ou só um deles a leu.',
+      uncheckedShort: 'não verificada',
       more_one: 'Mostrar mais 1',
       more_other: 'Mostrar mais {{count}}',
       tabs: {

@@ -1047,6 +1047,9 @@ export default {
       occurs_one: 'once in this edition',
       occurs_other: '{{count}}× in this edition',
       notInLexicon: '{{lexicon}} has no entry for this word.',
+      unchecked:
+        'Not checked: the machine taggers disagree on this word, or only one of them read it.',
+      uncheckedShort: 'not checked',
       more_one: 'Show 1 more',
       more_other: 'Show {{count}} more',
       tabs: {

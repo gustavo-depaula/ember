@@ -76,10 +76,11 @@ export const translations: Translation[] = [
     name: 'Septuagint',
     language: 'GRC',
     description:
-      'The Greek Old Testament of the Apostles and the Fathers, in the text of Brenton’s edition (1851), after Codex Vaticanus.',
+      'The Greek Old Testament of the Apostles and the Fathers, in the text of Brenton’s edition (1851), after Codex Vaticanus. Its words are tagged from OpenScriptorium (CC BY 4.0) and GLAUx (CC BY-SA), with glosses from STEPBible.',
     numbering: 'lxx',
     corpus: 'greek-brenton',
     versification: true,
+    words: true,
     completes: 'N1904',
   },
   {

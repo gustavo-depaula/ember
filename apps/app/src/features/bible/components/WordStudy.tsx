@@ -18,7 +18,7 @@ import {
 } from '../hooks'
 import { describeParsing, parseRobinson } from '../morphology'
 import { transliterate } from '../transliterate'
-import type { Place, WordEntry } from '../words'
+import { isUnchecked, type Place, type WordEntry } from '../words'
 
 // The lexicons in the order the sheet offers them: the short NT glosses first,
 // Liddell, who knows the Septuagint's words too, after.
@@ -155,6 +155,11 @@ export function WordStudy({
             </Typography>
           </XStack>
           {short ? <Typography fontSize="$4">{short}</Typography> : undefined}
+          {isUnchecked(entry) ? (
+            <Typography variant="caption" fontSize="$2">
+              {t('bible.study.unchecked')}
+            </Typography>
+          ) : undefined}
           {parsing ? (
             <XStack alignItems="baseline" gap="$sm" flexWrap="wrap">
               <Typography variant="label" fontSize="$1" letterSpacing={1.5}>

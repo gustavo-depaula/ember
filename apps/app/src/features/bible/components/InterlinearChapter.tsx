@@ -7,7 +7,7 @@ import { Typography } from '@/components'
 import { useReadingFontSizePx, useReadingMargin, useReadingMaxWidth } from '@/hooks/useReadingStyle'
 import type { Verse } from '@/lib/content'
 
-import type { WordEntry } from '../words'
+import { isUnchecked, type WordEntry } from '../words'
 import type { StudiedWord } from './greekWords'
 
 /**
@@ -130,7 +130,8 @@ export function InterlinearChapter({
                       <Typography fontSize={small + 1}>{gloss || '—'}</Typography>
                       {parsing ? (
                         <Typography variant="reference" fontSize={small - 2}>
-                          {morph ?? ''}
+                          {/* A parsing the taggers did not agree on is asked, not stated. */}
+                          {`${morph ?? ''}${isUnchecked(entries[index]) ? ' ?' : ''}`}
                         </Typography>
                       ) : undefined}
                     </YStack>

@@ -24,7 +24,7 @@ import {
 import { type useChapterCommentary, useEntryVoices, type VersePaneState } from '../hooks'
 import { describeParsing, parseRobinson } from '../morphology'
 import { isReferenceKind } from '../references'
-import type { WordEntry } from '../words'
+import { isUnchecked, type WordEntry } from '../words'
 import { CommentaryVoices } from './CommentaryVoices'
 import { VerseReferenceList } from './VerseReferences'
 
@@ -410,6 +410,7 @@ function VerseWords({ tokens, entries, onStudy }: NonNullable<VersePaneProps['ve
                 {parsing ? (
                   <Typography variant="annotation" fontSize="$1">
                     {describeParsing(parsing, t)}
+                    {isUnchecked(entries[i]) ? ` · ${t('bible.study.uncheckedShort')}` : ''}
                   </Typography>
                 ) : undefined}
               </YStack>
