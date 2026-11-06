@@ -20,3 +20,8 @@ export const corpusLoth: LothSource = {
   parts: (bundle: string) => loadById<PartBundle>(`loth-parts/${bundle}`),
   extras: async () => (await loadById<Record<string, Block[]>>('loth-extras')) ?? {},
 }
+
+/** Which chant each text of the hours is sung to (`content/loth/chant.json`); none before a corpus that has it. */
+export async function lothChantPairs(): Promise<Record<string, string | string[]>> {
+  return (await loadById<Record<string, string | string[]>>('loth-chant')) ?? {}
+}

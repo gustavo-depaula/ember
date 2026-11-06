@@ -13,7 +13,7 @@ import { scoreSvg } from '../scoreSvg'
 
 const content = resolve(dirname(fileURLToPath(import.meta.url)), '../../../../../../content')
 // The library's scores and the Mass propers': every one has to engrave.
-const chants = ['chants', 'chant-propers'].flatMap((dir) =>
+const chants = ['chants', 'chant-propers', 'chant-hours'].flatMap((dir) =>
   readdirSync(resolve(content, dir))
     .filter((file) => file.endsWith('.gabc'))
     .map((file) => ({

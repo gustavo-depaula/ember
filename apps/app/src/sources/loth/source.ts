@@ -1,8 +1,9 @@
 import type { Hour } from '@ember/loth'
 import { getCatalog } from '@/content/contentIndex'
 import type { Primitive } from '@/content/primitives'
-import { corpusLoth } from '@/lib/loth/loaders'
+import { corpusLoth, lothChantPairs } from '@/lib/loth/loaders'
 import type { ContentSource, SourceFetchContext } from '../types'
+import { withChant } from './chant'
 import { lothHour } from './hour'
 
 // The practice's hour ids, which are also the ones its other source takes.
@@ -26,7 +27,7 @@ export function lothHourSource(elsewhere: ContentSource<Primitive | Primitive[]>
     id: 'producer/loth-hour',
     // The corpus is the input: a rebuilt corpus is a new version.
     get version() {
-      return `11:${getCatalog().generated}`
+      return `12:${getCatalog().generated}`
     },
     prefsDeps: ['lang' as const],
     dateScoped: true,
@@ -35,7 +36,11 @@ export function lothHourSource(elsewhere: ContentSource<Primitive | Primitive[]>
       const hour = hourOf[id]
       if (!hour) throw new Error(`Liturgy of the Hours: unknown hour ${JSON.stringify(id)}`)
       if (ctx.prefs.lang !== 'pt-BR') return ctx.sources.fetch(elsewhere, { hour: id })
-      return lothHour(ctx.date, hour, corpusLoth)
+      const [primitives, pairs] = await Promise.all([
+        lothHour(ctx.date, hour, corpusLoth),
+        lothChantPairs(),
+      ])
+      return withChant(primitives, pairs)
     },
   }
 }
