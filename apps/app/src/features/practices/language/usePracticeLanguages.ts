@@ -18,8 +18,8 @@ import {
 } from '@/lib/practiceLanguages'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
-// Wide enough for two columns of prayer: a tablet, a desktop window, or a
-// phone on its side where the app turns with it.
+// Wide enough for two columns of prayer: a phone on its side (the prayer page
+// turns, `useTurnsWhileFocused`), a tablet, a desktop window.
 const columnsMinWidth = 640
 
 function useDefaults(): LanguageDefaults {

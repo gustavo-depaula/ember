@@ -4,7 +4,7 @@
     "slug": "ember",
     "scheme": "ember",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
     "backgroundColor": "#0E0D0C",
@@ -103,6 +103,8 @@
       "@react-native-community/datetimepicker",
       "./plugins/withAndroidTheme",
       "./plugins/withAndroidGradleMemory",
+      "./plugins/withPortraitActivity",
+      ["expo-screen-orientation", { "initialOrientation": "PORTRAIT_UP" }],
       [
         "expo-splash-screen",
         {

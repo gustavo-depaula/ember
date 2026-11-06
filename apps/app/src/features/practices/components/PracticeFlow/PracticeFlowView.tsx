@@ -34,6 +34,7 @@ import { useReadingMargin } from '@/hooks/useReadingStyle'
 import { useStableToday, useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
+import { useTurnsWhileFocused } from '@/lib/screenOrientation'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import { usePractice } from './hooks/usePractice'
 import type { usePracticeCompletion } from './hooks/usePracticeCompletion'
@@ -156,6 +157,8 @@ function PracticeReady({
   // Runtime for lazily preprocessing a select branch the user switches to.
   const queryClient = useQueryClient()
   const page = usePracticePageLanguage(manifest)
+  // On its side the page sets its two languages in columns.
+  useTurnsWhileFocused()
   const contentLanguage = page.primary
   const translation = usePreferencesStore((s) => s.translation)
   const jurisdiction = usePreferencesStore((s) => s.jurisdiction)
