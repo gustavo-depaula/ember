@@ -55,3 +55,23 @@ isaias 8:23 = 9:1
 # jonas 2: the Clementine's chapter 1 ends at 16, and 2:1 is the fish, as in the
 # Hebrew (SIL sends 2:1 to 1:17)
 jonas 2:1-11 = 2:1-11
+
+# The 58 verses the text check left weak, each read beside the Douay: 52 are
+# right (a boundary the Douay moves by a clause; the verse is kept where most of
+# it stands). These six were not:
+# exodus 38: the Vulgate tells the census before the silver — the half-shekel
+# of the 603,550 numbered (Hebrew 26) is its 25, the hundred talents (25) its 26
+exodus 38:25 = 38:26
+exodus 38:26 = 38:25
+# leviticus 15: the Vulgate makes a verse (20) of "every one that toucheth her",
+# the end of the Hebrew 19, so her bed, its touching and her seat run one later
+leviticus 15:20-22 = 15:21-23
+# deuteronomy 6: "Take heed lest thou forget the Lord" is the Vulgate's 13; its
+# 12 is the end of the Hebrew 11 ("and thou shalt have eaten and be full")
+deuteronomy 6:12 = 6:13
+# psalms 109 (Vulgate 108): "he loved cursing" and "he put on cursing like a
+# garment" are both the Vulgate's 18; its 16–17 divide the Hebrew 16
+psalms 109:17-18 = 108:18
+# osee 6: the Vulgate's 6:1 opens with the end of the Hebrew 5:15, so "he will
+# revive us after two days" and "let us know the Lord" are both its 6:3
+osee 6:2-3 = 6:3
