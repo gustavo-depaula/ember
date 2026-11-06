@@ -1,11 +1,11 @@
 [
 	{
 		"id": "tbesh",
-		"name": "Translators Brief lexicon of Extended Strongs for Hebrew",
+		"name": "Translators Brief lexicon of Extended Strongs for Hebrew (glosses)",
 		"author": "Tyndale House Cambridge / STEPBible.org",
-		"year": 2024,
+		"year": 2026,
 		"licence": "CC-BY-4.0",
-		"attribution": "TBESH, data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0).",
+		"attribution": "Glosses and word classes from TBESH, data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0). Its definitions, from Online Bible's Abridged BDB, are not included.",
 		"url": "https://github.com/STEPBible/STEPBible-Data",
 		"entries": 11682
 	},

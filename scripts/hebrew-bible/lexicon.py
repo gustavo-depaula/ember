@@ -8,7 +8,12 @@ Sources (each licence read in the repo it comes from):
     TBESH   github.com/STEPBible/STEPBible-Data Lexicons/"TBESH - Translators
             Brief lexicon of Extended Strongs for Hebrew - STEPBible.org CC BY":
             CC BY 4.0, "Data created by www.STEPBible.org based on work at
-            Tyndale House Cambridge". A short gloss and definition per dStrong.
+            Tyndale House Cambridge". Per dStrong: the Hebrew form, the gloss
+            and the grammatical class, which its field notes say "were created
+            by Tyndale scholars". NOT its "Meaning" column: those definitions
+            "are based on the Abridged BDB by Online Bible, (c) Larry Pierce ...
+            Permission should be gained from Online Bible before these are
+            applied in any project", which the CC BY data does not grant.
     BDB     github.com/openscriptures/HebrewLexicon BrownDriverBriggs.xml:
             Brown, Driver & Briggs, A Hebrew and English Lexicon of the Old
             Testament (1906), public domain; the markup CC BY 4.0 (readme.md:
@@ -27,7 +32,7 @@ index splits a number in two, STEP's letter, lowered, is the index's `aug`
 letter (prototype-verified on the showcase words).
 
 Writes:
-    tbesh/<shard>.json     {dStrong: {"lemma", "x", "gloss", "pos", "def"}}
+    tbesh/<shard>.json     {dStrong: {"lemma", "x", "gloss", "pos"}}
     bdb/<shard>.json       {dStrong: {"lemma", "x", "pos", "gloss", "body"}}
     strongs/<shard>.json   {dStrong: {"lemma", "x", "pron", "body"}}
     roots.json             {dStrong: root id}
@@ -36,8 +41,8 @@ Writes:
     sources.json           the three lexicons, with licences and credits
 
 "x" is the SBL academic transliteration (the index's, else Strong's), "pos"
-the index's part of speech (N, V, Np, ...). TBESH's "def" keeps its few tags
-(<br>, <i>, <b>). A "body" is the entry as structured text: a list of
+the index's part of speech (N, V, Np, ...), or for TBESH its own class
+("H:N-M": language, type, gender, name kind). A "body" is the entry as structured text: a list of
 paragraphs {"n"?: sense label, "d": depth, "r": runs}, each run [kind, text]
 or ["ref", text, osisRef], kind one of t (text), he (Hebrew), def, pos, stem,
 asp, em, f (a foreign word BDB could not print: "Syriac", "Arabic").
@@ -249,7 +254,7 @@ def main(src: Path) -> None:
         t = tbesh.get(d)
         x = (ent or {}).get("x") or ""
         if t:
-            shards["tbesh"][sh][d] = {"lemma": t["lemma"], "x": x or t["x"], "gloss": t["gloss"], "pos": t["pos"], "def": t["def"]}
+            shards["tbesh"][sh][d] = {"lemma": t["lemma"], "x": x or t["x"], "gloss": t["gloss"], "pos": t["pos"]}
         if ent and ent["bdb"] and ent["bdb"] in bdb:
             shards["bdb"][sh][d] = {
                 "lemma": ent["w"],
@@ -315,9 +320,9 @@ def main(src: Path) -> None:
 
     sources = [
         {
-            "id": "tbesh", "name": "Translators Brief lexicon of Extended Strongs for Hebrew",
-            "author": "Tyndale House Cambridge / STEPBible.org", "year": 2024, "licence": "CC-BY-4.0",
-            "attribution": "TBESH, data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0).",
+            "id": "tbesh", "name": "Translators Brief lexicon of Extended Strongs for Hebrew (glosses)",
+            "author": "Tyndale House Cambridge / STEPBible.org", "year": 2026, "licence": "CC-BY-4.0",
+            "attribution": "Glosses and word classes from TBESH, data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0). Its definitions, from Online Bible's Abridged BDB, are not included.",
             "url": "https://github.com/STEPBible/STEPBible-Data", "entries": sum(len(v) for v in shards["tbesh"].values()),
         },
         {
