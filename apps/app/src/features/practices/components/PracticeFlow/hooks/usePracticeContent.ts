@@ -42,6 +42,7 @@ export function usePracticeContent(
   const { primary: contentLanguage, secondary: secondaryLanguage } =
     usePracticePageLanguage(manifest)
   const jurisdiction = usePreferencesStore((s) => s.jurisdiction)
+  const vernacular = usePreferencesStore((s) => s.contentLanguage)
   const numbering = getPsalmNumbering(translation)
 
   const now = useViewedDay()
@@ -57,6 +58,7 @@ export function usePracticeContent(
       programDay ?? null,
       contentLanguage,
       secondaryLanguage ?? null,
+      vernacular,
       jurisdiction ?? null,
       translation,
       numbering,
@@ -92,6 +94,7 @@ export function usePracticeContent(
           translation,
           jurisdiction,
           secondaryLang: secondaryLanguage,
+          vernacular,
         },
         date: now,
         programDay,

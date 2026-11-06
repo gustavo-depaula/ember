@@ -35,12 +35,17 @@ const elsewhere: ContentSource = {
 }
 const latin = async (bundle: string) => read(`latin/${bundle}.json`) as never
 
-async function hourOn(iso: string, hour: string, secondaryLang?: string) {
+async function hourOn(
+  iso: string,
+  hour: string,
+  secondaryLang?: string,
+  prefs: { lang?: string; jurisdiction?: string; vernacular?: string } = {},
+) {
   const source = lothHourSource(elsewhere, latin)
   const [y, m, d] = iso.split('-').map(Number)
   const ctx = {
     date: new Date(y, m - 1, d, 12),
-    prefs: { lang: 'pt-BR', translation: '', secondaryLang },
+    prefs: { lang: 'pt-BR', translation: '', secondaryLang, ...prefs },
     params: { hour },
     sources: {
       fetch: (s: ContentSource, params: Record<string, unknown>) => s.fetch({ params } as never),
@@ -77,6 +82,29 @@ describe('the Brazilian hours with the Latin beside them', () => {
   it('sets the Latin only beside a reader who asks for it', async () => {
     expect(said(await hourOn('2026-07-15', 'lauds')).some((t) => t.secondary)).toBe(false)
     expect(said(await hourOn('2026-07-15', 'lauds', 'en-US')).some((t) => t.secondary)).toBe(false)
+  })
+
+  it("prays the Brazilian edition's office in Latin for a reader of Brazil", async () => {
+    // 15 July 2026, Saint Bonaventure: the corpus's Latin, not iBreviary's.
+    for (const prefs of [
+      { lang: 'la', jurisdiction: 'BR' },
+      { lang: 'la', vernacular: 'pt-BR' },
+    ]) {
+      const texts = said(await hourOn('2026-07-15', 'lauds', undefined, prefs), 'celebration')
+      expect(texts.some((t) => t.primary.startsWith('Da, quǽsumus'))).toBe(true)
+      expect(texts.every((t) => t.secondary === undefined)).toBe(true)
+    }
+    // Followed by English, still the Brazilian office in Latin.
+    const english = said(
+      await hourOn('2026-07-15', 'lauds', 'la', { lang: 'en-US', jurisdiction: 'BR' }),
+      'celebration',
+    )
+    expect(english.some((t) => t.primary.startsWith('Da, quǽsumus'))).toBe(true)
+    // A reader of another calendar and language prays iBreviary's.
+    const elsewhereOut = said(
+      await hourOn('2026-07-15', 'lauds', undefined, { lang: 'la', vernacular: 'en-US' }),
+    )
+    expect(elsewhereOut.map((t) => t.primary)).toEqual(['from elsewhere'])
   })
 
   it('gives each office of a memorial its own Latin, offline', async () => {

@@ -12,6 +12,8 @@ export type ProducerPrefs = {
   jurisdiction?: string
   // The language set beside the content language, if the reader has one.
   secondaryLang?: string
+  // The reader's own language, where the page is prayed in another (Latin).
+  vernacular?: string
 }
 
 export type SourceAccessor = {
