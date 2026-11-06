@@ -7,7 +7,7 @@ import {
 } from '@/features/plan-of-life/timeBlocks'
 
 export type EntryStatus = 'done' | 'pending' | 'late'
-export type DayStanding = 'done' | 'ontrack' | 'delayed' | 'atrisk'
+export type DayStanding = 'done' | 'ontrack' | 'delayed' | 'atrisk' | 'missed'
 export type PlanEntry = { id: string; name: string; block: TimeBlock; status: EntryStatus }
 
 // How long past its time a practice may wait before the day counts as
@@ -29,7 +29,8 @@ export function owedAt(block: TimeBlock, time: string | null | undefined): numbe
  * ideal or extra one left unprayed never counts against the day. An essential
  * practice is late an hour past when it is owed (owedAt). The day is on track
  * until one has waited that hour (delayed), and at risk once one has waited
- * three.
+ * three. A day that is `over` with an essential practice left unprayed was
+ * missed.
  */
 export function planStanding(
   blocks: {
@@ -38,6 +39,7 @@ export function planStanding(
   }[],
   doneIds: Set<string>,
   now: number,
+  over = false,
 ): { entries: PlanEntry[]; done: number; standing: DayStanding } {
   let worst = -Infinity
   let done = 0
@@ -52,11 +54,12 @@ export function planStanding(
       return { id, name, block, status: overdue >= delayedAfter ? 'late' : 'pending' }
     }),
   )
-  return { entries, done, standing: standingOf(done === entries.length, worst) }
+  return { entries, done, standing: standingOf(done === entries.length, worst, over) }
 }
 
-function standingOf(allDone: boolean, worstOverdue: number): DayStanding {
+function standingOf(allDone: boolean, worstOverdue: number, over: boolean): DayStanding {
   if (allDone) return 'done'
+  if (over && worstOverdue > -Infinity) return 'missed'
   if (worstOverdue >= atRiskAfter) return 'atrisk'
   return worstOverdue >= delayedAfter ? 'delayed' : 'ontrack'
 }
@@ -92,11 +95,12 @@ export function hourOfDay(
   date: string,
   today: string,
   clockMinute: number,
-): { now: number; current: TimeBlock } {
-  if (date > today) return { now: 0, current: 'morning' }
-  if (date < today) return { now: Number.MAX_SAFE_INTEGER, current: 'evening' }
+): { now: number; current: TimeBlock; over: boolean } {
+  if (date > today) return { now: 0, current: 'morning', over: false }
+  if (date < today) return { now: Number.MAX_SAFE_INTEGER, current: 'evening', over: true }
   return {
     now: dayMinutes(clockMinute),
     current: getCurrentTimeBlock(Math.floor(clockMinute / 60)),
+    over: false,
   }
 }

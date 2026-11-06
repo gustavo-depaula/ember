@@ -25,13 +25,14 @@ const shownEntries = 5
 
 // The heading band is the day's light: green on track, gold once an essential
 // practice has waited well past its time, red once one is at risk of being
-// missed. A day with nothing to pray — no plan, or a plan that leaves the day
+// missed, or on a day gone by, was. A day with nothing to pray — no plan, or a plan that leaves the day
 // empty — takes the red too, to be noticed.
 const bandTone: Record<DayStanding, BlockTone> = {
   done: jewelTones.green,
   ontrack: jewelTones.green,
   delayed: jewelTones.gold,
   atrisk: jewelTones.red,
+  missed: jewelTones.red,
 }
 
 /**
@@ -48,7 +49,7 @@ export function PlanOfLifeCard({
   onPress: () => void
 }) {
   const { t } = useTranslation()
-  const { now, current } = hourOfDay(selectedDate, anchorDate, useMinuteOfDay())
+  const { now, current, over } = hourOfDay(selectedDate, anchorDate, useMinuteOfDay())
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: pinnedFlows re-derives pinned slots' names as their flows load
   const blocks = useMemo(
@@ -65,9 +66,9 @@ export function PlanOfLifeCard({
     [todaySlots, t, pinnedFlows],
   )
   const { day, shown } = useMemo(() => {
-    const day = planStanding(blocks, completedIds, now)
+    const day = planStanding(blocks, completedIds, now, over)
     return { day, shown: entriesAround(day.entries, current, shownEntries) }
-  }, [blocks, completedIds, now, current])
+  }, [blocks, completedIds, now, current, over])
   const total = day.entries.length
   const noPlan = slots.length === 0
   const tone = total > 0 ? bandTone[day.standing] : jewelTones.red
