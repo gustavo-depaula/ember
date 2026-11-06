@@ -1,6 +1,7 @@
+import { usePreventZoomTransitionDismissal } from 'expo-router'
 import { useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { type GestureResponderEvent, StyleSheet, View } from 'react-native'
+import { type GestureResponderEvent, StyleSheet, useWindowDimensions, View } from 'react-native'
 import { Text, YStack } from 'tamagui'
 
 import { Typography } from '@/components'
@@ -13,6 +14,18 @@ import { toneOfGroup } from './library'
 
 const width = 36
 const seal = 150
+
+/**
+ * Keeps the iOS drag-to-close of a zoomed page off the index's strip, and
+ * leaves it everywhere else. The chant library opens with a zoom from the
+ * Acervo, and that zoom's dismissal reaches through every page pushed above it:
+ * a thumb running down the tabs closed the whole library. It must be called
+ * from the page the zoom opened, whose dismissal it is.
+ */
+export function useThumbIndexDismissal(): void {
+  const { width: screen } = useWindowDimensions()
+  usePreventZoomTransitionDismissal({ unstable_dismissalBoundsRect: { maxX: screen - width - 12 } })
+}
 
 /**
  * A printed missal's thumb tabs, down the page's edge: a touch or a drag lands

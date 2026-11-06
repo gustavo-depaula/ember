@@ -15,7 +15,7 @@ import { chantPageHref } from './routes'
 
 const todayWidth = 250
 const dayWidth = 150
-const height = 178
+const height = 204
 
 /**
  * The week's Masses, each a card in the day's jewel tone: today wide, with the
@@ -77,9 +77,8 @@ export function ChantWeek() {
                 <Typography
                   fontFamily="$title"
                   fontSize={today ? '$3' : '$2'}
-                  lineHeight={today ? 23 : 20}
                   color={blockInk}
-                  numberOfLines={today ? 2 : 4}
+                  numberOfLines={today ? 2 : 3}
                 >
                   {title}
                 </Typography>

@@ -223,3 +223,6 @@ export function navigate(href: string): void {
   const match = matchRoute(path)
   useRouterStore.getState().setRoute(path, { ...query, ...(match?.params ?? {}) })
 }
+
+// A zoom's dismissal is native to iOS; there is none to bound here.
+export function usePreventZoomTransitionDismissal(): void {}
