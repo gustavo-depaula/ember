@@ -95,7 +95,7 @@ export function usePracticeCompletion(
               router.back()
               // After the pop, so the rating sheet rises over Today rather than
               // over the prayer that was just closed.
-              setTimeout(() => void askForReviewIfDue(), 1200)
+              setTimeout(() => void askForReviewIfDue(2), 1200)
             } catch (err) {
               console.error('[practice] post-completion sync failed', err)
               confirm({
