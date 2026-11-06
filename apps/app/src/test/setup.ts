@@ -290,9 +290,11 @@ vi.mock('expo-haptics', () => ({
   NotificationFeedbackType: { Success: 'success', Warning: 'warning', Error: 'error' },
 }))
 
-// Turning the prayer page: no screen turns here, and the guard it imports from
-// `expo` pulls in the dev client's async-require, which renderApp can't load.
-vi.mock('@/lib/screenOrientation', () => ({ useTurnsWhileFocused: () => {} }))
+// The app takes one thing from `expo`: the guard for a native module a build may
+// lack (chant playback, the rating prompt, the camera, turning the page). The
+// real package index loads the dev client's async-require, which no test can,
+// and no native module is here.
+vi.mock('expo', () => ({ requireOptionalNativeModule: () => null }))
 
 // Native audio: a player that plays nothing (chant melodies, creators' audio).
 vi.mock('expo-audio', () => ({
