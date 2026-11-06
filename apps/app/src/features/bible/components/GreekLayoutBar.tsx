@@ -1,5 +1,5 @@
 import { ChevronDown } from 'lucide-react-native'
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { useTheme, View, XStack, YStack } from 'tamagui'
@@ -44,8 +44,18 @@ function Toggle({ label, on, onPress }: { label: string; on: boolean; onPress: (
 export function GreekLayoutBar() {
   const { t, i18n } = useTranslation()
   const theme = useTheme()
-  const layout = useBibleStore((s) => s.greekLayout)
-  const setLayout = useBibleStore((s) => s.setGreekLayout)
+  const stored = useBibleStore((s) => s.greekLayout)
+  const setStored = useBibleStore((s) => s.setGreekLayout)
+  // The bar answers from its own copy, at once; the page, which may take a
+  // good part of a second to set a thousand words again, follows once the
+  // bar's frame has painted. A store update renders synchronously, so
+  // without the copy the switch would wait on the page.
+  const [layout, setLayout] = useState(stored)
+  useEffect(() => setLayout(stored), [stored])
+  function choose(change: Partial<GreekLayout>) {
+    setLayout((shown) => ({ ...shown, ...change }))
+    requestAnimationFrame(() => setTimeout(() => setStored(change), 0))
+  }
   const [choosing, setChoosing] = useState(false)
   // Beside the Greek, any edition that is not itself Greek.
   const editions = translationsFor(i18n.language).filter((tr) => tr.language !== 'GRC')
@@ -61,7 +71,7 @@ export function GreekLayoutBar() {
           a11yLabel: t('a11y.readingLayout', { layout: t(`bible.layout.${mode}`) }),
         }))}
         selected={layout.mode}
-        onSelect={(mode) => setLayout({ mode })}
+        onSelect={(mode) => choose({ mode })}
         bleed
       />
 
@@ -70,12 +80,12 @@ export function GreekLayoutBar() {
           <Toggle
             label={t('bible.layout.lemma')}
             on={layout.lemma}
-            onPress={() => setLayout({ lemma: !layout.lemma })}
+            onPress={() => choose({ lemma: !layout.lemma })}
           />
           <Toggle
             label={t('bible.layout.parsing')}
             on={layout.parsing}
-            onPress={() => setLayout({ parsing: !layout.parsing })}
+            onPress={() => choose({ parsing: !layout.parsing })}
           />
         </XStack>
       ) : undefined}
@@ -105,7 +115,7 @@ export function GreekLayoutBar() {
                   <Pressable
                     key={tr.code}
                     onPress={() => {
-                      setLayout({ parallel: tr.code })
+                      choose({ parallel: tr.code })
                       setChoosing(false)
                     }}
                     accessibilityRole="radio"
@@ -130,7 +140,7 @@ export function GreekLayoutBar() {
               { id: 'columns', label: t('bible.layout.columns') },
             ]}
             selected={layout.columns ? 'columns' : 'rows'}
-            onSelect={(id) => setLayout({ columns: id === 'columns' })}
+            onSelect={(id) => choose({ columns: id === 'columns' })}
             bleed
           />
         </YStack>

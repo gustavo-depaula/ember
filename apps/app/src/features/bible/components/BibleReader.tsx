@@ -200,21 +200,30 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
     scrollRef.current?.scrollTo({ y: Math.max(0, chapterTop.current + y - verseRestOffset) })
   }
 
-  function handleVersePress(verse: number, y: number) {
-    if (verse === commentedVerse) {
-      closeCommentary()
-      return
-    }
-    setStudy(undefined)
-    unrevealed.current = undefined
-    setCommentedVerse(verse)
-    reveal(y)
-  }
+  // Stable, like the word handlers below, so a verse is drawn again only when
+  // what it shows changes: an interlinear chapter is a thousand words.
+  const commentedRef = useRef(commentedVerse)
+  commentedRef.current = commentedVerse
+  // biome-ignore lint/correctness/useExhaustiveDependencies: `reveal` reads only refs
+  const handleVersePress = useCallback(
+    (verse: number, y: number) => {
+      if (verse === commentedRef.current) {
+        closeCommentary()
+        return
+      }
+      setStudy(undefined)
+      unrevealed.current = undefined
+      setCommentedVerse(verse)
+      reveal(y)
+    },
+    [closeCommentary],
+  )
 
-  function handleVerseLayout(verse: number, y: number) {
+  // biome-ignore lint/correctness/useExhaustiveDependencies: `reveal` reads only refs
+  const handleVerseLayout = useCallback((verse: number, y: number) => {
     verseTops.current.set(verse, y)
     if (unrevealed.current === verse) reveal(y)
-  }
+  }, [])
 
   function turnTo(place: Place) {
     setStudy(undefined)
