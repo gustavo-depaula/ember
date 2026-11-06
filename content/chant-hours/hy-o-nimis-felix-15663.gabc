@@ -5,20 +5,6 @@ transcriber: Jörg Hudelmaier;
 book: Liber Hymnarius, 1983, p. 386;
 gregobase: 15663;
 %%
-initial-style: 1;
-name: O nimis felix;
-book: Liber Hymnarius, p. 386;
-occasion: In Nativitate S. Ioannis Baptistae;
-office-part: Ad Laudes H;
-user-notes: ;
-commentary: ;
-annotation: 4;
-centering-scheme: english;
-fontsize: 12;
-font: OFLSortsMillGoudy;
-height: 11;
-width: 4.5;
-%%
 (c4)O(e) ni(d)mis(efwg) fe(gh)lix(g.) (,) me(h)ri(g)tí(fe)que(de) cel(e.)si,(e.) (;)
 né(e_)sci(d)ens(e) la(ed)bem(c.) (,) ní(e)ve(f)i(gf) pu(de)dó(e.)ris,(e.) (:)
 prǽ(ghwij)po(hg)tens(hi) mar(hg)tyr(g_h) e(h)re(gf)mí(g)que(gf) cul(e)tor,(e_h) (,)

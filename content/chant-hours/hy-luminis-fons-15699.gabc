@@ -4,11 +4,6 @@ mode: 1;
 book: Liber Hymnarius, 1983, p. 223;
 gregobase: 15699;
 %%
-name:Luminis fons, lux;
-office-part:Hymnus;
-author:Alcuinus, Flaccus Albinus;
-mode:1;
-%%
 (c4) Lú(d_)mi(c)nis(d) fons,(fg) lux(f'_) (,)
 et(g) o(h)rí(g)go(f) lu(g.)cis,(h.) (;)
 tu(gh) pi(i)us(h) nos(gf)tris(e'_) (,)

@@ -5,20 +5,6 @@ transcriber: Joerg Hudelmaier;
 book: Liber Hymnarius, 1983, p. 191;
 gregobase: 15608;
 %%
-initial-style: 1;
-name: Splendor paternae gloriae;
-book: Liber Hymnarius, p. 191;
-occasion: Tempore Per Annum Feriis II Hebd. I & III;
-office-part: Ad Laudes matutinas H;
-user-notes: ;
-commentary: ;
-annotation: 1;
-centering-scheme: english;
-fontsize: 12;
-font: OFLSortsMillGoudy;
-height: 11;
-width: 4.5;
-%%
 (c4)Splen(h)dor(h) pa(h)tér(h)næ(h) gló(hi)ri(h)æ,(h'_) (,)
 de(h) lu(h)ce(h) lu(g)cem(f) pró(gh)fe(g)rens,(g.) (;)
 lux(f) lu(h)cis(h) et(g) fons(f) lú(g)mi(g)nis,(h'_) (,)

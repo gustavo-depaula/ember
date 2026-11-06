@@ -5,20 +5,6 @@ transcriber: Joerg Hudelmaier;
 book: Liber Hymnarius, 1983, p. 194;
 gregobase: 15610;
 %%
-initial-style: 1;
-name: Rerum Deus tenax vigor;
-book: Liber Hymnarius, p. 194;
-occasion: In Feriis Per Annum;
-office-part: Ad Nonam H;
-user-notes: ;
-commentary: ;
-annotation: D;
-centering-scheme: english;
-fontsize: 12;
-font: OFLSortsMillGoudy;
-height: 11;
-width: 4.5;
-%%
 (c4)Re(h)rum,(h) De(h)us,(h) te(h)nax(h) vi(g)gor,(g'_) (,)
 im(h)mó(h)tus(h) in(h) te(g) pér(h)ma(h)nens,(h.) (;)
 lu(h)cis(h) di(h)úr(g)næ(f) tém(g)po(f)ra(e'_) (,)

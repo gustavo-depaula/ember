@@ -5,20 +5,6 @@ transcriber: Joerg Hudelmaier;
 book: Liber Hymnarius, 1983, p. 193;
 gregobase: 15609;
 %%
-initial-style: 1;
-name: Rector potens verax Deus;
-book: Liber Hymnarius, p. 193;
-occasion: In Feriis Per Annum;
-office-part: Ad Sextam H;
-user-notes: ;
-commentary: ;
-annotation: D;
-centering-scheme: english;
-fontsize: 12;
-font: OFLSortsMillGoudy;
-height: 11;
-width: 4.5;
-%%
 (c4)Re(h)ctor(h) po(h)tens,(h) ve(h)rax(h) De(g)us,(g'_) (,)
 qui(h) tém(h)pe(h)ras(h) re(g)rum(h) vi(h)ces,(h.) (;)
 splen(h)dó(h)re(h) ma(g)ne(f) ín(g)stru(f)is(e'_) (,)

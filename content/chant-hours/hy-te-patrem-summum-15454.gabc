@@ -5,20 +5,6 @@ transcriber: Joerg Hudelmaier;
 book: Liber Hymnarius, 1983, p. 107;
 gregobase: 15454;
 %%
-initial-style: 1;
-name: Te Patrem summum;
-book: Liber Hymnarius p. 107;
-occasion: Sanctissimae Trinitatis;
-office-part: Ad Officium lectionis H;
-user-notes: ;
-commentary: ;
-annotation: 1;
-centering-scheme: english;
-fontsize: 12;
-font: OFLSortsMillGoudy;
-height: 11;
-width: 4.5;
-%%
 (c4)TE(h_) Pa(g)trem(h) sum(gf)mum(e.) (,) ge(e)ni(g)túm(e)que(f) Ver(e.)bum(d.) (;)
 Fla(d)men(d) ac(dh) San(h)ctum(h_g_j_) Dó(i)mi(h)num(g) fa(h)tén(gf)tur(e.) (:)
 ú(f_)ni(e)cum,(g) quot(ghGEf)quot(d.) (,) pa(e)ra(g)dís<i>i</i>(e) a(f)mœ(ed)nus(c'_) (,)

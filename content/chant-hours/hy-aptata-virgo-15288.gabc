@@ -5,20 +5,6 @@ transcriber: Joerg Hudelmaier;
 book: Liber Hymnarius, 1983, p. 308;
 gregobase: 15288;
 %%
-initial-style: 1;
-name: Aptata virgo;
-book: Liber Hymnarius, p. 308;
-occasion: Commune Unius Virginis;
-office-part: Ad Laudes H;
-user-notes: ;
-commentary: ;
-annotation: 8;
-centering-scheme: english;
-fontsize: 12;
-font: OFLSortsMillGoudy;
-height: 11;
-width: 4.5;
-%%
 (c4)Ap(g)tá(g)ta,(fd) vir(e)go,(f) lám(gh)pa(h)de(g'_) (,)
 ad(f) núp(g)ti(h)as(ji) in(hg)grés(hi)sa(hg) es(g.) (;)
 æ(j)tér(k)ni(i) re(j)gis(h) gló(j)ri(i)æ,(ghGF'_) (,)

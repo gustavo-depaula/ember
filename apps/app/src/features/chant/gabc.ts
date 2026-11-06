@@ -58,6 +58,8 @@ function engravableText(text: string): string {
       .replace(/<v>\\greheightstar<\/v>/g, '*')
       // The same in TeX's math mode: `$\star$`.
       .replace(/<v>\$\\star\$<\/v>/g, '*')
+      // The pilcrow an invitatory prints where its repeat begins: a sign for the cantor, not a word.
+      .replace(/<sp>\\P<\/sp>/g, '')
       // Any other verbatim TeX command is spacing (`\kern 6mm`, `\hspace`).
       .replace(/<v>\\[a-zA-Z]+[^<]*<\/v>/g, '')
       // A TeX command dressing a word (`\\textup{(Haec)}`): the word stays, undressed.

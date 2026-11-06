@@ -142,8 +142,11 @@ def rows(sql, table):
 
 
 def tidy(gabc):
-    """A score with Unix line ends, no trailing blanks and one final newline."""
-    lines = [line.rstrip() for line in gabc.replace('\r\n', '\n').replace('\r', '\n').split('\n')]
+    """A score with Unix line ends, no trailing blanks and one final newline,
+    without the copy of its own headers (`name:…;` lines and a `%%`) some
+    scores carry before their notes."""
+    gabc = re.sub(r'\A\s*(?:[\w-]+:[^\n]*\n)*\s*%%\s*\n', '', gabc.replace('\r\n', '\n').replace('\r', '\n'))
+    lines = [line.rstrip() for line in gabc.split('\n')]
     return '\n'.join(lines).strip() + '\n'
 
 
