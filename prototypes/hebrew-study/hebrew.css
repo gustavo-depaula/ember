@@ -1,0 +1,709 @@
+/* Hebrew on top of Ember's skin (ember.css, shared with the Greek prototypes).
+   Ezra SIL: SIL International, OFL 1.1 (fonts/EzraSIL-OFL.txt). Its letterforms
+   follow the Biblia Hebraica Stuttgartensia and it places every vowel and
+   cantillation mark. */
+
+@font-face {
+  font-family: "Ezra SIL";
+  src: url("fonts/EzraSIL.ttf") format("truetype");
+  font-display: block;
+}
+
+:root {
+  --hebrew: "Ezra SIL", "SBL Hebrew", serif;
+  /* Pointed Hebrew wants more size and more air than the Latin page: its
+     marks stand above and below the letters. */
+  --he-size: 25px;
+  --he-leading: 2;
+}
+
+[lang="he"] {
+  font-family: var(--hebrew);
+  font-feature-settings: "kern", "mark", "mkmk";
+}
+
+.text[lang="he"] {
+  direction: rtl;
+  padding: 4px 24px 0;
+}
+
+/* ---------- the reader's controls ---------- */
+
+.tabline {
+  display: flex;
+  gap: 22px;
+  padding: 0 24px;
+}
+
+.tab {
+  font-family: var(--heading);
+  font-size: 12px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--ink);
+  text-decoration: none;
+  min-height: 40px;
+  display: inline-flex;
+  align-items: center;
+  border-bottom: 2px solid transparent;
+}
+
+.tab[aria-selected="true"] {
+  color: var(--burgundy);
+  border-bottom-color: var(--burgundy);
+}
+
+/* Letters · Vowels · Chant: three stops on one hairline, the chosen dot filled. */
+.marks {
+  position: relative;
+  display: inline-flex;
+  gap: 0;
+  margin: 6px 24px 0;
+}
+
+.marks .stop {
+  position: relative;
+  z-index: 1;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  min-width: 64px;
+  min-height: 40px;
+  font-size: 15px;
+  color: var(--muted);
+}
+
+.marks .stop .dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--bg);
+  box-shadow: inset 0 0 0 1px var(--muted);
+  transition: background-color 0.2s, box-shadow 0.2s;
+}
+
+.marks .stop[aria-checked="true"] {
+  color: var(--ink);
+}
+
+.marks .stop[aria-checked="true"] .dot {
+  background: var(--burgundy);
+  box-shadow: none;
+}
+
+.marks .track {
+  position: absolute;
+  top: 4px;
+  left: 32px;
+  right: 32px;
+  height: 1px;
+  background: var(--rule);
+}
+
+/* ---------- the chapter head ---------- */
+
+.chapter-head .he-name {
+  display: block;
+  margin-top: 6px;
+  font-size: 22px;
+  color: var(--muted);
+}
+
+.chapter-head .he-name i {
+  font-family: var(--body);
+  font-size: 17px;
+}
+
+.chapter-head .vul {
+  font-size: 16px;
+  letter-spacing: 0.5px;
+}
+
+/* ---------- the page: prose ---------- */
+
+.para {
+  margin: 0 0 14px;
+  font-size: var(--he-size);
+  line-height: var(--he-leading);
+  text-align: justify;
+  text-align-last: right;
+}
+
+.text[lang="he"] .vn,
+.para[lang="he"] .vn {
+  font-family: var(--body);
+  font-size: 13px;
+  padding: 0 0 0 5px;
+  margin: 0 0 0 2px;
+  vertical-align: 6px;
+}
+
+.text[lang="he"] .vn::after,
+.para[lang="he"] .vn::after {
+  inset: -14px -14px -10px -6px;
+}
+
+/* A closed paragraph (setumah): the line goes on after a gap. */
+.setumah {
+  display: inline-block;
+  width: 3.2em;
+}
+
+.sof,
+.mq,
+.pq {
+  color: var(--muted);
+}
+
+/* A word read otherwise than it is written: the circle the scholarly
+   editions set over it. */
+.w.qere {
+  position: relative;
+}
+
+.w.qere::before {
+  content: "°";
+  position: absolute;
+  top: -0.85em;
+  left: 50%;
+  transform: translateX(-50%);
+  font-family: var(--body);
+  font-size: 15px;
+  color: var(--burgundy);
+}
+
+.w.selected {
+  box-shadow:
+    -3px 0 0 var(--wash),
+    3px 0 0 var(--wash);
+}
+
+.w.kin {
+  text-decoration: none;
+  background-image: radial-gradient(circle, var(--gold) 1px, transparent 1.4px);
+  background-size: 5px 3px;
+  background-repeat: repeat-x;
+  background-position: 0 100%;
+}
+
+/* ---------- the page: poetry ---------- */
+
+.poem {
+  position: relative;
+  font-size: 23px;
+  line-height: 1.8;
+  margin: 0 0 12px;
+}
+
+/* Each line hangs: a line too long for the measure wraps further in, so it
+   never reads as a new line of the poem. The verse number hangs in the
+   margin of the first. */
+.poem .line {
+  display: block;
+  padding-right: 66px;
+  text-indent: -40px;
+}
+
+.poem .line + .line {
+  text-indent: -26px;
+}
+
+/* text-indent is inherited: the number's own must be zero, or its digit is
+   pushed out past the margin. */
+.poem .vn {
+  position: absolute;
+  right: 0;
+  top: 2px;
+  text-indent: 0;
+}
+
+.passages a {
+  color: var(--blue);
+  text-decoration: none;
+}
+
+/* ---------- the sheet ---------- */
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: stretch;
+  gap: 0;
+  margin: 2px 0 6px;
+}
+
+.chip {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2px 10px 4px;
+  border-radius: 6px;
+  background: var(--wash);
+  color: var(--muted);
+  min-width: 44px;
+}
+
+.chip.main {
+  color: var(--ink);
+}
+
+.chip.on {
+  background: var(--burgundy);
+  color: var(--surface);
+}
+
+.chip-he {
+  font-size: 34px;
+  line-height: 1.45;
+}
+
+.chip-gl {
+  font-size: 14px;
+  line-height: 1.1;
+  direction: ltr;
+}
+
+.chip.on .implied {
+  color: inherit;
+  opacity: 0.75;
+}
+
+.joint {
+  width: 2px;
+}
+
+.word-sound {
+  font-style: italic;
+  font-size: 17px;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+
+.word-sound b {
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.word-sound .dot {
+  margin: 0 1px;
+  opacity: 0.6;
+}
+
+.he-lemma {
+  font-size: 30px;
+  font-weight: 400;
+  direction: rtl;
+}
+
+.why {
+  color: var(--muted);
+  font-style: italic;
+}
+
+.root-line {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  margin-top: 8px;
+  text-align: left;
+}
+
+.root-label {
+  font-family: var(--heading);
+  font-size: 11px;
+  letter-spacing: 1.8px;
+  text-transform: uppercase;
+  color: var(--burgundy);
+}
+
+.root-letters {
+  font-size: 24px;
+  direction: rtl;
+  letter-spacing: 2px;
+}
+
+.root-count {
+  font-size: 15px;
+  color: var(--blue);
+}
+
+.qere-box,
+.name-box {
+  margin: 8px 0 10px;
+  padding: 10px 14px;
+  background: var(--wash);
+  border-radius: 8px;
+  font-size: 16px;
+  line-height: 1.45;
+}
+
+.qere-box .tag {
+  display: inline-block;
+  width: 72px;
+  font-family: var(--heading);
+  font-size: 11px;
+  letter-spacing: 1.6px;
+  text-transform: uppercase;
+  color: var(--burgundy);
+}
+
+.qere-box .he {
+  font-size: 22px;
+  margin-right: 8px;
+}
+
+.qere-box p,
+.name-box p {
+  margin: 6px 0 0;
+  color: var(--ink);
+}
+
+.name-he {
+  font-size: 34px;
+  text-align: center;
+  letter-spacing: 6px;
+  color: var(--burgundy);
+}
+
+.fam {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  padding: 9px 24px;
+  border-bottom: 1px solid var(--rule);
+}
+
+.fam.here {
+  background: var(--wash);
+}
+
+.fam-he {
+  font-size: 24px;
+  min-width: 92px;
+  text-align: right;
+}
+
+.fam-mid {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.fam-x {
+  font-style: italic;
+  color: var(--muted);
+  font-size: 15px;
+}
+
+.fam-def {
+  font-size: 17px;
+}
+
+.fam-n {
+  font-size: 15px;
+  color: var(--muted);
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+.occ-intro .he,
+.entry .he {
+  font-size: 1.25em;
+}
+
+.entry.bdb .def {
+  font-weight: 600;
+}
+
+.entry.bdb .pos {
+  font-style: italic;
+  color: var(--muted);
+}
+
+.entry.bdb .ref {
+  color: var(--blue);
+  white-space: nowrap;
+}
+
+.entry.bdb .sense {
+  margin: 6px 0;
+}
+
+.entry.bdb.clip {
+  max-height: 340px;
+  overflow: hidden;
+  mask-image: linear-gradient(to bottom, #000 70%, transparent);
+}
+
+.entry-head[lang="he"] {
+  font-size: 26px;
+  direction: rtl;
+  text-align: right;
+}
+
+.tbesh {
+  font-size: 17px;
+  line-height: 1.5;
+}
+
+.he-line {
+  font-size: 21px;
+  line-height: 1.7;
+  text-align: right;
+}
+
+.he-line .hit {
+  color: var(--burgundy);
+}
+
+.he-row {
+  font-size: 24px;
+  min-width: 96px;
+  text-align: right;
+}
+
+/* ---------- interlinear ---------- */
+
+.il-verse {
+  display: flex;
+  flex-wrap: wrap;
+  direction: rtl;
+  column-gap: 14px;
+  row-gap: 14px;
+  margin: 0 0 24px;
+  align-items: flex-start;
+}
+
+.il-vn {
+  font-family: var(--body);
+  font-size: 12px;
+  padding: 10px 0 0;
+  min-width: 12px;
+}
+
+.il-unit {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1px 3px;
+  margin: -1px -3px;
+  text-align: center;
+}
+
+.il-unit .he {
+  font-size: 25px;
+  line-height: 1.6;
+  white-space: nowrap;
+}
+
+.il-unit .pieces {
+  display: flex;
+  direction: rtl;
+  align-items: flex-start;
+}
+
+.il-unit .piece {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.il-unit .pieces .cut {
+  align-self: stretch;
+  width: 1px;
+  margin: 6px 4px 2px;
+  background: var(--gold-deep);
+  opacity: 0.7;
+}
+
+.il-unit .gl {
+  font-family: var(--body);
+  direction: ltr;
+  font-size: 14px;
+  line-height: 1.2;
+  max-width: 116px;
+}
+
+.il-unit .x {
+  font-family: var(--body);
+  direction: ltr;
+  font-style: italic;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.il-unit .x b {
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.il-unit .pc {
+  font-family: var(--body);
+  direction: ltr;
+  font-size: 10.5px;
+  letter-spacing: 0.6px;
+  color: var(--muted);
+}
+
+.il-unit.selected .gl,
+.il-unit.selected .pc {
+  color: var(--burgundy);
+}
+
+.il-unit.kin {
+  background-image: none;
+}
+
+.il-unit.kin .he {
+  text-decoration: underline dotted var(--gold);
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 6px;
+}
+
+.line-options {
+  display: flex;
+  gap: 16px;
+  padding: 0 24px;
+}
+
+.line-options button {
+  font-size: 15px;
+  color: var(--muted);
+  min-height: 32px;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.line-options button::before {
+  content: "";
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  box-shadow: inset 0 0 0 1px var(--muted);
+}
+
+.line-options button[aria-pressed="true"] {
+  color: var(--ink);
+}
+
+.line-options button[aria-pressed="true"]::before {
+  background: var(--burgundy);
+  box-shadow: none;
+}
+
+/* ---------- three witnesses ---------- */
+
+.witness-verse {
+  margin: 0 0 22px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--rule);
+}
+
+.witness-verse:last-of-type {
+  border-bottom: 0;
+}
+
+.witness-verse .para {
+  margin: 0 0 8px;
+  /* A verse alone justified spreads its few words across the measure. */
+  text-align: right;
+}
+
+.witness {
+  display: grid;
+  grid-template-columns: 74px 1fr;
+  column-gap: 10px;
+  margin-top: 6px;
+  font-size: 16.5px;
+  line-height: 1.45;
+}
+
+.witness .who {
+  font-family: var(--heading);
+  font-size: 10px;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  color: var(--muted);
+  padding-top: 4px;
+}
+
+.witness .what {
+  color: var(--ink);
+}
+
+.witness.douay .what {
+  color: var(--muted);
+}
+
+.witness-head {
+  display: flex;
+  gap: 14px;
+  padding: 0 24px 4px;
+  font-size: 14px;
+  color: var(--muted);
+}
+
+.witness-head button {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  min-height: 32px;
+  color: var(--muted);
+}
+
+.witness-head button::before {
+  content: "";
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  box-shadow: inset 0 0 0 1px var(--muted);
+}
+
+.witness-head button[aria-pressed="true"] {
+  color: var(--ink);
+}
+
+.witness-head button[aria-pressed="true"]::before {
+  background: var(--burgundy);
+  box-shadow: none;
+}
+
+.commentary-link {
+  display: inline-block;
+  margin-top: 8px;
+  font-size: 15px;
+  color: var(--blue);
+}
+
+/* notes panel extras */
+
+.notes .switch-row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  margin-top: 10px;
+  font-size: 15px;
+  color: var(--desk-ink);
+}
+
+.notes .switch-row button {
+  padding: 2px 10px;
+  border-radius: 12px;
+  border: 1px solid var(--rule);
+}
+
+.notes .switch-row button[aria-pressed="true"] {
+  background: var(--burgundy);
+  color: var(--surface);
+  border-color: var(--burgundy);
+}
+
+.notes .switch-row button[lang="he"] {
+  font-size: 17px;
+}
+
+.notes .passages a {
+  margin-right: 12px;
+}
