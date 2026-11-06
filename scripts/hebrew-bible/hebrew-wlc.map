@@ -1,0 +1,57 @@
+# The Hebrew (Masoretic) numbering → the Clementine Vulgate's (content/bible/
+# vulgate), read by versification.py over its drafts (SIL's org → vul.vrs, and
+# TVTMS where the two disagree, settled by the texts). Only where the drafts are
+# wrong or silent. `slug c:v[-v] = c:v[-v]` maps a range verse for verse (or
+# onto one verse); `= -` marks a Hebrew verse with no counterpart.
+#
+# How each block was checked: versification.py scores every mapped verse by the
+# content words its TAHOT English glosses share with the Douay at the address,
+# lists the weak ones, and aligns the chapters with several weak verses on the
+# texts. Each block below was then settled by reading the Hebrew glosses beside
+# the Douay (and the Latin where the Douay prints its own numbers: Psalms 15,
+# 115, 147, Isaias 45–46), verse by verse.
+
+# genesis 5: the Vulgate's 5:31 holds both Lamech's death and Noe's sons
+genesis 5:32 = 5:31
+
+# exodus 39: the Vulgate tells the priestly vestments more briefly and runs two
+# verses behind from the breastpiece's chains to the inventory (aligned on the
+# texts, then read: 39:21 the violet cord = 39:19, 39:27 the tunics = 39:25,
+# 39:33 the tabernacle brought = 39:32, 39:39 the bronze altar = 39:39 again)
+exodus 39:17 = 39:16
+exodus 39:18-19 = 39:17
+exodus 39:20-28 = 39:18-26
+exodus 39:29-38 = 39:28-37
+
+# numbers 15: the Vulgate makes one verse of "one law and one judgment"
+numbers 15:16 = 15:15
+numbers 15:17-18 = 15:16-17
+
+# numbers 27: the daughters' plea ends inside the Vulgate's 27:3
+numbers 27:4 = 27:3
+numbers 27:5-8 = 27:4-7
+
+# 2 esdras (Nehemiah) 7: the Vulgate divides the Levites' list one verse later
+2-esdras 7:44-47 = 7:45-48
+2-esdras 7:48 = 7:48
+
+# psalms 147: the Vulgate makes Psalm 147 of the Hebrew 147:12–20 ("Lauda,
+# Jerusalem"); the Douay in this corpus numbers it 12–20, the Vulgate 1–9
+psalms 147:12-20 = 147:1-9
+
+# isaias 45: the Vulgate keeps the Hebrew division (24 "in Domino… justitiæ",
+# 25 "in Domino justificabitur"); the Douay prints 26 verses, which misled the
+# text check
+isaias 45:24-25 = 45:24-25
+
+# Where SIL's draft and TVTMS disagree, settled by reading the Latin:
+# psalms 16 (Vulgate 15): the Clementine's 15:10 runs on into "notas mihi
+# fecisti vias vitæ", the Hebrew 16:11
+psalms 16:11 = 15:10
+# psalms 116:10–19 is the Vulgate's Psalm 115 ("Credidi"), 1–10
+psalms 116:10-19 = 115:1-10
+# isaias 8:23 is the Vulgate's 9:1 ("Primo tempore alleviata est terra Zabulon")
+isaias 8:23 = 9:1
+# jonas 2: the Clementine's chapter 1 ends at 16, and 2:1 is the fish, as in the
+# Hebrew (SIL sends 2:1 to 1:17)
+jonas 2:1-11 = 2:1-11
