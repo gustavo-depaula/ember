@@ -15,7 +15,7 @@ for (const button of document.querySelectorAll<HTMLButtonElement>('button[data-m
     context?.close()
     context = undefined
     clearTimeout(ending)
-    button.textContent = labels.play
+    button.setAttribute('aria-label', labels.play)
     button.setAttribute('aria-pressed', 'false')
   }
 
@@ -43,7 +43,7 @@ for (const button of document.querySelectorAll<HTMLButtonElement>('button[data-m
       voice.start(at)
       voice.stop(at + length + 0.05)
     }
-    button.textContent = labels.stop
+    button.setAttribute('aria-label', labels.stop)
     button.setAttribute('aria-pressed', 'true')
     ending = window.setTimeout(stop, (duration + 0.3) * 1000)
   })
