@@ -4,8 +4,8 @@ is made from, under what licence, and the credit that licence asks — the
 shape of the Greek editions' (scripts/greek-bible/sources.py).
 
 Parts: text, words, concordance, versification, paragraphs (open and closed
-paragraph marks), accents (accents.json). The facts are the importers'
-(wlc.py, versification.py, concordance.py, accents.py); keep them in step.
+paragraph marks), morphology (morphology.json), accents (accents.json). The facts are the importers'
+(wlc.py, versification.py, concordance.py, morphology.py, accents.py); keep them in step.
 
 Usage: python3 -I scripts/hebrew-bible/sources.py
 """
@@ -67,6 +67,14 @@ sources = [
         "licence": "Public Domain",
         "attribution": "The codex's open (פ) and closed (ס) paragraph marks, as the Open Scriptures Hebrew Bible gives them.",
         "url": OSHB,
+    },
+    {
+        "part": "morphology",
+        "name": "Translators Expansion of Hebrew Morphology Codes (TEHMC)",
+        "author": "Tyndale House Cambridge / STEPBible.org",
+        "licence": "CC-BY-4.0",
+        "attribution": "What each grammar code means, from TEHMC, data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0), reduced to fields by Ember (morphology.py).",
+        "url": STEP,
     },
     {
         "part": "accents",

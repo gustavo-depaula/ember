@@ -2,6 +2,9 @@ import { readdirSync, readFileSync } from 'node:fs'
 import { resolve } from 'node:path'
 import { describe, expect, it } from 'vitest'
 
+import { type AccentTable, accentOf, accentSystem } from '../hebrew/accents'
+import { grammarTerms } from '../hebrew/morphology'
+import { hebrewTokens, type MorphFields } from '../hebrew/words'
 import { buildVersification, type VerseMap } from '../versification'
 
 // The built corpus (`pnpm build:corpus`), as the app reads it.
@@ -12,22 +15,7 @@ const corpus = 'hebrew-wlc'
 type Piece = [dStrong: string, gloss: string, morph: string, text: string]
 type Entry = { p: Piece[]; t?: string; q?: string; w?: string; j?: 1 }
 
-const maqaf = '־'
-
-/** A verse's tokens as the words files count them: on whitespace, then after every maqaf. */
-function tokens(text: string) {
-  return text.split(/\s+/).flatMap((piece) => {
-    const parts: string[] = []
-    let rest = piece
-    let at = rest.indexOf(maqaf)
-    while (at !== -1 && at < rest.length - 1) {
-      parts.push(rest.slice(0, at + 1))
-      rest = rest.slice(at + 1)
-      at = rest.indexOf(maqaf)
-    }
-    return [...parts, rest]
-  })
-}
+const tokens = hebrewTokens
 
 const books = (read(`${corpus}/index.json`) as { slug: string }[]).map((b) => b.slug)
 const verseMap: VerseMap = read(`${corpus}/versification.json`)
@@ -155,5 +143,38 @@ describe('the Hebrew lexicons', () => {
     expect(shard.H7225G[0]).toEqual(['genesis', 1, 1, 'HNcfsa'])
     const counts = read(`${corpus}/concordance/counts.json`)
     expect(counts.H7225G).toBe(shard.H7225G.length)
+  })
+})
+
+describe('reading the Hebrew', () => {
+  const accents: AccentTable = read(`${corpus}/accents.json`)
+  const verse = (book: string, chapter: number, n: number) =>
+    tokens(read(`${corpus}/${book}.json`)[chapter][n] as string)
+  const accentAt = (book: string, chapter: number, n: number, index: number) =>
+    accentOf(accents, accentSystem(accents, book, chapter, n), verse(book, chapter, n), index)
+
+  // A wrong accent tells a student the verse divides where it does not.
+  it('names the accents that divide a prose verse', () => {
+    // בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים … הָאָֽרֶץ׃
+    expect(accentAt('genesis', 1, 1, 0)?.accent.name).toBe('Ṭiphḥā')
+    expect(accentAt('genesis', 1, 1, 1)).toMatchObject({ kind: 'conjunctive', inPause: false })
+    expect(accentAt('genesis', 1, 1, 2)).toMatchObject({ inPause: true })
+    expect(accentAt('genesis', 1, 1, 2)?.accent.name).toBe('ʾAthnâḥ')
+    expect(accentAt('genesis', 1, 1, 6)?.accent.name).toBe('Sillûq')
+  })
+
+  it('reads the Psalms by the poetic system', () => {
+    expect(accentSystem(accents, 'psalms', 23, 1)).toBe('poetic')
+    expect(accentSystem(accents, 'job', 1, 1)).toBe('prose')
+    expect(accentSystem(accents, 'job', 3, 2)).toBe('poetic')
+    // יְהוָ֥ה רֹ֝עִ֗י: Rebhîaʿ with Gèreš on the same word.
+    const shepherd = verse('psalms', 23, 1).findIndex((t) => t.startsWith('רֹ'))
+    expect(accentAt('psalms', 23, 1, shepherd)?.accent.name).toBe('Rebhîaʿ mugrāš')
+  })
+
+  it('parses a verb as grammarians write it', () => {
+    const morphology: Record<string, MorphFields> = read(`${corpus}/morphology.json`)
+    expect(grammarTerms(morphology.HVqw3ms)).toBe('Qal wayyiqtol 3ms')
+    expect(grammarTerms(morphology.HNcfsa)).toBeUndefined()
   })
 })

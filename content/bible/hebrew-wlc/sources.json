@@ -47,6 +47,14 @@
 		"url": "https://github.com/openscriptures/morphhb"
 	},
 	{
+		"part": "morphology",
+		"name": "Translators Expansion of Hebrew Morphology Codes (TEHMC)",
+		"author": "Tyndale House Cambridge / STEPBible.org",
+		"licence": "CC-BY-4.0",
+		"attribution": "What each grammar code means, from TEHMC, data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0), reduced to fields by Ember (morphology.py).",
+		"url": "https://github.com/STEPBible/STEPBible-Data"
+	},
+	{
 		"part": "accents",
 		"name": "Gesenius' Hebrew Grammar, §15",
 		"author": "Wilhelm Gesenius, ed. E. Kautzsch, tr. A. E. Cowley",

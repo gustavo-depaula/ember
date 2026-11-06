@@ -34,7 +34,7 @@ export function isUnchecked(entry: WordEntry | undefined) {
 const recent = new Map<string, Promise<unknown>>()
 const recentLimit = 6
 
-function readLarge<T>(path: string): Promise<T> {
+export function readLarge<T>(path: string): Promise<T> {
   const held = recent.get(path)
   if (held) {
     // Most recently used last, so the first is the one to let go.
