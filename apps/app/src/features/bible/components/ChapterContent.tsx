@@ -1,6 +1,6 @@
 import { useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable, StyleSheet, type TextStyle } from 'react-native'
+import { Platform, Pressable, StyleSheet, type TextStyle } from 'react-native'
 import { Gesture, GestureDetector } from 'react-native-gesture-handler'
 import Animated, { runOnJS, useAnimatedStyle, useSharedValue } from 'react-native-reanimated'
 import { Text, useTheme, View, XStack, YStack } from 'tamagui'
@@ -152,13 +152,19 @@ export function ChapterContent({
         color: theme.colorBurgundy?.val as string,
         backgroundColor: theme.backgroundSurface?.val as string,
       },
-      kin: {
-        textDecorationLine: 'underline',
-        textDecorationStyle: 'dotted',
-        textDecorationColor: theme.gold?.val as string,
-      },
+      // The page's other forms of the studied word. iOS draws a dotted gold
+      // underline; Android draws only a solid one in the text's own colour,
+      // which reads as part of the text, so there the words are tinted.
+      kin:
+        Platform.OS === 'ios'
+          ? {
+              textDecorationLine: 'underline',
+              textDecorationStyle: 'dotted',
+              textDecorationColor: theme.gold?.val as string,
+            }
+          : { color: theme.accent?.val as string },
     }),
-    [theme.colorBurgundy, theme.backgroundSurface, theme.gold],
+    [theme.colorBurgundy, theme.backgroundSurface, theme.gold, theme.accent],
   )
   const besideRender = useMemo(
     () => ({ color: theme.colorSecondary?.val as string }),
