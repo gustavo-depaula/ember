@@ -44,8 +44,9 @@ Writes:
 the index's part of speech (N, V, Np, ...), or for TBESH its own class
 ("H:N-M": language, type, gender, name kind). A "body" is the entry as structured text: a list of
 paragraphs {"n"?: sense label, "d": depth, "r": runs}, each run [kind, text]
-or ["ref", text, osisRef], kind one of t (text), he (Hebrew), def, pos, stem,
-asp, em, f (a foreign word BDB could not print: "Syriac", "Arabic").
+or ["ref", text, osisRef] (a verse), or ["strong", number, "H7218"] (Strong's
+pointing to another of his entries); kind one of t (text), he (Hebrew), def,
+pos, stem, asp, em, f (a foreign word BDB could not print: "Syriac", "Arabic").
 
 Shards are the concordance's: str(Strong's number // 500).zfill(2).
 
@@ -218,7 +219,11 @@ def strong_body(e) -> list[dict]:
             runs.append(["t", x.text])
         for child in x:
             ctag = child.tag.replace(NS, "")
-            runs.append([KIND.get(ctag, "t"), nfc("".join(child.itertext()))])
+            if ctag == "w" and child.get("src"):
+                # A cross-reference to another entry ("from the same as 7218").
+                runs.append(["strong", "".join(child.itertext()), child.get("src")])
+            else:
+                runs.append([KIND.get(ctag, "t"), nfc("".join(child.itertext()))])
             if child.tail:
                 runs.append(["t", child.tail])
         for r in runs:
