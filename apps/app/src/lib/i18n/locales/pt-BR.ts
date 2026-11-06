@@ -134,6 +134,7 @@ export default {
       ontrack: 'Em dia',
       delayed: 'Atrasado',
       atrisk: 'Em risco',
+      missed: 'Perdido',
     },
     sacredScripture: 'Sagrada Escritura',
     sacredScriptureSub: 'Ler a B\u00edblia',
