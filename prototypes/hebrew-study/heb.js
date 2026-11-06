@@ -31,16 +31,6 @@ const Heb = (() => {
   let marks = params.get('marks') ?? localStorage.getItem('heb-marks') ?? 'vowels'
   const show = (s) => (strip[marks] ? s.replace(strip[marks], '') : s)
 
-  let numerals = params.get('numerals') ?? localStorage.getItem('heb-numerals') ?? 'arabic'
-  const hebrewNumber = (n) => {
-    const ones = ['', 'א', 'ב', 'ג', 'ד', 'ה', 'ו', 'ז', 'ח', 'ט']
-    const tens = ['', 'י', 'כ', 'ל', 'מ', 'נ', 'ס', 'ע', 'פ', 'צ']
-    if (n === 15) return 'טו'
-    if (n === 16) return 'טז'
-    return tens[Math.floor(n / 10) % 10] + ones[n % 10]
-  }
-  const num = (n) => (numerals === 'hebrew' ? hebrewNumber(n) : String(n))
-
   // ---------- theme ----------
 
   function setTheme(theme) {
@@ -50,21 +40,9 @@ const Heb = (() => {
       b.setAttribute('aria-pressed', String(b.dataset.theme === theme))
   }
   setTheme(params.get('theme') ?? localStorage.getItem('ember-proto-theme') ?? 'light')
-  function setNumerals(n) {
-    numerals = n
-    localStorage.setItem('heb-numerals', n)
-    for (const b of document.querySelectorAll('[data-numerals]'))
-      b.setAttribute('aria-pressed', String(b.dataset.numerals === n))
-  }
-  setNumerals(numerals)
   document.addEventListener('click', (e) => {
     const b = e.target.closest('.theme-toggle [data-theme]')
     if (b) setTheme(b.dataset.theme)
-    const n = e.target.closest('[data-numerals]')
-    if (n) {
-      setNumerals(n.dataset.numerals)
-      redraw?.()
-    }
   })
 
   // ---------- the phone ----------
@@ -257,7 +235,57 @@ const Heb = (() => {
     const pgn = [parts.Person, parts.Gender, parts.Number].filter(Boolean).map((s) => s.toLowerCase())
     if (pgn.length) out.push(esc(pgn.join(' ').replace('third', '3rd').replace('second', '2nd').replace('first', '1st')))
     if (parts.State) out.push(esc(parts.State.toLowerCase()))
-    return { pos: fn.toLowerCase(), text: out.join(' · '), aramaic: code.startsWith('A') }
+    return { pos: fn.toLowerCase(), text: out.join(' · '), aramaic: code.startsWith('A'), terms: terms(parts) }
+  }
+
+  /** The grammar in the grammarians' own terms: binyan and conjugation,
+   * person-gender-number, state — from TEHMC's expansion of the code. */
+  function terms(parts) {
+    const plain = (s) => (s ?? '').replace(/\s*\(hence[^)]*\)/, '').trim()
+    const form = plain(parts.Form)
+    const mood = (parts.Form ?? '').match(/Mood=([^;)]+)/)?.[1] ?? ''
+    const pgn = [
+      { First: '1', Second: '2', Third: '3' }[parts.Person] ?? '',
+      { Masculine: 'm', Feminine: 'f', 'Either gender': 'c', Common: 'c', Both: 'c' }[parts.Gender] ?? '',
+      { Singular: 's', Plural: 'p', Dual: 'd' }[parts.Number] ?? '',
+    ].join('')
+    const state = { Absolute: 'absolute', Construct: 'construct', Determined: 'determined' }[parts.State] ?? ''
+    if (parts.Function === 'Verb') {
+      const conj = (() => {
+        if (form === 'Perfect') return 'qatal'
+        if (form === 'Consecutive Perfect') return 'weqatal'
+        if (form === 'Consecutive Imperfect') return 'wayyiqtol'
+        if (form === 'Imperfect' || form === 'Conjunction+Imperfect') {
+          if (/^Cohortative$/.test(mood)) return 'cohortative (yiqtol)'
+          if (/^Jussive$/.test(mood)) return 'jussive (yiqtol)'
+          return form === 'Conjunction+Imperfect' ? 'weyiqtol' : 'yiqtol'
+        }
+        if (form === 'Imperative') return 'imperative'
+        if (form === 'Infinitive') return state === 'construct' ? 'infinitive construct' : state === 'absolute' ? 'infinitive absolute' : 'infinitive'
+        if (form === 'Participle') return 'participle (active)'
+        if (form === 'Participle passive') return 'participle (passive)'
+        return form.toLowerCase()
+      })()
+      const stem = plain(parts.Stem)
+      const isInf = /infinitive/.test(conj)
+      return `<b>${esc(stem)}</b> <i>${esc(conj)}</i>${pgn ? ` ${esc(pgn)}` : ''}${state && !isInf ? ` ${esc(state)}` : ''}`
+    }
+    if (parts.Function === 'Noun' || parts.Function === 'Adjective') {
+      return `${esc(parts.Function.toLowerCase())}${pgn ? ` ${esc(pgn)}` : ''}${state ? ` ${esc(state)}` : ''}`
+    }
+    return ''
+  }
+
+  /** The word's accent: which, disjunctive or conjunctive, its rank, pause. */
+  function accentLine(w) {
+    const a = w.acc
+    if (!a) return ''
+    const system = passage().poetry ? 'poetic accents (Psalms, Proverbs, Job)' : 'prose accents'
+    if (a.kind === 'bound') return `<div class="accent"><span class="acc-label">Accent</span><span class="why">${esc(a.note)}</span></div>`
+    if (!a.name) return `<div class="accent"><span class="acc-label">Accent</span><span class="why">none written</span></div>`
+    const rank = a.rank ? ` · rank ${a.rank} <span class="why">(${esc(a.title)})</span>` : ''
+    return `<div class="accent"><span class="acc-label">Accent</span><b>${esc(a.name)}</b> · ${esc(a.kind)}${rank}${a.pause ? ' · <b>in pause</b>' : ''}
+      <div class="acc-note">${a.note ? `${esc(a.note)} · ` : ''}${system}; names and ranks after Gesenius §15</div></div>`
   }
 
   function wordStudy(v, i) {
@@ -269,6 +297,7 @@ const Heb = (() => {
     const first = v === 0 && i === 0
     const last = v === passage().verses.length - 1 && i === verseAt(v).words.length - 1
     const name = !!L.name
+    const nameSaid = w.name ? Object.values(data.lex).find((x) => x.name && w.p.some((q) => q.s === x.k))?.name : undefined
     const kinds = [
       ...(root && !name ? [['family', 'Family', root.members.length]] : []),
       ['brief', 'Meaning'],
@@ -289,16 +318,16 @@ const Heb = (() => {
     const q = w.q
     const qere = q
       ? `<div class="qere-box">
-          <div><span class="tag">Read</span><span lang="he" class="he">${esc(w.t)}</span> “${glossHtml(w.p.map((x) => x.g).join(' '))}”</div>
-          <div><span class="tag">Written</span><span lang="he" class="he">${esc(q.ketiv)}</span>${q.kg ? ` “${glossHtml(q.kg.replace(/\//g, ''))}”` : ''}</div>
-          <p>The scribes kept the letters they received and gave them the vowels of the word read aloud${q.sense ? ', and here the two differ in sense' : ''}.${verseAt(v).drb ? ` The Vulgate, and the Douay after it, translate the written form: “${esc(verseAt(v).drb)}”` : ''}</p>
+          <div class="qrow"><span class="tag">Written</span><span lang="he" class="he">${esc(q.written)}</span>${q.kg ? `<span class="qg">“${glossHtml(q.kg.replace(/\//g, ''))}”</span>` : ''}</div>
+          <div class="qrow"><span class="tag">Read</span><span lang="he" class="he">${esc(q.read)}</span><span class="qg">“${glossHtml(w.p.map((x) => x.g).join(' '))}”</span></div>
+          <p>${q.printed ? 'The page prints the written letters with the vowels of the word read aloud, as the codex does; the ° marks it. ' : ''}${q.sense ? 'Here the two differ in sense.' : ''}${q.follows ? ` The Vulgate follows the written form (“${esc(q.follows.vul)}”), and the Douay after it: “${esc(q.follows.drb)}”` : ''}</p>
         </div>`
       : ''
 
     const nameBox = name
       ? `<div class="name-box">
           <div class="name-he" lang="he">יהוה</div>
-          <p>The Name God revealed to Moses (Ex 3:14–15). Following the Church’s practice it is not pronounced: it is read <i>Adonai</i>, “the Lord” — as the Septuagint wrote <span lang="grc">Κύριος</span> and the Vulgate <i>Dominus</i> (Congregation for Divine Worship, letter of 29 June 2008).</p>
+          <p>The Name God revealed to Moses (Ex 3:14–15). In Catholic reading it is not pronounced: <i>Adonai</i>, “the Lord”, is said instead — as the Septuagint wrote <span lang="grc">Κύριος</span> and the Vulgate <i>Dominus</i> (Congregation for Divine Worship, letter of 29 June 2008).</p>
         </div>`
       : ''
 
@@ -314,7 +343,7 @@ const Heb = (() => {
       ${from !== undefined ? `<button class="back-row" data-back>${svg('left', 16)}${esc(ref(from))}</button>` : ''}
       <div class="lemma-head" data-drag>
         <div class="chips" dir="rtl">${chips}</div>
-        <div class="word-sound">${w.name ? '<b>Adonai</b> <span class="why">— the Name, as it is read aloud</span>' : sound(w.x)}</div>
+        <div class="word-sound">${nameSaid ? `<b class="yhwh">YHWH</b> <span class="why">· read</span> ${esc(nameSaid.read)} <span class="why">(${esc(nameSaid.as)})</span>` : sound(w.x)}</div>
         ${qere}
         <div class="lemma-line">
           <span class="lemma he-lemma" lang="he">${esc(L.lemma || p.h)}</span>
@@ -322,6 +351,8 @@ const Heb = (() => {
         </div>
         <div class="gloss">${esc((L.gloss ?? '').replace(/^.*?:\s*/, '') || p.g)}</div>
         <div class="parsing"><span class="pos">${esc(g.aramaic ? `Aramaic ${g.pos}` : g.pos)}</span>${g.text}</div>
+        ${g.terms ? `<div class="terms">${g.terms}<span class="raw">${esc(p.m)}</span></div>` : `<div class="terms"><span class="raw">${esc(p.m)}</span></div>`}
+        ${accentLine(w)}
         ${root && !name
           ? `<button class="root-line" data-kind="family"><span class="root-label">Root</span><span class="root-letters" lang="he">${(root.letters.normalize('NFD').replace(/[\u0591-\u05BD\u05BF\u05C7]/g, '').match(/\p{L}\p{M}*/gu) ?? []).join(' · ')}</span><span class="root-count">${root.members.length} word${root.members.length === 1 ? '' : 's'} in the family</span></button>`
           : ''}
@@ -372,13 +403,13 @@ const Heb = (() => {
     if (kind === 'bdb') {
       const all = expanded.has(`b${L.k}`)
       const long = L.bdb.length > 1400
-      return `<div class="entry bdb ${long && !all ? 'clip' : ''}">${L.bdb}</div>
+      return `${L.name ? `<p class="name-note">Quoted as its author wrote it; in Catholic reading the Name is not pronounced, and <i>Adonai</i>, ‘the Lord’, is said instead.</p>` : ''}<div class="entry bdb ${long && !all ? 'clip' : ''}">${L.bdb}</div>
         ${long && !all ? `<button class="read-on" data-expand="b${esc(L.k)}">Read the whole entry</button>` : ''}
         <div class="source-note">Brown, Driver &amp; Briggs, A Hebrew and English Lexicon of the Old Testament (1906)</div>`
     }
     if (kind === 'strong') {
       const s = L.strong
-      return `<div class="entry"><div class="entry-head"><span lang="he">${esc(s.head)}</span> <i class="pron">${esc(s.xlit)} · ${esc(s.pron)}</i></div>${s.html}</div>
+      return `${L.name ? `<p class="name-note">Quoted as its author wrote it; in Catholic reading the Name is not pronounced, and <i>Adonai</i>, ‘the Lord’, is said instead.</p>` : ''}<div class="entry"><div class="entry-head"><span lang="he">${esc(s.head)}</span> <i class="pron">${esc(s.xlit)} · ${esc(s.pron)}</i></div>${s.html}</div>
         <div class="source-note">James Strong, Dictionary of the Hebrew Bible (1890)</div>`
     }
     return `<div class="occ-intro">${fmt(L.count ?? 0)} times in the Hebrew Bible. The first few:</div>
@@ -590,8 +621,21 @@ const Heb = (() => {
     return out
   }
 
-  const verseNumber = (v) =>
-    `<span class="vn" data-v="${v}" data-open-verse="${v}" role="button" aria-label="Verse ${verseAt(v).n}">${num(verseAt(v).n)}</span>`
+  /** The Vulgate's number for a verse, where it is not the Hebrew's. */
+  function vulgateNumber(v) {
+    const V = verseAt(v)
+    if (!V.vulRef) return ''
+    const P = passage()
+    const [c, n] = V.vulRef
+    const chapter = Number((P.heading.vul ?? '').replace(/\D+/g, '')) || P.chapter
+    if (c !== chapter) return `${c}:${n}`
+    return n !== V.n ? String(n) : ''
+  }
+
+  const verseNumber = (v) => {
+    const vul = vulgateNumber(v)
+    return `<span class="vn" data-v="${v}" data-open-verse="${v}" role="button" aria-label="Verse ${verseAt(v).n}${vul ? `, Vulgate ${vul}` : ''}">${verseAt(v).n}${vul ? `<span class="vul-n"> · Vulg. ${vul}</span>` : ''}</span>`
+  }
 
   /** Where a poetic verse breaks into its lines: after the word carrying
    * oleh weyored (U+05AB, its yored the merkha U+05A5 on the same or the
@@ -693,7 +737,16 @@ const Heb = (() => {
     return { redraw: draw }
   }
 
+  const remember = {
+    get: (k, fallback) => {
+      const v = localStorage.getItem(`heb-${k}`)
+      return v === null ? fallback : JSON.parse(v)
+    },
+    set: (k, v) => localStorage.setItem(`heb-${k}`, JSON.stringify(v)),
+  }
+
   return {
+    remember,
     data,
     params,
     esc,
@@ -706,12 +759,12 @@ const Heb = (() => {
     verseNumber,
     lineBreaks,
     marksControl,
+    vulgateNumber,
     tabs,
     readerTop,
     readerFoot,
     glossHtml,
     sound,
-    num,
     mount,
     page,
     get pid() {

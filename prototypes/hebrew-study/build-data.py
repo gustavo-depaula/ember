@@ -14,7 +14,20 @@
       github.com/openscriptures/HebrewLexicon: BDB and Strong's text public
       domain, markup and the lexical index CC BY 4.0.
 
-<repo-root> gives the Douay, Vulgate and Brenton Septuagint (content/bible/).
+  wlc/<Book>.xml  github.com/openscriptures/morphhb wlc/: the Westminster
+      Leningrad Codex (text public domain; lemmas and morphology CC BY 4.0),
+      word by word as the manuscript has it, the written form (ketiv) with
+      its read form (qere) in a note, and the paragraph marks.
+
+<repo-root> gives the Douay, Knox, CPDV, Matos Soares, Vulgate and Brenton
+Septuagint (content/bible/).
+
+The page's words are the WLC's. TAHOT's (glosses, pieces, transliteration)
+are aligned to them verse by verse on their consonants; TAHOT follows the
+read form where the two differ, so a written/read word is matched by its
+read form. Where the manuscript prints the written consonants with the read
+form's vowels, TAHOT records that print ("L= ..."), which the page shows once
+its consonants are checked against the WLC's written form.
 
 Roots come from BDB's own arrangement as the lexical index records it: each
 index entry is either a root ("main", with the root's letters and the ids of
@@ -25,6 +38,7 @@ lexical entry.
 The data replaces the <script id="data"> block in every page beside this file.
 """
 
+import difflib
 import json
 import os
 import re
@@ -34,6 +48,7 @@ import xml.etree.ElementTree as ET
 from collections import Counter, defaultdict
 
 src, repo = sys.argv[1], sys.argv[2]
+check = "--check" in sys.argv
 here = os.path.dirname(os.path.abspath(__file__))
 bible = os.path.join(repo, "content", "bible")
 NS = "{http://openscriptures.github.com/morphhb/namespace}"
@@ -119,7 +134,9 @@ def parse(word):
         variants = " ".join(cols[6:8])
         km = re.search(r"K= (\S+) \(([^)]*)\) \"([^\"]*)\"", variants)
         ks = re.search(r"K= ([\u0590-\u05FF]+)", variants)
+        lm = re.search(r"L= ([^\s¦;]+)", variants)
         w["q"] = {
+            "print": nfc(lm.group(1).replace("/", "").replace("\\", "")) if lm else "",
             "sense": kind.startswith("Q(K"),
             "ketiv": nfc((km.group(2) if km else ks.group(1) if ks else "").replace("/", "").replace("\\", "")),
             "kx": km.group(1) if km else "",
@@ -138,8 +155,8 @@ def name_override(w):
         if NAME.match(p["s"]):
             p["g"] = "the LORD" if p["s"].startswith("H3068") else "GOD"
             p["name"] = 1
-            w["x"] = "Adonai" if p["s"].startswith("H3068") else "Elohim"
-            w["name"] = 1
+            w["x"] = "YHWH"
+            w["name"] = "adonai" if p["s"].startswith("H3068") else "elohim"
     return w
 
 
@@ -400,10 +417,205 @@ def clean_meaning(s):
 # --- passages ------------------------------------------------------------------
 
 
+OSIS = "{http://www.bibletechnologies.net/2003/OSIS/namespace}"
+wlc_books = {"Gen": "Gen", "Psa": "Ps", "Isa": "Isa", "Mal": "Mal"}
+wlc_cache = {}
+
+
+def skeleton(s):
+    """The consonants alone: what the WLC and TAHOT are matched on."""
+    return "".join(c for c in s if "א" <= c <= "ת")
+
+
+def wlc_book(book):
+    if book in wlc_cache:
+        return wlc_cache[book]
+    root = ET.parse(os.path.join(src, "wlc", f"{wlc_books[book]}.xml")).getroot()
+    verses = {}
+    for ve in root.iter(f"{OSIS}verse"):
+        _, c, v = ve.get("osisID").split(".")
+        words, para = [], None
+        for el in ve:
+            tag = el.tag.replace(OSIS, "")
+            if tag == "w":
+                words.append({
+                    "pieces": [nfc(x) for x in (el.text or "").split("/")],
+                    "morph": el.get("morph", ""),
+                    "ketiv": el.get("type") == "x-ketiv",
+                })
+            elif tag == "note" and el.get("type") == "variant":
+                r = el.find(f"{OSIS}rdg")
+                if r is not None and r.get("type") == "x-qere":
+                    # A read form may be two words (Ps 55:16): take it whole.
+                    qws = r.findall(f"{OSIS}w")
+                    if words and words[-1]["ketiv"]:
+                        words[-1]["qere"] = [nfc(x) for qw in qws for x in (qw.text or "").split("/")]
+            elif tag == "seg" and words:
+                t = el.get("type")
+                if t == "x-maqqef":
+                    words[-1]["mq"] = 1
+                elif t == "x-paseq":
+                    words[-1]["pq"] = 1
+                elif t == "x-sof-pasuq":
+                    words[-1]["end"] = 1
+                elif t == "x-pe":
+                    para = "open"
+                elif t == "x-samekh":
+                    para = "closed"
+        verses[(int(c), int(v))] = {"words": words, "para": para}
+    wlc_cache[book] = verses
+    return verses
+
+
+align_report = []
+
+
+def align(book, c, v):
+    """The WLC's words for the verse, each carrying TAHOT's study of it."""
+    W = wlc_book(book)[(c, v)]
+    T = [name_override(parse(w)) for w in words_by_verse[(book, c, v)]]
+    a = [skeleton("".join(w["qere"] if w.get("qere") else w["pieces"])) for w in W["words"]]
+    b = [skeleton(t["t"]) for t in T]
+    match = {}
+    sm = difflib.SequenceMatcher(a=a, b=b, autojunk=False)
+    for op, i1, i2, j1, j2 in sm.get_opcodes():
+        if op == "equal":
+            for k in range(i2 - i1):
+                match[i1 + k] = j1 + k
+        else:
+            align_report.append({
+                "ref": f"{book} {c}:{v}", "op": op,
+                "wlc": ["".join(W["words"][i]["pieces"]) for i in range(i1, i2)],
+                "tahot": [T[j]["t"] for j in range(j1, j2)],
+            })
+            if op == "replace" and i2 - i1 == j2 - j1:
+                for k in range(i2 - i1):
+                    match[i1 + k] = j1 + k
+    out = []
+    for i, w in enumerate(W["words"]):
+        t = T[match[i]] if i in match else None
+        text = "".join(w["pieces"])
+        word = {
+            "t": text,
+            "x": t["x"] if t else "",
+            "p": t["p"] if t else [{"h": text, "g": "", "s": "", "m": w["morph"]}],
+            "k": t["k"] if t else "",
+            "mi": t["mi"] if t else 0,
+        }
+        for f in ("mq", "pq", "end"):
+            if w.get(f):
+                word[f] = 1
+        if t and t.get("name"):
+            word["name"] = t["name"]
+        if w["ketiv"]:
+            written = skeleton(text)
+            tq = (t or {}).get("q") or {}
+            # Print the written consonants with the read form's vowels, as the
+            # codex does, when TAHOT's record of that print has the same letters.
+            if tq.get("print") and skeleton(tq["print"]) == written:
+                word["t"] = tq["print"]
+            word["q"] = {
+                "read": " ".join("".join(qw.split("/")) for qw in ["/".join(w.get("qere") or [])]),
+                "written": text,
+                "kg": tq.get("kg", ""),
+                "sense": tq.get("sense", False),
+                "printed": word["t"] != text,
+            }
+        out.append(word)
+    return out, W["para"]
+
+
+# --- accents -------------------------------------------------------------------
+# Names and ranks after Gesenius' Hebrew Grammar §15 (Kautzsch–Cowley, 1910):
+# the prose system of the twenty-one books, and the poetic system of Psalms,
+# Proverbs and Job 3:2–42:6. Ranks: I emperors, II kings, III dukes, IV counts.
+
+PROSE_DISJ = {
+    "֑": ("atnach", 1), "֒": ("segolta", 2), "֓": ("shalshelet", 2),
+    "֔": ("zaqef qatan", 2), "֕": ("zaqef gadol", 2), "֖": ("tipcha", 2),
+    "֗": ("revia", 3), "֘": ("zarqa", 3), "֙": ("pashta", 3),
+    "֚": ("yetiv", 3), "֛": ("tevir", 3), "֜": ("geresh", 4),
+    "֞": ("gershayim", 4), "֡": ("pazer", 4), "֟": ("qarney parah", 4),
+    "֠": ("telisha gedolah", 4),
+}
+PROSE_CONJ = {
+    "֣": "munach", "֤": "mahpakh", "֥": "merkha", "֦": "merkha kefulah",
+    "֧": "darga", "֨": "qadma", "֩": "telisha qetannah", "֪": "yerach ben yomo",
+}
+POETIC_CONJ = {
+    "֣": "munach", "֥": "merkha", "֬": "illuy", "֖": "tarcha",
+    "֪": "galgal", "֤": "mehuppakh", "֨": "azla", "֘": "tsinnorit",
+    "֓": "shalshelet qetannah",
+}
+RANKS = {1: "I", 2: "II", 3: "III", 4: "IV"}
+TITLES = {1: "emperor", 2: "king", 3: "duke", 4: "count"}
+
+
+def poetic(book, c, v):
+    if book in ("Psa", "Pro"):
+        return True
+    return book == "Job" and (3, 2) <= (c, v) <= (42, 6)
+
+
+def accent(words, i, is_poetic):
+    """The accent a word bears: name, disjunctive or conjunctive, rank."""
+    w = words[i]
+    t = w["t"]
+    if w.get("end"):
+        return {"name": "silluq", "kind": "disjunctive", "rank": "I", "title": TITLES[1], "pause": True}
+    if w.get("mq") and not any("֑" <= ch <= "֮" for ch in t):
+        return {"name": None, "kind": "bound", "note": "no accent of its own: joined by maqaf to the next word, it is read with it"}
+    if is_poetic:
+        prev = words[i - 1]["t"] if i else ""
+        if "֫" in t and "֥" in t:
+            return {"name": "oleh weyored", "kind": "disjunctive", "rank": "I", "title": TITLES[1], "pause": True}
+        if "֫" in t:
+            return {"name": "oleh", "kind": "disjunctive", "rank": "I", "title": TITLES[1],
+                    "note": "the first half of oleh weyored, completed by the yored (merkha) on the next word"}
+        if "֥" in t and "֫" in prev and "֥" not in prev:
+            return {"name": "oleh weyored", "kind": "disjunctive", "rank": "I", "title": TITLES[1], "pause": True,
+                    "note": "the yored, completing the oleh on the word before"}
+        if "֑" in t:
+            return {"name": "atnach", "kind": "disjunctive", "rank": "I", "title": TITLES[1], "pause": True}
+        if "֗" in t:
+            name = "revia mugrash" if "֝" in t else "revia gadol"
+            return {"name": name, "kind": "disjunctive", "rank": "II", "title": TITLES[2]}
+        if "֓" in t and w.get("pq"):
+            return {"name": "shalshelet gedolah", "kind": "disjunctive", "rank": "II", "title": TITLES[2]}
+        for ch, name in (("֮", "tsinnor"), ("֭", "dehi"), ("֡", "pazer")):
+            if ch in t:
+                return {"name": name, "kind": "disjunctive", "rank": "III", "title": TITLES[3]}
+        if w.get("pq") and ("֤" in t or "֨" in t):
+            name = "mehuppakh legarmeh" if "֤" in t else "azla legarmeh"
+            return {"name": name, "kind": "disjunctive", "rank": "III", "title": TITLES[3]}
+        for ch, name in POETIC_CONJ.items():
+            if ch in t:
+                return {"name": name, "kind": "conjunctive"}
+        return {"name": None, "kind": "none"}
+    best = None
+    for ch, (name, rank) in PROSE_DISJ.items():
+        if ch in t and (best is None or rank < best[1]):
+            best = (name, rank)
+    if best:
+        name, rank = best
+        out = {"name": name, "kind": "disjunctive", "rank": RANKS[rank], "title": TITLES[rank]}
+        if name == "atnach":
+            out["pause"] = True
+        return out
+    if w.get("pq") and "֣" in t:
+        return {"name": "munach legarmeh", "kind": "disjunctive", "rank": "IV", "title": TITLES[4]}
+    for ch, name in PROSE_CONJ.items():
+        if ch in t:
+            return {"name": name, "kind": "conjunctive"}
+    return {"name": None, "kind": "none"}
+
+
 def verse(book, c, v):
-    key = (book, c, v)
-    ws = [name_override(parse(w)) for w in words_by_verse[key]]
-    return key, ws
+    ws, para = align(book, c, v)
+    p = poetic(book, c, v)
+    for i, w in enumerate(ws):
+        w["acc"] = accent(ws, i, p)
+    return (book, c, v), ws, para
 
 
 def snippet(key, i):
@@ -465,9 +677,11 @@ def lexeme(k):
         "li": li_id,
     }
     if NAME.match(k):
-        entry["x"] = "Adonai" if k.startswith("H3068") else "Elohim"
+        entry["x"] = "YHWH"
         entry["gloss"] = "the LORD" if k.startswith("H3068") else "GOD"
-        entry["name"] = 1
+        # What is said instead, in BDB's own transliteration of it.
+        said = li_entries[li_by_strong[136 if k.startswith("H3068") else 430][0][1]]
+        entry["name"] = {"read": said["xlit"], "as": "Adonai" if k.startswith("H3068") else "Elohim"}
     lex[k] = entry
     if root and root not in roots:
         r = li_entries[root]
@@ -493,52 +707,98 @@ def lexeme(k):
 
 
 passages = {}
+# The reader's vernaculars beside the witnesses, each keyed on the shared
+# (Vulgate) address. "from" is what each was translated from, as its own
+# front matter or the reader's description of it says.
+vernaculars = [
+    ("drb", "Douay", "the Vulgate"),
+    ("knox", "Knox", "the Vulgate"),
+    ("cpdv", "CPDV", "the Vulgate"),
+    ("matos-soares", "Matos Soares", "the Vulgate"),
+]
 
 
-def passage(pid, title, book, chapter, verses, heading, poetry=False, witnesses=False):
+def passage(pid, title, book, chapter, verses, heading, poetry=False):
     out = []
     for v in verses:
-        key, ws = verse(book, chapter, v)
+        key, ws, para = verse(book, chapter, v)
         for w in ws:
             for p in w["p"]:
                 if p["s"]:
                     lexeme(p["s"])
         addr = shared(key)
         item = {"n": v, "words": ws}
+        if para:
+            item["para"] = para
         if addr:
+            b, c, vv = addr
+            item["vulRef"] = [c, vv]
             item["drb"] = douay(addr)
-            if witnesses:
-                b, c, vv = addr
-                item["vul"] = load("vulgate", b)[str(c)][str(vv)]
-                # The Brenton Septuagint keeps its own numbering; its map
-                # sends a verse to the shared address only where they differ.
-                vmap = json.load(open(os.path.join(bible, "greek-brenton", "versification.json"), encoding="utf-8")).get(b, {})
-                own = next((k for k, s in vmap.items() if s == f"{c}:{vv}"), f"{c}:{vv}")
-                oc, ov = own.split(":")
-                item["lxx"] = load("greek-brenton", b).get(oc, {}).get(ov)
+            item["vern"] = {}
+            for corpus, _, _ in vernaculars:
+                try:
+                    item["vern"][corpus] = load(corpus, b)[str(c)][str(vv)]
+                except KeyError:
+                    pass
+            item["vul"] = load("vulgate", b)[str(c)][str(vv)]
+            # The Brenton Septuagint keeps its own numbering; its map
+            # sends a verse to the shared address only where they differ.
+            vmap = json.load(open(os.path.join(bible, "greek-brenton", "versification.json"), encoding="utf-8")).get(b, {})
+            own = next((k for k, s_ in vmap.items() if s_ == f"{c}:{vv}"), f"{c}:{vv}")
+            oc, ov = own.split(":")
+            item["lxx"] = load("greek-brenton", b).get(oc, {}).get(ov)
         out.append(item)
-    passages[pid] = {"title": title, "heading": heading, "poetry": poetry, "verses": out}
+    passages[pid] = {"title": title, "heading": heading, "poetry": poetry, "verses": out,
+                     "chapter": chapter}
 
 
-passage("gen1", "Genesis 1:1–5", "Gen", 1, range(1, 6),
-        {"book": "Genesis", "he": "בְּרֵאשִׁית", "heX": "Bereshit", "chapter": "Chapter 1"}, witnesses=True)
+passage("gen1", "Genesis 1:1–8", "Gen", 1, range(1, 9),
+        {"book": "Genesis", "he": "בְּרֵאשִׁית", "heX": "Bereshit", "chapter": "Chapter 1"})
 passage("ps23", "Psalm 23 (22)", "Psa", 23, range(1, 7),
         {"book": "Psalms", "he": "תְּהִלִּים", "heX": "Tehillim", "chapter": "Psalm 23", "vul": "Vulgate 22"},
-        poetry=True, witnesses=True)
+        poetry=True)
 passage("isa7", "Isaiah 7:10–16", "Isa", 7, range(10, 17),
-        {"book": "Isaias", "he": "יְשַׁעְיָהוּ", "heX": "Yeshayahu", "chapter": "Chapter 7"}, witnesses=True)
-# A written/read pair to show: Ps 100:3, where the written "and not we" is
-# what the Vulgate and the Douay translate, and the read "and his we are".
-qkey = ("Psa", 100, 3)
+        {"book": "Isaias", "he": "יְשַׁעְיָהוּ", "heX": "Yeshayahu", "chapter": "Chapter 7"})
+# A written/read pair: Ps 100:3, written "and not we", read "and his we are".
 passage("qere", "Psalm 100 (99):1–5", "Psa", 100, range(1, 6),
         {"book": "Psalms", "he": "תְּהִלִּים", "heX": "Tehillim", "chapter": "Psalm 100", "vul": "Vulgate 99"},
-        poetry=True, witnesses=True)
+        poetry=True)
+# Where the numbering parts: the Hebrew ends Malachi at 3:24; the Vulgate
+# goes on to a fourth chapter.
+passage("mal3", "Malachi 3:19–24 (Vulgate 4:1–6)", "Mal", 3, range(19, 25),
+        {"book": "Malachias", "he": "מַלְאָכִי", "heX": "Malʾakhi", "chapter": "Chapter 3"})
+
+# The Vulgate and the Douay translate Ps 100:3's written form: say so only
+# where their text shows it.
+q = passages["qere"]["verses"][2]
+vulgate_follows_written = "et non ipsi nos" in q["vul"] and "not we ourselves" in q["drb"]
+for w in q["words"]:
+    if "q" in w and vulgate_follows_written:
+        w["q"]["follows"] = {"vul": q["vul"], "drb": q["drb"]}
+
+if check:
+    # Align whole books, not just the pages', and report what does not match.
+    align_report.clear()
+    words = 0
+    for book in wlc_books:
+        for (c, v) in wlc_book(book):
+            if (book, c, v) in words_by_verse:
+                words += len(align(book, c, v)[0])
+            else:
+                align_report.append({"ref": f"{book} {c}:{v}", "op": "no TAHOT verse"})
+    off = sum(len(r.get("wlc", [])) for r in align_report)
+    print(f"check: {words} WLC words in {', '.join(wlc_books)}; {len(align_report)} places, "
+          f"{off} WLC words not matched exactly", file=sys.stderr)
+    print(json.dumps(align_report, ensure_ascii=False, indent=1), file=sys.stderr)
+    sys.exit(0)
 
 # plain-words grammar for every code on the pages
 codes = {p["m"] for ps in passages.values() for v in ps["verses"] for w in v["words"] for p in w["p"]}
 grammar = {c: tehmc.get(c, "") for c in codes}
 
-data = {"passages": passages, "lex": lex, "roots": roots, "grammar": grammar, "stats": stats}
+vern_list = [{"id": c, "name": n, "from": f} for c, n, f in vernaculars]
+data = {"passages": passages, "lex": lex, "roots": roots, "grammar": grammar, "stats": stats,
+        "vernaculars": vern_list}
 blob = json.dumps(data, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
 
 for name in os.listdir(here):
@@ -558,4 +818,5 @@ for name in os.listdir(here):
             f.write(new)
         print("wrote", name, file=sys.stderr)
 
-print("lexemes", len(lex), "roots", len(roots), "qere verse", qkey, file=sys.stderr)
+print("lexemes", len(lex), "roots", len(roots), file=sys.stderr)
+print(json.dumps(align_report, ensure_ascii=False, indent=1), file=sys.stderr)
