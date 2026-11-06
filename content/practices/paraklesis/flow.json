@@ -723,12 +723,18 @@
 			}
 		},
 		{
-			"type": "lectio",
-			"reference": "luke 1:39-49"
+			"type": "subheading",
+			"text": {
+				"en-US": "Luke 1:39-49, 56",
+				"pt-BR": "Lc 1,39-49.56"
+			}
 		},
 		{
-			"type": "lectio",
-			"reference": "luke 1:56"
+			"type": "prayer",
+			"inline": {
+				"en-US": "And Mary rising up in those days, went into the hill country with haste into a city of Juda. And she entered into the house of Zachary and saluted Elizabeth. And it came to pass that when Elizabeth heard the salutation of Mary, the infant leaped in her womb. And Elizabeth was filled with the Holy Ghost. And she cried out with a loud voice and said: Blessed art thou among women and blessed is the fruit of thy womb. And whence is this to me that the mother of my Lord should come to me? For behold as soon as the voice of thy salutation sounded in my ears, the infant in my womb leaped for joy. And blessed art thou that hast believed, because those things shall be accomplished that were spoken to thee by the Lord. And Mary said: My soul doth magnify the Lord. And my spirit hath rejoiced in God my Saviour. Because he hath regarded the humility of his handmaid: for behold from henceforth all generations shall call me blessed. Because he that is mighty hath done great things to me: and holy is his name. And Mary abode with her about three months. And she returned to her own house.",
+				"pt-BR": "Naqueles dias, levantando-se Maria, foi com pressa às montanhas, a uma cidade de Judá. Entrou em casa de Zacarias, e saudou Isabel. Aconteceu que, apenas Isabel ouviu a saudação de Maria, o menino saltou no seu ventre, e Isabel ficou cheia do Espírito Santo; e exclamou em alta voz: \"Bendita és tu entre todas as mulheres, e bendito é o fruto do teu ventre. Donde a mim esta dita, que a mãe do meu Senhor venha ter comigo? Porque, logo que a voz da tua saudação chegou aos meus ouvidos, o menino saltou de alegria no meu ventre. Bem-aventurada a que acreditou, porque se hão-de cumprir as coisas que da parte do Senhor foram ditas.\" Então Maria disse: \"A minha alma glorifica o Senhor; e o meu espírito exulta em Deus meu Salvador, porque lançou os olhos para a baixeza da sua serva. Portanto, eis que, de hoje em diante, todas as gerações me chamarão bem-aventurada. Porque o Todo-poderoso fez em mim grandes coisas, o seu nome é santo.\" Maria ficou com Isabel cerca de três meses; depois voltou para sua casa."
+			}
 		},
 		{
 			"type": "prayer",
