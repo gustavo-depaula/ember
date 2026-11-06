@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Greek word study — three prototypes</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap&subset=greek-ext" rel="stylesheet">
+<link rel="stylesheet" href="ember.css">
+<script>
+  document.documentElement.dataset.theme =
+    new URLSearchParams(location.search).get('theme') ?? localStorage.getItem('ember-proto-theme') ?? 'light'
+</script>
+<style>
+  body { background: var(--bg); }
+</style>
+</head>
+<body>
+<main class="index">
+  <div class="kicker">The Bible reader · Prototypes</div>
+  <h1>Studying the Greek</h1>
+  <p class="lede">Three ways to read John 1:1–14 in the Nestle 1904 and study any word in it: lemma, parsing, Dodson, Abbott-Smith, the Middle Liddell and its occurrences.</p>
+  <div class="fleuron-rule" style="width:180px;margin:0 auto 36px">❦</div>
+
+  <a class="model" href="bottom-sheet.html">
+    <span class="num">i</span>
+    <span><h2>Bottom sheet</h2>
+    <p>The Greek reads as text; tap a word and a native sheet comes up with its study, while a verse number (or holding a word) still opens the verse’s half page.</p></span>
+  </a>
+  <a class="model" href="interlinear.html">
+    <span class="num">ii</span>
+    <span><h2>Interlinear toggle</h2>
+    <p>A switch in the reader re-sets the Greek as a flowing interlinear, each word over its gloss (and, if you like, its lemma and parsing); tapping still opens the study.</p></span>
+  </a>
+  <a class="model" href="side-by-side.html">
+    <span class="num">iii</span>
+    <span><h2>Side by side</h2>
+    <p>The Greek with the Douay-Rheims or the Vulgate, in alternating rows or in two columns whose rule you drag; Greek words open the study, the translation opens the verse.</p></span>
+  </a>
+
+  <p class="colophon">
+    Greek and parsing: Nestle 1904 (biblicalhumanities, CC-BY-SA) · word glosses: Berean Interlinear (public domain)<br>
+    Lexica: Dodson (public domain), Abbott-Smith (1922), Liddell &amp; Scott Intermediate (Perseus, CC-BY-SA)<br>
+    Douay-Rheims and Vulgate from Ember’s corpus · data built by <i>build-data.py</i>
+  </p>
+</main>
+</body>
+</html>
