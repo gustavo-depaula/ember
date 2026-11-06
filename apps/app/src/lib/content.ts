@@ -55,34 +55,53 @@ export function getDrbBooks(): Promise<Book[]> {
 }
 
 /**
+ * The corpus editions a translation reads from, in order: itself, the edition
+ * that completes it, that one's completion, and so on. The Hebrew Bible reads
+ * the deuterocanon from the Septuagint and the New Testament from the Nestle
+ * 1904, which completes the Septuagint; the Nestle and the Septuagint complete
+ * each other, so an edition met twice ends the chain.
+ */
+function completionChain(translation: string): { code: string; corpus: string }[] {
+  const chain: { code: string; corpus: string }[] = []
+  for (let code: string | undefined = translation; code; ) {
+    const edition = findTranslation(code)
+    if (!edition?.corpus || chain.some((e) => e.code === code)) break
+    chain.push({ code, corpus: edition.corpus })
+    code = edition.completes
+  }
+  return chain
+}
+
+/**
  * The edition a book is read from: the translation's own, or for a book it
- * lacks, the edition that completes it (a Greek New Testament reads its Old
- * Testament from the Septuagint).
+ * lacks, the first edition down its completion chain that has it (a Greek New
+ * Testament reads its Old Testament from the Septuagint).
  */
 export async function servingEdition(translation: string, bookId: string): Promise<string> {
-  const edition = findTranslation(translation)
-  if (!edition?.corpus || !edition.completes) return translation
-  const own = await getCorpusBooks(edition.corpus)
-  return own.some((b) => b.id === bookId) ? translation : edition.completes
+  const chain = completionChain(translation)
+  if (chain.length < 2) return translation
+  for (const { code, corpus } of chain) {
+    if ((await getCorpusBooks(corpus)).some((b) => b.id === bookId)) return code
+  }
+  return translation
 }
 
 // Every translation lists the same 73 books under the Douay slugs, so a
 // reference or a reading position carries over when the translation changes.
 export async function getBooks(translation: string): Promise<Book[]> {
-  const edition = findTranslation(translation)
-  const corpus = edition?.corpus
-  const completion = edition?.completes && findTranslation(edition.completes)?.corpus
-  if (corpus && completion) {
-    const [own, other, order] = await Promise.all([
-      getCorpusBooks(corpus),
-      getCorpusBooks(completion),
+  const chain = completionChain(translation)
+  if (chain.length > 1) {
+    const [order, ...lists] = await Promise.all([
       getDrbBooks(),
+      ...chain.map(({ corpus }) => getCorpusBooks(corpus)),
     ])
-    const ids = new Set(own.map((b) => b.id))
-    const all = [...own, ...other.filter((b) => !ids.has(b.id))]
+    // The first edition in the chain to have a book reads it.
+    const byId = new Map<string, Book>()
+    for (const list of lists) for (const b of list) if (!byId.has(b.id)) byId.set(b.id, b)
     const at = (id: string) => order.findIndex((b) => b.id === id)
-    return all.sort((a, b) => at(a.id) - at(b.id))
+    return [...byId.values()].sort((a, b) => at(a.id) - at(b.id))
   }
+  const corpus = findTranslation(translation)?.corpus
   if (corpus) return getCorpusBooks(corpus)
 
   const drbBooks = await getDrbBooks()
