@@ -90,7 +90,7 @@ function sing(
   const out: Primitive[] = []
   const inOptions = (options: ContainerOption[]) =>
     options.map((option) => ({ ...option, children: sing(option.children, pairings, chants) }))
-  // The tone of the last sung antiphon, which its psalm takes.
+  // The tone of the antiphon just sung, which its psalm takes.
   let tone: PsalmTone | undefined
   for (let i = 0; i < list.length; i++) {
     const p = list[i]
@@ -110,9 +110,12 @@ function sing(
     const pairing = pairingOf(p, pairings)
     const found = pairing?.ids.flatMap((id) => chants.get(id) ?? [])
 
+    // Each psalm here has an antiphon of its own: one without its chant gives its psalm no tone.
+    if (isAntiphon(p) && !found?.length) tone = undefined
+
     if (found?.length && isAntiphon(p)) {
       const [antiphon] = found
-      tone = toneOf(antiphon.mode, antiphon.score) ?? tone
+      tone = toneOf(antiphon.mode, antiphon.score)
       out.push({ type: 'sung', text: [p], chants: found })
       continue
     }
