@@ -1,0 +1,46 @@
+{
+	"id": "veni-veni-emmanuel",
+	"form": "prayer",
+	"icon": "candle",
+	"name": {
+		"en-US": "Veni, veni Emmanuel",
+		"pt-BR": "Veni, veni Emmanuel",
+		"la": "Veni, veni Emmanuel"
+	},
+	"categories": [
+		"devotion",
+		"seasonal"
+	],
+	"estimatedMinutes": 3,
+	"description": {
+		"en-US": "*Draw nigh, draw nigh, Emmanuel* — the Advent hymn that gathers the great O Antiphons into one cry for the coming of the Saviour.",
+		"pt-BR": "*Ó vem, ó vem, Emmanuel* — o hino do Advento que reúne as grandes Antífonas do Ó num só clamor pela vinda do Salvador."
+	},
+	"history": {
+		"en-US": "The verses paraphrase the O Antiphons sung at Vespers from 17 to 23 December; the hymn first appears in the *Psalteriolum Cantionum Catholicarum* (Cologne, 1710), and J. M. Neale put it into English in 1851.",
+		"pt-BR": "As estrofes parafraseiam as Antífonas do Ó, cantadas nas Vésperas de 17 a 23 de dezembro; o hino aparece pela primeira vez no *Psalteriolum Cantionum Catholicarum* (Colônia, 1710), e J. M. Neale o verteu para o inglês em 1851."
+	},
+	"source": {
+		"en-US": "Latin and English (J. M. Neale): *A Manual of Prayers for the Use of the Catholic Laity* (Baltimore, 1889), \"Advent Hymn\", pp. 602–603 — [Wikisource](https://en.wikisource.org/wiki/A_Manual_of_Prayers_for_the_Use_of_the_Catholic_Laity/Hymns_and_Sequences/Advent_Hymn)",
+		"pt-BR": "Latim e inglês (J. M. Neale): *A Manual of Prayers for the Use of the Catholic Laity* (Baltimore, 1889), «Advent Hymn», pp. 602–603 — [Wikisource](https://en.wikisource.org/wiki/A_Manual_of_Prayers_for_the_Use_of_the_Catholic_Laity/Hymns_and_Sequences/Advent_Hymn) · Português: [Lírio Católico](https://www.liriocatolico.com.br/oracoes/view/veni_veni_emmanuel/)"
+	},
+	"tags": [
+		"hymn",
+		"advent"
+	],
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"defaults": {
+		"sortOrder": 542,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

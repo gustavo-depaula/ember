@@ -1,0 +1,63 @@
+{
+	"id": "prayer-holy-spirit-mercier",
+	"form": "prayer",
+	"icon": "flame",
+	"name": {
+		"en-US": "Cardinal Mercier's Prayer to the Holy Spirit",
+		"pt-BR": "Oração ao Espírito Santo do Cardeal Mercier",
+		"fr": "Prière au Saint-Esprit du cardinal Mercier"
+	},
+	"categories": [
+		"devotion",
+		"holy-spirit"
+	],
+	"estimatedMinutes": 5,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"description": {
+		"en-US": "\"Holy Spirit, soul of my soul\": the daily act of submission to the Holy Spirit that Cardinal Mercier called the secret of sanctity.",
+		"pt-BR": "\"Ó Espírito Santo, alma da minha alma\": o ato diário de submissão ao Espírito Santo que o Cardeal Mercier chamou o segredo da santidade."
+	},
+	"history": {
+		"en-US": "Désiré-Joseph Mercier (1851–1926), Archbishop of Mechelen and Primate of Belgium, philosopher of the Thomist revival and defender of his people during the First World War, taught this prayer as \"a secret of sanctity and happiness\": for five minutes each day, silence the imagination, close the senses to the noise of the world, enter the sanctuary of the baptized soul, the temple of the Holy Spirit, and speak to Him. He promised that a life lived in this submission would flow on in peace even amid trials.",
+		"pt-BR": "Désiré-Joseph Mercier (1851–1926), arcebispo de Malines e primaz da Bélgica, filósofo do renascimento tomista e defensor do seu povo na Primeira Guerra Mundial, ensinava esta oração como \"um segredo de santidade e de felicidade\": durante cinco minutos por dia, calar a imaginação, fechar os sentidos ao ruído do mundo, entrar no santuário da alma batizada, templo do Espírito Santo, e falar com Ele. Prometia que uma vida vivida nessa submissão correria em paz mesmo no meio das provações."
+	},
+	"howToPray": {
+		"en-US": "Each day, take five minutes of silence. Close your eyes, recollect yourself in the depth of your soul where the Holy Spirit dwells, and say the prayer slowly.",
+		"pt-BR": "Todos os dias, reserve cinco minutos de silêncio. Feche os olhos, recolha-se no fundo da alma onde habita o Espírito Santo e diga a oração devagar."
+	},
+	"source": {
+		"en-US": "French: parish bulletin of Notre-Dame de Clignancourt, Paris, 12 May 2024 ([PDF](https://ndclignancourt.org/wp-content/uploads/2024/05/fip_12mai-2024.pdf)). English: Vultus Christi, Benedictine Monks of Silverstream Priory, \"Favourite Prayers to the Holy Ghost (I)\", 6 May 2016 ([link](https://vultuschristi.org/index.php/2016/05/my-favourite-prayers-to-the-ho/)). Portuguese: Apostolado Mãe dos Sacerdotes, \"Tríduo de Consagração ao Espírito Santo\" ([link](https://maternidadeespiritual.com.br/triduo-de-consagracao-ao-espirito-santo/)). No dated primary edition of Mercier's text was found.",
+		"pt-BR": "Francês: boletim paroquial de Notre-Dame de Clignancourt, Paris, 12 de maio de 2024 ([PDF](https://ndclignancourt.org/wp-content/uploads/2024/05/fip_12mai-2024.pdf)). Inglês: Vultus Christi, monges beneditinos de Silverstream Priory, \"Favourite Prayers to the Holy Ghost (I)\", 6 de maio de 2016 ([link](https://vultuschristi.org/index.php/2016/05/my-favourite-prayers-to-the-ho/)). Português: Apostolado Mãe dos Sacerdotes, \"Tríduo de Consagração ao Espírito Santo\" ([link](https://maternidadeespiritual.com.br/triduo-de-consagracao-ao-espirito-santo/)). Não se encontrou edição primária datada do texto de Mercier."
+	},
+	"tags": [
+		"holy-spirit",
+		"mercier",
+		"abandonment",
+		"will-of-god"
+	],
+	"defaults": {
+		"sortOrder": 533,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"inline": {
+					"fr": "O Esprit-Saint, Ame de mon âme, je vous adore !\nEclairez-moi, guidez-moi, fortifiez-moi, consolez-moi.\nDites-moi ce que je dois faire, donnez-moi vos ordres.\nJe vous promets de me soumettre à tout ce que vous désirez de moi\net d’accepter tout ce que vous permettrez qu’il m’arrive.\nFaites-moi seulement connaître votre volonté. Amen",
+					"en-US": "Holy Spirit, soul of my soul, I adore Thee;\nenlighten, guide, strengthen and console me;\ntell me what I ought to do and command me to do it,\nI promise to be submissive in everything that Thou shalt ask of me\nand to accept all that Thou permittest to happen to me,\nonly show me what is Thy will.",
+					"pt-BR": "Ó Espírito Santo, Alma da minha alma! Eu vos adoro. Iluminai-me, guiai-me, fortalecei-me, consolai-me. Dizei-me o que devo fazer. Dai-me vossas ordens. Eu vos prometo submeter-me a quanto desejais de mim e aceitar tudo quanto permitais que me aconteça. Fazei-me somente conhecer a vossa vontade."
+				}
+			}
+		]
+	}
+}

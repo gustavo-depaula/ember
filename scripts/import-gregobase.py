@@ -537,6 +537,11 @@ PRAYER_SETTINGS = {
     'prayer-pope-bishop': ('18296', 'Orémus pro beatíssimo'),
     # A litany is dozens of sections, and a chant sets only the one before it.
     'litany-loreto': ('15767', None),
+    # The prayer prints fewer stanzas than the book sets, or writes out a refrain the book prints once.
+    'o-filii-et-filiae': ('3031', 'Alleluia, alleluia'),
+    'parce-domine': ('3038', 'Parce, Dómine'),
+    'salve-mater-misericordiae': ('12111', 'Salve mater'),
+    'veni-veni-emmanuel': ('7426', 'Veni, veni'),
 }
 PRAYER_BOOK = {
     'id': 'chant-book/cantus',

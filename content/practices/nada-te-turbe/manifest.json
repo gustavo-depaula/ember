@@ -1,0 +1,63 @@
+{
+	"id": "nada-te-turbe",
+	"form": "prayer",
+	"icon": "flame",
+	"name": {
+		"en-US": "St. Teresa's Bookmark",
+		"pt-BR": "Nada te perturbe",
+		"es": "Nada te turbe"
+	},
+	"categories": [
+		"devotion",
+		"carmelite"
+	],
+	"estimatedMinutes": 1,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"description": {
+		"en-US": "Nine short lines of St. Teresa of Ávila on trust in God: everything passes, God does not change, and God alone suffices.",
+		"pt-BR": "Nove versos breves de Santa Teresa de Ávila sobre a confiança em Deus: tudo passa, Deus não muda, e só Deus basta."
+	},
+	"history": {
+		"en-US": "St. Teresa of Jesus (1515–1582) kept these lines in the breviary she was using when she died at Alba de Tormes; Fr. Jerónimo Gracián attested the breviary in his own hand, hence the name \"St. Teresa's Bookmark\". The longer poem of nine stanzas that glosses each line (\"Eleva tu pensamiento…\") circulated on old printed sheets, and her editor Silverio de Santa Teresa judged it a later gloss rather than her own. The English is Henry Wadsworth Longfellow's translation.",
+		"pt-BR": "Santa Teresa de Jesus (1515–1582) guardava estes versos no breviário que usava quando morreu em Alba de Tormes; o Pe. Jerónimo Gracián atestou de próprio punho que o breviário era dela, daí o nome de \"marcador de livro de Santa Teresa\". O poema mais longo, de nove estrofes, que glosa cada verso (\"Eleva tu pensamiento…\"), circulou em antigas folhas impressas, e o seu editor Silverio de Santa Teresa o considerou uma glosa posterior, não obra dela."
+	},
+	"howToPray": {
+		"en-US": "Say it slowly, line by line, in a moment of worry or agitation; it is short enough to learn by heart.",
+		"pt-BR": "Diga-o devagar, verso por verso, num momento de preocupação ou inquietação; é curto o bastante para saber de cor."
+	},
+	"source": {
+		"en-US": "*The Poetical Works of Henry Wadsworth Longfellow* (London: Frederick Warne, 1889), \"Santa Teresa's Book-mark\", p. 535 — [Project Gutenberg #78406](https://www.gutenberg.org/ebooks/78406). Original: *Obras de Sta. Teresa de Jesús*, ed. Silverio de Santa Teresa, t. VI (Burgos: El Monte Carmelo, 1919), Poesías IX, p. 91 — [archive.org](https://archive.org/details/obrasdestateresa06tere)",
+		"pt-BR": "Canção Nova, \"Nada te perturbe\" (*Formação*, 2004) — [formacao.cancaonova.com](https://formacao.cancaonova.com/diversos/nada-te-perturbe/)"
+	},
+	"tags": [
+		"teresa",
+		"carmelite",
+		"trust",
+		"peace"
+	],
+	"defaults": {
+		"sortOrder": 522,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "Let nothing disturb thee,\nNothing affright thee;\nAll things are passing;\nGod never changeth;\nPatient endurance\nAttaineth to all things;\nWho God possesseth\nIn nothing is wanting;\nAlone God sufficeth.",
+					"pt-BR": "Nada te perturbe,\nnada te assuste,\ntudo passa.\nDeus não muda.\nA paciência tudo alcança.\nQuem a Deus tem nada lhe falta.\nSó Deus basta!",
+					"es": "Nada te turbe,\nNada te espante.\nTodo se pasa,\nDios no se muda.\nLa paciencia\nTodo lo alcanza;\nQuien a Dios tiene\nNada le falta:\nSólo Dios basta."
+				}
+			}
+		]
+	}
+}

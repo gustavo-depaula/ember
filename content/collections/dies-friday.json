@@ -71,7 +71,10 @@
 					"ref": "practice/first-friday-devotion",
 					"seeAlso": ["collection/sacred-heart"]
 				},
-				{ "kind": "item", "ref": "practice/prayer-before-crucifix" }
+				{ "kind": "item", "ref": "practice/prayer-before-crucifix" },
+				{ "kind": "item", "ref": "practice/chaplet-five-wounds" },
+				{ "kind": "item", "ref": "practice/chaplet-precious-blood" },
+				{ "kind": "item", "ref": "practice/fifteen-prayers-st-bridget" }
 			]
 		}
 	]

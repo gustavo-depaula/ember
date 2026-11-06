@@ -1,0 +1,46 @@
+{
+	"id": "inviolata",
+	"form": "prayer",
+	"icon": "mary",
+	"name": {
+		"en-US": "Inviolata",
+		"pt-BR": "Inviolata",
+		"la": "Inviolata"
+	},
+	"categories": [
+		"devotion",
+		"marian"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "*Inviolate, spotless and pure art thou, O Mary* — a sequence in praise of the Virgin who became the radiant gate of heaven.",
+		"pt-BR": "*Inviolada, íntegra e casta sois, Maria* — uma sequência em louvor da Virgem que se tornou a porta fulgente do céu."
+	},
+	"history": {
+		"en-US": "A Marian prose of the eleventh century, long sung at Benediction and after Compline; the Liber Usualis prints it among the chants in honour of the Blessed Virgin.",
+		"pt-BR": "Uma prosa mariana do século XI, cantada por muito tempo na Bênção do Santíssimo e depois das Completas; o Liber Usualis a traz entre os cantos em honra da Santíssima Virgem."
+	},
+	"source": {
+		"en-US": "Latin: *The Liber Usualis* (Desclée, 1961), p. 1861, as transcribed in [GregoBase](https://gregobase.selapa.net/chant.php?id=3027) · English: Fr. Adrian Fortescue (1874–1923), via [Virgo Sacrata](https://www.virgosacrata.com/?p=18884)",
+		"pt-BR": "Latim: *The Liber Usualis* (Desclée, 1961), p. 1861, conforme a transcrição do [GregoBase](https://gregobase.selapa.net/chant.php?id=3027) · Português: *Meditações das obras de São Tomás de Aquino*, [Veritatis Splendor](https://www.veritatis.com.br/meditacoes-das-obras-de-santo-tomas/)"
+	},
+	"tags": [
+		"hymn",
+		"marian"
+	],
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"defaults": {
+		"sortOrder": 540,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

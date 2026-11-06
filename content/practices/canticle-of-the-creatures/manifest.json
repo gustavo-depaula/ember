@@ -1,0 +1,60 @@
+{
+	"id": "canticle-of-the-creatures",
+	"form": "prayer",
+	"icon": "sun",
+	"name": {
+		"en-US": "Canticle of the Creatures",
+		"pt-BR": "Cântico das Criaturas",
+		"it": "Cantico di Frate Sole"
+	},
+	"categories": [
+		"devotion",
+		"franciscan"
+	],
+	"estimatedMinutes": 3,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"description": {
+		"en-US": "St. Francis of Assisi's song of praise to God through Brother Sun, Sister Moon, wind, water, fire, earth, and even Sister Death — the creatures that tell of their Maker.",
+		"pt-BR": "O cântico de louvor de São Francisco de Assis a Deus pelo Irmão Sol, pela Irmã Lua, pelo vento, pela água, pelo fogo, pela terra e até pela Irmã Morte — as criaturas que falam do seu Criador."
+	},
+	"history": {
+		"en-US": "St. Francis composed the *Laudes creaturarum* in his Umbrian vernacular around 1225, ill and nearly blind, in a hut beside San Damiano; it is one of the earliest poems in Italian. According to the *Speculum Perfectionis*, he added the strophe on pardon and peace to reconcile the bishop and the mayor of Assisi, and the strophe on Sister Death as his own death approached in 1226. The oldest text is in Assisi, Biblioteca Comunale, MS 338.",
+		"pt-BR": "São Francisco compôs as *Laudes creaturarum* no seu vernáculo úmbrio por volta de 1225, doente e quase cego, numa cabana junto a São Damião; é um dos primeiros poemas da língua italiana. Segundo o *Speculum Perfectionis*, ele acrescentou a estrofe do perdão e da paz para reconciliar o bispo e o prefeito de Assis, e a estrofe da Irmã Morte quando a sua própria morte se aproximava, em 1226. O texto mais antigo está no manuscrito 338 da Biblioteca Comunal de Assis."
+	},
+	"source": {
+		"en-US": "Paschal Robinson, *The Writings of Saint Francis of Assisi* (Philadelphia: Dolphin Press, 1906), \"The Canticle of the Sun\", pp. 152–153, translated from Assisi MS 338 — [Wikisource](https://en.wikisource.org/wiki/The_Writings_of_St._Francis_of_Assisi/The_Canticle_of_the_Sun). Original: St. John Lucas, *The Oxford Book of Italian Verse* (Oxford, 1910), no. 1, pp. 1–2 — [Wikisource](https://it.wikisource.org/wiki/Laudes_creaturarum_(Lucas))",
+		"pt-BR": "Província Franciscana da Imaculada Conceição do Brasil (OFM), \"O Cântico das Criaturas\" — [franciscanos.org.br](https://franciscanos.org.br/carisma/simbolos/o-cantico-das-criaturas)"
+	},
+	"tags": [
+		"francis",
+		"franciscan",
+		"canticle",
+		"creation",
+		"praise"
+	],
+	"defaults": {
+		"sortOrder": 521,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "Most high, omnipotent, good Lord,\nPraise, glory and honor and benediction all, are Thine.\nTo Thee alone do they belong, most High,\nAnd there is no man fit to mention Thee.\n\nPraise be to Thee, my Lord, with all Thy creatures,\nEspecially to my worshipful brother sun,\nThe which lights up the day, and through him dost Thou brightness give;\nAnd beautiful is he and radiant with splendor great;\nOf Thee, most High, signification gives.\n\nPraised be my Lord, for sister moon and for the stars,\nIn heaven Thou hast formed them clear and precious and fair.\n\nPraised be my Lord for brother wind\nAnd for the air and clouds and fair and every kind of weather,\nBy the which Thou givest to Thy creatures nourishment.\nPraised be my Lord for sister water,\nThe which is greatly helpful and humble and precious and pure.\n\nPraised be my Lord for brother fire,\nBy the which Thou lightest up the dark.\nAnd fair is he and gay and mighty and strong.\n\nPraised be my Lord for our sister, mother earth,\nThe which sustains and keeps us\nAnd brings forth diverse fruits with grass and flowers bright.\n\nPraised be my Lord for those who for Thy love forgive\nAnd weakness bear and tribulation.\nBlessed those who shall in peace endure,\nFor by Thee, most High, shall they be crowned.\n\nPraised be my Lord for our sister, the bodily death,\nFrom the which no living man can flee.\nWoe to them who die in mortal sin;\nBlessed those who shall find themselves in Thy most holy will,\nFor the second death shall do them no ill.\n\nPraise ye and bless ye my Lord, and give Him thanks,\nAnd be subject unto Him with great humility.",
+					"pt-BR": "Altíssimo, onipotente, bom Senhor,\nTeus são o louvor, a glória, a honra\nE toda a bênção.\nSó a ti, Altíssimo, são devidos;\nE homem algum é digno\nDe te mencionar.\n\nLouvado sejas, meu Senhor,\nCom todas as tuas criaturas,\nEspecialmente o Senhor Irmão Sol,\nQue clareia o dia\nE com sua luz nos alumia.\n\nE ele é belo e radiante\nCom grande esplendor:\nDe ti, Altíssimo é a imagem.\n\nLouvado sejas, meu Senhor,\nPela irmã Lua e as Estrelas,\nQue no céu formaste claras\nE preciosas e belas.\n\nLouvado sejas, meu Senhor,\nPelo irmão Vento,\nPelo ar, ou nublado\nOu sereno, e todo o tempo\nPela qual às tuas criaturas dás sustento.\n\nLouvado sejas, meu Senhor,\nPela irmã Água,\nQue é mui útil e humilde\nE preciosa e casta.\n\nLouvado sejas, meu Senhor,\nPelo irmão Fogo\nPelo qual iluminas a noite\nE ele é belo e jucundo\nE vigoroso e forte.\n\nLouvado sejas, meu Senhor,\nPor nossa irmã a mãe Terra\nQue nos sustenta e governa,\nE produz frutos diversos\nE coloridas flores e ervas.\n\nLouvado sejas, meu Senhor,\nPelos que perdoam por teu amor,\nE suportam enfermidades e tribulações.\n\nBem-aventurados os que sustentam a paz,\nQue por ti, Altíssimo, serão coroados.\n\nLouvado sejas, meu Senhor,\nPor nossa irmã a Morte corporal,\nDa qual homem algum pode escapar.\n\nAi dos que morrerem em pecado mortal!\nFelizes os que ela achar\nConformes à tua santíssima vontade,\nPorque a morte segunda não lhes fará mal!\n\nLouvai e bendizei a meu Senhor,\nE dai-lhe graças,\nE servi-o com grande humildade",
+					"it": "Altissimu onnipotente bon signore,\nTue so le laude, la gloria e l’honore et onne benedictione\nAd te solu, altissimu, se confanno,\nEt nullu homo ene dignu te mentovare.\n\nLaudatu si’, mi signore, cum tucte le tue creature,\nSpetialmente messor lu frate sole,\nLo quale lu jorno allumeni per nui;\nEt ellu è bellu e radiante cum grande splendore:\nDe te, altissimu, porta significatione.\n\nLaudatu si’, mi signore, per sora luna e le stelle;\nIn celu l’ai formate clarite et pretiose et belle.\n\nLaudatu si’, mi signore, per frate ventu,\nE per aere et nubilo e sereno et onne tempu,\nPer le quale a le tue creature dài sustentamentu.\n\nLaudatu si’, mi signore, per sor acqua,\nLa quale e molto utile e humele e pretiosa e casta.\n\nLaudatu si’, mi signore, per frate focu,\nPer lu quale n’allumeni la nocte,\nEd ellu è bellu e jocondu e robostosu e forte.\n\nLaudatu si’, mi signore, per sora nostra matre terra,\nLa quale ne sustenta e guverna,\nE produce diversi fructi e colorati flori et herba.\n\nLaudatu si’, mi signore, per quilli ke perdonano per lo tuo amore,\nE sostengo infirmitate e tribulatione:\nBeati quilli ke le sosterrano in pace,\nKa da te, altissimu, sirano incoronati.\n\nLaudatu si’, mi signore, per sora nostra morte corporale,\nDa la quale nullu homo vivente po skampare:\nGuai a quilli ke morrano in peccato mortale;\nBeati quilli ke se trovarà ne le tue sanctissime voluntati,\nKa la morte secunda nol farrà male.\n\nLaudate e benedicite lu mi signore et rengratiate\nEt serviateli cum grande humilitate. Amen."
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,104 @@
+{
+	"data": {
+		"wound": [
+			{
+				"title": {
+					"en-US": "The Wound of the Left Foot",
+					"pt-BR": "A Chaga do Pé Esquerdo"
+				},
+				"focus": {
+					"en-US": "Meditate on the Wound in the left Foot of our Lord.",
+					"pt-BR": "Medite na Chaga do pé esquerdo de Nosso Senhor."
+				}
+			},
+			{
+				"title": {
+					"en-US": "The Wound of the Right Foot",
+					"pt-BR": "A Chaga do Pé Direito"
+				},
+				"focus": {
+					"en-US": "Meditate on the Wound in the right Foot of our Lord.",
+					"pt-BR": "Medite na Chaga do pé direito de Nosso Senhor."
+				}
+			},
+			{
+				"title": {
+					"en-US": "The Wound of the Left Hand",
+					"pt-BR": "A Chaga da Mão Esquerda"
+				},
+				"focus": {
+					"en-US": "Meditate on the Wound in the left Hand of our Lord.",
+					"pt-BR": "Medite na Chaga da mão esquerda de Nosso Senhor."
+				}
+			},
+			{
+				"title": {
+					"en-US": "The Wound of the Right Hand",
+					"pt-BR": "A Chaga da Mão Direita"
+				},
+				"focus": {
+					"en-US": "Meditate on the Wound in the right Hand of our Lord.",
+					"pt-BR": "Medite na Chaga da mão direita de Nosso Senhor."
+				}
+			},
+			{
+				"title": {
+					"en-US": "The Wound of the Sacred Side",
+					"pt-BR": "A Chaga do Sagrado Lado"
+				},
+				"focus": {
+					"en-US": "Meditate on the Wound in the sacred Side of our Lord.",
+					"pt-BR": "Medite na Chaga do sagrado Lado de Nosso Senhor."
+				}
+			}
+		]
+	},
+	"sections": [
+		{
+			"type": "repeat",
+			"count": 5,
+			"from": "wound",
+			"sections": [
+				{
+					"type": "heading",
+					"text": "{{title}}"
+				},
+				{
+					"type": "rubric",
+					"text": "{{focus}}"
+				},
+				{
+					"type": "rubric",
+					"text": {
+						"en-US": "On each of the five beads, one Glory Be:",
+						"pt-BR": "Em cada uma das cinco contas, um Glória:"
+					}
+				},
+				{
+					"type": "repeat",
+					"count": 5,
+					"sections": [
+						{
+							"type": "prayer",
+							"ref": "glory-be"
+						}
+					]
+				},
+				{
+					"type": "rubric",
+					"text": {
+						"en-US": "One Hail Mary in honour of our Lady of Sorrows:",
+						"pt-BR": "Uma Ave-Maria em honra de Nossa Senhora das Dores:"
+					}
+				},
+				{
+					"type": "prayer",
+					"ref": "hail-mary"
+				},
+				{
+					"type": "divider"
+				}
+			]
+		}
+	]
+}
