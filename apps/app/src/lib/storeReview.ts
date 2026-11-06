@@ -11,7 +11,7 @@ const storeReview = requireOptionalNativeModule('ExpoStoreReview')
   : undefined
 
 const askedKey = 'review.askedAt'
-const prayedDaysBeforeAsking = 5
+const prayedDaysBeforeAsking = 2
 const daysBetweenAsks = 120
 
 /**
