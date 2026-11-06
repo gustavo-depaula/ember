@@ -61,6 +61,10 @@ Usage (the first directory is the edition's own repo, then its helpers):
     nt.py byzantine     <byzantine-majority-text> <strongs>
     nt.py scrivener     <greektext-scrivener> <greektext-textus-receptus> <strongs>
 Run with `python3 -I` when the source dirs are fresh downloads.
+
+This writes [lemma, morph] entries; after rebuilding any edition, rerun
+glosses.py (adds each word's English gloss) and then concordance.py, in that
+order (see glosses.py).
 """
 from __future__ import annotations
 
