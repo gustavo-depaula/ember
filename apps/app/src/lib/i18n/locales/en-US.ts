@@ -135,6 +135,7 @@ export default {
       delayed: 'Delayed',
       atrisk: 'At risk',
       missed: 'Missed',
+      ahead: 'Upcoming',
     },
     sacredScripture: 'Sacred Scripture',
     sacredScriptureSub: 'Read the Bible',

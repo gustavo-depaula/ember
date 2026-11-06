@@ -95,8 +95,8 @@ describe('a day the date scrubber shows', () => {
   const today = '2026-11-06'
   const afternoon = 15 * 60
   const standingOn = (date: string) => {
-    const { now, over } = hourOfDay(date, today, afternoon)
-    return planStanding(blocks, morningDone, now, over)
+    const { now, when } = hourOfDay(date, today, afternoon)
+    return planStanding(blocks, morningDone, now, when)
   }
 
   it('reads today at the clock', () => {
@@ -105,7 +105,7 @@ describe('a day the date scrubber shows', () => {
 
   it('reads a day ahead as not yet begun, whatever the clock says', () => {
     const day = standingOn('2026-11-07')
-    expect(day.standing).toBe('ontrack')
+    expect(day.standing).toBe('ahead')
     expect(day.entries.some((e) => e.status === 'late')).toBe(false)
     expect(hourOfDay('2026-11-07', today, afternoon).current).toBe('morning')
   })
@@ -122,7 +122,7 @@ describe('a day the date scrubber shows', () => {
   })
 
   it('does not count a day gone by missed for the practices that are not essential', () => {
-    const { now, over } = hourOfDay('2026-11-05', today, afternoon)
-    expect(planStanding(withTier(false), morningDone, now, over).standing).not.toBe('missed')
+    const { now, when } = hourOfDay('2026-11-05', today, afternoon)
+    expect(planStanding(withTier(false), morningDone, now, when).standing).not.toBe('missed')
   })
 })
