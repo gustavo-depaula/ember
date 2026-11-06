@@ -537,7 +537,8 @@ def write_hours(offline=False):
     for ids in pairs.values():
         for ref in [ids] if isinstance(ids, str) else ids:
             found = re.fullmatch(r'chant/(\w+)-[a-z0-9-]+-(\d+)', ref)
-            if found:
+            # A score the Latin Office already sings is in content/chant-propers/ under the same name.
+            if found and not (PROPERS / f"{ref.removeprefix('chant/')}.gabc").exists():
                 wanted[ref.removeprefix('chant/')] = found.group(2)
     sql = dump()
     chants = {c['id']: c for c in rows(sql, 'gregobase_chants') if not int(c['copyrighted'])}

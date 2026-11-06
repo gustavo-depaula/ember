@@ -32,7 +32,7 @@ vi.mock('@/features/chant/chants', async () => {
   return {
     loadChant: async (id: string) => {
       const stem = id.replace(/^chant\//, '')
-      const file = ['chants', 'chant-hours']
+      const file = ['chants', 'chant-propers', 'chant-hours']
         .map((dir) => resolve(root, '..', dir, `${stem}.gabc`))
         .find((f) => existsSync(f))
       if (!file) return undefined
