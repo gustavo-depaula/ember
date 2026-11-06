@@ -585,6 +585,8 @@ export function renderSlots(parts: HourPart[], ctx: RenderContext): SlotPrimitiv
     },
     ...rest.map((part) => ({
       slot: part.slot,
+      ref: part.ref,
+      choiceRefs: part.choiceRefs,
       primitives: part.choices
         ? chosenAmong(part.choices, part.chosen ?? 0, ctx)
         : renderBlocks(part.blocks, ctx),

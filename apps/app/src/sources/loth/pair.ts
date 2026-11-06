@@ -4,123 +4,96 @@
 // last strophe), so a part is paired line for line only where both sides have
 // the same shape, and otherwise as one block beside one block.
 //
-// What is paired is checked first. A psalm, a reading and a responsory carry
-// numbers both editions print (Psalmus 92 (93) / Salmo 92(93), Act 10, 40-43
-// / At 10,40-43); a text without them (an antiphon, the prayer) is the Latin
-// day's only where the office it belongs to agrees with the Latin on every
-// part that has them. On a memorial that tells the saint's office from the
-// weekday's: they differ in the short reading.
+// Which Latin is each part's is settled when the corpus is built
+// (`scripts/loth/latin/`); here a part and its Latin are only laid side by side.
 
 import type { Primitive, TextPrimitive, VersesPrimitive } from '@/content/primitives'
-import type { LatinSection } from './latin'
+
+/**
+ * A part of the Latin hour, cut by the titles the Latin edition prints: the
+ * slot the Brazilian part it answers to has ('psalm-2', 'reading', 'prayer'…),
+ * its title and name, and what is said under it.
+ */
+export interface LatinSection {
+  slot: string
+  // A psalm's title ("Psalmus 118 (119), 97-104"), a reading's citation.
+  title?: string
+  // A psalm's or canticle's own name, the second line of its title.
+  subtitle?: string
+  body: Primitive[]
+}
+
+// As the corpus keeps it: a text as a string, a versicle and its response as
+// `v`, a red line as `r`.
+export type StoredLine = string | { v: string[] } | { r: string }
+export interface StoredLatin {
+  slot: string
+  title?: string
+  subtitle?: string
+  body: StoredLine[]
+}
+// The Latin of one bundle of parts, part for part (`null` where a part has no
+// Latin original: a hymn of the Brazilian's own, a Brazilian saint's text).
+export interface LatinBundle {
+  id: string
+  parts: (StoredLatin | null)[]
+}
+
+export function latinSection(stored: StoredLatin): LatinSection {
+  return {
+    ...stored,
+    body: stored.body.map((line): Primitive => {
+      if (typeof line === 'string') return { type: 'text', text: { primary: line } }
+      if ('v' in line)
+        return { type: 'verses', items: line.v.map((said) => ({ text: { primary: said } })) }
+      return { type: 'rubric', text: { primary: line.r } }
+    }),
+  }
+}
+
+export function storedLatin(section: LatinSection): StoredLatin {
+  return {
+    slot: section.slot,
+    ...(section.title ? { title: section.title } : {}),
+    ...(section.subtitle ? { subtitle: section.subtitle } : {}),
+    body: section.body.flatMap((p): StoredLine[] => {
+      if (p.type === 'text') return [p.text.primary]
+      if (p.type === 'verses') return [{ v: p.items.map((item) => item.text.primary) }]
+      if (p.type === 'rubric') return [{ r: p.text.primary }]
+      return []
+    }),
+  }
+}
 
 export interface SlotPrimitives {
   slot: string
   primitives: Primitive[]
+  // Where the part is in the corpus, and each of its choices.
+  ref?: string
+  choiceRefs?: string[]
+  // The Latin it was paired with: the part's, or each choice's.
+  latin?: LatinSection
+  latinChoices?: (LatinSection | undefined)[]
 }
 
 // A slot met twice in an hour is numbered by the corpus: 'ant-2~2'.
-const baseOf = (slot: string) => slot.replace(/~\d+$/, '')
-const occurrenceOf = (slot: string) => Number(/~(\d+)$/.exec(slot)?.[1] ?? 1)
+export const baseOf = (slot: string) => slot.replace(/~\d+$/, '')
 
-// Texts that are the same every day (the Gospel canticle among them): safe to
-// pair on any day.
-const ordinary = new Set(['intro', 'conclusion', 'canticle'])
-const isAntiphon = (slot: string) => /^(ant-\d+(-end)?|canticle-ant(-end)?)$/.test(slot)
-const isPsalm = (slot: string) => /^(psalm-\d+|canticle|te-deum)$/.test(slot)
-const isAnchored = (slot: string) => /^(psalm-\d+|reading(-\d+)?|responsory-\d+)$/.test(slot)
+export const isAntiphon = (slot: string) => /^(ant-\d+(-end)?|canticle-ant(-end)?)$/.test(slot)
+
+export const isPsalm = (slot: string) => /^(psalm-\d+|canticle|te-deum)$/.test(slot)
 
 // A citation as its numbers: "1.899" and "1899" are one number (the
 // Brazilian sets a point in the thousands).
-const numbers = (text: string) =>
+export const numbers = (text: string) =>
   (text.replace(/(\d)\.(\d{3})(?!\d)/g, '$1$2').match(/\d+/g) ?? []).map(Number).join('.')
-
-/** What a part's numbers are, as the Brazilian edition prints them. */
-function anchorOfPart(slot: string, primitives: Primitive[]): string | undefined {
-  if (slot.startsWith('psalm-')) {
-    const title = primitives.find(
-      (p) => p.type === 'rubric' && /^(Salmo|C[âa]ntico|Sl)\b/i.test(p.text.primary),
-    )
-    return title ? numbers(firstLineOf(title)) : undefined
-  }
-  if (slot === 'reading-2') {
-    const source = primitives.find((p) => p.type === 'rubric' && /^\(/.test(p.text.primary))
-    if (source) return numbers(firstLineOf(source))
-  }
-  if (slot.startsWith('reading-')) {
-    // The chapter and verses, set red after the book's name: "/:19,1-9a.11-21:/".
-    const chapterAndVerses = /\/:\s*(\d+\s*,[^:]*):\//
-    const title = primitives.find((p) => p.type === 'text' && chapterAndVerses.test(p.text.primary))
-    const cite = title?.type === 'text' ? chapterAndVerses.exec(title.text.primary)?.[1] : undefined
-    if (cite) return numbers(cite)
-  }
-  // "Leitura breve Rm 12,1-2", "Responsório Cf. Sl 71(72),6.19".
-  const heading = primitives.find((p) => p.type === 'heading')
-  if (heading?.type === 'heading' && heading.note && /\d+\s*,\s*\d/.test(heading.note.primary))
-    return numbers(heading.note.primary)
-  return undefined
-}
-
-function firstLineOf(p: Primitive): string {
-  return p.type === 'rubric' || p.type === 'heading' || p.type === 'text'
-    ? p.text.primary.split('\n')[0]
-    : ''
-}
-
-const anchorOfLatin = (section: LatinSection) =>
-  section.title ? numbers(section.title) : undefined
-
-/**
- * The Latin section a part of the hour answers to. Where the Latin offers
- * more than one (a memorial's Commons, "[Doctores]" and "[Pastores]"; the two
- * hymns of a little hour), the one with the part's numbers, else the one
- * plainly nearest its words; none where neither tells.
- */
-function latinOf(
-  slot: string,
-  primitives: Primitive[],
-  latin: LatinSection[],
-  // The office's other parts, by which one of them may be told.
-  office: SlotPrimitives[] = [],
-): LatinSection | undefined {
-  const base = baseOf(slot)
-  const all = latin.filter((section) => section.slot === base)
-  // The prayer of the Office of Readings comes after every reading's.
-  if (base === 'prayer') return all[all.length - 1]
-  if (all.length <= 1) return all[0]
-  // A Common's responsory is the one after its reading.
-  if (base === 'responsory') {
-    const ours = office.find((s) => s.slot === 'reading')
-    const reading = ours && latinOf('reading', ours.primitives, latin)
-    const after = reading && latin[latin.indexOf(reading) + 1]
-    if (after?.slot === 'responsory') return after
-  }
-  const ours = isAnchored(base) ? anchorOfPart(base, primitives) : undefined
-  if (ours)
-    return all.find((section) => anchorOfLatin(section) === ours) ?? all[occurrenceOf(slot) - 1]
-  if (base === 'hymn') {
-    const lines = lineCount(textsOf(primitives))
-    const alike = all.filter((section) => lineCount(latinTexts(section.body)) === lines)
-    return alike.length === 1 ? alike[0] : nearest(primitives, alike)
-  }
-  return nearest(primitives, all)
-}
-
-function nearest(primitives: Primitive[], candidates: LatinSection[]): LatinSection | undefined {
-  const ours = textsOf(primitives).join(' ')
-  const scored = candidates
-    .map((section) => ({ section, score: affinity(ours, latinTexts(section.body).join(' ')) }))
-    .sort((a, b) => b.score - a.score)
-  const [best, next] = scored
-  return best && (!next || best.score - next.score >= 0.1) ? best.section : undefined
-}
 
 // How much of a Portuguese text has a Latin word of the same root beside it:
 // the two share their roots more than their spelling, so a word is matched to
 // one that, both spelt alike (no accents, æ as e, ph as f, ti before a vowel
 // as ci…), is close. Too weak to tell a translation from another text on its
 // own; enough to tell which of two Latin texts a Portuguese one renders.
-const plain = (text: string) =>
+export const plain = (text: string) =>
   text
     .replace(/\/:.*?:\//g, ' ')
     .normalize('NFD')
@@ -132,50 +105,8 @@ const plain = (text: string) =>
     .trim()
     .split(' ')
     .filter((w) => w.length >= 4)
-const latinRoot = (w: string) =>
-  w
-    .replace(/^h/, '')
-    .replace(/ae/g, 'e')
-    .replace(/ph/g, 'f')
-    .replace(/th/g, 't')
-    .replace(/ch/g, 'c')
-    .replace(/y/g, 'i')
-    .replace(/ti(?=[aeiou])/g, 'ci')
-    .replace(/ct/g, 't')
-    .replace(/([bcdfgklmnprstv])\1/g, '$1')
-const ptRoot = (w: string) =>
-  w
-    .replace(/^h/, '')
-    // espírito, estrela: spiritus, stella.
-    .replace(/^e(?=s[bcdfgklmnpqrtv])/, '')
-    .replace(/j/g, 'i')
-    .replace(/[cl]h/g, (m) => m[0])
-    .replace(/nh/g, 'n')
-    .replace(/([bcdfgklmnprstv])\1/g, '$1')
 
-function distance(a: string, b: string): number {
-  let row = Array.from({ length: b.length + 1 }, (_, j) => j)
-  for (let i = 1; i <= a.length; i++) {
-    const next = [i]
-    for (let j = 1; j <= b.length; j++)
-      next[j] = Math.min(row[j] + 1, next[j - 1] + 1, row[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1))
-    row = next
-  }
-  return row[b.length]
-}
-
-function affinity(portuguese: string, latin: string): number {
-  const theirs = plain(latin).map(latinRoot)
-  const ours = plain(portuguese).map(ptRoot)
-  if (ours.length === 0) return 0
-  const near = (w: string) =>
-    theirs.some(
-      (l) => l === w || (l[0] === w[0] && distance(w, l) / Math.max(w.length, l.length) <= 0.4),
-    )
-  return ours.filter(near).length / ours.length
-}
-
-function textsOf(primitives: Primitive[]): string[] {
+export function textsOf(primitives: Primitive[]): string[] {
   return primitives.flatMap((p): string[] =>
     p.type === 'text'
       ? [p.text.primary]
@@ -187,26 +118,11 @@ function textsOf(primitives: Primitive[]): string[] {
   )
 }
 
-type Verdict = 'agrees' | 'differs' | 'unknown'
-
-function anchored(
-  slot: string,
-  primitives: Primitive[],
-  section: LatinSection | undefined,
-): Verdict {
-  if (!isAnchored(baseOf(slot))) return 'unknown'
-  const ours = anchorOfPart(baseOf(slot), primitives)
-  if (!ours || !section) return 'unknown'
-  const theirs = anchorOfLatin(section)
-  if (!theirs) return 'unknown'
-  return sameCitation(ours, theirs, baseOf(slot)) ? 'agrees' : 'differs'
-}
-
 // Two citations of one text: the editions differ in the verses they list
 // between (Cf. Ap 19, 1-2. 5-7 / Ap 19,1-7), never in where it begins and ends.
 // A Father's text is cited by the edition it is read in, whose pages the two
 // count a page apart; its work, book and chapter are what tell it.
-function sameCitation(ours: string, theirs: string, slot = ''): boolean {
+export function sameCitation(ours: string, theirs: string, slot = ''): boolean {
   if (ours === theirs) return true
   const a = ours.split('.')
   const b = theirs.split('.')
@@ -218,7 +134,7 @@ function sameCitation(ours: string, theirs: string, slot = ''): boolean {
 // The Latin's text, as lines of what is said: what the edition prints in red
 // between (rubrics, "Orémus.") is not, and an "Amen." standing alone closes
 // the text before it.
-function latinTexts(primitives: Primitive[]): string[] {
+export function latinTexts(primitives: Primitive[]): string[] {
   const out: string[] = []
   for (const p of primitives) {
     if (p.type === 'text') {
@@ -267,9 +183,11 @@ function zip(primitives: Primitive[], latin: string[]): Primitive[] | undefined 
 }
 
 const stars = (text: string) => (text.match(/\*/g) ?? []).length
+
 // The Gloria closing a psalm is one verse in the Brazilian edition and two in
 // the Latin's; every other strophe has as many verses in both.
 const isGloria = (text: string) => /^[–—=-]?\s*Gl[óo]ria (ao Pai|Patri)/.test(text.trim())
+
 const sameVerses = (ours: string, theirs: string) =>
   isGloria(theirs) || stars(ours) === stars(theirs)
 
@@ -297,13 +215,19 @@ function strophes(texts: TextPrimitive[], latin: string[]): Primitive[] {
   ]
 }
 
-const isBold = (p: Primitive) => p.type === 'text' && /^\*\*[^*].*\*\*$/.test(p.text.primary.trim())
-const isItalicLead = (p: Primitive) =>
+export const isBold = (p: Primitive) =>
+  p.type === 'text' && /^\*\*[^*].*\*\*$/.test(p.text.primary.trim())
+
+export const isItalicLead = (p: Primitive) =>
   p.type === 'text' && /^\*[^*]/.test(p.text.primary.trim()) && !p.text.primary.includes('\n')
+
 // A strophe is lines pointed with the asterisk at the half-verse; the
 // asterisks of italics stand against a word.
 const isStrophe = (p: Primitive): p is TextPrimitive =>
-  p.type === 'text' && p.text.primary.includes('\n') && /[*†][ \t]*(\n|$)/.test(p.text.primary)
+  p.type === 'text' &&
+  p.text.primary.includes('\n') &&
+  /[*†][ \t]*(\n|$)/.test(p.text.primary.replace(/\/:(.*?):\//g, '$1'))
+
 const isPsalmTitle = (p: Primitive | undefined) =>
   p?.type === 'rubric' && /^(Salmo|C[âa]ntico|Sl)\b|^[IVX]+$/i.test(p.text.primary.trim())
 
@@ -456,17 +380,31 @@ function pairIntercessions(
   primitives: Primitive[],
   section: LatinSection,
 ): Primitive[] | undefined {
-  const [invitation, response, ...petitions] = latinTexts(section.body)
+  const [invitation, response, ...lines] = latinTexts(section.body)
   if (!response) return undefined
+  // iBreviary may print the response again after each petition, and may set
+  // a petition's second half ("— virtútem et patiéntiam concéde.") apart
+  // from its first.
+  const petitions = lines
+    .filter((line) => line !== response)
+    .reduce<string[]>(
+      (all, line) =>
+        /^[—–-]/.test(line) && all.length && !all[all.length - 1].includes('\n')
+          ? [...all.slice(0, -1), `${all[all.length - 1]}\n${line}`]
+          : [...all, line],
+      [],
+    )
   const ours = primitives.filter(
     (p): p is TextPrimitive => p.type === 'text' && !/^Pai nosso/.test(p.text.primary),
   )
   const [lead, ...asked] = ours
   // The invitation comes before the first response; the petitions are one
-  // for one, or the two are not laid side by side at all.
+  // for one, or half for half where the Brazilian sets each half apart, or
+  // the two are not laid side by side at all.
   const firstResponse = primitives.findIndex((p) => p.type === 'verses')
-  if (!lead || primitives.indexOf(lead) > firstResponse || asked.length !== petitions.length)
-    return undefined
+  const halves = petitions.flatMap((petition) => petition.split('\n'))
+  const theirs = [petitions, halves].find((list) => list.length === asked.length)
+  if (!lead || primitives.indexOf(lead) > firstResponse || !theirs) return undefined
   return primitives.map((p): Primitive => {
     if (p === lead) return { ...p, text: withSecondary(lead.text, invitation) }
     if (p.type === 'verses')
@@ -475,7 +413,7 @@ function pairIntercessions(
         items: p.items.map((item) => ({ ...item, text: withSecondary(item.text, response) })),
       }
     const i = asked.indexOf(p as TextPrimitive)
-    if (i !== -1 && p.type === 'text') return { ...p, text: withSecondary(p.text, petitions[i]) }
+    if (i !== -1 && p.type === 'text') return { ...p, text: withSecondary(p.text, theirs[i]) }
     return p
   })
 }
@@ -554,7 +492,7 @@ function asOne(primitives: Primitive[], latin: string[]): Primitive[] | undefine
 }
 
 /** The Latin of one part, or nothing where the two cannot be laid side by side. */
-function pairPart(
+export function pairPart(
   slot: string,
   primitives: Primitive[],
   section: LatinSection,
@@ -573,32 +511,7 @@ function pairPart(
   return undefined
 }
 
-/**
- * A hymn the book leaves to choice (a little hour's two, Night Prayer's):
- * each beside the Latin hymn it renders, if one does.
- */
-function pairHymnChoices(primitives: Primitive[], latin: LatinSection[]): Primitive[] | undefined {
-  const hymns = latin.filter((section) => section.slot === 'hymn')
-  let any = false
-  const out = primitives.map((p): Primitive => {
-    if (p.type !== 'container' || p.behavior.kind !== 'options') return p
-    return {
-      ...p,
-      behavior: {
-        ...p.behavior,
-        options: p.behavior.options.map((option) => {
-          const section = latinOf('hymn', option.children, hymns)
-          const paired = section && pairHymn(option.children, section)
-          if (paired) any = true
-          return { ...option, children: paired ?? markMissing(option.children) }
-        }),
-      },
-    }
-  })
-  return any ? out : undefined
-}
-
-const lineCount = (texts: string[]) =>
+export const lineCount = (texts: string[]) =>
   texts.flatMap((t) => t.split('\n')).filter((l) => l.trim()).length
 
 /**
@@ -606,7 +519,7 @@ const lineCount = (texts: string[]) =>
  * stanza: the Brazilian edition wrote some of its own, and its translations
  * keep the Latin's lines one for one, if not always its stanzas.
  */
-function pairHymn(primitives: Primitive[], section: LatinSection): Primitive[] | undefined {
+export function pairHymn(primitives: Primitive[], section: LatinSection): Primitive[] | undefined {
   const latin = latinTexts(section.body)
   const stanzas = primitives.filter((p): p is TextPrimitive => p.type === 'text')
   if (stanzas.length === 0 || lineCount(stanzas.map((s) => s.text.primary)) !== lineCount(latin))
@@ -622,207 +535,9 @@ function pairHymn(primitives: Primitive[], section: LatinSection): Primitive[] |
   })
 }
 
-// A Latin prayer naming its saint ("beáti Bonaventúræ") is not a weekday's,
-// whatever else agrees.
-const namesASaint = (latin: string) =>
-  /\b(beát[iaeæ]|beatórum|sanct[iaeæ]|sanctórum)\s+[A-ZÆ]/.test(
-    latin.replace(/Spírit\w*\s+Sanct\w*/g, ''),
-  )
-// How much of an antiphon is words of its psalm, in one language.
-function drawnFrom(antiphon: string, psalm: string): number {
-  const words = new Set(plain(psalm))
-  const own = plain(antiphon)
-  return own.length === 0 ? 0 : own.filter((w) => words.has(w)).length / own.length
-}
-
-/**
- * An antiphon is most often a line of its psalm. Where the Brazilian's is
- * drawn from its psalm and the Latin's not from the Latin psalm, the two are
- * not one antiphon (iBreviary has been seen to keep the day before's).
- */
-function antiphonsAgree(
-  base: string,
-  primitives: Primitive[],
-  section: LatinSection,
-  office: SlotPrimitives[],
-  latin: LatinSection[],
-): boolean {
-  if (!/^ant-\d+/.test(base)) return true
-  // Against the hour's whole psalmody: the editions divide a psalm in
-  // different places, and an antiphon may be from the division after.
-  const ourPsalms = office.filter((s) => /^psalm-\d+/.test(s.slot))
-  const theirPsalms = latin.filter((s) => /^psalm-\d+/.test(s.slot))
-  if (ourPsalms.length === 0 || theirPsalms.length === 0) return true
-  const ours = drawnFrom(
-    textsOf(primitives).join(' '),
-    ourPsalms.flatMap((s) => textsOf(s.primitives)).join(' '),
-  )
-  const theirs = drawnFrom(
-    latinTexts(section.body).join(' '),
-    theirPsalms.flatMap((s) => latinTexts(s.body)).join(' '),
-  )
-  return !(ours >= 0.6 && theirs < 0.3)
-}
-
-function sameSaint(portuguese: string, latin: string): boolean {
-  const theirs = [...latin.matchAll(/\b(?:beát[iaeæ]|sanct[iaeæ])\s+([A-ZÆ][\p{L}]+)/gu)].map((m) =>
-    latinRoot(plain(m[1])[0] ?? ''),
-  )
-  const ours = [
-    ...portuguese.matchAll(/\b(?:São|Santo|Santa|Beat[oa])\s+([A-ZÁÉÍÓÚ][\p{L}]+)/gu),
-  ].map((m) => ptRoot(plain(m[1])[0] ?? ''))
-  return theirs.some(
-    (l) =>
-      l.length >= 4 &&
-      ours.some(
-        (w) =>
-          w.length >= 4 && l[0] === w[0] && distance(w, l) / Math.max(w.length, l.length) <= 0.35,
-      ),
-  )
-}
-const ptNamesASaint = (text: string) =>
-  /\b(São|Santo|Santa|Santos|Santas|Beat[oa]|Nossa Senhora|Virgem)\b/.test(text)
-
 export interface FormSlots<F extends string = string> {
   form: F
   slots: SlotPrimitives[]
-}
-
-const said = (primitives: Primitive[]) => JSON.stringify(primitives)
-
-/**
- * Whether the Latin day is this office: every part with numbers agrees. The
- * psalms and the readings tell the day; a responsory the two editions cite
- * differently is that responsory's own matter.
- */
-function agreesWith(office: FormSlots, latin: LatinSection[]): boolean {
-  const verdicts = office.slots
-    .filter((s) => !baseOf(s.slot).startsWith('responsory'))
-    .map((s) => anchored(s.slot, s.primitives, latinOf(s.slot, s.primitives, latin, office.slots)))
-  return verdicts.includes('agrees') && !verdicts.includes('differs')
-}
-
-/**
- * Every office of the hour (the weekday's, the saint's…) with the Latin of
- * the parts the Latin day shares with it. A part the Latin has but that could
- * not be paired is marked as missing its Latin.
- */
-export function pairForms<F extends string>(
-  forms: FormSlots<F>[],
-  latin: LatinSection[],
-  {
-    penitential = false,
-    onlyOrdinary = false,
-    weekday,
-  }: {
-    // Hours whose own texts iBreviary does not print (Night Prayer of the
-    // Triduum, which it gives the weekday's): only what every day says.
-    onlyOrdinary?: boolean
-    // Advent, Lent and Holy Week, whose brief responsories the Brazilian
-    // edition mostly has otherwise than the Latin.
-    penitential?: boolean
-    // The weekday's office, where the Latin says the hour of the weekday
-    // though the Brazilian gives it to the saint (a memorial's little hours).
-    weekday?: FormSlots<F>
-  } = {},
-): { forms: FormSlots<F>[]; latinOffice?: F } {
-  // The offices to tell apart: those shown, and the weekday's where the
-  // Brazilian shows only the saint's.
-  const offices: FormSlots<F>[] = weekday ? [...forms, weekday] : forms
-  const agrees = offices.map((f) => agreesWith(f, latin))
-  const textOf = (f: FormSlots<F>, slot: string) => {
-    const part = f.slots.find((s) => s.slot === slot)
-    return part ? said(part.primitives) : undefined
-  }
-  // A part every office has alike is the Latin day's wherever any office is.
-  const shared = (slot: string) => {
-    const texts = offices.map((f) => textOf(f, slot))
-    return texts.every((t) => t !== undefined && t === texts[0])
-  }
-  // Which office the Latin day is, the saint's or the weekday's, only the
-  // parts with numbers in which they differ can tell: on a memorial they
-  // share their psalms and often a reading.
-  const reference = ((): FormSlots<F> | undefined => {
-    if (offices.length === 1) return agrees[0] ? offices[0] : undefined
-    const telling = offices.map((f, i) => {
-      if (!agrees[i]) return false
-      return f.slots.some(
-        (s) =>
-          !shared(s.slot) &&
-          !baseOf(s.slot).startsWith('responsory') &&
-          anchored(s.slot, s.primitives, latinOf(s.slot, s.primitives, latin, f.slots)) ===
-            'agrees',
-      )
-    })
-    const at = (form: string) => offices.find((f, i) => f.form === form && telling[i])
-    return (
-      at('celebration') ??
-      at('season') ??
-      offices.find((f, i) => f.form !== 'celebration-of-the-weekday' && telling[i])
-    )
-  })()
-  const proper = (slot: string, primitives: Primitive[]) => {
-    if (shared(slot) && agrees.some(Boolean)) return true
-    const theirs = reference?.slots.find((s) => s.slot === slot)
-    return theirs !== undefined && said(theirs.primitives) === said(primitives)
-  }
-
-  const doubted = new Set(
-    forms.filter((f) =>
-      f.slots.some(({ slot, primitives }) => {
-        const section = /^ant-/.test(baseOf(slot)) && latinOf(slot, primitives, latin, f.slots)
-        return section && !antiphonsAgree(baseOf(slot), primitives, section, f.slots, latin)
-      }),
-    ),
-  )
-  const paired = forms.map((f) => ({
-    form: f.form,
-    slots: f.slots.map(({ slot, primitives }) => {
-      if (
-        baseOf(slot) === 'hymn' &&
-        primitives.some((p) => p.type === 'container' && p.behavior.kind === 'options')
-      ) {
-        const choices = proper(slot, primitives) ? pairHymnChoices(primitives, latin) : undefined
-        return { slot, primitives: choices ?? markMissing(primitives) }
-      }
-      const section = latinOf(slot, primitives, latin, f.slots)
-      if (!section) {
-        const offered = latin.some((l) => l.slot === baseOf(slot))
-        return {
-          slot,
-          primitives: offered && missing(baseOf(slot)) ? markMissing(primitives) : primitives,
-        }
-      }
-      const verdict = anchored(slot, primitives, section)
-      const base = baseOf(slot)
-      // The psalmody's antiphons are a set: one found not the Latin's puts
-      // them all in doubt.
-      if (/^ant-/.test(base) && doubted.has(f)) return { slot, primitives: markMissing(primitives) }
-      const allowed =
-        ordinary.has(base) ||
-        (!onlyOrdinary && verdict === 'agrees') ||
-        (!onlyOrdinary && verdict === 'unknown' && proper(slot, primitives))
-
-      const latinPrayer = base === 'prayer' ? latinTexts(section.body).join(' ') : ''
-      const ourPrayer = base === 'prayer' ? textsOf(primitives).join(' ') : ''
-      const saintly = base === 'prayer' && namesASaint(latinPrayer) !== ptNamesASaint(ourPrayer)
-      // A saint's own prayer names him in both: his, whatever Common the two
-      // editions took the rest from.
-      const his = base === 'prayer' && sameSaint(ourPrayer, latinPrayer)
-      // There a brief responsory is the Latin's only where its words plainly are.
-      const unlike =
-        penitential &&
-        base === 'responsory' &&
-        affinity(textsOf(primitives).join(' '), latinTexts(section.body).join(' ')) < 0.3
-      const paired =
-        (allowed && !saintly && !unlike) || (his && !onlyOrdinary)
-          ? pairPart(slot, primitives, section)
-          : undefined
-      if (paired) return { slot, primitives: paired }
-      return { slot, primitives: missing(base) ? markMissing(primitives) : primitives }
-    }),
-  }))
-  return { forms: paired.map(oneLatinEach), latinOffice: reference?.form }
 }
 
 /**
@@ -830,7 +545,7 @@ export function pairForms<F extends string>(
  * text: where the Latin set beside the two differs, iBreviary has printed
  * another antiphon for one of them, and neither is trusted.
  */
-function oneLatinEach<F extends string>(office: FormSlots<F>): FormSlots<F> {
+export function oneLatinEach<F extends string>(office: FormSlots<F>): FormSlots<F> {
   // One antiphon however the edition points it the second time.
   const key = (text: string) => plain(text).join(' ')
   const latinOf = new Map<string, Set<string>>()
@@ -875,7 +590,51 @@ function oneLatinEach<F extends string>(office: FormSlots<F>): FormSlots<F> {
 export function pairInvitatory(
   primitives: Primitive[],
   section: LatinSection,
+  antiphon = true,
+): Primitive[] {
+  // Where the Brazilian offers its antiphon in two forms, the psalm is in each,
+  // a strophe at a time: the strophes are laid beside the Latin's together.
+  const strophes: TextPrimitive[] = []
+  const gather = (list: Primitive[]) => {
+    for (const p of list) {
+      if (isStrophe(p) && !/^Demos glória/.test(p.text.primary.trim()) && !strophes.includes(p))
+        strophes.push(p)
+      if (p.type === 'container') {
+        if (p.behavior.kind === 'options' || p.behavior.kind === 'select')
+          for (const o of p.behavior.options) gather(o.children)
+        else gather(p.children ?? [])
+      }
+    }
+  }
+  gather(primitives)
+  return pairedIn(primitives, (children) =>
+    pairInvitatoryHere(children, section, antiphon, strophes),
+  )
+}
+
+function pairedIn(
+  primitives: Primitive[],
+  pair: (children: Primitive[]) => Primitive[],
+): Primitive[] {
+  return pair(primitives).map((p): Primitive => {
+    if (p.type !== 'container') return p
+    if (p.behavior.kind === 'options' || p.behavior.kind === 'select')
+      return {
+        ...p,
+        behavior: {
+          ...p.behavior,
+          options: p.behavior.options.map((o) => ({ ...o, children: pairedIn(o.children, pair) })),
+        },
+      } as Primitive
+    return p.children ? { ...p, children: pairedIn(p.children, pair) } : p
+  })
+}
+
+function pairInvitatoryHere(
+  primitives: Primitive[],
+  section: LatinSection,
   antiphon: boolean,
+  ourStrophes: TextPrimitive[],
 ): Primitive[] {
   const body = section.body
   const versicle = body.find((p): p is VersesPrimitive => p.type === 'verses')
@@ -884,17 +643,22 @@ export function pairInvitatory(
   )
   const latinAntiphon =
     afterAnt === -1 ? undefined : body.slice(afterAnt + 1).find((p) => p.type === 'text')
-  const title = body.find((p) => p.type === 'rubric' && /^Psalmus 94/.test(p.text.primary))
+  const title = body.find((p) => p.type === 'rubric' && /^Psalmus \d/.test(p.text.primary))
   const subtitle = title?.type === 'rubric' ? title.text.primary.split('\n')[1]?.trim() : undefined
   const texts = body.filter((p): p is TextPrimitive => p.type === 'text' && p !== latinAntiphon)
   const lead = texts.find(
     (t) => !t.text.primary.includes('*') && /\(.*\d.*\)\.?$/.test(t.text.primary),
   )
   const latinStrophes = texts.filter((t) => t.text.primary.includes('*')).map((t) => t.text.primary)
-  const ourStrophes = primitives.filter(isStrophe)
   const strophesAgree =
     ourStrophes.length === latinStrophes.length &&
     ourStrophes.every((t, i) => sameVerses(t.text.primary, latinStrophes[i]))
+  const beside = strophesAgree
+    ? latinStrophes
+    : byVerse(
+        ourStrophes.map((t) => t.text.primary),
+        latinStrophes,
+      )
   const antiphonText = latinAntiphon?.type === 'text' ? latinAntiphon.text.primary : undefined
   return primitives.map((p, i): Primitive => {
     if (p.type === 'verses' && p.items.length === 2 && versicle?.items.length === 2)
@@ -916,21 +680,54 @@ export function pairInvitatory(
     if (isItalicLead(p) && lead)
       return { ...p, text: withSecondary(p.text, epigraph(lead.text.primary)) }
     const at = ourStrophes.indexOf(p)
-    if (at !== -1 && strophesAgree) return { ...p, text: withSecondary(p.text, latinStrophes[at]) }
+    if (at !== -1 && beside) return { ...p, text: withSecondary(p.text, beside[at]) }
     return p
   })
+}
+
+/**
+ * The Latin psalm cut as the Brazilian's strophes are. The two point a verse
+ * differently (three lines in the one, two half-verses in the other), but both
+ * end a verse with a full stop: where each Brazilian strophe is one verse, a
+ * Latin sentence goes beside each; where a strophe holds more, the sentences
+ * go beside it that carry as many half-verses (an asterisk to each).
+ */
+function byVerse(ours: string[], latin: string[]): string[] | undefined {
+  const gloria = latin.filter(isGloria).join('\n')
+  const sentences = latin
+    .filter((t) => !isGloria(t))
+    .join('\n')
+    .split(/(?<=[.!?»][»"]?)\n/)
+    .map((v) => v.trim())
+    .filter(Boolean)
+  const said = ours.filter((t) => !isGloria(t))
+  const groups: string[][] = []
+  if (sentences.length === said.length) groups.push(...sentences.map((v) => [v]))
+  else {
+    let at = 0
+    for (const strophe of said) {
+      const group: string[] = []
+      while (at < sentences.length && group.reduce((n, v) => n + stars(v), 0) < stars(strophe))
+        group.push(sentences[at++])
+      if (group.reduce((n, v) => n + stars(v), 0) !== stars(strophe)) return undefined
+      groups.push(group)
+    }
+    if (at !== sentences.length) return undefined
+  }
+  let next = 0
+  return ours.map((t) => (isGloria(t) ? gloria : groups[next++].join('\n')))
 }
 
 // Parts every Latin hour has and the reader would look for: where they are
 // left unpaired, they say so. A psalm-prayer has no Latin in the typical
 // edition, and is not marked.
-const missing = (base: string) =>
+export const missing = (base: string) =>
   isAntiphon(base) ||
   isPsalm(base) ||
   ['hymn', 'reading', 'responsory', 'intercessions', 'prayer'].includes(base) ||
   /^(reading|responsory)-\d+$/.test(base)
 
-function markMissing(primitives: Primitive[]): Primitive[] {
+export function markMissing(primitives: Primitive[]): Primitive[] {
   return primitives.map((p): Primitive => {
     if (p.type === 'container' && p.behavior.kind === 'options')
       return {

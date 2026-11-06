@@ -1,2 +1,2 @@
-export { breviarySource, latinBreviarySource } from './breviary'
+export { breviarySource } from './breviary'
 export { officeOfReadingsReadingSource } from './office-of-readings-reading'

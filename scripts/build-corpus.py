@@ -1308,6 +1308,7 @@ def build_loth(b: Builder) -> None:
       loth-calendar        the celebrations of the breviary's calendar
       loth-index/<hour>    where each part of an hour is found, by day
       loth-parts/<bundle>  the parts themselves, some dozens to a bundle
+      loth-latin/<bundle>  the Latin of a bundle's parts, part for part
       loth-extras          the complementary texts the hours link to
       loth-library/<id>    the psalter by psalm, and the offices, prayers and
                            rites opened by name rather than by date
@@ -1316,7 +1317,12 @@ def build_loth(b: Builder) -> None:
     if not src.is_dir():
         return
 
-    folders = (("index", "loth-index"), ("parts", "loth-parts"), ("library", "loth-library"))
+    folders = (
+        ("index", "loth-index"),
+        ("parts", "loth-parts"),
+        ("latin", "loth-latin"),
+        ("library", "loth-library"),
+    )
     for folder, kind in folders:
         for f in sorted((src / folder).glob("*.json")):
             with f.open(encoding="utf-8") as fh:

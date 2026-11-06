@@ -50,7 +50,6 @@ export async function runCachedSource(
 
   const result = await source.fetch(ctx)
   const fetchedAt = Date.now()
-  if (source.keep && !source.keep(result)) return { payload: result, fetchedAt }
   await putExternalContent(key, result, fetchedAt)
   return { payload: result, fetchedAt }
 }

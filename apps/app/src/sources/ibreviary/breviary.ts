@@ -22,16 +22,6 @@ export const breviarySource = {
   fetch: (ctx: SourceFetchContext) => hourIn(ibLangFor(ctx.prefs.lang), ctx),
 }
 
-// The same office in the Latin of the editio typica, whatever the reader's
-// language: what the Brazilian hours set beside their own text.
-export const latinBreviarySource = {
-  id: 'producer/breviary-of-the-day-la',
-  version: '1.0',
-  prefsDeps: [],
-  dateScoped: true,
-  fetch: (ctx: SourceFetchContext) => hourIn('la', ctx),
-}
-
 async function hourIn(ibLang: IbLang, ctx: SourceFetchContext): Promise<Primitive[]> {
   const hour = narrowHour(ctx.params.hour)
   const html = await fetchSectionHtml(ibLang, ctx.date, hourSections[hour])

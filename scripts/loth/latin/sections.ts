@@ -3,19 +3,8 @@
 // be read beside its Latin. The cut goes by the red titles the Latin edition
 // prints ("Ant. 1", "Psalmus 92 (93)", "LECTIO BREVIS"), never by the words.
 
-import type { Primitive } from '@/content/primitives'
-
-export interface LatinSection {
-  // The corpus's slot name: 'hymn', 'ant-2', 'psalm-2', 'ant-2-end',
-  // 'reading', 'responsory-1', 'canticle', 'intercessions', 'prayer'…
-  slot: string
-  // The title the section stands under: a psalm's ("Psalmus 118 (119),
-  // 97-104 XIII (Mem)"), a reading's citation.
-  title?: string
-  // A psalm's or canticle's own name, the second line of its title.
-  subtitle?: string
-  body: Primitive[]
-}
+import type { Primitive } from '../../../apps/app/src/content/primitives'
+import type { LatinSection } from '../../../apps/app/src/sources/loth/pair'
 
 const firstLine = (text: string) => text.split('\n')[0].trim()
 const restLines = (text: string) => text.split('\n').slice(1).join(' ').trim()
