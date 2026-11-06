@@ -7,6 +7,7 @@
 // note of a cadence is jgabc's work (`psalmtone.generated.js`); what is here
 // reads the tone off an antiphon and a psalm out of an hour.
 
+import { toneSyllables } from './portuguese'
 import psalmtone, { type ToneFormulas } from './psalmtone.generated'
 
 export type PsalmTone = {
@@ -23,9 +24,17 @@ const noteGroups = (gabc: string) =>
     .map((m) => m[1].toLowerCase().replace(/[^a-m]/g, ''))
     .filter(Boolean)
 
-const point = (text: string, formula: string, half: 'first' | 'opening' | 'second') =>
+/** The language a psalm is sung in: Latin, as jgabc reads it, or Portuguese, split here. */
+export type PsalmLanguage = 'la' | 'pt'
+
+const point = (
+  text: string,
+  formula: string,
+  half: 'first' | 'opening' | 'second',
+  language: PsalmLanguage = 'la',
+) =>
   psalmtone.applyPsalmTone({
-    text,
+    text: language === 'pt' ? toneSyllables(text) : text,
     gabc: formula,
     useOpenNotes: false,
     prefix: half !== 'second',
@@ -79,13 +88,17 @@ function reciting(mediant: string): string {
  * Verses as a GABC score in `tone`. A verse is its two halves around the
  * asterisk; one without an asterisk is sung through on the ending.
  */
-export function pointPsalm(tone: PsalmTone, verses: string[]): string {
+export function pointPsalm(
+  tone: PsalmTone,
+  verses: string[],
+  language: PsalmLanguage = 'la',
+): string {
   const lines = verses.map((verse, i) => {
     const [first, ...rest] = verse.split('*').map((half) => half.trim())
     const second = rest.join(' ')
-    if (!second) return `${point(first, tone.termination, 'second')} (::)`
+    if (!second) return `${point(first, tone.termination, 'second', language)} (::)`
     const mediant = i === 0 ? tone.mediant : reciting(tone.mediant)
-    return `${point(first, mediant, i === 0 ? 'opening' : 'first')} *(:) ${point(second, tone.termination, 'second')} (::)`
+    return `${point(first, mediant, i === 0 ? 'opening' : 'first', language)} *(:) ${point(second, tone.termination, 'second', language)} (::)`
   })
   return `(${tone.clef}) ${lines.join('\n')}\n`
 }

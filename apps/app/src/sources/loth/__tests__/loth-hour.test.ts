@@ -314,10 +314,14 @@ describe('the chant of the hours', () => {
   function sung(primitives: Primitive[], into: string[] = []): string[] {
     for (const p of primitives) {
       if (p.type === 'sung') {
-        const first = p.text.find((t) => t.type === 'text')
-        into.push(
-          `${p.chants.map((c) => c.name).join(' + ')}: ${first?.type === 'text' ? first.text.primary.split('\n')[0] : ''}`,
-        )
+        const first = p.text.find((t) => t.type === 'text' || t.type === 'verses')
+        const opening =
+          first?.type === 'text'
+            ? first.text.primary
+            : first?.type === 'verses'
+              ? first.items[0].text.primary
+              : ''
+        into.push(`${p.chants.map((c) => c.name).join(' + ')}: ${opening.split('\n')[0]}`)
       } else if (p.type === 'container') {
         sung(p.children ?? [], into)
         if ('options' in p.behavior) for (const o of p.behavior.options) sung(o.children, into)
@@ -336,6 +340,13 @@ describe('the chant of the hours', () => {
     expect(blocks).toContain('Te lucis ante terminum: Agora que o clarão da luz se apaga,')
     // A Brazilian hymn to Our Lady has no Gregorian melody, and stays as it reads.
     expect(blocks.some((b) => b.includes('Salve Rainha mãe de Deus'))).toBe(false)
+  })
+
+  it("sings a paired antiphon, and its psalm in Portuguese on the antiphon's tone", async () => {
+    const blocks = sung(await hourOn('2026-11-08', 'lauds'))
+    expect(blocks).toContain('Omnis spiritus: Louve a Deus tudo o que vive e que respira, aleluia!')
+    // The psalm, under its title, to a score of its own pointed in Portuguese.
+    expect(blocks.some((b) => b.startsWith('Salmo 150'))).toBe(true)
   })
 
   it('sings the Te Deum of a Sunday, its stanzas and its Latin, as one block each', async () => {

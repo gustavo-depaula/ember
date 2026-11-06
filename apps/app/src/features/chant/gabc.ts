@@ -56,6 +56,8 @@ function engravableText(text: string): string {
       .replace(/<sp>\*<\/sp>/g, '*')
       // The asterisk raised to the staff, in verbatim TeX.
       .replace(/<v>\\greheightstar<\/v>/g, '*')
+      // The same in TeX's math mode: `$\star$`.
+      .replace(/<v>\$\\star\$<\/v>/g, '*')
       // Any other verbatim TeX command is spacing (`\kern 6mm`, `\hspace`).
       .replace(/<v>\\[a-zA-Z]+[^<]*<\/v>/g, '')
       // A TeX command dressing a word (`\\textup{(Haec)}`): the word stays, undressed.
