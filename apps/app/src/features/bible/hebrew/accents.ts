@@ -89,6 +89,16 @@ export function accentOf(
   const last = word.includes('׃') || index === slots.length - 1
   const accents = table[system]
 
+  // Meʾayyelā: the Ṭiphḥā sign on a word that bears the verse's great pause
+  // itself, or is joined by maqaf to one that does (§15 f). There it marks a
+  // secondary stress, and the word does not divide.
+  const pausal = (slot: string | undefined, at: number) =>
+    has(slot, 'U+0591') ||
+    (has(slot, 'U+05BD') && (slot?.includes('\u05c3') || at === slots.length - 1))
+  const meayyela =
+    system === 'prose' &&
+    has(word, 'U+0596') &&
+    (pausal(word, index) || (word.endsWith('\u05be') && pausal(following, next)))
   const oleh = (slot: string | undefined) => has(slot, 'U+05AB')
   const yored = (slot: string | undefined) => has(slot, 'U+05A5')
   const fits = (accent: Accent) => {
@@ -102,6 +112,8 @@ export function accentOf(
       )
     }
     if (!accent.marks.every((mark) => has(word, mark))) return false
+    // The same sign as Meʾayyelā: Ṭiphḥā only where that reading does not hold.
+    if (accent.marks[0] === 'U+0596' && system === 'prose' && !condition) return !meayyela
     if (!condition) return true
     if (condition === 'U+05C0') return paseqAfter
     if (condition.startsWith('no paseq')) return !paseqAfter
@@ -110,9 +122,10 @@ export function accentOf(
     if (condition.startsWith('Gèreš on the same word')) return true
     // In the poetic books this mark is always Ṭarḥā; Deḥî is another sign.
     if (condition.startsWith('under the tone-syllable')) return true
-    // Meʾayyelā and Ṣinnôrîth are told apart by where the mark sits in the
-    // word, which the text alone does not settle: the plainer reading of the
-    // same mark (Ṭiphḥā, Zarqā) stands instead.
+    // Ṣinnôrîth has a code point of its own (U+0598); it only ever leans on
+    // the Mêrekhā or Mahpākh after it, which outrank it on the same word.
+    if (condition.startsWith('over an open syllable')) return true
+    if (condition.startsWith('a word that also bears Sillûq')) return meayyela
     return false
   }
 

@@ -164,6 +164,19 @@ describe('reading the Hebrew', () => {
     expect(accentAt('genesis', 1, 1, 6)?.accent.name).toBe('Sillûq')
   })
 
+  // The Ṭiphḥā sign on a word joined to the ʾAthnâḥ is Meʾayyelā, and joins.
+  it('tells Meʾayyelā from Ṭiphḥā by the word it leans on', () => {
+    // וַיֵּ֖צֵא־נֹ֑חַ
+    expect(accentAt('genesis', 8, 18, 0)).toMatchObject({ kind: 'conjunctive', inPause: false })
+    expect(accentAt('genesis', 8, 18, 0)?.accent.name).toBe('Meʾayyelā')
+    expect(accentAt('genesis', 1, 1, 0)?.accent.name).toBe('Ṭiphḥā')
+  })
+
+  it('names Ṣinnôrîth in the Psalms', () => {
+    const at = verse('psalms', 2, 7).findIndex((t) => t.includes('\u0598'))
+    expect(accentAt('psalms', 2, 7, at)?.accent.name).toBe('Ṣinnôrîth')
+  })
+
   it('reads the Psalms by the poetic system', () => {
     expect(accentSystem(accents, 'psalms', 23, 1)).toBe('poetic')
     expect(accentSystem(accents, 'job', 1, 1)).toBe('prose')
