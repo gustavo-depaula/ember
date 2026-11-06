@@ -84,12 +84,6 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .cols { display: grid; grid-template-columns: 1fr 1px 1fr; gap: 0 18px; }
 .cols .rule { background: var(--hair); }
 .cols .side2 { color: var(--muted); }
-.peekable { border-radius: 8px; padding: 4px 8px; margin-left: -8px; margin-right: -8px; transition: background .2s; user-select: none; -webkit-user-select: none; }
-.peekable.peeking { background: var(--surface-2); }
-.peekable .companion { display: none; }
-.peekable.peeking .companion { display: block; animation: fade .2s; }
-@keyframes fade { from { opacity: 0; transform: translateY(-3px); } }
-.hint { font-family: var(--heading); font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--gold-subtle); text-align: center; margin: -8px 0 18px; }
 
 /* ---------- sheet ---------- */
 .scrim { position: absolute; inset: 0; background: rgba(0,0,0,.55); opacity: 0; pointer-events: none; transition: opacity .25s; z-index: 30; }
@@ -109,7 +103,7 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .pill { height: 44px; padding: 0 18px; border-radius: 14px; background: var(--surface); font-size: 18px; color: var(--ink); }
 .pill.on { background: var(--gold); color: var(--gold-ink); }
 .pill.partial::after { content: " · parcial"; font-style: italic; font-size: 14px; opacity: .7; }
-.layouts { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+.layouts { display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; }
 .lay { background: var(--surface); border-radius: 14px; padding: 10px 6px 8px; display: flex; flex-direction: column; align-items: center; gap: 6px; font-size: 15px; }
 .lay svg { width: 54px; height: 40px; }
 .lay svg rect { fill: var(--muted); }
@@ -131,24 +125,15 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .toast.on { transform: none; opacity: 1; }
 .phone.land .toast { left: 50%; width: 440px; margin-left: -220px; right: auto; }
 
-/* ---------- onboarding / home / settings ---------- */
-.ob-title { font-size: 38px; line-height: 1.1; text-align: center; margin: 40px 0 8px; font-weight: 400; }
-.ob-sub { text-align: center; color: var(--muted); font-style: italic; font-size: 18px; margin-bottom: 26px; }
+/* ---------- home / settings ---------- */
 .stance { display: block; width: 100%; text-align: left; background: var(--surface-2); border-radius: 18px; padding: 16px 18px; margin-bottom: 12px; box-shadow: 0 6px 18px rgba(0,0,0,.35); }
 .stance.on { background: #2b2516; box-shadow: 0 0 0 1.5px var(--gold) inset, 0 6px 18px rgba(0,0,0,.35); }
 .stance .h { font-size: 21px; }
 .stance .d { color: var(--muted); font-size: 15.5px; line-height: 1.35; margin-top: 3px; }
-.stance .ex { margin-top: 10px; font-size: 15px; line-height: 1.35; }
-.stance .ex .lt { color: var(--ink); }
-.stance .ex .vn { color: var(--muted); font-style: italic; display: block; }
-.stance .badge { font-family: var(--heading); font-size: 10px; letter-spacing: 1.5px; color: var(--gold); text-transform: uppercase; margin-left: 8px; }
-.cta { display: block; width: 100%; height: 52px; border-radius: 16px; background: var(--gold); color: var(--gold-ink); font-family: var(--heading); letter-spacing: 2px; font-size: 14px; margin-top: 18px; }
 .home-h { font-family: var(--heading); font-size: 12px; letter-spacing: 2px; color: var(--gold); text-transform: uppercase; margin: 30px 0 10px; }
 .row { display: flex; align-items: center; justify-content: space-between; gap: 10px; background: var(--surface-2); border-radius: 16px; padding: 15px 16px; margin-bottom: 10px; width: 100%; text-align: left; box-shadow: 0 6px 18px rgba(0,0,0,.35); }
 .row .nm { font-size: 20px; }
 .row .ds { color: var(--muted); font-size: 14.5px; font-style: italic; }
-.mini { font-family: var(--heading); font-size: 11px; letter-spacing: 1.2px; color: var(--muted); white-space: nowrap; }
-.mini b { color: var(--ink); font-weight: 400; }
 .set-h { font-family: var(--heading); font-size: 12px; letter-spacing: 2px; color: var(--gold); text-transform: uppercase; margin: 28px 0 10px; }
 .set-group { background: var(--surface-2); border-radius: 16px; padding: 4px 16px; }
 .set-row { flex-wrap: wrap; display: flex; justify-content: space-between; align-items: center; padding: 12px 0; border-bottom: 1px solid var(--hair); font-size: 18px; gap: 10px; }
@@ -215,14 +200,14 @@ const practices = {
 
 const stances = {
   vern: { h: 'Sempre no vernáculo', d: 'Tudo em português. O latim fica a um toque, quando quiser.',
-    ex: ['Nós vos louvamos, ó Deus,', undefined] },
+  },
   trad: { h: 'Latim onde é tradição', d: 'A Missa Tridentina, o canto e os grandes hinos latinos em latim, com o português ao lado. O resto em português.',
-    ex: ['Te Deum laudamus:', 'Nós vos louvamos, ó Deus,'] },
+  },
   latin: { h: 'Latim sempre que houver', d: 'Latim em toda oração que o tenha, com o português ao lado para acompanhar.',
-    ex: ['Ave María, grátia plena,', 'Ave Maria, cheia de graça,'] },
+  },
 }
 
-const initial = () => ({ screen: 'onboarding', practice: 'mass', stance: 'trad', vernacular: 'pt', layoutPref: 'auto', overrides: {}, land: false, sheet: undefined, toast: undefined })
+const initial = () => ({ screen: 'reader', practice: 'mass', stance: 'trad', vernacular: 'pt', layoutPref: 'auto', overrides: {}, land: false, sheet: undefined, toast: undefined })
 let S = initial()
 
 // The whole model is this one pure function: override ?? stance(practice) ?? vernacular.
@@ -274,9 +259,6 @@ function blockHtml(b, r) {
   if (r.layout === 'columns' && comp) {
     return `<div class="blk cols"><div class="${cls}">${who}<span class="t">${br(main)}</span></div><div class="rule"></div><div class="side2 ${cls}">${who}<span class="t">${br(comp)}</span></div></div>`
   }
-  if (r.layout === 'peek' && comp) {
-    return `<div class="blk peekable ${cls}" data-peek>${who}<div><span class="t">${br(main)}</span><div class="companion">${br(comp)}</div></div></div>`
-  }
   const c = r.layout === 'interleaved' && comp ? `<div class="companion">${br(comp)}</div>` : ''
   return `<div class="blk ${cls}">${who}<div><span class="t">${br(main)}</span>${c}</div></div>`
 }
@@ -291,30 +273,13 @@ function readerHtml() {
     <h1 class="title">${p.name}</h1>
     <div class="subtitle">${p.date}</div>
     <div class="toolbar"><div class="line"></div>${chipHtml(id, S.pulse)}<span class="icon" data-act="type">${icons.type}</span><span class="icon">${icons.share}</span><span class="icon">${icons.plus}</span></div>
-    ${r.layout === 'peek' ? '<div class="hint">Segure um parágrafo para ver o português</div>' : ''}
     <div class="text">${blocks}</div>
-  </div>`
-}
-
-function onboardingHtml() {
-  return `<div class="pad">
-    <div class="topbar"><div class="line"></div><span class="cross">✠</span><div class="line"></div></div>
-    <h1 class="ob-title">Como você reza?</h1>
-    <div class="ob-sub">Dá para mudar depois, e cada oração pode ser exceção.</div>
-    ${Object.entries(stances).map(([k, s]) => `<button class="stance ${S.stance === k ? 'on' : ''}" data-stance="${k}">
-      <div class="h">${s.h}${k === 'trad' ? '<span class="badge">sugerido</span>' : ''}</div>
-      <div class="d">${s.d}</div>
-      <div class="ex"><span class="lt">${s.ex[0]}</span>${s.ex[1] ? `<span class="vn">${s.ex[1]}</span>` : ''}</div>
-    </button>`).join('')}
-    <button class="cta" data-act="home">Continuar</button>
   </div>`
 }
 
 function homeHtml() {
   const rows = Object.entries(practices).map(([id, p]) => {
-    const r = resolve(id)
-    const tag = p.langs.length < 2 ? '' : `<span class="mini"><b>${langCode[r.pray]}</b>${r.follow ? ` · ${langCode[r.follow]}` : ''}</span>`
-    return `<button class="row" data-open="${id}"><span><div class="nm">${p.name}</div><div class="ds">${p.desc}</div></span>${tag}</button>`
+    return `<button class="row" data-open="${id}"><span><div class="nm">${p.name}</div><div class="ds">${p.desc}</div></span></button>`
   }).join('')
   return `<div class="pad">
     <div class="topbar"><div class="line"></div><span class="cross">✠</span><div class="line"></div><button class="icon" data-act="settings" style="font-size:22px">⚙</button></div>
@@ -322,7 +287,6 @@ function homeHtml() {
     <div class="subtitle">quinta-feira, 5 de novembro</div>
     <div class="home-h">Plano de vida</div>
     ${rows}
-    <div class="set-foot" style="margin-top:14px">O selo de idioma ao lado de cada oração é o resultado do seu jeito de rezar: <i>${stances[S.stance].h.toLowerCase()}</i>${Object.keys(S.overrides).length ? ', mais as exceções que você fez' : ''}.</div>
   </div>`
 }
 
@@ -349,11 +313,10 @@ function settingsHtml() {
   </div>`
 }
 
-const layoutLabel = { auto: 'Automática', interleaved: 'Intercalado', columns: 'Colunas', peek: 'Só o texto' }
+const layoutLabel = { auto: 'Automática', interleaved: 'Intercalado', columns: 'Colunas' }
 const layoutSvg = {
   interleaved: '<svg viewBox="0 0 54 40"><rect x="4" y="4" width="46" height="4" rx="2"/><rect class="c" x="4" y="11" width="38" height="3" rx="1.5"/><rect x="4" y="20" width="46" height="4" rx="2"/><rect class="c" x="4" y="27" width="34" height="3" rx="1.5"/></svg>',
   columns: '<svg viewBox="0 0 54 40"><rect x="4" y="4" width="21" height="4" rx="2"/><rect x="4" y="12" width="19" height="4" rx="2"/><rect x="4" y="20" width="21" height="4" rx="2"/><rect x="4" y="28" width="16" height="4" rx="2"/><rect class="c" x="29" y="4" width="21" height="4" rx="2"/><rect class="c" x="29" y="12" width="19" height="4" rx="2"/><rect class="c" x="29" y="20" width="21" height="4" rx="2"/><rect class="c" x="29" y="28" width="14" height="4" rx="2"/></svg>',
-  peek: '<svg viewBox="0 0 54 40"><rect x="4" y="4" width="46" height="4" rx="2"/><rect x="4" y="12" width="40" height="4" rx="2"/><rect x="4" y="20" width="46" height="4" rx="2"/><rect x="4" y="28" width="30" height="4" rx="2"/></svg>',
 }
 
 function sheetHtml() {
@@ -375,9 +338,9 @@ function sheetHtml() {
     <div class="field"><div class="field-label">Acompanhar com</div>
       <div class="pills">${followOpts.map((l) => `<button class="pill ${r.follow === l ? 'on' : ''}" data-follow="${l ?? ''}">${l ? langName[l] : 'Nenhum'}</button>`).join('')}</div></div>
     ${r.follow ? `<div class="field"><div class="field-label">Disposição${S.land ? '<small>na horizontal</small>' : ''}</div>
-      <div class="layouts">${['interleaved', 'columns', 'peek'].map((l) => {
+      <div class="layouts">${['interleaved', 'columns'].map((l) => {
         const on = r.layout === l
-        const note = l === 'columns' ? '<small>auto na horizontal</small>' : l === 'peek' ? '<small>segure para ver</small>' : '<small>&nbsp;</small>'
+        const note = l === 'columns' ? '<small>auto na horizontal</small>' : '<small>auto em pé</small>'
         return `<button class="lay ${on ? 'on' : ''}" data-layout="${l}">${layoutSvg[l]}<span>${layoutLabel[l]}</span>${note}</button>`
       }).join('')}</div></div>
       <button class="swap" data-act="swap">⇄ Inverter: rezar em ${langName[r.follow].toLowerCase()}</button>` : ''}
@@ -387,7 +350,7 @@ function sheetHtml() {
 function render() {
   const scr = document.getElementById('screen')
   const keepScroll = scr.dataset.view === S.screen + S.practice ? scr.scrollTop : 0
-  scr.innerHTML = { onboarding: onboardingHtml, home: homeHtml, reader: readerHtml, settings: settingsHtml }[S.screen]()
+  scr.innerHTML = { home: homeHtml, reader: readerHtml, settings: settingsHtml }[S.screen]()
   scr.dataset.view = S.screen + S.practice
   scr.scrollTop = keepScroll
   document.getElementById('phone').classList.toggle('land', S.land)
@@ -433,7 +396,7 @@ function applyToAll() {
   const o = S.overrides[id] ?? {}
   if (o.pray === 'la') S.stance = 'latin'
   else if (o.pray && o.pray === S.vernacular) S.stance = 'vern'
-  if (o.layout && o.layout !== 'peek') S.layoutPref = o.layout
+  if (o.layout) S.layoutPref = o.layout
   delete S.overrides[id]
   showToast(`<span>Agora: <i>${stances[S.stance].h.toLowerCase()}</i></span><button class="link dim" data-act="settings">Ajustes</button>`)
 }
@@ -444,7 +407,7 @@ document.addEventListener('click', (e) => {
   const d = t.dataset
   if (d.act === 'sheet') S.sheet = 'lang'
   else if (d.act === 'type') S.sheet = 'type'
-  else if (d.act === 'home') { S.screen = 'home'; S.sheet = undefined }
+  else if (d.act === 'home') { S.screen = 'home'; S.sheet = undefined; S.toast = undefined }
   else if (d.act === 'settings') { S.screen = 'settings'; S.sheet = undefined; S.toast = undefined }
   else if (d.act === 'swap') { const r = resolve(S.practice); setOverride({ pray: r.follow, follow: r.pray }) }
   else if (d.act === 'all') { applyToAll(); S.sheet = undefined }
@@ -469,42 +432,27 @@ document.addEventListener('click', (e) => {
 })
 document.getElementById('scrim').addEventListener('click', () => { S.sheet = undefined; render() })
 document.getElementById('rot').addEventListener('click', () => { S.land = !S.land; render() })
-document.getElementById('reset').addEventListener('click', () => go(0))
-
-// Long-press peek: the companion shows while the finger stays down.
-const screenEl = document.getElementById('screen')
-const peekOn = (e) => { const b = e.target.closest('[data-peek]'); if (b) b.classList.add('peeking') }
-const peekOff = () => screenEl.querySelectorAll('.peeking').forEach((b) => b.classList.remove('peeking'))
-screenEl.addEventListener('pointerdown', (e) => { clearTimeout(screenEl._t); screenEl._t = setTimeout(() => peekOn(e), 280) })
-;['pointerup', 'pointercancel', 'pointerleave'].forEach((n) => screenEl.addEventListener(n, () => { clearTimeout(screenEl._t); peekOff() }))
-screenEl.addEventListener('contextmenu', (e) => e.preventDefault())
+document.getElementById('reset').addEventListener('click', () => { S = initial(); go(0) })
 
 // ---------- scenes ----------
 const scenes = [
-  { t: 'First launch', n: 'Onboarding asks one question about Latin instead of three language settings. The examples show what each answer does. The suggested answer is <b>Latim onde é tradição</b>.',
-    s: () => ({ screen: 'onboarding' }) },
-  { t: 'Home: the stance at work', n: 'Each prayer shows the language it will open in. With the suggested stance, the Mass and the Te Deum are <b>LA · PT</b> and the Angelus is <b>PT</b>. The Liturgy of the Hours exists only in Portuguese, so it shows no language at all. Go back to i and pick another stance to see these change.',
-    s: () => ({ screen: 'home' }) },
   { t: 'The Latin Mass opens bilingual', n: 'Nothing to set: the practice declares <code>prayedIn: "la"</code>, so it opens in Latin with Portuguese <b>intercalado</b> beneath each line. Text stays full width on a phone. Rubrics stay in Portuguese, because they are instructions, not prayer. The Ordo text is Divinum Officium\'s Latin and Portugues files.',
     s: () => ({ screen: 'reader', practice: 'mass', pulse: true }) },
   { t: 'One tap: the language sheet', n: 'The <b>LA · PT</b> chip opens a single sheet with no tabs. It offers only the languages this prayer has. <b>Rezar em</b> and <b>Acompanhar com</b> replace "primário / secundário". Try <b>⇄ Inverter</b>, or change the layout.',
     s: () => ({ screen: 'reader', practice: 'mass', sheet: 'lang' }) },
   { t: 'Rotate: columns', n: 'With the layout on <b>Automática</b>, landscape (and tablets, and the website) turn the same text into two columns. No setting changes; turn the phone upright and it goes back to interleaved.',
     s: () => ({ screen: 'reader', practice: 'mass', land: true }) },
-  { t: 'Just the text, hold to see', n: 'For someone who nearly knows the Latin: only the Latin shows, and <b>holding</b> a paragraph shows the Portuguese until you let go. Unlike today\'s tap-to-switch, there is no state for each paragraph to forget.',
-    s: () => ({ screen: 'reader', practice: 'tedeum', overrides: { tedeum: { layout: 'peek' } } }) },
   { t: 'An exception, remembered', n: 'The Angelus opens in Portuguese. Open the chip and pick <b>Latim</b>: Portuguese drops into the companion slot by itself, a toast offers <b>Usar em todas</b>, and from then on only the Angelus opens in Latin. Nothing asks you for a scope beforehand.',
     s: () => ({ screen: 'reader', practice: 'angelus', sheet: 'lang' }) },
   { t: 'One language: no chip', n: 'The Brazilian Liturgy of the Hours exists only in Portuguese, so its toolbar shows no language control. The <b>T</b> icon now holds typography only.',
     s: () => ({ screen: 'reader', practice: 'loth' }) },
-  { t: 'Settings', n: 'Settings hold the stance, your vernacular, the bilingual layout, and the list of exceptions, each removable with ×. Interface language lives only here, outside the reader.',
-    s: () => ({ screen: 'settings', overrides: { angelus: { pray: 'la', follow: 'pt' }, tedeum: { layout: 'peek' } } }) },
+  { t: 'Settings', n: 'Your stance on Latin is chosen only here (it defaults to <b>Latim onde é tradição</b>, with no onboarding question). Settings also hold your vernacular, the bilingual layout, and the list of exceptions, each removable with ×. Interface language lives only here, outside the reader.',
+    s: () => ({ screen: 'settings', overrides: { angelus: { pray: 'la', follow: 'pt' }, tedeum: { follow: undefined } } }) },
 ]
 
 function go(i) {
-  // Scenes keep the stance you picked in the first one, so its effect carries through.
-  const stance = i === 0 ? 'trad' : S.stance
-  S = { ...initial(), stance, ...scenes[i].s() }
+  // Scenes keep the stance you set in Settings, so its effect carries through.
+  S = { ...initial(), stance: S.stance, vernacular: S.vernacular, ...scenes[i].s() }
   document.querySelectorAll('[data-scene]').forEach((b) => b.classList.toggle('on', +b.dataset.scene === i))
   document.getElementById('note').innerHTML = `<b>${scenes[i].t}.</b> ${scenes[i].n}`
   history.replaceState(null, '', '#' + (i + 1))
