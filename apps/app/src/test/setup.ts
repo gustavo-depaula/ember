@@ -290,6 +290,10 @@ vi.mock('expo-haptics', () => ({
   NotificationFeedbackType: { Success: 'success', Warning: 'warning', Error: 'error' },
 }))
 
+// Turning the prayer page: no screen turns here, and the guard it imports from
+// `expo` pulls in the dev client's async-require, which renderApp can't load.
+vi.mock('@/lib/screenOrientation', () => ({ useTurnsWhileFocused: () => {} }))
+
 // Native audio: a player that plays nothing (chant melodies, creators' audio).
 vi.mock('expo-audio', () => ({
   setAudioModeAsync: vi.fn(async () => undefined),

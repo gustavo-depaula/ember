@@ -13,8 +13,8 @@ export type LatinStance = 'vernacular' | 'tradition' | 'always'
 export const latinStances: readonly LatinStance[] = ['vernacular', 'tradition', 'always']
 
 /**
- * How two languages share the page. `auto` interleaves on a phone and sets
- * columns where the window is wide enough for them.
+ * How two languages share the page. `auto` interleaves on an upright phone and
+ * sets columns where the window is wide enough for them (on its side, a tablet).
  */
 export type BilingualLayout = 'auto' | 'interleaved' | 'columns' | 'tap'
 export const bilingualLayouts: readonly BilingualLayout[] = [
