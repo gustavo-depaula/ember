@@ -1,0 +1,489 @@
+{
+	"source": "Gesenius' Hebrew Grammar, ed. Kautzsch, tr. Cowley (1910), §15 and §29 i",
+	"systems": {
+		"poetic": [
+			"psalms",
+			"proverbs",
+			"job"
+		],
+		"job": [
+			"3:2",
+			"42:6"
+		]
+	},
+	"prose": {
+		"disjunctive": [
+			{
+				"n": "1",
+				"name": "Sillûq",
+				"hebrew": "סִלּוּק",
+				"marks": [
+					"U+05BD"
+				],
+				"section": "§15 f",
+				"with": "the last word before sôph pāsûq",
+				"pause": "great"
+			},
+			{
+				"n": "2",
+				"name": "ʾAthnâḥ",
+				"hebrew": "אַתְנָח",
+				"marks": [
+					"U+0591"
+				],
+				"section": "§15 f",
+				"pause": "great"
+			},
+			{
+				"n": "3 a",
+				"name": "Segôltā",
+				"hebrew": "סְגוֹלְתָּא",
+				"marks": [
+					"U+0592"
+				],
+				"section": "§15 f",
+				"position": "postpositive"
+			},
+			{
+				"n": "3 b",
+				"name": "Šalšèleth (Great)",
+				"hebrew": "שַׁלְשֶׁלֶת",
+				"marks": [
+					"U+0593"
+				],
+				"section": "§15 f",
+				"with": "U+05C0"
+			},
+			{
+				"n": "4 a",
+				"name": "Zâqēph gādôl",
+				"hebrew": "זָקֵף גָּדוֹל",
+				"marks": [
+					"U+0595"
+				],
+				"section": "§15 f"
+			},
+			{
+				"n": "4 b",
+				"name": "Zâqēph qāṭôn",
+				"hebrew": "זָקֵף קָטוֹן",
+				"marks": [
+					"U+0594"
+				],
+				"section": "§15 f"
+			},
+			{
+				"n": "5",
+				"name": "Ṭiphḥā",
+				"hebrew": "טִפְחָא",
+				"marks": [
+					"U+0596"
+				],
+				"section": "§15 f"
+			},
+			{
+				"n": "6",
+				"name": "Rebhîaʿ",
+				"hebrew": "רְבִיעַ",
+				"marks": [
+					"U+0597"
+				],
+				"section": "§15 f"
+			},
+			{
+				"n": "7",
+				"name": "Zarqā",
+				"hebrew": "זַרְקָא",
+				"marks": [
+					"U+05AE"
+				],
+				"section": "§15 f",
+				"position": "postpositive"
+			},
+			{
+				"n": "8 a",
+				"name": "Pašṭā",
+				"hebrew": "פַּשְׁטָא",
+				"marks": [
+					"U+0599"
+				],
+				"section": "§15 f",
+				"position": "postpositive"
+			},
+			{
+				"n": "8 b",
+				"name": "Yethîbh",
+				"hebrew": "יְתִיב",
+				"marks": [
+					"U+059A"
+				],
+				"section": "§15 f",
+				"position": "prepositive"
+			},
+			{
+				"n": "9",
+				"name": "Tebhîr",
+				"hebrew": "תְּבִיר",
+				"marks": [
+					"U+059B"
+				],
+				"section": "§15 f"
+			},
+			{
+				"n": "10 a",
+				"name": "Gèreš",
+				"hebrew": "גֶּרֶשׁ",
+				"marks": [
+					"U+059C"
+				],
+				"section": "§15 f"
+			},
+			{
+				"n": "10 b",
+				"name": "Gerāšáyim",
+				"hebrew": "גְּרָשַׁיִם",
+				"marks": [
+					"U+059E"
+				],
+				"section": "§15 f"
+			},
+			{
+				"n": "11 a",
+				"name": "Pâzēr",
+				"hebrew": "פָּזֵר",
+				"marks": [
+					"U+05A1"
+				],
+				"section": "§15 f"
+			},
+			{
+				"n": "11 b",
+				"name": "Pâzēr gādôl (Qarnê phārā)",
+				"hebrew": "קַרְנֵי פָרָה",
+				"marks": [
+					"U+059F"
+				],
+				"section": "§15 f"
+			},
+			{
+				"n": "12",
+				"name": "Teliša gedôlā",
+				"hebrew": "תְּלִישָׁא גְדוֹלָה",
+				"marks": [
+					"U+05A0"
+				],
+				"section": "§15 f",
+				"position": "prepositive"
+			},
+			{
+				"n": "13",
+				"name": "Legarmēh",
+				"hebrew": "לְגַרְמֶהּ",
+				"marks": [
+					"U+05A3"
+				],
+				"section": "§15 f",
+				"with": "U+05C0"
+			}
+		],
+		"conjunctive": [
+			{
+				"n": "14",
+				"name": "Mûnaḥ",
+				"hebrew": "מוּנַח",
+				"marks": [
+					"U+05A3"
+				],
+				"section": "§15 g"
+			},
+			{
+				"n": "15",
+				"name": "Mehuppākh",
+				"hebrew": "מְהֻפָּךְ",
+				"marks": [
+					"U+05A4"
+				],
+				"section": "§15 g"
+			},
+			{
+				"n": "16 a",
+				"name": "Mêrekhā",
+				"hebrew": "מֵירְכָא",
+				"marks": [
+					"U+05A5"
+				],
+				"section": "§15 g"
+			},
+			{
+				"n": "16 b",
+				"name": "Mêrekhā khephûlâ",
+				"hebrew": "מ׳ כְפוּלָה",
+				"marks": [
+					"U+05A6"
+				],
+				"section": "§15 g"
+			},
+			{
+				"n": "17",
+				"name": "Dargā",
+				"hebrew": "דַּרְגָּא",
+				"marks": [
+					"U+05A7"
+				],
+				"section": "§15 g"
+			},
+			{
+				"n": "18",
+				"name": "ʾAzlā (Qadmā)",
+				"hebrew": "אַזְלָא",
+				"marks": [
+					"U+05A8"
+				],
+				"section": "§15 g"
+			},
+			{
+				"n": "19",
+				"name": "Teliša qeṭannā",
+				"hebrew": "תְּלִישָׁא קְטַנָּה",
+				"marks": [
+					"U+05A9"
+				],
+				"section": "§15 g",
+				"position": "postpositive"
+			},
+			{
+				"n": "20",
+				"name": "Galgal (Yèraḥ)",
+				"hebrew": "גַּלְגַּל",
+				"marks": [
+					"U+05AA"
+				],
+				"section": "§15 g"
+			},
+			{
+				"n": "21",
+				"name": "Meʾayyelā",
+				"hebrew": "מְאַיְּלָא",
+				"marks": [
+					"U+0596"
+				],
+				"section": "§15 g",
+				"with": "a word that also bears Sillûq or ʾAthnâḥ, or is joined by maqqēph to one: a variety of Ṭiphḥā marking the secondary tone"
+			}
+		]
+	},
+	"poetic": {
+		"disjunctive": [
+			{
+				"n": "1",
+				"name": "Sillûq",
+				"hebrew": "סִלּוּק",
+				"marks": [
+					"U+05BD"
+				],
+				"section": "§15 h",
+				"with": "the last word before sôph pāsûq",
+				"pause": "great"
+			},
+			{
+				"n": "2",
+				"name": "ʿÔlè weyôrēd",
+				"hebrew": "עוֹלֶה וְיוֹרֵד",
+				"marks": [
+					"U+05AB",
+					"U+05A5"
+				],
+				"section": "§15 h",
+				"with": "ʿÔlè over the word and Mêrekhā (yôrēd) under it, or on the next word",
+				"pause": "great"
+			},
+			{
+				"n": "3",
+				"name": "ʾAthnâḥ",
+				"hebrew": "אַתְנָח",
+				"marks": [
+					"U+0591"
+				],
+				"section": "§15 h",
+				"pause": "great"
+			},
+			{
+				"n": "4",
+				"name": "Rebhîaʿ gādôl",
+				"hebrew": "רְבִיעַ גָּדוֹל",
+				"marks": [
+					"U+0597"
+				],
+				"section": "§15 h"
+			},
+			{
+				"n": "5",
+				"name": "Rebhîaʿ mugrāš",
+				"hebrew": "רְבִיעַ מֻגְרָשׁ",
+				"marks": [
+					"U+0597",
+					"U+059D"
+				],
+				"section": "§15 h",
+				"with": "Gèreš on the same word"
+			},
+			{
+				"n": "6",
+				"name": "Šalšèleth (Great)",
+				"hebrew": "שַׁלְשֶׁלֶת",
+				"marks": [
+					"U+0593"
+				],
+				"section": "§15 h",
+				"with": "U+05C0"
+			},
+			{
+				"n": "7",
+				"name": "Ṣinnôr (Zarqā)",
+				"hebrew": "צִנּוֹר",
+				"marks": [
+					"U+05AE"
+				],
+				"section": "§15 h",
+				"position": "postpositive"
+			},
+			{
+				"n": "8",
+				"name": "Rebhîaʿ qāṭôn",
+				"hebrew": "רְבִיעַ קָטֹן",
+				"marks": [
+					"U+0597"
+				],
+				"section": "§15 h",
+				"with": "immediately before ʿÔlè weyôrēd"
+			},
+			{
+				"n": "9",
+				"name": "Deḥî",
+				"hebrew": "דְּחִי",
+				"marks": [
+					"U+05AD"
+				],
+				"section": "§15 h",
+				"position": "prepositive"
+			},
+			{
+				"n": "10",
+				"name": "Pâzēr",
+				"hebrew": "פָּזֵר",
+				"marks": [
+					"U+05A1"
+				],
+				"section": "§15 h"
+			},
+			{
+				"n": "11 a",
+				"name": "Mehuppākh legarmēh",
+				"hebrew": "מְהֻפָּךְ לְגַרְמֶהּ",
+				"marks": [
+					"U+05A4"
+				],
+				"section": "§15 h",
+				"with": "U+05C0"
+			},
+			{
+				"n": "11 b",
+				"name": "ʾAzlā legarmēh",
+				"hebrew": "אַזְלָא לְגַרְמֶהּ",
+				"marks": [
+					"U+05A8"
+				],
+				"section": "§15 h",
+				"with": "U+05C0"
+			}
+		],
+		"conjunctive": [
+			{
+				"n": "12",
+				"name": "Mêrekhā",
+				"hebrew": "מֵירְכָא",
+				"marks": [
+					"U+05A5"
+				],
+				"section": "§15 i"
+			},
+			{
+				"n": "13",
+				"name": "Mûnaḥ",
+				"hebrew": "מוּנַח",
+				"marks": [
+					"U+05A3"
+				],
+				"section": "§15 i"
+			},
+			{
+				"n": "14",
+				"name": "ʿIllûy (Mûnaḥ superior)",
+				"hebrew": "עִלּוּי",
+				"marks": [
+					"U+05AC"
+				],
+				"section": "§15 i"
+			},
+			{
+				"n": "15",
+				"name": "Ṭarḥā",
+				"hebrew": "טַרְחָא",
+				"marks": [
+					"U+0596"
+				],
+				"section": "§15 i",
+				"with": "under the tone-syllable (Deḥî stands under the first consonant)"
+			},
+			{
+				"n": "16",
+				"name": "Galgal (Yèraḥ)",
+				"hebrew": "גַּלְגַּל",
+				"marks": [
+					"U+05AA"
+				],
+				"section": "§15 i"
+			},
+			{
+				"n": "17",
+				"name": "Mehuppākh",
+				"hebrew": "מְהֻפָּךְ",
+				"marks": [
+					"U+05A4"
+				],
+				"section": "§15 i",
+				"with": "no paseq after it"
+			},
+			{
+				"n": "18",
+				"name": "ʾAzlā",
+				"hebrew": "אַזְלָא",
+				"marks": [
+					"U+05A8"
+				],
+				"section": "§15 i",
+				"with": "no paseq after it"
+			},
+			{
+				"n": "19",
+				"name": "Šalšèleth qeṭannā",
+				"hebrew": "שַׁלְשֶׁלֶת קְטַנָּה",
+				"marks": [
+					"U+0593"
+				],
+				"section": "§15 i",
+				"with": "no paseq after it"
+			},
+			{
+				"n": "20",
+				"name": "Ṣinnôrîth",
+				"hebrew": "צִנּוֹרִית",
+				"marks": [
+					"U+0598"
+				],
+				"section": "§15 i",
+				"with": "over an open syllable before a consonant with Mêrekhā or Mahpākh: not an independent accent"
+			}
+		]
+	}
+}
