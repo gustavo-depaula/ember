@@ -23,9 +23,11 @@ const red: BlockTone = { from: '#6B1620', to: '#2A080C' }
 const rose: BlockTone = { from: '#5C2740', to: '#260E1A' }
 const burgundy: BlockTone = { from: '#5A1722', to: '#24090E' }
 const ink: BlockTone = { from: '#2E3A4A', to: '#11161E' }
+// Warm, so a grey page still sits with the jewel tones beside it.
+const stone: BlockTone = { from: '#4A453D', to: '#1C1A16' }
 
 /** The named jewel tones, for surfaces that pick one by meaning. */
-export const jewelTones = { burgundy, gold, green, marian, red }
+export const jewelTones = { burgundy, gold, green, marian, red, stone }
 
 const seasonTones: Record<LiturgicalSeason, BlockTone> = {
   advent: violet,
