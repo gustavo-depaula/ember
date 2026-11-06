@@ -2,7 +2,7 @@ import { type LiturgicalColor, liturgicalColorOf } from '@ember/divinum-officium
 import { useRouter } from 'expo-router'
 import { useTranslation } from 'react-i18next'
 import { StyleSheet, View } from 'react-native'
-import Svg, { Polygon } from 'react-native-svg'
+import Svg, { Defs, Polygon, RadialGradient, Rect, Stop } from 'react-native-svg'
 import { Text, YStack } from 'tamagui'
 
 import { AnimatedPressable, InlineRetry, Typography } from '@/components'
@@ -10,7 +10,7 @@ import { CardRow } from '@/features/explore/CardRow'
 import { localizeContent } from '@/lib/i18n'
 import { type ChantBookSection, chantSummary } from './chants'
 import { useChant, useChantBook, useChantWeek } from './hooks'
-import { leafPalette, leafPaper } from './leaf'
+import { leafPalette } from './leaf'
 import { type ChantDay, gradualeId, sectionOfDay } from './library'
 import { chantPageHref } from './routes'
 import { ScoreView } from './ScoreView'
@@ -53,79 +53,114 @@ export function ChantWeek() {
     `${date.toLocaleDateString(i18n.language, { weekday: 'short' }).replace('.', '')} ${date.getDate()}`
 
   return (
-    <CardRow>
-      {pages.map(({ day, section }, i) => {
-        const today = i === 0
-        const width = today ? todayWidth : dayWidth
-        const title = localizeContent(section.title)
-        const label = today ? `${t('chant.today')} · ${dayLabel(day.date)}` : dayLabel(day.date)
-        return (
-          <AnimatedPressable
-            key={section.id}
-            onPress={() => router.push(chantPageHref(gradualeId, section.id))}
-            accessibilityRole="link"
-            accessibilityLabel={`${label}, ${title}`}
-          >
-            <YStack
-              width={width}
-              height={height}
-              borderRadius={6}
-              backgroundColor={leafPaper}
-              padding={padding}
-              gap={6}
-              style={styles.shadow}
+    // The row's own padding holds the leaves' shadow and ribbon, which a
+    // scroller cuts at its edge; the negative margins give that room back.
+    <YStack marginTop={-shadowRoom.top} marginBottom={-shadowRoom.bottom}>
+      <CardRow>
+        {pages.map(({ day, section }, i) => {
+          const today = i === 0
+          const width = today ? todayWidth : dayWidth
+          const title = localizeContent(section.title)
+          const label = today ? `${t('chant.today')} · ${dayLabel(day.date)}` : dayLabel(day.date)
+          return (
+            <AnimatedPressable
+              key={section.id}
+              style={{ paddingTop: shadowRoom.top, paddingBottom: shadowRoom.bottom }}
+              onPress={() => router.push(chantPageHref(gradualeId, section.id))}
+              accessibilityRole="link"
+              accessibilityLabel={`${label}, ${title}`}
             >
-              <Ribbon color={liturgicalColorOf(title)} />
-              <Text
-                fontFamily="$heading"
-                fontSize={11}
-                letterSpacing={1.4}
-                color={leafPalette.rubric}
-                paddingRight={24}
+              <YStack
+                width={width}
+                height={height}
+                borderRadius={radius}
+                // Under the paper, for Android, which draws a shadow only beneath a background.
+                backgroundColor="#E9DDC2"
+                padding={padding}
+                gap={6}
+                style={styles.shadow}
               >
-                {label.toUpperCase()}
-              </Text>
-              <Typography
-                fontFamily="$title"
-                fontSize={today ? '$3' : '$1'}
-                color={leafPalette.ink}
-                numberOfLines={today ? 2 : 3}
-              >
-                {title}
-              </Typography>
-              <YStack flex={1} />
-              {section.chants[0] && (
-                <Incipit id={section.chants[0]} width={width - padding * 2} label={title} />
-              )}
-              {(today ? section.chants.slice(0, 3) : section.chants.slice(0, 1)).map((chant) => {
-                const { name, genre } = chantSummary(chant)
-                return (
-                  <Text
-                    key={chant}
-                    numberOfLines={1}
-                    fontFamily="$body"
-                    fontSize={14}
-                    color={leafPalette.ink}
-                  >
-                    {today && genre && (
-                      <Text
-                        fontFamily="$heading"
-                        fontSize={10}
-                        letterSpacing={1}
-                        color={leafPalette.rubric}
-                      >
-                        {`${t(`chant.genreShort.${genre}`).toUpperCase()}  `}
-                      </Text>
-                    )}
-                    {name}
-                  </Text>
-                )
-              })}
-            </YStack>
-          </AnimatedPressable>
-        )
-      })}
-    </CardRow>
+                <Paper id={`leaf-${section.id}`} width={width} />
+                <Ribbon color={liturgicalColorOf(title)} />
+                <Text
+                  fontFamily="$heading"
+                  fontSize={11}
+                  letterSpacing={1.4}
+                  color={leafPalette.rubric}
+                  paddingRight={24}
+                >
+                  {label.toUpperCase()}
+                </Text>
+                <Typography
+                  fontFamily="$title"
+                  fontSize={today ? '$3' : '$1'}
+                  color={leafPalette.ink}
+                  numberOfLines={today ? 2 : 3}
+                >
+                  {title}
+                </Typography>
+                <YStack flex={1} />
+                {section.chants[0] && (
+                  <Incipit id={section.chants[0]} width={width - padding * 2} label={title} />
+                )}
+                {(today ? section.chants.slice(0, 3) : section.chants.slice(0, 1)).map((chant) => {
+                  const { name, genre } = chantSummary(chant)
+                  return (
+                    <Text
+                      key={chant}
+                      numberOfLines={1}
+                      fontFamily="$body"
+                      fontSize={14}
+                      color={leafPalette.ink}
+                    >
+                      {today && genre && (
+                        <Text
+                          fontFamily="$heading"
+                          fontSize={10}
+                          letterSpacing={1}
+                          color={leafPalette.rubric}
+                        >
+                          {`${t(`chant.genreShort.${genre}`).toUpperCase()}  `}
+                        </Text>
+                      )}
+                      {name}
+                    </Text>
+                  )
+                })}
+              </YStack>
+            </AnimatedPressable>
+          )
+        })}
+      </CardRow>
+    </YStack>
+  )
+}
+
+const radius = 6
+const shadowRoom = { top: 4, bottom: 18 }
+
+// Cream paper, lightest where the light falls on it and warmer toward its edges.
+function Paper({ id, width }: { id: string; width: number }) {
+  return (
+    <Svg width={width} height={height} style={StyleSheet.absoluteFill}>
+      <Defs>
+        <RadialGradient id={id} cx="30%" cy="20%" rx="120%" ry="90%">
+          <Stop offset="0" stopColor="#F6EEDC" />
+          <Stop offset="0.7" stopColor="#E9DDC2" />
+          <Stop offset="1" stopColor="#DCCDAC" />
+        </RadialGradient>
+      </Defs>
+      <Rect
+        x={0.5}
+        y={0.5}
+        width={width - 1}
+        height={height - 1}
+        rx={radius}
+        fill={`url(#${id})`}
+        stroke="rgba(120,90,50,0.18)"
+        strokeWidth={1}
+      />
+    </Svg>
   )
 }
 
