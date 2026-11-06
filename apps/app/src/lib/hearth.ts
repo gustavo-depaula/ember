@@ -49,6 +49,8 @@ export function hearthAssetUrl(path: string): string {
   return hearthUrl(path)
 }
 
+const revalidated = new Set<string>()
+
 export async function fetchHearth<T>(
   path: string,
   { networkFirst = false }: { networkFirst?: boolean } = {},
@@ -61,7 +63,19 @@ export async function fetchHearth<T>(
 
   if (!isLocal && !networkFirst) {
     const cached = await getCached<T>(key)
-    if (cached) return cached
+    if (cached) {
+      // A file read by its path (a Bible book, a commentary) keeps its path when
+      // the corpus corrects it: revalidate once a launch in the background, so
+      // the correction reaches the next read instead of never.
+      if (!revalidated.has(path)) {
+        revalidated.add(path)
+        fetchFrom(remoteUrl, 15_000, true).catch(() => {
+          // Offline: the cached copy stands, and the next read tries again.
+          revalidated.delete(path)
+        })
+      }
+      return cached
+    }
   }
 
   // `conditional` revalidates against the CDN's ETag: an unchanged file comes
