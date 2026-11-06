@@ -114,16 +114,15 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .lay small { font-size: 12px; font-style: italic; opacity: .75; margin-top: -4px; }
 .swap { margin-top: 14px; width: 100%; height: 44px; border-radius: 14px; border: 1px solid var(--rule); font-size: 17px; color: var(--muted); }
 .scope { margin-top: 18px; padding-top: 14px; border-top: 1px solid var(--hair); font-size: 15px; color: var(--muted); line-height: 1.4; }
-.scope .row { display: flex; gap: 14px; margin-top: 8px; }
+.scope .field-label { color: var(--ink); }
+.scope-seg { display: grid; grid-template-columns: 1fr 1fr; background: var(--surface); border-radius: 14px; padding: 3px; }
+.scope-seg button { height: 40px; border-radius: 11px; font-size: 16px; color: var(--muted); }
+.scope-seg button.on { background: var(--gold); color: var(--gold-ink); }
+.scope-note { margin-top: 10px; }
+.scope-note .link { margin-left: 4px; }
 .link { color: var(--gold); font-family: var(--heading); font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase; }
 .link.dim { color: var(--muted); }
 
-/* ---------- toast ---------- */
-.toast { position: absolute; left: 16px; right: 16px; bottom: 30px; z-index: 40; background: var(--surface); border-radius: 16px; padding: 13px 16px;
-  display: flex; align-items: center; justify-content: space-between; gap: 12px; font-size: 16px; box-shadow: 0 12px 30px rgba(0,0,0,.6);
-  transform: translateY(calc(100% + 60px)); opacity: 0; transition: transform .3s cubic-bezier(.2,.9,.25,1), opacity .3s; }
-.toast.on { transform: none; opacity: 1; }
-.phone.land .toast { left: 50%; width: 440px; margin-left: -220px; right: auto; }
 
 /* ---------- home / settings ---------- */
 .stance { display: block; width: 100%; text-align: left; background: var(--surface-2); border-radius: 18px; padding: 16px 18px; margin-bottom: 12px; box-shadow: 0 6px 18px rgba(0,0,0,.35); }
@@ -180,7 +179,6 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
     <div class="screen" id="screen"></div>
     <div class="scrim" id="scrim"></div>
     <div class="sheet" id="sheet"></div>
-    <div class="toast" id="toast"></div>
   </div>
 </div>
 
@@ -207,7 +205,7 @@ const stances = {
   },
 }
 
-const initial = () => ({ screen: 'reader', practice: 'mass', stance: 'trad', vernacular: 'pt', layoutPref: 'auto', overrides: {}, land: false, sheet: undefined, toast: undefined })
+const initial = () => ({ screen: 'reader', practice: 'mass', stance: 'trad', vernacular: 'pt', layoutPref: 'auto', overrides: {}, land: false, sheet: undefined })
 let S = initial()
 
 // The whole model is this one pure function: override ?? stance(practice) ?? vernacular.
@@ -328,9 +326,16 @@ function sheetHtml() {
   const p = practices[id]
   const r = resolve(id)
   const followOpts = [undefined, ...p.langs.filter((l) => l !== r.pray)]
-  const scope = r.overridden
-    ? `<div>Lembrado só para <i>${p.name}</i>.</div><div class="row" style="background:none;box-shadow:none;padding:0;margin:8px 0 0"><button class="link" data-act="all">Usar em todas</button><button class="link dim" data-act="restore">Voltar ao padrão</button></div>`
-    : `<div>Padrão do seu jeito de rezar: <i>${stances[S.stance].h.toLowerCase()}</i>. Uma mudança aqui vale só para esta oração.</div>`
+  const stanceName = stances[S.stance].h.toLowerCase()
+  const now = `${langName[r.pray].toLowerCase()}${r.follow ? ` com ${langName[r.follow].toLowerCase()}` : ''}`
+  const scope = `<div class="field-label">Vale para</div>
+    <div class="scope-seg">
+      <button class="${r.overridden ? 'on' : ''}" data-scope="this">Só esta oração</button>
+      <button class="${r.overridden ? '' : 'on'}" data-scope="all">Todas as orações</button>
+    </div>
+    <div class="scope-note">${r.overridden
+      ? `<i>${p.name}</i> fica em ${now}. As demais seguem seu padrão, <i>${stanceName}</i>. <button class="link dim" data-act="restore">Voltar ao padrão</button>`
+      : `Segue seu padrão, <i>${stanceName}</i>. Uma mudança acima passa a valer só para esta oração.`}</div>`
   return `<div class="grabber"></div>
     <div class="sheet-title"><span class="k">Idioma</span><span class="n">${p.name}</span></div>
     <div class="field"><div class="field-label">Rezar em</div>
@@ -359,36 +364,30 @@ function render() {
   if (S.sheet) sheet.innerHTML = sheetHtml()
   sheet.classList.toggle('on', !!S.sheet)
   document.getElementById('scrim').classList.toggle('on', !!S.sheet)
-  const toast = document.getElementById('toast')
-  if (S.toast) toast.innerHTML = S.toast
-  toast.classList.toggle('on', !!S.toast)
   S.pulse = false
 }
 
 // ---------- interaction ----------
-let toastTimer
-function showToast(html) {
-  S.toast = html
-  clearTimeout(toastTimer)
-  toastTimer = setTimeout(() => { S.toast = undefined; render() }, 5200)
-}
-
 function setOverride(patch) {
   const id = S.practice
-  const before = resolve(id)
   S.overrides[id] = { ...S.overrides[id], ...patch }
-  const after = resolve(id)
-  // An override equal to what the stance already gives is no override at all.
+  // An override equal to what the stance already gives is no override at all,
+  // unless the prayer was pinned with "Só esta oração".
   const o = S.overrides[id]
+  if (o.pinned) return
   const saved = S.overrides[id]; delete S.overrides[id]
   const base = resolve(id); S.overrides[id] = saved
   if (o.pray === base.pray) delete o.pray
   if ('follow' in o && o.follow === base.follow) delete o.follow
   if (o.layout === base.layoutChoice) delete o.layout
   if (!Object.keys(o).length) delete S.overrides[id]
-  if (before.pray !== after.pray) {
-    showToast(`<span><i>${practices[id].name}</i> agora em ${langName[after.pray].toLowerCase()}</span><button class="link" data-act="all">Usar em todas</button>`)
-  }
+}
+
+// "Só esta oração" with nothing changed yet: freeze what the prayer shows now,
+// so a later change of stance in Settings leaves it alone.
+function pin() {
+  const r = resolve(S.practice)
+  S.overrides[S.practice] = { pinned: true, pray: r.pray, follow: r.follow, ...(r.layoutChoice !== S.layoutPref ? { layout: r.layoutChoice } : {}) }
 }
 
 function applyToAll() {
@@ -398,7 +397,6 @@ function applyToAll() {
   else if (o.pray && o.pray === S.vernacular) S.stance = 'vern'
   if (o.layout) S.layoutPref = o.layout
   delete S.overrides[id]
-  showToast(`<span>Agora: <i>${stances[S.stance].h.toLowerCase()}</i></span><button class="link dim" data-act="settings">Ajustes</button>`)
 }
 
 document.addEventListener('click', (e) => {
@@ -407,10 +405,11 @@ document.addEventListener('click', (e) => {
   const d = t.dataset
   if (d.act === 'sheet') S.sheet = 'lang'
   else if (d.act === 'type') S.sheet = 'type'
-  else if (d.act === 'home') { S.screen = 'home'; S.sheet = undefined; S.toast = undefined }
-  else if (d.act === 'settings') { S.screen = 'settings'; S.sheet = undefined; S.toast = undefined }
+  else if (d.act === 'home') { S.screen = 'home'; S.sheet = undefined }
+  else if (d.act === 'settings') { S.screen = 'settings'; S.sheet = undefined }
   else if (d.act === 'swap') { const r = resolve(S.practice); setOverride({ pray: r.follow, follow: r.pray }) }
-  else if (d.act === 'all') { applyToAll(); S.sheet = undefined }
+  else if (d.scope === 'all') { if (S.overrides[S.practice]) applyToAll() }
+  else if (d.scope === 'this') { if (!S.overrides[S.practice]) pin() }
   else if (d.act === 'restore') delete S.overrides[S.practice]
   else if (d.stance) S.stance = d.stance
   else if (d.vern) S.vernacular = d.vern
@@ -442,7 +441,7 @@ const scenes = [
     s: () => ({ screen: 'reader', practice: 'mass', sheet: 'lang' }) },
   { t: 'Rotate: columns', n: 'With the layout on <b>Automática</b>, landscape (and tablets, and the website) turn the same text into two columns. No setting changes; turn the phone upright and it goes back to interleaved.',
     s: () => ({ screen: 'reader', practice: 'mass', land: true }) },
-  { t: 'An exception, remembered', n: 'The Angelus opens in Portuguese. Open the chip and pick <b>Latim</b>: Portuguese drops into the companion slot by itself, a toast offers <b>Usar em todas</b>, and from then on only the Angelus opens in Latin. Nothing asks you for a scope beforehand.',
+  { t: 'An exception, remembered', n: 'The Angelus opens in Portuguese. Open the chip and pick <b>Latim</b>: Portuguese drops into the companion slot by itself, and <b>Vale para</b> at the foot of the sheet flips to <b>Só esta oração</b>: only the Angelus opens in Latin from now on. Tap <b>Todas as orações</b> and the same choice becomes your default for every prayer. It stays in the sheet, so you can come back to it any time.',
     s: () => ({ screen: 'reader', practice: 'angelus', sheet: 'lang' }) },
   { t: 'One language: no chip', n: 'The Brazilian Liturgy of the Hours exists only in Portuguese, so its toolbar shows no language control. The <b>T</b> icon now holds typography only.',
     s: () => ({ screen: 'reader', practice: 'loth' }) },
