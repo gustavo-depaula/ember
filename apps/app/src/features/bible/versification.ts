@@ -112,3 +112,21 @@ export async function carryPlace(
   }
   return { bookId, chapter }
 }
+
+/**
+ * Where an edition put a chapter it has no page for: the Septuagint prints the
+ * Vulgate's Proverbs 30 inside its chapter 24. The first verse of the shared
+ * chapter that the edition places in another chapter, or undefined.
+ */
+export function whereChapterWent(
+  versification: Versification,
+  bookId: string,
+  chapter: number,
+): Address | undefined {
+  // A shared chapter runs to 176 verses at most (Psalm 118).
+  for (let verse = 1; verse <= 176; verse++) {
+    const own = versification.fromShared({ bookId, chapter, verse })
+    if (own && own.chapter !== chapter) return own
+  }
+  return undefined
+}

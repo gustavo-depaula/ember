@@ -129,6 +129,7 @@ export function ChapterContent({
   language,
   fallback,
   completedBy,
+  moved,
   marked,
   study,
   beside,
@@ -143,6 +144,7 @@ export function ChapterContent({
   fallback?: boolean
   /** The edition the chapter is read from, where it completes the one chosen. */
   completedBy?: string
+  moved?: { label: string; onPress: () => void }
   marked?: MarkedVerses
   study?: WordStudyProps
   beside?: BesideProps
@@ -253,6 +255,7 @@ export function ChapterContent({
       chapter={chapter}
       fallback={fallback}
       completedBy={completedBy}
+      moved={moved}
       gap="$xs"
     >
       {beside?.columns ? (

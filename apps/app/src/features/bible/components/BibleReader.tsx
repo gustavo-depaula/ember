@@ -1,3 +1,4 @@
+import { useQuery } from '@tanstack/react-query'
 import { useRouter } from 'expo-router'
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
@@ -22,7 +23,7 @@ import {
 } from '@/components'
 import { useBottomClearance } from '@/components/tabAccessory'
 import { editionLanguage, findTranslation } from '@/lib/bibleTranslations'
-import type { Book } from '@/lib/content'
+import { type Book, servingEdition } from '@/lib/content'
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
@@ -38,7 +39,7 @@ import {
   useVersification,
 } from '../hooks'
 import { isReferenceKind } from '../references'
-import { getVersificationAt } from '../versification'
+import { getVersification, getVersificationAt, whereChapterWent } from '../versification'
 import { verseTokens } from '../words'
 import { BibleDrawer } from './BibleDrawer'
 import { ChapterContent } from './ChapterContent'
@@ -302,6 +303,30 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
       ? undefined
       : findTranslation(chapterData.edition)?.name
 
+  // A chapter the edition has no page for (the Douay-Rheims stands in) may be
+  // one it prints elsewhere: the Septuagint's Proverbs 30 is in its chapter 24.
+  const { data: movedTo } = useQuery({
+    queryKey: ['bible', 'moved', translation, bookId, chapter],
+    queryFn: async () => {
+      // Named after the edition that prints the book, which for a Greek New
+      // Testament's Proverbs is the Septuagint completing it.
+      const edition = await servingEdition(translation, bookId)
+      const place = whereChapterWent(await getVersification(edition), bookId, chapter)
+      return place ? { place, edition } : null
+    },
+    enabled: chapterData?.fallback === true && translation !== 'DRB',
+    staleTime: Number.POSITIVE_INFINITY,
+  })
+  const moved = movedTo
+    ? {
+        label: t('bible.chapterMoved', {
+          name: findTranslation(movedTo.edition)?.name ?? movedTo.edition,
+          chapter: movedTo.place.chapter,
+        }),
+        onPress: () => turnTo(movedTo.place),
+      }
+    : undefined
+
   /** ‹ › walk the chapter word by word, across verses. */
   function stepWord(direction: -1 | 1) {
     if (!study || !chapterData) return
@@ -467,6 +492,7 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
               study={pageStudy}
               beside={beside}
               completedBy={completedBy}
+              moved={moved}
               marked={marked}
               onVersePress={handleVersePress}
               onVerseLayout={handleVerseLayout}

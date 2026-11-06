@@ -1075,6 +1075,7 @@ export default {
       columns: 'Colunas',
     },
     showingEdition: 'Do texto {{name}}',
+    chapterMoved: '{{name}} traz estes versículos no capítulo {{chapter}} · ir até lá',
     morph: {
       pos: {
         noun: 'substantivo',

@@ -1,5 +1,6 @@
 import type { ReactNode } from 'react'
 import { useTranslation } from 'react-i18next'
+import { Pressable } from 'react-native'
 import { Text, YStack } from 'tamagui'
 
 import { Typography } from '@/components'
@@ -15,6 +16,7 @@ export function ChapterFrame({
   chapter,
   fallback,
   completedBy,
+  moved,
   gap,
   children,
 }: {
@@ -23,6 +25,8 @@ export function ChapterFrame({
   fallback?: boolean
   /** The edition the chapter is read from, where it completes the one chosen. */
   completedBy?: string
+  /** Where the edition chosen put this chapter's verses, when it has no page for it. */
+  moved?: { label: string; onPress: () => void }
   /** Between the verses. */
   gap: '$xs' | '$lg'
   children: ReactNode
@@ -52,6 +56,18 @@ export function ChapterFrame({
         <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" textAlign="center">
           {t('bible.showingFallback')}
         </Text>
+      ) : undefined}
+      {moved ? (
+        <Pressable
+          onPress={moved.onPress}
+          hitSlop={12}
+          accessibilityRole="link"
+          accessibilityLabel={moved.label}
+        >
+          <Typography variant="caption" fontSize="$2" color="$colorBurgundy" textAlign="center">
+            {moved.label}
+          </Typography>
+        </Pressable>
       ) : undefined}
       {completedBy ? (
         <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" textAlign="center">

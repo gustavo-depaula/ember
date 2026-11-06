@@ -1071,6 +1071,7 @@ export default {
       columns: 'Columns',
     },
     showingEdition: 'From {{name}}',
+    chapterMoved: '{{name}} sets these verses in chapter {{chapter}} · go there',
     morph: {
       pos: {
         noun: 'noun',

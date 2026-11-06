@@ -5,7 +5,7 @@ import { describe, expect, it } from 'vitest'
 import { translations } from '@/lib/bibleTranslations'
 import { getChapter } from '@/lib/content'
 
-import { carryPlace, getVersification } from '../versification'
+import { carryPlace, getVersification, whereChapterWent } from '../versification'
 import { getChapterWords, lookUp } from '../words'
 
 // The built corpus (`pnpm build:corpus`), as the app reads it.
@@ -91,6 +91,17 @@ describe('the Septuagint', () => {
       bookId: 'jeremias',
       chapter: 25,
     })
+  })
+
+  it('finds where it put a chapter it has no page for', async () => {
+    // Proverbs 30 of the Vulgate stands inside the Septuagint's chapter 24.
+    const septuagint = await getVersification('LXX')
+    expect(whereChapterWent(septuagint, 'proverbs', 30)).toEqual({
+      bookId: 'proverbs',
+      chapter: 24,
+      verse: 35,
+    })
+    expect(whereChapterWent(septuagint, 'proverbs', 10)).toBeUndefined()
   })
 
   it('reads the Old Testament of a Greek New Testament', async () => {
