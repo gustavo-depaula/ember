@@ -52,9 +52,10 @@ export function readLarge<T>(path: string): Promise<T> {
   return promise
 }
 
-export type Place = [bookId: string, chapter: number, verse: number]
+/** Where a lemma stands, with its parsing there: one per occurrence, so a verse that has the word twice is listed twice. */
+export type Place = [bookId: string, chapter: number, verse: number, morph: string]
 
-/** The verses of an edition where a lemma stands, from its concordance. */
+/** Every occurrence of a lemma in an edition, from its concordance. */
 export async function getOccurrences(translation: string, lemma: string): Promise<Place[]> {
   const edition = findTranslation(translation)
   const key = lexiconKey(lemma)

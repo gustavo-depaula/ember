@@ -1,5 +1,5 @@
 import { ChevronLeft, ChevronRight, X } from 'lucide-react-native'
-import { useState } from 'react'
+import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, ScrollView } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
@@ -17,9 +17,11 @@ import {
   useParallelVerses,
 } from '../hooks'
 import { describeParsing, parseRobinson } from '../morphology'
+import { distinctPlaces, type Form, facetsOf, matches } from '../occurrenceFilter'
 import { transliterate } from '../transliterate'
 import { isUnchecked, verseTokens, type WordEntry } from '../words'
 import { BackRow } from './BackRow'
+import { OccurrenceFilter } from './OccurrenceFilter'
 import { TabLine } from './TabLine'
 
 // The lexicons in the order the sheet offers them: the short NT glosses first,
@@ -247,11 +249,27 @@ function Occurrences({
 }) {
   const { t } = useTranslation()
   const [shown, setShown] = useState(occurrencePage)
-  const { data: places, isLoading, error } = useOccurrences(edition, lemma)
+  const [selection, setSelection] = useState<Form>({})
+  const { data: rows, isLoading, error } = useOccurrences(edition, lemma)
+  const forms = useMemo(() => (rows ?? []).map(([, , , morph]) => greekForm(morph)), [rows])
+  const facets = useMemo(() => facetsOf(forms, greekFeatures, selection), [forms, selection])
+  const places = useMemo(
+    () => distinctPlaces((rows ?? []).filter((_, i) => matches(forms[i], selection))),
+    [rows, forms, selection],
+  )
   if (error) return <Typography variant="annotation">{t('common.couldntLoad')}</Typography>
-  if (isLoading || !places) return <PrayerSpinner />
+  if (isLoading || !rows) return <PrayerSpinner />
   return (
     <YStack gap="$md">
+      <OccurrenceFilter
+        facets={facets}
+        selection={selection}
+        label={(feature, value) => t(`bible.morph.${feature}.${value}`)}
+        onChange={(next) => {
+          setSelection(next)
+          setShown(occurrencePage)
+        }}
+      />
       {places.slice(0, shown).map(([bookId, chapter, verse]) => (
         <Occurrence
           key={`${bookId}-${chapter}-${verse}`}
@@ -277,6 +295,22 @@ function Occurrences({
       ) : undefined}
     </YStack>
   )
+}
+
+// The features a Greek word's occurrences are narrowed by, in grammar order.
+const greekFeatures = ['tense', 'voice', 'mood', 'case', 'person', 'number', 'gender']
+
+function greekForm(morph: string): Form {
+  const parsing = parseRobinson(morph)
+  return {
+    tense: parsing?.tense,
+    voice: parsing?.voice,
+    mood: parsing?.mood,
+    case: parsing?.case,
+    person: parsing?.person,
+    number: parsing?.number,
+    gender: parsing?.gender,
+  }
 }
 
 /** A verse where the lemma stands, its form of the word in burgundy. */
