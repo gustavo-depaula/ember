@@ -1,0 +1,41 @@
+[
+	{
+		"part": "text",
+		"name": "The New Testament in the Original Greek: Byzantine Textform",
+		"author": "Maurice A. Robinson and William G. Pierpont",
+		"year": 2018,
+		"licence": "Unlicense",
+		"attribution": "Robinson–Pierpont Byzantine Textform 2018, dedicated to the public domain (The Unlicense).",
+		"url": "https://github.com/byztxt/byzantine-majority-text"
+	},
+	{
+		"part": "words",
+		"name": "Robinson–Pierpont parsing and Strong's numbers",
+		"author": "Maurice A. Robinson",
+		"licence": "Unlicense",
+		"attribution": "Parsing and Strong's numbers by Maurice A. Robinson (The Unlicense); lemmas from Strong's Greek dictionary (public domain, Open Scriptures XML).",
+		"url": "https://github.com/byztxt/byzantine-majority-text"
+	},
+	{
+		"part": "words",
+		"name": "Berean Interlinear Bible glosses",
+		"author": "Bible Hub",
+		"licence": "Public Domain",
+		"attribution": "English glosses from the Berean Interlinear Bible (Bible Hub), dedicated to the public domain on 30 April 2023, as aligned to the Nestle 1904 by the Biblical Humanities project.",
+		"url": "https://berean.bible/terms.htm"
+	},
+	{
+		"part": "concordance",
+		"name": "Ember lemma concordance, derived from this edition's words",
+		"author": "Ember",
+		"licence": "Unlicense",
+		"attribution": "Lemma concordance derived by Ember from this edition's words, under their licence."
+	},
+	{
+		"part": "versification",
+		"name": "Ember verse map to the Clementine Vulgate",
+		"author": "Ember",
+		"licence": "Public Domain",
+		"attribution": "Verse map to the Clementine Vulgate by Ember."
+	}
+]

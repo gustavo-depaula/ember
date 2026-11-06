@@ -1,0 +1,41 @@
+[
+	{
+		"part": "text",
+		"name": "Novum Testamentum Graece, editio octava critica maior",
+		"author": "Constantin von Tischendorf",
+		"year": 1872,
+		"licence": "Public Domain",
+		"attribution": "Tischendorf's eighth edition (1869–72), public domain; digital text by G. Clint Yale.",
+		"url": "https://github.com/morphgnt/tischendorf-data"
+	},
+	{
+		"part": "words",
+		"name": "Tischendorf morphology",
+		"author": "Ulrik Sandborg-Petersen, after Maurice A. Robinson",
+		"licence": "Public Domain",
+		"attribution": "Lemmas and parsing by Ulrik Sandborg-Petersen after Maurice A. Robinson, public domain.",
+		"url": "https://github.com/morphgnt/tischendorf-data"
+	},
+	{
+		"part": "words",
+		"name": "Berean Interlinear Bible glosses",
+		"author": "Bible Hub",
+		"licence": "Public Domain",
+		"attribution": "English glosses from the Berean Interlinear Bible (Bible Hub), dedicated to the public domain on 30 April 2023, as aligned to the Nestle 1904 by the Biblical Humanities project.",
+		"url": "https://berean.bible/terms.htm"
+	},
+	{
+		"part": "concordance",
+		"name": "Ember lemma concordance, derived from this edition's words",
+		"author": "Ember",
+		"licence": "Public Domain",
+		"attribution": "Lemma concordance derived by Ember from this edition's words, under their licence."
+	},
+	{
+		"part": "versification",
+		"name": "Ember verse map to the Clementine Vulgate",
+		"author": "Ember",
+		"licence": "Public Domain",
+		"attribution": "Verse map to the Clementine Vulgate by Ember."
+	}
+]

@@ -1,0 +1,58 @@
+[
+	{
+		"part": "text",
+		"name": "The Septuagint Version of the Old Testament, with an English Translation",
+		"author": "Sir Lancelot C. L. Brenton",
+		"year": 1851,
+		"licence": "Public Domain",
+		"attribution": "The Greek text of Brenton's Septuagint with Apocrypha (London, 1851), public domain, from eBible.org (grcbrent).",
+		"url": "https://ebible.org/details.php?id=grcbrent"
+	},
+	{
+		"part": "words",
+		"name": "lxx-morph",
+		"author": "OpenScriptorium",
+		"licence": "CC-BY-4.0",
+		"attribution": "Lemmas and parsing from lxx-morph by OpenScriptorium (CC BY 4.0), aligned to Brenton's text by Ember.",
+		"url": "https://github.com/OpenScriptorium/lxx-morph"
+	},
+	{
+		"part": "words",
+		"name": "GLAUx",
+		"author": "Alek Keersmaekers",
+		"licence": "CC-BY-SA-4.0",
+		"attribution": "Cross-check, and the parsing of words lxx-morph lacks, from GLAUx by Alek Keersmaekers (CC BY-SA 4.0). The words files as a whole are therefore CC BY-SA 4.0.",
+		"url": "https://github.com/alekkeersmaekers/glaux"
+	},
+	{
+		"part": "words",
+		"name": "STEPBible lexicons (TBESG, TFLSJ, TIPNR)",
+		"author": "Tyndale House Cambridge / STEPBible.org",
+		"licence": "CC-BY-4.0",
+		"attribution": "Glosses from STEP Bible, www.STEPBible.org, TBESG, TFLSJ and TIPNR, based on work at Tyndale House Cambridge (CC BY 4.0), adapted by Ember.",
+		"url": "https://github.com/STEPBible/STEPBible-Data"
+	},
+	{
+		"part": "words",
+		"name": "Berean Interlinear Bible glosses",
+		"author": "Bible Hub",
+		"licence": "Public Domain",
+		"attribution": "Glosses of the same forms in the New Testament from the Berean Interlinear Bible (Bible Hub), public domain.",
+		"url": "https://berean.bible/terms.htm"
+	},
+	{
+		"part": "concordance",
+		"name": "Ember lemma concordance, derived from this edition's words",
+		"author": "Ember",
+		"licence": "CC-BY-SA-4.0",
+		"attribution": "Lemma concordance derived by Ember from this edition's words, under their licence."
+	},
+	{
+		"part": "versification",
+		"name": "Ember verse map to the Clementine Vulgate",
+		"author": "Ember",
+		"licence": "Public Domain",
+		"attribution": "Verse map to the Clementine Vulgate by Ember, drafted from SIL's versification tables (machine.py, MIT, © SIL International) and checked against the texts.",
+		"url": "https://github.com/sillsdev/machine.py"
+	}
+]

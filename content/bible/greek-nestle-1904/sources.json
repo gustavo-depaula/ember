@@ -1,0 +1,41 @@
+[
+	{
+		"part": "text",
+		"name": "Novum Testamentum Graece",
+		"author": "Eberhard Nestle",
+		"year": 1904,
+		"licence": "Public Domain",
+		"attribution": "Eberhard Nestle, Novum Testamentum Graece (British and Foreign Bible Society, 1904), public domain; digital text by Diego Renato dos Santos.",
+		"url": "https://github.com/biblicalhumanities/Nestle1904"
+	},
+	{
+		"part": "words",
+		"name": "Nestle 1904 morphology",
+		"author": "Ulrik Sandborg-Petersen, after Maurice A. Robinson",
+		"licence": "CC0-1.0",
+		"attribution": "Lemmas and parsing by Ulrik Sandborg-Petersen after Maurice A. Robinson (CC0 1.0), Biblical Humanities project.",
+		"url": "https://github.com/biblicalhumanities/Nestle1904"
+	},
+	{
+		"part": "words",
+		"name": "Berean Interlinear Bible glosses",
+		"author": "Bible Hub",
+		"licence": "Public Domain",
+		"attribution": "English glosses from the Berean Interlinear Bible (Bible Hub), dedicated to the public domain on 30 April 2023, as aligned to the Nestle 1904 by the Biblical Humanities project.",
+		"url": "https://berean.bible/terms.htm"
+	},
+	{
+		"part": "concordance",
+		"name": "Ember lemma concordance, derived from this edition's words",
+		"author": "Ember",
+		"licence": "CC0-1.0",
+		"attribution": "Lemma concordance derived by Ember from this edition's words, under their licence."
+	},
+	{
+		"part": "versification",
+		"name": "Ember verse map to the Clementine Vulgate",
+		"author": "Ember",
+		"licence": "Public Domain",
+		"attribution": "Verse map to the Clementine Vulgate by Ember."
+	}
+]
