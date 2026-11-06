@@ -1,0 +1,523 @@
+<!doctype html>
+<html lang="pt-BR" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ember · Language — prototype</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap" rel="stylesheet">
+<style>
+/* Values from apps/app/src/config/themes.ts (darkTheme) and fonts.ts. */
+:root {
+  --bg: #0e0d0c; --surface: #252220; --surface-2: #1b1917; --ink: #ede4d8; --muted: #a89a8c;
+  --gold: #d4a63a; --gold-ink: #1a140a; --gold-subtle: #6e5c32; --rule: #5c5248; --hair: #3a3530;
+  --burgundy: #d45a4c; --desk: #050505;
+  --body: "EB Garamond", Garamond, Georgia, serif; --heading: "Cinzel", serif;
+  --reading: 20px;
+}
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+html, body { margin: 0; background: var(--desk); color: var(--ink); font-family: var(--body); -webkit-font-smoothing: antialiased; }
+button { font: inherit; color: inherit; background: none; border: 0; padding: 0; cursor: pointer; }
+
+/* ---------- desk ---------- */
+.desk { min-height: 100vh; display: flex; align-items: center; justify-content: center; gap: 56px; padding: 32px; }
+.notes { width: 360px; color: var(--muted); font-size: 17px; line-height: 1.5; }
+.kicker { font-family: var(--heading); font-size: 12px; letter-spacing: 2px; color: var(--burgundy); text-transform: uppercase; }
+.notes h1 { font-style: italic; font-weight: 400; font-size: 32px; line-height: 1.15; color: var(--ink); margin: 8px 0 12px; }
+.notes p { margin: 0 0 12px; }
+.notes b { color: var(--ink); font-weight: 500; }
+.scenes { list-style: none; margin: 18px 0; padding: 0; counter-reset: s; }
+.scenes li { counter-increment: s; }
+.scenes button { width: 100%; text-align: left; padding: 7px 10px; border-radius: 8px; display: flex; gap: 10px; color: var(--muted); }
+.scenes button::before { content: counter(s, lower-roman); font-family: var(--heading); font-size: 12px; color: var(--gold-subtle); width: 22px; padding-top: 3px; }
+.scenes button.on { background: var(--surface-2); color: var(--ink); }
+.scenes button.on::before { color: var(--gold); }
+.scene-note { min-height: 120px; border-top: 1px solid var(--hair); padding-top: 14px; }
+.desk-actions { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 8px; }
+.desk-actions button { font-family: var(--heading); font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase; border: 1px solid var(--rule); border-radius: 999px; padding: 7px 12px; color: var(--muted); }
+.desk-actions button.on { border-color: var(--gold); color: var(--gold); }
+
+/* ---------- phone ---------- */
+.phone { width: 390px; height: 844px; border-radius: 52px; background: var(--bg); position: relative; overflow: hidden;
+  box-shadow: 0 0 0 11px #1c1a18, 0 0 0 12px #34302b, 0 40px 80px rgba(0,0,0,.6); transition: width .45s, height .45s; flex: none; }
+.phone.land { width: 844px; height: 390px; }
+.screen { position: absolute; inset: 0; overflow-y: auto; scrollbar-width: none; }
+.screen::-webkit-scrollbar { display: none; }
+.island { position: absolute; top: 11px; left: 50%; transform: translateX(-50%); width: 120px; height: 34px; border-radius: 20px; background: #000; z-index: 50; }
+.phone.land .island { top: 50%; left: 11px; transform: translateY(-50%); width: 34px; height: 120px; }
+.pad { padding: 64px 26px 80px; }
+.phone.land .pad { padding: 22px 70px 60px; }
+
+/* header as in the reader */
+.topbar { display: flex; align-items: center; gap: 14px; color: var(--muted); }
+.topbar .back { font-size: 30px; line-height: 1; width: 24px; }
+.topbar .line { flex: 1; height: 1px; background: var(--rule); opacity: .6; }
+.topbar .cross { color: var(--burgundy); font-size: 14px; }
+.title { text-align: center; font-size: 48px; line-height: 1.05; margin: 26px 0 10px; font-weight: 400; }
+.phone.land .title { font-size: 36px; margin: 12px 0 6px; }
+.subtitle { text-align: center; font-style: italic; color: var(--muted); font-size: 19px; }
+.toolbar { display: flex; align-items: center; gap: 18px; margin: 18px 0 22px; color: var(--muted); }
+.toolbar .line { flex: 1; height: 1px; background: var(--rule); opacity: .6; }
+.icon { width: 30px; height: 30px; display: grid; place-items: center; }
+.icon svg { width: 26px; height: 26px; stroke: currentColor; fill: none; stroke-width: 1.4; }
+
+.chip { font-family: var(--heading); font-size: 13px; letter-spacing: 1.5px; height: 32px; padding: 0 12px; border: 1px solid var(--rule);
+  border-radius: 999px; display: inline-flex; align-items: center; gap: 6px; color: var(--ink); background: var(--surface-2); }
+.chip .sep { color: var(--muted); }
+.chip .follow { color: var(--muted); }
+.chip.pulse { animation: pulse 1.6s ease-out 2; }
+@keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(212,166,58,.55); } 100% { box-shadow: 0 0 0 14px rgba(212,166,58,0); } }
+
+/* ---------- text ---------- */
+.text { font-size: var(--reading); line-height: 1.45; }
+.blk { margin: 0 0 14px; }
+.rubric { color: var(--burgundy); font-style: italic; font-size: .82em; line-height: 1.35; }
+.heading { font-style: italic; font-size: 1.5em; margin-top: 26px; }
+.heading.small { font-family: var(--heading); font-style: normal; font-size: .7em; letter-spacing: 1.5px; color: var(--burgundy); text-transform: uppercase; margin-top: 18px; }
+.divider { text-align: center; color: var(--gold-subtle); font-size: 14px; margin: 18px 0; }
+.line { display: grid; grid-template-columns: 28px 1fr; }
+.line .who { color: var(--burgundy); font-size: 1.05em; }
+.line.r .t { font-weight: 600; }
+.companion { color: var(--muted); font-style: italic; font-size: .84em; line-height: 1.38; margin-top: 3px; }
+.line.r .companion { font-weight: 400; }
+.cols { display: grid; grid-template-columns: 1fr 1px 1fr; gap: 0 18px; }
+.cols .rule { background: var(--hair); }
+.cols .side2 { color: var(--muted); }
+.peekable { border-radius: 8px; padding: 4px 8px; margin-left: -8px; margin-right: -8px; transition: background .2s; user-select: none; -webkit-user-select: none; }
+.peekable.peeking { background: var(--surface-2); }
+.peekable .companion { display: none; }
+.peekable.peeking .companion { display: block; animation: fade .2s; }
+@keyframes fade { from { opacity: 0; transform: translateY(-3px); } }
+.hint { font-family: var(--heading); font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--gold-subtle); text-align: center; margin: -8px 0 18px; }
+
+/* ---------- sheet ---------- */
+.scrim { position: absolute; inset: 0; background: rgba(0,0,0,.55); opacity: 0; pointer-events: none; transition: opacity .25s; z-index: 30; }
+.scrim.on { opacity: 1; pointer-events: auto; }
+.sheet { position: absolute; left: 8px; right: 8px; bottom: 8px; background: #141210; border-radius: 34px; padding: 12px 22px 26px; z-index: 31;
+  transform: translateY(110%); transition: transform .32s cubic-bezier(.2,.9,.25,1); max-height: 88%; overflow-y: auto; }
+.sheet.on { transform: none; }
+.phone.land .sheet { left: 50%; width: 430px; margin-left: -215px; right: auto; }
+.grabber { width: 40px; height: 5px; border-radius: 3px; background: #4a443e; margin: 0 auto 14px; }
+.sheet-title { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 4px; }
+.sheet-title .k { font-family: var(--heading); font-size: 12px; letter-spacing: 2px; color: var(--gold); text-transform: uppercase; }
+.sheet-title .n { font-style: italic; color: var(--muted); font-size: 16px; }
+.field { margin-top: 16px; }
+.field-label { font-size: 17px; margin-bottom: 8px; display: flex; justify-content: space-between; align-items: baseline; }
+.field-label small { color: var(--muted); font-style: italic; font-size: 14px; }
+.pills { display: flex; gap: 8px; flex-wrap: wrap; }
+.pill { height: 44px; padding: 0 18px; border-radius: 14px; background: var(--surface); font-size: 18px; color: var(--ink); }
+.pill.on { background: var(--gold); color: var(--gold-ink); }
+.pill.partial::after { content: " · parcial"; font-style: italic; font-size: 14px; opacity: .7; }
+.layouts { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+.lay { background: var(--surface); border-radius: 14px; padding: 10px 6px 8px; display: flex; flex-direction: column; align-items: center; gap: 6px; font-size: 15px; }
+.lay svg { width: 54px; height: 40px; }
+.lay svg rect { fill: var(--muted); }
+.lay svg rect.c { fill: var(--gold-subtle); }
+.lay.on { background: var(--gold); color: var(--gold-ink); }
+.lay.on svg rect { fill: var(--gold-ink); }
+.lay.on svg rect.c { fill: #6b5520; }
+.lay small { font-size: 12px; font-style: italic; opacity: .75; margin-top: -4px; }
+.swap { margin-top: 14px; width: 100%; height: 44px; border-radius: 14px; border: 1px solid var(--rule); font-size: 17px; color: var(--muted); }
+.scope { margin-top: 18px; padding-top: 14px; border-top: 1px solid var(--hair); font-size: 15px; color: var(--muted); line-height: 1.4; }
+.scope .row { display: flex; gap: 14px; margin-top: 8px; }
+.link { color: var(--gold); font-family: var(--heading); font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase; }
+.link.dim { color: var(--muted); }
+
+/* ---------- toast ---------- */
+.toast { position: absolute; left: 16px; right: 16px; bottom: 30px; z-index: 40; background: var(--surface); border-radius: 16px; padding: 13px 16px;
+  display: flex; align-items: center; justify-content: space-between; gap: 12px; font-size: 16px; box-shadow: 0 12px 30px rgba(0,0,0,.6);
+  transform: translateY(calc(100% + 60px)); opacity: 0; transition: transform .3s cubic-bezier(.2,.9,.25,1), opacity .3s; }
+.toast.on { transform: none; opacity: 1; }
+.phone.land .toast { left: 50%; width: 440px; margin-left: -220px; right: auto; }
+
+/* ---------- onboarding / home / settings ---------- */
+.ob-title { font-size: 38px; line-height: 1.1; text-align: center; margin: 40px 0 8px; font-weight: 400; }
+.ob-sub { text-align: center; color: var(--muted); font-style: italic; font-size: 18px; margin-bottom: 26px; }
+.stance { display: block; width: 100%; text-align: left; background: var(--surface-2); border-radius: 18px; padding: 16px 18px; margin-bottom: 12px; box-shadow: 0 6px 18px rgba(0,0,0,.35); }
+.stance.on { background: #2b2516; box-shadow: 0 0 0 1.5px var(--gold) inset, 0 6px 18px rgba(0,0,0,.35); }
+.stance .h { font-size: 21px; }
+.stance .d { color: var(--muted); font-size: 15.5px; line-height: 1.35; margin-top: 3px; }
+.stance .ex { margin-top: 10px; font-size: 15px; line-height: 1.35; }
+.stance .ex .lt { color: var(--ink); }
+.stance .ex .vn { color: var(--muted); font-style: italic; display: block; }
+.stance .badge { font-family: var(--heading); font-size: 10px; letter-spacing: 1.5px; color: var(--gold); text-transform: uppercase; margin-left: 8px; }
+.cta { display: block; width: 100%; height: 52px; border-radius: 16px; background: var(--gold); color: var(--gold-ink); font-family: var(--heading); letter-spacing: 2px; font-size: 14px; margin-top: 18px; }
+.home-h { font-family: var(--heading); font-size: 12px; letter-spacing: 2px; color: var(--gold); text-transform: uppercase; margin: 30px 0 10px; }
+.row { display: flex; align-items: center; justify-content: space-between; gap: 10px; background: var(--surface-2); border-radius: 16px; padding: 15px 16px; margin-bottom: 10px; width: 100%; text-align: left; box-shadow: 0 6px 18px rgba(0,0,0,.35); }
+.row .nm { font-size: 20px; }
+.row .ds { color: var(--muted); font-size: 14.5px; font-style: italic; }
+.mini { font-family: var(--heading); font-size: 11px; letter-spacing: 1.2px; color: var(--muted); white-space: nowrap; }
+.mini b { color: var(--ink); font-weight: 400; }
+.set-h { font-family: var(--heading); font-size: 12px; letter-spacing: 2px; color: var(--gold); text-transform: uppercase; margin: 28px 0 10px; }
+.set-group { background: var(--surface-2); border-radius: 16px; padding: 4px 16px; }
+.set-row { flex-wrap: wrap; display: flex; justify-content: space-between; align-items: center; padding: 12px 0; border-bottom: 1px solid var(--hair); font-size: 18px; gap: 10px; }
+.set-row:last-child { border-bottom: 0; }
+.set-row .v { color: var(--muted); font-size: 16px; text-align: right; }
+.set-foot { color: var(--muted); font-style: italic; font-size: 14.5px; margin: 8px 4px 0; line-height: 1.35; }
+.x { color: var(--muted); font-size: 20px; width: 28px; }
+.seg { display: flex; background: var(--surface); border-radius: 12px; padding: 3px; }
+.seg button { padding: 6px 10px; border-radius: 9px; font-size: 15px; color: var(--muted); }
+.seg button.on { background: var(--gold); color: var(--gold-ink); }
+
+/* ---------- small screens: the phone becomes the page ---------- */
+@media (max-width: 860px) {
+  .desk { flex-direction: column-reverse; padding: 0; gap: 0; }
+  .phone, .phone.land { width: 100vw; height: 100svh; border-radius: 0; box-shadow: none; }
+  .island { display: none; }
+  .notes { width: auto; padding: 22px 22px 60px; }
+  .notes h1, .notes > p { display: none; }
+  .mobile-bar { display: flex !important; }
+  .pad { padding-top: 58px; }
+}
+.mobile-bar { display: none; position: fixed; top: 0; left: 0; right: 0; z-index: 60; background: rgba(5,5,5,.92); backdrop-filter: blur(8px);
+  padding: 8px 10px; gap: 6px; overflow-x: auto; scrollbar-width: none; }
+.mobile-bar button { flex: none; font-family: var(--heading); font-size: 11px; letter-spacing: 1px; color: var(--muted); border: 1px solid var(--hair); border-radius: 999px; padding: 6px 10px; }
+.mobile-bar button.on { color: var(--gold); border-color: var(--gold); }
+</style>
+</head>
+<body>
+<div class="mobile-bar" id="mbar"></div>
+<div class="desk">
+  <aside class="notes">
+    <div class="kicker">Ember · Prototype</div>
+    <h1>Praying in a language, one prayer at a time</h1>
+    <p>You set one stance on Latin, and each prayer remembers its own exceptions. Language sits one tap away in every reader, and the layout follows the width of the screen. Everything on the phone is live: tap the chip, change things, rotate.</p>
+    <ol class="scenes" id="scenes"></ol>
+    <div class="scene-note" id="note"></div>
+    <div class="desk-actions">
+      <button id="rot">↻ Rotate the phone</button>
+      <button id="reset">Start over</button>
+    </div>
+  </aside>
+  <div class="phone" id="phone">
+    <div class="island"></div>
+    <div class="screen" id="screen"></div>
+    <div class="scrim" id="scrim"></div>
+    <div class="sheet" id="sheet"></div>
+    <div class="toast" id="toast"></div>
+  </div>
+</div>
+
+<script src="data.js"></script>
+<script>
+const D = window.DATA
+
+const langName = { la: 'Latim', pt: 'Português', en: 'English' }
+const langCode = { la: 'LA', pt: 'PT', en: 'EN' }
+
+const practices = {
+  mass: { name: 'Missa Tridentina', sub: 'Orações ao pé do altar', date: 'quinta-feira, 5 de novembro', desc: 'Ordinário da Missa', prayedIn: 'la', langs: ['la', 'pt'], blocks: D.mass },
+  angelus: { name: 'Angelus', sub: '', date: 'meio-dia', desc: 'Ao meio-dia', langs: ['pt', 'la', 'en'], blocks: D.angelus },
+  tedeum: { name: 'Te Deum', sub: '', date: 'hino de ação de graças', desc: 'Hino de ação de graças', prayedIn: 'la', langs: ['la', 'pt', 'en'], blocks: D.tedeum },
+  loth: { name: 'Liturgia das Horas', sub: '', date: 'quinta-feira, 5 de novembro', desc: 'Vésperas', langs: ['pt'], blocks: D.loth },
+}
+
+const stances = {
+  vern: { h: 'Sempre no vernáculo', d: 'Tudo em português. O latim fica a um toque, quando quiser.',
+    ex: ['Nós vos louvamos, ó Deus,', undefined] },
+  trad: { h: 'Latim onde é tradição', d: 'A Missa Tridentina, o canto e os grandes hinos latinos em latim, com o português ao lado. O resto em português.',
+    ex: ['Te Deum laudamus:', 'Nós vos louvamos, ó Deus,'] },
+  latin: { h: 'Latim sempre que houver', d: 'Latim em toda oração que o tenha, com o português ao lado para acompanhar.',
+    ex: ['Ave María, grátia plena,', 'Ave Maria, cheia de graça,'] },
+}
+
+const initial = () => ({ screen: 'onboarding', practice: 'mass', stance: 'trad', vernacular: 'pt', layoutPref: 'auto', overrides: {}, land: false, sheet: undefined, toast: undefined })
+let S = initial()
+
+// The whole model is this one pure function: override ?? stance(practice) ?? vernacular.
+function resolve(id) {
+  const p = practices[id]
+  const has = (l) => p.langs.includes(l)
+  const o = S.overrides[id] ?? {}
+  const stancePray = (() => {
+    if (S.stance === 'latin' && has('la')) return 'la'
+    if (S.stance === 'trad' && p.prayedIn === 'la') return 'la'
+    return has(S.vernacular) ? S.vernacular : p.langs[0]
+  })()
+  const pray = o.pray ?? stancePray
+  const defaultFollow = pray !== S.vernacular && has(S.vernacular) ? S.vernacular : undefined
+  const follow = 'follow' in o ? o.follow : defaultFollow
+  const layoutChoice = o.layout ?? S.layoutPref
+  const layout = !follow ? 'single' : layoutChoice === 'auto' ? (S.land ? 'columns' : 'interleaved') : layoutChoice
+  return { pray, follow, layout, layoutChoice, overridden: Object.keys(o).length > 0 }
+}
+
+const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;')
+const br = (s) => esc(s).replace(/\n/g, '<br>')
+const pick = (b, lang) => lang === 'pt' ? b.pt : b[lang]
+
+// ---------- rendering ----------
+function chipHtml(id, pulse) {
+  const p = practices[id]
+  if (p.langs.length < 2) return ''
+  const r = resolve(id)
+  return `<button class="chip ${pulse ? 'pulse' : ''}" data-act="sheet">${langCode[r.pray]}${r.follow ? `<span class="sep">·</span><span class="follow">${langCode[r.follow]}</span>` : ''}</button>`
+}
+
+const icons = {
+  type: '<svg viewBox="0 0 24 24"><path d="M5 5h14M12 5v15M9 20h6"/></svg>',
+  share: '<svg viewBox="0 0 24 24"><path d="M12 3v12M8 7l4-4 4 4M6 11v9h12v-9"/></svg>',
+  plus: '<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 8v8M8 12h8"/></svg>',
+}
+
+function blockHtml(b, r) {
+  if (b.k === 'divider') return '<div class="divider">❦</div>'
+  // Rubrics and headings belong to the interface language: never the Latin side.
+  if (b.k === 'rubric') return `<div class="blk rubric">${esc(b.pt)}</div>`
+  if (b.k === 'heading') return `<div class="blk heading ${b.pt.startsWith('Ps') ? 'small' : ''}">${esc(b.pt)}</div>`
+  const main = pick(b, r.pray) ?? b.pt
+  const comp = r.follow ? pick(b, r.follow) : undefined
+  const isLine = b.k === 'line'
+  const cls = isLine ? `line ${b.who === '℟' ? 'r' : ''}` : ''
+  const who = isLine ? `<span class="who">${b.who}</span>` : ''
+  if (r.layout === 'columns' && comp) {
+    return `<div class="blk cols"><div class="${cls}">${who}<span class="t">${br(main)}</span></div><div class="rule"></div><div class="side2 ${cls}">${who}<span class="t">${br(comp)}</span></div></div>`
+  }
+  if (r.layout === 'peek' && comp) {
+    return `<div class="blk peekable ${cls}" data-peek>${who}<div><span class="t">${br(main)}</span><div class="companion">${br(comp)}</div></div></div>`
+  }
+  const c = r.layout === 'interleaved' && comp ? `<div class="companion">${br(comp)}</div>` : ''
+  return `<div class="blk ${cls}">${who}<div><span class="t">${br(main)}</span>${c}</div></div>`
+}
+
+function readerHtml() {
+  const id = S.practice
+  const p = practices[id]
+  const r = resolve(id)
+  const blocks = p.blocks.map((b) => blockHtml(b, r)).join('')
+  return `<div class="pad">
+    <div class="topbar"><button class="back" data-act="home">‹</button><div class="line"></div><span class="cross">✠</span><div class="line"></div></div>
+    <h1 class="title">${p.name}</h1>
+    <div class="subtitle">${p.date}</div>
+    <div class="toolbar"><div class="line"></div>${chipHtml(id, S.pulse)}<span class="icon" data-act="type">${icons.type}</span><span class="icon">${icons.share}</span><span class="icon">${icons.plus}</span></div>
+    ${r.layout === 'peek' ? '<div class="hint">Segure um parágrafo para ver o português</div>' : ''}
+    <div class="text">${blocks}</div>
+  </div>`
+}
+
+function onboardingHtml() {
+  return `<div class="pad">
+    <div class="topbar"><div class="line"></div><span class="cross">✠</span><div class="line"></div></div>
+    <h1 class="ob-title">Como você reza?</h1>
+    <div class="ob-sub">Dá para mudar depois, e cada oração pode ser exceção.</div>
+    ${Object.entries(stances).map(([k, s]) => `<button class="stance ${S.stance === k ? 'on' : ''}" data-stance="${k}">
+      <div class="h">${s.h}${k === 'trad' ? '<span class="badge">sugerido</span>' : ''}</div>
+      <div class="d">${s.d}</div>
+      <div class="ex"><span class="lt">${s.ex[0]}</span>${s.ex[1] ? `<span class="vn">${s.ex[1]}</span>` : ''}</div>
+    </button>`).join('')}
+    <button class="cta" data-act="home">Continuar</button>
+  </div>`
+}
+
+function homeHtml() {
+  const rows = Object.entries(practices).map(([id, p]) => {
+    const r = resolve(id)
+    const tag = p.langs.length < 2 ? '' : `<span class="mini"><b>${langCode[r.pray]}</b>${r.follow ? ` · ${langCode[r.follow]}` : ''}</span>`
+    return `<button class="row" data-open="${id}"><span><div class="nm">${p.name}</div><div class="ds">${p.desc}</div></span>${tag}</button>`
+  }).join('')
+  return `<div class="pad">
+    <div class="topbar"><div class="line"></div><span class="cross">✠</span><div class="line"></div><button class="icon" data-act="settings" style="font-size:22px">⚙</button></div>
+    <h1 class="title" style="font-size:40px">Hoje</h1>
+    <div class="subtitle">quinta-feira, 5 de novembro</div>
+    <div class="home-h">Plano de vida</div>
+    ${rows}
+    <div class="set-foot" style="margin-top:14px">O selo de idioma ao lado de cada oração é o resultado do seu jeito de rezar: <i>${stances[S.stance].h.toLowerCase()}</i>${Object.keys(S.overrides).length ? ', mais as exceções que você fez' : ''}.</div>
+  </div>`
+}
+
+function settingsHtml() {
+  const ov = Object.entries(S.overrides).map(([id, o]) => {
+    const r = resolve(id)
+    return `<div class="set-row"><span>${practices[id].name}</span><span class="v">${langName[r.pray]}${r.follow ? ' + ' + langName[r.follow] : ''}${o.layout ? ' · ' + layoutLabel[o.layout] : ''}</span><button class="x" data-unset="${id}">×</button></div>`
+  }).join('')
+  return `<div class="pad">
+    <div class="topbar"><button class="back" data-act="home">‹</button><div class="line"></div><span class="cross">✠</span><div class="line"></div></div>
+    <h1 class="title" style="font-size:40px">Idioma</h1>
+    <div class="set-h">Como você reza</div>
+    ${Object.entries(stances).map(([k, s]) => `<button class="stance ${S.stance === k ? 'on' : ''}" data-stance="${k}"><div class="h">${s.h}</div><div class="d">${s.d}</div></button>`).join('')}
+    <div class="set-h">Seu vernáculo</div>
+    <div class="set-group"><div class="set-row"><span>Rezar e acompanhar em</span><div class="seg"><button class="${S.vernacular === 'pt' ? 'on' : ''}" data-vern="pt">Português</button><button class="${S.vernacular === 'en' ? 'on' : ''}" data-vern="en">English</button></div></div></div>
+    <div class="set-h">Duas línguas na tela</div>
+    <div class="set-group"><div class="set-row"><span>Disposição</span><div class="seg">${['auto', 'interleaved', 'columns'].map((l) => `<button class="${S.layoutPref === l ? 'on' : ''}" data-pref="${l}">${{ auto: 'Automática', interleaved: 'Intercalada', columns: 'Colunas' }[l]}</button>`).join('')}</div></div></div>
+    <div class="set-foot">Automática: intercalada com o telefone em pé, colunas na horizontal, no tablet e no site.</div>
+    <div class="set-h">Exceções por oração</div>
+    <div class="set-group">${ov || '<div class="set-row"><span class="v" style="text-align:left;font-style:italic">Nenhuma ainda. Mude o idioma dentro de uma oração e ela aparece aqui.</span></div>'}</div>
+    <div class="set-h">Aplicativo</div>
+    <div class="set-group"><div class="set-row"><span>Idioma da interface</span><div class="seg"><button>English</button><button class="on">Português</button></div></div></div>
+    <div class="set-foot">A língua dos menus, rubricas e títulos. Fica só aqui, fora do leitor.</div>
+  </div>`
+}
+
+const layoutLabel = { auto: 'Automática', interleaved: 'Intercalado', columns: 'Colunas', peek: 'Só o texto' }
+const layoutSvg = {
+  interleaved: '<svg viewBox="0 0 54 40"><rect x="4" y="4" width="46" height="4" rx="2"/><rect class="c" x="4" y="11" width="38" height="3" rx="1.5"/><rect x="4" y="20" width="46" height="4" rx="2"/><rect class="c" x="4" y="27" width="34" height="3" rx="1.5"/></svg>',
+  columns: '<svg viewBox="0 0 54 40"><rect x="4" y="4" width="21" height="4" rx="2"/><rect x="4" y="12" width="19" height="4" rx="2"/><rect x="4" y="20" width="21" height="4" rx="2"/><rect x="4" y="28" width="16" height="4" rx="2"/><rect class="c" x="29" y="4" width="21" height="4" rx="2"/><rect class="c" x="29" y="12" width="19" height="4" rx="2"/><rect class="c" x="29" y="20" width="21" height="4" rx="2"/><rect class="c" x="29" y="28" width="14" height="4" rx="2"/></svg>',
+  peek: '<svg viewBox="0 0 54 40"><rect x="4" y="4" width="46" height="4" rx="2"/><rect x="4" y="12" width="40" height="4" rx="2"/><rect x="4" y="20" width="46" height="4" rx="2"/><rect x="4" y="28" width="30" height="4" rx="2"/></svg>',
+}
+
+function sheetHtml() {
+  if (S.sheet === 'type') {
+    return `<div class="grabber"></div><div class="sheet-title"><span class="k">Leitura</span></div>
+      <div class="set-foot" style="margin:10px 0 0">A folha de tipografia de hoje (tamanho, espaçamento, alinhamento, margens, fonte), sem as abas: o idioma saiu daqui para o selo ao lado.</div>`
+  }
+  const id = S.practice
+  const p = practices[id]
+  const r = resolve(id)
+  const followOpts = [undefined, ...p.langs.filter((l) => l !== r.pray)]
+  const scope = r.overridden
+    ? `<div>Lembrado só para <i>${p.name}</i>.</div><div class="row" style="background:none;box-shadow:none;padding:0;margin:8px 0 0"><button class="link" data-act="all">Usar em todas</button><button class="link dim" data-act="restore">Voltar ao padrão</button></div>`
+    : `<div>Padrão do seu jeito de rezar: <i>${stances[S.stance].h.toLowerCase()}</i>. Uma mudança aqui vale só para esta oração.</div>`
+  return `<div class="grabber"></div>
+    <div class="sheet-title"><span class="k">Idioma</span><span class="n">${p.name}</span></div>
+    <div class="field"><div class="field-label">Rezar em</div>
+      <div class="pills">${p.langs.map((l) => `<button class="pill ${r.pray === l ? 'on' : ''}" data-pray="${l}">${langName[l]}</button>`).join('')}</div></div>
+    <div class="field"><div class="field-label">Acompanhar com</div>
+      <div class="pills">${followOpts.map((l) => `<button class="pill ${r.follow === l ? 'on' : ''}" data-follow="${l ?? ''}">${l ? langName[l] : 'Nenhum'}</button>`).join('')}</div></div>
+    ${r.follow ? `<div class="field"><div class="field-label">Disposição${S.land ? '<small>na horizontal</small>' : ''}</div>
+      <div class="layouts">${['interleaved', 'columns', 'peek'].map((l) => {
+        const on = r.layout === l
+        const note = l === 'columns' ? '<small>auto na horizontal</small>' : l === 'peek' ? '<small>segure para ver</small>' : '<small>&nbsp;</small>'
+        return `<button class="lay ${on ? 'on' : ''}" data-layout="${l}">${layoutSvg[l]}<span>${layoutLabel[l]}</span>${note}</button>`
+      }).join('')}</div></div>
+      <button class="swap" data-act="swap">⇄ Inverter: rezar em ${langName[r.follow].toLowerCase()}</button>` : ''}
+    <div class="scope">${scope}</div>`
+}
+
+function render() {
+  const scr = document.getElementById('screen')
+  const keepScroll = scr.dataset.view === S.screen + S.practice ? scr.scrollTop : 0
+  scr.innerHTML = { onboarding: onboardingHtml, home: homeHtml, reader: readerHtml, settings: settingsHtml }[S.screen]()
+  scr.dataset.view = S.screen + S.practice
+  scr.scrollTop = keepScroll
+  document.getElementById('phone').classList.toggle('land', S.land)
+  document.getElementById('rot').classList.toggle('on', S.land)
+  const sheet = document.getElementById('sheet')
+  if (S.sheet) sheet.innerHTML = sheetHtml()
+  sheet.classList.toggle('on', !!S.sheet)
+  document.getElementById('scrim').classList.toggle('on', !!S.sheet)
+  const toast = document.getElementById('toast')
+  if (S.toast) toast.innerHTML = S.toast
+  toast.classList.toggle('on', !!S.toast)
+  S.pulse = false
+}
+
+// ---------- interaction ----------
+let toastTimer
+function showToast(html) {
+  S.toast = html
+  clearTimeout(toastTimer)
+  toastTimer = setTimeout(() => { S.toast = undefined; render() }, 5200)
+}
+
+function setOverride(patch) {
+  const id = S.practice
+  const before = resolve(id)
+  S.overrides[id] = { ...S.overrides[id], ...patch }
+  const after = resolve(id)
+  // An override equal to what the stance already gives is no override at all.
+  const o = S.overrides[id]
+  const saved = S.overrides[id]; delete S.overrides[id]
+  const base = resolve(id); S.overrides[id] = saved
+  if (o.pray === base.pray) delete o.pray
+  if ('follow' in o && o.follow === base.follow) delete o.follow
+  if (o.layout === base.layoutChoice) delete o.layout
+  if (!Object.keys(o).length) delete S.overrides[id]
+  if (before.pray !== after.pray) {
+    showToast(`<span><i>${practices[id].name}</i> agora em ${langName[after.pray].toLowerCase()}</span><button class="link" data-act="all">Usar em todas</button>`)
+  }
+}
+
+function applyToAll() {
+  const id = S.practice
+  const o = S.overrides[id] ?? {}
+  if (o.pray === 'la') S.stance = 'latin'
+  else if (o.pray && o.pray === S.vernacular) S.stance = 'vern'
+  if (o.layout && o.layout !== 'peek') S.layoutPref = o.layout
+  delete S.overrides[id]
+  showToast(`<span>Agora: <i>${stances[S.stance].h.toLowerCase()}</i></span><button class="link dim" data-act="settings">Ajustes</button>`)
+}
+
+document.addEventListener('click', (e) => {
+  const t = e.target.closest('button,[data-act]')
+  if (!t) return
+  const d = t.dataset
+  if (d.act === 'sheet') S.sheet = 'lang'
+  else if (d.act === 'type') S.sheet = 'type'
+  else if (d.act === 'home') { S.screen = 'home'; S.sheet = undefined }
+  else if (d.act === 'settings') { S.screen = 'settings'; S.sheet = undefined; S.toast = undefined }
+  else if (d.act === 'swap') { const r = resolve(S.practice); setOverride({ pray: r.follow, follow: r.pray }) }
+  else if (d.act === 'all') { applyToAll(); S.sheet = undefined }
+  else if (d.act === 'restore') delete S.overrides[S.practice]
+  else if (d.stance) S.stance = d.stance
+  else if (d.vern) S.vernacular = d.vern
+  else if (d.pref) S.layoutPref = d.pref
+  else if (d.unset) delete S.overrides[d.unset]
+  else if (d.open) { S.practice = d.open; S.screen = 'reader' }
+  else if ('pray' in d) {
+    // Picking the companion's language swaps the two; otherwise the companion
+    // follows the stance (your vernacular appears beside a Latin text by itself).
+    const r = resolve(S.practice)
+    const { follow, ...rest } = S.overrides[S.practice] ?? {}
+    S.overrides[S.practice] = rest
+    setOverride(r.follow === d.pray ? { pray: d.pray, follow: r.pray } : { pray: d.pray })
+  }
+  else if ('follow' in d) setOverride({ follow: d.follow || undefined })
+  else if (d.layout) setOverride({ layout: d.layout })
+  else return
+  render()
+})
+document.getElementById('scrim').addEventListener('click', () => { S.sheet = undefined; render() })
+document.getElementById('rot').addEventListener('click', () => { S.land = !S.land; render() })
+document.getElementById('reset').addEventListener('click', () => go(0))
+
+// Long-press peek: the companion shows while the finger stays down.
+const screenEl = document.getElementById('screen')
+const peekOn = (e) => { const b = e.target.closest('[data-peek]'); if (b) b.classList.add('peeking') }
+const peekOff = () => screenEl.querySelectorAll('.peeking').forEach((b) => b.classList.remove('peeking'))
+screenEl.addEventListener('pointerdown', (e) => { clearTimeout(screenEl._t); screenEl._t = setTimeout(() => peekOn(e), 280) })
+;['pointerup', 'pointercancel', 'pointerleave'].forEach((n) => screenEl.addEventListener(n, () => { clearTimeout(screenEl._t); peekOff() }))
+screenEl.addEventListener('contextmenu', (e) => e.preventDefault())
+
+// ---------- scenes ----------
+const scenes = [
+  { t: 'First launch', n: 'Onboarding asks one question about Latin instead of three language settings. The examples show what each answer does. The suggested answer is <b>Latim onde é tradição</b>.',
+    s: () => ({ screen: 'onboarding' }) },
+  { t: 'Home: the stance at work', n: 'Each prayer shows the language it will open in. With the suggested stance, the Mass and the Te Deum are <b>LA · PT</b> and the Angelus is <b>PT</b>. The Liturgy of the Hours exists only in Portuguese, so it shows no language at all. Go back to i and pick another stance to see these change.',
+    s: () => ({ screen: 'home' }) },
+  { t: 'The Latin Mass opens bilingual', n: 'Nothing to set: the practice declares <code>prayedIn: "la"</code>, so it opens in Latin with Portuguese <b>intercalado</b> beneath each line. Text stays full width on a phone. Rubrics stay in Portuguese, because they are instructions, not prayer. The Ordo text is Divinum Officium\'s Latin and Portugues files.',
+    s: () => ({ screen: 'reader', practice: 'mass', pulse: true }) },
+  { t: 'One tap: the language sheet', n: 'The <b>LA · PT</b> chip opens a single sheet with no tabs. It offers only the languages this prayer has. <b>Rezar em</b> and <b>Acompanhar com</b> replace "primário / secundário". Try <b>⇄ Inverter</b>, or change the layout.',
+    s: () => ({ screen: 'reader', practice: 'mass', sheet: 'lang' }) },
+  { t: 'Rotate: columns', n: 'With the layout on <b>Automática</b>, landscape (and tablets, and the website) turn the same text into two columns. No setting changes; turn the phone upright and it goes back to interleaved.',
+    s: () => ({ screen: 'reader', practice: 'mass', land: true }) },
+  { t: 'Just the text, hold to see', n: 'For someone who nearly knows the Latin: only the Latin shows, and <b>holding</b> a paragraph shows the Portuguese until you let go. Unlike today\'s tap-to-switch, there is no state for each paragraph to forget.',
+    s: () => ({ screen: 'reader', practice: 'tedeum', overrides: { tedeum: { layout: 'peek' } } }) },
+  { t: 'An exception, remembered', n: 'The Angelus opens in Portuguese. Open the chip and pick <b>Latim</b>: Portuguese drops into the companion slot by itself, a toast offers <b>Usar em todas</b>, and from then on only the Angelus opens in Latin. Nothing asks you for a scope beforehand.',
+    s: () => ({ screen: 'reader', practice: 'angelus', sheet: 'lang' }) },
+  { t: 'One language: no chip', n: 'The Brazilian Liturgy of the Hours exists only in Portuguese, so its toolbar shows no language control. The <b>T</b> icon now holds typography only.',
+    s: () => ({ screen: 'reader', practice: 'loth' }) },
+  { t: 'Settings', n: 'Settings hold the stance, your vernacular, the bilingual layout, and the list of exceptions, each removable with ×. Interface language lives only here, outside the reader.',
+    s: () => ({ screen: 'settings', overrides: { angelus: { pray: 'la', follow: 'pt' }, tedeum: { layout: 'peek' } } }) },
+]
+
+function go(i) {
+  // Scenes keep the stance you picked in the first one, so its effect carries through.
+  const stance = i === 0 ? 'trad' : S.stance
+  S = { ...initial(), stance, ...scenes[i].s() }
+  document.querySelectorAll('[data-scene]').forEach((b) => b.classList.toggle('on', +b.dataset.scene === i))
+  document.getElementById('note').innerHTML = `<b>${scenes[i].t}.</b> ${scenes[i].n}`
+  history.replaceState(null, '', '#' + (i + 1))
+  render()
+}
+document.getElementById('scenes').innerHTML = scenes.map((s, i) => `<li><button data-scene="${i}">${s.t}</button></li>`).join('')
+document.getElementById('mbar').innerHTML = scenes.map((s, i) => `<button data-scene="${i}">${i + 1}. ${s.t}</button>`).join('') + '<button id="rot2">↻</button>'
+document.addEventListener('click', (e) => {
+  const b = e.target.closest('[data-scene]')
+  if (b) go(+b.dataset.scene)
+  if (e.target.id === 'rot2') { S.land = !S.land; render() }
+})
+go(Math.max(0, Math.min(scenes.length - 1, (parseInt(location.hash.slice(1)) || 1) - 1)))
+</script>
+</body>
+</html>
