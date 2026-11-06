@@ -1,5 +1,6 @@
 {
   "id": "mass",
+  "parallel": "la",
   "liturgicalAct": "mass",
   "icon": "cross",
   "name": {

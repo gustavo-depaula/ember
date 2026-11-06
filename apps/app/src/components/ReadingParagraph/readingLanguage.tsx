@@ -1,6 +1,6 @@
 import { createContext, type ReactNode, useContext } from 'react'
 
-import { usePreferencesStore } from '@/stores/preferencesStore'
+import { usePageLanguage } from '../prayer/PageLanguage'
 
 const Context = createContext<string | undefined>(undefined)
 
@@ -19,9 +19,9 @@ export function ReadingLanguage({
   return <Context.Provider value={language}>{children}</Context.Provider>
 }
 
-/** `override`, else the nearest `ReadingLanguage`, else the content language. */
+/** `override`, else the nearest `ReadingLanguage`, else the page's first language. */
 export function useReadingLanguage(override?: string): string {
   const scoped = useContext(Context)
-  const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
-  return override ?? scoped ?? contentLanguage
+  const page = usePageLanguage()
+  return override ?? scoped ?? page.primary
 }

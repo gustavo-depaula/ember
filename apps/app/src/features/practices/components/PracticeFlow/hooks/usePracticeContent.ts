@@ -5,6 +5,7 @@ import { preprocessFlow } from '@/content/preprocessFlow'
 import type { Primitive } from '@/content/primitives'
 import type { RenderedSection } from '@/content/types'
 import { currentRound } from '@/features/plan-of-life/program'
+import { usePracticePageLanguage } from '@/features/practices/language/usePracticeLanguages'
 import { useToday } from '@/hooks/useToday'
 import { getPsalmNumbering } from '@/lib/bibleTranslations'
 import { transfersForJurisdiction } from '@/lib/missal/loaders'
@@ -37,8 +38,9 @@ export function usePracticeContent(
   const { cycleData, trackDefs, trackState } = usePracticeTracks(practiceId)
 
   const translation = usePreferencesStore((s) => s.translation)
-  const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
-  const secondaryLanguage = usePreferencesStore((s) => s.secondaryLanguage)
+  // The practice's own pair, fetched vernacular-first (see `fetchLanguages`).
+  const { primary: contentLanguage, secondary: secondaryLanguage } =
+    usePracticePageLanguage(manifest)
   const jurisdiction = usePreferencesStore((s) => s.jurisdiction)
   const numbering = getPsalmNumbering(translation)
 
@@ -93,5 +95,10 @@ export function usePracticeContent(
     },
     enabled: !!flow,
     staleTime: Number.POSITIVE_INFINITY,
+    // A change of language or translation keeps the page standing while the
+    // new text loads: the language sheet stays open over it, and the page
+    // never drops to its skeleton. Another practice's text is never kept.
+    placeholderData: (previous, previousQuery) =>
+      previousQuery?.queryKey[1] === practiceId ? previous : undefined,
   })
 }

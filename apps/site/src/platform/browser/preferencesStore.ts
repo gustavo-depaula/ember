@@ -8,7 +8,6 @@ export const usePreferencesStore = {
     const synced = useEventStore.getState().preferences
     return {
       contentLanguage: document.documentElement.lang === 'pt-BR' ? 'pt-BR' : 'en-US',
-      secondaryLanguage: undefined,
       hyphenation: true,
       jurisdiction: synced.get('jurisdiction'),
     }

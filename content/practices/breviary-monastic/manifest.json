@@ -1,5 +1,7 @@
 {
   "id": "breviary-monastic",
+  "prayedIn": "la",
+  "parallel": "la",
   "liturgicalAct": "office",
   "icon": "prayer",
   "name": {

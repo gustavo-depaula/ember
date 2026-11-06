@@ -24,7 +24,9 @@ const labelMarker =
   /^(Ant\.|R\.br\.|Benedictio\.|Absolutio\.|Bênção\.|Absolvição\.|Benediction\.|Absolution\.)\s+/
 
 function bilingual(primary: string, secondary?: string): BilingualText {
-  return secondary !== undefined && secondary !== primary ? { primary, secondary } : { primary }
+  return secondary !== undefined && secondary !== primary
+    ? { primary, secondary, secondaryLanguage: 'la' }
+    : { primary }
 }
 
 type Line = {
@@ -186,6 +188,7 @@ export function mapItemsToPrimitives(primaryItems: string[], latinItems?: string
                 .map((t) => t.secondary ?? '')
                 .join('\n')
                 .replace(/\n+$/, ''),
+              secondaryLanguage: 'la' as const,
             }
           : {}),
       },

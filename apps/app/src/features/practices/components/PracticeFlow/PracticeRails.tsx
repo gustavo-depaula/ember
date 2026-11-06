@@ -4,6 +4,8 @@ import { XStack, YStack } from 'tamagui'
 
 import { RailBlock, RailLink, Typography } from '@/components'
 import type { OutlineEntry } from '@/components/outline'
+import { hasLanguageChoice } from '@/features/practices/language/LanguageSheet'
+import { usePracticeLanguages } from '@/features/practices/language/usePracticeLanguages'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import type { usePracticeActions } from './PracticeActions'
 
@@ -53,6 +55,7 @@ export function PracticeToolsRail({ actions }: { actions: Actions }) {
   const { manifest, plan, save, pin } = actions
   const step = usePreferencesStore((s) => s.fontSizeStep)
   const setStep = usePreferencesStore((s) => s.setFontSizeStep)
+  const languages = usePracticeLanguages(manifest)
   return (
     <>
       <RailBlock first title={t('readingConfig.reading')}>
@@ -69,6 +72,9 @@ export function PracticeToolsRail({ actions }: { actions: Actions }) {
           />
         </XStack>
         <RailLink label={t('a11y.readingSettings')} onPress={actions.openSettings} />
+        {hasLanguageChoice(languages.resolved) && (
+          <RailLink label={t('prayerLanguage.title')} onPress={actions.openLanguage} />
+        )}
         {manifest.estimatedMinutes !== undefined && (
           <Typography variant="annotation" paddingTop="$xs">
             {t('catalog.estimatedTime', { minutes: manifest.estimatedMinutes })}
