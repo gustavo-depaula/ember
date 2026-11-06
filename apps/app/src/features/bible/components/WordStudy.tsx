@@ -14,6 +14,7 @@ import {
   useLexiconEntries,
   useLexiconSources,
   useOccurrences,
+  useParallelVerses,
 } from '../hooks'
 import { describeParsing, parseRobinson } from '../morphology'
 import { transliterate } from '../transliterate'
@@ -343,6 +344,9 @@ function Occurrence({
   const bookName = useBookName(edition, bookId)
   const text = useChapter(edition, bookId, chapter)
   const words = useChapterWords(edition, bookId, chapter)
+  // The verse in the Douay-Rheims beneath, carried through the edition's
+  // numbering: the reader who cannot yet read the Greek reads what it says.
+  const douay = useParallelVerses(edition, 'DRB', bookId, chapter, [verse])
   const label = `${bookName} ${chapter}:${verse}`
   const tokens = text.data?.verses.find((v) => v.verse === verse)?.text.split(/\s+/)
   const lemmas = words.data?.[verse]
@@ -362,6 +366,11 @@ function Occurrence({
                 {i === 0 ? token : ` ${token}`}
               </Typography>
             ))}
+          </Typography>
+        ) : undefined}
+        {douay.data?.[verse] ? (
+          <Typography variant="annotation" fontSize="$2" lineHeight={20}>
+            {douay.data[verse]}
           </Typography>
         ) : undefined}
       </YStack>

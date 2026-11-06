@@ -323,7 +323,7 @@ export function useParallelVerses(
   verses: number[] | undefined,
 ) {
   return useQuery({
-    queryKey: ['bible', 'parallel', edition, parallel, bookId, chapter],
+    queryKey: ['bible', 'parallel', edition, parallel, bookId, chapter, verses],
     enabled: verses !== undefined,
     staleTime: Number.POSITIVE_INFINITY,
     queryFn: async () => {
