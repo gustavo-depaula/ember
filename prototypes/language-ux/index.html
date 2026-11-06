@@ -105,7 +105,6 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .pill.partial::after { content: " · parcial"; font-style: italic; font-size: 14px; opacity: .7; }
 .tappable { cursor: pointer; border-radius: 8px; padding: 2px 8px; margin-left: -8px; margin-right: -8px; transition: background .25s; }
 .tappable:active { background: var(--surface-2); }
-.lang-tag { float: right; font-family: var(--heading); font-size: 10px; letter-spacing: 1.5px; color: var(--muted); border: 1px solid var(--hair); border-radius: 999px; padding: 1px 7px; margin: 6px 0 0 10px; }
 .layouts { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
 .lay { background: var(--surface); border-radius: 14px; padding: 10px 4px 8px; text-align: center; line-height: 1.15; display: flex; flex-direction: column; align-items: center; gap: 6px; font-size: 15px; }
 .lay svg { width: 54px; height: 40px; }
@@ -261,11 +260,9 @@ function blockHtml(b, r, i) {
     return `<div class="blk cols"><div class="${cls}">${who}<span class="t">${br(main)}</span></div><div class="rule"></div><div class="side2 ${cls}">${who}<span class="t">${br(comp)}</span></div></div>`
   }
   if (r.layout === 'tap' && comp) {
-    // Today's tap to switch: each paragraph flips on its own. The small tag says
-    // which language a flipped paragraph is showing.
+    // Today's tap to switch: each paragraph flips on its own.
     const flipped = S.flipped.has(i)
-    const tag = flipped ? `<span class="lang-tag">${langCode[r.follow]}</span>` : ''
-    return `<div class="blk tappable ${cls} ${flipped ? 'flipped' : ''}" data-tap="${i}">${who}<div>${tag}<span class="t">${br(flipped ? comp : main)}</span></div></div>`
+    return `<div class="blk tappable ${cls} ${flipped ? 'flipped' : ''}" data-tap="${i}">${who}<div><span class="t">${br(flipped ? comp : main)}</span></div></div>`
   }
   const c = r.layout === 'interleaved' && comp ? `<div class="companion">${br(comp)}</div>` : ''
   return `<div class="blk ${cls}">${who}<div><span class="t">${br(main)}</span>${c}</div></div>`
@@ -458,8 +455,8 @@ const scenes = [
     s: () => ({ screen: 'reader', practice: 'mass', sheet: 'lang' }) },
   { t: 'Rotate: columns', n: 'With the layout on <b>Automática</b>, landscape (and tablets, and the website) turn the same text into two columns. No setting changes; turn the phone upright and it goes back to interleaved.',
     s: () => ({ screen: 'reader', practice: 'mass', land: true }) },
-  { t: 'Tap to switch', n: 'Today\'s interaction stays as the third layout, <b>Toque para alternar</b>: only the Latin shows, and tapping a paragraph switches it to Portuguese (tap again to switch back). A small <b>PT</b> tag marks a switched paragraph, so you can tell at a glance which language you are reading.',
-    s: () => ({ screen: 'reader', practice: 'tedeum', overrides: { tedeum: { layout: 'tap' } }, flipped: new Set([1]) }) },
+  { t: 'Tap to switch', n: 'Today\'s interaction stays as the third layout, <b>Toque para alternar</b>: only the Latin shows, and tapping a paragraph switches it to Portuguese (tap again to switch back).',
+    s: () => ({ screen: 'reader', practice: 'tedeum', overrides: { tedeum: { layout: 'tap' } } }) },
   { t: 'An exception, remembered', n: 'The Angelus opens in Portuguese. Open the chip and pick <b>Latim</b>: Portuguese drops into the companion slot by itself, and <b>Vale para</b> at the foot of the sheet flips to <b>Só esta oração</b>: only the Angelus opens in Latin from now on. Tap <b>Todas as orações</b> and the same choice becomes your default for every prayer. It stays in the sheet, so you can come back to it any time.',
     s: () => ({ screen: 'reader', practice: 'angelus', sheet: 'lang' }) },
   { t: 'One language: no chip', n: 'The Brazilian Liturgy of the Hours exists only in Portuguese, so its toolbar shows no language control. The <b>T</b> icon now holds typography only.',
