@@ -356,6 +356,14 @@ describe('the chant of the hours', () => {
     expect(blocks.filter((b) => b.startsWith('Tibi soli peccavi:'))).toHaveLength(2)
   })
 
+  it('leaves a psalm unsung whose own antiphon has no chant', async () => {
+    // Sunday's Compline, on Saturday evening: Psalm 4 after its sung antiphon,
+    // then Psalm 133(134) after "Bendizei o Senhor", which has none.
+    const blocks = sung(await hourOn('2026-11-07', 'compline'))
+    expect(blocks.some((b) => b.startsWith('Salmo 4:'))).toBe(true)
+    expect(blocks.some((b) => b.startsWith('Salmo 133'))).toBe(false)
+  })
+
   it('sings the Te Deum of a Sunday, its stanzas and its Latin, as one block each', async () => {
     const readings = await hourOn('2026-11-08', 'office-of-readings')
     const blocks = sung(readings)
