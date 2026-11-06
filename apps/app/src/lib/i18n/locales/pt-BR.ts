@@ -2063,7 +2063,7 @@ export default {
     studyWord: 'Estudar a palavra {{word}}',
     readingLayout: 'Dispor o grego como {{layout}}',
     parallelEdition: 'Escolher a edição ao lado do grego',
-    columnSplit: 'Arraste para alargar uma das colunas',
+    columnSplit: 'Arraste para alargar uma das colunas; toque duas vezes para igualá-las',
     verseKind_one: '{{name}}, {{count}} lugar',
     verseKind_other: '{{name}}, {{count}} lugares',
     backToPlace: 'Voltar a {{place}}',

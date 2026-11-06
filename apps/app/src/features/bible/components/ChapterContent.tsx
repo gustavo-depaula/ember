@@ -302,7 +302,8 @@ const maxSplit = 0.68
 /**
  * The rule between the two columns of a parallel page, the full height of the
  * chapter. Dragged, only the rule moves; the columns are laid out again where
- * it is let go, since every verse's line breaks change with the width.
+ * it is let go, since every verse's line breaks change with the width. A
+ * double tap sets the columns even again.
  */
 function ColumnRule({
   width,
@@ -317,24 +318,28 @@ function ColumnRule({
   const theme = useTheme()
   const offset = useSharedValue(0)
   const left = split * (width - columnGap) + columnGap / 2
-  const pan = useMemo(
-    () =>
-      Gesture.Pan()
-        // Sooner than the reader's drawer swipe, so a drag on the rule is the rule's.
-        .activeOffsetX([-2, 2])
-        .onUpdate((e) => {
-          offset.value = e.translationX
-        })
-        .onEnd((e) => {
-          const next = Math.min(maxSplit, Math.max(minSplit, split + e.translationX / width))
-          offset.value = 0
-          runOnJS(onSplit)(next)
-        }),
-    [offset, split, width, onSplit],
-  )
+  const gesture = useMemo(() => {
+    const drag = Gesture.Pan()
+      // Sooner than the reader's drawer swipe, so a drag on the rule is the rule's.
+      .activeOffsetX([-2, 2])
+      .onUpdate((e) => {
+        offset.value = e.translationX
+      })
+      .onEnd((e) => {
+        const next = Math.min(maxSplit, Math.max(minSplit, split + e.translationX / width))
+        offset.value = 0
+        runOnJS(onSplit)(next)
+      })
+    const even = Gesture.Tap()
+      .numberOfTaps(2)
+      .onEnd(() => {
+        runOnJS(onSplit)(0.5)
+      })
+    return Gesture.Exclusive(drag, even)
+  }, [offset, split, width, onSplit])
   const moving = useAnimatedStyle(() => ({ transform: [{ translateX: offset.value }] }))
   return (
-    <GestureDetector gesture={pan}>
+    <GestureDetector gesture={gesture}>
       <Animated.View
         accessibilityRole="adjustable"
         accessibilityLabel={t('a11y.columnSplit')}

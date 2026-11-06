@@ -2057,7 +2057,7 @@ export default {
     studyWord: 'Study the word {{word}}',
     readingLayout: 'Lay the Greek out as {{layout}}',
     parallelEdition: 'Choose the edition beside the Greek',
-    columnSplit: 'Drag to widen either column',
+    columnSplit: 'Drag to widen either column; double-tap to make them even',
     verseKind_one: '{{name}}, {{count}} place',
     verseKind_other: '{{name}}, {{count}} places',
     backToPlace: 'Back to {{place}}',
