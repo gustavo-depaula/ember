@@ -19,7 +19,7 @@ import {
   useSaintOfDayBookImage,
   useSaintOfDayIndex,
 } from '@/features/saints'
-import { useToday } from '@/hooks/useToday'
+import { useOnViewedDay, useViewedDay } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { getLiturgicalSeason } from '@/lib/liturgical'
 import { useGospelOfTheDay } from '@/lib/missal/use-gospel-of-the-day'
@@ -55,9 +55,10 @@ const bookHref = (id: string): Href => ({
  */
 export function ExploreFeatured({ leading }: { leading?: ReactNode }) {
   const router = useRouter()
+  const onViewedDay = useOnViewedDay()
   const { t } = useTranslation()
   const catalogVersion = useCatalogVersion()
-  const today = useToday()
+  const today = useViewedDay()
   const season = getLiturgicalSeason(today, 'of', useOfTransfers())
   const saint = useSaintOfDay()
   const celebrationDisplay = useCelebrationDisplay(saint?.celebration)
@@ -97,10 +98,12 @@ export function ExploreFeatured({ leading }: { leading?: ReactNode }) {
       image: evangelistArtFor(gospel.citation, dayIndex),
       tone: toneForKey('gospel-of-the-day'),
       onPress: () =>
-        router.push({
-          pathname: '/pray/[practiceId]',
-          params: { practiceId: 'gospel-of-the-day' },
-        }),
+        router.push(
+          onViewedDay({
+            pathname: '/pray/[practiceId]',
+            params: { practiceId: 'gospel-of-the-day' },
+          }),
+        ),
     })
   }
 
@@ -111,7 +114,7 @@ export function ExploreFeatured({ leading }: { leading?: ReactNode }) {
       title: celebrationDisplay.name,
       subtitle: t(`calendar.rank.${saint.celebration.rank}`),
       tone: toneForCelebration(saint.celebration.entry.category, season),
-      onPress: () => router.push('/saints/today'),
+      onPress: () => router.push(onViewedDay({ pathname: '/saints/today' })),
     })
   }
 
@@ -131,7 +134,12 @@ export function ExploreFeatured({ leading }: { leading?: ReactNode }) {
       image: saintBookImage,
       tone: toneForKey('saint-of-the-day'),
       onPress: () =>
-        router.push({ pathname: '/pray/[practiceId]', params: { practiceId: 'saint-of-the-day' } }),
+        router.push(
+          onViewedDay({
+            pathname: '/pray/[practiceId]',
+            params: { practiceId: 'saint-of-the-day' },
+          }),
+        ),
     })
   }
 
@@ -201,7 +209,7 @@ export function ExploreFeatured({ leading }: { leading?: ReactNode }) {
 export function DailyMeditations() {
   const { t } = useTranslation()
   const catalogVersion = useCatalogVersion()
-  const today = useToday()
+  const today = useViewedDay()
   const featured = pickFeatured(getLiturgicalSeason(today, 'of', useOfTransfers()), today)
   const prayed = usePrayedOn(format(today, 'yyyy-MM-dd'))
 
@@ -251,6 +259,9 @@ function MeditationTile({
   // between them rather than leave a ragged end.
   const { medium } = useWidthClass()
   const { cell } = useGridCells(170, 14, 2)
+  const onViewedDay = useOnViewedDay()
+  // A meditation opens on the day Today shows; a program's page keeps its own dates.
+  const href = practiceHref(bareId(id))
   return (
     <FeatureTile
       width={medium ? cell : undefined}
@@ -260,7 +271,7 @@ function MeditationTile({
       image={artFor(id)}
       tone={toneForKey(id)}
       prayed={prayed}
-      href={practiceHref(bareId(id))}
+      href={href.pathname === '/pray/[practiceId]' ? onViewedDay(href) : href}
     />
   )
 }

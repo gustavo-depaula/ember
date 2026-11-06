@@ -54,12 +54,16 @@ export function programEvents({
   joined,
   manifests,
   today,
+  realToday = today,
   transfers,
 }: {
   joined: JoinedProgram[]
   /** Every program that could be joined; those in `joined` are passed over. */
   manifests: PracticeManifest[]
+  /** The day Today shows. */
   today: Date
+  /** The day it really is: a day shown ahead is projected from it, and only it can be prayed. */
+  realToday?: Date
   transfers?: Transfers
 }): ProgramEvent[] {
   const todayStr = format(today, 'yyyy-MM-dd')
@@ -83,7 +87,7 @@ export function programEvents({
         schedule,
         cursor,
         completionDatesAsc,
-        realToday: today,
+        realToday,
         targetDate: today,
       })
       const days = computeAllDayStates(state)
@@ -92,7 +96,8 @@ export function programEvents({
       const prayedToday = completionDatesAsc.includes(todayStr)
       // One that waits counts its prayers, so today's prayer already moved it on.
       const day = waits ? Math.min(kept + (prayedToday ? 0 : 1), total) : state.programDay + 1
-      const canPray = !prayedToday && !state.shouldPromptRestart
+      const onToday = differenceInCalendarDays(today, realToday) === 0
+      const canPray = onToday && !prayedToday && !state.shouldPromptRestart
       return [{ ...base, day, kept, prayedToday, canPray }]
     },
   )

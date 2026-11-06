@@ -3,6 +3,7 @@
 import type { Block, Hour, HourIndex, LothCalendar, LothSource, PartBundle } from '@ember/loth'
 import { getEntry } from '@/content/contentIndex'
 import { getJson } from '@/content/store'
+import type { LatinBundle } from '@/sources/loth/pair'
 
 async function loadById<T>(id: string): Promise<T | undefined> {
   const entry = getEntry(id)
@@ -20,3 +21,6 @@ export const corpusLoth: LothSource = {
   parts: (bundle: string) => loadById<PartBundle>(`loth-parts/${bundle}`),
   extras: async () => (await loadById<Record<string, Block[]>>('loth-extras')) ?? {},
 }
+
+// The Latin of each bundle's parts, where they have a Latin original.
+export const corpusLothLatin = (bundle: string) => loadById<LatinBundle>(`loth-latin/${bundle}`)

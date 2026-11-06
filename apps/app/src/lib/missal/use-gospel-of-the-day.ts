@@ -1,7 +1,7 @@
 import type { Lang } from '@ember/missal'
 import { useQuery } from '@tanstack/react-query'
 import { format } from 'date-fns'
-import { useToday } from '@/hooks/useToday'
+import { useViewedDay } from '@/hooks/useToday'
 import { fetchVaticanGospelText, narrowLang } from '@/sources/vatican-news'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import { type GospelOfDay, loadGospelOfDay } from './gospelOfDay'
@@ -18,7 +18,7 @@ export function useGospelOfTheDay(): {
   isError: boolean
   refetch: () => void
 } {
-  const today = useToday()
+  const today = useViewedDay()
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const jurisdiction = usePreferencesStore((s) => s.jurisdiction)
   const dateKey = format(today, 'yyyy-MM-dd')

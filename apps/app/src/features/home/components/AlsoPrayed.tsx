@@ -11,6 +11,7 @@ import { getLoadedFlow } from '@/content/resolver'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { getPractice } from '@/db/repositories/practices'
 import { useFlows, usePrayedBeyond } from '@/features/plan-of-life'
+import { useOnViewedDay } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import type { TodayPlan } from '../useTodayPlan'
 
@@ -30,6 +31,7 @@ export function AlsoPrayed({
   const { t } = useTranslation()
   const theme = useTheme()
   const router = useRouter()
+  const onViewedDay = useOnViewedDay()
   // Names and icons arrive as deferred manifests warm in.
   useCatalogVersion()
   const prayed = usePrayedBeyond(selectedDate, todaySlots)
@@ -70,10 +72,11 @@ export function AlsoPrayed({
             onPress={() => {
               onLeave()
               // A practice of the user's own has no flow to pray, only its page.
-              router.push({
-                pathname: entry ? '/pray/[practiceId]' : '/plan/[practiceId]',
-                params: { practiceId: id },
-              })
+              router.push(
+                entry
+                  ? onViewedDay({ pathname: '/pray/[practiceId]', params: { practiceId: id } })
+                  : { pathname: '/plan/[practiceId]', params: { practiceId: id } },
+              )
             }}
             accessibilityRole="button"
             accessibilityLabel={t('a11y.viewPractice', { name })}

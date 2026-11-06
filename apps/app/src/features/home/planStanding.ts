@@ -1,8 +1,15 @@
 import type { TimeBlock } from '@/db/schema'
-import { blockEnds, blockOrder, dayMinutes } from '@/features/plan-of-life/timeBlocks'
+import {
+  blockEnds,
+  blockOrder,
+  dayMinutes,
+  getCurrentTimeBlock,
+} from '@/features/plan-of-life/timeBlocks'
 
 export type EntryStatus = 'done' | 'pending' | 'late'
-export type DayStanding = 'done' | 'ontrack' | 'delayed' | 'atrisk'
+export type DayStanding = 'done' | 'ontrack' | 'delayed' | 'atrisk' | 'missed' | 'ahead'
+/** Where a day stands against the real one: still to come, under way, or over. */
+export type DayWhen = 'ahead' | 'today' | 'over'
 export type PlanEntry = { id: string; name: string; block: TimeBlock; status: EntryStatus }
 
 // How long past its time a practice may wait before the day counts as
@@ -24,7 +31,8 @@ export function owedAt(block: TimeBlock, time: string | null | undefined): numbe
  * ideal or extra one left unprayed never counts against the day. An essential
  * practice is late an hour past when it is owed (owedAt). The day is on track
  * until one has waited that hour (delayed), and at risk once one has waited
- * three.
+ * three. A day that is `over` with an essential practice left unprayed was
+ * missed; one still `ahead` has no standing yet.
  */
 export function planStanding(
   blocks: {
@@ -33,6 +41,7 @@ export function planStanding(
   }[],
   doneIds: Set<string>,
   now: number,
+  when: DayWhen = 'today',
 ): { entries: PlanEntry[]; done: number; standing: DayStanding } {
   let worst = -Infinity
   let done = 0
@@ -47,11 +56,13 @@ export function planStanding(
       return { id, name, block, status: overdue >= delayedAfter ? 'late' : 'pending' }
     }),
   )
-  return { entries, done, standing: standingOf(done === entries.length, worst) }
+  return { entries, done, standing: standingOf(done === entries.length, worst, when) }
 }
 
-function standingOf(allDone: boolean, worstOverdue: number): DayStanding {
+function standingOf(allDone: boolean, worstOverdue: number, when: DayWhen): DayStanding {
   if (allDone) return 'done'
+  if (when === 'ahead') return 'ahead'
+  if (when === 'over' && worstOverdue > -Infinity) return 'missed'
   if (worstOverdue >= atRiskAfter) return 'atrisk'
   return worstOverdue >= delayedAfter ? 'delayed' : 'ontrack'
 }
@@ -74,4 +85,25 @@ export function entriesAround(
   const after = entries.slice(start, start + count)
   const before = entries.slice(Math.max(0, start - (count - after.length)), start)
   return [...before, ...after]
+}
+
+/**
+ * Where in its day the plan of `date` is read: the clock's minute (logical-day
+ * minutes) and part of the day when it is today. The day Today's date scrubber
+ * shows is read at its own hour, not the clock's: a day ahead hasn't begun, so
+ * nothing in it is late, and a day gone by is over, so whatever it left
+ * unprayed is.
+ */
+export function hourOfDay(
+  date: string,
+  today: string,
+  clockMinute: number,
+): { now: number; current: TimeBlock; when: DayWhen } {
+  if (date > today) return { now: 0, current: 'morning', when: 'ahead' }
+  if (date < today) return { now: Number.MAX_SAFE_INTEGER, current: 'evening', when: 'over' }
+  return {
+    now: dayMinutes(clockMinute),
+    current: getCurrentTimeBlock(Math.floor(clockMinute / 60)),
+    when: 'today',
+  }
 }

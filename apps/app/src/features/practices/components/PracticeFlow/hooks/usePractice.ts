@@ -3,10 +3,11 @@ import type { PracticeManifest } from '@/content/manifestTypes'
 import { getManifest, loadFlow, loadPerDayFlow } from '@/content/resolver'
 import type { FlowDefinition } from '@/content/types'
 import { useProgramProgress } from '@/features/plan-of-life'
+import { useViewedDay } from '@/hooks/useToday'
 
 export function usePractice(practiceId: string, programDayProp?: number) {
   const manifest = getManifest(practiceId)
-  const programProgress = useProgramProgress(practiceId, manifest?.program)
+  const programProgress = useProgramProgress(practiceId, manifest?.program, useViewedDay())
   const programDay = programDayProp ?? programProgress?.programDay
 
   const flowQuery: UseQueryResult<FlowDefinition | null> = useQuery({

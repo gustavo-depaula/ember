@@ -8,7 +8,9 @@ export default function PrayScreen() {
     slotKey?: string
     // Opened to read ahead, not to pray: no Amen, so nothing is logged.
     read?: string
-    // A missed program day prayed late: its Amen logs this date, not today's.
+    // The day prayed for, when not today: a missed program day prayed late, or
+    // the day Today's scrubber had moved to. The page is that day's (the tab
+    // stack provides it as the viewed day), and its Amen logs that date.
     dayDate?: string
   }>()
   const parsedProgramDay = programDay !== undefined ? Number(programDay) : undefined

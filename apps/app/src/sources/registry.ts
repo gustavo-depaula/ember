@@ -1,3 +1,4 @@
+import { corpusLothLatin } from '@/lib/loth/loaders'
 import { bibleChapterSource } from './bible-chapter'
 import { cccChapterSource } from './ccc-chapter'
 import { cccCompendiumSource } from './ccc-compendium'
@@ -39,6 +40,6 @@ registerSource(doHourSource as ContentSource)
 registerSource(emberDaysSource as ContentSource)
 registerSource(breviarySource as ContentSource)
 registerSource(officeOfReadingsReadingSource as ContentSource)
-registerSource(lothHourSource(breviarySource as ContentSource) as ContentSource)
+registerSource(lothHourSource(breviarySource as ContentSource, corpusLothLatin) as ContentSource)
 registerSource(opusDeiGospelCommentarySource as ContentSource)
 registerSource(opusDeiMeditationSource as ContentSource)

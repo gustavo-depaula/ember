@@ -31,7 +31,7 @@ import { PracticeHeader } from '@/features/practices/components/PracticeHeader'
 import { usePracticePageLanguage } from '@/features/practices/language/usePracticeLanguages'
 import { useProgressiveCount } from '@/hooks/useProgressiveCount'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
-import { useStableToday, useToday } from '@/hooks/useToday'
+import { useToday, useViewedDay } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 import { useTurnsWhileFocused } from '@/lib/screenOrientation'
@@ -134,8 +134,8 @@ function PracticeReady({
 }) {
   const { t } = useTranslation()
   const router = useRouter()
-  const now = useToday()
-  const realToday = useStableToday()
+  const now = useViewedDay()
+  const realToday = useToday()
   const isFutureDate = now.getTime() > realToday.getTime()
   const readingMargin = useReadingMargin()
   const practiceName = localizeContent(manifest.name)
@@ -162,14 +162,25 @@ function PracticeReady({
   const contentLanguage = page.primary
   const translation = usePreferencesStore((s) => s.translation)
   const jurisdiction = usePreferencesStore((s) => s.jurisdiction)
+  const secondaryLang = page.secondary
+  const vernacular = usePreferencesStore((s) => s.contentLanguage)
   const preprocessCtx = useMemo(
     () => ({
       queryClient,
-      prefs: { lang: contentLanguage, translation, jurisdiction },
+      prefs: { lang: contentLanguage, translation, jurisdiction, secondaryLang, vernacular },
       date: now,
       programDay,
     }),
-    [queryClient, contentLanguage, translation, jurisdiction, now, programDay],
+    [
+      queryClient,
+      contentLanguage,
+      translation,
+      jurisdiction,
+      secondaryLang,
+      vernacular,
+      now,
+      programDay,
+    ],
   )
 
   // On a wide window the page's divisions and its tools stand in rails beside
@@ -292,7 +303,7 @@ function PracticeReady({
 function PracticeLoading({ manifest }: { manifest: PracticeManifest }) {
   const { t } = useTranslation()
   const router = useRouter()
-  const now = useToday()
+  const now = useViewedDay()
   const readingMargin = useReadingMargin()
   const actions = usePracticeActions(manifest)
   return (

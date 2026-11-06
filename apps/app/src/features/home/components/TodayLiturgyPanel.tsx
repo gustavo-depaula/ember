@@ -6,6 +6,7 @@ import { RailBlock, RailLink, Typography, usePageWidth } from '@/components'
 import { useCelebrationDisplay, useTodayCelebration } from '@/features/calendar'
 import { RankBadge } from '@/features/calendar/components'
 import { MassTimesDoor } from '@/features/search'
+import { useOnViewedDay } from '@/hooks/useToday'
 import { getLiturgicalDayName } from '@/lib/liturgical'
 import { useOfTransfers } from '@/lib/missal/useOfTransfers'
 
@@ -17,6 +18,7 @@ import { useOfTransfers } from '@/lib/missal/useOfTransfers'
 export function TodayLiturgyPanel({ date }: { date: Date }) {
   const { t } = useTranslation()
   const router = useRouter()
+  const onViewedDay = useOnViewedDay()
   const transfers = useOfTransfers()
   const width = usePageWidth()
   const principal = useTodayCelebration()?.principal
@@ -34,7 +36,9 @@ export function TodayLiturgyPanel({ date }: { date: Date }) {
         <RailLink
           label={t('home.massOfTheDay')}
           onPress={() =>
-            router.push({ pathname: '/pray/[practiceId]', params: { practiceId: 'mass' } })
+            router.push(
+              onViewedDay({ pathname: '/pray/[practiceId]', params: { practiceId: 'mass' } }),
+            )
           }
         />
         <RailLink label={t('calendar.title')} onPress={() => router.push('/calendar')} />
@@ -43,10 +47,12 @@ export function TodayLiturgyPanel({ date }: { date: Date }) {
         <RailLink
           label={t('home.divineOfficeSub')}
           onPress={() =>
-            router.push({
-              pathname: '/pray/[practiceId]',
-              params: { practiceId: 'liturgy-of-the-hours' },
-            })
+            router.push(
+              onViewedDay({
+                pathname: '/pray/[practiceId]',
+                params: { practiceId: 'liturgy-of-the-hours' },
+              }),
+            )
           }
         />
       </RailBlock>

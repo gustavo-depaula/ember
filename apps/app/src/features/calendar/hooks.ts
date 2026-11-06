@@ -7,7 +7,7 @@ import { buildOfYearCalendar } from '@ember/missal'
 import { useQuery } from '@tanstack/react-query'
 import { addDays, differenceInCalendarDays, format } from 'date-fns'
 import { useMemo } from 'react'
-import { useToday } from '@/hooks/useToday'
+import { useViewedDay } from '@/hooks/useToday'
 import { loadMissalCalendar, regionsForJurisdiction } from '@/lib/missal/loaders'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
@@ -16,7 +16,7 @@ import { usePreferencesStore } from '@/stores/preferencesStore'
 // resolveOfDay over the missal's calendar — so card and Mass can never disagree.
 export function useYearCalendar(year?: number) {
   const jurisdiction = usePreferencesStore((s) => s.jurisdiction)
-  const today = useToday()
+  const today = useViewedDay()
   const resolvedYear = year ?? today.getFullYear()
 
   return useQuery({
@@ -35,7 +35,7 @@ export function useYearCalendar(year?: number) {
 }
 
 export function useTodayCelebration(): DayCalendar | undefined {
-  const today = useToday()
+  const today = useViewedDay()
   const todayKey = format(today, 'yyyy-MM-dd')
   const { data: calendar } = useYearCalendar(today.getFullYear())
   // biome-ignore lint/correctness/useExhaustiveDependencies: memoize by calendar day string
@@ -61,7 +61,7 @@ export function useMonthCelebrationMap(year: number, month: number): Map<string,
 }
 
 export function useUpcomingCelebration(days = 14): ResolvedCelebration | undefined {
-  const today = useToday()
+  const today = useViewedDay()
   const todayKey = format(today, 'yyyy-MM-dd')
   const currentYear = today.getFullYear()
   const needsNextYear = today.getMonth() === 11 && today.getDate() > 31 - days

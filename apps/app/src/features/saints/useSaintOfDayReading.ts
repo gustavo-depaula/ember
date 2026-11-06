@@ -1,4 +1,4 @@
-import { useToday } from '@/hooks/useToday'
+import { useViewedDay } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { todayKey, useSaintOfDayIndex } from './useSaintOfDayIndex'
 
@@ -10,7 +10,7 @@ import { todayKey, useSaintOfDayIndex } from './useSaintOfDayIndex'
  * no mapped entry.
  */
 export function useSaintOfDayReading(): { name: string; reflection?: string } | undefined {
-  const today = useToday()
+  const today = useViewedDay()
   const index = useSaintOfDayIndex()
   const entry = index?.[todayKey(today)]
   if (!entry) return undefined

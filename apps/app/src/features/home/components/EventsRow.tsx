@@ -19,7 +19,7 @@ import {
   useHeldCards,
   useSaintsCatalog,
 } from '@/features/saints'
-import { useToday } from '@/hooks/useToday'
+import { useViewedDay } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 
 import type { ProgramEvent } from '../programEvents'
@@ -49,7 +49,7 @@ type Entry =
  */
 export function EventsRow() {
   const { t } = useTranslation()
-  const today = format(useToday(), 'yyyy-MM-dd')
+  const today = format(useViewedDay(), 'yyyy-MM-dd')
   const cards = useCardsToday()
   const ahead = useCardsAhead(cardDaysAhead)
   const programs = useProgramEvents()

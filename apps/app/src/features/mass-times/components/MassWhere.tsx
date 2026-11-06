@@ -6,7 +6,7 @@ import Animated, { FadeIn } from 'react-native-reanimated'
 import { useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, confirm, Typography } from '@/components'
-import { useStableToday } from '@/hooks/useToday'
+import { useToday } from '@/hooks/useToday'
 import { selectionTick, successBuzz } from '@/lib/haptics'
 import { checkIn, useCheckInsOn, useRecentCheckIns } from '../checkins'
 import { stopAskingMassWhere, useChurchHere, useMassWhereAsking } from '../churchHere'
@@ -33,7 +33,7 @@ export function MassWhere({
   slotKey: string
   onOtherChurch: () => void
 }) {
-  const today = format(useStableToday(), 'yyyy-MM-dd')
+  const today = format(useToday(), 'yyyy-MM-dd')
   const place = useCheckInsOn(today)
     .filter((c) => c.kind === 'mass')
     .at(-1)

@@ -6,7 +6,7 @@ import type { Primitive } from '@/content/primitives'
 import type { RenderedSection } from '@/content/types'
 import { currentRound } from '@/features/plan-of-life/program'
 import { usePracticePageLanguage } from '@/features/practices/language/usePracticeLanguages'
-import { useToday } from '@/hooks/useToday'
+import { useViewedDay } from '@/hooks/useToday'
 import { getPsalmNumbering } from '@/lib/bibleTranslations'
 import { transfersForJurisdiction } from '@/lib/missal/loaders'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -42,9 +42,10 @@ export function usePracticeContent(
   const { primary: contentLanguage, secondary: secondaryLanguage } =
     usePracticePageLanguage(manifest)
   const jurisdiction = usePreferencesStore((s) => s.jurisdiction)
+  const vernacular = usePreferencesStore((s) => s.contentLanguage)
   const numbering = getPsalmNumbering(translation)
 
-  const now = useToday()
+  const now = useViewedDay()
   const todayKey = now.getTime()
   // `now` is the logical day at midnight — hour-mapped selects need the real
   // clock, and keying by it re-resolves the default as the day advances.
@@ -57,6 +58,7 @@ export function usePracticeContent(
       programDay ?? null,
       contentLanguage,
       secondaryLanguage ?? null,
+      vernacular,
       jurisdiction ?? null,
       translation,
       numbering,
@@ -87,7 +89,13 @@ export function usePracticeContent(
       const renderedSections = await resolveFlowAsync(flow, context, ec)
       const primitives = await preprocessFlow(renderedSections, {
         queryClient,
-        prefs: { lang: contentLanguage, translation, jurisdiction },
+        prefs: {
+          lang: contentLanguage,
+          translation,
+          jurisdiction,
+          secondaryLang: secondaryLanguage,
+          vernacular,
+        },
         date: now,
         programDay,
       })

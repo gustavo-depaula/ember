@@ -11,7 +11,7 @@ import { getManifest } from '@/content/resolver'
 import type { ProgramConfig } from '@/content/types'
 import { getPreference, setPreference } from '@/db/repositories/preferences'
 import { EndingHead } from '@/features/practices/components/ProgramEnding'
-import { useStableToday } from '@/hooks/useToday'
+import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 
 import { useProgramDayDates, useProgramProgress, useRestartNeededPractices } from '../hooks'
@@ -39,7 +39,7 @@ export function MissedDaysSheet() {
   const insets = useSafeAreaInsets()
   const ids = [...useRestartNeededPractices()].sort()
   const key = ids.join(',')
-  const day = format(useStableToday(), 'yyyy-MM-dd')
+  const day = format(useToday(), 'yyyy-MM-dd')
 
   useEffect(() => {
     if (!key) return sheet.close()
@@ -93,7 +93,7 @@ function MissedProgram({
 }) {
   const { t } = useTranslation()
   const router = useRouter()
-  const today = useStableToday()
+  const today = useToday()
   const progress = useProgramProgress(practiceId, program, today)
   const dates = useProgramDayDates(practiceId, program)
   if (!progress) return null

@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { View, YStack } from 'tamagui'
 
@@ -28,20 +29,35 @@ import {
 import { ContinueRow } from '@/features/library'
 import { MissedDaysSheet } from '@/features/plan-of-life'
 import { usePlanFidelity } from '@/features/plan-of-life/useRuleRecord'
-import { usePreferencesStore } from '@/stores/preferencesStore'
+import { ViewedDayContext } from '@/hooks/useToday'
 
 const fidelityWeeks = 10
 
 import { useRollStandingPrograms } from '@/features/plan-of-life'
 import { useOfTransfers } from '@/lib/missal/useOfTransfers'
 
+/**
+ * Today, on the day its date scrubber has moved to: the day is Today's own,
+ * provided to its tree alone, so a look at another day changes what Today
+ * shows and nothing the rest of the app records.
+ */
 export default function HomeScreen() {
+  const [viewed, setViewed] = useState<string>()
+  return (
+    <ViewedDayContext.Provider value={viewed}>
+      <HomePage onSelectDate={setViewed} />
+    </ViewedDayContext.Provider>
+  )
+}
+
+function HomePage({ onSelectDate }: { onSelectDate: (date: string | undefined) => void }) {
   const { t } = useTranslation()
   const plan = useTodayPlan()
   useRollStandingPrograms(useOfTransfers())
   const { now, anchorDate, season, todaySlots, completedIds, onPressItem } = plan
-  const setTimeTravelEphemeral = usePreferencesStore((s) => s.setTimeTravelDateEphemeral)
   const prayNow = usePrayNow({ slots: todaySlots, completedIds, onPray: onPressItem })
+  // Pray Now reads the clock, which only today's plan keeps.
+  const onToday = plan.selectedDate === anchorDate
 
   const fidelity = usePlanFidelity(fidelityWeeks)
 
@@ -56,13 +72,13 @@ export default function HomeScreen() {
       date={now}
       season={season}
       today={anchorDate}
-      onSelectDate={(date) => setTimeTravelEphemeral(date === anchorDate ? undefined : date)}
+      onSelectDate={(date) => onSelectDate(date === anchorDate ? undefined : date)}
     />
   )
   const shelves = (
     <YStack gap="$lg">
       <FadeInView>
-        <ExploreFeatured leading={prayNow && <PrayNowCard {...prayNow} />} />
+        <ExploreFeatured leading={prayNow && onToday && <PrayNowCard {...prayNow} />} />
       </FadeInView>
 
       <FadeInView index={1}>

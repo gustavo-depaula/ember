@@ -26,7 +26,7 @@ import { toneForKey } from '@/features/explore/bgColor'
 import { BookFan, Door, ImageFan } from '@/features/explore/Door'
 import { evangelistArtFor } from '@/features/explore/evangelistArt'
 import { useHeldCards, useSaintsCatalog } from '@/features/saints'
-import { useStableToday } from '@/hooks/useToday'
+import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 
@@ -63,7 +63,7 @@ const doorBooks = [
 export default function BooksScreen() {
   const { t, i18n } = useTranslation()
   const shelf = useShelf()
-  const today = useStableToday()
+  const today = useToday()
   const { byId } = useSaintsCatalog()
   const held = useHeldCards()
 

@@ -5,7 +5,7 @@ import type { TocNode } from '@/content/manifestTypes'
 import type { Primitive } from '@/content/primitives'
 import { loadPracticeData } from '@/content/resolver'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
-import { useToday } from '@/hooks/useToday'
+import { useViewedDay } from '@/hooks/useToday'
 import i18n, { localizeContent } from '@/lib/i18n'
 import { hourSections, ibLangFor } from '@/sources/ibreviary/config'
 import { extractSecondReading } from '@/sources/ibreviary/office-of-readings-reading'
@@ -95,7 +95,7 @@ export async function resolveMeditationSubtitle(
  *  its fixed tagline. Resolves to `null` (never `undefined`) so React Query
  *  doesn't reject the "no subtitle" result. */
 export function useMeditationSubtitle(id: string): string | undefined {
-  const today = useToday()
+  const today = useViewedDay()
   const lang = i18n.language
   const catalogVersion = useCatalogVersion()
   const { data } = useQuery({

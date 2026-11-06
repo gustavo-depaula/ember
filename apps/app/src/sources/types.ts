@@ -10,6 +10,10 @@ export type ProducerPrefs = {
   translation: string // bible translation code: 'DRB' | 'CPDV' | 'AM' | ...
   // The reader's calendar region ('BR', 'US'); absent, the General Calendar.
   jurisdiction?: string
+  // The language set beside the content language, if the reader has one.
+  secondaryLang?: string
+  // The reader's own language, where the page is prayed in another (Latin).
+  vernacular?: string
 }
 
 export type SourceAccessor = {

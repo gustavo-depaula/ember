@@ -40,6 +40,9 @@ export interface HourPart {
   // 'hymn', 'psalm-2', 'ant-2', 'reading', 'canticle', 'prayer'… A slot met a
   // second time in one hour is numbered: 'prayer~2'.
   slot: string
+  // Where the part is in the corpus ('<bundle>.<index>'), by which what goes
+  // with it (its Latin) is found.
+  ref?: string
   blocks: Block[]
   // A text the archive the corpus was drawn from left out of its hours and
   // that came from elsewhere (`supplied-*` bundles): outside what the
@@ -52,6 +55,8 @@ export interface HourPart {
   // The one of `choices` the archive prints that day; the first where it
   // prints them all.
   chosen?: number
+  // Where each of `choices` is in the corpus.
+  choiceRefs?: string[]
 }
 
 // The hours a memorial changes: the others are the weekday's either way.
@@ -162,14 +167,16 @@ async function parts(
   return Promise.all(
     refs.map(async ({ slot, ref }): Promise<HourPart> => {
       const blocks = await blocksOf(ref)
-      if (ref.startsWith('supplied-')) return { slot, blocks, supplied: true }
+      if (ref.startsWith('supplied-')) return { slot, ref, blocks, supplied: true }
       const choice = index.choices?.[slot]?.find((c) => c.among.includes(ref) || c.together === ref)
-      if (!choice) return { slot, blocks }
+      if (!choice) return { slot, ref, blocks }
       return {
         slot,
+        ref,
         blocks,
         choices: await Promise.all(choice.among.map(blocksOf)),
         chosen: Math.max(0, choice.among.indexOf(ref)),
+        choiceRefs: choice.among,
       }
     }),
   )
