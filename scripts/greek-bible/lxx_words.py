@@ -48,7 +48,9 @@ words (then in the Nestle 1904), OdyCy's; else "" and "?".
 Because parsings and lemmas of words lxx-morph does not reach are taken from
 GLAUx, the words files are CC BY-SA 4.0 as a whole (attribution: lxx-morph by
 OpenScriptorium, CC BY 4.0; GLAUx by Alek Keersmaekers, CC BY-SA 4.0; glosses
-from STEPBible.org TBESG, CC BY 4.0).
+from STEP Bible, www.STEPBible.org, TBESG, TFLSJ and TIPNR, based on work at
+Tyndale House Cambridge, CC BY 4.0, adapted by lxx_glosses.py; and the Berean
+Interlinear's glosses of the same forms in the New Testament, public domain).
 
 There is no word-level analysis of Brenton's own text (the Sixtine text as
 reprinted by Valpy), so both sources are aligned to it: per Brenton chapter,
@@ -74,7 +76,9 @@ keyed by token position, so it is only good for the build that preceded it):
     python3 -I scripts/greek-bible/lxx_words.py <lxx-morph> <glaux> <STEPBible-Data> /tmp/tags.json
     python3 -I scripts/greek-bible/concordance.py brenton
 
-Rerun after lxx.py brenton rewrites the text (the words follow its tokens).
+Rerun after lxx.py brenton rewrites the text (the words follow its tokens),
+and then lxx_glosses.py, which replaces the TBESG glosses written here with
+the NT's form-aware Berean glosses where it can.
 """
 from __future__ import annotations
 
