@@ -86,6 +86,7 @@ export const translations: Translation[] = [
     description: 'The Clementine Vulgate, the Church’s Latin Bible from 1592.',
     numbering: 'lxx',
     corpus: 'vulgate',
+    versification: true,
   },
   {
     code: 'LXX',

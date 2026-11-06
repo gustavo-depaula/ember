@@ -46,6 +46,9 @@ sys.path.insert(0, str(HERE.parent / "greek-bible"))
 import vrs  # noqa: E402
 from common import BIBLE, BOOKS, OUT, SIL_OF, SLUG_OF_TAHOT, dump  # noqa: E402
 
+sys.path.insert(0, str(HERE.parent))
+from bible_address import to_douay  # noqa: E402
+
 STOP = set(
     """a an the and or of to in on at by for with from into unto upon as is was were be been are
     am i you he she it we they me him her us them my your his its our their this that these those
@@ -243,7 +246,8 @@ def main(src: Path) -> None:
         if diff:
             verse_map[slug] = diff
 
-    dump(OUT / "versification.json", verse_map, pretty=True)
+    # Drafted against the Vulgate's numbering, kept in the Douay's: see bible_address.py.
+    dump(OUT / "versification.json", to_douay(OUT.name, verse_map), pretty=True)
 
     # Chapters whose draft reads badly in places: align them on the texts and
     # propose the result where it reads clearly better (proposals only; the

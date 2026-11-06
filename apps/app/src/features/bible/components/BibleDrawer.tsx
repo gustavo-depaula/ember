@@ -505,10 +505,18 @@ function EditionsPanel({
           <Typography variant="annotation">{tr.description}</Typography>
           {specimen && !specimen.fallback && specimen.verses[0] ? (
             <Typography
-              fontSize="$2"
+              fontSize={tr.language === 'HBO' ? '$4' : '$2'}
               numberOfLines={3}
               paddingTop={2}
               tone={selected ? 'default' : 'muted'}
+              // The body face has no Hebrew points: the specimen is set as the page is.
+              {...(tr.language === 'HBO'
+                ? {
+                    fontFamily: 'EzraSIL' as '$body',
+                    textAlign: 'right' as const,
+                    style: { writingDirection: 'rtl' as const },
+                  }
+                : {})}
             >
               {specimen.verses[0].text}
             </Typography>

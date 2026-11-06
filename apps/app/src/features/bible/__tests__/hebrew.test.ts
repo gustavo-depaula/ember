@@ -5,7 +5,7 @@ import { describe, expect, it } from 'vitest'
 import { type AccentTable, accentOf, accentSystem } from '../hebrew/accents'
 import { grammarTerms } from '../hebrew/morphology'
 import { hebrewTokens, type MorphFields } from '../hebrew/words'
-import { buildVersification, type VerseMap } from '../versification'
+import { buildVersification, getVersification, type VerseMap } from '../versification'
 
 // The built corpus (`pnpm build:corpus`), as the app reads it.
 const bible = resolve(__dirname, '../../../../../../_site/hearth/v2/bible')
@@ -27,25 +27,26 @@ describe('the Hebrew Bible’s versification', () => {
   it('maps real verses onto real ones', () => {
     for (const [book, verses] of Object.entries(verseMap)) {
       const own = read(`${corpus}/${book}.json`)
-      const vulgate = read(`vulgate/${book}.json`)
+      // The shared address is the Douay's numbering (scripts/bible_address.py).
+      const douay = read(`drb/${book}.json`)
       for (const [from, to] of Object.entries(verses)) {
         const [c, v] = from.split(':')
         expect(own[c]?.[v], `${book} ${from}`).toBeDefined()
         if (to === null) continue
         const [tc, tv] = to.split(':')
-        expect(vulgate[tc]?.[tv], `${book} ${from} → ${to}`).toBeDefined()
+        expect(douay[tc]?.[tv], `${book} ${from} → ${to}`).toBeDefined()
       }
     }
   })
 
   it.each([
     ['psalms', 23, 1, 22, 1],
-    ['psalms', 116, 10, 115, 1],
+    ['psalms', 116, 10, 115, 10],
     ['malachias', 3, 19, 4, 1],
     ['joel', 3, 1, 2, 28],
     ['3-kings', 5, 1, 4, 21],
     ['daniel', 3, 31, 3, 98],
-  ])('sends %s %i:%i to the Vulgate’s %i:%i', (bookId, chapter, verse, vc, vv) => {
+  ])('sends %s %i:%i to the Douay’s %i:%i', (bookId, chapter, verse, vc, vv) => {
     expect(versification.toShared({ bookId, chapter, verse })).toEqual({
       bookId,
       chapter: vc,
@@ -176,5 +177,39 @@ describe('reading the Hebrew', () => {
     const morphology: Record<string, MorphFields> = read(`${corpus}/morphology.json`)
     expect(grammarTerms(morphology.HVqw3ms)).toBe('Qal wayyiqtol 3ms')
     expect(grammarTerms(morphology.HNcfsa)).toBeUndefined()
+  })
+})
+
+describe('the shared address', () => {
+  // The Douay numbers ten chapters otherwise than the corpus Vulgate, and its
+  // numbering is the one the commentary and the lectionary use: every
+  // edition must land on the Douay's verse, or the pane shows the wrong one.
+  it.each([
+    ['VULG', 'psalms', 115, 1],
+    ['LXX', 'psalms', 115, 1],
+    ['WLC', 'psalms', 116, 10],
+  ] as const)('%s %s %i:%i is the Douay’s Psalm 115:10', async (code, bookId, chapter, verse) => {
+    const map = await getVersification(code)
+    expect(map.toShared({ bookId, chapter, verse })).toEqual({
+      bookId: 'psalms',
+      chapter: 115,
+      verse: 10,
+    })
+  })
+
+  it('gives each Douay verse of a verse the Vulgate joins its own place', async () => {
+    const hebrew = await getVersification('WLC')
+    // Genesis 5:32, Noe's sons: the Vulgate's 5:31 holds it, the Douay's 5:32 is it.
+    expect(hebrew.toShared({ bookId: 'genesis', chapter: 5, verse: 32 })).toEqual({
+      bookId: 'genesis',
+      chapter: 5,
+      verse: 32,
+    })
+    // Isaiah 45:24 "in the Lord are my justices" is the Douay's 45:25.
+    expect(hebrew.toShared({ bookId: 'isaias', chapter: 45, verse: 24 })).toEqual({
+      bookId: 'isaias',
+      chapter: 45,
+      verse: 25,
+    })
   })
 })

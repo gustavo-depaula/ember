@@ -15,7 +15,7 @@ const read = (path: string) => JSON.parse(readFileSync(resolve(bible, path), 'ut
 const greek = translations.filter((tr) => tr.language === 'GRC')
 
 describe('the Greek editions’ versification', () => {
-  // A table entry that names a verse the edition lacks, or a Vulgate verse
+  // A table entry that names a verse the edition lacks, or a Douay verse
   // that is not there, sends the reader's commentary to nowhere.
   it.each(greek.filter((tr) => tr.versification))('$name maps real verses onto real ones', (tr) => {
     const table: Record<string, Record<string, string | null>> = read(
@@ -23,13 +23,14 @@ describe('the Greek editions’ versification', () => {
     )
     for (const [book, verses] of Object.entries(table)) {
       const own = read(`${tr.corpus}/${book}.json`)
-      const vulgate = read(`vulgate/${book}.json`)
+      // The shared address is the Douay's numbering (scripts/bible_address.py).
+      const douay = read(`drb/${book}.json`)
       for (const [from, to] of Object.entries(verses)) {
         const [c, v] = from.split(':')
         expect(own[c]?.[v], `${tr.code} ${book} ${from}`).toBeDefined()
         if (to === null) continue
         const [tc, tv] = to.split(':')
-        expect(vulgate[tc]?.[tv], `${tr.code} ${book} ${from} → ${to}`).toBeDefined()
+        expect(douay[tc]?.[tv], `${tr.code} ${book} ${from} → ${to}`).toBeDefined()
       }
     }
   })

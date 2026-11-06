@@ -644,6 +644,9 @@ HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 import vrs  # noqa: E402  (beside this script; -I keeps the cwd off the path)
 
+sys.path.insert(0, str(HERE.parent))
+from bible_address import to_douay  # noqa: E402
+
 
 def sil_draft(lxx: dict, vul: dict, slug: str, c: int, v: int) -> tuple[int, int] | None:
     """SIL's guess at the Vulgate address of Septuagint verse `slug c:v`,
@@ -692,6 +695,11 @@ def load_map(path: Path) -> dict[str, dict[tuple[int, int], tuple[int, int] | No
             raise ValueError(f"{path.name}:{n}: ranges of different length")
         out.setdefault(slug, {}).update(zip(src, dst))
     return out
+
+
+def douay_verses(slug: str) -> set[tuple[int, int]]:
+    book = json.loads((BIBLE / "drb" / f"{slug}.json").read_text(encoding="utf-8"))
+    return {(int(c), int(v)) for c, verses in book.items() for v in verses}
 
 
 def vulgate_verses(slug: str) -> set[tuple[int, int]]:
@@ -744,8 +752,10 @@ def write_edition(name: str, books: dict, verse_map: dict) -> Path:
         )
         index.append({"slug": slug, "name": english, "testament": "ot", "chapters": max(books[slug])})
     (out / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent="\t") + "\n", encoding="utf-8")
+    # Drafted against the Vulgate's numbering, kept in the Douay's: see bible_address.py.
     (out / "versification.json").write_text(
-        json.dumps(verse_map, ensure_ascii=False, indent="\t") + "\n", encoding="utf-8"
+        json.dumps(to_douay(out.name, verse_map), ensure_ascii=False, indent="\t") + "\n",
+        encoding="utf-8",
     )
     return out
 
@@ -776,13 +786,13 @@ def check(name: str) -> list[str]:
                     problems.append(f"{slug} {c}:{v}: not NFC")
                 if not allowed.fullmatch(text) or re.search(r"[a-z0-9](?![a-z0-9]*\))", text):
                     problems.append(f"{slug} {c}:{v}: stray characters {text[:60]!r}")
-        shared = vulgate_verses(slug)
+        shared = douay_verses(slug)
         for own, target in verse_map.get(slug, {}).items():
             c, v = own.split(":")
             if v not in book.get(c, {}):
                 problems.append(f"{slug} {own}: mapped but not in the text")
             if target and tuple(map(int, target.split(":"))) not in shared:
-                problems.append(f"{slug} {own} → {target}: not a Clementine verse")
+                problems.append(f"{slug} {own} → {target}: not a Douay verse")
     return problems
 
 
