@@ -1275,6 +1275,7 @@ export default {
     places: 'Masses and Offices',
     prayers: 'Sung prayers',
     more: '+{{count}}',
+    playFailed: 'The melody could not be played.',
     noChants: 'No score for this day.',
     genre: {
       in: 'Introit',
@@ -1932,6 +1933,8 @@ export default {
     showChant: 'Show the chant of {{name}}',
     hideChant: 'Hide the chant of {{name}}',
     openChants: 'Open {{name}}',
+    playChant: 'Hear {{name}}',
+    stopChant: 'Stop {{name}}',
     saveChant: 'Save {{name}}',
     unsaveChant: 'Remove {{name}} from saved',
     chantIndex: 'Index of the book, {{name}}',

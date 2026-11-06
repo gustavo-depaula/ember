@@ -1280,6 +1280,7 @@ export default {
     places: 'Missas e Ofícios',
     prayers: 'Orações cantadas',
     more: '+{{count}}',
+    playFailed: 'Não foi possível tocar a melodia.',
     noChants: 'Não há partitura para este dia.',
     genre: {
       in: 'Intróito',
@@ -1938,6 +1939,8 @@ export default {
     showChant: 'Mostrar o canto de {{name}}',
     hideChant: 'Ocultar o canto de {{name}}',
     openChants: 'Abrir {{name}}',
+    playChant: 'Ouvir {{name}}',
+    stopChant: 'Parar {{name}}',
     saveChant: 'Guardar {{name}}',
     unsaveChant: 'Tirar {{name}} dos guardados',
     chantIndex: 'Índice do livro, {{name}}',
