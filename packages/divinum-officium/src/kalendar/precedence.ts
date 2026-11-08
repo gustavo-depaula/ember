@@ -55,6 +55,9 @@ export async function resolveDay(opts: {
   lang1?: string
   lang2?: string
   missa?: boolean
+  // Which of a day's several Masses (Christmas's three, Holy Thursday's two):
+  // missa.pl's `missanumber`, 1 unless chosen.
+  missanumber?: number
   caller?: number
   votive?: string
   // Reuse a directorium across many resolutions (e.g. a whole year) instead of
@@ -77,6 +80,7 @@ export async function resolveDay(opts: {
     year,
     hora,
     missa,
+    ...(missa ? { missanumber: opts.missanumber ?? 1 } : {}),
     votive,
     dayofweek: dayOfWeek(day, month, year),
     dayname: [getweek(day, month, year, false, missa), '', ''],
@@ -123,6 +127,15 @@ export async function resolveDay(opts: {
     ctx.winner = state.winner
     ctx.winnerRule = state.rule
     return toResolution(state, ctx)
+  }
+
+  // Port of horascommon.pl: a day of several Masses keeps each in a file of
+  // its own beside the day's ('12-25m1.txt'), read in its place.
+  if (state.winner && missa && ctx.missanumber) {
+    const numbered = state.winner.replace(/\.txt$/i, `m${ctx.missanumber}.txt`)
+    if (await opts.loader.exists(`missa/Latin/${numbered.replace(/\.txt$/i, '')}`)) {
+      state.winner = numbered
+    }
   }
 
   if (state.winner) {

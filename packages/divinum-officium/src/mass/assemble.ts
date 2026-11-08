@@ -193,10 +193,13 @@ export async function assembleMass(opts: {
   lang2?: string // DO dir name ('English', 'Portugues'); omit for Latin-only
   /** Where a vernacular text is missing, the language read instead before Latin; DO's own is English. */
   fallbackLang?: string
+  /** Which of the day's Masses, where it has several (`massChoices`); the first unless chosen. */
+  missanumber?: number
   solemn?: boolean
   propers?: boolean
 }): Promise<AssembledMass> {
   const day = await resolveDay({
+    missanumber: opts.missanumber,
     loader: opts.loader,
     day: opts.day,
     month: opts.month,

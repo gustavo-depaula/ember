@@ -72,8 +72,9 @@ describe.skipIf(!existsSync(contentDo))('buildDoYear', () => {
     ] as const) {
       const r = await resolveDay({ loader, day: d, month: m, year, version, hora: '', missa: true })
       const principal = on(m, d)[0]
-      // The surfaced sanctoral winner is the office winner.
-      expect(principal?.winner).toBe(r.winner)
+      // The surfaced sanctoral winner is the office winner; the Mass reads a
+      // day of several Masses from the chosen one's file ('12-25m1.txt').
+      expect(principal?.winner).toBe(r.winner.replace(/m\d\.txt$/, '.txt'))
       expect(num(String(principal?.rank))).toBe(r.rank)
     }
   })

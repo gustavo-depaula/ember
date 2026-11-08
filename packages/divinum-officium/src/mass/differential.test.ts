@@ -28,9 +28,8 @@ const dates: Array<[number, number, number]> = [
   [5, 24, 2026], // Pentecost
   [6, 4, 2026], // Corpus Christi
   [9, 23, 2026], // September Ember Wednesday
-  // All Souls (11-2) is excluded: DO's multiple-Mass mechanism (missanumber)
-  // renders 'Introitus missing' without a user selection, and multi-Mass
-  // support isn't ported.
+  // All Souls (11-2) is excluded: run without a selection, the Perl CLI
+  // renders 'Introitus missing' for its three Masses (missanumber).
   [11, 1, 2026], // All Saints
   [2, 2, 2027], // Candlemas
   [8, 15, 2026], // Assumption
