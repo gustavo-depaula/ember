@@ -7,7 +7,7 @@ import { GlassBackdropScope } from '@/components/glassBackdrop'
 import { TabBarInsets } from '@/components/TabBarInsets'
 import { useTabBarOnTop } from '@/components/tabAccessory'
 import { ViewedDayContext } from '@/hooks/useToday'
-import { fullScreenRoutes } from '@/lib/fullScreenRoutes'
+import { isFullScreenRoute } from '@/lib/fullScreenRoutes'
 
 // Shared array group: the same route files back every tab, each with its
 // own stack, so detail routes stay reachable from whichever tab is active and
@@ -48,7 +48,7 @@ export default function TabStackLayout() {
         // scrubber or a missed program day) shows that day.
         <ViewedDayContext.Provider value={(route.params as { dayDate?: string })?.dayDate}>
           <GlassBackdropScope>
-            <TabBarInsets skip={fullScreenRoutes.has(route.name)}>{children}</TabBarInsets>
+            <TabBarInsets skip={isFullScreenRoute(route)}>{children}</TabBarInsets>
           </GlassBackdropScope>
         </ViewedDayContext.Provider>
       )}
@@ -60,7 +60,7 @@ export default function TabStackLayout() {
         ...(tabBarOnTop ? { scrollEdgeEffects: { top: 'hidden' as const } } : undefined),
         // Paints the background so no white flash peeks mid-slide.
         contentStyle: { backgroundColor: theme.background?.val },
-        unstable_nativeProps: { hidesBottomBarWhenPushed: fullScreenRoutes.has(route.name) },
+        unstable_nativeProps: { hidesBottomBarWhenPushed: isFullScreenRoute(route) },
       })}
     />
   )

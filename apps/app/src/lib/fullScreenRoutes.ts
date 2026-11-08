@@ -9,6 +9,19 @@ export const fullScreenRoutes = new Set([
   'mass-times/index',
 ])
 
+/**
+ * Whether a route of the tab's stack pushes the tab bar away. A route with a
+ * stack of its own is named by that stack ('browse/book') and carries the
+ * screen it opens on in its params: the reader opened straight from Today's
+ * Continue row arrives as 'browse/book' opening on '[bookId]/read', with no
+ * frontispiece beneath for it to rise over as a modal.
+ */
+export function isFullScreenRoute(route: { name: string; params?: object }): boolean {
+  if (fullScreenRoutes.has(route.name)) return true
+  const screen = (route.params as { screen?: unknown } | undefined)?.screen
+  return typeof screen === 'string' && fullScreenRoutes.has(`${route.name}/${screen}`)
+}
+
 // Routes the iOS bar needs no help with: a native modal covers it, and over the
 // dark, candle-lit screens its glass takes on their darkness. The Android bar
 // is an opaque strip of the theme's paper drawn above every screen in the tab,
