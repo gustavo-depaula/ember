@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on the Meteorologica",
-    "la": "Sententia super Meteora"
+    "la": "Sententia super Meteora",
+    "pt-BR": "Comentário aos Meteorológicos"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "São Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's commentary on Aristotle's *Meteorologica* — meteorological and atmospheric phenomena. Unfinished — Aquinas covered only Books I and part of II.",
-    "la": "Expositio *Meteorologicorum* Aristotelis — de phaenomenis meteorologicis et atmosphaericis. Opus inchoatum — solum Librum I et partem II tractavit."
+    "la": "Expositio *Meteorologicorum* Aristotelis — de phaenomenis meteorologicis et atmosphaericis. Opus inchoatum — solum Librum I et partem II tractavit.",
+    "pt-BR": "Comentário aos *Meteorológicos* de Aristóteles — sobre os fenômenos meteorológicos e atmosféricos. Obra inacabada — Tomás de Aquino tratou apenas do Livro I e de parte do Livro II."
   },
   "composed": "c. 1268–1270",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,126 +39,144 @@
       "id": "g1",
       "title": {
         "en-US": "Book 1",
-        "la": "Liber 1"
+        "la": "Liber 1",
+        "pt-BR": "Livro 1"
       },
       "children": [
         {
           "id": "g1-c001",
           "title": {
             "en-US": "Lecture 1 — Aristotle's intent in this book; enumeration of ground previously covered in preceding books and yet to be covered in subsequent books",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g1-c002",
           "title": {
             "en-US": "Lecture 2 — Principles of the natural changes to be considered in this book; their relations to each other",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g1-c003",
           "title": {
             "en-US": "Lecture 3 — Mutual transformation of the elements; presence above of the heavenly body",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g1-c004",
           "title": {
             "en-US": "Lecture 4 — Three questions: the first, on the order of the elements, is solved",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g1-c005",
           "title": {
             "en-US": "Lecture 5 — The remaining two questions about the upper region solved",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g1-c006",
           "title": {
             "en-US": "Lecture 6 — Shooting stars and meteors—their cause and difference",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g1-c007",
           "title": {
             "en-US": "Lecture 7 — Solution of problems concerning shooting stars",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g1-c008",
           "title": {
             "en-US": "Lecture 8 — Cause of other phenomena appearing at night, and of certain that do not.",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         },
         {
           "id": "g1-c009",
           "title": {
             "en-US": "Lecture 9 — The opinions of others concerning comets.",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9"
           }
         },
         {
           "id": "g1-c010",
           "title": {
             "en-US": "Lecture 10 — Refutation of these opinions.",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10"
           }
         },
         {
           "id": "g1-c011",
           "title": {
             "en-US": "Lecture 11 — The cause, time, and place of the appearance of comets according to Aristotle.",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11"
           }
         },
         {
           "id": "g1-c012",
           "title": {
             "en-US": "Lecture 12 — Opinions of others on the Milky Way.",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12"
           }
         },
         {
           "id": "g1-c013",
           "title": {
             "en-US": "Lecture 13 — The Milky Way, according to Aristotle.",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13"
           }
         },
         {
           "id": "g1-c014",
           "title": {
             "en-US": "Lecture 14 — The causes in general of phenomena generated by the moist exhalation in the lower part of the air. Of rain, dew and frost.",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14"
           }
         },
         {
           "id": "g1-c015",
           "title": {
             "en-US": "Lecture 15 — On the place of the generation of hail and snow.",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15"
           }
         },
         {
           "id": "g1-c016",
           "title": {
             "en-US": "Lecture 16 — The cause of the generation of rivers.",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16"
           }
         },
         {
           "id": "g1-c017",
           "title": {
             "en-US": "Lecture 17 — The duration and change of rivers.",
-            "la": "Lectio 17"
+            "la": "Lectio 17",
+            "pt-BR": "Lição 17"
           }
         }
       ]
@@ -163,77 +185,88 @@
       "id": "g2",
       "title": {
         "en-US": "Book 2",
-        "la": "Liber 2"
+        "la": "Liber 2",
+        "pt-BR": "Livro 2"
       },
       "children": [
         {
           "id": "g2-c001",
           "title": {
             "en-US": "Lecture 1 — Opinions of the ancients on the origin of the sea and of its saltiness.",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g2-c002",
           "title": {
             "en-US": "Lecture 2 — The sea is shown to be the natural place of all water.",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g2-c003",
           "title": {
             "en-US": "Lecture 3 — Why the sea does not increase. Rejection of Plato's Tartarus.",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g2-c004",
           "title": {
             "en-US": "Lecture 4 — Whether the sea always was and always will be.",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g2-c005",
           "title": {
             "en-US": "Lecture 5 — The saltiness of the sea according to the opinions, of others.",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g2-c006",
           "title": {
             "en-US": "Lecture 6 — Cause of the sea's saltiness according to Aristotle.",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g2-c007",
           "title": {
             "en-US": "Lecture 7 — On the generation of winds.",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g2-c008",
           "title": {
             "en-US": "Lecture 8 — On the local motion of the winds.",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         },
         {
           "id": "g2-c009",
           "title": {
             "en-US": "Lecture 9 — On the increase and diminishing of winds",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9"
           }
         },
         {
           "id": "g2-c010",
           "title": {
             "en-US": "Lecture 10 — The south wind not from the antarctic but from the summer tropic.",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10"
           }
         }
       ]
@@ -242,14 +275,16 @@
       "id": "g3",
       "title": {
         "en-US": "Book 3",
-        "la": "Liber 3"
+        "la": "Liber 3",
+        "pt-BR": "Livro 3"
       },
       "children": [
         {
           "id": "g3-pr",
           "title": {
             "en-US": "Prologue",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Proêmio"
           }
         }
       ]
@@ -258,14 +293,16 @@
       "id": "g4",
       "title": {
         "en-US": "Book 4",
-        "la": "Liber 4"
+        "la": "Liber 4",
+        "pt-BR": "Livro 4"
       },
       "children": [
         {
           "id": "g4-pr",
           "title": {
             "en-US": "Prologue",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Proêmio"
           }
         }
       ]
@@ -274,5 +311,12 @@
   "arrived": {
     "en-US": "2026-06-04",
     "la": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
+    }
   }
 }
