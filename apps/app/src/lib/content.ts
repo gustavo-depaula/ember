@@ -119,11 +119,12 @@ export type ChapterResult = {
 }
 
 // A chapter read from its publisher is kept in `external_content`, so it is
-// fetched once and reads offline afterwards.
+// fetched once and reads offline afterwards. It is kept parsed: a change to a
+// publisher's parser bumps the version, or the old parse stays.
 async function getWebChapter(translation: string, bookId: string, chapter: number) {
   const key = {
     producerId: `bible/${translation}`,
-    producerVersion: '1',
+    producerVersion: '2',
     lang: '',
     cacheKey: `${bookId}/${chapter}`,
     paramsKey: '',

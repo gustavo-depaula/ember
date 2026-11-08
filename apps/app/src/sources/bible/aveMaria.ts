@@ -19,11 +19,38 @@ function cleanText(text: string): string {
     .replace(/\s[–—-]$/, '')
 }
 
+// Some verses arrive inside the one before, their number left in the text
+// ("…na aldeia”. 16 Jesus, porém, …" with no verse 16, Mt 14). The number
+// missing from the sequence, standing alone before a word, is where it opens.
+function splitRunOn(verses: Verse[]): Verse[] {
+  const out: Verse[] = []
+  for (const [i, v] of verses.entries()) {
+    let current = v
+    const next = verses[i + 1]?.verse
+    for (let n = current.verse + 1; next !== undefined && n < next; n++) {
+      const at = current.text.search(new RegExp(`\\s${n}\\s+(?=[\\p{L}“"‘(–—-])`, 'u'))
+      if (at < 0) break
+      out.push({ verse: current.verse, text: current.text.slice(0, at).trim() })
+      current = {
+        verse: n,
+        text: current.text
+          .slice(at)
+          .trim()
+          .replace(/^\d+\s+/, ''),
+      }
+    }
+    out.push(current)
+  }
+  return out
+}
+
 export function parseAveMariaChapter(verses: ApiVerse[]): Verse[] {
-  return verses
-    .map((v) => ({ verse: Number.parseInt(v.number, 10), text: cleanText(v.text) }))
-    .filter((v) => !Number.isNaN(v.verse) && v.text)
-    .sort((a, b) => a.verse - b.verse)
+  return splitRunOn(
+    verses
+      .map((v) => ({ verse: Number.parseInt(v.number, 10), text: cleanText(v.text) }))
+      .filter((v) => !Number.isNaN(v.verse) && v.text)
+      .sort((a, b) => a.verse - b.verse),
+  )
 }
 
 export const aveMaria: WebBible = {

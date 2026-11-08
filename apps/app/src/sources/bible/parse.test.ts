@@ -23,4 +23,11 @@ describe('Ave Maria (Claretian API)', () => {
     )
     expect(verses.find((v) => v.verse === 20)?.text).toMatch(/“Eu não sou o Cristo”\.$/)
   })
+
+  it('splits a verse the API left inside the one before', () => {
+    const mt14 = parseAveMariaChapter(JSON.parse(fixture('ave-maria-mateus-14.json')))
+    expect(mt14.map((v) => v.verse)).toEqual([14, 15, 16, 17])
+    expect(mt14[1].text).toMatch(/na aldeia”\.$/)
+    expect(mt14[2].text).toMatch(/^Jesus, porém, respondeu:/)
+  })
 })
