@@ -46,51 +46,113 @@ async function fallback(ctx: SourceFetchContext, lang: Lang): Promise<Primitive[
 }
 
 // A verse number may carry a part letter ("9,43b-45", "5,1-2a"), which the
-// lectionary uses for half-verses — without it the whole ref fails to parse.
-const verseRef = String.raw`\d+[a-e]?(?:[\s.,:;–-]+\d+[a-e]?)*`
+// lectionary uses for half-verses, and a range may cross chapters on a dash
+// ("15:26—16:4a").
+const verseRef = String.raw`\d+[a-e]?(?:[\s.,:;–—-]+\d+[a-e]?)*`
 
-// A bare scripture reference like "3,16-18" / "3:16-18" / "9,43b-45".
-const isVerseRef = (text: string): boolean => new RegExp(`^${verseRef}$`).test(text.trim())
+// A reference as Vatican News prints it under the incipit: bare ("3,16-18",
+// "3:16-18"), after the book abbreviated ("Lc 1,39-56"), in brackets
+// ("(2,41-51)", "(Mt 5,1-12a)"), sometimes closed by a full stop ("11,19-27.").
+const reference = String.raw`\(?(?:(?<!\p{L})(\p{L}{1,4})\.?\s+)?(\d+[,:]\s?${verseRef})\)?\.?`
+const wholeReference = new RegExp(`^${reference}$`, 'u')
+const leadingReference = new RegExp(`^(${reference})\\s+(\\S.*)$`, 'su')
+const closingReference = new RegExp(`\\s${reference}$`, 'u')
+const incipit = /segundo|according to/i
 
-// The incipit opens the block ("From the Gospel according to John" /
-// "Proclamação … segundo João"). Vatican News lays the rest out three ways:
-// the verse reference inline in that paragraph (EN, via <br>), in a paragraph
-// of its own (PT), or the incipit, reference and whole passage in one <p>
-// separated only by <br>s (PT, some days). The citation is everything up to
-// and including the reference, wherever the paragraph boundaries fall, so the
-// reference never leaks into the passage (and the blank-line <br>s after it
-// don't open a gap before the text).
+/**
+ * The incipit opens the block ("From the Gospel according to John" /
+ * "Proclamação … segundo João") and the reference follows it: on the same
+ * line, after a <br>, in a paragraph of its own, or opening the passage's own
+ * first line ("6,35-40 Naquele tempo, …", PT, some days). The citation is
+ * everything up to and including the reference, wherever the boundaries
+ * fall, so the reference never leaks into the passage (and the blank-line
+ * <br>s after it don't open a gap before the text).
+ */
 export function splitCitation(blocks: ProseBlock[]): { citation?: string; body: ProseBlock[] } {
-  const [first, ...rest] = blocks
-  if (first?.kind !== 'paragraph') return { body: blocks }
-  const refAt = first.inline.findIndex((i) => i.kind === 'text' && isVerseRef(i.text))
-  const tail = refAt < 0 ? [] : first.inline.slice(refAt + 1)
-  const passageAt = tail.findIndex((i) => i.kind !== 'break')
-  if (passageAt >= 0) {
-    return {
-      citation: paragraphText({ kind: 'paragraph', inline: first.inline.slice(0, refAt + 1) }),
-      body: [{ kind: 'paragraph', inline: tail.slice(passageAt) }, ...rest],
+  // The reference stands within the first few paragraphs, or the block has none.
+  for (let b = 0; b < Math.min(blocks.length, 3); b++) {
+    const block = blocks[b]
+    if (block.kind !== 'paragraph') return { body: blocks }
+    for (let i = 0; i < block.inline.length; i++) {
+      const item = block.inline[i]
+      if (item.kind !== 'text') continue
+      const text = item.text.trim()
+      const whole = wholeReference.test(text) || closingReference.test(text)
+      const lead = whole ? undefined : leadingReference.exec(text)
+      if (!whole && !lead) continue
+      const citation = [
+        ...blocks.slice(0, b).map(paragraphText),
+        paragraphText({
+          kind: 'paragraph',
+          inline: [...block.inline.slice(0, i), { kind: 'text', text: lead ? lead[1] : text }],
+        }),
+      ]
+        .filter(Boolean)
+        .join(' ')
+      const after = [
+        ...(lead ? [{ kind: 'text' as const, text: lead[4] }] : []),
+        ...block.inline.slice(i + 1),
+      ]
+      const passageAt = after.findIndex((x) => x.kind !== 'break')
+      const body = [
+        ...(passageAt >= 0 ? [{ kind: 'paragraph' as const, inline: after.slice(passageAt) }] : []),
+        ...blocks.slice(b + 1),
+      ]
+      return body.length ? { citation, body } : { body: blocks }
     }
   }
-  const parts = [paragraphText(first)]
-  let bodyStart = 1
-  while (bodyStart < blocks.length && isVerseRef(paragraphText(blocks[bodyStart]))) {
-    parts.push(paragraphText(blocks[bodyStart]))
-    bodyStart++
-  }
-  if (bodyStart >= blocks.length) return { body: blocks } // all reference, no passage
-  return { citation: parts.filter(Boolean).join(' '), body: blocks.slice(bodyStart) }
+  // No reference printed: the incipit alone is the citation.
+  const [first, ...rest] = blocks
+  return first && rest.length && incipit.test(paragraphText(first))
+    ? { citation: paragraphText(first), body: rest }
+    : { body: blocks }
 }
 
-// Compact "Book ref" (e.g. "João 3,16-18") from the full incipit, for card
-// titles where the full "Proclamação do Evangelho … segundo João 3,16-18"
-// reads too long. Some days the reference follows the book abbreviated, in
-// brackets ("segundo João (Jo 6,37-40)", All Souls 2026). Falls back to the
-// full string if the tail doesn't parse.
+const evangelists = {
+  'pt-BR': ['Mateus', 'Marcos', 'Lucas', 'João'],
+  'en-US': ['Matthew', 'Mark', 'Luke', 'John'],
+} as const
+
+/** Which of the four a name or its abbreviation is ("Joã", "Lc", "Jn"), or undefined. */
+function evangelistOf(word: string): 0 | 1 | 2 | 3 | undefined {
+  const w = word.normalize('NFD').replace(/\p{M}/gu, '').toLowerCase()
+  if (/^(mt|mat)/.test(w)) return 0
+  if (/^(mc|mk|mar)/.test(w)) return 1
+  if (/^(lc|lk|lu)/.test(w)) return 2
+  if (/^(jo|jn)/.test(w)) return 3
+  return undefined
+}
+
+// The incipit's language, or, with none ("(Mt 5,1-12a)" alone), the
+// reference's: Portuguese writes chapter and verse with a comma.
+function languageOf(full: string, verses: string): 'pt-BR' | 'en-US' {
+  if (/segundo|Evangelho/i.test(full)) return 'pt-BR'
+  if (/according to|Gospel/i.test(full)) return 'en-US'
+  return /^\d+,/.test(verses) ? 'pt-BR' : 'en-US'
+}
+
+/**
+ * Compact "Book ref" (e.g. "João 3,16-18") from the full incipit, for card
+ * titles where the full "Proclamação do Evangelho … segundo João 3,16-18"
+ * reads too long. The evangelist is the one the incipit names, or else the
+ * reference's abbreviation. Falls back to the full string if neither parses.
+ */
 export function compactCitation(full: string | undefined): string | undefined {
   if (!full) return undefined
-  const m = full.match(new RegExp(String.raw`(\S+)\s+(?:\(\S+\s+)?(\d+[,:]\s?${verseRef})\)?$`))
-  return m ? `${m[1]} ${m[2].replace(/\s+/g, '')}` : full
+  const ref = new RegExp(`${reference}$`, 'u').exec(full.trim())
+  if (!ref) return full
+  const named =
+    /(?:segundo|according to|escrito por)\s+(?:S[ãa]o\s+|San\s+|Saint\s+|St\.?\s+)?(\p{L}+)/iu.exec(
+      full,
+    )?.[1] ?? /(\p{L}+)\s*$/u.exec(full.slice(0, ref.index))?.[1]
+  const which = evangelistOf(ref[1] ?? named ?? '') ?? evangelistOf(named ?? '')
+  if (which === undefined) return full
+  // "12, 1 8" (2026-07-17) is 12,1-8 with its dash lost.
+  const verses = ref[2]
+    .replace(/([,:])\s+/g, '$1')
+    .replace(/(\d)\s+(\d)/g, '$1-$2')
+    .replace(/\s+/g, '')
+  return `${evangelists[languageOf(full, ref[2])][which]} ${verses}`
 }
 
 // Today's Gospel as plain citation + text, for compact surfaces (the Explore
@@ -115,7 +177,7 @@ export async function fetchVaticanGospelText(
 // Gospel tab is always populated. `dateScoped` keys the cache per day.
 export const gospelOfTheDaySource = {
   id: 'producer/gospel-of-the-day',
-  version: '3',
+  version: '4',
   prefsDeps: ['lang' as const],
   dateScoped: true,
   async fetch(ctx: SourceFetchContext): Promise<Primitive[] | TextPrimitive> {

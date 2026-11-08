@@ -99,6 +99,41 @@ describe('splitCitation — citation vs passage', () => {
   })
 })
 
+describe('splitCitation — the reference opening the passage', () => {
+  it('takes it out of the passage, whose first line it shares', () => {
+    // 2026-04-22: "6,35-40", two <br>s, then the passage, all in one <p>.
+    const { citation, body } = splitCitation([
+      {
+        kind: 'paragraph',
+        inline: [{ kind: 'text', text: 'Proclamação do Evangelho de Jesus Cristo segundo João' }],
+      },
+      {
+        kind: 'paragraph',
+        inline: [
+          { kind: 'text', text: '6,35-40' },
+          { kind: 'break' },
+          { kind: 'break' },
+          { kind: 'text', text: 'Naquele tempo, disse Jesus à multidão:' },
+        ],
+      },
+    ])
+    expect(citation).toBe('Proclamação do Evangelho de Jesus Cristo segundo João 6,35-40')
+    expect(body.map(paragraphText)).toEqual(['Naquele tempo, disse Jesus à multidão:'])
+  })
+
+  it('splits a reference run into the same line as the passage', () => {
+    const { citation, body } = splitCitation([
+      {
+        kind: 'paragraph',
+        inline: [{ kind: 'text', text: 'Proclamação do Evangelho de Jesus Cristo segundo Mateus' }],
+      },
+      { kind: 'paragraph', inline: [{ kind: 'text', text: '7,1-5 Naquele tempo, disse Jesus:' }] },
+    ])
+    expect(compactCitation(citation)).toBe('Mateus 7,1-5')
+    expect(body.map(paragraphText)).toEqual(['Naquele tempo, disse Jesus:'])
+  })
+})
+
 describe('compactCitation', () => {
   it('reduces the full incipit to "Book ref"', () => {
     expect(compactCitation('Proclamação do Evangelho de Jesus Cristo segundo João 3,16-18')).toBe(
@@ -115,6 +150,20 @@ describe('compactCitation', () => {
       'Lucas 9,43b-45',
     )
     expect(compactCitation('From the Gospel according to Mark 5:1-2a, 4')).toBe('Mark 5:1-2a,4')
+  })
+
+  // As Vatican News printed them, 2026.
+  it.each([
+    ['From the Gospel according to John 15:26—16:4a', 'John 15:26—16:4a'],
+    ['From the Gospel according to Luke (2,41-51)', 'Luke 2,41-51'],
+    ['Evangelho segundo São Lucas Lc 1,39-56', 'Lucas 1,39-56'],
+    ['(Mt 5,1-12a)', 'Mateus 5,1-12a'],
+    ['Proclamação do Evangelho de Jesus Cristo segundo Joã 16,12-15', 'João 16,12-15'],
+    ['Proclamação do Evangelho de Jesus Cristo segundo João 11,19-27.', 'João 11,19-27'],
+    ['Proclamação do Evangelho de Jesus Cristo escrito por Marcos 12,35-37', 'Marcos 12,35-37'],
+    ['Evangelho segundo San Mateus 12, 1 8', 'Mateus 12,1-8'],
+  ])('reads %j as %j', (full, compact) => {
+    expect(compactCitation(full)).toBe(compact)
   })
 
   it('passes through when the tail is not a reference, and undefined', () => {
