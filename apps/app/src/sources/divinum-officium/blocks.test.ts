@@ -212,4 +212,30 @@ describe('mapItemsToPrimitives', () => {
       { type: 'text', markup: 'do', text: { primary: 'Te ígitur, clementíssime Pater.' } },
     ])
   })
+  it('reads an hour named as a link by its name', () => {
+    const out = mapItemsToPrimitives(['!Pule o resto, a menos que ore %Laudes% separadamente.'])
+    expect(out).toEqual([
+      { type: 'rubric', text: { primary: 'Pule o resto, a menos que ore Laudes separadamente.' } },
+    ])
+  })
+
+  it("keeps a responsory's repeat on its own line within the response", () => {
+    const out = mapItemsToPrimitives(
+      [
+        'R. I believe that my Redeemer liveth, and that I shall stand up from the earth at the latter day,\n* And in my flesh shall I see God my Saviour.\nV. Whom I shall see for myself.',
+      ],
+      [
+        'R. Credo quod Redémptor meus vivit, et in novíssimo die de terra surrectúrus sum, \n* Et in carne mea vidébo Deum Salvatórem meum.\nV. Quem visúrus sum ego ipse.',
+      ],
+    )
+    expect(out).toHaveLength(1)
+    const [block] = out
+    expect(block.type).toBe('verses')
+    if (block.type !== 'verses') return
+    expect(block.items.map((item) => item.role)).toEqual(['r', 'v'])
+    expect(block.items[0].text.primary).toBe(
+      'I believe that my Redeemer liveth, and that I shall stand up from the earth at the latter day, * And in my flesh shall I see God my Saviour.',
+    )
+    expect(block.items[0].text.secondary).toMatch(/surrectúrus sum, \* Et in carne mea/)
+  })
 })

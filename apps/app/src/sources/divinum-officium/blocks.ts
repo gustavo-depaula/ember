@@ -50,12 +50,30 @@ function splitNote(text: string): { text: string; note?: string } {
 // together ('Cântico de_Simeão'), {:…:} are anchors, a backtick is an editor's
 // accent mark and waitN a pause code. None is shown. A lone '_' line is a
 // divider and is classified before this runs.
+//
+// '%Laudes%' names an hour DO links to ('Pule o resto, a menos que ore
+// %Laudes% separadamente'); the name is read without the link.
 function cleanLine(line: string): string {
   return line
+    .replace(/%([^%]+)%/g, '$1')
     .replace(/_/g, ' ')
     .replace(/\{:.*?:\}/g, '')
     .replace(/`/g, '')
     .replace(/wait\d+/gi, '')
+}
+
+// A responsory's repeat runs on to a line of its own ('R. Credo quod Redémptor
+// meus vivit, … surrectúrus sum,' / '* Et in carne mea vidébo Deum'), which is
+// still the response: it is joined to the ℣ or ℟ above it.
+function linesOf(item: string): string[] {
+  const out: string[] = []
+  for (const line of item.split('\n')) {
+    const above = out.at(-1)
+    if (/^\*\s/.test(line) && above && /^(?:[VR]\.|R\.br\.)\s/.test(above))
+      out[out.length - 1] = `${above.replace(/\s+$/, '')} ${line}`
+    else out.push(line)
+  }
+  return out
 }
 
 function classify(raw: string): Line {
@@ -208,7 +226,10 @@ export function mapItemsToPrimitives(primaryItems: string[], latinItems?: string
   for (let i = 0; i < primaryItems.length; i++) {
     const primary = primaryItems[i]
     const latin = latinItems?.[i]
-    const pairs = pairSegments(primary.split('\n').map(classify), latin?.split('\n').map(classify))
+    const pairs = pairSegments(
+      linesOf(primary).map(classify),
+      latin && linesOf(latin).map(classify),
+    )
 
     for (const [p, l] of pairs) {
       switch (p.kind) {
