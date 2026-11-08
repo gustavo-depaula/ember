@@ -322,6 +322,12 @@ export function BookReader({ bookId, chapter, lang: edition }: Props) {
   const [chapterPages, setChapterPages] = useState(0)
   const [chromeShown, setChromeShown] = useState(false)
   const [sheet, setSheet] = useState<SheetKind>(null)
+  // A sheet reports its close once its dismissal has played out, by which time
+  // the menu may have handed over to the sheet it opened: it closes only itself.
+  const closeSheet = useCallback(
+    (kind: SheetKind) => setSheet((open) => (open === kind ? null : open)),
+    [],
+  )
   const [footnoteHtml, setFootnoteHtml] = useState<string | undefined>(undefined)
   const [navStack, setNavStack] = useState<Array<{ index: number; fraction: number }>>([])
   const [completed, setCompleted] = useState<Set<string>>(() => listCompletedChapters(bookId))
@@ -1127,7 +1133,7 @@ export function BookReader({ bookId, chapter, lang: edition }: Props) {
 
       <ReaderMenuSheet
         open={sheet === 'menu'}
-        onClose={() => setSheet(null)}
+        onClose={() => closeSheet('menu')}
         onContents={bookEntry.toc && bookEntry.toc.length > 0 ? () => setSheet('toc') : undefined}
         onSearch={() => setSheet('search')}
         onBookmarks={() => setSheet('bookmarks')}
@@ -1137,7 +1143,7 @@ export function BookReader({ bookId, chapter, lang: edition }: Props) {
 
       <ReaderHighlightsSheet
         open={sheet === 'highlights'}
-        onClose={() => setSheet(null)}
+        onClose={() => closeSheet('highlights')}
         highlights={highlights}
         leaves={leaves}
         titleLookup={titleLookup}
@@ -1148,7 +1154,7 @@ export function BookReader({ bookId, chapter, lang: edition }: Props) {
       {bookEntry.toc && (
         <ReaderTocSheet
           open={sheet === 'toc'}
-          onClose={() => setSheet(null)}
+          onClose={() => closeSheet('toc')}
           toc={bookEntry.toc}
           readableIds={readableIds}
           currentChapterId={currentChapterId}
@@ -1160,7 +1166,7 @@ export function BookReader({ bookId, chapter, lang: edition }: Props) {
 
       <ReaderSettingsSheet
         open={sheet === 'settings'}
-        onClose={() => setSheet(null)}
+        onClose={() => closeSheet('settings')}
         bookOverride={paletteOverride}
         onSetBookOverride={(id) => {
           setPaletteOverride(id)
@@ -1177,7 +1183,7 @@ export function BookReader({ bookId, chapter, lang: edition }: Props) {
 
       <ReaderSearchSheet
         open={sheet === 'search'}
-        onClose={() => setSheet(null)}
+        onClose={() => closeSheet('search')}
         bookId={bookId}
         lang={lang}
         manifest={bookEntry}
@@ -1189,7 +1195,7 @@ export function BookReader({ bookId, chapter, lang: edition }: Props) {
 
       <ReaderBookmarksSheet
         open={sheet === 'bookmarks'}
-        onClose={() => setSheet(null)}
+        onClose={() => closeSheet('bookmarks')}
         bookmarks={bookmarks}
         canAdd={!!currentPosition}
         onAdd={handleAddBookmark}
