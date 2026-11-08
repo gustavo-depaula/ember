@@ -131,6 +131,14 @@ function pairLines(
     let n = 0
     return primaryLines.map((l) => [l, isContent(l) ? latinContent[n++] : undefined])
   }
+  // The Portuguese sets a prayer's Amém on a line of its own where the Latin
+  // ends the prayer's line with it (Misereátur … Amen. / Compadeça-se … \n
+  // Amém.). Left out of the count, the prayers pair one to one again.
+  const amen = (l: Line) => l.kind === 'text' && /^(Amém|Amen)\.?$/.test(l.text.trim())
+  if (latinContent.length === primaryLines.filter((l) => isContent(l) && !amen(l)).length) {
+    let n = 0
+    return primaryLines.map((l) => [l, isContent(l) && !amen(l) ? latinContent[n++] : undefined])
+  }
 
   const kindPairs: Array<[Line, Line | undefined]> = []
   let j = 0

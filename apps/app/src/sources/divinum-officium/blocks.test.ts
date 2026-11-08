@@ -238,4 +238,20 @@ describe('mapItemsToPrimitives', () => {
     )
     expect(block.items[0].text.secondary).toMatch(/surrectúrus sum, \* Et in carne mea/)
   })
+  it('pairs prayers whose Portuguese sets the Amém on a line of its own', () => {
+    const out = mapItemsToPrimitives(
+      [
+        'v. Compadeça-se de nós Deus omnipotente, e, perdoados os nossos pecados, conduza-nos à vida eterna.\nAmém.\nv. Que o Senhor + omnipotente e misericordioso nos conceda o perdão.\nAmém.',
+      ],
+      [
+        'v. Misereátur nostri omnípotens Deus, et dimíssis peccátis nostris, perdúcat nos ad vitam ætérnam. Amen.\nv. Indulgéntiam, + absolutiónem et remissiónem peccatórum nostrórum tríbuat nobis omnípotens et miséricors Dóminus. Amen.',
+      ],
+    )
+    const texts = out.flatMap((p) => (p.type === 'text' ? [p.text] : []))
+    expect(texts).toHaveLength(2)
+    expect(texts[0].primary).toMatch(/^Compadeça-se.*\nAmém\.$/s)
+    expect(texts[0].secondary).toMatch(/^Misereátur.*Amen\.$/)
+    expect(texts[1].primary).toMatch(/^Que o Senhor/)
+    expect(texts[1].secondary).toMatch(/^Indulgéntiam/)
+  })
 })
