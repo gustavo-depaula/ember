@@ -84,10 +84,12 @@ export function splitCitation(blocks: ProseBlock[]): { citation?: string; body: 
 
 // Compact "Book ref" (e.g. "João 3,16-18") from the full incipit, for card
 // titles where the full "Proclamação do Evangelho … segundo João 3,16-18"
-// reads too long. Falls back to the full string if the tail doesn't parse.
+// reads too long. Some days the reference follows the book abbreviated, in
+// brackets ("segundo João (Jo 6,37-40)", All Souls 2026). Falls back to the
+// full string if the tail doesn't parse.
 export function compactCitation(full: string | undefined): string | undefined {
   if (!full) return undefined
-  const m = full.match(new RegExp(String.raw`(\S+)\s+(\d+[,:]\s?${verseRef})$`))
+  const m = full.match(new RegExp(String.raw`(\S+)\s+(?:\(\S+\s+)?(\d+[,:]\s?${verseRef})\)?$`))
   return m ? `${m[1]} ${m[2].replace(/\s+/g, '')}` : full
 }
 

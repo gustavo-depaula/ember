@@ -105,6 +105,9 @@ describe('compactCitation', () => {
       'João 3,16-18',
     )
     expect(compactCitation('From the Gospel according to John 3:16-18')).toBe('John 3:16-18')
+    expect(
+      compactCitation('Proclamação do Evangelho de Jesus Cristo segundo João (Jo 6,37-40)'),
+    ).toBe('João 6,37-40')
   })
 
   it('keeps half-verse letters in the reference', () => {
