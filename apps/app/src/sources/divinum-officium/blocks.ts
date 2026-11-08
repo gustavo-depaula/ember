@@ -236,7 +236,7 @@ export function mapItemsToPrimitives(primaryItems: string[], latinItems?: string
     const latin = latinItems?.[i]
     const pairs = pairSegments(
       linesOf(primary).map(classify),
-      latin && linesOf(latin).map(classify),
+      latin === undefined ? undefined : linesOf(latin).map(classify),
     )
 
     for (const [p, l] of pairs) {
