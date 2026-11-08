@@ -198,16 +198,14 @@ export function getEfLiturgicalPosition(date: Date): EfLiturgicalPosition {
 }
 
 /**
- * The EF calendar has a variable number of Sundays after Pentecost (23-28).
- * The book provides:
- * - 24 regular post-Pentecost weeks (weeks 1-24 in the book)
- * - A "last" week (25th in the book) that is always the final week before Advent
- * - 4 "leftover" Epiphany weeks (3rd-6th) used when there are more than 24 Sundays
- *
- * Layout rules:
- * - Weeks 1 through min(totalWeeks-1, 24) map to post-pentecost/1..N
- * - If totalWeeks > 25: extra weeks filled with epiphany-leftover/3, /4, /5, /6
- * - The final week always maps to post-pentecost/25 (the "last" week)
+ * The EF calendar has 23 to 28 Sundays after Pentecost. The 24th's Mass is
+ * always the last Sunday's; when there are more than 24, the Sundays after
+ * Epiphany that Septuagesima cut short are resumed before it, ending with the
+ * 6th: with 25 Sundays the 6th, with 26 the 5th and 6th, and so on back to the
+ * 3rd. A meditation book keys them:
+ * - `post-pentecost/1..23`: the Sundays after Pentecost and their weeks
+ * - `epiphany-leftover/3..6`: the resumed Sundays after Epiphany
+ * - `post-pentecost/25`: the last week before Advent
  *
  * Returns a map from raw week number → source key prefix (without day-of-week).
  */
@@ -217,33 +215,14 @@ export function getPostPentecostWeekMapping(year: number): Map<number, string> {
   const adventStart = getFirstSundayOfAdvent(year)
   const totalWeeks = Math.floor(daysBetween(trinitySunday, adventStart) / 7)
 
+  const resumed = Math.max(0, totalWeeks - 24)
+  const regular = totalWeeks - 1 - resumed
+
   const mapping = new Map<number, string>()
-
-  if (totalWeeks <= 25) {
-    // Weeks 1 through totalWeeks-1 map normally, last week = 25
-    for (let w = 1; w < totalWeeks; w++) {
-      mapping.set(w, `post-pentecost/${w}`)
-    }
-    mapping.set(totalWeeks, 'post-pentecost/25')
-  } else {
-    // More than 25 weeks: insert leftover Epiphany weeks before the last
-    const regularWeeks = 24
-    const leftoverCount = totalWeeks - 25
-    const leftoverStart = 3 // Epiphany weeks 3-6 are the overflow source
-
-    // First 24 weeks map normally
-    for (let w = 1; w <= regularWeeks; w++) {
-      mapping.set(w, `post-pentecost/${w}`)
-    }
-
-    // Insert leftover Epiphany weeks
-    for (let i = 0; i < leftoverCount && i < 4; i++) {
-      mapping.set(regularWeeks + 1 + i, `epiphany-leftover/${leftoverStart + i}`)
-    }
-
-    // Last week is always post-pentecost/25
-    mapping.set(totalWeeks, 'post-pentecost/25')
+  for (let w = 1; w <= regular; w++) mapping.set(w, `post-pentecost/${w}`)
+  for (let i = 0; i < resumed; i++) {
+    mapping.set(regular + 1 + i, `epiphany-leftover/${7 - resumed + i}`)
   }
-
+  mapping.set(totalWeeks, 'post-pentecost/25')
   return mapping
 }

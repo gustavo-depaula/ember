@@ -240,6 +240,21 @@ describe('getPostPentecostWeekMapping', () => {
     }
   })
 
+  it('resumes the Sundays after Epiphany after the 23rd, ending with the 6th', () => {
+    // 2026: Pentecost May 24, 26 Sundays after it. Nov 8 (the 24th) takes the
+    // 5th after Epiphany, Nov 15 the 6th, Nov 22 the last Sunday's Mass.
+    const mapping = getPostPentecostWeekMapping(2026)
+    expect([23, 24, 25, 26].map((w) => mapping.get(w))).toEqual([
+      'post-pentecost/23',
+      'epiphany-leftover/5',
+      'epiphany-leftover/6',
+      'post-pentecost/25',
+    ])
+    // 2025: Pentecost June 8, 24 Sundays: none resumed, the 24th is the last.
+    const short = getPostPentecostWeekMapping(2025)
+    expect([23, 24].map((w) => short.get(w))).toEqual(['post-pentecost/23', 'post-pentecost/25'])
+  })
+
   it('has no gaps in week numbers', () => {
     for (const year of years) {
       const mapping = getPostPentecostWeekMapping(year)
