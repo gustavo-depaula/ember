@@ -19,7 +19,8 @@
   "composed": "1577",
   "languages": [
     "es-ES",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "teresa-of-avila/moradas",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "Benedictines of Stanbrook",
       "year": 1921
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -62,28 +68,32 @@
       "id": "prologo",
       "title": {
         "es-ES": "Prólogo",
-        "en-US": "Prologue"
+        "en-US": "Prologue",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "m1",
       "title": {
         "es-ES": "Moradas primeras",
-        "en-US": "The First Mansions"
+        "en-US": "The First Mansions",
+        "pt-BR": "Primeiras moradas"
       },
       "children": [
         {
           "id": "m1-c1",
           "title": {
             "es-ES": "Capítulo I",
-            "en-US": "Chapter I"
+            "en-US": "Chapter I",
+            "pt-BR": "Capítulo I"
           }
         },
         {
           "id": "m1-c2",
           "title": {
             "es-ES": "Capítulo II",
-            "en-US": "Chapter II"
+            "en-US": "Chapter II",
+            "pt-BR": "Capítulo II"
           }
         }
       ]
@@ -92,28 +102,32 @@
       "id": "m2",
       "title": {
         "es-ES": "Moradas segundas",
-        "en-US": "The Second Mansions"
+        "en-US": "The Second Mansions",
+        "pt-BR": "Segundas moradas"
       }
     },
     {
       "id": "m3",
       "title": {
         "es-ES": "Terceras moradas",
-        "en-US": "The Third Mansions"
+        "en-US": "The Third Mansions",
+        "pt-BR": "Terceiras moradas"
       },
       "children": [
         {
           "id": "m3-c1",
           "title": {
             "es-ES": "Capítulo I",
-            "en-US": "Chapter I"
+            "en-US": "Chapter I",
+            "pt-BR": "Capítulo I"
           }
         },
         {
           "id": "m3-c2",
           "title": {
             "es-ES": "Capítulo II",
-            "en-US": "Chapter II"
+            "en-US": "Chapter II",
+            "pt-BR": "Capítulo II"
           }
         }
       ]
@@ -122,28 +136,32 @@
       "id": "m4",
       "title": {
         "es-ES": "Cuartas moradas",
-        "en-US": "The Fourth Mansions"
+        "en-US": "The Fourth Mansions",
+        "pt-BR": "Quartas moradas"
       },
       "children": [
         {
           "id": "m4-c1",
           "title": {
             "es-ES": "Capítulo I",
-            "en-US": "Chapter I"
+            "en-US": "Chapter I",
+            "pt-BR": "Capítulo I"
           }
         },
         {
           "id": "m4-c2",
           "title": {
             "es-ES": "Capítulo II",
-            "en-US": "Chapter II"
+            "en-US": "Chapter II",
+            "pt-BR": "Capítulo II"
           }
         },
         {
           "id": "m4-c3",
           "title": {
             "es-ES": "Capítulo III",
-            "en-US": "Chapter III"
+            "en-US": "Chapter III",
+            "pt-BR": "Capítulo III"
           }
         }
       ]
@@ -152,35 +170,40 @@
       "id": "m5",
       "title": {
         "es-ES": "Moradas quintas",
-        "en-US": "The Fifth Mansions"
+        "en-US": "The Fifth Mansions",
+        "pt-BR": "Quintas moradas"
       },
       "children": [
         {
           "id": "m5-c1",
           "title": {
             "es-ES": "Capítulo I",
-            "en-US": "Chapter I"
+            "en-US": "Chapter I",
+            "pt-BR": "Capítulo I"
           }
         },
         {
           "id": "m5-c2",
           "title": {
             "es-ES": "Capítulo II",
-            "en-US": "Chapter II"
+            "en-US": "Chapter II",
+            "pt-BR": "Capítulo II"
           }
         },
         {
           "id": "m5-c3",
           "title": {
             "es-ES": "Capítulo III",
-            "en-US": "Chapter III"
+            "en-US": "Chapter III",
+            "pt-BR": "Capítulo III"
           }
         },
         {
           "id": "m5-c4",
           "title": {
             "es-ES": "Capítulo IV",
-            "en-US": "Chapter IV"
+            "en-US": "Chapter IV",
+            "pt-BR": "Capítulo IV"
           }
         }
       ]
@@ -189,84 +212,96 @@
       "id": "m6",
       "title": {
         "es-ES": "Moradas sextas",
-        "en-US": "The Sixth Mansions"
+        "en-US": "The Sixth Mansions",
+        "pt-BR": "Sextas moradas"
       },
       "children": [
         {
           "id": "m6-c1",
           "title": {
             "es-ES": "Capítulo I",
-            "en-US": "Chapter I"
+            "en-US": "Chapter I",
+            "pt-BR": "Capítulo I"
           }
         },
         {
           "id": "m6-c2",
           "title": {
             "es-ES": "Capítulo II",
-            "en-US": "Chapter II"
+            "en-US": "Chapter II",
+            "pt-BR": "Capítulo II"
           }
         },
         {
           "id": "m6-c3",
           "title": {
             "es-ES": "Capítulo III",
-            "en-US": "Chapter III"
+            "en-US": "Chapter III",
+            "pt-BR": "Capítulo III"
           }
         },
         {
           "id": "m6-c4",
           "title": {
             "es-ES": "Capítulo IV",
-            "en-US": "Chapter IV"
+            "en-US": "Chapter IV",
+            "pt-BR": "Capítulo IV"
           }
         },
         {
           "id": "m6-c5",
           "title": {
             "es-ES": "Capítulo V",
-            "en-US": "Chapter V"
+            "en-US": "Chapter V",
+            "pt-BR": "Capítulo V"
           }
         },
         {
           "id": "m6-c6",
           "title": {
             "es-ES": "Capítulo VI",
-            "en-US": "Chapter VI"
+            "en-US": "Chapter VI",
+            "pt-BR": "Capítulo VI"
           }
         },
         {
           "id": "m6-c7",
           "title": {
             "es-ES": "Capítulo VII",
-            "en-US": "Chapter VII"
+            "en-US": "Chapter VII",
+            "pt-BR": "Capítulo VII"
           }
         },
         {
           "id": "m6-c8",
           "title": {
             "es-ES": "Capítulo VIII",
-            "en-US": "Chapter VIII"
+            "en-US": "Chapter VIII",
+            "pt-BR": "Capítulo VIII"
           }
         },
         {
           "id": "m6-c9",
           "title": {
             "es-ES": "Capítulo IX",
-            "en-US": "Chapter IX"
+            "en-US": "Chapter IX",
+            "pt-BR": "Capítulo IX"
           }
         },
         {
           "id": "m6-c10",
           "title": {
             "es-ES": "Capítulo X",
-            "en-US": "Chapter X"
+            "en-US": "Chapter X",
+            "pt-BR": "Capítulo X"
           }
         },
         {
           "id": "m6-c11",
           "title": {
             "es-ES": "Capítulo XI",
-            "en-US": "Chapter XI"
+            "en-US": "Chapter XI",
+            "pt-BR": "Capítulo XI"
           }
         }
       ]
@@ -275,35 +310,40 @@
       "id": "m7",
       "title": {
         "es-ES": "Sétimas moradas",
-        "en-US": "The Seventh Mansions"
+        "en-US": "The Seventh Mansions",
+        "pt-BR": "Sétimas moradas"
       },
       "children": [
         {
           "id": "m7-c1",
           "title": {
             "es-ES": "Capítulo I",
-            "en-US": "Chapter I"
+            "en-US": "Chapter I",
+            "pt-BR": "Capítulo I"
           }
         },
         {
           "id": "m7-c2",
           "title": {
             "es-ES": "Capítulo II",
-            "en-US": "Chapter II"
+            "en-US": "Chapter II",
+            "pt-BR": "Capítulo II"
           }
         },
         {
           "id": "m7-c3",
           "title": {
             "es-ES": "Capítulo III",
-            "en-US": "Chapter III"
+            "en-US": "Chapter III",
+            "pt-BR": "Capítulo III"
           }
         },
         {
           "id": "m7-c4",
           "title": {
             "es-ES": "Capítulo IV",
-            "en-US": "Chapter IV"
+            "en-US": "Chapter IV",
+            "pt-BR": "Capítulo IV"
           }
         }
       ]
@@ -312,7 +352,8 @@
       "id": "epilogo",
       "title": {
         "es-ES": "Epílogo",
-        "en-US": "Epilogue"
+        "en-US": "Epilogue",
+        "pt-BR": "Epílogo"
       }
     }
   ]
