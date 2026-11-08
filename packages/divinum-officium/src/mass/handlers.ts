@@ -10,6 +10,7 @@ import { nooctnat } from '../kalendar/occurrence'
 import { officestring, sessionWithLang } from '../kalendar/officestring'
 import { num, subdirname } from '../kalendar/state'
 import { type Sections, setupstring } from '../references/resolve'
+import { isSectioned } from '../types'
 import { chompd, commemoratioOf, communeOf, type MassState, winnerOf } from './state'
 
 async function setup(state: MassState, lang: string, fname: string): Promise<Sections> {
@@ -929,9 +930,19 @@ export const scriptFunctions: Record<
     if (/defunct|C9/i.test(state.rule)) return state.texts.prayer('Requiem', lang)
     return state.texts.prayer('Gloria', lang)
   },
-  // The Perl renders a popup link labelled 'Communio' (the faithful's
-  // communion devotions, Ordo/Communio.txt). TODO: inline the content.
-  Communio_Populi: () => 'Communio\n',
+  // The Perl links 'Communio' to a popup of the faithful's communion
+  // (Ordo/Communio.txt: Ecce Agnus Dei, Domine non sum dignus, the words of
+  // administration); here it is read inline, through the Ordo's language
+  // chain. A line ending in '~' runs on into the next, as in the Perl.
+  Communio_Populi: async (state, lang) => {
+    for (const l of [lang, state.session.fallbackLang, 'Latin']) {
+      const file = await state.session.loader.load(`missa/${l}/Ordo/Communio`)
+      if (!file) continue
+      const lines = isSectioned(file) ? file.sections.flatMap((s) => s.lines) : file.lines
+      return `${lines.join('\n').replace(/\s*~\s*\n/g, ' ')}\n`
+    }
+    return ''
+  },
   Ultimaev: async (state, lang) => {
     const { ctx } = state.day
     const version = ctx.version

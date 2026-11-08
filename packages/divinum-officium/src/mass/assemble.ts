@@ -191,6 +191,8 @@ export async function assembleMass(opts: {
   year: number
   version: string
   lang2?: string // DO dir name ('English', 'Portugues'); omit for Latin-only
+  /** Where a vernacular text is missing, the language read instead before Latin; DO's own is English. */
+  fallbackLang?: string
   solemn?: boolean
   propers?: boolean
 }): Promise<AssembledMass> {
@@ -205,6 +207,7 @@ export async function assembleMass(opts: {
     lang1: 'Latin',
   })
 
+  if (opts.fallbackLang) day.state.session.fallbackLang = opts.fallbackLang
   const texts = createTextTables(day.state.session, true)
   const lang2 = opts.lang2 ?? 'Latin'
 

@@ -704,6 +704,8 @@ export async function assembleHour(opts: {
   version: string
   hora: 'Prima' | 'Tertia' | 'Sexta' | 'Nona' | 'Completorium' | 'Matutinum' | 'Laudes' | 'Vespera'
   lang2?: string
+  /** Where a vernacular text is missing, the language read instead before Latin; DO's own is English. */
+  fallbackLang?: string
   priest?: boolean
   votive?: string
 }): Promise<AssembledHour> {
@@ -725,6 +727,7 @@ export async function assembleHour(opts: {
     caller: 0,
   })
 
+  if (opts.fallbackLang) day.state.session.fallbackLang = opts.fallbackLang
   const texts = createTextTables(day.state.session, false)
 
   const state: HoursState = {
