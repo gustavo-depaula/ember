@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on the De Caelo et Mundo",
-    "la": "Sententia super De Caelo et Mundo"
+    "la": "Sententia super De Caelo et Mundo",
+    "pt-BR": "Comentário ao Sobre o céu e o mundo"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's commentary on Aristotle's *De Caelo et Mundo* — the cosmological treatise on the heavens, the elements, and motion. Unfinished — Aquinas covered Book I and part of Book III before his death.",
-    "la": "Expositio *De Caelo et Mundo* Aristotelis — tractatus cosmologicus de caelis, de elementis, de motu. Opus inchoatum — Librum I et partem Libri III antequam moreretur composuit."
+    "la": "Expositio *De Caelo et Mundo* Aristotelis — tractatus cosmologicus de caelis, de elementis, de motu. Opus inchoatum — Librum I et partem Libri III antequam moreretur composuit.",
+    "pt-BR": "Comentário de Tomás de Aquino ao *Sobre o céu e o mundo* de Aristóteles — o tratado cosmológico sobre os céus, os elementos e o movimento. Inacabado — Tomás de Aquino comentou os Livros I e II e parte do Livro III antes de sua morte."
   },
   "composed": "1272–1273",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,217 +39,248 @@
       "id": "g1",
       "title": {
         "en-US": "Book 1",
-        "la": "Liber 1"
+        "la": "Liber 1",
+        "pt-BR": "Livro 1"
       },
       "children": [
         {
           "id": "g1-pr",
           "title": {
             "en-US": "Prologue",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo"
           }
         },
         {
           "id": "g1-c001",
           "title": {
             "en-US": "Lecture 1 — The things it pertains to natural science to consider",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Das coisas que compete à ciência natural considerar"
           }
         },
         {
           "id": "g1-c002",
           "title": {
             "en-US": "Lecture 2 — The perfection of the universe both as body and as containing all",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A perfeição do universo enquanto corpo e enquanto contém todas as coisas"
           }
         },
         {
           "id": "g1-c003",
           "title": {
             "en-US": "Lecture 3 — Preliminary notions for showing the parts perfecting the universe.",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Noções preliminares para mostrar as partes que constituem a perfeição do universo"
           }
         },
         {
           "id": "g1-c004",
           "title": {
             "en-US": "Lecture 4 — Five reasons why, besides the elements, there must be another simple body",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Cinco argumentos pelos quais, além dos elementos, deve existir outro corpo simples"
           }
         },
         {
           "id": "g1-c005",
           "title": {
             "en-US": "Lecture 5 — Difference of the body moved circularly as to light and heavy",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Diferença do corpo que se move circularmente quanto ao leve e ao pesado"
           }
         },
         {
           "id": "g1-c006",
           "title": {
             "en-US": "Lecture 6 — The fifth body not subject to other motions",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — O quinto corpo não está sujeito a outros movimentos"
           }
         },
         {
           "id": "g1-c007",
           "title": {
             "en-US": "Lecture 7 — The heavenly body is not subject to growth and decrease, or to alteration",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — O corpo celeste não está sujeito ao crescimento, à diminuição nem à alteração"
           }
         },
         {
           "id": "g1-c008",
           "title": {
             "en-US": "Lecture 8 — Only five simple bodies required. No motion contrary to circular.",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Somente cinco corpos simples são necessários. Nenhum movimento é contrário ao circular"
           }
         },
         {
           "id": "g1-c009",
           "title": {
             "en-US": "Lecture 9 — The need for treating of the infinity of the universe",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — A necessidade de tratar da infinitude do universo"
           }
         },
         {
           "id": "g1-c010",
           "title": {
             "en-US": "Lecture 10 — The second and third reasons proving the circularly moved body not infinite",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — O segundo e o terceiro argumentos que provam não ser infinito o corpo que se move circularmente"
           }
         },
         {
           "id": "g1-c011",
           "title": {
             "en-US": "Lecture 11 — Three additional reasons why the body moving circularly cannot be infinite",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — Mais três argumentos pelos quais o corpo que se move circularmente não pode ser infinito"
           }
         },
         {
           "id": "g1-c012",
           "title": {
             "en-US": "Lecture 12 — Various reasons why a body moving in a straight line is not infinite",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — Diversos argumentos pelos quais um corpo que se move em linha reta não é infinito"
           }
         },
         {
           "id": "g1-c013",
           "title": {
             "en-US": "Lecture 13 — A natural and demonstrative argument showing no natural body can be infinite",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — Um argumento da ciência natural e demonstrativo que mostra não poder ser infinito nenhum corpo natural"
           }
         },
         {
           "id": "g1-c014",
           "title": {
             "en-US": "Lecture 14 — No sensible body is infinite",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14 — Nenhum corpo sensível é infinito"
           }
         },
         {
           "id": "g1-c015",
           "title": {
             "en-US": "Lecture 15 — Logical reasons why no body is infinite",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15 — Argumentos lógicos pelos quais nenhum corpo é infinito"
           }
         },
         {
           "id": "g1-c016",
           "title": {
             "en-US": "Lecture 16 — Two arguments for one universe, taken from lower bodies",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16 — Dois argumentos em favor de um único universo, tomados dos corpos inferiores"
           }
         },
         {
           "id": "g1-c017",
           "title": {
             "en-US": "Lecture 17 — A third argument from lower bodies. Natural bodies have determinate places",
-            "la": "Lectio 17"
+            "la": "Lectio 17",
+            "pt-BR": "Lição 17 — Um terceiro argumento tomado dos corpos inferiores. Os corpos naturais têm lugares determinados"
           }
         },
         {
           "id": "g1-c018",
           "title": {
             "en-US": "Lecture 18 — Exclusion of the opinion that natural bodies are not moved naturally to determined places. Unity of the world from higher bodies",
-            "la": "Lectio 18"
+            "la": "Lectio 18",
+            "pt-BR": "Lição 18 — Refutação da opinião de que os corpos naturais não se movem naturalmente para lugares determinados. A unidade do mundo demonstrada a partir dos corpos superiores"
           }
         },
         {
           "id": "g1-c019",
           "title": {
             "en-US": "Lecture 19 — Solution of the argument seeming to justify several worlds",
-            "la": "Lectio 19"
+            "la": "Lectio 19",
+            "pt-BR": "Lição 19 — Solução do argumento que parece justificar a existência de vários mundos"
           }
         },
         {
           "id": "g1-c020",
           "title": {
             "en-US": "Lecture 20 — The universe shown to consist of every natural and sensible body as its matter",
-            "la": "Lectio 20"
+            "la": "Lectio 20",
+            "pt-BR": "Lição 20 — Mostra-se que o universo é constituído de todos os corpos naturais e sensíveis como sua matéria"
           }
         },
         {
           "id": "g1-c021",
           "title": {
             "en-US": "Lecture 21 — Outside the heaven there is no place, time etc., consequent upon sensible bodies",
-            "la": "Lectio 21"
+            "la": "Lectio 21",
+            "pt-BR": "Lição 21 — Fora do céu não há lugar, tempo nem outras coisas decorrentes dos corpos sensíveis"
           }
         },
         {
           "id": "g1-c022",
           "title": {
             "en-US": "Lecture 22 — Whether the universe is infinite by eternal duration",
-            "la": "Lectio 22"
+            "la": "Lectio 22",
+            "pt-BR": "Lição 22 — Se o universo é infinito por sua duração eterna"
           }
         },
         {
           "id": "g1-c023",
           "title": {
             "en-US": "Lecture 23 — A Platonic evasion rejected. Two remaining opinions disproved",
-            "la": "Lectio 23"
+            "la": "Lectio 23",
+            "pt-BR": "Lição 23 — Rejeição de uma evasiva platônica. Refutação das duas opiniões restantes"
           }
         },
         {
           "id": "g1-c024",
           "title": {
             "en-US": "Lecture 24 — Various meanings of \"generable\" and \"ungenerable,\" \"corruptible\" and \"incorruptible\"",
-            "la": "Lectio 24"
+            "la": "Lectio 24",
+            "pt-BR": "Lição 24 — Diversos sentidos de “gerável” e “ingerável”, “corruptível” e “incorruptível”"
           }
         },
         {
           "id": "g1-c025",
           "title": {
             "en-US": "Lecture 25 — How something is said to be \"possible\" and \"impossible\"",
-            "la": "Lectio 25"
+            "la": "Lectio 25",
+            "pt-BR": "Lição 25 — Como se diz que algo é “possível” e “impossível”"
           }
         },
         {
           "id": "g1-c026",
           "title": {
             "en-US": "Lecture 26 — Everything eternal is indestructible and ungenerated",
-            "la": "Lectio 26"
+            "la": "Lectio 26",
+            "pt-BR": "Lição 26 — Tudo o que é eterno é indestrutível e não gerado"
           }
         },
         {
           "id": "g1-c027",
           "title": {
             "en-US": "Lecture 27 — Nothing eternal generated and corrupted, and conversely nothing generated and corruptible is eternal",
-            "la": "Lectio 27"
+            "la": "Lectio 27",
+            "pt-BR": "Lição 27 — Nada eterno é gerado e corrompido e, inversamente, nada gerado e corruptível é eterno"
           }
         },
         {
           "id": "g1-c028",
           "title": {
             "en-US": "Lecture 28 — Generated and corruptible, ungenerated and incorruptible, follow on each other",
-            "la": "Lectio 28"
+            "la": "Lectio 28",
+            "pt-BR": "Lição 28 — Gerado e corruptível, não gerado e incorruptível implicam-se mutuamente"
           }
         },
         {
           "id": "g1-c029",
           "title": {
             "en-US": "Lecture 29 — Refutation of corruptible ungenerated and incorruptible generated. Argument from natural science",
-            "la": "Lectio 29"
+            "la": "Lectio 29",
+            "pt-BR": "Lição 29 — Refutação do corruptível não gerado e do incorruptível gerado. Argumento da ciência natural"
           }
         }
       ]
@@ -254,203 +289,232 @@
       "id": "g2",
       "title": {
         "en-US": "Book 2",
-        "la": "Liber 2"
+        "la": "Liber 2",
+        "pt-BR": "Livro 2"
       },
       "children": [
         {
           "id": "g2-c001",
           "title": {
             "en-US": "Lecture 1 — The heaven is eternal and its motion endless and without labor. Contrary opinions excluded",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — O céu é eterno e seu movimento não tem fim nem esforço. Refutação das opiniões contrárias"
           }
         },
         {
           "id": "g2-c002",
           "title": {
             "en-US": "Lecture 2 — Diversity of parts of the heaven as to position. Opinion of Pythagoras",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Diversidade das partes do céu quanto à posição. Opinião de Pitágoras"
           }
         },
         {
           "id": "g2-c003",
           "title": {
             "en-US": "Lecture 3 — How, according to the Philosopher's opinion, the differences of position befit the parts of the heaven",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Como, segundo a opinião do Filósofo, as diferenças de posição convêm às partes do céu"
           }
         },
         {
           "id": "g2-c004",
           "title": {
             "en-US": "Lecture 4 — The reason why there are in the heaven, several spheres moved with a circular motion",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A razão pela qual há no céu várias esferas que se movem por movimento circular"
           }
         },
         {
           "id": "g2-c005",
           "title": {
             "en-US": "Lecture 5 — Spherical shape of the heaven shown from fact that it is the first of figures",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A forma esférica do céu demonstrada por ser a primeira das figuras"
           }
         },
         {
           "id": "g2-c006",
           "title": {
             "en-US": "Lecture 6 — The heavens must be spherical, because this shape is most fitting",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — Os céus devem ser esféricos, porque essa forma é a mais conveniente"
           }
         },
         {
           "id": "g2-c007",
           "title": {
             "en-US": "Lecture 7 — Why the circular motion of the heaven is in one direction rather than another",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Por que o movimento circular do céu se dá em uma direção e não em outra"
           }
         },
         {
           "id": "g2-c008",
           "title": {
             "en-US": "Lecture 8 — The regularity, or uniform velocity, of the heaven's motion shown by two arguments",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — A regularidade, ou velocidade uniforme, do movimento do céu demonstrada por dois argumentos"
           }
         },
         {
           "id": "g2-c009",
           "title": {
             "en-US": "Lecture 9 — Two other arguments, proving no irregularity in the motion of the heaven",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — Dois outros argumentos que provam não haver irregularidade no movimento do céu"
           }
         },
         {
           "id": "g2-c010",
           "title": {
             "en-US": "Lecture 10 — On the nature of the stars",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — Da natureza dos astros"
           }
         },
         {
           "id": "g2-c011",
           "title": {
             "en-US": "Lecture 11 — Proof that the stars move, not of themselves, but as carried by the motion of the spheres, from a comparison with their, circles",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — Prova de que os astros se movem levados pelo movimento das esferas, e não por si mesmos, mediante a comparação com seus círculos"
           }
         },
         {
           "id": "g2-c012",
           "title": {
             "en-US": "Lecture 12 — That the stars do not move themselves concluded from the motions proper to the spherical shape",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — Conclui-se, a partir dos movimentos próprios da forma esférica, que os astros não movem a si mesmos"
           }
         },
         {
           "id": "g2-c013",
           "title": {
             "en-US": "Lecture 13 — From their shape the stars shown, not to move themselves. No sense power in the heavenly, bodies",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — Pela forma dos astros, mostra-se que não movem a si mesmos. Não há potência sensitiva nos corpos celestes"
           }
         },
         {
           "id": "g2-c014",
           "title": {
             "en-US": "Lecture 14 — Indirect and direct proof that heavenly bodies do not produce sounds",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14 — Provas indireta e direta de que os corpos celestes não produzem sons"
           }
         },
         {
           "id": "g2-c015",
           "title": {
             "en-US": "Lecture 15 — Swiftness and slowness in the motion of the planets proportionate to their distance from the first sphere and the earth",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15 — A rapidez e a lentidão do movimento dos planetas são proporcionais à sua distância da primeira esfera e da terra"
           }
         },
         {
           "id": "g2-c016",
           "title": {
             "en-US": "Lecture 16 — By reason, and by what sensibly appears, the stars are proved to be spherical in shape",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16 — Pela razão e pelo que aparece aos sentidos, prova-se que os astros têm forma esférica"
           }
         },
         {
           "id": "g2-c017",
           "title": {
             "en-US": "Lecture 17 — Two difficulties proposed in connection with what has been determined about the stars",
-            "la": "Lectio 17"
+            "la": "Lectio 17",
+            "pt-BR": "Lição 17 — Duas dificuldades propostas a respeito do que se estabeleceu sobre os astros"
           }
         },
         {
           "id": "g2-c018",
           "title": {
             "en-US": "Lecture 18 — The first difficulty, concerning the number of motions of the stars, is solved. The number shown to agree with modern astronomers",
-            "la": "Lectio 18"
+            "la": "Lectio 18",
+            "pt-BR": "Lição 18 — Solução da primeira dificuldade, relativa ao número dos movimentos dos astros. Mostra-se que esse número concorda com o dos astrônomos modernos"
           }
         },
         {
           "id": "g2-c019",
           "title": {
             "en-US": "Lecture 19 — The second difficulty of Lecture 17 is resolved",
-            "la": "Lectio 19"
+            "la": "Lectio 19",
+            "pt-BR": "Lição 19 — Solução da segunda dificuldade da Lição 17"
           }
         },
         {
           "id": "g2-c020",
           "title": {
             "en-US": "Lecture 20 — Opinions of the philosophers as to the site of the earth. Pythagorean theory, of fire in the center relected",
-            "la": "Lectio 20"
+            "la": "Lectio 20",
+            "pt-BR": "Lição 20 — Opiniões dos filósofos sobre a posição da terra. Refutação da teoria pitagórica do fogo no centro"
           }
         },
         {
           "id": "g2-c021",
           "title": {
             "en-US": "Lecture 21 — Different opinions of the motion, rest, and shape of the earth",
-            "la": "Lectio 21"
+            "la": "Lectio 21",
+            "pt-BR": "Lição 21 — Diferentes opiniões sobre o movimento, o repouso e a forma da terra"
           }
         },
         {
           "id": "g2-c022",
           "title": {
             "en-US": "Lecture 22 — The problem about the earth's rest",
-            "la": "Lectio 22"
+            "la": "Lectio 22",
+            "pt-BR": "Lição 22 — O problema do repouso da terra"
           }
         },
         {
           "id": "g2-c023",
           "title": {
             "en-US": "Lecture 23 — The cause of the earth's rest is not supporting air",
-            "la": "Lectio 23"
+            "la": "Lectio 23",
+            "pt-BR": "Lição 23 — A causa do repouso da terra não é o ar que a sustenta"
           }
         },
         {
           "id": "g2-c024",
           "title": {
             "en-US": "Lecture 24 — Earth's rest not from gyration of the heaven",
-            "la": "Lectio 24"
+            "la": "Lectio 24",
+            "pt-BR": "Lição 24 — O repouso da terra não provém da rotação do céu"
           }
         },
         {
           "id": "g2-c025",
           "title": {
             "en-US": "Lecture 25 — Reason for earth's rest not from same relation to every part of the heaven",
-            "la": "Lectio 25"
+            "la": "Lectio 25",
+            "pt-BR": "Lição 25 — A razão do repouso da terra não está em sua relação igual com todas as partes do céu"
           }
         },
         {
           "id": "g2-c026",
           "title": {
             "en-US": "Lecture 26 — Proof of the earth's rest in the middle",
-            "la": "Lectio 26"
+            "la": "Lectio 26",
+            "pt-BR": "Lição 26 — Prova do repouso da terra no centro"
           }
         },
         {
           "id": "g2-c027",
           "title": {
             "en-US": "Lecture 27 — Proof of the earth's spherical shape from motion",
-            "la": "Lectio 27"
+            "la": "Lectio 27",
+            "pt-BR": "Lição 27 — Prova da forma esférica da terra a partir do movimento"
           }
         },
         {
           "id": "g2-c028",
           "title": {
             "en-US": "Lecture 28 — Proofs of the earth's sphericity from the angle of motion of its parts and from astronomy",
-            "la": "Lectio 28"
+            "la": "Lectio 28",
+            "pt-BR": "Lição 28 — Provas da esfericidade da terra a partir do ângulo do movimento de suas partes e da astronomia"
           }
         }
       ]
@@ -459,63 +523,72 @@
       "id": "g3",
       "title": {
         "en-US": "Book 3",
-        "la": "Liber 3"
+        "la": "Liber 3",
+        "pt-BR": "Livro 3"
       },
       "children": [
         {
           "id": "g3-c001",
           "title": {
             "en-US": "Lecture 1 — What has gone before and what remains to be treated",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — O que já foi exposto e o que resta tratar"
           }
         },
         {
           "id": "g3-c002",
           "title": {
             "en-US": "Lecture 2 — Opinions of the ancients on the generation of things",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Opiniões dos antigos sobre a geração das coisas"
           }
         },
         {
           "id": "g3-c003",
           "title": {
             "en-US": "Lecture 3 — Bodies not generated from surfaces—proved mathematically and naturally",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Os corpos não são gerados de superfícies: provas da matemática e da ciência natural"
           }
         },
         {
           "id": "g3-c004",
           "title": {
             "en-US": "Lecture 4 — Other natural arguments against Plato's opinion. Pythagorean opinion refuted",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Outros argumentos da ciência natural contra a opinião de Platão. Refutação da opinião pitagórica"
           }
         },
         {
           "id": "g3-c005",
           "title": {
             "en-US": "Lecture 5 — Natural motion in natural bodies. Leucippus and Democritus",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — O movimento natural nos corpos naturais. Leucipo e Demócrito"
           }
         },
         {
           "id": "g3-c006",
           "title": {
             "en-US": "Lecture 6 — Refutation of Plato's opinion of disordered motion before the world",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — Refutação da opinião de Platão sobre o movimento desordenado anterior ao mundo"
           }
         },
         {
           "id": "g3-c007",
           "title": {
             "en-US": "Lecture 7 — Every body moving naturally in a straight line has either gravity or lightness, Natural and violent motions",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Todo corpo que se move naturalmente em linha reta possui peso ou leveza. Movimentos naturais e violentos"
           }
         },
         {
           "id": "g3-c008",
           "title": {
             "en-US": "Lecture 8 — Not everything is generated. Elements and their existence",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Nem tudo é gerado. Os elementos e sua existência"
           }
         }
       ]
@@ -524,14 +597,16 @@
       "id": "g4",
       "title": {
         "en-US": "Book 4",
-        "la": "Liber 4"
+        "la": "Liber 4",
+        "pt-BR": "Livro 4"
       },
       "children": [
         {
           "id": "g4-pr",
           "title": {
             "en-US": "Prologue",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo"
           }
         }
       ]
@@ -540,5 +615,12 @@
   "arrived": {
     "en-US": "2026-06-04",
     "la": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
+    }
   }
 }
