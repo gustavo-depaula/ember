@@ -179,6 +179,10 @@ genCall() { # system-prompt-file input output.json
   fi
 }
 
+# A book listed in review-only.txt already has its pt-BR, made outside this
+# pipeline: it skips translation and is only reviewed.
+grep -qxF -- "$spec" $here/review-only.txt 2> /dev/null && touch $run/translate.ok $run/review-only
+
 # Translation: single-shot calls over spans of the source (t2.py); if a span
 # cannot be got right in two calls, the whole book falls back to one agent session.
 if [[ ! -f $run/translate.ok ]]; then

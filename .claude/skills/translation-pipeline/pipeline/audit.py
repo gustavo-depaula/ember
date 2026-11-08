@@ -15,10 +15,11 @@ characters a file reader clips at) and split into parts small enough to load
 whole. Prints the names of the reading copies, one per line.
 """
 import glob, json, os, re, sys, textwrap
+from srclang import sourceLang
 
 book, out = sys.argv[1].rstrip("/"), sys.argv[2]
 only = set(sys.argv[3:])
-lang = "la" if os.path.isdir(book + "/la") else "en-US"
+lang = sourceLang(book)
 os.makedirs(out, exist_ok=True)
 for f in glob.glob(out + "/*.md"):
     os.remove(f)

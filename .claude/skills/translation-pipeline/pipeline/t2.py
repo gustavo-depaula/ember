@@ -16,13 +16,14 @@ in the message, so a call is one read of its span plus the answer.
   t2.py check <bookdir>                       final structural check; exits 1 on problems
 """
 import glob, json, os, re, sys, time
+from srclang import sourceLang
 
 unitWords = 9000
 here = os.path.dirname(os.path.abspath(__file__))
 
 
 def lang(book):
-    return "la" if os.path.isdir(book + "/la") else "en-US"
+    return sourceLang(book)
 
 
 def paras(t):
@@ -125,8 +126,8 @@ def prompt(book, k, out):
     us = units(book)
     spans = us[k - 1]
     parts = ["# Translation call %d of %d" % (k, len(us)), "", "Book: `%s`. Source: `%s/`." % (os.path.basename(book), lang(book)), ""]
-    if lang(book) == "la" and os.path.isdir(book + "/en-US"):
-        parts += ["The book has `la/` (the canonical source) and `en-US/` (a reference translation: consult it for register and terminology only). Both are given below for this call's paragraphs.", ""]
+    if lang(book) != "en-US" and os.path.isdir(book + "/en-US"):
+        parts += ["The book has `%s/` (the canonical source) and `en-US/` (a reference translation: consult it for register and terminology only). Both are given below for this call's paragraphs." % lang(book), ""]
     parts += ["## book.json" + (" (without its toc: this call translates one part of the book, `%s*` files; titles are done separately)" % scope if scope else ""), "", "```json", bookJsonText(book), "```", ""]
     if k == 1 and scope and os.path.exists(journalPath(book)):
         parts += ["## The book's journal so far (from its parts already translated)", "", journalNoLog(book), ""]
@@ -141,13 +142,18 @@ def prompt(book, k, out):
     parts += ["## Translate these paragraphs", ""]
     for ch, a, b in spans:
         ps = paras(open("%s/%s/%s" % (book, lang(book), ch)).read())
-        ref = paras(open("%s/en-US/%s" % (book, ch)).read()) if lang(book) == "la" and os.path.exists("%s/en-US/%s" % (book, ch)) else None
+        ref = paras(open("%s/en-US/%s" % (book, ch)).read()) if lang(book) != "en-US" and os.path.exists("%s/en-US/%s" % (book, ch)) else None
         parts += ["### %s, paragraphs %d–%d of %d" % (ch, a + 1, b + 1, len(ps)), ""]
         for i in range(a, b + 1):
             parts.append("[%d] %s" % (i + 1, ps[i]))
             if ref and len(ref) == len(ps):
                 parts.append("    (en-US reference: %s)" % ref[i])
             parts.append("")
+        # The Latin editions pair with their English paragraph for paragraph;
+        # a vernacular original (Teresa's Spanish, Francis de Sales's French)
+        # only chapter for chapter, so its English comes whole after the span.
+        if ref and len(ref) != len(ps) and lang(book) != "la":
+            parts += ["#### en-US reference: the whole of %s (paragraphed differently from the source; for register and terminology only, do not translate it)" % ch, ""] + ["    " + p.replace("\n", "\n    ") for p in ref] + [""]
     want = ["`=== pt-BR/%s [%d-%d] ===`" % (ch, a + 1, b + 1) for ch, a, b in spans]
     # Once the journal exists a call sends back only what it adds: resending a
     # long book's whole journal every call outgrew the output limit (Summa, call 14).

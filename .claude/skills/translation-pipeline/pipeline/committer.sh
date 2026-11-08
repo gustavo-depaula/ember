@@ -7,15 +7,18 @@ set -u
 
 here=${0:A:h}
 root=$(<$here/ROOT)
+# The inline Python checks import srclang.py from here.
+export PYTHONPATH=$here
 cd $root
 
 check() { # book [scope] -> prints problems, empty when clean
   python3.13 - content/books/$1 ${2:-} <<'EOF'
 import sys, re, json, glob, os, subprocess
+from srclang import sourceLang
 d = sys.argv[1]
 # One part of a long book (book#scope): that part's files and toc titles.
 scope = sys.argv[2] + "-" if len(sys.argv) > 2 and sys.argv[2] else ""
-lang = "la" if os.path.isdir(d + "/la") else "en-US"
+lang = sourceLang(d)
 problems = []
 paras = lambda f: [p for p in open(f).read().split("\n\n") if p.strip()]
 for src in sorted(glob.glob(d + "/" + lang + "/" + scope + "*.md")):
@@ -105,20 +108,25 @@ $defects defects fixed, last two rounds clean."
     part=$(jq -r --arg s $scope '.toc[] | select(.id == $s) | .title.la // .title["en-US"]' $d/book.json)
     python3.13 -c "
 import glob, json, os, sys
-d = sys.argv[1]; lang = 'la' if os.path.isdir(d + '/la') else 'en-US'
+from srclang import sourceLang
+d = sys.argv[1]; lang = sourceLang(d)
 if all(os.path.exists(f.replace('/' + lang + '/', '/pt-BR/')) for f in glob.glob(d + '/' + lang + '/*.md')):
     bj = json.load(open(d + '/book.json'))
     if 'pt-BR' not in bj['languages']:
         bj['languages'].append('pt-BR'); open(d + '/book.json', 'w').write(json.dumps(bj, ensure_ascii=False, indent=2) + '\\n')
 " $d || return 1
     # A review may fix an OCR slip in the part's source files: theirs too.
-    local src=$d/la; [[ -d $src ]] || src=$d/en-US
+    local src=$d/$(python3.13 $here/srclang.py $d)
     local files=($d/pt-BR/$scope-*.md $d/pt-BR/translation-journal.md $d/book.json $src/$scope-*.md)
     git add -- $files || return 1
     git commit -q -m "Translate the ${part} of ${author}'s ${name} to pt-BR" -m "$msg" -- $files
     return
   fi
   git add -- content/books/$book || return 1
+  if [[ -f $run/review-only ]]; then
+    git commit -q -m "Review the pt-BR of ${author}'s ${name}" -m "${msg/Translated by Claude; /The existing translation, }" -- content/books/$book
+    return
+  fi
   git commit -q -m "Translate ${author}'s ${name} to pt-BR" -m "$msg" -- content/books/$book
 }
 

@@ -18,12 +18,13 @@ Paragraphs are numbered as audit.py numbers them: blank-line separated blocks
 of a chapter file, a translator's footnote excluded.
 """
 import glob, json, os, re, sys
+from srclang import sourceLang
 
 here = os.path.dirname(os.path.abspath(__file__))
 
 
 def lang(book):
-    return "la" if os.path.isdir(book + "/la") else "en-US"
+    return sourceLang(book)
 
 
 def blocks(text):

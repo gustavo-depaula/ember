@@ -5,7 +5,7 @@ description: Run the unattended pt-BR book-translation pipeline (Claude Opus + C
 
 # Translation pipeline
 
-Translates corpus books into Brazilian Portuguese without supervision: each book is translated in single-shot calls, reviewed in alternating Opus and Codex rounds until it converges, checked mechanically, committed and pushed to `main`. The code is in `pipeline/`; each script's header comment is its reference. The pipeline writes pt-BR only, from `la/` when a book has it, else from `en-US/`. For other target languages use the `translate-book` skill; this pipeline follows that skill's rules, and its prompts (`t2.system.md`, `review2.system.md`) restate them for tool-less calls.
+Translates corpus books into Brazilian Portuguese without supervision: each book is translated in single-shot calls, reviewed in alternating Opus and Codex rounds until it converges, checked mechanically, committed and pushed to `main`. The code is in `pipeline/`; each script's header comment is its reference. The pipeline writes pt-BR only, from the original: `la/` when a book has it, else a Spanish or French `es-ES/`, `fr-FR/` (`pipeline/srclang.py`), else `en-US/`. For other target languages use the `translate-book` skill; this pipeline follows that skill's rules, and its prompts (`t2.system.md`, `review2.system.md`) restate them for tool-less calls.
 
 ## Machine
 
@@ -17,7 +17,9 @@ Translates corpus books into Brazilian Portuguese without supervision: each book
 ## Start a run
 
 1. **Worktree.** The pipeline writes into a separate checkout so the main one stays free: `git worktree add ../prayer-book-translation -b book-translation origin/main`. Put its absolute path in `pipeline/ROOT`. The committer pushes `HEAD:main` from it.
-2. **Queue.** `pipeline/queue.txt` lists one book per line, a path relative to `content/books/` (`church-fathers/tertullian/apology`). Lines starting with `#` are comments; order is priority; lines may be appended while the run goes. A book too long for one run is queued one part at a time as `<book>#<scope>`, where `<scope>` is the prefix of that part's chapter files (`aquinas-opera-omnia/summa-theologiae#fp` takes the `fp-*` files). A book is claimed when its run directory `runs/<book with / as __>/` is created; delete that directory to rerun a book from scratch.
+2. **Queue.** `pipeline/queue.txt` lists one book per line, a path relative to `content/books/` (`church-fathers/tertullian/apology`). Lines starting with `#` are comments; order is priority; lines may be appended while the run goes. A book too long for one run is queued one part at a time as `<book>#<scope>`, where `<scope>` is the prefix of that part's chapter files (`aquinas-opera-omnia/summa-theologiae#fp` takes the `fp-*` files). A book is claimed when its run directory `runs/<book with / as __>/` is created; delete that directory to rerun a book from scratch. Keep anything else out of `runs/`: the pool counts every directory there without `DONE` as a book in progress.
+
+   A book whose pt-BR already exists (made outside the pipeline) is reviewed without being retranslated: list it in `pipeline/review-only.txt` too. The review pairs source and translation paragraph by paragraph, so first give the pt-BR the source's paragraphing with `pipeline/realign.py` (its header comment says how).
 3. **Start the heartbeat** from `pipeline/`. It starts and keeps alive the watchdog, the committer, the pools and any driver left without a process, every 2 minutes, until `DEADLINE`:
 
    ```sh
