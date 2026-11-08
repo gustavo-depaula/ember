@@ -19,7 +19,8 @@
   "composed": "1135-1153",
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "bernard/sermones-super-cantica",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "A priest of Mount Melleray",
       "year": 1920
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -54,621 +60,710 @@
     {
       "id": "translator-preface",
       "title": {
-        "en-US": "Translator's Preface"
+        "en-US": "Translator's Preface",
+        "pt-BR": "Prefácio do tradutor"
       }
     },
     {
       "id": "s01",
       "title": {
         "la": "Sermo I. De ipso titulo libri: «Cantica canticorum Salomonis.»",
-        "en-US": "Sermon I. On the Meaning of the Title: \"Solomon's Canticle of Canticles\""
+        "en-US": "Sermon I. On the Meaning of the Title: \"Solomon's Canticle of Canticles\"",
+        "pt-BR": "Sermão I. Sobre o próprio título do livro: “Cântico dos Cânticos de Salomão”."
       }
     },
     {
       "id": "s02",
       "title": {
         "la": "Sermo II. De Incarnatione Christi per patriarchas et prophetas nuntiata, et ardentissime ab eis exspectata",
-        "en-US": "Sermon II. On the Incarnation of Christ, Announced by Patriarchs and Prophets"
+        "en-US": "Sermon II. On the Incarnation of Christ, Announced by Patriarchs and Prophets",
+        "pt-BR": "Sermão II. Sobre a Encarnação de Cristo, anunciada pelos patriarcas e profetas e por eles ardentissimamente esperada"
       }
     },
     {
       "id": "s03",
       "title": {
         "la": "Sermo III. De osculo pedis, manus et oris Domini, etc",
-        "en-US": "Sermon III. On the Mystical Kiss of the Lord's Feet, Hand, and Mouth"
+        "en-US": "Sermon III. On the Mystical Kiss of the Lord's Feet, Hand, and Mouth",
+        "pt-BR": "Sermão III. Sobre o beijo dos pés, da mão e da boca do Senhor etc."
       }
     },
     {
       "id": "s04",
       "title": {
         "la": "Sermo IV. De triplici profectu animae, qui fit per osculum pedis, manus, et oris Domini",
-        "en-US": "Sermon IV. On the Three Stages of the Soul's Progress, Symbolised by the Kiss of Christ's Feet, Hand, and Mouth"
+        "en-US": "Sermon IV. On the Three Stages of the Soul's Progress, Symbolised by the Kiss of Christ's Feet, Hand, and Mouth",
+        "pt-BR": "Sermão IV. Sobre o tríplice progresso da alma, que se realiza pelo beijo dos pés, da mão e da boca do Senhor"
       }
     },
     {
       "id": "s05",
       "title": {
         "la": "Sermo V. De quatuor generibus spirituum, videlicet Dei, angeli, hominis et pecoris",
-        "en-US": "Sermon V. On the Four Orders of Spirits"
+        "en-US": "Sermon V. On the Four Orders of Spirits",
+        "pt-BR": "Sermão V. Sobre os quatro gêneros de espíritos, a saber: o de Deus, o do anjo, o do homem e o do animal"
       }
     },
     {
       "id": "s06",
       "title": {
         "la": "Sermo VI. De summo et incircumscripto Spiritu, qui est Deus: et quo modo misericordia et judicium dicantur pedes Domini",
-        "en-US": "Sermon VI. On the Kiss of the Lord's Feet"
+        "en-US": "Sermon VI. On the Kiss of the Lord's Feet",
+        "pt-BR": "Sermão VI. Sobre o Espírito supremo e sem limites, que é Deus, e de que modo a misericórdia e o juízo são chamados pés do Senhor"
       }
     },
     {
       "id": "s07",
       "title": {
         "la": "Sermo VII. De amore ardenti quo anima diligit Deum. Item de attentione tempore orationis vel psalmodiae procuranda",
-        "en-US": "Sermon VII. On the Love of the Spouse, and on the Attention Due to the Word of God"
+        "en-US": "Sermon VII. On the Love of the Spouse, and on the Attention Due to the Word of God",
+        "pt-BR": "Sermão VII. Sobre o amor ardente com que a alma ama a Deus. Também sobre a atenção que se deve procurar no tempo da oração ou da salmodia"
       }
     },
     {
       "id": "s08",
       "title": {
         "la": "Sermo VIII. Quomodo per osculum oris Dei significatur Spiritus sanctus, quem Ecclesia sibi petit dari ad notitiam sanctae Trinitatis",
-        "en-US": "Sermon VIII. On the Kiss of the Mouth Interpreted of the Holy Spirit"
+        "en-US": "Sermon VIII. On the Kiss of the Mouth Interpreted of the Holy Spirit",
+        "pt-BR": "Sermão VIII. Como o beijo da boca de Deus significa o Espírito Santo, que a Igreja pede que lhe seja dado para conhecer a Santa Trindade"
       }
     },
     {
       "id": "s09",
       "title": {
         "la": "Sermo IX. De uberibus sponsi, id est Christi, quorum unum est longanimitas exspectandi peccatores; alterum, benignitas seu facilitas eos recipiendi",
-        "en-US": "Sermon IX. On the Breasts of the Bridegroom and of the Spouse"
+        "en-US": "Sermon IX. On the Breasts of the Bridegroom and of the Spouse",
+        "pt-BR": "Sermão IX. Sobre os seios do esposo, isto é, de Cristo: um é a longanimidade em esperar os pecadores; o outro, a bondade ou prontidão em recebê-los"
       }
     },
     {
       "id": "s10",
       "title": {
         "la": "Sermo X. De tribus unguentis spiritualibus, scilicet contritionis, devotionis et pietatis",
-        "en-US": "Sermon X. On the Spiritual Ointments"
+        "en-US": "Sermon X. On the Spiritual Ointments",
+        "pt-BR": "Sermão X. Sobre os três unguentos espirituais: o da contrição, o da devoção e o da piedade"
       }
     },
     {
       "id": "s11",
       "title": {
         "la": "Sermo XI. De duobus, hoc est fructu et modo, pertinentibus ad opus humanae redemptionis",
-        "en-US": "Sermon XI. On the Mode and the Fruit of Redemption"
+        "en-US": "Sermon XI. On the Mode and the Fruit of Redemption",
+        "pt-BR": "Sermão XI. Sobre duas coisas, o fruto e o modo, relativas à obra da redenção humana"
       }
     },
     {
       "id": "s12",
       "title": {
         "la": "Sermo XII. De pretioso unguento pietatis; et de veneratione a subditis erga praelatos suos exhibenda",
-        "en-US": "Sermon XII. On the Ointment of Piety"
+        "en-US": "Sermon XII. On the Ointment of Piety",
+        "pt-BR": "Sermão XII. Sobre o precioso unguento da piedade e a veneração que os súditos devem prestar aos seus prelados"
       }
     },
     {
       "id": "s13",
       "title": {
         "la": "Sermo XIII. De gloria et laude Deo semper attribuenda pro omnibus bonis ejus nobis impensis",
-        "en-US": "Sermon XIII. Glory Belongs to God Alone"
+        "en-US": "Sermon XIII. Glory Belongs to God Alone",
+        "pt-BR": "Sermão XIII. Sobre a glória e o louvor que sempre se devem atribuir a Deus por todos os bens que nos concedeu"
       }
     },
     {
       "id": "s14",
       "title": {
         "la": "Sermo XIV. De Ecclesia fidelium Christianorum; et de Synagoga Judaeorum perfidorum",
-        "en-US": "Sermon XIV. The Church and the Synagogue"
+        "en-US": "Sermon XIV. The Church and the Synagogue",
+        "pt-BR": "Sermão XIV. Sobre a Igreja dos cristãos fiéis e a Sinagoga dos judeus incrédulos"
       }
     },
     {
       "id": "s15",
       "title": {
         "la": "Sermo XV. Qualiter nomen Jesus est medicina salubris fidelibus Christianis in omnibus adversis",
-        "en-US": "Sermon XV. On the Names of God, and the Name of Jesus"
+        "en-US": "Sermon XV. On the Names of God, and the Name of Jesus",
+        "pt-BR": "Sermão XV. Como o nome de Jesus é remédio salutar para os cristãos fiéis em todas as adversidades"
       }
     },
     {
       "id": "s16",
       "title": {
         "la": "Sermo XVI. De cordis contritione, et de tribus speciebus verae confessionis",
-        "en-US": "Sermon XVI. On the Mystical Sense of the Number Seven"
+        "en-US": "Sermon XVI. On the Mystical Sense of the Number Seven",
+        "pt-BR": "Sermão XVI. Sobre a contrição do coração e as três espécies de verdadeira confissão"
       }
     },
     {
       "id": "s17",
       "title": {
         "la": "Sermo XVII. De accessu et recessu Spiritus sancti observando, deque invidia diaboli erga genus humanum",
-        "en-US": "Sermon XVII. On the Coming and Going of the Spirit and on Satan's Envy of the Human Race"
+        "en-US": "Sermon XVII. On the Coming and Going of the Spirit and on Satan's Envy of the Human Race",
+        "pt-BR": "Sermão XVII. Sobre a atenção à vinda e à retirada do Espírito Santo e sobre a inveja do diabo para com o gênero humano"
       }
     },
     {
       "id": "s18",
       "title": {
         "la": "Sermo XVIII. De duabus operationibus Spiritus sancti, quarum una vocatur effusio, et alia infusio",
-        "en-US": "Sermon XVIII. On the Two Operations of the Holy Ghost"
+        "en-US": "Sermon XVIII. On the Two Operations of the Holy Ghost",
+        "pt-BR": "Sermão XVIII. Sobre as duas operações do Espírito Santo, das quais uma se chama efusão e a outra infusão"
       }
     },
     {
       "id": "s19",
       "title": {
         "la": "Sermo XIX. De natura, modo, ac proprietatibus amoris angelici erga Deum, juxta singulos angelorum ordines disserit",
-        "en-US": "Sermon XIX. On the Different Motives on Account of which Christ the Lord is Loved by the Various Choirs of Angels"
+        "en-US": "Sermon XIX. On the Different Motives on Account of which Christ the Lord is Loved by the Various Choirs of Angels",
+        "pt-BR": "Sermão XIX. Discorre sobre a natureza, o modo e as propriedades do amor angélico a Deus, segundo cada uma das ordens dos anjos"
       }
     },
     {
       "id": "s20",
       "title": {
         "la": "Sermo XX. De triplici modo dilectionis, qua Deum diligimus",
-        "en-US": "Sermon XX. On the Various Degrees and Characteristics of the Love of Christ"
+        "en-US": "Sermon XX. On the Various Degrees and Characteristics of the Love of Christ",
+        "pt-BR": "Sermão XX. Sobre o tríplice modo do amor com que amamos a Deus"
       }
     },
     {
       "id": "s21",
       "title": {
         "la": "Sermo XXI. Qualiter sponsa, id est Ecclesia, trahi se optat post sponsum, id est Christum",
-        "en-US": "Sermon XXI. In what Manner the Spouse, that is the Church, Desires to be Drawn to her Beloved"
+        "en-US": "Sermon XXI. In what Manner the Spouse, that is the Church, Desires to be Drawn to her Beloved",
+        "pt-BR": "Sermão XXI. Como a esposa, isto é, a Igreja, deseja ser atraída após o esposo, isto é, Cristo"
       }
     },
     {
       "id": "s22",
       "title": {
         "la": "Sermo XXII. De quatuor unguentis sponsi; et totidem virtutibus cardinalibus",
-        "en-US": "Sermon XXII. On the Four Ointments of the Bridegroom and the Four Cardinal Virtues"
+        "en-US": "Sermon XXII. On the Four Ointments of the Bridegroom and the Four Cardinal Virtues",
+        "pt-BR": "Sermão XXII. Sobre os quatro unguentos do esposo e as quatro virtudes cardeais"
       }
     },
     {
       "id": "s23",
       "title": {
         "la": "Sermo XXIII. De tribus modis contemplationis circa Deum, sub figura trium cellarum",
-        "en-US": "Sermon XXIII. On the Mystical Meaning of the Garden, the Storeroom, and the Bedchamber"
+        "en-US": "Sermon XXIII. On the Mystical Meaning of the Garden, the Storeroom, and the Bedchamber",
+        "pt-BR": "Sermão XXIII. Sobre os três modos de contemplação de Deus, sob a figura de três aposentos"
       }
     },
     {
       "id": "s24",
       "title": {
         "la": "Sermo XXIV. Agit praecipue contra detestabile vitium detractionis; et qua in re rectitudo hominis potissimum consistat",
-        "en-US": "Sermon XXIV. On Detraction and the Necessity of Uniting Faith with Good Works"
+        "en-US": "Sermon XXIV. On Detraction and the Necessity of Uniting Faith with Good Works",
+        "pt-BR": "Sermão XXIV. Trata principalmente do detestável vício da maledicência e daquilo em que sobretudo consiste a retidão do homem"
       }
     },
     {
       "id": "s25",
       "title": {
         "la": "Sermo XXV. De nigredine et formositate sponsae, id est Ecclesiae",
-        "en-US": "Sermon XXV. On the Blackness and the Beauty of the Bridegroom and the Bride"
+        "en-US": "Sermon XXV. On the Blackness and the Beauty of the Bridegroom and the Bride",
+        "pt-BR": "Sermão XXV. Sobre a negrura e a formosura da esposa, isto é, da Igreja"
       }
     },
     {
       "id": "s26",
       "title": {
         "la": "Sermo XXVI. In quo beatus Bernardus obitum fratris sui Girardi luget",
-        "en-US": "Sermon XXVI. In what Sense the Blackness of the Spouse is Compared to the Tents of Cedar — the Saint's Lament Over his Brother"
+        "en-US": "Sermon XXVI. In what Sense the Blackness of the Spouse is Compared to the Tents of Cedar — the Saint's Lament Over his Brother",
+        "pt-BR": "Sermão XXVI. No qual o bem-aventurado Bernardo lamenta a morte de seu irmão Geraldo"
       }
     },
     {
       "id": "s27",
       "title": {
         "la": "Sermo XXVII. De ornatu sponsae, et qualiter anima sancta in coelum dicatur",
-        "en-US": "Sermon XXVII. In what Sense the Beauty of the Spouse may be Compared to the Curtains of Solomon"
+        "en-US": "Sermon XXVII. In what Sense the Beauty of the Spouse may be Compared to the Curtains of Solomon",
+        "pt-BR": "Sermão XXVII. Sobre o adorno da esposa e como se diz que a alma santa é um céu"
       }
     },
     {
       "id": "s28",
       "title": {
         "la": "Sermo XXVIII. De nigredine et formositate sponsi, et quomodo auditus potius quam visus valeat in rebus fidei, et ad notiiam veritatis",
-        "en-US": "Sermon XXVIII. The Curtains of Solomon are Explained in Reference to the Blackness of the Bridegroom and the Bride"
+        "en-US": "Sermon XXVIII. The Curtains of Solomon are Explained in Reference to the Blackness of the Bridegroom and the Bride",
+        "pt-BR": "Sermão XXVIII. Sobre a negrura e a formosura do esposo e como o ouvido vale mais que a vista nas coisas da fé e para o conhecimento da verdade"
       }
     },
     {
       "id": "s29",
       "title": {
         "la": "Sermo XXIX. De querimonia Ecclesiae contra suos impugnatores, vel contra illos qui impugnant unitatem fraternam",
-        "en-US": "Sermon XXIX. On Domestic Discord and Fraternal Correction"
+        "en-US": "Sermon XXIX. On Domestic Discord and Fraternal Correction",
+        "pt-BR": "Sermão XXIX. Sobre a queixa da Igreja contra os que a combatem ou contra os que combatem a unidade fraterna"
       }
     },
     {
       "id": "s30",
       "title": {
         "la": "Sermo XXX. Qualiter populus fidelium seu animae electorum per vineas significantur, quarum Ecclesia custos dicitur; et de prudentia carnis, quae est mors",
-        "en-US": "Sermon XXX. On the Mystical Vineyards, and Concerning the Prudence of the Flesh"
+        "en-US": "Sermon XXX. On the Mystical Vineyards, and Concerning the Prudence of the Flesh",
+        "pt-BR": "Sermão XXX. Como o povo dos fiéis ou as almas dos eleitos são significados pelas vinhas, das quais a Igreja é chamada guardiã; e sobre a prudência da carne, que é morte"
       }
     },
     {
       "id": "s31",
       "title": {
         "la": "Sermo XXXI. De excellentia divinae visionis; et quomodo in praesenti sanctis viris gustus divinae praesentiae variatur, pro variis animae desideriis",
-        "en-US": "Sermon XXXI. On the Various Visions of God"
+        "en-US": "Sermon XXXI. On the Various Visions of God",
+        "pt-BR": "Sermão XXXI. Sobre a excelência da visão divina e como, na vida presente, o gosto da presença divina varia para os homens santos segundo os diversos desejos da alma"
       }
     },
     {
       "id": "s32",
       "title": {
         "la": "Sermo XXXII. Qualiter Christus suscipitur ab anima sancta tanquam sponsus, et ab anima infirma tanquam medicus. Item de differentia cogitationum, unde oriantur",
-        "en-US": "Sermon XXXII. On the Different Ways in which the Word Presents Himself to Different Souls, and on the Sources of Good and Evil Thoughts"
+        "en-US": "Sermon XXXII. On the Different Ways in which the Word Presents Himself to Different Souls, and on the Sources of Good and Evil Thoughts",
+        "pt-BR": "Sermão XXXII. Como Cristo é recebido pela alma santa como esposo e pela alma enferma como médico. Também sobre a diferença dos pensamentos e de onde se originam"
       }
     },
     {
       "id": "s33",
       "title": {
         "la": "Sermo XXXIII. De his quae semper sectanda sunt a mente devota. Quid sit meridies, et de quatuor generibus tentationum semper evitandis",
-        "en-US": "Sermon XXXIII. On the Three Objects of the Devout Soul's Quest, on the Mystical Meridian, and the Four Kinds of Temptation"
+        "en-US": "Sermon XXXIII. On the Three Objects of the Devout Soul's Quest, on the Mystical Meridian, and the Four Kinds of Temptation",
+        "pt-BR": "Sermão XXXIII. Sobre o que a mente devota deve sempre buscar. O que é o meio-dia e sobre os quatro gêneros de tentações que sempre se devem evitar"
       }
     },
     {
       "id": "s34",
       "title": {
         "la": "Sermo XXXIV. In quo tractatur de humilitate et patientia",
-        "en-US": "Sermon XXXIV. On Humility and Patience"
+        "en-US": "Sermon XXXIV. On Humility and Patience",
+        "pt-BR": "Sermão XXXIV. No qual se trata da humildade e da paciência"
       }
     },
     {
       "id": "s35",
       "title": {
         "la": "Sermo XXXV. De increpatione dura, quam facit sponsus ad sponsam; et duplici ignorantia nimium pavenda et fugienda",
-        "en-US": "Sermon XXXV. On the Two Kinds of Ignorance which We Ought to Fear and to Avoid"
+        "en-US": "Sermon XXXV. On the Two Kinds of Ignorance which We Ought to Fear and to Avoid",
+        "pt-BR": "Sermão XXXV. Sobre a dura repreensão que o esposo dirige à esposa e a dupla ignorância que muito se deve temer e evitar"
       }
     },
     {
       "id": "s36",
       "title": {
         "la": "Sermo XXXVI. Quod scientia litterarum sit bona ad instructionem, sed scientia propriae infirmitatis sit utilior ad salutem",
-        "en-US": "Sermon XXXVI. On the Order to be Observed in the Acquisition of Knowledge"
+        "en-US": "Sermon XXXVI. On the Order to be Observed in the Acquisition of Knowledge",
+        "pt-BR": "Sermão XXXVI. O conhecimento das letras é bom para a instrução, mas o conhecimento da própria fraqueza é mais útil para a salvação"
       }
     },
     {
       "id": "s37",
       "title": {
         "la": "Sermo XXXVII. De duplici notitia, et duplici ignorantia; deque malis seu damnis quae pariunt",
-        "en-US": "Sermon XXXVII. On the Knowledge and the Ignorance of God and of Self"
+        "en-US": "Sermon XXXVII. On the Knowledge and the Ignorance of God and of Self",
+        "pt-BR": "Sermão XXXVII. Sobre o duplo conhecimento e a dupla ignorância, e sobre os males ou danos que produzem"
       }
     },
     {
       "id": "s38",
       "title": {
         "la": "Sermo XXXVIII. Qualiter ex ignorantia Dei nascitur desperatio, et qualiter sponsa dicatur pulchra inter mulieres",
-        "en-US": "Sermon XXXVIII. On the Manner in which Ignorance of God Leads to Despair, and on the Beauty of the Spouse"
+        "en-US": "Sermon XXXVIII. On the Manner in which Ignorance of God Leads to Despair, and on the Beauty of the Spouse",
+        "pt-BR": "Sermão XXXVIII. Como da ignorância de Deus nasce o desespero e como a esposa é chamada bela entre as mulheres"
       }
     },
     {
       "id": "s39",
       "title": {
         "la": "Sermo XXXIX. De curribus Pharaonis. id est diaboli, et de principibus exercitus, qui sunt malitia, luxuria, et avaritia",
-        "en-US": "Sermon XXXIX. On the Chariots of Pharao and the Captains of his Host"
+        "en-US": "Sermon XXXIX. On the Chariots of Pharao and the Captains of his Host",
+        "pt-BR": "Sermão XXXIX. Sobre os carros do faraó, isto é, do diabo, e os chefes do exército, que são a malícia, a luxúria e a avareza"
       }
     },
     {
       "id": "s40",
       "title": {
         "la": "Sermo XL. Quod intentio sit facies animae: quae sit ejus pulchritudo aut deformitas; quoe ejusdem solitudo et audicitia",
-        "en-US": "Sermon XL. On the Cheeks of the Spouse and what Constitutes their Beauty"
+        "en-US": "Sermon XL. On the Cheeks of the Spouse and what Constitutes their Beauty",
+        "pt-BR": "Sermão XL. A intenção é o rosto da alma: em que consistem sua beleza ou deformidade, sua solidão e seu pudor"
       }
     },
     {
       "id": "s41",
       "title": {
         "la": "Sermo XLI. Qualiter sponsa recipit interim magnam consolationem de contemplatione divinae claritatis, antequam perveniat ad claram ejus visionem",
-        "en-US": "Sermon XLI. On what is Meant by the Neck of the Spouse and by the Chains of Gold Promised her"
+        "en-US": "Sermon XLI. On what is Meant by the Neck of the Spouse and by the Chains of Gold Promised her",
+        "pt-BR": "Sermão XLI. Como a esposa recebe, por enquanto, grande consolação da contemplação do esplendor divino, antes de chegar à sua clara visão"
       }
     },
     {
       "id": "s42",
       "title": {
         "la": "Sermo XLII. De duplici humilitate: una videlicet, quam parit veritas; et altera, quam inflammat charitas",
-        "en-US": "Sermon XLII. On Submission to Correction, and the Two Kinds of Humility"
+        "en-US": "Sermon XLII. On Submission to Correction, and the Two Kinds of Humility",
+        "pt-BR": "Sermão XLII. Sobre a dupla humildade: uma que a verdade gera e outra que a caridade inflama"
       }
     },
     {
       "id": "s43",
       "title": {
         "la": "Sermo XLIII. Qualiter consideratio passionis et laborum Christi faciat sponsam, id est animam, pergere illaesam inter prospera et adversa hujus mundi",
-        "en-US": "Sermon XLIII. On the Remembrance of Christ's Sufferings"
+        "en-US": "Sermon XLIII. On the Remembrance of Christ's Sufferings",
+        "pt-BR": "Sermão XLIII. Como a consideração da paixão e dos trabalhos de Cristo faz a esposa, isto é, a alma, seguir ilesa entre as prosperidades e adversidades deste mundo"
       }
     },
     {
       "id": "s44",
       "title": {
         "la": "Sermo XLIV. De correptione pro ingenio peccantium moderanda ut nempe humiles et morigeri leniter, duri et obstinati austere corrigantur",
-        "en-US": "Sermon XLIV. On the Mystical Oil and Wine"
+        "en-US": "Sermon XLIV. On the Mystical Oil and Wine",
+        "pt-BR": "Sermão XLIV. Sobre a correção que deve ser moderada segundo a índole dos pecadores, de modo que os humildes e dóceis sejam corrigidos com brandura, e os duros e obstinados com severidade"
       }
     },
     {
       "id": "s45",
       "title": {
         "la": "Sermo XLV. De duplici pulchritudine animae; et qualiter anima loquitur ad Dei-Verbum, et Verbum ad animam: et quae sint eorum linguae",
-        "en-US": "Sermon XLV. On the Twofold Beauty of the Soul and the Language Employed between Herself and her Beloved"
+        "en-US": "Sermon XLV. On the Twofold Beauty of the Soul and the Language Employed between Herself and her Beloved",
+        "pt-BR": "Sermão XLV. Sobre a dupla beleza da alma e como a alma fala ao Verbo de Deus, e o Verbo à alma, e quais são suas linguagens"
       }
     },
     {
       "id": "s46",
       "title": {
         "la": "Sermo XLVI. De statu et compositione totius Ecclesiae. Item, quomodo per activam vitam, quae sub obedientia agitur, perveniatur ad contemplativam",
-        "en-US": "Sermon XLVI. On the Virtues which Belong to Superiors and Inferiors"
+        "en-US": "Sermon XLVI. On the Virtues which Belong to Superiors and Inferiors",
+        "pt-BR": "Sermão XLVI. Sobre o estado e a organização de toda a Igreja. Também sobre como, pela vida ativa sob a obediência, se chega à contemplativa"
       }
     },
     {
       "id": "s47",
       "title": {
         "la": "Sermo XLVII. De triplici flore, scilicet virginitatis, martyrii et bonae operationis - et de devotione habenda circa divinum officium",
-        "en-US": "Sermon XLVII. On the Flower of the Field, the Flower of the Garden, and the Flower of the Bed-chamber"
+        "en-US": "Sermon XLVII. On the Flower of the Field, the Flower of the Garden, and the Flower of the Bed-chamber",
+        "pt-BR": "Sermão XLVII. Sobre a tríplice flor: da virgindade, do martírio e das boas obras; e sobre a devoção que se deve ter no ofício divino"
       }
     },
     {
       "id": "s48",
       "title": {
         "la": "Sermo XLVIII. De laude reciproca, quae fit inter sponsum et sponsam, et qualiter per umbram Christi intelligatur corpus et fides ejus",
-        "en-US": "Sermon XLVIII. On the Excellence and Dignity of Christ's Sacred Humanity, and on what it is to be, to Live, and to Sit Under his Shadow"
+        "en-US": "Sermon XLVIII. On the Excellence and Dignity of Christ's Sacred Humanity, and on what it is to be, to Live, and to Sit Under his Shadow",
+        "pt-BR": "Sermão XLVIII. Sobre o louvor recíproco entre o esposo e a esposa e como pela sombra de Cristo se entendem seu corpo e a fé nele"
       }
     },
     {
       "id": "s49",
       "title": {
         "la": "Sermo XLIX. Qualiter per discretionem ordinatur charitas, ut omnia membra Ecclesiae, id est electi, invicem colligentur",
-        "en-US": "Sermon XLIX. On Discretion as Necessary for Well-ordered Charity"
+        "en-US": "Sermon XLIX. On Discretion as Necessary for Well-ordered Charity",
+        "pt-BR": "Sermão XLIX. Como pelo discernimento se ordena a caridade, para que todos os membros da Igreja, isto é, os eleitos, se unam entre si"
       }
     },
     {
       "id": "s50",
       "title": {
         "la": "Sermo L. De duplici charitate, scilicet actuali et affectuali; et ejus ordinatione",
-        "en-US": "Sermon L. On Affective and Effective Charity, and the Order to be Observed in Both"
+        "en-US": "Sermon L. On Affective and Effective Charity, and the Order to be Observed in Both",
+        "pt-BR": "Sermão L. Sobre a dupla caridade, a das obras e a dos afetos, e sua ordenação"
       }
     },
     {
       "id": "s51",
       "title": {
         "la": "Sermo LI. Qualiter sponsa petit sibi accumulari fructus bonorum operum cum floribus et odoramentis fidei; item de spe et timore",
-        "en-US": "Sermon LI. On the Mystical Flowers and Fruits, and the Bridegroom's Right and Left Hand"
+        "en-US": "Sermon LI. On the Mystical Flowers and Fruits, and the Bridegroom's Right and Left Hand",
+        "pt-BR": "Sermão LI. Como a esposa pede que lhe sejam acumulados os frutos das boas obras com as flores e os perfumes da fé; também sobre a esperança e o temor"
       }
     },
     {
       "id": "s52",
       "title": {
         "la": "Sermo LII. De excessu, qui contemplatio dicitur, in qua sponsus facit quiescere animam sanctam, pro ejus quiete zelans",
-        "en-US": "Sermon LII. On the Mystical Sleep of the Spouse, and the Two Kinds of Ecstasy"
+        "en-US": "Sermon LII. On the Mystical Sleep of the Spouse, and the Two Kinds of Ecstasy",
+        "pt-BR": "Sermão LII. Sobre o êxtase chamado contemplação, no qual o esposo faz repousar a alma santa, zelando por seu repouso"
       }
     },
     {
       "id": "s53",
       "title": {
         "la": "Sermo LIII. Per montes et colles significari coelestes spiritus, quos transilit sponsus per suum in terras adventum, seu per mysterium Incarnationis suae",
-        "en-US": "Sermon LIII. On the Spiritual Hills and Mountains, and the Leapings of the Bridegroom"
+        "en-US": "Sermon LIII. On the Spiritual Hills and Mountains, and the Leapings of the Bridegroom",
+        "pt-BR": "Sermão LIII. Os montes e as colinas significam os espíritos celestes, que o esposo transpõe ao vir à terra, ou pelo mistério de sua Encarnação"
       }
     },
     {
       "id": "s54",
       "title": {
         "la": "Sermo LIV. Qualiter iterum per montes significantur angeli et homines, et per colles daemones. Item de triplici timore, quo quisque timere debet, ne gratiam bene operandi a Deo acceptam perdat",
-        "en-US": "Sermon LIV. On the Manner of the Bridegroom's Skipping, and on the Three Kinds of Fear"
+        "en-US": "Sermon LIV. On the Manner of the Bridegroom's Skipping, and on the Three Kinds of Fear",
+        "pt-BR": "Sermão LIV. Como, por sua vez, os montes significam os anjos e os homens, e as colinas, os demônios. Também sobre o tríplice temor pelo qual cada um deve temer perder a graça de agir bem recebida de Deus"
       }
     },
     {
       "id": "s55",
       "title": {
         "la": "Sermo LV. Qualiter homo per veram poenitentiam potest evadere judicium Dei",
-        "en-US": "Sermon LV. On the Divine Mercy and Justice as Signified by the Hart and the Roe, Respectively"
+        "en-US": "Sermon LV. On the Divine Mercy and Justice as Signified by the Hart and the Roe, Respectively",
+        "pt-BR": "Sermão LV. Como o homem pode escapar ao juízo de Deus pela verdadeira penitência"
       }
     },
     {
       "id": "s56",
       "title": {
         "la": "Sermo LVI. Quod peccata et vitia sunt tanquam parietes, mediantes inter Deum et peccatorem",
-        "en-US": "Sermon LVI. On the Mystical Sense of the Wall, the Windows, and the Lattices"
+        "en-US": "Sermon LVI. On the Mystical Sense of the Wall, the Windows, and the Lattices",
+        "pt-BR": "Sermão LVI. Os pecados e os vícios são como paredes que se interpõem entre Deus e o pecador"
       }
     },
     {
       "id": "s57",
       "title": {
         "la": "Sermo LVII. De visitationibus Domini observandis; quibus indiciis vel signis eae deprehendi possint",
-        "en-US": "Sermon LVII. On Watching for the Divine Visitation and the Signs by which it is Known"
+        "en-US": "Sermon LVII. On Watching for the Divine Visitation and the Signs by which it is Known",
+        "pt-BR": "Sermão LVII. Sobre a atenção às visitas do Senhor e os indícios ou sinais pelos quais podem ser percebidas"
       }
     },
     {
       "id": "s58",
       "title": {
         "la": "Sermo LVIII. Quomodo sponsus hortatur sponsam, id est viros perfectos, ad regimen imperfectorum. Item de putatione vitiorum in eis facienda, ut virtutes succrescant",
-        "en-US": "Sermon LVIII. On the Spiritual Seasons and the Need of Constant Mortification"
+        "en-US": "Sermon LVIII. On the Spiritual Seasons and the Need of Constant Mortification",
+        "pt-BR": "Sermão LVIII. Como o esposo exorta a esposa, isto é, os homens perfeitos, a governar os imperfeitos. Também sobre a poda dos vícios que neles se deve fazer, para que cresçam as virtudes"
       }
     },
     {
       "id": "s59",
       "title": {
         "la": "Sermo LIX. De gemitibus animae suspirantis ad coelestem patriam, et de commendatione castitatis et viduitatis",
-        "en-US": "Sermon LIX. On Holy Desires and Continence as Symbolised by the Turtle"
+        "en-US": "Sermon LIX. On Holy Desires and Continence as Symbolised by the Turtle",
+        "pt-BR": "Sermão LIX. Sobre os gemidos da alma que suspira pela pátria celeste e sobre o elogio da castidade e da viuvez"
       }
     },
     {
       "id": "s60",
       "title": {
         "la": "Sermo LX. De incredulitate Judaeorum, qua compleverunt mensuram patrum suorum occidendo Christum",
-        "en-US": "Sermon LX. On the Two Kinds of Figs, and on the Difference between the Vine and the Fig-tree"
+        "en-US": "Sermon LX. On the Two Kinds of Figs, and on the Difference between the Vine and the Fig-tree",
+        "pt-BR": "Sermão LX. Sobre a incredulidade dos judeus, pela qual completaram a medida de seus pais ao matar Cristo"
       }
     },
     {
       "id": "s61",
       "title": {
         "la": "Sermo LXI. Quomodo Ecclesia reperit divitias divinae misericordiae in foraminibus vulnerum Christi, et de fortitudine martyrum quam a Christo receperunt",
-        "en-US": "Sermon LXI. On the Wounds of Christ Typified by the Clefts of the Rock"
+        "en-US": "Sermon LXI. On the Wounds of Christ Typified by the Clefts of the Rock",
+        "pt-BR": "Sermão LXI. Como a Igreja encontra as riquezas da misericórdia divina nas aberturas das chagas de Cristo e sobre a fortaleza que os mártires receberam de Cristo"
       }
     },
     {
       "id": "s62",
       "title": {
         "la": "Sermo LXII. Quid sit animam fidelem commorari «in foraminibus petrae;» et quid «in cavernis maceriae.» De Dei voluntate potius, quam majestate scrutanda. Denique de puritate mentis necessaria ad praedicationem veritatis",
-        "en-US": "Sermon LXII. On the Two Kinds of Contemplation Corresponding to the Hollows of the Wall and the Clefts of the Rock"
+        "en-US": "Sermon LXII. On the Two Kinds of Contemplation Corresponding to the Hollows of the Wall and the Clefts of the Rock",
+        "pt-BR": "Sermão LXII. O que significa a alma fiel habitar “nas fendas da rocha” e “nas cavidades do muro”. Deve-se perscrutar a vontade de Deus mais que sua majestade. Por fim, sobre a pureza de mente necessária à pregação da verdade"
       }
     },
     {
       "id": "s63",
       "title": {
         "la": "Sermo LXIII. De vinea viro pio et sapienti, id est sua cuique vita, seu mente et conscientia, serio colenda; et de duobus vulpium generibus, scilicet adulatoribus et detractoribus; et de tentationibus monachorum novitiorum",
-        "en-US": "Sermon LXIII. On the Mystical Vineyard and the Foxes that Invade it"
+        "en-US": "Sermon LXIII. On the Mystical Vineyard and the Foxes that Invade it",
+        "pt-BR": "Sermão LXIII. Sobre a vinha que o homem piedoso e sábio deve cultivar com cuidado, isto é, sua própria vida, mente e consciência; sobre os dois gêneros de raposas, os aduladores e os maledicentes; e sobre as tentações dos monges noviços"
       }
     },
     {
       "id": "s64",
       "title": {
         "la": "Sermo LXIV. De tentationibus monachorum provectorum, quas patiantur vulpes, seu tentationes magis sibi infestas. Item de haereticis, vulpibus Ecclesiae, capiendis",
-        "en-US": "Sermon LXIV. On the Temptations of the More Advanced, and on the Manner of Catching Heretics, Represented by Foxes"
+        "en-US": "Sermon LXIV. On the Temptations of the More Advanced, and on the Manner of Catching Heretics, Represented by Foxes",
+        "pt-BR": "Sermão LXIV. Sobre as tentações dos monges adiantados: quais raposas, ou tentações mais hostis, os afligem. Também sobre a captura dos hereges, raposas da Igreja"
       }
     },
     {
       "id": "s65",
       "title": {
         "la": "Sermo LXV. De clandestinis haereticis, quorum praeposteram religionem et studium occultandi mysteria sua, nec non scandalosum feminarum contubernium perstringit",
-        "en-US": "Sermon LXV. On the Doctrines and Practices of Contemporary Heretics"
+        "en-US": "Sermon LXV. On the Doctrines and Practices of Contemporary Heretics",
+        "pt-BR": "Sermão LXV. Sobre os hereges clandestinos, cuja religião pervertida, empenho em ocultar seus mistérios e escandalosa convivência com mulheres são censurados"
       }
     },
     {
       "id": "s66",
       "title": {
         "la": "Sermo LXVI. De erroribus haereticorum circa nuptias, baptismum parvulorum, purgatorium, orationes pro defunctis et invocationem sanctorum",
-        "en-US": "Sermon LXVI. On the Heretical Doctrines Concerning Marriage, Holy Orders, and Purgatory"
+        "en-US": "Sermon LXVI. On the Heretical Doctrines Concerning Marriage, Holy Orders, and Purgatory",
+        "pt-BR": "Sermão LXVI. Sobre os erros dos hereges acerca do matrimônio, do batismo das crianças, do purgatório, das orações pelos defuntos e da invocação dos santos"
       }
     },
     {
       "id": "s67",
       "title": {
         "la": "Sermo LXVII. De mirabili affectu dilectionis sponsae, quem eructat propter amorem Christi sponsi",
-        "en-US": "Sermon LXVII. On Mystical Eructation and on Grace, Antecedent and Consequent"
+        "en-US": "Sermon LXVII. On Mystical Eructation and on Grace, Antecedent and Consequent",
+        "pt-BR": "Sermão LXVII. Sobre o admirável afeto de amor que a esposa faz transbordar por amor de Cristo, seu esposo"
       }
     },
     {
       "id": "s68",
       "title": {
         "la": "Sermo LXVIII. Quomodo sponsus Christus intendit sponsae Ecclesiae, et haec illi; et de cura, quam habet Deus de electis. Item de merito et fiducia Ecclesiae",
-        "en-US": "Sermon LXVIII. On the Manner in which the Bridegroom Attends to his Spouse and she to Him"
+        "en-US": "Sermon LXVIII. On the Manner in which the Bridegroom Attends to his Spouse and she to Him",
+        "pt-BR": "Sermão LXVIII. Como Cristo esposo se volta para a Igreja esposa, e esta para ele; e sobre o cuidado de Deus pelos eleitos. Também sobre o mérito e a confiança da Igreja"
       }
     },
     {
       "id": "s69",
       "title": {
         "la": "Sermo LXIX. Qualiter omnis altitudo se extollens adversus scientiam Dei, dejicitur. De adventu et mansione Patris et Verbi apud animam diligentem, et de familiaritate quae inde inter Deum et animam contrahitur",
-        "en-US": "Sermon LXIX. On Lawful and Unlawful Presumption, on the Zeal of Justice and the Zeal of Charity, and on the Loving Familiarity between God and the Faithful Soul"
+        "en-US": "Sermon LXIX. On Lawful and Unlawful Presumption, on the Zeal of Justice and the Zeal of Charity, and on the Loving Familiarity between God and the Faithful Soul",
+        "pt-BR": "Sermão LXIX. Como é derrubada toda altura que se ergue contra o conhecimento de Deus. Sobre a vinda e a morada do Pai e do Verbo junto da alma que ama e a familiaridade que daí se estabelece entre Deus e a alma"
       }
     },
     {
       "id": "s70",
       "title": {
         "la": "Sermo LXX. Unde sponsus dilectus dicatur; et de veritate, mansuetudine et justitia, caeterisque virtutibus, quae sunt lilia, inter quae pascitur",
-        "en-US": "Sermon LXX. On the Mystical Lilies among which the Bridegroom Loves to Feed"
+        "en-US": "Sermon LXX. On the Mystical Lilies among which the Bridegroom Loves to Feed",
+        "pt-BR": "Sermão LXX. Por que o esposo é chamado amado; e sobre a verdade, a mansidão, a justiça e as demais virtudes, que são os lírios entre os quais se alimenta"
       }
     },
     {
       "id": "s71",
       "title": {
         "la": "Sermo LXXI. De liliis spiritualibus, id est operibus bonis, quorum odor recta conscientia, color fama: et quomodo sponsus et pascit nos, et pascitur a nobis. Item de unitate Dei Patris cum Filio, et animae sanctae cum Deo",
-        "en-US": "Sermon LXXI. On the Colour and Odour of the Spiritual Lilies, and on the Difference between the Unity of Nature in the Father and the Son, and the Unity of will in Creator and Creature"
+        "en-US": "Sermon LXXI. On the Colour and Odour of the Spiritual Lilies, and on the Difference between the Unity of Nature in the Father and the Son, and the Unity of will in Creator and Creature",
+        "pt-BR": "Sermão LXXI. Sobre os lírios espirituais, isto é, as boas obras, cujo perfume é a consciência reta e cuja cor é a reputação; e como o esposo nos alimenta e é alimentado por nós. Também sobre a unidade de Deus Pai com o Filho e da alma santa com Deus"
       }
     },
     {
       "id": "s72",
       "title": {
         "la": "Sermo LXXII. Dies aspirans, et umbrae inclinatae quae sint. Deinde varii hominum dies exponuntur. Et quod justos, utpote in luce viventes, maneat clarior dies; impios vero in operibus tenebrarum versantes, aeterna nox",
-        "en-US": "Sermon LXXII. On the Spiritual Lights and Shadows, Days and Nights"
+        "en-US": "Sermon LXXII. On the Spiritual Lights and Shadows, Days and Nights",
+        "pt-BR": "Sermão LXXII. O que são o dia que sopra e as sombras que declinam. Em seguida, explicam-se os diversos dias dos homens. Aos justos, que vivem na luz, aguarda um dia mais claro; aos ímpios, ocupados nas obras das trevas, uma noite eterna"
       }
     },
     {
       "id": "s73",
       "title": {
         "la": "Sermo LXXIII. Qualiter Christus ad judicandum veniet in forma humana, ut suavis appareat electis; et quomodo minor angelis, iisdemque sublimior",
-        "en-US": "Sermon LXXIII. On the Form in which Christ will Come to the Judgment, and according to which, Although Made \"a Little Less,\" he is Still Superior to the Angels"
+        "en-US": "Sermon LXXIII. On the Form in which Christ will Come to the Judgment, and according to which, Although Made \"a Little Less,\" he is Still Superior to the Angels",
+        "pt-BR": "Sermão LXXIII. Como Cristo virá julgar em forma humana, para aparecer amável aos eleitos; e como é menor que os anjos e, ao mesmo tempo, superior a eles"
       }
     },
     {
       "id": "s74",
       "title": {
         "la": "Sermo LXXIV. De visitationibus Verbi sponsi, quam occulte fiant ad animam sanctam, idque Bernardus sui ipsius exemplo ad aedificationem suorum demisse ac verecunde declarat",
-        "en-US": "Sermon LXXIV. On the Manner in which the Bridegroom Comes and Goes, and on the Necessity of Uniting Grace and Truth"
+        "en-US": "Sermon LXXIV. On the Manner in which the Bridegroom Comes and Goes, and on the Necessity of Uniting Grace and Truth",
+        "pt-BR": "Sermão LXXIV. Sobre as visitas do Verbo esposo à alma santa e como se fazem ocultamente; Bernardo o explica pelo próprio exemplo, com humildade e pudor, para edificação dos seus"
       }
     },
     {
       "id": "s75",
       "title": {
         "la": "Sermo LXXV. Deus quaerendus est debito tempore, modo, et loco. Et quod nunc sit acceptabile tempus, in quo quisque per bona opera potest sibi invenire Deum, ac suum operari salutem",
-        "en-US": "Sermon LXXV. On the Time, Place, and Manner in which the Bridegroom should be Sought"
+        "en-US": "Sermon LXXV. On the Time, Place, and Manner in which the Bridegroom should be Sought",
+        "pt-BR": "Sermão LXXV. Deus deve ser buscado no tempo, no modo e no lugar devidos. Agora é o tempo favorável, no qual cada um pode, pelas boas obras, encontrar Deus e realizar sua salvação"
       }
     },
     {
       "id": "s76",
       "title": {
         "la": "Sermo LXXVI. De claritate sponsi, in qua coaequalis Patri sedet a dextris gloriae ejus: et qualiter boni pastores debent esse solliciti, vigiles et discreti circa pascendas animas sibi commissas",
-        "en-US": "Sermon LXXVI. On the Glory of Christ in Heaven, and on the Qualities Requisite in a Faithful Pastor of Souls"
+        "en-US": "Sermon LXXVI. On the Glory of Christ in Heaven, and on the Qualities Requisite in a Faithful Pastor of Souls",
+        "pt-BR": "Sermão LXXVI. Sobre o esplendor do esposo, no qual, coigual ao Pai, está sentado à direita de sua glória; e como os bons pastores devem ser solícitos, vigilantes e prudentes ao apascentar as almas que lhes foram confiadas"
       }
     },
     {
       "id": "s77",
       "title": {
         "la": "Sermo LXXVII. De malis pastoribus Ecclesiae; item quomodo beati in coelo simul cum angelis adjutorio sunt electis adhuc peregrinantibus",
-        "en-US": "Sermon LXXVII. On Unworthy Pastors, and on the Watchmen by whom the Spouse is Found and Guarded"
+        "en-US": "Sermon LXXVII. On Unworthy Pastors, and on the Watchmen by whom the Spouse is Found and Guarded",
+        "pt-BR": "Sermão LXXVII. Sobre os maus pastores da Igreja; também sobre como os bem-aventurados no céu, juntamente com os anjos, ajudam os eleitos ainda peregrinos"
       }
     },
     {
       "id": "s78",
       "title": {
         "la": "Sermo LXXVIII. Quod sponsa, id est Ecclesia electorum, praedestinata est a Deo ante saecula, et praeventa ab eo ut quaereret eum, et converteretur",
-        "en-US": "Sermon LXXVIII. On the Eternal Predestination of the Spouse, and on the Manner in which she has been Prepared and Prevented by Grace and Found by the Preachers of the Gospel"
+        "en-US": "Sermon LXXVIII. On the Eternal Predestination of the Spouse, and on the Manner in which she has been Prepared and Prevented by Grace and Found by the Preachers of the Gospel",
+        "pt-BR": "Sermão LXXVIII. A esposa, isto é, a Igreja dos eleitos, foi predestinada por Deus antes dos séculos e por ele prevenida para que o buscasse e se convertesse"
       }
     },
     {
       "id": "s79",
       "title": {
         "la": "Sermo LXXIX. De amore tenaci et indissolubili, quo anima tenet sponsum: item de reditu sponsi in fine saeculi ad Synagogam Judaeorum salvandam",
-        "en-US": "Sermon LXXIX. On the Manner in which the Spouse Passed Beyond the Watchmen, and on the Final Reconciliation of Christ with the Synagogue"
+        "en-US": "Sermon LXXIX. On the Manner in which the Spouse Passed Beyond the Watchmen, and on the Final Reconciliation of Christ with the Synagogue",
+        "pt-BR": "Sermão LXXIX. Sobre o amor tenaz e indissolúvel com que a alma retém o esposo; também sobre a volta do esposo no fim dos tempos para salvar a Sinagoga dos judeus"
       }
     },
     {
       "id": "s80",
       "title": {
         "la": "Sermo LXXX. De imagine sive Verbo Dei, et anima quae ad imaginem est, subtilis disputatio: et de errore Gilleberti Pictavensis episcopi",
-        "en-US": "Sermon LXXX. On the Image of God, and the Soul which is Made according to the Image; and on the Errors of Gilbert De La Porree"
+        "en-US": "Sermon LXXX. On the Image of God, and the Soul which is Made according to the Image; and on the Errors of Gilbert De La Porree",
+        "pt-BR": "Sermão LXXX. Sutil discussão sobre a Imagem, ou Verbo de Deus, e a alma que é feita à imagem; e sobre o erro de Gilberto, bispo de Poitiers"
       }
     },
     {
       "id": "s81",
       "title": {
         "la": "Sermo LXXXI. De convenientia et similitudine animae cum Verbo secundum identitatem essentiae, et vitae immortalitatem, et arbitrii libertatem",
-        "en-US": "Sermon LXXXI. On the Soul's Likeness to the Word in the Three Attributes of Simplicity, Immortality and Liberty"
+        "en-US": "Sermon LXXXI. On the Soul's Likeness to the Word in the Three Attributes of Simplicity, Immortality and Liberty",
+        "pt-BR": "Sermão LXXXI. Sobre a correspondência e a semelhança da alma com o Verbo segundo a identidade da essência, a imortalidade da vida e a liberdade do arbítrio"
       }
     },
     {
       "id": "s82",
       "title": {
         "la": "Sermo LXXXII. Qualiter anima similis Deo manens, per peccatum tamen dissimilis facta est in simplicitate, immortalitate et libertate",
-        "en-US": "Sermon LXXXII. On the Manner in which Sin Spoils the Likeness of the Soul to God by Combining the Contrary Qualities with her Simplicity, Immortality and Liberty"
+        "en-US": "Sermon LXXXII. On the Manner in which Sin Spoils the Likeness of the Soul to God by Combining the Contrary Qualities with her Simplicity, Immortality and Liberty",
+        "pt-BR": "Sermão LXXXII. Como a alma, permanecendo semelhante a Deus, tornou-se, contudo, pelo pecado, dessemelhante na simplicidade, na imortalidade e na liberdade"
       }
     },
     {
       "id": "s83",
       "title": {
         "la": "Sermo LXXXIII. Qualiter anima, quantumcunque vitiis corrupta, adhuc per amorem castum et sanctum potest redire ad similitudinem sponsi, id est Christi",
-        "en-US": "Sermon LXXXIII. On the Right of Every Soul to Aspire to the Nuptials of the Word, and in what this Spiritual Marriage Consists"
+        "en-US": "Sermon LXXXIII. On the Right of Every Soul to Aspire to the Nuptials of the Word, and in what this Spiritual Marriage Consists",
+        "pt-BR": "Sermão LXXXIII. Como a alma, por mais corrompida pelos vícios, ainda pode, pelo amor casto e santo, voltar à semelhança do esposo, isto é, de Cristo"
       }
     },
     {
       "id": "s84",
       "title": {
         "la": "Sermo LXXXIV. Quod anima quaerens Deum, praevente est ab eo: et quid sit illa quaesitio, in qua jam ab eo praeventa est",
-        "en-US": "Sermon LXXXIV. On Seeking God"
+        "en-US": "Sermon LXXXIV. On Seeking God",
+        "pt-BR": "Sermão LXXXIV. A alma que busca Deus foi prevenida por ele; e o que é essa busca na qual já foi por ele prevenida"
       }
     },
     {
       "id": "s85",
       "title": {
         "la": "Sermo LXXXV. De septem necessitatibus, propter quas anima quaerit Verbum: quae tandem reformata accedit ad ejus dulcedinem contemplandam atque perfruendam",
-        "en-US": "Sermon LXXXV. On the Seven Reasons on Account of which the Soul Seeks the Word"
+        "en-US": "Sermon LXXXV. On the Seven Reasons on Account of which the Soul Seeks the Word",
+        "pt-BR": "Sermão LXXXV. Sobre as sete necessidades pelas quais a alma busca o Verbo; por fim, reformada, aproxima-se para contemplar e fruir sua doçura"
       }
     },
     {
       "id": "s86",
       "title": {
         "la": "Sermo LXXXVI. De cautela et verecundia sponsae quaerentis Verbum; et de commendatione verecundiae",
-        "en-US": "Sermon LXXXVI. On the Virtue of Modesty"
+        "en-US": "Sermon LXXXVI. On the Virtue of Modesty",
+        "pt-BR": "Sermão LXXXVI. Sobre a cautela e o pudor da esposa que busca o Verbo e sobre o elogio do pudor"
       }
     },
     {
       "id": "appendix-a",
       "title": {
-        "en-US": "Appendix A. On the Sacred Heart"
+        "en-US": "Appendix A. On the Sacred Heart",
+        "pt-BR": "Apêndice A. Sobre o Sagrado Coração"
       }
     },
     {
       "id": "appendix-b",
       "title": {
-        "en-US": "Appendix B. The Glories of Saints Bernard and Augustine"
+        "en-US": "Appendix B. The Glories of Saints Bernard and Augustine",
+        "pt-BR": "Apêndice B. As glórias de São Bernardo e Santo Agostinho"
       }
     }
   ],
