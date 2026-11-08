@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on the De Anima",
-    "la": "Sententia super De Anima"
+    "la": "Sententia super De Anima",
+    "pt-BR": "Comentário ao De Anima"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's commentary on Aristotle's *De Anima* — on the soul as the form of the body, the senses, the intellect, and the immateriality of mind.",
-    "la": "Expositio *De Anima* Aristotelis — de anima ut forma corporis, de sensibus, de intellectu, de immaterialitate mentis."
+    "la": "Expositio *De Anima* Aristotelis — de anima ut forma corporis, de sensibus, de intellectu, de immaterialitate mentis.",
+    "pt-BR": "Comentário de Santo Tomás ao *De Anima* de Aristóteles — sobre a alma como forma do corpo, os sentidos, o intelecto e a imaterialidade da mente."
   },
   "composed": "1267–1268",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,112 +39,128 @@
       "id": "g1",
       "title": {
         "en-US": "Book 1 — Opinions about the Soul",
-        "la": "Liber 1"
+        "la": "Liber 1",
+        "pt-BR": "Livro 1 — Opiniões sobre a alma"
       },
       "children": [
         {
           "id": "g1-pr",
           "title": {
             "en-US": "Prologue — Opinions about the Soul",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo — Opiniões sobre a alma"
           }
         },
         {
           "id": "g1-c001",
           "title": {
             "en-US": "Lecture 1 — The dignity, utility, order, and difficulty of this science",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A dignidade, a utilidade, a ordem e a dificuldade desta ciência"
           }
         },
         {
           "id": "g1-c002",
           "title": {
             "en-US": "Lecture 2 — Questions of method",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Questões de método"
           }
         },
         {
           "id": "g1-c003",
           "title": {
             "en-US": "Lecture 3 — Democritus, the Pythagoreans, and Anaxagoras",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Demócrito, os pitagóricos e Anaxágoras"
           }
         },
         {
           "id": "g1-c004",
           "title": {
             "en-US": "Lecture 4 — Empedocles, Plato, and soul as self-moving number",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Empédocles, Platão e a alma como número que se move a si mesmo"
           }
         },
         {
           "id": "g1-c005",
           "title": {
             "en-US": "Lecture 5 — Soul as identified with the elements",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A alma identificada com os elementos"
           }
         },
         {
           "id": "g1-c006",
           "title": {
             "en-US": "Lecture 6 — Soul as a self-moving substance",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — A alma como substância que se move a si mesma"
           }
         },
         {
           "id": "g1-c007",
           "title": {
             "en-US": "Lecture 7 — Democritus and Plato on the soul as a mover of the body",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Demócrito e Platão sobre a alma como motor do corpo"
           }
         },
         {
           "id": "g1-c008",
           "title": {
             "en-US": "Lecture 8 — A critique of Plato on the soul as a spatial magnitude",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Crítica a Platão sobre a alma como grandeza espacial"
           }
         },
         {
           "id": "g1-c009",
           "title": {
             "en-US": "Lecture 9 — Theory of soul as harmony",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — A teoria da alma como harmonia"
           }
         },
         {
           "id": "g1-c010",
           "title": {
             "en-US": "Lecture 10 — Theory of soul as a self-mover reconsidered",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — Reexame da teoria da alma como o que move a si mesmo"
           }
         },
         {
           "id": "g1-c011",
           "title": {
             "en-US": "Lecture 11 — Soul as a self-moving number",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — A alma como número que se move a si mesmo"
           }
         },
         {
           "id": "g1-c012",
           "title": {
             "en-US": "Lecture 12 — Empedocles’s theory of cognition and why soul is not composed of the elements",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — A teoria do conhecimento de Empédocles e por que a alma não é composta dos elementos"
           }
         },
         {
           "id": "g1-c013",
           "title": {
             "en-US": "Lecture 13 — The elements have no soul",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — Os elementos não têm alma"
           }
         },
         {
           "id": "g1-c014",
           "title": {
             "en-US": "Lecture 14 — The unity of the soul",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14 — A unidade da alma"
           }
         }
       ]
@@ -149,217 +169,248 @@
       "id": "g2",
       "title": {
         "en-US": "Book 2 — Powers of the Soul",
-        "la": "Liber 2"
+        "la": "Liber 2",
+        "pt-BR": "Livro 2 — As potências da alma"
       },
       "children": [
         {
           "id": "g2-c001",
           "title": {
             "en-US": "Lecture 1 — The definition of the soul",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A definição da alma"
           }
         },
         {
           "id": "g2-c002",
           "title": {
             "en-US": "Lecture 2 — The definition of soul and body explained",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Explicação da definição da alma e do corpo"
           }
         },
         {
           "id": "g2-c003",
           "title": {
             "en-US": "Lecture 3 — The definition justified and the modes of living",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A definição justificada e os modos de viver"
           }
         },
         {
           "id": "g2-c004",
           "title": {
             "en-US": "Lecture 4 — Different kinds of soul",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Os diversos gêneros de alma"
           }
         },
         {
           "id": "g2-c005",
           "title": {
             "en-US": "Lecture 5 — The soul’s powers in general",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — As potências da alma em geral"
           }
         },
         {
           "id": "g2-c006",
           "title": {
             "en-US": "Lecture 6 — Interrelation and definition of the soul’s powers",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — Relação mútua e definição das potências da alma"
           }
         },
         {
           "id": "g2-c007",
           "title": {
             "en-US": "Lecture 7 — The vegetative principle: three senses of the soul’s causality",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — O princípio vegetativo: três sentidos da causalidade da alma"
           }
         },
         {
           "id": "g2-c008",
           "title": {
             "en-US": "Lecture 8 — The vegetative principle: two errors refuted",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — O princípio vegetativo: refutação de dois erros"
           }
         },
         {
           "id": "g2-c009",
           "title": {
             "en-US": "Lecture 9 — The vegetative principle: nutrition",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — O princípio vegetativo: a nutrição"
           }
         },
         {
           "id": "g2-c010",
           "title": {
             "en-US": "Lecture 10 — Potency and act in sensation",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — Potência e ato na sensação"
           }
         },
         {
           "id": "g2-c011",
           "title": {
             "en-US": "Lecture 11 — Potency and act in sensation continued",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — Potência e ato na sensação (continuação)"
           }
         },
         {
           "id": "g2-c012",
           "title": {
             "en-US": "Lecture 12 — Actualizations of sense and intellect compared",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — Comparação entre as atualizações do sentido e do intelecto"
           }
         },
         {
           "id": "g2-c013",
           "title": {
             "en-US": "Lecture 13 — Sense-objects in general",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — Os sensíveis em geral"
           }
         },
         {
           "id": "g2-c014",
           "title": {
             "en-US": "Lecture 14 — The object of sight",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14 — O objeto da vista"
           }
         },
         {
           "id": "g2-c015",
           "title": {
             "en-US": "Lecture 15 — How color is seen",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15 — Como se vê a cor"
           }
         },
         {
           "id": "g2-c016",
           "title": {
             "en-US": "Lecture 16 — The causes of sound and echo",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16 — As causas do som e do eco"
           }
         },
         {
           "id": "g2-c017",
           "title": {
             "en-US": "Lecture 17 — High and low sounds and the medium of hearing",
-            "la": "Lectio 17"
+            "la": "Lectio 17",
+            "pt-BR": "Lição 17 — Sons agudos e graves e o meio da audição"
           }
         },
         {
           "id": "g2-c018",
           "title": {
             "en-US": "Lecture 18 — Voice",
-            "la": "Lectio 18"
+            "la": "Lectio 18",
+            "pt-BR": "Lição 18 — A voz"
           }
         },
         {
           "id": "g2-c019",
           "title": {
             "en-US": "Lecture 19 — The object of smell",
-            "la": "Lectio 19"
+            "la": "Lectio 19",
+            "pt-BR": "Lição 19 — O objeto do olfato"
           }
         },
         {
           "id": "g2-c020",
           "title": {
             "en-US": "Lecture 20 — How smell occurs",
-            "la": "Lectio 20"
+            "la": "Lectio 20",
+            "pt-BR": "Lição 20 — Como se dá o olfato"
           }
         },
         {
           "id": "g2-c021",
           "title": {
             "en-US": "Lecture 21 — Taste: medium, object, organ, and kinds of flavor",
-            "la": "Lectio 21"
+            "la": "Lectio 21",
+            "pt-BR": "Lição 21 — O paladar: meio, objeto, órgão e espécies de sabor"
           }
         },
         {
           "id": "g2-c022",
           "title": {
             "en-US": "Lecture 22 — Touch: its medium and whether it is one sense or many",
-            "la": "Lectio 22"
+            "la": "Lectio 22",
+            "pt-BR": "Lição 22 — O tato: o seu meio e se é um só sentido ou muitos"
           }
         },
         {
           "id": "g2-c023",
           "title": {
             "en-US": "Lecture 23 — Touch: its medium, object, and organ",
-            "la": "Lectio 23"
+            "la": "Lectio 23",
+            "pt-BR": "Lição 23 — O tato: o seu meio, objeto e órgão"
           }
         },
         {
           "id": "g2-c024",
           "title": {
             "en-US": "Lecture 24 — General conclusions on sensation",
-            "la": "Lectio 24"
+            "la": "Lectio 24",
+            "pt-BR": "Lição 24 — Conclusões gerais sobre a sensação"
           }
         },
         {
           "id": "g2-c025",
           "title": {
             "en-US": "Lecture 25 — The common sense-objects and whether there is a sixth sense",
-            "la": "Lectio 25"
+            "la": "Lectio 25",
+            "pt-BR": "Lição 25 — Os sensíveis comuns e se há um sexto sentido"
           }
         },
         {
           "id": "g2-c026",
           "title": {
             "en-US": "Lecture 26 — Sensing sensation",
-            "la": "Lectio 26"
+            "la": "Lectio 26",
+            "pt-BR": "Lição 26 — A percepção da própria sensação"
           }
         },
         {
           "id": "g2-c027",
           "title": {
             "en-US": "Lecture 27 — The common sense",
-            "la": "Lectio 27"
+            "la": "Lectio 27",
+            "pt-BR": "Lição 27 — O sentido comum"
           }
         },
         {
           "id": "g2-c028",
           "title": {
             "en-US": "Lecture 28 — Sense distinguished from intellect and imagination distinguished from opinion",
-            "la": "Lectio 28"
+            "la": "Lectio 28",
+            "pt-BR": "Lição 28 — O sentido distinto do intelecto e a imaginação distinta da opinião"
           }
         },
         {
           "id": "g2-c029",
           "title": {
             "en-US": "Lecture 29 — Imagination: what it is not",
-            "la": "Lectio 29"
+            "la": "Lectio 29",
+            "pt-BR": "Lição 29 — A imaginação: o que ela não é"
           }
         },
         {
           "id": "g2-c030",
           "title": {
             "en-US": "Lecture 30 — Imagination: what it is",
-            "la": "Lectio 30"
+            "la": "Lectio 30",
+            "pt-BR": "Lição 30 — A imaginação: o que ela é"
           }
         }
       ]
@@ -368,91 +419,104 @@
       "id": "g3",
       "title": {
         "en-US": "Book 3 — Intellect and Movement",
-        "la": "Liber 3"
+        "la": "Liber 3",
+        "pt-BR": "Livro 3 — O intelecto e o movimento"
       },
       "children": [
         {
           "id": "g3-c001",
           "title": {
             "en-US": "Lecture 1 — The intellect in general",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — O intelecto em geral"
           }
         },
         {
           "id": "g3-c002",
           "title": {
             "en-US": "Lecture 2 — Intellectual abstraction",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A abstração intelectual"
           }
         },
         {
           "id": "g3-c003",
           "title": {
             "en-US": "Lecture 3 — Problems arising from intellect as an intelligible",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Problemas que surgem do intelecto enquanto inteligível"
           }
         },
         {
           "id": "g3-c004",
           "title": {
             "en-US": "Lecture 4 — The agent intellect",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — O intelecto agente"
           }
         },
         {
           "id": "g3-c005",
           "title": {
             "en-US": "Lecture 5 — Intellectual activities with simple and complex intelligibles",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — As atividades intelectuais com inteligíveis simples e complexos"
           }
         },
         {
           "id": "g3-c006",
           "title": {
             "en-US": "Lecture 6 — Sense and intellect compared, the practical intellect, and abstraction",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — Comparação entre o sentido e o intelecto, o intelecto prático e a abstração"
           }
         },
         {
           "id": "g3-c007",
           "title": {
             "en-US": "Lecture 7 — Recapitulation of the intellect, sense, and imagination",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Recapitulação sobre o intelecto, o sentido e a imaginação"
           }
         },
         {
           "id": "g3-c008",
           "title": {
             "en-US": "Lecture 8 — The principle of movement in living beings: what it is not",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — O princípio do movimento nos seres vivos: o que ele não é"
           }
         },
         {
           "id": "g3-c009",
           "title": {
             "en-US": "Lecture 9 — The principles of movement in living beings: what they are",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — Os princípios do movimento nos seres vivos: o que eles são"
           }
         },
         {
           "id": "g3-c010",
           "title": {
             "en-US": "Lecture 10 — The principles of movement in living beings continued",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — Os princípios do movimento nos seres vivos (continuação)"
           }
         },
         {
           "id": "g3-c011",
           "title": {
             "en-US": "Lecture 11 — Sensation and life: touch as fundamental sense",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — Sensação e vida: o tato como sentido fundamental"
           }
         },
         {
           "id": "g3-c012",
           "title": {
             "en-US": "Lecture 12 — Touch: the fundamental sense",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — O tato: o sentido fundamental"
           }
         }
       ]
@@ -461,5 +525,12 @@
   "arrived": {
     "en-US": "2026-06-04",
     "la": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
+    }
   }
 }
