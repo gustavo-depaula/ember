@@ -22,9 +22,10 @@ const kinds: CheckInKind[] = ['mass', 'confession', 'adoration', 'visit']
 // Church check-in: record a visit and what you were there for. A Mass check-in also completes the
 // "mass" practice for today, so Mass attendance flows into the plan of life rather than being a
 // parallel tally. Its prominence follows the moment: while a service is on (`underway`) it is the
-// card under the next-time line, asking whether you're there; the rest of the day it is a tile in
-// the church's action bar, handed to `actions` to render alongside the others. Either opens the
-// same inline form (no modal), with the service's kind already chosen.
+// card under the next-time line, asking whether you're there. The tile in the church's action bar,
+// handed to `actions` to render alongside the others, stays there throughout, so a visit or a
+// confession can be logged while a Mass is on. Either opens the same inline form (no modal): the
+// card with the service's kind already chosen, the tile with a visit.
 export function CheckIn({
   church,
   locale,
@@ -59,10 +60,10 @@ export function CheckIn({
       })
     : ''
 
-  const openForm = () => {
+  const openForm = (preset: CheckInKind) => {
     void lightTap()
     liftSheet()
-    setKind((underway?.service.kind as CheckInKind | undefined) ?? 'visit')
+    setKind(preset)
     setFailed(false)
     setOpen(true)
   }
@@ -129,25 +130,22 @@ export function CheckIn({
           </Typography>
         </XStack>
       )
-    return <UnderwayCard underway={underway} now={now} onCheckIn={openForm} />
+    return (
+      <UnderwayCard
+        underway={underway}
+        now={now}
+        onCheckIn={() => openForm((underway.service.kind as CheckInKind | undefined) ?? 'visit')}
+      />
+    )
   })()
 
-  // While a service is on, the card stands above the action bar; otherwise the bar carries the
-  // check-in as its last tile, and the form opens beneath the tile that was tapped.
-  if (underway)
-    return (
-      <YStack gap="$sm">
-        {panel}
-        {actions()}
-      </YStack>
-    )
-
+  const toggleForm = open ? () => setOpen(false) : () => openForm('visit')
   const tile = checkedToday ? (
     <ActionTile
       label={t('massTimes.checkedInToday')}
       icon={<Check size={20} color={theme.colorGreen?.val} />}
       tone="$colorGreen"
-      onPress={open ? () => setOpen(false) : openForm}
+      onPress={toggleForm}
     />
   ) : (
     <ActionTile
@@ -158,9 +156,18 @@ export function CheckIn({
           ? `${count}× · ${new Date(last ?? '').toLocaleDateString(locale, { month: 'short', day: 'numeric' })}`
           : undefined
       }
-      onPress={open ? () => setOpen(false) : openForm}
+      onPress={toggleForm}
     />
   )
+  // While a service is on, its card stands above the action bar; otherwise the form opens
+  // beneath the tile that was tapped.
+  if (underway)
+    return (
+      <YStack gap="$sm">
+        {panel}
+        {actions(tile)}
+      </YStack>
+    )
   return (
     <YStack gap="$sm">
       {actions(tile)}
