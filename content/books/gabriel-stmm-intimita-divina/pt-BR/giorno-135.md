@@ -1,5 +1,4 @@
 # 59 — O CORDEIRO MANSO
-
 *terça-feira santa*
 
 **Presença de Deus.** — *Ó Jesus, concede-me a graça de penetrar o abismo de dor escavado pelo pecado em teu Coração mansuetíssimo.*

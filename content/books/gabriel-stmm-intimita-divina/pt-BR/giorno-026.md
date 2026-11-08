@@ -1,4 +1,5 @@
 # 26 — O MISTÉRIO DA ENCARNAÇÃO
+
 *22 dezembro*
 
 **Presença de Deus.** — *Ponho-me na presença de Jesus com o vivo desejo de penetrar naquele infinito mistério de amor divino que levou Ele, Deus, a fazer-se “um de nós”.*

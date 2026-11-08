@@ -12,17 +12,13 @@ S. Giovanni della Croce spiega ancora più a fondo questo alto stato: «Essendo 
 
 È il trionfo della grazia nell'anima. Questa grazia, che le è stata comunicata in germe nel battesimo ed è via via aumentata attraverso le varie tappe della vita spirituale, giunge allo stato di maturità quando l'anima si è messa totalmente nelle mani di Dio, dandogli tutta la sua volontà. Non invano l'anima è morta a se stessa, è morta per vivere in Dio e di Dio, per vivere della sua vita, del suo amore, della sua volontà. «Siete morti — dice S. Paolo — e la vita vostra s'è nascosta con Cristo in Dio» *(Col.* 3, 3).
 
-**2** — Con la sua autorità di Dottore della Chiesa, S. Giovanni della Croce dichiara: «Se l'anima farà quello che può dal canto suo, cioè se giungerà ad essere vuota e
-
-spropriata di tutte le cose, è impossibile che Iddio ometta di fare quanto è da parte sua, ossia di comunicarsi a lei, almeno in segreto silenzio: più impossibile anzi dell'ipotesi assurda che il raggio del sole non risplenda nel cielo sereno. E come il sole sorge di buon mattino per entrare col suo raggio in casa tua, purché tu gli apra la finestra, così Dio entrerà nell'anima vuota e la riempirà di beni divini» *(F.* 3, 46).
+**2** — Con la sua autorità di Dottore della Chiesa, S. Giovanni della Croce dichiara: «Se l'anima farà quello che può dal canto suo, cioè se giungerà ad essere vuota e spropriata di tutte le cose, è impossibile che Iddio ometta di fare quanto è da parte sua, ossia di comunicarsi a lei, almeno in segreto silenzio: più impossibile anzi dell'ipotesi assurda che il raggio del sole non risplenda nel cielo sereno. E come il sole sorge di buon mattino per entrare col suo raggio in casa tua, purché tu gli apra la finestra, così Dio entrerà nell'anima vuota e la riempirà di beni divini» *(F.* 3, 46).
 
 Da lungo tempo il Signore, Sole divino, splende sulla tua anima col raggio luminoso della sua grazia; da lungo tempo Egli bussa alla tua porta: «Ecco, io sto all'uscio e picchio» *(Ap.* 3, 20). Ogni Confessione, ogni Comunione, ogni S. Messa, ogni occasione di esercitare la virtù, ogni ispirazione, ogni comando o invito dell'obbedienza non è forse un nuovo bussare di Dio alla porta del tuo cuore? E tu che fai? Perché lo lasci attendere ancora? Orsù, svegliati dal torpore e spalanca l'anima tua. «Alzate, o porte, i vostri frontoni e fatevi alte... affinché entri il Re della gloria» *(Sal.* 23, 7). Non ti accontentare di aver aperto l'uscio a metà e neppure per tre quarti, ma spalancalo completamente; bisogna alzare i frontoni, bisogna togliere ogni impedimento: deve entrare il tuo Dio.
 
 Se ti costa rinnegare in tutto la tua volontà, pensa quanto è bello e grande lasciarsi guidare in ogni cosa dalla volontà di Dio; se ti pesa rinunciare all'amor proprio e agli affetti terreni, pensa quanto è giocondo possedere l'amore di Dio; se ti ripugna morire a te stesso, pensa quanto è glorioso vivere a Dio. «No — grida piena di entusiasmo S. Teresa di Gesù — non è nulla ciò che abbiamo lasciato! Non è nulla ciò che facciamo o possiamo fare per un Dio che così si comunica con un verme! E giacché possiamo sperare tanto bene fin da questa vita, che facciamo, in che ci fermiamo? Che cosa ci può distrarre dal cercare questo Signore, come la sposa per le vie e per le piazze?» *(M.* VI, 4, 10).
 
-Il Signore vuol comunicarsi all'anima tua, vuol donar-
-
-si del tutto a te, vuol venire a vivere con te: «Se uno ascolta la mia voce e apre l'uscio, entrerò da lui e cenerò con lui e lui con me» *(Ap.* 3, 20). Oh, che tu non perda questo dono immenso per tua colpa, per tua negligenza!
+Il Signore vuol comunicarsi all'anima tua, vuol donar- si del tutto a te, vuol venire a vivere con te: «Se uno ascolta la mia voce e apre l'uscio, entrerò da lui e cenerò con lui e lui con me» *(Ap.* 3, 20). Oh, che tu non perda questo dono immenso per tua colpa, per tua negligenza!
 
 ### Colloquio
 

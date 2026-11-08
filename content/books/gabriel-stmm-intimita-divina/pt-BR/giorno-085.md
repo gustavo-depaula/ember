@@ -9,6 +9,7 @@ disse: “Mestre, eu te seguirei aonde quer que fores”. E
 Jesus lhe respondeu: “As raposas têm tocas e as aves
 do céu têm ninhos, mas o Filho do Homem não tem
 onde reclinar a cabeça” (Mt. 8, 19-20).
+
 A quem quer segui-lo, Jesus põe logo diante o quadro de sua vida extremamente pobre e privada do menor
 conforto, porque quem não se sente capaz de compartilhar, ao menos em certa medida, sua pobreza terrena, não
 poderá ter parte em sua riqueza eterna. Ninguém, de fato, pode servir ao mesmo tempo a dois senhores, Deus e a
@@ -32,7 +33,6 @@ que com essas palavras Jesus não quer falar somente de quem
 é “rico” porque possui muito, mas sobretudo de quem
 é “rico” porque está “apegado” ao que possui.
 
-
 **2** — As riquezas não são por si mesmas um obstáculo
 à salvação eterna e à santidade, mas tornam-se quando
 o homem se faz escravo delas. E para ser escravo dos
@@ -41,7 +41,9 @@ bens terrenos não é preciso possuir muito; basta possuir
 valor. Os Apóstolos eram pobres e possuíam pouco,
 contudo Jesus, quando os convidou a segui-lo, pediu-lhes que abandonassem até aquele pouco. O que realmente libera a alma da escravidão dos bens terrenos não é tanto
 a pobreza material, mas a “pobreza de espírito”, isto é, a pobreza
-dos afetos, dos apegos, mesmo os menores. S.
+dos afetos, dos apegos, mesmo os menores.
+
+S.
 João da Cruz ensina que essa pobreza é “noite para a alma”,
 isto é, serve para fazê-la entrar na noite dos
 sentidos; de fato, a privação das coisas não despoja em
@@ -58,14 +60,12 @@ que danificam a alma, porque nela não entram, mas
 o desejo delas, que nela permanece”
 (ibid., 3, 4).
 
-
 ### Colóquio
 
 Ó benigníssimo Senhor Jesus Cristo, riquíssimo em amor, nada há de mais perigoso neste mundo do que estar aceso de desejos, pois o amor das riquezas é fome insaciável,
 a qual muito mais tortura a alma com o ardor do desejo
 do que lhe causa refrigério quando se alcança aquilo
 que se desejou.
-
 
 “A aquisição das riquezas é causa de grandes fadigas;
 a posse das mesmas traz grandes temores; sua

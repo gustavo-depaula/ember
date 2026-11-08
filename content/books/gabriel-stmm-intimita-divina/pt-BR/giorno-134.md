@@ -1,5 +1,4 @@
 # 58 — A CEIA DE BETÂNIA
-
 *segunda-feira santa*
 
 **Presença de Deus.** — *Ó Senhor, antes que teu corpo seja desfigurado pela Paixão, desejo, com Maria de Betânia, prestar-lhe meus humildes e devotos homenagens.*

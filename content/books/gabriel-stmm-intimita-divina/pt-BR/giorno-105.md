@@ -1,4 +1,5 @@
 # 29 — A TRANSFIGURAÇÃO
+
 *II domingo da Quaresma*
 
 **Presença de Deus.** — *Ó Jesus, que a Tua graça triunfe em mim até tornar-me digno de participar da Tua gloriosa Transfiguração.*
@@ -42,7 +43,6 @@ e assim entrasse na sua glória?” (Lc. 24, 26). Aquilo que o
 pecado desfigurou não pode voltar à primitiva
 beleza sobrenatural senão por meio do sofrimento
 purificador.
-
 
 **2** — Pedro, extasiado pela visão do Tabor, com seu
 ardor habitual exclama: “É bom para nós estarmos aqui”, e se
@@ -90,8 +90,6 @@ interior. É então o momento de repetir: “Jesus só”
 e descer com ele do Tabor para segui-lo com os
 Apóstolos até o Calvário, onde Ele mesmo agonizará abandonado não só pelos homens, mas também pelo
 Pai.
-
-
 
 ### Colóquio
 

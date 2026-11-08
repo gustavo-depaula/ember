@@ -2,8 +2,6 @@
 
 **Presença de Deus.** — *Ó Jesus que, inteiramente esquecido de ti, te consagraste à glória do Pai, ensina-me a esquecer-me.*
 
-
-
 ### Meditação
 
 **1** — Para entrar na plenitude da vida escondida, não
@@ -40,12 +38,10 @@ aspirações; por isso o exercício negativo de não pensar
 mais em si deve ir de par com o positivo
 de centrar-se em Cristo, de “sepultar em Cristo” todo
 pensamento, toda preocupação, também espiritual, de si.
-
 Ninguém conseguirá afastar a preocupação de si
 mesmo se não a fixa no objeto do seu amor; S. Teresa
 Margarida esqueceu-se até o fundo, sepultando seu pensamento
 “em Cristo”, único Dileto.
-
 
 **2** — A alma totalmente esquecida de si é também
 totalmente desinteressada. Não serve mais a Deus com espírito

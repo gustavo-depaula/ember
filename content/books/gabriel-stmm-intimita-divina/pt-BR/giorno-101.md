@@ -32,6 +32,7 @@ a uma espécie de letargia que ainda não é morte, mas
 que já não tem nada da frescura, do vigor de uma
 vida sã e robusta. Falta o fervor da caridade,
 apagado por contínuas e deliberadas condescendências com o pecado venial.
+
 S. Teresa de Jesus, pondo em guarda contra semelhante estado,
 ensina: “Quando não sentirdes dor alguma por um defeito que vos acontece cometer, temei, porque o
 pecado, ainda que venial, deve penetrar-vos de dor até
@@ -39,7 +40,6 @@ o fundo da alma... Por amor de Deus, vigiai atentamente para nunca cometer um s�
 advertido, ainda que pequeno... E que coisa pode haver
 de pequeno na ofensa de uma Majestade tão grande?” (P. 2,
 5 e 20; Cam. 41, 3).
-
 
 **2** — Bem diferentes são os pecados veniais que nos escapam por fragilidade, por inadvertência. Muitas vezes a alma não
 quereria ceder de modo algum, mas, porque ainda é fraca, no momento da tentação, sobretudo se é tomada

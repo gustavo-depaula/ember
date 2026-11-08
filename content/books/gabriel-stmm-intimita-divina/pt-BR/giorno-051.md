@@ -12,9 +12,7 @@ E justamente porque a sua doutrina é absolutamente indispensável, Jesus, para 
 
 Jesus expõe a sua doutrina de modo adaptado não só à mentalidade e às necessidades das multidões da Palestina, mas também às de todas as gerações futuras; por isso, a sua palavra é sempre viva, atual, correspondente às necessidades de todo tempo e de toda pessoa.
 
-Diante do seu ensinamento, eis dois grupos. Os corações soberbos e obstinados, que não quiseram crer nem mesmo nos milagres mais estupendos; deles Jesus disse: “Se eu não tivesse vindo e não lhes tivesse falado, não teriam culpa; mas agora não têm desculpa para o seu pecado” (Jo. 15, 22); e os corações retos, sinceramente desejosos da verdade, que acolheram a sua palavra com fé e amor.
-
-Jesus alegrou-se com isso e disse: “Eu te louvo, ó Pai, Senhor do céu e da terra, porque escondeste estas coisas aos doutos e sábios e as revelaste aos pequeninos” (Mt. 11, 25).
+Diante do seu ensinamento, eis dois grupos. Os corações soberbos e obstinados, que não quiseram crer nem mesmo nos milagres mais estupendos; deles Jesus disse: “Se eu não tivesse vindo e não lhes tivesse falado, não teriam culpa; mas agora não têm desculpa para o seu pecado” (Jo. 15, 22); e os corações retos, sinceramente desejosos da verdade, que acolheram a sua palavra com fé e amor. Jesus alegrou-se com isso e disse: “Eu te louvo, ó Pai, Senhor do céu e da terra, porque escondeste estas coisas aos doutos e sábios e as revelaste aos pequeninos” (Mt. 11, 25).
 
 ### Colóquio
 

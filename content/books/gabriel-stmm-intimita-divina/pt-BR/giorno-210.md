@@ -10,9 +10,7 @@
 
 ### Colóquio
 
-“Por isso, ó Jesus, foi-te trespassado o lado: para que se nos abrisse fácil a entrada. Foi-te trespassado o Coração para que, livres das perturbações exteriores, pudéssemos habitar nele.
-
-“Mas, além disso, foste trespassado para que, através da ferida visível, víssemos aquela invisível do amor, porque quem arde de amor é pelo amor ferido. E de que maneira podias mostrar-nos melhor este teu amor senão deixando-te rasgar por uma lança não somente o Corpo, mas até o Coração? A ferida corporal indica, portanto, a ferida espiritual.
+“Por isso, ó Jesus, foi-te trespassado o lado: para que se nos abrisse fácil a entrada. Foi-te trespassado o Coração para que, livres das perturbações exteriores, pudéssemos habitar nele. “Mas, além disso, foste trespassado para que, através da ferida visível, víssemos aquela invisível do amor, porque quem arde de amor é pelo amor ferido. E de que maneira podias mostrar-nos melhor este teu amor senão deixando-te rasgar por uma lança não somente o Corpo, mas até o Coração? A ferida corporal indica, portanto, a ferida espiritual.
 
 “E quem, pois, não amará este Coração tão trespassado? Quem não amará de volta quem tanto nos ama? Quem não abraçará um Esposo tão casto? Certamente, ó Senhor, ama-te de volta a alma que, sentindo-se ferida pelo teu amor, grita: ‘Eu sou ferida pela caridade’. Também nós, peregrinos na carne, quanto nos é possível amemos, amemos de volta, abracemos o nosso Ferido, a quem foram trespassadas as mãos e os pés, o lado e o Coração. Amemos e rezemos: ó Jesus, digna-te ligar com vínculo e ferir com dardo do teu amor o nosso coração ainda duro e impenitente” (S. Boaventura, Videira Mística, 3, 5).
 

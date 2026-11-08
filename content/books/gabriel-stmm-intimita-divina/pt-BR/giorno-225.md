@@ -1,4 +1,5 @@
 # XXV — CONCÓRDIA FRATERNA
+
 *V Domingo depois de Pentecostes*
 
 **Presença de Deus.** — *Ó Senhor, ensina-me a viver em perfeita concórdia com o próximo, para que as minhas orações e as minhas ofertas te sejam agradáveis.*

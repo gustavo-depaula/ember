@@ -1,4 +1,5 @@
 # XVII — A PRUDÊNCIA
+
 **Presença de Deus.** — *Ensina-me, ó Senhor, o caminho da verdadeira prudência.*
 
 ### Meditação

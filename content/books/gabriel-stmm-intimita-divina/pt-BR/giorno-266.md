@@ -1,4 +1,5 @@
 # V — O MANDAMENTO NOVO
+
 **Presença de Deus.** — *Jesus, concede-me a graça de compreender a fundo o teu mandamento novo, o mandamento da caridade fraterna.*
 
 ### Meditação

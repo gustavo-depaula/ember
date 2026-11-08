@@ -23,12 +23,17 @@ Se queremos saborear as suaves alegrias do Natal, devemos saber preparar-nos com
 ### Colóquio
 
 Ó Verbo, meu Salvador, como duvidar que vens a esta terra para salvar-me, para santificar-me? Como não vir a ti com plena confiança e familiaridade, quando nada poupaste para testemunhar-me o teu infinito amor misericordioso? A tua Encarnação, os teus vagidos de criança, a tua vida humilde e escondida, o teu apostolado, os teus milagres, a tua dolorosa Paixão e Morte, todo o teu Sangue derramado não serão, pois, suficientes para fazer-me crer no teu amor, para abrir o meu coração à mais completa confiança?
+
 “Meu Deus, bem compreendo o teu amor por mim... Ah, bem o sinto, que ainda que pesassem sobre a alma todos os delitos que se podem cometer, eu não perderia um átomo desta confiança. Com o coração partido pelo arrependimento, voaria para lançar-me entre os teus braços, ó meu Salvador, porque sei que Tu amas ternamente o filho pródigo, e ouvi as tuas palavras à Madalena, à mulher adúltera, à samaritana. Não, ninguém poderia assustar-me, porque sei quanto poderia contar com o teu amor e com a tua misericórdia; sei que num abrir e fechar de olhos todo aquele cúmulo de ofensas desapareceria como uma gota de água lançada num braseiro ardente” (T.B.G. St. 11 e 10).
+
 Com esta confiança, ó meu Jesus, quero portanto retomar o meu caminho e recomeçar os meus pobres esforços.
+
 Tu me convidas, neste Advento, a um maior recolhimento interior, a um maior silêncio interno e externo para ouvir a tua voz, para preparar-me para a tua vinda. Digna-te, pois, fazer calar em mim o contínuo falatório das coisas vãs; as vozes discordantes da natureza, do amor-próprio, da suscetibilidade, o tagarelar distraído das fantasias, imaginações, pensamentos, preocupações inúteis.
 
 Reconheço-o, muitas vezes a minha mente e o meu coração se assemelham a um mar em tempestade onde as ondas se sucedem sem cessar com ruído ensurdecedor; contudo, se quiseres, bastará um teu aceno para que volte a calma, para que tudo se cale.
 
 Mas Tu me fazes compreender que o silêncio interior exige desapego de si mesmo e das criaturas, exige mortificação interna e externa. Sim, por teu amor quero mortificar a minha curiosidade: curiosidade dos olhares, do ouvido, do pensamento, da fantasia.
+
 Quero também fazer calar as minhas paixões, e por isso proponho-me mortificar o meu corpo com maior generosidade.
+
 Ó Verbo eterno, meu Salvador, atrai a ti todas as minhas potências, fixa em ti o meu olhar interior, para que eu possa buscar e ouvir só a ti, Palavra eterna do meu eterno Deus!

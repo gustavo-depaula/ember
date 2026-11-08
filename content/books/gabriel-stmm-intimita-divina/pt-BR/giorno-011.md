@@ -19,7 +19,6 @@ A busca amorosa de Deus escondido em nós caminha de mãos dadas com esta morte 
 Vivemos demasiado por fora; demasiadas vezes há em nós todo um mundo de tendências, de impulsos, de paixões muito vivas, que nos empurram para as criaturas e nos induzem a dar-lhes o nosso coração, a pôr nelas a nossa esperança, a buscar o nosso consolo na lembrança delas. E vivemos neste mundo superficial, que nos ocupa a tal ponto de fazer-nos esquecer a vida mais profunda, vida verdadeiramente interior, onde a alma poderia permanecer em íntima união com o seu Deus. O Senhor espera-nos, por assim dizer, no fundo da nossa alma, mas nós não entramos neste fundo, tomados como estamos pelos “nossos negócios”, aos quais damos todo o nosso interesse.
 
 É preciso, portanto, sair de si mesmo e de todas as coisas, esquecer-se de si mesmo e de todas as coisas, evadir-se do mundo exterior, da vida superficial, para “esconder-se” com Deus “escondido”.
-
 \* Cf. Pe. Gabriele de S. M. Madalena: A União com Deus segundo S. João da Cruz, ed. do Carmelo S. José - Roma.
 
 ### Colóquio
@@ -31,8 +30,11 @@ As coisas externas, as criaturas, os seus discursos podem talvez falar-me de ti,
 Mas compreendo-o, ó meu Deus: para encontrar-te é necessário que eu saia de todas as coisas; saia do barulho e do turbilhão da vida externa, do ruído das coisas do mundo, da curiosidade que me arrasta para fora para ver, para ouvir, para saber. Sair com a vontade de todo este mundo exterior que continuamente tenta agarrar a minha atenção, os meus pensamentos, os meus afetos. Ajuda-me a fazer calar as minhas curiosidades inúteis, a minha excessiva loquacidade; ajuda-me a passar no meio das vicissitudes da vida terrena, das suas atraentes aparências, dos seus negócios, da sua vertiginosa atividade, sem que o meu olhar e o meu coração se detenham nessas coisas buscando nelas satisfação, consolo e interesse pessoal.
 
 Sair de todas as coisas quer dizer morrer um pouco, morrer para a vida superficial, para a vida puramente humana, para o homem velho com todas as suas paixões. Sair é desvincular-se, desapegar-se de tudo para buscar só a ti; esta “saída” não se identifica talvez com a íngreme “subida” do monte da perfeição, com o estreito caminho do “nada” que conduz ao “tudo” da vida de perfeita união contigo?
+
 Que nova luz, meu Deus! Como vejo bem que esta subida, este monte de perfeição, e o próprio cume esplêndido onde a alma se une perfeitamente a ti, tudo se encontra não fora, mas dentro de mim. O cume é o esconderijo, onde te ocultas; e para encontrar-te devo também eu esconder-me contigo, caminhando sempre pela via do “nada”, do desapego total de todas as coisas.
+
 Será, pois, possível desapegar-se de tudo, deixar tudo para encontrar-te, ó meu Deus? Mas que consolo para a minha fraqueza saber que neste áspero caminho de renúncia total não estou sozinho: Tu estás sempre comigo. Ó Pai, sê Tu a minha força; ó Verbo, sê Tu a minha luz; ó Espírito Santo, sê Tu o meu amor.
+
 Ó Santíssima Trindade, és o meu grande tesouro, para adquirir o qual é bem pouco vender todas as coisas desta terra!
 
 [^1]: Cf. Pe. Gabriel de S. M. Madalena: *A União com Deus segundo S. João da Cruz*, 2ª ed., Carmelo S. José – Roma, 1956.

@@ -5,6 +5,7 @@
 ### Meditação
 
 **1** — “A vida eterna é esta: que conheçam a ti, único Deus verdadeiro” (Jo. 17, 3), afirmou Jesus. E S. João evangelista observa: “Ninguém jamais viu a Deus; o Filho unigênito, que está no seio do Pai, foi quem no-lo revelou” (Jo. 1, 18). Só o Filho de Deus pode fazer-nos conhecer Deus: somente ele, na sua qualidade de Verbo, pode ser o Revelador de Deus.
+
 Como a nossa palavra exprime o nosso pensamento, assim o Verbo, Palavra do Pai, exprime o Pai, revela a natureza de Deus. Quando o Verbo se encarna, permanece aquilo que é, e por isso continua a ser a Palavra, o esplendor, o revelador de Deus; encarnando-se, não faz senão tornar-se sensível a nós homens, acessível às nossas capacidades humanas, mas não diminui de modo algum a sua qualidade de Verbo.
 
 Mesmo quando Jesus não fala, com a sua própria Pessoa e com qualquer ato seu, mostra-nos, revela-nos Deus. Várias vezes, e com certo pesar por não ser compreendido, Jesus repetiu: “se me conhecêsseis, conheceríeis também meu Pai” (Jo. 8, 19; 14, 7). E a Filipe, que durante a última Ceia ainda lhe pedia que lhe mostrasse o Pai, respondia em tom de doce repreensão: “Há tanto tempo estou convosco, e não me conhecestes? Filipe, quem me vê, vê também o Pai... Não crês que eu estou no Pai e o Pai em mim?” (ibid., 14, 9-10).
@@ -20,7 +21,10 @@ Mas há outras verdades divinas absolutamente inalcançáveis pela inteligência
 “Ó Jesus Cristo, Filho de Deus, Verbo e Sabedoria do Pai, Tu és o livro da vida: Tu apareceste neste mundo para nos instruir com a tua vida, morte e doutrina... Ó Deus incriado, torna-me digna de conhecer como este teu Filho nos revelou a ti, seu Pai” (B. Ângela de Foligno).
 
 Ó Jesus, também eu te peço com Filipe: “Mostra-me o Pai”, mas acrescento logo: mostra-mo em ti, porque o Pai está em ti e Tu nele, de modo que, olhando para ti, vejo e encontro o teu Pai. A tua Humanidade é um véu que esconde e vela a Divindade do Pai, Divindade que é também tua porque Tu és Deus como o Pai e como o Espírito Santo. Tu és o Verbo, ó Jesus, mas o Verbo encarnado, e na tua carne está, por assim dizer, escrita a Palavra do Pai, de modo que eu posso lê-la em ti, único verdadeiro livro da Vida. Com todo o teu Ser, com a tua Pessoa, as tuas ações e palavras, Tu me revelas Deus; e sempre e de todos os modos me repetes uma grande coisa: Deus é caridade. A vida eterna é conhecer-te, ó Jesus, e por meio de ti conhecer Deus, e este conhecimento só Tu podes dá-lo, só de ti posso aprendê-lo; como é necessário, pois, e como desejo que Tu me instruas.
+
 “Ó Senhor e meu verdadeiro Deus, quem não te conhece não te ama.
 Oh! grande verdade! Mas que desventura, que desventura, Senhor, para aqueles que não te querem conhecer!” (T.G. Es. 14, 1).
+
 Ó Jesus, que os mundanos não se preocupem em conhecer-te e ao teu Pai é certamente coisa deplorável; mas que uma alma a ti consagrada proceda assim, ou se contente em conhecer-te só superficialmente, seria uma enormidade impensável.
+
 Ó Senhor, revela-te à minha alma porque eu desejo conhecer-te; conhecer-te para amar-te, para servir-te, para regular a minha vida segundo os teus desejos. “Ó Deus, acaso no mundo, quando se trata de contrair matrimônio, não se procura primeiro conhecer quem é aquele com quem se quer casar, suas qualidades, seus bens? E nós, que já somos esposadas, não deveríamos... conhecer quem é o nosso Esposo, quem é o Pai dele, qual é a pátria para a qual nos deve conduzir, quais as riquezas que nos promete, que caráter tem, em que se deve agir para melhor contentá-lo, em que poderíamos agradá-lo e estudar o modo de conformar o nosso caráter ao seu? Mas, ó meu Esposo, será talvez verdade que, tratando-se de vós, se deva fazer menos caso do que dos homens?” (TG. Cam. 22, 7 e 8).

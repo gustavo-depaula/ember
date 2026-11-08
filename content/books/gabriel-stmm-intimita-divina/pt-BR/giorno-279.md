@@ -1,4 +1,5 @@
 # XVIII — O JUÍZO PRUDENTE
+
 **Presença de Deus.** — *Ajuda-me, ó Senhor, a julgar retamente as coisas, para poder depois agir retamente.*
 
 ### Meditação

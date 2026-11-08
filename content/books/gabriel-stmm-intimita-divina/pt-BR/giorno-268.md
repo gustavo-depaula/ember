@@ -1,4 +1,5 @@
 # VII — A GRAÇA DO BATISMO
+
 *XI Domingo depois de Pentecostes*
 
 **Presença de Deus.** — *Ó Senhor, que a graça do santo Batismo chegue em mim à plena maturação.*

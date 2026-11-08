@@ -22,8 +22,6 @@ do espírito.
 A modéstia é um exercício particular de mortificação
 destinado a moderar e regular todo o agir interno e
 externo do homem, em conformidade com sua vocação.
-
-
 S. Paulo recomenda esta virtude a todos os cristãos: “a
 vossa modéstia seja conhecida de todos os homens” (Fil. 4, 5); mas
 as almas consagradas são a ela obrigadas de modo mais estrito
@@ -38,7 +36,6 @@ O voto de castidade, consagrando a Deus o corpo,
 consagra-lhe também os sentidos, os quais por isso devem ser libertados
 das coisas baixas da terra, para serem totalmente empenhados
 no serviço divino.
-
 
 **2** — Quanto mais uma pessoa aspira a tal doação a
 Deus, quanto mais visa à união com Ele e mais sua conduta deve
@@ -58,7 +55,6 @@ sentidos de todas aquelas coisas
 que os entulham inutilmente, com o perigo de fazer chegar
 à alma impressões menos puras, menos santas.
 
-
 Quem, sem necessidade, quer tudo ver, tudo ouvir, tudo experimentar, é semelhante a quem deixa as portas da própria casa abertas a qualquer invasão. Os sentidos são as portas
 da alma; é preciso guardá-los para não pôr em risco o
 tesouro da castidade.
@@ -71,8 +67,6 @@ desviando os sentidos das coisas terrenas, concentra-os e fixa-os
 em Deus: “Faremos morrer em nós a curiosidade dos nossos olhos
 e, desviando-os de todas as coisas inúteis, os fixaremos em nós
 mesmos, nos movimentos do nosso coração e no Coração de Jesus.”
-
-
 Só quem ama muito o Senhor é capaz de impor-se uma
 tão difícil decisão.
 

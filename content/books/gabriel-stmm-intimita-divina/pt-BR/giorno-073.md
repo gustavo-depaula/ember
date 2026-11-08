@@ -1,7 +1,6 @@
 # 73 — A PENITÊNCIA[^1]
 
 *(Nota: não tratamos aqui da Eucaristia, pois ela é amplamente tratada no volume IV. Quanto à penitência, o assunto é completado no volume II pela meditação “A confissão”.)*
-
 **Presença de Deus.** — *Ó Jesus, que vais em busca do filho pródigo, não desprezes o meu coração arrependido e humilhado, mas purifica-o no banho salutar do teu preciosíssimo Sangue.*
 
 ### Meditação
@@ -23,5 +22,4 @@
 “Digna-te, portanto, ajudar-me, ó misericordiosíssimo Senhor Jesus Cristo, fogo e luz de amor; acende e ilumina meu coração duro e rebelde ao teu amor, para que, com teu auxílio, eu me doa, por teu amor, dos meus pecados; faça penitência; entregue-me com coração puro, humilde e amante à prática das obras que te agradam, para que, prevenido, assistido e seguido por tua graça, viva na vida presente do teu amor e, terminada esta, obtenha, por tua misericórdia, a vida eterna para amar-te na glória” (Ven. Raimundo Jordão, antigo autor conhecido na literatura ascética sob o pseudônimo de “Idiota”).[^2]
 
 [^1]: Não tratamos aqui da Eucaristia, pois dela tratamos amplamente no volume IV. Quanto à penitência, o assunto é completado no volume II pela meditação: “A confissão”.
-
 [^2]: Antigo autor, conhecido na literatura ascética sob o pseudônimo de “Idiota”.

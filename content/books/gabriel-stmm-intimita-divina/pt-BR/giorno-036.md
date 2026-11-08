@@ -18,7 +18,6 @@ quis submeter-se a ela como o último filho de Abraão, porque,
 como ensina São Paulo, “Ele devia em tudo ser feito
 semelhante aos seus irmãos... para que fossem expiadas as culpas do povo” (Heb. 2, 17). O rito, talvez realizado por José
 na intimidade da família, fez correr das carnes imaculadas de Jesus as primeiras gotas do seu precioso Sangue.
-
 Oito dias depois do seu nascimento, Ele inicia assim a sua missão cruenta de Redentor: ainda não fala, não é conhecido pelo mundo, e já derrama o seu Sangue para a salvação do mundo.
 
 Olhando para Ele aprendemos que as obras valem mais

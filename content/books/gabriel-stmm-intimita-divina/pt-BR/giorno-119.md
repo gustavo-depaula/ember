@@ -1,9 +1,8 @@
 # 43 — A MULTIPLICAÇÃO DOS PÃES
+
 *IV domingo da Quaresma*
 
 **Presença de Deus.** — *Ó Jesus, verdadeiro pão de vida eterna, sacia minha fome.*
-
-
 
 ### Meditação
 
@@ -48,7 +47,6 @@ comer” (Mt. 14, 15). Jesus não aceitou
 e quis prover pessoalmente. Procura também tu, na medida do
 possível, nunca mandar embora o próximo necessitado
 sem lhe prestar tua ajuda.
-
 
 **2** — Antes de realizar o milagre, Jesus pergunta a
 Filipe: “Onde compraremos pão para dar de comer a esta gente?” e o Evangelista observa: “dizia isso para pô-lo à prova,

@@ -1,4 +1,5 @@
 # IX — O MANTO DA CARIDADE
+
 **Presença de Deus.** — *Ó Senhor, ensina-me a cobrir com o manto da caridade os defeitos e os erros alheios.*
 
 ### Meditação

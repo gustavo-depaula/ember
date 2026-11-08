@@ -1,5 +1,4 @@
 # 61 — O DOM DO AMOR
-
 *quinta-feira santa*
 
 **Presença de Deus.** — *Concede-me, ó Jesus, de penetrar a imensidão daquele amor que te conduziu a doar-nos a Eucaristia.*

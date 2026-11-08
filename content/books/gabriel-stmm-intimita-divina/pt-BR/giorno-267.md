@@ -1,4 +1,5 @@
 # VI — NÃO JULGUEIS
+
 **Presença de Deus.** — *Ó Senhor, preserva a minha mente de julgar e criticar o próximo e dá-me para todos pensamentos de bondade e de amor.*
 
 ### Meditação

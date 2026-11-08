@@ -1,4 +1,5 @@
 # 15 — O SENHOR ESTÁ PERTO
+
 *III domingo do Advento*
 
 **Presença de Deus.** — *O Senhor aproxima-se cada vez mais da minha alma com o convite da sua graça; também eu quero aproximar-me dele, reavivando os meus desejos e a minha fé.*
@@ -24,4 +25,5 @@ Também Nossa Senhora viveu de fé; teve de crer nas palavras do Anjo e, aceitan
 “Vem, Senhor, e não tardes mais; desperta o teu poder e vem salvar-nos. Vem, como prometeste, e sê a nossa salvação. Tu és o nosso Salvador, apagarás todas as nossas iniquidades e lançarás no fundo do mar todos os nossos pecados. Descerás como chuva sobre o velo e nos trarás justiça e paz... Tu serás o meu guia e o meu pastor, ensinar-me-ás os teus caminhos e eu caminharei nas tuas veredas. A tua próxima vinda enche-me de alegria e a minha alma exulta em ti, meu Deus e meu Salvador. Ó Senhor, Tu me alegras com tudo o que fazes e eu exulto pela tua obra. Quão magníficas são as tuas obras, quão grande é a tua misericórdia!” (BR.).
 
 Eu creio em ti, confio em ti, meu Deus e Salvador. Busco-te, mas sei que já estás perto de mim, em mim. Perto de mim, oculto sob os véus eucarísticos; em mim, com a graça. Ó Senhor, faze que eu te conheça! Não permitas que se verifique em mim o que acontecia com os judeus: Tu vivias no meio deles e eles não te conheciam. Faze que a minha alma esteja sempre desperta na fé; aumenta a minha fé, porque a fé é a luz pela qual posso conhecer-te nesta terra. Tu estás em mim, Senhor, eu o sei, eu o creio, ainda que não te sinta; mas se quiseres, podes iluminar com a tua luz a minha alma e fazer-me conhecer a tua divina, misteriosa presença.
+
 “Tu és aquela luz acima de toda luz, com a qual dás ao olho do intelecto luz sobrenatural, com tanta abundância e perfeição que esclareces a luz da fé. Na fé a minha alma tem vida e nela recebe e conhece a ti. Na luz da fé adquiro a sabedoria na sabedoria do Verbo. Na luz da fé sou forte, constante e perseverante. Esta luz não me deixa desfalecer no caminho; ensina-me a via e sem ela eu iria nas trevas. Por isso te peço, Senhor, que Tu me ilumines na luz da santíssima fé” (Santa Catarina de Sena).

@@ -15,6 +15,7 @@ almas, pode proceder só de quem vive intimamente unido
 a Deus. O próprio Jesus o proclamou: “Como o ramo não
 pode dar fruto por si mesmo, se não permanecer na
 videira, assim também vós, se não permanecerdes em mim” (Jo. 15, 4).
+
 A união com Deus, a união com Jesus é a condição
 preliminar e indispensável para a eficácia de qualquer atividade apostólica. Esta união se realiza por meio da
 graça santificante, cresce com o uso fervoroso dos sacramentos, com a prática generosa das virtudes, estabelece-se mais

@@ -1,5 +1,4 @@
 # 62 — O MISTÉRIO DA CRUZ
-
 *sexta-feira santa*
 
 **Presença de Deus.** — *Ó Jesus, concede-me de adentrar-me contigo no denso do mistério da Cruz.*

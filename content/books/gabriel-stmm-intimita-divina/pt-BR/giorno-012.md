@@ -4,9 +4,7 @@
 
 ### Meditação
 
-**1** — “Quando quiseres rezar, entra no teu quarto, fecha a porta e reza a teu Pai em segredo” (Mt. 6, 6).
-
-A solidão exterior, o retirar-se materialmente do ruído, das ocupações e preocupações desta vida é um grande meio, aliás, ao menos até certo ponto, um meio indispensável para uma séria vida interior.
+**1** — “Quando quiseres rezar, entra no teu quarto, fecha a porta e reza a teu Pai em segredo” (Mt. 6, 6). A solidão exterior, o retirar-se materialmente do ruído, das ocupações e preocupações desta vida é um grande meio, aliás, ao menos até certo ponto, um meio indispensável para uma séria vida interior.
 
 Toda regra de vida religiosa, mesmo a de um simples Instituto secular, prescreve horas determinadas de oração, nas quais é preciso saber cortar decididamente toda ocupação e retirar-se em solidão para retemperar o espírito num contato mais direto e mais intenso com Deus.
 

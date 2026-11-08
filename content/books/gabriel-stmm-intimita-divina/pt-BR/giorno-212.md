@@ -13,6 +13,7 @@ Precisamente para excitar-nos ao amor, a Igreja nos propõe a devoção ao Sagra
 ### Colóquio
 
 “Vamos, minha alma, desperta. Até quando cochilarás? Acima do céu há um Rei que deseja ver-te: ama-te com todo o coração, ama-te sem medida. Cristo suave e tão fielmente te ama, que deixou o seu reino e se humilhou por ti. Para procurar-te, sofreu ser atado como malfeitor. Ama-te tão cordialmente e tão fortemente, é tão ciumento de ti e tantas provas te deu disso, que por ti entregou de boa vontade o seu Corpo à morte. Ele te lavou com o seu Sangue; resgatou-te com a sua morte. E até quando esperarás para amá-lo de volta? Apressa-te, pois, a dar-lhe uma resposta.
+
 “Eis-me aqui, venho a ti, Jesus amantíssimo! Venho por tua doçura, por tua piedade, por tua caridade; venho com todo o coração, com toda a alma, com todas as forças. Quem me concederá ser toda conforme ao teu Coração, para que Tu possas encontrar em mim tudo o que desejas?
 
 “Ó Jesus, meu Rei e meu Deus, recebe-me no asilo benigníssimo do teu divino Coração, e aqui une-me a ti de tal modo que eu viva totalmente para ti. Deixa, doravante, que eu me abisme no grande mar da tua misericórdia, que eu me abandone completamente à tua piedade, que eu me lance na fornalha ardente do teu amor e nela permaneça até a consumação...

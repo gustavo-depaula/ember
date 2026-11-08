@@ -1,4 +1,5 @@
 # XX — A DILIGÊNCIA
+
 **Presença de Deus.** — *Ó Senhor, torna-me diligente no teu serviço, solícito e pronto para cada dever meu.*
 
 ### Meditação
@@ -13,7 +14,9 @@ Enquanto o negligente se leva ao dever de má vontade, com lentidão e atraso, o
 
 ### Colóquio
 
-“Ó Senhor, refletindo diante de ti, compreendo que o remédio melhor contra certa negligência e moleza no cumprimento dos meus deveres é a caridade: aplicar-me a fazer tudo por amor, com a intenção especial de dar-te gosto. Ó meu Deus, quanta condescendência da tua parte e quanta felicidade para mim, pobre nada, poder agir para dar-te gosto! Este pensamento me determina a sacrificar tudo alegremente. Ó Senhor, Tu me consolas com estas palavras e renovas a minha juventude como a da águia! Sim, em certos momentos me é melhor e mais seguro repetir a mim mesma: faz isto porque dá gosto a Deus, do que dizer simplesmente: é teu dever.
+“Ó Senhor, refletindo diante de ti, compreendo que o remédio melhor contra certa negligência e moleza no cumprimento dos meus deveres é a caridade: aplicar-me a fazer tudo por amor, com a intenção especial de dar-te gosto.
+
+Ó meu Deus, quanta condescendência da tua parte e quanta felicidade para mim, pobre nada, poder agir para dar-te gosto! Este pensamento me determina a sacrificar tudo alegremente. Ó Senhor, Tu me consolas com estas palavras e renovas a minha juventude como a da águia! Sim, em certos momentos me é melhor e mais seguro repetir a mim mesma: faz isto porque dá gosto a Deus, do que dizer simplesmente: é teu dever.
 
 “Ó Senhor, tudo quanto posso fazer já te é devido; antes, estará sempre abaixo do meu dever. Porém a tua bondade divina compraz-se em conceder-me a consolação de pensar que opero para contigo com uma espécie de liberalidade, de generosidade, quando ponho todo cuidado em dar-te gosto não só nas obras de dever, mas também nas supererogatórias e de perfeição, não só nas grandes e importantes, mas nas pequenas e até nas mínimas, porque nada é desprezível daquilo que pode ser oferecido a ti.
 

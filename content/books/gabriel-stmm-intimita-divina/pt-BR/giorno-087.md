@@ -34,12 +34,12 @@ pouco e vive em estreitezas materiais, o espírito de pobreza
 exige aceitar serena e pacientemente as próprias
 condições, vendo nelas um convite a imitar mais de perto
 a vida de Jesus pobre.
+
 Além disso, reflete que o divino Mestre, ao dizer “vende
 o que tens e dá aos pobres”, uniu o exercício
 da pobreza ao da caridade. O espírito de pobreza,
 desapegando teu coração dos bens terrenos, deve tornar-te
 generoso para com os necessitados.
-
 
 **2** — “Não andeis demasiadamente preocupados com a vossa vida, com
 o que comereis ou bebereis, nem... com o que vestireis.

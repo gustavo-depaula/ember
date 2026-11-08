@@ -1,5 +1,4 @@
 # 60 — O HOMEM DAS DORES
-
 *quarta-feira santa*
 
 **Presença de Deus.** — *Ó Jesus apaixonado, faze que em tua Paixão eu possa ler teu amor por mim.*

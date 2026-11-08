@@ -34,7 +34,6 @@ pecado venial ou a simples imperfeições voluntárias. Tudo
 o que é falta voluntária deve ser progressiva, mas
 decisivamente, eliminado por uma alma que quer chegar à união com Deus.
 
-
 **2** — Nos seus exames de consciência, uma alma de vida
 interior - supondo que já esteja livre do pecado
 mortal - mais do que ir em busca de todas as faltas
@@ -93,6 +92,7 @@ pecados dissolveste como gelo. Obra da tua graça
 que eu não soubesse cometer, eu que amei a culpa até gratuitamente? E confesso que todos os pecados me foram perdoados,
 tanto os que espontaneamente cometi, como
 os que, com tua ajuda, não cometi” (S. Agostinho).
+
 Ó meu Deus, que com um só ato da tua vontade
 criaste a luz e a luz foi, repete sobre mim tua onipotente palavra criadora: “*fiat* lux”, e se fará luz na
 minha alma, e na tua luz poderei ver-me tal como realmente

@@ -2,8 +2,6 @@
 
 **Presença de Deus.** — *Ó Jesus, que disseste: “Não vim para ser servido, mas para servir” (cf. Mt. 20, 28), ensina-me a amar o último lugar.*
 
-
-
 ### Meditação
 
 **1** — Jesus não só com palavras, mas também com o exemplo nos mostrou que veio não para ser servido,
@@ -24,6 +22,7 @@ sem consideração alguma, também por quem te é inferior.
 E no entanto Jesus, infinitamente superior a todos, quis ser
 tratado não só como servo, mas como escravo e também como
 malfeitor.
+
 Como diante de Deus a humildade te coloca num lugar
 de inferioridade, de dependência absoluta, assim diante do
 próximo te faz tomar “o último lugar”. “Ai de vós,
@@ -37,7 +36,6 @@ mas fá-lo com simplicidade e desenvoltura, de modo que ninguém,
 apercebendo-se disso, venha convidar-te a passar ao
 primeiro. Tal convite espera-o só de Deus, e não nesta
 vida, mas na outra.
-
 
 **2** — Durante a última Ceia Jesus quis dar aos Apóstolos outra lição de humildade; enquanto eles discutiam
 quem deles devia ser considerado maior, Ele
@@ -97,7 +95,6 @@ e a S. José, mas ainda aos teus carrascos.
 “Ó Senhor, não podias abaixar-te mais para ensinar-me a humildade; quero por isso responder ao teu amor pondo-me no último lugar, e participando das tuas humilhações para depois ter parte contigo no reino dos Céus.
 
 “Peço-te, meu divino Jesus, que me envies uma humilhação cada vez que eu tentar elevar-me acima dos outros.
-
 
 “Mas, Senhor, minha fraqueza te é conhecida; todas as manhãs formo o propósito de praticar a humildade, e todas as noites
 reconheço que cometi ainda muitas faltas. A esta vista sou tentado ao desânimo; mas sei que também

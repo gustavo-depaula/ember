@@ -1,5 +1,4 @@
 # 63 — A VITÓRIA DA CRUZ
-
 *sábado santo*
 
 **Presença de Deus.** — *Ó Jesus, crucificado por amor meu, revela-me a vitória reportada por tua morte.*
