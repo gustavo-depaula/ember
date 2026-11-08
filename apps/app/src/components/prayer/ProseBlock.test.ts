@@ -180,6 +180,13 @@ describe('parseMarkdown', () => {
     ])
   })
 
+  it('skips the label that heads the footnote definitions', () => {
+    const result = parseMarkdown('A paragraph [^1].\n\n**Referências:**\n[^1]: Ap 21, 27.')
+    expect(result).toEqual([
+      { type: 'paragraph', children: [{ type: 'text', text: 'A paragraph.' }] },
+    ])
+  })
+
   it('parses full meditation with blockquote, ***Sumário.** pattern, and inner italic', () => {
     const input = [
       '> *Secundum multitudinem dolorum meorum in corde meo, consolationes tuae laetificaverunt animam meam* – "Segundo as muitas dores que provou o meu coração, as tuas consolações alegraram a minha alma" (Sl 93, 19)',

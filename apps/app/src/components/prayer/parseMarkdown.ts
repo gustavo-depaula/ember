@@ -86,10 +86,16 @@ export function parseMarkdown(markdown: string): ProseNode[] {
     }
   }
 
-  for (const line of lines) {
+  for (const [i, line] of lines.entries()) {
     const trimmed = line.trim()
 
     if (footnoteDefRe.test(trimmed)) continue
+    // The notes go with their markers, and so does the label that heads them
+    // ("**Referências:**"), which would otherwise close the text over nothing.
+    if (/^\**[^*:]{1,30}:\**$/.test(trimmed)) {
+      const next = lines.slice(i + 1).find((l) => l.trim() !== '')
+      if (next && footnoteDefRe.test(next.trim())) continue
+    }
 
     if (trimmed === '') {
       // Empty line inside a blockquote run → paragraph break within the quote

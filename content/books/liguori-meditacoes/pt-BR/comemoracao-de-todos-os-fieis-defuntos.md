@@ -22,7 +22,7 @@ Avivemos, pois, a nossa devoção para com essas santas prisioneiras. Sobretudo 
 
 > “As almas que penam no purgatório, pelas quais o sacerdote ora durante a celebração da missa, não sentem as penas enquanto durar a celebração”.
 
-> Meu amabilíssimo Jesus, “*Deus Criador e Redentor de todos os fiéis, concedei às almas dos vossos servos e servas a remissão de todos os seus pecados, para conseguirem com pias súplicas a indulgência que sempre desejaram.Ó Senhor, dai-lhes o descanso eterno e a luz perpétua lhes resplandeça*” [^3]. Peço-vos também esta graça, ó Maria, grande Mãe de Deus e Mãe daquelas almas que padecem tanto. Almas benditas, roguei por vós e sempre por vós rogarei; mas já que sois tão queridas de Deus e estais certas de que não o podeis mais perder, rogai por mim, miserável, que estou ainda em perigo de me condenar e de perder a Deus para sempre.
+> Meu amabilíssimo Jesus, “*Deus Criador e Redentor de todos os fiéis, concedei às almas dos vossos servos e servas a remissão de todos os seus pecados, para conseguirem com pias súplicas a indulgência que sempre desejaram. Ó Senhor, dai-lhes o descanso eterno e a luz perpétua lhes resplandeça*” [^3]. Peço-vos também esta graça, ó Maria, grande Mãe de Deus e Mãe daquelas almas que padecem tanto. Almas benditas, roguei por vós e sempre por vós rogarei; mas já que sois tão queridas de Deus e estais certas de que não o podeis mais perder, rogai por mim, miserável, que estou ainda em perigo de me condenar e de perder a Deus para sempre.
 
 **Referências:**
 [^1]: Ap 21, 27.
