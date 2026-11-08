@@ -243,6 +243,10 @@ export type ContainerOption = {
   id: string
   label: BilingualText
   excerpt?: BilingualText
+  // The hour of the day from which this option is the one shown first, read
+  // when the block is drawn (a cached source cannot know the hour): Christmas's
+  // Mass at dawn from 6, of the day from 9.
+  fromHour?: number
   // Preprocessed body. For `select` options, only the initially-selected
   // branch is preprocessed eagerly; the rest carry `rawSections` and are
   // preprocessed on demand (see SelectBranch).

@@ -30,6 +30,17 @@ export function CelebrationBanner({
           {title.primary}
         </Typography>
       </XStack>
+      {/* The traditional missal's day keeps its Latin name under the translation. */}
+      {title.secondary && (
+        <Typography
+          variant="annotation"
+          tone="muted"
+          fontStyle="italic"
+          paddingLeft={color ? 22 : 0}
+        >
+          {title.secondary}
+        </Typography>
+      )}
       {subtitle && (
         <Typography
           variant="label"

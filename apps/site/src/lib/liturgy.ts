@@ -371,7 +371,11 @@ export async function loadOfficeHour(
     date,
     queryClient: new QueryClient(),
   } as unknown as SourceFetchContext
-  return withLocale(locale, () => doHourSource.fetch(ctx))
+  const primitives = await withLocale(locale, () => doHourSource.fetch(ctx))
+  // The page heads the day itself (loadOfficeDay); the hour's own head would say it twice.
+  return (Array.isArray(primitives) ? primitives : [primitives]).filter(
+    (p) => !(p.type === 'callout' && p.variant === 'celebration-banner'),
+  )
 }
 
 export const breviaryName = doVersionNames['rubrics-1960']

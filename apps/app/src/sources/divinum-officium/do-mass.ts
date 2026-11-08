@@ -8,7 +8,13 @@
 // (['Oratio', 'Evangelium']), for a practice that prays from the day's Mass
 // without being the Mass.
 
-import { assembleMass, doLangDir, efVersion } from '@ember/divinum-officium'
+import {
+  type AssembledMass,
+  assembleMass,
+  dayHeading,
+  doLangDir,
+  efVersion,
+} from '@ember/divinum-officium'
 import type { ChantPrimitive, Primitive } from '@/content/primitives'
 import type { Chant } from '@/features/chant/chants'
 import { ordinaryChants } from '@/features/chant/ordinary'
@@ -16,36 +22,48 @@ import { findMassChants } from '@/features/chant/propers'
 import type { ContentSource, SourceFetchContext } from '../types'
 import { mapItemsToPrimitives } from './blocks'
 import { chantPrimitive, partNames, withChant } from './chant'
+import { headingPrimitive, massChoice } from './heading'
 import { createCorpusDoLoader } from './loader'
 
 export const doMassSource: ContentSource<Primitive[]> = {
   id: 'producer/do-mass',
-  version: '19',
+  version: '20',
   prefsDeps: ['lang'],
   dateScoped: true,
   async fetch(ctx: SourceFetchContext): Promise<Primitive[]> {
     const parts = ctx.params.parts as string[] | undefined
-    const mass = await assembleMass({
-      loader: createCorpusDoLoader(),
-      day: ctx.date.getDate(),
-      month: ctx.date.getMonth() + 1,
-      year: ctx.date.getFullYear(),
-      version: efVersion,
-      lang2: doLangDir(ctx.prefs.lang),
-      // A text the translation lacks reads in the Church's Latin, not in English.
-      fallbackLang: 'Latin',
-      propers: parts !== undefined,
-    })
-    if (!parts) {
-      const { winner, rank, dayname, dayofweek, commune } = mass.day
-      const ordinary = await ordinaryChants({
-        winner,
-        rank,
-        week: dayname[0],
-        weekday: dayofweek,
-        commune,
+    const lang2 = doLangDir(ctx.prefs.lang)
+    const assemble = (missanumber?: number) =>
+      assembleMass({
+        loader: createCorpusDoLoader(),
+        day: ctx.date.getDate(),
+        month: ctx.date.getMonth() + 1,
+        year: ctx.date.getFullYear(),
+        version: efVersion,
+        lang2,
+        // A text the translation lacks reads in the Church's Latin, not in English.
+        fallbackLang: 'Latin',
+        missanumber,
+        propers: parts !== undefined,
       })
-      return withChant(mass.vernacular ?? mass.latin, mass.latin, massChant(ordinary))
+    const mass = await assemble()
+    if (!parts) {
+      const heading = await dayHeading(mass.day, { lang2 })
+      const top = headingPrimitive(heading, {
+        lang: ctx.prefs.lang,
+        date: ctx.date,
+        winner: mass.day.winner,
+      })
+      // A day the missal gives several Masses (Christmas, All Souls, Holy
+      // Thursday, the Ember Saturdays) offers each, the reader choosing.
+      const names = heading.masses ?? []
+      if (names.length > 1) {
+        const masses = await Promise.all(
+          names.map(async (_, i) => sung(i === 0 ? mass : await assemble(i + 1))),
+        )
+        return [top, massChoice(names, masses, ctx.prefs.lang)]
+      }
+      return [top, ...(await sung(mass))]
     }
     // The columns pair by position and only the Latin heads are the same in
     // every language, so the Latin column says which items to keep in both.
@@ -58,6 +76,19 @@ export const doMassSource: ContentSource<Primitive[]> = {
 }
 
 const head = /^(?:#|!!)\s*(.*)/
+
+/** A Mass as primitives, what is sung in it set with its chant. */
+async function sung(mass: AssembledMass): Promise<Primitive[]> {
+  const { winner, rank, dayname, dayofweek, commune } = mass.day
+  const ordinary = await ordinaryChants({
+    winner,
+    rank,
+    week: dayname[0],
+    weekday: dayofweek,
+    commune,
+  })
+  return withChant(mass.vernacular ?? mass.latin, mass.latin, massChant(ordinary))
+}
 
 /**
  * The chant of an item of the Mass: a proper's, found by its text, or the

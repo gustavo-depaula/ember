@@ -8,12 +8,13 @@
 // Office of the Dead, 'C12' Little Office BVM, 'V4' St Joseph); 'Hodie' is
 // today's office.
 
-import { assembleHour, doLangDir, officeVersion } from '@ember/divinum-officium'
+import { assembleHour, dayHeading, doLangDir, officeVersion } from '@ember/divinum-officium'
 import type { ChantPrimitive, Primitive } from '@/content/primitives'
 import { findOfficeChants } from '@/features/chant/propers'
 import { type PsalmTone, pointPsalm, psalmOf, toneOf } from '@/features/chant/psalmody'
 import type { ContentSource, SourceFetchContext } from '../types'
 import { chantPrimitive, partNames, withChant } from './chant'
+import { headingPrimitive } from './heading'
 import { createCorpusDoLoader } from './loader'
 
 const hours = [
@@ -31,7 +32,7 @@ type Hour = (typeof hours)[number]
 
 export const doHourSource: ContentSource<Primitive[]> = {
   id: 'producer/do-hour',
-  version: '19',
+  version: '20',
   prefsDeps: ['lang'],
   dateScoped: true,
   async fetch(ctx: SourceFetchContext): Promise<Primitive[]> {
@@ -85,6 +86,17 @@ export const doHourSource: ContentSource<Primitive[]> = {
       }
       return out
     })
-    return withChant(assembled.vernacular ?? latin, latin, (_, i) => chants[i])
+    const heading = await dayHeading(assembled.day, {
+      lang2: doLangDir(ctx.prefs.lang),
+      hora: hour,
+    })
+    return [
+      headingPrimitive(heading, {
+        lang: ctx.prefs.lang,
+        date: ctx.date,
+        winner: assembled.day.winner,
+      }),
+      ...(await withChant(assembled.vernacular ?? latin, latin, (_, i) => chants[i])),
+    ]
   },
 }

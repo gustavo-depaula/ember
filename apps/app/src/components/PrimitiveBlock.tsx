@@ -233,6 +233,7 @@ function renderContainer(
             label: o.label.primary,
             sections: o.children,
             excerpt: o.excerpt?.primary,
+            fromHour: o.fromHour,
           }))}
           renderSection={renderChild}
         />

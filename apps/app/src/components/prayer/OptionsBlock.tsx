@@ -11,6 +11,7 @@ type Option<T> = {
   label: string
   sections: T[]
   excerpt?: string
+  fromHour?: number
 }
 
 export function OptionsBlock<T>({
@@ -27,12 +28,17 @@ export function OptionsBlock<T>({
   renderSection: (section: T, index: number) => React.ReactNode
   pickerStyle?: PickerStyle
 }) {
-  const [selected, setSelected] = useState(() =>
-    Math.max(
+  const [selected, setSelected] = useState(() => {
+    const given = options.findIndex((option) => option.id === initialId)
+    if (given >= 0) return given
+    // The last option whose hour has come, where options are kept by the hour.
+    const hour = new Date().getHours()
+    return options.reduce(
+      (chosen, option, i) =>
+        option.fromHour !== undefined && option.fromHour <= hour ? i : chosen,
       0,
-      options.findIndex((option) => option.id === initialId),
-    ),
-  )
+    )
+  })
   const current = options[selected]
 
   return (
