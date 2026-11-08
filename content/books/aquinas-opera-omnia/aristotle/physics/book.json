@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on the Physics",
-    "la": "Sententia super Physicam"
+    "la": "Sententia super Physicam",
+    "pt-BR": "Comentário à Física"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's mature commentary on Aristotle's *Physics* — on motion, place, time, the infinite, and the prime mover. Read in tandem with the *Metaphysics* commentary at Paris during the second regency.",
-    "la": "Expositio Thomae matura *Physicorum* Aristotelis — de motu, loco, tempore, infinito, primo motore. Cum *Metaphysicis* coniuncta apud Parisios in regentia secunda lecta."
+    "la": "Expositio Thomae matura *Physicorum* Aristotelis — de motu, loco, tempore, infinito, primo motore. Cum *Metaphysicis* coniuncta apud Parisios in regentia secunda lecta.",
+    "pt-BR": "O comentário maduro de Santo Tomás à *Física* de Aristóteles — sobre o movimento, o lugar, o tempo, o infinito e o primeiro motor. Lido em conjunto com o comentário à *Metafísica* em Paris, durante a segunda regência."
   },
   "composed": "1268–1269",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,112 +39,128 @@
       "id": "g1",
       "title": {
         "en-US": "Book 1 — The Principles of Natural Things",
-        "la": "Liber 1"
+        "la": "Liber 1",
+        "pt-BR": "Livro 1 — Os princípios das coisas naturais"
       },
       "children": [
         {
           "id": "g1-c001",
           "title": {
             "en-US": "Lecture 1 — The matter and subject of physics",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A matéria e o sujeito da física"
           }
         },
         {
           "id": "g1-c002",
           "title": {
             "en-US": "Lecture 2 — The ancient philosophers’ opinions about the principles of nature and of beings",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — As opiniões dos antigos filósofos sobre os princípios da natureza e dos entes"
           }
         },
         {
           "id": "g1-c003",
           "title": {
             "en-US": "Lecture 3 — Refutation of Parmenides and Melissus",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Refutação de Parmênides e Melisso"
           }
         },
         {
           "id": "g1-c004",
           "title": {
             "en-US": "Lecture 4 — Error of more recent philosophers about the one and the many",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — O erro de filósofos posteriores acerca do um e do múltiplo"
           }
         },
         {
           "id": "g1-c005",
           "title": {
             "en-US": "Lecture 5 — The argument of Melissus is answered",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Responde-se ao argumento de Melisso"
           }
         },
         {
           "id": "g1-c006",
           "title": {
             "en-US": "Lecture 6 — The argument of Parmenides is answered",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — Responde-se ao argumento de Parmênides"
           }
         },
         {
           "id": "g1-c007",
           "title": {
             "en-US": "Lecture 7 — Refutation of those who say non-being is something",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Refutação dos que dizem que o não ente é algo"
           }
         },
         {
           "id": "g1-c008",
           "title": {
             "en-US": "Lecture 8 — The opinions of the physicists who spoke of the principles as natural philosophers",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — As opiniões dos físicos que falaram dos princípios como filósofos naturais"
           }
         },
         {
           "id": "g1-c009",
           "title": {
             "en-US": "Lecture 9 — Refutation of Anaxagoras’ opinion about an infinite number of principles",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — Refutação da opinião de Anaxágoras sobre um número infinito de princípios"
           }
         },
         {
           "id": "g1-c010",
           "title": {
             "en-US": "Lecture 10 — The opinions of the ancients about the first principles’ contrariety",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — As opiniões dos antigos sobre a contrariedade dos primeiros princípios"
           }
         },
         {
           "id": "g1-c011",
           "title": {
             "en-US": "Lecture 11 — There are only three principles of natural things",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — Há apenas três princípios das coisas naturais"
           }
         },
         {
           "id": "g1-c012",
           "title": {
             "en-US": "Lecture 12 — In every coming to be, three principles are found",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — Em todo vir a ser se encontram três princípios"
           }
         },
         {
           "id": "g1-c013",
           "title": {
             "en-US": "Lecture 13 — Matter, form, and privation, the per se and per accidens principles in natural coming-to-be",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — Matéria, forma e privação, princípios por si e por acidente do vir a ser natural"
           }
         },
         {
           "id": "g1-c014",
           "title": {
             "en-US": "Lecture 14 — Solution of the ancients’ errors which arose from ignorance of matter",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14 — Solução dos erros dos antigos, nascidos da ignorância da matéria"
           }
         },
         {
           "id": "g1-c015",
           "title": {
             "en-US": "Lecture 15 — Matter is distinguished from privation and is neither generable nor corruptible per se",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15 — A matéria distingue-se da privação e não é, por si, gerável nem corruptível"
           }
         }
       ]
@@ -149,112 +169,128 @@
       "id": "g2",
       "title": {
         "en-US": "Book 2 — The Principles of Natural Science",
-        "la": "Liber 2"
+        "la": "Liber 2",
+        "pt-BR": "Livro 2 — Os princípios da ciência natural"
       },
       "children": [
         {
           "id": "g2-c001",
           "title": {
             "en-US": "Lecture 1 — What is nature, and what things have it?",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Que é a natureza, e que coisas a têm?"
           }
         },
         {
           "id": "g2-c002",
           "title": {
             "en-US": "Lecture 2 — Nature is both matter and form, but primarily form",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A natureza é matéria e forma, mas principalmente forma"
           }
         },
         {
           "id": "g2-c003",
           "title": {
             "en-US": "Lecture 3 — How physics and mathematics differ",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Como diferem a física e a matemática"
           }
         },
         {
           "id": "g2-c004",
           "title": {
             "en-US": "Lecture 4 — Physics considers not only matter but also every form existing in matter",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A física considera não só a matéria, mas também toda forma existente na matéria"
           }
         },
         {
           "id": "g2-c005",
           "title": {
             "en-US": "Lecture 5 — Physics determines what and how many causes there are",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A física determina quais e quantas são as causas"
           }
         },
         {
           "id": "g2-c006",
           "title": {
             "en-US": "Lecture 6 — The modes of causing and what things are consequent on them",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — Os modos de causar e o que deles decorre"
           }
         },
         {
           "id": "g2-c007",
           "title": {
             "en-US": "Lecture 7 — Different opinions about fortune and chance",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Diversas opiniões sobre a fortuna e o acaso"
           }
         },
         {
           "id": "g2-c008",
           "title": {
             "en-US": "Lecture 8 — The definition of fortune",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — A definição da fortuna"
           }
         },
         {
           "id": "g2-c009",
           "title": {
             "en-US": "Lecture 9 — The meaning of what is said about fortune",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — O sentido do que se diz sobre a fortuna"
           }
         },
         {
           "id": "g2-c010",
           "title": {
             "en-US": "Lecture 10 — The difference between chance and fortune",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — A diferença entre o acaso e a fortuna"
           }
         },
         {
           "id": "g2-c011",
           "title": {
             "en-US": "Lecture 11 — Natural philosophy demonstrates from all four causes",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — A filosofia natural demonstra pelas quatro causas"
           }
         },
         {
           "id": "g2-c012",
           "title": {
             "en-US": "Lecture 12 — The argument of those who deny that nature acts for an end",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — O argumento dos que negam que a natureza age por um fim"
           }
         },
         {
           "id": "g2-c013",
           "title": {
             "en-US": "Lecture 13 — Nature acts for an end",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — A natureza age por um fim"
           }
         },
         {
           "id": "g2-c014",
           "title": {
             "en-US": "Lecture 14 — Opponents’ arguments show that nature acts for an end",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14 — Os argumentos dos adversários mostram que a natureza age por um fim"
           }
         },
         {
           "id": "g2-c015",
           "title": {
             "en-US": "Lecture 15 — How necessity is found in natural things",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15 — Como se encontra a necessidade nas coisas naturais"
           }
         }
       ]
@@ -263,98 +299,112 @@
       "id": "g3",
       "title": {
         "en-US": "Book 3 — Mobile Being in General",
-        "la": "Liber 3"
+        "la": "Liber 3",
+        "pt-BR": "Livro 3 — O ente móvel em geral"
       },
       "children": [
         {
           "id": "g3-c001",
           "title": {
             "en-US": "Lecture 1 — Natural science treats of motion and those things consequent upon it",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A ciência natural trata do movimento e do que dele decorre"
           }
         },
         {
           "id": "g3-c002",
           "title": {
             "en-US": "Lecture 2 — The definition of motion",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A definição do movimento"
           }
         },
         {
           "id": "g3-c003",
           "title": {
             "en-US": "Lecture 3 — Motion’s definition is suitably formulated",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A definição do movimento está convenientemente formulada"
           }
         },
         {
           "id": "g3-c004",
           "title": {
             "en-US": "Lecture 4 — Motion is the act both of the mover and of the mobile object",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — O movimento é ato tanto do motor como do móvel"
           }
         },
         {
           "id": "g3-c005",
           "title": {
             "en-US": "Lecture 5 — Whether action and passion are the same motion",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Se a ação e a paixão são o mesmo movimento"
           }
         },
         {
           "id": "g3-c006",
           "title": {
             "en-US": "Lecture 6 — The opinions of the ancients concerning the infinite",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — As opiniões dos antigos sobre o infinito"
           }
         },
         {
           "id": "g3-c007",
           "title": {
             "en-US": "Lecture 7 — The meanings of “infinite”",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — As acepções de “infinito”"
           }
         },
         {
           "id": "g3-c008",
           "title": {
             "en-US": "Lecture 8 — An infinite in act in sensible things cannot be granted",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Não se pode admitir um infinito em ato nas coisas sensíveis"
           }
         },
         {
           "id": "g3-c009",
           "title": {
             "en-US": "Lecture 9 — There is no actually infinite sensible body",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — Não há corpo sensível infinito em ato"
           }
         },
         {
           "id": "g3-c010",
           "title": {
             "en-US": "Lecture 10 — The infinite exists not as being in act, but as being in potency",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — O infinito existe não como ente em ato, mas como ente em potência"
           }
         },
         {
           "id": "g3-c011",
           "title": {
             "en-US": "Lecture 11 — The definition of the infinite",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — A definição do infinito"
           }
         },
         {
           "id": "g3-c012",
           "title": {
             "en-US": "Lecture 12 — The meanings of what is said about the infinite",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — O sentido do que se diz sobre o infinito"
           }
         },
         {
           "id": "g3-c013",
           "title": {
             "en-US": "Lecture 13 — Refutation of the statement that the infinite exists in both potency and act",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — Refutação da afirmação de que o infinito existe em potência e em ato"
           }
         }
       ]
@@ -363,168 +413,192 @@
       "id": "g4",
       "title": {
         "en-US": "Book 4 — Place, Void, and Time",
-        "la": "Liber 4"
+        "la": "Liber 4",
+        "pt-BR": "Livro 4 — O lugar, o vazio e o tempo"
       },
       "children": [
         {
           "id": "g4-c001",
           "title": {
             "en-US": "Lecture 1 — Natural science studies place",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A ciência natural estuda o lugar"
           }
         },
         {
           "id": "g4-c002",
           "title": {
             "en-US": "Lecture 2 — Six probable arguments that place does not exist",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Seis argumentos prováveis de que o lugar não existe"
           }
         },
         {
           "id": "g4-c003",
           "title": {
             "en-US": "Lecture 3 — Whether place is form or matter",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Se o lugar é forma ou matéria"
           }
         },
         {
           "id": "g4-c004",
           "title": {
             "en-US": "Lecture 4 — The senses of “in”",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — As acepções de “em”"
           }
         },
         {
           "id": "g4-c005",
           "title": {
             "en-US": "Lecture 5 — Preliminaries to the definition of place",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Preliminares à definição de lugar"
           }
         },
         {
           "id": "g4-c006",
           "title": {
             "en-US": "Lecture 6 — The definition of place",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — A definição de lugar"
           }
         },
         {
           "id": "g4-c007",
           "title": {
             "en-US": "Lecture 7 — What things are in place simply",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Que coisas estão em lugar absolutamente"
           }
         },
         {
           "id": "g4-c008",
           "title": {
             "en-US": "Lecture 8 — Solution of difficulties about place",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Solução das dificuldades sobre o lugar"
           }
         },
         {
           "id": "g4-c009",
           "title": {
             "en-US": "Lecture 9 — Opinions about the void",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — Opiniões sobre o vazio"
           }
         },
         {
           "id": "g4-c010",
           "title": {
             "en-US": "Lecture 10 — The meaning of “void”",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — O sentido de “vazio”"
           }
         },
         {
           "id": "g4-c011",
           "title": {
             "en-US": "Lecture 11 — It is shown from motion that there is no separated void",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — Mostra-se pelo movimento que não há vazio separado"
           }
         },
         {
           "id": "g4-c012",
           "title": {
             "en-US": "Lecture 12 — It is shown from speed and slowness that there is no separated void",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — Mostra-se pela velocidade e pela lentidão que não há vazio separado"
           }
         },
         {
           "id": "g4-c013",
           "title": {
             "en-US": "Lecture 13 — It is shown from the void itself that there is no separated void",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — Mostra-se pelo próprio vazio que não há vazio separado"
           }
         },
         {
           "id": "g4-c014",
           "title": {
             "en-US": "Lecture 14 — There is no void within bodies",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14 — Não há vazio dentro dos corpos"
           }
         },
         {
           "id": "g4-c015",
           "title": {
             "en-US": "Lecture 15 — Whether time exists, and whether the same “now” is in all time",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15 — Se o tempo existe, e se o mesmo “agora” está em todo o tempo"
           }
         },
         {
           "id": "g4-c016",
           "title": {
             "en-US": "Lecture 16 — What time is and how it is related to motion",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16 — O que é o tempo e como se relaciona com o movimento"
           }
         },
         {
           "id": "g4-c017",
           "title": {
             "en-US": "Lecture 17 — The definition of time",
-            "la": "Lectio 17"
+            "la": "Lectio 17",
+            "pt-BR": "Lição 17 — A definição do tempo"
           }
         },
         {
           "id": "g4-c018",
           "title": {
             "en-US": "Lecture 18 — The meaning of “now”",
-            "la": "Lectio 18"
+            "la": "Lectio 18",
+            "pt-BR": "Lição 18 — O sentido de “agora”"
           }
         },
         {
           "id": "g4-c019",
           "title": {
             "en-US": "Lecture 19 — Clarification of certain things said about time",
-            "la": "Lectio 19"
+            "la": "Lectio 19",
+            "pt-BR": "Lição 19 — Esclarecimento de algumas coisas ditas sobre o tempo"
           }
         },
         {
           "id": "g4-c020",
           "title": {
             "en-US": "Lecture 20 — How motion and other things are in time",
-            "la": "Lectio 20"
+            "la": "Lectio 20",
+            "pt-BR": "Lição 20 — Como o movimento e as outras coisas estão no tempo"
           }
         },
         {
           "id": "g4-c021",
           "title": {
             "en-US": "Lecture 21 — The meaning of “now,” “then,” “presently,” “lately,” “long ago,” and “suddenly”",
-            "la": "Lectio 21"
+            "la": "Lectio 21",
+            "pt-BR": "Lição 21 — O sentido de “agora”, “então”, “já”, “há pouco”, “outrora” e “de repente”"
           }
         },
         {
           "id": "g4-c022",
           "title": {
             "en-US": "Lecture 22 — All motion and change are in time",
-            "la": "Lectio 22"
+            "la": "Lectio 22",
+            "pt-BR": "Lição 22 — Todo movimento e toda mudança estão no tempo"
           }
         },
         {
           "id": "g4-c023",
           "title": {
             "en-US": "Lecture 23 — Solution of difficulties about the existence and unity of time",
-            "la": "Lectio 23"
+            "la": "Lectio 23",
+            "pt-BR": "Lição 23 — Solução das dificuldades sobre a existência e a unidade do tempo"
           }
         }
       ]
@@ -533,77 +607,88 @@
       "id": "g5",
       "title": {
         "en-US": "Book 5 — Division of Motion into Its Species",
-        "la": "Liber 5"
+        "la": "Liber 5",
+        "pt-BR": "Livro 5 — Divisão do movimento em suas espécies"
       },
       "children": [
         {
           "id": "g5-c001",
           "title": {
             "en-US": "Lecture 1 — Motion per se is distinguished from motion per accidens",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — O movimento por si distingue-se do movimento por acidente"
           }
         },
         {
           "id": "g5-c002",
           "title": {
             "en-US": "Lecture 2 — Which species of change is motion in the strict sense",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Que espécie de mudança é movimento em sentido estrito"
           }
         },
         {
           "id": "g5-c003",
           "title": {
             "en-US": "Lecture 3 — There is no motion per se in the categories other than quantity, quality, and place",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Não há movimento por si nas categorias além da quantidade, da qualidade e do lugar"
           }
         },
         {
           "id": "g5-c004",
           "title": {
             "en-US": "Lecture 4 — How there is motion in quantity, quality, and place, and the meaning of “immobile”",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Como há movimento na quantidade, na qualidade e no lugar, e o sentido de “imóvel”"
           }
         },
         {
           "id": "g5-c005",
           "title": {
             "en-US": "Lecture 5 — He defines “contact,” “consecutiveness,” “continuity,” and other related things",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Define “contato”, “consecução”, “continuidade” e outras noções afins"
           }
         },
         {
           "id": "g5-c006",
           "title": {
             "en-US": "Lecture 6 — The generic, specific, and numerical unity of motion",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — A unidade genérica, específica e numérica do movimento"
           }
         },
         {
           "id": "g5-c007",
           "title": {
             "en-US": "Lecture 7 — The types of unity in motion",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Os tipos de unidade no movimento"
           }
         },
         {
           "id": "g5-c008",
           "title": {
             "en-US": "Lecture 8 — The contrariety of motions",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — A contrariedade dos movimentos"
           }
         },
         {
           "id": "g5-c009",
           "title": {
             "en-US": "Lecture 9 — The contrariety of rest to motion and rest to rest",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — A contrariedade do repouso ao movimento e do repouso ao repouso"
           }
         },
         {
           "id": "g5-c010",
           "title": {
             "en-US": "Lecture 10 — Certain difficulties are answered",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — Respondem-se algumas dificuldades"
           }
         }
       ]
@@ -612,98 +697,112 @@
       "id": "g6",
       "title": {
         "en-US": "Book 6 — Division of Motion into Quantitative Parts",
-        "la": "Liber 6"
+        "la": "Liber 6",
+        "pt-BR": "Livro 6 — Divisão do movimento em partes quantitativas"
       },
       "children": [
         {
           "id": "g6-c001",
           "title": {
             "en-US": "Lecture 1 — No continuum is composed of indivisible parts",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Nenhum contínuo se compõe de partes indivisíveis"
           }
         },
         {
           "id": "g6-c002",
           "title": {
             "en-US": "Lecture 2 — It is impossible for magnitude and motion to be composed of indivisible parts",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — É impossível que a grandeza e o movimento se componham de partes indivisíveis"
           }
         },
         {
           "id": "g6-c003",
           "title": {
             "en-US": "Lecture 3 — The divisibility of time and of magnitude follow on one another",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A divisibilidade do tempo e a da grandeza seguem-se uma à outra"
           }
         },
         {
           "id": "g6-c004",
           "title": {
             "en-US": "Lecture 4 — No continuum is indivisible",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Nenhum contínuo é indivisível"
           }
         },
         {
           "id": "g6-c005",
           "title": {
             "en-US": "Lecture 5 — The “now” of time and the solution of various difficulties",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — O “agora” do tempo e a solução de várias dificuldades"
           }
         },
         {
           "id": "g6-c006",
           "title": {
             "en-US": "Lecture 6 — Two ways in which motion is divided",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — Dois modos de dividir o movimento"
           }
         },
         {
           "id": "g6-c007",
           "title": {
             "en-US": "Lecture 7 — How there can be a first motion",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Como pode haver um primeiro movimento"
           }
         },
         {
           "id": "g6-c008",
           "title": {
             "en-US": "Lecture 8 — The relation of “being moved” and “has been moved”",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — A relação entre “ser movido” e “ter sido movido”"
           }
         },
         {
           "id": "g6-c009",
           "title": {
             "en-US": "Lecture 9 — The finite and the infinite found together in magnitude, time, motion, and the mobile body",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — O finito e o infinito encontram-se juntos na grandeza, no tempo, no movimento e no corpo móvel"
           }
         },
         {
           "id": "g6-c010",
           "title": {
             "en-US": "Lecture 10 — The division of rest and of coming to rest",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — A divisão do repouso e do vir ao repouso"
           }
         },
         {
           "id": "g6-c011",
           "title": {
             "en-US": "Lecture 11 — The arguments of Zeno, who tried to deny all motion, are answered",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — Respondem-se os argumentos de Zenão, que tentou negar todo movimento"
           }
         },
         {
           "id": "g6-c012",
           "title": {
             "en-US": "Lecture 12 — That which is without quantitative parts can be moved only accidentally",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — O que não tem partes quantitativas só pode mover-se por acidente"
           }
         },
         {
           "id": "g6-c013",
           "title": {
             "en-US": "Lecture 13 — No change is infinite in its proper species; how motion can be infinite in time",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — Nenhuma mudança é infinita em sua própria espécie; como o movimento pode ser infinito no tempo"
           }
         }
       ]
@@ -712,70 +811,80 @@
       "id": "g7",
       "title": {
         "en-US": "Book 7 — Existence of the First Motion and First Mover",
-        "la": "Liber 7"
+        "la": "Liber 7",
+        "pt-BR": "Livro 7 — Existência do primeiro movimento e do primeiro motor"
       },
       "children": [
         {
           "id": "g7-c001",
           "title": {
             "en-US": "Lecture 1 — Whatever is moved must be moved by another",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Tudo o que se move tem de ser movido por outro"
           }
         },
         {
           "id": "g7-c002",
           "title": {
             "en-US": "Lecture 2 — There must be an immobile first mover",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — É necessário um primeiro motor imóvel"
           }
         },
         {
           "id": "g7-c003",
           "title": {
             "en-US": "Lecture 3 — In local motion, the mover and the moved must be together",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — No movimento local, o motor e o movido têm de estar juntos"
           }
         },
         {
           "id": "g7-c004",
           "title": {
             "en-US": "Lecture 4 — In alteration and in increase and decrease, the mover and the moved are together",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Na alteração, no aumento e na diminuição, o motor e o movido estão juntos"
           }
         },
         {
           "id": "g7-c005",
           "title": {
             "en-US": "Lecture 5 — There is no alteration in form and figure, nor in habit and disposition of the body",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Não há alteração na forma e na figura, nem no hábito e na disposição do corpo"
           }
         },
         {
           "id": "g7-c006",
           "title": {
             "en-US": "Lecture 6 — There is no alteration in the first species of quality in regard to habits of the soul",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — Não há alteração na primeira espécie de qualidade quanto aos hábitos da alma"
           }
         },
         {
           "id": "g7-c007",
           "title": {
             "en-US": "Lecture 7 — The comparison of motions and what is required for things to be comparable",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — A comparação dos movimentos e o que se requer para que as coisas sejam comparáveis"
           }
         },
         {
           "id": "g7-c008",
           "title": {
             "en-US": "Lecture 8 — Which motions are comparable to each other",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Que movimentos são comparáveis entre si"
           }
         },
         {
           "id": "g7-c009",
           "title": {
             "en-US": "Lecture 9 — Rules for the comparison of motions",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — Regras para a comparação dos movimentos"
           }
         }
       ]
@@ -784,168 +893,192 @@
       "id": "g8",
       "title": {
         "en-US": "Book 8 — Nature of the First Motion and First Mover",
-        "la": "Liber 8"
+        "la": "Liber 8",
+        "pt-BR": "Livro 8 — Natureza do primeiro movimento e do primeiro motor"
       },
       "children": [
         {
           "id": "g8-c001",
           "title": {
             "en-US": "Lecture 1 — Whether or not motion began or will end",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Se o movimento começou ou terá fim"
           }
         },
         {
           "id": "g8-c002",
           "title": {
             "en-US": "Lecture 2 — Arguments for the eternity of motion",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Argumentos a favor da eternidade do movimento"
           }
         },
         {
           "id": "g8-c003",
           "title": {
             "en-US": "Lecture 3 — Arguments against Anaxagoras and Empedocles",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Argumentos contra Anaxágoras e Empédocles"
           }
         },
         {
           "id": "g8-c004",
           "title": {
             "en-US": "Lecture 4 — Refutation of arguments seeming to prove motion is not eternal",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Refutação dos argumentos que parecem provar que o movimento não é eterno"
           }
         },
         {
           "id": "g8-c005",
           "title": {
             "en-US": "Lecture 5 — Things may be moved or at rest in five ways",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — As coisas podem estar em movimento ou em repouso de cinco modos"
           }
         },
         {
           "id": "g8-c006",
           "title": {
             "en-US": "Lecture 6 — It cannot be said that some things are always at rest and all other things are always moved",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — Não se pode dizer que algumas coisas estejam sempre em repouso e todas as outras sempre em movimento"
           }
         },
         {
           "id": "g8-c007",
           "title": {
             "en-US": "Lecture 7 — Whatever is moved is moved by another",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Tudo o que se move é movido por outro"
           }
         },
         {
           "id": "g8-c008",
           "title": {
             "en-US": "Lecture 8 — How heavy and light things are moved",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Como se movem as coisas pesadas e as leves"
           }
         },
         {
           "id": "g8-c009",
           "title": {
             "en-US": "Lecture 9 — Not every mover must be moved",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — Nem todo motor tem de ser movido"
           }
         },
         {
           "id": "g8-c010",
           "title": {
             "en-US": "Lecture 10 — How a thing moves itself",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — Como uma coisa move a si mesma"
           }
         },
         {
           "id": "g8-c011",
           "title": {
             "en-US": "Lecture 11 — Relation of the parts of a self-mover to each other and to the whole",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — Relação das partes do que move a si mesmo entre si e com o todo"
           }
         },
         {
           "id": "g8-c012",
           "title": {
             "en-US": "Lecture 12 — The first mover is immobile and one",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — O primeiro motor é imóvel e uno"
           }
         },
         {
           "id": "g8-c013",
           "title": {
             "en-US": "Lecture 13 — The first mover is eternal and immobile, while the first motion is eternal",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — O primeiro motor é eterno e imóvel, e o primeiro movimento é eterno"
           }
         },
         {
           "id": "g8-c014",
           "title": {
             "en-US": "Lecture 14 — Local motion is the first motion",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14 — O movimento local é o primeiro movimento"
           }
         },
         {
           "id": "g8-c015",
           "title": {
             "en-US": "Lecture 15 — Only local motion can be continuous and eternal",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15 — Só o movimento local pode ser contínuo e eterno"
           }
         },
         {
           "id": "g8-c016",
           "title": {
             "en-US": "Lecture 16 — Only circular motion can be continuous and eternal",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16 — Só o movimento circular pode ser contínuo e eterno"
           }
         },
         {
           "id": "g8-c017",
           "title": {
             "en-US": "Lecture 17 — Certain difficulties are answered",
-            "la": "Lectio 17"
+            "la": "Lectio 17",
+            "pt-BR": "Lição 17 — Respondem-se algumas dificuldades"
           }
         },
         {
           "id": "g8-c018",
           "title": {
             "en-US": "Lecture 18 — Reflected motion is not continuous",
-            "la": "Lectio 18"
+            "la": "Lectio 18",
+            "pt-BR": "Lição 18 — O movimento refletido não é contínuo"
           }
         },
         {
           "id": "g8-c019",
           "title": {
             "en-US": "Lecture 19 — Proofs that circular motion can be continuous and is the first motion",
-            "la": "Lectio 19"
+            "la": "Lectio 19",
+            "pt-BR": "Lição 19 — Provas de que o movimento circular pode ser contínuo e é o primeiro movimento"
           }
         },
         {
           "id": "g8-c020",
           "title": {
             "en-US": "Lecture 20 — Common and logical arguments that circular motion is continuous and first",
-            "la": "Lectio 20"
+            "la": "Lectio 20",
+            "pt-BR": "Lição 20 — Argumentos comuns e lógicos de que o movimento circular é contínuo e primeiro"
           }
         },
         {
           "id": "g8-c021",
           "title": {
             "en-US": "Lecture 21 — Preliminaries for proving that the first mover must be without parts and without magnitude",
-            "la": "Lectio 21"
+            "la": "Lectio 21",
+            "pt-BR": "Lição 21 — Preliminares para provar que o primeiro motor tem de ser sem partes e sem grandeza"
           }
         },
         {
           "id": "g8-c022",
           "title": {
             "en-US": "Lecture 22 — The problem of projectile motion",
-            "la": "Lectio 22"
+            "la": "Lectio 22",
+            "pt-BR": "Lição 22 — O problema do movimento dos projéteis"
           }
         },
         {
           "id": "g8-c023",
           "title": {
             "en-US": "Lecture 23 — The first mover cannot have magnitude",
-            "la": "Lectio 23"
+            "la": "Lectio 23",
+            "pt-BR": "Lição 23 — O primeiro motor não pode ter grandeza"
           }
         }
       ]
@@ -954,5 +1087,12 @@
   "arrived": {
     "en-US": "2026-06-04",
     "la": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
+    }
   }
 }
