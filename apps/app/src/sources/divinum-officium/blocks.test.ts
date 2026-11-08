@@ -254,4 +254,115 @@ describe('mapItemsToPrimitives', () => {
     expect(texts[1].primary).toMatch(/^Que o Senhor/)
     expect(texts[1].secondary).toMatch(/^Indulgéntiam/)
   })
+
+  // Lines of the Ordo as Divinum Officium writes them, Portuguese and Latin.
+  const pairsOf = (out: ReturnType<typeof mapItemsToPrimitives>) =>
+    out.flatMap((p) => {
+      if (p.type === 'verses') return p.items.map((it) => [it.text.primary, it.text.secondary])
+      if (p.type === 'text' || p.type === 'rubric') return [[p.text.primary, p.text.secondary]]
+      return []
+    })
+
+  it('pairs a Confiteor the Portuguese runs over three lines with its Latin on one', () => {
+    const out = mapItemsToPrimitives(
+      [
+        '!Profundamente inclinado, o Sacerdote diz o Confíteor:\nP. Eu me confesso a Deus, todo-poderoso: (aqui baterá no peito três vezes, dizendo:)\nPor minha culpa, por minha culpa, por minha tão grande culpa.\nPortanto, rogo à bem-aventurada sempre Virgem Maria que rogueis por mim a Deus, Nosso Senhor.\nS. Compadeça-se de ti o Senhor omnipotente.\n!O Sacerdote responde:\nP. Amém.',
+      ],
+      [
+        '!Deinde iunctis manibus profunde inclinatus facit Confessionem.\nv. Confíteor Deo omnipoténti: mea culpa, mea culpa, mea máxima culpa. Ideo precor beátam Maríam semper Vírginem oráre pro me ad Dóminum, Deum nostrum.\nM. Misereátur tui omnípotens Deus.\n!Sacerdos dicit:\nS. Amen.',
+      ],
+    )
+    const pairs = pairsOf(out)
+    expect(pairs[1][0]).toMatch(/^Eu me confesso.*\nPor minha culpa.*\nPortanto, rogo/s)
+    expect(pairs[1][1]).toMatch(/^Confíteor Deo/)
+    expect(pairs[2]).toEqual([
+      'Compadeça-se de ti o Senhor omnipotente.',
+      'Misereátur tui omnípotens Deus.',
+    ])
+  })
+
+  it('keeps pairing past a rubric only the Latin has', () => {
+    const out = mapItemsToPrimitives(
+      [
+        'P. O Senhor esteja convosco.\nS. E com o teu espírito\nv. Continuação do santo Evangelho\nR. Glória a Vós, Senhor.',
+      ],
+      [
+        'V. Dóminus vobíscum.\nR. Et cum spíritu tuo.\n!Et pronuntians: Inítium, sive Sequéntia sancti Evangélii, signat librum.\nv. Sequéntia sancti Evangélii\nR. Glória tibi, Dómine.',
+      ],
+    )
+    expect(pairsOf(out).map(([, la]) => la)).toEqual([
+      'Dóminus vobíscum.',
+      'Et cum spíritu tuo.',
+      'Sequéntia sancti Evangélii',
+      'Glória tibi, Dómine.',
+    ])
+  })
+
+  it('rejoins a sentence a rubric interrupts, the rubric inline as the Latin has it', () => {
+    const out = mapItemsToPrimitives(
+      [
+        'v. Por Ele, com Ele e n’Ele, na unidade do Espírito Santo\n!Eleva um pouco o Cálice com a Hóstia.\npertence, e Vos é dada, toda a honra e glória.\n!Ajoelha-se e levantando-se, diz:\nP. Por todos os séculos dos séculos.\nS. Amém.',
+      ],
+      [
+        'v.Per Ipsum, et cum Ipso, et in Ipso, (Elevans parum Calicem cum Hostia, dicit:) omnis honor, et glória.\n!ponit Hostiam, genuflectit, surgit, et dicit:\nv. Per ómnia sǽcula sæculórum.\nR. Amen.',
+      ],
+    )
+    const pairs = pairsOf(out)
+    expect(pairs[0][0]).toBe(
+      'Por Ele, com Ele e n’Ele, na unidade do Espírito Santo (Eleva um pouco o Cálice com a Hóstia.) pertence, e Vos é dada, toda a honra e glória.',
+    )
+    expect(pairs[2]).toEqual(['Por todos os séculos dos séculos.', 'Per ómnia sǽcula sæculórum.'])
+  })
+
+  it('keeps a Latin prayer split by a rubric in its order beside its one-line translation', () => {
+    const out = mapItemsToPrimitives(
+      [
+        'P. Que desça sobre vós a bênção do omnipotente Deus: Pai, Filho, + e Espírito Santo.\nS. Amém.',
+      ],
+      [
+        'v. Benedícat vos omnípotens Deus,\n!et versus ad populum, semel tantum benedícens:\nv. Pater, et Fílius, + et Spíritus Sanctus.\nR. Amen.',
+      ],
+    )
+    expect(pairsOf(out)[0][1]).toBe(
+      'Benedícat vos omnípotens Deus,\nPater, et Fílius, + et Spíritus Sanctus.',
+    )
+  })
+
+  it('aligns columns that count alike but place their rubrics differently', () => {
+    const out = mapItemsToPrimitives(
+      [
+        '!Elevando a Hóstia, diz:\nP. Eis o Cordeiro de Deus.\n!Depois diz três vezes:\nS. Senhor, eu não sou digno.',
+      ],
+      [
+        '!genuflectens, accipit Pyxidem, dicit:\nS. Ecce Agnus Dei.\nS. Dómine, non sum dignus.\n!Quibus verbis tertio repetitis.',
+      ],
+    )
+    const spokenPairs = pairsOf(out).filter(([pt]) => !/:$/.test(pt ?? ''))
+    expect(spokenPairs).toEqual([
+      ['Eis o Cordeiro de Deus.', 'Ecce Agnus Dei.'],
+      ['Senhor, eu não sou digno.', 'Dómine, non sum dignus.'],
+    ])
+  })
+
+  it('reads the words of consecration and a translator’s HTML space without their marks', () => {
+    const out = mapItemsToPrimitives(['!!! POIS ISTO É O MEU CORPO.\n#Credo&nbsp;'])
+    expect(out).toEqual([
+      { type: 'heading', text: { primary: 'POIS ISTO É O MEU CORPO.' }, size: 'h2' },
+      { type: 'heading', text: { primary: 'Credo' }, size: 'h1' },
+    ])
+  })
+
+  it('keeps a line whose Latin reads as its vernacular in a paragraph that differs elsewhere', () => {
+    // A reading the translation lacks falls back to the Latin, in another spelling.
+    const out = mapItemsToPrimitives(
+      ['/:5:/ Et constítuit eis rex annónam.\n/:6:/ Fuérunt ergo inter eos de fíliis Juda.'],
+      ['/:5:/ Et constítuit eis rex annónam.\n/:6:/ Fuérunt ergo inter eos de fíliis Iuda.'],
+    )
+    expect(out[0]).toMatchObject({
+      text: {
+        secondary:
+          '/:5:/ Et constítuit eis rex annónam.\n/:6:/ Fuérunt ergo inter eos de fíliis Iuda.',
+      },
+    })
+  })
 })

@@ -52,9 +52,11 @@ function splitNote(text: string): { text: string; note?: string } {
 // divider and is classified before this runs.
 //
 // '%Laudes%' names an hour DO links to ('Pule o resto, a menos que ore
-// %Laudes% separadamente'); the name is read without the link.
+// %Laudes% separadamente'); the name is read without the link. A translator's
+// HTML space ('Credo&nbsp;') is a space.
 function cleanLine(line: string): string {
   return line
+    .replace(/&nbsp;/g, ' ')
     .replace(/%([^%]+)%/g, '$1')
     .replace(/_/g, ' ')
     .replace(/\{:.*?:\}/g, '')
@@ -80,8 +82,16 @@ function classify(raw: string): Line {
   const trimmed = raw.replace(/\s+$/, '')
   if (/^_\s*$/.test(trimmed)) return { kind: 'divider', text: '' }
   const line = cleanLine(trimmed)
-  if (line.startsWith('#')) return { kind: 'head', text: line.replace(/^#+\s*/, '') }
-  if (line.startsWith('!!')) return { kind: 'heading', text: line.slice(2).replace(/^#+\s*/, '') }
+  if (line.startsWith('#')) return { kind: 'head', text: line.replace(/^#+\s*/, '').trim() }
+  // '!!' heads a part, '!!!' the words of consecration, larger still.
+  if (line.startsWith('!!'))
+    return {
+      kind: 'heading',
+      text: line
+        .replace(/^!+\s*/, '')
+        .replace(/^#+\s*/, '')
+        .trim(),
+    }
   // A rubric line is rubric-toned throughout, so its inline '/:…:/' rubric
   // spans (DoInline's job in body text) only need their markers dropped.
   if (line.startsWith('!')) {
@@ -110,67 +120,162 @@ function classify(raw: string): Line {
   return { kind: 'text', text: line }
 }
 
+/** The lines with each unmarked line of body text joined to the spoken line it directly follows. */
+function joinRuns(lines: Line[]): Line[] {
+  const out: Line[] = []
+  for (const line of lines) {
+    const above = out.at(-1)
+    const continues =
+      line.kind === 'text' &&
+      !line.paragraph &&
+      above !== undefined &&
+      (above.kind === 'verse' || above.kind === 'text')
+    // A sentence a rubric interrupts runs on in lowercase after it ("Por Ele…
+    // Espírito Santo" / "!Eleva um pouco o Cálice" / "pertence, e Vos é
+    // dada…"): the rubric goes inline, in brackets, as the Latin sets it.
+    const before = out.at(-2)
+    const resumes =
+      line.kind === 'text' &&
+      !line.paragraph &&
+      /^\p{Ll}/u.test(line.text) &&
+      above?.kind === 'rubric' &&
+      before !== undefined &&
+      (before.kind === 'verse' || before.kind === 'text')
+    if (continues) out[out.length - 1] = { ...above, text: `${above.text}\n${line.text}` }
+    else if (resumes)
+      out.splice(-2, 2, { ...before, text: `${before.text} (${above.text}) ${line.text}` })
+    else out.push(line)
+  }
+  return out
+}
+
 // Pair the two columns' lines: when the content-line counts match, pair
 // content lines in order. Blank lines are skipped: the columns' files place
 // them differently, so equal raw counts can still hide a shift (Prime's
 // chapter office, Portuguese: one extra blank after the Pater rubric, one fewer
-// at the end). When the content counts differ (translations legitimately split
-// prayers across more lines than the Latin), pair greedily by line KIND:
-// rubric with rubric, verse with verse, leaving the extra vernacular lines
-// unpaired. If that would drop Latin content, fall back to whole-chunk pairing
-// (the full Latin chunk as secondary on the first text block).
+// at the end). When the counts differ, the columns are aligned (`align`).
 function pairLines(
   primaryLines: Line[],
   latinLines: Line[] | undefined,
 ): Array<[Line, Line | undefined]> {
   if (!latinLines) return primaryLines.map((l) => [l, undefined])
 
-  const isContent = (l: Line) => l.kind !== 'break' && l.kind !== 'divider'
+  // In order only where every pair agrees in kind: two columns can count
+  // alike and still place their rubrics differently (the Communion of the
+  // faithful: as many lines, a rubric where the other has a prayer).
+  const inOrder = inOrderPairs(primaryLines, latinLines)
+  if (inOrder) return inOrder
+  // A prayer one column sets over several lines and the other on one: the
+  // Portuguese Confiteor runs on to "Por minha culpa…" and "Portanto, rogo…",
+  // and sets a prayer's Amém on a line of its own, where the Latin has each
+  // whole. Each line joined with the unmarked lines that directly continue it,
+  // the prayers pair one to one.
+  const primaryRuns = joinRuns(primaryLines)
+  const latinRuns = joinRuns(latinLines)
+  const runsInOrder = inOrderPairs(primaryRuns, latinRuns)
+  if (runsInOrder) return runsInOrder
+  // Otherwise the columns are aligned, line by line or prayer by prayer,
+  // whichever fits the better: a reading the two set verse by verse pairs by
+  // its verses, a Confiteor one column splits pairs whole.
+  const byLine = align(primaryLines, latinLines)
+  const byRun = align(primaryRuns, latinRuns)
+  return (byRun.score > byLine.score ? byRun : byLine).pairs
+}
+
+/**
+ * The lines paired in order, where both columns count alike and every pair
+ * agrees in kind: two columns can count alike and still place their rubrics
+ * differently (the Communion of the faithful: as many lines, a rubric where
+ * the other has a prayer).
+ */
+function inOrderPairs(
+  primaryLines: Line[],
+  latinLines: Line[],
+): Array<[Line, Line | undefined]> | undefined {
   const latinContent = latinLines.filter(isContent)
-  if (latinContent.length === primaryLines.filter(isContent).length) {
-    let n = 0
-    return primaryLines.map((l) => [l, isContent(l) ? latinContent[n++] : undefined])
-  }
-  // The Portuguese sets a prayer's Amém on a line of its own where the Latin
-  // ends the prayer's line with it (Misereátur … Amen. / Compadeça-se … \n
-  // Amém.). Left out of the count, the prayers pair one to one again.
-  const amen = (l: Line) => l.kind === 'text' && /^(Amém|Amen)\.?$/.test(l.text.trim())
-  if (latinContent.length === primaryLines.filter((l) => isContent(l) && !amen(l)).length) {
-    let n = 0
-    return primaryLines.map((l) => [l, isContent(l) && !amen(l) ? latinContent[n++] : undefined])
-  }
+  const primaryContent = primaryLines.filter(isContent)
+  if (latinContent.length !== primaryContent.length) return undefined
+  if (!primaryContent.every((p, i) => spoken(p) === spoken(latinContent[i]))) return undefined
+  let n = 0
+  return primaryLines.map((l) => [l, isContent(l) ? latinContent[n++] : undefined])
+}
 
-  const kindPairs: Array<[Line, Line | undefined]> = []
-  let j = 0
-  for (const l of primaryLines) {
-    while (j < latinLines.length && !isContent(latinLines[j])) j++
-    if (isContent(l) && j < latinLines.length && latinLines[j].kind === l.kind) {
-      kindPairs.push([l, latinLines[j]])
-      j++
-    } else {
-      kindPairs.push([l, undefined])
-    }
-  }
-  const latinFullyConsumed = latinLines.slice(j).every((x) => !isContent(x))
-  if (latinFullyConsumed) return kindPairs
+const isContent = (l: Line) => l.kind !== 'break' && l.kind !== 'divider'
+const spoken = (l: Line) => l.kind === 'verse' || l.kind === 'text'
 
-  let attached = false
-  return primaryLines.map((l) => {
-    if (!attached && (l.kind === 'text' || l.kind === 'verse')) {
-      attached = true
-      return [
-        l,
-        {
-          kind: l.kind,
-          text: latinLines
-            .filter((x) => x.kind === 'text' || x.kind === 'verse')
-            .map((x) => x.text)
-            .join('\n'),
-        },
+// How well two lines pair: a rubric only with a rubric, a heading with its
+// heading, a spoken line with a spoken line, the better the nearer their
+// lengths (Latin runs a little shorter than its translation).
+function matchScore(p: Line, l: Line): number {
+  if (spoken(p) !== spoken(l)) return Number.NEGATIVE_INFINITY
+  if (!spoken(p)) return p.kind === l.kind ? 2 : Number.NEGATIVE_INFINITY
+  const ratio = (l.text.length + 20) / (p.text.length + 20)
+  if (ratio > 0.5 && ratio < 2) return 4
+  return ratio > 0.25 && ratio < 4 ? 2 : 0
+}
+
+// Leaving a line unpaired: a rubric or a heading costs little, for the
+// translations add, drop and reword the rubrics freely ("Et pronuntians:
+// Inítium, sive Sequéntia…" has no Portuguese); a spoken line costs more.
+const skipCost = (l: Line) => (spoken(l) ? 3 : 1)
+
+/**
+ * The columns aligned as two sequences, so a rubric one column has and the
+ * other lacks shifts nothing after it. A Latin spoken line left unpaired goes
+ * with the pair before it (or, at the start, after it), so a reader praying in
+ * Latin still reads it.
+ */
+function align(
+  primaryLines: Line[],
+  latinLines: Line[],
+): { pairs: Array<[Line, Line | undefined]>; score: number } {
+  const ps = primaryLines.filter(isContent)
+  const ls = latinLines.filter(isContent)
+  const n = ps.length
+  const m = ls.length
+  // best[i][j]: the best score aligning ps[i..] with ls[j..].
+  const best = Array.from({ length: n + 1 }, () => new Array<number>(m + 1).fill(0))
+  for (let i = n; i >= 0; i--) {
+    for (let j = m; j >= 0; j--) {
+      if (i === n && j === m) continue
+      const options = [
+        i < n ? best[i + 1][j] - skipCost(ps[i]) : Number.NEGATIVE_INFINITY,
+        j < m ? best[i][j + 1] - skipCost(ls[j]) : Number.NEGATIVE_INFINITY,
+        i < n && j < m ? best[i + 1][j + 1] + matchScore(ps[i], ls[j]) : Number.NEGATIVE_INFINITY,
       ]
+      best[i][j] = Math.max(...options)
     }
-    return [l, undefined]
-  })
+  }
+  const partner = new Map<Line, Line>()
+  const leftover: Array<{ line: Line; after: Line | undefined }> = []
+  let lastPaired: Line | undefined
+  let i = 0
+  let j = 0
+  while (i < n || j < m) {
+    const match =
+      i < n && j < m ? best[i + 1][j + 1] + matchScore(ps[i], ls[j]) : Number.NEGATIVE_INFINITY
+    if (match === best[i][j]) {
+      partner.set(ps[i], ls[j])
+      if (spoken(ps[i])) lastPaired = ps[i]
+      i++
+      j++
+    } else if (i < n && best[i + 1][j] - skipCost(ps[i]) === best[i][j]) {
+      i++
+    } else {
+      if (spoken(ls[j]) && ls[j].text.trim()) leftover.push({ line: ls[j], after: lastPaired })
+      j++
+    }
+  }
+  for (const { line, after } of leftover) {
+    // Before any pair, it opens the first one ("Benedícat vos omnípotens Deus,"
+    // ahead of "Pater, et Fílius…"); otherwise it follows the pair before it.
+    const host = after ?? ps.find((p) => spoken(p) && partner.has(p))
+    const was = host && partner.get(host)
+    if (!host || !was) continue
+    const text = after ? `${was.text}\n${line.text}` : `${line.text}\n${was.text}`
+    partner.set(host, { ...was, text })
+  }
+  return { pairs: primaryLines.map((l) => [l, partner.get(l)]), score: best[0][0] }
 }
 
 // Pair segment by segment when both columns split into the same number of
@@ -196,7 +301,9 @@ function pairSegments(primaryLines: Line[], latinLines: Line[] | undefined) {
 
 export function mapItemsToPrimitives(primaryItems: string[], latinItems?: string[]): Primitive[] {
   const out: Primitive[] = []
-  let textBuffer: BilingualText[] = []
+  // `latin`: the line's Latin as paired, kept even where it reads as the
+  // vernacular does, so a paragraph whose other lines differ keeps it.
+  let textBuffer: Array<BilingualText & { latin?: string }> = []
   let verseBuffer: VersesPrimitive['items'] = []
 
   const flushText = () => {
@@ -211,7 +318,7 @@ export function mapItemsToPrimitives(primaryItems: string[], latinItems?: string
         ...(textBuffer.some((t) => t.secondary !== undefined)
           ? {
               secondary: textBuffer
-                .map((t) => t.secondary ?? '')
+                .map((t) => t.latin ?? '')
                 .join('\n')
                 .replace(/\n+$/, ''),
               secondaryLanguage: 'la' as const,
@@ -286,7 +393,7 @@ export function mapItemsToPrimitives(primaryItems: string[], latinItems?: string
         case 'text':
           flushVerses()
           if (p.paragraph) flushText()
-          if (p.text) textBuffer.push(bilingual(p.text, l?.text))
+          if (p.text) textBuffer.push({ ...bilingual(p.text, l?.text), latin: l?.text })
           break
       }
     }

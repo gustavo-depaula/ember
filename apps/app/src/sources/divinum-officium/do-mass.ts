@@ -20,7 +20,7 @@ import { createCorpusDoLoader } from './loader'
 
 export const doMassSource: ContentSource<Primitive[]> = {
   id: 'producer/do-mass',
-  version: '18',
+  version: '19',
   prefsDeps: ['lang'],
   dateScoped: true,
   async fetch(ctx: SourceFetchContext): Promise<Primitive[]> {
@@ -32,6 +32,8 @@ export const doMassSource: ContentSource<Primitive[]> = {
       year: ctx.date.getFullYear(),
       version: efVersion,
       lang2: doLangDir(ctx.prefs.lang),
+      // A text the translation lacks reads in the Church's Latin, not in English.
+      fallbackLang: 'Latin',
       propers: parts !== undefined,
     })
     if (!parts) {

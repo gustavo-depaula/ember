@@ -31,7 +31,7 @@ type Hour = (typeof hours)[number]
 
 export const doHourSource: ContentSource<Primitive[]> = {
   id: 'producer/do-hour',
-  version: '18',
+  version: '19',
   prefsDeps: ['lang'],
   dateScoped: true,
   async fetch(ctx: SourceFetchContext): Promise<Primitive[]> {
@@ -49,6 +49,8 @@ export const doHourSource: ContentSource<Primitive[]> = {
       version,
       hora: hour as Hour,
       lang2: doLangDir(ctx.prefs.lang),
+      // A text the translation lacks reads in the Church's Latin, not in English.
+      fallbackLang: 'Latin',
       votive,
     })
     // What is sung in the hour — antiphons, the hymn, the short responsory — is
