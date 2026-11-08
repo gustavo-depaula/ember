@@ -25,6 +25,7 @@ export {
 } from './kalendar/date'
 export { createDirectorium, type Directorium } from './kalendar/directorium'
 export { type EmberSeason, type EmberWeek, emberDays } from './kalendar/ember'
+export { type DayHeading, type DayName, dayHeading, massesOf } from './kalendar/heading'
 export {
   checkLatinFileExists,
   climit1960,
@@ -35,6 +36,7 @@ export {
 } from './kalendar/occurrence'
 export { officestring } from './kalendar/officestring'
 export { type DayResolution, resolveDay } from './kalendar/precedence'
+export { rankname } from './kalendar/rankname'
 export { createKalendarState, type KalendarState, num, subdirname } from './kalendar/state'
 export { buildDoYear, type DoCalendarDay, type DoYearOptions } from './kalendar/year'
 export { type LiturgicalColor, liturgicalColorOf } from './liturgicalColor'
