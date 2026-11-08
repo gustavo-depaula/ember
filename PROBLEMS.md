@@ -40,6 +40,7 @@ Each book's `book.json` source notes give the details. The scripts that built th
 
 ### Scanning errors left after cleanup
 
+- `gabriel-stmm-intimita-divina/it/giorno-358.md`, first point: "affinché non concepisca orrore, le detesti, se ne umili" is almost certainly a scanning error for "affinché **ne** concepisca orrore": the light shows the soul its miseries so that it holds them in horror, detests them and is humbled. The pt-BR follows the sense ("para que as tenha em horror"); the Italian keeps the scanned "non" until it is checked against the page image of the 1957 edition.
 - `john-of-the-cross-opera-omnia/{cantico-a,llama-b,avisos,opuscula,epistolario,poesias}`, `es-ES/`: Silverio OCR corrected by script against Pacho (consulted only), not proofread. Known leftovers: a few misread letters and stray "!" for "l" inside words (e.g. "este!" in `cantico-a/c13-14`); some footnotes whose reference mark the OCR lost were attached by hand or dropped (`llama-b/c1` "perfección" and `c2` "según", `poesias/poesia-8`, `-9`); `epistolario` letters II and III are fragments with uncertain dates; in `poesias` the stanza divisions of unnumbered poems (romances, glosses) follow the scan's line order and the title lines are italicised by rule.
 
 These books were imported from scans and corrected by script, not proofread. Proofread them against the page images (the `audit-book-vs-pdf` skill), worst first:
