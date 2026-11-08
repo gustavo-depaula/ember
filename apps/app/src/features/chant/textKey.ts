@@ -10,7 +10,8 @@ export type OfficeGenre = 'an' | 'hy' | 'rb'
 export type ChantGenre = MassGenre | OfficeGenre
 
 export type MassPiece = { genre: MassGenre; text: string }
-export type OfficePiece = { genre: OfficeGenre; text: string }
+/** `verse`: a short responsory's versicle, which tells its seasons' settings apart. */
+export type OfficePiece = { genre: OfficeGenre; text: string; verse?: string }
 
 /**
  * Latin reduced to what two editions of a text agree on: letters only, no
@@ -133,11 +134,11 @@ export function massPieces(head: string, lines: string[]): MassPiece[] {
 export function officePieces(lines: string[]): OfficePiece[] {
   const out: OfficePiece[] = []
   const seen = new Set<string>()
-  const add = (genre: OfficeGenre, text: string) => {
+  const add = (genre: OfficeGenre, text: string, verse?: string) => {
     const key = `${genre}:${fold(text)}`
     if (text && !seen.has(key)) {
       seen.add(key)
-      out.push({ genre, text })
+      out.push(verse ? { genre, text, verse } : { genre, text })
     }
   }
   // The antiphon of Our Lady that closes Compline: the whole item, up to its versicle.
@@ -155,7 +156,13 @@ export function officePieces(lines: string[]): OfficePiece[] {
     const antiphon = /^Ant\.\s+(.*)/.exec(line)
     if (antiphon) add('an', antiphon[1])
     const respond = /^R\.br\.\s+(.*)/.exec(line)
-    if (respond) add('rb', respond[1])
+    // Its versicle is the first after it, before the Glória Patri.
+    const verse = lines
+      .slice(i + 1)
+      .map((next) => /^V\.\s+(.*)/.exec(next)?.[1])
+      .find((text) => text !== undefined)
+    if (respond)
+      add('rb', respond[1], verse && !/^Gl[óo]ria Patri/i.test(verse) ? verse : undefined)
     // A hymn under its own head, or under a `!Hymnus` rubric inside a longer item.
     if (/^(#|!)\s*Hymnus\b/.test(line)) {
       const stanza: string[] = []

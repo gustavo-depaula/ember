@@ -13,7 +13,7 @@ const openingLength = 24
 const shortestLine = 12
 
 /** The words under a score's notes, folded as texts are for matching. */
-function lyricsOf(score: string): string {
+export function lyricsOf(score: string): string {
   return fold(
     score
       .replace(/<(v|sp|alt)>.*?<\/\1>/g, '')

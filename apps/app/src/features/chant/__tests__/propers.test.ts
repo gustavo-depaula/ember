@@ -96,6 +96,22 @@ describe('findOfficeChants', () => {
     expect(respond).toMatchObject({ genre: 'rb' })
   })
 
+  it("sings a short responsory to the setting of the day's versicle, or not at all", async () => {
+    const prime = (verse: string) =>
+      findOfficeChants([
+        'R.br. Christe, Fili Dei vivi, * Miserére nobis.',
+        'R. Christe, Fili Dei vivi, * Miserére nobis.',
+        `V. ${verse}`,
+        'R. Miserére nobis.',
+        'V. Glória Patri, et Fílio, * et Spirítui Sancto.',
+      ])
+    // GregoBase 3053 is Paschaltide's, its versicle Qui surrexísti a mórtuis.
+    const [easter] = await prime('Qui surrexísti a mórtuis.')
+    expect(easter?.id).toMatch(/3053$/)
+    const [ourLady] = await prime('Qui natus es de María Vírgine.')
+    expect(ourLady?.id ?? '').not.toMatch(/3053$/)
+  })
+
   it('finds the antiphon of Our Lady that closes Compline, by its whole text', async () => {
     const [chant] = await findOfficeChants([
       '#Antiphona finalis B.M.V.',

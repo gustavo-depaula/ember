@@ -10,7 +10,8 @@
 import { getEntry } from '@/content/contentIndex'
 import { getJson } from '@/content/store'
 import type { Chant } from './chants'
-import { type ChantGenre, massPieces, officePieces, pieceKey } from './textKey'
+import { lyricsOf } from './sungSpan'
+import { type ChantGenre, fold, massPieces, officePieces, pieceKey } from './textKey'
 
 /** The scores of one genre, by the text each sets. */
 type ChantIndex = {
@@ -46,21 +47,42 @@ function loadOnce<T>(id: string): Promise<T> | undefined {
   return blob as Promise<T>
 }
 
-async function findChant(genre: ChantGenre, key: string): Promise<ProperChant | undefined> {
+async function chantOf(ref: string, genre: ChantGenre): Promise<ProperChant | undefined> {
+  const [bundleId, chantId] = ref.split('/')
+  const bundle = await loadOnce<ChantBundle>(`chant-bundle/${bundleId}`)
+  const chant = bundle?.chants[chantId]
+  return chant && { ...chant, id: ref, genre }
+}
+
+async function findChant(
+  genre: ChantGenre,
+  key: string,
+  verse?: string,
+): Promise<ProperChant | undefined> {
   const indexes = await Promise.all(
     (kin[genre] ?? [genre]).map((g) => loadOnce<ChantIndex>(`chant-index/${g}`)),
   )
   const filed = indexes.flatMap((index) => index?.keys[key.slice(0, index.keyLength)] ?? [])
   if (!filed.length) return undefined
+  // A short responsory opens alike in every season (Prime's "Christe, Fili
+  // Dei vivi" under Advent's versicle, Christmas's, Easter's with its
+  // alleluias): the setting is the one that sings the day's versicle, or one
+  // that sets the respond alone. With neither, the text is read rather than
+  // sung to another season's.
+  if (verse) {
+    const opening = fold(verse).slice(0, 16)
+    const chants = await Promise.all(filed.map(([, ref]) => chantOf(ref, genre)))
+    return (
+      chants.find((chant) => chant && lyricsOf(chant.score).includes(opening)) ??
+      chants.find((chant) => chant && !/<sp>V\/<\/sp>/.test(chant.score))
+    )
+  }
   // Two chants can open alike — an antiphon with and without its Paschal
   // alleluias. The one whose text runs as long as the text asked for is meant.
   const [, ref] = filed.reduce((best, entry) =>
     Math.abs(entry[0] - key.length) < Math.abs(best[0] - key.length) ? entry : best,
   )
-  const [bundleId, chantId] = ref.split('/')
-  const bundle = await loadOnce<ChantBundle>(`chant-bundle/${bundleId}`)
-  const chant = bundle?.chants[chantId]
-  return chant && { ...chant, id: ref, genre }
+  return chantOf(ref, genre)
 }
 
 /**
@@ -81,7 +103,7 @@ export async function findMassChants(head: string, lines: string[]): Promise<Pro
  */
 export async function findOfficeChants(lines: string[]): Promise<ProperChant[]> {
   const found = await Promise.all(
-    officePieces(lines).map((piece) => findChant(piece.genre, pieceKey(piece))),
+    officePieces(lines).map((piece) => findChant(piece.genre, pieceKey(piece), piece.verse)),
   )
   return found.filter((chant) => chant !== undefined)
 }
