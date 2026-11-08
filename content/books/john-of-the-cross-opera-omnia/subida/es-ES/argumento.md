@@ -4,7 +4,7 @@
 
 *Trata de cómo podrá un alma disponerse para llegar en breve a la divina unión. Da avisos y doctrina, así a los principiantes como a los aprovechados, muy provechosa, para que sepan desembarazarse de todo lo temporal, y no embarazarse con lo espiritual[^1], y quedar en la suma desnudez y libertad de espíritu cual se requiere para la divina unión[^2].*
 
-Tcdt' la doctrina que entiendo tratar[^3] en esta Subida del Mente Carmelo, está incluida en las siguientes Canciones, y en ellas se contiene el modo de subir hasta la cumbre del monte, que es el alto estado de la perfección que aquí llamamos unión del alma con Dios. Y porque tengo de ir fundando sobre ellas lo que dijere, las he querido poner aquí juntas, para que se entienda y vea junta toda la substancia[^4] de lo que se ha de escribir; aunque al tiempo de la declaración convendrá poner cada canción de por sí, y, ni más ni menos, los versos de cada una, según lo pidiere la materia y declaración. Dice, pues, así[^5].
+Toda la doctrina que entiendo tratar[^3] en esta Subida del Monte Carmelo, está incluida en las siguientes Canciones, y en ellas se contiene el modo de subir hasta la cumbre del monte, que es el alto estado de la perfección que aquí llamamos unión del alma con Dios. Y porque tengo de ir fundando sobre ellas lo que dijere, las he querido poner aquí juntas, para que se entienda y vea junta toda la substancia[^4] de lo que se ha de escribir; aunque al tiempo de la declaración convendrá poner cada canción de por sí, y, ni más ni menos, los versos de cada una, según lo pidiere la materia y declaración. Dice, pues, así[^5].
 
 ## Canciones
 
