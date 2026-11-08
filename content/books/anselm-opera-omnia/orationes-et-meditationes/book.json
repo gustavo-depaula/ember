@@ -18,13 +18,19 @@
   },
   "composed": "c. 1070-1109",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "anselm/orationes-et-meditationes",
   "editions": {
     "la": {
       "editor": "J.-P. Migne (Patrologia Latina 158)",
       "year": 1853
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,457 +47,533 @@
     {
       "id": "orationes",
       "title": {
-        "la": "Orationes"
+        "la": "Orationes",
+        "pt-BR": "Orações"
       },
       "children": [
         {
           "id": "o01",
           "title": {
-            "la": "Oratio I. Ad Sanctam Trinitatem"
+            "la": "Oratio I. Ad Sanctam Trinitatem",
+            "pt-BR": "Oração I. À Santa Trindade"
           }
         },
         {
           "id": "o02",
           "title": {
-            "la": "Oratio II. Ad Deum Patrem per Merita Filii Incarnati"
+            "la": "Oratio II. Ad Deum Patrem per Merita Filii Incarnati",
+            "pt-BR": "Oração II. A Deus Pai pelos méritos do Filho encarnado"
           }
         },
         {
           "id": "o03",
           "title": {
-            "la": "Oratio III. Ad Deum"
+            "la": "Oratio III. Ad Deum",
+            "pt-BR": "Oração III. A Deus"
           }
         },
         {
           "id": "o04",
           "title": {
-            "la": "Oratio IV. Cum peccator de iniquitatibus suis multum est anxius, easque coram Deo, omni postposita verecundia, expandit"
+            "la": "Oratio IV. Cum peccator de iniquitatibus suis multum est anxius, easque coram Deo, omni postposita verecundia, expandit",
+            "pt-BR": "Oração IV. Quando o pecador, muito angustiado por suas iniquidades, as expõe diante de Deus, pondo de lado toda vergonha"
           }
         },
         {
           "id": "o05",
           "title": {
-            "la": "Oratio V. Ad Deum"
+            "la": "Oratio V. Ad Deum",
+            "pt-BR": "Oração V. A Deus"
           }
         },
         {
           "id": "o06",
           "title": {
-            "la": "Oratio VI. Ad Deum"
+            "la": "Oratio VI. Ad Deum",
+            "pt-BR": "Oração VI. A Deus"
           }
         },
         {
           "id": "o07",
           "title": {
-            "la": "Oratio VII. Ad Deum"
+            "la": "Oratio VII. Ad Deum",
+            "pt-BR": "Oração VII. A Deus"
           }
         },
         {
           "id": "o08",
           "title": {
-            "la": "Oratio VIII. Ad Deum"
+            "la": "Oratio VIII. Ad Deum",
+            "pt-BR": "Oração VIII. A Deus"
           }
         },
         {
           "id": "o09",
           "title": {
-            "la": "Oratio IX. Ad Deum"
+            "la": "Oratio IX. Ad Deum",
+            "pt-BR": "Oração IX. A Deus"
           }
         },
         {
           "id": "o10",
           "title": {
-            "la": "Oratio X. Ad Deum"
+            "la": "Oratio X. Ad Deum",
+            "pt-BR": "Oração X. A Deus"
           }
         },
         {
           "id": "o11",
           "title": {
-            "la": "Oratio XI. Ad Deum"
+            "la": "Oratio XI. Ad Deum",
+            "pt-BR": "Oração XI. A Deus"
           }
         },
         {
           "id": "o12",
           "title": {
-            "la": "Oratio XII. Ad Deum"
+            "la": "Oratio XII. Ad Deum",
+            "pt-BR": "Oração XII. A Deus"
           }
         },
         {
           "id": "o13",
           "title": {
-            "la": "Oratio XIII. Ad Deum"
+            "la": "Oratio XIII. Ad Deum",
+            "pt-BR": "Oração XIII. A Deus"
           }
         },
         {
           "id": "o14",
           "title": {
-            "la": "Oratio XIV. Ad Spiritum Sanctum"
+            "la": "Oratio XIV. Ad Spiritum Sanctum",
+            "pt-BR": "Oração XIV. Ao Espírito Santo"
           }
         },
         {
           "id": "o15",
           "title": {
-            "la": "Oratio XV. Ad Christum,"
+            "la": "Oratio XV. Ad Christum,",
+            "pt-BR": "Oração XV. A Cristo"
           }
         },
         {
           "id": "o16",
           "title": {
-            "la": "Oratio XVI. Ad Christum"
+            "la": "Oratio XVI. Ad Christum",
+            "pt-BR": "Oração XVI. A Cristo"
           }
         },
         {
           "id": "o17",
           "title": {
-            "la": "Oratio XVII. Ad Christum"
+            "la": "Oratio XVII. Ad Christum",
+            "pt-BR": "Oração XVII. A Cristo"
           }
         },
         {
           "id": "o18",
           "title": {
-            "la": "Oratio XVIII. Ad Christum"
+            "la": "Oratio XVIII. Ad Christum",
+            "pt-BR": "Oração XVIII. A Cristo"
           }
         },
         {
           "id": "o19",
           "title": {
-            "la": "Oratio XIX. Ad Christum"
+            "la": "Oratio XIX. Ad Christum",
+            "pt-BR": "Oração XIX. A Cristo"
           }
         },
         {
           "id": "o20",
           "title": {
-            "la": "Oratio XX. Ad Christum"
+            "la": "Oratio XX. Ad Christum",
+            "pt-BR": "Oração XX. A Cristo"
           }
         },
         {
           "id": "o21",
           "title": {
-            "la": "Oratio XXI. Ad Christum"
+            "la": "Oratio XXI. Ad Christum",
+            "pt-BR": "Oração XXI. A Cristo"
           }
         },
         {
           "id": "o22",
           "title": {
-            "la": "Oratio XXII. Ad Christum"
+            "la": "Oratio XXII. Ad Christum",
+            "pt-BR": "Oração XXII. A Cristo"
           }
         },
         {
           "id": "o23",
           "title": {
-            "la": "Oratio XXIII. Ad Christum"
+            "la": "Oratio XXIII. Ad Christum",
+            "pt-BR": "Oração XXIII. A Cristo"
           }
         },
         {
           "id": "o24",
           "title": {
-            "la": "Oratio XXIV. Ad Christum,"
+            "la": "Oratio XXIV. Ad Christum,",
+            "pt-BR": "Oração XXIV. A Cristo"
           }
         },
         {
           "id": "o25",
           "title": {
-            "la": "Oratio XXV. Ad Christum"
+            "la": "Oratio XXV. Ad Christum",
+            "pt-BR": "Oração XXV. A Cristo"
           }
         },
         {
           "id": "o26",
           "title": {
-            "la": "Oratio XXVI. Ad Christum"
+            "la": "Oratio XXVI. Ad Christum",
+            "pt-BR": "Oração XXVI. A Cristo"
           }
         },
         {
           "id": "o27",
           "title": {
-            "la": "Oratio XXVII. Ad Christum"
+            "la": "Oratio XXVII. Ad Christum",
+            "pt-BR": "Oração XXVII. A Cristo"
           }
         },
         {
           "id": "o28",
           "title": {
-            "la": "Oratio XXVIII. Ad Christum"
+            "la": "Oratio XXVIII. Ad Christum",
+            "pt-BR": "Oração XXVIII. A Cristo"
           }
         },
         {
           "id": "o29",
           "title": {
-            "la": "Oratio XXIX. Facienda a Sacerdote Ante Missam"
+            "la": "Oratio XXIX. Facienda a Sacerdote Ante Missam",
+            "pt-BR": "Oração XXIX. A ser feita pelo sacerdote antes da Missa"
           }
         },
         {
           "id": "o30",
           "title": {
-            "la": "Oratio XXX. Pro Sacerdote Qui Habet Celebrare"
+            "la": "Oratio XXX. Pro Sacerdote Qui Habet Celebrare",
+            "pt-BR": "Oração XXX. Pelo sacerdote que vai celebrar"
           }
         },
         {
           "id": "o31",
           "title": {
-            "la": "Oratio XXXI. Pro Sacerdote Celebraturo"
+            "la": "Oratio XXXI. Pro Sacerdote Celebraturo",
+            "pt-BR": "Oração XXXI. Pelo sacerdote prestes a celebrar"
           }
         },
         {
           "id": "o32",
           "title": {
-            "la": "Oratio XXXII. Ad Idem Faciendum"
+            "la": "Oratio XXXII. Ad Idem Faciendum",
+            "pt-BR": "Oração XXXII. Para o mesmo fim"
           }
         },
         {
           "id": "o33",
           "title": {
-            "la": "Oratio XXXIII. Ad Idem Faciendum"
+            "la": "Oratio XXXIII. Ad Idem Faciendum",
+            "pt-BR": "Oração XXXIII. Para o mesmo fim"
           }
         },
         {
           "id": "o34",
           "title": {
-            "la": "Oratio XXXIV. Ad Christum"
+            "la": "Oratio XXXIV. Ad Christum",
+            "pt-BR": "Oração XXXIV. A Cristo"
           }
         },
         {
           "id": "o35",
           "title": {
-            "la": "Oratio XXXV. Ad Christum"
+            "la": "Oratio XXXV. Ad Christum",
+            "pt-BR": "Oração XXXV. A Cristo"
           }
         },
         {
           "id": "o36",
           "title": {
-            "la": "Oratio XXXVI. Ad Deum, et ad omnes Sanctos"
+            "la": "Oratio XXXVI. Ad Deum, et ad omnes Sanctos",
+            "pt-BR": "Oração XXXVI. A Deus e a todos os santos"
           }
         },
         {
           "id": "o37",
           "title": {
-            "la": "Oratio XXXVII. Ad Deum.( .)"
+            "la": "Oratio XXXVII. Ad Deum.( .)",
+            "pt-BR": "Oração XXXVII. A Deus"
           }
         },
         {
           "id": "o38",
           "title": {
-            "la": "Oratio XXXVIII. Ad Christum.( .)"
+            "la": "Oratio XXXVIII. Ad Christum.( .)",
+            "pt-BR": "Oração XXXVIII. A Cristo"
           }
         },
         {
           "id": "o39",
           "title": {
-            "la": "Oratio XXXIX. Ad Christum, et omnes Sanctos.( .)"
+            "la": "Oratio XXXIX. Ad Christum, et omnes Sanctos.( .)",
+            "pt-BR": "Oração XXXIX. A Cristo e a todos os santos"
           }
         },
         {
           "id": "o40",
           "title": {
-            "la": "Oratio XL. Rhythmus ad Deum et omnes Sanctos"
+            "la": "Oratio XL. Rhythmus ad Deum et omnes Sanctos",
+            "pt-BR": "Oração XL. Poema rítmico a Deus e a todos os santos"
           }
         },
         {
           "id": "o41",
           "title": {
-            "la": "Oratio XLI. Ad Crucem Domini"
+            "la": "Oratio XLI. Ad Crucem Domini",
+            "pt-BR": "Oração XLI. À Cruz do Senhor"
           }
         },
         {
           "id": "o42",
           "title": {
-            "la": "Oratio XLII. Ad Sanctam Crucem"
+            "la": "Oratio XLII. Ad Sanctam Crucem",
+            "pt-BR": "Oração XLII. À Santa Cruz"
           }
         },
         {
           "id": "o43",
           "title": {
-            "la": "Oratio XLIII. Ad Crucem Domini"
+            "la": "Oratio XLIII. Ad Crucem Domini",
+            "pt-BR": "Oração XLIII. À Cruz do Senhor"
           }
         },
         {
           "id": "o44",
           "title": {
-            "la": "Oratio XLIV. Ad Crucem Domini"
+            "la": "Oratio XLIV. Ad Crucem Domini",
+            "pt-BR": "Oração XLIV. À Cruz do Senhor"
           }
         },
         {
           "id": "o45",
           "title": {
-            "la": "Oratio XLV. Ad Crucem Domini"
+            "la": "Oratio XLV. Ad Crucem Domini",
+            "pt-BR": "Oração XLV. À Cruz do Senhor"
           }
         },
         {
           "id": "o46",
           "title": {
-            "la": "Oratio XLVI. Ad Sanctam Virginem Mariam"
+            "la": "Oratio XLVI. Ad Sanctam Virginem Mariam",
+            "pt-BR": "Oração XLVI. À Santa Virgem Maria"
           }
         },
         {
           "id": "o47",
           "title": {
-            "la": "Oratio XLVII. Ad Sanctam Virginem Mariam"
+            "la": "Oratio XLVII. Ad Sanctam Virginem Mariam",
+            "pt-BR": "Oração XLVII. À Santa Virgem Maria"
           }
         },
         {
           "id": "o48",
           "title": {
-            "la": "Oratio XLVIII. Ad Sanctam Virginem Mariam"
+            "la": "Oratio XLVIII. Ad Sanctam Virginem Mariam",
+            "pt-BR": "Oração XLVIII. À Santa Virgem Maria"
           }
         },
         {
           "id": "o49",
           "title": {
-            "la": "Oratio XLIX. Ad Eamdem Dei Matrem"
+            "la": "Oratio XLIX. Ad Eamdem Dei Matrem",
+            "pt-BR": "Oração XLIX. À mesma Mãe de Deus"
           }
         },
         {
           "id": "o50",
           "title": {
-            "la": "Oratio L. Ad Sanctam Virginem Mariam"
+            "la": "Oratio L. Ad Sanctam Virginem Mariam",
+            "pt-BR": "Oração L. À Santa Virgem Maria"
           }
         },
         {
           "id": "o51",
           "title": {
-            "la": "Oratio LI. Ad Sanctam Virginem Mariam"
+            "la": "Oratio LI. Ad Sanctam Virginem Mariam",
+            "pt-BR": "Oração LI. À Santa Virgem Maria"
           }
         },
         {
           "id": "o52",
           "title": {
-            "la": "Oratio LII. Ad Sanctam Virginem Mariam"
+            "la": "Oratio LII. Ad Sanctam Virginem Mariam",
+            "pt-BR": "Oração LII. À Santa Virgem Maria"
           }
         },
         {
           "id": "o53",
           "title": {
-            "la": "Oratio LIII. Ad Sanctam Virginem Mariam, et ad Sanctum Joannem Evangelistam"
+            "la": "Oratio LIII. Ad Sanctam Virginem Mariam, et ad Sanctum Joannem Evangelistam",
+            "pt-BR": "Oração LIII. À Santa Virgem Maria e a São João Evangelista"
           }
         },
         {
           "id": "o54",
           "title": {
-            "la": "Oratio LIV. Ad Sanctam Virginem Mariam"
+            "la": "Oratio LIV. Ad Sanctam Virginem Mariam",
+            "pt-BR": "Oração LIV. À Santa Virgem Maria"
           }
         },
         {
           "id": "o55",
           "title": {
-            "la": "Oratio LV. Ad Eamdem Sanctam Virginem Mariam"
+            "la": "Oratio LV. Ad Eamdem Sanctam Virginem Mariam",
+            "pt-BR": "Oração LV. À mesma Santa Virgem Maria"
           }
         },
         {
           "id": "o56",
           "title": {
-            "la": "Oratio LVI. Ad Sanctam Virginem Mariam"
+            "la": "Oratio LVI. Ad Sanctam Virginem Mariam",
+            "pt-BR": "Oração LVI. À Santa Virgem Maria"
           }
         },
         {
           "id": "o57",
           "title": {
-            "la": "Oratio LVII. Ad Sanctam Virginem Mariam"
+            "la": "Oratio LVII. Ad Sanctam Virginem Mariam",
+            "pt-BR": "Oração LVII. À Santa Virgem Maria"
           }
         },
         {
           "id": "o58",
           "title": {
-            "la": "Oratio LVIII. Ad Sanctam Virginem Mariam"
+            "la": "Oratio LVIII. Ad Sanctam Virginem Mariam",
+            "pt-BR": "Oração LVIII. À Santa Virgem Maria"
           }
         },
         {
           "id": "o59",
           "title": {
-            "la": "Oratio LIX. Ad Sanctam Virginem Mariam"
+            "la": "Oratio LIX. Ad Sanctam Virginem Mariam",
+            "pt-BR": "Oração LIX. À Santa Virgem Maria"
           }
         },
         {
           "id": "o60",
           "title": {
-            "la": "Oratio LX. Ad Sanctam Virginem Mariam"
+            "la": "Oratio LX. Ad Sanctam Virginem Mariam",
+            "pt-BR": "Oração LX. À Santa Virgem Maria"
           }
         },
         {
           "id": "o61",
           "title": {
-            "la": "Oratio LXI. Rhythmus ad Sanctam Virginem Mariam et ad omnes Sanctos"
+            "la": "Oratio LXI. Rhythmus ad Sanctam Virginem Mariam et ad omnes Sanctos",
+            "pt-BR": "Oração LXI. Poema rítmico à Santa Virgem Maria e a todos os santos"
           }
         },
         {
           "id": "o62",
           "title": {
-            "la": "Oratio LXII. Ad Angelum Custodem"
+            "la": "Oratio LXII. Ad Angelum Custodem",
+            "pt-BR": "Oração LXII. Ao Anjo da Guarda"
           }
         },
         {
           "id": "o63",
           "title": {
-            "la": "Oratio LXIII. Ad Sanctum Joannem Baptistam"
+            "la": "Oratio LXIII. Ad Sanctum Joannem Baptistam",
+            "pt-BR": "Oração LXIII. A São João Batista"
           }
         },
         {
           "id": "o64",
           "title": {
-            "la": "Oratio LXIV. Ad Sanctum Petrum Apostolum"
+            "la": "Oratio LXIV. Ad Sanctum Petrum Apostolum",
+            "pt-BR": "Oração LXIV. A São Pedro Apóstolo"
           }
         },
         {
           "id": "o65",
           "title": {
-            "la": "Oratio LXV. Ad Sanctum Paulum Apostolum"
+            "la": "Oratio LXV. Ad Sanctum Paulum Apostolum",
+            "pt-BR": "Oração LXV. A São Paulo Apóstolo"
           }
         },
         {
           "id": "o66",
           "title": {
-            "la": "Oratio LXVI. Ad Sanctum Andraeam Apostolum"
+            "la": "Oratio LXVI. Ad Sanctum Andraeam Apostolum",
+            "pt-BR": "Oração LXVI. A Santo André Apóstolo"
           }
         },
         {
           "id": "o67",
           "title": {
-            "la": "Oratio LXVII. Ad Sanctum Joannem Evangelistam"
+            "la": "Oratio LXVII. Ad Sanctum Joannem Evangelistam",
+            "pt-BR": "Oração LXVII. A São João Evangelista"
           }
         },
         {
           "id": "o68",
           "title": {
-            "la": "Oratio LXVIII. Ad Eumdem Apostolum"
+            "la": "Oratio LXVIII. Ad Eumdem Apostolum",
+            "pt-BR": "Oração LXVIII. Ao mesmo Apóstolo"
           }
         },
         {
           "id": "o69",
           "title": {
-            "la": "Oratio LXIX"
+            "la": "Oratio LXIX",
+            "pt-BR": "Oração LXIX"
           }
         },
         {
           "id": "o70",
           "title": {
-            "la": "Oratio LXX. Ad Sanctum Laurentium"
+            "la": "Oratio LXX. Ad Sanctum Laurentium",
+            "pt-BR": "Oração LXX. A São Lourenço"
           }
         },
         {
           "id": "o71",
           "title": {
-            "la": "Oratio LXXI. Ad Sanctum Martinum"
+            "la": "Oratio LXXI. Ad Sanctum Martinum",
+            "pt-BR": "Oração LXXI. A São Martinho"
           }
         },
         {
           "id": "o72",
           "title": {
-            "la": "Oratio LXXII. Ad Sanctum Benedictum"
+            "la": "Oratio LXXII. Ad Sanctum Benedictum",
+            "pt-BR": "Oração LXXII. A São Bento"
           }
         },
         {
           "id": "o73",
           "title": {
-            "la": "Oratio LXXIII. Ad Sanctum Dunstanum"
+            "la": "Oratio LXXIII. Ad Sanctum Dunstanum",
+            "pt-BR": "Oração LXXIII. A São Dunstano"
           }
         },
         {
           "id": "o74",
           "title": {
-            "la": "Oratio LXXIV. Ad Sanctam Mariam Magdalenam,"
+            "la": "Oratio LXXIV. Ad Sanctam Mariam Magdalenam,",
+            "pt-BR": "Oração LXXIV. A Santa Maria Madalena"
           }
         },
         {
           "id": "o75",
           "title": {
-            "la": "Oratio LXXV. Praelati ad Quemcunque Sanctum Ecclesiae Suae Patronum"
+            "la": "Oratio LXXV. Praelati ad Quemcunque Sanctum Ecclesiae Suae Patronum",
+            "pt-BR": "Oração LXXV. Do prelado a qualquer santo padroeiro da sua igreja"
           }
         }
       ]
@@ -499,139 +581,162 @@
     {
       "id": "meditationes",
       "title": {
-        "la": "Meditationes"
+        "la": "Meditationes",
+        "pt-BR": "Meditações"
       },
       "children": [
         {
           "id": "prologus",
           "title": {
-            "la": "Prologus"
+            "la": "Prologus",
+            "pt-BR": "Prólogo"
           }
         },
         {
           "id": "m01",
           "title": {
-            "la": "Meditatio I. De humanae conditionis dignitate et miseria"
+            "la": "Meditatio I. De humanae conditionis dignitate et miseria",
+            "pt-BR": "Meditação I. Da dignidade e da miséria da condição humana"
           }
         },
         {
           "id": "m02",
           "title": {
-            "la": "Meditatio II. De terrore judicii, ad excitandum in se timorem"
+            "la": "Meditatio II. De terrore judicii, ad excitandum in se timorem",
+            "pt-BR": "Meditação II. Do terror do juízo, para despertar em si o temor"
           }
         },
         {
           "id": "m03",
           "title": {
-            "la": "Meditatio III. Deploratio male amissae virginitatis"
+            "la": "Meditatio III. Deploratio male amissae virginitatis",
+            "pt-BR": "Meditação III. Lamento pela virgindade perdida no pecado"
           }
         },
         {
           "id": "m04",
           "title": {
-            "la": "Meditatio IV. Quomodo peccator excitet animam suam ad corrigenda peccata"
+            "la": "Meditatio IV. Quomodo peccator excitet animam suam ad corrigenda peccata",
+            "pt-BR": "Meditação IV. Como o pecador desperta a sua alma para corrigir os pecados"
           }
         },
         {
           "id": "m05",
           "title": {
-            "la": "Meditatio V. Unde vivat anima, et unde vivat caro: et de gloria bonae animae, et de infelicitate malae animae, quando exeunt de corpore"
+            "la": "Meditatio V. Unde vivat anima, et unde vivat caro: et de gloria bonae animae, et de infelicitate malae animae, quando exeunt de corpore",
+            "pt-BR": "Meditação V. De que vive a alma e de que vive a carne; e da glória da alma boa e da infelicidade da alma má quando saem do corpo"
           }
         },
         {
           "id": "m06",
           "title": {
-            "la": "Meditatio VI. Ad roborandum spiritum ne desperemus; quia si veram poenitentiam agimus, veram misericordiam sine dubio de omnibus peccatis nostris inveniemus"
+            "la": "Meditatio VI. Ad roborandum spiritum ne desperemus; quia si veram poenitentiam agimus, veram misericordiam sine dubio de omnibus peccatis nostris inveniemus",
+            "pt-BR": "Meditação VI. Para fortalecer o espírito, a fim de não desesperarmos; porque, se fizermos verdadeira penitência, sem dúvida encontraremos verdadeira misericórdia para todos os nossos pecados"
           }
         },
         {
           "id": "m07",
           "title": {
-            "la": "Meditatio VII"
+            "la": "Meditatio VII",
+            "pt-BR": "Meditação VII"
           }
         },
         {
           "id": "m08",
           "title": {
-            "la": "Meditatio VIII. Elevatio poenitentis ad Patrem"
+            "la": "Meditatio VIII. Elevatio poenitentis ad Patrem",
+            "pt-BR": "Meditação VIII. Elevação do penitente ao Pai"
           }
         },
         {
           "id": "m09",
           "title": {
-            "la": "Meditatio IX. De humanitate Christi"
+            "la": "Meditatio IX. De humanitate Christi",
+            "pt-BR": "Meditação IX. Da humanidade de Cristo"
           }
         },
         {
           "id": "m10",
           "title": {
-            "la": "Meditatio X. De passione Christi"
+            "la": "Meditatio X. De passione Christi",
+            "pt-BR": "Meditação X. Da paixão de Cristo"
           }
         },
         {
           "id": "m11",
           "title": {
-            "la": "Meditatio XI. De redemptione humana"
+            "la": "Meditatio XI. De redemptione humana",
+            "pt-BR": "Meditação XI. Da redenção humana"
           }
         },
         {
           "id": "m12",
           "title": {
-            "la": "Meditatio XII. De humanitate Christi"
+            "la": "Meditatio XII. De humanitate Christi",
+            "pt-BR": "Meditação XII. Da humanidade de Cristo"
           }
         },
         {
           "id": "m13",
           "title": {
-            "la": "Meditatio XIII. De Christo"
+            "la": "Meditatio XIII. De Christo",
+            "pt-BR": "Meditação XIII. De Cristo"
           }
         },
         {
           "id": "m14",
           "title": {
-            "la": "Meditatio XIV"
+            "la": "Meditatio XIV",
+            "pt-BR": "Meditação XIV"
           }
         },
         {
           "id": "m15",
           "title": {
-            "la": "Meditatio XV. De praeteritorum beneficiorum Christi memoria, de praesentium experientia, et exspectatione futurorum"
+            "la": "Meditatio XV. De praeteritorum beneficiorum Christi memoria, de praesentium experientia, et exspectatione futurorum",
+            "pt-BR": "Meditação XV. Da memória dos benefícios passados de Cristo, da experiência dos presentes e da expectativa dos futuros"
           }
         },
         {
           "id": "m16",
           "title": {
-            "la": "Meditatio XVI. Sive meditationis quintae decimae pars secunda.—De praesentibus beneficiis Dei"
+            "la": "Meditatio XVI. Sive meditationis quintae decimae pars secunda.—De praesentibus beneficiis Dei",
+            "pt-BR": "Meditação XVI. Ou segunda parte da décima quinta meditação. Dos benefícios presentes de Deus"
           }
         },
         {
           "id": "m17",
           "title": {
-            "la": "Meditatio XVII. Sive meditationis quintae decimae pars tertia.—De futuris beneficiis Dei"
+            "la": "Meditatio XVII. Sive meditationis quintae decimae pars tertia.—De futuris beneficiis Dei",
+            "pt-BR": "Meditação XVII. Ou terceira parte da décima quinta meditação. Dos benefícios futuros de Deus"
           }
         },
         {
           "id": "m18",
           "title": {
-            "la": "Meditatio XVIII. Gratiarum actiones pro beneficiis divinae misericordiae et petitio divini adjutorii"
+            "la": "Meditatio XVIII. Gratiarum actiones pro beneficiis divinae misericordiae et petitio divini adjutorii",
+            "pt-BR": "Meditação XVIII. Ações de graças pelos benefícios da divina misericórdia e pedido do auxílio divino"
           }
         },
         {
           "id": "m19",
           "title": {
-            "la": "Meditatio XIX. De dulcedine divinae majestatis, et de aliis multis"
+            "la": "Meditatio XIX. De dulcedine divinae majestatis, et de aliis multis",
+            "pt-BR": "Meditação XIX. Da doçura da divina majestade, e de muitas outras coisas"
           }
         },
         {
           "id": "m20",
           "title": {
-            "la": "Meditatio XX. (Ex manuscripto codice n. 167 bibliothecae Thuanaeae.)"
+            "la": "Meditatio XX. (Ex manuscripto codice n. 167 bibliothecae Thuanaeae.)",
+            "pt-BR": "Meditação XX. (Do códice manuscrito n. 167 da biblioteca de De Thou.)"
           }
         },
         {
           "id": "m21",
           "title": {
-            "la": "Meditatio XXI. Excitans animam ad quaerendum et inveniendum Deum"
+            "la": "Meditatio XXI. Excitans animam ad quaerendum et inveniendum Deum",
+            "pt-BR": "Meditação XXI. Que desperta a alma para buscar e encontrar a Deus"
           }
         }
       ]
