@@ -1,0 +1,288 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>First steps — A, with the features</title>
+<link rel="stylesheet" href="style.css">
+<style>
+@font-face { font-family: Cinzel; font-weight: 600; src: url(assets/Cinzel_600SemiBold.ttf); }
+.skip { position: absolute; top: 60px; right: 22px; z-index: 7; font: 400 12px var(--head); letter-spacing: 1.5px; color: var(--muted); }
+
+/* a feature page: the feature itself above, the line about it below */
+.stage { position: absolute; left: 0; right: 0; top: 0; height: 520px; overflow: hidden;
+  background: radial-gradient(120% 90% at 50% 0%, #FBF6EA, #F1E8D3 70%, #E9DDC2); }
+.stage.dark { background: radial-gradient(120% 90% at 50% 10%, #3A2E22, #1C1712 75%); }
+.stage::after { content: ''; position: absolute; left: 0; right: 0; bottom: 0; height: 70px; background: linear-gradient(180deg, rgba(255,255,255,0), #fff); }
+.stage.dark::after { background: linear-gradient(180deg, rgba(28,23,18,0), #fff); }
+.copy { position: absolute; left: 26px; right: 26px; top: 520px; }
+.copy .kick { font: 400 11px var(--head); letter-spacing: 2px; color: var(--burgundy); text-transform: uppercase; }
+.copy h3 { font: 400 31px/36px var(--title); margin-top: 4px; }
+.copy h3 i { font-style: italic; }
+.copy p { font-size: 17px; line-height: 23px; color: var(--muted); margin-top: 8px; }
+
+/* the page of a book, as the app's reader sets it */
+.leafpage { position: absolute; background: #FFFDF8; border-radius: 14px; padding: 18px 20px; box-shadow: 0 14px 34px rgba(60,40,15,.22); color: var(--ink); }
+.rub { font: 400 10.5px var(--head); letter-spacing: 1.8px; color: #9E2A2B; text-transform: uppercase; }
+.leafpage .h { font: 400 20px/24px var(--title); text-align: center; }
+.leafpage .sum { font-style: italic; color: var(--muted); font-size: 14.5px; line-height: 19px; }
+.leafpage .body { font-size: 15.5px; line-height: 21px; }
+.leafpage .resp { font-size: 15px; line-height: 20px; }
+.leafpage .resp b { font-weight: 400; color: #9E2A2B; }
+.fade { position: absolute; left: 0; right: 0; bottom: 0; height: 90px; border-radius: 0 0 14px 14px; background: linear-gradient(180deg, rgba(255,253,248,0), #FFFDF8); }
+.hours { display: flex; gap: 6px; flex-wrap: nowrap; }
+.hours span { font: 400 10px var(--head); letter-spacing: 1px; padding: 6px 9px; border-radius: 13px; background: rgba(255,255,255,.6); color: var(--muted); }
+.hours span.on { background: #9E2A2B; color: var(--blockInk); }
+.verse { font-size: 15.5px; line-height: 21px; }
+.verse .st { color: #9E2A2B; }
+
+/* the map */
+.map { position: absolute; left: 22px; right: 22px; top: 92px; height: 250px; border-radius: 18px; overflow: hidden; background: #EFE7D6; box-shadow: 0 10px 26px rgba(60,40,15,.18); }
+.pin { position: absolute; width: 30px; height: 38px; transform: translate(-50%, -100%); background: url(assets/pin-cross.webp) center bottom / contain no-repeat; filter: drop-shadow(0 3px 3px rgba(0,0,0,.25)); }
+.pin.next { width: 38px; height: 48px; }
+.me { position: absolute; width: 16px; height: 16px; border-radius: 50%; background: #3D7BD9; border: 3px solid #fff; transform: translate(-50%, -50%); box-shadow: 0 0 0 10px rgba(61,123,217,.18); }
+.chips { position: absolute; left: 22px; right: 22px; top: 354px; display: flex; flex-direction: column; gap: 8px; }
+.church { display: flex; align-items: center; gap: 12px; background: #fff; border-radius: 14px; padding: 9px 14px; box-shadow: 0 4px 12px rgba(60,40,15,.12); }
+.church .tm { font: 400 21px var(--title); width: 58px; color: var(--burgundy); }
+.church .nm { flex: 1; font: 400 16.5px/19px var(--title); }
+.church .ds { font-size: 13.5px; color: var(--muted); font-style: italic; }
+.church .nx { font: 400 9.5px var(--head); letter-spacing: 1.4px; color: var(--burgundy); }
+
+/* the covers (docs/design/cover-sketches/formats.html) */
+.book { --w: 140px; width: var(--w); height: calc(var(--w)*1.5); position: absolute; flex: none;
+  border-radius: calc(var(--w)*.012) calc(var(--w)*.035) calc(var(--w)*.035) calc(var(--w)*.012);
+  background: linear-gradient(155deg, var(--from), var(--to)); overflow: hidden; color: var(--blockInk); font-family: Garamond; font-size: calc(var(--w)*.01);
+  box-shadow: 0 calc(var(--w)*.06) calc(var(--w)*.12) rgba(40,25,10,.4), 0 1px 2px rgba(0,0,0,.3); }
+.book .hinge { position: absolute; inset: 0; z-index: 5; background: linear-gradient(90deg, rgba(0,0,0,.42) 0%, rgba(0,0,0,.18) 3.2%, rgba(255,255,255,.16) 4.4%, rgba(255,255,255,.05) 6.2%, rgba(0,0,0,.22) 7.4%, rgba(0,0,0,.06) 9.5%, rgba(0,0,0,0) 13%, rgba(0,0,0,0) 94%, rgba(0,0,0,.12) 100%); }
+.book .sheen { position: absolute; inset: 0; z-index: 4; background: linear-gradient(180deg, rgba(255,255,255,.07), rgba(255,255,255,0) 35%, rgba(0,0,0,0) 75%, rgba(0,0,0,.14)); }
+.book .imprint { font-family: Cinzel; font-size: 3.2em; letter-spacing: .3em; white-space: nowrap; }
+.book .t { font-weight: 600; line-height: 1.12; }
+.book .a { font-size: 5.8em; line-height: 1.2; }
+.book .face { position: absolute; top: 0; bottom: 0; left: 9%; right: 0; display: flex; flex-direction: column; align-items: center; text-align: center; }
+.classic .frame { position: absolute; top: 6.5%; bottom: 4.6%; left: 15%; right: 7.5%; border: 1px solid rgba(245,239,226,.38); display: flex; flex-direction: column; align-items: center; text-align: center; padding: 0 7%; }
+.classic .x { margin-top: 13%; font-size: 10em; line-height: 1; color: var(--blockLabel); }
+.classic .mid { flex: 1; display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 4em; }
+.classic .t { font-size: calc(var(--ts)*100em); }
+.classic .rule { width: 28%; height: 1px; background: rgba(232,201,122,.7); }
+.classic .imprint { opacity: .7; margin-bottom: 8%; }
+.gilt .frame { position: absolute; top: 5%; bottom: 5%; left: 14%; right: 6%; border: 1.5px solid rgba(232,201,122,.75); outline: 1px solid rgba(232,201,122,.45); outline-offset: -5.5em; }
+.gilt .c { position: absolute; font-size: 9em; color: var(--blockLabel); line-height: 1; transform: translate(-50%,-50%); }
+.gilt .face { left: 10%; padding: 0 12%; justify-content: center; gap: 5em; }
+.gilt .t { font-family: Cinzel; font-weight: 600; color: var(--blockLabel); font-size: calc(var(--ts)*82em); letter-spacing: .03em; line-height: 1.2; }
+.gilt .a { font-style: italic; opacity: .85; }
+.gilt .x { font-size: 13em; color: var(--blockLabel); line-height: 1; }
+.quarter .spine { position: absolute; top: 0; bottom: 0; left: 0; width: 24%; z-index: 2; background: linear-gradient(90deg, rgba(0,0,0,.25), rgba(0,0,0,.5)), linear-gradient(155deg, var(--from), var(--to)); box-shadow: 1px 0 0 rgba(232,201,122,.55), 2px 0 0 rgba(0,0,0,.4); }
+.quarter .band { position: absolute; left: 0; width: 24%; height: 2.2%; z-index: 3; background: linear-gradient(180deg, rgba(255,255,255,.18), rgba(0,0,0,.35)); }
+.quarter .face { left: 24%; padding: 0 10%; justify-content: center; gap: 5em; }
+.quarter .t { font-size: calc(var(--ts)*92em); text-align: left; align-self: stretch; }
+.quarter .a { text-align: left; align-self: stretch; opacity: .8; }
+.quarter .rule { align-self: stretch; height: 1px; background: rgba(232,201,122,.6); }
+.quarter .x { position: absolute; z-index: 3; top: 8%; left: 34%; font-size: 9em; color: var(--blockLabel); }
+.arch .win { position: absolute; top: 7%; bottom: 6%; left: 15%; right: 7%; border: 1px solid rgba(232,201,122,.6); border-radius: 50% 50% 0 0 / 28% 28% 0 0; }
+.arch .win2 { position: absolute; top: 9.5%; bottom: 8%; left: 18%; right: 10%; border: 1px solid rgba(245,239,226,.22); border-radius: 50% 50% 0 0 / 28% 28% 0 0; }
+.arch .face { padding: 0 16%; justify-content: center; gap: 4.5em; left: 11%; right: 3%; }
+.arch .x { position: absolute; top: 18%; left: 0; right: 0; text-align: center; padding-left: 8%; font-size: 14em; color: var(--blockLabel); line-height: 1; }
+.arch .t { font-size: calc(var(--ts)*95em); margin-top: 12%; }
+.arch .a { opacity: .8; font-style: italic; }
+.shelfline { position: absolute; left: 0; right: 0; height: 14px; background: linear-gradient(180deg, #C9B48A, #A8915F); box-shadow: 0 8px 14px rgba(60,40,15,.25); }
+
+/* the holy cards */
+.hc { position: absolute; width: 150px; height: 225px; border-radius: 9px; background: #2a2118 center / cover; box-shadow: 0 12px 26px rgba(0,0,0,.45); }
+.hc.back { background: #F3EAD6 url(assets/card_back_frame.webp) center / cover; display: grid; place-items: center; font: 400 34px var(--title); color: #8B6914; }
+.flip { position: absolute; left: 196px; top: 280px; width: 170px; padding: 12px 14px; border-radius: 12px; background: #FFFDF8; box-shadow: 0 10px 22px rgba(0,0,0,.35); }
+.flip .rub { font-size: 9.5px; }
+.flip .n { font: 400 18px/21px var(--title); margin-top: 2px; }
+.flip p { font-size: 13.5px; line-height: 17px; color: var(--muted); margin-top: 4px; }
+.count { position: absolute; left: 22px; top: 60px; font: 400 11px var(--head); letter-spacing: 2px; color: var(--blockLabel); }
+.count b { display: block; font: 400 34px var(--title); color: var(--blockInk); letter-spacing: 0; }
+</style>
+</head>
+<body>
+<div class="doc">
+<header>
+  <h1>FIRST STEPS — A, WITH THE FEATURES</h1>
+  <p>Direction A without the Mass-form page. Between the welcome and the plan, a short tour where each page <b>is</b> the feature, drawn as it really looks: today's readings, today's Lauds, the churches that are actually around Praça da Sé with their real Monday times, books that are in the library, and the week's holy cards. Each page has the feature above and one sentence below. "Pular" (skip) at the top right jumps to the plan on any of them. Drawn on Monday 9 November 2026.</p>
+</header>
+<section><h2>THE FLOW</h2>
+<p>Welcome → five feature pages → plan → reminders → today. Nine pages is long: I'd keep three or four of the five, and below I say which.</p>
+<div class="phones" id="flow"></div></section>
+<section>
+  <h2>WHICH FEATURE PAGES TO KEEP</h2>
+  <p><b>Keep: the Mass of the day, Masses near you, the holy cards.</b> Together they answer what someone opening a Catholic app is looking for: the readings, where to go to Mass, and a reason to come back tomorrow. The Mass page also speaks for the Office, with a closing line: "E a Liturgia das Horas, hora por hora."</p>
+  <p><b>Optional: the library.</b> It's the most distinctive thing about Ember, but it rewards someone who already prays, so it fits better as a discovery card in week one. The <b>Liturgy of the Hours</b> page is the most beautiful one; keep it instead of the library if you want the tour to speak to people who already pray the Office.</p>
+</section>
+</div>
+
+<script>
+const bellOn = '<svg viewBox="0 0 24 24" fill="#A8872E"><path d="M12 22a2.5 2.5 0 0 0 2.4-2h-4.8a2.5 2.5 0 0 0 2.4 2zm7-6V11a7 7 0 0 0-5.5-6.8V3.5a1.5 1.5 0 0 0-3 0v.7A7 7 0 0 0 5 11v5l-2 2v1h18v-1z"/></svg>'
+const bellOff = '<svg viewBox="0 0 24 24" fill="none" stroke="#C5B48A" stroke-width="1.6"><path d="M12 21.5a2 2 0 0 0 2-1.6h-4a2 2 0 0 0 2 1.6zM18.5 16v-5a6.5 6.5 0 0 0-13 0v5l-1.8 2h16.6z"/></svg>'
+const TOTAL = 9
+const dots = (n) => `<div class="dotsnav">${Array.from({ length: TOTAL }, (_, i) => `<i class="${i === n ? 'on' : ''}"></i>`).join('')}</div>`
+const phone = (inner, { time = '9:41', skip = false } = {}) => `<div class="phone"><div class="island"></div><div class="status"><span>${time}</span><span>●●● ▮</span></div>
+  ${skip ? '<div class="skip">PULAR</div>' : ''}${inner}<div class="home-ind"></div></div>`
+const feature = (n, stage, kick, title, text, dark = false) => phone(`
+  <div class="stage ${dark ? 'dark' : ''}">${stage}</div>
+  <div class="copy"><div class="kick">${kick}</div><h3>${title}</h3><p>${text}</p></div>
+  <div class="foot">${dots(n)}<div class="btn">Continuar</div></div>`, { skip: true })
+
+// ── the covers ──
+const T = { burgundy: ['#5A1722', '#24090E'], marian: ['#1E3A5C', '#0A1626'], green: ['#1E4A32', '#0C2418'], gold: ['#8B6914', '#352608'], violet: ['#4A2860', '#1F1030'], rose: ['#5C2740', '#260E1A'] }
+const ts = (t) => (t.length > 28 ? 0.088 : t.length > 20 ? 0.098 : 0.112)
+const F = {
+  classic: (t, a) => `<div class="frame"><div class="x">✚</div><div class="mid"><div class="t">${t}</div><div class="rule"></div><div class="a">${a}</div></div><div class="imprint">EMBER</div></div>`,
+  gilt: (t, a) => `<div class="frame"></div>${[['14%', '5%'], ['94%', '5%'], ['14%', '95%'], ['94%', '95%']].map(([l, tp]) => `<div class="c" style="left:${l};top:${tp}">✦</div>`).join('')}<div class="face"><div class="x">✠</div><div class="t">${t}</div><div class="a">${a}</div></div>`,
+  quarter: (t, a) => `<div class="spine"></div>${[18, 34, 66, 82].map((p) => `<div class="band" style="top:${p}%"></div>`).join('')}<div class="face"><div class="t">${t}</div><div class="rule"></div><div class="a">${a}</div></div><div class="x">✚</div>`,
+  arch: (t, a) => `<div class="win"></div><div class="win2"></div><div class="x">✚</div><div class="face"><div class="t">${t}</div><div class="a">${a}</div></div>`,
+}
+const cover = (k, t, a, c, w, x, y, r = 0) => `<div class="book ${k}" style="--w:${w}px;--from:${T[c][0]};--to:${T[c][1]};--ts:${ts(t)};left:${x}px;top:${y}px;transform:rotate(${r}deg)">${F[k](t, a)}<div class="sheen"></div><div class="hinge"></div></div>`
+
+// ── the map: real churches around Praça da Sé (Mass-times API), 330 px to the km ──
+const centre = [-23.5505, -46.6333]
+const at = (lat, lng) => [173 + (lng - centre[1]) * 102 * 330, 135 - (lat - centre[0]) * 111 * 330]
+const churches = [
+  { n: 'Catedral da Sé', lat: -23.551145, lng: -46.634413 },
+  { n: 'NS do Carmo', lat: -23.550323, lng: -46.63122 },
+  { n: 'Menino Jesus e Santa Luzia', lat: -23.552619, lng: -46.631964 },
+  { n: 'São Francisco', lat: -23.549634, lng: -46.637346 },
+  { n: 'Santo Antônio Patriarca', lat: -23.547879, lng: -46.6366, next: true },
+  { n: 'São Gonçalo', lat: -23.552162, lng: -46.635188 },
+]
+const streets = `<svg width="346" height="270" style="position:absolute;inset:0">
+  <g stroke="#fff" stroke-linecap="round" fill="none">
+    <path d="M-10 60 L360 110" stroke-width="10"/><path d="M-10 190 L360 160" stroke-width="12"/>
+    <path d="M60 -10 L110 290" stroke-width="9"/><path d="M230 -10 L250 290" stroke-width="11"/>
+    <path d="M-10 250 C120 230 200 260 360 230" stroke-width="7"/><path d="M150 -10 L170 120 L140 290" stroke-width="6"/>
+    <path d="M300 -10 L330 290" stroke-width="5"/><path d="M-10 120 L120 135" stroke-width="5"/>
+  </g>
+  <rect x="140" y="120" width="70" height="44" rx="6" fill="#DCE5C8"/>
+  <text x="175" y="146" text-anchor="middle" font-family="Garamond" font-style="italic" font-size="12" fill="#7A8A5C">Praça da Sé</text>
+</svg>`
+const mapStage = `<div class="map">${streets}
+  ${churches.map((c) => { const [x, y] = at(c.lat, c.lng); return `<div class="pin ${c.next ? 'next' : ''}" style="left:${x}px;top:${y}px"></div>` }).join('')}
+  <div class="me" style="left:173px;top:135px"></div></div>
+  <div class="chips">
+    <div class="church"><div class="tm">10:30</div><div class="nm">Santo Antônio Patriarca<div class="ds">440 m · a próxima</div></div></div>
+    <div class="church"><div class="tm">12:00</div><div class="nm">Catedral da Sé<div class="ds">130 m · e confissões às 14:00</div></div></div>
+    <div class="church"><div class="tm">12:15</div><div class="nm">NS do Carmo<div class="ds">210 m</div></div></div>
+  </div>`
+
+// ── the Mass of the day (content/missal/lectionary/sanctorale.11-09.json) ──
+const massStage = `
+  <div class="leafpage" style="left:34px;right:34px;top:96px;height:404px;overflow:hidden">
+    <div class="rub" style="text-align:center">Festa · 9 de novembro</div>
+    <div class="h" style="margin-top:2px">Dedicação da Basílica do Latrão</div>
+    <div style="display:flex;justify-content:center;gap:6px;margin:10px 0 12px">
+      <span style="font:400 9.5px var(--head);letter-spacing:1.2px;padding:5px 10px;border-radius:12px;background:#6B1D2A;color:#F5EFE2">LEITURAS</span>
+      <span style="font:400 9.5px var(--head);letter-spacing:1.2px;padding:5px 10px;border-radius:12px;background:#F1E8D3;color:var(--muted)">ORDINÁRIO</span>
+      <span style="font:400 9.5px var(--head);letter-spacing:1.2px;padding:5px 10px;border-radius:12px;background:#F1E8D3;color:var(--muted)">PRÓPRIO</span></div>
+    <div class="rub">Primeira Leitura</div>
+    <div class="sum" style="margin-top:2px">Vi sair água do lado direito do templo, e todos os que esta água tocou foram salvos.</div>
+    <div class="rub" style="margin-top:12px">Salmo Responsorial</div>
+    <div class="resp" style="margin-top:2px"><b>℟.</b> Os braços de um rio vêm trazer alegria à Cidade de Deus, à morada do Altíssimo.</div>
+    <div class="rub" style="margin-top:12px">Evangelho</div>
+    <div class="body" style="margin-top:2px"><span style="color:#9E2A2B">✠</span> Proclamação do Evangelho de Jesus Cristo segundo João</div>
+    <div class="body" style="margin-top:6px">Estava próxima a Páscoa dos judeus e Jesus subiu a Jerusalém. No Templo, encontrou os vendedores de bois, ovelhas e pombas e os cambistas que estavam aí sentados.</div>
+    <div class="fade"></div></div>`
+
+// ── Lauds of the day (the @ember/loth engine, 2026-11-09) ──
+const hoursStage = `
+  <div style="position:absolute;top:96px;left:24px;right:0;overflow:hidden"><div class="hours">
+    <span>OFÍCIO</span><span class="on">LAUDES</span><span>TERÇA</span><span>SEXTA</span><span>NOA</span><span>VÉSPERAS</span><span>COMPLETAS</span></div></div>
+  <div class="leafpage" style="left:34px;right:34px;top:140px;height:360px;overflow:hidden">
+    <div class="rub" style="text-align:center">Laudes · Festa</div>
+    <div class="h" style="margin-top:2px">Dedicação da Basílica do Latrão</div>
+    <div class="rub" style="margin-top:12px">Hino</div>
+    <div class="verse" style="margin-top:2px;font-style:italic">Do Pai eterno talhado,<br>Jesus, à terra baixado<br>tornou-se pedra angular;<br>na qual o povo escolhido<br>e o das nações convertido<br>vão afinal se encontrar.</div>
+    <div class="verse" style="margin-top:10px"><span class="rub" style="font-size:10.5px">Ant. 1</span> Minha casa é casa de oração.</div>
+    <div class="rub" style="margin-top:10px">Salmo 62(63),2-9</div>
+    <div class="verse" style="margin-top:2px">Sois vós, ó Senhor, o meu Deus!<span class="st">*</span><br>Desde a aurora ansioso vos busco!<br>A minh'alma tem sede de vós, <span class="st">†</span><br>minha carne também vos deseja,<span class="st">*</span></div>
+    <div class="fade"></div></div>`
+
+// ── the library ──
+const libraryStage = `
+  ${cover('arch', 'A Imitação de Cristo', 'Tomás de Kempis', 'marian', 128, 22, 112, -4)}
+  ${cover('classic', 'História de uma alma', 'Santa Teresinha', 'rose', 140, 128, 92)}
+  ${cover('quarter', 'Confissões', 'Santo Agostinho', 'burgundy', 128, 242, 112, 4)}
+  <div class="shelfline" style="top:314px"></div>
+  ${cover('gilt', 'Tratado da Verdadeira Devoção', 'São Luís de Montfort', 'gold', 104, 36, 346, -3)}
+  ${cover('classic', 'Subida do Monte Carmelo', 'São João da Cruz', 'violet', 104, 143, 338)}
+  ${cover('classic', 'Introdução à Vida Devota', 'São Francisco de Sales', 'green', 104, 250, 346, 3)}`
+
+// ── the holy cards ──
+const cardsStage = `
+  <div class="count"><b>3</b>SANTINHOS NESTA SEMANA</div>
+  <div class="hc back" style="left:204px;top:96px;transform:rotate(9deg)">✠</div>
+  <div class="hc" style="left:30px;top:110px;transform:rotate(-10deg);background-image:url(assets/leo_great.webp)"></div>
+  <div class="hc" style="left:118px;top:84px;transform:rotate(-1deg);background-image:url(assets/lateran_basilica.webp);width:160px;height:240px;z-index:2"></div>
+  <div class="flip" style="z-index:3"><div class="rub">11 de novembro</div><div class="n">São Martinho de Tours</div><p>O soldado que dividiu a capa com um pobre. Reze quarta-feira e ele é seu.</p></div>`
+
+const pages = [
+  // 0 · welcome
+  [phone(`<div class="screen" style="text-align:center">
+      <img class="corner" src="assets/frame_corner_light.webp">
+      <div style="height:120px"></div>
+      <img src="assets/icon.webp" style="width:92px;height:92px;border-radius:22px;box-shadow:0 8px 20px rgba(60,45,20,.2)">
+      <div class="title" style="margin-top:26px;font-size:40px;line-height:46px">Ember</div>
+      <img class="flourish" src="assets/header_flourish_light.webp" style="margin-top:8px">
+      <p style="margin:16px 12px 0;font-size:21px;line-height:29px">Rezar com a Igreja,<br><i>um dia de cada vez.</i></p>
+    </div>
+    <div class="foot">${dots(0)}<div class="btn">Começar</div><div class="btn ghost">Já tenho um código de sincronização</div></div>`),
+   'WELCOME', 'As before, minus the list of features: the next pages show them instead. The second link is for someone moving to a new phone, once sync is merged.'],
+  [feature(1, massStage, 'A Missa de cada dia', 'As leituras <i>de hoje</i>', 'Leituras, salmo e Evangelho do dia, com as orações da Missa. E a Liturgia das Horas, hora por hora.'),
+   'THE MASS OF THE DAY', "Today's real readings from the lectionary, set as the reader sets them. Nothing to tap: the page only has to say \"the readings are here, every day\"."],
+  [feature(2, hoursStage, 'Liturgia das Horas', 'A oração <i>da Igreja</i>', 'Laudes, Vésperas e Completas da edição brasileira, já abertas no dia certo.'),
+   'THE LITURGY OF THE HOURS', "Today's Lauds from the Brazilian breviary: the hymn, the first antiphon and Psalm 62. The row of hours shows there are seven, without explaining what they are."],
+  [feature(3, mapStage, 'Missas perto de você', 'Onde rezar <i>hoje</i>', 'Horários de Missa e confissão das igrejas ao seu redor, e qual é a próxima.'),
+   'MASSES NEAR YOU', 'The real churches around Praça da Sé with their real Monday times from the Mass-times API, sorted by the next Mass. On a real phone this would be the user\'s own neighbourhood if location is allowed. That\'s a second permission ask, so this page shows a sample until then.'],
+  [feature(4, libraryStage, 'A biblioteca', 'Dois mil anos <i>para ler</i>', 'Os santos e doutores da Igreja, o Catecismo e a Bíblia, em português.'),
+   'THE LIBRARY', 'Six books that are in the corpus in Portuguese, in their own cover formats (arch, classic, quarter-leather, gilt), on two shelves.'],
+  [feature(5, cardsStage, 'Santinhos', 'Cada dia, <i>um santo</i>', 'Reze o seu dia e guarde o santinho do santo de hoje. Vire-o para conhecer a sua vida.'),
+   'THE HOLY CARDS', "This week's cards fanned out: the Lateran on top, Leo the Great beside it, and a face-down card for St. Martin with a note on how to earn it. This is the page that gives a reason to come back tomorrow."],
+  // 6 · plan
+  [phone(`<div class="screen">
+      <div class="title" style="margin-top:30px">Por onde <i>começar?</i></div>
+      <p class="muted" style="margin-top:6px;font-size:16px;line-height:21px">Um plano de vida é uma regra pequena, rezada todo dia. O Ember põe cada oração na hora.</p>
+      <div class="art" style="height:200px;margin-top:16px;background-image:url(assets/tpl-beginner-minimum.webp);box-shadow:0 0 0 2.5px var(--goldDeep),0 8px 18px rgba(0,0,0,.2)">
+        <div class="veil"></div><div class="check">✓</div>
+        <div class="capt"><div class="tl">Comece aqui · 4 orações por dia</div><div class="tt">O Mínimo do Iniciante</div><div class="ts">Oferecimento, Angelus, exame. Simples, fiel.</div></div></div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:10px">
+        ${[['tpl-ignatian', 'Inaciana'], ['tpl-carmelite', 'Carmelita'], ['tpl-opus-dei', 'Opus Dei'], ['tpl-little-way', 'Caminho da Infância']].map(([a, n]) => `<div class="art" style="height:112px;background-image:url(assets/${a}.webp)"><div class="veil"></div><div class="capt" style="padding:8px 10px"><div class="tt" style="font-size:17px">${n}</div></div></div>`).join('')}
+      </div>
+      <p style="text-align:center;margin-top:10px;font:400 11.5px var(--head);letter-spacing:1.5px;color:var(--goldDeep)">VER AS 16 TRADIÇÕES →</p>
+    </div>
+    <div class="foot">${dots(6)}<div class="btn">Adotar o Mínimo</div></div>`),
+   'WHERE TO BEGIN', 'Unchanged, minus the "2 of 3" step label: the dots carry the progress now.'],
+  // 7 · reminders
+  [phone(`<div class="screen">
+      <div class="title" style="margin-top:30px">Seu <i>dia</i></div>
+      <p class="muted" style="margin-top:6px;font-size:16px;line-height:21px">Toque num horário para mudá-lo. O sino lembra na hora.</p>
+      <div class="day">
+        <div class="slot"><div class="t">07:00</div><div class="n">Oferecimento da manhã<div class="d">um minuto, ao levantar</div></div><div class="bell on">${bellOn}</div></div>
+        <div class="slot"><div class="t">12:00</div><div class="n">Angelus</div><div class="bell on">${bellOn}</div></div>
+        <div class="slot"><div class="t">18:00</div><div class="n">Angelus</div><div class="bell on">${bellOn}</div></div>
+        <div class="slot"><div class="t">22:00</div><div class="n">Exame de consciência<div class="d">sessenta segundos</div></div><div class="bell on">${bellOn}</div></div>
+        <div class="subhead">Nos dias de ir além</div>
+        <div class="slot ideal"><div class="t">07:15</div><div class="n">Evangelho do dia</div><div class="bell">${bellOff}</div></div>
+        <div class="slot ideal"><div class="t">20:00</div><div class="n">Terço</div><div class="bell">${bellOff}</div></div>
+        <div class="slot ideal" style="border-bottom:1px solid var(--line)"><div class="t">DOM</div><div class="n">Missa dominical</div><div class="bell">${bellOff}</div></div>
+      </div>
+    </div>
+    <div class="foot">${dots(7)}<div class="btn">Lembrar-me nestes horários</div><div class="btn ghost">Sem lembretes por agora</div></div>`),
+   'YOUR DAY', 'Unchanged: the plan on the clock, and a button that names exactly what it will do before the system asks.'],
+  // 8 · today
+  [phone(`<div class="screen" style="text-align:center">
+      <div class="label s" style="margin-top:34px;color:var(--muted)">Segunda-feira · 9 de novembro</div>
+      <div class="title" style="margin-top:6px">Hoje a Igreja <i>celebra</i></div>
+      <div class="holy" style="width:196px;height:294px;margin:24px auto 0;background-image:url(assets/lateran_basilica.webp);transform:rotate(-2deg)"></div>
+      <div style="font:400 10.5px var(--head);letter-spacing:2px;color:var(--burgundy);margin-top:22px">FESTA</div>
+      <div style="font:400 24px/28px var(--title);margin-top:2px">Dedicação da Basílica<br>do Latrão</div>
+      <p class="muted" style="margin:10px 20px 0;font-size:16px;line-height:21px">Seu primeiro santinho. Reze o Angelus ao meio-dia para guardá-lo.</p>
+    </div>
+    <div class="foot">${dots(8)}<div class="btn">Ir para o Hoje</div><p style="text-align:center;font-size:15px;color:var(--muted)">Próxima oração: <b style="font-weight:400;color:var(--ink)">Angelus, às 12:00</b></p></div>`),
+   'TODAY THE CHURCH CELEBRATES', 'Now it closes the loop the holy-card page opened: the first card is the one the user is about to earn, by praying the first prayer of their new plan.'],
+]
+document.getElementById('flow').innerHTML = pages.map(([html, name, cap], i) =>
+  `<figure>${html}<figcaption><b>${i + 1} · ${name}</b>${cap}</figcaption></figure>`).join('')
+</script>
+</body>
+</html>
