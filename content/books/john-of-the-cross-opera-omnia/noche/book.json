@@ -18,7 +18,8 @@
   "composed": "1584–1585",
   "languages": [
     "es-ES",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "john-of-the-cross/noche",
   "editions": {
@@ -29,6 +30,11 @@
     "en-US": {
       "translator": "David Lewis, revised by Benedict Zimmerman",
       "year": 1916
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -54,119 +60,136 @@
       "id": "prologo",
       "title": {
         "es-ES": "Prólogo",
-        "en-US": "Prologue"
+        "en-US": "Prologue",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "l1",
       "title": {
         "es-ES": "Libro primero",
-        "en-US": "Book I"
+        "en-US": "Book I",
+        "pt-BR": "Livro primeiro"
       },
       "children": [
         {
           "id": "l1-declaracion",
           "title": {
             "es-ES": "Canción primera",
-            "en-US": "First stanza"
+            "en-US": "First stanza",
+            "pt-BR": "Canção primeira"
           }
         },
         {
           "id": "l1-c1",
           "title": {
             "es-ES": "Capítulo I",
-            "en-US": "Chapter I"
+            "en-US": "Chapter I",
+            "pt-BR": "Capítulo I"
           }
         },
         {
           "id": "l1-c2",
           "title": {
             "es-ES": "Capítulo II",
-            "en-US": "Chapter II"
+            "en-US": "Chapter II",
+            "pt-BR": "Capítulo II"
           }
         },
         {
           "id": "l1-c3",
           "title": {
             "es-ES": "Capítulo III",
-            "en-US": "Chapter III"
+            "en-US": "Chapter III",
+            "pt-BR": "Capítulo III"
           }
         },
         {
           "id": "l1-c4",
           "title": {
             "es-ES": "Capítulo IV",
-            "en-US": "Chapter IV"
+            "en-US": "Chapter IV",
+            "pt-BR": "Capítulo IV"
           }
         },
         {
           "id": "l1-c5",
           "title": {
             "es-ES": "Capítulo V",
-            "en-US": "Chapter V"
+            "en-US": "Chapter V",
+            "pt-BR": "Capítulo V"
           }
         },
         {
           "id": "l1-c6",
           "title": {
             "es-ES": "Capítulo VI",
-            "en-US": "Chapter VI"
+            "en-US": "Chapter VI",
+            "pt-BR": "Capítulo VI"
           }
         },
         {
           "id": "l1-c7",
           "title": {
             "es-ES": "Capítulo VII",
-            "en-US": "Chapter VII"
+            "en-US": "Chapter VII",
+            "pt-BR": "Capítulo VII"
           }
         },
         {
           "id": "l1-c8",
           "title": {
             "es-ES": "Capítulo VIII",
-            "en-US": "Chapter VIII"
+            "en-US": "Chapter VIII",
+            "pt-BR": "Capítulo VIII"
           }
         },
         {
           "id": "l1-c9",
           "title": {
             "es-ES": "Capítulo IX",
-            "en-US": "Chapter IX"
+            "en-US": "Chapter IX",
+            "pt-BR": "Capítulo IX"
           }
         },
         {
           "id": "l1-c10",
           "title": {
             "es-ES": "Capítulo X",
-            "en-US": "Chapter X"
+            "en-US": "Chapter X",
+            "pt-BR": "Capítulo X"
           }
         },
         {
           "id": "l1-c11",
           "title": {
             "es-ES": "Capítulo XI",
-            "en-US": "Chapter XI"
+            "en-US": "Chapter XI",
+            "pt-BR": "Capítulo XI"
           }
         },
         {
           "id": "l1-c12",
           "title": {
             "es-ES": "Capítulo XII",
-            "en-US": "Chapter XII"
+            "en-US": "Chapter XII",
+            "pt-BR": "Capítulo XII"
           }
         },
         {
           "id": "l1-c13",
           "title": {
             "es-ES": "Capítulo XIII",
-            "en-US": "Chapter XIII"
+            "en-US": "Chapter XIII",
+            "pt-BR": "Capítulo XIII"
           }
         },
         {
           "id": "l1-c14",
           "title": {
             "es-ES": "Capítulo XIV",
-            "en-US": "Chapter XIV"
+            "en-US": "Chapter XIV",
+            "pt-BR": "Capítulo XIV"
           }
         }
       ]
@@ -175,182 +198,208 @@
       "id": "l2",
       "title": {
         "es-ES": "Libro segundo",
-        "en-US": "Book II"
+        "en-US": "Book II",
+        "pt-BR": "Livro segundo"
       },
       "children": [
         {
           "id": "l2-c1",
           "title": {
             "es-ES": "Capítulo I",
-            "en-US": "Chapter I"
+            "en-US": "Chapter I",
+            "pt-BR": "Capítulo I"
           }
         },
         {
           "id": "l2-c2",
           "title": {
             "es-ES": "Capítulo II",
-            "en-US": "Chapter II"
+            "en-US": "Chapter II",
+            "pt-BR": "Capítulo II"
           }
         },
         {
           "id": "l2-c3",
           "title": {
             "es-ES": "Capítulo III",
-            "en-US": "Chapter III"
+            "en-US": "Chapter III",
+            "pt-BR": "Capítulo III"
           }
         },
         {
           "id": "l2-c4",
           "title": {
             "es-ES": "Capítulo IV",
-            "en-US": "Chapter IV"
+            "en-US": "Chapter IV",
+            "pt-BR": "Capítulo IV"
           }
         },
         {
           "id": "l2-c5",
           "title": {
             "es-ES": "Capítulo V",
-            "en-US": "Chapter V"
+            "en-US": "Chapter V",
+            "pt-BR": "Capítulo V"
           }
         },
         {
           "id": "l2-c6",
           "title": {
             "es-ES": "Capítulo VI",
-            "en-US": "Chapter VI"
+            "en-US": "Chapter VI",
+            "pt-BR": "Capítulo VI"
           }
         },
         {
           "id": "l2-c7",
           "title": {
             "es-ES": "Capítulo VII",
-            "en-US": "Chapter VII"
+            "en-US": "Chapter VII",
+            "pt-BR": "Capítulo VII"
           }
         },
         {
           "id": "l2-c8",
           "title": {
             "es-ES": "Capítulo VIII",
-            "en-US": "Chapter VIII"
+            "en-US": "Chapter VIII",
+            "pt-BR": "Capítulo VIII"
           }
         },
         {
           "id": "l2-c9",
           "title": {
             "es-ES": "Capítulo IX",
-            "en-US": "Chapter IX"
+            "en-US": "Chapter IX",
+            "pt-BR": "Capítulo IX"
           }
         },
         {
           "id": "l2-c10",
           "title": {
             "es-ES": "Capítulo X",
-            "en-US": "Chapter X"
+            "en-US": "Chapter X",
+            "pt-BR": "Capítulo X"
           }
         },
         {
           "id": "l2-c11",
           "title": {
             "es-ES": "Capítulo XI",
-            "en-US": "Chapter XI"
+            "en-US": "Chapter XI",
+            "pt-BR": "Capítulo XI"
           }
         },
         {
           "id": "l2-c12",
           "title": {
             "es-ES": "Capítulo XII",
-            "en-US": "Chapter XII"
+            "en-US": "Chapter XII",
+            "pt-BR": "Capítulo XII"
           }
         },
         {
           "id": "l2-c13",
           "title": {
             "es-ES": "Capítulo XIII",
-            "en-US": "Chapter XIII"
+            "en-US": "Chapter XIII",
+            "pt-BR": "Capítulo XIII"
           }
         },
         {
           "id": "l2-c14",
           "title": {
             "es-ES": "Capítulo XIV",
-            "en-US": "Chapter XIV"
+            "en-US": "Chapter XIV",
+            "pt-BR": "Capítulo XIV"
           }
         },
         {
           "id": "l2-c15",
           "title": {
             "es-ES": "Capítulo XV",
-            "en-US": "Chapter XV"
+            "en-US": "Chapter XV",
+            "pt-BR": "Capítulo XV"
           }
         },
         {
           "id": "l2-c16",
           "title": {
             "es-ES": "Capítulo XVI",
-            "en-US": "Chapter XVI"
+            "en-US": "Chapter XVI",
+            "pt-BR": "Capítulo XVI"
           }
         },
         {
           "id": "l2-c17",
           "title": {
             "es-ES": "Capítulo XVII",
-            "en-US": "Chapter XVII"
+            "en-US": "Chapter XVII",
+            "pt-BR": "Capítulo XVII"
           }
         },
         {
           "id": "l2-c18",
           "title": {
             "es-ES": "Capítulo XVIII",
-            "en-US": "Chapter XVIII"
+            "en-US": "Chapter XVIII",
+            "pt-BR": "Capítulo XVIII"
           }
         },
         {
           "id": "l2-c19",
           "title": {
             "es-ES": "Capítulo XIX",
-            "en-US": "Chapter XIX"
+            "en-US": "Chapter XIX",
+            "pt-BR": "Capítulo XIX"
           }
         },
         {
           "id": "l2-c20",
           "title": {
             "es-ES": "Capítulo XX",
-            "en-US": "Chapter XX"
+            "en-US": "Chapter XX",
+            "pt-BR": "Capítulo XX"
           }
         },
         {
           "id": "l2-c21",
           "title": {
             "es-ES": "Capítulo XXI",
-            "en-US": "Chapter XXI"
+            "en-US": "Chapter XXI",
+            "pt-BR": "Capítulo XXI"
           }
         },
         {
           "id": "l2-c22",
           "title": {
             "es-ES": "Capítulo XXII",
-            "en-US": "Chapter XXII"
+            "en-US": "Chapter XXII",
+            "pt-BR": "Capítulo XXII"
           }
         },
         {
           "id": "l2-c23",
           "title": {
             "es-ES": "Capítulo XXIII",
-            "en-US": "Chapter XXIII"
+            "en-US": "Chapter XXIII",
+            "pt-BR": "Capítulo XXIII"
           }
         },
         {
           "id": "l2-c24",
           "title": {
             "es-ES": "Capítulo XXIV",
-            "en-US": "Chapter XXIV"
+            "en-US": "Chapter XXIV",
+            "pt-BR": "Capítulo XXIV"
           }
         },
         {
           "id": "l2-c25",
           "title": {
             "es-ES": "Capítulo XXV",
-            "en-US": "Chapter XXV"
+            "en-US": "Chapter XXV",
+            "pt-BR": "Capítulo XXV"
           }
         }
       ]
