@@ -1,0 +1,406 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>First steps — three ways to welcome a new user</title>
+<style>
+@font-face { font-family: Garamond; src: url(assets/EBGaramond_400Regular.woff2); }
+@font-face { font-family: Garamond; font-weight: 600; src: url(assets/EBGaramond_600SemiBold.ttf); }
+@font-face { font-family: Garamond; font-style: italic; src: url(assets/EBGaramond_400Regular_Italic.woff2); }
+@font-face { font-family: Cinzel; src: url(assets/Cinzel_400Regular.woff2); }
+@font-face { font-family: Junicode; src: url(assets/Junicode.woff2); }
+@font-face { font-family: Junicode; font-style: italic; src: url(assets/Junicode-Italic.woff2); }
+:root {
+  --bg: #fff; --ink: #2C2418; --muted: #6B5D4F; --gold: #C9A84C; --goldDeep: #A8872E; --line: #E5DDD2;
+  --burgundy: #6B1D2A; --surface: #F7F2E8; --wallEmpty: #ECE6DA; --blockInk: #F5EFE2; --blockLabel: #E8C97A;
+  --head: Cinzel, serif; --title: Junicode, Garamond, serif; --body: Garamond, Georgia, serif;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: #E4DCCB; color: var(--ink); font: 18px/25px var(--body); }
+.doc { max-width: 1680px; margin: 0 auto; padding: 48px 40px 100px; }
+.doc > header h1 { font: 400 22px var(--head); letter-spacing: 3px; color: #4A3C22; }
+.doc > header p { max-width: 980px; margin-top: 10px; color: #5D5039; }
+section { margin-top: 64px; }
+section > h2 { font: 400 17px var(--head); letter-spacing: 2.5px; color: #4A3C22; }
+section > p { max-width: 980px; margin-top: 6px; color: #5D5039; }
+.verdict { margin-top: 8px; max-width: 980px; color: #5D5039; font-style: italic; }
+.phones { display: flex; gap: 40px; margin-top: 28px; flex-wrap: wrap; align-items: flex-start; }
+figure figcaption { width: 390px; margin-top: 16px; font-size: 16px; line-height: 21px; color: #5D5039; }
+figure figcaption b { font: 400 12px var(--head); letter-spacing: 2px; color: var(--burgundy); display: block; margin-bottom: 3px; }
+
+/* ——— the phone ——— */
+.phone { width: 390px; height: 844px; border-radius: 50px; background: var(--bg); position: relative; overflow: hidden;
+  box-shadow: 0 0 0 9px #15120E, 0 24px 48px rgba(0,0,0,.3); }
+.island { position: absolute; top: 11px; left: 50%; transform: translateX(-50%); width: 122px; height: 35px; border-radius: 20px; background: #000; z-index: 20; }
+.status { position: absolute; top: 16px; left: 34px; right: 30px; display: flex; justify-content: space-between; font: 600 16px -apple-system, system-ui, sans-serif; z-index: 19; }
+.screen { position: absolute; inset: 0; padding: 66px 22px 0; overflow: hidden; }
+.corner { position: absolute; top: -14px; right: -16px; width: 390px; transform: scaleX(-1); pointer-events: none; z-index: 1; opacity: .95; }
+.tabbar { position: absolute; bottom: 24px; left: 20px; height: 60px; border-radius: 30px; background: rgba(255,255,255,.92);
+  box-shadow: 0 4px 16px rgba(60,45,20,.16); display: flex; align-items: center; gap: 4px; padding: 0 8px; z-index: 5; }
+.tabbar i { width: 54px; height: 44px; border-radius: 22px; display: grid; place-items: center; font-style: normal; font: 400 9px var(--head); letter-spacing: 1px; color: var(--muted); }
+.tabbar i.on { background: var(--surface); color: var(--ink); }
+.tabkey { position: absolute; bottom: 24px; right: 20px; width: 60px; height: 60px; border-radius: 30px; background: rgba(255,255,255,.92);
+  box-shadow: 0 4px 16px rgba(60,45,20,.16); display: grid; place-items: center; z-index: 5; }
+.home-ind { position: absolute; bottom: 8px; left: 50%; transform: translateX(-50%); width: 134px; height: 5px; border-radius: 3px; background: #111; z-index: 30; }
+
+/* ——— shared bits ——— */
+.label { font: 400 13px var(--head); letter-spacing: 1.5px; text-transform: uppercase; color: var(--ink); }
+.label.r { color: var(--burgundy); }
+.label.s { font-size: 11px; letter-spacing: 2px; }
+.muted { color: var(--muted); }
+.title { font: 400 34px/40px var(--title); }
+.title i { font-style: italic; }
+.btn { display: flex; align-items: center; justify-content: center; height: 52px; border-radius: 26px; background: var(--burgundy); color: var(--blockInk);
+  font: 400 14px var(--head); letter-spacing: 2px; text-transform: uppercase; box-shadow: 0 6px 14px rgba(107,29,42,.28); }
+.btn.ghost { background: none; color: var(--goldDeep); box-shadow: none; height: 40px; letter-spacing: 1.5px; font-size: 12px; }
+.dotsnav { display: flex; gap: 8px; justify-content: center; }
+.dotsnav i { width: 7px; height: 7px; border-radius: 50%; background: var(--line); }
+.dotsnav i.on { background: var(--goldDeep); width: 22px; border-radius: 4px; }
+.foot { position: absolute; left: 22px; right: 22px; bottom: 34px; display: flex; flex-direction: column; gap: 10px; z-index: 6; }
+.flourish { display: block; width: 190px; margin: 0 auto; opacity: .9; }
+.holy { border-radius: 10px; background: #2a2118 center / cover; box-shadow: 0 10px 26px rgba(40,25,10,.35); }
+.art { border-radius: 16px; background: #2a2118 center / cover; position: relative; overflow: hidden; box-shadow: 0 6px 14px rgba(0,0,0,.18); }
+.art .veil { position: absolute; inset: 0; background: linear-gradient(180deg, transparent 35%, rgba(0,0,0,.55) 62%, rgba(0,0,0,.88)); }
+.art .capt { position: absolute; left: 0; right: 0; bottom: 0; padding: 12px 14px; }
+.art .tl { font: 400 10px var(--head); letter-spacing: 2px; text-transform: uppercase; color: var(--blockLabel); margin-bottom: 3px; }
+.art .tt { font: 400 20px/23px var(--title); color: var(--blockInk); }
+.art .ts { font-size: 14.5px; line-height: 18px; color: rgba(245,239,226,.84); margin-top: 3px; }
+.check { position: absolute; top: 10px; right: 10px; width: 26px; height: 26px; border-radius: 50%; background: var(--blockLabel); color: #3a2a08;
+  display: grid; place-items: center; font-size: 15px; box-shadow: 0 2px 6px rgba(0,0,0,.35); }
+.bell { width: 34px; height: 34px; border-radius: 17px; display: grid; place-items: center; flex: none; }
+.bell.on { background: var(--surface); }
+.bell svg { width: 18px; height: 18px; }
+
+/* time rows (the plan laid on the day) */
+.day { margin-top: 18px; }
+.slot { display: flex; align-items: center; gap: 14px; padding: 10px 0; border-top: 1px solid var(--line); }
+.slot .t { width: 50px; font: 400 15px var(--head); letter-spacing: .5px; color: var(--goldDeep); }
+.slot .n { flex: 1; font: 400 19px/22px var(--title); }
+.slot .d { font-size: 14px; line-height: 17px; color: var(--muted); font-style: italic; }
+.slot.ideal .n { color: var(--muted); }
+.slot.ideal .t { color: #C5B48A; }
+.subhead { font: 400 11px var(--head); letter-spacing: 2px; color: var(--muted); margin: 14px 0 2px; text-transform: uppercase; }
+
+/* choice cards */
+.choice { border-radius: 16px; background: var(--surface); padding: 14px 16px; display: flex; gap: 14px; align-items: center; position: relative; }
+.choice.sel { box-shadow: 0 0 0 2px var(--goldDeep), 0 6px 14px rgba(60,45,20,.12); background: #FBF6EA; }
+.choice .ct { font: 400 20px/24px var(--title); }
+.choice .cd { font-size: 15px; line-height: 19px; color: var(--muted); }
+.choice .mark { margin-left: auto; width: 22px; height: 22px; border-radius: 50%; border: 1.5px solid var(--line); flex: none; }
+.choice.sel .mark { border: 6px solid var(--goldDeep); }
+.glyph { width: 46px; height: 46px; border-radius: 12px; flex: none; display: grid; place-items: center; font: 400 22px var(--title); color: var(--blockInk); }
+.toggle { width: 50px; height: 30px; border-radius: 15px; background: #E6DFD2; position: relative; flex: none; margin-left: auto; }
+.toggle::after { content: ''; position: absolute; top: 2px; left: 2px; width: 26px; height: 26px; border-radius: 50%; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,.2); }
+.toggle.on { background: #2D6A4F; }
+.toggle.on::after { left: 22px; }
+
+/* Today */
+.th-label { font: 400 12px var(--head); letter-spacing: 1.5px; text-transform: uppercase; position: relative; z-index: 2; }
+.scrub { display: flex; align-items: baseline; gap: 18px; margin-top: 2px; position: relative; z-index: 2; }
+.scrub b { font: 400 40px/48px var(--title); font-weight: 400; }
+.scrub span { font: 400 22px var(--title); color: #C8BCA8; }
+.feast { display: flex; gap: 14px; align-items: center; margin-top: 14px; }
+.feast .holy { width: 62px; height: 93px; border-radius: 6px; flex: none; box-shadow: 0 4px 12px rgba(40,25,10,.3); }
+.feast .fr { font: 400 10.5px var(--head); letter-spacing: 2px; color: var(--burgundy); text-transform: uppercase; }
+.feast .fn { font: 400 21px/24px var(--title); }
+.feast .fs { font-size: 15px; color: var(--muted); font-style: italic; }
+.rowh { display: flex; gap: 12px; margin: 0 -22px; padding: 0 22px; overflow: hidden; }
+.sec { margin-top: 24px; }
+.sec > .label { margin-bottom: 9px; display: flex; gap: 8px; }
+.sec > .label i { font-style: normal; color: var(--gold); }
+.panel { border-radius: 16px; background: var(--surface); padding: 14px 16px; box-shadow: 0 6px 12px rgba(60,45,20,.1); }
+.plan-item { display: flex; align-items: center; gap: 12px; padding: 9px 0; border-top: 1px solid var(--line); }
+.plan-item:first-of-type { border-top: 0; }
+.plan-item .t { width: 44px; font: 400 13px var(--head); color: var(--goldDeep); }
+.plan-item .n { flex: 1; font: 400 18px var(--title); }
+.plan-item .c { width: 22px; height: 22px; border-radius: 50%; border: 1.5px solid var(--gold); }
+.plan-item .c.done { background: var(--gold); border-color: var(--gold); color: #fff; display: grid; place-items: center; font-size: 13px; }
+.plan-item.next .n::after { content: 'próxima'; font: 400 9.5px var(--head); letter-spacing: 1.5px; color: var(--burgundy); margin-left: 8px; text-transform: uppercase; vertical-align: 2px; }
+.wall { display: inline-grid; grid-template-columns: repeat(10, 10px); gap: 6px; }
+.wall i { width: 10px; height: 10px; border-radius: 50%; background: var(--wallEmpty); }
+.wall i.on { background: var(--gold); }
+.wall i.now { box-shadow: 0 0 0 2px #fff, 0 0 0 3.5px var(--burgundy); }
+
+/* B — the sheet */
+.scrim { position: absolute; inset: 0; background: rgba(28,20,10,.42); z-index: 10; }
+.sheet { position: absolute; left: 0; right: 0; bottom: 0; background: var(--bg); border-radius: 28px 28px 0 0; z-index: 11; padding: 10px 22px 0;
+  box-shadow: 0 -10px 30px rgba(0,0,0,.18); }
+.grab { width: 40px; height: 5px; border-radius: 3px; background: #D9D0C0; margin: 0 auto 14px; }
+.peek { position: absolute; top: 56px; left: 22px; right: 22px; z-index: 12; }
+
+/* C — inline invitations */
+.invite { border-radius: 18px; overflow: hidden; background: var(--surface); box-shadow: 0 8px 18px rgba(60,45,20,.14); }
+.invite .hero { height: 150px; background: center 30% / cover; position: relative; }
+.invite .hero .veil { position: absolute; inset: 0; background: linear-gradient(180deg, transparent 30%, rgba(0,0,0,.7)); }
+.invite .hero .capt { position: absolute; bottom: 10px; left: 16px; right: 16px; }
+.invite .body { padding: 12px 16px 16px; }
+.invite .acts { display: flex; gap: 10px; margin-top: 12px; align-items: center; }
+.invite .acts .btn { flex: 1; height: 44px; font-size: 12px; }
+.invite .acts .btn.ghost { flex: none; padding: 0 6px; }
+.nudge { border-radius: 16px; background: #FBF6EA; padding: 14px 16px; display: flex; gap: 14px; align-items: flex-start; box-shadow: 0 0 0 1px #EFE3C6, 0 6px 14px rgba(60,45,20,.1); }
+.nudge .nt { font: 400 19px/23px var(--title); }
+.nudge .nd { font-size: 15px; line-height: 19px; color: var(--muted); margin-top: 2px; }
+.nudge .na { display: flex; gap: 16px; margin-top: 8px; font: 400 11.5px var(--head); letter-spacing: 1.5px; text-transform: uppercase; }
+.nudge .na b { font-weight: 400; color: var(--burgundy); }
+.nudge .na span { color: var(--muted); }
+.toast { position: absolute; left: 18px; right: 18px; bottom: 100px; z-index: 8; }
+
+/* the system permission dialog */
+.ios { position: absolute; inset: 0; background: rgba(0,0,0,.32); z-index: 25; display: grid; place-items: center; }
+.alert { width: 272px; border-radius: 16px; background: rgba(242,240,236,.97); text-align: center; font-family: -apple-system, system-ui, sans-serif; overflow: hidden; }
+.alert .ab { padding: 18px 16px 14px; }
+.alert h4 { font-size: 16.5px; line-height: 21px; font-weight: 600; }
+.alert p { font-size: 13px; line-height: 17px; margin-top: 4px; }
+.alert .bt { display: flex; border-top: 1px solid #ccc; }
+.alert .bt span { flex: 1; padding: 11px 0; color: #0a7aff; font-size: 16.5px; }
+.alert .bt span + span { border-left: 1px solid #ccc; font-weight: 600; }
+</style>
+</head>
+<body>
+<div class="doc">
+<header>
+  <h1>FIRST STEPS — THREE WAYS TO WELCOME A NEW USER</h1>
+  <p>A new install today lands on Today with an empty plan, and reminders only exist for plan practices: someone who never builds a plan gets no notifications. Each direction below aims for the same three results in the first minutes: <b>a real plan</b> (a tradition adopted, not an empty card), <b>notifications allowed</b> (asked for with a concrete promise, never cold), and <b>one look at the app's depth</b> (the liturgical day it already knows). They differ in how much the flow interrupts Today. Drawn on Monday 9 November 2026 with the corpus's real templates, times and holy cards.</p>
+</header>
+
+<!-- ═══════════════ A ═══════════════ -->
+<section>
+  <h2>A · PAGES — A SHORT SWIPED BOOK BEFORE TODAY</h2>
+  <p>Five full-screen pages, swiped sideways like turning leaves. It asks the most, and it is the only direction where a new user meets the Mass-form and Office questions before seeing anything.</p>
+  <div class="phones">
+
+  <figure><div class="phone"><div class="island"></div><div class="status"><span>9:41</span><span>●●● ▮</span></div>
+    <div class="screen" style="text-align:center">
+      <img class="corner" src="assets/frame_corner_light.webp">
+      <div style="height:120px"></div>
+      <img src="assets/icon.webp" style="width:92px;height:92px;border-radius:22px;box-shadow:0 8px 20px rgba(60,45,20,.2)">
+      <div class="title" style="margin-top:26px;font-size:40px;line-height:46px">Ember</div>
+      <img class="flourish" src="assets/header_flourish_light.webp" style="margin-top:8px">
+      <p style="margin:16px 12px 0;font-size:21px;line-height:29px">Rezar com a Igreja,<br><i>um dia de cada vez.</i></p>
+      <p class="muted" style="margin:18px 18px 0;font-size:16px;line-height:22px">O plano de vida, a Missa e o Ofício do dia, os santos e uma biblioteca de dois mil anos.</p>
+    </div>
+    <div class="foot"><div class="dotsnav"><i class="on"></i><i></i><i></i><i></i><i></i></div><div class="btn">Começar</div><div class="btn ghost">Explorar sem plano</div></div>
+    <div class="home-ind"></div></div>
+    <figcaption><b>A1 · WELCOME</b>The promise in one line, the breadth in a second. "Explore without a plan" lets the curious skip all of it, landing on Today as now.</figcaption></figure>
+
+  <figure><div class="phone"><div class="island"></div><div class="status"><span>9:41</span><span>●●● ▮</span></div>
+    <div class="screen">
+      <div class="label s r" style="margin-top:22px">1 de 3</div>
+      <div class="title" style="margin-top:6px">Como você <i>reza?</i></div>
+      <p class="muted" style="margin-top:6px;font-size:16px;line-height:21px">Tudo isto muda depois em Ajustes.</p>
+      <div class="subhead" style="margin-top:22px">A Missa</div>
+      <div style="display:flex;flex-direction:column;gap:10px;margin-top:8px">
+        <div class="choice sel"><div class="glyph" style="background:linear-gradient(135deg,#1E4A32,#0C2418)">✠</div><div><div class="ct">Forma Ordinária</div><div class="cd">A Missa de Paulo VI, em português</div></div><div class="mark"></div></div>
+        <div class="choice"><div class="glyph" style="background:linear-gradient(135deg,#6B1620,#2A080C)">✠</div><div><div class="ct">Forma Extraordinária</div><div class="cd">O Missal de 1962, em latim</div></div><div class="mark"></div></div>
+      </div>
+      <div class="subhead" style="margin-top:22px">A oração da Igreja</div>
+      <div class="choice" style="margin-top:8px"><div><div class="ct">Liturgia das Horas</div><div class="cd">Laudes, Vésperas e Completas no seu dia</div></div><div class="toggle"></div></div>
+      <div class="choice" style="margin-top:10px"><div><div class="ct">Orações em latim</div><div class="cd">Pai-Nosso, Ave-Maria e Glória ao lado</div></div><div class="toggle"></div></div>
+    </div>
+    <div class="foot"><div class="dotsnav"><i></i><i class="on"></i><i></i><i></i><i></i></div><div class="btn">Continuar</div></div>
+    <div class="home-ind"></div></div>
+    <figcaption><b>A2 · HOW YOU PRAY</b>The settings that change what every screen shows, asked once and up front. Two choices and two switches: anything longer here and people abandon.</figcaption></figure>
+
+  <figure><div class="phone"><div class="island"></div><div class="status"><span>9:41</span><span>●●● ▮</span></div>
+    <div class="screen">
+      <div class="label s r" style="margin-top:22px">2 de 3</div>
+      <div class="title" style="margin-top:6px">Por onde <i>começar?</i></div>
+      <p class="muted" style="margin-top:6px;font-size:16px;line-height:21px">Um plano de vida é uma regra pequena, rezada todo dia.</p>
+      <div class="art" style="height:200px;margin-top:16px;background-image:url(assets/tpl-beginner-minimum.webp);box-shadow:0 0 0 2.5px var(--goldDeep),0 8px 18px rgba(0,0,0,.2)">
+        <div class="veil"></div><div class="check">✓</div>
+        <div class="capt"><div class="tl">Comece aqui · 4 orações por dia</div><div class="tt">O Mínimo do Iniciante</div><div class="ts">Oferecimento, Angelus, exame. Simples, fiel.</div></div></div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:10px">
+        <div class="art" style="height:118px;background-image:url(assets/tpl-ignatian.webp)"><div class="veil"></div><div class="capt" style="padding:8px 10px"><div class="tt" style="font-size:17px">Inaciana</div></div></div>
+        <div class="art" style="height:118px;background-image:url(assets/tpl-carmelite.webp)"><div class="veil"></div><div class="capt" style="padding:8px 10px"><div class="tt" style="font-size:17px">Carmelita</div></div></div>
+        <div class="art" style="height:118px;background-image:url(assets/tpl-opus-dei.webp)"><div class="veil"></div><div class="capt" style="padding:8px 10px"><div class="tt" style="font-size:17px">Opus Dei</div></div></div>
+        <div class="art" style="height:118px;background-image:url(assets/tpl-little-way.webp)"><div class="veil"></div><div class="capt" style="padding:8px 10px"><div class="tt" style="font-size:17px">Caminho da Infância</div></div></div>
+      </div>
+      <p style="text-align:center;margin-top:10px;font:400 11.5px var(--head);letter-spacing:1.5px;color:var(--goldDeep)">VER AS 16 TRADIÇÕES →</p>
+    </div>
+    <div class="foot"><div class="dotsnav"><i></i><i></i><i class="on"></i><i></i><i></i></div><div class="btn">Adotar o Mínimo</div></div>
+    <div class="home-ind"></div></div>
+    <figcaption><b>A3 · WHERE TO BEGIN</b>The Beginner's Minimum preselected and painted large, so the default path is one tap. Four traditions show the range; the other twelve sit behind a link.</figcaption></figure>
+
+  <figure><div class="phone"><div class="island"></div><div class="status"><span>9:41</span><span>●●● ▮</span></div>
+    <div class="screen">
+      <div class="label s r" style="margin-top:22px">3 de 3</div>
+      <div class="title" style="margin-top:6px">Seu <i>dia</i></div>
+      <p class="muted" style="margin-top:6px;font-size:16px;line-height:21px">Toque num horário para mudá-lo. O sino lembra na hora.</p>
+      <div class="day">
+        <div class="slot"><div class="t">07:00</div><div class="n">Oferecimento da manhã<div class="d">um minuto, ao levantar</div></div><div class="bell on">${bellOn}</div></div>
+        <div class="slot"><div class="t">12:00</div><div class="n">Angelus</div><div class="bell on">${bellOn}</div></div>
+        <div class="slot"><div class="t">18:00</div><div class="n">Angelus</div><div class="bell on">${bellOn}</div></div>
+        <div class="slot"><div class="t">22:00</div><div class="n">Exame de consciência<div class="d">sessenta segundos</div></div><div class="bell on">${bellOn}</div></div>
+        <div class="subhead">Nos dias de ir além</div>
+        <div class="slot ideal"><div class="t">07:15</div><div class="n">Evangelho do dia</div><div class="bell">${bellOff}</div></div>
+        <div class="slot ideal"><div class="t">20:00</div><div class="n">Terço</div><div class="bell">${bellOff}</div></div>
+        <div class="slot ideal" style="border-bottom:1px solid var(--line)"><div class="t">DOM</div><div class="n">Missa dominical</div><div class="bell">${bellOff}</div></div>
+      </div>
+    </div>
+    <div class="foot"><div class="dotsnav"><i></i><i></i><i></i><i class="on"></i><i></i></div><div class="btn">Lembrar-me nestes horários</div><div class="btn ghost">Sem lembretes por agora</div></div>
+    <div class="home-ind"></div></div>
+    <figcaption><b>A4 · YOUR DAY</b>The plan laid on the clock with a bell on each essential. The button names exactly what it will do, so the system prompt that follows has already been answered in the user's head.</figcaption></figure>
+
+  <figure><div class="phone"><div class="island"></div><div class="status"><span>9:41</span><span>●●● ▮</span></div>
+    <div class="screen" style="text-align:center">
+      <div class="label s" style="margin-top:34px;color:var(--muted)">Segunda-feira · 9 de novembro</div>
+      <div class="title" style="margin-top:6px">Hoje a Igreja <i>celebra</i></div>
+      <div class="holy" style="width:196px;height:294px;margin:24px auto 0;background-image:url(assets/lateran_basilica.webp);transform:rotate(-2deg)"></div>
+      <div style="font:400 10.5px var(--head);letter-spacing:2px;color:var(--burgundy);margin-top:22px">FESTA</div>
+      <div style="font:400 24px/28px var(--title);margin-top:2px">Dedicação da Basílica<br>do Latrão</div>
+      <p class="muted" style="margin:10px 20px 0;font-size:16px;line-height:21px">A Missa, as leituras e o Ofício de cada dia já estão aqui. Este santinho é o primeiro da sua coleção.</p>
+    </div>
+    <div class="foot"><div class="dotsnav"><i></i><i></i><i></i><i></i><i class="on"></i></div><div class="btn">Ir para o Hoje</div><p style="text-align:center;font-size:15px;color:var(--muted)">Próxima oração: <b style="font-weight:400;color:var(--ink)">Angelus, às 12:00</b></p></div>
+    <div class="home-ind"></div></div>
+    <figcaption><b>A5 · TODAY THE CHURCH CELEBRATES</b>The reward: the day's own feast and its holy card, given as the first of the collection. It shows the calendar depth without a feature tour, and says when the next prayer is.</figcaption></figure>
+
+  </div>
+</section>
+
+<!-- ═══════════════ B ═══════════════ -->
+<section>
+  <h2>B · THE SHEET OVER TODAY</h2>
+  <p>Today opens as it does now, and a sheet rises over it on first launch. The real page stays visible behind it, so the welcome is the app itself. Swiping the sheet down skips; the plan question is the only one asked. Mass form and the Office stay with their defaults and are offered later (see C3).</p>
+  <div class="phones">
+
+  <figure><div class="phone"><div class="island"></div><div class="status"><span>9:41</span><span>●●● ▮</span></div>
+    <div class="screen">${todayTop}</div>
+    <div class="scrim"></div>
+    <div class="sheet" style="height:560px">
+      <div class="grab"></div>
+      <div class="label s r">Bem-vindo ao Ember</div>
+      <div class="title" style="margin-top:4px;font-size:30px;line-height:35px">Quer rezar com <i>constância?</i></div>
+      <p class="muted" style="margin-top:6px;font-size:16px;line-height:21px">Escolha um plano de vida. O Ember põe cada oração na hora e lembra você.</p>
+      <div class="rowh" style="margin-top:16px">
+        <div class="art" style="flex:0 0 178px;height:236px;background-image:url(assets/tpl-beginner-minimum.webp);box-shadow:0 0 0 2.5px var(--goldDeep),0 8px 18px rgba(0,0,0,.2)"><div class="veil"></div><div class="check">✓</div><div class="capt"><div class="tl">Comece aqui</div><div class="tt">O Mínimo do Iniciante</div><div class="ts">4 orações · 5 min por dia</div></div></div>
+        <div class="art" style="flex:0 0 178px;height:236px;background-image:url(assets/tpl-ignatian.webp)"><div class="veil"></div><div class="capt"><div class="tl">7 práticas</div><div class="tt">Inaciana</div><div class="ts">Discernimento e o exame diário</div></div></div>
+        <div class="art" style="flex:0 0 178px;height:236px;background-image:url(assets/tpl-carmelite.webp)"><div class="veil"></div><div class="capt"><div class="tl">9 práticas</div><div class="tt">Carmelita</div></div></div>
+      </div>
+      <div style="margin-top:20px" class="btn">Adotar o Mínimo</div>
+      <div class="btn ghost" style="margin-top:4px">Agora não, só olhar</div>
+    </div>
+    <div class="home-ind"></div></div>
+    <figcaption><b>B1 · ONE QUESTION</b>The feast and the date show through the scrim above the sheet. Three traditions in the row Today already uses for meditations; the rest scroll in.</figcaption></figure>
+
+  <figure><div class="phone"><div class="island"></div><div class="status"><span>9:41</span><span>●●● ▮</span></div>
+    <div class="screen">${todayTop}</div>
+    <div class="scrim"></div>
+    <div class="sheet" style="height:640px">
+      <div class="grab"></div>
+      <div class="label s r">O Mínimo do Iniciante</div>
+      <div class="title" style="margin-top:4px;font-size:30px;line-height:35px">Quando lembrar <i>você?</i></div>
+      <div class="day" style="margin-top:12px">
+        <div class="slot"><div class="t">07:00</div><div class="n">Oferecimento da manhã</div><div class="bell on">${bellOn}</div></div>
+        <div class="slot"><div class="t">12:00</div><div class="n">Angelus</div><div class="bell on">${bellOn}</div></div>
+        <div class="slot"><div class="t">18:00</div><div class="n">Angelus</div><div class="bell on">${bellOn}</div></div>
+        <div class="slot" style="border-bottom:1px solid var(--line)"><div class="t">22:00</div><div class="n">Exame de consciência</div><div class="bell on">${bellOn}</div></div>
+      </div>
+      <p class="muted" style="margin-top:10px;font-size:15px;line-height:20px;font-style:italic">E o Terço, o Evangelho e a Missa de domingo, para os dias de ir além, sem lembrete.</p>
+    </div>
+    <div class="ios"><div class="alert"><div class="ab"><h4>“Ember” Deseja Enviar Notificações</h4><p>Lembretes do seu plano de vida, na hora de cada oração.</p></div><div class="bt"><span>Não Permitir</span><span>Permitir</span></div></div></div>
+    <div class="home-ind"></div></div>
+    <figcaption><b>B2 · THE ASK, WITH ITS REASON IN SIGHT</b>The system prompt appears over the very list it serves, so "Allow" reads as "yes, these four". If refused, the bells go grey and a line offers Settings later.</figcaption></figure>
+
+  <figure><div class="phone"><div class="island"></div><div class="status"><span>9:41</span><span>●●● ▮</span></div>
+    <div class="screen">${todayTop}
+      <div class="sec"><div class="label">Seu dia <i>→</i></div>
+        <div class="panel" style="box-shadow:0 0 0 2px rgba(201,168,76,.55),0 8px 22px rgba(201,168,76,.28)">
+          <div class="plan-item"><div class="t">07:00</div><div class="n">Oferecimento da manhã</div><div class="c"></div></div>
+          <div class="plan-item next"><div class="t">12:00</div><div class="n">Angelus</div><div class="c"></div></div>
+          <div class="plan-item"><div class="t">18:00</div><div class="n">Angelus</div><div class="c"></div></div>
+          <div class="plan-item"><div class="t">22:00</div><div class="n">Exame</div><div class="c"></div></div>
+        </div></div>
+      <div style="text-align:center;margin-top:20px"><div class="label s" style="margin-bottom:8px">Fidelidade</div><div class="wall">${wallFirst}</div>
+        <p style="font-size:14px;color:var(--muted);margin-top:6px;font-style:italic">Seu plano começa hoje.</p></div>
+    </div>
+    <div class="tabbar"><i class="on">HOJE</i><i>ORAR</i><i>LIVROS</i></div><div class="tabkey">${searchIcon}</div>
+    <div class="home-ind"></div></div>
+    <figcaption><b>B3 · THE SHEET SETTLES INTO THE PAGE</b>As the sheet drops, its list lands as the plan card with a brief gold glow. The morning offering already missed stays open: "next" marks the Angelus, and the first fidelity dot waits for today.</figcaption></figure>
+
+  </div>
+</section>
+
+<!-- ═══════════════ C ═══════════════ -->
+<section>
+  <h2>C · TODAY TEACHES ITSELF</h2>
+  <p>No flow at all. The empty plan card becomes the invitation, notifications are asked for right after the first prayer is finished, and for a week one card a day shows something the user hasn't opened yet. The lightest touch. Useful alongside A or B, not only instead of them.</p>
+  <div class="phones">
+
+  <figure><div class="phone"><div class="island"></div><div class="status"><span>9:41</span><span>●●● ▮</span></div>
+    <div class="screen">${todayTop}
+      <div class="sec"><div class="label">Seu dia <i>→</i></div>
+        <div class="invite"><div class="hero" style="background-image:url(assets/tpl-beginner-minimum.webp)"><div class="veil"></div>
+          <div class="capt"><div class="art" style="all:unset"><div class="tl" style="font:400 10px var(--head);letter-spacing:2px;color:var(--blockLabel)">UM PLANO DE VIDA PARA COMEÇAR</div><div style="font:400 22px var(--title);color:var(--blockInk)">O Mínimo do Iniciante</div></div></div></div>
+          <div class="body"><p style="font-size:16px;line-height:21px">Um oferecimento ao amanhecer, o Angelus ao meio-dia e às seis, um exame à noite. <span class="muted">Cinco minutos por dia.</span></p>
+          <div class="acts"><div class="btn">Rezar com este plano</div><div class="btn ghost">Outros</div></div></div></div>
+      </div>
+    </div>
+    <div class="tabbar"><i class="on">HOJE</i><i>ORAR</i><i>LIVROS</i></div><div class="tabkey">${searchIcon}</div>
+    <div class="home-ind"></div></div>
+    <figcaption><b>C1 · THE EMPTY CARD, FILLED WITH AN OFFER</b>Where "plan to begin" sits today, a painted invitation with one button. "Others" opens the Traditions screen that already exists.</figcaption></figure>
+
+  <figure><div class="phone"><div class="island"></div><div class="status"><span>12:07</span><span>●●● ▮</span></div>
+    <div class="screen" style="text-align:center">
+      <div style="height:110px"></div>
+      <div class="label s" style="color:var(--muted)">Angelus · 12:07</div>
+      <div class="title" style="margin-top:10px;font-size:42px;line-height:48px">Amém.</div>
+      <img class="flourish" src="assets/header_flourish_light.webp" style="margin-top:12px">
+      <p style="margin:18px 26px 0;font-size:18px;line-height:25px;font-style:italic">…cheguemos por sua paixão e sua cruz à glória da ressurreição. Pelo mesmo Cristo, Senhor nosso.</p>
+      <div style="margin-top:34px"><div class="wall">${wallOne}</div></div>
+    </div>
+    <div class="toast"><div class="nudge" style="text-align:left"><div class="bell on" style="background:#F1E6C8">${bellOn}</div><div>
+      <div class="nt">Lembrar amanhã ao meio-dia?</div><div class="nd">E do Angelus das seis, hoje.</div>
+      <div class="na"><b>Lembrar-me</b><span>Não, obrigado</span></div></div></div></div>
+    <div class="home-ind"></div></div>
+    <figcaption><b>C2 · ASK AT THE MOMENT OF VALUE</b>After the first prayer is finished, not at launch. The user has just felt what a reminder would give them; "Lembrar-me" then raises the system prompt.</figcaption></figure>
+
+  <figure><div class="phone"><div class="island"></div><div class="status"><span>9:41</span><span>●●● ▮</span></div>
+    <div class="screen">
+      <img class="corner" src="assets/frame_corner_light.webp">
+      <div class="th-label" style="margin-top:14px">Quarta · Tempo Comum</div>
+      <div class="scrub"><b>11 nov</b><span>12</span><span>13</span></div>
+      <div class="sec" style="margin-top:18px"><div class="nudge">
+        <div style="width:58px;height:58px;border-radius:14px;flex:none;background:linear-gradient(135deg,#1E3A5C,#0A1626);display:grid;place-items:center"><img src="assets/pin-cross.webp" style="height:36px"></div>
+        <div><div class="label s r" style="font-size:10px">Dia 3 · Você sabia?</div>
+        <div class="nt" style="margin-top:2px">Missas perto de você</div>
+        <div class="nd">Horários de Missa e confissão das igrejas do seu bairro, com mapa.</div>
+        <div class="na"><b>Abrir</b><span>Depois</span></div></div></div></div>
+      <div class="sec"><div class="label">Seu dia <i>→</i></div>
+        <div class="panel">
+          <div class="plan-item"><div class="t">07:00</div><div class="n">Oferecimento da manhã</div><div class="c done">✓</div></div>
+          <div class="plan-item next"><div class="t">12:00</div><div class="n">Angelus</div><div class="c"></div></div>
+          <div class="plan-item"><div class="t">18:00</div><div class="n">Angelus</div><div class="c"></div></div>
+        </div></div>
+      <div style="margin-top:18px;font:400 11px var(--head);letter-spacing:2px;color:var(--muted)">NOS PRÓXIMOS DIAS, UM POR DIA</div>
+      <p style="font-size:15px;line-height:21px;color:var(--muted);margin-top:4px">4 · A Liturgia das Horas &nbsp;·&nbsp; 5 · A Missa em latim e português &nbsp;·&nbsp; 6 · A Bíblia em grego e hebraico &nbsp;·&nbsp; 7 · Novenas do ano</p>
+    </div>
+    <div class="tabbar"><i class="on">HOJE</i><i>ORAR</i><i>LIVROS</i></div><div class="tabkey">${searchIcon}</div>
+    <div class="home-ind"></div></div>
+    <figcaption><b>C3 · A WEEK OF "DID YOU KNOW"</b>One card at the top of Today for the first seven days, each a single feature with an Open button, dismissed for good once opened or skipped. The list under it is only a note for this mock.</figcaption></figure>
+
+  </div>
+</section>
+
+<section>
+  <h2>MY RECOMMENDATION</h2>
+  <p><b>B with C2 and C3.</b> The sheet asks the one question that fixes retention (a plan) without hiding the app behind five pages. Notifications are requested over the list they serve, and asked again after the first prayer if refused. The week of discovery cards then brings out the depth. A's Mass-form and Office questions become two of those discovery cards ("Do you go to the Traditional Mass?") instead of hurdles before day one. Kept from A: A5's "today the Church celebrates" holy card, as the moment the sheet settles.</p>
+</section>
+</div>
+
+<script>
+const bellOn = '<svg viewBox="0 0 24 24" fill="#A8872E"><path d="M12 22a2.5 2.5 0 0 0 2.4-2h-4.8a2.5 2.5 0 0 0 2.4 2zm7-6V11a7 7 0 0 0-5.5-6.8V3.5a1.5 1.5 0 0 0-3 0v.7A7 7 0 0 0 5 11v5l-2 2v1h18v-1z"/></svg>'
+const bellOff = '<svg viewBox="0 0 24 24" fill="none" stroke="#C5B48A" stroke-width="1.6"><path d="M12 21.5a2 2 0 0 0 2-1.6h-4a2 2 0 0 0 2 1.6zM18.5 16v-5a6.5 6.5 0 0 0-13 0v5l-1.8 2h16.6z"/></svg>'
+const searchIcon = '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#6B5D4F" stroke-width="1.8"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>'
+const wallFirst = Array.from({ length: 30 }, (_, i) => `<i class="${i === 29 ? 'now' : ''}"></i>`).join('')
+const wallOne = Array.from({ length: 30 }, (_, i) => `<i class="${i === 29 ? 'on' : ''}"></i>`).join('')
+const todayTop = `<img class="corner" src="assets/frame_corner_light.webp">
+  <div class="th-label" style="margin-top:14px">Segunda · Tempo Comum</div>
+  <div class="scrub"><b>9 nov</b><span>10</span><span>11</span></div>
+  <div class="feast"><div class="holy" style="background-image:url(assets/lateran_basilica.webp)"></div>
+    <div><div class="fr">Festa</div><div class="fn">Dedicação da Basílica do Latrão</div><div class="fs">Missa e Ofício da festa</div></div></div>`
+const vars = { bellOn, bellOff, searchIcon, wallFirst, wallOne, todayTop }
+document.body.innerHTML = document.body.innerHTML.replace(/\$\{(\w+)\}/g, (m, k) => vars[k] ?? m)
+</script>
+</body>
+</html>
