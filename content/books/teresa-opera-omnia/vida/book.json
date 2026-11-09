@@ -19,7 +19,8 @@
   "composed": "1562–1565",
   "languages": [
     "es-ES",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "teresa-of-avila/vida",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "David Lewis",
       "year": 1904
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -62,294 +68,336 @@
       "id": "prologo",
       "title": {
         "es-ES": "Prólogo",
-        "en-US": "Prologue"
+        "en-US": "Prologue",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "c01",
       "title": {
         "es-ES": "Capítulo I",
-        "en-US": "Chapter I"
+        "en-US": "Chapter I",
+        "pt-BR": "Capítulo I"
       }
     },
     {
       "id": "c02",
       "title": {
         "es-ES": "Capítulo II",
-        "en-US": "Chapter II"
+        "en-US": "Chapter II",
+        "pt-BR": "Capítulo II"
       }
     },
     {
       "id": "c03",
       "title": {
         "es-ES": "Capítulo III",
-        "en-US": "Chapter III"
+        "en-US": "Chapter III",
+        "pt-BR": "Capítulo III"
       }
     },
     {
       "id": "c04",
       "title": {
         "es-ES": "Capítulo IV",
-        "en-US": "Chapter IV"
+        "en-US": "Chapter IV",
+        "pt-BR": "Capítulo IV"
       }
     },
     {
       "id": "c05",
       "title": {
         "es-ES": "Capítulo V",
-        "en-US": "Chapter V"
+        "en-US": "Chapter V",
+        "pt-BR": "Capítulo V"
       }
     },
     {
       "id": "c06",
       "title": {
         "es-ES": "Capítulo VI",
-        "en-US": "Chapter VI"
+        "en-US": "Chapter VI",
+        "pt-BR": "Capítulo VI"
       }
     },
     {
       "id": "c07",
       "title": {
         "es-ES": "Capítulo VII",
-        "en-US": "Chapter VII"
+        "en-US": "Chapter VII",
+        "pt-BR": "Capítulo VII"
       }
     },
     {
       "id": "c08",
       "title": {
         "es-ES": "Capítulo VIII",
-        "en-US": "Chapter VIII"
+        "en-US": "Chapter VIII",
+        "pt-BR": "Capítulo VIII"
       }
     },
     {
       "id": "c09",
       "title": {
         "es-ES": "Capítulo IX",
-        "en-US": "Chapter IX"
+        "en-US": "Chapter IX",
+        "pt-BR": "Capítulo IX"
       }
     },
     {
       "id": "c10",
       "title": {
         "es-ES": "Capítulo X",
-        "en-US": "Chapter X"
+        "en-US": "Chapter X",
+        "pt-BR": "Capítulo X"
       }
     },
     {
       "id": "c11",
       "title": {
         "es-ES": "Capítulo XI",
-        "en-US": "Chapter XI"
+        "en-US": "Chapter XI",
+        "pt-BR": "Capítulo XI"
       }
     },
     {
       "id": "c12",
       "title": {
         "es-ES": "Capítulo XII",
-        "en-US": "Chapter XII"
+        "en-US": "Chapter XII",
+        "pt-BR": "Capítulo XII"
       }
     },
     {
       "id": "c13",
       "title": {
         "es-ES": "Capítulo XIII",
-        "en-US": "Chapter XIII"
+        "en-US": "Chapter XIII",
+        "pt-BR": "Capítulo XIII"
       }
     },
     {
       "id": "c14",
       "title": {
         "es-ES": "Capítulo XIV",
-        "en-US": "Chapter XIV"
+        "en-US": "Chapter XIV",
+        "pt-BR": "Capítulo XIV"
       }
     },
     {
       "id": "c15",
       "title": {
         "es-ES": "Capítulo XV",
-        "en-US": "Chapter XV"
+        "en-US": "Chapter XV",
+        "pt-BR": "Capítulo XV"
       }
     },
     {
       "id": "c16",
       "title": {
         "es-ES": "Capítulo XVI",
-        "en-US": "Chapter XVI"
+        "en-US": "Chapter XVI",
+        "pt-BR": "Capítulo XVI"
       }
     },
     {
       "id": "c17",
       "title": {
         "es-ES": "Capítulo XVII",
-        "en-US": "Chapter XVII"
+        "en-US": "Chapter XVII",
+        "pt-BR": "Capítulo XVII"
       }
     },
     {
       "id": "c18",
       "title": {
         "es-ES": "Capítulo XVIII",
-        "en-US": "Chapter XVIII"
+        "en-US": "Chapter XVIII",
+        "pt-BR": "Capítulo XVIII"
       }
     },
     {
       "id": "c19",
       "title": {
         "es-ES": "Capítulo XIX",
-        "en-US": "Chapter XIX"
+        "en-US": "Chapter XIX",
+        "pt-BR": "Capítulo XIX"
       }
     },
     {
       "id": "c20",
       "title": {
         "es-ES": "Capítulo XX",
-        "en-US": "Chapter XX"
+        "en-US": "Chapter XX",
+        "pt-BR": "Capítulo XX"
       }
     },
     {
       "id": "c21",
       "title": {
         "es-ES": "Capítulo XXI",
-        "en-US": "Chapter XXI"
+        "en-US": "Chapter XXI",
+        "pt-BR": "Capítulo XXI"
       }
     },
     {
       "id": "c22",
       "title": {
         "es-ES": "Capítulo XXII",
-        "en-US": "Chapter XXII"
+        "en-US": "Chapter XXII",
+        "pt-BR": "Capítulo XXII"
       }
     },
     {
       "id": "c23",
       "title": {
         "es-ES": "Capítulo XXIII",
-        "en-US": "Chapter XXIII"
+        "en-US": "Chapter XXIII",
+        "pt-BR": "Capítulo XXIII"
       }
     },
     {
       "id": "c24",
       "title": {
         "es-ES": "Capítulo XXIV",
-        "en-US": "Chapter XXIV"
+        "en-US": "Chapter XXIV",
+        "pt-BR": "Capítulo XXIV"
       }
     },
     {
       "id": "c25",
       "title": {
         "es-ES": "Capítulo XXV",
-        "en-US": "Chapter XXV"
+        "en-US": "Chapter XXV",
+        "pt-BR": "Capítulo XXV"
       }
     },
     {
       "id": "c26",
       "title": {
         "es-ES": "Capítulo XXVI",
-        "en-US": "Chapter XXVI"
+        "en-US": "Chapter XXVI",
+        "pt-BR": "Capítulo XXVI"
       }
     },
     {
       "id": "c27",
       "title": {
         "es-ES": "Capítulo XXVII",
-        "en-US": "Chapter XXVII"
+        "en-US": "Chapter XXVII",
+        "pt-BR": "Capítulo XXVII"
       }
     },
     {
       "id": "c28",
       "title": {
         "es-ES": "Capítulo XXVIII",
-        "en-US": "Chapter XXVIII"
+        "en-US": "Chapter XXVIII",
+        "pt-BR": "Capítulo XXVIII"
       }
     },
     {
       "id": "c29",
       "title": {
         "es-ES": "Capítulo XXIX",
-        "en-US": "Chapter XXIX"
+        "en-US": "Chapter XXIX",
+        "pt-BR": "Capítulo XXIX"
       }
     },
     {
       "id": "c30",
       "title": {
         "es-ES": "Capítulo XXX",
-        "en-US": "Chapter XXX"
+        "en-US": "Chapter XXX",
+        "pt-BR": "Capítulo XXX"
       }
     },
     {
       "id": "c31",
       "title": {
         "es-ES": "Capítulo XXXI",
-        "en-US": "Chapter XXXI"
+        "en-US": "Chapter XXXI",
+        "pt-BR": "Capítulo XXXI"
       }
     },
     {
       "id": "c32",
       "title": {
         "es-ES": "Capítulo XXXII",
-        "en-US": "Chapter XXXII"
+        "en-US": "Chapter XXXII",
+        "pt-BR": "Capítulo XXXII"
       }
     },
     {
       "id": "c33",
       "title": {
         "es-ES": "Capítulo XXXIII",
-        "en-US": "Chapter XXXIII"
+        "en-US": "Chapter XXXIII",
+        "pt-BR": "Capítulo XXXIII"
       }
     },
     {
       "id": "c34",
       "title": {
         "es-ES": "Capítulo XXXIV",
-        "en-US": "Chapter XXXIV"
+        "en-US": "Chapter XXXIV",
+        "pt-BR": "Capítulo XXXIV"
       }
     },
     {
       "id": "c35",
       "title": {
         "es-ES": "Capítulo XXXV",
-        "en-US": "Chapter XXXV"
+        "en-US": "Chapter XXXV",
+        "pt-BR": "Capítulo XXXV"
       }
     },
     {
       "id": "c36",
       "title": {
         "es-ES": "Capítulo XXXVI",
-        "en-US": "Chapter XXXVI"
+        "en-US": "Chapter XXXVI",
+        "pt-BR": "Capítulo XXXVI"
       }
     },
     {
       "id": "c37",
       "title": {
         "es-ES": "Capítulo XXXVII",
-        "en-US": "Chapter XXXVII"
+        "en-US": "Chapter XXXVII",
+        "pt-BR": "Capítulo XXXVII"
       }
     },
     {
       "id": "c38",
       "title": {
         "es-ES": "Capítulo XXXVIII",
-        "en-US": "Chapter XXXVIII"
+        "en-US": "Chapter XXXVIII",
+        "pt-BR": "Capítulo XXXVIII"
       }
     },
     {
       "id": "c39",
       "title": {
         "es-ES": "Capítulo XXXIX",
-        "en-US": "Chapter XXXIX"
+        "en-US": "Chapter XXXIX",
+        "pt-BR": "Capítulo XXXIX"
       }
     },
     {
       "id": "c40",
       "title": {
         "es-ES": "Capítulo XL",
-        "en-US": "Chapter XL"
+        "en-US": "Chapter XL",
+        "pt-BR": "Capítulo XL"
       }
     },
     {
       "id": "carta",
       "title": {
         "es-ES": "Carta al P. García de Toledo",
-        "en-US": "Letter to Father García de Toledo"
+        "en-US": "Letter to Father García de Toledo",
+        "pt-BR": "Carta ao P. García de Toledo"
       }
     }
   ]
