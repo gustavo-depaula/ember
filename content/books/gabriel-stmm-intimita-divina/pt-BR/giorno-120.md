@@ -8,8 +8,8 @@
 
 **1** — “O Senhor - ensina S. João da Cruz -
 prefere de ti o menor grau de obediência e submissão
-mais do que todos os serviços que pensas prestar-lhe”
-(AM. I, 13). Por quê? Porque a obediência te faz renunciar
+a todos os serviços que pensas prestar-lhe”
+(*AM.* I, 13). Por quê? Porque a obediência te faz renunciar
 à tua vontade para aderir à vontade de Deus,
 expressa nas ordens dos superiores; e precisamente na completa conformidade da tua vontade com a vontade divina consiste a
 perfeição da caridade, consiste a essência da união com
@@ -18,7 +18,7 @@ te regulares não segundo tuas inclinações e desejos
 pessoais, mas segundo a vontade de Deus,
 conformando a ela a tua. E precisamente esse é o estado
 de união com Deus, pois “a alma que tem a vontade inteiramente conforme e semelhante à divina é, por isso mesmo, totalmente unida e transformada em Deus”
-(J.C. S. II, 5, 4).
+(*G.C. S.* II, 5, 4).
 
 A vontade de Deus encontras expressa em seus mandamentos,
 nos preceitos da Igreja, nos deveres do teu estado;
@@ -28,9 +28,9 @@ certeza o que Deus quer de ti. Ao contrário, na voz da
 obediência a vontade divina toma forma clara,
 precisa, e te é manifestada abertamente, de modo que já não podes
 temer errar. Com efeito, “não há autoridade que não venha
-de Deus” (Rm. 13, 1), de sorte que, obedecendo a teus legítimos superiores, podes ter certeza de obedecer a Deus. O próprio Jesus,
+de Deus” (*Rm.* 13, 1), de sorte que, obedecendo a teus legítimos superiores, podes ter certeza de obedecer a Deus. O próprio Jesus,
 confiando aos seus discípulos a missão de evangelizar as
-gentes, disse: “Quem vos ouve, a mim ouve, e quem vos rejeita, a mim rejeita” (Lc. 10, 16); e assim nos ensina
+gentes, disse: “Quem vos ouve, a mim ouve, e quem vos despreza, a mim despreza” (*Lc.* 10, 16); e assim nos ensina
 que os superiores eclesiásticos o representam e nos falam
 em seu nome. E, aliás, S. Tomás demonstra que em
 toda autoridade legítima - também de ordem natural, como por
@@ -38,7 +38,7 @@ exemplo a de ordem civil e social - quando ela
 manda dentro dos justos limites de seus poderes, há manifestação da vontade divina. Precisamente nesse sentido
 o Apóstolo não hesita em dizer: “Servos, obedecei a vossos
 senhores... como a Cristo... fazendo de coração a vontade
-de Deus” (Ef. 6, 5 e 6).
+de Deus” (*Ef.* 6, 5 e 6).
 
 
 **2** — Um dos maiores obstáculos à plena conformidade
@@ -67,7 +67,7 @@ deixar tua vontade para abraçar a vontade de Deus. É este
 o motivo pelo qual os santos corriam ao encontro da obediência.
 De S. Teresa Margarida do Coração de Jesus se diz:
 “não somente voava ao executar as ordens, mas
-alegrava-se extremamente e exultava em obedecer” (Sp. p.
+alegrava-se extremamente e exultava em obedecer” (*Sp.* p.
 74). Se à natureza pode custar negar a própria vontade,
 renunciar a um projeto, a um plano, a um trabalho tão
 amado e acalentado, não é nessa renúncia que a alma de

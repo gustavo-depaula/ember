@@ -1,6 +1,6 @@
 # 34 — SINAL DE CONTRADIÇÃO
 
-*domingo entre a oitava da Natividade*
+*domingo dentro da oitava da Natividade*
 
 **Presença de Deus.** — *Diante de Jesus o mundo se divide: amigos e inimigos. Ó Senhor, que eu esteja entre os primeiros e entre os que mais amam!*
 
@@ -17,11 +17,11 @@ Cristo; o homem é livre para aceitar ou recusar. Esta é
 a nossa tremenda responsabilidade. Jesus veio para salvar-nos,
 para santificar-nos, para dar-se todo às nossas almas: está
 pronto para fazê-lo, quer fazê-lo, e contudo não o fará se nós
-não aceitarmos livremente o seu dom infinito, se nós
+não aceitarmos *livremente* o seu dom infinito, se nós
 não correspondermos às suas solicitações amorosas com o
-pequeno dom livre da nossa vontade. “Deus não força
+pequeno dom *livre* da nossa vontade. “Deus não força
 ninguém: aceita quanto se lhe dá, mas não se dá totalmente
-senão àqueles que se dão totalmente a ele” (T.G. Cam.
+senão àqueles que se dão totalmente a ele” *(T.G. Cam.*
 28, 12).
 
 A profecia de Simeão dirige-se depois diretamente à
@@ -47,4 +47,4 @@ Meu Deus, que grande responsabilidade têm os homens diante dos teus imensos ben
 
 Mas infelizmente, Senhor, sou eu que não me lembro, que não correspondo bastante aos teus dons infinitos!
 
-Tu, doce peregrino de amor, estás à porta e esperas! Quantas portas em Belém se fecharam à tua passagem: não havia lugar para ti, e abriu-se para ti só uma mísera estrebaria. O meu coração não é talvez mais miserável, mais squálido, mais indigno do que aquele abrigo de animais? E no entanto, se eu te abrir, Tu não desdenharás de fazer dele a tua morada e de encontrar nele o teu repouso, como fizeste na gruta do teu natal. Ó meu Jesus, dá-me graça de escancarar-te totalmente o meu coração, de aderir com toda a força da minha vontade à tua graça, de doar-te toda a minha liberdade, porque doravante não desejo e não quero senão uma liberdade: a liberdade de amar-te com todas as forças, de dar-me totalmente a ti. Ó Senhor, quanto nos amaste e quão poucos são aqueles que te amam! faze que ao menos estes poucos te sejam verdadeiramente fiéis e que entre estes possa estar também eu.
+Tu, doce peregrino de amor, estás à porta e esperas! Quantas portas em Belém se fecharam à tua passagem: não havia lugar para ti, e abriu-se para ti só uma mísera estrebaria. O meu coração não é talvez mais miserável, mais esquálido, mais indigno do que aquele abrigo de animais? E no entanto, se eu o abrir a ti, Tu não desdenharás de fazer dele a tua morada e de encontrar nele o teu repouso, como fizeste na gruta do teu natal. Ó meu Jesus, dá-me graça de escancarar-te totalmente o meu coração, de aderir com toda a força da minha vontade à tua graça, de doar-te toda a minha liberdade, porque doravante não desejo e não quero senão uma liberdade: a liberdade de amar-te com todas as forças, de dar-me totalmente a ti. Ó Senhor, quanto nos amaste e quão poucos são aqueles que te amam! faze que ao menos estes poucos te sejam verdadeiramente fiéis e que entre estes possa estar também eu.

@@ -26,7 +26,7 @@ misericórdia, porque como Deus é o único que pode ajudar-te a
 conseguir o bem, assim é o único que pode ajudar-te a levantar-te
 do mal.
 
-Eis por que todos os santos insistiram
+Eis por que todos os santos ensinaram
 que o conhecimento de si nunca deve ser desligado do conhecimento
 de Deus e vice-versa. S. Teresa de Jesus diz: “A alma
 que se exercita no conhecimento próprio deve elevar-se,
@@ -99,12 +99,12 @@ perdi e ainda mais.
 
 “Depois de todos os meus desastres, em vez de esconder-me num
 cantinho e ali chorar minha miséria, volto-me para ti, ó
-meu Dileto, e te conto em detalhe todas as minhas infidelidades,
+meu Amado, e te conto em detalhe todas as minhas infidelidades,
 pensando, no meu temerário abandono, adquirir mais império,
 atrair plenamente teu amor;
 pois Tu não vieste chamar os justos, mas os pecadores.
 
-“Sou feliz por sentir-me assim imperfeita e por ter tanto
+“Sou feliz por sentir-me assim imperfeita e por ter tanta
 necessidade da tua misericórdia. Quando se aceita com doçura a humilhação de ter sido imperfeito, tua graça,
 ó Senhor, volta logo” (T.B.G. St. 9; Lt. 65, 122,
 175; NV.).

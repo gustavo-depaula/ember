@@ -15,10 +15,10 @@ Santa nota que o motivo pelo qual muitas pessoas, já há
 tempo adestradas na vida espiritual e beneméritas por
 tantas obras boas, “ainda rastejam pela terra” e não
 conseguem elevar-se mais alto, está justamente em serem
-detidas pelo “ponto de honra; e, o que é pior,
+detidas pelo “ponto de honra”; e, o que é pior,
 não querem persuadir-se disso, enganadas como estão pelo
-demônio até crerem que são obrigadas a defendê-lo”
-(Vi. 31, 20; Cam. 12, 5).
+demônio até crerem que são obrigadas a defendê-lo
+(*Vi.* 31, 20; *Cam.* 12, 5).
 
 O apego aos pontos de honra resolve-se, na prática,
 em muitos pequenos ou grandes melindres para afirmação da
@@ -30,7 +30,7 @@ para fazer valer as próprias razões - que se julgam sempre boas -
 as próprias capacidades, as próprias obras, os próprios
 méritos, que se consideram sempre grandes e dignos de consideração.
 Tudo isso permanece mais ou menos mascarado pelo
-fato de que cada um tem, ou crê ter, a intenção de agir
+fato de que cada um crê ter a intenção de agir
 para o bem e, por isso, julga legítimo seu modo de agir;
 entretanto não se percebe que, sob o pretexto de defender o
 bem, de evitar escândalo, de sustentar obras boas,
@@ -42,7 +42,7 @@ e as próprias obras. Uma alma que se deixa tomar por semelhantes preocupações
 fica, como diz S. Teresa de Jesus, ligada à terra
 por “uma cadeia que lima alguma pode romper. Só Deus
 pode quebrá-la, mas quer ser coadjuvado por nós com
-orações e esforços generosos” (Vi. 31, 20).
+orações e esforços generosos” (*Vi.* 31, 20).
 
 
 **2** — Para ver se estamos verdadeiramente desapegados dos
@@ -54,7 +54,7 @@ nossa conduta diante de tudo o que fere
 nosso amor-próprio. E então não será difícil constatar
 que “por pouco que nos toquem na honra, já não sabemos
 suportar e parece-nos que não devemos suportar” (T.G.
-Dam. 16, 11). Essas reações mais ou menos vivas da nossa suscetibilidade nos dizem claramente que estamos bem
+*Cam.* 16, 11). Essas reações mais ou menos vivas da nossa suscetibilidade nos dizem claramente que estamos bem
 longe de ter posto sob os pés os pontos de honra; e tomar consciência dessa deficiência será o ponto de partida
 para corrigi-la, porque o maior obstáculo à
 aquisição das virtudes é justamente crer que já as
@@ -97,7 +97,7 @@ conservar intacta nossa honra e reputação. Os caminhos são
 demasiado diversos, e nunca chegaremos à meta, porque
 Tu, ó Senhor, te unes só às almas que se negam
 a si mesmas e não têm medo de perder os próprios direitos”
-(T.G. Cam. 36, 5 e 6; 16, 11; Vi. 31, 22).
+(T.G. *Cam.* 36, 5 e 6; 16, 11; *Vi.* 31, 22).
 
 Ó Jesus, concede-me a graça de fazer consistir minha
 honra somente em unir-me intimamente a ti,

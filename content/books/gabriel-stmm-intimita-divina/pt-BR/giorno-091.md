@@ -15,7 +15,7 @@ e coberto de escarros; e depois de o flagelarem,
 o matarão; mas ao terceiro dia ressuscitará”; contudo,
 como já outras vezes, os Apóstolos “nada compreenderam; demasiado obscuro era para
 eles aquele discurso”. Não compreendiam porque concebiam a missão de Jesus como a de um conquistador terreno
-que restabeleceria o reino de Israel; sonhando com triunfos e preocupados, como estavam, em ocupar
+que restabeleceria o reino de Israel; sonhando só com triunfos e preocupados, como estavam, em ocupar
 os primeiros lugares no novo reino, toda alusão à Paixão
 os atemorizava, os escandalizava.
 
@@ -27,8 +27,7 @@ significado do sofrimento. Também S. Paulo dizia que o
 Cristo crucificado era “escândalo para os judeus e loucura para os
 gentios” (I Cor. 1, 23). E Jesus, repreendendo S. Pedro que ao
 primeiro anúncio da sua Paixão exclamara: “Não aconteça,
-Senhor, isso jamais te sucederá”, disse sem rodeios: “Vai
-para trás de mim, Satanás!... porque não tens senso das coisas de Deus,
+Senhor, isso jamais te sucederá”, disse sem rodeios: “Afasta-te de mim, Satanás!... porque não tens senso das coisas de Deus,
 mas das coisas dos homens” (Mt. 16, 22-23). Para a sabedoria dos homens, o
 sofrimento é loucura incompreensível, é coisa que atemoriza,
 até apagar toda confiança em Deus, até levar
@@ -64,8 +63,8 @@ pobre cego, o qual, sem preocupar-se com a multidão que
 lhe impedia aproximar-se de Jesus, sem deter-se com as repreensões dos discípulos que queriam fazê-lo calar, “gritava
 muito mais forte” sua oração.
 
-Do profundo do coração elevemos nosso clamor ao Senhor: “*De profundis* clamavi ad te, Domine, Domine audi
-vocem meam!” (Sl. 129). Não peçamos ser libertados do sofrimento, mas antes ser iluminados quanto
+Do profundo do coração elevemos nosso clamor ao Senhor: “*De profundis clamavi ad te, Domine, Domine audi
+vocem meam!*” (Sl. 129). Não peçamos ser libertados do sofrimento, mas antes ser iluminados quanto
 ao valor dele: “Senhor, que eu veja!” Logo que o cego
 recobrou a vista, imediatamente foi atrás de Jesus, “glorificando
 Deus!” A luz sobrenatural que invocamos do
@@ -85,4 +84,4 @@ aquele reino que Tu compraste com tanto sangue. Por
 amor de Deus, abri os olhos, ó grandes do mundo, e pensai
 que os verdadeiros cavaleiros de Jesus Cristo, os príncipes da sua Igreja, como um S. Pedro e um S. Paulo, não seguiram certo o caminho que vós seguis! Credes acaso que para vós deva haver outro caminho? Não o penseis” (T.G. Fd. 10, 11).
 
-Ó meu Jesus, a cruz é tua insígnia; seria portanto bem vergonhoso para mim pedir de vir dela libertado. De um mal só te suplico ardentemente que me livres: de qualquer pecado deliberado, por pequeno que seja. Isto, ó Senhor, pelos méritos da tua santíssima Paixão, conserva-o sempre longe de mim. Mas quanto aos outros males: sofrimentos do corpo e do espírito, dores físicas e morais, peço-te luz e força. Luz para entender o sentido recôndito que eles têm nos planos da tua divina Providência, luz para crer firmemente que tudo — qualquer amargura ou prova, qualquer rompimento ou abalo — é por ti ordenado ao meu maior bem. Força para não me deixar impressionar pelas falsas máximas do mundo ou desviar por um vão miragem de felicidade terrena; força para abraçar com coragem e com amor qualquer gênero de sofrimento.
+Ó meu Jesus, a cruz é tua insígnia; seria portanto bem vergonhoso para mim pedir ser dela libertado. De um mal só te suplico ardentemente que me livres: de qualquer pecado deliberado, por pequeno que seja. Isto, ó Senhor, pelos méritos da tua santíssima Paixão, conserva-o sempre longe de mim. Mas quanto aos outros males: sofrimentos do corpo e do espírito, dores físicas e morais, peço-te luz e força. Luz para entender o sentido recôndito que eles têm nos planos da tua divina Providência, luz para crer firmemente que tudo — qualquer amargura ou prova, qualquer rompimento ou abalo — é por ti ordenado ao meu maior bem. Força para não me deixar impressionar pelas falsas máximas do mundo ou desviar por uma vã miragem de felicidade terrena; força para abraçar com coragem e com amor qualquer gênero de sofrimento.

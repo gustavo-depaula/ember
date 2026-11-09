@@ -28,7 +28,7 @@ Considerada assim, é claro que a imperfeição voluntária
 nunca pode ser conforme à vontade de Deus,
 portanto também ela, como o pecado, vai na direção oposta da caridade, a qual tende à plena conformidade
 com a vontade divina. Eis portanto a importância,
-para uma alma que busca a perfeição, de eliminar da sua
+para a alma que tende à união com Deus, de eliminar da sua
 conduta qualquer imperfeição voluntária. É precisamente
 neste sentido que S. João da Cruz adverte: “Para que a alma
 venha a unir-se perfeitamente com Deus por vontade e amor... requer-se que não consinta com conhecimento e advertência em nenhuma imperfeição”; e ensina
@@ -37,7 +37,7 @@ que basta o apego a uma imperfeição voluntária habitual para impedir “não 
 
 **2** — Querendo descer mais ao concreto, podem considerar-se outros tipos de imperfeição e antes de tudo a transgressão
 de uma lei que por si não obriga sob pecado,
-como são em geral as constituições ou os estatutos dos vários
+como são em geral as constituições ou os estatutos das várias
 Ordens e Institutos religiosos. A esse propósito é preciso
 notar que, se não há motivo razoável,
 proporcionado e suficiente para faltar a uma dessas leis,

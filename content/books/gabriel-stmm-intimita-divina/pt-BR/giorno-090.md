@@ -44,8 +44,8 @@ uma ninharia... descuidam de chegar a tão grande bem” (S. I,
 **2** — Deus é ciumento do coração a ele consagrado e não o
 admite à sua intimidade enquanto o encontra ocupado por algum afeto que o impeça de concentrar nele todo
 o amor de que Ele o tornou capaz. “Deus
-- diz S. Teresa de Jesus - não força ninguém: aceita quanto lhe
-se dá, mas não se dá todo senão àqueles que se dão de todo a ele” (Cart. 28, 12). “Deus não quer um coração dividido: quer tudo ou nada” (T.M. Sp. p. 187).
+- diz S. Teresa de Jesus - não força ninguém: aceita quanto se
+lhe dá, mas não se dá todo senão àqueles que se dão de todo a ele” (Cam. 28, 12). “Deus não quer um coração dividido: quer tudo ou nada” (T.M. Sp. p. 187).
 
 
 Se não se chega ao dom total do coração,
@@ -65,7 +65,7 @@ mistérios infinitos. Precisamente por
 isso os teólogos ensinam que à bem-aventurança “bem-aventurados os puros de coração” corresponde o
 dom do entendimento, mediante o qual o Espírito
 Santo torna a alma capaz de um *intus legere*, de ler
-dentro, isto é, de penetrar as coisas divinas. Quanto mais se ama, mais se deseja
+dentro, isto é, de penetrar a Divindade. Quanto mais se ama, mais se deseja
 conhecer a pessoa amada, e não só externamente, mas
 intimamente, sendo posto a par dos seus pensamentos, dos seus
 segredos; e de boa vontade se renuncia a toda outra satisfação
@@ -75,14 +75,14 @@ Se queres conhecer teu Deus, se queres entrar na sua
 amizade íntima e profunda, deves oferecer-lhe um coração puro,
 vazio de todo afeto humano. “Não te apresentes às criaturas, se queres mirar na tua alma
 o rosto terso e simples de Deus; mas torna teu espírito vazio e muito alheio
-a elas, e caminharás nos esplendores divinos” (G.C. C.E. I, 25).
+a elas, e caminharás nos esplendores divinos” (G.C. AM I, 25).
 
 ### Colóquio
 
 Ó Jesus, doçura inefável, muda em amargura para mim
 todas as consolações da terra, porque não quero que as
 criaturas tenham sequer um átomo do meu coração. Se eu soubesse que uma só fibra do meu ser vibra por um afeto
-humano, estaria pronto para arrancá-la e lançá-la para longe de
+humano, estaria pronta para arrancá-la e lançá-la para longe de
 mim, ao preço de qualquer sofrimento.
 
 Mas Tu sabes quão grande é minha fraqueza e como,

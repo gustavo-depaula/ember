@@ -1,6 +1,6 @@
 # 10 — A POBREZA VOLUNTÁRIA
 
-**Presença de Deus.** — *Ó Senhor, dignai-Vos mostrar-me os tesouros escondidos na pobreza voluntária e os deveres que dela derivam.*
+**Presença de Deus.** — *Ó Senhor, digna-te mostrar-me os tesouros escondidos na pobreza voluntária e os deveres que dela derivam.*
 
 ### Meditação
 
@@ -50,7 +50,7 @@ das comodidades, deve economizar, deve trabalhar para viver.
 Tu, por exercício de virtude, deves espontânea e voluntariamente renunciar ao supérfluo e às comodidades, não deves
 permitir-te desperdício algum, e deves além disso sujeitar-te a
 uma vida de trabalho assíduo. E isto não por espírito de
-avareza, não por amor ao lucro, mas por exercício de virtude.
+avareza, não por amor ao lucro, mas por puro exercício de virtude.
 
 Se depois, às vezes, te vier a faltar alguma coisa
 necessária, agradece ao Senhor que te dá assim a ocasião
@@ -67,7 +67,7 @@ bens do mundo, confere um domínio universal e nos
 torna senhores de todos os bens da terra, porque nos faz
 desprezá-los. Que me importam, de fato, os reis e senhores,
 se não sei que fazer de suas riquezas, se para contentá-los pode acontecer-me de ofender, ainda que minimamente,
-ti, ó meu Deus? E que me interessam suas honras, se estou
+a ti, ó meu Deus? E que me interessam suas honras, se estou
 convencida de que a maior honra para um pobre é ser verdadeiramente tal?... A verdadeira pobreza, aquela que é
 abraçada por amor de ti, ó Senhor, traz consigo uma honorabilidade tão grande que se impõe a todos, porque não se ocupa
 de outra coisa senão de agradar a ti” (T.G. Cam. 2, 5-6).

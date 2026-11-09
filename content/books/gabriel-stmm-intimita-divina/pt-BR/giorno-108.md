@@ -65,16 +65,13 @@ interior, na oração, na virtude, sabe que não pode contar
 de forma alguma com suas forças, sabe que, embora tenha trabalhado para
 a glória de Deus, não pode contar de modo nenhum com suas obras;
 e assim conta total e unicamente com a misericórdia e
-com a graça de Deus: “Non habeo fiduciam nisi in tua misericordia”. Sua confiança está nos méritos infinitos de Jesus,
+com a graça de Deus: “*Non habeo fiduciam nisi in tua misericordia*”. Sua confiança está nos méritos infinitos de Jesus,
 no amor misericordioso do Pai celeste e na obra
 da graça; e esta confiança a torna mais que nunca corajosa e ousada, porque sabe que com Deus tudo se pode.
 
-### Colóquio
+“O que agrada a Jesus - diz a Santa de Lisieux - é ver-me amar minha pequenez e minha pobreza; é a cega esperança que tenho em sua misericórdia. Eis meu tesouro” (Lt. 176).
 
-“O que agrada a Jesus - diz a Santa de Lisieux -
-é ver-me amar minha pequenez e minha pobreza; é a
-cega esperança que tenho em sua misericórdia. Eis meu
-único tesouro” (Lt. 176).
+### Colóquio
 
 
 “Reconheço-o, ó Senhor, sou muito fraca e cada
@@ -89,14 +86,14 @@ compreender quão distantes estão minhas vias das tuas!
 Em vez de irritar-me por minhas misérias, em vez de abater-me
 por minhas quedas e por meus fracassos, em vez de pretender
 ter êxito em tudo e realizar coisas grandes, devo
-aceitar humildemente ver-me tão fraca, tão indigente,
-tão necessitada do teu auxílio.
+aceitar humildemente ver-me tão fraco, tão indigente,
+tão necessitado do teu auxílio.
 
 Para uma alma que te ama, meu Deus,
 quão doce é ter necessidade de ti, de tal modo que nada se possa fazer sem ti!
 É doce, porque isso me diz que Tu
 queres continuamente intervir na minha pobre vida, que queres continuamente sustentar-me com tua graça,
-que jamais me abandonarás um instante sequer. E para dar-me a abundância
+que jamais serás o primeiro a abandonar-me. E para dar-me a abundância
 de teus auxílios divinos,
 Tu não esperas outra coisa senão que eu me ponha diante de ti na atitude humilde e confiante
 de uma criança que, não podendo contar com suas forças

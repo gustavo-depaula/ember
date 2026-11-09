@@ -23,7 +23,7 @@ como são, sem atribuí-los a outros senão a nós mesmos.
 “Quando cometemos uma falta - dizia S. Teresa do Menino Jesus - não devemos jamais atribuí-la a uma
 causa física, como doença ou estação do ano, ou outras
 circunstâncias, mas à nossa imperfeição. Não são as ocasiões que tornam o homem frágil, mas elas lhe mostram o que
-ele é” (CR.).
+ele é” (*CR.*).
 
 Desculpar as próprias faltas pode satisfazer o orgulho,
 mas na realidade é cegar-se voluntariamente, é tornar-se incapaz de perceber a verdade da própria situação e, assim,
@@ -65,12 +65,12 @@ sem motivo, até em coisas graves. Se quer imitar o
 Senhor, em que o poderá fazer melhor, senão nisto?
 Não precisa de forças corporais, nem de ajuda de ninguém,
 senão de Deus.” E depois acrescenta com muita
-fineza: “Tudo considerado, nunca somos culpados
+fineza: “Tudo considerado, nunca somos acusados
 sem razão, sendo sempre cheios de defeitos... Se somos
 inocentes do que nos atribuem, nunca somos tão isentos
-de culpa como o bom Jesus” (Cam. 15, 1 e 4).
+de culpa como o bom Jesus” (*Cam.* 15, 1 e 4).
 
-“Jesus calava-se” (Mt. 26, 63), diz o Evangelista, apresentando-nos o Senhor acusado diante dos tribunais. A alma
+“Jesus calava-se” (*Mt.* 26, 63), diz o Evangelista, apresentando-nos o silêncio de Jesus diante dos tribunais. A alma
 que aspira à união íntima com Jesus deve saber unir-se
 aos seus silêncios diante das acusações, mesmo das mais injustas.
 E, quando motivos particulares - como evitar escândalo
@@ -86,10 +86,10 @@ essas desculpas com que meu amor-próprio procura cobrir
 minhas faltas, meus defeitos. Isto te peço: que
 eu saiba bem reconhecer todos os meus erros e saiba julgá-los como Tu mesmo os julgas. Freia meu coração,
 para que não escorregue em busca de raciocínios maliciosos
-para obter desculpas para minhas faltas. E, se por minha fraqueza
+para aceitar desculpas para minhas faltas. E, se por minha fraqueza
 me é tão fácil cair, faze que ao menos eu saiba confessá-lo
 humildemente diante de ti e diante dos homens. Liberta
-minha consciência da máscara das desculpas vãs e piedosas
+minha consciência da máscara das desculpas vãs e lamentáveis
 que me impedem de ver-me como Tu me vês, como
 Tu me conheces, como na realidade sou diante de ti. E depois,
 ó Senhor, dá-me a humildade necessária para aceitar de bom
@@ -110,7 +110,7 @@ em tua serva que pudesse desagradar aos teus olhares. Sou
 cega, Senhor, e contento-me com muito pouco. Dá-me
 luz e faze que eu deseje verdadeiramente ser desprezada por
 todos, pois também eu te desprezei, a ti que me amaste
-com tanta fidelidade!
+com tanta fidelidade!”
 
 “Que é isto, meu Deus? Que nos importa ser acusados até por todas as criaturas se Tu não nos acusas?”
-(T.G. Com. 15, 5 e 6).
+(*T.G. Cam.* 15, 5 e 6).

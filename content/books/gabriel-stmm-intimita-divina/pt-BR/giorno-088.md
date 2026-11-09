@@ -29,7 +29,7 @@ almas consagradas a Deus, mas é um sério compromisso para todo
 cristão; e não basta a castidade do corpo, é necessária também
 a dos pensamentos, dos desejos, do coração, porque Jesus
 disse: “o que... sai do coração, isso é que contamina o homem.
-Do coração, de fato, vêm os maus pensamentos... os adultérios” (Mt. 15, 18-19).
+Do coração, de fato, vêm os maus pensamentos, os homicídios, os adultérios” (Mt. 15, 18-19).
 
 Para ser casto de corpo, é portanto necessário ser
 casto de coração. Jesus insiste fortemente nessa pureza
@@ -44,7 +44,7 @@ como possa agradar-lhe... E a virgem cuida das
 coisas do Senhor, querendo ser santa de corpo e de espírito” (I Cor. 7, 32 e 34).
 
 A castidade perfeita, escolhida como estado de vida
-e abraçada com voto, liberta de todos os cuidados e solicitações necessariamente exigidos pela vida conjugal e que dividem
+e abraçada com voto, liberta de todos os cuidados e preocupações necessariamente decorrentes da vida conjugal e que dividem
 o coração entre Deus e os afetos humanos.
 
 Jesus disse que há alguns que renunciam a formar
@@ -59,7 +59,7 @@ na transmissão da vida a outros seres; e quem, mediante o voto
 de castidade, se consagra ao Senhor torna-se seu colaborador
 em comunicar aos homens a vida da graça. A pessoa
 consagrada a Deus renuncia à fecundidade material para uma
-fecundidade muito superior: a espiritual; a paternidade e
+fecundidade muito superior: a espiritual; a paternidade ou
 maternidade natural é substituída por uma paternidade ou maternidade sobrenatural. S. Teresa do Menino Jesus
 assim exprimia sua vocação ao Carmelo: “Ser vossa esposa, ó Jesus!
 e, por minha união convosco, mãe das almas!” (St. 11).
@@ -71,8 +71,8 @@ obra de redenção e santificação do mundo. O voto
 de castidade não encerra as almas numa vida estéril, mas,
 ligando-as totalmente a Deus, abre-as às sublimes fecundidades
 do apostolado. “A virgindade perpétua é uma hóstia pura oferecida a Deus, uma vítima santa; é uma flor que traz honra
-e alegria à Igreja e é grande fonte de graças” (Pio
-XII, à assembleia de set. 1951).
+e alegria à Igreja e é grande fonte de força” (Pio
+XII, Aloc. set. 1951).
 
 ### Colóquio
 
@@ -93,7 +93,7 @@ convidas a dar-se totalmente a ti no vínculo da castidade perfeita. Ó vínculo
 uma criatura de barro e tanto a elevas até fazê-la compartilhar
 o esplendor imaculado da virgindade divina! Ó
 vínculo santo que estabeleces entre Deus e o homem uma união indissolúvel, que apresentas as almas “como virgens puras a um
-só esposo, Cristo” (cf. I Cor. 11, 2), para que sejam suas
+só homem, Cristo” (cf. II Cor. 11, 2), para que sejam suas
 esposas na fé e no amor.
 
 Ó Jesus, Esposo das almas virgens, Tu que disseste:
@@ -104,13 +104,13 @@ perfeita. Que dom mais sublime eu poderia pedir-te e
 Tu poderias dar-me?
 
 Ó Jesus, que, chamando-me à castidade perfeita, me
-libertaste das solicitações da família e dos afetos terrenos, faze que eu não me feche egoisticamente em mim
+libertaste dos cuidados com a família e dos afetos terrenos, faze que eu não me feche egoisticamente em mim
 mesmo, mas concede-me compartilhar do modo mais direto
-e intenso tuas próprias solicitações, tua vida de imolação e
+e intenso tuas próprias solicitudes, tua vida de imolação e
 de oferta pela salvação dos homens e pela glória do
-Pai. Tu me queres virgem porque me queres teu mais íntimo
+Pai. Tu me queres virgem porque me queres teu íntimo
 colaborador na sublime obra da Redenção e, na
-medida em que eu me der a ti com dedicação generosa e pura,
+medida em que eu me der a ti com dedicação generosa e plena,
 conceder-me-ás o dom da fecundidade espiritual. Ó Jesus,
 fortalece os vínculos da minha união contigo e por ela me
 tornarás capaz de gerar muitas almas para teu amor e

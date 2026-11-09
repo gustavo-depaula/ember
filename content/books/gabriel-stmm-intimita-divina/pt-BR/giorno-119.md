@@ -10,15 +10,15 @@
 refrigério espiritual que a Igreja, como boa mãe,
 nos oferece no meio das austeras práticas quaresmais,
 quase para restaurar nossas forças. “Alegra-te, ó Jerusalém -
-canta o Intróito da Missa - e vós todos que a amais
+canta o Introito da Missa - e vós todos que a amais
 exultai de alegria e saciai-vos na abundância de suas
 delícias”. Quais são essas delícias? Responde-nos o Evangelho
-do dia (Jo. 6, 1-15) com a narração da multiplicação
+do dia (*Jo.* 6, 1-15) com a narração da multiplicação
 dos pães, o grande milagre mediante o qual Jesus
 quis dispor as multidões para o anúncio de um milagre
 bem mais estupendo: a instituição da Eucaristia, pela qual Ele,
 o Mestre, se tornaria nosso pão, “pão vivo
-descido do céu” (Jo. 6, 41), para alimento de
+descido do céu” (*Jo.* 6, 41), para alimento de
 nossas almas. Eis o motivo da nossa alegria, eis a fonte
 de nossas delícias: Jesus é o pão da vida, sempre à
 nossa disposição para saciar nossa fome.
@@ -39,17 +39,17 @@ das necessidades materiais alheias, compreensão efetiva
 que se traduz em ação eficaz. “Se um irmão ou uma
 irmã estiverem nus e necessitados do alimento quotidiano,
 e um dentre vós lhes disser: ‘Ide em paz...’ sem lhes dar as coisas
-necessárias para o corpo, que proveito haverá?” (Tg 2, 15 e 16).
+necessárias para o corpo, que proveito haverá?” (*Tg.* 2, 15 e 16).
 
 Os Apóstolos haviam proposto ao Mestre despedir
 a multidão para que todos pudessem ir “comprar de
-comer” (Mt. 14, 15). Jesus não aceitou
+comer” (*Mt.* 14, 15). Jesus não aceitou
 e quis prover pessoalmente. Procura também tu, na medida do
 possível, nunca mandar embora o próximo necessitado
 sem lhe prestar tua ajuda.
 
 **2** — Antes de realizar o milagre, Jesus pergunta a
-Filipe: “Onde compraremos pão para dar de comer a esta gente?” e o Evangelista observa: “dizia isso para pô-lo à prova,
+Filipe: “Onde compraremos tanto pão para dar de comer a esta gente?” e o Evangelista observa: “dizia isso para pô-lo à prova,
 porque sabia o que havia de fazer”. Não há circunstância difícil da nossa vida cuja solução Deus não conheça; para cada caso,
 mesmo o mais intricado, Ele previu desde a eternidade
 e mantém pronto o remédio. Todavia, diante de circunstâncias difíceis,
@@ -66,7 +66,7 @@ fortemente e esperar com humilde paciência, com
 plena confiança.
 
 Os Apóstolos avisam Jesus de que um menino tem cinco
-pães e dois peixes: bem pouca coisa, quase nada, para saciar
+pães e dois peixes: bem pouca coisa, ou antes nada, para saciar
 cinco mil homens; mas o Senhor pede um nada
 e serve-se dele para realizar o grande milagre. É sempre
 assim: Deus onipotente, que tudo pode fazer e criar do
@@ -90,20 +90,20 @@ hoje socorrer-me. Eis: eu, pobre, venho a ti,
 rico; miserável, apresento-me a ti, misericordioso: ah, faze
 que eu não me afaste de ti vazio e desiludido.
 Faminto, a ti venho; não permitas que de ti eu parta em jejum;
-famelico, aproximo-me; ah, que eu não me retire
+famélico, aproximo-me; ah, que eu não me retire
 sem ter sido por ti saciado; e se antes de comer suspiro,
 concede que depois dos suspiros eu possa ser alimentado” (S. Agostinho).
 
-Sim, tenho fome de ti, pão verdadeiro, pão vivo, pão da vida.
+Sim, tenho fome de ti, Senhor, pão verdadeiro, pão vivo, pão da vida.
 Tu conheces minha fome, fome da alma e fome do corpo,
 e a uma e outra quiseste prover. Com tua
 doutrina, com teu Corpo e com teu Sangue sacias
-meu espírito, sacias-no abundantemente, sem pôr medida,
+meu espírito, sacia-lo abundantemente, sem pôr medida,
 senão aquela que eu mesmo ponho com a frieza do
 meu amor, com a estreiteza do meu coração. Preparaste-me uma mesa rica e copiosa além de todo dizer,
-à qual, para ser nutrido, não tenho senão aproximar-me; e Tu não
+da qual, para ser nutrido, não tenho senão aproximar-me; e Tu não
 só me acolhes, mas te fazes meu alimento e minha bebida,
-mas te dás todo a mim: todo na tua Divindade, todo na tua
+e te dás todo a mim: todo na tua Divindade, todo na tua
 Humanidade.
 
 E depois, na tua bondade infinita, preparaste uma mesa

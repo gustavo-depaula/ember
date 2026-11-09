@@ -14,7 +14,7 @@ O Santo Padre acolheu com grande apreço esta devota homenagem e de bom grado co
 
 Com sentimentos de religiosa estima, me declaro,
 
-devotíssimo no Senhor,
+seu devotíssimo no Senhor,
 
 **Angelo Dell’Acqua**
 *Substituto*
@@ -32,7 +32,7 @@ das Carmelitas Descalças — Roma
 *Nihil obstat quominus imprimatur*
 
 Roma, 20 de fevereiro de 1957
-Fr. Benjamin da SS. Trindade, O.C.D.
+Fr. Benjamim da SS. Trindade, O.C.D.
 Fr. Valentino de Santa Maria, O.C.D.
 
 **IMPRIMI POTEST**
@@ -47,4 +47,4 @@ Pe. Pedro De Boni, Cens. Eccl.
 Vicência, 28 de março de 1957
 Mons. Francisco Snichelotto, V. G.
 
-*Todos os direitos reservados — Monastero S. Giuseppe - Carmelitane Scalze - Roma*
+*Todos os direitos reservados — Mosteiro São José - Carmelitas Descalças - Roma*

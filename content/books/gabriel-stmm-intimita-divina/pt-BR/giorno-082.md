@@ -10,7 +10,7 @@ uma pérola de grande preço, vai, vende quanto tem e
 a compra” (Mt. 13, 45). A pérola de grande preço é a união
 com Deus; se queres adquiri-la, deves vender tudo
 o que tens, isto é, desapegar-te de todo apetite desordenado. Eis
-por que S. Teresa d’Avila, falando do desapego, pôde
+por que S. Teresa d’Ávila, falando do desapego, pôde
 dizer que, “vivido com perfeição, é tudo” (Cam. 8, 1).
 Certo, a vida espiritual não se reduz ao desapego e não
 termina aí, mas o desapego praticado com perfeição
@@ -47,7 +47,7 @@ também “ordem e discrição”. O Santo não pretende que
 sempre e em todas as coisas escolhas o mais difícil, penoso
 ou fatigante - o que nem sequer seria possível, seja em relação às circunstâncias inerentes ao próprio estado, seja em relação às forças físicas que sempre precisam
 de certo alívio - mas te pede que sejas propenso a
-essa escolha, isto é, que cultives seu desejo. Pede-te que
+essa escolha, isto é, que cultives a disposição para ela. Pede-te que
 cries em ti a inclinação e o hábito de fazer coisas
 contrárias às tuas tendências, de modo que, quando se
 apresentar alguma ocasião oportuna, não recues por repugnâncias da natureza. Sobretudo nos inícios
@@ -95,10 +95,10 @@ sem teu auxílio nada sou. Quero, pois, confiar
 na tua misericórdia e desconfiar totalmente das minhas forças,
 convencido de que minha fraqueza deriva toda de apoiar-me em mim mesmo. Ensinas-me que não devo admirar-me das
 minhas lutas, porque quando uma alma quer dar-se à mortificação, encontra dificuldades por toda parte.
-Quer renunciar às próprias comodidades? Que pena! Negligenciar
+Quer renunciar às próprias comodidades? Que sofrimento! Negligenciar
 a honra? Que tormento! Sofrer uma palavra injuriosa?
-É-lhe suplício intolerável: em suma, encontra-se assediada por tristezas mortais. Mas quando resolver morrer para o mundo,
-cessará toda angústia” (cf. T.G. P.3, 12).
+É-lhe suplício intolerável: em suma, encontra-se assediada por tristezas morais. Mas quando resolver morrer para o mundo,
+cessará toda angústia” (cf. T.G. P. 3, 12).
 
 Tu morreste por mim, ó Senhor; faze que eu saiba,
 por amor de ti, morrer para mim mesmo, para meus gostos, para minhas

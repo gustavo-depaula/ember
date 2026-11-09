@@ -14,7 +14,7 @@ dizer o fundamento da caridade, e é a humildade. A humildade
 está para a caridade, como os fundamentos estão para o edifício.
 Escavar os fundamentos de uma casa ainda não é construir
 a casa, contudo é o trabalho preliminar, indispensável:
-a condição sine qua non. Quanto mais os fundamentos
+a condição *sine qua non*. Quanto mais os fundamentos
 forem profundos e bem assentados, tanto mais o edifício poderá
 erguer-se em altura e dará garantia de solidez. Só o estulto
 “edifica sua casa sobre a areia”, com a inevitável consequência de vê-la bem cedo desabar; mas o homem sábio
@@ -42,8 +42,8 @@ humildade, porque, como o Mestre divino ensina,
 só “quem se humilha será exaltado” (Lc. 18, 14).
 
 Quanto mais alto é o ideal de santidade a que aspiras,
-quanto mais excelsa a meta a que tendes, tanto mais deves descer, ou melhor deves escavar em ti mesmo o fértil abismo da humildade. “Abyssus
-abyssum invocat” (Sl. 41, 8), o abismo da humildade invoca
+quanto mais excelsa a meta a que tendes, tanto mais deves descer, ou melhor deves escavar em ti mesmo o fértil abismo da humildade. “*Abyssus
+abyssum invocat*” (Sl. 41, 8), o abismo da humildade invoca
 o abismo da Misericórdia infinita, das graças e dos dons
 divinos; de fato “Deus resiste aos soberbos e dá a graça aos
 humildes” (I Ped. 5, 5). Humilha-te, pois, sob a mão potente de Deus, reconhece sinceramente teu nada, toma
@@ -84,7 +84,7 @@ ama tanto subir. Ajuda-me a reconhecer e confessar humildemente meu nada e minha
 a gloriar-me de minhas enfermidades, enquanto meu orgulho
 tende continuamente a gloriar-se do que não é meu,
 mas é puro dom teu. Meu Deus, como é verdade que a santidade percorre caminho oposto ao da natureza! Dá-me a força de empreender com coragem este caminho, de ir
-em ti, ó Senhor, porque sei que estás sempre pronto a socorrer o fraco que a ti recorre e em ti se confia; porque sei
+contra a corrente lodosa e traiçoeira do meu egoísmo. Como poderei fazê-lo se Tu não me ajudares? Mas eu confio em ti, ó Senhor, porque sei que estás sempre pronto a socorrer o fraco que a ti recorre e em ti se confia; porque sei
 que, se minha soberba é grande, tua misericórdia é
 infinita e tua onipotência é invencível; porque sei que
 se “alguém está exausto e necessitado de auxílio, sem

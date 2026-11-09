@@ -1,4 +1,5 @@
 # 36 — A FORÇA DE JESUS
+
 *III domingo da Quaresma*
 
 **Presença de Deus.** — *Ó Jesus, Forte divino, venho a ti buscar apoio para minha fraqueza, para minha enfermidade.*
@@ -12,7 +13,8 @@ nos apresentou Jesus em luta contra o demônio, mas,
 enquanto então o apresentava em humilde atitude de
 defesa diante das tentações do maligno, hoje o
 mostra em atitude de ataque e de clamorosa vitória.
-Eis um pobre possesso, diz o Evangelho (Lc. 11, 14-28), que “era mudo”; Jesus, com um só ato de sua
+
+Eis um pobre possesso, diz o Evangelho (*Lc.* 11, 14-28), que “era mudo”; Jesus, com um só ato de sua
 força divina, “expulsou o demônio; e quando ele saiu,
 o mudo falou e as turbas ficaram cheias de assombro”.
 Mas o inimigo, quase para refazer-se da derrota, insinua nas
@@ -22,7 +24,7 @@ Jesus é acusado de estar endemoninhado e de ter recebido do
 demônio o poder de libertar o possesso. Mas o Senhor quer
 desmascarar até o fundo o inimigo e, com lógica cerrada,
 responde que Satanás não pode dar-lhe semelhante poder,
-do contrário Satanás se aplicaria à destruição do
+do contrário Satanás cooperaria na destruição do
 seu reino. Não, não pode ser assim: Jesus expulsa os demônios
 “com o dedo de Deus”, isto é, por virtude divina. Se Satanás
 é forte e seus satélites lutam com ele para reinar sobre o homem,
@@ -43,10 +45,10 @@ o mais forte, o único e último vencedor.
 é necessária evidentemente nossa colaboração. No Evangelho
 de hoje o próprio Jesus nos indica diversos aspectos dela.
 
-“Todo reino dividido contra si mesmo vai à ruína”; assim o Senhor afirma que a união é o segredo da vitória.
 
 
-Antes de tudo união com ele,
+
+“Todo reino dividido contra si mesmo vai à ruína”; assim o Senhor afirma que a união é o segredo da vitória. Antes de tudo união com ele,
 porque sem ele nada podemos fazer, mas depois também
 união com o próximo. Se queremos
 trabalhar pelo triunfo do bem, colaboremos - um só coração
@@ -58,10 +60,9 @@ a união. A divisão nunca levará à vitória.
 “Quem não é comigo é contra mim”, acrescenta Jesus.
 O cristianismo não admite indiferentes; quem não se alinha decididamente com Cristo, quem não trabalha com ele pela
 difusão do seu reino, por isso mesmo se opõe a ele,
-opõe-se ao bem, é inimigo de Cristo e fautor do mal.
+opõe-se ao bem, é inimigo de Cristo e fautor do mal. Omitir o bem que se poderia e deveria fazer, já é fazer o mal, é consentir no desenvolvimento do mal.
 
-Omitir o bem que se poderia e deveria fazer, já é
-fazer o mal, é consentir no desenvolvimento do mal.
+
 
 A primeira condição da vitória sobre o mal é a ativa
 colaboração na obra de Cristo, em união com os irmãos.
@@ -86,7 +87,7 @@ a Deus torna-se forte da fortaleza dele.
 
 ### Colóquio
 
-“Os meus olhos estão sempre voltados para ti, ó Deus, porque Tu podes desatar meus pés do laço do mal. Volta-te para mim e tem piedade de mim, porque sozinho e miserável estou. Guarda a minha alma e salva-me; faze que eu não tenha de corar de ter recorrido a ti” (Sl. 24, 15-20).
+“Os meus olhos estão sempre voltados para ti, ó Deus, porque Tu podes desatar meus pés do laço do mal. Volta-te para mim e tem piedade de mim, porque sozinho e miserável estou. Guarda a minha alma e salva-me; faze que eu não tenha de corar de ter recorrido a ti” (*Sl.* 24, 15-20).
 
 “Ó Trindade eterna, ó alta e eterna Trindade, Tu nos deste o doce e amoroso Verbo. Ó doce e amoroso Verbo, Filho de Deus, assim como a nossa natureza é fraca e apta a todo mal, assim a tua natureza é forte e apta a todo bem, porque a recebeste do teu eterno e onipotente Pai. Portanto Tu, doce Verbo, fortaleceste a nossa débil natureza unindo-te a ela; por essa união a nossa natureza é fortalecida, porque em virtude do teu Sangue remove-se a nossa fraqueza. E somos também fortalecidos pela tua doutrina, porque o homem que a segue na verdade, revestindo-se dela perfeitamente, torna-se tão forte e apto ao bem, que quase perde a rebelião da carne contra o espírito e pode vencer todo mal. Portanto Tu, Verbo eterno, tiraste a fraqueza da nossa natureza com a fortaleza da natureza divina, que recebeste do Pai; e essa fortaleza nos deste mediante o Sangue e a doutrina.
 
@@ -95,8 +96,8 @@ em ti ela se torna angélica, Tu a envolves de tal modo
 com o fogo da tua caridade que ela se esquece de todo de si e
 nenhuma coisa pode ver fora de ti.
 
-“Ó doutrina de verdade, tanta força dás à alma revestida de fortaleza que ela nunca desfalece, nem nas adversidades, nem nas
+“Ó doutrina de verdade, tanta força dás à alma revestida de ti que ela nunca desfalece, nem nas adversidades, nem nas
 penas ou tentações, mas em toda batalha alcança forte
 vitória. Miserável de mim, que não segui a ti,
-verdadeira doutrina, por isso sou tão fraco que em cada mínima tribulação
+verdadeira doutrina, por isso sou tão fraca que em cada mínima tribulação
 desfaleço” (S. Catarina de Sena).

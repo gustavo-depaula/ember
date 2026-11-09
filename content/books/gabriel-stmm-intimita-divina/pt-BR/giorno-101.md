@@ -64,22 +64,22 @@ natureza humana.
 
 Se por nossa fraqueza é impossível não cair
 todos os dias em alguma venialidade de surpresa ou de fragilidade,
-o importante é saber logo detestá-las e repará-las generosamente. Mas quanto aos pecados veniais advertidos, a alma
+o importante é saber logo detestá-la e repará-la generosamente. Mas quanto aos pecados veniais advertidos, a alma
 deve estar bem decidida a nunca os cometer por todo
 o ouro do mundo.
 
 ### Colóquio
 
-“Peccavi, Domine, miserere mei! Perdoa, Pai, perdoa a mim miserável ingrata. Confesso que tua bondade
+“*Peccavi, Domine, miserere mei!* Perdoa, Pai, perdoa a mim miserável ingrata. Confesso que tua bondade
 me conservou tua esposa, embora por meus defeitos
-sempre te tenha sido infiel. Peccavi, Domine, miserere mei.
+sempre te tenha sido infiel. *Peccavi, Domine, miserere mei.*
 Ó alma minha, e que fazes tu? Não sabes que continuamente
 és vista por Deus? Sabe que ao seu olhar jamais te
 podes esconder porque nenhuma coisa lhe é oculta... Ó Deus
 eterno, ó piedoso e misericordioso Pai, tem piedade e misericórdia de nós, porque somos cegos e sem nenhuma
 luz, e principalmente eu, pobre e miserável... Ó Tu,
 verdadeiro sol, entra em minha alma e ilumina-a de ti.
-Expulsa-lhe as trevas e dá-lhe luz; destrói o gelo do amor-próprio e infunde o fogo da tua caridade... Peccavi, Domine, miserere mei” (S. Catarina de Sena).
+Expulsa-lhe as trevas e dá-lhe luz; destrói o gelo do amor-próprio e infunde o fogo da tua caridade... *Peccavi, Domine, miserere mei*” (S. Catarina de Sena).
 
 “Agrade-te, ó Senhor, que eu tema apenas tua
 ofensa, convencendo-me de que me pode vir maior dano
@@ -99,7 +99,7 @@ nunca sejam fruto de má vontade. Faze que minhas faltas sirvam apenas para humi
 
 “Sim, por minha miséria caio muito frequentemente,
 frequentemente me deixo distrair da minha única ocupação,
-afasto-me de ti, molho minhas pobres asas, mal formadas,
+afasto-me de ti, molho minhas fracas asas, apenas formadas,
 nas miseráveis poças de água que encontro nesta terra! Então
 gemo como a andorinha, e meu grito te diz tudo,
 e Tu, Misericórdia infinita, te lembras de que não vieste

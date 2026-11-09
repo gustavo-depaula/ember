@@ -1,10 +1,10 @@
 # 54 — INTIMIDADE DIVINA
 
-**Presença de Deus.** — *Concede-me, ó Senhor, plena e estável intimidade Convosco, para que possa amar-Vos sempre mais.*
+**Presença de Deus.** — *Concedei-me, ó Senhor, plena e estável intimidade Convosco, para que possa amar-Vos sempre mais.*
 
 ### Meditação
 
-**1** — A alma começa a entrar no caminho da intimidade divina no dia em que, decidindo resolutamente sair de si mesma e de todas as coisas, se põe com ardor à busca de Deus vivo e presente nela. Desde este primeiro passo à intimidade profunda, que estreitará a Deus a alma chegada à união total, o caminho é longo e fatigante. Progressivamente, à medida que, sustentada pela graça, a alma se desapega de si mesma e das criaturas, à medida que se liberta das suas imperfeições, que se despoja da sua vontade revestindo-se só da vontade divina e que, deixando inflamar nela o amor, se encaminha “à doce e deleitosa união” (G.C.N. II, 16, 14), a sua intimidade com Deus se faz mais intensa e amorosa até que, chegada às alturas do amor transformante, se torna contínua e perfeita, torna-se abraço divino que estreita a criatura ao Criador. Então a grande promessa de Jesus: “se alguém Me amar... o Meu Pai o amará e Viremos a ele e faremos nele morada” *(Jo.* 14, 23), se realiza do modo mais perfeito possível na terra.
+**1** — A alma começa a entrar no caminho da intimidade divina no dia em que, decidindo resolutamente sair de si mesma e de todas as coisas, se põe com ardor à busca de Deus vivo e presente nela. Desde este primeiro passo à intimidade profunda, que estreitará a Deus a alma chegada à união total, o caminho é longo e fatigante. Progressivamente, à medida que, sustentada pela graça, a alma se desapega de si mesma e das criaturas, à medida que se liberta das suas imperfeições, que se despoja da sua vontade revestindo-se só da vontade divina e que, deixando inflamar nela o amor, se encaminha “à doce e deleitosa união” (G.C.N. II, 16, 14), a sua intimidade com Deus se faz mais intensa e amorosa até que, chegada às alturas do amor transformante, se torna contínua e perfeita, torna-se abraço divino que estreita a criatura ao Criador. Então a grande promessa de Jesus: “se alguém Me amar... o Meu Pai o amará e viremos a ele e faremos nele morada” *(Jo.* 14, 23), se realiza do modo mais perfeito possível na terra.
 
 “Não é para ter-se por coisa incrível — afirma São João da Cruz — que numa alma, já
 purgada, provada no fogo das tribulações, dos trabalhos e de várias tentações, e
@@ -19,11 +19,11 @@ Amor que toda a penetra. Mas também quando a percepção da presença e da aç�
 é tão forte e beatificante, a alma está consciente de estar profundamente unida a Deus,
 por Ele movida e governada: “Sei que [Jesus] está em mim, que é Ele que me guia e me
 inspira a cada instante”, atesta Santa Teresinha do Menino Jesus *(St.* 8). A humilde
-Santa, não tendo conhecido as grandes graças místicas, chegou também ela, não menos da
+Santa, não tendo conhecido as grandes graças místicas, chegou também ela, não menos que a
 sua grande mãe, Teresa de Jesus, àquela intimidade profunda com Deus que a alma goza no
 estado de união total.
 
-**2** — A intimidade divina, sobretudo nos seus graus mais altos, é por si mesma quanto muito gozosa e beatificante; todavia a alma enamorada não anseia a esta intimidade para gozar, mas para amar sempre mais o seu Deus, para estar a Ele totalmente unida, por Ele toda possuída, movida e governada, a fim de servi-Lo sempre melhor e dar-Lhe glória em cada sua ação. Santa Teresa de Ávila diz expressamente que o fim para o qual o Senhor Se comunica às almas e lhes faz tantas graças — até os mais altos favores místicos — não é só de “acariciá-las”, isto é, de consolá-las, mas “de fortalecer a sua fraqueza para que saibam imitar [Jesus] no muito padecer” e acrescenta com o seu habitual entusiasmo: “Este é o fim da oração; a isto tende o matrimônio espiritual: a produzir obras e obras” *(M.* VII, 4, 4 e 6).
+**2** — A intimidade divina, sobretudo nos seus graus mais altos, é por si mesma sumamente gozosa e beatificante; todavia a alma enamorada não anseia por esta intimidade para gozar, mas para amar sempre mais o seu Deus, para estar a Ele totalmente unida, por Ele toda possuída, movida e governada, a fim de servi-Lo sempre melhor e dar-Lhe glória em cada sua ação. Santa Teresa de Ávila diz expressamente que o fim para o qual o Senhor Se comunica às almas e lhes faz tantas graças — até os mais altos favores místicos — não é só de “acariciá-las”, isto é, de consolá-las, mas “de fortalecer a sua fraqueza para que saibam imitar [Jesus] no muito padecer” e acrescenta com o seu habitual entusiasmo: “Este é o fim da oração; a isto tende o matrimônio espiritual: a produzir obras e obras” *(M.* VII, 4, 4 e 6).
 
 A doçura e o gozo da intimidade com Deus, têm o fim de tornar a alma mais corajosa no
 serviço divino, mais generosa no dom de si, mais forte no levar a cruz. Sim, enquanto
@@ -41,16 +41,16 @@ sua honra, negligenciando todo o resto.” *(M.* VII, 3, 6).
 
 De todo esquecida de si, a alma amante não pensa nem no seu gozar, nem no seu padecer,
 mas pensa só em amar e em servir o seu Deus, pensa só em contribuir quanto pode para a
-sua glória, associando-se à obra redentora de Jesus. E se anseia a uma união com Deus
+sua glória, associando-se à obra redentora de Jesus. E se anseia por uma união com Deus
 sempre mais íntima e perfeita, seja hoje na terra como amanhã no céu, é para amar com a
 máxima intensidade, é para fazer amar o Amor pelo maior número possível de almas.
 
 ### Colóquio
 
 “Senhor Deus, meu Amado! Se a lembrança dos meus pecados ainda Vos retém de
-conceder-me o que Vos peço, fazei pois tendo em conta a eles, ó Deus meu, a Vossa vontade, que
+conceder-me o que Vos peço, fazei pois quanto a eles, ó Deus meu, a Vossa vontade, que
 é a coisa que eu mais desejo sobre toda outra; mas ah! usai a Vossa bondade e
-misericórdia, e no perdão deles sereis conhecido. Se depois aguardais as minhas obras
+misericórdia, e no perdão deles sereis conhecido. Se, porém, aguardais as minhas obras
 para exaudir com tal meio a minha prece, dai-me Vós estas obras, fazei-as Vós mesmo em
 mim; e se cumpra o Vosso querer nos padecimentos que de mim quiserdes aceitar. Mas se
 não aguardais as minhas obras, que mais aguardais, clementíssimo Senhor meu? e por que
@@ -62,10 +62,10 @@ quereis, e dai-me este Bem, que Vós mesmo quereis dar-me.
 de amor, ó meu Deus? Como se levantará a Vós o homem gerado na abjeção e no lodo, se
 Vós, Senhor, não o levantais com a Vossa mão com que o plasmastes? Não me tirareis, ó
 Deus meu, aquilo que uma vez me destes no Vosso unigênito Filho Jesus Cristo, no qual me
-destes tudo o que bramo; e por isto me alegrarei, seguro de que não tardareis, se eu
+destes tudo o que desejo; e por isto me alegrarei, seguro de que não tardareis, se eu
 espero.
 
-“Mas por que pondes demoras, alma minha, quando desde este momento podes amar Deus no
+“Mas por que pões demoras, alma minha, quando desde este momento podes amar Deus no
 teu coração?
 
 “Meus são os céus e minha é a terra; minhas são as gentes, os justos meus e os

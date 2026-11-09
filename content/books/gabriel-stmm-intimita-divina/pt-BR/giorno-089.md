@@ -38,20 +38,20 @@ das coisas baixas da terra, para serem totalmente empenhados
 no serviço divino.
 
 **2** — Quanto mais uma pessoa aspira a tal doação a
-Deus, quanto mais visa à união com Ele e mais sua conduta deve
+Deus, mais visa à união com Ele e mais sua conduta deve
 ser informada por uma perfeita modéstia. Modéstia do
 rosto, do andar, do gesto, do trato: “Em toda ação
-ou conversação, sê sempre modesta”, ensina Teresa d’Avila às suas filhas; e S. Teresa Margarida do Coração de
+ou conversação, sê sempre modesta”, ensina Teresa d’Ávila às suas filhas; e S. Teresa Margarida do Coração de
 Jesus “refreava e guardava de tal modo suas potências e
 seus sentidos que se guardava de todo olhar e palavra que, de
 algum modo, não tivesse relação com Deus” (Sp. p. 272). É
 a regra áurea de S. João da Cruz: usar os sentidos só
 para o serviço e a glória de Deus e para elevar o coração a Ele
-(cf. S. I, 13, 4), o que na prática quer dizer usá-los só no
+(cf. S. I, 13, 4), o que na prática quer dizer usá-los só na medida exigida pelo
 cumprimento dos próprios deveres ou para
 um honesto e justo alívio, e “o resto deixá-lo
-de lado para o Criador” (G.C. C.E. II, 38). Portanto, guardar os
-sentidos de todas aquelas coisas
+livre para o Criador” (G.C. AM II, 38). Portanto, guardar
+a vista e o ouvido de todas aquelas imagens, curiosidades e notícias
 que os entulham inutilmente, com o perigo de fazer chegar
 à alma impressões menos puras, menos santas.
 
@@ -66,16 +66,16 @@ seu interior para viver em intimidade com Deus. A modéstia,
 desviando os sentidos das coisas terrenas, concentra-os e fixa-os
 em Deus: “Faremos morrer em nós a curiosidade dos nossos olhos
 e, desviando-os de todas as coisas inúteis, os fixaremos em nós
-mesmos, nos movimentos do nosso coração e no Coração de Jesus.”
+mesmos, nos movimentos do nosso coração e no Coração de Jesus” (T.M. Sp. p. 261). Este é o valor positivo da modéstia.
 Só quem ama muito o Senhor é capaz de impor-se uma
-tão difícil decisão.
+disciplina semelhante.
 
 ### Colóquio
 
 “Faze que eu te ame ardentissimamente, ó meu Deus, auxílio
 e defesa minha e doce minha esperança! Faze que eu te abrace, ó
-Bem infinito, sem o qual não há bem algum para mim;
-faze que eu chegue a encontrar em ti minha bem-aventurança, fonte de perfeições,
+sumo Bem, sem o qual não há bem algum para mim;
+faze que eu chegue a encontrar em ti minha bem-aventurança, fonte de perfeição,
 sem o qual nada é perfeito.
 
 “Abre meus ouvidos à tua palavra, mais penetrante

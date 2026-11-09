@@ -38,7 +38,7 @@ Para muitas almas, isso basta.
 
 Há, porém, quem goste de maior variedade. Esta - que para alguns facilita muito o prolongamento do colóquio com Deus - é oferecida por outras três partes do método que, contudo, são *facultativas:*
 
-A *ação de graças,* com a qual, depois de repetir ao Senhor que O amamos, Lhe dizemos o nosso reconhecimento por todos os benefícios d’Ele recebidos e mostramos-nos agradecidos.
+A *ação de graças,* com a qual, depois de repetir ao Senhor que O amamos, Lhe dizemos o nosso reconhecimento por todos os benefícios d’Ele recebidos e mostramo-nos agradecidos.
 
 A *oferta,* com a qual, convencidos de ter recebido tanto, procuramos retribuir quanto possível, apresentando ao Senhor algum bom propósito. Coisa que, aliás, ao concluir a oração, é sempre útil fazer.
 
@@ -62,7 +62,7 @@ Depois, a alma põe-se a *refletir,* ajudando-se livremente com o texto já lido
 
 De modo espontâneo passará assim ao *colóquio* que, segundo o conceito teresiano, é o “coração”, o centro da oração mental.
 
-Por isso, especialmente aqui, as nossas meditações querem vir em auxílio das almas. Para esse fim quisemos dar aos “colóquios” uma forma bastante ampla - não obstante, a alma deles se servirá com muita liberdade, escolhendo o que corresponde à sua necessidade atual - e, para torná-los mais eficazes, compusemo-los servindo-nos de expressões vigorosas e inflamadas de almas santas e ardorosas. No entanto, muito frequentemente foi necessário reproduzir esses textos com alguma leve modificação justamente para adaptá-los melhor à forma de colóquio de tu a tu; sempre, depois, entre parênteses, indica-se a fonte.[^1] (Nota: não obstante as modificações introduzidas, para não sobrecarregar as citações, não pomos o habitual *cfr.*; usamos esta sigla somente nos casos em que os colóquios, em vez de ser tirados dos textos dos santos, são simplesmente inspirados neles.)
+Por isso, especialmente aqui, as nossas meditações querem vir em auxílio das almas. Para esse fim quisemos dar aos “colóquios” uma forma bastante ampla - não obstante, a alma deles se servirá com muita liberdade, escolhendo o que corresponde à sua necessidade atual - e, para torná-los mais eficazes, compusemo-los servindo-nos de expressões vigorosas e inflamadas de almas santas e ardorosas. No entanto, muito frequentemente foi necessário reproduzir esses textos com alguma leve modificação justamente para adaptá-los melhor à forma de colóquio de tu a tu; sempre, depois, entre parênteses, indica-se a fonte.[^1]
 
 Nestes colóquios não há só expressões de amor, mas estas se alternam com pedidos, ações de graças etc., e também com ímpetos da alma para Deus, que se concretizam em propósitos.
 
@@ -70,7 +70,7 @@ Esperamos que, assim compostas, estas meditações sirvam eficazmente para ajuda
 
 * * *
 
-A espiritualidade teresiana é a espiritualidade da intimidade divina[^2] (cf. *La spiritualità carmelitana,* Roma, Collegio S. Teresa, 1943), isto é, procura nutrir nas almas o ideal da intimidade com Deus e encaminhá-las à sua realização. Tal fim se alcança de modo especial por meio da oração mental, que, por isso, deve estar afinada com essa grande e excelsa aspiração.
+A espiritualidade teresiana é a espiritualidade da intimidade divina,[^2] isto é, procura nutrir nas almas o ideal da intimidade com Deus e encaminhá-las à sua realização. Tal fim se alcança de modo especial por meio da oração mental, que, por isso, deve estar afinada com essa grande e excelsa aspiração.
 
 E é precisamente este o “tom” que procuramos dar às nossas meditações, as quais são publicadas sob o título *Intimidade divina* justamente para indicar que o seu objetivo é ajudar o máximo possível as almas a alcançarem essa grande meta.
 
@@ -94,7 +94,7 @@ Começando a série das meditações pelo princípio do ano litúrgico, eis como
 
 *Agosto* e *Setembro* - As virtudes morais. Os dons do Espírito Santo. As bem-aventuranças.
 
-*Outubro* e *Novembro* - O apostolado. A união com Deus.[^3] (Como é dito na “Apresentação”, por desejo de muitos — para facilitar o uso da Obra — foi abolida a divisão em meses, deixando somente a ordem das semanas litúrgicas.)
+*Outubro* e *Novembro* - O apostolado. A união com Deus.[^3]
 
 * * *
 
@@ -104,7 +104,7 @@ Justamente porque a espiritualidade teresiana é a da intimidade divina, o espí
 
 O Espírito Santo, que é Espírito de Amor e se digna habitar em nossas almas para tomá-las cada vez mais sob o seu influxo e governo, queira, com “copiosíssima efusão” de graça, acender em nós o amor de caridade com o qual possamos penetrar na intimidade divina. E Maria SS.ma, Mãe do belo amor, cuja alma cheia de graça foi sempre movida pelo Espírito Santo, obtenha-nos deste divino Espírito que também nós, dóceis aos seus convites, com a ajuda de uma prática assídua e eficaz da oração mental, realizemos o belo ideal da união íntima com Deus.
 
-Pe. Gabriele de S. M. Madalena, O.C.D.
+Pe. Gabriel de S. M. Madalena, O.C.D.
 
 Roma, festa do Sagrado Coração, 1952.
 

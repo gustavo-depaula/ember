@@ -27,7 +27,7 @@ depois de terem dado tantos passos no serviço de Deus, param
 e voltam atrás, porque não têm coragem de desapegar-se dos bens terrenos. E Jesus, comentando o fato,
 dirigido aos Apóstolos, disse: “Como é difícil para quem
 confia nas riquezas entrar no reino de Deus! É mais
-fácil passar um camelo pelo fundo de uma agulha do que
+fácil passar um camelo pelo buraco de uma agulha do que
 entrar um rico no reino de Deus” (ibid., 24 e 25). Reflete
 que com essas palavras Jesus não quer falar somente de quem
 é “rico” porque possui muito, mas sobretudo de quem
@@ -44,25 +44,25 @@ a pobreza material, mas a “pobreza de espírito”, isto é, a pobreza
 dos afetos, dos apegos, mesmo os menores.
 
 S.
-João da Cruz ensina que essa pobreza é “noite para a alma”,
+João da Cruz ensina que só essa pobreza é “noite para a alma”,
 isto é, serve para fazê-la entrar na noite dos
-sentidos; de fato, a privação das coisas não despoja em
-nada, se permanece o apetite por elas; mas... [é necessária]
+sentidos, “já que a simples privação das coisas não despoja em
+nada a alma, se esta conserva o apetite por elas; mas [é necessária]
 a nudez do apetite e do gosto das coisas, a qual deixa a alma
-livre. E o Santo diz: “A alma não precisa apenas de
-poucos bens temporais, mas do pior”, e esta é a pobreza
-espiritual, “e para seguir Cristo, deve estar despida e vazia de tudo o que
+livre e vazia, ainda que as possua” (S. I, 3, 4). Por isso o Santo diz: “A alma não busque o melhor das coisas temporais,
+mas o pior”, e esta é a pobreza material, boa e também necessária dentro de certos limites, mas não suficiente; e logo depois acrescenta: “e deseje, por amor de Cristo, ser
+pobre, despida e vazia de tudo o que
 existe neste mundo” (ibid., 13, 6); é essa pobreza
-espiritual que, libertando a alma de todo afeto e apego
+espiritual que, libertando a alma de todo desejo e afeto
 aos bens terrenos, completa e dá valor à pobreza material. De fato, se depois de renunciares ao supérfluo,
 aos confortos e comodidades da vida, permaneces a eles apegado no afeto do coração, bem pouco te aproveitará tua renúncia material. “Não são as coisas deste mundo
-que danificam a alma, porque nela não entram, mas
-o desejo delas, que nela permanece”
+que ocupam ou danificam a alma, porque nela não entram, mas
+o desejo e o apetite delas, que nela habitam”
 (ibid., 3, 4).
 
 ### Colóquio
 
-Ó benigníssimo Senhor Jesus Cristo, riquíssimo em amor, nada há de mais perigoso neste mundo do que estar aceso de desejos, pois o amor das riquezas é fome insaciável,
+“Ó benigníssimo Senhor Jesus Cristo, riquíssimo em amor, aprendi pela experiência que nada há de mais penoso neste mundo do que estar aceso de desejos terrenos, pois o amor das riquezas é fome insaciável,
 a qual muito mais tortura a alma com o ardor do desejo
 do que lhe causa refrigério quando se alcança aquilo
 que se desejou.

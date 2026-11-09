@@ -4,7 +4,7 @@
 
 ### Meditação
 
-**1** — “Deus não Se dá totalmente senão àqueles que Se dão totalmente a Ele” (T.G. *Cam.* 28, 12). Deus respeita tanto a liberdade do homem que, embora deseje torná-lo participante da sua vida divina, de fato Se comunica a ele apenas na medida do seu consentimento; mas quando este consentimento é pleno, Ele não hesita em Se dar totalmente. Eis portanto que ao sim perfeito da alma, Deus responde com o “verdadeiro e inteiro sim da sua graça” (G.C.F. 3, 24).
+**1** — “Deus não Se dá totalmente senão àqueles que se dão totalmente a Ele” (T.G. *Cam.* 28, 12). Deus respeita tanto a liberdade do homem que, embora deseje torná-lo participante da sua vida divina, de fato Se comunica a ele apenas na medida do seu consentimento; mas quando este consentimento é pleno, Ele não hesita em Se dar totalmente. Eis portanto que ao sim perfeito da alma, Deus responde com o “verdadeiro e inteiro sim da sua graça” (G.C.F. 3, 24).
 
 Ao dom perfeito da vontade da parte da alma corresponde a plena comunicação da graça da
 parte de Deus; a graça é concedida em toda a sua perfeição acompanhada pelo cortejo das
@@ -30,7 +30,7 @@ toda a sua vontade. Não em vão a alma morreu para si mesma, morreu para viver 
 de Deus, para viver da sua vida, do seu amor, da sua vontade. “Estais mortos — diz São
 Paulo — e a vossa vida está escondida com Cristo em Deus” *(Col.* 3, 3).
 
-**2** — Com a sua autoridade de Doutor da Igreja, São João da Cruz declara: “Se a alma fizer o que pode da sua parte, isto é, se chegar a ser vazia e despojada de todas as coisas, é impossível que Deus deixe de fazer o que é da sua parte, isto é, de comunicar-Se a ela, pelo menos em secreto silêncio: mais impossível ainda da hipótese absurda que o raio do sol não resplandeça no céu sereno. E como o sol se levanta de manhã cedo para entrar com o seu raio em tua casa, contanto que lhe abras a janela, assim Deus entrará na alma vazia e a encherá de bens divinos” *(F.* 3, 46).
+**2** — Com a sua autoridade de Doutor da Igreja, São João da Cruz declara: “Se a alma fizer o que pode da sua parte, isto é, se chegar a ser vazia e despojada de todas as coisas, é impossível que Deus deixe de fazer o que é da sua parte, isto é, de comunicar-Se a ela, pelo menos em secreto silêncio: mais impossível ainda do que a hipótese absurda que o raio do sol não resplandeça no céu sereno. E como o sol se levanta de manhã cedo para entrar com o seu raio em tua casa, contanto que lhe abras a janela, assim Deus entrará na alma vazia e a encherá de bens divinos” *(F.* 3, 46).
 
 Há muito tempo o Senhor, Sol divino, resplandece sobre a tua alma com o raio luminoso da
 sua graça; há muito tempo Ele bate à tua porta: “Eis que estou à porta e bato” *(Ap.* 3,
@@ -53,7 +53,7 @@ em que paramos? Que coisa nos pode distrair de buscar este Senhor, como a esposa
 ruas e pelas praças?” *(M.* VI, 4, 10).
 
 O Senhor quer comunicar-Se à tua alma, quer dar-Se totalmente a ti, quer vir viver
-contigo: “Se alguém ouvir a Minha voz e abrir a porta, entrarei nele e cearei com ele e
+contigo: “Se alguém ouvir a Minha voz e abrir a porta, entrarei em sua casa e cearei com ele e
 ele Comigo” *(Ap.* 3, 20). Oh, que não percas este dom imenso por tua culpa, por tua
 negligência!
 
@@ -61,8 +61,8 @@ negligência!
 
 “Senhor do céu e da terra!... Será possível que se possa gozar-Vos tão intimamente desde
 esta vida mortal? Oh, as delícias que Vós reservais às almas que se deram todas a Vós!
-Quais ternuras! Quais suavidades! Uma só delas deveria bastar para liquefazer-nos em
-Vós. Sede bendito, Senhor! Nunca será para Vós se sofreremos perdas. Por que vias, e com
+Que ternuras! Que suavidades! Uma só delas deveria bastar para liquefazer-nos em
+Vós. Sede bendito, Senhor! Nunca será por culpa Vossa se sofrermos perdas. Por que vias, e com
 que meios nos demonstrais o Vosso amor! Com os sofrimentos, com os tormentos, com a
 Vossa morte tão dura, com a paciência com que cada dia suportais e perdoais as injúrias.
 E, como se isto não bastasse, demonstrais-no-lo ainda com os favores que concedeis à
@@ -70,7 +70,7 @@ alma que Vos ama.
 
 “Nesta vida, Senhor meu, não Vos peço senão uma coisa: ‘que me beijeis com o beijo da
 Vossa boca’. Mas fazei-o de modo que a minha vontade, ó Senhor da minha vida, Vos
-permaneça tão unida que não possa separar-se da Vossa, nem mesmo se quisesse mesmo
+permaneça tão unida que não possa separar-se da Vossa, nem mesmo se quisesse realmente
 afastar-se, cansada dessa união de amizade. Não, não haja coisa que me possa impedir, ó
 Deus e glória minha, de dizer com toda a verdade: melhor e mais deliciosa que toda coisa
 é a Vossa amizade e o Vosso amor.

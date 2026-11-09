@@ -6,7 +6,7 @@
 
 **1** — Quando se fala da vida escondida de Jesus, não se
 deve entender apenas o seu ocultar-se aos olhos dos homens,
-escondendo-lhes a sua divindade e fugindo da sua glória;
+escondendo-lhes a sua divindade e fugindo da glória deles;
 é preciso, além dessas relações externas com as criaturas,
 penetrar no segredo do seu Coração, onde — oculta a todo
 olhar humano — se desenrola outra vida escondida, muito
@@ -29,7 +29,7 @@ Margarida no seu ardente desejo de “emular pela fé, quanto
 é possível à criatura, a vida e as ações internas e
 escondidas do intelecto e da vontade, isto é, os sublimes
 conhecimentos e afetos da santíssima Humanidade de Jesus
-Cristo, unida hipostaticamente ao Verbo” (Sp. p. 374).
+Cristo, unida hipostaticamente ao Verbo” (*Sp.* p. 374).
 
 A prática da vida escondida tem, portanto, dois aspectos. O
 primeiro, negativo e predominantemente exterior, consiste em
@@ -42,10 +42,10 @@ das criaturas — e também de si mesma — tanto mais será capaz
 de viver “com Cristo em Deus”, segundo a bela expressão de
 S. Paulo: “estais mortos — isto é, mortos para o mundo e
 suas vaidades — e vossa vida está escondida com Cristo em
-Deus” (Cl. 3, 3).
+Deus” (*Cl.* 3, 3).
 
 
-**2** — “Meu Deus... agora para sempre entendo encerrar-me
+**2** — “Meu Deus... agora para sempre pretendo encerrar-me
 no vosso amabilíssimo Coração como num deserto,
 para aí fazer em Vós, convosco, por Vós, esta vida
 escondida de amor e de sacrifício”. Assim S. Teresa Margarida
@@ -59,14 +59,14 @@ ou satisfações humanas; desse ponto de vista as
 criaturas tornaram-se um nada para ela, e pode bem dizer
 que “as coisas criadas, nem suas nem alheias, já não lhe dão
 o mínimo incômodo e embaraço, como se de todo não existissem”
-(T.M. Sp. p. 373), e por isso alcançou aquela
+(T.M. *Sp.* p. 373), e por isso alcançou aquela
 soberana liberdade de espírito que lhe permite concentrar-se
-totalmente em Deus. Então sua conduta nada apresenta de
+totalmente em Deus. Exteriormente sua conduta nada apresenta de
 extraordinário; antes, o próprio cuidado de esconder-se aos
 olhos alheios muitas vezes a faz passar despercebida,
 enquanto os mais a julgam pessoa de pouca conta;
 mas, no segredo do seu coração, desenrola-se uma riquíssima
-vida interior conhecida só por Deus. Unida a Jesus, nele,
+vida interior conhecida só por Deus. Unida a Jesus,
 com ele, por ele, participa de sua vida trinitária. Isso
 significa alcançar a plenitude, o fim da vida cristã, porque
 a graça nos foi dada justamente para nos tornar participantes
@@ -88,8 +88,8 @@ A vida escondida em Deus é o grande atrativo das
 almas interiores e, para chegar a ela, elas se sentem bem
 felizes em esconder-se aos próprios olhos e aos alheios,
 fugindo de toda sombra de esplendor terreno.
-Bendito escondimento que introduz a alma na “vita abscondita cum Christo in
-Deo”!
+Bendito escondimento que introduz a alma na “*vita abscondita cum Christo in
+Deo*”!
 
 ### Colóquio
 
@@ -97,14 +97,14 @@ Deo”!
 uma tua cópia perfeita e, já que tua vida não foi senão
 vida escondida de humilhação, de amor,
 de sacrifício, assim doravante deve ser a minha; por isso,
-agora para sempre entendo encerrar-me no teu amabilíssimo
+agora para sempre pretendo encerrar-me no teu amabilíssimo
 Coração como num deserto, para aí fazer em ti, contigo,
 por ti, esta vida escondida de amor e de sacrifício... E
 visto que me inspiras ao coração fazer-me, quanto possível,
 em tudo semelhante a ti, a isso tenderão meus cuidados,
 e particularmente te imitarei naquelas virtudes que tanto agradam ao teu amabilíssimo Coração: humildade... e pureza de intenção,
 tanto no interior como no exterior, agindo sempre com espírito
-de simplicidade” (T.M. Sp. p. 324).
+de simplicidade” (T.M. *Sp.* p. 324).
 
 Ó Jesus, digna-te abrir também para mim o teu dulcíssimo
 Coração e permite-me refugiar-me nele para viver
@@ -127,5 +127,5 @@ não por meus méritos, mas pelos méritos da tua Paixão. Ó Jesus,
 faze que eu procure minha alegria, meu bem, somente nesta
 participação da tua vida interior, e que nela eu ponha toda a minha glória.
 
-E toda a minha glória esteja no íntimo, no segredo da
+Sim, toda a minha glória esteja no íntimo, no segredo da
 minha vida escondida contigo em Deus.

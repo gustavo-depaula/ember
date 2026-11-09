@@ -38,7 +38,7 @@ Para simplificar as numerosas citações dos autores carmelitas, usamos as sigla
 | Sigla | Obra |
 |-------|------|
 | CR. | Conselhos e lembranças |
-| NV. | Novissima Verba |
+| NV. | *Novissima Verba* |
 | St. | História de uma alma |
 
 ### E.T. = Irmã Isabel da Trindade

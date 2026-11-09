@@ -14,7 +14,7 @@ Elevando o homem ao plano sobrenatural, Deus não quis destruir nele aquilo que 
 
 ### Colóquio
 
-“O Senhor, se eu falasse as línguas dos homens e dos anjos, e não tivesse amor, seria apenas bronze que soa ou címbalo que retine. E se eu tivesse o dom da profecia, e conhecesse todos os mistérios e toda a ciência, e se tivesse toda a fé, a ponto de transportar montanhas, e me faltasse amor, nada seria. E se distribuísse todos os meus bens em favor dos pobres, e entregasse o meu corpo para ser queimado, e não tivesse amor, de nada me aproveitaria.
+“Ó Senhor, se eu falasse as línguas dos homens e dos anjos, e não tivesse amor, seria apenas bronze que soa ou címbalo que retine. E se eu tivesse o dom da profecia, e conhecesse todos os mistérios e toda a ciência, e se tivesse toda a fé, a ponto de transportar montanhas, e me faltasse amor, nada seria. E se distribuísse todos os meus bens em favor dos pobres, e entregasse o meu corpo para ser queimado, e não tivesse amor, de nada me aproveitaria.
 
 “Concede-me, pois, meu Deus, o amor: o amor que é paciente, benigno, que não inveja, que não se envaidece, não se ensoberbece, não é ambicioso, não é egoísta, não se irrita, não pensa o mal, mas alegra-se com a verdade, tudo sofre, tudo crê, tudo espera, tudo suporta” *(cf. 1 Cor.* 13, 1-7).
 

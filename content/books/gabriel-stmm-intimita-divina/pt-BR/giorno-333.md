@@ -16,10 +16,10 @@ Uma alma de verdadeira vida interior é por si um apóstolo, é, como diz Jesus,
 
 ### Colóquio
 
-“Meu Deus, nada é mais frio do que um cristão que não se cuida da salvação dos outros! Para dispensar-me disso não posso alegar como pretexto a pobreza. Pedro dizia: ‘Não tenho prata nem ouro’; Paulo era tão pobre que muitas vezes sofria fome. Não posso alegar minha humilde condição, porque eles também não eram nobres e não tinham pais nobres.
+“Meu Deus, nada é mais frio do que um cristão que não cuida da salvação dos outros! Para dispensar-me disso não posso alegar como pretexto a pobreza. Pedro dizia: ‘Não tenho prata nem ouro’; Paulo era tão pobre que muitas vezes sofria fome. Não posso alegar minha humilde condição, porque eles também não eram nobres e não tinham pais nobres.
 
 “Não posso sequer desculpar-me, ó Senhor, dizendo que sou ignorante, porque eles também o eram. Ainda que eu fosse escravo e fugitivo, poderia cumprir meu dever: também Onésimo era tal. Não posso objetar que sou doente, porque também Timóteo era frequentemente enfermo.
 
-“Ó Senhor, tua luz me faz compreender que também eu posso aproveitar ao próximo se cumpro meu dever. E isso farei se observo tua lei, e especialmente a lei do amor, com a qual se ensina a bondade aos que nos ofendem. Os mundanos se comovem mais pela vida boa do que pelos milagres; e tu me dizes que nada torna boa a vida mais do que a caridade e o amor do próximo. “Ajuda-me, pois, ó Senhor, a conduzir uma vida santa, a fazer obras boas, de modo que quem me observa possa dar louvor ao teu nome” (cf. São João Crisóstomo).
+“Ó Senhor, tua luz me faz compreender que também eu posso aproveitar ao próximo se cumpro meu dever. E isso farei se observo tua lei, e especialmente a lei do amor, com a qual se ensina a bondade aos que nos ofendem. Os mundanos se comovem mais pela vida boa do que pelos milagres; e tu me dizes que nada torna boa a vida mais do que a caridade e o amor do próximo. Ajuda-me, pois, ó Senhor, a conduzir uma vida santa, a fazer obras boas, de modo que quem me observa possa dar louvor ao teu nome” (cf. São João Crisóstomo).
 
 “Ó Senhor, concede-me crer com o coração, professar com a boca e pôr em prática tua palavra, para que os homens, vendo minhas boas obras, glorifiquem a ti, nosso Pai que estás nos céus, por Jesus Cristo nosso Senhor, ao qual pertence a glória pelos séculos dos séculos. Amém” (Orígenes).

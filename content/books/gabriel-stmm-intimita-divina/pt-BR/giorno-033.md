@@ -1,8 +1,8 @@
 # 33 — PAZ AOS HOMENS
 
-*29 dezembro*
+*29 de dezembro*
 
-**Presença de Deus.** — *Ponho-me aos pés de Jesus Menino para considerar no recolhimento o canto dos anjos: “Paz na terra aos homens de boa vontade” (Lc. 2, 14).*
+**Presença de Deus.** — *Ponho-me aos pés de Jesus Menino para considerar no recolhimento o canto dos anjos: “Paz na terra aos homens de boa vontade”* (Lc. 2, 14).
 
 ### Meditação
 
@@ -15,18 +15,18 @@ reparando a ofensa do pecado, Ele pacifica o homem com o seu Criador e estabelec
 Algo semelhante se verifica na nossa vida cotidiana: quem observa a lei divina goza a paz; mas podemos também dizer: quem observa a lei divina dá glória a
 Deus. À paz dos homens corresponde perfeitamente a
 glória de Deus. Trata-se, porém, daquela paz que vem só de
-Deus, da sua graça, e que em vão buscaríamos em outro lugar.
+Jesus, da sua graça, e que em vão buscaríamos em outro lugar.
 
 “A paz é a tranquilidade da ordem.” A ordem é estabelecida pela lei, pela vontade divina: quem respeita plenamente
-a lei possui a plenitude da paz interior; quem se
+esta ordem possui a plenitude da paz interior; quem se
 afasta, ainda que pouco, desta ordem perde em proporção a sua paz. A paz é o refrigério, o repouso da
 alma no meio das lutas e dores da vida; mas não
-só por isso devemos esforçar-nos por conquistá-la e possuí-la,
+só por isso devemos esforçar-nos por possuí-la,
 devemos querê-la sobretudo porque a ela corresponde a glória de Deus.
 
-**2** — Os anjos prometem a paz “aos homens de boa vontade”. A vontade é “boa” quando é reta, dócil, decidida. *Reta*, isto é, orientada sincera e totalmente para o bem. *Dócil*, sempre disposta a seguir toda indicação da vontade divina. *Decidida*, pronta a aderir à vontade de Deus, mesmo quando se interpõem obstáculos e dificuldades e se exigem sacrifícios. Através das circunstâncias da vida, ainda as mais minutas, o Senhor continuamente nos solicita à generosidade, à abnegação: é preciso dar-nos sem hesitação, seguros de que, se Deus pede, concederá também a força para executar. Tal foi a conduta dos pastores: logo que ouviram o anúncio do Anjo deixaram tudo, rebanho e descanso, “foram depressa e encontraram... o Menino deitado na manjedoura” *(Lc.* 2, 16). Foram os primeiros a encontrar Jesus e a saborear a sua paz.
+**2** — Os anjos prometem a paz “aos homens de boa vontade”. A vontade é “boa” quando é reta, dócil, decidida. *Reta*, isto é, orientada sincera e totalmente para o bem. *Dócil*, sempre disposta a seguir toda indicação da vontade divina. *Decidida*, pronta a aderir à vontade de Deus, mesmo quando se interpõem obstáculos e dificuldades e se exigem sacrifícios. Através das circunstâncias da vida, ainda as mais miúdas, o Senhor continuamente nos solicita à generosidade, à abnegação: é preciso dar-nos sem hesitação, seguros de que, se Deus pede, concederá também a força para executar. Tal foi a conduta dos pastores: logo que ouviram o anúncio do Anjo deixaram tudo, rebanho e descanso, “foram depressa e encontraram... o Menino deitado na manjedoura” *(Lc.* 2, 16). Foram os primeiros a encontrar Jesus e a saborear a sua paz.
 
-Santa Teresa de Jesus diz: “A santa paz consiste em conformar-se em tudo à vontade de Deus, de modo que entre Deus e a alma não haja divisão alguma e não reine entre eles senão uma só vontade, não a palavras e a desejos, mas a obras. A alma, quando sabe que uma certa coisa é de melhor serviço ao seu Esposo, não escuta mais nada, nem as razões do intelecto, nem os temores..., mas deixa agir a fé, sem cuidar do próprio repouso e interesse” *(P.* 3, 1). Esta é a perfeita “boa vontade”. Maria e José são o modelo insuperável dela: apesar da obscuridade do mistério e dos sacrifícios, aderiram com total abandono ao plano divino e tiveram a alegria suprema de acolher o Rei dos céus entre os seus braços. À máxima boa vontade corresponde a máxima união com Deus, a paz e a alegria.
+Santa Teresa de Jesus diz: “A santa paz consiste em conformar-se em tudo à vontade de Deus, de modo que entre Deus e a alma não haja divisão alguma e não reine entre eles senão uma só vontade, não em palavras e desejos, mas em obras. A alma, quando sabe que uma certa coisa é de melhor serviço ao seu Esposo, não escuta mais nada, nem as razões do intelecto, nem os temores..., mas deixa agir a fé, sem cuidar do próprio repouso e interesse” *(P.* 3, 1). Esta é a perfeita “boa vontade”. Maria e José são o modelo insuperável dela: apesar da obscuridade do mistério e dos graves sacrifícios, aderiram com total abandono ao plano divino e tiveram a alegria suprema de acolher o Rei dos céus entre os seus braços. À máxima boa vontade corresponde a máxima união com Deus, a paz e a alegria.
 
 ### Colóquio
 

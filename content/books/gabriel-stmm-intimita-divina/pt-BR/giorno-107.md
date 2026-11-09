@@ -4,10 +4,10 @@
 
 ### Meditação
 
-**1** — Entre todas as criaturas de que gostamos de comprazer-nos
+**1** — Entre todas as criaturas em que gostamos de comprazer-nos
 e para as quais nossa natureza se sente muito inclinada, o
 nosso eu ocupa sem dúvida o primeiro lugar. Não há pessoa,
-ainda pouco dotada de dons e qualidades, que não ame
+por pouco dotada que seja de dons e qualidades, que não ame
 a própria excelência e não procure de algum modo
 fazê-la brilhar aos próprios olhos e aos dos outros. Aliás,
 para tal fim somos muitas vezes espontaneamente levados a
@@ -67,13 +67,13 @@ o santo, que recebeu tantos favores e luzes divinas,
 que já chegou ao heroísmo das virtudes, não pode fazer o menor
 ato virtuoso sem o auxílio da graça atual. Isso
 te diz quão grande deve ser tua dependência de
-Deus. Estás portanto bem longe da verdadeira humildade
+Deus. Estás portanto bem longe da verdade
 se, confiando em tua ciência ou em teu longo exercício de vida espiritual, crês que tuas luzes ou virtudes te são suficientes
 para agir como bom cristão. Não, admoesta-te S. Paulo,
-“sufficientia nostra ex Deo est”, nossa suficiência vem
+“*sufficientia nostra ex Deo est*”, nossa suficiência vem
 de Deus (II Cor. 3, 5). Sem Deus não podes nem pensar,
 nem dizer, nem querer bem algum, “pois é Deus quem opera em
-nós tanto o querer como o agir segundo seu beneplácito”
+nós tanto o querer como o agir com boa vontade”
 (Fil. 2, 13).
 
 De teu, portanto, conatural à tua natureza limitada
@@ -92,7 +92,7 @@ reconhecendo que eu por mim mesma não sou, mas que todo
 o ser e a bondade que há em mim vêm unicamente de ti.
 Mostra-me meus defeitos, para que eu saiba detestar minha
 malícia e assim fugirei do amor-próprio e me encontrarei vestida
-da veste da divina caridade, a qual é necessária
+da veste branca da divina caridade, a qual é necessária
 para ser admitida às núpcias da vida eterna” (S. Catarina de Sena).
 
 “Faze, ó meu Deus, que eu aprenda a conhecer-me
@@ -124,5 +124,5 @@ mais te comprazerás em ser meu Tudo. Tu o tudo,
 e eu o nada; Tu Aquele que é, e eu aquele que não é!
 Glorifica-te, pois, no meu nada! Neste nada triunfe
 teu amor e tua graça, mas triunfe também tua misericórdia,
-porque sou um nada que pecou. Peccavi,
-Domine, miserere mei!
+porque sou um nada que pecou. *Peccavi,
+Domine, miserere mei!*

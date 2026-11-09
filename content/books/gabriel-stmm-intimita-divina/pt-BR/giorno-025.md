@@ -14,7 +14,7 @@ sentido, a vida interior é a alma do apostolado; uma ação realmente eficaz, e
 almas, pode proceder só de quem vive intimamente unido
 a Deus. O próprio Jesus o proclamou: “Como o ramo não
 pode dar fruto por si mesmo, se não permanecer na
-videira, assim também vós, se não permanecerdes em mim” (Jo. 15, 4).
+videira, assim também vós, se não permanecerdes em mim” *(Jo.* 15, 4).
 
 A união com Deus, a união com Jesus é a condição
 preliminar e indispensável para a eficácia de qualquer atividade apostólica. Esta união se realiza por meio da
@@ -22,7 +22,7 @@ graça santificante, cresce com o uso fervoroso dos sacramentos, com a prática 
 diretamente e fortalece-se na oração, consolida-se e
 conserva-se através do recolhimento e do desapego. Quanto mais
 a união com Deus aumenta, mais a ação que dela brota levará fruto para as almas. Uma atividade apostólica puramente
-externa; isto é, que pretendesse — ainda que por motivo da urgência das obras — descuidar dos exercícios da vida
+externa, isto é, que pretendesse — ainda que por motivo da urgência das obras — descuidar dos exercícios da vida
 interior, da oração e da busca da união com Deus, se
 condenaria a permanecer, por si mesma, infecunda.
 
@@ -35,16 +35,16 @@ zombarias, insucessos etc. O apóstolo deve ir
 ao encontro de tudo isso com coração generoso, convencido de que
 justamente do sacrifício, abraçado em união com Jesus crucificado, brotará a força fecundadora das suas obras. Além disso,
 o apostolado externo, para ser verdadeiramente sobrenatural,
-exige retidão de intenção: isto é, as obras devem ser realizadas só para a glória de Deus, de modo
+exige *retidão de intenção*: isto é, as obras devem ser realizadas *só* para a glória de Deus, de modo
 conforme à vontade de Deus, em dependência dos superiores
 do próprio Instituto e da Hierarquia eclesiástica. Para chegar a tal pureza de intenção, o apóstolo deve, dia
 após dia, morrer para o seu amor-próprio,
 para a vanglória,
-para a tendência de atrair os louvores alheios ou de compraz-se nos
-sucessos, para as suas vistas e iniciativas pessoais, para os seus interesses. Trata-se, portanto, de uma verdadeira imolação do eu,
+para a tendência de atrair os louvores alheios ou de comprazer-se nos
+sucessos, para as suas vistas e iniciativas pessoais, para os seus interesses. Trata-se, portanto, de uma verdadeira imolação do *eu*,
 que dará frutos de apostolado na proporção da sua profundidade. “Se o grão de trigo, caído na terra,
 não morre, fica só; mas se morre, produz muito fruto”
-(Jo. 12, 24-25).
+*(Jo.* 12, 24-25).
 
 ### Colóquio
 
@@ -81,7 +81,7 @@ de intenção que deve animar todo verdadeiro apostolado!
 Quantas vezes creio ser movido pelo zelo da tua
 glória e pelo bem das almas e talvez, ao contrário, sou
 movido, ao menos em grande parte, pelo meu orgulho que quer
-realizar aquelas obras, porque nelas encontra
+aquela iniciativa, aquelas obras, porque nelas encontra
 um desabafo para a sua natural tendência à atividade,
 para a sua escondida ânsia de se fazer ver, de se fazer valer, para o desejo
 de aplausos, de sucessos. E não é justamente por tais motivos

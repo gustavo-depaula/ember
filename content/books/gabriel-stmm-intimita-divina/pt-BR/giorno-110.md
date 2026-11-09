@@ -30,13 +30,13 @@ dizia S. Teresa de Jesus - sem ver ao mesmo tempo que
 ainda era pouco. Se me acusavam falsamente sobre um
 ponto, eu via que havia ofendido o Senhor sobre muitos
 outros e que me faziam grande caridade em não falar deles”
-(Cam. 15, 3).
+(*Cam.* 15, 3).
 
 “Tem, pois, paciência nas tuas humilhações, porque,
 como no fogo se prova o ouro, assim o homem no crisol
-da humilhação” (cf. Ecli. 2, 4 e 5). Se sentes o peso do
+da humilhação” (cf. *Ecli.* 2, 4 e 5). Se sentes o peso do
 teu orgulho e desejas de verdade libertar-te dele, aceita
-todas as humilhações e por meio delas o Senhor quebrará teu orgulho.
+em paz as humilhações e por meio delas o Senhor quebrará teu orgulho.
 
 
 **2** — Mais do que procurar humilhações por tua iniciativa,
@@ -56,14 +56,14 @@ os que aceitam a humilhação e a ela se submetem com
 paciência.
 
 De que te vale receber humilhações se, em vez de aceitá-las,
-reages e as repele com ressentimento,
+reages e as repeles com ressentimento,
 com despeito, e te indignas contra quem tas proporciona?
 
 Certamente, a humilhação não pode ser agradável à nossa
 natureza orgulhosa e suscetível; no entanto, mesmo sentindo
 a amargura dela, deves esforçar-te por aceitá-la de boa vontade,
-repetindo em teu coração: bom para mim, ó Senhor, que fui
-humilhado. Se, apesar de todas as repugnâncias e ressentimentos
+repetindo em teu coração: bom para mim, ó Senhor, que me
+humilhaste. Se, apesar de todas as repugnâncias e ressentimentos
 da natureza, com um ato de vontade te submetes à humilhação e protestas a Deus que queres estar contente com ela e
 queres saboreá-la até o fundo, pouco a pouco te tornarás humilde. Pouco a pouco o pão duro e amargo
 das humilhações tornar-se-á doce e suave para ti; mas a esta
@@ -71,18 +71,18 @@ suavidade só se chega depois de longo exercício,
 porque, de resto, o que mais conta não é a suavidade,
 mas a vontade de aceitar tudo o que nos
 humilha. “Deixa-te instruir, deixa-te comandar, deixa-te sujeitar e
-serás perfeito” (G.C. C.E. II, 33).
+serás perfeito” (G.C. *AM.* II, 33).
 
 ### Colóquio
 
 “Ó Senhor, que injúria se poderá jamais fazer a uma
 pessoa como eu, que mereceu ser atormentada pelos
-demônios por toda a eternidade? Se me tratam mal neste mundo, não é talvez com justiça? Verdadeiramente, ó Senhor,
+demônios por toda a eternidade? Se me tratam mal neste mundo, não é porventura com justiça? Verdadeiramente, ó Senhor,
 eu, sob este aspecto, não tenho propriamente nada a
-oferecer-te... Reconheço-me tão culpado diante de ti que vejo que aqueles que me
+oferecer-te... Reconheço-me tão culpada diante de ti que vejo que aqueles que me
 injuriam ainda me tratam bem demais, quando,
 por não conhecerem quem sou, como Tu me conheces,
-creem ofender-me” (T.G. Cam. 36, 2).
+creem ofender-me” (T.G. *Cam.* 36, 2).
 
 Meu Deus, é bem verdade! a única coisa que a mim,
 pecador, me cabe de direito é a humilhação, a injúria, o desprezo.

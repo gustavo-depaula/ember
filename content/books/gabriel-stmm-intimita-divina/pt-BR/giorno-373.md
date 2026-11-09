@@ -4,9 +4,9 @@
 
 ### Meditação
 
-**1** — O sim perfeito deu a Deus toda a vontade do homem, colocando-a completamente sob a influência movente do querer divino; contudo nele há ainda algo que tenta escapar ao governo da vontade de Deus, e é a sensibilidade que, em consequência da desordem produzida pelo pecado original, muito dificilmente se sujeita ao espírito. Portanto, enquanto a alma, segundo a vontade, está de todo conformada e unida ao querer divino, a sensibilidade vai ainda um pouco por sua conta, atraindo os afetos, suscitando às vezes repugnâncias e lutas que podem tornar fatigante o contínuo aderir à vontade de Deus e perturbar a paz da alma. Precisamente por causa da sensibilidade, a alma pode ir ainda sujeita a impressões, a emoções um pouco demasiado vivas que, não conseguindo dominá-las de todo, a expõem, às vezes, a cometer alguma falta por inadvertência e fragilidade. Não é sequer excluído que o demônio se valha destes movimentos da parte sensível para agredir a alma e tentar barrar-lhe o passo ou, até mesmo, fazê-la voltar atrás, o que, infelizmente, enquanto estamos nesta vida é sempre possível. A alma sofre destas dificuldades e, vendo como tudo isto pode perturbar a sua união com Deus, que deseja quanto mais intensa e perfeita, suspira ardentemente por ser libertada. Só Deus pode restabelecer no homem a harmonia rompida pelo pecado original. Ele não recusa esta última graça a quem Lhe é deveras fiel e a concede por meio de uma união mais íntima e completa com Ele, mediante a qual, quase possessando-se da alma, a domina toda com o seu potente influxo. Esta é a *união total*, chamada pelos místicos “matrimônio espiritual”, o último grau de união com Deus possível nesta terra.
+**1** — O sim perfeito deu a Deus toda a vontade do homem, colocando-a completamente sob a influência movente do querer divino; contudo nele há ainda algo que tenta escapar ao governo da vontade de Deus, e é a sensibilidade que, em consequência da desordem produzida pelo pecado original, muito dificilmente se sujeita ao espírito. Portanto, enquanto a alma, segundo a vontade, está de todo conformada e unida ao querer divino, a sensibilidade vai ainda um pouco por sua conta, atraindo os afetos, suscitando às vezes repugnâncias e lutas que podem tornar fatigante o contínuo aderir à vontade de Deus e perturbar a paz da alma. Precisamente por causa da sensibilidade, a alma pode ainda estar sujeita a impressões, a emoções um pouco demasiado vivas que, não conseguindo dominá-las de todo, a expõem, às vezes, a cometer alguma falta por inadvertência e fragilidade. Não é sequer excluído que o demônio se valha destes movimentos da parte sensível para agredir a alma e tentar barrar-lhe o passo ou, até mesmo, fazê-la voltar atrás, o que, infelizmente, enquanto estamos nesta vida é sempre possível. A alma sofre destas dificuldades e, vendo como tudo isto pode perturbar a sua união com Deus, que deseja sumamente intensa e perfeita, suspira ardentemente por ser libertada. Só Deus pode restabelecer no homem a harmonia rompida pelo pecado original. Ele não recusa esta última graça a quem Lhe é deveras fiel e a concede por meio de uma união mais íntima e completa com Ele, mediante a qual, quase apossando-se da alma, a domina toda com o seu potente influxo. Esta é a *união total*, chamada pelos místicos “matrimônio espiritual”, o último grau de união com Deus possível nesta terra.
 
-Oh, com quanto ardor a alma amante anseia a este sublime estado em que poderá dar-se
+Oh, com quanto ardor a alma amante anseia por este sublime estado em que poderá dar-se
 inteiramente a Deus, poderá ser por Ele de todo possuída e dirigida, sem ser
 importunada pela turbulência da sensibilidade!
 
@@ -18,7 +18,7 @@ potências. Isto depende de uma mútua doação perfeita de Deus à alma e da al
 Deus Se dá à alma quase sobre esta posse, estabelecendo-Se nela como princípio movente
 não só da sua vontade, mas de todo o seu ser, tomando a direção de toda a sua vida e
 inspirando-a em tudo o que faz. Isto é o resultado de um influxo mais intenso dos dons
-do Espírito Santo, que redundam em todas as faculdades da alma e até na parte sensível
+do Espírito Santo, que redunda em todas as faculdades da alma e até na parte sensível
 que fica, assim, completamente sujeita ao espírito. De tal modo a alma possui o seu Deus
 como Aquele que a vivifica, a move, a governa; possui-O como seu princípio de vida, como
 seu sustento, sua força, seu tudo; espontaneamente exclama com São Paulo: “Já não sou eu
@@ -43,11 +43,11 @@ que não poupam fadigas e sacrifícios para dar-se inteiramente a Deus.
 intimidade! Como é primoroso o Vosso banquete! Como é delicioso o vinho que me dais! Uma
 só gota me faz esquecer toda coisa, sair das criaturas e de mim mesma, rejeitar os
 prazeres e as satisfações que até agora a minha sensualidade reclamou. Esta graça é
-assaz grande e eu sou indigno dela.
+assaz grande e eu sou indigna dela.
 
 “Estejam pois os mundanos com os seus domínios, com as suas riquezas, com os seus
 prazeres, com as suas honras e com os seus banquetes! A felicidade que estas coisas
-procuram não chegaria nem em mil anos a equiparar o contentamento de que goza a alma num
+proporcionam não chegaria nem em mil anos a equiparar o contentamento de que goza a alma num
 só instante depois que Vós, ó Senhor, a elevastes a este estado.
 
 “Não, não vejo possível pôr em comparação as baixezas da terra com delícias tão suaves

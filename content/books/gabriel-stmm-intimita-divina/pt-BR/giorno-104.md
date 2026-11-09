@@ -58,10 +58,10 @@ os pontos fracos do penitente e portanto de sugerir-lhe os remédios mais aptos,
 à confissão está ligada a direção. Mas ainda mais
 que da acusação, a alma deve preocupar-se com a dor dos
 próprios pecados enquanto são ofensa de Deus, Bondade infinita;
-que seja uma dor ex amore, proveniente do amor,
+que seja uma dor *ex amore*, proveniente do amor,
 isto é, o arrependimento do filho que, mais do que pensar
 na sua vergonha e nos castigos merecidos, se aflige pelo
-desgosto dado a um Pai que tanto o ama e de cujo
+desgosto dado a um Pai que tanto o ama e cujo
 amor deve retribuir. A dor é tão necessária
 para a validade do sacramento que, se faltasse,
 a absolvição seria nula e, por outro lado, quanto mais perfeita

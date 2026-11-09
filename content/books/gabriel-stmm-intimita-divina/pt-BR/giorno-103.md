@@ -54,11 +54,11 @@ dominante; luta importantíssima, porque, mirando destruir o mal na sua raiz, ve
 eliminar tantas faltas atuais.
 
 Quando depois a alma já não tem de reprovar-se pecados e imperfeições propriamente deliberados, deve dirigir
-sua atenção para os semideliberados,
+sua atenção para os parcialmente advertidos,
 dos quais, embora tendo uma semiconsciência ou consciência confusa, ainda não consegue libertar-se, apesar de sinceros e repetidos propósitos
 de corrigir-se. Nestes casos, além de continuar a combater contra as raízes das próprias faltas, é muito
 útil fortalecer sempre mais o propósito de vencer-se, porque
-à medida em que a vontade está decidida a corrigir-se,
+à medida que a vontade está decidida a corrigir-se,
 as faltas que ainda escapam perdem voluntariedade e
 assim se tornam cada vez mais leves, aliás muitas vezes não são
 senão resíduos puramente naturais de hábitos contraídos,
@@ -94,7 +94,7 @@ tanto os que espontaneamente cometi, como
 os que, com tua ajuda, não cometi” (S. Agostinho).
 
 Ó meu Deus, que com um só ato da tua vontade
-criaste a luz e a luz foi, repete sobre mim tua onipotente palavra criadora: “*fiat* lux”, e se fará luz na
+criaste a luz e a luz foi, repete sobre mim tua onipotente palavra criadora: “*fiat lux*”, e se fará luz na
 minha alma, e na tua luz poderei ver-me tal como realmente
 sou aos teus olhos. Mas a luz não basta para mim, tão
 fraco e débil; tenho necessidade de força, ó Senhor; tenho necessidade
