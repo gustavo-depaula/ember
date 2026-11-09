@@ -24,6 +24,10 @@
 		"en-US": "Pray slowly after receiving Holy Communion or during a visit to the Blessed Sacrament. Each invocation is a petition — let each one sink in before moving to the next.",
 		"pt-BR": "Reze devagar após receber a Sagrada Comunhão ou durante uma visita ao Santíssimo Sacramento. Cada invocação é uma petição — deixe cada uma penetrar antes de passar para a próxima."
 	},
+	"source": {
+		"en-US": "Portuguese text: Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=197&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=197&section2=)"
+	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
 	"tags": [
@@ -57,7 +61,7 @@
 				"type": "prayer",
 				"inline": {
 					"en-US": "Soul of Christ, sanctify me.\nBody of Christ, save me.\nBlood of Christ, inebriate me.\nWater from the side of Christ, wash me.\nPassion of Christ, strengthen me.\nO good Jesus, hear me.\nWithin Thy wounds hide me.\nPermit me not to be separated from Thee.\nFrom the malignant enemy defend me.\nIn the hour of my death call me,\nand bid me come to Thee,\nthat with Thy saints I may praise Thee\nforever and ever. Amen.",
-					"pt-BR": "Alma de Cristo, santificai-me.\nCorpo de Cristo, salvai-me.\nSangue de Cristo, embriagai-me.\nÁgua do lado de Cristo, lavai-me.\nPaixão de Cristo, confortai-me.\nÓ bom Jesus, escutai-me.\nNas Vossas chagas escondei-me.\nNão permitais que me separe de Vós.\nDo maligno defendei-me.\nNa hora da minha morte chamai-me\ne mandai-me vir a Vós,\npara que com os Vossos santos Vos louve\npelos séculos dos séculos. Amém.",
+					"pt-BR": "Alma de Cristo, santificai-me.\nCorpo de Cristo, salvai-me.\nSangue de Cristo, inebriai-me.\nÁgua do lado de Cristo, lavai-me.\nPaixão de Cristo, confortai-me.\nÓ bom Jesus, ouvi-me.\nDentro das vossas chagas, escondei-me.\nNão permitais que me separe de Vós.\nDo espírito maligno, defendei-me.\nNa hora da minha morte, chamai-me.\nE mandai-me ir para Vós,\npara que vos louve com os vossos Santos,\npor todos os séculos dos séculos. Amém.",
 					"la": "Anima Christi, sanctifica me.\nCorpus Christi, salva me.\nSanguis Christi, inebria me.\nAqua lateris Christi, lava me.\nPassio Christi, conforta me.\nO bone Iesu, exaudi me.\nIntra tua vulnera absconde me.\nNe permittas me separari a te.\nAb hoste maligno defende me.\nIn hora mortis meae voca me.\nEt iube me venire ad te.\nUt cum sanctis tuis laudem te\nin saecula saeculorum. Amen."
 				}
 			},
