@@ -40,3 +40,16 @@ Worst, verified in the corpus:
 3. Copy the litanies (Sacred Heart, Holy Name, Loreto, St Joseph, Saints, Precious Blood) whole from one Brazilian prayer book.
 4. Respell the Portuguese-from-Portugal Divinum Officium texts in Brazilian norms, or replace them with the Brazilian Liturgia das Horas and Lecionário texts.
 5. Fix the severity 3–4 grammar and register slips: *tu* mixed with *vós*, missing crases, "digneis" without "Vos".
+
+## Status (2026-11-09)
+
+The findings above have been worked through practice by practice. Each traditional text was copied word for word from a Brazilian source and that source was added to the practice's manifest. The sources are mostly Opus Dei's Brazilian *Devocionário*, with Brazilian dioceses, Canção Nova, Paulus's *Liturgia Diária das Horas* and misericordia.org.br. Texts with no Brazilian form were edited for grammar, register and spelling. No `la` or `en-US` text was changed.
+
+Many of the "received forms" in the findings were misremembered by the model that wrote them. Where the corpus already matched its Brazilian source, the source wins.
+
+Still open:
+- No Brazilian source found yet for: the three o'clock prayer itself (*Diário* 1319), the Litany of the Saints as a whole, the Loreto collect *Concede nos famulos*, the Alma Redemptoris Mater, Pange lingua stanzas 1–4 and the Adoro te (the Opus Dei pages have them, but the fetch tool would not quote hymns), the Sacred Heart daily offering, the Suscipe, Ave Maris Stella, Ave Verum, the Byzantine texts (no Brazilian Melkite or Ukrainian edition online), and the old Confiteor and Retribuere of the Little Office.
+- Sources that print an error, kept as printed: the Opus Dei Athanasian Creed (vv. 5, 21, 29), "a Vós temos de dar graças" in the Trisagion, "por palavras e obras" in the Confiteor, and "havia prometido" in the Act of Hope. Small typo fixes were made against the source in the Opus Dei prayer cards, St Ambrose, Psalm 50 and the Via Sacra.
+- The Requiem follows the Opus Dei funeral-rite form, "Dai-lhes, Senhor, o repouso eterno e brilhe para eles a vossa luz". The Preces, the responsories and the Lux aeterna keep their own sourced forms.
+- The Litany of the Sacred Heart, the Litany of the Holy Name and the Litany of the Precious Blood come from apostolate and blog pages, not diocesan ones.
+- The English of some prayers is shorter than the received Brazilian texts: Leo XIII's prayer in the St Joseph novena, and the Act of Reparation.

@@ -36,6 +36,10 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
+	"source": {
+		"en-US": "Portuguese text: Felipe Aquino, *O que são as Indulgências?* (Cléofas), as transcribed by Canção Nova — [blog.cancaonova.com](https://blog.cancaonova.com/felipeaquino/2020/11/26/obras-e-oracoes-indulgenciadas/)",
+		"pt-BR": "Felipe Aquino, *O que são as Indulgências?* (Cléofas), transcrito pela Canção Nova — [blog.cancaonova.com](https://blog.cancaonova.com/felipeaquino/2020/11/26/obras-e-oracoes-indulgenciadas/)"
+	},
 	"flow": "flow.json",
 	"tags": [
 		"contrition",

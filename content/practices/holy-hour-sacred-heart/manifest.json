@@ -1,6 +1,10 @@
 {
   "id": "holy-hour-sacred-heart",
   "icon": "sacred-heart",
+  "source": {
+    "en-US": "Portuguese text of “Graças e louvores…”: Diocese de São Carlos, *Momento Eucarístico Vocacional* (2021) — [diocesesaocarlos.org.br](https://diocesesaocarlos.org.br/wp-content/uploads/2021/04/momento-eucaristico-vocacional-2021.pdf)",
+    "pt-BR": "“Graças e louvores…”: Diocese de São Carlos, *Momento Eucarístico Vocacional* (2021) — [diocesesaocarlos.org.br](https://diocesesaocarlos.org.br/wp-content/uploads/2021/04/momento-eucaristico-vocacional-2021.pdf)"
+  },
   "name": {
     "en-US": "Holy Hour of the Sacred Heart",
     "pt-BR": "Hora Santa do Sagrado Coração"

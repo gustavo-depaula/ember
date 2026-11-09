@@ -13,6 +13,10 @@
     "en-US": "A traditional little office in honour of The Holy Office of the Serotina.",
     "pt-BR": "As orações vespertinas agostinianas pela comunidade e pelos benfeitores, vivos e falecidos."
   },
+  "source": {
+    "en-US": "Portuguese text: Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=200&section2=) (Dai-lhes, Senhor, o repouso eterno) and [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=198&section2=) (Nós Vos adoramos, ó Cristo, from the Via Sacra)",
+    "pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=200&section2=) (Dai-lhes, Senhor, o repouso eterno) e [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=198&section2=) (Nós Vos adoramos, ó Cristo, da Via Sacra)"
+  },
   "flowMode": "scroll",
   "completion": "flow-end",
   "flow": "flow.json",

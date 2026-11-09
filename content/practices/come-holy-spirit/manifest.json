@@ -6,13 +6,17 @@
 		"pt-BR": "Vinde, Espírito Santo",
 		"la": "Veni, Sancte Spiritus"
 	},
+	"source": {
+		"en-US": "Portuguese text: Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=194&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=194&section2=)"
+	},
 	"flow": {
 		"sections": [
 			{
 				"type": "prayer",
 				"inline": {
 					"en-US": "Come, Holy Spirit, fill the hearts of Thy faithful,\nand kindle in them the fire of Thy love.",
-					"pt-BR": "Vinde Espírito Santo, enchei os corações dos vossos fiéis\ne acendei neles o fogo do Vosso Amor.",
+					"pt-BR": "Vinde, Espírito Santo, enchei os corações dos vossos fiéis\ne acendei neles o fogo do vosso amor.",
 					"la": "Veni, Sancte Spiritus, reple tuorum corda fidelium,\net tui amoris in eis ignem accende."
 				}
 			},
@@ -22,7 +26,7 @@
 					{
 						"v": {
 							"en-US": "Send forth Thy Spirit and they shall be created.",
-							"pt-BR": "Enviai o Vosso Espírito e tudo será criado.",
+							"pt-BR": "Enviai o vosso Espírito e tudo será criado.",
 							"la": "Emitte Spiritum tuum et creabuntur."
 						},
 						"r": {
@@ -37,7 +41,7 @@
 				"type": "prayer",
 				"inline": {
 					"en-US": "Let us pray. O God, Who by the light of the Holy Spirit\ndidst instruct the hearts of the faithful,\ngrant us by the same Spirit to have a right judgment in all things,\nand evermore to rejoice in His consolation.\nThrough Christ our Lord. Amen.",
-					"pt-BR": "Oremos: Ó Deus que instruíste os corações dos vossos fiéis,\ncom a luz do Espírito Santo,\nfazei que apreciemos retamente todas as coisas segundo o mesmo Espírito\ne gozemos da sua consolação.\nPor Cristo Senhor Nosso. Amém.",
+					"pt-BR": "Oremos. Ó Deus, que instruístes os corações dos vossos fiéis\ncom a luz do Espírito Santo,\nconcedei-nos amar, no mesmo Espírito, o que é reto\ne gozar sempre a sua consolação.\nPor Jesus Cristo, Nosso Senhor. Amém.",
 					"la": "Oremus. Deus, qui corda fidelium Sancti Spiritus illustratione docuisti,\nda nobis in eodem Spiritu recta sapere,\net de eius semper consolatione gaudere.\nPer Christum Dominum nostrum. Amen."
 				}
 			}

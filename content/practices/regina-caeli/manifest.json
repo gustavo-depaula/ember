@@ -25,6 +25,10 @@
 		"en-US": "Prayed three times daily during Eastertide, standing (not kneeling) as a sign of Resurrection joy, in place of the Angelus. The prayer consists of the antiphon, a versicle and response, and a collect.",
 		"pt-BR": "Rezada três vezes ao dia durante o tempo pascal, de pé (não ajoelhado) como sinal da alegria da Ressurreição, no lugar do Angelus. A oração consiste na antífona, um versículo e resposta, e uma oração colecta."
 	},
+	"source": {
+		"en-US": "Portuguese text: Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=195&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=195&section2=)"
+	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
 	"tags": [
@@ -61,7 +65,7 @@
 				"type": "prayer",
 				"inline": {
 					"en-US": "Queen of Heaven, rejoice, alleluia:\nfor He whom thou wast made worthy to bear, alleluia,\nis risen, as He said, alleluia.\nPray for us to God, alleluia.",
-					"pt-BR": "Rainha do Céu, alegra-te, aleluia:\npois aquele que mereceste trazer no teu seio, aleluia,\nressuscitou como disse, aleluia.\nRoga por nós a Deus, aleluia.",
+					"pt-BR": "Rainha do Céu, alegrai-vos, aleluia.\nPorque quem merecestes trazer em vosso seio, aleluia.\nRessuscitou como disse, aleluia.\nRogai a Deus por nós, aleluia.",
 					"la": "Regina caeli, laetare, alleluia:\nquia quem meruisti portare, alleluia,\nresurrexit sicut dixit, alleluia.\nOra pro nobis Deum, alleluia."
 				}
 			},
@@ -75,7 +79,7 @@
 					{
 						"v": {
 							"en-US": "Rejoice and be glad, O Virgin Mary, alleluia.",
-							"pt-BR": "Alegra-te e exulta, Virgem Maria, aleluia."
+							"pt-BR": "Exultai e alegrai-vos, ó Virgem Maria, aleluia."
 						},
 						"r": {
 							"en-US": "For the Lord is truly risen, alleluia.",
@@ -99,7 +103,7 @@
 				"inline": {
 					"en-US": "O God, who gave joy to the world through the resurrection of Thy Son, our Lord Jesus Christ, grant, we beseech Thee, that through His Mother, the Virgin Mary, we may obtain the joys of everlasting life. Through the same Christ our Lord. Amen.",
 					"la": "Deus, qui per resurrectionem Filii tui, Domini nostri Iesu Christi, mundum laetificare dignatus es: praesta, quaesumus; ut per eius Genetricem Virginem Mariam, perpetuae capiamus gaudia vitae. Per eundem Christum Dominum nostrum. Amen.",
-					"pt-BR": "Ó Deus, que pela ressurreição de Vosso Filho, Nosso Senhor Jesus Cristo, destes alegria ao mundo inteiro, concedei-nos, por intercessão de Sua Mãe, a Virgem Maria, alcançar a alegria da vida eterna. Pelo mesmo Cristo Nosso Senhor. Amém."
+					"pt-BR": "Ó Deus, que Vos dignastes alegrar o mundo com a Ressurreição do Vosso Filho Jesus Cristo, Senhor Nosso, concedei-nos, Vos suplicamos, que por sua Mãe, a Virgem Maria, alcancemos as alegrias da vida eterna. Por Cristo, Senhor Nosso. Amém."
 				}
 			}
 		]

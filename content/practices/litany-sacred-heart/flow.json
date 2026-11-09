@@ -10,36 +10,36 @@
         {
           "v": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade.",
+            "pt-BR": "Senhor, tende piedade de nós.",
             "la": "Kýrie, eléison."
           },
           "r": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade.",
+            "pt-BR": "Senhor, tende piedade de nós.",
             "la": "Kýrie, eléison."
           }
         },
         {
           "v": {
             "en-US": "Christ, have mercy.",
-            "pt-BR": "Cristo, tende piedade.",
+            "pt-BR": "Jesus Cristo, tende piedade de nós.",
             "la": "Christe, eléison."
           },
           "r": {
             "en-US": "Christ, have mercy.",
-            "pt-BR": "Cristo, tende piedade.",
+            "pt-BR": "Jesus Cristo, tende piedade de nós.",
             "la": "Christe, eléison."
           }
         },
         {
           "v": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade.",
+            "pt-BR": "Senhor, tende piedade de nós.",
             "la": "Kýrie, eléison."
           },
           "r": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade.",
+            "pt-BR": "Senhor, tende piedade de nós.",
             "la": "Kýrie, eléison."
           }
         }
@@ -54,19 +54,19 @@
         {
           "v": {
             "en-US": "Christ, hear us.",
-            "pt-BR": "Cristo, ouvi-nos.",
+            "pt-BR": "Jesus Cristo, ouvi-nos.",
             "la": "Christe, audi nos."
           },
           "r": {
             "en-US": "Christ, graciously hear us.",
-            "pt-BR": "Cristo, atendei-nos.",
+            "pt-BR": "Jesus Cristo, atendei-nos.",
             "la": "Christe, exáudi nos."
           }
         },
         {
           "v": {
             "en-US": "God the Father of Heaven,",
-            "pt-BR": "Deus Pai do Céu,",
+            "pt-BR": "Pai celeste, que sois Deus,",
             "la": "Pater de cælis, Deus,"
           },
           "r": {
@@ -78,7 +78,7 @@
         {
           "v": {
             "en-US": "God the Son, Redeemer of the world,",
-            "pt-BR": "Deus Filho, Redentor do mundo,",
+            "pt-BR": "Filho, Redentor do mundo, que sois Deus,",
             "la": "Fili, Redémptor mundi, Deus,"
           },
           "r": {
@@ -90,7 +90,7 @@
         {
           "v": {
             "en-US": "God the Holy Spirit,",
-            "pt-BR": "Deus Espírito Santo,",
+            "pt-BR": "Espírito Santo, que sois Deus,",
             "la": "Spíritus Sancte, Deus,"
           },
           "r": {
@@ -102,7 +102,7 @@
         {
           "v": {
             "en-US": "Holy Trinity, one God,",
-            "pt-BR": "Santíssima Trindade, um só Deus,",
+            "pt-BR": "Santíssima Trindade, que sois um só Deus,",
             "la": "Sancta Trínitas, unus Deus,"
           },
           "r": {
@@ -122,7 +122,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, Son of the Eternal Father,",
-            "pt-BR": "Coração de Jesus, Filho do Eterno Pai,",
+            "pt-BR": "Coração de Jesus, Filho do Pai Eterno,",
             "la": "Cor Iesu, Fílii Patris ætérni,"
           },
           "r": {
@@ -146,7 +146,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, substantially united to the Word of God,",
-            "pt-BR": "Coração de Jesus, substancialmente unido ao Verbo de Deus,",
+            "pt-BR": "Coração de Jesus, unido substancialmente ao Verbo de Deus,",
             "la": "Cor Iesu, Verbo Dei substantiáliter unítum,"
           },
           "r": {
@@ -158,7 +158,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, of infinite majesty,",
-            "pt-BR": "Coração de Jesus, de infinita majestade,",
+            "pt-BR": "Coração de Jesus, de majestade infinita,",
             "la": "Cor Iesu, maiestátis infinítæ,"
           },
           "r": {
@@ -170,7 +170,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, holy temple of God,",
-            "pt-BR": "Coração de Jesus, templo sagrado de Deus,",
+            "pt-BR": "Coração de Jesus, templo santo de Deus,",
             "la": "Cor Iesu, templum Dei sanctum,"
           },
           "r": {
@@ -206,7 +206,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, burning furnace of charity,",
-            "pt-BR": "Coração de Jesus, ardente fornalha de caridade,",
+            "pt-BR": "Coração de Jesus, fornalha ardente de caridade,",
             "la": "Cor Iesu, fornax ardens caritátis,"
           },
           "r": {
@@ -218,7 +218,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, vessel of justice and love,",
-            "pt-BR": "Coração de Jesus, vaso de justiça e amor,",
+            "pt-BR": "Coração de Jesus, receptáculo de justiça e de amor,",
             "la": "Cor Iesu, iustítiæ et amóris receptáculum,"
           },
           "r": {
@@ -230,7 +230,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, full of goodness and love,",
-            "pt-BR": "Coração de Jesus, cheio de bondade e amor,",
+            "pt-BR": "Coração de Jesus, cheio de bondade e de amor,",
             "la": "Cor Iesu, bonitáte et amóre plenum,"
           },
           "r": {
@@ -254,7 +254,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, most worthy of all praise,",
-            "pt-BR": "Coração de Jesus, digníssimo de todo louvor,",
+            "pt-BR": "Coração de Jesus, digníssimo de todo o louvor,",
             "la": "Cor Iesu, omni laude digníssimum,"
           },
           "r": {
@@ -266,7 +266,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, King and center of all hearts,",
-            "pt-BR": "Coração de Jesus, Rei e centro de todos os corações,",
+            "pt-BR": "Coração de Jesus, rei e centro de todos os corações,",
             "la": "Cor Iesu, rex et centrum ómnium córdium,"
           },
           "r": {
@@ -278,7 +278,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, in whom are all the treasures of wisdom and knowledge,",
-            "pt-BR": "Coração de Jesus, em quem estão todos os tesouros da sabedoria e da ciência,",
+            "pt-BR": "Coração de Jesus, no qual estão os tesouros da sabedoria e da ciência,",
             "la": "Cor Iesu, in quo sunt omnes thesáuri sapiéntiæ et sciéntiæ,"
           },
           "r": {
@@ -290,7 +290,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, in whom dwells all the fullness of the Godhead,",
-            "pt-BR": "Coração de Jesus, em quem habita toda a plenitude da Divindade,",
+            "pt-BR": "Coração de Jesus, no qual habita toda a plenitude da divindade,",
             "la": "Cor Iesu, in quo hábitat omnis plenitúdo divinitátis,"
           },
           "r": {
@@ -302,7 +302,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, in whom the Father is well pleased,",
-            "pt-BR": "Coração de Jesus, em quem o Pai se compraz,",
+            "pt-BR": "Coração de Jesus, no qual o Pai pôs as Suas complacências,",
             "la": "Cor Iesu, in quo Pater sibi bene complácuit,"
           },
           "r": {
@@ -314,7 +314,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, of whose fullness we have all received,",
-            "pt-BR": "Coração de Jesus, da cuja plenitude todos nós recebemos,",
+            "pt-BR": "Coração de Jesus, de cuja plenitude nós todos participamos,",
             "la": "Cor Iesu, de cuius plenitúdine omnes nos accépimus,"
           },
           "r": {
@@ -326,7 +326,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, desire of the everlasting hills,",
-            "pt-BR": "Coração de Jesus, desejo dos eternos outeiros,",
+            "pt-BR": "Coração de Jesus, desejo das colinas eternas,",
             "la": "Cor Iesu, desidérium cóllium æternórum,"
           },
           "r": {
@@ -338,7 +338,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, patient and most merciful,",
-            "pt-BR": "Coração de Jesus, paciente e misericordiosíssimo,",
+            "pt-BR": "Coração de Jesus, paciente e misericordioso,",
             "la": "Cor Iesu, pátiens et multæ misericórdiæ,"
           },
           "r": {
@@ -350,7 +350,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, enriching all who invoke Thee,",
-            "pt-BR": "Coração de Jesus, que enriqueceis todos os que Vos invocam,",
+            "pt-BR": "Coração de Jesus, rico para todos os que Vos invocam,",
             "la": "Cor Iesu, dives in omnes qui ínvocant te,"
           },
           "r": {
@@ -362,7 +362,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, fountain of life and holiness,",
-            "pt-BR": "Coração de Jesus, fonte de vida e santidade,",
+            "pt-BR": "Coração de Jesus, fonte de vida e de santidade,",
             "la": "Cor Iesu, fons vitæ et sanctitátis,"
           },
           "r": {
@@ -386,7 +386,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, loaded down with opprobrium,",
-            "pt-BR": "Coração de Jesus, carregado de opróbrios,",
+            "pt-BR": "Coração de Jesus, saturado de opróbrios,",
             "la": "Cor Iesu, saturátum oppróbriis,"
           },
           "r": {
@@ -398,7 +398,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, bruised for our offenses,",
-            "pt-BR": "Coração de Jesus, esmagado pelas nossas ofensas,",
+            "pt-BR": "Coração de Jesus, atribulado por causa de nossos crimes,",
             "la": "Cor Iesu, attrítum propter scélera nostra,"
           },
           "r": {
@@ -410,7 +410,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, obedient unto death,",
-            "pt-BR": "Coração de Jesus, obediente até à morte,",
+            "pt-BR": "Coração de Jesus, feito obediente até a morte,",
             "la": "Cor Iesu, usque ad mortem obœ́diens factum,"
           },
           "r": {
@@ -422,7 +422,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, pierced with a lance,",
-            "pt-BR": "Coração de Jesus, traspassado por uma lança,",
+            "pt-BR": "Coração de Jesus, atravessado pela lança,",
             "la": "Cor Iesu, láncea perforátum,"
           },
           "r": {
@@ -434,7 +434,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, source of all consolation,",
-            "pt-BR": "Coração de Jesus, fonte de toda consolação,",
+            "pt-BR": "Coração de Jesus, fonte de toda a consolação,",
             "la": "Cor Iesu, fons totíus consolatiónis,"
           },
           "r": {
@@ -470,7 +470,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, victim for our sins,",
-            "pt-BR": "Coração de Jesus, vítima pelos nossos pecados,",
+            "pt-BR": "Coração de Jesus, vítima dos pecadores,",
             "la": "Cor Iesu, víctima peccatórum,"
           },
           "r": {
@@ -482,7 +482,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, salvation of those who hope in Thee,",
-            "pt-BR": "Coração de Jesus, salvação dos que em Vós esperam,",
+            "pt-BR": "Coração de Jesus, salvação dos que esperam em Vós,",
             "la": "Cor Iesu, salus in te sperántium,"
           },
           "r": {
@@ -494,7 +494,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, hope of those who die in Thee,",
-            "pt-BR": "Coração de Jesus, esperança dos que morrem em Vós,",
+            "pt-BR": "Coração de Jesus, esperança dos que em Vós expiram,",
             "la": "Cor Iesu, spes in te moriéntium,"
           },
           "r": {
@@ -506,7 +506,7 @@
         {
           "v": {
             "en-US": "Heart of Jesus, delight of all the Saints,",
-            "pt-BR": "Coração de Jesus, delícia de todos os Santos,",
+            "pt-BR": "Coração de Jesus, delícia de todos os santos,",
             "la": "Cor Iesu, delíciæ Sanctórum ómnium,"
           },
           "r": {
@@ -575,7 +575,7 @@
           },
           "r": {
             "en-US": "Make our hearts like unto Thine.",
-            "pt-BR": "Tornai o nosso coração semelhante ao Vosso.",
+            "pt-BR": "Fazei nosso coração semelhante ao Vosso.",
             "la": "Fac cor nostrum secúndum Cor tuum."
           }
         }
@@ -593,7 +593,7 @@
       "type": "prayer",
       "inline": {
         "en-US": "Almighty and eternal God, look upon the Heart of Thy most beloved Son and upon the praises and satisfaction which He offers Thee in the name of sinners; and to those who implore Thy mercy, in Thy great goodness, grant forgiveness in the name of the same Jesus Christ, Thy Son, who liveth and reigneth with Thee forever and ever. Amen.",
-        "pt-BR": "Deus onipotente e eterno, olhai para o Coração de Vosso Filho amantíssimo e para os louvores e satisfações que Ele Vos oferece em nome dos pecadores; e a quantos imploram a Vossa misericórdia, pela Vossa grande bondade, concedei o perdão, em nome do mesmo Jesus Cristo, Vosso Filho, que convosco vive e reina pelos séculos dos séculos. Amém.",
+        "pt-BR": "Deus onipotente e eterno, olhai para o Coração de Vosso Filho diletíssimo e para os louvores e as satisfações que Ele, em nome dos pecadores, vos tributa; e aos que imploram a vossa misericórdia concedei benigno o perdão, em nome do vosso mesmo Filho Jesus Cristo, que convosco vive e reina, em união com o Espírito Santo, por todos os séculos dos séculos. Amém.",
         "la": "Omnípotens sempitérne Deus, réspice in Cor dilectíssimi Fílii tui et in laudes et satisfactiónes, quas in nómine peccatórum tibi persólvit, iísque misericórdiam tuam peténtibus, tu véniam concéde placátus in nómine eiúsdem Fílii tui Iesu Christi: Qui tecum vivit et regnat in sǽcula sæculórum. Amen."
       }
     }

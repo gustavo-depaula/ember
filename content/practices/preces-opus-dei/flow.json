@@ -51,7 +51,7 @@
 					"v": {
 						"la": "Exsúrge, Christe, ádiuva nos.",
 						"en-US": "Arise, O Christ, and help us.",
-						"pt-BR": "Levantai-vos, Cristo, vinde em nosso auxílio."
+						"pt-BR": "Levantai-vos, ó Cristo, vinde em nosso auxílio."
 					},
 					"r": {
 						"la": "Et líbera nos propter nomen tuum.",
@@ -88,7 +88,7 @@
 					"r": {
 						"la": "Recordáre, Virgo Mater Dei, dum stéteris in conspéctu Dómini, ut loquáris pro nobis bona.",
 						"en-US": "Remember, O Virgin Mother of God, while you stand in the sight of the Lord, to speak good things on our behalf.",
-						"pt-BR": "Lembrai-vos, Virgem Mãe de Deus, de falar coisas boas de nós quando estiverdes na presença do Senhor."
+						"pt-BR": "Lembrai-vos, ó Virgem Mãe de Deus, de falar coisas boas de nós quando estiverdes na presença do Senhor."
 					}
 				},
 				{
@@ -290,7 +290,7 @@
 			"text": {
 				"la": "Sacerdos, si Preces moderátur, exsúrgit et addit Dóminus vobíscum, stans étiam dum récitat oratiónem.",
 				"en-US": "If a priest leads the Preces, he stands and adds The Lord be with you, and while standing recites the prayer.",
-				"pt-BR": "Se um sacerdote dirige as Preces, levanta-se e acrescenta O Senhor esteja convosco, permanecendo de pé enquanto reza a oração."
+				"pt-BR": "Se é um sacerdote quem dirige as Preces, levanta-se e acrescenta: O Senhor esteja convosco, permanecendo de pé enquanto reza a oração."
 			}
 		},
 		{
@@ -332,7 +332,7 @@
 			"inline": {
 				"la": "Actiónes nostras, quǽsumus Dómine, aspirándo prǽveni et adiuvándo proséquere: ut cuncta nostra orátio et operátio a te semper incípiat, et per te cœpta finiátur. Per Christum Dóminum nostrum. Amen.",
 				"en-US": "Lord, we ask that our actions begin with your inspiration and continue with your assistance, so that our every prayer and activity may always begin with you, and, having begun with you, be accomplished through you. Through Christ our Lord. Amen.",
-				"pt-BR": "Nós Vos pedimos, Senhor, que prepareis as nossas ações com a vossa inspiração, e as acompanheis com a vossa ajuda, a fim de que todos os nossos trabalhos e orações em Vós comecem sempre e por Vós acabem. Por Cristo, Senhor Nosso. Amém."
+				"pt-BR": "Nós Vos pedimos, Senhor, que prepareis as nossas ações com a vossa inspiração, e as acompanheis com a vossa ajuda, a fim de que todos os nossos trabalhos e orações em vós comecem sempre e por vós acabem. Por Cristo, Senhor Nosso. Amém."
 			}
 		},
 		{
@@ -439,7 +439,7 @@
 			"text": {
 				"la": "Cum adsit áliquis Sacérdos, dígnior ait:",
 				"en-US": "When a priest is present, the person in charge says:",
-				"pt-BR": "Quando estiver presente um sacerdote, o que dirige diz:"
+				"pt-BR": "Quando estiver presente um sacerdote, o diretor ou quem o substitua diz:"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 			"inline": {
 				"la": "Iube, Domne, benedícere.",
 				"en-US": "Father, bless us.",
-				"pt-BR": "Pai, abençoai-nos."
+				"pt-BR": "Dignai-vos, padre, abençoar-nos."
 			}
 		},
 		{
@@ -463,7 +463,7 @@
 			"inline": {
 				"la": "Dóminus sit in córdibus vestris, et in lábiis vestris, in nómine Patris ✠ et Fílii et Spíritus Sancti. Amen.",
 				"en-US": "The Lord be in your hearts and on your lips, in the name of the Father, ✠ and the Son, and the Holy Spirit. Amen.",
-				"pt-BR": "O Senhor esteja em vossos corações e em vossos lábios, em nome do Pai, ✠ e do Filho e do Espírito Santo. Amém."
+				"pt-BR": "Que o Senhor esteja em vossos corações e em vossos lábios, em nome do Pai, ✠ e do Filho e do Espírito Santo. Amém."
 			}
 		},
 		{

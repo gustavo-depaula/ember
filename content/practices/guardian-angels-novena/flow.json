@@ -101,10 +101,7 @@
     },
     {
       "type": "prayer",
-      "inline": {
-        "en-US": "Angel of God, my guardian dear, to whom God's love commits me here, ever this day be at my side, to light and guard, to rule and guide. Amen.",
-        "pt-BR": "Santo Anjo do Senhor, meu zeloso guardador, se a mim confiou a piedade divina, sempre me rege, me guarda, me governa e me ilumina. Amém."
-      }
+      "ref": "guardian-angel"
     },
     {
       "type": "prayer",

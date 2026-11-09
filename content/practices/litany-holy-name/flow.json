@@ -13,48 +13,48 @@
         {
           "v": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade.",
+            "pt-BR": "Senhor, tende piedade de nós.",
             "la": "Kýrie, eléison."
           },
           "r": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade.",
+            "pt-BR": "Senhor, tende piedade de nós.",
             "la": "Kýrie, eléison."
           }
         },
         {
           "v": {
             "en-US": "Christ, have mercy.",
-            "pt-BR": "Cristo, tende piedade.",
+            "pt-BR": "Jesus Cristo, tende piedade de nós.",
             "la": "Christe, eléison."
           },
           "r": {
             "en-US": "Christ, have mercy.",
-            "pt-BR": "Cristo, tende piedade.",
+            "pt-BR": "Jesus Cristo, tende piedade de nós.",
             "la": "Christe, eléison."
           }
         },
         {
           "v": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade.",
+            "pt-BR": "Senhor, tende piedade de nós.",
             "la": "Kýrie, eléison."
           },
           "r": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade.",
+            "pt-BR": "Senhor, tende piedade de nós.",
             "la": "Kýrie, eléison."
           }
         },
         {
           "v": {
             "en-US": "Christ, hear us.",
-            "pt-BR": "Cristo, ouvi-nos.",
+            "pt-BR": "Jesus Cristo, ouvi-nos.",
             "la": "Iesu, audi nos."
           },
           "r": {
             "en-US": "Christ, graciously hear us.",
-            "pt-BR": "Cristo, atendei-nos.",
+            "pt-BR": "Jesus Cristo, atendei-nos.",
             "la": "Iesu, exáudi nos."
           }
         }
@@ -69,7 +69,7 @@
         {
           "v": {
             "en-US": "God the Father of Heaven,",
-            "pt-BR": "Deus Pai do Céu,",
+            "pt-BR": "Deus, Pai dos Céus,",
             "la": "Pater de cælis, Deus,"
           },
           "r": {
@@ -105,7 +105,7 @@
         {
           "v": {
             "en-US": "Holy Trinity, one God,",
-            "pt-BR": "Santíssima Trindade, um só Deus,",
+            "pt-BR": "Santíssima Trindade, que sois um só Deus,",
             "la": "Sancta Trínitas, unus Deus,"
           },
           "r": {
@@ -125,7 +125,7 @@
         {
           "v": {
             "en-US": "Jesus, Son of the living God,",
-            "pt-BR": "Jesus, Filho do Deus vivo,",
+            "pt-BR": "Jesus, Filho de Deus vivo,",
             "la": "Iesu, Fili Dei vivi,"
           },
           "r": {
@@ -149,7 +149,7 @@
         {
           "v": {
             "en-US": "Jesus, brightness of eternal light,",
-            "pt-BR": "Jesus, brilho da luz eterna,",
+            "pt-BR": "Jesus, pureza da luz eterna,",
             "la": "Iesu, candor lucis ætérnæ,"
           },
           "r": {
@@ -197,7 +197,7 @@
         {
           "v": {
             "en-US": "Jesus, most amiable,",
-            "pt-BR": "Jesus, amabilíssimo,",
+            "pt-BR": "Jesus amável,",
             "la": "Iesu, amábilis,"
           },
           "r": {
@@ -209,7 +209,7 @@
         {
           "v": {
             "en-US": "Jesus, most admirable,",
-            "pt-BR": "Jesus, admirável,",
+            "pt-BR": "Jesus admirável,",
             "la": "Iesu, admirábilis,"
           },
           "r": {
@@ -257,7 +257,7 @@
         {
           "v": {
             "en-US": "Jesus, most powerful,",
-            "pt-BR": "Jesus, poderosíssimo,",
+            "pt-BR": "Jesus poderosíssimo,",
             "la": "Iesu potentíssime,"
           },
           "r": {
@@ -269,7 +269,7 @@
         {
           "v": {
             "en-US": "Jesus, most patient,",
-            "pt-BR": "Jesus, pacientíssimo,",
+            "pt-BR": "Jesus pacientíssimo,",
             "la": "Iesu patientíssime,"
           },
           "r": {
@@ -281,7 +281,7 @@
         {
           "v": {
             "en-US": "Jesus, most obedient,",
-            "pt-BR": "Jesus, obedientíssimo,",
+            "pt-BR": "Jesus obedientíssimo,",
             "la": "Iesu obœdientíssime,"
           },
           "r": {
@@ -305,7 +305,7 @@
         {
           "v": {
             "en-US": "Jesus, lover of chastity,",
-            "pt-BR": "Jesus, amante da castidade,",
+            "pt-BR": "Jesus, que amais a castidade,",
             "la": "Iesu, amátor castitátis,"
           },
           "r": {
@@ -353,7 +353,7 @@
         {
           "v": {
             "en-US": "Jesus, model of virtues,",
-            "pt-BR": "Jesus, modelo das virtudes,",
+            "pt-BR": "Jesus, exemplar das virtudes,",
             "la": "Iesu, exémplar virtútum,"
           },
           "r": {
@@ -485,7 +485,7 @@
         {
           "v": {
             "en-US": "Jesus, joy of angels,",
-            "pt-BR": "Jesus, alegria dos anjos,",
+            "pt-BR": "Jesus, alegria dos Anjos,",
             "la": "Iesu, gáudium Angelórum,"
           },
           "r": {
@@ -497,7 +497,7 @@
         {
           "v": {
             "en-US": "Jesus, King of patriarchs,",
-            "pt-BR": "Jesus, Rei dos patriarcas,",
+            "pt-BR": "Jesus, Rei dos Patriarcas,",
             "la": "Iesu, rex Patriarchárum,"
           },
           "r": {
@@ -509,7 +509,7 @@
         {
           "v": {
             "en-US": "Jesus, master of apostles,",
-            "pt-BR": "Jesus, mestre dos apóstolos,",
+            "pt-BR": "Jesus, Mestre dos Apóstolos,",
             "la": "Iesu, magíster Apostolórum,"
           },
           "r": {
@@ -521,7 +521,7 @@
         {
           "v": {
             "en-US": "Jesus, teacher of evangelists,",
-            "pt-BR": "Jesus, doutor dos evangelistas,",
+            "pt-BR": "Jesus, Doutor dos Evangelistas,",
             "la": "Iesu, doctor Evangelistárum,"
           },
           "r": {
@@ -533,7 +533,7 @@
         {
           "v": {
             "en-US": "Jesus, strength of martyrs,",
-            "pt-BR": "Jesus, força dos mártires,",
+            "pt-BR": "Jesus, fortaleza dos Mártires,",
             "la": "Iesu, fortitúdo Mártyrum,"
           },
           "r": {
@@ -545,7 +545,7 @@
         {
           "v": {
             "en-US": "Jesus, light of confessors,",
-            "pt-BR": "Jesus, luz dos confessores,",
+            "pt-BR": "Jesus, luz dos Confessores,",
             "la": "Iesu, lumen Confessórum,"
           },
           "r": {
@@ -557,7 +557,7 @@
         {
           "v": {
             "en-US": "Jesus, purity of virgins,",
-            "pt-BR": "Jesus, pureza das virgens,",
+            "pt-BR": "Jesus, pureza das Virgens,",
             "la": "Iesu, púritas Vírginum,"
           },
           "r": {
@@ -569,7 +569,7 @@
         {
           "v": {
             "en-US": "Jesus, crown of all saints,",
-            "pt-BR": "Jesus, coroa de todos os santos,",
+            "pt-BR": "Jesus, coroa de todos os Santos,",
             "la": "Iesu, coróna Sanctórum ómnium,"
           },
           "r": {
@@ -621,7 +621,7 @@
         {
           "v": {
             "en-US": "From all evil,",
-            "pt-BR": "De todo o mal,",
+            "pt-BR": "De todo mal,",
             "la": "Ab omni malo,"
           },
           "r": {
@@ -633,7 +633,7 @@
         {
           "v": {
             "en-US": "From all sin,",
-            "pt-BR": "De todo o pecado,",
+            "pt-BR": "De todo pecado,",
             "la": "Ab omni peccáto,"
           },
           "r": {
@@ -645,7 +645,7 @@
         {
           "v": {
             "en-US": "From Thy wrath,",
-            "pt-BR": "Da Vossa ira,",
+            "pt-BR": "De vossa ira,",
             "la": "Ab ira tua,"
           },
           "r": {
@@ -669,7 +669,7 @@
         {
           "v": {
             "en-US": "From the spirit of fornication,",
-            "pt-BR": "Do espírito de fornicação,",
+            "pt-BR": "Do espírito da impureza,",
             "la": "A spíritu fornicatiónis,"
           },
           "r": {
@@ -693,7 +693,7 @@
         {
           "v": {
             "en-US": "From the neglect of Thine inspirations,",
-            "pt-BR": "Da negligência de Vossas inspirações,",
+            "pt-BR": "Do desprezo das vossas inspirações,",
             "la": "A negléctu inspiratiónum tuárum,"
           },
           "r": {
@@ -705,7 +705,7 @@
         {
           "v": {
             "en-US": "Through the mystery of Thy holy Incarnation,",
-            "pt-BR": "Pelo mistério da Vossa santa Encarnação,",
+            "pt-BR": "Pelo mistério da vossa santa encarnação,",
             "la": "Per mystérium sanctæ Incarnatiónis tuæ,"
           },
           "r": {
@@ -717,7 +717,7 @@
         {
           "v": {
             "en-US": "Through Thy Nativity,",
-            "pt-BR": "Pelo Vosso Nascimento,",
+            "pt-BR": "Pelo vosso nascimento,",
             "la": "Per nativitátem tuam,"
           },
           "r": {
@@ -729,7 +729,7 @@
         {
           "v": {
             "en-US": "Through Thine Infancy,",
-            "pt-BR": "Pela Vossa Infância,",
+            "pt-BR": "Pela vossa infância,",
             "la": "Per infántiam tuam,"
           },
           "r": {
@@ -741,7 +741,7 @@
         {
           "v": {
             "en-US": "Through Thy most divine life,",
-            "pt-BR": "Pela Vossa vida diviníssima,",
+            "pt-BR": "Pela vossa santíssima vida,",
             "la": "Per diviníssimam vitam tuam,"
           },
           "r": {
@@ -753,7 +753,7 @@
         {
           "v": {
             "en-US": "Through Thy labors,",
-            "pt-BR": "Pelos Vossos trabalhos,",
+            "pt-BR": "Pelos vossos trabalhos,",
             "la": "Per labóres tuos,"
           },
           "r": {
@@ -765,7 +765,7 @@
         {
           "v": {
             "en-US": "Through Thy agony and Passion,",
-            "pt-BR": "Pela Vossa agonia e Paixão,",
+            "pt-BR": "Pela vossa agonia e paixão,",
             "la": "Per agóniam et passiónem tuam,"
           },
           "r": {
@@ -777,7 +777,7 @@
         {
           "v": {
             "en-US": "Through Thy Cross and dereliction,",
-            "pt-BR": "Pela Vossa Cruz e desamparo,",
+            "pt-BR": "Pela vossa cruz e desamparo,",
             "la": "Per crucem et derelictiónem tuam,"
           },
           "r": {
@@ -789,7 +789,7 @@
         {
           "v": {
             "en-US": "Through Thy sufferings,",
-            "pt-BR": "Pelos Vossos sofrimentos,",
+            "pt-BR": "Pelas vossas angústias,",
             "la": "Per languóres tuos,"
           },
           "r": {
@@ -801,7 +801,7 @@
         {
           "v": {
             "en-US": "Through Thy death and burial,",
-            "pt-BR": "Pela Vossa morte e sepultura,",
+            "pt-BR": "Pela vossa morte e sepultura,",
             "la": "Per mortem et sepultúram tuam,"
           },
           "r": {
@@ -813,7 +813,7 @@
         {
           "v": {
             "en-US": "Through Thy Resurrection,",
-            "pt-BR": "Pela Vossa Ressurreição,",
+            "pt-BR": "Pela vossa ressurreição,",
             "la": "Per resurrectiónem tuam,"
           },
           "r": {
@@ -825,7 +825,7 @@
         {
           "v": {
             "en-US": "Through Thine Ascension,",
-            "pt-BR": "Pela Vossa Ascensão,",
+            "pt-BR": "Pela vossa ascensão,",
             "la": "Per ascensiónem tuam,"
           },
           "r": {
@@ -837,7 +837,7 @@
         {
           "v": {
             "en-US": "Through Thine institution of the most Holy Eucharist,",
-            "pt-BR": "Pela Vossa instituição da Santíssima Eucaristia,",
+            "pt-BR": "Pela vossa instituição da Santíssima Eucaristia,",
             "la": "Per sanctíssimæ Eucharístiæ institutiónem tuam,"
           },
           "r": {
@@ -849,7 +849,7 @@
         {
           "v": {
             "en-US": "Through Thy joys,",
-            "pt-BR": "Pelas Vossas alegrias,",
+            "pt-BR": "Pelas vossas alegrias,",
             "la": "Per gáudia tua,"
           },
           "r": {
@@ -861,7 +861,7 @@
         {
           "v": {
             "en-US": "Through Thy glory,",
-            "pt-BR": "Pela Vossa glória,",
+            "pt-BR": "Pela vossa glória,",
             "la": "Per glóriam tuam,"
           },
           "r": {
@@ -898,7 +898,7 @@
           },
           "r": {
             "en-US": "Graciously hear us, O Jesus.",
-            "pt-BR": "Ouvi-nos, Jesus.",
+            "pt-BR": "Atendei-nos, Jesus.",
             "la": "Exáudi nos, Iesu."
           }
         },
@@ -910,7 +910,7 @@
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós.",
+            "pt-BR": "Tende piedade de nós, Jesus.",
             "la": "Miserére nobis, Iesu."
           }
         }
@@ -948,7 +948,7 @@
       "type": "prayer",
       "inline": {
         "en-US": "Lord Jesus Christ, who hast said: Ask and ye shall receive; seek and ye shall find; knock and it shall be opened unto you; grant, we beseech Thee, to us who ask, the gift of Thy most divine love, that we may ever love Thee with our whole heart, and in word and deed, and never cease from praising Thee. Give us, O Lord, a perpetual fear and love of Thy Holy Name; for Thou never failest to govern those whom Thou dost solidly establish in Thy love. Who livest and reignest world without end. Amen.",
-        "pt-BR": "Senhor Jesus Cristo, que dissestes: Pedi e recebereis; buscai e encontrareis; batei e abrir-se-vos-á; concedei-nos, nós Vo-lo pedimos, o dom do Vosso divínissimo amor, para que Vos amemos sempre de todo o coração, e em palavras e obras, e nunca cessemos de Vos louvar. Dai-nos, Senhor, um perpétuo temor e amor ao Vosso Santo Nome; pois Vós nunca deixais de governar aqueles que solidamente estabeleceis no Vosso amor. Que viveis e reinais pelos séculos dos séculos. Amém.",
+        "pt-BR": "Senhor Jesus Cristo, que dissestes: Pedi e recebereis; buscai e achareis; batei e abrir-se-vos-á, nós Vos suplicamos que concedais a nós, que Vo-lo pedimos, os sentimentos afetivos de vosso divino amor, a fim de que Vos amemos de todo o coração, boca e obras, e nunca cessemos de Vos louvar. Permiti que tenhamos sempre, Senhor, um igual temor e amor pelo vosso santo Nome; pois não deixais de governar aqueles que estabeleceis na firmeza do vosso amor. Vós que viveis e reinais pelos séculos dos séculos. Amém.",
         "la": "Dómine Iesu Christe, qui dixísti: Pétite et accipiétis; quǽrite et inveniétis; pulsáte et aperiétur vobis; quǽsumus, da nobis peténtibus diviníssimi tui amóris afféctum, ut te toto corde, ore et ópere diligámus et a tua numquam laude cessémus. Sancti Nóminis tui, Dómine, timórem páriter et amórem fac nos habére perpétuum, quia numquam tua gubernatióne destítuis, quos in soliditáte, tuæ dilectiónis instítuis. Qui vivis et regnas in sǽcula sæculórum. Amen."
       }
     }

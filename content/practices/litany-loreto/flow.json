@@ -13,48 +13,48 @@
         {
           "v": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade.",
+            "pt-BR": "Senhor, tende piedade de nós.",
             "la": "Kýrie, eléison."
           },
           "r": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade.",
+            "pt-BR": "Senhor, tende piedade de nós.",
             "la": "Kýrie, eléison."
           }
         },
         {
           "v": {
             "en-US": "Christ, have mercy.",
-            "pt-BR": "Cristo, tende piedade.",
+            "pt-BR": "Jesus Cristo, tende piedade de nós.",
             "la": "Christe, eléison."
           },
           "r": {
             "en-US": "Christ, have mercy.",
-            "pt-BR": "Cristo, tende piedade.",
+            "pt-BR": "Jesus Cristo, tende piedade de nós.",
             "la": "Christe, eléison."
           }
         },
         {
           "v": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade.",
+            "pt-BR": "Senhor, tende piedade de nós.",
             "la": "Kýrie, eléison."
           },
           "r": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade.",
+            "pt-BR": "Senhor, tende piedade de nós.",
             "la": "Kýrie, eléison."
           }
         },
         {
           "v": {
             "en-US": "Christ, hear us.",
-            "pt-BR": "Cristo, ouvi-nos.",
+            "pt-BR": "Jesus Cristo, ouvi-nos.",
             "la": "Christe, audi nos."
           },
           "r": {
             "en-US": "Christ, graciously hear us.",
-            "pt-BR": "Cristo, atendei-nos.",
+            "pt-BR": "Jesus Cristo, atendei-nos.",
             "la": "Christe, exáudi nos."
           }
         }
@@ -69,7 +69,7 @@
         {
           "v": {
             "en-US": "God the Father of Heaven,",
-            "pt-BR": "Deus Pai do Céu,",
+            "pt-BR": "Deus Pai dos céus,",
             "la": "Pater de cælis, Deus,"
           },
           "r": {
@@ -81,7 +81,7 @@
         {
           "v": {
             "en-US": "God the Son, Redeemer of the world,",
-            "pt-BR": "Deus Filho, Redentor do mundo,",
+            "pt-BR": "Deus Filho Redentor do mundo,",
             "la": "Fili, Redémptor mundi, Deus,"
           },
           "r": {
@@ -105,7 +105,7 @@
         {
           "v": {
             "en-US": "Holy Trinity, one God,",
-            "pt-BR": "Santíssima Trindade, um só Deus,",
+            "pt-BR": "Santíssima Trindade, que sois um só Deus,",
             "la": "Sancta Trínitas, unus Deus,"
           },
           "r": {
@@ -149,7 +149,7 @@
         {
           "v": {
             "en-US": "Holy Virgin of virgins,",
-            "pt-BR": "Santíssima Virgem das virgens,",
+            "pt-BR": "Santa Virgem das Virgens,",
             "la": "Sancta Virgo vírginum,"
           },
           "r": {
@@ -161,7 +161,7 @@
         {
           "v": {
             "en-US": "Mother of Christ,",
-            "pt-BR": "Mãe de Cristo,",
+            "pt-BR": "Mãe de Jesus Cristo,",
             "la": "Mater Christi,"
           },
           "r": {
@@ -245,7 +245,7 @@
         {
           "v": {
             "en-US": "Mother inviolate,",
-            "pt-BR": "Mãe inviolada,",
+            "pt-BR": "Mãe imaculada,",
             "la": "Mater invioláta,"
           },
           "r": {
@@ -257,7 +257,7 @@
         {
           "v": {
             "en-US": "Mother undefiled,",
-            "pt-BR": "Mãe não violada,",
+            "pt-BR": "Mãe intacta,",
             "la": "Mater intemeráta,"
           },
           "r": {
@@ -269,7 +269,7 @@
         {
           "v": {
             "en-US": "Mother most amiable,",
-            "pt-BR": "Mãe amabilíssima,",
+            "pt-BR": "Mãe amável,",
             "la": "Mater amábilis,"
           },
           "r": {
@@ -305,7 +305,7 @@
         {
           "v": {
             "en-US": "Mother of our Creator,",
-            "pt-BR": "Mãe do nosso Criador,",
+            "pt-BR": "Mãe do Criador,",
             "la": "Mater Creatóris,"
           },
           "r": {
@@ -317,7 +317,7 @@
         {
           "v": {
             "en-US": "Mother of our Saviour,",
-            "pt-BR": "Mãe do nosso Salvador,",
+            "pt-BR": "Mãe do Salvador,",
             "la": "Mater Salvatóris,"
           },
           "r": {
@@ -353,7 +353,7 @@
         {
           "v": {
             "en-US": "Virgin most renowned,",
-            "pt-BR": "Virgem afamada,",
+            "pt-BR": "Virgem digna de louvor,",
             "la": "Virgo prædicánda,"
           },
           "r": {
@@ -413,7 +413,7 @@
         {
           "v": {
             "en-US": "Seat of wisdom,",
-            "pt-BR": "Sede da sabedoria,",
+            "pt-BR": "Sede de sabedoria,",
             "la": "Sedes sapiéntiæ,"
           },
           "r": {
@@ -449,7 +449,7 @@
         {
           "v": {
             "en-US": "Vessel of honour,",
-            "pt-BR": "Vaso de honra,",
+            "pt-BR": "Vaso honorável,",
             "la": "Vas honorábile,"
           },
           "r": {
@@ -485,7 +485,7 @@
         {
           "v": {
             "en-US": "Tower of David,",
-            "pt-BR": "Torre de David,",
+            "pt-BR": "Torre de Davi,",
             "la": "Turris Davídica,"
           },
           "r": {
@@ -533,7 +533,7 @@
         {
           "v": {
             "en-US": "Gate of Heaven,",
-            "pt-BR": "Porta do céu,",
+            "pt-BR": "Porta do Céu,",
             "la": "Iánua cæli,"
           },
           "r": {
@@ -581,7 +581,7 @@
         {
           "v": {
             "en-US": "Solace of migrants,",
-            "pt-BR": "Consoladora dos migrantes,",
+            "pt-BR": "Socorro dos migrantes,",
             "la": "Solácium migrántium,"
           },
           "r": {
@@ -617,7 +617,7 @@
         {
           "v": {
             "en-US": "Queen of angels,",
-            "pt-BR": "Rainha dos anjos,",
+            "pt-BR": "Rainha dos Anjos,",
             "la": "Regína Angelórum,"
           },
           "r": {
@@ -629,7 +629,7 @@
         {
           "v": {
             "en-US": "Queen of patriarchs,",
-            "pt-BR": "Rainha dos patriarcas,",
+            "pt-BR": "Rainha dos Patriarcas,",
             "la": "Regína Patriarchárum,"
           },
           "r": {
@@ -641,7 +641,7 @@
         {
           "v": {
             "en-US": "Queen of prophets,",
-            "pt-BR": "Rainha dos profetas,",
+            "pt-BR": "Rainha dos Profetas,",
             "la": "Regína Prophetárum,"
           },
           "r": {
@@ -653,7 +653,7 @@
         {
           "v": {
             "en-US": "Queen of apostles,",
-            "pt-BR": "Rainha dos apóstolos,",
+            "pt-BR": "Rainha dos Apóstolos,",
             "la": "Regína Apostolórum,"
           },
           "r": {
@@ -665,7 +665,7 @@
         {
           "v": {
             "en-US": "Queen of martyrs,",
-            "pt-BR": "Rainha dos mártires,",
+            "pt-BR": "Rainha dos Mártires,",
             "la": "Regína Mártyrum,"
           },
           "r": {
@@ -677,7 +677,7 @@
         {
           "v": {
             "en-US": "Queen of confessors,",
-            "pt-BR": "Rainha dos confessores,",
+            "pt-BR": "Rainha dos Confessores,",
             "la": "Regína Confessórum,"
           },
           "r": {
@@ -689,7 +689,7 @@
         {
           "v": {
             "en-US": "Queen of virgins,",
-            "pt-BR": "Rainha das virgens,",
+            "pt-BR": "Rainha das Virgens,",
             "la": "Regína Vírginum,"
           },
           "r": {
@@ -701,7 +701,7 @@
         {
           "v": {
             "en-US": "Queen of all saints,",
-            "pt-BR": "Rainha de todos os santos,",
+            "pt-BR": "Rainha de todos os Santos,",
             "la": "Regína Sanctórum ómnium,"
           },
           "r": {
@@ -725,7 +725,7 @@
         {
           "v": {
             "en-US": "Queen assumed into heaven,",
-            "pt-BR": "Rainha assunta ao céu,",
+            "pt-BR": "Rainha assunta aos céus,",
             "la": "Regína in cælum assúmpta,"
           },
           "r": {
@@ -749,7 +749,7 @@
         {
           "v": {
             "en-US": "Queen of families,",
-            "pt-BR": "Rainha das famílias,",
+            "pt-BR": "Rainha da Família,",
             "la": "Regína famíliæ,"
           },
           "r": {
@@ -761,7 +761,7 @@
         {
           "v": {
             "en-US": "Queen of peace,",
-            "pt-BR": "Rainha da paz,",
+            "pt-BR": "Rainha da Paz,",
             "la": "Regína pacis,"
           },
           "r": {
@@ -781,7 +781,7 @@
         {
           "v": {
             "en-US": "Lamb of God, who takest away the sins of the world,",
-            "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,",
+            "pt-BR": "Cordeiro de Deus, que tirais o pecado do mundo,",
             "la": "Agnus Dei, qui tollis peccáta mundi,"
           },
           "r": {
@@ -793,7 +793,7 @@
         {
           "v": {
             "en-US": "Lamb of God, who takest away the sins of the world,",
-            "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,",
+            "pt-BR": "Cordeiro de Deus, que tirais o pecado do mundo,",
             "la": "Agnus Dei, qui tollis peccáta mundi,"
           },
           "r": {
@@ -805,7 +805,7 @@
         {
           "v": {
             "en-US": "Lamb of God, who takest away the sins of the world,",
-            "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,",
+            "pt-BR": "Cordeiro de Deus, que tirais o pecado do mundo,",
             "la": "Agnus Dei, qui tollis peccáta mundi,"
           },
           "r": {
@@ -830,7 +830,7 @@
           },
           "r": {
             "en-US": "That we may be made worthy of the promises of Christ.",
-            "pt-BR": "Para que sejamos tornados dignos das promessas de Cristo.",
+            "pt-BR": "Para que sejamos dignos das promessas de Cristo.",
             "la": "Ut digni efficiámur promissiónibus Christi."
           }
         }

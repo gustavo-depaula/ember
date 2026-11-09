@@ -25,6 +25,10 @@
 		"en-US": "Pray the opening Kyrie, then respond 'Save us' to each invocation. After the Lamb of God, respond as indicated, then pray the closing versicle and collect.",
 		"pt-BR": "Reze o Kyrie inicial, depois responda 'Salvai-nos' a cada invocação. Após o Cordeiro de Deus, responda conforme indicado, depois reze o versículo e a coleta final."
 	},
+	"source": {
+		"en-US": "Portuguese text: Prof. Felipe Aquino, *Ladainha do Preciosíssimo Sangue de Cristo*, blog Canção Nova — [blog.cancaonova.com](https://blog.cancaonova.com/felipeaquino/2018/07/04/ladainha-do-preciosissimo-sangue-de-cristo-2/)",
+		"pt-BR": "Prof. Felipe Aquino, *Ladainha do Preciosíssimo Sangue de Cristo*, blog Canção Nova — [blog.cancaonova.com](https://blog.cancaonova.com/felipeaquino/2018/07/04/ladainha-do-preciosissimo-sangue-de-cristo-2/)"
+	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
 	"flow": "flow.json",

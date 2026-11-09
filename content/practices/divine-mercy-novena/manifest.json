@@ -1,6 +1,10 @@
 {
   "id": "divine-mercy-novena",
   "icon": "mercy",
+  "source": {
+    "en-US": "Portuguese text of the closing prayer (*Diary*, 950): Portal Divina Misericórdia, Padres Marianos — [misericordia.org.br](https://misericordia.org.br/formacoes/3o-dia-a-misericordia-esperanca-suprema/)",
+    "pt-BR": "Oração final (*Diário*, 950): Portal Divina Misericórdia, Padres Marianos — [misericordia.org.br](https://misericordia.org.br/formacoes/3o-dia-a-misericordia-esperanca-suprema/)"
+  },
   "name": {
     "en-US": "Divine Mercy Novena",
     "pt-BR": "Novena da Divina Misericórdia"

@@ -34,6 +34,10 @@
 		"en-US": "Choose the form that speaks to your heart. The traditional form is particularly moving in times of difficulty; the Bernardine form is a profound act of trust in Joseph's intercession.",
 		"pt-BR": "Escolha a forma que fala ao seu coração. A forma tradicional é particularmente tocante em tempos de dificuldade; a forma bernardina é um profundo ato de confiança na intercessão de José."
 	},
+	"source": {
+		"en-US": "Portuguese text: Opus Dei, *Orações a São José* — [opusdei.org](https://opusdei.org/pt-br/article/oracoes-a-sao-jose/)",
+		"pt-BR": "Opus Dei, *Orações a São José* — [opusdei.org](https://opusdei.org/pt-br/article/oracoes-a-sao-jose/)"
+	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
 	"flow": "flow.json",

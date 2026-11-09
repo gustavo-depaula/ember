@@ -7,6 +7,10 @@
   },
   "categories": ["program", "devotion", "saints", "healing"],
   "estimatedMinutes": 10,
+  "source": {
+    "en-US": "Portuguese text: Opus Dei, *Oração a São Josemaria Escrivá* — [opusdei.org](https://opusdei.org/pt-br/article/oracao-a-sao-josemaria-escriva/)",
+    "pt-BR": "Opus Dei, *Oração a São Josemaria Escrivá* — [opusdei.org](https://opusdei.org/pt-br/article/oracao-a-sao-josemaria-escriva/)"
+  },
   "flowMode": "scroll",
   "completion": "flow-end",
   "holyCard": "josemaria_escriva",

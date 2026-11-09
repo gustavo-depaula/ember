@@ -21,6 +21,10 @@
 		"en-US": "Pray this after your examination of conscience or just before bed. Move through each part slowly, without rushing. The brief review of the day need only take a minute. Then give thanks, make an act of contrition, and entrust yourself to God and your guardian angel for the night.",
 		"pt-BR": "Reze após o exame de consciência ou logo antes de dormir. Percorra cada parte devagar, sem pressa. A breve revisão do dia precisa durar apenas um minuto. Depois, dê graças, faça um ato de contrição e entregue-se a Deus e ao seu anjo da guarda para a noite."
 	},
+	"source": {
+		"en-US": "Portuguese text: Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=191&section2=) (Santo Anjo)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=191&section2=) (Santo Anjo)"
+	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
 	"flow": "flow.json",

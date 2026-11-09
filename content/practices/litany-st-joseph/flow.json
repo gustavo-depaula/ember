@@ -13,48 +13,48 @@
         {
           "v": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade.",
+            "pt-BR": "Senhor, tende piedade de nós.",
             "la": "Kýrie, eléison."
           },
           "r": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade.",
+            "pt-BR": "Senhor, tende piedade de nós.",
             "la": "Kýrie, eléison."
           }
         },
         {
           "v": {
             "en-US": "Christ, have mercy.",
-            "pt-BR": "Cristo, tende piedade.",
+            "pt-BR": "Jesus Cristo, tende piedade de nós.",
             "la": "Christe, eléison."
           },
           "r": {
             "en-US": "Christ, have mercy.",
-            "pt-BR": "Cristo, tende piedade.",
+            "pt-BR": "Jesus Cristo, tende piedade de nós.",
             "la": "Christe, eléison."
           }
         },
         {
           "v": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade.",
+            "pt-BR": "Senhor, tende piedade de nós.",
             "la": "Kýrie, eléison."
           },
           "r": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade.",
+            "pt-BR": "Senhor, tende piedade de nós.",
             "la": "Kýrie, eléison."
           }
         },
         {
           "v": {
             "en-US": "Christ, hear us.",
-            "pt-BR": "Cristo, ouvi-nos.",
+            "pt-BR": "Jesus Cristo, ouvi-nos.",
             "la": "Christe, audi nos."
           },
           "r": {
             "en-US": "Christ, graciously hear us.",
-            "pt-BR": "Cristo, atendei-nos.",
+            "pt-BR": "Jesus Cristo, atendei-nos.",
             "la": "Christe, exáudi nos."
           }
         }
@@ -69,7 +69,7 @@
         {
           "v": {
             "en-US": "God the Father of Heaven,",
-            "pt-BR": "Deus Pai do Céu,",
+            "pt-BR": "Deus, Pai dos Céus,",
             "la": "Pater de cælis, Deus,"
           },
           "r": {
@@ -105,7 +105,7 @@
         {
           "v": {
             "en-US": "Holy Trinity, one God,",
-            "pt-BR": "Santíssima Trindade, um só Deus,",
+            "pt-BR": "Santíssima Trindade que sois um só Deus,",
             "la": "Sancta Trínitas, unus Deus,"
           },
           "r": {
@@ -149,7 +149,7 @@
         {
           "v": {
             "en-US": "St. Joseph, renowned offspring of David,",
-            "pt-BR": "São José, ilustre descendente de David,",
+            "pt-BR": "Ilustre filho de Davi,",
             "la": "Proles David ínclyta,"
           },
           "r": {
@@ -161,7 +161,7 @@
         {
           "v": {
             "en-US": "St. Joseph, light of patriarchs,",
-            "pt-BR": "São José, luz dos patriarcas,",
+            "pt-BR": "Luz dos Patriarcas,",
             "la": "Lumen Patriarchárum,"
           },
           "r": {
@@ -173,7 +173,7 @@
         {
           "v": {
             "en-US": "St. Joseph, spouse of the Mother of God,",
-            "pt-BR": "São José, esposo da Mãe de Deus,",
+            "pt-BR": "Esposo da Mãe de Deus,",
             "la": "Dei Genetrícis Sponse,"
           },
           "r": {
@@ -185,7 +185,7 @@
         {
           "v": {
             "en-US": "St. Joseph, chaste guardian of the Virgin,",
-            "pt-BR": "São José, casto guardião da Virgem,",
+            "pt-BR": "Casto guarda da Virgem,",
             "la": "Custos pudíce Vírginis,"
           },
           "r": {
@@ -197,7 +197,7 @@
         {
           "v": {
             "en-US": "St. Joseph, foster-father of the Son of God,",
-            "pt-BR": "São José, pai adotivo do Filho de Deus,",
+            "pt-BR": "Sustentador do Filho de Deus,",
             "la": "Fílii Dei nutrície,"
           },
           "r": {
@@ -209,7 +209,7 @@
         {
           "v": {
             "en-US": "St. Joseph, diligent protector of Christ,",
-            "pt-BR": "São José, zeloso defensor de Cristo,",
+            "pt-BR": "Zeloso defensor de Jesus Cristo,",
             "la": "Christi defénsor sédule,"
           },
           "r": {
@@ -221,7 +221,7 @@
         {
           "v": {
             "en-US": "St. Joseph, Guardian of the Redeemer,",
-            "pt-BR": "São José, Guardião do Redentor,",
+            "pt-BR": "Guardião do Redentor,",
             "la": "Custos Redemptóris,"
           },
           "r": {
@@ -233,7 +233,7 @@
         {
           "v": {
             "en-US": "St. Joseph, Servant of Christ,",
-            "pt-BR": "São José, Servo de Cristo,",
+            "pt-BR": "Servo de Cristo,",
             "la": "Serve Christi,"
           },
           "r": {
@@ -245,7 +245,7 @@
         {
           "v": {
             "en-US": "St. Joseph, Minister of salvation,",
-            "pt-BR": "São José, Ministro da salvação,",
+            "pt-BR": "Ministro da Salvação,",
             "la": "Miníster salútis,"
           },
           "r": {
@@ -257,7 +257,7 @@
         {
           "v": {
             "en-US": "St. Joseph, head of the Holy Family,",
-            "pt-BR": "São José, chefe da Sagrada Família,",
+            "pt-BR": "Chefe da Sagrada Família,",
             "la": "Almæ Famíliæ præses,"
           },
           "r": {
@@ -269,7 +269,7 @@
         {
           "v": {
             "en-US": "St. Joseph, most just,",
-            "pt-BR": "São José, justíssimo,",
+            "pt-BR": "José justíssimo,",
             "la": "Ioseph iustíssime,"
           },
           "r": {
@@ -281,7 +281,7 @@
         {
           "v": {
             "en-US": "St. Joseph, most chaste,",
-            "pt-BR": "São José, castíssimo,",
+            "pt-BR": "José castíssimo,",
             "la": "Ioseph castíssime,"
           },
           "r": {
@@ -293,7 +293,7 @@
         {
           "v": {
             "en-US": "St. Joseph, most prudent,",
-            "pt-BR": "São José, prudentíssimo,",
+            "pt-BR": "José prudentíssimo,",
             "la": "Ioseph prudentíssime,"
           },
           "r": {
@@ -305,7 +305,7 @@
         {
           "v": {
             "en-US": "St. Joseph, most courageous,",
-            "pt-BR": "São José, fortíssimo,",
+            "pt-BR": "José fortíssimo,",
             "la": "Ioseph fortíssime,"
           },
           "r": {
@@ -317,7 +317,7 @@
         {
           "v": {
             "en-US": "St. Joseph, most obedient,",
-            "pt-BR": "São José, obedientíssimo,",
+            "pt-BR": "José obedientíssimo,",
             "la": "Ioseph obœdientíssime,"
           },
           "r": {
@@ -329,7 +329,7 @@
         {
           "v": {
             "en-US": "St. Joseph, most faithful,",
-            "pt-BR": "São José, fidelíssimo,",
+            "pt-BR": "José fidelíssimo,",
             "la": "Ioseph fidelíssime,"
           },
           "r": {
@@ -341,7 +341,7 @@
         {
           "v": {
             "en-US": "St. Joseph, mirror of patience,",
-            "pt-BR": "São José, espelho de paciência,",
+            "pt-BR": "Espelho de paciência,",
             "la": "Spéculum patiéntiæ,"
           },
           "r": {
@@ -353,7 +353,7 @@
         {
           "v": {
             "en-US": "St. Joseph, lover of poverty,",
-            "pt-BR": "São José, amante da pobreza,",
+            "pt-BR": "Amante da pobreza,",
             "la": "Amátor paupertátis,"
           },
           "r": {
@@ -365,7 +365,7 @@
         {
           "v": {
             "en-US": "St. Joseph, model of artisans,",
-            "pt-BR": "São José, modelo dos operários,",
+            "pt-BR": "Modelo dos trabalhadores,",
             "la": "Exémplar opíficum,"
           },
           "r": {
@@ -377,7 +377,7 @@
         {
           "v": {
             "en-US": "St. Joseph, glory of home life,",
-            "pt-BR": "São José, glória da vida doméstica,",
+            "pt-BR": "Honra da vida de família,",
             "la": "Domésticæ vitæ decus,"
           },
           "r": {
@@ -389,7 +389,7 @@
         {
           "v": {
             "en-US": "St. Joseph, guardian of virgins,",
-            "pt-BR": "São José, guardião das virgens,",
+            "pt-BR": "Guarda das virgens,",
             "la": "Custos vírginum,"
           },
           "r": {
@@ -401,7 +401,7 @@
         {
           "v": {
             "en-US": "St. Joseph, pillar of families,",
-            "pt-BR": "São José, sustentáculo das famílias,",
+            "pt-BR": "Sustentáculo das famílias,",
             "la": "Familiárum cólumen,"
           },
           "r": {
@@ -413,7 +413,7 @@
         {
           "v": {
             "en-US": "St. Joseph, Support in difficulties,",
-            "pt-BR": "São José, Amparo nas dificuldades,",
+            "pt-BR": "Amparo nas dificuldades,",
             "la": "Fulcímen in difficultátibus,"
           },
           "r": {
@@ -425,7 +425,7 @@
         {
           "v": {
             "en-US": "St. Joseph, solace of the wretched,",
-            "pt-BR": "São José, consólo dos desgraçados,",
+            "pt-BR": "Alívio dos miseráveis,",
             "la": "Solátium miserórum,"
           },
           "r": {
@@ -437,7 +437,7 @@
         {
           "v": {
             "en-US": "St. Joseph, hope of the sick,",
-            "pt-BR": "São José, esperança dos enfermos,",
+            "pt-BR": "Esperança dos doentes,",
             "la": "Spes ægrotántium,"
           },
           "r": {
@@ -449,7 +449,7 @@
         {
           "v": {
             "en-US": "St. Joseph, patron of exiles,",
-            "pt-BR": "São José, patrono dos exilados,",
+            "pt-BR": "Patrono dos exilados,",
             "la": "Patróne éxsulum,"
           },
           "r": {
@@ -461,7 +461,7 @@
         {
           "v": {
             "en-US": "St. Joseph, patron of the afflicted,",
-            "pt-BR": "São José, patrono dos aflitos,",
+            "pt-BR": "Patrono dos aflitos,",
             "la": "Patróne afflictórum,"
           },
           "r": {
@@ -473,7 +473,7 @@
         {
           "v": {
             "en-US": "St. Joseph, patron of the poor,",
-            "pt-BR": "São José, patrono dos pobres,",
+            "pt-BR": "Patrono dos pobres,",
             "la": "Patróne páuperum,"
           },
           "r": {
@@ -485,7 +485,7 @@
         {
           "v": {
             "en-US": "St. Joseph, patron of the dying,",
-            "pt-BR": "São José, patrono dos moribundos,",
+            "pt-BR": "Patrono dos moribundos,",
             "la": "Patróne moriéntium,"
           },
           "r": {
@@ -497,7 +497,7 @@
         {
           "v": {
             "en-US": "St. Joseph, terror of demons,",
-            "pt-BR": "São José, terror dos demônios,",
+            "pt-BR": "Terror dos demônios,",
             "la": "Terror dǽmonum,"
           },
           "r": {
@@ -509,7 +509,7 @@
         {
           "v": {
             "en-US": "St. Joseph, protector of Holy Church,",
-            "pt-BR": "São José, protetor da Santa Igreja,",
+            "pt-BR": "Protetor da Santa Igreja,",
             "la": "Protéctor sanctæ Ecclésiæ,"
           },
           "r": {
@@ -573,12 +573,12 @@
         {
           "v": {
             "en-US": "He made him the lord of his household.",
-            "pt-BR": "Ele o constituiu senhor de sua casa.",
+            "pt-BR": "Ele constituiu-o Senhor da sua casa.",
             "la": "Constítuit eum dóminum domus suæ."
           },
           "r": {
             "en-US": "And ruler of all his possessions.",
-            "pt-BR": "E príncipe de todos os seus bens.",
+            "pt-BR": "E o fez príncipe de todos os seus bens.",
             "la": "Et príncipem omnis possessiónis suæ."
           }
         }
@@ -596,7 +596,7 @@
       "type": "prayer",
       "inline": {
         "en-US": "O God, who in Thine ineffable providence didst choose Blessed Joseph to be the spouse of Thy most holy Mother, grant, we beseech Thee, that we may be worthy to receive him for our intercessor in heaven, whom on earth we venerate as our protector. Who livest and reignest world without end. Amen.",
-        "pt-BR": "Ó Deus, que na Vossa inefável providência Vos dignastes escolher o Bem-aventurado José para esposo de Vossa Santíssima Mãe, concedei-nos, Vos suplicamos, que mereçamos tê-lo por intercessor no céu, a quem na terra veneramos como protetor. Que viveis e reinais pelos séculos dos séculos. Amém.",
+        "pt-BR": "Ó Deus, que por inefável providência vos dignastes escolher a São José por esposo de vossa Mãe Santíssima; concedei-nos, vo-lo pedimos, que mereçamos ter por intercessor no céu, aquele que veneramos na terra como protetor. Vós que viveis e reinais por todos os séculos dos séculos. Amém.",
         "la": "Deus, qui in ineffábili providéntia beátum Ioseph sanctíssimæ Genetrícis tuæ Sponsum elígere dignátus es, præsta, quǽsumus, ut quem protectórem venerámur in terris, intercessórem habére mereámur in cælis: Qui vivis et regnas in sǽcula sæculórum. Amen."
       }
     }

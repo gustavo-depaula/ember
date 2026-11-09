@@ -22,7 +22,11 @@
 	},
 	"howToPray": {
 		"en-US": "The leader recites the invocations and the assembly responds \"Pray for us\" or \"Have mercy on us.\" The litany concludes with the Lamb of God, a versicle and response, and a collect prayer.",
-		"pt-BR": "O líder recita as invocações e a assembleia responde \"Rogai por nós\" ou \"Tende piedade de nós\". A ladainha conclui com o Cordeiro de Deus, um versículo e resposta, e uma oração colecta."
+		"pt-BR": "O líder recita as invocações e a assembleia responde \"Rogai por nós\" ou \"Tende piedade de nós\". A ladainha conclui com o Cordeiro de Deus, um versículo e resposta, e uma oração coleta."
+	},
+	"source": {
+		"en-US": "Portuguese litany: Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=195&section2=)",
+		"pt-BR": "Ladainha: Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=195&section2=)"
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",

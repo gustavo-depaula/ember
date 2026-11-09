@@ -23,6 +23,10 @@
 		"en-US": "Pause at three o'clock. If possible, stand before a crucifix or an image of the Divine Mercy. You need only a moment — but give it fully. Make the Sign of the Cross and immerse yourself briefly in the mystery of Christ's death for souls. Pray the brief prayers below with faith.",
 		"pt-BR": "Pare às três da tarde. Se possível, fique diante de um crucifixo ou de uma imagem da Divina Misericórdia. Basta um momento — mas oferecê-lo por inteiro. Faça o Sinal da Cruz e mergulhe brevemente no mistério da morte de Cristo pelas almas. Reze as breves orações abaixo com fé."
 	},
+	"source": {
+		"en-US": "Portuguese text of *Diary* 1320 and 84: Portal Divina Misericórdia, Padres Marianos — [misericordia.org.br](https://misericordia.org.br/formacoes/hora-da-misericordia/), [misericordia.org.br](https://misericordia.org.br/formacoes/sagrado-coracao-de-jesus-fonte-de-inesgotavel-misericordia/)",
+		"pt-BR": "*Diário* de Santa Faustina, 1320 e 84: Portal Divina Misericórdia, Padres Marianos — [misericordia.org.br](https://misericordia.org.br/formacoes/hora-da-misericordia/), [misericordia.org.br](https://misericordia.org.br/formacoes/sagrado-coracao-de-jesus-fonte-de-inesgotavel-misericordia/)"
+	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
 	"flow": "flow.json",

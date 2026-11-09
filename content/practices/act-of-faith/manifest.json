@@ -16,13 +16,17 @@
 		"sl": "Dejanje vere",
 		"sv": "En akt av tro"
 	},
+	"source": {
+		"en-US": "Portuguese text: Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=192&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=192&section2=)"
+	},
 	"flow": {
 		"sections": [
 			{
 				"type": "prayer",
 				"inline": {
 					"en-US": "O my God, I firmly believe that Thou art one God in three Divine Persons, Father, Son, and Holy Ghost. I believe that Thy Divine Son became man, and died for our sins, and that He will come to judge the living and the dead. I believe these and all the truths which the Holy Catholic Church teaches, because Thou hast revealed them, who canst neither deceive nor be deceived. Amen.",
-					"pt-BR": "Meu Deus, creio firmemente em todas as verdades que a Santa Igreja Católica nos propõe para crer, porque Vós, ó Deus, as revelastes, sendo a Verdade Suma, que não pode enganar nem ser enganada. Creio particularmente que sois um só Deus em três Pessoas igualmente distintas, o Pai, o Filho e o Espírito Santo. Creio que o Filho de Deus se fez homem e que morreu e ressuscitou para nossa redenção. Amém.",
+					"pt-BR": "Eu creio firmemente que há um só Deus em três pessoas realmente distintas, Pai, Filho e Espírito Santo; que dá o céu aos bons e o inferno aos maus, para sempre. Creio que o Filho de Deus se fez homem, padeceu e morreu na cruz para nos salvar, e ao terceiro dia ressuscitou. Creio em tudo mais que crê e ensina a Igreja Católica, Apostólica, Romana, porque Deus, verdade infalível, lho revelou. Nesta crença quero viver e morrer.",
 					"la": "Domine Deus, firma fide credo et confiteor omnia et singula quae sancta Ecclesia Catholica proponit, quia Tu, Deus, ea omnia revelasti, qui es aeterna veritas et sapientia quae nec fallere nec falli potest. Amen.",
 					"ca": "Déu meu, crec fermament tot el que vós, veritat infal·lible, heu revelat, i la santa Església ens proposa creure. I expressament crec en vós, únic Déu veritable, en tres persones iguals i realment distintes: Pare, Fill i Esperit Sant. I en Jesucrist, el vostre Fill, encarnat i mort per nosaltres, el qual donarà a cadascú, segons els seus mèrits, el premi o la pena eterna. Segons aquesta fe vull viure sempre. Senyor, augmenteu la meva fe.\n\nAmén.",
 					"da": "Jeg tror på Gud Fader;\n\njeg tror på Gud Sønnen;\n\njeg tror på Gud den Hellige Ånd;\n\njeg tror på den hellige Treenighed;\n\njeg tror på min Herre Jesus Kristus, sand Gud og sandt menneske.",

@@ -25,6 +25,10 @@
 		"en-US": "The short form may be prayed daily, especially after Mass. The long form is used as a prayer of protection and spiritual combat.",
 		"pt-BR": "A forma curta pode ser rezada diariamente, especialmente após a Missa. A forma longa é usada como oração de proteção e combate espiritual."
 	},
+	"source": {
+		"en-US": "Portuguese text of the short prayer: Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=197&section2=)",
+		"pt-BR": "Oração curta: Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=197&section2=)"
+	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
 	"flow": "flow.json",

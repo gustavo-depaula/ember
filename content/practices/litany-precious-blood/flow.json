@@ -10,36 +10,36 @@
         {
           "v": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade.",
+            "pt-BR": "Senhor, tende piedade de nós.",
             "la": "Kýrie, eléison."
           },
           "r": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade.",
+            "pt-BR": "Senhor, tende piedade de nós.",
             "la": "Kýrie, eléison."
           }
         },
         {
           "v": {
             "en-US": "Christ, have mercy.",
-            "pt-BR": "Cristo, tende piedade.",
+            "pt-BR": "Cristo, tende piedade de nós.",
             "la": "Christe, eléison."
           },
           "r": {
             "en-US": "Christ, have mercy.",
-            "pt-BR": "Cristo, tende piedade.",
+            "pt-BR": "Cristo, tende piedade de nós.",
             "la": "Christe, eléison."
           }
         },
         {
           "v": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade.",
+            "pt-BR": "Senhor, tende piedade de nós.",
             "la": "Kýrie, eléison."
           },
           "r": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade.",
+            "pt-BR": "Senhor, tende piedade de nós.",
             "la": "Kýrie, eléison."
           }
         }
@@ -54,19 +54,19 @@
         {
           "v": {
             "en-US": "Christ, hear us.",
-            "pt-BR": "Cristo, ouvi-nos.",
+            "pt-BR": "Jesus Cristo, ouvi-nos.",
             "la": "Christe, audi nos."
           },
           "r": {
             "en-US": "Christ, graciously hear us.",
-            "pt-BR": "Cristo, atendei-nos.",
+            "pt-BR": "Jesus Cristo, atendei-nos.",
             "la": "Christe, exáudi nos."
           }
         },
         {
           "v": {
             "en-US": "God the Father of Heaven,",
-            "pt-BR": "Deus Pai do Céu,",
+            "pt-BR": "Deus Pai dos céus,",
             "la": "Pater de cælis, Deus,"
           },
           "r": {
@@ -78,7 +78,7 @@
         {
           "v": {
             "en-US": "God the Son, Redeemer of the world,",
-            "pt-BR": "Deus Filho, Redentor do mundo,",
+            "pt-BR": "Deus Filho, redentor do mundo,",
             "la": "Fili, Redémptor mundi, Deus,"
           },
           "r": {
@@ -102,7 +102,7 @@
         {
           "v": {
             "en-US": "Holy Trinity, one God,",
-            "pt-BR": "Santíssima Trindade, um só Deus,",
+            "pt-BR": "Santíssima Trindade, que sois um só Deus,",
             "la": "Sancta Trínitas, unus Deus,"
           },
           "r": {
@@ -122,7 +122,7 @@
         {
           "v": {
             "en-US": "Blood of Christ, only-begotten Son of the Eternal Father,",
-            "pt-BR": "Sangue de Cristo, Filho Unigênito do Eterno Pai,",
+            "pt-BR": "Sangue de Cristo, Sangue do Filho Unigênito do Eterno Pai,",
             "la": "Sanguis Christi, Unigéniti Patris ætérni,"
           },
           "r": {
@@ -134,7 +134,7 @@
         {
           "v": {
             "en-US": "Blood of Christ, Incarnate Word of God,",
-            "pt-BR": "Sangue de Cristo, Verbo de Deus encarnado,",
+            "pt-BR": "Sangue de Cristo, Sangue do Verbo de Deus encarnado,",
             "la": "Sanguis Christi, Verbi Dei incarnáti,"
           },
           "r": {
@@ -146,7 +146,7 @@
         {
           "v": {
             "en-US": "Blood of Christ, of the New and Eternal Testament,",
-            "pt-BR": "Sangue de Cristo, do Novo e Eterno Testamento,",
+            "pt-BR": "Sangue de Cristo, Sangue do Novo e Eterno Testamento,",
             "la": "Sanguis Christi, Novi et Ætérni Testaménti,"
           },
           "r": {
@@ -158,7 +158,7 @@
         {
           "v": {
             "en-US": "Blood of Christ, falling upon the earth in the Agony,",
-            "pt-BR": "Sangue de Cristo, derramado na terra durante a Agonia,",
+            "pt-BR": "Sangue de Cristo, correndo pela terra na agonia,",
             "la": "Sanguis Christi, in agónia decúrrens in terram,"
           },
           "r": {
@@ -170,7 +170,7 @@
         {
           "v": {
             "en-US": "Blood of Christ, shed profusely in the Scourging,",
-            "pt-BR": "Sangue de Cristo, profusamente derramado na Flagelação,",
+            "pt-BR": "Sangue de Cristo, manando abundante na flagelação,",
             "la": "Sanguis Christi, in flagellatióne prófluens,"
           },
           "r": {
@@ -182,7 +182,7 @@
         {
           "v": {
             "en-US": "Blood of Christ, flowing forth in the Crowning with Thorns,",
-            "pt-BR": "Sangue de Cristo, vertido na Coroação de Espinhos,",
+            "pt-BR": "Sangue de Cristo, gotejando na coroação de espinhos,",
             "la": "Sanguis Christi, in coronatióne spinárum emánans,"
           },
           "r": {
@@ -194,7 +194,7 @@
         {
           "v": {
             "en-US": "Blood of Christ, poured out on the Cross,",
-            "pt-BR": "Sangue de Cristo, derramado na Cruz,",
+            "pt-BR": "Sangue de Cristo, derramado na cruz,",
             "la": "Sanguis Christi, in Cruce effúsus,"
           },
           "r": {
@@ -218,7 +218,7 @@
         {
           "v": {
             "en-US": "Blood of Christ, without which there is no forgiveness,",
-            "pt-BR": "Sangue de Cristo, sem o qual não há perdão,",
+            "pt-BR": "Sangue de Cristo, sem o qual não pode haver redenção,",
             "la": "Sanguis Christi, sine quo non fit remíssio,"
           },
           "r": {
@@ -230,7 +230,7 @@
         {
           "v": {
             "en-US": "Blood of Christ, Eucharistic drink and refreshment of souls,",
-            "pt-BR": "Sangue de Cristo, bebida eucarística e refrigério das almas,",
+            "pt-BR": "Sangue de Cristo, que apagais a sede das almas e as purificais na Eucaristia,",
             "la": "Sanguis Christi, in Eucharístia potus et lavácrum animárum,"
           },
           "r": {
@@ -278,7 +278,7 @@
         {
           "v": {
             "en-US": "Blood of Christ, strength of confessors,",
-            "pt-BR": "Sangue de Cristo, vigor dos confessores,",
+            "pt-BR": "Sangue de Cristo, virtude dos confessores,",
             "la": "Sanguis Christi, virtus confessórum,"
           },
           "r": {
@@ -290,7 +290,7 @@
         {
           "v": {
             "en-US": "Blood of Christ, bringing forth virgins,",
-            "pt-BR": "Sangue de Cristo, que gerais as virgens,",
+            "pt-BR": "Sangue de Cristo, que suscitais almas virgens,",
             "la": "Sanguis Christi, gérminans vírgines,"
           },
           "r": {
@@ -302,7 +302,7 @@
         {
           "v": {
             "en-US": "Blood of Christ, help of those in peril,",
-            "pt-BR": "Sangue de Cristo, amparo dos que estão em perigo,",
+            "pt-BR": "Sangue de Cristo, força dos tentados,",
             "la": "Sanguis Christi, robur periclitántium,"
           },
           "r": {
@@ -314,7 +314,7 @@
         {
           "v": {
             "en-US": "Blood of Christ, relief of the burdened,",
-            "pt-BR": "Sangue de Cristo, alívio dos oprimidos,",
+            "pt-BR": "Sangue de Cristo, alívio dos que trabalham,",
             "la": "Sanguis Christi, levámen laborántium,"
           },
           "r": {
@@ -326,7 +326,7 @@
         {
           "v": {
             "en-US": "Blood of Christ, solace in sorrow,",
-            "pt-BR": "Sangue de Cristo, consolo no pranto,",
+            "pt-BR": "Sangue de Cristo, consolação dos que choram,",
             "la": "Sanguis Christi, in fletu solátium,"
           },
           "r": {
@@ -350,7 +350,7 @@
         {
           "v": {
             "en-US": "Blood of Christ, consolation of the dying,",
-            "pt-BR": "Sangue de Cristo, consolação dos moribundos,",
+            "pt-BR": "Sangue de Cristo, conforto dos moribundos,",
             "la": "Sanguis Christi, solámen moriéntium,"
           },
           "r": {
@@ -374,7 +374,7 @@
         {
           "v": {
             "en-US": "Blood of Christ, pledge of eternal life,",
-            "pt-BR": "Sangue de Cristo, penhor da vida eterna,",
+            "pt-BR": "Sangue de Cristo, penhor de eterna vida,",
             "la": "Sanguis Christi, pignus vitæ ætérnæ,"
           },
           "r": {
@@ -386,7 +386,7 @@
         {
           "v": {
             "en-US": "Blood of Christ, freeing souls from purgatory,",
-            "pt-BR": "Sangue de Cristo, que libertais as almas do purgatório,",
+            "pt-BR": "Sangue de Cristo, que libertais as almas do Purgatório,",
             "la": "Sanguis Christi, ánimas líberans de lacu Purgatórii,"
           },
           "r": {
@@ -398,7 +398,7 @@
         {
           "v": {
             "en-US": "Blood of Christ, most worthy of all glory and honor,",
-            "pt-BR": "Sangue de Cristo, digníssimo de toda glória e honra,",
+            "pt-BR": "Sangue de Cristo, digno de toda a honra e glória,",
             "la": "Sanguis Christi, omni glória et honóre digníssimus,"
           },
           "r": {
@@ -447,7 +447,7 @@
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós.",
+            "pt-BR": "Tende piedade de nós, Senhor.",
             "la": "Miserére nobis, Dómine."
           }
         }
@@ -485,7 +485,7 @@
       "type": "prayer",
       "inline": {
         "en-US": "Almighty and eternal God, who hast appointed Thine only-begotten Son the Redeemer of the world, and willed to be appeased by His Blood, grant, we beseech Thee, that we may worthily adore this price of our salvation, and through its power be safeguarded from the evils of the present life, so that we may rejoice in its fruits forever in heaven. Through the same Christ our Lord. Amen.",
-        "pt-BR": "Deus onipotente e eterno, que constituístes Vosso Filho Unigênito Redentor do mundo e quisestes ser aplacado pelo Seu Sangue, concedei-nos, Vos suplicamos, venerar de tal modo o preço da nossa salvação e por seu poder sermos defendidos dos males da vida presente, para que possamos gozar perpetuamente dos seus frutos no céu. Pelo mesmo Cristo Nosso Senhor. Amém.",
+        "pt-BR": "Todo-Poderoso e Eterno Deus, que constituístes o Vosso Unigênito Filho, Redentor do mundo, e quisestes ser aplacado com o seu Sangue, concedei-nos a graça de venerar o preço da nossa salvação e de encontrar, na virtude que Ele contém, defesa contra os males da vida presente, de tal modo que eternamente gozemos dos seus frutos no Céu. Pelo mesmo Cristo, Senhor nosso. Assim seja.",
         "la": "Omnípotens sempitérne Deus, qui unigénitum Fílium tuum mundi Redemptórem constituísti, ac eius sánguine placári voluísti: concéde, quǽsumus, salútis nostræ prétium ita venerári, atque a præséntis vitæ malis eius virtúte deféndi in terris, ut fructu perpétuo lætémur in cælis. Per eundem Christum Dóminum nostrum. Amen."
       }
     }

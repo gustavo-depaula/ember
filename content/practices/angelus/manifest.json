@@ -1,6 +1,10 @@
 {
 	"id": "angelus",
 	"icon": "bell",
+	"source": {
+		"en-US": "Portuguese text of the Regina Caeli and of both closing prayers: Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=195&section2=)",
+		"pt-BR": "Rainha do Céu e orações finais: Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=195&section2=)"
+	},
 	"name": {
 		"en-US": "Angelus",
 		"pt-BR": "Angelus"

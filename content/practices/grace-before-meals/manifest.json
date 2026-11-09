@@ -6,13 +6,17 @@
 		"pt-BR": "Bênção à Mesa",
 		"la": "Benedictio Mensae"
 	},
+	"source": {
+		"en-US": "Portuguese text: Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=198&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=198&section2=)"
+	},
 	"flow": {
 		"sections": [
 			{
 				"type": "prayer",
 				"inline": {
 					"en-US": "Bless us, O Lord, and these Thy gifts, which we are about to receive from Thy bounty, through Christ our Lord. Amen.",
-					"pt-BR": "Abençoai-nos, Senhor, e estes vossos dons que vamos receber da Vossa bondade. Por Cristo Nosso Senhor. Amém.",
+					"pt-BR": "Abençoai-nos, Senhor, a nós e a estes dons que da vossa liberalidade recebemos. Por Cristo Senhor Nosso. Amém.",
 					"la": "Benedic, Domine, nos et haec tua dona, quae de tua largitate sumus sumpturi. Per Christum Dominum nostrum. Amen."
 				}
 			}

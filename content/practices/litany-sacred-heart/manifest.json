@@ -25,6 +25,10 @@
 		"en-US": "Pray the opening Kyrie, then respond 'Have mercy on us' to each invocation. After the Lamb of God, respond as indicated, then pray the closing versicle and collect.",
 		"pt-BR": "Reze o Kyrie inicial, depois responda 'Tende piedade de nós' a cada invocação. Após o Cordeiro de Deus, responda conforme indicado, depois reze o versículo e a coleta final."
 	},
+	"source": {
+		"en-US": "Portuguese text: Comunidade Coração Fiel, *Oração e Ladainha do Sagrado Coração de Jesus* — [coracaofiel.com.br](https://coracaofiel.com.br/oracao-e-ladainha-do-sagrado-coracao-de-jesus/); the invocation *spes in te morientium*, which that page garbles, from the Paróquia Sagrado Coração de Jesus, Taubaté — [coracaodejesustaubate.com.br](http://www.coracaodejesustaubate.com.br/ladainha-do-sagrado-coracao-de-jesus-tradicional-com-textos-biblicos/)",
+		"pt-BR": "Comunidade Coração Fiel, *Oração e Ladainha do Sagrado Coração de Jesus* — [coracaofiel.com.br](https://coracaofiel.com.br/oracao-e-ladainha-do-sagrado-coracao-de-jesus/); a invocação *spes in te morientium*, que essa página traz trocada, segundo a Paróquia Sagrado Coração de Jesus de Taubaté — [coracaodejesustaubate.com.br](http://www.coracaodejesustaubate.com.br/ladainha-do-sagrado-coracao-de-jesus-tradicional-com-textos-biblicos/)"
+	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
 	"flow": "flow.json",

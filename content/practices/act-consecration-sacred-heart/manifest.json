@@ -26,6 +26,10 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
+	"source": {
+		"en-US": "Portuguese text: Irmandade Nossa Senhora do Carmo (Uberlândia), *Ato de Consagração ao Sagrado Coração de Jesus* (Pius XI, 1925) — [irmandadedocarmo.org](https://irmandadedocarmo.org/2015/06/12/cor-jesu-sacratissimum-miserere-nobis/)",
+		"pt-BR": "Irmandade Nossa Senhora do Carmo (Uberlândia), *Ato de Consagração ao Sagrado Coração de Jesus* (Pio XI, 1925); “pólo” grafado “polo” — [irmandadedocarmo.org](https://irmandadedocarmo.org/2015/06/12/cor-jesu-sacratissimum-miserere-nobis/)"
+	},
 	"flow": "flow.json",
 	"tags": [
 		"sacred-heart",

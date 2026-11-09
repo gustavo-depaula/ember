@@ -22,6 +22,10 @@
 	"flowMode": "scroll",
 	"completion": "flow-end",
 	"flow": "flow.json",
+	"source": {
+		"en-US": "Portuguese text of the consecration: Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=195&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=195&section2=)"
+	},
 	"tags": ["dies-domini", "saturday", "marian", "theotokos"],
 	"defaults": {
 		"sortOrder": 76,

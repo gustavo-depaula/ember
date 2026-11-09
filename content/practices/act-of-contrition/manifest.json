@@ -16,13 +16,17 @@
 		"sl": "Moj Bog, žal mi je",
 		"sv": "Akt av ånger"
 	},
+	"source": {
+		"en-US": "Portuguese text: Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=191&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=191&section2=)"
+	},
 	"flow": {
 		"sections": [
 			{
 				"type": "prayer",
 				"inline": {
 					"en-US": "O my God, I am heartily sorry for having offended Thee,\nand I detest all my sins, because of Thy just punishments,\nbut most of all because they offend Thee, my God,\nWho art all-good and deserving of all my love.\nI firmly resolve, with the help of Thy grace,\nto sin no more and to avoid the near occasions of sin.\nAmen.",
-					"pt-BR": "Meu Deus, pesa-me muito ter-Vos ofendido,\nporque sois infinitamente bom e o pecado Vos desagrada.\nProponho firmemente, com o auxílio da Vossa graça,\nnão Vos ofender mais e evitar as ocasiões de pecado.\nAmém.",
+					"pt-BR": "Senhor, eu me arrependo sinceramente de todo mal que pratiquei e do bem que deixei de fazer.\nPecando, eu vos ofendi, meu Deus e sumo bem, digno de ser amado sobre todas as coisas.\nPrometo firmemente, ajudado com a vossa graça, fazer penitência e fugir às ocasiões de pecar.\nAmém.",
 					"la": "Deus meus, ex toto corde pænitet me omnium meorum peccatorum,\næque detestor, quia peccando, non solum pœnas a Te iuste statutas promeritus sum,\nsed præsertim quia offendi Te, summum bonum, ac dignum qui super omnia diligaris.\nIdeo firmiter propono, adiuvante Tua gratia, de cetero me non peccaturum\npeccandique occasiones proximas fugiturum.\nAmen.",
 					"ca": "Senyor meu Jesucrist, Déu i home vertader, Creador, Pare i Redemptor meu; per ser vós qui sou bondat infinita, i perquè us estimo sobre totes les coses, em pesa de tot cor d’haver-vos ofès; també em pesa perquè em podeu castigar amb les penes eternes de l’infern. Ajudat de la vostra divina gràcia, proposo no tornar mai més a pecar, confessar-me, esmenar-me, i complir la penitència que em serà donada. Amén.",
 					"es": "Señor mío Jesucristo, Dios y hombre verdadero, Creador, Padre y Redentor mío: por ser Vos quien sois, Bondad infinita, y porque os amo sobre todas las cosas, me pesa de todo corazón haberos ofendido. También me pesa que podéis castigarme con las penas del infierno. Ayudado de vuestra divina gracia, propongo firmemente nunca más pecar, confesarme y cumplir la penitencia que me fuera impuesta. Amén.",

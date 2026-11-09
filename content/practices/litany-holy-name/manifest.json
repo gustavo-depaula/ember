@@ -24,6 +24,10 @@
 		"en-US": "The leader recites the invocations and the assembly responds 'Have mercy on us.' The litany begins with the Kyrie and concludes with the Lamb of God, a versicle and response, and a collect prayer.",
 		"pt-BR": "O l\u00edder recita as invoca\u00e7\u00f5es e a assembleia responde 'Tende piedade de n\u00f3s.' A ladainha come\u00e7a com o Kyrie e conclui com o Cordeiro de Deus, um vers\u00edculo e resposta, e uma ora\u00e7\u00e3o colecta."
 	},
+	"source": {
+		"en-US": "Portuguese text: Campanha Vinde Nossa Senhora de Fátima, *Ladainha do Santíssimo Nome de Jesus* — [fatima.org.br](https://fatima.org.br/nossas_oracoes/ladainha-do-santissimo-nome-de-jesus/)",
+		"pt-BR": "Campanha Vinde Nossa Senhora de Fátima, *Ladainha do Santíssimo Nome de Jesus* — [fatima.org.br](https://fatima.org.br/nossas_oracoes/ladainha-do-santissimo-nome-de-jesus/)"
+	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
 	"flow": "flow.json",

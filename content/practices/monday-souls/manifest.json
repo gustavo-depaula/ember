@@ -19,6 +19,10 @@
 		"en-US": "Hold the dead by name. In the litany of remembrance, pause after each category and bring the faces and the names before God before continuing.",
 		"pt-BR": "Mantenha os defuntos pelo nome. Na ladainha de recordação, pause após cada categoria e traga os rostos e os nomes diante de Deus antes de continuar."
 	},
+	"source": {
+		"en-US": "Portuguese text: Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=200&section2=) (Dai-lhes, Senhor, o repouso eterno)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=200&section2=) (Dai-lhes, Senhor, o repouso eterno)"
+	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
 	"flow": "flow.json",
