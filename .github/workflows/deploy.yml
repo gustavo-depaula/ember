@@ -151,3 +151,7 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          # The corpus is large enough that Pages' file sync can outlast the
+          # action's 10-minute default, which then cancels a good deploy.
+          timeout: 1800000
