@@ -69,7 +69,7 @@
         {
           "v": {
             "en-US": "God the Father of Heaven,",
-            "pt-BR": "Deus, Pai dos Céus,",
+            "pt-BR": "Pai celeste, que sois Deus,",
             "la": "Pater de cælis, Deus,"
           },
           "r": {
@@ -81,7 +81,7 @@
         {
           "v": {
             "en-US": "God the Son, Redeemer of the world,",
-            "pt-BR": "Deus Filho, Redentor do mundo,",
+            "pt-BR": "Filho, Redentor do mundo, que sois Deus,",
             "la": "Fili, Redémptor mundi, Deus,"
           },
           "r": {
@@ -93,7 +93,7 @@
         {
           "v": {
             "en-US": "God the Holy Spirit,",
-            "pt-BR": "Deus Espírito Santo,",
+            "pt-BR": "Espírito Santo, que sois Deus,",
             "la": "Spíritus Sancte, Deus,"
           },
           "r": {
@@ -305,7 +305,7 @@
         {
           "v": {
             "en-US": "Jesus, lover of chastity,",
-            "pt-BR": "Jesus, que amais a castidade,",
+            "pt-BR": "Jesus, amante da castidade,",
             "la": "Iesu, amátor castitátis,"
           },
           "r": {
@@ -317,7 +317,7 @@
         {
           "v": {
             "en-US": "Jesus, lover of us,",
-            "pt-BR": "Jesus, que nos amais,",
+            "pt-BR": "Jesus, amador nosso,",
             "la": "Iesu, amátor noster,"
           },
           "r": {
@@ -621,7 +621,7 @@
         {
           "v": {
             "en-US": "From all evil,",
-            "pt-BR": "De todo mal,",
+            "pt-BR": "De todo o mal,",
             "la": "Ab omni malo,"
           },
           "r": {
@@ -633,7 +633,7 @@
         {
           "v": {
             "en-US": "From all sin,",
-            "pt-BR": "De todo pecado,",
+            "pt-BR": "De todo o pecado,",
             "la": "Ab omni peccáto,"
           },
           "r": {
@@ -717,7 +717,7 @@
         {
           "v": {
             "en-US": "Through Thy Nativity,",
-            "pt-BR": "Pelo vosso nascimento,",
+            "pt-BR": "Pela vossa natividade,",
             "la": "Per nativitátem tuam,"
           },
           "r": {
@@ -898,7 +898,7 @@
           },
           "r": {
             "en-US": "Graciously hear us, O Jesus.",
-            "pt-BR": "Atendei-nos, Jesus.",
+            "pt-BR": "Ouvi-nos, Jesus.",
             "la": "Exáudi nos, Iesu."
           }
         },
@@ -948,7 +948,7 @@
       "type": "prayer",
       "inline": {
         "en-US": "Lord Jesus Christ, who hast said: Ask and ye shall receive; seek and ye shall find; knock and it shall be opened unto you; grant, we beseech Thee, to us who ask, the gift of Thy most divine love, that we may ever love Thee with our whole heart, and in word and deed, and never cease from praising Thee. Give us, O Lord, a perpetual fear and love of Thy Holy Name; for Thou never failest to govern those whom Thou dost solidly establish in Thy love. Who livest and reignest world without end. Amen.",
-        "pt-BR": "Senhor Jesus Cristo, que dissestes: Pedi e recebereis; buscai e achareis; batei e abrir-se-vos-á, nós Vos suplicamos que concedais a nós, que Vo-lo pedimos, os sentimentos afetivos de vosso divino amor, a fim de que Vos amemos de todo o coração, boca e obras, e nunca cessemos de Vos louvar. Permiti que tenhamos sempre, Senhor, um igual temor e amor pelo vosso santo Nome; pois não deixais de governar aqueles que estabeleceis na firmeza do vosso amor. Vós que viveis e reinais pelos séculos dos séculos. Amém.",
+        "pt-BR": "Senhor Jesus Cristo, que dissestes: Pedi e recebereis; buscai e achareis; batei e abrir-se-vos-á, nós Vos suplicamos que concedais a nós, que Vo-lo pedimos, os sentimentos afetivos de vosso divino amor, a fim de que Vos amemos de todo o coração e que esse amor transcenda por nossas ações. Permiti que tenhamos sempre, Senhor, um igual temor e amor pelo vosso santo Nome; pois não deixais de governar aqueles que estabeleceis na firmeza do vosso amor. Vós que viveis e reinais pelos séculos dos séculos. Amém.",
         "la": "Dómine Iesu Christe, qui dixísti: Pétite et accipiétis; quǽrite et inveniétis; pulsáte et aperiétur vobis; quǽsumus, da nobis peténtibus diviníssimi tui amóris afféctum, ut te toto corde, ore et ópere diligámus et a tua numquam laude cessémus. Sancti Nóminis tui, Dómine, timórem páriter et amórem fac nos habére perpétuum, quia numquam tua gubernatióne destítuis, quos in soliditáte, tuæ dilectiónis instítuis. Qui vivis et regnas in sǽcula sæculórum. Amen."
       }
     }
