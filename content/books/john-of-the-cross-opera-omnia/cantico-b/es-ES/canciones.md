@@ -53,7 +53,7 @@ Las flechas que recibes,\
 De lo que del Amado en ti concibes?
 
 9. — ¿Por qué, pues, has llagado[^12]\
-Aqueste' corazón, no le sanaste?\
+Aqueste corazón, no le sanaste?\
 Y pues me le has robado,\
 ¿Por qué así le dejaste,\
 Y no tomas el robo que robaste?
@@ -62,8 +62,9 @@ Y no tomas el robo que robaste?
 Pues que ninguno basta a deshacellos,\
 Y véante mis ojos,\
 Pues eres lumbre de ellos,\
-Y sólo para ti quiero tenellos[^13].\
-1 1 . — Descubre tu presencia,\
+Y sólo para ti quiero tenellos[^13].
+
+11. — Descubre tu presencia,\
 Y máteme tu vista y hermosura;\
 Mira que la dolencia\
 De amor, que no se cura\

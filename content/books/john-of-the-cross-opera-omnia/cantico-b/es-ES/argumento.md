@@ -4,7 +4,7 @@
 
 1. El orden que llevan estas Canciones es desde que un alma comienza a servir a Dios hasta que llega al último estado[^2] de perfección, que es matrimonio espiritual; y así, en ellas se tocan los tres estados o vías de ejercicio espiritual por las cuales pasa el alma hasta llegar al dicho estado, que son: purgativa, iluminativa y unitiva, y se declaran acerca de cada una algunas propiedades y efectos de ella[^3].
 
-2. El principio de ellas trata de los principiantes, que es la vía purgativa. Las de más adelante tratan de los aprovechados, donde se hace el desposorio[^4] espiritual, y ésta es la vía iluminativa. Después de éstas, las que se siguen tratan de la vía unitiva, que es la de los perfectos, donde se hace el matrimonio espiritual. La cual vía unitiva y de perfectos se sigue a' la iluminativa, que es de los aprovechados[^5]; y las últimas canciones tratan del estado beatífico, que sólo ya el alma en aquel estado perfecto pretende[^6].
+2. El principio de ellas trata de los principiantes, que es la vía purgativa. Las de más adelante tratan de los aprovechados, donde se hace el desposorio[^4] espiritual, y ésta es la vía iluminativa. Después de éstas, las que se siguen tratan de la vía unitiva, que es la de los perfectos, donde se hace el matrimonio espiritual. La cual vía unitiva y de perfectos se sigue a la iluminativa, que es de los aprovechados[^5]; y las últimas canciones tratan del estado beatífico, que sólo ya el alma en aquel estado perfecto pretende[^6].
 
 ## Comienza la declaración de las canciones de amor entre la Esposa y el Esposo Cristo[^7]
 
