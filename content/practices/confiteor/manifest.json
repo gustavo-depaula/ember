@@ -34,7 +34,7 @@
 	},
 	"source": {
 		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=296&section2=)",
-		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=191&section2=)"
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=191&section2=). A segunda fórmula acrescenta \"pensamentos\", que falta no Devocionário (latim: *cogitatione, verbo et opere*)."
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",

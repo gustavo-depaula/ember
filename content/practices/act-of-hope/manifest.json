@@ -18,7 +18,7 @@
 	},
 	"source": {
 		"en-US": "Portuguese text: Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=192&section2=)",
-		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=192&section2=)"
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=192&section2=). \"haveis prometido\" corrige o \"havia\" do Devocionário."
 	},
 	"flow": {
 		"sections": [
@@ -26,7 +26,7 @@
 				"type": "prayer",
 				"inline": {
 					"en-US": "O my God, relying on Thy infinite goodness and promises, I hope to obtain pardon of my sins, the help of Thy grace, and life everlasting, through the merits of Jesus Christ, my Lord and Redeemer. Amen.",
-					"pt-BR": "Eu espero, meu Deus, com firme confiança, que pelos merecimentos do nosso Senhor Jesus Cristo, me dareis a salvação eterna e as graças necessárias para consegui-la, porque vós, sumamente bom e poderoso, o havia prometido a quem observar os mandamentos e o evangelho de Jesus, como eu proponho fazer com o vosso auxílio.",
+					"pt-BR": "Eu espero, meu Deus, com firme confiança, que pelos merecimentos do nosso Senhor Jesus Cristo, me dareis a salvação eterna e as graças necessárias para consegui-la, porque vós, sumamente bom e poderoso, o haveis prometido a quem observar os mandamentos e o evangelho de Jesus, como eu proponho fazer com o vosso auxílio.",
 					"la": "Domine Deus, spero per gratiam Tuam remissionem omnium peccatorum, et post hanc vitam aeternam felicitatem me esse consecuturum: quia Tu promisisti, qui es infinitae veritatis et bonitatis. Amen.",
 					"ca": "Déu meu, espero de la vostra bondat, per les vostres promeses i pels mèrits de Jesucrist Salvador nostre, la via eterna i les gràcies necessàries per a merèixer-la amb les bones obres que jo he de i vull practicar.\n\nSenyor, que jo no sigui confós eternament.\n\nAmén.",
 					"da": "Jeg håber på Gud Fader;\n\njeg håber på Gud Sønnen;\n\njeg håber på Gud den Hellige Ånd;\n\njeg håber på den hellige Treenighed;\n\njeg håber på min Herre Jesus Kristus, sand Gud og sandt menneske.",
