@@ -1,0 +1,274 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The loop — plan, prayer, holy card</title>
+<link rel="stylesheet" href="style.css">
+<style>
+.alt { font: 400 12px var(--head); letter-spacing: 2px; color: var(--burgundy); }
+
+/* ── the envelope (features/saints/redeem/Envelope.tsx): laid paper, red wax, a gold ✠ ── */
+.env { position: relative; border-radius: 6px; background: #f1e3c2 url(assets/envelope-paper.webp) center / cover; background-blend-mode: multiply;
+  box-shadow: 0 8px 18px rgba(60,40,15,.22), inset 0 0 0 1px rgba(150,120,70,.18); overflow: hidden; }
+.env .flap { position: absolute; left: 0; right: 0; top: 0; height: 52%; background: linear-gradient(180deg, #efe2c4, #e3d2ac);
+  clip-path: polygon(0 0, 100% 0, 50% 100%); box-shadow: 0 1px 0 rgba(0,0,0,.1); }
+.env .flap::after { content: ''; position: absolute; inset: 0; background: #e9d8b2 url(assets/envelope-paper.webp) center / cover; background-blend-mode: multiply; opacity: .5; }
+.wax { position: absolute; left: 50%; transform: translate(-50%, -50%); border-radius: 50%;
+  background: radial-gradient(circle at 38% 34%, #B23A3A, #7D1A1E 62%, #5E1114); box-shadow: 0 2px 4px rgba(0,0,0,.35), inset 0 -2px 3px rgba(0,0,0,.25);
+  display: grid; place-items: center; color: #E8C97A; font-family: var(--title); }
+.wax.open { background: none; box-shadow: none; border: 1.5px dashed #C2A87A; color: #C2A87A; }
+.env .addr { position: absolute; left: 0; right: 0; bottom: 9%; text-align: center; color: #3A2C1C; }
+.env .addr .n { font: italic 400 17px/20px var(--title); }
+.env .addr .d { font: 400 9.5px var(--head); letter-spacing: 1.4px; color: #8A7250; margin-top: 3px; text-transform: uppercase; }
+.env .onflap { position: absolute; top: 8%; left: 0; right: 0; text-align: center; font: 400 9px var(--head); letter-spacing: 1.3px; color: #8A7250; z-index: 2; }
+
+/* seals as progress: one per prayer of a prayed day */
+.seals { display: flex; gap: 14px; justify-content: center; }
+.seal { text-align: center; }
+.seal .wax { position: relative; left: auto; transform: none; width: 34px; height: 34px; font-size: 14px; margin: 0 auto; }
+.seal span { display: block; font: 400 9.5px var(--head); letter-spacing: 1.2px; color: var(--muted); margin-top: 5px; text-transform: uppercase; }
+.seal.done span { color: var(--burgundy); }
+
+/* Today, as on 10 November at 20:31 */
+.mini-card { border-radius: 5px; background: #2a2118 center / cover; box-shadow: 0 3px 8px rgba(0,0,0,.3); flex: none; }
+.mini-card.back { background: #F3EAD6 url(assets/card_back_frame.webp) center / cover; display: grid; place-items: center; color: #8B6914; font-family: var(--title); }
+.cardmark { color: var(--goldDeep); font-size: 12px; margin-left: 6px; vertical-align: 1px; }
+.plan-item .c.done { font-size: 12px; }
+.plan-item.ideal .n { color: var(--muted); }
+.ways { margin-top: 10px; border-top: 1px solid var(--line); padding-top: 10px; display: flex; gap: 12px; align-items: center; }
+.ways p { font-size: 14.5px; line-height: 19px; }
+.ways p b { font-weight: 400; color: var(--burgundy); }
+.ring { width: 64px; height: 64px; border-radius: 50%; padding: 4px; flex: none; position: relative; }
+.ring > div { width: 100%; height: 100%; border-radius: 50%; border: 2.5px solid #fff; background: #F3EAD6 url(assets/card_back_frame.webp) center / cover; display: grid; place-items: center; color: #8B6914; font: 400 20px var(--title); }
+
+/* the sheet */
+.sheet .way { display: flex; gap: 14px; align-items: center; padding: 12px 0; border-top: 1px solid var(--line); }
+.sheet .way .w { flex: 1; }
+.sheet .way .wt { font: 400 18px/21px var(--title); }
+.sheet .way .wd { font-size: 14px; line-height: 18px; color: var(--muted); }
+.pill { font: 400 10px var(--head); letter-spacing: 1.4px; text-transform: uppercase; padding: 7px 12px; border-radius: 15px; background: var(--surface); color: var(--goldDeep); white-space: nowrap; }
+.pill.solid { background: var(--burgundy); color: var(--blockInk); }
+
+/* the lock screen */
+.lock { position: absolute; inset: 0; background: linear-gradient(180deg, #2B2433, #4A3A3A 55%, #6B4E3A); }
+.lock .clock { position: absolute; top: 92px; left: 0; right: 0; text-align: center; color: rgba(255,255,255,.92); font: 200 84px -apple-system, system-ui, sans-serif; letter-spacing: -2px; }
+.lock .date { position: absolute; top: 74px; left: 0; right: 0; text-align: center; color: rgba(255,255,255,.85); font: 500 18px -apple-system, system-ui, sans-serif; }
+.notes { position: absolute; left: 10px; right: 10px; bottom: 96px; display: flex; flex-direction: column; gap: 8px; }
+.note { border-radius: 20px; background: rgba(245,240,232,.82); backdrop-filter: blur(20px); padding: 11px 13px; display: flex; gap: 10px; font-family: -apple-system, system-ui, sans-serif; position: relative; }
+.note img { width: 36px; height: 36px; border-radius: 9px; flex: none; }
+.note .nt { font-size: 14.5px; font-weight: 600; color: #111; line-height: 18px; }
+.note .nb { font-size: 14.5px; color: #222; line-height: 19px; margin-top: 1px; }
+.note .tm { position: absolute; right: 13px; top: 11px; font-size: 12.5px; color: #555; }
+.note .tag { position: absolute; left: -2px; top: -8px; width: 22px; height: 22px; border-radius: 50%; background: var(--burgundy); color: #fff; font: 400 11px var(--head); display: grid; place-items: center; }
+.note .thumb { width: 38px; height: 57px; border-radius: 4px; background: center / cover; flex: none; margin-left: auto; align-self: center; }
+
+/* choose a starter card */
+.pick { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 16px; }
+.pick div { aspect-ratio: 2/3; border-radius: 7px; background: center / cover; box-shadow: 0 6px 14px rgba(40,25,10,.28); position: relative; }
+.pick div.sel { box-shadow: 0 0 0 3px var(--goldDeep), 0 8px 18px rgba(40,25,10,.35); }
+.pick p { font: 400 13px/15px var(--title); text-align: center; margin-top: 6px; }
+</style>
+</head>
+<body>
+<div class="doc">
+<header>
+  <h1>THE LOOP — PLAN, PRAYER, HOLY CARD</h1>
+  <p>The card rules stay as they are: they reward the liturgy and consistency. These mockups only make them visible, using what the engine already computes for <b>Tuesday 10 November 2026</b>. <b>The Mass gives São Leão Magno; the Office, or a prayed day (morning offering, Rosary and examen), gives Santo André Avelino</b>, who has no Mass on the calendar. The user here keeps the Beginner's Minimum. At 20:31 they have prayed the offering and both Angeluses; the Rosary (an "ideal") and the examen remain. Each section has alternatives side by side.</p>
+</header>
+
+<section><h2>1 · TODAY'S CARD, ON TODAY</h2>
+<p>Where the rule is learned: every day, on the page people open most. Today's real data exists (<code>useCardsToday</code>), but nothing shows it yet.</p>
+<div class="phones" id="today"></div></section>
+
+<section><h2>2 · THE END OF A PRAYER</h2>
+<p>The Rosary was just finished, the second of a prayed day's three prayers. Three ways to say "one left", and the moment it's won.</p>
+<div class="phones" id="amen"></div></section>
+
+<section><h2>3 · REMINDERS THAT NAME THE CARD</h2>
+<p>Plan reminders, which are off today for every plan until switched on by hand, and how much they say about the card. Each lettered notification is an alternative.</p>
+<div class="phones" id="notes"></div></section>
+
+<section><h2>4 · ONBOARDING THAT TEACHES THE LOOP BY DOING IT</h2>
+<p>Two orders. <b>A: envelope first</b>: the first card teaches what a card is, then the plan explains how to win the next. <b>B: card as the first reward</b>: the plan and the first prayer come first, and the starter envelope arrives as their reward. B grants the starter cards at the first prayer instead of the first opening of the app, a small change to <code>starterRule</code>.</p>
+<p class="alt" style="margin-top:22px">A · ENVELOPE FIRST</p>
+<div class="phones" id="onbA"></div>
+<p class="alt" style="margin-top:40px">B · THE CARD AS THE FIRST REWARD</p>
+<div class="phones" id="onbB"></div></section>
+
+<section><h2>MY PICKS</h2>
+<p><b>Today: T2</b>. The card lives in the plan, beside the prayers that win it, so plan, prayer and reward read as one thing. T1 is the most beautiful but competes with the plan for attention. T3 is the most compact, but it hides the rule behind a tap, and the data says people don't tap into cards.</p>
+<p><b>End of prayer: P1, then P4.</b> The seals make "one left" unmistakable, and the reminder offer sits exactly where it's wanted.</p>
+<p><b>Reminders: B in the morning, C at night.</b> Name the card where it gives a reason, and leave plain reminders plain.</p>
+<p><b>Onboarding: A.</b> Opening an envelope in the first ten seconds is the delight, and it teaches the vocabulary every later screen uses. It also fixes the two-thirds who never open their starter envelope today.</p>
+</section>
+</div>
+
+<script>
+const art = (id) => `assets/${id}.webp`
+const phone = (inner, { time = '20:31', cls = '' } = {}) => `<div class="phone ${cls}"><div class="island"></div><div class="status" ${cls === 'dark' ? 'style="color:#fff"' : ''}><span>${time}</span><span>●●● ▮</span></div>${inner}<div class="home-ind"></div></div>`
+const fig = (html, name, cap) => `<figure>${html}<figcaption><b>${name}</b>${cap}</figcaption></figure>`
+const tabs = `<div class="tabbar"><i class="on">HOJE</i><i>ORAR</i><i>LIVROS</i></div><div class="tabkey"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#6B5D4F" stroke-width="1.8"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg></div>`
+const head = (day = 'Terça', date = '10 nov', next = ['11', '12']) => `<img class="corner" src="assets/frame_corner_light.webp">
+  <div class="th-label" style="margin-top:14px">${day} · Tempo Comum</div>
+  <div class="scrub"><b>${date}</b><span>${next[0]}</span><span>${next[1]}</span></div>`
+const feast = `<div class="feast"><div class="holy" style="background-image:url(${art('leo_great')})"></div>
+  <div><div class="fr">Memória</div><div class="fn">São Leão Magno</div><div class="fs">Papa e doutor da Igreja</div></div></div>`
+const wax = (size, glyph = '✠', open = false, style = '') => `<div class="wax ${open ? 'open' : ''}" style="width:${size}px;height:${size}px;font-size:${size * 0.42}px;${style}">${glyph}</div>`
+const envelope = ({ w, name, date, onflap = '', sealed = true, style = '' }) => `<div class="env" style="width:${w}px;height:${w * 0.68}px;${style}">
+  <div class="flap"></div>${onflap ? `<div class="onflap">${onflap}</div>` : ''}${wax(w * 0.2, '✠', !sealed, `top:${w * 0.68 * 0.52}px;z-index:3`)}
+  <div class="addr"><div class="n" style="font-size:${Math.max(13, w * 0.085)}px">${name}</div>${date ? `<div class="d">${date}</div>` : ''}</div></div>`
+const seals = (done) => `<div class="seals">${['Oferecimento', 'Terço', 'Exame'].map((n, i) => `<div class="seal ${i < done ? 'done' : ''}">${wax(34, i < done ? '✠' : '', i >= done)}<span>${n}</span></div>`).join('')}</div>`
+const plan = ({ marks = false, rosaryDone = false, examDone = false, morning = true } = {}) => {
+  const m = (on) => (marks && on ? '<span class="cardmark">✠</span>' : '')
+  const row = (t, n, done, card, cls = '') => `<div class="plan-item ${cls}"><div class="t">${t}</div><div class="n">${n}${m(card)}</div><div class="c ${done ? 'done' : ''}">${done ? '✓' : ''}</div></div>`
+  return row('07:00', 'Oferecimento', morning, true) + row('12:00', 'Angelus', morning) + row('18:00', 'Angelus', morning) +
+    row('20:00', 'Terço', rosaryDone, true, rosaryDone ? '' : 'ideal next') + row('22:00', 'Exame', examDone, true)
+}
+
+// ── 1 · Today ──
+document.getElementById('today').innerHTML = [
+  fig(phone(`<div class="screen">${head()}${feast}
+    <div class="sec"><div class="label">Santinhos de hoje <i>→</i></div>
+      <div style="display:flex;gap:12px">
+        <div style="flex:1">${envelope({ w: 166, name: 'São Leão Magno', onflap: 'PELA MISSA' })}
+          <p style="font-size:14px;line-height:18px;color:var(--muted);margin-top:8px">Reze a Missa de hoje.<br><span style="color:var(--goldDeep)">Sé, 12:00 · Carmo, 12:15</span></p></div>
+        <div style="flex:1">${envelope({ w: 166, name: 'Santo André Avelino', onflap: 'PELO DIA REZADO' })}
+          <p style="font-size:14px;line-height:18px;color:var(--muted);margin-top:8px">Laudes ou Vésperas, ou<br><span style="color:var(--burgundy)">oferecimento ✓ · terço · exame</span></p></div>
+      </div></div>
+    <div class="sec"><div class="label">Seu dia <i>→</i></div><div class="panel">${plan()}</div></div>
+  </div>${tabs}`), 'T1 · TWO SEALED ENVELOPES', 'Today\'s two cards as their envelopes, each with the way that opens it underneath, including the Mass times nearby. The most beautiful, and the clearest about the two ways, but it pushes the plan down the page.'),
+  fig(phone(`<div class="screen">${head()}${feast}
+    <div class="sec"><div class="label">Seu dia <i>→</i></div><div class="panel">${plan({ marks: true })}
+      <div class="ways"><div class="mini-card back" style="width:40px;height:60px;font-size:14px">✠</div>
+        <p>Com o <b>terço</b> e o <b>exame</b>, o dia está rezado e traz <b>Santo André Avelino</b>.</p></div>
+      <div class="ways" style="padding-top:8px;margin-top:8px"><div class="mini-card" style="width:40px;height:60px;background-image:url(${art('leo_great')})"></div>
+        <p>A <b>Missa</b> de hoje traz <b>São Leão Magno</b>. <span style="color:var(--goldDeep)">Sé, 12:00 →</span></p></div>
+    </div></div>
+  </div>${tabs}`), 'T2 · IN THE PLAN ITSELF', 'A small ✠ marks the prayers that count toward a prayed day, and the plan card ends with what they win. The Rosary is an "ideal" here, so the card is what turns it into an invitation.'),
+  fig(phone(`<div class="screen">${head()}
+    <div class="feast" style="margin-top:14px">
+      <div class="ring" style="background:conic-gradient(var(--goldDeep) .333turn, var(--line) 0)"><div>✠</div></div>
+      <div><div class="fr">Hoje · 1 de 3</div><div class="fn">Santo André Avelino</div><div class="fs">e São Leão Magno, pela Missa</div></div></div>
+    <div class="sec"><div class="label">Seu dia <i>→</i></div><div class="panel">${plan()}</div></div>
+  </div>${tabs}`), 'T3 · A RING BY THE DATE', 'The day\'s card is a medallion beside the date, its ring filling with each of the three prayers. Compact and constant, but the rule is only one line long until it\'s tapped.'),
+  fig(phone(`<div class="screen">${head()}
+    <div class="feast" style="margin-top:14px">
+      <div class="ring" style="background:conic-gradient(var(--goldDeep) .333turn, var(--line) 0)"><div>✠</div></div>
+      <div><div class="fr">Hoje · 1 de 3</div><div class="fn">Santo André Avelino</div></div></div></div>
+    <div class="scrim"></div>
+    <div class="sheet" style="height:520px">
+      <div class="grab"></div>
+      <div class="label s r">Santinhos de hoje</div>
+      <div class="title" style="font-size:28px;line-height:33px;margin-top:2px">Como <i>recebê-los</i></div>
+      <div class="way" style="margin-top:12px"><div class="mini-card back" style="width:44px;height:66px;font-size:15px">✠</div>
+        <div class="w"><div class="wt">Santo André Avelino</div><div class="wd">Rezando Laudes ou Vésperas, ou o dia: oferecimento ✓, terço e exame.</div></div><span class="pill solid">Terço</span></div>
+      <div class="way"><div class="mini-card" style="width:44px;height:66px;background-image:url(${art('leo_great')})"></div>
+        <div class="w"><div class="wt">São Leão Magno</div><div class="wd">Na Missa de hoje. Catedral da Sé às 12:00, a 130 m.</div></div><span class="pill">Missa</span></div>
+      <p style="font-size:14px;line-height:19px;color:var(--muted);margin-top:14px;font-style:italic">Rezar o dia todo de dois modos traz os dois santos.</p>
+    </div>`), 'T3 · TAPPED', 'The sheet spells out both ways, with a button that starts the next prayer. The rule is fully explained, but only for those who tap.'),
+].join('')
+
+// ── 2 · end of a prayer ──
+const amenTop = `<div class="screen" style="text-align:center"><div style="height:96px"></div>
+  <div class="label s" style="color:var(--muted)">Terço · 20:31</div>
+  <div class="title" style="margin-top:10px;font-size:42px;line-height:48px">Amém.</div>
+  <img class="flourish" src="assets/header_flourish_light.webp" style="margin-top:12px">`
+document.getElementById('amen').innerHTML = [
+  fig(phone(`${amenTop}
+    <div style="margin-top:40px">${seals(2)}</div>
+    <p style="margin:22px 30px 0;font-size:19px;line-height:25px">Falta o <i>exame</i> para<br>Santo André Avelino.</p>
+    </div>
+    <div class="foot"><div class="btn">Rezar o exame agora</div><div class="btn ghost">Lembrar-me às 22:00</div></div>`), 'P1 · THE SEALS', 'The three prayers of a prayed day as three wax seals, two pressed. "One left" can\'t be missed, and the next step is offered both ways: now, or at the plan\'s time.'),
+  fig(phone(`${amenTop}</div>
+    <div style="position:absolute;left:50%;bottom:-40px;transform:translateX(-50%)">
+      <div class="mini-card back" style="position:absolute;width:170px;height:255px;left:35px;top:-150px;font-size:40px;border-radius:9px;box-shadow:0 6px 16px rgba(0,0,0,.25)">✠</div>
+      ${envelope({ w: 240, name: 'Santo André Avelino', onflap: 'PELO DIA REZADO', sealed: false, style: 'position:relative' })}</div>
+    <p style="position:absolute;top:400px;left:0;right:0;text-align:center;font-size:18px;line-height:24px">Mais uma oração.<br><span class="muted" style="font-size:15px">O exame, às 22:00, e o santinho é seu.</span></p>`), 'P2 · THE CARD RISING', 'The envelope stands at the bottom with the card two-thirds out: each prayer lifts it further. Tactile and wordless, but it reads less exactly than three seals.'),
+  fig(phone(`<div class="screen">${head()}${feast}
+    <div class="sec"><div class="label">Seu dia <i>→</i></div><div class="panel">${plan({ marks: true, rosaryDone: true })}
+      <div class="ways"><div class="mini-card back" style="width:40px;height:60px;font-size:14px">✠</div>
+        <p>Só falta o <b>exame</b> para <b>Santo André Avelino</b>.</p></div></div></div>
+  </div>${tabs}
+    <div class="toast" style="bottom:100px"><div class="nudge"><div style="width:30px;flex:none;text-align:center;color:var(--goldDeep);font-size:20px">✓</div><div><div class="nt">Terço rezado</div><div class="nd">2 de 3 para o santinho de hoje.</div></div></div></div>`), 'P3 · BACK TO TODAY', 'No screen in between: the prayer closes onto Today, where T2\'s line has moved on and a toast says what changed. The lightest, and it relies on Today showing the card.'),
+  fig(phone(`<div class="screen" style="text-align:center"><div style="height:80px"></div>
+    <div class="label s" style="color:var(--muted)">Exame · 22:04</div>
+    <div class="title" style="margin-top:8px">Um dia <i>rezado</i></div>
+    <div style="margin:34px auto 0;width:300px">${envelope({ w: 300, name: 'Santo André Avelino', date: '10 de novembro de 2026', onflap: 'RECEBIDO POR UM DIA DE ORAÇÃO' })}</div>
+    <p class="muted" style="margin:26px 28px 0;font-size:16px;line-height:21px">Padroeiro contra a morte súbita. Abra-o antes que o dia termine.</p>
+    </div><div class="foot"><div class="btn">Abrir</div><div class="btn ghost">Depois</div></div>`, { time: '22:04' }), 'P4 · WON', 'The last seal pressed: the envelope arrives sealed and addressed, in the words the app already uses ("Recebido por um dia de oração"), and opens into the existing redeem flow.'),
+].join('')
+
+// ── 3 · notifications ──
+const icon = 'assets/icon.webp'
+const note = (tag, title, body, time, thumb) => `<div class="note"><div class="tag">${tag}</div><img src="${icon}"><div style="flex:1;min-width:0;padding-right:${thumb ? 0 : 30}px"><div class="nt">${title}</div><div class="nb">${body}</div></div>${thumb ? `<div class="thumb" style="background-image:url(${thumb})"></div>` : `<div class="tm">${time}</div>`}</div>`
+document.getElementById('notes').innerHTML = [
+  fig(phone(`<div class="lock"><div class="date">terça-feira, 10 de novembro</div><div class="clock">7:00</div>
+    <div class="notes">
+      ${note('A', 'Oferecimento da manhã', 'Hora de oferecer o dia.', 'agora')}
+      ${note('B', 'Oferecimento da manhã', 'Começa o dia que traz Santo André Avelino: oferecimento, terço e exame.', '', art('andrew_avellino'))}
+      ${note('C', 'Hoje é São Leão Magno', 'A Missa de hoje traz o seu santinho. Catedral da Sé, 12:00.', '', art('leo_great'))}
+    </div></div>`, { time: '7:00', cls: 'dark' }), 'MORNING · THREE WAYS', '<b style="display:inline;font:inherit;color:inherit;letter-spacing:0">A</b> plain, as reminders would read today. <b style="display:inline;font:inherit;color:inherit;letter-spacing:0">B</b> names the day\'s card and its three prayers. <b style="display:inline;font:inherit;color:inherit;letter-spacing:0">C</b> leads with the feast and the Mass nearby. C needs location, and it is a calendar notification, which you wanted only where it earns its place.'),
+  fig(phone(`<div class="lock"><div class="date">terça-feira, 10 de novembro</div><div class="clock">21:45</div>
+    <div class="notes">
+      ${note('A', 'Exame de consciência', 'Às 22:00 · sessenta segundos.', 'agora')}
+      ${note('B', 'Falta o exame', 'Com ele o dia está rezado e Santo André Avelino é seu.', '', art('andrew_avellino'))}
+      ${note('C', 'Um santinho esperando', 'São Leão Magno, recebido na Missa. Abra-o antes que o dia termine.', '', art('leo_great'))}
+    </div></div>`, { time: '21:45', cls: 'dark' }), 'EVENING · THREE WAYS', '<b style="display:inline;font:inherit;color:inherit;letter-spacing:0">A</b> plain. <b style="display:inline;font:inherit;color:inherit;letter-spacing:0">B</b> says what the last prayer completes. <b style="display:inline;font:inherit;color:inherit;letter-spacing:0">C</b> is for a card already won but not opened before its window closes; the engine already knows that deadline.'),
+].join('')
+
+// ── 4 · onboarding ──
+const starterPick = [['padre_pio', 'Padre Pio'], ['therese', 'Santa Teresinha'], ['francis_assisi', 'São Francisco'], ['rita_cascia', 'Santa Rita'], ['augustine', 'Santo Agostinho'], ['thomas_aquinas', 'São Tomás']]
+const dots = (n, t) => `<div class="dotsnav">${Array.from({ length: t }, (_, i) => `<i class="${i === n ? 'on' : ''}"></i>`).join('')}</div>`
+const welcomeEnv = phone(`<div class="screen" style="text-align:center">
+    <img class="corner" src="assets/frame_corner_light.webp">
+    <div style="height:150px"></div>
+    <div class="title" style="font-size:36px;line-height:42px">Bem-vindo ao <i>Ember</i></div>
+    <p class="muted" style="margin:10px 24px 0;font-size:17px;line-height:23px">Rezar com a Igreja, um dia de cada vez. Para começar, um presente.</p>
+    <div style="margin:36px auto 0;width:300px">${envelope({ w: 300, name: 'Para você', onflap: 'UM PRIMEIRO SANTINHO' })}</div>
+  </div><div class="foot">${dots(0, 5)}<div class="btn">Abrir</div></div>`, { time: '20:28' })
+const choose = phone(`<div class="screen">
+    <div class="title" style="margin-top:28px">Escolha o seu <i>primeiro</i></div>
+    <p class="muted" style="margin-top:6px;font-size:16px;line-height:21px">Cada santinho traz a vida do santo e uma oração. Há mais de seiscentos para receber.</p>
+    <div class="pick">${starterPick.map(([id, n], i) => `<div><div class="${i === 1 ? 'sel' : ''}" style="background-image:url(${art(id)})"></div><p>${n}</p></div>`).join('')}</div>
+  </div><div class="foot">${dots(1, 5)}<div class="btn">Receber Santa Teresinha</div></div>`, { time: '20:28' })
+const planPage = (n, total, lead) => phone(`<div class="screen">
+    <div class="title" style="margin-top:28px">${lead}</div>
+    <p class="muted" style="margin-top:6px;font-size:16px;line-height:21px">Um plano de vida é uma regra pequena. Cada dia rezado traz o santo do dia.</p>
+    <div class="art" style="height:190px;margin-top:16px;background-image:url(assets/tpl-beginner-minimum.webp);box-shadow:0 0 0 2.5px var(--goldDeep),0 8px 18px rgba(0,0,0,.2)">
+      <div class="veil"></div><div class="check">✓</div>
+      <div class="capt"><div class="tl">Comece aqui</div><div class="tt">O Mínimo do Iniciante</div><div class="ts">Oferecimento, Angelus, terço, exame</div></div></div>
+    <div class="choice" style="margin-top:14px"><div><div class="ct">Lembrar-me na hora</div><div class="cd">07:00 · 12:00 · 18:00 · 20:00 · 22:00</div></div><div class="toggle on"></div></div>
+    <p style="text-align:center;margin-top:14px;font:400 11.5px var(--head);letter-spacing:1.5px;color:var(--goldDeep)">OUTRAS TRADIÇÕES: INACIANA, CARMELITA, OPUS DEI… →</p>
+  </div><div class="foot">${dots(n, total)}<div class="btn">Adotar este plano</div></div>`, { time: '20:29' })
+document.getElementById('onbA').innerHTML = [
+  fig(welcomeEnv, 'A1 · A GIFT FIRST', 'The welcome is a sealed envelope. The app\'s first act is to give, and the vocabulary (envelope, seal, card) is learned by touch.'),
+  fig(choose, 'A2 · CHOOSE ONE', 'The redeem flow\'s own choice, from the starter pool. It opens straight into the card (the existing flow), then the next page.'),
+  fig(planPage(2, 5, 'Para receber <i>os próximos</i>'), 'A3 · THE PLAN, AS THE WAY TO THE NEXT CARDS', 'Plan and reminders on one page, reminders on by default and named. Permission is asked on "Adotar".'),
+  fig(phone(`<div class="screen" style="text-align:center">
+    <div class="label s r" style="margin-top:40px">Sua primeira oração</div>
+    <div class="title" style="margin-top:6px">Ainda dá <i>tempo hoje</i></div>
+    <p class="muted" style="margin:8px 24px 0;font-size:16px;line-height:21px">O oferecimento, o terço e o exame, rezados hoje, fazem um dia rezado.</p>
+    <div style="margin-top:30px">${seals(0)}</div>
+    <div class="mini-card back" style="width:70px;height:105px;margin:22px auto 0;font-size:24px">✠</div>
+    <p style="margin:12px 30px 0;font-size:17px;line-height:23px">E trazem <i>Santo André Avelino</i>, o santo de hoje.</p>
+  </div><div class="foot">${dots(3, 5)}<div class="btn">Começar pelo oferecimento</div><div class="btn ghost">Depois</div></div>`, { time: '20:30' }), 'A4 · PRAY NOW', 'Installed at 20:30, today can still be a prayed day: the three seals and today\'s real card show the rule while there is time to keep it. Then Today, as B3.'),
+].join('')
+document.getElementById('onbB').innerHTML = [
+  fig(planPage(1, 4, 'Por onde <i>começar?</i>'), 'B1 · THE PLAN FIRST', 'After a plain welcome, the plan and its reminders, as A3, without the card yet: the promise is "cada dia rezado traz o santo do dia".'),
+  fig(phone(`<div class="screen" style="text-align:center"><div style="height:96px"></div>
+    <div class="label s" style="color:var(--muted)">Terço · 20:52</div>
+    <div class="title" style="margin-top:10px;font-size:42px;line-height:48px">Amém.</div>
+    <img class="flourish" src="assets/header_flourish_light.webp" style="margin-top:12px">
+    <p style="margin:22px 34px 0;font-size:18px;line-height:24px">Sua primeira oração no Ember.<br><span class="muted">Por ela, um presente:</span></p>
+    <div style="margin:26px auto 0;width:280px">${envelope({ w: 280, name: 'Para você', onflap: 'UM PRIMEIRO SANTINHO' })}</div>
+  </div><div class="foot">${dots(2, 4)}<div class="btn">Abrir</div></div>`, { time: '20:52' }), 'B2 · THE FIRST PRAYER EARNS THE FIRST CARD', 'The envelope comes after the Amém, so the very first card is already won by praying. It teaches the rule instead of explaining it, but the delight waits until after a prayer.'),
+  fig(phone(`<div class="screen">${head()}${feast}
+    <div class="sec"><div class="label">Seu dia <i>→</i></div><div class="panel">${plan({ marks: true, rosaryDone: true, morning: false })}
+      <div class="ways"><div class="mini-card" style="width:40px;height:60px;background-image:url(${art('therese')})"></div>
+        <p>Seu primeiro santinho: <b>Santa Teresinha</b>. Com o <b>oferecimento</b> e o <b>exame</b>, hoje ainda traz <b>Santo André Avelino</b>.</p></div></div></div>
+  </div>${tabs}`, { time: '20:55' }), 'B3 · TODAY', 'Both orders land here: the plan with its first ticks, the card just received, and the rule as what tonight can still win.'),
+].join('')
+</script>
+</body>
+</html>
