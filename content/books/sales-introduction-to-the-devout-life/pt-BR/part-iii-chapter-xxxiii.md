@@ -8,12 +8,18 @@ Diz Plínio que os cogumelos, por sua natureza porosa e esponjosa, facilmente em
 
 Crê-me, minha filha, esses divertimentos frívolos são em sua maior parte perigosos; dissipam o espírito de devoção, enervam a mente, embaraçam a verdadeira caridade, e despertam na alma uma multidão de más inclinações; e por isso eu te quero muito reservada no uso deles.
 
-Para voltar à comparação médica: dizem que, depois de comer cogumelos, se deve beber algum bom vinho. Assim, depois de frequentares bailes, deves formar pensamentos pios que neutralizem as impressões perigosas que tais prazeres vazios produziram em teu coração. Pensa, pois — 1. Que, enquanto dançavas, almas gemiam no inferno por causa de pecados cometidos quando ocupadas em coisa semelhante, ou em consequência delas.
+Para voltar à comparação médica: dizem que, depois de comer cogumelos, se deve beber algum bom vinho. Assim, depois de frequentares bailes, deves formar pensamentos pios que neutralizem as impressões perigosas que tais prazeres vazios produziram em teu coração. Mas que pensamentos?
+
+1. Enquanto dançavas, almas gemiam no inferno por causa de pecados cometidos quando ocupadas em coisa semelhante, ou em consequência delas.
 
 2. Lembra-te que, ao mesmo tempo, muitos religiosos e outras pessoas devotas estavam de joelhos diante de Deus, orando ou louvando-O. Não foi mais bem empregado o tempo deles do que o teu?
 
-3. E mais: enquanto dançavas, tantas almas passaram em meio a sofrimentos cruéis; milhares e dezenas de milhares jaziam todo esse tempo em leitos de angústia, alguns talvez sem cuidado e sem consolo, em febres e em toda casta de doenças dolorosas. Não te despertarás a um sentimento de piedade por eles? De qualquer modo, lembra-te de que virá um dia em que serás tu, por tua vez, a jazer em leito de doença, enquanto outros dançam e se divertem.
+3. E mais: enquanto dançavas, tantas almas passaram em meio a sofrimentos cruéis; milhares e dezenas de milhares jaziam todo esse tempo em leitos de angústia[^1], alguns talvez sem cuidado e sem consolo, em febres e em toda casta de doenças dolorosas. Não te despertarás a um sentimento de piedade por eles? De qualquer modo, lembra-te de que virá um dia em que serás tu, por tua vez, a jazer em leito de doença, enquanto outros dançam e se divertem.
 
 4. Considera que Nosso Querido Senhor, Nossa Senhora, todos os Anjos e Santos viam tudo o que se passava. Não olhavam com triste piedade, ao verem o teu coração, capaz de coisas melhores, absorvido em meras tolices?
 
-5. E, enquanto dançavas, o tempo passou, e a morte se aproximou. Por mais que te divirtas, a terrível dança da morte virá, o verdadeiro passatempo dos homens, pois nela hão de, queiram ou não, passar do tempo para uma eternidade de bem ou de mal. Se pensares no assunto com calma, e como na presença de Deus, Ele te sugerirá muitos pensamentos semelhantes, que firmarão e fortalecerão o teu coração.
+5. E, enquanto dançavas, o tempo passou, e a morte se aproximou; vê como ela zomba de ti e te chama à sua dança, na qual os gemidos dos teus servirão de violino, e onde farás uma única passagem da vida para a morte. Essa dança é o verdadeiro passatempo dos mortais, pois nela se passa, num momento, do tempo para uma eternidade de bem ou de mal.
+
+Aponto-te estas pequenas considerações; mas Deus te sugerirá muitas outras com o mesmo efeito, se tiveres o seu temor.
+
+[^1]: Sofrimentos.

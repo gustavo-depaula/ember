@@ -10,4 +10,6 @@ Quanto ao exame de consciência, que todos devemos fazer antes de ir para o leit
 
 3. Se fizeste algo de bom, oferece graças a Deus; se erraste em pensamento, palavra ou obra, pede perdão a Sua Divina Majestade, com a resolução de confessar a falta logo que se ofereça oportunidade, e de aplicar-te diligentemente em fazer melhor.
 
-4. Em seguida, encomenda a Deus o teu corpo e tua alma, a Igreja, teus parentes e amigos. Pede que os Santos e os Anjos velem sobre ti e, com a bênção de Deus, vai ao repouso que Ele te designou. Nem esta prática nem a da manhã devem jamais ser omitidas: pela tua oração da manhã abres as janelas da tua alma à luz do Sol da Justiça, e pelas devoções da noite as fechas contra as sombras do inferno.
+4. Em seguida, encomenda a Deus o teu corpo e tua alma, a Igreja, teus parentes e amigos. Pede que os Santos e os Anjos velem sobre ti e, com a bênção de Deus, vai ao repouso que Ele te designou.
+
+Nem esta prática nem a da manhã devem jamais ser omitidas: pela tua oração da manhã abres as janelas da tua alma à luz do Sol da Justiça, e pelas devoções da noite as fechas contra as sombras do inferno.

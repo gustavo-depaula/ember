@@ -11,13 +11,8 @@ O terceiro modo é deter-te no pensamento de Nosso Senhor, que, em Sua Humanidad
 O quarto modo é simplesmente exercitar a tua imaginação ordinária, representando-te o Salvador em Sua sagrada Humanidade como se estivesse a teu lado, à maneira como costumamos pensar em nossos amigos e imaginar que os vemos ou ouvimos junto a nós. Mas, quando ali está o Santíssimo Sacramento do Altar, então esta Presença não é mais imaginária, e sim realíssima; e as sagradas espécies são apenas como um véu por trás do qual o Salvador presente nos contempla e nos considera, embora não possamos vê-Lo como Ele é.
 
 Serve-te de um ou outro destes modos para colocar-te na Presença de Deus antes de começares a orar; — não tentes usá-los todos de uma vez, mas toma um por vez, e isso brevemente e com simplicidade.
-
 [^1]: Sl 138:8.
-
 [^2]: Gn 28:16.
-
 [^3]: Sl 72:26.
-
 [^4]: At 17:28.
-
 [^5]: Ct 2:9.

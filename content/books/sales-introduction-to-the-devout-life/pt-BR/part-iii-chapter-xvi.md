@@ -8,6 +8,8 @@ Há dois grandes privilégios ligados à tua pobreza, pelos quais podes adquirir
 
 O segundo privilégio é que essa pobreza é tão pobre. Há uma pobreza louvada, acariciada, tão mimada e tratada que mal se pode chamar pobre, ao lado da pobreza desprezada, vituperada e desconsiderada que também existe. Ora, a maior parte da pobreza secular é desta última espécie, pois os que são pobres por força, e nada podem fazer, são pouco considerados, e por isso mesmo a sua pobreza é mais pobre do que a dos religiosos, embora a pobreza religiosa tenha uma graça muito singular e excelente, pela intenção e pelo voto com que é aceita.
 
-Não te queixes, pois, da tua pobreza, minha filha — só nos queixamos do que é mal recebido; e, se a pobreza te é mal recebida, já não és pobre em espírito. Não te aborreças com tais auxílios que sejam necessários; aí está uma grande graça da pobreza. Seria ambição em demasia pretender ser pobre sem nenhum incômodo — em outras palavras, ter o crédito da pobreza e a comodidade das riquezas.
+Não te queixes, pois, da tua pobreza, minha filha — só nos queixamos do que é mal recebido; e, se a pobreza te é mal recebida, já não és pobre em espírito.
+
+Não te aborreças com tais auxílios que sejam necessários; aí está uma grande graça da pobreza. Seria ambição em demasia pretender ser pobre sem nenhum incômodo — em outras palavras, ter o crédito da pobreza e a comodidade das riquezas.
 
 Não tenhas vergonha de ser pobre, nem de pedir esmola. Recebe com humildade o que te derem, e aceita com mansidão uma recusa. Lembra-te muitas vezes da viagem de Nossa Senhora ao Egito com seu Santo Filho, e de toda a pobreza, desprezo e sofrimento que padeceram. Se seguires o seu exemplo, em verdade serás rica em tua pobreza.

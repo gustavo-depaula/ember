@@ -1,14 +1,6 @@
 # CAPÍTULO II. Meditação sobre o Benefício que Deus nos concedeu chamando-nos ao seu Serviço.
 
-1. CONSIDERA os pontos sobre os quais estás prestes a renovar as tuas resoluções.
-
-Primeiramente, que abandonaste, rejeitaste, detestaste e renunciaste a todo pecado mortal para sempre.
-
-Em segundo lugar, que dedicaste e consagraste a tua alma, o teu coração e o teu corpo, com tudo o que lhes pertence, ao Serviço e ao Amor de Deus.
-
-Em terceiro lugar, que, se infelizmente caísses em algum pecado, te erguerias de novo sem demora, com o auxílio da Graça de Deus.
-
-Não são estas resoluções dignas, retas e nobres? Considera bem dentro da tua alma quão santo, razoável e desejável ato é renová-las.
+1. CONSIDERA os pontos sobre os quais estás prestes a renovar as tuas resoluções. Primeiramente, que abandonaste, rejeitaste, detestaste e renunciaste a todo pecado mortal para sempre. Em segundo lugar, que dedicaste e consagraste a tua alma, o teu coração e o teu corpo, com tudo o que lhes pertence, ao Serviço e ao Amor de Deus. Em terceiro lugar, que, se infelizmente caísses em algum pecado, te erguerias de novo sem demora, com o auxílio da Graça de Deus. Não são estas resoluções dignas, retas e nobres? Considera bem dentro da tua alma quão santo, razoável e desejável ato é renová-las.
 
 2. Considera a Quem fazes estas promessas; pois, se uma promessa deliberada feita aos homens é estritamente vinculante, quanto mais aquelas que fazemos a Deus. «O meu coração borbulha de uma boa palavra. Não me esquecerei de vós», clamou Davi.[^1]
 
@@ -23,9 +15,6 @@ Considera os resultados desta vocação; certamente encontrarás uma mudança pa
 Depois de te demorares sobre todas estas considerações, que farão brotar em ti abundância de afetos vivos, deves concluir simplesmente com um ato de ação de graças e uma fervorosa oração para que produzam fruto, terminando com grande humildade e confiança em Deus, e reservando os resultados finais da tua resolução para depois do segundo ponto deste exercício espiritual.
 
 [^1]: Sl 45:1; 44:18.
-
 [^2]: *Confissões*, livro X.
-
 [^3]: Sl 71:15.
-
 [^4]: Sl 118:16-17.

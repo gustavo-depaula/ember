@@ -7,9 +7,6 @@ Falo, naturalmente, só de imperfeições; pois, quanto a pecados, não devemos 
 Os que se reúnem por mero proveito temporal não têm direito de chamar amizade à sua união; não é por amor uns dos outros que se ligam, mas por amor do ganho.
 
 Há duas sentenças na Sagrada Escritura sobre as quais se deve edificar toda a amizade cristã: a do Sábio: «Quem teme ao Senhor dirigirá retamente as suas amizades»;[^2] e a de São Tiago: «A amizade do mundo é inimizade contra Deus».[^3]
-
 [^1]: Mt 25:27.
-
 [^2]: Eclo 6:17.
-
 [^3]: Tg 4:4.

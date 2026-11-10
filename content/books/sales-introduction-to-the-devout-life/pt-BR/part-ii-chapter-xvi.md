@@ -9,7 +9,5 @@ Procura ter familiaridade com os Anjos; aprende a perceber que eles estão conti
 Aquele piedoso varão, Pedro Fabro, primeiro companheiro de Santo Inácio, e primeiro sacerdote, primeiro pregador e primeiro mestre de teologia da Companhia de Jesus, que era natural da nossa diocese, [^2] passando uma vez por esta região, ao voltar da Alemanha (onde estivera trabalhando para a glória de Deus), contou que grande conforto encontrara, ao passar por lugares infestados de heresia, em comunicar com os anjos da guarda dos mesmos, cujo auxílio muitas vezes o preservara do perigo e abrandara os corações para receber a fé. Falou com tanto fervor, que uma senhora, então muito jovem, que o ouvira, ficou de tal modo impressionada que me repetiu suas palavras há apenas quatro anos, sessenta anos depois de proferidas, com a mais viva emoção. Tive a felicidade, no ano passado, de consagrar um altar no lugar onde aprouve a Deus dar à luz aquele bem-aventurado homem, a aldeiazinha de Villaret, em meio às mais agrestes das nossas montanhas.
 
 Farás bem em escolher para ti algum Santo particular, cuja vida especialmente estudes e imites, e cujas orações sejam mais particularmente oferecidas em teu favor. O Santo que tem o teu nome de batismo parece ser-te naturalmente designado.
-
 [^1]: Mc 12:25.
-
 [^2]: Fabro era saboiano.
