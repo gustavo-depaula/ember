@@ -13,17 +13,23 @@
   "description": {
     "es-ES": "Declaración de las canciones de la Llama de amor viva, escrita para doña Ana de Peñalosa (1585–1586), sobre la unión transformante del alma en Dios; segunda redacción, retocada y ampliada por el Santo. Texto crítico del P. Silverio de Santa Teresa, con sus notas.",
     "en-US": "St. John of the Cross's commentary on his poem of the Living Flame of Love, written for Doña Ana de Peñalosa (1585–1586), on the transforming union of the soul in God; the second redaction, revised and enlarged by the saint. Spanish critical text of P. Silverio de Santa Teresa with his notes.",
-    "pt-BR": "Comentário de São João da Cruz ao seu poema da Chama viva de amor, escrito para Dona Ana de Peñalosa (1585–1586), sobre a união transformante da alma em Deus; segunda redação, revista e ampliada pelo Santo."
+    "pt-BR": "Comentário de São João da Cruz ao seu poema da Chama viva de amor, escrito para Dona Ana de Peñalosa (1585–1586), sobre a união transformante da alma em Deus; segunda redação, revista e ampliada pelo Santo. Texto crítico do P. Silverio de Santa Teresa, com as suas notas."
   },
   "composed": "1585–1586",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "john-of-the-cross/llama-b",
   "editions": {
     "es-ES": {
       "editor": "P. Silverio de Santa Teresa",
       "year": 1931
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -40,37 +46,43 @@
     {
       "id": "prologo",
       "title": {
-        "es-ES": "Prólogo"
+        "es-ES": "Prólogo",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "canciones",
       "title": {
-        "es-ES": "Canciones del alma"
+        "es-ES": "Canciones del alma",
+        "pt-BR": "Canções da alma"
       }
     },
     {
       "id": "c1",
       "title": {
-        "es-ES": "Canción I"
+        "es-ES": "Canción I",
+        "pt-BR": "Canção I"
       }
     },
     {
       "id": "c2",
       "title": {
-        "es-ES": "Canción II"
+        "es-ES": "Canción II",
+        "pt-BR": "Canção II"
       }
     },
     {
       "id": "c3",
       "title": {
-        "es-ES": "Canción III"
+        "es-ES": "Canción III",
+        "pt-BR": "Canção III"
       }
     },
     {
       "id": "c4",
       "title": {
-        "es-ES": "Canción IV"
+        "es-ES": "Canción IV",
+        "pt-BR": "Canção IV"
       }
     }
   ]
