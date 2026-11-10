@@ -4,15 +4,15 @@ import { hearthUrl } from '@/lib/hearth'
 
 type Evangelist = 'matthew' | 'mark' | 'luke' | 'john'
 
-// First word of the compact gospel citation ("Matthew 9:9-13" / "Mateus 9,9-13"
-// / "João 3,16-18"). Vatican News and the offline mass-of corpus both emit full
-// localized book names — no abbreviations — so two patterns per evangelist are
-// enough for EN + pt-BR.
+// First word of the compact gospel citation: the evangelist named in full by
+// Vatican News ("Matthew 9:9-13" / "Mateus 9,9-13" / "João 3,16-18"), or
+// abbreviated as the lectionary does in the offline Gospel the card falls back
+// to ("Jo 2, 13-22", "Mc 1,1-8", "Jn 3:16").
 const patterns: Array<[Evangelist, RegExp]> = [
-  ['matthew', /^(matthew|mateus)\b/i],
-  ['mark', /^(mark|marcos)\b/i],
-  ['luke', /^(luke|lucas)\b/i],
-  ['john', /^(john|jo[aã]o)\b/i],
+  ['matthew', /^(matthew|mateus|mt)\b/i],
+  ['mark', /^(mark|marcos|mc|mk)\b/i],
+  ['luke', /^(luke|lucas|lc|lk)\b/i],
+  ['john', /^(john|jo[aã]o|jo|jn)\b/i],
 ]
 
 const artVersion = 1
