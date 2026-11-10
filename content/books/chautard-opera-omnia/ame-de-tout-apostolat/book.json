@@ -17,13 +17,19 @@
   },
   "composed": "1912",
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "chautard/ame-de-tout-apostolat",
   "editions": {
     "fr-FR": {
       "editor": "Abbaye de Sept-Fons (Lyon: Em. Vitte / Paris: P. Téqui; later enlarged edition)",
       "year": 1927
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -40,181 +46,211 @@
     {
       "id": "prologue",
       "title": {
-        "fr-FR": "Prologue : Ex quo omnia, per quem omnia, in quo omnia"
+        "fr-FR": "Prologue : Ex quo omnia, per quem omnia, in quo omnia",
+        "pt-BR": "Prólogo: Ex quo omnia, per quem omnia, in quo omnia"
       }
     },
     {
       "id": "1-1-oeuvres-voulues",
       "title": {
-        "fr-FR": "Première partie, 1. Les œuvres et dès lors le zèle sont voulus par Dieu"
+        "fr-FR": "Première partie, 1. Les œuvres et dès lors le zèle sont voulus par Dieu",
+        "pt-BR": "Primeira parte, 1. As obras e, portanto, o zelo são queridos por Deus"
       }
     },
     {
       "id": "1-2-jesus-vie-des-oeuvres",
       "title": {
-        "fr-FR": "Première partie, 2. Dieu veut que Jésus soit la Vie des œuvres"
+        "fr-FR": "Première partie, 2. Dieu veut que Jésus soit la Vie des œuvres",
+        "pt-BR": "Primeira parte, 2. Deus quer que Jesus seja a Vida das obras"
       }
     },
     {
       "id": "1-3-vie-interieure",
       "title": {
-        "fr-FR": "Première partie, 3. Qu’est-ce que la Vie intérieure ?"
+        "fr-FR": "Première partie, 3. Qu’est-ce que la Vie intérieure ?",
+        "pt-BR": "Primeira parte, 3. Que é a Vida interior?"
       }
     },
     {
       "id": "1-4-meconnue",
       "title": {
-        "fr-FR": "Première partie, 4. Combien cette Vie intérieure est méconnue"
+        "fr-FR": "Première partie, 4. Combien cette Vie intérieure est méconnue",
+        "pt-BR": "Primeira parte, 4. Quão desconhecida é esta Vida interior"
       }
     },
     {
       "id": "1-5-difficile",
       "title": {
-        "fr-FR": "Première partie, 5. Réponse à une première objection : la Vie intérieure est-elle difficile ?"
+        "fr-FR": "Première partie, 5. Réponse à une première objection : la Vie intérieure est-elle difficile ?",
+        "pt-BR": "Primeira parte, 5. Resposta a uma primeira objeção: a Vida interior é difícil?"
       }
     },
     {
       "id": "1-6-egoiste",
       "title": {
-        "fr-FR": "Première partie, 6. Réponse à une autre objection : la Vie intérieure est-elle égoïste et stérile ?"
+        "fr-FR": "Première partie, 6. Réponse à une autre objection : la Vie intérieure est-elle égoïste et stérile ?",
+        "pt-BR": "Primeira parte, 6. Resposta a outra objeção: a Vida interior é egoísta e estéril?"
       }
     },
     {
       "id": "1-7-salut-des-ames",
       "title": {
-        "fr-FR": "Première partie, 7. Objection tirée de l’importance du salut des âmes"
+        "fr-FR": "Première partie, 7. Objection tirée de l’importance du salut des âmes",
+        "pt-BR": "Primeira parte, 7. Objeção tirada da importância da salvação das almas"
       }
     },
     {
       "id": "2-1-priorite",
       "title": {
-        "fr-FR": "Deuxième partie, 1. Priorité de la Vie intérieure sur la Vie active au regard de Dieu"
+        "fr-FR": "Deuxième partie, 1. Priorité de la Vie intérieure sur la Vie active au regard de Dieu",
+        "pt-BR": "Segunda parte, 1. Prioridade da Vida interior sobre a Vida ativa aos olhos de Deus"
       }
     },
     {
       "id": "2-2-debordement",
       "title": {
-        "fr-FR": "Deuxième partie, 2. Les œuvres ne doivent être que le débordement de la Vie intérieure"
+        "fr-FR": "Deuxième partie, 2. Les œuvres ne doivent être que le débordement de la Vie intérieure",
+        "pt-BR": "Segunda parte, 2. As obras devem ser apenas o transbordamento da Vida interior"
       }
     },
     {
       "id": "2-3-imbibees",
       "title": {
-        "fr-FR": "Deuxième partie, 3. Base, fin et moyens d’une œuvre doivent être imprégnés de Vie intérieure"
+        "fr-FR": "Deuxième partie, 3. Base, fin et moyens d’une œuvre doivent être imprégnés de Vie intérieure",
+        "pt-BR": "Segunda parte, 3. Base, fim e meios de uma obra devem estar impregnados de Vida interior"
       }
     },
     {
       "id": "2-4-mutuel",
       "title": {
-        "fr-FR": "Deuxième partie, 4. Vie intérieure et Vie active s’appellent mutuellement"
+        "fr-FR": "Deuxième partie, 4. Vie intérieure et Vie active s’appellent mutuellement",
+        "pt-BR": "Segunda parte, 4. Vida interior e Vida ativa chamam-se mutuamente"
       }
     },
     {
       "id": "2-5-excellence",
       "title": {
-        "fr-FR": "Deuxième partie, 5. Excellence de cette union"
+        "fr-FR": "Deuxième partie, 5. Excellence de cette union",
+        "pt-BR": "Segunda parte, 5. Excelência desta união"
       }
     },
     {
       "id": "3-1-danger",
       "title": {
-        "fr-FR": "Troisième partie, 1. Les œuvres, moyen de sainteté pour les âmes intérieures, danger pour les autres"
+        "fr-FR": "Troisième partie, 1. Les œuvres, moyen de sainteté pour les âmes intérieures, danger pour les autres",
+        "pt-BR": "Terceira parte, 1. As obras, meio de santidade para as almas interiores, perigo para as outras"
       }
     },
     {
       "id": "3-2-sans-vie-interieure",
       "title": {
-        "fr-FR": "Troisième partie, 2. De l’homme d’œuvres sans la Vie intérieure"
+        "fr-FR": "Troisième partie, 2. De l’homme d’œuvres sans la Vie intérieure",
+        "pt-BR": "Terceira parte, 2. Do homem de obras sem a Vida interior"
       }
     },
     {
       "id": "3-3-saintete-ouvrier",
       "title": {
-        "fr-FR": "Troisième partie, 3. La Vie intérieure, base de la sainteté de l’ouvrier apostolique"
+        "fr-FR": "Troisième partie, 3. La Vie intérieure, base de la sainteté de l’ouvrier apostolique",
+        "pt-BR": "Terceira parte, 3. A Vida interior, base da santidade do operário apostólico"
       }
     },
     {
       "id": "4-0-fecondite",
       "title": {
-        "fr-FR": "Quatrième partie : Fécondité des œuvres par la Vie intérieure"
+        "fr-FR": "Quatrième partie : Fécondité des œuvres par la Vie intérieure",
+        "pt-BR": "Quarta parte: Fecundidade das obras pela Vida interior"
       }
     },
     {
       "id": "4-a-benedictions",
       "title": {
-        "fr-FR": "Quatrième partie, a) La Vie intérieure attire les bénédictions de Dieu"
+        "fr-FR": "Quatrième partie, a) La Vie intérieure attire les bénédictions de Dieu",
+        "pt-BR": "Quarta parte, a) A Vida interior atrai as bênçãos de Deus"
       }
     },
     {
       "id": "4-b-bon-exemple",
       "title": {
-        "fr-FR": "Quatrième partie, b) Elle rend l’apôtre sanctificateur par le bon exemple"
+        "fr-FR": "Quatrième partie, b) Elle rend l’apôtre sanctificateur par le bon exemple",
+        "pt-BR": "Quarta parte, b) Ela torna o apóstolo santificador pelo bom exemplo"
       }
     },
     {
       "id": "4-c-rayonnement",
       "title": {
-        "fr-FR": "Quatrième partie, c) Elle produit dans l’apôtre le rayonnement surnaturel"
+        "fr-FR": "Quatrième partie, c) Elle produit dans l’apôtre le rayonnement surnaturel",
+        "pt-BR": "Quarta parte, c) Ela produz no apóstolo a irradiação sobrenatural"
       }
     },
     {
       "id": "4-d-eloquence",
       "title": {
-        "fr-FR": "Quatrième partie, d) Elle donne à l’ouvrier évangélique la vraie éloquence"
+        "fr-FR": "Quatrième partie, d) Elle donne à l’ouvrier évangélique la vraie éloquence",
+        "pt-BR": "Quarta parte, d) Ela dá ao operário evangélico a verdadeira eloquência"
       }
     },
     {
       "id": "4-e-engendre",
       "title": {
-        "fr-FR": "Quatrième partie, e) La Vie intérieure engendre la Vie intérieure"
+        "fr-FR": "Quatrième partie, e) La Vie intérieure engendre la Vie intérieure",
+        "pt-BR": "Quarta parte, e) A Vida interior gera a Vida interior"
       }
     },
     {
       "id": "4-f-elites",
       "title": {
-        "fr-FR": "Quatrième partie, f) Importance de la formation des élites et de la direction spirituelle"
+        "fr-FR": "Quatrième partie, f) Importance de la formation des élites et de la direction spirituelle",
+        "pt-BR": "Quarta parte, f) Importância da formação das elites e da direção espiritual"
       }
     },
     {
       "id": "4-g-eucharistie",
       "title": {
-        "fr-FR": "Quatrième partie, g) La Vie intérieure par l’Eucharistie"
+        "fr-FR": "Quatrième partie, g) La Vie intérieure par l’Eucharistie",
+        "pt-BR": "Quarta parte, g) A Vida interior pela Eucaristia"
       }
     },
     {
       "id": "5-1-conseils",
       "title": {
-        "fr-FR": "Cinquième partie, 1. Quelques conseils aux hommes d’œuvres pour la Vie intérieure"
+        "fr-FR": "Cinquième partie, 1. Quelques conseils aux hommes d’œuvres pour la Vie intérieure",
+        "pt-BR": "Quinta parte, 1. Alguns conselhos aos homens de obras para a Vida interior"
       }
     },
     {
       "id": "5-2-oraison",
       "title": {
-        "fr-FR": "Cinquième partie, 2. L’Oraison, élément indispensable de la Vie intérieure"
+        "fr-FR": "Cinquième partie, 2. L’Oraison, élément indispensable de la Vie intérieure",
+        "pt-BR": "Quinta parte, 2. A Oração mental, elemento indispensável da Vida interior"
       }
     },
     {
       "id": "5-3-vie-liturgique",
       "title": {
-        "fr-FR": "Cinquième partie, 3. La Vie liturgique, source de Vie intérieure"
+        "fr-FR": "Cinquième partie, 3. La Vie liturgique, source de Vie intérieure",
+        "pt-BR": "Quinta parte, 3. A Vida litúrgica, fonte de Vida interior"
       }
     },
     {
       "id": "5-4-garde-du-coeur",
       "title": {
-        "fr-FR": "Cinquième partie, 4. La Garde du cœur, clef de voûte de la Vie intérieure"
+        "fr-FR": "Cinquième partie, 4. La Garde du cœur, clef de voûte de la Vie intérieure",
+        "pt-BR": "Quinta parte, 4. A Guarda do coração, chave de abóbada da Vida interior"
       }
     },
     {
       "id": "5-5-marie",
       "title": {
-        "fr-FR": "Cinquième partie, 5. Besoin pour l’apôtre d’une ardente dévotion envers Marie Immaculée"
+        "fr-FR": "Cinquième partie, 5. Besoin pour l’apôtre d’une ardente dévotion envers Marie Immaculée",
+        "pt-BR": "Quinta parte, 5. Necessidade, para o apóstolo, de uma ardente devoção a Maria Imaculada"
       }
     },
     {
       "id": "epilogue",
       "title": {
-        "fr-FR": "Épilogue"
+        "fr-FR": "Épilogue",
+        "pt-BR": "Epílogo"
       }
     }
   ]
