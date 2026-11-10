@@ -48,7 +48,17 @@ The findings above have been worked through practice by practice. Each tradition
 Many of the "received forms" in the findings were misremembered by the model that wrote them. Where the corpus already matched its Brazilian source, the source wins.
 
 Still open:
-- No Brazilian source found yet for: the three o'clock prayer itself (*Diário* 1319), the Litany of the Saints as a whole, the Loreto collect *Concede nos famulos*, the Alma Redemptoris Mater, Pange lingua stanzas 1–4 and the Adoro te (the Opus Dei pages have them, but the fetch tool would not quote hymns), the Sacred Heart daily offering, the Suscipe, Ave Maris Stella, Ave Verum, the Byzantine texts (no Brazilian Melkite or Ukrainian edition online), and the old Confiteor and Retribuere of the Little Office.
+- Since resolved from Brazilian sources:
+  - **Taken from the Brazilian Liturgy of the Hours** (`content/loth`): Ave Maris Stella, Alma Redemptoris Mater and all of Pange lingua ("Vamos todos louvar juntos").
+  - **Litany of the Saints:** the Liturgy of the Hours text, with the old long form taken from the wording most of Lehmann's *Magnificat*, Keckeisen's *Missal Quotidiano* and a third text agree on.
+  - **Three o'clock prayer:** the Brazilian *Diário*, as five sites print it.
+  - **Sacred Heart offering:** "Ofereço-Vos, ó meu Deus…" from the Apostolado da Oração, as five sources print it.
+  - **Trisagion, Paschal troparion and Axion estin:** from the Ukrainian Eparchy of Curitiba's *Divina Liturgia* (2008).
+- Brazilian sources disagree on these, with no text most of them share:
+  - **Adoro te:** we use Opus Dei Brazil's published text.
+  - **Litany of the Saints:** the petitions for those in error and for our souls follow the *Missal Quotidiano*.
+  - **Ave Verum:** still our own text.
+  - **Jesus Prayer:** no Brazilian eparchy prints a text we could find.
 - Sources that print an error are corrected against the Latin, and the correction is noted in the practice's `source`: the Opus Dei Athanasian Creed (vv. 5, 21, 29), "pensamentos" in the Confiteor, and "haveis prometido" in the Act of Hope. Small typo fixes were made against the source in the Opus Dei prayer cards, St Ambrose, Psalm 50 and the Via Sacra.
 - The Requiem follows the Brazilian liturgical books, "Dai-lhes, Senhor, o repouso eterno e brilhe para eles a vossa luz". The Brazilian Missal in `content/missal` has this wording with "descanso"; the Brazilian Liturgy of the Hours in `content/loth` and Opus Dei have "repouso". The popular "luz perpétua" is the pre-conciliar wording. The Preces, the responsories and the Lux aeterna keep their own sourced forms.
 - The Litany of the Sacred Heart, the Litany of the Holy Name and the Litany of the Precious Blood were checked line by line against 9–10 Brazilian texts each. Copies of the same text were counted as one source. Each line uses the wording most sources agree on, and the manifests name the sources. The Arquidiocese de Fortaleza, the Arquidiocese de Ribeirão Preto and the Diocese de Colatina print a different, newer translation of the Sacred Heart litany; we kept the widely printed traditional one.

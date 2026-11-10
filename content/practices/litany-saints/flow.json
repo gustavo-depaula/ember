@@ -10,48 +10,48 @@
         {
           "v": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade.",
+            "pt-BR": "Senhor, tende piedade de nós.",
             "la": "Kýrie, eléison."
           },
           "r": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade.",
+            "pt-BR": "Senhor, tende piedade de nós.",
             "la": "Kýrie, eléison."
           }
         },
         {
           "v": {
             "en-US": "Christ, have mercy.",
-            "pt-BR": "Cristo, tende piedade.",
+            "pt-BR": "Cristo, tende piedade de nós.",
             "la": "Christe, eléison."
           },
           "r": {
             "en-US": "Christ, have mercy.",
-            "pt-BR": "Cristo, tende piedade.",
+            "pt-BR": "Cristo, tende piedade de nós.",
             "la": "Christe, eléison."
           }
         },
         {
           "v": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade.",
+            "pt-BR": "Senhor, tende piedade de nós.",
             "la": "Kýrie, eléison."
           },
           "r": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade.",
+            "pt-BR": "Senhor, tende piedade de nós.",
             "la": "Kýrie, eléison."
           }
         },
         {
           "v": {
             "en-US": "Christ, hear us.",
-            "pt-BR": "Cristo, ouvi-nos.",
+            "pt-BR": "Jesus Cristo, ouvi-nos.",
             "la": "Christe, audi nos."
           },
           "r": {
             "en-US": "Christ, graciously hear us.",
-            "pt-BR": "Cristo, atendei-nos.",
+            "pt-BR": "Jesus Cristo, atendei-nos.",
             "la": "Christe, exáudi nos."
           }
         },
@@ -94,7 +94,7 @@
         {
           "v": {
             "en-US": "Holy Trinity, one God,",
-            "pt-BR": "Santíssima Trindade, um só Deus,",
+            "pt-BR": "Santíssima Trindade, que sois um só Deus,",
             "la": "Sancta Trínitas, unus Deus,"
           },
           "r": {
@@ -181,7 +181,7 @@
         {
           "v": {
             "en-US": "All holy Angels and Archangels,",
-            "pt-BR": "Todos os santos Anjos e Arcanjos,",
+            "pt-BR": "Todos os Santos Anjos e Arcanjos,",
             "la": "Omnes sancti Ángeli et Archángeli,"
           },
           "r": {
@@ -268,7 +268,7 @@
         {
           "v": {
             "en-US": "Saint Andrew,",
-            "pt-BR": "São André,",
+            "pt-BR": "Santo André,",
             "la": "Sancte Andréa,"
           },
           "r": {
@@ -463,7 +463,7 @@
         {
           "v": {
             "en-US": "Saint Stephen,",
-            "pt-BR": "São Estêvão,",
+            "pt-BR": "Santo Estêvão,",
             "la": "Sancte Stéphane,"
           },
           "r": {
@@ -766,7 +766,7 @@
         {
           "v": {
             "en-US": "Saint Francis of Assisi,",
-            "pt-BR": "São Francisco de Assis,",
+            "pt-BR": "São Francisco,",
             "la": "Sancte Francísce,"
           },
           "r": {
@@ -850,7 +850,7 @@
         {
           "v": {
             "en-US": "All holy Bishops and Confessors,",
-            "pt-BR": "Todos os santos Bispos e Confessores,",
+            "pt-BR": "Todos os santos Pontífices e Confessores,",
             "la": "Omnes sancti Pontífices et Confessóres,"
           },
           "r": {
@@ -862,7 +862,7 @@
         {
           "v": {
             "en-US": "All holy Doctors of the Church,",
-            "pt-BR": "Todos os santos Doutores da Igreja,",
+            "pt-BR": "Todos os santos Doutores,",
             "la": "Omnes sancti Doctóres,"
           },
           "r": {
@@ -901,7 +901,7 @@
         {
           "v": {
             "en-US": "Saint Agatha,",
-            "pt-BR": "Santa Ágata,",
+            "pt-BR": "Santa Águeda,",
             "la": "Sancta Ágatha,"
           },
           "r": {
@@ -913,7 +913,7 @@
         {
           "v": {
             "en-US": "Saint Lucy,",
-            "pt-BR": "Santa Lúcia,",
+            "pt-BR": "Santa Luzia,",
             "la": "Sancta Lúcia,"
           },
           "r": {
@@ -925,7 +925,7 @@
         {
           "v": {
             "en-US": "Saint Anastasia,",
-            "pt-BR": "Santa Anastásia,",
+            "pt-BR": "Santa Anastácia,",
             "la": "Sancta Anastásia,"
           },
           "r": {
@@ -1009,7 +1009,7 @@
         {
           "v": {
             "en-US": "All Saints of God,",
-            "pt-BR": "Todos os Santos de Deus,",
+            "pt-BR": "Todos os Santos e Santas de Deus,",
             "la": "Omnes Sancti et Sanctæ Dei,"
           },
           "r": {
@@ -1036,19 +1036,19 @@
         {
           "v": {
             "en-US": "Be merciful,",
-            "pt-BR": "Sede misericordioso,",
+            "pt-BR": "Sede-nos propício,",
             "la": "Propítius esto,"
           },
           "r": {
             "en-US": "Spare us, O Lord.",
-            "pt-BR": "Poupai-nos, Senhor.",
+            "pt-BR": "Perdoai-nos, Senhor.",
             "la": "Parce nobis, Dómine."
           }
         },
         {
           "v": {
             "en-US": "Be merciful,",
-            "pt-BR": "Sede misericordioso,",
+            "pt-BR": "Sede-nos propício,",
             "la": "Propítius esto,"
           },
           "r": {
@@ -1060,7 +1060,7 @@
         {
           "v": {
             "en-US": "From all evil,",
-            "pt-BR": "De todo o mal,",
+            "pt-BR": "De todo mal,",
             "la": "Ab omni malo,"
           },
           "r": {
@@ -1084,7 +1084,7 @@
         {
           "v": {
             "en-US": "From Your wrath,",
-            "pt-BR": "Da Vossa ira,",
+            "pt-BR": "De vossa ira,",
             "la": "Ab ira tua,"
           },
           "r": {
@@ -1132,7 +1132,7 @@
         {
           "v": {
             "en-US": "From the spirit of fornication,",
-            "pt-BR": "Do espírito de fornicação,",
+            "pt-BR": "Do espírito de impureza,",
             "la": "A spíritu fornicatiónis,"
           },
           "r": {
@@ -1168,7 +1168,7 @@
         {
           "v": {
             "en-US": "Through the mystery of Your holy Incarnation,",
-            "pt-BR": "Pelo mistério da Vossa santa Encarnação,",
+            "pt-BR": "Pelo mistério da vossa santa Encarnação,",
             "la": "Per mystérium sanctæ Incarnatiónis tuæ,"
           },
           "r": {
@@ -1180,7 +1180,7 @@
         {
           "v": {
             "en-US": "Through Your coming,",
-            "pt-BR": "Pela Vossa vinda,",
+            "pt-BR": "Pela vossa Vinda,",
             "la": "Per advéntum tuum,"
           },
           "r": {
@@ -1192,7 +1192,7 @@
         {
           "v": {
             "en-US": "Through Your birth,",
-            "pt-BR": "Pelo Vosso nascimento,",
+            "pt-BR": "Pelo vosso Nascimento,",
             "la": "Per nativitátem tuam,"
           },
           "r": {
@@ -1204,7 +1204,7 @@
         {
           "v": {
             "en-US": "Through Your baptism and holy fasting,",
-            "pt-BR": "Pelo Vosso batismo e santo jejum,",
+            "pt-BR": "Pelo vosso Batismo e santo Jejum,",
             "la": "Per baptísmum et sanctum ieiúnium tuum,"
           },
           "r": {
@@ -1216,7 +1216,7 @@
         {
           "v": {
             "en-US": "Through Your cross and passion,",
-            "pt-BR": "Pela Vossa cruz e paixão,",
+            "pt-BR": "Pela vossa Cruz e Paixão,",
             "la": "Per crucem et passiónem tuam,"
           },
           "r": {
@@ -1228,7 +1228,7 @@
         {
           "v": {
             "en-US": "Through Your death and burial,",
-            "pt-BR": "Pela Vossa morte e sepultura,",
+            "pt-BR": "Pela vossa Morte e Sepultura,",
             "la": "Per mortem et sepultúram tuam,"
           },
           "r": {
@@ -1240,7 +1240,7 @@
         {
           "v": {
             "en-US": "Through Your holy resurrection,",
-            "pt-BR": "Pela Vossa santa ressurreição,",
+            "pt-BR": "Pela vossa santa Ressurreição,",
             "la": "Per sanctam resurrectiónem tuam,"
           },
           "r": {
@@ -1252,7 +1252,7 @@
         {
           "v": {
             "en-US": "Through Your wonderful ascension,",
-            "pt-BR": "Pela Vossa admirável ascensão,",
+            "pt-BR": "Pela vossa admirável Ascensão,",
             "la": "Per admirábilem ascensiónem tuam,"
           },
           "r": {
@@ -1264,7 +1264,7 @@
         {
           "v": {
             "en-US": "Through the coming of the Holy Spirit,",
-            "pt-BR": "Pela vinda do Espírito Santo,",
+            "pt-BR": "Pela vinda do Espírito Santo Consolador,",
             "la": "Per advéntum Spíritus Sancti Parácliti,"
           },
           "r": {
@@ -1276,7 +1276,7 @@
         {
           "v": {
             "en-US": "On the day of judgment,",
-            "pt-BR": "No dia do juízo,",
+            "pt-BR": "No dia do Juízo,",
             "la": "In die iudícii,"
           },
           "r": {
@@ -1288,168 +1288,168 @@
         {
           "v": {
             "en-US": "We sinners,",
-            "pt-BR": "Nós pecadores,",
+            "pt-BR": "Pecadores que somos,",
             "la": "Peccatóres,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
-            "pt-BR": "Ouvi-nos, Senhor.",
+            "pt-BR": "Nós vos rogamos: ouvi-nos.",
             "la": "Te rogámus, audi nos."
           }
         },
         {
           "v": {
             "en-US": "That You spare us,",
-            "pt-BR": "Para que nos poupeis,",
+            "pt-BR": "Para que nos perdoeis,",
             "la": "Ut nobis parcas,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
-            "pt-BR": "Ouvi-nos, Senhor.",
+            "pt-BR": "Nós vos rogamos: ouvi-nos.",
             "la": "Te rogámus, audi nos."
           }
         },
         {
           "v": {
             "en-US": "That You pardon us,",
-            "pt-BR": "Para que nos perdoeis,",
+            "pt-BR": "Para que nos favoreçais,",
             "la": "Ut nobis indúlgeas,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
-            "pt-BR": "Ouvi-nos, Senhor.",
+            "pt-BR": "Nós vos rogamos: ouvi-nos.",
             "la": "Te rogámus, audi nos."
           }
         },
         {
           "v": {
             "en-US": "That You bring us to true penance,",
-            "pt-BR": "Para que nos leveis à verdadeira penitência,",
+            "pt-BR": "Para que vos digneis conduzir-nos a uma verdadeira penitência,",
             "la": "Ut ad veram pæniténtiam nos perdúcere dignéris,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
-            "pt-BR": "Ouvi-nos, Senhor.",
+            "pt-BR": "Nós vos rogamos: ouvi-nos.",
             "la": "Te rogámus, audi nos."
           }
         },
         {
           "v": {
             "en-US": "That You govern and preserve Your holy Church,",
-            "pt-BR": "Para que governeis e conserveis Vossa santa Igreja,",
+            "pt-BR": "Para que vos digneis governar e conservar a vossa santa Igreja,",
             "la": "Ut Ecclésiam tuam sanctam régere et conserváre dignéris,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
-            "pt-BR": "Ouvi-nos, Senhor.",
+            "pt-BR": "Nós vos rogamos: ouvi-nos.",
             "la": "Te rogámus, audi nos."
           }
         },
         {
           "v": {
             "en-US": "That You preserve our Pope, and all orders of the Church, in holy religion,",
-            "pt-BR": "Para que preserveis o nosso Papa e todas as ordens da Igreja na santa religião,",
+            "pt-BR": "Para que vos digneis conservar na santa religião o Sumo Pontífice e todas as ordens da hierarquia eclesiástica,",
             "la": "Ut domnum Apostólicum et omnes ecclesiásticos órdines in sancta religióne conserváre dignéris,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
-            "pt-BR": "Ouvi-nos, Senhor.",
+            "pt-BR": "Nós vos rogamos: ouvi-nos.",
             "la": "Te rogámus, audi nos."
           }
         },
         {
           "v": {
             "en-US": "That You humble the enemies of Holy Church,",
-            "pt-BR": "Para que humilheis os inimigos da Santa Igreja,",
+            "pt-BR": "Para que vos digneis humilhar os inimigos da santa Igreja,",
             "la": "Ut inimícos sanctæ Ecclésiæ humiliáre dignéris,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
-            "pt-BR": "Ouvi-nos, Senhor.",
+            "pt-BR": "Nós vos rogamos: ouvi-nos.",
             "la": "Te rogámus, audi nos."
           }
         },
         {
           "v": {
             "en-US": "That You grant peace and true concord to Christian kings and princes,",
-            "pt-BR": "Para que concedais paz e verdadeira concórdia aos reis e príncipes cristãos,",
+            "pt-BR": "Para que vos digneis conceder a paz e a verdadeira concórdia aos reis e príncipes cristãos,",
             "la": "Ut régibus et princípibus christiánis pacem et veram concórdiam donáre dignéris,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
-            "pt-BR": "Ouvi-nos, Senhor.",
+            "pt-BR": "Nós vos rogamos: ouvi-nos.",
             "la": "Te rogámus, audi nos."
           }
         },
         {
           "v": {
             "en-US": "That You give peace and unity to all Christian people,",
-            "pt-BR": "Para que deis paz e unidade a todo o povo cristão,",
+            "pt-BR": "Para que vos digneis conceder a paz e a união a todo o povo cristão,",
             "la": "Ut cuncto pópulo christiáno pacem et unitátem largíri dignéris,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
-            "pt-BR": "Ouvi-nos, Senhor.",
+            "pt-BR": "Nós vos rogamos: ouvi-nos.",
             "la": "Te rogámus, audi nos."
           }
         },
         {
           "v": {
             "en-US": "That You bring back to the unity of the Church all who have strayed, and lead all unbelievers to the light of the Gospel,",
-            "pt-BR": "Para que reconduzais à unidade da Igreja todos os que se desviaram e guieis todos os incrédulos à luz do Evangelho,",
+            "pt-BR": "Para que vos digneis reconduzir todos os transviados à unidade da Igreja, e iluminar todos os infiéis com a luz do Evangelho,",
             "la": "Ut omnes errántes ad unitátem Ecclésiæ revocáre, et infidéles univérsos ad Evangélii lumen perdúcere dignéris,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
-            "pt-BR": "Ouvi-nos, Senhor.",
+            "pt-BR": "Nós vos rogamos: ouvi-nos.",
             "la": "Te rogámus, audi nos."
           }
         },
         {
           "v": {
             "en-US": "That You strengthen and preserve us in Your holy service,",
-            "pt-BR": "Para que nos fortaleçais e conserveis no Vosso santo serviço,",
+            "pt-BR": "Para que vos digneis confortar-nos e conservar-nos em vosso santo serviço,",
             "la": "Ut nosmetípsos in tuo sancto servítio confortáre et conserváre dignéris,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
-            "pt-BR": "Ouvi-nos, Senhor.",
+            "pt-BR": "Nós vos rogamos: ouvi-nos.",
             "la": "Te rogámus, audi nos."
           }
         },
         {
           "v": {
             "en-US": "That You reward all our benefactors with eternal good,",
-            "pt-BR": "Para que recompenseis todos os nossos benfeitores com o bem eterno,",
+            "pt-BR": "Para que vos digneis retribuir, com os bens sempiternos, a todos os nossos benfeitores,",
             "la": "Ut ómnibus benefactóribus nostris sempitérna bona retríbuas,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
-            "pt-BR": "Ouvi-nos, Senhor.",
+            "pt-BR": "Nós vos rogamos: ouvi-nos.",
             "la": "Te rogámus, audi nos."
           }
         },
         {
           "v": {
             "en-US": "That You deliver our souls, and the souls of our brethren, relations, and benefactors, from eternal damnation,",
-            "pt-BR": "Para que livreis as nossas almas e as almas de nossos irmãos, parentes e benfeitores da danação eterna,",
+            "pt-BR": "Para que livreis as nossas almas da condenação eterna, e as de nossos irmãos, parentes e benfeitores,",
             "la": "Ut ánimas nostras, fratrum, propinquórum et benefactórum nostrórum ab ætérna damnatióne erípias,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
-            "pt-BR": "Ouvi-nos, Senhor.",
+            "pt-BR": "Nós vos rogamos: ouvi-nos.",
             "la": "Te rogámus, audi nos."
           }
         },
         {
           "v": {
             "en-US": "That You give and preserve the fruits of the earth,",
-            "pt-BR": "Para que deis e conserveis os frutos da terra,",
+            "pt-BR": "Para que vos digneis dar e conservar os frutos da terra,",
             "la": "Ut fructus terræ dare et conserváre dignéris,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
-            "pt-BR": "Ouvi-nos, Senhor.",
+            "pt-BR": "Nós vos rogamos: ouvi-nos.",
             "la": "Te rogámus, audi nos."
           }
         },
@@ -1461,7 +1461,7 @@
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
-            "pt-BR": "Ouvi-nos, Senhor.",
+            "pt-BR": "Nós vos rogamos: ouvi-nos.",
             "la": "Te rogámus, audi nos."
           }
         }

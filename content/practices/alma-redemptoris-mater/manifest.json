@@ -12,6 +12,10 @@
 		"antiphon",
 		"advent"
 	],
+	"source": {
+		"en-US": "Portuguese text: the final antiphon of Our Lady at Compline, *Liturgia das Horas* (Brazilian translation).",
+		"pt-BR": "Antífona final de Nossa Senhora nas Completas, *Liturgia das Horas* (tradução brasileira)."
+	},
 	"flow": {
 		"sections": [
 			{
@@ -25,7 +29,7 @@
 				"type": "prayer",
 				"inline": {
 					"en-US": "Loving Mother of the Redeemer,\nwho remainest the ever-open gate of heaven,\nand star of the sea:\nsuccor thy people who fall,\nyet strive to rise again.\nThou who, to the wonderment of nature,\ndidst bring forth thy holy Creator,\nremaining a Virgin after as before,\nwho from Gabriel's lips didst receive that joyful greeting,\nhave mercy upon us sinners.",
-					"pt-BR": "Augusta Mãe do Redentor,\nó porta sempre aberta do céu,\nestrela do mar, vinde socorrer\no povo que cai e luta por se reerguer.\nVós que, para admiração da natureza,\ngerastes o vosso santo Criador,\nVirgem antes e depois do parto,\nque recebestes de Gabriel o feliz anúncio,\ntende piedade de nós pecadores.",
+					"pt-BR": "Ó Mãe do Redentor, do céu ó porta,\nao povo que caiu, socorre e exorta,\npois busca levantar-se, Virgem pura,\nnascendo o Criador da criatura:\ntem piedade de nós e ouve, suave,\no anjo te saudando com seu Ave!",
 					"la": "Alma Redemptóris Mater, quæ pérvia cæli\nporta manes, et stella maris, succúrre cadénti,\nsúrgere qui curat, pópulo: tu quæ genuísti,\nnatúra miránte, tuum sanctum Genitórem,\nVirgo prius ac postérius, Gabriélis ab ore\nsumens illud Ave, peccatórum miserére."
 				}
 			},

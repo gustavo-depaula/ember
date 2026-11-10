@@ -63,7 +63,7 @@
 			"type": "rubric",
 			"text": {
 				"en-US": "From Easter to Ascension, the Heavenly King is replaced by the Paschal troparion: *Christ is risen from the dead, by death He trampled death, and to those in the tombs He granted life.* (Three times)",
-				"pt-BR": "Da Páscoa à Ascensão, o *Rei celeste* é substituído pelo tropário pascal: *Cristo ressuscitou dos mortos, pela morte calcou a morte, e aos que estavam nos sepulcros deu a vida.* (Três vezes)"
+				"pt-BR": "Da Páscoa à Ascensão, o *Rei celeste* é substituído pelo tropário pascal: *Cristo ressuscitou dos mortos, com a sua morte venceu o poder da morte e aos que jaziam nos sepulcros Ele deu a vida.* (Três vezes)"
 			}
 		},
 		{
@@ -80,7 +80,7 @@
 			"type": "prayer",
 			"inline": {
 				"en-US": "Holy God, Holy Mighty, Holy Immortal: have mercy on us.\n(Three times)",
-				"pt-BR": "Santo Deus, Santo Forte, Santo Imortal: tende piedade de nós.\n(Três vezes)"
+				"pt-BR": "Deus santo, Deus forte, Deus imortal, tende piedade de nós.\n(Três vezes)"
 			}
 		},
 		{
@@ -206,11 +206,11 @@
 			"defaultOpen": true,
 			"title": {
 				"en-US": "It is truly proper",
-				"pt-BR": "Verdadeiramente é digno"
+				"pt-BR": "Na verdade é justo"
 			},
 			"inline": {
 				"en-US": "It is truly proper to glorify you, who have borne God, the ever-blessed, immaculate, and the Mother of our God. More honorable than the Cherubim, and beyond compare more glorious than the Seraphim, who, a virgin, gave birth to God the Word — you, truly the Mother of God, we magnify.",
-				"pt-BR": "Verdadeiramente é digno honrar-Vos, ó Deípara, sempre venturosa e toda imaculada, e Mãe do nosso Deus. Mais veneranda que os Querubins e mais gloriosa, sem comparação, que os Serafins, Vós que, sem corrupção, destes à luz o Verbo de Deus, verdadeira Mãe de Deus, nós Vos engrandecemos."
+				"pt-BR": "Na verdade é justo aclamar-vos bem-aventurada, ó gloriosa e puríssima Mãe de Deus. Nós vos enaltecemos, porque a vossa honra excede à dos querubins e a vossa glória é incomparavelmente maior que a dos serafins. Porque Vós, permanecendo imaculada, gerastes o Verbo e sois verdadeiramente a Mãe de Deus."
 			}
 		},
 		{

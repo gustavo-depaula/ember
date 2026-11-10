@@ -5,13 +5,17 @@
 		"en-US": "Morning Offering to the Sacred Heart",
 		"pt-BR": "Oferecimento ao Sagrado Coração de Jesus"
 	},
+	"source": {
+		"en-US": "Portuguese text: the Apostleship of Prayer's *Oferecimento do dia* in the wording most Brazilian texts agree on — [aleteia.org](https://pt.aleteia.org/2020/08/28/ofereca-a-deus-o-seu-dia-atraves-desta-oracao-ao-imaculado-coracao-de-maria/), [quemrezasesalva.com.br](https://quemrezasesalva.com.br/oracao/oferecimento-do-dia), [metropolia.org.br](https://metropolia.org.br/movimentos/1097-2/), [comunidadesantarosa.com.br](http://comunidadesantarosa.com.br/2016/04/06/apostolado-da-oracao-oferecimento-diario/), [aomissoescristorei.blogspot.com](http://aomissoescristorei.blogspot.com/p/o-bilhete-mensal.html)",
+		"pt-BR": "*Oferecimento do dia* do Apostolado da Oração, na redação em que concorda a maioria dos textos brasileiros — [aleteia.org](https://pt.aleteia.org/2020/08/28/ofereca-a-deus-o-seu-dia-atraves-desta-oracao-ao-imaculado-coracao-de-maria/), [quemrezasesalva.com.br](https://quemrezasesalva.com.br/oracao/oferecimento-do-dia), [metropolia.org.br](https://metropolia.org.br/movimentos/1097-2/), [comunidadesantarosa.com.br](http://comunidadesantarosa.com.br/2016/04/06/apostolado-da-oracao-oferecimento-diario/), [aomissoescristorei.blogspot.com](http://aomissoescristorei.blogspot.com/p/o-bilhete-mensal.html)"
+	},
 	"flow": {
 		"sections": [
 			{
 				"type": "prayer",
 				"inline": {
 					"en-US": "O Jesus, through the Immaculate Heart of Mary, I offer Thee my prayers, works, joys, and sufferings of this day, in union with the Holy Sacrifice of the Mass throughout the world. I offer them for all the intentions of Thy Sacred Heart: the salvation of souls, reparation for sin, and the reunion of all Christians. I offer them for the intentions of our bishops and of all Apostles of Prayer, and in particular for those recommended by our Holy Father this month. Amen.",
-					"pt-BR": "Ó Jesus, pelo Imaculado Coração de Maria, eu Vos ofereço as minhas orações, obras, alegrias e sofrimentos deste dia, em união com o Santo Sacrifício da Missa no mundo inteiro. Ofereço-os por todas as intenções do Vosso Sagrado Coração: a salvação das almas, a reparação dos pecados e a união de todos os cristãos. Ofereço-os pelas intenções dos nossos bispos e de todos os membros do Apostolado da Oração, e em particular pelas intenções recomendadas pelo nosso Santo Padre neste mês. Amém."
+					"pt-BR": "Ofereço-Vos, ó meu Deus, em união com o Santíssimo Coração de Jesus, por meio do Coração Imaculado de Maria, as orações, obras, sofrimentos e alegrias deste dia, em reparação de nossas ofensas e por todas as intenções pelas quais o mesmo divino Coração está continuamente intercedendo e sacrificando-se em nossos altares. Amém."
 				}
 			}
 		]
