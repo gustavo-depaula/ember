@@ -41,7 +41,10 @@ export function ChantWeek() {
         }}
       />
     )
-  if (!days.data || !graduale.data) return <YStack height={height} />
+  // The week is worked out from the breviary's files, read from the corpus:
+  // until it is, the row shows its leaves blank where they will lie, so it
+  // does not stand empty and then jump.
+  if (!days.data || !graduale.data) return <BlankLeaves />
 
   const book = graduale.data
   const pages = days.data
@@ -138,6 +141,38 @@ export function ChantWeek() {
 
 const radius = 6
 const shadowRoom = { top: 4, bottom: 18 }
+
+function BlankLeaves() {
+  return (
+    <YStack
+      marginTop={-shadowRoom.top}
+      marginBottom={-shadowRoom.bottom}
+      accessibilityElementsHidden
+      importantForAccessibility="no-hide-descendants"
+    >
+      <CardRow>
+        {[todayWidth, dayWidth, dayWidth, dayWidth].map((width, i) => (
+          <View
+            // biome-ignore lint/suspicious/noArrayIndexKey: placeholders never reorder
+            key={i}
+            style={{ paddingTop: shadowRoom.top, paddingBottom: shadowRoom.bottom }}
+          >
+            <YStack
+              width={width}
+              height={height}
+              borderRadius={radius}
+              backgroundColor="#E9DDC2"
+              opacity={0.35}
+              style={styles.shadow}
+            >
+              <Paper id={`leaf-blank-${i}`} width={width} />
+            </YStack>
+          </View>
+        ))}
+      </CardRow>
+    </YStack>
+  )
+}
 
 // Cream paper, lightest where the light falls on it and warmer toward its edges.
 function Paper({ id, width }: { id: string; width: number }) {
