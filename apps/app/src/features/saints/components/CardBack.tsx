@@ -135,7 +135,10 @@ export function CardBack({
                 textAlign="center"
                 fontStyle="italic"
               >
-                &ldquo;{saint.prayerExcerpt}&rdquo;
+                {/* An excerpt that opens on a quotation carries its own marks. */}
+                {/^[“"«]/.test(saint.prayerExcerpt)
+                  ? saint.prayerExcerpt
+                  : `“${saint.prayerExcerpt}”`}
               </Text>
             )}
 
