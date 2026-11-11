@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8" />
+<title>Church page — when it was last confirmed and corrected</title>
+<style>
+  @font-face { font-family: Cinzel; src: url(fonts/Cinzel_400Regular.ttf); }
+  @font-face { font-family: Garamond; src: url(fonts/EBGaramond_400Regular.ttf); }
+  @font-face { font-family: Garamond; font-style: italic; src: url(fonts/EBGaramond_400Regular_Italic.ttf); }
+  :root { --ink: #2c2418; --muted: #6b5d4f; --burgundy: #6b1d2a; --green: #2d6a4f; --border: #e5ddd2; --accent: #c9a84c; }
+  * { box-sizing: border-box; margin: 0; }
+  body { background: #e9e4dc; padding: 40px; font-family: Garamond, serif; color: var(--ink); }
+  h1 { font: 400 20px Cinzel; letter-spacing: 2px; text-transform: uppercase; padding-bottom: 8px; }
+  .intro { color: var(--muted); font-size: 18px; line-height: 26px; max-width: 1150px; padding-bottom: 32px; }
+  .row { display: flex; gap: 40px; align-items: flex-start; }
+  .col { width: 400px; }
+  .col > h2 { font: 400 15px Cinzel; letter-spacing: 1.5px; text-transform: uppercase; }
+  .col > p { color: var(--muted); font-size: 16px; line-height: 22px; height: 112px; padding-top: 6px; }
+  /* Screenshots are 1080 px wide; the phone is 400, so a source pixel is 0.3704 here. */
+  .phone { width: 400px; height: 889px; border-radius: 40px; overflow: hidden; background: #fff; box-shadow: 0 10px 30px rgba(0,0,0,.15); }
+  .slice { overflow: hidden; }
+  .slice img { width: 400px; display: block; }
+  .pad { padding: 0 17px; }
+  /* What the page would add. */
+  .fresh { display: flex; flex-direction: column; gap: 3px; font-size: 16px; line-height: 21px; color: var(--muted); }
+  .fresh div { display: flex; gap: 8px; align-items: baseline; }
+  .fresh svg { flex: none; width: 13px; height: 13px; position: relative; top: 1px; }
+  .fresh b { font-weight: 400; color: var(--ink); }
+  .caption { font-style: italic; font-size: 15.5px; line-height: 21px; color: var(--muted); }
+  .warn { color: var(--burgundy); }
+  table { border-collapse: collapse; margin-top: 44px; }
+  td, th { text-align: left; vertical-align: top; padding: 12px 24px 12px 0; border-bottom: 0.5px solid #cfc6b8; font-size: 17px; line-height: 24px; }
+  th { font: 400 13px Cinzel; letter-spacing: 1.5px; text-transform: uppercase; color: var(--muted); }
+</style>
+
+<svg width="0" height="0" style="position:absolute">
+  <symbol id="check" viewBox="0 0 16 16"><path d="M2.5 8.5l3.5 3.5 7.5-8" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="pen" viewBox="0 0 16 16"><path d="M10.5 2.5l3 3-8 8H2.5v-3z" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/></symbol>
+  <symbol id="clock" viewBox="0 0 16 16"><circle cx="8" cy="8" r="6" fill="none" stroke="currentColor" stroke-width="1.4"/><path d="M8 4.5V8l2.5 1.5" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></symbol>
+</svg>
+
+<h1>Church page · last confirmed and last corrected</h1>
+<p class="intro">Two separate facts: when a visitor last tapped "Times are correct", and when the times were last corrected from the desk. A visitor's confirmation in the last 60 days counts as fresh; without one, the page says when the times were last checked and that they may be outdated. Drawn over the real Catedral da Sé page (Android, light theme).</p>
+
+<div class="row">
+
+<div class="col"><h2>A · Under the name</h2>
+<p>Beside the next-Mass line, before anyone reads the times, so trust comes first. Quiet grey; the check is green only while it's fresh.</p>
+<div class="phone">
+  <div class="slice" style="height:302px"><img src="church-1.jpg" /></div>
+  <div class="pad fresh" style="padding-top:4px;padding-bottom:16px">
+    <div><svg style="color:var(--green)"><use href="#check"/></svg><span>Confirmed by a visitor <b>3 days ago</b></span></div>
+    <div><svg><use href="#pen"/></svg><span>Corrected <b>October 28, 2026</b></span></div>
+  </div>
+  <div class="slice" style="height:560px"><img src="church-1.jpg" style="margin-top:-302px" /></div>
+</div></div>
+
+<div class="col"><h2>B · Above the feedback buttons</h2>
+<p>In "Help keep this accurate", right before "Times are correct", so it reads as an invitation: someone confirmed three days ago, so can you. The bottom caption goes.</p>
+<div class="phone">
+  <div class="slice" style="height:744px"><img src="church-3.jpg" style="margin-top:0" /></div>
+  <div class="pad fresh" style="margin-top:-2px;padding-bottom:12px">
+    <div><svg style="color:var(--green)"><use href="#check"/></svg><span>Confirmed by a visitor <b>3 days ago</b></span></div>
+    <div><svg><use href="#pen"/></svg><span>Corrected <b>October 28, 2026</b></span></div>
+  </div>
+  <div class="slice" style="height:62px"><img src="church-3.jpg" style="margin-top:-751px" /></div>
+</div></div>
+
+<div class="col"><h2>C · At the bottom, as now</h2>
+<p>The present caption, split in two. The least prominent: only someone who scrolls past the parish's own text sees it.</p>
+<div class="phone">
+  <div class="slice" style="height:817px"><img src="church-3.jpg" /></div>
+  <div class="pad caption" style="margin-top:-2px">
+    Confirmed by a visitor 3 days ago<br />Corrected October 28, 2026
+  </div>
+</div></div>
+
+<div class="col"><h2>A, out of date</h2>
+<p>The same spot when no visitor has confirmed in 60 days. It says when the times were last checked and asks for a confirmation. The tap then turns it back to A.</p>
+<div class="phone">
+  <div class="slice" style="height:302px"><img src="church-1.jpg" /></div>
+  <div class="pad fresh" style="padding-top:4px;padding-bottom:16px">
+    <div class="warn"><svg><use href="#clock"/></svg><span>Last checked July 10, 2026 — may be outdated</span></div>
+    <div><svg style="opacity:0"><use href="#pen"/></svg><span style="font-style:italic">Been there lately? Confirm the times below.</span></div>
+  </div>
+  <div class="slice" style="height:560px"><img src="church-1.jpg" style="margin-top:-302px" /></div>
+</div></div>
+
+</div>
+
+<table>
+  <tr><th>State</th><th>Line 1</th><th>Line 2</th></tr>
+  <tr><td>Visitor confirmed ≤ 60 days ago</td><td>✓ Confirmed by a visitor 3 days ago</td><td>✎ Corrected October 28, 2026 (if ever corrected)</td></tr>
+  <tr><td>No recent confirmation</td><td>◷ Last checked July 10, 2026 — may be outdated</td><td><i>Been there lately? Confirm the times below.</i></td></tr>
+  <tr><td>Nothing on record</td><td colspan="2">◷ Never confirmed — may be outdated</td></tr>
+  <tr><td>pt-BR</td><td>Confirmado por um visitante há 3 dias · Verificado em 10 de julho de 2026 — pode estar desatualizado</td><td>Corrigido em 28 de outubro de 2026 · Esteve lá? Confirme os horários abaixo.</td></tr>
+</table>
+</html>
