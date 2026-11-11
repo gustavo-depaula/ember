@@ -1,6 +1,10 @@
 {
   "id": "annunciation-novena",
   "icon": "mary",
+  "source": {
+    "en-US": "Portuguese text of the closing prayer: the Angelus collect as Opus Dei's *Devocionário* prints it ([opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=195&section2=)), put in the singular as the English is",
+    "pt-BR": "Oração final: a oração do Ângelus do *Devocionário* do Opus Dei ([opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=195&section2=)), no singular, como no inglês"
+  },
   "name": {
     "en-US": "Novena for the Annunciation",
     "pt-BR": "Novena da Anunciação"

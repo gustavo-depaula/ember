@@ -2,8 +2,8 @@
   "id": "divine-mercy-novena",
   "icon": "mercy",
   "source": {
-    "en-US": "Portuguese text of the closing prayer (*Diary*, 950): Portal Divina Misericórdia, Padres Marianos — [misericordia.org.br](https://misericordia.org.br/formacoes/3o-dia-a-misericordia-esperanca-suprema/)",
-    "pt-BR": "Oração final (*Diário*, 950): Portal Divina Misericórdia, Padres Marianos — [misericordia.org.br](https://misericordia.org.br/formacoes/3o-dia-a-misericordia-esperanca-suprema/)"
+    "en-US": "Portuguese text: the nine days' words of Jesus and prayers (*Diary*, 1209–1229) from Portal Divina Misericórdia, Padres Marianos — [Novena à Divina Misericórdia](https://misericordia.org.br/devocao-antiga/formas-de-devocao-divina-misericordia/novena-a-divina-misericordia/), checked against [Canção Nova](https://formacao.cancaonova.com/novena/reze-com-confianca-a-novena-a-divina-misericordia/) and [misericordia.com.br](https://misericordia.com.br/novena-da-divina-misericordia/), with typos corrected from them (bênção, oferecerias, Ó Jesus, à Vossa justiça, Atraí-as) and pronouns of God capitalized throughout; closing prayer (*Diary*, 950) from the same portal — [misericordia.org.br](https://misericordia.org.br/formacoes/3o-dia-a-misericordia-esperanca-suprema/)",
+    "pt-BR": "Palavras de Jesus e orações dos nove dias (*Diário*, 1209–1229): Portal Divina Misericórdia, Padres Marianos — [Novena à Divina Misericórdia](https://misericordia.org.br/devocao-antiga/formas-de-devocao-divina-misericordia/novena-a-divina-misericordia/), conferidas com a [Canção Nova](https://formacao.cancaonova.com/novena/reze-com-confianca-a-novena-a-divina-misericordia/) e o [misericordia.com.br](https://misericordia.com.br/novena-da-divina-misericordia/), que corrigem erros de digitação do portal (bênção, oferecerias, Ó Jesus, à Vossa justiça, Atraí-as); pronomes referentes a Deus em maiúscula. Oração final (*Diário*, 950): mesmo portal — [misericordia.org.br](https://misericordia.org.br/formacoes/3o-dia-a-misericordia-esperanca-suprema/)"
   },
   "name": {
     "en-US": "Divine Mercy Novena",
@@ -34,7 +34,7 @@
   },
   "history": {
     "en-US": "The Divine Mercy Novena is traditionally prayed from Good Friday through Holy Saturday, culminating in Divine Mercy Sunday. It grew from the spirituality of St. Faustina Kowalska and centers on trust in Jesus and intercession for souls most in need of mercy.",
-    "pt-BR": "A Novena da Divina Misericórdia é tradicionalmente rezada da Sexta-Feira Santa ao Sábado Santo, culminando no Domingo da Divina Misericórdia. Ela cresceu da espiritualidade de Santa Faustina Kowalska e se concentra na confiança em Jesus e na intercessão pelas almas que mais necessitam de misericórdia."
+    "pt-BR": "A Novena da Divina Misericórdia é tradicionalmente rezada da Sexta-Feira Santa ao sábado da Oitava da Páscoa, culminando no Domingo da Divina Misericórdia. Ela nasceu da espiritualidade de Santa Faustina Kowalska e se concentra na confiança em Jesus e na intercessão pelas almas que mais necessitam de misericórdia."
   },
   "howToPray": {
     "en-US": "Pray once daily for nine consecutive days. Begin each day with the specific novena intention and prayer, then pray the Divine Mercy Chaplet for that intention. Although traditionally prayed before Divine Mercy Sunday, this novena may be started at any time.",
@@ -61,6 +61,6 @@
   },
   "subtitle": {
     "en-US": "Good Friday → Divine Mercy Sunday",
-    "pt-BR": "Sexta-feira Santa → Domingo da Misericórdia"
+    "pt-BR": "Sexta-Feira Santa → Domingo da Misericórdia"
   }
 }

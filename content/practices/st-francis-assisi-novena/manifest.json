@@ -34,11 +34,15 @@
   },
   "history": {
     "en-US": "Francis Bernardone (c. 1181–1226) of Assisi was a merchant's son who renounced his wealth to follow Christ in poverty, founding the Franciscan order. Before the crucifix of San Damiano he heard Christ say 'Rebuild My Church,' staged the first living Nativity at Greccio, sang the Canticle of the Creatures, and received the stigmata on Mount La Verna two years before his death. He is patron of Italy, of ecology, and of peacemakers.",
-    "pt-BR": "Francisco Bernardone (c. 1181–1226), de Assis, era filho de um comerciante que renunciou às suas riquezas para seguir Cristo na pobreza, fundando a ordem franciscana. Diante do crucifixo de São Damião ouviu Cristo dizer 'Reconstrói a minha Igreja', encenou o primeiro presépio vivo em Greccio, cantou o Cântico das Criaturas e recebeu os estigmas no monte Alverne dois anos antes de morrer. É padroeiro da Itália, da ecologia e dos pacificadores."
+    "pt-BR": "Francisco Bernardone (c. 1181–1226), de Assis, filho de um comerciante, renunciou às suas riquezas para seguir Cristo na pobreza e fundou a ordem franciscana. Diante do crucifixo de São Damião ouviu Cristo dizer 'Reconstrói a minha Igreja', encenou o primeiro presépio vivo em Greccio, cantou o Cântico das Criaturas e recebeu os estigmas no monte Alverne dois anos antes de morrer. É padroeiro da Itália, da ecologia e dos pacificadores."
   },
   "howToPray": {
     "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
     "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "source": {
+    "en-US": "Portuguese text of the lines of the Peace Prayer on Day 7: the received Brazilian text, as printed by the Santuário de São Francisco das Chagas de Canindé — [santuariodecaninde.com](https://santuariodecaninde.com/capela-virtual/oracoes/)",
+    "pt-BR": "As linhas da Oração de São Francisco no Dia 7: o texto corrente no Brasil, como o publica o Santuário de São Francisco das Chagas de Canindé — [santuariodecaninde.com](https://santuariodecaninde.com/capela-virtual/oracoes/)"
   },
   "tags": [
     "novena",

@@ -9,6 +9,10 @@
     "en-US": "Friday after Ascension → Pentecost",
     "pt-BR": "Sexta-feira após a Ascensão → Pentecostes"
   },
+  "source": {
+    "en-US": "Portuguese text of the opening words of the closing prayer (Come, Holy Spirit): Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=194&section2=)",
+    "pt-BR": "Início da oração final (Vinde, Espírito Santo): Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=194&section2=)"
+  },
   "categories": [
     "program",
     "devotion"
@@ -29,7 +33,7 @@
   "flow": "flow.json",
   "description": {
     "en-US": "A nine-day novena uniting us to the apostles and Our Lady in the Upper Room, awaiting the Holy Spirit after Christ ascended in glory — often called the very first novena.",
-    "pt-BR": "Uma novena de nove dias que nos une aos apóstolos e a Nossa Senhora no Cenáculo, à espera do Espírito Santo depois que Cristo subiu glorioso ao céu — a primeiríssima novena já rezada."
+    "pt-BR": "Uma novena de nove dias que nos une aos apóstolos e a Nossa Senhora no Cenáculo, à espera do Espírito Santo depois que Cristo subiu glorioso ao céu — muitas vezes chamada a primeira novena."
   },
   "history": {
     "en-US": "After the Risen Lord ascended into heaven, He commanded the apostles to return to Jerusalem and wait for the promise of the Father. With Mary and the holy women they remained nine days in the Upper Room, persevering in prayer until the Spirit descended at Pentecost. This time of waiting gave the Church her enduring pattern of the novena — nine days of prayer in faith.",

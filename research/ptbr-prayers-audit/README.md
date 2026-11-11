@@ -63,3 +63,38 @@ Still open:
 - The Requiem follows the Brazilian liturgical books, "Dai-lhes, Senhor, o repouso eterno e brilhe para eles a vossa luz". The Brazilian Missal in `content/missal` has this wording with "descanso"; the Brazilian Liturgy of the Hours in `content/loth` and Opus Dei have "repouso". The popular "luz perpétua" is the pre-conciliar wording. The Preces, the responsories and the Lux aeterna keep their own sourced forms.
 - The Litany of the Sacred Heart, the Litany of the Holy Name and the Litany of the Precious Blood were checked line by line against 9–10 Brazilian texts each. Copies of the same text were counted as one source. Each line uses the wording most sources agree on, and the manifests name the sources. The Arquidiocese de Fortaleza, the Arquidiocese de Ribeirão Preto and the Diocese de Colatina print a different, newer translation of the Sacred Heart litany; we kept the widely printed traditional one.
 - The English of some prayers is shorter than the received Brazilian texts: Leo XIII's prayer in the St Joseph novena, and the Act of Reparation.
+
+## Novenas (2026-11-11)
+
+All 90 novenas were read in pt-BR and their errors fixed. No `la` or `en-US` text was changed. Most were written by an AI in July 2026 (`novenario-review/`), so their prayers are our own text, not a received one. The traditional prayers inside them now take the sourced corpus text or a `ref` to it.
+
+Three novenas now carry their fixed traditional text:
+- `divine-mercy-novena`: the Brazilian *Diário* text, nn. 1209–1229.
+- `novena-for-the-sick-escriva`: Pe. Francisco Faus's original, as Opus Dei Brazil prints it.
+- `surrender-novena`: the refrain only. The day texts of the Família de Maria booklet are not online.
+
+These devotions have a traditional Brazilian novena that could replace the one we composed. Swapping one in would replace the English too.
+
+| Practice | Traditional Brazilian novena | Where it is printed |
+|---|---|---|
+| `st-therese-novena` | Novena das Rosas, with 24 Glórias | Milícia da Imaculada, Canção Nova, Arautos |
+| `novena-sacred-heart`, `st-padre-pio-novena` | Padre Pio's Novena Irresistível ao Sagrado Coração | reginafidei, Padre Paulo Ricardo |
+| `st-anthony-novena` | Trezena de Santo Antônio, 1–13 June | franciscanos.org.br |
+| `st-anthony-galvao-novena` | Novena à Santíssima Trindade with the pílulas | Mosteiro da Luz |
+| `st-jose-de-anchieta-novena` | The official novena of his national shrine | santuariodeanchieta.com |
+| `st-josemaria-novena` | Novena do Trabalho and Novena da Família | Opus Dei Brazil |
+| `immaculate-conception-novena` | The traditional novena of Nossa Senhora da Conceição | Padre Paulo Ricardo, Milícia da Imaculada |
+| `our-lady-of-the-rosary-novena` | "Ó Mãe e clementíssima Virgem do Rosário" | Aleteia, ACI Digital |
+| `miraculous-medal-novena` | Novena a Nossa Senhora das Graças | ACI Digital, Milícia da Imaculada |
+| `mount-carmel-novena` | Flor do Carmelo novena | Milícia da Imaculada, fatima.org.br |
+| `perpetual-help-novena` | The Redemptorists' Novena Perpétua | a12.com |
+| `seven-sorrows-novena` | Setenário das Dores | Padre Paulo Ricardo |
+| `holy-souls-novena` | Novena das Almas attributed to Santo Afonso | Padre Paulo Ricardo |
+| `st-jude-novena` | Novena de São Judas Tadeu | Canção Nova, Aleteia |
+| `st-rita-novena` | The Augustinians' novena, 13–21 May | agostinianos.org.br |
+| `st-gerard-majella-novena` | The Redemptorists' Novena de São Geraldo | santuariosaogeraldo.org.br |
+| `st-john-bosco-novena` | The Salesians' novena, 22–30 January | Boletim Salesiano |
+| `st-michael-novena` | Quaresma de São Miguel, 15 Aug–29 Sep | Paulus, Canção Nova |
+| `candlemas-novena` | Novena de Nossa Senhora das Candeias | santuariodecandeias.com.br |
+
+For most other devotions Brazil has many printed novenas but no single fixed text.

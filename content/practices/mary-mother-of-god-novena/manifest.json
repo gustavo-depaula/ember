@@ -28,13 +28,17 @@
     "mary-mother-of-god-novena-days": "data/days.json"
   },
   "flow": "flow.json",
+  "source": {
+    "en-US": "Portuguese text of the Sub tuum praesidium: Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=195&section2=)",
+    "pt-BR": "Sub tuum praesidium: Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=195&section2=)"
+  },
   "description": {
     "en-US": "A nine-day novena honoring the Blessed Virgin Mary under her highest title, Mother of God, imploring her maternal protection.",
     "pt-BR": "Uma novena de nove dias em honra à Santíssima Virgem Maria sob o seu mais alto título, Mãe de Deus, implorando a sua proteção materna."
   },
   "history": {
     "en-US": "At the Council of Ephesus in 431, the Church solemnly proclaimed Mary 'Theotokos' — God-bearer, Mother of God — defending the truth that her Son is one divine Person. Because she gave human flesh to the eternal Word, she is truly the Mother of God, and from the Cross her Son gave her to us as our Mother. This novena draws on the ancient prayer Sub Tuum Praesidium, the oldest known prayer to Our Lady.",
-    "pt-BR": "No Concílio de Éfeso, em 431, a Igreja proclamou solenemente Maria 'Theotokos' — aquela que gerou Deus, Mãe de Deus — defendendo a verdade de que o seu Filho é uma só Pessoa divina. Porque deu carne humana ao Verbo eterno, ela é verdadeiramente a Mãe de Deus, e do alto da Cruz o seu Filho a entregou a nós como nossa Mãe. Esta novena se inspira na antiga oração Sub Tuum Praesidium, a mais antiga súplica conhecida à Nossa Senhora."
+    "pt-BR": "No Concílio de Éfeso, em 431, a Igreja proclamou solenemente Maria 'Theotokos' — aquela que gerou Deus, Mãe de Deus — defendendo a verdade de que o seu Filho é uma só Pessoa divina. Porque deu carne humana ao Verbo eterno, ela é verdadeiramente a Mãe de Deus, e do alto da Cruz o seu Filho a entregou a nós como nossa Mãe. Esta novena se inspira na antiga oração Sub Tuum Praesidium, a mais antiga súplica conhecida a Nossa Senhora."
   },
   "howToPray": {
     "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",

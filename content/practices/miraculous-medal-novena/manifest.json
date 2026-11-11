@@ -1,6 +1,10 @@
 {
   "id": "miraculous-medal-novena",
   "icon": "mary",
+  "source": {
+    "en-US": "Portuguese text of the invocation: ACI Digital, *Novena a Nossa Senhora das Graças* — [acidigital.com](https://www.acidigital.com/noticia/50031/hoje-comeca-a-novena-a-nossa-senhora-das-gracas); Milícia da Imaculada — [miliciadaimaculada.org.br](https://www.miliciadaimaculada.org.br/espiritualidade/nossa-senhora/novena-medalha-milagrosa)",
+    "pt-BR": "Jaculatória: ACI Digital, *Novena a Nossa Senhora das Graças* — [acidigital.com](https://www.acidigital.com/noticia/50031/hoje-comeca-a-novena-a-nossa-senhora-das-gracas); Milícia da Imaculada — [miliciadaimaculada.org.br](https://www.miliciadaimaculada.org.br/espiritualidade/nossa-senhora/novena-medalha-milagrosa)"
+  },
   "name": {
     "en-US": "Miraculous Medal Novena",
     "pt-BR": "Novena da Medalha Milagrosa"

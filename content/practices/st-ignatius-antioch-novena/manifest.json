@@ -1,6 +1,10 @@
 {
   "id": "st-ignatius-antioch-novena",
   "icon": "candle",
+  "source": {
+    "en-US": "Portuguese text of the quotations from the Letter to the Romans: Brazilian *Liturgia das Horas*, Office of Readings of October 17 (`content/loth`)",
+    "pt-BR": "Citações da Carta aos Romanos: *Liturgia das Horas*, Ofício das Leituras de 17 de outubro (`content/loth`)"
+  },
   "name": {
     "en-US": "Novena to St. Ignatius of Antioch",
     "pt-BR": "Novena a Santo Inácio de Antioquia"
@@ -30,11 +34,11 @@
   "flow": "flow.json",
   "description": {
     "en-US": "A nine-day novena to St. Ignatius of Antioch, Apostolic Father, bishop, and martyr, who longed to be ground like wheat into the bread of Christ.",
-    "pt-BR": "Uma novena de nove dias a Santo Inácio de Antioquia, Padre Apostólico, bispo e mártir, que desejou ser moído como o trigo no pão de Cristo."
+    "pt-BR": "Uma novena de nove dias a Santo Inácio de Antioquia, Padre Apostólico, bispo e mártir, que desejou ser moído como o trigo para tornar-se o pão de Cristo."
   },
   "history": {
     "en-US": "St. Ignatius of Antioch (died c. 107) was bishop of Antioch and a disciple of the Apostle John. Condemned to die in the Roman arena, he wrote seven letters along the road to martyrdom, begging the Christians of Rome not to prevent his death. His words 'I am the wheat of God, and I am ground by the teeth of the wild beasts, that I may be found the pure bread of Christ' have echoed through the Church for nineteen centuries.",
-    "pt-BR": "Santo Inácio de Antioquia (falecido por volta de 107) foi bispo de Antioquia e discípulo do apóstolo João. Condenado a morrer na arena romana, escreveu sete cartas ao longo do caminho para o martírio, suplicando aos cristãos de Roma que não impedissem sua morte. Suas palavras — 'Sou o trigo de Deus, e serei moído pelos dentes das feras, para tornar-me o puro pão de Cristo' — ecoam na Igreja há dezenove séculos."
+    "pt-BR": "Santo Inácio de Antioquia (falecido por volta de 107) foi bispo de Antioquia e discípulo do apóstolo João. Condenado a morrer na arena romana, escreveu sete cartas ao longo do caminho para o martírio, suplicando aos cristãos de Roma que não impedissem sua morte. Suas palavras — 'Sou trigo de Deus, serei triturado pelos dentes das feras para tornar-me o puro pão de Cristo' — ecoam na Igreja há dezenove séculos."
   },
   "howToPray": {
     "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
