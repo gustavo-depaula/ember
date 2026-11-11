@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en" data-lang="en" data-title-en="Ember — Mass times near you" data-title-pt="Ember — Horários de Missa perto de você">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ember — Mass times near you</title>
+  <meta name="description" content="Find the next Mass, confession and adoration near you. Save your parishes, get a reminder, and help keep the times right.">
+  <link rel="icon" href="site/img/favicon.png">
+  <link rel="stylesheet" href="site/landing.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="wrap">
+      <nav>
+        <a class="wordmark" href="./"><img src="site/img/icon.webp" alt="" width="38" height="38">Ember</a>
+        <a class="link optional" href="#near"><span lang="en">Near you</span><span lang="pt-BR">Perto de você</span></a>
+        <a class="link optional" href="#keep"><span lang="en">Your parishes</span><span lang="pt-BR">Suas paróquias</span></a>
+        <a class="link optional" href="#help"><span lang="en">Keep it right</span><span lang="pt-BR">Corrigir</span></a>
+        <a class="link" href="#" id="switch"><span lang="en">Português</span><span lang="pt-BR">English</span></a>
+      </nav>
+
+      <section class="hero">
+        <div>
+          <p class="eyebrow"><span lang="en">Mass times</span><span lang="pt-BR">Horários de Missa</span></p>
+          <h1 lang="en">The next Mass, wherever you are.</h1>
+          <h1 lang="pt-BR">A próxima Missa, onde você estiver.</h1>
+          <p class="lede" lang="en">Churches on a map, with the times for Mass, confession and adoration. Open the app and see what starts next, nearby.</p>
+          <p class="lede" lang="pt-BR">As igrejas no mapa, com os horários de Missa, confissão e adoração. Abra o aplicativo e veja o que começa a seguir, perto de você.</p>
+          <form class="finder" action="https://ember.dpgu.me/pt/horarios-de-missa/">
+            <input lang="en" type="search" placeholder="A city or a neighbourhood" aria-label="A city or a neighbourhood">
+            <input lang="pt-BR" type="search" placeholder="Uma cidade ou um bairro" aria-label="Uma cidade ou um bairro">
+            <button><span lang="en">Search</span><span lang="pt-BR">Buscar</span></button>
+          </form>
+          <div class="kinds">
+            <span lang="en">Mass</span><span lang="en">Confession</span><span lang="en">Adoration</span>
+            <span lang="pt-BR">Missa</span><span lang="pt-BR">Confissão</span><span lang="pt-BR">Adoração</span>
+          </div>
+          <div class="status">
+            <div class="stores">
+              <a href="https://play.google.com/store/apps/details?id=me.dpgu.ember&amp;referrer=utm_source%3Dhearth%26utm_campaign%3Dmass-times">
+                <img lang="en" src="site/img/badges/google-play-en.svg" width="180" height="53" alt="Get it on Google Play">
+                <img lang="pt-BR" src="site/img/badges/google-play-pt.svg" width="239" height="71" alt="Disponível no Google Play">
+              </a>
+              <a href="https://apps.apple.com/app/id6761686469?ct=mass-times">
+                <img src="site/img/badges/app-store.svg" width="120" height="40" alt="Download on the App Store">
+              </a>
+            </div>
+          </div>
+        </div>
+        <img class="phone" lang="en" src="site/img/en-US-06-mass-times.webp" width="720" height="1564" alt="A map of churches with the next Mass nearby and a list of Mass times.">
+        <img class="phone" lang="pt-BR" src="site/img/pt-BR-06-mass-times.webp" width="720" height="1564" alt="Um mapa de igrejas com a próxima Missa por perto e uma lista de horários.">
+      </section>
+    </div>
+  </header>
+
+  <div class="litany" aria-hidden="true">
+    <div>
+      <span>Missa</span><span>Confessio</span><span>Adoratio</span><span>Dominica</span><span>Feria</span><span>Vigilia</span><span>Missa</span><span>Confessio</span><span>Adoratio</span><span>Dominica</span><span>Feria</span><span>Vigilia</span><span>Missa</span><span>Confessio</span><span>Adoratio</span><span>Dominica</span><span>Feria</span><span>Vigilia</span><span>Missa</span><span>Confessio</span><span>Adoratio</span><span>Dominica</span><span>Feria</span><span>Vigilia</span>
+    </div>
+  </div>
+
+  <section class="feature" id="near">
+    <div class="wrap split">
+      <div>
+        <h2 lang="en">What starts next, nearby</h2>
+        <h2 lang="pt-BR">O que começa a seguir, por perto</h2>
+        <p lang="en">The map opens where you are. The next Mass sits on top; below it, the churches around you with the day's times. Filter for confession or adoration when that is what you came for.</p>
+        <p lang="pt-BR">O mapa abre onde você está. A próxima Missa fica no alto; abaixo, as igrejas ao seu redor com os horários do dia. Filtre por confissão ou adoração quando é isso que você procura.</p>
+        <p lang="en">Travelling? Search a city or a neighbourhood and see its churches before you arrive.</p>
+        <p lang="pt-BR">Viajando? Busque uma cidade ou um bairro e veja as igrejas antes de chegar.</p>
+      </div>
+      <div class="phones">
+        <img class="phone" lang="en" loading="lazy" src="site/img/en-US-06-mass-times.webp" width="720" height="1564" alt="A map of churches with the next Mass nearby.">
+        <img class="phone" lang="pt-BR" loading="lazy" src="site/img/pt-BR-06-mass-times.webp" width="720" height="1564" alt="Um mapa de igrejas com a próxima Missa por perto.">
+        <img class="phone" lang="en" loading="lazy" src="site/img/en-US-08-search.webp" width="720" height="1564" alt="The Search page, with Churches and Mass Times at the top.">
+        <img class="phone" lang="pt-BR" loading="lazy" src="site/img/pt-BR-08-search.webp" width="720" height="1564" alt="A página Buscar, com Igrejas e Horários de Missa no alto.">
+      </div>
+    </div>
+  </section>
+
+  <section class="feature paper" id="keep">
+    <div class="wrap head">
+      <h2 lang="en">Your parishes, kept close</h2>
+      <h2 lang="pt-BR">Suas paróquias, sempre à mão</h2>
+      <p lang="en">Save the churches you go to and their times are a tap away. Nothing to sign up for: it all stays on your phone.</p>
+      <p lang="pt-BR">Salve as igrejas que você frequenta e os horários ficam a um toque. Sem cadastro: tudo fica no seu celular.</p>
+    </div>
+    <div class="wrap">
+      <div class="ledger" lang="en">
+        <div><span class="k">Saved</span><h3>Your churches first</h3><p>The parishes you save open at the top, with this week's Masses.</p></div>
+        <div><span class="k">Reminded</span><h3>A word before Mass</h3><p>Choose a Mass and the app reminds you before it starts, every week.</p></div>
+        <div><span class="k">Kept</span><h3>Mass on your plan</h3><p>Check in at Mass and it counts on your plan of life, beside the day's saint.</p></div>
+      </div>
+      <div class="ledger" lang="pt-BR">
+        <div><span class="k">Salvas</span><h3>Suas igrejas primeiro</h3><p>As paróquias que você salva abrem no alto, com as Missas da semana.</p></div>
+        <div><span class="k">Lembrete</span><h3>Um aviso antes da Missa</h3><p>Escolha uma Missa e o aplicativo avisa antes de começar, toda semana.</p></div>
+        <div><span class="k">Guardada</span><h3>A Missa no seu plano</h3><p>Registre a presença na Missa e ela conta no seu plano de vida, ao lado do santo do dia.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="feature">
+    <div class="wrap split flip">
+      <div>
+        <h2 lang="en">And once you are there</h2>
+        <h2 lang="pt-BR">E quando você chegar</h2>
+        <p lang="en">The Mass of the day is in the same app: the readings and the propers, in the Ordinary Form or the Extraordinary, in your language or beside the Latin.</p>
+        <p lang="pt-BR">A Missa do dia está no mesmo aplicativo: as leituras e os próprios, na forma ordinária ou na extraordinária, na sua língua ou ao lado do latim.</p>
+      </div>
+      <div class="phones">
+        <img class="phone" lang="en" loading="lazy" src="site/img/en-US-18-mass.webp" width="720" height="1564" alt="The Holy Mass for the day, open on the First Reading.">
+        <img class="phone" lang="pt-BR" loading="lazy" src="site/img/pt-BR-18-mass.webp" width="720" height="1564" alt="A Santa Missa do dia, aberta na Primeira Leitura.">
+      </div>
+    </div>
+  </section>
+
+  <section class="feature paper" id="help">
+    <div class="wrap head">
+      <h2 lang="en">Times kept right by the people who go</h2>
+      <h2 lang="pt-BR">Horários mantidos por quem vai à Missa</h2>
+      <p lang="en">Parishes change their times and websites lag behind. When a time is wrong, say so from the church's page, with a photo of the notice board if you have one. Every suggestion is read before it changes the directory.</p>
+      <p lang="pt-BR">As paróquias mudam os horários e os sites demoram a acompanhar. Quando um horário estiver errado, avise pela página da igreja, com uma foto do mural se tiver. Cada sugestão é lida antes de mudar o diretório.</p>
+    </div>
+    <div class="wrap note">
+      <p lang="en" style="margin-top:2rem">Coverage begins in Brazil and is growing. <a href="https://ember.dpgu.me/pt/horarios-de-missa/">Browse the churches on the web</a>.</p>
+      <p lang="pt-BR" style="margin-top:2rem">A cobertura começa pelo Brasil e está crescendo. <a href="https://ember.dpgu.me/pt/horarios-de-missa/">Veja as igrejas na web</a>.</p>
+    </div>
+  </section>
+
+  <section class="begin">
+    <div class="wrap">
+      <img class="icon" src="site/img/icon.webp" alt="" width="72" height="72" loading="lazy">
+      <h2 lang="en">Find your next Mass</h2>
+      <h2 lang="pt-BR">Encontre a sua próxima Missa</h2>
+      <div class="stores">
+        <a href="https://play.google.com/store/apps/details?id=me.dpgu.ember&amp;referrer=utm_source%3Dhearth%26utm_campaign%3Dmass-times">
+          <img lang="en" src="site/img/badges/google-play-en.svg" width="180" height="53" alt="Get it on Google Play">
+          <img lang="pt-BR" src="site/img/badges/google-play-pt.svg" width="239" height="71" alt="Disponível no Google Play">
+        </a>
+        <a href="https://apps.apple.com/app/id6761686469?ct=mass-times">
+          <img src="site/img/badges/app-store.svg" width="120" height="40" alt="Download on the App Store">
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <nav class="sibs" aria-label="Ember for…">
+    <a href="./"><span lang="en">Ember</span><span lang="pt-BR">Ember</span></a>
+    <a href="mass-times.html" aria-current="page"><span lang="en">Mass times</span><span lang="pt-BR">Horários de Missa</span></a>
+    <a href="hours.html"><span lang="en">The Divine Office</span><span lang="pt-BR">O Ofício Divino</span></a>
+    <a href="study.html"><span lang="en">Study</span><span lang="pt-BR">Estudo</span></a>
+  </nav>
+
+  <footer>
+    <div class="wrap">
+      <span class="mark">Ember</span>
+      <a href="support.html"><span lang="en">Support</span><span lang="pt-BR">Suporte</span></a>
+      <a href="privacy.html"><span lang="en">Privacy</span><span lang="pt-BR">Privacidade</span></a>
+    </div>
+  </footer>
+
+  <script src="site/landing.js"></script>
+</body>
+</html>

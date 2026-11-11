@@ -1,0 +1,208 @@
+@font-face { font-family: Junicode; src: url(fonts/Junicode.woff2) format('woff2'); font-display: swap; }
+@font-face { font-family: Junicode; font-style: italic; src: url(fonts/Junicode-Italic.woff2) format('woff2'); font-display: swap; }
+@font-face { font-family: 'EB Garamond'; src: url(fonts/EBGaramond_400Regular.woff2) format('woff2'); font-display: swap; }
+@font-face { font-family: 'EB Garamond'; font-style: italic; src: url(fonts/EBGaramond_400Regular_Italic.woff2) format('woff2'); font-display: swap; }
+@font-face { font-family: Cinzel; src: url(fonts/Cinzel_400Regular.woff2) format('woff2'); font-display: swap; }
+
+:root {
+  --ink: #0E0D0C;
+  --ink-raised: #1A1714;
+  --parchment: #F4E8CF;
+  --vellum: #CFC3A8;
+  --gold: #C9A84C;
+  --gold-deep: #7A5C17;
+  --oxblood: #8E2231;
+  --measure: 34rem;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background: var(--ink);
+  color: var(--vellum);
+  font: 1.1875rem/1.6 'EB Garamond', Georgia, serif;
+  -webkit-font-smoothing: antialiased;
+}
+/* Both languages live in the page; the script picks one. */
+html[data-lang="en"] [lang="pt-BR"], html[data-lang="pt"] [lang="en"] { display: none; }
+a { color: var(--gold); text-underline-offset: 0.2em; }
+a:hover { color: var(--parchment); }
+:focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; border-radius: 2px; }
+img { max-width: 100%; height: auto; display: block; }
+.wrap { max-width: 70rem; margin: 0 auto; padding: 0 1.5rem; }
+
+.masthead { padding-top: 2rem; }
+nav { display: flex; align-items: center; gap: 1.75rem; }
+.wordmark { display: flex; align-items: center; gap: 0.7rem; margin-right: auto; color: var(--parchment); text-decoration: none; font: 1.35rem Cinzel, serif; letter-spacing: 0.14em; }
+.wordmark img { width: 2.4rem; height: 2.4rem; border-radius: 0.55rem; }
+nav a.link { font: 0.82rem Cinzel, serif; letter-spacing: 0.14em; text-decoration: none; color: var(--vellum); }
+nav a.link:hover { color: var(--gold); }
+@media (max-width: 40rem) { nav a.link.optional { display: none; } }
+
+.hero { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.85fr); gap: 3rem; align-items: center; padding: clamp(3rem, 7vw, 6rem) 0 clamp(4rem, 8vw, 7rem); }
+h1 {
+  margin: 0;
+  font: italic 400 clamp(2.5rem, 5.2vw, 4.25rem)/1.08 Junicode, 'EB Garamond', serif;
+  max-width: 11em;
+  text-wrap: balance;
+  color: var(--parchment);
+  letter-spacing: -0.005em;
+}
+.lede { max-width: 30rem; margin: 1.75rem 0 2.25rem; font-size: 1.3rem; line-height: 1.5; }
+.status { display: flex; flex-direction: column; align-items: flex-start; gap: 1.25rem; }
+.stores { display: flex; flex-wrap: wrap; gap: 0.75rem; }
+.stores a { display: block; transition: transform 0.2s ease; }
+.stores a:hover { transform: translateY(-2px); }
+.stores img { height: 3.25rem; width: auto; }
+.phone { width: min(100%, 19rem); border-radius: 2.6rem; border: 1px solid rgba(201, 168, 76, 0.35); box-shadow: 0 2.5rem 5rem rgba(0, 0, 0, 0.7); }
+.hero .phone { justify-self: center; transform: rotate(2deg); }
+@media (max-width: 52rem) {
+  .hero { grid-template-columns: minmax(0, 1fr); }
+  .hero .phone { transform: none; }
+}
+
+/* The one moving thing: the prayers the app holds, passing like a litany. */
+.litany { overflow: hidden; border-block: 1px solid rgba(201, 168, 76, 0.28); padding: 0.9rem 0; white-space: nowrap; }
+.litany div { display: inline-block; animation: pass 70s linear infinite; font: 0.9rem Cinzel, serif; letter-spacing: 0.2em; color: var(--gold); }
+.litany span::after { content: '✠'; margin: 0 1.6rem; color: var(--oxblood); }
+@keyframes pass { to { transform: translateX(-50%); } }
+@media (prefers-reduced-motion: reduce) { .litany div { animation: none; } html { scroll-behavior: auto; } }
+
+/* Every feature is set the same way: a centred heading and a few lines,
+   then the thing itself laid out like cards on a table. */
+.feature { padding: clamp(3.5rem, 7vw, 6rem) 0; overflow: hidden; }
+.head { text-align: center; }
+.head p, .note p { max-width: var(--measure); margin: 0 auto; }
+.note { text-align: center; }
+h2 { margin: 0 0 1.1rem; font: italic 400 clamp(2rem, 4vw, 3.1rem)/1.1 Junicode, 'EB Garamond', serif; color: var(--parchment); text-wrap: balance; }
+.fan, .phones { display: flex; justify-content: center; padding: 1.5rem 0 2.5rem; margin-top: 2.5rem; }
+.fan img { width: clamp(7rem, 15vw, 13.5rem); margin-inline: clamp(-2.2rem, -2.6vw, -1rem); border-radius: 0.6rem; box-shadow: 0 1.2rem 2.4rem rgba(0, 0, 0, 0.65); transition: transform 0.25s ease; }
+.fan.art img { aspect-ratio: 2 / 3; object-fit: cover; border: 0.35rem solid var(--parchment); border-radius: 0.3rem; }
+.fan img:nth-child(odd) { transform: rotate(-4deg) translateY(0.6rem); }
+.fan img:nth-child(even) { transform: rotate(3deg) translateY(-0.6rem); }
+.fan img:nth-child(3n) { transform: rotate(-1.5deg) translateY(1.2rem); }
+.fan img:hover, .phones .phone:hover { transform: translateY(-1.2rem) scale(1.04); position: relative; z-index: 1; }
+.phones { gap: clamp(0.75rem, 2.5vw, 2.25rem); padding-inline: 1.5rem; }
+.phones .phone { width: min(30%, 16.5rem); border-radius: clamp(1.2rem, 3.4vw, 2.3rem); transition: transform 0.25s ease; }
+.phones .phone:nth-of-type(4n+1), .phones .phone:nth-of-type(4n+2) { transform: rotate(-2.5deg) translateY(0.8rem); }
+.phones .phone:nth-of-type(4n+3), .phones .phone:nth-of-type(4n+4) { transform: rotate(2deg) translateY(-0.4rem); }
+.phones .phone:nth-of-type(n+5) { transform: rotate(-1.5deg) translateY(0.9rem); }
+.fan + .phones { margin-top: 0; }
+@media (max-width: 52rem) {
+  .fan { justify-content: flex-start; overflow-x: auto; padding-inline: 2.5rem; scrollbar-width: none; }
+  .fan img { width: 9.5rem; flex: none; margin-inline: -0.9rem; }
+  .phones .phone { width: min(46%, 16.5rem); }
+  .phones:has(.phone:nth-of-type(5)) { justify-content: flex-start; overflow-x: auto; scrollbar-width: none; }
+  .phones:has(.phone:nth-of-type(5)) .phone { width: 12.5rem; flex: none; }
+}
+@media (prefers-reduced-motion: reduce) { .fan img, .phones .phone { transition: none; } }
+
+/* The heritage work is a real sequence, so its steps are numbered. */
+.steps { list-style: none; counter-reset: step; margin: 3.5rem 0 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 2.5rem clamp(1.5rem, 4vw, 3.5rem); }
+.steps li { counter-increment: step; border-top: 1px solid rgba(201, 168, 76, 0.28); padding-top: 1.1rem; }
+.steps li::before { content: counter(step, upper-roman); display: block; font: 0.85rem Cinzel, serif; letter-spacing: 0.18em; color: var(--gold); margin-bottom: 0.6rem; }
+.steps h3 { margin: 0 0 0.5rem; font: italic 400 1.6rem/1.15 Junicode, 'EB Garamond', serif; color: var(--parchment); }
+.steps p { margin: 0; font-size: 1.05rem; line-height: 1.55; }
+@media (max-width: 52rem) { .steps { grid-template-columns: minmax(0, 1fr); } }
+
+/* The library is read on paper, so its section is the one light page. */
+.paper { background: var(--parchment); color: #3A3126; }
+.paper h2 { color: #1F1A14; }
+.paper .phones .phone { border-color: rgba(122, 92, 23, 0.4); box-shadow: 0 2.5rem 4rem rgba(60, 40, 10, 0.28); }
+
+.open { text-align: center; padding: clamp(4rem, 9vw, 7rem) 0; }
+.open img { width: min(28rem, 80%); margin: 0 auto 2.5rem; }
+.open p { max-width: var(--measure); margin: 0 auto 1rem; }
+.counts { display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem 3.5rem; margin: 2.5rem 0; padding: 0; list-style: none; }
+.counts b { display: block; font: italic 400 2.9rem/1 Junicode, serif; color: var(--gold); }
+
+/* The page ends where it began: the badges again, for whoever read to the end. */
+.begin { text-align: center; padding: clamp(3.5rem, 7vw, 6rem) 0 clamp(4rem, 8vw, 6.5rem); border-top: 1px solid rgba(201, 168, 76, 0.28); }
+.begin .icon { width: 4.5rem; height: 4.5rem; border-radius: 1rem; margin: 0 auto 1.75rem; box-shadow: 0 1.2rem 2.4rem rgba(0, 0, 0, 0.6); }
+.begin .stores { justify-content: center; margin-top: 2rem; }
+
+footer { border-top: 1px solid rgba(201, 168, 76, 0.28); padding: 2.5rem 0 3.5rem; font-size: 1rem; }
+footer .wrap { display: flex; flex-wrap: wrap; gap: 0.75rem 2rem; align-items: baseline; }
+footer .mark { margin-right: auto; color: var(--parchment); }
+
+/* ── Audience pages: what each one adds to the general landing. ── */
+.eyebrow { font: 0.82rem Cinzel, serif; letter-spacing: 0.22em; color: var(--gold); margin: 0 0 1.1rem; }
+.sibs { display: flex; gap: 1.5rem; flex-wrap: wrap; justify-content: center; padding: 1.25rem 0; border-top: 1px solid rgba(201, 168, 76, 0.28); font: 0.8rem Cinzel, serif; letter-spacing: 0.14em; }
+.sibs a { text-decoration: none; color: var(--vellum); }
+.sibs a[aria-current] { color: var(--gold); }
+
+/* A row of claims set as a ledger: a label in capitals, the claim in italic. */
+.ledger { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 2.5rem clamp(1.5rem, 4vw, 3.5rem); margin-top: 3.5rem; }
+.ledger > div { border-top: 1px solid rgba(201, 168, 76, 0.28); padding-top: 1.1rem; }
+.ledger h3 { margin: 0 0 0.5rem; font: italic 400 1.6rem/1.15 Junicode, 'EB Garamond', serif; color: var(--parchment); }
+.ledger p { margin: 0; font-size: 1.05rem; line-height: 1.55; }
+.ledger .k { display: block; font: 0.78rem Cinzel, serif; letter-spacing: 0.18em; color: var(--gold); margin-bottom: 0.6rem; }
+.paper .ledger > div { border-color: rgba(122, 92, 23, 0.3); }
+.paper .ledger h3 { color: #1F1A14; }
+.paper .ledger .k { color: var(--gold-deep); }
+@media (max-width: 52rem) { .ledger { grid-template-columns: minmax(0, 1fr); } }
+
+/* Two columns: words on one side, the thing itself on the other. */
+.split { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.1fr); gap: clamp(2rem, 5vw, 4.5rem); align-items: center; }
+.split.flip > :first-child { order: 2; }
+.split h2 { text-align: left; }
+.split p { max-width: 30rem; }
+@media (max-width: 52rem) { .split { grid-template-columns: minmax(0, 1fr); } .split.flip > :first-child { order: 0; } }
+
+/* A breviary page, set the way the book sets it: rubrics in red, Latin beside the vernacular. */
+.folio { background: var(--parchment); color: #2A231B; border-radius: 0.3rem; padding: clamp(1.5rem, 3vw, 2.5rem) clamp(1.5rem, 3.5vw, 3rem); box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.55); font-size: 1.05rem; line-height: 1.5; }
+.folio .title { text-align: center; font: 0.95rem Cinzel, serif; letter-spacing: 0.2em; color: var(--oxblood); margin: 0 0 0.25rem; }
+.folio .sub { text-align: center; font-style: italic; color: var(--oxblood); margin: 0 0 1.25rem; font-size: 0.95rem; }
+.folio .row { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; padding: 0.35rem 0; }
+.folio .rub { color: var(--oxblood); font-style: italic; font-size: 0.92rem; margin: 0.9rem 0 0.2rem; }
+.folio b { color: var(--oxblood); font-weight: 400; }
+.folio .cap::first-letter { float: left; font: 3.1rem/0.85 Junicode, serif; color: var(--oxblood); margin: 0.2rem 0.4rem 0 0; }
+.folio .chips { display: flex; gap: 0.5rem; justify-content: center; margin-bottom: 1.25rem; }
+.folio .chips span { font: 0.7rem Cinzel, serif; letter-spacing: 0.14em; padding: 0.3rem 0.7rem; border-radius: 1rem; background: rgba(142, 34, 49, 0.08); color: var(--oxblood); }
+.folio .chips span.on { background: var(--oxblood); color: var(--parchment); }
+
+/* The editions, as a register. */
+.register { list-style: none; margin: 3rem auto 0; padding: 0; max-width: 52rem; columns: 2; column-gap: 3.5rem; }
+.register li { break-inside: avoid; display: flex; justify-content: space-between; gap: 1rem; padding: 0.55rem 0; border-bottom: 1px dotted rgba(201, 168, 76, 0.3); }
+.register li span:last-child { font: 0.78rem Cinzel, serif; letter-spacing: 0.14em; color: var(--gold); white-space: nowrap; padding-top: 0.25rem; }
+.register li em { color: var(--parchment); }
+@media (max-width: 52rem) { .register { columns: 1; } }
+
+/* The word study sheet, drawn after the app's. */
+.study { background: var(--ink-raised); border: 1px solid rgba(201, 168, 76, 0.25); border-radius: 1.2rem; padding: 1.75rem; box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.6); }
+.paper .study, .study.light { background: #FBF4E4; border-color: rgba(122, 92, 23, 0.3); box-shadow: 0 2rem 4rem rgba(60, 40, 10, 0.2); color: #3A3126; }
+.verse { font: 1.55rem/1.7 'EB Garamond', serif; color: #1F1A14; margin: 0 0 1.25rem; }
+.verse .w { position: relative; display: inline-block; text-align: center; margin: 0 0.15rem 0.6rem; line-height: 1.2; }
+.verse .w small { display: block; font: italic 0.72rem/1.3 'EB Garamond', serif; color: #8A7A62; }
+.verse .w.sel { color: var(--oxblood); }
+.verse .w.sel::after { content: ''; position: absolute; left: 0; right: 0; bottom: -0.25rem; border-bottom: 2px solid var(--oxblood); }
+.sheet { border-top: 1px solid rgba(122, 92, 23, 0.25); padding-top: 1.1rem; }
+.sheet .lemma { font: 2rem/1 'EB Garamond', serif; color: #1F1A14; }
+.sheet .parse { font: 0.75rem Cinzel, serif; letter-spacing: 0.14em; color: var(--gold-deep); margin: 0.5rem 0 0.8rem; }
+.sheet p { margin: 0 0 0.6rem; font-size: 1rem; line-height: 1.5; max-width: none; }
+.sheet .count { font-style: italic; color: var(--oxblood); }
+.witness { margin-top: 1rem; border-top: 1px solid rgba(122, 92, 23, 0.2); padding-top: 0.8rem; display: grid; grid-template-columns: 7rem 1fr; gap: 0.35rem 1rem; font-size: 0.98rem; }
+.witness dt { font: 0.7rem Cinzel, serif; letter-spacing: 0.14em; color: var(--gold-deep); padding-top: 0.3rem; }
+.witness dd { margin: 0; }
+
+/* A day with the app, hour by hour: the lifestyle the study page sells. */
+.day { list-style: none; margin: 3.5rem auto 0; padding: 0; max-width: 46rem; border-left: 1px solid rgba(201, 168, 76, 0.35); }
+.day li { position: relative; padding: 0 0 2rem 2rem; }
+.day li::before { content: ''; position: absolute; left: -0.35rem; top: 0.55rem; width: 0.7rem; height: 0.7rem; border-radius: 50%; background: var(--gold); }
+.day time { display: block; font: 0.8rem Cinzel, serif; letter-spacing: 0.18em; color: var(--gold); }
+.day h3 { margin: 0.2rem 0 0.3rem; font: italic 400 1.5rem/1.2 Junicode, serif; color: var(--parchment); }
+.day p { margin: 0; font-size: 1.05rem; }
+
+/* The Mass-times page's search box, as a door into the site's directory. */
+.finder { display: flex; max-width: 30rem; margin: 0 0 1.5rem; border: 1px solid rgba(201, 168, 76, 0.45); border-radius: 3rem; overflow: hidden; background: var(--ink-raised); }
+.finder input { flex: 1; border: 0; background: none; color: var(--parchment); font: 1.1rem 'EB Garamond', serif; padding: 0.9rem 1.4rem; }
+.finder input::placeholder { color: rgba(207, 195, 168, 0.55); }
+.finder button { border: 0; background: var(--gold); color: var(--ink); font: 0.8rem Cinzel, serif; letter-spacing: 0.14em; padding: 0 1.4rem; cursor: pointer; }
+.kinds { display: flex; gap: 0.6rem; flex-wrap: wrap; margin: 0 0 2rem; }
+.kinds span { font: 0.75rem Cinzel, serif; letter-spacing: 0.14em; padding: 0.4rem 0.9rem; border-radius: 1rem; border: 1px solid rgba(201, 168, 76, 0.4); color: var(--gold); }
+.places { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem 1.75rem; margin-top: 2rem; }
+.places a { font: italic 1.3rem Junicode, serif; text-decoration: none; }
+.counts.small b { font-size: 2.2rem; }
+.split .phones { margin-top: 0; }
+.split .phones .phone { width: min(48%, 17rem); }
+.split .phones .phone:only-of-type, .split .phones:has(.phone:nth-of-type(2):last-of-type) .phone { width: min(48%, 17rem); }
