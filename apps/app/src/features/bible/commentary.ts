@@ -115,6 +115,7 @@ export async function getCommentary(
   sourceId: string,
   bookId: string,
   chapter: number,
+  language = 'en-US',
 ): Promise<CommentaryEntry[]> {
   const source = findCommentarySource(sourceId)
   if (source.books && !source.books.includes(bookId)) return []
@@ -126,7 +127,10 @@ export async function getCommentary(
       lecture: { bookId: index.book, chapterId: lecture },
     }))
   }
-  return haydockEntries(await fetchHearth<HaydockBook>(`bible/haydock/${bookId}.json`), chapter)
+  // Haydock is in English and, note for note under the same verses, in pt-BR.
+  const path =
+    language === 'pt-BR' ? `bible/haydock/pt-BR/${bookId}.json` : `bible/haydock/${bookId}.json`
+  return haydockEntries(await fetchHearth<HaydockBook>(path), chapter)
 }
 
 /**

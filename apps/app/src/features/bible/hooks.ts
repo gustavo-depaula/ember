@@ -184,10 +184,12 @@ export function usePrefetchAdjacentChapters(
  */
 export function useChapterCommentary(bookId: string, chapter: number, enabled: boolean) {
   const sources = sourcesForBook(bookId)
+  const { i18n } = useTranslation()
+  const language = i18n.language === 'pt-BR' ? 'pt-BR' : 'en-US'
   return useQueries({
     queries: sources.map((source) => ({
-      queryKey: ['bible', 'commentary', source.id, bookId, chapter],
-      queryFn: () => getCommentary(source.id, bookId, chapter),
+      queryKey: ['bible', 'commentary', source.id, bookId, chapter, language],
+      queryFn: () => getCommentary(source.id, bookId, chapter, language),
       enabled,
       staleTime: Number.POSITIVE_INFINITY,
     })),
