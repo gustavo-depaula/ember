@@ -64,6 +64,16 @@ Words are the original-language text of the author's own works, measured or esti
 | Garrigou-Lagrange | fr/la | 2.9M | B: Herder translations | — | pre-1931 works |
 | Tanquerey | fr/la | 2.5M | Précis (Branderis) | — | Précis |
 | Guéranger | fr | 4.3M | Liturgical Year (complete) | — | Année liturgique |
+| Anthony of Padua | la | 0.37M (+0.72M spurious, 0.1M Lives) | Lives only; Spilsbury is C | A: Coimbra 1830 *Assidua*; Sermões all C | *Assidua*; Sermones once the DCO tier is settled |
+| António Vieira | pt | 3.2M (+0.45M unsourceable) | Southey fragments | original (Lello 1907–09, needs Portuguese OCR) | *Maria Rosa Mística* |
+| Manuel Bernardes | pt | 2.1M | none | original (scans only; Chardron 1909–11 Nova Floresta) | *Pão partido* |
+| José de Anchieta | la/pt/es/tpw | 0.25M (0.19M free) | none | A: letters in ABL 1933 | Cartas (ABL 1933) |
+| Manuel da Nóbrega | pt | 0.085M | none | original (Valle Cabral 1886) | Cartas do Brasil |
+| Tomé de Jesus | pt | 0.34M | Trabalhos (Richardson 1863) | original (1865 ed.) | Trabalhos de Jesus |
+| Heitor Pinto | pt/la | 0.37M + 1.0M | none | original (scans only) | Imagem da vida cristã |
+| Luís de Sousa | pt | 1.31M | Herbert's Life (from a French compilation) | original (19th-c. reprints) | Vida de D. Frei Bartolomeu |
+| Bartolomeu dos Mártires | la/pt | 0.37M + 0.11M | none (Prudlo 2022 is C) | Catecismo original (scans only) | Stimulus pastorum |
+| Amador Arrais | pt | 0.37M | none | original (Rollandiana 1846) | Diálogos |
 
 **Total ≈ 95M words**, about twice what is left to translate in the corpus today.
 
