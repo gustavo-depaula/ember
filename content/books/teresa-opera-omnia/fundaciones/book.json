@@ -14,12 +14,13 @@
   "description": {
     "es-ES": "La historia que Santa Teresa escribió de sus fundaciones, de San José de Ávila a Burgos (1562–1582): los caminos, las casas, las personas, los trabajos y las mercedes del Señor, con avisos de oración para las prioras. Texto crítico del P. Silverio de Santa Teresa, con sus notas.",
     "en-US": "St. Teresa's account of the foundation of her convents, from St. Joseph's at Ávila to Burgos (1562–1582): the journeys, the houses, the people, the trials and the graces of the Lord, with counsels on prayer for prioresses. English translation by Sister Agnes Mason, with her notes.",
-    "pt-BR": "A história que Santa Teresa escreveu das suas fundações, de São José de Ávila a Burgos (1562–1582): os caminhos, as casas, as pessoas, as provações e as graças do Senhor, com avisos de oração para as prioras."
+    "pt-BR": "A história que Santa Teresa escreveu das suas fundações, de São José de Ávila a Burgos (1562–1582): os caminhos, as casas, as pessoas, as provações e as graças do Senhor, com avisos de oração para as prioras. Texto crítico do P. Silverio de Santa Teresa, com as suas notas."
   },
   "composed": "1573–1582",
   "languages": [
     "es-ES",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "teresa-of-avila/fundaciones",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "Agnes Mason, C.H.F.",
       "year": 1909
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -62,224 +68,256 @@
       "id": "prologo",
       "title": {
         "es-ES": "Prólogo",
-        "en-US": "Prologue"
+        "en-US": "Prologue",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "c01",
       "title": {
         "es-ES": "Capítulo I",
-        "en-US": "Chapter I"
+        "en-US": "Chapter I",
+        "pt-BR": "Capítulo I"
       }
     },
     {
       "id": "c02",
       "title": {
         "es-ES": "Capítulo II",
-        "en-US": "Chapter II"
+        "en-US": "Chapter II",
+        "pt-BR": "Capítulo II"
       }
     },
     {
       "id": "c03",
       "title": {
         "es-ES": "Capítulo III",
-        "en-US": "Chapter III"
+        "en-US": "Chapter III",
+        "pt-BR": "Capítulo III"
       }
     },
     {
       "id": "c04",
       "title": {
         "es-ES": "Capítulo IV",
-        "en-US": "Chapter IV"
+        "en-US": "Chapter IV",
+        "pt-BR": "Capítulo IV"
       }
     },
     {
       "id": "c05",
       "title": {
         "es-ES": "Capítulo V",
-        "en-US": "Chapter V"
+        "en-US": "Chapter V",
+        "pt-BR": "Capítulo V"
       }
     },
     {
       "id": "c06",
       "title": {
         "es-ES": "Capítulo VI",
-        "en-US": "Chapter VI"
+        "en-US": "Chapter VI",
+        "pt-BR": "Capítulo VI"
       }
     },
     {
       "id": "c07",
       "title": {
         "es-ES": "Capítulo VII",
-        "en-US": "Chapter VII"
+        "en-US": "Chapter VII",
+        "pt-BR": "Capítulo VII"
       }
     },
     {
       "id": "c08",
       "title": {
         "es-ES": "Capítulo VIII",
-        "en-US": "Chapter VIII"
+        "en-US": "Chapter VIII",
+        "pt-BR": "Capítulo VIII"
       }
     },
     {
       "id": "c09",
       "title": {
         "es-ES": "Capítulo IX",
-        "en-US": "Chapter IX"
+        "en-US": "Chapter IX",
+        "pt-BR": "Capítulo IX"
       }
     },
     {
       "id": "c10",
       "title": {
         "es-ES": "Capítulo X",
-        "en-US": "Chapter X"
+        "en-US": "Chapter X",
+        "pt-BR": "Capítulo X"
       }
     },
     {
       "id": "c11",
       "title": {
         "es-ES": "Capítulo XI",
-        "en-US": "Chapter XI"
+        "en-US": "Chapter XI",
+        "pt-BR": "Capítulo XI"
       }
     },
     {
       "id": "c12",
       "title": {
         "es-ES": "Capítulo XII",
-        "en-US": "Chapter XII"
+        "en-US": "Chapter XII",
+        "pt-BR": "Capítulo XII"
       }
     },
     {
       "id": "c13",
       "title": {
         "es-ES": "Capítulo XIII",
-        "en-US": "Chapter XIII"
+        "en-US": "Chapter XIII",
+        "pt-BR": "Capítulo XIII"
       }
     },
     {
       "id": "c14",
       "title": {
         "es-ES": "Capítulo XIV",
-        "en-US": "Chapter XIV"
+        "en-US": "Chapter XIV",
+        "pt-BR": "Capítulo XIV"
       }
     },
     {
       "id": "c15",
       "title": {
         "es-ES": "Capítulo XV",
-        "en-US": "Chapter XV"
+        "en-US": "Chapter XV",
+        "pt-BR": "Capítulo XV"
       }
     },
     {
       "id": "c16",
       "title": {
         "es-ES": "Capítulo XVI",
-        "en-US": "Chapter XVI"
+        "en-US": "Chapter XVI",
+        "pt-BR": "Capítulo XVI"
       }
     },
     {
       "id": "c17",
       "title": {
         "es-ES": "Capítulo XVII",
-        "en-US": "Chapter XVII"
+        "en-US": "Chapter XVII",
+        "pt-BR": "Capítulo XVII"
       }
     },
     {
       "id": "c18",
       "title": {
         "es-ES": "Capítulo XVIII",
-        "en-US": "Chapter XVIII"
+        "en-US": "Chapter XVIII",
+        "pt-BR": "Capítulo XVIII"
       }
     },
     {
       "id": "c19",
       "title": {
         "es-ES": "Capítulo XIX",
-        "en-US": "Chapter XIX"
+        "en-US": "Chapter XIX",
+        "pt-BR": "Capítulo XIX"
       }
     },
     {
       "id": "c20",
       "title": {
         "es-ES": "Capítulo XX",
-        "en-US": "Chapter XX"
+        "en-US": "Chapter XX",
+        "pt-BR": "Capítulo XX"
       }
     },
     {
       "id": "c21",
       "title": {
         "es-ES": "Capítulo XXI",
-        "en-US": "Chapter XXI"
+        "en-US": "Chapter XXI",
+        "pt-BR": "Capítulo XXI"
       }
     },
     {
       "id": "c22",
       "title": {
         "es-ES": "Capítulo XXII",
-        "en-US": "Chapter XXII"
+        "en-US": "Chapter XXII",
+        "pt-BR": "Capítulo XXII"
       }
     },
     {
       "id": "c23",
       "title": {
         "es-ES": "Capítulo XXIII",
-        "en-US": "Chapter XXIII"
+        "en-US": "Chapter XXIII",
+        "pt-BR": "Capítulo XXIII"
       }
     },
     {
       "id": "c24",
       "title": {
         "es-ES": "Capítulo XXIV",
-        "en-US": "Chapter XXIV"
+        "en-US": "Chapter XXIV",
+        "pt-BR": "Capítulo XXIV"
       }
     },
     {
       "id": "c25",
       "title": {
         "es-ES": "Capítulo XXV",
-        "en-US": "Chapter XXV"
+        "en-US": "Chapter XXV",
+        "pt-BR": "Capítulo XXV"
       }
     },
     {
       "id": "c26",
       "title": {
         "es-ES": "Capítulo XXVI",
-        "en-US": "Chapter XXVI"
+        "en-US": "Chapter XXVI",
+        "pt-BR": "Capítulo XXVI"
       }
     },
     {
       "id": "c27",
       "title": {
         "es-ES": "Capítulo XXVII",
-        "en-US": "Chapter XXVII"
+        "en-US": "Chapter XXVII",
+        "pt-BR": "Capítulo XXVII"
       }
     },
     {
       "id": "c28",
       "title": {
         "es-ES": "Capítulo XXVIII",
-        "en-US": "Chapter XXVIII"
+        "en-US": "Chapter XXVIII",
+        "pt-BR": "Capítulo XXVIII"
       }
     },
     {
       "id": "c29",
       "title": {
         "es-ES": "Capítulo XXIX",
-        "en-US": "Chapter XXIX"
+        "en-US": "Chapter XXIX",
+        "pt-BR": "Capítulo XXIX"
       }
     },
     {
       "id": "c30",
       "title": {
         "es-ES": "Capítulo XXX",
-        "en-US": "Chapter XXX"
+        "en-US": "Chapter XXX",
+        "pt-BR": "Capítulo XXX"
       }
     },
     {
       "id": "c31",
       "title": {
         "es-ES": "Capítulo XXXI",
-        "en-US": "Chapter XXXI"
+        "en-US": "Chapter XXXI",
+        "pt-BR": "Capítulo XXXI"
       }
     }
   ]
