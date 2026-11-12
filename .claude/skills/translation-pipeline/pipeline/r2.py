@@ -148,6 +148,10 @@ def bookJson(book):
 
 def prompt(book, out, rnd, mode, prev=None):
     parts = ["# Review round %s (%s read)" % (rnd, mode), "", "Book: `%s`. Source language: `%s/` (canonical); target: `pt-BR/`." % (book, lang(book)), ""]
+    # A work with its own rules (Haydock's keyed notes) states them here, for
+    # the reviewer to hold the translation to.
+    if os.path.exists(book + "/translation-conventions.md"):
+        parts += [open(book + "/translation-conventions.md").read().strip(), ""]
     if os.environ.get("R2_PART"):
         cs = chapters(book)
         parts += ["This book is reviewed in parts, each on its own; this is part %s: `%s` to `%s` (%d chapter files). Read and fix only these; the journal and book.json are the whole book's." % (os.environ["R2_PART"], cs[0], cs[-1], len(cs)), ""]

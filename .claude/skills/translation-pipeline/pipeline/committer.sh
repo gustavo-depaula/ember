@@ -82,13 +82,13 @@ commitBook() { # book run [scope]
     local fulls=$(cat /dev/null ${(M)v2:#*.mode} | grep -c '^full$') meaning=$(cat /dev/null ${(M)v2:#*.result} | grep -oE 'meaning=[0-9]+' | cut -d= -f2 | awk '{s+=$1} END {print s+0}')
     local minor=$(cat /dev/null ${(M)v2:#*.result} | grep -oE 'minor=[0-9]+' | cut -d= -f2 | awk '{s+=$1} END {print s+0}')
     if [[ -f $run/parts ]]; then
-      msg="Translated by Claude; reviewed in $(<$run/parts) parts by Codex and Claude in turn,
+      msg="Translated by $who; reviewed in $(<$run/parts) parts by Codex and Claude in turn,
 $rounds rounds in all: $fulls full bilingual reads, the rest checks of the
 passages the previous round changed. $meaning meaning-level and $minor minor
 defects fixed; in every part the last two rounds found no meaning-level
 defect and the last changed nothing."
     else
-    msg="Translated by Claude; $rounds review rounds by Codex and Claude in turn: $fulls full
+    msg="Translated by $who; $rounds review rounds by Codex and Claude in turn: $fulls full
 bilingual reads, the rest checks of the passages the previous round changed.
 $meaning meaning-level and $minor minor defects fixed; the last two rounds found
 no meaning-level defect and the last changed nothing."
@@ -124,10 +124,37 @@ if all(os.path.exists(f.replace('/' + lang + '/', '/pt-BR/')) for f in glob.glob
   fi
   git add -- content/books/$book || return 1
   if [[ -f $run/review-only ]]; then
-    git commit -q -m "Review the pt-BR of ${author}'s ${name}" -m "${msg/Translated by Claude; /The existing translation, }" -- content/books/$book
+    git commit -q -m "Review the pt-BR of ${author}'s ${name}" -m "${msg/Translated by $who; /The existing translation, }" -- content/books/$book
     return
   fi
   git commit -q -m "Translate ${author}'s ${name} to pt-BR" -m "$msg" -- content/books/$book
+}
+
+# Haydock's commentary through the book pipeline (haydock2.py): the working
+# book under content/books/_haydock/ is never committed; its reviewed pt-BR
+# goes back into content/bible/haydock/pt-BR/, checked by haydock2.py import.
+commitHaydock2() { # group run
+  local group=$1 run=$2 files name who=Codex
+  [[ $(<$run/engine) == claude ]] && who=Claude
+  files=($(python3.13 $here/haydock2.py import $group)) || { print -r -- "${files[*]}"; return 1; }
+  # The group's journal (its terms and decisions, and the review log) is kept
+  # with the commentary, as a book keeps its own.
+  mkdir -p content/bible/haydock/pt-BR/journals
+  cp content/books/_haydock/$group/pt-BR/translation-journal.md content/bible/haydock/pt-BR/journals/$group.md || return 1
+  files+=(content/bible/haydock/pt-BR/journals/$group.md)
+  name=$(jq -r '.name["en-US"]' content/books/_haydock/$group/book.json)
+  local v2=($run/review-*(N) $run/part-*/review-*(N))
+  local rounds=${#${(M)v2:#*.result}} fulls=$(cat /dev/null ${(M)v2:#*.mode} | grep -c '^full$')
+  local meaning=$(cat /dev/null ${(M)v2:#*.result} | grep -oE 'meaning=[0-9]+' | cut -d= -f2 | awk '{s+=$1} END {print s+0}')
+  local minor=$(cat /dev/null ${(M)v2:#*.result} | grep -oE 'minor=[0-9]+' | cut -d= -f2 | awk '{s+=$1} END {print s+0}')
+  local notes=$(cat content/books/_haydock/$group/en-US/*.md | grep -c '^⟦')
+  git add -- $files || return 1
+  git commit -q -m "$name in pt-BR" -m "The $notes notes and introductions, translated by $who and reviewed by Claude
+and Codex in turn: $rounds rounds, $fulls of them full bilingual reads, the rest
+checks of the passages the previous round changed. $meaning meaning-level and
+$minor minor defects fixed; the last two rounds of every part found no
+meaning-level defect and the last changed nothing. Same shape and key order as
+the English files; the Greek and Latin apparatus blocks are carried over unchanged." -- $files
 }
 
 commitHaydock() { # bible book, run
@@ -173,6 +200,17 @@ pushPending() {
 while true; do
   for run in $here/runs/*(N/); do
     [[ -f $run/DONE && ! -f $run/COMMITTED && ! -f $run/NEEDS_REVIEW ]] || continue
+    if [[ ${run:t} == _haydock__* ]]; then
+      out=
+      if [[ $(<$run/DONE) != OK ]]; then
+        print "driver ended $(<$run/DONE)" > $run/NEEDS_REVIEW
+      elif out=$(commitHaydock2 ${${run:t}#_haydock__} $run 2>&1); then
+        git rev-parse --short HEAD > $run/COMMITTED
+      else
+        print -r -- "haydock2.py import or the commit failed: $out" > $run/NEEDS_REVIEW
+      fi
+      continue
+    fi
     if [[ ${run:t} == haydock__* ]]; then
       # Not a book: haydock.py import already validated the file's structure.
       b=${${run:t}#haydock__}

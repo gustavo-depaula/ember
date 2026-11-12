@@ -14,6 +14,9 @@ in the message, so a call is one read of its span plus the answer.
                                               unit that sends one); exits 1 with the
                                               problems when the answer is unusable
   t2.py check <bookdir>                       final structural check; exits 1 on problems
+  t2.py rejournal <bookdir> <rundir>          rebuilds the journal from the calls' saved
+                                              answers (call 1's journal, then each later
+                                              call's additions), keeping its review log
 """
 import glob, json, os, re, sys, time
 from srclang import sourceLang
@@ -129,6 +132,8 @@ def prompt(book, k, out):
     if lang(book) != "en-US" and os.path.isdir(book + "/en-US"):
         parts += ["The book has `%s/` (the canonical source) and `en-US/` (a reference translation: consult it for register and terminology only). Both are given below for this call's paragraphs." % lang(book), ""]
     parts += ["## book.json" + (" (without its toc: this call translates one part of the book, `%s*` files; titles are done separately)" % scope if scope else ""), "", "```json", bookJsonText(book), "```", ""]
+    if os.path.exists(book + "/translation-conventions.md"):
+        parts += [open(book + "/translation-conventions.md").read().strip(), ""]
     if k == 1 and scope and os.path.exists(journalPath(book)):
         parts += ["## The book's journal so far (from its parts already translated)", "", journalNoLog(book), ""]
     elif k == 1:
@@ -244,7 +249,10 @@ def write(book, k, ans):
         open(journalPath(book), "w").write(j + "\n")
     add = secs.get(("journal-additions", None, None))
     if add and os.path.exists(journalPath(book)):
-        open(journalPath(book), "w").write(mergeJournal(open(journalPath(book)).read(), add))
+        # Read before opening for writing: open(..., "w") empties the file first,
+        # and every journal from Oct 24 to Nov 12 was cut down to its last call's additions.
+        merged = mergeJournal(open(journalPath(book)).read(), add)
+        open(journalPath(book), "w").write(merged)
     if k == 1 and scope and not os.path.exists(journalPath(book)):
         print("no journal in call 1"); sys.exit(1)
     if k == 1 and not scope:
@@ -282,8 +290,29 @@ def check(book):
         print("\n".join(problems)); sys.exit(1)
 
 
+def rejournal(book, run):
+    answers = sorted(glob.glob(run + "/translate-u*.last.md"), key=lambda f: int(re.search(r"-u(\d+)\.", f).group(1)))
+    answers = [f for f in answers if os.path.exists(f.replace(".last.md", ".ok"))]
+    j = None
+    for f in answers:
+        secs = sections(open(f).read())
+        full, add = secs.get(("pt-BR/translation-journal.md", None, None)), secs.get(("journal-additions", None, None))
+        if full:
+            j = full + "\n"
+        elif add and j:
+            j = mergeJournal(j, add)
+    if not j:
+        print("no journal in the answers"); sys.exit(1)
+    old = open(journalPath(book)).read() if os.path.exists(journalPath(book)) else ""
+    if "\n## Review log" in old and "\n## Review log" not in j:
+        j = j.rstrip() + "\n\n## Review log" + old.split("\n## Review log", 1)[1].rstrip() + "\n"
+    open(journalPath(book), "w").write(j)
+    print("%d calls, %d lines (was %d)" % (len(answers), j.count("\n"), old.count("\n")))
+
+
 cmd, a = sys.argv[1], sys.argv[2:]
 if cmd == "units": print(len(units(a[0])))
 elif cmd == "prompt": prompt(a[0], int(a[1]), a[2])
 elif cmd == "write": write(a[0], int(a[1]), a[2])
 elif cmd == "check": check(a[0])
+elif cmd == "rejournal": rejournal(a[0], a[1])

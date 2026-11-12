@@ -122,7 +122,7 @@ runStep() { # name promptfile engine [claude model]
       log "$1: stopped by the watchdog near the session limit; rerunning after the reset"
     done
   else
-    codex exec -C $root -s workspace-write --add-dir $evidence -o $run/$1.last.md "$(<$2)" < /dev/null > $run/$1.log 2>&1
+    codex exec -C $root -m $codexModel -s workspace-write --add-dir $evidence -o $run/$1.last.md "$(<$2)" < /dev/null > $run/$1.log 2>&1
   fi
 }
 
@@ -138,6 +138,13 @@ waitForNetwork() {
 
 print v2 > $run/pipeline
 
+# Medium effort for both engines: high spent most of a translation's output on
+# thinking (15.8M of 26.9M tokens over the Oct-Nov runs) for text the review
+# rounds check anyway. GPT-6.1-Sol is within ~2 points of GPT-6-Astra at about
+# a fifth of the price, so the Codex week stretches further.
+effort=${EFFORT:-medium}
+codexModel=${CODEX_MODEL:-gpt-6.1-sol}
+
 # One tool-less claude-work call; the watchdog may stop it, and then it reruns
 # after the reset. A single turn reads its input once, so caching it would only
 # add the write premium.
@@ -147,7 +154,7 @@ claudeCall() { # system-prompt-file input output.json [effort]
     waitForQuota
     started=$(date +%s)
     DISABLE_PROMPT_CACHING=1 CLAUDE_CONFIG_DIR=$HOME/.claude-work $HOME/.local/bin/claude -p --tools "" --strict-mcp-config \
-      --system-prompt "$(<$1)" --model opus --effort ${4:-high} --output-format json --no-session-persistence \
+      --system-prompt "$(<$1)" --model opus --effort ${4:-$effort} --output-format json --no-session-persistence \
       < $2 > $3 2> ${3%.json}.log
     if [[ -f $here/HALT ]] && (( $(<$here/HALT) >= started )); then
       log "${3:t:r}: stopped by the watchdog near the session limit; rerunning after the reset"; continue
@@ -169,7 +176,7 @@ genCall() { # system-prompt-file input output.json
     { cat $1; print; print -- ---; print; cat $2 } > $out.codex.md
     while true; do
       rm -f $out.last.md
-      codex exec -s read-only --skip-git-repo-check -C $evidence -c model_reasoning_effort=high -o $out.last.md - \
+      codex exec -s read-only --skip-git-repo-check -C $evidence -m $codexModel -c model_reasoning_effort=$effort -o $out.last.md - \
         < $out.codex.md > $out.log 2>&1
       [[ ! -s $out.last.md ]] && netDown $out.log || break
       waitForNetwork ${out:t}
@@ -204,6 +211,13 @@ if [[ ! -f $run/translate.ok ]]; then
   if [[ -n $fallback ]] || ! T2 check content/books/$book > $run/translate.problems 2>&1; then
     # An agent session would translate the whole book, not this part.
     [[ -n $scope ]] && { log "translate: FAILED (part $scope)"; print FAILED > $run/DONE; exit 1; }
+    # The agent session retranslates the whole book from scratch and is the
+    # costliest step there is; a span that fails twice is usually one OCR flaw
+    # in the source (Cántico's garbage line), cheaper fixed by hand. Opt in.
+    if [[ -z ${AGENT_FALLBACK:-} ]]; then
+      log "translate: FAILED; answers kept in translate-u*.last.md ($(head -c 200 $run/translate-u$k.problems 2> /dev/null | tr '\n' ' '))"
+      print FAILED > $run/DONE; exit 1
+    fi
     log "translate: falling back to an agent session"
     rm -rf content/books/$book/pt-BR $run/translate-u*.ok; git checkout -q -- content/books/$book/book.json
     sed "s|__BOOK__|$book|g" $here/translate.prompt.md > $run/translate.prompt.md
@@ -238,7 +252,7 @@ reviewCall() { # name engine
   else
     checkDeadline
     { cat $here/review2.system.md; print; print -- ---; print; cat $run/$name.prompt.md } > $run/$name.codex.md
-    codex exec -s read-only --skip-git-repo-check -C $evidence -c model_reasoning_effort=high -o $run/$name.last.md - \
+    codex exec -s read-only --skip-git-repo-check -C $evidence -m $codexModel -c model_reasoning_effort=$effort -o $run/$name.last.md - \
       < $run/$name.codex.md > $run/$name.log 2>&1
   fi
 }

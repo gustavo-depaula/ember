@@ -9,7 +9,7 @@ inside a sentence, an OCR artifact) and the pt-BR re-broken at the remaining
 source breaks. No word changes: the script checks that each side's text is
 the same apart from whitespace at the breaks.
 
-  realign.py list <bookdir>                    chapters whose counts differ
+  realign.py list <bookdir>                    chapters out of step with the source
   realign.py prompt <bookdir> <chapter> <out>  the message for one chapter
   realign.py write <bookdir> <chapter> <answer>
                                                applies it; exits 1 with the
@@ -32,13 +32,25 @@ def flat(ps):
     return re.sub(r"\s+", " ", " ".join(ps)).strip()
 
 
+def shifted(a, b):
+    """Equal counts can still be out of step (a heading against prose, a long
+    paragraph against a short one): Divine Intimacy had nine such chapters."""
+    for x, y in zip(a, b):
+        wx, wy = len(x.split()), len(y.split())
+        if x.startswith("#") != y.startswith("#") or (max(wx, wy) >= 15 and not 0.6 * wx <= wy <= 1.6 * wx):
+            return True
+    return False
+
+
 def mismatched(book):
     src = sourceLang(book)
     out = []
     for f in sorted(os.listdir("%s/%s" % (book, src))):
         t = "%s/pt-BR/%s" % (book, f)
-        if f.endswith(".md") and os.path.exists(t) and len(paras("%s/%s/%s" % (book, src, f))) != len(paras(t)):
-            out.append(f)
+        if f.endswith(".md") and os.path.exists(t):
+            a, b = paras("%s/%s/%s" % (book, src, f)), paras(t)
+            if len(a) != len(b) or shifted(a, b):
+                out.append(f)
     return out
 
 

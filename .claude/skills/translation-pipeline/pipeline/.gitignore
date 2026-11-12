@@ -5,3 +5,5 @@
 !*.py
 !*.system.md
 !translate.prompt.md
+!haydock-conventions.md
+!haydock-names.json

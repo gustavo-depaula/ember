@@ -19,6 +19,8 @@ Translates corpus books into Brazilian Portuguese without supervision: each book
 1. **Worktree.** The pipeline writes into a separate checkout so the main one stays free: `git worktree add ../prayer-book-translation -b book-translation origin/main`. Put its absolute path in `pipeline/ROOT`. The committer pushes `HEAD:main` from it.
 2. **Queue.** `pipeline/queue.txt` lists one book per line, a path relative to `content/books/` (`church-fathers/tertullian/apology`). Lines starting with `#` are comments; order is priority; lines may be appended while the run goes. A book too long for one run is queued one part at a time as `<book>#<scope>`, where `<scope>` is the prefix of that part's chapter files (`aquinas-opera-omnia/summa-theologiae#fp` takes the `fp-*` files). A book is claimed when its run directory `runs/<book with / as __>/` is created; delete that directory to rerun a book from scratch. Keep anything else out of `runs/`: the pool counts every directory there without `DONE` as a book in progress.
 
+   Haydock's Bible commentary is not a book: `pipeline/haydock2.py` lays a group of its Bible books out as a working book under `content/books/_haydock/<group>/` (queued as `_haydock/<group>`, never committed), and the committer imports the reviewed pt-BR back into `content/bible/haydock/pt-BR/`. Its header comment says how.
+
    A book whose pt-BR already exists (made outside the pipeline) is reviewed without being retranslated: list it in `pipeline/review-only.txt` too. The review pairs source and translation paragraph by paragraph, so first give the pt-BR the source's paragraphing with `pipeline/realign.py` (its header comment says how).
 3. **Start the heartbeat** from `pipeline/`. It starts and keeps alive the watchdog, the committer, the pools and any driver left without a process, every 2 minutes, until `DEADLINE`:
 
@@ -36,6 +38,8 @@ Translates corpus books into Brazilian Portuguese without supervision: each book
    | `CODEX_LIMIT` | Codex weekly usage (%) above which reviews fall back to Claude. `NO_CODEX=1` disables Codex. |
    | `MAX_ROUNDS` | Review rounds before a book (or part) is given up as `MAXED`. |
    | `PART_WORDS` | Books longer than this (default 40,000 words) are reviewed in parts of chapters. |
+   | `EFFORT` | Reasoning effort of every Claude and Codex call (default `medium`). |
+   | `CODEX_MODEL` | Codex's model (default `gpt-6.1-sol`). |
 
 The run is done when every pool has written `POOL_DONE.<engine>` (queue drained) or the deadline passes.
 
@@ -74,7 +78,7 @@ Codex's weekly usage is in its newest `~/.codex/sessions/*/*/*/rollout-*.jsonl` 
 - **`MAXED`.** Read the last rounds in `status`.
   - If they found no meaning-level defect, resume with a higher cap: delete `DONE` and `NEEDS_REVIEW`, and start the driver with `MAX_ROUNDS` raised.
   - Every Codex round falling straight back to Claude (`no usable answer from codex`) means the round's prompt is too long for Codex. Check the `review-N.codex.md` size: about 1 MB is too long, and the book should have been split into parts.
-- **`FAILED` in translate.** Read `translate-uK.problems`, and the usage in `translate-uK.json`. Output tokens at the 128k cap mean the answer was cut off. Fix the cause, delete `DONE`, and the heartbeat restarts the driver.
+- **`FAILED` in translate.** Read `translate-uK.problems`, and the usage in `translate-uK.json`. Output tokens at the 128k cap mean the answer was cut off. A span that gave one paragraph too many or too few twice usually meets an OCR flaw in the source (a garbage line, a sentence split by a page break): fix the source, then rerun only that span (delete its `translate-uK.ok`, keep the others). Delete `DONE`, and the heartbeat restarts the driver. The whole-book agent session that used to follow two failed calls is opt-in (`AGENT_FALLBACK=1`): it retranslates the book from scratch and is the costliest step there is.
 
 ## Rules
 
