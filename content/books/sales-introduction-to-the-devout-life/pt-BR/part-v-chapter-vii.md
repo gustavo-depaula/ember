@@ -1,21 +1,21 @@
-# CAPÍTULO VII. Exame quanto aos Afetos da Alma.
+# CAPÍTULO VII. Exame dos afetos de nossa alma.
 
-Detive-me longamente nestes pontos, sobre cujo devido exame repousa todo verdadeiro conhecimento do nosso progresso espiritual; quanto ao exame dos pecados, esse pertence antes às confissões dos que não estão ávidos de avançar.
+Estendi-me assim longamente sobre esses pontos, em cujo exame está o conhecimento do progresso espiritual que se faz; pois, quanto ao exame dos pecados, isso é para as confissões daqueles que não pensam em progredir.
 
-Mas é bom interrogar-nos com sobriedade quanto a estes diferentes assuntos, investigando como temos procedido desde que tomamos boas resoluções a seu respeito, e que faltas notáveis cometemos. Mas o resumo de tudo é examinar as nossas paixões; e, se te inquietas com investigação tão pormenorizada como a já sugerida, podes fazer um inquérito mais breve quanto ao que tens sido, e como tens agido, mais ou menos deste modo:
+Contudo, não é preciso afligir-se com cada um desses artigos, mas tratá-los com toda a suavidade, considerando em que estado nosso coração esteve a respeito deles desde nossa resolução e quais faltas notáveis cometemos nisso. Mas, para abreviar tudo, é preciso reduzir o exame à investigação de nossas paixões; e, se nos incomoda considerar tudo tão minuciosamente como foi dito, podemos examinar-nos assim, perguntando como temos sido e como nos temos comportado:
 
-— No teu amor a Deus, ao próximo e a ti mesma.
+Em nosso amor para com Deus, para com o próximo, para conosco mesmos.
 
-No ódio ao pecado que está em ti, ao pecado que encontras nos outros, pois deves desejar a extirpação de ambos;
+Em nosso ódio ao pecado que se encontra em nós, ao pecado que se encontra nos outros; pois devemos desejar a extirpação de um e de outro.
 
-nos teus desejos a respeito das riquezas, do prazer e da honra.
+Em nossos desejos, quanto aos bens, quanto aos prazeres, quanto às honras.
 
-No temor dos perigos do pecado, e da perda dos bens deste mundo; tememos um demais e o outro de menos.
+No temor dos perigos de pecar e das perdas dos bens deste mundo: teme-se demais uma coisa e de menos a outra.
 
-Na esperança, fixada talvez em demasia nas coisas deste mundo e na criatura; demasiado pouco em Deus e nas coisas eternas.
+Na esperança, talvez posta demais no mundo e na criatura e de menos em Deus e nas coisas eternas.
 
-Na tristeza, se ela for excessiva por causa de assuntos sem importância.
+Na tristeza, se é excessiva demais por coisas vãs.
 
-Na alegria, se ela for excessiva por causa de objetos indignos.
+Na alegria, se é excessiva e por coisas indignas.
 
-Em suma, examina que apegos dificultam a tua vida espiritual, que paixões a absorvem, e que coisa mais te atrai. É testando as paixões da alma, uma a uma, que averiguamos a nossa condição espiritual, assim como o que toca alaúde experimenta cada corda, tocando as que estão dissonantes para as elevar ou abaixar. Assim, tendo provado a nossa alma quanto ao amor, ao ódio, ao desejo, ao temor, à esperança, à tristeza e à alegria, se acharmos as nossas cordas desafinadas para a melodia que queremos elevar, que é a Glória de Deus, devemos afiná-las de novo com o auxílio da sua Graça e o conselho do nosso pai espiritual.
+Que afetos, enfim, mantêm nosso coração ocupado? Que paixões o possuem? Em que principalmente se desajustou? Pois é pelas paixões da alma que se reconhece seu estado, examinando-as uma após outra: assim como um tocador de alaúde, dedilhando todas as cordas, afina as que encontra dissonantes, esticando-as ou afrouxando-as, também nós, depois de examinarmos o amor, o ódio, o desejo, o temor, a esperança, a tristeza e a alegria de nossa alma, se os encontrarmos mal afinados para a melodia que queremos tocar, que é a glória de Deus, poderemos afiná-los mediante sua graça e o conselho de nosso pai espiritual.

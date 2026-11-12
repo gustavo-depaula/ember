@@ -1,7 +1,7 @@
-# CAPÍTULO VI. Exame da Condição da Alma quanto ao Próximo.
+# CAPÍTULO VI. Exame do estado de nossa alma para com o próximo.
 
-Marido e mulher devem amar-se um ao outro com amor terno, duradouro e sereno, e este vínculo é o primeiro pela ordem e Vontade de Deus. E digo o mesmo a respeito dos filhos e de todos os parentes próximos, bem como dos amigos em seus respectivos graus.
+É preciso amar bem o marido e a mulher com um amor doce e tranquilo, firme e contínuo, e que isso seja, em primeiro lugar, porque Deus o ordena e quer. Digo o mesmo dos filhos e parentes próximos, e também dos amigos, cada um segundo seu lugar.
 
-Mas, falando em geral, como estás quanto ao teu próximo? Amas-o cordialmente, e por Amor de Deus? Para responder isto com sinceridade, deves chamar à memória diversas pessoas desagradáveis e enfadonhas, pois é em tais casos que verdadeiramente praticamos o Amor de Deus para com os nossos próximos, e ainda mais para com aqueles que nos fazem mal, seja por palavra, seja por ato. Examina se o teu coração está inteiramente limpo a respeito de todos esses, e se te custa grande esforço amá-los.
+Mas, para falar em geral, como está teu coração em relação ao próximo? Tu o amas bem cordialmente e por amor de Deus? Para discernir bem isso, é preciso que representes vivamente certas pessoas importunas e desagradáveis; pois é aí que se exerce o amor de Deus para com o próximo, e muito mais para com aqueles que nos fazem mal, por atos ou por palavras. Examina bem se teu coração está livre de reservas para com eles e se sentes grande resistência em amá-los.
 
-És pronta em falar mal dos teus próximos, em especial dos que não te amam? Procedes de algum modo descortês, direta ou indiretamente, para com eles? Um pouco de honesto trato consigo mesma te permitirá descobri-lo.
+Não és pronta a falar mal do próximo, sobretudo daqueles que não te amam? Não fazes mal ao próximo, direta ou indiretamente? Por pouco que sejas razoável, perceberás isso facilmente.

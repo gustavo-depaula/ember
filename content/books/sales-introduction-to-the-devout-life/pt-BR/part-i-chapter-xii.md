@@ -1,29 +1,29 @@
-# CAPÍTULO XII. QUARTA MEDITAÇÃO. Sobre o Pecado.
+# CAPÍTULO XII. Meditação IV. Dos pecados.
 
-*Preparação.* 1. PÕE-TE na Presença de Deus.
+**1.** Coloca-te na presença de Deus.
 
-2. Pede-lhe que inspire o teu coração.
+**2.** Suplica-lhe que te inspire.
 
-*Considerações.* 1. Considera há quanto tempo começaste a cometer pecado, e como, desde aquele primeiro princípio, o pecado se multiplicou no teu coração; como cada dia tem acrescentado ao número dos teus pecados contra Deus, contra ti mesma e contra o próximo, por obra, palavra, pensamento e desejo.
+**1.** Pensa há quanto tempo começaste a pecar e vê quanto, desde esse primeiro começo, os pecados se multiplicaram em teu coração; como todos os dias os aumentaste contra Deus, contra ti mesma, contra o próximo, por obra, por palavra, por desejo e pensamento.
 
-2. Considera as tuas más inclinações, e até onde as seguiste. Estes dois pontos te mostrarão que os teus pecados são em número maior que os cabelos da tua cabeça, ou as areias da praia.
+**2.** Considera tuas más inclinações e quanto as seguiste. E, por esses dois pontos, verás que tuas culpas são mais numerosas que os cabelos de tua cabeça, mais ainda que a areia do mar.
 
-3. À parte do pecado, considera a tua ingratidão para com Deus, que é ela mesma um pecado que envolve todos os outros, e acresce-lhes a enormidade: considera os dons que Deus te deu, e que voltaste contra o Doador; especialmente as inspirações que negligenciaste, e os impulsos para o bem que frustraste. Repassa os muitos Sacramentos que recebeste, e vê onde estão os seus frutos. Onde estão as joias preciosas com que o teu Esposo Celeste te enfeitou? Com que preparação as recebeste? Reflete sobre a ingratidão com a qual, ao tempo em que Deus procurava salvar-te, fugiste dele e te precipitaste para a perdição.
+**3.** Considera à parte o pecado de ingratidão para com Deus, que é um pecado geral, que se espalha por todos os outros e os torna infinitamente mais enormes: vê, pois, quantos benefícios Deus te fez e como abusaste de todos eles contra o doador; em particular, quantas inspirações desprezadas, quantos bons movimentos tornados inúteis. E, mais que tudo, quantas vezes recebeste os sacramentos, e onde estão seus frutos? Que foi feito dessas joias preciosas com que teu querido esposo te havia adornado? Tudo isso ficou encoberto sob tuas iniquidades. Com que preparação os recebeste? Pensa nesta ingratidão: Deus correu tanto atrás de ti para te salvar, e tu sempre fugiste dele para te perder.
 
-*Afetos e Resoluções.* 1. Humilha-te na tua miséria. Ó meu Deus, como ouso eu apresentar-me diante dos Vossos olhos? Não sou senão um ser corrompido, um verdadeiro abismo de ingratidão e de maldade. Será possível que eu tenha sido tão desleal, que nem um sentido, nem uma faculdade, deixou de ser maculado e manchado; — nem um dia se passou sem que eu pecasse diante de Vós? Era esta uma resposta digna a todos os dons do meu Criador, ao Sangue do meu Redentor?
+**1.** Envergonha-te de tua miséria. Ó meu Deus, como ouso comparecer diante de vossos olhos? Ah, não passo de um abscesso do mundo e de um esgoto de ingratidão e iniquidade. Será possível que eu tenha sido tão desleal, que não tenha deixado um só de meus sentidos, uma só das potências de minha alma, sem os estragar, violar e manchar, e que não tenha passado um único dia de minha vida em que eu não tenha produzido efeitos tão maus? Era assim que eu devia retribuir os benefícios de meu Criador e o sangue de meu Redentor?
 
-2. Pede perdão; — atira-te aos pés do Senhor como o filho pródigo, como Madalena, como a mulher acusada de adultério. Tende misericórdia, Senhor, de mim, pecadora! Ó Fonte viva de Misericórdia, tende piedade de mim, indigna como sou.
+**2.** Pede perdão e lança-te aos pés do Senhor como um filho pródigo, como uma Madalena, como uma mulher que tivesse manchado seu leito conjugal com toda espécie de adultério. Ó Senhor, misericórdia para esta pecadora; ah, ó fonte viva de compaixão, tende piedade desta miserável.
 
-3. Resolve fazer melhor. Senhor, com o auxílio da Vossa graça, jamais me entregarei de novo ao pecado. Amei-o demais; — doravante hei de abominá-lo e apegar-me a Vós. Pai de Misericórdia, em Vós quero viver e morrer.
+**3.** Propõe-te viver melhor. Ó Senhor, não, nunca mais, mediante vossa graça, não, nunca mais me abandonarei ao pecado. Ah, já o amei demais; eu o detesto e vos abraço, ó Pai de misericórdia; quero viver e morrer em vós.
 
-4. A fim de afastar o pecado passado, acusa-te dele com bravura, não haja um só ato pecaminoso que não tragas à luz.
+**4.** Para apagar os pecados passados, eu me acusarei deles corajosamente e não deixarei um só sem o lançar para fora.
 
-5. Resolve fazer todos os esforços por arrancar do teu coração as raízes do pecado, especialmente este e aquele pecado individual que mais te atormenta.
+**5.** Farei tudo o que puder para arrancar inteiramente de meu coração as plantas desses pecados, particularmente de tais e tais que mais me afligem.
 
-6. Para isso, resolve seguir firmemente os conselhos que te forem dados, e nunca pensar que tens feito o bastante para expiar o teu pecado passado.
+**6.** E, para isso, abraçarei com constância os meios que me forem aconselhados, sem nunca me parecer ter feito o bastante para reparar faltas tão grandes.
 
-*Conclusão.* 1. Dá graças a Deus por te haver esperado até agora, e por suscitar no teu coração estas boas intenções.
+**1.** Agradece a Deus, que te esperou até esta hora e te deu esses bons afetos.
 
-2. Oferece-lhe todo o teu coração para levá-las a bom efeito.
+**2.** Oferece-lhe teu coração para realizá-los.
 
-3. Pede que te fortaleça.
+**3.** Pede-lhe que te fortaleça, etc.

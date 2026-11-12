@@ -1,31 +1,31 @@
-# CAPÍTULO IX. PRIMEIRA MEDITAÇÃO. Da Criação.
+# CAPÍTULO IX. Meditação I. Da criação.
 
-*Preparação.* 1. PÕE-TE na Presença de Deus.
+**1.** Coloca-te na presença de Deus.
 
-2. Pede-lhe que inspire o teu coração.
+**2.** Suplica-lhe que te inspire.
 
-*Considerações.* 1. Considera que há poucos anos não eras nascida no mundo, e a tua alma ainda não existia. Onde estavas tu então, ó minha alma? O mundo já era velho, e contudo de ti não havia sinal algum.
+**1.** Considera que, há apenas tantos anos, não estavas no mundo, e teu ser era um verdadeiro nada. Onde estávamos, ó minha alma, naquele tempo? O mundo já existia havia tanto tempo, e de nós não havia notícia alguma.
 
-2. Deus tirou-te deste nada, a fim de te fazer o que és, não porque tivesse necessidade de ti, mas unicamente pela sua Bondade.
+**2.** Deus te fez surgir desse nada para tornar-te o que és, sem que tivesse necessidade de ti, mas somente por sua bondade.
 
-3. Considera o ser que Deus te deu; pois é o ser supremo deste mundo visível, apto a viver eternamente, e a unir-se perfeitamente à Divina Majestade de Deus.
+**3.** Considera o ser que Deus te deu, pois é o primeiro ser do mundo visível, capaz de viver eternamente e de se unir perfeitamente à sua divina Majestade.
 
-*Afetos e Resoluções.* 1. Humilha-te totalmente diante de Deus, dizendo com o Salmista: Ó Senhor, eu nada sou diante de Vós — que sou eu, para que de mim Vos lembreis? Ó minha alma, ainda estarias perdida naquele abismo de nada, se Deus não te houvesse chamado; e que seria de ti em tal caso?
+**1.** Humilha-te profundamente diante de Deus, dizendo de coração com o Salmista: “Ó Senhor, sou diante de vós como um verdadeiro nada. E como vos lembrastes de mim para me criar?” Ah, minha alma, estavas mergulhada naquele antigo nada e ainda hoje estarias nele se Deus não te tivesse retirado de lá; e que farias nesse nada?
 
-2. Dá graças a Deus. Ó grande e bom Criador, que não Vos devo eu, que me tirastes do nada, pela Vossa Misericórdia, para fazer-me o que sou? Como poderei jamais louvar dignamente o Vosso santo Nome, e render as devidas graças à Vossa Bondade?
+**2.** Dá graças a Deus. Ó meu grande e bom Criador, quanto vos devo, pois fostes buscar-me em meu nada para, por vossa misericórdia, tornar-me o que sou. Que poderei fazer para bendizer dignamente vosso santo Nome e agradecer vossa imensa bondade?
 
-3. Confessa a tua própria vergonha. Mas, ai! ó meu Criador, longe de me unir a Vós por um amoroso serviço, rebelei-me contra Vós pelas minhas afeições desordenadas, afastando-me de Vós, entregando-me ao pecado e ignorando a Vossa Bondade, como se não me houvésseis criado.
+**3.** Envergonha-te. Mas, ai de mim, meu Criador! Em vez de me unir a vós pelo amor e pelo serviço, tornei-me inteiramente rebelde por meus afetos desregrados, separando-me e afastando-me de vós para me unir ao pecado, sem honrar vossa bondade mais do que se não tivésseis sido meu Criador.
 
-4. Prostra-te diante de Deus. Ó minha alma, sabe que o Senhor é o teu Deus, é Ele quem te fez, e não tu mesma. Ó Deus, sou obra das Vossas mãos;
+**4.** Abaixa-te diante de Deus. “Ó minha alma, sabe que o Senhor é teu Deus; foi ele quem te fez”, e não foste tu que te fizeste a ti mesma. Ó Deus, sou obra de vossas mãos.
 
-doravante não procurarei descansar em mim mesma, que sou nada. Em que tens tu, que és apenas pó e cinza, em que glorifiar-te? Como podes tu, um puro nada, exaltar-te? Para a minha própria humilhação, farei tal e tal coisa, — suportarei tal desprezo: — mudarei o meu modo de vida e seguirei doravante o meu Criador, e darei conta de que sou honrada por Ele me haver chamado ao ser que me deu; empregá-lo-ei somente em obedecer à sua Vontade, por meio do ensino que me deu, do qual mais inquirirei junto ao meu Pai espiritual.
+**5.** Não quero, pois, de agora em diante, comprazer-me em mim mesma, que, por mim, nada sou. De que te glorias, ó pó e cinza? Ou melhor, ó verdadeiro nada, de que te exaltas? E, para me humilhar, quero fazer tal e tal coisa, suportar tal ou tal desprezo. Quero mudar de vida, seguir de agora em diante meu Criador e honrar-me com a condição do ser que ele me deu, empregando-o inteiramente na obediência à sua vontade, pelos meios que me forem ensinados e sobre os quais consultarei meu pai espiritual.
 
-*Conclusão.* 1. Dá graças a Deus. Bendize ao Senhor, ó minha alma, e louva o seu santo Nome com todo o teu ser, porque a sua Bondade me chamou do nada, e a sua Misericórdia me criou.
+**1.** Agradece a Deus. “Bendize, ó minha alma, teu Deus, e que todas as minhas entranhas louvem seu santo Nome”; pois sua bondade me tirou do nada, e sua misericórdia me criou.
 
-2. Oferece. Ó meu Deus, ofereço-Vos com todo o meu coração o ser que me destes, dedico-o e consagro-o a Vós.
+**2.** Oferece. Ó meu Deus, ofereço-vos, de todo o coração, o ser que me destes; eu o dedico e consagro a vós.
 
-3. Ora. Ó Deus, fortalecei-me nestes afetos e resoluções. Caro Senhor, recomendo a mim e a todos os que amo à Vossa infalível Misericórdia.
+**3.** Reza. Ó Deus, fortalecei-me nestes afetos e resoluções; ó Santa Virgem, recomendai-os à misericórdia de vosso Filho, juntamente com todos aqueles por quem devo rezar, etc.
 
-PAI NOSSO, etc.
+*Pater noster, Ave.*
 
-Ao fim da tua meditação, demora-te um pouco e colhe, por assim dizer, um pequeno ramalhete espiritual dos pensamentos sobre os quais te detiveste, cujo doce perfume te poderá refrescar durante o dia.
+Ao sair da oração, enquanto passeias um pouco, colhe um pequeno ramalhete de devoção das considerações que fizeste, para sentir-lhe o perfume ao longo do dia.

@@ -1,15 +1,15 @@
-# CAPÍTULO XI. A Oração da Noite e o Exame de Consciência.
+# CAPÍTULO XI. Do exercício da noite e do exame de consciência.
 
-ASSIM como te aconselhei a fazer, antes do teu jantar material, uma refeição espiritual em meditação, antes da tua ceia da noite deves fazer ao menos uma devota colação espiritual. Procura ter algum breve ócio antes da hora da ceia e então, prostrando-te diante de Deus e recolhendo-te na Presença de Cristo Crucificado, pondo-O diante da tua mente com firme olhar interior, renova o ardor da tua meditação matinal por algumas fervorosas aspirações e humildes elevações da alma ao teu Bem-aventurado Salvador, repetindo aqueles pontos da tua meditação que mais te ajudaram, ou inflamando o teu coração com o que mais te aprouver.
+Assim como antes de teu almoço material farás o almoço espiritual por meio da meditação, também antes do jantar deves fazer um pequeno jantar, ao menos uma refeição leve, devota e espiritual. Reserva, portanto, algum tempo livre pouco antes da hora do jantar e, prostrada diante de Deus, recolhendo teu espírito junto de Jesus Cristo crucificado (que representarás a ti mesma por uma simples consideração e um olhar interior), reacende em teu coração o fogo da meditação da manhã, por uma dúzia de vivas aspirações, humilhações e impulsos amorosos que dirigirás a esse divino Salvador de tua alma; ou repetindo os pontos que mais tiveres saboreado na meditação da manhã, ou despertando teu fervor por algum outro assunto novo, conforme preferires.
 
-Quanto ao exame de consciência, que todos devemos fazer antes de ir para o leito, conheces as regras:
+Quanto ao exame de consciência, que sempre se deve fazer antes de deitar, todos sabem como praticá-lo.
 
-1. Agradece a Deus por te haver preservado durante o dia que passou.
+**1.** Agradecemos a Deus por nos ter conservado durante o dia que passou.
 
-2. Examina como te conduziste durante o dia, e para isso recorda onde e com quem estiveste, e o que fizeste.
+**2.** Examinamos como nos comportamos em todas as horas do dia; e, para fazê-lo mais facilmente, consideramos onde estivemos, com quem e em que ocupação.
 
-3. Se fizeste algo de bom, oferece graças a Deus; se erraste em pensamento, palavra ou obra, pede perdão a Sua Divina Majestade, com a resolução de confessar a falta logo que se ofereça oportunidade, e de aplicar-te diligentemente em fazer melhor.
+**3.** Se encontramos algum bem que tenhamos feito, damos graças a Deus por ele; se, pelo contrário, fizemos algum mal, em pensamentos, palavras ou obras, pedimos perdão à sua divina Majestade, com a resolução de confessá-lo na primeira ocasião e de nos emendar cuidadosamente.
 
-4. Em seguida, encomenda a Deus o teu corpo e tua alma, a Igreja, teus parentes e amigos. Pede que os Santos e os Anjos velem sobre ti e, com a bênção de Deus, vai ao repouso que Ele te designou.
+**4.** Depois disso, recomendamos à Providência divina nosso corpo, nossa alma, a Igreja, os parentes e os amigos; pedimos a Nossa Senhora, ao bom anjo e aos santos que velem sobre nós e por nós; e, com a bênção de Deus, vamos tomar o repouso que ele quis que nos fosse necessário.
 
-Nem esta prática nem a da manhã devem jamais ser omitidas: pela tua oração da manhã abres as janelas da tua alma à luz do Sol da Justiça, e pelas devoções da noite as fechas contra as sombras do inferno.
+Esse exercício nunca deve ser esquecido, assim como o da manhã; pois, pelo da manhã, abres as janelas de tua alma ao Sol de justiça, e, pelo da noite, tu as fechas às trevas do inferno.

@@ -1,21 +1,21 @@
-# CAPÍTULO XV. SÉTIMA MEDITAÇÃO. Do Inferno.
+# CAPÍTULO XV. Meditação VII. Do inferno.
 
-1. PÕE-TE na Presença de Deus.
+**1.** Coloca-te na presença divina.
 
-2. Humilha-te, e pede o seu auxílio.
+**2.** Humilha-te e pede sua assistência.
 
-3. Imagina uma cidade sombria, fumegante de chamas de enxofre e betume, habitada por cidadãos que dela não podem sair.
+**3.** Imagina uma cidade tenebrosa, toda ardendo em enxofre e piche fétido, cheia de cidadãos que dela não podem sair.
 
-1. Assim estão mergulhados os perdidos no abismo infernal; — sofrendo tormentos indescritíveis em todos os sentidos e em todos os membros; e isto porque, havendo usado os seus membros e sentidos para o pecado, é justo que por eles agora sofram. Aqueles olhos que se deleitavam em visões impuras e viciosas, contemplam agora os demônios; os ouvidos que se compraziam em palavras ímpias estão agora ensurdecidos por urros de desespero; — e assim com os outros sentidos.
+**1.** Os condenados estão no abismo infernal como nessa cidade infeliz, na qual sofrem tormentos indizíveis em todos os seus sentidos e em todos os seus membros, porque, assim como empregaram todos os seus sentidos e membros para pecar, assim sofrerão em todos os seus membros e em todos os seus sentidos as penas devidas ao pecado: os olhos, por seus olhares falsos e maus, sofrerão a horrível visão dos diabos e do inferno; os ouvidos, por terem sentido prazer em conversas viciosas, jamais ouvirão senão prantos, lamentações e desesperos; e assim os demais.
 
-2. Além de todos estes sofrimentos, há um maior ainda: a privação e a dor de perder a Glória de Deus, a qual lhes é para sempre vedada à vista. Se Absalão não se importava com ser libertado do exílio caso não pudesse ver o rosto de seu pai, quanto mais penoso será ser-se privado para sempre da bem-aventurada visão de Deus?
+**2.** Além de todos esses tormentos, há ainda um maior, que é a privação e perda da glória de Deus, que estão impedidos de jamais ver. Se Absalão achou que a privação do rosto amável de seu pai Davi era mais penosa que o exílio, ó Deus, que pesar será ficar para sempre privado de ver vosso doce e suave rosto!
 
-3. Considera quão insuportáveis serão as penas do Inferno em razão da sua duração eterna. Se a picada irritante de um inseto, ou a inquietação da febre, faz com que uma noite ordinária pareça tão longa e fastidiosa, quão terrível será a noite sem fim da eternidade, onde nada se achará senão desespero, blasfêmia e furor!
+**3.** Considera sobretudo a eternidade dessas penas, que, por si só, torna o inferno insuportável. Ah! Se uma pulga em nosso ouvido, se o calor de uma pequena febre nos torna uma curta noite tão longa e penosa, quão espantosa será a noite da eternidade com tantos tormentos! Dessa eternidade nascem o desespero eterno, as blasfêmias e as fúrias sem fim.
 
-1. Assusta a tua alma com as palavras de Jó: “Ó minha alma, poderias tu viver eternamente com estes ardores perpétuos e no meio deste fogo devorador?” Queres tu deixar o teu Deus para sempre?
+**1.** Amedronta tua alma com as palavras de Jó: “Ó minha alma, poderias viver eternamente nesses ardores perpétuos e em meio a esse fogo devorador?” Queres abandonar teu Deus para sempre?
 
-2. Confessa que mereceste isto, e quantas vezes! Doravante, porém, quero tomar o caminho contrário; por que desceria eu a este abismo?
+**2.** Confessa que o mereceste, e quantas vezes! Mas, de agora em diante, quero tomar o caminho contrário; por que desceria a esse abismo?
 
-3. Farei, pois, tal e tal esforço para evitar o pecado, o único que me pode dar esta morte eterna.
+**3.** Farei, pois, tal e tal esforço para evitar o pecado, o único que pode me dar essa morte eterna.
 
-Dá graças, oferece-te, ora.
+Agradece, oferece, reza.

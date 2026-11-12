@@ -1,17 +1,17 @@
-# CAPÍTULO VIII. Os Afetos a serem despertados depois deste Exame.
+# CAPÍTULO VIII. Afetos que se devem despertar depois do exame.
 
-Quando tiveres tranquilamente percorrido cada ponto deste exame, e averiguado a tua própria posição, despertarás em teu coração certos sentimentos e afetos.
+Depois de considerares suavemente cada ponto do exame e de veres em que estado te encontras, passarás aos afetos desta maneira.
 
-Agradece a Deus por toda a emenda, por mais pequenina que seja, que tiveres encontrado em ti mesma, confessando que é obra unicamente da sua Misericórdia em ti.
+Agradece a Deus a pequena melhora que tiveres encontrado em tua vida desde tua resolução e reconhece que foi somente sua misericórdia que a realizou em ti e por ti.
 
-Humilha-te profundamente diante de Deus, confessando que, se o teu progresso foi pequeno, é por culpa tua, por não teres correspondido fiel, corajosa e continuamente às inspirações e luzes que Ele te concedeu na oração ou de outro modo.
+Humilha-te profundamente diante de Deus, reconhecendo que, se não avançaste muito, foi por tua falta, porque não correspondeste fiel, corajosa e constantemente às inspirações, luzes e movimentos que ele te deu na oração e em outras ocasiões.
 
-Promete louvá-Lo para sempre pelas graças que te concedeu, e por te haver levado, contra a tua vontade, a fazer mesmo este pequeno progresso.
+Promete-lhe louvá-lo para sempre pelas graças que exerceu para contigo, para te retirar de tuas inclinações e te conduzir a essa pequena melhora.
 
-Pede perdão pela deslealdade e infidelidade com que Lhe correspondeste.
+Pede-lhe perdão pela infidelidade e deslealdade com que correspondeste.
 
-Oferece-Lhe todo o teu coração, para que só Ele reine nele.
+Oferece-lhe teu coração, para que se torne inteiramente senhor dele.
 
-Suplica-Lhe que te conserve fiel a si mesmo.
+Suplica-lhe que te torne inteiramente fiel.
 
-Pondera os exemplos dos Santos, da Santíssima Virgem, do teu Anjo da Guarda e do teu Santo padroeiro, de São José, etc.
+Invoca os santos, a Santa Virgem, teu Anjo, teu Padroeiro, São José e assim os demais.

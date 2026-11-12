@@ -1,11 +1,11 @@
-# CAPÍTULO VII. A Conclusão e o Ramalhete Espiritual.
+# CAPÍTULO VII. Da conclusão e do ramalhete espiritual.
 
-A MEDITAÇÃO deve ser concluída por três atos, feitos com a maior humildade. Primeiro, um ato de ação de graças — agradecendo a Deus pelos afetos e resoluções que Ele te inspirou, e pela Misericórdia e Bondade que te deu a conhecer no mistério que estiveste meditando. Segundo, um ato de oblação, pelo qual ofereces a Deus a Sua mesma Bondade e Misericórdia, a Morte, o Sangue e as Virtudes de Seu Filho, e, juntamente com elas, os teus afetos e resoluções. O terceiro ato é o de petição[^1], no qual pedes a Deus e O suplicas que te dê parte nas graças e virtudes de Seu Querido Filho e a bênção sobre os teus afetos e resoluções, a fim de que possas pô-los fielmente em prática. Orarás ainda pela Igreja, pelos teus pastores, parentes, amigos e por todos os outros, recorrendo para isso à intercessão de Nossa Senhora, dos anjos e dos santos. Por fim, observei que convém rezar o *Pai-Nosso* e a *Ave-Maria*, que é a oração geral e necessária de todos os fiéis.
+Enfim, é preciso concluir a meditação com três ações, que se devem fazer com a maior humildade possível. A primeira é a ação de graças, agradecendo a Deus pelos afetos e resoluções que nos deu e por sua bondade e misericórdia, que descobrimos no mistério da meditação. A segunda é a ação de oferecimento, pela qual oferecemos a Deus sua própria bondade e misericórdia, a morte, o sangue, as virtudes de seu Filho e, juntamente com elas, nossos afetos e resoluções. A terceira ação é a da súplica,[^1] pela qual pedimos a Deus e lhe suplicamos que nos comunique as graças e virtudes de seu Filho e dê a bênção a nossos afetos e resoluções, para que possamos executá-los fielmente; depois rezamos do mesmo modo pela Igreja, por nossos pastores, parentes, amigos e outros, recorrendo para isso à intercessão de Nossa Senhora, dos anjos, dos santos. Enfim, observei que era preciso dizer o *Pater noster* e a *Ave Maria*, que são a oração geral e necessária de todos os fiéis.
 
-Além disto, recomendei-te colher um pequeno ramalhete de devoção; e quero dizer com isto[^2] o seguinte. Quando se passeia por um belo jardim, a maioria das pessoas costuma colher algumas flores pelo caminho, que conservam consigo e cujo perfume gozam durante o dia. Assim, quando a mente explora algum mistério na meditação, é bom escolher um ou mais pontos que mais especialmente lhe prenderam a atenção e que mais provavelmente te serão úteis, para deles te lembrares no resto do dia e aspirares espiritualmente o seu perfume.
+A tudo isso acrescentei que era preciso colher um pequeno ramalhete de devoção; e eis o que[^2] quero dizer. Os que passearam num belo jardim não saem dele de bom grado sem tomar na mão quatro ou cinco flores para cheirá-las e conservá-las ao longo do dia: assim, tendo nosso espírito percorrido algum mistério pela meditação, devemos escolher um, dois ou três pontos que tenhamos achado mais de nosso gosto e mais próprios para nosso progresso, a fim de nos lembrarmos deles durante o resto do dia e de lhes aspirarmos espiritualmente o perfume.
 
-Isto deves fazer no próprio lugar em que fizeste a meditação, detendo-te ali ou passeando a sós por algum tempo depois.
+Ora, isso se faz no mesmo lugar em que fizemos a meditação, permanecendo ali ou passeando a sós por algum tempo depois.
 
-[^1]: O texto de 1619 traz supputation.
+[^1]: O texto de 1619 traz “supputation” (“cômputo”).
 
-[^2]: Que: ce que (“o que”).
+[^2]: “Que”: “ce que” (“o que”).

@@ -1,3 +1,3 @@
-# CAPÍTULO IX. Reflexões adequadas à Renovação das Boas Resoluções.
+# CAPÍTULO IX. Das considerações próprias para renovar nossos bons propósitos.
 
-Depois de teres feito este auto-exame, e havendo conferenciado com algum santo diretor sobre as tuas faltas e os seus remédios, farás bem em prosseguir nas considerações seguintes, tomando uma por dia como meditação, e dando-lhe o tempo habitualmente assim ocupado; fazendo sempre a mesma preparação e despertando os mesmos afetos que aprendeste a usar antes de meditar, na Parte I. Sobretudo, pondo-te na Presença de Deus e pedindo-Lhe ardentemente a sua Graça para te confirmar e te conservar firme no seu Santo Amor e Serviço.
+Depois de fazeres o exame e de conversares bem com algum guia digno sobre as faltas e seus remédios, tomarás as considerações seguintes, fazendo uma a cada dia à maneira de meditação; empregarás nisso o tempo de tua oração, e sempre com o mesmo método de preparação e de afetos que usaste nas meditações da primeira Parte; colocando-te, antes de tudo, na presença de Deus e implorando sua graça para te firmares bem em seu santo amor e serviço.
