@@ -19,7 +19,8 @@
   "composed": "1616",
   "languages": [
     "fr-FR",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "francis-de-sales/traite-amour-de-dieu",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "Henry Benedict Mackey, O.S.B.",
       "year": 1884
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -71,133 +77,152 @@
       "id": "book-i",
       "title": {
         "fr-FR": "Livre I. Contenant une préparation à tout le traitté",
-        "en-US": "Book I. Containing a preparation for the whole treatise."
+        "en-US": "Book I. Containing a preparation for the whole treatise.",
+        "pt-BR": "Livro I. Que contém uma preparação para todo o tratado"
       },
       "children": [
         {
           "id": "book-i-chapter-i",
           "title": {
             "fr-FR": "Chapitre I. Que pour la beauté de la nature humaine Dieu a donné le gouvernement de toutes les facultés de l’ame a la volonté",
-            "en-US": "Chapter I. That for the beauty of human nature God has given the government of all the faculties of the soul to the will."
+            "en-US": "Chapter I. That for the beauty of human nature God has given the government of all the faculties of the soul to the will.",
+            "pt-BR": "Capítulo I. Que, para a beleza da natureza humana, Deus deu à vontade o governo de todas as faculdades da alma"
           }
         },
         {
           "id": "book-i-chapter-ii",
           "title": {
             "fr-FR": "Chapitre II. Comme la volonté gouverne diversement les puissances de l’ame",
-            "en-US": "Chapter II. How the will variously governs the powers of the soul."
+            "en-US": "Chapter II. How the will variously governs the powers of the soul.",
+            "pt-BR": "Capítulo II. Como a vontade governa diversamente as potências da alma"
           }
         },
         {
           "id": "book-i-chapter-iii",
           "title": {
             "fr-FR": "Chapitre III. Comme la volonté gouverne l’appetit sensuel",
-            "en-US": "Chapter III. How the will governs the sensual appetite."
+            "en-US": "Chapter III. How the will governs the sensual appetite.",
+            "pt-BR": "Capítulo III. Como a vontade governa o apetite sensual"
           }
         },
         {
           "id": "book-i-chapter-iv",
           "title": {
             "fr-FR": "Chapitre IV. Que l’amour domine sur toutes les affections et passions, et que mesme il gouverne la volonté, bien que la volonté ait aussi domination sur luy",
-            "en-US": "Chapter IV. That love rules over all the affections, and passions, and even governs the will, although the will has also a dominion over it."
+            "en-US": "Chapter IV. That love rules over all the affections, and passions, and even governs the will, although the will has also a dominion over it.",
+            "pt-BR": "Capítulo IV. Que o amor domina sobre todas as afeições e paixões, e que até governa a vontade, embora a vontade também tenha domínio sobre ele"
           }
         },
         {
           "id": "book-i-chapter-v",
           "title": {
             "fr-FR": "Chapitre V. Des affections de la volonté",
-            "en-US": "Chapter V. Of the affections of the will."
+            "en-US": "Chapter V. Of the affections of the will.",
+            "pt-BR": "Capítulo V. Das afeições da vontade"
           }
         },
         {
           "id": "book-i-chapter-vi",
           "title": {
             "fr-FR": "Chapitre VI. Comme l’amour de Dieu domine sur les autres amours",
-            "en-US": "Chapter VI. How the love of God has dominion over other loves."
+            "en-US": "Chapter VI. How the love of God has dominion over other loves.",
+            "pt-BR": "Capítulo VI. Como o amor de Deus domina sobre os outros amores"
           }
         },
         {
           "id": "book-i-chapter-vii",
           "title": {
             "fr-FR": "Chapitre VII. Description de l’amour en general",
-            "en-US": "Chapter VII. Description of love in general."
+            "en-US": "Chapter VII. Description of love in general.",
+            "pt-BR": "Capítulo VII. Descrição do amor em geral"
           }
         },
         {
           "id": "book-i-chapter-viii",
           "title": {
             "fr-FR": "Chapitre VIII. Quelle est la convenance qui excite l’amour",
-            "en-US": "Chapter VIII. What kind of affinity (convenance) it is which excites love."
+            "en-US": "Chapter VIII. What kind of affinity (convenance) it is which excites love.",
+            "pt-BR": "Capítulo VIII. Qual é a conveniência que excita o amor"
           }
         },
         {
           "id": "book-i-chapter-ix",
           "title": {
             "fr-FR": "Chapitre IX. Que l’amour tend a l’union",
-            "en-US": "Chapter IX. That love tends to union."
+            "en-US": "Chapter IX. That love tends to union.",
+            "pt-BR": "Capítulo IX. Que o amor tende à união"
           }
         },
         {
           "id": "book-i-chapter-x",
           "title": {
             "fr-FR": "Chapitre X. Que l’union a laquelle l’amour prétend est spirituelle",
-            "en-US": "Chapter X. That the union to which love aspires is spiritual."
+            "en-US": "Chapter X. That the union to which love aspires is spiritual.",
+            "pt-BR": "Capítulo X. Que a união a que o amor aspira é espiritual"
           }
         },
         {
           "id": "book-i-chapter-xi",
           "title": {
             "fr-FR": "Chapitre XI. Qu’ily a deux portions en l’ame, et comment",
-            "en-US": "Chapter XI. That there are two portions in the soul, and how."
+            "en-US": "Chapter XI. That there are two portions in the soul, and how.",
+            "pt-BR": "Capítulo XI. Que há duas porções na alma, e como"
           }
         },
         {
           "id": "book-i-chapter-xii",
           "title": {
             "fr-FR": "Chapitre XII. Qu’en ces deux portions de l’ame il y a quatre differens degrés de rayson",
-            "en-US": "Chapter XII. That in these two portions of the soul there are four different degrees of reason."
+            "en-US": "Chapter XII. That in these two portions of the soul there are four different degrees of reason.",
+            "pt-BR": "Capítulo XII. Que nessas duas porções da alma há quatro graus diferentes de razão"
           }
         },
         {
           "id": "book-i-chapter-xiii",
           "title": {
             "fr-FR": "Chapitre XIII. De la différence des amours",
-            "en-US": "Chapter XIII. On the difference of loves."
+            "en-US": "Chapter XIII. On the difference of loves.",
+            "pt-BR": "Capítulo XIII. Da diferença dos amores"
           }
         },
         {
           "id": "book-i-chapter-xiv",
           "title": {
             "fr-FR": "Chapitre XIV. Que la charité doit estre nommee amour",
-            "en-US": "Chapter XIV. That charity may be named love."
+            "en-US": "Chapter XIV. That charity may be named love.",
+            "pt-BR": "Capítulo XIV. Que a caridade deve ser chamada amor"
           }
         },
         {
           "id": "book-i-chapter-xv",
           "title": {
             "fr-FR": "Chapitre XV. De la convenance qui est entre Dieu et l’homme",
-            "en-US": "Chapter XV. Of the affinity there is between God and man."
+            "en-US": "Chapter XV. Of the affinity there is between God and man.",
+            "pt-BR": "Capítulo XV. Da conveniência que há entre Deus e o homem"
           }
         },
         {
           "id": "book-i-chapter-xvi",
           "title": {
             "fr-FR": "Chapitre XVI. Que nous avons une inclination naturelle d’aymer Dieu sur toutes choses",
-            "en-US": "Chapter XVI. That we have a natural inclination to love God above all things."
+            "en-US": "Chapter XVI. That we have a natural inclination to love God above all things.",
+            "pt-BR": "Capítulo XVI. Que temos uma inclinação natural a amar a Deus sobre todas as coisas"
           }
         },
         {
           "id": "book-i-chapter-xvii",
           "title": {
             "fr-FR": "Chapitre XVII. Que nous n’avons pas naturellement le pouvoir d’aymer Dieu sur toutes choses",
-            "en-US": "Chapter XVII. That we have not naturally the power to love God above all things."
+            "en-US": "Chapter XVII. That we have not naturally the power to love God above all things.",
+            "pt-BR": "Capítulo XVII. Que não temos naturalmente o poder de amar a Deus sobre todas as coisas"
           }
         },
         {
           "id": "book-i-chapter-xviii",
           "title": {
             "fr-FR": "Chapitre XVIII. Que l’inclination naturelle que nous avons d’aymer Dieu n’est pas inutile",
-            "en-US": "Chapter XVIII. That the natural inclination which we have to love God is not useless."
+            "en-US": "Chapter XVIII. That the natural inclination which we have to love God is not useless.",
+            "pt-BR": "Capítulo XVIII. Que a inclinação natural que temos a amar a Deus não é inútil"
           }
         }
       ]
@@ -206,161 +231,184 @@
       "id": "book-ii",
       "title": {
         "fr-FR": "Livre II. Histoire de la génération et naissance céleste du divin amour",
-        "en-US": "Book II. The history of the generation and heavenly birth of divine love."
+        "en-US": "Book II. The history of the generation and heavenly birth of divine love.",
+        "pt-BR": "Livro II. História da geração e do nascimento celeste do divino amor"
       },
       "children": [
         {
           "id": "book-ii-chapter-i",
           "title": {
             "fr-FR": "Chapitre I. Que les perfections divines ne sont qu’une seule mais infinie perfection",
-            "en-US": "Chapter I. That the divine perfections are only a single but infinite perfection."
+            "en-US": "Chapter I. That the divine perfections are only a single but infinite perfection.",
+            "pt-BR": "Capítulo I. Que as perfeições divinas não são senão uma só, mas infinita, perfeição"
           }
         },
         {
           "id": "book-ii-chapter-ii",
           "title": {
             "fr-FR": "Chapitre II. Qu’en Dieu il n’y a qu’un seul acte qui est sa propre Divinité",
-            "en-US": "Chapter II. That in God there is but one only act, which is his own divinity."
+            "en-US": "Chapter II. That in God there is but one only act, which is his own divinity.",
+            "pt-BR": "Capítulo II. Que em Deus não há senão um só ato, que é a sua própria Divindade"
           }
         },
         {
           "id": "book-ii-chapter-iii",
           "title": {
             "fr-FR": "Chapitre III. De la Providence divine en general",
-            "en-US": "Chapter III. Of the divine Providence in general."
+            "en-US": "Chapter III. Of the divine Providence in general.",
+            "pt-BR": "Capítulo III. Da Providência divina em geral"
           }
         },
         {
           "id": "book-ii-chapter-iv",
           "title": {
             "fr-FR": "Chapitre IV. De la providence surnaturelle que Dieu exerce envers les créatures raysonnables",
-            "en-US": "Chapter IV. Of the supernatural Providence which God uses towards reasonable creatures"
+            "en-US": "Chapter IV. Of the supernatural Providence which God uses towards reasonable creatures",
+            "pt-BR": "Capítulo IV. Da providência sobrenatural que Deus exerce para com as criaturas racionais"
           }
         },
         {
           "id": "book-ii-chapter-v",
           "title": {
             "fr-FR": "Chapitre V. Que la Providence celeste a prouveu aux hommes une rédemption très abondante",
-            "en-US": "Chapter V. That heavenly Providence has provided men with a most abundant redemption."
+            "en-US": "Chapter V. That heavenly Providence has provided men with a most abundant redemption.",
+            "pt-BR": "Capítulo V. Que a Providência celeste proveu os homens de uma redenção abundantíssima"
           }
         },
         {
           "id": "book-ii-chapter-vi",
           "title": {
             "fr-FR": "Chapitre VI. De quelques faveurs speciales exercees en la rédemption des hommes par la divine Providence",
-            "en-US": "Chapter VI. Of certain special favours exercised by the divine Providence in the redemption of man."
+            "en-US": "Chapter VI. Of certain special favours exercised by the divine Providence in the redemption of man.",
+            "pt-BR": "Capítulo VI. De alguns favores especiais exercidos pela divina Providência na redenção dos homens"
           }
         },
         {
           "id": "book-ii-chapter-vii",
           "title": {
             "fr-FR": "Chapitre VII. Combien la Providence sacree est admirable en la diversité des grâces qu’elle distribue aux hommes",
-            "en-US": "Chapter VII. How admirable the divine Providence is in the diversity of graces given to men."
+            "en-US": "Chapter VII. How admirable the divine Providence is in the diversity of graces given to men.",
+            "pt-BR": "Capítulo VII. Quão admirável é a sagrada Providência na diversidade das graças que distribui aos homens"
           }
         },
         {
           "id": "book-ii-chapter-viii",
           "title": {
             "fr-FR": "Chapitre VIII. Combien Dieu desire que nous l'aymions",
-            "en-US": "Chapter VIII. How much God desires we should love him."
+            "en-US": "Chapter VIII. How much God desires we should love him.",
+            "pt-BR": "Capítulo VIII. Quanto Deus deseja que o amemos"
           }
         },
         {
           "id": "book-ii-chapter-ix",
           "title": {
             "fr-FR": "Chapitre IX. Comme l’amour eternel de Dieu envers nous prévient nos cœurs de son inspiration affin que nous l’aymions",
-            "en-US": "Chapter IX. How the eternal love of God prevents our hearts with his inspirations in order that we may love him."
+            "en-US": "Chapter IX. How the eternal love of God prevents our hearts with his inspirations in order that we may love him.",
+            "pt-BR": "Capítulo IX. Como o amor eterno de Deus para conosco previne os nossos corações com a sua inspiração, a fim de que o amemos"
           }
         },
         {
           "id": "book-ii-chapter-x",
           "title": {
             "fr-FR": "Chapitre X. Que nous repoussons bien souvent l’inspiration et refusons d’aymer Dieu",
-            "en-US": "Chapter X. How we oftentimes repulse the inspiration and refuse to love God."
+            "en-US": "Chapter X. How we oftentimes repulse the inspiration and refuse to love God.",
+            "pt-BR": "Capítulo X. Que repelimos muitas vezes a inspiração e recusamos amar a Deus"
           }
         },
         {
           "id": "book-ii-chapter-xi",
           "title": {
             "fr-FR": "Chapitre XI. Qu’il ne tient pas a la divine Bonté que nous n’ayons un très excellent amour",
-            "en-US": "Chapter XI. That it is no fault of the divine goodness if we have not a most excellent love."
+            "en-US": "Chapter XI. That it is no fault of the divine goodness if we have not a most excellent love.",
+            "pt-BR": "Capítulo XI. Que não depende da divina Bondade que não tenhamos um amor excelentíssimo"
           }
         },
         {
           "id": "book-ii-chapter-xii",
           "title": {
             "fr-FR": "Chapitre XII. Que les attraitz divins nous laissent en pleine liberté de les suivre ou les repousser",
-            "en-US": "Chapter XII. That divine inspirations leave us in full liberty to follow or repulse them."
+            "en-US": "Chapter XII. That divine inspirations leave us in full liberty to follow or repulse them.",
+            "pt-BR": "Capítulo XII. Que os atrativos divinos nos deixam em plena liberdade de segui-los ou repeli-los"
           }
         },
         {
           "id": "book-ii-chapter-xiii",
           "title": {
             "fr-FR": "Chapitre XIII. Des premiers sentimens d’amour que les attraitz divins font en l’ame, avant qu’elle ayt la foi",
-            "en-US": "Chapter XIII. Of the first sentiments of love which divine inspirations cause in the soul before she has faith."
+            "en-US": "Chapter XIII. Of the first sentiments of love which divine inspirations cause in the soul before she has faith.",
+            "pt-BR": "Capítulo XIII. Dos primeiros sentimentos de amor que os atrativos divinos produzem na alma antes que ela tenha a fé"
           }
         },
         {
           "id": "book-ii-chapter-xiv",
           "title": {
             "fr-FR": "Chapitre XIV. Du sentiment de l’amour divin qui se reçoit par la foy",
-            "en-US": "Chapter XIV. Of the sentiment of divine love which is had by faith."
+            "en-US": "Chapter XIV. Of the sentiment of divine love which is had by faith.",
+            "pt-BR": "Capítulo XIV. Do sentimento do amor divino que se recebe pela fé"
           }
         },
         {
           "id": "book-ii-chapter-xv",
           "title": {
             "fr-FR": "Chapitre XV. Du grand sentiment d’amour que nous recevons par la sainte esperance",
-            "en-US": "Chapter XV. Of the great sentiment of love which we receive by holy hope."
+            "en-US": "Chapter XV. Of the great sentiment of love which we receive by holy hope.",
+            "pt-BR": "Capítulo XV. Do grande sentimento de amor que recebemos pela santa esperança"
           }
         },
         {
           "id": "book-ii-chapter-xvi",
           "title": {
             "fr-FR": "Chapitre XVI. Comme l’amour se prattique en l’esperance",
-            "en-US": "Chapter XVI. How love is practised in hope."
+            "en-US": "Chapter XVI. How love is practised in hope.",
+            "pt-BR": "Capítulo XVI. Como o amor se pratica na esperança"
           }
         },
         {
           "id": "book-ii-chapter-xvii",
           "title": {
             "fr-FR": "Chapitre XVII. Que l’amour d’esperance est fort bon, quoy qu’imparfait",
-            "en-US": "Chapter XVII. That the love which is in hope is very good, though imperfect."
+            "en-US": "Chapter XVII. That the love which is in hope is very good, though imperfect.",
+            "pt-BR": "Capítulo XVII. Que o amor de esperança é muito bom, embora imperfeito"
           }
         },
         {
           "id": "book-ii-chapter-xviii",
           "title": {
             "fr-FR": "Chapitre XVIII. Que l’amour se prattique en la penitence : et premièrement, qu’il y a diverses sortes de pénitences",
-            "en-US": "Chapter XVIII. That love is exercised in penitence, and first, that there are divers sorts of penitence."
+            "en-US": "Chapter XVIII. That love is exercised in penitence, and first, that there are divers sorts of penitence.",
+            "pt-BR": "Capítulo XVIII. Que o amor se pratica na penitência; e, primeiramente, que há diversas espécies de penitência"
           }
         },
         {
           "id": "book-ii-chapter-xix",
           "title": {
             "fr-FR": "Chapitre XIX. • Que la penitence sans l’amour est imparfaite",
-            "en-US": "Chapter XIX. That penitence without love is imperfect."
+            "en-US": "Chapter XIX. That penitence without love is imperfect.",
+            "pt-BR": "Capítulo XIX. Que a penitência sem o amor é imperfeita"
           }
         },
         {
           "id": "book-ii-chapter-xx",
           "title": {
             "fr-FR": "Chapitre XX. Comme le meslange d’amour et de douleur se fait en la contrition",
-            "en-US": "Chapter XX. How the mingling of love and sorrow takes place in contrition."
+            "en-US": "Chapter XX. How the mingling of love and sorrow takes place in contrition.",
+            "pt-BR": "Capítulo XX. Como se faz a mistura de amor e de dor na contrição"
           }
         },
         {
           "id": "book-ii-chapter-xxi",
           "title": {
             "fr-FR": "Chapitre XXI. Comme les attraitz amoureux de Nostre Seigneur nous aydent et accompagnent jusques a la foy et la charité",
-            "en-US": "Chapter XXI. How our Saviour's loving attractions assist and accompany us to faith and charity."
+            "en-US": "Chapter XXI. How our Saviour's loving attractions assist and accompany us to faith and charity.",
+            "pt-BR": "Capítulo XXI. Como os atrativos amorosos de Nosso Senhor nos ajudam e acompanham até a fé e a caridade"
           }
         },
         {
           "id": "book-ii-chapter-xxii",
           "title": {
             "fr-FR": "Chapitre XXII. Briefve description de la charité",
-            "en-US": "Chapter XXII. A short description of charity."
+            "en-US": "Chapter XXII. A short description of charity.",
+            "pt-BR": "Capítulo XXII. Breve descrição da caridade"
           }
         }
       ]
@@ -369,112 +417,128 @@
       "id": "book-iii",
       "title": {
         "fr-FR": "Livre III. Du progrès et perfection de l’amour",
-        "en-US": "Book III. Of the progress and perfection of love."
+        "en-US": "Book III. Of the progress and perfection of love.",
+        "pt-BR": "Livro III. Do progresso e da perfeição do amor"
       },
       "children": [
         {
           "id": "book-iii-chapter-i",
           "title": {
             "fr-FR": "Chapitre I. Que l’amour sacré peut estre augmenté de plus en plus en un chacun de nous",
-            "en-US": "Chapter I. That holy love may be augmented still more and more in every one of us."
+            "en-US": "Chapter I. That holy love may be augmented still more and more in every one of us.",
+            "pt-BR": "Capítulo I. Que o amor sagrado pode ser aumentado cada vez mais em cada um de nós"
           }
         },
         {
           "id": "book-iii-chapter-ii",
           "title": {
             "fr-FR": "Chapitre II. Combien Nostre Seigneur a rendu aysé l’accroissement de l’amour",
-            "en-US": "Chapter II. How easy our Saviour has made the increase of love."
+            "en-US": "Chapter II. How easy our Saviour has made the increase of love.",
+            "pt-BR": "Capítulo II. Quão fácil Nosso Senhor tornou o crescimento do amor"
           }
         },
         {
           "id": "book-iii-chapter-iii",
           "title": {
             "fr-FR": "Chapitre III. Comme l’ame estant en charité fait progrès en icelle",
-            "en-US": "Chapter III. How a soul in charity makes progress in it."
+            "en-US": "Chapter III. How a soul in charity makes progress in it.",
+            "pt-BR": "Capítulo III. Como a alma que está em caridade faz progresso nela"
           }
         },
         {
           "id": "book-iii-chapter-iv",
           "title": {
             "fr-FR": "Chapitre IV. De la sainte perseverance en l’amour sacré. 180 366 Traitté de l’Amour de Dieu",
-            "en-US": "Chapter IV. Of holy perseverance in sacred love."
+            "en-US": "Chapter IV. Of holy perseverance in sacred love.",
+            "pt-BR": "Capítulo IV. Da santa perseverança no amor sagrado"
           }
         },
         {
           "id": "book-iii-chapter-v",
           "title": {
             "fr-FR": "Chapitre V. Que le bonheur de mourir en la divine charité est un don spécial de Dieu",
-            "en-US": "Chapter V. That the happiness of dying in heavenly charity is a special gift of God."
+            "en-US": "Chapter V. That the happiness of dying in heavenly charity is a special gift of God.",
+            "pt-BR": "Capítulo V. Que a felicidade de morrer na divina caridade é um dom especial de Deus"
           }
         },
         {
           "id": "book-iii-chapter-vi",
           "title": {
             "fr-FR": "Chapitre VI. Que nous ne sçaurions parvenir a la parfaite union d'amour avec Dieu en cette vie mortelle",
-            "en-US": "Chapter VI. That we cannot attain to perfect union with God in this mortal life."
+            "en-US": "Chapter VI. That we cannot attain to perfect union with God in this mortal life.",
+            "pt-BR": "Capítulo VI. Que não podemos chegar à perfeita união de amor com Deus nesta vida mortal"
           }
         },
         {
           "id": "book-iii-chapter-vii",
           "title": {
             "fr-FR": "Chapitre VII. Que la charité des Saintz en cette vie mortelle égalé, voire surpasse quelquefois celle des Bienheureux",
-            "en-US": "Chapter VII. That the charity of Saints in this mortal life equals, yea sometimes surpasses, that of the blessed."
+            "en-US": "Chapter VII. That the charity of Saints in this mortal life equals, yea sometimes surpasses, that of the blessed.",
+            "pt-BR": "Capítulo VII. Que a caridade dos Santos nesta vida mortal iguala, e às vezes até supera, a dos Bem-aventurados"
           }
         },
         {
           "id": "book-iii-chapter-viii",
           "title": {
             "fr-FR": "Chapitre VIII. De l’incomparable amour de laMere de Dieu Nostre Dame",
-            "en-US": "Chapter VIII. Of the incomparable love which the mother of God, our blessed lady, had."
+            "en-US": "Chapter VIII. Of the incomparable love which the mother of God, our blessed lady, had.",
+            "pt-BR": "Capítulo VIII. Do incomparável amor da Mãe de Deus, Nossa Senhora"
           }
         },
         {
           "id": "book-iii-chapter-ix",
           "title": {
             "fr-FR": "Chapitre IX. Préparation au discours de l’union des Bienheureux avec Dieu",
-            "en-US": "Chapter IX. A preparation for the discourse on the union of the blessed with God."
+            "en-US": "Chapter IX. A preparation for the discourse on the union of the blessed with God.",
+            "pt-BR": "Capítulo IX. Preparação para o discurso da união dos Bem-aventurados com Deus"
           }
         },
         {
           "id": "book-iii-chapter-x",
           "title": {
             "fr-FR": "Chapitre X. Que le désir precedent accroistra grandement l’union des Bienheureux avec Dieu",
-            "en-US": "Chapter X. That the preceding desire will much increase the union of the blessed with God."
+            "en-US": "Chapter X. That the preceding desire will much increase the union of the blessed with God.",
+            "pt-BR": "Capítulo X. Que o desejo precedente aumentará grandemente a união dos Bem-aventurados com Deus"
           }
         },
         {
           "id": "book-iii-chapter-xi",
           "title": {
             "fr-FR": "Chapitre XI. De l’union desespritz bienheureux avec Dieu en la vision de la Divinité",
-            "en-US": "Chapter XI. Of the union of the blessed spirits with God, in the vision of the divinity."
+            "en-US": "Chapter XI. Of the union of the blessed spirits with God, in the vision of the divinity.",
+            "pt-BR": "Capítulo XI. Da união dos espíritos bem-aventurados com Deus na visão da Divindade"
           }
         },
         {
           "id": "book-iii-chapter-xii",
           "title": {
             "fr-FR": "Chapitre XII. De l’union eternelle des espritzbienheureux avec Dieu en la vision de la naissance eternelle du Filz de Dieu",
-            "en-US": "Chapter XII. Of the eternal union of the blessed spirits with God, in the vision of the eternal birth of the Son of God."
+            "en-US": "Chapter XII. Of the eternal union of the blessed spirits with God, in the vision of the eternal birth of the Son of God.",
+            "pt-BR": "Capítulo XII. Da união eterna dos espíritos bem-aventurados com Deus na visão do nascimento eterno do Filho de Deus"
           }
         },
         {
           "id": "book-iii-chapter-xiii",
           "title": {
             "fr-FR": "Chapitre XIII. De l’union des espritz bienheureux avec Dieu en la vision de la production du Saint Esprit",
-            "en-US": "Chapter XIII. Of the union of the blessed with God in the vision of the production of the Holy Ghost."
+            "en-US": "Chapter XIII. Of the union of the blessed with God in the vision of the production of the Holy Ghost.",
+            "pt-BR": "Capítulo XIII. Da união dos espíritos bem-aventurados com Deus na visão da produção do Espírito Santo"
           }
         },
         {
           "id": "book-iii-chapter-xiv",
           "title": {
             "fr-FR": "Chapitre XIV. Que la sainte lumière de la gloire servira a l’union des espritz bienheureux avec Dieu",
-            "en-US": "Chapter XIV. That the holy light of glory will serve for the union of the blessed spirits with God."
+            "en-US": "Chapter XIV. That the holy light of glory will serve for the union of the blessed spirits with God.",
+            "pt-BR": "Capítulo XIV. Que a santa luz da glória servirá à união dos espíritos bem-aventurados com Deus"
           }
         },
         {
           "id": "book-iii-chapter-xv",
           "title": {
             "fr-FR": "Chapitre XV. Que l’union des Bienheureux avec Dieu aura des differens degrés",
-            "en-US": "Chapter XV. That there shall be different degrees of the union of the blessed with God."
+            "en-US": "Chapter XV. That there shall be different degrees of the union of the blessed with God.",
+            "pt-BR": "Capítulo XV. Que a união dos Bem-aventurados com Deus terá graus diferentes"
           }
         }
       ]
@@ -483,84 +547,96 @@
       "id": "book-iv",
       "title": {
         "fr-FR": "Livre IV. De la décadence et ruine de la charité",
-        "en-US": "Book IV. Of the decay and ruin of charity."
+        "en-US": "Book IV. Of the decay and ruin of charity.",
+        "pt-BR": "Livro IV. Da decadência e da ruína da caridade"
       },
       "children": [
         {
           "id": "book-iv-chapter-i",
           "title": {
             "fr-FR": "Chapitre I. Que nous pouvons perdre l’amour de Dieu tandis que nous sommes en cette vie mortelle",
-            "en-US": "Chapter I. That as long as we are in this mortal life we may lose the love of God."
+            "en-US": "Chapter I. That as long as we are in this mortal life we may lose the love of God.",
+            "pt-BR": "Capítulo I. Que podemos perder o amor de Deus enquanto estamos nesta vida mortal"
           }
         },
         {
           "id": "book-iv-chapter-ii",
           "title": {
             "fr-FR": "Chapitre II. Du rafroidissement de l’ame en l’amour sacré",
-            "en-US": "Chapter II. How the soul grows cold in holy love."
+            "en-US": "Chapter II. How the soul grows cold in holy love.",
+            "pt-BR": "Capítulo II. Do resfriamento da alma no amor sagrado"
           }
         },
         {
           "id": "book-iv-chapter-iii",
           "title": {
             "fr-FR": "Chapitre III. Comme on quitte le divin amour pour celuy des créatures",
-            "en-US": "Chapter III. How we forsake divine love for that of creatures."
+            "en-US": "Chapter III. How we forsake divine love for that of creatures.",
+            "pt-BR": "Capítulo III. Como se deixa o divino amor pelo das criaturas"
           }
         },
         {
           "id": "book-iv-chapter-iv",
           "title": {
             "fr-FR": "Chapitre IV. Que l’amour sacré se perd en un moment",
-            "en-US": "Chapter IV. That heavenly love is lost in a moment."
+            "en-US": "Chapter IV. That heavenly love is lost in a moment.",
+            "pt-BR": "Capítulo IV. Que o amor sagrado se perde num momento"
           }
         },
         {
           "id": "book-iv-chapter-v",
           "title": {
             "fr-FR": "Chapitre V. Que la seule cause du manquement et rafroidissement de la charité est en la volonté des créatures",
-            "en-US": "Chapter V. That the sole cause of the decay and cooling of charity is in the creature's will."
+            "en-US": "Chapter V. That the sole cause of the decay and cooling of charity is in the creature's will.",
+            "pt-BR": "Capítulo V. Que a única causa da falta e do resfriamento da caridade está na vontade das criaturas"
           }
         },
         {
           "id": "book-iv-chapter-vi",
           "title": {
             "fr-FR": "Chapitre VI. Que nous devons reconnoistre de Dieu tout l’amour que nous luy portons",
-            "en-US": "Chapter VI. That we ought to acknowledge all the love we bear to God to be from God."
+            "en-US": "Chapter VI. That we ought to acknowledge all the love we bear to God to be from God.",
+            "pt-BR": "Capítulo VI. Que devemos reconhecer como vindo de Deus todo o amor que lhe temos"
           }
         },
         {
           "id": "book-iv-chapter-vii",
           "title": {
             "fr-FR": "Chapitre VII. Qu’il faut evitertoute curiosité et acquiescer humblement a la très sage providence de Dieu",
-            "en-US": "Chapter VII. That we must avoid all curiosity, and humbly acquiesce in God's most wise Providence."
+            "en-US": "Chapter VII. That we must avoid all curiosity, and humbly acquiesce in God's most wise Providence.",
+            "pt-BR": "Capítulo VII. Que é preciso evitar toda curiosidade e aquiescer humildemente à sapientíssima providência de Deus"
           }
         },
         {
           "id": "book-iv-chapter-viii",
           "title": {
             "fr-FR": "Chapitre VIII. Exhortation a l’amoureuse sousmission que nous devons aux decretz de la Providence divine",
-            "en-US": "Chapter VIII. An exhortation to the amorous submission which we owe to the decrees of divine Providence."
+            "en-US": "Chapter VIII. An exhortation to the amorous submission which we owe to the decrees of divine Providence.",
+            "pt-BR": "Capítulo VIII. Exortação à amorosa submissão que devemos aos decretos da Providência divina"
           }
         },
         {
           "id": "book-iv-chapter-ix",
           "title": {
             "fr-FR": "Chapitre IX. D’un certain reste d’amour lequel demeure maintefois en l’ame qui a perdu la sainte charité",
-            "en-US": "Chapter IX. Of a certain remainder of love that oftentimes rests in the soul that has lost holy charity."
+            "en-US": "Chapter IX. Of a certain remainder of love that oftentimes rests in the soul that has lost holy charity.",
+            "pt-BR": "Capítulo IX. De um certo resto de amor que permanece muitas vezes na alma que perdeu a santa caridade"
           }
         },
         {
           "id": "book-iv-chapter-x",
           "title": {
             "fr-FR": "Chapitre X. Combien cet amour imparfait est dangereux",
-            "en-US": "Chapter X. How dangerous this imperfect love is."
+            "en-US": "Chapter X. How dangerous this imperfect love is.",
+            "pt-BR": "Capítulo X. Quão perigoso é esse amor imperfeito"
           }
         },
         {
           "id": "book-iv-chapter-xi",
           "title": {
             "fr-FR": "Chapitre XI. Moyen pour reconnoistre cet amour imparfait",
-            "en-US": "Chapter XI. A means to discern this imperfect love."
+            "en-US": "Chapter XI. A means to discern this imperfect love.",
+            "pt-BR": "Capítulo XI. Meio para reconhecer esse amor imperfeito"
           }
         }
       ]
@@ -569,91 +645,104 @@
       "id": "book-v",
       "title": {
         "fr-FR": "Livre V. Des deux principaux exercices de l’amour sacré, qui se font par complaysance et bienveuillance",
-        "en-US": "Book V. Of the two principal exercises of holy love which consist in complacency and benevolence."
+        "en-US": "Book V. Of the two principal exercises of holy love which consist in complacency and benevolence.",
+        "pt-BR": "Livro V. Dos dois principais exercícios do amor sagrado, que se fazem por complacência e benevolência"
       },
       "children": [
         {
           "id": "book-v-chapter-i",
           "title": {
             "fr-FR": "Chapitre I. De la sacree complaysance de l’amour, et premièrement en quoy elle consiste",
-            "en-US": "Chapter I. Of the sacred complacency of love; And first of what it consists."
+            "en-US": "Chapter I. Of the sacred complacency of love; And first of what it consists.",
+            "pt-BR": "Capítulo I. Da sagrada complacência do amor, e primeiramente em que ela consiste"
           }
         },
         {
           "id": "book-v-chapter-ii",
           "title": {
             "fr-FR": "Chapitre II. Que par la sainte complaysance nous sommes rendus comme petitz enfans aux mammelles de Nostre Seigneur",
-            "en-US": "Chapter II. How by holy complacency we are made as little infants at our Saviour's breasts."
+            "en-US": "Chapter II. How by holy complacency we are made as little infants at our Saviour's breasts.",
+            "pt-BR": "Capítulo II. Que pela santa complacência somos tornados como criancinhas aos seios de Nosso Senhor"
           }
         },
         {
           "id": "book-v-chapter-iii",
           "title": {
             "fr-FR": "Chapitre III. Que la sacree complaysance donne nostre cœur a Dieu et nous fait sentir un perpétuel désir en la jouissance",
-            "en-US": "Chapter III. That holy complacency gives our heart to God, and makes us feel a perpetual desire in fruition."
+            "en-US": "Chapter III. That holy complacency gives our heart to God, and makes us feel a perpetual desire in fruition.",
+            "pt-BR": "Capítulo III. Que a sagrada complacência dá o nosso coração a Deus e nos faz sentir um perpétuo desejo na fruição"
           }
         },
         {
           "id": "book-v-chapter-iv",
           "title": {
             "fr-FR": "Chapitre IV. De l’amoureuse condoléance par laquelle la complaysance de l’amour est encor mieux declaree",
-            "en-US": "Chapter IV. Of the loving condolence by which the complacency of love is still better declared."
+            "en-US": "Chapter IV. Of the loving condolence by which the complacency of love is still better declared.",
+            "pt-BR": "Capítulo IV. Da amorosa condolência pela qual a complacência do amor se declara ainda melhor"
           }
         },
         {
           "id": "book-v-chapter-v",
           "title": {
             "fr-FR": "Chapitre V. De la condoléance et complaysance de l'amour en la Passion de NostreSeigneur",
-            "en-US": "Chapter V. Of the condolence and complacency of love in the Passion of our Lord."
+            "en-US": "Chapter V. Of the condolence and complacency of love in the Passion of our Lord.",
+            "pt-BR": "Capítulo V. Da condolência e complacência do amor na Paixão de Nosso Senhor"
           }
         },
         {
           "id": "book-v-chapter-vi",
           "title": {
             "fr-FR": "Chapitre VI. De l’amour de bienveuillance que nous exerçons envers Nostre Seigneur par maniéré de désir",
-            "en-US": "Chapter VI. Of the love of benevolence which we exercise towards our Saviour by way of desire."
+            "en-US": "Chapter VI. Of the love of benevolence which we exercise towards our Saviour by way of desire.",
+            "pt-BR": "Capítulo VI. Do amor de benevolência que exercemos para com Nosso Senhor por modo de desejo"
           }
         },
         {
           "id": "book-v-chapter-vii",
           "title": {
             "fr-FR": "Chapitre VII. Comme le désir d’exalter et magnifier Dieu nous separe des playsirs inferieurs et nous rend attentifs aux perfections divines",
-            "en-US": "Chapter VII. How the desire to exalt and magnify God separates us from inferior pleasures, and makes us attentive to the divine perfections."
+            "en-US": "Chapter VII. How the desire to exalt and magnify God separates us from inferior pleasures, and makes us attentive to the divine perfections.",
+            "pt-BR": "Capítulo VII. Como o desejo de exaltar e engrandecer a Deus nos separa dos prazeres inferiores e nos torna atentos às perfeições divinas"
           }
         },
         {
           "id": "book-v-chapter-viii",
           "title": {
             "fr-FR": "Chapitre VIII. Comme la sainte bienveuillance produit la louange du divin Bienaymé",
-            "en-US": "Chapter VIII. How holy benevolence produces the praise of the divine well-beloved."
+            "en-US": "Chapter VIII. How holy benevolence produces the praise of the divine well-beloved.",
+            "pt-BR": "Capítulo VIII. Como a santa benevolência produz o louvor do divino Bem-Amado"
           }
         },
         {
           "id": "book-v-chapter-ix",
           "title": {
             "fr-FR": "Chapitre IX. Comme la bienveuillance nous fait appeller toutes les créatures a la louange de Dieu",
-            "en-US": "Chapter IX. How benevolence makes us call all creatures to the praise of God."
+            "en-US": "Chapter IX. How benevolence makes us call all creatures to the praise of God.",
+            "pt-BR": "Capítulo IX. Como a benevolência nos faz chamar todas as criaturas ao louvor de Deus"
           }
         },
         {
           "id": "book-v-chapter-x",
           "title": {
             "fr-FR": "Chapitre X. Comme le désir de louer Dieu nous fait aspirer au Ciel",
-            "en-US": "Chapter X. How the desire to praise God makes us aspire to heaven."
+            "en-US": "Chapter X. How the desire to praise God makes us aspire to heaven.",
+            "pt-BR": "Capítulo X. Como o desejo de louvar a Deus nos faz aspirar ao Céu"
           }
         },
         {
           "id": "book-v-chapter-xi",
           "title": {
             "fr-FR": "Chapitre XI. Comme nous prattiquons l’amour de bienveuillance es louanges que nostre Redempreur et sa Mere donnent a Dieu",
-            "en-US": "Chapter XI. How we practise the love of benevolence in the praises which our Saviour and his mother give to God."
+            "en-US": "Chapter XI. How we practise the love of benevolence in the praises which our Saviour and his mother give to God.",
+            "pt-BR": "Capítulo XI. Como praticamos o amor de benevolência nos louvores que o nosso Redentor e sua Mãe dão a Deus"
           }
         },
         {
           "id": "book-v-chapter-xii",
           "title": {
             "fr-FR": "Chapitre XII. De la souveraine louange que Dieu se donne a soy mesme, et de l’exercice de bienveuillance que nous faisons en icelle",
-            "en-US": "Chapter XII. Of the sovereign praise which God gives unto himself, and how we exercise benevolence in it."
+            "en-US": "Chapter XII. Of the sovereign praise which God gives unto himself, and how we exercise benevolence in it.",
+            "pt-BR": "Capítulo XII. Do soberano louvor que Deus dá a si mesmo, e do exercício de benevolência que nele fazemos"
           }
         }
       ]
@@ -662,112 +751,128 @@
       "id": "book-vi",
       "title": {
         "fr-FR": "Livre VI. Des exercices du saint amour en l’orayson",
-        "en-US": "Book VI. Of the exercises of holy love in prayer."
+        "en-US": "Book VI. Of the exercises of holy love in prayer.",
+        "pt-BR": "Livro VI. Dos exercícios do santo amor na oração"
       },
       "children": [
         {
           "id": "book-vi-chapter-i",
           "title": {
             "fr-FR": "Chapitre I. Description de la théologie mystique qui n’est autre chose que l’orayson",
-            "en-US": "Chapter I. A description of mystical theology, which is no other thing than prayer."
+            "en-US": "Chapter I. A description of mystical theology, which is no other thing than prayer.",
+            "pt-BR": "Capítulo I. Descrição da teologia mística, que não é outra coisa senão a oração"
           }
         },
         {
           "id": "book-vi-chapter-ii",
           "title": {
             "fr-FR": "Chapitre II. De la méditation, premier degré de l’orayson ou théologie mystique",
-            "en-US": "Chapter II. Of meditation--the first degree of prayer or mystical theology."
+            "en-US": "Chapter II. Of meditation--the first degree of prayer or mystical theology.",
+            "pt-BR": "Capítulo II. Da meditação, primeiro grau da oração ou teologia mística"
           }
         },
         {
           "id": "book-vi-chapter-iii",
           "title": {
             "fr-FR": "Chapitre III. Description de la contemplation, et de la première différence qu’il y a entre icelle et la méditation",
-            "en-US": "Chapter III. A description of contemplation, and of the first difference that there is between it and meditation."
+            "en-US": "Chapter III. A description of contemplation, and of the first difference that there is between it and meditation.",
+            "pt-BR": "Capítulo III. Descrição da contemplação, e da primeira diferença que há entre ela e a meditação"
           }
         },
         {
           "id": "book-vi-chapter-iv",
           "title": {
             "fr-FR": "Chapitre IV. Qu’en ce monde l’amour prend sa naissance, mais non pas son excellence, de la connoissance de Dieu",
-            "en-US": "Chapter IV. That love in this life takes its origin but not its excellence from the knowledge of God."
+            "en-US": "Chapter IV. That love in this life takes its origin but not its excellence from the knowledge of God.",
+            "pt-BR": "Capítulo IV. Que neste mundo o amor toma do conhecimento de Deus o seu nascimento, mas não a sua excelência"
           }
         },
         {
           "id": "book-vi-chapter-v",
           "title": {
             "fr-FR": "Chapitre V. Seconde différence entre la méditation et contemplation",
-            "en-US": "Chapter V. The second difference between meditation and contemplation."
+            "en-US": "Chapter V. The second difference between meditation and contemplation.",
+            "pt-BR": "Capítulo V. Segunda diferença entre a meditação e a contemplação"
           }
         },
         {
           "id": "book-vi-chapter-vi",
           "title": {
             "fr-FR": "Chapitre VI. Que la contemplation se fait sans peyne, qui est la troisiesme différence entre icelle et la méditation",
-            "en-US": "Chapter VI. That contemplation is made without labour, which is the third difference between it and meditation."
+            "en-US": "Chapter VI. That contemplation is made without labour, which is the third difference between it and meditation.",
+            "pt-BR": "Capítulo VI. Que a contemplação se faz sem esforço, o que é a terceira diferença entre ela e a meditação"
           }
         },
         {
           "id": "book-vi-chapter-vii",
           "title": {
             "fr-FR": "Chapitre VII. Du recueillement amoureux de l’ame en la contemplation",
-            "en-US": "Chapter VII. Of the loving recollection of the soul in contemplation."
+            "en-US": "Chapter VII. Of the loving recollection of the soul in contemplation.",
+            "pt-BR": "Capítulo VII. Do recolhimento amoroso da alma na contemplação"
           }
         },
         {
           "id": "book-vi-chapter-viii",
           "title": {
             "fr-FR": "Chapitre VIII. • Du repos de l’ame recueillie en son Bienaymé",
-            "en-US": "Chapter VIII. Of the repose of a soul recollected in her well-beloved."
+            "en-US": "Chapter VIII. Of the repose of a soul recollected in her well-beloved.",
+            "pt-BR": "Capítulo VIII. Do repouso da alma recolhida em seu Bem-Amado"
           }
         },
         {
           "id": "book-vi-chapter-ix",
           "title": {
             "fr-FR": "Chapitre IX. Comme ce repos sacré se prattique",
-            "en-US": "Chapter IX. How this sacred repose is practised."
+            "en-US": "Chapter IX. How this sacred repose is practised.",
+            "pt-BR": "Capítulo IX. Como se pratica esse repouso sagrado"
           }
         },
         {
           "id": "book-vi-chapter-x",
           "title": {
             "fr-FR": "Chapitre X. De divers degrés de cette quiétude, comme il la faut conserver",
-            "en-US": "Chapter X. Of various degrees of this repose, and how it is to be preserved."
+            "en-US": "Chapter X. Of various degrees of this repose, and how it is to be preserved.",
+            "pt-BR": "Capítulo X. De diversos graus dessa quietude, e como é preciso conservá-la"
           }
         },
         {
           "id": "book-vi-chapter-xi",
           "title": {
             "fr-FR": "Chapitre XI. Suite du discours des divers degrés de la sainte quiétude, et d’une excellente abnégation de soy mesme qu’on y prattique quelquefois",
-            "en-US": "Chapter XI. A continuation of the discourse touching the various degrees of holy quiet, and of an excellent abnegation of self which is sometimes practised therein."
+            "en-US": "Chapter XI. A continuation of the discourse touching the various degrees of holy quiet, and of an excellent abnegation of self which is sometimes practised therein.",
+            "pt-BR": "Capítulo XI. Continuação do discurso sobre os diversos graus da santa quietude, e de uma excelente abnegação de si mesmo que às vezes nela se pratica"
           }
         },
         {
           "id": "book-vi-chapter-xii",
           "title": {
             "fr-FR": "Chapitre XII. De l’escoulement ou liquéfactionde l’ame en Dieu",
-            "en-US": "Chapter XII. Of the outflowing (escoulement) or liquefaction of the soul in God."
+            "en-US": "Chapter XII. Of the outflowing (escoulement) or liquefaction of the soul in God.",
+            "pt-BR": "Capítulo XII. Da efusão ou liquefação da alma em Deus"
           }
         },
         {
           "id": "book-vi-chapter-xiii",
           "title": {
             "fr-FR": "Chapitre XIII. De la blesseure d’amour",
-            "en-US": "Chapter XIII. Of the wound of love."
+            "en-US": "Chapter XIII. Of the wound of love.",
+            "pt-BR": "Capítulo XIII. Da ferida de amor"
           }
         },
         {
           "id": "book-vi-chapter-xiv",
           "title": {
             "fr-FR": "Chapitre XIV. De quelques autres moyens par lesquelz le saint amour blesse les cœurs",
-            "en-US": "Chapter XIV. Of some other means by which holy love wounds the heart."
+            "en-US": "Chapter XIV. Of some other means by which holy love wounds the heart.",
+            "pt-BR": "Capítulo XIV. De alguns outros meios pelos quais o santo amor fere os corações"
           }
         },
         {
           "id": "book-vi-chapter-xv",
           "title": {
             "fr-FR": "Chapitre XV. De la langueur amoureuse du cœur blessé de dilection",
-            "en-US": "Chapter XV. Of the affectionate languishing of the heart wounded with love."
+            "en-US": "Chapter XV. Of the affectionate languishing of the heart wounded with love.",
+            "pt-BR": "Capítulo XV. Do langor amoroso do coração ferido de dileção"
           }
         }
       ]
@@ -776,105 +881,120 @@
       "id": "book-vii",
       "title": {
         "fr-FR": "Livre VII. De l’union de l’ame avec son Dieu, qui se parfait en l’orayson",
-        "en-US": "Book VII. Of the union of the soul with her God, which is perfected in prayer."
+        "en-US": "Book VII. Of the union of the soul with her God, which is perfected in prayer.",
+        "pt-BR": "Livro VII. Da união da alma com o seu Deus, que se aperfeiçoa na oração"
       },
       "children": [
         {
           "id": "book-vii-chapter-i",
           "title": {
             "fr-FR": "Chapitre I. Comme l'amour fait l’union de l’ame avec Dieu en l’orayson",
-            "en-US": "Chapter I. How love effects the union of the soul with God in prayer."
+            "en-US": "Chapter I. How love effects the union of the soul with God in prayer.",
+            "pt-BR": "Capítulo I. Como o amor faz a união da alma com Deus na oração"
           }
         },
         {
           "id": "book-vii-chapter-ii",
           "title": {
             "fr-FR": "Chapitre II. Des divers degrés de la sainte union qui se fait en l’orayson",
-            "en-US": "Chapter II. Of the various degrees of the holy union which is made in prayer."
+            "en-US": "Chapter II. Of the various degrees of the holy union which is made in prayer.",
+            "pt-BR": "Capítulo II. Dos diversos graus da santa união que se faz na oração"
           }
         },
         {
           "id": "book-vii-chapter-iii",
           "title": {
             "fr-FR": "Chapitre III. Du souverain degré d’union, par la suspension et ravissement",
-            "en-US": "Chapter III. Of the sovereign degree of union by suspension and ravishment."
+            "en-US": "Chapter III. Of the sovereign degree of union by suspension and ravishment.",
+            "pt-BR": "Capítulo III. Do soberano grau de união, pela suspensão e pelo arrebatamento"
           }
         },
         {
           "id": "book-vii-chapter-iv",
           "title": {
             "fr-FR": "Chapitre IV. Du ravissement, et de la première espece d’iceluy",
-            "en-US": "Chapter IV. Of rapture, and of the first species of it."
+            "en-US": "Chapter IV. Of rapture, and of the first species of it.",
+            "pt-BR": "Capítulo IV. Do arrebatamento, e da sua primeira espécie"
           }
         },
         {
           "id": "book-vii-chapter-v",
           "title": {
             "fr-FR": "Chapitre V. De la seconde espece de ravissement",
-            "en-US": "Chapter V. Of the second species of rapture."
+            "en-US": "Chapter V. Of the second species of rapture.",
+            "pt-BR": "Capítulo V. Da segunda espécie de arrebatamento"
           }
         },
         {
           "id": "book-vii-chapter-vi",
           "title": {
             "fr-FR": "Chapitre VI. Des marques du bon ravissement, et de la troisiesme espece d’iceluy",
-            "en-US": "Chapter VI. Of the signs of good rapture, and of the third species of the same."
+            "en-US": "Chapter VI. Of the signs of good rapture, and of the third species of the same.",
+            "pt-BR": "Capítulo VI. Das marcas do bom arrebatamento, e da sua terceira espécie"
           }
         },
         {
           "id": "book-vii-chapter-vii",
           "title": {
             "fr-FR": "Chapitre VII. Comme l’amour est la vie de l’ame, et suite du discours de la vie extatique",
-            "en-US": "Chapter VII. How love is the life of the soul, and continuation of the discourse on the ecstatic life."
+            "en-US": "Chapter VII. How love is the life of the soul, and continuation of the discourse on the ecstatic life.",
+            "pt-BR": "Capítulo VII. Como o amor é a vida da alma, e continuação do discurso da vida extática"
           }
         },
         {
           "id": "book-vii-chapter-viii",
           "title": {
             "fr-FR": "Chapitre VIII. Admirable exhortation de saint Paul a la vie extatique et surhumaine",
-            "en-US": "Chapter VIII. An admirable exhortation of s. Paul to the ecstatic and superhuman life."
+            "en-US": "Chapter VIII. An admirable exhortation of s. Paul to the ecstatic and superhuman life.",
+            "pt-BR": "Capítulo VIII. Admirável exortação de São Paulo à vida extática e sobre-humana"
           }
         },
         {
           "id": "book-vii-chapter-ix",
           "title": {
             "fr-FR": "Chapitre IX. Du supreme effect de l'amour affectif, qui est la mort des amans, et premièrement de ceux qui moururent en amour",
-            "en-US": "Chapter IX. Of the supreme effect of affective love, which is the death of the lovers; And first, of such as died in love."
+            "en-US": "Chapter IX. Of the supreme effect of affective love, which is the death of the lovers; And first, of such as died in love.",
+            "pt-BR": "Capítulo IX. Do supremo efeito do amor afetivo, que é a morte dos amantes, e primeiramente dos que morreram em amor"
           }
         },
         {
           "id": "book-vii-chapter-x",
           "title": {
             "fr-FR": "Chapitre X. De ceux qui moururent par l’amour et pour l’amour divin",
-            "en-US": "Chapter X. Of those who died by and for divine love."
+            "en-US": "Chapter X. Of those who died by and for divine love.",
+            "pt-BR": "Capítulo X. Dos que morreram pelo amor e por amor divino"
           }
         },
         {
           "id": "book-vii-chapter-xi",
           "title": {
             "fr-FR": "Chapitre XI. Que quelques uns entre les divins amans moururent encor d’amour",
-            "en-US": "Chapter XI. How some of the heavenly lovers died also of love."
+            "en-US": "Chapter XI. How some of the heavenly lovers died also of love.",
+            "pt-BR": "Capítulo XI. Que alguns dentre os amantes divinos morreram também de amor"
           }
         },
         {
           "id": "book-vii-chapter-xii",
           "title": {
             "fr-FR": "Chapitre XII. Histoire merveilleuse du trespas d’un gentilhomme qui mourut d’amour sur le mont d’Olivet",
-            "en-US": "Chapter XII. Marvellous history of the death of a gentleman who died of love on mount Olivet."
+            "en-US": "Chapter XII. Marvellous history of the death of a gentleman who died of love on mount Olivet.",
+            "pt-BR": "Capítulo XII. História maravilhosa do trespasse de um fidalgo que morreu de amor no monte das Oliveiras"
           }
         },
         {
           "id": "book-vii-chapter-xiii",
           "title": {
             "fr-FR": "Chapitre XIII. Que la très sacree Vierge, Mere de Dieu, mourut d’amour pour son Filz",
-            "en-US": "Chapter XIII. That the most sacred Virgin mother of God died of love for her Son."
+            "en-US": "Chapter XIII. That the most sacred Virgin mother of God died of love for her Son.",
+            "pt-BR": "Capítulo XIII. Que a sacratíssima Virgem, Mãe de Deus, morreu de amor por seu Filho"
           }
         },
         {
           "id": "book-vii-chapter-xiv",
           "title": {
             "fr-FR": "Chapitre XIV. Que la glorieuse Vierge mourut d’un amour extrêmement doux et tranquille",
-            "en-US": "Chapter XIV. That the glorious Virgin died by an extremely sweet and tranquil death."
+            "en-US": "Chapter XIV. That the glorious Virgin died by an extremely sweet and tranquil death.",
+            "pt-BR": "Capítulo XIV. Que a gloriosa Virgem morreu de um amor extremamente doce e tranquilo"
           }
         }
       ]
@@ -883,105 +1003,120 @@
       "id": "book-viii",
       "title": {
         "fr-FR": "Livre VIII. De l’amour de conformité par lequel nous unissons nostre volonté a celle de Dieu, qui nous est signifiée par ses commandemens, conseilz et inspirations",
-        "en-US": "Book VIII. Of the love of conformity, by which we unite our will to the will of God, signified unto us by his commandments, counsels and inspirations."
+        "en-US": "Book VIII. Of the love of conformity, by which we unite our will to the will of God, signified unto us by his commandments, counsels and inspirations.",
+        "pt-BR": "Livro VIII. Do amor de conformidade, pelo qual unimos a nossa vontade à de Deus, que nos é significada por seus mandamentos, conselhos e inspirações"
       },
       "children": [
         {
           "id": "book-viii-chapter-i",
           "title": {
             "fr-FR": "Chapitre I. De l’amour de conformité provenant de la sacree complaysance",
-            "en-US": "Chapter I. Of the love of conformity proceeding from sacred complacency."
+            "en-US": "Chapter I. Of the love of conformity proceeding from sacred complacency.",
+            "pt-BR": "Capítulo I. Do amor de conformidade que provém da sagrada complacência"
           }
         },
         {
           "id": "book-viii-chapter-ii",
           "title": {
             "fr-FR": "Chapitre II. De la conformité de sousmission qui procede de l’amour de bienveuillance",
-            "en-US": "Chapter II. Of the conformity of submission which proceeds from the love of benevolence."
+            "en-US": "Chapter II. Of the conformity of submission which proceeds from the love of benevolence.",
+            "pt-BR": "Capítulo II. Da conformidade de submissão que procede do amor de benevolência"
           }
         },
         {
           "id": "book-viii-chapter-iii",
           "title": {
             "fr-FR": "Chapitre III. Comme nous nous devons conformer a la divine volonté que l’on appelle signifiée",
-            "en-US": "Chapter III. How we are to conform ourselves to that divine will, which is called the signified will."
+            "en-US": "Chapter III. How we are to conform ourselves to that divine will, which is called the signified will.",
+            "pt-BR": "Capítulo III. Como nos devemos conformar à vontade divina a que se chama significada"
           }
         },
         {
           "id": "book-viii-chapter-iv",
           "title": {
             "fr-FR": "Chapitre IV. De la conformité de nostre volonté avec celle que Dieu a de nous sauver",
-            "en-US": "Chapter IV. Of the conformity of our will to the will which God has to save us."
+            "en-US": "Chapter IV. Of the conformity of our will to the will which God has to save us.",
+            "pt-BR": "Capítulo IV. Da conformidade da nossa vontade com a que Deus tem de nos salvar"
           }
         },
         {
           "id": "book-viii-chapter-v",
           "title": {
             "fr-FR": "Chapitre V. De la conformité de nostre volonté a celle de Dieu, qui nous est signifiée par ses commandemens",
-            "en-US": "Chapter V. Of the conformity of our will to that will of God's which is signified to us by his commandments."
+            "en-US": "Chapter V. Of the conformity of our will to that will of God's which is signified to us by his commandments.",
+            "pt-BR": "Capítulo V. Da conformidade da nossa vontade com a de Deus, que nos é significada por seus mandamentos"
           }
         },
         {
           "id": "book-viii-chapter-vi",
           "title": {
             "fr-FR": "Chapitre VI. De la conformité de nostre volonté a celle que Dieu nous a signifiée par ses conseilz",
-            "en-US": "Chapter VI. Of the conformity of our will to that will of God which is signified unto us by his counsels."
+            "en-US": "Chapter VI. Of the conformity of our will to that will of God which is signified unto us by his counsels.",
+            "pt-BR": "Capítulo VI. Da conformidade da nossa vontade com a que Deus nos significou por seus conselhos"
           }
         },
         {
           "id": "book-viii-chapter-vii",
           "title": {
             "fr-FR": "Chapitre VII. Que l’amour de la volonté de Dieu signifiée es commandemens nous porte a l’amour des conseilz",
-            "en-US": "Chapter VII. That the love of God's will signified in the commandments moves us to the love of the counsels."
+            "en-US": "Chapter VII. That the love of God's will signified in the commandments moves us to the love of the counsels.",
+            "pt-BR": "Capítulo VII. Que o amor da vontade de Deus significada nos mandamentos nos leva ao amor dos conselhos"
           }
         },
         {
           "id": "book-viii-chapter-viii",
           "title": {
             "fr-FR": "Chapitre VIII. Que le mespris des conzeilz evangeliques est un grand péché",
-            "en-US": "Chapter VIII. That the contempt of the evangelical counsels is a great sin."
+            "en-US": "Chapter VIII. That the contempt of the evangelical counsels is a great sin.",
+            "pt-BR": "Capítulo VIII. Que o desprezo dos conselhos evangélicos é um grande pecado"
           }
         },
         {
           "id": "book-viii-chapter-ix",
           "title": {
             "fr-FR": "Chapitre IX. Suite du discours commencé ; comme chacun doit aymer, quoy que non pas prattiquer, tous les conseilz evangeliques, et comme neanmoins chacun doit prattiquer ce qu’il peut",
-            "en-US": "Chapter IX. A continuation of the preceding discourse. How every one, while bound to love, is not bound to practise, all the evangelical counsels, and yet how every one should practise what he is able."
+            "en-US": "Chapter IX. A continuation of the preceding discourse. How every one, while bound to love, is not bound to practise, all the evangelical counsels, and yet how every one should practise what he is able.",
+            "pt-BR": "Capítulo IX. Continuação do discurso começado; como cada um deve amar, embora não praticar, todos os conselhos evangélicos, e como, no entanto, cada um deve praticar o que pode"
           }
         },
         {
           "id": "book-viii-chapter-x",
           "title": {
             "fr-FR": "Chapitre X. Comme il se faut conformer a la volonté divine qui nous est signifiée par les inspirations, et premièrement de la variété des moyens par lesquelz Dieu nous inspire",
-            "en-US": "Chapter X. How we are to conform ourselves to God's will signified unto us by inspirations, and first, of the variety of the means by which God inspires us."
+            "en-US": "Chapter X. How we are to conform ourselves to God's will signified unto us by inspirations, and first, of the variety of the means by which God inspires us.",
+            "pt-BR": "Capítulo X. Como é preciso conformar-se à vontade divina que nos é significada pelas inspirações, e primeiramente da variedade dos meios pelos quais Deus nos inspira"
           }
         },
         {
           "id": "book-viii-chapter-xi",
           "title": {
             "fr-FR": "Chapitre XI. De l’union de nostre volonté a celle de Dieu es inspirations qui sont données pour la prattique extraordinaire des vertus, et de la perseverance en la vocation, première marque de l’inspiration",
-            "en-US": "Chapter XI. Of the union of our will with God's in the inspirations which are given for the extraordinary practice of virtues; And of perseverance in one's vocation, the first mark of inspiration."
+            "en-US": "Chapter XI. Of the union of our will with God's in the inspirations which are given for the extraordinary practice of virtues; And of perseverance in one's vocation, the first mark of inspiration.",
+            "pt-BR": "Capítulo XI. Da união da nossa vontade com a de Deus nas inspirações que são dadas para a prática extraordinária das virtudes, e da perseverança na vocação, primeira marca da inspiração"
           }
         },
         {
           "id": "book-viii-chapter-xii",
           "title": {
             "fr-FR": "Chapitre XII. De l'union de la volonté humaine a celle de Dieu es inspirations qui sont contre les lois ordinaires, et de la paix et douceur de cœur, seconde marque de l’inspiration",
-            "en-US": "Chapter XII. Of the union of man's will with God's in those inspirations which are contrary to ordinary laws; And of peace and tranquillity of heart, second mark of inspiration."
+            "en-US": "Chapter XII. Of the union of man's will with God's in those inspirations which are contrary to ordinary laws; And of peace and tranquillity of heart, second mark of inspiration.",
+            "pt-BR": "Capítulo XII. Da união da vontade humana com a de Deus nas inspirações que são contra as leis ordinárias, e da paz e doçura de coração, segunda marca da inspiração"
           }
         },
         {
           "id": "book-viii-chapter-xiii",
           "title": {
             "fr-FR": "Chapitre XIII. Troisiesme marque de l’inspiration, qui est la sainte obéissance a l’Eglise et aux supérieurs",
-            "en-US": "Chapter XIII. Third mark of inspiration, which is holy obedience to the Church and superiors."
+            "en-US": "Chapter XIII. Third mark of inspiration, which is holy obedience to the Church and superiors.",
+            "pt-BR": "Capítulo XIII. Terceira marca da inspiração, que é a santa obediência à Igreja e aos superiores"
           }
         },
         {
           "id": "book-viii-chapter-xiv",
           "title": {
             "fr-FR": "Chapitre XIV. Briefve methode pour connoistre la volonté de Dieu",
-            "en-US": "Chapter XIV. A short method to know God's will."
+            "en-US": "Chapter XIV. A short method to know God's will.",
+            "pt-BR": "Capítulo XIV. Breve método para conhecer a vontade de Deus"
           }
         }
       ]
@@ -990,119 +1125,136 @@
       "id": "book-ix",
       "title": {
         "fr-FR": "Livre IX. De l’amour de sousmission, par lequel nostre volonté s’unit au bon playsir de Dieu",
-        "en-US": "Book IX. Of the love of submission, whereby our will is united to God's good-pleasure."
+        "en-US": "Book IX. Of the love of submission, whereby our will is united to God's good-pleasure.",
+        "pt-BR": "Livro IX. Do amor de submissão, pelo qual a nossa vontade se une ao beneplácito de Deus"
       },
       "children": [
         {
           "id": "book-ix-chapter-i",
           "title": {
             "fr-FR": "Chapitre I. De l’union de nostre volonté avec la volonté divine qu’on appelle volonté de bon playsir",
-            "en-US": "Chapter I. Of the union of our will to that divine will which is called the will of good-pleasure."
+            "en-US": "Chapter I. Of the union of our will to that divine will which is called the will of good-pleasure.",
+            "pt-BR": "Capítulo I. Da união da nossa vontade com a vontade divina a que se chama vontade de beneplácito"
           }
         },
         {
           "id": "book-ix-chapter-ii",
           "title": {
             "fr-FR": "Chapitre II. Que l’union de nostre volonté au bon playsir de Dieu se fait principalement es tribulations",
-            "en-US": "Chapter II. That the union of our will with the good-pleasure of God takes place principally in tribulations."
+            "en-US": "Chapter II. That the union of our will with the good-pleasure of God takes place principally in tribulations.",
+            "pt-BR": "Capítulo II. Que a união da nossa vontade com o beneplácito de Deus se faz principalmente nas tribulações"
           }
         },
         {
           "id": "book-ix-chapter-iii",
           "title": {
             "fr-FR": "Chapitre III. De l’union de nostre volonté au bon playsir divin es afflictions spirituelles, par la résignation",
-            "en-US": "Chapter III. Of the union of our will to the divine good-pleasure in spiritual afflictions, by resignation."
+            "en-US": "Chapter III. Of the union of our will to the divine good-pleasure in spiritual afflictions, by resignation.",
+            "pt-BR": "Capítulo III. Da união da nossa vontade com o beneplácito divino nas aflições espirituais, pela resignação"
           }
         },
         {
           "id": "book-ix-chapter-iv",
           "title": {
             "fr-FR": "Chapitre IV. De l’union de nostre volonté au bon playsir de Dieu par l’indifference",
-            "en-US": "Chapter IV. Of the union of our will to the good-pleasure of God by indifference."
+            "en-US": "Chapter IV. Of the union of our will to the good-pleasure of God by indifference.",
+            "pt-BR": "Capítulo IV. Da união da nossa vontade com o beneplácito de Deus pela indiferença"
           }
         },
         {
           "id": "book-ix-chapter-v",
           "title": {
             "fr-FR": "Chapitre V. Que la sainte indifférence s’estend a toutes choses",
-            "en-US": "Chapter V. That holy indifference extends to all things."
+            "en-US": "Chapter V. That holy indifference extends to all things.",
+            "pt-BR": "Capítulo V. Que a santa indiferença se estende a todas as coisas"
           }
         },
         {
           "id": "book-ix-chapter-vi",
           "title": {
             "fr-FR": "Chapitre VI. • De la prattique de l'indifference amoureuse es choses du service de Dieu",
-            "en-US": "Chapter VI. Of the practice of loving indifference, in things belonging to the service of God."
+            "en-US": "Chapter VI. Of the practice of loving indifference, in things belonging to the service of God.",
+            "pt-BR": "Capítulo VI. Da prática da indiferença amorosa nas coisas do serviço de Deus"
           }
         },
         {
           "id": "book-ix-chapter-vii",
           "title": {
             "fr-FR": "Chapitre VII. De l’indifference que nous devons prattiquer en ce qui regarde nostre avancement es vertus",
-            "en-US": "Chapter VII. Of the indifference which we are to have as to our advancement in virtues."
+            "en-US": "Chapter VII. Of the indifference which we are to have as to our advancement in virtues.",
+            "pt-BR": "Capítulo VII. Da indiferença que devemos praticar no que diz respeito ao nosso adiantamento nas virtudes"
           }
         },
         {
           "id": "book-ix-chapter-viii",
           "title": {
             "fr-FR": "Chapitre VIII. Comme nous devons unir nostre volonté a celle de Dieu en la permission des péchés",
-            "en-US": "Chapter VIII. How we are to unite our will with God's in the permission of sins."
+            "en-US": "Chapter VIII. How we are to unite our will with God's in the permission of sins.",
+            "pt-BR": "Capítulo VIII. Como devemos unir a nossa vontade à de Deus na permissão dos pecados"
           }
         },
         {
           "id": "book-ix-chapter-ix",
           "title": {
             "fr-FR": "Chapitre IX. Comme la pureté de l’indifference se doit prattiquer es actions de l’amour sacré",
-            "en-US": "Chapter IX. How the purity of indifference is to be practised in the actions of sacred love."
+            "en-US": "Chapter IX. How the purity of indifference is to be practised in the actions of sacred love.",
+            "pt-BR": "Capítulo IX. Como a pureza da indiferença se deve praticar nas ações do amor sagrado"
           }
         },
         {
           "id": "book-ix-chapter-x",
           "title": {
             "fr-FR": "Chapitre X. Moyen de connoistre le change au sujet de ce saint amour",
-            "en-US": "Chapter X. Means to discover when we change in the matter of this holy love."
+            "en-US": "Chapter X. Means to discover when we change in the matter of this holy love.",
+            "pt-BR": "Capítulo X. Meio de reconhecer a troca no que toca a esse santo amor"
           }
         },
         {
           "id": "book-ix-chapter-xi",
           "title": {
             "fr-FR": "Chapitre XI. De la perplexité du cœur qui ayme sans sçavoir qu’il plait au Bienaymé",
-            "en-US": "Chapter XI. Of the perplexity of a heart which loves without knowing whether it pleases the beloved."
+            "en-US": "Chapter XI. Of the perplexity of a heart which loves without knowing whether it pleases the beloved.",
+            "pt-BR": "Capítulo XI. Da perplexidade do coração que ama sem saber se agrada ao Bem-Amado"
           }
         },
         {
           "id": "book-ix-chapter-xii",
           "title": {
             "fr-FR": "Chapitre XII. • Comme entre ces travaux intérieurs l’ame ne connoist pas l’amour qu’elle porte a son Dieu, et du trespas très aymable de la volonté",
-            "en-US": "Chapter XII. How the soul amidst these interior anguishes knows not the love she bears to God: And of the most love-full death of the will."
+            "en-US": "Chapter XII. How the soul amidst these interior anguishes knows not the love she bears to God: And of the most love-full death of the will.",
+            "pt-BR": "Capítulo XII. Como, em meio a esses trabalhos interiores, a alma não conhece o amor que tem ao seu Deus, e do amabilíssimo trespasse da vontade"
           }
         },
         {
           "id": "book-ix-chapter-xiii",
           "title": {
             "fr-FR": "Chapitre XIII. Comme la volonté estant morte a soy, vit purement en la volonté de Dieu",
-            "en-US": "Chapter XIII. How the will being dead to itself lives entirely in God's will."
+            "en-US": "Chapter XIII. How the will being dead to itself lives entirely in God's will.",
+            "pt-BR": "Capítulo XIII. Como a vontade, estando morta para si, vive puramente na vontade de Deus"
           }
         },
         {
           "id": "book-ix-chapter-xiv",
           "title": {
             "fr-FR": "Chapitre XIV. Esclaircissement de ce qui a esté dit touchant le trespas de nostre volonté",
-            "en-US": "Chapter XIV. An explanation of what has been said touching the decease of our will."
+            "en-US": "Chapter XIV. An explanation of what has been said touching the decease of our will.",
+            "pt-BR": "Capítulo XIV. Esclarecimento do que foi dito acerca do trespasse da nossa vontade"
           }
         },
         {
           "id": "book-ix-chapter-xv",
           "title": {
             "fr-FR": "Chapitre XV. Du plus excellent exercice que nous puissions faire parmi les peines inferieures et extérieures de cette vie, en suite de l’indifference et trespas de la volonté",
-            "en-US": "Chapter XV. Of the most excellent exercise we can make in the interior and exterior troubles of this life, after attaining the indifference and death of the will."
+            "en-US": "Chapter XV. Of the most excellent exercise we can make in the interior and exterior troubles of this life, after attaining the indifference and death of the will.",
+            "pt-BR": "Capítulo XV. Do mais excelente exercício que podemos fazer em meio às penas interiores e exteriores desta vida, em seguida à indiferença e ao trespasse da vontade"
           }
         },
         {
           "id": "book-ix-chapter-xvi",
           "title": {
             "fr-FR": "Chapitre XVI. Du despouillement parfait de l’ame unie a la volonté de Dieu",
-            "en-US": "Chapter XVI. Of the perfect stripping of the soul which is united to God's will."
+            "en-US": "Chapter XVI. Of the perfect stripping of the soul which is united to God's will.",
+            "pt-BR": "Capítulo XVI. Do despojamento perfeito da alma unida à vontade de Deus"
           }
         }
       ]
@@ -1111,126 +1263,144 @@
       "id": "book-x",
       "title": {
         "fr-FR": "Livre X. Du commandement d’aymer Dieu sur toutes choses",
-        "en-US": "Book X. Of the commandment of loving God above all things."
+        "en-US": "Book X. Of the commandment of loving God above all things.",
+        "pt-BR": "Livro X. Do mandamento de amar a Deus sobre todas as coisas"
       },
       "children": [
         {
           "id": "book-x-chapter-i",
           "title": {
             "fr-FR": "Chapitre I. De la douceur du commandement que Dieu nous a fait de l’aymer sur toutes choses",
-            "en-US": "Chapter I. Of the sweetness of the commandment which God has given us of loving him above all things."
+            "en-US": "Chapter I. Of the sweetness of the commandment which God has given us of loving him above all things.",
+            "pt-BR": "Capítulo I. Da doçura do mandamento que Deus nos deu de o amar sobre todas as coisas"
           }
         },
         {
           "id": "book-x-chapter-ii",
           "title": {
             "fr-FR": "Chapitre II. Que ce divin commandement de l’amour tend au Ciel, mais est toutefois donné aux fideles de ce monde",
-            "en-US": "Chapter II. That this divine commandment of love tends to heaven, yet is given to the faithful in this world."
+            "en-US": "Chapter II. That this divine commandment of love tends to heaven, yet is given to the faithful in this world.",
+            "pt-BR": "Capítulo II. Que este divino mandamento do amor tende ao Céu, mas é todavia dado aos fiéis deste mundo"
           }
         },
         {
           "id": "book-x-chapter-iii",
           "title": {
             "fr-FR": "Chapitre III. Comme tout le cœur estant employé en l'amour sacré, on peut neanmoins aymer Dieu différemment et aymer encor plusieurs autres choses avec Dieu",
-            "en-US": "Chapter III. How, while the whole heart is employed in sacred love, yet one may love God in various ways, and also many other things together with him."
+            "en-US": "Chapter III. How, while the whole heart is employed in sacred love, yet one may love God in various ways, and also many other things together with him.",
+            "pt-BR": "Capítulo III. Como, estando todo o coração empregado no amor sagrado, se pode todavia amar a Deus diferentemente e amar ainda muitas outras coisas com Deus"
           }
         },
         {
           "id": "book-x-chapter-iv",
           "title": {
             "fr-FR": "Chapitre IV. De deux degrés de perfection avec lesquelz ce commandement peut estre observé en cette vie mortelle",
-            "en-US": "Chapter IV. Of two degrees of perfection with which this commandment may be kept in this mortal life."
+            "en-US": "Chapter IV. Of two degrees of perfection with which this commandment may be kept in this mortal life.",
+            "pt-BR": "Capítulo IV. De dois graus de perfeição com os quais este mandamento pode ser observado nesta vida mortal"
           }
         },
         {
           "id": "book-x-chapter-v",
           "title": {
             "fr-FR": "Chapitre V. De deux autres degrés de plus grande pèrfection avec lesquelz nous pouvons aymer Dieu sur toutes choses",
-            "en-US": "Chapter V. Of two other degrees of greater perfection, by which we may love God above all things."
+            "en-US": "Chapter V. Of two other degrees of greater perfection, by which we may love God above all things.",
+            "pt-BR": "Capítulo V. De dois outros graus de maior perfeição com os quais podemos amar a Deus sobre todas as coisas"
           }
         },
         {
           "id": "book-x-chapter-vi",
           "title": {
             "fr-FR": "Chapitre VI. Que l’amour de Dieu sur toutes choses est commun a tous les amans",
-            "en-US": "Chapter VI. That the love of God above all things is common to all lovers."
+            "en-US": "Chapter VI. That the love of God above all things is common to all lovers.",
+            "pt-BR": "Capítulo VI. Que o amor de Deus sobre todas as coisas é comum a todos os amantes"
           }
         },
         {
           "id": "book-x-chapter-vii",
           "title": {
             "fr-FR": "Chapitre VII. Esclaircissement du chapitre precedent",
-            "en-US": "Chapter VII. Explanation of the preceding chapter."
+            "en-US": "Chapter VII. Explanation of the preceding chapter.",
+            "pt-BR": "Capítulo VII. Esclarecimento do capítulo precedente"
           }
         },
         {
           "id": "book-x-chapter-viii",
           "title": {
             "fr-FR": "Chapitre VIII. Histoire mémorable pour faire bien concevoir en quoy gist la force et excellence de l’amour sacré",
-            "en-US": "Chapter VIII. A memorable history to make clearly understood in what the force and excellence of holy love consist."
+            "en-US": "Chapter VIII. A memorable history to make clearly understood in what the force and excellence of holy love consist.",
+            "pt-BR": "Capítulo VIII. História memorável para fazer bem compreender em que consiste a força e a excelência do amor sagrado"
           }
         },
         {
           "id": "book-x-chapter-ix",
           "title": {
             "fr-FR": "Chapitre IX. Confirmation de ce qui a esté dit, par une comparayson notable",
-            "en-US": "Chapter IX. A confirmation of what has been said by a noteworthy comparison."
+            "en-US": "Chapter IX. A confirmation of what has been said by a noteworthy comparison.",
+            "pt-BR": "Capítulo IX. Confirmação do que foi dito, por uma comparação notável"
           }
         },
         {
           "id": "book-x-chapter-x",
           "title": {
             "fr-FR": "Chapitre X. Comme nous devons aymer la divine Bonté souverainement plus que nous mesmes",
-            "en-US": "Chapter X. That we are to love the divine goodness sovereignly above ourselves."
+            "en-US": "Chapter X. That we are to love the divine goodness sovereignly above ourselves.",
+            "pt-BR": "Capítulo X. Como devemos amar a divina Bondade soberanamente mais do que a nós mesmos"
           }
         },
         {
           "id": "book-x-chapter-xi",
           "title": {
             "fr-FR": "Chapitre XI. Comme la tressainte charité produit l’amour du prochain",
-            "en-US": "Chapter XI. How holy charity produces the love of our neighbour."
+            "en-US": "Chapter XI. How holy charity produces the love of our neighbour.",
+            "pt-BR": "Capítulo XI. Como a santíssima caridade produz o amor do próximo"
           }
         },
         {
           "id": "book-x-chapter-xii",
           "title": {
             "fr-FR": "Chapitre XII. Comme l’amour produit le zele",
-            "en-US": "Chapter XII. How love produces zeal."
+            "en-US": "Chapter XII. How love produces zeal.",
+            "pt-BR": "Capítulo XII. Como o amor produz o zelo"
           }
         },
         {
           "id": "book-x-chapter-xiii",
           "title": {
             "fr-FR": "Chapitre XIII. Comme Dieu set jaloux de nous",
-            "en-US": "Chapter XIII. How God is jealous of us."
+            "en-US": "Chapter XIII. How God is jealous of us.",
+            "pt-BR": "Capítulo XIII. Como Deus é ciumento de nós"
           }
         },
         {
           "id": "book-x-chapter-xiv",
           "title": {
             "fr-FR": "Chapitre XIV. Du zele ou jalousie que nous avons pour Nostre Seigneur",
-            "en-US": "Chapter XIV. Of the zeal or jealousy which we have for our Lord."
+            "en-US": "Chapter XIV. Of the zeal or jealousy which we have for our Lord.",
+            "pt-BR": "Capítulo XIV. Do zelo ou ciúme que temos por Nosso Senhor"
           }
         },
         {
           "id": "book-x-chapter-xv",
           "title": {
             "fr-FR": "Chapitre XV. Advis pour la conduite du saint zele",
-            "en-US": "Chapter XV. Advice for the direction of holy zeal."
+            "en-US": "Chapter XV. Advice for the direction of holy zeal.",
+            "pt-BR": "Capítulo XV. Aviso para a condução do santo zelo"
           }
         },
         {
           "id": "book-x-chapter-xvi",
           "title": {
             "fr-FR": "Chapitre XVI. Que l’exemple de plusieurs Saintz qui sem- blent avoir exercé leur zele avec cholere, ne fait rien contre l’advis du chapitre - precedent",
-            "en-US": "Chapter XVI. That the example of certain Saints who seem to have exercised their zeal with anger, makes nothing against the doctrine of the preceding chapter."
+            "en-US": "Chapter XVI. That the example of certain Saints who seem to have exercised their zeal with anger, makes nothing against the doctrine of the preceding chapter.",
+            "pt-BR": "Capítulo XVI. Que o exemplo de muitos Santos que parecem ter exercido o seu zelo com cólera nada prova contra o aviso do capítulo precedente"
           }
         },
         {
           "id": "book-x-chapter-xvii",
           "title": {
             "fr-FR": "Chapitre XVII. Comme Nostre Seigneur prattiqua tous les plus excellens actes de l’amour",
-            "en-US": "Chapter XVII. How our Lord practised all the most excellent acts of love."
+            "en-US": "Chapter XVII. How our Lord practised all the most excellent acts of love.",
+            "pt-BR": "Capítulo XVII. Como Nosso Senhor praticou todos os mais excelentes atos do amor"
           }
         }
       ]
@@ -1239,154 +1409,176 @@
       "id": "book-xi",
       "title": {
         "fr-FR": "Livre XI. De la souveraine authorité que l’amour sacré tient sur toutes les vertus, actions et perfections de l’ame",
-        "en-US": "Book XI. Of the sovereign authority which sacred love holds over all the virtues, actions and perfections of the soul."
+        "en-US": "Book XI. Of the sovereign authority which sacred love holds over all the virtues, actions and perfections of the soul.",
+        "pt-BR": "Livro XI. Da soberana autoridade que o amor sagrado tem sobre todas as virtudes, ações e perfeições da alma"
       },
       "children": [
         {
           "id": "book-xi-chapter-i",
           "title": {
             "fr-FR": "Chapitre I. Combien toutes les vertus sont aggreables a Dieu",
-            "en-US": "Chapter I. How agreeable all virtues are to God."
+            "en-US": "Chapter I. How agreeable all virtues are to God.",
+            "pt-BR": "Capítulo I. Quão agradáveis a Deus são todas as virtudes"
           }
         },
         {
           "id": "book-xi-chapter-ii",
           "title": {
             "fr-FR": "Chapitre II. Que l’amour sacré rend les vertus excellemment plus aggreables a Dieu qu’elles ne le sont par leur propre nature",
-            "en-US": "Chapter II. That divine love makes the virtues immeasurably more agreeable to God than they are of their own nature."
+            "en-US": "Chapter II. That divine love makes the virtues immeasurably more agreeable to God than they are of their own nature.",
+            "pt-BR": "Capítulo II. Que o amor sagrado torna as virtudes excelentemente mais agradáveis a Deus do que o são por sua própria natureza"
           }
         },
         {
           "id": "book-xi-chapter-iii",
           "title": {
             "fr-FR": "Chapitre III. Comme il y a des vertus que la presence du divin amour releve a une plus haute excellence que les autres",
-            "en-US": "Chapter III. That there are some virtues which divine love raises to a higher degree of excellence than others."
+            "en-US": "Chapter III. That there are some virtues which divine love raises to a higher degree of excellence than others.",
+            "pt-BR": "Capítulo III. Como há virtudes que a presença do divino amor eleva a uma excelência mais alta do que as outras"
           }
         },
         {
           "id": "book-xi-chapter-iv",
           "title": {
             "fr-FR": "Chapitre IV. Comme le divin amour sanctifie encor plus excellemment les vertus quand elles sont prattiquees par son ordonnance et commandement",
-            "en-US": "Chapter IV. That divine love more excellently sanctifies the virtues when they are practised by its order and commandment."
+            "en-US": "Chapter IV. That divine love more excellently sanctifies the virtues when they are practised by its order and commandment.",
+            "pt-BR": "Capítulo IV. Como o divino amor santifica ainda mais excelentemente as virtudes quando são praticadas por sua ordem e mandamento"
           }
         },
         {
           "id": "book-xi-chapter-v",
           "title": {
             "fr-FR": "Chapitre V. Comme l’amour sacré mesle sa dignité parmi les autres vertus en perfectionnant la leur particulière",
-            "en-US": "Chapter V. How love spreads its excellence over the other virtues, perfecting their particular excellence."
+            "en-US": "Chapter V. How love spreads its excellence over the other virtues, perfecting their particular excellence.",
+            "pt-BR": "Capítulo V. Como o amor sagrado mistura a sua dignidade às outras virtudes, aperfeiçoando a dignidade particular delas"
           }
         },
         {
           "id": "book-xi-chapter-vi",
           "title": {
             "fr-FR": "Chapitre VI. De l’excellence du prix que l’amour sacré donne aux actions issues de luy mesme, et a celles qui procedent des autres vertus",
-            "en-US": "Chapter VI. Of the excellent value which sacred love gives to the actions which issue from itself and to those which proceed from the other virtues."
+            "en-US": "Chapter VI. Of the excellent value which sacred love gives to the actions which issue from itself and to those which proceed from the other virtues.",
+            "pt-BR": "Capítulo VI. Da excelência do valor que o amor sagrado dá às ações que dele mesmo procedem e às que procedem das outras virtudes"
           }
         },
         {
           "id": "book-xi-chapter-vii",
           "title": {
             "fr-FR": "Chapitre VII. Que les vertus parfaites ne sont jamais les unes sans les autres",
-            "en-US": "Chapter VII. That perfect virtues are never one without the other."
+            "en-US": "Chapter VII. That perfect virtues are never one without the other.",
+            "pt-BR": "Capítulo VII. Que as virtudes perfeitas nunca estão umas sem as outras"
           }
         },
         {
           "id": "book-xi-chapter-viii",
           "title": {
             "fr-FR": "Chapitre VIII. Comme la charité comprend toutes les vertus",
-            "en-US": "Chapter VIII. How charity comprehends all the virtues."
+            "en-US": "Chapter VIII. How charity comprehends all the virtues.",
+            "pt-BR": "Capítulo VIII. Como a caridade compreende todas as virtudes"
           }
         },
         {
           "id": "book-xi-chapter-ix",
           "title": {
             "fr-FR": "Chapitre IX. Que les vertus tirent leur perfection de l’amour sacré",
-            "en-US": "Chapter IX. That the virtues have their perfection from divine love."
+            "en-US": "Chapter IX. That the virtues have their perfection from divine love.",
+            "pt-BR": "Capítulo IX. Que as virtudes recebem a sua perfeição do amor sagrado"
           }
         },
         {
           "id": "book-xi-chapter-x",
           "title": {
             "fr-FR": "Chapitre X. Digression sur l’imperfection des vertus des payens",
-            "en-US": "Chapter X. A digression upon the imperfection of the virtues of the pagans."
+            "en-US": "Chapter X. A digression upon the imperfection of the virtues of the pagans.",
+            "pt-BR": "Capítulo X. Digressão sobre a imperfeição das virtudes dos pagãos"
           }
         },
         {
           "id": "book-xi-chapter-xi",
           "title": {
             "fr-FR": "Chapitre XI. Comme les actions humaines sont sans valeur Ihors qu’elles sont faites sans le divin amour",
-            "en-US": "Chapter XI. How human actions are without worth when they are done without divine love."
+            "en-US": "Chapter XI. How human actions are without worth when they are done without divine love.",
+            "pt-BR": "Capítulo XI. Como as ações humanas são sem valor quando feitas sem o divino amor"
           }
         },
         {
           "id": "book-xi-chapter-xii",
           "title": {
             "fr-FR": "Chapitre XII. Comme le saint amour revenant en l’ame fait revivre toutes les œuvres que le péché avoit fait périr",
-            "en-US": "Chapter XII. How holy love returning into the soul, brings back to life all the works which sin had destroyed."
+            "en-US": "Chapter XII. How holy love returning into the soul, brings back to life all the works which sin had destroyed.",
+            "pt-BR": "Capítulo XII. Como o santo amor, voltando à alma, faz reviver todas as obras que o pecado tinha feito perecer"
           }
         },
         {
           "id": "book-xi-chapter-xiii",
           "title": {
             "fr-FR": "Chapitre XIII. Comme nous devons réduire toute la prattique des vertus et de nos actions au saint amour",
-            "en-US": "Chapter XIII. How we are to reduce all the exercise of the virtues, and all our actions to holy love."
+            "en-US": "Chapter XIII. How we are to reduce all the exercise of the virtues, and all our actions to holy love.",
+            "pt-BR": "Capítulo XIII. Como devemos reduzir ao santo amor toda a prática das virtudes e das nossas ações"
           }
         },
         {
           "id": "book-xi-chapter-xiv",
           "title": {
             "fr-FR": "Chapitre XIV. Prattique de ce qui a esté dit au chapitre precedent",
-            "en-US": "Chapter XIV. The practice of what has been said in the preceding chapter."
+            "en-US": "Chapter XIV. The practice of what has been said in the preceding chapter.",
+            "pt-BR": "Capítulo XIV. Prática do que foi dito no capítulo precedente"
           }
         },
         {
           "id": "book-xi-chapter-xv",
           "title": {
             "fr-FR": "Chapitre XV. Comme la charité comprend en soy les dons du Saint Esprit",
-            "en-US": "Chapter XV. How charity contains in it the gifts of the Holy Ghost."
+            "en-US": "Chapter XV. How charity contains in it the gifts of the Holy Ghost.",
+            "pt-BR": "Capítulo XV. Como a caridade compreende em si os dons do Espírito Santo"
           }
         },
         {
           "id": "book-xi-chapter-xvi",
           "title": {
             "fr-FR": "Chapitre XVI. De la crainte amoureuse des espouses : suite du discours commencé",
-            "en-US": "Chapter XVI. Of the loving fear of spouses; A continuation of the same subject."
+            "en-US": "Chapter XVI. Of the loving fear of spouses; A continuation of the same subject.",
+            "pt-BR": "Capítulo XVI. Do temor amoroso das esposas: continuação do discurso começado"
           }
         },
         {
           "id": "book-xi-chapter-xvii",
           "title": {
             "fr-FR": "Chapitre XVII. Comme la crainte servile demeure avec le divin amour",
-            "en-US": "Chapter XVII. How servile fear remains together with holy love."
+            "en-US": "Chapter XVII. How servile fear remains together with holy love.",
+            "pt-BR": "Capítulo XVII. Como o temor servil permanece com o divino amor"
           }
         },
         {
           "id": "book-xi-chapter-xviii",
           "title": {
             "fr-FR": "Chapitre XVIII. Comme l’amour se sert de la crainte naturelle, servile et mercenaire",
-            "en-US": "Chapter XVIII. How love makes use of natural, servile and mercenary fear."
+            "en-US": "Chapter XVIII. How love makes use of natural, servile and mercenary fear.",
+            "pt-BR": "Capítulo XVIII. Como o amor se serve do temor natural, servil e mercenário"
           }
         },
         {
           "id": "book-xi-chapter-xix",
           "title": {
             "fr-FR": "Chapitre XIX. Comme l’amour sacré comprend les douze fruitz du Saint Esprit avec les huit béatitudes de l’Evangile",
-            "en-US": "Chapter XIX. How sacred love contains the twelve fruits of the Holy Ghost, together with the eight beatitudes of the Gospel."
+            "en-US": "Chapter XIX. How sacred love contains the twelve fruits of the Holy Ghost, together with the eight beatitudes of the Gospel.",
+            "pt-BR": "Capítulo XIX. Como o amor sagrado compreende os doze frutos do Espírito Santo com as oito bem-aventuranças do Evangelho"
           }
         },
         {
           "id": "book-xi-chapter-xx",
           "title": {
             "fr-FR": "Chapitre XX. Comme le divin amour employé toutes les passions et affections de l’ame et les réduit a son obéissance",
-            "en-US": "Chapter XX. How divine love makes use of all the passions and affections of the soul, and reduces them to its obedience."
+            "en-US": "Chapter XX. How divine love makes use of all the passions and affections of the soul, and reduces them to its obedience.",
+            "pt-BR": "Capítulo XX. Como o divino amor emprega todas as paixões e afeições da alma e as reduz à sua obediência"
           }
         },
         {
           "id": "book-xi-chapter-xxi",
           "title": {
             "fr-FR": "Chapitre XXI. Que la tristesse est presque tous-jours inutile, ains contraire au service du saint amour",
-            "en-US": "Chapter XXI. That sadness is almost always useless, yea contrary to the service of holy love."
+            "en-US": "Chapter XXI. That sadness is almost always useless, yea contrary to the service of holy love.",
+            "pt-BR": "Capítulo XXI. Que a tristeza é quase sempre inútil, e até contrária ao serviço do santo amor"
           }
         }
       ]
@@ -1395,98 +1587,112 @@
       "id": "book-xii",
       "title": {
         "fr-FR": "Livre XII. Contenant quelques advis pour le progrès de l’ame au saint amour",
-        "en-US": "Book XII. Containing certain counsels for the progress of the soul in holy love."
+        "en-US": "Book XII. Containing certain counsels for the progress of the soul in holy love.",
+        "pt-BR": "Livro XII. Que contém alguns avisos para o progresso da alma no santo amor"
       },
       "children": [
         {
           "id": "book-xii-chapter-i",
           "title": {
             "fr-FR": "Chapitre I. Que le progrès au saint amour ne dépend pas de la complexion naturelle",
-            "en-US": "Chapter I. That our progress in holy love does not depend on our natural temperament."
+            "en-US": "Chapter I. That our progress in holy love does not depend on our natural temperament.",
+            "pt-BR": "Capítulo I. Que o progresso no santo amor não depende da compleição natural"
           }
         },
         {
           "id": "book-xii-chapter-ii",
           "title": {
             "fr-FR": "Chapitre II. Qu’il faut avoir un désir continuel d’aymer",
-            "en-US": "Chapter II. That we are to have a continual desire to love."
+            "en-US": "Chapter II. That we are to have a continual desire to love.",
+            "pt-BR": "Capítulo II. Que é preciso ter um desejo contínuo de amar"
           }
         },
         {
           "id": "book-xii-chapter-iii",
           "title": {
             "fr-FR": "Chapitre III. Que pour avoir le désir de l’amour sacré il faut retrancher les autres désirs",
-            "en-US": "Chapter III. That to have the desire of sacred love we are to cut off all other desires."
+            "en-US": "Chapter III. That to have the desire of sacred love we are to cut off all other desires.",
+            "pt-BR": "Capítulo III. Que, para ter o desejo do amor sagrado, é preciso cortar os outros desejos"
           }
         },
         {
           "id": "book-xii-chapter-iv",
           "title": {
             "fr-FR": "Chapitre IV. Que les occupations légitimés ne nous empeschent point de prattiquer le divin amour",
-            "en-US": "Chapter IV. That our lawful occupations do not hinder us from practicising divine love."
+            "en-US": "Chapter IV. That our lawful occupations do not hinder us from practicising divine love.",
+            "pt-BR": "Capítulo IV. Que as ocupações legítimas não nos impedem de praticar o divino amor"
           }
         },
         {
           "id": "book-xii-chapter-v",
           "title": {
             "fr-FR": "Chapitre V. Exemple très amiable sur ce sujet 327 5io Traitté de l’Amour de Dieu",
-            "en-US": "Chapter V. A very sweet example on this subject."
+            "en-US": "Chapter V. A very sweet example on this subject.",
+            "pt-BR": "Capítulo V. Exemplo muito amável sobre este assunto"
           }
         },
         {
           "id": "book-xii-chapter-vi",
           "title": {
             "fr-FR": "Chapitre VI. Qu’il faut employer toutes les occasions présentés en la prattique du divin amour",
-            "en-US": "Chapter VI. That we are to employ in the practice of divine love all the occasions that present themselves."
+            "en-US": "Chapter VI. That we are to employ in the practice of divine love all the occasions that present themselves.",
+            "pt-BR": "Capítulo VI. Que é preciso empregar na prática do divino amor todas as ocasiões presentes"
           }
         },
         {
           "id": "book-xii-chapter-vii",
           "title": {
             "fr-FR": "Chapitre VII. Qu’il faut avoir soin de faire nos actions fort parfaitement",
-            "en-US": "Chapter VII. That we must take pains to do our actions very perfectly."
+            "en-US": "Chapter VII. That we must take pains to do our actions very perfectly.",
+            "pt-BR": "Capítulo VII. Que é preciso ter o cuidado de fazer as nossas ações muito perfeitamente"
           }
         },
         {
           "id": "book-xii-chapter-viii",
           "title": {
             "fr-FR": "Chapitre VIII. Moyen general pour appliquer nos œuvres au service de Dieu",
-            "en-US": "Chapter VIII. A general means for applying our works to God's service."
+            "en-US": "Chapter VIII. A general means for applying our works to God's service.",
+            "pt-BR": "Capítulo VIII. Meio geral para aplicar as nossas obras ao serviço de Deus"
           }
         },
         {
           "id": "book-xii-chapter-ix",
           "title": {
             "fr-FR": "Chapitre IX. De quelques autres moyens pour appliquer plus particulièrement nos œuvres a l’amour de Dieu",
-            "en-US": "Chapter IX. Of certain other means by which we may apply our works more particularly to the love of God."
+            "en-US": "Chapter IX. Of certain other means by which we may apply our works more particularly to the love of God.",
+            "pt-BR": "Capítulo IX. De alguns outros meios para aplicar mais particularmente as nossas obras ao amor de Deus"
           }
         },
         {
           "id": "book-xii-chapter-x",
           "title": {
             "fr-FR": "Chapitre X. Exhortation au sacrifice que nous devons faire a Dieu de nostre franc arbitre",
-            "en-US": "Chapter X. An exhortation to the sacrifice which we are to make to God of our free-will."
+            "en-US": "Chapter X. An exhortation to the sacrifice which we are to make to God of our free-will.",
+            "pt-BR": "Capítulo X. Exortação ao sacrifício que devemos fazer a Deus do nosso livre-arbítrio"
           }
         },
         {
           "id": "book-xii-chapter-xi",
           "title": {
             "fr-FR": "Chapitre XI. Des motifs que nous avons pour le saint amour",
-            "en-US": "Chapter XI. The motives we have of holy love."
+            "en-US": "Chapter XI. The motives we have of holy love.",
+            "pt-BR": "Capítulo XI. Dos motivos que temos para o santo amor"
           }
         },
         {
           "id": "book-xii-chapter-xii",
           "title": {
             "fr-FR": "Chapitre XII. Methode tres utile pour employer ces motifs",
-            "en-US": "Chapter XII. A most useful method of employing these motives."
+            "en-US": "Chapter XII. A most useful method of employing these motives.",
+            "pt-BR": "Capítulo XII. Método muito útil para empregar esses motivos"
           }
         },
         {
           "id": "book-xii-chapter-xiii",
           "title": {
             "fr-FR": "Chapitre XIII. Que le mont de Calvaire est la vraye academie de la dilection . 345 Diverses Approbations de la première Edition",
-            "en-US": "Chapter XIII. That Mount Calvary is the academy of love."
+            "en-US": "Chapter XIII. That Mount Calvary is the academy of love.",
+            "pt-BR": "Capítulo XIII. Que o monte Calvário é a verdadeira academia da dileção"
           }
         }
       ]
