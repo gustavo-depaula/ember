@@ -1,6 +1,326 @@
+# Diário de tradução — Sobre a Santíssima Trindade (pt-BR)
+
+Fonte: en-US/, tradução de Arthur West Haddan, Nicene and Post-Nicene Fathers, Primeira Série, vol. 3, edição de Philip Schaff, 1887; revisão e edição para New Advent por Kevin Knight.
+Destino: pt-BR.
+
+## Termos
+
+| Inglês | Português | Notas |
+|---|---|---|
+| On the Holy Trinity | Sobre a Santíssima Trindade | Título da obra. |
+| Augustine of Hippo | Agostinho de Hipona | Nome nos metadados; Santo Agostinho quando houver o título. |
+| Trinity | Trindade | |
+| Father / Son / Holy Spirit / Holy Ghost | Pai / Filho / Espírito Santo | As duas designações inglesas do Espírito recebem a mesma tradução. |
+| Word | Verbo | Designação pessoal do Filho. |
+| substance / essence | substância / essência | Conservada a distinção lexical do texto. |
+| of one and the same substance | de uma única e mesma substância | |
+| consubstantial / co-eternal | consubstancial / coeterno | |
+| very God / true God | verdadeiro Deus | “Very” tem valor de autenticidade, não de intensidade. |
+| only-begotten | unigênito | |
+| Godhead | Deidade | Distingue-se de “Divinity”, traduzido por “divindade”, onde o texto os contrapõe. |
+| unchangeableness / changeableness | imutabilidade / mutabilidade | |
+| creature / Creator | criatura / Criador | “Whole creature” pode designar coletivamente toda a criação. |
+| corporeal / incorporeal | corpóreo / incorpóreo | |
+| mind / soul / spirit | mente / alma / espírito | |
+| psychical | psíquico | Sentido paulino, esclarecido em nota. |
+| charity | caridade | |
+| righteousness of faith | justiça da fé | |
+| form of God / form of a servant | forma de Deus / forma de servo | Fórmulas centrais da argumentação cristológica. |
+| fashion | condição | No argumento sobre a humanidade de Cristo; mantido distinto de “form”. |
+| working | operação | Quando designa a ação divina comum ao Pai e ao Filho. |
+| Mediator | Mediador | |
+| contemplation / sight | contemplação / visão | |
+| blessedness | bem-aventurança | |
+| Aurelius / Carthage | Aurélio / Cartago | |
+| Pontius Pilate | Pôncio Pilatos | |
+| James / David / Philip | Tiago / Davi / Filipe | |
+| Retractations | Retratações | Obra de Agostinho. |
+| Song of Songs | Cântico dos Cânticos | |
+| our conversation is in heaven | nossa cidadania está nos céus | Segue a convenção registrada na obra irmã sobre o Sermão da Montanha. |
+| Comforter | Consolador | Designação do Espírito Santo. |
+| fruition / to enjoy God | fruição / fruir de Deus | Designa o gozo de Deus como fim da vida bem-aventurada. |
+| hypostasis / Theanthropic Person | hipóstase / Pessoa teândrica | Terminologia do título do capítulo 13. |
+| Lord of glory | Senhor da glória | |
+| justification / to justify / justifier | justificação / justificar / justificador | |
+| chief good | bem supremo | |
+| Martha / Mary / Judas / Abraham | Marta / Maria / Judas / Abraão | |
+| quick and dead | vivos e mortos | “Quick” tem aqui o sentido antigo de “vivos”. |
+| sending / to send | envio / enviar | Mantido como vocabulário comum à discussão do Filho e do Espírito Santo. |
+| God of God / Light of light | Deus de Deus / Luz da luz | Fórmulas que exprimem a origem do Filho. |
+| indivisible working | operação indivisível | Ação comum das pessoas da Trindade. |
+| corporeal creature | criatura corpórea | Meio criado das manifestações visíveis de Deus. |
+| only-begotten Son | Filho unigênito | |
+| Adam / Cain / Jacob / Isaac / Moses | Adão / Caim / Jacó / Isaac / Moisés | |
+| Sara / Mamre / Sodom | Sara / Mambré / Sodoma | |
+| economy / dispensation | economia / disposição | Ordenação dos meios da manifestação divina; conservado *dispensatio* onde a fonte o apresenta. |
+| back parts / face | costas / face | Mantida a oposição corporal que sustenta a interpretação de Êxodo. |
+| watchtower of the rock | torre de vigia da rocha | Conservada a imagem da edição inglesa, sem substituí-la por outra tradução bíblica. |
+| Ancient of Days | Ancião de Dias | Designação na visão de Daniel. |
+| Angel of Great Counsel | Anjo do Grande Conselho | Título cristológico citado do profeta. |
+| Lot / Jethro / Midian / Horeb | Ló / Jetro / Madiã / Horeb | |
+| Pascha / Passover / Passing by | Páscoa / passagem / passagem | Conservado *Pascha* na explicação lexical e *Pascha Domini* na fórmula latina. |
+| corporeal creature / spiritual creature | criatura corpórea / criatura espiritual | “Criatura” pode designar coletivamente a criação de determinada ordem. |
+| proximate cause / first cause | causa próxima / causa primeira | Distinção causal desenvolvida ao longo do Livro 3. |
+| hidden seeds | sementes ocultas | Princípios de formação presentes nos elementos; não apenas sementes vegetais. |
+| measure, number, and weight | medida, número e peso | Fórmula preservada nas citações e na argumentação. |
+| in and of itself | em si e por si | Mantida a formulação da edição inglesa na citação do Salmo e em sua explicação. |
+| efficient | causa eficiente | Aquilo que produz o efeito, na explicação do sinal da serpente. |
+| in the person of God | na pessoa de Deus | Representação de Deus na fala ou na ação de seu mensageiro. |
+| Apollos / Aaron / Elijah / Isaac | Apolo / Aarão / Elias / Isaac | Formas portuguesas dos nomes bíblicos. |
+| dispensation / disposition | dispensação / disposição | Preservada a distinção entre a dispensação divina adequada aos tempos e a disposição dos anjos na entrega da Lei. |
+| ministering spirits | espíritos servidores | Expressão da citação da Epístola aos Hebreus no §22. |
+| seed | descendência | No §26, preservada também a repetição explicativa entre colchetes da edição inglesa. |
+| Midian / Moriah / Mamre | Madiã / Moriá / Mambré | Formas portuguesas dos topônimos bíblicos. |
+| Word | Verbo | Designação do Filho; mantida a forma usada nas chamadas anteriores. |
+| form of a servant / form of God | forma de servo / forma de Deus | Fórmulas cristológicas. |
+| single / double | simples / duplo | Na razão numérica; “única” e “dupla” quando qualificam morte e ressurreição. |
+| senary number / ternary number | número seis / número três | Formas correntes, preservando a argumentação numérica. |
+| inner man / outer man, outward man | homem interior / homem exterior | Distinção paulina aplicada à alma e ao corpo. |
+| mystery / type | mistério / figura | Distinção recorrente na exposição da morte e da ressurreição de Cristo. |
+| co-adaptation | adaptação recíproca | Relação de correspondência e consonância entre as partes da criatura. |
+| Mediator of life / mediator of death | Mediador da vida / mediador da morte | Cristo e o diabo, respectivamente. |
+| monochord | monocórdio | Instrumento usado na demonstração de relações musicais. |
+| consubstantial | consubstancial | Termo relativo à unidade de natureza do Pai e do Filho. |
+| handwriting | cédula | Documento de dívida, na imagem do §17. |
+| mission / sending | missão / envio | “Missão” designa o envio do Filho ou do Espírito Santo; “envio” conforme a construção. |
+| co-eternal / coeternity | coeterno / coeternidade | Eternidade comum às pessoas divinas. |
+| beginning (*principium*) | princípio (*principium*) | No §29, designa o Pai como princípio de toda a divindade. |
+| brightness of the everlasting light | esplendor da luz eterna | Fórmula da argumentação sobre a igualdade do Filho com o Pai. |
+| emanation (*manatio*) | emanação (*manatio*) | Preservado o termo latino fornecido pela edição. |
+| rational or intellectual spirit | espírito racional ou intelectual | Distinção terminológica do §31; conservado *νοερόν*. |
+| memory, intellect, will | memória, intelecto, vontade | Tríade da comparação com a operação inseparável da Trindade. |
+| Amalek / Caiaphas / Zacharias | Amalec / Caifás / Zacarias | Formas portuguesas dos nomes bíblicos. |
+| substance / essence / οὐσία | substância / essência / *οὐσία* | Mantida a distinção vocabular discutida pelo autor, mesmo quando os termos são tratados como equivalentes. |
+| accident / accidental | acidente / acidental | Sentido filosófico: determinação que não constitui a substância; não significa acontecimento fortuito. |
+| according to substance / according to relation | segundo a substância / segundo a relação | Fórmulas recorrentes da discussão sobre os predicados divinos. |
+| begotten / unbegotten | gerado / ingênito | “Não gerado” quando o argumento explicita a negação contida em “ingênito”. |
+| begetter | aquele que gera | Preserva a relação verbal com “gerado”. |
+| predicament | categoria | Classes de predicação examinadas no capítulo 7. |
+| position / condition / action / passion | posição / condição / ação / paixão | Vocabulário das categorias; “paixão” significa receber ou sofrer uma ação. |
+| hypostasis / person | hipóstase / pessoa | Mantidas as diferenças terminológicas entre os usos grego e latino descritos nos capítulos 8–9. |
+| gift / a thing that has been given | dom / algo que foi dado | Distinção entre o dom eterno e sua doação no tempo. |
+| earnest | penhor | Garantia referida àquilo de que é penhor, no capítulo 12. |
+| Word / Image / Only-begotten | Verbo / Imagem / Unigênito | Designações do Filho. |
+| Arians / Sabellians | arianos / sabelianos | Formas portuguesas dos nomes dos grupos. |
+| Moses / Elias / cherubims | Moisés / Elias / querubins | Formas portuguesas dos nomes bíblicos. |
+| power / wisdom | poder / sabedoria | Atributos cuja predicação do Pai e do Filho é examinada neste livro. |
+| God of God / Light of Light | Deus de Deus / Luz de Luz | Fórmulas que exprimem a origem do Filho. |
+| courage / prudence / temperance / justice | fortaleza / prudência / temperança / justiça | Nomes das virtudes no argumento do §6; “strength of the body” permanece “força do corpo”. |
+| simple / manifold | simples / múltiplo | Vocabulário da discussão sobre a simplicidade divina e a composição das criaturas. |
+| threefold / triple / triplex | tríplice / tríplice / *triplex* | Mantida a distinção entre “Trindade” e “tríplice”; preservadas as formas latinas presentes na fonte. |
+| Hilary | Hilário | Autor de *Sobre a Trindade*, citado no capítulo 10. |
+| form / use / fruition | forma / uso / fruição | Termos da interpretação da fórmula de Hilário; “appearance” no argumento inicial foi traduzido por “aparência”. |
+| consubstantial / co-eternal | consubstancial / coeterno | Termos aplicados à comunhão do Pai e do Filho. |
+| essence / substance / person | essência / substância / pessoa | Preservadas as distinções terminológicas e a diferença entre os usos latino e grego examinadas no Livro 7. |
+| hypostases / prosopa | hipóstases / *prosopa* | “Hipóstases” recebe a forma portuguesa; preservada em itálico a transliteração grega *prosopa* citada no §11. |
+| relatively / in respect to Himself | em sentido relativo / em relação a si mesmo | Fórmulas da distinção entre predicação relativa e predicação segundo a essência. |
+| unbegotten / begotten | ingênito / gerado | Na oposição entre o Pai e o Filho; *born* também recebe “gerado” quando designa a geração divina. |
+| to subsist / subject | subsistir / sujeito | “Sujeito” no sentido filosófico de suporte de qualidades, especialmente no §10. |
+| genus / species / individual | gênero / espécie / indivíduo | Vocabulário lógico do exame dos nomes aplicados à Trindade. |
+| Sabellius | Sabélio | Nome do herege mencionado no §9. |
+| Abraham / Isaac / Jacob / Moses | Abraão / Isaac / Jacó / Moisés | Formas dos nomes bíblicos empregadas neste livro. |
+| natural man / phantasms | homem natural / fantasmas | No §11, “fantasmas” conserva o sentido filosófico de imagens mentais, explicado pelo próprio texto. |
+| Word / Gift | Verbo / Dom | Nomes relativos próprios, respectivamente, do Filho e do Espírito Santo. |
+| the image / after the image | a imagem / segundo a imagem | Preservada a distinção examinada no §12 entre a imagem igual e a imagem que se aproxima por semelhança. |
+| mind / soul | mente / alma | Distinção mantida no exame do conhecimento interior e da justiça. |
+| righteousness / righteous | justiça / justo | Inclui “mente justa”, “homem justo” e “forma imutável da justiça”. |
+| chief good / supreme good | bem supremo | “Unchangeable good”: “bem imutável”. |
+| love / charity / desire | amor / caridade / desejo | Preservada a distinção vocabular da fonte; no capítulo 7, “desejo” se contrapõe ao amor verdadeiro. |
+| special or general notion | noção específica ou genérica | “Específica” e “genérica” referem-se a espécie e gênero. |
+| form | forma | Particularmente a forma imutável da justiça, contemplada interiormente. |
+| Carthage / Alexandria / Bethany | Cartago / Alexandria / Betânia | Formas portuguesas dos topônimos. |
+| Geryon | Gerião | Personagem de três corpos mencionado no capítulo 2. |
+| knowledge / self-knowledge | conhecimento / conhecimento de si | Na tríade mente, conhecimento e amor. |
+| word / Word of God | verbo / Verbo de Deus | “Verbo” para a concepção interior da mente; “palavra” quando se trata da expressão verbal ou silábica. |
+| substance / essence | substância / essência | Mantida a distinção vocabular da fonte. |
+| substantially / relatively | substancialmente / relativamente | Modos de existência e de predicação no exame da tríade interior. |
+| subject | sujeito | Substrato de qualidades, no sentido filosófico. |
+| enjoy / enjoyment / use | fruir / fruição / usar, uso | Distinção entre fruir em Deus e usar as criaturas em ordem a Deus. |
+| offspring / beget / begetter | prole / gerar / aquele ou aquilo que gera | Vocabulário da geração do conhecimento e do verbo interior. |
+| species / privation | forma / privação | Nos capítulos 10–11, “species” designa a forma conhecida, contraposta à sua privação. |
+| knowable / lovable | cognoscível / amável | Possibilidade de ser conhecido ou amado, anterior ao ato correspondente. |
+| memory / understanding / will | memória / entendimento / vontade | Tríade examinada no Livro 10; preservado “inteligência” quando aparece como alternativa editorial entre colchetes. |
+| ability / learning / use | aptidão / saber / uso | Distinção do capítulo 11 entre capacidade, saber adquirido e emprego pela vontade. |
+| corporeal / incorporeal | corpóreo / incorpóreo | Na discussão da natureza da mente e das imagens sensíveis. |
+| imaginary phantasy | representação imaginária | Imagem mental pela qual se pensa uma coisa corpórea ausente. |
+| combination / tempering together | combinação / composição | Nas opiniões que fazem da alma uma disposição dos elementos do corpo. |
+| outer man / inner man | homem exterior / homem interior | Distinção que organiza a investigação do Livro 11. |
+| species | espécie | No contexto da percepção, forma ou aparência do objeto, recebida pelo sentido, pela memória ou pelo olhar da mente. |
+| informed / information of the sense | que recebe uma forma / formação do sentido | Preservado o sentido de receber uma forma, evitando a acepção corrente de transmissão de informações. |
+| mind’s eye | olhar da mente | Faculdade interior que recebe a forma conservada na memória. |
+| conception / concipient | pensamento / quem pensa | Na análise da recordação e da imaginação; corresponde ao campo de *cogitantis*, conservado no §16. |
+| phantasy | representação imaginária | Imagem interior de uma coisa corpórea. |
+| parent / offspring | progenitor / prole | Analogia da origem das formas; gênero de “progenitor” ajustado ao referente. |
+| blessedness | bem-aventurança | Fim último da vontade. |
+| Jacob | Jacó | Forma portuguesa do nome do patriarca. |
+| measure, number, weight | medida, número, peso | Tríade relacionada, respectivamente, à memória, à visão e à vontade no §18. |
+| wisdom / knowledge | sabedoria / ciência | Par técnico que distingue a contemplação das coisas eternas do conhecimento voltado à ação nas coisas temporais; “conhecimento” permanece nos usos gerais. |
+| higher reason / lower reason | razão superior / razão inferior | Funções distintas de uma única mente. |
+| eternal reasons | razões eternas | Princípios ou modelos inteligíveis, imutáveis, segundo os quais se julgam as coisas temporais. |
+| outer man / inner man | homem exterior / homem interior | Mantida a terminologia da passagem anterior. |
+| rational appetite | apetite racional | No §3, associado à razão na unidade da mente. |
+| help-meet | auxiliar que lhe corresponde | No §10, preservado o destaque em itálico da fonte. |
+| Plato / Pythagoras the Samian | Platão / Pitágoras de Samos | Formas portuguesas dos nomes e indicação de procedência. |
+| intellectual cognizance / rational cognizance | conhecimento intelectual / conhecimento racional | No §25, respectivamente das coisas eternas e das coisas temporais, associados à sabedoria e à ciência. |
+| knowledge / wisdom | ciência / sabedoria | Distinção entre o conhecimento das coisas temporais e a contemplação das eternas; “conhecimento” quando o termo não designa especificamente essa distinção. |
+| blessedness / blessed life | bem-aventurança / vida bem-aventurada | Empregados também na discussão filosófica sobre o fim desejado por todos. |
+| goodness of mind | bondade da mente | Mantém a oposição ao prazer do corpo nos capítulos 4–5. |
+| one in number / in kind | uno em número / em espécie | Distinção aplicada à fé dos crentes no §5. |
+| deserts / merits | méritos | “Maus merecimentos” quando o contexto indica merecimento de punição. |
+| Ennius / Zeno / Terence | Ênio / Zenão / Terêncio | Formas portuguesas dos nomes. |
+| Hortensius | Hortênsio | Título do diálogo de Cícero. |
+| righteousness / justice | justiça | Conserva-se o mesmo termo na oposição entre justiça e poder e na discussão da redenção. |
+| original sin | pecado original | Distinto dos pecados pessoais na transmissão da culpa e na redenção. |
+| practical knowledge / contemplative wisdom | ciência prática / sabedoria contemplativa | Explicitação da distinção entre ciência e sabedoria no encerramento do Livro 13. |
+| inner man / outer man | homem interior / homem exterior | Distinção aplicada às tríades da memória, do pensamento e da vontade. |
+| mental vision (*acies*) | olhar mental (*acies*) | Mantém-se o termo latino fornecido pela edição. |
+| Laodicea | Laodiceia | Forma portuguesa do topônimo. |
+| wisdom / knowledge | sabedoria / ciência | Na distinção entre o conhecimento das coisas divinas e o das coisas humanas; “conhecimento” permanece nos usos gerais. |
+| memory / intelligence / will | memória / inteligência / vontade | Fórmula da trindade da mente. |
+| understanding (*intellectus*) / notion (*notitia*) | entendimento (*intellectus*) / noção (*notitia*) | Distinção terminológica explicitada no §9. |
+| θεοσέβεια / εὐσέβεια | culto de Deus / piedade | Preservados também os termos gregos do §1, em itálico. |
+| prudence / fortitude / temperance | prudência / fortaleza / temperança | Nomes das virtudes, em continuidade com o Livro 13. |
+| Tullius / Cicero | Túlio / Cícero | Conservadas as duas designações do mesmo autor conforme o texto. |
+| Pythagoras / Ulysses / Virgil | Pitágoras / Ulisses / Virgílio | Formas portuguesas dos nomes. |
+| forethought | previsão | Na divisão da prudência em memória, entendimento e previsão. |
+| adventitious | adventício | Aquilo que sobrevém à mente, sem pertencer à sua presença originária a si mesma. |
+| New Academy | Nova Academia | Escola filosófica mencionada na crítica a Cícero no §26. |
+| contemplative wisdom | sabedoria contemplativa | Distinta da ciência; expressão central na conclusão do Livro 14. |
+| glass | espelho | No argumento sobre a visão de Deus por sua imagem; não “vidro”. |
+| word of the mind | palavra da mente | Distinta, pela inicial e pela formulação, do Verbo divino. |
+| enigma | enigma | No §15, espécie de alegoria caracterizada pela obscuridade. |
+| trope | tropo | Termo retórico; “tropical modes of speech” foi vertido como “modos figurados de expressão”. |
+| Hilary | Hilário | Bispo citado no resumo do Livro 6. |
+| Academic philosophy / Academics | filosofia acadêmica / acadêmicos | Designa a tradição filosófica cética discutida no capítulo 12. |
+| articulate sound | som articulado | Distinto da palavra interior, anterior ao som e ao pensamento do som. |
+| formable / formless | formável / informe | Preserva a distinção entre poder receber forma e não ter forma. |
+| Gift of God | Dom de Deus | Designação especial do Espírito Santo; “dom de Deus” em emprego genérico. |
+| love / charity | amor / caridade | Mantida a dupla denominação onde o texto explicita que se trata da mesma coisa. |
+| memory / understanding / will | memória / inteligência / vontade | Tríade das faculdades da mente empregada na imagem da Trindade. |
+| generation / procession | geração / procedência | Distinção entre o nascimento do Filho e a procedência do Espírito Santo. |
+| unbegotten | ingênito | No §47, designação exclusiva do Pai, que não procede de outro. |
+| Eunomius / Eunomians | Eunômio / eunomianos | Nome do herege e de seus seguidores. |
+| glass | espelho | Na imagem paulina da visão indireta de Deus. |
+| Divinity / Deity | Divindade / Deidade | Preservada a distinção vocabular expressa no §43. |
 
 ## Decisões
 
+- Preservados os 31 blocos fornecidos, incluindo o bloco epistolar com sua saudação e corpo; a numeração autoral dos §§1–17 foi convertida em texto negrito inerte.
+- Na carta a Aurélio, adotado “tu” para o destinatário singular, inclusive “tua Reverência”. Nas súplicas dirigidas a Deus e a Cristo, empregado “vós”; no diálogo de Cristo com Filipe, distinguido o plural “convosco” do singular “conheceste”.
+- Acrescentada a nota [^1] à saudação da carta para esclarecer o emprego antigo de “papa” como tratamento de um bispo de Cartago.
+- Acrescentada a nota [^2] no §3 para esclarecer o sentido paulino de “psíquicos”, evitando a leitura psicológica corrente.
+- A abreviatura editorial inglesa “viz.” foi vertida por “isto é” ou por pontuação explicativa; os termos gregos do §13 foram conservados integralmente e postos em itálico.
+- No §13, conservada a alternância entre “servir” e “adorar”, inclusive nas variantes das cópias latinas citadas pelo autor.
+- Nos §§14–15, “fashion” foi traduzido por “condição”, mantendo a distinção em relação a “forma”, necessária ao encadeamento do argumento.
+- No §14, “both is God and both is man” foi traduzido por “ambas juntas são Deus e ambas juntas são homem”, referindo “ambas” às formas de Deus e de servo reunidas no mesmo Filho.
+- No §16, conservada a expressão técnica “economia de semelhanças”, juntamente com a explicação que o próprio texto fornece.
+- As citações bíblicas seguem a redação da fonte, sem acréscimo de referências ausentes. Conservados também os verbos “servir” e “adorar”, as preposições “dele, por ele e nele” e a imagem do espelho.
+- Em book.json, acrescentadas somente as entradas localizadas de nome, autor e títulos do sumário, além de pt-BR em languages. A descrição bibliográfica de sources permanece como fornecida, pois é uma cadeia de texto da fonte, não um campo de traduções por idioma.
+- Preservados os 20 blocos-fonte desta chamada, com os títulos dos capítulos 9–13 nos mesmos níveis; o §23 permanece no mesmo parágrafo do §22, conforme a fonte.
+- Acrescentada a nota [^3] no §26 para esclarecer a identidade lexical inglesa entre “palavra” e “Verbo”, necessária ao encadeamento do argumento.
+- Conservados em colchetes os esclarecimentos editoriais da fonte, inclusive os relativos à substância no §20 e às formas encarnada e não encarnada no §28.
+- No §20, mantida a expressão incomum “a natureza carnal de minha alma”, acompanhando a redação inglesa sem corrigir por conjectura o termo da comparação.
+- No §31, “Why do you ask me about good?” foi traduzido por “Por que me perguntas acerca do bem?”, conservando essa redação específica da citação e de suas repetições no argumento.
+- Preservados os 33 blocos-fonte desta chamada, incluindo os títulos e os §§2–19; o prefácio permanece sem número, conforme a fonte.
+- “Of the Father” foi traduzido, conforme a construção, por “do Pai” ou “procede do Pai”; “nascer” e “ser gerado” foram reservados às formulações correspondentes da fonte.
+- No §7, eliminada apenas a duplicação tipográfica de “forth” em “come forth forth”.
+- No §11, preservada a distinção entre “palavra na carne” e “Verbo feito carne”, em continuidade com a explicação lexical da nota [^3] do livro anterior.
+- No §14, mantida sem correção conjectural a afirmação de que os adversários acreditavam ser o Verbo como a alma quanto à invisibilidade, apesar da tensão com a caracterização anterior de sua posição.
+- No §18, conservada a expressão “pessoa dessa Trindade”, conforme a formulação da fonte.
+- Acrescentada a nota [^4] no §19 para situar Mambré geograficamente.
+- Preservados os 25 blocos-fonte desta chamada, incluindo os títulos; mantida a repetição do número **26.** no capítulo 16, seguida de **28.**, sem corrigir a numeração da edição.
+- Acrescentada a nota [^5] no §23 para esclarecer o sentido teológico de “economia”.
+- Conservadas as formulações peculiares das citações, incluindo “viu os trovões” (§25), “torre de vigia da rocha” (§28) e “minha umidade” (§31), sem ajustá-las a versões bíblicas correntes.
+- No §29, mantida “a recompensa de nossa fé é a ressurreição do corpo de nosso Senhor”, conforme a fonte, sem substituição conjectural de “recompensa”.
+- Nas falas de Ló dirigidas ao Senhor no singular, adotado o tratamento reverente “vós”; nas ordens dirigidas a Ló e a Moisés, mantido “tu”.
+- Preservados os 39 blocos-fonte desta chamada, incluindo os títulos e os parágrafos sem numeração autoral que continuam o argumento após um título; acrescentadas separadamente duas definições de notas do tradutor.
+- Mantidas as abreviaturas latinas em itálico *viz*. e *e.g.*, conforme a fonte.
+- Acrescentada a nota [^6] no §13 para esclarecer o alcance técnico de “sementes ocultas”, sem alterar as concepções antigas de geração dos seres presentes no texto.
+- Acrescentada a nota [^7] no §20 para esclarecer “causa eficiente” na explicação da serpente como sinal da morte.
+- No §20, conservado “mais difíceis e mais conhecidas”, conforme o inglês fornecido, apesar da aparente tensão com a frase seguinte; não se introduziu a emenda conjectural “menos conhecidas”.
+- No §12, conservada a identificação dos “piolhos” da terceira praga como “mosquinhas de vida muito breve”, sem harmonizá-la com outras versões bíblicas.
+- No §25, mantidas as fórmulas “O Senhor viu” e “No monte o Senhor foi visto”, pois a argumentação depende da passagem entre ver, fazer-se ver e ser visto; não foram substituídas por fórmulas bíblicas usuais com “prover”.
+- No §26, preservadas a atribuição de “foi ordenada” à “descendência”, explicitada entre colchetes na fonte, e a expressão “não nasceu em limitação, mas em poder”, sem harmonizá-las com outras traduções bíblicas ou emendá-las.
+- Preservados os seis parágrafos-fonte desta chamada, com a numeração autoral de 22 a 27.
+- Preservados os 34 parágrafos-fonte desta chamada, incluindo os títulos, o argumento inicial e a ausência de numeração autoral no parágrafo que continua o §12 após o título do capítulo 9.
+- Mantidos o fragmento latino isolado *Donavit*, depois de Romanos 5:8-10, e a repetição “naquele ano, naquele ano” no §7, tal como aparecem na fonte.
+- Conservadas as formas gregas *ἁρμονία* e *τελεταί* em itálico, sem acrescentar traduções ao texto corrido.
+- Acrescentada a nota do tradutor `[^1]` para explicar o monocórdio e a relação da razão de um para dois com a oitava musical.
+- Acrescentada a nota do tradutor `[^2]` para esclarecer a imagem da cédula como documento de dívida.
+- No §10, “figure” e “type”, usados lado a lado, foram traduzidos por “figura” e “modelo”, respectivamente, preservando a distinção vocabular local.
+- Preservados os 24 parágrafos-fonte, incluindo os títulos e a continuação sem número autoral do §30 após o título do capítulo 21.
+- Acrescentada a nota do tradutor `[^3]` para explicar o sentido de “anjo” como “mensageiro” na aplicação do termo ao Filho no §27.
+- No §25, a construção defeituosa “one would not be bound to, the sending away of many” foi vertida como “não se estaria ligado a um só mediante o afastamento de muitos”, conservando a oposição entre um e muitos.
+- Corrigidos na tradução dois lapsos evidentes da fonte: “profiled” foi entendido como “progrediram” no §21; “invisible letters” como “em letras visíveis” na continuação do §30, em referência às letras escritas que ocupam lugares separados.
+- No §26, “with you” foi traduzido por “convosco”, dirigido ao grupo dos discípulos, seguido de “não me conheces, Filipe”, dirigido ao discípulo singular.
+- Preservados os 36 parágrafos-fonte, incluindo os títulos e a continuação sem número autoral do §10 após o título do capítulo 9; acrescentada apenas a definição da nota do tradutor.
+- Acrescentada a nota do tradutor `[^1]` no §8 para esclarecer “categoria”, “paixão” e “condição” no vocabulário filosófico empregado pelo autor.
+- No §8, conservados em itálico os exemplos latinos, inclusive as formas cuja ausência no uso da língua fundamenta o argumento: *infilius* e *invicinus*.
+- “Born” foi vertido por “nascer”, distinguindo-o de “begotten”, “gerado”; no §6, conservado o esclarecimento latino [*natus*] e a afirmação do nascimento “desde sempre”.
+- No §14, “Who are You?” foi vertido por “Quem sois vós?”, como tratamento reverente ao Filho; o “you” de sua resposta foi vertido por “vos”, dirigido aos interlocutores.
+- Corrigidos dois lapsos evidentes da fonte: “to being now” foi entendido como “para começar agora” no §4; “when they are converted and find them” como “quando se convertem e o encontram” no §17, tendo Deus como referente.
+- No §12, reorganizada a oração sobre o nome comum ao Pai e ao Filho para explicitar seu sentido: “o dom de ambos é chamado Espírito Santo”.
+- Preservados os 26 parágrafos-fonte, inclusive as continuações sem número autoral após os títulos dos capítulos 7 e 8; acrescentada apenas a definição da nota do tradutor.
+- Acrescentada a nota do tradutor `[^1]` no §11 para esclarecer o sentido de “uso” na fórmula de Hilário a partir da explicação dada pelo próprio Agostinho.
+- No §10, distinguido “o Pai, por si só” de “o único Deus”, conforme a função de “alone” no argumento; preservada a interrogação sobre a atribuição do nome Deus a cada pessoa e às três conjuntamente.
+- Mantidos “animal [pessoa]” no §4 e os esclarecimentos editoriais entre colchetes nos §§7 e 12; as abreviações explicativas foram traduzidas.
+- No §11, desfeita a construção negativa inglesa “and not rather” como “antes”, preservando o argumento de que as criaturas foram feitas porque Deus as conhece imutavelmente.
+- Preservados os 19 parágrafos-fonte desta chamada, inclusive o argumento inicial e os seis títulos de capítulos; acrescentada apenas a definição da nota do tradutor.
+- No §7, “God is more truly thought than He is altered” foi traduzido como “Deus é pensado com mais verdade do que é expresso”: “altered” foi tratado como lapso por “uttered”, conforme a oposição imediata entre linguagem, pensamento e existência.
+- No §10, mantida a leitura “mutáveis” de “changeable”; acrescentada a nota do tradutor `[^1]` para assinalar que o argumento precedente leva a esperar “imutáveis”, sem corrigir silenciosamente a fonte.
+- No §10, “by the more usual name” foi ligado a “substância”, nome apresentado como usual, conservando “essência” como a designação própria; “For He is truly alone” foi entendido como “Pois só ele verdadeiramente é”, em continuidade com a explicação de essência e a citação do nome divino.
+- No §11, distinguidos “da mesma essência” e “feitas da mesma essência” para conservar a diferença entre comunidade de essência e composição a partir de uma matéria.
+- Mantidos os esclarecimentos editoriais entre colchetes e traduzidas as abreviações explicativas; conservados em itálico os termos latinos citados.
+- Mantidas as glosas editoriais entre colchetes que aproximam “verdadeiro” de “real” e “verdade” de “realidade”.
+- Traduzido “the good good” por “o bem bom”, preservando a repetição deliberada que distingue o próprio bem das coisas boas.
+- Acrescentada a nota do tradutor [^1] no §9 para explicar que a contagem de duas sílabas corresponde ao inglês “Carthage”; mantidas no texto a contagem e a referência ao dissílabo da edição-fonte.
+- Preservada a ausência de numeração no prefácio e no primeiro parágrafo do capítulo 5, conforme o trecho recebido.
+- Mantida a distinção entre “desejo” (*cupiditas*) e “amor” (*charitas*) no capítulo 8; “concupiscência” traduz “lust” na citação do capítulo 9.
+- Acrescentada a nota do tradutor [^2] no §5 para esclarecer o sentido filosófico de “sujeito”.
+- Acrescentada a nota do tradutor [^3] no §14 para explicar a aproximação entre *parta*, *reperta* e *comperta*, preservando as formas latinas no texto.
+- Traduzido “taking counsel” no §11 por “cuidar”, com explicitação contextual como “procurar os meios para que seja bom”, distinguindo esse propósito da fruição de quem se julgava já ser bom.
+- Preservada a ausência de numeração no primeiro parágrafo do capítulo 8, que continua o §13 iniciado no capítulo anterior.
+- Mantida a distinção entre conhecer a si mesma e pensar em si mesma, central à argumentação do Livro 10.
+- No §2, preservada a expressão “forma desconhecida” da fonte inglesa, embora o contexto fale de uma forma conhecida que suscita o desejo de conhecer o que falta.
+- Acrescentada a nota do tradutor [^4] no §10 para esclarecer o sentido antigo de “invenção” como descoberta e o jogo etimológico de *invenire* com a ideia de chegar àquilo que se busca.
+- Preservado como parágrafo separado, sem numeração, o trecho sobre a quinta espécie de corpo que continua o §9.
+- No título do capítulo 3, interpretado “Ternal Vision” como erro tipográfico por “Internal Vision”, traduzindo “visão interior”, conforme o conteúdo do §6.
+- Acrescentada a nota do tradutor [^5] no §4 para esclarecer o sentido técnico de “espécie”.
+- Acrescentada a nota do tradutor [^6] no §10 para esclarecer a alusão aos salmos graduais e a imagem dos degraus.
+- No §6, preservada a formulação da fonte “mesmo quando pensamos nisso a partir de outra fonte”, sem substituí-la pela ideia de pensar em outra coisa.
+- Preservado como parágrafo separado e sem numeração o trecho inicial do capítulo 8, que continua a discussão do §12.
+- Mantidas as explicações antigas sobre os raios dos olhos, as mudanças de cor do camaleão e a influência das imagens maternas sobre as crias, sem atualização do conteúdo.
+- No §17, preservadas as afirmações da fonte sobre ninguém ter visto um cisne negro e sobre a divisibilidade infinita dos átomos, sem atualizar seu conteúdo.
+- No §2, acrescentada a nota do tradutor [^1] para esclarecer o sentido técnico de “razões”.
+- No §11, “nephews” foi traduzido por “netos”, conforme seu sentido antigo no contexto da passagem sobre a viúva.
+- No §11, preservada a grafia grega *ξωή* da fonte; a nota do tradutor [^2] informa a forma usual *ζωή* e esclarece o sentido de *βίος* no argumento.
+- No §11, “hidden sacrament” foi traduzido por “mistério oculto”, em referência ao significado figurado da passagem.
+- Nos §§7–8, preservadas as formulações incomuns das citações e as alternativas de pontuação discutidas pelo autor, pois o argumento depende delas.
+- No Livro 13, §2, “through him”, no testemunho de João, foi traduzido por “por meio dele”, com inicial minúscula, conforme a referência a João e a repetição da passagem no §4.
+- Acrescentada a nota do tradutor [^1] no §4 para explicar os significados de *mundus* e *crediderunt* e esclarecer que a contagem de sílabas se refere ao latim.
+- Na sentença de Terêncio, preservou-se o tratamento singular: “queres”, “quer”, “podes”.
+- Acrescentada a nota do tradutor [^2] no §14 para esclarecer que “nossa língua” designa o latim e que a observação lexical trata de *salvator*.
+- Acrescentada a nota do tradutor [^3] no §17 para explicar os sentidos de *secundus* e sua relação com *sequi*, indispensáveis ao argumento sobre o poder que deve seguir a justiça.
+- No §21, “atonement” foi traduzido por “reconciliação”, conforme a repetição e a explicação do termo no próprio parágrafo.
+- No §25, “this faith be limited in Christ” foi traduzido por “essa mesma fé […] se circunscreva a Cristo”, preservando a delimitação expressa pela edição inglesa.
+- No Livro 14, §1, “learning” foi traduzido por “disciplina” para preservar a passagem entre instrução e correção; a nota do tradutor [^4] explica a relação entre *disciplina* e *discere*.
+- Acrescentada a nota do tradutor [^5] no §12 para identificar Túlio com Cícero e esclarecer a conservação fragmentária do diálogo *Hortênsio*.
+- No §12, “lasts” foi entendido como erro tipográfico por “lusts” e traduzido por “desejos”, conforme a referência à função da temperança.
+- Conservada a formulação “capaz de Deus” e suas variantes pronominais para expressar a capacidade da mente de participar dele.
+- No §16, “are moved” foi traduzido por “somos movidos”, preservando a voz passiva da citação e de sua explicação.
+- Acrescentada a nota do tradutor [^6] no §22 para esclarecer a amplitude semântica de *spiritus*, que permite incluir o vento entre os sentidos de “espírito”.
+- Nos §§22–23, “formed again” e “forming again” foram traduzidos por “formado de novo” e “nova formação”, preservando a relação com formar, deformar e renovar a imagem de Deus.
+- No §26, “sentiment”, na citação de Cícero, foi traduzido por “sensibilidade”, em referência à faculdade de sentir cuja mortalidade se considera; na avaliação posterior de Agostinho, por “opinião”.
+- No §14, conservaram-se em itálico os termos latinos *speculantes*, *speculum* e *specula*. A explicação do próprio texto esclarece a diferença entre espelho e torre de vigia, dispensando nota adicional.
+- No §15, manteve-se “A sanguessuga tinha três filhas”, conforme a redação da fonte, sem ajustar a citação a outra versão bíblica.
+- No §17, “knowledge” foi traduzido por “conhecimento” em sentido abrangente e por “ciência” quando designa especificamente o conhecimento ativo, distinto da sabedoria contemplativa.
+- Nos §§25–26, preservou-se a distinção entre “formável”, “formado”, “informe” e “não formado”, central à comparação entre a palavra humana e o Verbo.
+- No §29, “principally” foi vertido como “principalmente”, conservando o termo que o próprio autor introduz e explica a respeito da procedência do Espírito Santo.
+- Nos §§30–31, “universally” foi vertido como “em sentido geral”, em oposição ao emprego especial de um nome.
+- No §34, mantiveram-se as formulações distintas “recebestes dons nos homens” e “deu dons aos homens”, pois o argumento interpreta conjuntamente a recepção e a doação dos dons por Cristo.
+- No §38, “willingly or unwillingly” foi traduzido por “querendo ou sem querer”, preservando a ligação explícita do dilema com a vontade.
+- No §47, preservou-se a distinção entre não ser gerado e receber a designação de “ingênito”, pois o autor reserva esta última ao Pai.
+- Na conversa com a samaritana (§33), Jesus se dirige à mulher por “tu”, e ela se dirige ao Senhor por “vós”.
 - No §50, a interpelação à própria alma mantém “tu”; no §51, a oração a Deus mantém “vós”, preservando “tu” nas citações dirigidas a Israel e a um destinatário singular.
 - No §50, “to desire, or even to enjoy will” foi vertido por “desejar ou mesmo fruir pela vontade”, explicitando a função da vontade no contraste com a contemplação pelo pensamento.
 - No título do capítulo 28, “apology” foi traduzido por “justificativa”, pois introduz a defesa do uso de muitas palavras.

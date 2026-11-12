@@ -1,6 +1,200 @@
+# Diário de tradução — Comentário aos Meteorológicos (pt-BR)
+
+Fonte: la/, texto latino das edições Leonina / Marietti, reproduzido de aquinas.cc, conforme book.json.
+Destino: pt-BR.
 
 ## Termos
 
+| Latim | Português | Notas |
+|---|---|---|
+| Sententia super Meteora / Meteorologicorum | Comentário aos Meteorológicos / Meteorológicos | Título do comentário / título da obra comentada. |
+| Sanctus Thomas Aquinas | São Tomás de Aquino | Forma portuguesa do nome do autor. |
+| lectio | lição | Cabeçalhos e títulos do sumário. |
+| philosophus | o Filósofo | Aristóteles, quando designado por esse título. |
+| scientia naturalis | ciência natural | Mantida a unidade da disciplina no quadro aristotélico. |
+| Physicorum | Física | Convenção recebida do comentário ao De Anima. |
+| De caelo et mundo / De caelo | Sobre o céu e o mundo / Sobre o céu | Mantida a forma breve quando o original a emprega. |
+| De generatione | Sobre a geração | Mantida a forma breve do título citada no original. |
+| materia prima | matéria primeira | Convenção do comentário ao Sobre o céu e o mundo. |
+| qualitates primae tangibiles | qualidades primeiras tangíveis | Convenção do comentário ao Sobre o céu e o mundo: calor, frieza, umidade e secura. |
+| calidum / frigidum / humidum / siccum | quente / frio / úmido / seco | Qualidades substantivadas. |
+| caliditas / frigiditas / humiditas / siccitas | calor / frieza / umidade / secura | |
+| potentia / actus | potência / ato | |
+| simpliciter / secundum quid | em sentido absoluto / sob certo aspecto | |
+| virtus | virtude | Capacidade ou eficácia natural, sem sentido moral nesses contextos. |
+| causa movens / causa materialis | causa motora / causa material | |
+| agens / patiens | agente / paciente | Também “agir” e “padecer”, conforme a construção. |
+| subiectum | sujeito | Aquilo que recebe uma determinação ou sofre uma ação. |
+| transmutatio | transmutação | Termo recorrente da filosofia natural. |
+| generatio / corruptio | geração / corrupção | |
+| passio | afecção | Modificação ou condição de um corpo ou de um sentido. |
+| corpus mixtum / mixtum | corpo misto / misto | |
+| latio | translação | Deslocamento local, especialmente dos corpos celestes. |
+| motus circularis / motus rectus | movimento circular / movimento retilíneo | |
+| medium | centro; meio | “Centro” nas indicações cosmológicas; “meio” quando contraposto a “extremo”. |
+| continuum / contiguum | contínuo / contíguo | Conservada a distinção e a explicação do próprio comentário. |
+| primum elementum / primum corpus | primeiro elemento / primeiro corpo | Corpo celeste. |
+| quinta essentia | quinta essência | |
+| aether | éter | |
+| lacteus circulus / Galaxia | círculo lácteo / Galáxia | Via Láctea. |
+| lac / phantasia lactis | Via Láctea / aparição da Via Láctea | Identificação astronômica dada pelo próprio comentário. |
+| phantasma | fantasma | Convenção do comentário ao De Anima; aqui, aparição visível, conforme a glosa do autor. |
+| stellae cadentes / discursus astrorum | estrelas cadentes / rastros das estrelas cadentes | |
+| stellae errantes | astros errantes | Designação antiga dos planetas. |
+| vapor / exhalatio | vapor / exalação | Conservada a distinção entre o úmido e o seco. |
+| disgregatio / rarefactio | desagregação / rarefação | |
+| inspissatio / condensatio / coagulatio | adensamento / condensação / coagulação | |
+| spiritus | sopro; vento | “Sopro” quando o comentário explicita a glosa “isto é, vento”. |
+| typho / sipho | tufão / sifão | Nomes dos fenômenos giratórios no texto. |
+| iris / halo | arco-íris / halo | |
+| reverberatio / reflexio | reflexão | Raios que retornam após atingir a terra ou outro corpo. |
+| astrologicus | astronômico | Refere-se aqui ao estudo matemático dos astros. |
+| Anaxagoras | Anaxágoras | Convenção do comentário ao De Anima. |
+| Empedocles | Empédocles | |
+| Saturnus / Iuppiter / Mars / Venus / Mercurius | Saturno / Júpiter / Marte / Vênus / Mercúrio | |
+| dali / dalus / titio | *dali* / *dalus* / tição | Mantidas as transliterações gregas quando acompanhadas de glosa. |
+| aeges / capra | *aeges* / cabra | Nome de um fenômeno cuja cintilação é comparada aos saltos das cabras. |
+| hypeccauma / hyppeccauma | *hypeccauma* / *hyppeccauma* | Matéria de combustão; conservadas as duas grafias quando o termo é reproduzido. |
+| hiatus / bothyni / vorago | fenda / *bothyni* / abismo | Preservada a transliteração grega quando o comentário a explica. |
+| puniceus / purpureus | escarlate / púrpura | Conservadas também as glosas “vermelho” e “avermelhado”. |
+| coma / cometa / pogonias | cabeleira / cometa / *pogonias* | *Pogonias* recebe a glosa “barbado” do próprio comentário. |
+| symphasis | *symphasis* | “Aparição conjunta”, conforme a glosa do comentário. |
+| subdeficere | atrasar-se; ficar para trás | Atraso aparente em relação ao primeiro movimento ou ao sol. |
+| refractio / repercussio | refração / reflexão | Conservada a diferença verbal do texto, inclusive na exposição da teoria antiga da visão. |
+| secundum diametrum | segundo a diagonal | Nos movimentos compostos; o próprio texto explica “obliquamente”. |
+| circulus animalium / zodiacus | círculo dos animais / zodíaco | Preservada a glosa que identifica as duas expressões. |
+| Democritus / Hippocrates Chius / Aeschylus | Demócrito / Hipócrates de Quios / Ésquilo | |
+| Achaia / Corinthus / Aegis fluvii | Acaia / Corinto / Egospótamos | |
+| Molon / Astius / Nicomachus | Molão / Ástio / Nicômaco | Governantes citados na datação dos fenômenos. |
+| Gamelion | gamélion | Nome do mês; mantida a equivalência cronológica dada pelo comentário. |
+| Canis / Gemini / zona Orionis | Cão / Gêmeos / cinturão de Órion | Nomes e figuras celestes. |
+| Cancer / Capricornus | Câncer / Capricórnio | |
+| Boreas / Auster | Bóreas / Austro | Nomes dos ventos; em indicações geográficas simples, “norte” e “sul”. |
+| lacteus circulus / lac / Galaxia | círculo lácteo / leite / Via Láctea | Conservada a designação literal “leite” no texto comentado. |
+| Anaxagoras / Phaeton | Anaxágoras / Faetonte | |
+| Delphis / constellatio delphini | *Delphis* / constelação do Golfinho | Mantida a forma citada quando seguida da explicação do comentário. |
+| sporadicae | esporádicas | Conservada a glosa “semeadas”. |
+| vapor / nubes / caligo nebulae | vapor / nuvem / névoa | |
+| ros / pruina / nix / grando | orvalho / geada / neve / granizo | |
+| psecades / ephemeros / labroterae | *psecades* / *ephemeros* / *labroterae* | Transliterações conservadas; mantidas as glosas do comentário. |
+| antiperistasis | antiperístase | Concentração de uma qualidade pela ação da qualidade contrária que a circunda, conforme a explicação do texto. |
+| Pontus / Arabia / Aethiopia | Ponto / Arábia / Etiópia | |
+| Astrologia / astrologi | astronomia / astrônomos | Estudo dos corpos e movimentos celestes no contexto destes capítulos. |
+| crystallus | gelo; *crystallus* quando acompanhado de glosa | No contexto da geração do granizo, designa água congelada. |
+| fluvius / flumen / fons | rio / rio / fonte | “Fonte” conserva o sentido de nascente no contexto hidrográfico. |
+| scaturigo | minação | Água que brota gradualmente do solo; conservada a distinção em relação à fonte já formada. |
+| rheumata | *rheumata* / correntes | Mantida a transliteração quando acompanhada de glosa no comentário. |
+| venter / vorago / receptaculum | cavidade / cavidade ou abismo / receptáculo | Termos referentes aos supostos reservatórios subterrâneos. |
+| perpetuus | perene; perpétuo | “Perene” para rios; “perpétuo” para a duração do mundo. |
+| status / senectus / virtus terrae | maturidade / velhice / capacidade da terra | Preservada a analogia com as idades dos seres vivos. |
+| atterratio / atterrari | acúmulo ou depósito de terra / receber depósitos de terra | Sedimentação que diminui a profundidade das águas. |
+| ortus hiemalis / ortus aestivalis / occasus aequinoctialis | nascente de inverno / nascente de verão / poente equinocial | Direções astronômicas antigas, explicadas na nota [^3]. |
+| Parnasus / Caucasus / Pyrenaeus / Hercynii / Rhipae | Parnaso / Cáucaso / Pireneu / Hercínios / Rifeus | Conservadas as atribuições geográficas do texto. |
+| Bactrus / Choaspes / Araxes / Tanais / Indus / Phasis | Bactro / Coaspes / Araxes / Tánais / Indo / Fásis | |
+| Ister / Tartessus / Aegon / Nysis / Chremetes | Istro / Tartesso / Egão / Nísis / Cremetes | |
+| Achelous / Inachus / Strymon / Nestus / Hebrus | Aqueloo / Ínaco / Estrimão / Nesto / Hebro | |
+| Pindus / Scombrus / Rhodope / Rhodanus | Pindo / Escombro / Ródope / Ródano | |
+| Maeotis Palus / Pontus Euxinus / Bosphorus | lago Meótis / Ponto Euxino / Bósforo | |
+| Deucalion / Sesostris / Darius | Deucalião / Sesóstris / Dario | |
+| Heracleae Columnae / columnae Herculis | Colunas de Hércules | |
+| mare Hyrcanum / Caspium / Ponticum | mar Hircano / Cáspio / Pôntico | Preservada a identificação presente na exposição, sem correção geográfica. |
+| mare Aegeum / Siculum / Sardonicum / Sardicum / Tyrrhenum | mar Egeu / Sículo / Sardônico / Sárdico / Tirreno | Mantidas as variantes Sardônico e Sárdico do original. |
+| salsedo / fluxibilis / stationarius | salinidade / corrente / parado | |
+| poetae theologi / philosophi naturales | poetas teólogos / filósofos naturais | |
+| Orpheus / Hesiodus / Homerus / Diogenes / Empedocles | Orfeu / Hesíodo / Homero / Diógenes / Empédocles | |
+| locus naturalis / locus proprius | lugar natural / lugar próprio | |
+| generatio / corruptio / ingenerabilis / incorruptibilis | geração / corrupção / ingenerável / incorruptível | Conservado o vocabulário técnico da filosofia natural. |
+| principium / terminus | princípio / termo | Na exposição dos movimentos e do ciclo das águas. |
+| amaritudo / salsus / dulcis | amargor / salgado / doce | “Doce” conserva também o contraste físico com a água salgada. |
+| hypostasis / hypostasis alimenti | sedimento / *hypostasis alimenti* | Conservada a expressão latina quando acompanhada de glosa; aqui designa o resíduo depositado. |
+| superfluum / superfluitas | resíduo | No contexto da nutrição e das excreções. |
+| venter | ventre | No contexto animal; complementa o emprego hidrográfico de “cavidade” já registrado. |
+| calor innatus / calor naturalis | calor inato / calor natural | |
+| submultiplex | submúltiplo | Conservada a explicação matemática do comentário. |
+| Heraclitus / Plato / Democritus / Aesopus | Heráclito / Platão / Demócrito / Esopo | |
+| Phaedo / Tartarus / Charybdis | Fédon / Tártaro / Caríbdis | |
+| Danubius / Nilus / mare Mediterraneum | Danúbio / Nilo / mar Mediterrâneo | |
+| salsedo / salsus sapor | salinidade / sabor salgado | |
+| aqua lata / aquae latiores | água salobra / águas mais salobras | No contexto das águas carregadas de matéria terrestre; conservadas as glosas do comentário sobre peso e salinidade. |
+| exhalatio vaporosa / exhalatio fumosa | exalação vaporosa / exalação fumosa | |
+| spiritus / ventus | sopro / vento | Mantida a distinção lexical quando o comentário explica *spiritus* por *ventus*. |
+| Auster / Boreas / Notus | austro / bóreas / noto | Nomes dos ventos; conservada a identificação entre austros e notos feita pelo comentário. |
+| Etesiae / prodromi / leuconoti / Ornithiae | etésios / pródromos / leuconotos / orníthias | Conservadas as explicações etimológicas e sazonais do texto. |
+| tranquillitas | calmaria | No contexto da ausência de ventos. |
+| tropica / versiones / solstitium | trópicos / retornos / solstício | “Retorno” conservado quando integra a explicação do movimento solar e a glosa dos trópicos. |
+| Orion / Canis / canicula | Órion / Cão / Canícula | Referências astronômicas. |
+| Hercules / Chaonia / Lybia / Scythia | Hércules / Caônia / Líbia / Cítia | |
+| stypteria / calx / cinis | alúmen / cal / cinza | |
+| Anaxagoras / Anaximenes / Democritus | Anaxágoras / Anaxímenes / Demócrito | Formas conforme os diários de obras afins do corpus. |
+| Zephyrus / Favonius / Subsolanus / Apeliotes | zéfiro / favônio / subsolano / apeliotes | Conservados os nomes gregos e latinos distintos quando a exposição os equipara. |
+| Aparctias / Septentrio / Meses / Aquilo | apárctias / setentrião / meses / aquilão | “Setentrião” quando nome de vento; “norte” quando direção. |
+| Caecias / Vulturnus / Libs / Africus | cécias / vulturno / líbs / áfrico | Nomes dos ventos. |
+| Eurus / Corus / Argestes / Olympius / Scirona | euro / coro / argestes / olímpio / scíron | Conservadas as denominações alternativas do texto. |
+| Thrascias / Circius / Phoenicias / Ithagenes | tráscias / círcio / fenícias / itágenes | Nomes dos ventos conforme seu emprego na exposição. |
+| Euroauster / Austroafricus / Euronoti | euro-austro / austro-áfrico / euronotos | |
+| terraemotus / agitatio terrae | terremoto / agitação da terra | |
+| Ecnephia | ecnéfia | Conservado o termo técnico; a exposição explica seus dois sentidos no § 219. |
+| gyratio ventorum / incidentia ventorum | rotação dos ventos / embate dos ventos | |
+| aether / ether | éter | |
+| euripus | éuripo | Comparação com uma corrente que muda de direção. |
+| Hellespontus / Achaia / Euboea / Aedepsus | Helesponto / Acaia / Eubeia / Edipso | |
+| Heraclea in Ponto / Sacra insula / Liparaei | Heracleia do Ponto / Ilha Sagrada / liparenses | |
+| tonitruum / coruscatio / fulmen | trovão / relâmpago / raio | Conservada a distinção entre o fenômeno sonoro, o clarão e o raio. |
+| typhon | tufão | A exposição o define como vento circular expulso da nuvem. |
+| spiritus | sopro | “Vento” nas glosas que o identificam expressamente com *ventus*. |
+| tremor / pulsus | tremor / pulsação | Distinção entre o movimento lateral e o movimento de baixo para cima. |
+| Empedocles / Clidemus | Empédocles / Clidemo | |
+| Vulcanus / Vesta / Aeolus | Vulcano / Vesta / Éolo | |
+| Sipylus / campus Phlegraeus / Ligustica regio / Sequana | Sípilo / planície Flegreia / região da Ligúria / Sena | |
+| insulae ponticae | ilhas em alto-mar | Conforme a glosa que as situa em mar profundo, em oposição às ilhas próximas da terra. |
+| sixis / sixim | *sixis* | Conservado o termo transliterado; as glosas da exposição o explicam como “chiado”. |
+| refractio / reflexio | refração / reflexão | Conservada a alternância do original; esclarecimento na nota [^9]. |
+| ecnephias / Ecnephia | ecnéfias | Nome técnico do vento que a exposição distingue do tufão por seu movimento retilíneo descendente. |
+| incensio / ignitio | inflamação / ignição | “Inflamação” designa também o fenômeno atmosférico específico da lição 2. |
+| halo / iris / parelii / virgae | halo / arco-íris / parélios / barras | “Barras” conserva a designação figurativa do fenômeno luminoso. |
+| puniceus / viridis / halurgus / xanthos | vermelho / verde / púrpura / amarelo | Conservadas as glosas particulares da exposição, inclusive a identificação de *halurgus* com *subalbum*. |
+| perspicuum | diáfano | Meio capaz de transmitir a luz e as cores. |
+| perspectiva / perspectivi | óptica / estudiosos da óptica | *Perspectiva communis*: “óptica geral”. |
+| Antipheron / Ephesus / Bosphorus / Seneca / Euclides | Antiferonte / Éfeso / Bósforo / Sêneca / Euclides | |
+| Eurus / Euri | euro / euros | Vento oriental; conservada a caracterização como úmido feita pela exposição. |
+| esse reale / esse intentionale | ser real / ser intencional | Conservada a distinção escolástica desenvolvida na discussão sobre a luz no meio. |
+| roratio | gotículas / conjunto de gotículas | Conforme a construção, designa a água finamente dividida na qual se produz a refração. |
+| idolum / species visibilis | imagem / espécie visível | Distintos na discussão sobre a presença da imagem no espelho e no objeto. |
+| specula comburentia | espelhos ustórios | Espelhos empregados para concentrar a luz e produzir aquecimento. |
+| xanthos / citrinus | amarelo | Conservados os vocábulos originais em itálico quando o texto explicita suas designações grega e latina. |
+| Alexander | Alexandre | Nome do comentador citado na discussão sobre o espaço entre os dois arco-íris. |
+| fossibilia | substâncias minerais | Designação ampla das substâncias extraídas por escavação; evita-se “fósseis”, cujo sentido moderno seria restritivo. |
+| metallica | substâncias metálicas | Em contraposição às substâncias minerais na classificação do trecho. |
+| fusibilia / liquabilia / ductibilia | fusíveis / liquefazíveis / dúcteis | Conservada a distinção segundo a maior facilidade de fusão ou de extensão sob o martelo. |
+| virtus mineralis | virtude mineral | Virtude celeste apresentada como princípio ativo principal da geração mineral. |
+| argentum vivum | mercúrio | Denominação portuguesa corrente da substância chamada literalmente “prata viva”. |
+| materia remota / materia propinqua | matéria remota / matéria próxima | Distinção dos princípios materiais dos metais. |
+| Theophrastus | Teofrasto | Forma já adotada nos diários das obras afins do corpus. |
+| digestio / indigestio | digestão / indigestão | Sentido físico amplo de aperfeiçoamento pelo calor ou deficiência desse processo; não restrito à digestão alimentar. |
+| pepansis / omotes | *pepansis* / *omotes* | Conservadas as denominações gregas transmitidas pelo latim; maturação e a indigestão que se lhe opõe. |
+| hepsesis / molynsis | *hepsesis* / *molynsis* | Cozimento pelo calor de um líquido e a indigestão correspondente; mantidas as denominações técnicas. |
+| optesis / stateusis | *optesis* / *stateusis* | Digestão pelo calor seco extrínseco e a indigestão correspondente; mantidas as denominações técnicas. |
+| terminare / terminatio | delimitar / delimitação | Determinação dos limites e da consistência da matéria; evita-se confundir com o término temporal de um processo. |
+| coagulatio / liquefactio | coagulação / liquefação | “Coagulação” conserva o sentido amplo de aquisição de consistência, inclusive em metais. |
+| elixare / assare | cozinhar em líquido / assar | Distinção segundo a ação do calor transmitido pelo líquido ou do calor seco. |
+| pericarpium | pericarpo | Mantida a extensão expressamente dada pelo comentário, que inclui invólucros de sementes e de matéria geradora animal. |
+| antiperistasis | antiperístase | Fortalecimento do calor interior pela ação do frio circundante. |
+| chalybs | aço | Produto da transformação do ferro descrita no texto. |
+| Galenus / Avicenna / Empedocles | Galeno / Avicena / Empédocles | Formas portuguesas dos nomes. |
+| mollificabile / intingibile | amolecível / embebível | Distingue-se o amolecimento da recepção de umidade extrínseca pelos poros. |
+| frangibile / comminuibile | quebrável / fragmentável | Conservada a distinção entre divisão em partes grandes e divisão em partes pequenas ou numerosas. |
+| impressibile / formabile | impressível / moldável | “Impressível” designa a capacidade de receber uma depressão na superfície; “moldável” inclui a conservação da forma. |
+| capibile / captura | compressível / compressão | Sentido técnico explicitamente distinguido do uso de *capere* como “pegar”. |
+| trahibile / tractio | extensível / tração | Extensão das partes com manutenção da continuidade do todo. |
+| ductile / productile | dúctil | Conservado o sentido amplo do texto, que inclui deformação e extensão por percussão. |
+| scissibile / detruncabile | fendível / cortável | Na fenda, a divisão avança além do contato do instrumento; no corte, não. |
+| commassabile / incommassabile | aglomerável / não aglomerável | Mantida a divergência entre a definição do texto comentado e a exposição da Lição 12. |
+| ustibile / inflammabile / carbonabile | combustível / inflamável / carbonizável | Preservadas como propriedades distintas. |
+| exhalabile / vaporabile | exalável / evaporável | Mantida a distinção técnica entre exalação e vapor, inclusive suas variações locais. |
+| lignys / knisa | *lignys* / *knisa* | Denominações gregas das exalações do gorduroso e do untuoso, conservadas conforme o latim. |
+| homoeomera / anomoeomera | homeômeros / anomeômeros | Corpos de partes semelhantes / corpos de partes dessemelhantes. |
+| argentum vivum / electrum | mercúrio / âmbar | “Âmbar” determinado pelo contexto das resinas e dos animais aprisionados. |
+| ines / ichor | fibras / ícor | Termos da descrição antiga do sangue. |
 | forma substantialis | forma substancial | Princípio do conhecimento da essência do corpo. |
 | cognitio quidditativa | conhecimento quiditativo | Conhecimento do que uma coisa é. |
 | ratio | definição / razão formal | “Definição” nas comparações entre partes e todo; “razão formal” na contraposição à matéria. |
@@ -9,6 +203,85 @@
 
 ## Decisões
 
+- A tradução foi feita diretamente do latim fornecido. Esta chamada não trouxe o texto inglês de referência anunciado nas instruções gerais.
+- Os títulos do sumário em pt-BR seguem os títulos latinos: “Livro”, “Lição” e “Proêmio”. As rubricas explicativas dos capítulos foram traduzidas integralmente em seus parágrafos próprios.
+- As citações internas que retomam o texto comentado foram traduzidas, mantendo-se seus destaques. Conservaram-se em itálico as formas estrangeiras discutidas como palavras, como *meteoron*, *logos*, *aethein* e *syngenea*.
+- “Virtude” designa a capacidade ou eficácia natural dos corpos; “potência” fica reservada a *potentia*, especialmente na oposição entre potência e ato.
+- “Via Láctea” traduz o emprego astronômico de *lac*; a glosa “círculo lácteo chamado Galáxia” foi preservada onde aparece.
+- Em g1-c002, conservou-se *syngenea his* antes da explicação portuguesa, pois o comentário explicita o sentido dessa expressão.
+- Em g1-c003, nota [^1], explicitou-se a aproximação sonora grega entre “correr sempre” e “arder”, necessária para perceber a contraposição etimológica do nome “éter”. A forma *aethein* do texto foi mantida no parágrafo.
+- Em g1-c004, manteve-se “refratados” na expressão imediatamente glosada como “refletidos”, preservando a distinção verbal do original sem alterar sua explicação.
+- Preservaram-se as afirmações cosmológicas e físicas do original, inclusive a posição atribuída aos cinco astros errantes em g1-c005, sem correções segundo a astronomia posterior.
+- Normalizaram-se apenas os delimitadores Markdown evidentemente quebrados em g1-c001 e g1-c005, conservando os trechos destacados. Os números autorais foram formatados como texto em negrito, com o ponto incluído.
+- Em g1-c011, traduziu-se *spumosi* por “espumosos” no texto comentado, conservando sua diferença em relação a *ventosi*, “ventosos”, na exposição de Tomás.
+- Em g1-c011, *Aegis fluviis* foi vertido pelo topônimo “Egospótamos”; preservou-se “em alguns rios” na retomada literal e genérica feita pelo comentário.
+- As referências ao repouso dos cometas e à refração da visão conservam o quadro físico e óptico do original; não foram adaptadas às explicações modernas.
+- Acrescentada a nota [^1] em g1-c012 para identificar a alusão mitológica a Faetonte e a nota [^2] em g1-c014 para situar o Ponto na região do mar Negro.
+- Em g1-c015, conservaram-se as diferenças entre o texto comentado e a exposição: *intemperatioribus locis* foi traduzido por “lugares menos temperados”, enquanto *locis magis temperatis* recebeu “lugares mais temperados”; também se preservou a diferença entre a afirmação sobre a água que se torna quente no texto comentado e a água quente que se torna fria na exposição.
+- *Congelatio* e formas relacionadas foram traduzidos por “condensação” quando designam a formação de gotas de chuva, e por “congelamento” quando designam a formação de gelo; *coagulatio* recebeu “solidificação” nos contextos de formação do granizo.
+- Regularizados os delimitadores defeituosos de negrito e itálico nas remissões de g1-c012, § 85, e g1-c013, § 92, preservando a ênfase das citações.
+- Acrescentada a nota [^3] em g1-c016 para explicar as direções “nascente de inverno”, “nascente de verão” e “poente equinocial”; a nota [^4] em g1-c017 para identificar Deucalião; e a nota [^5] em g2-c001 para situar as Colunas de Hércules.
+- Conservadas as afirmações geográficas e físicas do original, inclusive as origens atribuídas aos rios, a associação do Cáspio ao mar Pôntico e o envelhecimento pela secura do inverno em g1-c017, § 132.
+- Em g1-c017, § 133, *novissimae* recebeu “mais recentes”, sem harmonização com *citissimae* (“mais rápidas”) no texto comentado.
+- Em g2-c001, o aparente erro tipográfico *relicitur* no subtítulo foi entendido como *reiicitur*, “rejeita-se”, conforme o conteúdo da lição.
+- Regularizados os delimitadores defeituosos de negrito e itálico nas remissões de g2-c001, preservando a ênfase das citações.
+- Em g2-c002, o erro tipográfico *Ostenditu* no subtítulo foi entendido como *Ostenditur*: “Demonstra-se”.
+- Conservado *rheumata* nas expressões acompanhadas de glosa em g2-c003, conforme a convenção já registrada.
+- Em g2-c003, o provérbio *sursum fluviorum* recebeu “os rios para cima”, mantendo sua forma breve e a explicação subsequente do comentário.
+- Acrescentada a nota [^6] em g2-c004 para explicar a diferença entre *porthmeum*, traduzido por “barqueiro” no texto comentado, e a glosa “porto ou litoral” apresentada na exposição.
+- Em g2-c005, *hypostasis alimenti* foi conservado em latim com a glosa do próprio comentário; nos demais usos físicos, *hypostasis* recebeu “sedimento”.
+- Conservadas as formulações distintas do texto comentado e da exposição sobre a geração do todo e de suas partes em g2-c004, sem harmonização.
+- Em g2-c006, o subtítulo latino, sintaticamente incompleto, foi vertido como “A causa da salinidade do mar segundo a opinião de Aristóteles”.
+- Em g2-c006, conservada a diferença entre o texto comentado, que afirma haver a mesma explicação para os corpos em transformação, e a exposição do § 170, que diz ser provável não haver a mesma explicação.
+- Em g2-c006, conservada a imagem literal “por uma língua de cera” de *per linguam cerae*, sem substituir a expressão por uma explicação conjectural.
+- Em g2-c006, § 175, conservada a leitura *vaporis*: “seja qual for seu vapor”, sem emendá-la para “sabor”.
+- Em g2-c007, *antiperistasim pati* foi vertido por “sofrer uma ação contrária recíproca”, conforme a oposição entre regiões secas e úmidas explicada na exposição.
+- Em g2-c009, conservada a diferença entre o texto comentado, que nega a exalação ao que não contém matéria seca, e a exposição do § 196, que a nega ao seco sem umidade.
+- Acrescentada em g2-c009 a nota [^7], para identificar a Canícula com Sírius e explicar o sentido astronômico de seu “nascimento”.
+- Conservadas as referências sazonais e espaciais do observador situado no hemisfério norte, inclusive “para nós”, sem adaptação ao hemisfério sul.
+- Conservadas as indicações “Continuação de autor desconhecido” e “Retomada de Tomás”, inclusive a interrupção da frase do § 204 pela primeira indicação; os títulos internos das lições 11–14 permanecem com o nível de marcação do original.
+- Conservadas as diferentes letras dos diagramas no texto comentado e na exposição, inclusive a referência a G para o tráscias; mantida a menção à “figura seguinte”, embora nenhuma figura tenha sido fornecida neste trecho.
+- No § 200, conservada a argumentação geográfica tal como transmitida, inclusive a localização ao norte associada à sombra voltada para o sul, sem correção conjectural.
+- No § 201, conservada a expressão “Tánais indiano”, correspondente a *Tanaim Indicum*.
+- No § 216, conservados “solstício de outono” e “solstício de primavera”, sem substituí-los por “equinócio”.
+- Conservadas as diferenças entre o texto comentado e a exposição quanto aos ventos associados às ecnéfias e à produção de umidade; conservada também a afirmação “o apárctias é um zéfiro”.
+- Conservados em itálico os vocábulos gregos transliterados *apogeios*, *ourioi*, *sompham*, *sompha* e *achimos*, respeitando as glosas existentes na fonte.
+- No trecho sobre a sazonalidade dos terremotos, *spumosa* e *spumosus* foram vertidos literalmente por “espumosas” e “espumoso”; a forma corrompida *amphor* foi entendida como o comparativo “mais abundante”, conforme a construção com *quam*.
+- No trecho sobre a força do sopro, *tetani* foi vertido por “contrações tetânicas”; *mili* foi entendido como “mil”, conforme o contexto.
+- Acrescentada a nota [^8] para esclarecer o termo “éuripo” na comparação com a inversão do fluxo do sopro.
+- Conservadas as duas interpretações dos eclipses no § 237 e as soluções propostas para a aparente contradição entre calmaria e ventos; mantida a diferença entre “mais tardio” no texto comentado e a interpretação como maior duração na exposição.
+- Conservada a leitura “chuvas” para *pluviae* no texto comentado sobre a distribuição regional dos terremotos, embora a exposição correspondente trate de exalações suspensas.
+- Conservada e traduzida, no mesmo lugar e em itálico, a nota editorial em inglês sobre possível texto faltante nos códices após o § 240.
+- Conservadas a indicação “Continuação de autor desconhecido” e a formatação dos títulos internos das lições 15–17.
+- No argumento atribuído a Empédocles, a forma obscura *hypotheo* foi entendida como “depósito”, em consonância com *apotheca* na exposição correspondente.
+- Acrescentada a nota [^9] para esclarecer o alcance antigo de “refração” na passagem sobre a imagem luminosa na água, sem substituir a terminologia da fonte.
+- Conservadas as explicações antigas dos fenômenos, inclusive as diferenças entre o texto comentado e a exposição sobre os efeitos dos raios, os horários do halo e o número de arco-íris.
+- Acrescentada a nota [^10] para esclarecer a glosa de *halurgum* (“púrpura”) por *subalbum* (“esbranquiçado”), sem corrigir a identificação presente no comentário.
+- Traduzido *sapa* descritivamente como “mosto concentrado pelo cozimento”.
+- Conservadas as letras distintas das construções geométricas do texto comentado e da exposição, as referências às proposições de Euclides e a remissão à figura seguinte, ausente do trecho fornecido.
+- Regularizados apenas lapsos tipográficos evidentes, como *cura* por *cum*, *tiirectum* por *directum* e os delimitadores interrompidos de negrito e itálico.
+- Mantida a alternância entre a teoria da emissão dos raios visuais e a explicação por recepção, conforme a própria exposição as distingue.
+- Mantida a tradução de *halurgus* por “púrpura”, inclusive onde a exposição o glosa agora por *caeruleum*, traduzido “azul”; conservada a variação das glosas do original.
+- Conservadas as divergências internas do trecho: a remissão à “segunda suposição”, a inversão da ordem das respostas às duas primeiras objeções sobre a luz, a diferença entre a questão anunciada e a desenvolvida sobre as circunferências do arco-íris, e a afirmação *et tamen erat nubes* (“e, no entanto, havia uma nuvem”) na descrição do arco-íris marítimo.
+- Conservada também a afirmação sobre as porções do círculo solar nos dias longos e curtos, sem harmonizá-la com a exposição geométrica precedente.
+- Nas demonstrações geométricas, preservadas as letras e proporções do texto; corrigidos apenas lapsos tipográficos inequívocos, sem reconstruir figuras ausentes.
+- Traduzido *oricella* por “urzela”, conservando a designação tintorial e sua inclusão entre as substâncias minerais no original; a acepção tintorial está documentada no [TLIO, verbete “oricello”](https://iris.cnr.it/retrieve/06b379b6-dee2-4445-87c2-bc95b8ad63e9/prod_437185-doc_156661.pdf).
+- Conservadas as afirmações de que o orvalho e a geada são líquidos, de que somente o ouro não entra em combustão e de que a alquimia pode produzir uma verdadeira geração de metais, sem harmonização com classificações ou explicações modernas.
+- Preservados os dois parágrafos consecutivos em bloco de citação e os títulos sem acréscimo de níveis de cabeçalho.
+- Preservada a atribuição “Continuação de autor desconhecido”, sem atribuir a São Tomás as afirmações desta continuação.
+- Mantidos os termos gregos técnicos transmitidos pelo latim, inclusive *auansis*, *pepona* e *oma*, sem substituir as explicações progressivas do original por equivalências uniformes.
+- Acrescentada a nota do tradutor `[^1]` na primeira definição de digestão da Lição 3, para esclarecer a extensão física do termo, que abrange maturação e cozimento.
+- Conservadas as afirmações históricas sobre alquimia, geração de animais por putrefação, nutrição da salamandra no fogo e fisiologia dos temperamentos, sem atualização científica.
+- Em “metallum sanum, durum”, mantida a leitura “sadio o metal duro”, sem emendar *durum* para uma possível referência ao ouro.
+- Preservados os títulos sem nível de cabeçalho e os blocos de citação conforme os parágrafos recebidos.
+- Conservados em latim os lemas citados após “quando diz”, com a ênfase do original.
+- Traduzido *aqua vitis* por “água da videira”, sem emendar a leitura para *aqua vitae*.
+- Conservado *dentes molares* como “dentes molares”, sem substituí-lo por “pedras de moinho”.
+- Acrescentada a nota do tradutor `[^2]` na explicação de *capibile*, esclarecendo as relações lexicais com *capere* e, no parágrafo seguinte, de *trahibile* com *trahere*.
+- Mantida a negação em “não têm [...] compressão permanente” na exposição dos aglomeráveis, embora o texto comentado os defina pela conservação da compressão; não se harmonizaram as duas passagens.
+- Mantidas as divergências entre texto e comentário quanto ao amolecimento, à conversão entre ductilidade e impressibilidade e às propriedades da exalação.
+- Traduzido *infiltrabilia*, no contexto da aglomeração de materiais compressíveis, por “feltráveis”.
+- Conservadas as afirmações históricas sobre leite, sangue, ébano, vinho e formação do âmbar, sem atualização científica.
 - Mantida a diferença entre as “fibras” do sangue no texto comentado e as “vias, isto é, poros” no comentário, assim como as afirmações divergentes sobre a coagulação do sêmen.
 - Conservada a comparação segundo a qual a água queima mais que a fumaça, e a pedra mais que a água, sem substituir “fumaça” por “vapor”.
 - Traduzido *syntecta* por “produtos da decomposição”, conforme sua apresentação como produtos de putrefação.

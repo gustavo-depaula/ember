@@ -1,6 +1,239 @@
+# Diário de tradução — Catena Áurea sobre João (pt-BR)
+
+Fonte: la/, texto latino das edições Leonina / Marietti, reproduzido de aquinas.cc, conforme book.json.
+Destino: pt-BR.
 
 ## Termos
 
+| Latim | Português | Notas |
+|---|---|---|
+| Catena Aurea in Evangelium secundum Iohannem | Catena Áurea sobre João | Título conforme as obras irmãs sobre Lucas e Mateus. |
+| Sanctus Thomas Aquinas | Santo Tomás de Aquino | Autoria no catálogo. |
+| Prooemium / Caput / Lectio | Prólogo / Capítulo / Lição | Convenções estruturais da Catena sobre Marcos. |
+| Glossa | Glosa | Rubrica. |
+| Augustinus in Ioannem | Agostinho, sobre João | Rubricas sem título de santidade, conforme Lucas e Marcos. |
+| Augustinus de Cons. Evang. | Agostinho, A Concordância dos Evangelistas | Forma da obra irmã sobre Lucas. |
+| Augustinus de Verb. Dom. | Agostinho, Sobre as Palavras do Senhor | Forma da obra irmã sobre Lucas. |
+| Augustinus ad Honoratum | Agostinho, a Honorato | Rubrica epistolar. |
+| Chrysostomus in Ioannem | Crisóstomo, sobre João | Convenção das rubricas de Marcos. |
+| Hieronymus super Isaiam | Jerônimo, sobre Isaías | Convenção de Marcos. |
+| Gregorius / Moralium / super Ezech. | São Gregório Magno / Morais / Sobre Ezequiel | Adotada a convenção explícita de Mateus. |
+| Gregorius in Evang. | São Gregório Magno, sobre os Evangelhos | Mantida a forma do nome adotada neste volume. |
+| Hilarius de Trin. | Hilário, Da Trindade | Convenção de Marcos. |
+| Beda / Theophylactus / Alcuinus / Origenes | Beda / Teofilato / Alcuíno / Orígenes | Rubricas patrísticas. |
+| Ex Eccles. Hist. | Da História Eclesiástica | Conservada a rubrica latina sem acrescentar o nome de Eusébio. |
+| Deus / dominus / pater / filius / spiritus sanctus | Deus / Senhor / Pai / Filho / Espírito Santo | Maiúsculas nos nomes e títulos divinos; pronomes em minúsculas. |
+| verbum | Verbo / palavra | Verbo para a Pessoa divina; palavra para a pregação. |
+| filius Dei / filius hominis | Filho de Deus / Filho do Homem | Convenção das obras irmãs. |
+| divinitas / humanitas / coaeternus | divindade / humanidade / coeterno | Vocabulário cristológico. |
+| Trinitatis unitas | unidade da Trindade | Fórmula do prólogo. |
+| virtus | poder / virtude | Poder nas obras divinas; virtude no contexto moral e contemplativo. |
+| virtus activa / contemplativa | virtude ativa / contemplativa | Mantida a formulação do prólogo. |
+| Evangelium / Evangelista / Ecclesia | Evangelho / Evangelista / Igreja | Maiúsculas conforme Marcos. |
+| lex / vetus testamentum | Lei / Antigo Testamento | Lei com maiúscula quando designa a Lei de Moisés. |
+| gratia / fides / caritas / dilectio | graça / fé / caridade / amor | Convenções de Marcos. |
+| poenitentia / baptismus / catechumenus | penitência / batismo / catecúmeno | Vocabulário sacramental. |
+| sacramentum / mysterium | sacramento / mistério | Conforme o sentido de cada ocorrência. |
+| peccatum originale / iustificatio / illuminatio | pecado original / justificação / iluminação | Conservado o vocabulário teológico. |
+| caecus a nativitate / caecus natus | cego de nascença | Fórmula recorrente. |
+| lutum / sputum / saliva | lodo / saliva / saliva | “Lodo” na cura e na formação do homem, preservando a ligação exegética. |
+| natatoria / piscina Siloe | piscina de Siloé | Mantida a interpretação “Enviado”. |
+| ovile / grex / oves | redil / rebanho / ovelhas | Distinção das imagens pastorais. |
+| ostium / ianua / ostiarius | porta / porta / porteiro | Vocabulário da comparação. |
+| pastor bonus / mercenarius | bom pastor / mercenário | Conservada a relação entre mercenário e recompensa. |
+| fur / latro / lupus | ladrão / salteador / lobo | Distinção mantida na exposição. |
+| animam suam dare / ponere | dar / entregar sua vida | Nas passagens sobre a morte pelas ovelhas. |
+| proverbium | comparação | Discurso figurado de João 10. |
+| species | visão | Em oposição à fé, g11-c002, §19. |
+| praedestinati / praesciti | predestinados / os que de antemão conheceu | Distinção conservada em g11-c001, §23. |
+| Iudaei / Pharisaei / Scribae / gentes | judeus / fariseus / escribas / gentios | Convenções de Marcos. |
+| Diabolus / Antichristus / pseudochristi | diabo / Anticristo / falsos cristos | Formas portuguesas. |
+| Ioannes / Moyses / Theodas / Iudas / Nestorius | João / Moisés / Teudas / Judas / Nestório | Nomes próprios. |
+| Domitianus / Nerva / Ephesus | Domiciano / Nerva / Éfeso | Nomes históricos e geográfico. |
+| sequitur / unde sequitur / subiungit | segue-se / por isso se segue / acrescenta | Fórmulas de transição. |
+| amen, amen dico vobis | em verdade, em verdade vos digo | Mantida a duplicação. |
+| Augustinus de Trin. | Agostinho, Da Trindade | Mantida a forma do título já empregada para Hilário. |
+| Augustinus Lib. 83 quaest. | Agostinho, Livro das Oitenta e Três Questões | Rubrica da coletânea de questões. |
+| Origenes in Ioannem | Orígenes, sobre João | Rubrica patrística. |
+| anima | alma / vida | “Alma” na análise cristológica de g11-c004, §32; “vida” nas fórmulas de entrega da vida. |
+| Encaenia | Encênias | Festa da dedicação; preservado o nome para acompanhar a explicação etimológica. |
+| quidditas | essência | Em g11-c004, §25, designa o que a natureza divina é. |
+| nativitas | nascimento / geração | Conforme a construção, preservando o argumento da origem do Filho no Pai. |
+| Apollinaristae / Ariani / Sabellius | apolinaristas / arianos / Sabélio | Nomes de grupos e de autor. |
+| Lazarus / Martha / Maria / Thomas / Didymus / Mathias | Lázaro / Marta / Maria / Tomé / Dídimo / Matias | Nomes próprios. |
+| Iudas Machabaeus / Zorobabel / Iesus sacerdos / Salomon | Judas Macabeu / Zorobabel / sacerdote Josué / Salomão | “Josué” identifica o sacerdote, distinguindo-o de Jesus Cristo. |
+| Bethania / Iordanis / Iudaea / Hierosolyma | Betânia / Jordão / Judeia / Jerusalém | Nomes geográficos. |
+| castellum / monumentum / spelunca | povoado / sepulcro / gruta | Vocabulário da narrativa de Lázaro. |
+| resurrectio / novissimus dies | ressurreição / último dia | Vocabulário escatológico. |
+| infremuit spiritu / turbavit seipsum | gemeu em espírito / perturbou a si mesmo | Mantida a construção reflexiva necessária ao comentário de Agostinho. |
+| Augustinus de Verb. Dom. | Agostinho, Sobre as Palavras do Senhor | Rubrica patrística. |
+| Augustinus de Cons. Evang. | Agostinho, Da Concordância dos Evangelistas | Rubrica patrística. |
+| Gregorius Moralium | Gregório, Comentário Moral | Rubrica do comentário moral a Jó. |
+| Caiphas / Balaam / Iosephus | Caifás / Balaão / Josefo | Nomes próprios. |
+| Ephrem / Ephraim / Manasses | Efraim / Manassés | Unificadas as duas formas latinas de Efraim. |
+| Philippus / Andreas / Bethsaida / Candacis | Filipe / André / Betsaida / Candace | Nomes próprios. |
+| pontifices / pontifex / principes sacerdotum | sumos sacerdotes / sumo sacerdote / chefes dos sacerdotes | “Pontífice” mantido quando a glosa comenta expressamente o título e sua autoridade. |
+| nardus pisticus / unguentum / loculi | nardo pístico / unguento / bolsa | “Pístico” preserva as interpretações alternativas apresentadas nas glosas. |
+| anagoge / anagogia | sentido anagógico | Vocabulário de interpretação espiritual. |
+| clarificare / glorificare | glorificar | Mesma tradução nas fórmulas sobre a glorificação do Filho e do nome do Pai. |
+| omnia / omnes | tudo / todos | Distinção necessária à interpretação de João 12:32 em g13-c004. |
+| credere apostolo / credere in apostolum | dar crédito ao apóstolo / crer no apóstolo | Distinção entre acolher um testemunho e ter alguém como objeto da fé. |
+| Augustinus de Trin. | Agostinho, Sobre a Trindade | Rubrica patrística. |
+| Augustinus ad Seleucianum | Agostinho, A Seleuciano | Conservado o destinatário indicado no latim. |
+| dispensatio | economia da salvação | Nos trechos sobre a realização da obra salvadora de Cristo. |
+| spiritus servitutis / spiritus filiationis | espírito de servidão / espírito de filiação | Preservada a oposição do latim em g14-c003. |
+| buccella / pel⁠vis / linteum | bocado / bacia / toalha | Vocabulário da ceia e da lavagem dos pés. |
+| tropologizare | interpretar em sentido moral | Em g14-c002, aplicação aos afetos da mente. |
+| clarificare / glorificare | glorificar | Mantida a equivalência dos dois verbos nas glosas sobre a paixão e a ressurreição. |
+| mansiones / mansores | moradas / moradores | Preservada a relação verbal na exposição de Agostinho. |
+| Paraclitus / advocatus / consolator | Paráclito / advogado / consolador | Mantidas as duas explicações do título, conforme cada glosa. |
+| hypostasis / consubstantialitas | hipóstase / consubstancialidade | Vocabulário trinitário; “hipóstase” explicado na nota [^13]. |
+| Didymus de spiritu sancto | Dídimo, Sobre o Espírito Santo | Rubrica patrística. |
+| Augustinus de Cons. Evang. | Agostinho, Sobre a Concordância dos Evangelistas | Rubrica patrística. |
+| Augustinus ad Paulinam de videndo Deo | Agostinho, A Paulina, Sobre a Visão de Deus | Preservados destinatária e assunto da rubrica. |
+| vitis / palmes / agricola | videira / ramo / agricultor | Vocabulário da alegoria de João 15; “sarmentos” para *ligna vitis*. |
+| purgare / mundare / mundus | limpar / purificar / limpo | Preservada a ligação entre a limpeza dos ramos e a purificação dos discípulos. |
+| timor castus | temor casto | Distinto do temor que a caridade perfeita expulsa. |
+| liberum arbitrium | livre-arbítrio | Mantido o termo teológico tradicional. |
+| Gregorius Moralium | Gregório, Comentário Moral sobre Jó | Rubrica patrística. |
+| Augustinus de Praedest. Sanct. | Agostinho, Sobre a Predestinação dos Santos | Rubrica patrística. |
+| Augustinus contra Arianos | Agostinho, Contra os Arianos | Rubrica patrística. |
+| Paraclitus / consolator | Paráclito / Consolador | Preservada a distinção entre o título e a explicação de sua função consoladora. |
+| procedere / processus | proceder / processão | Vocabulário trinitário; distinguido de “ser enviado” e “missão”. |
+| arguere mundum | convencer o mundo | No contexto de João 16:8, convencer quanto ao pecado, à justiça e ao juízo; nas explicações, também “repreender”, conforme o sentido. |
+| proverbium / in proverbiis | linguagem figurada / em linguagem figurada | Não se trata necessariamente de provérbios populares; a expressão abrange o discurso velado. |
+| homo animalis | homem animal | Termo paulino explicado na nota [^20]. |
+| Augustinus de quaest. Nov. et Vet. Testam. | Agostinho, Questões do Novo e do Antigo Testamento | Conservada a atribuição apresentada na fonte. |
+| Hilarius de Trin. | Hilário, Sobre a Trindade | Rubrica patrística. |
+| clarificare / claritas | glorificar / glória | Na oração de Cristo e nas glosas; “esplendor” quando necessário para distinguir termos contíguos. |
+| per speciem / per fidem | pela visão / pela fé | Distinção entre a visão prometida e o conhecimento atual pela fé. |
+| consubstantialis | consubstancial | Vocabulário trinitário. |
+| filius perditionis | filho da perdição | Conservada a fórmula da fonte. |
+| Gregorius Moralium | Gregório, Morais | Rubrica patrística. |
+| Gregorius super Ezech. | Gregório, Sobre Ezequiel | Rubrica patrística. |
+| Sabelliani / Ariani | sabelianos / arianos | Nomes dos grupos mencionados nas glosas trinitárias. |
+| Cedron / Gethsemani | Cedron / Getsêmani | Conservado “Cedron” na explicação gramatical de Alcuíno. |
+| cohors / pontifices / ministri | coorte / chefes dos sacerdotes / guardas | No relato da prisão de Jesus. |
+| pontifex / princeps sacerdotum | sumo sacerdote / chefe dos sacerdotes | O singular designa o ofício; conservado o plural “chefes dos sacerdotes” quando empregado. |
+| Annas / Caiphas / Malchus / Barabbas | Anás / Caifás / Malco / Barrabás | Nomes próprios do relato da paixão. |
+| praetorium / tribunus | pretório / tribuno | Vocabulário administrativo e militar romano. |
+| Verbum / verbum | Verbo / verbo, palavra | “Verbo” para o Filho; “verbo” na analogia filosófica da palavra interior; “palavra” no uso comum. |
+| ingenitus / unigenitus | ingênito / unigênito | Preservada a distinção entre não ser gerado e ser o único gerado. |
+| hypostasis | hipóstase | Termo técnico na exposição trinitária. |
+| coaevus / coaeternus | coevo / coeterno | Distinção entre coexistência temporal e eternidade comum. |
+| impassibilitas / consubstantialitas | impassibilidade / consubstancialidade | Vocabulário da geração divina. |
+| Basilius / Hilarius / Origenes / Sabellius | Basílio / Hilário / Orígenes / Sabélio | Formas usadas nas rubricas e na discussão trinitária. |
+| Augustinus Lib. 83 quaest. | Agostinho, Livro das Oitenta e Três Questões | Rubrica patrística. |
+| Ex gestis Conc. Ephes. | Das Atas do Concílio de Éfeso | Rubrica conciliar. |
+| Valentinus / Manichaeus / Apollinarius Laodicensis / Nestorius | Valentim / Mani; maniqueu / Apolinário de Laodiceia / Nestório | “Maniqueu” quando designa o adepto; “Mani” na referência pessoal ao fundador. |
+| Cyrillus ad Nestorium | Cirilo, A Nestório | Rubrica patrística. |
+| ratio naturalis / liberum arbitrium | razão natural / livre-arbítrio | Vocabulário antropológico. |
+| adoptio / filiatio | adoção / filiação | Preservada a distinção na exposição sobre o nascimento de Deus. |
+| secundum subsistentiam | segundo a subsistência | Formulação cristológica de Cirilo. |
+| Dei genitrix | Mãe de Deus | Título mariano. |
+| ante me factus est | foi feito antes de mim | Mantida a formulação literal para permitir a discussão exegética; as glosas a explicam como precedência em dignidade. |
+| gratia pro gratia | graça por graça | Preservada a fórmula nas diferentes interpretações patrísticas. |
+| scientia / sapientia | ciência / sabedoria | Distinção técnica em g2-c017, §8. |
+| unigenitus / unicus | unigênito / único | Preservada a distinção vocabular, especialmente na oposição aos filhos adotivos. |
+| in sinu Patris | no seio do Pai | Mantida a imagem; a explicação de Agostinho requer o sentido de dobra da veste. |
+| videre / comprehendere | ver / compreender inteiramente | Distinção entre visão e compreensão plena de Deus. |
+| Heracleon / Theodas / Paulus Samosatenus | Heracléon / Teudas / Paulo de Samósata | Formas dos nomes próprios. |
+| Bethania / Bethabora | Betânia / Betábara | Preservadas as variantes e as explicações concorrentes dos comentadores. |
+| agnus Dei / peccatum mundi | Cordeiro de Deus / pecado do mundo | Conservado o singular “pecado”, explicitamente comentado. |
+| potestas Baptismi / ministerium | poder do batismo / ministério | Distinção de Agostinho entre o poder reservado a Cristo e sua administração pelos ministros. |
+| dispensatio incarnationis | economia da encarnação | Vocabulário da realização histórica da salvação. |
+| Augustinus ad Paulinam / de agone Christiano | Agostinho, A Paulina / Sobre o combate cristão | Rubricas patrísticas. |
+| Messias / Christus / unctus | Messias / Cristo / ungido | Conservadas em itálico as formas linguísticas quando o comentador explica sua equivalência. |
+| Cephas / Petrus | Cefas / Pedro | Mantida a relação com “pedra” nas explicações dos comentadores. |
+| Nathanael / Bethsaida | Natanael / Betsaida | Formas dos nomes próprios. |
+| parasceve | Preparação | Nas citações evangélicas; *Parasceve* conservado em itálico quando a glosa explica o termo. |
+| praetorium / tribunal | pretório / tribunal | “Tribunal” também designa o assento do juiz, conforme a explicação da Glosa. |
+| tunica inconsutilis | túnica sem costura | Preservada a imagem e sua interpretação eclesial. |
+| Augustinus de Cons. Evang. / de Verb. Dom. | Agostinho, Sobre a concordância dos evangelistas / Sobre as palavras do Senhor | Rubricas patrísticas. |
+| Gregorius Moralium / Hieronymus contra Helvidium | Gregório, Morais / Jerônimo, Contra Helvídio | Rubricas patrísticas. |
+| lintea / linteamina / sindon / sudarium | panos de linho / panos de linho / lençol ou pano de linho / sudário | Preservadas as distinções na descrição da sepultura e na explicação de Agostinho. |
+| Ioseph ab Arimathaea / Nicodemus | José de Arimateia / Nicodemos | Nomes próprios. |
+| Ramatha / Helcana / Emmaus | Ramata / Elcana / Emaús | Formas dos nomes próprios. |
+| Thomas / Didymus / Eutychius | Tomé / Dídimo / Eutíquio | *Didymus* conservado em itálico na explicação linguística de Alcuíno. |
+| hypostasis | hipóstase | “Pessoa” no contexto cristológico; esclarecida na nota [^38]. |
+| Augustinus de Trin. / de Civ. Dei / de symbolo | Agostinho, Sobre a Trindade / A Cidade de Deus / Sobre o Símbolo | Rubricas patrísticas. |
+| mare Tiberiadis / Nathanael / Zebedaeus | mar de Tiberíades / Natanael / Zebedeu | Formas dos nomes próprios. |
+| Simon Ioannis | Simão, filho de João | Conservado o patronímico latino, distinto de “Jonas” na referência inglesa. |
+| agni / oves | cordeiros / ovelhas | Preservada a distinção, inclusive “cordeiros” nas duas primeiras respostas de Jesus. |
+| diligere / amare; dilectio / amor | amar; amor | Equivalência discutida por Agostinho; formas latinas mantidas na análise lexical de g22-c003, §10. |
+| hydria / metreta / architriclinus | talha / metreta / mestre do banquete | Formas gregas ou latinas conservadas em itálico nas explicações etimológicas. |
+| Tatianus / Marcion / Gamaliel / Saulus | Taciano / Marcião / Gamaliel / Saulo | Formas dos nomes próprios. |
+| mathematici | astrólogos | Em g3-c001, §19, designa os defensores do destino determinado pelos astros. |
+| Augustinus de verbis Dom. / in Serm. Pass. | Agostinho, Sobre as Palavras do Senhor / Sermão sobre a Paixão | Rubricas patrísticas. |
+| Gregorius in Evang. / Origenes super Matth. | Gregório, Sobre os Evangelhos / Orígenes, Sobre Mateus | Rubricas patrísticas. |
+| Haymo / Apollinarius / Macedonius | Haimo / Apolinário / Macedônio | Formas confirmadas nos diários das obras bíblicas e dos opúsculos de Santo Tomás já traduzidos. |
+| Eusebius Eccles. Hist. | Eusébio, História Eclesiástica | Rubrica patrística. |
+| Augustinus de Trin. / Hilarius de Trin. | Agostinho, Sobre a Trindade / Hilário, Sobre a Trindade | Rubricas patrísticas. |
+| Augustinus de Bapt. Parv. | Agostinho, Sobre o Batismo das Crianças | Rubrica conservada conforme a designação da fonte. |
+| Augustinus de Peccat. Mer. et Remiss. | Agostinho, Sobre os Méritos e a Remissão dos Pecados | Rubrica patrística. |
+| numularii / domus negotiationis | cambistas / casa de comércio | Vocabulário da expulsão dos vendedores do templo. |
+| spiritus / spirare | espírito, Espírito ou vento / soprar | Distinção conforme a interpretação de cada glosador; explicada na nota [^45]. |
+| hypostasis / impassibilis / passibilis | hipóstase / impassível / passível | Terminologia cristológica. |
+| sponsus / sponsa / amicus sponsi | esposo / esposa / amigo do esposo | Imagem nupcial de Cristo e da Igreja; “noiva” quando a distinção contextual o exige. |
+| paranymphus | acompanhante do esposo | Função nupcial explicada na nota [^46]. |
+| aqua viva / fons / puteus | água viva / fonte / poço | Conservada a distinção desenvolvida pelos próprios comentadores. |
+| inanis gloria / vana gloria | vanglória | Vocabulário moral. |
+| intellectus / mens | intelecto / mente | Distinção conservada na interpretação alegórica do marido da samaritana. |
+| Hieronymus ad Evagrium | Jerônimo, A Evágrio | Rubrica patrística. |
+| Augustinus ad Seleucianum | Agostinho, A Seleuciano | Rubrica conservada conforme o latim fornecido. |
+| Aennon / Salim / Salem / Sichar | Enon / Salim / Salem / Sicar | Mantida a diferença entre Salim e Salem na discussão do nome. |
+| Nestorii | de Nestório | Nome do autor da opinião mencionada por Teofilacto. |
+| Garizim / Sion | Garizim / Sião | Conservadas as interpretações dos nomes dadas pelos comentadores. |
+| Dositheus | Dositeu | Personagem samaritano mencionado por Orígenes. |
+| regulus | régulo | Conservada a relação com “rei”, necessária às interpretações alegóricas; o próprio comentário explica as possíveis funções do personagem. |
+| messis / seminare / metere | colheita / semear / ceifar | Vocabulário da imagem agrícola; *messor* traduzido por “ceifeiro”. |
+| spiritus septiformis | Espírito septiforme | Fórmula de Alcuíno. |
+| Hilarius de Trinitate | Hilário, Sobre a Trindade | Rubrica patrística. |
+| Augustinus de Consensu Evangelistarum | Agostinho, Sobre a Concordância dos Evangelistas | Rubrica patrística. |
+| Gregorius in Evangelia | Gregório, Sobre os Evangelhos | Rubrica patrística. |
+| probatica piscina / Probaton | piscina probática / *Probaton* | Conservada a explicação de Alcuíno: piscina das ovelhas; termo grego transliterado mantido em itálico. |
+| Bethsaida | Betsaida | Nome da piscina conforme o latim desta chamada, sem substituir por Bethesda da referência inglesa. |
+| grabatum | leito | Mantido nas citações e na interpretação alegórica do próximo que carrega e é carregado. |
+| nativitas | geração | Nos desenvolvimentos trinitários, designa a geração divina do Filho. |
+| dispensatio humanitatis | economia da humanidade | Ação salvífica de Cristo segundo a humanidade assumida. |
+| iudicium | julgamento | Mantida a palavra nas citações; as glosas distinguem discernimento, condenação e pena. |
+| ingenitus | ingênito | Não gerado; conservada a distinção pessoal entre Pai e Filho. |
+| auctor | princípio | Nos trechos sobre a origem divina do Filho; “autor” nos contextos de cura e criação. |
+| Paulus Samosatenus | Paulo de Samósata | Nome próprio padronizado. |
+| Augustinus super Genesim | Agostinho, Sobre o Gênesis | Rubrica patrística. |
+| Augustinus contra Serm. Arian. | Agostinho, Contra o Sermão dos Arianos | Rubrica patrística. |
+| Hilarius de synodis | Hilário, Sobre os Sínodos | Rubrica patrística. |
+| lucerna ardens et lucens | lâmpada que ardia e iluminava | Conservada a distinção entre João, lâmpada, e Cristo, Luz e Sol. |
+| claritas / gloria | glória | Em João 5:41–44 e respectivas glosas; *honor* traduzido por “honra”. |
+| panes hordeacei | pães de cevada | Mantida a matéria dos pães, necessária à interpretação alegórica. |
+| discumbere | reclinar-se | Preservado o costume antigo explicado por Alcuíno. |
+| cophinus | cesto | Nas sobras dos pães e na interpretação dos apóstolos. |
+| credere ei / credere in eum | dar-lhe crédito / crer nele | Distinção explicitada por Agostinho em g7-c004, §13. |
+| signare / signaculum | marcar com seu selo, selar / selo | Na interpretação cristológica de João 6:27. |
+| Augustinus contra Faustum | Agostinho, Contra Fausto | Rubrica patrística. |
+| panis vitae / panis vivus | pão da vida / pão vivo | Conservada a distinção nas citações e glosas. |
+| trahere / attractio | atrair / atração | Na exposição da graça e da vontade em João 6:44. |
+| docibiles Dei | ensinados por Deus | Formulação mantida na citação e nas explicações patrísticas. |
+| virtus sacramenti | virtude do sacramento | Eficácia espiritual, distinguida do sinal sacramental visível. |
+| societas sanctorum | comunhão dos santos | Na explicação eucarística de Agostinho. |
+| Photinus | Fotino | Nome conservado segundo o latim, em oposição à referência inglesa. |
+| Augustinus de correptione et gratia | Agostinho, Sobre a Correção e a Graça | Rubrica patrística. |
+| Augustinus de quaest. Nov. et Vet. Testam. | Agostinho, Sobre as Questões do Novo e do Antigo Testamento | Rubrica patrística; conservada a atribuição da fonte. |
+| Scenopegia | Cenopégia | Nome da festa dos Tabernáculos; conservadas as explicações da fonte sobre as tendas. |
+| seducere / seductor | seduzir / sedutor | Conservada a ambivalência explorada por Agostinho e Alcuíno: enganar ou conduzir pela persuasão. |
+| ministri | guardas | Neste trecho, os enviados pelos chefes e fariseus para prender Jesus. |
+| pontifices | sumos sacerdotes | Distintos dos *principes*, traduzidos por “chefes”. |
+| Cataphryges | catáfriges | Antiga designação dos montanistas; esclarecida na nota [^59]. |
+| Manichaeus | Maniqueu | Nome pessoal empregado na passagem sobre a promessa do Espírito Santo. |
+| Hieronymus in prologo Genes. | Jerônimo, Prólogo do Gênesis | Rubrica patrística. |
+| chrisma | crisma | Conservada a explicação da fonte sobre sua relação com Cristo e a unção. |
+| discretio | discernimento | Em g9-c001, exame prudente das faltas próprias e alheias. |
+| gazophylacium | gazofilácio | Lugar do templo onde se guardavam as ofertas; mantida a explicação etimológica da fonte. |
+| principium | Princípio | Designação divina em g9-c006; preservadas as diferentes interpretações patrísticas. |
+| servus peccati | escravo do pecado | Em g9-c008, mantém a oposição entre escravidão e liberdade. |
+| dispensatio | economia da salvação | Em g9-c007, contraposta à divindade na explicação da missão do Filho. |
+| Nestorius / Apollinarius | Nestório / Apolinário | Formas portuguesas dos nomes. |
+| Sabellianus / Arianus | sabeliano / ariano | Designações dos seguidores das doutrinas mencionadas. |
 | semen Abrahae | descendência de Abraão | Na comparação de Orígenes em g9-c009, §20, preservado “semente” nos desenvolvimentos sobre a geração corporal. |
 | seminales rationes | razões seminais | Princípios presentes como sementes, capazes de se desenvolver; nota [^64]. |
 | aeterna processio | processão eterna | Em g9-c010, distinguida da vinda do Verbo na carne. |
@@ -9,6 +242,316 @@
 
 ## Decisões
 
+- Tradução integral do latim fornecido; o inglês serviu apenas de referência. Conservados os 198 parágrafos-fonte, na ordem solicitada, além das três notas do tradutor.
+- Mantidos os identificadores dos arquivos e a numeração dos capítulos do catálogo, sem ajustá-los à numeração dos capítulos bíblicos comentados. Os títulos portugueses do catálogo seguem o latim: “Capítulo 1”, “Prólogo”, “Lição N”.
+- Conservados os números dos versículos como texto simples, sem convertê-los em listas, e os negritos, itálicos e blocos de citação do original.
+- Nas rubricas, adotadas as formas sem “Santo/São” de Lucas e Marcos, exceto São Gregório Magno, cuja forma explícita em Mateus foi seguida, juntamente com os títulos “Morais” e “Sobre Ezequiel”.
+- Em g1-pr, §§3 e 11, *ea quae sub ipso erant* foi traduzido por “as coisas que estavam abaixo dele”, preservando a formulação necessária à interpretação da humanidade de Cristo; não se adotou “cauda do manto” da referência inglesa.
+- Mantidas as diferenças entre as citações repetidas: “obras de Deus” e “glória de Deus”; “estou enxergando” e “enxerguei”; e “casa” e “terra” no prólogo.
+- Em g10-c001, §14, conservado *ut* em itálico por ser objeto de análise gramatical; trata-se da expressão vertida por “para que” nas citações próximas.
+- Em g10-c001, §22, *non fuit depositum* foi traduzido por “não foi removido”, em relação ao lodo já aplicado, sem seguir a referência inglesa.
+- Em g10-c004, §§5 e 18, conservado o afirmativo latino *et audistis*, “e ouvistes”, apesar do negativo na referência inglesa.
+- Em g10-c002, §25, e g11-c001, §10, preservados, respectivamente, o coração já ungido e a negação “não se diz: Sê algo menor do que és”, conforme o latim.
+- Em g11-c001, §23, traduzida integralmente a exposição final sobre as passagens claras e obscuras e a necessidade de crer, ausente da referência inglesa fornecida.
+- Em g11-c002, §4, não acrescentado “antes de mim”, ausente do latim; conservada a interpretação posterior de Agostinho, *praeter me*, como “à parte de mim”.
+- Em g11-c003, §19, mantido “salteador” para *latro*, apesar de “lobo” na referência inglesa.
+- Empregados “tu” no singular, “vós” no plural e “vós” no tratamento reverente dirigido a Deus. As interpelações ao leitor acompanham o número latino.
+- Nota [^1], g10-c001, §25: explica o jogo entre *missus* e *dimissus*.
+- Nota [^2], g10-c004, §19: explica a aproximação sonora entre *video* e *invideo*.
+- Nota [^3], g11-c001, §17: explica a aproximação entre *emittit* e *dimittit*. Numeração contínua reservada até [^3].
+- Traduzidos os 249 parágrafos-fonte desta chamada, mantendo sua ordem e estrutura, além de três notas do tradutor.
+- Em g11-c004, §13, conservado o fecho latino sobre a entrega da vida pelas ovelhas, sem substituí-lo pela citação sobre o conhecimento do Filho presente no inglês.
+- Em g11-c005, §§9, 34 e 35, traduzido *quod dedit mihi, maius omnibus est* por “o que meu Pai me deu é maior que tudo”, conforme o latim e o argumento subsequente, sem adotar a leitura inglesa que faz do Pai o sujeito de “é maior”.
+- Em g11-c005, §38, preservada a leitura fornecida “o fato de ter dito ‘um’ te liberta de Sabélio”; não se corrigiu silenciosamente a aparente incongruência textual nem se incorporou a redação distinta da referência inglesa.
+- Em g11-c005, §§4, 22–24, *animam nostram tollis* foi vertido idiomaticamente por “nos deixas em suspenso”; na explicação de Alcuíno, mantida a oposição entre perturbar o espírito e salvar as almas.
+- Em g11-c006, §18, conservados “predestinado” e “Espírito de santificação”, conforme o latim, sem substituir a formulação pela da referência inglesa.
+- Em g11-c007, §9, mantida a explicação *a primaeva aetate*, “desde a primeira idade”, ausente no inglês.
+- Em g12-c001, §§10–11, conservadas as duas interpretações distintas sobre a identidade de Maria. No §16, não se acrescentou a rubrica de Agostinho, ausente do latim.
+- Em g12-c001, §17, conservado *ut* em itálico como objeto de análise gramatical; corresponde a “para que” na citação comentada.
+- Em g12-c004, §14, preservado *ante duos dies*, “dois dias antes”, apesar da cronologia diferente no inglês.
+- Em g12-c005, §19, mantido o contraste latino entre *superi* e *Inferi*, “seres do alto” e “infernos”, sem adotar a menção à terra da referência inglesa.
+- Em g12-c006, §17, “ainda não dera nenhum sinal de ressurreição” conserva a formulação latina, sem ampliá-la para a afirmação inglesa de que Cristo ainda não ressuscitara ninguém.
+- Em g12-c006, §36, mantidas a formulação condicional e a sequência de citações do latim, sem reconstruir o argumento a partir do inglês.
+- Nota [^4], g11-c004, §32: esclarece o duplo sentido de *anima*, necessário à passagem de “vida” para “alma”.
+- Nota [^5], g11-c005, §38: identifica a alusão mitológica a Cila e Caríbdis.
+- Nota [^6], g12-c006, §25: explica a aproximação etimológica entre *monumentum* e *mentem moneat*. Numeração contínua reservada até [^6].
+- Traduzidos os 205 parágrafos-fonte desta chamada, preservando os oito títulos, a sequência, os blocos de citação e a divisão dos versículos, além de três notas do tradutor.
+- Em g12-c007, §§6 e 18, conservadas Maria e Marta, ambas presentes no latim; no §30, traduzida somente a fórmula sobre desatar, sem acrescentar a fórmula sobre ligar presente no inglês.
+- Em g12-c008, §§5, 19 e 21, mantido “vos convém”, conforme *expedit vobis*, sem substituir por “nos convém”.
+- Em g12-c008, §21, preservadas as hipóteses argumentativas de Orígenes sobre a origem da profecia de Caifás e sua distinção entre as palavras proferidas e o sentido que o falante não compreende.
+- Em g12-c009, §18, *apprehendere* foi traduzido por “acolher”, conservando a aplicação espiritual da busca de Jesus; não se acrescentou a menção à Igreja presente apenas no inglês.
+- Em g13-c001, §14, conservada a afirmação latina de que o nono dia do mês precede o sexto dia antes da Páscoa, sem harmonizá-la com a referência inglesa.
+- Em g13-c001, §21, conservado o emprego do plural pelo singular, conforme o latim; no §29, mantido o contraste literal “tens” / “terás”, apesar da aparente incongruência com a explicação subsequente sobre o conjunto dos maus.
+- Em g13-c003, §§6–7, conservada a divisão da sentença do grão de trigo entre os versículos 24 e 25. No §16, mantido “se amas, perderás”, conforme o futuro latino, sem convertê-lo no imperativo da referência inglesa.
+- Em g13-c003, mantida “vida” nas fórmulas de entrega e conservação da vida; empregada “alma” nas análises dos desejos e do ódio à própria alma dos §§17–19, conforme o uso já registrado de *anima*.
+- Em g13-c004, §§7, 22–23, *omnia* foi traduzido por “tudo”, preservando sua distinção de *omnes*, “todos”. No §17, conservada a terceira pessoa do latim nas explicações sobre a glorificação do Filho.
+- Em g13-c005, §9, “há um pouco de luz em vós” conserva a interpretação de Agostinho sobre a medida de compreensão, distinta da interpretação temporal apresentada por Crisóstomo.
+- Nota [^7], g12-c007, §26: esclarece a relação entre os quatro dias e os quatro elementos da concepção antiga.
+- Nota [^8], g13-c001, §34: explica os sentidos de *libra*, medida de peso e balança, necessários à associação com a justiça.
+- Nota [^9], g13-c002, §25: registra o jogo verbal *Turba turbavit turbam*. Numeração contínua reservada até [^9].
+- Traduzidos os 177 parágrafos-fonte desta chamada, preservando os seis títulos, a ordem das glosas, os blocos de citação e a divisão dos versículos; acrescentadas duas notas do tradutor.
+- Em g13-c006, §11, a formulação irregular com *noverant* foi vertida impessoalmente como “não se sabia”, preservando a objeção sobre a vinda de Cristo e a falta de atenção de seus ouvintes.
+- Em g13-c006, §22, conservado o sentido condicional do latim: o progresso pelo amor permitiria superar a busca de glória humana, diferentemente da referência inglesa.
+- Em g13-c007, §§5 e 13, mantido “não as guardar”, conforme *non custodierit*, sem substituir pela incredulidade mencionada no inglês.
+- Em g14-c001, §§3 e 11, *coena facta* foi traduzido por “preparada a ceia”, em conformidade com a explicação expressa de Agostinho de que a refeição ainda prosseguia.
+- Em g14-c001, §14, preservado o sentido latino de fazer a maldade dos perseguidores servir à obra de amor de Cristo; não adotada a conversão dos perseguidores apresentada no inglês.
+- Em g14-c002, §13, e g14-c004, §30, mantida a ausência de rubrica patrística no latim, sem importar as atribuições da referência inglesa.
+- Em g14-c002, §§16 e 29, preservados, respectivamente, a lavagem dos pés com a vinda do Espírito Santo e o enunciado “quem é puro purifique-se ainda mais”, conforme o latim.
+- Em g14-c003, §20, mantida a investigação de Orígenes sobre a necessidade da lavagem corporal dos pés, sem convertê-la na negação categórica da referência inglesa.
+- Em g14-c003, §36, *unigeniti genitorem* foi traduzido por “genitor do Unigênito”, preservando a relação entre o Pai e o Filho.
+- Em g14-c004, §30, conservada a distinção entre mergulhar para lavar e mergulhar para tingir; no §44, “sem haver de retornar ao perdão” preserva a formulação latina.
+- Nota [^10], g13-c007, §10: explica a diferença entre *credere apostolo* e *credere in apostolum*.
+- Nota [^11], g14-c004, §26: esclarece a posição reclinada dos convivas, necessária para compreender os movimentos de João. Numeração contínua reservada até [^11].
+- Traduzidos os 154 parágrafos-fonte desta chamada, preservando os nove títulos, a divisão das glosas, os blocos de citação, os números dos versículos e os trechos em itálico; acrescentadas três notas do tradutor.
+- Em g14-c005, §6, mantido “Se o Filho foi glorificado nele”, conforme *si filius clarificatus est in eo*, sem substituir “Filho” por “Deus” a partir da referência inglesa.
+- Em g14-c005, §7, preservada a permanência na glória divina “segundo a economia da sujeição”, sem adotar a ideia de abandono dessa economia presente no inglês.
+- Em g14-c006, §§8 e 10, mantidas as indicações temporais latinas *post multum* e *in brevi tempore*, respectivamente “depois de muito tempo” e “em breve tempo”, apesar da divergência da referência inglesa.
+- Em g15-c001, §3 e glosas correspondentes, a oração com *quia* foi ligada a “eu vos teria dito”: “se não fosse assim, eu vos teria dito que vou preparar-vos um lugar”, conforme a leitura desenvolvida pelos comentadores.
+- Em g15-c002, §9, mantidos “caminhar e pregar”, conforme *ire et praedicare*, sem substituir por agir e contemplar a partir do inglês.
+- Em g15-c003, §11, ajustada a articulação da pontuação para ligar a ausência de diferença à natureza, preservando a distinção entre Pai e Filho desenvolvida na glosa.
+- Em g15-c003, §22, conservada integralmente a observação sobre a diferença entre o texto grego e “nosso texto”, ausente da referência inglesa.
+- Em g15-c004, §§2–4, preservados o início “Caso contrário, crede por causa das próprias obras” e os destinatários explícitos dos pedidos: “ao Pai” e “me”.
+- Em g15-c005, §24, mantida a ordem latina da promessa: a quem não tem o Espírito, para que o tenha; a quem o tem, para que o tenha mais abundantemente, sem reproduzir a inversão final do inglês.
+- Em g15-c006, §10, preservada a oposição latina entre vida presente e futura, sem acrescentar “não só”.
+- Nota [^12], g14-c005, §9: explica o sentido de “anagógico” na passagem.
+- Nota [^13], g15-c003, §17: esclarece o emprego trinitário de “hipóstases”.
+- Nota [^14], g15-c006, §6: explica o sentido jurídico de *pupillus*, necessário à distinção lexical de Agostinho. Numeração contínua reservada até [^14].
+- Traduzidos os 146 parágrafos-fonte desta chamada, preservando os oito títulos, as divisões das glosas, os blocos de citação e a marcação dos versículos; acrescentadas três notas do tradutor.
+- Em g15-c007, §§6 e 18, traduzido *quaecumque dixero* por “tudo o que eu vos disser”, preservando o futuro do latim.
+- Em g15-c007, §15, conservada a frase final sobre a atribuição das obras àquele de quem o Filho procede, ausente da referência inglesa.
+- Em g15-c007, §23, preservada a pergunta de Agostinho e entendida a apresentação individual das pessoas como modo de instrução, sem introduzir a ideia de operações trinitárias separadas.
+- Em g15-c007, §28, mantido “Deixou-nos a paz neste mundo”, conforme o latim, apesar da negação indevida na referência inglesa.
+- Em g16-c003, §8, conservadas em itálico as formas *clarificatus* e *glorificatus*, pois a observação lexical exige distinguir os dois termos latinos normalmente traduzidos por “glorificado”.
+- Em g16-c003, §9, mantido “se o Pai nos ama”, conforme *si igitur pater amat nos*, sem substituir pelo amor de Cristo a partir do inglês.
+- Em g16-c004, §12, mantida a “túnica” oferecida por Deus, conforme *tunicam suam*, em lugar do “tempo” da referência inglesa.
+- Em g16-c004, §17, conservada a leitura fornecida *mortalitatem carnis*, “mortalidade da carne”, sem emendá-la para “imortalidade”.
+- Em g16-c005, §19, mantido “Conhecer-vos é entendimento perfeito”, conforme *scire te, sensus est consummatus*, sem adotar “justiça perfeita” da referência inglesa.
+- Em g16-c006, §§4, 11 e 12, traduzido *in eis* por “neles”, para preservar a distinção explícita da glosa entre “neles”, “entre eles” e “diante deles”.
+- Nota [^15], g15-c007, §24: esclarece os sentidos de *suggerere* e o jogo com a ideia de inferioridade.
+- Nota [^16], g16-c001, §8: explica a dupla acepção de *colere* e o jogo entre *adorando* e *arando*.
+- Nota [^17], g16-c004, §14: explica a aproximação espiritual entre *amicus* e *animae custos*. Numeração contínua reservada até [^17].
+- Traduzidos os 141 parágrafos-fonte desta chamada, preservando os sete títulos, a ordem das glosas e os blocos de citação; acrescentadas três notas do tradutor.
+- Em g16-c007, §8, entendido *secundum proprietatem patris intellectum parientis* como referência à propriedade do Pai entendido como aquele que gera.
+- Em g17-c001, §5, não acrescentada a frase final presente apenas na referência inglesa; em g17-c002, §2, conservada essa frase onde aparece no latim.
+- Em g17-c001, §8, conservada a frase final sobre o zelo dos perseguidores, ausente da referência inglesa.
+- Em g17-c002, §19, preservada a formulação *velut nunquam eos de cetero visuros Christum praenuntiavit*, “anunciou como se nunca mais fossem ver Cristo”, sem eliminar sua tensão com a explicação precedente.
+- Em g17-c003, §16, traduzido *dixerit* como “havia falado”, sem introduzir a possibilidade de ter dito presente na referência inglesa; no §17, conservado Cristo como sujeito de “disse”, conforme o latim.
+- Em g17-c003, §21, conservada a forma abreviada da segunda citação, *omnia quae habet mea sunt*, sem inserir “o Pai”, embora a glosa subsequente mencione esse nome.
+- Em g17-c004, §19, conservada a observação histórica sobre a alegria maior pelo nascimento de um menino, sem modernização ou supressão.
+- Em g17-c005, §§2, 9–10 e 17, *rogare* foi traduzido por “perguntar” ou “pedir”, conforme a interpretação em discussão; a nota [^19] explicita a polissemia.
+- Em g17-c006, §11, traduzido *protensio* por “extensão”, conforme o latim; no §16, conservada a conclusão do discurso ausente da referência inglesa.
+- Nota [^18], g17-c004, §27: esclarece o duplo sentido de *finis*, finalidade e término.
+- Nota [^19], g17-c005, §9: esclarece os dois sentidos de *rogare* e do verbo grego correspondente.
+- Nota [^20], g17-c005, §23: esclarece o sentido técnico de “homem animal”. Numeração contínua reservada até [^20].
+- Traduzidos os 153 parágrafos-fonte desta chamada, preservando os oito títulos, as divisões das glosas, os blocos de citação e a referência ao Salmo 108; acrescentadas três notas do tradutor.
+- Em g18-c001, §16, não acrescentada a abertura presente apenas na referência inglesa; no §23, conservada a exposição afirmativa do latim, sem convertê-la nas perguntas da referência.
+- Em g18-c001, §24, conservado *cognitio mei* como “conhecimento de mim”, sem substituir por “conhecimento de Deus”.
+- Em g18-c001, §33, conservada a argumentação latina sobre a predestinação do Filho de Deus e sua identidade com o Filho do homem, sem incorporar a reformulação inglesa.
+- Em g18-c002, §8, traduzida a referência ao período anterior à encarnação conforme o latim, sem adotar a menção inglesa ao ventre materno.
+- Em g18-c004, §7, conservado o futuro “santificarei”; nas glosas que empregam *sanctifico*, mantido o presente. No §17, conservado “vossos membros”, sem substituir por “vossos corpos”.
+- Em g18-c005, §9, conservado o encerramento do discurso no mesmo tema com que começou; no §11, mantida a combinação “Sede misericordiosos” e “vosso Pai celeste é perfeito”, tal como está no latim.
+- Em g18-c005, §20, conservada a citação “Para que sejam um em nós”, sem substituí-la por “Eu neles, e vós em mim”, como faz a referência inglesa.
+- Em g18-c006, §14, conservado *in illo diligimus* como “nele amamos”, sem adotar a voz passiva da referência inglesa.
+- Em g19-c001, §11, preservada a negação latina: coisas que “não era permitido aos outros ouvir”.
+- Em g19-c002, §14, conservado o singular de *dicit ei* na citação; no §19, entendido *non comprehenderant* como “não o haviam prendido”, conforme o contexto da prisão, sem adotar “não haviam entendido” da referência inglesa.
+- Nota [^21], g18-c003, §15: esclarece a distinção entre *unum* e *unus*, que a tradução portuguesa não reproduz diretamente.
+- Nota [^22], g18-c006, §14: explica os casos gramaticais latinos mencionados na observação sobre “combati o bom combate”.
+- Nota [^23], g19-c001, §8: explicita a leitura de *Cedron* como genitivo plural grego na glosa de Alcuíno, sem apresentá-la como determinação da origem do topônimo. Numeração contínua reservada até [^23].
+- Traduzidos os 186 parágrafos-fonte desta chamada, preservando os treze títulos, os blocos de citação, a numeração dos versículos e o destaque integral de g19-c006, §2; acrescentadas duas notas do tradutor.
+- Em g19-c003, §8, mantido “fazer o bem aos que fazem o mal”, conforme o latim; no §12, preservada a pergunta “Não queres que eu beba”, distinta da formulação do versículo.
+- Em g19-c004, §8, conservada a vontade atribuída a Caifás, sem adotar a reformulação inglesa sobre Anás; no §9, mantida a ideia de ser considerado culpado de crime menor.
+- Em g19-c007, §7, conservada a atribuição da profecia às Lamentações, presente no latim.
+- Em g19-c008, §11, preservada a referência tanto à divindade como à humanidade, ausente da formulação abreviada inglesa.
+- Em g19-c009, §7, mantido “a Caifás”, conforme a citação latina da glosa, embora o versículo no §2 diga “de Caifás”; não harmonizadas as formulações.
+- Em g19-c009, §§13 e 15, preservadas as explicações distintas sobre a cronologia pascal; “décimo quarto/quinto dia da lua” conserva a contagem lunar da fonte.
+- Em g19-c010, §8, preservada a negação latina: Pilatos “não prolongou o julgamento”; no §9, mantida a suspeita sem acrescentar que seria de inocência.
+- Em g19-c010, §18, “reino que existe entre nós” traduz o reino terreno de que a glosa expõe a dependência dos servidores.
+- Em g2-c001, §9, conservada a distinção entre conhecimento do Pai e o Pai que é conhecimento; no §22, mantida a formulação latina sobre aquilo que “abrange as eras”, sem seguir a reformulação inglesa.
+- Em g2-c002, §3, mantido “sem princípio”, conforme o latim, e traduzido *auctor* pelo sentido relacional “aquele de quem procede”.
+- Em g2-c003, §2, conservado o texto latino *de Deo* como “de Deus”, sem substituí-lo por “em Deus”, como faz a referência inglesa; no §6, preservado que o Verbo recebe de Deus o ser Deus.
+- Nota [^24], g19-c010, §22: esclarece a observação sobre a quantidade da vogal de *hoc* e o sentido de finalidade defendido por Agostinho.
+- Nota [^25], g2-c001, §3: esclarece o sentido de *verbum* e o emprego filosófico de “verbo”, distinto do uso gramatical corrente. Numeração contínua reservada até [^25].
+- Traduzidos os 142 parágrafos-fonte desta chamada, preservando os treze títulos, os blocos de citação e os destaques; acrescentadas três notas do tradutor.
+- Em g2-c005, §6, mantido “Verbo de Deus”, conforme o latim, sem substituir por “Verbo do Verbo” a partir da referência inglesa; no §8, preservado “criador de Deus” para *Dei conditorem*, sem adotar “Deus rival”.
+- Em g2-c006, §§7 e 9, conservada a distribuição latina dos argumentos, inclusive o exemplo do diabo e do homicida no §9; no §11, mantidos os seres irracionais mencionados no latim.
+- Em g2-c007, preservadas as diferentes propostas de pontuação e as interpretações de cada glosa, sem harmonizá-las. No §5, conservada a formulação de Hilário sobre Deus nascer como Criador.
+- Em g2-c009, §3, conservada a primeira pessoa do plural da citação latina; no §7, traduzida a afirmação de que Cristo morto transformou a morte em vida.
+- Em g2-c012, §5, não acrescentada a rubrica “Agostinho”, presente somente na referência inglesa; em g2-c013, §8, conservada a rubrica interna “Sobre João”.
+- Em g2-c013, §§4, 15 e 16, mantido o plural “sangues”, necessário ao comentário; conservadas em itálico as formas latinas *sanguina* e *sanguines*.
+- Em g2-c014, traduzido *habitavit in nobis* por “habitou em nós”, preservando a explicação “conviveu entre os homens” no §15; no §10, mantida a referência à parte principal que ficaria enferma, sem seguir a reformulação inglesa.
+- Em g2-c015, §5, mantido “Eliseu”, conforme o latim, em vez de “Elias”, presente na referência inglesa.
+- Em g2-c017, mantida a oposição entre a lei “dada” e a graça e a verdade “feitas”, da qual dependem as glosas.
+- Nota [^26], g2-c007, §3: esclarece as duas divisões sintáticas discutidas por Agostinho.
+- Nota [^27], g2-c010, §17: esclarece que a observação sobre o artigo diz respeito ao grego e mostra a distinção em português.
+- Nota [^28], g2-c016, §2: explica a ambiguidade de *ante me factus est* e justifica sua tradução literal. Numeração contínua reservada até [^28].
+- Traduzidos os 146 parágrafos-fonte desta chamada, com os sete títulos, os blocos de citação e os destaques; acrescentadas três notas do tradutor.
+- Em g2-c018, §11, traduzida a insuficiente sutileza da investigação, conforme o latim, sem seguir a referência inglesa, que a apresenta como excessiva.
+- Em g2-c019, §§4 e 19, usado “o profeta”, preservando a distinção expressamente discutida entre um profeta qualquer e o profeta esperado.
+- Em g2-c019, §§17–19, mantida a argumentação de Orígenes sobre a hipótese de nova incorporação e sua refutação, sem converter a hipótese citada em posição do comentador.
+- Em g2-c020, §15, “stetit” aparece como “está” na fórmula evangélica e como “está de pé” quando Orígenes explicita a imagem da permanência e imutabilidade.
+- Em g2-c020, §26, mantidos “descida deles”, “Jesus” na comparação das heranças e “inocentes” na frase final, conforme o latim; não acrescentada a penitência mencionada somente na referência inglesa.
+- Em g2-c021, §12, preservada a rubrica “Beda”, em vez de “Glosa”, presente na referência inglesa.
+- Em g2-c022, §6, preservada a afirmação latina de que Cristo veio ao batismo com o Espírito Santo; no §14, mantido o futuro de “superveniet”.
+- Em g2-c023, §9, mantidos “preparação” e “modo dessa preparação”, conforme o latim; “non propter gratiam Christi” traduzido por “não para fazer um favor a Cristo”, sem substituir Cristo pelo mestre João.
+- Nota [^29], g2-c018, §19: explica o sentido de *sinus* como dobra da veste, necessário à glosa de Agostinho.
+- Nota [^30], g2-c020, §7: esclarece a relação entre o nome dos fariseus e a ideia de separação explorada por Orígenes.
+- Nota [^31], g2-c021, §15: explica os sentidos de “homem” e “esposo” contidos em *vir*. Numeração contínua reservada até [^31].
+- Traduzidos os 174 parágrafos-fonte desta chamada, com os doze títulos, os blocos de citação e os destaques; acrescentadas quatro notas do tradutor.
+- Em g2-c025, §§3, 8 e 13, preservada a distinção entre *Iona* (“Jonas”) e *Ioanna* (“João”), necessária às etimologias apresentadas por Alcuíno.
+- Em g2-c026, §15, mantidas as leituras afirmativa e interrogativa das palavras de Natanael; no §12, a descrição do ouvinte dedicado às Escrituras segue a construção latina.
+- Em g2-c027, §§5 e 14, “crês” permanece afirmativo, conforme a pontuação latina; conservadas as interpretações distintas dos comentadores sobre a presença de Filipe debaixo da figueira.
+- Em g20-c001, §9, preservada integralmente a explicação transmitida sobre os corantes escarlate e púrpura, ausente da referência inglesa.
+- Em g20-c002, §8, traduzida a formulação latina “em sua humilhação, foi-lhe tirado o julgamento”, sem substituí-la pela citação diferente da referência inglesa.
+- Em g20-c004, §16, preservado “julgando que eles se comoveriam”, conforme o latim, em vez da interpretação contrária da referência inglesa.
+- Em g20-c006, §13, não acrescentada a rubrica “Agostinho”, presente apenas na referência inglesa.
+- Em g20-c007, §5, mantida a descrição latina da confecção das vestes e sua aplicação à túnica, sem harmonizá-la com a formulação inglesa.
+- Em g20-c008, §10, conservado “Mateus e Lucas”, conforme o latim; no §13, conservada a afirmação de que não era momento de consolar com palavras.
+- Nota [^32], g2-c026, §16: esclarece a associação entre “nazareno” e o rebento da profecia de Isaías.
+- Nota [^33], g20-c004, §15: explica o emprego numérico das letras gregas e registra as formas *g* e *s* transmitidas no trecho.
+- Nota [^34], g20-c007, §9: esclarece a relação entre “Católica”, universalidade e “todo”.
+- Nota [^35], g20-c008, §16: explica as construções latinas *in sua* e *in suam*, necessárias às interpretações de Agostinho e Beda. Numeração contínua reservada até [^35].
+- Traduzidos os 179 parágrafos-fonte desta chamada, com os seis títulos, os blocos de citação e os destaques; acrescentadas três notas do tradutor.
+- Em g20-c010, §15, preservada a oração sobre o banho e a bebida, ausente da referência inglesa.
+- Em g20-c011, §13, e g21-c003, §16, não acrescentadas as rubricas patrísticas presentes apenas na referência inglesa.
+- Em g21-c001, §§13–15, mantidas em itálico as expressões latinas examinadas pelos comentadores e preservada a explicação de “sábado” como designação da semana.
+- Em g21-c001, §22, e g21-c002, §26, preservada a direção da figura retórica indicada pelo latim: o todo designa a parte, isto é, “Senhor” designa seu corpo.
+- Em g21-c002, §§7, 34, 36 e 38, mantido “senhor” como tratamento cortês ao suposto jardineiro, com a segunda pessoa singular, distinguindo-o do reconhecimento de Jesus como Senhor.
+- Em g21-c002, §40, a forma transmitida *fiebat* foi entendida como erro por *flebat*, conforme a construção e o contexto: “o chorava como a um homem”.
+- Em g21-c002, §48, e g21-c003, §31, conservadas as etimologias transmitidas por Beda e Alcuíno, sem substituí-las por explicações modernas.
+- Em g21-c003, §24, preservada a negação latina: Cristo já não faz uma súplica ao Pai, mas dá o poder por sua própria autoridade; a referência inglesa omite essa negação.
+- Em g21-c004, §11, traduzido “não quisestes entrar”, conforme o latim, em vez de “não podeis entrar”, presente na referência inglesa.
+- Em g21-c004, §21, preservado “sem apalpar”, conforme o latim, em vez de “sem ver”, presente na referência inglesa.
+- Nota [^36], g20-c011, §21: explica o sentido literal e o uso contextual de *coena pura*.
+- Nota [^37], g21-c001, §13: esclarece as expressões *una sabbati* e *prima sabbati*, necessárias às glosas seguintes.
+- Nota [^38], g21-c004, §16: esclarece o sentido cristológico de “hipóstase”. Numeração contínua reservada até [^38].
+- Traduzidos os 150 parágrafos-fonte desta chamada, com os oito títulos, os blocos de citação, os números e os destaques; acrescentadas quatro notas do tradutor.
+- Em g22-c001, §22, preservados “comprar” e o temor dos discípulos, conforme o latim, sem substituí-los pelas formulações da referência inglesa.
+- Em g22-c001, §31, conservada a atribuição a Crisóstomo, enquanto a referência inglesa atribui o trecho a Teofilacto.
+- Em g22-c001, §38, a construção irregular *accedit ad legem gratiae* foi entendida pela oposição paralela entre Lei e graça, letra e Espírito: “à Lei se acrescenta a graça”.
+- Em g22-c002, §7, traduzido *ligno vitae* por “árvore da vida”, conforme o latim, e preservada a frase final que introduz o parágrafo seguinte.
+- Em g22-c003, §§2–3, conservados “filho de João” e “cordeiros” segundo o latim; não adotados “Jonas” nem “ovelhas” da referência inglesa.
+- Em g22-c004, §5, preservada a observação de Orígenes sobre os aptos para essa obra não deixarem cedo esta vida, sem adotar a reformulação inglesa sobre a prontidão para morrer.
+- Em g22-c005, conservado *sic* como “assim” nas citações latinas; no §16, preservado o condicional *si*, explicitamente associado ao texto grego.
+- Em g22-c005, §13, preservadas integralmente a imagem da terra que brota e ferve, a distinção entre fé e visão e a exposição das vidas ativa e contemplativa.
+- Em g22-c005, §16, a forma irregular *Petrus orbis terrarum inthronizavit magistrum* foi entendida, pelo contexto, como Cristo estabelecendo Pedro como mestre de toda a terra.
+- Em g22-c006, mantido “Amém” somente no §6, onde consta do latim, sem acrescentá-lo ao versículo do §3.
+- Em g3-c002, §17, a sequência negativa sobre a água e o vinho foi vertida com “não foi [...] apenas”, explicitando a oposição contextual entre mera alteração de sabor e transformação do que existia.
+- Em g3-c002, §18, *vinum aquam fecit* foi entendido como transposição material dos substantivos: “fez da água vinho”, conforme o milagre descrito em toda a passagem.
+- Nota [^39], g22-c001, §36: esclarece o jogo sonoro entre *piscis assus* e *Christus passus*.
+- Nota [^40], g22-c003, §10: explica a alternância de *diligere* e *amare*, necessária ao argumento de Agostinho.
+- Nota [^41], g22-c005, §5: esclarece a diferença textual entre *sic* e *si*, retomada expressamente na glosa de Crisóstomo.
+- Nota [^42], g3-c002, §3: identifica “metreta” como medida antiga de capacidade e explica a conservação do termo para as glosas seguintes. Numeração contínua reservada até [^42].
+- Traduzidos os 173 parágrafos-fonte desta chamada, com os dez títulos, os números e os destaques, além de três notas do tradutor.
+- Mantidas as rubricas patrísticas do latim; em g4-c006, §8, conservada a atribuição a Agostinho, embora a referência inglesa atribua o trecho a Beda. Em g4-c001, §13, não acrescentada a atribuição a Crisóstomo ausente do latim.
+- Em g3-c003, §13, preservada a alternância entre descer e subir presente no latim.
+- Em g3-c004, §8, preservada a recusa de todo comércio no templo, inclusive o considerado honesto; não adotada a qualificação inglesa de comércio suspeito.
+- Em g3-c004, §22, *privata qualibet amaritudine* foi entendido como expressão ablativa: “por qualquer amargura pessoal”; preservada a dificuldade do trecho sem importar a ampliação da referência inglesa.
+- Em g3-c004, §23, conservadas as formulações latinas “querem ser comprados” e “é chamada gratuita”, sem substituir a última por “chama-se graça”, como faz a referência inglesa.
+- Em g3-c004, §29, preservado *eorum qui boni videntur* como “daqueles que parecem bons”, sem adotar “bens terrenos” da referência inglesa.
+- Em g3-c005, §13, mantida a formulação peculiar “membros de um membro” e a distinção argumentativa entre “no terceiro dia” e “em três dias”.
+- Em g3-c005, §§17–19, conservados todos os números, os cálculos, a descrição antiga da formação corporal e as formas gregas transliteradas tal como aparecem no latim.
+- Em g3-c006, §10, traduzido *tempus opportunum* por “tempo oportuno”, sem adotar a afirmação inglesa sobre a curta duração do zelo.
+- Nas falas reverentes de Nicodemos e Pedro dirigidas a Jesus, empregado “vós”; nas respostas de Jesus a Nicodemos, “tu”, preservando as passagens explícitas ao plural. Os judeus que o desafiam empregam “tu”.
+- Em g4-c002, §7, conservado que Nicodemos não se afasta da fé, conforme o latim; no §9, preservada a pergunta sobre Deus permanecer impassível, distinta da referência inglesa.
+- Em g4-c003, §9, conservado Eliseu, conforme o latim, sem adotar Elias da referência inglesa.
+- Em g4-c004, §10, preservadas integralmente as formulações de Hilário sobre a origem do corpo, a contribuição de Maria e a presença ilimitada do Verbo.
+- Em g4-c005, §11, conservada a oposição latina entre cura para a vida temporal e cura para a vida eterna, sem substituí-la pela oposição inglesa entre morte temporal e eterna.
+- Em g4-c006, conservado “julgar” para *iudicare*, inclusive nas glosas que distinguem julgamento e condenação; no §11, mantida “graça de Deus”, conforme o latim.
+- Nota [^43], g3-c005, §17: esclarece as duas datas expressas pela contagem romana das calendas.
+- Nota [^44], g3-c006, §8: esclarece a condição dos catecúmenos e a disciplina eucarística pressuposta pela glosa.
+- Nota [^45], g4-c002, §6: explica a amplitude de *spiritus*, necessária para acompanhar as interpretações do vento e do Espírito Santo. Numeração contínua reservada até [^45].
+- Traduzidos os 164 parágrafos-fonte desta chamada, com os oito títulos, a distribuição dos versículos, os blocos de citação e os destaques; acrescentadas duas notas do tradutor.
+- Conservadas as atribuições do latim: Alcuíno em g4-c009, §9; Beda no §10; Agostinho em g4-c010, §10. Em g4-c007, §8, não acrescentada a atribuição a Crisóstomo presente apenas na referência inglesa.
+- Em g4-c008, §18, *non solum autem baptizatus est ab eo* foi traduzido como “ele não foi o único a ser batizado por João”, preservando o argumento latino sobre a comparação dos batismos.
+- Em g4-c009, §21, mantido o jogo entre diminuir pela perda da cabeça e ser elevado na cruz.
+- Em g4-c010, §12, conservadas sob Teofilacto as perguntas finais sobre o Verbo do Pai, sem deslocá-las para a rubrica seguinte conforme a referência inglesa.
+- Em g4-c011, §11, conservado que Cristo não recebeu com medida os dons que dá, sem acrescentar que os dá com medida. No §17, lido o evidente lapso *ita filii* como *ira filii*, “a ira do Filho”.
+- Em g5-c001, §§12–14, conservadas separadamente as interpretações de Crisóstomo, Agostinho e Alcuíno sobre o batismo dos discípulos e a concessão do Espírito Santo, sem harmonizá-las.
+- Em g5-c001, §20, preservado que o poço não perde o nome de fonte, conforme o latim, em contraste com a referência inglesa.
+- Na conversa com a samaritana, ela emprega “tu” na pergunta inicial e passa a “vós” ao chamar Jesus de “Senhor”; Jesus mantém “tu” ao dirigir-se a ela.
+- Em g5-c002, §8, conservada a saída da mulher em busca de água por causa do calor. No §12, suprido na tradução o verbo implícito da frase sintaticamente incompleta sobre o uso das palavras de Cristo para formular uma pergunta.
+- Em g5-c003, §15, traduzido *mysteria loquitur* por “fala-lhe de mistérios”, sem substituir pela explicação inglesa sobre conhecimento milagroso.
+- Em g5-c003, §16, conservado *nondum humanum cor gestant* como “ainda não trazem um coração humano”, apesar da dificuldade contextual; não adotado “já não” da referência inglesa. Conservadas também as passagens latinas sobre a dúvida e o manancial das indagações ausentes ou reformuladas nessa referência.
+- Em g5-c003, §19, mantida a formulação afirmativa *secundum congruam acceptionem verborum legis*, “segundo uma interpretação apropriada das palavras da Lei”, sem importar a caracterização inglesa de lei perversa.
+- Nota [^46], g4-c009, §11: esclarece a função nupcial de *paranymphus*.
+- Nota [^47], g4-c009, §21: explica as datas litúrgicas e o hemisfério pressupostos pela comparação entre o nascimento de Cristo e o de João Batista. Numeração contínua reservada até [^47].
+- Traduzidos os 149 parágrafos-fonte desta chamada, incluindo os oito títulos; acrescentadas três notas do tradutor, com numeração contínua até [^50].
+- Em g5-c004, §10, conservado *vitiis* como “vícios”, sem adotar as doenças corporais da referência inglesa; no §15, conservado “se não crerdes, não compreendereis”.
+- Em g5-c004, §23, conservada a “semelhança dos judeus” conforme o latim; no §27, *adorandi infinitatem* refere-se à infinitude daquele que é adorado.
+- Em g5-c005, §5, conservados em itálico os termos metalinguísticos *Unctus*, *Christus* e *Messias*, com a glosa portuguesa “Ungido”.
+- Em g5-c006, §12, conservada a afirmação sobre o homem que contém o Verbo acima do homem. No §15, regularizados os limites dos itálicos para manter os trechos explicativos destacados e as citações sem esse destaque.
+- Em g5-c007, §16, conservado *nil praeter divinam peragunt voluntatem* como “nada realizam além da vontade divina”, sem substituí-lo pela formulação inglesa sobre nada fazer contra essa vontade; traduzida também toda a conclusão latina sobre a transgressão, a missão do Salvador e o alimento sólido.
+- Em g5-c008, §15, conservada a sequência integral do desenvolvimento de Orígenes e a afirmação final de que não são apenas os que lançaram as sementes que trabalham.
+- Em g5-c009, §12, conservada a ausência de desejo de ver milagres; a comparação final distingue contemplar o Verbo por si mesmo de recebê-lo pelo testemunho alheio. No §14, conservado o valor comparativo de “caminhar pela visão é mais que caminhar pela fé”.
+- Em g5-c010, §5, mantida a atribuição a Alcuíno; no §6, *tot dies* traduzido por “tantos dias”, sem impor igualdade com os dois dias na Samaria. No §10, conservada a afirmação latina de que os galileus se mostram melhores que os samaritanos. No §13, não acrescentada uma negação à segunda alternativa: ele teria chegado perto deles quando ainda não estavam preparados.
+- Em g5-c011, §13, conservado o louvor de Cristo, conforme o latim; no §15, mantida a atribuição a Crisóstomo, e o §16 permanece sem rubrica própria.
+- Nota [^48], g5-c006, §10: esclarece *hydria* e o sentido de *aquarium* na explicação do cântaro.
+- Nota [^49], g5-c008, §15: identifica os quatro elementos pressupostos pela interpretação dos quatro meses.
+- Nota [^50], g5-c011, §17: esclarece o jogo verbal de *prodigium*, *porro*, *dicere* e *porrodicium*.
+- Traduzidos os 135 parágrafos-fonte desta chamada, incluindo os oito títulos; acrescentadas duas notas do tradutor, com numeração contínua até [^52].
+- Em g6-c001, §19, conservado *corporum mortuorum* como “corpos mortos”, sem substituir pelos corpos perecíveis da referência inglesa; a conclusão foi traduzida como cura da faculdade interior de ver.
+- Em g6-c002, §6, conservada a frase final “Então Jesus respondeu e lhes disse”, presente no latim e ausente da referência inglesa. No §16, o anômalo *causa est abstinendi omni creaturae* foi entendido, pelo desenvolvimento imediato sobre a conservação das criaturas, como “é a causa da sustentação de toda criatura”.
+- Em g6-c002, §25, conservado o positivo *volebat astruere* como “queria afirmar”, sem inserir a negação da referência inglesa; permanece a tensão interna da formulação latina.
+- Em g6-c003, §17, traduzido *videre patrem hoc est illi esse filium* como “para ele, ver o Pai é ser Filho”, sem adotar a formulação divergente da referência inglesa.
+- Em g6-c003, §19, conservado “para que vos admireis”, conforme *ut vos miremini*, e traduzido integralmente o desenvolvimento sobre a participação da alma em Deus, abreviado na referência inglesa.
+- Em g6-c004, §§8–10, preservadas as interpretações distintas dos comentadores sobre a concessão do julgamento ao Filho; no §9, *natura indifferens* foi traduzido por “natureza sem diferença”, sem adotar “natureza autoexistente” da referência inglesa.
+- Em g6-c005, §3, conservado o único *amen* da glosa; no §6, preservada a alternância entre “passa” e “já passou”, explicitamente comentada no latim.
+- Em g6-c007, §6, mantida a discussão sobre as duas ligações sintáticas de “porque é Filho do homem”, bem como a elipse “(...)” da fonte. No §11, conservada a passagem do discurso ao leitor para a interpelação reverente a Cristo.
+- Em g6-c008, §4, regularizados os delimitadores de itálico, preservando o destaque do trecho explicativo da fonte.
+- Nota [^51], g6-c003, §6: esclarece o sentido trinitário de *nativitas* como geração divina.
+- Nota [^52], g6-c007, §6: identifica brevemente Paulo de Samósata e esclarece a questão de ligação sintática discutida no comentário.
+- Traduzidos os 191 parágrafos-fonte desta chamada, incluindo os seis títulos; acrescentadas três notas do tradutor, com numeração contínua até [^55].
+- Em g6-c009, §16, conservadas a afirmação de que o testemunho de João “foi verdadeiramente necessário” e a referência à necessidade de somente Cristo para os homens, conforme o latim, sem adotar a formulação divergente da referência inglesa.
+- Em g6-c010, §§7 e 17–18, mantido “talvez”, correspondente a *forsitan*, e sua explicação patrística; no §18, conservado o sentido de “a ele ouvireis como a mim mesmo”, conforme a disposição da frase latina.
+- Em g7-c001, §12, não acrescentada a distribuição intermediária pelos discípulos, ausente do latim; no §24, não acrescentadas a rubrica de Agostinho nem as frases iniciais presentes apenas na referência inglesa.
+- Em g7-c001, §33, mantido Eliseu, conforme *Eliseus*, sem adotar Elias da referência inglesa; no §55, mantida a atribuição a Alcuíno, conforme o latim.
+- Em g7-c002, §11, conservado que o reino é comprado pelo sangue de Cristo; no §21, mantida a referência a Mateus, sem adotar Marcos da referência inglesa.
+- Em g7-c002, §§18 e 22, preservadas as diferentes formulações de Crisóstomo sobre a recepção de Jesus na barca, sem harmonizá-las.
+- Em g7-c003, §11, conservado *turbatus* como “perturbado”, apesar da dificuldade contextual, sem substituí-lo pela ideia de misturar-se à multidão presente na referência inglesa.
+- Em g7-c004, §13, “dar crédito” e “crer em” distinguem *credere ei* de *credere in eum*, permitindo conservar o argumento de Agostinho sem nota adicional.
+- Nota [^53], g7-c001, §46: esclarece o sentido de “Anjo” como “mensageiro” na aplicação do termo a Cristo.
+- Nota [^54], g7-c001, §55: explicita a aproximação verbal latina entre *viri* e *vires*.
+- Nota [^55], g7-c002, §6: esclarece a medida antiga do estádio e a distância aproximada mencionada.
+- Traduzidos os 153 parágrafos-fonte desta chamada, incluindo os seis títulos; acrescentadas duas notas do tradutor, com numeração contínua até [^57].
+- Em g7-c005, §8, o relativo *quod* foi relacionado a *verbum*: “Verbo do Senhor, que se torna pão celeste para quem recebe o próprio Espírito”, conservando a construção latina sem adotar a explicação inglesa da habitação do Espírito no pão.
+- Em g7-c005, §24, mantida a referência a Cristo não necessitar dos “cuidados deles”, conforme *eorum cura*, sem substituí-la pela honra mencionada na referência inglesa.
+- Em g7-c006, §13, conservado Fotino, conforme *Photinus*, sem adotar “Thomas” da referência inglesa; em §§18–19, preservadas tanto a atribuição a Joel como a correção subsequente da Glosa.
+- Em g7-c008, §12, *quam vel tardius liberentur* foi traduzido por “e não para serem libertados, ainda que mais tarde”, preservando a oposição latina entre juízo mais rigoroso e libertação.
+- Em g7-c009, §22, conservada a oração final *quae ipse intellexit* como “que ele próprio compreendeu”, ausente da referência inglesa.
+- Em g7-c010, §15, mantido o valor de obrigação de *non debebant*; no §30, conservado “os que haveriam de crer”, conforme *credituri*, sem harmonizar com os não crentes do versículo citado no §6.
+- Em g7-c010, §34, conservada literalmente a leitura fornecida *investigabiles* como “investigáveis”, embora destoe da formulação esperada e da referência inglesa; a anomalia fica registrada para revisão da fonte.
+- Em g7-c010, §36, conservado “nem sequer estiveram no corpo”, conforme *nec fuerunt*, sem adotar “já não estavam” da referência inglesa.
+- Nota [^56], g7-c006, §13: identifica Virgílio e a passagem das *Bucólicas* citada por Agostinho.
+- Nota [^57], g7-c007, §14: esclarece o sentido técnico de “virtude do sacramento” em contraste com o sinal sacramental visível.
+- Traduzidos os 197 parágrafos-fonte desta chamada, incluindo os oito títulos; acrescentadas duas notas do tradutor, com numeração contínua até [^59].
+- Em g8-c001, §9, mantido “não subo”, sem acrescentar o “ainda” presente na referência inglesa; conservada também a mudança para “não subirei” nas glosas que empregam o futuro latino.
+- Nota [^58], g8-c001, §11: conserva no texto a associação etimológica da glosa entre Galileia e leite e esclarece, em nota, a origem hebraica do topônimo.
+- Em g8-c003, §19, *cuius gratia aliena vellem vos docere?* foi traduzido como pergunta sobre ensinar coisas alheias ao Pai, conforme o latim.
+- Em g8-c004, §3, conservado o futuro *quaeret* (“procurará”); na citação do §9, conservado o presente *quaerit* (“procura”).
+- Em g8-c004, §18, *ut non perdat aequitas meritum* foi traduzido por “de modo que a equidade não perca seu valor”, sem adotar a inversão de sentido da referência inglesa.
+- Em g8-c005, §§14 e 18, conservado integralmente o raciocínio de Hilário sobre origem, criação, geração e conhecimento do Pai, sem a condensação da referência inglesa.
+- Em g8-c006, §17, mantido que Cristo vai para junto daquele de quem nunca se afastou; no §22, conservada a negação de *quod non erat eorum qui desiderarent ab eo liberari*, omitida na referência inglesa.
+- Em g8-c007, §11, preservada a explicação de Crisóstomo sobre a pausa depois de “como diz a Escritura”; no §20, *certa illa ... datio* foi entendido como “aquela determinada doação”, não como uma doação que passaria a ser certa.
+- Nota [^59], g8-c007, §22: identifica os catáfriges como montanistas e explica a relação do nome com a Frígia.
+- Em g8-c008, §18, conservada a expressão incomum *sitim ... haurire* como “sorver espiritualmente aquela sede”; a leitura fica registrada para revisão da fonte.
+- Em g8-c008, §31, *ipsorum accusatio* foi entendido como acusação contra os próprios chefes; no §38, conservadas ambas as negações: eles nem conheciam a Lei nem cumpriam seus preceitos.
+- Traduzidos os 151 parágrafos-fonte desta chamada, incluindo os oito títulos; acrescentadas três notas do tradutor, com numeração contínua até [^62].
+- Nota [^60], g9-c001, §15: esclarece a aproximação entre as palavras gregas para óleo e misericórdia, conservando no texto a forma *oleos* da fonte.
+- Em g9-c001, §12, conservado o futuro “não te condenarei”; no §28, mantido o presente “não te condeno” empregado na glosa.
+- Em g9-c001, §19, conservada a interpretação sobre realizar sinais na terra ao humilhar-se, ausente da referência inglesa.
+- Nota [^61], g9-c002, §8: explica o jogo latino entre *casus* e *occasus*, traduzidos por “queda” e “ocaso”.
+- Em g9-c002, §9, conservado “não vencerão a luz”, conforme o latim, sem adotar a leitura inglesa sobre não conseguir chegar à luz.
+- Em g9-c003, §17, *distingue intelligentiam* foi vertido por “faz essa distinção no entendimento”, sem introduzir uma pluralidade de inteligências divinas.
+- Em g9-c003, §22, *plura testari* foi entendido como “exagerar em seu testemunho”, no contexto da falibilidade das testemunhas humanas.
+- Em g9-c004, preservado “talvez” em todas as ocorrências de *forsitan*, necessário à explicação de Agostinho; no §15, conservados *fatum* e *fando* para manter o argumento etimológico.
+- Em g9-c004, §16, *in quibus verbum Dei loquitur* foi entendido como “naqueles em quem o Verbo de Deus fala”, conforme a construção latina.
+- Em g9-c005, §6, mantido “de onde se afastara”, correspondente a *unde discesserat*, sem inserir uma negação ausente da fonte; a leitura fica registrada para revisão, dada a afirmação de g9-c003, §11.
+- Em g9-c005, preservadas as alternâncias entre “pecado” e “pecados”; no §10, explicitado que “vosso” se refere a vários destinatários, sem atribuir plural morfológico à forma portuguesa.
+- Em g9-c006, §2, traduzido *Principium, qui et loquor vobis* por “O Princípio, eu que também vos falo”; mantidas separadamente a variante *quia* de Beda e a interpretação “Desde o princípio vos falo” de Crisóstomo.
+- Nota [^62], g9-c006, §5: esclarece a observação gramatical de Agostinho sobre o gênero feminino e o acusativo grego, em contraste com o neutro latino *principium*.
+- Em g9-c007, §2, conservado o singular *exaltaveris* (“tiveres elevado”) seguido do plural “conhecereis”; nas glosas, mantido o plural *exaltaveritis* (“tiverdes elevado”). A discrepância fica registrada para revisão da fonte.
+- Em g9-c008, §8, conservada a atribuição latina a Agostinho, embora a referência inglesa atribua o trecho a Crisóstomo.
+- Em g9-c008, mantido “Amém, amém” nas citações e *amen* na explicação lexical do §18, para preservar o argumento sobre a palavra hebraica não traduzida.
 - Traduzidos os 144 parágrafos-fonte desta chamada, incluindo os seis títulos; acrescentadas três notas do tradutor, com numeração contínua até [^65].
 - Nota [^63], g9-c009, §9: explica o jogo de sentidos de *capere*, entre acolher ou conter e apanhar ou prender, necessário à comparação com o anzol.
 - Nota [^64], g9-c009, §20: esclarece “razões seminais” e o duplo sentido de *semen*, “semente” e “descendência”.

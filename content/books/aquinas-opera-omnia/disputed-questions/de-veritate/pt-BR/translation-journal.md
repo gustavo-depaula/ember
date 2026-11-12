@@ -1,12 +1,1426 @@
+# Diário de tradução — Questões Disputadas sobre a Verdade (pt-BR)
+
+Fonte: la/ — texto latino das edições Leonina / Marietti (domínio público), espelhado de aquinas.cc. O en-US (Mulligan, McGlynn e Schmidt, revisado pelo Aquinas Institute) foi consultado só para registro e terminologia.
+Destino: pt-BR.
 
 ## Termos
 
+| Latim | Português | Notas |
+|---|---|---|
+| Quaestiones Disputatae de Veritate | Questões Disputadas sobre a Verdade | |
+| Sanctus Thomas Aquinas | Santo Tomás de Aquino | |
+| Quaestio N / Articulus N / Prooemium | Questão N / Artigo N / Prólogo | Cabeçalho do capítulo: `# Artigo N`; no sumário, com a pergunta do artigo (convenção de *Sobre as criaturas espirituais*). |
+| Quaestio est de … Et primo quaeritur | A questão é sobre … E, primeiro, pergunta-se | *Secundo / Tertio / Quarto / Quinto quaeritur* → “Em segundo / terceiro / quarto / quinto lugar, pergunta-se”. |
+| Videtur autem quod / Et videtur quod sic / non | Parece, porém, que / E parece que sim / não | |
+| Praeterea / Item | Além disso / Igualmente | |
+| Respondens dicebat quod / Sed dicebat quod | Respondendo, dizia-se que / Mas dizia-se que | Réplica de um interlocutor. |
+| Contra / Sed contra (est) | Em contrário / Mas em contrário (está) | Itálico apenas onde a fonte o tem. |
+| Probatio mediae | Prova da premissa intermediária | g1-c005 [11]. |
+| Responsio / Solutio. Dicendum quod | Resposta / Solução. Deve-se dizer que | |
+| Responsio ergo ad primum quod | Resposta, portanto, ao primeiro: | g1-c002 [14]. |
+| Ad primum ergo dicendum quod | Quanto ao primeiro, portanto, deve-se dizer que | Ordinais por extenso: décimo primeiro, décimo oitavo (*duodevicesimum*), décimo nono (*undevicesimum*), vigésimo primeiro. |
+| Ad primum vero eorum quae contra obiciuntur | Quanto ao primeiro dos argumentos apresentados em contrário, porém | |
+| patet solutio ex dictis / per hoc patet solutio ad N | vê-se a solução pelo que foi dito / por isto se vê a solução do N | *Secundum concedimus* → “O segundo, concedemo-lo”. |
+| ratio non sequitur / idem quod prius | o argumento não procede / o mesmo que antes | |
+| verum / veritas | o verdadeiro / a verdade | |
+| ens / esse / actus essendi | ente / ser / ato de ser | Nunca “existência” para *esse*; *existentia* (g1-c002 [16]) → “existência”. |
+| ens, res, unum, aliquid, verum, bonum | ente, coisa, uno, algo, verdadeiro, bem | Como nomes mencionados, entre aspas: o nome “coisa”, o nome “bem”. |
+| id quod est / quod est | aquilo que é | Boécio e Agostinho; *diversum est esse et quod est* → “o ser e aquilo que é são diversos”. |
+| entitas | entidade | |
+| quiditas / quod quid est | quididade / o “que é” | |
+| ratio (veri, veritatis, entis) | razão (do verdadeiro, de verdade, de ente) | *Ratione differre* → “diferir pela razão”; *re* → “na realidade”, “realmente”. |
+| supposita | supósitos | |
+| adaequatio rei et intellectus / adaequari | adequação da coisa e do intelecto / ser adequado, adequar-se | Evitam-se as formas finitas do presente de “adequar” (“é adequado”, “adequar-se”). |
+| commensuratio | comensuração | |
+| conformitas / concordia / convenientia | conformidade / concordância / conveniência | *Convenientia* no sentido escolástico de acordo, correspondência. |
+| comparatio (entis ad intellectum) | relação (do ente com o intelecto) | |
+| dispositio | disposição | |
+| converti / conversim praedicari | converter-se / predicar-se reciprocamente | |
+| per prius / per posterius | por anterioridade / por posterioridade | |
+| intellectus componens et dividens | intelecto que compõe e divide | |
+| intellectus practicus / speculativus | intelecto prático / especulativo | |
+| intellectus agens / possibilis | intelecto agente / possível | |
+| intelligere / intellectus (= conceito) | inteligir / intelecção | *Intellectus quos significant* → “as intelecções que significam” (g1-c003 [9]). |
+| vis / virtus cognitiva | faculdade / virtude cognoscitiva | Convenção dos irmãos: *vis* → faculdade; *virtus* → virtude. |
+| aestimatio | apreciação | Evita confusão com a potência estimativa. |
+| species / similitudo | espécie / semelhança | |
+| mensura / mensurare / mensuratum | medida / medir / medido | |
+| exemplar / exemplari / exemplariter | exemplar / ser modelado (pelo exemplar) / à maneira de exemplar | |
+| lumen / lux | lume / luz | |
+| denominare | denominar | |
+| appropriare | apropriar | |
+| nugatio | redundância | g1-c001 [11], [32]. |
+| enuntiabile / enuntiatio / propositio / oratio | enunciável / enunciação / proposição / enunciado | |
+| scibile / scientia | cognoscível / ciência | |
+| risibile | capaz de rir | Nota do tradutor em g1-c005 [^1]. |
+| relativa / relatio rationis | relativos / relação de razão | |
+| in divinis | nas realidades divinas | |
+| simpliciter / secundum quid | absolutamente / sob certo aspecto | |
+| per se / per accidens | por si / por acidente | |
+| per impossibile | por hipótese impossível | |
+| natum esse | ser apto por natureza a | |
+| Philosophus / Commentator | o Filósofo / o comentador | Em g1-c001 [14], “o comentador” do *Livro das causas*, em minúscula. |
+| Augustinus / Boetius / Avicenna / Anselmus / Hilarius / Dionysius / Isaac / Tullius / Socrates | Agostinho / Boécio / Avicena / Anselmo / Hilário / Dionísio / Isaac / Túlio / Sócrates | |
+| Antichristus | o Anticristo | |
+| Soliloquia / De vera religione / De libero arbitrio / 83 quaestionum / De Trinitate | *Solilóquios* / *A verdadeira religião* / *O livre-arbítrio* / *Oitenta e três questões* / *A Trindade* | Agostinho. |
+| De hebdomadibus / De consolatione | *Sobre as hebdômadas* / *Consolação* | Boécio. |
+| Monologion / De veritate (Anselmo) | *Monológio* / *Sobre a verdade* | |
+| De causis | *Sobre as causas* | |
+| De divinis nominibus | *Dos nomes divinos* | |
+| Metaphysica / De anima / Ethica / Physica / Perihermeneias | *Metafísica* / *Sobre a alma* / *Ética* / *Física* / *Sobre a interpretação* | “no livro 3 de *Sobre a alma*”, “no livro 2 da *Metafísica*”. |
+| Rhetorica (Túlio) / Digesta | *Retórica* / *Digesto* | |
+| Glossa | a Glosa | |
+| Eccli. / Sap. / Act. | Eclesiástico / Sabedoria / Atos | Capítulo e versículo como na fonte (numeração da Vulgata). |
+| rectitudo | retidão | Anselmo. |
+| sessio Socratis | o estar sentado de Sócrates | *Socrates sedet / sedebit / sedit* → “Sócrates está sentado / estará sentado / esteve sentado”. |
+| dictum | dito | Oração infinitiva (*istum fornicari* → “que este fornica”); nota do tradutor em g1-c008 [^1]. |
+| habitudo | relação | |
+| aequatio / aequalitas / inaequalitas | equiparação / igualdade / desigualdade | Distinto de *adaequatio* (adequação). |
+| notio / notitia | noção / conhecimento | Na tríade agostiniana *mens, notitia, amor* → “mente, conhecimento, amor”; *nosse* → “conhecer”. |
+| mens / memoria / intelligentia / voluntas | mente / memória / inteligência / vontade | Tríade agostiniana da imagem. |
+| imago Trinitatis | imagem da Trindade | *ad imaginem* → “à imagem”. |
+| assignatio / assignare (imaginem) | assinalação / assinalar | g10-c001. |
+| totum potentiale | todo potencial | |
+| differentia (divisiva) | diferença (divisiva) | Sentido lógico de diferença específica. |
+| intentio (entis, veri) | intenção (de ente, de verdadeiro) | Termo lógico. |
+| li (+ palavra) | o “…” | Artigo escolástico que menciona uma palavra: *li esse* → o “é”. |
+| vis cogitativa / aestimatio naturalis | faculdade cogitativa / estimativa natural | Exceção à regra *aestimatio* → “apreciação”, quando designa a potência dos animais. |
+| sensibilia propria / communia / per accidens | sensíveis próprios / comuns / por acidente | |
+| in rerum natura | na realidade | |
+| animus (Agostinho) | espírito | |
+| brutum | animal irracional | |
+| mundus maior | mundo maior | Macrocosmo; nota do tradutor em g1-c011 [^1]. |
+| tragoedus | ator trágico | |
+| Ambrosius / Algazel / Hector | Ambrósio / Algazel / Heitor | |
+| De civitate Dei | *A Cidade de Deus* | Agostinho. |
+| Caelestis hierarchia | *Hierarquia celeste* | Dionísio. |
+| De caelo et mundo | *Sobre o céu e o mundo* | Aristóteles. |
+| Physica | *Física* | “no livro 3 da *Física*”. |
+| Ad alia patet solutio de facili ex dictis | Quanto aos outros, a solução se vê facilmente pelo que foi dito | |
+| Et per hoc / ex his patet solutio ad obiecta | E por isto se vê a solução das objeções | |
+| intellectus possibilis / intellectus agens | intelecto possível / intelecto agente | |
+| intelligentia agens (Avicena) | inteligência agente | |
+| species (intelligibilis, sensibilis) | espécie (inteligível, sensível) | |
+| phantasma / phantasia | fantasma / fantasia | |
+| lumen (intellectus agentis) | lume (do intelecto agente) | “luz” só para a luz corporal. |
+| vis / virtus / vires (da alma) | faculdade / faculdades | *potentia* → “potência”. |
+| quiditas / quod quid est | quididade / o que é | |
+| materia signata | matéria assinalada | |
+| ratio particularis | razão particular | Outro nome da cogitativa. |
+| simitas / simus | achatamento / achatado | Nota do tradutor em g10-c004 [^1]. |
+| habilitas | aptidão | |
+| cogitare / cogitatio | pensar / pensamento | |
+| meminisse / memorari / oblivisci / reminisci | lembrar-se / lembrar-se / esquecer-se / recordar | |
+| secundum statum viae / in statu viae | segundo o estado de via / no estado de via | |
+| immiscere se singularibus | imiscuir-se nos singulares | |
+| continuatio (com as faculdades sensitivas) | continuidade | |
+| imperare (actum) | imperar | |
+| conformatio / conformitas / analogia | conformação / conformidade / analogia | |
+| vestigium | vestígio | Nota do tradutor em g10-c007 [^1]. |
+| consubstantialitas / coaequalitas | consubstancialidade / coigualdade | |
+| manuducere | conduzir | |
+| sectae (de opiniões) | correntes | |
+| Tullius | Túlio | Cícero. |
+| Glossa | Glosa | |
+| Platonici | os platônicos | |
+| Super Genesim ad litteram | *Comentário literal ao Gênesis* | Agostinho. |
+| Confessiones | *Confissões* | |
+| De anima (Aristóteles) | *Sobre a alma* | |
+| De memoria et reminiscentia | *Sobre a memória e a reminiscência* | |
+| De generatione | *Sobre a geração* | |
+| Posteriora (Analytica) | *Segundos analíticos* | |
+| Ethica | *Ética* | |
+| Metaphysica | *Metafísica* | Também a de Avicena. |
+| De animalibus | *Sobre os animais* | Nota do tradutor em g10-c007 [^2]. |
+| 6 De naturalibus (Avicena) | livro 6 dos *Naturais* | Nota do tradutor em g10-c002 [^2]. |
+| De duabus naturis (Boécio) | *Sobre as duas naturezas* | |
+| De Trinitate (Boécio) | *A Trindade* | |
+| De divinis nominibus | *Os nomes divinos* | Dionísio. |
+| Sententiae | *Sentenças* | “livro 2 das *Sentenças*, distinção 16”. |
+| Responsio. Dicendum quod | Resposta. Deve-se dizer que | |
+| Ad primum vero eorum quae in contrarium obiciuntur | Quanto ao primeiro dos argumentos em contrário | Forma breve: “Quanto ao primeiro em contrário”. |
+| Unde patet responsio ad tertium | Por isso se vê a resposta ao terceiro | |
+| Ad sextum patet responsio ex dictis | Quanto ao sexto, a resposta se vê pelo que foi dito | |
+| Et similiter dicendum ad quatuor sequentia | E deve-se dizer o mesmo quanto aos quatro seguintes | |
+| notitia | notícia | Distinta de *cognitio* (“conhecimento”). |
+| per essentiam (suam) | por (sua) essência | |
+| an sit / quid sit | se é / o que é | |
+| apprehensio / iudicium | apreensão / juízo | |
+| reditio / reflexio | retorno / reflexão | |
+| affectus / affectio | afeto / afeição | *animus* → “ânimo”. |
+| pars affectiva / pars cognitiva | parte afetiva / parte cognoscitiva | |
+| dilectio / diligere | dileção / amar | *amor* → “amor”. |
+| delectatio | deleite | |
+| elicere (actum) | eliciar | |
+| dilectio naturalis / gratuita | dileção natural / gratuita | |
+| discretio | distinção | Nota do tradutor em g10-c009 [^1]. |
+| in vi orationis / in vi nominis | com valor de proposição / com valor de nome | Nota do tradutor em g10-c010 [^2]. |
+| oculus rationis lippus | olho da razão turvo | Hugo de São Vítor. |
+| via inveniendi / via iudicandi | via da descoberta / via do juízo | |
+| actio situalis | ação ligada à posição | |
+| Commentator | o Comentador | Averróis. |
+| Hugo de Sancto Victore | Hugo de São Vítor | |
+| De Trinitate (Agostinho) | *A Trindade* | “livro 9 de *A Trindade*”; *in libro De Trinitate* → “na obra *A Trindade*”. |
+| De civitate Dei | *A cidade de Deus* | |
+| Sed contra est quod | Mas em contrário está o que | |
+| *Sed contra* (réplica dentro das objeções) | *Mas contra isso* | |
+| Ad primum autem/vero in contrarium | Quanto ao primeiro em contrário | |
+| non est simile | o caso não é semelhante | |
+| status viae / viator / comprehensor | estado de via / viador / compreensor | Nota do tradutor em g10-c011 [^1]. |
+| patria | pátria | |
+| lumen gloriae | lume da glória | *lux gloriae* → “luz da glória”. |
+| dos agilitatis | dote da agilidade | Nota do tradutor em g10-c011 [^2]. |
+| phantasma | fantasma | |
+| quiditas | quididade | |
+| communitas (primum in communitate) | comunidade (primeiro em comunidade) | O caráter de comum do ente. |
+| donum intellectus | dom do entendimento | |
+| per se notum | evidente por si | *secundum se / quoad nos* → “em si / quanto a nós”; *notum* sozinho → “conhecido”. |
+| Deum esse | que Deus existe / a existência de Deus | *esse* metafísico (*ipsum esse suum*, *quod est et esse*) → “ser”. |
+| id quo maius cogitari non potest | aquilo de que não se pode pensar nada maior | Anselmo. |
+| secundum quid / simpliciter | sob certo aspecto / absolutamente | A falácia: “do ‘sob certo aspecto’ e do ‘absolutamente’”. |
+| propria / appropriata personarum | propriedades das pessoas / atributos apropriados às pessoas | |
+| in divinis | em Deus | |
+| Rabbi Moyses | Rabi Moisés | Maimônides; nota do tradutor em g10-c012 [^1]. |
+| Glossa interlinearis | a Interlinear | |
+| De anima | *Sobre a alma* | “livro 3 de *Sobre a alma*”. |
+| Super Genesim ad litteram | *Comentário literal ao Gênesis* | |
+| Metaphysica | *Metafísica* | |
+| De caelo et mundo | *O céu e o mundo* | |
+| De hebdomadibus (Boécio) | *De hebdomadibus* | Título latino mantido, como é corrente. |
+| magister / doctor | mestre / doutor | *doctor* sempre “doutor”, no sentido de quem ensina, para distinguir de *magister* (g11-c002 [12]: “doutor ou mestre”). |
+| magisterium | magistério | |
+| doctrina / disciplina | ensino / aprendizagem | *doctrina salutis* → “doutrina da salvação”; *doctrina Aristotilis* → “doutrina de Aristóteles”. |
+| inventio | descoberta | |
+| docens / addiscens | quem ensina / aprendiz (quem aprende) | |
+| rationes seminales / seminaria | razões seminais / sementeiras | |
+| intellectus agens / possibilis | intelecto agente / intelecto possível | |
+| intentiones intelligibiles | intenções inteligíveis | |
+| vis collativa | força comparativa | |
+| virtus (potência) | força | *virtus* moral → “virtude”. |
+| dignitates | axiomas | |
+| affectus | afeto | |
+| describere / descriptio (in anima) | inscrever / inscrição | |
+| excitare | despertar | |
+| dator formarum | doador das formas | Avicena; nota do tradutor em g11-c001 [^1]. |
+| eductio formarum | educção das formas | |
+| Sed contra est | Em sentido contrário, está… | |
+| beatitudo | bem-aventurança | |
+| De magistro (Agostinho) | *De magistro* | Título latino mantido, como é corrente. |
+| De Trinitate | *A Trindade* | |
+| 83 quaestionum | *Oitenta e três questões* | |
+| De consolatione (Boécio) | *A consolação da filosofia* | |
+| Contra Manichaeos | *Contra os maniqueus* | |
+| Caelestis hierarchia | *A hierarquia celeste* | |
+| Super Ezechielem | *Homilias sobre Ezequiel* | |
+| Physica / Ethica / Meteora | *Física* / *Ética* / *Meteorológicos* | |
+| 6 De naturalibus (Avicena) | livro 6 *Dos naturais* | |
+| prophetia / prophetabilia | profecia / coisas profetizáveis | |
+| lumen propheticum | lume profético | *lumen* intelectual ou profético → “lume”; a luz física (do sol, das estrelas, no ar) → “luz”. |
+| habilitas / habilior | aptidão / mais apto | |
+| passio / pati | paixão / padecer | No sentido de afecção recebida; nota do tradutor em g12-c001 [^3]. |
+| praeexigere / exigere | pressupor / exigir | g12-c004 [12] depende da distinção (“não a pressupõe; exige-a, contudo”). |
+| eventus rerum | os desfechos das coisas | Na definição da profecia da Glosa/Cassiodoro. |
+| phantasmata | fantasmas | |
+| potentia obedientiae | potência obediencial | Nota do tradutor em g12-c003 [^1]. |
+| gratia signorum | graça dos sinais | |
+| ligare (somno) | tolher | |
+| virtus imaginativa / cognoscitiva | força imaginativa / cognoscitiva | *virtus divina* → “poder divino”. |
+| futura contingentia | futuros contingentes | |
+| Rabbi Moyses | Rabi Moisés | Maimônides; nota do tradutor em g12-c002 [^1]. |
+| Damascenus | o Damasceno | |
+| Sed dicebat quod | Mas dizia-se que | Objeção que retoma uma resposta já dada. |
+| Ad primum dicendum quod | Quanto ao primeiro, deve-se dizer que | *Ad primum eorum quae sunt in contrarium* → “Quanto ao primeiro dos argumentos em sentido contrário”. |
+| De orando Deum (Agostinho) | *Sobre a oração a Deus* | |
+| De libero arbitrio | *O livre-arbítrio* | |
+| De somno et vigilia | *Sobre o sono e a vigília* | |
+| De caelo et mundo | *Sobre o céu e o mundo* | |
+| De anima | *Sobre a alma* | |
+| 1–4 Reg. | 1–4 Reis | Numeração da Vulgata mantida; nota do tradutor em g12-c001 [^1]. |
+| speculum aeternitatis | espelho da eternidade | |
+| praescientia / liber praescientiae | presciência / livro da presciência | |
+| resultare (in speculo, in mente) | refletir-se | g12-c006 [25] joga com o sentido de “resultar de”: “refletida a partir da própria coisa”. |
+| acceptio / iudicium | recepção / juízo | Os dois elementos do conhecimento profético (g12-c007, g12-c009). |
+| visio corporalis / imaginaria / intellectualis | visão corporal / imaginária / intelectual | |
+| species | espécie(s) | |
+| a sensibus abstrahi / alienari | ser abstraído / ficar alienado dos sentidos | |
+| causa animalis / naturalis | causa anímica / natural | g12-c009 [15]. |
+| denuntiatio / denuntiare | anúncio / anunciar | Ato secundário da profecia. |
+| abreptitius / abreptus | fora de si | |
+| raptus | arrebatamento | |
+| in statu viae / in patria | no estado de via / na pátria | |
+| gratia gratum faciens | graça santificante | Como no título de g27-c002. |
+| saeculum | mundo | Tanto em *saeculum praescientiarum* (“mundo das presciências”) como em *sollicitudines saeculi* (“cuidados do mundo”). |
+| rationes (rerum) | razões | *incommutabiles rationes* → “razões imutáveis”. |
+| arx rerum | cidadela das coisas | |
+| Sed contra (dentro de uma objeção) | *Mas, em sentido contrário* | O *Sed contra est quod* da questão → “Em sentido contrário, …”. |
+| Balaam / Baltasar / Montanus | Balaão / Baltasar / Montano | |
+| De Trinitate (Agostinho) | *A Trindade* | |
+| De vera religione | *A verdadeira religião* | |
+| De divinis nominibus | *Sobre os nomes divinos* | |
+| Super Ezechielem (Gregório) | *Homilias sobre Ezequiel* | |
+| Moralia (Gregório) | *Morais* | |
+| comminatio / comminari | cominação / cominar | Profecia de predestinação, de presciência e de cominação (g12-c010). |
+| praescire / praecognoscere | conhecer de antemão / conhecer previamente | Evita “prescito”, que tem sentido teológico próprio. |
+| exitus / eventus (ordinis) | desfecho / evento | Contrapostos à *ordo causarum*, “ordem das causas”. |
+| immobilis / mobilis veritas | verdade imutável / mutável | Como no título de g12-c011; *moveri* → “mudar” em g12-c011 [7]. |
+| consilium / sententia (Dei) | conselho / sentença | g12-c011 [19]: “causa” mantém em português o duplo sentido judicial. |
+| agyographae | hagiógrafos | Nota do tradutor em g12-c012. |
+| Rabbi Moyses | Rabi Moisés | Maimônides; nota do tradutor em g12-c012. |
+| Isaac (Liber de definitionibus) | Isaac | Isaac Israeli; nota do tradutor em g12-c012. |
+| vis imaginativa / imaginativa | força imaginativa / imaginativa | |
+| scientia propter quid / quia | ciência do porquê (*propter quid*) / que diz que a coisa é (*quia*) | Latim mantido entre parênteses, g12-c013 [28]. |
+| Glossa | Glosa | “a Glosa, no princípio do Saltério”. |
+| Hieronymus / Cassiodorus / Damascenus | Jerônimo / Cassiodoro / o Damasceno | |
+| De civitate Dei | *A Cidade de Deus* | |
+| De Genesi ad litteram | *Sobre o Gênesis ao pé da letra* | |
+| Ad Paulinam de videndo Deum | *A Paulina, sobre a visão de Deus* | |
+| De generatione / De anima / Metaphysica | *Sobre a geração* / *Sobre a alma* / *Metafísica* | |
+| raptus / rapi | arrebatamento / ser arrebatado | |
+| excessus mentis / extasis | excesso da mente / êxtase | Três nomes distintos para *excessus mentis*, *extasis* e *raptus* (g13-c002 [23]). |
+| videre Deum per essentiam | ver Deus por sua essência | Como nos títulos do sumário. |
+| viator / status viae / status patriae | viandante / estado de via / estado de pátria | “visão da pátria”, “caridade da pátria”. |
+| praestitutio divina | preordenação divina | g13-c001 [12], [13], [27]. |
+| lux / lumen gloriae | luz / lume da glória | |
+| dos gloriae / claritas / agilitas | dote da glória / claridade / agilidade | |
+| intentio (ato de atender) | atenção | g13-c002 [23], g13-c003 [22], g13-c004 [14]; *intentiones particulares* da memória → “intenções particulares”. |
+| abstrahi / alienari a sensibus | ser abstraído / ser alienado dos sentidos | |
+| excellentia sensibilium / intelligibilium | sensíveis / inteligíveis excessivos | g13-c001 [9], [24]. |
+| anima vegetabilis | alma vegetativa | |
+| Augustinus / Dionysius / Gregorius / Bernardus | Agostinho / Dionísio / Gregório / Bernardo | |
+| Hugo de Sancto Victore / Vincentius | Hugo de São Vítor / Vicente | Nota do tradutor sobre Vicente em g13-c003. |
+| Avicenna, Sufficientia | Avicena, *Sufficientia* | Nota do tradutor em g13-c003. |
+| Liber de causis | *Livro das causas* | |
+| De spiritu et anima | *Sobre o espírito e a alma* | |
+| De divinis nominibus / Caelestis hierarchia | *Sobre os nomes divinos* / *Hierarquia celeste* | |
+| 83 quaestionum / De Trinitate / Confessiones | *Oitenta e três questões* / *Sobre a Trindade* / *Confissões* | |
+| Moralia (Gregório) | *Moralia* | |
+| De caelo et mundo / Ethica / De memoria et reminiscentia | *Sobre o céu e o mundo* / *Ética* / *Sobre a memória e a reminiscência* | |
+| fides / credere | fé / crer | |
+| cogitare / cogitatio / vis cogitativa | cogitar / cogitação / potência (força) cogitativa | “crer é cogitar com assentimento”. Mantido “cogitar” pela etimologia *coagitare* (g14-c001 [4]) e pelo vínculo com a cogitativa. |
+| assensus, assensio / assentire | assentimento / assentir | |
+| consensus / consentire | consentimento / consentir | “consentimento não inquirido” (Damasceno). |
+| collatio / conferre / cognitio collativa | comparação / comparar / conhecimento por comparação | |
+| inquisitio | inquirição | |
+| quidditas / quod quid est | quididade | |
+| intellectus possibilis | intelecto possível | |
+| sciens / intelligens / opinans / dubitans | quem sabe / quem intelige / quem opina / quem duvida | |
+| cum formidine alterius | com receio da outra | |
+| ex aequo | em pé de igualdade | |
+| substantia rerum sperandarum, argumentum non apparentium | substância das coisas a esperar, argumento das coisas que não aparecem | Hebreus 11:1; *res speranda* → “coisa a esperar”, *res diligenda* → “coisa a amar”. |
+| arguere / convictio | convencer (argui) / convicção | Nota em g14-c002. |
+| inchoatio | começo | |
+| primum verum / prima veritas | o primeiro verdadeiro / a primeira verdade | Distinção do latim mantida. |
+| lux / lumen | luz / lume | Distinção do latim mantida também fora da glória. |
+| fides formata | fé formada | |
+| virtus theologica | virtude teologal | |
+| elicere / imperare (actus elicitus / imperatus) | eliciar / imperar (ato elicitado / imperado) | |
+| ultimum potentiae | o máximo da potência | |
+| expedire | tornar expedito | g14-c003 [12], [30]. |
+| affectus / affectio / (pars) affectiva / cognitiva | afeto / afeição / (parte) afetiva / cognoscitiva | |
+| concupiscibilis | concupiscível | |
+| aestimatio naturalis | estimativa natural | |
+| phantasia | imaginação | |
+| dilectio (Gálatas 5:6) | amor | “a fé opera pelo amor”. |
+| Damascenus / Anselmus / Isaac / Avicenna | Damasceno / Anselmo / Isaac / Avicena | Nota sobre Isaac Israeli em g14-c001. |
+| De praedestinatione sanctorum / De videndo Deum / De moribus Ecclesiae / De bono coniugali / Ad Consentium | *Sobre a predestinação dos santos* / *Sobre a visão de Deus* / *Sobre os costumes da Igreja* / *Sobre o bem conjugal* / *A Consêncio* | |
+| De anima / Metaphysica / Physica / Topica | *Sobre a alma* / *Metafísica* / *Física* / *Tópicos* | |
+| caritas | caridade | |
+| fides informis / informitas | fé informe / informidade | |
+| forma exemplaris / exemplar / exemplatum | forma exemplar / exemplar / exemplado | |
+| ex opposito dividi | dividir-se por oposição | |
+| dotes: visio, tentio, fruitio | dotes: visão, posse, fruição | Nota em g14-c005. |
+| genus naturae / genus moris | gênero da natureza / gênero moral | |
+| timor servilis / castus / initialis / filialis | temor servil / casto / inicial / filial | |
+| credere Deo / credere Deum / credere in Deum | crer a Deus / crer Deus / crer em Deus | Nota em g14-c007. |
+| complexum / incomplexum / enuntiabile | complexo / incomplexo / enunciável | Nota em g14-c008. |
+| per se obiectum | objeto por si | |
+| scitum / scibile | sabido / objeto de ciência (cognoscível) | |
+| scientia subalternata / subalternans | ciência subalternada / subalternante | |
+| status viae / patria | estado de via / pátria | |
+| sensus animi | sentidos do espírito | *animus* distinto de *anima*. |
+| evacuare | abolir (esvaziar, em g14-c009 [13]) | |
+| aestimare / aestimatio | estimar / estimação | |
+| gratiae gratis datae | graças dadas gratuitamente | |
+| Hilarius / Ambrosius / Boetius / Dionysius / Isidorus / Gregorius | Hilário / Ambrósio / Boécio / Dionísio / Isidoro / Gregório | |
+| Ricardus / Hugo de Sancto Victore | Ricardo / Hugo de São Vítor | |
+| Ptolomaeus / Rabbi Moyses | Ptolomeu / Rabi Moisés | Nota sobre Maimônides em g14-c010. |
+| Ethica / De divinis nominibus / Sententiae | *Ética* / *Sobre os nomes divinos* / *Sentenças* | |
+| explicite / implicite / explicatio | explicitamente / implicitamente / explicitação | Nota em g14-c011. |
+| maiores / minores | os maiores / os menores | Os que têm ofício de ensinar a fé / os simples. |
+| praelati / habentes curam animarum | prelados / os que têm cura de almas | |
+| compositio | composição | A proposição como composição de sujeito e predicado. |
+| intellectus / ratio / intelligentia / mens | intelecto / razão / inteligência / mente | |
+| intelligere | inteligir | Nota em g15-c001. |
+| conferre / collativa / comparare | conferir / colativa / comparar | *conferre* e *comparare* distintos em g15-c001 [27]. |
+| accipere / acceptio (simplex, absolute) | captar / captação | “Recepção” para a fé: g14-c011 [17], g14-c012 [9]. |
+| discursus / discurrere / ratiocinatio | discurso / discorrer / raciocínio | |
+| resolvere / resolutio / ars resolutoria | resolver / resolução / arte resolutória | |
+| intellectus principiorum | intelecto dos princípios | |
+| sensus communis / sensus proprius | sentido comum / sentido próprio | |
+| vis / virtus (no sentido de potência) | força | Para distinguir de *potentia*. |
+| vis cogitativa | força cogitativa | |
+| fatum | destino | |
+| Philosophus / Commentator | o Filósofo / o Comentador | |
+| Hieronymus / Avicenna / Isaac | Jerônimo / Avicena / Isaac | Nota sobre Isaac Israeli em g15-c001. |
+| De Trinitate / Super Genesim ad litteram / De spiritu et anima / De consolatione | *Sobre a Trindade* / *Sobre o Gênesis ao pé da letra* / *Sobre o espírito e a alma* / *Consolação da filosofia* | |
+| Physica / Metaphysica / Caelestis hierarchia / De diffinitionibus / De naturalibus | *Física* / *Metafísica* / *Sobre a hierarquia celeste* / *Sobre as definições* / *Sobre as coisas naturais* | |
+| ratio superior / ratio inferior / portio rationis | razão superior / razão inferior / porção da razão | |
+| rationes aeternae (e *rationes* no plural em geral) | razões eternas / razões | O plural não se confunde com a potência. |
+| scientificum / rationativum / opinativum | o científico / o raciocinativo / o opinativo | Partes da alma segundo Aristóteles, *Ética* VI. |
+| quid / quod quid est | aquilo que algo é (*quid*) / quididade (*quod quid est*) | Latim mantido entre parênteses na primeira ocorrência de cada artigo. |
+| officium / per officia geminari | ofício / desdobrar-se pelos ofícios | |
+| immutare / immutativa | imutar / imutativa | Ação do sensível sobre o sentido. |
+| scientia subalternans / subalternata | ciência subalternante / subalternada | Nota em g15-c002. |
+| delectatio / delectatio morosa / delectari | deleitação / deleitação morosa / deleitar-se | Nota em g15-c004. |
+| consensus in delectationem / in opus / interpretativus / expressus | consentimento na deleitação / na obra / interpretativo / expresso | |
+| conversio / aversio / averti | conversão / aversão / afastar-se | |
+| electio / consilium | eleição / conselho | |
+| sensualitas / irascibilis / concupiscibilis | sensualidade / irascível / concupiscível | Substantivados no masculino (“o irascível”), como nas chamadas anteriores. |
+| vir / mulier / serpens (alegoria agostiniana) | varão / mulher / serpente | |
+| synderesis | sindérese | |
+| Dionysius / Lucia | Dionísio / Luzia | Nota sobre Santa Luzia em g15-c004. |
+| Enchiridion / Contra Manichaeos / De divinis nominibus / De anima / Ethica / Glossa | *Enquirídio* / *Contra os maniqueus* / *Sobre os nomes divinos* / *Sobre a alma* / *Ética* / a Glosa | |
+| naturale iudicatorium / naturale iudicium | judicatório natural / juízo natural | Distintos de *iudicium* (“juízo”). |
+| remurmurare malo / instigare ad bonum | murmurar contra o mal / incitar ao bem | |
+| fomes (peccati) | fômite (do pecado) | Nota em g16-c001. |
+| principium motivum / potentia motiva | princípio motor / potência motora | “Motivo” evitado por seu sentido corrente. |
+| principia iuris (naturalis) | princípios do direito (natural) | *lex naturalis* → lei natural. |
+| operabilia / particulare operabile / agibilia | coisas operáveis / o operável particular / coisas a fazer | |
+| dividi contra | ser contradistinto de | |
+| conscientia / conscire / sibi conscius esse | consciência / *conscire* (mantido em latim) / ter consciência em si | |
+| dictamen | ditame | |
+| ligare (conscientia) | obrigar | Como nos títulos de g17. |
+| accusare / remordere / defendere / excusare | acusar / remorder / defender / escusar | |
+| notitia | conhecimento | Não “notícia”. |
+| collatio / conferre (g17) | comparação / comparar | |
+| vertex (animae) | cimo (da alma) | |
+| obsequium praestare Deo | prestar obséquio a Deus | Mantém o elo entre João 16:2 e o juízo *Deo esse obsequendum*. |
+| inquinatio / munditia / emundare | contaminação / limpeza / purificar | |
+| immissio | implantação | |
+| scintilla conscientiae | centelha da consciência | |
+| lumen (g16-c003) | luz | |
+| simpliciter / secundum quid | simplesmente / sob certo aspecto | |
+| absolute / in omnem eventum | absolutamente / em qualquer eventualidade | |
+| per se / per accidens / per se loquendo | por si / por acidente / propriamente falando | |
+| deponere (conscientiam) / depositio | depor / deposição | |
+| ligare ad peccatum | obrigar sob pecado | |
+| perplexus | perplexo | |
+| imperium (regentis) | comando | |
+| consilium / consiliari | conselho / aconselhar-se | |
+| praelatus / subditus / praelatio | prelado / súdito / prelazia | Ver decisão sobre o título de g17-c005. |
+| ligamen / vinculum | vínculo | |
+| scientia (de praecepto) | ciência | *notitia* continua “conhecimento”. |
+| per essentiam | por sua essência | Como nos títulos de g18. |
+| medium (sub quo / quo / a quo) | meio (sob o qual / pelo qual / do qual) | |
+| status innocentiae / status viae / patria | estado de inocência / estado de via / pátria | |
+| viator / comprehensor | viador / compreensor | Nota em g18-c001. |
+| raptus / extasis / sopor | arrebatamento / êxtase / sopor | |
+| cognitio specularis | conhecimento especular | Nota em g18-c001. |
+| cognitio collativa sive venativa | conhecimento comparativo ou venatório | Nota em g18-c002. |
+| lux / lumen (gloriae, gratiae, intellectus agentis) | luz (da glória, da graça, do intelecto agente) | |
+| prima veritas | primeira verdade | |
+| auditus / locutio | ouvir / locução | |
+| Magister / Commentator / Damascenus | o Mestre / o Comentador / o Damasceno | |
+| *Super Genesim ad litteram* / *De spiritu et anima* / *De divinis nominibus* / *De consolatione* | *Comentário literal ao Gênesis* / *Sobre o espírito e a alma* / *Dos nomes divinos* / *Da consolação* | |
+| in Verbo / in propria natura / in sua intelligentia | no Verbo / na própria natureza / na sua inteligência | g18-c004 [14], [33]–[34]. |
+| quiditas / suppositum | quididade / supósito | |
+| nescientia | nesciência | Distinta de *ignorantia* → “ignorância” (g18-c007 [18]). |
+| disciplina (do pai aos filhos) | ensino | |
+| aestimatio / naturalis aestimatio | estimação / estimativa natural | A segunda para os animais. |
+| deceptio / error / seductio | engano / erro / sedução | |
+| elatio mentis | elação da mente | |
+| electio | eleição | Como no título de g22-c015. |
+| motivum (intellectus) | motivo | Sentido escolástico de “o que move”. |
+| collativus | comparativo | Coerente com *cognitio collativa*. |
+| Avempace / Themistius / Alexander | Avempace / Temístio / Alexandre | Nota em g18-c005. |
+| *De causis* / *Liber sextus de naturalibus* | *Livro das causas* / *Dos naturais* (livro 6) | Notas em g18-c004. |
+| *De civitate Dei* / *Dialogi* / *Caelestis* e *Ecclesiastica hierarchia* | *A cidade de Deus* / *Diálogos* / *Hierarquia celeste* e *eclesiástica* | |
+| *De divinatione daemonum* / *De duabus naturis* / *De vera religione* / *Ethica* / *Metaphysica* / *De anima* | *Da adivinhação dos demônios* / *Das duas naturezas* / *Da verdadeira religião* / *Ética* / *Metafísica* / *Sobre a alma* | |
+| *Sed contra* (instância dentro de uma objeção, em itálico) / *Sed contra* (argumentos em contrário) | *Mas, em contrário* / Em sentido contrário | *contra:* após “Se se disser…” → “em contrário:”. |
+| *Sed dicebat quod* | Mas dizia-se que | |
+| phantasma / conversio ad phantasmata | fantasma / conversão aos fantasmas | |
+| intellectus agens / intellectus possibilis | intelecto agente / intelecto possível | |
+| vis imaginativa, aestimativa, memorativa, cogitativa; sensus communis | virtude imaginativa, estimativa, memorativa, cogitativa; senso comum | |
+| species concreatae / infusae / innatae / inditae | espécies concriadas / infusas / inatas / postas (na alma) | |
+| anima separata | alma separada | |
+| facies superior / inferior (animae) | face superior / inferior | Nota em g19-c001. |
+| influentia (a superiori) | influxo | |
+| lumen intellectuale | lume intelectual | Como no título de g12-c007. |
+| status viae / in via | estado de viador / na vida presente | |
+| ligatus (usus intellectus) | tolhido | |
+| complexio | compleição | |
+| sigillatio | impressão, como de um selo | g2-c001 [9] e [31]. |
+| causatum | causado | |
+| Damascenus / Anselmus / Algazel | o Damasceno / Anselmo / Algazel | |
+| *De Trinitate* / *De divinis nominibus* / *De mystica theologia* / *Caelestis hierarchia* | *A Trindade* / *Dos nomes divinos* / *Teologia mística* / *Hierarquia celeste* | |
+| *De hebdomadibus* / *Monologion* / *Perihermeneias* / *Physica* | *Das hebdômadas* / *Monológio* / *Da interpretação* / *Física* | |
+| *De intelligentiis* / *De spiritu et anima* / *Glossa* | *Das inteligências* / *Do espírito e da alma* / *Glosa* | |
+| intelligere / scire / cognoscere | inteligir / saber, ter ciência / conhecer | g2-c002. |
+| comprehendere | compreender | Sentido técnico: conhecer até o fim. |
+| simpliciter | absolutamente | |
+| infinitum privative / negative | infinito privativamente / negativamente | |
+| ex parte cognoscentis / ex parte cogniti | por parte do cognoscente / por parte do conhecido | |
+| intueri | contemplar | |
+| transibile / intransibile | transponível / intransponível | |
+| discursus / discurrere | discurso / discorrer | |
+| ratio propria / communis | razão própria / comum | |
+| proportio / proportionalitas | proporção / proporcionalidade | |
+| fieri (causa fiendi) / esse (causa essendi) | vir a ser / ser | |
+| fruibilia / utilia | fruíveis / úteis | Nota em g2-c003. |
+| terminatio diaphani | terminação do diáfano | Nota em g2-c004. |
+| Commentator / Rabbi Moyses / Trismegistus / Alanus | o Comentador / Rabi Moisés / Trismegisto / Alano | |
+| *De causis* / *83 quaestionum* / *De anima* | *Livro das causas* / *Oitenta e três questões* / *Da alma* | |
+| *Metaphysica* / *Ethica* | *Metafísica* / *Ética* | |
+| similitudo | semelhança | |
+| phantasma | fantasma | Imagem da imaginação; nota em g2-c006. |
+| materia signata / non signata | matéria assinalada / não assinalada | g2-c006. |
+| enuntiabilia | enunciáveis | g2-c007. |
+| quod quid est | quididade | g2-c007 [11]. |
+| intuitus | intuição | O verbo *intueri* segue como “contemplar”. |
+| scientia visionis / simplicis notitiae | ciência de visão / de simples notícia | g2-c009. |
+| per viam infiniti | pela via do infinito | g2-c009. |
+| lux / lumen | luz / lume | g2-c005 [17], [44]. |
+| desilire / defluere | saltar para fora / escoar-se | g2-c005 [24], [49]. |
+| finire (scientis comprehensione) | delimitar | g2-c009. |
+| transire / pertransire | transpor / percorrer | |
+| Algazel / Seneca / Empedocles | Algazel / Sêneca / Empédocles | |
+| *Enchiridion* / *De divinis nominibus* / *De consolatione (philosophiae)* / *De civitate Dei* / *Physica* / *Monologion* | *Enquirídio* / *Dos nomes divinos* / *Da consolação (da filosofia)* / *Da cidade de Deus* / *Física* / *Monológio* | |
+| univoce / aequivoce / analogice | univocamente / equivocamente / analogicamente | g2-c011. |
+| convenientia | conveniência | O verbo *convenire cum* (entre números) → “concordar com”. |
+| habitudo | relação | g2-c011, c012. |
+| proportio / proportionalitas | proporção / proporcionalidade | g2-c011 [15]. |
+| sanum / sanitas | sadio / saúde | Exemplo da analogia; evita a ambiguidade de “são”. |
+| visus | vista | g2-c011 [15]. |
+| esse sciens | ser ciente | g2-c011 [14]. |
+| simpliciter | absolutamente / pura e simplesmente | “Concedere simpliciter” → “conceder sem mais”. |
+| Probatio mediae | *Prova da menor* | |
+| Sed dicebat quod | Mas dizia-se que | |
+| *Sed contra* (dentro da objeção) | *Mas, em sentido contrário* | |
+| *de dicto* / *de re* | *de dicto* / *de re* | Em itálico; nota em g2-c012. |
+| sensus compositus / divisus | sentido composto / dividido | |
+| dictum / suppositum dicti | dito / supósito do dito | |
+| ad utrumlibet | indiferente a qualquer dos dois lados | |
+| praesentialitas / praesentialiter | presencialidade / presencialmente | |
+| providentia / praevidentia | providência / previdência | |
+| specula (aeternitatis) | atalaia (da eternidade) | Não “espelho”. |
+| evenire / eventus | acontecer / acontecimento | |
+| aestimatio | estimação | |
+| virtus (força ativa) | virtude | g2-c013, c014. |
+| vis cognoscitiva / generativa | força cognoscitiva / generativa | |
+| scibile | sabível | |
+| causa prima / secunda | causa primeira / segunda | |
+| Origenes / Hugo de Sancto Victore / Anaxagoras / Dionysius / Commentator | Orígenes / Hugo de São Vítor / Anaxágoras / Dionísio / o Comentador | |
+| *Praedicamenta* / *Topica* / *Posteriora* / *Priora* / *Perihermeneias* / *De generatione* / *De anima* / *De libero arbitrio* / *De sacramentis* / *Super Epistolam ad Romanos* | *Categorias* / *Tópicos* / *Segundos Analíticos* / *Primeiros Analíticos* / *Da interpretação* / *Da geração* / *Da alma* / *Do livre-arbítrio* / *Dos sacramentos* / *Sobre a Epístola aos Romanos* | |
+| ponere (in Christo) | afirmar | “Utrum in Christo sit ponere” → “se se deve afirmar em Cristo”. |
+| medium / sine medio | meio / sem meio | g20-c001, c002. |
+| hypostasis / suppositum | hipóstase / supósito | |
+| per modum habitus / passionis | a modo de hábito / de paixão | g20-c002. |
+| passibilis qualitas / qualitas difficile mobilis | qualidade passível / qualidade dificilmente móvel | |
+| lumen | lume | |
+| habitudines (Máximo) | habitudes | Mantém o eco de *habitus*. |
+| intellectus possibilis / agens | intelecto possível / agente | |
+| comprehensor / viator | compreensor / viador | Nota em g20-c003. |
+| evacuari (1 Coríntios 13:10) | ser abolido | |
+| visio specularis / visio speciei | visão especular / visão da espécie | Nota em g20-c001. |
+| proficere (Lucas 2:52) | progredir | |
+| notitia | notícia | |
+| nescientia / ignorantia | nesciência / ignorância | |
+| infinita | coisas infinitas | |
+| scientia visionis / simplicis intelligentiae | ciência de visão / de simples inteligência | |
+| exitus / reditio | saída / retorno | g20-c004. |
+| virtus divina / potentia | virtude divina / potência | Mantém a distinção. |
+| Eunomius / Apollinaris / Maximus / Isidorus / Ambrosius / Damascenus | Eunômio / Apolinário / Máximo / Isidoro / Ambrósio / o Damasceno | |
+| *Metaphysica* / *Ethica* / *Caelestis hierarchia* / *De divinis nominibus* / *Confessiones* / *Super Genesim ad litteram* / *De Trinitate* | *Metafísica* / *Ética* / *Hierarquia celeste* / *Dos nomes divinos* / *Confissões* / *Sobre o Gênesis ao pé da letra* / *Sobre a Trindade* | Citação “in 8 *Metaphysicae*” → “no livro 8 da *Metafísica*”. |
+| bonum / bonitas | bem / bondade | Q. 21. |
+| ens / esse | ente / ser | |
+| verum / veritas | verdadeiro / verdade | |
+| ratio (boni, entis, speciei) | razão (de bem, de ente, da espécie) | *Ratio* como argumento → “argumento”. |
+| secundum rem / re / realiter | segundo a realidade, na realidade / realmente | “Segundo a realidade” quando em par com “segundo a razão”. |
+| simpliciter / secundum quid / absolute | simplesmente / sob certo aspecto / absolutamente | |
+| convertuntur | se convertem | |
+| perfectivum / perfectibile | perfectivo / perfectível | |
+| habitudo | relação | Na Q. 21; difere de “habitudes” (Máximo, Q. 20). |
+| respectus | referência | |
+| positio / positive | posição / positivamente | Em oposição à negação. |
+| contrahere / contractio | contrair / contração | |
+| scibile | cognoscível | |
+| informatio | informação | |
+| non nugatorie | não ociosamente | g21-c001 [22]. |
+| potest in esse | tem poder para o ser | g21-c004 [11], [37]. |
+| Avicenna / Algazel / Anselmus / Hilarius / Dionysius / Boetius | Avicena / Algazel / Anselmo / Hilário / Dionísio / Boécio | |
+| David de Dinando / Porretani / Platonici | Davi de Dinant / os porretanos / os platônicos | |
+| *De causis* / *De hebdomadibus* / *De consolatione* / *Physica* / *Praedicamenta* | *Livro das causas* / *Sobre as hebdômadas* / *Consolação* / *Física* / *Categorias* | “in commento libri *De causis*” → “no comentário do *Livro das causas*”. |
+| modus, species, ordo | modo, espécie, ordem | g21-c006. |
+| moderata, speciosa, ordinata | moderadas, formosas, ordenadas | Nota do tradutor sobre *speciosa*/*species*. |
+| modificatum et specificatum | dotado de modo e de espécie | g22-c001 [37]. |
+| appetitus / appetere / appetibile | apetite / apetecer / apetecível | *desiderare* → desejar; *expetere* → desejar. |
+| appetitus naturalis / animalis / sensitivus / rationalis | apetite natural / animal / sensitivo / racional | |
+| vis (apprehensiva, appetitiva, motiva, augmentativa) | força (apreensiva, apetitiva, motiva, aumentativa) | *Potentia* → potência. |
+| esse naturae / naturale / spirituale / intentionale | ser natural / espiritual / intencional | |
+| natum est | é apto a | |
+| agens a proposito | agente por propósito | |
+| coactio / cogere / violentum | coação / coagir / violento | |
+| necessitas coactionis / naturalis inclinationis | necessidade de coação / de inclinação natural | |
+| se habere ad opposita | referir-se aos opostos | |
+| dividi contra | dividir-se contra | |
+| delectatio / frui / fruitio | deleite / fruir / fruição | |
+| electio | eleição | |
+| intellectus agens / possibilis; phantasma | intelecto agente / possível; fantasma | |
+| causa / agens / finis secundarius | causa / agente / fim secundário | *Causae secundae* → causas segundas. |
+| assumptio (no silogismo) | premissa menor | g22-c004 [15]. |
+| Magister / Damascenus / Glossa | o Mestre / o Damasceno / a Glosa | |
+| Ambrosius / Bernardus / Gregorius / Plato | Ambrósio / Bernardo / Gregório / Platão | |
+| *De Trinitate* / *De civitate Dei* / *De divinis nominibus* / *Soliloquia* | *Sobre a Trindade* / *A cidade de Deus* / *Sobre os nomes divinos* / *Solilóquios* | |
+| *83 quaestiones* / *De natura boni* / *Super Genesim ad litteram* / *Hexameron* | *Oitenta e três questões* / *Sobre a natureza do bem* / *Comentário literal ao Gênesis* / *Hexâmeron* | |
+| *Ethica* / *De anima* / *Metaphysica* / *De caelo et mundo* | *Ética* / *Sobre a alma* / *Metafísica* / *Sobre o céu e o mundo* | |
+| simpliciter / secundum quid / absolute | simplesmente / sob certo aspecto / absolutamente | g22-c011. |
+| ea quae sunt ad finem | as coisas que são para o fim | |
+| beatitudo / beati / viatores | bem-aventurança / bem-aventurados / viadores | |
+| mereri / demereri; meritorium / demeritorium | merecer / desmerecer; meritório / demeritório | |
+| immutare (voluntatem) | mudar | Não “imutar”. |
+| intelligere | inteligir | *Cognoscere* → conhecer. |
+| imperium / imperare | império / imperar | g22-c012. |
+| comparari ad / habitudo | referir-se a / relação | |
+| incontinens; cholericus; complexio | incontinente; colérico; compleição | |
+| stulti | estultos | Eclesiastes 1:15. |
+| nescientia | nesciência | g22-c009 [21]. |
+| per modum intentionis / causae agentis | a modo de intenção / de causa agente | |
+| rationale, concupiscibile, irascibile | o racional, o concupiscível, o irascível | Neutro latino; a potência, no feminino: a irascível, a concupiscível. |
+| Tullius / Avicenna / Hugo de Sancto Victore / Anselmus | Túlio / Avicena / Hugo de São Vítor / Anselmo | |
+| *Moralia* / *De causis* / *Caelestis* e *Ecclesiastica hierarchia* | *Morais* / *Sobre as causas* / *Sobre a hierarquia celeste* e *eclesiástica* | |
+| *De similitudinibus* / *Epistola ad Titum* / *Super Ezechielem* | *Sobre as semelhanças* / *Carta a Tito* / *Sobre Ezequiel* | |
+| intentio / intendere | intenção / intentar | *Non intendit* (Dionísio) → “não pretende”. |
+| electio / eligere | eleição / eleger | |
+| prosequi / prosecutio; fuga | buscar / busca; fuga | Não “perseguir”. |
+| volitum | o querido / a coisa querida | |
+| consilium (deliberação) / sententia | conselho / sentença | g22-c015. |
+| discretio | discernimento | |
+| voluntas antecedens / consequens | vontade antecedente / consequente | |
+| voluntas beneplaciti / voluntas signi | vontade de beneplácito / vontade de sinal | *Placitum* → aprazível. |
+| praeceptum, prohibitio, consilium, operatio, permissio | preceito, proibição, conselho, operação, permissão | *Praecipere* → preceituar. |
+| voluntas affectionis / effectionis | vontade de afeição / de efetuação | |
+| modus significandi | modo de significar | |
+| primum mobile | primeiro móvel | |
+| locutio propria / tropica | locução própria / trópica | |
+| *Sed contra* (em itálico, réplica dentro das objeções) | *Em contrário* | |
+| Sed contra (argumentos do sentido contrário) | Em sentido contrário | |
+| Dionysius / Damascenus / Boetius / Commentator / Magister | Dionísio / Damasceno / Boécio / o Comentador / o Mestre | |
+| *Ethicorum* / *Physicorum* / *Metaphysicae* / *De anima* | *Ética* / *Física* / *Metafísica* / *Sobre a alma* | “no livro 3 da *Ética*”. |
+| *De divinis nominibus* / *De consolatione* / *De civitate Dei* / *De regulis fidei* | *Sobre os nomes divinos* / *Sobre a consolação* / *A cidade de Deus* / *Sobre as regras da fé* | |
+| necessarium absolute / ex suppositione | necessário absolutamente / por suposição | g23-c004. |
+| necessitas immutabilitatis / coactionis / naturalis ordinis | necessidade de imutabilidade / de coação / de ordem natural | |
+| habitudo / respectus (voluntatis ad volitum) | relação / referência | |
+| ea quae sunt ad finem | aquilo que é para o fim | |
+| causa secunda / media / proxima | causa segunda / média / próxima | |
+| multitudo | multidão | |
+| potentia absoluta / ordinata | poder absoluto / ordenado | |
+| relatio aequiparantiae | relação de equiparância | Nota em g23-c007. |
+| proportio / proportionalitas; proportionata / proportionabilia | proporção / proporcionalidade; proporcionados / proporcionáveis | |
+| dilectio naturalis / gratuita | amor natural / gratuito | |
+| affectio / affectus | afeição / afeto | |
+| viator / demereri | viador / desmerecer | |
+| praelatus / subditus | prelado / súdito | |
+| prophetia comminationis | profecia de cominação | |
+| Augustinus / Anselmus / Hilarius / Avicenna / Tullius / Glossa | Agostinho / Anselmo / Hilário / Avicena / Túlio / a Glosa | Sem “Santo” no corpo, como Dionísio, Damasceno. |
+| Responsio. Dicendum quod / Ad primum ergo dicendum quod | Resposta. Deve-se dizer que / Quanto ao primeiro, portanto, deve-se dizer que | |
+| liberum arbitrium / homo est liberi arbitrii | livre-arbítrio / o homem tem livre-arbítrio | “liberum arbitrio” → “livre no arbítrio”. |
+| electio / eligere | eleição / eleger | Como nos títulos do book.json. |
+| iudicium / arbitrium | juízo / arbítrio | Nota em g24-c001 [^1]. |
+| consilium / consiliari | conselho / tomar conselho | |
+| libertas arbitrii / consilii / complaciti | liberdade de arbítrio / de conselho / de complacência | Bernardo, g24-c001. |
+| facultas / facilitas | faculdade / facilidade | Nota em g24-c004 [^1]. |
+| bruta / aguntur | os brutos / são conduzidos | “Animais irracionais” fica nos títulos. |
+| a versione incipere / vertibilis | começar por uma mudança / mutável | Damasceno. |
+| necessitas consequentis / consequentiae | necessidade do consequente / da consequência | |
+| vis cognitiva / notitia / collatio / aestimatio naturalis | força (potência) cognoscitiva / notícia / comparação / estimação natural | |
+| irascibilis / concupiscibilis | a irascível / a concupiscível | No feminino (potência), como no book.json. |
+| Gregorius Nyssenus / Bernardus / Boetius / Magister / Commentator | Gregório de Nissa / Bernardo / Boécio / o Mestre / o Comentador | |
+| Sed dicebat quod / *Sed contra* (na réplica) / Sed contra est quod | Mas dizia-se que / *Em sentido contrário* / Mas, em sentido contrário, está o que | |
+| *Deest solutio ad …* | *Falta a solução ao …* | |
+| Eccl. | Eclesiástico | Sirácida. |
+| *Super Genesim ad litteram* / *De causis* | *Comentário literal ao Gênesis* / *Livro das causas* | |
+| oblique (in definitione) | em caso oblíquo | Nota em g24-c006 [^1]. |
+| eliciens / informans | (potência) que elicia / que informa | g24-c006. |
+| praeconsiliatum | o que antes foi objeto de conselho | Definição aristotélica da eleição. |
+| virtus (= potência) apprehensiva / appetitiva | força apreensiva / apetitiva | Segue “vis cognitiva → força”. |
+| impeccabilis / impeccabilitas | impecável / impecabilidade | Sentido teológico: incapaz de pecar. |
+| confirmari in bono / firmatum | ser confirmado no bem / firmado | |
+| flecti / flexibilis / flexibilitas ad malum | dobrar-se para o mal / flexível / flexibilidade para o mal | |
+| ex nihilo esse | provir do nada | |
+| principium a quo / ex quo est | princípio por quem existe / a partir do qual existe | g24-c007 [12]. |
+| ex (puris) naturalibus | pelas (puras) forças naturais | |
+| status viae / in patria / viator / comprehensor | estado de via / na pátria / viador / compreensor | Nota em g24-c009 [^1]. |
+| obstinatus / obfirmatus in malo | obstinado / endurecido no mal | |
+| posse in bonum | ser capaz do bem | |
+| bene velle | querer retamente | Evita “querer bem” (amar alguém). |
+| cupiditas | cupidez | |
+| aestimatio / eligibile | estimação / elegível | |
+| *Probatio mediae* | *Prova da premissa média* | |
+| Ad undecimum, duodecimum… | Quanto ao décimo primeiro, décimo segundo… | |
+| Psal. / Sap. / 1 Cor. / Matth. | Salmo / Sabedoria / 1 Coríntios / Mateus | Numeração dos Salmos como na fonte. |
+| Origenes / Avicenna / Hugo de Sancto Victore / Tullius | Orígenes / Avicena / Hugo de São Vítor / Túlio | |
+| *De fide ad Petrum* / *Caeli et mundi* / *Praedicamenta* | *Sobre a fé, a Pedro* / *Sobre o céu e o mundo* / *Categorias* | |
+| impoenitibilis | incapaz de penitência | g24-c011. |
+| merito (naturae lapsae) / meritum obstinationis | merecimento / o que merece a obstinação | g24-c011 [3]. |
+| gratia gratum faciens | graça santificante | Nota em g24-c012 [^4]. |
+| gratia gratis data | graça dada gratuitamente | g24-c015. |
+| fomes | fômite | Nota em g24-c012 [^3]. |
+| aversio / conversio | aversão / conversão | |
+| vitatio peccati | evitação do pecado | |
+| primi motus | primeiros movimentos | |
+| motiva exequens / virtus motiva exequens | potência / força motora executora | |
+| sinceritas naturae | pureza da natureza | |
+| facere quod in se est | fazer o que está em si | Literal, porque o argumento de g24-c015 [12] depende de *in se*. |
+| *Sed contra* / Ad primum vero quod in contrarium obiicitur | Em sentido contrário / Quanto ao primeiro dos argumentos em contrário | |
+| utraeque rationes | ambas as séries de argumentos | Objeções e *sed contra*. |
+| crystallum (Salmo 147:17) | gelo | g24-c011 [16]: a Glosa lê “os endurecidos”. |
+| Iovinianus / Hieronymus / Damasus / Cyprianus | Joviniano / Jerônimo / Dâmaso / Cipriano | |
+| *Liber de causis* | *Livro das causas* | Nota em g24-c014 [^1]. |
+| *De verbis Domini* / *De perfectione iustitiae* / *De natura et gratia* / *De gratia et libero arbitrio* / *Retractationes* / *De perseverantia* / *Moralia* | *Sobre as palavras do Senhor* / *Sobre a perfeição da justiça* / *Sobre a natureza e a graça* / *Sobre a graça e o livre-arbítrio* / *Retratações* / *Sobre a perseverança* / *Morais* | |
+| Zach. / Thren. / Apoc. / Iac. / Is. / Ier. / 2 Mach. / Ioh. | Zacarias / Lamentações / Apocalipse / Tiago / Isaías / Jeremias / 2 Macabeus / João | “ultimo” → “no último capítulo”. |
+| sensualitas | sensualidade | |
+| vis / potentia | potência | *vis* também “potência”; *virtus* “força” ou “virtude” conforme o contexto. |
+| irascibilis / concupiscibilis | a irascível / a concupiscível | Femininos, subentendida “potência”. |
+| appetibile / ratio appetibilitatis | apetecível / razão de apetibilidade | |
+| delectabile / delectatio / voluptas | deleitável / deleite / prazer | |
+| conveniens / disconveniens / nocivum / arduum | conveniente / desconveniente / nocivo / árduo | |
+| bonum simpliciter / bonum ut nunc | bem pura e simplesmente / bem no agora | g25-c001; “ut hic et nunc” → “como aqui e agora”. |
+| ratio sapientiae / ratio scientiae | razão de sabedoria / razão de ciência | Nota em g25-c001 [^1]. |
+| aestimativa / imaginativa | estimativa / imaginativa | |
+| concupiscere | desejar | *concupiscentia* → “concupiscência”. |
+| corruptio et infectio | corrupção e mancha | Conforme o título de g25-c006 no sumário. |
+| consensus interpretatus / interpretativus | consentimento interpretativo | Nota em g25-c005 [^1]. |
+| praevenire iudicium rationis | antecipar-se ao juízo da razão | |
+| Sed dicebat quod | Mas dizia-se que | Réplica a uma resposta suposta, dentro das objeções. |
+| *Probatio mediae* | *Prova da premissa do meio* | g25-c001 [10]. |
+| Gregorius Nyssenus | Gregório de Nissa | Nota em g25-c002 [^1] (na verdade, Nemésio de Emesa). |
+| *De spiritu et anima* | *Sobre o espírito e a alma* | Nota em g25-c002 [^2]. |
+| *De Trinitate* / *De anima* / *Ethicorum* / *Topicorum* / *Physicorum* / *Metaphysicae* / *De animalibus* / *De somno et vigilia* / *De civitate Dei* / *De divinis nominibus* / *Ecclesiastica hierarchia* | *Sobre a Trindade* / *Sobre a alma* / *Ética* / *Tópicos* / *Física* / *Metafísica* / *Sobre os animais* / *Sobre o sono e a vigília* / *A cidade de Deus* / *Sobre os nomes divinos* / *Hierarquia eclesiástica* | |
+| Prooemium | Prólogo | Título do arquivo do prólogo, conforme o sumário. |
+| passio / pati | paixão / padecer | “Sofrer” evitado, para manter o vínculo entre os termos. |
+| passio animalis / passio corporalis | paixão animal / paixão corporal | *animalis* = “da alma”; nota em g26-c002 [^1]. |
+| agens / patiens | agente / paciente | |
+| abicere / abiectio | rejeitar / rejeição | |
+| transmutatio / alteratio / immutatio | mudança / alteração / mudança | |
+| transumptive | por translação | |
+| appetitiva / apprehensiva sensitiva | apetitiva / apreensiva sensitiva | Femininos, subentendida “potência”, como a irascível. |
+| intellectus possibilis / passibilis / agens | intelecto possível / passível / agente | |
+| instrumentum divinae iustitiae | instrumento da justiça divina | |
+| cremabilia | coisas combustíveis | |
+| detinere / ligare | deter / amarrar | g26-c001. |
+| Algazel | Algazel | Nota em g26-c001 [^2]. |
+| Hierotheus | Hieroteu | Nota em g26-c003 [^1]. |
+| *Super Genesim ad litteram* / *De vera religione* / *Dialogorum* / *Moralium* / *De duabus naturis* | *Sobre o Gênesis ao pé da letra* / *Sobre a verdadeira religião* / *Diálogos* / *Morais* / *Sobre as duas naturezas em uma só pessoa de Cristo* | |
+| Sed contra (nas objeções) / Sed contra est quod | *Mas em sentido contrário* / Mas, em sentido contrário, está o que | |
+| concupiscibilis / irascibilis | a concupiscível / a irascível | Potências; femininos. O objeto deleitável: “o concupiscível”. |
+| gaudium / laetitia / delectatio / voluptas | alegria / regozijo / deleite / voluptuosidade | *gaudium* = “alegria”, como no título de g26-c005. Nota em g26-c004 [^2]. |
+| exsultatio / hilaritas / iocunditas | exultação / hilaridade / jucundidade | Nota em g26-c004 [^3]. |
+| tristitia / dolor / timor / metus | tristeza / dor / temor / medo | |
+| spes / desperatio / audacia / ira / furor / zelus | esperança / desespero / audácia / ira / furor / zelo | |
+| accidia / achos / invidia / misericordia / poenitentia | acídia / *achos* / inveja / misericórdia / penitência | Nota em g26-c004 [^1]. |
+| segnities / erubescentia / verecundia / admiratio / stupor / agonia | preguiça / enrubescimento / vergonha / admiração / estupor / agonia | |
+| arduum / arduitas | árduo / arduidade | |
+| facultas (excedens facultatem) | capacidade (que excede a capacidade) | |
+| aestimatio / aestimare | estimação / estimar | |
+| intensio et remissio | intensidade (ou intensificação) e remissão | |
+| habitum / non habitum | possuído / não possuído | Também para o mal. |
+| animaliter | animalmente | Como “paixão animal”. |
+| mereri / meritum / demeritum | merecer / mérito / demérito | |
+| condignum / congruitas / decentia | condigno / congruência / conveniência | |
+| aureola | auréola | Nota em g26-c006 [^1]. |
+| imperare / elicere | imperar / eliciar (ato imperado / elícito) | |
+| electio / discretio | eleição / discernimento | |
+| dilectio | dileção | |
+| virtutes purgati animi | virtudes do ânimo purgado | Nota em g26-c007 [^1]. |
+| Responsio | Resposta | |
+| Sed dicebat | Mas poder-se-ia dizer | |
+| Damascenus / Gregorius Nyssenus / Hugo de Sancto Victore / Macrobius / Salustius / Tullius / Lucia / Magister / Glossa | Damasceno / Gregório de Nissa / Hugo de São Vítor / Macróbio / Salústio / Túlio / Luzia / o Mestre / a Glosa | |
+| *De civitate Dei* / *De spiritu et anima* / *De consolatione* / *Super somnium Scipionis* / *Regula* / *De officiis* / *Catilinarius* / *Sufficientia* | *Cidade de Deus* / *Sobre o espírito e a alma* / *Sobre a consolação* / *Sobre o sonho de Cipião* / *Regra* / *Sobre os deveres* / *Conjuração de Catilina* / *Sufficientia* | Avicena: título latino mantido; nota em g26-c007 [^2]. |
+| Sed contra (est quod) / *Sed contra* (réplica a “Sed dicebat”) | Mas, em sentido contrário, (está o que) / *Mas em sentido contrário* | |
+| vires (superiores / inferiores) | forças (superiores / inferiores) | *Potentia* = potência. |
+| propassio | propaixão | Nota em g26-c008 [^1]. |
+| fomes | fomes | Sem itálico. |
+| viator / comprehensor | viador / compreensor | |
+| ratio ut ratio / ratio ut natura | a razão como razão / a razão como natureza | |
+| redundantia / redundare | redundância / redundar | |
+| colligantia | coligação | |
+| subiecta creatura | criatura sujeita | |
+| passibilis / passibilitas / impassibilitas | passível / passibilidade / impassibilidade | |
+| laesio / sensus (laesionis, poenae) | lesão / sensação (da lesão, da pena) | |
+| gratia gratum faciens / gratia gratis data | graça santificante / graça gratuitamente dada | Como no título de g27-c002. Nota em g27-c001 [^1]. |
+| acceptare / acceptatio / acceptus / Deo gratus | aceitar / aceitação / aceito / agradável a Deus | “Grato” evitado, por ambíguo. |
+| naturalia (supra sua naturalia) | dons naturais | |
+| praedicamentum / quidditas | predicamento / quididade | |
+| Plotinus / Hilarius / Chrysostomus / Anselmus / Stoici / Peripatetici | Plotino / Hilário / Crisóstomo / Anselmo / estoicos / peripatéticos | |
+| *De Trinitate* / *Super Genesim ad litteram* / *Ad Dioscorum* / *De somno et vigilia* / *Praedicamenta* / *Liber sex principiorum* | *Sobre a Trindade* / *Sobre o Gênesis ao pé da letra* / *A Dióscoro* / *Sobre o sono e a vigília* / *Categorias* / *Livro dos seis princípios* | Nota sobre o último em g26-c010 [^1]. |
+| Sed dicebat (quod) | Mas dir-se-ia que | Réplica do objetante, seguida de *Mas em sentido contrário*. |
+| carus / habere Deum carum | caro / ter Deus por caro | Conserva o jogo *caritas*/*carus* (caridade/caro). |
+| dilectio / diligere | amor / amar | |
+| gratia praeveniens / praevenire | graça preveniente / prevenir | |
+| collatio gratiae / conferre | concessão da graça / conferir | |
+| effective / per modum ministerii / auctoritate | efetivamente / a modo de ministério / com autoridade | *Effective* = como causa eficiente. |
+| per se agens / instrumentaliter / dispositive | agente por si / instrumentalmente / dispositivamente | |
+| educere (de potentia materiae) / eductio / concreari | eduzir / edução / ser concriado | |
+| virtus (poder) / potentia / potestas | virtude / potência / poder | |
+| suppositum | supósito | |
+| in fieri / in facto esse | no fazer-se / no ser já feito | |
+| per modum intentionis | a modo de intenção | Nota em g27-c004 [^2]. |
+| causa sine qua non | causa *sine qua non* | |
+| denarius plumbeus | denário de chumbo | Nota em g27-c004 [^1]. |
+| Lex Vetus / Lex Nova; sacerdos legalis / evangelicus | Antiga Lei / Nova Lei; sacerdote da Lei / sacerdote evangélico | |
+| non fictus | sem fingimento | |
+| illabi (menti) | penetrar (na mente) | Nota em g27-c003 [^1]. |
+| conciliare (gratiam regis) | granjear (a graça do rei) | |
+| Dionysius / Damascenus / Gregorius / Ambrosius / Bernardus / Hugo de Sancto Victore / Avicenna / Glossa / Magister / Philosophus | Dionísio / o Damasceno / Gregório / Ambrósio / Bernardo / Hugo de São Vítor / Avicena / a Glosa / o Mestre / o Filósofo | |
+| *Ecclesiastica hierarchia* / *Caelestis hierarchia* / *De praedestinatione sanctorum* / *Cur Deus homo* / *Meteora* / *De cena Domini* / *83 quaestiones* / *Sententiae* | *Hierarquia eclesiástica* / *Hierarquia celeste* / *Sobre a predestinação dos santos* / *Por que Deus se fez homem* / *Meteorológicos* / *Sobre a ceia do Senhor* / *83 questões* / *Sentenças* | |
+| gratia gratum faciens / gratia gratis data | graça santificante / graça gratuitamente dada | Nota em g27-c005 [^1]; onde o argumento joga com *gratus*, “tornar grato”. |
+| gratia operans / cooperans; praeveniens / subsequens | graça operante / cooperante; preveniente / subsequente | |
+| acceptatio / acceptare | aceitação / aceitar | |
+| gratificatio | agraciamento | g27-c006 [14], g28-c001 [5]. |
+| via / patria | via / pátria | Estado desta vida / estado da bem-aventurança. |
+| aversio / conversio (no pecado) | aversão / conversão | Afastamento do bem imutável / volta à criatura. |
+| reatus | reato | Obrigação à pena que permanece passado o ato. |
+| poena damni / poena sensibilis | pena de dano / pena sensível | |
+| meritum condigni / meritum congrui | mérito de condigno / mérito de côngruo | Nota em g28-c001 [^1]. |
+| iustificatio impii | justificação do ímpio | |
+| iustitia specialis / generalis / legalis | justiça especial / geral / legal | |
+| motus / mutatio | movimento / mutação | |
+| terminus a quo / ad quem | termo de onde / termo para onde | |
+| inesse | inerir | |
+| informare / informatio subiecti | informar / informação do sujeito | |
+| elicere | eliciar | |
+| magnificentia / liberalitas | magnificência / liberalidade | |
+| commutatim / proportio commutata | por permutação / proporção permutada | |
+| occasionaliter occidere | matar por ocasião | Romanos 7:11. |
+| maxima / media bona | bens máximos / bens médios | Nota em g27-c007 [^1]. |
+| Hieronymus / Beda / Anselmus / Hugo de Sancto Victore | Jerônimo / Beda / Anselmo / Hugo de São Vítor | |
+| *Ethica* / *Physica* / *De anima* / *De nuptiis et concupiscentia* / *De divinis nominibus* / *Proslogion* | *Ética* / *Física* / *Sobre a alma* / *Sobre as núpcias e a concupiscência* / *Sobre os nomes divinos* / *Proslógio* | |
+| iustificatio simpliciter | justificação pura e simples | Contraposta à justificação do ímpio (g28-c005). |
+| motus liberi arbitrii in Deum / in peccatum | movimento do livre-arbítrio para Deus / em relação ao pecado | Como no título de g28-c005; “para o pecado” só onde o argumento joga com a direção (g28-c005 [8]). |
+| compos suae mentis / suae voluntatis | senhor de sua mente / de sua vontade | |
+| ligari (usus liberi arbitrii, sensus) | ficar tolhido | |
+| fieri / esse | vir a ser / ser | |
+| credere Deo / Deum / in Deum | crer a Deus / crer Deus / crer em Deus | Nota em g28-c004 [^1]. |
+| timor servilis / filialis | temor servil / filial | |
+| res naturae / res rationis | coisa da natureza / coisa de razão | |
+| secundum rem / secundum rationem | na realidade / segundo a razão | |
+| esse mundum / esse gratum | ser puro / ser grato | Nota em g28-c007 [^1]. |
+| agens infinitae virtutis | agente de poder infinito | |
+| facere quod in se est | fazer o que está em si | |
+| res sacramenti | realidade do sacramento | |
+| deletio (maculae, peccati) | apagamento | |
+| Bernardus / Dionysius | Bernardo / Dionísio | |
+| attritio / contritio | atrição / contrição | Nota em g28-c008 [^1]. |
+| dispositio quae est necessitas | disposição que é de necessidade | Contraposta à disposição de congruência (g29-c002). |
+| virtus clavium; in voto | poder das chaves; em desejo | |
+| reatus poenae / macula | reato da pena / mancha | |
+| fieri / factum esse | vir a ser / ter vindo a ser | g28-c009. |
+| motum esse / moveri | ter sido movido / ser movido | g28-c008 [29]. |
+| intensio / remissio (formae) | intensificação / diminuição | Distinto de *remissio culpae* = remissão da culpa. |
+| circa proprium susceptibile | no sujeito próprio que as recebe | |
+| suppositum; assumptibilis | supósito; assumível | |
+| gratia unionis / habitualis | graça de união / graça habitual | |
+| quantitas dimensiva / virtualis | quantidade dimensiva / virtual | Nota em g29-c003 [^1]. |
+| potentia obedientiae | potência obediencial | |
+| repugnare | ser incompatível | |
+| *Probatio mediae* | *Prova da menor* | |
+| gratia capitis; caput | graça capital; cabeça | “Cabeça” mantido em todo g29-c004, também para cidade e fonte de rio (nota [^1]). |
+| influere / influxus, influentia | influir / influxo | |
+| persona singularis / communis | pessoa singular / comum | g29-c005. |
+| res rationis / res naturae | coisa de razão / coisa da natureza | g29-c004 [17], [43]. |
+| meritum condigni; ex condigno | mérito de condigno; de condigno | g29-c007. |
+| fruitio; frui | fruição; fruir | |
+| passibilitas / impassibilitas | passibilidade / impassibilidade | |
+| deliberatio; consilium; electio; collatio | deliberação; conselho; eleição; comparação | g29-c008. |
+| commutatim; commutata proportio | alternando; proporção alternada | Nota em g29-c008 [^1]. |
+| Sed dicebat quod | Mas dizia-se que | Réplica intermediária nas objeções. |
+| patres (antiqui) | (antigos) pais | Os justos do Antigo Testamento, não os Padres da Igreja. |
+| idea; ideatum, res ideatae | ideia; ideado, coisas ideadas | Questão 3. |
+| forma exemplaris; exemplar; exemplatum | forma exemplar; exemplar; exemplado | |
+| ratio (rerum) | razão (das coisas) | Também “razões ideais”. |
+| forma a qua / secundum quam / ad quam | forma a partir da qual / segundo a qual / em vista da qual | g3-c001 [26]–[27]: o *ad* lido como “em vista de”, para o argumento da ordem ao fim. |
+| scientia simplicis notitiae; simplex notitia | ciência de simples notícia; simples notícia | |
+| scientia visionis / approbationis | ciência de visão / de aprovação | g3-c003 [27]. |
+| cognitio practica / speculativa; actu, habitu vel virtute | conhecimento prático / especulativo; em ato, em hábito ou virtualmente | |
+| intelligere; intellectum | inteligir; inteligido | |
+| artifex; artificiatum | artífice; artefato | |
+| materia prima | matéria-prima | |
+| praediffinitio | predefinição | |
+| esse terminatum / determinatum | ser determinado | g3-c004, g3-c006. |
+| passiones (rei) | propriedades | g3-c003. |
+| simus; simitas | camuso; camusidade | Nota em g3-c007 [^1]. |
+| signum (ovelhas, g3-c004 [9]) | marca | |
+| verbum; Verbum | verbo; Verbo | Questão 4. Nota em g4-c001 [^1]. Em sentido não técnico, “afirmação” (g4-c002 [20]) ou “palavra” (g4-c003 [11]). |
+| verbum cordis / interius / exterius / vocis (vocale) | verbo do coração / interior / exterior / da voz (vocal) | “verbum quod habet imaginem vocis”: verbo que tem a imagem da voz. |
+| dicere; dicens; dictum; dictio | dizer; o que diz; dito; dicção | |
+| sermo (Damasceno) / discursus | palavra / discurso | g4-c001 [3]. |
+| cogitatio; consideratio; notitia | cogitação; consideração; notícia | |
+| conceptio intellectus; quiditas | concepção do intelecto; quididade | |
+| processio; processus | processão; processo | |
+| respectus; relatio; habitudo | referência; relação; relação | |
+| secundum rem / secundum rationem; secundum esse / secundum dici | segundo a coisa / segundo a razão; segundo o ser / segundo o dizer | |
+| personaliter / essentialiter | pessoalmente / essencialmente | |
+| ab aeterno / ex tempore | desde a eternidade / temporalmente | |
+| imperium | comando | g4-c003. |
+| suppositio / superpositio | inferioridade / superioridade | g4-c005 [11]. |
+| significativum ad placitum | significativo por convenção | |
+| *De Trinitate*; *Monologion*; *De divinis nominibus*; *De anima*; *Physica*; *Metaphysica*; *83 quaestionum*; *De animalibus* | *A Trindade*; *Monológio*; *Os nomes divinos*; *Sobre a alma*; *Física*; *Metafísica*; *Oitenta e três questões*; *Sobre os animais* | Títulos traduzidos, em itálico. |
+| Damascenus; Richardus de Sancto Victore; Basilius; Dionysius; Anselmus | Damasceno; Ricardo de São Vítor; Basílio; Dionísio; Anselmo | Sem “Santo” onde o latim não o põe. |
+| providentia; providus; provisor; provisum | providência; próvido; provedor (o que provê); provido | Questão 5. |
+| fatum | destino | Boécio. |
+| agibilia / factibilia; operabilia / speculabilia | coisas agíveis / factíveis; operáveis / especuláveis | g5-c001 [20]–[21]. |
+| consilium; electio | conselho; eleição | |
+| dispositio; disponere | disposição; dispor | Distinta de arte e providência (g5-c001 [31]). |
+| providentia approbationis / concessionis | providência de aprovação / de concessão | Nota em g5-c004 [^1]. |
+| perscrutari / scrutari | perscrutar / escrutar | Nota em g5-c002 [^2]. |
+| culpa | culpa | |
+| Sed contra (est quod); *Contra*; Sed dicebat quod; Responsio. Dicendum quod; Ad primum ergo dicendum quod | Mas em sentido contrário (está o que); *Em sentido contrário*; Mas se dizia que; Resposta. Deve-se dizer que; Quanto ao primeiro, portanto, deve-se dizer que | Fórmulas do artigo. |
+| *De consolatione*; *De causis*; *Ethica*; *Vetus rhetorica*; *Super Genesim ad litteram*; *Contra Faustum*; *De sacramentis*; *Arithmetica*; *De generatione* | *A consolação da filosofia*; *Livro das causas*; *Ética*; *Retórica antiga*; *Sobre o Gênesis ao pé da letra*; *Contra Fausto*; *Sobre os sacramentos*; *Aritmética*; *Sobre a geração* | |
+| Boetius; Tullius; Hugo; Hilarius; Commentator; Philosophus; Avicenna; Empedocles; Plato | Boécio; Túlio; Hugo; Hilário; o Comentador; o Filósofo; Avicena; Empédocles; Platão | |
+| animalia bruta; bruta | animais irracionais; os brutos | g5-c006. |
+| rationes seminales; inchoationes formarum | razões seminais; incoações das formas | g5-c008 [30], g5-c009 [40]. |
+| causa fiendi / causa essendi | causa do vir a ser / causa do ser | g5-c008 [34]. |
+| agens / actum; agere / agi | agente / agido; agir / ser agido | g5-c009 [7], [36]. |
+| virtus (activa, passiva) | virtude (ativa, passiva) | |
+| orbis; quinta essentia | orbe; quinta essência | |
+| lumen | lume (intelectual); luz (do sol, no ar) | g5-c008 [14], [26], [34]. |
+| regimen; gubernatio | governo | |
+| actio animalis | ação anímica | g5-c009 [39]: relativa à alma. |
+| *De Trinitate*; *83 quaestionum*; *Dialogi*; *Physica*; *Metaphysica*; *De substantia orbis*; *De civitate Dei*; *De caelo et mundo*; *De animalibus*; *De somno et vigilia*; *Fons vitae*; *De divinis nominibus* | *Sobre a Trindade*; *Oitenta e três questões*; *Diálogos*; *Física*; *Metafísica*; *Sobre a substância do orbe*; *A cidade de Deus*; *Sobre o céu e o mundo*; *Sobre os animais*; *Sobre o sono e a vigília*; *Fonte da vida*; *Sobre os nomes divinos* | |
+| Damascenus; Gregorius; Hieronymus; Origenes; Glossa; Dionysius; Hugo de Sancto Victore; Rabbi Moyses; Platonici; Mauri | Damasceno; Gregório; Jerônimo; Orígenes; a Glosa; Dionísio; Hugo de São Vítor; Rabi Moisés; os platônicos; os mouros | |
+| complexio | compleição | g5-c010. |
+| phantasma; phantasia; intellectus possibilis | fantasma; fantasia; intelecto possível | g5-c010 [14]. |
+| praedestinatio; reprobatio; reprobi; praesciti | predestinação; reprovação; réprobos; prescitos | g6. |
+| praescientia; praescire | presciência; conhecer de antemão | |
+| electio; dilectio; propositum | eleição; dileção; propósito | g6-c001. |
+| appositio gratiae; collatio auxilii | concessão da graça; outorga do auxílio | g6-c001 [21], [26]. |
+| exitus vel eventus (ordinis) | êxito ou desfecho (da ordem) | g6-c001 [25]. |
+| debitum; liberalitas; simplex voluntas | devido; liberalidade; simples vontade | g6-c002 [22]–[25]. |
+| certitudo cognitionis / ordinis | certeza do conhecimento / da ordem | g6-c003 [19]. |
+| adminicula; adminiculari | amparos; amparar | g6-c003 [22]. |
+| sensus compositus / divisus | (proposição) composta / dividida | g6-c003 [11]. |
+| Sed contra est; Sed contra (na objeção); Sed dicebat quod; Responsio | Mas em sentido contrário está; *Mas em contrário*; Mas dizia-se que; Resposta | |
+| Tullius; Avicenna; Isaac; Anselmus; Porphyrius; Boetius; Ambrosius; Magister | Túlio; Avicena; Isaac; Anselmo; Porfírio; Boécio; Ambrósio; o Mestre | |
+| *Sex principia*; *De diffinitionibus*; *Super Genesim ad litteram*; *De praedestinatione sanctorum*; *Ethica*; *De anima*; *De libero arbitrio*; *Perihermeneias*; *Perigeneseos*; *De consolatione* | *Dos seis princípios*; *Sobre as definições*; *Comentário literal ao Gênesis*; *Sobre a predestinação dos santos*; *Ética*; *Sobre a alma*; *Sobre o livre-arbítrio*; *Sobre a interpretação*; *Sobre a geração*; *A consolação da filosofia* | |
+| numerus numerans / numeratus | número numerante / numerado | g6-c004 [19]. |
+| sententia; consilium (divinum) | sentença; desígnio | g6-c004 [21]; g6-c006 [22]. |
+| praefinitio; praediffinire | predefinição; predefinir | g6-c004 [21]. |
+| incompossibile | incompossível | g6-c004 [24]. |
+| caelum Empyreum | céu empíreo | g6-c004 [18]. |
+| liber vitae; conscriptio; conscribi | livro da vida; inscrição; ser inscrito | g7. |
+| collegium; consortium (multitudinis) | comunidade; comunhão | g7-c001 [23]; g7-c004 [8]. |
+| difformitas / uniformitas | variedade / uniformidade | g7-c001 [12], [13]. |
+| appropriare | apropriar | g7-c003. |
+| supponere pro | supor por | g7-c002 [13]. |
+| per prius / per posterius | por anterioridade / por posterioridade | g7-c005, g7-c007. |
+| verbum vocis / cordis / scripturae | verbo vocal / do coração / escrito | g7-c002 [7]. |
+| in capite libri | na cabeça do livro | Salmo 39:8 (Vulgata); g7-c002, g7-c003, g7-c005. |
+| Glossa interlinearis (Interlinearis) | a Interlinear | g6-c004 [21]. |
+| Contra (na objeção, sem *Sed*); Sed contra (sem *est*); Ad primum ergo dicendum quod; et sic idem quod prius | *Em contrário*; Mas em sentido contrário,; Quanto ao primeiro, portanto, deve-se dizer que; e assim conclui-se o mesmo que antes | |
+| Damascenus; Traianus; Stephanus; Epicurei; Stoici; Dionysius; Philosophus; Gregorius; Augustinus | o Damasceno; Trajano; Estêvão; os epicuristas; os estoicos; Dionísio; o Filósofo; Gregório; Agostinho | |
+| *De correptione et gratia*; *Enchiridion*; *Dialogi*; *Moralia*; *De civitate Dei*; *De divinis nominibus*; *De sensu et sensato*; *Metaphysica*; *De causis* | *Sobre a correção e a graça*; *Enquirídio*; *Diálogos*; *Morais*; *A Cidade de Deus*; *Sobre os nomes divinos*; *Sobre o sentido e o sensível*; *Metafísica*; *Livro das causas* | |
+| Eccli. | Eclesiástico | g7-c001 [11]. |
+| liber mortis | livro da morte | g7-c008. |
+| deleri; deletio; delebiliter / indelebiliter | ser riscado; ato de riscar; de modo que podem ser riscados / indelevelmente | g7-c009, conforme o título do artigo. |
+| scientia simplicis notitiae / approbationis | ciência de simples conhecimento / de aprovação | g7-c008 [7]. |
+| notitia (privilegiata) | conhecimento (privilegiado) | g7-c008. |
+| reprobatio; reprobi | reprovação; réprobos | g7-c008. |
+| secundum praesentem iustitiam | segundo a justiça presente | g7-c009. |
+| simpliciter / secundum quid / absolute | absolutamente / sob certo aspecto / de modo absoluto | g7-c009; *absolute* distinto de *simpliciter* em [13]. |
+| scientia visionis | ciência de visão | g7-c009 [30]. |
+| adscribi ad militiam / civilitatem | ser alistado na milícia / em alguma cidadania | g7-c009 [35]. |
+| Sed dicebat quod | Mas dizia-se que | Objeção que antecipa uma réplica. |
+| videre Deum per essentiam | ver Deus por sua essência | Conforme os títulos de g8. |
+| comprehendere; comprehensio | compreender; compreensão | Sentido técnico de abarcar inteiramente; g8-c002. |
+| quantitas dimensiva / virtualis | quantidade dimensiva / virtual | g8-c002. |
+| virtus (como poder); vis | força | g8-c001, g8-c002. |
+| via; viator; patria | via; viador; pátria | g8-c001 [31]. |
+| convenientia (similitudinis) | conformidade | g8-c001 [24]. |
+| lumen (intellectus) | lume | g8-c002 [16]. |
+| li *tota*; li *sicut* | o termo “toda”; o termo “assim como” | g8-c002 [17], [21]. |
+| passum | paciente | g8-c001 [16], [37]. |
+| Chrysostomus; Ambrosius; Boetius; Commentator; Magister | Crisóstomo; Ambrósio; Boécio; o Comentador; o Mestre | |
+| *Ethica*; *De anima*; *De videndo Deum*; *Sententiae* | *Ética*; *Sobre a alma*; *Sobre a visão de Deus*; *Sentenças* | |
+| Apoc.; Phil.; Act.; Is.; Exodi | Apocalipse; Filipenses; Atos; Isaías; Êxodo | |
+| naturalia; ex (propriis) naturalibus; in puris naturalibus | forças naturais; por suas (próprias) forças naturais; só com as forças puramente naturais | g8-c003, conforme o título do artigo. |
+| gratia gratum faciens / gratis data | graça santificante / graça gratuitamente dada | g8-c003. |
+| lumen gloriae | lume da glória | g8-c003. |
+| intelligere; intelligibile; intellectum; intelligens | inteligir; inteligível; inteligido; o que intelige | Conforme os títulos (g2-c002, g19-c001). |
+| comprehensor | compreensor | g8-c004; nota do tradutor. |
+| phantasma | fantasma | g8-c003; nota do tradutor. |
+| scientia simplicis intelligentiae | ciência de simples inteligência | g8-c004 [30]; distinta de *simplicis notitiae*. |
+| potentia oboedientiae | potência de obediência | g8-c004 [44]; nota do tradutor. |
+| excellens visibile / intelligibile; excellentia intelligibilis | o visível / inteligível excessivo; o excesso do inteligível | g8-c003 [8], [35]. |
+| intentiones | intenções | g8-c004 [36]. |
+| actio / operatio; illuminare / lucere | ação / operação; iluminar / luzir | g8-c006 [20]. |
+| reditio completa | retorno completo | g8-c006 [19]; nota do tradutor. |
+| *Sed contra* (em itálico, réplica dentro das objeções) / Sed contra | *Em sentido contrário* / Em sentido contrário | |
+| Isidorus; Gregorius; Themistius; Avicenna; Isaac; Hieronymus; Benedictus | Isidoro; Gregório; Temístio; Avicena; Isaac; Jerônimo; Bento | |
+| *Super Genesim ad litteram*; *De divinis nominibus*; *Caelestis / Ecclesiastica hierarchia*; *De spiritu et anima*; *De causis* | *Sobre o Gênesis ao pé da letra*; *Sobre os nomes divinos*; *Sobre a hierarquia celeste / eclesiástica*; *Sobre o espírito e a alma*; *Sobre as causas* | |
+| *Dialogi*; *Confessiones*; *De Trinitate*; *Caeli et mundi*; *Physica*; *Metaphysica*; *Super Iohannem* | *Diálogos*; *Confissões*; *Sobre a Trindade*; *Sobre o céu e o mundo*; *Física*; *Metafísica*; *Sobre João* | |
+| Ioh.; Rom.; Eph.; Luc.; Ier.; Psal. | João; Romanos; Efésios; Lucas; Jeremias; Salmo | |
+| species; similitudo; assimilatio | espécie; semelhança; assimilação | g8-c007 a g8-c011. |
+| lumen / lux; divina lumina | lume / luz; lumes divinos | g8-c007 [13], [42]. |
+| illabi (menti) | penetrar (na mente) | g8-c007 [6], [31]. |
+| ratio propria; rationes aeternae; rationes ideales | razão própria; razões eternas; razões ideais | |
+| superexcedens / adaequatum | superexcedente / adequado | g8-c010 [14]; g8-c011 [32]. |
+| quiditas; quod quid est | quididade | g8-c007 [51]; g8-c011 [11]. |
+| habitudo | relação | g8-c007 [50]; g8-c010 [14]. |
+| motor orbis | motor da esfera | g8-c007 [32]; nota do tradutor. |
+| eloquia (sacra) | oráculos (sagrados) | g8-c008 [9]. |
+| nescientia | nesciência | g8-c009 [7]. |
+| conditor naturae | autor da natureza | g8-c009 [15]. |
+| ulna | côvado | g8-c011 [37]. |
+| fallacia consequentis | falácia do consequente | g8-c011 [33]. |
+| Responsio. Dicendum quod; In contrarium est quod | Resposta. Deve-se dizer que; Em sentido contrário, está o que | |
+| Dionysius; Boetius; Origenes; Damascenus; Commentator; Clemens; Cherubim | Dionísio; Boécio; Orígenes; o Damasceno; o Comentador; Clemente; Querubins | |
+| *De intelligentiis*; *Posteriora*; *De consolatione*; *De cura pro mortuis agenda*; *Moralia* | *Sobre as inteligências*; *Segundos analíticos*; *Sobre a consolação*; *Sobre o cuidado devido aos mortos*; *Morais* | |
+| Eph. | Efésios | |
+| contingentia ad utrumlibet; ut in pluribus | contingentes *ad utrumlibet*; na maioria dos casos | g8-c012; nota do tradutor em g8-c012 [8]. |
+| potentia oboedientiae | potência obediencial | g8-c012 [21]. |
+| notitia (habitualis) | notícia (habitual) | g8-c013 [10], [22]; tríade agostiniana mente-notícia. |
+| signaculum; signum | marca; sinal | g8-c013 [9], [21]. |
+| formae concreatae | formas concriadas | g8-c014 [13], [40], [50]. |
+| in fieri; in corrumpi | em vias de se fazer; em vias de se corromper | g8-c014 [27], [37]. |
+| diaphanum | diáfano | g8-c014 [27]; nota do tradutor. |
+| virtus; quantitas virtualis / dimensiva | virtude; quantidade virtual / dimensiva | g8-c014 [24], [48]–[52]. “força” quando se trata da força de uma natureza (g8-c014 [6]). |
+| discurrere; discursus | discorrer; discurso | g8-c015. |
+| collatio; conferre; cognitio collativa | comparação; comparar; conhecimento comparativo | g8-c015. |
+| convolvere; convolutio | enrolar; enrolamento | g8-c015 [7], [20], [22]. |
+| uniformis / difformis; difformitas | uniforme / não uniforme; não uniformidade | g8-c015 [19]–[20]; evita “disforme”. |
+| cognitio matutina / vespertina; vespere et mane | conhecimento matutino / vespertino; tarde e manhã | g8-c016. |
+| medium cognoscendi | meio de conhecer | g8-c016 [19], [28]. |
+| *Super Genesim ad litteram*; *De Trinitate*; *Dialogi*; *Perihermeneias*; *Physica*; *De sacramentis*; *De divinatione daemonum*; *De anima*; *De causis*; *De divinis nominibus*; *Caelestis hierarchia*; *De spiritu et anima*; *Ethica*; *Metaphysica* | *Comentário literal ao Gênesis*; *Sobre a Trindade*; *Diálogos*; *Sobre a interpretação*; *Física*; *Sobre os sacramentos*; *Sobre a adivinhação dos demônios*; *Sobre a alma*; *Sobre as causas*; *Sobre os nomes divinos*; *Hierarquia celeste*; *Sobre o espírito e a alma*; *Ética*; *Metafísica* | “no livro 12 do *Comentário literal ao Gênesis*”, “no livro 1 de *Sobre a interpretação*”. |
+| Hugo de Sancto Victore; Maximus; Algazel; Anselmus; Gregorius | Hugo de São Vítor; Máximo; Algazel; Anselmo; Gregório | |
+| Gen.; Is.; Ier.; Rom.; Psal. | Gênesis; Isaías; Jeremias; Romanos; Salmo | |
+| Sed contra (est quod) | Mas, em sentido contrário(, está o que) | |
+| illuminatio; purgatio; perfectio (illuminare, purgare, perficere) | iluminação; purificação; perfeição (iluminar, purificar, aperfeiçoar) | g9-c001–c003; a tríade dionisiana. |
+| lumen; lux | lume; luz | g9-c001 em diante; “lume da graça”, “lume da natureza”, “lume intelectual”, como no título de g12-c007. |
+| confortare | fortalecer | g9-c001 [24]–[27]. |
+| manuducere; manuductio | conduzir pela mão; guia que conduz pela mão | g9-c001 [24]. |
+| continuatio | continuidade | g9-c001 [25], [29]. |
+| illabi (mentibus) | penetrar (nas mentes) | g9-c001 [6], [29]. |
+| assumptio (divinae scientiae) | recepção (da ciência divina) | g9-c001 [17], [40]; g9-c003 [12], [14]. |
+| locutio; loqui; sermo | locução; falar; palavra | g9-c004–c006. |
+| nutus et signa | acenos e sinais | g9-c004 [14], [35]. |
+| nescientia; ignorantia | nesciência; ignorância | g9-c001 [36]; g9-c003. |
+| terminus a quo / ad quem | termo de partida / termo de chegada | g9-c003. |
+| status viae; patria | estado de viador; pátria | g9-c001 [16], [39]; g9-c004 [3]. |
+| philosophus primus; naturalis | filósofo primeiro; filósofo natural | g9-c001 [28]; nota do tradutor. |
+| situalis; situs | sujeito a posição; posição | g9-c006 [9], [11]. |
+| intellectus agens / possibilis; phantasmata | intelecto agente / possível; fantasmas | g9-c001. |
+| Seraphim | serafim | minúscula. |
+| *Moralia* (Gregório); *Ecclesiastica hierarchia*; *Sententiae* | *Comentário moral a Jó*; *Hierarquia eclesiástica*; *Sentenças* | “no livro 18 do *Comentário moral a Jó*”; “no livro 2 das *Sentenças*, distinção 11”. |
+| Iob; Apoc.; Eph.; Luc.; 1 Cor.; 2 Cor. | Jó; Apocalipse; Efésios; Lucas; 1 Coríntios; 2 Coríntios | |
+| Responsio. Dicendum quod; Ad primum igitur dicendum quod | Resposta. Deve-se dizer que; Quanto ao primeiro, portanto, deve-se dizer que | |
 | conversio (ad alterum); converti | conversão (para o outro); voltar-se | g9-c007 [3], [9]–[11]. |
 | intueri | contemplar | g9-c007 [5], [11]. |
 | fieri in actu alicuius speciei | passar a estar em ato de alguma espécie | g9-c007 [8]. |
 
 ## Decisões
 
+- O en-US traz entre parênteses referências e textos paralelos que não estão no latim; como o latim é a fonte canônica e não os tem, não foram trazidos.
+- Cabeçalho `# Artigo N` como no latim; o sumário (book.json) recebe “Artigo N — pergunta”, traduzida da pergunta do en-US. Onde o título inglês está truncado ou corrompido, segue-se o sentido do artigo: g6-c001 “ao conhecimento ou à vontade”; g12-c007 reconstruído; g28-c005 “em relação ao pecado” (*in peccatum*). Marcas espúrias `<bsc></bsc>` e `<i>` do en-US não passam ao pt-BR.
+- g1-c001 [20]: “algo” (*aliquid*) como que “outro quê” (*aliud quid*), conservando o latim para o jogo etimológico; nota do tradutor [^1].
+- g1-c001 [23]: nota do tradutor [^2] sobre Isaac Israeli e a atribuição da fórmula da adequação.
+- g1-c004 [19]: nota do tradutor [^1] com a referência do Salmo citado pela Glosa (11:2 na Vulgata).
+- g1-c004 [34]: Atos 17:28, *ipsius enim Dei et nos genus sumus* → “pois também nós somos do gênero do próprio Deus”, para manter o termo “gênero” de que depende o argumento.
+- g1-c004 [18]: *in quadam luce sui generis* → “numa certa luz de seu gênero”, literal, porque a objeção se apoia em *generis*.
+- g1-c005 [27]: *risibile* → “capaz de rir” (não “risível”, hoje “ridículo”); nota do tradutor [^1] sobre o “próprio” de Porfírio.
+- g1-c005 [32]: Anselmo dirige-se ao discípulo no singular (*potes*) → “podes”.
+- g1-c002 [17]: *quo est omnia facere / fieri* → “pelo qual é dado fazer / tornar-se todas as coisas”, para conservar o par ativo/passivo.
+- g1-c005 [47]: *non praedicat aliquid sed ad aliquid* → não predica “algo”, mas “para algo”.
+- Referências a livros e capítulos conservadas como o latim as traz, mesmo onde o en-US as corrige (g1-c010 [15] “livro 6 da *Metafísica*”; g10-c001 [17] “livro 2 de *A Trindade*”).
+- g1-c006 [12]: nota do tradutor [^1] sobre o *Livro dos seis princípios* e sua atribuição a Gilberto de la Porrée.
+- g1-c007 [10]: os parênteses do latim, que marcam texto suprido pelo editor, foram mantidos no mesmo lugar.
+- g1-c008: *videtur* / *apparere* → “se vê” / “aparecer”, para manter o fio entre a definição de Agostinho (*verum est quod ita se habet ut videtur*) e as réplicas sobre o mal que “se vê” pela espécie do bem.
+- g1-c008 [6]: nota do tradutor [^1] sobre o *dictum*; [14]: nota [^2] sobre o Ambrosiaster.
+- g1-c011 [12]: a nota editorial inline *(The Marietti edition reads *aestimationem*.)* foi traduzida e mantida no lugar; as duas leituras ficam como “apreciação”. Nota do tradutor [^1] em [3] sobre o “mundo maior”.
+- g1-c012 [5]: nota do tradutor [^1] sobre Algazel; [7]: *intelligere quasi intus legere* conservado em latim, com glosa e nota [^2] sobre a etimologia.
+- g1-pr: os itens do sumário em lista seguem “Em segundo lugar, …”, como as aberturas dos artigos.
+- g10-c001 [18] e [19]: notas do tradutor [^1] e [^2] sobre as etimologias de *mens* (de *meminit* e de *mensurare*), que o português não reproduz.
+- Os textos supridos pelo editor entre parênteses foram mantidos no lugar: g10-c002 [24] “voltando(-se)”, g10-c004 [3] “(2) Coríntios 12:2”, g10-c004 [19] “(n)ela”, g10-c007 [30] “a criatura (racional)”.
+- g10-c002: nota do tradutor [^1] em [11] sobre a citação de Virgílio (*Eneida*, livro 3, Ulisses que não se esquece de si), retomada na resposta ao segundo em contrário; [^2] em [16] sobre o *Liber sextus de naturalibus* de Avicena.
+- g10-c003 [6]: a objeção hipotética (*Si dicatur…*) termina em dois-pontos, porque o *Contra* de [7] a responde.
+- g10-c004 [13]: nota do tradutor [^1] sobre *simitas* / *simus*, exemplo aristotélico retomado em g10-c006 [15].
+- g10-c004 [18]: a comparação elíptica do latim (*sicut forma hominis in statua aurea, quale esse habet…*) foi vertida como “como se vê na forma do homem numa estátua de ouro, comparada com o ser que…”, sem suprir negação.
+- g10-c005 [10]: nota do tradutor [^1] sobre a “célula média da cabeça” (localização ventricular dos sentidos internos).
+- g10-c007: *trinitas* criada (na mente, na ciência inferior) em minúscula, mesmo onde o latim traz maiúscula ([16], [21]), para distingui-la da Trindade incriada. Notas do tradutor [^1] em [20] sobre *vestígio* e [^2] em [23] sobre o *De animalibus* em dezenove livros.
+- g10-c007 [29]: o redundante *quandoque non semper* foi vertido só por “às vezes … não”.
+- Textos supridos pelo editor entre parênteses mantidos no lugar: g10-c008 [17] “(ser)”, [36] “(contemplamo-la)”, [46] “de certo (modo)”; g10-c010 [14] *(an)* → “(se)”, [17] “(é) caridade”.
+- g10-c008 [6]: *Sed dicebat* vertido “Mas dizia-se”, com ponto final (o latim tem ponto); a réplica de [7] abre com “*Mas contra isso*:”.
+- g10-c008 [41]: o *ut* rege as duas orações (*ut materialis reddatur; ac per hoc non sit intelligibilis in actu*): “a ponto de tornar-se material e, por isso, não ser inteligível em ato, mas só em potência”.
+- g10-c009 [23]: segue-se o latim (*prout de eis scimus quid sunt*, “enquanto sabemos deles o que são”), não a tradução inglesa (“that habits exist”).
+- g10-c009 [40]: nota do tradutor [^1] sobre o duplo sentido de *discretio*, sem o qual a resposta ao quarto em contrário perde o fio.
+- g10-c010 [10]: nota do tradutor [^1] identificando a alusão a 1 João 2:27; [21]: nota [^2] sobre *in vi orationis* / *in vi nominis*.
+- *Lippus* (Hugo de São Vítor) vertido “turvo”, em g10-c009 [19] e [42].
+- *In statu viae* vertido sempre “no estado de via”, não “nesta vida”, porque a resposta de g10-c011 [23] e [25] argumenta com a imagem da via (*pertingit ad terminum viae… non est in via*); nota do tradutor [^1] em g10-c011 [2].
+- g10-c011 [24]: nota do tradutor [^2] sobre o dote da agilidade do corpo glorioso; o sujeito implícito de *potest* tornado explícito (“Deus”).
+- Textos supridos pelo editor mantidos entre parênteses: g10-c011 [6] “(foram)”, [27] “(é)”; g10-c012 [16] “(existe, pode)”.
+- g10-c012 [25]: nota do tradutor [^1] identificando “Rabi Moisés” com Maimônides.
+- g10-c013 [8]: nota do tradutor [^1] advertindo que a sentença atribuída a Boécio é de Sêneca (carta 6 a Lucílio); [10]: mantidos os dois trechos em itálico como estão no latim.
+- g10-c013 [4]: traduzido o argumento inteiro do latim (a referência inglesa omite a primeira metade). As respostas de g10-c013 [17]–[26] respondem às objeções (*Ad primum ergo*), não ao *sed contra*, como rotula a referência inglesa.
+- Cabeçalho *Prooemium* vertido “Prólogo”, como no sumário.
+- g11-c001 [27]: nota do tradutor [^1] identificando o “livro 6 *Dos naturais*” com o tratado *Sobre a alma* de Avicena e explicando o “doador das formas”.
+- g11-c003 [32]: nota do tradutor [^1] sobre o duplo sentido de *intentio*/*intendere* (intenção e atenção), de que depende a resposta.
+- g11-c004 [11]: nota do tradutor [^1] sobre o duplo acusativo de *docere*.
+- g11-c003 [21]: *angeli primum docuere* traduzido na voz ativa, como está no latim (“os anjos foram os primeiros a ensinar”); a referência inglesa traz a passiva.
+- g11-c003 [25]: *De bono perseverantiae* vertido pelo título corrente da obra, *O dom da perseverança* (*De dono perseverantiae*).
+- g11-c004 [14]: segue-se o latim (*magis pertinet ad contemplationem quam ad actionem*); a referência inglesa diz o contrário.
+- g11-c003 [8]: a objeção não tem conclusão explícita no latim; mantida assim.
+- g12-c001 [3]: nota do tradutor [^1] sobre a numeração dos livros dos Reis na Vulgata (1–2 Reis = 1–2 Samuel; 3–4 Reis = 1–2 Reis), mantida como no latim.
+- g12-c001 [22]: nota do tradutor [^2] sobre a etimologia medieval de *propheta* (*procul fans*, *phanos*) e a etimologia grega real.
+- g12-c001 [23]: nota do tradutor [^3] sobre *passio* como afecção recebida e passageira.
+- g12-c002 [8]: nota do tradutor [^1] identificando Rabi Moisés com Maimônides.
+- g12-c003 [53]: nota do tradutor [^1] sobre “potência obediencial”.
+- Questão 12: o latim não traz notas de editor; as referências bibliográficas da edição inglesa não são transportadas, por pertencerem a ela e não à fonte.
+- Objeções sem numeração, como no latim; a numeração (“Obj. 1”, “Reply Obj. 1”) é da referência inglesa.
+- g12-c002 [11]: acrescentado “[o Espírito]” entre colchetes como sujeito de *noluit*, implícito no latim, para evitar ambiguidade.
+- g12-c003 [34]: segue-se o latim (*ad omnia necessaria*, “a todas as coisas necessárias”); a referência inglesa omite “todas”.
+- g12-c001 [26]: *ne fiat vis in vocabulo habitus* → “para não disputarmos sobre o vocábulo ‘hábito’”.
+- g12-c005 [11]: Mateus 7:22 vem truncado no latim (*et virtutes etc.*); acrescentado “[não fizemos]” entre colchetes para a frase ter sentido.
+- g12-c006 [12], [39]: os parênteses do editor (*(in)*, *(dicendum)*) foram mantidos.
+- g12-c006 [21]: nota do tradutor [^1] sobre a “outra versão” de Isaías 26:10 (Septuaginta) e a redação da Vulgata.
+- g12-c006 [36]: mantida a ambiguidade de *haec illam praesupponit*, sem a resolver como faz a referência inglesa.
+- g12-c007 [15]: *boum* → “vacas”, como no sonho do Faraó em Gênesis 41.
+- g12-c007 [16] e g12-c008 [9]: mantida a referência “Números 11” do latim, embora a citação esteja em Números 12:6–8.
+- g12-c009 [3]: *uia* lido como *quia*; [14]: *est perfectus* lido como *perfectius*.
+- g12-c009 [10]: nota do tradutor [^1] sobre Montano e o montanismo.
+- Os cabeçalhos dos artigos seguem a fonte latina: “# Artigo N”, sem o título.
+- *Sed dicebat quod* (objeção que retoma uma resposta) → “Mas dizia-se que”.
+- g12-c010 [3], [16], [33], [34]: *Ninive subvertetur* → “Nínive será subvertida”, para manter o jogo entre a subversão material e a “subversão que a arranca dos maus costumes” (sentido moral).
+- g12-c010 [11]: o sujeito de *ponit* (Jerônimo) fica implícito (“ele põe”), como no latim.
+- g12-c010 [34]: em Jonas, *tu clemens et misericors es*, dirigido a Deus → “vós sois”.
+- g12-c010 [12], g12-c011 [11], g12-c013 [16]: mantidos os parênteses do editor *(ponere)*, *(non)*, *(possunt)*, traduzidos: “(pôr)”, “(não)”, “(podem)”.
+- g12-c013 [19]: mantida a referência “(1) Reis 3:4” do latim, na numeração da Vulgata (1 Samuel na numeração atual), com o parêntese do editor.
+- *Deut. ultimo* e *Ionae ultimo* → “no último capítulo do Deuteronômio / de Jonas”, sem acrescentar número de versículo.
+- g12-c014 [19]: 2 Coríntios 3:18 vem truncado no latim; acrescentado “[contemplando]” entre colchetes.
+- Notas do tradutor: g12-c012 [^1] Rabi Moisés (Maimônides); [^2] hagiógrafos e a divisão do cânon hebraico no prólogo de Jerônimo; [^3] Isaac Israeli; [^4] etimologia medieval de “profecia” como “visão de longe”. g12-c013 [^1] os quatro graus das qualidades na medicina galênica.
+- Fórmulas da questão disputada usadas na Questão 13: *Sed contra* → “Em sentido contrário” (em itálico onde a fonte o tem); *Praeterea* → “Além disso”; *Responsio. Dicendum quod* → “Resposta. Deve-se dizer que”; *Ad primum dicendum* → “Quanto ao primeiro, deve-se dizer”.
+- Referências a livros de obras citadas mantêm o algarismo arábico da fonte: “no livro 12 de *Sobre o Gênesis ao pé da letra*”. Em g13-c003 [11] mantido “livro 10”, como no latim.
+- g13-c001 [2]–[3]: mantida a divisão da fonte no meio da frase (o [2] termina em ponto e vírgula; o [3] começa em minúscula).
+- g13-c001 [11] (*Confissões*) e g13-c002 [3] (Salmo, *in lumine tuo*): Deus tratado por “vós”.
+- g13-c002 [16], g13-c003 [16]: mantido o parêntese do editor em “(2) Coríntios”, como em g12-c013 [19].
+- g13-c003 [15]: *in illa specie quae Deus est* → “naquela forma que é Deus”.
+- g13-c003 [20]: *munditia / mundo corde / immundatur / immunditia* → “limpeza / limpos / se torna imundo / imundícia”, para manter a cadeia do argumento.
+- g13-c004 [9]: *per speciem* / *in sua specie* → “pela visão (*per speciem*)” / “na sua forma própria (*in sua specie*)”, com o latim entre parênteses para mostrar o vínculo do argumento.
+- g13-c005 [10]: *Danielis ultimo* → “no último capítulo de Daniel”, com nota.
+- Notas do tradutor: g13-c002 [^1] *raptim* e *raptus*; g13-c003 [^1] São Vicente de Saragoça e Daciano, [^2] a *Sufficientia* de Avicena; g13-c004 [^1] os “espíritos” da fisiologia galênica; g13-c005 [^1] Habacuc em Daniel 14 da Vulgata.
+- Questão 14: “Tertio quaeritur” etc. → “Em terceiro lugar, pergunta-se”; *Sed dicebat quod* (réplica dentro da objeção) → “Mas dizia-se que”; “Et per hoc patet responsio ad primum” → “E por isso fica clara a resposta ao primeiro”.
+- Cabeçalhos dos artigos: “# Articulus 1” → “# Artigo 1”.
+- g14-c002 [20]: *requiritur ad finem duplex principium* → “requer-se, em vista do fim, um duplo princípio”, como está no latim (a versão inglesa lê como se fosse “para a fé”).
+- g14-c002 [17]: *oppositio in obiecto* traduzido literalmente (“oposição no objeto”).
+- g14-c002 [39]: Gregório, *non habent fidem sed agnitionem* → “não são objeto de fé, mas de conhecimento”.
+- g14-c003 [20]: *non in aliquo actu* → “e não em algo feito”, lendo *actu* como particípio (*acto*).
+- Conjecturas do editor entre parênteses mantidas: g14-c003 [31] “(põem)”, g14-c004 [18] “(é preciso)”.
+- Itálicos das citações seguem a fonte: onde o latim repete a definição de Hebreus 11:1 sem itálico (g14-c002 [13], [16], [21], [36]), a tradução também não os usa.
+- Notas do tradutor: g14-c001 [^1] *cogitare / coagitare*, [^2] Isaac Israeli; g14-c002 [^1] *argumentum / arguere / convictio*; g14-c004 [^1] a citação atribuída à carta *A Consêncio* está na carta 98, a Bonifácio.
+- *Sed contra* → “Em sentido contrário” (em itálico quando a fonte o tem); *Sed contra est quod* → “Em sentido contrário está o que”; *Praeterea* → “Além disso”; *Responsio. Dicendum quod* → “Resposta. Deve-se dizer que”.
+- Citações de obras por livro: “in 2 *De anima*” → “no livro II de *Sobre a alma*”; “in 6 *Ethicorum*” → “no livro VI da *Ética*”; “7 cap. *De divinis nominibus*” → “no capítulo 7 de *Sobre os nomes divinos*”; “1 dist. 2 *Sententiarum*” → “no livro I, distinção 2, das *Sentenças*”, como está na fonte.
+- “Marci ultimo” → “Marcos, último capítulo”, sem acrescentar versículo que a fonte não dá; o mesmo para citações sem referência (g14-c009 [19], [24]).
+- Conjecturas do editor entre parênteses mantidas: g14-c005 [9] “(como)”, [33] “(fala)”; g14-c008 [26] “(é)”; g14-c010 [19] “(é)”.
+- g14-c005 [13]: *non erit caritas forma fidei sed actus fidei* → “não será forma da fé, mas do ato da fé” (a versão inglesa lê “será o seu ato”).
+- g14-c008 [18]: *Deum passum vel mortuum* → “que Deus padeceu ou morreu”, coerente com a resposta [39] (“Deus padeceu”).
+- g14-c009 [21]: *quasi aequivoce* → “quase equivocamente”, conservando o “quase” omitido pela versão inglesa.
+- g14-c008 [7], [28]: *lumen* → “lume”, *lux* → “luz”, conforme a distinção já fixada.
+- Notas do tradutor: g14-c005 [^1] os dotes da glória, [^2] a forma de Habacuque 2:4 citada segundo Hebreus 10:38; g14-c007 [^1] a tríade *credere Deo / Deum / in Deum*; g14-c008 [^1] complexo e incomplexo; g14-c010 [^1] Rabi Moisés (Maimônides), [^2] a incomensurabilidade da diagonal.
+- Cabeçalhos: *Articulus n* → “Artigo n”; *Prooemium* → “Prólogo”; *Undecimo quaeritur* → “Em undécimo lugar, pergunta-se”; na lista do prólogo, *Secundo…* → “Segundo, …”.
+- *Ad primum in contrarium* → “Quanto ao primeiro argumento em sentido contrário”.
+- g15-c001: *ratio* no sentido de noção formal → “noção” ([12], [26], [37]); no de argumento → “argumento” ([40], [44]); *pari ratione* → “pelo mesmo motivo”. Assim “razão” fica reservada à potência.
+- g15-c001 [34]: *hoc in humidum illud autem in siccum* → “o primeiro ao úmido e o segundo ao seco” (receber ao úmido, reter ao seco).
+- g15-c001 [40]: *nosse* e *cognoscere* mantidos entre parênteses, por ser a distinção de Agostinho; *de eodem … loquuntur* traduzido como está na fonte (“falam do mesmo”).
+- g15-c001 [19]: o itálico da fonte, que une a citação de Efésios à de Agostinho, dividido em dois trechos.
+- g14-c011 [17]: *in anteriora* → “às que estão adiante” (a versão inglesa lê “prior principles”).
+- Conjecturas do editor mantidas: g14-c011 [2] “(se)”; g14-c012 [8] “(seja)”; g15-c001 [9] “(se diz)”.
+- g14-c012 [8]: *credo Resurrectionem* → “creio a Ressurreição”, com objeto direto, coerente com “crer Deus”.
+- Notas do tradutor: g14-c011 [^1] implícito e explícito, de *plicare*; [^2] os oráculos sibilinos; g15-c001 [^1] *intelligere* como *intus legere*; [^2] Isaac Israeli.
+- Remissões a obras: livro em algarismos romanos, capítulo em arábicos, com artigo antes do título (“no livro XII do *Sobre a Trindade*”, “no livro IX da *Metafísica*”, “no capítulo 4 do *Sobre os nomes divinos*”).
+- *Sed contra* → “Mas, em sentido contrário,”; *Responsio* → “Resposta.”; *ratio non sequitur* → “o argumento não procede”; *ratione supradicta* → “pelo motivo acima dito”. Locuções com “em razão de” evitadas, para reservar “razão” à potência.
+- *ratio* + genitivo (*ratio obiecti*, *ratio peccati mortalis*, *rationem principii tenet*) → “noção”, conforme a decisão de g15-c001. g15-c002 [24]: *rationem et quasi exemplar operandi* → “a noção e como que o exemplar do agir”.
+- g15-c002 [24]: *intellectus* no sentido de ato → “intelecção”.
+- g15-c002 [36]: *fortitudo et debilitas* → “firmeza e debilidade”, para não confundir com “força” (*vis*, *virtus*).
+- g15-c002 [31]: *non autem in parte sensitiva* → “ainda que não na parte sensitiva”, conforme o sentido concessivo do argumento.
+- g15-c002 [23]: *quo est omnia facere et quo est omnia fieri* → “aquilo com que se fazem todas as coisas e aquilo com que se vem a ser todas as coisas”.
+- g15-c003 [16]: *in propria collatione* → “em seu próprio ato de conferir”.
+- g15-c004 [15]: *moraliter peccare* da fonte lido como *mortaliter* (erro evidente) → “pecar mortalmente”.
+- g15-c004 [16]: a citação do Apóstolo (1 Coríntios 7:4) vai sem referência, como na fonte.
+- g15-c004 [20]: *a mora temporis* → “pela *mora*, isto é, pela demora no tempo”, para manter a etimologia à vista.
+- Conjecturas do editor mantidas: g15-c002 [23] “(a vontade)”, [24] “(e a inferior)”, [35] “(haja)”; g15-c003 [7] “(diz)”, [17] “(deve-se dizer que,)”; g15-c004 [3] “(se deve)”.
+- Notas do tradutor: g15-c002 [^1] ciência subalternante e subalternada; g15-c004 [^1] *delectatio morosa*, de *mora*; [^2] Santa Luzia.
+- g16-c001 [18]: *Probatio mediae* → “*Prova da menor*” (a proposição provada é a menor do argumento).
+- g16-c001 [38] e g17-c002 [15]: *omne totum maius est sua parte* → “qualquer todo é maior que a sua parte”, para distinguir de *hoc totum* (“este todo”).
+- g16-c001 [42]: *intellectus in possibilis* da fonte lido como *intellectus possibilis* → “intelecto possível”.
+- g16-c002 [5]: “Jeremias 3” mantido como na fonte; nota do tradutor indica Jeremias 2:16. A citação do Salmo vai sem número, como na fonte; o mesmo em g16-c003 [3] e [10].
+- g16-c003 [8]: *Is., ult.* → “em Isaías, no último capítulo”.
+- g16-c003 [10]: no Salmo, *vultus tui, Domine* → “do vosso rosto, Senhor” (*vós* na invocação a Deus).
+- g17-c001 [26]: conjectura do editor “(dicit)” mantida como “(diz)”.
+- g17-c001 [29]: *sicut nomina dicuntur significare intellectus* → “os nomes significam os *intellectus*, isto é, as coisas inteligidas”, porque o jogo depende do vocábulo latino.
+- g17-c001 [31]: *fierit* da fonte lido como *fieret*; *hoc non est factum de conscientia mea* → “não tenho consciência de que isto tenha sido feito”.
+- g17-c002 [6]: o itálico partido da fonte (“l*ex intellectus nostri*”) corrigido para a citação inteira em itálico.
+- g17-c002 [23]: a citação de Provérbios 10:28 vai sem referência, como na fonte.
+- Notas do tradutor: g16-c001 [^1] origem do termo *synderesis* em Jerônimo e os quatro rostos de Ezequiel 1; [^2] *fomes*; g16-c002 [^1] Jeremias 2:16 e Mênfis.
+- g17-c003 [6]–[11]: onde a metáfora de “atar” está em jogo, *ligare*/*ligatio* → “ligar”/“ligação” (com *solvere* → “desligar”); nos demais lugares, “obrigar”, conforme a entrada anterior. *In vi praecepti* → “por força do preceito”.
+- g17-c003 [6] e [15], g17-c005 [10]: *absolvere* → “absolver”.
+- g17-c004 [28]: *sub specie divini praecepti vel alicuius praelati tantum* → “somente sob a espécie de preceito divino ou de algum prelado”.
+- g17-c005 e g17-pr: *praelatus* → “prelado” no texto, para distinguir de *superior* (cf. [5]); o título do artigo em book.json mantém “superior”.
+- g17-c005 [8]: *legem naturae inditi* lido como *inditae* → “lei inscrita na natureza”.
+- g18-c001 [3] e [8], g18-c003 [8]: “4 *Sententiarum* 1 dist.” → livro 4, distinção 1; “1 dist. 2 *Sententiarum*” → distinção 1 do livro 2.
+- g18-c001 [26]: no Salmo, *in lumine tuo* → “na vossa luz” (*vós* na invocação a Deus); citação sem número, como na fonte; o mesmo em g18-c003 [10] e g17-c005 [3].
+- g18-c002 [8]: “livro 8 do *Comentário literal ao Gênesis*” mantido como na fonte (a passagem está no livro 11).
+- g18-c002 [21]: *suae naturae* → “da sua natureza”, mantendo a ambiguidade do latim.
+- Notas do tradutor: g17-c003 [^1] eco de Juvenal (*se iudice nemo nocens absolvitur*); [^2] *ligare*/*obligare*; g18-c001 [^1] *ékstasis* dos Setenta em Gênesis 2:21; [^2] *viator*/*comprehensor*; [^3] *specularis*; g18-c002 [^1] *collativa sive venativa*.
+- g18-c004 [10]: *Probatio mediae* → “Prova da premissa do meio”, sem reduzir a “menor”.
+- g18-c004 [22]: a fonte latina cita Gênesis 2:19 (a inglesa, 2:20); mantido 2:19.
+- g18-c004 [41]: *ratione cuius … sibi debebatur* → “razão pela qual a Adão era devida”, nomeando Adão para desfazer a ambiguidade com Cristo.
+- g18-c005 [23] *(quod)* e g18-c006 [33] *(fuit)*: os suplementos do editor ficam entre parênteses, como “(que)” e “(foi)”.
+- g18-c006 [19] e [27]: *approbare vera pro falsis* / *falsa pro veris* → “aprovar o falso como verdadeiro” nos dois lugares, pelo sentido que o artigo exige.
+- g18-c006 [28]: *ac si ipsa opinio falsa sit quidam malus actus* → “sendo a própria opinião falsa como que um ato mau do intelecto”.
+- g18-c006 [34]: *error peccatum sequeretur* traduzido como “o erro seguiria o pecado”, conforme o latim (a inglesa diz “error and sin would follow”).
+- Notas do tradutor: g18-c004 [^1] *Liber sextus de naturalibus* de Avicena; [^2] *Livro das causas*; g18-c005 [^1] Avempace, Temístio e Alexandre de Afrodísias; g18-c007 [^1] *compares stellas* e o *Timeu*.
+- Títulos dos artigos: o `# Articulus N` do latim leva o título português do toc (`# Artigo N — …`); o prólogo fica `# Prólogo`, pois o subtítulo vem no parágrafo seguinte.
+- g2-c001 [17]: a fonte latina traz “Rom. 1:33”, erro evidente (Romanos 1 tem 32 versículos); corrigido para Romanos 11:33, como na inglesa.
+- g19-c001 [6]: a nota inline do editor sobre o artigo *li* foi mantida no mesmo lugar e traduzida; o latim *li amplius* fica em itálico, seguido de “o ‘mais’”.
+- g19-c001 [43]: *ut li de denotet principium efficiens* → “a partícula *de* denota o princípio eficiente”, coerente com “a partir de si mesma” (*de semet ipsa*).
+- Suplementos do editor entre parênteses mantidos: g19-c001 [29] “(os fantasmas)”, g19-c002 [3] “(gênero)”, [9] “(contrário)”, [11] “(segundo)”, g2-c001 [25] “(coisa)”, [33] “(dela)”.
+- g18-c008 [12]: *scalpendum* → “coçar”.
+- g2-c001 [17]: *O altitudo* → “Ó profundidade”, sentido de *altitudo* no contexto.
+- Notas do tradutor: g18-c008 [^1] os *phrenetici*; g19-c001 [^1] as duas faces da alma; [^2] o *De spiritu et anima* e sua atribuição; g2-c001 [^1] a diagonal incomensurável com o lado.
+- *li* + palavra (*li finite*, *li plus*, *li aliter*, *li secundum quod*, *li indistincte*): traduzido como “o termo *X*”, com a palavra portuguesa em itálico, porque o argumento recai sobre o termo traduzido. O caso de g19-c001 [6], que manteve o latim, era uma nota do editor.
+- g2-c002 [2]–[3]: *cognoscat vel sciat* → “conhece ou tem ciência de si mesmo”. O título do toc (“conhece ou intelige”) foi mantido no cabeçalho, conforme a decisão sobre títulos.
+- g2-c002 [9]: *Probatio mediae* → “Prova da premissa menor”.
+- g2-c002 [29]: *si fiat vis in verbo* → “se se insiste no rigor da palavra”.
+- g2-c003 [20]: Eclesiástico 34:2 traduzido conforme a forma citada (*sequitur aestum* → “persegue o calor”), sem ajustar à Vulgata.
+- Suplementos do editor mantidos: g2-c003 [10] “(é)”, [26] “(logo,)”, [45] “(da coisa)”; g2-c004 [10] “(desta)”, [16] “(senão)”.
+- Notas do tradutor: g2-c003 [^1] Trismegisto e Alano de Lille; [^2] fruir e usar em Agostinho; [^3] Rabi Moisés = Maimônides; g2-c004 [^1] a cor como terminação do diáfano.
+- g2-c005 [32]: *astrologus* → “astrônomo”, porque o exemplo é o cálculo de eclipses; “eclipse” no masculino, como no uso brasileiro.
+- g2-c006 [12]: *intellectus naturalis* / *mathematicus* → “o intelecto do físico” / “o intelecto do matemático”.
+- g2-c010 [6], [7], [13]: *fieri* → “vir a ser”, conforme a tabela, mesmo na definição de Sêneca.
+- g2-c010 [9]: *secundum mediam opinionem* → “conforme a opinião intermédia” (a de Algazel), seguindo o latim e não a referência inglesa.
+- g2-c009 [19]: mantida a atribuição do latim (“livro 15 de *Da cidade de Deus*”), com nota indicando o lugar real.
+- Suplementos do editor mantidos: g2-c009 [16] “(o intelecto divino)”; g2-c010 [4] “(Deus)”, [7] “(o mesmo)”, [8] “(e)”.
+- Notas do tradutor: g2-c005 [^1] Algazel (al-Ghazali), [^2] Empédocles e o Ódio; g2-c006 [^1] *phantasma*; g2-c009 [^1] o argumento contra os acadêmicos está em *Da Trindade* 15, 12; g2-c010 [^1] *dies et agon* em Aristóteles.
+- g2-c012 [12], [34]: *hoc (esse/est) scitum a Deo* tomado como pretérito (“isto foi sabido por Deus”), porque o argumento o trata como dito acerca do passado; *omne scitum a Deo* segue “tudo o que é sabido por Deus”.
+- g2-c012 [27]: *in aeternitatis specula* → “na atalaia da eternidade” (*specula*, atalaia), e não “espelho” como na referência inglesa.
+- g2-c012 [13]: a nota editorial inglesa sobre a divisão da Leonina foi traduzida e mantida no lugar.
+- g2-c012 [37]: *intelligo* na 1ª pessoa → “entendo”, para evitar “intelijo”; a 3ª pessoa segue “intelige”.
+- g2-c012 [34]: *futurum esse / fuisse futurum* mantidos como “ser futuro / ter sido futuro”, para preservar o argumento.
+- g2-c015: *mala* → “os males”; *malum* → “o mal”.
+- Escritura: Isaías 40:18, Gênesis 1:26, Tiago 1:17 com o nome por extenso; *in Psal.* sem número → “no Salmo”, sem acrescentar referência; tratamento “vós” na apóstrofe a Deus (g2-c011 [17]).
+- Títulos dos artigos: “# Artigo N”; a linha do *quaeritur* em negrito e itálico: “Em undécimo lugar, pergunta-se se…”.
+- Notas do tradutor: g2-c011 [^1] o nome “cão” (exemplo de Boécio), [^2] o Comentador (Averróis); g2-c012 [^1] *providentia* e *specula* em Boécio, [^2] *de dicto* / *de re*.
+- Q. 20: o *Sed contra* principal → “Em sentido contrário, está…” / “Em sentido contrário,”; o de dentro da objeção segue “*Mas, em sentido contrário*”. *Ratio non sequitur* → “o argumento não conclui”; *non procedit* → “não procede”.
+- Q. 20: os suplementos editoriais entre parênteses do texto latino (*posuerunt*, *sua*, *intellectus*, *anima Christi*, *quantum*, *dicendum*, *unde non procedit*) foram mantidos entre parênteses, traduzidos.
+- g20-c003 [9]: a citação de Agostinho a Deus em “vós”.
+- Notas do tradutor: g20-c001 [^1] visão especular / da espécie, [^2] Eunômio e Apolinário; g20-c002 [^1] os escólios atribuídos a Máximo; g20-c003 [^1] a passagem das *Confissões* está no livro 5, não no 4, [^2] compreensor / viador; g20-c005 [^1] a frase de *Sobre a Trindade* está no livro 15, não no 14.
+- Q. 21: *Sed dicebat quod* / *Ipse dicebat quod* (réplica antecipada dentro da objeção) → “Mas dizia-se que” / “Dizia-se que”.
+- g21-c001 [18]: *Probatio mediae* → “*Prova da premissa menor*”.
+- g21-c001 [6]: *ad aliquid* → “o relativo (*ad aliquid*)”, com o latim entre parênteses, por ser o nome técnico do predicamento.
+- g21-c002 [10]: *sapientia et iusta* lido como neutro plural de *sapiens* → “sábias e justas”.
+- g21-c003 [10]: o suplemento editorial *(est)* foi mantido como “(foi)”.
+- g21-c004 [36]: *pannus ab ulna* → “o pano pelo côvado” (a *ulna* era medida de comprimento).
+- Notas do tradutor: g21-c002 [^1] o mundo supralunar incorruptível (Avicena); g21-c004 [^1] Davi de Dinant e os seguidores de Amalrico de Bena, [^2] os porretanos (Gilberto Porretano).
+- Tratamento nas citações bíblicas: Sabedoria 11:21 e Salmo 73:23, dirigidos a Deus, em *vós*; Jó 21:14 (*recede a nobis*, fala dos ímpios) em *tu*: “Retira-te de nós”.
+- g21-c006 [6]: o suplemento editorial *(ut)* foi mantido como “(como)”; g21-c006 [17] *(ad)* como “(a)”.
+- g21-c006 [13]: segue-se o latim (*non est in numero…*), e não a referência inglesa, que inverte o sentido.
+- g22-c001 [23]: omitido o `**` solto no fim do parágrafo da fonte, resto de marcação sem par.
+- g22-c001 [32]: *cuius obiectum est quid* → “cujo objeto é o ‘que é’ (*quid*)”.
+- g22-c004 [10]: *non agunt, sed magis aguntur* → “não agem, mas antes são levados a agir”.
+- g22-c005 [9]: *in 25 dist. 1 libri* mantido como “distinção 25 do livro 1”, como na fonte.
+- Notas do tradutor: g21-c006 [^1] o *modus sine modo* de São Bernardo, [^2] *speciosa*/*species*; g22-c001 [^1] *appetere* = *ad* + *petere*; g22-c004 [^1] a imagem das esferas celestes; g22-c005 [^1] o Mestre, Pedro Lombardo.
+- g22-c006 [21]: *aliquam speciem boni* → “alguma aparência de bem” (*species* no sentido de aparência).
+- g22-c009 [9]: *compelle intrare* traduzido sem complemento, como na fonte: “compele a entrar”.
+- g22-c010 [10]: *quae, dico, accidat obiecto* → “digo, que seja acidental ao objeto”.
+- g22-c011 [4]: *Ipse dicebat* traduzido literalmente (“Ele dizia”), embora o texto pareça corrompido.
+- g22-c011 [7]: *Probatio mediae* → “*Prova da premissa média*”.
+- g22-c011 [18]: *liberum sui* → “livre em si mesmo”.
+- Suplementos editoriais entre parênteses mantidos: g22-c009 [3] “(sim)”; g22-c010 [7] “(seja)”, [8] “(está)”, [12] “(aquilo em)” e “(sobre)”; g22-c011 [13] “(mais nobre)”, [21] “(quanto)”.
+- Notas do tradutor: g22-c008 [^1] Túlio = Cícero e o *honestum*; g22-c009 [^1] as inteligências e almas celestes em Avicena; g22-c011 [^1] o *Liber de causis* e sua dependência de Proclo.
+- g22-c013 [16]: a série de correspondências vertida com o verbo repetido (“o desprezo é da irascível, a desordem da vontade é da concupiscível”) para desfazer a ambiguidade do latim.
+- g22-c013 [46]: suplemento editorial “(para o fim)” mantido entre parênteses.
+- g22-c014 [16]: *propter quid* → o “para quê”, a circunstância do fim.
+- g22-c015 [7]: *praeoptare… optare* → “optar por uma de preferência à outra… optar”, para conservar o termo que o argumento retoma.
+- g23-c001 [16]: *indistantia* → “não há distância entre…”, sem o neologismo.
+- g23-c001 [19]–[20]: *cognoscibilia* / *cognoscibilibus* traduzidos literalmente (“cognoscíveis”), embora o sentido pareça ser “cognoscentes”.
+- g23-c001 [29]: *Deest solutio ad quintum* → *Falta a solução ao quinto*, em itálico como na fonte.
+- g23-c003 [13]: *omnia potens et omnia sciens… omnia volens* → “possa todas as coisas e saiba todas as coisas… quer todas as coisas”, para manter o paralelismo.
+- g23-c003 [20]: parênteses da fonte mantidos.
+- Notas do tradutor: g22-c013 [^1] etimologia de *intentio* (*in-tendere*); g22-c013 [^2] o primeiro móvel; g23-c001 [^1] *causa sui* em Aristóteles (*Metafísica* 1, 2); g23-c001 [^2] a arca do artífice, exemplo de Santo Agostinho (*Tratados sobre o Evangelho de São João*, 1, 17), e a passagem sem transição ao exemplo da casa.
+- g23-c006 [3]: *quod vis* (Anselmo, em oração a Deus) → “aquilo que quereis”, tratamento reverente.
+- g23-c007 [5]: *semper obliget, non tamen obligat ad semper* → “obrigue sempre, não obriga para sempre”.
+- g23-c008 [6]: *Pater, si fieri potest* → “Pai, se pode ser”, segundo a letra da fonte.
+- g23-c007 [24]: *propter quid* → o “para quê”, como em g22-c014.
+- Notas do tradutor: g23-c006 [^1] a frase de Anselmo está no *Proslógio*, cap. 11, não no *Monológio*; g23-c006 [^2] a máxima de Ulpiano (*Digesto* 1, 4, 1; *Instituições* 1, 2, 6); g23-c007 [^1] relação de equiparância e de disquiparância; g23-c008 [^1] a sentença atribuída a Túlio é de Salústio (*Catilina*, 20).
+- g24-c002 [10]: a referência *Ion. 3:7* mantém-se como na fonte; nota do tradutor [^1] indica Jonas 4:7 e a leitura da antiga versão latina (“ordenou”) frente à Vulgata (*paravit*).
+- g24-c005 [8]: *in scientiae nube* traduzido “na nuvem da ignorância”, segundo a leitura de Boécio (*inscitiae*); nota do tradutor [^1].
+- g24-c004 [22]: *tolle* (imperativo singular) → “tira”, tratamento por tu.
+- Notas do tradutor: g24-c001 [^1] *arbitrium* como juízo; g24-c001 [^2] o “Gregório de Nissa” de *Sobre a natureza do homem* é Nemésio de Emesa (vale para toda a questão 24); g24-c004 [^1] etimologia de *facultas*; g24-c002 [^1] Jonas 4:7; g24-c005 [^1] leitura *inscitiae*.
+- g24-c006 [13]: *bonum et utile, quod proprie eligitur* traduzido “o bem útil”, pelo verbo no singular e pelo paralelo com o bem deleitável e o honesto.
+- g24-c007 [5]: *meliu* lido *melius* (“o melhor”); g24-c007 [19]: *generalibus* lido *generabilibus* (“geráveis”).
+- g24-c008 [17]: *percipiendo naturam* lido *perficiendo* (“aperfeiçoando”).
+- g24-c010 [19]: o Salmo citado (*lex oris tui*) dirige-se a Deus; tratamento por vós (“de vossa boca”).
+- Notas do tradutor: g24-c006 [^1] caso oblíquo; g24-c009 [^1] viador e compreensor; g24-c010 [^1] o *De fide ad Petrum* é de Fulgêncio de Ruspe; g24-c010 [^2] Túlio é Cícero, definição de virtude do *De inventione*.
+- g24-c011 [18]: *edeo* lido *adeo*.
+- g24-c012 [17]: mantida a referência da fonte, 1 João 1:4, embora a citação seja de 1 João 5:4.
+- g24-c012 [55]: *Deest solutio ad decimum* traduzido literalmente (“Falta a solução do décimo”). A referência inglesa supre uma resposta que o latim não traz.
+- g24-c012 [58]: *non potest contingere quin diu maneat* traduzido pelo sentido exigido pelo argumento (“não pode acontecer que permaneça por muito tempo sem nada fazer segundo o hábito”).
+- g24-c013 [9]: o verbo ausente em *quam cito ei aliquid sub ratione peccati mortalis* suprido como “se lhe apresenta”.
+- g24-c014 [14]: o *sine* de *nisi sine gratia Dei suum velle addiderit* tratado como erro de cópia (“a não ser que acrescente ao seu querer a graça de Deus”).
+- Salmos e Lamentações dirigidos a Deus (g24-c012 [9], g24-c015 [9], [10], [13], [14]) e a oração dominical citada em g24-c012 [24]: tratamento por vós.
+- Notas do tradutor: g24-c012 [^1], a frase atribuída a Jerônimo provém da profissão de fé de Pelágio; g24-c012 [^2], quem foi Joviniano; g24-c012 [^3], o fômite; g24-c012 [^4], *gratia gratum faciens* e *gratia gratis data*; g24-c014 [^1], o *Livro das causas* e Proclo.
+- g25-c002 [22] e g25-c006 [8]: mantidas as referências do latim (livros 2 e 8 da *Ética*), embora a passagem esteja no livro 7. g25-c002 [21]: mantido “livro 8 *Sobre os animais*”, embora se trate da *História dos animais*.
+- g25-c004 [5]: o “ibidem” (Romanos 7:23) foi mantido como “no mesmo lugar”, sem acrescentar o versículo.
+- g25-c005 [4]: *Deest argumentum* traduzido literalmente (“*Falta o argumento.*”), como em g24-c012 [55]. A resposta ao segundo, em [22], foi traduzida normalmente, embora responda à objeção que falta.
+- g25-c005 [15]: mantido o “(não)” inserido pelo editor.
+- Notas do tradutor: g25-c001 [^1], razão de sabedoria e razão de ciência em Agostinho; g25-c002 [^1], o *De anima* atribuído a Gregório de Nissa é de Nemésio; g25-c002 [^2], autoria do *Sobre o espírito e a alma*; g25-c005 [^1], consentimento interpretativo; g25-c006 [^1], o cinto de Afrodite no canto 14 da *Ilíada*.
+- g26-c001 [9], [11], [25], [38], [39]: o itálico da fonte junta o título da obra e a citação; separei os dois. Em [23], o título de Boécio foi posto todo em itálico.
+- g26-c001 [21]: o latim traz *voluntarius et resistens*, que contradiz o argumento; traduzido segundo o sentido evidente (*involuntarius*): “quem não quer e resiste”.
+- g26-c001 [42]: mantido o “(modos)” suprido pelo editor. [61]: mantido o “(não)”, como em g25-c005 [15].
+- g26-c003 [3]: o latim cita “o Salmo” sem número; não acrescentei a referência.
+- g26-c003 [45]: mantido “livro 7 da *Ética*”, embora a passagem esteja no livro 7 da *Física*.
+- g26-c003 [25]: *passio non est in qualibet parte animae* traduzido literalmente (“não está numa parte qualquer da alma”), sem corrigir o texto.
+- Notas do tradutor: g26-c001 [^1], o grego *patin* (παθεῖν); g26-c001 [^2], Algazel; g26-c002 [^1], sentido de “paixão animal”; g26-c003 [^1], Hieroteu e o *mathṓn/pathṓn* de Dionísio.
+- g26-c004 [25]: *ad distinguendas animae potentias* traduzido literalmente (“as potências da alma”), embora o sentido seja o das paixões.
+- g26-c004 [28]: mantidos em latim *laetitia* e *latitia*, por causa do jogo etimológico.
+- g26-c005 [3]: no verso de Virgílio, *dolent* traduzido por “se afligem”.
+- g26-c006 [13]: o latim cita “o Salmo” sem número; não acrescentei a referência, como em g26-c003 [3].
+- g26-c006 [15], [44]: *violari*, *corruptio* e *corrumpi* traduzidos por “ser violada” e “violação”.
+- g26-c006 [35]: Romanos 8:17, *compatimur… simul glorificemur*, traduzido por “padecemos juntamente… juntamente sejamos glorificados”, sem acrescentar “com ele”.
+- g26-c006 [51]: mantido “méritos” (*merita*), sem corrigir para “deméritos”.
+- g26-c007 [14], [22]: mantidos os suplementos do editor “(louvor)” e “(os nomes das paixões)”.
+- g26-c007 [13]: o itálico da fonte junta o título da obra e a citação; separei os dois, como em g26-c001.
+- Notas do tradutor: g26-c004 [^1], *acídia* e *achos*; [^2], *laetitia*/*latitia*; [^3], *exsultatio*/*exsilire*; g26-c006 [^1], a auréola; [^2], a *nêmesis* aristotélica; g26-c007 [^1], as virtudes do ânimo purgado em Macróbio; [^2], a *Sufficientia* de Avicena.
+- g26-c008 [26]: mantido “incontinentes” (*incontinentibus*), sem corrigir para “continentes”, embora o sentido de Aristóteles peça este.
+- g26-c008 [14]: Marcos 14:33, *pavere et taedere*, traduzido por “ter pavor, angustiar-se”.
+- g26-c010 [34], [40]: mantidos os suplementos do editor “(pela sede)” e “(por)”.
+- g27-c001 [20]: em Sabedoria 11:25 e Isaías 64:4, Deus é tratado por *vós*. Em Romanos 6:23 suprida a cópula “é”, que o latim omite.
+- g27-c001 [18]: as fórmulas *facio tibi hanc gratiam* e *iste habet gratiam regis* postas entre aspas.
+- Notas do tradutor: g26-c008 [^1], *propassio* em São Jerônimo; [^2], a anedota do estoico em Aulo Gélio; g26-c010 [^1], o *Liber sex principiorum*; g27-c001 [^1], *gratia gratum faciens* / *gratia gratis data*.
+- g27-c003 [50]: o latim do espelho traz *inter esse divinum et esse simpliciter*; traduzido “o não ser absolutamente”, como pede o paralelo de [51] e a tradução inglesa (omissão evidente de *non*).
+- g27-c003 [16] e g27-c004 [39]: mantidas as referências da fonte (Romanos 3:23; Romanos 3:24), embora os textos citados estejam em Romanos 3:22 e 5:9.
+- g27-c004 [25]: *naturalibus sacramentis* traduzido “ao que os sacramentos têm por natureza”.
+- g27-c004 [43]: a dupla negação *non instrumentaliter agentibus non attribuitur* lida como uma só negação.
+- g27-c004 [27]: *in ad aliquid est motus per accidens* traduzido “no gênero da relação, o movimento é por acidente”.
+- Notas do tradutor: g27-c002 [^1], o *De dono perseverantiae* citado como livro 2 do *De praedestinatione sanctorum*; g27-c003 [^1], *illabi* e Genádio; g27-c004 [^1], o denário de chumbo; [^2], o ser intencional.
+- g27-c005 [29]: *Sic autem gratia non est una, sed sicut unus habitus simplex* lido como “a graça não é una desse modo [como soma de virtudes], e sim como um só hábito simples”, contra a leitura da tradução inglesa.
+- g27-c005 [15]: *magnificentia* = magnificência (a tradução inglesa traz por engano “magnanimity”).
+- g27-c006 [11]: repete-se a atribuição do *De dono perseverantiae* ao livro 2 do *De praedestinatione sanctorum*; a nota de g27-c002 [^1] já a explica, sem nova nota.
+- g27-c006 [19]: *forma secundum esse spirituale* traduzido literalmente (“a forma segundo o ser espiritual”).
+- g27-c007 [14]: *sicut e converso* = “ao passo que o inverso é possível” (o corpóreo pode ser instrumento do espiritual), contra a tradução inglesa. [15]: *dispositionibus* = “em disposições”.
+- Vós nas apóstrofes a Deus (Salmo 4:7; Salmo 5:7; Salmo 30:2; Anselmo no *Proslógio*); tu em 2 Coríntios 12:9 e em Eclesiástico 21:1.
+- g28-c001 [28]: a citação *omnes viae Domini sunt misericordia et veritas* fica sem referência, como na fonte.
+- g28-c002 [28]: traduzido o latim (*ad quam nos dirigit*; *et hoc est gratia*), que difere da tradução inglesa.
+- g28-c002 [40]: *Et sic in circumcisione aliqua dabatur gratia* lido como *Et si*. Erros de digitação do espelho corrigidos tacitamente: g28-c002 [11] *ab ab*, [22] *himini*, g27-c005 [48] *decimun*.
+- Notas do tradutor: g27-c005 [^1], *gratia gratum faciens*; g27-c007 [^1], bens máximos e médios em Agostinho; g28-c001 [^1], mérito de condigno e de côngruo; g28-c002 [^1], Eclesiástico 21:1; [^2], o cão que abre os olhos depois do nascimento; [^3], o “sinal” e o movimento reflexo em Aristóteles.
+- *Sed dicebat quod* (réplica antecipada dentro das objeções) = “Mas dir-se-ia que”.
+- *3 Regum* 3:5 dado como 1 Reis 3:5, nomenclatura atual dos livros dos Reis.
+- g28-c003 [16]: mantém-se “livro 11” do *Comentário literal ao Gênesis*, como na fonte; *arcam* = arca (a tradução inglesa traz “bow”).
+- g28-c003 [43]: *aures vivorum* (Jó 33:16) lido como *virorum*, conforme a Vulgata.
+- g28-c003 [44]: *theoremata* = “visões”. [56]: *immediate* = “imediatamente antes”.
+- g28-c004 [21]: *iustitia completiva* = “a justiça consiste, quanto ao que a completa, no afeto”.
+- g28-c007 [25]: *illud est prius simpliciter est prius dicendum* lido como *illud simpliciter est prius dicendum*.
+- Erros de digitação do espelho corrigidos tacitamente: g28-c003 [52] *requitur*; g28-c004 [6] *srvili*, [10] *debat*; g28-c006 [13] *non solum rationem sed etiam re* (lido *secundum rationem*).
+- Vós na apóstrofe a Deus em Salmo 143:5 (e na Glosa), Salmo 31:5, Lamentações 5:21 e Salmo 62:3; tu em Oseias 2:19, 1 Reis 3:5 e Atos 9:5.
+- Notas do tradutor: g28-c003 [^1], *recreatus est* nas *Confissões*; [^2], preceitos afirmativos *semper, sed non ad semper*; g28-c004 [^1], *credere Deo / Deum / in Deum*; g28-c007 [^1], a definição aristotélica de anterioridade.
+- Notas do tradutor: g28-c008 [^1], etimologia de *attritio* e *contritio*; g29-c001 [^1], o branco que “dispersa” e o preto que “concentra” a vista em Aristóteles; g29-c003 [^1], sentido de *quantitas virtualis*.
+- g28-c008 [36]: traduz-se o latim *actus formaliter perficit potentiam* (“o ato”), não o “habit” da tradução inglesa.
+- g28-c008 [29]: *ut in motum esse quam ut in moveri* = “no ter sido movido do que no ser movido”.
+- g28-c009 [11]: *in Deum et in peccatum* = “para Deus e para o pecado”, porque o argumento joga com a direção.
+- Erros do espelho corrigidos tacitamente: g28-c009 [27] *ut sit dicatur* (lido *ut si dicatur*); g29-c003 [20] *quo finitum* (lido *quod*); g29-c003 [26] *quod, gratia* (lido *quod, cum gratia*).
+- g29-c003 [7]: a tradução inglesa atribui o *Cur Deus homo* a Agostinho; segue-se o latim (Anselmo).
+- Vós na apóstrofe a Deus em Salmo 4:7 e Sabedoria 11:21; tu em Oseias 2:19 e no *Quem te criou sem ti* de Agostinho.
+- Notas do tradutor: g29-c004 [^1], *caput* como cabeça, capital e nascente (“capital”, “cabeceira”); g29-c004 [^2], *membrum de membro* (Vulgata *membra de membro*) lido por Tomás como Cristo; g29-c008 [^1], alternação das proporções em Euclides.
+- Erros do espelho corrigidos tacitamente: g29-c004 [29] *ad spiritualem sensum et modum* (lido *motum*); g29-c005 [14] *42 cap. Caelestis hierarchiae* (lido capítulo 4).
+- g29-c004 [36]: segue-se o latim (*Dos nomes divinos*, cap. 7) e Colossenses 1:16 como no texto, sem as correções da tradução inglesa.
+- g29-c007 [8]: *sed non nisi salutis*, obscuro, traduzido literalmente (“mas não o foi senão da salvação”).
+- g29-c005 [17]: *securis* = machado (a tradução inglesa traz “saw”); *servus* = servo.
+- Vós na apóstrofe a Deus em Salmo 15:1, Salmo 21:2 e no versículo *tu reddes unicuique* (g29-c007 [13], [31]).
+- Notas do tradutor: g3-c001 [^1], *idéa*/*species* e “ver”/“olhar”; g3-c002 [^1], o filósofo Clemente de Dionísio; g3-c005 [^1], o grande e o pequeno de Platão; g3-c006 [^1], *diffinitiva et effectiva* como aptidão; g3-c007 [^1], *simus*.
+- Segue-se o latim contra a tradução inglesa: g3-c001 [20] *in libro De ordine* (sem a correção para *Retratações*); g3-c004 [13] *species* (a inglesa traz “beautiful”); g3-c005 [14] a ideia corresponde à matéria no composto (a inglesa nega).
+- Boécio, *Consolação* 3, apóstrofe a Deus em vós (g3-c001 [21]).
+- Bíblia: Eclesiástico 23:29 (g3-c003 [29]).
+- Notas do tradutor: g4-c001 [^1], *verbum* = “verbo”; [^2], o aro pendurado à porta das tabernas; [^3], etimologias medievais de *verbum* e *lapis*; [^4], *theós*/*aíthein* em Damasceno; g4-c005 [^1], *canis* marinho como exemplo de equivocidade.
+- Etimologias em g4-c001 [10] e [30]: mantém-se o latim em itálico com a glosa entre parênteses, para que o jogo de palavras seja visível.
+- g4-c001 [4]: o latim traz “Matt. 25:11”, erro manifesto; corrigido para Mateus 15:18, que é o versículo citado.
+- Hebreus 1:3 (*verbo virtutis suae*): “com o verbo da sua virtude”, porque o argumento de g4-c003 depende da palavra *verbum*.
+- Suplementos editoriais entre parênteses mantidos e traduzidos: g3-c008 [10] “(porém)”, g4-c002 [16] “(a partir)”, g4-c004 [19] “(pelo)”, g4-c005 [23] “(não)”.
+- g4-c002 [5]: *in libro Praedicto* lido como “no livro *supracitado*” (não é título).
+- Salmo sem número em g4-c005 [13], como no latim.
+- Notas do tradutor: g4-c008 [^1], pontuação antiga de João 1:3-4; g5-c001 [^1], *Retórica antiga* = *De inventione*; [^2], *providentia* / *procul videntia*; g5-c002 [^1], a Amizade e a Discórdia em Empédocles; [^2], o prefixo de *perscrutari*; g5-c004 [^1], providência de aprovação e de concessão em Damasceno.
+- g5-c003 [9]: o latim traz “Sap. 13”; o versículo citado é Sabedoria 12:13, e assim se corrigiu.
+- Suplementos editoriais mantidos e traduzidos: g4-c008 [6] “(não)”, g5-c001 [19] “(mais próxima)”, g5-c003 [12] “(se)”.
+- Falhas de marcação do latim corrigidas sem deixar rastro: itálicos que englobavam título e citação (g4-c007 [6], g5-c001 [6] e [18], g5-c002 [11]); “scientiamquia” e “ego” (g5-c001 [3]) lidos como *scientiam quia* e *ergo*.
+- g5-c001 [26]: *procul videntia* mantido em latim, com a glosa “visão de longe”.
+- g4-c007 [8]: Salmo sem número, como no latim.
+- g5-c004 [17]: *liberis* traduzido por “os livres” (os homens livres da casa, na comparação de Aristóteles), não por “filhos”.
+- g4-c007: *Verbum est eorum* traduzido por “o Verbo se refere a”; *intellectus est de his*, por “o intelecto versa sobre”.
+- Notas do tradutor: g5-c008 [^1], os *espíritos* da fisiologia galênica; g5-c009 [^1], o círculo oblíquo (eclíptica) e *allatio*; [^2], Rabi Moisés = Maimônides; [^3], *Fons vitae* (Avicebron) e *loquentes* = *mutakallimūn*; [^4], *mas occasionatus*.
+- Referências corrigidas, como em g5-c003 [9]: g5-c005 [6] “Eccli. 17” → Eclesiástico 15:14; g5-c007 [4] “Ier. 52” → Jeremias 51:9.
+- Salmos sem número, como no latim: g5-c006 [9]; g5-c007 [3], [5], [7].
+- Citações dirigidas a Deus em vós: Sabedoria 12:18 (g5-c005 [12]), Habacuque 1:14 (g5-c006 [4]).
+- Suplementos editoriais mantidos e traduzidos: g5-c005 [6] “(a si mesmo)”, g5-c008 [14] “(espirituais)”, g5-c008 [36] “(não)”.
+- Itálicos que englobavam título e citação corrigidos sem rastro: g5-c008 [15]–[17], g5-c009 [12] e [24].
+- g5-c008 [39]: *li per* traduzido por “o termo ‘por’”, com aspas para a menção da palavra; a preposição portuguesa conserva os dois sentidos do argumento.
+- g5-c007 [7]: “deficiunt vel rectitudinem servant, boni vel mali dicuntur” vertido como “falham ou guardam a retidão, são chamados maus ou bons”, para que cada termo corresponda ao seu par.
+- *faber*: “artífice” na comparação da oficina (g5-c005 [18]); “ferreiro” onde se trata da faca (g5-c008 [10], [27], [34]).
+- Notas do tradutor: g5-c010 [^1], Isaac Israeli; [^2], Túlio = Cícero; g6-c001 [^1], *prescitos*; [^2], o “próprio” e a definição (predicáveis); g6-c002 [^1], o Mestre = Pedro Lombardo; g6-c003 [^1], sentido composto e dividido.
+- Referência corrigida: g6-c003 [8] “Iob 33” → Jó 34:24.
+- Salmo sem número, como no latim: g6-c002 [10].
+- Suplementos editoriais mantidos: g6-c001 [24] “(2) Macabeus 6:20”, [27] “(pressupõe)”, [34] “(para a)”; g6-c002 [27] “(modo)”, [31] “(é)”, [36] “(ser)”.
+- *faber* em g5-c010 [7] (lista de ofícios): “artífices”.
+- g6-c002 [22]: *miles* → “cavaleiro”, porque o argumento depende de ele precisar de cavalo.
+- g6-c003 [9]: *futurus quis incedere non incedet* → “quem está para caminhar pode não caminhar”, que é o sentido do lugar de Aristóteles invocado.
+- g6-c001 [5]: *elegit nos* → “elegeu-nos”, para manter o vínculo com *electio* (“eleição”).
+- *Glossatur / glossatio* → “glosa-se / glosa” (g6-c001 [15], [37]).
+- Notas do tradutor: g6-c004 [^1], número numerante e numerado; [^2], Romanos 11:25–26 citado sem referência; g6-c005 [^1], 2 Timóteo 2:5 citado sem referência; g6-c006 [^1], lenda de Gregório e Trajano; [^2], o *Livro das causas* e Proclo; g7-c002 [^1], Salmo 39:8 e o duplo sentido de *caput*; [^2], *supponere pro*; g7-c006 [^1], duplo sentido de *constare*.
+- *in capite libri* → “na cabeça do livro”, não “no início do livro”, porque o argumento (g7-c002 [3]; g7-c003 [4], [6], [11]) depende de *caput* como cabeça e princípio.
+- *difformitas* → “variedade”: “disformidade” em português significa deformidade.
+- *virtus* em 1 Coríntios 1:24 (g7-c003 [7]) → “poder”.
+- *de novo conscriptus* (g7-c001 [25]) → “recém-escrito”, porque “de novo” em português significa “outra vez”.
+- *exemplar* em Êxodo 25:40 (g7-c001 [19]) → “exemplar”, para manter o vínculo com o argumento sobre Cristo como exemplar.
+- Suplementos editoriais mantidos: g6-c004 [14] “(de Deus para a)”; g6-c006 [5] “(é)”, [8] “(servo)”; g7-c003 [7] “(1) Coríntios”; g7-c004 [3] e g7-c005 [3] “(E parece que sim)”.
+- Referência sem versículo mantida como no latim: g6-c005 [3] “1 João 2”.
+- Notas do tradutor: g7-c009 [^1], Salmo 111:7 (Vulgata) citado sem referência; [^2], Salmo 68:29 (Vulgata); [^3], *inscriptus* no sentido de “não escrito”; [^4], o artigo não traz as respostas às objeções. g8-c001 [^1], o texto citado como “1 Pedro 2” é 1 Pedro 1:12; [^2], *via*, *viator* e *pátria*. g8-c002 [^1], *comprehendere* em sentido técnico e a quantidade virtual.
+- *inscriptus* (g7-c009 [31]) → “não inscrito”, porque o argumento conclui com Apocalipse 20:15.
+- *de novo in libro vitae scribi* (g7-c009 [19]) → “passar a ser escrito”, pelo mesmo motivo da decisão sobre *de novo conscriptus*.
+- *signavit* em 2 Coríntios 1:21 (g7-c009 [20]) → “assinalou”, para manter o vínculo com *signum*, “sinal”, de que depende o argumento.
+- g7-c009 [5]: o itálico, que no latim começa antes da vírgula, foi movido para depois dela, para que o Markdown o renderize.
+- g8-c001 [6] e g8-c002 [10], [11]: o itálico que abrange o título da obra e a citação foi mantido como no latim.
+- Referências mantidas como no latim: g7-c009 [21], [32] “no Salmo”, sem número; g8-c001 [5] “1 Pedro 2”; g7-c009 [24] “João 6:67” (numeração da Vulgata).
+- Suplementos editoriais mantidos: g7-c008 [4] “(Deus)”; g7-c009 [7] “(mas a glória é efeito da graça)”, [33] “(eterna)”; g8-c001 [4] “(a Moisés)”, [25] “(e da matéria)”, [27] “(e ao quarto)”.
+- Notas do tradutor: g8-c003 [^1], *Sobre o espírito e a alma* como obra pseudoagostiniana; [^2], o *Livro das causas*; [^3], *fantasma* como termo técnico; [^4], Isaac Israeli. g8-c004 [^1], *compreensor*; [^2], potência de obediência. g8-c006 [^1], *reditio completa*.
+- g8-c003 [33]: *potentia intellectiva eius* → “a potência intelectiva do anjo”, porque o contexto contrapõe o anjo, sem defeito em seu gênero, ao intelecto humano.
+- Tratamento por “vós” nas citações dirigidas a Deus: g8-c003 [29] *in lumine tuo* → “no vosso lume”; g8-c004 [44], *Confissões*.
+- Referências mantidas como no latim: g8-c005 [7] “2 Coríntios 13” (o passo é 2 Coríntios 12:4); g8-c004 [29] “Jeremias 17:9” (a resposta divina está no versículo 10); g8-c003 [29] “no Salmo”, sem número.
+- Itálico que abrange o título da obra e a citação mantido como no latim: g8-c004 [11], [23], [44].
+- Suplementos editoriais mantidos: g8-c004 [44] “(é mais perfeito)”; g8-c006 [13] “(o intelecto)”, [21] “(que)”.
+- g8-c004 [46]: *intellectuum angelicorum* → “intelecções angélicas”, por se tratar dos atos de inteligir.
+- g8-c003 [22]: as aspas simples do latim dentro da citação em itálico passaram a ‘ ’.
+- Notas do tradutor: g8-c007 [^1], numeração do livro 11 da *Metafísica* (= Λ); [^2], os motores das esferas celestes. g8-c008 [^1], o “filósofo Clemente” de Dionísio. g8-c009 [^1], a tábua em que nada está escrito (*tabula rasa*). g8-c011 [^1], a discórdia de Empédocles.
+- Referências à *Metafísica* mantidas com a numeração do latim (“livro 11”), explicada na nota de g8-c007.
+- *de novo* (“pela primeira vez”) vertido por “passar a”, “vir a”, “novo”, e nunca por “de novo”, que em português significa “outra vez”: g8-c007 [17]; g8-c009 [20], [22].
+- *quod quid est* (g8-c007 [51]) → “a quididade”, como *quiditas* em g8-c011 [11].
+- g8-c011 [17]: “no Salmo”, sem número, como no latim; o íncipit abreviado *angelis suis Deus* → “*Deus a seus anjos* etc.”.
+- g8-c008 [9]: itálico que abrange o título da obra e o começo da citação mantido como no latim.
+- Suplementos editoriais mantidos: g8-c008 [30] “(um)”; g8-c010 [14] “(é)”.
+- g8-c009 [23]: *a quibus* referido às razões eternas (“das quais emanam as formas”), como pede a conclusão do parágrafo.
+- Notas do tradutor: g8-c012 [^1], os contingentes *ad utrumlibet*. g8-c014 [^1], o diáfano e o úmido. g8-c015 [^1], os escólios atribuídos a Máximo, o Confessor; [^2], a autoria de *Sobre o espírito e a alma*. g8-c016 [^1], a criação simultânea em Santo Agostinho (Eclesiástico 18:1 na Vulgata).
+- *Commentator Maximus* (g8-c015 [14]) → “o comentador Máximo”, com minúscula, para não confundir com “o Comentador” (Averróis).
+- g8-c016 [12]: o *Sed contra* que replica, dentro da série de objeções, à resposta suposta em [11] → “*Mas contra isso*”, para não se confundir com o “em sentido contrário” do artigo.
+- g8-c014 [31]: o latim *cognoscit multa et unum, et ex dictis patet* vertido segundo o sentido exigido pelo corpo do artigo e por [45]: “conhece muitas coisas como uma, como é patente pelo que foi dito”.
+- g8-c013 [8]: *disputationes* (lição do latim, onde a citação de Agostinho tem *dispositiones*) → “raciocínios”, seguindo o latim.
+- Suplementos editoriais mantidos: g8-c012 [19] “(no)”, [20] “(se)”; g8-c014 [12] “(ao mesmo tempo)”, [14] “(contra)”.
+- Itálico que abrange o título da obra e o começo da citação mantido como no latim, com dois-pontos dentro do itálico: g8-c014 [6], [29]; g8-c015 [16].
+- *de novo* em g8-c015 [21] → “virem a perceber”, “recém-feitas”, conforme a decisão anterior.
+- Citações bíblicas sem referência no latim (Romanos 1:20 e Isaías 6:1 em g8-c015 [20]; o Salmo em g8-c013 [12]) ficam sem referência, como na fonte.
+- Notas do tradutor: g9-c001 [^1], “filósofo primeiro” e “filósofo natural”. g9-c002 [^1], a etimologia de “serafim” (hebraico *saraf*; Isidoro, *Etimologias*). g9-c003 [^1], os energúmenos na Igreja antiga.
+- g9-c001 [25]: na citação de Dionísio, o latim não traz a negação que o original grego e o argumento exigem; suprida entre colchetes, “[não] contempladoras de símbolos”, como na edição inglesa.
+- g9-c003 [5], [8]: *Sed contra* que replica dentro das objeções → “*Mas contra isso*”, conforme a decisão de g8-c016 [12].
+- g8-c017 [13]: *li fiendum* → “a expressão ‘por fazer’”; *fiendae* → “por fazer” também em [5].
+- g8-c017 [10]: a última frase (*sed solummodo cognitio gratuita…*) vertida com o verbo subentendido: “mas somente o é o conhecimento gratuito”.
+- g9-c004 [6]: *1 dist. 4 Sententiarum* lido como distinção 1 do livro 4 das *Sentenças* (Pedro Lombardo, livro 4, distinção 1).
+- g9-c004 [19]: o itálico mal posicionado da fonte (*Praeterea\*, quod potest…\**) normalizado para abranger só a sentença de Boécio.
+- g9-c006 [7]: “Isaías 64” mantido como na fonte, embora o versículo citado seja Isaías 63:16.
+- g9-c002 [16]: *plures in eodem Deo cooperantur* → “muitos cooperam com Deus na mesma obra”.
 - g9-c007 [8], [12]: as remissões inline da edição inglesa (*Above: aa. 4–5*, *aa. 4–6*) não estão no latim e não foram acrescentadas.
 
 ## Review log

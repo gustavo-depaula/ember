@@ -1,6 +1,134 @@
+# Diário de tradução — O Sermão de Nosso Senhor na Montanha (pt-BR)
+
+Fonte: en-US/. Tradução de William Findlay, em Nicene and Post-Nicene Fathers, Primeira Série, vol. 6, edição de Philip Schaff, Buffalo, NY: Christian Literature Publishing Co., 1888. Revisão e edição para New Advent por Kevin Knight.
+Destino: pt-BR.
+
+## Termos
+
+| Inglês | Português | Notas |
+|---|---|---|
+| Our Lord's Sermon on the Mount | O Sermão de Nosso Senhor na Montanha | Título da obra. |
+| Augustine of Hippo | Santo Agostinho de Hipona | Forma portuguesa do nome do autor. |
+| Book One / Book Two | Livro Primeiro / Livro Segundo | Títulos das divisões principais. |
+| Matthew | Mateus | Nome do evangelista e do livro bíblico. |
+| righteousness | justiça | Mantido também nas bem-aventuranças e na comparação entre as duas justiças. |
+| blessed / blessedness / beatitudes | bem-aventurado / bem-aventurança / bem-aventuranças | |
+| poor in spirit | pobres em espírito | |
+| meek / meekness | manso / mansidão | |
+| peacemakers | pacificadores | Conserva o sentido ativo, inclusive na ordenação interior da alma. |
+| kingdom of heaven / kingdom of God | reino dos céus / reino de Deus | Preservada a distinção da fonte. |
+| Holy Ghost / Holy Spirit | Espírito Santo | |
+| Paraclete / Comforter | Paráclito / Consolador | |
+| fear of God / fear of the Lord | temor de Deus / temor do Senhor | |
+| piety | piedade | |
+| knowledge | ciência / conhecimento | “Ciência” como dom do Espírito Santo e na fórmula “A ciência incha”; “conhecimento” nos demais contextos. |
+| fortitude | fortaleza | |
+| counsel | conselho | Dom do Espírito Santo; também designação da instância judicial em Mateus 5. |
+| understanding | entendimento | Dom do Espírito Santo. |
+| wisdom | sabedoria | |
+| charity / love | caridade / amor | Preservada a diferença vocabular da fonte. |
+| pride / proud | soberba / soberbo | |
+| sound faith | fé sã | Em consonância com “sound doctrine” → “sã doutrina” em A Doutrina Cristã. |
+| mind / reason / intellect | mente / razão / intelecto | Conservadas as distinções do argumento. |
+| only-begotten Son | Filho unigênito | |
+| regeneration | regeneração | |
+| law / fulfil the law | lei / cumprir a lei | O cumprimento pode designar tanto a prática quanto o aperfeiçoamento da lei. |
+| scribes and Pharisees | escribas e fariseus | |
+| judgment / council / gehenna of fire | julgamento / conselho / geena de fogo | Três graus distinguidos no comentário. |
+| Raca | Raca | Conservado o vocábulo discutido pelo autor. |
+| fool | tolo | Mantido na citação e na explicação subsequente. |
+| bushel measure | módio | Recipiente e medida de capacidade; ver nota do tradutor. |
+| candle / candlestick | lâmpada / candelabro | |
+| offering / gift | oferenda / oferta | No comentário sobre o altar. |
+| the quick and the dead | os vivos e os mortos | |
+| lust | concupiscência / desejo / desejar | “Concupiscência” no argumento moral; formas de “desejar” quando exigidas pela construção. |
+| suggestion / pleasure / consent | sugestão / deleite / consentimento | Três etapas da consumação do pecado; “prazer” também empregado no desenvolvimento. |
+| fornication | fornicação | Conservado em toda a discussão de sua amplitude, inclusive quanto à idolatria e à avareza. |
+| put away / writing of divorcement | repudiar / carta de divórcio | Preservada a distinção entre repudiar e separar-se. |
+| self-restraint | continência | No contexto da abstinência conjugal consensual. |
+| unbelief / unbelieving | infidelidade / infiel | Nestes parágrafos, ausência de fé cristã, não infidelidade conjugal. |
+| covetousness / avarice | avareza | |
+| offend / cause of stumbling | fazer tropeçar / causa de tropeço | Na explicação do olho direito e da mão direita. |
+| perjury / forswear oneself | perjúrio / jurar falso | |
+| Genesis / Eve / Lazarus | Gênesis / Eva / Lázaro | |
+| Antioch / Constantius / Acyndinus | Antioquia / Constâncio / Acindino | |
+| dispensation | dispensação | Na distinção das épocas da ação da providência divina. |
+| meek / merciful | manso / misericordioso | Preservada a distinção desenvolvida no §55. |
+| coat / tunic / cloak / garment | túnica / túnica / manto / veste | No §60, “veste” conserva a maior extensão de sentido em relação a “túnica”. |
+| preparation of heart | preparação do coração | Disposição interior para suportar ofensas e perdas. |
+| brotherhood | comunidade dos irmãos / fraternidade | A primeira forma designa o conjunto dos cristãos; a segunda, o vínculo e seus deveres. |
+| sin unto death | pecado para a morte | Conservada a fórmula e sua oposição a “pecado que não é para a morte”. |
+| adoption / spiritual regeneration / Only-begotten | adoção / regeneração espiritual / Unigênito | |
+| Elijah / Elias | Elias | As duas formas inglesas designam o mesmo profeta. |
+| Stephen / Thomas / Alexander the coppersmith | Estêvão / Tomé / Alexandre, o latoeiro | |
+| Capernaum / Beelzebub | Cafarnaum / Belzebu | |
+| Acts of the Apostles / Apocalypse of John / Wisdom of Solomon | Atos dos Apóstolos / Apocalipse de João / Sabedoria de Salomão | |
+| cleansing of the heart / single heart / double heart | purificação do coração / coração simples / coração duplo | “Simples” conserva a unidade de intenção oposta à duplicidade. |
+| Searcher of the conscience / Searcher of the heart | aquele que sonda a consciência / aquele que sonda o coração | |
+| daily bread | pão de cada dia | Preservados os três sentidos discutidos: sustento corporal, sacramento e alimento espiritual. |
+| bring us not into temptation / lead | não nos façais entrar em tentação / conduzir | Distinção vocabular necessária ao comentário do §30. |
+| Agamemnon / Beautiful gate | Agamêmnon / porta Formosa | |
+| Lord’s Prayer / Epistle to the Hebrews | oração do Senhor / Epístola aos Hebreus | |
+| temptation / proving | tentação / provação | Conservada a distinção e, no §31, as explicações parentéticas do verbo “tentar”. |
+| single eye / intent | olho simples / intenção | Unidade da intenção orientada ao reino de Deus. |
+| mammon / Punic | mamom / púnico | Conservada a explicação linguística dada pelo autor. |
+| dispensation / steward | administração / administrador | No §54, encargo de distribuir o que foi confiado a alguém. |
+| Susanna / Agabus / Aquila / Claudius Cæsar | Susana / Ágabo / Áquila / Cláudio César | |
+| fortitude / prudence / understanding | fortaleza / prudência / entendimento | Conservados os termos empregados pela fonte na correspondência do §38. |
+| rash judgment | juízo temerário | Julgamento de intenções desconhecidas ou do futuro moral de uma pessoa. |
+| single heart / double heart | coração simples / coração duplo | Unidade ou duplicidade da intenção. |
+| mote / beam | cisco / trave | Imagem empregada na distinção entre ira e ódio. |
+| guileless | sem dolo | Conservada a ligação entre a pureza da intenção e a discussão sobre ocultar a verdade. |
+| will / desire | vontade / desejo | Distinção em sentido estrito explicitada no §74. |
+| strait gate / narrow way | porta apertada / caminho estreito | Mantida a distinção das duas imagens. |
+| long-suffering / gentleness / temperance | longanimidade / benignidade / temperança | Termos da enumeração dos frutos do Espírito no §81. |
+| Sadducees / Pharisees / Levites | saduceus / fariseus / levitas | |
 
 ## Decisões
 
+- Conservados os 43 parágrafos da fonte, incluindo os títulos; o segundo parágrafo do §10 permanece separado e sem nova numeração. Os números autorais foram formatados em negrito.
+- Traduzidas as citações conforme o texto inglês recebido, sem harmonização com versões bíblicas portuguesas; mantidas, entre outras particularidades, “Terra és”, “É um profeta” e a qualificação “sem motivo”.
+- Empregados “vós” nas exortações aos discípulos e no tratamento reverente de Deus, e “tu” nas interpelações individuais. A acusação dirigida a Jesus no §14 conserva o tratamento singular não reverente.
+- A abreviatura explicativa *i.e.* foi traduzida como *isto é*, conservando o itálico. O vocábulo grego *ῥάκος* foi preservado e posto em itálico.
+- Acrescentada a nota do tradutor [^1] no §3 para explicar os sentidos de *spiritus* que sustentam a associação entre soberba e inchaço pelo vento.
+- Acrescentada a nota do tradutor [^2] no §17 para explicar o módio como recipiente e medida, dois sentidos necessários ao argumento.
+- No §13, “just [righteous]” foi traduzido como “justo [reto]”, conservando a glosa entre colchetes sem repetir a mesma palavra portuguesa.
+- No §15, “conversation” foi traduzido como “cidadania”, conforme o sentido da expressão citada, e não no sentido moderno de conversa.
+- No §23, “proper names” foi vertido como “designações próprias”, no contexto das formas características de cada língua para expressar emoções.
+- No §29, “farthing” foi vertido como “centavo”, conservando a expressão de pagamento até a menor parcela; “republican government” foi mantido como “governo republicano”, sem substituir a formulação histórica da fonte.
+- No `book.json`, preservada a descrição bibliográfica de `sources`, que é uma string, não um campo de localização. Acrescentadas entradas `pt-BR` aos campos localizados existentes e à lista de idiomas, sem criar campos.
+- Conservados os 29 parágrafos de fonte desta chamada, incluindo os seis títulos de capítulo, além da definição da nota acrescentada.
+- Acrescentada a nota do tradutor [^3] no §30 para explicar a relação entre o quadrante, traduzido anteriormente por “centavo”, e a “quarta parte”, indispensável ao argumento sobre os elementos.
+- No §41, conservado “este incorruptível se revestirá de incorruptibilidade”, conforme o inglês recebido, sem corrigir para a forma bíblica usual “corruptível”.
+- No §45, conservada a formulação “a menos que o casamento fosse desfeito”, correspondente a “unless the marriage were broken up”, embora pareça contradizer o argumento sobre a manutenção do casamento; possível defeito da fonte, a verificar em revisão.
+- No §42, mantida “alma” nas citações em que o autor explica seu emprego no sentido de “vida”.
+- No §51, preservado em itálico o grego *Νὴ τὴν καύχησιν ὑμετέραν*; “Pela vossa alegria” mantém a ambiguidade entre juramento e causalidade discutida pelo autor.
+- Conservados os 33 parágrafos da fonte desta chamada: 27 parágrafos numerados (§§53–79) e seis títulos de capítulo.
+- No §59, “by time as his master”, construção manifestamente defeituosa, foi interpretado como referência ao interlocutor que é senhor do escravo: “por ti, como seu senhor”. Leitura conjectural a conferir em revisão.
+- Preservada a diferença entre “vai com ele duas” no §56 e “vai com ele mais duas” no §61; a segunda formulação fundamenta o argumento sobre o total de três.
+- No §60, conservados em itálico o latim *pallium* e o grego *ἱμάτιον*.
+- No §64, “in hated desired revenge” foi entendido como erro material por “in hatred desired revenge” e traduzido “a vingança por ódio”.
+- No §68, “your money will be useless” foi traduzido por “teu dinheiro ficará sem rendimento”, conforme o contexto do empréstimo e da expectativa de retribuição.
+- Nos §§71–72, preservada a distinção entre imprecação, desejo e predição, inclusive “Que [o Senhor] lhe retribua” em contraste com “O Senhor lhe retribuirá”.
+- Nos §§73–75, mantidos os qualificadores de incerteza do autor (“sou de opinião”, “creio eu”, “talvez”) ao tratar do pecado para a morte e do pecado contra o Espírito Santo.
+- Conservados os 41 parágrafos da fonte: título do livro, indicação de Mateus 6–7, nove títulos de capítulo e 30 parágrafos numerados (§§1–30).
+- Nas petições da oração do Senhor, preservadas as formulações da fonte, inclusive “dívidas”, “devedores” e “não nos façais entrar em tentação”; mantidas as variações de ordem entre céu e terra.
+- No §11, “bed-chambers” e “doors” foram conservados no plural, apesar do interlocutor singular.
+- No §26, preservada integralmente a extensa digressão parentética sobre a comunhão diária nas igrejas do Oriente.
+- No §28, conservado “Herodes”, conforme a fonte fornecida, sem substituir silenciosamente o nome por Pilatos.
+- No §30, preservada a leitura “vossa tentação em minha carne”, sem ajustá-la a outra formulação bíblica.
+- Conservados os 35 parágrafos da fonte: 27 parágrafos numerados (§§31–57) e oito títulos de capítulo.
+- No §41, interpretado “booty” como lapso por “body”, traduzido por “corpo”, conforme o assunto e a repetição da expressão no mesmo parágrafo.
+- No §42, preservado o plural “rostos” na citação, apesar do interlocutor singular e do singular empregado no restante da exposição.
+- Nos §§49–50, conservada “alma” nas citações em que o autor explica o sentido de “vida presente”.
+- No §45, preservada a variante editorial entre colchetes: “luz [lâmpada]”.
+- No §57, conservadas as particularidades das citações fornecidas, inclusive “santos da Galácia”, “por vossas cartas”, a alegria e a primeira pessoa plural na passagem dos Atos, e o envio de auxílio “aos presbíteros para os irmãos”.
+- Conservados os 37 parágrafos da fonte: 29 parágrafos numerados (§§58–86) e oito títulos de capítulo.
+- No §60, conservado “aims” como “propósitos” na citação, embora a explicação subsequente fale de pecados.
+- No §64, “hypocrites” permanece “hipócritas”; a própria explicação do autor explicita a imagem do papel representado e da máscara, dispensando nota adicional.
+- No §74, preservado o argumento textual sobre o acréscimo de “boas” nos exemplares latinos e sua ausência nos gregos; “ties in” foi entendido como lapso por “lies in”, traduzido por “residem”.
+- Nos §§79 e 85, conservadas as particularidades das citações: “Hipócritas” e a afirmação de que os próprios eleitos “serão enganados”, sem adaptação a outras versões bíblicas.
+- Conservados os esclarecimentos editoriais entre colchetes nos §§59, 78 e 79.
 - No §87, “turnouts of men” foi traduzido por “tumultos dos homens”, segundo o contexto das perturbações comparadas aos ventos.
 - Conservado em um único parágrafo o §87, que encerra o Livro Segundo e a obra.
 

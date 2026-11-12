@@ -1,6 +1,105 @@
+# Diário de tradução — Caminho de perfeição (pt-BR)
+
+Fonte: es-ES/, Obras de Sta. Teresa de Jesús, ed. P. Silverio de Santa Teresa, C.D., t. III: Camino de perfección (Biblioteca Mística Carmelitana 3), Burgos: El Monte Carmelo, 1916, pp. 1–206; segunda redação, autógrafo de Valladolid.
+Destino: pt-BR.
 
 ## Termos
 
+| Espanhol | Português | Notas |
+|---|---|---|
+| Camino de perfección | Caminho de perfeição | Título já estabelecido nos metadados. |
+| Santa Teresa de Jesús | Santa Teresa de Ávila | Forma já estabelecida nos metadados. |
+| Señor / Nuestro Señor | Senhor / Nosso Senhor | |
+| Su Majestad / Vuestra Majestad | Sua Majestade / Vossa Majestade | Preservada a fórmula teresiana e a mudança entre referência e invocação. |
+| Redentor / Criador | Redentor / Criador | |
+| Padre eterno | Pai eterno | |
+| Santísimo Sacramento | Santíssimo Sacramento | |
+| Nuestra Señora y Emperadora | Nossa Senhora e Imperatriz | |
+| Iglesia | Igreja | Convenção dos diários irmãos. |
+| piedad | piedade | Convenção dos diários irmãos. |
+| santos Padres | santos Padres | Mantida a maiúscula da fonte, conforme os diários irmãos. |
+| San Josef / San José de Avila | São José / São José de Ávila | |
+| Santa Clara | Santa Clara | |
+| Don Alvaro de Mendoza | Dom Álvaro de Mendoza | |
+| D. Teutonio de Braganza | Dom Teotônio de Bragança | |
+| Libro de la Vida | Livro da Vida | |
+| oración | oração | |
+| perfeción | perfeição | Ortografia modernizada. |
+| consejos evangélicos | conselhos evangélicos | |
+| llamamiento | vocação | “Chamados” na nota marginal sobre estados e chamados de Deus. |
+| santa pobreza / pobreza de espíritu | santa pobreza / pobreza de espírito | |
+| desasimiento / desasido | desapego / desapegado | |
+| verdadera humildad | verdadeira humildade | |
+| amor del prójimo | amor ao próximo | |
+| amistades particulares | amizades particulares | |
+| voluntad | vontade | “Afeição” quando designa diretamente o afeto por alguém. |
+| regalo | conforto | Conforme o contexto, busca de conforto ou presente dado a alguém. |
+| honra | honra | Inclui estima e reputação social. |
+| honestidad | pureza | No contexto da integridade da vida religiosa e da castidade. |
+| relisión | observância religiosa | “Ordens religiosas” quando designa os institutos. |
+| Regla / Costituciones | Regra / Constituições | |
+| perlada / mayor | superiora | No governo da comunidade feminina. |
+| prelado / perlado | prelado | |
+| letrado / letras | homem de estudo, instruído / saber, instrução, estudo | Formação doutrinal; não reduzida à alfabetização. |
+| confesor ordinario | confessor ordinário | |
+| recogimiento | recolhimento | |
+| celda / ermita | cela / ermida | |
+| casa de labor | sala de trabalho | Trabalho manual comunitário; explicação conservada na nota editorial. |
+| disciplinas | disciplinas | Prática penitencial corporal. |
+| renta / limosna | renda / esmola | |
+| luteranos / herejes | luteranos / hereges | Mantidas as designações e a intensidade polêmica da fonte. |
+| amor perfeto / amor espiritual | amor perfeito / amor espiritual | |
+| puro espiritual | puramente espiritual | |
+| mortificación | mortificação | |
+| amor propio | amor-próprio | |
+| libertad de espíritu | liberdade de espírito | |
+| discreción | prudência | Discernimento prático no cuidado da saúde, na penitência e na caridade. |
+| deudos | parentes | |
+| mayorías | precedências | Primazia de posição, antiguidade ou consideração dentro da comunidade. |
+| punto / puntito de honra | ponto de honra / melindre de honra | Conforme a formulação e o contexto. |
+| regalos de Dios | consolações de Deus | Distingue-se dos confortos e agrados corporais. |
+| Esposo | Esposo | Cristo em relação à alma ou à religiosa. |
+| orador | homem de oração | Sentido explicitado pela nota editorial de c12. |
+| Santa Mónica / San Agustín | Santa Mônica / Santo Agostinho | |
+| santo Job | santo Jó | |
+| Fray Luis de León | Frei Luís de Leão | |
+| oración mental / oración vocal | oração mental / oração vocal | |
+| meditación / contemplación | meditação / contemplação | Mantida a distinção explícita de c16. |
+| gustos | gostos | Deleites espirituais; distingue-se de “regalos”, consolações. |
+| perlada / perlado | superiora / superior | |
+| dar profesión / hacer profesión | admitir à profissão / fazer profissão | Conforme o sujeito da ação. |
+| probación | provação | Período de prova anterior à profissão religiosa. |
+| Santa Marta / la Madalena | Santa Marta / Madalena | Mantidas as identificações da autora. |
+| vida ativa | vida ativa | |
+| arrobamientos | arrebatamentos | |
+| juros perpetuos / censos de al quitar | juros perpétuos / censos resgatáveis | Vocabulário histórico de rendas; conservada a explicação editorial de c18. |
+| agua viva | água viva | Mantida a imagem e sua distinção das águas que correm pela terra. |
+| determinada determinación | determinada determinação | Conservada a repetição enfática de c21. |
+| discreción | discernimento | Prudência e medida na vida espiritual; “indiscreto” foi vertido por “imprudente”. |
+| cuenta de perdones | rosário de indulgências | O objeto e seu uso são explicados pela nota editorial de c20. |
+| Paternóster / Avemaria | Pai-Nosso / Ave-Maria | Nomes das orações. |
+| sequedades | aridezes | No contexto da oração. |
+| San Martín / San Francisco | São Martinho / São Francisco | Conservadas as atribuições dos episódios no original. |
+| Casiano / Herón / Escitia | Cassiano / Herão / Cétis | Nomes na narrativa e na nota editorial de c19. |
+| oración de recogimiento | oração de recolhimento | A alma recolhe as potências e entra dentro de si com Deus. |
+| oración de quietud | oração de quietude | Distinta do recolhimento que se pode procurar com o auxílio ordinário de Deus. |
+| potencias | potências | Faculdades da alma, conservando o vocabulário da exposição mística. |
+| pensamiento | pensamento | Mantida a amplitude explicada pela nota editorial de c26: atividade da inteligência ou da imaginação. |
+| libro de romance | livro em língua corrente | “Romance” designa aqui a língua vernácula. |
+| Hugo de San Víctor / Francisco de Santo Tomás | Hugo de São Vítor / Francisco de São Tomás | Nomes na nota editorial de c26. |
+| San Bartolomé / Ptolomeos | São Bartolomeu / Ptolomeus | Mantidas a afirmação da autora e a ressalva histórica do editor. |
+| arrobamiento | arrebatamento | Designa em c32 a suspensão dos sentidos exteriores. |
+| accidentes de pan y vino | acidentes de pão e vinho | Conservado o termo teológico da exposição e das notas editoriais. |
+| comulgar espiritualmente | comungar espiritualmente | Expressão de c35 para a comunhão espiritual. |
+| Esposo | Esposo | Cristo; forma já estabelecida nos diários de obras afins do corpus. |
+| Francisco de Borja | Francisco de Borja | Conservada a forma “Borja”, estabelecida nos diários de obras afins; “Pe.” onde a fonte assim o designa. |
+| Fr. Luis de León | Frei Luís de Leão | Nome do editor citado nas notas. |
+| puntos de honra | pontos de honra | Exigências de consideração pessoal e precedência social criticadas pela autora. |
+| pobreza de espíritu | pobreza de espírito | Conservada a expressão espiritual tradicional. |
+| propio conocimiento | conhecimento de si mesmo | Ajustado à pessoa do discurso; em c39, “conhecimento de vós mesmas”. |
+| leer Teulogía / leer Filosofía | ensinar Teologia / ensinar Filosofia | “Leer” designa aqui o exercício do ensino. |
+| Santo Agustín | Santo Agostinho | Forma portuguesa do nome citado na nota de Báñez. |
+| San Pablo / la Madalena | São Paulo / Madalena | Formas portuguesas dos nomes em c40. |
 | temor de Dios | temor de Deus | Mantida a expressão espiritual tradicional. |
 | pecado venial / pecado mortal | pecado venial / pecado mortal | Terminologia moral católica. |
 | de advertencia | conscientemente / plenamente consciente | Conforme o contexto, indica consciência do ato; “advertência” conservada quando a autora distingue seus graus. |
@@ -14,6 +113,60 @@
 
 ## Decisões
 
+- Tradução dos parágrafos espanhóis fornecidos, com um parágrafo de destino para cada parágrafo de origem, incluindo títulos e definições das notas. O inglês foi usado apenas como referência; suas variantes do Escorial, resumos e notas não foram incorporados.
+- Mantido “vós” no tratamento direto das irmãs e nas invocações a Deus. Conservadas também as passagens em terceira pessoa e as mudanças de interlocutor, inclusive de Cristo ao Pai eterno em c03.
+- Modernizadas as grafias antigas no texto corrido. Nas notas filológicas, conservadas as formas espanholas necessárias para entender a observação editorial, com equivalentes portugueses quando úteis. As anotações marginais com conteúdo discursivo foram traduzidas.
+- Conservadas todas as 63 notas editoriais, com numeração reiniciada em cada capítulo e remissões à paginação da edição impressa. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- c01: “tener poca ley” foi traduzido por “ter pouca lealdade”; “repisar” por “pisar aos pés”; “del mal no tanto” foi explicitado como o desejo de que o mal não seja tão grande.
+- c02, parágrafo 7: a sequência fornecida “todos los bienes del otra vez” apresenta irregularidade sintática. A tradução conserva “todos os bens” e lê “otra vez” como retomada parentética, “mais uma vez”, sem acrescentar um complemento conjectural para “del”.
+- c02: “honraza” tornou-se “honra tão grande”, conservando a intensidade do aumentativo; “armas” e “bandeiras” mantêm a imagem militar e heráldica.
+- c03: mantida no corpo a passagem sobre reunir tropas, embora a nota editorial informe que foi apagada pela Santa, pois ela integra o texto fornecido.
+- c03, nota 11: conservada a leitura opaca “moradas que He”, sem conjecturar a expansão ou corrigir o testemunho fornecido.
+- c04: “concierto” e “desconcertado” foram traduzidos por “harmonia” e “se desarmoniza”, preservando o jogo verbal.
+- c05: “no se dió la obediencia a la Orden” refere-se à jurisdição religiosa e foi traduzido por “não se prestou obediência à Ordem”.
+- Nos metadados, preservadas as entradas pt-BR já existentes; acrescentados pt-BR à lista de idiomas e os títulos portugueses de todas as entradas do sumário.
+- c06–c12: conservados os 111 parágrafos fornecidos, incluindo títulos e as 47 definições de notas editoriais. Não foram acrescentadas notas do tradutor, dada a abundância do aparato.
+- c06: “almas reales” tornou-se “almas régias”; “sin tomo”, “sem substância”; “no le echarán dado falso”, “não a enganarão com dados viciados”, preservando a imagem do jogo.
+- c06: mantido no corpo o sentido incompleto de “sabe que no ha de durar en quererla”, sem incorporar o complemento “de outra maneira”, que permanece apenas na nota 10.
+- c07: conservadas as imagens e a linguagem histórica de “homens fortes” e “viris”, bem como a referência à prisão monástica, sem substituí-las por paráfrases.
+- c08–c10: regularizadas as concordâncias na tradução, conservando as observações editoriais sobre as irregularidades espanholas; no acréscimo entre colchetes de c10, mantido “nós mesmos”, conforme a passagem citada do Escorial.
+- c10, nota 11: “Reala” foi traduzido por “Regra”, conforme o sentido inequívoco da passagem.
+- c11: a construção elíptica sobre a mulher infeliz no casamento foi vertida como “para que o marido não saiba que ela fala disso e se queixa”, de acordo com a explicação da nota editorial, sem incorporar ao corpo a emenda rejeitada pelo editor.
+- c12: “consideración” tornou-se “reflexão” na distinção em relação à oração perfeita; “pone un caramillo en la lengua” foi traduzido por “põe um falatório na língua”. Na nota 5, regularizada a abertura do parêntese cujo fechamento consta da fonte.
+- c13–c18: conservados os 102 parágrafos fornecidos, incluindo títulos e as 44 definições de notas editoriais. Não foram acrescentadas notas do tradutor, dada a abundância do aparato.
+- c13: preservado o jogo recorrente com “razão”; “sinrazón” foi traduzido por “injustiça”. Na nota 4, a expressão elíptica sobre o que a candidata não vê em si foi explicitada como “muita mortificação”.
+- c14–c18: mantidas nas notas as formas espanholas objeto das observações ortográficas e gramaticais, com tradução ou explicitação quando necessária.
+- c15: “disculparse” tornou-se “justificar-se”; nas interpelações singulares à “filha”, empregou-se “tu”, mantendo “vós” para a comunidade e para Deus.
+- c16: mantidos no corpo os parágrafos sobre o xadrez e, nas notas, a explicação editorial de sua supressão e as diferenças entre os autógrafos; não se incorporaram ao corpo os acréscimos da referência inglesa.
+- c16 e c18: os suplementos entre colchetes foram representados nas palavras portuguesas correspondentes: “agi[r]”, “irm[ãs]” e “pesso[as]”; conservaram-se as notas sobre as intervenções no espanhol.
+- c17: regularizada no corpo a concordância de “embebidas” como “absorta”, conservando integralmente a nota editorial sobre o plural dos autógrafos e sua interpretação.
+- c18: “alférez” foi mantido como “alferes”, cujo ofício de levar a bandeira é explicado no próprio texto.
+- c19–c23: conservados os 109 parágrafos fornecidos, incluindo títulos e as 54 definições de notas editoriais. Não foram acrescentadas notas do tradutor, dada a abundância do aparato.
+- Mantidas nas notas as formas espanholas examinadas pelo editor, com tradução ou explicitação quando necessária; referências bíblicas convertidas para nomes portugueses e formato capítulo:versículo, sem alterar a numeração.
+- c19: conservado entre colchetes o suplemento do autógrafo do Escorial sobre a sede e o perigo de morte. Na passagem sobre a pessoa de temperamento impetuoso, “lo ha ya perdido” foi entendido como superação desse temperamento; a perda momentânea do juízo permanece na oração principal.
+- c20–c23: conservadas as indicações de suplementos nas palavras portuguesas correspondentes: “be[m]”, “e[m]”, “buscan[do]”, “coi[sa]” e “mo[rre]”; as notas mantêm os dados do espanhol.
+- c22: regularizados como colchetes os delimitadores desencontrados do suplemento “não pensaremos em nosso Esposo?”, mantendo a nota que o atribui à edição de Frei Luís de Leão. As formas históricas de tratamento “senhoria” e “mercê” foram conservadas no episódio editorial.
+- c23: “Pedid y daros han” foi traduzido por “Pedi, e vos darão”, preservando a construção da autora.
+- c24–c30: conservados os 118 parágrafos fornecidos, incluindo títulos e as 51 definições de notas editoriais. Não foram acrescentadas notas do tradutor, dada a abundância do aparato.
+- O tratamento espanhol singular “vos” dirigido a uma religiosa foi vertido por “tu”; conservaram-se as passagens ao plural nas exortações às irmãs e “vós” no tratamento reverente a Deus.
+- c24: “entremeter en días”, sem sentido no contexto das orações longas, foi entendido como “tratar delas”.
+- c26 e c27: os suplementos foram mantidos nas palavras portuguesas correspondentes, “sofriment[o]” e “dian[te]”; c28 conserva entre colchetes o suplemento atribuído a Frei Luís de Leão.
+- c28: “levantarse con el juego” e “alzarse al mejor tiempo” foram traduzidos pela imagem de retirar-se do jogo no melhor momento; “nácese a nuestra medida” foi entendido no contexto como “ajusta-se à nossa medida”.
+- c30: conservada a redação da petição “venha a nós vosso reino”, sem acrescentar palavras da fórmula litúrgica corrente. As grafias latinas divergentes citadas na nota editorial, inclusive “renuun” e “tenuum”, foram mantidas como fornecidas.
+- c31–c35: conservados os 116 parágrafos fornecidos, incluindo títulos e as 56 definições de notas editoriais. Não foram acrescentadas notas do tradutor, dada a abundância do aparato.
+- Nas notas sobre grafia, emendas e variantes, conservaram-se as formas espanholas quando constituem o objeto da observação, com equivalentes portugueses breves quando úteis. Mantiveram-se também as grafias latinas divergentes registradas pelo editor.
+- c31, nota 13: mantida entre aspas a leitura “indiferentísimo” fornecida no trecho atribuído a Frei Luís de Leão, sem corrigi-la conjecturalmente para “diferentísimo”.
+- c32: conservada a negativa de “es verdad que no nos da primero” e da variante da nota 7, sem harmonização com a referência inglesa.
+- c33, nota 4: conservada a observação editorial sobre palavras em itálico, embora o trecho fornecido não identifique essas palavras com tal marcação; não se reconstruíram os destaques.
+- c34: reproduzido em “vó[s]” o suplemento de “vosotra[s]”; c35 conserva entre colchetes o suplemento do códice de Toledo.
+- c34: “no es a su culpa” refere-se a Jesus, conforme a nota editorial; “para que”, no relato da comunhão, foi entendido causalmente, conforme a nota 7.
+- c36–c40: conservados os 104 parágrafos fornecidos, incluindo os títulos e as 51 definições de notas editoriais. Não foram acrescentadas notas do tradutor, dada a abundância do aparato.
+- c36: conservados os colchetes de “i[n]júria” e do acréscimo de Frei Luís de Leão; c37 conserva “filha[s]”. Em c38, o fragmento “gra” foi traduzido por “grande”, com a forma incompleta explicitada na nota editorial correspondente.
+- c37: “no nos trayas [...] en tentación” foi traduzido por “não nos conduzais [...] à tentação”, conservando a formulação da fonte, sem substituí-la pela fórmula litúrgica corrente.
+- c38: “bien recibido” foi traduzido por “bem recebido”, sem adotar o “empréstimo” da referência inglesa; a imagem do empréstimo foi mantida onde aparece no original.
+- c39, nota 3: “cadahalso” foi traduzido por “estrado”, conforme a cena de espectadores que observam o touro de um lugar elevado.
+- c40: mantida a repetição “tão grandes, tão grandes”; “no hay poco” refere-se à intensidade do amor, não à quantidade de ilusões; “salieron verdaderos” foi explicitado como “se tornaram verdadeiros contemplativos”.
+- Nas notas de variantes, conservaram-se as palavras espanholas quando necessárias à compreensão das emendas; em c40, nota 18, manteve-se a citação editorial interrompida, sem completar o trecho.
 - c41–c42 e prólogo: conservados os 72 parágrafos fornecidos, incluindo títulos e 40 definições de notas editoriais. Não foram acrescentadas notas do tradutor, dada a abundância do aparato.
 - c41: conservados os colchetes de “ente[n]dais” e dos acréscimos de Frei Luís de Leão, além do superlativo por repetição “muito, muito”. “Encogimiento” e “apretura” foram traduzidos por “retraimento” e “constrangimento”, conforme o contexto.
 - c42: a citação de Lucas 22:15 segue o espanhol, “Com desejo desejei cear convosco”, sem acrescentar “Páscoa”, presente apenas na referência inglesa. Conservado o latim do título e traduzida a fórmula espanhola por “mas livrai-nos do mal”.

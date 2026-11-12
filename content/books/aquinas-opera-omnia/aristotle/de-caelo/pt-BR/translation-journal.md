@@ -1,6 +1,239 @@
+# Diário de tradução — Comentário ao Sobre o céu e o mundo (pt-BR)
+
+Fonte: la/, texto latino das edições Leonina / Marietti, reproduzido de aquinas.cc, conforme book.json.
+Destino: pt-BR.
 
 ## Termos
 
+| Latim | Português | Notas |
+|---|---|---|
+| Sententia super De Caelo et Mundo | Comentário ao Sobre o céu e o mundo | Título da obra. |
+| Sanctus Thomas Aquinas | Santo Tomás de Aquino | Nome do autor. |
+| Philosophus | Filósofo | Designa Aristóteles. |
+| scientia naturalis / scientia de natura | ciência natural / ciência da natureza | Conservada a variação do original. |
+| naturalis | estudioso da natureza | Quando substantivado e referente ao investigador. |
+| corpus / magnitudo | corpo / grandeza | Distintos de substância e quantidade. |
+| corpus simplex / corpus mixtum / corpus compositum | corpo simples / corpo misto / corpo composto | Conservadas as distinções vocabulares do latim. |
+| corpus caeleste | corpo celeste | |
+| continuum / continuitas | contínuo / continuidade | |
+| passio | afecção | Em g1-c001, o comentário explicita seus diferentes sentidos. |
+| substantia / quantitas | substância / quantidade | Categorias aristotélicas. |
+| subiectum | sujeito | Aquilo de que se predica algo ou em que algo se encontra. |
+| materia sensibilis | matéria sensível | Conforme o diário do Comentário à Metafísica. |
+| materia / forma | matéria / forma | |
+| actus / potentia | ato / potência | |
+| per se / per accidens | por si / por acidente | Conforme a construção, “propriamente” para o valor de pertença por si. |
+| ratio | noção; razão; argumento | Conforme o contexto: definição, fundamento ou raciocínio. |
+| species | espécie | Mantido inclusive na discussão da integridade do universo. |
+| omne / totum / perfectum | tudo / todo / perfeito | Distinção explicada na nota [^1]; flexões adaptadas à sintaxe. |
+| universum / universitas | universo / totalidade | “Totalidade” designa o caráter de abranger todas as coisas. |
+| motus localis / latio | movimento local / translação | Ambos designam mudança de lugar; “translação” não se restringe ao movimento retilíneo. |
+| motus rectus / motus circularis | movimento retilíneo / movimento circular | |
+| circulatio | rotação | O próprio comentário a define como movimento circular. |
+| medium mundi | centro do mundo | “Meio” quando se opõe a princípio e fim. |
+| sursum / deorsum | para cima / para baixo | |
+| grave / leve | pesado / leve | |
+| gravitas / levitas | peso / leveza | Propriedades da física aristotélica, sem introduzir a noção moderna de gravitação. |
+| secundum naturam | segundo a natureza | |
+| praeter naturam | fora da ordem natural | Conserva a distinção de “contra a natureza” e “acima da natureza”. |
+| contra naturam / supra naturam | contra a natureza / acima da natureza | |
+| simpliciter | em sentido absoluto | Ajustado à sintaxe quando necessário. |
+| generabilis / corruptibilis | gerável / corruptível | |
+| generatio / corruptio | geração / corrupção | |
+| motor | motor | Princípio ativo do movimento. |
+| impressio | ação | Ação exercida por um corpo sobre outro, nos trechos traduzidos. |
+| complementum speciei | completude da espécie | Distingue-se a primeira completude da última, conforme g1-c004, § 37. |
+| elix / linea elica | hélice / linha helicoidal | |
+| excentrici / epicycli | excêntricos / epiciclos | |
+| astrologi | astrônomos | Em g1-c003, § 28, estudam os movimentos celestes. |
+| Aristoteles / Plato / Pythagorici | Aristóteles / Platão / pitagóricos | |
+| Simplicius / Ptolomaeus / Hipparchus | Simplício / Ptolomeu / Hiparco | |
+| Physica / Metaphysica | Física / Metafísica | Títulos de obras. |
+| Praedicamenta / Posteriora | Categorias / Analíticos Posteriores | Títulos de obras. |
+| De generatione / Meteora | Da geração / Meteorológicos | Formas empregadas nas remissões do trecho. |
+| De causa motus animalium | Da causa do movimento dos animais | Conservada a forma do título citado. |
+| illiberalitas / liberalitas / prodigalitas | avareza / liberalidade / prodigalidade | Oposição ética do § 40. |
+| ingenerabilis / ingenitus | ingerável / não gerado | Conservada a diferença entre incapacidade de geração e ausência de geração. |
+| inaugmentabile / inalterabile / impassibile | incapaz de crescer / inalterável / impassível | |
+| augmentum / deminutio / decrementum | crescimento / diminuição / diminuição | “Crescimento” também no sentido amplo explicitado no § 74. |
+| virtus essendi | potência de ser | Distingue-se da potência para o movimento. |
+| privatio / potentialitas | privação / potencialidade | |
+| ubi | lugar | Nas distinções entre mudança segundo o ser e segundo o lugar. |
+| habitus / dispositio / passibilis qualitas | hábito / disposição / qualidade passível | Termos da classificação aristotélica da qualidade. |
+| alteratio passiva / alteratio perfectiva | alteração passiva / alteração perfectiva | Distinção explicitada no § 73. |
+| substantiae separatae | substâncias separadas | |
+| Ioannes grammaticus / Philoponus | João, o Gramático / Filopono | Duas designações do mesmo autor. |
+| Averroes / Anaxagoras | Averróis / Anaxágoras | |
+| Topica / De anima | Tópicos / Da alma | Títulos de obras. |
+| gnomon | gnômon | Figura geométrica explicada na nota [^3]. |
+| contrarietas / contrarium | contrariedade / contrário | Conservada a distinção entre contrariedade e oposição em geral. |
+| latio / motus localis | movimento local | |
+| concavum / convexum / gibbosum | côncavo / convexo / convexo ou abaulado | “Abaulado” conserva a glosa lexical no § 81. |
+| terminus a quo / terminus in quem | termo de partida / termo de chegada | |
+| magnitudo / quantitas / multitudo | grandeza / quantidade / multiplicidade | |
+| probatio ostensiva | prova direta | Em oposição à redução ao impossível. |
+| orbis / firmamentum | esfera / firmamento | Terminologia da cosmologia exposta no comentário. |
+| aspectus trinus / aspectus rectae oppositionis | aspecto trígono / aspecto de oposição direta | |
+| Praedicamenta / Physica / Metaphysica | Categorias / Física / Metafísica | Títulos de obras de Aristóteles. |
+| Aristoteles / Democritus | Aristóteles / Demócrito | |
+| aries / libra / sagittarius | Áries / Libra / Sagitário | Signos do zodíaco. |
+| gravitas / levitas | peso / leveza | Qualidades naturais dos corpos na argumentação cosmológica. |
+| homoeomerum / anomoeomerum | homeômero / anomeômero | Conservadas as glosas “de partes semelhantes” e “de partes dessemelhantes”. |
+| commensuratae / incommensuratae | comensurados / incomensurados | No argumento da Lição 12, conforme o menor meça ou não o maior um número inteiro de vezes. |
+| medium commune | termo médio comum | Termo da demonstração; distinto do centro espacial. |
+| actio / passio | ação / paixão | “Paixão” designa o sofrer uma ação; nas formas verbais, “sofrer ação”. |
+| virtus activa / virtus passiva / virtus motiva | potência ativa / potência passiva / potência motora | |
+| corpus sensibile / corpus mathematicum / corpus intelligibile | corpo sensível / corpo matemático / corpo inteligível | |
+| commutatim | por permutação dos termos | Nas proporções empregadas na Lição 14. |
+| Anaxagoras / Danubius / Aegyptus | Anaxágoras / Danúbio / Egito | |
+| cubitus / cubitale | côvado / de um côvado | Unidade antiga de comprimento. |
+| De generatione | Sobre a geração | Título abreviado conservado conforme a fonte. |
+| rationes logicae / rationes physicae | argumentos lógicos / argumentos físicos | Os primeiros partem de princípios mais comuns ou de proposições prováveis; os segundos, dos princípios próprios da ciência natural. |
+| medium / extremum | centro / extremo | Na determinação espacial dos movimentos e dos lugares naturais. |
+| locus proprius / locus alienus | lugar próprio / lugar alheio | |
+| unum numero / idem specie | numericamente uno / o mesmo em espécie | Conservada a distinção entre unidade numérica e unidade específica. |
+| aequivoce / univoce | equivocamente / univocamente | |
+| Democritus / Leucippus / Hipparchus | Demócrito / Leucipo / Hiparco | |
+| extrusio | expulsão | Deslocamento pelo qual um corpo é empurrado por outro. |
+| prima philosophia | filosofia primeira | Identificada pelo comentário com a metafísica. |
+| subiecto / ratione | quanto ao sujeito / quanto à razão | Distinção explicada na nota [^7]. |
+| corpus continens / corpus contentum | corpo continente / corpo contido | Na definição aristotélica do lugar. |
+| sempiternitas | sempiternidade | |
+| materia signata | matéria designada | Matéria determinada que constitui o princípio de individuação. |
+| simitas / simum | camusidade / camuso | Conforme o diário de *Peri hermeneias*; explicação na nota [^8]. |
+| exemplar / exemplatum | exemplar / reprodução do exemplar | Conforme a construção, “aquilo que reproduz o exemplar”; preservada a relação entre modelo e reprodução. |
+| aeternum / saeculum | eternidade / século | Em g1-c021, “século” designa a duração de uma coisa, não necessariamente cem anos. |
+| latio | translação | Movimento local; mantida a distinção vocabular comentada em g1-c021. |
+| Empedocles / Heraclitus / Alexander / Simplicius | Empédocles / Heráclito / Alexandre / Simplício | Alexandre é o comentador de Afrodísias; formas conforme as obras irmãs. |
+| Orpheus / Hesiodus | Orfeu / Hesíodo | |
+| amicitia / lis | amizade / discórdia | Princípios de reunião e separação na exposição da doutrina de Empédocles. |
+| encyclia / syntagmatica / acroamatica / philosophemata | ensinamentos gerais / ensinamentos coordenados / ensinamentos destinados à audição / ensinamentos filosóficos | Conservadas as formas citadas em itálico na explicação terminológica de g1-c021, § 217. |
+| genitum / ingenitum | gerado / não gerado | Conservada a distinção em relação a “gerável / ingerável”, inclusive na exposição dos diversos sentidos. |
+| generabile / ingenerabile | gerável / ingerável | |
+| corruptibile / incorruptibile | corruptível / incorruptível | |
+| sempiternum / sempiternitas | eterno / eternidade | Neste argumento, referem-se à duração por um tempo infinito. |
+| virtus / potentia | virtude / potência | “Virtude” também no sentido de capacidade natural, conforme o diário de *Da geração e da corrupção*; nota [^10]. |
+| incoeptio / desitio | começo / cessação | Conforme o contexto, “começar a existir / deixar de existir”. |
+| Xenocrates / Democritus / Plato | Xenócrates / Demócrito / Platão | Formas conforme as obras irmãs. |
+| diameter / commensurabilis | diagonal / comensurável | *Diameter*, nos exemplos relativos ao quadrado, designa sua diagonal. |
+| euphtharton / symmetrum | *euphtharton* / *symmetrum* | Conservadas as formas expressamente citadas e glosadas; *symmetrum* traduzido por “comensurável” no enunciado aristotélico. |
+| converti / convertibilitas | ser convertível / convertibilidade | Predicados que se implicam mutuamente. |
+| compossibile / incompossibile | compossível / incompossível | Possível ou impossível em conjunto com outra coisa ou suposição; nota [^11]. |
+| entelechia | em ato | No enunciado aristotélico de g1-c029, conforme a exposição do § 283. |
+| Alexander / Simplicius | Alexandre / Simplício | Formas confirmadas nos diários das obras irmãs. |
+| Iamblichus / Syrianus | Jâmblico / Siriano | Comentadores antigos mencionados no prólogo. |
+| Empedocles / Anaxagoras / Boethius | Empédocles / Anaxágoras / Boécio | |
+| Atlas / Ixion / Iupiter / Iuno | Atlas / Íxion / Júpiter / Juno | |
+| continens / contentum | continente / conteúdo | Em contextos explicativos, “aquilo que contém / aquilo que é contido”. |
+| robur prudens | vigor prudente | Conservada a expressão, cujos dois sentidos o próprio comentário expõe no § 298. |
+| differentiae positionum / partes situales | diferenças de posição / partes quanto à posição | |
+| sursum / deorsum; ante / retro | alto / baixo; frente / dorso | “Para cima / para baixo” quando indicam direção de movimento. |
+| dextrum / sinistrum | direita / esquerda | |
+| virtus | capacidade | Nestes trechos, capacidade operativa das partes, dos corpos ou das substâncias espirituais. |
+| polus Arcticus / Antarcticus | polo Ártico / Antártico | Conservada a nomenclatura da fonte para os polos celestes. |
+| nostra habitabilis | nossa região habitável | |
+| circulus aequinoctialis | círculo equinocial | Também “equador” nas referências abreviadas. |
+| via compositionis / via resolutionis | via da composição / via da resolução | |
+| proportio sesquialtera | proporção sesquiáltera | Razão de três para dois; nota [^16]. |
+| figura plana / superficialis / solida / corporalis | figura plana / superficial / sólida / corpórea | Conservadas as distinções e equivalências explicitadas pelo autor. |
+| convexum / concavum | superfície convexa / superfície côncava | Nas esferas, indicam respectivamente a superfície externa e a interna. |
+| intensio / remissio | intensificação, aumento de velocidade / diminuição de velocidade | No tratamento da regularidade dos movimentos. |
+| virtus motus | máximo de velocidade | Sentido específico definido pelo autor; não substitui “capacidade” para a capacidade operativa do motor. |
+| astrologi | astrônomos | Neste contexto, estudiosos dos movimentos celestes. |
+| eccentrici / epicycli | excêntricos / epiciclos | Nota [^17]. |
+| stella comata | cometa | |
+| vena pulsatilis | veia pulsátil | Conservada a expressão anatômica da fonte. |
+| potentia / impotentia | capacidade / incapacidade | No argumento sobre a conservação ou diminuição da velocidade do movimento. |
+| stella / astrum | astro; estrela | “Astro” no uso geral, que inclui sol, lua e planetas; “estrela” em “estrelas fixas”. |
+| stellae fixae / stellae erraticae | estrelas fixas / astros errantes | Conservada a distinção astronômica da fonte. |
+| orbis | esfera | Corpo celeste que transporta o astro; “círculo” reservado a *circulus*. |
+| volutatio / circumgyratio / regyratio | rolamento / rotação / rotação | Distinção definida pelo próprio comentário segundo a orientação do eixo em relação ao observador. |
+| Alexander / Averroes / Avicenna | Alexandre / Averróis / Avicena | Conservadas as formas portuguesas usuais; Alexandre e Averróis conforme os diários das obras irmãs. |
+| Simplicius / Iamblichus | Simplício / Jâmblico | |
+| per accidens | por acidente | Conforme os comentários irmãos *Sobre a geração e a corrupção* e *Sobre o sentido e o sensível*. |
+| spiritus visibilis | espírito visual | Termo da fisiologia antiga; nota [^19]. |
+| perspectivi | estudiosos da óptica | No argumento sobre a reflexão dos raios. |
+| Themistius / Apuleius | Temístio / Apuleio | |
+| Anaximander / Hipparchus / Ptolomaeus | Anaximandro / Hiparco / Ptolomeu | |
+| astrologia / astrologica scientia | astronomia / ciência astronômica | Neste contexto, estudo das posições, dimensões e movimentos dos astros. |
+| diapason / diapente / sesquialtera | oitava / quinta / sesquiáltera | Intervalos musicais e proporção numérica; nota [^21]. |
+| lunularis / amphicurtos / dichotoma | lunular / anficurta / dicótoma | Conservadas as designações explicadas pelo comentário; “anficurta” corresponde à lua gibosa, nota [^22]. |
+| daemones | demônios | Na exposição da doutrina platônica, seres intermediários; nota [^20]. |
+| diaphanum | diáfano | Empregado também como substantivo no tratamento da luz. |
+| Eudoxus / Callippus | Eudoxo / Calipo | |
+| Archedemus | Arquedemo | |
+| apparentia salvare | explicar os fenômenos observados | Conserva a distinção entre adequação aos fenômenos e verdade das hipóteses. |
+| motus longitudinis / motus latitudinis | movimento de longitude / movimento de latitude | |
+| statio / retrogradatio / directio | estação / retrogradação / movimento direto | Movimentos aparentes dos planetas. |
+| epicyclus / excentricus | epiciclo / excêntrico | “Excêntrico” também como substantivo, para o círculo. |
+| aux / apogaeum | auge / apogeu | Ponto de máxima distância no círculo excêntrico. |
+| nodi / caput et cauda | nodos / cabeça e cauda | |
+| euechia | *euechia* | Conservado o termo, explicado no texto por “boa condição corporal”. |
+| antichthona | *antichthona* | “Contra-Terra”; nota [^24]. |
+| continens / contentum | continente / conteúdo | Também “o que contém” e “o que é contido”, conforme a sintaxe. |
+| Xenophanes Colophonius | Xenófanes de Cólofon | |
+| Thales Milesius | Tales de Mileto | |
+| Anaximenes / Anaxagoras / Anaximander | Anaxímenes / Anaxágoras / Anaximandro | |
+| Empedocles / Democritus | Empédocles / Demócrito | |
+| Alexander / Simplicius | Alexandre / Simplício | |
+| Timaeus / Phaedo | Timeu / Fédon | Títulos dos diálogos; “Timeu” também designa o interlocutor. |
+| latitudo terrae | extensão plana da terra | Evita confusão com a latitude geográfica; *figura lata*: “forma plana”. |
+| similitudo / similis habitudo | igualdade de relação / relação igual | Na explicação do repouso da terra por sua posição equidistante dos extremos. |
+| lis / amicitia | discórdia / amizade | Princípios motores atribuídos a Empédocles. |
+| gyratio / circumgyratio | rotação | “Turbilhão” quando designa o movimento do ar ou dos líquidos no exemplo. |
+| instantia | objeção | No exame dialético das soluções. |
+| clepsydra / cyathus | clepsidra / cíato | Recipientes descritos no próprio comentário. |
+| sphaera recta / sphaera obliqua | esfera reta / esfera oblíqua | Configurações da esfera celeste em relação ao horizonte do observador. |
+| aequinoctialis | equador | Círculo celeste; distinguido do equinócio enquanto ocorrência temporal. |
+| Ptolomaeus / Alfraganus | Ptolomeu / Alfragano | |
+| Coriscus | Corisco | |
+| Melissus / Parmenides / Hesiodus | Melisso / Parmênides / Hesíodo | |
+| Heraclitus Ephesius | Heráclito de Éfeso | |
+| Heracleae columnae | Colunas de Hércules | |
+| passiones / operationes | afecções / operações | Na divisão do objeto da ciência natural. |
+| substantiae supernaturales | substâncias supranaturais | Em g3-c002, substâncias acima da ordem dos corpos naturais sujeitos ao movimento. |
+| ingenitum / generabile | não gerado / gerável | Preservada a distinção entre ausência de geração e capacidade de ser gerado. |
+| gravitas / levitas | peso / leveza | Propriedades dos corpos na física aristotélica. |
+| rarum / spissum | rarefeito / denso | Distinção relacionada à quantidade de matéria sob iguais dimensões. |
+| partes quantitativae / partes essentiales | partes quantitativas / partes essenciais | Distinção entre partes de uma grandeza e princípios constitutivos, como matéria e forma. |
+| secundum naturam / praeter naturam | segundo a natureza / fora da natureza | Mantida a distinção em relação a *contra naturam*, “contrário à natureza”. |
+| amicitia / lis | amizade / discórdia | Princípios de reunião e separação na doutrina de Empédocles. |
+| Leucippus / Democritus / Empedocles | Leucipo / Demócrito / Empédocles | |
+| Theophrastus / Anaxagoras / Anaximander | Teofrasto / Anaxágoras / Anaximandro | |
+| angulus corporalis | ângulo sólido | Termo geométrico. |
+| Praedicamenta / Timaeus | Categorias / Timeu | Títulos das obras de Aristóteles e Platão, respectivamente. |
+| virtus | força | No contexto da ação do motor, especialmente do motor violento; *potentia* permanece “potência”. |
+| generans / genitum | gerador / gerado | Princípio agente da geração e aquilo que dele resulta. |
+| Averroes | Averróis | |
+| propter bene esse | para que se realize melhor | Em oposição à necessidade estrita do ar para a realização do movimento. |
+| elementum / elementatum | elemento / composto de elementos | Conservada a distinção entre o princípio constituinte e aquilo que ele constitui. |
+| homoeomera / homiomera | homeômeros | Corpos de partes semelhantes, conforme a explicação do próprio texto. |
+| resolutio / segregatio | decomposição / separação | Distinção preservada, inclusive quando o comentário observa o uso amplo de “separação”. |
+| congregatio / commassatio | reunião / adensamento | Conforme o contexto da constituição dos corpos. |
+| actu / potentia / virtute | em ato / em potência / virtualmente | Preservadas as diferenças de expressão do original. |
+| Petrus de Alvernia | Pedro de Alvérnia | Autor identificado no início da continuação. |
+| Anaxagoras / Empedocles | Anaxágoras / Empédocles | |
+| Simplicius / Alexander | Simplício / Alexandre | |
+| Thales Milesius / Hippon | Tales de Mileto / Hípon | |
+| Anaximenes / Anaximander | Anaxímenes / Anaximandro | |
+| Hyppasus Metapontinus / Heraclitus Ephesius | Hípaso de Metaponto / Heráclito de Éfeso | |
+| Proclus / Averrois / Euclides | Proclo / Averróis / Euclides | |
+| transfiguratio | mudança de figura | Distinta da transmutação em geral. |
+| scalenon / isocheles / isopleurus | escaleno / isósceles / equilátero | Termos geométricos vertidos para as formas portuguesas correntes; *gradatos*, no mesmo contexto, vertido por “escalenos”. |
+| octoaedron / duodecaedron / icosaedron | octaedro / dodecaedro / icosaedro | |
+| replere locum superficialiter / corporaliter | preencher o lugar no plano / como corpo | Preservada a distinção entre o preenchimento em duas e em três dimensões. |
+| virtutes / passiones / operationes | forças / paixões / operações | Mantidas as distinções e as diferentes interpretações explicitadas pelo comentário. |
+| phlegma / cholera | fleuma / bile | No contexto da matéria próxima dos humores. |
+| grave / leve simpliciter | pesado / leve em sentido absoluto | Distinguidos do pesado e do leve em sentido relativo. |
+| grave / leve in respectu ad alterum | pesado / leve em relação a outro; em sentido relativo | |
+| gravitas / levitas | peso / leveza | Princípios do movimento natural retilíneo. |
+| plenum / vacuum interceptum | pleno / vazio interposto | Na exposição da opinião de Leucipo e Demócrito. |
+| antipos | antípoda | Na explicação etimológica, conservados *antipos*, *anti* e *pes*. |
+| potentia essentialis / potentia accidentalis | potência essencial / potência acidental | Distinção entre a potência para a forma e sua operação e a potência para a operação quando a forma já está em ato. |
+| removens prohibens | aquilo que remove o impedimento | Motor por acidente. |
+| generans | gerador | Agente que dá a forma. |
+| Themistius | Temístio | |
+| Commentator Averrois | Comentador Averróis | |
 | qualitates primae tangibiles | qualidades primeiras tangíveis | Calor, frieza, umidade e secura. |
 | materia prima / materia proxima | matéria primeira / matéria próxima | Distinção aplicada à matéria comum e à matéria determinada pelas formas e qualidades dos elementos. |
 | sesquialtera | sesquiáltera | Proporção de três para dois. |
@@ -10,6 +243,124 @@
 
 ## Decisões
 
+- Tradução feita diretamente do latim fornecido, com um parágrafo de tradução para cada parágrafo-fonte. Conservados títulos, destaques, blocos de citação e subdivisões do comentário; as definições das notas do tradutor são acréscimos identificados.
+- Os lemas aristotélicos retomados por Tomás foram traduzidos, mantendo seus destaques e sua correspondência com os trechos comentados. Conservados *aetherem* e *hypeccauma* como formas lexicais citadas; o primeiro designa o éter, e o segundo é explicado pelo próprio texto como fogo.
+- A distinção entre *praeter naturam*, *contra naturam* e *supra naturam* exige três expressões diferentes: “fora da ordem natural”, “contra a natureza” e “acima da natureza”. O § 47 discute expressamente seus possíveis alcances.
+- Nota [^1], em g1-c002, § 15: explica a distinção entre *omne* e *totum*, que as formas portuguesas de “todo” não reproduzem integralmente.
+- Nota [^2], em g1-c004, § 41: explica a relação etimológica grega entre “perfeito” e “fim”, necessária ao argumento.
+- Em g1-c003, § 28, *ad salvandum ea quae apparent sensibus* foi traduzido por “para explicar aquilo que aparece aos sentidos”, preservando o caráter hipotético atribuído aos modelos astronômicos.
+- Mantidas duas dificuldades do latim fornecido em g1-c004: no § 47, *hic negat* foi traduzido por “aqui o nega”, embora o contexto pareça pedir uma admissão hipotética; no § 48, conservou-se “movimento natural” para *naturalem motum*, sem emenda conjectural.
+- Lapsos tipográficos inequívocos dos títulos e lemas, como *commenum*, *proriam*, *quatour*, *perfectura*, *autera* e *raixtura*, foram entendidos segundo as palavras exigidas pelo contexto, sem reprodução dos erros em português.
+- Em book.json, preservados os campos e valores preexistentes; acrescentadas as entradas pt-BR. Os títulos descritivos do sumário foram traduzidos a partir das entradas inglesas, enquanto os títulos dos capítulos seguem o latim fornecido. A descrição editorial foi traduzida sem corrigir sua afirmação sobre a extensão do comentário.
+- No subtítulo de g1-c005, eliminada a repetição tipográfica inequívoca de *corpus quod circulariter*. No subtítulo de g1-c007, entendidos *negue* e *praecendenti* como *neque* e *praecedenti*.
+- Em g1-c006, § 63, *ubi* foi traduzido por “lugar”; no § 64, conservada a distinção entre mudança de lugar “quanto ao sujeito” e “quanto à razão”.
+- Em g1-c006, § 68, conservada a construção relativa do latim fornecido sobre a qualidade da secura, sem emenda conjectural do antecedente de *cum qua*.
+- Em g1-c007, § 74, conservada a afirmação de que crescimento e diminuição se dão “pela adição”, tal como consta do latim fornecido, sem acrescentar uma referência à subtração.
+- Nota [^3], em g1-c007, § 74: explica o gnômon geométrico e o sentido de igualdade de área na comparação entre triângulo e quadrado.
+- Conservadas em itálico as formas lexicais *aethera*, *thein* e *aethein*. A explicação etimológica do § 77 foi traduzida integralmente, sem nota adicional, pois o próprio comentário a desenvolve.
+- Uniformizadas em maiúsculas as letras que identificam pontos e linhas geométricos, sem alterar suas identidades.
+- Nota [^4], em g1-c008, § 86: esclarece as medidas angulares do aspecto trígono e da oposição, necessárias para acompanhar a comparação.
+- Em g1-c008, § 90, as construções latinas com negações acumuladas foram vertidas segundo o encadeamento explícito da objeção: a identidade do ponto inicial e final excluiria tanto a contrariedade como o próprio movimento.
+- Em g1-c010, conservados o acréscimo editorial “[centro]” junto a G no texto aristotélico e o centro A no comentário do § 103, sem harmonizar a discrepância do texto fornecido.
+- Em g1-c010, conservada a descrição da linha AB como contendo o círculo em seu interior, tanto no texto aristotélico como no § 105, sem emenda geométrica conjectural.
+- Corrigidas na tradução as gralhas inequívocas *naturaet*, *infintum*, *circulo iatum*, *Eritigitur*, *quara* e *miniraum*. Regularizado o destaque tipográfico interrompido do lema inicial do § 107.
+- Em g1-c011, o período elíptico do texto aristotélico sobre o limite da linha foi explicitado conforme a leitura apresentada pelo próprio comentário no § 106: limite de um lado e prolongamento infinito do outro.
+- Nota [^5], em g1-c012, § 116: esclarece o sentido específico de “comensurados” no argumento, em que o menor deve medir o maior um número inteiro de vezes.
+- Em g1-c012, as formulações elípticas do texto aristotélico sobre pesos, distâncias e tempos foram explicitadas conforme as explicações dos §§ 120–123, conservando a proporcionalidade inversa entre pesos e tempos.
+- Corrigidas as gralhas inequívocas *inmedietate*, *quodfertur*, *totura horaoeomerum*, *infinitura*, *nulia* e *idera*. Conservada a leitura editorial entre colchetes [*totura*] nos lemas dos §§ 130 e 135.
+- Em g1-c014, conservados o marcador editorial “Texto 64.” e o destaque de “Seja, pois,” no ponto em que aparecem na fonte, com regularização dos espaços da marcação Markdown.
+- Em g1-c014, conservado o acréscimo editorial “[se, porém, for sensível, estará no tempo]”.
+- Nota [^6], em g1-c014, § 144: assinala a corrupção *sequitur quod ocum*. A tradução marca a lacuna com “[...]”, sem reconstrução conjectural.
+- Nota [^7], em g1-c017, § 172: esclarece a distinção entre “quanto ao sujeito” e “quanto à razão” no exemplo do movimento circular.
+- Em g1-c017, § 165, conservada em latim e em itálico a leitura editorial entre colchetes [*non natum est omnino moveri*].
+- Em g1-c016, conservado entre colchetes o termo editorial “[inconveniente]”, correspondente a [*inconvenienti*], apesar de sua articulação difícil com a frase.
+- Corrigidas na tradução as gralhas inequívocas *esserationem*, *utiqueerat* e *autera*, bem como a discordância *corpora naturalia non movetur* no subtítulo de g1-c018.
+- Nas comparações de movimento de g1-c018, *maior ignis* e *maior terra* foram traduzidos por “uma quantidade maior de fogo” e “uma quantidade maior de terra”, para explicitar a quantidade dos elementos comparados.
+- Nota [^8], em g1-c019, no exemplo da camusidade: explica o termo e sua função na distinção entre forma abstrata e característica inseparável de determinada matéria.
+- Nota [^9], em g1-c021, § 215: esclarece a amplitude semântica de *aiṓn* e o sentido de “século” nesse contexto.
+- Em g1-c021, parágrafo 6, traduzido o sentido inequívoco “fora do céu”, cuja indicação de exterioridade está ausente no trecho latino fornecido; o próprio comentário, § 211, explicita essa leitura.
+- Em g1-c019, § 187, conservada a formulação difícil do parêntese sobre entender o círculo sem matéria sensível, sem emendar o argumento.
+- Corrigidas na tradução as junções tipográficas *deipso*, *tanquamnon*, *vitaet* e *estsic*, bem como a gralha *accitiere* por *accidere*.
+- Nota [^10], em g1-c025, no enunciado sobre a medida da potência: esclarece o sentido amplo de “virtude” e sua ligação com a aplicação às virtudes humanas no § 249.
+- Mantida a repetição “as outras duas opiniões” no subtítulo de g1-c023, presente no texto fornecido.
+- Regularizada a marcação defeituosa de negrito e itálico em *incorruptibile*, g1-c024, parágrafo 49; corrigidas na tradução as gralhas transparentes *praecendti*, *nequecito*, *faciie*, *sempiterum* e *corruptile*.
+- Em g1-c026, *sit existens quod potest non esse* foi traduzido como “suponha-se realizado o poder não existir”, segundo a explicação expressa do próprio comentário no § 257.
+- Conservada a diferença entre “três côvados” no enunciado de g1-c026 e “dois côvados” no comentário, § 254.
+- Em g1-c027, mantidas explicitamente as negações de “sempre existir” e “sempre não existir”; “não sempre não existir” conserva a estrutura lógica comentada pelo autor.
+- Nota [^11], em g1-c029, § 280: esclarece “compossível” e “incompossível”, necessários à distinção entre possibilidade absoluta e possibilidade conjunta.
+- Conservadas em latim as citações destacadas inseridas no discurso do comentador; as notas [^12], [^13] e [^14] oferecem, respectivamente, a tradução da citação da *Física* no prólogo, da frase de Boécio e das palavras atribuídas ao criador no *Timeu*.
+- Em g1-c029, § 284, regularizada a duplicação defeituosa *ponitur proponit*; em g2-c001, corrigidas na tradução as gralhas transparentes *solura* e *serapiternius*.
+- Em g1-c029, conservadas as fórmulas incomuns sobre “o ano anterior” no enunciado, esclarecidas pelo próprio comentário no § 285.
+- Em g2-c001, *finis* permanece “fim” tanto para a cessação do movimento quanto para sua finalidade; “termo” traduz *terminus*.
+- Conservadas as formas gregas transliteradas *thein* e *Theon*, com as glosas dadas pelo autor; preservada também a versão da fábula de Íxion tal como aparece na fonte.
+- Nota [^15], em g2-c002, § 309: esclarece a prioridade fundada numa implicação de existência cuja recíproca não é verdadeira.
+- Nota [^16], em g2-c004, após o § 338: esclarece “proporção sesquiáltera” com a sequência numérica do próprio texto.
+- Em g2-c003, regularizadas na tradução as gralhas transparentes *quaesursum*, *circurafertur*, *sursura* e *autera*; em g2-c004, *privalionem*.
+- Em g2-c003, mantidas as diferentes divisões do céu designadas por “hemisfério superior/inferior” conforme o argumento local, sem uniformizá-las como hemisférios norte e sul.
+- Em g2-c004, *monstra* foi traduzido por “seres monstruosos”, no sentido natural-filosófico explicitado pelos exemplos do autor.
+- Em g2-c005–g2-c006, *continuum* foi traduzido por “contíguo” quando o próprio comentário o explica como união imediata entre corpos distintos; conservado “contínuo” quando se trata da continuidade propriamente dita ou do movimento.
+- Em g2-c008, nota [^17]: esclarece os termos “excêntrico” e “epiciclo” e o sentido histórico de “astrônomos modernos”.
+- Em g2-c008, *virtus* recebe “máximo de velocidade” quando designa expressamente o grau supremo da velocidade; permanece “capacidade” nas referências à capacidade operativa.
+- Em g2-c006, regularizadas na tradução as gralhas transparentes *rninima*, *acqualis*, *diligcntiam* e *nequc*; em g2-c009, *movcri*.
+- Em g2-c009, §§ de origem 24–25, recomposta a palavra *Secundo*, indevidamente dividida como “S” / “ecundo” entre os parágrafos, mantendo os dois parágrafos e a sequência dos argumentos.
+- Em g2-c010–g2-c012, mantida “capacidade” para *virtus* causal ou operativa, conforme o diário desta tradução, inclusive em “capacidade ativa”; *lumen* recebe “luz” no tratamento da iluminação celeste.
+- Em g2-c010, nota [^18]: esclarece a designação latina *stupor*, traduzida por “entorpecedor”, sem acrescentar uma identificação zoológica.
+- Em g2-c011, conservado “Heráclito Pôntico”, correspondente à leitura fornecida *Heraclitus Ponticus*, sem emendar o nome no corpo da tradução.
+- Em g2-c011, mantida a distinção entre “contíguo”, quando o comentário explica o contato entre esferas distintas, e “contínuo”, quando se refere à continuidade de uma mesma esfera.
+- Em g2-c012, nota [^19]: esclarece o sentido fisiológico de “espírito visual”.
+- Em g2-c012, regularizada na tradução a gralha transparente *viiientur*, entendida como *videntur*.
+- Preservadas as explicações físicas e astronômicas históricas, inclusive suas divergências internas, sem substituí-las por explicações modernas.
+- Em g2-c013, nota [^20]: esclarece o sentido platônico de “demônios” no trecho sobre Apuleio.
+- Em g2-c013, preservadas as duas interpretações concorrentes da passagem de *Sobre a alma*, inclusive a diferença entre compreender “sem o sentido” e “por meio do sentido”.
+- Em g2-c014, nota [^21]: registra os termos musicais *diapason* e *diapente*, traduzidos por “oitava” e “quinta”.
+- Em g2-c015, *naturalis* designa o “estudioso da natureza”; *naturalis impressio* recebe “influência natural” na explicação da ação da esfera superior.
+- Em g2-c016, nota [^22]: esclarece “anficurta” por sua equivalência com a designação atual “gibosa”, preservando no texto a terminologia histórica explicada pelo autor.
+- Em g2-c017, nota [^23]: esclarece a inclusão do sol e da lua entre os planetas e a referência histórica de “astrônomos modernos”.
+- Em g2-c017, mantidos os diferentes sistemas astronômicos e os números de movimentos tal como expostos, sem harmonização entre Eudoxo, Calipo e os astrônomos posteriores.
+- Em g2-c018, preservada a interpretação dos astrágalos como objetos de arremesso e a variante *Coos*, sem corrigir a explicação transmitida pelo comentário.
+- Em g2-c018, preservada a diferença entre o lema aristotélico, que chama correr ou emagrecer de fim, e o comentário, que nega serem o fim e os ordena à saúde.
+- Em g2-c020, nota [^24]: traduz o nome *antichthona* por “contra-Terra”, conservando a forma original no texto.
+- Em g2-c020, mantida a dupla interpretação de “cárcere” ou “guarda de Júpiter”, conforme o fogo seja guardado ou exerça a função de guardar.
+- Em g2-c021, preservadas as formas gregas transliteradas e as expressões latinas examinadas como vocábulos; nota [^25] esclarece o sentido dos verbos latinos e da expressão que contém *illomenam*.
+- Em g2-c021, mantido “Heráclito do Ponto” para *Heraclitus Ponticus*, sem corrigir silenciosamente o nome transmitido no texto.
+- Em g2-c022, preservada a comparação incompleta do lema sobre terra e água; nota [^26] remete à explicitação do próprio comentário no n. 501.
+- Em g2-c024, *aeris* no exemplo dos cíatos foi entendido como referente ao bronze, conforme a explicação expressa do comentário; preservada também a descrição do recipiente com orifício.
+- Em g2-c024, mantidas as interpretações distintas de Alexandre e Simplício sobre a discórdia e a amizade, sem harmonizá-las.
+- Em g2-c026, acrescentada a nota [^27] para explicar “esfera reta” e “esfera oblíqua”, termos astronômicos necessários à compreensão do argumento.
+- Em g2-c026, preservada a diferença entre o lema, que fala de lançamento “ao infinito”, e a interpretação do comentário, que fala de lançamentos repetidos infinitas vezes.
+- Em g2-c027, preservado o “[ou]” entre colchetes do lema, correspondente a “[aut]”, sem suprimir a dificuldade de construção.
+- Em g2-c028, mantido *amphicurtos* em itálico; o próprio comentário explica o termo. *Conus*, na descrição das sombras piramidais, foi traduzido por “vértice”.
+- Em g2-c028, preservados todos os valores e equivalências numéricas transmitidos, inclusive a aproximação entre os cálculos de Alfragano e Simplício, sem corrigir as discrepâncias.
+- Em g3-c001, *historia* foi traduzido no lema por “investigação”; no comentário que explica o vocábulo, manteve-se “história (isto é, exposição)”.
+- Em g3-c003, acrescentada a nota [^28] para esclarecer o sentido gramatical de “positivo” no argumento sobre os comparativos.
+- Em g3-c003, preservadas as duas leituras comentadas, “se algo é indivisível” e “se algo é divisível”, sem harmonizar o lema com a alternativa.
+- Preservados os saltos da numeração do comentário: o texto fornecido passa de 562 a 564 e de 566 a 568.
+- Em g3-c004, *bases* foi traduzido por “faces” na descrição dos poliedros; *nunc* foi conservado em itálico e esclarecido por “o agora”.
+- Em g3-c005, *habitus*, em oposição a “privação”, foi traduzido por “posse correspondente”, para explicitar o sentido técnico sem confundi-lo com hábito adquirido.
+- Em g3-c007, mantido “determinado” para *determinatum*, preservando as duas explicações oferecidas pelo comentário: o corpo especificamente tratado e o corpo separado ou dividido.
+- Em g3-c007, *impressio* foi traduzido por “impressão”, conservando a distinção expressa entre comunicar movimento e imprimir no móvel uma força intrínseca.
+- Preservada a passagem explicitamente marcada à continuação de Pedro de Alvérnia, bem como os extensos parágrafos únicos e seus blocos de citação.
+- Mantidos os asteriscos avulsos dos parágrafos 6 e 9, sem inventar definições de notas ausentes do trecho fornecido.
+- Acrescentada a nota do tradutor `[^1]` para assinalar duas aparentes falhas textuais do parágrafo 59: *infinitae*, em um argumento que exige diferenças finitas, e *simplex et compositus*, aplicado ao movimento do corpo simples. As leituras fornecidas foram conservadas.
+- Acrescentada a nota do tradutor `[^2]` para assinalar *indivisibilis* no parágrafo 60, dentro do argumento que examina a divisibilidade do fogo; conservada a leitura fornecida.
+- Preservada, no parágrafo 59, a expressão problemática “finito quanto à espécie a respeito do infinito quanto à forma”, sem emenda conjectural. Conservada também a glosa associada a “abderitas”, embora sua conexão com o nome seja obscura.
+- Conservados em latim e em itálico *pansperma*, *inflata* e *parva decisione*, acompanhados das explicações que o próprio texto oferece.
+- Em *ad aliquid*, empregada a fórmula “em relação a algo”, mantendo o sentido categorial e os exemplos do argumento.
+- Mantidos os dois extensos parágrafos únicos e seu formato de citação.
+- Acrescentada a nota do tradutor `[^3]` para assinalar a redação defeituosa sobre a terra e seus princípios próximo e remoto, conservando a ordem da enumeração recebida.
+- Acrescentada a nota do tradutor `[^4]` para assinalar *per naturam*, conservado como “por natureza”, embora o argumento trate de excluir uma ação violenta.
+- Acrescentada a nota do tradutor `[^5]` para assinalar as aparentes falhas textuais dos cálculos geométricos: “seis ângulos”, “três de um reto” e construções truncadas na descrição da pirâmide. Não se corrigiram as demonstrações.
+- Conservadas outras dificuldades do texto recebido, entre elas “na primeira parte, apresenta a segunda”, a conclusão negativa sobre o aquecimento dos corpos naturais por sua materialidade e as formulações problemáticas relativas à decomposição da terra.
+- Conservados em itálico *ejusdem tribus* e *omophilon*, acompanhados das explicações oferecidas pelo próprio original.
+- Mantidos o título e o único parágrafo extenso em formato de citação.
+- Acrescentada a nota do tradutor `[^6]` para assinalar *impossibile moveri*, conservado como “ser impossível mover-se”, apesar da definição imediatamente anterior.
+- Acrescentada a nota do tradutor `[^7]` para assinalar a redação aparentemente truncada *sursum ultimum caeli undique deorsum*, sem completar o texto por conjectura.
+- Conservadas outras aparentes falhas do texto recebido: *mistus* como “o misto”, o movimento “para cima” no exemplo das quantidades de ouro, *planum* como “plano”, a referência aos “indivisíveis no misto” e a formulação incompleta sobre a quantidade de fogo e os sólidos contidos.
+- Conservados *icocedron*, *magis noviter*, *ad eas* e *paucis magnis* onde o comentário os acompanha de explicação; as variantes sem glosa dos nomes das figuras foram vertidas pelas formas portuguesas estabelecidas.
+- Mantido o único parágrafo extenso como um único bloco de citação.
+- Conservadas as leituras aparentemente problemáticas do texto recebido, inclusive a afirmação de que as formas substanciais se seguem à forma do pesado e do leve, “um único gerador é a forma do gerado” e *removens proximum* como “aquilo que remove proximamente”.
+- Conservados os lemas latinos em itálico acompanhados de glosa: *secundum speciem*, *absolutorum*, *materia*, *endelechia* e *a principio*.
+- Acrescentada a nota do tradutor `[^8]` para assinalar *per se moveri* na frase final, sem substituir a leitura recebida por *per accidens moveri*.
 - Conservado o único parágrafo de origem como um único bloco de citação, com as notas do tradutor após ele.
 - Mantidos os lemas latinos acompanhados de glosa, entre eles *in genus respiciens*, *plumbo mineo*, *unde et quo*, *latas* e *una materia*; traduzidas as proposições meramente destacadas em itálico e os dois lemas finais em negrito e itálico.
 - Acrescentada a nota `[^9]` para explicitar que a identificação da mina com o óbolo pertence ao texto recebido.

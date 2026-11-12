@@ -1,6 +1,509 @@
+# Diário de tradução — Comentário à Metafísica (pt-BR)
+
+Fonte: la/; texto latino das edições Leonina / Marietti, em domínio público, reproduzido de aquinas.cc, conforme book.json. Referência auxiliar: tradução inglesa de John P. Rowan (Henry Regnery, Chicago, 1961), revista pelo Aquinas Institute.
+Destino: pt-BR.
 
 ## Termos
 
+| Latim | Português | Notas |
+|---|---|---|
+| Sanctus Thomas Aquinas | Santo Tomás de Aquino | Conforme as obras irmãs. |
+| Prooemium / prooemium / Lectio N / Liber N | Prólogo / proêmio / Lição N / Livro N | “Prólogo” para a introdução de Tomás; “proêmio” para a de Aristóteles. |
+| Philosophus / Aristoteles | o Filósofo / Aristóteles | Conforme as obras irmãs. |
+| Socrates / Protagoras / Megarici | Sócrates / Protágoras / os megáricos | |
+| Politica / Metaphysica | *Política* / *Metafísica* | Títulos conforme as obras irmãs. |
+| sapientia / beatitudo | sabedoria / bem-aventurança | |
+| scientia divina / theologia / prima philosophia | ciência divina / teologia / filosofia primeira | Nomes da mesma ciência no prólogo. |
+| scientia naturalis | ciência natural | Conforme as obras irmãs. |
+| ens / esse / non ens / non esse | ente / ser / não ente / não ser | Preservada a distinção entre ente e ser. |
+| ens commune / ens in quantum ens | ente comum / ente enquanto ente | |
+| unum / multa | uno / múltiplo | Como princípios universais; “um só” e “muitos” conforme a construção. |
+| substantia / substantiae separatae / intellectuales substantiae | substância / substâncias separadas / substâncias intelectuais | |
+| intelligentiae / intellectus / intelligibile | inteligências / intelecto / inteligível | “Inteligências” no prólogo designa substâncias imateriais. |
+| materia / materia signata / materia sensibilis / forma | matéria / matéria assinalada / matéria sensível / forma | |
+| subiectum | sujeito | Tanto o sujeito de uma ciência como o substrato de uma determinação. |
+| passiones (de uma ciência) | propriedades | Em g1-pr [10], determinações investigadas acerca do sujeito. |
+| praedicamentum / categoria | predicamento / categoria | Conservada a variação da fonte. |
+| accidens / genus / species | acidente / gênero / espécie | Conforme as obras irmãs. |
+| potentia / actus / operatio | potência / ato / operação | |
+| actu / in potentia | em ato / em potência | Conforme as obras irmãs. |
+| potentia activa / passiva / rationalis / irrationalis | potência ativa / passiva / racional / irracional | Conforme as obras irmãs. |
+| potentia faciendi / patiendi | potência de fazer / de padecer | “Produzir” quando o contexto destaca o efeito produzido. |
+| agens / patiens / activum / passivum | agente / paciente / ativo / passivo | |
+| passio / pati / impassibilitas | paixão / padecer / impassibilidade | “Sofrer” quando favorece a clareza sem alterar o sentido. |
+| impotentia / impossibile / possibile | impotência / impossível / possível; capaz | “Capaz” quando designa o sujeito dotado de potência. |
+| habitus / privatio | hábito / privação | Conforme as obras irmãs; “hábito” em oposição a privação não se restringe a costume adquirido. |
+| ratio | noção; razão; argumento | “Noção” para conteúdo inteligível ou definidor; demais sentidos segundo o contexto. |
+| definitio / terminus | definição / definição; termo | *Termini* em g10-c001 [9] designa definições. |
+| motus / transmutatio / mutatio / generatio / corruptio | movimento / transmutação / mudança / geração / corrupção | Conforme as obras irmãs. |
+| resolutio / via resolutionis | resolução / via da resolução | Conservada a convenção do comentário à Ética. |
+| per se / secundum se / per accidens / secundum accidens | por si / por si / por acidente / por acidente | Conforme as obras irmãs. |
+| per prius / per posterius | primariamente / secundariamente | Prioridade explicativa, não necessariamente temporal. |
+| aequivocatio / analogia | equivocidade / analogia | |
+| endelechia | enteléquia | Forma portuguesa adotada nas obras irmãs. |
+| appetitus / electio | apetite / escolha | |
+| prohaeresim / prohaeresis | *prohaeresim* / *prohaeresis* | Preservadas as formas transliteradas da fonte; o próprio comentário fornece a glosa “escolha”. |
+| ars / scientia factiva | arte / ciência produtiva | “Arte” no sentido de saber fazer. |
+| ars aedificativa / ars medica / medicina | arte de construir / arte médica / medicina | |
+| aedificator / tibicinator | construtor / flautista | |
+| aptum natum | naturalmente apto | |
+| diametrum / commensurari | diagonal / ser comensurável | No exemplo do quadrado. |
+| antecedens / consequens / conditionalis | antecedente / consequente / condicional | |
+| ibi / Deinde cum dicit / Circa primum duo facit | onde diz / Em seguida, quando diz / Acerca do primeiro, faz duas coisas | Conforme as obras irmãs. |
+| et cetera (após lema) | etc. | Conforme as obras irmãs. |
+| Mercurius / Paxonas | Mercúrio / Páxonas | Conservada a forma nominal de Páxonas transmitida no latim, sem identificação conjectural. |
+| Heraclitus / Empedocles / Plato | Heráclito / Empédocles / Platão | Conforme os diários das obras irmãs. |
+| Physica | *Física* | Título da obra de Aristóteles. |
+| felicitas / felix | felicidade / feliz | Conforme as obras irmãs; distinto de *beatitudo*, “bem-aventurança”. |
+| speculari / speculatio / scientia speculativa | contemplar / contemplação / ciência especulativa | Conservado “considerar” para *considerare*. |
+| ecininum / denominative | *ecininum* / denominativamente | Mantida a transliteração da fonte; o próprio comentário explica a predicação denominativa. |
+| hoc aliquid | algo determinado | Fórmula que designa o sujeito individual, em contraste com o universal. |
+| materia prima / mixtum | matéria primeira / composto | |
+| sempiterna / sempiternus | coisas sempiternas / sempiterno | |
+| citharaedus / citharizare | citarista / tocar cítara | |
+| diagrammata | figuras geométricas | O comentário esclarece o sentido de traçados geométricos. |
+| fortuna / casus | fortuna / acaso | Conservada a distinção terminológica da fonte. |
+| quod quid est / quidditas | o que a coisa é / quididade | A primeira fórmula segue o diário do *De sensu*; ajustada ao referente quando necessário. |
+| De anima / Metaphysica | *De anima* / *Metafísica* | Convenções das obras irmãs: título latino do primeiro tratado e título português do segundo. |
+| diesis / dieses | diese / dieses | Conforme o diário do *De sensu*; conservadas as explicações distintas dadas pelo próprio comentário. |
+| unum / unitas / indivisibile | uno / unidade / indivisível | “Um” nos exemplos numéricos e de contagem. |
+| compositio / divisio | composição / divisão | Conservadas tanto no plano das coisas quanto no das operações intelectuais. |
+| dictio / affirmatio / repraesentatio | dicção / afirmação / representação | Mantida a distinção terminológica entre o lema e a explicação em g10-c011. |
+| metrum / mensura | medida | “Metro” em **1951**, no contexto da métrica poética. |
+| astrologia | astronomia | Nestes trechos, estudo dos movimentos celestes e de sua medição. |
+| Protagoras / Protagorici | Protágoras / seguidores de Protágoras | |
+| gravitas / velocitas | peso / velocidade | No contexto acústico, *gravitas* corresponde ao grave dos sons. |
+| suppositum | supósito | Sujeito individual; distinto da diversidade temporal. |
+| ens / esse | ente / ser | Conservada a distinção entre o ente e o ser, inclusive na discussão da predicação. |
+| multitudo / pluralitas | multiplicidade / pluralidade | Mantida a distinção vocabular do original. |
+| idem / diversum / differens | o mesmo / diverso / diferente | “Diversidade” e “diferença” permanecem distintas no argumento. |
+| contrarietas / contradictio | contrariedade / contradição | Espécies distintas de oposição. |
+| habitus / privatio | posse / privação | “Posse” na oposição à privação; inclui a presença da forma no sujeito. |
+| hoc aliquid / quale quid | um “isto” / “algo de certa qualidade” | Fórmulas técnicas na distinção entre substância subsistente e natureza comum. |
+| praedicamentum / categoria | categoria | *Praedicamenta*, como título da obra, é traduzido por *Categorias*. |
+| susceptivum / susceptibile | sujeito receptor | Também “aquilo que é capaz de receber”, conforme a construção. |
+| convertitur cum ente | converte-se com o ente | Fórmula técnica para a reciprocidade de extensão entre uno e ente. |
+| tetragonum / isagonum | quadrilátero / equiângulo | Conservada a explicação do comentário: figura de quatro ângulos; igualdade dos ângulos. |
+| Empedocles / Diogenes / Melissus / Avicenna | Empédocles / Diógenes / Melisso / Avicena | |
+| Pythagorici / Platonici / Plato / Socrates | pitagóricos / platônicos / Platão / Sócrates | |
+| Physica / Topica | *Física* / *Tópicos* | Títulos portugueses das obras de Aristóteles. |
+| utrum | se | Nas perguntas alternativas, traduzido por “se”, com explicitação sintática quando necessária. |
+| multum / multa / paucum / pauca | muito / muitos / pouco / poucos | Conservada a distinção entre singular e plural, central ao argumento de g11-c008. |
+| paucitas | escassez | Multiplicidade que apresenta deficiência; distinta da pequenez (*parvitas*). |
+| mensura / metrum / mensurabile | medida / padrão / mensurável | Distinção vocabular conservada nos lemas e no comentário. |
+| scibile | cognoscível | Aquilo que pode ser objeto de ciência. |
+| disgregativum / congregativum visus | dispersivo / concentrador da visão | Vocabulário da explicação das cores; conservado também nas diferenças substantivadas. |
+| species specialissimae | espécies especialíssimas | Espécies últimas, que já não se dividem em outras espécies. |
+| individua | indivisos; indivíduos | “Indivisos” quando designa espécies últimas; “indivíduos” quando designa particulares. |
+| Cleon / Pythagoras / Anaxagoras / Heraclidae | Cléon / Pitágoras / Anaxágoras / heráclidas | |
+| ratio | noção; razão | “Noção” para o conteúdo inteligível ou definidor; “razão” para o fundamento explicativo e em fórmulas como “razão de bem”. |
+| passio / propriae passiones | paixão / paixões próprias | Vocabulário técnico das determinações que pertencem a um sujeito; “paixão” também designa o sofrer uma ação. |
+| materia signata / materia individuata | matéria assinalada / matéria individuada | Conservada a distinção das expressões latinas. |
+| corruptibile / incorruptibile | corruptível / incorruptível | |
+| potentia / impotentia / actus | potência / impotência / ato | |
+| ens / unum / ens per se | ente / uno / ente por si | “Unidade” quando o contexto se refere à unidade numérica ou a seu princípio. |
+| hoc aliquid | algo determinado | Expressão técnica para uma realidade determinada, particularmente a substância individual. |
+| substantiae separatae / secundae substantiae | substâncias separadas / substâncias segundas | |
+| species | espécie | Mantido também no vocabulário platônico, no qual pode designar a ideia separada. |
+| auton / synolon | *auton* / *synolon* | Conservadas as transliterações gregas; *synolon* é explicado no próprio comentário como o todo composto. |
+| Callias / Socrates / Plato / Platonici | Cálias / Sócrates / Platão / platônicos | |
+| Physica / naturales | Física / filósofos da natureza | “Físicos” nos lemas em que a designação abreviada corresponde ao original. |
+| univoca / aequivoca / analoga | unívocos / equívocos / análogos | Conservado o vocabulário técnico da predicação. |
+| medicativum / salubre | médico / saudável | Predicações por referência à ciência médica e à saúde. |
+| habitus / dispositio / privatio | hábito / disposição / privação | |
+| principia demonstrationis / per se nota | princípios da demonstração / evidentes por si | |
+| demonstratio simpliciter / demonstratio ad hominem | demonstração em sentido absoluto / demonstração *ad hominem* | A segunda parte de concessões do interlocutor. |
+| contradictoria / contraria | contraditórios / contrários | Conservada a distinção lógica. |
+| propositio copulativa | proposição copulativa | Proposição composta por conjunção. |
+| sensus communis | sentido comum | Faculdade sensitiva interna; não significa bom senso. |
+| Heraclitus / Protagoras / Anaxagoras / Euclides | Heráclito / Protágoras / Anaxágoras / Euclides | |
+| scientia activa / factiva / operativa | ciência ativa / produtiva / operativa | Conservada a distinção entre agir e fazer; “operativa” abrange ambas. |
+| scientia speculativa / doctrinalis | ciência especulativa / doutrinal | |
+| quod quid est / quidditas | quididade | |
+| simum / simitas / concavum | chato / achatamento / côncavo | “Chato” refere-se ao nariz no exemplo da definição que inclui matéria sensível. |
+| secundum esse / secundum rationem | segundo o ser / segundo a noção | Distinção entre separação real e separação na consideração intelectual. |
+| ens per se / ens per accidens | ente por si / ente por acidente | |
+| fortuna / casus | fortuna / acaso | Conservada a distinção técnica. |
+| eufortunium / infortunium | prosperidade / infortúnio | Grande bem ou grande mal fortuito. |
+| motus / permutatio | movimento / mudança | |
+| actus existentis in potentia inquantum huiusmodi | ato daquilo que existe em potência enquanto tal | Fórmula da definição do movimento. |
+| motivum / movens / mobile / motum | aquilo que é capaz de mover / motor / móvel / movido | Distinguidas a capacidade de mover e a atividade efetiva do motor. |
+| actio / passio | ação / paixão | Categorias relativas ao motor e ao móvel. |
+| praedicamentum ubi | categoria do lugar | Distinta do lugar enquanto quantidade. |
+| Plato / Pythagorici / Saturnus | Platão / pitagóricos / Saturno | |
+| Posteriora / Elenchi / Physica | Analíticos posteriores / Refutações sofísticas / Física | Títulos das obras de Aristóteles. |
+| magnitudo / quantitas / quantum | grandeza / quantidade / dotado de quantidade | Conforme o diário de *De generatione et corruptione*; adaptado sintaticamente quando necessário. |
+| generatio / corruptio / alteratio | geração / corrupção / alteração | Conforme as obras irmãs. |
+| generatio simplex / generatio simpliciter | geração simples / geração em sentido absoluto | Conservada a distinção verbal. |
+| simpliciter / secundum quid | em sentido absoluto / sob certo aspecto | Conforme a distinção adotada nas obras irmãs. |
+| infinitum actu / infinitum in potentia | infinito em ato / infinito em potência | |
+| appositio / ablatio | adição / subtração | Modos do infinito em potência. |
+| passibilis qualitas | qualidade passível | Conforme o diário de *De generatione et corruptione*. |
+| locus naturalis / connaturalis | lugar natural / conatural | |
+| gravitas / levitas | peso / leveza | Propriedades dos corpos na física aqui exposta. |
+| quies / immobile | repouso / imóvel | |
+| subiectum / non subiectum | sujeito / não sujeito | Na divisão das mudanças, designam o que se exprime afirmativamente e negativamente. |
+| quando / situs / habere | quando / posição / ter | Categorias. |
+| De caelo / De caelo et mundo | *De caelo* / *De caelo et mundo* | Títulos mantidos em latim, conforme as obras irmãs. |
+| Heraclitus | Heráclito | |
+| simul secundum locum | juntos segundo o lugar | Coincidência no lugar próprio. |
+| consequenter / habitum / continuum | consecutivo / contíguo / contínuo | Distinção entre sucessão sem intermediário do mesmo gênero, contato e unidade do limite. |
+| connascentia | união natural | No contexto da continuidade. |
+| ens / esse | ente / ser | Conservada a distinção entre aquilo que tem ser e o próprio ser. |
+| substantia / accidens / privatio | substância / acidente / privação | |
+| materia prima / materia ultima | matéria primeira / matéria última | Conservada a distinção verbal; “última” depende do contexto da análise. |
+| species | espécie | Mantido também quando designa a forma ou a ideia platônica; as explicações do autor esclarecem o sentido. |
+| mathematica | entes matemáticos | |
+| hoc aliquid | algo determinado | Designação de uma realidade determinada. |
+| ratio | razão | Nos contextos de constituição formal e de forma presente no intelecto. |
+| latio | translação | Movimento segundo o lugar. |
+| fortuna / casus | fortuna / acaso | Conservada a distinção explicitada em g13-c003. |
+| intellectus possibilis / intellectus agens | intelecto possível / intelecto agente | |
+| anima intellectiva | alma intelectiva | |
+| Averrois / Callias | Averróis / Cálias | |
+| Anaxagoras / Anaximander / Democritus / Empedocles | Anaxágoras / Anaximandro / Demócrito / Empédocles | |
+| amicitia / lis | amizade / discórdia | Princípios de Empédocles. |
+| actus / potentia | ato / potência | |
+| sempiternus / sempiternitas / perpetuitas | eterno / eternidade / perpetuidade | |
+| movens / motum | motor / movido | Nas construções verbais, “aquilo que move” e “aquilo que é movido”. |
+| ad aliquid / relativa | relativos | Categoria da relação. |
+| analogia / proportio | analogia / proporção | Conservada a glosa do autor que aproxima os termos. |
+| appetitus / desiderium | apetite / desejo | Mantida a distinção verbal. |
+| Peleus / Achilles | Peleu / Aquiles | |
+| Leucippus / Orpheus / Ptolomaeus | Leucipo / Orfeu / Ptolomeu | |
+| obliquus circulus / zodiacus | círculo oblíquo / zodíaco | |
+| endelechia | enteléquia | Conservado o original em itálico quando seguido da glosa do autor. |
+| appetibile / desiderabile / voluntabile | apetecível / desejável / objeto da vontade | Preservada a distinção dos termos na exposição sobre o primeiro motor. |
+| intelligentia | intelecção / inteligência | “Intelecção” para o ato de entender; “inteligência” para a substância separada, especialmente na exposição de Avicena. |
+| coelementatio | série | Ordenação dos inteligíveis e dos apetecíveis em g13-c007. |
+| primum mobile | primeiro móvel | Distinto do primeiro motor. |
+| deductio | modo de vida | Em g13-c008, com a glosa do autor: disposição agradável. |
+| intellectus agens / intellectus possibilis | intelecto agente / intelecto possível | |
+| species intelligibilis | espécie inteligível | |
+| astrologia / astrologi | astronomia / astrônomos | Designação medieval da ciência dos astros; mantidas integralmente as atribuições causais aos planetas. |
+| sphaera / orbis | esfera / orbe | |
+| sphaerae ferentes, deferentes / revolventes | esferas deferentes / reconducentes | As segundas compensam movimentos transmitidos pelas superiores. |
+| Eudoxus / Calippus / Simplicius / Avicenna | Eudoxo / Calipo / Simplício / Avicena | |
+| Saturnus / Iupiter / Mars / Venus / Mercurius | Saturno / Júpiter / Marte / Vênus / Mercúrio | Nomes dos planetas. |
+| quadripartitum | Quadripartido | Título da obra de Ptolomeu. |
+| intelligentia intelligentiae | intelecção da intelecção | Fórmula relativa ao conhecimento que o primeiro motor tem de si mesmo. |
+| scientia factiva / scientia speculativa | ciência produtiva / ciência especulativa | |
+| bonum ordinis | bem da ordem | Distinto do bem separado, que é o primeiro motor. |
+| communicare ad totum | contribuir para o todo | Na explicação da ordem do universo. |
+| principatus / princeps | governo / governante | Na conclusão sobre a unidade da ordem universal. |
+| ens | ente | Distingue-se de *esse*, “ser”. |
+| sapientia / scientia | sabedoria / ciência | |
+| ars / artifex | arte / artífice; quem possui uma arte | “Arte” conserva a amplitude técnica do latim, não se restringindo às belas-artes. |
+| experimentum / experientia | experiência | Ambos designam o conhecimento adquirido a partir de lembranças de casos singulares. |
+| architector / architectonicus | mestre de ofício / arquitetônico | Designa quem dirige uma atividade por conhecer sua causa ou seu fim; não se restringe à arquitetura. |
+| manu artifex | trabalhador manual | |
+| sensus | sentido; sensação | “Sentido” para a faculdade; “sensação” para o conhecimento sensitivo conforme o contexto. |
+| species coloris | espécie da cor | Forma sensível recebida pela visão. |
+| phantasia / imaginatio | imaginação | |
+| vis cogitativa / ratio particularis | faculdade cogitativa / razão particular | |
+| intentio individualis | intenção individual | Conteúdo apreendido pela cogitativa. |
+| collatio | comparação | Confronto cognoscitivo de conteúdos apreendidos. |
+| prudentia | prudência | Nos animais irracionais, empregada analogicamente para a estimativa natural. |
+| recta ratio agibilium / recta ratio factibilium | reta razão do agir / reta razão do fazer | Distingue prudência e arte. |
+| intellectus | intelecto | Também designa o hábito dos primeiros princípios em g2-c001 [113]. |
+| habitus | hábito | Disposição estável, distinta do costume. |
+| quia / propter quid | que algo é assim / por que é assim; o porquê | Distinção entre conhecer o fato e conhecer sua causa. |
+| universale / singulare | universal / singular | |
+| per se / per accidens | por si / por acidente | |
+| famulans scientia | ciência subordinada | |
+| subiectum scientiae | sujeito da ciência | |
+| Polus / Callias | Polo / Cálias | |
+| Socrates / Plato / Avicenna | Sócrates / Platão / Avicena | |
+| Tullius | Cícero | Forma portuguesa usual do nome do autor. |
+| De anima / Physica / Ethica | Sobre a alma / Física / Ética | Títulos das obras aristotélicas. |
+| Posteriora / Meteora / De sensu et sensato | Analíticos posteriores / Meteorológicos / Sobre o sentido e o sensível | |
+| scientia activa / speculativa | ciência prática / especulativa | |
+| causa materialis / formalis / efficiens / finalis | causa material / formal / eficiente / final | |
+| quod quid erat esse | essência | |
+| simpliciter / secundum quid | absolutamente / sob certo aspecto | Na distinção entre geração ou corrupção absoluta e mudança acidental. |
+| generatio / corruptio | geração / corrupção | |
+| congregatio / disgregatio | agregação / separação | Também “reunião” conforme a construção. |
+| amor / amicitia / odium / lis | amor / amizade / ódio / discórdia | Conservadas as alternâncias terminológicas do latim. |
+| casus / fortuna | acaso / fortuna | |
+| humor / humidum | o úmido / o úmido; umidade | Conforme designe o princípio material ou a condição úmida. |
+| diameter | diagonal | Nos exemplos relativos ao quadrado. |
+| commensurabilis / incommensurabilis | comensurável / incomensurável | |
+| Thales / Anaximander / Anaximenes | Tales / Anaximandro / Anaxímenes | |
+| Anaxagoras / Empedocles / Heraclitus | Anaxágoras / Empédocles / Heráclito | |
+| Parmenides / Melissus / Diogenes | Parmênides / Melisso / Diógenes | |
+| Hyppasus / Hyppon / Hermotimus | Hípaso / Hípon / Hermótimo | |
+| Pythagoras / Simonides / Hesiodus | Pitágoras / Simônides / Hesíodo | |
+| Orpheus / Museus / Linus / Perseus | Orfeu / Museu / Lino / Perseu | |
+| Oceanus / Thetis / Styx | Oceano / Tétis / Estige | |
+| Pittacus / Solon / Chilon / Periander / Cleobulus / Bias | Pítaco / Sólon / Quílon / Periandro / Cleóbulo / Bias | |
+| Topica | Tópicos | Obra aristotélica. |
+| dignitates | axiomas | Em g2-c006 [31]. |
+| Leucippus / Democritus / Xenophanes | Leucipo / Demócrito / Xenófanes | |
+| Alcmaeon Crotoniates | Alcmeão de Crotona | |
+| Cratylus / Archelaus / Architas Tarentinus | Crátilo / Arquelau / Arquitas de Tarento | |
+| plenum / inane / vacuum | pleno / vazio / vazio | Na exposição dos atomistas. |
+| figura / ordo / positio | figura / ordem / posição | Conservados *rhysmos*, *diathyge* e *trope* onde o texto explica os termos. |
+| antictona | Antíctone | Conservada a explicação cosmológica dada no próprio comentário. |
+| par / impar; finitum / infinitum | par / ímpar; finito / infinito | |
+| passio / habitus | afecção / hábito | No contexto numérico, *passio* também se traduz por “propriedade”. |
+| unum / unitas / dualitas | uno / unidade / dualidade | |
+| virtute | virtualmente | Na inclusão das diferenças numéricas na unidade. |
+| idea / species | ideia / espécie | Mantida a distinção terminológica na exposição de Platão. |
+| participatio / imitatio | participação / imitação | |
+| materia signata | matéria assinalada | Princípio individuante. |
+| unum quod convertitur cum ente | uno que é convertível com o ente | Distinto do uno que é princípio do número. |
+| numerare | medir | Na definição dos números primos e compostos. |
+| echimagium | molde | O próprio comentário o explica como exemplar. |
+| De generatione / Physica | Da geração / Física | Obras aristotélicas. |
+| quod quid erat esse / quod quid est / quidditas | essência / quididade / quididade | Mantidas as glosas do comentário quando distinguem a forma e o princípio de conhecimento. |
+| naturales / physiologi | filósofos da natureza | Conforme o contexto, *naturaliter* corresponde a “segundo a filosofia da natureza”. |
+| forma partis / forma totius | forma da parte / forma do todo | Distinção explicada na nota do tradutor em g2-c012 [34]. |
+| concretio / inspissatio / discretio / rarefactio | condensação / adensamento / separação / rarefação | Na exposição da transformação dos elementos. |
+| materia prima / mixtum / miscibilia | matéria primeira / corpo misto / elementos misturáveis | *Mixtum* designa o corpo resultante da mistura. |
+| simpliciter / per accidens | de modo absoluto / por acidente | “Simplesmente” apenas quando o contexto não exigir a oposição técnica. |
+| astrologia / scientia media | astronomia / ciência intermediária | No contexto do estudo dos movimentos celestes. |
+| magnitudo | grandeza | Quantidade contínua; distinta do número. |
+| praedicatio univoca / denominativa | predicação unívoca / denominativa | |
+| tertius homo | terceiro homem | Conservadas as três interpretações apresentadas pelo comentário. |
+| aequivoca a casu / multiplicitas analogiae | equívocos por acaso / multiplicidade de analogia | |
+| Hesiodus / Callias | Hesíodo / Cálias | |
+| De anima / Elenchi | Da alma / Refutações sofísticas | Obras aristotélicas. |
+| species / exemplar / imago | espécie / exemplar / imagem | “Espécie” conserva o uso platônico para as ideias separadas; “forma” traduz *forma*. |
+| autosanthropos | *autosan­thropos* / homem em si / homem por si | Conservada a transliteração grega; “homem por si” traduz a glosa *per se homo*. |
+| ratio / proportio numeralis | razão / proporção numérica | Nos argumentos matemáticos, “razão” tem sentido proporcional. |
+| phantasma | fantasma | Representação sensível da imaginação; esclarecido na nota em g3-c001 [44]. |
+| resolutio / compositio | resolução / composição | Vias que procedem, respectivamente, do composto ao simples e do simples ao composto. |
+| nycticorax / vespertilio | coruja / morcego | Conservada a distinção do latim na comparação com a luz do dia. |
+| Timotheus / Phrynis / Boetius / Averroes | Timóteo / Frínis / Boécio / Averróis | |
+| Phaedo / De duabus naturis | Fédon / Das duas naturezas | |
+| philosophia prima / philosophus primus | filosofia primeira / filósofo primeiro | |
+| quod quid erat esse | essência | Fórmula técnica ligada à causa formal e à definição. |
+| causae moventes | causas motoras | |
+| individuum | indivisível | Em g3-c004, conserva o sentido discutido no comentário, distinto de “indivíduo singular”. |
+| species specialissima | espécie especialíssima | Espécie que já não se divide por diferenças essenciais. |
+| acribologia / micrologia | exatidão / minúcia | Mantidas as explicações dadas pelo próprio comentário. |
+| consuetudo / habitus | costume / hábito | Conservada a distinção entre o costume e o hábito que dele se gera. |
+| per se notum / per se accidens | evidente por si / acidente por si | |
+| Posteriora / Physica / Ethica | Analíticos posteriores / Física / Ética | Títulos das obras aristotélicas. |
+| synolon | *synolon*; todo conjunto | Conservado o termo transliterado e traduzida a explicação do comentário. |
+| dignitates | axiomas | Princípios comuns da demonstração. |
+| passiones | propriedades | No contexto da demonstração científica acerca de um sujeito. |
+| astrologia / astrologus | astronomia / astrônomo | Neste contexto, ciência matemática dos corpos e movimentos celestes. |
+| perspectiva | óptica | Ciência da linha visual. |
+| mathematica | objetos matemáticos; matemáticas | Conforme designe os objetos considerados ou as ciências. |
+| elenchice | de modo elênctico | Conservada a explicação dada pelo próprio comentário. |
+| proportio sesquialtera / sesquioctava | proporção sesquiáltera / sesquioitava | Respectivamente, razões 3:2 e 9:8. |
+| Tullius / De natura deorum | Cícero / Da natureza dos deuses | Nome do autor e título da obra. |
+| species specialissima | espécie especialíssima | Espécie última, predicada imediatamente dos indivíduos. |
+| species subalterna | espécie subalterna | Espécie que também é gênero em relação às espécies inferiores. |
+| principiatum | principiado | Aquilo que procede de um princípio. |
+| ingenitum | não gerado | Conserva a distinção entre ausência de geração e separação da matéria. |
+| Porphyrius | Porfírio | Nome próprio. |
+| Boetius | Boécio | Nome próprio. |
+| unum numero / unum specie | uno em número / uno em espécie | Distinção entre unidade numérica e unidade específica. |
+| nectar / manna | néctar / maná | Conservados os nomes do alimento dos deuses empregados pelo latim, sem substituição por “ambrosia”. |
+| Hesiodus / Hesiodistae | Hesíodo / seguidores de Hesíodo | Nome próprio e designação dos seguidores. |
+| Orpheus / Simplicius | Orfeu / Simplício | Nomes próprios. |
+| Zeno / Xenophanes | Zenão / Xenófanes | Nomes próprios. |
+| entitas | entidade | Condição de ente; distinta de *esse*, “ser”. |
+| unum quod convertitur cum ente | uno que se converte com o ente | Conservada a fórmula técnica de convertibilidade. |
+| as / diesis | asse / diese | Unidades de medida de peso e de intervalo musical no exemplo de g4-c012. |
+| nunc | agora | Termo técnico na análise do tempo, em paralelo com o ponto na linha. |
+| Mercurius | Mercúrio | No exemplo da pedra, designa a figura ou estátua do deus. |
+| hoc aliquid | este algo | Expressão técnica para aquilo que subsiste em si como realidade determinada; conservada também nos argumentos sobre os universais. |
+| ens inquantum ens | ente enquanto ente | Fórmula que delimita o sujeito desta ciência. |
+| ens naturae / ens rationis | ente de natureza / ente de razão | Distinção empregada na comparação entre filosofia e lógica. |
+| actus essendi | ato de ser | Distinto de essência e quididade. |
+| univoce / aequivoce / analogice | univocamente / equivocamente / analogicamente | Modos de predicação. |
+| dialectica tentativa | dialética examinadora | Dialética enquanto põe à prova a partir de princípios extrínsecos. |
+| docens / utens | enquanto ensina / enquanto aplicada | Distinção entre o ensino dos procedimentos lógicos e sua aplicação. |
+| Avicenna | Avicena | Nome próprio. |
+| prohaeresis | *prohaeresis* | Conservado o termo grego transliterado, com as explicações dadas pelo próprio texto. |
+| dignitates | axiomas | Princípios comuns das demonstrações. |
+| per se notum | evidente por si | Mantida a distinção entre o que é evidente por si em si mesmo e o que o é para todos. |
+| primus philosophus | filósofo primeiro | Aquele que se ocupa da filosofia primeira. |
+| intellectus agens | intelecto agente | Empregado na explicação do conhecimento natural dos primeiros princípios. |
+| indivisibilium intelligentia | intelecção dos indivisíveis | Primeira operação do intelecto, pela qual conhece o que uma coisa é. |
+| elenchice | por refutação | Conservado o termo transliterado quando o texto comenta expressamente sua tradução. |
+| petitio principii / petere principium | petição de princípio / incorrer em petição de princípio | Pressupor na prova aquilo que se pretende demonstrar. |
+| ratio | noção | Quando designa o conteúdo inteligível significado pelo nome; “argumento” ou “raciocínio” nos contextos argumentativos. |
+| quod quid est / quod quid erat esse | o que a coisa é / essência | Conforme a construção e o contexto da predicação substancial. |
+| Heraclitus / Protagoras / Anaxagoras | Heráclito / Protágoras / Anaxágoras | Nomes próprios. |
+| Boetius / Socrates | Boécio / Sócrates | Nomes próprios. |
+| Posteriora | Analíticos posteriores | Título da obra lógica de Aristóteles. |
+| prudentia | discernimento | Nas lições 12–14, designa a capacidade cognoscitiva discutida pelos antigos, sem o sentido específico da virtude moral da prudência. |
+| sensus / sensatio / phantasia | sentido / sensação / imaginação | “Sentidos” no plural quando o contexto se refere conjuntamente às faculdades sensíveis. |
+| sensibilia propria / communia / per accidens | sensíveis próprios / comuns / por acidente | Mantidas as distinções técnicas entre os objetos dos sentidos. |
+| complexio | compleição | Constituição ou composição corporal, especialmente dos membros. |
+| passio | afecção | No contexto da sensação e das qualidades sensíveis. |
+| diaphanum | meio diáfano | Meio transparente pelo qual se transmite a ação da cor, na explicação física do texto. |
+| Empedocles / Democritus / Parmenides | Empédocles / Demócrito / Parmênides | Nomes próprios. |
+| Epicharmus / Xenophanes / Cratylus | Epicarmo / Xenófanes / Crátilo | Nomes próprios. |
+| Homerus / Hector | Homero / Heitor | Nomes próprios. |
+| Athenae / Lybia / Hungaria / Odion | Atenas / Líbia / Hungria / Odeão | Formas portuguesas dos lugares mencionados. |
+| Physica / De anima | Física / Sobre a alma | Títulos das obras de Aristóteles. |
+| astrologi / perspectiva | astrônomos / óptica | Sentidos disciplinares empregados nos argumentos físicos e geométricos. |
+| contradictio / contradictoria / medium | contradição / contraditórios / intermediário | “Contradição” também designa a oposição entre afirmação e negação. |
+| privatio et habitus | privação e posse | No contexto dos modos de oposição. |
+| hemiolia / sesquialtera proportio | *hemiolia* / proporção sesquiáltera | Conservado o vocábulo explicado pelo autor; proporção de três para dois. |
+| principium / causa / elementum | princípio / causa / elemento | Mantida a distinção entre ordem, influxo causal e causa intrínseca. |
+| passiones entis | propriedades do ente | Distingue-se de “afecções” no contexto sensível. |
+| artes architectonicae | artes arquitetônicas | Artes que comandam outras artes subordinadas. |
+| dignitates et petitiones | axiomas e postulados | Espécies de suposições das demonstrações. |
+| praevoluntas / propositum | escolha prévia / propósito | Preservada a explicação do primeiro termo pelo segundo. |
+| sedile / carina | base / quilha | No exemplo da construção do navio; o comentário esclarece a função de fundamento. |
+| causa materialis / formalis / efficiens / finalis | causa material / formal / eficiente / final | Preservadas as quatro razões de causar e sua distinção dos modos das causas. |
+| causa movens / principium motus | causa motora / princípio do movimento | “Motor” também designa aquilo que move. |
+| quod quid erat esse / quidditas | essência / quididade | A fórmula é traduzida por “essência”; preserva-se “quididade” quando o latim emprega o substantivo. |
+| species / exemplar | espécie / exemplar | “Espécie” pode designar a forma, conforme a explicação do autor. |
+| diapason / proportio dupla / dualitas | oitava / proporção dupla / dualidade | No contexto da consonância musical. |
+| aes / cuprum / phiala | bronze / cobre / taça | Mantida a diferença lexical entre *aes* e *cuprum*. |
+| perficiens / disponens / adiuvans / consilians | que aperfeiçoa / que dispõe / que auxilia / que aconselha | Quatro modos de causa eficiente atribuídos a Avicena. |
+| attenuatio / purgatio / pharmacia | emagrecimento / purgação / fármaco | No exemplo médico; o comentário especifica o medicamento laxativo. |
+| connasci / adnasci | nascer conjuntamente / nascer aderido | Distinção explicada pelo próprio comentário. |
+| Avicenna / Polycletus / Euclides / Boetius | Avicena / Policleto / Euclides / Boécio | Formas portuguesas dos nomes próprios. |
+| fortuna et casus | fortuna e acaso | Mantida a distinção dos dois termos técnicos. |
+| necessarium absolute / secundum quid | necessário de modo absoluto / sob certo aspecto | Distinção entre necessidade intrínseca e necessidade dependente de causa extrínseca. |
+| unum per se / per accidens | uno por si / por acidente | Conservada a distinção em relação à unidade numérica, específica, genérica e analógica. |
+| ens per se / per accidens | ente por si / por acidente | Não se confunde com a divisão do ente em substância e acidente. |
+| reflexio / curvitas | angulação / curvatura | A primeira designa a junção de segmentos que formam um ângulo; o comentário distingue expressamente as duas. |
+| praedicamentum / figura praedicationis | categoria / figura de predicação | *Praedicamenta*, como título da obra, foi vertido por *Categorias*. |
+| habitus / passio / situs | hábito / paixão / posição | “Hábito” conserva o uso categorial no exemplo de estar calçado ou vestido. |
+| diesis / semitonium minus | diése / semitom menor | A relação entre os termos é explicada pelo próprio comentário. |
+| Coriscus / Evenus / Aegina / Sophocles | Corisco / Eveno / Egina / Sófocles | Formas portuguesas dos nomes próprios. |
+| dimensiones signatae | dimensões determinadas | No contexto da matéria como princípio de individuação. |
+| quidditas / quod quid erat esse | quididade / essência | Conservada a distinção entre a essência inteira e a forma como parte dela. |
+| suppositum | supósito | Aquilo que é significado como possuidor de uma essência. |
+| hoc aliquid | algo determinado | Designa aqui a determinação e a subsistência da substância particular. |
+| relatio realis / relatio rationis | relação real / relação de razão | Distinção aplicada à identidade. |
+| privatio et habitus | privação e posse | Neste par de opostos, *habitus* designa a posse da determinação, não o hábito categorial. |
+| congregativum / disgregativum | o que concentra / o que dispersa | Diferenças da cor nos exemplos de contrariedade. |
+| rectitudo / laevitas | retidão / lisura | Paixões da linha e da superfície, respectivamente. |
+| praevoluntas | desígnio; propósito | O próprio comentário explica o termo por *propositum*. |
+| Apuleius / Xerses / Menelaus / Pyrrhus | Apuleio / Xerxes / Menelau / Pirro | Formas portuguesas dos nomes próprios. |
+| Nemea / Pythion | jogos Nemeus / jogos Píticos | Festas tomadas como exemplos de acontecimentos futuros. |
+| potentia / potestas | potência; poder | “Potência” nos sentidos técnicos; nas construções adjetivas, “capaz” ou “possível”, conforme o contexto. |
+| potentia activa / potentia passiva | potência ativa / potência passiva | Princípios do agir e do sofrer, respectivamente. |
+| impotentia | impotência | Privação da potência. |
+| quantum / quantitas | quantidade | Conservada a referência à categoria e às coisas que a possuem. |
+| multitudo / magnitudo | multiplicidade / grandeza | Quantidade divisível em partes não contínuas ou contínuas, respectivamente. |
+| ad aliquid | relativo; em relação a algo | Nome da categoria e expressão da referência a outro. |
+| continens / contentum | continente / contido | Na comparação quantitativa, aquilo que excede e aquilo que é excedido. |
+| scibile / intelligibile | cognoscível / inteligível | Objetos da ciência e do intelecto, respectivamente. |
+| superparticularis / superpartiens | superparticular / superpartiente | Proporções que contêm o menor uma vez e mais uma ou várias partes dele. |
+| sesquialterum / sesquitertius / sesquiquartus | sesquiáltero / sesquitércio / sesquiquarto | Proporções de 3:2, 4:3 e 5:4, respectivamente. |
+| superbipartiens / supertripartiens / superquadripartiens | superbipartiente / supertripartiente / superquadripartiente | Denominações das proporções explicadas pelos exemplos do comentário. |
+| hemiolum / subhemiolum | hemiólio / sub-hemiólio | Denominações técnicas das proporções tratadas em g6-c017. |
+| prohaeresis | escolha | Conservada a forma citada *prohaeresim*, seguida da explicação do próprio comentário. |
+| ballivus | bailio | Oficial por meio do qual o rei exerce sua autoridade. |
+| perfectum / perfectio | perfeito / perfeição | Distinguem-se a integridade, a plenitude da virtude e a consecução do fim. |
+| virtus | virtude | Conservado também para a capacidade ou excelência própria de uma coisa, além do sentido moral. |
+| terminus | limite; termo | “Limite” na definição geral; “termo” especialmente nos extremos do movimento e na consumação da intenção. |
+| secundum quod / secundum se / per se | segundo o qual / por si / por si | Conservado “segundo si” quando se apresentam expressamente as duas últimas fórmulas. |
+| dispositio / situs | disposição / posição | Conforme a ordem das partes no lugar, na potência ou na forma. |
+| habitus / habere | hábito / ter | “Hábito” tanto para a categoria fundada no ter quanto para a disposição qualitativa. |
+| passio | paixão; propriedade | “Paixão” na definição de g6-c020; “propriedade” quando designa o que se considera de um sujeito científico. |
+| privatio | privação | Inclui negação e aptidão do sujeito, com as distinções explicitadas no comentário. |
+| Callias / Atlas / Empedocles | Cálias / Atlas / Empédocles | Formas portuguesas dos nomes. |
+| ex aliquo esse / fieri | provir de alguma coisa / fazer-se a partir de alguma coisa | Conservada a distinção entre proveniência e produção conforme o contexto. |
+| pars speciei / pars materiae | parte da espécie / parte da matéria | Distinção entre partes necessárias à espécie e partes materiais que lhe são acidentais. |
+| totum universale / totum integrale | todo universal / todo integral | O primeiro se predica das partes; o segundo se constitui delas. |
+| pars subiectiva / pars integralis | parte subjetiva / parte integral | “Subjetiva” designa o que está sob um universal. |
+| omne / totum | todo / inteiro | Na comparação expressa entre os dois vocábulos; fora dela, *totum* conserva “todo”. |
+| colobon / colobus | *colobon* / mutilado | Conservado o termo transliterado quando ele próprio é objeto da explicação. |
+| genus praedicabile / genus subiectum | gênero predicável / gênero sujeito | Distinção entre o gênero lógico e o sujeito próprio de acidentes. |
+| schiagraphia | *schiagraphia* | Mantida a forma da fonte, com a glosa “representação por sombras”. |
+| Porphyrius / Antisthenes / Boetius | Porfírio / Antístenes / Boécio | Formas portuguesas dos nomes. |
+| Hellen / Ion / Aegina | Heleno / Íon / Egina | Nomes próprios dos exemplos. |
+| Dionysia / Thargelia | Dionísias / Targélias | Festas mencionadas como exemplo de sucessão temporal. |
+| scientia activa / factiva / theorica | ciência ativa / produtiva / teórica | Conservada a distinção entre agir, cuja operação permanece no agente, e fazer, cuja operação transforma a matéria exterior. |
+| quod quid est / quod quid erat esse / quidditas | essência / essência / quididade | “Quididade” conservado nas glosas expressas do comentário. |
+| demonstratio propter quid | demonstração do porquê | Demonstração cujo termo médio apresenta a causa. |
+| simum / concavum | chato / côncavo | “Chato” no sentido de nariz chato; conservada a definição transmitida, “nariz curvo ou côncavo”. |
+| secundum esse / secundum rationem | segundo o ser / segundo a noção | *Ratio* é traduzido por “definição” quando se refere expressamente ao modo de definir. |
+| prohaeresis | *prohaeresis* | Termo conservado, com a glosa do próprio comentário: “escolha”. |
+| astrologia | astronomia | Ciência matemática dos astros e de seus movimentos no contexto. |
+| ut in pluribus / ut in paucioribus | na maioria dos casos / na minoria dos casos | Distinção entre o que ocorre habitualmente e suas exceções. |
+| contingens ad utrumlibet | contingente que pode dar-se de um ou de outro modo | Preservada a possibilidade dos dois opostos. |
+| Coriscus / Avicenna | Corisco / Avicena | Formas portuguesas dos nomes. |
+| opsopios / opsopoietica / melicratum | *opsopios* / *opsopoietica* / *melicratum* | Conservados os termos examinados e traduzidas as glosas: cozinheiro, arte culinária, mistura de água e mel. |
+| Posteriora / Elenchi | Analíticos posteriores / Refutações sofísticas | Títulos portugueses das obras citadas. |
+| fatum / providentia | destino / providência | Conservada a distinção entre a disposição atribuída à ação celeste e a ordenação divina. |
+| fortuna / casus | sorte / acaso | Distinção mantida quando os dois termos aparecem juntos. |
+| causa per se / causa per accidens | causa por si / causa por acidente | Terminologia da causalidade conservada ao longo do argumento sobre os futuros contingentes. |
+| compositio et divisio | composição e divisão | Operação do intelecto que afirma ou nega. |
+| indivisibilium intelligentia | intelecção dos indivisíveis | Primeira operação do intelecto, distinta da composição e da divisão. |
+| suppositum | suposto | O sujeito subsistente, distinguido da essência da substância. |
+| simpliciter / secundum quid | absolutamente / sob certo aspecto | Distinção especialmente relevante para o ser da substância e o dos acidentes. |
+| De anima / Perihermenias / Praedicamenta | Sobre a alma / Sobre a interpretação / Categorias | Títulos portugueses das obras citadas. |
+| quod quid erat esse / quidditas | essência / quididade | A fórmula aristotélica é vertida por “essência”; conservam-se as distinções explicativas do comentário. |
+| hoc aliquid | algo determinado | Designa a determinação própria da substância, distinguida da qualidade. |
+| praedicatio denominativa / praedicatio univoca | predicação denominativa / predicação unívoca | Distinção mantida na análise da matéria como sujeito. |
+| propria passio | afecção própria | Predicado por si cujo sujeito entra em sua definição. |
+| notius quoad nos / notius secundum naturam | mais conhecido para nós / mais conhecido segundo a natureza | Distinção entre a ordem do aprendizado e a cognoscibilidade das coisas em si. |
+| simum / par | arrebitado / par | Exemplos de afecções cujas definições incluem, respectivamente, nariz e número. |
+| Physica / Ilias | Física / Ilíada | Títulos portugueses das obras citadas. |
+| quod quid est / quid | o que uma coisa é / um “o que” | Conserva-se a distinção entre a pergunta pela quididade e o “qual” nas explicações de g8-c004. |
+| simpliciter / secundum quid | de modo absoluto / sob certo aspecto | Distinção aplicada à definição e à essência da substância e dos acidentes. |
+| per prius / per posterius | em sentido primeiro / em sentido posterior | Também “primeiramente / posteriormente”, conforme a construção. |
+| definitio ex additione | definição por acréscimo | Inclui o sujeito na definição do acidente, embora ele não faça parte da essência do acidente. |
+| accidentia simplicia / copulata | acidentes simples / compostos | Distinção segundo a inclusão de um sujeito determinado na definição. |
+| simitas / aquilinum | arrebitamento / aquilino | “Arrebitamento” corresponde ao abstrato de “arrebitado”, já estabelecido para *simum*. |
+| in recto / in obliquo | em caso reto / em caso oblíquo | Distinção gramatical exemplificada por “nariz” e “do nariz” em g8-c004 [62]. |
+| benignum / bonum | benigno / bem | Conserva-se a distinção que o comentário aplica aos bens particulares e à ideia do bem. |
+| humanitas / animalitas / rationalitas | humanidade / animalidade / racionalidade | Princípios formais distinguidos do homem, do gênero e da diferença. |
+| Callias / Socrates | Cálias / Sócrates | Formas portuguesas dos nomes. |
+| generatio / factio | geração / produção | Conserva-se a distinção entre a geração em geral e a produção atribuída propriamente à arte. |
+| intelligentia | pensamento | Em g8-c006, designa a reflexão do artífice que precede a produção. |
+| casus / fortuna / automato | acaso / fortuna / espontaneamente | Nas explicações etimológicas, conserva-se *automato* e verte-se *per se vanum* por “por si em vão”. |
+| potestas | potência | Nos modos de produção, conserva-se o termo, cuja acepção de força ou violência é explicitada pelo comentário. |
+| species | forma / espécie | “Forma” quando designa o princípio formal; “espécie” quando indica a unidade específica ou sua predicação universal. |
+| virtus formativa / virtus caelestis | virtude formativa / virtude celeste | “Virtude” designa a capacidade causal. |
+| regularitas / adaequatio | regularidade / equilíbrio | No exemplo médico da proporção dos humores. |
+| humores / spiritus | humores / espíritos | Vocabulário da fisiologia antiga e medieval; esclarecido em nota. |
+| Averroes / Avicenna / Anaxagoras | Averróis / Avicena / Anaxágoras | Formas portuguesas dos nomes. |
+| iumentum | animal de carga | Gênero proposto como exemplo, abrangendo cavalo, asno e mulo; evita-se “jumento”, que em português designa o asno. |
+| individua species | espécie indivisa | Em g8-c007, indica que a espécie não se diversifica entre gerador e gerado. |
+| ratio | enunciado / razão | Nas lições sobre a definição, “enunciado” designa sua expressão articulada; conserva-se “razão” para a determinação inteligível ou conceitual. |
+| quod quid erat esse / quidditas | essência / quididade | Conserva-se a distinção vocabular quando os dois termos aparecem no mesmo contexto. |
+| virtute | virtualmente / em virtude de | “Virtualmente” indica presença na capacidade causal do agente, distinta da presença em ato. |
+| forma totius / forma partis | forma do todo / forma da parte | Distinção entre a quididade da espécie e a forma que aperfeiçoa a matéria. |
+| materia communis / materia individualis | matéria comum / matéria individual | A primeira integra a espécie; a segunda, o indivíduo. |
+| materia sensibilis / materia intelligibilis | matéria sensível / matéria inteligível | Conserva-se a distinção aplicada às coisas naturais e matemáticas. |
+| simum / simitas | nariz achatado / achatamento do nariz | Exemplo de uma determinação cuja noção envolve um sujeito material determinado. |
+| simul totum | todo composto | Expressão explicitada pelo próprio comentário como o composto de matéria e forma. |
+| latitatio formarum | existência oculta das formas | Opinião segundo a qual as formas já estariam de algum modo em ato na matéria. |
+| intelligentia | inteligência | Em g8-c010, designação aplicada à imaginação por considerar as coisas sem o sentido; mantém-se “pensamento” no contexto próprio de g8-c006. |
+| dualitas | dualidade | Conserva-se o termo no exame das espécies e dos números platônicos. |
+| pedalitas | ter pés / modo de ter pés | Designa a diferença dividida posteriormente em modos determinados de ter pés. |
+| vox | som vocal | Em g8-c012, é considerado como gênero ou como matéria das letras. |
+| nugatio | redundância | Repetição de uma determinação já incluída na diferença seguinte. |
+| species specialissima | espécie especialíssima | Espécie última, constituída pela diferença que já não se divide. |
+| hoc aliquid | algo determinado | Indica o caráter determinado e subsistente, em contraste com *quale*. |
+| quale / quale quid | algo de certa qualidade | Conserva a oposição a *hoc aliquid*; o comentário distingue qualidade substancial e acidental. |
+| intentio universalitatis | intenção de universalidade | Determinação atribuída pelo intelecto à natureza considerada como una em muitos. |
+| secundae substantiae | substâncias segundas | Gêneros e espécies no gênero da substância. |
+| materia designata | matéria designada | Princípio de individuação mencionado em g8-c015. |
+| electuarium | electuário | Preparação medicinal empregada como exemplo de mistura. |
+| Cleon | Cléon | Nome próprio conservado no exemplo, sem identificação histórica adicional. |
+| Tullius / Marcus / Cicero | Túlio / Marco / Cícero | Partes do nome Marco Túlio Cícero. |
+| quod quid erat esse | essência | Conserva-se a distinção verbal em relação a *quidditas*. |
+| quidditas | quididade | Termo técnico para aquilo que a coisa é. |
+| materia prima | matéria primeira | Sujeito da geração e da corrupção substanciais. |
+| materia localis | matéria para a mudança local | Matéria enquanto potência para o lugar, distinguida da matéria sujeita à geração e à corrupção. |
+| autanthropon / authippon / auto | *autanthropon* / *authippon* / *auto* | Formas gregas transliteradas conservadas; as explicações do comentário são “homem por si”, “cavalo por si” e “por si”. |
+| animalia anulosa | animais de corpo anelado | Conserva a descrição morfológica sem impor uma classificação zoológica moderna. |
+| crystallum | gelo | Nos exemplos da água condensada ou congelada. |
+| limen / liminare inferius; liminare superius | limiar / limiar inferior; limiar superior | Conserva-se a correspondência dos nomes no exemplo da diferença de posição. |
+| mellicratum | água com mel | Mistura usada como exemplo de composição material. |
+| spiritus | sopros | No exemplo da diferença de lugar; o comentário esclarece que são os ventos. |
+| Archytas | Arquitas | Nome próprio. |
+| Antisthenici | seguidores de Antístenes | Designação dos partidários da posição discutida sobre a definição. |
+| phlegma / cholera | fleuma / bile | Humores da fisiologia antiga. |
+| menstrua / menstruum | sangue menstrual | Matéria da geração animal segundo a fisiologia exposta no texto. |
+| resolutio in materiam | decomposição na matéria | Retorno do composto a seus princípios materiais. |
+| habitus | hábito | Nos contrastes com privação, designa a posse positiva de uma forma. |
+| diaphanum | diáfano | Sujeito transparente capaz de receber a luz. |
 | Lycophron | Licofronte | Nome próprio. |
 | materia intelligibilis / materia sensibilis | matéria inteligível / matéria sensível | Distinção empregada na análise da unidade das definições. |
 | ultima materia | matéria última | Matéria apropriada à forma, conforme a explicação de g9-c005. |
@@ -8,6 +511,315 @@
 
 ## Decisões
 
+- Tradução feita do latim fornecido. O inglês foi usado apenas como referência auxiliar no prólogo. Mantidas a ordem dos parágrafos, as divisões expositivas, as citações em bloco e as ênfases dos lemas.
+- Os números autorais foram apresentados como texto inerte inteiramente em negrito, incluindo o ponto: **1768.**, etc.
+- Preservada a numeração dos livros no catálogo, que conta o prólogo como primeiro grupo; as remissões internas a livros conservam a numeração expressa no texto, sem ajuste aos identificadores dos arquivos.
+- Nos títulos do catálogo, traduzidos também os subtítulos descritivos da versão inglesa; os cabeçalhos dos capítulos seguem o latim: “Prólogo” e “Lição N”. Mantida a repetição editorial “Prólogo — Prólogo” na entrada correspondente do catálogo.
+- Em g1-pr [8], “segundo a razão” e “segundo o ser” conservam a distinção entre separação conceitual e separação no ser. Em [11], *transphysica* foi traduzido como “coisas que estão além das coisas físicas”, preservando a explicação do nome “metafísica”.
+- Em g10-c001 [24], preservada a leitura alternativa transcrita por Tomás, inclusive a diferença de sentido em relação ao lema anterior.
+- Em g10-c001 [12], conservado “enunciável” para *enuntiabile*, apesar da divergência com a explicação de [50]. Acrescentada a nota do tradutor [^1], que registra o termo da fonte e a glosa *eunuchizari* do próprio comentário. Em [50], conservado também “quebrável” para *frangibile*, sem harmonização com “suscetível de receber uma impressão” no lema.
+- Em g10-c001 [41], conservadas as afirmações da fonte acerca dos opostos dos possíveis e impossíveis. A nota do tradutor [^2] alerta para a redação e remete à distinção apresentada na frase seguinte, sem propor emenda.
+- Em g10-c001 [39]–[40], “potência” conserva sua aplicação geométrica e numérica; *potest in suum quadratum* foi vertido como “pode produzir seu quadrado”. O próprio texto explica a analogia, dispensando nota adicional.
+- Em g10-c002, *ratio* foi traduzido predominantemente como “noção” na exposição de como a mesma ciência conhece os contrários; “razão” foi mantido quando designa a faculdade racional.
+- Em g10-c003 [13], [15] e [50], adotado “enteléquia” para *endelechia*, conforme a convenção das obras irmãs. Em [46], conservado “essa potência” para *ista potentia*, sem substituir a palavra da fonte por “posição”.
+- Em g10-c003 [21], preservada a formulação problemática sobre o primeiro e o segundo impossíveis; o próprio comentário, em [62], explicita como deve ser entendida a inferência.
+- Em g10-c004 [2], *ardum* foi entendido como erro material por *artium*, “das artes”, à luz da enumeração e da explicação de [16]. Em [3], *deftnitione* foi entendido como erro material por *definitione*. Não foram reproduzidos erros tipográficos sem função semântica.
+- Em g10-c004, *possibile* foi traduzido como “o que é capaz” ou “capaz” quando se refere ao sujeito de uma potência, preservando “possível” nos contextos modais.
+- Não há notas da fonte nem referências bíblicas no trecho recebido.
+- Em g10-c005 [10], conservada a redação elíptica do lema sobre o infinito, sem substituir *deficiat* por uma negação ausente. Acrescentada a nota do tradutor [^3], remetendo à explicação do próprio Tomás em **1831**.
+- Em g10-c005 [29], mantida a formulação “ato ou operação” para *actus vel operatio*, sem emenda conjectural.
+- Em g10-c006, mantido *ecininum*, explicado pelo próprio texto; nos exemplos de predicação material, “de madeira” e “de terra” exprimem em português a denominação dos adjetivos latinos *lignea* e *terreum*.
+- Em g10-c007 [37], *motum esse* foi tomado como sujeito de *praecedit*: “o ter-se movido precede todo mover-se”, conforme a explicação que segue no mesmo parágrafo.
+- Em g10-c008 [5] e [10], conservadas as formulações do lema, inclusive suas diferenças em relação às explicações de **1859** e **1863**, sem harmonização.
+- Em g10-c008 [33], preservada a apresentação de Mercúrio e Páxonas feita pelo comentário, sem correção histórica conjectural. Em [34], acrescentada a nota do tradutor [^4] sobre a relação grega entre *enérgeia* e *érgon*, que a tradução portuguesa não reproduz.
+- Em g10-c010 [3], as duas ocorrências de *aedificandi* foram vertidas, respectivamente, como “construir” e “ser construído”, conforme os pares “destruir” e “desabar”.
+- Nas demonstrações geométricas de g10-c010, conservadas todas as letras, relações angulares e etapas da argumentação.
+- Em g10-c011 [8] e [24], conservados, respectivamente, “substâncias compostas” e “substâncias contínuas”, conforme o latim, sem harmonização com as demais passagens.
+- Em g10-c011 [13], mantida a formulação fragmentária “Cegueira, mas ignorância”, sem introduzir uma negação ausente no latim. A explicação de **1916** foi traduzida segundo sua própria redação.
+- Em g10-c011 [10] e g11-c001 [10], tratados *area* e *merit* como lapsos tipográficos por *circa* e *erit*, respectivamente, conforme a sintaxe e a explicação subsequente.
+- Em g11-c001 [29], *castraturae lignorum* foi vertido como “encaixes das madeiras”, no exemplo de união por contato.
+- Em g11-c002 [6], mantido “número” para *numerus*, embora **1945** apresente o uno como a medida mais exata.
+- Em g11-c002, mantidas as duas explicações de *diesis*: diferença entre dois semitons em **1948** e os próprios semitons em **1950**, sem harmonização.
+- Em **1951**, *diameter* foi traduzido como “diâmetro” para o círculo e “diagonal” para o quadrado; “metro” e “pé” foram conservados como termos da métrica poética.
+- Em **1953**, *indivisibilis proportione* foi vertido como “indivisível relativamente”, preservando a distinção em relação à indivisibilidade por natureza.
+- Em g11-c003 [3], conservada a menção a “substância” ao lado de “ente” na exclusão do caráter de gênero, conforme o latim fornecido.
+- Em g11-c003 [30], *toni* foi traduzido por “sons”, conforme o contexto das letras e dos elementos vocálicos.
+- Em g11-c004 [34] e g11-c006 [61], conservada a ordem “divisível e indivisível” do latim, embora a correspondência com uno e multiplicidade apareça em ordem inversa em outras passagens.
+- Em g11-c004 [70], *crocus* foi traduzido por “açafrão”, mantendo o exemplo distinto de *rubicundum et rufum* no lema [11].
+- Em g11-c005 [7], conservada a frase fragmentária “E haverá algo”, correspondente a *Et erit utique aliquid*, sem acrescentar uma negação ausente no texto fornecido.
+- Em g11-c006, “imediata” designa a oposição sem intermediário; “posse” traduz *habitus* em oposição à privação, conforme a terminologia do sumário.
+- Corrigidos na leitura os lapsos evidentes *Delude* por *Deinde* em g11-c003 [6], *non et actu divisum* por *non est actu divisum* em g11-c004 [30] e *quae generationes* por *quia generationes* em g11-c005 [32], conforme a sintaxe e o desenvolvimento do argumento.
+- Conservada em g11-c007 [13] a afirmação “não é necessariamente uma privação”, conforme o latim fornecido, embora o comentário [46] afirme que se trata necessariamente de privação.
+- Conservada em g11-c008 [9] a formulação do lema sobre a substituição de “pequenez” por “escassez”, sem harmonizá-la com a explicação do comentário [39–41].
+- Em g11-c008 [37], conservado “as coisas medidas [...] em relação ao mensurável”, conforme *mensurata [...] ad mensurabile* no latim fornecido.
+- Em g11-c009 [47], conservada a expressão “as duas diferenças contrárias constitutivas dos intermediários”, conforme o latim fornecido.
+- Em g11-c010 [9], acrescentada a nota do tradutor [^1] para identificar os heráclidas e esclarecer o sentido de “gênero” como linhagem.
+- Conservados os títulos latinos dos capítulos em sua extensão: “Lição 11”, “Lição 12”, “Lição 1” e “Lição 2”, sem acrescentar os subtítulos da referência inglesa.
+- Em g12-c001 [13], acrescentada a nota do tradutor [^1] para esclarecer a transliteração grega *auton*; mantida também na retomada do comentário.
+- Em g11-c011 [25], *ultimum individuum* foi traduzido por “último indiviso” quando referido à espécie e por “último indivíduo” quando referido ao particular, conforme as duas interpretações expressas no comentário.
+- Conservadas as referências internas à numeração dos livros aristotélicos, inclusive “livro décimo” ao fim de g11-c012, sem adaptá-las à numeração dos grupos do catálogo.
+- Em g12-c001 [52], conservado “um único gênero, que é o ente por si”, conforme o latim, sem harmonizá-lo com as passagens que negam que o ente seja gênero.
+- Em g12-c002 [40], conservada a afirmação de que é “verdadeiramente manifesto” como o uno se predica das coisas que consistem numa multiplicidade, conforme o latim fornecido.
+- Em g12-c002 [45], conservada a sequência do latim, que propõe uma questão acerca do uno, do ente e das dimensões e em seguida menciona as substâncias, sem substituí-la pela formulação retrospectiva da referência inglesa.
+- Em g12-c003 [36], acrescentada a nota [^1] para esclarecer o uso astronômico de *canis*, necessário ao exemplo de equivocidade.
+- Em g12-c005 [19], acrescentada a nota [^1] para esclarecer o sentido técnico de *ad hominem*, distinto do ataque pessoal.
+- Em g12-c006 [44], acrescentada a nota [^1] para esclarecer o sentido técnico de “sentido comum”.
+- Em g12-c003 [24], conservado o fragmento latino final *fiunt* como “se fazem”, sem completar conjecturalmente a remissão.
+- Em g12-c004 [13], conservada a afirmação de que os princípios tomados universalmente são princípios “de si mesmos” enquanto aplicados à matéria particular, conforme o latim.
+- Em g12-c005 [32], conservada a passagem do consequente verdadeiro ao antecedente verdadeiro, conforme a ordem do latim fornecido.
+- Em g12-c006 [34], conservado “o branco não se faz a partir do não branco”, conforme o latim, apesar da divergência com a referência inglesa e com a sequência argumentativa.
+- Em g12-c006 [50], conservado “permanecer segundo a quantidade”, conforme *secundum quantitatem*, sem substituir por “qualidade”, como faz a referência inglesa.
+- Em g12-c006 [11], conservada a formulação do lema sobre estar e não estar no termo de origem; em [48], traduzida a formulação distinta do comentário, que menciona ainda não estar no termo de chegada.
+- Em g12-c007 [42], traduzido *formalius* por “mais formal”, conservando o latim em vez da interpretação “mais atual” da referência inglesa.
+- Em g12-c008 [6], acrescentada a nota [^1] sobre a canícula, sua relação histórica com Sírio e sua referência ao verão do hemisfério norte.
+- Em g12-c008 [38], conservados “não se tornou ambas as coisas ao mesmo tempo” e, posteriormente, “músico e branco”, conforme o latim, apesar das divergências com a referência inglesa e da alternância entre “gramático” e “branco”.
+- Em g12-c008 [55–60], conservado o anúncio de “quatro coisas” seguido de cinco pontos, conforme o texto latino.
+- Em g12-c009 [30], traduzido *distinguit* por “distingue-o”, sem substituir pela formulação “define”, adotada na referência inglesa.
+- Em g12-c009 [55], acrescentada a nota [^1] para esclarecer o sentido médico antigo de “humores”.
+- Em g12-c009 [71], conservadas a definição como passagem “não súbita” e a referência à definição do “súbito”, conforme o latim.
+- Em g12-c010 [9], conservado “invisível” para *invisibile*, apesar de o comentário desenvolver a indivisibilidade; a sequência gráfica *a rem* foi entendida como *aerem*, “ar”, conforme o exemplo retomado em [50].
+- Em g12-c010 [49], conservado “um único infinito”, conforme o latim, em vez de “uma coisa finita” da referência inglesa; em [67], conservado “vapor” para *vaporem*, em vez de “ar”.
+- Em g12-c010 [71–87], conservado o anúncio de três argumentos seguido da apresentação de um quarto.
+- Em g12-c010 [82], conservado “infinitas em número” para *infinitae numero* e acrescentada a nota [^1], que assinala a discrepância com a hipótese de número finito examinada no argumento.
+- Em g12-c011 [4], conservado “são móveis”, conforme *mobilia sunt*, sem substituir por “imóveis”, como na referência inglesa.
+- Em g12-c011 [12], conservado “mudança” para *mutationem*, sem substituir por “movimento”; o comentário em [65] explicita a conclusão sobre o movimento.
+- Em g12-c011 [60], conservada a dupla negação de *non est non album*; em [62], conservado “ente” para *ens*; em [63], conservado “o não ente estaria em algum lugar”, conforme o latim.
+- Em g12-c012 [4], conservadas as duas afirmações de ausência de mudança do texto latino; o comentário em [41] desenvolve a mudança de relação decorrente da mudança no outro relativo.
+- Em g12-c012 [10], conservado “saúde” para *sanitatem*, sem substituir por “ignorância”, como na referência inglesa.
+- Em g12-c012 [10, 49], traduzido *non contingens* por “incompatível”, conforme a explicação do comentário: o oposto que não pode ser verdadeiro simultaneamente com aquilo a que se opõe.
+- Em g12-c012 [47], conservado “cura” para *sanatio*, inclusive na alternância com a passagem da saúde para a doença.
+- Em g12-c012 [65], a expressão irregular *vix non potest moveri* foi vertida por “mal pode ser movido”, conforme o exemplo da grande rocha e o segundo sentido de imóvel.
+- Em g12-c013 [6, 19], explicitado “primeiro dia da lua nova” para *nova luna*, em oposição ao segundo dia, para tornar compreensível o exemplo de ordem temporal.
+- Em g12-c013 [18], conservada a sequência “centro e extremidade”, conforme o latim, sem inverter os termos para acompanhar “alto e baixo”; em [29], conservada a referência ao sexto livro da *Física*.
+- Em g13-c001 [4], a construção irregular *nec entia nihil est simpliciter dicere haec* foi vertida como impossibilidade de chamar a qualidade e o movimento de entes em sentido absoluto, conforme a explicação em [22].
+- Em g13-c002 [7], *secundum quid* foi traduzido por “segundo o que a coisa é”, pois aqui designa a mudança substancial, como esclarece [52], e não a restrição habitual “sob certo aspecto”.
+- Em g13-c002 [65], conservado “mas não em ato”, conforme o latim, sem adotar a sucessão “depois em ato” da referência inglesa.
+- Em g13-c003 [24], mantido *automato* e traduzida a glosa *per se vano* por “pelo que é por si em vão”; acrescentada a nota [^1] para explicar a expressão etimológica.
+- Em g13-c003 [26], conservado “o sol, que não é quente”, conforme *a sole non calido*.
+- Em g13-c003 [38], conservado “somente o intelecto”, conforme *solus intellectus*, sem substituir por “somente a alma intelectiva”.
+- Em g13-c004 [91], conservada a ordem “a alma e o corpo são a matéria e a forma do homem”, conforme o latim, sem inverter os termos para acompanhar a referência inglesa.
+- Em g13-c004 [93], conservada a glosa “ato e potência” para *endelechia*, conforme o texto latino.
+- Em g13-c005 [5, 7], a sintaxe irregular do texto aristotélico foi resolvida à luz da exposição latina nos parágrafos [28, 30]: princípio capaz de produzir mudança e substâncias eternas que estão em ato.
+- Em g13-c005 [24, 25], *numerus* foi traduzido por “número”, preservando a formulação técnica da definição do tempo.
+- Em g13-c006 [25], conservados *tectonica*, *genitura* e *spermata*, seguidos das respectivas glosas traduzidas.
+- Em g13-c006 [39], conservados “outro movimento” e “dissolve todas as coisas”, conforme *alius motus* e *resolvit omnia*, sem emenda conjectural.
+- Em g13-c007 [5], conservada a referência causal de *huius causa substantia prima*: “sua causa é a substância primeira”.
+- Em g13-c008 [3, 14], *species* foi traduzido por “representações”, e *species in memoria* por “representações na memória”, sem substituir o latim pelas “esperanças” da referência inglesa.
+- Em g13-c008 [8, 23], mantido “Leucipo”, conforme o latim, sem substituir por Espeusipo, nome presente na referência inglesa.
+- Em g13-c008 [7, 22], mantido “animal” aplicado a Deus, acompanhado da explicação do próprio autor, sem substituí-lo por “ser vivo”.
+- Em g13-c009 [19], acrescentada a nota do tradutor [^1] para esclarecer que os sete planetas dessa cosmologia incluem o Sol e a Lua.
+- Em g13-c010 [15], a sintaxe irregular de *continet divinam naturam universalem* foi resolvida segundo a exposição latina em [60]: “o divino contém a natureza inteira”.
+- Em g13-c010 [25], *astrorum planorum* foi vertido por “astros fixos”, conforme a glosa imediata *stellarum sine errore, scilicet fixarum*.
+- Em g13-c010 [36], acrescentada a nota do tradutor [^1] para esclarecer a função compensadora das esferas reconducentes.
+- Em g13-c010 [36, 37], mantidas “última esfera de Saturno” e “quarta esfera”, conforme o latim, sem seguir as divergências da referência inglesa.
+- Em g13-c010 [40], mantidas as “somente duas esferas” atribuídas a Eudoxo, apesar das três mencionadas anteriormente; preservados também os totais e as dificuldades numéricas discutidas pelo próprio autor.
+- Em g13-c011 [17], a formulação elíptica do lema foi traduzida à luz da exposição latina em [79–80]: a intelecção de compostos possui seu bem em certo tempo e no todo, não em cada parte isolada.
+- Em g13-c011 [75], *intellectum primum* foi traduzido por “primeiro objeto entendido”, conforme o latim, sem substituí-lo pelo “primeiro intelecto” da referência inglesa.
+- Em g13-c012 [4], *natalitia* foi entendido como referência aos animais que nadam, conforme a explicação latina *animalia marina* em [51].
+- Em g13-c012 [32], acrescentada a nota do tradutor [^1] para identificar a alusão final a Homero, *Ilíada* 2.204.
+- Em g13-c012 [78], preservada a exceção expressa pelo latim *praeter unum, scilicet bonum*: todas as coisas participariam do mal, exceto o bem que é princípio.
+- Em g13-c012 [108], explicitado “os motores” como sujeito da oração sobre aquilo que seria posteriormente causado pelos primeiros princípios, para resolver a elipse do latim.
+- Em g2-c001 [11, 91–96], *obviare* foi traduzido por “refutar objeções”, conforme a explicação do comentário. Foram preservadas separadamente as quatro formulações do lema sobre saber e sabedoria, sem harmonizá-las.
+- Em g2-c001 [17, 110–112], *ad introductionem* foi traduzido como introdução a outros conhecimentos ou ciências, conforme a explicação latina sobre as ciências lógicas.
+- Em g2-c001 [43], acrescentada a nota do tradutor [^1] para esclarecer o sentido técnico de “espiritual” na recepção da forma sensível.
+- Em g2-c001 [52], preservada a referência ao livro II de *Sobre a alma*, tal como consta no texto fornecido.
+- Em g2-c001 [100], conservados *architector*, *archos* e *techne* na explicação etimológica; no restante, *architector* foi traduzido por “mestre de ofício”.
+- Em g2-c002 [3, 22], conservado o termo grego transliterado *sophon*, cuja explicação é dada pelo próprio comentário.
+- Em g2-c002 [42], preservada a expressão “seis primeiras condições”, correspondente ao latim *sex primas conditiones*, embora a exposição tenha enumerado somente seis.
+- Em g2-c003 [43–44], os dois *tropici* foram traduzidos por “solstícios”, conforme a descrição do retorno do movimento aparente do Sol para o norte ou para o sul.
+- Em g2-c003 [44], acrescentada a nota do tradutor [^2] para explicar “comensurável” e o sentido técnico de “não ser medido”.
+- Conservados *philomythes* e *automata* onde o comentário explica os próprios termos; nos lemas, traduzidos segundo o sentido desenvolvido por Tomás.
+- Conservadas as formas latinas das citações expressas de variantes e de outras traduções em g2-c004 [31], g2-c005 [32, 43] e g2-c006 [22, 37], traduzindo as explicações que as acompanham.
+- Preservadas as informações históricas do texto, inclusive “Perseu” em g2-c003 [25], a cronologia dos sete sábios e “Cleóbulo da Lídia” em g2-c004 [74], sem harmonização com outras tradições.
+- Em g2-c004 [83], mantido o parágrafo em sua posição, embora sua sequência de quatro termos médios retome as quatro condições da matéria expostas anteriormente.
+- Em g2-c005 [7, 42], *condocet* foi traduzido por “instrui”, sem substituir a leitura latina por outra formulação do verso de Hesíodo.
+- Em g2-c006 [26], preservada a leitura *non dubitans*, “sem duvidar”, embora difira do lema e da referência inglesa.
+- Corrigidos na tradução lapsos gráficos evidentes do latim, como *honora iliorem*, *Tails*, *haben*, *aurem* por *aerem* e *solmn*, sem alterar o conteúdo.
+- Em g2-c007 [26], acrescentada a nota do tradutor [^1] para distinguir as classes de letras da tradição gramatical antiga do sentido moderno de “semivogal”.
+- Em g2-c007 [35, 41–42], preservadas a vinculação da origem sâmia de Pitágoras a uma cidade da Calábria e a explicação das dez esferas e da Antíctone, sem harmonização histórica ou astronômica.
+- Em g2-c008 [15], conservado *sicut numerum*, “enquanto número”, embora a referência inglesa apresente “como matéria”.
+- Em g2-c008 [4, 24], *longius altera parte* foi traduzido por “mais longo de um lado”, preservando a expressão que o comentário explica como figura retangular de lados adjacentes desiguais.
+- Em g2-c009 [33], preservada a leitura *irrationalitate*, “irracionalidade”, sem emenda conjectural.
+- Em g2-c009 [45], conservada “causa material” na atribuição a Empédocles, apesar da divergência com a exposição anterior.
+- Em g2-c010 [73], *numerare* foi vertido por “medir” para exprimir a relação de divisibilidade entre números.
+- Corrigidos na tradução lapsos gráficos evidentes, como *planum* por *plenum*, *pro uxerunt*, *quil*, *frugidum*, *i est*, *firma te* e *alteri generatio*, sem alteração do conteúdo.
+- Em g2-c012 [34], acrescentada a nota do tradutor [^1] para esclarecer a distinção técnica entre “forma da parte” e “forma do todo”.
+- Em g2-c011 [41], conservada “causa formal” na primeira oposição, conforme o latim, sem substituir por “causa final”.
+- Em g2-c012 [16, 64], conservado “humores” no lema e sua explicação como “sabores” no comentário.
+- Em g2-c013 [6], preservada a pergunta afirmativa do latim *ullum esse praeter numerum hunc*, sem introduzir a negação presente na referência inglesa.
+- Em g2-c013 [37], conservada a atribuição aos números intelectuais da causalidade das coisas não sensíveis, conforme *causas insensibilium*.
+- Em g2-c014 [16], conservado “incorruptíveis”, conforme *incorruptibilibus*, embora a referência inglesa apresente “corruptíveis” e o comentário posterior trate das dualidades sensíveis corruptíveis.
+- Em g2-c014 [44, 48], conservadas as remissões ao livro II *Da alma* e ao livro II das *Refutações sofísticas*, bem como a negação de *licet non tangatur*, sem harmonização.
+- Em g2-c014 [68], conservado o exemplo latino que aplica o nome “Cálias” a um homem e a um pedaço de madeira; o exemplo do lema em [16] aplica “homem” a Cálias e à madeira.
+- Corrigidos na tradução lapsos gráficos evidentes, como *a rem*, *invibem*, *accidenda*, *substanda*, *uasi*, *numen*, *discredo* e *Quid quia*, sem alteração do conteúdo.
+- Em g2-c015 [9], acrescentada a nota do tradutor [^2] para explicar a expressão grega *autosan­thropos*.
+- Em g2-c015 [6, 24], conservada a ordem “Anaxágoras primeiro, Hesíodo depois”, conforme o latim, sem corrigir a sequência histórica.
+- Em g2-c015 [26], conservado “princípios do ser”, conforme *principia essendi*, sem adotar “princípios do conhecer” da referência inglesa.
+- Em g2-c016 [5, 29], traduzido *millenario / millenarius* por “mil”, sem adotar “dez mil” da referência inglesa.
+- Em g2-c016 [13], conservado “a superfície será certo corpo”, conforme *erit enim planum aliquod corpus*; o comentário em [51] conserva sua formulação inversa.
+- Em g2-c016 [14], conservada a formulação *aliquid horum esse* como “alguma dessas coisas exista”, sem introduzir “limite”, ausente do lema latino fornecido; a explicação dos limites permanece em [54].
+- Em g2-c017 [39], conservada a alternativa “livro XI ou XII”, conforme *undecimo vel duodecimo*.
+- Em g3-c001 [5], conservado o provérbio latino em itálico; sua tradução e explicação aparecem no próprio comentário em [31–34].
+- Em g3-c001 [44], acrescentada a nota do tradutor [^3] para esclarecer o sentido técnico de “fantasmas”.
+- Corrigidos lapsos gráficos evidentes do latim, como *opiniombus*, sem alteração do conteúdo.
+- Em g3-c003 [6], acrescentada a nota do tradutor [^4] para identificar brevemente as festas Olímpicas e Ístmicas.
+- Em g3-c002 [30], conservado “pelo que será dito”, conforme *ex his, quae dicentur*, sem adotar o passado da referência inglesa.
+- Em g3-c003 [50], conservado “do ar se faz a água”, conforme o latim, sem adotar “fogo” da referência inglesa.
+- Em g3-c004 [12], conservada a formulação elíptica do lema sobre matéria, infinito e ser; sua explicação permanece nos parágrafos [39–40].
+- Em g4-c001 [20], traduzido *prae opere* por “antes do trabalho”, conforme a glosa latina *ante opus*, sem adotar a interpretação da referência inglesa.
+- Em g4-c001 [23], conservado “ouvinte”, conforme *auditor*, distinguindo-o do juiz empregado na comparação.
+- Mantida nas referências internas a numeração dos livros usada no latim, independentemente da numeração dos grupos de arquivos do corpus.
+- Em g4-c003 [6], conservado “todos são corruptíveis”, conforme o lema latino; em [38], conservado “todos são incorruptíveis”, conforme o comentário, sem harmonizar os dois trechos.
+- Em g4-c003 [28], conservada a formulação “como sustentou Platão, ou como sustentou Pitágoras”, sem introduzir uma negação ausente do latim fornecido.
+- Em g4-c004 [39], conservada a atribuição de Aristipo à escola dos epicureus, tal como consta do texto.
+- Em g4-c004 [54], conservado “A e A” e acrescentada a nota do tradutor [^5], indicando que a proporção enunciada exige “A e C”.
+- Em g4-c006 [21], acrescentada a nota do tradutor [^6] para explicar “sesquioitava”, “superparticular” e o sentido matemático da divisão em duas proporções iguais.
+- Em g4-c007 [37], conservado “naturezas contrárias”, conforme *contrarias naturas*, sem emendar a expressão do texto fornecido.
+- Em g4-c008 [6], conservada a repetição de “princípios das coisas definidas” do lema latino; o comentário em [46] distingue os princípios das definições dos princípios das coisas definidas.
+- Em g4-c008 [16] e [75], traduzida a expressão incomum *schola aliorum* por “outra doutrina”, conforme a explicação do próprio comentário, sem substituí-la por uma leitura alternativa do lema.
+- Em g4-c008 [17], traduzida comparativamente a expressão *generum principia*, conforme a explicação gramatical em [78]; nesta, conservada a menção ao genitivo “dos gêneros”.
+- Em g4-c009 [11], conservada a formulação temporal “quando esta em algum momento vem a ser”, correspondente a *quando haec aliquando fit esse*, sem harmonizá-la com a explicação causal do comentário em [53].
+- Em g4-c011 [36], conservada a alternativa do latim *apud Graecos, aut naturales philosophos*: “entre os gregos, ou entre os filósofos naturais”, sem emendá-la para uma afirmação de anterioridade.
+- Em g4-c011 [58] e [62], preservadas as formulações peculiares das versões atribuídas a Boécio, sem harmonizá-las com os lemas citados anteriormente.
+- Em g4-c011 [62], *sacramentum* foi traduzido por “juramento”, conforme o contexto poético, conservando-se a explicação de Tomás sobre a união dos elementos e a força secreta.
+- Em g4-c012 [53], a oposição *ad rem / ad hominem* foi vertida por “à própria questão / ao interlocutor”, indicando a resposta dirigida aos pressupostos de Zenão.
+- Acrescentada a nota do tradutor [^1] em g4-c012 [63] para esclarecer “asse” e “diese” como unidades de medida.
+- Acrescentada a nota do tradutor [^1] em g4-c013 [35] para identificar Mercúrio e esclarecer o exemplo da estátua na pedra.
+- Em g4-c013 [51], conservada a negação de *nec fit aliud et aliud*, sem emendá-la para uma afirmação de sucessão de pontos.
+- Em g4-c014 [2], explicitada a coordenação elíptica entre coisas sensíveis e intermediárias conforme o comentário em [10].
+- Em g5-c001 [28], conservada a formulação incompleta “três ângulos iguais etc.”, sem acrescentar “a dois ângulos retos”.
+- Acrescentada a nota do tradutor [^1] em g5-c001 [46] para esclarecer o emprego astronômico de *canis* no exemplo de equivocidade.
+- Em g5-c002 [27], conservada a construção do latim “aquilo que tem essência e quididade por essa essência”, sem suprir uma referência ao ser ausente do texto fornecido.
+- Acrescentada a nota do tradutor [^1] em g5-c002 [48] para esclarecer os sentidos medievais de “perspectiva” e “astrologia”.
+- Em g5-c003 [15], conservada a afirmação do texto fornecido de que o não ente é naturalmente apto a receber a afirmação, sem introduzir uma negação ausente do latim.
+- Em g5-c004 [59], conservada a expressão “substâncias sensíveis imóveis”, correspondente a *substantias sensibiles immobiles*, sem emendá-la para “substâncias separadas” ou “insensíveis”.
+- Em g5-c006, conservados *apaedeusia*, *elenchice* e *redarguitive* nos contextos em que o texto apresenta ou comenta esses termos; as explicações do próprio autor esclarecem seu sentido.
+- Em g5-c007 [10], conservada a especificação “ser impossível não ser homem”, presente no latim fornecido.
+- Em g5-c007 [15], conservada a formulação latina “o ser verdadeiramente homem ou animal é e não é”, sem substituí-la pela negação de sua existência que aparece na referência inglesa e na explicação subsequente.
+- Em g5-c007 [17], conservado “homem em relação a branco”, correspondente a *homo albo*, sem emendar para “músico em relação a branco”.
+- Acrescentada a nota do tradutor [^1] em g5-c007 [59] para esclarecer o sentido argumentativo de *ad hominem*, distinto de ataque pessoal.
+- Em g5-c007 [64], conservadas as três construções latinas *esse hominem*, *esse homini* e *esse hominis*, pois o autor comenta expressamente seu emprego.
+- Em g5-c008 [6], conservada a condição afirmativa “se a afirmação se verifica”, correspondente a *si autem existat affirmatio*, sem introduzir a negação presente na referência inglesa.
+- Em g5-c008 [32], conservada a direção da implicação do latim: “se a afirmação se predica, a negação também se predicará”.
+- Não se acrescentaram notas para termos que o próprio comentário explica, como trirreme, *endelechia* e os modos de predicação por acidente.
+- Em g5-c009 [30], conservada a condição “se são igualmente falsas”, correspondente a *si enim sunt falsa similiter*, embora a sequência afirme que uma é menos falsa.
+- Conservados *pente*, *homilia* e *chymi* onde o comentário explica expressamente os vocábulos; *heraclizare* foi vertido por “heraclitizar”, cuja explicação o próprio texto fornece.
+- Em g5-c010 [26–28], seguido o latim: o ente vem do não ente em ato e ente em potência; o morno não é nenhum dos contrários em ato; o argumento não permite atribuir contrários à substância imóvel.
+- Em g5-c011 [16], conservada a restrição afirmada pelo latim: saúde e doença, sabedoria e insensatez “não parecem diferir senão” pelo número dos que se encontram em cada condição.
+- Em g5-c012 [28], conservada a alternativa textual *statutum est sive stultum* como “fica estabelecido, ou insensato”, sem regularizá-la pela referência inglesa.
+- Em g5-c012 [32], conservadas a negação e a construção irregular da versão citada, inclusive *et omnium* como “e de todos”, sem substituí-la pelo texto diferente oferecido na referência inglesa.
+- Em g5-c012 [7, 38], “rejeitar os que tentam filosofar” segue a interpretação explicitada pelo próprio comentário, em vez de significar que os filósofos deveriam abandonar sua tentativa.
+- Em g5-c014 [10], conservado “o não doce”, correspondente a *quod non dulce*, e a passagem subsequente para “tal doce”, sem harmonização com a referência inglesa.
+- Em g5-c014 [31], conservada a conclusão afirmativa do latim: “considera igualmente verdadeiro o que aparece a quem dorme e a quem está acordado”; não se introduziu a negação presente na referência inglesa.
+- Em g5-c014 [26], *sensitivi* foi entendido contextualmente como referência ao corpo sensível cuja cor atua sobre o meio diáfano; em [40], conservadas as alternativas distintas “corpo sensível” e “instrumento”, conforme o latim fornecido.
+- Não se acrescentaram notas do tradutor: as explicações terminológicas e as variantes já comentadas pelo autor foram mantidas integralmente.
+- Em g5-c015 [24], conservada a negação de *horum enim omnium distinctio per se non est*: “a distinção entre todas essas coisas não se dá por si”.
+- Em g5-c015 [34], conservado *non apparens sit verum*: “aquilo que não aparece seja verdadeiro”, sem introduzir “todo” nem alterar a negação.
+- Em g5-c015 [15], conservado o fecho irregular *aut non* como “ou não”; em [42], conservado *opinans* como “opina” na conclusão, sem substituí-lo por *opinatum*.
+- Em g5-c016 [32–33], preservada a divisão do período entre os dois parágrafos; em [34], conservado o verbo isolado *dicit*, sem inserir na tradução “a verdade”, ausente desse ponto do latim.
+- Em g5-c016 [12], mantida a referência às coisas na construção difícil *ex significare aliquid necessario res esse*, sem substituí-la pela formulação diferente da referência inglesa.
+- Em g6-c001, mantida a numeração interna do comentário: “quinto livro”, “quarto livro” e “sexto livro”, embora os identificadores dos arquivos e o sumário adotem outra contagem.
+- Em g6-c001 [53], interpretada a construção *natura potest esse principium et elementum, quae sunt intrinseca* à luz da explicação imediatamente seguinte: natureza e elemento são princípios intrínsecos.
+- Não se acrescentaram notas do tradutor nesta chamada: as distinções técnicas e os vocábulos especiais são explicados pelo próprio comentário.
+- *Inexistens* foi vertido por “que permanece nele”, “que existe em seu interior” ou “intrínseco”, conforme a construção; o termo indica presença interna, não inexistência.
+- Em g6-c002 [28], conservaram-se “caso reto” e “caso oblíquo”, pois a distinção gramatical sustenta a explicação da presença da forma e da matéria na definição.
+- Em g6-c003 [36], *cholera* foi traduzido por “bile”, no contexto da medicina dos humores; conservou-se “escamônia” como nome da substância medicinal.
+- Em g6-c003 [41], conservado *per se totum* como “inteiramente por si”, sem substituir silenciosamente *totum* por *tantum*.
+- Em g6-c005 [18], preservaram-se a indicação de corrupção textual, a versão alternativa e a explicação do autor sobre o ípsilon de *Physis*.
+- Em g6-c005 [35], conservada a formulação *non est aliquid entium absolutum* como “não há nenhum ente absoluto”, sem harmonizá-la com a citação de Empédocles em [7].
+- Em g6-c005 [39], preservada a construção segundo a qual “a própria espécie é a forma do todo”.
+- Não se acrescentaram notas do tradutor nesta chamada: o próprio comentário explica os principais termos técnicos, as variantes textuais e a questão etimológica.
+- Em g6-c006 [19], conservaram-se a variante textual e a transliteração *ormin*, seguida da explicação dada pelo autor.
+- Em g6-c007 [9], manteve-se a enumeração do latim fornecido; em [66], *tibia* e *crus* foram vertidos por “perna”, em contraste com “coxa”, e conservou-se *scelos* com a explicação do próprio comentário.
+- Em g6-c007 [78], conservou-se “infinitas espécies” para *infinitae species*, sem corrigir o texto por conjectura.
+- Em g6-c008 [26], conservou-se “noção de divisão” para *ratio divisionis*, apesar do contraste com a indivisão.
+- Em g6-c009 [9] e [49], conservaram-se as formulações negativas do exemplo da diagonal e sua qualificação como falsas, sem harmonizá-las silenciosamente.
+- Não se acrescentaram notas do tradutor nesta chamada: as distinções terminológicas, as variantes e os exemplos principais são explicados pelo próprio comentário.
+- Em g6-c010 [13], conservou-se em latim e em itálico a definição de Apuleio, citada sem tradução no original.
+- Em g6-c012 [52] e [74], conservaram-se, respectivamente, “aquilo em que se encontram” e “seus sujeitos”, conforme o latim fornecido, sem harmonização conjectural.
+- Em g6-c013 [14], *perfectio* foi vertido por “ato”, conforme a oposição à potência e a explicação expressa do comentário em [56–57].
+- Em g6-c013 [35], conservou-se integralmente a discussão da leitura “Menelau” e “Pirro” e sua correção pelo texto grego.
+- Conservaram-se em itálico as transliterações *parastata*, *tritostata*, *hypatae*, *nitae*, *mesae*, *paranitae* e *mesa*; o próprio comentário explica seus sentidos.
+- Não se acrescentaram notas do tradutor nesta chamada, pois as distinções técnicas e as principais referências históricas e musicais são explicadas no comentário.
+- Em g6-c014, distinguiram-se “possível” e “capaz” conforme se trata da possibilidade proposicional ou da capacidade fundada numa potência; conservaram-se ambos quando o comentário os apresenta conjuntamente.
+- Em g6-c015 [19], conservou-se “A largura finita, corpo”, correspondente a *Latitudo finita, corpus*, sem completar ou corrigir conjecturalmente o texto fornecido.
+- Em g6-c016 [17], conservou-se a formulação “além da própria quantidade, que é a substância do número”; a variante apresentada no parágrafo seguinte foi traduzida separadamente.
+- Em g6-c017 [53], conservou-se “supersesquiáltero”, correspondente a *supersesquialterum*, sem substituição conjectural pelo termo esperado para a proporção inversa.
+- Em g6-c017 [62], conservou-se “aquecido” para *calefactum*, embora a definição subsequente corresponda ao que pode aquecer; não se corrigiu silenciosamente o latim fornecido.
+- Não se acrescentaram notas do tradutor nesta chamada: as distinções técnicas, as proporções numéricas e os termos gregos são explicados pelo próprio comentário.
+- Em g6-c018 [5], conservou-se a referência ao conhecimento presente em *cognoscendo*, sem harmonizá-la com a explicação por representação em [35].
+- Conservou-se *hyperbolem* nas glosas que explicam o termo; *poiesis* e *apirenon* permanecem em itálico, acompanhados das explicações do próprio comentário.
+- Em g6-c019, conservou-se “segundo o qual” nos exemplos de causalidade e posição, para manter visível a expressão cujos sentidos são distinguidos; as glosas “junto deste” esclarecem o emprego espacial.
+- Em g6-c020 [70], conservaram-se as partículas *a* e *in* e o “nós” do comentário latino, sem adaptar a comparação linguística à língua portuguesa.
+- Não se acrescentaram notas do tradutor: o comentário explica os sentidos técnicos, as partículas privativas e a alusão a Atlas.
+- Em g6-c021, a oposição vocabular entre *omne* e *totum* foi vertida por “todo” e “inteiro”; em [94], conservaram-se também os termos latinos para tornar identificável a observação sobre o uso grego e o uso latino.
+- Conservaram-se as duas leituras e a discussão sobre sua possível reunião indevida em g6-c021 [90–91], sem harmonizar o texto.
+- *Colobon*, *colobonium*, *energia* e *schiagraphia* foram mantidos quando examinados como termos; as explicações do próprio comentário dispensaram notas adicionais.
+- Em g6-c022, *ratio* foi vertido por “definição”, “noção” ou “enunciado” conforme o objeto discutido; manteve-se “noção, isto é, definição” na glosa expressa de [54].
+- Em g6-c022 [7] e [36], *species* foi vertido por “forma” na oposição à matéria; nos contextos de divisão do gênero, conservou-se “espécie”.
+- Conservou-se “Pleia”, conforme o nome transmitido na fonte, e “Plêiades” para suas descendentes.
+- Não se acrescentaram notas do tradutor: as distinções técnicas, as variantes e os principais termos transliterados recebem explicação no próprio comentário.
+- Em g7-c001 [66], conservou-se “móveis”, correspondente ao *mobilia* transmitido, embora a passagem aristotélica em [14] apresente *immobilium*; não se harmonizou a divergência.
+- Em g7-c002 [16–17] e [72–75], conservaram-se as formulações e a sequência das questões sobre o que ocorre sempre, na maioria dos casos ou por acidente, sem corrigir suas tensões internas.
+- Em g7-c002 [4], conservou-se a comparação entre o triângulo e o triângulo que tem dois ângulos retos; em [40], conservou-se a explicação distinta do comentário, referente à madeira ou a outro sujeito que seja triangular.
+- Não se acrescentaram notas do tradutor: as glosas do comentário explicam os termos transliterados, os exemplos e as distinções técnicas deste trecho.
+- Em g7-c003 [29], conservou-se “causa futura”, conforme o latim, sem substituir por “efeito futuro”.
+- Em g7-c003 [63–67], verteu-se *provisum a Deo* por “previsto por Deus”, mantendo seu contexto de providência e a distinção entre a necessidade da consequência e o modo necessário ou contingente do efeito.
+- Em g8-c001 [13], [74–75], conservou-se o nome transmitido, “Leucipo”, inclusive na identificação como sucessor e sobrinho de Platão, sem corrigir o texto.
+- Conservaram-se as referências internas aos livros segundo a numeração do texto, que difere da organização dos grupos no sumário.
+- Não se acrescentaram notas do tradutor: as glosas do comentário esclarecem as distinções técnicas; as particularidades textuais foram registradas neste diário.
+- Em g8-c002 [51], conservaram-se “desconhecimento da matéria” e “qualidade”, conforme o latim, embora o contexto anterior mencione o desconhecimento da forma substancial e o lema aristotélico traga “quantidade”.
+- Em g8-c003 [43], verteu-se *paris* por “par”, conforme o latim, sem seguir “equal” da referência inglesa.
+- Em g8-c003 [9] e [59], conservaram-se separadamente as formulações do lema e do comentário acerca da “veste”, sem harmonizar suas diferenças.
+- Em g8-c003 [66], verteu-se a construção negativa redundante segundo o sentido confirmado pelos três impedimentos expostos no parágrafo seguinte.
+- Em g8-c004 [13], conservou-se “o nariz arrebitado será um nariz côncavo”, conforme o latim, sem acrescentar a repetição de “nariz” que aparece nesse ponto da referência inglesa.
+- Em g8-c004 [30], conservou-se o valor de *simpliciter* (“de modo absoluto”), sem substituí-lo por “de modo semelhante”, como faz a referência inglesa.
+- Em g8-c004 [48], manteve-se a formulação recebida sobre a definição dos acidentes simples e compostos, apesar de sua dificuldade; não se harmonizou a passagem com a formulação interrogativa do lema.
+- Em g8-c004 [61–62], verteram-se *in recto* e *in obliquo* por “em caso reto” e “em caso oblíquo”; os exemplos do próprio comentário esclarecem a distinção, dispensando nota adicional.
+- Em g8-c005, as construções *homini esse*, *bono esse* e semelhantes foram vertidas por “o ser do homem”, “o ser do bem” etc., preservando as explicações do autor que as identificam com a essência ou a quididade.
+- Em g8-c005 [33], *supponitur homo* foi vertido por “é pelo homem que a expressão está”, para conservar o sentido lógico de suposição do termo, e não o sentido corrente de hipótese.
+- Em g8-c006 [67], conservou-se *praxis*, termo grego transliterado presente no latim, sem corrigir a equivalência apresentada pelo autor.
+- Em g8-c006 [74], conservou-se a restrição latina de que os animais perfeitos não parecem poder ser gerados senão a partir de sêmen, ausente na referência inglesa.
+- Em g8-c006 [88], conservou-se a afirmação latina de que a arte de construir é a forma da casa na alma, omitida na referência inglesa.
+- Acrescentou-se a nota do tradutor [^1] em g8-c006 [94] para esclarecer o sentido fisiológico de “humores” e “espíritos”.
+- Em g8-c007 [6], traduziu-se *ex aliquo* por “a partir de algo”, sem adotar “a partir do nada” da referência inglesa.
+- Em g8-c007 [36], conservou-se *synodus*, seguido da explicação do próprio autor: “isto é, o composto”.
+- Em g8-c007 [44], conservou-se a negação latina: o homem universal separado “não será [...] um algo individual nem determinado”, em contraste com a afirmação da referência inglesa.
+- Em g8-c007 [48], *specierum causa* foi vertido por “em favor das formas”, conforme a explicação imediata do comentário, *ad hoc quod ponant species*.
+- Em g8-c008 [5], verteu-se a frase sobre o fogo conforme o latim e sua explicação em [29]: também sua matéria depende de outro para mover-se à forma.
+- Em g8-c008 [7], conservou-se a ordem causal da redação latina sobre a saúde e o calor; a interpretação alternativa do próprio comentário foi mantida em [62].
+- Em g8-c008 [36], conservou-se a referência ao primeiro livro da *Ética*, tal como consta no latim, sem substituí-la pelo terceiro livro indicado na referência inglesa.
+- Em g8-c008 [74], conservou-se “alma em ato” e “alma virtualmente”, conforme o latim, bem como a comparação com a forma da casa, omitida na referência inglesa.
+- Em g8-c009 [47], conservou-se literalmente “dois côvados são parte de um côvado”; acrescentou-se a nota do tradutor [^1] para explicitar a dificuldade de *bicubitum* e a leitura da tradução inglesa.
+- Em g8-c009 [50], conservou-se a direção da relação presente no latim: a definição do círculo não contém a dos segmentos.
+- Em g8-c009 [60], conservou-se a negação latina: o nome da espécie não se predica equivocamente do indivíduo quando significa a natureza comum da espécie.
+- Em g8-c010 [51], regularizou-se o fechamento do destaque tipográfico da citação, que aparece incompleto no texto fornecido.
+- Em g8-c011 [54], conservou-se a afirmação positiva do latim fornecido, “o bronze seria parte da espécie do círculo”. A passagem apresenta aparente falta de uma negação, diante de [55] e da referência inglesa; não se corrigiu silenciosamente o texto.
+- Em g8-c011 [72], conservaram-se “materialidade” e a identificação conjectural de Sócrates, o Jovem, com Platão, conforme o comentário latino.
+- Em g8-c012 [4], conservou-se a hipótese afirmativa “mesmo que participe”, conforme o latim, diferentemente da negação presente na referência inglesa.
+- Em g8-c012 [47] e [50], seguiram-se as determinações expressas no latim: o gênero compreende matéria e forma comum; as formas das espécies são as formas do gênero com uma determinação.
+- Em g8-c013 [5], conservou-se “de todas ou de nenhuma”, conforme *omnium, aut nullius* do latim, embora a referência inglesa e o comentário em [53] apresentem “de todas ou de uma”.
+- Em g8-c013 [60], conservou-se a afirmação “mas é preciso definir novamente todas as partes de qualquer definição”, conforme *sed oportet* do latim fornecido, apesar da tensão com a rejeição do regresso infinito na mesma frase.
+- Em g8-c014 [30], traduziu-se *substantia animata sensibilis* por “substância animada dotada de sensação”, pois aqui se define o animal.
+- Acrescentou-se em g8-c014 [38] a nota do tradutor `[^1]`, explicando “electuário”.
+- Acrescentou-se em g8-c015 [38] a nota do tradutor `[^1]`, esclarecendo que Marco, Túlio e Cícero são partes do nome da mesma pessoa.
+- Em g8-c015 [59], conservaram-se *perigyrion* e *nycticrypton*, com o destaque do original e as explicações traduzidas que o próprio texto fornece.
+- Mantiveram-se as referências internas ao sétimo e ao oitavo livro conforme o latim, independentemente da numeração das pastas do corpus.
+- Em g8-c016 [9], a conclusão latina de sintaxe irregular foi vertida conforme sua explicação em [31–33]: nenhum predicado universal é substância e uma substância não se constitui de substâncias.
+- Em g8-c016 [34], conservou-se a leitura alternativa *ex non substantiis* como “de não substâncias”, apesar da divergência da referência inglesa.
+- Em g8-c017 [32], conservou-se a repetição “homem músico” no lema latino, sem substituí-la pela formulação diferente da referência inglesa.
+- Em g8-c017 [35–37], distinguiram-se as quatro perguntas: *an est*, “se é”; *quid est*, “o que é”; *quia est*, “se é assim”; *propter quid*, “por que é assim”. Nas explicações, explicitou-se “existência” quando o texto trata de *an est*.
+- Em g8-c017 [40], conservaram-se as três leituras discutidas pelo autor: “é algo breve”, “é de tom semelhante” e “é verdadeiro”.
+- Em g9-c001 [28], *simum* foi vertido por “chato”, no exemplo do nariz, preservando a oposição entre uma forma que inclui matéria sensível em sua noção e o curvo considerado por abstração.
+- Em g9-c002 [7, 37], *prandium* foi vertido por “refeição da manhã”, conforme a explicação expressa *comestio matutina*; *coena*, por “jantar”.
+- Em g9-c002 [50], conservou-se em itálico a forma *venemia* transmitida pelo latim, seguida da explicação do próprio comentário.
+- Em g9-c003 [18], conservou-se em itálico a forma *endelechia* tal como aparece no texto latino.
+- Em g9-c003 [45], conservou-se “composição” para *compositio*, sem adotar “posição” da referência inglesa.
+- Em g9-c003 [61], conservou-se a negação de *non per seipsum*: “e não por si mesmo”, apesar da divergência da referência inglesa.
+- Em g9-c004 [3], acrescentou-se a nota do tradutor `[^1]` para situar fleuma e bile na fisiologia antiga.
+- Em g9-c004 [18], a expressão irregular *corruptionem secundum naturam* foi entendida como corrupção contrária à natureza da coisa, em continuidade com a privação e com a explicação do vinho e do vinagre em [63].
+- Em g9-c004 [41–44], conservou-se o anúncio latino de “duas coisas”, embora a exposição enumere três; em [42], *generalibus* foi entendido como “geráveis”, conforme o contexto e a oposição reiterada a “corruptíveis”.
+- Em g9-c004 [66], conservou-se em itálico a preposição latina *ex*, por ser objeto explícito da análise de seu sentido.
 - Em g9-c005 [12], traduziu-se a conclusão latina *omnia simpliciter quod vere entia aliquid* por “são, pura e simplesmente, verdadeiros entes”, sem substituir “entes” por “um” conforme a referência inglesa.
 - Em g9-c005 [20], conservou-se “não sejam homens senão pela participação no homem”, conforme *non sunt homines nisi per participationem hominis*, apesar da tensão com o trecho aristotélico de [3].
 - Em g9-c005 [34], *convalescere* foi vertido por “recuperar a saúde”; conservou-se “compõe a figura do triângulo” para *componens figuram trigoni*, sem introduzir dois termos distintos como na referência inglesa.

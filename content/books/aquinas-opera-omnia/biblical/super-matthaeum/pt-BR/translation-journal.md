@@ -1,6 +1,369 @@
+# Diário de tradução — Comentário ao Evangelho de São Mateus (pt-BR)
+
+Fonte: la/, texto latino das edições Leonina / Marietti, reproduzido de aquinas.cc, conforme book.json. A tradução inglesa de Paul M. Kimball e do Aquinas Institute serve apenas de referência.
+Destino: pt-BR.
 
 ## Termos
 
+| Latim | Português | Notas |
+|---|---|---|
+| Super Evangelium S. Matthaei lectura | Comentário ao Evangelho de São Mateus | Título conforme o padrão do comentário a João. |
+| Sanctus Thomas Aquinas | Santo Tomás de Aquino | Autor. |
+| prooemium / lectio | prólogo / lição | Títulos estruturais. |
+| Matthaeus / Marcus / Lucas / Ioannes | Mateus / Marcos / Lucas / João | Evangelistas. |
+| Hieronymus / Augustinus / Chrysostomus | Jerônimo / Agostinho / Crisóstomo | Nas menções sem título do latim; São Jerônimo, Santo Agostinho e São João Crisóstomo quando houver título. |
+| Hilarius / Gregorius / Damascenus | Hilário / Gregório / Damasceno | Formas dos nomes nas menções do texto. |
+| Abraham / Isaac / Iacob | Abraão / Isaac / Jacó | Patriarcas. |
+| Moyses / Eliseus / Naaman | Moisés / Eliseu / Naamã | |
+| Capharnaum / Bethlehem / Nazareth | Cafarnaum / Belém / Nazaré | |
+| Gerasa / Geraseni | Gerasa / gerasenos | |
+| Manichaei / Ariani | maniqueus / arianos | Conforme o comentário a João. |
+| Apollinaris / Photinus / Nestorius | Apolinário / Fotino / Nestório | |
+| Simon magus / Porphyrius | Simão Mago / Porfírio | |
+| daemonium habere | ter demônio | Conforme o comentário a João; plural conforme o contexto. |
+| glorificare | glorificar | Conforme o comentário a João. |
+| delubrum | santuário | Conforme o comentário a Isaías. |
+| gentiles / gentes | gentios / gentios, nações | “Nações” nas citações em que designa os povos. |
+| Filius hominis | Filho do homem | |
+| regnum caelorum | Reino dos Céus | |
+| mundare | purificar | Conservado em latim na discussão gramatical do n. 686. |
+| puer / servus | servo / servo, criado | No episódio do centurião; o n. 695 explicita a equivalência. |
+| virtus | virtude / poder / forças | “Virtude” para a eficácia operativa; demais acepções conforme o contexto. |
+| pietas / benignitas | piedade / benignidade | Distintos. |
+| intemperatus / incontinens | intemperante / incontinente | Distinção moral explicada na nota [^2]. |
+| certa malitia | malícia deliberada | |
+| compunctio / contritio / satisfactio | compunção / contrição / satisfação | Termos penitenciais distintos. |
+| irascibilis / concupiscibilis | irascível / concupiscível | Potências do apetite sensitivo. |
+| poena damni / poena sensus | pena de dano / pena dos sentidos | Conservada a distinção técnica. |
+| suppositum | supósito | Nota [^3]. |
+| passibilitas | passibilidade | Capacidade de sofrer. |
+| recumbere | reclinar-se à mesa | Conserva a postura e o contexto do banquete. |
+| fretum / mare / navicula | lago / mar / barca | Conforme cada termo empregado no texto. |
+| grex porcorum / pastores | vara de porcos / porqueiros | No episódio dos gerasenos. |
+| reportatio | reportatio | Registro das lições por um ouvinte; preservado na descrição bibliográfica. |
+| publicanus / telonium | publicano / coletoria | O comentário explicita a cobrança de impostos. |
+| personarum acceptator | aquele que faz acepção de pessoas | Fórmula vertida conforme a construção de cada passagem. |
+| reatus | reato | Condição de responsabilidade pela culpa ou sujeição à pena; nota [^4]. |
+| sponsus / sponsa / filii sponsi | esposo / esposa / filhos do esposo | Conservada a formulação comentada pelo autor; nota [^5]. |
+| lex vetus / lex nova | lei antiga / lei nova | |
+| affectus / effectus | afeto / efeito, ação ou auxílio efetivo | Preservada a distinção, especialmente nos nn. 800–809. |
+| gentilitas | gentilidade | Conjunto dos povos gentios. |
+| Iairus / Aaron / Simeon / Zacharias | Jairo / Aarão / Simeão / Zacarias | |
+| Ambrosius / Herodiani | Ambrósio / herodianos | |
+| fimbria / utris | franja / odre | |
+| messis / operarii / quaestuarii | messe / trabalhadores / mercenários | “Mercenários” no sentido de agentes movidos pelo ganho próprio, no n. 809. |
+| partes aliquotae / numerus perfectus | partes alíquotas / número perfeito | Vocabulário aritmético do n. 810; nota [^6]. |
+| praeceptum / consilium / permissio | preceito / conselho / permissão | Distinção central nas interpretações das instruções aos apóstolos. |
+| supererogatio | supererrogação | Bem realizado além do obrigatório; nota [^7]. |
+| sumptus / victualia | sustento, provisões / alimentos | Tradução conforme se trata da manutenção ou dos recursos levados em viagem. |
+| pera / virga / baculus | alforje / bastão / bastão | Na citação do Salmo 22:4, “vara / bastão” conserva a distinção entre os dois últimos termos. |
+| hospes / hospitium | anfitrião ou hóspede / hospedagem | *Hospes* traduzido conforme a função da pessoa no contexto. |
+| Manichaeus / Epistola fundamenti | Mani / Carta do fundamento | Autor e título citados no n. 812. |
+| Apostolici | apostólicos | Nome do grupo mencionado no n. 821. |
+| Cephas / Alphaeus / Thadaeus / Issachar | Cefas / Alfeu / Tadeu / Issacar | |
+| Naam / Giezi / Barnabas | Naamã / Giezi / Barnabé | |
+| Sodomitae / Gomorrhaei | sodomitas / gomorreus | |
+| arreptitius | possesso | Conforme o diário de Super II Thessalonicenses; no n. 849, distingue-se a possessão da moção do Espírito Santo. |
+| Beelzebub / Hilarius | Belzebu / Hilário | Conforme os diários das obras afins; nomes dos Padres sem título quando o latim não o traz. |
+| Ninus / Belus / Ennon | Nino / Belo / Enom | Conservadas as explicações históricas e etimológicas da fonte. |
+| gehenna | geena | Conserva a ligação com o vale de Enom desenvolvida no n. 869. |
+| as / denarius | asse / denário | Mantidos os nomes das unidades monetárias e a comparação com os pesos. |
+| caro secundum speciem / caro secundum materiam | carne segundo a espécie / carne segundo a matéria | Conforme o diário de Sobre a geração e a corrupção; distinção entre o princípio formal e a matéria renovada. |
+| humidum nutrimentale / humidum radicale | úmido nutritivo / úmido radical | “Úmido nutritivo” conforme o Compêndio de teologia; nota [^9]. |
+| de veritate humanae naturae | pertencente à realidade da natureza humana | Vocabulário da discussão sobre a integridade corporal na ressurreição. |
+| domestici | os de sua casa; membros de sua casa | Conserva o vínculo doméstico e familiar da comparação. |
+| auctoritas | texto de autoridade | No n. 857, designa os textos invocados na controvérsia. |
+| viator / comprehensor | viador / compreensor | Conforme o Compêndio de teologia; nota [^11] explica os estados de caminho e de bem-aventurança alcançada. |
+| maioritas actualis / maioritas virtualis | grandeza em ato / grandeza virtual | Conservada a distinção do n. 919 entre atualidade e virtude ou capacidade. |
+| Boethius / Sabellius / Arius / Origenes | Boécio / Sabélio / Ário / Orígenes | Formas dos diários das obras afins de Tomás. |
+| Remigius / Martinus | Remígio / Martinho | Nomes sem título, conforme o latim. |
+| confiteor / confessio | louvo / confissão | No agradecimento de Cristo, “louvo”; nas distinções do n. 957, “confissão”; nota [^12]. |
+| reficere / refectio | restaurar / restauração | Conserva a relação entre a promessa de Cristo e a explicação da satisfação dos desejos no n. 971. |
+| aequalitas animi | equilíbrio da alma | No n. 941, designa a disposição interior que regula tanto o uso dos alimentos como a abstinência. |
+| praescientia / praedestinatio | presciência / predestinação | Distinção preservada na exposição do n. 951. |
+| Augustinus / Hieronymus / Chrysostomus / Ioannes Chrysostomus / Hilarius / Gregorius | Agostinho / Jerônimo / Crisóstomo / João Crisóstomo / Hilário / Gregório | Conforme as obras afins de Tomás; sem título de santidade quando o latim não o traz. |
+| Rabanus / Novatius / Beelzebub | Rabano / Novaciano / Belzebu | Formas portuguesas dos nomes. |
+| panes propositionis / opus servile | pães da proposição / trabalho servil | Termos da exposição sobre o sábado. |
+| puer | menino / servo | “Menino” no lema de Isaías e “servo” na explicação do segundo sentido; nota [^13]. |
+| appropriari | atribuir-se por apropriação | Conforme o Compêndio de teologia; preserva a distinção entre apropriação e propriedade pessoal. |
+| peccatum in Spiritum Sanctum / ex certa malitia | pecado contra o Espírito Santo / por malícia deliberada | Terminologia da discussão dos nn. 1023–1033. |
+| desperatio / praesumptio / impoenitentia / obstinatio | desespero / presunção / impenitência / obstinação | Espécies de pecado contra o Espírito Santo. |
+| impugnatio veritatis agnitae / invidia fraternae gratiae | impugnação da verdade conhecida / inveja da graça fraterna | Conservadas as expressões da enumeração do n. 1033. |
+| intentio / voluntas / meritum / praemium essentiale / praemium accidentale | intenção / vontade / mérito / recompensa essencial / recompensa acidental | Distinções dos nn. 1040–1042; *praemium substantiale* permanece “recompensa substancial”. |
+| verbum otiosum / verbum perniciosum | palavra ociosa / palavra perniciosa | Conservada a distinção entre ausência de utilidade e produção de dano. |
+| vasa | bens / vasos | “Bens” no enunciado sobre o saque da casa; “vasos” na explicação que explora recipientes e instrumentos. |
+| Manichaeus | Mani | Nome do fundador do maniqueísmo, no n. 1051. |
+| viri Ninivitae / Ninivitae | homens de Nínive / ninivitas | Mantida a distinção entre a expressão do lema e o gentílico. |
+| regina austri / aquilo / auster | rainha do Sul / vento norte / vento sul | Preservada a relação entre o título da rainha e o vento na explicação do n. 1058. |
+| spiritus immundus / vexatio | espírito imundo / tormento | Vocabulário da exposição dos nn. 1059–1066. |
+| synecdoche | sinédoque | Figura de linguagem explicada na nota [^16]. |
+| consanguinei / consobrini | consanguíneos / primos | Distinção preservada na explicação dos irmãos do Senhor, n. 1069. |
+| semen / seminator | semente / semeador | Preservada a distinção entre a semente como palavra e como homem que a recebe. |
+| zizania / lolium | joio / joio | No n. 1138, “cizânia” conserva a apresentação de dois nomes latinos para a planta. |
+| messis / messores / horreum | colheita ou messe / ceifeiros / celeiro | “Messe” conservado quando designa o conjunto do que será colhido. |
+| studium | empenho | Na preparação para receber a sabedoria, nn. 1102–1106. |
+| temporalis | inconstante | No ouvinte que permanece apenas por algum tempo, Mateus 13:21 e n. 1127. |
+| beatitudo rei / beatitudo spei | bem-aventurança da realidade / bem-aventurança da esperança | Distinção entre participação efetiva e esperança pelo mérito, n. 1119. |
+| poena damni | pena de dano | Privação da visão de Deus, n. 1156. |
+| Remigius | Remígio | Nome do comentador citado no n. 1103. |
+| granum synapis | grão de mostarda | Conservada a imagem do ardor na explicação de suas propriedades. |
+| poena sensus | pena de sentido | Distinta da pena de dano, nn. 1183 e 1200. |
+| consummatio saeculi | consumação do século | Fórmula escatológica dos lemas e de suas retomadas. |
+| sagena | rede | Rede que cerca uma grande porção do mar, conforme a explicação do n. 1197. |
+| faber / faber ferrarius / faber lignarius | artesão / ferreiro / carpinteiro | Distinção necessária à exposição do n. 1210. |
+| transfusio animarum | transmigração das almas | Doutrina atribuída a Platão e Pitágoras no n. 1219. |
+| Herodias / Arethas / Elvidius | Herodíades / Aretas / Helvídio | Formas portuguesas dos nomes. |
+| cophinus / fragmenta | cesto / pedaços | Na multiplicação dos pães e em sua interpretação mística. |
+| factivum / significativum | que produz o que significa / que significa | Distinção entre a bênção divina e a humana, n. 1247. |
+| rarefactio | rarefação | Termo da filosofia natural, nn. 1249 e 1315. |
+| dotes: subtilitas, impassibilitas, agilitas, claritas | dotes: sutileza, impassibilidade, agilidade, claridade | Propriedades do corpo glorificado; n. 1266. |
+| Genesareth / Gabelus / Gamaliel / Apollo | Genesaré / Gabelo / Gamaliel / Apolo | Formas portuguesas dos nomes. |
+| traditiones seniorum | tradições dos anciãos | Fórmula dos lemas e da exposição. |
+| coinquinare | tornar impuro | Conservada a relação com a discussão da pureza dos alimentos. |
+| scandalum activum / passivum | escândalo ativo / passivo | Distinção entre causar escândalo e tomar ocasião de queda, n. 1305. |
+| in secessum emitti | ser lançado na latrina | Preservada a expressão concreta do texto, nn. 1314–1316. |
+| prima / secunda tabula | primeira / segunda tábua | Divisão dos preceitos do Decálogo, n. 1317. |
+| Chananaea / Tyrus / Sidon | cananeia / Tiro / Sidônia | Formas dos nomes na narrativa e na exposição. |
+| sporta / cophinus | cesta / cesto | Mantida a distinção vocabular entre as duas multiplicações dos pães. |
+| debilis | aleijado; debilitado | “Aleijado” na enumeração dos enfermos; a explicação do n. 1335 distingue o sentido latino geral da referência à mão. |
+| septiformis gratia Dei | graça de Deus em seus sete dons | Fórmula dos nn. 1345 e 1349. |
+| animalis homo | homem natural | Na oposição ao homem espiritual, nn. 1349 e 1365. |
+| Magedan / Caesarea Philippi / Paneas | Magedã / Cesareia de Filipe / Paneias | Formas dos topônimos. |
+| transcorporatio | transmigração das almas | Passagem da alma a outro corpo, n. 1371. |
+| Bariona / Cephas / Melchisedech | Barjonas / Cefas / Melquisedec | Conservada a forma *Bar-Iona* na explicação textual do n. 1377. |
+| claves regni caelorum / clavis scientiae | chaves do Reino dos Céus / chave da ciência | A “ciência” é explicada como autoridade de discernir, n. 1388. |
+| ligare / solvere | ligar / desligar | Nos lemas e na explicação das chaves; *absolvere* permanece “absolver”. |
+| culpa / reatus / poena | culpa / reato / pena | Distinção técnica do n. 1390. |
+| virtus spiritualis instrumentalis | virtude espiritual instrumental | Na explicação da eficácia sacramental, n. 1390. |
+| plenaria potestas | plenitude do poder | Referida ao papa no n. 1393. |
+| abnegare semetipsum | negar a si mesmo | Nas citações de Mateus 16:24; “renunciar” nas explicações sobre o estado de pecado e o próprio afeto. |
+| viator / comprehensor | viador / compreensor | Conforme o diário do *Compêndio de teologia*; termos explicados na nota [^29]. |
+| dos / dotes | dote / dotes | Propriedades da glória, no contexto do corpo glorificado. |
+| claritas / subtilitas / agilitas / impassibilitas | claridade / sutileza / agilidade / impassibilidade | Conforme os diários das obras catequéticas bilíngues e das orações de Santo Tomás. |
+| tabernaculum | tenda; tabernáculo | “Tenda” na proposta de Pedro e em sua exposição; “tabernáculo” nas referências ao santuário e em Apocalipse 21:3. |
+| restituet omnia | restabelecerá todas as coisas; restituirá todas as coisas | “Restituirá” na interpretação de Orígenes, que associa o verbo ao pagamento da dívida da morte. |
+| lunaticus | lunático | Conservado o termo da fonte, cuja relação com a lua é explicada no n. 1458. |
+| complexio | compleição | Constituição corporal na medicina antiga; explicada na nota [^30]. |
+| didrachma / stater | didracma / estáter | Nomes das moedas; conservadas as equivalências apresentadas pela fonte. |
+| tributum / census | tributo / imposto | No n. 1478, tributo sobre campos e vinhas e imposto por cabeça. |
+| mola asinaria | mó de moinho movida por um asno; mó de asno | Forma desenvolvida nas citações e abreviada na exposição. |
+| poena damni / poena sensus | pena de dano / pena dos sentidos | Termos explicados na nota [^31]. |
+| scandalum activum / passivum | escândalo ativo / passivo | Distinção entre causar escândalo e sofrê-lo. |
+| necessitas absoluta / conditionata | necessidade absoluta / condicionada | Distinção conservada na discussão sobre providência e pecado. |
+| Beatus Martialis / Haymo | São Marcial / Haimão | Formas portuguesas dos nomes. |
+| comprehensio | compreensão | Dote associado à posse do bem divino, no n. 1505. |
+| correctio / correptio | correção | Na exposição da correção fraterna, preservada a distinção em relação à repreensão dura. |
+| contumacia | contumácia | Resistência obstinada à autoridade da Igreja, no n. 1523. |
+| conservus | companheiro de serviço | Conserva a condição comum de servos na parábola. |
+| talentum / denarius | talento / denário | Unidades antigas cuja diferença de peso e valor integra a comparação; nota [^32]. |
+| orabat / rogabat | orava / suplicava | Distinção verbal conservada para sustentar a explicação do n. 1537. |
+| continentia / continentes | continência / continentes | Abstinência sexual, distinguida segundo natureza, violência e vontade. |
+| libellus repudii | carta de repúdio | Documento mencionado na discussão sobre a indissolubilidade matrimonial. |
+| vinculum matrimonii / consortium | vínculo matrimonial / convivência | Preservada a distinção entre dissolução do vínculo e separação da convivência. |
+| status perfectionis | estado de perfeição | Condição estável de vida, distinta da perfeição efetiva da caridade; nota [^34]. |
+| praelatus / religiosus | prelado / religioso | Na distinção entre comunicar a perfeição adquirida e procurar adquiri-la. |
+| sacerdotes plebei / curati | sacerdotes paroquiais / curas | Designações dos responsáveis locais pela cura de almas no n. 1596. |
+| cupiditas | cobiça | No contraste com a caridade e no apego às riquezas. |
+| regeneratio | regeneração | Conservada a distinção entre regeneração espiritual no batismo e corporal na ressurreição. |
+| sequela | seguimento | Seguimento de Cristo, para o qual dispõe a pobreza voluntária. |
+| Lactantius | Lactâncio | Autor mencionado na discussão sobre a ressurreição e o juízo. |
+| paterfamilias | pai de família | Designação de Deus na parábola dos trabalhadores. |
+| procurator | administrador | Aquele que recebe a incumbência de pagar os trabalhadores; figura de Cristo. |
+| denarius | denário | Moeda que, na exposição da parábola, significa a vida eterna. |
+| stola | veste | Imagem da glória; esclarecida na nota [^35]. |
+| acceptio personarum | acepção de pessoas | Expressão técnica conservada na discussão sobre justiça e misericórdia. |
+| minister / servus | servidor / servo | Distinção preservada na exposição sobre a autoridade e o serviço na Igreja. |
+| sufficientia / efficientia | suficiência / eficácia | Distinção empregada no n. 1670 acerca do resgate realizado por Cristo. |
+| Salome / Barthimaeus | Salomé / Bartimeu | Formas portuguesas dos nomes próprios. |
+| Bethphage / Bethania | Betfagé / Betânia | Formas portuguesas dos lugares. |
+| asina / pullus | jumenta / jumentinho | Animais da entrada em Jerusalém. |
+| nummularii | cambistas | Na exposição literal e mística da purificação do templo. |
+| coliba | *coliba* | Termo conservado; o próprio texto o explica como pequenos presentes. |
+| torcular | lagar | Na parábola da vinha e em sua interpretação espiritual. |
+| agricolae | agricultores | Arrendatários da vinha na parábola. |
+| caput anguli | pedra angular | Conservada a explicação subsequente de Cristo como “cabeça” dos dois povos. |
+| grossi | figos temporãos | Primeiros frutos da figueira; ver nota [^39]. |
+| nuptiae / vestis nuptialis | núpcias / veste nupcial | Na parábola e em sua exposição espiritual. |
+| altilia | aves cevadas | Conservada a relação com a alimentação e a abundância dos sentidos espirituais. |
+| poena damni / poena sensus | pena de dano / pena de sentido | Distinção das penas no n. 1773. |
+| census / denarius | tributo / denário | O comentário especifica o tributo pago por pessoa. |
+| Herodiani / Sadducaei | herodianos / saduceus | Grupos mencionados nas controvérsias de Mateus 22. |
+| timor servilis | temor servil | Distinto do temor de ofender a Deus, que procede do amor. |
+| ordo caritatis | ordem da caridade | Governa a explicação de “como a ti mesmo”. |
+| scabellum pedum | escabelo dos pés | Conservada a imagem e sua explicação no n. 1827. |
+| cathedra Moysi | cátedra de Moisés | Conservada a imagem da sede de ensino e autoridade. |
+| phylacteria / fimbriae | filactérios / franjas | Objetos e elementos do vestuário explicados no n. 1844. |
+| Rabbi | Rabi | Título explicado pelo próprio comentário como “mestre”. |
+| minister / ministerium | servidor, ministro / ministério | “Servidor” na exortação à humildade; “ministro” nas fórmulas apostólicas. |
+| proselytus / gehenna | prosélito / geena | Conservadas as designações da passagem evangélica. |
+| mentha / anethum / cyminum | hortelã / endro / cominho | Plantas mencionadas a propósito dos dízimos. |
+| calix / paropsis | cálice / prato | Na comparação entre pureza exterior e interior. |
+| praecepta moralia / caeremonialia / iudicialia | preceitos morais / cerimoniais / judiciais | Distinção empregada na discussão dos dízimos. |
+| Barachias / Ioiada / Ioas | Baraquias / Joiada / Joás | Nomes da discussão sobre Zacarias. |
+| milvus | milhafre | Ave de rapina da comparação com a galinha. |
+| consummatio saeculi | consumação dos séculos | Conservada a distinção em relação a *finis mundi*, “fim do mundo”. |
+| adventus spiritualis / secundus adventus | vinda espiritual / segunda vinda | Distinção que orienta as interpretações do discurso escatológico. |
+| abominatio desolationis | abominação da desolação | Expressão de Mateus 24:15 e da exposição de Daniel. |
+| opiniones praeliorum | rumores de guerras | Também “rumores” na explicação de sua influência nos combates. |
+| tectum | terraço | Parte superior da casa, retomada como figura da vida contemplativa. |
+| Iosephus | Josefo | Flávio Josefo, historiador citado a propósito do cerco de Jerusalém. |
+| Titus / Vespasianus / Adrianus / Traianus / Agrippa | Tito / Vespasiano / Adriano / Trajano / Agripa | Formas portuguesas dos nomes históricos. |
+| pseudochristi / pseudoprophetae | falsos cristos / falsos profetas | Mantida a distinção entre os dois grupos. |
+| virtutes caelorum | potências dos céus | Na exposição, designa os espíritos angélicos que servem a Deus. |
+| penetralia | aposentos interiores | Conservado o sentido de espaço reservado, que fundamenta a interpretação da doutrina secreta. |
+| paterfamilias / familia | pai de família / os de sua casa | *Familia* designa aqui o conjunto dos membros e servidores da casa. |
+| conservi | companheiros de serviço | Preserva a condição comum de servos, retomada na repreensão dos prelados. |
+| Avicenna / Rabanus / Remigius | Avicena / Rabano / Remígio | Formas portuguesas dos autores citados. |
+| subsolanus / Favonius / Boreas / Auster | Subsolano / Favônio / Bóreas / Austro | Nomes dos ventos, com as direções explicadas pelo próprio texto. |
+| virgines prudentes / fatuae | virgens prudentes / insensatas | Mantida “sábias” quando a fonte emprega *sapientes*. |
+| lampades / oleum | lâmpadas / óleo | Preservadas as diversas interpretações alegóricas apresentadas pelo autor. |
+| talenta / nummularii | talentos / banqueiros | O próprio comentário explica o talento como peso de metal e o duplo ofício dos banqueiros. |
+| bona naturalia / bona gratuita | bens naturais / bens gratuitos | Distinção entre os bens da natureza e os dons da graça. |
+| conatus / nixus | esforço / empenho | Conforme o contexto da disposição para a graça e do exercício da caridade. |
+| poena damni / poena sensus | pena de dano / pena dos sentidos | Termos técnicos explicados na nota [^48]. |
+| fruitio / frui | fruição / fruir | Vocabulário da bem-aventurança e do repouso no bem alcançado. |
+| stola animae / stola corporis | veste da alma / veste do corpo | Imagem da dupla glorificação, esclarecida na nota [^49]. |
+| discussio meritorum | exame dos méritos | Distinto da simples recepção da sentença no juízo. |
+| opera misericordiae | obras de misericórdia | Inclui obras corporais e espirituais. |
+| alabastrum / unguentum | alabastro / unguento | “Vaso de alabastro” quando o termo designa o recipiente. |
+| nardus pisticus | nardo pístico | Conservada a explicação da fonte: não adulterado. |
+| tractatus proditionis | negociação da traição | Designa o acordo de Judas com os chefes dos sacerdotes. |
+| Lactantius / Caiaphas / Simon Magus | Lactâncio / Caifás / Simão Mago | Formas portuguesas dos nomes. |
+| sacramentum altaris | sacramento do altar | Designação da Eucaristia. |
+| species panis / species vini | espécie do pão / espécie do vinho | Terminologia sacramental; plural: “espécies”. |
+| substantia / accidens / subiectum | substância / acidente / sujeito | Conservada a distinção metafísica na exposição eucarística. |
+| de vi sacramenti / per concomitantiam | por força do sacramento / por concomitância | Distinção dos modos de presença na Eucaristia. |
+| sacramentum tantum / res tantum / res et sacramentum | somente sacramento / somente realidade / realidade e sacramento | Distinção técnica esclarecida na nota [^53]. |
+| causa principalis / causa instrumentalis | causa principal / causa instrumental | Na explicação da causalidade sacramental. |
+| virtus excellentiae | poder de excelência | Poder próprio de Cristo em relação aos sacramentos. |
+| Novi et aeterni Testamenti | do Novo e eterno Testamento | Conservado “Testamento” por causa da argumentação sobre pacto, legado e morte do testador. |
+| paropsis / catinus | travessa / tigela | Mantidos os termos latinos na explicação dos nomes dos recipientes. |
+| passio / propassio | paixão / propaixão | Distinção técnica da exposição sobre a tristeza de Cristo; esclarecida na nota [^54]. |
+| passibilis / passibilitas | passível / passibilidade | Capacidade de sofrer. |
+| ratio ut natura / ratio inquantum ratio | razão enquanto natureza / razão enquanto razão | Distinção conservada na análise da vontade e da tristeza de Cristo. |
+| contractus / assumptus | contraído / assumido | Distinção entre o que se recebe por origem e o que Cristo assume voluntariamente. |
+| Gethsemani / torrens Cedron | Getsêmani / torrente do Cedron | Formas dos nomes geográficos. |
+| Eunomius / Apollinaris / Manichaeus | Eunômio / Apolinário / Mani | Nomes dos autores das posições discutidas na exposição cristológica. |
+| Malchus | Malco | Servo cuja orelha Pedro cortou. |
+| pinguedo | abundância; gordura | “Abundância” nas aplicações espirituais; conservada a referência concreta à gordura na explicação das azeitonas e na citação do Salmo 62:6. |
+| princeps sacerdotum / principes sacerdotum | chefe dos sacerdotes / chefes dos sacerdotes | Mantida a distinção de número da fonte, inclusive o singular em Mateus 27:20. |
+| pontifex | sumo sacerdote | No contexto do sacerdócio judaico. |
+| adiurare / adiuratio | conjurar / conjuração | Invocação de Deus para obrigar alguém a responder sob juramento; distinta da oração no n. 2281. |
+| corbona / corbana | corbona | Designação do receptáculo das ofertas, explicada pelo próprio comentário no n. 2317. |
+| laesio maiestatis / reus laesae maiestatis | crime de lesa-majestade / réu de lesa-majestade | Ofensa à autoridade soberana; nota [^56]. |
+| Photinus / Remigius | Fotino / Remígio | Formas portuguesas dos nomes. |
+| Haceldama | Haceldama | Conservada a forma da fonte, acompanhada de sua interpretação como “campo de sangue”. |
+| chlamys coccinea | manto escarlate | Insígnia régia usada na zombaria dos soldados. |
+| cohors / praetorium | coorte / pretório | Termos militares e judiciários explicados no n. 2346. |
+| vinum myrrhatum | vinho com mirra | Conservada a distinção verbal em relação a fel e vinagre. |
+| sindon | lençol | Pano funerário de linho; sua significação é desenvolvida no n. 2407. |
+| Parasceves | Parasceve | Conservada a designação, explicada como “preparação” no n. 2411. |
+| generatio univoca | geração unívoca | Geração segundo a identidade de espécie, conforme a explicação do n. 22. |
+| anima vegetabilis / sensibilis / rationalis | alma vegetativa / sensitiva / racional | Distinções empregadas na refutação de Apolinário. |
+| Iesus filius Nave | Jesus, filho de Nun | Mantido “Jesus” para preservar o argumento sobre o nome; nota [^60]. |
+| Elvidius / Alphaeus / Cleophas | Helvídio / Alfeu / Cléofas | Formas portuguesas. |
+| Paulus Samosatenus / Sabellius / Valentinus / Apollinaris | Paulo de Samósata / Sabélio / Valentim / Apolinário | Formas portuguesas. |
+| quaterdenarius | grupo de catorze gerações | Unidade que organiza a genealogia. |
+| patres carnales / patres legales | pais segundo a carne / pais segundo a lei | Distinção entre descendência carnal e adoção legal. |
+| expiatio peccatorum | expiação dos pecados | Associada à dignidade sacerdotal de Cristo. |
+| incipientes / proficientes / perfecti | iniciantes / proficientes / perfeitos | Três estados da vida espiritual aplicados à genealogia. |
+| Phares / Zaram / Thamar / Esron | Fares / Zara / Tamar / Esrom | Formas portuguesas dos nomes da genealogia. |
+| Naasson / Rahab / Ruth / Iesse / Isai | Naassom / Raab / Rute / Jessé / Isaí | Conservada a distinção entre os dois nomes de Jessé no n. 50. |
+| Bersabee / Ochozias / Athalia / Ioiada | Betsabeia / Ocozias / Atalia / Joiada | Formas portuguesas. |
+| Ioakim / Ioachim / Iechonias | Joaquim / Joaquin / Jeconias | Para distinguir pai e filho, conforme a convenção do comentário às Lamentações; preservadas as identificações próprias da fonte. |
+| I–II Regum / IV Regum / I–II Paralipomenon | 1–2 Samuel / 2 Reis / 1–2 Crônicas | Nomes portugueses atuais, conforme os comentários irmãos a Gálatas e Efésios. |
+| transmigratio Babylonis | exílio na Babilônia | Designação do marco que divide os grupos da genealogia. |
+| Salathiel / Zorobabel / Abiud | Salatiel / Zorobabel / Abiud | Nomes da genealogia após o exílio. |
+| Sadoch / Achim / Mathan / Mathat | Sadoc / Aquim / Matã / Matat | Conservada a distinção entre Matã e Matat. |
+| Phadaia / Caphadara / Capha | Fadaías / Cafadara / Cafa | Conservadas as variantes e identificações da fonte no n. 82. |
+| Hesta / Heli / Elimelech | Esta / Heli / Elimelec | Nomes da discussão genealógica. |
+| Elvidius / Nestorius / Valentinus | Helvídio / Nestório / Valentim | Formas portuguesas dos nomes. |
+| Remigius / Rabanus / Ignatius martyr | Remígio / Rabano / Inácio mártir | Nomes dos autores citados. |
+| communicatio idiomatum | comunicação dos idiomas | Atribuição à única pessoa de Cristo das propriedades de ambas as naturezas. |
+| proles / fides / sacramentum | prole / fidelidade / sacramento | Os três bens do matrimônio. |
+| iustitia specialis / iustitia legalis / iustitia generalis | justiça particular / justiça legal / justiça geral | Distinções empregadas no n. 116. |
+| appropriatio | apropriação | Atribuição a uma pessoa divina de uma obra comum à Trindade. |
+| virtus formativa | potência formativa | Termo da explicação da geração no n. 132. |
+| prophetia praedestinationis / praescientiae / comminationis | profecia de predestinação / de presciência / de ameaça | Três espécies de profecia apresentadas no n. 145. |
+| verbum cordis / verbum vocis | palavra do coração / palavra da voz | Na comparação com o Verbo eterno e encarnado. |
+| Parasceve | Parasceve | Dia de preparação que antecede o sábado. |
+| Antonius | Santo Antão | Autor citado sobre o discernimento das aparições angélicas no n. 2430. |
+| timor servilis / timor initialis | temor servil / temor inicial | Distinção do n. 2440. |
+| gratia unionis | graça da união | Nos nn. 2460–2461, relativa à união da humanidade de Cristo com o Verbo. |
+| potentia activa / omnipotentia | potência ativa / onipotência | Conservada a distinção na discussão dos nn. 2458–2460. |
+| species cognitorum | espécies das coisas conhecidas | Formas presentes naquele que conhece; nota explicativa no n. 2459. |
+| fatum / providentia divina | destino / providência divina | Distinção desenvolvida nos nn. 169–170. |
+| Priscillianistae / Manichaei | priscilianistas / maniqueus | Nomes das correntes mencionadas no n. 169. |
+| Tullius / Balaam / Leo Papa | Túlio / Balaão / papa Leão | Túlio identificado como Marco Túlio Cícero em nota. |
+| potentiae sensitivae et nutritivae | potências sensitivas e nutritivas | Potências ligadas a órgãos, na discussão do n. 170. |
+| Bethlehem / Ephrata / Rama / Gabaa | Belém / Efrata / Ramá / Gabaá | Topônimos dos relatos da infância. |
+| Archelaus / Antipater / Aristobolus | Arquelau / Antípatro / Aristóbulo | Nomes da família de Herodes. |
+| Lia / Rachel / Zorobabel | Lia / Raquel / Zorobabel | Formas portuguesas dos nomes bíblicos. |
+| Apollinaris | Apolinário | Autor do erro cristológico refutado no n. 235. |
+| anima pueri | alma do menino | Conservado “alma” por causa do argumento do n. 235; a expressão também significa a vida do menino. |
+| litteralis / allegoricus / anagogicus / moralis | literal / alegórico / anagógico / moral | Sentidos da Escritura mencionados no n. 201. |
+| Sanctus Thomas Apostolus | São Tomé Apóstolo | Distinto de Santo Tomás de Aquino. |
+| Chrysostomus / Augustinus / Hieronymus / Gregorius | Crisóstomo / Agostinho / Jerônimo / Gregório | Formas das obras irmãs de Santo Tomás; sem acrescentar títulos ausentes do latim. |
+| Ambrosius / Hilarius / Remigius / Rabanus | Ambrósio / Hilário / Remígio / Rabano | Para Rabano, seguida a forma do comentário irmão de Pedro de Scala. |
+| poenitentiam agere / poenitere | fazer penitência / arrepender-se | Distinção explicitada no n. 248. |
+| virtus clavium / confessio vocalis | poder das chaves / confissão vocal | Terminologia sacramental do n. 260. |
+| baptismus flaminis | batismo do Espírito | Distinto do batismo da água no n. 293. |
+| missio visibilis / missio invisibilis / appropriatio | missão visível / missão invisível / apropriação | Terminologia trinitária dos nn. 301 e 305. |
+| ventilabrum / area / paleae / zizania | pá / eira / palha / joio | Imagens agrícolas dos nn. 284–286; a pá serve para separar o trigo da palha. |
+| Magister / Sententiae | o Mestre / Sentenças | Pedro Lombardo e sua obra, no n. 276. |
+| I Reg. / IV Reg. | 1 Samuel / 2 Reis | Correspondência entre a nomenclatura da Vulgata e os nomes portugueses, conforme as obras irmãs. |
+| tentatio / suggestio / delectatio / consensus | tentação / sugestão / deleitação / consentimento | Distinção dos graus da tentação no n. 311. |
+| inanis gloria / ambitio / avaritia | vanglória / ambição / avareza | Terminologia das tentações de Cristo. |
+| latria / dulia | *latria* / *dulia* | Termos gregos conservados conforme a forma da fonte, no n. 344. |
+| Vegetius / Tullius / Dionysius | Vegécio / Túlio / Dionísio | Conservada a forma abreviada “Túlio” empregada pelo autor para Cícero. |
+| Capharnaum / Zabulon / Nephtalim / Zebedaeus | Cafarnaum / Zabulon / Neftali / Zebedeu | Formas portuguesas dos nomes recorrentes. |
+| pietas | piedade filial | Nos nn. 374 e 377, refere-se ao cuidado dos filhos para com o pai. |
+| intrare religionem | ingressar na vida religiosa | Sentido institucional de *religio* no n. 381. |
+| III Reg. | 1 Reis | Correspondência da nomenclatura da Vulgata com a portuguesa. |
+| beatitudo / beatitudines | bem-aventurança / bem-aventuranças | Distingue-se de *felicitas*, “felicidade”, quando os dois termos aparecem na exposição. |
+| pauperes spiritu / mites / pacifici | pobres em espírito / mansos / pacíficos | Fórmulas das bem-aventuranças. |
+| munditia cordis / mundo corde | pureza do coração / puros de coração | Terminologia da sexta bem-aventurança. |
+| in via / in patria | nesta vida / na pátria celeste | Distinção entre a condição presente e a consumação da bem-aventurança. |
+| donum timoris / pietatis / scientiae / fortitudinis / consilii / sapientiae | dom do temor / da piedade / da ciência / da fortaleza / do conselho / da sabedoria | *Pietas* designa aqui o dom do Espírito Santo. |
+| iustitia legalis / iustitia specialis | justiça legal / justiça especial | Distinção da exposição da quarta bem-aventurança. |
+| caelum Empyreum | céu empíreo | Designação tradicional do céu dos bem-aventurados. |
+| gaudium / laetitia / exultatio / delectatio | gozo / alegria / exultação / deleitação | Distinção técnica no n. 449; fora dela, *gaudium* também se traduz por “alegria”. |
+| Hilarius / Ambrosius / Pythagoras / Laurentius | Hilário / Ambrósio / Pitágoras / Lourenço | Formas portuguesas dos nomes. |
+| I Reg. / Thren. / Eccli. / Eccl., Eccle. | 1 Samuel / Lamentações / Eclesiástico / Eclesiastes | Nomenclatura bíblica empregada nesta chamada. |
+| sal / mordacitas | sal / força pungente | Conserva-se a imagem da ação do sal ao afastar dos pecados. |
+| lucerna / modius / candelabrum | lâmpada / alqueire / candelabro | “Alqueire” designa aqui o recipiente de medida, não uma medida de superfície. |
+| adimplere / solvere legem | cumprir / abolir a lei | Para a transgressão de mandamentos, *solvere* é traduzido por “violar”. |
+| praecepta moralia / iudicialia / figuralia | preceitos morais / judiciais / figurativos | Distinção da exposição do cumprimento da lei. |
+| ira per zelum / appetitus sensitivus | ira por zelo / apetite sensitivo | Terminologia da análise moral da ira. |
+| reus iudicio / reus concilio / gehenna | réu de juízo / réu perante o conselho / geena | Mantida a gradação da exposição de Mateus 5:22. |
+| Faustus / Rabanus / Cato / Senacherib | Fausto / Rabano / Catão / Senaquerib | Formas portuguesas; “Rabano” para a forma irregular *Rabbanam* da fonte. |
+| quadrans | quadrante | Nome da moeda; preservada a explicação monetária fornecida pelo texto. |
+| III Reg. / IV Reg. / II Reg. | 1 Reis / 2 Reis / 2 Samuel | Equivalências dos nomes tradicionais dos livros bíblicos. |
+| fornicatio simplex / moechia | fornicação simples / adultério | Mantida a distinção da exposição; conservada a forma latina *mechia* quando explicada pelo autor. |
+| propassio / passio | propaixão / paixão | No n. 507, distingue-se o movimento do apetite sensível sem consentimento da razão daquele ao qual a razão consente. |
+| libellus repudii / uxoricidium | libelo de repúdio / uxoricídio | Terminologia da exposição sobre a dissolução matrimonial. |
+| iuramentum simplicis attestationis / iuramentum execrationis | juramento de simples atestação / juramento de execração | Conservada a distinção e sua explicação no n. 519. |
+| praeparatio animi | disposição da alma | Prontidão interior para suportar o mal, na exposição de Mateus 5:39–41. |
+| res publica / virtus politica | comunidade política / virtude política | *Res publica* designa aqui a comunidade organizada, sem pressupor uma forma republicana de governo. |
+| patria / via | pátria / caminho | Condição da vida eterna e condição da vida presente; nota [^87]. |
+| iustitia satisfactoria / inanis gloria | justiça satisfatória / vanglória | Terminologia da exposição sobre esmola, oração e jejum. |
+| Iosephus / Marcellianus / Chaym | Josefo / Marceliano / Caim | Conservada a forma “Marceliano” recebida na referência à carta de Agostinho. |
+| oratio Dominica | oração do Senhor | A fórmula recebe também o nome “Pai-Nosso”, conforme o contexto. |
+| multiloquium | excesso de palavras | Nas explicações sobre o vício dos gentios; nas citações, “muitas palavras”. |
+| panis supersubstantialis / cotidianus | pão supersubstancial / cotidiano | Mantida a distinção das versões comentadas, sem substituir “supersubstancial” por “cotidiano”. |
+| Horae / Completorium | Horas / Completas | Vocabulário do Ofício Divino; nota [^90]. |
+| affectus | afeto | Movimento interior da vontade e da devoção na exposição da oração. |
+| Athanasius / Cyprianus / Damascenus | Atanásio / Cipriano / Damasceno | Formas portuguesas dos nomes patrísticos citados. |
+| Proba / Symmachus / Novatianus | Proba / Símaco / Novaciano | Nomes presentes na exposição do Pai-Nosso. |
+| donum intellectus / donum pietatis | dom do entendimento / dom da piedade | Terminologia dos dons relacionados aos pedidos do Pai-Nosso. |
+| sollicitudo / providentia | preocupação / providência | Mantida a distinção explicitada no n. 623; a preocupação implica aplicação intensa do espírito. |
+| oculus simplex | olho simples | Conservado o termo que sustenta as diversas interpretações do olho corporal e espiritual. |
+| intentio | intenção | Princípio de ordenação da ação ao fim. |
+| mam(m)ona | mamona | Conservado o nome explicado no comentário como riquezas e como designação do diabo. |
+| aversio / conversio | afastamento / conversão | No n. 635, afastamento de Deus e movimento desordenado para o bem criado; nota [^94]. |
+| oratio meritoria / impetratoria | oração meritória / impetratória | Distinção entre merecer e alcançar o que se pede. |
+| festuca / trabs | cisco / trave | Imagens da comparação entre pecados leves e graves. |
+| De opere monachorum / De operibus monachorum | Sobre o trabalho dos monges | Uniformizadas as duas formas do título da obra de Agostinho presentes no latim. |
 | pastor / lupus / mercenarius | pastor / lobo / mercenário | Distinção entre quem governa, quem pretende a perdição e quem busca proveito próprio. |
 | principium naturae / principium moris | princípio da natureza / princípio da moralidade | Distinção do n. 661 entre a alma e a vontade como princípios. |
 | intellectus / affectus | intelecto / afeto | Mantida a distinção na análise do fundamento da vida moral, nos nn. 674–675. |
@@ -8,6 +371,304 @@
 
 ## Decisões
 
+- Tradução feita do latim fornecido, mantendo a ordem dos arquivos desta chamada e a correspondência de um parágrafo de tradução para cada parágrafo-fonte; as três notas do tradutor são parágrafos adicionais identificados.
+- Mantidos os títulos latinos traduzidos nos arquivos: “Prólogo” e “Lição”. No sumário de book.json, traduzidos também os complementos descritivos já existentes em inglês, sem mudar os identificadores nem a numeração editorial dos capítulos.
+- No prólogo, conservadas as lições fornecidas *quaternario numero* e *a credendi fine*, traduzidas por “número quatro” e “desde o termo da fé”; não substituídas pelas leituras sugeridas pela tradução inglesa. Conservado também o sentido de *reprehensi*, “repreendidos”.
+- O título latino gramaticalmente irregular de g10-c004 foi traduzido pelo sentido inequívoco do episódio: “Expulsão dos demônios para os porcos”.
+- Empregado “vós” no tratamento reverente a Cristo e a Deus; “tu” nas falas dirigidas a um interlocutor humano singular. Mantidas as alternâncias de pessoa presentes nas exortações do comentário.
+- Referências bíblicas convertidas para nomes portugueses, algarismos arábicos e dois-pontos. Conservadas a numeração dos Salmos e as referências fornecidas, inclusive as aparentemente divergentes, como Gênesis 15:18 e Miqueias 8:9. “3 Reis 19:20” conserva a designação e a numeração da Vulgata.
+- Conservadas as diferenças entre os lemas bíblicos e suas retomadas no comentário, como “sacerdote” e “sacerdotes”, “sua casa” e “casa de Simão Pedro”, assim como afirmações e atribuições particulares da fonte.
+- No n. 716, conservado “pecados exteriores”, correspondente a *peccata exteriora*, embora a referência imediata seja à tempestade; não emendado para “perigos”.
+- No n. 692, *pinguedo* foi traduzido por “abundância” na interpretação de Cafarnaum, conservando-se a imagem de gordura na citação do salmo.
+- Nota [^1], no n. 686: explica a coincidência formal entre o infinitivo ativo e o imperativo passivo de *mundare*, necessária à compreensão do argumento gramatical.
+- Nota [^2], no n. 694: esclarece o sentido técnico de “intemperante” e “incontinente”.
+- Nota [^3], no n. 750: esclarece “supósito” no argumento cristológico.
+- Normalizados os números autorais como texto integralmente em negrito, incluindo o ponto. No n. 753, reparado o fechamento defeituoso da marcação de ênfase, distinguindo o lema “e anda” da citação seguinte, sem alterar seu conteúdo.
+- Não acrescentadas palavras de versões bíblicas portuguesas às citações. As reticências editoriais latinas *et cetera* e *etc.* foram vertidas como “etc.”.
+- Nota [^4], no n. 766: esclarece o termo técnico “reato”.
+- Nota [^5], no n. 769: esclarece “filhos do esposo”; mantida a formulação literal porque o comentário interpreta expressamente a palavra “filhos”.
+- No n. 764, conservado “juízo” para *iudicium*, embora a explicação trate da preferência da misericórdia ao sacrifício; não emendado o latim.
+- No n. 781, conservada a alternância entre “gentilidade” e “sinagoga”, tal como fornecida no texto.
+- No n. 782, conservado o sentido literal de *tympana*, “tambores”, sem substituir o vocábulo por outro objeto por conjectura.
+- No episódio da mulher com fluxo de sangue, *salva* e *salvam facere* foram traduzidos por “salva” e “salvar”, preservando a passagem entre a cura corporal e a salvação espiritual.
+- O título gramaticalmente irregular *Curatio duae feminarum* foi traduzido por “Cura de duas mulheres”; conservado o singular do título *Curatio caeci et muti*, “Cura do cego e do mudo”.
+- Conservadas as referências e as formulações peculiares da fonte, inclusive João 5:40, Lucas 5:29 e Levítico 12; *Mc. ult., 20* foi explicitado como Marcos 16:20.
+- Nota [^6], no n. 810: esclarece “partes alíquotas” e a definição aritmética de número perfeito.
+- Nota [^7], no n. 825: esclarece “supererrogação”, necessária à distinção entre obrigação, permissão e renúncia ao direito de sustento.
+- Mantido o futuro de *appropinquabit*, “se aproximará”, tanto no texto evangélico quanto no comentário do n. 817.
+- Conservadas as interpretações dos nomes transmitidas no n. 812, sem ajustá-las a etimologias modernas; *donatus / donantes / donavit* vertidos por “agraciado / agraciando / agraciou”, preservando a relação verbal do argumento.
+- Mantidas as peculiaridades da fonte, inclusive Atos 14:51, “compre igualmente um alforje” na citação de Lucas do n. 822, a classificação de roupas e calçados como “riquezas artificiais” e a afirmação de hospitalidade dos sodomitas no n. 835.
+- As referências latinas a IV Reis e I Reis foram vertidas pelos títulos correntes correspondentes, 2 Reis e 1 Samuel; Marcos *ult.* e Hebreus *ult.* foram explicitados como Marcos 16 e Hebreus 13.
+- Nota [^8], no n. 869: registra a leitura obscura *coriandrum*, traduzida literalmente por “coentro”, seguida na fonte de “sepulcro dos mortos”; não se conjecturou uma correção.
+- Nota [^9], no n. 877: esclarece “úmido nutritivo” e “úmido radical” como vocabulário da fisiologia medieval.
+- Conservadas as referências e peculiaridades da fonte, inclusive João 15:18, Apocalipse 6:14 e 20:9, a contagem de três pessoas atribuída a Lucas 12:53 e a formulação do n. 890 sobre o conhecimento do pai acerca do filho.
+- *Anima* foi mantida como “alma” no texto de Mateus 10:39 e nas retomadas, preservando a explicação explícita “alma é tomada por vida” no n. 894.
+- *Tecta* foi vertido por “terraços” nas citações e retomadas, em consonância com a explicação dos telhados planos no n. 865.
+- No n. 879, regularizado apenas o fechamento da marcação de ênfase, separando a citação evangélica da citação do Salmo.
+- As referências a III Reis foram vertidas por 1 Reis; as indicações *ult.* foram explicitadas como 2 Timóteo 4, Mateus 28, Gálatas 6 e Efésios 6, conforme o livro citado.
+- Nota [^10], no n. 916: explica a distinção lexical entre *mulier* e *femina*, conservadas em latim porque ambas podem corresponder a “mulher” em português.
+- Nota [^11], no n. 919: esclarece “viador”, “compreensor” e “grandeza virtual”, termos técnicos da comparação.
+- Nota [^12], no n. 957: esclarece a amplitude de *confiteri*, necessária para relacionar “eu vos louvo” à tríplice confissão exposta pelo autor.
+- Conservadas as peculiaridades da fonte, inclusive Joel 2:22, Mateus 7:12, Joel 2:13 e Romanos 14:11; no n. 947, *in iustitia* foi traduzido por “na justiça”, sem corrigir para “na injustiça”.
+- Conservadas, no n. 914, as alternâncias entre “diante de tua face” e “diante de minha face”; no n. 950, mantida a formulação elíptica sobre os que Deus conheceu de antemão, sem completar o argumento por conjectura.
+- No n. 938, *differenter utens cibis* foi traduzido por “usando os alimentos de maneira diferente”, sem substituir a leitura latina por uma formulação conjectural.
+- As indicações *ult.* foram explicitadas como Hebreus 13, Deuteronômio 34, Lucas 24, Jó 42, Mateus 28 e Oseias 14; III Reis foi vertido por 1 Reis.
+- O subtítulo *Exprobatio civium* foi traduzido por “Repreensão dos habitantes das cidades”, preservando *civium* em vez de substituí-lo por *civitatum*.
+- Nota [^13], no n. 996: explica os sentidos de *puer* e a aproximação com *puritas*, necessárias ao argumento.
+- Nota [^14], no n. 1033: identifica *emitriteum*, conservado em latim, como denominação antiga da febre semiterçã.
+- Nota [^15], no n. 1041: explica o jogo verbal entre *intentio* e *extra tentio*.
+- Conservadas as peculiaridades da fonte, inclusive 1 Samuel 13:8, Lucas 6:1, Salmo 53:3, João 10:3 e Isaías 5:22; I, III e IV Reis foram vertidos, respectivamente, por 1 Samuel, 1 Reis e 2 Reis.
+- No n. 1024, conservada a mudança de *Spiritus blasphemia* (“blasfêmia contra o Espírito”) para *Spiritus blasphemiae* (“espírito de blasfêmia”), porque a explicação subsequente trata da vontade de blasfemar.
+- Conservadas sem emenda conjectural as formulações *sustinet voluntatem* (n. 1005), *per passionem* (n. 1020), a repetição de *ex parte aversionis* e a conclusão com *ex inclinatione* (n. 1033).
+- *Festum neomeniae* foi traduzido por “festa da lua nova”; *in die calendarum*, por “no primeiro dia do mês”.
+- No n. 1001, *materialiter* foi explicitado como “tomando-as como objeto do juízo”, conforme a explicação imediatamente seguinte sobre o poder de julgar as nações.
+- Nota [^16], no n. 1052: explica “sinédoque”, termo técnico empregado no cômputo dos três dias e três noites.
+- No n. 1052, *suum simplum destruxit nostrum duplum* foi vertido por “o que nele era único destruiu o que em nós era duplo”, mantendo a explicação subsequente pela pena e pela culpa.
+- Conservadas sem emenda as expressões *inter condemnandos* (“entre os que hão de ser condenados”, n. 1056), *simulationes vitiorum* (“simulações dos vícios”, n. 1065) e *denuntiatio poenitentiae eorum* (“anúncio da penitência deles”, n. 1070).
+- Conservadas as referências e as associações textuais da fonte, inclusive 1 Reis 10:24 nas duas ocorrências do n. 1058, Lucas 8:19 no n. 1068 e a formulação “caminho da verdade” em 2 Pedro 2:21 no n. 1065.
+- No n. 1075, a construção *plus diligo istos quam affectus matris meae vel fratres* foi vertida por “Meu amor por estes supera o afeto por minha mãe ou pelos irmãos”, explicitando em português a comparação dos afetos.
+- Notas [^17]–[^20]: explicam, respectivamente, a contagem com os dedos no n. 1094, os dois sentidos de *ne quando* no n. 1112, “humor” na fisiologia antiga no n. 1130 e a distinção entre *aliam* e *alteram* no n. 1133.
+- *Incrassatum est cor* foi vertido por “o coração tornou-se insensível” no lema e em sua retomada; a exposição do n. 1111 conserva o vocabulário de espessura, grosseria e sutileza que fundamenta a imagem.
+- Conservados os trechos lacônicos ou difíceis, inclusive “Porque etc.” no n. 1093, “mente endurecida” no n. 1089, “há distância entre este e aquele” no n. 1128, “semente inspirada” no n. 1134 e “semelhança de ambos” no n. 1152.
+- Conservada, no n. 1132, a atribuição do impedimento externo à parábola anterior e do interno à presente, embora inverta a divisão do n. 1084.
+- Conservadas as referências e formulações da fonte, inclusive Lucas 2:10 no n. 1118, *A Cidade de Deus*, livro II, capítulo 23, no n. 1131, Lucas 22 no n. 1134, “eram dos nossos” no n. 1139, Salmo 9:9 no n. 1140 e Levítico 13 no n. 1156.
+- No n. 1151, conservada integralmente a discussão sobre matar, coagir e excomungar, sem harmonizar suas atribuições a Crisóstomo e Agostinho.
+- Na fala dos servos ao pai de família, conservado o singular “tu”; nas citações que se dirigem diretamente a Deus, empregado “vós”.
+- Notas [^21]–[^22]: explicam, respectivamente, a composição de *procul* e *phanos* no n. 1212 e o triclínio no n. 1226.
+- *Eructabo* e *eructavit* foram vertidos por “farei jorrar” e “fez jorrar”, preservando no n. 1174 a imagem de algo que procede do íntimo.
+- *Caritas*, no n. 1193, foi vertido por “preciosidade”, em referência ao valor da pérola; nos contextos teologais permanece “caridade”.
+- Preservadas as formulações difíceis: apenas “espírito e alma” na primeira enumeração do n. 1168; o conhecimento do juízo pela tribulação no n. 1182; a perda de Cristo e da lei no n. 1231.
+- Conservadas, sem harmonização, a afirmação de que a mente de Jesus foi iluminada pelos anjos e por Deus no n. 1212, a narrativa da divisão do reino no n. 1217 e as relações familiares atribuídas a Filipe, Aretas e Herodes no n. 1223.
+- Mantidas as referências da fonte, inclusive Mateus 5:15 no n. 1191, Mateus 13:52 no n. 1204, Mateus 3:5 no n. 1211 e Mateus 10:33 no n. 1236; capítulos indicados como último ou penúltimo foram expressos numericamente.
+- No n. 1219, conservada a formulação “a alma de João tivesse passado para a alma de Cristo”; no n. 1234, mantida a distinção entre o efeito recebido pelo morto e o afeto de quem o sepulta.
+- Notas [^23]–[^24]: esclarecem os quatro dotes do corpo glorificado e a divisão do Decálogo em duas tábuas.
+- No n. 1279, *ortus*, na interpretação do nome Genesaré, foi vertido por “nascimento”, conservando a forma transmitida.
+- No n. 1249, “conversão de outra matéria na matéria dos pães” explicita o referente do pronome latino sem modificar a explicação do milagre.
+- Preservadas as formulações difíceis: a paixão associada à subida de Cristo no n. 1260; os que zombam do poder deste século no n. 1265; a “quarta vinda” no n. 1271; a referência a Tobias e Gabelo e o emprego de “pena” antes da promessa de longevidade no n. 1289.
+- Conservadas as referências da fonte, inclusive João 6:69 no n. 1255, João 10:3 e Êxodo 3:13 no n. 1269, Levítico 22:2 no n. 1292, Mateus 7:2 no n. 1302 e Jó 40:8 no n. 1309; capítulos indicados como último foram expressos numericamente.
+- No n. 1276, *stetit spiritus procellae* foi vertido por “levantou-se um vento de tempestade”, sem harmonizar a citação com a cessação do vento comentada no parágrafo.
+- No n. 1292, mantidas separadamente as três interpretações da oferta feita em lugar do sustento dos pais, incluindo a formulação difícil atribuída a Agostinho.
+- No n. 1307, conservada a passagem da citação de Jeremias à distinção entre natureza e vontade perversa, sem completar o argumento com elementos ausentes da fonte.
+- No n. 1316, a leitura de *aliquid* como restrição ao enunciado anterior foi expressa por “de tudo [...] alguma parte”, preservando a explicação subsequente de que o todo pode ser tomado pela parte.
+- Notas [^25]–[^27]: esclarecem a aproximação latina entre *misericors* e *miserum cor*, o termo *transcorporatio* e o sentido técnico de “reato”.
+- Os títulos latinos defeituosos *Negotio signae Pharisaeis* e *Professio Petris de Christo* foram vertidos conforme o assunto da lição e os títulos já fixados no sumário.
+- Mantidas as referências da fonte, inclusive 2 Crônicas 36 no n. 1322, Mateus 9:26 no n. 1326, Deuteronômio 8:19 no n. 1328, Efésios 4:28 no n. 1329, Salmos 138:3 no n. 1337, Gálatas 6:17 no n. 1341, 1 Coríntios 4:5 no n. 1347, Salmos 26 no n. 1360, João 6:64 no n. 1366, Mateus 9 no n. 1378 e Apocalipse 21:4 no n. 1384. Capítulos indicados como último foram expressos numericamente; III e IV Reis foram vertidos como 1 e 2 Reis.
+- Conservadas as dificuldades da fonte: “ainda não rejeitaram totalmente”, sem objeto expresso, no n. 1329; “não sabe que és” no n. 1342; “muitos peixinhos” no n. 1345; a negativa “não aparecerão sinais do céu” no n. 1358; e a frase fragmentária final do n. 1373, sem reconstruir um argumento ausente.
+- No n. 1353, *poma* foi vertido por “frutos”, preservando a explicação de Magedã e sua associação à Sagrada Escritura.
+- Conservadas a designação “Cesareia de Tracon” no n. 1369, a metáfora de atravessar a abóbada no n. 1375 e a explicação de *Bar-Iona* como “filho de João” no n. 1377, sem harmonização histórica ou textual.
+- No n. 1391, *in sacramento perfecto* foi entendido como “no sacramento consumado”, mantendo a referência à graça conferida na realização do sacramento.
+- Nota [^28]: explicita a aproximação latina entre *crux* e *cruciatus*, que sustenta a explicação da cruz como tormento.
+- Nota [^29]: explica os termos escolásticos “viador” e “compreensor” no n. 1425.
+- Mantidas as referências da fonte, inclusive Jó 15:3 no n. 1402, Filipenses 3:12 no n. 1410, Números 16:32 no n. 1430, Lucas 9:23 no n. 1432 e Lucas 1:7 no n. 1448. As indicações de capítulo “último” foram expressas numericamente; I e IV Reis foram vertidos como 1 Samuel e 2 Reis.
+- Conservadas as atribuições e dificuldades textuais: a citação atribuída a Marcos no n. 1402; a formulação atribuída a Paulo no n. 1404; a frase fragmentária de São Gregório no n. 1414; “duas coisas [sic]”, seguida de três itens, no n. 1417; “testemunho material” no n. 1433; e Jesus indicado pela pomba no n. 1438.
+- No n. 1397, conservada a distinção entre “dizer” e “mostrar” tal como aparece no latim, sem inverter suas explicações.
+- No n. 1451, o marcador escolástico *ly* foi vertido por “o termo”, introduzindo o pronome cuja referência é examinada.
+- Nota [^30]: explica “compleição” como termo da medicina antiga, no n. 1458.
+- Nota [^31]: esclarece a distinção técnica entre pena de dano e pena dos sentidos, no n. 1493.
+- Mantidas as referências da fonte, inclusive Hebreus 2 no n. 1469, Sabedoria 2:12 no n. 1474, Lucas 20:27 no n. 1488, Romanos 12:10 no n. 1489 e 1 Coríntios 13:10 no n. 1505. As indicações de capítulo “último” foram expressas numericamente; I e IV Reis foram vertidos como 1 Samuel e 2 Reis.
+- Conservados o salto do n. 1454 ao n. 1456, a equivalência monetária enunciada no n. 1483 e as dificuldades da exposição do tributo nos nn. 1478–1480, sem harmonização externa.
+- No prólogo, conservadas as citações fragmentárias, a instrução “Nota, explica e assinala os capítulos” e a menção de Adão na sequência genealógica.
+- No n. 1490, conservada a passagem do lema “quem acolher uma criança” à explicação sobre quem é maior; no n. 1506, conservada a formulação “anjos, isto é, demônios”.
+- “Livres” foi vertido por “isentos” quando se trata diretamente da obrigação tributária; “livres” e “liberdade” foram mantidos na explicação teológica da filiação.
+- Nota [^32]: esclarece o talento como unidade de peso e de valor monetário, em contraste com o denário, preparando a explicação do n. 1537.
+- Conservadas sem harmonização as formulações numéricas dos nn. 1510, 1512 e 1530, inclusive “setenta vezes” na explicação por adição e a sequência de seis, cem, dez e onze na explicação final.
+- Mantidas as referências da fonte, inclusive Romanos 9:26 no n. 1536, Jó 19:16 no n. 1540 e Eclesiástico 33:14 no n. 1541. “1 Paralipômenos, último capítulo” foi expresso como “1 Crônicas 29”, sem corrigir a atribuição da citação.
+- No n. 1524, conservada a distinção entre “no céu” e “nos céus”, da qual depende a explicação atribuída a Orígenes.
+- No n. 1519, “reparação de interesse particular” verte *privata emenda*, no contraste entre corrigir por interesse próprio e corrigir por Deus.
+- Nota [^33]: explica a referência às Decretais, os títulos identificados pelas palavras iniciais e a abreviação *De corp. Vit.*, sem acrescentar localização não fornecida.
+- Nota [^34]: esclarece o sentido técnico de “estado de perfeição”, necessário à distinção dos nn. 1593–1596.
+- *Capere* foi traduzido por “acolher” na sentença sobre a continência e em sua exposição, conservando a unidade verbal do argumento.
+- No n. 1555, *per manum communem* foi vertido por “por uma autoridade pública”, conforme o contexto da elaboração da carta e do exame pelos sábios.
+- Mantidos sem harmonização os dados e as referências da fonte, inclusive Oseias 1:2, 2 Esdras 4, Êxodo 15:25, 1 Coríntios 7:11, Salmo 37:5, Romanos 9:6, Jó 42:1, João 10:17, Jó 33:11 e João 15:9.
+- No n. 1577, conservado “poucos” nas duas ocorrências de *paucos*, apesar da leitura incomum no contexto.
+- Corrigidos na tradução lapsos tipográficos inequívocos, como *filiges*, *Notum lac*, *perfectos*, *aspidens* e *polluit*; normalizados os numerais corrompidos *vr*, *xvn* e *cxux* para 6, 17 e 149, respectivamente.
+- No n. 1618, a frase iniciada por *non elegit Dominus* foi pontuada como pergunta retórica, preservando sua negação e seus termos.
+- Nota [^35]: esclarece a imagem técnica da “veste” e sua relação com a glória da alma e do corpo ressuscitado.
+- Nota [^36]: esclarece a oposição entre a morte “simples” de Cristo e a morte “dupla” do homem; no texto, explicitado “morte” para tornar inteligíveis os substantivos elípticos *simplum* e *duplum*.
+- Conservadas as particularidades da fonte, inclusive os dez denários usuais no n. 1627, “a nona hora é o tempo de Cristo” no n. 1633, “faz duas coisas” antes da enumeração de três no n. 1635 e a negativa *non retorqueatis* no n. 1639.
+- No n. 1641, entendido *numeratio* como lapso por *murmuratio* e traduzido por “murmuração”, conforme o argumento. Corrigidos também *erant* para o futuro na citação do n. 1647 e *facerent* para “se calassem” no n. 1676, conforme as respectivas passagens evangélicas transcritas na fonte.
+- No n. 1651, *locus legalis et sacerdotalis* foi traduzido por “lugar da lei e do sacerdócio”, conservando *legalis* sem substituí-lo por uma referência à realeza.
+- No n. 1669, conservado o sentido de *miserum est* como “é uma condição penosa”, sem emendar o latim.
+- Mantidas sem harmonização as referências e as formulações bíblicas da fonte, inclusive Êxodo 23 e 34:20, 1 Reis 26:23, Mateus 27:10, Isaías 50:6, Oseias 6:3, Mateus 16:23, Provérbios 1:10, Jeremias 23:5 e Eclesiástico 23:38.
+- Nota [^37]: explica que a associação entre *asinus* e “insensato” pertence à exposição etimológica do autor e não se reproduz em “jumento”.
+- Nota [^38]: esclarece o sentido literal de *infans*, “aquele que não fala”, necessário para compreender a pergunta do n. 1707.
+- Nota [^39]: esclarece os figos temporãos e a comparação de sua precocidade com os apóstolos.
+- No n. 1688, conservado o termo latino *ut*, acompanhado de “para que”, por ser objeto da distinção gramatical entre valor causal e consecutivo.
+- No n. 1711, *diaeta* foi traduzido por “jornada”, conforme o contexto do trabalhador; no n. 1718, a ordem dirigida ao monte passa ao tratamento reverente em “vós” quando o monte é explicitamente identificado com Cristo.
+- Conservadas as particularidades da fonte, inclusive a morte na quinta-feira ao entardecer no n. 1696, a identificação dos construtores com os apóstolos no n. 1749 e as formulações divergentes das citações bíblicas. Mantida também a ausência da primeira alternativa do raciocínio dos interlocutores entre Mateus 21:25 e 21:26.
+- Mantidas sem harmonização as referências bíblicas, inclusive Êxodo 29:35, 3 Reis 17:28, Mateus 11:15, João 14:15, Isaías 36:21, Mateus 2:7 e Mateus 28:34. “3 Reis” conserva a numeração de *III Regum* da fonte.
+- No título da segunda lição, entendido *sacerdotium* como lapso por *sacerdotum*; no n. 1745, entendido *neret* como lapso por *fieret*, traduzindo a expulsão da sinagoga.
+- Nota [^40]: explica a relação lexical entre *altilia* e *alita*, que fundamenta a exposição das aves cevadas.
+- Nota [^41]: esclarece o uso de *nubere*, a designação “neutro-passivo” e a distinção entre *nubent* e *nubentur*; conservadas as formas latinas discutidas pelo autor.
+- Nota [^42]: esclarece a associação etimológica entre *mens* e *metiri*, mantendo-a como explicação adotada pelo comentário.
+- *Prandium* foi traduzido por “banquete” na parábola; no n. 1754, por “refeição do dia”, para conservar a comparação explícita com a ceia.
+- Conservadas as diferenças entre a passagem evangélica e sua retomada no comentário: “propriedade” e “vinha”, “cidade” e “cidades”, bem como a ordem variável de “bons e maus” e “mãos e pés”.
+- No n. 1801, “homens” é empregado no sentido masculino exigido pelo contraste com ambos os sexos; explicitada “a distinção dos sexos” para tornar inteligível o argumento.
+- No n. 1814, conservado “carnalmente”, conforme o latim e a citação do coração e da carne, sem substituir a explicação do autor por uma paráfrase espiritualizante.
+- Mantidas sem harmonização as referências e particularidades da fonte, inclusive Lucas 22, Salmo 23:3, Colossenses 3:15, Isaías 6, Ezequiel 33, Deuteronômio 10:14, a numeração “2 Reis” e Jesus “sentado” na citação de Atos 7:55.
+- Conservada a diferença entre “obras pesadas” em Mateus 23:4, conforme *opera*, e “fardos pesados” na exposição, conforme *onera*.
+- *Legalia* foi traduzido por “prescrições legais”, conservando sua distinção dos preceitos morais e sua função figurativa na explicação.
+- *Decimatis* foi traduzido por “pagais o dízimo” no texto evangélico; a exposição conserva expressamente os dois sentidos propostos por Tomás: dar e exigir dízimos.
+- Nota [^43]: esclarece o sentido de *excolare* e conserva, sem harmonização, a explicação do n. 1873 sobre engolir com dificuldade.
+- Nota [^44]: identifica brevemente o Evangelho dos Nazarenos como escrito não canônico conhecido por testemunhos e citações antigos.
+- Mantidas as referências e particularidades da fonte, inclusive Deuteronômio 26 e 28, Isaías 3:34, Efésios 3:4 com “ministério”, Joel 2:28 com “todas as nações” e “Joiada” no n. 1895.
+- No n. 1871, conservados “juízo, justiça e fé” e a aplicação de “estas coisas” aos dízimos, conforme a exposição latina, sem harmonizar com a passagem evangélica.
+- No n. 1872, conservada a classificação do dia determinado para o culto como “judicial”, embora o argumento também empregue “cerimonial”.
+- Conservadas a formulação “os corpos mortos dos santos” no n. 1879 e a sequência argumentativa abrupta do n. 1900, sem emendas conjecturais ao latim.
+- Conservadas as referências particulares da fonte, inclusive Filipenses 2 no n. 1906, “Amós 5, ou, segundo outra referência, 7” no n. 1914 e a citação composta atribuída a Romanos 1:5 no n. 1922.
+- Mantidas as cronologias distintas da exposição: quinquagésimo ano depois da paixão no n. 1913 e quarenta anos no n. 1922, sem harmonização.
+- No n. 1914, conservada a afirmação de que o ar “nos serve de duas maneiras”, sem completar a enumeração ausente no latim.
+- No n. 1921, conservado o futuro de *appropinquabit*: “se aproximará o Reino dos Céus”.
+- Traduzido *non fieret salva omnis caro* por “nenhuma carne seria salva”, preservando “carne” para a interpretação de “homem carnal” no n. 1938.
+- Nota [^45]: identifica brevemente Josefo e a obra histórica evocada na descrição da tribulação de Jerusalém.
+- No n. 1939, conservadas as formulações incomuns “percorrem a palavra da salvação” e “por acréscimos da verdadeira doutrina”, sem emenda conjectural.
+- Conservadas as referências particulares da fonte, inclusive Jó 31:27 no n. 1963, Marcos 13:26 no n. 1983 e as citações compostas de Isaías 26:10 e Ezequiel 12:22.
+- No n. 1941, o marcador escolástico *ly*, que introduz a palavra examinada, foi vertido por “o termo”.
+- Mantida a atribuição a “sabedoria” da passagem de Provérbios 9:14 no n. 1949, sem harmonização com o texto bíblico.
+- No n. 1955, conservada a forma “anathe” atribuída ao hebraico pela fonte, sem correção conjectural.
+- Conservadas as formulações difíceis do latim, inclusive “tribos do céu” no n. 1962, “segunda vinda” no n. 1963 e “do céu, isto é, do centro do mundo” no n. 1974.
+- No n. 1981, mantido o anúncio de “duas coisas” seguido de três membros, conforme a fonte.
+- No n. 1986, conservada a formulação “ao falar do fim do mundo, deteve-se no fim do mundo”, sem reconstruir uma redação conjectural.
+- Nota [^46]: explica a imagem de perfurar a casa mediante uma abertura na parede, preservada na parábola e em sua exposição.
+- Traduzido *dividet eum* por “o dividirá”, preservando a palavra que fundamenta as interpretações de São Jerônimo e Orígenes no n. 2008.
+- Conservadas as referências particulares da fonte, inclusive João 4:12 no n. 2011, Cântico dos Cânticos 1:5 no n. 2054 e as citações compostas atribuídas a 1 Coríntios 15:52 e Gálatas 6:8.
+- No n. 2043, “João, último capítulo, 22” foi explicitado como João 21:22, sem corrigir a referência para o capítulo em que se encontra a citação.
+- No n. 2011, conservada a leitura *obsistunt* como “se opõem”, sem emendá-la conjecturalmente.
+- Mantidas a repetição de “diferem” no n. 2015 e a expressão “Filho de Deus” na citação de Mateus 24:27 no n. 2033.
+- Conservado “e orai” na conclusão do n. 2030, embora não conste do versículo transcrito no início da lição.
+- Nas falas dirigidas ao senhor das parábolas, mantido o singular “tu”; nas citações que se dirigem reverentemente a Deus, empregado “vós”.
+- No n. 2070, conservada em itálico a transliteração grega *argireon* fornecida pela fonte.
+- Nota [^47]: esclarece a concepção aristotélica do movimento e repouso dos corpos pesados, pressuposta pela comparação do n. 2053.
+- Nota [^48]: explica os termos técnicos “pena de dano” e “pena dos sentidos”, empregados na divisão do n. 2072.
+- Conservadas as referências particulares da fonte, inclusive Isaías 50:7 no n. 2081, Eclesiástico 35 no n. 2088, Mateus 18:29 no n. 2095, Hebreus 5 e Deuteronômio 23:5 no n. 2107, Mateus 7:1 no n. 2113, Eclesiastes 4 no n. 2118, João 11:13 no n. 2123, João 11:5 no n. 2129 e Romanos 8:14 no n. 2138.
+- As referências latinas a capítulos finais foram explicitadas: Provérbios 31:23, Hebreus 13:2, Isaías 66:24 e Mateus 28:20. “II Regum 24:17” foi vertido como “2 Samuel 24:17”, segundo a denominação corrente do livro.
+- Conservadas as irregularidades do texto: o anúncio de três motivos seguido de quatro no n. 2079; a citação incompleta de Mateus 19:28 no n. 2084; a relação entre alma e recepção dos corpos no n. 2085; “concessão da glória” no n. 2094; e “transformou a bênção em maldição” no n. 2107.
+- No n. 2126, mantida a sequência transmitida, inclusive a ligação da finalidade sacrificial à frase sobre não crucificar no dia da festa, sem suprir uma oposição ausente do latim.
+- No n. 2142, mantido “predestinação” nas duas ocorrências, sem substituir o termo por “presciência”.
+- Nota [^49]: explica a imagem técnica das vestes da alma e do corpo.
+- Nota [^50]: traduz o verso mnemônico latino das sete obras de misericórdia, conservado no texto.
+- Nota [^51]: esclarece a irregularidade das formas *pascendo*, *pasqui* e *pasci* na explicação etimológica de Páscoa, sem emendar a fonte.
+- “Decima quarta luna” e expressões semelhantes foram vertidas como “décimo quarto dia da lua”, conservando a contagem lunar da fonte.
+- Conservadas as referências particulares da fonte, inclusive Mateus 17:7 no n. 2165, João 6:56 no n. 2172, João 13:25 no n. 2179, João 6:55 no n. 2180, Apocalipse 17:1 no n. 2193, João 5:30 e João 6:64 no n. 2196. “Lc. ult., 27” foi explicitado como Lucas 24:27.
+- Conservadas as irregularidades da exposição, inclusive o anúncio de duas razões seguido apenas da primeira no n. 2201, “este é chamado testamento” no n. 2202 e o futuro “se aproximará” na citação de Mateus 4:17.
+- No n. 2184, “ly” foi traduzido por “o termo”; a exposição sobre a palavra final “meum” foi conservada com o correspondente “meu”, embora a ordem portuguesa da fórmula seja diferente.
+- “Conficere”, no contexto eucarístico, foi vertido por “consagrar” ou “realizar o sacramento”, conforme a construção.
+- Nos nn. 2169–2171, mantidas as disposições de jejum conforme a exposição histórica da fonte, sem atualizá-las.
+- No n. 2203, “vetustas” foi vertido por “condição antiga”, e “suum simplum solvit nostrum duplum” por “sua condição simples desfez nossa condição dupla”, preservando a oposição entre pena e culpa apresentada imediatamente antes.
+- Nota [^52]: esclarece a associação verbal entre “paropsis” e “paria latera”, sem apresentá-la como etimologia estabelecida.
+- Nota [^53]: esclarece o sentido técnico de “sacramento” e “realidade” na distinção tripla do n. 2191.
+- “Villa” foi vertido por “propriedade” na descrição de Getsêmani; “villa pinguedinis”, por “propriedade da abundância”, conservando a interpretação apresentada pela fonte.
+- No n. 2218, a pergunta de construção irregular “quomodo ergo indigebat Deus qui faciebat?” foi vertida como “como, então, Deus, que assim procedia, necessitava disso?”, referindo a necessidade à oração.
+- Conservadas as irregularidades da exposição: o anúncio de uma utilidade dupla seguido de três aplicações no n. 2218; a formulação repetitiva sobre a vontade recebida do Pai e a vontade comum com o Pai no n. 2232; a construção condicional interrompida no n. 2239.
+- No n. 2237, “spiritus redit corpus promptum” foi entendido no sentido de “o espírito torna o corpo pronto”, conforme a construção e o argumento sobre a ressurreição.
+- Conservadas as referências particulares da fonte, inclusive João 8:49 no n. 2218, João 18:3 no n. 2246, João 6:71 no n. 2249 e 2 Samuel 10:1 no n. 2252. As referências a capítulos finais foram explicitadas como 2 Coríntios 13:4, João 20:17 e Lucas 24:26.
+- No n. 2256, conservadas a identificação dos chefes dos sacerdotes com os romanos e a sequência da interpretação sobre a orelha direita, sem corrigir suas dificuldades.
+- No n. 2262, conservados os números da fonte: seis mil homens por legião, setenta e dois mil em doze legiões e a correspondência proposta com as línguas humanas.
+- No n. 2266, “ly ut” foi vertido por “a expressão para que”, conservando a distinção entre sentido causal e consecutivo.
+- Nota [^54]: esclarece o termo técnico “propaixão” na distinção entre movimento afetivo e alteração do governo da razão.
+- Nota [^55]: assinala a aproximação sonora entre “latro” e “latet”, que não se conserva em português.
+- Conservadas as irregularidades da exposição: o anúncio de três pontos seguido de dois no n. 2270; a compra do sacerdócio “dos judeus” e “de Pilatos” no n. 2268; a sequência sobre os livros proféticos canônicos e apócrifos no n. 2321; e o emprego de “profeta” para ambos os casos no n. 2336.
+- No n. 2286, “vestimenta tua” foi vertido por “suas vestes”, corrigindo o lapso de pessoa à luz de Mateus 26:65 e da repetição no n. 2287.
+- Conservadas as referências particulares da fonte, inclusive Salmo 17:16, Daniel 7:7, Isaías 62, 1 João 2:6, Marcos 14:66 e Lucas 22:55. As referências a capítulos finais foram explicitadas como Apocalipse 22:3 e Mateus 28:18; “I Reg.” foi vertido por “1 Samuel”.
+- No n. 2296, conservado o exemplo de França, Picardia e Borgonha na passagem que atribui a solução a Jerônimo, sem corrigir a sequência da atribuição.
+- No n. 2297, a defesa de Pedro baseada em “non novi hominem” foi explicitada como “não o conhecia como homem, mas como homem e Deus”, preservando o argumento que Tomás rejeita em seguida.
+- Conservadas as atribuições doutrinais a Fotino, Eunômio e Ário no n. 2299, sem harmonização com outras exposições.
+- Em Mateus 27:9, regularizada a abertura defeituosa do itálico em “e*t acceperunt”, mantendo toda a citação em itálico.
+- Conservada a alternância entre “trinta moedas de prata” e “trinta denários” nos comentários sobre Judas.
+- No n. 2321, o título “De Optimo genere interpretationis” foi vertido por “Sobre o melhor modo de traduzir”.
+- No n. 2335, conservadas em latim as expressões “pro” e “pro tribunali” necessárias à explicação gramatical; a locução foi traduzida por “no tribunal” nos lemas e na narrativa.
+- Nota [^56]: esclarece “lesa-majestade” no contexto da acusação de realeza perante Pilatos.
+- Nota [^57]: esclarece que a análise de “pro tribunali” versa sobre a preposição latina e a posição ocupada pelo juiz.
+- Conservadas as remissões e irregularidades da exposição: a terceira parte indicada por “Exeuntes autem” no n. 2347; quatro milagres anunciados e cinco enumerados nos nn. 2377–2378; e a tríplice causa da morte seguida de mais motivos no n. 2389.
+- Conservadas as referências particulares da fonte, inclusive Isaías 22:18, Salmo 117:10, Hebreus 2:33, João 7:29 e João 13:31. A referência “Io. ult., 17” foi explicitada como João 21:17, sem harmonizá-la com o texto citado.
+- Conservadas as formulações particulares das citações, inclusive Moisés estendendo as mãos durante três horas em Êxodo 10:22, “o Senhor reinou do lenho” no Salmo 95:10 e a redação de Hebreus 12:2 no n. 18.
+- Em Mateus 27:43, “Confidet” foi traduzido no futuro, “confiará”; no lema do n. 2374, “confidit” foi traduzido por “confiou”, preservando a diferença da fonte.
+- No n. 2361, conservado “recebeu” como a leitura atribuída a Marcos, sem inserir uma negação ausente no latim fornecido.
+- No n. 2364, “effectu” foi traduzido por “efeito”, sem substituí-lo por “afeto”.
+- No n. 2383, conservadas as atribuições a Ário e Nestório e a sequência de sujeitos e pronomes da exposição, sem harmonização doutrinal.
+- Conservadas a designação “Maria de Zebedeu” no n. 2409 e a forma grega transliterada “Salomei” no n. 2403.
+- Nota [^58]: esclarece a aproximação entre aldeia e paganismo no n. 2357, distinguindo os termos latinos envolvidos.
+- Nota [^59]: identifica as designações escolares da gramática de Prisciano e traduz as fórmulas latinas conservadas no n. 12.
+- Nota [^60]: explica a conservação de “Jesus” para os personagens chamados Josué em português, necessária ao argumento do n. 18.
+- Conservadas as particularidades das contagens de gerações nos nn. 40–42, inclusive “quinta geração” em Gênesis 15:16 e a conclusão de que Moisés foi o quarto a partir de Levi.
+- Conservadas a atribuição a Abraão da fala sobre o riso no n. 34 e a referência Jeremias 12:17, sem harmonização com o texto bíblico.
+- No n. 48, a expressão difícil “Petra deserti est, scilicet mali” foi traduzida mantendo “mali” como “do mal”, sem emenda conjectural.
+- Em Deuteronômio 23:3 e na discussão imediata, “Ecclesia” foi traduzida por “assembleia”, em referência à comunidade de Israel.
+- Conservadas as irregularidades genealógicas do n. 64: “Ioram” como Jorão, “Ioras” como Joás, a identificação de Amasias com Azarias e a afirmação de que Jorão gerou Amasias.
+- Nos nn. 75–77, conservadas as variantes Joatão e Joatás, as afirmações divergentes sobre a primogenitura e a atribuição dos nomes Joaquim e Jeconias a ambos os reis. As grafias latinas *Ioakim* e *Ioachim* permanecem no argumento ortográfico do n. 77.
+- Nota [^61]: explica a aproximação entre “elevar” e “retirar” no comentário ao nome Asa.
+- Nota [^62]: explica os sentidos de *comprehendere* que ligam a interpretação do nome Acaz à citação de Filipenses 3:12.
+- Conservadas as particularidades genealógicas dos nn. 80–82 e 101, inclusive “primeiro” e “segundo” grupos de catorze gerações, a menção a Sedecias e as variantes Fadaías, Cafadara e Cafa, sem harmonização.
+- Conservadas as referências e formulações bíblicas da fonte, inclusive Isaías 9:2, Efésios 5:4, João 11:26, Provérbios 4:8, 2 Coríntios 2:2, “somos filhos” em 1 Coríntios 4:15 e o passado “cobriu” em Lucas 1:35.
+- Nos nn. 94 e 109–112, preservadas as distinções linguísticas necessárias ao argumento; *Ioakim* e *Ioachim* permanecem em latim no n. 80.
+- Nota [^63]: esclarece a distinção entre as preposições latinas *de*, *per*, *a* e *ex*, que não se conserva integralmente em português.
+- Nota [^64]: explica o duplo sentido de *spiritus*, “sopro” e “espírito”, na analogia do n. 112.
+- Nota [^65]: esclarece a adaptação do verso latino atribuído a Virgílio à crucifixão, conservando o verso sem lhe atribuir um locus não fornecido pela fonte.
+- Conservadas a ordem e as remissões da divisão do n. 114, embora não coincidam com a sequência efetiva da exposição.
+- Em Mateus 1:23, “terá em seu ventre” conserva a formulação da fonte e a distinção entre “terá” e “conceberá” discutida no n. 142; conservada também a menção ao nome de Jesus nesse argumento.
+- No n. 136, “chamarás” e “imporás um nome” explicitam a distinção entre pronunciar o nome já escolhido por Deus e escolhê-lo.
+- No n. 159, “Deus, meu Jesus” conserva a formulação de Habacuc citada no argumento sobre o nome de Jesus.
+- Em Mateus 28:1 e sua exposição, conservado “ao entardecer”, indispensável às soluções apresentadas por Tomás; *prima Sabbati* traduzido por “primeiro dia da semana”, explicitando-se a contagem a partir do sábado onde o autor a explica.
+- Nota [^66]: esclarece a relação entre a saudação latina *avete*, traduzida por “Salve!”, e o grego *chaírete*, que também significa “alegrai-vos”.
+- Nota [^67]: esclarece o sentido técnico de “espécies” na teoria do conhecimento do n. 2459.
+- Nota [^68]: esclarece a etimologia de *fatum* a partir de *fari* e identifica Túlio como Cícero.
+- Conservadas as referências da fonte, inclusive João 21:12 no n. 2438, Lucas 24:12 e Marcos 16:14 no n. 2442, Daniel 12:5 no n. 2447, Salmo 83:3 no n. 2452, Salmo 31:7 no n. 2455, Mateus 10:27 no n. 2468 e Josué 9:10 no n. 161, sem harmonização.
+- Conservadas as particularidades da exposição, inclusive a menção a Marcos no n. 2418, a enumeração anunciada de três razões no n. 163 embora apenas duas sejam desenvolvidas e a frase incompleta “por isso, sabiam que etc.” no n. 2449.
+- Em Mateus 28:19, mantido “ensinai todas as nações”, conforme o latim e a exposição do encargo de ensinar nos nn. 2462–2464.
+- Em Mateus 2:6 e sua exposição, conservado “entre os chefes de Judá”, para preservar a explicação posterior como “entre as principais cidades de Judá”.
+- No n. 201, a pontuação explicita a enumeração de três sentidos: literal, compreendendo o alegórico; anagógico; moral.
+- Nota [^69]: esclarece que a ausência de livre-arbítrio atribuída às crianças pequenas se refere à ausência de seu exercício.
+- Nota [^70]: esclarece os sentidos de *anima*, “alma” e “vida”, e a conservação de “alma do menino” na passagem usada para refutar Apolinário.
+- Conservadas as referências da fonte, inclusive Lucas 2:3 no n. 183, Lucas 2:6 no n. 206, Mateus 1:5 no n. 208, Habacuc 3:8 no n. 210, Atos 13:16 no n. 213, Romanos 2:25 no n. 214 e 1 Tessalonicenses 4:12 no n. 231. “Eccl. XXXII, 13”, no n. 180, foi expandido como “Eclesiástico 32:13”.
+- Conservadas as particularidades do texto: “a segunda” depois da enumeração de três partes no n. 205; o anúncio de duas partes seguido de três nos nn. 217 e 236; “filhos de Israel” no n. 216; a exposição sobre Lia e Raquel no n. 230; e o relato da divisão do reino no n. 238, sem harmonização.
+- Em g5-c001, mantida a alternância entre *appropinquavit*, “se aproximou”, no texto evangélico, e *appropinquabit*, “se aproximará”, na exposição.
+- *Desperatio de divino iudicio* foi traduzido por “descrença no juízo divino”, conforme a explicação expressa do n. 271: não crer que haja juízo.
+- Nota [^71]: explica *vi pariens* e a aproximação etimológica com *vipera*, conservando a descrição antiga apresentada pelo texto.
+- Nota [^72]: identifica “o Mestre” como Pedro Lombardo, autor das *Sentenças*.
+- Nota [^73]: explica a diferença gramatical entre *igni* e *ignis*, que não aparece em português; a variante citada no n. 282 foi conservada em latim.
+- Conservadas as referências bíblicas da fonte, inclusive Provérbios 15:27 no n. 265, Mateus 23:31 no n. 264, João 4:34 no n. 284 e Atos 10:19 no n. 298. As indicações de último capítulo foram expandidas para Mateus 28 e Isaías 66.
+- Preservadas, sem harmonização, a formulação sobre o parentesco espiritual no n. 251; a explicação do costume matrimonial no n. 278; a enumeração do n. 292; “serafins” depois da citação com “querubins” no n. 298; e as atribuições das fórmulas evangélicas nos nn. 303–304.
+- No n. 283, *reficiat carnem* foi conservado como “restaure a carne”, sem substituir a leitura latina pela ideia de mortificação mencionada antes.
+- Conservadas a distinção entre “viverá”, no texto de Mateus 4:4, e “vive”, na exposição, e a forma futura “se aproximará” para *appropinquabit* em g6-c002.
+- Em Mateus 4:10, a forma isolada *serviens* foi vertida como “servirás”, conforme a construção coordenada e a forma *servies* retomada expressamente na exposição do n. 344.
+- *Assumere* foi traduzido por “tomar consigo”, com explicitação do deslocamento quando há destino; no n. 323, conservada a discussão sobre a força implicada nessa expressão.
+- Notas [^74]–[^76]: esclarecem, respectivamente, a designação “sarracenos” e a alusão ao jejum do Ramadã; o significado do nome Deuteronômio; e os sentidos de leveza e peso explorados em *alleviata* e *aggravata*.
+- Conservadas as referências bíblicas da fonte, inclusive Isaías 41:23 no n. 329, Jeremias 1:15 no n. 335, Deuteronômio 6:16 no n. 343 e João 1:28 no n. 382; “último capítulo” de 2 Pedro foi expandido para 2 Pedro 3.
+- Preservadas sem harmonização a conta dos dias de jejum no n. 313, a cronologia dos anos de pregação nos nn. 349–350, a localização da outra parte da Galileia na tribo de Judá no n. 356 e a afirmação de que o verbo exprime a voz no n. 360.
+- Conservadas as formulações difíceis sobre a filiação divina no n. 330 e sobre a dignidade e seu esplendor no n. 370, sem substituir o latim por uma reconstrução conjectural.
+- As interpretações tradicionais dos nomes foram traduzidas como apresentadas pelo autor, inclusive Pedro como “aquele que conhece”; *satan*, *latria* e *dulia* foram conservados em itálico quando tratados como vocábulos.
+- No n. 386, a construção elíptica foi vertida distinguindo a perfeição proveniente da graça da perfeição política proveniente do hábito.
+- Conservadas as referências e formulações da fonte sem harmonização, inclusive Lucas 6:1 no n. 391, Gênesis 15:7 no n. 412, a citação associada a Josué 15:19 no n. 422 e o capítulo 19 do último livro de *A cidade de Deus* no n. 434.
+- Preservadas a menção a três sentidos de justiça, embora só dois sejam desenvolvidos no n. 427, e a retomada “por causa de Cristo” no n. 447.
+- Conservadas as explicações sobre a lua e os lunáticos, as interpretações dos nomes geográficos e as variantes latinas dos aparatos Marietti e Busa.
+- Nos nn. 415 e 435, os vocábulos examinados como tais foram tratados conforme sua função: explicitada a leitura “pelo Espírito” para o Espírito Santo e conservados em latim *templum* e *contemplando*. Também conservadas em itálico as formas *sophi*, *sophos* e *philosophus* no n. 427.
+- Notas [^77]–[^80]: esclarecem, respectivamente, a distinção entre *in via* e *in patria*, a composição de *misericors*, a aproximação entre *templum* e *contemplando* e o jogo verbal entre *laetitia* e *latitia*, com a distinção terminológica do n. 449.
+- Conservadas as enumerações incompletas ou irregulares, inclusive as quatro razões anunciadas no n. 452 e as três explicações anunciadas no n. 462.
+- Preservadas as referências bíblicas divergentes ou incompletas, inclusive 2 Samuel 2:22, Jeremias e Salmos no n. 460, Eclesiástico 25, 1 Timóteo 4, Romanos 9 no n. 475, Provérbios 3:127, Mateus 5 no n. 500 e 1 Coríntios 3 no n. 502. Não se acrescentaram capítulos ou versículos ausentes; números de epístolas foram explicitados quando a citação permitia identificá-las sem ambiguidade.
+- Nos nn. 467 e 492, mantido o caráter fragmentário de passagens latinas corrompidas, sem reconstrução conjectural. Em *mortsi*, adotada a leitura mínima *mortis*, “da morte”. No n. 486, a oração incompleta sobre a “verdadeira virtude” foi vertida sem lhe atribuir uma definição ausente.
+- Conservadas a ordem discrepante dos cinco adversários e de suas citações no n. 498, a repetição de “adversário” no n. 499 e a explicação do quadrante como fração de um denário no n. 501.
+- Preservados os limites do itálico da fonte no n. 462, inclusive onde abrangem palavras da exposição junto da citação.
+- No n. 472, mantidas as formas *iotha*, *ioth* e *alep* e a descrição recebida das letras e sinais; a nota esclarece o valor numérico do iota, relevante para a associação ao decálogo.
+- Notas [^81]–[^85]: esclarecem, respectivamente, o alqueire como recipiente, a redação defeituosa do n. 467, a letra iota e seu valor numérico, a aproximação de *racha* a *rachos* e a passagem corrompida junto à referência a Daniel no n. 492.
+- Preservadas as referências bíblicas divergentes e incompletas, entre elas Êxodo 22 no n. 504, João 21 no n. 507, 2 Coríntios 5 no n. 509, Êxodo 30 e Deuteronômio 5 no n. 517, 1 Coríntios na primeira citação sobre a alma no n. 519, Salmos, último, no n. 520, Jó 26 no n. 521, Filipenses 3:20 nas duas ocorrências do n. 521, Jó 21:16 no n. 535, Eclesiástico 30:12–13 no n. 536, Lucas 23:24 no n. 545 e 1 Coríntios 3 no n. 567. Números de epístolas omitidos foram explicitados apenas quando identificáveis pela citação, sem corrigir os capítulos recebidos.
+- Conservadas as passagens irregulares sem reconstrução doutrinal ou textual: a afirmação sobre a lei natural nos seres sem razão no n. 506; “por não ser apóstolo” no n. 510; as perguntas e a objeção abreviadas nos nn. 514–515; a alternância de pessoa em Deuteronômio 5 no n. 517; os “três” elementos anunciados no n. 520; a definição fragmentária do verdadeiro no n. 523; “Ao contrário” no n. 527; a formulação sobre os hereges no n. 529; a sequência sobre dar, emprestar e receber no n. 536; e a objeção incompleta de Agostinho no n. 566.
+- No n. 532, a ligação irregular *quam quod praelati faciunt* foi vertida por “diferentemente do que fazem os prelados”, conforme a oposição expressa entre suportar os danos das igrejas e não suportar os dos parentes.
+- Mantidos os colchetes editoriais de [isso] e [mal] no n. 547, a atribuição da instituição dos publicanos a Públio no n. 552 e a sequência dos graus de perfeição nos nn. 554–558.
+- Notas [^86]–[^89]: assinalam a construção truncada *iurare corporis*; esclarecem “pátria” e “caminho”; registram a sequência irregular *quaeritur relinquitur* na citação das *Sentenças de Próspero*; e explicam a função da etimologia recebida de “hipócrita”, conservando *hypo* e *crisyo*.
+- Mantidas as 38, 66 e 23 unidades dos três arquivos, além das definições das notas acrescentadas; conservados os níveis dos títulos e os blocos de citação. Preservado o marcador incompleto “[n.” de Mateus 6:10.
+- Traduzido o Pai-Nosso conforme o latim recebido, inclusive “assim no céu como na terra”, “pão nosso supersubstancial” e “não nos conduzais à tentação”. Não acrescentado “Amém” ao texto de Mateus 6:13, onde o latim não o traz; conservada sua exposição no n. 600.
+- Preservadas as referências divergentes ou incompletas, sem substituí-las pelas da tradução inglesa: entre outras, 2 Samuel 14, 1 Samuel 16:1, Eclesiastes 7:9, Eclesiástico 5:1, Gálatas 2:3, Deuteronômio 33:4, Lucas 4, Êxodo 9:9, Sabedoria 12, Mateus 10 na exposição da paternidade divina, Jeremias 7, Isaías 4, Mateus 26:34, João na citação “Foi-me dado o poder”, 1 Timóteo 4 e Tessalonicenses, 1 Coríntios 9, Sabedoria 9, João 6, 1 Timóteo 5, Eclesiástico 28, Salmos 51:12, Provérbios 7, Eclesiástico 18, Mateus 10:42 e Provérbios 20:11. As referências a Reis na numeração da Vulgata foram vertidas pelos nomes correspondentes de Samuel e Reis; não se alteraram os capítulos recebidos.
+- Conservadas sem reconstrução as irregularidades dos nn. 572–578: alternância entre singular e plural em “quando orares, não sereis”; descrição abreviada da disposição e do lugar; formulação sobre proibir o modo de oração pelo qual se elimina a vanglória; “e isso é todo o efeito”; o fragmento “da igreja” após Eclesiastes 7:9; e “ninguém ora senão àquele que vê”.
+- Preservadas as passagens truncadas ou irregulares dos nn. 592–600, incluindo “Bem-aventurado, tu que comerás o pão”, a conclusão “pela santificação” na comparação do pão oferecido ao sacerdote, a citação “Se dissermos que os pecados” e “por isso ninguém pode” na explicação da doxologia. Mantida a atribuição dessa doxologia ao hebraico.
+- No n. 605, conservadas a frase “E não é, porque...” e a oração sem sujeito expresso “tanto mais se enfraquece”; nos nn. 606, 608 e 609, mantidos “esta é a oração”, “coisas comuns aos hipócritas” e “assim também nossa consciência”, sem completar ou inverter o sentido recebido.
+- Nota [^90]: esclarece o sentido litúrgico de “Horas”. Nota [^91]: traduz os equivalentes latinos *praecipuum* e *egregium*, conservados como dados lexicais ao lado de *epiousion*. Nota [^92]: explica a formação de *exterminare* e sua relação com a interpretação de “desfigurar”.
+- Mantidas as 80 e 72 unidades dos dois arquivos, além das definições das notas acrescentadas; preservados títulos, blocos de citação, destaques e numeração autoral.
+- Conservadas as frases interrompidas e construções irregulares, entre elas “que ninguém” no n. 612, a versão sobre a traça e a devoração no n. 613, “no céu e não primeiro” no n. 614, “da qual menos se prevê” no n. 618, o fragmento “fingir” no n. 620 e a aquisição do necessário sem conclusão no n. 622.
+- Preservados “céu corpóreo” na comparação do n. 614, “ressurreição da alma” no n. 624, “promessa divina” nos nn. 628–629, a atribuição de “mamona” à língua persa, a formulação “os infiéis não devem fazer isso” e a injunção irregular “não busques primeiro o Reino de Deus” no n. 630.
+- No n. 625, traduzido o recebido *elementarum* por “dos elementos”, sem substituí-lo conjecturalmente por “esmolas”. No n. 627, interpretado *minimia* como lapso por *nimia*, vertido por “excessiva”, conforme o argumento sobre a preocupação temporal.
+- Mantidas as referências divergentes e incompletas, inclusive Lucas 19:21, 2 Reis 20:14, 1 Coríntios 7:28, 1 Samuel 9:20, 3, Sabedoria 1:4, Isaías 10, 50, Atos 11, 4:35 e Amós 6:13. Expandida a abreviatura irregular “Elli.” como Eclesiástico 32:1. As referências a Reis e Paralipômenos receberam os nomes portugueses correspondentes.
+- Conservada no n. 646 a pergunta “não lhe dará uma serpente?”, sem harmonizá-la com o versículo inicial.
+- Nota [^93]: esclarece a tomada da cruz e a viagem além-mar no exemplo do n. 623. Nota [^94]: explica o sentido técnico de “afastamento” e “conversão” na análise do pecado, evitando confusão com a conversão religiosa.
 - Mantidas as 78 unidades do arquivo, além da definição da nota acrescentada, com os títulos, blocos de citação, destaques e numeração autoral.
 - Conservadas as referências divergentes recebidas, entre elas Jeremias 26:13, Isaías 26:13, 1 Coríntios 10:1, Salmos 124:4 e Salmos 73:30. A referência ao último capítulo de Marcos foi explicitada como Marcos 16:20; a de Judas, como Judas 1:12.
 - Preservados “criação má” no n. 661, a atribuição de vontade boa e intenção não reta ao exemplo do furto para dar esmola, “sobre palha” no n. 674 e os fragmentos incompletos dos nn. 676 e 679, sem harmonização conjectural.

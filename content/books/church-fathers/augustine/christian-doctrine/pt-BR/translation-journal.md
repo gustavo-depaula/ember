@@ -1,15 +1,181 @@
+# Diário de tradução — A Doutrina Cristã (pt-BR)
+
+Fonte: en-US/, tradução de James Shaw, em Nicene and Post-Nicene Fathers, Primeira Série, vol. 2, edição de Philip Schaff (Buffalo, NY: Christian Literature Publishing Co., 1887), revista e editada para o New Advent por Kevin Knight.
+Destino: pt-BR.
 
 ## Termos
 
+| Inglês | Português | Notas |
+|---|---|---|
+| Christian Doctrine | A Doutrina Cristã | Título da obra. |
+| On Christian Doctrine | Sobre a Doutrina Cristã | Título dos livros internos. |
+| Augustine of Hippo | Santo Agostinho de Hipona | Nome do autor nos metadados. |
+| Scripture / Scriptures | Escritura / Escrituras | Preservada a alternância de número da fonte. |
+| sacred writings / sacred books | escritos sagrados / livros sagrados | |
+| rules of interpretation | regras de interpretação | |
+| Divine Grace / grace of God | graça divina / graça de Deus | |
+| divine illumination | iluminação divina | |
+| Holy Spirit | Espírito Santo | |
+| sacraments | sacramentos | |
+| faith, hope, and love | fé, esperança e amor | |
+| Truth | Verdade | Maiúscula quando designa Deus. |
+| unchangeable God | Deus imutável | |
+| Antony | Antão | Monge egípcio. |
+| Christianus | Cristiano | Nome próprio do escravo, conforme a apresentação da fonte inglesa. |
+| Paul / Peter / Philip | Paulo / Pedro / Filipe | |
+| Cornelius | Cornélio | |
+| Isaiah / Moses | Isaías / Moisés | |
+| Acts | Atos | |
+| Exodus | Êxodo | |
+| Matthew / John | Mateus / João | |
+| 1 Corinthians / 2 Corinthians | 1 Coríntios / 2 Coríntios | |
+| Holy Scripture | Sagrada Escritura | |
+| thing / sign | coisa / sinal | Distinção que organiza a exposição. |
+| use / to use | uso / usar de | “Usar de” também quando o objeto é uma pessoa. |
+| enjoyment / to enjoy | fruição / fruir de | Termos técnicos para o repouso naquilo que se ama por si mesmo. |
+| Trinity / triune God | Trindade / Deus trino | |
+| Father / Son | Pai / Filho | |
+| substance | substância | |
+| unchangeableness | imutabilidade | |
+| Wisdom | Sabedoria | Personificada; concordância gramatical no feminino. |
+| Word / Divine Word | Verbo / Verbo divino | Na referência ao Filho; “palavra” na analogia com a fala humana. |
+| ineffable / unspeakable | inefável | Uniformização que preserva o argumento do capítulo 6. |
+| soul / spirit / flesh | alma / espírito / carne | |
+| enjoyment of God | fruição de Deus | |
+| neighbor | próximo | |
+| order of love | ordem do amor | |
+| repentance | arrependimento | |
+| incorruption / incorruptibility | incorruptibilidade | |
+| Church | Igreja | |
+| Jacob / Abraham | Jacó / Abraão | |
+| Jerusalem / Jericho | Jerusalém / Jericó | |
+| Genesis / Romans / Jeremiah | Gênesis / Romanos / Jeremias | |
+| Ephesians / Galatians / Revelation | Efésios / Gálatas / Apocalipse | |
+| Blessed Trinity | Santíssima Trindade | |
+| Supreme and Unchangeable Good | Bem supremo e imutável | |
+| temporal dispensation | economia temporal | Ordenação providencial da salvação no tempo. |
+| faith / hope / love / charity | fé / esperança / amor / caridade | Conservada a alternância entre “love” e “charity” da fonte. |
+| Philemon | Filêmon | |
+| Proverbs / Philippians / 1 Timothy | Provérbios / Filipenses / 1 Timóteo | |
+| signs / natural signs / conventional signs | sinais / sinais naturais / sinais convencionais | |
+| proper signs / figurative signs | sinais próprios / sinais figurados | |
+| fear / piety / knowledge / strength / resolution / counsel / wisdom | temor / piedade / ciência / fortaleza / firmeza / conselho / sabedoria | “Ciência” designa o terceiro degrau; nos demais contextos, “knowledge” é geralmente “conhecimento”. |
+| counsel of compassion | conselho da compaixão | |
+| canonical / canon | canônico / cânon | |
+| Word | Verbo | No §17, a semente espiritual dos cristãos. |
+| Septuagint / Itala | Septuaginta / Ítala | Mantido *Itala* no parêntese latino da fonte. |
+| dispensation of Providence | economia da Providência | |
+| solecism / barbarism | solecismo / barbarismo | |
+| Song of Songs / Wisdom / Ecclesiasticus | Cântico dos Cânticos / Sabedoria / Eclesiástico | |
+| Siloam / Sion / Jordan | Siloé / Sião / Jordão | |
+| Varro / Hesiod / Ptolemy | Varrão / Hesíodo / Ptolomeu | |
+| Jupiter / Mercury / Apollo / Muses | Júpiter / Mercúrio / Apolo / Musas | |
+| carbuncle / beryl / adamant / hyssop | carbúnculo / berilo / diamante / hissopo | |
+| psaltery / harp | saltério / harpa | |
+| haruspices / augurs | harúspices / áugures | |
+| genethliaci / mathematici | *genethliaci* / *mathematici* | Designações latinas dos astrólogos, conservadas como na fonte. |
+| constellation | constelação | Nos §§33–34, designa a configuração dos astros no nascimento. |
+| dialectic / rhetoric / eloquence | dialética / retórica / eloquência | |
+| inference / antecedent / consequent | inferência / antecedente / consequente | Distingue-se a validade do raciocínio da verdade das proposições. |
+| definition / division / partition | definição / divisão / partição | |
+| mechanical arts / liberal instruction | artes mecânicas / formação nas artes liberais | |
+| Cato / Virgil | Catão / Virgílio | |
+| Mars / Venus / Lucifer | Marte / Vênus / Lúcifer | Lúcifer, no §32, é o nome do astro. |
+| Julius Cæsar / Augustus Cæsar | Júlio César / César Augusto | |
+| Esau / Jacob / Saul | Esaú / Jacó / Saul | |
+| Plato / Pythagoras / Platonists | Platão / Pitágoras / platônicos | |
+| Ambrose / Eusebius | Ambrósio / Eusébio | |
+| Cyprian / Lactantius / Victorinus / Optatus / Hilary | Cipriano / Lactâncio / Vitorino / Optato / Hilário | |
+| charity / passover / only-begotten Son | caridade / Páscoa / Filho unigênito | |
+| proper words / metaphorical words | palavras próprias / palavras metafóricas | “Próprias” designa palavras tomadas em seu sentido não figurado. |
+| rule of faith | regra da fé | |
+| inquiry / interrogative | pergunta aberta / interrogação | No §6, distingue a pergunta que admite várias respostas daquela respondida com “sim” ou “não”. |
+| lust | concupiscência | Desejo desordenado, em oposição à caridade; não se restringe ao desejo sexual. |
+| enjoyment / to enjoy | fruição / fruir | Nas definições teológicas e na distinção entre uso e fruição. |
+| vice / crime | vício / crime | No §16, distinguem o dano à própria alma e ao próprio corpo do dano causado a outra pessoa. |
+| prudence / benevolence | prudência / benevolência | |
+| schoolmaster | pedagogo | Na comparação da antiga servidão aos sinais com a tutela dos meninos. |
+| Nathanael / Nazareth / Neptune | Natanael / Nazaré / Netuno | |
+| Hosea / David / Solomon | Oseias / Davi / Salomão | |
+| Sirach / Tobit / Revelation | Eclesiástico / Tobias / Apocalipse | Nomes dos livros bíblicos. |
+| Tichonius / Donatists / Pelagian heresy | Ticônio / donatistas / heresia pelagiana | “Ticônio” segue o diário de Dos homens ilustres, de Genádio. |
+| trope / catachresis / antiphrasis / synecdoche | tropo / catacrese / antífrase / sinédoque | Terminologia das figuras de linguagem. |
+| species / genus | espécie / gênero | Na quarta regra, designam a parte e o todo, conforme a definição de Ticônio. |
+| recapitulation / legitimate numbers | recapitulação / números legítimos | Termos da sexta e da quinta regras. |
+| mixed Church | Igreja mista | Designação proposta no §45. |
+| washing of regeneration | banho da regeneração | |
+| Kedar / Ishmael / Ham / Shem | Cedar / Ismael / Cam / Sem | |
+| Song of Solomon / Song of Songs | Cântico dos Cânticos | As duas denominações inglesas recebem o mesmo nome português. |
+| rhetoric / eloquence / oratory / elocution | retórica / eloquência / oratória / elocução | Distinções mantidas no Livro IV. |
+| clause / section / period | membro / inciso / período | Na análise retórica, correspondem a *membrum*, *cæsum* e *περίοδος*; “membro” também traduz *member*. |
+| Christian teacher / eloquent divine | mestre cristão / pregador eloquente | Conforme a função de ensino e pregação discutida no Livro IV. |
+| to teach / to delight / to persuade / to move | ensinar / deleitar / persuadir / mover | Preservadas as distinções entre os fins do discurso. |
+| Amos / Jerome / Cicero | Amós / Jerônimo / Cícero | |
+| Zion / Samaria / Calneh / Hamath / Gath | Sião / Samaria / Calné / Emat / Gat | Topônimos da citação de Amós. |
+| subdued style / quiet style | estilo simples | A mesma categoria retórica; “sereno” e “tranquilamente” preservam qualificações descritivas conforme o contexto. |
+| temperate style | estilo moderado | Categoria intermediária, associada ao deleite, ao louvor e à censura. |
+| majestic style | estilo elevado | Categoria associada à veemência e à persuasão da vontade. |
+| Cyprian / St. Ambrose | Cipriano / Santo Ambrósio | |
+| Gideon / Hagar / Melchizedek / Salem | Gedeão / Agar / Melquisedec / Salém | |
+| Cæsarea in Mauritania / Caterva | Cesareia, na Mauritânia / *Caterva* | Conservado o nome latino da luta coletiva descrita no §53. |
+| sacrament of the cup / Lord’s supper | sacramento do cálice / ceia do Senhor | Preservadas as designações da fonte. |
 | perspicuity | clareza | Qualidade exigida nos três estilos de discurso. |
 | sound doctrine | sã doutrina | |
 | Moses’ seat | cátedra de Moisés | Preservada a imagem da sede de autoridade no §59. |
 
 ## Decisões
 
+- No prefácio, §3, “old moon” foi traduzido por “lua minguante”, designação corrente da fase lunar.
+- No prefácio, §4, “Christianus” foi tratado como nome próprio e vertido por “Cristiano”, seguindo a construção da fonte inglesa.
+- A referência “Acts x”, no prefácio, §6, foi normalizada para “Atos 10”, sem acrescentar versículos.
+- No prefácio, §8, a separação tipográfica indevida em “re proach” foi resolvida como “repreensão”.
+- Preservadas as formulações das citações bíblicas da fonte: “vós” no destinatário plural de 1 Coríntios 3:17 e “tu”, expresso pela flexão “devias”, no destinatário singular de Mateus 25:26-27.
+- A descrição bibliográfica em `sources` foi preservada como string, sem alteração de estrutura ou acréscimo de campos; os campos localizáveis existentes receberam entradas `pt-BR`.
+- Adotados “fruir/fruição” e “usar/uso” para a distinção central do Livro I; a nota do tradutor [^1], no §3, esclarece brevemente seus sentidos técnicos.
+- Preservado *Deus* como palavra latina, seguido de “Deus” entre parênteses, conforme a explicação da fonte. A nota do tradutor [^2], no §6, esclarece a diferença de divisão silábica entre latim e português.
+- A personificação de “Sabedoria” mantém concordância feminina, inclusive nos pronomes das citações incorporadas ao argumento do §12; no capítulo 13, “Verbo” passa a reger a concordância masculina.
+- No §9, a pontuação defeituosa de “how I know it? Is” foi regularizada, mantendo a pergunta indireta dentro da mesma frase.
+- Conservada a abreviatura latina em itálico *i.e*. no §25, com a glosa subsequente traduzida.
+- Mantido “tu” na interlocução singular com o leitor e nos mandamentos; “vós” nas exortações plurais, na interpelação aos coríntios e no tratamento reverente de Deus no §34. Em Êxodo 3:14 (§35), “Dirás” se dirige a Moisés, e “vós” aos destinatários de sua mensagem.
+- No §37, “have joy of” foi traduzido por “ter/encontrar alegria em”, e “enjoy” por “fruir”, preservando a passagem da expressão da citação ao vocabulário técnico já estabelecido.
+- Nos §§43–44, mantida a alternância da fonte entre “caridade” nas citações e “amor” na explicação, sem introduzir uma distinção conceitual entre os termos.
+- No §13, preservadas a enumeração antiga dos livros bíblicos e as atribuições autorais da fonte. Acrescentada a nota [^1] para identificar os quatro livros dos Reis e os dois de Esdras na nomenclatura atual.
+- No §17, “domestics of your seed” foi traduzido por “os de casa da tua semente”, conservando os elementos de que depende a interpretação subsequente.
+- No §18, conservada a grafia grega *ὁζύς* tal como fornecida pela fonte, sem emenda silenciosa.
+- Nos §§19–20, conservados os exemplos latinos, inclusive as formas gramaticais discutidas, e a referência da fonte à terceira sílaba de *ignoscere*. A nota [^2] esclarece a discrepância entre *sapientius est hominibus* e sua glosa inglesa, traduzida fielmente por “mais forte que os homens”, e explica a função comparativa de *quam*.
+- No título do capítulo 11, “Ignorance or Signs” foi entendido como erro tipográfico por “Ignorance of Signs”, conforme o conteúdo do capítulo.
+- No §16, os vocábulos hebraicos transcritos pela edição inglesa foram vertidos nas formas portuguesas Amém, Aleluia, Raca e Hosana.
+- No §37, acrescentada a nota [^3] para explicar os sentidos de *beta* e *lege* necessários aos exemplos linguísticos.
+- No §42, conservada a estrutura incompleta da última frase da fonte inglesa, sem reconstrução conjectural; a nota [^4] informa o leitor do truncamento.
+- No §43, preservada a afirmação da fonte sobre a contemporaneidade de Platão e Jeremias, sem alteração histórica.
+- No §56, acrescentada a nota [^5] para esclarecer que a afirmação sobre os números ímpares considera metades inteiras.
+- No §62, “Knowledge puffs up” foi vertido por “O conhecimento incha”, conservando a imagem retomada na explicação da propriedade purgativa do hissopo.
+- Conservado o número romano “I.” no primeiro parágrafo numerado do Livro III, conforme a fonte.
+- No §3, acrescentada a nota [^6] para tornar compreensível ao leitor de português a alteração de sentido produzida pela pontuação das frases latinas.
+- No §8, acrescentada a nota [^7] para esclarecer a ambiguidade gramatical de *fratres* e o acréscimo de *juro* no exemplo latino.
+- Conservadas as grafias latinas da fonte, inclusive as alternâncias entre *prædixi* e *prœdixi* e a forma *communicandem*, sem emenda.
+- Conservada a referência João 1:47 no §6, tal como fornecida pela fonte.
+- No título do capítulo 18, “Enjoyed” foi traduzido por “desfrutado”, sem emenda conjectural para “Enjoined”.
+- Nos §§27–31, “use wives” foi vertido por “fazer uso do matrimônio com as esposas”, preservando a distinção entre uso e fruição em português natural.
+- No §40, “fish-pond” foi traduzido por “piscina”, com a nota [^8] sobre sua derivação de *piscis*, para preservar o exemplo de catacrese. Fechado o parêntese que a fonte deixa aberto na explicação de *γράμματα*.
+- No §41, acrescentada a nota [^9] para explicar a associação de *lucus* com *lucere*, apresentada no texto como exemplo de antífrase.
+- No §48, “a removed woman” foi explicitado como “uma mulher afastada por causa da menstruação”, preservando a referência à impureza ritual.
+- Conservada a referência Ezequiel 38:26 no §48, tal como fornecida pela fonte.
+- No §55, “on the each” foi tratado como erro tipográfico por “on the earth” e traduzido por “sobre a terra”, conforme as demais ocorrências no mesmo parágrafo.
+- No Livro IV, §11, conservada a grafia grega *κλίμαζ* tal como aparece na fonte; os termos gregos e latinos da análise retórica foram mantidos em itálico.
+- Nas citações de Paulo e Amós e em suas retomadas analíticas, mantidas as mesmas formulações portuguesas e as variações presentes na fonte, inclusive “monte” e “montes” de Samaria.
+- No §16, mantido *quondam* e acrescentada a nota [^10] com seu significado, necessário para compreender a correção feita pelo autor.
+- No §24, acrescentada a nota [^11] para explicar o plural latino *sanguinibus* e a distinção entre *os* (“osso” ou “boca”), seus plurais e a forma popular *ossum*.
+- Corrigidos na tradução os erros tipográficos evidentes “falshood”, “what it true” e “nother”; regularizadas a pontuação da citação no §13 e a separação das orações sobre os divãs e a alimentação no §16.
+- No §33, regularizada apenas a ligação sintática da frase truncada “And is he not be ashamed, rightly dividing the word of truth?”, sem completar a citação com as partes ausentes de 2 Timóteo 2:15.
+- No §39, mantida a formulação afirmativa “se [...] a solução [...] se apresentar” da fonte, embora a continuação “é inútil suscitar o que não podemos resolver” sugira a falta de uma negação no inglês.
+- No §40, acrescentada a nota [^12] para traduzir a frase latina e esclarecer que a discussão sobre a ordem das palavras se refere à cadência em latim.
+- No §45, empregado “tu” na fala do Pai ao Filho, preservando o destinatário singular; nas orações dirigidas pelo homem a Deus, mantido “vós”.
+- No §47, regularizados os limites das aspas para distinguir a primeira citação de Cipriano, a indicação de outra passagem por Agostinho e a segunda citação.
+- Corrigidos os erros tipográficos evidentes “ad vice”, “which is you reasonable service”, “that the ministry not blamed”, “thres hold” e “de lighted”.
 - Preservadas as irregularidades de numeração da fonte: dois parágrafos com **55.**, dois com **63.** e o parágrafo inicial do capítulo 29 sem número.
 - Mantida a referência “1 Coríntios 2:17” no §61, tal como aparece na fonte.
-- No §57, preservada a sequência “buscar ou evitar o que condena, ou renunciar a isso”, embora a relação de “buscar” com “condena” sugira uma lacuna na fonte; não foi acrescentado um objeto ausente.
+- No §57, preservada a sequência “buscar, evitar ou renunciar ao que condena”, embora a relação de “buscar” com “condena” sugira uma lacuna na fonte; não foi acrescentado um objeto ausente.
 - No §63 do capítulo 29, mantida a repetição de “compor” no discurso e na vida, preservando o jogo verbal do inglês.
 - Corrigida a separação tipográfica indevida “com pel”.
 

@@ -1,6 +1,103 @@
+# Diário de tradução — Noite escura (pt-BR)
+
+Fonte: es-ES/ — *Obras de San Juan de la Cruz, Doctor de la Iglesia*, ed. P. Silverio de Santa Teresa, C.D., t. II (Biblioteca Mística Carmelitana), Burgos: El Monte Carmelo, 1929, pp. 359–511.
+Destino: pt-BR.
 
 ## Termos
 
+| Espanhol | Português | Notas |
+|---|---|---|
+| noche oscura | noite escura | |
+| noche del sentido / noche sensitiva / noche del espíritu / noche espiritual | noite do sentido / noite sensitiva / noite do espírito / noite espiritual | |
+| purgación | purgação | |
+| principiantes / aprovechantes / aprovechados / perfectos | principiantes / aproveitantes / aproveitados / perfeitos | Mantida a distinção *aprovechantes*/*aprovechados*, que as notas críticas contrapõem. |
+| contemplación infusa / oscura / secreta | contemplação infusa / escura / secreta | “Escura”, em harmonia com “noite escura”. |
+| sequedad / sequedades | secura / securas | |
+| arrimo / desarrimo / desarrimado | arrimo / desarrimo / desarrimado | Termo conservado. |
+| gusto / sabor / sinsabor | gosto / sabor / dissabor | |
+| regalo / regalar | mimo / acariciar | Na imagem da mãe e do menino. |
+| advertencia amorosa | advertência amorosa | Termo técnico conservado. |
+| noticia / noticias | notícia / notícias | No sentido de conhecimento. |
+| discurso / discurrir | discurso / discorrer | Meditação discursiva. |
+| potencias | potências | |
+| sentido / parte sensitiva / parte inferior | sentido / parte sensitiva / parte inferior | |
+| quietud / ocio / sosiego / sosegado | quietude / ócio / sossego / sossegado | |
+| apetito / concupiscencia | apetite / concupiscência | Como na *Subida*. |
+| entendimiento / voluntad / memoria | entendimento / vontade / memória | Como na *Subida*. |
+| soberbia, avaricia, lujuria, ira, gula, envidia, acidia (espirituales) | soberba, avareza, luxúria, ira, gula, inveja, acídia (espirituais) | Os sete vícios capitais. |
+| conocimiento propio | conhecimento próprio | |
+| vía iluminativa | via iluminativa | |
+| Con ansias en amores inflamada | Com ânsias, em amores inflamada | Verso 2 da canção I. |
+| ¡Oh dichosa ventura! | Oh, ditosa ventura! | Verso 3. |
+| Salí sin ser notada | Saí sem ser notada | Verso 4. |
+| Estando ya mi casa sosegada | Estando já minha casa sossegada | Verso 5. |
+| Sabiduría (divina) | Sabedoria | Com maiúscula, como no original. |
+| e. p. / Códices | e. p. / códices | Edição príncipe; siglas dos manuscritos inalteradas. |
+| David / Abraham / Isaac / Moisés / Job / Isaías / Jeremías / Habacuc | Davi / Abraão / Isaac / Moisés / Jó / Isaías / Jeremias / Habacuc | |
+| San Agustín | Santo Agostinho | |
+| Eclesiástico | Eclesiástico | |
+| En una noche oscura | Em uma noite escura | Verso 1 da canção I. |
+| gula espiritual / golosina / engolosinados | gula espiritual / gulodice / engolosinados | |
+| el natural / naturales | o natural / naturais | No sentido de temperamento. |
+| desgana / desganado | desgana / desganado | |
+| mansedumbre | mansidão | |
+| supuesto | supósito | Termo escolástico (*suppositum*). |
+| melancolía / mal humor | melancolia / mau humor | Sentido humoral; nota do tradutor em l1-c4. |
+| agnusdei / nóminas / dijes | agnus-dei / nôminas / berloques | |
+| el Filósofo | o Filósofo | Aristóteles. |
+| Fariseo / Publicano | fariseu / publicano | |
+| alumbrados | alumbrados | |
+| don Lorenzo (de Cepeda) | Dom Lourenço | Irmão de Santa Teresa. |
+| Apocalipsis | Apocalipse | |
+| salir de mantillas / desarrimar del pecho | sair dos cueiros / desarrimar do peito | |
+| aprovechados / principiantes / perfectos | aproveitados / principiantes / perfeitos | Os três estados. *Aprovechantes* (l2-c1) → “estes que vão aproveitando”. |
+| sequedad / sinsabor | secura / dessabor | |
+| noticia | notícia | Conhecimento; nota do tradutor em l1-c9. |
+| arrimo / desarrimar | arrimo / desarrimar | |
+| aprietos | apertos | |
+| embestir | investir | |
+| barrunto | pressentimiento → pressentimento | |
+| noche oscura / contemplación oscura | noite escura / contemplação obscura | “Escura” para a noite, “obscura” para a contemplação; *oscuridad* → obscuridade; *a oscuras* → às escuras. |
+| Con ansias en amores inflamada | Com ânsias em amores inflamada | Verso 2; ordem e plural mantidos, porque l2-c11 n. 13 discute a forma. |
+| ¡Oh dichosa ventura! / Salí sin ser notada / Estando ya mi casa sosegada | Oh ditosa ventura! / Saí sem ser notada / Estando já minha casa sossegada | Versos 3–5. |
+| madero / labor / hornaza | madeiro / lavor / fornalha | Comparação do fogo (l2-c10). |
+| arrobamientos / traspasos | arroubamentos / transes | |
+| el Sabio | o Sábio | |
+| ratos | momentos | |
+| refección | refeição | |
+| David | Davi | |
+| A oscuras y segura / Por la secreta escala disfrazada / A oscuras y en celada | Às escuras e segura / Pela secreta escada disfarçada / Às escuras e em celada | Canção segunda (l2-c15). |
+| librea | libré | As três librés da alma disfarçada. |
+| lumbre / alumbrar / ilustrar, ilustración | lume / alumiar / ilustrar, ilustração | *Luz* fica “luz”; *ilustración* mantida, porque a n. 37 de l2-c17 a opõe a *coruscaciones*. |
+| destetar | desmamar | |
+| cortedad | limitação | |
+| el Filósofo | o Filósofo | Aristóteles; nota do tradutor em l2-c16. |
+| e. p. | e. p. | *Editio princeps*; sigla mantida nas notas, como H, M, A, B, Bz., Mtr., C, V, P, G. |
+| aprovechados | aproveitados | Estado entre principiantes e perfeitos. |
+| escala (secreta) / escalar | escada (secreta) / escalar | Nota do tradutor em l2-c18. |
+| grado (de la escala de amor) | grau | Também “de grau em grau”; *pasos* da escada → “degraus”. |
+| noticia infusa amorosa | notícia infusa e amorosa | |
+| codicia / codiciar | cobiça / cobiçar | Em bom sentido, nos graus de amor. |
+| desfallecer / desfallecimiento | desfalecer / desfalecimento | |
+| arrimo / desarrimo | arrimo / desarrimo | |
+| estribar | apoiar-se, estribar | Deus no alto da escada. |
+| salud (salvación) | salvação | “sua amada salvação”, “elmo de salvação”. |
+| almilla | gibão | Segunda veste da libré. |
+| blanco, verde, colorado | branco, verde, vermelho | As três cores da libré; *toga colorada* → “toga vermelha”. |
+| Hispalense | Hispalense | O códice H. |
+| Cant. / los Cantares | Cântico dos Cânticos | |
+| ¡Oh dichosa ventura! / Con ansias en amores inflamada | Oh, ditosa ventura! / Com ânsias, em amores inflamada | |
+| a oscuras y en celada | às escuras e às ocultas | Quarto verso da canção 2 (l2-c23); *celada* → “às ocultas”, porque em português *celada* soa a emboscada. |
+| a excusa de | às escondidas de | l2-c23. |
+| En una noche oscura / Salí sin ser notada / Estando ya mi casa sosegada | Em uma noite escura / Saí sem ser notada / Estando já minha casa sossegada | |
+| En la noche dichosa, / En secreto, que nadie me veía, / Ni yo miraba cosa, / Sin otra luz y guía / Sino la que en el corazón ardía | Na noite ditosa, / Em segredo, que ninguém me via, / Nem eu olhava coisa, / Sem outra luz e guia / Senão a que no coração ardia | Canção 3 (l2-c25). |
+| toques sustanciales | toques substanciais | |
+| embestir / embestimiento | investir / investida | |
+| deshacimiento | desfazimento | |
+| supuesto | suposto | Termo escolástico; nota do tradutor em l2-c3. |
+| el Filósofo | o Filósofo | Aristóteles; nota do tradutor em l2-c5. |
+| rayo de tiniebla | raio de treva | |
+| reformación y enfrenamiento | reforma e refreamento | Noite do sentido (l2-c3). |
 | A oscuras, y segura / Por la secreta escala disfrazada / A oscuras, y en celada | Às escuras, e segura, / Pela secreta escada disfarçada, / Às escuras, e às ocultas | Canção 2, com a pontuação da fonte (prologo). |
 | Aquesta me guiaba / Más cierto que la luz del mediodía, / A donde me esperaba, / Quien yo bien me sabía, / En parte donde nadie parecía. | Esta me guiava / Mais certo que a luz do meio-dia, / Aonde me esperava / Quem eu bem me sabia, / Em parte onde ninguém aparecia. | Canção 4. |
 | Oh noche que guiaste… / Amada en el Amado transformada | Oh noite que guiaste… / Amada no Amado transformada | Canção 5. |
@@ -8,7 +105,7 @@
 | El aire de la almena… / Y todos mis sentidos suspendía | O ar da ameia… / E todos os meus sentidos suspendia | Canção 7; *cuello* → “pescoço” (em pt-BR “colo” sugere regaço). |
 | Quédeme, y olvídeme… / Entre las azucenas olvidado | Fiquei-me, e esqueci-me… / Entre as açucenas esquecido | Canção 8. |
 | noche oscura / contemplación oscura | noite escura / contemplação obscura | *oscuridades* → obscuridades; *oscurecer* → obscurecer. |
-| gustar | saborear / gostar | Sentido de provar; “gostar” transitivo, no mesmo sentido, também ocorre (“que costumava gostar”, “gostar o manjar dos robustos”). |
+| gustar | saborear | Sentido de provar; “gostar” só em “não gostar nada”. |
 | afición | afeição | |
 | señuelo | alvo | Vulgata *signum* (Jó 16, Lamentações 3). |
 | espíritu de salud | espírito de salvação | Isaías 26:18 (Vulgata *spiritum salutis*). |
@@ -19,6 +116,75 @@
 
 ## Decisões
 
+- Os números de parágrafo da edição vão em negrito inerte (`**1.**`), nunca como marcadores de lista. Em l1-c12, o § 7 vem colado ao § 6 no mesmo parágrafo da fonte e assim foi mantido (`**7.**` dentro do parágrafo). Em l1-c11, o parágrafo da fonte partido a meio da frase (“A qual também Davi / tinha e sentia…”) foi mantido partido.
+- Notas críticas do P. Silverio: traduzem-se as palavras do editor; as variantes dos manuscritos e da e. p. ficam em castelhano, em itálico, com as siglas inalteradas, à maneira do aparato crítico leonino.
+- Erros evidentes de OCR nas notas corrigidos: *LLar* → *Hallar* (l1-c10, n. 4); *desentirle* → *de sentirle* (l1-c10, n. 12); “Ps XXXVII!” → Salmo 38:3 e “Hab., n, I” → Habacuc 2:1 (l1-c12); edição “de 1030” → 1630 (l1-c14, n. 3); *focamos* → *tocamos*. O lixo de OCR que seguia a referência de Gênesis 21:8 (l1-c12, n. 2) foi suprimido. A sigla “O” de l1-c11, n. 2, ficou como está, por não ser certa a leitura.
+- Referências bíblicas das notas sem nome de livro na fonte (“XXVIII. 19”, “L. 19”, “XXXIV 9-10”, “XXXI. 18”) ficam sem nome de livro (28:19, 50:19 etc.); o livro se deduz do texto. Salmos na numeração da Vulgata, como na fonte.
+- Tratamento de Deus por *vós* nas citações e preces (Santo Agostinho, Salmo 62, Jeremias 31:18).
+- Título do capítulo XIII truncado na fonte (“*ta noche del sentido.*”): reconstituído como “De outros proveitos que esta noite do sentido causa na alma”, conforme o índice da edição e a referência inglesa.
+- l1-c14: o marcador corrompido “{ 1 }” do § 2 corresponde à nota 7 (*sugeridas*/*sujetadas*) e passou a `[^7]`; no § 3, a nota 8 (*Spiritus vertiginis que los ejercite*) ficou junto a “os exercite”.
+- l1-c13, § 15: a fonte diz “que es lo que aquí llama el Señor su casa”, quando quem fala no verso é a alma; traduzido como está, mas é provável erro de OCR (“el alma”). A conferir.
+- l1-c11, § 2: *contribulado* mantido como latinismo (Vulgata *contribulatus*), porque a nota 8 o contrapõe a *atribulado*. *Imponiéndose* vertido por “adestrando-se”, distinto do *ejercitándose* da e. p.
+- l1-c11, § 3: “por esta dita noite” conserva o duplo sentido de *dicha* (“dita” = mencionada e ventura), que a variante *dichosa* da e. p. evidencia.
+- l1-c12, § 4: o período anacolútico (“Que la vejación hace entender Dios cómo…”) foi lido como “a vexação faz entender como Deus… a vai instruindo”.
+- l1-c14, § 4: mantido “é” em “a maneira mais própria… é os trabalhos interiores”, para preservar o contraste com a variante *son* da e. p. (nota 12).
+- Notas do tradutor: l1-c1 [^8] (*aprovechantes* e siglas do aparato); l1-c10 [^19] (*alcoholando*); l1-c13 [^23] (imagem dos jogos de cartas em *perder por corto / por largo*); l1-c14 [^17] (anjo de Satanás, 2 Coríntios 12:7) e [^18] (*Spiritus vertiginis*, Isaías 19:14).
+- Erros de OCR corrigidos em l1-c2: *'manera*, *iiuyen*, *impaeiew ia* (impaciencia), “Di de-estas … .iludías” lido como “De estas … muchas”; nas notas, “Bl” → Bz. (n. 12), *gastan* → *gustan* (n. 13), “B. B:” → “B, Bz.” (n. 18); na n. 22, “en hi ere ij” lido conjecturalmente como *hiere y*.
+- l1-c3: o § numerado “5.” na fonte é o § 3 (OCR) e saiu como **3.**; n. 3 “ftsj” → “Así”; n. 14 *leues* → *leyes*. *Habernos* das variantes corrigido para *habemos* (l1-c3 n. 18, l1-c6 n. 15).
+- l1-c4, n. 25: “casadlas” → “casa las”; “t. VIH, Carta CLXVII1” → t. VIII, Carta CLXVIII.
+- l1-c5: n. 1 *mulo gana* → *mala gana*; n. 2 *desengmio* → *desengaño*; n. 8 “1/ se van tan des pacto” → *y se van tan despacio*.
+- l1-c6: “(justo” → *gusto* (§ 3); cabeçalho corrido “kochf oscrsA” (NOCHE OSCURA) suprimido do § 4.
+- l1-c7: siglas corrompidas das n. 1–2 lidas como Bz.; a variante da n. 3 reconstituída como *y les crece, como dicen, el ojo*.
+- l1-c8: o § 2, sem número e muito corrompido pelo OCR, foi reconstituído (número **2.** restituído); as n. 3–9, ilegíveis em parte, reconstituídas pelo sentido; o cabeçalho corrido na n. 3 foi suprimido. Na n. 9, “( • ftz” lido como “G, Bz.”.
+- l1-c2, § 4: *privar con los confesores* vertido por “ser os favoritos dos confessores”, mantendo “preceder”, que a n. 11 discute.
+- l1-c4, § 2: “porque se le hace este Señor” vertido por “porque este Senhor lho concede”.
+- l1-c6, § 1: a locução *salir del pie a la mano* vertida por “passar muito da conta”.
+- l1-c7, § 3: em Mateus 16:25 mantido “vontade”, que é a palavra do Santo, e não “vida”.
+- l1-c8, § 3: *los veza a andar* vertido por “acostuma-os a andar”; na n. 11 acrescentou-se a leitura (*los veza a andar*) para que se entenda a que se refere a “primeira leitura”. Em l1-c3, n. 9, acrescentou-se do mesmo modo a palavra (*dijes*).
+- Notas do tradutor: l1-c3 [^19] (*nóminas*); l1-c4 [^29] (*supuesto* e o Filósofo) e [^30] (melancolia e humor); l1-c7 [^12] (“crescer o olho”).
+- Termos: a linha de *barrunto* deve ler-se “pressentimento” (erro de digitação na coluna Português).
+- Tratamento a Deus: nos salmos e em Isaías citados em l2-c11, o *ti* do espanhol vira “vós” (“guardarei para vós”, “minha alma teve sede de vós”), pela regra do tratamento reverente a Deus. Os mandamentos e as falas entre criaturas mantêm “tu” (Deuteronômio 6:5; Cântico 6:4).
+- l1-c9, parágrafo 3: “hl camino nr: íista noci:l y purgación sensitiva” é resíduo de OCR que repete o fim do sumário; foi traduzido como está (“o caminho desta noite e purgação sensitiva.”) só para manter o alinhamento de parágrafos. Convém suprimi-lo em es-ES e em pt-BR juntos.
+- Erros de OCR corrigidos em l1-c9: *sensitivta*, “di pecados,- ni de imper lecciones”, “no so le dar” (*no se le dar*), “como alto dice” → *como allí dice* (confirmado pela n. 5), *es!o*, *habernos* → *habemos*; nas notas, “c. p.” → e. p. (n. 1, 2, 5, 7, 11, 18, 19), *muí)* → *muy*, *entec* → *entre*, *corriyc* → *corrige*, *fiene* → *tiene*, “cll¿t … sut/o” → *ella … suyo*, *Mti* → Mtr., *trac* → *trae*, “ve 2 … tiuslada” → *vez … traslada*.
+- l1-declaracion: *ahna* → alma.
+- l2-c1: o § numerado “5.” é o § 3 e saiu como **3.**; “L Al alma” → **1.**; *hacia* → *hacía*. Nas notas: *segando* → *segundo* (n. 1), *Abi* → Así (n. 6).
+- l2-c10: no § 9 fechou-se o parêntese que a fonte deixa aberto depois de *no han de volver más*; na n. 6, “de ir adero” lido como *del madero*.
+- l2-c12, notas: n. 6 “Ps. CXI, 7” corrigido para Salmo 11:7 (a prata examinada no fogo); n. 22 “XXXVIII, i” → Salmo 38:4; n. 9: “el ángel de inferior naturaleza vea … más … que el inferior” corrigido para “de natureza superior”, como pede o sentido; n. 15 *Leyuñoso* → *legañoso*; n. 18 “a!ni3''” lido conjecturalmente como *almas*; n. 26 “B:.” lido como Bz.
+- l2-c10: *Lo primero … Lo séptimo* vertido por “Em primeiro lugar … Em sétimo lugar”; na n. 24 mantém-se a leitura espanhola *Lo sexto*.
+- l2-c1, § 2: *traspasos* → “transes”; *sin que anuble y trasponga el sentido* → “sem que o sentido se anuvie e desfaleça”.
+- l2-c10, § 9: *se le cegó* mantido como “se lhe cegou”, para que se entendam as variantes da n. 28.
+- Notas do tradutor: l1-c9 [^23] (o maná em Sabedoria 16:20-21, aludido em “como ali diz”) e [^24] (*notícia* e “compor e dividir”); l2-c11 [^21] (*paixão* como *passio*) e [^22] (os cães do Salmo 58:15-16); l2-c12 [^29] (tradução de *Cor mundum crea in me, Deus*).
+- Notas de Silverio: as leituras variantes ficam em espanhol e em itálico; só se traduzem as palavras do editor. *Traslada* (copia) → “transcreve”.
+- Notas de Escritura sem nome de livro na fonte (l2-c16 n. 32 “5:30”; l2-c17 n. 17 “1:6” e n. 20 “7:32”) ficam assim, porque o texto já nomeia o livro.
+- Salmos 30:21 (l2-c16) e 76:19-20 (l2-c17): o *tu* dirigido a Deus vira “vós”. Jó 37:16 mantém “tu” (Deus fala a Jó).
+- l2-c13: *defendido* mantido (“por mais que lhe fosse defendido”) para que se entenda a n. 21; *como hace aquí* → “como faz aqui”, para que se entenda a n. 23; *pellejo* → “couro”, para distinguir de *piel* da n. 31; na n. 33, “Así los Códices Mtr inflamarle” lido como “Assim os códices. Mtr.: *inflamarle*”.
+- Erros de OCR corrigidos em l2-c13: “g prende” → *y prende*; “Y por-, que” → *porque*; *este* → *esté*; “ha-< bía”, “n^die”, “ama;>”; “tj hábitos”, “\las”, “dci alma”, “e>la noche”; nas notas, “c. p.” → e. p. (n. 10), *hacia* → *hacía* (n. 12), “pon dremos … capiculo … 3ü” (n. 36).
+- Erros de OCR corrigidos em l2-c14: “dormid'.-s” → *dormidas*; “cié la unión” → *de la*; “por tola infusión” → *por sola*; na n. 5 suprimiu-se o lixo depois de Mateus 10:36. *Recordada* (desperta) → “desperta”; *que le tengan todas las potencias* lido como o silêncio que as potências guardam.
+- l2-c15: “i Olí” → ¡Oh!; na n. 3, “co- sin ie an” lido como *consintieran*. Nota do tradutor [^4] sobre *celada*.
+- Erros de OCR corrigidos em l2-c16: “del de hombre”, “de hi misma”, “1ti misma”, “e^estas”, “dicta” → *dieta*, “rtiuy”, “f.fuerza”, “mane a”, “s gura”; *Obtcncbrata est in calígine cjus* → *Obtenebrata est in caligine ejus*. Na n. 5 reconstruíram-se as palavras truncadas (*mperfección*, *o de amor* → *grado de amor*, *la humilla:* → *la humillará*). A n. 38 é ilegível no OCR; a leitura *y potencias del alma, como están recogidas de todas las demás, emplean* é conjectural e deve conferir-se com a e. p.
+- Erros de OCR corrigidos em l2-c17: “a!m¡. s.^tancialmente”, “sciúido” → *sentido*, “la9”, “en tiende”, “a!”, “mas no hay!”; fim do § 6 “>s declarar con trrniiio ¡mínanos ni migares” lido como *declarar con términos humanos ni vulgares* (conjectural); n. 5 “Hom. H” → Hom. 14; suprimido o lixo das n. 8 e 28. *A a a* de Jeremias → “a, a, a”.
+- Notas do tradutor: l2-c15 [^4] (*celada*); l2-c16 [^39] (o Filósofo e o axioma *quidquid recipitur*) e [^40] (tradução de Isaías 5:30); l2-c17 [^39] (tradução da frase de São Gregório e o seu lugar em II-II, q. 180, a. 1, ligada à n. 5) e [^40] (*coruscações* e a Vulgata do Salmo 76:19).
+- Nas notas de Silverio, o lema que cita o próprio texto fica em espanhol e em itálico, como as variantes, com o erro de OCR corrigido (*habernos* → *hemos*).
+- A Esposa dirige-se ao Esposo por “tu” nas citações do Cântico dos Cânticos (diálogo do livro bíblico). Davi e a alma dirigem-se a Deus por “vós” (Salmo 83:6 em l2-c18; Salmo 142:7 em l2-c19; Salmos 41:2, 118:32 em l2-c20; Salmo 16:4 em l2-c21).
+- l2-c19 n. 25: mantém-se “8:5” como na fonte, embora o versículo seja o 6.
+- l2-c20 n. 6 e 7 (“58:5”, “118:32”) e n. 26 (“5:8”) ficam sem nome de livro, como na fonte, porque o texto já o nomeia.
+- l2-c2: *trampantojos* → “enganam os olhos da alma”; *por bien que le hayan andado las manos* → “por melhor que lhe tenham corrido as coisas”; *a los principios dijimos* → “dissemos no princípio”, mantendo a ambiguidade.
+- l2-c18: *se agrada tanto el Amado del alma* (l2-c21 § 8) reformulado como “a alma agrada tanto ao Amado”.
+- Erros de OCR corrigidos em l2-c18: “es-* tado”, “es-1 triba”, “los. distinguiremos”; nas notas, “Luc.XlV.il.” → Lucas 14:11, “By M” → B y M, “ef proximi”, “opuse.”, “Uempo”.
+- Erros de OCR corrigidos em l2-c19: *Pluviátil voluntariam scgrrgabis … ct infirmata csi* → *Pluviam voluntariam segregabis … et infirmata est*; “c imperfectas”, “que; se sigue”, “*a una”, “ei gozar”, “es piritualmente es el de:>arrimo”; nas notas, “Scrm.” → Serm., “esfe” → este, “I«a”.
+- Erros de OCR corrigidos em l2-c2: “mí s” → *más*, “Alas” → *Mas*, “natura!”, “hieues … cu el sentido” → *bienes … en el sentido*, “gránete” → *grande*; “es la que De la raíz” lido como *es la que hay de la raíz*; nas notas, “uV copia” → *de copia*, “ye p” → y e. p., “Je/nomo creer muchas cistones” → *demonio creer muchas visiones*, suprimido o “V” solto da n. 11.
+- Erros de OCR corrigidos em l2-c20: “D\o¿y” → *Dios y*, “cucurri ri”, “sal-* mo”, “hablo” → *habló*, “liará” → *hará*, “saüendo” → *saliendo*; nas notas, “c. p.” → e. p. (n. 9 e 28), “in. 4” → 3:4, “amorcm”, “de|a”, “dejándolo-,” → *dejándolos*, “LVIU” → 58.
+- Erros de OCR corrigidos em l2-c21: “ifortes”, “\\ librea”, “paite” → *parte*, “yo guardó” → *guardé*; nas notas, “XV!” → 16, “CXXil” → 122, “111 10” → 3:10, “VIH” → 8, “Palta” → *Falta*, “causm” → *causa*.
+- Notas do tradutor: l2-c18 [^14] (*escala*/*escalar*); l2-c19 [^33] (tradução de *Pluviam voluntariam*); l2-c2 [^16] (*hebetudo mentis*); l2-c20 [^31], [^32], [^33] (traduções de *Sine iniquitate cucurri*, *Osculetur me*, *Beati mundo corde*); l2-c21 [^38] (*Cui resistite* e *Sponsabo te*) e [^39] (*Oculi mei*); l2-c22 [^6] (“conversação nos céus”, Filipenses 3:20). As citações latinas que a fonte não traduz recebem tradução em nota, como em l2-c17.
+- Os números de parágrafo do autor são negrito inerte (`**1.**`); as aspas «» da fonte passam a “ ”; as citações bíblicas em espanhol seguem a fonte, sem itálico.
+- l2-c23: restaurado o **4.** que a OCR perdeu no início de “Bien es verdad…”. Erros corrigidos: “convierte a saber” → *conviene a saber*, “e] espíritu”, “V esta”, “a] alma”, “.ya”, “habernos” → *hemos*, ponto que faltava após a nota 27, *Osculetur me ósculo oris su i* → *Osculetur me osculo oris sui*, vírgula solta em “acerca de este, verso”; nas notas, “De !a e p”, “do tienen”, “contiene a sab*.” → *conviene a saber*, “Caut.”, “Sto. Tomás (111 parte” → III parte, “ct” → e, “ver. pues”, “c. p.” → e. p., “Todo todo” (ditografia), “t. p.”, “Icen”, “Víase”.
+- l2-c24: *Durti … médium … xdibus* → *Dum … medium … sedibus*; “i>in”, “mantol”, “espi* ritual”; nas notas, “c. p.”, “comí” → como, “13;” lido como Bz., “f .a e. p.”, “Elacidatio” → *Elucidatio*, “páqs. 189-100” → 189-190, “parre” → *parte*.
+- l2-c25: “8spirituales”, “alguna»”, “e3”; na n. 4, a declaração do códice de Alba de Tormes é traduzida (é testemunho, não variante), com “esenvió/esenuió/uuitiua” lidos como *escriuió/unitiua*.
+- l2-c3: “c ilustrado”, “des: nudarlos”, “uno.”; o anacoluto inicial do Santo é mantido; “Han. pues” na n. 1.
+- l2-c4: “e!”, “aflicción y,”, “pasio-t nes apetitos”; “parce” → *parte* na n. 1; a vírgula após *inflamada* segue o poema.
+- l2-c5: “al-» ma”, “~tiniebla”, “fio esta”, “inhisa”, “tietie”, “cu”, “5 .Cuanto”, “De la clara”, “k:z”, “mismo5”, “e!”, “malos y miserias” → *males y miserias*, “c hiciste”, “se- acabó”, “ei profeta”; nas notas, “nsi”, “c. p.”, “repitra”.
+- l2-c6: “í).” → **5.**, “sus-* pensión”, “tnaneras”, “1.) cual”, “1 i purgación”, “'en medio”; nas notas, “)on.”, “ohliyada/tiyura”, “Uniebla”, “lb.d.”, “Ennuturaltzada”, “Lae. p.; Va modo” → *a modo*, “peco”. *Golfos* de Jonas → “vagas”.
+- Notas do tradutor: l2-c23 [^43] (*Omne sublime videt*) e [^44] (*Osculetur me*); l2-c24 [^13] (*Dum quietum silentium*); l2-c3 [^15] (*supuesto*); l2-c5 [^22] (o Filósofo e a coruja) e [^23] (raio de treva, Pseudo-Dionísio); l2-c6 [^34] (*destrica y descuece*, traduzido “despedaça e digere”).
 - Deus é tratado por *vós* quando é interpelado nas citações (Lamentações 3:19 em l2-c7; Isaías 26:17 em l2-c9).
 - Notas que só citam referência: livro em português e capítulo:versículo com algarismos arábicos (“Jó 16:13-17”, “Salmo 138:12”, numeração dos Salmos da fonte); “Ibid., 8” mantido.
 - l2-c7: “lian” → *han*; “job” → Job; “paite”; “rni” (2×); “Cerr adorne ha” → *Cerrádome ha*; “todo el día i” → “!”; pontos que faltavam na citação de Jeremias; “ablande y y”; “que está; por hacer”; “Rofíense” → Roffense na n. 32; nas notas, “Gusfos”, “Hayas”, “|ob. XI!.”, “CXXXVII!”, “V así” → *Y así*. Na n. 22, a leitura de H e C (“/ifacríjj”) é ilegível na OCR e não pôde ser reconstruída: posto “[leitura ilegível no exemplar digitalizado]”.

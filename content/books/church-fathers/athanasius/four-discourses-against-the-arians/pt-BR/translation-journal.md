@@ -1,15 +1,228 @@
+# Diário de tradução — Quatro discursos contra os arianos (pt-BR)
+
+Fonte: en-US/. Tradução de John Henry Newman e Archibald Robertson, em Nicene and Post-Nicene Fathers, Second Series, vol. 4, organizada por Philip Schaff e Henry Wace, Christian Literature Publishing Co., 1892; revista e editada para New Advent por Kevin Knight.
+Destino: pt-BR.
 
 ## Termos
 
+| Inglês | Português | Notas |
+|---|---|---|
+| Athanasius / Arius / Alexander | Atanásio / Ário / Alexandre | |
+| Arian / Arianism / Ario-maniacs | ariano / arianismo / ariomaníacos | “Ariomaníacos” conforme De Synodis. |
+| Word / Wisdom / Power | Verbo / Sabedoria / Poder | Títulos do Filho; capitalização conforme o contexto. |
+| offspring (of the essence) | gerado (substantivo) | Conforme De Synodis; “Gerado” quando empregado como título. |
+| radiance / Radiance | resplendor / Resplendor | Conforme De Synodis. |
+| Image / Expression | Imagem / Expressão | Conforme De Synodis. |
+| essence / substance / Person | essência / substância / Pessoa | Conservada a distinção vocabular da edição inglesa. |
+| proper to the Father's essence | próprio da essência do Pai | |
+| one in essence / coessentiality | de uma só essência / consubstancialidade | |
+| Only-begotten / generation / beget | Unigênito / geração / gerar | |
+| very God / very Son | verdadeiro Deus / verdadeiro Filho | “Very” exprime verdade, não intensidade. |
+| eternal / everlasting / increate | eterno / eterno, perpétuo / incriado | “Perpétuo” quando necessário para conservar uma dupla expressão. |
+| originated things / origination | coisas que receberam existência / vinda à existência | Distinguidos de geração e de criação quando o inglês os distingue. |
+| alterable / unalterable | mutável / imutável | |
+| participation / partake | participação / participar | Conservada a terminologia do argumento dos §§ 15–16. |
+| affection | afecção | Alteração sofrida pela essência, no argumento do § 16. |
+| Triad / Monad | Trindade / Mônada | Mônada: unidade considerada isoladamente, no argumento numérico do § 17. |
+| Maker / Framer / Creator | Artífice / Artífice / Criador | “Framing Word”: Verbo criador. |
+| irreligion / irreligiousness / irreligious | impiedade / impiedade / ímpio | |
+| Thalia / Thaliæ | Tália / Tálias | Conservada a variação singular/plural da fonte. |
+| Sotades / Herodias | Sótades / Herodíades | |
+| Marcion / Valentinus | Marcião / Valentino | Conforme De Synodis. |
+| Manichæus / Manichees | Manes / maniqueus | |
+| Basilides / Simon Magus / Novatus | Basílides / Simão Mago / Novato | |
+| Meletius / Meletians / Valentinians | Melécio / melecianos / valentinianos | Gentílicos conforme Historia Arianorum. |
+| Caiaphas / Hymenæus / Barabbas | Caifás / Himeneu / Barrabás | “Barrabás” conforme Historia Arianorum. |
+| Constantius / Cæsar | Constâncio / César | |
+| Susanna / Baruch / Philip | Susana / Baruc / Filipe | |
+| Apocalypse / John / Matthew | Apocalipse / João / Mateus | “Apocalipse” conforme De Synodis. |
+| Jeremiah / Hosea / Isaiah | Jeremias / Oseias / Isaías | |
+| Romans / Colossians / Hebrews | Romanos / Colossenses / Hebreus | |
+| Genesis / Deuteronomy / Proverbs / Job / 2 Peter | Gênesis / Deuteronômio / Provérbios / Jó / 2 Pedro | |
+| Subsistence | Subsistência | Conforme Statement of Faith e Ad Afros Epistola Synodica. |
+| Unoriginate / unoriginated | Inoriginado / inoriginado | Conforme De Decretis; conservados os diferentes sentidos discutidos nos §§ 30–34. |
+| originate | originado / que recebeu existência | “Originado” nas fórmulas em contraste direto com “inoriginado”; mantida a perífrase já adotada nos demais contextos. |
+| Eusebius / Asterius / the Samosatene | Eusébio / Astério / o samosatense | Conforme De Decretis. |
+| Almighty / Lord of the Powers | Todo-Poderoso / Senhor dos Poderes | “Todo-Poderoso” conforme De Decretis; capitalização segundo a fonte. |
+| free will | livre-arbítrio | |
+| passible / impassible / passion | passível / impassível / paixão | “Paixão” designa aqui uma alteração sofrida, não um sentimento. |
+| connaturality | conaturalidade | |
+| Holy Ghost | Espírito Santo | |
+| Ephesians / Galatians / Philippians / 1 Timothy / Luke | Efésios / Gálatas / Filipenses / 1 Timóteo / Lucas | |
+| deify / deifying | divinizar / divinização | |
+| fellows / partakers | companheiros / participantes | Conservada a distinção verbal pela qual o texto explicita a participação. |
+| Hades | Hades | Conforme Incarnation of the Word e Luke 10. |
+| Expression | Expressão | Conforme De Synodis; em Hebreus 1:3. |
+| economy | economia | Conforme De Decretis e Tomus ad Antiochenos; capitalização segundo a fonte. |
+| Caiaphas / Hezekiah / Josiah | Caifás / Ezequias / Josias | Caifás conforme De Decretis; Ezequias conforme Apologia de Fuga. |
+| Manichees | maniqueus | Conforme Tomus ad Antiochenos e Apologia de Fuga. |
+| Paraclete | Paráclito | |
+| better / greater | melhor / maior | Distinção central ao argumento iniciado no capítulo 13. |
+| originate(d) / unoriginate | originado / inoriginado | Conforme De Decretis; mantida a distinção em relação a “gerado”. |
+| offspring / Offspring | gerado / Gerado | Uso substantivo, conforme De Decretis e Statement of Faith. |
+| Framer / things framed | Artífice / coisas formadas | “Artífice” conforme Ad Afros Epistola Synodica. |
+| Radiance | Resplendor | Conforme De Synodis. |
+| Triad | Tríade | Conforme De Sententia Dionysii e Luke 10. |
+| Valentinus / Carpocrates | Valentino / Carpócrates | Valentino conforme De Synodis e Tomus ad Antiochenos. |
+| Dan to Beersheba | de Dã a Bersabeia | Conforme De Sententia Dionysii. |
+| Obadiah | Abdias | Conforme Apologia de Fuga. |
+| surety / pledge | fiador / garantia | No argumento sobre o ministério do Filho. |
+| testament / covenant | testamento / aliança | Conservada a variação verbal da fonte. |
+| faithful | fiel | Conforme o argumento, pode significar “crente” ou “digno de fé”; preservada a repetição de “fiel”. |
+| High Priest / high-priesthood | Sumo Sacerdote / sumo sacerdócio | No argumento sobre a humanidade e o ministério de Cristo. |
+| Lordship | senhorio | Distingue a condição eterna do Verbo de seu senhorio manifestado e exercido sobre nós. |
+| profession | profissão de fé | Nas citações e comentários de Hebreus. |
+| Regula Fidei | *Regula Fidei* | Expressão latina preservada no título do capítulo 15. |
+| Samosatene | Samosateno | Mantida a designação da fonte. |
+| Ario-maniacs | aríomaníacos | Preservada a designação polêmica ligada à “loucura de Ário”. |
+| offspring | gerado | Uso substantivo, conforme os diários de De Decretis e De Synodis; preservado também na fórmula “um gerado, mas não como um dos gerados”. |
+| originate(d) / origination | originado / originação | Mantida a família lexical de De Decretis. |
+| subsistence / Expression | subsistência / Expressão | Distintas de “essência”; conforme De Decretis. |
+| radiance | resplendor | Conforme De Decretis e De Synodis. |
+| Framer / framing | Artífice / formação, formar | “Artificer”, na contraposição ao Criador, traduzido por “artesão”. |
+| ingenerate / ingenerately | ingênito / de modo ingênito | Preserva a distinção lexical em relação a “inoriginado”. |
+| Word / word / Reason | Verbo / palavra / Razão | “Verbos” no plural quando a polêmica contrapõe muitos supostos verbos ao único Verbo. |
+| Asterius / Marcion / Valentinus | Astério / Marcião / Valentino | Formas dos diários das obras irmãs. |
+| Thalia | Tália | Título da obra de Ário, conforme De Decretis. |
+| Authorities / Dominions / Powers | Autoridades / Dominações / Poderes | “Poderes” conserva a ligação lexical com “poder” no argumento da seção 37. |
+| Unoriginate / unoriginately | Inoriginado / de modo inoriginado | Conforme De Decretis; distinto de “ingênito”. |
+| Economy | Economia | Conforme De Decretis e Tomus ad Antiochenos; desígnio salvífico e sua realização. |
+| Ario-maniacs | ariomaníacos | Conforme De Synodis. |
+| Manichees / the Samosatene / Caiaphas | maniqueus / o samosatense / Caifás | Conforme as obras irmãs; “o samosatense” designa Paulo de Samósata. |
+| Holy Laver | Santo Banho | Designação do Batismo; conservada a imagem do banho. |
+| deified | deificados | Vocabulário da participação na vida divina. |
+| offspring / Offspring | gerado / Gerado | Uso substantivo, conforme De Decretis e Statement of Faith; preserva a oposição a “criatura” e “obra”. |
+| originate(d) / origination / things originate | originado / originação / coisas originadas | Conforme De Decretis. |
+| Only-begotten / First-born | Unigênito / Primogênito | “Unigênito” conforme as obras irmãs; conservada a distinção argumentativa entre os dois títulos. |
+| Godhead / Essence | Divindade / Essência | Conforme Tomus ad Antiochenos; preservadas as maiúsculas da fonte. |
+| Valentinus | Valentino | Conforme De Synodis e Tomus ad Antiochenos. |
+| Mary Ever-Virgin | Maria sempre Virgem | Conservado o título mariano da fonte. |
+| impress | impressão | Marca da Imagem da Sabedoria nas criaturas; distinta da própria Sabedoria incriada. |
+| Framer / Framing Wisdom | Artífice / Sabedoria artífice | Conserva a referência à formação das criaturas; “All-framing Wisdom” traduzido por “Sabedoria que tudo forma”. |
+| Son of Sirach / Sirach | filho de Sirac / Eclesiástico | Distingue a designação do autor do nome do livro nas referências bíblicas. |
+| coinherence | coinherência | Presença recíproca do Pai no Filho e do Filho no Pai, conforme a explicação do capítulo 23. |
+| radiance / Radiance | resplendor / Resplendor | Conforme o diário de `de-synodis`. |
+| Offspring | Gerado | Conforme `statement-of-faith` e `de-decretis`; preserva a distinção entre geração e criação. |
+| Subsistence | Subsistência | Conforme `statement-of-faith`. |
+| Unoriginate | Inoriginado | Conforme `de-decretis`; distinto de “não gerado”. |
+| Ario-maniacs | ariomaníacos | Conforme `de-synodis`; conserva a designação polêmica da fonte. |
+| Asterius the Sophist | Astério, o Sofista | Nome conforme `de-decretis`. |
+| Marcion / Manichæus | Marcião / Manes | Conforme `ad-episcopus-aegypti-et-libyae`. |
+| Godhead | Divindade | Conservada a referência à natureza divina. |
+| Regula Fidei | *Regula Fidei* | Expressão latina conservada; significa “regra da fé”. |
+| Triad | Tríade | Conservada a alternância da fonte entre “Trinity” e “Triad”. |
+| affections | afecções | Condições e padecimentos próprios da carne, como fome, sede, fadiga e sofrimento; não significa aqui afeição sentimental. |
+| impassibility / impassible | impassibilidade / impassível | Ausência de sujeição ao sofrimento. |
+| deified | deificado | Conservado o vocabulário de participação na vida divina empregado pelo autor. |
+| Paraclete | Paráclito | Título do Espírito Santo. |
+| scope | sentido geral | Nas passagens sobre a orientação da Escritura e da fé para sua interpretação. |
+| Samosatene | Samosateno | Designação de Paulo de Samósata. |
+| Sabellius | Sabélio | Nome próprio; “Sabellian” traduzido por “sabeliano”. |
+| Word | Verbo | Designação do Filho; mantida a terminologia das chamadas anteriores. |
+| Godhead | Divindade | Distinta de “humanidade” nas exposições cristológicas. |
+| manhood | humanidade | Também “natureza humana”, conforme a construção. |
+| passible | passível | Sujeito ao sofrimento; correlato de “impassível”. |
+| Regula Fidei | *Regula Fidei* | Fórmula latina conservada; significa “regra da fé”. |
+| Ario-maniacs | aríomaníacos | Designação polêmica dos arianos empregada pelo autor. |
+| Phrygians | frígios | Aqui, os montanistas; esclarecido em nota do tradutor. |
+| Valentinians | valentinianos | Seguidores de Valentino. |
+| Asterius | Astério | Nome próprio. |
+| connaturality | conaturalidade | Comunhão de natureza. |
+| Hades / hell | morada dos mortos | Nas passagens sobre a morte de Cristo e a abertura de suas portas. |
+| will / pleasure / good pleasure | vontade / beneplácito | “Beneplácito” também se exprime pelo verbo “comprazer-se”, conforme a construção. |
+| counsel / to counsel | conselho / deliberar | “Conselho vivo” como título do Filho; “deliberação” quando se trata do ato de decidir previamente. |
+| Essence / Subsistence | Essência / Subsistência | Mantida a distinção dos termos na argumentação e em Hebreus 1:3. |
+| Unoriginate / originate | Inoriginado / originado | Distinção entre o que não tem origem e o que veio à existência. |
+| Radiance / Expression | Resplendor / Expressão | Designações do Filho, especialmente na citação de Hebreus 1:3. |
+| Valentinus / Ptolemy | Valentino / Ptolomeu | Ptolomeu é identificado no texto como valentiniano. |
+| Simon Magus / Caiaphas | Simão Mago / Caifás | Formas portuguesas dos nomes. |
+| Origin / Beginning | Princípio | Preservado o mesmo termo para a origem divina e para a argumentação fundada em João 1:1. |
+| Monad / Triad / Tetrad | Mônada / Tríade / Tétrade | Vocabulário numérico da discussão sobre a unidade divina e a suposta dilatação. |
+| Monarchy / Dyarchy / Polyarchy | Monarquia / Diarquia / Poliarquia | Termos relacionados à existência de um, dois ou vários princípios. |
+| substantiality / substantial / substantive | substancialidade / substancial | Distintos de “essencial”, que traduz “essential”. |
+| coessential / coessentiality | consubstancial / consubstancialidade | Vocabulário da unidade de Essência do Pai e do Filho. |
+| Offspring | fruto gerado | Conserva a relação com o ato de gerar. |
+| notionally | apenas no pensamento | Designação meramente conceitual, contraposta à existência real. |
+| word-less / wisdom-less | sem Verbo / sem sabedoria | Mantida a ligação lexical com Verbo e Sabedoria. |
+| Sabellius / Marcellus / Eusebius | Sabélio / Marcelo / Eusébio | Formas portuguesas dos nomes. |
+| Sabellianism / Sabellianise | sabelianismo / seguir Sabélio | A forma verbal é traduzida por uma locução. |
+| dilatation / dilate | dilatação / dilatar | Mantida a repetição na hipótese combatida e nas citações escriturísticas. |
 | subsistence | subsistência | Mantida a distinção em relação a “substancialidade”. |
 | Well-beloved | Bem-amado | Preservada a relação argumentativa com “Unigênito”. |
-| Paraclete | Paráclito | Título do Espírito Santo. |
 | Samosatene / Paul of Samosata | samosateno / Paulo de Samósata | Designação e nome do personagem mencionado nas seções 30–36. |
 | Bearer of God | Mãe de Deus | Forma portuguesa do título mariano. |
 | chrism | crisma | Na seção 36, designa a unção, em relação etimológica com “Cristo”. |
 
 ## Decisões
 
+- Mantidos os 27 parágrafos da chamada, incluindo títulos e o bloco de versos da Tália. A numeração autoral foi convertida em negrito inerte.
+- Corrigidas apenas junções tipográficas evidentes dos títulos ingleses, sem alteração do conteúdo.
+- Nas fórmulas arianas, “once” foi traduzido por “outrora” ou por “houve um tempo em que”, conforme a construção; no exame do próprio advérbio (§ 11), foi mantido “outrora”. “There was when” no fim do § 13 foi traduzido por “houve um momento em que”, conservando a ausência da palavra “tempo” na fórmula discutida.
+- Conservado “coisas visíveis” na citação do § 11, conforme o inglês fornecido, sem substituí-lo pela redação bíblica usual.
+- Conservados os números dos Salmos e todas as referências tal como fornecidos, sem acrescentar referências ausentes nem ampliar as existentes.
+- “Greeks” foi traduzido por “gregos”, preservando a denominação da fonte mesmo quando designa os adeptos do culto pagão.
+- Conservada a forma “Novato” correspondente a “Novatus”, sem harmonização histórica com outra forma nominal.
+- “Triad” foi traduzido por “Trindade”; “Monad”, por “Mônada”, para conservar o contraste entre unidade e trindade no argumento.
+- Acrescentada a nota do tradutor [^1], no § 14, para explicar a relação entre Verbo e Razão no termo grego Logos.
+- Acrescentada a nota do tradutor [^2], no § 18, para esclarecer “Sabaoth”.
+- No book.json, acrescentadas as entradas localizadas em name, author e títulos do sumário, além de pt-BR em languages. A descrição da fonte foi preservada literalmente, pois é uma cadeia de texto, não um campo de traduções por idioma.
+- Preservados os 26 parágrafos da chamada, incluindo os cinco títulos de capítulo e as retomadas dos §§ 22 e 26, além das duas notas do tradutor acrescentadas.
+- Acrescentada a nota do tradutor [^3], no § 25, para explicitar o jogo entre Logos e perguntas ilógicas, e a nota [^4], no mesmo parágrafo, para identificar o samosatense como Paulo de Samósata.
+- Mantida em itálico a expressão latina *in posse* no título do capítulo 8, sem acrescentar tradução ausente da fonte.
+- No § 29, a construção inglesa “proper to the Father's offspring” foi vertida como “o gerado próprio do Pai”, segundo a relação entre geração e essência desenvolvida no próprio parágrafo.
+- No § 33, o par “Maker and Framer” foi vertido como “Artífice e Formador” para conservar os dois termos sem repeti-los em português; fora dessa combinação, permanece “Artífice”, conforme o diário.
+- No § 37, “purpose” foi traduzido por “decisão”, conservando o vínculo entre escolha, recompensa e mutabilidade no argumento ariano.
+- Preservados os 20 parágrafos da fonte, incluindo os dois títulos de capítulo e o marcador “(3.)” do § 55; acrescentada uma definição de nota do tradutor.
+- “Promotion” e “promoted” foram vertidos por “elevação” e “elevado”, distinguindo-os de “advance” e “advancement” como “progresso” e mantendo “exaltação” para “exaltation”.
+- Conservadas as referências bíblicas fornecidas, inclusive Filipenses 2:8 no § 38 e os números dos Salmos 71 e 89 no § 41, sem harmonização com outras numerações ou com o teor das citações.
+- “A prize”, na citação de Filipenses 2:6 e em suas retomadas, foi traduzido por “um prêmio”, preservando a formulação da edição inglesa.
+- Acrescentada a nota do tradutor [^5], no § 55, para esclarecer o sentido técnico de “economia”.
+- Preservados os 14 parágrafos da fonte e os marcadores internos de subdivisão, inclusive a forma “(7).”.
+- “Become” foi traduzido por “tornar-se” nas expressões predicativas e por “vir a ser” quando se trata do surgimento de algo. Nos exemplos de Jó, Abraão e Moisés, conservou-se “vir a ser”, em vez de “nascer”, para manter perceptível a repetição verbal que sustenta o argumento.
+- “Original becoming” foi traduzido por “começo de existência”, distinguindo-o dos usos de “tornar-se” relativos ao socorro divino e ao ministério do Filho.
+- Preservados os 23 parágrafos da fonte, incluindo os três títulos e as retomadas das seções 11 e 18, com “continuação” em itálico.
+- Mantida a expressão “Quarto Livro dos Reis” no corpo do texto e a referência “2 Reis 20:18”, conforme a diferença de nomenclatura presente na fonte.
+- Conservada, na seção 10, a atribuição “aos hebreus” junto da citação identificada como “2 Timóteo 2:13”; a incongruência pertence à fonte.
+- “Made” foi traduzido por “feito” ou “fez”, inclusive nas expressões pouco usuais “farei filhos” e “fizer um filho”, para preservar o argumento lexical. “Became” segue a distinção já registrada entre “tornou-se” e “veio a ser”.
+- Corrigidas apenas as junções tipográficas dos títulos (“madeapplies”, “Arianinterpretation” e “Arianformula”), sem alteração de conteúdo.
+- Preservados os 23 parágrafos da fonte, incluindo os dois títulos, a continuação da seção 24 e o parágrafo não numerado entre as seções 21 e 22.
+- Mantida a referência “Esdras 4:36” na fala de Zorobabel, conforme a fonte, sem harmonização da numeração.
+- Na seção 27, “man out of their whole number” foi entendido como lapso por “many out of their whole number” e traduzido por “muitos dentre todos eles”, conforme a oposição a “não apenas um” e a enumeração seguinte.
+- Corrigidas apenas na tradução as junções tipográficas dos títulos e os lapsos evidentes “This it My Son” e “recurs a sentence”, pelo sentido sintático inequívoco.
+- Na seção 37, preservada a oposição entre as expressões com artigo (“o Poder”, “a Sabedoria”) e sem artigo (“poder”, “sabedoria”), da qual depende o argumento atribuído a Astério.
+- Preservados os 23 parágrafos da fonte, inclusive os três títulos e a continuação da seção 51; as duas notas do tradutor foram acrescentadas imediatamente após os parágrafos a que servem.
+- Acrescentada a nota [^1] para explicar o sentido técnico de “Economia”.
+- Na seção 51, “child” foi traduzido por “filho” ou “menino”, conforme o referente; a nota [^2] explica a variedade de sentidos de *paîs*, necessária para compreender a objeção.
+- Mantida no título do capítulo 21 a afirmação de que a Escritura não diz que o Senhor é “criado”, sem harmonizá-la com a discussão anterior.
+- Normalizada a referência “Proverbs viii. 22” do título do capítulo 20 para “Provérbios 8:22”; mantida *Regula Fidei* em latim no título do capítulo 19.
+- Preservados os 21 parágrafos da fonte, incluindo o título do capítulo 22 e seu parágrafo introdutório sem numeração.
+- Mantida a referência “1 Coríntios 8:9” na seção 71, tal como consta da fonte, sem corrigi-la.
+- “He founded me” foi traduzido por “Ele me fundou”, conservando a distinção entre fundar, fazer e criar, necessária ao argumento das seções 73–75.
+- Acrescentada a nota [^3] para identificar brevemente Valentino, mencionado na seção 70.
+- Preservados os sete parágrafos da fonte, correspondentes às seções 76–82, que encerram o Discurso II.
+- Na seção 76, “inheritance of judgment” foi traduzido por “herança de condenação”, em vista do juízo que pesa contra os homens e que o Filho assume na carne.
+- Na seção 81, mantido dentro da citação o comentário parentético sobre a sabedoria de Deus, na mesma posição da fonte.
+- Preservados os 22 parágrafos da fonte: título do discurso, três títulos de capítulos com seus sumários e seções 1–18.
+- Conservadas as referências bíblicas na posição e numeração recebidas, inclusive João 10:30 na seção 4 e João 8:44 junto de “para que sejam um” na seção 17.
+- “Propriety” foi traduzido conforme a construção por “aquilo que é próprio” ou “caráter próprio”, conservando sua referência ao que pertence à Essência do Pai.
+- Na seção 5, “worship” aplicado à imagem imperial foi traduzido por “venerar”; nas passagens sobre o culto a Deus, por “adorar”.
+- Na seção 14, “Mary, bearer of God” foi vertido por “Maria, Mãe de Deus”, a forma consagrada do título mariano.
+- Na seção 16, preservada a expressão “Forma de Deus” na citação sobre Jacó, pois o argumento depende da palavra “Forma”.
+- Preservados os 23 parágrafos do trecho, incluindo os dois títulos com seus sumários, o parágrafo sem numeração após a seção 34 e a retomada da seção 35 como “continuação”.
+- Conservadas as referências bíblicas nas posições recebidas, inclusive Gálatas 4:4 junto de 1 Pedro 4:1 na seção 31, e a interrogação anômala em “os dons de Deus?” na seção 25.
+- Na seção 33, mantida a formulação enfática “a carne [...] feita Verbo”, sem substituir a expressão por uma paráfrase doutrinal.
+- “Hades” foi traduzido por “morada dos mortos” na comparação entre Jonas e o Salvador.
+- Preservados os 25 parágrafos do trecho, incluindo os três títulos com seus sumários e a retomada da seção 58 como “continuação”; a nota do tradutor foi acrescentada após o parágrafo a que se refere.
+- Acrescentada a nota do tradutor `[^1]` na seção 47 para esclarecer que “frígios” designa os montanistas e contextualizar a referência ao êxtase profético.
+- Nos títulos, corrigidas apenas as junções tipográficas evidentes entre palavras inglesas; conservada em itálico a fórmula latina *Regula Fidei*.
+- Na seção 57, “so-called tenor” foi entendido como erro tipográfico por “so-called terror”, conforme a repetição da mesma expressão e o argumento do parágrafo, e traduzido por “chamado terror”.
+- Na seção 55, conservadas as aspas recebidas em torno da observação do autor sobre a desfaçatez e a blasfêmia dos adversários.
+- Preservados os nove parágrafos do trecho, correspondentes às seções 59–67, e a numeração dos Salmos tal como consta da fonte.
+- Suprimidos os sinais de interrogação espúrios inseridos na fórmula inglesa “by will?” quando a construção não é interrogativa.
+- Na seção 67, mantida a expressão incomum “pela lei natural de vossa vontade”, sem emendar o sentido recebido na fonte.
+- Preservados os 30 parágrafos do trecho, incluindo os oito títulos e as seções 1–22; corrigidas apenas as junções tipográficas de palavras nos títulos ingleses.
+- Na seção 9, preservada a construção deliberadamente irregular “Eu e o Pai sou”, pois a argumentação contrapõe essa fórmula hipotética ao plural “somos”.
+- Nas seções 14 e 17, conservadas as formulações e associações de citações recebidas na fonte, sem harmonizá-las com traduções bíblicas correntes.
 - Preservados os 18 parágrafos do trecho, incluindo os dois títulos e a citação em versos da Odisseia; corrigidas apenas as junções tipográficas de palavras no segundo título.
 - Na seção 28, mantida a formulação “alargam suas vestes” da citação do Apocalipse, sem harmonização com traduções bíblicas correntes.
 - Conservados “Salmo 110:3” no título e “centésimo nono” no corpo do texto, conforme a numeração recebida em cada passagem.

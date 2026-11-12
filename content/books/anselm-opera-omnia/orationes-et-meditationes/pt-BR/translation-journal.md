@@ -1,6 +1,162 @@
+# Diário de tradução — Orações e meditações (pt-BR)
+
+Fonte: la/ — S. Anselmi Cantuariensis archiepiscopi opera omnia, ed. J.-P. Migne, Patrologia Latina 158 (Paris 1853), TEI XML do Corpus Corporum (Universidade de Zurique), a partir do OCR corrigido por máquina do Open Greek and Latin.
+Destino: pt-BR.
 
 ## Termos
 
+| Latim | Português | Notas |
+|---|---|---|
+| Anselmus | Anselmo | "Santo Anselmo de Cantuária" no book.json |
+| Oratio / Meditatio | Oração / Meditação | numeração romana de Migne mantida |
+| anima mea | alma minha | vocativo; concordância no feminino |
+| Conditor / Creator | Criador | os dois termos têm a mesma tradução |
+| Redemptor / Salvator | Redentor / Salvador | |
+| formator et reformator; creator et recreator | formador e reformador; criador e recriador | mantém o jogo de prefixos |
+| meditatio / contemplatio | meditação / contemplação | |
+| charitas / dilectio / amor | caridade / amor / amor | "caridade" onde o latim tem *charitas* |
+| compunctio / poenitentia / satisfactio / confessio | compunção / penitência / satisfação / confissão | |
+| conversatio | conduta (às vezes "vida") | |
+| dignatio | condescendência | |
+| vicissitudo | reciprocidade | m01 ¶4 |
+| saeculum | século | "doçura do século", "rumores do século" |
+| cupiditas / voluptas | cobiça / prazer | m01 ¶10 |
+| lacus miseriae / lutum faecis | lago da miséria / lodo do lamaçal | Salmo 39:3 |
+| Divinitas | Divindade | |
+| Spiritus sanctus | Espírito Santo | |
+| Sancta Trinitas | Santa Trindade | como nos irmãos |
+| infernus / gehenna / tartarus / barathrum | inferno / geena / tártaro / abismo | |
+| daemon / diabolus | demônio / diabo | |
+| haedi / oves | cabritos / ovelhas | Mateus 25 |
+| magni consilii angelus | Anjo do grande conselho | |
+| fornicatio / scortum / meretrix | fornicação / prostituta / meretriz | m03 |
+| luxus | devassidão | não "luxo" |
+| Gerberon’s summaries | resumos em itálico, traduzidos | ex.: *Retractatio* → *Reflexão sobre…*; *Consideratio* → *Consideração…* |
+| Ad Deum / Ad Christum | A Deus / A Cristo | títulos do sumário |
+| Rhythmus | Poema rítmico | o40, o61 |
+| bibliotheca Thuanaea | biblioteca de De Thou | m20 |
+| novissima | novíssimos | m05; nota do tradutor em m05 [^1] |
+| fons pietatis / fons misericordiae | fonte da piedade / fonte da misericórdia | m06 |
+| latro | ladrão | Lucas 23:43 |
+| misericors et miserator | misericordioso e compassivo | *miserator Domine* → "Senhor compassivo" |
+| obsecro / quaeso | eu vos suplico / peço-vos | |
+| arrha | penhor | m07 ¶11, m08 ¶4 |
+| talenta / usurae | talentos / juros | m07 ¶6, ¶8 |
+| massa perditionis | massa da perdição | m07 ¶6 |
+| dolor muliebris | dor de parturiente | m08 ¶6 |
+| Paraclitus | Paráclito | |
+| dominator vitae meae | soberano da minha vida | m07 ¶11, distinto de *Domine* |
+| puer (Domini, tuus) | servo | m09 ¶11, ¶14: o servo de Isaías e de Atos 4:27 |
+| hostia (pacifica, sacrosancta) | hóstia (pacífica, sacrossanta) | m09 |
+| Domine sabaoth | Senhor dos exércitos | m09 ¶3 |
+| zelotes | zeloso | m09 ¶16 |
+| Synagoga | Sinagoga | m09 ¶13 |
+| satisfactio / satisfacere | satisfação / satisfazer | m11, doutrina do *Cur Deus homo* |
+| homo Deus | homem-Deus | m11 ¶5 |
+| exhonorare | desonrar | m11 ¶5 |
+| dilectio | dileção / amor | m11 ¶9 "dileção" junto de *amor*; em m12 "amor" |
+| praesumptio / praesumere | presunção / presumir | m12 ¶4, em sentido positivo de confiança segura |
+| dignatio | condescendência | m09 ¶5 |
+| virgo (a destinatária) | virgem | m15–m16: a irmã reclusa de Aelredo, em *tu* e no feminino |
+| soror | irmã | m16 |
+| affectus mentis / effectus operis | afeto da mente / efeito da obra | m15 ¶2 |
+| sapere / desipere | saborear / ser insipiente | m14 ¶6, jogo de palavras mantido |
+| uranicus | celeste | m13 ¶3, ¶6 |
+| Zabulus | diabo | m15 ¶15 |
+| Rabboni | Rabôni | m15 ¶18 |
+| nutritius | pai adotivo | m15 ¶6, São José |
+| vacare / vacatio / otium | estar livre para / disponibilidade / ócio | m18 ¶14, nota do tradutor |
+| idiota | iletrado | m18 ¶11 |
+| maxillae (freno) | queixadas | m18 ¶16–17, imagem do animal de montaria |
+| stola duplex | dupla estola | m17 ¶2, corpo e alma |
+| II Par. | 2 Crônicas | m18 ¶17 |
+| Cant. | Cântico dos Cânticos | m17 ¶9 |
+| homuncio | homenzinho | m21 ¶2, ¶12 |
+| inanis gloria | vanglória | o03 |
+| plasma / factura | feitura / criatura | o02 ¶6, ¶11 |
+| equuleus | cavalete | o02 ¶7, instrumento de tortura |
+| miseratio / miserationes | compaixão / compaixões | o01, o06; *misericordia* = misericórdia |
+| mediocres | os medianos | o01 ¶8, sem sentido pejorativo |
+| Eccli. | Eclesiástico | o01, o06 |
+| Sap. | Sabedoria | m21, o03 |
+| Baruch. | Baruc | o01 ¶7 |
+| IV Reg. | 2 Reis | o06 ¶6 |
+| Cant. | Cântico dos Cânticos | o10, o12, o17, o18 |
+| I Reg. | 1 Samuel | o16 ¶5 |
+| Act. | Atos | o15 ¶3 |
+| Hab. | Habacuc | o12 ¶5 |
+| Apoc. | Apocalipse | o18 ¶4 |
+| Paraclitus | Paráclito | o10, o14 |
+| acedia | acídia | o08 |
+| compunctio | compunção | o09, o11, o16, o17 |
+| gratia lacrymarum | graça das lágrimas | o16 |
+| Plasmator | Plasmador | o10 ¶6 |
+| Factor | Autor | o10 ¶4, ¶6; evita "Feitor" |
+| Rector | Guia | o10 ¶4; *te rectore* = "sob o vosso governo" (o17) |
+| cornu salutis | poder da minha salvação | o10 ¶6 |
+| praestabilis super malitia | pronto a vos compadecer do mal | o10 ¶10, eco de Joel 2:13 |
+| pietas (de Deus, de Cristo) | piedade | o20, o25–o27, o29–o31; *bonitas* fica "bondade" |
+| tolerator, nutritor | "vós que me tolerais e me nutris" | o20 ¶4, o22 ¶3 |
+| amator hominum | amante dos homens | o20 ¶7, o26 ¶4 |
+| vulnus / vulnerare | ferida / ferir | o19 ¶7; mantém o jogo *vulnera* (chagas) / *vulnera* (fere) |
+| dilectio / amor / charitas | dileção, amor / amor / caridade | o23 ¶4, onde o autor joga com os três |
+| limus | barro | o26 |
+| hospitium | hospedaria | o27 ¶4 |
+| caenodoxia | vanglória | o29 ¶2 |
+| peripsema | escória | o30 |
+| libramen | balança | o30 |
+| justificationes (Salmo 118) | justificações | o27 ¶3 |
+| Θεοτόκος | *Θεοτόκος*, mantido em grego, com a glosa da fonte | o28 ¶4 |
+| Thren. | Lamentações | o20 |
+| Eccli. | Eclesiástico | o26 |
+| Sap. | Sabedoria | o29 |
+| Job | Jó | o29 |
+| praesumo / praesumptio | presumir / presunção | o32; mantido o jogo *praesumo attrectare* / *praesumo de te* |
+| crux (apostrofada) | cruz, tratada por *tu* | o41–o45; em o43 ¶3 a cruz em *tu*, Cristo em *vós* a partir do ¶4 |
+| virago | *virago*, em itálico | o46 ¶4, com nota |
+| pueri (Domini, Christi) | servos | o38, o39 |
+| Deifera | portadora de Deus | o47 |
+| Dominus virtutum | Senhor das virtudes | o47, pelo jogo com *sacrarium omnium virtutum* |
+| figmentum (Salmo 102:14) | feitura | o49 |
+| Agatha | Águeda | o39, como no Cânon Romano |
+| Vedastus / Amandus / Germanus | Vedasto / Amando / Germano | o39 |
+| Soter, ousion, eleyson | mantidos em grego, em itálico | o40, com nota |
+| Philipp. | Filipenses | o34, o41 |
+| Galat. | Gálatas | o41 |
+| Jon. | Jonas | o43 |
+| Cant. | Cântico dos Cânticos | o43 |
+| Joel. | Joel | o36 |
+| II Cor. | 2 Coríntios | o46 |
+| Dan. | Daniel | o50 |
+| Luc. | Lucas | o51, o52, o64 |
+| Joan. | João | o53, o63, o64 |
+| Matth. | Mateus | o63 |
+| Gen. | Gênesis | o52 |
+| Eccli. | Eclesiástico | o60 |
+| Psal. | Salmo | o58, o59; numeração da fonte mantida |
+| I Petr. | 1 Pedro | o64 |
+| intemerata | inviolada | o53 |
+| Spiritus almus | Espírito benfazejo | o53 |
+| Esebon | Hesebon | o54 |
+| Dignare me laudare te, Virgo sacrata | Tornai-me digno de vos louvar, Virgem sagrada | o56 |
+| sine tactu pudoris | sem quebra do pudor | o58 |
+| Scholastica | Escolástica | o61 |
+| Jac. | Tiago | o65 |
+| II Cor. / I Cor. | 2 Coríntios / 1 Coríntios | o65 |
+| Rom. | Romanos | o66, o69 |
+| I Joan. | 1 João | o68 |
+| Act. | Atos | o69 |
+| Apoc. | Apocalipse | o69 |
+| Andraeas | André | o66 |
+| Stephanus | Estêvão | o69 |
+| Laurentius | Lourenço | o70 |
+| Elias et Eliseus | Elias e Eliseu | o65 |
+| districtus (judex) | severo | o65, o67, o69 |
+| pietas / pius | piedade / piedoso | o65–o70 |
+| Christe mater | Cristo, mãe | o65 |
+| Domine, ne statuas illis hoc peccatum | Senhor, não lhes imputeis este pecado | o69; *illi* = “não lhe imputeis” |
+| retractatio (charitatis, dormitionis) | meditação sobre (a caridade, o adormecimento) | o69 |
+| desiderator bone | bom desejador | o70 |
 | Martinus | Martinho | o71 |
 | Benedictus | Bento | o72 |
 | Dunstanus | Dunstano | o73 |
@@ -17,6 +173,104 @@
 
 ## Decisões
 
+- Tratamento: *tu* para a alma, o pecador e os demais vocativos no singular; *vós* para Deus e para Cristo nas orações. Nas palavras do próprio Cristo ao Pai (João 17:21 e a paráfrase que se segue em m01 ¶7) ficou o *tu*, como nas Bíblias portuguesas.
+- A alma (*anima*) concorda no feminino ("criada", "elevada", "amada"), também quando ela própria fala (m01 ¶7, "para ser amada"). O orante de m03, homem (*homuncio*, *criminose*), fica no masculino.
+- Referências bíblicas: livros com nome português, capítulo:versículo, salmos na numeração da Vulgata como na fonte (Salmo 39:3, 68:15, 126:6, 83:3, 113:17). Citações sem referência na fonte continuam sem referência.
+- Deslizes de citação da fonte espelhados, sem correção: m01 ¶4 "1 Coríntios 3:67" (o versículo é 3:16-17); m01 ¶8 "Isaías 57:1" (o texto é de Jeremias 8:6); m01 ¶12 "Salmo 19:1" (é o Salmo 26:1 da Vulgata); m01 ¶14 "Salmo 126:6" e "Ibid., 4" (126:5 e 126:2); m01 ¶16 "Salmo 83:3" (83:5).
+- Erros do OCR lidos pelo sentido: m01 ¶3 *to* = *te*; m01 ¶10 *carnem … decantes* = *carmen* ("cantares um hino"), *cant re* = *cantare*; m01 ¶12 *nutilium* = *inutilium*; m01 ¶13 *supplicius* = *supplicibus*; m02 ¶7 *augustior* = *angustior*; m03 ¶4 *more terribilis doloris* = *mole* ("sob o peso"); m04 ¶3 *inicuique* = *unicuique*.
+- m01 ¶4: as exclamações "Quanta dignatio…?" mantêm o ponto de interrogação da fonte; a primeira ("Ó inestimável condescendência…") recebe ponto de exclamação.
+- m01 ¶9 *vitae vitam demonstrare* → "mostremos com a nossa vida a vida": sem emendar para *viam vitae*.
+- m01 ¶8 *Si enim ad mala tua respicias, omnia bona … perdidisti* → "verás que perdeste", para dar sentido à frase.
+- Título de m03, *Deploratio male amissae virginitatis* → "Lamento pela virgindade perdida no pecado".
+- Títulos do sumário: removidos a vírgula final (o15, o24, o74) e o resto de OCR "( .)" (o37-o39) na versão pt-BR.
+- Notas do tradutor: m01 [^1] (provável eco de Santo Agostinho em "um só Cristo"); m01 [^2] (exegese do Salmo 100:8 da Vulgata); m01 [^3] (eco de Sofonias 1:14-16 e a sequência *Dies irae*); m02 [^1] (as três meditações autênticas segundo F. S. Schmitt: II, III e XI); m03 [^1] (jogos de som da prosa rimada).
+- m05: a alma e a carne são interpeladas juntas em *vós*; os adjetivos que as qualificam vão no feminino plural ("seguras", "insensatas", "iluminadas").
+- m05 ¶4 e ¶5: as falas dos santos e da alma condenada ficam sem aspas, como na fonte.
+- Deslizes de citação espelhados: m06 ¶5 "Jeremias 31:1" (o texto é Jeremias 3:1); m07 ¶2 "Eclesiástico 1:18" (a fonte tem *Eccli.*, mas o texto, atribuído a Salomão, é Eclesiastes 1:18). Em m06 ¶5 mantido também o plural *invenient* ("encontrarão").
+- Erros do OCR lidos pelo sentido: m07 ¶3 *hominum* = *hominem*, *discurrere* = *discernere*; m07 ¶6 *prospiciens* lido como *despiciens* ("desprezando"); m07 ¶8 *debitis* = *indebitis* ("imerecidos"); m07 ¶12 *gratissimus* = *ingratissimus*; m08 ¶3 *ebsecro* = *obsecro*; m08 ¶4 *erarem* = *errarem*; m08 ¶5 *praesentiae* = *praesentia*, sujeito de *abstrahat*; m08 ¶7 *in te vitae Largitorem* = *ad te*.
+- m06 ¶4 *sacramenta confessionis* → "os mistérios da santa confissão", no sentido medieval de *sacramenta*.
+- m07 ¶3 *sic sic* mantido como "Assim, assim".
+- m07 ¶9 *Vere largiter me reprehendo* → "Verdadeiramente me repreendo largamente": tradução literal, sem conjectura.
+- m07 ¶13 *hoc est odisse, quod non posse* → "em vós, odiar é o mesmo que não poder".
+- m08 ¶2 *diluvium ablutionis … pretiosissimum vivificumque* → "como um dilúvio, a ablução preciosíssima e vivificante", sem suprir "sangue".
+- Notas do tradutor: m05 [^1] (novíssimos e o eco do Eclesiástico, *Memorare novissima tua*); m07 [^1] (*massa perditionis*, expressão de Santo Agostinho); m08 [^1] (alusão a Lázaro, João 11:39, e eco do Eclesiástico).
+- Livros dos Reis na numeração da Vulgata: *I Reg.* → "1 Samuel", *II Reg.* → "2 Samuel" (m09 ¶6, m12 ¶6).
+- Referências erradas da fonte espelhadas sem correção: m09 ¶6 "Lucas 10:15" e "Mateus 11:18, 19"; m09 ¶7 "Mateus 10:5" (é 10:25); m09 ¶9 "Lucas 26:48" (é 22:48); m09 ¶11 "Mateus 26:27-34" (é 27:27-34); m09 ¶13 "Jó 31:16"; m12 ¶6 "2 Samuel 12:23" (é 12:13) e "Lucas 23:45" (é 23:43).
+- Erros do OCR lidos pelo sentido: m09 ¶13 *indignationem tam* = *tuam* ("a vossa indignação"); m11 ¶5 *Non enim Deus agebat* = *egebat*; m11 ¶6 *qui eam* = *quod eam*; m12 ¶5 *Quia ergo* = *Quid ergo*.
+- m12 ¶5 *quid mihi ut compatiar tibi? Sed non minus utile* (texto provavelmente lacunoso) → tradução literal: "que é para mim compadecer-me de vós? Mas não é menos útil".
+- m09 ¶19: a oração passa de Cristo ao Espírito Santo (*piissime spiritus*, com maiúscula na tradução) e depois ao Pai; todos em *vós*.
+- m09 ¶19 *vita vitam, lux lucem, Deus Deum…* → "a Vida, a Vida; a Luz, a Luz; Deus, a Deus…", com maiúsculas para marcar o Pai que profere e o Filho proferido.
+- m10: Cristo fala à alma amada em *tu*; m11 ¶8 Cristo fala ao homem em *tu*; m11 ¶9 *intima mea* (plural) em *vós*.
+- m11 ¶2 *hominem ligno confixum, defigere mundum … affixum* → "um homem cravado no lenho descrava o mundo cravado na morte perpétua", para manter o jogo de palavras.
+- m12 ¶3: a longa série de particípios vertida em gerúndios e particípios portugueses, com ponto e vírgula entre os grupos.
+- Notas do tradutor: m09 [^1] (*satagebat circa frequens maleficium*, paródia de Lucas 10:40); m09 [^2] (as quatro dimensões da cruz e Efésios 3:18); m09 [^3] (os três dias e a glória "simples"); m11 [^1] (a meditação resume a doutrina da satisfação do *Cur Deus homo*).
+- Maria (m13 ¶8, m15 ¶2), João Evangelista (m15 ¶13) e a Jerusalém celeste (m13 ¶8) em *tu*, como no latim; Deus e Cristo em *vós*, também nas citações bíblicas postas na boca do orante (m15 ¶9, Habacuc 1:2; m15 ¶10 "Por que fazeis assim?"). Nas palavras de Cristo ao Pai citadas da Escritura (m14 ¶9, m15 ¶13, ¶15) fica *tu*.
+- m15–m16: a leitora ("virgem", "irmã") em *tu*, com concordância no feminino.
+- Referências erradas da fonte espelhadas sem correção: m14 ¶9 "Jó 17:22-24" (é João 17); m15 ¶5 "João 23:40" (é Lucas 23:40); m15 ¶10 "Mateus 9:15" (é 20:15); m15 ¶17 "Lucas 19:38-42" (é João 19:38-42).
+- Erros do OCR lidos pelo sentido: m13 ¶2 *gemmae vigae* = *vivae*; m13 ¶4 *in de reconditos* = *in te*, *gustamus et non* = *et nos*, *sapient a* = *sapientia*; m13 ¶5 *voluit* = *volui* (Salmo 72:25), *praecedis* = *praecellis*; m13 ¶10 *Dilelectionis*; m14 ¶8 *n entem* = *mentem*; m14 ¶11 *influant* = *inflant*; m15 ¶5 *Dominun*; m16 ¶2 *arbortivi*; m16 ¶3 *noc* = *nec*, *recipi* = *recepi*, *conservationis* = *conversationis*.
+- m15 ¶2 *affectus operis* lido *effectus operis*, como no texto de Aelredo: "o efeito da obra".
+- m13 ¶6 *amantissimus Domini* → "o amadíssimo do Senhor" (eco de Deuteronômio 33:12).
+- m13 ¶3 *centena decies millies millena* → "dez mil vezes cem mil" (Daniel 7:10).
+- m14 ¶11: o verso *Nobile perpetua caput amplectente corona*, que fecha a frase do ¶10, traduzido em itálico.
+- m15 ¶15: a repetição *Sed quid est iste, inquis* mantida como na fonte; *Zabule* → "diabo".
+- Notas do tradutor: m13 [^1] (o nome de Miguel), m13 [^2] (a dracma e o saltério de dez cordas: nove ordens angélicas e a humanidade); m14 [^1] (antíteses tiradas das *Confissões*, livro I, cap. 4); m15 [^1] (m15–m17 vêm do *De institutione inclusarum* de Santo Aelredo de Rievaulx, escrito para a irmã reclusa).
+- Tratamentos em m17–m20: a irmã de Aelredo em *tu* e no feminino (m17); Deus e Cristo em *vós*, também nos versos de m18 ¶2–9 e nas citações postas na boca do orante (m18 ¶13, Salmo 83:17; m20, Salmo 26:8, 101:28, 115:16, 118:82, 55:9); as palavras do filho pródigo dirigidas pelo orante a Deus Pai em *vós* (m20, Lucas 15:19); Cristo falando aos discípulos em *vós* plural (m18 ¶14). Apóstrofes: "alma minha, coração meu e todo o meu íntimo" juntos em *vós* plural (m19 ¶15); "homem miserável" em *tu* (m19 ¶15); em m20, coração, alma, mente e a vida deste século em *tu*, "todo o meu íntimo", os males, pecados, vícios e os olhos em *vós* plural; a face de Deus apostrofada em *tu* ("Ó rosto esplêndido… enquanto não te vir").
+- m18 ¶2–9: os hexâmetros traduzidos em prosa, um verso por parágrafo, com inicial maiúscula como na fonte.
+- Referências erradas da fonte espelhadas sem correção: m18 ¶13 "Salmo 83:17" (é 85:17); m18 ¶14 "Salmo 54:11" (é 45:11); m19 ¶13 "1 Coríntios 13:28" (é 15:28); m20 "Romanos 1:4-5" (é 2:4-5).
+- Erros do OCR lidos pelo sentido: m17 ¶2 *assumit* = *absumit* ("consome"); m18 ¶11 *hamilem* = *humilem*; ¶13 *or dine*; ¶14 *olii* = *otii*; ¶15 *dilectis* = *delictis*; ¶17 *suam* (providentiam) = *tuam*; m19 ¶3 *horamvivere*; ¶4 *suis* = *sui*; ¶5 *sicutipse*; ¶6 *prosola*; ¶8 *quando fueris* = *quando non fueris*; ¶12 pontuação de *essentialiter homo: vero* refeita; ¶13 *repugantia*; ¶14 o ponto solto antes do resumo foi omitido; ¶15 *tu ipsa, Creator, ejus* = *tu ipse, Creator ejus*; m20 *sceletum* = *scelerum*, *faedatus*, *peripsam*, *intelligenti* = *intelligendi*, *praesulante* = *praestante*, *luculentis* = *lutulentis* ("lamacentos"), *ullo* = *nullo*, *rependo* = *rependo* ("rastejando"), *gliris bastulam* lido como visco e bichinho preso ("como o visco costuma vencer o bichinho"); a frase lacunar *Quare Deo talem cito poenitentiam* traduzida pelo sentido ("Por que não ofereces depressa a Deus tal penitência…").
+- m20: *Hoc fieri non potest, nisi ut me vivere permittat* → "Isso não pode ser, pois para isso mesmo me permite viver".
+- Notas do tradutor: m18 [^1] (*vacare*, *vacatio* e *otium* na linguagem monástica); m20 [^1] (Jacques-Auguste de Thou e a sua biblioteca), marcador posto no título.
+- Tratamentos em m21 e o01–o06: o "homenzinho" e o coração em *tu* (m21 ¶2, ¶12); a alma em *tu* (m21 ¶11); "carne minha" e "alma minha" cada uma em *tu* e depois juntas em *vós* plural (m21 ¶12, *amatis, desideratis*); a luz e a verdade apostrofadas em m21 ¶9 tratadas em *vós* com concordância feminina ("quão remota estais", "estais toda presente"), porque designam o próprio Deus; Cristo em *vós* também quando chamado "dulcíssimo menino" (o02 ¶7).
+- Referências erradas da fonte espelhadas sem correção: m21 ¶6 "Jó 14:19" (é Jeremias 14:19); m21 ¶8 "Salmo 57:5" (é 37:5); o03 ¶4 "Salmo 136:6" (é 137:6); o05 ¶5 "Salmo 35:9" (é 33:9); o06 ¶3 "Salmo 148:18" (é 144:18-19).
+- Erros do OCR lidos pelo sentido: m21 ¶2 *Fiat nunc* = *Eia nunc*; ¶5 *honorem mortis* = *horrorem*; ¶6 *redire* = *ridere* ("rir"); ¶8 *creasti me* = *creasti in me*; ¶10 *dedit* = *dedisti*; o01 ¶4 *tuta virtute* = *tua*; ¶5 *delibui* lido como *debui* ("tudo o que devo"); o02 ¶2 *Desiderio* = *Desidero*; ¶5 *ducem natum* = *dulcem natum*; ¶6 *complacui ti*; ¶13 *ohedientia*; o03 ¶3 *faedatam*; ¶4 *Dum* = *Deum*; o06 ¶3 *amittere* = *admittere*.
+- m21 ¶4: a frase lacunar *Manducabat tunc homo panem dolorum, quem tunc nesciebat* traduzida tal como está, com nota do tradutor ([^2]) que dá a forma completa do *Proslogion*. m21 ¶10 *quid te intelligit os meum* traduzido literalmente ("a minha boca"), embora o *Proslogion* tenha *cor meum*.
+- o02 ¶13 *Qui tecum. etc.* → "Ele, que convosco etc."
+- Notas do tradutor: m21 [^1] (o *Proslogion* como fonte da meditação e a fórmula "creio para entender"), marcador posto no título; m21 [^2] (lacuna do ¶4); o01 [^1] (o hino *O lux beata Trinitas*).
+- Referências erradas da fonte espelhadas sem correção: o10 ¶10 "Ibid., 14" (é Salmo 49:4); o12 ¶6 "Salmo 62:25" (é 72:25); o15 ¶5 "Salmo 31:1" (é 34:1-2); o18 ¶5 "Salmo 4:2" (é 4:9).
+- Erros do OCR lidos pelo sentido: o07 ¶3 *pertinanaciam*; o10 ¶6 *animam me* = *animant me*; ¶8 *deinum* = *denuo*, e *acta mea, formidinem* com o verbo *ingerit* subentendido; ¶10 *seu* = *ceu* ("como se"), *con futat*; ¶11 *illumatio*; ¶12 *non quia abscondisti* lido como *abstulisti* ("não porque a tirastes"), e o seguinte *Abstulisti* vertido "Retirastes-na da vista"; *tementibus*; ¶13 *consummantum*, e *qui autem exspectant te, confundentur* lido com o *non* do Salmo 24:3 ("não serão confundidos"); o12 ¶3 *cogitationem* = *cognitionem*, *benedicamus* = *benedicam* (Salmo 62:5); o15 ¶5 *conae* = *bonae*; o16 ¶5 *stetu* = *fletu*; ¶7 *tu reminiscor* = *tui*; o17 ¶5 *ditectio*; o18 ¶6 *sedura*.
+- o17 ¶6 *discernis hoc rectum et justum esse, ut filii hujus saeculi…*: a letra diz o contrário do argumento; vertido "discernis se é reto e justo que…", como pergunta implícita.
+- o15 ¶4: as variantes do editor `[ *al*. possum]` e `[ *al*. subita]` mantidas como estão, junto da palavra a que se referem.
+- Tratamentos: as "filhas de Jerusalém" em *vós* plural (o12 ¶4); Cristo a Madalena em *tu* ("Vai, dize", o16 ¶6); o amor apostrofado em o17 ¶7 (*amor qui semper ardes*) em *vós* ("amor que sempre ardeis e nunca vos extinguis"), porque é o próprio Deus, como a luz e a verdade em m21 ¶9.
+- Notas do tradutor: o10 [^1] (Cedar); o12 [^1] (trocadilho *mane*, "ficai"/"de manhã", e eco de Lucas 24:29); o16 [^1] (o regadio de cima e de baixo de Axa e as duas compunções em São Gregório Magno); o17 [^1] (hino *Iesu, nostra redemptio*); o17 [^2] (eco das *Confissões*, livro X).
+- Nossa Senhora apostrofada em *vós* (o20 ¶5), como na tradição devocional portuguesa; as almas e a própria alma do orante em *tu* (o20 ¶4, o27).
+- Referência errada da fonte espelhada sem correção: o22 ¶3 "Salmo 72:26" para *Renuit consolari anima mea* (é 76:3).
+- Erros do OCR lidos pelo sentido: o19 ¶6 "*t* endo" = *tendo*; o20 ¶5 *susciperes* = *suspiceres* ("erguíeis os olhos"); ¶6 *hec* = *nec*; o22 ¶3 *praesentia* lido como *patientia*, como no passo paralelo de o20 ¶3, e *interdum* (¶4) como *interim*; o23 ¶4 *familiaribus* = *familiarius*, *quia fronte* = *qua fronte*; o26 ¶3 *ducissime*; ¶4 *male* = *mala*; ¶5 *separabat* = *sperabat*; o29 ¶6 *percat* = *pereat*; ¶7 *quot* = *quod*; ¶8 *ut sis illis* lido como *sit* (o sujeito é o sacramento); o30 *paridisi*.
+- o19 ¶6: a variante `[ *al*., adducta tenebrarum]` mantida como está.
+- o24 ¶4: o *ut communi Domino* repetido vertido como duas orações ("como a Senhor comum; que, ao Senhor comum, sirvamos…"), sem suprimir a repetição.
+- o28 ¶3 *et non recte diligimus eum, sicut praecipis*: vertido entre parênteses como confissão incidental, para não romper o argumento do *quia* seguinte.
+- o30: *tamen majestati… non offertur* lido como condicional ("se, porém, não for oferecido"), em paralelo ao *Si* anterior; a oração final sem verbo (*ut et mihi suis apud te precibus veniam*) completada com "me alcancem".
+- o25 ¶6 *peccata criminalia*: "pecados graves".
+- Notas do tradutor: o19 [^1] (os hexâmetros adaptam Boécio, *Consolação da Filosofia* III, poema 9); o19 [^2] (eco da visão de Óstia, *Confissões* IX, 10); o29 [^1] (a oração *Summe Sacerdos*, dita de Santo Ambrósio nos missais, hoje atribuída a João de Fécamp).
+- Santos apostrofados um a um (São Miguel, São João Batista, São Pedro, o bem-aventurado N., Santa Maria Madalena) em *vós*, como Nossa Senhora; os pecados apostrofados em o50 também em *vós* (plural). A Cruz em *tu* (o41–o45).
+- o43 ¶5: Nossa Senhora falando ao Filho em *tu*; as palavras evangélicas de Cristo (*Mulher, eis o teu filho*; *Pai, perdoa-lhes*) e do ladrão em *tu*, como nas Bíblias portuguesas.
+- Marcas "( .)" dos títulos de o37–o39 omitidas: são restos de chamadas de nota que a fonte descartou.
+- Referências erradas da fonte espelhadas sem correção: o43 ¶7 "João 23:42" e ¶8 "ibid. 9:43" (é Lucas 23:42-43); o46 ¶6 "Salmo 138:5" (é 138:7). Em o41 ¶4 "Philipp. II, 8, 9" dado como "Filipenses 2:8-9".
+- o36 ¶2: *Altissime in perditionem*, separado por ponto no OCR, lido com a frase anterior (*ne des haereditatem tuam, Altissime, in perditionem*).
+- o33: *pro inobedientia assistere* vertido "comparecer para não incorrer em desobediência", em paralelo com o31 (temor de ser condenado por desobediência se se retira).
+- o36 ¶8 *mihi fetido* mantido literalmente ("a mim, fétido como sou").
+- o37: *in ulnas suas, id est in brachia sua*: o termo glosado fica em latim (*in ulnas suas*), para não perder a glosa do autor.
+- o40: poema traduzido verso a verso, um parágrafo por verso, sem rima; maiúscula no início de cada verso, como na fonte; lacunas e versos truncados mantidos sem preenchimento; *Modice* (¶67) dado como "*Ó de pouca fé*" (Mateus 14:31).
+- o42 ¶3: frase sem verbo principal (*non decore frondium…, sed castissimis membris…*) completada com "és ilustre".
+- o46 ¶7 *Millies centena millia* dado literalmente ("milhares de centenas de milhares").
+- Erros do OCR lidos pelo sentido: o37 *sitite* = *sitire*, *puritia* = *pueritia*, *sudditum* = *subditum*; o40 ¶140 *interit* = *interemit*; o42 *propriaram* = *propriarum*, *fere* = *nec*; o43 ¶7 *quanto videt* = *quando videt*; o45 *praetium*; o46 ¶3 *deprecor, Domine* lido *Domina* (a oração se dirige a Maria), ¶7 *sic commune* = *sic comminue*; o50 ¶6 *sorde at* = *sordeat*, *tune* = *tu-ne*.
+- o38: o ponto de interrogação da fonte depois de *sedes ad dexteram Patris* mantido.
+- Notas do tradutor: o40 [^1] (lacunas do poema na edição de Migne), [^2] (Santo Albano, que segundo Beda secou o rio a caminho do martírio), [^3] (as palavras gregas *Soter*, *ousion*, *eleyson*); o42 [^1] (eco do *Pange, lingua, gloriosi proelium certaminis*, de Venâncio Fortunato); o46 [^1] (*virgo* / *virago*, Gênesis 2:23); o49 [^1] (o título "mãe da misericórdia" na *Vida de Santo Odão*, de João de Salerno).
+- o51, o52: Cristo e Nossa Senhora, apostrofados juntos ou um a um, em *vós*; o pecador que se interpela a si mesmo (o51 ¶4) em *tu*. As entranhas e o interior da alma apostrofados em o52 ¶3 em *vós* (plural).
+- o62: o Anjo da Guarda em *vós*, como os santos. o63: São João Batista em *vós*; a alma que se interpela a si mesma (¶5) em *tu*; o pecar (*Peccare… es*) em *tu*; os pecados e os pecadores (¶7) em *vós*. o64: São Pedro em *vós*; *Pasce oves meas* dito por Cristo em *tu* (“Apascenta as minhas ovelhas”).
+- o61: poema traduzido verso a verso, um parágrafo por verso, sem rima, como o40; lacunas mantidas sem preenchimento; ¶58–60, sem interrogação na fonte, mantidos como afirmação.
+- Erros do OCR lidos pelo sentido: o51 ¶3 *concie* = *concio*; o52 ¶13 *Domina et domina* lido *Domine et domina* (“Senhor e senhora”), ¶14 *posuisti* = *potuisti*; o53 ¶4 ponto em *petitis. sine mora* lido como uma só frase; o55 ¶3 *tam parvum* = *tam pravum* (“tão perversa”); o56 *vel laetissima gaudia* lido *ut*; o60 ¶4 *merito* = *merita*; o61 ¶96 *decultior* = *occultior*; o63 ¶3 *te dici* lido como “vos desse à luz”, ¶5 *inani rugitu* = *immani*, ¶7 *reddite* = *redite* (“voltai”).
+- o63 ¶4 *ille contra eum, qui se fecit et referit*: o OCR parece ter perdido um membro (*ego contra eum qui me fecit et refecit*); traduzido literalmente (“ele, contra aquele que o fez e refez”), sem preencher.
+- o64 ¶8: o ponto de exclamação da fonte depois de *non confiteor* e a interrogação depois de *desperationis amaritudo* mantidos.
+- Notas do tradutor: o52 [^1] (*mundus*, “mundo” e “limpo”, no jogo *mundi / mundat mundum / immundum / mundam*); o54 [^1] (imagens do Cântico dos Cânticos e de Eclesiástico 24); o61 [^1] (lacunas do poema na edição de Migne), [^2] (Santa Maria Egipcíaca e Teófilo de Adana).
+- o65–o70: os santos (Paulo, André, João, Estêvão, Lourenço) em *vós*; quando a fonte os chama *domine/Domine*, “senhor” em minúscula, reservando “Senhor” a Deus e a Cristo; o68 ¶7 *Domine et Domine* (Jesus e João) “Senhor e senhor”.
+- o65 ¶8 e ¶15: Jesus e Paulo, interpelados juntos e alternadamente com *tu… tu*, ficam ambos em *vós*; a alternância é marcada por “um… o outro” (¶8 *tu parcendo, tu intercedendo*; ¶15 *tu per te, tu per illum*) e, em ¶15 *tu per teipsum, et tu per eumdem ipsum*, pelos vocativos “vós, Senhor… vós, Paulo”, que a forma *vós* não distingue sozinha.
+- Interpelações a si e às coisas: a alma ou o pecador a si mesmo em *tu* (o65 ¶6, ¶14, ¶16; o66 ¶3; o68 ¶9–10; o70 ¶2); os pecados e delitos em *vós* (o65 ¶5–6; o67 ¶4; o69 ¶6); as tristezas e dores (o67 ¶4) e “meu coração e minha carne” (o68 ¶10) em *vós*; a paz (o69 ¶13) em *tu*.
+- Palavras de Cristo a um santo em *tu*: a João (o68 ¶9, “quem te parece…”, “Vai, e faze tu o mesmo”), a Lourenço (o70 ¶4). Oração de André e de Estêvão a Deus em *vós*. o68 ¶9 *Vides me / Vide me* “Vedes-me / Vede-me”, mantendo o jogo do indicativo e do imperativo.
+- Erros do OCR lidos pelo sentido: o65 ¶3 *accustus* = *accusatus*; ¶5 *intellectum vestram* traduzido neutro, “o entendimento”; ¶8 *inductui* = *indutus* (“revestido”); ¶9 *quae bonis operibus nulla est* lido “que sem boas obras é nula”; ¶10 *excidit* = *exciditur*, *Haee* = *Hac*; ¶13 *quin misera est* = *quia*; ¶15 *qui tanquam gallina quae congregat* completado com o mínimo (“vós que sois como a galinha que reúne…”); o69 ¶6 *eum Deum offendi* = *cum*, *Sephane* = *Stephane*; o70 ¶2 *sutietatem* = *satietatem*.
+- o65 ¶14 *resuscitavit servos tuos* traduzido como está (“os vossos servos”), sem corrigir para *suos*.
+- o66 ¶2: a referência *Matth. VIII, 2* da fonte (o texto é de Marcos 8:2; cf. Mateus 15:32) mantida como “Mateus 8:2”. o66 ¶3 e o68 ¶10: citações sem itálico na fonte mantidas sem itálico.
+- o69 ¶9 *objurgabat* traduzido “instava”, pelo contexto da súplica de Estêvão; ¶13 *in pace in idipsum* “em paz, nele mesmo”.
+- Notas do tradutor: o65 [^1] (ecos paulinos e a imagem de Cristo mãe, Mateus 23:37); o66 [^1] (oração de André na cruz, da tradição do seu martírio em Patras); o69 [^1] (*Stephanus*, do grego *stéphanos*, “coroa”); o70 [^1] (*laurea / Laurentius*).
 - o71 ¶4, ¶6, ¶13 e ¶15: o *Domine/domine* da fonte segue a capitalização de Migne: “Senhor” para Deus, “senhor” para Martinho. ¶15 *tu jubendo, tu consulendo* e *tu per concessionem, tu per intercessionem* “um… o outro”; o par seguinte com os vocativos “vós, Senhor… vós, Martinho”, como em o65 ¶15. *qui es benedictus in saecula* “que é bendito pelos séculos”, para não atribuir o *es* a Martinho.
 - o71 erros do OCR lidos pelo sentido: ¶3 *migitet* = *mitiget*; ¶6 *eo um* = *eorum*; ¶7 *quanto tempore* lido *quanto tepore* (“em que tibieza”), pela série *tepore / stupore / torpore*; ¶10 *agitur* = *igitur*; ¶11 *os super me* = *est super me*. ¶5 a oração repetida *opera tua trahunt me ad intercessionem tuam* mantida como está.
 - o71 ¶4 *Psal. II, 13* (o texto é de Joel 2:13) mantido como “Salmo 2:13”; o74 ¶6 *Joan. XX, 19* (o texto é João 20:15) e *Joan. XX, 13* mantidos como na fonte.

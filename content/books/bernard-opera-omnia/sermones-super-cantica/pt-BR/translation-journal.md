@@ -1,6 +1,197 @@
+# Diário de tradução — Sermões sobre o Cântico dos Cânticos (pt-BR)
+
+Fonte: la/, S. Bernardi Claraevallensis abbatis opera omnia, ed. J. Mabillon, em Migne, Patrologia Latina 183 (Paris, 1854); texto do Corpus Corporum, Universidade de Zurique, derivado de OCR corrigido por máquina.
+Destino: pt-BR.
 
 ## Termos
 
+| Latim | Português | Notas |
+|---|---|---|
+| Bernardus Claraevallensis | São Bernardo de Claraval | Forma do book.json. |
+| Cantica canticorum | Cântico dos Cânticos | Título consagrado, no singular em português. |
+| sermo | sermão; discurso; palavra | Conforme o contexto. |
+| Verbum | Verbo | Convenção dos irmãos patrísticos. |
+| Spiritus sanctus | Espírito Santo | Convenção dos irmãos patrísticos. |
+| divinitas / Deitas | Divindade | Convenção dos irmãos patrísticos. |
+| substantia / essentia | substância / essência | Distinção preservada. |
+| Ecclesia | Igreja | Convenção dos irmãos patrísticos. |
+| Patres | Padres | “Pais” quando designa os antepassados. |
+| sponsus / sponsa | esposo / esposa | Cristo e a Igreja ou a alma; minúsculas da fonte. |
+| osculum | beijo | Mantido nas imagens corporais e espirituais. |
+| osculum oris sui | beijo de sua boca | Distingue-se de “com sua boca”, essencial ao argumento. |
+| Osculetur me osculo oris sui | Beije-me ele com o beijo de sua boca | Fórmula recorrente de Cântico dos Cânticos 1:1. |
+| incarnatio | Encarnação | |
+| homo assumptus / caro assumpta | homem assumido / carne assumida | Vocabulário cristológico mantido. |
+| mediator Dei et hominum | mediador de Deus e dos homens | |
+| charitas | caridade | |
+| pietas | piedade | Convenção dos irmãos patrísticos. |
+| poenitentia | penitência | Convenção de Ambrósio. |
+| continentia | continência | |
+| verecundia | pudor | Conforme o contexto, “cheio de pudor”. |
+| satisfactio | satisfação | Reparação penitencial. |
+| indulgentia | perdão; condescendência | Conforme designe remissão ou concessão benigna. |
+| dignatio | condescendência | Ação gratuita de Deus ao aproximar-se da criatura. |
+| misericordia / judicium | misericórdia / juízo | Os dois pés espirituais do Senhor. |
+| justificatio | justificação; prescrição | “Prescrição” nas citações do Salmo 118; “justificação” para a ação de tornar justo. |
+| sacramentum | mistério | Nestes sermões, quando não designa especificamente um sacramento. |
+| unctio | unção | Em s01, o ensino interior que se conhece pela experiência. |
+| profectus | progresso | |
+| animalis homo | homem animal | Formulação paulina preservada. |
+| spiritus pecoris | espírito do animal | “Espírito” mantido na classificação antropológica do autor. |
+| incircumscriptus | sem limites | Aplicado ao Espírito divino. |
+| Cantica Graduum | Cânticos dos Degraus | Conserva a imagem das ascensões. |
+| Salomon / Moyses / Debbora / Judith | Salomão / Moisés / Débora / Judite | |
+| Isaias / Jeremias / Jesse / Simeon | Isaías / Jeremias / Jessé / Simeão | |
+| Jerusalem / Sion / Achaz | Jerusalém / Sião / Acaz | |
+| saecula saeculorum | séculos dos séculos | Fórmula conclusiva. |
+| latitudo / fortitudo | liberalidade / fortaleza | Nomes das duas mãos espirituais de Deus em s07. |
+| ubera | seios | Imagem aplicada tanto ao esposo como à esposa. |
+| longanimitas | longanimidade | Paciência divina em esperar a conversão. |
+| facilitas remittendi | prontidão em perdoar | Uma das duas disposições figuradas pelos seios do esposo. |
+| unguentum | unguento | Mantido nas imagens medicinais e aromáticas. |
+| contritio / devotio / pietas | contrição / devoção / piedade | Os três unguentos espirituais. |
+| compassio / congratulatio | compaixão / alegria partilhada | Os dois afetos maternos em s10. |
+| exinanitio | esvaziamento | Em s11, o modo da redenção, referido a Filipenses 2:7, 8. |
+| ratio / voluntas / memoria | razão / vontade / memória | Tríade da alma em s11. |
+| Judas / Zabulon / Neptalim | Judá / Zabulon / Neftali | Nomes tribais em s07. |
+| Behemoth | Beemot | Conservado o nome dado pela fonte em s08. |
+| Rachel / Lia / Ephraim | Raquel / Lia / Efraim | |
+| effusio / infusio | efusão / infusão | Preservada a distinção entre derramar para fora e infundir interiormente. |
+| Oleum effusum nomen tuum | Teu nome é óleo derramado | Fórmula recorrente de Cântico dos Cânticos 1:2; mantido tu na citação. |
+| Synagoga / Ecclesia de gentibus | Sinagoga / Igreja dos gentios | Personificações do argumento de s14–s15. |
+| perfidi | incrédulos | No título de s14, em continuidade com o título já estabelecido no sumário. |
+| adolescentulae / proximae | donzelas / companheiras | Distinção entre as figuras femininas que acompanham a esposa. |
+| acedia | acédia | Termo espiritual, distinto da simples indolência. |
+| electuarium | eletuário | Preparação medicinal explicada na nota [^8]. |
+| Thabita / Bersabee / Jephte | Tabita / Bersabeia / Jefté | Formas portuguesas dos nomes bíblicos. |
+| I Regum / II Regum / IV Regum | 1 Samuel / 2 Samuel / 2 Reis | Correspondência dos títulos latinos com os nomes portugueses atuais. |
+| compunctio / contritio | compunção / contrição | Conservada a distinção vocabular; *contritiones* em contexto medicinal pode designar feridas. |
+| confessio humilis, simplex, fidelis | confissão humilde, simples e fiel | Em s16, “fiel” inclui a confiança esperançosa no perdão. |
+| concha / canalis | bacia / canal | Em s18, recipiente que acumula até transbordar, em contraste com o canal que imediatamente deixa passar a água. |
+| virtutes / potestates / principatus / dominationes / throni | virtudes / potestades / principados / dominações / tronos | Nomes das ordens angélicas; *virtus* fora desse contexto também pode significar força, poder ou feito poderoso. |
+| cherubin / seraphin | querubins / serafins | Mantidas as explicações etimológicas dadas pelo próprio autor. |
+| Dominus sabaoth | Senhor dos exércitos | Forma portuguesa do título divino em s19. |
+| amor carnalis / rationalis / spiritualis | amor carnal / racional / espiritual | Em s20, “carnal” pode designar o amor voltado à humanidade de Cristo; não implica, por si, amor pecaminoso. |
+| dulciter / prudenter / fortiter | com doçura / com prudência / com fortaleza | Conservada a tríade e sua relação com coração, alma e força. |
+| acedia | acédia | Termo espiritual distinto de torpor e tédio, que o acompanham em s21. |
+| sapientia / justitia / sanctificatio / redemptio | sabedoria / justiça / santificação / redenção | Os quatro unguentos do esposo em s22. |
+| prudentia / justitia / temperantia / fortitudo | prudência / justiça / temperança / fortaleza | As quatro virtudes cardeais relacionadas aos unguentos em s22. |
+| continentia | continência | Conservada a explicação do autor que a aproxima da temperança. |
+| hortus / cellarium / cubiculum | jardim / despensa / câmara | Em s23, figuras do sentido histórico, do sentido moral e do segredo da contemplação. |
+| cella aromatica / unguentaria / vinaria | aposento dos aromas / dos unguentos / do vinho | Conservada a correspondência com disciplina, natureza e graça. |
+| discretio | discernimento | Mãe das virtudes; modera o fervor da caridade no exercício da autoridade. |
+| detractio / detractor | maledicência / maledicente | O verbo *detrahere* também é traduzido por “difamar”, conforme a construção. |
+| rectitudo / curvitas | retidão / curvatura | Mantida a relação entre a postura corporal e a disposição espiritual. |
+| nigredo / candor / formositas | negrura / brancura ou esplendor / formosura | Em s25, a negrura exterior pode significar penitência, trabalhos e participação no opróbrio de Cristo. |
+| pelles Salomonis | peles de Salomão | Conservada a imagem das coberturas das tendas, explicada pelo autor e na nota [^16]. |
+| Girardus | Geraldo | Irmão de Bernardo pelo sangue e pela vida religiosa. |
+| unanimitas / consanguinitas | unanimidade / consanguinidade | Em s26, a unidade das almas é distinguida do parentesco de sangue. |
+| impassibilis / non incompassibilis | impassível / não incapaz de compaixão | Conservada a distinção entre não sofrer e compadecer-se. |
+| coelum coeli / coeli coelorum | céu do céu / céus dos céus | Em s27, designam a comunidade celeste e seus membros. |
+| continentia | continência | Distinta da caridade, da qual recebe seu mérito. |
+| coelestis / terrenus | celeste / terreno | Conservado o contraste entre origem, conduta e condição corporal. |
+| auditus / visus | ouvido, ouvir / vista, ver | Em s28, preservada a distinção entre a recepção da fé pelo ouvir e a visão como recompensa. |
+| Salomon / pacificus | Salomão / pacífico | Interpretação do nome aplicada a Cristo; conservado o itálico de *pacificus*. |
+| vinea / vitis / palmes / botrus | vinha / videira / ramo / cacho | Distinções da alegoria de s30; *sarmenta* vertido como “sarmentos”. |
+| acedia | acédia | Vício espiritual mencionado em s30. |
+| prudentia carnis / sapientia carnis | prudência da carne / sabedoria da carne | Mantida a diferença lexical do original. |
+| complexio | constituição corporal | Termo da antiga medicina dos humores, explicado na nota [^21]. |
+| Hippocrates / Galenus / Epicurus | Hipócrates / Galeno / Epicuro | Formas portuguesas dos nomes. |
+| sicuti est | tal como é | Fórmula recorrente na distinção entre a visão definitiva de Deus e suas manifestações presentes. |
+| paranymphus | paraninfo | Intermediário entre os noivos, aplicado ao anjo; explicado na nota [^22]. |
+| discretio spirituum | discernimento dos espíritos | Dom mencionado em 1 Coríntios 12:10. |
+| meridies / daemonium meridianum | meio-dia / demônio do meio-dia | Conservada a imagem solar que estrutura s33; “Meio-dia” com maiúscula na designação final de Cristo. |
+| species | visão | Na oposição entre fé e visão; nos demais contextos, “forma”, “aspecto” ou “aparência”, conforme o sentido. |
+| negotium perambulans in tenebris | negócio que percorre as trevas | Conservado “negócio” para sustentar a aplicação à hipocrisia, à ambição e à compra de honras. |
+| Oriens ex alto | Oriente vindo do alto | Mantida a imagem do nascer do sol, desenvolvida no sermão. |
+| humilitas / humiliatio | humildade / humilhação | Distinção central em s34; nos contextos em que *humilitas* designa o rebaixamento sofrido, traduzido conforme o sentido por “humilhação”. |
+| cognitio / notitia sui | conhecimento de si mesmo | Contraposto ao conhecimento de Deus e à ignorância de si mesmo. |
+| scientia inflat | o conhecimento incha | Conservada a imagem corporal, desenvolvida em s36 por meio da digestão, dos humores e das cólicas. |
+| regio dissimilitudinis | região da dessemelhança | Expressão aplicada à condição da alma que se contempla à luz da verdade. |
+| fenum | feno | Conservado ao longo da alegoria de s35 sobre a carne, o alimento dos animais e o Verbo encarnado. |
+| spes vitae | esperança da vida | Fórmula recorrente na imagem da semeadura e da colheita em s37. |
+| equitatus Domini | cavalaria do Senhor | Em s39, figura da alma santa, de suas virtudes e da guarda dos anjos. |
+| intentio / res et causa | intenção / objeto e motivo | Em s40, distingue-se aquilo que se busca da razão pela qual se busca. |
+| genae / facies | faces / rosto | Conservada a distinção entre as duas faces e o rosto da alma. |
+| muraenulae aureae, vermiculatae argento | pequenas correntes de ouro, entremeadas de prata | Em s41, Bernardo interpreta essas correntes como ornamentos das orelhas. |
+| intellectus | entendimento | Em s41, figurado pelo pescoço da esposa. |
+| accubitus regis | leito do rei | Em s42, interpretado como o seio do Pai. |
+| nardus | nardo | Figura da humildade aquecida pela caridade. |
+| fasciculus myrrhae | pequeno feixe de mirra | Conservado o diminutivo, expressamente contraposto a *fascis*, “feixe”, em s43. |
+| congratulatio / compassio | congratulação / compaixão | Participação na alegria e na dor alheias, figuradas pelos dois seios da esposa. |
+| botrus Cypri / vineae Engaddi | cacho de Chipre / vinhas de Engadi | Conservada a leitura geográfica desenvolvida pelo próprio Bernardo em s44. |
+| oleum mansuetudinis / vinum zeli | óleo da mansidão / vinho do zelo | Figuras da compaixão fraterna e do ardor do amor divino na correção. |
+| lectulus floridus | pequeno leito florido | Conservado o diminutivo; figura do repouso monástico e da consciência adornada de boas obras. |
+| tigna / laquearia | vigas / forros | Mantida a distinção estrutural que sustenta a interpretação eclesial e espiritual de s46. |
+| flos campi / lilium convallium | flor do campo / lírio dos vales | Os vales figuram os humildes em s47. |
+| opus Dei | obra de Deus | Designação beneditina do ofício divino em s47. |
+| malus | macieira | Árvore frutífera que figura a humanidade de Cristo em s48. |
+| umbra / fides / intellectus | sombra / fé / entendimento | Em s48, a sombra designa a carne de Cristo e a fé; distingue-se estar, viver e repousar à sombra. |
+| Phinees / Jesse | Fineias / Jessé | Formas portuguesas dos nomes bíblicos. |
+| discretio / ordinatio charitatis | discernimento / ordenação da caridade | O discernimento regula as virtudes e os afetos; conserva-se também a fórmula “ordem da caridade”. |
+| charitas actualis / charitas affectualis | caridade das obras / caridade dos afetos | Distinção desenvolvida em s50; mantidas as formas já estabelecidas no título. |
+| amor amoris | amor do amor | Desejo do próprio amor divino, distinto de sua fruição afetiva. |
+| sapientia / sapere | sabedoria / ter sabor, saborear | Mantida a imagem do sabor na apreciação espiritual das coisas em s50. |
+| excessus / exstasis | êxtase | Conforme o contexto, também “sair de si”; em s52, distingue-se a superação dos desejos da superação das imagens corporais. |
+| Rachel / Lia | Raquel / Lia | Figuras da vida contemplativa e da vida ativa. |
+| capreae / cervi camporum | gazelas / cervos dos campos | Figuras das almas santas separadas dos corpos e dos anjos em s52. |
+| montes / colles | montes / colinas | Imagens dos espíritos celestes e de sua hierarquia em s53. |
+| cherubin / seraphin / dominationes / principatus / potestates / virtutes | querubins / serafins / dominações / principados / potestades / virtudes | Nomes das ordens angélicas em s53. |
+| caprea / hinnulus cervorum | gazela / filhote dos cervos | Em s55, a visão da gazela representa o juízo, e a rapidez do filhote, o desejo de salvar. |
+| timor / spiritus timoris Domini | temor / espírito do temor do Senhor | Em s54, distingue-se o temor pela graça recebida, perdida e recuperada. |
+| hydria / metreta | talha / metreta | Imagem das bodas de Caná; a medida de capacidade é esclarecida na nota [^36]. |
+| paries / maceria | parede / muro | Imagens do corpo e dos obstáculos do pecado em s56. |
+| concupiscentia / consensus / actus / consuetudo / contemptus | concupiscência / consentimento / ato / hábito / desprezo | Sequência das cinco paredes que impedem a aproximação do esposo. |
+| cancelli / cancellarii | grades / chanceleres | Mantida a associação verbal proposta pelo autor, esclarecida na nota [^38]. |
+| visitatio / tempus visitationis | visita / tempo da visita | Presença da graça, discernida por seus sinais e efeitos na alma. |
+| putatio / putare | poda / podar | Imagem da correção dos vícios nas almas e nas comunidades; preservada também na aplicação pessoal. |
+| turtur / columba | rola / pomba | Mantida a distinção entre as duas aves, essencial em s59. |
+| grossi / grossus | figos temporãos / grosseiro | O substantivo designa os primeiros figos; Bernardo explora sua associação com a ideia de espessura e rudeza. |
+| vineae florentes odorem dederunt | as vinhas em flor exalaram seu perfume | Na explicação de s60, conserva-se “dar o perfume” quando necessário à oposição entre dar e vender. |
+| foramina petrae / cavernae maceriae | fendas da rocha / cavidades do muro | Em s61, as fendas são interpretadas como as chagas de Cristo. |
+| viscera misericordiae | entranhas da misericórdia | Preservada a imagem corporal que une as chagas, o coração e a compaixão de Cristo. |
+| sancta / sancta sanctorum | santuário / Santo dos Santos | Distinção conservada na interpretação contemplativa de s61. |
+| scrutatio majestatis / voluntatis | investigação da majestade / da vontade | Conservada a distinção de s62 entre a investigação temerária da majestade e a investigação piedosa da vontade divina. |
+| Capite nobis vulpes parvulas | Capturai para nós as raposinhas | “Para nós” preservado em todas as retomadas, pois fundamenta a interpretação da comunhão entre esposo e esposa. |
+| detractor / adulator | maledicente / adulador | Duas espécies de raposas na interpretação moral de s63–s65. |
+| catholica | Igreja Católica | Substantivação latina explicitada quando designa a Igreja. |
+| Dominus sabaoth | Senhor dos exércitos | Fórmula empregada na imagem da vinha. |
+| neophytus / novitius | neófito / noviço | Distinção entre a citação apostólica e a condição monástica. |
+| Evervinus | Evervino | Nome conservado na nota editorial ao fim de s64. |
+| Dilectus meus mihi, et ego illi | Meu amado para mim, e eu para ele | Conservada a elipse verbal, indispensável à análise de s67. |
+| intendere / intendit mihi | voltar-se / volta-se para mim | No desenvolvimento de s67–s68, indica atenção dirigida a alguém; explicitado como “voltar a atenção” quando necessário. |
+| ructus / eructare | eructação / eructar | Conservada a imagem corporal que estrutura s67 e sua relação com Salmos 44:2. |
+| gratia praeveniens / subsequens | graça que previne / graça que segue | A antecipação e o acompanhamento da graça são distinguidos em s67. |
+| praesumere / praesumptio | confiar, presumir / confiança, presunção | Em s68, o contexto distingue a confiança no desígnio divino da presunção fundada nos méritos próprios. |
+| Manes / Sabellius / Eunomius / Nestorius | Mani / Sabélio / Eunômio / Nestório | Formas portuguesas dos nomes citados em s66. |
+| ignis purgatorius | fogo purgatório | Formulação de s66 sobre a purificação depois da morte. |
+| zelus misericordiae / zelus judicii | zelo da misericórdia / zelo do juízo | Em s69, distingue-se o zelo infundido na alma daquele dirigido contra o transgressor. |
+| pascere / pasci | alimentar / alimentar-se | Conservada a reciprocidade que estrutura s70–s71; “apascentar” quando o contexto é expressamente pastoral. |
+| candor / odor | alvura / perfume | Imagens das virtudes nos lírios; “candor” conservado na fórmula de Sabedoria 7:26. |
+| unus / unum | *unus* / *unum* | Formas latinas mantidas quando a distinção gramatical sustenta o argumento sobre as duas unidades. |
+| unitas / unitio | unidade / união | Distinção entre a unidade eterna do Pai e do Filho e a união da alma com Deus. |
+| voluntas propria | vontade própria | Em s71, vontade contraposta à obediência monástica. |
+| continentia / innocentia / patientia | continência / inocência / paciência | Os três lírios propostos ao fim de s70. |
+| spirare / aspirare | respirar, soprar / aspirar | Em s72, preservada a família verbal que sustenta a interpretação do dia; a fórmula bíblica permanece “até que o dia sopre”. |
+| dies inspirans / respirans / aspirans | dia inspirante / respirante / aspirante | Respectivamente, relacionados à vida recebida, ao alento recuperado na santificação e ao acréscimo de glória na ressurreição. |
+| dies conspirans / exspirans; nox suspirans | dia conspirante / expirante; noite suspirante | Conservados os derivados de *spirare* na exposição de s72. |
+| caprea / hinnulus cervorum | gazela / filhote dos cervos | Preservadas as distinções de sexo e idade desenvolvidas em s73. |
+| Bethel | Betel | Mantida a forma do texto latino e sua interpretação como “casa de Deus”. |
+| proprietas | apropriação | Em s74, ato de tomar para si a sabedoria recebida de Deus. |
+| lectulus / lectus | pequeno leito / leito | Em s75, preservada a oposição entre o diminutivo e a forma simples, ligada à pequenez e à fraqueza da humanidade de Cristo. |
+| vigiles / custodes | vigias / guardiães | Imagens dos apóstolos, dos pastores e dos protetores celestes da Igreja em s76–s78. |
+| praedestinatio / creatio / inspiratio | predestinação / criação / inspiração | As três operações que Deus reserva para si na exposição de s78. |
+| praevenire / praeventio | prevenir / prevenção | Antecipar-se pela graça; conservado o vocabulário teológico, com esclarecimento em nota. |
+| dispensatoria petitio | pedido pertencente à economia da salvação | Em s76, distingue-se o pedido do Filho de um pedido motivado por necessidade. |
+| Mammon / Cephas / Nathanael | Mamom / Cefas / Natanael | Formas portuguesas empregadas em s77–s78. |
+| transire / pertransire | passar / passar além | Em s79, a distinção verbal sustenta a relação entre ressurreição e ascensão. |
+| imago / ad imaginem | Imagem / feito à imagem | “Imagem” com inicial maiúscula quando designa o Verbo; a alma é feita à imagem. |
+| magnitudo / rectitudo | grandeza / retidão | Em s80, a grandeza corresponde à capacidade das coisas eternas; a retidão, ao desejo das coisas do alto. |
+| simplicitas / immortalitas / libertas | simplicidade / imortalidade / liberdade | Tríplice semelhança natural da alma com o Verbo em s81–s82. |
+| liberum arbitrium / arbitrii libertas | livre-arbítrio / liberdade do arbítrio | Preservada a distinção entre liberdade natural e liberdade espiritual. |
+| risibilitas | capacidade de rir | Propriedade lógica, não o ato efetivo de rir. |
+| diplois | manto duplo | Imagem da semelhança original recoberta pela dessemelhança adquirida. |
+| Gillebertus Pictavensis / Eugenius / Fulgentius / Boetius | Gilberto, bispo de Poitiers / Eugênio / Fulgêncio / Boécio | Formas portuguesas empregadas em s80. |
 | conformitas | conformidade | Semelhança da vontade pelo amor, que une a alma ao Verbo. |
 | honestum / honestas | honradez | Beleza moral interior, manifestada na conduta e na integridade da reputação. |
 | verecundia / pudor | pudor / vergonha | “Pudor” como disposição virtuosa; “vergonha” quando o contexto distingue seus efeitos bons e maus. |
@@ -10,6 +201,216 @@
 
 ## Decisões
 
+- Tradução dos 57 parágrafos-fonte, incluindo seis títulos, diretamente do latim. As referências inglesas de s01 têm alinhamento irregular; não determinaram a divisão nem o conteúdo da tradução.
+- As três notas pertencentes à tradução inglesa de referência não integram a fonte latina e não foram importadas como notas desta edição. Acrescentaram-se apenas as notas próprias explicitadas abaixo.
+- Conservadas as entradas pt-BR já existentes de nome, autor e descrição no book.json; acrescentados pt-BR a languages e os títulos portugueses a todos os itens do sumário. Títulos com original latino foram traduzidos dele; prefácio e apêndices exclusivos do inglês receberam títulos a partir do inglês.
+- Mantidas as mudanças de interlocutor: vós para os irmãos e para Deus; tu nas interpelações individuais, inclusive à alma. Na fala do Pai ao Filho em s06, preservado tu.
+- As citações bíblicas foram traduzidas segundo o latim fornecido, sem completar frases com outras versões. Referências convertidas para capítulo:versículo; remissões “ibid.” explicitadas. Mantidas a numeração dos Salmos, a antiga nomenclatura 1 Reis e 4 Reis e as referências aparentemente equivocadas, entre elas Êxodo 3:6 em s01, 1 Coríntios 5:17 em s02 e 1 Coríntios 2:3 em s06.
+- Os trechos bíblicos em latim foram traduzidos, pois pertencem à língua-fonte, conservando os itálicos. Leituras latinas do aparato editorial permanecem em latim; alias foi traduzido por “outra leitura”.
+- s01, §3: nota [^1] esclarece a alusão aos três pães de Lucas 11:5-8 e sua aplicação aos três livros sapienciais.
+- s01, §9: preservada a variante editorial praesignatum, mesmo sem diferença de tradução relevante.
+- s03, §7: o número residual “6.” foi conservado como **6.**, sem criar lista.
+- s04, §5: “ser de todas as coisas” conserva o vocabulário do autor; a própria distinção entre causa e matéria foi mantida integralmente.
+- s05, §5: a expressão a creatura mundi foi traduzida por “pela criatura do mundo”, conforme a interpretação de Bernardo. Nota [^2] distingue essa leitura da tradução habitual “desde a criação do mundo”.
+- s05, §10: nota [^3] registra a aproximação sonora entre indulgentia e indigentia, vertidas por “condescendência” e “indigência”.
+- s06, §6: conservado “vida” para vita em “In mari vita tua”, embora a forma pareça resultar de erro por via. Não se substituiu pela redação bíblica habitual.
+- Regularizados erros mecânicos evidentes, sem alteração de conteúdo: entre outros, a carne por in carne em s02; slas por stas; honorum por bonorum; auoque por quoque; pulsos por pulses; tuum por tum em s04; benficus por beneficus; aguis por aquis; eum Patre por cum Patre. Pontuação acidental do OCR foi normalizada.
+- Nos títulos do sumário, notiiam foi entendido como notitiam, quoe como quae, audicitia como pudicitia e praevente como praeventa. O título incompleto de s27 foi vertido com “elevada ao céu”, para tornar inteligível in coelum dicatur.
+- Traduzidos os 50 parágrafos-fonte de s07–s11, incluindo cinco títulos, com preservação das divisões e das variantes editoriais.
+- As variantes introduzidas por alias permanecem em latim, com a indicação “outra leitura” em português, inclusive quando a diferença é apenas gramatical.
+- Mantidas as referências bíblicas da fonte, inclusive João 6:64, Salmos 102:10 e 1 Tessalonicenses 5:17, sem correção para a numeração ou o versículo de outras edições.
+- s07: “liberalidade” traduz latitudo como nome da mão divina que concede com abundância; “fortaleza” designa a que conserva e defende o dom.
+- s08: preservada rigorosamente a distinção entre o beijo “da boca” e o beijo “do beijo”, bem como entre receber “a plenitude” e receber “da plenitude”.
+- s08: conservada a atribuição da primeira menção de João ao “amigo do esposo”, seguida de João evangelista, conforme a distinção explícita do original.
+- s09, §4: acrescentada a nota [^4] sobre o jogo impressum/expressum, conservado como “impresso/expresso”.
+- s09: nos diálogos, os companheiros tratam a esposa por tu; a esposa dirige-se reverentemente ao esposo divino por vós. A formulação citada do Cântico mantém tu.
+- s10, §10: acrescentada a nota [^5] sobre a aproximação sonora tempore/tepore, que distingue o pouco tempo desde a conversão da tibieza da conduta.
+- s11: conservados tanto “trinta anos” como o paradoxo “feito do nada” e “não redimido por nada”, segundo o latim.
+- Regularizados erros mecânicos evidentes: sustine it, capiimus, factentium, Alloquin, telum por zelum, Unigenti, appropiat, imperinm, dictasint, a mo, bacathro, reniam, Mensutam, miseserabiliter, od oramentis e augustia por angustia. Em s11, repelet foi entendido como a forma de reple(o) exigida pelo contexto de saciar o desejo da alma com bens.
+- Traduzidos os 40 parágrafos-fonte de s12–s15, incluindo quatro títulos, preservando as divisões; as quatro notas do tradutor aparecem imediatamente depois dos parágrafos correspondentes.
+- Mantidas as referências da fonte, inclusive 1 Samuel 4:35 em s12 e a ordem Salmos 58:14, 7 em s15; Deuteronômio 32, sem versículo na fonte, conserva a indicação “segundo os Setenta”.
+- Preservado como **4.** o número autoral remanescente no quinto parágrafo-fonte de s14.
+- Conservadas em latim e em itálico as variantes editoriais; traduzidas somente suas indicações, inclusive os casos de acréscimo e omissão.
+- s12: mantida a interpretação alegórica de “homem” e “mulher” na comparação entre o ministério pastoral e a vida claustral, assim como a explicação autoral de “iniquidade” como irregularidade de vida e conduta.
+- s13: “com dois corações” traduz a expressão *in corde et corde*, que indica duplicidade interior.
+- s14, parágrafo-fonte 6: acrescentada a nota [^6] sobre o jogo sonoro entre *foederatae* e *foedatae*.
+- s15: mantida a classificação dos nomes divinos na ordem dada pelo autor, inclusive a inclusão inicial de “pai do século futuro” entre os nomes de majestade.
+- s15, parágrafo-fonte 7: acrescentada a nota [^7] sobre *mel/melos*; no parágrafo 8, a nota [^8] explica “eletuário”; no parágrafo 9, a nota [^9] esclarece a relação entre Jesus, Josué e o sentido salvífico do nome.
+- s15: “boceja” traduz *oscitat*, sem substituir a ação pela leitura “espirra” de outras versões de 2 Reis 4:35.
+- Regularizados lapsos mecânicos evidentes: *appellaverini*, *ex sortibus* por *exsortibus*, a duplicação *avaritiam avaritiam*, *eriri* por *oriri*, *iusuper*, *confidente indignitatem* por *confitente indignitatem*, *vultur* por *vultu*, *plantasmatum*, *inter nos* por *internos* e *ad collum* por *ad colum*. A sequência truncada *Et propter etsi* foi entendida como “Por isso, embora”; as construções sintaticamente defeituosas de s13, parágrafo-fonte 8, e s14, parágrafo-fonte 5, foram vertidas preservando seus elementos e o encadeamento do argumento.
+- Traduzidos os 40 parágrafos-fonte de s16–s19, incluindo quatro títulos, preservando as divisões; acrescentadas duas notas do tradutor imediatamente depois dos parágrafos correspondentes.
+- Mantidas as referências peculiares da fonte: *IV Reg. XXXIV* como “2 Reis 34”, sem suprir capítulo ou versículo conjectural, e *Gen. III, 2* como “Gênesis 3:2”.
+- s16, parágrafo-fonte 7: a nota [^10] explica “quadrante”, pequena moeda romana empregada na imagem da prestação de contas.
+- s16: o “quinário” dos sentidos e o “binário” da caridade foram explicitados como “cinco sentidos” e “duplo mandamento da caridade”, conservando o argumento numérico.
+- s17: preservado o caráter conjectural da interpretação sobre a inveja de Lúcifer e todas as ressalvas do autor acerca do que o Espírito afirma ou não afirma.
+- s17, parágrafo-fonte 8: *mons coagulatus, mons pinguis* foi vertido por “monte maciço, monte fértil”, conservando as duas imagens do relevo e da fecundidade.
+- s18: *pereffluere* foi traduzido por “esvaziar-se” no contexto do recipiente que perde seu conteúdo; mantida a oposição entre receber a infusão, encher-se e derramar.
+- s19, parágrafo-fonte 3: a nota [^11] explica a polissemia de *virtus* que sustenta a associação entre a ordem angélica das Virtudes e os feitos poderosos.
+- Preservado como **6.** o número autoral remanescente no sétimo parágrafo-fonte de s19; mantida a mudança do plural para o singular na advertência final sobre o zelo sem conhecimento.
+- Conservadas em latim e em itálico todas as leituras variantes do aparato, traduzindo somente suas indicações editoriais.
+- Regularizados lapsos mecânicos evidentes, entre eles *agressi*, *exibit*, *ommino*, *lactarus*, *diflidens*, *talio* por *talium*, *exsaltavit*, *ego* por *ergo* em “Cuinam ego harum”, *nicus* por *ulcus*, *tunc* por *tune*, *homiminumque* e *sic* por *sit* em “cum plenum sic”; a pontuação que separava “non pepercit” de “Unigenito” foi recomposta.
+- Traduzidos os 34 parágrafos-fonte de s20–s22, incluindo os três títulos, sem alterar suas divisões; acrescentadas duas notas do tradutor.
+- Empregado “vós” nas apóstrofes e súplicas dirigidas a Deus e a Cristo; conservado “tu” nas exortações ao cristão individual e nas perguntas dirigidas à esposa.
+- s20: conservada a distinção entre o amor afetuoso do coração, o amor racional da alma e o amor espiritual fortalecido para suportar até a morte.
+- s21, parágrafo-fonte 3: a nota [^12] identifica Balaão como autor da fala citada de Números.
+- s22, parágrafo-fonte 6: a nota [^13] explica a polissemia de *verbum* e a relação que Bernardo estabelece entre Lucas e o prólogo de João; mantido “verbo” na citação para tornar legível o argumento.
+- Conservadas as referências peculiares da fonte: “Cântico dos Cânticos, 3”, sem acrescentar capítulo; “Salmo 61:1-2”; “Jó 38:18”; e “Salmo XVIV:7”, mantendo o numeral romano inválido em vez de lhe atribuir um valor conjectural.
+- Mantidas todas as variantes editoriais em latim e em itálico, traduzindo *alias* por “ou”; fechado o colchete ausente depois da variante *putridus* em s22.
+- Regularizados lapsos mecânicos evidentes, entre eles *anathemata* por *anathema*, *est* por *es* em “me dignatus est esse”, *tener[e]* em “tenere diligebat” entendido como *tenere* adverbial, *veri similitudinem* por *veri similitudine*, *vilaborum* por *vi laborum*, *dilixerunt*, *corum*, *subjunctuza*, *crexit* por *erexit*, *solam* por *sola*, *justificat* por *justificati* e *sed* por *se* em “sed inquinat”.
+- s20, parágrafo-fonte 9: a leitura corrompida “honorum quae pertulit” foi entendida pelo contexto como referência aos sofrimentos suportados por Cristo e traduzida por “dos sofrimentos que ele suportou”.
+- s22, parágrafo-fonte 9: *dimitte nos, quia clamamus post te* foi vertido por “atendei-nos, porque clamamos após vós”, conservando o sentido de atendimento da súplica no eco evangélico.
+- Traduzidos os 37 parágrafos-fonte de s23–s25, incluindo os três títulos, preservando suas divisões; acrescentadas três notas do tradutor.
+- Conservado “vós” no tratamento direto de Deus e de Cristo e dos ouvintes plurais; empregado “tu” nas exortações individuais, no diálogo do corpo com a alma e nas falas das donzelas à esposa.
+- s23, parágrafo-fonte 15: a nota [^14] explica a relação entre *sapere*, *sapor* e *sapientia*, que sustenta a passagem do conhecimento à experiência interior.
+- s24, parágrafo-fonte 8: a nota [^15] explica a oposição entre *fratricida* e *fideicida*, vertida como “fratricida” e “réu de matar a fé”.
+- s25, parágrafo-fonte 5: a nota [^16] esclarece que as “peles” são coberturas de tendas.
+- Mantidas as variantes editoriais em latim e em itálico, com *alias* traduzido por “ou”: *cubiculum*, *movimus*, *terrorem* e *invocantibus se*.
+- Conservadas as referências peculiares da fonte, inclusive Mateus 24:48, e os números dos salmos; “I Reg. XVI, 7” corresponde a 1 Samuel 16:7.
+- s25: preservadas as formulações próprias da fonte “esplendor da vida eterna” em Sabedoria 7:26 e “fez-se pecado” em 2 Coríntios 5:21, sem harmonizá-las com outras versões bíblicas.
+- Regularizados lapsos mecânicos evidentes, entre eles *idcirce*, *abertas* entendido como *ubertas*, *cam* por *eam*, *zeias* por *zelas*, *debriatur* por *inebriatur*, *monstratrum*, *maledicendunt*, *crubesce*, *reverante* entendido como *revera te*, *sabito* e *formosum* referido a *animam*.
+- s23, parágrafo-fonte 17: *cum pacis* foi entendido como *cum paucis*, “com os poucos”, de acordo com a construção e o contexto de recolhimento do rei.
+- s25, parágrafo-fonte 2: desconsiderado o fragmento isolado *per* depois de *commotas*, sem função sintática inteligível. No parágrafo-fonte 8, a repetição *exteriori… et exteriore* foi conservada como reforço: “exterior, visível por fora”.
+- Traduzidos os 31 parágrafos-fonte de s26–s27, incluindo os dois títulos, preservando suas divisões; acrescentadas duas notas do tradutor.
+- s26: empregado “tu” no tratamento de Geraldo e da morte personificada; conservado “vós” nas orações dirigidas a Deus, inclusive nas falas de Geraldo e na citação de Lucas 23:46.
+- s26, parágrafo-fonte 10: conservado como **9.** o número isolado presente na fonte; a nota [^17] explica a aproximação sonora entre *coelo* e *coeno*, “céu” e “lodo”.
+- s26, parágrafo-fonte 12: a nota [^18] esclarece a figura do anzol, identificado com Cristo na própria passagem.
+- Mantidas as variantes editoriais latinas, em itálico, com *alias* traduzido por “ou”: *fortis*, *animabant*, *concors spiritu*, *sicut recolitis* e *spatia*.
+- Preservadas as referências da fonte, inclusive Mateus 5:5, 1 Coríntios 13:3, Oseias 2:19 e as remissões internas de s27 aos números 9 e 3. As referências a I e II Reis foram vertidas como 1 e 2 Samuel, conforme a numeração dos livros citados.
+- s27, parágrafo-fonte 9: conservada, sem atribuição bíblica acrescentada, a máxima “A alma do justo é o trono da sabedoria”, que a fonte apresenta como Escritura.
+- Regularizados lapsos mecânicos evidentes, entre eles *prorsas*, *in cum*, *satisfacieba*, *Tecam*, *pello*, *Viderie*, *tubernaculum* e *mihi cum commiserant*. Em s26, parágrafo-fonte 12, a duplicação *Dei filios Dei* foi vertida uma só vez: “filhos de Deus”.
+- s26, parágrafo-fonte 4: *addictione naturae* foi entendido como “sujeição da natureza”, sem conjecturar outro substantivo; s27, parágrafo-fonte 5: *prima stola* foi conservado como “primeira veste”, sem explicação sacramental ou escatológica acrescentada.
+- Traduzidos os 37 parágrafos-fonte de s28–s30, incluindo os três títulos, preservando as divisões; acrescentadas as notas [^19]–[^21].
+- s28, parágrafo-fonte 9: a nota [^19] explica a aproximação entre *sapor*, *sapientia* e *sapere*; parágrafo-fonte 12: a nota [^20] esclarece a interpretação de Salomão como “pacífico”.
+- s30, parágrafo-fonte 12: a nota [^21] esclarece os sentidos médicos de “melancolia”, “cólera” e *complexio*.
+- Conservadas em latim e em itálico as variantes editoriais *gratiae* e *resurrecturum*, com *alias* traduzido por “ou”.
+- Mantidas as referências da fonte, inclusive João 10:17, Provérbios 23:1, 2, Salmo 76:7 e Jó 23:13; I Reis 3:9 foi vertido como 1 Samuel 3:9.
+- s30: mantido “alma” nas citações e na argumentação sobre perder ou guardar a própria alma, pois a exposição distingue a mente, identificada com o “eu”, da dimensão da alma que anima o corpo.
+- Regularizados lapsos mecânicos evidentes, entre eles *pronun tiabat*, *venenam*, *esti*, *Dissuesce*, *languco*, *putavetim*, *feuritis*, *roro*, *frusta* e *esso*. Em s28, “visus augustus” foi entendido como *visus angustus*, “vista limitada”; “ascenditur”, no contexto do zelo, como *accenditur*, “se inflama”; em s30, “spem circumdare” foi entendido como *sepem circumdare*, “cercá-la”.
+- s30, parágrafo-fonte 13: *superstitio* foi traduzido por “escrúpulo”, no contexto da preocupação excessiva e singular com a alimentação.
+- Traduzidos os 39 parágrafos-fonte de s31–s33, incluindo os três títulos, preservando suas divisões; acrescentadas as notas [^22]–[^24].
+- s31, parágrafo-fonte 6: a nota [^22] explica a função nupcial do paraninfo, aplicada ao anjo.
+- s32, parágrafo-fonte 7: a nota [^23] registra a aproximação sonora entre *morbus mentis* e *morsus serpentis*, que não se reproduz em português.
+- s33, parágrafo-fonte 14: a nota [^24] explica a quarta vigília como última divisão da noite, necessária à associação com a última tentação.
+- Mantidas em latim e em itálico as variantes editoriais *subaudi*, *ascendentes* e *spes*, com a sigla *Tiraq.* preservada e os comentários editoriais traduzidos.
+- Conservadas as referências da fonte, inclusive Isaías 61:2, Lucas 4:17, 21, Mateus 5:9 e a ordem Salmo 118:97, 28. IV Reis 4:40, 41 e I Reis 15:22, 23 foram vertidos como 2 Reis 4:40, 41 e 1 Samuel 15:22, 23.
+- s31, parágrafo-fonte 2: *increabile* foi vertido como “incriável”, preservando a afirmação de que o verdadeiro ser não pode ser criado; o argumento temporal conserva “Foi”, “É” e “Será”.
+- s31, parágrafo-fonte 6: conservado “vosso espírito” em Isaías 26:9, segundo *spiritus tuus*, sem substituir pela redação bíblica mais familiar.
+- s32, parágrafo-fonte 2: regularizada a sequência negativa defeituosa *non omnino non in his sine intellectu remansuros* conforme o sentido do contexto: “não permaneceremos inteiramente sem entendimento dessas coisas”.
+- s33, parágrafo-fonte 6: *Adhuc modicum lumen in vobis est* foi traduzido por “Ainda há pouca luz em vós”, preservando a leitura quantitativa da luz desenvolvida pelo autor.
+- s33, parágrafo-fonte 13: mantido o sentido de *vindicans* como “reivindicando”, sem substituí-lo conjecturalmente por *vendens*.
+- Regularizados lapsos mecânicos evidentes, entre eles *cam*, *regnae*, *inhabilem*, *praeteriise*, *tanquan* e *solea*. Em s33, parágrafo-fonte 7, *per omnes ... curriculum* foi entendido como “por todo o curso”, e regularizado o fechamento dos parênteses.
+- Traduzidos os 40 parágrafos-fonte de s34–s38, incluindo os cinco títulos, preservando suas divisões; acrescentadas as notas [^25]–[^27].
+- s35, parágrafo-fonte 4: a nota [^25] explica o jogo entre *egregia* e *de grege*, traduzidos por “eminente” e “do rebanho”.
+- s36, parágrafo-fonte 5: conservado em latim e em itálico o verso de Pérsio; a nota [^26] fornece sua tradução. A referência bibliográfica permanece no início do parágrafo-fonte seguinte.
+- s36, parágrafo-fonte 7: a nota [^27] esclarece o sentido médico antigo de “humores” e a aproximação sonora entre *humores* e *mores*.
+- s37, parágrafo-fonte 2: entendido conjecturalmente *mitigas* como lapso por *diligas*, traduzindo “para também o amares”; a sequência explica esse segundo conhecimento pela caridade e o contrapõe ao temor.
+- s38, parágrafo-fonte 2: preservada a variante editorial *Omnipotens qui* em latim e em itálico, com *alias* traduzido por “outra leitura”.
+- Conservadas as referências da fonte, inclusive Eclesiastes 1:16 e Eclesiástico 1:18 em s36, sem substituí-las pelos loci aparentemente pretendidos. II Reg. 16:10 foi vertido como 2 Samuel 16:10.
+- s35, parágrafo-fonte 8: preservada a interpretação explícita de Marcos 14:21 segundo a qual seria melhor não ter nascido homem, sem harmonizá-la com outra leitura do versículo.
+- Regularizados lapsos mecânicos evidentes, entre eles *tristiam*, *aedificenfur*, *animum meam*, *in gobis*, *crodideritis* e *mini*.
+- Traduzidos os 42 parágrafos-fonte de s39–s43, incluindo os cinco títulos, preservando suas divisões; acrescentadas as notas [^28] e [^29].
+- s39, parágrafo-fonte 6: a nota [^28] registra os jogos sonoros *fluctibus/fletibus* e *marini/amari*, que a tradução não reproduz.
+- s41, parágrafo-fonte 3: a nota [^29] esclarece a forma dos adornos designados por *muraenulae* e sua interpretação como ornamentos das orelhas.
+- s41, parágrafo-fonte 2: entendido conjecturalmente *Non jam* como lapso por *Nunc jam*, traduzindo “Agora devemos invocar”; a continuação pede ao Espírito Santo que revele o sentido espiritual do pescoço.
+- Preservadas em latim e em itálico as variantes editoriais *exercendo*, *interim*, *conniventia voluntatis* e *arctandam*, com *alias* traduzido por “outra leitura”.
+- Conservadas as referências da fonte, inclusive Lucas 22:52 em s39, 1 Coríntios 5:12 e Gênesis 29:23, 23 em s41. Regularizado o numeral manifestamente corrompido *XILV* para 44 em s40; IV Reg. 6:16, 17 foi vertido como 2 Reis 6:16, 17.
+- Em s39, mantidas as maiúsculas das personificações dos vícios e dos componentes dos carros; *quadriga*, no contexto do carro apoiado em quatro vícios e puxado por dois cavalos, foi traduzido conforme a imagem das quatro rodas.
+- Regularizados lapsos mecânicos evidentes, entre eles *nodum*, *non ore insipiens*, *cadem*, *fideii*, *isto*, *liabent*, *tanc*, *increpatiotionem*, *landabile*, *Videsue*, *Qua meliora*, *In non*, *congruentis sine*, *humiliatis*, *priucipatibus* e *taetus*; no título de s40, *quoe* e *audicitia* foram entendidos como *quae* e *pudicitia*.
+- Traduzidos os 48 parágrafos-fonte de s44–s48, incluindo os cinco títulos, preservando suas divisões; acrescentadas as notas [^30], [^31] e [^32].
+- s46, parágrafo-fonte 7: a nota [^30] registra o jogo sonoro *ad pausandum/ad causandum*, “para repousar/para apresentar queixa”.
+- s47, parágrafo-fonte 6: a nota [^31] explica a aproximação sonora entre *virgo* e *virga*, que une a imagem vegetal à virgindade de Cristo e de Maria.
+- s48, parágrafo-fonte 2: a nota [^32] esclarece a passagem de *pungeris* a *compungeris*, conservada em português por “pungido/compungido”.
+- s45, parágrafo-fonte 6: entendido conjecturalmente *copiam habeto vivendi* como *copiam habeto videndi*, “tem a possibilidade de ver”, conforme a sequência sobre a capacidade de visão espiritual.
+- s45, parágrafos-fonte 10–11: *substantia*, na distinção entre divindade e humanidade de Cristo, foi traduzido por “natureza”.
+- s46, parágrafo-fonte 3: conservada a expressão “príncipes cristãos de ambas as ordens”, sem restringir a autoridade aí descrita a uma única ordem.
+- Preservadas em latim e em itálico as leituras dos aparatos: *vinum*, *ritum exhorreat*, *animam*, *lectulo uno*, *qui* e *venustatus*; traduzidas as indicações editoriais.
+- Conservadas as referências da fonte, inclusive Salmo 33:18 em s44, Salmo 44:5 em s45, 1 Pedro 2:17 em s46 e João 6:33 em s48; mantidas também as remissões internas de s45 e s47.
+- Regularizados lapsos mecânicos evidentes, entre eles *vercaiter*, *verti*, *formant*, *Hebens*, *iilam*, *commo rabitur*, *climinare*, *fiere*, *fientibus*, *immisere*, *apellari*, *vicimus*, *delectus*, *subjecto* e *rapui*. Fechados os parênteses da referência final de s46 e regularizada sua marcação em itálico.
+- Traduzidos os 47 parágrafos-fonte de s49–s53, incluindo os cinco títulos, preservando suas divisões; acrescentadas as notas [^33], [^34] e [^35].
+- s50, parágrafo-fonte 7: a nota [^33] explica o jogo entre *sapientia* e *sapere*, que orienta também os parágrafos seguintes.
+- s51, parágrafo-fonte 4: a nota [^34] esclarece a alusão a Raquel e Lia como figuras da contemplação e da ação.
+- s51, parágrafo-fonte 11: traduzido *cleros* por “quinhões”; a nota [^35] esclarece o termo e sua função na imagem da esperança situada entre temor e segurança.
+- Preservadas em latim e em itálico as variantes editoriais *quam*, *interturbatae quietis*, *transferre* e *utrumque exuere te ipsum*; traduzidas as indicações editoriais.
+- s49, parágrafo-fonte 8: regularizados conjecturalmente *ne tenebrae non comprehendant* para *ne tenebrae nos comprehendant* e *Ego non ambulantem* para *Ergo non ambulantem*, conforme a sintaxe e o argumento.
+- s50, parágrafo-fonte 8: entendido *non potest quidem diligere* como *non potes quidem diligere*, mantendo o interlocutor singular da passagem.
+- s51, parágrafo-fonte 5: entendido o interrogativo defeituoso *Cum enim hoc displiceat* como “Por que haveria de desagradar”, conforme a pergunta e o exemplo subsequente.
+- Regularizados lapsos mecânicos evidentes, entre eles *tamon*, *linquam*, *potum datu*, *commendando si loquitur*, *praedictus ratione* e *brevitate cureat*; normalizada a pontuação interrompida por pontos indevidos.
+- Conservadas as referências da fonte, inclusive a sequência Atos 2:13-17, 2 em s49, João 14:15 em s50, Salmo 67:14 em s51 e Lucas 2:51, 42 em s53; mantidas as remissões internas e as ocorrências de “ibid.”.
+- Traduzidos os 38 parágrafos-fonte de s54–s57, incluindo os quatro títulos, preservando suas divisões; acrescentadas as notas [^36], [^37] e [^38].
+- s54, parágrafo-fonte 12: a nota [^36] esclarece “metreta” e sua relação com a interpretação das talhas de Caná.
+- s55, parágrafo-fonte 2: a nota [^37] esclarece o jogo entre a fala sobre o esposo e o esposo como Palavra, ambos designados por *sermo*.
+- s56, parágrafo-fonte 8: a nota [^38] torna explícita a aproximação entre *cancelli* e *cancellarii*, apresentada como interpretação de Bernardo.
+- Preservadas em latim e em itálico as variantes editoriais *die*, *hunc* e *placidus*; traduzida a indicação editorial.
+- s55, parágrafo-fonte 2: regularizado conjecturalmente *vel anima proportiuncula* como *vel minima proportiuncula*, conforme a sintaxe e o sentido da comparação.
+- s55, parágrafo-fonte 5: regularizados *cognitus eum* como *cognitus sum* e *Nihil non loquitur* como *Mihi non loquitur*; esta última leitura corresponde à oposição explícita entre a esposa, que ouve o amado, e o pregador, que teme por não ter seu testemunho.
+- s56, parágrafo-fonte 3: mantida a relação entre “ruptura”, “despedaçado” e “permanecer de pé”, necessária à interpretação cristológica de *stetit in confractione*.
+- s56, parágrafo-fonte 7: entendido *ad affectum* como *ad effectum*, conforme a explicação imediata do terceiro muro como o ato do pecado.
+- s57, parágrafo-fonte 2: entendido *anticipative* como *anticipatve*, em paralelo com *effugit*: nenhum momento escapa à diligência da esposa ou se antecipa a seu conhecimento.
+- Regularizados lapsos mecânicos evidentes, entre eles *melioriribus*, *voto* por *volo*, *ilii*, *ct*, *senerata*, *illumiuantis*, *simliter* e *laudem praeconia*; ajustada a pontuação onde interrompia a sintaxe.
+- Conservadas as referências da fonte, inclusive Provérbios 14:7 em s54, Cântico dos Cânticos 9 sem capítulo em s56, Lucas 2:48 e Salmo 95:3 em s57; “II Reg.” foi vertido pelo nome português correspondente, “2 Samuel”.
+- s57, parágrafo-fonte 12: conservado o número autoral residual “11,” como texto inerte em negrito, “**11.**”.
+- Traduzidos os 44 parágrafos-fonte de s58–s61, incluindo os quatro títulos, preservando suas divisões; acrescentadas as notas [^39] e [^40].
+- s60, parágrafo-fonte 3: a nota [^39] explica o jogo entre *grossi*, os figos temporãos, e *grossus*, “grosseiro”, desenvolvido nos parágrafos seguintes; adotado “figos temporãos” desde s59.
+- s61, parágrafo-fonte 5: a nota [^40] explica a aproximação entre *clavis*, “chave”, e *clavus*, “cravo”.
+- s59, parágrafo-fonte 8: “verdores venenosos dos prazeres” procura conservar a aproximação sonora e imagética de *voluptatum virentia virulenta*.
+- s58, parágrafo-fonte 11: preservada a variante editorial latina *namque*, com tradução da indicação editorial; “corte ao redor” verte *circumcisio* no desenvolvimento da imagem da poda e dos vícios que cercam a virtude.
+- s59, parágrafo-fonte 6: a construção irregular *secretum adhuc paucorum jam tunc multitudinem non exivit* foi entendida como a não divulgação à multidão daquilo que permanecia segredo de poucos, conforme a oposição entre gemido privado e proclamação pública.
+- s60, parágrafo-fonte 8: preservada a variante editorial *Soreth*; o nome no texto foi vertido como Sorec. A indicação editorial sobre Nicodemos em s59 também foi mantida e traduzida.
+- s61, parágrafos-fonte 7–8: mantida a imagem das “costas” e da “parte posterior” do Senhor, necessária à continuidade entre a passagem de Moisés, a humildade da paixão e a citação do salmo.
+- Regularizados lapsos mecânicos evidentes, entre eles *intruendas*, *ferebat* por *fervebat*, *interogatus*, *istaccrescere*, *Videta*, *armentrorum*, *Judaec*, *licus* por *ficus* e *vineoe*; restaurados os parênteses claramente interrompidos em s60.
+- Conservadas as referências da fonte, inclusive Mateus 4:37-38 em s58, Mateus 21:32 e “Coríntios 13:8” sem numeral em s60, e Salmo 115:5 em s60. “II Esdr.” em s61 foi vertido pelo nome português correspondente, “Neemias”.
+- Traduzidos os 38 parágrafos-fonte de s62–s65, incluindo quatro títulos e a nota editorial de s64; preservado como **2.** o numeral presente no parágrafo-fonte 3 de s62. Acrescentadas as notas [^41] e [^42].
+- s62, parágrafo-fonte 3: a nota [^41] explica a aproximação entre *montibus* e *mentibus*, “montes” e “mentes”; preservada a leitura fornecida *in auribus tuis* como “em teus ouvidos”, apesar da divergência em relação às outras ocorrências da fórmula.
+- s63, parágrafo-fonte 4: a nota [^42] explica a cadeia sonora *vinea*, *vita*, *vitis*, *virtus*, que reforça a alegoria da vinha.
+- Mantidas em latim as leituras variantes do aparato, com *alias* traduzido como “outra leitura”, inclusive a indicação deslocada *fodiamus* em s62, parágrafo-fonte 4.
+- Conservadas as referências numéricas da fonte, inclusive Provérbios 2:26, 2 Timóteo 2:3, 2 Coríntios 2:14 e Marcos 9:41 em s64, bem como a remissão ao sermão 63, n. 6. “II Esdr.” foi novamente vertido como “Neemias”.
+- s65, parágrafo-fonte 4: mantida a atribuição fornecida em Provérbios 25:2 — aos reis, ocultar a palavra; a Deus, revelá-la —, pois o argumento de Bernardo depende dessa formulação.
+- s63, parágrafo-fonte 7: *languor fingitur virium* foi vertido como “imagina-se uma fraqueza das forças”, preservando o caráter suposto da incapacidade.
+- s64, parágrafo-fonte 11: preservada a oposição entre “dignidade” e “condescendência” em *dignitatis nescius, dignatione dives*; mantido “fulgor da vida eterna” para *candor vitae aeternae*, sem aproximá-lo de outra formulação bíblica.
+- s65, parágrafo-fonte 6: *intonsi et barbati* foi traduzido como “sem tonsura e de barba”, em referência à aparência dos clérigos descritos.
+- Regularizados lapsos mecânicos evidentes, entre eles *cruere*, *clatus*, *potueri*, *Arborarida*, *Iraque*, *dissimula trices*, *Mi hi*, *quises*, *editoe*, *fustretur*, *qnempiam*, *trangressor* e *se eruere* por *sed eruere*; ajustada a pontuação claramente interrompida sem alterar as divisões dos parágrafos.
+- Traduzidos os 36 parágrafos-fonte de s66–s68, incluindo os três títulos, com preservação das divisões e do aparato editorial. Acrescentadas as notas [^43], [^44] e [^45].
+- s66, parágrafo-fonte 13: a nota [^43] esclarece o “juízo da água” e o sentido da água que não recebe o acusado.
+- s67, parágrafo-fonte 4: a nota [^44] esclarece a metáfora continuada da eructação, mantida no texto para preservar o argumento e sua ligação com o salmo.
+- s67, parágrafo-fonte 7: a nota [^45] registra a aproximação verbal entre *spectare* e *exspectare*, que o português não reproduz.
+- Conservadas as referências numéricas fornecidas, inclusive 1 Timóteo 4:13 e Salmos 113:70 em s66, Lucas 2:25 e Lucas 12:36, 30 em s67.
+- s66, parágrafo-fonte 12: *apostolici* foi traduzido como “papas” na enumeração da hierarquia; conservado “bispo” para *episcopus* aplicado a Caifás, pois Bernardo o emprega expressamente na comparação.
+- Mantidas em latim as variantes *ab origine*, *a peccato*, *subordinatum* e *bubus*, traduzindo somente as indicações editoriais.
+- s68, parágrafo-fonte 4: *gratiam ex gratia / gratiam pro gratia* foi vertido como “graça sobre graça / gratidão pela graça”, preservando a mudança de sentido de *gratia* na reciprocidade entre Deus e a esposa.
+- Regularizados lapsos mecânicos evidentes, como *cam* por *eam*, *Genosi*, *neceruditur*, *terbum* e *bora*, sem alterar a divisão dos parágrafos.
+- Traduzidos os 34 parágrafos-fonte de s69–s71, incluindo os três títulos, preservando as divisões, as referências e o aparato editorial.
+- Acrescentada a nota [^46] em s69, parágrafo-fonte 3, para a aproximação sonora entre *unctione* e *ultione*.
+- Acrescentada a nota [^47] em s71, parágrafo-fonte 8, para a diferença gramatical entre *unus* e *unum*, necessária ao argumento.
+- Conservada a divergência entre o título de s71, que associa perfume à consciência e cor à reputação, e o corpo do sermão, que estabelece a associação inversa.
+- Mantidos os colchetes dos longos trechos de s71 e suas repetições argumentativas, inclusive o colchete aberto no parágrafo-fonte 9 sem fechamento no trecho fornecido.
+- Preservadas em latim as variantes do aparato editorial, traduzindo apenas suas indicações; traduzidos os testemunhos literário e litúrgico no corpo do sermão.
+- Conservadas as referências numéricas fornecidas, inclusive Oseias 14:6 em s70 e Isaías 55:12 em s71. A referência latina 1 Reis 9:9, segundo a antiga nomenclatura da Vulgata, foi identificada como 1 Samuel 9:9.
+- Regularizados lapsos mecânicos evidentes, como *trabentium*, *cum pasci*, *sublimet et*, *in intuearis* e *etis*, sem alterar a divisão dos parágrafos.
+- Em s70, *aedificare* aplicado aos lírios foi vertido como “cultivar”, conforme a imagem agrícola; em s71, manteve-se a sequência corporal de mastigar, engolir, cozer e digerir que exprime a transformação da alma.
+- Traduzidos os 35 parágrafos-fonte de s72–s74, incluindo os três títulos, sem alterar suas divisões; as duas notas do tradutor foram colocadas após os parágrafos correspondentes.
+- Acrescentada a nota [^48] em s72, parágrafo-fonte 5, para explicar a família de *spirare* e o jogo com os prefixos desenvolvido ao longo do sermão.
+- Acrescentada a nota [^49] em s74, parágrafo-fonte 4, para esclarecer o jogo entre *Verbum*, *verbum*, *revocare* e “irrevogável”.
+- Nas falas dirigidas ao esposo divino, empregado “vós”; nas interpelações à esposa ou ao leitor singular, conservado “tu”.
+- Preservadas as variantes latinas do aparato editorial, com tradução apenas das indicações editoriais, inclusive *Dei*, *non modicum votis* e *ergo*.
+- Conservadas as referências fornecidas, inclusive Romanos 13:12 na posição em que aparece em s72, João 6:64, Mateus 17:19 e Oseias 6:3; mantida também a atribuição de João 1:17 a João Batista em s74.
+- Em s72, parágrafo-fonte 7, mantida a leitura *voluntatis*, traduzida por “vontade”, sem substituí-la por *voluptatis*.
+- Regularizados lapsos mecânicos evidentes, entre eles *designat* por *desinat* e *posci* por *pasci* em s72; *binnulus* em s73; *Pic*, *mentes*, *vacnum*, *in fallor* e *eoram* em s74.
+- Traduzidos os 42 parágrafos-fonte de s75–s78, incluindo os quatro títulos, sem alterar suas divisões; as três notas do tradutor seguem os parágrafos correspondentes.
+- Acrescentada a nota [^50] em s75, parágrafo-fonte 7, sobre a relação entre os diminutivos *lectulus* e *parvulus*; a nota [^51] em s77, parágrafo-fonte 6, sobre *securus* e *securis*; e a nota [^52] em s78, parágrafo-fonte 7, sobre o sentido teológico de “prevenir” e sua aproximação a *invenire*.
+- Preservadas as variantes latinas do aparato editorial: *insinuet*, *sane*, *pileum* e *vigilibus*; traduzidas apenas as indicações editoriais.
+- Conservadas as referências do texto-fonte, inclusive Isaías 45:24, Salmos 136:1, Marcos 16:38, Marcos 9:49 e João 13:18, sem harmonizá-las com outras numerações ou redações.
+- Em s75, parágrafo-fonte 10, o desaparecimento expresso por *de medio fieret* foi referido à noite, conforme o encadeamento do argumento.
+- Em s76, parágrafo-fonte 4, regularizada a pontuação da sequência sobre os céus, mantendo sob a negação os verbos relativos ao tédio, ao definhamento e à frustração da expectativa.
+- Regularizados lapsos mecânicos evidentes, entre eles *Ex dixi* em s75; *ad fuit*, *Tenere* e *Evocantur* em s76; *spousi*, *numera*, *varictatibus*, *bispida* e *asseria* em s77; *bominis* e *prodierat* por *prodiderat* em s78.
+- Em s76, as *olera dispensationum* foram vertidas como “hortaliças das dispensas”, preservando a imagem alimentar e a referência às concessões disciplinares feitas por misericórdia.
+- Traduzidos os 38 parágrafos-fonte de s79–s82, incluindo os quatro títulos, preservando suas divisões; as três notas do tradutor seguem os parágrafos correspondentes.
+- Acrescentada a nota [^53] em s79, parágrafo-fonte 3, sobre *transire* e *pertransire*; a nota [^54] em s80, parágrafo-fonte 6, sobre *risibilitas*; e a nota [^55] em s82, parágrafo-fonte 6, sobre *diplois*.
+- Preservadas as variantes latinas do aparato editorial: *fide*, *in coelestibus*, *hominis*, *accipit* e *probanda*; traduzidas apenas as indicações editoriais.
+- Em s80, explicitada a diferença entre receber algo de Deus como autor e recebê-lo da própria substância divina, correspondente à oposição latina entre *a Deo* e *de Deo*.
+- Em s81, *meritum* foi vertido segundo o contexto como “mérito”, “demérito” ou “mérito ou demérito”, preservando o argumento sobre a imputabilidade dos atos livres.
+- Em s82, *Existimasti inique* foi vertido como “Pensaste, ó iníquo”, conservando a leitura vocativa exigida pela explicação do próprio Bernardo.
+- Conservadas as referências do texto-fonte, inclusive Eclesiastes 7:30, Salmos 72:24, Gálatas 4:31 e Cântico dos Cânticos 6:12, sem harmonizá-las com outras numerações.
+- Regularizados lapsos mecânicos evidentes, entre eles *vorborum*, *domni*, *deincps*, *nilla* e a construção corrompida *mortalitas sese degeneri conversatione conformans*, entendida como a alma conformando-se à mortalidade por uma conduta degenerada.
 - Traduzidos os 35 parágrafos-fonte de s83–s86, incluindo os quatro títulos, preservando suas divisões e o número autoral **6.** em s84.
 - Acrescentadas as notas [^56], em s85, parágrafo-fonte 6, sobre *nititur* e *innititur*, e [^57], em s85, parágrafo-fonte 9, sobre *sapientia* e *sapor*.
 - Preservadas as variantes latinas do aparato editorial: *biduum*, *conniventiam*, *quaerendi*, *conscendere*, *Deo*, *datis* e *minister*; traduzida apenas a indicação editorial *alias*.

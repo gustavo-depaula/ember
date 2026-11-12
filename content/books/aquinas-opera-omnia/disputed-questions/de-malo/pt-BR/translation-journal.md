@@ -1,6 +1,320 @@
+# Diário de tradução — Questões Disputadas sobre o Mal (pt-BR)
+
+Fonte: la/, texto latino das edições Leonina / Marietti, reproduzido em aquinas.cc, conforme book.json.
+Destino: pt-BR.
 
 ## Termos
 
+| Latim | Português | Notas |
+|---|---|---|
+| Quaestiones Disputatae de Malo | Questões Disputadas sobre o Mal | |
+| Sanctus Thomas Aquinas | Santo Tomás de Aquino | Convenção das obras próximas. |
+| Articulus / Quaestio | Artigo / Questão | Preservados os níveis e destaques dos cabeçalhos da fonte. |
+| Et primo quaeritur an / Secundo, Tertio quaeritur utrum | E, primeiro, pergunta-se se / Em segundo, terceiro lugar, pergunta-se se | |
+| Et videtur quod sic / non | E parece que sim / não | |
+| Praeterea / Sed dicebat quod | Além disso / Mas dizia-se que | |
+| Sed contra / Sed contra est | Mas em contrário / Mas em contrário está | |
+| Responsio. Dicendum quod | Resposta. Deve-se dizer que | |
+| Ad primum ergo dicendum quod | Quanto ao primeiro, portanto, deve-se dizer que | Demais ordinais por extenso. |
+| bonum / malum | bem / mal; bom / mau | Substantivo ou adjetivo conforme a construção. |
+| bonitas / malitia | bondade / malícia | “Malícia” no sentido técnico de qualidade moral má, sem restringir a intenção ardilosa. |
+| privatio / habitus | privação / hábito | Na oposição privativa, “hábito” significa posse de uma forma; também designa disposição estável nos contextos morais. |
+| defectus / deficiens / defectibilitas | deficiência / deficiente / defectibilidade | “Falta” e “falhar” onde a sintaxe pede; defectibilidade é a possibilidade de falhar. |
+| perfectio / debita perfectio | perfeição / perfeição devida | |
+| simpliciter / secundum quid | absolutamente / sob certo aspecto | Convenção das obras próximas. |
+| secundum se / in quantum huiusmodi | em si mesmo / enquanto tal | |
+| per se / per accidens | por si / por acidente | Aplicado a causas, efeitos e predicações. |
+| esse / non esse | ser / não ser | Conservado o substantivo técnico “ser”. |
+| ens / non ens / ens rationis | ente / não ente / ente de razão | |
+| an est / quid est | “se é” / “o que é” | Perguntas distintas sobre o ser e a essência. |
+| actus / potentia / actus purus | ato / potência / ato puro | |
+| materia prima / forma / substantia | matéria-prima / forma / substância | |
+| subiectum / accidens | sujeito / acidente | Sujeito como suporte de formas ou privações. |
+| genus / species / differentia | gênero / espécie / diferença | |
+| ratio | razão | “Argumento” quando designa uma argumentação. |
+| appetitus / appetere / appetibile | apetite / apetecer / apetecível | |
+| finis / ordo / ordinari in finem | fim / ordem / ordenar-se ao fim | |
+| agens / movens / motus | agente / motor / movimento | |
+| generatio / corruptio | geração / corrupção | Termos da filosofia natural. |
+| corrumpere / corruptivum | corromper / corruptivo | |
+| virtus / virtus activa | virtude / virtude ativa | Também para eficácia causal natural. |
+| ultimum potentiae | extremo da potência | Convenção de Sobre as Virtudes. |
+| virtus / vitium | virtude / vício | No contexto moral. |
+| voluntas / electio / voluntarium | vontade / escolha / voluntário | |
+| culpa / poena / peccatum | culpa / pena / pecado | |
+| malum poenae | mal da pena | |
+| intellectus / intelligere / intellectum | intelecto / inteligir / inteligido | “Entender” quando se trata do sentido de uma expressão. |
+| lumen / tenebra | lume / treva | Convenção de Sobre a Alma e Sobre as Criaturas Espirituais. |
+| delectatio / delectabile / frui | prazer / agradável / fruir | |
+| caritas / lex divina | caridade / lei divina | |
+| regula / mensura | regra / medida | “Régua” no instrumento empregado para cortar madeira. |
+| univocus / aequivocus | unívoco / equívoco | Também nas distinções entre agentes. |
+| ut in pluribus / ut in paucioribus | na maioria dos casos / na minoria dos casos | |
+| Philosophus / Aristotiles | o Filósofo / Aristóteles | |
+| Augustinus / Dionisius / Damascenus | Agostinho / Dionísio / Damasceno | Formas de citação, conforme as obras próximas. |
+| Simplicius / Porphirius / Iamblicus / Pithagoras | Simplício / Porfírio / Jâmblico / Pitágoras | |
+| Platonici / Glossa | os platônicos / a Glosa | |
+| Praedicamenta / Commentum Praedicamentorum | Categorias / Comentário às Categorias | |
+| Physica / Metaphysica / Ethica | Física / Metafísica / Ética | |
+| De anima / De caelo / De generatione | Sobre a alma / Sobre o céu / Sobre a geração | |
+| De divinis nominibus | Dos nomes divinos | Convenção das obras próximas. |
+| De civitate Dei / Encheridion / De natura boni | A Cidade de Deus / Enquirídio / Sobre a natureza do bem | |
+| Ys., Is. / Eccli. / Eccl. / Io. / Mat. / Amos | Isaías / Eclesiástico / Eclesiastes / João / Mateus / Amós | |
+| peccatum originale / peccatum veniale | pecado original / pecado venial | Títulos do sumário. |
+| vitia capitalia / superbia / inanis gloria | vícios capitais / soberba / vanglória | Títulos do sumário. |
+| invidia / acedia / ira / avaritia / gula / luxuria | inveja / acídia / ira / avareza / gula / luxúria | Títulos do sumário. |
+| daemones | demônios | |
+| malum culpae | mal da culpa | |
+| perfectio prima / perfectio secunda | perfeição primeira / perfeição segunda | |
+| actus primus / actus secundus | ato primeiro / ato segundo | |
+| voluntas actualis / habitualis | vontade atual / habitual | |
+| inclinatio naturalis voluntatis | inclinação natural da vontade | |
+| passio / pati | paixão / padecer; padecimento | “Paixão” para os movimentos afetivos; “padecimento” na oposição causal entre agir e padecer. |
+| honestum / utile / delectabile | honesto / útil / agradável | Divisão do bem; nota [^4] esclarece “honesto”. |
+| gratia / gloria / meritum / praemium | graça / glória / mérito / prêmio | |
+| amor concupiscentiae / amor amicitiae | amor de concupiscência / amor de amizade | |
+| fomes | *fomes* | Latinismo técnico, conforme o Compêndio de teologia; nota [^5]. |
+| reatus / macula | reato / mancha | “Reato” designa a condição de estar sujeito à pena pela culpa; segue a convenção dos sermões catequéticos. |
+| Gregorius / Boetius / Horatius | Gregório / Boécio / Horácio | Gregório e Boécio conforme as Questões Disputadas próximas. |
+| Loth, Lot / Cain / Sodomitae | Ló / Caim / sodomitas | |
+| Super Ezechielem / Confessiones | Sobre Ezequiel / Confissões | |
+| De Fide ad Petrum / De Libero Arbitrio | Da fé a Pedro / O livre-arbítrio | |
+| Topica / De Consolatione | Tópicos / A consolação da filosofia | |
+| Sap. / Gen. / Iob | Sabedoria / Gênesis / Jó | |
+| peccatum omissionis / peccatum transgressionis | pecado de omissão / pecado de transgressão | |
+| meritum / demeritum | mérito / demérito | |
+| habitus | hábito | Disposição estável de uma faculdade; nota [^8]. |
+| per se / per accidens / accidentaliter | por si / por acidente / acidentalmente | Conforme as Questões Disputadas sobre a alma e o Compêndio de teologia. |
+| deformitas / actus deformis | deformidade / ato deforme | |
+| imperium voluntatis / actus quem voluntas elicit | comando da vontade / ato que a vontade elicita | |
+| vis concupiscibilis / irascibilis | faculdade concupiscível / irascível | |
+| libido | concupiscência | Conforme o Compêndio de teologia. |
+| primordialiter / completive | quanto à origem / quanto à consumação | Na distinção dos sentidos de “principalmente”; também “originariamente”, conforme a sintaxe. |
+| modus, species et ordo | modo, espécie e ordem | |
+| actus indifferens / bonus ex genere | ato indiferente / bom por seu gênero | |
+| finis proximus / remotus | fim próximo / remoto | |
+| Damascenus / Anselmus / Chrisostomus | o Damasceno / Anselmo / Crisóstomo | Formas de citação; Damasceno e Anselmo conforme Sobre as criaturas espirituais. |
+| Encheridion / LXXXIII quaestiones | *Enchiridion* / Oitenta e três questões | Conforme as Questões Disputadas próximas. |
+| De Trinitate / De Vera Religione / De Divinis Nominibus | Sobre a Trindade / Sobre a verdadeira religião / Sobre os nomes divinos | Conforme Sobre as criaturas espirituais. |
+| Retractationes / De Duabus Animabus | Retratações / Sobre as duas almas | |
+| De Conceptu Virginali / De Casu Diaboli | Sobre a concepção virginal / Sobre a queda do diabo | |
+| De Sermone Domini in monte / De Natura Boni | Sobre o sermão do Senhor na montanha / Sobre a natureza do bem | |
+| Phisica / De Anima / Posteriora / Praedicamenta / Ethica | Física / Sobre a alma / Analíticos posteriores / Categorias / Ética | |
+| Iacob / Rom. / Exod. / Matth. | Tiago / Romanos / Êxodo / Mateus | |
+| uti / frui | usar / fruir | |
+| meritorius / demeritorius | meritório / demeritório | |
+| privatio et habitus | privação e posse | Nesta oposição lógica, *habitus* designa a presença da perfeição, não o hábito como disposição estável. |
+| opposita mediata / immediata | opostos que admitem intermediário / opostos sem intermediário | |
+| liberalitas / illiberalitas / prodigalitas | liberalidade / falta de liberalidade / prodigalidade | |
+| temperantia / fortitudo / magnificentia | temperança / fortaleza / magnificência | |
+| aversio / conversio | aversão / conversão | Afastamento do bem imutável e movimento em direção ao bem mutável; nota [^10]. |
+| ex certa malitia | por malícia deliberada | O próprio texto explica a expressão como pecar por escolha, voluntária e conscientemente. |
+| Gregorius / Hieronymus / Dionysius | Gregório / Jerônimo / Dionísio | Formas de citação. |
+| Moralia / De Generatione / Metaphysica / Liber de causis | Morais / Sobre a geração / Metafísica / Livro das causas | |
+| Iacob / Lia / Rachel | Jacó / Lia / Raquel | Nomes das personagens do episódio matrimonial; distinto de “Tiago” nas referências à epístola. |
+| Is. / Eccle. / Apoc. / Lucae / Ioan. / Levit. / Num. | Isaías / Eclesiastes / Apocalipse / Lucas / João / Levítico / Números | |
+| aptitudo / habilitas | aptidão / capacidade | Distinção vocabular conservada nas fórmulas que reúnem os dois termos. |
+| fomes | *fomes* | Mantido o termo latino, conforme o Compêndio de teologia do corpus; nota [^11]. |
+| Damascenus / Bernardus / Anselmus | Damasceno / Bernardo / Anselmo | Formas de citação. |
+| Enchiridion | Enquirídio | Forma adotada nas obras irmãs e no diário revisto da própria obra de Agostinho. |
+| per subtractionem / per appositionem contrarii | por subtração / por acréscimo do contrário | Dois modos de diminuição da capacidade, distinguidos no artigo 12. |
+| abusive | por extensão | No artigo 11, indica a atribuição não própria do agir ao ato ou àquilo pelo qual o agente age. |
+| aversio / conversio | aversão / conversão | No pecado, afastamento do fim devido e movimento para o objeto ao qual a vontade se volta. |
+| causa perficiens | causa que leva a efeito | Distingue-se da causa que dispõe, aconselha, persuade ou ordena. |
+| spiritus sensibiles / humores | espíritos sensitivos / humores | Vocabulário fisiológico; nota [^13]. |
+| nescientia / ignorantia / error | não saber / ignorância / erro | Distinção expressa no artigo 7: negação da ciência, privação ou disposição contrária à ciência, e juízo falso. |
+| ignorantia affectata | ignorância afetada | Ignorância deliberadamente querida. |
+| ignorantia perversae dispositionis | ignorância de disposição perversa | Hábito de falsos princípios e opiniões que impede o conhecimento da verdade. |
+| reatus | reato | Conservado como termo técnico para a condição de responsabilidade penal decorrente do pecado. |
+| Commentator / Themistius | Comentador / Temístio | O Comentador é Averróis; nota [^12]. |
+| III Regum | 1 Reis | Nome atual do livro, conforme a convenção das obras irmãs Suma de teologia e Compêndio de teologia. |
+| non voluntarium / involuntarium | não voluntário / involuntário | No artigo 8, ausência do ato da vontade e oposição da vontade ao que se faz, respectivamente. |
+| ignorantia negligentiae / ignorantia invincibilis | ignorância por negligência / ignorância invencível | Distinções relativas ao caráter voluntário da ignorância. |
+| peccare ex infirmitate / ex malitia / ex certa scientia | pecar por fraqueza / por malícia / com ciência certa | Fórmulas recorrentes dos artigos 9–14. |
+| temperatus / intemperatus / continens / incontinens | temperante / intemperante / continente / incontinente | Mantida a distinção entre a disposição habitual do apetite e a resistência ou submissão às paixões. |
+| synderesis | sindérese | Hábito dos primeiros princípios da razão prática; nota [^14]. |
+| libido | desejo desordenado | Sentido amplo, não restrito ao desejo sexual. |
+| malitia contracta / malitia acta | malícia contraída / malícia praticada | Distinção entre a consequência do pecado original e o pecado atual. |
+| Hugo de sancto Victore / Bonifacius comes | Hugo de São Vítor / conde Bonifácio | Formas portuguesas dos nomes. |
+| peccatum in Spiritum Sanctum | pecado contra o Espírito Santo | Mantida a fórmula nas diferentes acepções examinadas por Tomás. |
+| impoenitentia finalis | impenitência final | Perseverança no pecado até a morte, sem penitência. |
+| status viae | estado de via | Condição do homem durante a vida terrena; nota [^15]. |
+| suffragia | sufrágios | Auxílios espirituais oferecidos pelos falecidos. |
+| veniale ex genere / ex eventu / ex causa | venial pelo gênero / pelo resultado / pela causa | Distinção tríplice conservada na resposta à quinta objeção do artigo 15. |
+| peccatum industriae | pecado deliberado | Em 403, contraposto aos pecados de fraqueza e de ignorância. |
+| peccatum originale / peccatum actuale | pecado original / pecado atual | Convenção do Compêndio de teologia. |
+| iustitia originalis | justiça original | Convenção do Compêndio de teologia e das Questões disputadas sobre a alma. |
+| carentia originalis iustitiae | carência da justiça original | Conservada a distinção entre carência e privação quando o latim a apresenta. |
+| fomes peccati | *fomes* do pecado | Convenção do Compêndio de teologia; nota [^18]. |
+| gratia gratum faciens | graça que torna grato | Convenção do Compêndio de teologia. |
+| reatus | reato | Condição relativa à culpa ou à pena; nota [^17]. |
+| concupiscentia actualis / habitualis | concupiscência atual / habitual | Conservada a distinção desenvolvida no artigo 2. |
+| peccatum naturae / peccatum personale | pecado da natureza / pecado pessoal | Distinção central da questão. |
+| intentio | intenção | Nos exemplos físicos, presença ou eficácia transmitida, não propósito consciente; nota [^16]. |
+| ratio seminalis | razão seminal | Princípio ativo da geração, distinguido da mera transmissão material. |
+| Augustinus / Damascenus / Dionysius / Boetius | Santo Agostinho / São João Damasceno / São Dionísio / Boécio | Convenções do Compêndio de teologia. |
+| Hugo de sancto Victore | Hugo de São Vítor | Convenção de Sobre as virtudes. |
+| Anselmus / Ambrosius / Hieronymus / Marcella | Santo Anselmo / Santo Ambrósio / São Jerônimo / Marcela | Formas portuguesas dos nomes. |
+| per prius | primeiro; antes | Prioridade qualificada pelo contexto: natureza, geração ou tempo. |
+| libido | libido | Concupiscência atual desordenada, conforme a definição do artigo 6. |
+| vetustas Adae / novitas Christi | condição antiga de Adão / novidade de Cristo | Conservada a oposição entre a condição herdada de Adão e a renovação recebida de Cristo. |
+| poenalitas | condição penal | Condição de quem permanece sujeito às consequências do pecado. |
+| passibilis / passibilitas | passível / passibilidade | Suscetibilidade ao sofrimento. |
+| generans univocum | gerador unívoco | Aquele que gera um ser da mesma espécie; nota [^20]. |
+| fides formata | fé formada | Fé vivificada pela caridade; nota [^21]. |
+| proximi parentes | progenitores próximos | Em contraposição ao primeiro pai, Adão. |
+| Gregorius / Minervius | São Gregório / Minérvio | Formas portuguesas dos nomes. |
+| poena sensus / poena damni | pena de sentido / pena de dano | Distinção entre a pena que inflige sofrimento e a privação do bem, aqui a visão divina. |
+| carentia divinae visionis | privação da visão divina | Fórmula recorrente nos artigos 1–3. |
+| gratia gratum faciens | graça que torna agradável a Deus | Mantida a explicitação da fórmula teológica. |
+| suppositum | supósito | Sujeito concreto subsistente em uma natureza; nota [^22]. |
+| poena taxata / poena concomitans | pena fixada / pena concomitante | Distinção desenvolvida no artigo 4. |
+| corpus animale | corpo animal | Corpo animado na condição da vida natural; nota [^23]. |
+| medie complexionatum | de constituição equilibrada | Equilíbrio das qualidades contrárias na constituição corporal. |
+| humidum nutrimentale | umidade nutritiva | Termo da fisiologia antiga e medieval; nota [^24]. |
+| virtus speciei | força da espécie | Capacidade de conservar a constituição própria do ser vivo, no contexto fisiológico do artigo 5. |
+| Seneca / Origenes / Isidorus | Sêneca / Orígenes / Santo Isidoro | Formas portuguesas dos nomes. |
+| electio / libera electio | escolha / livre escolha | Distinta da deliberação que a precede. |
+| liberum arbitrium | livre-arbítrio | Conservada a distinção entre liberdade da coação e liberdade da culpa e da miséria. |
+| consilium / consiliari | deliberação / deliberar | Investigação prática aberta a alternativas. |
+| exercitium actus | exercício do ato | Distinto da especificação ou determinação do ato pelo objeto. |
+| specificatio actus / determinatio actus | especificação do ato / determinação do ato | Mantida a variação terminológica da fonte. |
+| ea quae sunt ad finem | meios que conduzem ao fim | Fórmula recorrente na relação entre vontade do fim e escolha dos meios. |
+| se habere ad opposita | estar aberto a opostos | Capacidade de atos opostos, sem implicar sua realização simultânea. |
+| appetibile / appetitus | apetecível / apetite | Objeto que move e princípio apetitivo movido. |
+| bonum conveniens apprehensum | bem conveniente apreendido | Objeto motor da vontade. |
+| intentio | intenção | Conteúdo apreendido pela mente neste contexto; nota [^25]. |
+| beatitudo | bem-aventurança | Fim último e bem perfeito. |
+| instinctus | impulso | No contexto da moção exercida por um agente superior. |
+| Philosophus / Commentator | Filósofo / Comentador | Aristóteles / Averróis; nota [^26]. |
+| Avicenna / Boetius / Dionysius | Avicena / Boécio / Dionísio | Formas portuguesas dos nomes. |
+| consuetudo / habitus | costume / hábito | Mantida a distinção lexical da fonte. |
+| peccatum veniale / peccatum mortale | pecado venial / pecado mortal | Distinção analógica, explicitada no artigo 1. |
+| venia | perdão | Mantida a relação etimológica com “venial” na nota [^27]. |
+| reatus / reatus poenae | reato / reato da pena | Condição de quem está sujeito à pena devida pelo pecado. |
+| sensualitas | sensualidade | Potência apetitiva sensível, em relação com a razão. |
+| ratio superior / ratio inferior | razão superior / razão inferior | Mantida a distinção técnica da fonte. |
+| uti / frui / fruitio | usar / fruir / fruição | Distinção entre referir algo ao fim e repousar nele como fim. |
+| caritas / cupiditas | caridade / cobiça | “Cobiça” em sentido amplo de amor desordenado, não restrito aos bens materiais. |
+| ex genere | por seu gênero / quanto ao gênero | Qualificação do ato distinta daquela proveniente da vontade ou do fim. |
+| difficile mobile / facile mobile | dificilmente removível / facilmente removível | Estabilidade de hábitos e disposições no sujeito. |
+| surreptio | movimento súbito e irrefletido | Movimento anterior ao consentimento deliberado da razão. |
+| fomes | fomes | Inclinação desordenada ligada à privação da justiça original. |
+| delectatio morosa | deleitação morosa | Termo escolástico esclarecido na nota [^29]. |
+| Magister | Mestre | Pedro Lombardo, autor das Sentenças; nota [^29]. |
+| caritas non agit perperam | a caridade não age mal | Seguido o uso registrado na tradução da Suma Teológica. |
+| rationes aeternae / rationes temporales | razões eternas / razões temporais | Princípios segundo os quais procedem a razão superior e a inferior. |
+| ex industria / ex certa malitia | de propósito / por malícia determinada | Distinção em relação ao pecado por paixão ou por movimento súbito e irrefletido. |
+| primo primus | primeiro-primeiro | Movimento proveniente da disposição corporal, anterior à possibilidade de intervenção da razão; nota [^30]. |
+| elatio | exaltação | No exame da primeira queda, elevação soberba da mente. |
+| intellectus deiformis / intellectus discursivus | intelecto deiforme / intelecto discursivo | Contraste entre o conhecimento angélico e o conhecimento humano. |
+| fides formata | fé formada | Fé vivificada pela caridade; nota [^31]. |
+| poena sensus | pena dos sentidos | Distinta da privação da visão divina. |
+| status viatoris | estado de viador | Condição do homem durante a vida terrena; nota [^32]. |
+| intensio / extensio | intensidade / extensão | Distinção aplicada à pena em 334. |
+| extrema unctio | extrema-unção | Denominação tradicional da unção dos enfermos; nota [^33]. |
+| sacramentalia | sacramentais | Distintos dos sacramentos da nova lei. |
+| benedictio pontificalis | bênção pontifical | Em 393, entre os sacramentais. |
+| reliquiae peccatorum | vestígios dos pecados | Em 379, objeto próprio da extrema-unção. |
+| vitia capitalia / principalia | vícios capitais / principais | Conservada a distinção vocabular na explicação de sua origem e classificação. |
+| superbia | soberba | Apetite desordenado da própria excelência; distinta da vanglória. |
+| inanis gloria | vanglória | Empregada também nas enumerações que a colocam no lugar da soberba. |
+| accidia | acídia | Tristeza pelo bem espiritual enquanto impede um bem corporal. |
+| cupiditas | cobiça | Pode indicar a raiz geral dos pecados ou, em sentido especial, a avareza. |
+| excellentia | excelência | Objeto próprio da soberba quando apetecido desordenadamente. |
+| magnanimitas / pusillanimitas | magnanimidade / pusilanimidade | Mantida a terminologia das virtudes e dos vícios. |
+| nescientia / ignorantia | nesciência / ignorância | A primeira é simples carência de ciência; a segunda concerne ao que se pode e deve saber. |
+| vis irascibilis / concupiscibilis | potência irascível / concupiscível | Também “o irascível” e “o concupiscível”. |
+| affectus / effectus | afeto / efeito | Distinção determinante na presença da soberba nos demais pecados. |
+| imperium | comando | Aplicado à razão, à vontade e à extensão da influência das virtudes e dos vícios. |
+| appetitus perversae celsitudinis | apetite de uma elevação perversa | Fórmula agostiniana de definição da soberba. |
+| gloria / claritas | glória / esplendor | Em q. 9, a explicação de *claritas* também exige “clareza”; preservada a ligação entre brilho e manifestação. |
+| clara cum laude notitia | conhecimento claro acompanhado de louvor | Definição de glória. |
+| iactantia | jactância | Distinta do afeto interior de soberba quando considerada como manifestação verbal da excelência. |
+| invidia / zelus / aemulatio | inveja / zelo / emulação | Conservada a distinção entre entristecer-se pelo bem alheio e aspirar a obter o bem que outro possui. |
+| libido | desejo desordenado | Em q. 10, designa o apetite de prazer em sentido amplo. |
+| prosecutio / fuga | busca / fuga | Movimentos fundamentais da potência apetitiva. |
+| inobedientia / contentio / pertinacia / discordia | desobediência / contenda / pertinácia / discórdia | Filhas da vanglória. |
+| novitatum praesumptio | presunção de novidades | Empreendimento de ações novas para manifestar a própria excelência. |
+| susurratio / detractio | murmuração / detração | Conservada a distinção do texto entre dizer males ocultamente e manifestamente. |
+| exultatio in adversis / afflictio in prosperis | exultação nas adversidades / aflição nas prosperidades | Referidas às adversidades e prosperidades alheias. |
+| Nemesis | nêmesis | Indignação diante da prosperidade dos maus. |
+| Tullius / Sallustius / Titus Livius / Fabius | Cícero / Salústio / Tito Lívio / Fábio | Formas portuguesas dos autores e do personagem citados. |
+| accidia | acídia | Mantida a forma adotada no título da questão. |
+| tristitia aggravans | tristeza que oprime | Também “tristeza opressiva”, conforme a construção. |
+| appetitus sensitivus / appetitus intellectivus | apetite sensitivo / apetite intelectivo | O segundo é identificado com a vontade. |
+| sensualitas | sensualidade | Termo técnico para o apetite sensitivo; esclarecido na nota [^38]. |
+| torpor circa praecepta | torpor em relação aos preceitos | Efeito da acídia relativo às obras necessárias à salvação. |
+| pusillanimitas / desperatio / rancor | pusilanimidade / desespero / rancor | Mantidas as distinções entre as filhas da acídia. |
+| evagatio mentis | divagação da mente | Movimento para outras coisas em busca de prazer. |
+| malitia | malícia | Em q. 11, a. 4, designa especificamente a impugnação dos bens espirituais. |
+| ira per zelum / ira per vitium | ira por zelo / ira por vício | Distinção entre a ira ordenada pela razão e a ira desordenada. |
+| vindicta / ultio | vingança | Pode designar a punição justa, sem implicar revanche pessoal; nota [^39]. |
+| iustum vindicativum / vindicativa iustitia | justo castigo / justiça punitiva | Bem sob cuja razão a ira busca causar um dano. |
+| mansuetudo / mansuetus | mansidão / manso | Convenção dos trabalhos aristotélicos do corpus. |
+| tumor mentis / contumeliae / clamor / rixae | inchaço da mente / injúrias / gritaria / rixas | Filhas da ira; mantida a imagem de inflação interior. |
+| Augustinus / Dionysius / Damascenus / Gregorius / Hieronymus | Agostinho / Dionísio / o Damasceno / Gregório / Jerônimo | Formas das questões disputadas Sobre a alma e Sobre as criaturas espirituais. |
+| Chrysostomus / Cassianus / Tullius / Hugo de sancto Victore | Crisóstomo / Cassiano / Túlio / Hugo de São Vítor | Formas do corpus; os três últimos conforme Sobre as virtudes. |
+| Moralia / Enchiridion / De civitate Dei | Moralia / Enchiridion / A Cidade de Deus | Títulos conforme o diário de Sobre a alma. |
+| De institutione coenobiorum | Instituições cenobíticas | Forma adotada na Suma Teológica e em Sobre as virtudes. |
+| Architas Tarentinus / Valerius Maximus | Arquitas de Tarento / Valério Máximo | Nomes próprios em suas formas portuguesas. |
+| avaritia / cupiditas | avareza / cobiça | A avareza admite sentido geral e sentido especial; conservada a distinção argumentativa. |
+| liberalitas / illiberalitas / prodigalitas | liberalidade / iliberalidade / prodigalidade | A iliberalidade designa a oposição à liberalidade; a avareza também pode designar a oposição à justiça. |
+| mutuare / mutuum | emprestar / empréstimo | No artigo 4, empréstimo de coisas cujo uso consome sua substância e transfere seu domínio. |
+| usura / usurarius / lucrum usurarium | juros ou usura / usurário / lucro usurário | “Juros” nas operações e cobranças; “usura” na classificação da prática; nota [^41]. |
+| interesse | prejuízo; reparação do prejuízo | Conforme designe o dano patrimonial ou a obrigação de repará-lo; nota [^42]. |
+| sors | capital | Quantia emprestada, distinta do acréscimo exigido pelo uso. |
+| amicitia utilis / amicitia honesti | amizade fundada na utilidade / amizade fundada no bem honesto | Preservada a distinção entre utilidade e bem honesto. |
+| proditio / fraus / fallacia / periuria / inquietudo / violentiae / contra misericordiam obduratio | traição / fraude / falácia / perjúrios / inquietação / violências / endurecimento contra a misericórdia | Filhas da avareza. |
+| Isidorus / Basilius / Boetius / Gregorius Nyssenus / Publicola | Isidoro / Basílio / Boécio / Gregório de Nissa / Publícola | Formas portuguesas dos nomes. |
+| gula / crapula / ebrietas | gula / comilança / embriaguez | Distintos o vício, o excesso na ingestão e a embriaguez. |
+| delectatio / voluptas | deleitação / prazer | Distinção lexical mantida na exposição sobre o apetite. |
+| appetitus naturalis / appetitus sensitivus | apetite natural / apetite sensitivo | O primeiro inclui a fome decorrente da carência corporal; o segundo se segue à apreensão. |
+| praepropere / laute / nimis / ardenter / studiose | antes da hora / com requinte / em excesso / com avidez / com esmero | Fórmula latina conservada no artigo 3 e explicada na nota [^43]. |
+| inepta laetitia / scurrilitas / multiloquium / immunditia / hebetudo sensus circa intelligentiam | alegria insensata / bufonaria / loquacidade / impureza / embotamento do senso quanto à compreensão | As cinco filhas da gula. |
+| causa animalis / humor / pollutio | causa psíquica / humor / polução | No parágrafo 90, distinguem-se a origem na apreensão e a origem corporal; nota [^44]. |
+| luxuria / delectatio venerea | luxúria / deleitação sexual | Mantida a distinção entre o vício e a deleitação que constitui seu objeto. |
+| fornicatio simplex / adulterium / incestus | fornicação simples / adultério / incesto | Espécies distinguidas segundo a desordem do ato. |
+| stuprum / raptus | estupro / rapto | Sentidos da classificação medieval esclarecidos na nota [^46]. |
+| certitudo prolis | certeza da paternidade | No argumento sobre a identificação do pai e seu cuidado com a prole. |
+| debitum uxoris | débito conjugal devido à esposa | No artigo 1, resposta à nona objeção. |
+| caecitas mentis / inconsideratio / inconstantia / praecipitatio | cegueira da mente / inconsideração / inconstância / precipitação | Quatro filhas da luxúria relativas aos atos da razão. |
+| amor sui / odium Dei / affectus praesentis saeculi / desperatio futuri saeculi | amor de si / ódio de Deus / afeição pelo mundo presente / desespero do mundo futuro | Quatro filhas da luxúria relativas à desordem do afeto. |
+| consilium / iudicium / praeceptum | deliberação / juízo / preceito | Atos da razão distinguidos no artigo 4. |
+| daemon / Diabolus / Satan / Lucifer | demônio / Diabo / Satanás / Lúcifer | Conservada a distinção entre o nome comum e as designações individuais. |
+| corpus naturaliter unitum / corpus assumptum | corpo naturalmente unido / corpo assumido | Distinção entre união natural e assunção de um corpo para uma operação. |
+| spiritus vitales | espíritos vitais | Realidades corporais da fisiologia antiga e medieval; nota [^47]. |
+| substantia intellectualis separata | substância intelectual separada | Substância separada do corpo. |
+| appetitus intellectualis / apprehensio | apetite intelectual / apreensão | O apetite intelectual é a vontade. |
+| bonum simpliciter / bonum secundum quid | bem em sentido absoluto / bem sob certo aspecto | Distinção mantida nos argumentos sobre a inclinação natural e o pecado. |
+| species, modus et ordo | espécie, modo e ordem | Fórmula agostiniana sobre os bens cuja privação constitui o mal. |
+| regula superior / ordo divini regiminis | regra superior / ordem do governo divino | A vontade angélica deve seguir a sabedoria divina. |
+| iustitia gratuita / iustitia naturalis | justiça gratuita / justiça natural | Distinção entre o dom da graça e a ordenação inerente à natureza racional. |
+| ipsum esse subsistens / participare esse | o próprio ser subsistente / participar do ser | Terminologia do argumento contra a possibilidade de igualdade absoluta com Deus. |
+| aequalitas divina / beatitudo supernaturalis | igualdade divina / bem-aventurança sobrenatural | A igualdade apetecida é delimitada quanto ao modo de alcançar a bem-aventurança. |
+| frui / uti | fruir / usar | Distinção agostiniana entre a fruição e o uso. |
+| Chalcidius / Apuleius / Porphyrius / Plotinus | Calcídio / Apuleio / Porfírio / Plotino | Formas portuguesas dos nomes. |
+| Lemures / Larvae / Manes / aruspices | lêmures / larvas / manes / arúspices | Termos da religião antiga esclarecidos na nota [^48]. |
+| Empyreum | Empíreo | Designação cosmológica esclarecida na nota [^49]. |
+| velleitas | veleidade | Querer imperfeito, condicionado à possibilidade do objeto considerado impossível. |
+| aevum / aeternitas | evo / eternidade | Convenção das obras irmãs; distinção esclarecida na nota [^50]. |
+| status viatoris / status viae | estado de viador / estado de caminho | Condição anterior ao termo definitivo; nota [^51]. |
+| synderesis | sindérese | Conhecimento habitual dos primeiros princípios da ação moral; nota [^52]. |
+| rationes seminales | razões seminais | Princípios causais das coisas que se desenvolverão posteriormente, na exposição da criação segundo Agostinho. |
+| conversio / aversio | conversão / afastamento | Movimentos em relação a Deus e ao bem sobrenatural. |
+| cognitio naturalis / cognitio gratuita | conhecimento natural / conhecimento gratuito | Distinção entre o conhecimento conforme à natureza e o recebido pela graça. |
+| rectitudo / immobilitas / vertibilitas | retidão / imutabilidade / mutabilidade | Terminologia da discussão sobre o livre-arbítrio angélico. |
+| Super Genesim ad litteram / De civitate Dei | Sobre o Gênesis ao pé da letra / A Cidade de Deus | Títulos conforme os diários das questões Sobre a alma e Sobre as criaturas espirituais. |
+| De causis / Caelestis hierarchia / De divinis nominibus | Sobre as causas / Hierarquia celeste / Sobre os nomes divinos | Títulos conforme as obras irmãs. |
+| Augustinus / Dionysius / Origenes / Damascenus / Gregorius | Agostinho / Dionísio / Orígenes / o Damasceno / Gregório | Formas estabelecidas nas obras irmãs. |
+| species intelligibilis / species innatae / species infusae | espécie inteligível / espécies inatas / espécies infusas | “Espécie inteligível” conforme as obras irmãs; distinção de sentidos esclarecida na nota [^53]. |
+| phantasma / phantasia | fantasma / fantasia | Terminologia das obras irmãs; nota [^54] sobre o sentido técnico de “fantasma”. |
+| per accidens | por acidente | Conforme as obras irmãs. |
+| contingentia ad utrumlibet / ut in pluribus | contingentes para qualquer dos dois resultados / na maioria dos casos | Distinção entre a possibilidade de resultados opostos e a regularidade que admite exceções. |
+| transmutatio formalis | transmutação formal | Mudança segundo a forma, discutida no artigo 9. |
+| fascinatio | fascinação | Suposto efeito nocivo do olhar; nota [^55]. |
+| Commentator / Glossa | o Comentador / a Glosa | Formas estabelecidas nas obras irmãs. |
+| De divinatione Daemonum / Retractationes | Sobre a adivinhação dos demônios / Retratações | Obras de Agostinho citadas na discussão do conhecimento dos demônios. |
 | spiritus sensitivi / humores | espíritos sensitivos / humores | Termos da fisiologia antiga; esclarecidos na nota [^56]. |
 | contactus virtualis | contato de potência | Contato entendido pela ação de uma potência, distinto do contato corporal. |
 | intellectus agens / intellectus possibilis | intelecto agente / intelecto possível | Distinção conservada na explicação do conhecimento intelectual. |
@@ -9,6 +323,191 @@
 
 ## Decisões
 
+- Nesta chamada, traduzidos os parágrafos 1–149 de qdemalo-c01.md, mantendo um parágrafo por unidade da fonte, além das três definições de notas do tradutor.
+- Mantida a distinção entre o mal em abstrato e aquilo que é mau: “aquilo que é o mal” e “aquilo que é mau”, conforme o argumento.
+- “Hábito” foi conservado na oposição técnica a “privação”. A nota [^1], após o parágrafo 9, esclarece esse uso sem confundi-lo com o hábito adquirido.
+- Em 42, “sêmen não suficientemente elaborado” traduz *semen indigestum* no contexto da fisiologia antiga; *partus monstruosus* foi vertido por “cria malformada”. A nota [^2] explica o contraste verbal *agendo / deagendo*, traduzido por “agindo / falhando no agir”.
+- Em 77–80, *bonum hoc* foi traduzido por “bom como determinada coisa”, preservando a distinção entre ser um bem e possuir a perfeição própria de uma espécie ou função.
+- A nota [^3], após o parágrafo 125, esclarece o uso causal de “unívoco” e “equívoco”.
+- Preservadas as suplementações editoriais entre colchetes e sinais angulares. Em 134, a negação da segunda oração foi acomodada à sintaxe portuguesa, preservando a oposição entre vontade boa e vontade má e os limites do trecho suplementado.
+- Em 74, conservado “no mal que lhe é oposto”, correspondente ao *in malo sibi opposito* recebido, sem corrigir silenciosamente a leitura para “no bem”.
+- Em João 1, parágrafo 28, traduzido “Sem ele foi feito o nada” para conservar a leitura que fundamenta a glosa sobre o pecado. Não substituída pela formulação habitual de traduções bíblicas.
+- Referências bíblicas convertidas para nomes portugueses e algarismos arábicos, com dois-pontos quando há versículo; referências apenas a capítulos permanecem sem acréscimos.
+- Conservado o destaque da fonte; nas citações em que o itálico começava depois da primeira letra, o destaque foi regularizado para abranger a palavra inteira. Não se acrescentou itálico aos títulos de obras que não o tinham no trecho recebido.
+- Nesta chamada, traduzidos os parágrafos 150–242 de qdemalo-c01.md, mantendo as 93 unidades da fonte, além das duas definições de notas do tradutor.
+- A nota [^4], após o parágrafo 167, esclarece o sentido técnico de “honesto” na divisão do bem em honesto, útil e agradável.
+- A nota [^5], após o parágrafo 212, explica a imagem e o sentido técnico de *fomes*, mantido em latim e em itálico conforme o Compêndio de teologia.
+- Em 175–176 e 223, *passio* foi traduzido por “padecimento”, para preservar sua oposição causal a ação sem confundi-lo com as paixões afetivas mencionadas em outros parágrafos.
+- Em 199 e 203, a fórmula elíptica *propter quod unumquodque et illud magis* foi vertida por “aquilo em razão de que cada coisa é tal, é-o ainda mais”.
+- Preservadas as referências e atribuições recebidas, inclusive o livro I de A consolação da filosofia em 234, sem correção conjectural.
+- Em 230, conservada a suplementação editorial da negação como <não>; em 215, conservado <bem>.
+- Traduzidos os parágrafos 1–157 de qdemalo-c02.md, preservando as 157 unidades da fonte, além das três definições de notas do tradutor.
+- A nota [^6], após o parágrafo 27, identifica as matinas; a nota [^7], após o parágrafo 76, esclarece a amplitude lexical de *peccatum*, conservado como “pecado” também na natureza e na arte; a nota [^8], após o parágrafo 156, esclarece o sentido técnico de “hábito”.
+- Conservadas as suplementações editoriais como <pecado> em 16, <há> em 24 e <noção> em 117.
+- Em 45, *contemptus interpretatus* foi traduzido por “desprezo presumido”, mantendo a explicação do próprio autor sobre a inferência a partir da conduta.
+- Em 74, regularizado o limite do itálico que, na fonte, deixa a última letra de *Dei* fora da citação; em 89, *peccaretm* foi tratado como erro tipográfico por *peccaret*.
+- Em 87, *haec poena est contemptus Dei* foi vertido como “essa pena é a do desprezo de Deus”, explicitando a relação elíptica entre a pena e o desprezo que ela pune.
+- Em 127, *accedere ad suam et ad non suam* foi traduzido por “unir-se à própria mulher e unir-se a uma mulher que não é a sua”; em 142, 151 e 152, conservada a terminologia correspondente do argumento, com “conhecer” onde a fonte emprega *cognoscere*.
+- As citações latinas integradas ao discurso latino foram traduzidas com o mesmo destaque da fonte; títulos não destacados na fonte permaneceram sem destaque, salvo o latinismo *Enchiridion*.
+- Traduzidos os parágrafos 158–332 de qdemalo-c02.md, preservando as 175 unidades da fonte, além das duas definições de notas do tradutor.
+- A nota [^9], após o parágrafo 218, conserva o verso latino sobre as espécies da gula e esclarece “com esmero”; a nota [^10], após o parágrafo 244, explica os sentidos técnicos de “aversão” e “conversão”.
+- Mantida a distinção entre *habitus* como disposição estável (“hábito”) e como oposto lógico de privação (“posse”, no parágrafo 183).
+- Nos parágrafos 218 e 219, os versos mnemônicos foram traduzidos, conservando o itálico; no parágrafo 251, suas palavras retomadas foram igualmente traduzidas.
+- Conservadas sem emenda a oposição entre liberalidade e prodigalidade em 200, a expressão “e não da condição do objeto” em 225 e a indicação “pelos sacerdotes” em 277.
+- Conservadas a ordem da citação de Tiago em 307 e a referência a Números 25:4 em 332, conforme a fonte.
+- Em 301, “hereges modernos” conserva a perspectiva temporal do autor, sem identificar grupos não nomeados na fonte.
+- Traduzidos os parágrafos 333–413 de qdemalo-c02.md, preservando as 81 unidades da fonte, além da definição de uma nota do tradutor.
+- A nota [^11], após o parágrafo 393, esclarece a imagem material subjacente ao termo latino *fomes*, conservado segundo o uso do Compêndio de teologia do corpus.
+- No parágrafo 368, conservada a formulação peculiar “do bem para a graça”, correspondente a “a bono ad gratiam”, sem emenda conjectural.
+- Conservadas a referência ao livro IV da Física em 398 e a ausência de versículo na referência a Romanos 7 em 359.
+- Em 403, “em correspondência inversa” traduz “per oppositum” na relação entre diminuição e acréscimo e entre acréscimo e divisão.
+- Traduzidos os parágrafos 1–186 de qdemalo-c03.md, preservando as 186 unidades da fonte, além das definições de duas notas do tradutor.
+- A nota [^12], após o parágrafo 77, identifica o Comentador e Temístio; a nota [^13], após o parágrafo 120, esclarece o sentido fisiológico de “espíritos sensitivos” e “humores”.
+- Em 22, “III Regum XXII, 22” foi vertido como “1 Reis 22:22”, conforme a nomenclatura bíblica das obras irmãs; mantidos o capítulo e o versículo.
+- Conservadas as referências da fonte ao livro II da Ética a Eudemo em 78 e ao livro IV de A Trindade em 120, sem emenda conjectural.
+- Em 159, conservado “pecado de homicídio”, correspondente a “peccatum homicidii”, embora o exemplo distinga homicídio e parricídio.
+- Em 154, “industria” foi traduzido por “deliberação”, em contraste com ignorância e fraqueza.
+- Em 185–186, “nescientia” foi traduzido por “não saber” para preservar sua distinção explícita em relação à ignorância e ao erro.
+- Traduzidos os parágrafos 187–365 de qdemalo-c03.md, preservando as 179 unidades da fonte, além da definição de uma nota do tradutor.
+- A nota [^14], após o parágrafo 309, esclarece “sindérese” e sua distinção em relação à consciência.
+- “Ligatio” e “ligamen rationis” foram traduzidos por “impedimento da razão”, preservando a distinção entre o impedimento transitório pela paixão e o decorrente de um hábito.
+- Em 272, conservada literalmente a afirmação “a causa não é anterior ao efeito”, correspondente a “causa non est prior quam effectus”, sem emenda conjectural.
+- Em 323, conservado “ato interior” para “interioris actus”, apesar da dificuldade de leitura criada pela repetição, sem substituir por “ato exterior”.
+- Em 357, conservada a referência da fonte a Lucas 11:10; em 360, conservado o contraste entre ignorância e fraqueza, correspondente a “ignorantiae quam infirmitatis”, sem emendas conjecturais.
+- Em 229, “sui subiecti” foi vertido por “seu objeto”, conforme o exemplo da vista e a aplicação imediata ao objeto da vontade; em 258, “hunc autem” foi entendido como referência ao ato que deve ser evitado.
+- Em 243 e 274, preservada a diferença da fonte entre “meus membros” e “nossos membros” nas duas citações de Romanos 7:5.
+- Traduzidos os parágrafos 366–403 de qdemalo-c03.md, preservando as 38 unidades da fonte, além da definição de uma nota do tradutor.
+- A nota [^15], após o parágrafo 394, esclarece a expressão técnica “estado de via”.
+- Em 368, explicitado o verbo subentendido junto a “determinate”: “deve-se entender isso em sentido determinado”.
+- Em 378, conservada “virtude da castidade” para “virtutem castitatis”, sem substituir por “caridade”; em 381, conservada a afirmação “nem todo aquele que peca desse modo peque por malícia”, apesar da dificuldade de sua conexão com a frase anterior.
+- Em 397, preservada a negação de “quod Deus eum resuscitare non possit”: “que Deus não o possa ressuscitar”. A formulação contrasta com o argumento imediato sobre a potência divina, mas não foi feita emenda conjectural.
+- Conservadas as referências a João 20:22 em 370 e a Mateus 12:31 em 387, sem ajuste da numeração da fonte.
+- Em 396, “remissível” conserva a relação entre perdão do pecado e atenuação da pena, ilustrada pelo abrandamento do calor.
+- Traduzidos os parágrafos 1–177 de qdemalo-c04.md, conservando as 177 unidades da fonte, além de quatro definições de notas do tradutor.
+- As notas [^16], [^17], [^18] e [^19], após os parágrafos 40, 56, 63 e 109, esclarecem, respectivamente, “intenção” em sentido técnico, “reato”, a imagem de *fomes* e o exemplo de *simus*, cuja definição inclui o nariz.
+- Em 17, conservada a leitura “materia accidentalis” como “matéria acidental”, sem substituição conjectural por “forma acidental”. Em 40, conservado “actus naturalis” como “ato natural”.
+- Em 72, preservada a negação de “cum non sit concupiscentia”, apesar de sua dificuldade no argumento. Em 129, preservada a expressão “per peccatum originale” como “pelo pecado original”, sem emenda.
+- Conservadas as referências da fonte a Eclesiástico 15:18, Ezequiel 18:30 e Salmo 84:26, sem correção conjectural.
+- Em 66 e 100, “permanece em ato e passa quanto ao reato” conserva a distinção da fonte entre a permanência da concupiscência e a remissão do reato no Batismo.
+- “Collegium”, no argumento do artigo 1, foi traduzido por “comunidade”; “spiritus spumosus”, em 43, por “espírito espumoso”, preservando o vocabulário da explicação antiga da geração.
+- Conservados os diferentes formatos dos títulos e subtítulos: apenas o título inicial tem marcador de cabeçalho; os demais mantêm o destaque ou o texto simples da fonte.
+- Traduzidos os parágrafos 178–279 de qdemalo-c04.md, conservando as 102 unidades da fonte, além de duas definições de notas do tradutor.
+- As notas [^20] e [^21], após os parágrafos 262 e 274, esclarecem, respectivamente, “gerador unívoco” e o exemplo da capacidade de rir, e “fé formada”.
+- Conservada a referência a 1 Tessalonicenses 4:16 no parágrafo 201, sem correção conjectural.
+- “Originaliter”, na discussão do artigo 8, foi traduzido por “pela origem”, para explicitar o modo de transmissão discutido.
+- Em 256, “lite etiam non contestata cum patre” foi traduzido por “que o litígio nem sequer tenha sido formalmente estabelecido com o pai”, conservando o sentido processual da expressão.
+- Em 262, “physicus” foi traduzido por “filósofo da natureza”; em 279, “corporis resolutio” por “descarga corporal”, conforme o contexto fisiológico.
+- Traduzidos os parágrafos 1–159 de qdemalo-c05.md, conservando as 159 unidades da fonte, além de três definições de notas do tradutor.
+- Acrescentadas as notas [^22], [^23] e [^24], após os parágrafos 57, 112 e 150, para esclarecer “supósito”, “corpo animal” e a terminologia fisiológica da umidade nutritiva e da força da espécie.
+- Em 42, conservada a distinção entre “não lhe ser devido tê-la” e “ser-lhe devido não a ter”, essencial ao argumento sobre a razão de pena.
+- Em 48, conservada sem correção conjectural a formulação “a culpa originali sacramenta non liberant”: “os sacramentos não libertam da culpa original”.
+- Em 96, a indicação “Rom. VI, V, 23” foi normalizada como “Romanos 6:23”, entendendo-se o “V” intermediário como indicação de versículo.
+- Em 139, conservada a conjunção de “duram vel frangibilem”: “dura ou quebrável”, sem substituí-la por uma conjunção conjectural.
+- Em 146, conservada a leitura “quantum ad naturam” como “quanto à natureza”, sem substituí-la conjecturalmente por “quanto à matéria”.
+- Em 148, conservada a negação de “hoc fit non in quolibet corpore mixto”: “isso não ocorre em todo corpo misto”, apesar da dificuldade de continuidade com o argumento.
+- Mantidas as atribuições de obras e citações tal como apresentadas pela fonte, sem revisão autoral ou bibliográfica conjectural.
+- Traduzidos os parágrafos 1–74 de qdemalo-c06.md, conservando as 74 unidades da fonte, além de duas definições de notas do tradutor.
+- Acrescentadas as notas [^25] e [^26], após os parágrafos 17 e 40, para esclarecer o sentido técnico de “intenção” e identificar o Comentador e o Filósofo.
+- Em 7, conservada a referência Romanos 9:10 tal como fornecida, sem correção conjectural.
+- Em 42, “ratio autem intellectus” foi entendido como referência à razão intelectiva.
+- Em 46, conservada a leitura “utile voluntati” como “útil à vontade”, sem substituí-la por uma referência ao prazer.
+- Em 49, conservada a leitura “actualitas” como “atualidade”, apesar da dificuldade contextual, sem emendá-la conjecturalmente para “auctoritas”.
+- Em 61, conservado “imitationem” como “imitação” nas duas ocorrências.
+- Mantidos os títulos, as atribuições e os números dos livros citados conforme a fonte, sem revisão bibliográfica conjectural.
+- Traduzidos os parágrafos 1–174 de qdemalo-c07.md, conservando as 174 unidades da fonte, além de três definições de notas do tradutor.
+- Acrescentadas as notas [^27], [^28] e [^29], após os parágrafos 32, 50 e 171, para explicar a etimologia de “venial”, a distinção entre obrigar sempre e a todo momento, e o termo “deleitação morosa” com a identificação do Mestre.
+- “Dividi contra” foi traduzido por “distinguir-se” ou “contrapor-se na divisão”, conforme a construção, preservando a discussão lógica da divisão em venial e mortal.
+- Em 143, conservada a primeira ocorrência de “obiecto interiori” como “objeto interior”, embora o encadeamento do argumento sugira “exterior”; não se fez emenda conjectural.
+- Em 160, a construção foi entendida como negação da possibilidade de praticar, no estado de inocência, atos veniais por seu gênero, e não como conversão desses atos em mortais por causa daquele estado.
+- Conservadas as referências bíblicas e bibliográficas conforme fornecidas, inclusive 1 Coríntios 13:4 em 74, “sete vezes ao dia” em Provérbios 24:16 em 82 e “caminho da verdade” em 2 Pedro 2:21 em 165.
+- Em 87, mantido o argumento sem acrescentar uma conclusão ausente da fonte.
+- Traduzidos os parágrafos 175–345 de qdemalo-c07.md, conservando as 171 unidades da fonte, além de três definições de notas do tradutor.
+- Acrescentadas as notas [^30], [^31] e [^32], após os parágrafos 237, 319 e 342, para explicar “primeiro-primeiro”, “fé formada” e “estado de viador”.
+- Em 177, a permanência da iracúndia foi distinguida de sua manutenção voluntária, preservando a possibilidade de resistir pela razão a um movimento que continua a durar.
+- Conservadas sem emenda as leituras “a sensualidade não é pecado venial” em 220, “não terem concupiscência” em 284, a distância infinita entre anjo e homem em 297 e a primeira ocorrência de “mortali” em 317, embora o encadeamento desta última sugira “originali”.
+- Em 214, conservada a referência à “unidade” de Deus na última parte da resposta, embora a primeira parte mencione Deus “trino e uno”.
+- Conservadas as referências e numerações fornecidas, inclusive Eclesiastes 7:30 em 249, o livro XII do Comentário literal ao Gênesis em 255, Romanos 7:15 em 284, Salmo 76:10 em 315 e 2 Crônicas 30:19 em 328.
+- Em 337, mantida a ausência de negrito e itálico da fonte, diferentemente das fórmulas introdutórias dos artigos anteriores.
+- Traduzidos os parágrafos 346–398 de qdemalo-c07.md, conservando as 53 unidades da fonte, além de uma definição de nota do tradutor.
+- Acrescentada a nota [^33], após o parágrafo 351, para identificar “extrema-unção” com a denominação “unção dos enfermos”.
+- Em 361, conservada a expressão “grave corrupção” para “gravi corruptione”, sem emendar a construção latina.
+- Conservadas sem emenda a afirmação de que o pecado mortal “não é perdoado” quanto à pena em 362, a negação em “não permanece o exercício da caridade” em 372 e a procedência “de fora” do ato de caridade em 388.
+- Em 364, preservadas as alternativas da construção sintaticamente irregular sobre os atos de pecado venial, o propósito de pecar e a paixão que retira o uso da razão.
+- Conservadas as referências fornecidas, inclusive Salmo 31:1 para o conjunto das citações em 359, sem acrescentar outro número de versículo.
+- Mantidos “Artigo 12” sem marca de cabeçalho e o título seguinte em negrito e itálico, conforme a fonte.
+- Traduzidos os parágrafos 1–190 de qdemalo-c08.md, conservando as 190 unidades da fonte, além de duas definições de notas do tradutor.
+- Acrescentada a nota [^34], após o parágrafo 30, para explicar a relação etimológica entre “capital” e *caput*, “cabeça”; acrescentada a nota [^35], após o parágrafo 142, para conservar a aproximação verbal entre *superbire* e *super ire*.
+- Em 31, “I Reg. XV, 17” foi vertido como “1 Samuel 15:17”, segundo a correspondência entre a antiga numeração latina dos livros dos Reis e a nomenclatura portuguesa atual.
+- Conservadas as referências da fonte, inclusive Romanos 7:23 em 24, Mateus 3:13 em 140 e Salmo 9:18 em 151, sem correção dos números fornecidos.
+- Em 61, conservado o verbo “punido” para “punitur”, sem emendá-lo para “ponitur”.
+- Em 96, a construção irregular “super celsitudinem imitatur” foi entendida como referência à soberba que imita a sublimidade, explicitando-se “A soberba” como sujeito na tradução.
+- Conservadas a alternância entre furtar para cometer adultério e cometer adultério para furtar em 20 e 57, a ordem das respostas à décima primeira e à décima segunda objeções em 111–112 e a distribuição de irascível e concupiscível da formulação irregular em 161.
+- Em 128 e 181, preservadas as diferenças entre as duas citações de São Gregório: “imaginam ter” para “coniectant se habere” na primeira, “se vangloriam de ter” para “iactant se habere” na segunda, sem completar a segunda com as palavras finais da primeira.
+- Mantidos os títulos e seus níveis de marcação, inclusive “Artigo 2”, “Artigo 3” e “Artigo 4” sem marca de cabeçalho.
+- Traduzidos os parágrafos 191–198 de qdemalo-c08.md, 1–79 de qdemalo-c09.md e 1–84 de qdemalo-c10.md, conservando as 171 unidades da fonte, além de duas definições de notas do tradutor.
+- Acrescentada a nota [^36], após qdemalo-c09.md, parágrafo 18, para explicar a amplitude de *claritas*; acrescentada a nota [^37], após qdemalo-c10.md, parágrafo 65, para esclarecer o sentido técnico de “nêmesis”.
+- Em qdemalo-c09.md, parágrafo 30, conservado “desordenadamente” para *inordinate*, sem emendar a formulação contrastante da resposta.
+- Em qdemalo-c10.md, parágrafo 15, conservada a construção *de bonis amicis, et tristari de malis* como “com os bons amigos e entristecer-se com os maus”, sem substituí-la por uma referência aos bens e males dos amigos.
+- Em qdemalo-c10.md, parágrafo 57, conservado “admite” para *admittit*, sem emendá-lo para *amittit*, apesar da dificuldade de sentido.
+- Em qdemalo-c10.md, parágrafo 80, vertido *quaedam malitia* como “certa condição má”, no contexto da opressão do ânimo pelo mal.
+- Conservadas as referências fornecidas pela fonte, inclusive Romanos 12:17 em qdemalo-c09.md, parágrafo 7; livro V de Sobre os nomes divinos em qdemalo-c10.md, parágrafo 22; e livro I da Retórica em qdemalo-c10.md, parágrafo 33.
+- Traduzidos os parágrafos 1–79 de qdemalo-c11.md, conservando as 79 unidades da fonte, além de uma definição de nota do tradutor.
+- Acrescentada a nota [^38], após o parágrafo 59, para esclarecer o sentido técnico de “sensualidade” e distingui-lo do uso corrente especificamente sexual.
+- No parágrafo 7, interpretado o numeral “III” de “in Psalm. CVI, super III” como indicação de versículo, conservando a referência como Salmo 106:3.
+- Conservadas, sem emenda, as formulações difíceis da fonte: no parágrafo 18, “bom sob certo aspecto ou aparentemente bom, e mau pura e simplesmente”; no parágrafo 22, “o próprio modo da tristeza procede de nós”, para *ipse modus tristitiae est ex nobis*; no parágrafo 27, a afirmação final “e enquanto é pecado”.
+- No parágrafo 34, conservado o sujeito acídia em “por impedir o repouso corporal”, conforme *quia est impeditiva corporalis quietis*, sem substituí-lo pelo bem espiritual.
+- No parágrafo 76, vertido *prosequitur* como “persegue”, no contexto da passagem da fuga à hostilidade; conservado o sentido de deleite de *quae delectari possunt* em “que podem deleitar”, sem emendá-lo para uma referência à tristeza.
+- No parágrafo 79, conservado “da acídia nasce a tristeza”, conforme *ex accidia oritur tristitia*, sem substituir “tristeza” por “divagação”.
+- Traduzidos os parágrafos 1–152 de qdemalo-c12.md, preservando as 152 unidades da fonte, além de duas definições de notas do tradutor.
+- Acrescentada a nota [^39], após o parágrafo 28, para esclarecer a amplitude de *vindicta*, que inclui a punição justa.
+- Acrescentada a nota [^40], após o parágrafo 92, para identificar 4 Reis com o atual 2 Reis, conservando a numeração da fonte na referência.
+- No parágrafo 6, vertido *et hoc omnino est et sine causa* como afirmação de que a proibição vale absolutamente, mesmo sem o acréscimo textual “sem causa”, em continuidade com o contraste entre os códices.
+- No parágrafo 81, explicitado o objeto elíptico em “todo apetite desordenado daquilo que Cristo reservou para si”, identificado como a vingança pela sequência do argumento.
+- No parágrafo 102, conservado “homem que tem piedade”, conforme *homine pietatem habente*, sem substituir “piedade” por “poder”.
+- No parágrafo 110, conservada a expressão “ira por zelo”, conforme a fonte, sem emendá-la para “ira por vício”.
+- No parágrafo 130, ligada a perda do domínio de si ao impedimento do uso da razão causado pela perturbação corporal da ira.
+- No parágrafo 148, conservada a mudança de pessoa entre *fratri tuo* (“a teu irmão”) e *fratri suo* (“a seu irmão”); “raca” foi mantido como interjeição, conforme a explicação da própria fonte.
+- Traduzidos os parágrafos 1–124 de qdemalo-c13.md, preservando as 124 unidades da fonte, além de duas definições de notas do tradutor.
+- No parágrafo 17, conservados os vocábulos metalinguísticos *avarus*, *avidus aeris* e *philargyria*, com seus sentidos em português, para preservar a explicação etimológica.
+- No parágrafo 23, conservada a afirmação final de que a avareza “se opõe a algum pecado”, conforme a fonte, sem inserir uma negação.
+- No parágrafo 25, conservada “perversidade do louvor”, conforme *pravitas laudis*, sem emenda conjectural.
+- No parágrafo 53, conservada a afirmação de que a avareza “estabelece seu fim nos bens temporais”, conforme a fonte, sem inserir uma negação.
+- Acrescentada a nota [^41], após o título do artigo 4, para esclarecer que *usura* não se restringe a juros excessivos.
+- Acrescentada a nota [^42], após o parágrafo 86, para distinguir *interesse*, prejuízo patrimonial ou sua reparação, de *usura*.
+- Conservadas as referências da fonte, inclusive Lucas 2 no parágrafo 35, Eclesiastes 5:3 no parágrafo 66 e Política VII no parágrafo 97; no parágrafo 94, mantidas a referência ao Salmo 14:5 e a sequência da citação tal como transmitidas.
+- No parágrafo 102, mantida a distinção entre “emprestar a juros” e “emprestar”, necessária à explicação do sentido amplo de *fenerare*.
+- No parágrafo 118, vertido *pecuniam signatam in sacculo* como “dinheiro em um saco lacrado”, no contexto da cessão para penhor, que preserva o dinheiro cedido.
+- Traduzidos os parágrafos 1–91 de qdemalo-c14.md, preservando as 91 unidades da fonte, além de duas definições de notas do tradutor.
+- Conservada a fórmula latina das cinco espécies da gula e suas retomadas no artigo 3; acrescentada a nota [^43] com os equivalentes portugueses e a distinção entre o requinte do alimento e o esmero do preparo.
+- No parágrafo 63, conservadas tanto a menção às “outras sete circunstâncias” como a conclusão “sete ou oito espécies”, sem harmonizar a contagem.
+- No parágrafo 90, vertido *causa animalis* como “causa psíquica”, em oposição à causa corporal; acrescentada a nota [^44] para esclarecer “humor” e “polução” no contexto fisiológico.
+- Conservadas as referências e atribuições da fonte, inclusive Eclesiástico 39:31-32, Morais XXX no parágrafo 83 e a atribuição a Agostinho dos sermões Sobre o purgatório.
+- Traduzidos os parágrafos 1–102 de qdemalo-c15.md, preservando as 102 unidades da fonte, além de duas definições de notas do tradutor.
+- Acrescentada a nota [^45] para explicar a correção textual de *venialis* para *venalis*; conservadas integralmente as duas expressões latinas discutidas no parágrafo 70.
+- Acrescentada a nota [^46] para distinguir os sentidos de *stuprum* e *raptus* nesta classificação medieval dos usos atuais dos termos portugueses.
+- Conservado *fornice* na explicação etimológica de “fornicação”, assim como a associação da fonte ao arco triunfal e aos espetáculos.
+- Vertido *Hebraica veritas* como “texto hebraico” no parágrafo 11; mantidas as duas formulações atribuídas a Judá.
+- Conservadas as referências e atribuições da fonte, inclusive os livros VII, XIII e XII de A cidade de Deus nos parágrafos 12, 23 e 60 e a atribuição a Mateus 5 no parágrafo 50.
+- Mantidas as particularidades textuais dos parágrafos 14 e 23: a oposição entre o vício por excesso e a virtude por diminuição, e a formulação incomum da citação sobre a temperança, sem emendar o latim fornecido.
+- Traduzidos os parágrafos 1–143 de qdemalo-c16.md, preservando as 143 unidades da fonte, além de três definições de notas do tradutor.
+- Acrescentada a nota [^47] para distinguir os espíritos vitais corporais dos espíritos imateriais; a nota [^48] para explicar as designações romanas dos espíritos dos mortos e os arúspices; e a nota [^49] para esclarecer “Empíreo”.
+- Mantidas, sem emenda conjectural, as formulações problemáticas da fonte: “sem substância racional” no parágrafo 32, a afirmação sobre a união para mover o corpo aéreo no parágrafo 36 e “isso não redundaria numa deficiência de Deus” no parágrafo 99.
+- Conservado o futuro de *peccabit* no parágrafo 113 e a referência a Plotino nos parágrafos 15 e 34, sem corrigir atribuições.
+- No parágrafo 143, vertido *similiter praeesse Deo* como “presidir à semelhança de Deus”, conforme a comparação desenvolvida no próprio parágrafo e na resposta anterior.
+- Conservada a apresentação simples de “Artigo 2” e “Artigo 3”, distinta da marcação enfática de “Artigo 1” na fonte.
+- Traduzidos os parágrafos 144–304 de qdemalo-c16.md, preservando as 161 unidades da fonte, além de três definições de notas do tradutor.
+- Acrescentadas as notas [^50], sobre “evo”; [^51], sobre “estado de viador”; e [^52], sobre “sindérese”.
+- Mantidas as referências da fonte, inclusive Apocalipse 10:7, Jó 41:24 e o livro VII de A Cidade de Deus no parágrafo 283; não acrescentadas referências às citações que não as trazem.
+- No parágrafo 195, *arte Scripturae* foi traduzido como “arte da escrita”, conforme o exemplo de uma operação que dispensa deliberação.
+- No parágrafo 269, a construção irregular *amisit tamen quod non possit in bonum gratiae* foi vertida como “sofreu, porém, uma perda que o impede de dirigir-se ao bem da graça”, conservando a perda e a impossibilidade expressas na frase.
+- No parágrafo 270, mantido “oposição” para *oppositionis*, sem emendá-lo conjecturalmente para “adição”.
+- Conservado o sujeito singular implícito de *cognoscat* na citação de João 17:3, com tratamento reverente por “vós”, sem acrescentar “único” a “Deus verdadeiro”.
+- Traduzidos os parágrafos 305–456 de qdemalo-c16.md, preservando as 152 unidades da fonte, além de três definições de notas do tradutor.
+- Acrescentadas as notas [^53], sobre os sentidos de “espécie”; [^54], sobre “fantasma”; e [^55], sobre “fascinação”.
+- No parágrafo 312, conservada a expressão final *cum ipsa* por “juntamente com eles”, referida aos princípios, sem emenda conjectural do latim.
+- No parágrafo 314, mantido “bem-aventurança ativa” para *beatitudo activa*, sem substituir o adjetivo da fonte.
+- No parágrafo 409, *summo ordine rerum, qui est summum bonum* foi vertido como “princípio supremo de ordenação das coisas, que é o sumo bem”, explicitando o sentido causal da construção.
+- Preservadas as referências e as particularidades das citações, inclusive Eclesiastes 1:10, Eclesiástico 19:26, os parênteses de 1 Coríntios 2:11, a formulação de Romanos 13:1 e “livro II da Hierarquia celeste” no parágrafo 445.
 - Traduzidos os parágrafos 457–545 de qdemalo-c16.md, preservando as 89 unidades da fonte, além de uma definição de nota do tradutor; concluída a tradução do livro.
 - Acrescentada a nota [^56], sobre o sentido fisiológico de “espíritos” e “humores”, para distingui-los das substâncias espirituais discutidas no mesmo trecho.
 - Conservadas, sem emenda conjectural, as formulações *sensum ad imaginationem* no parágrafo 489 (“o sentido para a imaginação”), *proprium subiectum* no parágrafo 513 (“o sujeito próprio”), *virtus incorporea* no parágrafo 537 (“potência incorpórea”) e *ex parte intelligibilis* no parágrafo 541 (“por parte do inteligível”).

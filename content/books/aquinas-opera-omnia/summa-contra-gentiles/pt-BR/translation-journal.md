@@ -1,6 +1,407 @@
+# Diário de tradução — Suma contra os gentios (pt-BR)
+
+Fonte: la/, edição Leonina, domínio público, reproduzida de aquinas.cc conforme book.json.
+Destino: pt-BR.
 
 ## Termos
 
+| Latim | Português | Notas |
+|---|---|---|
+| Summa Contra Gentiles | Suma contra os gentios | Título da obra |
+| Sanctus Thomas Aquinas | Santo Tomás de Aquino | Autor |
+| Caput / Liber | Capítulo / Livro | Conforme o Compêndio de Teologia |
+| sapientia / sapiens / officium sapientis | sabedoria / sábio / ofício do sábio | |
+| Philosophus / Commentator | Filósofo / Comentador | Aristóteles / Averróis |
+| Aristoteles / Plato / Boetius / Simonides | Aristóteles / Platão / Boécio / Simônides | |
+| Avicenna / Damascenus | Avicena / Damasceno | |
+| Hilarius / Augustinus | Hilário / Agostinho | Sem título de santidade quando ausente da fonte, conforme o Ofício de Corpus Christi |
+| Mahumetus / Mahumetistae | Maomé / muçulmanos | |
+| gentiles / Pagani / Manichaei | gentios / pagãos / maniqueus | |
+| fides Catholica / fides Christiana | fé católica / fé cristã | |
+| Sacra Scriptura / vetus testamentum / novum testamentum | Sagrada Escritura / Antigo Testamento / Novo Testamento | |
+| Eccli. / Sap. / Iac. | Eclesiástico / Sabedoria / Tiago | Conforme as convenções das obras próximas |
+| esse / Deum esse | ser; existir / que Deus existe | Conforme o Compêndio de Teologia |
+| ens / non ens | ente / não ente | |
+| essentia / substantia / quidditas | essência / substância / quididade | |
+| actus / potentia / actus purus | ato / potência / ato puro | |
+| potentia activa / passiva | potência ativa / passiva | |
+| educere, reducere in actum | levar ao ato | |
+| virtus (força ativa) | poder | Conforme o Compêndio de Teologia |
+| intellectus / intelligere / intelligentia | intelecto / entender / intelecção | |
+| ratio naturalis | razão natural | |
+| ratio (argumentação) / ratio (conteúdo conceitual) | argumento / noção; significado | Conforme o contexto |
+| phantasma | fantasma | Imagem sensível; nota no cap. 4 |
+| per se / per accidens | por si / por acidente | Conforme o Compêndio de Teologia |
+| per se notum / quoad nos | conhecido por si / para nós | |
+| simpliciter | absolutamente | |
+| genus / species / differentia | gênero / espécie / diferença | |
+| primum movens / primus motor | primeiro motor | |
+| movens / motum / mobile | motor; aquilo que move / movido / móvel | |
+| motus / mutatio | movimento / mudança | |
+| immobile / immutabile | imóvel / imutável | Distinção preservada |
+| causa efficiens | causa eficiente | |
+| finis ultimus | fim último | |
+| via remotionis | via da remoção | |
+| demonstratio / ratio probabilis / ratio sophistica | demonstração / argumento provável / argumento sofístico | |
+| demonstratio quia | demonstração *quia* | Nota no cap. 12 |
+| beatitudo | bem-aventurança | |
+| liberum arbitrium | livre-arbítrio | Conforme o Compêndio de Teologia |
+| intellectus possibilis / agens | intelecto possível / agente | Conforme o Compêndio de Teologia; sumário |
+| Verbum / Spiritus Sanctus | Verbo / Espírito Santo | Pessoas divinas |
+| aeternitas / sempiternitas | eternidade / sempiternidade | Distinção lexical preservada |
+| David de Dinando / Anaxagoras / Socrates | David de Dinant / Anaxágoras / Sócrates | |
+| Tertullianus / Vadiani / Anthropomorphitae | Tertuliano / audianos / antropomorfitas | |
+| Dionysius / Moyses | Dionísio / Moisés | |
+| Sarraceni / Zabii | sarracenos / sabeus | Designações históricas preservadas |
+| materia prima / materia signata | matéria primeira / matéria assinalada | Nota sobre matéria assinalada no cap. 21 |
+| differentia / diversitas | diferença / diversidade | Distinção técnica preservada no cap. 17 |
+| magnitudo / quantum | grandeza / aquilo que tem quantidade | |
+| esse formale / esse commune | ser formal / ser comum | |
+| esse substantiale / esse accidentale | ser substancial / ser acidental | |
+| designare / designatio essentialis | determinar / determinação essencial | Caps. 24–25 |
+| in quid est praedicari | predicar-se como resposta ao que a coisa é | Fórmula lógica |
+| intentiones | determinações | Cap. 23: atributos considerados acrescentados à essência divina |
+| superessentialis | superessencial | |
+| Physica / Metaphysica / Caelum et mundus | Física / Metafísica / Do céu e do mundo | Títulos aristotélicos |
+| De Trinitate / Caelestis Hierarchia / De Divinis Nominibus / Liber de causis | Sobre a Trindade / Hierarquia celeste / Dos nomes divinos / Livro das causas | |
+| causa aequivoca / causae univocae | causa equívoca / causas unívocas | Convenção do Compêndio de teologia; nota [^7] sobre causa equívoca |
+| univoce / aequivoce / analogice | univocamente / equivocamente / analogicamente | Vocabulário da predicação |
+| aequivocatio | equivocidade | Conforme o Compêndio de teologia |
+| ratio nominis / modus significandi | razão do nome / modo de significar | Distinção entre conteúdo significado e modo de expressão |
+| per participationem / per essentiam | por participação / por essência | |
+| actus purus / actualitas / potentialitas | ato puro / atualidade / potencialidade | |
+| intelligere / intelligens / intelligibile | entender / inteligente / inteligível | Conforme o Compêndio de teologia; “o entender” no uso substantivado |
+| species intelligibilis / species sensibilis | espécie inteligível / espécie sensível | Nota [^9] sobre espécie inteligível |
+| scientia / consideratio | ciência ou conhecimento / consideração | No cap. 45, “ciência” contraposta à consideração em ato |
+| actus primus / actus secundus | ato primeiro / ato segundo | |
+| hoc signatum | este indivíduo determinado | Cap. 42: individuação do ser necessário |
+| infinitum privative / negative | infinito em sentido privativo / negativo | Nota [^8] |
+| Democritus / Ariani / Manichaei | Demócrito / arianos / maniqueus | |
+| I Reg. / Thren. | 1 Samuel / Lamentações | Nomes bíblicos conforme os diários do Compêndio de teologia e da Suma teológica |
+| Ethica / Meteora | Ética / Meteorológicos | Títulos aristotélicos |
+| primo et per se | primeira e essencialmente | Fórmula do cap. 48; nos demais contextos, “per se” conserva também “por si” |
+| intentio intellecta | intenção inteligida | Conforme o Compêndio de teologia; conteúdo concebido pelo intelecto; nota [^10] |
+| intentio | atenção | No cap. 55, direcionamento da potência cognoscitiva ao objeto |
+| habitus / habitualis cognitio | hábito / conhecimento habitual | Conhecimento possuído sem consideração atual; nota [^11] |
+| componere et dividere | compor e dividir | Afirmação e negação no juízo; nota [^12] |
+| enuntiabile / enuntiatio | enunciável / enunciado | |
+| incomplexum / complexum | incomplexo / complexo | Termos da análise lógica no cap. 59 |
+| quidditas | quididade | Conforme o Compêndio de teologia |
+| phantasma | fantasma | Conforme o Compêndio de teologia; representação da imaginação |
+| materia signata / materia designata | matéria assinalada | Princípio de individuação das coisas materiais; nota [^13] |
+| notitia simplicis intelligentiae / notitia visionis | conhecimento de simples inteligência / conhecimento de visão | Distinção do cap. 66 |
+| Dionysius / De Divinis Nominibus | São Dionísio / Os nomes divinos | Conforme o Compêndio de teologia |
+| Anaxagoras | Anaxágoras | Conforme o Compêndio de teologia |
+| Clemens / Empedocles / Socrates | Clemente / Empédocles / Sócrates | |
+| De anima / Praedicamenta | Sobre a alma / Categorias | Títulos aristotélicos |
+| astrologus | astrônomo | No cap. 66, conhecimento antecipado de eclipses pelos movimentos celestes |
+| necessitas consequentis / necessitas consequentiae | necessidade do consequente / necessidade da consequência | Distinção modal do cap. 67; nota [^14] |
+| de dicto / de re; composita / divisa | *de dicto* / *de re*; em sentido composto / em sentido dividido | Conservadas as expressões latinas de uso técnico; nota [^14] |
+| secundum consequens / secundum accidens | falácia do consequente / falácia do acidente | Denominações lógicas no cap. 67 |
+| species numerorum | espécies de números | Diferentes números considerados distintos em espécie; nota [^15] |
+| vilis / vilitas | ínfimo / inferioridade | No cap. 70, grau de nobreza do ente; no título e na abertura, “coisas insignificantes” |
+| appetitus naturalis / sensibilis / intellectualis | apetite natural / sensível / intelectual | “Apetite” inclui a inclinação sem conhecimento; nota [^16] |
+| appetitus concupiscentiae | apetite concupiscível | |
+| volitum / principale volitum | coisa querida, objeto querido / objeto principal querido | “Objeto principal da vontade” quando a construção pede |
+| Averroes | Averróis | |
+| Caeli et mundi | Sobre o céu e o mundo | Título aristotélico |
+| ad utrumlibet | aberto a qualquer uma das duas alternativas | Possibilidade de um ou outro de dois opostos; nota [^17] |
+| necessitas suppositionis / necessitas ex suppositione | necessidade de suposição / necessidade por suposição | Distinta da necessidade absoluta |
+| passiones affectuum / affectiva passio | paixões afetivas / paixão afetiva | |
+| gaudium / delectatio | alegria / deleite | Conservada a distinção explicitada no cap. 90 |
+| amor / unitiva virtus | amor / força unitiva | |
+| veritas, como virtude | veracidade | Distinta de “verdade” como propriedade do conhecimento ou do ente |
+| liberalitas / magnificentia | liberalidade / magnificência | Nomes das virtudes |
+| fortitudo / magnanimitas / mansuetudo | fortaleza / magnanimidade / mansidão | |
+| ars / prudentia | arte / prudência | “Arte” em sentido amplo de saber produzir |
+| recta ratio factibilium / recta ratio agibilium | reta razão das coisas a serem produzidas / reta razão das ações a serem praticadas | Distinção esclarecida na nota [^18] |
+| iustitia commutativa / distributiva | justiça comutativa / distributiva | |
+| consilium / consiliari | deliberação, conselho / deliberar, aconselhar-se | Conforme se trate do ato investigativo ou do conselho comunicado |
+| beatitudo / beatus | bem-aventurança / bem-aventurado | Mantido “felicidade” para *felicitas* |
+| argentum vivum | mercúrio, chamado prata-viva | Denominação explicada na nota [^19] |
+| Boetius / Avicenna / Dionysius | Boécio / Avicena / Dionísio | |
+| Talmut / Luciferiani | Talmude / luciferianos | |
+| operatio / actio / factio | operação / ação / produção | Distinção explicitada no início do livro II; nota [^20] |
+| manufacta | coisas manufaturadas | Literalmente, feitas pelas mãos; conservada a ligação com a citação do Salmo 142:5 |
+| potentia activa / potentia passiva | potência ativa / potência passiva | Mantido “potência” na argumentação e nos subtítulos dos caps. 7–10 |
+| esse / ens | ser / ente | Distinção entre o ato de ser e aquilo que é |
+| principium essendi / causa essendi | princípio do ser / causa do ser | |
+| materia praeiacens / materia prima | matéria preexistente / matéria primeira | |
+| virtualiter | virtualmente | Contenção das perfeições no poder da causa; nota [^21] |
+| diaphanum | diáfano | Termo da filosofia natural aristotélica; nota [^22] |
+| intensio et remissio | intensificação e diminuição | Variação de grau nas formas ou nas disposições para elas |
+| Praedicamenta | Categorias | Título da obra de Aristóteles; “predicamentos” quando designa as categorias |
+| Basilius / Augustinus | São Basílio / Santo Agostinho | |
+| generans univocum | gerador unívoco | Agente que gera outro da mesma espécie |
+| debitum iustitiae | dívida de justiça | “Devido” nas construções em que se designa aquilo que a dívida exige |
+| necessitas suppositionis / necessitas absoluta | necessidade de suposição / necessidade absoluta | Preservada a distinção entre a necessidade condicionada pelo que se supõe e a necessidade absoluta |
+| composite / divise | em sentido composto / em sentido dividido | Distinção lógica explicada na nota [^23] |
+| complexio / humores | compleição / humores | Vocabulário da antiga fisiologia; nota [^24] |
+| Damascenus / Hilarius | São João Damasceno / Santo Hilário | |
+| De synodis / De generatione animalium | Dos sínodos / Da geração dos animais | Títulos das obras citadas |
+| necessitas ordinis | necessidade de ordem | Necessidade decorrente da ordenação entre termos ou coisas |
+| virtus essendi | capacidade de ser | No argumento sobre a duração das substâncias criadas |
+| amicitia / lis | amizade / discórdia | Princípios de Empédocles; convenção das obras irmãs |
+| Empedocles / Anaxagoras / Leucippus / Democritus / Pythagoras | Empédocles / Anaxágoras / Leucipo / Demócrito / Pitágoras | |
+| Avicenna / Simon magus | Avicena / Simão Mago | |
+| Marchius / Marchiani / Marchianistae / Cerdoniani | Marcião / marcionitas / marcionistas / cerdonianos | Conservada a distinção das duas designações dos seguidores presente na fonte |
+| orbis / anima orbis | orbe / alma do orbe | Esfera celeste e seu princípio animador na cosmologia exposta |
+| Physica / Metaphysica | Física / Metafísica | Títulos portugueses consagrados, conforme as obras irmãs |
+| substantia intellectualis / substantia intelligens | substância intelectual / substância inteligente | Conservada a variação do latim |
+| appetitus naturalis / animalis / intellectualis | apetite natural / animal / intelectual | “Animal” designa aqui o apetite associado ao conhecimento sensitivo |
+| concupiscibilis / irascibilis | concupiscível / irascível | Divisões do apetite animal |
+| aestimatorium / aestimatio naturalis | faculdade estimativa / estimativa natural | Apreensão animal do útil ou nocivo |
+| liberum arbitrium | livre-arbítrio | Distinto da mera liberdade de movimento ou ação |
+| esse / quod est / quo est | ser / aquilo que é / aquilo pelo qual é | Preservada a distinção técnica dos caps. 52–54 |
+| esse subsistens | ser subsistente | |
+| forma subsistens / forma materialis | forma subsistente / forma material | |
+| Origenes / Manichaei | Orígenes / maniqueus | |
+| De anima / Ethica / De Divinis Nominibus | Da alma / Ética / Dos nomes divinos | Títulos das obras citadas |
+| intellectus possibilis / passivus / agens | intelecto possível / passivo / agente | Mantida a distinção entre os três termos |
+| contactus virtutis | contato virtual | Contato pelo poder de agir; “contato de poder” na explicação contrastada com o contato de quantidade |
+| phantasma / phantasmata | fantasma / fantasmas | Representação sensível da imaginação; nota [^30] |
+| vis cogitativa / imaginativa / memorativa | faculdade cogitativa / imaginativa / memorativa | |
+| intentio individualis / universalis | intenção individual / universal | Conteúdo apreendido, não propósito da vontade; nota [^31] |
+| unum simpliciter / unum ratione | uno em sentido absoluto / uno segundo a definição | |
+| potentia perspectiva | potência contemplativa | Na discussão das palavras de Aristóteles, cap. 61 |
+| Averroes / Commentator | Averróis / Comentador | “Comentador” designa Averróis |
+| Plato / Socrates / Boetius | Platão / Sócrates / Boécio | |
+| De ecclesiasticis dogmatibus | Dos dogmas eclesiásticos | |
+| De memoria / De caelo / Physica | Da memória / Do céu / Física | |
+| Alexander / Galenus / Empedocles / Dinarchus | Alexandre / Galeno / Empédocles / Dinarco | |
+| Gregorius Nyssenus | Gregório de Nissa | |
+| complexio | temperamento | Constituição corporal segundo a mistura das qualidades elementares; nota [^32] |
+| praeparatio | preparação | Na exposição e refutação da opinião de Alexandre |
+| spiritus corporalis | espírito corporal | Corpo sutil da fisiologia antiga; nota [^33] |
+| habitus scientiae | hábito da ciência | Disposição estável da potência intelectiva |
+| perfectio prima / perfectio secunda | perfeição primeira / perfeição segunda | |
+| numerari | multiplicar-se numericamente | Também “ser numericamente distinto”, conforme a construção |
+| Enchiridion | Enquirídio | |
+| Posteriora | Analíticos posteriores | |
+| Avicenna / Averroes | Avicena / Averróis | |
+| intelligentia agens | inteligência agente | Mantida a distinção verbal em relação a *intellectus agens*, “intelecto agente” |
+| thesaurus | depósito | Metáfora das faculdades que conservam formas e intenções |
+| sensus communis / sensus proprii | sentido comum / sentidos próprios | |
+| diaphanum | diáfano | Meio ou corpo capaz de receber e transmitir a luz |
+| materia signata | matéria assinalada | No argumento sobre individuação e inteligibilidade |
+| ars demonstrativa | arte demonstrativa | |
+| De memoria | Da memória | |
+| Arabs / Zenon | o Árabe / Zenão | Conservadas as designações da fonte, sem identificação conjectural |
+| commensuratio | comensuração | Proporção determinada da alma ao próprio corpo |
+| Algazel | Algazel | |
+| Manichaeus | Mani | Quando designa o fundador; *Manichaei*: “os maniqueus” |
+| amatio | enamoramento | Distinto do amor de amizade no cap. 81 |
+| traductio seminis | transmissão do sêmen | No argumento sobre a origem da alma humana |
+| animalia anulosa | animais anelados | Designação antiga, sem identificação estrita com os anelídeos modernos |
+| De memoria et reminiscentia | Da memória e da reminiscência | |
+| decisio seminis | emissão do sêmen | *Decisio* conserva “separação” quando designa a divisão de animais |
+| virtus formativa | poder formativo | Poder responsável pela formação corporal no relato da geração |
+| spiritus | espírito | No cap. 89, sopro ou vapor corporal da fisiologia antiga |
+| aequalitas complexionis | equilíbrio da compleição | Equilíbrio das qualidades na constituição do corpo |
+| Rabbi Moyses | Rabi Moisés | Moisés Maimônides |
+| Apuleius | Apuleio | |
+| quidditates subsistentes | quididades subsistentes | Cap. 93 |
+| sensus communis | sentido comum | Faculdade sensitiva interna; esclarecida na nota [^40] |
+| perfectio secunda | perfeição segunda | Operação do ser já constituído; nota [^41] |
+| malum simpliciter | mal em sentido absoluto | Distinto do mal de alguma coisa ou para alguma coisa |
+| habitus | posse; hábito | “Posse” em oposição a privação, no livro III, cap. 6; “hábito” nos contextos morais |
+| illiberalitas | avareza | Vício contrário à liberalidade |
+| universalis virtute | universal em seu poder | Universalidade da capacidade de representar ou produzir, não mera generalidade |
+| causa efficiens / causa deficiens | causa eficiente / causa deficiente | Preservado o contraste verbal no livro III, cap. 10 |
+| virtutes factivae / activae | virtudes produtivas / ativas | Distinção entre produzir uma obra exterior e agir; nota [^42] |
+| vis apprehensiva | faculdade apreensiva | Princípio de apreensão sensível ou intelectual, conforme o contexto |
+| vis motiva | faculdade motora | Executa o comando da vontade ou da razão |
+| mixtum | misto | Corpo formado pela combinação dos elementos; nota [^43] |
+| ubi | lugar | Determinação local, especialmente na discussão do movimento celeste |
+| felicitas / beatitudo | bem-aventurança; felicidade / bem-aventurança | “Bem-aventurança” como termo corrente e nos títulos; “felicidade” quando os dois substantivos aparecem juntos, preservando a dupla formulação |
+| agens aequivocum | agente equívoco | Causa cujo efeito não pertence à mesma espécie que ela; nota [^44] |
+| philosophia prima | filosofia primeira | Ciência ordenada ao conhecimento de Deus |
+| architectonica | arquitetônica | Arte ou ciência que dirige outras subordinadas a ela |
+| intellectus principiorum | inteligência dos princípios | Apreensão imediata dos primeiros princípios; nota [^46] |
+| actus primus / actus secundus | ato primeiro / ato segundo | No cap. 39, respectivamente, ciência possuída e consideração efetiva |
+| Cerinthiani / Chiliastae | cerintianos / quiliastas | Preservada a explicação de “quiliastas” como “milenaristas”; nota [^45] |
+| Tullius / Ambrosius | Cícero / Santo Ambrósio | Formas portuguesas dos autores citados no cap. 29 |
+| apodiacula | contrafortes | Elementos de sustentação da casa no exemplo do cap. 26 |
+| phantasma / phantasmata | fantasma / fantasmas | Representações sensíveis da imaginação; nota [^47] |
+| quidditas | quididade | Aquilo que a coisa é; mantida a distinção entre conhecer que existe e conhecer o que é |
+| intellectus possibilis / intellectus agens | intelecto possível / intelecto agente | Mantida a distinção em toda a discussão dos caps. 41–48 |
+| intellectus habitualis / intellectus in habitu | intelecto em hábito | Mesma tradução para ambas as formas latinas |
+| intellectus adeptus | intelecto adquirido | Designação usada na exposição da posição de Alexandre |
+| intellecta speculativa | inteligíveis especulativos | Objetos da intelecção especulativa; preservadas as determinações “em ato” e “em potência” |
+| continuatio / copulatio | união | União do intelecto agente com o homem nas opiniões examinadas |
+| rationes topicae | razões tópicas | Argumentos dialéticos; nota [^48] |
+| Avempace / Alexander / Averroes / Themistius | Avempace / Alexandre / Averróis / Temístio | Formas dos nomes dos filósofos citados |
+| lux gloriae / lumen gloriae | luz da glória | Disposição sobrenatural que eleva o intelecto à visão da substância divina |
+| comprehendere / comprehensio | compreender / compreensão | Conhecer tão perfeitamente quanto o objeto é cognoscível; distinto de simplesmente ver ou conhecer |
+| esse naturale / esse intelligibile | ser natural / ser inteligível | Preservada a distinção entre as duas ordens |
+| medium | termo médio | Nos argumentos sobre a demonstração; “meio” nos demais contextos |
+| diaphanum | o que é transparente / transparência | Conforme a construção da frase |
+| octava sphaera | oitava esfera | Esfera das estrelas fixas; nota [^50] |
+| felicitas / beatitudo | bem-aventurança | Mantida a terminologia do trecho anterior |
+| proportio / commensuratio | proporção / comensuração | No cap. 54, preservada a distinção entre relação em sentido amplo e correspondência de medida |
+| providentia / gubernatio / regimen | providência / governo / direção | Preservada a distinção conforme a construção; “regere” também vertido por “reger” |
+| agens univocum | agente unívoco | Agente que produz um efeito da mesma espécie; nota [^51] |
+| causae secundae / agentia secunda | causas secundárias / agentes secundários | Causas e agentes subordinados à causa primeira |
+| in virtute Dei / in virtute divina | pelo poder de Deus / pelo poder divino | “Virtus” também vertido por “potência” ou “força”, conforme o contexto |
+| contactus virtutis | contato de poder | Presença operativa de uma realidade incorpórea, distinta do contato dimensional |
+| loquentes in lege Maurorum | teólogos muçulmanos | Modernização da designação empregada nos caps. 65 e 69 |
+| Avicebron / fons vitae | Avicebron / Fonte da vida | Nome do autor e título da obra no cap. 69 |
+| libertas arbitrii / libertas voluntatis | liberdade do arbítrio / liberdade da vontade | Preservada a distinção das expressões da fonte |
+| fortuna / casus | fortuna / acaso | Mantida a distinção terminológica; adjetivos: “fortuito” e “casual” |
+| provisor | provedor | Aquele que concebe e dispõe a ordem da providência; distinto de seu executor |
+| ordinatio / executio | ordenação / execução | Distinção central dos caps. 76–83 |
+| Gregorius Nyssenus | Gregório de Nissa | Nome próprio |
+| hierarchia / sacer principatus | hierarquia / principado sagrado | Preservada a explicação etimológica da fonte |
+| seraphim / cherubim / throni | serafins / querubins / tronos | Ordens da primeira hierarquia |
+| dominationes / virtutes / potestates | dominações / virtudes / potestades | Ordens da hierarquia intermediária segundo Dionísio |
+| principatus / archangeli / angeli | principados / arcanjos / anjos | Ordens da última hierarquia segundo Dionísio |
+| ars architectonica | arte arquitetônica | Arte que dirige outra em razão do conhecimento de um princípio ou fim superior |
+| complexio | compleição | Constituição corporal no vocabulário médico e astrológico da fonte |
+| vis memorativa / vis cogitativa | faculdade memorativa / faculdade cogitativa | Potências corpóreas que auxiliam a operação intelectual |
+| voluntates | atos de vontade | Quando o plural designa atos de querer; “vontades” quando se refere às faculdades de sujeitos distintos |
+| bene fortunatus / male fortunatus | afortunado / desafortunado | Distintos da boa ou má disposição natural |
+| bene naturatus / bene natus | bem dotado por natureza | Evita o sentido social de “bem-nascido” |
+| fatum | destino | Preservada a distinção entre o sentido astrológico e a ordenação providencial realizada nas coisas |
+| Albumasar | Albumasar | Forma do nome empregada pela fonte |
+| magna moralia | Grande moral | Título da obra citada no cap. 92 |
+| providentia | providência | Mantida a convenção do Compêndio de teologia |
+| miraculum / mirum | milagre / admirável | Distinção adotada no Compêndio de teologia e desenvolvida nos caps. 101–103 |
+| Dionysius / de Divinis nominibus | São Dionísio / Os nomes divinos | Convenção do Compêndio de teologia |
+| I Reg. / Thren. | 1 Samuel / Lamentações | Nomes dos livros conforme os diários das obras irmãs |
+| Tullius | Cícero | Nome português corrente do autor |
+| fascinatio | fascinação | No cap. 103, suposta ação nociva do olhar; esclarecida na nota [^59] |
+| astrologus | astrônomo | No cap. 101, designa quem conhece a causa dos eclipses |
+| causae defectibiles | causas falíveis | Causas que podem deixar de produzir seu efeito |
+| ratio operativa / ratio speculativa | razão operativa / razão especulativa | Distinção do cap. 97 |
+| Porphyrius / epistola ad Anebontem | Porfírio / Carta a Anebo | “Porfírio” conforme as obras irmãs de Santo Tomás |
+| Hermes / Apuleius | Hermes / Apuleio | Formas portuguesas dos nomes |
+| quidditas / quod quid est | quididade / o que a coisa é | Conforme os diários de Sobre o ente e a essência e do comentário ao Sobre a interpretação |
+| phantasma | fantasma | Representação sensível da imaginação; convenção dos comentários aristotélicos |
+| ars nigromantica | arte da necromancia | Denominação histórica da arte mágica no cap. 104 |
+| malefici | maléficos | Preservado o vínculo com as ações maléficas; dupla acepção explicada na nota [^60] |
+| propter seipsas | em vista de si mesmas | No governo das criaturas racionais, indica finalidade, não autonomia em relação a Deus |
+| lex nova / lex vetus | Lei Nova / Lei Antiga | Distinção entre lei do amor e lei do temor |
+| concupiscibilis | concupiscível | Apetite sensitivo mencionado no cap. 109 |
+| fides recta | fé reta | Preserva a relação entre a retidão da fé e a verdade conhecida |
+| latria / cultus latriae | latria / culto de latria | Serviço e culto devidos somente a Deus |
+| religio / pietas | religião / piedade | No cap. 119, designações do culto divino |
+| fornicatio simplex | simples fornicação | Expressão técnica explicada na nota [^64] |
+| certitudo prolis | certeza acerca da prole | No argumento matrimonial, certeza quanto à paternidade |
+| amicitia liberalis / servilis | amizade livre / servil | Contraste entre a relação de pessoas livres e a relação de servidão |
+| venereorum usus | exercício da sexualidade | Expressão geral para o uso das faculdades sexuais |
+| consilia / praecepta | conselhos / preceitos | Distinção entre recomendações de bens maiores e obrigações |
+| status perfectionis | estado de perfeição | Estado dos que fazem voto de pobreza, continência e obediência |
+| Valerius Maximus / Nicolaus | Valério Máximo / Nicolau | Formas portuguesas dos nomes |
+| Manes | manes | Espíritos dos mortos no culto romano |
+| paupertas voluntaria | pobreza voluntária | Conservado o termo ao longo das objeções e respostas |
+| sollicitudo | cuidado / preocupação | “Cuidado” para a diligência devida; “preocupação” sobretudo quando designa inquietação ou impedimento à contemplação |
+| liberalitas / illiberalitas / prodigalitas | liberalidade / avareza / prodigalidade | Virtude e vícios opostos relativos ao dar e ao conservar os bens |
+| magnificentia / magnanimitas | magnificência / magnanimidade | Distinção esclarecida na nota [^65] |
+| mendicitas | mendicância | Ato ou modo de vida de quem pede o necessário a outros |
+| necessitas coactionis / ex interiori inclinatione / ex fine | necessidade de coação / proveniente da inclinação interior / proveniente do fim | Distinções do cap. 138 |
+| peccatum mortale / veniale | pecado mortal / venial | Distinção apresentada no cap. 139 |
+| Vigilantius / Iovinianus | Vigilâncio / Joviniano | Formas portuguesas dos nomes |
+| Marcion / Valentinus | Marcião / Valentim | Formas portuguesas dos nomes |
+| humores | humores | Termo da medicina antiga; nota [^66] |
+| disgregare visum | dispersar a visão | Expressão técnica antiga; nota [^67] |
+| gratia gratum faciens | graça santificante | Mantida a forma estabelecida nos títulos deste livro; sentido literal esclarecido na nota [^68] |
+| gratia / gratis / gratus | graça / gratuitamente / grato | No argumento do cap. 150, “grato” significa agradável ou bem-aceito, não agradecido |
+| auxilium divinum / auxilium supernaturale | auxílio divino / auxílio sobrenatural | Terminologia dos capítulos sobre a graça |
+| praeventio; praevenire | precedência; preceder | Expressa a prioridade do auxílio divino em relação ao mérito, à preparação e aos atos humanos |
+| per modum credulitatis | pelo assentimento da fé / crendo / como objeto de fé | Evitado “credulidade”, que sugeriria ingenuidade ausente do argumento |
+| transcorporatio | transmigração das almas | Passagem da alma a outro corpo, na opinião refutada |
+| Algazel | Algazel | Conforme os diários de *De spiritualibus creaturis* e *De unitate intellectus* |
+| Pelagiani | pelagianos | Nome dos seguidores da doutrina refutada nos caps. 147, 149 e 152 |
+| gratia gratis data | graça gratuitamente dada | Distinta da graça santificante |
+| discretio spirituum | discernimento dos espíritos | Dom referido em 1 Coríntios 12 |
+| perseverare finaliter | perseverar até o fim | Evitada a ambiguidade de “perseverar finalmente” |
+| poena satisfactoria / purgatoria | pena satisfatória / purgatória | Conservada a distinção desenvolvida no cap. 158 |
+| praedestinatio / reprobatio / electio | predestinação / reprovação / eleição | Termos do cap. 163 |
+| generatio / paternitas / filiatio | geração / paternidade / filiação | Terminologia trinitária do livro IV |
+| unigenitus / primogenitus | unigênito / primogênito | Conservada a distinção dos termos |
+| Priscilla / Montanus / Novatiani | Priscila / Montano / novacianos | Nomes dos autores e seguidores das posições refutadas |
+| Valerius Maximus | Valério Máximo | Nome apresentado com ordem invertida no latim do cap. 154 |
+| Photinus / Photiniani | Fotino / fotinianos | Nomes da posição refutada no cap. 4 |
+| Cerinthus / Ebion / Paulus Samosatenus | Cerinto / Ebião / Paulo de Samósata | Mantidas as atribuições históricas da fonte |
+| Sabellius / Sabelliani / Patripassiani | Sabélio / sabelianos / patripassianos | Terminologia do cap. 5 |
+| Arius / Ariani / Eunomius | Ário / arianos / Eunômio | Terminologia dos caps. 6–8 |
+| suppositum | suposto | Sujeito individual subsistente; nota explicativa no cap. 5 |
+| a se / per se | a partir de si mesmo / por si mesmo | Distinção entre origem e subsistência ou operação própria, explicitada no cap. 8 |
+| ingenitus | não gerado | Distinto de “não criado” |
+| nomen tetragrammaton | nome tetragrama | Nome divino hebraico; nota explicativa no cap. 7 |
+| intentio intellecta | intenção inteligida | Termo técnico conforme o diário do Compêndio de teologia; conteúdo concebido pelo intelecto |
+| verbum interius / exterius | verbo interior / exterior | Conservado “verbo” para acompanhar a analogia com o Verbo divino |
+| phantasma | fantasma | Representação sensível da imaginação; conforme o Compêndio de teologia |
+| emanatio / processio | emanação / processão | Distinção mantida na exposição da geração divina |
+| relatio subsistens | relação subsistente | Terminologia da distinção das pessoas divinas |
+| exemplar / imago | exemplar / imagem | Distinção segundo a relação ao princípio, desenvolvida no cap. 11 |
+| Macedonius / Macedoniani / Semiariani | Macedônio / macedonianos / semiarianos | Nomes da posição apresentada no cap. 16 |
+| spiratio | espiração | Termo técnico da processão pelo modo do amor; relação com *spiritus* esclarecida na nota [^76] |
+| spiritus vitalis | espírito vital | Termo da fisiologia antiga e medieval; nota [^77] |
+| conversatio | convivência | No cap. 22, preserva a ligação entre a convivência dos amigos e Filipenses 3:20 |
+| pignus | penhor | Na exposição dos dons do Espírito Santo e da esperança da herança celeste |
+| missio | missão | Envio visível ou invisível do Filho e do Espírito Santo |
+| idiota | pessoa sem instrução | Em 1 Coríntios 14, citado no cap. 17; sem o sentido pejorativo moderno |
+| innascibilitas / innascibilis | inascibilidade / inascível | Propriedade do Pai; distinguida de *ingenitus*, “ingênito” |
+| oppositio relativa | oposição relativa | Oposição das relações, especialmente das relações de origem |
+| privatio et habitus | privação e posse | *Habitus* designa aqui a presença de uma perfeição; nota [^78] |
+| corpus phantasticum | corpo aparente | Corpo sem realidade, apenas apresentado à percepção; *phantasma* traduzido por “fantasma” |
+| passibilis | passível | Capaz de sofrer; conservado o sentido técnico |
+| Ebion / Cerinthus | Ebião / Cerinto | Nomes na exposição do erro sobre a divindade de Cristo |
+| Paulus Samosatenus / Photinus | Paulo de Samósata / Fotino | Nomes próprios |
+| Valentinus / Apollinaris | Valentim / Apolinário | Nomes próprios |
+| Didymus / Proclus | Dídimo / Proclo | Nomes próprios |
+| Gregorius theologus / Gregorius Nyssenus | Gregório, o Teólogo / Gregório de Nissa | Preservadas as designações da fonte |
+| Theodorus Mopsuestenus / Nestorius | Teodoro de Mopsuéstia / Nestório | Nomes próprios |
+| Eutyches / Macarius Antiochenus | Êutiques / Macário de Antioquia | Nomes próprios |
+| hypostasis / suppositum | hipóstase / suposto | Sujeito subsistente; “suposto” esclarecido na nota [^80] |
+| unio affectualis / unio affectus | união de afeto | União das vontades na exposição da posição de Nestório |
+| exinanitio / exinanire | esvaziamento / esvaziar | Preservada a relação entre Filipenses 2 e o argumento do cap. 34 |
+| pars potentialis | parte potencial | Potência ou faculdade; nota [^81] |
+| simpliciter / secundum quid | em sentido absoluto / sob certo aspecto | Distinção técnica, especialmente na discussão da unidade |
+| quod quid est / quidditas | “o que é” / quididade | Mantida a distinção de expressão do latim no cap. 40 |
+| materia signata / materia designata | matéria assinalada | Matéria individualmente determinada |
+| replicatio | explicitação | Reformulação explicativa das predicações na posição examinada no cap. 38 |
+| instrumentum proprium et coniunctum | instrumento próprio e unido | Analogia da união da natureza humana com o Verbo |
+| personalitas | personalidade | Condição de pessoa subsistente, não conjunto de características psicológicas |
+| entelechia | enteléquia | Ato; esclarecimento na nota [^82] |
+| spiritus | espírito / sopro / sopro vital | Conforme o contexto trinitário, vocal ou fisiológico; nota [^83] |
+| suppositio | suposição | Uso lógico: aquilo por que o nome está numa proposição; nota [^84] |
+| peccatum originale / peccatum actuale | pecado original / pecado atual | Distinção entre o pecado transmitido pela origem e o pecado cometido por ato próprio |
+| originalis iustitia | justiça original | Benefício concedido à natureza humana no primeiro pai |
+| Pelagiani / Porphyrius | pelagianos / Porfírio | Designação e nome próprio |
+| homo purus | mero homem | Homem que não é também Deus; não indica pureza moral |
+| satisfactio / satisfacere | satisfação / satisfazer | Reparação da ofensa do pecado |
+| fruitio Dei | fruição de Deus | Posse e gozo de Deus como fim da bem-aventurança |
+| reatus poenae | reato de pena | Obrigação de sofrer a pena devida ao pecado; nota [^85] |
+| confirmatio / chrisma | confirmação / crisma | “Crisma” designa neste trecho a mistura de óleo e bálsamo |
+| species panis et vini | espécies do pão e do vinho | Aparências sensíveis; nota [^87] |
+| pontifices | bispos | Ministros da confirmação no cap. 60 |
+| Nazaraei / Ebionitae / Donatistae | nazarenos / ebionitas / donatistas | Grupos mencionados nos caps. 57 e 59 |
+| virtus instrumentalis | poder instrumental | Eficácia recebida do agente principal |
+| quantitas dimensiva | quantidade dimensiva | Extensão corporal segundo suas dimensões; nota [^88] |
+| concomitantia naturalis | concomitância natural | Presença do que está realmente unido ao termo da conversão sacramental |
+| conversio substantialis / formalis | conversão substancial / formal | Distinção desenvolvida no cap. 63 |
+| contritio / confessio / absolutio | contrição / confissão / absolvição | Terminologia penitencial |
+| claves Ecclesiae | chaves da Igreja | Conhecimento para discernir e poder de ligar e desligar |
+| fictio / ficte | fingimento / com fingimento | Falta da disposição interior correspondente ao sacramento; nota [^89] |
+| extrema unctio | extrema-unção | Conservada a denominação da fonte |
+| potestas ordinis | poder da ordem | Poder espiritual conferido pelo sacramento da ordem |
+| ostiarii / lectores / exorcistae | ostiários / leitores / exorcistas | Ordens descritas no cap. 75 |
+| acolythi / subdiaconi / diaconi | acólitos / subdiáconos / diáconos | Terminologia ministerial |
+| Novatiani | novacianos | Grupo mencionado no cap. 71 |
+| episcopalis potestas | poder episcopal | Distinto do poder sacerdotal quanto ao governo dos fiéis |
+| Ecclesia militans / triumphans | Igreja militante / triunfante | Terminologia eclesiológica |
+| Romanus pontifex | Romano Pontífice | Sucessor de Pedro |
+| proles / fides / sacramentum | prole / fidelidade / sacramento | Os três bens do matrimônio |
+| idem numero / idem specie | o mesmo numericamente / o mesmo segundo a espécie | Identidade individual e identidade específica; nota [^91] |
+| corporeitas | corporeidade | Distinguida como forma substancial e como forma acidental |
+| forma mixti / forma mixtionis | forma do misto / forma da mistura | Conservada a distinção terminológica do cap. 81 |
+| humanitas / forma totius | humanidade / forma do todo | Terminologia da essência humana |
+| humidum naturale | umidade natural | Expressão fisiológica; nota [^92] |
+| usus venereorum | uso de relações sexuais | Também vertido verbalmente como “ter relações sexuais” |
+| Chiliastae | quiliastas | A explicação da fonte fornece “milenaristas” como equivalente |
+| spiritus / aereus | espírito / aéreo | Polissemia de *spiritus* esclarecida na nota [^93] |
 | claritas / agilitas / impassibilitas | claridade / agilidade / impassibilidade | Propriedades dos corpos glorificados |
 | corpus animale / corpus spirituale | corpo animal / corpo espiritual | Mantida a distinção paulina explicada pelo autor |
 | passibilis / impassibilis | passível / impassível | Capacidade ou incapacidade de sofrer |
@@ -14,6 +415,312 @@
 
 ## Decisões
 
+- Tradução feita do latim fornecido. As citações bíblicas e de autores integradas à fonte latina foram traduzidas segundo sua redação, sem substituição por versões portuguesas consagradas. Mantiveram-se as referências, inclusive quando sua numeração parece incomum.
+- Preservados os 176 parágrafos da fonte, seus títulos, seus destaques e as rubricas finais “Fé e razão”, “O ser de Deus” e “A natureza divina”. As três notas do tradutor constituem parágrafos adicionais de aparato.
+- “Mahumetistae” foi modernizado para “muçulmanos”. Preservou-se o teor da argumentação polêmica do cap. 6.
+- “Idiota” e “rusticus” foram traduzidos conforme o contexto por “ignorante”, “homem sem instrução” e expressões equivalentes, evitando o sentido insultuoso moderno de “idiota”.
+- No cap. 1, “pigmentaria” designa a arte de preparar medicamentos; “architectonicae” foi mantido como “arquitetônicas”, acompanhado da explicação presente na fonte.
+- Nota do tradutor [^1], cap. 4: esclarece o sentido técnico de “fantasmas”.
+- Nota do tradutor [^2], cap. 12: esclarece a demonstração *quia* e sua distinção da demonstração *propter quid*.
+- Nota do tradutor [^3], cap. 13: esclarece a amplitude de “movimento” na argumentação aristotélica.
+- No cap. 13, mantiveram-se as formulações do texto fornecido, inclusive “não se unem por si, mas por acidente” no parágrafo 20 e “primeiro motor” no parágrafo 35, sem emenda conjectural.
+- No cap. 16, “possibile esse” foi vertido como “ser meramente possível” quando contraposto ao ser necessário, para evitar a leitura de que se nega a possibilidade da existência de Deus.
+- As interpelações singulares de Hilário foram mantidas em “tu”; o tratamento reverente a Deus nos Salmos foi vertido em “vós”.
+- No sumário, acrescentaram-se títulos descritivos em português correspondentes aos títulos ingleses existentes. A descrição portuguesa traduz a descrição inglesa integral, sem alterar as informações editoriais recebidas. As descrições textuais dos objetos de fontes permanecem intactas, pois não são campos multilíngues.
+- Preservados os 160 parágrafos da fonte dos caps. 17–28, inclusive a ausência de subtítulo nos caps. 20–21 e a ausência de destaque no subtítulo do cap. 24. As três notas do tradutor são parágrafos adicionais de aparato.
+- No cap. 20, “potentia” permanece “potência”, inclusive quando designa a capacidade ativa de mover; “virtus” permanece “poder”. Não foram incorporadas referências ou notas que constavam apenas da tradução inglesa de consulta.
+- No cap. 20, “corpus circulare” e “corpus rectum” foram traduzidos como corpos de movimento circular e retilíneo, respectivamente.
+- Nota do tradutor [^4], cap. 21: esclarece o sentido técnico de “matéria assinalada”.
+- Nota do tradutor [^5], cap. 25: explicita a relação etimológica entre “substância” e “estar sob”, necessária à objeção.
+- Nota do tradutor [^6], cap. 28: esclarece a etimologia latina de “perfeito”, explorada pelo autor.
+- No cap. 24, “designare” foi vertido por “determinar”, preservando a relação entre gênero e diferença; o subtítulo segue o latim fornecido.
+- No cap. 26, preservou-se “o animal não pode existir sem a diferença racional”, conforme o latim, sem acrescentar “ou irracional”.
+- No cap. 27, manteve-se a referência “Jó 8”, conforme a fonte, sem correção conjectural.
+- No cap. 22, a duplicação material “per per se” foi vertida uma única vez como “por si”.
+- Preservados os 181 parágrafos da fonte dos caps. 29–47, além de três parágrafos de notas do tradutor. Mantidos o subtítulo sem destaque do cap. 31, a ausência de subtítulos nos caps. 39 e 41 e o parágrafo final “O conhecimento de Deus” no cap. 43, sem acrescentar marca de título.
+- Nota do tradutor [^7], cap. 29: esclarece “causa equívoca”, distinguindo o sentido técnico do uso corrente de “equívoco”.
+- No cap. 37, “virtus” foi traduzido por “virtude” no argumento que a define como perfeição própria da coisa; nos argumentos sobre capacidade ativa, conserva-se “poder”.
+- No cap. 32, preservado “segundo o modo daquilo que é participado”, conforme “ad modum participati”, sem substituir o particípio por “participante”.
+- No cap. 40, mantida a referência “Sabedoria 8” do latim, sem adotar a referência diferente da tradução inglesa.
+- No cap. 41, “1 Reg. 2:2” foi vertido por “1 Samuel 2:2”, conforme a correspondência entre a nomenclatura da Vulgata e a atual já adotada nas obras irmãs.
+- Nota do tradutor [^8], cap. 43: esclarece a distinção técnica entre privação e simples negação.
+- No cap. 44, preservados o teor de “ex me” na citação do Salmo (“a partir de mim”) e as formas gregas transliteradas “Theos” e “theasthe” fornecidas pela fonte.
+- Nota do tradutor [^9], cap. 46: esclarece o sentido cognoscitivo de “espécie inteligível”, distinto de espécie classificatória.
+- Não foram incorporados os títulos ampliados, as referências adicionais nem as notas presentes somente na tradução inglesa de consulta.
+- Preservados os 191 parágrafos da fonte dos caps. 48–66, além de quatro parágrafos de notas do tradutor. Mantidos os subtítulos sem destaque dos caps. 51 e 54 e todos os parágrafos em negrito e itálico.
+- No cap. 48, §3, mantido “aquilo que Deus entende”, correspondente ao “id quod” fornecido no latim, sem substituí-lo por “aquilo pelo qual”, como faz a tradução inglesa de consulta.
+- Nota do tradutor [^10], cap. 53: esclarece o sentido técnico de “intenção”, conforme a terminologia do Compêndio de teologia.
+- Nota do tradutor [^11], cap. 56: distingue o conhecimento em hábito de seu exercício atual.
+- Nota do tradutor [^12], cap. 58: esclarece “compor e dividir” como afirmar e negar.
+- Nota do tradutor [^13], cap. 63: explica “matéria assinalada” como matéria individuada por dimensões.
+- No cap. 59, preservada a atribuição ao Salmo de “Deus, porém, é veraz”, conforme a fonte, sem corrigir a referência.
+- No cap. 63, §6, “Impassibile” foi entendido como lapso por “impossibile”, conforme a construção e o argumento.
+- No cap. 66, “astrologus” foi traduzido por “astrônomo”, por se tratar especificamente da previsão de eclipses; conservada a referência à “oposição” no parágrafo final.
+- Não foram incorporados títulos ampliados, referências adicionais nem notas presentes somente na tradução inglesa de consulta.
+- Preservados os 163 parágrafos da fonte dos caps. 67–81, além de três parágrafos de notas do tradutor. Mantido sem destaque o subtítulo “A vontade de Deus” ao final do cap. 71; não acrescentado título temático ao cap. 76, ausente no latim fornecido.
+- Nota do tradutor [^14], cap. 67: esclarece os sentidos composto e dividido e a distinção entre necessidade da consequência e do consequente.
+- Nota do tradutor [^15], cap. 69: esclarece o sentido de “espécies de números”.
+- Nota do tradutor [^16], cap. 72: esclarece a amplitude técnica de “apetite”, que também abrange inclinações sem conhecimento.
+- No cap. 69, mantida a distinção entre ciência de visão e ciência de simples inteligência; “ex neutra parte” foi traduzido por “em nenhuma das duas direções”, sem acrescentar explicação temporal ao corpo do texto.
+- No cap. 70, “vilis” foi vertido segundo a inferioridade relativa na ordem dos entes, sem lhe atribuir sentido moral.
+- No cap. 71, preservada a referência a Sabedoria 8, tal como fornecida; não acrescentadas referências numéricas às citações dos Salmos ou aos trechos de Sabedoria 7 e Gênesis 1.
+- No cap. 72, o título latino “Quod Deus est volens” foi traduzido por “Que Deus tem vontade”, conservando a formulação da fonte.
+- Não incorporadas ao cap. 76 as referências parentéticas presentes somente na tradução inglesa de consulta.
+- Preservados os 198 parágrafos da fonte dos caps. 82–101, além de três parágrafos de notas do tradutor. Mantidos os destaques do latim, inclusive a ausência de destaque no subtítulo do cap. 85 e em “A vida de Deus”, ao final do cap. 88.
+- Não acrescentados subtítulos temáticos aos caps. 95, 97 e 101, ausentes no latim fornecido; não incorporadas referências editoriais exclusivas do inglês de consulta.
+- Nota do tradutor [^17], cap. 82: esclarece a expressão técnica *ad utrumlibet*.
+- Nota do tradutor [^18], cap. 93: esclarece a distinção entre *factibilia* e *agibilia* e o sentido amplo de “arte”.
+- Nota do tradutor [^19], cap. 97: esclarece o nome latino do mercúrio e sua função no argumento sobre coisas chamadas vivas por semelhança.
+- A designação bíblica tradicional *I Reg.* foi vertida por “1 Samuel”, conservando os capítulos e versículos fornecidos. Mantidas, sem correção conjectural, as referências a Provérbios 9 e Miqueias 6.
+- Conservadas as referências apenas ao último capítulo de 1 João e de 1 Timóteo, sem acrescentar versículos; não acrescentadas referências numéricas às citações dos Salmos.
+- No cap. 99, *sempiterna* foi traduzido por “eterna”, em consonância com o argumento de uma vida sem sucessão e toda simultânea.
+- No cap. 95, conservadas como afirmações do autor as atribuições polêmicas referentes ao Talmude e aos luciferianos, sem acrescentar identificação histórica ou validação externa.
+- Preservados os 176 parágrafos da fonte, do cap. 102 do livro I ao cap. 20 do livro II, além de três parágrafos de notas do tradutor.
+- Mantidos os destaques do latim, inclusive a ausência de destaque nos subtítulos do cap. 102 do livro I e do cap. 3 do livro II, e em “A potência de Deus”, no final do cap. 5.
+- No Salmo 142:5, *opera* foi traduzido por “obras” e *facta* por “feitos”, conservando a distinção retomada pelo autor na explicação do versículo.
+- Nota do tradutor [^20], livro II, cap. 1: esclarece a distinção entre *operatio* e *factio* e a formação de *manufacta*.
+- Nota do tradutor [^21], livro II, cap. 15: esclarece o sentido causal de *virtualiter*, distinto dos sentidos contemporâneos de “virtual”.
+- Nota do tradutor [^22], livro II, cap. 19: esclarece o termo técnico “diáfano”.
+- No livro II, cap. 16, conservada a menção a “pedras e coisas semelhantes” entre os entes imóveis, conforme o latim fornecido, sem correção conjectural.
+- No livro II, cap. 9, conservada a formulação de que a potência ativa é algo que age e sua essência algo que é, sem substituir a construção latina por uma paráfrase instrumental.
+- No livro II, cap. 7, conservado o caráter fragmentário da segunda citação do Salmo, sem completar sua sintaxe com palavras de outra edição bíblica.
+- Mantidas as referências bíblicas sem versículos quando assim aparecem na fonte; não acrescentadas referências numéricas às citações não identificadas.
+- Preservados os 148 parágrafos da fonte, do livro II, cap. 21 ao cap. 31, além de dois parágrafos de notas do tradutor.
+- No cap. 22, esclarecido o antecedente de *haec* em “As que a incluem”, conservando a distinção entre o que inclui a razão de não ente e o que não implica contradição.
+- No cap. 25, “Deus não tem esse poder” conserva o sentido de *posse* referido à potência passiva no parágrafo, sem atribuir a Deus uma incapacidade de ser.
+- Nota do tradutor [^23], cap. 25: esclarece os termos lógicos “sentido composto” e “sentido dividido”.
+- Nota do tradutor [^24], cap. 30: esclarece “compleição” e “humores” no vocabulário da antiga fisiologia.
+- Mantido o destaque em negrito e itálico do primeiro parágrafo argumentativo do cap. 24.
+- Conservado o parágrafo isolado “A criação em geral”, correspondente a *Creatio commune*, no final do cap. 27, sem acrescentar nível de título.
+- No cap. 30, traduzido *medium* por “centro” no exemplo do movimento natural dos corpos pesados, conforme o sentido da física aristotélica.
+- Preservados os 139 parágrafos da fonte, do livro II, cap. 32 ao cap. 42, além de dois parágrafos de notas do tradutor.
+- Mantido o destaque em negrito e itálico do primeiro parágrafo argumentativo do cap. 33.
+- Conservado o parágrafo isolado “A distinção das coisas”, correspondente a *Distinctio rerum*, no final do cap. 38, sem acrescentar nível de título.
+- Nota do tradutor [^25], cap. 37: esclarece a incomensurabilidade da diagonal do quadrado em relação ao lado.
+- No cap. 38, *quodlibet infinitum acceptum finitum est* foi vertido por “qualquer parte tomada do infinito é finita”, explicitando a consideração de cada trecho finito da sucessão.
+- No cap. 41, *Marchius* foi vertido pela forma consagrada “Marcião”; preservadas a sequência histórica e a distinção entre *Marchiani* e *Marchianistae*, sem harmonizá-las.
+- Nota do tradutor [^26], cap. 42: esclarece o sentido cosmológico de “orbe” e “alma do orbe”.
+- Preservados os 129 parágrafos da fonte, do livro II, cap. 43 ao cap. 54, além de dois parágrafos de notas do tradutor.
+- Mantidos os títulos e os destaques conforme o latim; no cap. 50, não foi acrescentado o subtítulo presente apenas na referência inglesa.
+- Conservado o parágrafo isolado “Criaturas intelectuais”, correspondente a *Creaturae intellectuales*, no final do cap. 45, sem acrescentar nível de título.
+- Nota do tradutor [^27], cap. 47: esclarece o termo técnico “estimativa” na descrição do conhecimento animal.
+- Nota do tradutor [^28], cap. 52: esclarece a distinção entre *esse* e *quod est*, necessária à leitura dos argumentos seguintes.
+- No cap. 49, a sequência corrompida *omncaeles*, na citação de Sabedoria 7:23, foi interpretada conjecturalmente como *omnes* e traduzida por “todos”; mantida a referência bíblica fornecida.
+- No cap. 50, mantida a indicação “capítulo III” de *Dos nomes divinos*, conforme o latim, sem harmonização com o capítulo IV indicado na referência inglesa.
+- No cap. 50, traduzido *forma coloris* por “forma da cor”, sem adotar “calor” da referência inglesa.
+- Nos caps. 52–54, “ser” conserva o sentido técnico de ato de existir; “aquilo que é” e “aquilo pelo qual é” mantêm as distinções expressas pelo autor.
+- Preservados os 130 parágrafos da fonte, dos capítulos 55–61 do livro II, além de três parágrafos de notas do tradutor.
+- Mantido sem destaque o subtítulo do capítulo 60, conforme a fonte.
+- Nota do tradutor [^29], cap. 56: esclarece o sentido técnico de “contato virtual”.
+- Nota do tradutor [^30], cap. 59: esclarece “fantasma” como representação sensível da imaginação.
+- Nota do tradutor [^31], cap. 60: distingue o sentido cognoscitivo de “intenção” do sentido de propósito voluntário.
+- No cap. 56, *confusio* foi traduzido por “agregação”, distinguindo a reunião de componentes que permanecem em ato da mistura propriamente dita.
+- No cap. 55, conservada a citação do salmo identificada apenas por suas palavras iniciais, sem acrescentar numeração ausente da fonte.
+- No cap. 58, mantida a localização da alma concupiscível no coração atribuída a Platão pelo texto, sem harmonização externa.
+- No cap. 61, conservada a atribuição da tradução a Boécio, conforme a fonte.
+- Preservados os 151 parágrafos da fonte, dos capítulos 62–73 do livro II, além de dois parágrafos de notas do tradutor.
+- Mantidos sem destaque os subtítulos dos capítulos 69 e 70, conforme a fonte.
+- Nota do tradutor [^32], cap. 63: esclarece o sentido fisiológico de “temperamento” (*complexio*).
+- Nota do tradutor [^33], cap. 71: esclarece o sentido corporal de “espírito” na fisiologia antiga.
+- No cap. 65, preservadas a referência apenas ao capítulo 2 de Sabedoria e a redação peculiar da citação, sem harmonização com outra versão bíblica.
+- No cap. 68, *adamas* foi traduzido por “diamante”; conservada a atribuição da atração do ferro feita pela fonte.
+- No cap. 70, conservada a referência ao livro XI da Metafísica, conforme a numeração da fonte.
+- No cap. 73, *in III De anima*, quando refere a exposição de Averróis, foi explicitado como “em seu comentário ao livro III de Da alma”, distinguindo-a da obra de Aristóteles.
+- No cap. 73, *phrenetici et lethargici* foi traduzido por “os que sofrem de delírio ou letargia”, preservando os estados descritos sem introduzir diagnósticos modernos.
+- Preservados os 108 parágrafos da fonte, dos capítulos 74–80 do livro II, além de dois parágrafos de notas do tradutor.
+- Mantidos sem destaque os subtítulos dos capítulos 74, 77 e 78; preservado “A alma humana” como parágrafo autônomo ao fim do capítulo 78.
+- Nota do tradutor [^34], cap. 76: esclarece a referência à geração de animais a partir da putrefação como parte da antiga teoria da geração espontânea.
+- Nota do tradutor [^35], cap. 78: esclarece a amplitude semântica de *habitus* que permite aplicá-lo a uma forma ou a um ato.
+- No cap. 78, conservadas “segunda espécie da qualidade” e a referência ao livro III da Física, conforme a fonte, sem correção conjectural.
+- No cap. 79, conservada a referência ao livro XI da Metafísica e mantida sem número de capítulo ou versículo a última citação do Eclesiastes, como na fonte.
+- No cap. 80, a definição de acidente explicita que a ausência de corrupção se refere ao sujeito do qual algo se afasta, preservando a estrutura do argumento.
+- Preservados os 124 parágrafos da fonte, dos capítulos 81–87 do livro II, além de dois parágrafos de notas do tradutor.
+- Nota do tradutor [^36], cap. 81: esclarece “comensuração” como proporção determinada da alma ao corpo, sem sentido de dimensão física.
+- Nota do tradutor [^37], cap. 86: esclarece que “animais anelados” é uma designação antiga e não equivale estritamente à categoria zoológica moderna dos anelídeos.
+- No cap. 82, preservada a repetição de “tem operação por si” no parágrafo 19, presente no latim fornecido.
+- Mantidas as referências a Gênesis 1 nos capítulos 83, 84 e 87, a sequência de citações sob Gênesis 1:26 no cap. 85 e a referência ao livro XI da Metafísica no cap. 84, sem correção conjectural.
+- No cap. 83, mantida sem número de capítulo ou versículo a citação do Salmo, conforme a fonte.
+- No cap. 84, preservada a distinção entre “eterno” e “perpétuo”: o segundo termo pode designar o que existirá sempre, embora tenha começado a existir.
+- No cap. 85, preservado o destaque em negrito e itálico do parágrafo inicial, além dos subtítulos.
+- Preservados os 131 parágrafos da fonte, dos capítulos 88–97 do livro II, além de dois parágrafos de notas do tradutor.
+- Nota do tradutor [^38], cap. 89: esclarece o sentido corporal de “espírito” na fisiologia antiga.
+- Nota do tradutor [^39], cap. 92: identifica Rabi Moisés como Moisés Maimônides.
+- No cap. 90, traduzido *motoribus* por “motores”, conforme o latim fornecido, sem substituí-lo conjecturalmente por “movimentos”.
+- Mantida a referência ao livro XI da Metafísica no cap. 91.
+- Em Daniel 7:10, preservada a expressão numérica da fonte como “dez mil vezes cem mil”.
+- No cap. 90, “Substâncias separadas” permanece como parágrafo simples, conforme a fonte.
+- No cap. 96, preservada a menção somente ao tempo passado ou futuro na composição e divisão, sem acrescentar o presente.
+- Preservados os 149 parágrafos da fonte, do livro II, capítulos 98–101, e do livro III, capítulos 1–9, além de dois parágrafos de notas do tradutor.
+- Nota do tradutor [^40], livro II, cap. 100: esclarece o sentido técnico de “sentido comum”.
+- Nota do tradutor [^41], livro III, cap. 3: esclarece “perfeição segunda” em relação à perfeição primeira.
+- No livro III, cap. 2, traduzido *peccatum* por “falha” no argumento que abrange arte e natureza; mantido “pecado” nos contextos morais.
+- Traduzido *partus monstruosi* por “nascimentos com malformações”, preservando o sentido do exemplo natural.
+- No livro III, cap. 5, traduzido *voluntarie stuprantem* por “quem pratica voluntariamente atos sexuais ilícitos”, conforme o contexto da incontinência.
+- Mantida a referência ao livro XI da Metafísica no livro II, cap. 98.
+- Preservados no prólogo do livro III a numeração Salmos 94:3–5 e todo o texto citado, inclusive “o Senhor não rejeitará seu povo”.
+- No livro III, cap. 3, “O mal” permanece como parágrafo simples; não foi acrescentado subtítulo ausente do latim.
+- No livro III, cap. 9, preservadas a ordem e a distribuição da lista atribuída a Pitágoras, inclusive “par” sob o bem e “ímpar” sob o mal, sem correção conjectural.
+- Preservados os 158 parágrafos da fonte, do livro III, capítulos 10–23, além de dois parágrafos de notas do tradutor.
+- Nota do tradutor [^42], cap. 10: esclarece a distinção técnica entre virtudes “produtivas” e “ativas”.
+- Nota do tradutor [^43], cap. 22: esclarece “misto” no vocabulário da filosofia natural.
+- No cap. 10, mantido “falha” para *peccatum* nos contextos da natureza e da arte, e “pecado” nos contextos morais.
+- No cap. 15, “O fim das coisas” permanece como parágrafo simples, sem acrescentar nível de título ausente da fonte.
+- No cap. 17, preservada a referência ao último capítulo do Apocalipse, sem acrescentar versículo; no cap. 22, preservada a citação do Salmo sem acrescentar numeração.
+- Nos caps. 20–23, preservadas as distinções cosmológicas e naturais do original, inclusive a incorruptibilidade dos corpos celestes e a sucessão das formas no processo da geração.
+- Preservados os 188 parágrafos da fonte, do livro III, capítulos 24–40, além de três parágrafos de notas do tradutor.
+- Mantidos como parágrafos simples “Noções de bem-aventurança” e “A contemplação de Deus”, bem como os subtítulos dos caps. 38–39, sem acrescentar marcação ausente da fonte.
+- Preservado o negrito e itálico dos parágrafos iniciais dos caps. 30, 35 e 36.
+- Nota do tradutor [^44], cap. 24: esclarece o sentido técnico de “agente equívoco”.
+- Nota do tradutor [^45], cap. 27: identifica os cerintianos e esclarece a origem de “quiliastas”.
+- Nota do tradutor [^46], cap. 37: esclarece “inteligência dos princípios”.
+- No cap. 27, mantido “sarracenos” como designação histórica do original.
+- No cap. 38, preservada a citação do Salmo sem acrescentar numeração; no cap. 40, preservada a referência a 2 Coríntios 5 sem acrescentar versículos.
+- No cap. 39, “medium” foi traduzido por “centro” no exemplo do movimento natural do corpo pesado, conforme a cosmologia pressuposta pelo argumento.
+- Preservados os 108 parágrafos da fonte, do livro III, capítulos 41–48, além de dois parágrafos de notas do tradutor.
+- Mantidos os títulos descritivos como parágrafos separados dos cabeçalhos; preservado o negrito e itálico dos títulos descritivos dos caps. 45–48.
+- Nota do tradutor [^47], cap. 41: esclarece o sentido técnico de “fantasma”.
+- Nota do tradutor [^48], cap. 44: esclarece “razões tópicas”.
+- As notas e referências adicionais presentes apenas na tradução inglesa de consulta não foram incorporadas ao texto traduzido do latim.
+- No cap. 42, “intelligere intellectum agentem” foi traduzido como “entender o intelecto agente”, preservando-o como objeto do entendimento.
+- Mantida a numeração XI da Metafísica no cap. 44, conforme a fonte latina.
+- No cap. 47, “suum intellectum esse” foi traduzido como “seu próprio ser entendido”, preservando a formulação passiva do latim.
+- No cap. 47, preservada a citação do Salmo sem acrescentar numeração; mantidas as referências bíblicas explícitas dos caps. 47–48 com capítulo e versículo.
+- No cap. 48, “phrenesim” foi traduzido por “delírio”, conforme o contexto de perda do uso da razão.
+- Preservados os 150 parágrafos da fonte, do livro III, capítulos 49–62, além de dois parágrafos de notas do tradutor.
+- Mantidos os títulos descritivos como parágrafos separados dos cabeçalhos e preservados os destaques em negrito e itálico da fonte.
+- Nota do tradutor [^49], cap. 50: esclarece o sentido lógico de “termo médio”.
+- Nota do tradutor [^50], cap. 57: identifica a “oitava esfera” no contexto da astronomia medieval.
+- No cap. 50, distinguidas as quatro questões aristotélicas: “que é assim?”, “por quê?”, “se existe?” e “o que é?”.
+- No cap. 53, “influentia” foi traduzido por “influxo”, preservando a formulação do título latino.
+- Preservadas as referências a Apocalipse 22 no cap. 53 e a Apocalipse 20 no cap. 57, sem corrigir a numeração da fonte; não foram acrescentados versículos às referências que indicam somente o capítulo.
+- No cap. 51, preservada a formulação de Lucas 22 sobre a disposição de uma “mesa”, sem substituí-la pela redação de outras versões bíblicas.
+- No cap. 57, “astrologi” foi traduzido por “astrônomos”, conforme o contexto de demonstrações sobre distâncias celestes.
+- Nos caps. 55–56, “compreender” conserva o sentido técnico de conhecimento pleno do objeto, distinto da visão da essência, conforme a explicação do próprio autor.
+- Nas citações dirigidas a Deus, empregado o tratamento reverente “vós”; mantido “tu” nas falas dirigidas a Moisés e nos demais endereçamentos singulares humanos.
+- Preservados os 140 parágrafos da fonte, do livro III, capítulos 63–72, além de dois parágrafos de notas do tradutor.
+- Mantido “Providência” como parágrafo autônomo no fim do cap. 63 e preservado o destaque em negrito e itálico do terceiro parágrafo do cap. 68.
+- Nota do tradutor [^51], cap. 65: esclarece o sentido técnico de “agente unívoco”.
+- Nota do tradutor [^52], cap. 69: identifica a geração a partir da putrefação como a antiga concepção da geração espontânea.
+- Preservadas as referências a Apocalipse 21 no cap. 63 e a Jeremias 24 no cap. 68, sem corrigir a numeração da fonte; “Isaiae ult.” foi traduzido por “último capítulo de Isaías”, sem acrescentar numeração.
+- No cap. 65, “de novo” foi traduzido por “com um início”, para exprimir o começo temporal da criação, e não uma segunda criação.
+- Nos caps. 69–70, mantida a distinção entre a causalidade própria das criaturas e sua dependência do poder divino; “totus ab utroque” foi vertido por “inteiramente por ambos”.
+- Nas passagens sobre causalidade física, “pati” foi vertido por “receber a ação” quando “padecer” poderia sugerir sofrimento.
+- Preservados os 141 parágrafos da fonte, do livro III, capítulos 73–84, além de três parágrafos de notas do tradutor.
+- Mantidos o destaque em negrito e itálico do terceiro parágrafo do cap. 73 e o parágrafo autônomo “Providência e criaturas intelectuais” no fim do cap. 77.
+- Nota do tradutor [^53], cap. 76: esclarece o “círculo oblíquo” como o percurso anual aparente do Sol ao longo do zodíaco.
+- Nota do tradutor [^54], cap. 80: explica o termo de origem grega “anagogen”, traduzido por “elevação”.
+- Nota do tradutor [^55], cap. 82: esclarece o sentido metafísico de “mais formal”, sem confundi-lo com formato exterior.
+- Preservadas as referências a Mateus 6 no cap. 75 e a Jó 33 no cap. 83, sem corrigir a numeração da fonte; conservado também “meu Pai” na citação de Mateus.
+- No cap. 73, preservado “ymarmenen” na forma transliterada da fonte, dentro do trecho em itálico.
+- No cap. 80, “secundum uniuscuiusque analogiam” foi vertido por “segundo a proporção de cada um”, conservando o sentido de adequação à capacidade do destinatário.
+- No cap. 84, “phrenetici” foi vertido por “os que sofrem de delírio”, e “medullitus in rebus” por “penetrar no íntimo das coisas”; preservadas as afirmações físicas e astrológicas da fonte.
+- Preservados os 113 parágrafos da fonte, do livro III, capítulos 85–93, além de dois parágrafos de notas do tradutor.
+- Preservados os destaques em negrito e itálico e o parágrafo autônomo “Outras questões sobre a providência” no fim do cap. 92.
+- Nota do tradutor [^56], cap. 85: esclarece o sentido de “coléricos” na antiga teoria dos humores.
+- Nota do tradutor [^57], cap. 93: explica a relação verbal entre “fatum”, “effata” e “praelocuta”, que não se conserva na tradução por “destino”.
+- No cap. 86, mantida a sequência do argumento por redução ao absurdo sobre o possível e o necessário, sem acrescentar uma premissa à formulação da fonte.
+- No cap. 90, preservada a terceira pessoa de “proposuerit” na citação de Deuteronômio 30:15, sem substituí-la pela primeira pessoa de versões bíblicas correntes; mantida também a indicação 15:17 de Eclesiástico dada pela fonte.
+- Nos caps. 85–92, preservadas as afirmações físicas, médicas e astrológicas da fonte, inclusive a atribuição de potências do ímã, de pedras e de ervas aos corpos celestes.
+- Preservados os 129 parágrafos da fonte, do livro III, capítulos 94–103, além de dois parágrafos de notas do tradutor.
+- Preservados os títulos sem destaque dos caps. 96, 99 e 103 e os parágrafos iniciais em negrito e itálico dos caps. 99 e 102.
+- No cap. 94, § 5, traduzido literalmente “Quod prius fuit ostensum” por “o que foi demonstrado anteriormente”, sem corrigir a aparente incongruência com a universalidade da providência defendida no contexto.
+- No cap. 96, “I Reg. 15:29” foi vertido como “1 Samuel 15:29”, conforme a convenção das obras irmãs; preservados os números dados pela fonte em Joel 2:13, Provérbios 3:19, Sabedoria 11:21 e Jó 11.
+- No cap. 96, mantida a distinção entre a saúde corporal do enfermo e a salvação daquele que pede, ambas expressas pelo latim “salus”.
+- Nota do tradutor [^58], cap. 101: explica a relação verbal entre “miraculum”, “mirum” e “admirari”, parcialmente perdida em português.
+- Nota do tradutor [^59], cap. 103: esclarece o sentido histórico de “fascinação”.
+- Preservadas as afirmações naturais e médicas da fonte, inclusive sobre geração de fêmeas, geração de animais por putrefação, ação da imaginação sobre doenças e contaminação de espelhos pelo olhar.
+- Preservados os 150 parágrafos da fonte, do livro III, capítulos 104–117, além de dois parágrafos de notas do tradutor.
+- Mantidos os títulos sem destaque dos caps. 106, 107, 112 e 113, os parágrafos iniciais em negrito e itálico dos caps. 110, 115 e 117 e a rubrica isolada “A lei divina” ao final do cap. 113.
+- Nota do tradutor [^60], cap. 106: explica a dupla acepção de “malefici”, que sustenta o jogo verbal do argumento.
+- Nota do tradutor [^61], cap. 108: esclarece o sentido técnico de “fantasmas”, especialmente sujeito a confusão neste contexto de discussão dos demônios.
+- No cap. 108, “peccatum” foi traduzido por “falha” quando designa defeitos nas coisas naturais, e por “pecado” quando se refere à vontade.
+- No cap. 112, “propter seipsas” foi traduzido por “em vista de si mesmas”, para explicitar a finalidade do governo divino; no mesmo capítulo, “reverentia” em Sabedoria 12:18 foi vertido por “consideração”.
+- Mantidas as afirmações naturais da fonte sobre a ação dos corpos celestes, a geração por putrefação e a constituição corporal exigida pelo tato, assim como o caráter hipotético ou relatado dos prodígios atribuídos às artes mágicas.
+- Preservados os 154 parágrafos da fonte, do livro III, capítulos 118–130, além de três parágrafos de notas do tradutor.
+- Mantidos os títulos sem destaque dos caps. 122 e 129, o parágrafo inicial em negrito e itálico do cap. 118 e a rubrica isolada “Dos conselhos” ao final do cap. 129.
+- Nota do tradutor [^62], cap. 119: explicita o vínculo verbal entre *religio*, *ligare* e *obligare*. Nota [^63], cap. 120: esclarece “manes”. Nota [^64], cap. 122: explica o sentido técnico de “simples fornicação”.
+- No cap. 120, parágrafo 13, “a primeira dessas posições” explicita que o argumento se refere à identificação de Deus com a alma do mundo.
+- Conservadas as referências bíblicas fornecidas pelo latim, inclusive Êxodo 20:2 no cap. 118 e 1 Coríntios 6:10 no cap. 122, sem corrigi-las a partir da tradução inglesa. As referências ao último capítulo de uma epístola foram traduzidas como tais.
+- Mantidas as afirmações naturais, sociais e históricas da fonte, inclusive as relativas às diferenças entre homem e mulher, aos costumes matrimoniais e a Nicolau; não foram acrescentadas ressalvas doutrinais ou históricas ao texto.
+- No cap. 129, a rubrica latina “Consilii” foi vertida por “Dos conselhos”, conforme sua função de transição para o cap. 130.
+- Preservados os 149 parágrafos da fonte, do livro III, capítulos 131–140, além de três parágrafos de notas do tradutor.
+- Mantidos o título sem destaque do cap. 135, a rubrica isolada “Recompensa e pena” ao final do cap. 139 e a ausência de subtítulo no cap. 140.
+- Conservadas as referências bíblicas tal como fornecidas pelo latim, inclusive 1 Timóteo 4 e Romanos 12 no cap. 132; não foram acrescentadas as referências nem as notas presentes apenas na tradução inglesa de consulta.
+- No cap. 132, parágrafo 27, “modus videndi” foi entendido como lapso por “modus vivendi” e traduzido como “modo de vida”, conforme o contexto.
+- No cap. 134, parágrafo 4, conservado “reis” para “reges” na descrição das abelhas, sem atualizar a afirmação natural da fonte.
+- Nota [^65], cap. 134: distingue os termos técnicos “magnanimidade” e “magnificência”. Nota [^66], cap. 139: esclarece o sentido médico antigo de “humores”. Nota [^67], cap. 139: identifica a expressão técnica traduzida por “dispersar a visão”.
+- No cap. 136, parágrafo 15, explicitado “o matrimônio” como referente de “illud” na ressalva de que, para determinada pessoa, ele pode ser melhor.
+- No cap. 138, parágrafo 10, “voluntatis intentione” foi vertido por “intensidade da vontade”, conforme a sequência argumentativa sobre querer mais intensamente e firmar-se pelo voto.
+- Preservados os 132 parágrafos da fonte, do livro III, capítulos 141–153, além de um parágrafo de nota do tradutor.
+- Mantidos o destaque integral do terceiro parágrafo do cap. 144, a rubrica isolada “Graça” no final do cap. 146 e o subtítulo sem destaque do cap. 150.
+- No cap. 141, parágrafo 8, “inferiora” foi entendido como lapso por “interiora” e traduzido por “interiores”, conforme a ordenação dos bens exteriores ao corpo e à alma desenvolvida no contexto.
+- Conservadas as referências bíblicas fornecidas pelo latim, inclusive Apocalipse 22:27, Lamentações 4 e Eclesiástico 15:17, sem correção de sua numeração.
+- No cap. 146, parágrafo 11, o número isolado “22” foi integrado à referência “Mateus 5:22”, conservando-se também a menção anterior a Mateus 5.
+- No cap. 149, parágrafo 7, “motus” foi lido como acusativo plural e “auxilium divinum” como sujeito: o auxílio divino precede os movimentos da vontade.
+- Nota [^68], cap. 150: esclarece a relação lexical entre *gratia*, *gratis* e *gratus* e o sentido literal de *gratia gratum faciens*.
+- Preservados os 135 parágrafos da fonte, do livro III, capítulos 154–163, e do livro IV, capítulos 1–3, além de dois parágrafos de notas do tradutor.
+- Mantidos o destaque integral do terceiro parágrafo do cap. 155, o subtítulo sem destaque do cap. 159, a referência em bloco de citação no prólogo do livro IV e a rubrica isolada “Trindade”.
+- No cap. 154, “idiota” foi traduzido por “não instruído”, “monstra” por “seres com malformações” e “Pythones” por “os que evocam espíritos”, conforme os sentidos contextuais.
+- Nota [^69], cap. 154: identifica como geomancia a adivinhação pelo traçado de pontos. Nota [^70], no mesmo capítulo: identifica brevemente Priscila e Montano.
+- Conservadas as referências bíblicas fornecidas pelo latim, inclusive Jó 38:29 no livro IV, cap. 3. Referências ao último capítulo foram mantidas sem acrescentar versículos.
+- No cap. 162, o número isolado “20” foi integrado à referência “15:20”, sob a menção anterior a Eclesiástico; “intentator malorum” foi traduzido por “não pode ser tentado pelo mal”.
+- No prólogo do livro IV, conservadas as imagens “gota de suas palavras” e “trovão de sua grandeza”, retomadas expressamente pela argumentação.
+- Preservados os 117 parágrafos da fonte, nos capítulos 4–9 do livro IV, além de três parágrafos de notas do tradutor; mantidos os títulos e os subtítulos em negrito e itálico.
+- Nota [^71], cap. 5: explica o sentido técnico de “suposto”. Nota [^72], cap. 7: esclarece “tetragrama”. Nota [^73], cap. 8: explicita a distinção entre *a se* e *per se*, indispensável ao argumento.
+- Conservadas as referências bíblicas fornecidas pelo latim, inclusive Êxodo 20 e João 5 no cap. 5, Jó 38:4 no cap. 6 e Eclesiástico 24:8 e 24:5. Referências ao último capítulo foram mantidas sem acrescentar versículos.
+- No cap. 6, o número isolado “20” foi integrado à referência “5:20”, sob a menção anterior a João.
+- No cap. 7, mantida a formulação “o Senhor, nosso justo” em Jeremias 23, conforme *dominus iustus noster*, sem substituí-la por uma redação bíblica corrente.
+- No cap. 8, conservada a leitura condicional de João 14:2 adotada e desenvolvida pelo autor, sem ajustar a citação a traduções bíblicas modernas.
+- “Purus homo” foi traduzido por “mero homem”; “naturalis Deus”, por “Deus por natureza”; e “auctoritates”, nos subtítulos dos caps. 8–9, por “argumentos de autoridade”.
+- Preservados os 100 parágrafos da fonte nos capítulos 10–16 do livro IV, além de dois parágrafos de notas do tradutor. Mantido sem ênfase o subtítulo do cap. 11, conforme a fonte.
+- Nota [^74], cap. 11: explica o sentido técnico de “fantasma”. Nota [^75], no mesmo capítulo: esclarece “intenção inteligida” e o uso de “verbo” na analogia intelectual.
+- Mantidas as distinções entre “entender” e “ser entendido”, “concepção” e “parto”, necessárias aos argumentos sobre a geração inteligível.
+- No cap. 11, *Luciferum* foi traduzido por “estrela da manhã”, conforme o sentido astronômico da citação; *uterus* foi conservado como “útero”, distinto de *sinus*, “seio”.
+- No cap. 13, conservadas a redação abreviada de João 1:14, sem inserir “glória”, e a construção de João 1:3: “O que foi feito, nele era vida”, na qual se apoia o argumento.
+- No cap. 16, “IV Reg. 2” foi vertido por “2 Reis 2”, seguindo a equivalência entre a numeração da Vulgata e os nomes atuais dos livros adotada nas obras irmãs; conservados capítulo e ausência de versículos.
+- Preservados os 97 parágrafos da fonte nos capítulos 17–23 do livro IV, além de dois parágrafos de notas do tradutor. Mantido sem ênfase o subtítulo do cap. 21.
+- Nota [^76], cap. 19: esclarece a relação verbal entre *spiratio* e *spiritus*, que fundamenta a analogia do texto. Nota [^77], cap. 20: esclarece o sentido fisiológico histórico de “espírito vital”.
+- Em Filipenses 3:3, no cap. 17, *qui spiritui Deo servimus* foi traduzido por “nós que servimos ao Espírito, que é Deus”, distinguindo-o da variante instrumental “nós que servimos pelo Espírito do Senhor”, necessária ao argumento.
+- Conservadas as referências e redações próprias do latim, inclusive Mateus 22 no cap. 17, João 6:64 no cap. 20 e a distinção entre “filhos” e “filhas” em Isaías 4:4 no cap. 21. As indicações *ult.* foram traduzidas por “último capítulo”, sem acrescentar versículos.
+- No cap. 23, traduzido “espírito das tempestades” para conservar a extensão semântica de *spiritus* explicada pelo autor; mantido “espírito soberano” para *spiritus principalis* no cap. 22.
+- As citações, notas e referências adicionais presentes somente na tradução inglesa do cap. 23 não foram incorporadas ao texto derivado do latim.
+- Preservados os 111 parágrafos da fonte nos capítulos 24–33 do livro IV, além de dois parágrafos de notas do tradutor. Mantidos sem ênfase os subtítulos dos capítulos 25 e 33 e a rubrica “Encarnação” ao final do capítulo 26.
+- Nota [^78], cap. 24: esclarece o sentido técnico de “posse” na oposição entre privação e *habitus*. Nota [^79], cap. 30: identifica o pressuposto cosmológico aristotélico do argumento sobre o corpo celeste.
+- No cap. 24, distinguidos “provém”, “emana” e “procede” onde o autor compara expressamente esses termos. Nos demais argumentos, *esse ab* foi vertido por “proceder de” quando designa a origem pessoal.
+- No cap. 26, *quae multiplicat Trinitatem* foi traduzido por “que dá lugar à pluralidade na Trindade”, preservando a referência à distinção das pessoas.
+- Conservadas as referências e redações bíblicas próprias da fonte, inclusive Ezequiel 1:3, João 3:13 com a citação prolongada no cap. 30 e 2 Coríntios 6:14. As remissões a versículos isolados foram explicitadas com o livro e o capítulo já indicados no contexto.
+- Preservada no cap. 29 a nota editorial sobre Romanos 5:9, traduzida como “A Vulgata traz *ipsius*”, mantendo a leitura latina e a posição da nota.
+- Preservados os 112 parágrafos da fonte nos capítulos 34–40 do livro IV, além de dois parágrafos de notas do tradutor. Mantido sem ênfase o subtítulo do capítulo 37.
+- Nota [^80], cap. 34: esclarece o sentido técnico de “suposto”. Nota [^81], cap. 36: esclarece “parte potencial” como faculdade da alma.
+- No cap. 36, conservado *theandricam* e traduzida a explicação *dei-virilem* por “divino-humana”.
+- No cap. 38, *quaedam pars eius*, a respeito da relação entre pessoa e hipóstase, foi traduzido por “certa subdivisão dela”, preservando o sentido lógico da classificação.
+- No cap. 37, *habitu inventus ut homo* foi traduzido por “Encontrado em seu aspecto como homem”; conservada a comparação subsequente com a veste.
+- Mantidas as redações bíblicas próprias da fonte, inclusive “quando ainda éramos inimigos” em Romanos 5:8 e a construção de Hebreus 2:10 conforme empregada no argumento. Referências a versículos isolados foram explicitadas com o livro e o capítulo dados no contexto.
+- Preservados os 134 parágrafos da fonte nos capítulos 41–52 do livro IV, além de três parágrafos de notas do tradutor. Mantidos sem ênfase os subtítulos dos capítulos 43 e 44 e preservada a ênfase do terceiro parágrafo do capítulo 51.
+- Nota [^82], cap. 44: esclarece “enteléquia” e o sentido de corpo “organizado”. Nota [^83], cap. 46: explicita a polissemia de *spiritus*, necessária às analogias com a voz e a geração. Nota [^84], cap. 49: esclarece o sentido lógico de “suposição”.
+- No título do cap. 46, traduzido *natus est* por “nasceu”, conforme o latim fornecido, embora o título do sumário empregue “foi concebido”.
+- Nos argumentos sobre operações naturais, *peccatum* foi traduzido por “falha” quando designa deficiência sem culpa moral, especialmente no exemplo da toupeira e nas falhas da geração do cap. 51.
+- Mantidas as concepções de geração e fisiologia apresentadas pela fonte, inclusive a alternativa à posição aristotélica no cap. 45, sem atualização de suas afirmações.
+- No cap. 50, conservadas a referência Gênesis 2:15 tal como fornecida e a ausência de numeração do Salmo citado; o versículo isolado 3 foi explicitado como Jó 14:3. Preservada a redação “no qual todos pecaram” em Romanos 5:12.
+- No cap. 52, parágrafo 18, conservada a correspondência entre “privação” e “deficiência” conforme o latim fornecido, sem emenda conjectural.
+- Preservados os 143 parágrafos da fonte nos capítulos 53–62 do livro IV, além de três parágrafos de notas do tradutor. Mantidas as ênfases dos subtítulos e do terceiro parágrafo do capítulo 55.
+- Conservado o parágrafo isolado *Sacramenti*, ao final do cap. 55, como “Do sacramento”, segundo sua forma genitiva, sem reconstruir um título ausente.
+- Preservada a referência ao “vigésimo sétimo argumento” no cap. 55, embora o argumento correspondente não apareça no trecho fornecido do cap. 53.
+- Mantidas as referências bíblicas sem acréscimo de capítulos ou versículos ausentes e traduzida a redação própria das citações, inclusive “a lei foi nosso pedagogo em Cristo”, no cap. 55.
+- Nota [^85], cap. 59: esclarece o sentido técnico de “reato de pena”. Nota [^86], cap. 60: explicita a relação entre “crisma”, “Cristo”, “cristãos” e a unção. Nota [^87], cap. 61: esclarece o sentido eucarístico de “espécies”.
+- No cap. 60, preservada a afirmação da fonte sobre a administração da confirmação somente pelos bispos, sem atualização disciplinar.
+- Preservados os 144 parágrafos da fonte nos capítulos 63–75 do livro IV, além de três parágrafos de notas do tradutor. Mantidos os títulos simples dos caps. 63 e 70 e os subtítulos em negrito e itálico dos demais.
+- No cap. 63, traduzida a oposição entre “hic est corpus meum” e “hoc est corpus meum” por “aqui está meu corpo” e “isto é meu corpo”; conservada também a retomada de “hic” na explicação subsequente da fonte, sem emenda.
+- No cap. 69, conservada a referência Mateus 25:17 tal como fornecida. Não acrescentados capítulos ou versículos ausentes no latim, inclusive na citação do cap. 68.
+- No cap. 71, traduzido “doleatis” por “entristecer-vos” na citação de 2 Coríntios 2:6, sem substituir a redação fornecida pela de uma versão bíblica conhecida.
+- Conservadas a exposição histórica sobre a extrema-unção, suas condições e partes ungidas, e a classificação das ordens no cap. 75, sem atualização disciplinar.
+- Nota [^88], cap. 63: esclarece “quantidade dimensiva”. Nota [^89], cap. 72: esclarece o sentido sacramental de “fingimento”. Nota [^90], cap. 75: explica a função dos ostiários e situa historicamente os graus ministeriais descritos.
+- Preservados os 131 parágrafos da fonte nos capítulos 76–84 do livro IV, além de três parágrafos de notas do tradutor. Conservados os títulos, os subtítulos em negrito e itálico, a abertura destacada do cap. 80 e a linha simples “Ressurreição e juízo” ao fim do cap. 78.
+- Conservadas as referências Isaías 9:6 e Isaías 65:17 tal como fornecidas. “Último capítulo” traduz “ult.” sem acrescentar números de capítulos ou versículos ausentes na fonte.
+- No cap. 76, “pallis” foi traduzido por “corporais”, no contexto dos panos litúrgicos empregados na consagração eucarística; no cap. 77, “balivus” por “oficial régio”.
+- Conservadas as explicações fisiológicas e cosmológicas da fonte, inclusive sobre o sêmen, a umidade natural e os corpos celestes, sem atualização conceitual.
+- Mantidos “corpo animal” nas citações paulinas e “sarracenos” na exposição histórica do cap. 83.
+- Nota [^91], cap. 80: esclarece a distinção entre identidade numérica e específica. Nota [^92], cap. 83: explica “umidade natural”. Nota [^93], cap. 84: esclarece a polissemia de “spiritus” necessária à compreensão da opinião refutada.
 - Preservados os 113 parágrafos da fonte nos capítulos 85–97 do livro IV, além de dois parágrafos de notas do tradutor. Mantido sem destaque o subtítulo do cap. 95, conforme a fonte.
 - Conservadas as referências e a redação própria das citações, inclusive 1 Coríntios 15:51, Lucas 16:22 e Isaías 65:17. Não foram acrescentados números de versículos às referências que só indicam livro ou capítulo; “ult.” permanece “último capítulo”.
 - No cap. 91, “per speciem” foi traduzido por “pela visão”, em oposição a “pela fé”; “dissolvi”, na citação de Filipenses 1:23, por “partir”, conservando-se “dissolução do corpo” na explicação subsequente.

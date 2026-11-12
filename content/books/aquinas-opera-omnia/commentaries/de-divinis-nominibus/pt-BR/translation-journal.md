@@ -1,6 +1,188 @@
+# Diário de tradução — Comentário ao livro Dos Nomes Divinos de Dionísio (pt-BR)
+
+Fonte: la/ — texto latino das edições Leonina / Marietti, reproduzido de aquinas.cc, conforme book.json. Tradução inglesa de Harry C. Hannon consultada apenas como referência.
+Destino: pt-BR.
 
 ## Termos
 
+| Latim | Português | Notas |
+|---|---|---|
+| Prooemium | Prólogo | Conforme os comentários ao *De Trinitate* e ao *Livro das Causas*. |
+| Sanctus Thomas Aquinas | Santo Tomás de Aquino | Nome do autor nos metadados. |
+| Dionysius / beatus Dionysius | Dionísio / bem-aventurado Dionísio | Conserva-se o título apenas onde consta do original. |
+| Platonici | os platônicos | Conforme os diários das obras próximas. |
+| sacrae Scripturae | Sagradas Escrituras | |
+| divina essentia / distinctio personarum | essência divina / distinção das pessoas | |
+| naturalis ratio | razão natural | |
+| intellectus / intelligere | intelecto / inteligir | Conforme o *Livro das Causas*. |
+| apprehendere / concipere | apreender / conceber | Mantida a distinção. |
+| esse / ens | ser / ente | Nunca se traduz *esse* por “existência”. |
+| unum / unitas | uno / unidade | |
+| bonitas / deitas | bondade / deidade | |
+| primum bonum / primum vivum | primeiro bem / primeiro vivente | |
+| ipsum bonum / per se bonum | o próprio bem / bem por si | |
+| principale bonum / superbonum | bem principal / superbem | |
+| supervita / supersubstantia | supervida / supersubstância | |
+| deitas thearchica / principalis deitas | deidade teárquica / deidade principal | Preservada a glosa do autor. |
+| participatio / per modum participationis | participação / por modo de participação | |
+| species separatae / homo separatus | espécies separadas / homem separado | |
+| species humanitatis | espécie da humanidade | Vocabulário da exposição da doutrina platônica. |
+| materia individualis | matéria individual | |
+| per se | por si | Conforme o comentário ao *De Hebdomadibus*. |
+| remotio / removere | remoção / remover | Negação de atributos segundo o modo como se encontram nas criaturas. |
+| unitio / discretio | unição / distinção | Nos títulos do sumário; “unição” segue o *Livro das Causas*. |
+| virtus | virtude / poder | “Poder” nos títulos relativos ao atributo divino; “virtude” para a oração. |
+| aevum | evo | Conforme o *Livro das Causas*. |
+| Hierotheus | Hieroteu | Nome do sumário. |
+| eloquia / sancta eloquia | oráculos / santos oráculos | Designam os textos da revelação, identificados pelo comentário com as Sagradas Escrituras. |
+| thearchia / thearchicus | tearquia / teárquico | “Dearquia” não é empregado; conserva-se a família terminológica de “deidade teárquica”. |
+| scientia / cognitio | ciência / conhecimento | Mantida a distinção, sobretudo na exposição da ciência divina. |
+| virtus cognoscitiva / virtus intellectualis | faculdade cognoscitiva / faculdade intelectual | *Virtus* também se verte por “poder”, “capacidade” ou “virtude”, conforme o contexto. |
+| comprehendere / contemplari | compreender / contemplar | A compreensão implica conhecer tão perfeitamente quanto o objeto é cognoscível; a contemplação não implica essa exaustividade. |
+| incontemplabilis / infigurabilis | incontemplável / não figurável | Mantidas as negações distintas de “incompreensível” e “incorpóreo”. |
+| in statu viae / in patria | no estado de via / na pátria | Vida presente e condição dos bem-aventurados; nota em dedivnom-c02 [68]. |
+| purgatio / illuminatio / perfectio | purificação / iluminação / perfeição | Tríade dionisiana. |
+| deiformis / deificare / deificus | deiforme / deificar / deificante | |
+| monas / impartibilitas | mônada / indivisibilidade | |
+| processus / processio | processo / processão | “Processão” para a comunicação das perfeições divinas às criaturas. |
+| substantifica bonitas | bondade substancificante | Bondade que dá substância às coisas, conforme a explicação do comentário. |
+| hypostasis / suppositum | hipóstase / supósito | Conforme os comentários ao *Livro das Causas* e ao *De Trinitate*, respectivamente. |
+| Timotheus / Valentinus / Manichaeus | Timóteo / Valentim / Mani | “Mani” para o nome singular, conforme o *Compêndio de teologia*. |
+| Arius / Apollinaris / Nestorius / Eutyches | Ário / Apolinário / Nestório / Eutiques | |
+| supercoelestis / supermundanus | supraceleste / supramundano | |
+| superprincipale principium | princípio superprincipal | Conserva a composição enfática do original. |
+| superbonitas / superessentia | superbondade / superessência | Conforme a família de compostos já adotada. |
+| manuductio | condução pela mão | Preservada a imagem, retomada expressamente pelo comentário. |
+| remotio / abnegatio | remoção / negação | Primeiro modo de denominação de Deus. |
+| quidditas | quididade | Mantida distinta de “essência” quando ambas aparecem no original. |
+| immissiones / susceptiones | infusões / recepções | Designam as unições das mentes à bondade divina. |
+| causa perfectiva / contentiva / conversiva | causa perfectiva / contentiva / que reconduz a si | O próprio comentário explica os três modos de causalidade. |
+| incircumfinite | sem circunscrição | Ausência de delimitação, explicada em [222] pela infinitude das perfeições divinas. |
+| electinas / electrinas | de eletro | Conserva-se a designação do material das figuras visionárias, sem adotar “âmbar” da referência inglesa. |
+| agiographa | livros hagiógrafos | Designa escritos bíblicos, não biografias de santos. |
+| supercollocatio / collocatio | posição eminente / estabelecimento | Conservada a distinção entre os termos; o comentário explica sua aplicação à existência divina em si mesma. |
+| inegressibilis | que não sai de si | Conforme a explicação de Tomás em [74]. |
+| fontana deitas / deigena deitas | deidade fontal / deidade geradora de Deus | O segundo termo designa o Pai enquanto Deus que gera, conforme [169]. |
+| substantificatio / vivificatio / sapientificatio | substancificação / vivificação / sapientificação | Conservada a família de “substancificante”, já adotada. |
+| imparticipabilitas / imparticipatus | imparticipabilidade / não participado | Distintos da participação por semelhança. |
+| patriarchia / filiarchia | princípio da paternidade / princípio da filiação | Conforme a explicação de Tomás em [171]. |
+| pullulationes | brotos | Preservada a imagem vegetal, desenvolvida por “flores”. |
+| conversio, nas relações pessoais | reciprocidade | Designa a inversão dos termos da relação, exemplificada por “o Pai gera o Filho e vice-versa”. |
+| Origenes | Orígenes | Forma portuguesa corrente. |
+| adimpletiva | plenificadora | Designa a causalidade pela qual a deidade preenche as coisas com suas perfeições. |
+| aevum | evo | Medida do ser e da duração; mantida a forma já empregada nos títulos do livro. |
+| superdeus | super-Deus | Conservada a expressão de eminência do texto dionisiano. |
+| sensualitas | sensualidade | No sentido técnico de potência apetitiva sensível. |
+| revelata mente | com a mente desvelada | Conforme a explicação de Tomás: intelecto livre do obscurecimento das imagens sensíveis. |
+| conspicax | penetrante | Aplicado às definições, sínteses e exposições intelectuais de Hieroteu. |
+| christi Dei | cristos de Deus | Conservada a expressão, explicada por Tomás em relação aos apóstolos. |
+| Epicurei / Peripatetici / Stoici / Platonici | epicureus / peripatéticos / estoicos / platônicos | Nomes das escolas filosóficas. |
+| boniforme / boniformis | conformidade ao bem / conforme ao bem | Conforme a explicação de Tomás: conformidade à bondade divina. |
+| bene esse | bem-ser | Distingue a perfeição do ente de seu simples ser. |
+| mansio / collocatio / continentia | morada / estabelecimento / contenção | Na conservação dos anjos; *collocatio* também recebe a glosa “fundamento”. |
+| intelligibilis / intellectualis | inteligível / intelectual | Preservada a distinção entre ser entendido e entender. |
+| nescientia / ignorantia | desconhecimento / ignorância | A ignorância é o desconhecimento daquilo que se é naturalmente apto a saber e se deve saber. |
+| convolutio | revolução | Movimento circular; aplicado analogicamente às operações angélicas. |
+| materia prima / privatio | matéria primeira / privação | Preservada a distinção aristotélica explicitada por Tomás. |
+| supermundanus / circamundanus / mundanus | supramundano / circunmundano / mundano | Respectivamente aplicados aos anjos assistentes, aos ministrantes e às almas, conforme a explicação do texto. |
+| fontanus | fontal | Designa aquilo que tem caráter de fonte. |
+| consonantia / claritas | consonância / claridade | Termos centrais da exposição sobre a beleza. |
+| Coelestis hierarchia / Symbolica theologia | Hierarquia celeste / Teologia simbólica | Títulos das obras dionisianas. |
+| pulchrum / pulchritudo | belo / beleza | Distinção entre o participante e a beleza participada; em Deus não se separam. |
+| amor / dilectio / caritas | amor / dileção / caridade | Mantida a distinção vocabular necessária à discussão sobre os nomes do amor. |
+| amabile / diligibile | amável / digno de dileção | Preserva a correspondência com *amor* e *dilectio*. |
+| appetitus | apetite | Termo filosófico abrangente, aplicado ao apetite natural, sensível e racional. |
+| amor benevolentiae / amicitiae | amor de benevolência / de amizade | Amor pelo qual se quer o bem daquele que é amado. |
+| motus circularis / rectus / obliquus | movimento circular / reto / oblíquo | Aplicados analogicamente às operações das mentes angélicas e das almas. |
+| difformitas | diversidade de forma | Contrapõe-se à uniformidade, sem sugerir deformidade. |
+| statio | repouso / estado de repouso | Neste trecho, conforme a explicação expressa por *quies*. |
+| concretio | concreção | Composição ou reunião de partes num todo, conforme a exposição de Tomás. |
+| Ignatius / Philo / Boetius | Inácio / Fílon / Boécio | Formas portuguesas dos nomes. |
+| extasis | êxtase | Saída de si produzida pelo amor, conforme a explicação de Tomás. |
+| zelus / zelotes | zelo / zeloso | Intensidade do amor; não se restringe ao ciúme possessivo. |
+| amor concupiscentiae | amor de concupiscência | Amor de um bem desejado para quem ama; não implica necessariamente desordem moral. |
+| unitio / concretio | unição / concreção | A unição indica conveniência em algo uno; a concreção conserva a distinção dos unidos. |
+| per se / per accidens | por si / por acidente | Distinção causal e metafísica, explicada na nota [^14]. |
+| privatio / subiectum | privação / sujeito | Termos técnicos da análise do mal e do bem em que ele se encontra. |
+| amor mundanus / supermundanus | amor mundano / supramundano | Distinção entre o amor dos bens do mundo sensível e o dos bens inteligíveis. |
+| boniformis / deiformitas | boniforme / deiformidade | Conformidade ao bem e semelhança com Deus; conservada a distinção entre deiformidade e deidade. |
+| binarius | díade | Par de princípios cuja unidade causal é discutida. |
+| concupiscibilis / irascibilis | concupiscível / irascível | Potências do apetite sensitivo. |
+| principatus | principado | Conservado para acompanhar as duas explicações de Tomás em [766]. |
+| phantasia proterva | imaginação insolente | A faculdade imaginativa enquanto se insurge contra a verdade. |
+| natura naturans | natureza naturante | Denominação de Deus mencionada em [821]. |
+| secundum quid | sob certo aspecto | Em oposição a “em sentido absoluto”. |
+| praeter naturam | fora da natureza | No contexto, afastamento da ordem própria de uma natureza. |
+| bonum honestum / bonum delectabile | bem honesto / bem deleitável | Distinção entre o bem moralmente digno por si mesmo e o bem enquanto proporciona prazer. |
+| incommensuratio | falta de comensuração | Ausência da proporção devida, em oposição a *commensuratio*. |
+| peccatum | pecado | Conservado também no sentido amplo de falha da natureza ou da arte, explicado na nota [^19]. |
+| per se mobilia | seres que se movem por si | No contexto da providência e da capacidade própria de movimento. |
+| non collocatum | não estabelecido | A explicação de Tomás é “não firmado em algo”. |
+| ens / existens / esse | ente / ente, existente / ser | Distingue-se o ente daquilo pelo qual é; “existente” permanece quando exigido pela construção verbal. |
+| per se esse / per se vita / per se sapientia | ser por si / vida por si / sabedoria por si | Conservada a distinção de Tomás entre separação real e separação segundo a razão. |
+| esse commune | ser comum | Distinto do próprio ser divino subsistente. |
+| bene esse | bem ser | Perfeição do ser, distinta do simples ser; evita-se o sentido corrente de “bem-estar”. |
+| aevum / saeculum | evo / século | “Século” conserva o sentido amplo de medida de duração explicado pelo autor. |
+| exemplaria / rationes exemplares | exemplares / razões exemplares | Razões no intelecto divino segundo as quais Deus quer produzir as coisas. |
+| substantificus / substantificator | que dá substância / aquele que dá substância | Formulações verbais para preservar a causalidade significada pelos termos. |
+| virtute / virtualiter | virtualmente | Presença no poder da causa; esclarecida na nota [^21]. |
+| rationaliter / intellectualiter | racionalmente / intelectualmente | Distinção dos modos de conhecer, esclarecida na nota [^20]. |
+| Boetius / Clemens philosophus | Boécio / filósofo Clemente | Conservada a identificação não especificada de Clemente presente no latim. |
+| vita communis / vita particularis | vida comum / vida particular | Conservada a distinção entre a perfeição comum e seus modos particulares de participação. |
+| supervivens | que vive acima de tudo | A superioridade significada pelo termo não é a sobrevivência temporal. |
+| sempiternus motus | movimento sempiterno | No caso dos anjos, designa a operação intelectual perpetuamente duradoura. |
+| deiformis / supercoelestis | deiforme / supraceleste | Aplicados à vida angélica. |
+| vita augmentativa | vida que faz crescer | Perfeição vital exemplificada pelas plantas. |
+| superemanatio | superemanação | Conservado o termo na referência à abundância da bondade divina. |
+| praeter naturam / supra naturam / contra naturam | fora da natureza / acima da natureza / contra a natureza | Preservadas as três formulações na discussão da ressurreição. |
+| adimpletiva vitae / divisiva vitae | aperfeiçoadora da vida / distribuidora da vida | A explicação de Tomás vincula os termos à perfeição e à diversidade dos viventes. |
+| Simon | Simão | Conservado o nome sem acrescentar uma identificação ausente do trecho. |
+| sapientia / prudentia | sabedoria / prudência | Conservada a distinção entre a perfeição contemplativa e a reta razão no agir. |
+| mens / intellectus / ratio | mente / intelecto / razão | “Razão” conserva os diversos sentidos explicitados na Lição 5. |
+| intellectus | intelecto / intelecção | “Intelecção” quando designa o ato de entender, especialmente no plural. |
+| unition / unitio | unição | Termo técnico para a união às realidades divinas, particularmente pela graça. |
+| substantificatrix | constituidora no ser | Designa a causa que faz existir a sabedoria em quem dela participa. |
+| excessus | transcendência | No contexto da superioridade divina; o verbo “exceder” conserva a relação com o que é ultrapassado. |
+| stultitia / amens / furens | loucura / sem mente / delirante | Distinguidos os termos na linguagem negativa sobre Deus e na discussão do êxtase da fé. |
+| quidditas | quididade | Aquilo que uma coisa é; esclarecido na nota [^23]. |
+| resonantia | ressonância | Imagem do grau inferior de participação em uma perfeição. |
+| continentia causae | abrangência da causa | A causa contém os efeitos e permite conhecê-los em sua unidade. |
+| collocatio credentium | estabelecimento dos que creem | Conservada a imagem de firmeza e fundamento na explicação da fé. |
+| conspiratio / harmonia | consonância / harmonia | A primeira é explicada como concórdia; a segunda, como ordem e proporção devidas. |
+| logos | *logos* | Mantida em itálico a palavra grega transliterada, com os sentidos dados pelo próprio comentário. |
+| virtus | poder / virtude / força / potência | “Poder” como nome divino e capacidade causal; “virtude” no sentido moral e em “virtudes celestes/angélicas”; “força” no exemplo dos pugilistas; “potência” para faculdades nutritivas e de crescimento. |
+| iustitia commutativa / distributiva | justiça comutativa / distributiva | Conservada a distinção entre igualdade de quantidade e igualdade de proporção. |
+| salvatio / liberatio | salvação / libertação | A salvação abrange a conservação no bem e o resgate do mal; a libertação designa o livramento do mal e de suas deficiências. |
+| aevum | evo | Medida simples do ser, distinta do tempo enquanto medida do movimento. |
+| angelici ornatus | ordens angélicas | “Ornatus” designa aqui a disposição ordenada dos anjos. |
+| deificatio | deificação | Participação na deidade pela graça. |
+| Elymas magus | Elimas, o mago | Forma portuguesa do nome. |
+| inaequalitas proportionis / quantitatis | desigualdade de proporção / de quantidade | A primeira é excluída pela justiça distributiva; a segunda resulta da diversidade das naturezas e de suas capacidades. |
+| concretio | união | No contexto da mistura dos elementos, conservando-se seus poderes próprios. |
+| magnitudo / parvitas / subtilitas | grandeza / pequenez / sutileza | “Sutil” abrange aqui tanto o rarefeito quanto o de pequena espessura, conforme a explicação do autor. |
+| idem / alterum / identitas / alteritas | o mesmo / o outro / identidade / alteridade | Preservada a distinção entre identidade substancial e semelhança. |
+| statio / sessio / status | estar de pé / estar sentado / estabilidade | “Estabilidade” também traduz “statio” quando o contexto explicita a permanência e a invariabilidade. |
+| ingenitum | ingênito | O próprio texto explica: “não gerado”. |
+| fontana dona | dons fontais | Dons primordiais, dos quais dependem os dons recebidos de outras causas. |
+| partes subiectivae / integrales | partes subjetivas / integrantes | Distinção entre as partes do todo universal e os componentes do todo integral. |
+| ambulatio | passagem | No contexto da ação divina que atravessa as coisas e da comunicação entre elas. |
+| motus modalis | movimento de modo | Passagem entre modos de ser, exemplificada pela intensificação de uma qualidade ou pelo aumento quantitativo. |
+| omnipotens / omnipotentia | onipotente / onipotência | Distingue-se de “omnitenens”. |
+| omnitenens | que tudo detém | Conserva a relação com “tenere”, deter ou manter, desenvolvida no comentário. |
+| Antiquus Dierum / Vetus Dierum | Ancião dos Dias | As duas formas latinas recebem a mesma tradução. |
+| aevum / aeternitas / tempus | evo / eternidade / tempo | Preservam-se os termos distintos; o próprio comentário explica quando “evo” é tomado no sentido de eterno. |
+| partus | fruto | No contexto do amor que produz as inclinações naturais; conserva-se a imagem de algo gerado. |
+| principalitas | primazia | Neste capítulo, indica a prioridade divina e a prioridade na ordem numérica. |
+| pax / tranquillitas ordinis | paz / tranquilidade da ordem | Conserva-se a definição retomada de Agostinho. |
+| unio / unitio / unitas | união / unição / unidade | “Unição” segue o uso do diário de Comentário ao Livro das Causas; preserva-se a distinção entre os termos. |
+| congregatio / congregativae virtutes | congregação / potências congregadoras | No segundo caso, designa as criaturas espirituais superiores. |
+| consensus / connaturalitas | consenso / conaturalidade | Concórdia das vontades e dos apetites naturais, respectivamente; “conatural” segue os diários do Compêndio de Teologia e de Da União do Verbo. |
+| per se esse / per se vita / per se virtus | ser por si / vida por si / poder por si | O capítulo distingue os sentidos divino e participado dessas expressões. |
+| substantificator / substantificatio | substantificador / substantificação | Mantém-se a família de “substantificar”, atestada no diário de Sobre a Interpretação; o comentário explica “substantificador” como criador. |
+| imparticipabilis / imparticipatum | imparticipável / não participado | Distinguem-se a impossibilidade de participação e a ausência de participação. |
+| complexio / concretio | conexão / união | Neste capítulo, designam a ligação ordenada das coisas, sem confusão de suas espécies. |
+| Theologicae hypotyposes | Esboços teológicos | Título da obra mencionada por Dionísio. |
+| Iustus / Timotheus / Hierotheus | Justo / Timóteo / Hieroteu | Formas portuguesas dos nomes próprios. |
 | sanctitas / munditia / immunditia | santidade / pureza / impureza | Conserva-se a relação entre a santidade e os três graus de pureza. |
 | regnum / dominatio | reino / dominação | “Reino” inclui aqui o exercício do governo; “dominação” designa a superioridade acompanhada de bens e poder de reger. |
 | deitas / divinitas | deidade / divindade | Mantém-se “deidade”, já empregado no livro, distinguindo as formas latinas. |
@@ -13,6 +195,125 @@
 
 ## Decisões
 
+- Os títulos latinos citados no prólogo permanecem em latim e em itálico, com as glosas do autor traduzidas. Mantém-se também a intercalação da glosa em *De mystica*, isto é, oculta, *theologia*.
+- Em [3], *characteribus* foi traduzido por “caracteres”, preservando a glosa de *hypotyposibus* sem acrescentar uma explicação ausente do original.
+- Em [6], *hoc ipsum quod Deus est* foi traduzido por “aquilo mesmo que Deus é”; em [9], preservou-se a construção correspondente acerca do homem.
+- Em [9], “os modernos” designa os contemporâneos do autor; preservou-se a perspectiva histórica do texto. O singular *appellavit*, embora apareça numa exposição sobre os platônicos, foi mantido em “chamou”, sem introduzir um sujeito nominal.
+- Em [12], *ratio* foi traduzido por “concepção”, pois retoma a doutrina platônica exposta; em [14], *rationes* foi traduzido por “argumentos”.
+- Preservaram-se os compostos “superbem”, “supervida” e “supersubstância”, cuja formação corresponde ao vocabulário dionisiano explicado pelo próprio prólogo.
+- No sumário, “Do Ente” verte o título inglês “On Existing”, em consonância com o vocabulário ontológico do corpus; “Do estar de pé” e “do estar sentado” explicitam os nomes “Station” e “Session”.
+- Não foram acrescentadas notas do tradutor neste trecho: as explicações do próprio autor bastam para acompanhar os termos apresentados.
+- Os 179 parágrafos de dedivnom-c02 foram mantidos na ordem e com suas divisões; as notas do tradutor são parágrafos adicionais de aparato. Os números autorais foram formatados como texto em negrito, sem listas automáticas.
+- Traduziram-se os lemas citados e os títulos de seção; os títulos latinos de obras citados no corpo, *Theologicas hypotyposes* e *Angelicae hierarchiae*, foram conservados em latim e em itálico.
+- As referências bíblicas seguem o latim: quando a fonte indica somente o capítulo, não se acrescentam os versículos fornecidos pela tradução inglesa. Não se incorporaram referências ou notas presentes apenas no inglês.
+- Regularizaram-se os delimitadores de ênfase evidentemente desequilibrados em [36], [76] e [154], preservando a distinção entre lemas e citações.
+- Em [37], a tradução portuguesa explicita o valor comparativo do genitivo explicado pelo autor: “união superior à nossa faculdade e operação”.
+- Em [48], conservou-se *rationem* em “dirijamos a razão”, embora a referência inglesa não o traduza.
+- Em [76], conservou-se “investigáveis”, correspondente a *investigabiles*, sem substituir pela negação esperada na citação de Romanos. Em [145], conservou-se igualmente o *non* de *non communicabat sua*: “não comunicava o que é seu”.
+- Em [167], *de re qualibet conditione creata* foi traduzido como “de qualquer coisa de condição criada”, sem adotar a leitura “qualquer conhecimento criado” da referência inglesa.
+- Em [174], conservou-se *invocabili* como “invocável”, apesar da tensão com o contexto e da tradução inglesa “unspeakable”. Em [175], *superdarae* foi entendido como erro gráfico por *superclarae*, vertido “superclara”.
+- Em [175], *ipsis angelis* foi tomado como retomada de *ipsis*: as unições estão presentes nos próprios anjos considerados dignos delas, e não em terceiros julgados pelos anjos.
+- Acrescentaram-se duas notas do tradutor: [^1], em [68], explica “estado de via” e sua oposição à “pátria”; [^2], em [147], esclarece o termo técnico “supósito”.
+- Mantiveram-se os 55 parágrafos de dedivnom-c02 [180–234], acrescidos de um parágrafo de nota do tradutor.
+- Em [199], “dignos dos próprios anjos” acompanha a interpretação expressa de Tomás: dignos da sociedade e companhia angélicas. Essa leitura pertence ao comentário e se distingue da construção adotada para o texto comentado em [175].
+- Em [209], a construção irregular *in ipso sua causa* foi entendida como referência a Deus enquanto causa das coisas: “nele, que é sua causa”.
+- Em [217] e [219], regularizaram-se os delimitadores de ênfase desequilibrados, preservando a distinção entre lemas e citações.
+- Acrescentou-se a nota [^3], em [219], para explicar a correspondência entre “3 Reis” da antiga numeração da Vulgata e o atual “1 Reis”, conservando a numeração da fonte no corpo do texto.
+- Mantiveram-se os 181 parágrafos de dedivnom-c03 [1–181], acrescidos de duas notas do tradutor, com as divisões, os blocos de citação e a numeração autoral da fonte.
+- Conferiram-se os diários das chamadas 1 e 2 para recuperar as convenções anteriores, inclusive “oráculos”, “tearquia”, “unição”, “inteligir”, “Valentim” e “Mani”. Os títulos latinos de obras citados no corpo permanecem em latim, conforme a decisão anterior.
+- Regularizaram-se os delimitadores de ênfase desequilibrados, sobretudo em [25–28], [32] e [179], preservando os lemas e as citações.
+- Em [112], conservou-se “proporção”, correspondente a *proportionem* do título, embora o comentário em [118] empregue *processionem*, traduzido por “processão”.
+- Em [122], preservou-se a construção irregular *processio possit dici divina essentia* em “uma processão pode ser chamada essência divina”, sem substituir silenciosamente *essentia* por *discretio*.
+- Em [116], a disposição dos materiais segue o texto dionisiano, que exclui a dureza; em [134], preservou-se a explicação de Tomás, que exige alguma firmeza para conservar a impressão.
+- Em [145], conservou-se “ou à razão natural”, correspondente ao latim *aut naturalis rationis*, sem harmonizá-lo com a explicação posterior de Tomás sobre o que excede a razão natural.
+- Acrescentou-se a nota [^4], em [25], para esclarecer o jogo etimológico entre *perfectum* e *perambulasse*; a nota [^5], em [178], explica o sentido técnico do dom da agilidade.
+- Mantiveram-se os 80 parágrafos de dedivnom-c03 [182–261] e os 98 de dedivnom-c04 [1–98], acrescidos de duas notas do tradutor, com as divisões, os blocos de citação e a numeração autoral.
+- Acrescentou-se a nota [^6], em dedivnom-c03 [219], para esclarecer o termo técnico “evo”; a nota [^7], em dedivnom-c04 [48], esclarece o sentido escolástico de “sensualidade”.
+- Em dedivnom-c03 [182], traduziu-se *contritio* por “trituração”, preservando a imagem material desenvolvida na explicação de Tomás.
+- Regularizaram-se os delimitadores de ênfase desequilibrados, especialmente em dedivnom-c03 [223] e [259], preservando os lemas e as citações.
+- Em dedivnom-c03 [206] e [218], conservou-se “exemplo” para *exemplum*, sem emendar o texto latino.
+- Em dedivnom-c04 [16], conservou-se a leitura pouco clara *intelligibilium equiorum* em “realidades inteligíveis iguais”, sem substituí-la por “oráculos”, expressão que aparece na explicação de Tomás em [82].
+- Em dedivnom-c04 [15], manteve-se o tratamento singular dirigido a Timóteo: “tu mesmo”, “exortaste” e “devolveste”, conforme o latim e a explicação posterior.
+- Conservaram-se as referências bíblicas com os capítulos efetivamente indicados no latim, sem acrescentar os versículos ou as notas bibliográficas presentes somente na tradução inglesa de referência.
+- Mantiveram-se os 238 parágrafos de dedivnom-c05 [1–238], com as divisões, os blocos de citação e a numeração autoral, acrescidos de três notas do tradutor.
+- Acrescentou-se a nota [^8], em [147], sobre a aproximação etimológica entre *ilios* e a ideia de reunir; a nota [^9], em [166], esclarece “causa não unívoca”; a nota [^10], em [234], explica o jogo entre *callos*, beleza, e o verbo grego “chamar”.
+- Em [31], conservou-se “sob uma única parte” para *sub una parte*, sem emendar o latim.
+- Em [78], conservou-se a leitura *continet et continetur*, “contém e é contido”, sem introduzir uma negação ausente da fonte.
+- Em [110] e [115], traduziu-se *ambigue* por “em ambos os meios”, conforme a explicação de que esses animais vivem ora na água, ora na terra.
+- Em [113], explicitou-se a construção predicativa das negações divinas conforme a exposição de Tomás em [121], preservando a distinção entre ausência de forma por deficiência e por excesso.
+- Em [201], regularizaram-se os delimitadores de ênfase, distinguindo a citação de João 8 do lema comentado.
+- Em [228], conservou-se “da verdade para a uniformidade” para *a veritate ad uniformitatem*, sem substituir a leitura latina por uma conjectura.
+- Mantiveram-se as referências bíblicas com os capítulos indicados no latim, sem acrescentar versículos, referências ou notas presentes apenas na tradução inglesa.
+- Mantiveram-se os 207 parágrafos de dedivnom-c05 [239–445], com a numeração autoral, as divisões e os blocos de citação, acrescidos de duas notas do tradutor.
+- Acrescentou-se a nota [^11], em [285], para esclarecer o sentido técnico de *ratio*; a nota [^12], em [375], explica a conservação de “dileção” na discussão terminológica sobre o amor.
+- Em [244], regularizaram-se os delimitadores de ênfase, distinguindo as citações bíblicas dos lemas comentados.
+- Em [284], conservou-se a expressão “o primeiro ente não existente” para *ens primum non-existens*, sem emendar a leitura fornecida.
+- Em [305], preservou-se a sequência latina, inclusive a passagem direta da providência dos superiores às relações dos coordenados, sem suprir texto.
+- Em [379] e [425], *maternum solum* foi traduzido por “solo materno”: *solum* é substantivo, em paralelo com “pátria”.
+- Em [440], conservaram-se a atribuição a Fílon e a observação de Tomás sobre o estatuto do livro da Sabedoria, sem revisão histórica do texto.
+- Em [445], a referência tradicional *II Reg. 1* foi vertida por “2 Samuel 1”, correspondente à nomenclatura bíblica portuguesa atual; não se acrescentaram versículos ausentes do latim.
+- Mantiveram-se os 202 parágrafos de dedivnom-c05 [446–647], na mesma ordem, acrescidos das notas do tradutor [^13] e [^14].
+- A nota [^13], em [460], esclarece o sentido não necessariamente desordenado de “amor de concupiscência”; a nota [^14], em [592], esclarece o sentido técnico de “por acidente”.
+- Conservaram-se, sem emenda conjectural, as leituras problemáticas do latim em [527] (“o amor não é paixão nem ato”), [595] (“o mal é mais desprovido de sujeito do que o não ente”) e [617] (“contrariedade entre a virtude e a justiça”).
+- Em [508], traduziu-se *timor* por “temor”, seguindo o latim, apesar da divergência da referência inglesa.
+- Em [513] e [521], *caput* foi traduzido por “coroamento”, conforme a imagem de colocar os hinos sobre o tratado; conservou-se a explicação de Tomás como regra e princípio.
+- Regularizaram-se os delimitadores de ênfase defeituosos em [491] e [638], preservando o conteúdo e distinguindo a citação bíblica dos lemas comentados.
+- Mantiveram-se somente as referências e notas presentes no latim canônico; não se incorporaram versículos nem notas editoriais exclusivos da referência inglesa.
+- Mantiveram-se os 181 parágrafos de dedivnom-c05 [648–828], na mesma ordem, acrescidos das notas do tradutor [^15], [^16] e [^17].
+- A nota [^15], em [676], esclarece o sentido médico histórico de “humores”; a nota [^16], em [766], explicita a aproximação entre *principatus* e *principium*; a nota [^17], em [821], situa o “primeiro corpo” na cosmologia pressuposta pelo texto.
+- Conservaram-se sem emenda conjectural as formulações problemáticas de [678] (“o próprio bem fornece o sujeito de algum bem”), [757] (a permanência e corrupção do poder natural), [771] (“porque isso é próprio do bem”) e [812] (“existindo uma privação parcial do bem, ainda não há mal”).
+- Em [682], conservou-se a expressão sobre a aparente falta de explicação de como o mal estaria no bem, sem suprir texto conjectural.
+- Em [674], conservou-se a referência latina ao livro VIII da Ética, sem incorporar a identificação editorial da referência inglesa.
+- Em [777], *animo passiva* foi traduzido por “ânimo sujeito a paixões”, conforme o latim e a explicação subsequente.
+- Regularizaram-se os delimitadores de ênfase defeituosos em [659], [758] e [766], preservando as palavras destacadas.
+- Mantiveram-se os 121 parágrafos de dedivnom-c05 [829–949], na mesma ordem, acrescidos das notas do tradutor [^18] e [^19].
+- A nota [^18], em [903], esclarece o termo técnico “bem honesto”; a nota [^19], em [907], esclarece o sentido amplo de *peccatum*, aplicado também à natureza e à arte.
+- Conservaram-se sem emenda conjectural as formulações problemáticas de [878] (“contrária à afirmação de que o mal não é o primeiro princípio”), [890] (uma operação má como causa de outra operação má), [892] (sujeitos e causas determinados), [902] (o movimento como caminho para o não ente), [910] (“uma causa própria procedente”) e [916] (“algo visível que subsista pelo bem”).
+- Em [921], traduziu-se *non existens bonum desiderant* por “desejam um bem não existente”, conservando a formulação latina; manteve-se separadamente a explicação de Tomás em [937].
+- Mantiveram-se Lucas 12, Salmo 34 e Tiago 1 conforme o latim, sem acrescentar versículos ou referências presentes apenas na tradução inglesa.
+- Regularizaram-se os delimitadores de ênfase defeituosos em [854], preservando o destaque.
+- Mantiveram-se os 180 parágrafos de dedivnom-c06 [1–180], na mesma ordem, acrescidos das notas do tradutor [^20] e [^21].
+- A nota [^20], em [84], esclarece a distinção técnica entre conhecer racionalmente e intelectualmente; a nota [^21], em [98], esclarece o sentido causal de “virtualmente”.
+- As referências bíblicas seguem exclusivamente o latim, sem acrescentar versículos ou referências presentes apenas no inglês. Conservou-se também o capítulo XIII da *Angelicae hierarchiae* em [142].
+- Conservaram-se, sem emenda conjectural, as formulações difíceis de [65] sobre os princípios individuais e a humanidade, [71] sobre a participação dos compostos, [153] sobre a relação do ser comum com Deus e [154] “Deus não é o ser”, seguida da explicação do autor.
+- Em [119], “o ser o possui” segue a explicação expressa de Tomás em [156]; “essência substancial” em [165] conserva o latim, enquanto “essência supersubstancial” em [173] traduz separadamente a formulação do comentário.
+- Regularizaram-se os delimitadores de ênfase defeituosos de [38], [72] e [85], preservando o destaque; os números autorais foram apresentados como texto em negrito, sem listas automáticas.
+- Mantiveram-se os sete parágrafos de dedivnom-c06 [181–187] e os 68 de dedivnom-c07 [1–68], na mesma ordem, acrescidos da nota do tradutor [^22].
+- A nota [^22], após dedivnom-c07 [27], esclarece a alusão à antiga teoria da geração espontânea na referência a seres vivos gerados da putrefação.
+- Em dedivnom-c07 [45], conservou-se a formulação difícil sobre “falar fora da natureza”, sem substituí-la pela explicação mais desenvolvida do comentário em [58].
+- Nas citações dirigidas a Deus, empregou-se “vós”; na interlocução singular de Dionísio e em sua exposição, conservaram-se “tu”, “ti” e “tua”.
+- As referências bíblicas conservaram os capítulos indicados no latim, sem acrescentar os versículos fornecidos apenas pela tradução inglesa.
+- Mantiveram-se os 157 parágrafos de dedivnom-c08 [1–157], na mesma ordem, acrescidos da nota do tradutor [^23] após [76], sobre o termo técnico “quididade”.
+- Traduziram-se os trechos latinos como fonte canônica; não se incorporaram referências bíblicas, notas ou identificações presentes apenas na versão inglesa.
+- Em [69], “rationes diffusae” foi traduzido por “raciocínios extensos”, e a oposição entre o conhecimento racional e o intelectual foi expressa como oposição entre o modo discursivo e o intelectual.
+- Em [84], a negação da sensibilidade foi entendida como ausência de conhecimento pelos sentidos, conforme a explicação de Tomás em [102].
+- Em [139] e [156], “latet ipsos” foi traduzido por “permanece oculto a eles” e “fica oculto àqueles”, conservando a construção latina.
+- Regularizou-se a marcação de ênfase defeituosa de [132], preservando os trechos destacados; os números autorais foram apresentados como texto em negrito, sem listas automáticas.
+- Mantiveram-se os 179 parágrafos de dedivnom-c09 [1–179], na mesma ordem, acrescentando-se as notas do tradutor [^24] após [17], sobre os sentidos de “virtus”, e [^25] após [72], sobre o sentido técnico de “úmido” na física aristotélica.
+- Traduziram-se “cruciatos” e “cruciari” por “atormentados” e “ser atormentados”, sem restringir o sentido à crucificação.
+- Em [126], conservou-se “Romanos 2”, conforme o “Rom. II” da fonte latina, sem substituir pela localização usual da citação, Romanos 11:35.
+- Em [133], conservaram-se tanto a explicação da necessidade de movimento por outro quanto a afirmação subsequente sobre a perfeição dos santos confirmados no bem, sem reformular a relação entre elas.
+- Em [167], conservou-se “transmutabilia” como “coisas mutáveis”; em [168], manteve-se a expressão anômala “inter secundam et ultimam” como “entre a segunda e a última”, sem a corrigir pela versão inglesa.
+- Regularizou-se a marcação de ênfase defeituosa de [101], preservando os trechos destacados; os números autorais foram apresentados como texto em negrito, sem listas automáticas.
+- Mantiveram-se os 217 parágrafos de dedivnom-c10 [1–217], na mesma ordem, além das definições das notas do tradutor [^26] e [^27].
+- Acrescentou-se a nota [^26] após [162], para esclarecer “partes subjetivas” e “partes integrantes”; a nota [^27], após [167], assinala a contradição interna da formulação latina sobre a semelhança entre efeito e causa, conservada sem emenda.
+- Mantiveram-se as referências bíblicas tal como aparecem no latim, sem acrescentar os versículos fornecidos apenas pela tradução inglesa. Conservou-se “3 Reis 19”, segundo a numeração da fonte, correspondente a 1 Reis 19 na divisão corrente.
+- Em [53], preservou-se a formulação obscura sobre a “infusão da terra”, sem reconstruir um exemplo ausente do texto fornecido; em [97], conservou-se o sentido locativo de “alibi” como “em outro lugar”.
+- Em [205], conservou-se “maxima” como “coisas máximas”, sem substituir por “extremos”, embora este termo apareça no texto comentado em [176].
+- Regularizou-se a marcação de ênfase defeituosa de [42], [126] e [194], preservando os trechos destacados; os números autorais foram apresentados como texto em negrito, sem listas automáticas.
+- Mantiveram-se os 99 parágrafos de dedivnom-c11 [1–99], na mesma ordem.
+- Neste capítulo, “sessio” foi traduzido por “assento”, em lugar de “estar sentado”, para conservar a imagem de sustentação que o autor explica como firmeza e imobilidade.
+- Em [7], conservou-se “a seipsa” como “de si mesmas”, sem substituir pelo afastamento de Deus mencionado na exposição em [32].
+- Mantiveram-se as referências bíblicas e a numeração dos Salmos fornecidas pelo latim, sem acrescentar os versículos presentes apenas na tradução inglesa.
+- Em [96], regularizou-se a marcação defeituosa de ênfase, encerrando o itálico da citação antes de “embora”; os números autorais foram apresentados como texto em negrito, sem listas automáticas.
+- Não se acrescentaram notas do tradutor: as distinções técnicas centrais, inclusive os sentidos de “evo”, são explicadas pelo próprio comentário.
+- Mantiveram-se os 190 parágrafos-fonte de dedivnom-c12 [1–190], na mesma ordem, com uma nota do tradutor adicional após [110].
+- A nota [^1] esclarece que Marco e Túlio designam Marco Túlio Cícero, tornando inteligível o exemplo de diferença apenas nominal.
+- Traduziram-se “diligentia” e “diligens”, no contexto da unição em [61] e [85], por “rigor” e “rigorosa”, conforme a explicação do comentário: união perfeita.
+- Em [86], conservou-se a afirmação breve “nessa medida cada coisa está unida a si mesma”, sem completar por conjectura a construção abrupta do latim.
+- Em [147], preservou-se “et non conservans” como “e não conserva”, apesar da dificuldade contextual, sem emendar a fonte.
+- Preservaram-se, sem harmonização, as diferentes distribuições das explicações causais e supereminentes em [158] e [174].
+- Não se incorporaram as referências bíblicas nem as notas bibliográficas presentes apenas na tradução inglesa de referência.
 - Mantiveram-se os 68 parágrafos-fonte de dedivnom-c13, os 150 de dedivnom-c14 e os 2 de dedivnom-c15, na mesma ordem; acrescentou-se uma nota do tradutor após dedivnom-c14 [68].
 - A nota [^1] de dedivnom-c14 esclarece a expressão lógica “a consequência quanto ao ser não se converte”, explicando que a implicação não vale no sentido inverso.
 - Em dedivnom-c13 [58], “diligentia” foi traduzido por “diligência”, pois o comentário o relaciona ao empenho que conserva a pureza; em dedivnom-c14 [120] e [133], por “exatidão”, conforme a explicação sobre a exposição perfeita.

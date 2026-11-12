@@ -1,6 +1,597 @@
+# Diário de tradução — Comentário à Física (pt-BR)
+
+Fonte: la/ (texto latino das edições Leonina / Marietti, espelhado de aquinas.cc); en-US/ (Blackwell, Spath e Thirlkel, Yale, 1963, revisada pelo Aquinas Institute) consultado só para registro e terminologia.
+Destino: pt-BR.
 
 ## Termos
 
+| Latim | Português | Notas |
+|---|---|---|
+| Philosophus | o Filósofo | Aristóteles. |
+| Commentator | o Comentador | Averróis; nota em g1-c001 [^2]. |
+| ens mobile | ente móvel | Sujeito da ciência natural (g1-c001). |
+| scientia naturalis / philosophia naturalis | ciência natural / filosofia natural | |
+| naturalis (subst.) | filósofo natural | Quem trata da ciência natural. |
+| physici / antiqui naturales | os físicos / os antigos filósofos naturais | Os pré-socráticos. |
+| philosophia prima | filosofia primeira | |
+| substantiae separatae | substâncias separadas | |
+| ens / quod est | ente / o que é | “O que é” quando o latim diz *quod est*. |
+| unum / multa | um (una) / muitos, múltiplo | |
+| simpliciter | absolutamente | *notiora simpliciter*: mais conhecidas absolutamente; *demonstratio simpliciter*: demonstração em sentido absoluto. |
+| nota nobis / nota naturae | conhecidas para nós / conhecidas por natureza | *quoad nos*: quanto a nós. |
+| secundum rationem | segundo a razão | *ratio* = noção, definição. |
+| ratio (argumento) | argumento | |
+| definientia / definitum | definientes / definido | |
+| totum integrale | todo integral | |
+| confusa / distincta | confusas / distintas | |
+| simum / curvum | simo / curvo | Nota em g1-c001 [^1]. |
+| fieri | vir a ser | |
+| inconveniens | absurdo | |
+| per se / per accidens | por si / por acidente | |
+| quantum / quale | dotado de quantidade, ter quantidade / ter qualidade | |
+| passio | paixão | |
+| motor / mobile | motor / móvel | |
+| fortuna / casus | fortuna / acaso | Títulos do livro II. |
+| nunc | agora | Entre aspas quando é termo. |
+| tetragonismus | tetragonismo (quadratura do círculo) | g1-c002; nota [^1]. |
+| decisiones (circumferentiae) | seções (da circunferência) | |
+| amicitia et lis | a amizade e a discórdia | Empédocles. |
+| vappa et vinum | a zurrapa e o vinho | Nota em g1-c003 [^1]. |
+| tunica et indumentum | a túnica e a vestimenta | |
+| albari / albatur | embranquecer / embranquece | g1-c004. |
+| singulariter | singularmente | g1-c004, glosado “de um só modo”. |
+| fallacia consequentis | falácia do consequente | |
+| demonstratio ad contradicendum | demonstração para contradizer | |
+| liber *Physicorum* | *Física* | |
+| *De physico sive naturali auditu* | *Sobre a audição física ou natural* | |
+| *De caelo* / liber de generatione / *Meteororum* / *De anima* | *Sobre o céu* / livro sobre a geração / *Meteorológicos* / *Sobre a alma* | |
+| *Poster.* / *Metaphys.* / *Topic.* | *Analíticos posteriores* / *Metafísica* / *Tópicos* | Por extenso, em itálico. |
+| Parmenides, Melissus, Lycophron | Parmênides, Melisso, Licofronte | Licofronte conforme o *Comentário à Metafísica*. |
+| Democritus, Anaxagoras, Empedocles, Heraclitus | Demócrito, Anaxágoras, Empédocles, Heráclito | |
+| Diogenes, Thales, Antiphon | Diógenes, Tales, Antifonte | |
+| improbare | refutar | |
+| Deinde cum dicit … / ibi … | Em seguida, quando diz … / onde diz … | Fórmulas de remissão ao lema. |
+| quod vere est | o que verdadeiramente é | g1-c006. |
+| quidquid est praeter ens est non ens | tudo o que é além do ente é não ente | Proposição de Parmênides. |
+| susceptibile | o que o recebe | O sujeito do branco, g1-c006. |
+| congregatio et segregatio | reunião e separação | *segregare*: separar. |
+| raritas / densitas | raridade / densidade | |
+| excellentia et defectus | o excesso e a falta | |
+| magnum et parvum | o grande e o pequeno | Platão. |
+| partes similes | partes semelhantes | Homeomerias; nota em g1-c008 [^1]. |
+| lutum / lateres | barro / tijolos | g1-c009. |
+| resecatur a corpore finito | é exaurido por um corpo finito | g1-c009. |
+| irrationabile | irrazoável | |
+| Platonici | os platônicos | |
+| Anaximander | Anaximandro | |
+| *De caelo et mundo* | *Sobre o céu e o mundo* | Forma usada em g1-c007. |
+| alia littera | outra versão do texto | Variante do texto aristotélico. |
+| fieri / fit | vir a ser / vem a ser | *homo fit musicus*: “o homem vem a ser músico”. |
+| factio | produção | g1-c012. |
+| simpliciter / secundum quid | absolutamente / sob certo aspecto | |
+| per se / per accidens (secundum accidens) | por si / por acidente | |
+| aliud ex alio / alterum ex altero | outra coisa de outra coisa / algo diverso de algo diverso | Ser substancial / acidental, g1-c012 § 101. |
+| non musicum / immusicum | não músico / imúsico | Negação / privação, g1-c010 § 78. |
+| consonans / inconsonans / inconsonantia | consonante / inconsonante / inconsonância | |
+| infiguratum | o não figurado | |
+| infiguratio, informatio, inordinatio | ausência de figura, ausência de forma, ausência de ordem | No texto de Aristóteles, g1-c012 [17]. |
+| informitas | informidade | |
+| ordinatio | ordenação | |
+| aes | bronze | |
+| subiectum / subiici | sujeito / subjazer | |
+| privatio et habitus | privação e hábito | Nota em g1-c010 [^1]. |
+| hoc aliquid | este algo | |
+| materia prima | matéria-prima | |
+| individuum demonstratum | indivíduo designado | |
+| analogia, idest proportio | analogia, isto é, proporção | |
+| coordinatio contrariorum | coordenação dos contrários | |
+| frigiditas / caliditas | frialdade / calidez | |
+| disputative / rationes disputativae | dialeticamente / razões dialéticas | *per modum disputationis*: “à maneira de disputa”. |
+| ex probabilibus | a partir de proposições prováveis | |
+| epilogando | como que à maneira de epílogo | |
+| grossities | crassidão | |
+| Pythagorici | os pitagóricos | |
+| *De generatione* | *Sobre a geração* | |
+| defectus | dificuldade | Tomás glosa *idest dubitatio*: “isto é, dúvida”. |
+| inesse / non inexistente | estar presente (na coisa) / sem lhe ser inerente | |
+| aptum natum | apto por natureza | |
+| appetere / appetibile / appetitus | apetecer / apetecível / apetite | |
+| turpe / turpitudo / femineitas | o feio / a fealdade / a feminilidade | *turpe appetit bonum*: “o feio apetece o bem”. |
+| trinitas / dualitas | tríade / díade | Aristóteles sobre os platônicos, g1-c015. |
+| magnum et parvum | o grande e o pequeno | |
+| ingenitus | ingênito | |
+| prope rem | próxima da coisa | |
+| scibilis | cognoscível | |
+| Avicenna / Antiphon / Platonici | Avicena / Antifonte / os platônicos | |
+| in tertio huius | no terceiro livro desta obra | Idem para *in quinto huius*. |
+| IX *Metaphys*. | livro IX da *Metafísica* | |
+| natura (ablativo) / a natura | por natureza / pela natureza | |
+| status / quies | repouso | |
+| inchoatio formae | incoação da forma | |
+| lectus / lectulus | leito | |
+| lignum | madeira | |
+| cultellus | faca | |
+| manu incisa | lavradas à mão | |
+| grave et leve / gravitas / levitas | pesado e leve / peso / leveza | |
+| per se notum | conhecido por si | |
+| syllogizare | silogizar | |
+| medicatio | medicação | Ato do médico; nota em g2-c002 [^1]. |
+| nativitas | nascimento | Mantido em latim onde Tomás cita a palavra. |
+| entelechia | enteléquia | |
+| generatio simplex | geração absoluta | Oposta à geração *secundum quid*, “sob certo aspecto”. |
+| quantum ad aliquid | quanto a algo | Para não confundir com *secundum quid*. |
+| astrologia / astrologus | astronomia / astrônomo | Nota em g2-c003 [^2]. |
+| perspectiva / harmonica | perspectiva / harmônica | Ótica e teoria musical; mesma nota. |
+| simus | simo (nariz simo) | Nota em g2-c003 [^1]. |
+| de intellectu alterius / claudit in sui intellectu | entra na noção da outra / inclui na sua noção | Distinto de *secundum intellectum*, “segundo o intelecto”. |
+| medium (demonstrationis) | termo médio | *ad medium* (de lugar): “para o centro”. |
+| plana / firma | planos / sólidos | Tomás glosa: superfícies / solidezes. |
+| quod quid erat esse | o que era ser | |
+| cuius causa fit / cuius gratia | aquilo por causa do qual se faz / aquilo em vista do qual | |
+| finis cuius / finis quo | fim “para quem” / “pelo qual” | g2-c004 § 173. |
+| nugatio | redundância | |
+| ars usualis / factiva / architectonica | arte de uso / factiva / arquitetônica | |
+| principantes materiam | que governam a matéria | |
+| operose | operosamente | |
+| gubernator / gubernatoria / temo | piloto / pilotagem / leme | |
+| aedificator / aedificans | construtor / o que constrói | |
+| faber / aes | artesão / bronze | |
+| cholera et phlegma | a bile e a fleuma | |
+| virtus | poder; potência (faculdade da alma) | |
+| species et exemplum | a espécie e o exemplar | |
+| cum insit | estando nele presente | |
+| diapason / multiplicitas | diapasão / multiplicidade | Nota em g2-c005 [^1]. |
+| phiala | taça | |
+| consilians | quem aconselha | |
+| perficiens / praeparans / adiuvans | a que aperfeiçoa / prepara / ajuda | Causa eficiente quádrupla. |
+| ambulatio / macies / purgatio / potio | caminhada / emagrecimento / purgação / poção | |
+| fere | quase | |
+| statuifica / statuam faciens | arte estatuária / o que faz a estátua | |
+| laborare / bona habitudo | trabalhar / boa compleição | |
+| submersio | naufrágio | |
+| potissima | a mais excelente | |
+| alia littera | outra versão do texto | |
+| capitales | capitais | |
+| Polycletus | Policleto | Nota em g2-c006 [^1]. |
+| fortuna / casus | fortuna / acaso | *a fortuna*: “pela fortuna”; *a casu*: “por acaso”; *fortuitus / casualis*: fortuito / casual. |
+| eufortunium / infortunium | ventura / infortúnio | Nota em g2-c009 [^1]. |
+| eufortunatus, bene fortunatus / infortunatus, male fortunatus | afortunado / desafortunado | |
+| fortuna bona / mala | boa / má fortuna | |
+| eupraxia | *eupraxia* | Grego, em itálico também no texto de Aristóteles (g2-c010 [5]). |
+| propositum / a proposito | propósito / por propósito | Livre-arbítrio (g2-c010 § 230). |
+| ut in paucioribus / in minori parte | no menor número de casos / na menor parte dos casos | |
+| sicut frequenter / ut frequenter | frequentemente | *ut frequentius*: as mais das vezes. |
+| ad utrumlibet | indiferente a um ou a outro | g2-c008 § 209. |
+| frustra / vanum / per se frustra | em vão / vão / em vão por si | Nota em g2-c010 [^1]. |
+| automatum | *automatum* | Mantido como na fonte, em itálico. |
+| reportatio / reportare (argentum) | recuperação / reaver (o dinheiro) | |
+| forum / villa | praça / vila | |
+| amicitia / lis | a amizade / a discórdia | Os princípios de Empédocles. |
+| immanifestus | oculto | |
+| propter aliquid / propter hoc / propter finem | por causa de algo / por causa disto / por um fim | |
+| causa movens / movens | causa motora / motor | |
+| naturalis (subst.) | o filósofo natural | *antiqui naturales*: “os antigos naturalistas”. |
+| negotia | investigações | g2-c011 § 243. |
+| tripes / tripoda | trípode | |
+| Protarchus | Protarco | |
+| prosequitur / exequitur / ostendit / probat propositum | desenvolve / executa / mostra / prova o que se propôs | |
+| simpliciter | absolutamente | |
+| bovigena viriprora / vitigena oleoprora | bovígenos de proa humana / vitígenos de proa de oliveira | Nota em g2-c012 [^2]; *substantiae bovigenae*: substâncias bovígenas. |
+| peccatum (naturae, artis) | falha | Os monstros são “falhas da natureza” (g2-c014). |
+| sub cane / dies caniculares | sob o Cão / dias caniculares | Nota em g2-c013 [^1]. |
+| cauma | calor abrasador | |
+| aptum natum (est) | naturalmente apto | g2-c013 § 257. |
+| necessarium simpliciter / ex suppositione / ex conditione | necessário simplesmente / por suposição / por condição | *absolute*: absolutamente. |
+| in doctrinis | nas disciplinas | Nota em g2-c015 [^1]; Tomás: “ciências demonstrativas”. |
+| providentia | providência | |
+| ens mobile | ente móvel | |
+| motus / mutatio | movimento / mudança | |
+| movens, motivum / mobile | motor / móvel | |
+| hoc aliquid / quantum / quale / ad aliquid / ubi | este algo / quanto / qual / para algo / onde | Nota em g3-c001 [^1]. |
+| praedicamentum / in praedicamentis | predicamento / nas *Categorias* | |
+| Posteriora (Analytica) / Metaphysica | *Segundos Analíticos* / *Metafísica* | “no livro II dos *Segundos Analíticos*”. |
+| intranee / extrinsece | intrinsecamente / extrinsecamente | |
+| augmentum / diminutio | aumento / diminuição | *augmentum frumenti*: crescimento do trigo. |
+| ibi: | onde diz: | |
+| entelechia | enteléquia | Nota em g3-c002 [^1]; Tomás glosa *idest actus*. |
+| actus existentis in potentia (inquantum huiusmodi) | ato do que existe em potência (enquanto tal) | Definição do movimento, g3-c002. |
+| inquantum huiusmodi / secundum quod huiusmodi | enquanto tal / enquanto é tal | |
+| alteratio / alterabile | alteração / alterável | |
+| aedificatio / aedificabile / aedificator | edificação / edificável / edificador | |
+| doctrinatio, medicatio, volutatio, saltatio | a instrução, a cura, o rolar, o saltar | g3-c002 [5]; *medicatio*: “cura” também em g3-c005. |
+| decrementum | decréscimo | Tomás: *diminutio*, “diminuição”. |
+| laborare (aegritudo) | adoecer (doença) | g3-c002 [12], [53]. |
+| alteritas / inaequalitas / quod non est | alteridade / desigualdade / o que não é | g3-c003. |
+| ordinatio (Pythagorae) / coordinatio | ordenação / coordenação | |
+| altera parte longius | o mais longo de um lado | Nota em g3-c003 [^1]. |
+| motivum (distinto de movens) | motivo | Só onde Aristóteles e Tomás opõem o *motivum* (em potência) ao *movens* (em ato): g3-c004 [6], [9]–[10], [18], [41]–[42], [45]. |
+| activum mobilis | ativo do móvel | g3-c004 [11], [47]. |
+| spatium | intervalo | g3-c004 [12]; g3-c005 [14], [49]. |
+| actio / passio | ação / paixão | |
+| doctio / doctrina; docere / addiscere | o ensino / a aprendizagem; ensinar / aprender | g3-c005. |
+| defectus rationabilis | deficiência racional | Tomás: *idest dubitationem… idest logicam*. |
+| quod quid est esse | quididade | g3-c005 [12]. |
+| ut ab hoc / ut in hoc | como por este / como neste | g3-c005 [50]–[51], [76]. |
+| praedicamentum quando / ubi / situs / habitus | predicamento do quando / do onde / da posição / hábito | Nota em g3-c005 [^1] sobre *habitus*. |
+| denominatio | denominação | |
+| De generatione (et corruptione) | *Sobre a geração* | “no livro I de *Sobre a geração*”. |
+| Deinde cum dicit | Em seguida, quando diz | |
+| infinitum / finitum / infinitas | infinito / finito / infinidade | |
+| transire / transibile / intransibile; transitus | percorrer / percorrível / impercorrível; percurso | g3-c007; Tomás: *infinitum idem est quod intransibile*. |
+| appositio | adição | g3-c007 [16], [60]. |
+| magnitudo / multitudo | grandeza / multidão | |
+| passio (punctum et passio) | paixão | Tomás: *idest passibilis qualitas*, “qualidade passível”. |
+| gnomon | gnômon | Nota em g3-c006 [^1]. |
+| par / impar | par / ímpar | |
+| similes partes | partes semelhantes | Anaxágoras. |
+| disgregatio / segregatio | desagregação / segregação | |
+| intellectus (Anaxágoras) / concordia (Empédocles) | intelecto / concórdia | |
+| aptum natum (esse) | apto por natureza | |
+| planities | plano | Tomás: *idest superficie*. |
+| distantia | distância | Tomás: *seu dimensiones*. |
+| gleba / scintilla | torrão / centelha | |
+| fulcire | apoiar | Tomás: *idest sustentat*. |
+| medium (cosmológico) | centro | g3-c009; *medium* como metade: “metade”. |
+| sursum / deorsum; ultimum | em cima / embaixo; extremo | |
+| spatium (fora do céu) | espaço | g3-c007; “intervalo” continua para o *spatium* do movimento. |
+| rationabiliter | razoavelmente (g3-c006); racionalmente (g3-c008) | Em g3-c008 Tomás glosa *logice*. |
+| transcendentia | transcendentais | Nota em g3-c008 [^1]. |
+| bicubitum / tricubitum | de dois côvados / de três côvados | |
+| contingere et esse (in perpetuis) | poder ser e ser | |
+| in augmentum | por aumento | |
+| De caelo et mundo | *Sobre o céu e o mundo* | |
+| agon / ludus agonalis / festa agonalia | certame / jogo agonístico / festas agonísticas | g3-c010. |
+| Olympia | os Jogos Olímpicos | g3-c010; nota [^1]. |
+| ablatio | subtração | g3-c010. |
+| subdecupla proportio | proporção subdécupla | g3-c010 [57]. |
+| physiologi | fisiólogos | Tomás: *naturales philosophi*, “filósofos naturais”. |
+| aeque pugnans | lutando por igual | Parmênides, g3-c011. |
+| dignitas | dignidade | Tomás: *rem per se notam*; nota em g3-c011 [^1]. |
+| decisio | corte | g3-c012 [6], [25]. |
+| senarius / binarius / ternarius | senário / binário / ternário | |
+| Commentator | o Comentador | Averróis; nota em g3-c012 [^1]. |
+| intelligentia (g3-c013) / intelligere | pensamento / conceber | |
+| tangi / finiri / includi | ser tocado / ser limitado / ser incluído | g3-c013. |
+| naturalis (o filósofo) | filósofo natural | |
+| loci mutatio | mudança de lugar | |
+| sex distantiae | seis distâncias | ante/retro: à frente/atrás; dextrorsum/sinistrorsum: à direita/à esquerda. |
+| locatum | localizado | |
+| tragelaphus | tragélafo | Nota em g4-c001 [^1]. |
+| defectus (g4-c002) | deficiência | Tomás: *idest dubitationem*. |
+| continens / contentum | continente / contido | g4-c003 ss. |
+| ultimum (continentis) / extremum / extremitas | extremo / extremo / extremidade | g4-c005. |
+| receptivum / participativum | receptivo / participativo | Platão, g4-c003. |
+| dogmata dicta et non scripta | doutrinas ditas e não escritas | Nota em g4-c003 [^2]. |
+| sophisma consequentis | sofisma do consequente | Nota em g4-c003 [^1]. |
+| disputative | de modo disputativo | |
+| species (no texto de Aristóteles) | espécie | Mesmo quando equivale a “forma” (g4-c004 [8]). |
+| primum motivum | primeiro motor | |
+| amphora / cadus / scyphus | ânfora / cântaro / taça | |
+| clavus (in navi) | prego | Tomás: *infixus*, *extrahitur*. |
+| dignum est (g4-c005) | é digno / ter por digno | Liga-se a *dignitas*, “dignidade” (g3-c011). |
+| augmentum et decrementum | aumento e diminuição | |
+| sapiens / sciens | sabedor | g4-c004. |
+| locatum | localizado | g4-c006 ss. |
+| locans (primum continens et locans) | que dá lugar | g4-c006 [87]. |
+| situs | situação | *positio* (dos adversários) = posição. |
+| transmutatio / transmutari | transmutação / ser transmutado | |
+| ratione / subiecto | segundo a razão / segundo o sujeito | g4-c007 [28]. |
+| ubi (categoria) | onde | g4-c007 [19]. |
+| alicubi | em alguma parte | Distinto de *in loco*, “em lugar”. |
+| ultima sphaera | última esfera | |
+| ultimum (caeli, circulorum) | extremo | Coerente com *ultimum (continentis)*. |
+| sursum / deorsum | o alto / o baixo (lugar); para cima / para baixo (movimento) | |
+| motus rectus | movimento retilíneo | |
+| copulatio | união | Tomás glosa *continuatio*, “continuação” (g4-c008). |
+| virtus locativa | virtude locativa | g4-c008 [29]. |
+| vacuum / plenum / vacuitas | vazio / cheio / vacuidade | |
+| clepsydra | clepsidra | Nota em g4-c009 [^1]. |
+| uter / dolium | odre / tonel | |
+| physiologi | fisiólogos | |
+| liber de generatione | livro *Sobre a geração* | |
+| tangibile | tangível | |
+| grave / leve; gravitas / levitas | pesado / leve; gravidade / leveza | |
+| hoc aliquid | “este algo” | g4-c010 [7], [43]. |
+| passio | paixão | No sentido aristotélico (atributo, qualidade sensível). |
+| instantia | instância | Contraexemplo que tira a necessidade do argumento (g4-c010 [49]). |
+| condensatio / inspissatio | condensação / espessamento | |
+| subintrare / subingredi (se invicem) | entrar umas nas outras; penetrar | |
+| foramina | orifícios | |
+| augmentum / alteratio | aumento / alteração | |
+| motus violentus / secundum naturam / extra naturam | movimento violento / segundo a natureza / fora da natureza | |
+| proiecta / proiiciens | coisas lançadas / lançador | |
+| antiperistasis | antiperístase | Tomás glosa: repercussão ou contrarresistência. |
+| medium | meio | |
+| subtile / grossum | sutil / espesso | |
+| ratio, proportio (matemáticas) | razão, proporção | Nota em g4-c012 [^1]. |
+| excedentia | excesso | |
+| retardatio / tarditas | retardamento / lentidão | |
+| rarum / densum; raritas / densitas | raro / denso; raridade / densidade | |
+| inclinatio | inclinação | |
+| cubus ligneus | cubo de madeira | |
+| corporeitas | corporeidade | |
+| impassibile | impassível | |
+| secundum rem | na realidade | Oposto a *secundum rationem*, “segundo a razão”. |
+| Commentator | Comentador | Averróis. |
+| nunc | agora (pl. agoras) | Substantivo; “por ora” para o advérbio *nunc*, para evitar ambiguidade. |
+| prius et posterius | o anterior e o posterior | Também na definição do tempo: “número do movimento segundo o anterior e o posterior”. |
+| numerus numeratus / numerus quo numeramus | número numerado / número com que numeramos | |
+| fieri tempus | dar-se tempo | |
+| circulatio | revolução (g4-c016); circunferência (g4-c014, do círculo) | |
+| ambitus | contorno | Tomás glosa *circularitas*. |
+| conductio | ajuntamento | Tomás glosa *contractio*. |
+| ex subiectis | dos supostos | |
+| habita (nunc) | seguidos | Tomás glosa *immediate se consequentia*. |
+| calcari / calcatio | ser calcado / compressão | |
+| coire | juntar-se | |
+| utres | odres | |
+| cyathus | copo | |
+| turbatio / tumultuatio caeli | perturbação / tumulto do céu | |
+| disputative | em forma de disputa | |
+| aggredi (de tempore) | enfrentar (a questão do tempo) | Tomás vê no verbo a dificuldade do tema. |
+| rationes extraneae | razões estranhas | Tomás: postas por outros ou sofísticas. |
+| intentio animae | intenção da alma | Nota em g4-c017 [^1]. |
+| heroes | heróis | |
+| primum mobile | primeiro móvel | |
+| ubi (categoria) | onde | |
+| id quod fertur | o que se desloca | Também *puncto quod fertur*: “o ponto que se desloca”. |
+| loci mutatio | mudança de lugar | *motus localis*: movimento local. |
+| hoc aliquid | este algo | Tomás glosa *res quaedam per se stans*. |
+| idem subiecto / alterum ratione | o mesmo quanto ao sujeito / outro quanto à razão | *secundum rationem*: segundo a razão. |
+| sequi (ad) | acompanhar | g4-c018: o movimento acompanha a grandeza, o agora acompanha o que se desloca. |
+| commutata proportio | permutando a proporção | |
+| sophisma accidentis | sofisma do acidente | |
+| dualitas | dualidade | |
+| esse in tempore / esse quando tempus est | estar no tempo / existir quando existe o tempo | |
+| cubitus | côvado | |
+| passio (numeri) | propriedade | |
+| numerus superfluus / perfectus | número supérfluo / perfeito | Nota em g4-c020 [^1]. |
+| milium | painço | “Milho” evocaria o milho americano. |
+| tabefacere / tabescere | consumir / consumir-se | *tabidum*: consumido. |
+| deficere (tempus) | esgotar-se | |
+| circulatio | revolução | Mantido em g4-c021. |
+| tunc / iam / modo / olim / repente | então / já / há pouco / outrora / de repente | Como no título da lição 21; nota sobre *iam* em g4-c021 [^1]. |
+| Ilion | Ílion | Troia quando o latim diz *Troia*. |
+| Paro | Páron | Pitagórico; nota em g4-c022 [^1]. |
+| indisciplinabile | inteiramente avesso à aprendizagem | Liga-se a *disciplina*: aprendizagem (g4-c022). |
+| utcumque ens | de algum modo ente | Tomás glosa *imperfecte*. |
+| gradatus (triangulus) | escaleno | Nota em g4-c023 [^1]. |
+| primo (et per se) | primeiramente (e por si) | |
+| terminus a quo / ad quem | termo *a quo* / termo *ad quem* | Mantidos em latim, em itálico, como termos de escola; *in quod / ex quo* no texto de Aristóteles: “aquilo para que / aquilo de que”. |
+| transmutans | o que transmuda | Tomás glosa *transmutatum*. |
+| subiectum / non subiectum | sujeito / não sujeito | *ex subiecto in subiectum*: de sujeito para sujeito. |
+| medium (inter contraria) | intermédio | |
+| albatio | branqueamento | |
+| fuscum | pardo | |
+| subtilis (vox) | fina | Tomás glosa *acuta*. |
+| materia prima | matéria prima | |
+| simul (g5, local) | junto | *Quid est simul*: “o que é estar junto”; no tempo, “simultâneo”. |
+| ad aliquid | relativo | “o relativo”, “no gênero do relativo”; *relative dici*: dizer-se relativamente. |
+| ubi | onde | “no gênero do onde”; *quando*: quando; *situs*: posição; *habere*: ter. |
+| quale / quantum | qualidade / quantidade | Em g5-c004, para evitar a ambiguidade de “o qual”; *quale passivum*: qualidade passiva. |
+| facere et pati / actio et passio | fazer e padecer / ação e paixão | *agens / patiens*: agente / paciente. |
+| latio / ferri | translação / ser levado | Nota em g5-c004 [^2]. |
+| alteratio | alteração | Nota em g5-c004 [^1] (*alter*). |
+| augmentum / decrementum | aumento / diminuição | |
+| intendi et remitti / intensio et remissio | intensificar-se e atenuar-se / intensificação e atenuação | |
+| consequenter | consecutivo | *consequenter se habens*: o que se tem consecutivamente. |
+| habitum | contíguo | Também em g5-c003 [19], [91], com a glosa de Tomás. |
+| tangere / contactus / tactus | tocar / contato | *contactum*: o que está em contato. |
+| continuum / continuatio | contínuo / continuação | *continuitas*: continuidade. |
+| insertus / consertus / adnatus | inserção / junção / adnato | *adnascentia*: crescimento conjunto; *conclavatio*: pregagem. |
+| hypate | hípate | Nota em g5-c005 [^1]. |
+| doctrina (g5-c003) | aprendizagem | |
+| Commentator | o Comentador | Averróis; nota em g5-c003 [^1]. |
+| praedicamentum | categoria | *figurae praedicamenti*: figuras da categoria; *coordinatio praedicamenti*: coordenação da categoria. |
+| doctrinatio | instrução | g5-c006; distinto de *doctrina* (aprendizagem) em g5-c003. |
+| existimatio | juízo | g5-c006 [7], [41]. |
+| volutatio | rolar | Em oposição a *ambulatio*, andar. |
+| species individua / specialissima | espécie indivisível / especialíssima | *species subalterna*: espécie subalterna. |
+| regularis / irregularis | regular / irregular | Glosados por Tomás como *uniformis / difformis*: uniforme / disforme. |
+| motus reflexus / obliquus | movimento refletido / oblíquo | |
+| mansio | permanência | Tomás glosa como *quies*. |
+| qui est ex X, ei qui est in Y | o que parte de X ao que vai para Y | *ex contrario in contrarium*: do contrário para o contrário. |
+| terminus a quo / ad quem | termo a partir do qual / para o qual | |
+| accessus / recessus | aproximação / afastamento | *discessio*: afastamento; *remotio*: remoção; *acceptio*: aquisição. |
+| fuscum | pardo | Meio entre o branco e o negro. |
+| addiscere / invenire / decipi | aprender / descobrir / ser enganado | |
+| quietatio | aquietação | |
+| immutatio (g5-c009) | imutação | No sentido de “não mudança”; nota em g5-c009 [^1]. |
+| secundum naturam / extra naturam / praeter naturam / contra naturam | segundo a natureza / fora da natureza / além da natureza / contra a natureza | Mantidas distintas como no latim. |
+| stare / statio | parar / parada | Tomás glosa *stare* como “chegar ao repouso” (g5-c010 [60]). |
+| non fatatae (generationes) | (gerações) não fadadas | Tomás liga a *fatum*, “fado”, a ordem das causas naturais. |
+| generatio dulcis / tristis | geração doce / triste | |
+| dies critici | dias críticos | Nota em g5-c010 [^1]. |
+| Commentator | o Comentador | Averróis; nota em g5-c010 [^2]. |
+| impartibile | impartível | Distinto de *indivisibile*: indivisível. |
+| consequenter (esse, se habere) | consecutivo; ter-se consecutivamente | Quando não é advérbio de discurso (“em seguida”). |
+| ultimum (continui) | extremo | *simul*: juntos. |
+| medium | intermédio | |
+| situs | sítio | |
+| longitudo | comprimento | |
+| momentum (g6-c002) | momento | Grego *kínēma*; nota em g6-c002 [^1]. |
+| moveri / motum esse | ser movido / ter sido movido | Conforme o título de g6-c008. |
+| velocius / tardius / aeque velox | mais veloz / mais lento / igualmente veloz | |
+| divisibile in semper divisibilia | divisível em sempre divisíveis | Definição do contínuo. |
+| primum mobile | primeiro móvel | Nota em g6-c003 [^1]. |
+| ultimis / divisione (infinitum) | (infinito) nos extremos / por divisão | Os dois modos do infinito (g6-c004 [3], [25]–[29]). |
+| hemiolia / sexquialtera | hemiólia (hemiólio) / sesquiáltera | Proporção de três para dois; Tomás glosa o termo grego (g6-c004 [63]). |
+| atomus | átomo | Tomás glosa: indivisível. |
+| planum | plano | Tomás glosa: superfície. |
+| quod factum est | o que foi feito; aquilo que foi feito | Tomás glosa: o passado. |
+| nunc (pl.) | agora; agoras | |
+| aptum natum (moveri) | apto por natureza (a mover-se) | |
+| mutans / quod mutatur | mutante / o que muda | |
+| terminus a quo / ad quem | termo de que / termo para o qual | |
+| in non tempore | sem tempo | Mudanças instantâneas (g6-c005 [81]–[90]). |
+| fuscum | fusco | Intermédio entre branco e negro. |
+| latio | translação | Movimento local. |
+| virtus (agentis) | virtude | No sentido de força ativa. |
+| ubi | o onde | Categoria. |
+| ad hominem | *ad hominem* | Mantido em latim; nota em g6-c004 [^1]. |
+| ipsum moveri | o próprio ser movido; o ser movido | Distinto de *motus* (g6-c006). |
+| deficere / defecisse | deixar / ter deixado | Dito do móvel em relação ao termo de que; quando Tomás o diz do próprio termo (*terminus a quo deficiat*), “desaparecer” (g6-c007 [52]). |
+| habita (nunc, termini) | imediatos | Tomás glosa: consecutivos, que se seguem um ao outro. |
+| intensio / remissio | intensão / remissão | Graus de uma qualidade; nota em g6-c007 [^1]. |
+| impartibile | impartível | |
+| signum | sinal | Ponto determinado da grandeza percorrida. |
+| mutatum esse | ter mudado | Termo do movimento, como o ponto da linha (g6-c008). |
+| motum esse | ter sido movido | |
+| fieri / factum esse | fazer-se / ter sido feito | g6-c008. |
+| corrumpi / corruptum esse | corromper-se / ter-se corrompido | |
+| stare / statio | parar / parada | Tomás glosa *tendit ad quietem*; o título de g6-c010 diz “vir ao repouso”. |
+| quiescere / quiescens | repousar / o que repousa | |
+| atomum | insecável | Distinto de *indivisibile* (indivisível) e *impartibile* (impartível). |
+| aeque velociter / aeque velox | com igual velocidade / igualmente veloz | |
+| regulariter | regularmente | |
+| aliquota pars | parte alíquota | |
+| instantia | exceção | g6-c008 [76]. |
+| momentaneus | instantâneo | |
+| intendi / remitti (velocitas, motus) | intensificar-se / afrouxar-se | Dito da velocidade; para qualidades segue intensão/remissão. |
+| secundum aliquid esse | estar segundo algo | Tomás glosa *in aliquo* (g6-c010). |
+| Commentator | o Comentador | Averróis. |
+| ferri / quod fertur | deslocar-se / o que se desloca | Movimento local; *sagitta quae fertur* = a flecha que se desloca. |
+| impartibile | impartível | g6-c012; impartível segundo a quantidade vs. segundo a espécie. |
+| individuum | indivisível | g6-c012 [19]. |
+| stadium | estádio | Paradoxo de Zenão (g6-c011). |
+| velocissimum / velocius / tardius | o velocíssimo / o mais veloz / o mais lento | g6-c011, paradoxo de Aquiles. |
+| signum | ponto | Ponto marcado num móvel ou num círculo. |
+| decidi / decisum esse | ser cortado / ter sido cortado | g6-c013. |
+| momentum | momento | Verte o grego *kínema*; Tomás glosa *mutatum esse*. |
+| secundum se | segundo si mesmo | g7-c001; distinto de *per se* (por si). |
+| primo et per se | primeiro e por si | |
+| pausare | cessar | Tomás glosa *desinere moveri*. |
+| demonstratio quia / propter quid | demonstração *quia* / *propter quid* | Mantidas em latim, em itálico. |
+| virtus medii | força do termo médio | g6-c011 [45]. |
+| simul (esse) | junto(s) / simultaneamente | g7-c003–c005: *simul esse* = estar junto, sem meio; em g7-c002, *simul moveri* = mover-se simultaneamente. |
+| contingens | contingente | g7-c002: no sentido de possível; *possibile* = possível. |
+| pulsio / impulsio / expulsio | pulsão / impulsão / expulsão | g7-c003; pulsão no sentido físico de empurrar. |
+| tractio, tractus / trahere | tração / puxar, atrair | “Atrair” para o fim e o ímã; “puxar” para o movimento corporal. |
+| vectio / vehi | transporte / ser transportado | g7-c003. |
+| vertigo | rotação | g7-c003. |
+| proiectio | projeção | g7-c003. |
+| congregatio, aggregatio / disgregatio | agregação / desagregação | g7-c003, g7-c004. |
+| spathesis, kerkisis, synosis, diosis | *spathesis*, *kerkisis*, *synosis*, *diosis* | Transliterações gregas da fonte, em itálico. |
+| quale | o qualificado | g7-c004 [4]. |
+| augeri / augens | ser aumentado / o que aumenta | g7-c004. |
+| appositio / ablatio, subtractio | adição / subtração | g7-c004. |
+| orbes (planetarum) | esferas (dos planetas) | g7-c004. |
+| ad aliquid | relativo a algo; o relativo (categoria) | g7-c005. |
+| malitia | vício | Também o defeito corporal (g7-c005). |
+| macies | magreza | Tomás glosa: disposição de agilidade para o movimento. |
+| denominative / in principali et recto | denominativamente / de modo principal e reto | g7-c005. |
+| acceptio (virtutis, scientiae) | aquisição | g7-c006. |
+| sciens / fieri sciens | o que sabe / tornar-se sabedor | g7-c006. |
+| scibile | o cognoscível | g7-c006. |
+| quies, quietatio / quietari | repouso, aquietação / aquietar-se | g7-c006. |
+| residentia / residere | assentamento / assentar(-se) | g7-c006: imagem da borra que assenta nos líquidos (Tomás, [43]). |
+| turbatio / perturbatio | turbação / perturbação | g7-c006. |
+| voluptas / delectatio | prazer / deleite | g7-c006. |
+| immutatio (sensus) | imutação | g7-c006. |
+| susceptivum, receptivum / susceptibile | receptivo / suscetível | g7-c006 a g7-c008. |
+| aeque velox, aequaliter velox | igualmente veloz | g7-c007, g7-c008. |
+| loci mutatio | mudança de lugar | g7-c007, g7-c008. |
+| duci | ser levado | g7-c007, g7-c008: mover-se segundo o lugar. |
+| acutum / vox ultima | agudo / a voz última | g7-c007. |
+| multum / duplum / multiplex | muito / dobro / múltiplo | g7-c007. |
+| atomon, atomus | átomo | g7-c008: no sentido de indivisível. |
+| sanari | sarar | g7-c008. |
+| alteritas | alteridade | g7-c008. |
+| De anima / De caelo / Posteriora | *Sobre a alma* / *Sobre o céu* / *Segundos Analíticos* | Títulos das obras de Aristóteles. |
+| potentia movens / virtus motiva | potência motora / virtude motriz | g7-c009. |
+| analogia | analogia | g7-c009: Tomás glosa como “proporção”. |
+| longitudo (spatii) | comprimento (do espaço) | g7-c009. |
+| grave / pondus | peso / corpo pesado | g7-c009. |
+| milium / granum milii | painço / grão de painço | g7-c009: argumento de Zenão. |
+| modius | módio | g7-c009. |
+| medietas / dimidiata potentia | metade / potência reduzida à metade | g7-c009. |
+| praeopere | de grande proveito | g8-c001: Tomás glosa *pernecessarium*, “muitíssimo necessário”. |
+| saeculum | século | g8-c001: medida da duração, nos versos de Empédocles. |
+| amicitia / discordia | amizade / discórdia | g8-c001: princípios de Empédocles. |
+| disgregatio / segregatio / congregatio | desagregação / segregação / congregação | g8-c001. |
+| Commentator (Averroes) | o Comentador (Averróis) | g8-c001. |
+| sempiternitas / sempiternus | sempiternidade / sempiterno | g8-c001. |
+| ibi: | onde diz: | Remissão aos lemas nas divisões do texto. |
+| motivum / motiva | o que pode mover / as coisas capazes de mover | g8-c002: distingue-se de *movens*, “motor”, “o que move”. Evitado “motivo”, que em português significa razão. |
+| combustivum | comburente | g8-c002: Tomás glosa “o sujeito capaz de queimar”. |
+| nunc | agora | g8-c002: “o próprio agora”, “os agoras”. |
+| momentum | momento | g8-c002 [131]: o indivisível do movimento, como o agora é o do tempo. |
+| passio (motus) | afecção (do movimento) | g8-c002 [23], g8-c003 [54]. |
+| ad aliquid | relativo a algo | g8-c002. |
+| habitudo | relação | g8-c002. |
+| emanatio | emanação | g8-c002: a produção universal do ente por Deus, que não é movimento. |
+| factio (particularis) | feitura (particular) | g8-c002 [64]. |
+| antiqui naturales | os antigos filósofos naturais | g8-c002 [67]. |
+| aptum natum | apto por natureza | g8-c003, g8-c004. |
+| dignitas | dignidade | g8-c003: decalque do grego *axioma*; Tomás glosa “princípio”. |
+| amicitia / inimicitia / lis | amizade / inimizade / contenda | g8-c003. |
+| continens | o continente | g8-c004: o ar e o corpo celeste que envolvem o animal. |
+| processivus motus | movimento progressivo | g8-c004 [40]. |
+| parvus mundus | pequeno mundo | g8-c004 [36]. |
+| per accidens / per se | por acidente / por si | g8-c007: *secundum accidens* também “por acidente”; *secundum partem*, “segundo a parte”. |
+| a seipso moveri / movere seipsum | ser movido por si mesmo / mover a si mesmo | g8-c007: distinto de *per se*, “por si”. |
+| considerare | considerar | g8-c008: o exercício atual da ciência possuída (grego *theōrein*). |
+| sciens | sabedor / o que sabe | g8-c008. |
+| phantasia | imaginação | g8-c006 [12], [42]. |
+| vectis | alavanca | g8-c008: Tomás glosa “bastão”. |
+| impetus | ímpeto | g8-c008 [67]. |
+| consita | unidas por natureza | g8-c007 [24]. |
+| violentia / violentum | violência / violento | g8-c007. |
+| una fides / fidem facere | uma só prova / produzir convicção | g8-c006 [14], [45]. |
+| terminus a quo | termo de partida | g8-c006 [24]. |
+| reducere (de potentia in actum) | levar (da potência ao ato) | g8-c008. |
+| movens / motum | motor, o que move / movido, o que é movido | g8-c009 a g8-c011. |
+| primum movens / secundum movens | primeiro motor / segundo motor | g8-c009. |
+| motivum / mobile | o que pode mover / móvel | g8-c009 [43]–[49]; *sanativum*, “o que pode sanar”; *aedificativum*, “o que pode edificar”. |
+| instrumentum / medium | instrumento / intermediário | g8-c009. |
+| baculus | bastão | g8-c009, como em g8-c008. |
+| stare (in moventibus) | parar | g8-c009, g8-c011. |
+| rationabile | razoável | g8-c009 [30]: Tomás glosa “provável”. |
+| individua | indivíduos | g8-c009 [36]: Tomás glosa “espécies especialíssimas”. |
+| univocum | unívoco | g8-c010 [7], [44]. |
+| penitus movere ipsum seipsum | mover totalmente a si mesmo | g8-c010 [3], [36]. |
+| movens seipsum | o que move a si mesmo / motor de si mesmo | g8-c010, g8-c011. |
+| imperare | comandar | g8-c009 [31], [116]: o intelecto de Anaxágoras. |
+| instantia | objeção | g8-c009 [115], [131]. |
+| impartibile / partibile | sem partes / que tem partes | g8-c012 [6], [43], [45]; Tomás glosa “não composto de matéria e forma”. |
+| perpetuum / sempiternum | perpétuo / sempiterno | g8-c012 a g8-c015. |
+| per accidens / secundum accidens | por acidente | g8-c012, g8-c013: ambos vertidos do mesmo modo. |
+| consequenter (esse) | consecutivo | g8-c012 [17]–[18], g8-c014 [13], [65]. |
+| loci mutatio / motus localis | mudança de lugar / movimento local | g8-c014, g8-c015. |
+| latio / ferri | translação / ser levado | g8-c014 [14], [24]; g8-c015 [19]. |
+| augmentum / decrementum, diminutio | aumento / diminuição | g8-c014, g8-c015. |
+| alteratio | alteração | g8-c014, g8-c015. |
+| densitas / raritas | densidade / rarefação (o denso / o raro) | g8-c014 [10], [52]–[53]. |
+| congregatio / disgregatio | agregação / desagregação | g8-c014 [10], [52]–[53]. |
+| orbis | orbe | g8-c013 [54]–[56]: os orbes dos planetas. |
+| Commentator | o Comentador (Averróis) | g8-c013 [59]. |
+| dealbatio / denigratio | branqueamento / enegrecimento | g8-c015 [41], [56]. |
+| fides fiet | far-se-á fé | g8-c015 [15], [56]: “servirá de prova”. |
+| ibi (nas divisões do texto) | em: | g8-c012 a g8-c015. |
+| signum (na grandeza, no tempo) | sinal | g8-c016 a g8-c017; Tomás glosa *punctum signatum*, “ponto assinalado”. Também “sinal” no sentido de indício (g8-c016 [10], [43]). |
+| reflexio / reflecti / motus reflexus | reflexão / refletir-se / movimento refletido | g8-c016 a g8-c018. |
+| adesse / abesse | estar presente / estar ausente | g8-c016 [20]–[21], [55]–[57]; g8-c017. |
+| affuit / abfuit | fez-se presente / ausentou-se | g8-c016 [23], [58]; g8-c017 [5]–[11], [46]. |
+| factum esse (em um sinal) | ter-se feito | g8-c016 [18], [54]; Tomás glosa *advenire*, “chegar”. |
+| decisio temporis | corte do tempo | g8-c017 [7], [11], [47], [53]. |
+| habitum | contíguo | g8-c017 [33], [35], [92], [96]; Tomás glosa *consequenter se habens*, “consecutivo”. |
+| atoma tempora | tempos átomos | g8-c017 [32], [35]; nota do tradutor. |
+| rationabiliter | racionavelmente | g8-c018 [3], [25]; Tomás glosa *logice*, “logicamente”. |
+| dubitatio | dificuldade | g8-c016 [30]; g8-c017. |
+| medium / media; medietas | meio / meios; metade | g8-c017: *in duo media* = “em duas metades”. |
+| ferri circulo / ferri circulum / secundum circulum | ser levado em círculo / ser levado sobre o círculo / ao longo de um círculo | g8-c016 [12]–[13], [47]–[48]. |
+| latio / lationes | translação / translações | g8-c019 [18], [30], [57]. |
+| congregatio / disgregatio; congregare / disgregare | agregação / desagregação; agregar / desagregar | g8-c020 [17]–[20], [40]–[43]. |
+| amicitia et lis (Empédocles); concordia et discordia (Aristóteles) | a amizade e a discórdia; a concórdia e a discórdia | g8-c020 [17], [40]. |
+| physiologi; antiqui naturales | fisiólogos; antigos naturalistas | g8-c019 [16], [53]; g8-c020 [43]. |
+| regularis / irregularis | regular / irregular | g8-c020 [13]–[14], [35]–[38]. |
+| conversim; propositio convertibilis | reciprocamente; proposição conversível | g8-c020 [12], [34]. |
+| aptum natum est esse / natum est esse | tem aptidão natural para estar / está por natureza | g8-c020 [15], [37]. |
+| intenditur / remittitur (motus) | intensifica-se / afrouxa-se | g8-c020 [36]–[37]. |
+| atoma corpora; indivisibilia corpora | corpos átomos; corpos indivisíveis | g8-c020 [20], [42]; como “tempos átomos” em g8-c017. |
+| in eisdem (esse); eadem (moveri, pertransire) | nas mesmas coisas; pelas mesmas coisas | g8-c019 [9]–[15], [40]–[45]. |
+| circulatio | circulação | g8-c019 [11]; g8-c020 [10], [12], [31], [37]. |
+| medium (syllogismi) | termo médio | g8-c020 [33]. |
 | impartibile | sem partes | g8-c021 [3]; g8-c023 [6], [21], [30]; distinto de *indivisibile*, “indivisível”. |
 | habitum / habita ad invicem; in habito | adjacente / adjacentes uns aos outros; no adjacente | g8-c022 [9]–[10], [13], [33], [38]; g8-c023 [7], [19], [60]. |
 | consequenter se habere; consequenter entia | estar em sequência; coisas consecutivas | g8-c022 [13], [37]; g8-c023 [16], [30], [57]. |
@@ -20,6 +611,201 @@
 
 ## Decisões
 
+- “Lectio n” → “Lição n” nos cabeçalhos; os títulos pt-BR do sumário seguem os do en-US.
+- O texto de Aristóteles é traduzido da versão latina que Santo Tomás comenta, não do grego, para que os lemas coincidam com ele. Os lemas em negrito-itálico repetem a redação adotada no texto de Aristóteles.
+- A marcação `>` foi mantida como na fonte, inclusive onde a fonte a põe no primeiro parágrafo do comentário (§§ 1, 12, 20, 25, 29) e a omite no primeiro parágrafo do texto de Aristóteles.
+- g1-c001 [21]: o itálico de *De mobilibus* na fonte não marca um título; traduzido sem itálico (“dos móveis mistos inanimados”).
+- “onerosa … et non habens defectum” → “mais pesado … e não apresenta dificuldade”, com as glosas de Tomás (“vão e tolo”, “não suscita dúvida”); *defectus* naturais → “dificuldades naturais”.
+- *rationem litigiosam* → “argumento litigioso”, para manter distinta a glosa “isto é, sofístico”.
+- Notas do tradutor, numeradas por arquivo: g1-c001 [^1] (simo) e [^2] (o Comentador); g1-c002 [^1] (Antifonte e a quadratura do círculo); g1-c003 [^1] (zurrapa e vinho).
+- As remissões a *Metaphys.* e *Topic.* que a fonte dá sem itálico (g1-c006 §§ 42, 45) foram uniformizadas em itálico e por extenso.
+- g1-c006 [19] *Ex indivisibilibus itaque est omne* → “Portanto, tudo está entre os indivisíveis”, conforme a leitura de Tomás (“de numero indivisibilium”).
+- g1-c008: *naturaliter locuti* → “falaram de modo natural” (título e § 53).
+- g1-c009 [51]: o lema *nequaquam* não corresponde ao texto de Aristóteles dado (*Nunquam autem segregandum*); traduzido literalmente, “***de modo nenhum***”.
+- g1-c009: *indecens intellectus* → “intelecto indigno”; *sanativum* → “salutar” (o texto de Aristóteles tem *sanum*, “são”).
+- Nota do tradutor g1-c008 [^1] (partes semelhantes, homeomerias de Anaxágoras).
+- A fonte abre o primeiro parágrafo do comentário de cada lição com `>` (`> **75**.`); a marcação foi mantida como está.
+- g1-c010 [8]: *contingens a contingenti* → “contingente por obra de contingente”, para sustentar as duas glosas de Tomás em § 78 (***contingentes***).
+- g1-c012 § 98: o lema futuro *quod autem singulariter* → ***que, porém, só deste modo*** (*singulariter* = “somente assim”). A lição 14 deve abrir o texto de Aristóteles com “Que, porém, só deste modo…”.
+- g1-c012 [8]: o texto latino de Aristóteles traz *musicum autem et immusicum non permanet*; traduzido como está (“o músico e o imúsico”).
+- g1-c013 § 114: o lema ***contrariorum*** e as glosas gramaticais *contrariis*, *quam contraria* ficam em latim; explicadas na nota do tradutor g1-c013 [^1].
+- Notas do tradutor: g1-c010 [^1] (hábito e privação); g1-c013 [^1] (genitivo de comparação *contrariorum*).
+- g1-c014 [3]: *defectus* lido como plural (“as dificuldades”), conforme [19] e § 128; em § 121, *omnis defectus* → “toda dificuldade”.
+- g1-c014 [12]: o texto de Aristóteles foi vertido de modo a deixar *o que é* legível como sujeito, porque Tomás (§ 124) o lê assim (*quod est, idest ens*).
+- g1-c014 [56]: a marcação defeituosa do lema na fonte (`***…* **etc.`) foi normalizada para `***…*** etc.`.
+- g1-c015 [3] e g2-c002 [3]: a fonte não abre o texto de Aristóteles com `>`; mantido como está.
+- Lemas fixados: g1-c015 ***outros, pois, também a tocaram***, ***alguns, porém, dizem que o que não é***, ***e outra coisa é apta por natureza***; g2-c001 ***é, pois, a natureza***, ***digo, porém, “não por acidente”***, ***têm natureza, porém,***, ***que a natureza existe, porém,***; g2-c002 ***parece, porém, que a natureza*** (lema anunciado em g2-c001 § 141), ***além disso, do homem vem a ser***, ***além disso, a natureza***.
+- Lemas futuros anunciados em g2-c001 § 141: ***determinadas, porém, estas coisas*** e ***mas, visto que se determinou***; as lições seguintes devem abrir o texto de Aristóteles com essas palavras.
+- Notas do tradutor: g1-c015 [^1] (a matéria como mãe no *Timeu*); g2-c001 [^1] (*natura* de *nasci*; tradução de *vis insita rebus*); g2-c002 [^1] (*medicatio* e *medicina*).
+- O `>` que a fonte põe no primeiro parágrafo do comentário de cada lição (§ 157, 166, 176, 187) foi mantido como está.
+- Os títulos de g2-c003 e g2-c005 em negrito-itálico e a primeira frase de Aristóteles em g2-c006 [3], também em negrito-itálico, foram mantidos; os títulos de g2-c004 e g2-c006, sem marcação, ficam sem ela.
+- g2-c003 [4]: ordem “planos e sólidos, têm-nos os corpos físicos”, para que o lema ***com efeito, planos*** abra o texto.
+- g2-c004 [45]: Tomás lê o verso do poeta como redundância risível; vertido “o poeta acrescentou isto, que soa risível: dizer ***fim por causa do qual se faz***”.
+- Os lemas anunciados em g2-c001 § 141 foram cumpridos: g2-c003 [3] abre com “Mas, visto que se determinou”, g2-c005 [3] com “Determinadas, porém, estas coisas”.
+- Lemas fixados: g2-c003 ***com efeito, planos***, ***além disso, a astronomia***, ***destas coisas, pois, ocupa-se***, ***por isso também abstrai***, ***escapa, porém, isto aos que o fazem***, ***tornar-se-á, porém, manifesto***, ***demonstram-no também as que são mais***; g2-c004 ***visto, porém, que a natureza***, ***com efeito, já***, ***pois, a quem olha para os antigos***, ***mas, se a arte imita***, ***além disso, aquilo por causa do qual***, ***além disso, entre as coisas***, ***até que ponto***; g2-c005 ***de um modo***, ***acontece, porém, dizendo-se de muitos modos***, ***todas, porém, as causas agora ditas***; g2-c006 ***os modos das causas, porém,***, ***além disso, por acidente***, ***mas, além de todas***, ***além disso, dizem-se complexas***, ***todavia, todas estas***, ***diferem, porém,***, ***é preciso, porém, sempre***, ***além disso, umas***.
+- Lemas futuros anunciados em g2-c005 § 176–177: ***visto, porém, que as causas são quatro***, ***diz-se, porém, a fortuna*** e ***que, porém, há causas***; as lições seguintes devem abrir o texto de Aristóteles com essas palavras.
+- Notas do tradutor: g2-c003 [^1] (*simus*, o nariz simo) e [^2] (*astrologia*, *perspectiva*, *harmonica*); g2-c005 [^1] (diapasão como oitava); g2-c006 [^1] (Policleto).
+- Os títulos de g2-c007 e g2-c011 em negrito-itálico foram mantidos; os de g2-c008, g2-c009 e g2-c010, sem marcação, ficam sem ela.
+- Os lemas anunciados em g2-c005 § 176–177 foram cumpridos: g2-c007 [3] abre com “Diz-se, porém, a fortuna”, g2-c010 [20] com “Que, porém, há causas”, g2-c011 [3] com “Visto, porém, que as causas são quatro”.
+- Lemas fixados: g2-c007 ***alguns, com efeito, duvidam***, ***pois, se algo***, ***mas também isto parecerá admirável***, ***é inconveniente, portanto***, ***há, porém, alguns que, deste céu***, ***e é isto muito digno de admiração***, ***como, pois? Visto que de outro modo***, ***há, porém, alguns a quem parece***; g2-c008 ***primeiramente, pois, visto que***, ***fora destas***, ***das coisas que se fazem, porém***, ***destas, porém, umas***, ***tais coisas, pois, quando se fazem por acidente***, ***como, pois, se disse***, ***em vista da recuperação***, ***é manifesto, portanto***; g2-c009 ***infinitas, pois***, ***e, de certo modo, pela fortuna***, ***e dizer que a fortuna***, ***todavia, ficará em falta***, ***a fortuna, porém, diz-se***, ***a ventura***, ***além disso, incerta***, ***são, pois, ambos***; g2-c010 ***diferem, porém,***, ***a fortuna, com efeito***, ***mas o acaso está também nos outros***, ***e por isso nem algo inanimado***, ***por isso é manifesto***, ***sinal, porém, é***, ***sobretudo, porém***, ***mas, dos modos das causas***, ***visto, porém, que o acaso***, ***o porquê se reduz por último ao que é***; g2-c011 ***mas três vêm a dar numa só***, ***e, em geral, todas as coisas que, movidas***, ***três são as investigações***, ***por isso, o porquê***, ***acerca da geração***, ***o que fez primeiro***, ***e o que é***, ***e inteiramente o porquê***, ***e se isto deve fazer-se***, ***e porque é mais digno***.
+- Lema futuro anunciado em g2-c011 § 244: ***deve-se dizer, pois***; a Lição 12 deve abrir o texto de Aristóteles com essas palavras.
+- g2-c009 [11]: *deficiet* vertido “ficará em falta”, para que a glosa de Tomás em § 221 (“isto é, duvidará alguém”) tenha onde apoiar-se; *spiritus*, “o sopro”, glosado “o vento”.
+- g2-c010 [5]: *eupraxia* posto em itálico também no texto de Aristóteles, onde a fonte não o marca, por ser palavra grega; Tomás explica-a em § 229.
+- Notas do tradutor: g2-c009 [^1] (*eufortunium*, ventura); g2-c010 [^1] (*automatum* e *mátēn*, o acaso e o vão).
+- g2-c012 [3] abre com “Deve-se dizer, pois”, cumprindo o lema anunciado em g2-c011 § 244.
+- g2-c015: *simpliciter* vertido “simplesmente”, não “absolutamente”, porque Tomás o glosa *idest absolute* (§ 270); fora desse par, mantém-se “absolutamente”.
+- g2-c012 [3]: *tangentes gaudere sinant* vertido à letra, “deixam-na regozijar-se”, para apoiar a glosa de Tomás em § 250 (“não têm de que se regozijar”). [7]: *deficiet* mantido como “ficará em falta”, como em g2-c009.
+- g2-c014 [2]: título sem marcação, como na fonte.
+- Lemas fixados: g2-c012 ***há, porém, uma objeção***, ***Júpiter faz chover***, ***por si*** ***vão***; g2-c013 ***mas é impossível que estas coisas***, ***sob o Cão***, ***além disso, em tudo aquilo em que***, ***naturalmente apto***, ***em geral, porém, a arte***, ***sobretudo, porém, é manifesto***, ***e, visto que a natureza é de dois modos***; g2-c014 ***ocorre, porém, falha***, ***em geral, porém, destrói***, ***é inconveniente, porém***, ***além disso, é necessário***, ***além disso, também nas plantas há***, ***articulado***, ***ainda, seria preciso***; g2-c015 ***o que, porém, é***, ***hoje, com efeito, alguns***, ***mas, todavia, não se fez sem estas***, ***há, porém, o necessário***, ***deste modo*** / ***tal*** / ***por causa disto***, ***e o fim, que é***, ***não será se não tiver dentes***; g3-c001 ***há, pois, algo***, ***ao determinar, porém***, ***não há, porém, movimento fora das coisas***, ***cada um, porém, está de dois modos***, ***fora das coisas***, ***para algo***, ***onde***.
+- Lemas futuros anunciados em g3-c001: ***dividido, porém, segundo cada um*** (Livro 3, Lição 2); ***visto, porém, que sobre a natureza*** (Livro 3, Lição 6); ***do mesmo modo, porém, é necessário*** (Livro 4, Lição 1); ***muda, porém*** (Livro 5, Lição 1); ***tudo o que se move*** (Livro 7, Lição 1). Esses textos de Aristóteles devem abrir com essas palavras.
+- Notas do tradutor: g2-c012 [^1] (*gaudere sinant*, a expressão grega de despedida) e [^2] (*bovigenas viriproras*, Empédocles); g2-c013 [^1] (*sub cane*, canícula); g2-c015 [^1] (*in doctrinis*, as disciplinas matemáticas); g3-c001 [^1] (*ubi*, a categoria do lugar).
+- g3-c002 [31] e [44]: a marcação partida da fonte (`***existentis* *in potentia…***`, `***existentis** **in potentia***`) foi unificada num só trecho em negrito-itálico.
+- g3-c004 [45]: *motus autem in ipso agere* traduzido “motor ***no próprio agir***”, lendo *motus* como *movens*, conforme o texto de Aristóteles em [10] e o paralelo com *motivum*.
+- g3-c004 [3]: o texto de Aristóteles abre “Move-se, porém, também todo motor”; o lema de Tomás em g3-c002 [19] (*movetur autem movens*) fica ***move-se, porém, o motor***.
+- g3-c005 [11]: o texto de Aristóteles abre “Nem nada impede que um só…”, para que o lema *neque unum duobus* (g3-c005 [41]) case com o início.
+- Lemas fixados: g3-c002 ***por exemplo, a do alterável***, ***que isto, porém, seja o movimento***, ***visto, porém, que algumas coisas***, ***digo, porém, isto, o “enquanto”***, ***é manifesto, porém, também nos contrários***, ***que é isto, pois*** (início de g3-c003), ***o que é, pois, o movimento*** (g3-c005 [16]); g3-c003 ***que, porém, foi bem dito***, ***é manifesto, porém, aos que atentam***, ***a causa, porém, de pô-lo nestas coisas***, ***que o movimento pareça, porém, indeterminado***; g3-c004 ***e também aquilo cuja imobilidade***, ***pois agir com vistas a isto***, ***donde o movimento***, ***acontece, porém***, ***e também a dúvida***, ***o ato do motivo, porém***, ***pois é preciso***, ***mas é ativo do móvel***, ***assim como é o mesmo intervalo***, ***tem, porém, uma deficiência*** (início de g3-c005); g3-c005 ***visto, pois, que ambos***, ***mas, se é assim***, ***se, porém, ambos***, ***mas será um só ato?***, ***mas nem o ato (de um)***, ***nem nada impede que um só***, ***mas tampouco, se o ensino***, ***em geral, porém, deve-se dizer***.
+- Notas do tradutor: g3-c002 [^1] (*entelechia*, etimologia grega); g3-c003 [^1] (*altera parte longius*, o oblongo da tábua pitagórica); g3-c005 [^1] (*habitus* como categoria do ter, distinto do hábito-qualidade).
+- Mantida a marcação da fonte nos parágrafos em que o comentário de Tomás abre com `> **326**.`, `> **336**.`, `> **349**.`, `> **358**.`, e o texto de Aristóteles sem `>` em g3-c006 [3], g3-c008 [3], g3-c009 [3].
+- Lemas fixados: g3-c006 ***e todos o põem como princípio***, ***com a diferença de que os pitagóricos***, ***e estes dizem que o infinito (é o par)***, ***os que tratam da natureza, porém(, todos)***, ***razoavelmente, porém(, também como princípio)***, ***sinal, pois, de que desta ciência***, ***pois, postos gnômons*** / ***em torno do um*** / ***e fora*** / ***ora se faz outra espécie*** / ***ora se faz uma só espécie***; g3-c007 ***que, porém, o infinito existe***, ***que, pois, um corpo em ato*** (lição posterior), ***comporta, porém, dúvida***, ***primeiro, pois, deve-se determinar***, ***além disso, todo infinito***, ***que seja, pois, separável***, ***além disso, como pode***, ***é manifesto, porém***, ***o infinito e o ser do infinito***; g3-c008 ***racionalmente, pois***, ***de modo mais físico, porém***, ***determinado pelo plano***, ***duplicado quantas vezes for***, ***é preciso, porém, acerca de tudo***; g3-c009 ***pois é apto por natureza***, ***por isso, se for da mesma espécie***, ***Anaxágoras, porém(, de modo inconveniente)***, ***como se, onde quer que***, ***semelhantemente, porém, é manifesto***, ***de modo geral, porém, é manifesto***, ***além disso, todo corpo sensível (está em lugar)***, ***absolutamente, porém, se é impossível***, ***que lhe é cognato***, ***conter***, ***apoia***.
+- g3-c008 [27]: *nisi ponantur duo corpora esse simul* traduzido “a não ser que se ponham dois corpos juntos num mesmo lugar”, no sentido aristotélico de *simul*.
+- g3-c009 [15]: *sed quia non apta nata est sic* traduzido “porque não é apta por natureza a mover-se assim”, conforme a glosa de Tomás em [51].
+- Notas do tradutor: g3-c006 [^1] (gnômon, definição de Euclides); g3-c007 [^1] (Platão gera o tempo: alusão ao *Timeu*); g3-c008 [^1] (transcendentais); g3-c009 [^1] (*Septentrio* e o sul como “em cima”).
+- Lemas fixados: g3-c010 ***diz-se, pois(, que uma coisa é)***, ***não se deve, porém, tomar o ente em potência***, ***pois os Jogos Olímpicos***, ***de outro modo, porém, também no tempo***, ***pois, de modo geral, assim existe***, ***mas nas grandezas***, ***o que é por adição, porém***, ***não excede, contudo***, ***por isso, exceder (tudo)***, ***pois também Platão(, por isso)***, ***partir as linhas átomas***; g3-c011 ***acontece, porém, que o infinito é o contrário***, ***sinal disso (é)***, ***aquilo, porém, fora do qual nada há***, ***por isso, deve-se pensar***, ***pois daí tomam (a dignidade)***, ***pois, se contém***; g3-c012 ***conforme à razão, porém, acontece***, ***razoavelmente, porém***, ***para o mais, porém, é sempre possível conceber***, ***nas grandezas, porém***, ***o infinito, porém, não é o mesmo***, ***não remove, porém, a razão (os matemáticos)***, ***como, porém, as causas (se dividem)***; g3-c013 ***resta, porém***, ***pois nem, para que a geração***, ***além disso, ser tocado e ser incluído***, ***dar crédito ao pensamento, porém***, ***o tempo e o movimento, porém***, ***a grandeza, porém, nem por divisão***; g4-c001 ***pois as coisas que existem***, ***e por causa do movimento: o que é maximamente comum***, ***comporta, porém, muitas dúvidas***, ***que o lugar existe, pois***, ***além disso, as mudanças de lugar***, ***além disso, os que afirmam o vazio***, ***parecerá também***; lemas de lições futuras: ***segue-se, porém, ao que foi dito*** (tempo), ***do mesmo modo, porém, deve-se tomar*** (vazio), ***depois disto, porém, deve-se tomar***, ***como, porém, uma coisa***, ***mas comporta deficiência***; g4-c002 ***além disso, se o lugar do corpo é verdadeiramente***, ***pois o que poremos, afinal, que é o lugar?***, ***além disso, de que coisa***, ***além disso, ele mesmo, se é algo do que existe***, ***além disso, assim como todo corpo***.
+- g3-c010 [35]: *secundum aliam litteram* traduzido “segundo outra versão”, pois Tomás se refere a outra tradução latina de Aristóteles.
+- g3-c013 [17]: o lema de Tomás traz *tangi et includi*, embora o texto de [5] tenha *finiri*; mantido “ser incluído” no lema, como na fonte.
+- g4-c002 [18]: *Mediam probat* traduzido “prova a premissa do meio”, isto é, a premissa “o lugar não é nenhum destes”.
+- g4-c002 [13]: *duo corpora esse simul* traduzido “dois corpos estariam juntos num mesmo lugar”, conforme a decisão de g3-c008 [27].
+- Notas do tradutor: g3-c010 [^1] (Olímpia, e não o monte Olimpo); g3-c011 [^1] (*dignitas* como versão de *axíoma*); g3-c012 [^1] (o Comentador, Averróis); g4-c001 [^1] (tragélafo).
+- Lemas fixados: g4-c003 ***mas, na verdade, que é impossível***, ***enquanto, porém, o lugar parece ser***, ***com razão, porém, aos que consideram (a partir destas coisas)***, ***parece, porém, sempre***, ***a Platão, portanto, deve-se dizer***, ***além disso, como seria levado***, ***além disso, quando do ar se faz água***; g4-c004 ***alguém, porém, duvidará***, ***isto, porém, se dá de dois modos***, ***primeiramente, porém, não é possível***, ***nem, pois, considerando indutivamente***, ***e pela razão é manifesto***, ***mas, na verdade, nem por acidente***, ***aquilo, porém, que Zenão (objetou)***, ***isto, porém, é manifesto***; g4-c005 ***o que, porém, talvez***, ***deve-se, porém, tentar***, ***primeiro, pois, é preciso***, ***do que se move, porém, uma coisa***, ***como, porém, dizemos estar***, ***quando, pois, não está dividido***, ***e, quando é contínuo***, ***além disso, quando não está dividido***; lemas de lições futuras: ***é manifesto, porém, a partir disto***, ***e é levado, pois, ao seu próprio***, ***aquilo, pois, a que***, ***já é, pois, manifesto a partir***.
+- O primeiro parágrafo do comentário em cada lição (g4-c003 [16], g4-c004 [24], g4-c005 [15]) mantém o `>` inicial, como na fonte.
+- g4-c004 [22] e [70]: *ut habitus* / *ut passio* traduzidos “à maneira de hábito” / “à maneira de paixão”, para evitar a repetição de “como”.
+- g4-c004 [18]: *motiorum* da fonte lido como *modorum* (“modos”), conforme o comentário de Tomás em [65].
+- Notas do tradutor: g4-c003 [^1] (segunda figura com duas afirmativas; sofisma do consequente); g4-c003 [^2] (doutrinas não escritas de Platão).
+- Lemas fixados: g4-c006 ***destes, porém, que não é possível***, ***mas, por causa daquilo que contém, parece ser a forma***, ***são, pois, ambos***, ***mas, pelo fato de que muda***, ***isto, porém, não é***, ***ao mesmo tempo, porém, também o lugar será***, ***e também a matéria parece***, ***mas a matéria (, como se disse)***, ***se, pois, nenhum destes (três)***, ***parece, porém, algo grande***, ***é, porém, assim como o vaso***, ***por isso, o termo (do continente)***, ***e por isso o meio (do céu)***, ***e por isso parece ser um plano***, ***além disso, juntamente com a coisa***; g4-c007 ***por isso, ainda que a água se torne***, ***como, porém, se disse(, umas)***, ***e umas são por si***, ***por isso, move-se circularmente***; g4-c008 ***e é levado, pois, ao seu próprio***, ***e permanece, pois, por natureza***; g4-c009 ***uns, pois(, tentando mostrar)***, ***deve-se, porém, começar***, ***mas os que afirmam (que existe)***, ***Melisso, pois***, ***de outro modo, porém(, porque parecem)***, ***além disso, também o aumento***, ***como testemunho, porém***, ***afirmaram, porém, que existe***; lemas de lições futuras: ***uma vez que, porém, não há*** (*quoniam autem non est*), ***para qual, porém*** (*ad quale autem*).
+- g4-c006 [22] e [88]: *terminus continentis immobilis primum* traduzido literalmente (“o termo do continente imóvel primeiro”), mantendo a ambiguidade do latim; no comentário, Tomás reordena (“termo imóvel do continente primeiro”), e a tradução acompanha.
+- g4-c007 [7] e [44]: *habita* traduzido “disposta”, para que a glosa de Tomás (“isto é, segue-se imediatamente”) faça sentido.
+- Notas do tradutor: g4-c007 [^1] (os comentadores Alexandre de Afrodísias, Temístio, Avicena, Avempace, Averróis); g4-c009 [^1] (etimologia de “clepsidra” e o utensílio em causa).
+- Lemas fixados: g4-c010 ***parece, porém(, que o vazio)***, ***mas é inconveniente***, ***por isso, mesmo se (alguém duvidar)***, ***de outro modo, porém***, ***uma vez que, porém, sobre o lugar***, ***e pelas mesmas razões foi admitido***, ***nem há, porém, uma só (necessidade)***, ***pode, porém, condensar-se***, ***e aumentar***, ***em geral, porém, também o argumento sobre o aumento***; g4-c011 ***além disso, se há***, ***ao alto e ao baixo***, ***acontece, porém, aos que dizem***, ***depois, porque todo movimento***, ***além disso, agora as coisas lançadas***, ***além disso, ninguém***; g4-c012 ***além disso, também por estas coisas***, ***aquilo, pois, através do qual é levado***, ***o vazio, porém, não tem***, ***logo, tampouco o movimento***, ***seja, pois, Z o vazio***, ***mas, como se pode dizer em resumo*** (*in capitulo*), ***segundo, porém, o excesso das coisas***; g4-c013 ***e também, para quem o considera em si mesmo***, ***além disso, é manifesto***, ***além disso, é preciso***; lema de lição futura: ***há, porém, alguns*** (*sunt autem quidam*, g4-c014).
+- g4-c010 [41]: o lema com marcação partida na fonte (`***sed inconveniens** est*`) foi normalizado para um só lema em negrito e itálico.
+- O primeiro parágrafo do comentário de cada lição, que na fonte vem em `>`, mantém o `>`.
+- g4-c010 [54]: *in generationibus corporum continuorum* traduzido à letra (“nas gerações”), embora o texto de Aristóteles traga *revolutionibus*.
+- g4-c012 [4] e [8]: o latim da tradução aristotélica é elíptico e confuso; traduzido de perto, sem suprir palavras. Mantidas as letras maiúsculas do texto de Aristóteles e as minúsculas do comentário (com *I* maiúsculo, como na fonte).
+- g4-c012 [78]: *violentiam prohibentis* traduzido à letra (“a violência do que impede”), sem emendar para *proiicientis*.
+- Notas do tradutor: g4-c012 [^1] (*ratio*/*proportio* em sentido matemático); g4-c013 [^1] (jogo de *vacuum* com *inane*, *inaniter*).
+- Fórmulas fixas do comentário: *Deinde cum dicit:* “Em seguida, quando diz:”; *ibi:* “onde diz:”.
+- Lemas fixados: g4-c014 ***se, pois, chamam raro***, ***uma vez que, porém, quanto ao vazio***, ***se, porém, não é separável***, ***depois, causa do movimento***, ***além disso, como***, ***e é manifesto***, ***nós, porém, dizemos***, ***pelo que foi dito, pois, é manifesto***, ***pois, assim como do frio se faz o quente***, ***o denso, porém***, ***logo, também do corpo (a matéria)***; g4-c015 ***que, pois(, não exista de todo)***, ***além disso, de toda***, ***além disso, o próprio agora***, ***pois, se o agora***, ***mas tampouco (o agora)***, ***além disso, se ser simultâneo***; g4-c016 ***contudo, uma parte da revolução***, ***além disso***, ***a esfera do todo, porém***, ***uma vez que, porém, parece (sobretudo)***, ***além disso, toda mudança***, ***mas tampouco sem movimento***; g4-c017 ***deve-se tomar, porém***, ***uma vez que, porém, o que se move***, ***o anterior, porém, e o posterior***, ***ora, o anterior e o posterior (deles)***, ***mas também o tempo(, conhecemo-lo)***, ***determinamo-lo, porém***, ***é, porém, sinal***, ***uma vez que, porém, o número***. Lemas de lições futuras: ***é digno, porém*** (*dignum autem*), ***uma vez que, porém, o tempo é*** (*quoniam autem est tempus*), ***e, assim como o movimento sempre*** (*et sicut motus semper*), ***que, pois, o tempo*** (*quod quidem igitur tempus*).
+- g4-c014 [56]: as letras minúsculas do exemplo levam artigo (“o a se mova para o lugar b”), para não se confundirem com a preposição.
+- g4-c015 [9]: o latim da tradução aristotélica é confuso; traduzido de perto segundo o sentido que Tomás lhe dá em [35].
+- g4-c017 [22]: *ex definitione motus assignata* traduzido à letra (“definição do movimento”), sem emendar para *temporis*.
+- g4-c016 [36]: mantido “Sardo” como na fonte; nota sobre a leitura de Tomás (Sardes) e a dos comentadores (Sardenha).
+- Notas do tradutor: g4-c014 [^1] (Xuto); g4-c016 [^1] (segunda figura do silogismo com duas afirmativas), [^2] (Sardo); g4-c017 [^1] (*intentio*).
+- Lemas fixados: g4-c018 ***o agora, porém***, ***pois o movimento acompanha, como foi dito***, ***e o mais conhecido***, ***é manifesto, porém***, ***e o tempo já é contínuo***, ***também isto acompanha***, ***e é ainda manifesto (que nenhuma parte)***; g4-c019 ***é manifesto, porém(, por que)***, ***e é, porém, o mesmo (em toda parte)***, ***além disso, assim como sucede***, ***não só, porém, medimos o movimento (pelo tempo)***, ***e isto acontece com razão***; g4-c020 ***é manifesto, porém, que***, ***uma vez que, porém, assim como (se está no número)***, ***e padecer algo sob o tempo***, ***por isso, é manifesto***, ***sinal disto, porém***, ***uma vez que, porém, o tempo***, ***pois não, como***, ***pois nem todo imóvel***, ***medirá, porém, o tempo***, ***por isso, as coisas que nem se movem***, ***é manifesto, pois(, que)***; g4-c021 ***o agora, porém***, ***divide, porém, em potência***, ***é, porém, o mesmo***, ***outro, porém***, ***o então, porém***, ***se, porém, não há tempo***, ***o já, porém***, ***o há pouco, porém, próximo***.
+- g4-c020 [76]: ***symmetrum*** mantido em latim, como lema, seguido da glosa de Tomás.
+- g4-c021 [6]: o latim da versão aristotélica está corrompido (*sic dicitur autem non idem ipsorum nunc*); traduzido segundo o sentido que Tomás lhe dá em [27] e a transição para [7].
+- g4-c021 [28]: *veniet nunc, quia venit hodie* traduzido “veio agora, porque veio hoje”, corrigindo o lapso evidente da edição à luz de [7].
+- g4-c021 [12]: *curvum* traduzido à letra (“o curvo”) no texto de Aristóteles; no comentário, “convexo”, como Tomás.
+- Notas do tradutor: g4-c018 [^1] (Corisco); g4-c020 [^1] (*superfluus* por *perittón*); g4-c021 [^1] (*iam*).
+- Lemas fixados: g4-c022 ***determinadas, porém, estas coisas por nós (deste modo)***, ***é sinal suficiente, porém***, ***que o tempo, pois***, ***mas o antes está no tempo***; g4-c023 ***ou porque***, ***se, porém, não existindo (a alma)***, ***pois, sendo impossível***, ***mas ou então isto***, ***de algum modo***, ***duvidará, porém, alguém***, ***ou de qualquer um***, ***mas pode agora mover-se***, ***ou não: pois todo (tempo)***, ***semelhantemente***, ***uma vez, porém, que há a mudança de lugar***, ***próximo***, ***se, pois, o que é primeiro (é medida)***, ***de todas as coisas próximas***, ***regular***, ***por isso também parece (que o tempo)***, ***por isso, porém***, ***diz-se, porém, com acerto***, ***equilátero***, ***escaleno***, ***pela diferença de triângulo***; g5-c001 ***o que transmuda***, ***tórax***, ***primeiramente***, ***segundo si***, ***isto se dá, porém, também no motor***, ***uma vez, porém, que há algo***, ***pois é outro (o que)***, ***antes, porém, por aquilo para que***, ***para aquilo para que é movido***, ***o que é, pois(, o movimento)***, ***espécie***, ***paixões***, ***e alguém duvidará***, ***haverá, com efeito, mudança para o movimento***, ***talvez***, ***também naquelas coisas, porém***, ***como, pois(, se move por si)***, ***segundo algo outro***, ***no móvel segundo o ato***, ***a mudança por acidente, pois***, ***nos contrários e nos intermédios***, ***e na contradição***, ***a partir do intermédio, porém(, muda-se)***, ***é grave em relação à última***, ***fina***, ***em relação à extrema***; g5-c002 ***por isso, é necessário***, ***pois a que é de não sujeito***, ***de não sujeito, pois***, ***a que é, porém, de sujeito (para não)***, ***geração***, ***certa***, ***disto***, ***absolutamente***, ***corrupção***, ***se, pois, o que não é***, ***e, se tudo***, ***nem tampouco a corrupção***, ***uma vez, porém(, que o movimento)***, ***sujeitos***.
+- Lemas antecipados de livros seguintes: ***se, porém, é contínuo*** (início do livro 6), ***depois disto, digamos o que é estar junto*** (g5-c005), ***uma vez, porém, que toda mudança*** (g5-c002), ***se, pois, as categorias*** (subdivisão do movimento, g5-c003).
+- g4-c023 [79]: mantida a marcação irregular da fonte (`***...é** medida*`).
+- g5-c002 [2]: o título da lição vem sem negrito nem itálico na fonte; mantido assim.
+- Notas do tradutor: g4-c022 [^1] (Páron); g4-c023 [^1] (*gradatus*/escaleno); g5-c002 [^1] (*metabolé*).
+- Lemas fixados: g5-c003 ***segundo a substância, porém***, ***imóvel, porém***, ***uma vez, porém, que nem da substância***, ***relativo***, ***nem há no relativo***, ***nem do agente (nem do paciente)***, ***em primeiro lugar, com efeito, pode haver***, ***em geral, porém(, uma vez que se move)***, ***como do sujeito***, ***como do termo***, ***assim***, ***não semelhantemente***, ***contingente***, ***de algo para algo outro***, ***além disso, vai-se ao infinito***, ***contíguo***, ***além disso, ao mesmo movimento***, ***quando se faz o que se faz***, ***além disso, é preciso que haja matéria***, ***semelhantemente, porém***, ***além disso, se há três espécies***; g5-c004 ***o movimento, pois***, ***o que é, por sua vez, segundo (a quantidade)***, ***o que é, porém, segundo o lugar***, ***a mudança, porém, que é na mesma espécie***, ***mais e o menos***, ***ou absolutamente***, ***ou assim***, ***que, pois, estes três***, ***imóvel, porém, é***, ***privação no suscetível de movimento***, ***o que é, pois, o movimento***; g5-c005 ***diz-se, pois, que estão juntas***, ***juntas segundo o lugar***, ***o que é, pois(, estar junto)***, ***é manifesto, porém, também que o primeiro***, ***intermédio, por sua vez(, é aquilo a que está apto)***, ***contínuo, porém(, é por certo)***, ***consecutivo, porém, é***, ***uma vez, porém, que toda mudança***, ***que em nada ou em pouquíssimo falha quanto à coisa***, ***contrário segundo o lugar***, ***segundo a retidão***, ***pois a mínima é finita***, ***e aquilo de que é consecutivo***, ***estando depois do princípio***, ***e, se é contínuo***, ***por isso, se há a unidade***, ***inserção***, ***adnatos***, ***junção***.
+- Lema antecipado: ***uno, porém, se diz o movimento*** (g5-c006, “Unus autem motus dicitur multipliciter”: “Uno, porém, se diz o movimento de muitos modos”).
+- Mantido como na fonte: o primeiro parágrafo do comentário dentro do bloco de citação (`> **660**.`, `> **678**.`, `> **684**.`); o salto de numeração de 690 para 692 em g5-c005; títulos de lição sem negrito.
+- *Secundae* (g5-c005 [11], [59]) traduzido por “do segundo dia”, com nota [^2] sobre *noumēnía* e *deutéra*.
+- Notas do tradutor: g5-c003 [^1] (o Comentador); g5-c004 [^1] (*alteratio*/*alter*), [^2] (*latio*/*ferri*); g5-c005 [^1] (hípate), [^2] (lua nova).
+- *Deinde cum dicit* traduzido por “Em seguida, quando diz:”; *ibi* por “aí:”.
+- Lemas fixados: g5-c006 ***uno em espécie, porém, é***, ***mas alguém duvidará***, ***absolutamente uno, porém(, é o movimento)***, ***indivisível***, ***como uno em espécie***, ***em número***, ***absolutamente***, ***paixão***, ***contíguo***, ***e sem falha***, ***do próprio quando***, ***daquilo em que***, ***que Sócrates, porém***, ***há, porém, uma dúvida***, ***a razão, com efeito, é a mesma***, ***hábito***; g5-c007 ***uma vez, porém, que é contínuo***, ***equívocos***, ***contíguos***, ***na difusão da lâmpada***, ***difusão***, ***lâmpada***, ***além disso, diz-se uno também o perfeito***, ***além disso, de outro modo(, além dos ditos)***, ***regular***, ***irregular***, ***há, porém, também em todo movimento***, ***ser levado***, ***a diferença da irregularidade, porém***, ***uno, pois,( é o irregular)***, ***donde nem espécies (do movimento)***, ***naquilo para o qual, naquilo em que***, ***em que***, ***no como***, ***para ela mesma***, ***para ele mesmo***, ***se, porém, todo (movimento uno)***; g5-c008 ***além disso, deve-se determinar***, ***acerca da permanência***, ***ora, o que parte (do contrário)***, ***o ser não é o mesmo para eles***, ***nem o que parte do contrário***, ***pois acontece ao mesmo tempo mudar-se***, ***mas mudar-se para o contrário***, ***e cada um, além disso, diz-se***, ***diz-se***, ***restam, pois***, ***para os quais***, ***o que vai para os contrários***, ***e o que vai para os contrários a partir dos contrários***, ***uma vez, porém, que difere***, ***é manifesto, porém***, ***não por si mesmo***, ***o que, porém, vai para o contrário***, ***naquelas, porém, em que não há contrário***, ***os que, porém, são movimentos para o meio***; g5-c009 ***uma vez, porém, que ao movimento***, ***qual, porém(, a qual)***, ***absolutamente***, ***permanência***, ***é manifesto, pois***, ***sujeitos***, ***ao mesmo tempo, porém***, ***ao movimento, porém, àquele (que vai)***, ***para aquilo mesmo***, ***aquietação***, ***naquelas, porém, em que não há contrários***, ***que parte do ser***, ***que vai para o ser***, ***repouso, por certo, delas***, ***e, se por certo houver algum***, ***não é algo o que não é***, ***se, porém, assim é(, ou nem todo)***, ***algo semelhante, porém, é***.
+- Em g5-c007 [15] o texto de Aristóteles diz *neque in eo ad quod, neque in quo*, e o lema de Tomás traz *in quod quo*; o lema traduz-se por ***naquilo para o qual, naquilo em que***, para acompanhar o texto.
+- *Albedini autem non amplius* (g5-c006 [6]) traduzido literalmente (“Da brancura, porém, já não há mais”); Tomás explica em [40] que se trata de espécies.
+- *Si autem hoc est* (g5-c009 [14]) traduzido por “Se, porém, assim é”, para evitar a leitura de “isto é” como glosa.
+- Notas do tradutor: g5-c006 [^1] (Corisco); g5-c007 [^1] (a lâmpada *ex diffusione* e o grego *ek diadochês*); g5-c009 [^1] (*immutatio* como “não mudança”).
+- Lemas fixados: g5-c010 ***alguém, porém, duvidará***, ***mas, se o que se faz por violência***, ***em geral(, pois, contrários)***, ***haverá, pois, corrupções***, ***não fadadas***, ***alimento***, ***doce***, ***triste***, ***e deles são contrárias***, ***há, porém, dúvida***, ***parar***, ***parou***, ***o que para parece sempre ser levado mais velozmente***, ***não feito em repouso***, ***além disso, parece que o próprio parar***, ***há, porém, dúvida se é contrário***, ***ou repousa de algum modo***, ***sob certo aspecto***, ***lá***, ***permanecerá***, ***remanescerá***, ***uma vez, porém, que há em algumas coisas***, ***talvez, porém, ao repouso***; g6-c001 ***é necessário, porém, que também o próprio agora***, ***é manifesto, pois, pelo que foi dito***, ***é da mesma razão, porém***, ***pois nem são um***, ***nenhum outro gênero, porém***, ***mas tampouco (será consecutivo)***, ***além disso, é necessário***, ***pelo lugar***, ***comprimento***, ***além disso, dividir-se-iam***, ***é manifesto, porém***; g6-c002 ***é manifesto, porém, por isto***, ***de modo semelhante, porém, é necessário***, ***por exemplo, se a ABC***, ***se, pois, presente o movimento***, ***logo, segundo A***, ***e ter sido movido algo***, ***se, pois, é necessário***, ***tiver chegado depois de estar vindo***, ***estava vindo***, ***tiver chegado e estiver vindo***, ***não movido***, ***passou***, ***e, se os indivisíveis***; g6-c003 ***e, se qualquer um é infinito***, ***pois, se toda***, ***uma vez, porém, que toda***, ***uma vez, porém, que todo movimento***, ***além disso, também a partir das razões costumeiras***, ***seja, pois***, ***mas também em menor(, mais)***, ***ficará aquém***, ***pois, uma vez que (uma maior)***, ***além disso, se tudo***, ***sendo, porém, estas coisas***, ***pois, uma vez que se mostrou***, ***mais velozmente e mais lentamente***, ***contínuo***.
+- A ordem de algumas frases do texto de Aristóteles foi ajustada para que o lema de Tomás coincida com o início da frase (g5-c010 [10], [11], [16], [27]; g6-c001 [5], [10]; g6-c003 [9], [12], [17], [21]).
+- *Per interemptionem* (g5-c010 [40]) traduzido por “por negação”.
+- *Remanebit*, glosado por Tomás como *cessabit* (g5-c010 [76]), traduzido por “remanescerá”, deixando a glosa explicar o sentido medieval de “cessar”.
+- Em g5-c010 [57], *generatio est contraria generationi et corruptioni* lê-se como “a geração é contrária à geração, e a corrupção à corrupção”, conforme o argumento de [52]–[56].
+- Em g6-c003 [4], *si enim omnis divisibilis est* traduzido por “se toda grandeza é divisível”, para tornar explícito o sujeito feminino.
+- Letras das figuras mantidas como na fonte (maiúsculas no texto de Aristóteles, minúsculas no comentário, com as exceções da fonte, como LX).
+- Notas do tradutor: g5-c010 [^1] (dias críticos), [^2] (o Comentador e Teofrasto); g6-c002 [^1] (*momentum*, grego *kínēma*); g6-c003 [^1] (primeiro móvel).
+- Lemas fixados: g6-c004 ***por isso também a razão de Zenão***, ***e tampouco o infinito***, ***seja, pois, uma grandeza***, ***a mesma demonstração, porém***, ***além disso***, ***que, porém, não em tempo infinito***, ***se se tomar em outra um tempo finito***, ***existindo finito o outro termo***, ***é manifesto, pois, pelo que foi dito***, ***pois, uma vez que em todo tempo***, ***plano***, ***átomo***, ***segundo a hemiólia***, ***hemiólio***; g6-c005 ***pois há algo extremo daquilo***, ***pois há algo***, ***daquilo que foi feito***, ***é necessário, pois***, ***pois, se for outro***, ***unívoco***, ***se, porém, é divisível***, ***ao mesmo tempo, porém***, ***além disso, do próprio agora***, ***mas, se é o mesmo***, ***que, porém, nada no próprio agora (se move)***, ***mas tampouco repousar***, ***além disso, se o mesmo***, ***além disso, repousar***, ***tudo o que muda, porém***, ***e todas as suas partes***, ***(o) que muda***, ***é necessário, pois, que algo do mutante esteja num e algo diverso no outro***, ***digo, porém, aquilo para o qual muda primeiro segundo a mudança***, ***aquilo para o qual primeiro muda***, ***o primeiro para o qual muda***.
+- Lema da próxima lição, já citado em g6-c005 [27]: ***o movimento, porém, é divisível de dois modos***.
+- Em g6-c004 [11], o texto de Aristóteles tem *altero termino existente*; o lema de Tomás em [51] acrescenta *finito*. Ambos traduzidos como estão: “existindo o outro termo” e “existindo finito o outro termo”.
+- Em g6-c005 [22], *mutantis* traduzido por “do mutante”, para que a glosa de Tomás em [100] (“isto é, do que muda”) mantenha sentido.
+- *Ly prius* (g6-c005 [70]) traduzido por “a palavra ‘antes’”.
+- Títulos de obras de Aristóteles citados por Tomás vão em itálico (*Sobre o sentido e o sensível*).
+- Notas do tradutor: g6-c004 [^1] (solução *ad hominem*, *Física* VIII, 8); g6-c005 [^1] (Alexandre de Afrodísias, Temístio, Avempace).
+- Lemas fixados: g6-c006 ***o movimento, porém, é divisível de dois modos***, ***seja, pois, o movimento de ab***, ***além disso, se todo movimento***, ***além disso, se há***, ***a outra, porém, segundo o tempo***, ***uma vez, porém, que tudo o que se move se move em algo***, ***tome-se, pois, o tempo***, ***e de modo semelhante, se o movimento***, ***e do mesmo modo***, ***também é possível, pondo***, ***e de modo semelhante se demonstrará***, ***e quanto a serem finitos***, ***segue-se, porém, sobretudo***; g6-c007 ***pois o que muda***, ***ter deixado***, ***de modo semelhante cada um se relaciona com cada um***, ***aquilo, porém, em que primeiro mudou***, ***diz-se, porém, aquilo em que primeiro***, ***seja, pois, o primeiro***, ***nem, pois, no que mudou***, ***aquilo mesmo que muda, porém***, ***imediatos***, ***fim***, ***princípio (da mudança)***, ***anterior***.
+- Lemas de lições futuras já citados: ***Zenão, porém, raciocina mal***; ***uma vez, porém, que tudo ou se move***; ***uma vez, porém, que tudo o que se move se move no tempo***; ***uma vez, porém, que tudo o que muda muda no tempo***.
+- Letras das figuras que coincidem com palavras portuguesas (*de*, *dez*): mantém-se a minúscula de Tomás e arranja-se a frase para evitar ambiguidade (“seja de o movimento…”, “destes dois, de e ez”); o *dez* de Tomás (= d, e, z) em g6-c006 [71] vai como “aqueles que são de e ez”; no texto de Aristóteles (maiúsculas) fica “DEZ”.
+- Em g6-c006 [57], *hoc signum f prius pertransibit bc quam ab* traduzido segundo o sentido: “bc passará por este sinal f antes que ab”.
+- O § 819 falta na numeração da fonte (g6-c007 [50]); mantido sem número.
+- Nota do tradutor: g6-c007 [^1] (intensão e remissão).
+- Lemas fixados: g6-c008 ***mostrado isto, porém***, ***segundo outro***, ***primeiro***, ***por isso, é necessário***, ***não só, porém, o que muda***, ***além disso, também se em todo***, ***delimita***, ***divisão***, ***além disso, se o que muda continuamente***, ***nem interrompe a mudança***, ***além disso, na grandeza***, ***pois tudo o que de algo***, ***uma vez, pois, que (no tempo)***, ***pois a mesma demonstração (vale)***, ***é manifesto, pois***; g6-c009 ***demonstradas, porém, estas coisas***, ***uma vez, porém, que nem o finito***, ***a mesma razão, porém (vale)***, ***que, pois, se algo se move***, ***mas, se não for***, ***mas tampouco o infinito***, ***além disso, também tomado o tempo***, ***uma vez, porém, que o finito***, ***regularmente***; g6-c010 ***nem, pois, o que repousa***, ***demonstrado isto, porém***, ***no tempo, porém, em que***, ***assim como, porém, o que se move***, ***uma vez, porém, que tudo o que se move***, ***pois repousar é***, ***parar mais depressa e mais devagar***, ***que primeiro se move***, ***segundo algo***, ***segundo o tempo primeiro***, ***segundo o termo do tempo***, ***permanecendo***.
+- Em g6-c010 [3], *quantio* da fonte lido como *quando*.
+- Letra *o* da figura de g6-c010 [74] (coincide com o artigo): “um corpo o”; o segmento *de* vai como “o lugar de”.
+- Notas do tradutor: g6-c008 [^1] (o Comentador = Averróis); g6-c010 [^1] (o latim *quiescere* verte dois verbos gregos, vir ao repouso e estar em repouso).
+- Números de parágrafo de Tomás seguem o formato das chamadas anteriores (`**860.**`), e o primeiro parágrafo do comentário de cada lição mantém o `>` que a fonte lhe dá.
+- O título de g6-c013 [2] fica sem negrito nem itálico, como na fonte.
+- Lemas fixados: g6-c011 ***mostradas, porém, estas coisas***, ***a mudança, porém***, ***quatro, porém, são os argumentos***, ***tampouco, pois, quanto (à mudança)***, ***além disso, no círculo***, ***o segundo é o chamado***, ***Aquiles***, ***algo à frente***, ***tragédia***, ***o terceiro***, ***o quarto***, ***o engano, porém, está***, ***sejam (as grandezas iguais paradas)***, ***ao longo de iguais***, ***a partir da contrariedade***, ***paradas***, ***ao longo dos que se movem uns contra os outros***, ***um e outro***, ***está ao longo de cada um***, ***se movam em si mesmas***; g6-c012 ***mude, com efeito (de ab para bc)***, ***por fora***, ***espécies***, ***primeiro***, ***além disso, por estas coisas***, ***além disso, se tudo***; g6-c013 ***mas, se é possível assim***, ***a mudança de lugar, porém***, ***impossível***, ***talvez***; g7-c001 ***se, porém, se fez alguma vez*** (início do Livro 8), ***duvidará, porém, alguém***, ***uma vez, porém, que tudo o que se move***, ***o primeiro motor, porém***, ***segundo si mesmo e primeiro***, ***além disso, o que (se move por si mesmo)***, ***primeiro e por si***, ***cessará***, ***logo, ab não se move por si***, ***mas concedeu-se que se move por si mesmo primeiro***, ***é necessário que, repousando bc, repouse ab***, ***repousando a parte, repousa o todo***.
+- Em g6-c011 [67], *in altero contra oppositorum* da fonte lido sem o *contra*: “em um dos opostos”.
+- *In neutro totum* (g6-c011 [21], [67]) vertido como “todo ele, em nenhum dos dois/extremos”, com a negação antes do verbo.
+- Letras das figuras (a, b, c, de, dez, ez) mantidas como na fonte, mesmo quando coincidem com palavras portuguesas.
+- Notas do tradutor: g6-c011 [^1] (Aquiles e a tartaruga, ausente de Aristóteles), [^2] (o estádio); g6-c012 [^1] (*momentum* como *kínema*); g7-c001 [^1] (demonstração *quia* e *propter quid*), [^2] (a alma que move a si mesma em Platão).
+- g7-c003 [4]: a fonte repete *secundum quantitatem* onde o sentido pede *qualitatem* (alteração); traduzido “segundo a qualidade”. Em [10], *trabiit* lido como *trahit*.
+- g7-c003 [76]–[77]: as variantes *spathatio*, *speculatio*, *radius*, *radiatio* ficam em latim, por se tratar de discussão textual.
+- g7-c004 [13], [22]: *primum* / *secundum* vertidos “a primeira” / “a segunda” (as premissas do silogismo de [12]).
+- g7-c005: o texto aristotélico mantém “equivocamente” (*aequivoce*), e o comentário “igualmente” (*aequaliter*), como na fonte; nota do tradutor explica.
+- Lemas fixados: g7-c002 ***se, com efeito, não for assim, mas se proceder ao infinito***, ***se, com efeito, não***, ***assim, pois, parece***, ***mas, se o que se move***, ***nos extremos***, ***do mesmo para o mesmo***, ***determinado***, ***em nada difira, porém***; g7-c003 ***não como aquilo em vista do qual, mas como aquilo donde vem o princípio do movimento***, ***primeiro motor***, ***junto***, ***uma vez, porém, que são três (os movimentos)***, ***tudo, pois, o que se desloca***, ***o que, porém, é movido por outro***, ***da pulsão, pois***, ***o transporte, por sua vez***, ***a tração, porém***, ***a rotação, por sua vez***, ***é manifesto, portanto***, ***isto, porém, é manifesto***, ***além disso, também a synosis***, ***a projeção, porém***, ***mas tampouco entre o alterado***, ***e o que é aumentado e o que aumenta***, ***uma vez, porém, que as coisas que se alteram***; g7-c004 ***com efeito, o qualificado altera-se***, ***a este, porém***, ***e o que é aumentado***; g7-c005 ***das outras coisas, com efeito, sobretudo***, ***aquilo, com efeito, de que***, ***não o dizemos a forma***, ***além disso, também de outro modo***, ***tampouco, com efeito, nos hábitos***, ***nem, portanto, acerca das virtudes da alma***, ***relativos a algo***, ***dos que estão dentro***, ***em relação ao continente***, ***o ótimo***, ***perfeito***.
+- Notas do tradutor: g7-c003 [^1] (Virgílio, *trahit sua quemque voluptas*, e o duplo sentido de *trahere*), [^2] (*spáthesis* como operação de tecelagem); g7-c004 [^1] (o peixe-torpedo); g7-c005 [^1] (*aequivoce* lido por Tomás como *aequaliter*).
+- g7-c006 [9], [44]: *presbyteri* mantido como “presbíteros” no texto aristotélico, para que a glosa de Tomás (*presbyter* = *senior*) faça sentido.
+- g7-c007 [16]–[19]: “muito” e “tanto” entre aspas no texto aristotélico, por serem palavras mencionadas.
+- g7-c008 [7], [56]: *atomon* / *atomus* vertido “átomo”, como a fonte, com a glosa de Tomás (“indivisível”).
+- Lemas fixados: g7-c006 ***dá-se, pois***, ***que, porém, se altere***, ***e toda a virtude moral***, ***mas tampouco (na parte intelectiva)***, ***nem, portanto, o ato***, ***a aquisição da ciência desde o princípio***, ***é maximamente círculo***, ***quando está maximamente segundo a natureza***, ***relativo a algo***, ***para a congruência da ciência***, ***turbação***, ***repouso***, ***assentamento***, ***assentam***, ***presbíteros***; g7-c007 ***uma vez, porém, que o motor move*** (início de g7-c009), ***se, pois (, quando em tempo igual)***, ***no círculo, porém, (e na reta)***, ***além disso, em nada difere***, ***mas, se são comparáveis***, ***mas quaisquer coisas que não são equívocas***, ***ou, primeiramente***, ***ou também nestes a razão é a mesma***, ***pois por que razão***, ***ou porque estão em outro***, ***ou é manifesto***, ***além disso, o receptivo***, ***assim, pois, não só (é necessário)***, ***assim também acerca do movimento***, ***tanto e ainda mais***; g7-c008 ***nesta***, ***se, porém, um***, ***é levado***, ***por isso, se as coisas que em tempo igual***, ***por isso, as coisas que em tempo igual***, ***será, pois, a causa***, ***átomo***, ***às vezes, porém, naquilo em que***, ***mas pelas figuras a mudança de lugar é outra***, ***e esta razão significa***, ***junto aos gêneros escondem-se muitas coisas***, ***quando, pois, é outra (a espécie)***, ***ou se outro em outro***, ***o que é o termo***, ***acerca da alteração, porém, (como)***, ***mas o que é que se alterou***, ***mas seja o mesmo***, ***será, pois***, ***aqui, pois***, ***mas será necessário***, ***e também na geração***, ***e, se o número (é substância)***.
+- Notas do tradutor: g7-c006 [^1] (*virtus* como potência e como virtude moral); g7-c007 [^1] (os três sentidos de *acutus*); g7-c008 [^1] (o “cão” celeste, Sírio).
+- g7-c009: as letras das demonstrações (a, b, c, d, e, z), minúsculas no comentário latino, passam a maiúsculas (A, B, C, D, E, Z), como no texto de Aristóteles, para que *e* não se confunda com a conjunção.
+- g7-c009 [60]: *duplum* e *medium* mantidos em latim, em itálico, porque Tomás comenta o caso acusativo dessas palavras.
+- g7-c009 [49]: a marcação defeituosa da fonte (`***unum**; **unum***`) normalizada em dois lemas ***um***.
+- g7-c009 [21] e g8-c001 [12]: mantido o `>` inicial do primeiro parágrafo do comentário, como na fonte.
+- g8-c001 [10], [57]: *ab hinc inde* vertido “de lá para cá”, para comportar a glosa de Tomás (“desde um certo princípio até agora”). Os versos de Empédocles traduzidos literalmente do latim, sem aspas, como na fonte, para que a construção de Tomás em [53]–[56] se possa seguir.
+- Lemas fixados: g7-c009 ***se, pois, A é o motor***, ***e, se a mesma potência***, ***mas, se são dois, e cada um***, ***e, se E move Z***, ***mas, se A***, ***por isso não é verdadeira a razão de Zenão***, ***soe qualquer parte do painço***, ***assim, pois, é na alteração***, ***no dobro, o dobro***, ***mas, se o que altera***, ***assim como também no peso***, ***na metade, a metade, ou, em tempo igual, o dobro***, ***analogia***; g8-c001 ***o princípio, porém, da consideração***, ***começaremos, porém, primeiro***, ***as coisas contrárias, porém, a estas***, ***mas quantos***, ***mas todos os que***, ***que o movimento existe, pois***, ***deve-se, pois, considerar (acerca disto)***, ***aprendeu a nascer***, ***enquanto de muitos se faz um; e de novo***, ***do um geminado***, ***se perfazem muitíssimas coisas***, ***assim se fazem as coisas***, ***e de modo algum é um só o seu século***, ***assim, porém, se permutam***, ***nem se perfazem ao mesmo tempo***, ***assim, porém, sempre são imóveis***, ***segundo o círculo***, ***de lá para cá***, ***de grande proveito***, ***amizade***, ***discórdia***.
+- Notas do tradutor: g7-c009 [^1] (o grão de painço de Zenão e o módio); g8-c001 [^1] (*praeopere*, decalque do grego *pro ergou*).
+- g8-c002, g8-c003, g8-c004: *de novo* escolástico (“como coisa que antes não existia”) vertido “como novo” (“começar como novo”, “produzidas como novas”), para não se confundir com o português “de novo” (“outra vez”). Onde o latim quer dizer “outra vez” (*iterum*), “novamente” ou “de novo”.
+- g8-c002 [136]: *ly ante* vertido “o termo *antes*”, sem conservar a partícula escolástica *ly*.
+- g8-c002 [133], [135]: a construção ambígua *nunc … praecedat tempus* entendida como “o tempo preceda o agora” (o primeiro agora não é precedido por tempo real), conforme o sentido do argumento.
+- g8-c002 [3], g8-c003 [3], g8-c004 [3]: mantida a marcação da fonte (sem `>` ou em negrito-itálico) na primeira linha do texto de Aristóteles; mantido o `>` inicial do primeiro parágrafo do comentário (g8-c002 [31], g8-c003 [24], g8-c004 [25]).
+- Lemas fixados: g8-c002 ***logo, também é necessário***, ***umas coisas movem singularmente***, ***umas coisas, com efeito***, ***mas, portanto, todas as coisas que (podem)***, ***além disso, o antes e o depois***, ***se, pois, o tempo***, ***mas, quanto ao tempo***, ***ingênito***, ***gera o tempo***, ***foi feito***, ***se, pois, é impossível***, ***a mesma razão, porém***, ***incorruptível***, ***repousa***, ***comburente***, ***singularmente***, ***não podem de todo modo***, ***relativas a algo***, ***mas não às vezes***; g8-c003 ***semelhantemente, porém, também dizer***, ***mas nada é desordenado***, ***simplesmente***, ***mas é preciso também que quem diz isto***, ***pois, em geral, julgar***, ***dignidade***; g8-c004 ***destas, porém, a primeira***, ***ademais, vemos***, ***muito mais, porém***, ***que seja movido, porém, o que não é movido***, ***sobretudo, porém***, ***continente***, ***talvez***, ***alguns***, ***sensível***.
+- Notas do tradutor: g8-c002 [^1] (o *Timeu* 38b, tempo nascido com o céu); g8-c003 [^1] (*dignitas*, decalque de *axioma*); g8-c004 [^1] (o homem como microcosmo).
+- g8-c005 a g8-c008: mantida a marcação da fonte, como nas lições anteriores (primeira linha do texto de Aristóteles sem `>`, `>` inicial no primeiro parágrafo do comentário).
+- g8-c006 [6], [24]: as partículas *hoc*, *in hoc*, *ab hinc* vertidas “isto”, “nisto”, “daqui”, para que os lemas correspondam ao texto.
+- g8-c008 [25], [65]: *movens* no sentido de “removendo” mantido como “o que move”, porque Tomás o glosa (“***move***, isto é, remove”).
+- Lemas fixados: g8-c005 ***mas, tomando outro princípio*** (lição posterior), ***dizer, pois, que todas as coisas repousam***, ***mas querer que todas as coisas ora***, ***quase igualmente, porém***, ***mas tampouco é possível que umas***, ***e alguns dizem***, ***pois nem aumentar***, ***do mesmo modo, porém, também na alteração***, ***e, quanto ao ser levado***, ***as coisas que nascem***, ***além disso, quando alguém está doente***, ***e a pedra***, ***além disso, a terra***, ***com ambos***; g8-c006 ***e, ainda, porque combate***, ***dos motores, pois, e das coisas que são movidas***, ***mas é preciso tomar outra vez o princípio***, ***resta, pois, considerar***, ***que, pois, não é possível***, ***do mesmo modo, porém, é também impossível***; g8-c007 ***mas, se há algo***, ***e, considerando outra vez***, ***mas, visto que é preciso***, ***mas isto de dois modos***, ***e sobretudo***, ***pois o que é movido por si mesmo***, ***mas duvida-se sobretudo***, ***e, com efeito, dizer que elas se movem por si mesmas***, ***mas sucede que também estas***, ***e poderiam fazer-se parar***, ***por isso, se nele mesmo está***, ***irracional***, ***além disso, como***, ***última***; g8-c008 ***se, pois, todas as coisas que se movem***, ***mas, visto que o que é em potência***, ***pois está em potência***, ***do mesmo modo, porém, se dão estas coisas***, ***do mesmo modo, porém, se dá também acerca do pesado***, ***e, no entanto, pergunta-se***, ***mas em potência é leve***, ***tal princípio***, ***a alavanca***, ***a esfera***, ***move***, ***sustém***, ***solta***.
+- Notas do tradutor: g8-c005 [^1] (*Tópicos* I, 11: quem duvida precisa de castigo ou de percepção); g8-c007 [^1] (os demônios de corpo aéreo dos platônicos, Apuleio em *A Cidade de Deus* VIII, 16); g8-c008 [^1] (*considerare* como exercício atual da ciência, primeiro e segundo ato).
+- g8-c009 a g8-c011: mantida a marcação da fonte (primeira linha do texto de Aristóteles sem `>`; em g8-c009 [3] ***Mas isto de dois modos:*** em negrito e itálico, retomando o lema de g8-c007).
+- g8-c009 [22]: *non necesse est moveri quod movetur* vertido “não é necessário que seja movido o que move”, segundo o sentido que Tomás lhe dá em [103] e o grego de Aristóteles.
+- g8-c010, g8-c011: as letras que designam as partes (a, b, c, ab) vão em maiúsculas também no comentário (A, B, C, AB), como no texto de Aristóteles, para não se confundirem com o artigo e a preposição “a”.
+- g8-c011 [3]: *non movente autem ex necessitate* vertido “não movendo, porém, por necessidade”, para conservar a dupla leitura que Tomás discute em [22]–[25].
+- Lemas fixados: g8-c009 ***é necessário, pois, que tudo o que é movido***, ***mas, ao que foi dito***, ***além disso, também assim***, ***se, pois, é necessário***, ***por causa de si mesmo***, ***depois do último***, ***dizemos, pois, que ambos movem***, ***não é necessário, pois, que sempre seja movido***, ***primeiramente, pois*** / ***primeiramente***, ***mas, se não por acidente***, ***e com razão isto sucede***, ***razoável***, ***por isso Anaxágoras diz***, ***digo, porém***, ***ou que o que sana seja levado, ou que o que leva seja aumentado***, ***mas é manifesto***, ***indivíduos***, ***além disso, mais irracional do que isto***, ***logo***; g8-c010 ***mas, visto que move***, ***é manifesto, pois, por estas coisas***, ***mas que não pode suceder***, ***pois o todo será levado***, ***isto, pois, move***, ***universais da natureza***, ***mover totalmente a si mesmo***, ***além disso, ficou determinado***, ***unívoco***, ***mas tampouco, do que move primeiramente a si mesmo*** / ***mas tampouco***, ***pois tampouco haverá*** / ***pois tampouco haverá um primeiro***, ***além disso, não é necessário***, ***não é necessário que o motor seja movido senão por si mesmo, por acidente***, ***além disso, se move o movido***, ***pois o todo, se é movido*** / ***pois o todo, se é movido ele mesmo***, ***além disso, se ela toda***; g8-c011 ***seja, pois, A o motor***, ***mas há uma dúvida***, ***se, pois, é contínuo***, ***mas ambos são tocados***, ***ou, em potência***, ***por necessidade***, ***não movendo***, ***que nada move por necessidade***, ***contínua***.
+- Notas do tradutor: g8-c009 [^1] (a cássia como exemplo de algo doce que não é branco); g8-c010 [^1] (“o homem gera o homem, e também o sol”, *Física* II, 2); g8-c011 [^1] (a incorruptibilidade dos corpos celestes e o coração como princípio da vida do animal).
+- g8-c012 a g8-c015: mantida a marcação da fonte, que põe `>` também no primeiro parágrafo do comentário (**1069**, **1077**, **1086**, **1097**) e deixa sem `>` a primeira linha do texto de Aristóteles.
+- g8-c013 [62]: *primum motum esse perpetuum, et a motore immobili moveri* vertido “o primeiro movimento é perpétuo e provém de um motor imóvel”, para evitar “movimento movido”.
+- g8-c015 [28]: *secundum eandem artificialem considerationem* vertido “segundo a mesma consideração própria da arte”, porque “artificial” sugeriria em português algo postiço.
+- Lemas fixados: g8-c012 ***que cada um, pois***, ***mas que é necessário haver*** / ***mas que é necessário***, ***de toda mudança exterior***, ***seja, porém, se alguém quiser*** / ***seja, porém, se alguém***, ***sem partes***, ***é manifesto, pois***, ***mas antes um***, ***é manifesto, pois, por estas coisas***; g8-c013 ***e de novo, considerando***, ***mas, visto que tais coisas***, ***estas, porém, também davam ensejo à opinião***, ***por estas coisas se pode saber***, ***não é, porém, o mesmo ser movido por acidente*** / ***não é, porém, o mesmo***, ***por outro***, ***o outro***, ***mas, se há algo***, ***isto, porém, é manifesto***, ***lugares ou espécies contrários***, ***tornou-se manifesto, pois, pelo que foi dito*** / ***tornou-se manifesto, pois***; g8-c014 ***ora, havendo três***, ***além disso, de todas***, ***além disso, também por aqui, aos que consideram***, ***segundo a substância***, ***por isso, visto que o movimento***, ***além disso, no tempo*** / ***além disso, no tempo é anterior***, ***mas, em um só***, ***em geral, porém, parece***, ***rumo ao princípio***, ***que mais alcançam a natureza***, ***e porque de modo algum***, ***e é sobretudo manifesto***; g8-c015 ***pelo mesmo método***, ***pois todos são de opostos***, ***e de modo semelhante também nas mudanças*** / ***e de modo semelhante***, ***nas mudanças***, ***ser***, ***não ser***, ***paixões***, ***pois nada importa***, ***nem se não é necessário***, ***não é preciso, porém, perturbar-se***, ***além disso, na geração*** / ***além disso, na geração e na corrupção***.
+- Lemas antecipados de lições posteriores, a manter quando se traduzir o texto de Aristóteles correspondente: ***mas que isto é necessário*** (g8-c014 [30]); ***mas que a mudança segundo o lugar*** (g8-c014 [38]); ***qual mudança de lugar, porém*** (g8-c014 [41], início de g8-c015); ***mas que, das translações, a circular*** (g8-c015 [19]); ***mas, visto que é possível haver algum*** (g8-c015 [22]); ***mas o que se dá no circular*** (g8-c015 [23]).
+- Notas do tradutor: g8-c012 [^1] (a gota que cava a pedra, imagem proverbial em Lucrécio e Ovídio); g8-c013 [^1] (os orbes planetários e seu duplo movimento); g8-c013 [^2] (“o Comentador” é Averróis).
+- g8-c016 a g8-c018: mantida a marcação da fonte, com `>` também no primeiro parágrafo do comentário (**1104**, **1112**, **1123**) e sem `>` na primeira linha do texto de Aristóteles; o subtítulo de g8-c016 fica sem negrito e os de g8-c017 e g8-c018 em negrito e itálico, como na fonte.
+- g8-c016 [8], [40]: *ut homo aut deus* / *Deus* vertido “como o homem ou um deus” nos dois lugares, porque Tomás explica a expressão pelos que chamavam deuses aos corpos celestes.
+- g8-c017 [26], [81]: *faciat semper esse posterioris rei* vertido “faça que seja sempre da coisa posterior”, com o mesmo giro “a não ser que alguém, quanto ao sinal…” em Aristóteles e em Tomás, para que o lema coincida.
+- g8-c017 [94]: o parêntese corrompido *quia hoc ponitur tempus b, d generationis* foi vertido literalmente.
+- Lemas fixados: g8-c016 ***pois tudo o que é levado***, ***que, porém, o que é levado***, ***param e repousam mutuamente***, ***detém***, ***mas é sobretudo manifesto***, ***ao longo de um círculo***, ***ser levado em círculo***, ***ser levado sobre o círculo***, ***e isto é ser levado circularmente***, ***isto é refletir-se***, ***qualquer sinal***, ***se tenha feito***, ***esteja ausente***, ***está presente e está ausente***, ***está presente***, ***se faz***, ***racionavelmente, porém***, ***por isso, também à dificuldade***; g8-c017 ***não se deve, pois, pôr***, ***chega***, ***se afasta***, ***estar presente***, ***estar ausente***, ***se fez presente***, ***num corte do tempo***, ***do mesmo modo, porém, se deve responder***, ***nas primeiras*** / ***nas primeiras razões, pois***, ***mas esta solução***, ***mas deve-se dizer o verdadeiro***, ***parará***, ***é manifesto, porém*** / ***é manifesto, porém, também que***, ***faça que seja sempre da coisa posterior***, ***seja o tempo***, ***não se deve, pois, conceder***, ***agora***, ***derradeiro***, ***se, porém, tudo o que***, ***contíguo***; g8-c018 ***pois tudo o que se move***, ***além disso, também por estas coisas é manifesto*** / ***além disso, também por estas coisas***, ***racionavelmente***, ***e ao mesmo tempo também***, ***e não se é alguma parte do todo***, ***além disso, também esta razão***, ***além disso, não é porque o tempo é contínuo***.
+- Notas do tradutor: g8-c017 [^1] (“tempos átomos”, do grego *átomos*, indivisível); g8-c018 [^1] (*rationabiliter* = *logikôs*, argumentar a partir de noções comuns).
+- g8-c019 [3] e g8-c020 [3]: mantida a marcação da fonte, primeira linha de Aristóteles sem `>` (simples em g8-c019, em negrito e itálico em g8-c020) e `>` no primeiro parágrafo do comentário (**1129**, **1136**).
+- g8-c020 [7]: *semper quaedam sunt in principio et fine, et nunquam* vertido “de certo modo, está sempre no princípio e no fim, e nunca”, segundo a leitura que Tomás comenta em [28] (*quodammodo*).
+- g8-c020 [21], [44]: *autokinesim* conservado em itálico, com a mesma ordem “segundo aquela que é segundo o lugar, a *autokinesim*” no texto e no comentário.
+- g8-c020 [34]: *ista proposito* da fonte lido como *propositio*, “proposição”.
+- Lemas fixados: g8-c019 ***racionavelmente, porém, acontece***, ***que, porém, das translações***, ***é manifesto, porém, também por esta divisão***, ***segundo a mesma posição***, ***e o que***, ***é manifesto, pois, por estas coisas*** / ***é manifesto, pois***, ***além disso, é anterior***; g8-c020 ***fora da circulação***, ***acontece, porém, reciprocamente***, ***além disso, também regular***, ***mas fora***, ***que, porém, a mudança segundo o lugar***, ***autokinesim***, ***que, pois, sempre houve movimento***.
+- Nota do tradutor: g8-c020 [^1] (*autokinesim*, do grego *autokínēsis*; alusão à alma platônica que move a si mesma, no *Fedro* e no livro X das *Leis*).
 - g8-c021 [3]: mantida a marcação da fonte, primeira linha de Aristóteles simples, sem `>` nem negrito; em g8-c022 [3] e g8-c023 [3], em negrito e itálico; `>` no primeiro parágrafo do comentário (**1141**, **1160**, **1164**).
 - g8-c021 [18]: *non igitur neque in infinito infinitam* vertido “nem, pois, o infinito potência finita”, segundo a leitura que Tomás comenta em [104] (*nec in aliquo quanto infinito potest esse potentia finita*).
 - g8-c021: as letras das demonstrações seguem a fonte, maiúsculas no texto de Aristóteles e minúsculas no comentário, sem itálico.

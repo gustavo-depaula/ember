@@ -1,6 +1,230 @@
+# Diário de tradução — Livro da Vida (pt-BR)
+
+Fonte: es-ES/ — Obras de Sta. Teresa de Jesús, ed. P. Silverio de Santa Teresa, C.D., t. I: Libro de la Vida (Biblioteca Mística Carmelitana 1), Burgos: El Monte Carmelo, 1915, com as notas do editor. Referência de registro: en-US/ (David Lewis, 3.ª ed., 1904).
+Destino: pt-BR.
 
 ## Termos
 
+| Espanhol | Português | Notas |
+|---|---|---|
+| Su Majestad / Vuestra Majestad | Sua Majestade / Vossa Majestade | nome habitual de Deus; nota do tradutor em c01 |
+| merced / mercedes | mercê / mercês | graças recebidas de Deus |
+| Vos / vuestro (a Deus) | Vós / vosso | 2.ª pessoa do plural; maiúscula do pronome espelhada da fonte |
+| El (Deus) / Ella (Nossa Senhora) | Ele / Ela | maiúscula da fonte |
+| Nuestra Señora / la Virgen Soberana | Nossa Senhora / a Virgem Soberana | |
+| honra | honra | reputação pública; nota do tradutor em c02 |
+| honestidad / honesto | recato / pureza / de costumes puros | não "honestidade" (sentido moderno de probidade) |
+| cosas deshonestas | coisas indecentes | |
+| libros de romance / en romance | livros em castelhano / em castelhano | romance = língua vulgar |
+| libros de caballerías | livros de cavalaria | |
+| monesterio / monja / Religión | mosteiro / monja / vida religiosa | "Religión" como estado → "vida religiosa" |
+| seglar | secular | |
+| trabajos | trabalhos | sofrimentos, provações |
+| regalo / regalada | carinho / mimada | |
+| ocasión | ocasião | ocasião de pecado |
+| deudo / parienta | parente | |
+| oración vocal / oración mental | oração vocal / oração mental | |
+| recogimiento / quietud / unión | recolhimento / quietude / união | graus de oração (capítulos seguintes) |
+| arrobamiento / éxtasis / vuelo de espíritu | arroubamento / êxtase / voo do espírito | idem |
+| gustos / contentos | gostos / contentamentos | |
+| temor servil | temor servil | |
+| moros / tierra de moros | mouros / terra de mouros | |
+| la Santa / la Santa Madre | a Santa / a Santa Madre | nas notas de Silverio |
+| D. / D.a | D. / D.ª | |
+| Carmelitas Descalzos / Calzadas | Carmelitas Descalços / Calçadas | |
+| Encarnación / San José / Nuestra Señora de Gracia | Encarnação / São José / Nossa Senhora da Graça | dedicatórias de igrejas e conventos traduzidas |
+| San Jerónimo / Jerónimos (ordem) | São Jerônimo / Jerônimos | |
+| Avila | Ávila | |
+| Alonso, Beatriz, Rodrigo, María, Gracián, Ribera, Yepes | mantidos na forma espanhola | nomes de pessoas não canonizadas |
+| letras / letrado | letras / letrado | formação teológica / teólogo; nota do tradutor em c05 |
+| tullida | tolhida | paralisada |
+| ética (hética) | tísica | c05 ¶10 |
+| parajismo | paroxismo | grafia da Santa comentada em nota de Silverio (c05 n. 7) |
+| Pascua florida | Páscoa | |
+| cuartanas dobles | febres quartãs dobradas | |
+| ayo | aio | nota do tradutor em c06 |
+| San Josef | São José | |
+| Tercer Abecedario (Osuna) | Tercer Abecedario | título mantido em espanhol, sem itálico, no texto e nas notas |
+| Morales de San Gregorio | Morais de São Gregório | |
+| Nuestra Señora de Agosto | Nossa Senhora de Agosto | nota do tradutor: Assunção |
+| el Maestro Ávila | o Mestre Ávila | São João de Ávila |
+| Becedas, Hortigosa, Castellanos de la Cañada | mantidos | |
+| Santo Tomás de Ávila (convento) / Santo Domingo | São Tomás de Ávila / São Domingos | |
+| curiosa / curiosamente | esmerada / com requinte | zelo excessivo de perfeição exterior |
+| vuestra merced | Vossa Mercê | o destinatário, P. García de Toledo |
+| ruin | ruim | |
+| regalo / regalar | regalo / regalar | deleite espiritual |
+| trabajos | trabalhos | sofrimentos, provações; mantido pelo jogo de palavras de c08 ¶9 |
+| religión (observancia) | observância | c07 ¶5, ¶7, ¶11 |
+| ocasiones | ocasiões | ocasiões de pecado |
+| destraimiento | dissipação | |
+| antojo / antojarse | imaginação / imaginar | |
+| conversaciones (de locutório) | conversas | |
+| Fray Luis de León | Frei Luís de León | |
+| Ana de Jesús | Ana de Jesus | |
+| Santa Madre | Santa Madre | uso carmelitano |
+| merced / mercedes | mercê / mercês | graças de Deus |
+| gustos | gostos | consolações sensíveis na oração |
+| sequedad | secura | |
+| Su Majestad | Sua Majestade | Deus |
+| Vos (a Deus) | Vós | apóstrofe reverente; verbos na 2.ª do plural |
+| mística Teología | teologia mística | c10 ¶3, c11 ¶7 |
+| oración de quietud | oração de quietude | |
+| recoger / recogerse | recolher / recolher-se | |
+| discurrir / discurso | discorrer / discurso | do entendimento |
+| huerto / huerta | horto | a imagem dos quatro graus (c11) |
+| hortelano / hortolano | hortelão | |
+| noria y arcaduces | nora e alcatruzes | c11 ¶9 |
+| caldero | balde | |
+| perdones | indulgências | c09 ¶6 |
+| letrados | letrados | |
+| San Agustín / San Jerónimo | Santo Agostinho / São Jerônimo | |
+| Monasterio de la Encarnación | Mosteiro da Encarnação | |
+| Libro de las Fundaciones | Livro das Fundações | |
+| conocimiento propio | conhecimento próprio | c13 ¶17–18 |
+| auxilio general / particular | auxílio geral / particular | teologia da graça; c14 ¶8 |
+| torpeza | rudeza | da Santa, sobre si mesma |
+| seglar | leigo | c13 ¶22 |
+| verjel | vergel | |
+| muladar | monturo | c14 ¶12 |
+| vuestra merced | vossa mercê | o destinatário (P. García de Toledo) |
+| Arte de servir a Dios | Arte de Servir a Deus | no texto; título espanhol mantido na nota de Silverio |
+| quietud | quietude | oração de quietude, c14–c15 |
+| recogimiento | recolhimento | |
+| potencias | potências | entendimento, memória, vontade |
+| hortolano / huerta | hortelão / horta | alegoria das quatro águas |
+| centellica | centelhazinha | c15 ¶3, ¶6 |
+| engolfada | engolfada | |
+| temor servil / fiel temor | temor servil / temor fiel | c15 ¶16 |
+| seso | juízo | c16 ¶5, ¶7–8 |
+| desatino | desatino | c16 ¶3, ¶5 |
+| tema (da memória) | mania | c17 ¶10 |
+| arrobamiento | arroubamento | c18 ¶9 |
+| levantamiento de espíritu | elevação do espírito | c18 ¶9 |
+| juntamiento | junção | c18 ¶9 |
+| vuelo del espíritu | voo do espírito | c18 ¶9 |
+| mantener la tela | manter a tela | c18 ¶13, com nota do tradutor |
+| pecina | lodo | c19 ¶4; a nota 1 de Silverio cita a forma espanhola |
+| lición | leitura | c19 ¶13 |
+| fruta (da horta) | fruto | c19 ¶5, ¶15 |
+| éxtasi | êxtase | c20 ¶3 |
+| arrebatamiento | arrebatamento | c20 ¶3 |
+| elevamiento | elevação | c20 ¶3 |
+| águila caudalosa | águia real | c20 ¶5, ¶30 |
+| soledad | solidão | c20 ¶11 ss. |
+| rabiamientos | *rabiamientos* (mantido) | c20 ¶25, com nota do tradutor |
+| rabto | rapto | c20 ¶25; c21 ¶10 |
+| alcaide | alcaide | c20 ¶24 |
+| hortolano | hortelão | c20 ¶24 |
+| pelo malo | penugem | c20 ¶24 |
+| motas | ciscos | c20 ¶30 |
+| cornado | cornado | c21 ¶6; explicado na nota 5 de Silverio |
+| Humanidad (de Cristo) | Humanidade (de Cristo) | c22 passim |
+| sequedades | securas | c22 ¶12, ¶13 |
+| en cuadrada manera | *en cuadrada manera* (mantido) | c22 ¶3, com nota do tradutor |
+| mostrarse a (= acostumbrarse) | habituar-se a | c22 ¶12 |
+| comidámonos (de comedirse) | sejamos comedidos | c22 ¶11 |
+| pone por tercero | toma por medianeiro | c22 ¶13 |
+| noria | nora | c22 ¶14 |
+| caballero santo | cavaleiro santo | c23 ¶8, ¶12 (Francisco de Salcedo) |
+| Compañía de Jesús | Companhia de Jesus | c23 passim |
+| ilusas y revelanderas | iludidas e visionárias | c23 n. 2 |
+| hablas (de Dios) | falas | c25 passim |
+| arrobamiento / arrebatamiento | arroubamento / arrebatamento | c24 ¶8, c25 ¶5–6 |
+| regalos | regalos | c24 ¶3–4 |
+| vuestra merced | vossa mercê | c25 ¶3 |
+| una higa | uma figa | c25 ¶25 |
+| libros de romance | livros em romance | c26 ¶7, com nota do tradutor |
+| cuestión (tormento judicial) | tortura | c26 ¶5 |
+| Padre Francisco (de Borja), Duque de Gandía | Padre Francisco, Duque de Gandia; S. Francisco de Borja | c24 ¶6 e n. 3 |
+| Baltasar Alvarez | Baltasar Álvarez | c24 n. 3, n. 5; c26 n. 1 |
+| Fray Luis de Granada | Frei Luís de Granada | c26 n. 2 |
+| Fray Pedro de Alcántara / San Pedro de Alcántara | Frei Pedro de Alcântara / São Pedro de Alcântara | c27 ¶5, ¶18, n. 2–3 |
+| visión imaginaria / intelectual / corporal | visão imaginária / intelectual / corporal | c27 ¶4, c28 ¶5, n. 1 |
+| noticia (conocimiento infuso) | notícia | c27 ¶5, ¶7 |
+| se me antojaba / antojo | era imaginação minha / imaginação | c28 ¶6, ¶14–15 |
+| hermosura / hermoso | formosura / formoso | c28 passim |
+| la Humanidad sacratísima | a Humanidade sacratíssima | c27 ¶6, c28 ¶5, ¶11 |
+| oración de quietud / de unión | oração de quietude / de união | c27 ¶5–6 |
+| sayal | burel | c27 ¶19 |
+| capilla (del hábito) | capuz | c27 ¶19 |
+| gloria acidental | glória acidental | c27 ¶16, com nota do tradutor |
+| imbo (limbo) | limbo | c28 ¶11, com nota do tradutor |
+| P. Antonio del Espíritu Santo | P. Antônio do Espírito Santo | c28 n. 1 (carmelita português) |
+| los Bolandos | os Bolandistas | c28 n. 4 |
+| P. Mercurian | P. Mercuriano | c28 n. 4 |
+| arrobamiento | arroubamento | c29 ¶4, ¶16 |
+| ímpetu (de amor) | ímpeto | c29 ¶10–12 |
+| aceleramientos (devoção sensível) | alvoroços | c29 ¶11; evita confusão com "arroubamento" |
+| dar higas / higas | fazer figas / figas | c29 ¶7–8, n. 2, com nota do tradutor |
+| saeta… traía gerba | a seta parece vir ervada | c29 ¶12 |
+| requiebro | requebro | c29 ¶15 |
+| Querubines / Serafines | Querubins / Serafins | c29 ¶15, n. 7 |
+| Transverberación | Transverberação | c29 n. 8 |
+| P. Jerónimo Gracián | P. Jerónimo Gracián | c29 n. 2 (nomes espanhóis das notas ficam na forma espanhola) |
+| Fray Luis de León | Frei Luis de León | c29 n. 2, n. 7 |
+| Fray Pedro de Alcántara | Frei Pedro de Alcântara / São Pedro de Alcântara | c30; santo, toma a forma portuguesa (diferente dos nomes das notas) |
+| Custodia (franciscana) | Custódia | c30 ¶9, com nota do tradutor |
+| (libros) de romance / con ser romance | em castelhano | c30 ¶4, ¶13 |
+| vuestra merced | Vossa Mercê | c30 ¶11, ¶24 |
+| bobería de alma | bobice de alma | c30 ¶20 |
+| un credo (medida de tempo) | o tempo de um credo | c30 ¶18, com nota do tradutor |
+| silicio de hoja de lata | cilício de folha de lata | c30 ¶4 |
+| a fuego y a sangre | a ferro e fogo | c30 ¶10 |
+| agua bendita | água benta | c31 |
+| punto de honra | ponto de honra | c31 ¶23–24 |
+| rezado | breviário / rezar o ofício | c31 ¶13, ¶26 |
+| noturno | noturno | c31 ¶13, com nota do tradutor |
+| canto de órgano | canto de órgão | c31 ¶24, com nota do tradutor |
+| arrobamiento | arroubamento | c31 |
+| recogimiento | recolhimento | c31 |
+| desasimiento / deudos | desapego / parentes | c31 ¶21–22 |
+| negrillo | negrinho | c31 ¶6 |
+| hermana lega | irmã conversa | c31 n. 13 |
+| letrado | letrado | c32–c33; homem de letras, teólogo |
+| perlado | prelado | c32–c33 |
+| mayorazgo | morgadio | c32 ¶17, com nota do tradutor |
+| relisión / Relisiones | religião (vocação, vida religiosa) / Ordens religiosas | c32 ¶11, ¶13, ¶16 |
+| lugar (Ávila) | cidade | c32 ¶16–17 |
+| Retor | Reitor | c33 ¶9–12 |
+| Breve | Breve | c33 ¶13, com nota do tradutor |
+| dar la obediencia | dar a obediência | c33 ¶16, ¶18: sujeitar o mosteiro à jurisdição (da Ordem ou do bispo) |
+| ropa | veste | c33 ¶16 |
+| Fray Pedro de Alcántara | Frei Pedro de Alcântara / S. Pedro de Alcântara | c32 ¶15, notas |
+| Descalzas / Calzadas | Descalças / Calçadas | c32 ¶12, n. 6 |
+| General (de Roma, de la Reforma) | Geral | c33 n. 7, n. 12 |
+| beata | beata | c35 ¶3, com nota do tradutor |
+| Presentado | Presentado | c35 ¶8; título acadêmico dominicano, explicado na n. 8 do editor |
+| Regla / propio / renta | Regra / bens próprios, nada de próprio / renda | c35 ¶4–8 |
+| perlada | prelada | c35 ¶9–10 |
+| arrobamiento | arroubamento | c34 ¶4, ¶18; c35 ¶8 |
+| vuestra merced | Vossa Mercê | c34 ¶19 |
+| Luisa de la Cerda | D.ª Luisa de la Cerda | c34 n. 2 |
+| María de Jesús (beata) | María de Jesús | c35 n. 3 |
+| regidores / corregidor / cabildo | regedores / corregedor / cabido | c36 ¶17, com nota do tradutor [^28] |
+| Concejo (de Ávila) | Concelho | c36 n. 14, n. 17; distinto do Consejo Real → Conselho Real |
+| dar discuento | justificar-se, dar a minha justificação | c36 ¶14–16, n. 12 |
+| hacer mi culpa | dizer a minha culpa | c36 ¶14 |
+| relisión (observância) | observância, observância religiosa | c36 ¶15, ¶28, n. 15 |
+| demanda (pedir esmola) | peditório | c36 ¶25, ¶29 |
+| maraña | emaranhado | c36 ¶24, n. 20 |
+| Padre Presentado Dominico | Padre Presentado dominicano | c36 ¶25 (P. Ibáñez, n. 21) |
+| legas o freilas | irmãs leigas ou conversas | c36 n. 27 (texto do editor) |
+| arrobamiento / arrebatamiento | arroubamento / arrebatamento | c37–c38 |
+| desasimiento | desapego | c38 ¶7 |
+| crianza (cortesia) | cortesia | c37 ¶12–13 |
+| vuestras mercedes / vuestra merced | vossas mercês / vossa mercê | c37 ¶3, c38 ¶9 |
+| Cartujano (Vita Christi de Ludolfo) | *Cartujano* (em itálico, título mantido) | c38 ¶11, n. 2–3 |
+| Dionisio Cartujano | Dionísio Cartuxo | c38 n. 3 |
+| Ayuntamiento / Consistorio (de Ávila) | Câmara / Consistório | c38 n. 2 |
+| Relisiones (ordens religiosas) | Religiões | c37 ¶13 |
+| ermita | ermida | c39 ¶5, n. 2 |
+| Cristo a la Coluna | Cristo atado à Coluna | c39 ¶5, n. 2 |
+| Breve (de Roma) | Breve | c39 ¶16, n. 6 |
+| maravedí / ducado | maravedi / ducado | c39 ¶18 |
+| Quicumque vult | *Quicumque vult* (em itálico) | c39 ¶27, n. 11 |
+| ave fénis | ave fênix | c39 ¶25, n. 10 |
+| Teresa de Jesús | Teresa de Jesus | nomes de pessoas menores (María Bautista, Isabel de San Pablo etc.) mantidos em castelhano |
 | vuestra merced | Vossa Mercê | tratamento do confessor (c40, carta) |
 | merced(es) | mercê(s) | graças místicas recebidas |
 | arrobamiento / arrebatamiento | arroubamento / arrebatamento | c40 |
@@ -14,6 +238,179 @@
 
 ## Decisões
 
+- Pontuação: as aspas «» de Silverio passam a “ ”. Citações bíblicas e exclamações citadas no corpo do texto ganham “ ” (c01 ¶7 “Para sempre, sempre, sempre!”; c03 ¶3 Mateus 20:16).
+- Títulos de obras citadas nas notas de Silverio ficam em espanhol, sem itálico, como na fonte. Formas arcaicas ou erros do autógrafo comentados por Silverio (*jura*, *ender*, *entramos*, *desenvoluiémonos*, *alreavía*) ficam no original, em itálico. A nota 5 de c01 ("Por entrambos") é vertida como "No original, *entramos*, por *entrambos*", para que faça sentido em português.
+- c01 ¶4: "Muy honesto en gran manera" → "De costumes extremamente puros".
+- c01 nota 1: a fonte abre com "[" e fecha com ")". Normalizado para parênteses.
+- c01 nota 4: "en los frutos del pleito" (provável erro de OCR) → "nos autos do pleito".
+- c01 nota 6: as datas "Setiembre de 1555 ... o el de 1537" são contraditórias na fonte. Mantidas sem correção.
+- c01 ¶11: nota do tradutor [^10] sobre "Sua Majestade" e "mercês" como linguagem de corte.
+- c02 ¶5: nota do tradutor [^9] sobre "honra" na Espanha do século XVI e o contraste entre honra do mundo e honra de Deus.
+- c02 ¶9: "no nos guardar de descontentaros" tem um "no" pleonástico. Vertido pelo sentido: "nos guardarmos de vos descontentar".
+- c03 ¶6: o jogo "me forzó a que me hiciese fuerza" é mantido: "me forçou a forçar-me".
+- c03 ¶9: "era tan honrosa" → "era tão zelosa da minha honra".
+- book.json: mantidos os campos pt-BR já existentes (nome, autor "Santa Teresa de Ávila", descrição). Os títulos do sumário recebem pt-BR, e pt-BR é acrescentado a `languages`.
+- c04 ¶8: o anacoluto de Teresa ("al fin de este tempo ... parecíame casi imposible tanta guarda") é mantido com reticências, sem reconstruir a frase.
+- c04 n. 6: o "[" solto antes de "a Castellanos" é removido.
+- c05 ¶10: "si yo no lo hubiera por mi culpa perdido" → "se eu não tivesse perdido por minha culpa o mérito dele", pela leitura corrente (perder o mérito do sofrimento).
+- c05 ¶6: "tener ley a quien me quería ... ¡Maldita sea tal ley!" → "ter lealdade ... Maldita seja tal lealdade, que se estende até ir contra a lei de Deus!".
+- c05 n. 2: "Banón" (OCR) corrigido para Vicente Barrón, o dominicano confessor da Santa.
+- c05 n. 3, 7, 8, 10 e c06 n. 2: as notas sobre formas do autógrafo indicam a forma original em itálico ("No original, *agraviándome*, por *agravándome*"), para que façam sentido diante do texto já vertido.
+- c06 n. 3: a variante impressa citada por Silverio fica em espanhol, porque a diferença só é visível no original. c06 n. 6: a frase citada é traduzida, porque a diferença ("venha" / "não venha") se conserva em português.
+- c06 ¶11: Gálatas 2:20, citado por Teresa à sua maneira ("Vós, Criador meu, viveis em mim"), ganha “ ” e conserva a forma dela.
+- Notas do tradutor: c05 [^11] (letras/letrado), c05 [^12] (Nossa Senhora de Agosto = Assunção), c06 [^7] (aio). Nenhuma em c04, já rico em notas de Silverio.
+- c07 n. 5: "Banón" corrigido para Vicente Barrón, como em c05 n. 2.
+- c07 ¶8: "lo que de aquello no le pesaba" → "o que daquilo lhe desagradava", pelo sentido; a n. 2 cita a forma do original e a emenda de Báñez em espanhol.
+- c07 ¶22: "otras voluntades más honestas" → "outras afeições pouco honestas", pelo sentido do contraste (Lewis: "malicious dispositions").
+- c07 n. 4: "frutos del pleito" (duas vezes) lido como "autos do pleito", provável erro de OCR.
+- c07 n. 1: a referência "(Cfr. Memorias historiales, 1. R. n. 161)" fica como na fonte.
+- c08 n. 2 e 3: as palavras acrescentadas por Frei Luís e pela edição príncipe são traduzidas, com o espanhol entre parênteses em itálico, porque o acréscimo se conserva em português; c08 n. 1 indica a forma do original em itálico.
+- Nota do tradutor: c07 [^7] (*dechados* / *labor*, a imagem do bordado de amostra). Nenhuma em c08.
+- Pronomes referentes a Deus: maiúscula onde o original a tem (Ele, Si, Vós); pronomes oblíquos átonos em minúscula.
+- c09 n. 2: nomes portugueses na forma portuguesa (P. Sebastião Toscano, D. Leonor Mascarenhas); título do catálogo de García Peres mantido em espanhol.
+- c10 n. 3: "Bánez" da fonte grafado Báñez.
+- c11 ¶3: "Somos tan caros" → "Fazemo-nos tão caros", para manter o jogo com "sem grande preço".
+- c11 ¶3: "había de decir y quejarme, porque no queremos nosotros" lido como queixa de que somos nós que não queremos (Lewis: "why is it we do not?").
+- c11 ¶14: "anudárosla a llevar" lido como "ayudárosla a llevar", provável erro de OCR.
+- c11 n. 4 e 5: no texto, "fordes" e "quiserdes", formas correntes em português; as notas mantêm as formas espanholas que explicam.
+- c11 ¶9: "torno" → "manivela".
+- Notas do tradutor: c10 [^4] (sentido de "teologia mística" no tempo da Santa); c11 [^6] (a nora e os alcatruzes).
+- c12 ¶4: o título do livro de Alonso de Madrid é traduzido no texto da Santa (Arte de Servir a Deus); a nota 1 de Silverio mantém o título espanhol.
+- c12 ¶7: "en un credo" → "no espaço de um credo".
+- c12 n. 3: "un bulto de cosas" → "um conjunto de coisas".
+- c13 ¶5: a frase de Santo Agostinho, com *tú* no original, vai em *vós* ("Dai-me, Senhor, o que me mandais, e mandai o que quiserdes"), pela regra da apóstrofe reverente a Deus.
+- c13 ¶9: "estos negros cuerpos" → "estes miseráveis corpos", para evitar leitura equívoca de "negros".
+- c13 ¶21: "porque creo temen" ganha o sujeito explícito "os demônios", que o contexto exige e sem o qual o leitor o atribuiria aos letrados.
+- c13 ¶24 e c14 ¶12: onde a fonte escreve "vos" em minúscula referindo-se a Deus, mantém-se "vós" em minúscula; "Vos" em maiúscula → "Vós".
+- c14 ¶3–4: "torno" → "manivela", conforme c11 ¶9.
+- c14 ¶5: "cebo" (das pombas) → "grão".
+- c14 n. 2: "convenio" da fonte lido como "convento", provável erro de OCR.
+- Nota do tradutor: c14 [^5] (auxílio geral e particular, termos da teologia escolástica da graça).
+- c15 ¶8: "moledor" (o entendimento) → "importuno".
+- c15 ¶10: "romance" (a língua vulgar, oposta ao latim) → "vernáculo", para evitar o sentido moderno de "romance".
+- c15 ¶12: "gra negoción" → "negócio grandíssimo"; a nota 4 de Silverio cita entre parênteses a forma espanhola (*gra negoción*, *es gran negocio*), sem a qual a nota perde o objeto.
+- c16 ¶6: "viendo os puede servir" lido como "viviendo", como exige o sentido ("vivendo, vos pode servir").
+- c16 n. 4: "En vez de a trueque" → "No original, *a treco*, em vez de *a trueque*", porque a tradução não conserva a forma comentada.
+- c16 n. 5 e n. 9: "Bánez" da fonte normalizado para "Báñez", como nas demais notas.
+- c16 n. 7: o "u" antes de "el Padre Ibáñez" lido como "y" (são quatro nomes que, com a Santa, fazem os cinco); o mesmo provável erro de OCR aparece em c15 n. 4 ("u la frase").
+- c16 n. 8: as aspas « » de Silverio passam a “ ”.
+- c16 n. 9: *Legant praedicatores* mantido em itálico e seguido da tradução entre parênteses (“Leiam os pregadores”), acrescentada pelo tradutor.
+- c16 ¶5: "u me saca de él" (imperativo em *tú* no meio da apóstrofe em *vós*) → "tirai-me dele", pela coerência da apóstrofe a Deus.
+- c17 ¶8: "es para alabar a Dios la guerra que da" (expressão de espanto) → "é coisa de espantar a guerra que dá".
+- Notas do tradutor: c16 [^10] (a vela na mão do moribundo); c16 [^11] (alusão a Marcos 3:21 e João 10:20, Cristo chamado de louco).
+- c18 ¶5: "alábenos" lido como "alábeos" ("louvem-vos"), como exige a apóstrofe a Deus.
+- c18 ¶6: "Señor, mira lo que hacéis" (imperativo em *tú* numa apóstrofe em *vós*) → "olhai", como em c16 ¶5.
+- c18 ¶6: "no puede dar con ellas a ganar a nadie" → "não consegue com elas trazer proveito a ninguém", em vista da imagem dos talentos que segue.
+- c18 n. 3: "u María de San José" → "e María de San José" (mesmo erro de OCR já anotado em c16 n. 7).
+- c19 ¶5: "Entiende que tiene virtudes" lido como "Entienden" (o sujeito são os próximos).
+- c19 ¶9: "me teníades" → "me tínheis mão" (refreáveis).
+- c19 ¶13: "y de el mal no tanto" → "e a não me dar tanto ao mal".
+- c19 n. 1: começa por "No original, *pecina*", pois o texto traduz por "lodo" e a nota comenta a palavra espanhola.
+- c19 n. 2: acrescentada entre parênteses a tradução do versículo latino, como em c16 n. 9.
+- Notas do tradutor: c18 [^4] (*mantener la tela*, expressão das justas); c18 [^5] (eco de Gálatas 2:20 nas palavras do Senhor).
+- c20 ¶9: "A los que esto hace son grandes" lido como "Los [efetos] que esto hace".
+- c20 ¶9: a frase interrompida "verse ansí levantar un cuerpo de la tierra…" marcada com reticências, pois a Santa a abandona.
+- c20 ¶13: "No digo yo que sea esto ansí, que ya lo veo" → "Não digo que isto seja assim em mim, que bem vejo que não é".
+- c20 ¶24: "ni tener libre albedrío aun querría" → "nem ainda quereria ter livre-arbítrio"; a nota 11 cita as duas formas em português.
+- c20 ¶30: "parécete" lido como "parécele"; "delante de Ti" → "diante de Vós" (tratamento reverente a Deus).
+- c20 n. 13; c21 n. 1 e 3: começam por "No original, …", como c19 n. 1.
+- c20 n. 6: acrescentada entre parênteses a tradução do versículo latino, como em c19 n. 2.
+- Referências bíblicas nas notas de Silverio mantêm os numerais romanos com vírgula (“Salmo XLI, 4”, “Gálatas VI, 14”).
+- "tráfago" → "azáfama" (c20 ¶29); "enredo" em c21 ¶3, onde o contexto é de enganos.
+- c21 ¶3: "que no le puede engañar" entendido como "não pode enganá-lo" (a Deus), como a tradução inglesa.
+- Notas do tradutor: c20 [^17] (*Vocación* por *advocación*); c20 [^18] (*romance*, a língua vulgar); c20 [^19] (*rabiamientos*, do latim *rabiamenta*).
+- c22 ¶3: *en cuadrada manera* mantida no espanhol, com nota do tradutor [^8], por ser expressão de sentido discutido (precedente: *rabiamientos*, c20).
+- c22 ¶14: "no ha El menester antes dar voces" → "não precisa Ele que antes se deem vozes", para conservar o jogo voz/vozes.
+- c22 ¶19: "Mirá" → "Olhai".
+- c23 ¶6: suprimida a aspa solta do texto-fonte antes de "todo lo que pudiese" (erro de OCR).
+- c23 ¶10: "tenía mucha comunicación" vertido sem sujeito explícito ("tinha também muito trato"), mantendo a ambiguidade do original.
+- c23 ¶16: "que con confesión, por ser seglar" entendido como "não em confissão, por ele ser leigo", como a tradução inglesa.
+- c23 ¶14: o título que a Santa cita no texto corrido vai traduzido ("Subida do Monte"); nas notas de Silverio, os títulos impressos ficam em espanhol (Subida del Monte Sión…, Relaciones históricas…, Historia de la Compañía de Jesús, Tipografía complutense, Espicilegio historial); o título do manuscrito citado dentro da citação da c22 n. 3 vai traduzido com o resto da citação. Sem itálico, como na fonte.
+- Notas de Silverio: "D.a" → "D."; "Sor Magdalena de la Cruz" → "Sóror Madalena da Cruz"; Córdoba mantida nessa forma.
+- c24 ¶8: o hino *Veni Creator* vai em itálico (latim no texto corrido), embora a fonte não o marque.
+- Falas divinas citadas pela Santa (c24 ¶8, c25 ¶19, c26 ¶4, ¶7) ficam sem aspas, como na fonte.
+- Notas de Silverio: "Alvarez", "Aguila", "Avila" levam acento (Álvarez, Águila, Ávila); "1. III", "1. R." lidos como "l." (erro de OCR por "l."); meses em minúscula.
+- c24 n. 4: "Descalcez" → "Reforma Descalça".
+- c25 ¶11: suprimido o ponto e vírgula solto em "El gusto; y deleite" (erro de OCR).
+- c25 ¶18: "Alábenos" lido como "Alábeos" ("Louvem-vos"), como pede o contexto e a tradução inglesa.
+- c25 n. 4: o título de obra da própria Santa citado por Silverio vai traduzido ("Fundações"); os demais títulos impressos seguem em espanhol.
+- c25 n. 5: "define la higa" → "define a higa (figa)", para ligar a nota ao "figa" do texto; "Salomón Reinach" → "Salomon Reinach".
+- c26 ¶5: "no temía sosiego" lido como "no ternía" ("não teria sossego").
+- c26 ¶7: nota do tradutor [^3] sobre "livros em romance" (língua vulgar, por oposição ao latim), por ser acepção pouco conhecida em português.
+- Latim no texto e nas notas vai em itálico mesmo sem marca na fonte: c27 ¶20 *Laetatus sum…*, n. 4 *Letatun sun…*; c28 n. 1 *Directorium mysticum*; c28 n. 4 *sed suaviter et efficaciter*.
+- c27 n. 1: "Cant., IV, 9" → "Cântico dos Cânticos 4:9"; n. 4: "Ps. CXXI" → "Salmo 121" (numeração da fonte).
+- c27 ¶5: vírgula depois de "la toca" lida como ponto (erro de OCR); "las que poco sabemos" → "nós, as que pouco sabemos", para manter o feminino.
+- c27 ¶14: "no es cifra" → "não é nem uma mínima parte"; "acetador de personas" → "não faz acepção de pessoas" (eco de Atos 10:34).
+- c27 ¶15: "remedar" → "imitar"; "Dé voces" → "Clame"; acrescentado o ponto de interrogação que falta em "¿Y con honras vanas… para siempre".
+- c27 ¶17–18: "debujo" → "retrato" nas duas ocorrências, para que o "le" de ¶18 se ligue ao de ¶17.
+- c27 ¶16: nota do tradutor [^5] sobre "glória acidental" (termo escolástico). c27 ¶20: nota do tradutor [^6] com a tradução e a continuação do Salmo 121 (Vulgata), que a fonte não traduz.
+- c28 ¶7: "en todos los días de su vida podría imaginar" lido com valor negativo ("nunca, em todos os dias da sua vida, poderia imaginar"), como pede o sentido.
+- c28 ¶18: "puniéndomele mayor" → "quando este se tornava maior", segundo a leitura da tradução inglesa.
+- c28 ¶11: nota do tradutor [^6] sobre o limbo dos Pais.
+- c28 n. 1: "dip." → "disp." e "Directoríum" → "Directorium" (OCR); "S. Thm." → "S. Tomás", "Summa" → "Suma". c28 n. 4: "elloi" → "ellos" (OCR); "traerlos podridos" → "trazê-los moídos".
+- c29 ¶4: "u de el tamaño que era" → "ou de que tamanho era", com o verbo no singular e o sujeito ambíguo, para que a n. 1 (plural das edições × estatura de Cristo) continue a fazer sentido.
+- c29 ¶7: "Mándanme" mantido no plural ("Mandam-me"), porque a n. 2 argumenta justamente a partir do plural; "santiguase" → "me benzesse"; "el ministro" mantido (cargo da casa jesuíta).
+- c29 ¶7: nota do tradutor [^10] sobre o gesto das figas, já que a n. 2 remete a uma página da edição espanhola. c29 ¶13: nota do tradutor [^11] com a tradução e a continuação do Salmo 41:2 (Vulgata), que a fonte não traduz.
+- c29 ¶9: ponto depois de "diamantes" lido como vírgula (OCR); "En quiriéndome divirtir" → "Por mais que quisesse distrair-me".
+- c29 ¶11: "se muestre el espíritu" (mostrarse = acostumar-se) → "o espírito se acostume".
+- c29 ¶16: "embobada" → "embevecida".
+- c29 n. 2: "o forma conoidal" → "de forma cônica" (OCR); "Ayuntamiento" → "Câmara Municipal". n. 4: "1. II" → "l. II" e "Ms. 13. 245" → "Ms. 13.245" (OCR); "la Francesada" → "a invasão francesa"; "Madrid" → "Madri". n. 6: "Ps. XLII" → "Salmo 42" (numeração da fonte). n. 7: a apostila de Báñez traduzida entre « ».
+- c30 ¶9: nota do tradutor [^9] sobre a custódia franciscana. c30 ¶18: nota do tradutor [^10] sobre «um credo» como medida de tempo.
+- c30 ¶4, ¶13: «romance» (língua vulgar) → «castelhano», porque «romance» em português sugere o gênero literário.
+- c30 ¶21: «hacia riba» → «para riba», para que a n. 7 («Assim o escreve a Santa») continue a ter objeto. *Domine, da mihi aquam* posto em itálico, sem tradução no texto, pois a n. 8 remete a João 4:15.
+- c30 ¶16: as palavras do Senhor («Não estejas fatigada, não tenhas medo») ficam sem itálico nem aspas, como na fonte.
+- c30 n. 1: «Breve traducción» → «Breve introdução» (título da obra de São Pedro de Alcântara; erro do OCR); «en XII. o» → «em 12.º» (OCR). Títulos citados em espanhol e francês mantidos no original; «pág. 240» mantida.
+- c30 n. 8: «Dadme del agua viva que diste» → «dai-me da água viva que destes» (vós coerente); «I. R» mantido como na fonte, por não ter certeza da leitura.
+- c31 ¶5–¶6: a fonte parte uma frase entre dois parágrafos; mantida a quebra no mesmo ponto, para conservar a correspondência um a um.
+- c31 ¶13, ¶20: «inistante» e «pusilaminidade» mantêm a grafia da Santa, para que as n. 7 e 11 continuem a ter objeto.
+- c31 ¶6: «negrillo» → «negrinho», tradução literal da figura em que o demônio aparece.
+- c31 ¶13: nota do tradutor [^14] sobre o noturno das Matinas. c31 ¶24: nota do tradutor [^15] sobre o «canto de órgão» (polifonia, não o instrumento) e o jogo com «ponto de honra».
+- c31 ¶25: mantida a passagem de «andas» (tu) para «queremos», como na fonte.
+- c31 n. 10: «1. I» → «l. I» (erro do OCR por «libro»). n. 12: «D.a» → «D.ª». Nomes próprios das notas mantidos em espanhol (Ana de Jesús, Inés de Jesús, Domingo Báñez); «Madrid» → «Madri».
+- c32 ¶4, ¶10: «sentible» e «disistir» mantidos em itálico na grafia da Santa, para que as n. 2 e 3 do editor continuem a ter objeto.
+- c32 ¶13: «a la una puerta nos guardaría El y Nuestra Señora la otra» → «ele», minúsculo, lido como São José (nome recém-dado ao mosteiro), como na leitura corrente.
+- c32 ¶14: «se me ponía premio» → «se me impunha uma obrigação» (premio = apremio).
+- c32 ¶19: «la casa en buena parte» → «a casa em bom lugar» (localização, não porção).
+- c32 ¶17: nota do tradutor [^16] sobre o morgadio. c33 ¶13: nota do tradutor [^17] sobre o Breve. c33 ¶14: nota do tradutor [^18] sobre o eco de Mateus 8:20 / Lucas 9:58.
+- c33 n. 8 e 9: as leituras do autógrafo (*confesorio*, *fíalo*) ficam em espanhol, em itálico.
+- Notas: «1. I», «1. II», «1. R.» → «l. I», «l. II», «l. R.» (OCR); «de de» → «de» (c33 n. 12); acentos restituídos em Álvarez, Álvaro, Ángel; a Santa como «Teresa de Jesus», a sobrinha homônima como «Teresa de Jesús»; igrejas e colégios mantêm o nome espanhol (Santo Tomé, Santo Tomás, San Gil, San Esteban, San Gregorio); «indiano» → «morador das Índias»; «portal de Belén» → «presépio de Belém».
+- c34 ¶3, ¶5 e ss.: «persona/señora muy principal» → «muito principal», no sentido de pessoa de alta posição.
+- c34 ¶17: «ecelentes espaldas se hacen» → «excelente respaldo se dão».
+- c34 n. 11: «o el P. Ibáñez» → «e o P. Ibáñez» (a nota fala de «los dos»). c34 n. 16: «Barrientes» → «Barrientos». c35 n. 5: «Tríanos» → «Trianos», e a vírgula final, ponto.
+- c34 n. 10, n. 17 e c35 n. 2, n. 12: as leituras do autógrafo (*estar cierta*, *uiado*, *legas*, *aunque*) ficam em espanhol, em itálico, para que as notas tenham objeto.
+- Notas do editor: mantêm-se as aspas «» das notas anteriores; títulos de obras citadas sem itálico, como na fonte; «Castilla la Nueva» → «Castela-a-Nova»; «Madrid» → «Madri»; o convento «de la Imagen» e a «Puerta del Cimbrón» mantêm o nome espanhol.
+- c35 ¶8: «vivir de por amor de Dios» → «viver do que se dá por amor de Deus» (viver de esmola).
+- c35 ¶10: o anacoluto «Mas el Señor, que tenía ordenado otra cosa, húbose de hacer» foi mantido («assim se teve de fazer») para que a n. 11 do editor continue a ter objeto.
+- c35 ¶17: «temer de musarañas» → «temer musaranhos», mantendo o contraste com os leões.
+- c35 ¶3: nota do tradutor [^15] sobre *beata*. c35 ¶15: nota do tradutor [^16] sobre «fingís trabajo en vuestra ley», o Salmo 93:20 da Vulgata (*fingere*, «formar»), lido pela Santa como «fingir».
+- c36 ¶8 e n. 8: «se remediaron cuatro huérfanas pobres» → «ficaram amparadas quatro órfãs pobres», igual no texto e na citação da nota.
+- c36 ¶9: «yo no la mudaba» → «eu não a mudava», com o pronome referido à obediência, sem acrescentar substantivo.
+- c36 ¶20: «batería» → «assédio»; «puso de su parte» → «pôs como seu representante».
+- c36 ¶24: «este medio postrero y lo primero» → «este último meio ano e o princípio», em retomada do «casi medio año» de ¶20.
+- c36 ¶25: a frase «dióse tan buena maña el Padre Presentado…» fica suspensa na fonte; foi mantida a suspensão com reticências.
+- c36 ¶29: «en hacerla» → «em fazer esta casa», para dar antecedente claro ao pronome.
+- c36 ¶17: nota do tradutor [^28] sobre corregedor, regedores, cabido e «república».
+- Notas do editor: os nomes religiosos das primeiras Descalças e dos autores espanhóis ficam em espanhol (Antonia del Espíritu Santo, María de la Cruz, Úrsula de los Santos, María de San José, Ana de San Juan, Ana de los Ángeles, Jerónimo de San José, Juan Bautista Rúbeo). O convento é «São José de Ávila».
+- c36 n. 5: fechada com » a citação de Ribera, que a fonte deixa aberta. n. 8: «u Ursula» → «e Úrsula» (erro de OCR). n. 18: «Márchese» → «Marchese». n. 14, 18, 22, 24: «1. 1», «I. 1», «1. IV» → «l. 1», «l. IV» (livro).
+- c36 n. 14: «censual a esta ciudad» → «foreiros a esta cidade».
+- c37 ¶13: nota do tradutor [^7] sobre a cortesia epistolar (espaço em branco, *magnífico*, *ilustre*).
+- c37 n. 3: «que diríamos non» lido como erro de OCR por «nos»; traduzido «como diríamos nós», com *acender*/*encender* em itálico.
+- c37 ¶6: «pensar en él» (referido a «una persona») → «pensar nela», concordando com «pessoa».
+- c38 ¶3, ¶5 e c37 ¶11: a fala do Senhor e as falas citadas ficam sem aspas, como na fonte.
+- c38 ¶5: «venias» lido como «venlas» (erro de OCR) → «veem-nas».
+- c38 ¶21: «Alábenos» lido como «Alábenos» por «os alaben» → «Louvem-vos», como pede o contexto.
+- c38 ¶11 e ¶13: «víspera del Espíritu Santo» → «véspera da festa do Espírito Santo»; «lo más de la Pascua» → «a maior parte da festa», para não confundir com a Páscoa da Ressurreição. Em n. 2, «víspera de Pascua del Espíritu Santo» → «véspera de Pentecostes».
+- c38 ¶33: nota do tradutor [^17] sobre as «Bulas da Ordem» do Carmo e a Bula Sabatina.
+- c38 n. 3: «nuestro romance» → «o castelhano»; fechada com » a citação do *Cartujano*, que a fonte deixa aberta. n. 11: «1. IV» → «l. IV». n. 13: «en las Calzadas» → «entre as Calçadas». n. 6: «Tríanos» mantido como na fonte.
+- Notas do editor: mantidas as aspas « » da fonte nas citações de documentos.
+- c39 ¶5: nota do tradutor [^13] sobre o «silbo», eco de 1 Reis 19:12 (*sibilus aurae tenuis*).
+- c39 ¶18: nota do tradutor [^14] sobre o maravedi e o ducado (375 maravedis).
+- c39 ¶27: nota do tradutor [^15] sobre o *Quicumque vult* (Símbolo Atanasiano, rezado na Prima dominical). «Quicutnque» da fonte lido como erro de OCR → *Quicumque vult*; a n. 11 mantém a grafia da Santa, *Quicunque vid*.
+- c39 ¶25 e n. 10: o texto traz «ave fênix» na ortografia atual; para que a nota do editor («Así está en el original») faça sentido, acrescentou-se entre parênteses a grafia da Santa, *ave fénis*.
+- c39 ¶24: «he oído una figura de estos animales» → «já ouvi falar de uma figura destes animais», mantendo «oído» da fonte (Lewis traduz «saw»).
+- c39 ¶8: «u como quien habla claro» lido como contraste entre as duas maneiras de pedir → «a outra, como quem fala claro».
+- c39 ¶26: a passagem súbita ao discurso direto («que te pudiese dar… que tienes») mantida com *tu*, como na fonte.
+- c39 ¶10: «dicho de mí» → “dito por mim”, com aspas curvas no texto da Santa; as « » ficam só nas notas do editor.
 - c40: locuções divinas em discurso direto mantidas sem aspas, como na fonte (dois-pontos e maiúscula).
 - c40 ¶3: nota do tradutor [^10], eco de Mateus 5:18 («não faltará um til»).
 - c40 ¶8: «para enseñarme» da fonte lido como «para ensiná-las» (as pessoas de recolhimento), como Lewis.

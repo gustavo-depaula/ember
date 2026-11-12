@@ -1,12 +1,182 @@
+# Diário de tradução — Regra Pastoral (pt-BR)
+
+Fonte: en-US/, tradução de James Barmby, *Nicene and Post-Nicene Fathers*, Segunda Série, vol. 12, edição de Philip Schaff e Henry Wace, 1895; revista e editada para o New Advent por Kevin Knight.
+Destino: pt-BR.
 
 ## Termos
 
+| Inglês | Português | Notas |
+|---|---|---|
+| Pastoral Rule | Regra Pastoral | Título da obra. |
+| Gregory the Great, Pope | São Gregório Magno, Papa | No texto, “Gregório” quando a fonte traz apenas o nome. |
+| pastoral care | cuidado pastoral | |
+| pastoral authority | autoridade pastoral | |
+| government / rule | governo | No contexto do ofício; “domínio” conforme o sentido. |
+| supreme rule | governo supremo | |
+| office of a bishop / episcopal office | ofício de bispo / ofício episcopal | |
+| episcopacy / episcopate | episcopado | |
+| prelate / subordinates | prelado / subordinados | |
+| pre-eminence | preeminência | |
+| unskilfulness / unskilful | falta de preparo / despreparado | No contexto da aptidão pastoral; “inexperiente” na imagem náutica. |
+| elation | soberba / exaltação | Conforme o contexto. |
+| infirmity | fraqueza | “Enfermidade” quando propriamente patológica. |
+| discernment | discernimento | |
+| charity | caridade | |
+| loving-kindness | bondade amorosa | |
+| long-suffering | longanimidade / paciência | Conforme a construção. |
+| the Truth | a Verdade | Designação de Cristo. |
+| the Mediator | o Mediador | |
+| Only-begotten | Unigênito | Conforme os irmãos de Atanásio. |
+| the Church / holy Church | a Igreja / santa Igreja | Conforme a convenção dos irmãos. |
+| priest / priests | sacerdote / sacerdotes | Conforme o irmão de Ambrósio. |
+| Fathers / Councils | Padres / Concílios | Maiúsculas conforme a fonte. |
+| Gregory Nazianzen / Chrysostom | Gregório Nazianzeno / Crisóstomo | |
+| Leander of Seville / John of Ravenna | Leandro de Sevilha / João de Ravena | |
+| Licinianus / Anatolius / Anastasius | Liciniano / Anatólio / Anastásio | |
+| Maurice / Charlemagne / Alfred the Great | Maurício / Carlos Magno / Alfredo, o Grande | |
+| Hincmar | Hincmaro | |
+| Constantinople / Antioch / Gaul | Constantinopla / Antioquia / Gália | Conforme os irmãos de Atanásio. |
+| Mayence / Aix-la-Chapelle | Mogúncia / Aquisgrão | |
+| Hannah / Hezekiah / Aaron | Ana / Ezequias / Aarão | |
+| Sirach / Canticles / Revelation | Eclesiástico / Cântico dos Cânticos / Apocalipse | |
+| blear-eyed / ruptured | de olhos remelosos / com hérnia | Vocabulário das imagens corporais do capítulo 11. |
+| ruler | governante | Aquele que exerce o governo pastoral. |
+| chief in action | exemplar na ação | Expressa a precedência pelo exemplo de vida. |
+| sympathy / compassion | compaixão | Participação nas fraquezas e necessidades do próximo. |
+| condescension | condescendência | Disposição de descer ao encontro da fraqueza alheia. |
+| righteousness | justiça / retidão | Conforme o contexto moral e pastoral. |
+| breastplate of judgment | peitoral do juízo | |
+| ephod | éfode | |
+| fine twined linen | linho fino retorcido | |
+| twice dyed scarlet | escarlate duas vezes tingido | Preservada a imagem da dupla tintura, aplicada ao amor de Deus e do próximo. |
+| the judge within / the hidden judge | o juiz interior / o juiz oculto | |
+| brazen sea / laver | mar de bronze / bacia | No contexto da purificação diante do templo. |
+| Cornelius / Ananias / Sapphira | Cornélio / Ananias / Safira | |
+| Noe / Jethro / Eli | Noé / Jetro / Eli | |
+| Sion | Sião | |
+| self-love | amor de si mesmo | No contexto da preferência do governante por si em detrimento da verdade. |
+| connivance / connive at | tolerância / relevar | Deixar prudentemente de repreender, sem aprovar a falta; distinguido da tolerância até o momento oportuno. |
+| niggardliness / frugality | mesquinhez / frugalidade | |
+| prodigality / liberality | prodigalidade / liberalidade | |
+| supernal country / spiritual country | pátria celeste / pátria espiritual | |
+| compunction | compunção | |
+| Sacred Writ / Sacred Law | Sagrada Escritura / Lei Sagrada | |
+| shittim-wood | madeira de acácia | |
+| staves / rings | varais / argolas | No transporte da arca. |
+| frying-pan | frigideira | Mantida a imagem explicada pelo autor como abrasamento da mente. |
+| Gregory Nazianzen | Gregório Nazianzeno | |
+| prelates / subjects / subordinates | prelados / subordinados / subordinados | “Superiors” permanece “superiores”. |
+| servants / masters | servos / senhores | Preservada a condição de sujeição descrita pela fonte. |
+| the wise of this world / the dull | os sábios deste mundo / os de entendimento lento | |
+| the impudent / the bashful | os descarados / os acanhados | Distinção entre falta de vergonha e sensibilidade à censura. |
+| the forward / the faint-hearted | os presunçosos / os pusilânimes | No capítulo 8, excesso de confiança em si e propensão ao desânimo. |
+| the kindly-disposed / the envious | os benevolentes / os invejosos | |
+| the simple / the insincere / the crafty | os simples / os dissimulados / os astutos | Conservada a variação entre o título e o corpo do capítulo 11. |
+| elation | soberba | No contexto da exaltação de si mesmo. |
+| spite | rancor invejoso | No capítulo 10, hostilidade provocada pelo bem alheio. |
+| Apollos / Cephas | Apolo / Cefas | |
+| urchin | ouriço | Animal que se enrola para ocultar cabeça e patas, conforme a descrição do autor. |
+| trench / cubit | vala / côvado | Na interpretação do altar em Ezequiel 43:13. |
+| the whole / the sick | os sadios / os doentes | |
+| scourges | flagelos | “Açoites” quando se trata dos golpes concretos, especialmente na Paixão. |
+| the silent / the talkative | os calados / os faladores | “Over-silent”: “excessivamente calados”. |
+| the slothful / the hasty | os preguiçosos / os precipitados | |
+| the meek / the passionate | os mansos / os iracundos | “Passionate” designa aqui os dominados pela ira. |
+| the humble / the haughty | os humildes / os soberbos | |
+| the obstinate / the fickle | os obstinados / os inconstantes | |
+| long-suffering | longanimidade | |
+| levity / gravity | leviandade / gravidade | No capítulo 18, disposições opostas à firmeza ou favoráveis a ela. |
+| Balaam / Abner / Asahel / Hobab | Balaão / Abner / Asael / Hobab | |
+| adamant | diamante | Mantida a propriedade que a fonte lhe atribui no exemplo. |
+| the gluttonous / the abstinent | os gulosos / os abstinentes | |
+| abstinence / gluttony / lechery | abstinência / gula / luxúria | |
+| liberality / bounty | liberalidade / generosidade | |
+| dispensers | administradores | Dos bens temporais confiados por Deus. |
+| preventing grace | graça preveniente | “Preventing” tem o sentido de anteceder, não de impedir. |
+| those at variance / those at peace | os que estão em discórdia / os que estão em paz | |
+| sowers of strifes / peacemakers | semeadores de contendas / pacificadores | |
+| loving-kindness / charity | benevolência / caridade | Preservada a alternância vocabular da fonte. |
+| Phinehas / Jehoshaphat / Ahab / Gilead | Fineias / Josafá / Acab / Galaad | |
+| Antichrist / Baal | Anticristo / Baal | |
+| Sirach / Tobit / Haggai / Habakkuk | Eclesiástico / Tobias / Ageu / Habacuc | |
+| office of preaching | ofício da pregação | |
+| wedlock / married life | matrimônio / vida matrimonial | |
+| continence / the continent | continência / os continentes | |
+| celibacy / virginity | celibato / virgindade | Mantida a distinção da fonte. |
+| sins of deed / sins of thought | pecados de ação / pecados de pensamento | |
+| delight / consent | deleite / consentimento | Na análise dos pecados de pensamento. |
+| compunction / satisfaction | compunção / satisfação | Vocabulário penitencial. |
+| Lot / Zoar / Sidon | Ló / Segor / Sidônia | |
+| Dinah / Sichem / Hemor the Hivite | Diná / Siquém / Hemor, o heveu | |
+| carbuncle / jacinth | carbúnculo / jacinto | Conservados os nomes tradicionais das pedras, sem identificação mineralógica moderna. |
+| Canticles / Lamentations | Cântico dos Cânticos / Lamentações | |
+| suggestion / delight / consent | sugestão / deleite / consentimento | Três momentos da análise do pecado. |
+| precipitancy / of set purpose | precipitação / por propósito deliberado | Contraste entre o impulso repentino e a deliberação. |
+| vain-glory / lukewarmness | vanglória / mornidão | |
+| chair of pestilence | cátedra da pestilência | Preservada a imagem de autoridade judicial desenvolvida pelo autor. |
+| Balaam / Sardis / Lebanon | Balaão / Sardes / Líbano | |
+| Sirach / Revelation | Eclesiástico / Apocalipse | |
 | faithful and wise steward | administrador fiel e prudente | Lucas 12:42. |
 | author of humility | autor da humildade | Designação divina no Livro IV. |
 | old enemy | antigo inimigo | Designação do diabo. |
 
 ## Decisões
 
+- Preservados os 46 parágrafos da fonte, com seus títulos e subtítulos; as duas notas do tradutor constituem acréscimos identificados.
+- Na introdução, João é tratado por “tu”. Nas interpelações coletivas, emprega-se “vós”; na oração de Isaías dirigida a Deus, “enviai-me”.
+- As citações bíblicas seguem o texto inglês, sem harmonização com traduções portuguesas. Conservam-se referências discrepantes, incluindo João 15:16-17 na pergunta a Pedro e Mateus 25:18 na imagem do dinheiro envolto num lenço.
+- Nota do tradutor [^1], após o parágrafo 19: esclarece a alternância entre a numeração antiga de Reis e a moderna, conservada tal como aparece na edição.
+- No capítulo 6, “prevented with gifts” significa receber previamente os dons, não ser impedido por eles.
+- “Conversation”, aplicado à vida de Cristo no parágrafo 19, foi traduzido por “conduta”; “speculation”, no parágrafo 26, por “meditação”.
+- “Scabies” foi traduzido por “sarna”, conservando-se os itálicos onde presentes. Os termos latinos parentéticos *lippus*, *albuginem* e *ponderosus* foram preservados dentro da citação em itálico.
+- Nota do tradutor [^2], após o parágrafo 45: oferece a tradução da frase médica latina deixada sem tradução pela edição inglesa e esclarece o sentido antigo de “humor”.
+- Mantidas sem tradução as citações latinas e gregas do prefácio, em itálico, bem como os títulos latinos e as abreviaturas bibliográficas.
+- No JSON, acrescentadas as entradas localizadas de nome, autor e títulos do sumário e o idioma pt-BR. A descrição bibliográfica em `sources` é uma string vinculada à fonte inglesa e foi preservada integralmente, sem alteração de estrutura.
+- Preservados os 27 parágrafos deste trecho, incluindo os títulos; não foram acrescentadas notas do tradutor, pois a própria exposição explica extensamente suas imagens e a etimologia final.
+- Mantidas as referências bíblicas da fonte, inclusive Êxodo 18:30, 1 Coríntios 5:5, 2 Coríntios 1:23 e Marcos 9:49, sem correção ou harmonização.
+- “Conversation”, no capítulo 2, foi traduzido por “conduta”; “speculation”, no capítulo 5, por “meditação”, conforme as escolhas anteriores.
+- “Shoulder”, nas passagens sobre a porção sacrificial e sua interpretação, foi traduzido por “espádua”; nas passagens sobre a sustentação da veste, por “ombro”.
+- “Flux of seed” foi traduzido por “fluxo de sêmen”, conservando a ligação argumentativa com a semente da palavra e com *seminiverbius*.
+- “Latitude”, na interpretação de Lamentações 4:1, foi traduzido por “amplitude”; preservados em itálico *πλάτος* e *plateæ*, bem como a distinção reiterada entre “ruas” e “alto das ruas”.
+- Corrigidos na tradução os lapsos tipográficos evidentes “flue twined linen”, “twice died scarlet”, “San of Man” e “there as a rod”, sem alterar seu sentido.
+- Preservados os 20 parágrafos do trecho, incluindo os títulos, e a alternativa editorial entre colchetes no parágrafo 28; não foram acrescentadas notas do tradutor, pois o próprio texto explica suas imagens.
+- Mantidas as referências bíblicas da fonte, inclusive Ezequiel 24:4 e Salmo 109:97, sem correção ou harmonização.
+- No final do parágrafo 28, a construção inglesa elíptica foi vertida como “a moderada atenção do coração não é impedida”, conforme a oposição entre o cuidado exterior dos corpos e a atenção interior.
+- Em Gálatas 6:1, preservada a passagem do plural “vós [...] restaurai” ao singular “considerando a ti mesmo [...] tu”, presente na citação da fonte.
+- “Oldness of life” foi traduzido por “velhice da vida”, preservando sua oposição à renovação espiritual.
+- Preservada a extensão do itálico no parágrafo 40, inclusive a frase de ligação inserida pela fonte entre as duas citações.
+- Preservados os 52 parágrafos do trecho, incluindo títulos e a lista única do parágrafo 8; não foi acrescentado à lista o par “jovens e idosos”, embora apareça na admoestação seguinte.
+- No parágrafo 18, “let the sad bear what joys” foi entendido como lapso por “hear” e traduzido por “ouçam os tristes que alegrias”, conforme o paralelismo da exortação.
+- No parágrafo 21, “strictly published” foi entendido como lapso por “strictly punished” e vertido como “severamente punidos”; “sever him when he is set over” foi entendido pelo contexto como arrancar do torpor aquele sobre quem o pastor foi colocado.
+- Preservadas as referências bíblicas tal como fornecidas, inclusive Colossenses 3:20-21, 1 Samuel 24:6, 2 Tessalonicenses 2:1 e Isaías 34:15, sem harmonização com outras edições.
+- Nos parágrafos 42–43, “grieve / grieving” foi vertido por “alimentar ressentimento / ressentimento”, conforme a oposição entre paciência exterior e malícia interior.
+- Não foram acrescentadas notas do tradutor: as principais imagens e alusões deste trecho são explicadas pelo próprio autor.
+- Preservados os 39 parágrafos do trecho, incluindo títulos e subtítulos.
+- No parágrafo 68, “the enemy who lies in want” foi entendido como lapso por “lies in wait” e traduzido por “o inimigo que fica à espreita”.
+- Preservadas as referências bíblicas fornecidas, inclusive Eclesiastes 20:7 e as atribuições de Isaías 9:13 e Jeremias 15:6, sem harmonização.
+- Nos parágrafos 58 e 84, conservado “e seguintes” sem completar as referências ausentes da fonte.
+- “Blueness of a wound” foi vertido por “o roxo de uma ferida”, conservando a imagem corporal retomada na explicação.
+- Não foram acrescentadas notas do tradutor; as imagens, a etimologia de Abner e as alusões centrais são explicadas pelo próprio autor.
+- Preservados os 31 parágrafos do trecho, incluindo títulos e subtítulos; o longo parágrafo 115 permanece indiviso.
+- Preservadas as referências da fonte, inclusive Colossenses 2:25, a repetição de Isaías 58:3, Provérbios 21:28 e a numeração dos salmos.
+- No parágrafo 100, “players” foi entendido como atores; conservada também a expressão “um pobre justo”, apesar de sua aparente tensão com a menção anterior ao pecador.
+- No parágrafo 115, conservado “graves” como “sepulturas” na citação de 2 Crônicas 19:2-3, sem substituir a palavra da fonte por “groves”.
+- No parágrafo 122, “drought of wine” foi entendido como lapso por “draught of wine” e traduzido por “gole de vinho”; os lapsos “far” por “for” dos parágrafos 95, 96 e 118 também foram resolvidos pelo contexto.
+- Não foram acrescentadas notas do tradutor; as imagens e a etimologia de Galaad são explicadas no próprio texto.
+- Preservados os 29 parágrafos do trecho, incluindo títulos e subtítulos, sem subdividir os parágrafos longos.
+- Conservadas as referências tal como fornecidas, inclusive Lucas 5:46 e 1 Coríntios 7:3-5, além da numeração dos salmos.
+- No parágrafo 127, “drought” foi novamente entendido como lapso por “draught” e traduzido por “gole”; no parágrafo 138, “bearers” foi entendido como lapso por “hearers” e traduzido por “ouvintes”.
+- No parágrafo 137, “the whole” designa os sãos, em contraste com os fracos, dentro da imagem da medicina celeste.
+- No parágrafo 138, “abusers of themselves with mankind” foi explicitado como “os homens que praticam atos sexuais com outros homens”, preservando a referência a atos sem introduzir uma categoria moderna de identidade.
+- No parágrafo 145, “order” foi vertido como “estado” ou “estado de vida”, pois a comparação trata das condições de vida e de sua correspondência com a conduta.
+- Não foram acrescentadas notas do tradutor; as imagens e alusões centrais recebem explicação no próprio texto.
+- Preservados os 40 parágrafos do trecho, incluindo títulos e subtítulos, sem subdividir os parágrafos longos.
+- Conservadas as referências da fonte, inclusive Provérbios 23:35 nas duas citações do parágrafo 165, Jeremias 23:2, Mateus 23:17 e 1 Coríntios 2:12; mantida também a numeração dos salmos.
+- No parágrafo 155, “baptized” foi traduzido por “batizado”, preservando a ligação verbal entre a lavagem após o contato com um cadáver e sua aplicação à purificação do pecado.
+- No parágrafo 179, “drought” foi entendido, conforme a decisão anterior, como lapso por “draught” e traduzido por “gole”.
+- No parágrafo 180, preservada a mudança do singular para o plural na citação: “tua consciência”, depois “pecais”.
+- No parágrafo 186, a comparação com a “palæstra” foi vertida por “à maneira dos lutadores na arena”, tornando explícito o sentido atlético da imagem.
+- Não foram acrescentadas notas do tradutor; as imagens são explicadas pelo próprio autor ou puderam ser expressas diretamente em português.
 - Preservados os quatro parágrafos finais do Livro III e os cinco do Livro IV, incluindo títulos e subtítulos, sem subdividir os parágrafos longos.
 - Mantidas as referências e a numeração dos salmos da fonte, inclusive Salmo 67:61, Salmo 29:7, Salmo 5:8 e a alternância entre Salmo 119:106 e Salmo 118:107.
 - No encerramento do Livro IV, mantido o tratamento singular “tu” ao destinatário; nas citações dirigidas a Deus, empregado “vós”.

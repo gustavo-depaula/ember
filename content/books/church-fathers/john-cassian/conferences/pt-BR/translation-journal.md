@@ -1,6 +1,319 @@
+# Diário de tradução — Conferências (pt-BR)
+
+Fonte: en-US/, tradução de C. S. Gibson, Nicene and Post-Nicene Fathers, Segunda Série, vol. 11, edição de Philip Schaff e Henry Wace, Christian Literature Publishing Co., 1894; revisão e edição para o New Advent de Kevin Knight.
+Destino: pt-BR.
 
 ## Termos
 
+| Inglês | Português | Notas |
+|---|---|---|
+| Conferences | Conferências | Título da obra e designação das instruções dialogadas. |
+| John Cassian / St. John Cassian | João Cassiano / São João Cassiano | |
+| Abbot Moses | abade Moisés | |
+| Germanus | Germano | Companheiro de Cassiano. |
+| Castor / Leontius / Helladius | Castor / Leôncio / Heládio | |
+| Scete | Cétia | Deserto monástico egípcio. |
+| Cœnobium / Cœnobia | Cenóbio / Cenóbios | Maiúsculas conforme a fonte. |
+| Anchorite | Anacoreta | Maiúscula conforme a fonte. |
+| Institutes | Instituições | Título e designação dos preceitos monásticos. |
+| fathers / Fathers | padres / Padres | Convenção dos irmãos; “pais” quando o sentido for familiar. |
+| Holy Ghost / Holy Spirit | Espírito Santo | Convenção dos irmãos. |
+| essence | essência | Convenção dos irmãos. |
+| piety / godliness | piedade | Convenção dos irmãos. |
+| goal / mark | meta / alvo | Distinguidos de “fim” no argumento sobre a pureza de coração. |
+| end | fim | No argumento ascético, o reino de Deus ou a vida eterna. |
+| purity of heart | pureza de coração | Meta imediata da vida monástica. |
+| charity / love | caridade / amor | Preservada a alternância da edição inglesa. |
+| profession | profissão | Compromisso e modo de vida monástico. |
+| practical life / contemplation | vida prática / contemplação | |
+| self-denial | renúncia a si mesmo | Ajustada sintaticamente ao contexto. |
+| compunction | compunção | |
+| free will | livre-arbítrio | |
+| kingdom of God / kingdom of heaven | reino de Deus / reino dos céus | |
+| natural body / spiritual body | corpo natural / corpo espiritual | Vocabulário da fonte em 1 Coríntios 15:44. |
+| dispensation | dispensação | Ordenação divina dos dons e da salvação. |
+| Abraham / Isaac / Jacob / Israel | Abraão / Isaac / Jacó / Israel | |
+| Martha / Mary / Lazarus | Marta / Maria / Lázaro | |
+| Sion / Jerusalem | Sião / Jerusalém | |
+| Sadducees | saduceus | |
+| Romans / Corinthians / Philippians | Romanos / Coríntios / Filipenses | Referências com capítulo:versículo. |
+| Matthew / Luke / John | Mateus / Lucas / João | |
+| Galatians / Timothy / Hebrews | Gálatas / Timóteo / Hebreus | |
+| Isaiah / Exodus / Revelation | Isaías / Êxodo / Apocalipse | |
+| discretion / discrimination | discernimento | Capacidade espiritual de examinar pensamentos, interpretações e práticas; ambas as palavras recebem o mesmo termo. |
+| good money-changer | bom cambista | Imagem monetária que organiza o exame dos pensamentos. |
+| vain glory | vanglória | |
+| Ahasuerus / Mordecai / Achan / Ahab | Assuero / Mardoqueu / Acã / Acab | |
+| Judas Iscariot / Simon / Ananias | Judas Iscariotes / Simão / Ananias | |
+| Joshua the son of Nun | Josué, filho de Nun | |
+| Abbot John / Lycon | abade João / Lícon | Mantida a forma do topônimo apresentado pela fonte. |
+| David / Peter / Satan | Davi / Pedro / Satanás | |
+| Philistines / Nile | filisteus / Nilo | |
+| Zechariah / Acts / Ecclesiastes | Zacarias / Atos / Eclesiastes | |
+| Kings / Proverbs / Joshua | Reis / Provérbios / Josué | |
+| 1 John | 1 João | |
+| Abbot Moses / Germanus | abade Moisés / Germano | Interlocutores da conferência. |
+| blessed Antony / Thebaid | bem-aventurado Antão / Tebaida | |
+| Heron / Abbot Paphnutius | Herão / abade Pafnúcio | |
+| Abbot Serapion / Abbot Theonas / Abbot Apollos | abade Serapião / abade Teonas / abade Apolo | |
+| Mazices / Mesopotamia | mázices / Mesopotâmia | |
+| Saul / Samuel / Abraham / Paul / Benjamin | Saul / Samuel / Abraão / Paulo / Benjamim | |
+| humility / compunction | humildade / compunção | |
+| continence / abstinence / chastity | continência / abstinência / castidade | Mantidas as distinções da fonte. |
+| gluttony / fornication / lust | gula / fornicação / concupiscência | “Lust” conforme o contexto ascético. |
+| elders / fathers | anciãos / padres | “Anciãos” designa os orientadores monásticos; “padres”, os mestres da tradição. |
+| biscuit | pão seco | Pão da alimentação monástica; evita a associação moderna de “biscoito” a uma guloseima. |
+| royal road | estrada régia | Imagem do caminho que evita os dois extremos. |
+| memorial and oblation for those at rest | comemoração e oblação pelos que repousam | Contexto litúrgico dos falecidos. |
+| Ephesians / Hebrews / Hosea / Isaiah | Efésios / Hebreus / Oseias / Isaías | |
+| Galatians / Deuteronomy / Matthew | Gálatas / Deuteronômio / Mateus | |
+| umores genitales | humores genitais | Conservada a terminologia fisiológica histórica do trecho latino. |
+| discretion | discernimento | Virtude que orienta a medida das práticas ascéticas. |
+| Station fast | jejum de estação | Designação tradicional de uma observância de jejum; “estação” não se refere às estações do ano. |
+| canonical allowance | porção prescrita pela regra | Quantidade de alimento estabelecida pela disciplina monástica. |
+| purity of heart | pureza de coração | |
+| Paphnutius | Pafnúcio | Abade cuja conferência trata das três renúncias. |
+| Germanus | Germano | Interlocutor de Pafnúcio. |
+| Scete | Cétis | Deserto monástico do Egito. |
+| Antony | Antão | Santo Antão, mencionado como exemplo de vocação recebida diretamente de Deus. |
+| Anchorites | anacoretas | |
+| vocation / calling | vocação / chamado | “Vocação” na classificação; “chamado” quando se enfatiza o ato de chamar. |
+| renunciation | renúncia | |
+| charity | caridade | |
+| loving kindness | amorosa bondade | |
+| indifferent | indiferente | Bens que, em si mesmos, não são bons nem maus. |
+| conversation | vida | No uso antigo das citações de Filipenses 3:20, não significa “conversa”. |
+| Enoch | Henoc | |
+| Calamus | Cálamo | Lugar do deserto onde vivia o abade Moisés mencionado no capítulo 5. |
+| Daniel | Daniel | Abade que profere a quarta conferência. |
+| Elders | anciãos | Mestres da vida monástica. |
+| lust of the flesh / lust of the spirit | desejo da carne / desejo do espírito | “Desejo” preserva o paralelismo; “concupiscência” quando o contexto designa especificamente o apetite desordenado. |
+| dryness | aridez | Estado interior de privação do fervor e da consolação espiritual. |
+| lukewarmness | tibieza | Nas citações do Apocalipse, “lukewarm” traduzido por “morno”. |
+| carnal / natural / spiritual man | homem carnal / natural / espiritual | Classificação paulina desenvolvida nos capítulos 17–19 da quarta conferência. |
+| contrition | contrição | |
+| spiritual wickednesses | espíritos de maldade | Designação dos seres espirituais malignos. |
+| visitation | visita | Ação de Deus que concede graça e consolação. |
+| Serapion | Serapião | Abade que profere a quinta conferência. |
+| Germanus | Germano | Interlocutor de Serapião. |
+| Macarius | Macário | Abade citado no capítulo 12. |
+| discretion | discernimento | Graça atribuída a Serapião. |
+| principal faults | vícios principais | Designação das oito paixões examinadas na quinta conferência. |
+| gluttony / gastrimargia | gula / *gastrimargia* | Preservada a forma grega transliterada quando a fonte a apresenta. |
+| fornication | fornicação | |
+| avarice / philargyria | avareza / *philargyria* | “Covetousness” traduzido por “cobiça”. |
+| anger | ira | |
+| dejection | tristeza | Vício distinto da tristeza segundo Deus. |
+| accidie / acedia | acédia / *acedia* | Forma transliterada preservada na enumeração inicial; “acédia” no restante. |
+| vainglory / cenodoxia | vanglória / *cenodoxia* | Preservada a transliteração da fonte na enumeração inicial. |
+| pride | soberba | |
+| Necho / Nebuchadnezzar | Necao / Nabucodonosor | |
+| Shem | Sem | |
+| Ham | Cam | Ancestral dos cananeus mencionado no capítulo 24. |
+| Abbot Theodore | abade Teodoro | Interlocutor da Conferência 6. |
+| Germanus | Germano | Interlocutor de Cassiano nas conferências. |
+| Cellæ | Celas | Povoação monástica entre Nítria e Cétis. |
+| Nitria / Scete | Nítria / Cétis | Topônimos monásticos egípcios. |
+| indifferent | indiferente | Coisas cujo uso pode contribuir para o bem ou para o mal. |
+| accidie | acídia | Termo da tradição ascética. |
+| vainglory | vanglória | |
+| ambidextrous | ambidestro | Imagem do aproveitamento espiritual da prosperidade e da adversidade. |
+| armour of righteousness | armas da justiça | Conservada a imagem militar desenvolvida no texto. |
+| Ehud | Aod | Juiz de Israel citado no capítulo 10. |
+| Sirach | Eclesiástico | Nome do livro bíblico. |
+| Abbot Serenus | abade Sereno | Interlocutor da Conferência 7; o nome conserva em português a alusão à serenidade. |
+| Abbot Paul | abade Paulo | Mencionado no título do capítulo 26. |
+| inner man / outward man | homem interior / homem exterior | |
+| continence | continência | |
+| unclean spirits | espíritos impuros | |
+| spiritual wickedness | maldade espiritual | Conservado também o plural quando a expressão designa os espíritos adversos. |
+| anchorites | anacoretas | |
+| Baruch / Micah | Baruc / Miqueias | Nomes dos livros bíblicos. |
+| Abbot Moses / Abbot Macarius | abade Moisés / abade Macário | |
+| Abbot Archebius / Abbot Andronicus | abade Arquébio / abade Andrônico | |
+| Calamus / Panephysis | Cálamo / Panéfise | Topônimos egípcios. |
+| Arius / Eunomius | Ário / Eunômio | |
+| powers of the air | potestades do ar | |
+| Plani / Bacucei | *Plani* / *Bacucei* | Denominações conservadas em itálico. |
+| onocentaur / basilisk / urchin | onocentauro / basilisco / ouriço | |
+| Abbot Serenus / Germanus | abade Sereno / Germano | Interlocutores da conferência. |
+| principalities / powers / dominions | principados / potestades / dominações | Designações das hierarquias espirituais. |
+| heavenly virtues / thrones | virtudes celestes / tronos | “Virtudes” designa aqui seres espirituais. |
+| spiritual wickednesses | espíritos de maldade | |
+| Antony / Pelusium | Antão / Pelúsio | |
+| Beelzebub / Lucifer | Belzebu / Lúcifer | |
+| Seth / Enoch / Ham | Set / Henoc / Cam | |
+| the Shepherd | o Pastor | Obra atribuída a Hermas. |
+| natural philosophy | filosofia natural | Estudo da natureza e das propriedades dos seres. |
+| trogalia | *trogalia* | Denominação das ervilhacas torradas, conservada em itálico. |
+| prayer | oração | Tanto a oração em geral como a segunda das quatro espécies distinguidas por Isaac. |
+| supplication | súplica | Primeira espécie: pedido de perdão pelos pecados. |
+| intercession | intercessão | Terceira espécie: oração também pelos outros. |
+| thanksgiving | ação de graças | Quarta espécie de oração. |
+| vow | voto | Conservada a relação entre oração e voto explicada no capítulo 12. |
+| conviction | compunção | Nos capítulos 26–29, designa a comoção espiritual que conduz à oração e às lágrimas. |
+| supersubstantial | supersubstancial | Qualificação do pão em contraste com “cotidiano”. |
+| Abbot Isaac | abade Isaac | Interlocutor da Conferência 9. |
+| Germanus | Germano | Interlocutor de Isaac. |
+| Pope Castor | papa Castor | Conservado o título empregado pela edição inglesa. |
+| Pope Leontius | papa Leôncio | Conservado o título empregado pela edição inglesa. |
+| Helladius | Heládio | Destinatário mencionado na introdução. |
+| Abbot Antony | abade Antão | Santo Antão, citado no capítulo 31. |
+| importunity | importunação | Insistência perseverante na petição, no capítulo 34. |
+| drink offerings | libações | Oferendas líquidas, na linguagem sacrificial do capítulo 36. |
+| evening service | ofício vespertino | Celebração comunitária mencionada no encerramento da conferência. |
+| Abbot Isaac | abade Isaac | Interlocutor das conferências sobre a oração. |
+| Germanus | Germano | Companheiro de Cassiano e interlocutor de Isaac. |
+| Abbot Sarapion | abade Serapião | Monge mencionado no episódio dos antropomorfitas. |
+| Paphnutius | Pafnúcio | Presbítero da comunidade de Cassiano. |
+| Photinus | Fotino | Diácono vindo da Capadócia. |
+| Theophilus | Teófilo | Bispo de Alexandria. |
+| Scete | Cétia | Deserto monástico do Egito. |
+| Anthropomorphites | antropomorfitas | A explicação da doutrina é dada pelo próprio texto. |
+| recollection of God | lembrança de Deus | Recordação contínua, sustentada pela meditação do versículo. |
+| discretion | discernimento | Virtude que acompanha e protege a simplicidade. |
+| accidie | acédia | Termo da tradição ascética. |
+| vainglory | vanglória | Distinta da soberba. |
+| O God, make speed to save me: O Lord, make haste to help me | Ó Deus, apressai-vos em salvar-me; ó Senhor, apressai-vos em socorrer-me | Fórmula mantida em todas as repetições do capítulo 10. |
+| Abbot Chæremon / Chaeremon | abade Queremão | Forma Queremão já empregada no corpus patrístico. |
+| Honoratus / Eucherius | Honorato / Euquério | Formas já empregadas nos diários de obras próximas do corpus. |
+| Archebius | Arquébio | Bispo de Panéfise. |
+| Nesteros / Joseph | Néstero / José | Anacoretas mencionados com Queremão. |
+| Helladius / Leontius / Castor | Heládio / Leôncio / Castor | Bispos mencionados no prólogo. |
+| Thennesus / Panephysis | Têneso / Panéfise | Cidades egípcias. |
+| Thebaid / Stœchades | Tebaida / Estécades | Região egípcia e ilhas mencionadas no texto. |
+| Cœnobia / anchorites | cenóbios / anacoretas | Vida monástica comunitária e solitária. |
+| Institutes of the Cœnobia | Instituições dos Cenóbios | Obra anterior de Cassiano. |
+| faith / hope / love | fé / esperança / amor | Tríade mantida também nas citações bíblicas. |
+| servile fear / mercenary hope | temor servil / esperança mercenária | Motivações distinguidas do amor perfeito. |
+| adoption of sons | adoção de filhos | Condição filial contraposta à servidão e ao trabalho remunerado. |
+| hireling | trabalhador assalariado | Nas citações do filho pródigo, “trabalhador”, preservado o sentido contextual. |
+| image and likeness of God | imagem e semelhança de Deus | Fórmula recorrente. |
+| chastity / purity | castidade / pureza | Mantida a distinção lexical da fonte. |
+| sevenfold spirit | Espírito septiforme | Expressão da exposição de Isaías 11:2-3. |
+| grace / free grace | graça / graça gratuita | Preservado o caráter gratuito explicitado pela fonte. |
+| free will / freedom of the will | livre-arbítrio / liberdade da vontade | Mantida a alternância da fonte. |
+| good will | boa vontade | Disposição da vontade para o bem. |
+| Divine protection / Providence | proteção divina / providência | Termos centrais da Conferência 13. |
+| original or actual sin | pecado original ou pecados pessoais | “Actual” designa os pecados praticados pela pessoa. |
+| prevent / precede | antecipar-se a / preceder | “Prevent” tem sentido temporal nas passagens sobre a graça e a oração. |
+| Socrates / Diogenes | Sócrates / Diógenes | Filósofos citados no capítulo 5. |
+| Zaccheus / Balaam / Abimelech | Zaqueu / Balaão / Abimelec | Formas portuguesas dos nomes bíblicos. |
+| Nathan / Joshuah the son of Nun | Natã / Josué, filho de Nun | Formas portuguesas dos nomes bíblicos. |
+| Pastor | Pastor | Obra também conhecida como Pastor de Hermas. |
+| Helper / Sponsor / Refuge | Auxiliador / Amparador / Refúgio | Designações de Deus no capítulo 17; “Sponsor” exprime aqui seu amparo aos que nele se refugiam. |
+| superabundance of grace | superabundância de graça | Graça que ultrapassa a medida da fé ou da expectativa de quem a recebe. |
+| Cornelius | Cornélio | Nome bíblico. |
+| Chæremon | Queremão | Mantida a forma empregada na chamada anterior. |
+| Nesteros | Nesteros | Nome do abade que profere a Conferência 14. |
+| practical knowledge / πρακτική | conhecimento prático / *πρακτική* | Aperfeiçoamento dos costumes e purificação dos vícios. |
+| theoretical knowledge / θεωρητική | conhecimento contemplativo / *θεωρητική* | “Theoretical” designa aqui a contemplação das coisas divinas. |
+| historical interpretation | interpretação histórica | Sentido relativo aos acontecimentos passados e visíveis. |
+| tropological / allegorical / anagogical | tropológico / alegórico / anagógico | Distinções do sentido espiritual da Escritura. |
+| anchorite / Cœnobium | anacoreta / cenóbio | Vida solitária e comunidade monástica, respectivamente. |
+| Germanus / Antony / Macarius | Germano / Antão / Macário | Formas portuguesas dos nomes. |
+| Thmuis | Tmuis | Forma atestada nos diários de obras de Pedro de Alexandria e Santo Atanásio do corpus. |
+| mercy seat | propiciatório | Elemento da arca da Aliança, interpretado espiritualmente como a paz do coração. |
+| long suffering | longanimidade | Virtude na sequência de 2 Coríntios 6:5-6. |
+| gifts / gifts of healing | dons / dons de curar | Dons espirituais, distintos dos méritos pessoais de quem os exerce. |
+| love | caridade / amor | “Caridade” para a virtude teologal; “amor” nas relações pessoais e nas formulações verbais correspondentes. |
+| Scete | Cítis | Forma adotada no diário de *Butler — Vidas dos Santos* do corpus. |
+| Eunomius / Paphnutius | Eunômio / Pafnúcio | Formas adotadas nos diários das obras de São Jerônimo e Santo Atanásio do corpus. |
+| Abraham / Joseph | Abraão / José | Nomes dos abades. |
+| vainglory | vanglória | Vício ligado à ostentação dos dons. |
+| Quinquagesima | Quinquagésima | Preservada a designação temporal da fonte. |
+| friendship / companionship | amizade / companheirismo | Vínculo entre os irmãos, sustentado pela comunhão de virtude e propósito. |
+| Germanus / Thmuis | Germano / Tmuis | Interlocutor de José e cidade egípcia de origem do abade. |
+| discretion | discernimento | Juízo espiritual que orienta a conduta e modera os movimentos da ira. |
+| long-suffering | longanimidade | Perseverança paciente diante das fraquezas e ofensas alheias. |
+| vexation | ressentimento / perturbação | “Ressentimento” nas relações fraternas; “perturbação” quando designa o estado interior. |
+| ἀγάπη / διάθεσις | amor / afeição | Grego preservado em itálico; distinção entre o amor oferecido a todos e a afeição particular. |
+| inner man / outward man | homem interior / homem exterior | Distinção empregada na interpretação espiritual do mandamento sobre oferecer a outra face. |
+| conspiracy | pacto | No capítulo 28, acordo de amizade firmado por juramento, conforme o desenvolvimento do argumento. |
+| cowardice / coward | pusilanimidade / pusilânime | No capítulo 27, estreiteza de ânimo incapaz de suportar a ira e a adversidade. |
+| promise / oath / perjury | promessa / juramento / perjúrio | Preservada a distinção entre o compromisso assumido e sua confirmação por juramento. |
+| Elders / juniors | anciãos / mais jovens | Designações da experiência e da formação na vida monástica. |
+| οἰκονομίας / economy | οἰκονομίας / economia | Grego preservado em itálico; termo explicado na nota do tradutor ao capítulo 16. |
+| lie / dissimulation / hypocrisy | mentira / dissimulação / hipocrisia | Mantidas as distinções e a força dos termos empregados pela edição inglesa. |
+| hellebore | heléboro | Planta medicinal tóxica que fundamenta a comparação do capítulo 17. |
+| Hushai / Ahithophel / Ahitub | Cusai / Aquitofel / Aquitob | Formas portuguesas dos nomes bíblicos. |
+| Achish / Gath / Doeg | Aquis / Gat / Doeg | Rei e cidade filisteus; o edomita mencionado no capítulo 20. |
+| Piamun | Piamum | Abade mencionado no capítulo 24. |
+| renunciation | renúncia | Ingresso e formação na vida monástica. |
+| Scete | Cítis | Forma já empregada no diário de tradução das vidas dos santos de Butler, no corpus. |
+| chosen vessel | vaso de eleição | Designação de São Paulo. |
+| bodily exercises | exercícios corporais | Práticas ascéticas cuja observância pode ser abrandada conforme as circunstâncias. |
+| grace of liberty | graça da liberdade | Expressão preservada no contraste com a escravidão da lei que alguém impõe a si mesmo. |
+| Piamun | Piamum | Nome do abade que profere a Conferência 18. |
+| Diolcos | Díolcos | Aldeia numa das desembocaduras do Nilo. |
+| Helladius / Leontius / Honoratus | Eládio / Leôncio / Honorato | Nomes da dedicatória. |
+| Eucherius | Euquério | Conforme os diários das obras irmãs de Butler e Genádio. |
+| Jovinianus / Minervius / Theodore | Joviniano / Minérvio / Teodoro | Destinatários da dedicatória; Joviniano e Minérvio seguem formas já presentes no corpus. |
+| Cœnobite / Cœnobium | cenobita / cenóbio | O capítulo 10 distingue cenóbio, pela vida comunitária, de mosteiro, pela habitação. |
+| anchorite | anacoreta | A explicação etimológica da fonte é traduzida no capítulo 6. |
+| Sarabaites | sarabaítas | Terceiro tipo de monges descrito por Piamum. |
+| Serapion / Paphnutius | Serapião / Pafnúcio | Formas já empregadas nas obras irmãs do corpus. |
+| Paul / Antony | Paulo / Antão | Eremitas apresentados como iniciadores da vida anacorética. |
+| steward | ecônomo | Responsável pela administração dos bens do cenóbio. |
+| discretion | discernimento | Virtude de julgar e ordenar a conduta espiritual. |
+| ἀκτημοσύνην | *ἀκτημοσύνην* | Conservado o grego; traduzida a explicação da fonte: “a privação de todas as coisas”. |
+| Bubalis | Búbalo | Apelido de Pafnúcio. |
+| Scete | Cítis | Forma adotada no diário da obra irmã de Butler. |
+| Abbot John / Abbot Paul | abade João / abade Paulo | Monges apresentados na Conferência 19. |
+| Germanus | Germano | Interlocutor de João; forma também empregada no corpus. |
+| Moses / the two Macarii | Moisés / os dois Macários | Anciãos citados como perfeitos nas duas formas de vida. |
+| hermit / hermitage | eremita / eremitério | Distintos de “anacoreta” quando a fonte emprega palavras distintas. |
+| aim / end | objetivo / finalidade | Aplicados à vida cenobítica e à vida eremítica. |
+| vainglory | vanglória | Vício associado ao louvor humano e à ostentação. |
+| ὑλικὴ κτῆσις | *ὑλικὴ κτῆσις* | Conservado o grego, com a explicação da fonte: “aquisição de coisas materiais”. |
+| μερική / ἀκτημοσύνη | *μερική* / *ἀκτημοσύνη* | Conservadas as formas gregas e traduzidas as explicações da fonte. |
+| pint / modius | pinta / módio | Mantidas as unidades de capacidade, sem conversão. |
+| Abbot Pinufius | abade Pinúfio | Interlocutor da Conferência 20. |
+| Panephysis / Tabennæ | Panéfise / Tabena | Localidades egípcias mencionadas no relato de Pinúfio. |
+| penitence / penance | penitência | Conservado o vocabulário penitencial ao longo da conferência. |
+| end of penitence | fim da penitência | “Fim” no sentido de término, conforme a distinção do capítulo 12. |
+| satisfaction / make satisfaction | satisfação / dar satisfação | Sentido penitencial e reparador; convenção da tradução de Sobre a penitência, de Tertuliano. |
+| marks of satisfaction | sinais da satisfação | Indícios interiores examinados por Pinúfio. |
+| contrition / compunction | contrição / compunção | Conservada a distinção lexical da fonte. |
+| Cœnobium | cenóbio | Comunidade monástica de vida comum. |
+| Institutes | Instituições | Obra de Cassiano citada nos capítulos 1 e 2. |
+| Abbot Theonas | abade Teonas | Interlocutor da Conferência 21. |
+| Abbot John / Elias | abade João / Elias | Predecessores de Teonas na administração das esmolas. |
+| Jonadab the son of Rechab | Jonadab, filho de Recab | Nome bíblico conservado na exposição sobre a renúncia. |
+| firstfruits / tithes | primícias / dízimos | Ofertas distinguidas na exposição da antiga lei. |
+| relaxation | abrandamento | Mitigação do rigor do jejum ou da abstinência. |
+| the fifty days / Eastertide | os cinquenta dias / tempo pascal | Período festivo tratado na conferência. |
+| Lent / Evensong | Quaresma / Vésperas | Tempo litúrgico e ofício de oração. |
+| things indifferent | coisas indiferentes | Categoria moral contraposta às coisas boas ou más por sua própria natureza. |
+| discretion | discernimento | Juízo que regula a medida da abstinência. |
+| almoner | esmoler | Responsável pela administração das esmolas. |
+| sextarius | sextário | Antiga medida de capacidade. |
+| Quadragesima | *Quadragesima* | Nome latino conservado na explicação de sua origem; no uso habitual, “Quaresma”. |
+| station fast | jejum de estação | Observância de jejum em dias determinados. |
+| πρακτικὴ / practical training | *πρακτικὴ* / formação prática | Conservado o grego e traduzida a explicação da fonte. |
+| Ananias and Sapphira | Ananias e Safira | Nomes bíblicos. |
+| sinlessness | ausência de pecado | Evita sugerir, pelo termo “impecabilidade”, uma impossibilidade de pecar. |
+| chief good / highest good | bem supremo | No argumento desta conferência, a contemplação de Deus e a união contínua com Cristo. |
+| recollection of God | lembrança de Deus | Presença de Deus conservada na mente. |
+| body of death | corpo de morte | Conservada a expressão “corpo desta morte” nas citações que a empregam. |
+| daily grace of Christ | graça cotidiana de Cristo | Expressão recorrente na distinção entre as distrações dos santos e os crimes. |
+| funambuli | *funambuli* | Termo latino conservado; a própria comparação explica a prática. |
+| Lord's Communion | Comunhão do Senhor | Comunhão eucarística, no capítulo 21. |
+| service | ofício | Celebração da oração litúrgica, no capítulo 19. |
+| Abbot Abraham | abade Abraão | Interlocutor da Conferência 24. |
+| Abbot Apollos | abade Apolo | Ancião citado no capítulo 9. |
+| Saint Antony / blessed Antony | Santo Antão / bem-aventurado Antão | Monge do deserto citado nos capítulos 11–12. |
+| Abbot Macarius | abade Macário | Autor da narrativa do barbeiro. |
+| Germanus | Germano | Interlocutor de Abraão. |
+| Scete | Cétis | Região monástica egípcia. |
+| Calamus / Porphyrion | Cálamo / Porfírio | Desertos mencionados no capítulo 4. |
+| mortification | mortificação | Tema da conferência. |
+| anchorite / Cœnobium | anacoreta / cenóbio | Vida solitária e vida monástica comunitária. |
+| accidie | acídia | Termo ascético; explicado na nota do tradutor ao capítulo 5. |
+| discretion | discernimento | Capacidade de julgar corretamente a conduta espiritual. |
+| reasonable / irascible / subject to desire | racional / irascível / sujeito ao desejo | Três faculdades da alma na exposição de Abraão. |
+| recollection of God | lembrança de Deus | Centro ao qual devem convergir os pensamentos. |
+| pence / penny / shilling | pence / penny / xelim | Denominações da edição inglesa, esclarecidas em nota. |
 | Abbot John | abade João | Monge citado no capítulo 26. |
 | Lycus | Lico | Cidade próxima ao deserto onde vive o abade João. |
 | hundredfold | cêntuplo | Também “cem vezes”, conforme a construção da frase. |
@@ -8,6 +321,183 @@
 
 ## Decisões
 
+- Nesta chamada, traduzidos os parágrafos 1–60 de `ch001.md`; o trecho termina no título descritivo do capítulo 19, antes de seu desenvolvimento.
+- Conservada a distinção argumentativa entre a “meta” imediata, a pureza de coração, e o “fim”, o reino de Deus ou a vida eterna. “Aim” recebe “objetivo”, “meta” ou “fim” conforme a função expressa no contexto.
+- Mantido “papa” como título episcopal antigo. Acrescentada a nota do tradutor `[^1]` ao parágrafo 4 para esclarecer que Castor e Leôncio não eram bispos de Roma. O trecho fornecido não contém notas da fonte.
+- No parágrafo 22, “pencil” foi vertido por “instrumento de escrever”, evitando atribuir ao contexto antigo o lápis moderno; “pen” permanece “pena”.
+- No parágrafo 46, “Dives” foi traduzido por “o rico”: designa o personagem rico da parábola de Lázaro.
+- O tratamento acompanha o interlocutor: “vós” nas instruções aos dois monges; “tu” na retomada direta da pergunta de Germano no parágrafo 43 e na interpelação singular do parágrafo 46; “vós” na fala de Marta ao Senhor; “tu” nas palavras de Cristo a Marta e ao ladrão e na fala divina a Jerusalém.
+- Preservadas a redação e as referências bíblicas da fonte, inclusive as citações compostas, as referências ausentes e a atribuição a Mateus 22:31-32 da passagem que termina com “pois todos vivem para ele”.
+- Mantida a diferença de pontuação discutida no parágrafo 46 entre “Hoje estarás comigo no Paraíso” e “Em verdade, eu te digo hoje”, seguida de pausa.
+- No parágrafo 43, o título inglês apresenta “towards” sem complemento. Traduzido como “acerca da orientação do coração”, sem inventar o complemento ausente.
+- Os termos gregos `σκοπός` e `κατὰ σκοπὸν διώκω` foram preservados e postos em itálico.
+- No `book.json`, preservadas a sequência original do sumário, inclusive as lacunas das Conferências 12 e 22, e a descrição bibliográfica textual de `sources`; acrescentadas traduções nos campos multilíngues existentes.
+- Nesta chamada, traduzidos os parágrafos 61–74 de `ch001.md`, concluindo a Conferência 1.
+- Mantidas as particularidades da fonte: a referência a 2 Coríntios 11:4 na passagem sobre o anjo de luz, a menção narrativa ao “terceiro livro dos Reis” acompanhada de “1 Reis 22:22” e o “acampamento dos filisteus” no episódio de Acã. “Joshua vii” foi normalizado para “Josué 7”.
+- No parágrafo 64, conservada a afirmação de que a obra de piedade “procede do verdadeiro pensamento dos padres”, embora o contexto a associe ao engano; não se introduziu uma negação ausente da fonte inglesa.
+- No parágrafo 74, mantida a indicação espacial “a intervalos de seis pés”, sem convertê-la em medida de comprimento dos feixes, pois a construção inglesa é pouco clara.
+- O tratamento singular foi mantido na fala de Pedro a Ananias, na advertência do Eclesiastes e na fala do diabo ao abade João; empregou-se “vós” na citação dirigida a Cristo e nas instruções aos dois monges.
+- Nesta chamada, traduzidos os parágrafos 1–76 de `ch002.md`; o último contém apenas o subtítulo do capítulo 24, cujo texto continua na próxima chamada.
+- Os parágrafos 72–73, apresentados integralmente em latim pela edição inglesa, foram traduzidos diretamente do latim. Constituem o título e o corpo do capítulo 23, não uma citação incidental a conservar em latim. Mantidas as noções históricas de medulas e humores, bem como o limite explícito de três ocorrências anuais.
+- Preservado em itálico o provérbio grego *ἀκρότητες ἰσότητες*, seguido da tradução fornecida pela fonte: “os extremos se encontram”.
+- Acrescentada a nota do tradutor `[^1]` ao parágrafo 36 para explicar a hora nona.
+- No parágrafo 36, conservadas as formulações peculiares da fonte “a burning lamp” e “the author of His Passion”, traduzidas como “uma lâmpada acesa” e “o autor de sua Paixão”, sem emenda conjectural.
+- “Effeminacy”, no parágrafo 55, foi traduzido como “languidez”, conforme o contexto de enfraquecimento ascético pela busca de satisfação corporal.
+- Normalizadas as referências “1 Samuel xv” e “1 Kings xx” para “1 Samuel 15” e “1 Reis 20”; mantidas as demais referências, inclusive Mateus 25:35-36.
+- Empregado “tu” nas falas de Germano dirigidas a Moisés e nas admoestações individuais dos anciãos; “vós” nas instruções de Moisés aos dois interlocutores e na oração de Apolo a Deus.
+- Concluída a tradução de `ch002.md`, parágrafos 77–84. Mantido “vós” nas referências de Moisés aos dois interlocutores, inclusive ao recordar o conterrâneo Benjamim.
+- Conservada a imagem do “banquete de dois pratos” no parágrafo 84, que reúne a exposição presente e a discussão anterior.
+- Traduzidos os parágrafos 1–65 de `ch003.md`, mantendo cada unidade do texto-fonte e encerrando no título do capítulo 21.
+- Mantida a distinção entre as três espécies de vocação e as três espécies de renúncia, bem como a referência posterior a uma quarta, concedida como recompensa.
+- Em Lucas 22:31-32, conservado o plural no pedido de Satanás pelos discípulos (“ter-vos”, “vos peneirar”) e o singular na referência à fé de Pedro (“tua fé”).
+- Conservadas as formulações e referências bíblicas da edição, inclusive “tirou das trevas” em Hebreus 13:20-21 e Oseias 14:9; não foram harmonizadas com outras versões.
+- Preservada em itálico a expressão grega *κύριος σοφοῖ τυφλούς*, seguida da tradução fornecida pelo texto.
+- Concluídos os parágrafos 66–69 de `ch003.md` e traduzidos os parágrafos 1–66 de `ch004.md`, preservando as unidades do texto-fonte.
+- Mantido “natural” na classificação das almas e na transição do capítulo 17 para os capítulos 18–19. Acrescentada a nota do tradutor `[^1]` em `ch004.md` para distinguir esse uso técnico do sentido corrente de “espontâneo”.
+- Conservadas as formulações e referências bíblicas da edição, inclusive a associação de “se um insensato fizer perguntas” a Provérbios 17:28 e as diferentes formulações de Apocalipse 3:15-16.
+- Preservada em itálico a expressão grega *ἕως σφόδρα*, com a tradução explicativa fornecida pela fonte.
+- Nos diálogos, empregado “tu” ao dirigir-se individualmente ao abade ou a Germano e “vós” quando o abade se dirige aos dois visitantes; mantido “vós” no discurso dirigido a Deus no capítulo 6.
+- Traduzidos os parágrafos 1–73 de `ch005.md`, até o subtítulo do capítulo 24, preservando as unidades da fonte.
+- Acrescentada a nota do tradutor `[^1]` após o parágrafo 39 para explicar a contagem da terceira e da nona hora.
+- Preservados em itálico os termos gregos transliterados, *θυμός*, *ὀργή*, *μῆνις* e a designação *pancarpus*.
+- Conservadas as particularidades da edição: Nabucodonosor chamado rei da Assíria, a atribuição da citação ao “décimo nono Salmo” e, no capítulo 18, a relação causal expressa entre abstinência excessiva, fraqueza da carne e enfermidade.
+- Empregado “vós” nas exortações de Serapião aos visitantes, “tu” na resposta de Macário a um interlocutor e nas falas do tentador dirigidas a Cristo, que não constituem tratamento reverente; mantido “vós” na oração dirigida ao Senhor.
+- Concluída a tradução de `ch005.md` com os parágrafos 74–84.
+- Traduzido “good things” por “iguarias” nos capítulos 25–26, em razão da referência específica à gula.
+- Concluída a tradução de `ch006.md`, parágrafos 1–55.
+- Traduzido “trial” por “provação” e preservado “tentação” para “temptation”, conforme o contexto ascético.
+- Mantidas as peculiaridades da fonte nas citações e narrativas, inclusive a atribuição a Isaías de “Senhor, corrigi-nos...” e a sequência em que Jó lança fora o manto e com ele cobre sua nudez.
+- Acrescentada a nota do tradutor `[^1]` para explicar o significado do topônimo latino *Cellæ*.
+- Acrescentada a nota do tradutor `[^2]` para esclarecer o sentido figurado de “rins” na linguagem bíblica.
+- Conservado o grego *ἀμφοτεροδέξιον* nas duas ocorrências, em itálico, seguido de sua tradução conforme a fonte.
+- Traduzidos os parágrafos 1–80 de `ch007.md`, até o título do capítulo 26.
+- Conservadas as peculiaridades da fonte: Êxodo 8:21, 1 Coríntios 10:4-6, a atribuição a Jó seguida de 2 Crônicas 6:30 e “Simão Iscariotes” em João 13:2; preservada também a negação problemática na pergunta de Germano no capítulo 11.
+- Mantidas as expressões gregas do capítulo 4 em itálico, com as traduções que a fonte oferece; “tropical form”, no capítulo 5, traduzido por “forma figurada”.
+- Acrescentada a nota do tradutor `[^3]` para esclarecer “humor” como termo da medicina antiga.
+- Empregado “tu” nas falas de Germano dirigidas a Sereno e “vós” nas respostas de Sereno aos visitantes.
+- Traduzidos os parágrafos 81–105 de `ch007.md`, concluindo a Conferência 7.
+- Conservadas as designações “terceiro livro dos Reis” no capítulo 26 e “quarto livro dos Reis” no capítulo 32, bem como as referências da fonte a 1 Reis 13:26 e 1 Reis 22:22.
+- Em Isaías 1:6, “fermented with oil” foi entendido como erro por “fomented with oil” e traduzido por “untadas com óleo”.
+- Acrescentada a nota do tradutor `[^4]` para esclarecer as figuras do onocentauro e do basilisco.
+- Traduzidos os parágrafos 1–74 de `ch008.md`, até o título temático do capítulo 24.
+- Conservadas as peculiaridades da fonte: “é clara para a maioria das pessoas” no capítulo 5; “engano de Deus” no título do capítulo 9; e a sequência de nomes da genealogia de Caim no capítulo 21, sem harmonização com o texto bíblico.
+- No título do capítulo 16, “victim” foi entendido como lapso por “vision” e traduzido por “visão”, conforme a narrativa que se segue.
+- Preservada a diferença entre “pai dela” em João 8:44 no capítulo 16 e “seu pai” na pergunta do capítulo 20, pois a segunda formulação fundamenta a questão de Germano.
+- Acrescentadas as notas do tradutor `[^5]`, para identificar o Pastor de Hermas, e `[^6]`, para esclarecer o sentido histórico de “filosofia natural”.
+- Traduzidos os parágrafos 75–78 de `ch008.md`, concluindo a Conferência 8.
+- Conservadas as peculiaridades da fonte no capítulo 24: “all the words” em Eclesiastes 3:14 como “todas as palavras” e “for a single truth” como “por uma única verdade”, embora esta última expressão seja incongruente com o contexto; não se emendou o texto recebido.
+- Conservada a formulação “ele é mentiroso, e seu pai” no título e no início do capítulo 25, pois a explicação de Sereno depende dessa ambiguidade.
+- Acrescentada a nota do tradutor `[^7]` para explicar a expressão jurídica latina *lex talionis*, conservada em itálico.
+- Traduzidos os parágrafos 1–92 de `ch009.md`, até o título do capítulo 30; o corpo desse capítulo fica para a chamada seguinte.
+- Mantida a distinção entre súplica, oração, intercessão e ação de graças, inclusive quando “oração” designa especificamente o oferecimento ou voto feito a Deus.
+- Traduzido “conviction” por “compunção” nos capítulos 26–29, conforme a descrição de seus efeitos espirituais, que incluem dor, alegria e lágrimas.
+- Conservadas integralmente as formas gregas recebidas, em itálico, sem corrigir grafia, acentos ou possíveis erros da fonte.
+- No capítulo 7, interpretado “four holiness” como erro tipográfico por “your holiness” e traduzido por “tua santidade”, mantendo o tratamento singular dirigido a Isaac.
+- Conservadas a ordem “assim no céu como na terra”, a expressão “não nos conduzais à tentação” e as demais particularidades da oração do Senhor na fonte, pois a exposição depende de sua formulação.
+- Conservado “toda a vossa vontade” em Isaías 46:10, embora a fonte introduza a citação como fala de Deus Pai; não se alterou o pronome recebido.
+- No exemplo monetário do capítulo 5, traduzidos “a penny” e “twopence or threepence” por “uma moeda” e “duas ou três”, preservando a proporção do argumento sem transferir ao contexto monástico a denominação monetária inglesa.
+- Concluída a tradução de `ch009.md`, parágrafos 93–112.
+- Mantidas as referências bíblicas recebidas, inclusive Mateus 17:19, 1 João 5:16 e 1 João 3:16, sem corrigir as aparentes discrepâncias entre as referências e as citações.
+- No capítulo 31, traduzida a consciência que o monge tem de si e das palavras durante a oração por “tem consciência de si mesmo e das palavras com que ora”, conforme o contraste com o êxtase descrito no mesmo parágrafo.
+- Mantida “tríplice reverência” no capítulo 34, sem especificar gestos que a fonte não descreve.
+- Concluída a tradução de `ch010.md`, parágrafos 1–46, com preservação dos parágrafos extensos dos capítulos 10 e 11.
+- Mantidas as referências bíblicas recebidas, inclusive 1 João 4:16, sem corrigir a aparente discrepância entre a referência e a citação.
+- Mantido o tratamento singular “tu” nas falas dirigidas a Isaac e o plural “vós” nas instruções de Isaac aos interlocutores; nas invocações a Deus, empregado “vós”.
+- Traduzida a fórmula de oração segundo as duas cláusulas inglesas, preservando a distinção entre “salvar” e “socorrer”.
+- Acrescentada a nota do tradutor `[^1]`, após o parágrafo 33, para esclarecer a contagem antiga da “terceira hora”.
+- Traduzido “bedesman” por “suplicante”, conservando o sentido de dependência e petição no contexto.
+- Preservados os “ouriços” e a imagem do cervo exterminador de serpentes conforme a fonte, sem substituir os animais por outras identificações.
+- Concluída a tradução de `ch011.md`, parágrafos 1–49, preservando os parágrafos extensos e os quinze títulos de capítulos.
+- Acrescentada a nota do tradutor `[^1]` após o parágrafo 4 para esclarecer “cenóbios” e sua distinção da vida dos anacoretas.
+- Mantidas as referências bíblicas recebidas, inclusive João 15:14-15 e João 15:13, sem corrigir as aparentes discrepâncias entre referências e citações.
+- Mantida no parágrafo 46 a expressão “discurso sobre a castidade perfeita”, conforme a fonte, embora a discussão precedente trate principalmente do amor perfeito.
+- Nas falas de Germano e dos visitantes a Queremão, empregado “tu”; nas respostas dirigidas aos visitantes e na dedicatória aos dois irmãos, “vós”; nas invocações a Deus, “vós”. O filho pródigo dirige-se ao pai com “tu”.
+- No parágrafo 25, explicitado “naqueles que se encontram nos estágios anteriores” para o referente de “in these persons”, retomando os graus do temor e da esperança.
+- Preservadas as particularidades das citações: “não se aflige” no parágrafo 34, “seu nascimento de Deus o preserva” no parágrafo 31 e a oposição entre “repousará sobre ele” e “o encherá” no parágrafo 43.
+- Traduzidos os parágrafos 1–47 de `ch012.md`, até o título do capítulo 15, preservando os quinze títulos de capítulos e os parágrafos extensos.
+- Mantidas as sequências gregas exatamente como recebidas, em itálico, inclusive as irregularidades gráficas e a sequência `k29--`; traduzidas as explicações inglesas que as acompanham, sem reconstruir o grego.
+- Acrescentada a nota do tradutor `[^1]` após o parágrafo 39 para identificar o Pastor de Hermas e a forma literária da obra.
+- Preservadas as referências recebidas, inclusive Ezequiel 1:19-20 e Cântico dos Cânticos 5:6, assim como a atribuição da passagem final do parágrafo 45 a Josué e a menção de Rebeca no episódio de Abimelec.
+- Preservada a alternância “vossos estatutos” e “meus juízos” na citação do parágrafo 30, conforme a fonte.
+- Nas intervenções dirigidas a Queremão, empregado “tu”; nas respostas aos visitantes, “vós”; nas falas dirigidas a Deus, “vós”. Nas citações bíblicas, acompanhado o destinatário singular ou plural.
+- Mantida integralmente a argumentação da fonte sobre graça e livre-arbítrio, inclusive suas distinções entre a iniciativa da boa vontade, o auxílio divino e a realização do bem.
+- Traduzidos os parágrafos 48–58 de `ch012.md`, concluindo a Conferência 13 e preservando os três títulos de capítulos e seus subtítulos.
+- Preservada a formulação “vai para tua casa” na citação acompanhada de João 5:6-8, conforme a fonte recebida.
+- Em “prevented us from feeling”, no encerramento, empregado “nos poupou de sentir”: nesse contexto, o verbo indica evitar a sensação de fadiga.
+- Traduzidos os 60 parágrafos de `ch013.md`, correspondentes à Conferência 14, preservando os 19 títulos de capítulos e seus subtítulos.
+- Traduzido “theoretical” por “contemplativo”, conforme sua definição no próprio texto; preservados em itálico os termos e a expressão gregos.
+- Mantidas as formulações e referências bíblicas recebidas, inclusive “não segundo suas palavras” em Mateus 23:3-4, 1 Tessalonicenses 4:12-15, 2 Coríntios 5:16 e “bondoso e não sente tristeza” em Provérbios 14:23.
+- Empregado “vós” nas exortações aos dois interlocutores e “tu” nas admoestações individuais, especialmente na resposta à dificuldade pessoal de João; preservadas as mudanças de destinatário nas citações.
+- Acrescentada a nota do tradutor `[^1]`, após o parágrafo 33, para identificar o propiciatório como objeto da arca da Aliança, antes de sua interpretação espiritual.
+- No encerramento do capítulo 17, vertida a construção irregular “that he might be the garner from a temporal profit” por “para que ele próprio colhesse um proveito temporal”, conforme o sentido do período.
+- Traduzidos os 33 parágrafos de `ch014.md`, correspondentes à Conferência 15, preservando os dez títulos de capítulos e seus subtítulos.
+- Mantidas as particularidades da fonte: a atribuição a Lucas seguida da referência Marcos 6:5-6, Tiago 2:14, Provérbios 10:4 e a formulação incomum sobre ventos, nuvens e chuva “muito límpidos” em Provérbios 25:14.
+- Preservado em itálico o grego `ἁ πλοῦς`, inclusive o espaço interno da fonte, seguido de sua tradução.
+- Acrescentada a nota do tradutor `[^1]`, após o parágrafo 12, para explicar a contagem da hora nona.
+- Empregado “tu” nas falas dirigidas ao morto, ao abade Abraão e a Pafnúcio; “vós” nas exortações coletivas e no tratamento reverente de Cristo.
+- Traduzidos os 88 parágrafos de `ch015.md`, correspondentes à Conferência 16, preservando os 28 capítulos, seus subtítulos e todas as referências bíblicas.
+- Mantida a distinção entre “caridade”, como virtude, e “amor”, nas relações pessoais e nas formulações “Deus é amor” e “o amor de Deus”.
+- No parágrafo 21, interpretado o evidente lapso inglês “broker” como “brother”, traduzindo-o por “irmão”.
+- Preservadas as particularidades das citações da fonte, inclusive Provérbios 10:12, “guardarei vossos caminhos” no capítulo 26 e “tudo sofre, tudo suporta” em 1 Coríntios 13:7.
+- Conservada a interpretação das duas faces direitas no capítulo 22, inclusive o destaque em itálico de “direita” e a indicação latina *Ibid*.
+- Empregado “vós” nas instruções de José aos dois interlocutores e no tratamento reverente a Deus; “tu” nas exortações bíblicas individuais e na fala de Cristo a Judas.
+- Traduzidos os parágrafos 1–77 de `ch016.md`, correspondentes à Conferência 17, até o subtítulo do capítulo 25, preservando a divisão dos parágrafos da fonte.
+- Convertida a distância aproximada de “a hundred yards” em “cerca de noventa metros”, no capítulo 1.
+- Empregado “tu” nas falas de Germano dirigidas pessoalmente a José e “vós” nas respostas de José aos dois interlocutores; conservado “vós” no tratamento reverente a Deus.
+- Mantidas as referências da fonte, inclusive Provérbios 26:11 e Miqueias 2:7, sem corrigir sua correspondência com as citações.
+- Acrescentadas duas notas do tradutor: `[^1]`, sobre o sentido de “economia” no capítulo 16; `[^2]`, sobre o heléboro como remédio e veneno no capítulo 17.
+- Preservada a formulação dos argumentos sobre mentira, dissimulação e hipocrisia, sem atenuações ou comentários doutrinais.
+- Mantida a citação “sua virgem”, no capítulo 20, sem acrescentar uma relação familiar que a fonte não explicita.
+- Traduzidos os parágrafos 78–95 de `ch016.md`, concluindo a Conferência 17 e preservando os 18 parágrafos da fonte.
+- Preservadas, no capítulo 25, as peculiaridades da fonte: “três dias” na ameaça contra Nínive, a atribuição a Ezequiel da passagem iniciada por “Não omitas uma palavra sequer” e “não fizer coisa alguma justa” na citação de Ezequiel 33:13-16, correspondente ao inglês “do no righteous thing”, apesar de sua incongruência com o contexto.
+- No capítulo 26, interpretado “emit the value” pelo sentido contextual de não desconsiderar o valor do preceito.
+- Mantido “vós” na instrução de José aos dois interlocutores; no parágrafo final, empregado “tu” na dedicatória ao “santo irmão”, destinatário singular.
+- Traduzidos os parágrafos 1–52 de `ch017.md`, mantendo seus 52 blocos e acrescentando apenas duas definições de notas do tradutor.
+- Mantido “vós” na dedicatória e nas instruções dirigidas aos dois interlocutores; empregado “tu” nas falas dirigidas a uma só pessoa e nas interpelações genéricas singulares.
+- “Collect the prayer” foi traduzido como “recolher a oração”, com a nota `[^1]` explicando seu sentido de oração conclusiva da comunidade.
+- Em “patience gets its name from the passions and endurance”, “passions” foi traduzido por “padecimentos”; a nota `[^2]` explicita a relação entre o latim *patientia* e *pati*.
+- Conservadas as referências da fonte, inclusive Eclesiastes 10:2 e Sabedoria 2:24-25, sem corrigir sua numeração; mantidas também as formulações e atribuições particulares das citações.
+- Preservados o grego *σειρά* e o parêntese de “(and feared)” no relato de Pafnúcio, sem acrescentar explicações ao corpo da narrativa.
+- Traduzidos o parágrafo 53 de `ch017.md` e os 53 blocos de `ch018.md`, com duas definições adicionais de notas do tradutor.
+- Conservada a quebra entre os parágrafos 21 e 22 de `ch018.md`, mesmo interrompendo a frase entre “imitar” e “Aquele”.
+- Empregado “tu” nas perguntas de Germano dirigidas ao abade João e na repreensão dirigida a si mesmo; “vós” nas respostas aos dois interlocutores e nas invocações a Deus.
+- “Biscuits” e “cakes”, no relato da provisão semanal, foram traduzidos como “pães secos” e “pães”, respectivamente.
+- A nota `[^1]` de `ch018.md` esclarece as unidades “pinta” e “módio”; a nota `[^2]` explica a “nona hora”.
+- Conservado integralmente e em itálico o trecho latino do parágrafo 52, sem acrescentar tradução que a fonte não oferece; também mantida a afirmação final sobre sentir horror ao contato.
+- Traduzidos os 39 blocos de `ch019.md`, com uma definição adicional de nota do tradutor.
+- A nota `[^1]` esclarece o sentido técnico penitencial de “satisfação”, distinto do uso corrente como contentamento.
+- Empregado “tu” na fala de Germano dirigida a Pinúfio e na resposta do capítulo 9 à prática pessoal descrita por Germano; “vós” nas respostas dirigidas aos dois visitantes e nas invocações a Deus. Conservado “tu” nas exortações genéricas individuais do capítulo 8.
+- Conservadas as peculiaridades das citações bíblicas, inclusive “minha carne se alterou por causa do óleo” e “sua palavra não está em nós”, sem completar ou harmonizar o texto com versões bíblicas portuguesas.
+- “Capital offenses” foi traduzido como “faltas capitais”, preservando a expressão da fonte sem identificá-la com uma lista dos pecados capitais.
+- Traduzidos os 77 blocos de `ch020.md` solicitados, com duas definições adicionais de notas do tradutor; o trecho termina no subtítulo do capítulo 25.
+- A nota `[^1]` esclarece a correspondência aproximada das horas nona e sexta; a nota `[^2]` explica a medida antiga “sextário”.
+- Empregado “vós” nas exortações do abade João ao grupo e nas respostas de Teonas aos visitantes; “tu” na resposta à pergunta individual de Germano e na fala de Teonas à esposa.
+- Conservada a distinção entre “divórcio” e “separação” conforme a formulação da fonte, inclusive a argumentação atribuída a Teonas e a ressalva narrativa de Cassiano no capítulo 10.
+- Conservadas as referências bíblicas e as particularidades da fonte, inclusive Mateus 16:25, os cinco mil homens do capítulo 20 e os trinta e seis dias do capítulo 24, sem correção ou harmonização.
+- “Children of the bridegroom” foi traduzido literalmente como “filhos do esposo”, preservando a formulação da citação no capítulo 18.
+- Traduzidos os 34 blocos finais de `ch020.md`, parágrafos 78–111, com uma definição adicional de nota do tradutor.
+- A nota `[^3]` esclarece o sentido de *Quadragesima* e sua relação com “Quaresma”, tornando compreensível a discussão etimológica do capítulo 28.
+- “Prevent” e suas formas foram traduzidos como “antecipar-se”, “preceder” ou “adiantar-se”, conforme o sentido antigo do inglês no capítulo 26.
+- Conservadas as formulações e referências peculiares da fonte, inclusive Eclesiástico 50:24, Jó 24:21 e a citação afirmativa “Pecamos” atribuída a Romanos 6:15.
+- No capítulo 33, o inciso final, cujo parêntese não é fechado na fonte, foi delimitado por travessões, sem alteração do conteúdo.
+- Empregado “tu” nas respostas individuais a Germano e na fala deste a Teonas; “vós” nas passagens em que Teonas se dirige expressamente às mentes e à formação de ambos os visitantes.
+- Traduzidos os 53 blocos de `ch021.md`, parágrafos 1–53, terminando no subtítulo do capítulo 17.
+- Conservadas as referências peculiares da fonte, inclusive Eclesiastes 7:21, Mateus 6:23 e Romanos 7:19.
+- Preservadas, sem correção conjectural, a afirmação de que as dificuldades detêm a busca do pecado no capítulo 1 e a afirmação de que nenhuma das coisas enumeradas é boa em si mesma no capítulo 4.
+- Empregado “vós” nas interpelações de Teonas aos visitantes; conservado “tu” nas citações dirigidas a uma pessoa singular e “vós” na citação dirigida a Deus.
+- “Anathema from Christ” foi traduzido como “anátema, separado de Cristo”, conservando o termo e tornando explícita a relação expressa pela preposição inglesa.
+- Traduzidos os 13 blocos finais de `ch021.md`, parágrafos 54–66, concluindo a Conferência 23.
+- Conservada a dupla negação da fonte no parêntese final do parágrafo 54 (“do not hope that they cannot obtain”), sem correção conjectural.
+- Conservadas a alternativa “brasa (ou pedra)” em Isaías 6:6-7 e a referência Eclesiastes 7:21, tal como aparecem na fonte.
+- Mantido “vós” nas interpelações aos visitantes e nas orações dirigidas a Deus; empregado “tu” na fala dirigida ao profeta e na apóstrofe ao sol.
+- Traduzidos os parágrafos 1–74 de `ch022.md`, incluindo o título do capítulo 24; seu desenvolvimento fica para a próxima chamada.
+- Empregado “vós” quando Abraão se dirige aos dois visitantes; “tu” quando Germano se dirige pessoalmente a Abraão, inclusive em “tua santidade”. No capítulo 7, mantido “vós” quando Germano passa a referir-se coletivamente aos monges egípcios.
+- Mantidas as distâncias distintas da fonte: quatro milhas no capítulo 2 e três milhas no capítulo 10.
+- Acrescentada a nota do tradutor `[^1]` para esclarecer o sentido monástico de “acídia”, que não se reduz à preguiça.
+- Acrescentada a nota do tradutor `[^2]` para esclarecer que as denominações monetárias da narrativa do barbeiro pertencem à edição inglesa, sem identificar moedas históricas do ambiente de Cassiano.
+- Conservados em itálico os três termos gregos, inclusive a separação gráfica de `ἐπι θυμητικόν` presente na fonte.
+- Vertido “Balsam” por “Balaão”, personagem inequivocamente identificado pelo episódio; lidos “raster” como “vaster” no capítulo 19 e “allusions” como “illusions” no capítulo 13, conforme o contexto imediato.
+- Conservada literalmente a expressão incomum “living incrustations” como “incrustações vivas”, sem acrescentar uma interpretação geográfica ausente da fonte.
 - Concluída a tradução de `ch022.md`, parágrafos 75–83, encerrando a Conferência 24 e a obra.
 - Acrescentada a nota do tradutor `[^3]` para esclarecer a contagem antiga nos dedos e a passagem da mão esquerda para a direita na representação do número cem.
 - Lido “a single field of house” como “a single field or house”, vertido por “um único campo ou casa”, conforme a enumeração dos bens no contexto.

@@ -1,6 +1,510 @@
+# Diário de tradução — Comentário à Política (pt-BR)
+
+Fonte: la/ (texto latino das edições Leonina / Marietti, espelhado de aquinas.cc); en-US/ (tradução revista pelo Aquinas Institute) consultada só para registro e terminologia.
+Destino: pt-BR.
 
 ## Termos
 
+| Latim | Português | Notas |
+|---|---|---|
+| Prooemium (g1-pr) / prohemium (de Aristóteles) / Lectio N / Liber N | Prólogo / proêmio / Lição N / Livro N | Como no *Peri Hermeneias*. |
+| Philosophus / Aristoteles | o Filósofo / Aristóteles | |
+| Physica / Ethica / Metaphysica | *Física* / *Ética* / *Metafísica* | “no livro II da *Física*”, “no fim do livro X da *Ética*”. |
+| ibi / Deinde cum dicit / Circa primum duo facit / epilogando | onde diz / Em seguida, quando diz / Acerca do primeiro, faz duas coisas / recapitulando | |
+| civitas / communitas / civilis / conversatio | cidade / comunidade / civil / convivência | |
+| politica / scientia politica, civilis | política / ciência política, civil | |
+| scientia practica, speculativa / factiva, activa | ciência prática, especulativa / produtiva, ativa | |
+| factio / actio / facere / agere | produção / ação / fazer / agir | |
+| perficere (g1-pr) | perfazer / levar a cabo | |
+| principalis / principalior | principal / mais principal | Sentido escolástico de “mais eminente, que governa”. |
+| passiones (do todo, da cidade) | propriedades | g1-pr [10]. |
+| domus / domestica familia | casa / família doméstica | Casa como comunidade doméstica. |
+| yconomia / yconomicus | economia / ecônomo | Administração da casa; nota do tradutor em g2-c002 [2]. |
+| despotia, despotica / dominativa / despotes, despota / despotizare | despótica / senhorial / déspota / exercer o domínio despótico | |
+| dominus / servus / servitus / dominium / servire | senhor / escravo / escravidão / domínio / servir | *Serviens* → “servo”. |
+| liber / libertas / libertus | livre / liberdade / liberto | |
+| ingenuus / ingenuitas | bem-nascido / nobreza de nascimento | “Ingênuo” e “ingenuidade” evitados pelo sentido moderno. |
+| nobilis / ignobilis / nobilitas / ignobilitas | nobre / ignóbil / nobreza / ignobilidade | |
+| nuptialis / matrimonium / teknofactiva | nupcial / matrimônio / *teknofactiva* | Nota do tradutor em g2-c002 [3]. |
+| crimatistica / pecunialis, pecuniativa | crematística / pecuniária | |
+| possessio / res possessa / possessiva / possessor | propriedade / coisa possuída / arte da propriedade / possuidor | |
+| organum / instrumentum | instrumento | Os dois termos latinos coincidem; “órgãos” só para os da imaginação (g2-c003 [66]). |
+| organum factivum / activum | instrumento produtivo / ativo | |
+| animatum / inanimatum / separatum | animado / inanimado / separado | Definição do escravo em g2-c002 [60]. |
+| minister / architector / artifex | auxiliar / arquiteto / artífice | |
+| gubernator / gubernaculum / prorarius / prora | piloto / leme / proeiro / proa | |
+| pecten / plectrum | lançadeira / plectro | |
+| principari / principatus / principans / subici, subiectum | governar / governo / o que governa / ser sujeito, o que é sujeito | |
+| principatus despoticus / politicus / regalis; regnativa | governo despótico / político / régio; a régia | |
+| regere / regimen | reger / regime | |
+| expediens / expedit | vantajoso / é vantajoso | |
+| oportunitas / utilitas | proveito (utilidade em g2-c003 [13], [65]) / utilidade | |
+| salus (corporalis) | conservação | g2-c003 [8], [30], [51]. |
+| praeter naturam / secundum naturam | contrário à natureza / segundo a natureza | |
+| pestilentes | perversos | g2-c003 [7], [49]. |
+| ratio (servitutis, servi) | noção | “Razão” quando é causa ou argumento. |
+| iustum simpliciter / secundum quid | justo simplesmente / justo sob certo aspecto | |
+| ius gentium / gentes | direito das gentes / gentes | Mantém o vínculo entre os termos (g2-c004 [16]). |
+| bonum commune / proprium / publicum | bem comum / próprio / público | |
+| complexio | compleição | |
+| barbari / gentiles | bárbaros / gentios | |
+| Dedalus / Vulcanus / Theodectes / Priamus / Salomon | Dédalo / Vulcano / Teodectes / Príamo / Salomão | |
+| rethora | retor | Nota do tradutor em g2-c004 [3]. |
+| pecuniativa (substantivo) / ars pecuniativa / pecunia / divitiae | a pecuniária / arte pecuniária / dinheiro / riquezas | Confirma a entrada *pecuniativa* → “pecuniária”, usada também como substantivo. |
+| campsoria / campsor | cambística / cambista | Nota do tradutor em g2-c007 [4]. |
+| obolostatica / tokos | obolostática / tokos | Nota do tradutor em g2-c008 [11]; *tokos* sem itálico onde a fonte não o tem. |
+| nummisma / denarius / caracter | moeda / moeda / cunho | *Denarii* no comentário = moedas em geral; “denários” evitado. |
+| commutatio / permutatio / permutativa, commutativa / translatio | troca / permuta / arte de permuta, arte de troca / transferência | |
+| subministrativa, subministrare / ministrare / subserviens | auxiliar, auxiliar / servir / subserviente | |
+| yconomica / yconomicus (pessoa) / dispensator domus / procurator | a econômica / ecônomo / administrador da casa / intendente | |
+| politia / thimocratia | politia / timocracia | g2-c005 [17]. |
+| praedativa / furativa, piscativa, venativa, pascualis | predatória / a do roubo, a da pesca, a da caça, a pastoril | |
+| animalifaga / coekpariunt | animalífagos / *coekpariunt* | Thomas glosa ambos (g2-c006 [47], [53]). |
+| ancilla / ancillaria ministeria | criada / serviços de criadas | |
+| fruitio / delectatio / studium / abusio | gozo / deleite / empenho / abuso | |
+| fortitudo / audacia | fortaleza / audácia | |
+| Solon / Syracusae, Syracusani / Medas / Ecclesiastes | Sólon / Siracusa, siracusanos / Midas / Eclesiastes | Nota do tradutor sobre Midas em g2-c007 [52]. |
+| servus / dominus / servitus / servilis | servo / senhor / servidão / servil | “Servo” mantém a família de *servitus*, *servilis*. |
+| principatus / principari / principans / subiectus | principado / governar / o que governa / súdito, o que está sujeito | |
+| principatus politicus / regalis / despoticus / tyrannicus | principado político / régio / despótico / tirânico | |
+| principalior (natura) | mais apto para governar | |
+| coniugatio (domestica) | união (doméstica) | |
+| vir / uxor / mulier / masculus, femina / puer | marido (ou homem) / esposa / mulher / macho, fêmea / criança | *Vir* é “marido” no contexto nupcial, “homem” diante de *puer*. |
+| consilium / consiliari / consiliativum | deliberação / deliberar / deliberativo | |
+| virtus organica / ministrativa | virtude instrumental / ministerial | |
+| fortitudo principativa / subministrativa / ministrativa | fortaleza de comando / auxiliar / de serviço | |
+| architecton, architector | arquiteto | |
+| pecuniativa translativa / translata | pecuniária translativa / trasladada | |
+| mercativa / naucleria / fortigia, phortigia / parastasis | a mercantil / naucléria / fortígia / parástase | |
+| tokismos, toquismos / mystarina / mercennaria | tokismos, toquismos / mystarina / mercenária | Grafia da fonte, sem itálico. |
+| banausus, banausicus, banausike | banáusico | |
+| artificialis / inartificialis | próprio da arte / sem arte | |
+| documentum | ensinamento | |
+| monopolia / arra | monopólio / arras | |
+| kalokagatia, calocagatia, calos, cagaton | kalokagatia, calocagatia, calos, cagaton | Grafia da fonte, sem itálico; nota em g2-c010. |
+| omelia | homilia | Nota em g2-c011. |
+| agibilia / factibilia | agíveis / factíveis | |
+| studiosus (cidade, pessoas) | virtuoso | |
+| dispensatio domus / dispensatores politiae | administração da casa / administradores da politia | |
+| philosophus / Ethica | o Filósofo / *Ética* | “no livro II da *Ética*”. |
+| apostolus / Ecclesiasticus | o Apóstolo / Eclesiástico | |
+| Thales Milesius / Chios / Dyonisius / Amasis / Gorgias / Socrates / Palladius / Iupiter | Tales de Mileto / Quios / Dionísio / Amásis / Górgias / Sócrates / Paládio / Júpiter | |
+| Kharitides pario, Carittis / Apollodorus limnius, Linius | Carétides de Paros, Caritis (natural de Paros) / Apolodoro de Lemnos | |
+| communitas / communicatio / communicare / communio | comunidade / associação / ter em comum, associar-se / comunhão | *Communio politica* (g3-c001) → “comunhão política”. |
+| civitas / vicus / vicinia / convicanei | cidade / aldeia / vizinhança / os da mesma aldeia | |
+| regimen politicum / regale / yconomicum / despoticum; yconomus; despota | regime político / régio / econômico / despótico; ecônomo; déspota | |
+| principalis / principalior / principalissimus | principal / mais principal / principalíssimo | Sentido de “soberano”, em g2-pr. |
+| coniecturare, coniectare / coniectatrix | mirar / a que mira | Santo Tomás glosa: *intendunt sicut finem*. |
+| per se sufficiens / per se sufficientia | suficiente por si / suficiência por si | |
+| animal civile / incivilis | animal civil / incivil | |
+| pravus / pravitas | depravado / depravação | |
+| sermo / locutio / vox | linguagem / fala / voz | |
+| conversatio / conversari | convivência, modo de conviver / conviver | |
+| ad votum | conforme o desejo | Glosado *secundum voluntatem*. |
+| equale contrapassum | contrapasso igual | Nota em g3-c001. |
+| eligibilis | preferível | |
+| coriarii et fabri | sapateiros e carpinteiros | |
+| homosipyos, okres homokapnos, homostitios, ocres, homocapnos, diki | grafia da fonte, sem itálico (*diki* em itálico onde a fonte o tem) | Notas em g2-pr. |
+| Charondas / Epimenides / Hesiodus / Homerus / Beda / Iohannes Baptista / beatus Antonius heremita | Carondas / Epimênides / Hesíodo / Homero / Beda / João Batista / o bem-aventurado Antão, eremita | |
+| Felleas / Hyppodamus / Lacedaemonii / Archades, Archadia / Delphi / Thimeus | Faleas / Hipódamo / lacedemônios / arcádios, Arcádia / Delfos / *Timeu* | |
+| De anima / Metaphysica | *Sobre a alma* / *Metafísica* | |
+| custodes / municipes / municipium | guardiões / munícipes / município | Santo Tomás glosa *municipes* como “os que habitam continuamente na cidade” e “guardiões da cidade”. |
+| principes / principatus | governantes / principado | |
+| agricolae / terrae cultores / artifices | agricultores / cultivadores da terra / artesãos | |
+| possessio / substantia | possessão / substância | *Substantia* glosada *id est possessio* (g3-c002). |
+| politia (de Sócrates) | regime | |
+| habitum / de habitis | conexo / coisas conexas | Glosado *consequens*; mantém a glosa em g3-c004 [16] e g3-c005 [32]. |
+| fratrueles / contribules / nepos | primos-irmãos / contríbulos / sobrinho | |
+| convivia / confraternitates / tribus | banquetes / confrarias / tribos | |
+| liberalitas / temperantia | liberalidade / temperança | |
+| consentaneum / congruum | consentâneo / côngruo | |
+| parabola | parábola | Glosada *similitudo*: “parábola, isto é, semelhança”. |
+| banausi, filauton / philauton, filantropos / philantropos, peryodus / peryodos, rithmon / rismon | grafia da fonte, sem itálico | Nota em g3-c005 sobre *rithmon*. |
+| omofonia / symphonia / basis / gymnasia | homofonia / sinfonia / base / ginásios | |
+| Aristophanes / Cretenses / Lacedemonia / Libia superior / Farsalus, Pharsalia | Aristófanes / cretenses / Lacedemônia / Líbia superior / Farsalo, Farsália | |
+| Ethica | *Ética* | |
+| leges (de Sócrates/Platão) | leis | Sem itálico: Santo Tomás as lê como leis estabelecidas por Sócrates. Nota em g3-c006 sobre as *Leis* de Platão. |
+| politia (forma reta de governo de muitos) | *politia* | Em itálico só quando nomeia essa forma; no sentido geral continua “regime”. Nota em g3-c007. |
+| disciplina | disciplina | |
+| honorabilitas | honorabilidade | Classe censitária nas leis de Sócrates (g3-c007). |
+| gratiosi | ilustres | |
+| iniuriari | cometer injustiça | “Injuriar” em português é ofender com palavras. |
+| temperate et liberaliter / mansuete aut fortiter | com temperança e liberalidade / com mansidão ou com fortaleza | |
+| ephori / eforia | éforos / eforia | Glosados *provisores*: “provedores”. |
+| ydiote / idiotae | homens comuns | Evita o sentido pejorativo de “idiotas”. |
+| monotica (vita) | solitária | Glosada *non solitariam* por Santo Tomás. |
+| yconomia / oeconomica | economia | |
+| pravi | depravados | Distinto de *malus*, “mau”. |
+| famuli / servi / supellectilia | criados / escravos / alfaias | |
+| epieikeis / epyikes | grafia da fonte, sem itálico | Glosado *naturaliter virtuosi*. |
+| Felleas, Phaleas / Fidon, Phaedon | Fáleas / Fídon | |
+| Babylonia / Lacones, Lachoni / Locri / Leucas / Calabria | Babilônia / lacônios / lócrios / Lêucade / Calábria | |
+| Euboylus, Eubolus, Eubulus / Autophradates / Atarneus, Abtharnia | Eubulo (Eubolo ou Eubulo onde Santo Tomás dá as duas formas) / Autofradates / Atarneu | |
+| Epidamnus / Diophantus / Solon | Epidamno / Diofanto / Sólon | |
+| Ippodamus, Hippodamus / Eurifon, Euriphon / Milesius | Hipódamo / Eurifonte / milésio | |
+| praetorium / curia | tribunal / corte | |
+| pugillaris | tabuinha | |
+| iniuria, nocumentum, mors | a injúria, o dano e a morte | Aqui “injúria” serve: Santo Tomás a define como vitupério do homem (g3-c010 [27]). |
+| deierare, degerare / periurium | perjurar / perjúrio | |
+| actor / reus | autor / réu | |
+| mna | mina | Nota em g3-c011. |
+| principes / principatus / regimen civitatis | governantes / cargos de governo / governo da cidade | “Regime” fica para *politia*. |
+| patriae leges / patres | leis pátrias / antepassados | |
+| disquisitor / disquisitio | investigador / investigação | Segue a leitura de Santo Tomás (g3-c011 [28]). |
+| remissio (mulierum, legum) | relaxamento | |
+| delitiae / deliciose | luxo / com luxo | |
+| perseverativa | perseverante | |
+| pravus (de coisas, costumes, ordenações) | vicioso | “Depravados” continua para pessoas. |
+| scola necessariorum | escola dos necessários | Nota em g3-c013 sobre *scholē*. |
+| afruron, affruron | grafia da fonte, sem itálico | Como epieikeis. Nota em g3-c013. |
+| Lacedaemonii / Lakosenses, Lachosenses / Spartiatae | lacedemônios / lacônios / espartiatas | |
+| Tessali, Thessalonica, Thessalonicenses | tessálios / Tessália | Ver Decisões. |
+| Argi, Messenii, Arcades, Achaici, Perrebii, Magnetes, Thebani | argivos, messênios, árcades, aqueus, perrébios, magnésios, tebanos | |
+| Lycurgus / Vegetius / Komi | Licurgo / Vegécio / Cime | |
+| Noe / Deucalion / Ogyges | Noé / Deucalião / Ógiges | Nota em g3-c012. |
+| Calchedonii | cartagineses | Nota em g3-c013. |
+| efori, ephori / eforia | éforos / eforia | |
+| seniores / gerusia / iherusia | anciãos / gerúsia / iherusia | iherusia na grafia de Santo Tomás, que a explica como honorabilidade dos anciãos. |
+| kosmoi (Aristóteles), cosmi (Santo Tomás) / akosmia, acosme | grafia da fonte, sem itálico | |
+| convivia (publica) / filitia, Philitia, andreia, Andria | banquetes (públicos) / grafia da fonte | |
+| nauarchia, navarchia / pentarchiae / demum / demoticum | navarquia / pentarquias / demos / demótico | Termos gregos com forma portuguesa corrente. |
+| kalikagathi, calicagathi, kaluskagathus, caluscagathus, epeiekesi, epyikes, epieikes, andragathia, boulin, Ecclesia, autognomonas, auctognomonas, aristarchizare, ydiotas | grafia da fonte, sem itálico | Como affruron; caso latino reduzido ao nominativo quando evidente (*andragathiam* → andragathia). |
+| incolae | íncolas | |
+| principatus (singular) | cargo | |
+| conversatio | modo de vida | |
+| genus (dos reis) | linhagem | |
+| regnum / ducatus exercitus / duces exercitus | realeza, reino / comando do exército / comandantes do exército | |
+| epilogando | recapitulando | |
+| Kharillus, Charyllus / Minos / Andrii | Carilo / Minos / ândrios | |
+| Polopus, Pelopus / Triopium, Tropium / Rodus / Caminum | Peloponeso / Triópio / Rodes / Camino, *caminum* | Nota em g3-c015. |
+| Calcedonii, Calchedonenses | cartagineses | Como em g3-c013. |
+| politia | regime | |
+| principatus (despoticus, civilis) / princeps, principari, subici, subditus | governo / governante, governar, sujeitar-se, súdito | Quando *principatus* é ofício, segue “cargo”. |
+| praetor, praetorium / contionator, concionator / contio | pretor, pretório / membro da assembleia / assembleia | |
+| studiosus (civis, vir) | virtuoso | |
+| disciplina (principis, civis) | formação | |
+| habitum est | é contíguo | Glosado por Santo Tomás como *consequens*. |
+| typus | tipo | |
+| astitor | abonador | Glosado como *fideiussor*, “fiador”. |
+| summus / astans (no coro) | sumo / assistente | |
+| communicatio, communio | comunhão | |
+| advenae / adventicii | forasteiros / adventícios | |
+| mercennarii | assalariados | |
+| gens / genus (habitantium) | nação / estirpe | |
+| autarkia, banausus, symposiarchizare, medignos, iugarios, ydiota, epieikes | grafia da fonte, sem itálico | Caso reduzido ao nominativo (*autarkiam* → autarkia, *epieikis* → epieikes). |
+| Solon, Likurgus, Efialtes, Periclees, Klistenes, Ariopagus | Sólon, Licurgo, Efialtes, Péricles, Clístenes, Areópago | |
+| Zaleucus, Charondas, Onomacritus, Theletas, Thaletes | Zaleuco, Carondas, Onomácrito, Tales | Tales: nota em g3-c017. |
+| Filolaus, Dyocles, Ankyones, Anchiones, Bachidae | Filolau, Diocles, Alcíone, Baquíadas | |
+| Draco, Pittacus, Androdamas reginus, Gorgias leontinus, Iason, Euripides | Drácon, Pítaco, Andródamas de Régio, Górgias de Leontinos, Jasão, Eurípides | |
+| Locri occidentales, Catina, Calcidia, Larissei, Calcedon | lócrios ocidentais, Catânia, Calcídia, larisseus, cartagineses | *Calcedonem* → “entre os cartagineses”, como nas lições anteriores. |
+| politeuma | politeuma, sem itálico | Glosado como *positio ordinis*. |
+| politia (forma reta do governo da multidão) | politia, sem itálico | Nota do tradutor em g4-c006 [^1]. |
+| transgressio (politiae) / corruptio | desvio / corrupção | |
+| regnum / tyrannis / monarchia | reino / tirania / monarquia | |
+| conferens (commune) / utilitas | conveniente (comum) / utilidade | |
+| egeni / pauperes / abundantes / opulenti / divites | necessitados / pobres / abastados / opulentos / ricos | |
+| advena / peregrinus / libertini | forasteiro / estrangeiro / libertos | *Peregrini* glosados por Santo Tomás como viajantes. |
+| artifices (viles) | artesãos (vis) | |
+| despotia, principatus despoticus / despotica (glosado *dominativa*) | governo senhorial / despótica (“dominadora”) | |
+| oeconomia, yconomia / principatus oeconomicus | economia doméstica / governo econômico | |
+| iustum simpliciter / secundum quid | justo simplesmente / sob certo aspecto | |
+| status paucorum / multorum / popularis; paucorum potentia | estado dos poucos / dos muitos / popular; poder dos poucos | Pedro de Alvérnia. |
+| compugnatio | luta em comum | |
+| inviscati | enviscados | Glosado *fortiter coniuncti*. |
+| electio | eleição | |
+| magistratus | magistratura | |
+| civilitas | cidadania | |
+| Tyrrheni, Tusci, Carchedonii, Megarenses, Corinthii, Lycophron, Thebae | tirrenos, tuscos, cartagineses, megarenses, coríntios, Licofron, Tebas | |
+| epiiches | *epiiches*, em itálico | Transliteração do grego *epieikeîs*; Santo Tomás lê “virtuosos”. Nota do tradutor em g5-c008 [^1]. |
+| studiosus | excelente | *Studiosi, sive virtuosi* → “excelentes, ou virtuosos”. |
+| principatus / principari / princeps | governo, cargo de governo / governar / governante | Plural concreto (*principatus maximi*) → “cargos de governo”. |
+| excessus (boni) | superioridade (de um bem) | Como no título de g5-c010. |
+| inhonorati | sem honras | |
+| correctio (principum) / corrigere | correção / corrigir | Verte *eúthyna*; nota do tradutor em g5-c009 [^1]. |
+| honorabilitas | honorabilidade | Verte *tímēma*; nota do tradutor em g5-c009 [^2]. |
+| ecclesia / concionator / consilium / consiliarius, consiliator / praetorium / praetor | assembleia / membro da assembleia / conselho / conselheiro / tribunal / pretor | |
+| consiliativum / iudicativum | parte deliberativa / parte judicativa | |
+| idiotae | leigos | |
+| gubernator / gubernaculum | piloto / leme | |
+| fistula / fistulativa / fistulare | flauta / arte da flauta / tocar flauta | |
+| ars usualis | arte do uso | g5-c009 [51]. |
+| per Iovem | por Júpiter | |
+| Solon | Sólon | |
+| politia / optima politia | regime / melhor regime | |
+| politiae transgressae / transgressiones | regimes desviados / desvios | |
+| status popularis / paucorum / optimatum | regime popular / dos poucos / dos melhores | |
+| politeuma | corpo governante | |
+| altercari / altercatio | disputar / disputa | |
+| liber / ingenuus / ingenuitas | livre / bem-nascido / bom nascimento | Santo Tomás distingue *liber* de *ingenuus* em g5-c011 [37]. |
+| generosus / generositas | de nobre linhagem / nobreza de linhagem | |
+| nobilis / nobilitas | nobre / nobreza | |
+| genus (em *virtus generis*, *aequales genere*) | estirpe | |
+| disciplina | educação | |
+| terminus | critério | g5-c011 [13]. |
+| conferens | proveito | |
+| excellentes | eminentes | |
+| simpliciter / secundum quid | em sentido absoluto / relativamente | |
+| relegatio / relegare / ostracismus | desterro / desterrar / ostracismo | |
+| virtus (no sêmen, generativa, do coração) | força | Para não confundir com a virtude moral no mesmo passo. |
+| Ethica | *Ética* | “no quinto livro da *Ética*”. |
+| Antisthenes / Periander / Thrasybulus | Antístenes / Periandro / Trasíbulo | Notas do tradutor em g5-c012 [^1], [^2]. |
+| Hercules / Argonautae / Argo | Hércules / argonautas / Argo | |
+| Samii, Chii, Lesbii / Medi, Babylonii | sâmios, quios, lésbios / medos, babilônios | |
+| regnum / monarchia regalis | reino / monarquia régia | |
+| principatus / principari / princeps | governo / governar / governante | |
+| ducatus exercitus / dux exercitus | comando do exército / chefe do exército | *imperialis* mantido como “imperial” (g5-c013 [4], [44]). |
+| despoticus / dominativus | despótico / senhorial | *dominativus* ligado a *dominus*, “senhor”. |
+| secundum genus / successio generis | por estirpe / sucessão da estirpe | |
+| patrius / leges patriae | pátrio / leis pátrias | |
+| voluntarii / involuntarii | súditos voluntários / involuntários | |
+| aesymnetae / aesymnetica | esimnetas / esimnética | |
+| Laconica | Lacônia / lacônica | |
+| Mytilenaei, Pittacus, Antimenides, Alcaeus | mitilenos, Pítaco, Antimênides, Alceu | Nota do tradutor em g5-c013 [^1]. |
+| Agamemnon / Saturnus | Agamenon / Saturno | |
+| Dionysius / Syracusani | Dionísio / siracusanos | Nota do tradutor em g5-c014 [^2]. |
+| oeconomia | administração da casa | |
+| gens | nação | |
+| studiosus | virtuoso | |
+| indifferens | indiferente | Nota do tradutor em g5-c014 [^1]. |
+| custodia | guarda | |
+| potentia | poder | |
+| servus | escravo | |
+| principalior | mais principal | Termo escolástico mantido (g5-c015). |
+| secundum litteras (leges, medicari) | escritas / segundo os escritos | g5-c015 [9], [11]. |
+| comprincipes / comprincipantes | cogovernantes | |
+| vicissim | alternadamente | Distinto de *secundum partem*, “por turnos”. |
+| sententia (do governante) | parecer | |
+| bestia | besta | Na sentença de Aristóteles sobre o governo do homem (g5-c015 [8], [48]). |
+| industria (do médico) | engenho | |
+| magistri palaestrae / exercitatores | mestres da palestra / mestres de ginástica | |
+| Epidamnus, Opus / Dyrrachium, Sipontum | Epidamno, Opunte / Dirráquio, Siponto | Nota do tradutor em g5-c015 [^1]. |
+| politia (genérico) | regime | |
+| politia (o regime reto da multidão) / respublica | politia / república | “aquele que se chama com o nome comum de politia”. |
+| principatus (no plural: os cargos) | cargos | No singular, “governo”. |
+| transgressio / politiae transgressae | desvio / regimes desviados | *transgreditur a* → “se desvia de”. |
+| status optimatum / respublica optimatum | estado dos melhores / república dos melhores | |
+| status paucorum / status popularis | estado de poucos / estado popular | |
+| vir studiosus | homem virtuoso | |
+| genus (régio) | linhagem | |
+| excessus | superioridade | |
+| egeni / pauperes | pobres | |
+| mercenarii | assalariados | |
+| banausus (*banausium*, *banausa*) | banáusico | Nota do tradutor em g5-c016 [^2]. |
+| ex suppositione | por suposição | |
+| conferens | proveitoso | |
+| dominativus / despoticus | despótico | |
+| exercitativa | arte do exercício | |
+| passiones (de um sujeito de ciência) | propriedades | |
+| demos | *demos* | Mantido em itálico (g5-c016 [118], [120]). |
+| honorabilitas | qualificação | Requisito de bens ou de linhagem para os cargos (gr. *timema*). |
+| census | censo | |
+| sententia (gr. *psephisma*) / decretum | sentença / decreto | |
+| demagogus / ductor / suasor / praepotens | demagogo / condutor / persuasor / prepotente | |
+| adulator | adulador | |
+| insignes | notáveis | |
+| vacare | ter ócio | |
+| substantia | fortuna | |
+| proventus | rendimento | |
+| disciplina | instrução | |
+| ingenuitas | nobreza de nascimento | |
+| potentia paucorum / gubernatio paucorum | poder de poucos / governo de poucos | |
+| potentatus | potentado | |
+| respublica (genérico, no comentário) | regime | “república” só para o regime “que se chama com o nome comum”. |
+| propugnativum / iudicativum / consiliativum | parte combatente / judicativa / deliberativa | |
+| calusagathos | *calusagathos* | Mantido em itálico; nota do tradutor [^6]. |
+| politeuma | corpo governante (*politeuma*) | Nota do tradutor [^5]. |
+| politia | politia | Para o regime misto e também genericamente no texto de Aristóteles. |
+| status optimatum / optimatum potentia | estado dos melhores / poder dos melhores | |
+| medii / mediocres | medianos | Os cidadãos nem muito ricos nem muito pobres. |
+| medietas | mediania | |
+| damnum / merces | multa / remuneração | Nas leis sobre a assembleia e os tribunais. |
+| sortialis / eligibilis | por sorteio / eletivo | |
+| principatus | governo; magistratura | “Magistratura” quando designa cargos concretos. |
+| aesymnetae | esimnetas | Nota do tradutor [^7]. |
+| ephori / ephoria | éforos / eforato | |
+| incorrigibilis | incorrigível | Mantido porque Santo Tomás o comenta como “não sujeito a correção”; o grego diz “irresponsável”. |
+| quale / quantum | qualidade / quantidade | |
+| dietetes | árbitro | |
+| idiotae | iletrados | |
+| tyrannis | tirania | |
+| consiliativum / consiliari | deliberativo / deliberar | |
+| consiliarius / consilium | conselheiro / conselho | |
+| praemissi / praeconsules / praeconsulentes | probulos | Gr. *próbouloi*; nota do tradutor [^9]. Em g5-c016 [428], *consules* (abreviação) também “probulos”. |
+| principes (em contexto de magistratura) | magistrados | *Principantes* segue “governantes”. |
+| praetoria / iudicium | tribunais / tribunal; juízo | |
+| honorabilitas | censo | Gr. *tímēma*. |
+| democraticus / demoticus | democrático | |
+| civilis | civil | |
+| pueronomus / gynoeconomus, mulieronomus | pedônomo / ginecônomo | |
+| ornatus (bonus) | (boa) compostura | Gr. *eukosmía*. |
+| honestas | honestidade | |
+| populatio | povoamento | Como Santo Tomás o lê (o grego diz confisco). |
+| correctio | correção | Gr. *eúthynai* (prestação de contas); mantido pela leitura de Santo Tomás. |
+| compugnatio / propugnatio | luta em comum | |
+| fori praefectus | inspetor do mercado | |
+| attributio | atribuição | Termo técnico da analogia (g5-c016 [427]). |
+| seditio / dissensio | sedição / dissensão | Santo Tomás: a sedição é dissensão oculta (g5-c016 [537]). |
+| transmutatio / transmutari | mudança / mudar-se | |
+| salvatio / salvari | conservação / conservar-se | |
+| status popularis | estado popular | |
+| paucorum potentia / status paucorum | poder de poucos / estado de poucos | |
+| optimates / status optimatum | os melhores / estado dos melhores | |
+| politia (no texto de Aristóteles) | regime; república (o regime misto) | |
+| demos | democracia | |
+| politeuma | governo | |
+| idiotae | particulares | |
+| substantia (bens) | haveres | |
+| simpliciter / secundum quid | absolutamente / em certo aspecto | |
+| excessus | excesso | |
+| despectio / contemptus | desprezo | |
+| excrescentia praeter proportionem | crescimento que excede a proporção | |
+| verecundia | vergonha | |
+| parvipensio | menosprezo | |
+| parvitas / pusillitas | pequenez | |
+| dissimilitudo | dissemelhança | |
+| electio (ato da vontade) | eleição | g5-c016 [507]. |
+| honorabilitas | censo | O valor de bens exigido para as magistraturas (g5-c016 [652]). |
+| duces populi | chefes do povo | Termo de Santo Tomás para os demagogos de Aristóteles. |
+| demagogus / demagogizare | demagogo / fazer demagogia | |
+| principatus | magistratura (no texto de Aristóteles); principado (no comentário) | |
+| peccatum (no princípio) | erro | g5-c016 [555], [573]. |
+| praeses | chefe | |
+| status paucorum / status optimatum | estado dos poucos / estado dos melhores | No comentário de Santo Tomás. |
+| politia | regime; república quando designa o regime misto (g5-c016 [694], [695]) | No texto de Aristóteles. |
+| potentatus | potentado | A espécie extrema da oligarquia. |
+| salvatio / salvare | conservação / conservar | |
+| praevaricatio | prevaricação | |
+| documentum / elementum | preceito / elemento | |
+| ductores populi | chefes do povo | Como *duces populi*. |
+| agibilia | coisas a fazer | *recta ratio agibilium*: “a reta razão das coisas a fazer”. |
+| contumelia | ultraje | Causa de insurreição contra o corpo do monarca (g5-c016 [785], [804]). |
+| insurrectio / insurgere | insurreição / insurgir-se | |
+| intensio / remissio (tyrannidis) | intensificação / afrouxamento | Os dois modos de conservar a tirania (g5-c016 [875]). |
+| praefecti populi / praepositi | prepostos do povo / prepostos | g5-c016 [857], [877]. |
+| principatus dominativus | principado senhorial | “o do senhor sobre o servo” (g5-c016 [774]). |
+| consiliari | deliberar | g5-c016 [828], [840]. |
+| demos | *demos* | Mantido em itálico (g5-c016 [828], [867]). |
+| politia (lema) | constituição | No lema de Aristóteles; “Na *República*” para *In politia* (g5-c016 [950]). |
+| respublica | regime | No comentário; “coisa pública” quando designa a administração ([923]). |
+| status popularis | regime popular | |
+| status paucorum / paucorum potentia | regime dos poucos / poder dos poucos | |
+| status optimatum | regime dos melhores | |
+| ductor populi | condutor do povo | Demagogo ([887], [945]). |
+| demagogizare | fazer-se demagogo / atuar como demagogo | [914], [917]. |
+| epitritus / quinarius | epítrito / quinário | [950], [963]; ver [^22]. |
+| sesquialtera / sesquitertia | sesquiáltera / sesquitércia | [960], [963]; ver [^23]. |
+| periodus | período | [962]. |
+| tropicum | trópico | Glosado pelo próprio texto como conversão do sol ([965]). |
+| studiosus | virtuoso | [951], [964]. |
+| principatus | magistratura | “Governo” quando designa o ato de governar; *principari*, “governar”; *principantes*, “os que governam”. |
+| congregatio | assembleia | *Synodus*: “reunião” ([1051], [1088]). |
+| praetorium | tribunal | |
+| consilium | conselho | |
+| honorabilitas | censo | No lema; “título de honra” no comentário ([1058], [1059]). |
+| demotici / oligarchici | populares, partidários do povo / oligárquicos | |
+| banausus / banausia | banáusico / ofício banáusico | Ver [^25]; *sordidum opificium*, “ofício vil” ([1018]). |
+| epiiches | equitativos | Ver [^26]. |
+| municipium | burgo | [1045], [1051], [1062]. |
+| forensis (multitudo) | (multidão) do mercado | |
+| politizare | tomar parte na vida política / conduzir a vida política | |
+| correctio | correção | A prestação de contas dos magistrados. |
+| obligare (terram) | empenhar | [1063], [1064]. |
+| respublica (espécie) | república | Quando designa a espécie de Aristóteles (*politia*), não o regime em geral ([988], [1054]). |
+| respublica popularis / status popularis | regime popular | [1091]–[1136]. |
+| respublica paucorum / status paucorum | regime dos poucos | *Paucorum potentia*: “poder dos poucos”; *potentatus*: “potentado”. |
+| documentum | preceito | |
+| ductores populi | condutores do povo | |
+| vindicta publica | pena pública | |
+| nudi / expediti | ligeiros | *Nuda potentia*: “força ligeira”. |
+| armativum | (força) armada | |
+| politeuma | politeuma | Ver [^29]. |
+| astynomia / astynomus / agoranomus | astinomia / astínomo / agorânomo | Ver [^30]. |
+| agronomi / hylores | agrônomos / hiloros | Ver [^31]. |
+| praeconsules / praeconsultores | pré-conselheiros / pré-consultores | |
+| camerarius | tesoureiro | |
+| bonus ornatus | boa ordem | *Ad bonum ordinem et ornatum*: “à boa ordem e ao decoro” ([1140]). |
+| felicitas / beatus | felicidade / bem-aventurado | *Felix*: “feliz”. |
+| eligibilis / eligibilissimus | digno de escolha / o mais digno de escolha | |
+| studiosus | virtuoso | Moerbeke, para o grego *spoudaios*. |
+| vita activa / civilis / contemplativa | vida ativa / civil / contemplativa | *Vita absoluta*: “vida desligada”; *peregrina*: “estrangeira”. |
+| despotizare / dominative | dominar despoticamente / senhorialmente | *Principatus dominativus*: “governo senhorial”. |
+| politizare | viver politicamente, governar-se politicamente | |
+| servus / liber | escravo / livre | *Servilis*: “servil”; *servire*: “servir”. |
+| vacatio | ócio | Ver [^34]. |
+| conservatores legum | guardiões das leis | |
+| politia | regime | *Politizare* segue a entrada já fixada. |
+| respublica | república | *Status paucorum / multitudinis*: “regime de poucos / da multidão”. |
+| principatus (cargo) | magistratura | Quando designa o cargo distribuído; *principari*: “governar”. |
+| per se sufficiens / per se sufficientia | suficiente por si / suficiência por si | *Autarchia*: “autossuficiência”; *autarches*: “autossuficiente”. |
+| regio | território | “Região” quando se trata de zonas climáticas ou de povos (g5-c016 [1300], [1348]). |
+| animus / animositas / animosus | ânimo / ânimo / animoso | O *thymos* grego. |
+| spiritus (fisiológico) | espírito(s) | Os espíritos vitais da fisiologia antiga ([1348]). |
+| successus (politici) | provisão | Moerbeke, para o grego *choregia* ([1277], [1293]). |
+| municipium | burgo | A cidade propriamente dita, distinta dos arrabaldes e do porto ([1317], [1332]). |
+| nautica turba / turba navalis | turba marinheira / turba naval | |
+| Commentator | o Comentador | Averróis ([1348]). |
+| convivium (*syssitia*) | refeição comum | Lemas 990–992, 997, 1016, 1021–1022. |
+| vacatio | lazer | O *scholē* grego; *otium* fica “ócio” ([1353]). |
+| banausus / banausa vita | banáusico / vida banáusica | Ver [^39]. |
+| vita forensis / forensis | vida de mercado / homem de mercado | O *agoraios* grego; “forense” induziria ao sentido judicial. |
+| mercenarius | assalariado | “Mercenário” sugeriria o soldado. |
+| consiliativum / consiliarius | deliberativo / conselheiro | |
+| bellicum / bellici | o bélico / os bélicos, guerreiros | |
+| conferentia | o vantajoso | |
+| dignitas (*axia*) | mérito | Lema 986 e [1394]. |
+| consistentia civitatis | subsistência da cidade | |
+| figura caelestis | configuração celeste | [1351]–[1352]; *stellae erraticae*: “estrelas errantes”. |
+| ad votum | à medida do desejo | |
+| forum | praça | |
+| abdicati / emeriti | dispensados / eméritos | [1382], [1396]. |
+| vernaculi / ministri | servos de casa / servidores | |
+| principativum | dado ao mando | [1355]. |
+| studiosus / studiositas (*spoudaîos*) | excelente / excelência | Distinto de *virtuosus* (“virtuoso”), que o comentário usa ao lado dele ([1497]). |
+| disciplina | educação | Lição 10 em diante. |
+| principantes et subiecti / subditi | governantes e governados / súditos | *principari et subici*: “governar e ser governado”. |
+| excellentia (do governante) | superioridade | [1506]–[1507], lema 1039; evita confusão com *studiosus*. |
+| ex suppositione / simpliciter | por suposição / simplesmente | Lemas 1027–1028, [1492]. |
+| eligibilis / eligibilius | digno de escolha / preferível | |
+| successus | prosperidade | Lema 1025, [1489]. |
+| politeuma | corpo governante | Lema 1040. |
+| secundum partem | por turnos | Lema 1040, [1507]. |
+| suppositum | supósito | [1505], [1509]. |
+| status paucorum / popularis / optimatum | regime de poucos / popular / dos melhores | [1447]. |
+| Scylax | Cílax | Ver [^44]. |
+| vacatio / non vacatio; otium / negotium | ócio / ocupação | *vacare*: “estar em ócio”; *non vacare*: “estar ocupado”. A partir de [1514]. |
+| deductio (*diagōgḗ*) | recreação | Lema 1060; Santo Tomás a entende como o deleite do ócio ([1547]). |
+| agibilia | coisas agíveis | [1518], [1533]–[1537]. |
+| adinventiones | meios | [1515], [1532]. |
+| politia / respublica | constituição / república | |
+| coitus / copula nuptialis / coniugium | coito / cópula nupcial / matrimônio | Lição 12. |
+| virtus (força natural) | força | [1597], [1599], [1602]: potência do corpo, não virtude moral. |
+| paedonomi | pedônomos | Ver [^48]. |
+| Thybron | Tíbron | [1522], [1540]. |
+| Pausanias | Pausânias | Ver [^45]. |
+| Troezenii | trezênios | Ver [^47]. |
+| Theodoros | Teodoro | [1586]. |
+| banausus | banáusico | Ver [^50]; Santo Tomás o glosa como “mercenário” ([1669]). |
+| luctativa / gymnastica / paedotribica | arte da luta / ginástica / pedotríbica | Lemas 1109, 1119, 1126. |
+| protractiva / figurandi peritia | desenho / perícia no desenho | Lemas 1109, 1114, 1118. |
+| orbati (sensu, membro) | privados [de sentido ou membro] | [1609]. |
+| continens (aër) | meio circundante | [1605]. |
+| status (aetatis) | auge | [1611]: a idade de pleno vigor. |
+| praelatus | superior | [1622]. |
+| Avicenna / Porphyrius | Avicena / Porfírio | [1605], [1614]. |
+| Lacedaemonii / Lacones | lacedemônios / lacônios | Lemas 1105, 1120. |
+| Achaei / Eniochi | aqueus / heníocos | Lema 1122. |
+| vacatio / vacare | ócio / estar em ócio | Grego *scholḗ*; ver [^52]. |
+| non vacatio / non vacare | ocupação / estar ocupado | Grego *ascholía*; ver [^52]. |
+| deductio | entretenimento | Grego *diagōgḗ*; ver [^52]. |
+| degendi ratio | *degendi ratio* (glosado “o modo de passar a vida”) | [1730], [1732]: mantido em latim. |
+| ludus | jogo | [1673], lemas 1128–1163. |
+| raptus | arrebatamento | [1743]–[1745]. |
+| figurativa / ars figurandi | arte do desenho | [1671], [1680]. |
+| fistula / fistulatio | flauta / tocar flauta | Lemas 1159–1162. |
+| onerosus (spectator, delectatio) | grosseiro | Lema 1163. |
+| phantasmata | fantasmas | [1744]. |
+| Musaeus / Pallas / Pauson / Polygnotus / Architas | Museu / Palas / Páuson / Polignoto / Árquitas | Lemas 1137, 1147, 1154, 1162. |
+| Thrassipus / Euphantides / Olympus | Trasipo / Eufântides / Olimpo | Lemas 1142, 1162. |
 | purificatio | purificação | Grego *kátharsis*; ver [^57]. |
 | Lydia mixta / Lydia / hypolydia | mixolídia / lídia / hipolídia | [1752]; ver [^55]. |
 | Dorica (doristica) / Phrygia (phrygista) | dórica / frígia | [1752], lemas 1171–1174. |
@@ -18,15 +522,278 @@
 
 ## Decisões
 
-- [1753]: o segundo *illiberalia* foi lido como *liberalia* (“deleitáveis e liberais”), em oposição a *onerosa et illiberalia*.
-- [1761]: *utiles facere* foi lido como *inutiles facere* (“os tornem inúteis”), conforme o contexto.
-- [1767]: *ad iustum ipsum* foi lido como *ad ipsum* (“que nele empenham o pensamento”). O sujeito de *facit* foi explicitado como “este jogo”.
-- [1787]: *in proportionatis* foi lido como *in improportionatis* (“desproporcionadas”).
-- [1788]: *cum iustitia* foi lido como *cum tristitia*, e *in animalibus*, como *in animabus* (“nas almas”), conforme o lema 1169.
-- [1768]–[1783]: “Lição 3” e o seu título ficaram com a marcação da fonte. O lema 1164 ficou sem `>`, e o comentário de [1783] ficou com `>`, como na fonte.
-- As remissões de [1748]–[1767] traduzem as palavras latinas da remissão. “Há semelhanças” segue a forma já usada no fim da chamada anterior. As de [1783]–[1797] seguem o início dos lemas 1164–1176 traduzidos.
+- Os lemas de Aristóteles citados no comentário (***…*** etc.) são traduzidos de modo a coincidir com as primeiras palavras do texto aristotélico em português, mantida a marcação da fonte (negrito-itálico ou itálico). Para isso, a ordem das palavras de alguns parágrafos do texto de Aristóteles foi ajustada. Lemas de trechos ainda não traduzidos (*quia considerare volumus de communione*, *quoniam autem tres partes yconomicae*, *totaliter autem de omni possessione*, *manifestum autem et ex hiis*) recebem tradução provisória, a conferir quando esses trechos chegarem.
+- Inserções editoriais entre parênteses (*(quia)*, *(aliquis)*, *(melius est)*, *(modum)*, *(habet)*, *(autem)*) mantidas entre parênteses e traduzidas.
+- O `> ` que abre os parágrafos de comentário g2-c002 [13], g2-c003 [16] e g2-c004 [13] foi mantido como na fonte.
+- Citações bíblicas sem referência na fonte (Provérbios 11:29 em g2-c003 [60]; Provérbios 12:24 em g2-c004 [26]; 1 Samuel 2:30 em g2-c004 [53]) são traduzidas da forma latina de Santo Tomás, sem acrescentar referência no texto. *In libro Regum* → “no livro dos Reis”, com nota sobre a numeração moderna.
+- *Species Priami digna est imperio* (g2-c003 [70]) traduzido, mantido o negrito-itálico da fonte.
+- *Agon* (g2-c002 [8], [55]) → “certame”, conforme a leitura de Santo Tomás; nota sobre o grego.
+- Notas do tradutor: g2-c002 [^1] (*yconomia*), [^2] (*teknofactiva*), [^3] (trípodes de Hefesto, *Ilíada* XVIII); g2-c004 [^1] (o “retor” e a *graphḗ paranómōn*), [^2] (Teodectes e a Helena lida como *eleloga*), [^3] (etimologia *servus*/*servare*), [^4] (1 Reis da Vulgata = 1 Samuel).
+- book.json: g5 recebe “Livro 5 — Continuação de Pedro de Alvérnia”; os subtítulos latinos das lições 8–16 de g5 (presentes no en-US) foram traduzidos para o pt-BR.
+- Lemas antes provisórios, agora definitivos: *manifestum autem et ex hiis* → “É manifesto também, a partir disto” (g2-c005 [2]); *totaliter autem de omni possessione* → “De modo geral, porém, sobre toda a propriedade” (g2-c006 [2]). Substituem as traduções provisórias anteriores.
+- Novo lema provisório: *quoniam autem quae ad scientiam* (g2-c006 [14]) → “como, porém, as coisas que dizem respeito à ciência”, a conferir quando a Lição 9 chegar.
+- Em g2-c008 [24], o lema *causa autem* remete ao parágrafo [5]; mantido como ***a causa, porém***, igual ao de [21] e [23]. Em [27], o lema corrompido *et si pro non per pecuniativam* recebe a mesma tradução do de [30].
+- O texto aristotélico de g2-c008 [5] traz *sed non circa vivere*, sem *bene*; traduzido “mas não em viver bem”, como Santo Tomás o lê em [28].
+- *Monachia* (g2-c005 [16]) lido como *monarchia*; *ab nutrimentum* (g2-c006 [53]) como *ad nutrimentum*.
+- *A Deo* (g2-c007 [52]) → “a Deus”, como a edição; a nota do tradutor indica Baco como o deus da fábula.
+- Eclesiastes 10:19 (g2-c008 [30]) citado sem referência na fonte; traduzido da forma latina, sem acrescentar referência.
+- Inserções editoriais *(ut existant)*, *(quod)*, *(translatione)*, *(ipsius)* mantidas entre parênteses e traduzidas.
+- Notas do tradutor: g2-c007 [^1] (*campsoria* e o grego *kapēlikḗ*), [^2] (Midas); g2-c008 [^1] (*obolostatikḗ* e *tókos*).
+- O lema *quoniam autem quae ad scientiam* → “como, porém, as coisas que dizem respeito à ciência” passa a definitivo (g2-c009 [2], [12]).
+- *Dubitabit autem utique aliquis* → “alguém, porém, poderá certamente duvidar”; em g2-c011 [8], com a inserção editorial, “alguém, porém, poderá (certamente) duvidar”. A inserção *(quidem)* de g2-c011 [22] → “(de fato)”; *(est)* de g2-c010 [46] → “(é)”.
+- *Servus* traduzido por “servo” em todo o livro, para manter a família de *servitus*, *servilis*, *serviles scientiae*.
+- Termos gregos transliterados que Santo Tomás glosa: os de forma latinizada recebem acento português (naucléria, fortígia, parástase, banáusico); *tokismos*/*toquismos*, *mystarina*, *fortion*, *polis*, *kalokagatia*/*calocagatia* ficam na grafia da fonte, sem itálico, como *tokos*.
+- Em g2-c010 [3] e [31], *lotor pedum* traduzido “lavador de pés”, como Santo Tomás o lê; a nota do tradutor (g2-c010 [^1]) explica que Amásis era rei e que o episódio de Heródoto é o da bacia.
+- O verso *est polis urbs, sed multa polis, est vendere polis* (g2-c009 [57]) fica em latim; a tradução vai na nota g2-c009 [^2].
+- 1 Coríntios 14:34-35 e Eclesiástico 30:11 (g2-c010 [49]) citados sem referência na fonte; traduzidos da forma latina, sem acrescentar referência, como em g2-c008 [30].
+- “De L talentis C” (g2-c009 [61]) → “de cinquenta talentos lucrou cem”.
+- O parágrafo de comentário que abre cada lição com o primeiro lema conserva o `>` da fonte.
+- Notas do tradutor: g2-c009 [^1] (Paládio), [^2] (*pólis*, *polý*, *pōleîn*); g2-c010 [^1] (Amásis), [^2] (*kalokagathía*); g2-c011 [^1] (*homilía*).
+- Em g2-pr, os marcadores *Lectio 1/a* e *Lectio 1/b* → “Lição 1/a” (em negrito-itálico, como na fonte) e “Lição 1/b” (sem marcação).
+- *Ex his quidem igitur duabus communitatibus domus prima* (g2-pr [13]) → “Destas duas comunidades, pois, a casa primeira”, elíptico como o latim, para que a citação *domus prima* de Santo Tomás ([65]) se leia “*casa primeira*”. Os lemas dessa passagem ([45], [61]) → “***destas duas comunidades, pois***”.
+- O verso de Hesíodo (g2-pr [13]) segue o latim (*domum praeminentem*); a leitura de Santo Tomás (“o senhor que tem a preeminência”) fica no comentário, sem nota.
+- *Pueri*: “crianças” quando glosado ou em contraste (g2-pr [16], [74]: “crianças, isto é, filhos”; g3-c001 [6]); “filhos” no verso de Homero (g2-pr [17], [78]), onde a família o pede.
+- *Species* em g2-pr [18] → “espécies”, para manter a glosa “isto é, suas formas” em [79]; *vitae deorum* → “vidas dos deuses”, glosado “modos de conviver”.
+- *Virtus* como potência operativa (g2-pr [86], [113]) → “potência”; como virtude moral, “virtude”.
+- *In parte cedere* (g3-c001 [10], [80]) → “ceder por sua vez”.
+- 1 Coríntios 14:11 (g2-pr [58]) e Eclesiastes 10:7 (g2-pr [60]) citados sem referência na fonte; traduzidos da forma latina, sem acrescentar referência.
+- Inserções editoriais: *(deos)* → “(deuses)”; *(sit)* → “(for)”; *(habeat)* → “(tenha)”; *(possunt)* → “(podem)”; *(velit)* → “(queira)”; *(scilicet)* → “(a saber,)”; *(et)* → “(também)”.
+- Notas do tradutor: g2-pr [^1] (*homosipyos*, *okres homokapnos*), [^2] (*diki*); g3-c001 [^1] (a *politia* de Platão é *A República*), [^2] (*contrapassum*).
+- Lemas com marcação partida na fonte (`***x* **et cetera`) normalizados para `***x*** etc.`; *et cetera* → “etc.”.
+- *Li omnes* (g3-c002 [7]) → “o termo *todos*”. Falas citadas por Santo Tomás sem itálico na fonte vão entre aspas “ ”.
+- *Putatas fieri solutiones* (g3-c003 [2]) → “o que se reputa dissolução”, para casar com a leitura de Santo Tomás (*dissolutio propinquitatis*, [9]).
+- *Dilectum* (g3-c003 [5]) → “dileto”; *studiosam* (g3-c005 [2]) → “boa”, como Santo Tomás a lê.
+- *Quid passi sufferunt principatum* → “por terem padecido o quê suportam o principado”, igual no texto de Aristóteles e na citação de Santo Tomás (g3-c005 [4], [25]).
+- Inserções editoriais: *(afferret)* → “(traria)”; *(nichil aliud)* → “(nada mais)”; *(per)* → “(pelos)”.
+- Notas do tradutor: g3-c002 [^1] (*peryodus*, *períodos gês*); g3-c003 [^1] (o discurso de Aristófanes no *Banquete*); g3-c005 [^1] (*rhythmós* e *básis*, lidos por Santo Tomás como figura e base).
+- *Phaedon* (g3-c006 [65], [66]) normalizado para “Fídon”, como no lema de Aristóteles: é o legislador coríntio Fídon, não o Fédon platônico. *Abtharnia* (g3-c009 [9]) normalizado para “Atarneu”.
+- Onde o latim de Aristóteles é ambíguo, a tradução segue a leitura de Santo Tomás: *legislator antiquorum domus* (g3-c006 [14]) → “as casas dos antigos”; *talium principium… regulari* (g3-c009 [4]) → “regular o princípio de tais coisas”; *opus enim non insolescentes esse tales* (g3-c008 [4]) → “é preciso que tais não sejam insolentes”.
+- *Ex omnibus esse civibus mixtam* (g3-c007 [4]) traduzido à letra, “misto de todos os cidadãos”, embora Santo Tomás o explique como mistura de regimes.
+- *Multitudo possessionis/substantiae* → “quantidade”; em g3-c009, onde o sentido é de vantagem, → “abundância”.
+- Inserção editorial *(quae)* (g3-c007 [30]) → “(as quais)”.
+- Notas do tradutor: g3-c006 [^1] (as *Leis* de Platão e o estrangeiro ateniense); g3-c007 [^1] (*politia* como regime e como forma de governo); g3-c008 [^1] (verso de Homero, *Ilíada* 9, 319) e [^2] (*necessariorum* como genitivo grego de comparação); g3-c009 [^1] (etimologia de Eubulo; Atarneu).
+- *Thessalonica*, *Thessalonicenses* (g3-c013 [30]) normalizados para “Tessália”, “tessálios”, como no lema (*Tessali*): Santo Tomás fala da Tessália, não da cidade de Tessalônica.
+- *Calchedonii* traduzido por “cartagineses” (g3-c013 [16]), com nota.
+- Lemas das próximas lições já citados nas divisões de g3-c013: ***o regime dos cretenses, porém*** (*Cretensium autem politia*), ***parecem, porém, governar-se*** (*politizare autem videntes*), ***mas também o que toca à eforia*** (*at vero et quae circa efforiam*). Os lemas de g3-c014 a g3-c016 devem começar com estas mesmas palavras.
+- Onde o latim de Aristóteles é ambíguo, seguida a leitura de Santo Tomás: *scola* → “escola” (g3-c013 [3]); *neque unam esse compugnantes distantibus* → “nenhuma combate contra os distantes”; *si existant a mulieribus continentes* → “se forem abstinentes das mulheres”; *sed viginti mnas* (g3-c011 [8]) → “mas vinte minas”; *traiciebant politiam* → “comunicavam o regime”; *nullam plagam* → “nenhum golpe”.
+- *Vacantes* (g3-c013 [8], [47]) → “tendo vagar”, que cobre tanto o sentido de Aristóteles (estar desocupado) quanto o de Santo Tomás (*vacantes rebus bellicis*, entregar-se às coisas da guerra).
+- *Contingentes* (g3-c012 [5], [23]) → “comuns”, seguindo a glosa de Santo Tomás *qualescumque non viri excellentes*.
+- Inserção editorial *(est)* (g3-c013 [30]) → “(há)”.
+- *Scripturam* (g3-c010 [29]), maiúscula da fonte, traduzido por “escrito”: o sentido é a escrita na tabuinha, não a Escritura.
+- Notas do tradutor: g3-c010 [^1] (Hipódamo e o Pireu; *suburbia* da versão latina); g3-c011 [^1] (a mina); g3-c012 [^1] (Ógiges e Deucalião); g3-c013 [^1] (*scholē* e *scola*), [^2] (*aphrouros*), [^3] (*Calchedonii* = cartagineses).
+- Leituras de Santo Tomás seguidas no texto de Aristóteles: *per ipsius vitam unumquemque iudicare regum* → “que cada um dos reis julgue por toda a sua vida” (g3-c014 [8], [32]); *per militiam* → “pela malícia” (g3-c014 [11], [39]); *ab expulsione enim quod longe fecit* → “a distância a tornou segura da expulsão” (g3-c015 [12], [53]); *aliarum politiarum opinionem* → “a opinião dos outros cidadãos” (g3-c016 [8], [40]); *Calcedoniorum* em g3-c016 [4] → “cartagineses”.
+- *Cum non sententias velint dare potentum* (g3-c015 [11]) → “quando não querem que se deem sentenças sobre os poderosos”, que admite tanto o grego quanto a leitura de Santo Tomás (g3-c015 [51]).
+- *Litteras* → “escritos” em g3-c014 [5]; “letras” em g3-c015 [8], [42], onde Santo Tomás glosa *litteras, id est leges scriptas*.
+- *Minus planae* (g3-c015 [2], [20]) → “menos ajustada”, com a glosa *minus expedite et convenienter*.
+- Inserções editoriais: *(per)* → “(pelas)” (g3-c014 [31]); *(in)* → “(em)” (g3-c015 [43]).
+- Lema *dignius* (g3-c016 [40]), sem destaque na fonte, marcado em negrito itálico como os demais lemas. Marcações quebradas da fonte (`* **`) normalizadas.
+- Notas do tradutor: g3-c015 [^1] (*Caminum*: Câmico lido como *caminus*), [^2] (*senectus*: *geras* lido como *gēras*).
+- *Principatus* como domínio ou regime de governo (*despoticus*, *civilis*) → “governo”; como ofício (cargo determinado ou indeterminado, g4-c001) segue “cargo”.
+- Leituras de Santo Tomás seguidas no texto de Aristóteles: *quando tyrannizat* → “quando não exercia a tirania” (g4-c003 [7], [30]); *poetales cives* → “cidadãos poéticos” (g4-c001 [3], [41]); *est autem simplex* → “mas isto é simples”, que Santo Tomás lê como “dito simplesmente e sem razão” (g4-c001 [7], [49]); *Filolai* em g3-c017 [8], que no grego é Faleas, mantido como Filolau ([35]).
+- O lema *ex insignibus* (g3-c017 [23]) não tem correspondente no texto latino, que traz *abundantibus* ([5]); ambos mantidos como estão.
+- *Dissolvere* (convenções, compromissos) → “cumprir” (g4-c002 [4], [7]), conforme a glosa *adimplere*.
+- Inserções editoriais: *(per)* → “(pela)” (g3-c017 [21]); *(circa)* → “(acerca)” (g4-c001 [49]).
+- Lemas sem destaque na fonte marcados em negrito itálico: g4-c002 [15] (*similiter autem et hominum*, *non enim utique muris*); g4-c001 [49] (*politice*, *celeriter*). Marcações quebradas (`* **`) normalizadas.
+- Notas do tradutor: g3-c017 [^1] (Tales/Taletas), [^2] (classes censitárias de Sólon e a leitura *medignos*, *iugarios*); g4-c001 [^1] (*poetales* por *poiētoí*), [^2] (gracejo de Górgias com *dēmiourgoí*); g4-c003 [^1] (Jasão de Feras).
+- Lemas sem destaque ou só em negrito na fonte marcados em negrito itálico: g4-c004 [14] (*manifestum autem*); g5-c007 [29] (*deinde autem*), [52] (*sed neque magistratus*), [58] (*ex quo patet*).
+- g5-c007 [36]–[37]: a palavra *Secundo*, partida entre os dois parágrafos na fonte, foi restaurada inteira em [37].
+- Textos de Aristóteles corrompidos traduzidos como estão, sem suprir: g5-c007 [4] (lacuna antes de *et est, sed non omnibus*), [13] (ditografia *Siquidem similiter diligenter considerantibus*).
+- g4-c004 [4]: *ex patre cive* → “de pai cidadão” e *ex mulieribus* → “de mulheres”, embora Santo Tomás leia “de mãe cidadã” e “de mulheres cidadãs” ([19]). *Honorabilitatibus* → “honorabilidades”, lido por Santo Tomás como “longas honras precedentes”.
+- g5-c007 [30] (*est aequalis secundum divitias, ergo aequalis*) e [64] (*et consistit in ipso vivere absolute*) traduzidos literalmente.
+- Inserções editoriais: *(quae)* → “(que)” (g4-c004 [12]); *(est)* → “(é)” (g4-c004 [20]); *(quia)* → “(porque)” (g4-c006 [18]).
+- Números de parágrafo da edição Marietti em g5 (`**260.**` … `**399**.`) mantidos como na fonte.
+- Notas do tradutor: g4-c004 [^1] (Homero, *Ilíada* 9, 648 e 16, 59, e a leitura *post exurgentem*); g4-c006 [^1] (*politia* como nome comum e como nome da forma reta).
+- Lemas com marcação partida na fonte (`***x* **`) normalizados para `***x***` em g5-c008, g5-c009 e g5-c010.
+- Lemas que não correspondem ao texto de Aristóteles da lição foram traduzidos como estão: g5-c008 [61] (*multos enim*, onde se esperaria *sed hoc differunt*), g5-c009 [51] (*et quia de secundo*), g5-c010 [23] (*at non si hoc*). Também g5-c010 [20] (*sed ex quibus*, texto que fica na lição seguinte).
+- Erros tipográficos do latim lidos pela palavra evidente: *ones* (omnes), *solvie* (solvi), *ultorum* (multorum), *quidemigitur*, *dancum* (dandum), *se* (si), *Diffeerentibus*.
+- Traduzidos literalmente, sem corrigir: g5-c008 [45] e g5-c009 [64] (*hominem per legem*, *hominem principari secundum legem*); g5-c009 [65] (*ostendit quid est manifestum*, num trecho sobre o que não é manifesto); g5-c010 [9] (*non secundum omnem aequalitatem*); g5-c010 [33] (*declarat philosophus*, seguido de *philosophus hoc non declarat*).
+- g5-c009 [6]: espaço restaurado depois de `**291.**`.
+- Notas do tradutor: g5-c008 [^1] (*epiiches*); g5-c009 [^1] (*correctio* como *eúthyna*), [^2] (*honorabilitas* como *tímēma*, que Santo Tomás lê como “honras”).
+- Lemas com marcação partida (`***x* **`) normalizados para `***x***` também em g5-c011 e g5-c012. O `>` que a fonte põe no primeiro parágrafo do comentário (g5-c011 [14], g5-c012 [17]) foi mantido como está.
+- No texto de Aristóteles, *dubitare* (g5-c011 [4]) traduzido por “levantar dúvida”, e não “disputar”, para casar com a leitura de Santo Tomás em [15], [18] e [21].
+- Lemas que não correspondem ao texto da lição, traduzidos como estão: g5-c011 [35] (*at qui et*, texto *at vero et*), [53] (*ex quo ad quaestionem illam…*, que remete ao início da lição 12 com outras palavras); g5-c012 [38] (*dicentur autem utique*, texto *dicentur enim*), [39] (*patet hoc autem in aliis*, texto *palam autem hoc*), [46] (*tradunt etiam*, texto *fabulantur autem*).
+- Erros tipográficos do latim lidos pela palavra evidente: *alam* (palam), *dubtarentur*, *intubitatum*, *determinantum*, *cinsiderare*, *enem*, *hunct*, *qumdam*, *civittates*, *chri* (chori), *iuistum*, *cura* (cum), *lex'*; em g5-c012 [14], *sero qui circa regulationem* lido como *sermo qui circa relegationem*, como o confirma o comentário em [56].
+- g5-c012 [16] e [57]: *neque principari talem* e *si Iovem principari velimus* traduzidos por “que tal homem governe” e “que Júpiter governasse”, seguindo a leitura de Santo Tomás (governar por turnos), e não o sentido do grego (governar sobre ele).
+- *Deus* dito do homem de virtude heroica (g5-c012 [6], [42]) vertido por “um deus”, com minúscula, por ser o sentido pagão de Aristóteles.
+- Notas do tradutor: g5-c012 [^1] (Antístenes e a fábula dos leões e das lebres), [^2] (Periandro e Trasíbulo; a versão invertida de Heródoto, livro 5).
+- Lemas com marcação partida normalizados também em g5-c013 [45], [66], [76], [81] e g5-c014 [72]–[76], onde parte do lema ficava fora do negrito-itálico (`***quoniam autem*** evenit`). O `>` do primeiro parágrafo do comentário (g5-c013 [18], g5-c014 [21]) mantido.
+- Lemas que não correspondem ao texto, traduzidos como estão: g5-c014 [36] (*at qui*, texto *at vero*, vertido “mas”), [67] (*quoniam autem evenit*, texto *quando autem evenit*), [69] (*ex his*, texto *ex iis*).
+- Erros tipográficos lidos pela palavra evidente: *noon*, *invountariis*, *quis* (quia), *elius* (melius), *aliiquid*, *qua* (quia); g5-c014 [71] *in principatu* lido *in principio*; [78] *filii subiici* lido *filio subiici*, como o pede o raciocínio.
+- g5-c013 [27]: a oração corrompida *quae debet in viris* vertida pelo sentido do texto de Aristóteles (“que deve ser bem habitada”). [16]: *secundum partem* vertido “por turnos”; o *utrum quidem unum non expedit… vel non expedit* vertido pelo sentido, como o lê Santo Tomás em [80].
+- g5-c013 [60]: na citação da *Ética*, *virtus* vertido “força” (nota do tradutor [^2]).
+- *Ut simpliciter est dicere* vertido “para falar em termos simples”, distinto de *simpliciter* = “em sentido absoluto”, que Santo Tomás usa logo em seguida (g5-c013 [59]).
+- Notas do tradutor: g5-c013 [^1] (Pítaco, Alceu, Antimênides; os escólios), [^2] (versos homéricos na *Ética*); g5-c014 [^1] (*indifferens* contra o grego “incorruptível”), [^2] (Dionísio, o Velho, e a guarda pessoal).
+- g5-c015: lemas com marcação partida normalizados em [40], [48], [55], [57], [62], [63] (`***segundo a mesma*** infere…`).
+- g5-c015 [27]: lema *adhuc melior* não corresponde ao texto (*adhuc, quod et prius*, retomado em [58] como *adhuc quod*); traduzido como está.
+- g5-c015 [7]: *at ver* lido *at vero*. [55]: a oração corrompida *et operam ergo cum lex sit mediam* vertida pelo sentido (“e, como a lei é o meio”).
+- g5-c015 [14]: a frase truncada de Moerbeke (*nullus dubitat de iis, tamquam non utique optime lex praeceperit, iudicabit*) vertida como a lê o comentário em [62].
+- g5-c015 [54]: *mercedem recusantes* do comentário mantido, embora o texto em [9] diga *accipiunt mercedem*.
+- g5-c015 [48]: *simpliciter operari… simplicius* vertido “opera simplesmente… mais simples”, para conservar o jogo; nos demais lugares *simpliciter* segue “em sentido absoluto”.
+- Notas do tradutor: g5-c015 [^1] (Epidamno/Dirráquio e Opunte/Siponto), [^2] (versos da *Ilíada* 10, 224 e 2, 372).
+- g5-c016: lemas sem marcação no latim ([38] e [121]–[151]) postos entre aspas; lemas com marcação partida normalizados em [32], [39], [73], [84], [89], [105].
+- g5-c016 [7], [31]: *secundum partem* vertido “por partes”, para conservar o jogo com “a parte não nasceu para exceder o todo”; em [146] segue “por turnos”.
+- g5-c016: erros de grafia do latim lidos pelo sentido (*Qure*, *optiam*, *eamm*, *covitatibus*, *oplulentorum*, *vocmus* etc.); [9] *delectissimam* lido *electissimam*, como em [38]; [111] *abutii* lido *antiquis*; [72] *proportionem* lido *propositionem*; [133] *politici* lido *politiae*.
+- g5-c016 [11]: a frase de Moerbeke, truncada, mantida truncada.
+- g5-c016 [51]: *Leges autem separatae significantium politiam* vertido segundo a leitura do comentário em [89]; [52] *hominibus* vertido “nomes”, segundo [93]; [52] *virtutem diffusam* → “virtude abundante”, segundo *virtutem multam* em [93].
+- g5-c016 [69]–[70]: *supposita minore* / *probat minorem* traduzidos como estão, embora [72] trate da proposição maior.
+- g5-c016 [120]: *non possidebant* vertido sem a negação, segundo o comentário em [133] e o grego.
+- g5-c016 [130]: na primeira ocorrência, *quod pauci dominentur* lido “que muitos dominem”, como exige o argumento.
+- Notas do tradutor: g5-c016 [^1] (*epiicheis*), [^2] (*banausos*), [^3] (modos dórico e frígio como primeiro e terceiro tons do canto eclesiástico).
+- g5-c016: erros de grafia do latim lidos pelo sentido (*democratizzant*, *unusuisque*, *eni*, *valem*, *aute*, *taen*, *principenture*, *bee*, *parte populi*).
+- g5-c016 [162]: frase truncada do latim (*quod iidem possunt esse consiliantes et iudicantes, quae sunt principales*) mantida na ordem em que está.
+- g5-c016 [180] e [198]: *honorabilitatibus immensis* (texto) e *minores census* (comentário) mantidos, apesar da contradição.
+- g5-c016 [195]: lema *quarum quidem* traduzido como está, embora o texto em [178] diga *quare siquidem*.
+- g5-c016 [200]: *vocant paucorum potentiam*, tautológico, lido como *potentatum* (“potentado”), segundo o texto de Aristóteles em [182].
+- g5-c016 [213]: *odit volentes vivere secundum eas leges* lido “os que querem viver fora dessas leis”, como exige o argumento.
+- g5-c016 [217]: *aut subiici omnino* lido como *nec*.
+- g5-c016 [241]: *obedire et bene positis* mantido (“às bem postas”), embora o grego tenha “às mal postas”.
+- Notas do tradutor: g5-c016 [^4] (*capite diminutis*, a *capitis deminutio* do direito romano), [^5] (*politeuma*), [^6] (*calusagathos*).
+- g5-c016 [251]: *civilitas*, no sentido de regime, traduzido por “regime”, e não por “cidadania”.
+- g5-c016 [269]: Santo Tomás diz que se tome do poder de poucos a eleição e do estado popular o sorteio, o que se contradiz; mantido como está.
+- g5-c016 [275], [277], [288], [292], [297], [300], [326], [336], [342], [344]: erros de grafia do latim lidos pelo sentido (*eet*, *Aesym netas*, *quuod*, *aicitia*, *exeremus*, *aeuale*, *qualii*, *quandum*, *uidem*, *deocratias*, *e propter*).
+- g5-c016 [290]: *subici quidem neque uno principatu, subici autem secundum despoticum principatum* traduzido literalmente (“não sabem sujeitar-se a governo algum, senão ao governo despótico”), como Santo Tomás o lê em [310], embora o grego diga que esses governam despoticamente.
+- g5-c016 [321]: Santo Tomás inverte Aristóteles (o homem persuadiu os cidadãos, e não foi persuadido); mantido como está.
+- g5-c016 [328]: *supertendat quali, quantum deficit quanto* lido “excede em qualidade mais do que falha em quantidade”, como o comentário em [348].
+- g5-c016 [348]: *prima specie popularis status* lido como “estado de poucos”, como exige o contexto.
+- Notas do tradutor: g5-c016 [^7] (esimnetas), [^8] (Focílides).
+- g5-c016 [349]: o lema *pereant autem* lido como *peccant autem* (“erram, porém”), como em [351].
+- g5-c016 [352]: o lema *praeter quam quidem* lido como *propter quam* (“por que causa”), como em [364].
+- g5-c016 [368], [386]: *populatio* traduzido por “povoamento”, segundo a leitura de Santo Tomás, embora o grego diga confisco.
+- g5-c016 [416]: *penuria* mantido (“penúria”), embora o grego diga abundância.
+- g5-c016 [419]: *de omnibus civitatibus* lido como *civibus* (“de todos os cidadãos”).
+- g5-c016 [433]: o marcador **N553.** normalizado para **553.**
+- g5-c016 [371], [372], [405], [406], [407], [409], [416], [427], [436], [441]: erros de grafia do latim lidos pelo sentido (*Conveire*, *pace,et*, *eni*, *aad*, *mais*, *seme*, *coveniens*, *colligntur*, *e virorum*, *forte* por *sorte*, *quuosdam*).
+- g5-c016 [408], [412]: frases corrompidas do latim de Aristóteles (*necessarii quidem, non opportuni*; *necessarium quidem oportet autem existere*) traduzidas segundo a leitura de Santo Tomás em [421] e [425] (“não sendo necessárias, são contudo convenientes”).
+- g5-c016 [422], [428]: as divisões do texto que parecem contradizer o desenvolvimento (“nas pequenas não convém”; “há certo conselho no estado popular”) mantidas como estão.
+- Notas do tradutor: g5-c016 [^9] (probulos), [^10] (*obeliscolychnia*).
+- g5-c016 [453], [477], [514]: os títulos “Lectio 15”, “Liber 5” e “Lectio 2”, que no latim são texto simples, mantidos como texto simples.
+- g5-c016 [471], [476]: a marcação partida do latim (`***sed de iis* **`, `***horum autem* **`) normalizada para `***…***`, como nos demais lemas da Lição 15.
+- g5-c016 [456]: *in Pheati* lido como Freato (gr. *Phreattó*); nota do tradutor [^11].
+- g5-c016 [458], [488], [489], [523], [526], [527]: erros de grafia do latim lidos pelo sentido (*sortiatibus*, *deocratiam*, *politiiis*, *instituere,,*, *sent* por *sententias*, *Aro* por Argos, *eliigibilibus*).
+- g5-c016 [531]: a frase repetida por ditografia no latim (*cum Troezeniis Achaei cohabitaverunt Sybarim, deinde Achaici plures facti eiecerunt…*) traduzida uma só vez.
+- g5-c016 [544]: *propter intentionem* lido como *intensionem* (“cresceu em intensidade”); mantida a inversão do texto (“do estado popular fez-se o poder de poucos”).
+- g5-c016 [489], [506]: *Aelienses* / *Elienses* traduzidos por “eleus”, segundo a leitura de Santo Tomás (o grego fala da Helieia).
+- g5-c016 [531], [549]: *merces portantes* traduzido por “os que trazem mercadorias”, segundo a leitura de Santo Tomás (o grego diz mercenários).
+- Notas do tradutor: g5-c016 [^11] (Freato), [^12] (ostracismo).
+- g5-c016 [571], [627] / [589], [643]: o texto de Aristóteles diz “trezentos” e Santo Tomás “quatrocentos”; cada um mantido como está.
+- g5-c016 [559]: *Tymophane … egenorum quodam* traduzido à letra (“dos indigentes”), embora Santo Tomás, em [577], o chame opulento.
+- g5-c016 [558], [576]: *cura* traduzido por “tutela”, segundo a leitura de Santo Tomás; em [665], [666], *curare* / *cura* traduzidos pelo sentido do grego (aliança de parentesco).
+- g5-c016 [589]: *populus hoc audito noluit* lido como *voluit* (“quis”), que o contexto exige.
+- g5-c016 [650]: *evectio* lido como Eurítion, nome dado no texto de Aristóteles ([634]).
+- g5-c016 [667]: *totum mundum* (gr. *kósmos*) traduzido por “toda a ordem”.
+- g5-c016 [672], [673]: o lema *adhuc quando* repetido por Santo Tomás para o terceiro e o quarto modo mantido como está (“ademais, quando”).
+- g5-c016 [614]: *quam in tyrannidem* lido como “a saber, em tirania”.
+- Notas do tradutor: g5-c016 [^13] (pediacos), [^14] (cifão), [^15] (partênias), [^16] (*Eunomia* de Tirteu).
+- g5-c016 [685]: *De conversatione* lido como *De conservatione* (“Da conservação”), que o conteúdo da lição exige.
+- g5-c016 [684]: “Lição 7” mantida como parágrafo simples, como no original.
+- g5-c016 [679]: *curare de quocumque voluerunt* traduzido à letra (“cuidar de quem quiserem”), por não ser clara a leitura de Santo Tomás.
+- g5-c016 [693]: *sit in cuiuscumque* traduzido com a negação (“não é de qualquer um”), segundo a leitura de Santo Tomás em [729].
+- g5-c016 [699]: *quod iucundum civitatis* traduzido por “o que há de aprazível na cidade”, segundo a leitura de Santo Tomás ([734], [735]). O grego fala da parte próspera da cidade.
+- g5-c016 [706]: o *facere facere* duplicado foi traduzido uma só vez. Em [710], a repetição de uma frase inteira no texto latino foi mantida.
+- g5-c016 [718]: *dominos enim faciunt super civitatem* traduzido por “fazem da cidade duas”, segundo a leitura de Santo Tomás em [754] (*dividunt civitatem in duo*) e o grego.
+- g5-c016 [721]: *parvum* traduzido por “mesquinho” (gr. *phaûlon*).
+- g5-c016 [755]: *quod modo omnes eligunt* traduzido à letra (“que agora todos escolhem”), embora o texto de Aristóteles em [719] diga *negligunt*.
+- Notas do tradutor: g5-c016 [^17] (*epiiches* / *epiichia*), [^18] (coregias e lampadarquias).
+- g5-c016 [789], [793]: *statura* (gr. *hōra*) traduzido por “idade”, segundo a leitura de Santo Tomás em [809] e [813].
+- g5-c016 [847]: *ab extrinseco* traduzido por “a partir de si mesmo”, que o contexto exige (*quibus modis corrumpatur ex se*).
+- g5-c016 [848]: *principatur enim subditis nolentibus* traduzido por “governa súditos que o querem”, que o argumento exige (o reino é *principatus voluntarius*).
+- g5-c016 [851]: *conversandi* lido como *conservandi* (“conservar”), como em [685].
+- g5-c016: os lemas de Santo Tomás foram traduzidos à letra mesmo quando não coincidem com o texto de Aristóteles ([772] “a tirania, porém”; [816], [817] “como Mégacles”; [846] “o reino, porém”; [876] “e que não se ocultem”).
+- g5-c016 [790], [810]: *Eunuchi* traduzido por “eunuco”, como nome comum, segundo a leitura de Santo Tomás (“o rei eunuco”).
+- g5-c016: *epiiches* mantido em itálico, como em [^17]; *ponirophilon* em itálico, com a glosa do próprio texto.
+- Notas do tradutor: g5-c016 [^19] (Hesíodo, o oleiro e o oleiro), [^20] (*podagogides* e os escutas de Hierão), [^21] (*multi imperii* por *Polykráteia*).
+- g5-c016 [894], [921]: *praetendere* traduzido por “ostentar”, segundo a leitura de Santo Tomás (“não ostente querer governá-los com o querer deles”), e não pelo sentido de Aristóteles (“abrir mão”).
+- g5-c016 [897]: *ii quidem enim peregrinantur, hi autem subsistunt* traduzido por “uns… outros”, mantendo a ambiguidade que Santo Tomás resolve à sua maneira em [924].
+- g5-c016 [920], [947]: mantidos o “undécimo mês” do lema e o “nono mês” do comentário, como cada texto os dá.
+- g5-c016 [965]: *cum generatio sit una in esse* lido como *via in esse* (“sendo a geração caminho para o ser”), que o argumento exige.
+- g5-c016 [968]: *de transmutatione paucorum potentiae, in paucorum potentiam* vertido “acerca da transformação relativa ao poder dos poucos, a saber, no poder dos poucos”.
+- g5-c016 [908]: *Si aliquid forte oporteat facere magnum, nequaquam secundum morem audacem* traduzido à letra (“fazer algo grande… segundo um costume audaz”); o lema de [935] é “se algo”.
+- Notas do tradutor: g5-c016 [^22] (o número de Platão, *República* VIII), [^23] (sesquiáltera, sesquitércia e demais razões), [^24] (elementos que “têm símbolo”).
+- g5-c016: nos comentários, os íncipits dos lemas vêm entre aspas, na forma em que o lema foi traduzido. Quando Santo Tomás cita um íncipit que não coincide com o lema ([1056]), traduz-se o íncipit dele.
+- g5-c016 [987]: *quod minus expediens est cognoscere* traduzido “e não é menos proveitoso conhecê-lo”, conforme o lema (*non deterius considerare*).
+- g5-c016 [1002]: mantida a repetição do lema (*pauci, exceptis iis quae penes bellum*), como o texto a traz.
+- g5-c016 [1014]: *ad rationem principatus* traduzido “à duração da magistratura”, segundo a divisão do próprio comentário em [1013].
+- g5-c016 [1028]: *fortiori* traduzido “recorrer à sorte”, segundo a exposição de Santo Tomás em [1034].
+- g5-c016 [1081], [1089]: *democratizant per praetoria* e *ad negotia domus* traduzidos à letra, como Moerbeke os dá.
+- Notas do tradutor: g5-c016 [^25] (banáusico), [^26] (*epiiches*), [^27] (Oxilo), [^28] (o jarro furado).
+- g5-c016 [1125]–[1133]: *honorabilitas divitiarum* traduzido “censo de riquezas” também no comentário, pois aí designa a qualificação por bens, como no lema.
+- g5-c016 [1118]: *sibi ipsis est constituere* traduzido “é constituí-la para si mesmos”, segundo a leitura do comentário em [1131].
+- g5-c016 [1131]: *oppressivi suipsius* traduzido à letra, “pesados por si mesmos”.
+- g5-c016 [1158]: *ephoria* mantido em itálico, sem tradução, por ser leitura obscura de Moerbeke.
+- g5-c016 [1171], [1172]: as reticências do íncipit mantêm-se como no texto.
+- g5-c016 [1149], [1150]: lemas elípticos completados com o mínimo necessário (“sentenças”, “magistrados”), sem colchetes.
+- Notas do tradutor: g5-c016 [^29] (politeuma), [^30] (astinomia, agorânomo), [^31] (agrônomos e hiloros), [^32] (os Onze de Atenas).
+- g5-c016 [1222]: a frase repetida do lema 914 (*Adhuc autem quam politica communione absoluta*) mantém-se traduzida, como está na fonte.
+- g5-c016 [1231]: *suasisse aut sanasse* traduzido à letra, “persuadir ou curar”, como o lê o comentário em [1256].
+- g5-c016 [1232]: *ad salsiciam vel hostiam* traduzido “para a mesa ou para o sacrifício”, segundo a leitura do comentário em [1257] (*ad mensam vel sacrificium*).
+- g5-c016 [1257]: a frase sobre os nascidos para a sujeição, aparentemente truncada no latim, traduzida à letra.
+- g5-c016 [1240]: *in parte* traduzido “na parte de cada um”, mantendo a ambiguidade do latim (o grego fala de alternância).
+- Incipits dos lemas do Livro 7 citados no comentário segundo a tradução portuguesa dos lemas (“Julgando, pois”, “Segue-se”, “Aos que, porém” etc.).
+- Notas do tradutor: g5-c016 [^33] (lírios e anéis em Cartago), [^34] (*scholē* e *vacatio*), [^35] (Eustrácio de Niceia).
+- g5-c016 [1265]–[1271]: incipits dos lemas 931–936, traduzidos em chamada anterior, citados conforme a tradução já adotada (“Isto, pois, talvez”, “Por isso, mesmo se alguém”, “Mas, se estas coisas”, “Mas nem sem ação”, “Que, pois”).
+- g5-c016 [1290]: *ex parte finis ipsius*, segunda ocorrência, parece erro do latim por *materiae*, como mostra o resto do parágrafo. Foi traduzido à letra: “da parte do próprio fim”.
+- g5-c016 [1290] e seguintes: incipits citados pelo comentário em forma diferente da dos lemas (*putant plerique*, *neque enim fieri*, *est autem civilis*, *de regione autem*, *pater igitur*) remetem ao incipit da tradução portuguesa do lema correspondente.
+- g5-c016 [1279] lema 956: *Civitatis autem potentiam* foi traduzido à letra, “Quanto à potência da cidade”, embora o comentário leia “posição”.
+- g5-c016 [1320] lema 965: *supergressivum … pedestrium* foi traduzido “desmedido … pedestre”, segundo a leitura do comentário em [1335]. Em português, “pedestre” guarda o duplo sentido de infantaria e de vulgaridade.
+- g5-c016 [1344] lema 972: o verso de Arquíloco foi traduzido à letra da versão latina, que está alterada; ver [^38].
+- Notas do tradutor: g5-c016 [^36] (Estentor), [^37] (*monocolam* e *evagogi*, transliterações de Moerbeke), [^38] (Arquíloco).
+- g5-c016 [1354]–[1357]: os incipits dos lemas 973–974, traduzidos em chamada anterior, foram citados como “Pois o que”, “Mas não está bem” e “Acerca dos que vivem em regime”. Se a tradução desses lemas tiver outro início, prevalece o dela.
+- g5-c016 [1355]: *Non autem quod custodes oportet esse amativos, quia animus…* foi traduzido pelo sentido exigido pelo argumento (“Ora, que os guardas devem ser amorosos, é porque o ânimo…”). A leitura literal (“não que…”) contradiria o parágrafo.
+- g5-c016 [1371]: *quod principium est inter dictam curam et cultum divinum* está corrompido. Foi traduzido segundo o lema 979 (*praecipue ea quae circa divinorum curam*): “o que é principal entre as coisas ditas, o cuidado e o culto divino”.
+- g5-c016 [1396]: *non expedit eos esse cives* foi traduzido à letra (“não convém que eles sejam cidadãos”), embora o argumento peça “sacerdotes”.
+- g5-c016 [1384] lema 990: *Aliqua autem videtur esse* foi lido como *Antiqua*, conforme o grego, e traduzido “Antiga”.
+- g5-c016 [1427] lema 1008: *dominativum equorum* foi traduzido à letra, “domador de cavalos”, entre aspas; ver [^41].
+- g5-c016 [1435] lema 1016: *antiquorum* (no grego, “das magistraturas”) e, em [1438], *matronas* foram traduzidos à letra, “dos antigos” e “as matronas”.
+- g5-c016 [1426] lema 1007: *aequalitas* (o grego *homalótēs*, terreno plano) foi traduzido “planura”.
+- Notas do tradutor: g5-c016 [^39] (*banausum*), [^40] (golfos Scilético e Lamético), [^41] (*dominativum equorum* e *systadas*), [^42] (*Hylores*, *Agronomos*, astinomia).
+- g5-c016 [1444]–[1463]: os incipits dos lemas 1017–1023, traduzidos em chamada anterior, foram citados conforme o latim (“Quanto à sua posição em relação a si mesma”, “Quanto aos lugares”, “Mas deter-se” etc.). Se a tradução desses lemas tiver outro início, prevalece o dela.
+- g5-c016 [1506]: *participans se habet ad subiectum* foi lido como *principans* e traduzido “o governante”; *secundum vitam generationis*, como *viam*, “segundo a via da geração”.
+- g5-c016 [1509]: *secundum appositum* foi lido como *suppositum*, “segundo o supósito”, conforme [1505].
+- g5-c016 [1505]: *diversitas autem vel unitas determinantium*, frase truncada, foi traduzida à letra: “e a diversidade ou a unidade, a dos que determinam”.
+- g5-c016 [1511]: *eosdem esse principantes semper, puta servos secundum naturam* foi traduzido à letra, embora o argumento peça que os servos por natureza sejam sempre governados.
+- g5-c016 [1489]: *aut propter materiam, aut propter naturalem complexionem* foi traduzido como explicação (“por causa da matéria, isto é, da compleição natural”), pois o par matéria/forma estrutura a frase.
+- g5-c016 [1493]: *coriarius* foi traduzido “coureiro”.
+- Notas do tradutor: g5-c016 [^43] (*hippodamium*, o traçado de Hipódamo de Mileto) e [^44] (Cílax de Carianda).
+- g5-c016: o comentário fala de “este sétimo livro” e do “oitavo livro” segundo a numeração da *Política*; manteve-se, embora o sumário deste livro os agrupe como Livro 5.
+- g5-c016 [1534]: *in rationali autem per essentiam sunt rationes* foi lido como *rationales* (“as racionais”).
+- g5-c016 [1545]: *quia tum facili rubiginem contrahit* foi lido como *quiescens facile*, “parado, facilmente contrai ferrugem”.
+- g5-c016 [1547]: a remissão *quid autem non habent etc.* foi traduzida pelo início do lema 1061, “Os que, porém, não podem”.
+- g5-c016 [1548]: *in abundantia honorum* foi lido como *bonorum* (“de tais bens”), conforme o lema 1061.
+- g5-c016 [1560]: *quoniam enim non determinatus est* foi traduzido sem a negação (“está determinado”), conforme o grego e a citação do próprio comentário em [1594].
+- g5-c016 [1572]: *propter secundum intellectus ac mens* foi traduzido “segundo o auge da inteligência e da mente”, conforme o grego (*akmḗ*).
+- g5-c016 [1575]: *magis autem vino* foi traduzido “e mais ainda sem vinho”, conforme o grego.
+- g5-c016 [1570], [1574], [1582]: os lemas truncados de Moerbeke foram traduzidos à letra sempre que o sentido o permitia (*ordo gentium prohibet nihil reservari genitorum*; *De ea autem quae ad aliam et ad alium*; *Rationabile igitur assumere illiberalitatem*).
+- g5-c016 [1594]–[1585]: *demissio* / *missio* (o reclinar-se nas refeições comuns) foi traduzido “reclinar-se à mesa”; em [1584] acrescentou-se entre colchetes “[nas refeições comuns]” para tornar inteligível *communicare*.
+- g5-c016 [1602]: *coitus iuniorum … parvus est* foi lido como *pravus*, “é mau”, conforme [1598].
+- g5-c016 [1548]: o verso *otia si tollas, periere cupidinis arcus* foi traduzido no texto, com o original latino em nota.
+- Notas do tradutor: g5-c016 [^45] (Pausânias), [^46] (Ovídio, *Remédios do amor*), [^47] (oráculo de Trezena), [^48] (pedônomos).
+- g5-c016: remissões cujo lema não está no texto (em [1605]–[1627]) foram traduzidas pelas palavras latinas da remissão (“Quanto a isso”, “Quais, porém”, “Já do reclinar-se à mesa” etc.); as do Livro 8 seguem o início dos lemas 1100–1109 traduzidos.
+- g5-c016 [1603]: o texto dá aqui trinta e sete anos para o homem (contra os trinta e seis do parágrafo anterior); manteve-se como está.
+- g5-c016 [1609]: *satis autem pueris* foi lido como *natis autem*, “Quanto aos nascidos”, como em [1614].
+- g5-c016 [1611]: *vigesimusoctavus* foi lido como *decimusoctavus* (“décimo oitavo”), conforme [1603] e o fim do mesmo parágrafo.
+- g5-c016 [1620]: *detestantur* foi traduzido “sancionam”, porque o comentário afirma que a contenção do choro é proveitosa.
+- g5-c016 [1627]: *usque ad duodecimum annum* foi lido como “vigésimo primeiro ano”, conforme [1660].
+- g5-c016 [1628]–[1631]: o título do Livro 8 da *Política* e a Lição 1 ficaram no mesmo arquivo, com a marcação da fonte.
+- g5-c016 [1644]: a nota do editor sobre a troca de versão foi traduzida; os colchetes de [1645]–[1654], que delimitam o texto substituído, foram mantidos.
+- g5-c016 [1669]: supriu-se a negação (“não tornam mercenário”), conforme o lema 1107; *utiles dicimus* foi lido como *viles* (“chamamos vis”).
+- Notas do tradutor: g5-c016 [^49] (Deuteronômio 25:2), [^50] (*bánausos*), [^51] (*mechanica* e *moechari*).
+- g5-c016 [1670]: *non liberale est* foi lido como *non illiberale*, conforme o contexto (“até certo ponto é liberal”).
+- g5-c016 [1707]: *mutationum* foi lido como *imitationum* (“imitações”), conforme o comentário em [1746].
+- g5-c016 [1712]: *olydiste* foi traduzido “mixolídia”, e *adulteram*, lido como *alteram* (“outra”).
+- g5-c016 [1713]: *honorabiliores* foi lido como *onerosiores* (“mais grosseiros”), em oposição a *liberaliores*, como em [1728].
+- g5-c016 [1690]–[1691]: “Lição 2” e o seu título ficaram com a marcação da fonte. Mantiveram-se também o `>` de [1729] e o número 1162 repetido em [1726]–[1727].
+- g5-c016: as remissões de [1729]–[1747] seguem o início dos lemas 1128–1163 traduzidos. As de [1670]–[1689] traduzem as palavras latinas da remissão.
+- Citações da *Ética* no formato “livro X da *Ética*”. *In elenchis* foi traduzido “nas *Refutações sofísticas*”.
+- Notas do tradutor: g5-c016 [^52] (*deductio*, *vacatio*), [^53] (Páuson e Polignoto), [^54] (Olimpo, o flautista frígio, lido por Santo Tomás como o monte).
+- g5-c016 [1753]: o segundo *illiberalia* foi lido como *liberalia* (“deleitáveis e liberais”), em oposição a *onerosa et illiberalia*.
+- g5-c016 [1761]: *utiles facere* foi lido como *inutiles facere* (“os tornem inúteis”), conforme o contexto.
+- g5-c016 [1767]: *ad iustum ipsum* foi lido como *ad ipsum* (“que nele empenham o pensamento”). O sujeito de *facit* foi explicitado como “este jogo”.
+- g5-c016 [1787]: *in proportionatis* foi lido como *in improportionatis* (“desproporcionadas”).
+- g5-c016 [1788]: *cum iustitia* foi lido como *cum tristitia*, e *in animalibus*, como *in animabus* (“nas almas”), conforme o lema 1169.
+- g5-c016 [1768]–[1783]: “Lição 3” e o seu título ficaram com a marcação da fonte. O lema 1164 ficou sem `>`, e o comentário de [1783] ficou com `>`, como na fonte.
+- g5-c016: as remissões de [1748]–[1767] traduzem as palavras latinas da remissão. “Há semelhanças” segue a forma já usada no fim da chamada anterior. As de [1783]–[1797] seguem o início dos lemas 1164–1176 traduzidos.
 - Citações aristotélicas no formato da *Ética*: “livro II da *Física*”, “livro I dos *Segundos analíticos*”, “livro *Do sentido*”. *In primo huius* foi traduzido “no livro I desta obra”.
-- Notas do tradutor: [^55] (modos gregos e tons eclesiásticos), [^56] (*musa*, instrumento de sopro; o bárbito), [^57] (*purificatio*, *kátharsis*), [^58] (Filóxeno de Citera e *Os mísios*).
+- Notas do tradutor: g5-c016 [^55] (modos gregos e tons eclesiásticos), [^56] (*musa*, instrumento de sopro; o bárbito), [^57] (*purificatio*, *kátharsis*), [^58] (Filóxeno de Citera e *Os mísios*).
 
 ## Review log
 
