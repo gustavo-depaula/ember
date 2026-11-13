@@ -11,7 +11,7 @@ Destino: pt-BR.
 | Philosophus / Aristoteles | o Filósofo / Aristóteles | |
 | Physica / Ethica / Metaphysica | *Física* / *Ética* / *Metafísica* | “no livro II da *Física*”, “no fim do livro X da *Ética*”. |
 | ibi / Deinde cum dicit / Circa primum duo facit / epilogando | onde diz / Em seguida, quando diz / Acerca do primeiro, faz duas coisas / recapitulando | |
-| civitas / communitas / civilis / conversatio | cidade / comunidade / civil / convivência | |
+| civitas / communitas / civilis / conversatio | cidade / comunidade / civil / convivência | “Político” ou “homem político” para civilis quando designa a pessoa que ordena a cidade. |
 | politica / scientia politica, civilis | política / ciência política, civil | |
 | scientia practica, speculativa / factiva, activa | ciência prática, especulativa / produtiva, ativa | |
 | factio / actio / facere / agere | produção / ação / fazer / agir | |
@@ -31,7 +31,7 @@ Destino: pt-BR.
 | organum / instrumentum | instrumento | Os dois termos latinos coincidem; “órgãos” só para os da imaginação (g2-c003 [66]). |
 | organum factivum / activum | instrumento produtivo / ativo | |
 | animatum / inanimatum / separatum | animado / inanimado / separado | Definição do escravo em g2-c002 [60]. |
-| minister / architector / artifex | auxiliar / arquiteto / artífice | |
+| minister / architector / artifex | auxiliar / arquiteto / artesão | |
 | gubernator / gubernaculum / prorarius / prora | piloto / leme / proeiro / proa | |
 | pecten / plectrum | lançadeira / plectro | |
 | principari / principatus / principans / subici, subiectum | governar / governo / o que governa / ser sujeito, o que é sujeito | |
@@ -54,7 +54,7 @@ Destino: pt-BR.
 | campsoria / campsor | cambística / cambista | Nota do tradutor em g2-c007 [4]. |
 | obolostatica / tokos | obolostática / tokos | Nota do tradutor em g2-c008 [11]; *tokos* sem itálico onde a fonte não o tem. |
 | nummisma / denarius / caracter | moeda / moeda / cunho | *Denarii* no comentário = moedas em geral; “denários” evitado. |
-| commutatio / permutatio / permutativa, commutativa / translatio | troca / permuta / arte de permuta, arte de troca / transferência | |
+| commutatio / permutatio / permutativa, commutativa / translatio | troca / permuta / arte de permuta, arte de troca / transferência | “Intercâmbio civil” para commutatio civilis quando designa as relações entre os cidadãos em geral. |
 | subministrativa, subministrare / ministrare / subserviens | auxiliar, auxiliar / servir / subserviente | |
 | yconomica / yconomicus (pessoa) / dispensator domus / procurator | a econômica / ecônomo / administrador da casa / intendente | |
 | politia / thimocratia | politia / timocracia | g2-c005 [17]. |
@@ -66,11 +66,11 @@ Destino: pt-BR.
 | Solon / Syracusae, Syracusani / Medas / Ecclesiastes | Sólon / Siracusa, siracusanos / Midas / Eclesiastes | Nota do tradutor sobre Midas em g2-c007 [52]. |
 | servus / dominus / servitus / servilis | servo / senhor / servidão / servil | “Servo” mantém a família de *servitus*, *servilis*. |
 | principatus / principari / principans / subiectus | principado / governar / o que governa / súdito, o que está sujeito | |
-| principatus politicus / regalis / despoticus / tyrannicus | principado político / régio / despótico / tirânico | |
+| principatus politicus / regalis / despoticus / tyrannicus | principado político / régio / despótico / tirânico | No contexto da classificação dos cargos institucionais, *principatus politici* → “magistraturas políticas”. |
 | principalior (natura) | mais apto para governar | |
 | coniugatio (domestica) | união (doméstica) | |
-| vir / uxor / mulier / masculus, femina / puer | marido (ou homem) / esposa / mulher / macho, fêmea / criança | *Vir* é “marido” no contexto nupcial, “homem” diante de *puer*. |
-| consilium / consiliari / consiliativum | deliberação / deliberar / deliberativo | |
+| vir / uxor / mulier / masculus, femina / puer | marido (ou homem) / esposa / mulher / macho, fêmea / criança | *Vir* é “marido” no contexto nupcial, “homem” diante de *puer*. *Puer* admite “filho” quando designa a prole, inclusive antes do nascimento, e “menino” quando designa a idade infantil. |
+| consilium / consiliari / consiliativum | deliberação / deliberar / deliberativo | “Conselho” quando consilium designa o órgão colegiado. |
 | virtus organica / ministrativa | virtude instrumental / ministerial | |
 | fortitudo principativa / subministrativa / ministrativa | fortaleza de comando / auxiliar / de serviço | |
 | architecton, architector | arquiteto | |
@@ -109,12 +109,12 @@ Destino: pt-BR.
 | Felleas / Hyppodamus / Lacedaemonii / Archades, Archadia / Delphi / Thimeus | Faleas / Hipódamo / lacedemônios / arcádios, Arcádia / Delfos / *Timeu* | |
 | De anima / Metaphysica | *Sobre a alma* / *Metafísica* | |
 | custodes / municipes / municipium | guardiões / munícipes / município | Santo Tomás glosa *municipes* como “os que habitam continuamente na cidade” e “guardiões da cidade”. |
-| principes / principatus | governantes / principado | |
+| principes / principatus | governantes / principado | No contexto institucional dos cargos e órgãos da cidade, *principatus* → “magistratura”; *principes* → “magistrados”. |
 | agricolae / terrae cultores / artifices | agricultores / cultivadores da terra / artesãos | |
 | possessio / substantia | possessão / substância | *Substantia* glosada *id est possessio* (g3-c002). |
 | politia (de Sócrates) | regime | |
 | habitum / de habitis | conexo / coisas conexas | Glosado *consequens*; mantém a glosa em g3-c004 [16] e g3-c005 [32]. |
-| fratrueles / contribules / nepos | primos-irmãos / contríbulos / sobrinho | |
+| fratrueles / contribules / nepos | primos-irmãos / contríbulos / sobrinho | *Nepos* no sentido de filho de um filho → “neto” (g2-pr [74]). |
 | convivia / confraternitates / tribus | banquetes / confrarias / tribos | |
 | liberalitas / temperantia | liberalidade / temperança | |
 | consentaneum / congruum | consentâneo / côngruo | |
@@ -148,7 +148,7 @@ Destino: pt-BR.
 | deierare, degerare / periurium | perjurar / perjúrio | |
 | actor / reus | autor / réu | |
 | mna | mina | Nota em g3-c011. |
-| principes / principatus / regimen civitatis | governantes / cargos de governo / governo da cidade | “Regime” fica para *politia*. |
+| principes / principatus / regimen civitatis | governantes / cargos de governo / governo da cidade | “Regime” fica para *politia*. No contexto institucional, *principatus* → “magistratura”; *principes* → “magistrados”. |
 | patriae leges / patres | leis pátrias / antepassados | |
 | disquisitor / disquisitio | investigador / investigação | Segue a leitura de Santo Tomás (g3-c011 [28]). |
 | remissio (mulierum, legum) | relaxamento | |
@@ -167,8 +167,8 @@ Destino: pt-BR.
 | seniores / gerusia / iherusia | anciãos / gerúsia / iherusia | iherusia na grafia de Santo Tomás, que a explica como honorabilidade dos anciãos. |
 | kosmoi (Aristóteles), cosmi (Santo Tomás) / akosmia, acosme | grafia da fonte, sem itálico | |
 | convivia (publica) / filitia, Philitia, andreia, Andria | banquetes (públicos) / grafia da fonte | |
-| nauarchia, navarchia / pentarchiae / demum / demoticum | navarquia / pentarquias / demos / demótico | Termos gregos com forma portuguesa corrente. |
-| kalikagathi, calicagathi, kaluskagathus, caluscagathus, epeiekesi, epyikes, epieikes, andragathia, boulin, Ecclesia, autognomonas, auctognomonas, aristarchizare, ydiotas | grafia da fonte, sem itálico | Como affruron; caso latino reduzido ao nominativo quando evidente (*andragathiam* → andragathia). |
+| nauarchia, navarchia / pentarchiae / demum / demoticum | navarquia / pentarquias / demos / democrático | Termos gregos com forma portuguesa corrente. |
+| kalikagathi, calicagathi, kaluskagathus, caluscagathus, epeiekesi, epyikes, epieikes, andragathia, boulin, Ecclesia, autognomonas, auctognomonas, aristarchizare | grafia da fonte, sem itálico | Como affruron; caso latino reduzido ao nominativo quando evidente (*andragathiam* → andragathia). |
 | incolae | íncolas | |
 | principatus (singular) | cargo | |
 | conversatio | modo de vida | |
@@ -191,7 +191,7 @@ Destino: pt-BR.
 | advenae / adventicii | forasteiros / adventícios | |
 | mercennarii | assalariados | |
 | gens / genus (habitantium) | nação / estirpe | |
-| autarkia, banausus, symposiarchizare, medignos, iugarios, ydiota, epieikes | grafia da fonte, sem itálico | Caso reduzido ao nominativo (*autarkiam* → autarkia, *epieikis* → epieikes). |
+| autarkia, medignos, iugarios, epieikes | grafia da fonte, sem itálico | Caso reduzido ao nominativo (*autarkiam* → autarkia, *epieikis* → epieikes). |
 | Solon, Likurgus, Efialtes, Periclees, Klistenes, Ariopagus | Sólon, Licurgo, Efialtes, Péricles, Clístenes, Areópago | |
 | Zaleucus, Charondas, Onomacritus, Theletas, Thaletes | Zaleuco, Carondas, Onomácrito, Tales | Tales: nota em g3-c017. |
 | Filolaus, Dyocles, Ankyones, Anchiones, Bachidae | Filolau, Diocles, Alcíone, Baquíadas | |
@@ -217,7 +217,7 @@ Destino: pt-BR.
 | Tyrrheni, Tusci, Carchedonii, Megarenses, Corinthii, Lycophron, Thebae | tirrenos, tuscos, cartagineses, megarenses, coríntios, Licofron, Tebas | |
 | epiiches | *epiiches*, em itálico | Transliteração do grego *epieikeîs*; Santo Tomás lê “virtuosos”. Nota do tradutor em g5-c008 [^1]. |
 | studiosus | excelente | *Studiosi, sive virtuosi* → “excelentes, ou virtuosos”. |
-| principatus / principari / princeps | governo, cargo de governo / governar / governante | Plural concreto (*principatus maximi*) → “cargos de governo”. |
+| principatus / principari / princeps | governo, cargo de governo / governar / governante | Plural concreto (*principatus maximi*) → “cargos de governo”. No contexto institucional, *principatus* → “magistratura”; *princeps* → “magistrado”. |
 | excessus (boni) | superioridade (de um bem) | Como no título de g5-c010. |
 | inhonorati | sem honras | |
 | correctio (principum) / corrigere | correção / corrigir | Verte *eúthyna*; nota do tradutor em g5-c009 [^1]. |
@@ -251,7 +251,7 @@ Destino: pt-BR.
 | Hercules / Argonautae / Argo | Hércules / argonautas / Argo | |
 | Samii, Chii, Lesbii / Medi, Babylonii | sâmios, quios, lésbios / medos, babilônios | |
 | regnum / monarchia regalis | reino / monarquia régia | |
-| principatus / principari / princeps | governo / governar / governante | |
+| principatus / principari / princeps | governo / governar / governante | No contexto institucional, *principatus* → “magistratura”; *princeps* → “magistrado”. |
 | ducatus exercitus / dux exercitus | comando do exército / chefe do exército | *imperialis* mantido como “imperial” (g5-c013 [4], [44]). |
 | despoticus / dominativus | despótico / senhorial | *dominativus* ligado a *dominus*, “senhor”. |
 | secundum genus / successio generis | por estirpe / sucessão da estirpe | |
@@ -267,7 +267,7 @@ Destino: pt-BR.
 | studiosus | virtuoso | |
 | indifferens | indiferente | Nota do tradutor em g5-c014 [^1]. |
 | custodia | guarda | |
-| potentia | poder | |
+| potentia | poder | “Potência” quando designa uma capacidade ou faculdade operativa, como em *politica potentia* e em *scientiis et potentiis* (g5-c010). |
 | servus | escravo | |
 | principalior | mais principal | Termo escolástico mantido (g5-c015). |
 | secundum litteras (leges, medicari) | escritas / segundo os escritos | g5-c015 [9], [11]. |
@@ -288,7 +288,7 @@ Destino: pt-BR.
 | genus (régio) | linhagem | |
 | excessus | superioridade | |
 | egeni / pauperes | pobres | |
-| mercenarii | assalariados | |
+| mercenarii | assalariados | “Mercenário” quando qualifica uma atividade ou quem a exerce em vista de ganhos exteriores. |
 | banausus (*banausium*, *banausa*) | banáusico | Nota do tradutor em g5-c016 [^2]. |
 | ex suppositione | por suposição | |
 | conferens | proveitoso | |
@@ -297,7 +297,7 @@ Destino: pt-BR.
 | passiones (de um sujeito de ciência) | propriedades | |
 | demos | *demos* | Mantido em itálico (g5-c016 [118], [120]). |
 | honorabilitas | qualificação | Requisito de bens ou de linhagem para os cargos (gr. *timema*). |
-| census | censo | |
+| census | censo | “Renda” quando designa o pagamento pelo uso de terras, como em *ad censum* (p6-l04 [31]). |
 | sententia (gr. *psephisma*) / decretum | sentença / decreto | |
 | demagogus / ductor / suasor / praepotens | demagogo / condutor / persuasor / prepotente | |
 | adulator | adulador | |
@@ -329,12 +329,12 @@ Destino: pt-BR.
 | tyrannis | tirania | |
 | consiliativum / consiliari | deliberativo / deliberar | |
 | consiliarius / consilium | conselheiro / conselho | |
-| praemissi / praeconsules / praeconsulentes | probulos | Gr. *próbouloi*; nota do tradutor [^9]. Em g5-c016 [428], *consules* (abreviação) também “probulos”. |
+| praemissi / praeconsules / praeconsulentes | próbulos | Gr. *próbouloi*; nota do tradutor [^9]. Em g5-c016 [428], *consules* (abreviação) também “próbulos”. |
 | principes (em contexto de magistratura) | magistrados | *Principantes* segue “governantes”. |
-| praetoria / iudicium | tribunais / tribunal; juízo | |
+| praetoria / iudicium | tribunais / tribunal; juízo | “Sentença” quando iudicium designa a decisão judicial; “judicatura” quando designa a função judicial entre os cargos necessários da cidade. |
 | honorabilitas | censo | Gr. *tímēma*. |
 | democraticus / demoticus | democrático | |
-| civilis | civil | |
+| civilis | civil | “Político” ou “homem político” quando designa a pessoa que ordena a cidade. |
 | pueronomus / gynoeconomus, mulieronomus | pedônomo / ginecônomo | |
 | ornatus (bonus) | (boa) compostura | Gr. *eukosmía*. |
 | honestas | honestidade | |
@@ -371,7 +371,7 @@ Destino: pt-BR.
 | praeses | chefe | |
 | status paucorum / status optimatum | estado dos poucos / estado dos melhores | No comentário de Santo Tomás. |
 | politia | regime; república quando designa o regime misto (g5-c016 [694], [695]) | No texto de Aristóteles. |
-| potentatus | potentado | A espécie extrema da oligarquia. |
+| potentatus | potentado | A espécie extrema da oligarquia. “Poder” quando designa a autoridade pessoal de que alguém pode ser afastado, sem nomear aquela espécie de oligarquia. |
 | salvatio / salvare | conservação / conservar | |
 | praevaricatio | prevaricação | |
 | documentum / elementum | preceito / elemento | |
@@ -401,7 +401,7 @@ Destino: pt-BR.
 | praetorium | tribunal | |
 | consilium | conselho | |
 | honorabilitas | censo | No lema; “título de honra” no comentário ([1058], [1059]). |
-| demotici / oligarchici | populares, partidários do povo / oligárquicos | |
+| demotici / oligarchici | democráticos, partidários democráticos / oligárquicos | |
 | banausus / banausia | banáusico / ofício banáusico | Ver [^25]; *sordidum opificium*, “ofício vil” ([1018]). |
 | epiiches | equitativos | Ver [^26]. |
 | municipium | burgo | [1045], [1051], [1062]. |
@@ -423,7 +423,7 @@ Destino: pt-BR.
 | praeconsules / praeconsultores | pré-conselheiros / pré-consultores | |
 | camerarius | tesoureiro | |
 | bonus ornatus | boa ordem | *Ad bonum ordinem et ornatum*: “à boa ordem e ao decoro” ([1140]). |
-| felicitas / beatus | felicidade / bem-aventurado | *Felix*: “feliz”. |
+| felicitas / beatus | felicidade / bem-aventurado | *Felix*: “feliz”. No sentido de bonança material, *felicitas* → “prosperidade”. |
 | eligibilis / eligibilissimus | digno de escolha / o mais digno de escolha | |
 | studiosus | virtuoso | Moerbeke, para o grego *spoudaios*. |
 | vita activa / civilis / contemplativa | vida ativa / civil / contemplativa | *Vita absoluta*: “vida desligada”; *peregrina*: “estrangeira”. |
@@ -493,7 +493,7 @@ Destino: pt-BR.
 | Avicenna / Porphyrius | Avicena / Porfírio | [1605], [1614]. |
 | Lacedaemonii / Lacones | lacedemônios / lacônios | Lemas 1105, 1120. |
 | Achaei / Eniochi | aqueus / heníocos | Lema 1122. |
-| vacatio / vacare | ócio / estar em ócio | Grego *scholḗ*; ver [^52]. |
+| vacatio / vacare | ócio / estar em ócio | Grego *scholḗ*; ver [^52]. Com complemento que indica uma atividade, *vacare* → “ocupar-se de”, como em *circa propria vacare*, “ocupar-se dos seus próprios assuntos”. |
 | non vacatio / non vacare | ocupação / estar ocupado | Grego *ascholía*; ver [^52]. |
 | deductio | entretenimento | Grego *diagōgḗ*; ver [^52]. |
 | degendi ratio | *degendi ratio* (glosado “o modo de passar a vida”) | [1730], [1732]: mantido em latim. |
@@ -512,7 +512,7 @@ Destino: pt-BR.
 | tonus (primus, tertius…) | tom (primeiro, terceiro…) | Tons eclesiásticos; ver [^55]. |
 | remissus / rigidus | relaxado / rígido | Harmonias e melodias, lemas 1170–1175. |
 | abdicatus | declinante | “Os que declinam com o tempo”, lema 1175, [1795]–[1796]. |
-| studiosum iudicium | juízo apurado | [1757]. |
+| studiosum iudicium | juízo excelente | [1757]. |
 | Architae tabella | tabuinha de Árquitas | [1758]. |
 | musa (instrumento) | *musa* | Ver [^56]. |
 | tibia / cythara / pectis / barbitus / sambuca | tíbia / cítara / péctide / bárbito / sambuca | [1763], [1765]. |
@@ -583,7 +583,7 @@ Destino: pt-BR.
 - Notas do tradutor: g3-c010 [^1] (Hipódamo e o Pireu; *suburbia* da versão latina); g3-c011 [^1] (a mina); g3-c012 [^1] (Ógiges e Deucalião); g3-c013 [^1] (*scholē* e *scola*), [^2] (*aphrouros*), [^3] (*Calchedonii* = cartagineses).
 - Leituras de Santo Tomás seguidas no texto de Aristóteles: *per ipsius vitam unumquemque iudicare regum* → “que cada um dos reis julgue por toda a sua vida” (g3-c014 [8], [32]); *per militiam* → “pela malícia” (g3-c014 [11], [39]); *ab expulsione enim quod longe fecit* → “a distância a tornou segura da expulsão” (g3-c015 [12], [53]); *aliarum politiarum opinionem* → “a opinião dos outros cidadãos” (g3-c016 [8], [40]); *Calcedoniorum* em g3-c016 [4] → “cartagineses”.
 - *Cum non sententias velint dare potentum* (g3-c015 [11]) → “quando não querem que se deem sentenças sobre os poderosos”, que admite tanto o grego quanto a leitura de Santo Tomás (g3-c015 [51]).
-- *Litteras* → “escritos” em g3-c014 [5]; “letras” em g3-c015 [8], [42], onde Santo Tomás glosa *litteras, id est leges scriptas*.
+- *Litteras* → “escritos” em g3-c014 [5] e g3-c015 [8], [42].
 - *Minus planae* (g3-c015 [2], [20]) → “menos ajustada”, com a glosa *minus expedite et convenienter*.
 - Inserções editoriais: *(per)* → “(pelas)” (g3-c014 [31]); *(in)* → “(em)” (g3-c015 [43]).
 - Lema *dignius* (g3-c016 [40]), sem destaque na fonte, marcado em negrito itálico como os demais lemas. Marcações quebradas da fonte (`* **`) normalizadas.
@@ -644,7 +644,7 @@ Destino: pt-BR.
 - g5-c016 [180] e [198]: *honorabilitatibus immensis* (texto) e *minores census* (comentário) mantidos, apesar da contradição.
 - g5-c016 [195]: lema *quarum quidem* traduzido como está, embora o texto em [178] diga *quare siquidem*.
 - g5-c016 [200]: *vocant paucorum potentiam*, tautológico, lido como *potentatum* (“potentado”), segundo o texto de Aristóteles em [182].
-- g5-c016 [213]: *odit volentes vivere secundum eas leges* lido “os que querem viver fora dessas leis”, como exige o argumento.
+- g5-c016 [213]: *odit volentes vivere secundum eas leges* traduzido à letra (“os que querem viver segundo essas leis”), embora o argumento pareça pedir a negação.
 - g5-c016 [217]: *aut subiici omnino* lido como *nec*.
 - g5-c016 [241]: *obedire et bene positis* mantido (“às bem postas”), embora o grego tenha “às mal postas”.
 - Notas do tradutor: g5-c016 [^4] (*capite diminutis*, a *capitis deminutio* do direito romano), [^5] (*politeuma*), [^6] (*calusagathos*).
@@ -733,7 +733,7 @@ Destino: pt-BR.
 - g5-c016 [1265]–[1271]: incipits dos lemas 931–936, traduzidos em chamada anterior, citados conforme a tradução já adotada (“Isto, pois, talvez”, “Por isso, mesmo se alguém”, “Mas, se estas coisas”, “Mas nem sem ação”, “Que, pois”).
 - g5-c016 [1290]: *ex parte finis ipsius*, segunda ocorrência, parece erro do latim por *materiae*, como mostra o resto do parágrafo. Foi traduzido à letra: “da parte do próprio fim”.
 - g5-c016 [1290] e seguintes: incipits citados pelo comentário em forma diferente da dos lemas (*putant plerique*, *neque enim fieri*, *est autem civilis*, *de regione autem*, *pater igitur*) remetem ao incipit da tradução portuguesa do lema correspondente.
-- g5-c016 [1279] lema 956: *Civitatis autem potentiam* foi traduzido à letra, “Quanto à potência da cidade”, embora o comentário leia “posição”.
+- g5-c016 [1279] lema 956: *Civitatis autem potentiam* foi traduzido “Quanto ao poder da cidade”, embora o comentário leia “posição”.
 - g5-c016 [1320] lema 965: *supergressivum … pedestrium* foi traduzido “desmedido … pedestre”, segundo a leitura do comentário em [1335]. Em português, “pedestre” guarda o duplo sentido de infantaria e de vulgaridade.
 - g5-c016 [1344] lema 972: o verso de Arquíloco foi traduzido à letra da versão latina, que está alterada; ver [^38].
 - Notas do tradutor: g5-c016 [^36] (Estentor), [^37] (*monocolam* e *evagogi*, transliterações de Moerbeke), [^38] (Arquíloco).
@@ -1429,3 +1429,1607 @@ Verdict: 2 meaning-level, 3 minor. Full read of p7-l11 to p8-l03 with their note
 
 ### Part 8 of 8, Round 4 (codex, delta read)
 Verdict: 0 meaning-level, 0 minor. Verificadas as cinco alterações e lidos integralmente os 14 parágrafos exibidos, suas notas, os alertas aplicáveis, o journal e os metadados pertinentes; nenhum novo defeito encontrado.
+
+### Part terms 1 of 14, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 36 minor. 189 parágrafos sinalizados lidos; 27 apresentam deriva terminológica, com 36 correções.
+- `pt-BR/g1-pr.md` [3]: “oferece aos artífices o modelo” → “oferece aos artesãos o modelo” — *artificibus* → “artesãos” (Key Terms); estava “artífices”.
+- `pt-BR/g2-c002.md` [15]: “que começa com” → “que começa onde diz” — *ibi* introduz a passagem citada: “onde diz” (Key Terms).
+- `pt-BR/g2-c002.md` [55]: “movido pelo artífice” → “movido pelo artesão” — *artifice* → “artesão” (Key Terms); estava “artífice”.
+- `pt-BR/g2-c002.md` [55]: “os artífices principais” → “os artesãos principais” — *artifices* → “artesãos” (Key Terms); estava “artífices”.
+- `pt-BR/g2-c002.md` [60]: “do auxiliar do artífice” → “do auxiliar do artesão” — *artificis* → “artesão” (Key Terms); estava “artífice”.
+- `pt-BR/g2-c003.md` [8]: “Os mansos são, por natureza, mais dignos” → “Os mansos são, segundo a natureza, mais dignos” — *secundum naturam* → “segundo a natureza” (Key Terms); estava “por natureza”.
+- `pt-BR/g2-c003.md` [51]: “são por natureza mais dignos” → “são segundo a natureza mais dignos” — *secundum naturam* → “segundo a natureza” (Key Terms); estava “por natureza”.
+- `pt-BR/g2-c004.md` [52]: “aos grandes príncipes” → “aos grandes governantes” — *principes* → “governantes” (Key Terms); estava “príncipes”.
+- `pt-BR/g2-c006.md` [7]: “não é deleitável por natureza o mesmo” → “não é deleitável segundo a natureza o mesmo” — *secundum naturam* → “segundo a natureza” (Key Terms); estava “por natureza”.
+- `pt-BR/g2-c006.md` [11]: “a suficiência de tal propriedade” → “a suficiência por si de tal propriedade” — *per se sufficientia* → “suficiência por si” (Key Terms); faltava “por si”.
+- `pt-BR/g2-c008.md` [2]: “a posse do dinheiro” → “a possessão do dinheiro” — *possessio* → “possessão” (Key Terms); estava “posse”.
+- `pt-BR/g2-c008.md` [4]: “o cabedal de moeda” → “os haveres em moeda” — *substantiam* no sentido de bens → “haveres” (Key Terms); estava “cabedal”.
+- `pt-BR/g2-c009.md` [3]: “qual é a posse de cavalos” → “qual é a possessão de cavalos” — *possessio* → “possessão” (Key Terms); estava “posse”.
+- `pt-BR/g2-c009.md` [23]: “certa posse de cavalos” → “certa possessão de cavalos” — *possessio* → “possessão” (Key Terms); estava “posse”.
+- `pt-BR/g2-c009.md` [42]: “dos ferreiros e de outros artífices” → “dos ferreiros e de outros artesãos” — *artificum* → “artesãos” (Key Terms); estava “artífices”.
+- `pt-BR/g2-c010.md` [2]: “se disponha fora da natureza” → “se disponha de modo contrário à natureza” — *praeter naturam* → “contrário à natureza” (Key Terms); estava “fora da natureza”.
+- `pt-BR/g2-c010.md` [3]: “querem ser iguais por natureza” → “querem ser iguais segundo a natureza” — *secundum naturam* → “segundo a natureza” (Key Terms); estava “por natureza”.
+- `pt-BR/g2-c010.md` [5]: “acerca da posse das coisas inanimadas” → “acerca da possessão das coisas inanimadas” — *possessionem* → “possessão” (Key Terms); estava “posse”.
+- `pt-BR/g2-c010.md` [5]: “da virtude da posse” → “da virtude da possessão” — *possessionis* → “possessão” (Key Terms); estava “posse”.
+- `pt-BR/g2-c010.md` [9]: “ao fim e ao guia” → “ao fim e ao condutor” — *ductorem* → “condutor” (Key Terms); estava “guia”.
+- `pt-BR/g2-c010.md` [10]: “tratado universal sobre a posse” → “tratado universal sobre a possessão” — *possessione* → “possessão” (Key Terms); estava “posse”.
+- `pt-BR/g2-c010.md` [27]: “aconteça algo fora da natureza” → “aconteça algo contrário à natureza” — *praeter naturam* → “contrário à natureza” (Key Terms); estava “fora da natureza”.
+- `pt-BR/g2-c010.md` [33]: “à posse das coisas inanimadas” → “à possessão das coisas inanimadas” — *possessionem* → “possessão” (Key Terms); estava “posse”.
+- `pt-BR/g2-c010.md` [33]: “à virtude da posse,” → “à virtude da possessão,” — *possessionis* → “possessão” (Key Terms); estava “posse”.
+- `pt-BR/g2-c010.md` [33]: “pela qual a posse é bem administrada” → “pela qual a possessão é bem administrada” — *possessio* → “possessão” (Key Terms); estava “posse”.
+- `pt-BR/g2-c010.md` [48]: “isto é, do artífice principal” → “isto é, do artesão principal” — *artificis* → “artesão” (Key Terms); estava “artífice”.
+- `pt-BR/g2-c010.md` [48]: “assim como o artífice principal dirige” → “assim como o artesão principal dirige” — *artifex* → “artesão” (Key Terms); estava “artífice”.
+- `pt-BR/g2-c010.md` [48]: “ao artífice principal em relação” → “ao artesão principal em relação” — *artifex* → “artesão” (Key Terms); estava “artífice”.
+- `pt-BR/g2-c010.md` [48]: “no chefe do exército” → “no comandante do exército” — *duce exercitus* → “comandante do exército” (Key Terms); estava “chefe do exército”.
+- `pt-BR/g2-c010.md` [49]: “para obedecer ao guia” → “para obedecer ao condutor” — *ductori* → “condutor” (Key Terms); estava “guia”.
+- `pt-BR/g2-c011.md` [2]: “também os artífices deverão” → “também os artesãos deverão” — *artifices* → “artesãos” (Key Terms); estava “artífices”.
+- `pt-BR/g2-c011.md` [3]: “o artífice banáusico” → “o artesão banáusico” — *artifex* → “artesão” (Key Terms); estava “artífice”.
+- `pt-BR/g2-c011.md` [3]: “dos outros artífices” → “dos outros artesãos” — *artificum* → “artesãos” (Key Terms); estava “artífices”.
+- `pt-BR/g2-c011.md` [12]: “os artífices, para” → “os artesãos, para” — *artifices* → “artesãos” (Key Terms); estava “artífices”.
+- `pt-BR/g2-c011.md` [12]: “bons artífices, devem” → “bons artesãos, devem” — *artifices* → “artesãos” (Key Terms); estava “artífices”.
+- `pt-BR/g2-c011.md` [13]: “entre o servo e o artífice” → “entre o servo e o artesão” — *artificem* → “artesão” (Key Terms); estava “artífice”.
+
+### Part terms 1 of 14, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 5 minor. Delta read das 36 mudanças: todas conferem com a fonte; uniformizei “artesão” em g2-c011 [14] e corrigi a linha de *artifex* no Key Terms.
+- `pt-BR/g2-c011.md` [14]: “Mas o artífice está mais afastado” → “Mas o artesão está mais afastado” — artifex; [13] já diz “entre o servo e o artesão” e o argumento continua aqui; mantém a coerência na lição
+- `pt-BR/g2-c011.md` [14]: “pois a operação do artífice enquanto tal” → “pois a operação do artesão enquanto tal” — operatio artificis; mesma coerência com [12]–[13]
+- `pt-BR/g2-c011.md` [14]: “alguém se diz bom artífice” → “alguém se diz bom artesão” — bonus artifex; [12] diz “bons artesãos”
+- `pt-BR/g2-c011.md` [14]: “alguns artífices, como os banáusicos” → “alguns artesãos, como os banáusicos” — aliqui artifices; [3] diz “o artesão banáusico”
+- `pt-BR/translation-journal.md`: “| minister / architector / artifex | auxiliar / arquiteto / artífice |” → “| minister / architector / artifex | auxiliar / arquiteto / artesão |” — a linha contradiz a de *artifices* → “artesãos” e o texto corrigido na rodada anterior (g2-c002 [55], [60]; g2-c010 [48])
+- Rejected: pt-BR/g2-c008.md [2], [5]; g2-c010 [5], [33] — A mesma lição traz “possessão” e “propriedade” para *possessio*, e o Key Terms tem duas linhas: “propriedade” para g2 e “possessão” para g3. — Dentro de cada par texto–comentário (g2-c010 [5] e [33]) o termo é coerente, e nenhuma das duas formas altera o sentido. É uma escolha terminológica defensável, não um erro objetivo.
+- Rejected: pt-BR/g2-c010.md [48] — *duce exercitus* → “comandante”, mas o Key Terms de g5 diz “chefe do exército”. — A linha de g3 (*duces exercitus* → “comandantes do exército”) também cobre esta forma. A correção tem respaldo no Key Terms.
+
+### Part terms 1 of 14, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 2 minor. Verificadas as cinco mudanças, os parágrafos [13]–[15] e a nota fornecida; mudanças corretas, com duas ocorrências residuais de deriva terminológica em [15].
+- `pt-BR/g2-c011.md` [15]: “curtidor ou artífice de arte alguma” → “curtidor ou artesão de arte alguma” — Artifex corresponde a “artesão” na tabela corrigida e nos parágrafos anteriores.
+- `pt-BR/g2-c011.md` [15]: “mas não para ser bom artífice.” → “mas não para ser bom artesão.” — Bonus artifex retoma a mesma expressão de [14]; uniformiza com a tabela corrigida.
+- Rejected: pt-BR/g2-c011.md [15] — A auditoria aponta dois marcadores de ênfase adicionais. — Correspondem ao itálico de *Ética*, previsto no diário; o lema mantém a marcação da fonte.
+
+### Part terms 1 of 14, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of the two changes in g2-c011 [15] and of [14]–[16] with their footnote: both changes are correct and no defects were found.
+- Rejected: pt-BR/g2-c011.md [15] — The two changes from “artífice” to “artesão” might clash with the surrounding text. — *Artifex* → “artesão”, as in the Key Terms row and in [14]. Concord and the sense of the sentence are kept.
+- Rejected: pt-BR/g2-c011.md [15], [16] — The audit counts two more emphasis markers than the source. — The extra markers are the italics of *Ética*, which the journal calls for. The lemmas keep the source's bold italics.
+- Rejected: pt-BR/g2-c011.md [14]–[16] — *Conversatio* is rendered “convívio” although the Key Terms row says “convivência”. — The rendering is the same throughout the lesson and the sense does not change. It is a defensible choice that earlier rounds did not flag.
+
+### Part terms 2 of 14, Round 1 (codex, terms read)
+Verdict: 3 meaning-level, 105 minor. 169 parágrafos sinalizados lidos; 84 com deriva; 1 nota de glossário completada.
+- `pt-BR/g2-c011.md` [14]: “vida, isto é, do convívio humano” → “vida, isto é, da convivência humana” — *conversationis humanae* → “convivência humana” (Key Terms).
+- `pt-BR/g2-c011.md` [14]: “ação, isto é, ao convívio dos homens” → “ação, isto é, à convivência dos homens” — *conversationem hominum* → “convivência dos homens” (Key Terms).
+- `pt-BR/g2-c011.md` [14]: “aperfeiçoam o homem no convívio humano” → “aperfeiçoam o homem na convivência humana” — *conversatione humana* → “convivência humana” (Key Terms).
+- `pt-BR/g2-c011.md` [14]: “mais afastado do convívio humano” → “mais afastado da convivência humana” — *conversatione humana* → “convivência humana” (Key Terms).
+- `pt-BR/g2-c011.md` [14]: “coisas agíveis do convívio humano” → “coisas agíveis da convivência humana” — *conversationis humanae* → “convivência humana” (Key Terms).
+- `pt-BR/g2-c011.md` [14]: “presta de servidão ao convívio humano” → “presta de servidão à convivência humana” — *conversationem humanam* → “convivência humana” (Key Terms).
+- `pt-BR/g2-c011.md` [14]: “isto é, os mercenários, por exemplo os cozinheiros” → “isto é, os assalariados, por exemplo os cozinheiros” — *mercennarii* → “assalariados” (Key Terms); designa trabalhadores remunerados. *(meaning)*
+- `pt-BR/g2-c011.md` [21]: “do colóquio ou convívio de uns com os outros” → “do colóquio ou da convivência de uns com os outros” — *conversatione* → “convivência” (Key Terms).
+- `pt-BR/g2-pr.md` [8]: “e isto não por escolha” → “e isto não por eleição” — *electione* → “eleição” (Key Terms).
+- `pt-BR/g2-pr.md` [36]: “o procurador e administrador de alguma família” → “o intendente e administrador de alguma família” — *procurator* → “intendente” (Key Terms).
+- `pt-BR/g2-pr.md` [37]: “ao qual pertence o principado despótico” → “ao qual pertence o governo despótico” — *despoticus principatus* → “governo despótico” (Key Terms).
+- `pt-BR/g2-pr.md` [51]: “*não por escolha*” → “*não por eleição*” — *non ex electione* → “não por eleição” (Key Terms).
+- `pt-BR/g2-pr.md` [51]: “agir por deliberação e escolha” → “agir por deliberação e eleição” — *electione* → “eleição” (Key Terms).
+- `pt-BR/g2-pr.md` [51]: “isto, pois, não lhe compete por escolha” → “isto, pois, não lhe compete por eleição” — *ex electione* → “por eleição” (Key Terms).
+- `pt-BR/g2-pr.md` [60]: “e príncipes andando como servos” → “e governantes andando como servos” — *principes* → “governantes” (Key Terms).
+- `pt-BR/translation-journal.md`: “| fratrueles / contribules / nepos | primos-irmãos / contríbulos / sobrinho | |” → “| fratrueles / contribules / nepos | primos-irmãos / contríbulos / sobrinho | *Nepos* no sentido de filho de um filho → “neto” (g2-pr [74]). |” — A descendência explicitada por *puerorum pueros* exige “netos”; falta esse sentido na nota.
+- `pt-BR/g3-c001.md` [6]: “as mulheres e as posses, como” → “as mulheres e as possessões, como” — *possessionibus* → “possessões” (Key Terms).
+- `pt-BR/g3-c001.md` [6]: “as mulheres e as posses; isto” → “as mulheres e as possessões; isto” — *possessiones* → “possessões” (Key Terms).
+- `pt-BR/g3-c001.md` [9]: “uma coisa é a aliança de combate” → “uma coisa é a luta em comum” — *compugnatio* → “luta em comum” (Key Terms).
+- `pt-BR/g3-c001.md` [9]: “pois a aliança de combate é feita” → “pois a luta em comum é feita” — *compugnatio* → “luta em comum” (Key Terms).
+- `pt-BR/g3-c001.md` [48]: “os filhos, as esposas e as posses é possível” → “os filhos, as esposas e as possessões é possível” — *possessionibus* → “possessões” (Key Terms).
+- `pt-BR/g3-c001.md` [48]: “que sejam comuns as posses de todos os cidadãos” → “que sejam comuns as possessões de todos os cidadãos” — *possessiones* → “possessões” (Key Terms).
+- `pt-BR/g3-c001.md` [50]: “comunidade das esposas e das posses” → “comunidade das esposas e das possessões” — *possessionum* → “possessões” (Key Terms).
+- `pt-BR/g3-c001.md` [54]: “quanto à comunidade das posses” → “quanto à comunidade das possessões” — *possessionum* → “possessões” (Key Terms).
+- `pt-BR/g3-c002.md` [4]: “nem que o gerado se tenha salvado” → “nem que o gerado se tenha conservado em vida” — *salvatum esse* → “ter-se conservado” (Key Terms); trata da sobrevivência do filho.
+- `pt-BR/g3-c003.md` [14]: “o que é proporcional a cada um salva a amizade” → “o que é proporcional a cada um conserva a amizade” — *salvat* → “conserva” (Key Terms).
+- `pt-BR/g3-c004.md` [5]: “para os serviços domésticos” → “para os serviços de criadas” — *ministrationes ancillares* corresponde a “serviços de criadas” (Key Terms).
+- `pt-BR/g3-c005.md` [2]: “julga que por ela a cidade será boa” → “julga que por ela a cidade será virtuosa” — *civitatem studiosam* → “cidade virtuosa” (Key Terms).
+- `pt-BR/g3-c005.md` [7]: “para salvar a comunidade dos munícipes” → “para conservar a comunidade dos munícipes” — *salvandum* → “conservar” (Key Terms).
+- `pt-BR/g3-c005.md` [42]: “isto é, os mercenários, sejam felizes” → “isto é, os assalariados, sejam felizes” — *mercenarii* → “assalariados” (Key Terms); designa trabalhadores remunerados. *(meaning)*
+- `pt-BR/g3-c005.md` [42]: “não pode salvar-se em sua parte ínfima” → “não pode conservar-se em sua parte ínfima” — *salvari* → “conservar-se” (Key Terms).
+- `pt-BR/g3-c006.md` [19]: “argumenta contra elas, em ***algo de supérfluo” → “argumenta contra elas, onde diz ***algo de supérfluo” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c006.md` [22]: “prossegue o intento, em ***divide-se” → “prossegue o intento, onde diz ***divide-se” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c006.md` [26]: “quanto à disciplina dos cidadãos, em ***e sobre” → “quanto à disciplina dos cidadãos, onde diz ***e sobre” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c006.md` [34]: “Segundo, em ***das leis***” → “Segundo, onde diz ***das leis***” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c006.md` [38]: “contra a ordem das partes da cidade, em ***toda” → “contra a ordem das partes da cidade, onde diz ***toda” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c006.md` [41]: “manifesta o proposto, em ***pois também” → “manifesta o proposto, onde diz ***pois também” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c006.md` [45]: “quanto à distinção, em ***Fídon” → “quanto à distinção, onde diz ***Fídon” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c006.md` [48]: “quanto à quantidade da possessão que fixava, em ***e também” → “quanto à quantidade da possessão que fixava, onde diz ***e também” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c006.md` [54]: “quanto a ter deixado de medir a geração, em ***é inconveniente” → “quanto a ter deixado de medir a geração, onde diz ***é inconveniente” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c006.md` [57]: “Põe a segunda razão em ***além disso” → “Põe a segunda razão onde diz ***além disso” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c006.md` [60]: “Segundo, em ***como se ela” → “Segundo, onde diz ***como se ela” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c006.md` [61]: “Terceiro, em ***agora, de fato***” → “Terceiro, onde diz ***agora, de fato***” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c006.md` [62]: “Quarto, em ***mais, porém” → “Quarto, onde diz ***mais, porém” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c006.md` [63]: “Quinto, em ***e fixar” → “Quinto, onde diz ***e fixar” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c006.md` [64]: “Sexto, em ***e deixá-la***” → “Sexto, onde diz ***e deixá-la***” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c006.md` [67]: “Segundo, em ***foi deixado” → “Segundo, onde diz ***foi deixado” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c006.md` [68]: “Terceiro, em ***e, como permite” → “Terceiro, onde diz ***e, como permite” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c006.md` [69]: “Quarto, em ***e também a divisão” → “Quarto, onde diz ***e também a divisão” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c007.md` [11]: “que é perigoso que os elegíveis sejam tirados dos eleitos” → “que é perigoso que os governantes eletivos sejam tirados dos eleitos” — *eligibiles* → “eletivos” (Key Terms); trata dos escolhidos por eleição, não apenas de quem pode ser eleito. *(meaning)*
+- `pt-BR/g3-c007.md` [14]: “quanto aos governantes, em ***alguns” → “quanto aos governantes, onde diz ***alguns” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c007.md` [20]: “reprova-a, em ***as quais” → “reprova-a, onde diz ***as quais” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c007.md` [23]: “Sócrates os misturava, em ***nestas leis” → “Sócrates os misturava, onde diz ***nestas leis” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c007.md` [28]: “convenientes a esta mistura, em ***depois” → “convenientes a esta mistura, onde diz ***depois” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c007.md` [32]: “eram em si mesmas perigosas, em ***tem também” → “eram em si mesmas perigosas, onde diz ***tem também” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c007.md` [35]: “manifesta o proposto, em ***é patente” → “manifesta o proposto, onde diz ***é patente” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c007.md` [36]: “fazer-se a referida mistura, em ***como” → “fazer-se a referida mistura, onde diz ***como” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c007.md` [40]: “acerca da eleição dos conselhos, em ***faz” → “acerca da eleição dos conselhos, onde diz ***faz” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c008.md` [15]: “quanto ao que dizia bem, em ***que” → “quanto ao que dizia bem, onde diz ***que” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c008.md` [16]: “quanto àquilo em que falhava, em ***mas” → “quanto àquilo em que falhava, onde diz ***mas” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c008.md` [19]: “expõe a ordenação deste regime, em ***pois” → “expõe a ordenação deste regime, onde diz ***pois” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c008.md` [24]: “Terceiro, em ***Platão” → “Terceiro, onde diz ***Platão” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c008.md` [25]: “Quarto, em ***mas também” → “Quarto, onde diz ***mas também” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c008.md` [28]: “Segundo, em ***isto, porém” → “Segundo, onde diz ***isto, porém” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c008.md` [31]: “regulado convenientemente as substâncias, em ***do mesmo modo” → “regulado convenientemente as substâncias, onde diz ***do mesmo modo” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c008.md` [32]: “disposto inconvenientemente acerca dos artesãos, em ***parece” → “disposto inconvenientemente acerca dos artesãos, onde diz ***parece” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c008.md` [35]: “o que pertence à paz da cidade, em ***além disso” → “o que pertence à paz da cidade, onde diz ***além disso” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c008.md` [36]: “o que pertence à convivência civil, em ***além disso” → “o que pertence à convivência civil, onde diz ***além disso” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c008.md` [39]: “Põe a segunda razão em ***além disso” → “Põe a segunda razão onde diz ***além disso” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c008.md` [42]: “Segundo, em ***mas talvez” → “Segundo, onde diz ***mas talvez” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c008.md` [45]: “Põe a segunda razão em ***não só” → “Põe a segunda razão onde diz ***não só” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c008.md` [46]: “Põe a terceira razão em ***cometem” → “Põe a terceira razão onde diz ***cometem” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c009.md` [9]: “certo príncipe chamado Autofradates” → “certo governante chamado Autofradates” — *princeps* → “governante” (Key Terms).
+- `pt-BR/g3-c009.md` [9]: “aquele príncipe desistiu do cerco” → “aquele governante desistiu do cerco” — *princeps* → “governante” (Key Terms).
+- `pt-BR/g3-c009.md` [10]: “Põe a segunda razão em ***há” → “Põe a segunda razão onde diz ***há” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c009.md` [11]: “Põe a terceira razão em ***além disso” → “Põe a terceira razão onde diz ***além disso” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c009.md` [13]: “Põe a quarta razão em ***não falou” → “Põe a quarta razão onde diz ***não falou” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c009.md` [13]: “de escravos, de animais, de dinheiro” → “de escravos, de animais, de moedas” — *denariorum* → “moedas” (Key Terms).
+- `pt-BR/g3-c010.md` [10]: “que ele mesmo instituiu, em ***construiu” → “que ele mesmo instituiu, onde diz ***construiu” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c010.md` [11]: “reprova-o quanto a algumas coisas, em ***duvidará” → “reprova-o quanto a algumas coisas, onde diz ***duvidará” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c010.md` [14]: “expõe o seu modo de viver” → “expõe o seu modo de vida” — *conversationem* no sentido de vida privada → “modo de vida” (Key Terms).
+- `pt-BR/g3-c010.md` [18]: “quanto aos julgamentos,” → “quanto aos juízos,” — *iudicia* → “juízos” (Key Terms).
+- `pt-BR/g3-c010.md` [18]: “em ***pensou, porém” → “onde diz ***pensou, porém” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c010.md` [19]: “quanto à disciplina dos cidadãos, em ***além disso” → “quanto à disciplina dos cidadãos, onde diz ***além disso” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c010.md` [22]: “como dividiu as possessões da cidade, em ***dividia” → “como dividiu as possessões da cidade, onde diz ***dividia” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c010.md` [25]: “quanto aos julgamentos” → “quanto aos juízos” — *iudicia* → “juízos” (Key Terms).
+- `pt-BR/g3-c010.md` [27]: “as leis dos julgamentos eram” → “as leis dos juízos eram” — *iudiciorum* → “juízos” (Key Terms).
+- `pt-BR/g3-c010.md` [27]: “os homens litigam nos julgamentos” → “os homens litigam nos tribunais” — *in iudiciis* no sentido de foro judicial → “nos tribunais” (Key Terms).
+- `pt-BR/g3-c010.md` [28]: “Segundo, em ***estabeleceu” → “Segundo, onde diz ***estabeleceu” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c010.md` [28]: “que este julgamento fosse confiado” → “que este juízo fosse confiado” — *iudicium* → “juízo” (Key Terms).
+- `pt-BR/g3-c010.md` [29]: “Terceiro, em ***os julgamentos” → “Terceiro, onde diz ***os julgamentos” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c010.md` [32]: “Põe a segunda lei em ***e aos filhos” → “Põe a segunda lei onde diz ***e aos filhos” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c010.md` [33]: “Põe a terceira lei em ***os governantes” → “Põe a terceira lei onde diz ***os governantes” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c010.md` [34]: “sobre o ofício dos governantes, em ***os eleitos” → “sobre o ofício dos governantes, onde diz ***os eleitos” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c011.md` [2]: “se constituam os chefes do exército” → “se constituam os comandantes do exército” — *duces exercitus* → “comandantes do exército” (Key Terms).
+- `pt-BR/g3-c011.md` [11]: “acerca do julgamento,” → “acerca do juízo,” — *iudicio* → “juízo” (Key Terms).
+- `pt-BR/g3-c011.md` [11]: “em ***tampouco acerca” → “onde diz ***tampouco acerca” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c011.md` [11]: “do julgamento***” → “do juízo***” — *de iudicio* → “acerca do juízo” (Key Terms).
+- `pt-BR/g3-c011.md` [12]: “acerca da disciplina dos cidadãos, em ***quanto” → “acerca da disciplina dos cidadãos, onde diz ***quanto” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c011.md` [15]: “quanto às possessões, em ***além disso” → “quanto às possessões, onde diz ***além disso” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c011.md` [18]: “quanto aos guerreiros, em ***mas” → “quanto aos guerreiros, onde diz ***mas” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c011.md` [19]: “quanto aos agricultores, em ***além disso” → “quanto aos agricultores, onde diz ***além disso” — *ibi* em remissão → “onde diz” (Key Terms).
+- `pt-BR/g3-c011.md` [20]: “que os chefes do exército” → “que os comandantes do exército” — *duces exercitus* → “comandantes do exército” (Key Terms).
+- `pt-BR/g3-c011.md` [26]: “a razão do estatuto, em ***além disso” → “a razão do estatuto, onde diz ***além disso” — *ibi* em remissão → “onde diz” (Key Terms).
+- NOT APPLIED (old text not found exactly once (0)): - `pt-BR/g2-c011.md` [14]: “Mas o artífice está” → “Mas o artesão está” — *artifex* → “artesão” (Key Terms); era “artífice”.
+- NOT APPLIED (old text not found exactly once (0)): - `pt-BR/g2-c011.md` [14]: “operação do artífice enquanto tal” → “operação do artesão enquanto tal” — *artificis* → “artesão” (Key Terms).
+- NOT APPLIED (old text not found exactly once (0)): - `pt-BR/g2-c011.md` [14]: “alguém se diz bom artífice” → “alguém se diz bom artesão” — *artifex* → “artesão” (Key Terms).
+- NOT APPLIED (old text not found exactly once (0)): - `pt-BR/g2-c011.md` [14]: “alguns artífices, como os banáusicos” → “alguns artesãos, como os banáusicos” — *artifices* → “artesãos” (Key Terms).
+
+### Part terms 2 of 14, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 5 minor. Delta read of part 2/14: the previous round's terminology changes are correct. Fixed five minor defects: one rendering reverted to the journal's decision (g3-c005 [2]) and four stray italics on transliterated Greek terms.
+- `pt-BR/g3-c005.md` [2]: “julga que por ela a cidade será virtuosa” → “julga que por ela a cidade será boa” — The journal's Decisões fix *studiosam* here as “boa”, following Santo Tomás's reading. The previous round overrode this with the general Key Terms row and gave no new argument.
+- `pt-BR/g3-c005.md` [2]: “ou do *rithmon* uma só base” → “ou do rithmon uma só base” — Key Terms: rithmon keeps the source spelling, without italics. The source has no italics here (the audit flags 0 vs 2).
+- `pt-BR/g3-c005.md` [42]: “os agricultores e os *banausi*, isto é” → “os agricultores e os banausi, isto é” — Key Terms: banausi keeps the source spelling, without italics. The source has no italics here.
+- `pt-BR/g3-c002.md` [5]: “descrevem o *peryodus* da terra” → “descrevem o peryodus da terra” — Key Terms: peryodus keeps the source spelling, without italics. The source has no italics here (the audit flags 0 vs 2).
+- `pt-BR/g3-c009.md` [12]: “os que são *epyikes* por natureza” → “os que são epyikes por natureza” — Key Terms: epieikeis / epyikes keep the source spelling, without italics. The source has no italics here (the audit flags 0 vs 2).
+- Rejected: pt-BR/g3-c007.md [11] — “governantes eletivos” adds a word that is not in the source. — The sentence opens *circa electionem principum*, so *eligibiles* refers to the officials. Naming them only makes explicit the two-stage election the source describes.
+- Rejected: pt-BR/g3-c005.md [8] — Length outlier (160% of the source). — The expansion clarifies an elliptical clause in Moerbeke's Latin. No content is added or lost.
+- Rejected: pt-BR/g3-c010.md [29] — The lemma still reads “os julgamentos” after *iudicia* became “juízos” elsewhere. — Lemmas follow the Portuguese of Aristotle's text, which is not shown in this delta read.
+
+### Part terms 2 of 14, Round 3 (codex, delta read)
+Verdict: 2 meaning-level, 1 minor. Verificadas as cinco alterações, os 13 blocos apresentados e as três notas: dois defeitos de sentido e uma contagem incorreta no diário.
+- `pt-BR/g3-c002.md` [6]: “Mas, na verdade, ainda que isto seja o melhor” → “Mas, na verdade, nem sequer se isto for o melhor” — O lema contém neque si, “nem sequer se”; a tradução omite a negação. *(meaning)*
+- `pt-BR/g3-c005.md` [2]: “as coisas relativas às possessões por meio dos banquetes” → “as coisas relativas às possessões para os banquetes” — Pro conviviis indica a finalidade da propriedade posta em comum: os banquetes, não o meio de torná-la comum. *(meaning)*
+- `pt-BR/translation-journal.md`: “Fixed six minor defects: one rendering reverted to the journal's decision (g3-c005 [2]) and five stray italics on transliterated Greek terms.” → “Fixed five minor defects: one rendering reverted to the journal's decision (g3-c005 [2]) and four stray italics on transliterated Greek terms.” — A rodada enumera cinco correções: uma de tradução e quatro de itálico.
+- Rejected: pt-BR/g3-c005.md [2] — Studiosam deveria voltar a ser traduzido por “virtuosa”. — A decisão específica do diário estabelece “boa” neste trecho; a correção verificada restaura essa decisão.
+- Rejected: pt-BR/g3-c005.md [42] — A diferença no número de marcadores de ênfase indicaria formatação indevida. — A marcação partida do lema foi normalizada conforme o diário, e o título português Ética recebe o itálico previsto na tabela.
+
+### Part terms 2 of 14, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of part 2/14: the three previous fixes (g3-c002 [6] negation, g3-c005 [2] pro conviviis, journal count) are correct; g3-c002 [5]-[7], g3-c005 [1]-[3] and their notes are clean.
+- Rejected: pt-BR/g3-c005.md [2] — “para os banquetes” could misread the Greek, which uses an instrumental dative (common meals as the means of sharing property). On that reading the earlier “por meio dos banquetes” would be closer. — The canonical source is Moerbeke's Latin, and *pro* + ablative is naturally “for”. The new rendering is a faithful literal reading of *pro conviviis*, not a mistranslation.
+- Rejected: pt-BR/g3-c002.md [6] — The lemma's new wording might no longer match the opening of the Aristotelian text paragraph. — The Aristotelian paragraph is not shown in this delta read, so a mismatch cannot be confirmed. On its own the lemma now renders *neque si* correctly, consistent with Santo Tomás's gloss in [7] (*dato quod… non tamen*).
+- Rejected: pt-BR/g3-c002.md [7] — The audit flags more emphasis markers in the translation (28 in the source, 32 in pt-BR). — The extra markers come from italicizing *todos* for *li omnes*, as the journal's Decisões prescribe.
+
+### Part terms 3 of 14, Round 1 (codex, terms read)
+Verdict: 3 meaning-level, 120 minor. 180 parágrafos sinalizados lidos; 110 apresentaram deriva terminológica.
+- `pt-BR/g3-c011.md` [29]: “Põe a segunda razão em” → “Põe a segunda razão onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c012.md` [10]: “quanto à divisão e aos julgamentos” → “quanto à divisão e aos juízos” — iudicia → “juízos” (Key Terms); estava “julgamentos”.
+- `pt-BR/g3-c012.md` [12]: “levanta algumas questões, em” → “levanta algumas questões, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c012.md` [16]: “por quem e como, em” → “por quem e como, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c012.md` [19]: “aduz razões em contrário, em” → “aduz razões em contrário, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c012.md` [22]: “Põe a segunda razão em” → “Põe a segunda razão onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c012.md` [23]: “Põe a terceira razão em” → “Põe a terceira razão onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c012.md` [24]: “Põe a quarta razão em” → “Põe a quarta razão onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c012.md` [27]: “resolve uma das razões aduzidas, em” → “resolve uma das razões aduzidas, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c013.md` [4]: “à escolha do regime” → “à eleição do regime” — electio → “eleição” (Key Terms); estava “escolha”.
+- `pt-BR/g3-c013.md` [15]: “do regime dos cretenses, em” → “do regime dos cretenses, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c013.md` [16]: “do regime dos cartagineses,[^3] em” → “do regime dos cartagineses,[^3] onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c013.md` [19]: “trata do regime dos lacedemônios, em” → “trata do regime dos lacedemônios, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c013.md` [23]: “quanto à ordem dos próprios cidadãos, em” → “quanto à ordem dos próprios cidadãos, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c013.md` [26]: “o que pertence às mulheres, em” → “o que pertence às mulheres, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c013.md` [27]: “o que pertence às possessões, em” → “o que pertence às possessões, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c013.md` [31]: “ou de qualquer modo tratar com eles” → “ou de qualquer modo conviver com eles” — conversari → “conviver” (Key Terms); estava “tratar”.
+- `pt-BR/g3-c013.md` [34]: “observavam acerca disto, em” → “observavam acerca disto, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c013.md` [35]: “se seguiam desta observância, em” → “se seguiam desta observância, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c013.md` [36]: “qual foi a causa desta observância, em” → “qual foi a causa desta observância, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c013.md` [38]: “para a escolha do regime” → “para a eleição do regime” — electio → “eleição” (Key Terms); estava “escolha”.
+- `pt-BR/g3-c013.md` [44]: “Põe o segundo inconveniente em” → “Põe o segundo inconveniente onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c013.md` [45]: “Põe o terceiro inconveniente em” → “Põe o terceiro inconveniente onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c013.md` [46]: “Põe o quarto inconveniente em” → “Põe o quarto inconveniente onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c013.md` [50]: “é contrário à intenção do legislador, em” → “é contrário à intenção do legislador, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c013.md` [53]: “mostra de onde provinha, em” → “mostra de onde provinha, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c013.md` [54]: “mostra o dano que disto se seguiu, em” → “mostra o dano que disto se seguiu, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c014.md` [3]: “o povo se governasse a si mesmo” → “o povo se regesse a si mesmo” — regere → “reger” (Key Terms); estava “governar”.
+- `pt-BR/g3-c014.md` [3]: “para salvar o regime” → “para conservar o regime” — salvare → “conservar” (Key Terms), na conservação do regime.
+- `pt-BR/g3-c014.md` [5]: “de julgamentos grandes são senhores” → “de grandes juízos são senhores” — iudicia → “juízos” (Key Terms); estava “julgamentos”.
+- `pt-BR/g3-c014.md` [6]: “senhores de grandes julgamentos” → “senhores de grandes juízos” — iudicia → “juízos” (Key Terms); estava “julgamentos”.
+- `pt-BR/g3-c014.md` [7]: “é pueril quanto ao critério” → “é pueril quanto ao juízo” — iudicium → “juízo” (Key Terms); estava “critério”.
+- `pt-BR/g3-c014.md` [11]: “por não saberem ter vagar” → “por não saberem estar em ócio” — vacare → “estar em ócio” (Key Terms); estava “ter vagar”.
+- `pt-BR/g3-c014.md` [14]: “Segundo, quanto ao povo, em” → “Segundo, quanto ao povo, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c014.md` [15]: “quanto aos homens guerreiros, em” → “quanto aos homens guerreiros, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c014.md` [17]: “destes trata em segundo lugar, em” → “destes trata em segundo lugar, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c014.md` [18]: “deste trata em terceiro lugar, em” → “deste trata em terceiro lugar, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c014.md` [20]: “sobre a escolha dos soldados” → “sobre a eleição dos soldados” — electiones → “eleição” (Key Terms); estava “escolha”.
+- `pt-BR/g3-c014.md` [21]: “Segundo, em ***e, por ser o cargo***” → “Segundo, onde diz ***e, por ser o cargo***” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c014.md` [21]: “o povo se governasse a si mesmo” → “o povo se regesse a si mesmo” — regere → “reger” (Key Terms); estava “governar”.
+- `pt-BR/g3-c014.md` [22]: “Terceiro, em ***mas devia ser eletivo***” → “Terceiro, onde diz ***mas devia ser eletivo***” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c014.md` [23]: “Quarto, em” → “Quarto, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c014.md` [23]: “***além disso, também de julgamentos***” → “***além disso, também de juízos***” — iudicia → “juízos” (Key Terms); estava “julgamentos”.
+- `pt-BR/g3-c014.md` [24]: “Quinto, em ***e também a dieta***” → “Quinto, onde diz ***e também a dieta***” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c014.md` [27]: “Segundo, quanto à eleição deles, em” → “Segundo, quanto à eleição deles, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c014.md` [28]: “sobre os grandes julgamentos da cidade” → “sobre os grandes juízos da cidade” — iudicia → “juízos” (Key Terms); estava “julgamentos”.
+- `pt-BR/g3-c014.md` [31]: “Põe a segunda razão em” → “Põe a segunda razão onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c014.md` [36]: “de modo comum, quanto a todos, em” → “de modo comum, quanto a todos, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c014.md` [37]: “quanto aos estipêndios deles, em” → “quanto aos estipêndios deles, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c014.md` [39]: “porque não sabiam ter vagar” → “porque não sabiam estar em ócio” — vacare → “estar em ócio” (Key Terms); estava “ter vagar”.
+- `pt-BR/g3-c014.md` [40]: “fez os *ydiotas*, isto é” → “fez os homens comuns, isto é” — ydiote → “homens comuns” (Key Terms); o termo havia sido mantido em latim.
+- `pt-BR/g3-c015.md` [8]: “não segundo letras” → “não segundo os escritos” — secundum litteras → “segundo os escritos” (Key Terms); estava “segundo letras”.
+- `pt-BR/g3-c015.md` [12]: “salva-se por causa do lugar” → “conserva-se por causa do lugar” — salvare → “conservar” (Key Terms), na conservação da cidade.
+- `pt-BR/g3-c015.md` [15]: “Segundo, reprova-o, em” → “Segundo, reprova-o, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c015.md` [18]: “assinala a razão da comparação posta, em” → “assinala a razão da comparação posta, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c015.md` [19]: “explica em especial a referida comparação, em” → “explica em especial a referida comparação, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c015.md` [23]: “a causa por que o cretense foi anterior, em” → “a causa por que o cretense foi anterior, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c015.md` [28]: “em que coisas o regime cretense está melhor, em” → “em que coisas o regime cretense está melhor, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c015.md` [29]: “em que coisas está pior, em” → “em que coisas está pior, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c015.md` [32]: “que significa varão, porque só os varões” → “que significa homem, porque só os homens” — vir → “homem” (Key Terms); estava “varão”, também no plural viri.
+- `pt-BR/g3-c015.md` [38]: “quanto aos remédios que empregavam, em” → “quanto aos remédios que empregavam, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c015.md` [41]: “exclui certa resposta, em” → “exclui certa resposta, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c015.md` [46]: “Segundo, reprova-os, em” → “Segundo, reprova-os, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c015.md` [49]: “contra o próprio cargo, em” → “contra o próprio cargo, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c016.md` [6]: “governe bem e tenha vagar” → “governe bem e esteja em ócio” — vacare → “estar em ócio” (Key Terms); estava “ter vagar”.
+- `pt-BR/g3-c016.md` [7]: “os melhores possam ter vagar” → “os melhores possam estar em ócio” — vacare → “estar em ócio” (Key Terms); estava “ter vagar”.
+- `pt-BR/g3-c016.md` [8]: “por causa do vagar” → “por causa do ócio” — vacatio → “ócio” (Key Terms); estava “vagar”.
+- `pt-BR/g3-c016.md` [9]: “cuidasse do vagar dos que governam” → “cuidasse do ócio dos que governam” — vacatio → “ócio” (Key Terms); estava “vagar”.
+- `pt-BR/g3-c016.md` [10]: “e mais demótico” → “e mais democrático” — demoticus → “democrático” (Key Terms); estava “demótico”.
+- `pt-BR/g3-c016.md` [14]: “a conveniência deste regime com os precedentes, em” → “a conveniência deste regime com os precedentes, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c016.md` [15]: “reprova algumas coisas acerca dele, em” → “reprova algumas coisas acerca dele, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c016.md` [22]: “não concordava com a intenção do legislador, em” → “não concordava com a intenção do legislador, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c016.md` [26]: “se desviava mais para a oligarquia, em” → “se desviava mais para a oligarquia, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c016.md` [27]: “o remédio que contra isto aplicavam, em” → “o remédio que contra isto aplicavam, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c016.md` [30]: “das quais põe a segunda em” → “das quais põe a segunda onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c016.md` [33]: “Segundo, reprova-o, em” → “Segundo, reprova-o, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c016.md` [37]: “Segundo, a própria ordenação, em” → “Segundo, a própria ordenação, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c016.md` [40]: “para que possam ter vagar” → “para que possam estar em ócio” — vacare → “estar em ócio” (Key Terms); estava “ter vagar”.
+- `pt-BR/g3-c016.md` [40]: “Segundo, em ***mais digno***” → “Segundo, onde diz ***mais digno***” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c016.md` [40]: “pudessem ter vagar.” → “pudessem estar em ócio.” — vacare → “estar em ócio” (Key Terms); estava “ter vagar”.
+- `pt-BR/g3-c016.md` [41]: “mais político e demótico” → “mais político e democrático” — demoticus → “democrático” (Key Terms); estava “demótico”.
+- `pt-BR/g3-c017.md` [3]: “o pretório, demótico” → “o pretório, democrático” — demoticus → “democrático” (Key Terms); estava “demótico”.
+- `pt-BR/g3-c017.md` [8]: “a irregularidade das propriedades” → “a irregularidade dos haveres” — substantia, no sentido de bens, → “haveres” (Key Terms); estava “propriedades”.
+- `pt-BR/g3-c017.md` [8]: “dos filhos e da propriedade” → “dos filhos e dos haveres” — substantia, no sentido de bens, → “haveres” (Key Terms); estava “propriedade”.
+- `pt-BR/g3-c017.md` [8]: “mas para o que é útil” → “mas para o proveito” — conferens → “proveito” (Key Terms); estava “o que é útil”.
+- `pt-BR/g3-c017.md` [11]: “alguns que instituíram regimes, em” → “alguns que instituíram regimes, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c017.md` [12]: “alguns que foram legisladores, em” → “alguns que foram legisladores, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c017.md` [16]: “como era repreendido por alguns, em” → “como era repreendido por alguns, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c017.md` [17]: “Terceiro, escusa-o, em” → “Terceiro, escusa-o, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c017.md` [20]: “***E o pretório***” → “***E o tribunal***” — praetorium → “tribunal” (Key Terms); estava “pretório”.
+- `pt-BR/g3-c017.md` [20]: “os pretórios, isto é” → “os tribunais, isto é” — praetoria → “tribunais” (Key Terms); estava “pretórios”.
+- `pt-BR/g3-c017.md` [21]: “quando instituiu o pretório” → “quando instituiu o tribunal” — praetorium → “tribunal” (Key Terms); estava “pretório”.
+- `pt-BR/g3-c017.md` [23]: “***a partir dos insignes***” → “***a partir dos notáveis***” — insignes → “notáveis” (Key Terms); estava “insignes”.
+- `pt-BR/g3-c017.md` [29]: “Segundo, que leis promulgaram, em” → “Segundo, que leis promulgaram, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g3-c017.md` [32]: “de alguns legisladores da Grécia, em” → “de alguns legisladores da Grécia, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g4-c001.md` [4]: “por participar do julgamento e do cargo” → “por participar do juízo e do cargo” — iudicium → “juízo” (Key Terms); estava “julgamento”.
+- `pt-BR/g4-c001.md` [5]: “nas coisas em que os sujeitos diferem em espécie” → “nas coisas em que os supósitos diferem em espécie” — supposita → “supósitos” (Key Terms); designa os indivíduos subsistentes comparados, não sujeitos em sentido genérico. *(meaning)*
+- `pt-BR/g4-c001.md` [10]: “no princípio do sétimo livro, em” → “no princípio do sétimo livro, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g4-c001.md` [13]: “no quarto livro, em” → “no quarto livro, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g4-c001.md` [16]: “Na segunda, divide os regimes, em” → “Na segunda, divide os regimes, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g4-c001.md` [19]: “Na segunda, prossegue o proposto, em” → “Na segunda, prossegue o proposto, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g4-c001.md` [22]: “o que é o cidadão, em” → “o que é o cidadão, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g4-c001.md` [31]: “a virtude que faz o bom cidadão, em” → “a virtude que faz o bom cidadão, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g4-c001.md` [34]: “levanta acerca disto algumas dúvidas, em” → “levanta acerca disto algumas dúvidas, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g4-c001.md` [37]: “exclui uma determinação falsa, em” → “exclui uma determinação falsa, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g4-c001.md` [40]: “o que é o cidadão simplesmente, em” → “o que é o cidadão simplesmente, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g4-c001.md` [44]: “não é comum a todo regime, em” → “não é comum a todo regime, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g4-c001.md` [45]: “como pode ser corrigida para que seja comum, em” → “como pode ser corrigida para que seja comum, onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g4-c001.md` [47]: “em todas as coisas em que os sujeitos diferem em espécie” → “em todas as coisas em que os supósitos diferem em espécie” — supposita → “supósitos” (Key Terms); designa os indivíduos subsistentes comparados, não sujeitos em sentido genérico. *(meaning)*
+- `pt-BR/g4-c001.md` [47]: “os cidadãos populares não participam do julgamento” → “os cidadãos populares não participam do juízo” — iudicium → “juízo” (Key Terms); estava “julgamento”.
+- `pt-BR/g4-c001.md` [48]: “não aquele que participa do julgamento e da assembleia” → “não aquele que participa do juízo e da assembleia” — iudicium → “juízo” (Key Terms); estava “julgamento”.
+- `pt-BR/g4-c001.md` [49]: “pelos artífices de almofarizes” → “pelos artesãos de almofarizes” — artifices → “artesãos” (Key Terms); estava “artífices”.
+- `pt-BR/g4-c002.md` [10]: “Levanta a segunda dúvida em” → “Levanta a segunda dúvida onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g4-c002.md` [11]: “Põe a terceira dúvida em” → “Põe a terceira dúvida onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g4-c002.md` [12]: “Põe a quarta dúvida em” → “Põe a quarta dúvida onde diz” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g4-c002.md` [14]: “Segundo, em ***a investigação superficial***” → “Segundo, onde diz ***a investigação superficial***” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g4-c002.md` [15]: “que toca em ***do mesmo modo, acerca dos homens***” → “que toca onde diz ***do mesmo modo, acerca dos homens***” — ibi → “onde diz” (Key Terms).
+- `pt-BR/g4-c003.md` [7]: “quando não exercia a tirania” → “quando exercia a tirania” — O SRC fornecido diz “quando tyrannizat”, sem negação; o PT inverte a afirmação. *(meaning)*
+- `pt-BR/g4-c003.md` [7]: “não sabia ser *ydiota*” → “não sabia ser um particular” — idiota → “particular” (Key Terms), em oposição ao governante; estava mantido em latim.
+- `pt-BR/g4-c003.md` [10]: “está o artífice” → “está o artesão” — artifex → “artesão” (Key Terms); estava “artífice”.
+- `pt-BR/g4-c003.md` [10]: “*banausus*” → “banáusico” — banausus → “banáusico” (Key Terms); estava mantido em latim.
+- `pt-BR/g4-c003.md` [10]: “antigamente os artífices” → “antigamente os artesãos” — artifices → “artesãos” (Key Terms); estava “artífices”.
+- `pt-BR/g4-c003.md` [10]: “por conveniência sua para consigo mesmo” → “por proveito seu para consigo mesmo” — oportunitas → “proveito” (Key Terms); estava “conveniência”.
+
+### Part terms 3 of 14, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 9 minor. Delta read of the 123 changes in g3-c011–g4-c003: one meaning fix (restored the recorded negation in g4-c003 [7]), consistency fixes for the tribunal lemma (g3-c017), litteras (g3-c015 [42]) and iudicium (g4-c001 [46]), and four Key Terms or Decisões entries made false by the changes.
+- `pt-BR/g4-c003.md` [7]: “dizia ter fome quando exercia a tirania” → “dizia ter fome quando não exercia a tirania” — The journal (Decisões) records that this passage deliberately follows Santo Tomás's reading in [30], which matches the Greek (hóte mē tyrannoî). Without the negation, “como quem não sabia ser um particular” makes no sense. The previous round's change reverses a recorded decision without a new argument. *(meaning)*
+- `pt-BR/g3-c017.md` [3]: “e o pretório, democrático” → “e o tribunal, democrático” — The lemma *Praetorium autem* in [20] now reads ***E o tribunal***. The Aristotle text it quotes must match it, as the journal requires for lemmas.
+- `pt-BR/g3-c017.md` [3]: “fazendo os pretórios a partir de todos” → “fazendo os tribunais a partir de todos” — praetoria → “tribunais”, as in the commentary at [20].
+- `pt-BR/g3-c017.md` [4]: “ao fazer senhor de tudo o pretório” → “ao fazer senhor de tudo o tribunal” — praetorium → “tribunal”, as in the commentary at [21].
+- `pt-BR/g3-c015.md` [42]: “não governavam segundo letras, isto é” → “não governavam segundo os escritos, isto é” — Aristotle's text at [8] now reads “segundo os escritos”. The commentary's gloss must quote the same rendering (Key Terms: secundum litteras → segundo os escritos).
+- `pt-BR/g4-c001.md` [46]: “participar na cidade do julgamento” → “participar na cidade do juízo” — iudicium → “juízo”, as in [4] and [47], which now say “participar do juízo”.
+- `pt-BR/translation-journal.md`: “- *Litteras* → “escritos” em g3-c014 [5]; “letras” em g3-c015 [8], [42], onde Santo Tomás glosa *litteras, id est leges scriptas*.” → “- *Litteras* → “escritos” em g3-c014 [5] e g3-c015 [8], [42].” — g3-c015 [8] and [42] now say “escritos”.
+- `pt-BR/translation-journal.md`: “pentarquias / demos / demótico” → “pentarquias / demos / democrático” — “demótico” no longer occurs; demoticum → “democrático”.
+- `pt-BR/translation-journal.md`: “, aristarchizare, ydiotas |” → “, aristarchizare |” — *ydiotas* is now translated (“homens comuns”, g3-c014 [40]), not kept in the source spelling.
+- `pt-BR/translation-journal.md`: “| autarkia, banausus, symposiarchizare, medignos, iugarios, ydiota, epieikes |” → “| autarkia, medignos, iugarios, epieikes |” — banausus → “banáusico” and ydiota → “particular” (g4-c003 [7], [10]); *symposiarchizare* is translated in g3-c017 [8]. None of them occurs in the source spelling.
+- Rejected: pt-BR/g3-c016.md [34], [38] — “ter vagar para” left over from *vacare* while the neighbours now use “estar em ócio”. — Here *vacare* takes an object (*negotiis*, *operibus*). “Estar em ócio para os negócios” would say the opposite; “ter vagar para” is correct.
+- Rejected: pt-BR/g3-c014.md [40] — ydiotas → “homens comuns” while Aristotle's text in [11] has “particulares”. — Both match Key Terms rows and the commentary glosses the term itself (“pessoas privadas e vis”). The sense is unchanged.
+
+### Part terms 3 of 14, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as dez alterações, todos os parágrafos apresentados e suas notas; nenhum novo defeito objetivo encontrado.
+- Rejected: pt-BR/g4-c003.md [7] — A negação em “quando não exercia a tirania” não consta do SRC apresentado. — A tradução segue expressamente a leitura de Santo Tomás registrada nas Decisões; a restauração respeita essa decisão e o contexto de não saber viver como particular.
+
+### Part terms 4 of 14, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 88 minor. 181 parágrafos sinalizados conferidos; deriva em 71 parágrafos e uma entrada do glossário complementada.
+- `pt-BR/g4-c003.md` [15]: “em ***acerca do cidadão, porém***” → “onde diz ***acerca do cidadão, porém***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g4-c003.md` [18]: “em ***mas talvez seja de alguém***” → “onde diz ***mas talvez seja de alguém***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g4-c003.md` [21]: “em ***assim como, pois, o marinheiro***” → “onde diz ***assim como, pois, o marinheiro***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g4-c003.md` [23]: “Põe a segunda razão em” → “Põe a segunda razão onde diz” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g4-c003.md` [24]: “Põe a terceira razão em” → “Põe a terceira razão onde diz” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g4-c003.md` [27]: “em ***e também a formação***” → “onde diz ***e também a formação***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g4-c003.md` [28]: “em ***mas louva-se***” → “onde diz ***mas louva-se***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g4-c003.md` [30]: “viver como *ydiota*,” → “viver como homem comum,” — *ydiota* → “homem comum” (Key Terms); o termo ficou em latim.
+- `pt-BR/g4-c003.md` [33]: “em ***uma vez, pois, que às vezes parecem***” → “onde diz ***uma vez, pois, que às vezes parecem***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g4-c003.md` [37]: “em ***a virtude destes***” → “onde diz ***a virtude destes***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g4-c003.md` [40]: “em ***há, com efeito, um governo***” → “onde diz ***há, com efeito, um governo***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g4-c003.md` [40]: “o artífice *banausus*” → “o artesão banáusico” — *artifex banausus* → “artesão banáusico” (Key Terms).
+- `pt-BR/g4-c003.md` [40]: “as operações destes artífices” → “as operações destes artesãos” — *artifices* → “artesãos” (Key Terms).
+- `pt-BR/g4-c003.md` [40]: “entre alguns, os artífices” → “entre alguns, os artesãos” — *artifices* → “artesãos” (Key Terms).
+- `pt-BR/g4-c003.md` [41]: “em ***mas há um certo governo***” → “onde diz ***mas há um certo governo***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g4-c003.md` [41]: “ser comandante do exército” → “ser chefe do exército” — *dux exercitus* → “chefe do exército” (Key Terms).
+- `pt-BR/g4-c003.md` [41]: “sob o comandante do exército” → “sob o chefe do exército” — *duce exercitus* → “chefe do exército” (Key Terms).
+- `pt-BR/g4-c003.md` [41]: “por mandado do comandante” → “por mandado do chefe” — *ducis* retoma o chefe do exército; mantém a designação do glossário.
+- `pt-BR/g4-c004.md` [4]: “que o *banausus* e o assalariado” → “que o banáusico e o assalariado” — *banausus* → “banáusico” (Key Terms).
+- `pt-BR/g4-c004.md` [4]: “uma vida de *banausus* ou de assalariado” → “uma vida banáusica ou de assalariado” — *vita banausa* → “vida banáusica” (Key Terms).
+- `pt-BR/g4-c004.md` [4]: “que o *banausus* o seja” → “que o banáusico o seja” — *banausus* → “banáusico” (Key Terms).
+- `pt-BR/g4-c004.md` [6]: “mas o político e senhor” → “mas o homem civil e senhor” — *civilis* → “civil” (Key Terms), aqui substantivado.
+- `pt-BR/g4-c004.md` [17]: “Terceiro, à maneira de epílogo,” → “Terceiro, recapitulando,” — *epilogando* → “recapitulando” (Key Terms).
+- `pt-BR/g4-c004.md` [18]: “uma vida de *banausus* ou de assalariado” → “uma vida banáusica ou de assalariado” — *vita banausa* → “vida banáusica” (Key Terms).
+- `pt-BR/g4-c004.md` [21]: “recolhe à maneira de epílogo o que dissera” → “recolhe, recapitulando, o que dissera” — *epilogando* → “recapitulando” (Key Terms).
+- `pt-BR/g4-c004.md` [21]: “aquele que é político,” → “aquele que é civil,” — *civilis* → “civil” (Key Terms).
+- `pt-BR/g4-c005.md` [5]: “por natureza animal político” → “por natureza animal civil” — *animal civile* → “animal civil” (Key Terms).
+- `pt-BR/g4-c005.md` [6]: “salvar-se o governo senhorial” → “conservar-se o governo senhorial” — *salvari* → “conservar-se” (Key Terms).
+- `pt-BR/g4-c005.md` [6]: “o treinador dos meninos, pois,” → “o mestre de ginástica dos meninos, pois,” — *exercitator* → “mestre de ginástica” (Key Terms).
+- `pt-BR/g4-c005.md` [6]: “sendo treinador dos meninos,” → “sendo mestre de ginástica dos meninos,” — *exercitator* → “mestre de ginástica” (Key Terms).
+- `pt-BR/g4-c005.md` [7]: “nos governos políticos,” → “nos principados políticos,” — *politicos principatus* → “principados políticos” (Key Terms).
+- `pt-BR/g4-c005.md` [8]: “São, com efeito, senhoriais;” → “São, com efeito, despóticos;” — *despotice* qualifica os regimes como despóticos (Key Terms).
+- `pt-BR/g4-c005.md` [33]: “naturalmente animal político” → “naturalmente animal civil” — *animal civile* → “animal civil” (Key Terms).
+- `pt-BR/g4-c005.md` [37]: “E primeiro nas coisas domésticas.” → “E primeiro no âmbito da economia.” — *in oeconomicis* designa o âmbito da economia; mantém o termo do glossário.
+- `pt-BR/g4-c005.md` [39]: “o treinador dos meninos e o piloto” → “o mestre de ginástica dos meninos e o piloto” — *exercitator* → “mestre de ginástica” (Key Terms).
+- `pt-BR/g4-c005.md` [40]: “***por isso também, nos governos políticos***” → “***por isso também, nos principados políticos***” — *politicos principatus* → “principados políticos” (Key Terms), também na remissão ao lema.
+- `pt-BR/g4-c005.md` [40]: “distingue os governos políticos” → “distingue os principados políticos” — *principatus politicos* → “principados políticos” (Key Terms).
+- `pt-BR/g4-c005.md` [40]: “por partes nos governos políticos,” → “por partes nos principados políticos,” — *principatus politicos* → “principados políticos” (Key Terms).
+- `pt-BR/g4-c005.md` [41]: “a cidade de modo senhorial,” → “a cidade de modo despótico,” — *despotice* → “de modo despótico” (Key Terms).
+- `pt-BR/g4-c006.md` [6]: “os que têm bens;” → “os que têm haveres;” — *substantias* → “haveres” (Key Terms, sentido patrimonial).
+- `pt-BR/g4-c006.md` [6]: “abundância de bens,” → “abundância de haveres,” — *substantiae* → “haveres” (Key Terms, sentido patrimonial).
+- `pt-BR/g4-c006.md` [34]: “a razão do governo que se ordena” → “a razão do regime que se ordena” — *regiminis* → “regime” (Key Terms).
+- `pt-BR/g5-c007.md` [7]: “em vista das posses,” → “em vista das possessões,” — *possessionum* → “possessões” (Key Terms).
+- `pt-BR/g5-c007.md` [7]: “quanto da posse.” → “quanto da possessão.” — *possessione* → “possessão” (Key Terms).
+- `pt-BR/g5-c007.md` [11]: “as magistraturas comuns a todos” → “os cargos de governo comuns a todos” — *principatus* → “cargos de governo” (Key Terms, plural concreto).
+- `pt-BR/g5-c007.md` [15]: “as diversões do conviver” → “as recreações do conviver” — *deductiones* → “recreações” (Key Terms).
+- `pt-BR/g5-c007.md` [28]: “da parte dos supostos aos quais” → “da parte dos supósitos aos quais” — *suppositorum* → “supósitos” (Key Terms).
+- `pt-BR/g5-c007.md` [28]: “a igualdade dos supostos,” → “a igualdade dos supósitos,” — *suppositorum* → “supósitos” (Key Terms).
+- `pt-BR/g5-c007.md` [34]: “das riquezas e das posses,” → “das riquezas e das possessões,” — *possessiones* → “possessões” (Key Terms).
+- `pt-BR/g5-c008.md` [7]: “as posses da multidão” → “as possessões da multidão” — *possessiones* → “possessões” (Key Terms).
+- `pt-BR/g5-c008.md` [13]: “não é homem excelente,” → “não é homem virtuoso,” — *studiosus vir* → “homem virtuoso” (Key Terms).
+- `pt-BR/g5-c008.md` [18]: “ali: ***mas, uma vez que***” → “onde diz ***mas, uma vez que***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [21]: “ali: ***mas todas estas***” → “onde diz ***mas todas estas***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [25]: “ali: ***quanto a estes***” → “onde diz ***quanto a estes***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [28]: “ali: ***mas um só***” → “onde diz ***mas um só***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [31]: “ali: ***será, então***” → “onde diz ***será, então***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [33]: “ali: ***e, de novo***” → “onde diz ***e, de novo***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [34]: “ali: ***além disso, também as ações***” → “onde diz ***além disso, também as ações***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [40]: “ali: ***mas os epiiches***” → “onde diz ***mas os epiiches***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [41]: “os bens e as posses dos pobres” → “os bens e as possessões dos pobres” — *possessiones* → “possessões” (Key Terms).
+- `pt-BR/g5-c008.md` [45]: “ali: ***mas talvez alguém diga***” → “onde diz ***mas talvez alguém diga***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [49]: “ali: ***se, pois***” → “onde diz ***se, pois***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [55]: “ali: ***por isso***” → “onde diz ***por isso***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [58]: “ali: ***se, pois***” → “onde diz ***se, pois***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [61]: “ali: ***pois muitos***” → “onde diz ***pois muitos***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [19]: “ali: ***participarem***” → “onde diz ***participarem***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [23]: “ali: ***por isso***” → “onde diz ***por isso***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [26]: “ali: ***mas não lhes conceder***” → “onde diz ***mas não lhes conceder***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [27]: “ali: ***resta, pois***” → “onde diz ***resta, pois***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [33]: “ali: ***tem, porém, esta ordenação***” → “onde diz ***tem, porém, esta ordenação***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [36]: “ali: ***outra, porém, é a que se lhe segue***” → “onde diz ***outra, porém, é a que se lhe segue***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [39]: “ali: ***mas talvez***” → “onde diz ***mas talvez***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [42]: “ali: ***por isso, segundo***” → “onde diz ***por isso, segundo***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [44]: “ali: ***depois, acerca da eleição***” → “onde diz ***depois, acerca da eleição***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [49]: “ali: ***e porque acerca de algumas coisas***” → “onde diz ***e porque acerca de algumas coisas***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [54]: “ali: ***semelhantemente, pois***” → “onde diz ***semelhantemente, pois***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [58]: “ali: ***a primeira dúvida dita, porém***” → “onde diz ***a primeira dúvida dita, porém***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [62]: “ali: ***quais devam ser, contudo***” → “onde diz ***quais devam ser, contudo***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/translation-journal.md`: “| potentia | poder | “Força” quando designa uma força militar, como a equestre, a armada, a ligeira ou a naval. |” → “| potentia | poder | “Potência” quando designa uma capacidade ou faculdade operativa, como em *politica potentia* e em *scientiis et potentiis* (g5-c010). |” — As ocorrências distinguem a capacidade operativa do poder de governo; a tradução usa consistentemente “potência” nesse sentido, ausente da entrada.
+- `pt-BR/g5-c010.md` [12]: “ali: ***talvez, com efeito***” → “onde diz ***talvez, com efeito***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c010.md` [15]: “ali: ***e parece a todos***” → “onde diz ***e parece a todos***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c010.md` [20]: “ali: ***mas a partir de que coisas***” → “onde diz ***mas a partir de que coisas***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c010.md` [23]: “ali: ***mas não, se isto***” → “onde diz ***mas não, se isto***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c010.md` [26]: “ali: ***e, se ainda não***” → “onde diz ***e, se ainda não***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c010.md` [27]: “ali: ***além disso, segundo esta***” → “onde diz ***além disso, segundo esta***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c010.md` [28]: “mais do governo político.” → “mais do principado político.” — *principatu politico* → “principado político” (Key Terms).
+- `pt-BR/g5-c010.md` [32]: “ali: ***mas, uma vez que***” → “onde diz ***mas, uma vez que***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c011.md` [20]: “não pode prever o que se há de fazer” → “não pode prever as coisas a fazer” — *agibilia* → “coisas a fazer” (Key Terms).
+
+### Part terms 4 of 14, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 8 minor. Delta read of round 1's 88 changes, all correct; 8 minor fixes: one agreement broken by a change (g5-c007 [11]), one lemma left out of step (g4-c005 [38]), *banausus*/*banausi* left in Latin in g4-c004 [3], [18], and a missing marker for g4-c003's [^1].
+- `pt-BR/g5-c007.md` [11]: “estão constituídas entre eles, mas são outras junto de” → “estão constituídos entre eles, mas são outros junto de” — A troca de “as magistraturas” por “os cargos de governo” deixou “constituídas” e “outras” sem concordância; devem ir para o masculino.
+- `pt-BR/g4-c005.md` [38]: “***por isso também, nos governos políticos***” → “***por isso também, nos principados políticos***” — O lema deve coincidir com o texto de Aristóteles, que em [7] passou a “nos principados políticos”, como já ocorre em [40].
+- `pt-BR/g4-c004.md` [3]: “o *banausus* era escravo” → “o banáusico era escravo” — *banausus* → “banáusico” (Key Terms), como em [4] e [18].
+- `pt-BR/g4-c004.md` [3]: “não fará do *banausus* cidadão” → “não fará do banáusico cidadão” — *banausus* → “banáusico” (Key Terms).
+- `pt-BR/g4-c004.md` [3]: “*banausi* e assalariados.” → “banáusicos e assalariados.” — *banausi* → “banáusicos” (Key Terms).
+- `pt-BR/g4-c004.md` [18]: “os *banausi* e os assalariados sejam cidadãos” → “os banáusicos e os assalariados sejam cidadãos” — O mesmo parágrafo já diz “vida banáusica”; *banausi* → “banáusicos” (Key Terms).
+- `pt-BR/g4-c004.md` [18]: “Mas os *banausi*, isto é, os artesãos” → “Mas os banáusicos, isto é, os artesãos” — *banausi* → “banáusicos” (Key Terms); mantém a glosa *id est artifices*.
+- `pt-BR/g4-c003.md` [30]: “Por causa disto Jasão disse” → “Por causa disto Jasão[^1] disse” — A nota [^1] sobre Jasão de Feras está definida no capítulo, mas falta o marcador no parágrafo.
+- Rejected: pt-BR/g4-c005.md [37]-[38] — “no âmbito da economia” e “nas políticas” não são paralelos. — As duas formas são fiéis a *in oeconomicis* e *in politicis*; a diferença é de estilo.
+- Rejected: pt-BR/g5-c010.md [28] — “principado político” aparece num parágrafo que usa “governo” para *principatus*. — O glossário fixa “principado político” para *principatus politicus*; o sentido não muda.
+- Rejected: pt-BR/g5-c008.md [13] — “homem virtuoso” para *studiosus vir*, quando outras ocorrências usam “excelente”. — O Key Terms tem a entrada *vir studiosus* → “homem virtuoso”.
+
+### Part terms 4 of 14, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 1 minor. Conferidas as oito alterações e lidos integralmente os parágrafos e notas mostrados; alterações corretas, com um defeito menor remanescente de formatação.
+- `pt-BR/g4-c004.md` [2]: “também os *banausi* se devem” → “também os banausi se devem” — A entrada específica de banausi no glossário determina a conservação da grafia da fonte sem itálico.
+- Rejected: pt-BR/g4-c003.md [29] — A tradução tem mais marcadores de ênfase que a fonte. — A diferença decorre do itálico em Ética, expressamente previsto no glossário.
+
+### Part terms 4 of 14, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read de g4-c004 [1]–[3] e nota [^1]: a remoção do itálico deixou “banausi”, que não é a grafia da fonte e destoa de “banáusico(s)” usado no resto do capítulo; 1 correção menor.
+- `pt-BR/g4-c004.md` [2]: “também os banausi se devem” → “também os banáusicos se devem” — fonte: banausos; no mesmo capítulo [3], [4] e [18] usam “banáusico(s)” (Key Terms: banausus → banáusico); “banausi” não é nem a grafia da fonte nem a forma adotada no arquivo
+- Rejected: pt-BR/g4-c004.md [3] — “nem os escravos são algum dos mencionados” por neque enim servi dictorum nullum — Segue o latim de Moerbeke; o sentido (os escravos não pertencem a nenhuma das categorias ditas) está preservado
+
+### Part terms 4 of 14, Round 5 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Conferida a alteração e lidos integralmente g4-c004 [1]–[3] e a nota [^1]; correção confirmada, sem novos defeitos.
+
+### Part terms 5 of 14, Round 1 (codex, terms read)
+Verdict: 3 meaning-level, 60 minor. 152 parágrafos sinalizados lidos; 46 apresentaram deriva terminológica.
+- `pt-BR/g5-c011.md` [36]: “considerando o justo relativo” → “considerando o justo sob certo aspecto” — *secundum quid iustum* → “justo sob certo aspecto” (Key Terms).
+- `pt-BR/g5-c011.md` [36]: “mas não o justo em sentido absoluto” → “mas não o justo simplesmente” — *simpliciter iustum* → “justo simplesmente” (Key Terms).
+- `pt-BR/g5-c011.md` [40]: “segundo o intelecto, a escolha e o exercício” → “segundo o intelecto, a eleição e o exercício” — *electio* → “eleição” (Key Terms); estava “escolha”.
+- `pt-BR/g5-c012.md` [16]: “que não é justo em sentido absoluto” → “que não é justo simplesmente” — *simpliciter iustum* → “justo simplesmente” (Key Terms).
+- `pt-BR/g5-c012.md` [42]: “é justo em sentido absoluto que” → “é justo simplesmente que” — *iustum simpliciter* → “justo simplesmente” (Key Terms).
+- `pt-BR/g5-c012.md` [43]: “uma lei que os dirija no agir” → “uma lei que os dirija nas coisas a fazer” — *agibilia* → “coisas a fazer” (Key Terms); estava “agir”.
+- `pt-BR/g5-c012.md` [56]: “mas não é justo em sentido absoluto:” → “mas não é justo simplesmente:” — *simpliciter iustum* → “justo simplesmente” (Key Terms).
+- `pt-BR/g5-c012.md` [57]: “e é justo não em sentido absoluto,” → “e é justo não simplesmente,” — *iustum ... non simpliciter* → “justo ... não simplesmente” (Key Terms).
+- `pt-BR/g5-c012.md` [57]: “mas relativamente, como no regime popular” → “mas sob certo aspecto, como no regime popular” — *secundum quid ... iustum* → “justo sob certo aspecto” (Key Terms).
+- `pt-BR/g5-c012.md` [57]: “não justo em sentido absoluto,” → “não justo simplesmente,” — *non simpliciter iustum* → “não justo simplesmente” (Key Terms).
+- `pt-BR/g5-c012.md` [57]: “mas relativamente, porque nestes regimes” → “mas sob certo aspecto, porque nestes regimes” — *secundum quid* qualifica o justo; rendering previsto: “sob certo aspecto”.
+- `pt-BR/g5-c012.md` [57]: “não há o justo em sentido absoluto,” → “não há o justo simplesmente,” — *iustum simpliciter* → “justo simplesmente” (Key Terms).
+- `pt-BR/g5-c012.md` [57]: “mas relativo, como se disse antes” → “mas sob certo aspecto, como se disse antes” — *secundum quid* qualifica o justo; rendering previsto: “sob certo aspecto”.
+- `pt-BR/g5-c013.md` [12]: “e dos bens que não fossem sacerdotais” → “e dos haveres que não fossem sacerdotais” — *substantia* no sentido de bens → “haveres” (Key Terms).
+- `pt-BR/g5-c013.md` [13]: “só os bens pátrios” → “só os haveres pátrios” — *substantiae* → “haveres” (Key Terms).
+- `pt-BR/g5-c013.md` [15]: “ordenado à maneira da administração da casa” → “ordenado à maneira da economia” — *oeconomia* → “economia” (Key Terms).
+- `pt-BR/g5-c013.md` [15]: “assim como a administração da casa é” → “assim como a economia é” — *oeconomia* → “economia” (Key Terms).
+- `pt-BR/g5-c013.md` [15]: “uma administração doméstica da cidade” → “uma economia da cidade” — *oeconomia* → “economia” (Key Terms).
+- `pt-BR/g5-c013.md` [66]: “de todas as possessões e bens” → “de todas as possessões e haveres” — *substantiae* → “haveres” (Key Terms).
+- `pt-BR/g5-c013.md` [67]: “os bens paternos dos reis” → “os haveres paternos dos reis” — *substantiae* → “haveres” (Key Terms).
+- `pt-BR/g5-c014.md` [12]: “a aristocracia será mais elegível” → “a aristocracia será preferível” — *eligibilior* indica preferência entre regimes, não elegibilidade; “preferível” é previsto no glossário. *(meaning)*
+- `pt-BR/g5-c014.md` [37]: “reto juízo sobre o que se deve fazer” → “reto juízo sobre as coisas a fazer” — *agibilia* → “coisas a fazer” (Key Terms).
+- `pt-BR/g5-c015.md` [5]: “É, portanto, mais desejável que” → “É, portanto, preferível que” — *eligibilius* → “preferível” (Key Terms).
+- `pt-BR/g5-c015.md` [9]: “é mais desejável servir-se” → “é preferível servir-se” — *eligibilius* → “preferível” (Key Terms).
+- `pt-BR/g5-c015.md` [11]: “se o homem que governa é mais seguro” → “se o homem governante é mais seguro” — *princeps* → “governante” (Key Terms).
+- `pt-BR/g5-c015.md` [14]: “se é mais desejável que governe” → “se é preferível que governe” — *eligibilius* → “preferível” (Key Terms).
+- `pt-BR/g5-c015.md` [39]: “é melhor e mais desejável que” → “é melhor e preferível que” — *eligibilius* → “preferível” (Key Terms).
+- `pt-BR/g5-c015.md` [56]: “acerca das ações ordenadas ao fim do regime” → “acerca das coisas a fazer em ordem ao fim do regime” — *agibilia* → “coisas a fazer” (Key Terms).
+- `pt-BR/g5-c016.md` [3]: “por serem contra a natureza” → “por serem contrários à natureza” — *praeter naturam* → “contrário à natureza” (Key Terms), com concordância plural.
+- `pt-BR/g5-c016.md` [7]: “nem banir tal homem” → “nem desterrar tal homem” — *relegare* → “desterrar” (Key Terms).
+- `pt-BR/g5-c016.md` [14]: “manifesta-a, em ***mas, do que foi dito***” → “manifesta-a, onde diz ***mas, do que foi dito***” — *ibi* como remissão textual → “onde diz” (Key Terms).
+- `pt-BR/g5-c016.md` [15]: “não há justo em sentido absoluto:” → “não há justo simplesmente:” — *iustum simpliciter* → “justo simplesmente” (Key Terms).
+- `pt-BR/g5-c016.md` [15]: “o fim é contra a natureza não há” → “o fim é contrário à natureza não há” — *praeter naturam* → “contrário à natureza” (Key Terms).
+- `pt-BR/g5-c016.md` [15]: “não há justo em sentido absoluto;” → “não há justo simplesmente;” — *iustum simpliciter* → “justo simplesmente” (Key Terms).
+- `pt-BR/g5-c016.md` [15]: “o fim é contra a natureza.” → “o fim é contrário à natureza.” — *praeter naturam* → “contrário à natureza” (Key Terms).
+- `pt-BR/g5-c016.md` [15]: “Tais regimes, com efeito, são contra a natureza.” → “Tais regimes, com efeito, são contrários à natureza.” — *praeter naturam* → “contrário à natureza” (Key Terms), com concordância plural.
+- `pt-BR/g5-c016.md` [15]: “Logo, neles não há justo em sentido absoluto,” → “Logo, neles não há justo simplesmente,” — *iustum simpliciter* → “justo simplesmente” (Key Terms).
+- `pt-BR/g5-c016.md` [18]: “esse modo, em ***qual seja, porém***” → “esse modo, onde diz ***qual seja, porém***” — *ibi* como remissão textual → “onde diz” (Key Terms).
+- `pt-BR/g5-c016.md` [22]: “prossegue, em ***régia, pois***” → “prossegue, onde diz ***régia, pois***” — *ibi* como remissão textual → “onde diz” (Key Terms).
+- `pt-BR/g5-c016.md` [26]: “aquele modo, em ***quando, pois***” → “aquele modo, onde diz ***quando, pois***” — *ibi* como remissão textual → “onde diz” (Key Terms).
+- `pt-BR/g5-c016.md` [30]: “recapitula, em ***quanto ao reino, pois***” → “recapitula, onde diz ***quanto ao reino, pois***” — *ibi* como remissão textual → “onde diz” (Key Terms).
+- `pt-BR/g5-c016.md` [31]: “matá-lo, ou bani-lo, ou expulsá-lo” → “matá-lo, ou desterrá-lo, ou expulsá-lo” — *relegare* → “desterrar” (Key Terms).
+- `pt-BR/g5-c016.md` [35]: “ao que se há de dizer, em ***determinadas estas coisas***” → “ao que se há de dizer, onde diz ***determinadas estas coisas***” — *ibi* como remissão textual → “onde diz” (Key Terms).
+- `pt-BR/g5-c016.md` [38]: “do homem ótimo, em “por isso serão”” → “do homem ótimo, onde diz “por isso serão”” — *ibi* como remissão textual → “onde diz” (Key Terms).
+- `pt-BR/p4-l01.md` [20]: “acerca delas, em ***como, pois***” → “acerca delas, onde diz ***como, pois***” — *ibi* como remissão textual → “onde diz” (Key Terms).
+- `pt-BR/p4-l01.md` [23]: “por considerar, em ***ora, como no primeiro***” → “por considerar, onde diz ***ora, como no primeiro***” — *ibi* como remissão textual → “onde diz” (Key Terms).
+- `pt-BR/p4-l01.md` [24]: “se deve considerar, em ***para nós***” → “se deve considerar, onde diz ***para nós***” — *ibi* como remissão textual → “onde diz” (Key Terms).
+- `pt-BR/p4-l01.md` [27]: “desta ciência, em ***o ótimo em sentido absoluto***” → “desta ciência, onde diz ***o ótimo em sentido absoluto***” — *ibi* como remissão textual → “onde diz” (Key Terms).
+- `pt-BR/p4-l01.md` [30]: “conclui a conclusão, em ***por isso é claro***” → “conclui a conclusão, onde diz ***por isso é claro***” — *ibi* como remissão textual → “onde diz” (Key Terms).
+- `pt-BR/p4-l01.md` [35]: “das leis e dos regimes, em ***por isso***” → “das leis e dos regimes, onde diz ***por isso***” — *ibi* como remissão textual → “onde diz” (Key Terms).
+- `pt-BR/p4-l01.md` [38]: “do que foi dito, em ***por isso a maior parte***” → “do que foi dito, onde diz ***por isso a maior parte***” — *ibi* como remissão textual → “onde diz” (Key Terms).
+- `pt-BR/p4-l01.md` [41]: “A segunda, em ***ora, é preciso***” → “A segunda, onde diz ***ora, é preciso***” — *ibi* como remissão textual → “onde diz” (Key Terms).
+- `pt-BR/p4-l01.md` [46]: “as diferenças das leis, em ***e com esta mesma***” → “as diferenças das leis, onde diz ***e com esta mesma***” — *ibi* como remissão textual → “onde diz” (Key Terms).
+- `pt-BR/p4-l01.md` [55]: “qual menos mau, em ***é manifesto, pois***” → “qual menos mau, onde diz ***é manifesto, pois***” — *ibi* como remissão textual → “onde diz” (Key Terms).
+- `pt-BR/p4-l01.md` [59]: “a falha de alguém, em ***ora, já***” → “a falha de alguém, onde diz ***ora, já***” — *ibi* como remissão textual → “onde diz” (Key Terms).
+- `pt-BR/p4-l01.md` [64]: “a república popular e a de poucos” → “o regime popular e o de poucos” — *respublica popularis* → “regime popular” (Key Terms), com ajuste da elipse seguinte.
+- `pt-BR/p4-l01.md` [64]: “como se há de instituir a ótima” → “como se há de instituir o ótimo” — Ajusta a concordância da elipse após substituir “república” por “regime”.
+- `pt-BR/p4-l02.md` [6]: “a grandeza dos bens” → “a grandeza dos haveres” — *substantia* no sentido de bens → “haveres” (Key Terms).
+- `pt-BR/p4-l02.md` [13]: “os livres são soberanos” → “os livres são senhores” — *domini* → “senhores” (Key Terms); a ocorrência seguinte permanece elíptica.
+- `pt-BR/p4-l02.md` [15]: “se distinguiam pelo nascimento livre” → “se distinguiam pela nobreza de nascimento” — *ingenuitas* → “nobreza de nascimento”; “nascimento livre” confunde a distinção expressa no glossário entre *liber* e *ingenuus*. *(meaning)*
+- `pt-BR/p4-l02.md` [15]: “os primeiros a ocupar as terras” → “os primeiros a ocupar as vizinhanças” — *viciniae* → “vizinhanças” (Key Terms); estava “terras”.
+- `pt-BR/p4-l02.md` [15]: “a maioria possuía grandes bens” → “a maioria não possuía grandes haveres” — O SRC diz *non possidebant*: faltava a negação. *Substantia* no sentido de bens → “haveres” (Key Terms). *(meaning)*
+- `pt-BR/p4-l02.md` [15]: “sendo mais numerosos, são soberanos e governam” → “sendo mais numerosos, são senhores e governam” — *domini* → “senhores” (Key Terms).
+
+### Part terms 5 of 14, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 2 minor. Conferi as 63 alterações da rodada 1 e os parágrafos vizinhos. A maioria está certa. Corrigi duas regências “preferível … do que” criadas por elas e desfiz a negação acrescentada em p4-l02 [15], que contradiz o argumento, o grego e a decisão já registrada no diário.
+- `pt-BR/g5-c014.md` [12]: “a aristocracia será preferível para as cidades do que o reino” → “a aristocracia será, para as cidades, preferível ao reino” — A troca de “mais elegível” por “preferível” deixou “preferível … do que”; a regência correta é “preferível a”.
+- `pt-BR/g5-c015.md` [5]: “É, portanto, preferível que governe a lei do que algum dos cidadãos.” → “É, portanto, preferível que governe a lei a que governe algum dos cidadãos.” — Mesma falha de regência introduzida pela troca: “preferível” rege “a”, não “do que”.
+- `pt-BR/p4-l02.md` [15]: “onde antigamente a maioria não possuía grandes haveres” → “onde antigamente a maioria possuía grandes haveres” — O exemplo de Colofão mostra que os ricos eram a maioria, e por isso não havia demos. Com a negação, o exemplo contradiz a frase que ilustra. O grego não tem a negação, e o diário (Decisões, g5-c016 [120]) já fixou para este mesmo passo a tradução sem o *non* de Moerbeke. Mantém-se “haveres”. *(meaning)*
+- Rejected: pt-BR/g5-c015.md [39] — “é melhor e preferível que governe a lei do que algum cidadão”: mesma regência — “do que” depende de “melhor”, que vem primeiro; a construção é aceitável.
+- Rejected: pt-BR/g5-c011.md [36], g5-c012.md, g5-c016.md [15] — “justo simplesmente” contra a linha da tabela “simpliciter / secundum quid → em sentido absoluto / relativamente” — A tabela tem também a linha específica “iustum simpliciter / secundum quid → justo simplesmente / justo sob certo aspecto”, e as trocas a seguem. Onde *simpliciter* não qualifica *iustum*, “em sentido absoluto” continua (g5-c012 [57], g5-c016 [7]).
+- Rejected: pt-BR/g5-c013.md [15] — “economia” contra a linha “oeconomia → administração da casa” — A tabela também dá “yconomia / oeconomica → economia”. A escolha é defensável e mantém o jogo *oeconomia*/*regnum* do texto.
+- Rejected: pt-BR/p4-l02.md [13], [15] — Auditoria: marcas de ênfase a mais — Vêm de *demos* em itálico, previsto na tabela de termos.
+
+### Part terms 5 of 14, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 5 minor. Conferidas as três alterações, os nove parágrafos apresentados e as seis notas: alterações corretas; cinco desvios menores da terminologia fixada para ibi.
+- `pt-BR/p4-l02.md` [16]: “do regime, em “qual seja, porém”” → “do regime, onde diz “qual seja, porém”” — A tabela fixa ibi nas remissões textuais como “onde diz”.
+- `pt-BR/p4-l02.md` [16]: “não se falou antes, em “resta, porém”” → “não se falou antes, onde diz “resta, porém”” — A tabela fixa ibi nas remissões textuais como “onde diz”.
+- `pt-BR/p4-l02.md` [16]: “mais em especial, em “que, porém”” → “mais em especial, onde diz “que, porém”” — A tabela fixa ibi nas remissões textuais como “onde diz”.
+- `pt-BR/p4-l02.md` [16]: “na segunda, quantos são, em “mas sobretudo”” → “na segunda, quantos são, onde diz “mas sobretudo”” — A tabela fixa ibi nas remissões textuais como “onde diz”.
+- `pt-BR/p4-l02.md` [16]: “manifesta-a, em “pois, em primeiro lugar”” → “manifesta-a, onde diz “pois, em primeiro lugar”” — A tabela fixa ibi nas remissões textuais como “onde diz”.
+- Rejected: pt-BR/p4-l02.md [15] — Ausência de tradução da negação em non possidebant. — A decisão registrada para este mesmo passo determina omitir a negação; a alteração restaura a coerência do exemplo com o argumento.
+
+### Part terms 5 of 14, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 4 minor. Checked the five ibi fixes in p4-l02 [16] (all correct) and read [15]–[17]; fixed a broken construction in [16] and three ibi left as “em” in [17].
+- `pt-BR/p4-l02.md` [16]: “divide-se em duas, segundo primeiro prova que” → “divide-se em duas, conforme primeiro prova que” — SRC secundum quod primo probat; “segundo primeiro prova” lacks the conjunction and does not parse.
+- `pt-BR/p4-l02.md` [17]: “vários regimes, em “é manifesto, pois”” → “vários regimes, onde diz “é manifesto, pois”” — SRC ibi, manifestum igitur; the table fixes ibi as “onde diz”, as now in [16].
+- `pt-BR/p4-l02.md` [17]: “têm com o regime, em “destas partes, com efeito”” → “têm com o regime, onde diz “destas partes, com efeito”” — SRC ibi, harum enim; the table fixes ibi as “onde diz”.
+- `pt-BR/p4-l02.md` [17]: “subdivide-as, em “e deste povo”” → “subdivide-as, onde diz “e deste povo”” — SRC ibi, et hunc quidem; the table fixes ibi as “onde diz”.
+- Rejected: pt-BR/p4-l02.md [16] — “quando diz “que, porém, há também mais”” not changed to “onde diz” — SRC has cum dicit there, not ibi, so “quando diz” is correct.
+- Rejected: pt-BR/p4-l02.md [15] — Audit flag: more emphasis markers than the source — They come from *demos* in italics, which the Key Terms table prescribes; already rejected in round 2.
+
+### Part terms 5 of 14, Round 5 (codex, delta read)
+Verdict: 0 meaning-level, 2 minor. Conferidas as quatro alterações e lidos integralmente p4-l02 [15]–[18] e as duas notas: alterações corretas; encontrados dois desvios menores de ibi no parágrafo vizinho.
+- `pt-BR/p4-l02.md` [18]: “os ricos, em “e entre os notáveis”” → “os ricos, onde diz “e entre os notáveis”” — O SRC traz ibi; a tabela fixa essas remissões como “onde diz”.
+- `pt-BR/p4-l02.md` [18]: “os médios, em “ainda, junto com”” → “os médios, onde diz “ainda, junto com”” — O SRC traz ibi; a tabela fixa essas remissões como “onde diz”.
+
+### Part terms 5 of 14, Round 6 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of p4-l02 [17]–[19] and notes [^2], [^3]: both ibi fixes in [18] are correct; no defects found.
+- Rejected: pt-BR/p4-l02.md [18] — *coriarii* rendered “curtidores”, while the table gives “sapateiros” (g3) and “coureiro” (g5-c016) — Those rows cover other passages. Here *coriarii* stands beside *pellium curatores* among the trades that soil the body, so “curtidores” is accurate and defensible.
+- Rejected: pt-BR/p4-l02.md [13], [15] — Audit: more emphasis markers than the source — They come from *demos* in italics, as the Key Terms table prescribes. Already rejected in rounds 2 and 4.
+
+### Part terms 6 of 14, Round 1 (codex, terms read)
+Verdict: 3 meaning-level, 118 minor. 118 parágrafos sinalizados examinados; 54 apresentaram desvio terminológico.
+- `pt-BR/p4-l02.md` [17]: “que têm poucos bens ou nenhum” → “que têm poucos haveres ou nenhum” — *substantia* no sentido de bens → “haveres” (Key Terms).
+- `pt-BR/p4-l02.md` [23]: “alguns, em “não se deve, porém”” → “alguns, onde diz “não se deve, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l02.md` [23]: “opinião, em “sobretudo, pois”” → “opinião, onde diz “sobretudo, pois”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l02.md` [25]: “distinguem, em “antes, pois”” → “distinguem, onde diz “antes, pois”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l02.md` [26]: “a república de poucos e a popular” → “o regime dos poucos e o popular” — *respublica paucorum* → “regime dos poucos” (Key Terms), com concordância.
+- `pt-BR/p4-l02.md` [26]: “prova-o, em “pois, se”” → “prova-o, onde diz “pois, se”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l02.md` [27]: “acidente, em “mas nem”” → “acidente, onde diz “mas nem”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l02.md` [28]: “os excelentes pelo nascimento livre” → “os excelentes pela nobreza de nascimento” — *ingenuitas* → “nobreza de nascimento” (Key Terms); “nascimento livre” confunde nobreza com liberdade. *(meaning)*
+- `pt-BR/p4-l03.md` [6]: “dos negócios e do câmbio” → “dos negócios e da cambística” — *campsoria* → “cambística” (Key Terms).
+- `pt-BR/p4-l03.md` [7]: “se não hão de ser escravos dos que os invadem” → “se não hão de servir aos que os invadem” — *servire* → “servir” (Key Terms).
+- `pt-BR/p4-l03.md` [12]: “serve com os bens” → “serve com os haveres” — *substantia* no sentido de bens → “haveres” (Key Terms).
+- `pt-BR/p4-l03.md` [15]: “agricultores e artífices” → “agricultores e artesãos” — *artifices* → “artesãos” (Key Terms).
+- `pt-BR/p4-l03.md` [15]: “julgam poder exercer a maior parte dos cargos” → “julgam poder governar na maior parte dos cargos de governo” — *principari* → “governar”; *principatus* no plural concreto → “cargos de governo” (Key Terms).
+- `pt-BR/p4-l03.md` [17]: “outros, em “as outras”” → “outros, onde diz “as outras”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l03.md` [17]: “prossegue, em “assim, pois, como”” → “prossegue, onde diz “assim, pois, como”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l03.md` [18]: “proposto, em “do mesmo modo”” → “proposto, onde diz “do mesmo modo”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l03.md` [19]: “prova-a, em “uma, com efeito”” → “prova-a, onde diz “uma, com efeito”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l03.md` [20]: “médias, em “a quinta”” → “médias, onde diz “a quinta”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l03.md` [20]: “supremas, em “a restante”” → “supremas, onde diz “a restante”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l03.md` [21]: “judicativa, em “mas na verdade”” → “judicativa, onde diz “mas na verdade”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l03.md` [21]: “deliberativa, em “além disso, o que delibera”” → “deliberativa, onde diz “além disso, o que delibera”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l03.md` [21]: “ricos, em “a sétima”” → “ricos, onde diz “a sétima”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l03.md` [21]: “povo, em “a oitava”” → “povo, onde diz “a oitava”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l03.md` [21]: “alguns, em “por isso”” → “alguns, onde diz “por isso”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l03.md` [22]: “combatente, em “a parte combatente”” → “combatente, onde diz “a parte combatente”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l03.md` [23]: “se origina a discórdia” → “se origina a dissensão” — *dissensio* → “dissensão” (Key Terms).
+- `pt-BR/p4-l03.md` [28]: “alguns que altercam sobre o justo” → “alguns que disputam sobre o justo” — *altercari* → “disputar” (Key Terms).
+- `pt-BR/p4-l03.md` [29]: “A segunda, em “além disso”” → “A segunda, onde diz “além disso”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l04.md` [20]: “prossegue, em “há, com efeito, várias espécies”” → “prossegue, onde diz “há, com efeito, várias espécies”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l04.md` [21]: “separadamente, em “da democracia, pois”” → “separadamente, onde diz “da democracia, pois”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l04.md` [21]: “ricos, em “dos notáveis, porém”” → “ricos, onde diz “dos notáveis, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l04.md` [23]: “a segunda, em “não se deve, porém”” → “a segunda, onde diz “não se deve, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l04.md` [23]: “poucos, em “por isso, se”” → “poucos, onde diz “por isso, se”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l04.md` [23]: “A segunda, em “outra, porém”” → “A segunda, onde diz “outra, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l04.md` [23]: “a terceira, em “outra espécie”” → “a terceira, onde diz “outra espécie”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l04.md` [23]: “a quarta, em “outra espécie”” → “a quarta, onde diz “outra espécie”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l04.md` [23]: “a quinta, em “outra espécie”” → “a quinta, onde diz “outra espécie”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l04.md` [24]: “para que muitos possam governar” → “para que muitos possam reger” — *regere* → “reger” (Key Terms).
+- `pt-BR/p4-l04.md` [27]: “popular, em “com razão, porém”” → “popular, onde diz “com razão, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l04.md` [27]: “sucede, em “sucede, porém”” → “sucede, onde diz “sucede, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l04.md` [28]: “dito, em “são, porém, estes”” → “dito, onde diz “são, porém, estes”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l04.md` [28]: “aduladores, em “e o demagogo”” → “aduladores, onde diz “e o demagogo”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l04.md` [30]: “domina, em “além disso”” → “domina, onde diz “além disso”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l04.md` [32]: “popular, em “dos quais, com efeito”” → “popular, onde diz “dos quais, com efeito”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l04.md` [34]: “A segunda, em “outra espécie”” → “A segunda, onde diz “outra espécie”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l04.md` [34]: “a terceira, em “outra, quando”” → “a terceira, onde diz “outra, quando”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l04.md` [34]: “a quarta, em “a quarta espécie”” → “a quarta, onde diz “a quarta espécie”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l05.md` [13]: “sucede, em “sucede, porém”” → “sucede, onde diz “sucede, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l05.md` [13]: “causa de discórdia em algumas cidades” → “causa de dissensão em algumas cidades” — *dissensio* → “dissensão” (Key Terms).
+- `pt-BR/p4-l05.md` [13]: “os que querem viver fora dessas leis” → “os que querem viver segundo essas leis” — O texto fornecido diz *volentes vivere secundum eas leges*, sem a negação introduzida por “fora”. *(meaning)*
+- `pt-BR/p4-l05.md` [13]: “e isto é causa de discórdia.” → “e isto é causa de dissensão.” — *dissensio* → “dissensão” (Key Terms).
+- `pt-BR/p4-l05.md` [15]: “poucos, em “da oligarquia, porém”” → “poucos, onde diz “da oligarquia, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l05.md` [15]: “A segunda, em “outra espécie, porém”” → “A segunda, onde diz “outra espécie, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l05.md` [15]: “a terceira, em “a terceira espécie, porém”” → “a terceira, onde diz “a terceira espécie, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l05.md` [15]: “a quarta, em “a quarta”” → “a quarta, onde diz “a quarta”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l05.md` [15]: “todos os que têm posses” → “todos os que têm possessões” — *possessio* → “possessão” (Key Terms).
+- `pt-BR/p4-l05.md` [15]: “alguma dignidade de posse” → “alguma dignidade de possessão” — *possessio* → “possessão” (Key Terms).
+- `pt-BR/p4-l05.md` [15]: “nenhum rendimento ou nenhuma posse” → “nenhum rendimento ou nenhuma possessão” — *possessio* → “possessão” (Key Terms).
+- `pt-BR/p4-l05.md` [19]: “A segunda, em “pois, quanto mais”” → “A segunda, onde diz “pois, quanto mais”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l05.md` [19]: “a terceira, em “se, porém, prevalecerem”” → “a terceira, onde diz “se, porém, prevalecerem”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l05.md` [19]: “a quarta, em “quando, porém, já”” → “a quarta, onde diz “quando, porém, já”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l06.md` [8]: “melhores, em “aristocracia, pois”” → “melhores, onde diz “aristocracia, pois”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l06.md` [9]: “A segunda, em “mas certamente há”” → “A segunda, onde diz “mas certamente há”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l06.md` [9]: “a terceira, em “onde, com efeito”” → “a terceira, onde diz “onde, com efeito”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l06.md` [9]: “a quarta, em “e onde”” → “a quarta, onde diz “e onde”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l06.md` [9]: “aquele regime de que se falou” → “aquela república de que se falou” — *respublica* qualificada como *optimatum* → “república dos melhores” (Key Terms).
+- `pt-BR/p4-l06.md` [9]: “dos melhores o regime em que governam” → “dos melhores a república em que governam” — *respublica optimatum* → “república dos melhores” (Key Terms), com concordância.
+- `pt-BR/p4-l06.md` [9]: “Também só neste regime” → “Também só nesta república” — *ista republica* retoma a república dos melhores; mantém a denominação do glossário.
+- `pt-BR/p4-l07.md` [13]: “pretende, em “agora, porém”” → “pretende, onde diz “agora, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l07.md` [14]: “tirania, em “da tirania, porém”” → “tirania, onde diz “da tirania, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l07.md` [14]: “institui, em “não é, porém”” → “institui, onde diz “não é, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l07.md` [14]: “espécies, em “parece, porém”” → “espécies, onde diz “parece, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l07.md` [14]: “prova-o, em “costumam, porém”” → “prova-o, onde diz “costumam, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l07.md` [16]: “diferença, em “como, porém”” → “diferença, onde diz “como, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l07.md` [16]: “cidades, em “na maior parte”” → “cidades, onde diz “na maior parte”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l07.md` [16]: “A segunda, em “não é, porém, boa”” → “A segunda, onde diz “não é, porém, boa”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l07.md` [16]: “a terceira, em “parece, porém”” → “a terceira, onde diz “parece, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l07.md` [16]: “a quarta, em “isto, porém”” → “a quarta, onde diz “isto, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l07.md` [21]: “recapitula, em “que, pois”” → “recapitula, onde diz “que, pois”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l07.md` [21]: “o verdadeiro regime dos melhores, não misto” → “a verdadeira república dos melhores, não mista” — *respublica optimatum* → “república dos melhores” (Key Terms), com concordância.
+- `pt-BR/p4-l08.md` [6]: “que as magistraturas sejam por sorteio” → “que os cargos de governo sejam por sorteio” — *principatus* no plural concreto → “cargos de governo” (Key Terms).
+- `pt-BR/p4-l08.md` [6]: “que sejam eletivas” → “que sejam eletivos” — Concordância com “cargos de governo”, adotado para *principatus*.
+- `pt-BR/p4-l08.md` [6]: “fazer eletivas as magistraturas” → “fazer eletivos os cargos de governo” — *principatus* no plural concreto → “cargos de governo” (Key Terms), com concordância.
+- `pt-BR/p4-l08.md` [8]: “das duas maiores magistraturas, uma o povo elege, da outra participa” → “dos dois maiores cargos de governo, um o povo elege, do outro participa” — *principatus maximi* → “cargos de governo” (Key Terms), com concordância.
+- `pt-BR/p4-l08.md` [8]: “participam do eforato” → “participam da eforia” — *eforia* → “eforia” (Key Terms).
+- `pt-BR/p4-l08.md` [8]: “todas as magistraturas são eletivas e nenhuma por sorteio” → “todos os cargos de governo são eletivos e nenhum por sorteio” — A elipse retoma *principatus*: “cargos de governo” (Key Terms), com concordância.
+- `pt-BR/p4-l08.md` [10]: “prossegue, em “há, porém, termos”” → “prossegue, onde diz “há, porém, termos”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l08.md` [11]: “mistura, em “o modo, pois”” → “mistura, onde diz “o modo, pois”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l08.md` [11]: “governo, em “o outro, porém”” → “governo, onde diz “o outro, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l08.md` [11]: “delas, em “o terceiro, porém”” → “delas, onde diz “o terceiro, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l08.md` [14]: “exemplo, em “é claro, com efeito”” → “exemplo, onde diz “é claro, com efeito”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l08.md` [14]: “misturada, em “é preciso, porém”” → “misturada, onde diz “é preciso, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l08.md` [15]: “à condenação à morte e ao exílio” → “à condenação à morte e ao desterro” — *relegatio* → “desterro” (Key Terms).
+- `pt-BR/p4-l09.md` [7]: “prossegue, em “do reino, pois”” → “prossegue, onde diz “do reino, pois”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l09.md` [8]: “a tirania é transgressão do reino” → “a tirania é desvio do reino” — *transgressio* → “desvio” (Key Terms).
+- `pt-BR/p4-l09.md` [8]: “dela, em “da tirania, porém”” → “dela, onde diz “da tirania, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l09.md` [9]: “tirania, em “a terceira espécie, porém”” → “tirania, onde diz “a terceira espécie, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l10.md` [6]: “a posse média é a melhor” → “a possessão média é a melhor” — *possessio* → “possessão” (Key Terms).
+- `pt-BR/p4-l10.md` [19]: “a preeminência na politia” → “a superioridade na politia” — *excessus* → “superioridade” (Key Terms).
+- `pt-BR/p4-l10.md` [21]: “uma politia mais elegível” → “uma politia mais preferível” — *eligibilis* no sentido de escolha do melhor regime → “preferível” (Key Terms).
+- `pt-BR/p4-l10.md` [22]: “prossegue, em “se, com efeito, bem”” → “prossegue, onde diz “se, com efeito, bem”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l10.md` [22]: “segundo a vontade e a escolha absolutamente” → “segundo a vontade e a eleição absolutamente” — *electio*, inclusive como ato da vontade, → “eleição” (Key Terms).
+- `pt-BR/p4-l10.md` [23]: “ele, em “das outras politias, porém”” → “ele, onde diz “das outras politias, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l10.md` [23]: “cidades, em “os mesmos, porém”” → “cidades, onde diz “os mesmos, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l10.md` [23]: “cidades, em “em todas, pois”” → “cidades, onde diz “em todas, pois”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l10.md` [25]: “regime, em “é claro, pois”” → “regime, onde diz “é claro, pois”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l10.md` [25]: “bem, em “e conservam-se”” → “bem, onde diz “e conservam-se”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l10.md` [25]: “cidade, em “quer, porém, a cidade”” → “cidade, onde diz “quer, porém, a cidade”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l10.md` [25]: “razão, em “é facílimo, com efeito”” → “razão, onde diz “é facílimo, com efeito”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l10.md` [25]: “a sua posse, sendo média” → “a sua possessão, sendo média” — *possessio* → “possessão” (Key Terms).
+- NOT APPLIED (old text not found exactly once (0)): - `pt-BR/p4-l02.md` [16]: “regime, em “qual seja, porém”” → “regime, onde diz “qual seja, porém”” — *ibi* → “onde diz” (Key Terms).
+- NOT APPLIED (old text not found exactly once (0)): - `pt-BR/p4-l02.md` [16]: “antes, em “resta, porém”” → “antes, onde diz “resta, porém”” — *ibi* → “onde diz” (Key Terms).
+- NOT APPLIED (old text not found exactly once (0)): - `pt-BR/p4-l02.md` [16]: “especial, em “que, porém”” → “especial, onde diz “que, porém”” — *ibi* → “onde diz” (Key Terms).
+- NOT APPLIED (old text not found exactly once (0)): - `pt-BR/p4-l02.md` [16]: “são, em “mas sobretudo”” → “são, onde diz “mas sobretudo”” — *ibi* → “onde diz” (Key Terms).
+- NOT APPLIED (old text not found exactly once (0)): - `pt-BR/p4-l02.md` [16]: “manifesta-a, em “pois, em primeiro lugar”” → “manifesta-a, onde diz “pois, em primeiro lugar”” — *ibi* → “onde diz” (Key Terms).
+- NOT APPLIED (old text not found exactly once (0)): - `pt-BR/p4-l02.md` [17]: “regimes, em “é manifesto, pois”” → “regimes, onde diz “é manifesto, pois”” — *ibi* → “onde diz” (Key Terms).
+- NOT APPLIED (old text not found exactly once (0)): - `pt-BR/p4-l02.md` [17]: “regime, em “destas partes, com efeito”” → “regime, onde diz “destas partes, com efeito”” — *ibi* → “onde diz” (Key Terms).
+- NOT APPLIED (old text not found exactly once (0)): - `pt-BR/p4-l02.md` [17]: “subdivide-as, em “e deste povo”” → “subdivide-as, onde diz “e deste povo”” — *ibi* → “onde diz” (Key Terms).
+- NOT APPLIED (old text not found exactly once (0)): - `pt-BR/p4-l02.md` [18]: “ricos, em “e entre os notáveis”” → “ricos, onde diz “e entre os notáveis”” — *ibi* → “onde diz” (Key Terms).
+- NOT APPLIED (old text not found exactly once (0)): - `pt-BR/p4-l02.md` [18]: “médios, em “ainda, junto com”” → “médios, onde diz “ainda, junto com”” — *ibi* → “onde diz” (Key Terms).
+- NOT APPLIED (old text not found exactly once (0)): - `pt-BR/p4-l03.md` [20]: “a terceira parte da cidade é a do foro” → “a terceira parte da cidade é a do mercado” — *forensis* → “do mercado” (Key Terms); trata-se de comércio, não de atividade judicial.
+
+### Part terms 6 of 14, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 6 minor. Delta read das 109 mudanças em p4-l02 a p4-l10 e dos vizinhos: alterações corretas; corrigidos uma concordância em p4-l06 [9], um pleonasmo em p4-l10 [21], três *ibi* restantes em p4-l10 [26] e a decisão do diário desatualizada pela correção de p4-l05 [13].
+- `pt-BR/p4-l06.md` [9]: “nos outros, não; mas o cidadão ótimo” → “nos outros regimes, não; mas o cidadão ótimo” — *in aliis autem non*: com a troca de “neste regime” por “nesta república”, o masculino “nos outros” ficou sem antecedente; explicita “regimes”.
+- `pt-BR/p4-l10.md` [21]: “uma politia mais preferível” → “uma politia mais digna de escolha” — *magis eligibili*: “mais preferível” é pleonasmo condenado pela norma; Key Terms admite *eligibilis* → “digno de escolha”.
+- `pt-BR/p4-l10.md` [26]: “A segunda, em “além disso”, etc.” → “A segunda, onde diz “além disso”, etc.” — *ibi* → “onde diz” (Key Terms), como nas demais remissões corrigidas.
+- `pt-BR/p4-l10.md` [26]: “A terceira, em “além disso, os que”” → “A terceira, onde diz “além disso, os que”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l10.md` [26]: “A quarta, em “os que, porém”” → “A quarta, onde diz “os que, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/translation-journal.md`: “lido “os que querem viver fora dessas leis”, como exige o argumento” → “traduzido à letra (“os que querem viver segundo essas leis”), embora o argumento pareça pedir a negação” — Depois da correção da rodada anterior, o texto (p4-l05 [13]) diz “segundo essas leis”; a decisão no diário ficou falsa.
+- Rejected: pt-BR/p4-l05.md [13] — Reverter “segundo essas leis” para “fora dessas leis”, conforme a decisão do diário — O latim diz *secundum eas leges*; acrescentar a negação sem marca emenda o autor. A versão literal é fiel, e o diário foi ajustado.
+- Rejected: pt-BR/p4-l08.md [6] — Auditoria: “uma uma” repetido — “tomar de cada uma uma coisa” é gramatical: o primeiro “uma” é pronome, o segundo é artigo.
+- Rejected: pt-BR/p4-l08.md [8] — “eforia” contra a linha *ephoria* → “eforato” do Key Terms — O Key Terms tem duas linhas em conflito (eforia/eforato); “eforia” segue a primeira e a forma da fonte. Não há defeito objetivo.
+
+### Part terms 6 of 14, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as seis alterações, os nove parágrafos apresentados e a nota do tradutor; nenhum defeito objetivo encontrado.
+- Rejected: pt-BR/p4-l06.md [8] — Auditoria aponta dois marcadores de ênfase adicionais. — Os marcadores põem em itálico o título República; não alteram o conteúdo e seguem o tratamento português dos títulos de obras.
+
+### Part terms 7 of 14, Round 1 (codex, terms read)
+Verdict: 2 meaning-level, 106 minor. 126 parágrafos sinalizados verificados; 55 apresentam desvios vocabulares; 5 entradas do glossário complementadas e 1 inversão de sentido corrigida.
+- `pt-BR/translation-journal.md`: “| principes / principatus | governantes / principado | “Magistratura” quando principatus designa um cargo público concreto. |” → “| principes / principatus | governantes / principado | No contexto institucional dos cargos e órgãos da cidade, *principatus* → “magistratura”; *principes* → “magistrados”. |” — As ocorrências distinguem o governo em geral das magistraturas e de seus titulares; acrescenta-se esse sentido institucional.
+- `pt-BR/translation-journal.md`: “| principes / principatus / regimen civitatis | governantes / cargos de governo / governo da cidade | “Regime” fica para *politia*. “Magistratura” também para principatus como cargo público concreto. |” → “| principes / principatus / regimen civitatis | governantes / cargos de governo / governo da cidade | “Regime” fica para *politia*. No contexto institucional, *principatus* → “magistratura”; *principes* → “magistrados”. |” — “Magistratura” e “magistrados” são usados consistentemente para os cargos institucionais e seus titulares.
+- `pt-BR/translation-journal.md`: “| principatus / principari / princeps | governo, cargo de governo / governar / governante | Plural concreto (*principatus maximi*) → “cargos de governo”. “Magistratura” também quando *principatus* designa um cargo institucional. |” → “| principatus / principari / princeps | governo, cargo de governo / governar / governante | Plural concreto (*principatus maximi*) → “cargos de governo”. No contexto institucional, *principatus* → “magistratura”; *princeps* → “magistrado”. |” — Acrescenta os sentidos institucionais usados consistentemente nas passagens sobre a organização das magistraturas.
+- `pt-BR/translation-journal.md`: “| principatus / principari / princeps | governo / governar / governante | “Magistratura” quando principatus designa um cargo público concreto. |” → “| principatus / principari / princeps | governo / governar / governante | No contexto institucional, *principatus* → “magistratura”; *princeps* → “magistrado”. |” — Acrescenta os sentidos institucionais de cargo e titular, distintos do governo em geral.
+- `pt-BR/translation-journal.md`: “| principatus politicus / regalis / despoticus / tyrannicus | principado político / régio / despótico / tirânico | |” → “| principatus politicus / regalis / despoticus / tyrannicus | principado político / régio / despótico / tirânico | No contexto da classificação dos cargos institucionais, *principatus politici* → “magistraturas políticas”. |” — Em [541], a expressão designa cargos da comunidade política, dos quais se distinguem os sacerdócios.
+- `pt-BR/p4-l10.md` [26]: “ou por contumélia” → “ou por ultraje” — *contumelia* → “ultraje” (Key Terms); estava “contumélia”.
+- `pt-BR/p4-l10.md` [31]: “vivem sem perigo, em “por isso, bem”” → “vivem sem perigo, onde diz “por isso, bem”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l10.md` [33]: “por sinais e efeitos, em “que, porém”” → “por sinais e efeitos, onde diz “que, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l10.md` [33]: “infere um corolário, em “por isso”” → “infere um corolário, onde diz “por isso”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l10.md` [34]: “tenham fortuna média” → “tenham substância média” — *substantia* → “substância” (Key Terms); estava “fortuna”.
+- `pt-BR/p4-l10.md` [34]: “e posses médias” → “e possessões médias” — *possessiones* → “possessões” (Key Terms); estava “posses”.
+- `pt-BR/p4-l10.md` [35]: “A segunda, em “sinal, porém”, etc.” → “A segunda, onde diz “sinal, porém”, etc.” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l10.md` [35]: “A terceira, em “é manifesto, porém”, etc.” → “A terceira, onde diz “é manifesto, porém”, etc.” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l10.md` [37]: “algo que se disse no sinal, em “além disso, por causa”” → “algo que se disse no sinal, onde diz “além disso, por causa”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l10.md` [38]: “A segunda, em “além disso, também dos”, etc.” → “A segunda, onde diz “além disso, também dos”, etc.” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l11.md` [4]: “os de nascimento humilde podem” → “os ignóbeis podem” — *ignobiles* → “ignóbeis” (Key Terms); estava “os de nascimento humilde”.
+- `pt-BR/p4-l11.md` [5]: “a multidão dos artesãos e dos que trabalham por salário” → “a multidão dos banáusicos e dos que trabalham por salário” — *banausarum* → “banáusicos” (Key Terms); estava “artesãos”.
+- `pt-BR/p4-l11.md` [23]: “Na segunda, prossegue, em “deve-se tomar”” → “Na segunda, prossegue, onde diz “deve-se tomar”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l11.md` [24]: “mostra o que se propôs, em “onde, pois”” → “mostra o que se propôs, onde diz “onde, pois”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l11.md` [24]: “mais homens de nascimento humilde do que nobres” → “mais ignóbeis do que nobres” — *ignobiles* → “ignóbeis” (Key Terms); estava “homens de nascimento humilde”.
+- `pt-BR/p4-l11.md` [25]: “convém o poder de poucos, em “onde, porém, a multidão”” → “convém o poder de poucos, onde diz “onde, porém, a multidão”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l11.md` [25]: “convém a república, em “é preciso, porém, sempre”” → “convém a república, onde diz “é preciso, porém, sempre”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l11.md` [25]: “dos mais humildes e dos mercenários” → “dos mais humildes e dos assalariados” — *mercenariorum* → “assalariados” (Key Terms); trata-se de trabalhadores por salário, não especificamente de mercenários. *(meaning)*
+- `pt-BR/p4-l11.md` [26]: “ricos que têm posses moderadas” → “ricos que têm possessões moderadas” — *possessiones* → “possessões” (Key Terms).
+- `pt-BR/p4-l11.md` [26]: “mas têm posses moderadas” → “mas têm possessões moderadas” — *possessiones* → “possessões” (Key Terms).
+- `pt-BR/p4-l11.md` [27]: “do estado popular e do de poucos, em “além disso, porém”” → “do estado popular e do de poucos, onde diz “além disso, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l11.md` [27]: “remove o erro de alguns, em “erram, porém”” → “remove o erro de alguns, onde diz “erram, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l11.md` [27]: “uma objeção que poderia ser feita, em “nada, com efeito, há que temer”” → “uma objeção que poderia ser feita, onde diz “nada, com efeito, há que temer”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l11.md` [30]: “Na segunda, recapitula, em “por que causa, pois”” → “Na segunda, recapitula, onde diz “por que causa, pois”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l11.md` [30]: “dos que têm armas, em “é preciso, porém”” → “dos que têm armas, onde diz “é preciso, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l11.md` [30]: “chamaram à república estado popular, em “crescendo, porém”” → “chamaram à república estado popular, onde diz “crescendo, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l11.md` [30]: “como se mistura deles, em “pelo que é manifesto”” → “como se mistura deles, onde diz “pelo que é manifesto”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l11.md` [30]: “Em segundo lugar, as do popular, em “nas democracias, porém”” → “Em segundo lugar, as do popular, onde diz “nas democracias, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l11.md` [30]: “toca as próprias leis, em “acerca da assembleia”” → “toca as próprias leis, onde diz “acerca da assembleia”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l11.md` [31]: “acerca da magistratura, em “acerca das magistraturas”” → “acerca da magistratura, onde diz “acerca das magistraturas”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l11.md` [31]: “acerca do tribunal, em “acerca dos tribunais”” → “acerca do tribunal, onde diz “acerca dos tribunais”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l11.md` [31]: “acerca das armas e dos exercícios, em “do mesmo modo”” → “acerca das armas e dos exercícios, onde diz “do mesmo modo”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l11.md` [34]: “lei sobre a posse das armas” → “lei sobre a possessão das armas” — *possessio* → “possessão” (Key Terms); estava “posse”.
+- `pt-BR/p4-l11.md` [37]: “dos que usaram armas, em “há, com efeito, politia”” → “dos que usaram armas, onde diz “há, com efeito, politia”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l11.md` [37]: “a causa de algo que disse, em “querem, com efeito, os pobres”” → “a causa de algo que disse, onde diz “querem, com efeito, os pobres”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l11.md` [40]: “por que de poucos, em “havia, com efeito”” → “por que de poucos, onde diz “havia, com efeito”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l12.md` [3]: “o bom legislador deve considerar” → “o legislador virtuoso deve considerar” — *studiosus* → “virtuoso” (Key Terms); estava “bom”.
+- `pt-BR/p4-l12.md` [6]: “sobre todas as coisas, é popular” → “sobre todas as coisas, é democrático” — *demotice* → “democrático” (Key Terms); estava “popular”.
+- `pt-BR/p4-l12.md` [15]: “remuneração para os indigentes” → “remuneração para os necessitados” — *egenis* → “necessitados” (Key Terms); estava “indigentes”.
+- `pt-BR/p4-l12.md` [21]: “Em segundo lugar, prossegue, em “dominante é”” → “Em segundo lugar, prossegue, onde diz “dominante é”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l12.md` [21]: “o bom legislador deve considerar” → “o legislador virtuoso deve considerar” — *studiosus* → “virtuoso” (Key Terms); estava “bom”.
+- `pt-BR/p4-l12.md` [22]: “sobre a magistratura, em “sobre o que delibera”” → “sobre a magistratura, onde diz “sobre o que delibera”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l12.md` [22]: “sobre o judicativo, em “resta, porém”” → “sobre o judicativo, onde diz “resta, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l12.md` [22]: “sobre o próprio deliberativo, em “é necessário, porém”” → “sobre o próprio deliberativo, onde diz “é necessário, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l12.md` [23]: “competem os membros dela, em “todos, pois”” → “competem os membros dela, onde diz “todos, pois”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l12.md` [24]: “convenientes a certas repúblicas, em “convém, porém”” → “convenientes a certas repúblicas, onde diz “convém, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l12.md` [25]: “A segunda em “outro modo, porém”, etc.” → “A segunda onde diz “outro modo, porém”, etc.” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l12.md` [25]: “A terceira em “outro modo é que”” → “A terceira onde diz “outro modo é que”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l12.md` [25]: “A quarta em “o quarto modo, porém”” → “A quarta onde diz “o quarto modo, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l12.md` [29]: “dos poucos que dominam, em “quando, com efeito”” → “dos poucos que dominam, onde diz “quando, com efeito”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l12.md` [33]: “ao de poucos, em “nas oligarquias, porém”” → “ao de poucos, onde diz “nas oligarquias, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l12.md` [33]: “A segunda em “convém, porém”, etc.” → “A segunda onde diz “convém, porém”, etc.” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l12.md` [33]: “A terceira em “convém, porém, se excederem”” → “A terceira onde diz “convém, porém, se excederem”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l12.md` [36]: “A segunda em “além disso, as mesmas coisas”” → “A segunda onde diz “além disso, as mesmas coisas”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l12.md` [36]: “A terceira em “e o oposto daquilo que”” → “A terceira onde diz “e o oposto daquilo que”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l13.md` [4]: “como o comandante do exército sobre os que combatem” → “como o chefe do exército sobre os que combatem” — *dux exercitus* → “chefe do exército” (Key Terms); estava “comandante do exército”.
+- `pt-BR/p4-l13.md` [6]: “quais, não sendo necessárias, são contudo convenientes para a politia virtuosa” → “quais, sendo necessárias, não são contudo convenientes para a politia virtuosa” — O texto latino fornecido diz *necessarii quidem, non opportuni autem*; a tradução inverte a necessidade e a conveniência. *(meaning)*
+- `pt-BR/p4-l13.md` [15]: “as mulheres dos indigentes” → “as mulheres dos necessitados” — *egenorum* → “necessitados” (Key Terms); estava “indigentes”.
+- `pt-BR/p4-l13.md` [16]: “Na segunda, prossegue, em “não é fácil, porém”” → “Na segunda, prossegue, onde diz “não é fácil, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l13.md` [17]: “ao sexto livro, em “que, pois, são”” → “ao sexto livro, onde diz “que, pois, são”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l13.md` [17]: “o modo da instituição delas, em “acerca das instituições”” → “o modo da instituição delas, onde diz “acerca das instituições”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l13.md` [17]: “da magistratura em ordem às repúblicas, em “mas estas coisas diferem”” → “da magistratura em ordem às repúblicas, onde diz “mas estas coisas diferem”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l13.md` [17]: “os modos ditos principalmente, em “sobretudo, porém”” → “os modos ditos principalmente, onde diz “sobretudo, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l13.md` [17]: “como é o comandante do exército dos que combatem” → “como é o chefe do exército dos que combatem” — *dux exercitus* → “chefe do exército” (Key Terms); estava “comandante do exército”.
+- `pt-BR/p4-l13.md` [19]: “sobre o que faz dificuldade, em “nas grandes”” → “sobre o que faz dificuldade, onde diz “nas grandes”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l13.md` [19]: “acerca da altercação sobre os nomes” → “acerca da disputa sobre os nomes” — *altercatio* → “disputa” (Key Terms); estava “altercação”.
+- `pt-BR/p4-l13.md` [20]: “levanta dúvidas acerca disto, em “sucede, porém”” → “levanta dúvidas acerca disto, onde diz “sucede, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l13.md` [20]: “nas pequenas não convém, em “nas pequenas, porém”” → “nas pequenas não convém, onde diz “nas pequenas, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l13.md` [21]: “uma objeção que se poderia fazer, em “precisam, porém, às vezes”” → “uma objeção que se poderia fazer, onde diz “precisam, porém, às vezes”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l13.md` [21]: “juntar numa só, e quais não, em “se, pois, tivermos”” → “juntar numa só, e quais não, onde diz “se, pois, tivermos”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l13.md` [24]: “Em segundo lugar, resolve-as, em “ou existem algumas”” → “Em segundo lugar, resolve-as, onde diz “ou existem algumas”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l13.md` [25]: “acrescenta algo à solução, em “não só”” → “acrescenta algo à solução, onde diz “não só”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l13.md` [26]: “sobre a magistratura das crianças, em “das crianças”” → “sobre a magistratura das crianças, onde diz “das crianças”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l13.md` [26]: “certo conselho no estado popular, em “dissolve-se, porém”” → “certo conselho no estado popular, onde diz “dissolve-se, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l14.md` [12]: “o que é senhor das rendas” → “o que é senhor dos rendimentos” — *proventuum* → “rendimentos” (Key Terms); estava “rendas”.
+- `pt-BR/p4-l14.md` [13]: “Na segunda, prossegue, em “há, porém”” → “Na segunda, prossegue, onde diz “há, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l14.md` [14]: “convêm a cada república, em “destas, porém, duas”” → “convêm a cada república, onde diz “destas, porém, duas”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l14.md` [14]: “subdivide os membros, em “de cada um, porém”” → “subdivide os membros, onde diz “de cada um, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l14.md` [15]: “se tenha o número dos modos, em “novamente, porém”” → “se tenha o número dos modos, onde diz “novamente, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l14.md` [17]: “quais à república, em “que não todos, porém”” → “quais à república, onde diz “que não todos, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l14.md` [17]: “quais ao estado de poucos, em “e que alguns dentre todos”” → “quais ao estado de poucos, onde diz “e que alguns dentre todos”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l14.md` [17]: “quais ao poder dos melhores, em “mas que uns”” → “quais ao poder dos melhores, onde diz “mas que uns”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l14.md` [17]: “qual ao poder de poucos, em “que alguns, porém, dentre alguns”” → “qual ao poder de poucos, onde diz “que alguns, porém, dentre alguns”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l14.md` [22]: “senhor das rendas e da região” → “senhor dos rendimentos e da região” — *proventuum* → “rendimentos” (Key Terms); estava “rendas”.
+- `pt-BR/p4-l15.md` [10]: “prossegue, em ***são, porém***” → “prossegue, onde diz ***são, porém***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l15.md` [14]: “se instituem, em ***é necessário, portanto***” → “se instituem, onde diz ***é necessário, portanto***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l15.md` [17]: “da sua consideração, em ***mas destes***” → “da sua consideração, onde diz ***mas destes***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p4-l15.md` [22]: “convêm a cada república, em ***destes, porém***” → “convêm a cada república, onde diz ***destes, porém***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l01.md` [12]: “o rei Pausânias, o eforato” → “o rei Pausânias, a eforia” — *Ephoriam* → “eforia” (Key Terms); estava “eforato”.
+- `pt-BR/p5-l01.md` [21]: “como a tirânica e a régia, em “resta, porém”” → “como a tirânica e a régia, onde diz “resta, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l01.md` [21]: “determina as causas da conservação, em “da conservação”” → “determina as causas da conservação, onde diz “da conservação”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l01.md` [21]: “os princípios mais próximos da corrupção, em “há, porém”” → “os princípios mais próximos da corrupção, onde diz “há, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l01.md` [21]: “aquela causa para acrescentar algo, em “por toda parte, com efeito”” → “aquela causa para acrescentar algo, onde diz “por toda parte, com efeito”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l01.md` [21]: “de quantos modos se mudam, em “por isso”” → “de quantos modos se mudam, onde diz “por isso”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l01.md` [21]: “a causa primeira da corrupção das repúblicas, em “e por esta causa”” → “a causa primeira da corrupção das repúblicas, onde diz “e por esta causa”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l01.md` [23]: “acrescenta outro princípio, em “há, porém”” → “acrescenta outro princípio, onde diz “há, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l01.md` [23]: “e contudo não o fazem, em “de todos, porém”” → “e contudo não o fazem, onde diz “de todos, porém”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l01.md` [26]: “A segunda, em “outras vezes, porém”, etc.” → “A segunda, onde diz “outras vezes, porém”, etc.” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l01.md` [26]: “A terceira, em “ainda, quanto ao”, etc.” → “A terceira, onde diz “ainda, quanto ao”, etc.” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l01.md` [26]: “A quarta, em “ainda, em relação a alguma parte”, etc.” → “A quarta, onde diz “ainda, em relação a alguma parte”, etc.” — *ibi* → “onde diz” (Key Terms).
+- NOT APPLIED (old text not found exactly once (0)): - `pt-BR/p4-l10.md` [26]: “A segunda, em “além disso”, etc.” → “A segunda, onde diz “além disso”, etc.” — *ibi* → “onde diz” (Key Terms).
+- NOT APPLIED (old text not found exactly once (0)): - `pt-BR/p4-l10.md` [26]: “A terceira, em “além disso, os que”, etc.” → “A terceira, onde diz “além disso, os que”, etc.” — *ibi* → “onde diz” (Key Terms).
+- NOT APPLIED (old text not found exactly once (0)): - `pt-BR/p4-l10.md` [26]: “A quarta, em “os que, porém”, etc.” → “A quarta, onde diz “os que, porém”, etc.” — *ibi* → “onde diz” (Key Terms).
+
+### Part terms 7 of 14, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 5 minor. Delta read de p4-l10 a p5-l01: reverti três correções da rodada 1 que contrariavam decisões ou termos desta seção (inversão necessária/conveniente em p4-l13 [6], substância, eforia); corrigi um “indigentes” restante e a grafia “probulos” no journal.
+- `pt-BR/p4-l13.md` [6]: “quais, sendo necessárias, não são contudo convenientes para a politia virtuosa” → “quais, não sendo necessárias, são contudo convenientes para a politia virtuosa” — O latim *necessarii quidem, non opportuni autem* está corrompido. O journal (Decisões, g5-c016 [408]) segue a leitura de Santo Tomás, e o comentário em [19] diz *qui et quales non sunt necessarii, tamen expediunt*, como o grego. A correção da rodada 1 contradiz [19] e reverte uma decisão documentada. *(meaning)*
+- `pt-BR/p4-l10.md` [34]: “tenham substância média” → “tenham fortuna média” — A linha de Key Terms desta seção diz *substantia* → “fortuna”. A linha “substância” é de g3. Em português corrente, “substância média” não se lê como bens.
+- `pt-BR/p5-l01.md` [12]: “o rei Pausânias, a eforia” → “o rei Pausânias, o eforato” — A linha de Key Terms desta seção diz “ephori / ephoria | éforos / eforato”. “Eforia” vem das linhas de g3.
+- `pt-BR/p4-l11.md` [34]: “lícito aos indigentes não ter armas” → “lícito aos necessitados não ter armas” — *egenis* → “necessitados” (Key Terms), como nas outras ocorrências já corrigidas nesta parte.
+- `pt-BR/translation-journal.md`: “| praemissi / praeconsules / praeconsulentes | probulos | Gr.” → “| praemissi / praeconsules / praeconsulentes | próbulos | Gr.” — O texto e a nota [^9] usam “próbulos”, com acento. A forma “probulos” da linha não ocorre no texto.
+- `pt-BR/translation-journal.md`: “*consules* (abreviação) também “probulos”.” → “*consules* (abreviação) também “próbulos”.” — Mesma grafia acentuada usada no texto (p4-l13 [26]).
+- Rejected: pt-BR/p4-l12.md [5] — repetição “todos todos” — “dar a todos todos estes juízos” traduz *omnibus dare omnia*; a construção é gramatical e intencional.
+- Rejected: pt-BR/p4-l11.md [26] — “primeira espécie do estado de poucos” onde o latim diz *popularis status* — Leitura registrada no journal (g5-c016 [348]), exigida pelo contexto.
+- Rejected: pt-BR/p4-l11.md [25] — *mercenariorum* → “assalariados” — Correção conforme a linha *mercenarii* | assalariados; está certa.
+
+### Part terms 7 of 14, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as seis alterações, os 12 parágrafos apresentados e as duas notas do tradutor; nenhum novo defeito objetivo encontrado. Os alertas mecânicos relativos a parágrafos não apresentados não puderam ser avaliados.
+- Rejected: pt-BR/p4-l13.md [6] — A tradução inverte a posição da negação em «necessarii quidem, non opportuni autem». — A leitura atual segue a decisão expressa do journal para essa passagem corrompida, apoiada pelo comentário citado na rodada anterior; não cabe revertê-la novamente.
+
+### Part terms 8 of 14, Round 1 (codex, terms read)
+Verdict: 2 meaning-level, 178 minor. 131 parágrafos sinalizados lidos; 178 substituições por deriva terminológica e 2 complementos de glossário.
+- `pt-BR/p5-l01.md` [29]: “uma magistratura e se institui outra” → “um cargo de governo e se institui outro” — Principatus concreto → “cargo de governo”.
+- `pt-BR/p5-l01.md` [29]: “a magistratura dos éforos” → “o cargo de governo dos éforos” — Principatus concreto → “cargo de governo”.
+- `pt-BR/p5-l01.md` [29]: “havia outra magistratura” → “havia outro cargo de governo” — Principatus concreto → “cargo de governo”.
+- `pt-BR/p5-l01.md` [29]: “uma magistratura de senadores” → “um cargo de governo de senadores” — Principatus concreto → “cargo de governo”.
+- `pt-BR/p5-l01.md` [29]: “daquela magistratura, mudaram-na” → “daquele cargo de governo, mudaram-no” — Principatus concreto → “cargo de governo”; ajusta também o pronome.
+- `pt-BR/p5-l01.md` [29]: “todas as magistraturas fossem eleitas” → “todos os cargos de governo fossem eleitos” — Principatus concreto → “cargos de governo”.
+- `pt-BR/p5-l01.md` [29]: “todas as magistraturas que tinham” → “todos os cargos de governo que tinham” — Principatus concreto → “cargos de governo”.
+- `pt-BR/p5-l01.md` [29]: “A magistratura que foi removida era própria” → “O cargo de governo que foi removido era próprio” — Principatus concreto → “cargo de governo”.
+- `pt-BR/p5-l01.md` [29]: “um só magistrado naquela república” → “um só governante naquela república” — Princeps → “governante”.
+- `pt-BR/p5-l01.md` [30]: “em “é, com efeito, duplo”” → “onde diz “é, com efeito, duplo”” — Ibi, em remissão textual → “onde diz”.
+- `pt-BR/p5-l01.md` [30]: “das próprias ações é a eleição” → “dos próprios agíveis é a eleição” — Agibilia → “agíveis”.
+- `pt-BR/p5-l01.md` [30]: “o intelecto prático é princípio das ações” → “o intelecto prático é princípio dos agíveis” — Agibilia → “agíveis”.
+- `pt-BR/p5-l01.md` [30]: “o princípio das ações é o apetite” → “o princípio dos agíveis é o apetite” — Agibilia → “agíveis”.
+- `pt-BR/p5-l01.md` [30]: “é causa e princípio das ações” → “é causa e princípio dos agíveis” — Agibilia → “agíveis”.
+- `pt-BR/p5-l01.md` [31]: “em “confessando, porém”” → “onde diz “confessando, porém”” — Ibi, em remissão textual → “onde diz”.
+- `pt-BR/p5-l01.md` [32]: “em “por isso”” → “onde diz “por isso”” — Ibi, em remissão textual → “onde diz”.
+- `pt-BR/p5-l01.md` [33]: “em “mas, absolutamente”” → “onde diz “mas, absolutamente”” — Ibi, em remissão textual → “onde diz”.
+- `pt-BR/p5-l01.md` [34]: “em “todavia, mais segura”” → “onde diz “todavia, mais segura”” — Ibi, em remissão textual → “onde diz”.
+- `pt-BR/p5-l01.md` [35]: “A segunda, em “além disso”” → “A segunda, onde diz “além disso”” — Ibi, em remissão textual → “onde diz”.
+- `pt-BR/p5-l02.md` [7]: “nas magistraturas” → “nos cargos de governo” — Principatus concreto → “cargos de governo”.
+- `pt-BR/p5-l02.md` [11]: “a democracia foi destruída” → “a democracia foi corrompida” — Corrupta → “corrompida”, mantendo a família de “corrupção”.
+- `pt-BR/p5-l02.md` [15]: “nas magistraturas” → “nos cargos de governo” — Principatus concreto → “cargos de governo”.
+- `pt-BR/p5-l02.md` [15]: “um dos magistrados Heracleodoro” → “um dos governantes Heracleodoro” — Principum, de princeps → “governantes”.
+- `pt-BR/p5-l02.md` [18]: “os adventícios, armando” → “os forasteiros, armando” — Advenae → “forasteiros”.
+- `pt-BR/p5-l02.md` [18]: “introduzindo adventícios” → “introduzindo forasteiros” — Advenas → “forasteiros”.
+- `pt-BR/p5-l02.md` [20]: “são mais populares os que” → “são mais democráticos os que” — Demotici → “democráticos”.
+- `pt-BR/p5-l02.md` [20]: “os que habitam a cidade” → “os que habitam o burgo” — Municipium → “burgo”, distinto do subúrbio.
+- `pt-BR/p5-l02.md` [21]: “em “segundo cada uma”” → “onde diz “segundo cada uma”” — Ibi → “onde diz”.
+- `pt-BR/p5-l02.md` [21]: “em “há, com efeito”” → “onde diz “há, com efeito”” — Ibi → “onde diz”.
+- `pt-BR/p5-l02.md` [21]: “em “move-se também”” → “onde diz “move-se também”” — Ibi → “onde diz”.
+- `pt-BR/p5-l02.md` [21]: “em “quanto, pois”” → “onde diz “quanto, pois”” — Ibi → “onde diz”.
+- `pt-BR/p5-l02.md` [22]: “em “aquilo sobre que, porém”” → “onde diz “aquilo sobre que, porém”” — Ibi → “onde diz”.
+- `pt-BR/p5-l02.md` [22]: “em “as causas, porém”” → “onde diz “as causas, porém”” — Ibi → “onde diz”.
+- `pt-BR/p5-l02.md` [22]: “o justo absolutamente, mas em certo aspecto” → “o justo simplesmente, mas sob certo aspecto” — Iustum simpliciter / secundum quid → “justo simplesmente / sob certo aspecto”.
+- `pt-BR/p5-l02.md` [24]: “em “dão-se, pois”” → “onde diz “dão-se, pois”” — Ibi → “onde diz”.
+- `pt-BR/p5-l02.md` [24]: “em “destas, porém”” → “onde diz “destas, porém”” — Ibi → “onde diz”.
+- `pt-BR/p5-l02.md` [25]: “em “mudam-se, porém”” → “onde diz “mudam-se, porém”” — Ibi → “onde diz”.
+- `pt-BR/p5-l02.md` [25]: “em “é claro, porém, também a honra”” → “onde diz “é claro, porém, também a honra”” — Ibi → “onde diz”.
+- `pt-BR/p5-l02.md` [25]: “os atos de dominação” → “os atos despóticos” — Dominativa → “despóticos”, variante autorizada pelo glossário.
+- `pt-BR/p5-l02.md` [26]: “em “por causa do excesso, porém”” → “onde diz “por causa do excesso, porém”” — Ibi → “onde diz”.
+- `pt-BR/p5-l02.md` [26]: “em “por causa do temor, porém”” → “onde diz “por causa do temor, porém”” — Ibi → “onde diz”.
+- `pt-BR/p5-l02.md` [26]: “em “por causa do desprezo, com efeito, às sedições”” → “onde diz “por causa do desprezo, com efeito, às sedições”” — Ibi → “onde diz”.
+- `pt-BR/p5-l02.md` [26]: “em “dão-se, porém, também por causa do crescimento”” → “onde diz “dão-se, porém, também por causa do crescimento”” — Ibi → “onde diz”.
+- `pt-BR/p5-l02.md` [29]: “não participam da magistratura” → “não participam do cargo de governo” — Principatus concreto → “cargo de governo”.
+- `pt-BR/p5-l02.md` [29]: “detêm a magistratura” → “detêm o cargo de governo” — Principatus concreto → “cargo de governo”.
+- `pt-BR/p5-l02.md` [29]: “indignos da magistratura” → “indignos do cargo de governo” — Principatus concreto → “cargo de governo”.
+- `pt-BR/p5-l02.md` [30]: “em “acontece, porém, às vezes”” → “onde diz “acontece, porém, às vezes”” — Ibi → “onde diz”.
+- `pt-BR/p5-l02.md` [31]: “Cleômenes, o espartano” → “Cleômenes, o espartiata” — Spartiata → “espartiata”.
+- `pt-BR/p5-l02.md` [31]: “a república tornou-se popular” → “formou-se um regime popular” — Respublica popularis → “regime popular”.
+- `pt-BR/p5-l02.md` [32]: “em “e por causa do menosprezo”” → “onde diz “e por causa do menosprezo”” — Ibi → “onde diz”.
+- `pt-BR/p5-l02.md` [32]: “em “ainda, por causa”” → “onde diz “ainda, por causa”” — Ibi → “onde diz”.
+- `pt-BR/p5-l02.md` [32]: “em “é sedicioso, porém”” → “onde diz “é sedicioso, porém”” — Ibi → “onde diz”.
+- `pt-BR/p5-l02.md` [32]: “para a magistratura” → “para o cargo de governo” — Principatus concreto → “cargo de governo”.
+- `pt-BR/p5-l02.md` [32]: “as magistraturas que antes se faziam” → “os cargos de governo que antes se faziam” — Principatus concreto → “cargos de governo”.
+- `pt-BR/p5-l02.md` [35]: “em “promovem sedições, porém”” → “onde diz “promovem sedições, porém”” — Ibi → “onde diz”.
+- `pt-BR/p5-l02.md` [35]: “em “sofrem, porém, sedições”” → “onde diz “sofrem, porém, sedições”” — Ibi → “onde diz”.
+- `pt-BR/p5-l03.md` [8]: “dos indigentes” → “dos necessitados” — Egenorum → “necessitados”.
+- `pt-BR/p5-l03.md` [8]: “estrangeiro hóspede da cidade” → “forasteiro hóspede da cidade” — Advena → “forasteiro”.
+- `pt-BR/p5-l03.md` [11]: “seja uma magistratura” → “seja um cargo de governo” — Principatus concreto → “cargo de governo”.
+- `pt-BR/p5-l03.md` [13]: “a multidão naval” → “a turba naval” — Navalis turba → “turba naval”.
+- `pt-BR/p5-l03.md` [18]: “sejam magistraturas” → “sejam cargos de governo” — Principatus concreto → “cargos de governo”.
+- `pt-BR/p5-l03.md` [21]: “A segunda, em “em geral, porém”” → “A segunda, onde diz “em geral, porém”” — Ibi → “onde diz”.
+- `pt-BR/p5-l03.md` [21]: “em “por isso”” → “onde diz “por isso”” — Ibi → “onde diz”.
+- `pt-BR/p5-l03.md` [23]: “em “como aconteceu em Hestieia”” → “onde diz “como aconteceu em Hestieia”” — Ibi → “onde diz”.
+- `pt-BR/p5-l03.md` [24]: “A segunda, em “e em Delfos”” → “A segunda, onde diz “e em Delfos”” — Ibi → “onde diz”.
+- `pt-BR/p5-l03.md` [24]: “A terceira, em “em Mitilene, por sua vez”” → “A terceira, onde diz “em Mitilene, por sua vez”” — Ibi → “onde diz”.
+- `pt-BR/p5-l03.md` [24]: “A quarta, em “e entre os foceus”” → “A quarta, onde diz “e entre os foceus”” — Ibi → “onde diz”.
+- `pt-BR/p5-l03.md` [24]: “A quinta, em “mudou-se também”” → “A quinta, onde diz “mudou-se também”” — Ibi → “onde diz”.
+- `pt-BR/p5-l03.md` [29]: “em “como em”” → “onde diz “como em”” — Ibi → “onde diz”.
+- `pt-BR/p5-l03.md` [29]: “se governava, o seu estado” → “se regia, o seu estado” — Regebat → “regia”.
+- `pt-BR/p5-l03.md` [29]: “não governava, sucede” → “não regia, sucede” — Regebat → “regia”.
+- `pt-BR/p5-l03.md` [29]: “comece a governar” → “comece a reger” — Regere → “reger”.
+- `pt-BR/p5-l03.md` [36]: “sejam príncipes” → “sejam governantes” — Principes → “governantes”.
+- `pt-BR/p5-l04.md` [10]: “as posses dos ricos” → “as possessões dos ricos” — Possessiones → “possessões”.
+- `pt-BR/p5-l04.md` [13]: “grandes magistraturas” → “grandes cargos de governo” — Principatus concreto → “cargos de governo”.
+- `pt-BR/p5-l04.md` [15]: “as magistraturas são eletivas” → “os cargos de governo são eletivos” — Principatus concreto → “cargos de governo”.
+- `pt-BR/p5-l04.md` [17]: “em “as oligarquias, porém”” → “onde diz “as oligarquias, porém”” — Ibi → “onde diz”.
+- `pt-BR/p5-l04.md` [17]: “em “nas aristocracias, porém”” → “onde diz “nas aristocracias, porém”” — Ibi → “onde diz”.
+- `pt-BR/p5-l04.md` [17]: “em “as democracias, pois”” → “onde diz “as democracias, pois”” — Ibi → “onde diz”.
+- `pt-BR/p5-l04.md` [18]: “em “mudam-se também da primeira”” → “onde diz “mudam-se também da primeira”” — Ibi → “onde diz”.
+- `pt-BR/p5-l04.md` [18]: “em “nos antigos tempos”” → “onde diz “nos antigos tempos”” — Ibi → “onde diz”.
+- `pt-BR/p5-l04.md` [18]: “em “e isto em muitos”” → “onde diz “e isto em muitos”” — Ibi → “onde diz”.
+- `pt-BR/p5-l04.md` [18]: “em “e em Rodes”” → “onde diz “e em Rodes”” — Ibi → “onde diz”.
+- `pt-BR/p5-l04.md` [19]: “A segunda, em “e em Rodes”” → “A segunda, onde diz “e em Rodes”” — Ibi → “onde diz”.
+- `pt-BR/p5-l04.md` [19]: “A terceira, em “dissolveu-se também em Heracleia”” → “A terceira, onde diz “dissolveu-se também em Heracleia”” — Ibi → “onde diz”.
+- `pt-BR/p5-l04.md` [19]: “A quarta, em “não muito dessemelhantemente”” → “A quarta, onde diz “não muito dessemelhantemente”” — Ibi → “onde diz”.
+- `pt-BR/p5-l04.md` [19]: “A quinta, em “sucedeu o mesmo também em Cumas”” → “A quinta, onde diz “sucedeu o mesmo também em Cumas”” — Ibi → “onde diz”.
+- `pt-BR/p5-l04.md` [20]: “por medo do julgamento” → “por medo do juízo” — Iudicium → “juízo”.
+- `pt-BR/p5-l04.md` [24]: “as posses sejam iguais” → “as possessões sejam iguais” — Possessiones → “possessões”.
+- `pt-BR/p5-l04.md` [24]: “das posses dos ricos” → “das possessões dos ricos” — Possessionibus → “possessões”.
+- `pt-BR/p5-l04.md` [24]: “as suas posses sejam confiscadas” → “as suas possessões sejam confiscadas” — Possessiones → “possessões”.
+- `pt-BR/p5-l04.md` [26]: “A segunda, em “faziam-se também tiranias”” → “A segunda, onde diz “faziam-se também tiranias”” — Ibi → “onde diz”.
+- `pt-BR/p5-l04.md` [26]: “A terceira, em “ademais”” → “A terceira, onde diz “ademais”” — Ibi → “onde diz”.
+- `pt-BR/p5-l04.md` [26]: “elegiam por príncipe” → “elegiam por governante” — Principem → “governante”.
+- `pt-BR/p5-l04.md` [27]: “grandes magistraturas” → “grandes cargos de governo” — Principatus concreto → “cargos de governo”.
+- `pt-BR/p5-l04.md` [27]: “se confiou a magistratura” → “se confiou o cargo de governo” — Principatus concreto → “cargo de governo”.
+- `pt-BR/p5-l04.md` [29]: “em “o remédio”” → “onde diz “o remédio”” — Ibi → “onde diz”.
+- `pt-BR/p5-l05.md` [13]: “estes adquirem para si mais poderio” → “estes adquirem para si um potentado mais forte” — Potentatum designa aqui o potentado, forma de governo de vários poderosos, e não apenas poderio. *(meaning)*
+- `pt-BR/p5-l05.md` [17]: “se exercem as magistraturas” → “se exercem os cargos de governo” — Principatus concreto → “cargos de governo”.
+- `pt-BR/p5-l05.md` [17]: “as mesmas posses” → “as mesmas possessões” — Possessiones → “possessões”.
+- `pt-BR/p5-l05.md` [19]: “em “as oligarquias, pois”” → “onde diz “as oligarquias, pois”” — Ibi → “onde diz”.
+- `pt-BR/p5-l05.md` [19]: “em “fazem-se também”” → “onde diz “fazem-se também”” — Ibi → “onde diz”.
+- `pt-BR/p5-l05.md` [19]: “em “um, se praticam injustiças”” → “onde diz “um, se praticam injustiças”” — Ibi → “onde diz”.
+- `pt-BR/p5-l05.md` [20]: “em “tem também”” → “onde diz “tem também”” — Ibi → “onde diz”.
+- `pt-BR/p5-l05.md` [21]: “A segunda, em “mudou-se também”” → “A segunda, onde diz “mudou-se também”” — Ibi → “onde diz”.
+- `pt-BR/p5-l05.md` [21]: “A terceira, em “movem-se também as oligarquias”” → “A terceira, onde diz “movem-se também as oligarquias”” — Ibi → “onde diz”.
+- `pt-BR/p5-l05.md` [21]: “A quarta, em “ademais”” → “A quarta, onde diz “ademais”” — Ibi → “onde diz”.
+- `pt-BR/p5-l05.md` [21]: “A quinta, em “dissolvem-se também”” → “A quinta, onde diz “dissolvem-se também”” — Ibi → “onde diz”.
+- `pt-BR/p5-l05.md` [21]: “A sexta, em “fazem-se também”” → “A sexta, onde diz “fazem-se também”” — Ibi → “onde diz”.
+- `pt-BR/p5-l05.md` [21]: “A sétima, em “muitas”” → “A sétima, onde diz “muitas”” — Ibi → “onde diz”.
+- `pt-BR/p5-l05.md` [21]: “não estão na magistratura” → “não estão no cargo de governo” — Principatus concreto → “cargo de governo”.
+- `pt-BR/p5-l05.md` [23]: “em “a demagogia, com efeito, dá-se de dois modos”” → “onde diz “a demagogia, com efeito, dá-se de dois modos”” — Ibi → “onde diz”.
+- `pt-BR/p5-l05.md` [24]: “a eleição como os julgamentos” → “a eleição como os juízos” — Iudicia → “juízos”.
+- `pt-BR/p5-l05.md` [25]: “em “fazem-se também”” → “onde diz “fazem-se também”” — Ibi → “onde diz”.
+- `pt-BR/p5-l05.md` [25]: “em “a oligarquia concorde, porém”” → “onde diz “a oligarquia concorde, porém”” — Ibi → “onde diz”.
+- `pt-BR/p5-l05.md` [26]: “que outro seja príncipe” → “que outro seja governante” — Princeps → “governante”.
+- `pt-BR/p5-l05.md` [26]: “posto à frente como príncipe” → “posto à frente como governante” — Principem → “governante”.
+- `pt-BR/p5-l05.md` [28]: “em “faz-se a mudança”” → “onde diz “faz-se a mudança”” — Ibi → “onde diz”.
+- `pt-BR/p5-l05.md` [28]: “não participam das magistraturas” → “não participam dos cargos de governo” — Principatus concreto → “cargos de governo”.
+- `pt-BR/p5-l05.md` [29]: “em “na paz”” → “onde diz “na paz”” — Ibi → “onde diz”.
+- `pt-BR/p5-l05.md` [29]: “como seu príncipe” → “como seu governante” — Principem → “governante”.
+- `pt-BR/p5-l05.md` [29]: “foi o príncipe deles” → “foi o governante deles” — Princeps → “governante”.
+- `pt-BR/p5-l05.md` [29]: “as suas posses” → “as suas possessões” — Possessiones → “possessões”.
+- `pt-BR/p5-l05.md` [30]: “se torna príncipe e senhor” → “se torna governante e senhor” — Princeps → “governante”.
+- `pt-BR/p5-l05.md` [31]: “Diágoras, príncipe dos cavaleiros” → “Diágoras, governante dos cavaleiros” — Princeps → “governante”.
+- `pt-BR/translation-journal.md`: “| felicitas / beatus | felicidade / bem-aventurado | *Felix*: “feliz”. |” → “| felicitas / beatus | felicidade / bem-aventurado | *Felix*: “feliz”. No sentido de bonança material, *felicitas* → “prosperidade”. |” — Em p5-l05 [33], felicitas indica prosperidade econômica, que permite alcançar o censo, e não a felicidade como fim humano.
+- `pt-BR/p5-l05.md` [33]: “de todas as magistraturas” → “de todos os cargos de governo” — Principatus concreto → “cargos de governo”.
+- `pt-BR/p5-l06.md` [5]: “contra os espartanos” → “contra os espartiatas” — Spartiatas → “espartiatas”.
+- `pt-BR/p5-l06.md` [7]: “para governar sozinho” → “para exercer a monarquia” — Monarchizet exprime exercer a monarquia; preserva o termo do glossário.
+- `pt-BR/p5-l06.md` [11]: “as magistraturas provinham” → “os cargos de governo provinham” — Principatus concreto → “cargos de governo”.
+- `pt-BR/p5-l06.md` [11]: “a mais magistraturas” → “a mais cargos de governo” — Principativa designa os cargos de governo.
+- `pt-BR/p5-l06.md` [15]: “no poderio dos que tinham” → “no potentado dos que tinham” — Potentatus é a forma de governo resultante da mudança, não apenas o poderio dos envolvidos. *(meaning)*
+- `pt-BR/p5-l06.md` [17]: “em “dissolvem-se”” → “onde diz “dissolvem-se”” — Ibi → “onde diz”.
+- `pt-BR/p5-l06.md` [17]: “em “sobretudo, porém, passam despercebidas”” → “onde diz “sobretudo, porém, passam despercebidas”” — Ibi → “onde diz”.
+- `pt-BR/p5-l06.md` [17]: “em “dissolvem-se sobretudo”” → “onde diz “dissolvem-se sobretudo”” — Ibi → “onde diz”.
+- `pt-BR/p5-l06.md` [17]: “A segunda, em “ou quando alguns”” → “A segunda, onde diz “ou quando alguns”” — Ibi → “onde diz”.
+- `pt-BR/p5-l06.md` [17]: “A terceira, em “ou quando alguém varonil”” → “A terceira, onde diz “ou quando alguém varonil”” — Ibi → “onde diz”.
+- `pt-BR/p5-l06.md` [17]: “A quarta, em “ademais, quando”” → “A quarta, onde diz “ademais, quando”” — Ibi → “onde diz”.
+- `pt-BR/p5-l06.md` [17]: “A quinta, em “ademais, se alguém for grande”” → “A quinta, onde diz “ademais, se alguém for grande”” — Ibi → “onde diz”.
+- `pt-BR/p5-l06.md` [19]: “contra os espartanos” → “contra os espartiatas” — Spartiatas → “espartiatas”.
+- `pt-BR/p5-l06.md` [22]: “A segunda está ali: “ademais, porém”” → “A segunda, onde diz “ademais, porém”” — Ibi → “onde diz”.
+- `pt-BR/p5-l06.md` [22]: “ali: “inteiramente, porém”” → “onde diz “inteiramente, porém”” — Ibi → “onde diz”.
+- `pt-BR/p5-l06.md` [22]: “ali: “pois o princípio”” → “onde diz “pois o princípio”” — Ibi → “onde diz”.
+- `pt-BR/p5-l06.md` [24]: “ali: “sucede, porém”” → “onde diz “sucede, porém”” — Ibi → “onde diz”.
+- `pt-BR/p5-l06.md` [25]: “Governando os insignes e ricos” → “Governando os notáveis e ricos” — Insignes → “notáveis”.
+- `pt-BR/p5-l06.md` [25]: “aqueles insignes e governantes” → “aqueles notáveis e governantes” — Insignes → “notáveis”.
+- `pt-BR/p5-l06.md` [26]: “ali: “por isso também a dos lócrios”” → “onde diz “por isso também a dos lócrios”” — Ibi → “onde diz”.
+- `pt-BR/p5-l06.md` [26]: “tinham bens e chegavam” → “tinham haveres e chegavam” — Substantias, no sentido de bens → “haveres”.
+- `pt-BR/p5-l06.md` [26]: “lícito aos insignes” → “lícito aos notáveis” — Insignibus → “notáveis”.
+- `pt-BR/p5-l06.md` [27]: “tomando Dionísio por príncipe” → “tomando Dionísio por governante” — Principem, de princeps → “governante”.
+- `pt-BR/p5-l06.md` [28]: “ali: “sucede, porém, isto”” → “onde diz “sucede, porém, isto”” — Ibi → “onde diz”.
+- `pt-BR/p5-l06.md` [29]: “no senhorio daqueles” → “no domínio daqueles” — Dominium → “domínio”.
+- `pt-BR/p5-l07.md` [5]: “consomem os bens” → “consomem os haveres” — Substantias, no sentido de bens → “haveres”.
+- `pt-BR/p5-l07.md` [10]: “as sedições dos insignes” → “as sedições dos notáveis” — Insignium → “notáveis”.
+- `pt-BR/p5-l07.md` [15]: “uma magistratura que considere” → “um cargo de governo que considere” — Principatus concreto → “cargo de governo”.
+- `pt-BR/p5-l07.md` [16]: “as ações e as magistraturas” → “as ações e os cargos de governo” — Principatus concreto → “cargos de governo”.
+- `pt-BR/p5-l07.md` [16]: “os indigentes aos opulentos” → “os necessitados aos opulentos” — Egenos → “necessitados”.
+- `pt-BR/p5-l07.md` [16]: “a multidão dos indigentes” → “a multidão dos necessitados” — Egenorum → “necessitados”.
+- `pt-BR/p5-l07.md` [17]: “lucrar com as magistraturas” → “lucrar com os cargos de governo” — Principatus concreto → “cargos de governo”.
+- `pt-BR/translation-journal.md`: “| vacatio / vacare | ócio / estar em ócio | Grego *scholḗ*; ver [^52]. |” → “| vacatio / vacare | ócio / estar em ócio | Grego *scholḗ*; ver [^52]. Com complemento que indica uma atividade, *vacare* → “ocupar-se de”, como em *circa propria vacare*, “ocupar-se dos seus próprios assuntos”. |” — Em p5-l07 [18], vacare rege os assuntos próprios e significa dedicar-se a eles; “estar em ócio” não exprime esse uso.
+- `pt-BR/p5-l07.md` [19]: “tanto os insignes como a multidão” → “tanto os notáveis como a multidão” — Insignes → “notáveis”.
+- `pt-BR/p5-l07.md` [19]: “os insignes estejam” → “os notáveis estejam” — Insignes → “notáveis”.
+- `pt-BR/p5-l07.md` [19]: “nas magistraturas” → “nos cargos de governo” — Principatus concreto → “cargos de governo”.
+- `pt-BR/p5-l07.md` [19]: “lucrar com as magistraturas” → “lucrar com os cargos de governo” — Principatus concreto → “cargos de governo”.
+- `pt-BR/p5-l07.md` [19]: “Os indigentes, com efeito” → “Os necessitados, com efeito” — Egeni → “necessitados”.
+- `pt-BR/p5-l07.md` [20]: “os indigentes se tornem” → “os necessitados se tornem” — Egenis → “necessitados”.
+- `pt-BR/p5-l07.md` [20]: “os insignes não sejam” → “os notáveis não sejam” — Insignibus → “notáveis”.
+- `pt-BR/p5-l07.md` [22]: “igualmente as posses” → “igualmente as possessões” — Possessiones → “possessões”.
+- `pt-BR/p5-l07.md` [23]: “cuidado com os indigentes” → “cuidado com os necessitados” — Egenorum → “necessitados”.
+- `pt-BR/p5-l07.md` [23]: “mais indigentes chegarão” → “mais necessitados chegarão” — Egenorum → “necessitados”.
+- `pt-BR/p5-l07.md` [23]: “as magistraturas de que advêm” → “os cargos de governo de que advêm” — Principatus concreto → “cargos de governo”.
+- `pt-BR/p5-l07.md` [23]: “os bens serão mais iguais” → “os haveres serão mais iguais” — Substantiae, no sentido de bens → “haveres”.
+- `pt-BR/p5-l07.md` [24]: “a posse das demais coisas” → “a possessão das demais coisas” — Possessio → “possessão”.
+- `pt-BR/p5-l07.md` [24]: “aos indigentes” → “aos necessitados” — Egenis → “necessitados”.
+- `pt-BR/p5-l07.md` [24]: “excetuadas as magistraturas que sejam senhoras” → “excetuados os cargos de governo que sejam senhores” — Principatus concreto → “cargos de governo”.
+- `pt-BR/p5-l07.md` [24]: “Estas, porém, devem confiar-se” → “Estes, porém, devem confiar-se” — Ajusta a retomada de principatus após “cargos de governo”.
+- `pt-BR/p5-l07.md` [25]: “as magistraturas principais” → “os cargos de governo principais” — Principatus concreto → “cargos de governo”.
+- `pt-BR/p5-l07.md` [25]: “as maiores obras da magistratura” → “as maiores obras do cargo de governo” — Principatus concreto → “cargo de governo”.
+- `pt-BR/p5-l07.md` [34]: “a igualdade dos bens” → “a igualdade dos haveres” — Substantiae, no sentido de bens → “haveres”.
+- `pt-BR/p5-l07.md` [36]: “os dos indigentes tornam-se” → “os dos necessitados tornam-se” — Egenorum → “necessitados”.
+
+### Part terms 8 of 14, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 5 minor. Delta de p5-l01 a p5-l07: as trocas para “cargo de governo” deixaram dois pronomes femininos em p5-l01 [29], e faltaram quatro substituições terminológicas (“onde diz”, “governante”, “necessitados”).
+- `pt-BR/p5-l01.md` [29]: “o cargo de governo dos éforos, segundo a qual o povo” → “o cargo de governo dos éforos, segundo o qual o povo” — a troca de “magistratura” por “cargo de governo” deixou o relativo no feminino; concordância com “cargo”
+- `pt-BR/p5-l01.md` [29]: “eles, porém, a removeram e fizeram” → “eles, porém, o removeram e fizeram” — amoverunt eum (principatum); depois da troca, “a” fica sem antecedente e pode ler-se como “a cidade” *(meaning)*
+- `pt-BR/p5-l02.md` [35]: “manifesta-o por exemplos, em “por isso”” → “manifesta-o por exemplos, onde diz “por isso”” — ibi, propter quod: a mesma substituição Ibi → “onde diz” feita nos demais lugares ficou faltando aqui
+- `pt-BR/p5-l05.md` [22]: “tomou para si como príncipe um deles” → “tomou para si como governante um deles” — in principem; princeps → “governante”, como nos §§ 26, 29 e 30 do mesmo arquivo
+- `pt-BR/p5-l06.md` [26]: “os indigentes cometem injúrias” → “os necessitados cometem injúrias” — egeni → “necessitados”, conforme o glossário e as correções da rodada anterior
+- `pt-BR/p5-l06.md` [26]: “os indigentes invejam” → “os necessitados invejam” — egeni → “necessitados”, conforme o glossário e as correções da rodada anterior
+- Rejected: pt-BR/p5-l02.md [33] — “magistratura principal” e “menospreza a magistratura” não foram trocados por “cargo de governo” — o glossário admite “magistratura” para o cargo institucional; a escolha é defensável e o sentido não muda
+- Rejected: pt-BR/p5-l02.md [22] — “o injusto absolutamente, mas em certo aspecto” ao lado de “o justo simplesmente, mas sob certo aspecto” — o glossário tem as duas linhas, “absolutamente / em certo aspecto” e “simplesmente / sob certo aspecto”, e o sentido é o mesmo
+
+### Part terms 8 of 14, Round 3 (codex, delta read)
+Verdict: 2 meaning-level, 0 minor. Conferidas as seis alterações e lidos os 12 parágrafos e as três notas apresentados; alterações confirmadas, com dois outros defeitos de sentido encontrados.
+- `pt-BR/p5-l02.md` [35]: “tenham respirado juntos ou vivido juntos” → “tenham vivido em concórdia ou vivido juntos” — Conspiraverint significa aqui estar em acordo ou concórdia; “respirado juntos” traduz a etimologia e perde o sentido político. *(meaning)*
+- `pt-BR/p5-l05.md` [21]: “até que pudessem mudar as coisas, de modo que governassem os mais velhos dos irmãos e depois os mais novos” → “até que pudessem substituir os mais velhos dos irmãos que governavam e, depois, os mais novos” — Antiquiores fratrum principantes é objeto de transmutare: os irmãos mais velhos que governavam seriam substituídos. A tradução os transforma em beneficiários da mudança. *(meaning)*
+- Rejected: pt-BR/p5-l06.md [25] — “tendo maiores riquezas” atribui as riquezas ao povo — O latim traz habens, no nominativo singular, retomando populus; a tradução conserva a construção da fonte.
+
+### Part terms 8 of 14, Round 4 (claude, delta read)
+Verdict: 1 meaning-level, 0 minor. Delta read de p5-l02 [34]–[36] e p5-l05 [20]–[22]: a correção em p5-l02 [35] está certa; a de p5-l05 [21] inverte o sentido (os irmãos mais velhos passam a governar, não são substituídos) e foi revertida.
+- `pt-BR/p5-l05.md` [21]: “até que pudessem substituir os mais velhos dos irmãos que governavam e, depois, os mais novos” → “até que pudessem mudar as coisas, de modo que governassem os mais velhos dos irmãos e depois os mais novos” — Repõe a leitura anterior. Em *transmutare antiquiores fratrum principantes et postmodum iuniores*, os irmãos mais velhos e depois os mais novos passam a governar; é o sentido do grego (*metélabon hoi presbýteroi… hýsteron d' hoi neṓteroi*). A leitura “substituir” não se sustenta: os irmãos mais novos não governavam e, portanto, não podiam ser substituídos depois. *(meaning)*
+- Rejected: pt-BR/p5-l02.md [35] — “tenham vivido em concórdia ou vivido juntos” repete “vivido” — *Conspiraverint* significa estar em concórdia, e o latim também justapõe os dois verbos. A repetição é estilo, não defeito.
+- Rejected: pt-BR/p5-l02.md [36] — Sibaritas expulsos e túrios que os receberam parece incoerente com os trezênios expulsos — A tradução segue a confusão do próprio latim de Santo Tomás e não deve corrigir o autor.
+
+### Part terms 8 of 14, Round 5 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Conferida a alteração e lidos integralmente os parágrafos [20]–[22] e a nota [^14]; nenhum defeito objetivo novo encontrado. Os termos sinalizados pelo audit não ocorrem nos trechos apresentados.
+- Rejected: pt-BR/p5-l05.md [21] — Reverter novamente a passagem dos irmãos mais velhos e mais novos para “substituir”. — A construção latina é difícil; o contexto sobre as restrições familiares ao governo permite a leitura adotada. Não há argumento novo que justifique reabrir a decisão anterior.
+
+### Part terms 9 of 14, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 136 minor. 115 parágrafos sinalizados lidos; 136 ocorrências de deriva vocabular corrigidas.
+- `pt-BR/p5-l07.md` [39]: “prossegue, ali:” → “prossegue, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [40]: “os toma, ali:” → “os toma, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [41]: “corrupção próxima, ali:” → “corrupção próxima, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [41]: “A segunda começa ali:” → “A segunda começa onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [41]: “a terceira, ali:” → “a terceira, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [41]: “que não se faça transgressão em coisa alguma” → “que não se faça desvio em coisa alguma” — *transgressio* → “desvio” (Key Terms).
+- `pt-BR/p5-l07.md` [41]: “consomem todos os bens de alguém” → “consomem todos os haveres de alguém” — *substantia* no sentido de bens → “haveres” (Key Terms).
+- `pt-BR/p5-l07.md` [41]: “não se faça transgressão ou prevaricação alguma” → “não se faça desvio ou prevaricação alguma” — *transgressio* → “desvio” (Key Terms).
+- `pt-BR/p5-l07.md` [43]: “o seu elemento, ali:” → “o seu elemento, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [45]: “vários especiais, ali:” → “vários especiais, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [45]: “as contendas dos insignes” → “as contendas dos notáveis” — *insignes* → “notáveis” (Key Terms).
+- `pt-BR/p5-l07.md` [46]: “as contendas dos insignes” → “as contendas dos notáveis” — *insignes* → “notáveis” (Key Terms).
+- `pt-BR/p5-l07.md` [46]: “dos cidadãos, ali:” → “dos cidadãos, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [46]: “do lucro, ali:” → “do lucro, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [46]: “da impotência, ali:” → “da impotência, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [46]: “de costume, ali:” → “de costume, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [46]: “das honras, ali:” → “das honras, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [46]: “fora de proporção, ali:” → “fora de proporção, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [46]: “pela contenda dos insignes” → “pela contenda dos notáveis” — *insignes* → “notáveis” (Key Terms).
+- `pt-BR/p5-l07.md` [47]: “a razão do dito, ali:” → “a razão do dito, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [49]: “do excesso de poder, ali:” → “do excesso de poder, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [51]: “a elação, ali:” → “a elação, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [51]: “diz-se do modo de viver a que alguém está acostumado” → “diz-se do modo de vida a que alguém está acostumado” — *conversatio* como forma habitual de viver → “modo de vida” (Key Terms).
+- `pt-BR/p5-l07.md` [53]: “um preceito mais geral, ali:” → “um preceito mais geral, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [53]: “algo que foi dito, ali:” → “algo que foi dito, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [53]: “algumas determinadamente, ali:” → “algumas determinadamente, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [53]: “o manifesta, ali:” → “o manifesta, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [54]: “não seja lucrativo, ali:” → “não seja lucrativo, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [54]: “no dos melhores, ali:” → “no dos melhores, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [55]: “A segunda, ali:” → “A segunda, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [55]: “tanto os insignes e ricos” → “tanto os notáveis e ricos” — *insignes* → “notáveis” (Key Terms).
+- `pt-BR/p5-l07.md` [55]: “que os insignes governem” → “que os notáveis governem” — *insignes* → “notáveis” (Key Terms).
+- `pt-BR/p5-l07.md` [56]: “os indigentes se tornarão ricos” → “os pobres se tornarão ricos” — *egeni* → “pobres” (Key Terms).
+- `pt-BR/p5-l07.md` [56]: “os insignes não se sujeitarão” → “os notáveis não se sujeitarão” — *insignes* → “notáveis” (Key Terms).
+- `pt-BR/p5-l07.md` [58]: “quanto ao dos poucos, ali:” → “quanto ao dos poucos, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [58]: “que as posses não sejam iguais” → “que as possessões não sejam iguais” — *possessio* → “possessão” (Key Terms).
+- `pt-BR/p5-l07.md` [59]: “assim as posses serão mais iguais” → “assim as possessões serão mais iguais” — *possessio* → “possessão” (Key Terms).
+- `pt-BR/p5-l07.md` [61]: “algumas dúvidas, ali:” → “algumas dúvidas, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [61]: “Ora, o príncipe, como tem de reger” → “Ora, o governante, como tem de reger” — *princeps* → “governante” (Key Terms).
+- `pt-BR/p5-l07.md` [61]: “o príncipe, com efeito, tem de dirigir” → “o governante, com efeito, tem de dirigir” — *princeps* → “governante” (Key Terms).
+- `pt-BR/p5-l07.md` [62]: “A segunda, ali:” → “A segunda, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [62]: “a resolve, ali:” → “a resolve, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [63]: “na eleição do príncipe” → “na eleição do governante” — *princeps* → “governante” (Key Terms).
+- `pt-BR/p5-l07.md` [63]: “tomado por príncipe aquele” → “tomado por governante aquele” — *princeps* → “governante” (Key Terms).
+- `pt-BR/p5-l07.md` [63]: “os príncipes devem ter ciência” → “os governantes devem ter ciência” — *principes* → “governantes” (Key Terms).
+- `pt-BR/p5-l07.md` [64]: “a resolve, ali:” → “a resolve, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [67]: “por conveniência, ali:” → “por conveniência, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [68]: “ao estado popular, ali:” → “ao estado popular, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [68]: “não se faça transgressão dele” → “não se faça desvio dele” — *transgressio* → “desvio” (Key Terms).
+- `pt-BR/p5-l07.md` [68]: “causa da transgressão que se faz” → “causa do desvio que se faz” — *transgressio* → “desvio” (Key Terms).
+- `pt-BR/p5-l07.md` [70]: “igualar inteiramente os bens” → “igualar inteiramente os haveres” — *substantia* no sentido de bens → “haveres” (Key Terms).
+- `pt-BR/p5-l07.md` [72]: “no estado popular, ali:” → “no estado popular, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l07.md` [73]: “remove-o, ali:” → “remove-o, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l08.md` [3]: “tendo as transgressões e os pecados” → “tendo os desvios e os pecados” — *transgressiones* → “desvios” (Key Terms).
+- `pt-BR/p5-l08.md` [9]: “os que possuem bens” → “os que possuem haveres” — *substantia* no sentido de bens → “haveres” (Key Terms).
+- `pt-BR/p5-l08.md` [14]: “de menor duração, ali:” → “de menor duração, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l08.md` [14]: “prossegue, ali:” → “prossegue, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l08.md` [14]: “se toma o príncipe segundo a virtude” → “se toma o governante segundo a virtude” — *princeps* → “governante” (Key Terms).
+- `pt-BR/p5-l08.md` [14]: “os pecados e as transgressões de ambos” → “os pecados e os desvios de ambos” — *transgressiones* → “desvios” (Key Terms).
+- `pt-BR/p5-l08.md` [15]: “se disse da tirania, ali:” → “se disse da tirania, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l08.md` [15]: “algo que se disse, ali:” → “algo que se disse, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l08.md` [15]: “de que se compõe a tirania, ali:” → “de que se compõe a tirania, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l08.md` [16]: “de que se gerava, ali:” → “de que se gerava, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l08.md` [17]: “das coisas ditas, ali:” → “das coisas ditas, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l08.md` [19]: “o ofício do rei, ali:” → “o ofício do rei, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l08.md` [20]: “os que têm posses e riquezas” → “os que têm possessões e riquezas” — *possessio* → “possessão” (Key Terms).
+- `pt-BR/p5-l08.md` [21]: “pelos efeitos, ali:” → “pelos efeitos, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l08.md` [23]: “do estado popular, ali:” → “do estado popular, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l08.md` [24]: “combatê-los e relegá-los” → “combatê-los e desterrá-los” — *relegare* → “desterrar” (Key Terms).
+- `pt-BR/p5-l09.md` [14]: “sendo menino, foi castrado” → “sendo criança, foi castrado” — *puer* → “criança” (Key Terms).
+- `pt-BR/p5-l09.md` [21]: “sendo chefe do exército” → “sendo comandante do exército” — *dux exercitus* → “comandante do exército” (Key Terms).
+- `pt-BR/p5-l09.md` [23]: “os que as conservam, ali:” → “os que as conservam, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l09.md` [23]: “as corrompem em especial, ali:” → “as corrompem em especial, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l09.md` [23]: “prossegue mais em especial, ali:” → “prossegue mais em especial, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l09.md` [24]: “por acidente, ali:” → “por acidente, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l09.md` [24]: “sobretudo por tais causas, ali:” → “sobretudo por tais causas, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l09.md` [24]: “por causa do temor, ali:” → “por causa do temor, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l09.md` [24]: “por causa do desprezo, ali:” → “por causa do desprezo, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l09.md` [24]: “da aflição do corpo, ali:” → “da aflição do corpo, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l09.md` [24]: “declara-o por exemplos, ali:” → “declara-o por exemplos, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l09.md` [25]: “à própria pessoa, ali:” → “à própria pessoa, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l09.md` [25]: “A segunda, ali:” → “A segunda, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l09.md` [25]: “A terceira, ali:” → “A terceira, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l09.md` [25]: “A quarta, ali:” → “A quarta, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l09.md` [25]: “A quinta, ali:” → “A quinta, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l09.md` [30]: “prova-o por exemplos, ali:” → “prova-o por exemplos, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l09.md` [30]: “A segunda, ali:” → “A segunda, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l09.md` [30]: “A terceira, ali:” → “A terceira, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l09.md` [30]: “A quarta, ali:” → “A quarta, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l09.md` [34]: “sendo ele menino” → “sendo ele criança” — *puer* → “criança” (Key Terms).
+- `pt-BR/p5-l09.md` [36]: “A segunda, ali:” → “A segunda, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l09.md` [36]: “A terceira, ali:” → “A terceira, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l09.md` [40]: “por desprezo, ali:” → “por desprezo, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l09.md` [41]: “os chefes de exército” → “os comandantes do exército” — *duces exercitus* → “comandantes do exército” (Key Terms).
+- `pt-BR/p5-l09.md` [41]: “Seutes, chefe do exército” → “Seutes, comandante do exército” — *dux exercitus* → “comandante do exército” (Key Terms).
+- `pt-BR/p5-l09.md` [42]: “foram feitos chefes de exército” → “foram feitos comandantes do exército” — *duces exercitus* → “comandantes do exército” (Key Terms).
+- `pt-BR/p5-l10.md` [5]: “da contrariedade da escolha” → “da contrariedade da eleição” — *electio* → “eleição” (Key Terms).
+- `pt-BR/p5-l10.md` [15]: “poucos se insurgem por ela, ali:” → “poucos se insurgem por ela, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l10.md` [17]: “do reino, ali:” → “do reino, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l10.md` [17]: “sobretudo se corrompe, ali:” → “sobretudo se corrompe, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l10.md` [17]: “O segundo, ali:” → “O segundo, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l10.md` [17]: “a sua escolha ou desejo” → “a sua eleição ou desejo” — *electio* → “eleição” (Key Terms).
+- `pt-BR/p5-l10.md` [19]: “o estado dos poucos e o popular, ali:” → “o estado dos poucos e o popular, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l10.md` [19]: “se reduz a uma delas, ali:” → “se reduz a uma delas, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l10.md` [20]: “entre a ira e o ódio, ali:” → “entre a ira e o ódio, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l10.md` [23]: “segundo a linhagem, ali:” → “segundo a linhagem, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l10.md` [23]: “de que modos se corrompe, ali:” → “de que modos se corrompe, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l10.md` [24]: “não se fazem muitos reinos, ali:” → “não se fazem muitos reinos, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l10.md` [24]: “são príncipes do reino” → “são governantes do reino” — *principes* → “governantes” (Key Terms).
+- `pt-BR/p5-l11.md` [10]: “como em Siracusa as chamadas” → “como entre os siracusanos as chamadas” — *Syracusani* → “siracusanos” (Key Terms).
+- `pt-BR/p5-l11.md` [14]: “a falta de vagar e a penúria” → “a ocupação e a penúria” — *non vacatio* → “ocupação” (Key Terms).
+- `pt-BR/p5-l11.md` [14]: “todo o patrimônio foi pago” → “todos os haveres foram pagos” — *substantia* no sentido de bens → “haveres” (Key Terms).
+- `pt-BR/p5-l11.md` [15]: “para que fiquem sem vagar” → “para que fiquem sem ócio” — *vacatio* → “ócio” (Key Terms).
+- `pt-BR/p5-l11.md` [23]: “em especial, ali:” → “em especial, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l11.md` [24]: “os que conservam a tirania, ali:” → “os que conservam a tirania, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l11.md` [24]: “manifesta-o, ali:” → “manifesta-o, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l11.md` [26]: “que é pelo afrouxamento, ali:” → “que é pelo afrouxamento, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l11.md` [26]: “em comparação com o reino, ali:” → “em comparação com o reino, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l11.md` [26]: “se tornam desconhecidos, ali:” → “se tornam desconhecidos, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l11.md` [26]: “se tornam pobres, ali:” → “se tornam pobres, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l11.md` [26]: “pelas quais se possa ter lazer para a sabedoria” → “pelas quais se possa estar em ócio para dedicar-se à sabedoria” — *vacare* → “estar em ócio” (Key Terms).
+- `pt-BR/p5-l11.md` [27]: “A segunda, ali:” → “A segunda, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l11.md` [27]: “A terceira, ali:” → “A terceira, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l11.md` [27]: “A quarta, ali:” → “A quarta, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l11.md` [27]: “A quinta, ali:” → “A quinta, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l11.md` [32]: “A segunda, ali:” → “A segunda, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l11.md` [32]: “A terceira, ali:” → “A terceira, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l11.md` [32]: “A quarta, ali:” → “A quarta, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l11.md` [33]: “ou não tenham vagar para maquinar” → “ou não estejam em ócio para maquinar” — *vacare* → “estar em ócio” (Key Terms).
+- `pt-BR/p5-l11.md` [33]: “não possam ter vagar para maquinar” → “não possam estar em ócio para maquinar” — *vacare* → “estar em ócio” (Key Terms).
+- `pt-BR/p5-l11.md` [35]: “não possam ter vagar para tratar” → “não possam estar em ócio para tratar” — *vacare* → “estar em ócio” (Key Terms).
+- `pt-BR/p5-l11.md` [36]: “com o regime popular, ali:” → “com o regime popular, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l11.md` [36]: “o homem livre e venerável, ali:” → “o homem livre e venerável, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l11.md` [36]: “os cidadãos e os estrangeiros, ali:” → “os cidadãos e os estrangeiros, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l11.md` [37]: “a razão de certo dito, ali:” → “a razão de certo dito, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- NOT APPLIED (old text not found exactly once (2)): - `pt-BR/p5-l07.md` [58]: “ao dos poucos, ali:” → “ao dos poucos, onde diz:” — *ibi* → “onde diz” (Key Terms).
+
+### Part terms 9 of 14, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 6 minor. Delta read of p5-l07 to p5-l11: the listed fixes are correct; six minor fixes for consistency, including the unapplied ibi fix in p5-l07 [58].
+- `pt-BR/p5-l07.md` [58]: “ao dos poucos, ali: “convém, porém”” → “ao dos poucos, onde diz: “convém, porém”” — *ibi* → “onde diz” (Key Terms); the previous round's fix for this place was not applied because its old text matched twice
+- `pt-BR/p5-l07.md` [52]: “os indigentes perturbam-se” → “os pobres perturbam-se” — *egeni* → “pobres” (Key Terms), as changed in [56]
+- `pt-BR/p5-l07.md` [51]: “sendo finitos os seus bens” → “sendo finitos os seus haveres” — *substantia* in the sense of goods → “haveres” (Key Terms), as changed in [41] and [70]
+- `pt-BR/p5-l11.md` [26]: “pelas quais se possa estar em ócio para dedicar-se à sabedoria” → “pelas quais alguém possa ocupar-se da sabedoria” — *vacare circa sapientiam*: with a complement naming an activity, Key Terms gives *vacare* → “ocupar-se de” (cf. *circa propria vacare*)
+- `pt-BR/p5-l11.md` [36]: “amigos do príncipe” → “amigos do governante” — *principis* → “governante” (Key Terms), as changed elsewhere in this part
+- `pt-BR/p5-l11.md` [13]: “não tenham vagar para maquinar” → “não estejam em ócio para maquinar” — *non vacantes sint ad machinandum*; matches the rendering now used for the same passage in [33]
+- Rejected: pt-BR/p5-l11.md [33], [35] — “estar em ócio para maquinar/tratar” for *vacare ad* — *ad* + gerund expresses purpose, not an activity complement; this matches the Key Terms entry for *vacare*
+- Rejected: pt-BR/p5-l07.md [71] — *ductores populi* → “chefes do povo”, while another Key Terms row has “condutores do povo” — One Key Terms row explicitly gives “chefes do povo”; the table states both, so this is not an objective drift
+
+### Part terms 9 of 14, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 1 minor. Lidos os 16 parágrafos apresentados e as quatro notas; confirmadas as seis correções anteriores e encontrada uma deriva terminológica menor.
+- `pt-BR/p5-l07.md` [51]: “terão de cometer injúrias e tomar dos outros” → “terão de cometer injustiça e tomar dos outros” — O diário fixa iniuriari como “cometer injustiça”; o contexto trata da aquisição injusta de bens.
+- Rejected: pt-BR/p5-l11.md [37] — Itálico em demos sem correspondente na fonte. — O diário determina expressamente que demos seja mantido em itálico neste trecho.
+
+### Part terms 9 of 14, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of p5-l07 [50]–[52] and notes [^17]–[^18]: the fix *iniuriari* → “cometer injustiça” is correct, and no new defects were found.
+- Rejected: pt-BR/p5-l07.md [52] — *ut per virtutem multitudinis excessus reprimatur* rendered “para que pela virtude se reprima o excesso da multidão”, attaching *multitudinis* to *excessus* — The Latin is ambiguous, and the reading fits the clause about placing the virtuous with the multitude. It is a defensible choice, not an error.
+- Rejected: pt-BR/p5-l07.md [51] — “os que forem nocivos a ele” adds “a ele” — The source *qui nocui sint* is elliptical. “A ele” only makes explicit the reference to the popular state that the context already gives, and adds no new content.
+
+### Part terms 10 of 14, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 104 minor. 128 parágrafos sinalizados lidos; 59 com desvios; 4 complementos de glossário.
+- `pt-BR/translation-journal.md`: “| principatus / principari / princeps | governo, cargo de governo / governar / governante | Plural concreto (*principatus maximi*) → “cargos de governo”. “Magistratura” também quando principatus designa um cargo público concreto. |” → “| principatus / principari / princeps | governo, cargo de governo / governar / governante | Plural concreto (*principatus maximi*) → “cargos de governo”. “Magistratura” também quando *principatus* designa um cargo institucional. |” — O uso recorrente de “magistratura” designa corretamente o cargo institucional; falta esse sentido na entrada.
+- `pt-BR/translation-journal.md`: “| potentatus | potentado | A espécie extrema da oligarquia. |” → “| potentatus | potentado | A espécie extrema da oligarquia. “Poder” quando designa a autoridade pessoal de que alguém pode ser afastado, sem nomear aquela espécie de oligarquia. |” — Em p5-l12 [18], [45], *potentatus* designa a autoridade pessoal, corretamente traduzida por “poder”.
+- `pt-BR/translation-journal.md`: “| census | censo | |” → “| census | censo | “Renda” quando designa o pagamento pelo uso de terras, como em *ad censum* (p6-l04 [31]). |” — O sentido fundiário de *census* é distinto do censo que habilita à participação política.
+- `pt-BR/translation-journal.md`: “| potentia | poder | “Potência” quando designa uma capacidade natural ou um princípio de operação, inclusive as potências da alma. |” → “| potentia | poder | “Força” quando designa uma força militar, como a equestre, a armada, a ligeira ou a naval. |” — Em p6-l06 [9]–[10], “força” traduz corretamente o sentido militar recorrente de *potentia*.
+- `pt-BR/p5-l11.md` [41]: “recolhe-os, ali:” → “recolhe-os, onde diz:” — *ibi* → “onde diz” (Key Terms); estava “ali”.
+- `pt-BR/p5-l12.md` [4]: “estrangeiros e artífices.” → “estrangeiros e artesãos.” — *artificibus* → “artesãos” (Key Terms).
+- `pt-BR/p5-l12.md` [12]: “como quem é procurador” → “como quem é intendente” — *procuratorem* → “intendente” (Key Terms).
+- `pt-BR/p5-l12.md` [13]: “julgam que o príncipe é devoto” → “julgam que o governante é devoto” — *principem* → “governante” (Key Terms).
+- `pt-BR/p5-l12.md` [19]: “e não por desprezo.” → “e não por menosprezo.” — *parvipensionem* → “menosprezo” (Key Terms).
+- `pt-BR/p5-l12.md` [21]: “julguem salvar-se por causa” → “julguem conservar-se por causa” — *salvari* → “conservar-se” (Key Terms).
+- `pt-BR/p5-l12.md` [22]: “mas procurador, e buscar” → “mas intendente, e buscar” — *procuratore* → “intendente” (Key Terms).
+- `pt-BR/p5-l12.md` [23]: “aos insignes, por certo” → “aos notáveis, por certo” — *insignes* → “notáveis” (Key Terms).
+- `pt-BR/p5-l12.md` [23]: “porque governa os melhores” → “porque os melhores governam” — *meliores principentur* tem “os melhores” como sujeito, não como objeto. *(meaning)*
+- `pt-BR/p5-l12.md` [30]: “em particular, ali:” → “em particular, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l12.md` [30]: “seja ele só o príncipe e tirano” → “seja ele só o governante e tirano” — *princeps* → “governante” (Key Terms).
+- `pt-BR/p5-l12.md` [31]: “consideração ulterior, ali:” → “consideração ulterior, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l12.md` [31]: “quando está dividida, ali:” → “quando está dividida, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l12.md` [31]: “quanto ao trato, ali:” → “quanto à convivência, onde diz:” — *conversationes* → “convivência”; *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l12.md` [31]: “quanto às honras, ali:” → “quanto às honras, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l12.md` [31]: “afastamento do principado, ali:” → “afastamento do principado, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l12.md` [31]: “acerca do recebimento, ali:” → “acerca do recebimento, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l12.md` [31]: “por familiares, artífices e histriões” → “por familiares, artesãos e histriões” — *artificibus* → “artesãos” (Key Terms).
+- `pt-BR/p5-l12.md` [32]: “remove uma dúvida, ali:” → “remove uma dúvida, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l12.md` [39]: “como se fosse procurador da cidade” → “como se fosse intendente da cidade” — *procurator* → “intendente” (Key Terms).
+- `pt-BR/p5-l12.md` [41]: “A segunda, ali:” → “A segunda, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l12.md` [41]: “A terceira, ali:” → “A terceira, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l12.md` [41]: “A quarta, ali:” → “A quarta, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l12.md` [46]: “pelo bem da paz e não por desprezo” → “pelo bem da paz e não por menosprezo” — *parvipensionem* → “menosprezo” (Key Terms).
+- `pt-BR/p5-l12.md` [47]: “atacar a pessoa do príncipe” → “atacar a pessoa do governante” — *principis* → “governante” (Key Terms).
+- `pt-BR/p5-l12.md` [47]: “puderem matar o príncipe.” → “puderem matar o governante.” — *principem* → “governante” (Key Terms).
+- `pt-BR/p5-l12.md` [48]: “com o príncipe, será suficiente” → “com o governante, será suficiente” — *principe* → “governante” (Key Terms).
+- `pt-BR/p5-l12.md` [49]: “antes se mostre procurador” → “antes se mostre intendente” — *procuratorem* → “intendente” (Key Terms).
+- `pt-BR/p5-l12.md` [50]: ““ainda, aos insignes”” → ““ainda, aos notáveis”” — *insignes* → “notáveis” (Key Terms).
+- `pt-BR/p5-l12.md` [50]: “uma quanto aos insignes.” → “uma quanto aos notáveis.” — *insignes* → “notáveis” (Key Terms).
+- `pt-BR/p5-l12.md` [50]: “afável para com os insignes” → “afável para com os notáveis” — *insignibus* → “notáveis” (Key Terms).
+- `pt-BR/p5-l12.md` [50]: “também o príncipe não será odiado” → “também o governante não será odiado” — *princeps* → “governante” (Key Terms).
+- `pt-BR/p5-l12.md` [52]: “Em segundo lugar, prova, ali:” → “Em segundo lugar, prova, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l12.md` [53]: “de breve duração, ali:” → “de breve duração, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l12.md` [53]: “A segunda, ali:” → “A segunda, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l12.md` [53]: “A terceira, ali:” → “A terceira, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p5-l13.md` [13]: “para a suficiência da vida por si” → “para a suficiência por si da vida” — *per se sufficientiam* → “suficiência por si” (Key Terms); mantém o modificador junto ao conceito.
+- `pt-BR/p5-l13.md` [23]: “iguais posses ou riquezas” → “iguais possessões ou riquezas” — *possessiones* → “possessões” (Key Terms).
+- `pt-BR/p6-l01.md` [10]: “coisas que são populares” → “coisas que são democráticas” — *demotica* → “democráticas” (Key Terms).
+- `pt-BR/p6-l01.md` [13]: “no início do sétimo livro, ali:” → “no início do sétimo livro, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p6-l01.md` [13]: “Na primeira faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → fórmula estabelecida no Key Terms.
+- `pt-BR/p6-l01.md` [13]: “A primeira destas tem duas partes.” → “Acerca do primeiro, faz duas coisas.” — *Circa primum duo facit* → fórmula estabelecida no Key Terms.
+- `pt-BR/p6-l01.md` [13]: “A primeira destas tem também duas partes.” → “Acerca do primeiro, faz duas coisas.” — *Circa primum duo facit* → fórmula estabelecida no Key Terms.
+- `pt-BR/p6-l01.md` [20]: “a segunda começa ali:” → “a segunda começa onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p6-l02.md` [5]: “todos os partidários do povo” → “todos os partidários democráticos” — *demotici* → “democráticos” (Key Terms).
+- `pt-BR/p6-l02.md` [7]: “são populares as seguintes” → “são democráticas as seguintes” — *demotica* → “democráticas” (Key Terms).
+- `pt-BR/p6-l02.md` [10]: “a mais popular é o conselho” → “a mais democrática é o conselho” — *demoticum* → “democrática” (Key Terms).
+- `pt-BR/p6-l02.md` [10]: “a si todos os julgamentos” → “a si todos os juízos” — *iudicia* → “juízos” (Key Terms).
+- `pt-BR/p6-l02.md` [12]: “as coisas populares parecem” → “as coisas democráticas parecem” — *demotica* → “democráticas” (Key Terms).
+- `pt-BR/p6-l02.md` [12]: “a falta de nobreza, a pobreza” → “a ignobilidade, a pobreza” — *ignobilitate* → “ignobilidade” (Key Terms).
+- `pt-BR/p6-l02.md` [15]: “A primeira tem duas partes.” → “Acerca do primeiro, faz duas coisas.” — *Circa primum duo facit* → fórmula estabelecida no Key Terms.
+- `pt-BR/p6-l02.md` [15]: “A primeira destas tem também duas partes.” → “Acerca do primeiro, faz duas coisas.” — *Circa primum duo facit* → fórmula estabelecida no Key Terms.
+- `pt-BR/p6-l02.md` [15]: “Na primeira destas faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → fórmula estabelecida no Key Terms.
+- `pt-BR/p6-l02.md` [15]: “Na primeira destas faz também duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → fórmula estabelecida no Key Terms.
+- `pt-BR/p6-l02.md` [16]: “A segunda começa ali:” → “A segunda começa onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p6-l02.md` [19]: “para elas um ignorante qualquer” → “para elas um homem comum qualquer” — *idiotam* → “homem comum” (Key Terms); estava “ignorante”.
+- `pt-BR/p6-l02.md` [22]: “todos os julgamentos e deliberações” → “todos os juízos e deliberações” — *iudicia* → “juízos” (Key Terms).
+- `pt-BR/p6-l02.md` [23]: “do comandante do exército.” → “do chefe do exército.” — *dux exercitus* → “chefe do exército” (Key Terms).
+- `pt-BR/p6-l02.md` [24]: “pela falta de nobreza de linhagem” → “pela ignobilidade de linhagem” — *ignobilitatem* → “ignobilidade” (Key Terms).
+- `pt-BR/p6-l02.md` [26]: “os virtuosos mais que os ignorantes” → “os virtuosos mais que os homens comuns” — *idiotas* → “homens comuns” (Key Terms).
+- `pt-BR/p6-l03.md` [3]: “segundo o justo popular” → “segundo o justo democrático” — *demoticum* → “democrático” (Key Terms).
+- `pt-BR/p6-l03.md` [4]: “Os populares dizem” → “Os democráticos dizem” — *demotici* → “democráticos” (Key Terms).
+- `pt-BR/p6-l03.md` [9]: “Segundo, ali: “Os populares dizem”” → “Segundo, onde diz: “Os democráticos dizem”” — *ibi* → “onde diz”; *demotici* → “democráticos” (Key Terms).
+- `pt-BR/p6-l03.md` [10]: “é justo e igual absolutamente” → “é justo e igual simplesmente” — *iustum et aequale simpliciter* → “justo e igual simplesmente” (Key Terms).
+- `pt-BR/p6-l03.md` [10]: “é justo absolutamente” → “é justo simplesmente” — *iustum simpliciter* → “justo simplesmente” (Key Terms).
+- `pt-BR/p6-l03.md` [14]: “inclinam-se à contumélia” → “inclinam-se ao ultraje” — *contumeliam* → “ultraje” (Key Terms).
+- `pt-BR/p6-l04.md` [17]: “Mas os que cultivam a terra,” → “Mas os cultivadores da terra,” — *terrae cultores* → “cultivadores da terra” (Key Terms).
+- `pt-BR/p6-l04.md` [22]: “não pode ter muito lazer em relação às ocupações exteriores” → “não pode estar muito em ócio em relação às ocupações exteriores” — *vacare* → “estar em ócio” (Key Terms).
+- `pt-BR/p6-l04.md` [22]: “como não tem lazer em relação a essas ocupações” → “como não está em ócio em relação a essas ocupações” — *vacare* → “estar em ócio” (Key Terms).
+- `pt-BR/p6-l04.md` [22]: “modos de se levantar contra os ricos” → “modos de insurgir-se contra os ricos” — *insurgendi* → “insurgir-se” (Key Terms).
+- `pt-BR/p6-l04.md` [22]: “regimes de poucos poderosos” → “regimes de poucos potentados” — *potentatus* → “potentados” (Key Terms).
+- `pt-BR/p6-l04.md` [22]: “nem se lhes tire muito dos bens” → “nem se lhes tire muito dos haveres” — *substantia* no sentido patrimonial → “haveres” (Key Terms).
+- `pt-BR/p6-l04.md` [22]: “porque se levantam menos” → “porque se insurgem menos” — *insurgunt* → “se insurgem” (Key Terms).
+- `pt-BR/p6-l04.md` [25]: “o povo permanece estável, não se levanta” → “o povo permanece estável, não se insurge” — *non insurgere* → “não se insurgir” (Key Terms).
+- `pt-BR/p6-l04.md` [28]: “A segunda começa ali:” → “A segunda começa onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p6-l04.md` [28]: “a quarta, ali:” → “a quarta, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p6-l04.md` [31]: “a certa abundância de riquezas” → “a certa superioridade de riquezas” — *excessum divitiarum* → “superioridade de riquezas” (Key Terms).
+- `pt-BR/p6-l04.md` [34]: “Os que cultivam a terra, porém,” → “Os cultivadores da terra, porém,” — *terrae cultores* → “cultivadores da terra” (Key Terms).
+- `pt-BR/p6-l05.md` [8]: “parecem todas populares” → “parecem todas democráticas” — *demotica* → “democráticas” (Key Terms).
+- `pt-BR/p6-l05.md` [13]: “E faz ainda que as causas sejam muito mais bem julgadas.” → “E faz ainda que se profiram sentenças muito melhores.” — *sententias* → “sentenças” (Key Terms), aqui as decisões judiciais.
+- `pt-BR/p6-l05.md` [15]: “o verdadeiro partidário do povo” → “o verdadeiro partidário democrático” — *vere demoticum* → “verdadeiro partidário democrático” (Key Terms).
+- `pt-BR/p6-l05.md` [22]: “pelos nobres e pelos não nobres” → “pelos nobres e pelos ignóbeis” — *ignobilibus* → “ignóbeis” (Key Terms).
+- `pt-BR/p6-l05.md` [24]: “o número dos adventícios” → “o número dos forasteiros” — *advenarum* → “forasteiros” (Key Terms).
+- `pt-BR/p6-l05.md` [25]: “por meio de casamentos.” → “por meio de matrimônios.” — *coniugia* → “matrimônios” (Key Terms).
+- `pt-BR/p6-l05.md` [25]: “o que se faz pelos casamentos” → “o que se faz pelos matrimônios” — *coniugia* → “matrimônios” (Key Terms).
+- `pt-BR/p6-l05.md` [25]: “pelo convívio ou por reuniões comuns” → “pela convivência ou por reuniões comuns” — *conversationes* → “convivência” (Key Terms).
+- `pt-BR/p6-l05.md` [29]: “acerca das assembleias e dos julgamentos.” → “acerca das assembleias e dos juízos.” — *iudicia* → “juízos” (Key Terms).
+- `pt-BR/p6-l05.md` [29]: “agindo nos julgamentos em aparente utilidade” → “agindo nos juízos em aparente utilidade” — *iudiciis* → “juízos” (Key Terms).
+- `pt-BR/p6-l05.md` [29]: “corromperá menos os julgamentos e as sentenças” → “corromperá menos os juízos e as sentenças” — *iudicia* → “juízos” (Key Terms).
+- `pt-BR/p6-l05.md` [31]: “acerca das assembleias e dos julgamentos.” → “acerca das assembleias e dos juízos.” — *iudicia* → “juízos” (Key Terms).
+- `pt-BR/p6-l05.md` [31]: “quanto às assembleias e aos julgamentos” → “quanto às assembleias e aos juízos” — *iudicia* → “juízos” (Key Terms).
+- `pt-BR/p6-l05.md` [31]: “os maus julgamentos dos maus” → “os maus juízos dos maus” — *mala iudicia malorum* → “maus juízos dos maus” (Key Terms).
+- `pt-BR/p6-l05.md` [31]: “que os julgamentos se façam” → “que os juízos se façam” — *iudicia* → “juízos” (Key Terms).
+- `pt-BR/p6-l05.md` [31]: “poucas assembleias e poucos julgamentos” → “poucas assembleias e poucos juízos” — *iudicia* → “juízos” (Key Terms).
+- `pt-BR/p6-l05.md` [32]: “ou os procuradores, costumam” → “ou os intendentes, costumam” — *procuratores* → “intendentes” (Key Terms).
+- `pt-BR/p6-l05.md` [34]: “a segunda parte começa em” → “a segunda parte começa onde diz” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p6-l05.md` [34]: “a terceira, em “E, se não for”” → “a terceira, onde diz “E, se não for”” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/p6-l05.md` [38]: “o fruto de suas posses” → “o fruto de suas possessões” — *possessionum* → “possessões” (Key Terms).
+- `pt-BR/p6-l05.md` [38]: “que governassem melhor o regime” → “que regessem melhor o regime” — *regerent* → “regessem” (Key Terms).
+- `pt-BR/p6-l06.md` [8]: “salva-as de modo geral” → “conserva-as de modo geral” — *salvat* → “conserva” (Key Terms).
+- `pt-BR/p6-l06.md` [8]: “obter a sua salvação” → “obter a sua conservação” — *salvationem* → “conservação” (Key Terms).
+
+### Part terms 10 of 14, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 3 minor. Delta read de part terms 10. Conferidas as 112 alterações da rodada 1 e os parágrafos mostrados. Corrigidos uma citação de lema desalinhada (p6-l03 [10]), uma entrada do Key Terms contradita pelas correções (*demotici*) e uma fórmula de divisão não normalizada (p6-l02 [19]).
+- `pt-BR/p6-l03.md` [10]: “quando diz “Os populares dizem”, toca” → “quando diz “Os democráticos dizem”, toca” — O lema *aiunt enim demotici* foi alterado em [4] e [9] para “Os democráticos dizem”. A citação do íncipit aqui deve coincidir com o lema.
+- `pt-BR/translation-journal.md`: “| demotici / oligarchici | populares, partidários do povo / oligárquicos | |” → “| demotici / oligarchici | democráticos, partidários democráticos / oligárquicos | |” — Depois das correções da rodada 1, *demotici* aparece como “democráticos” em p6-l02 [5], p6-l03 [4], [9] e p6-l05 [15]. A entrada ainda dizia “populares, partidários do povo”.
+- `pt-BR/p6-l02.md` [19]: “A primeira tem duas partes.” → “Acerca do primeiro, faz duas coisas.” — A fonte diz *Circa primum facit duo*. A fórmula do Key Terms já foi aplicada em [15] e em p6-l01 [13]; aqui ficou a forma antiga.
+- Rejected: pt-BR/p5-l12.md [23] — “porque os melhores governam” não coincide com a leitura de Santo Tomás em [50] (*si melioribus principetur*), nem com o grego. — *Meliores principentur* tem sujeito nominativo, porque *principari* não rege acusativo. A tradução literal é defensável, e o diário admite traduzir à letra mesmo quando o comentário lê de outro modo.
+- Rejected: pt-BR/p6-l02.md [15] — *Circa primum, primo facit quod dictum est* vertido “Na primeira, primeiro faz”. — A frase não tem *duo facit*, portanto não cai sob a fórmula do Key Terms. O sentido está correto.
+- Rejected: pt-BR/p6-l04.md [22] — “regimes de poucos potentados” soa ambíguo. — A forma segue o Key Terms (*potentatus* → “potentado”) e o sentido se mantém.
+
+### Part terms 10 of 14, Round 3 (codex, delta read)
+Verdict: 4 meaning-level, 0 minor. Conferidas as três alterações e lidos integralmente os seis parágrafos mostrados; encontrados quatro desvios de sentido na tradução da alternância no governo.
+- `pt-BR/p6-l02.md` [18]: “convém ser súdito e governar em parte.” → “convém ser súdito e governar por turnos.” — Secundum partem indica alternância entre governar e ser governado, não participação parcial; o diário fixa “por turnos”. *(meaning)*
+- `pt-BR/p6-l02.md` [18]: “Ser súdito e governar em parte contribui” → “Ser súdito e governar por turnos contribui” — A frase retoma a alternância expressa por secundum partem na oração anterior; “em parte” altera esse sentido. *(meaning)*
+- `pt-BR/p6-l02.md` [19]: “todos governarão e serão súditos em parte” → “todos governarão e serão súditos por turnos” — Secundum partem designa a alternância dos cidadãos no governo, conforme a explicação precedente e o diário. *(meaning)*
+- `pt-BR/p6-l02.md` [20]: “possam chegar a elas e governar em parte.” → “possam chegar a elas e governar por turnos.” — Principari secundum partem refere-se à alternância possibilitada pela breve duração das magistraturas, não a governar parcialmente. *(meaning)*
+- Rejected: pt-BR/p6-l03.md [10] — “Populares” permanece depois da correção do lema para “democráticos”. — Nessas ocorrências, a fonte traz popularibus e populares, não demotici; a tradução é fiel e não contradiz a entrada corrigida.
+
+### Part terms 10 of 14, Round 4 (claude, delta read)
+Verdict: 1 meaning-level, 0 minor. Conferidas as quatro alterações (por turnos) em p6-l02 [18]–[20] e lidos inteiros os parágrafos [17]–[21]. As alterações estão corretas. Corrigido um referente desviado em [20] (*de pluribus* designa os casos).
+- `pt-BR/p6-l02.md` [20]: “ou ao menos da maioria deles, ou os máximos” → “ou ao menos a maior parte dos casos, ou os máximos” — A fonte diz *de omnibus casibus, quantum ad omnes cives, vel saltem de pluribus*. *De pluribus* é paralelo a *de omnibus casibus* e designa os casos. “da maioria deles” liga-se a “cidadãos” e muda o referente. *(meaning)*
+- Rejected: pt-BR/p6-l02.md [19] — *Tales enim non expedit eligi sorte* foi vertido com “porém”, e não com “pois”. — A frase contrapõe estas magistraturas ao sorteio geral. O sentido do argumento não se altera.
+- Rejected: pt-BR/p6-l02.md [20] — *ad rationem principatus* foi vertido “à duração da magistratura”. — O diário fixa esta leitura, conforme a divisão do comentário em [19].
+
+### Part terms 10 of 14, Round 5 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Conferida a alteração de p6-l02 [20] e lidos integralmente os parágrafos [19]–[21]; a correção está correta e não foram encontrados novos defeitos.
+
+### Part terms 11 of 14, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 54 minor. Lidos os 119 parágrafos sinalizados; corrigidos 45 desvios textuais e completadas 10 linhas do glossário.
+- `pt-BR/translation-journal.md`: “| principes / principatus | governantes / principado | |” → “| principes / principatus | governantes / principado | “Magistratura” quando principatus designa um cargo público concreto. |” — Os exemplos usam consistentemente “magistratura” para o cargo público, sentido distinto do principado como autoridade.
+- `pt-BR/translation-journal.md`: “| principes / principatus / regimen civitatis | governantes / cargos de governo / governo da cidade | “Regime” fica para *politia*. |” → “| principes / principatus / regimen civitatis | governantes / cargos de governo / governo da cidade | “Regime” fica para *politia*. “Magistratura” também para principatus como cargo público concreto. |” — Registra a tradução recorrente e adequada dos cargos públicos concretos.
+- `pt-BR/translation-journal.md`: “| principatus / principari / princeps | governo, cargo de governo / governar / governante | Plural concreto (*principatus maximi*) → “cargos de governo”. |” → “| principatus / principari / princeps | governo, cargo de governo / governar / governante | Plural concreto (*principatus maximi*) → “cargos de governo”. “Magistratura” também quando principatus designa um cargo público concreto. |” — Acrescenta o sentido institucional documentado repetidamente nas ocorrências.
+- `pt-BR/translation-journal.md`: “| principatus / principari / princeps | governo / governar / governante | |” → “| principatus / principari / princeps | governo / governar / governante | “Magistratura” quando principatus designa um cargo público concreto. |” — Distingue o cargo público concreto do governo em sentido geral.
+- `pt-BR/translation-journal.md`: “| consilium / consiliari / consiliativum | deliberação / deliberar / deliberativo | |” → “| consilium / consiliari / consiliativum | deliberação / deliberar / deliberativo | “Conselho” quando consilium designa o órgão colegiado. |” — As ocorrências distinguem corretamente o conselho institucional do ato de deliberar.
+- `pt-BR/translation-journal.md`: “| potentia | poder | “Potência” quando designa uma capacidade ou se opõe ao ato; “vigor” quando designa a força corporal. |” → “| potentia | poder | “Potência” quando designa uma capacidade natural ou um princípio de operação, inclusive as potências da alma. |” — O comentário emprega reiteradamente o sentido filosófico de potência, distinto do poder político.
+- `pt-BR/translation-journal.md`: “| civitas / communitas / civilis / conversatio | cidade / comunidade / civil / convivência | |” → “| civitas / communitas / civilis / conversatio | cidade / comunidade / civil / convivência | “Político” ou “homem político” para civilis quando designa a pessoa que ordena a cidade. |” — Civilis substantivado designa corretamente o político nas comparações com os artesãos.
+- `pt-BR/translation-journal.md`: “| civilis | civil | |” → “| civilis | civil | “Político” ou “homem político” quando designa a pessoa que ordena a cidade. |” — Acrescenta o sentido pessoal documentado nas ocorrências.
+- `pt-BR/translation-journal.md`: “| praetoria / iudicium | tribunais / tribunal; juízo | |” → “| praetoria / iudicium | tribunais / tribunal; juízo | “Sentença” quando iudicium designa a decisão judicial; “judicatura” quando designa a função judicial entre os cargos necessários da cidade. |” — As ocorrências distinguem adequadamente o tribunal, sua decisão e a função judicial.
+- `pt-BR/translation-journal.md`: “| commutatio / permutatio / permutativa, commutativa / translatio | troca / permuta / arte de permuta, arte de troca / transferência | |” → “| commutatio / permutatio / permutativa, commutativa / translatio | troca / permuta / arte de permuta, arte de troca / transferência | “Intercâmbio civil” para commutatio civilis quando designa as relações entre os cidadãos em geral. |” — O intercâmbio civil abrangente distingue-se das trocas comerciais.
+- `pt-BR/p6-l06.md` [22]: “os artífices vis” → “os artesãos vis” — Artifices → “artesãos” (Key Terms); estava “artífices”.
+- `pt-BR/p6-l06.md` [22]: “ele pode salvar-se pela força equestre” → “ele pode conservar-se pela força equestre” — Salvari → “conservar-se” (Key Terms); estava “salvar-se”.
+- `pt-BR/p6-l07.md` [20]: “tais magistrados generais e chefes de guerra” → “tais magistrados comandantes do exército e chefes de guerra” — Duces exercitus → “comandantes do exército” (Key Terms); estava “generais”.
+- `pt-BR/p6-l07.md` [22]: “a conclusão e a *ephoria*” → “a conclusão e a *eforia*” — Ephoriam → “eforia” (Key Terms); o termo permanecia em latim.
+- `pt-BR/p6-l07.md` [25]: “aos tribunais e às permutas” → “aos tribunais e às trocas” — Commutationes → “trocas” (Key Terms); estava “permutas”.
+- `pt-BR/p6-l07.md` [32]: “por meio de permutas mútuas” → “por meio de trocas mútuas” — Commutationes → “trocas” (Key Terms); estava “permutas”.
+- `pt-BR/p6-l07.md` [27]: “manifestamente não são populares” → “manifestamente não são democráticas” — Demotici → “democráticas” (Key Terms); estava “populares”.
+- `pt-BR/p6-l07.md` [28]: “e o conselho, popular” → “e o conselho, democrático” — Demoticum → “democrático” (Key Terms); estava “popular”.
+- `pt-BR/p6-l07.md` [45]: “levariam à ruína da cidade” → “levariam à corrupção da cidade” — Corruptionem → “corrupção” (Key Terms); estava “ruína”.
+- `pt-BR/p6-l07.md` [47]: “homens zelosos e fidelíssimos” → “homens virtuosos e fidelíssimos” — Studiosi designa aqui a virtude moral que impede a apropriação dos bens comuns; “zelosos” altera esse requisito. *(meaning)*
+- `pt-BR/p6-l07.md` [51]: “cuida do recinto da cidade” → “cuida do burgo da cidade” — Municipium → “burgo” (Key Terms); estava “recinto”.
+- `pt-BR/p7-l01.md` [15]: “quer o regime dos melhores, quer o reino” → “quer a república dos melhores, quer o reino” — Respublica optimatum → “república dos melhores” (Key Terms); estava “regime dos melhores”.
+- `pt-BR/p7-l01.md` [15]: “a ação ótima do artífice” → “a ação ótima do artesão” — Artificis → “artesão” (Key Terms); estava “artífice”.
+- `pt-BR/p7-l01.md` [8]: “quanto à posse dos bens exteriores” → “quanto à possessão dos bens exteriores” — Possessionem → “possessão” (Key Terms); estava “posse”.
+- `pt-BR/p7-l01.md` [8]: “de intelecto em grau excelente” → “de intelecto em grau superior” — Ad excessum exprime aqui superioridade; “superior” conserva a família terminológica do glossário.
+- `pt-BR/p7-l01.md` [10]: “mais preciosa do que a posse” → “mais preciosa do que a possessão” — Possessione → “possessão” (Key Terms); estava “posse”.
+- `pt-BR/p7-l01.md` [12]: “por ser tal qual é por natureza” → “por ser tal qual é segundo a natureza” — Secundum naturam → “segundo a natureza” (Key Terms); estava “por natureza”.
+- `pt-BR/p7-l01.md` [20]: “A segunda, ali: “Antes”” → “A segunda, onde diz: “Antes”” — Ibi → “onde diz” na indicação de uma passagem (Key Terms).
+- `pt-BR/p7-l01.md` [20]: “A terceira, ali: “*E, em geral, é claro*”” → “A terceira, onde diz: “*E, em geral, é claro*”” — Ibi → “onde diz” na indicação de uma passagem (Key Terms).
+- `pt-BR/p7-l01.md` [20]: “A quarta, ali: “Além disso, é por causa da alma”” → “A quarta, onde diz: “Além disso, é por causa da alma”” — Ibi → “onde diz” na indicação de uma passagem (Key Terms).
+- `pt-BR/p7-l01.md` [20]: “com uma posse moderada” → “com uma possessão moderada” — Possessione → “possessão” (Key Terms); estava “posse”.
+- `pt-BR/p7-l01.md` [20]: “da posse das riquezas” → “da possessão das riquezas” — Possessione → “possessão” (Key Terms); estava “posse”.
+- `pt-BR/p7-l01.md` [20]: “os ricos são insolentes, soberbos” → “os ricos são ultrajantes, soberbos” — Contumeliosi → “ultrajantes”, derivado de “ultraje” (Key Terms); estava “insolentes”.
+- `pt-BR/p7-l01.md` [22]: “do que as posses exteriores” → “do que as possessões exteriores” — Possessiones → “possessões” (Key Terms); estava “posses”.
+- `pt-BR/p7-l01.md` [22]: “do corpo e da posse exterior” → “do corpo e da possessão exterior” — Possessionis → “possessão” (Key Terms); estava “posse”.
+- `pt-BR/p7-l02.md` [13]: “que são um povo belicoso” → “que são uma nação belicosa” — Gens → “nação” (Key Terms); estava “povo”.
+- `pt-BR/p7-l02.md` [30]: “segundo a escolha, embora não segundo a realidade” → “segundo a eleição, embora não segundo a realidade” — Electionem, ato da vontade, → “eleição” (Key Terms); estava “escolha”.
+- `pt-BR/p7-l02.md` [23]: “quem transgride nada poderá” → “quem se desvia nada poderá” — Transgreditur → “se desvia”, conforme a nota do glossário.
+- `pt-BR/p7-l02.md` [23]: “já se afastou da virtude” → “já se desviou da virtude” — Transgressus est virtutem → “se desviou da virtude”, mantendo a família de “desvio”.
+- `pt-BR/p7-l02.md` [23]: “aos semelhantes é contra a natureza” → “aos semelhantes é contrário à natureza” — Praeter naturam → “contrário à natureza” (Key Terms).
+- `pt-BR/p7-l02.md` [23]: “nada do que é contra a natureza é bom” → “nada do que é contrário à natureza é bom” — Praeter naturam → “contrário à natureza” (Key Terms).
+- `pt-BR/p7-l02.md` [48]: “Se, pois, alguém transgride, querendo dominar” → “Se, pois, alguém se desvia, querendo dominar” — Transgrediatur → “se desvia”, conforme a família terminológica e a nota do glossário.
+- `pt-BR/p7-l02.md` [48]: “tanto quanto transgrediu no princípio” → “tanto quanto se desviou no princípio” — Transgressus est → “se desviou”, mantendo a família de “desvio”.
+- `pt-BR/p7-l02.md` [48]: “isto é contra a natureza” → “isto é contrário à natureza” — Praeter naturam → “contrário à natureza” (Key Terms).
+- `pt-BR/p7-l02.md` [48]: “nada do que é contra a natureza é bom” → “nada do que é contrário à natureza é bom” — Praeter naturam → “contrário à natureza” (Key Terms).
+- `pt-BR/p7-l02.md` [48]: “o que é contra a natureza é violento” → “o que é contrário à natureza é violento” — Praeter naturam → “contrário à natureza” (Key Terms).
+- `pt-BR/p7-l02.md` [49]: “isso seria contra a natureza” → “isso seria contrário à natureza” — Praeter naturam → “contrário à natureza” (Key Terms).
+- `pt-BR/p7-l03.md` [9]: “em grande número os artesãos” → “em grande número os banáusicos” — Banausi → “banáusicos” (Key Terms); estava “artesãos”.
+- `pt-BR/p7-l03.md` [13]: “necessárias, como um povo” → “necessárias, como uma nação” — Gens → “nação” (Key Terms); estava “povo”.
+- `pt-BR/p7-l03.md` [21]: “fabricantes, isto é, artífices” → “fabricantes, isto é, artesãos” — Artificibus → “artesãos” (Key Terms); estava “artífices”.
+- `pt-BR/p7-l03.md` [21]: “quanto aos outros artífices” → “quanto aos outros artesãos” — Artificibus → “artesãos” (Key Terms); estava “artífices”.
+- `pt-BR/p7-l03.md` [22]: “à provisão política pertence” → “à provisão civil pertence” — Civilem → “civil” (Key Terms); estava “política”.
+- `pt-BR/p7-l03.md` [19]: “Terceiro, quando diz “Ora, da provisão”” → “Terceiro, quando diz “Ora, da provisão civil”” — Repõe civilis, presente no início de passagem citado e ausente da tradução.
+- `pt-BR/p7-l02.md` [51]: “relativamente ao que o homem pode fazer” → “relativamente às coisas agíveis pelo homem” — Agibilis ab homine designa o objeto do intelecto prático; mantém “coisas agíveis” (Key Terms).
+- `pt-BR/p7-l02.md` [45]: “A segunda, ali: “Louvar mais, porém”” → “A segunda, onde diz: “Louvar mais, porém”” — Ibi → “onde diz” na indicação de uma passagem (Key Terms).
+
+### Part terms 11 of 14, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 3 minor. Delta read das 55 alterações e dos parágrafos vizinhos. As correções procedem, salvo três defeitos menores: uma concordância quebrada em p7-l02 [51], “regime” em vez de “república” em p7-l01 [15] e *eforia* contra a decisão do journal em p6-l07 [22].
+- `pt-BR/p7-l02.md` [51]: “às coisas agíveis pelo homem, que fica muito aquém” → “às coisas agíveis pelo homem, que ficam muito aquém” — A correção anterior pôs o antecedente no plural (“coisas agíveis”), mas o verbo ficou no singular; a concordância passa a ser “ficam”.
+- `pt-BR/p7-l01.md` [15]: “quer seja o regime chamado pelo nome comum” → “quer seja a república chamada pelo nome comum” — Sive sit respublica communi nomine nominata: pelo Key Terms, “república” é a forma para o regime “que se chama com o nome comum”. Com a correção anterior, “república dos melhores” ficou ao lado de “regime” no mesmo par.
+- `pt-BR/p6-l07.md` [22]: “a conclusão e a *eforia*” → “a conclusão e a *ephoria*” — A Decisão do journal para este lema diz que *ephoria* fica em itálico e sem tradução, por ser leitura obscura de Moerbeke. A forma corrigida, “eforia” em itálico, contradiz essa decisão e põe em itálico uma palavra portuguesa.
+- Rejected: pt-BR/p7-l03.md [19], [22] — Íncipit citado como “Ora, da provisão civil” em [19] e como “Ora, da provisão” em [22]. — Cada um segue a sua remissão latina (est autem civilis / est autem); não é um defeito.
+- Rejected: pt-BR/p6-l07.md [47] — Classe meaning para studiosi → “virtuosos”. — A correção está certa e segue o Key Terms (studiosus → virtuoso); a classificação não altera o texto.
+- Rejected: pt-BR/p6-l06.md [21] — Suppeditetur traduzido por “é calcado aos pés”. — No latim medieval, suppeditare tem o sentido de pisar ou subjugar, e a frase faz sentido no contexto.
+
+### Part terms 11 of 14, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as três correções e lidos integralmente os nove parágrafos apresentados e as seis notas do tradutor; nenhum defeito objetivo encontrado.
+- Rejected: pt-BR/p6-l07.md [22] — Itálico de *ephoria* sem correspondente na fonte. — A decisão específica do diário exige conservar este termo latino em itálico; a correção está adequada.
+- Rejected: pt-BR/p7-l02.md [51]–[52] — Contagem de marcadores de ênfase diferente da fonte. — As diferenças decorrem dos títulos *Ética* e *Retórica*, corretamente grafados em itálico conforme o diário.
+
+### Part terms 12 of 14, Round 1 (codex, terms read)
+Verdict: 3 meaning-level, 79 minor. 108 parágrafos sinalizados lidos; deriva em 41 deles, além de uma inversão de sentido corrigida.
+- `pt-BR/p7-l03.md` [26]: “todos ou a maioria são ignorantes” → “todos ou a maioria são iletrados” — *idiotae* → “iletrados” (Key Terms).
+- `pt-BR/p7-l03.md` [29]: “nenhum comandante de exército” → “nenhum chefe do exército” — *dux exercitus* → “chefe do exército” (Key Terms).
+- `pt-BR/p7-l03.md` [32]: “a segunda, ali: “Além disso”” → “a segunda, onde diz “Além disso”” — *ibi* como remissão → “onde diz” (Key Terms).
+- `pt-BR/p7-l04.md` [4]: “em geral, da posse e da abundância” → “em geral, da possessão e da abundância” — *possessio* → “possessão” (Key Terms).
+- `pt-BR/p7-l04.md` [6]: “Quanto à potência da cidade” → “Quanto ao poder da cidade” — *potentia* como poder da cidade → “poder” (Key Terms).
+- `pt-BR/p7-l04.md` [14]: “à grandeza desta potência” → “à grandeza deste poder” — *potentia* naval → “poder” (Key Terms).
+- `pt-BR/p7-l04.md` [14]: “também esta potência exista proporcionada” → “também este poder exista proporcionado” — *potentia* naval → “poder”, com ajuste de concordância.
+- `pt-BR/p7-l04.md` [17]: “do mar e da potência naval” → “do mar e do poder naval” — *potentia* naval → “poder” (Key Terms).
+- `pt-BR/p7-l04.md` [19]: “possam viver temperadamente, sem declinar” → “possam viver com temperança, sem declinar” — *temperate* → “com temperança” (Key Terms).
+- `pt-BR/p7-l04.md` [19]: “e liberalmente, sem ser retidos” → “e com liberalidade, sem ser retidos” — *liberaliter* → “com liberalidade” (Key Terms).
+- `pt-BR/p7-l04.md` [19]: “quando tratarmos da posse e da abundância” → “quando tratarmos da possessão e da abundância” — *possessio* → “possessão” (Key Terms).
+- `pt-BR/p7-l04.md` [20]: “pois o comandante do exército” → “pois o chefe do exército” — *dux exercitus* → “chefe do exército” (Key Terms).
+- `pt-BR/p7-l04.md` [28]: “quando diz “Quanto à potência naval”” → “quando diz “Quanto ao poder naval”” — *potentia* naval → “poder” (Key Terms).
+- `pt-BR/p7-l04.md` [28]: “inquire acerca da potência e da turba naval” → “inquire acerca do poder e da turba naval” — *potentia* naval → “poder” (Key Terms).
+- `pt-BR/p7-l04.md` [28]: “Primeiro manifesta que a potência naval” → “Primeiro manifesta que o poder naval” — *potentia* naval → “poder” (Key Terms).
+- `pt-BR/p7-l04.md` [28]: “primeiro mostra que a potência naval” → “primeiro mostra que o poder naval” — *potentia* naval → “poder” (Key Terms).
+- `pt-BR/p7-l04.md` [28]: “acerca da potência naval que se ordena” → “acerca do poder naval que se ordena” — *potentia* naval → “poder” (Key Terms).
+- `pt-BR/p7-l04.md` [28]: “se tiverem potência: por terra, a de infantaria; por mar, a naval” → “se tiverem poder: por terra, o de infantaria; por mar, o naval” — *potentia* militar → “poder”, com ajuste dos artigos elípticos.
+- `pt-BR/p7-l04.md` [28]: “à cidade ter potência naval” → “à cidade ter poder naval” — *potentia* naval → “poder” (Key Terms).
+- `pt-BR/p7-l04.md` [29]: “da grandeza da potência naval e de até que termo ela” → “da grandeza do poder naval e de até que termo ele” — *potentia* naval → “poder”, com ajuste do pronome.
+- `pt-BR/p7-l04.md` [29]: “então a potência naval deve ser proporcionada. Deve ser tão grande que, por ela” → “então o poder naval deve ser proporcionado. Deve ser tão grande que, por ele” — *potentia* naval → “poder”, com ajuste de concordância e pronome.
+- `pt-BR/p7-l04.md` [29]: “e pela potência de infantaria” → “e pelo poder de infantaria” — *potentia* militar → “poder” (Key Terms).
+- `pt-BR/p7-l04.md` [32]: “e da potência naval, que é necessária” → “e do poder naval, que é necessário” — *potentia* naval → “poder”, com ajuste de concordância.
+- `pt-BR/p7-l05.md` [10]: “devem ser por natureza os que governam” → “devem ser segundo a natureza os que governam” — *secundum naturam* → “segundo a natureza” (Key Terms).
+- `pt-BR/p7-l05.md` [11]: “dos que se levantam contra eles” → “dos que se insurgem contra eles” — *insurgere* → “insurgir-se” (Key Terms).
+- `pt-BR/p7-l06.md` [4]: “necessidade de posse;” → “necessidade de possessão;” — *possessio* → “possessão” (Key Terms).
+- `pt-BR/p7-l06.md` [4]: “mas a posse não é” → “mas a possessão não é” — *possessio* → “possessão” (Key Terms).
+- `pt-BR/p7-l06.md` [4]: “são partes da posse;” → “são partes da possessão;” — *possessio* → “possessão” (Key Terms).
+- `pt-BR/p7-l06.md` [9]: “coisas necessárias e vantajosas” → “coisas necessárias e proveitosas” — *conferentium* → “proveitosas” (Key Terms).
+- `pt-BR/p7-l06.md` [10]: “os livres que governam e os súditos” → “os livres governantes e governados” — *principantes et subiecti* → “governantes e governados” (Key Terms).
+- `pt-BR/p7-l06.md` [11]: “Ora, a posse, na cidade” → “Ora, a possessão, na cidade” — *possessio* → “possessão” (Key Terms).
+- `pt-BR/p7-l06.md` [11]: “que são posse de outrem” → “que são possessão de outrem” — *possessio* → “possessão” (Key Terms).
+- `pt-BR/p7-l06.md` [11]: “instrumento animado e posse de outro” → “instrumento animado e possessão de outro” — *possessio* → “possessão” (Key Terms).
+- `pt-BR/p7-l06.md` [14]: “o mandato das magistraturas” → “o mandato dos cargos de governo” — *principatus* → “cargos de governo” (Key Terms); “magistratura” corresponde a *magistratus*.
+- `pt-BR/p7-l07.md` [8]: “as posses devem estar” → “as possessões devem estar” — *possessiones* → “possessões” (Key Terms).
+- `pt-BR/p7-l07.md` [8]: “Isto é claro pela suposição” → “Isto é claro por suposição” — *ex suppositione* → “por suposição” (Key Terms).
+- `pt-BR/p7-l07.md` [8]: “as posses devem ser destes” → “as possessões devem ser destes” — *possessiones* → “possessões” (Key Terms).
+- `pt-BR/p7-l07.md` [21]: “quando diz “Mas também as posses”” → “quando diz “Mas também as possessões”” — *possessiones* → “possessões” (Key Terms).
+- `pt-BR/p7-l07.md` [21]: “mostra que as posses devem ser destes” → “mostra que as possessões devem ser destes” — *possessiones* → “possessões” (Key Terms).
+- `pt-BR/p7-l07.md` [22]: “quando diz “Mas também as posses”” → “quando diz “Mas também as possessões”” — *possessiones* → “possessões” (Key Terms).
+- `pt-BR/p7-l07.md` [22]: “declara que as posses devem ser destes mesmos” → “declara que as possessões devem ser destes mesmos” — *possessiones* → “possessões” (Key Terms).
+- `pt-BR/p7-l07.md` [22]: “que as posses estejam em torno destes” → “que as possessões estejam em torno destes” — *possessiones* → “possessões” (Key Terms).
+- `pt-BR/p7-l07.md` [22]: “Esta declaração vem da suposição” → “Esta declaração é por suposição” — *ex suppositione* → “por suposição” (Key Terms).
+- `pt-BR/p7-l07.md` [22]: “se não forem senhores das posses” → “se não forem senhores das possessões” — *possessionum* → “possessões” (Key Terms).
+- `pt-BR/p7-l07.md` [22]: “sejam senhores da posse” → “sejam senhores da possessão” — *possessionis* → “possessão” (Key Terms).
+- `pt-BR/p7-l07.md` [23]: “depois nas coisas práticas” → “depois nas coisas agíveis” — *agibilibus* → “coisas agíveis” (Key Terms).
+- `pt-BR/p7-l07.md` [30]: “o território e a posse devem” → “o território e a possessão devem” — *possessio* → “possessão” (Key Terms).
+- `pt-BR/p7-l08.md` [3]: “que a posse deve ser comum” → “que a possessão deve ser comum” — *possessio* → “possessão” (Key Terms).
+- `pt-BR/p7-l08.md` [11]: “de poucas posses, não lhes” → “de poucas possessões, não lhes” — *possessiones* → “possessões” (Key Terms).
+- `pt-BR/p7-l08.md` [11]: “pois uma posse pequena” → “pois uma possessão pequena” — *possessio* → “possessão” (Key Terms).
+- `pt-BR/p7-l08.md` [13]: “que a posse do território” → “que a possessão do território” — *possessio* → “possessão” (Key Terms).
+- `pt-BR/p7-l08.md` [13]: “uma parte da posse comum” → “uma parte da possessão comum” — *possessio* → “possessão” (Key Terms).
+- `pt-BR/p7-l08.md` [14]: “Todos participarão da posse comum” → “Todos participarão da possessão comum” — *possessio* → “possessão” (Key Terms).
+- `pt-BR/p7-l08.md` [15]: “que as posses do território” → “que as possessões do território” — *possessiones* → “possessões” (Key Terms).
+- `pt-BR/p7-l08.md` [15]: “mas todas as posses são comuns” → “mas todas as possessões são comuns” — *possessiones* → “possessões” (Key Terms).
+- `pt-BR/p7-l08.md` [15]: “parte da posse da cidade” → “parte da possessão da cidade” — *possessio* → “possessão” (Key Terms).
+- `pt-BR/p7-l08.md` [15]: “onde todas as posses, ou quase todas” → “onde todas as possessões, ou quase todas” — *possessiones* → “possessões” (Key Terms).
+- `pt-BR/p7-l08.md` [15]: “temem perder as posses próprias” → “temem perder as possessões próprias” — *possessiones* → “possessões” (Key Terms).
+- `pt-BR/p7-l09.md` [12]: “a superioridade dos atacantes” → “a superioridade dos que se insurgem” — *insurgentium* → “dos que se insurgem” (Key Terms).
+- `pt-BR/p7-l09.md` [22]: “Pois também para os magistrados” → “Pois também para os governantes” — *principantibus* → “governantes” (Key Terms).
+- `pt-BR/p7-l09.md` [22]: “uns chamam *Hylores*” → “uns chamam hiloros” — *hylores* → “hiloros” (Key Terms).
+- `pt-BR/p7-l09.md` [25]: “pela fraqueza do sopro” → “pela pequenez do sopro” — *parvitas* → “pequenez” (Key Terms).
+- `pt-BR/p7-l09.md` [29]: “Segundo, ali: “E não fazer”” → “Segundo, onde diz “E não fazer”” — *ibi* como remissão → “onde diz” (Key Terms).
+- `pt-BR/p7-l09.md` [29]: “a segurança contra os que atacam” → “a segurança contra os que se insurgem” — *insurgentibus* → “os que se insurgem” (Key Terms).
+- `pt-BR/p7-l09.md` [38]: “para que, se fossem vários, não houvesse ocasião de divisão da cidade” → “para que não haja ocasião de divisão da cidade, como haveria se fossem vários” — *ne si plures essent, esset occasio divisionis civitatis*: a pluralidade dos lugares daria ocasião à divisão; a tradução inverte essa relação. *(meaning)*
+- `pt-BR/p7-l09.md` [39]: “para melhor ventilação e para o acesso” → “para melhor ventilação e para a recreação” — *deductio* → “recreação” (Key Terms); “acesso” introduz outro conceito. *(meaning)*
+- `pt-BR/p7-l10.md` [7]: “as melhores escolhas” → “as melhores eleições” — *electiones* → “eleições” (Key Terms).
+- `pt-BR/p7-l10.md` [7]: “a outra é escolha de um certo mal” → “a outra é eleição de um certo mal” — *electio* → “eleição” (Key Terms).
+- `pt-BR/p7-l10.md` [8]: “O homem excelente usará” → “O homem virtuoso usará” — *vir studiosus* → “homem virtuoso” (Key Terms).
+- `pt-BR/p7-l10.md` [10]: “da ciência e da escolha” → “da ciência e da eleição” — *electio* → “eleição” (Key Terms).
+- `pt-BR/p7-l10.md` [21]: “a natureza deu a escolha” → “a natureza deu a eleição” — *electio* → “eleição” (Key Terms).
+- `pt-BR/p7-l10.md` [25]: “não basta, nas coisas que se fazem, saber” → “não basta, nas coisas agíveis, saber” — *agibilia* → “coisas agíveis” (Key Terms); “coisas que se fazem” obscurece a distinção entre agir e produzir. *(meaning)*
+- `pt-BR/p7-l10.md` [29]: “não se salvaria a cidade nem a comunicação” → “não se conservaria a cidade nem a comunicação” — *salvare* como conservação da comunidade política → “conservar” (Key Terms).
+- `pt-BR/p7-l10.md` [29]: “a escolha das sentenças” → “a eleição das sentenças” — *electio* → “eleição” (Key Terms).
+- `pt-BR/p7-l10.md` [29]: “é escolha de algo” → “é eleição de algo” — *electio* → “eleição” (Key Terms).
+- `pt-BR/p7-l10.md` [29]: “A escolha das coisas” → “A eleição das coisas” — *electio* → “eleição” (Key Terms).
+- `pt-BR/p7-l10.md` [29]: “é escolha de um bem” → “é eleição de um bem” — *electio* → “eleição” (Key Terms).
+- `pt-BR/p7-l10.md` [30]: “quando diz “O homem excelente usará”” → “quando diz “O homem virtuoso usará”” — *vir studiosus* → “homem virtuoso” (Key Terms).
+- `pt-BR/p7-l10.md` [30]: “o próprio homem excelente usa” → “o próprio homem virtuoso usa” — *studiosus* retoma o homem virtuoso da passagem comentada.
+- `pt-BR/p7-l10.md` [30]: “diz que o homem excelente, que tem” → “diz que o homem virtuoso, que tem” — *vir studiosus* → “homem virtuoso” (Key Terms).
+- `pt-BR/p7-l10.md` [30]: “Pois faz melhor operação supostos estes” → “Pois faz melhor operação por suposição destes” — *ex suppositione* → “por suposição” (Key Terms).
+- `pt-BR/p7-l10.md` [30]: “o homem excelente usará bem delas” → “o homem virtuoso usará bem delas” — *studiosus* retoma o homem virtuoso da passagem comentada.
+
+### Part terms 12 of 14, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 13 minor. Delta read of p7-l03 to p7-l10: round 1's fixes are correct, but they left lemma citations and pronoun agreement out of step (p7-l04, p7-l09, p7-l10), one false journal decision, and two remaining “posses” in p7-l08 [10].
+- `pt-BR/p7-l04.md` [6]: “se se deve fazê-la segundo o desejo, convém que esteja bem situada” → “se se deve fazê-lo segundo o desejo, convém que esteja bem situado” — a fix of round 1 changed “potência” to “poder”; the pronoun and participle that refer to it must be masculine
+- `pt-BR/p7-l04.md` [13]: “Quanto à potência naval, não é obscuro” → “Quanto ao poder naval, não é obscuro” — *nautica potentia* → “poder” (Key Terms); the commentary in [21] and [28] cites the lemma as “Quanto ao poder naval”
+- `pt-BR/p7-l04.md` [20]: “quando diz “Quanto à potência da cidade” etc.” → “quando diz “Quanto ao poder da cidade” etc.” — the citation must match lemma 956, now “Quanto ao poder da cidade”
+- `pt-BR/p7-l04.md` [21]: “Em seguida, quando diz “Quanto à potência da cidade”” → “Em seguida, quando diz “Quanto ao poder da cidade”” — the citation must match lemma 956, now “Quanto ao poder da cidade”
+- `pt-BR/p7-l04.md` [21]: “quando diz “Quanto à potência naval”, inquire acerca da potência e da turba naval” → “quando diz “Quanto ao poder naval”, inquire acerca do poder e da turba naval” — the citation must match lemma 963; *potentia* → “poder”, as in [28]
+- `pt-BR/p7-l04.md` [28]: “como a cidade se comporta em relação a elas” → “como a cidade se comporta em relação a eles” — the antecedents are now “o poder e a turba”; Portuguese uses the masculine plural for a mixed pair
+- `pt-BR/p7-l04.md` [28]: “o ótimo é que ela exista na cidade” → “o ótimo é que ele exista na cidade” — the antecedent is now “o poder naval”, which is masculine
+- `pt-BR/translation-journal.md`: “foi traduzido à letra, “Quanto à potência da cidade”” → “foi traduzido “Quanto ao poder da cidade”” — lemma 956 now reads “Quanto ao poder da cidade”, so the journal decision is false
+- `pt-BR/p7-l08.md` [10]: “algumas suposições da parte das posses” → “algumas suposições da parte das possessões” — *possessionum* → “possessões” (Key Terms), as in [11]–[15]
+- `pt-BR/p7-l08.md` [10]: “que as posses sejam comuns” → “que as possessões sejam comuns” — *possessiones* → “possessões” (Key Terms)
+- `pt-BR/p7-l09.md` [22]: “e outros *Agronomos*” → “e outros agrônomos” — the Key Terms row reads agronomi / hylores → agrônomos / hiloros; “hiloros” was already normalized in this sentence
+- `pt-BR/p7-l09.md` [28]: “quando diz “Pois também para os magistrados” etc.” → “quando diz “Pois também para os governantes” etc.” — the citation must match lemma 1022, now “Pois também para os governantes”
+- `pt-BR/p7-l10.md` [28]: “quando diz “O homem excelente usará” etc.” → “quando diz “O homem virtuoso usará” etc.” — the citation must match lemma 1029, now “O homem virtuoso usará”
+- Rejected: pt-BR/p7-l10.md [8], [30] — *studiosus* is rendered both “virtuoso” and “excelente” in the same passage — the Key Terms table has two rows: *vir studiosus* → “homem virtuoso” and *studiosus* → “excelente”; the text follows them
+- Rejected: pt-BR/p7-l10.md [30] — “por suposição destes” is awkward for *ex suppositione istorum* — it follows the Key Terms row and keeps the sense (given these goods)
+- Rejected: pt-BR/p7-l09.md [38] — checked the new subordinate clause after the meaning fix — the sense now matches *ne si plures essent, esset occasio divisionis*, and agreement with the surrounding clauses holds
+
+### Part terms 12 of 14, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Conferidas as 13 alterações e lidos integralmente os 25 parágrafos apresentados e as quatro notas do tradutor; nenhum defeito objetivo encontrado.
+- Rejected: pt-BR/p7-l10.md [29] — “as primeiras são dignas de escolha e não estas” parece contradizer a distinção anterior. — A aparente contradição já está no latim: “primae sunt eligibiles, et non istae”. A tradução conserva a fonte.
+- Rejected: pt-BR/p7-l09.md [29]; pt-BR/p7-l10.md [28] — O audit indica diferenças na quantidade de marcadores de ênfase. — Nos parágrafos apresentados, as diferenças decorrem dos itálicos de hippodamium, conservado em latim, e do título Ética, conforme as regras e o diário.
+
+### Part terms 13 of 14, Round 1 (codex, terms read)
+Verdict: 4 meaning-level, 37 minor. 95 parágrafos sinalizados lidos; 25 com deriva terminológica; 3 linhas do glossário ampliadas.
+- `pt-BR/p7-l10.md` [32]: “que o som seja pior; e ainda tanto que nem haja som.” → “que o tocar flauta seja pior; e ainda tanto que nem seja possível tocar flauta.” — Fistulatio designa o tocar flauta, conforme o glossário; “som” desloca a comparação da atividade para o seu resultado. *(meaning)*
+- `pt-BR/p7-l10.md` [32]: “o som será um pouco mais fraco; se for muito menor, não haverá som algum.” → “o tocar flauta será um pouco mais fraco; se for muito menor, não será possível tocar flauta.” — Fistulatio → “tocar flauta” (Key Terms); a comparação trata da atividade possibilitada pelo instrumento. *(meaning)*
+- `pt-BR/p7-l10.md` [35]: “da escolha que inclina” → “da eleição que inclina” — Electio → “eleição” (Key Terms); estava “escolha”.
+- `pt-BR/p7-l10.md` [40]: “contra a natureza e o costume” → “de modo contrário à natureza e ao costume” — Praeter naturam → “contrário à natureza” (Key Terms).
+- `pt-BR/p7-l10.md` [43]: “o que, por natureza, lhe é deficiente” → “o que, segundo a natureza, lhe é deficiente” — Secundum naturam → “segundo a natureza” (Key Terms).
+- `pt-BR/p7-l10.md` [48]: “os servos por natureza” → “os servos segundo a natureza” — Secundum naturam → “segundo a natureza” (Key Terms).
+- `pt-BR/p7-l10.md` [48]: “pois não são semelhantes por natureza” → “pois não são semelhantes segundo a natureza” — Secundum naturam → “segundo a natureza” (Key Terms).
+- `pt-BR/p7-l10.md` [48]: “pois estes são semelhantes por natureza” → “pois estes são semelhantes segundo a natureza” — Secundum naturam → “segundo a natureza” (Key Terms).
+- `pt-BR/p7-l11.md` [6]: “a mesma escolha que para” → “a mesma eleição que para” — Electio → “eleição” (Key Terms); estava “escolha”.
+- `pt-BR/p7-l11.md` [15]: “enquanto guerreiam, salvam-se” → “enquanto guerreiam, conservam-se” — Salvare → “conservar” (Key Terms); trata-se da conservação das cidades.
+- `pt-BR/p7-l11.md` [15]: “depois que obtiveram o império” → “depois que obtiveram o governo” — Principatus → “governo” quando designa o exercício do poder; estava “império”.
+- `pt-BR/p7-l11.md` [20]: “a educação do governante e do súdito” → “a educação do governante e do governado” — Principantis et subiecti → “do governante e do governado”, conforme a distinção do glossário.
+- `pt-BR/p7-l11.md` [24]: “isto é, a conduta segundo a razão” → “isto é, o modo de vida segundo a razão” — Conversatio → “modo de vida” (Key Terms).
+- `pt-BR/p7-l11.md` [24]: “a escolha deve comportar-se” → “a eleição deve comportar-se” — Electio → “eleição” (Key Terms); estava “escolha”.
+- `pt-BR/p7-l11.md` [25]: “O segundo, ali:” → “O segundo, onde diz:” — Ibi, na indicação de uma passagem, → “onde diz” (Key Terms).
+- `pt-BR/p7-l11.md` [25]: “isto é, das condutas” → “isto é, dos modos de vida” — Conversationes → “modos de vida” (Key Terms).
+- `pt-BR/p7-l11.md` [28]: “O segundo faz ali:” → “O segundo faz onde diz:” — Ibi, na indicação de uma passagem, → “onde diz” (Key Terms).
+- `pt-BR/p7-l11.md` [30]: “um governo dominativo” → “um governo senhorial” — Dominativus → “senhorial”, conforme a linha que distingue dominativus de despoticus.
+- `pt-BR/p7-l11.md` [31]: “alguém mais poderoso que os outros” → “alguém prepotente em relação aos outros” — Praepotens → “prepotente” (Key Terms).
+- `pt-BR/p7-l11.md` [31]: “riquezas e muitas posses” → “riquezas e muitas possessões” — Possessio → “possessão” (Key Terms).
+- `pt-BR/p7-l11.md` [32]: “para governá-los dominativamente” → “para governá-los senhorialmente” — Dominative segue dominativus → “senhorial” (Key Terms).
+- `pt-BR/p7-l11.md` [32]: “entre o dominativo e o civil” → “entre o senhorial e o civil” — Dominativus → “senhorial” (Key Terms).
+- `pt-BR/p7-l11.md` [32]: “com governo dominativo” → “com governo senhorial” — Dominativus → “senhorial” (Key Terms).
+- `pt-BR/p7-l11.md` [33]: “contra os adversários, se salvam” → “contra os adversários, se conservam” — Salvare → “conservar” (Key Terms); trata-se da conservação das cidades.
+- `pt-BR/p7-l11.md` [36]: “a posse das riquezas” → “a possessão das riquezas” — Possessio → “possessão” (Key Terms).
+- `pt-BR/p7-l11.md` [36]: “torna os homens insolentes e soberbos” → “torna os homens ultrajantes e soberbos” — Contumeliosos segue contumelia → “ultraje” (Key Terms); estava “insolentes”.
+- `pt-BR/p7-l12.md` [14]: “fazer as cópulas sendo mais velhos” → “ter coito sendo mais velhos” — Coitus → “coito” (Key Terms); “cópula nupcial” corresponde a copula nuptialis.
+- `pt-BR/p7-l12.md` [14]: “fizeram uso das cópulas” → “fizeram uso do coito” — Coitus → “coito” (Key Terms).
+- `pt-BR/p7-l12.md` [31]: “para as condutas posteriores” → “para os modos de vida posteriores” — Conversationes → “modos de vida” (Key Terms).
+- `pt-BR/p7-l12.md` [40]: “para o que é contra a natureza” → “para o que é contrário à natureza” — Praeter naturam → “contrário à natureza” (Key Terms).
+- `pt-BR/p7-l12.md` [61]: “os que têm posses” → “os que têm possessões” — Possessio → “possessão” (Key Terms).
+- `pt-BR/p7-l12.md` [61]: “que as posses sejam dos cidadãos” → “que as possessões sejam dos cidadãos” — Possessio → “possessão” (Key Terms).
+- `pt-BR/p7-l12.md` [70]: “os seus chefes, que publicamente” → “os seus governantes, que publicamente” — Principes → “governantes” (Key Terms).
+- `pt-BR/p8-l01.md` [18]: “as obras dos artífices” → “as obras dos artesãos” — Artifices → “artesãos” (Key Terms).
+- `pt-BR/p8-l01.md` [18]: “o passatempo dos homens livres” → “o passatempo dos homens bem-nascidos” — Ingenuus → “bem-nascido”; o glossário distingue nascimento livre de liber, “livre”. *(meaning)*
+- `pt-BR/p8-l01.md` [22]: “aos homens magnânimos e livres” → “aos homens magnânimos e bem-nascidos” — Ingenuus → “bem-nascido”; “livres” apaga a distinção terminológica entre ingenuus e liber. *(meaning)*
+- `pt-BR/p8-l01.md` [32]: “Depois, quando diz “Pois o costume”” → “Em seguida, quando diz “Pois o costume”” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/p8-l01.md` [33]: “o bem e a salvação da república” → “o bem e a conservação da república” — Salvatio → “conservação” (Key Terms).
+- `pt-BR/translation-journal.md`: “| potentia | poder | |” → “| potentia | poder | “Potência” quando designa uma capacidade ou se opõe ao ato; “vigor” quando designa a força corporal. |” — A linha omite sentidos distintos de poder político, corretamente traduzidos nos trechos por “potência” e “vigor”.
+- `pt-BR/translation-journal.md`: “| mercenarii | assalariados | |” → “| mercenarii | assalariados | “Mercenário” quando qualifica uma atividade ou quem a exerce em vista de ganhos exteriores. |” — Os trechos empregam mercenarius também para atividades e sua orientação ao ganho, sentido que “assalariados” não cobre.
+- `pt-BR/translation-journal.md`: “| vir / uxor / mulier / masculus, femina / puer | marido (ou homem) / esposa / mulher / macho, fêmea / criança | *Vir* é “marido” no contexto nupcial, “homem” diante de *puer*. |” → “| vir / uxor / mulier / masculus, femina / puer | marido (ou homem) / esposa / mulher / macho, fêmea / criança | *Vir* é “marido” no contexto nupcial, “homem” diante de *puer*. *Puer* admite “filho” quando designa a prole, inclusive antes do nascimento, e “menino” quando designa a idade infantil. |” — Os trechos usam corretamente “filho” para a relação de filiação e “menino” para a idade; a linha não previa esses sentidos.
+
+### Part terms 13 of 14, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 3 minor. Delta read de p7-l10, p7-l11, p7-l12 e p8-l01: as 41 alterações estão corretas; corrigidos dominativo→senhorial (2×) em p7-l10 [48] e salvação→conservação em p8-l01 [32].
+- `pt-BR/p7-l10.md` [48]: “diz-se governo dominativo” → “diz-se governo senhorial” — principatus dominativus → “governo senhorial” (Key Terms); p7-l11 já foi uniformizado assim
+- `pt-BR/p7-l10.md` [48]: “No governo dominativo, pois” → “No governo senhorial, pois” — dominativus → “senhorial” (Key Terms), como no mesmo parágrafo e em p7-l11
+- `pt-BR/p8-l01.md` [32]: “o bem e a salvação da república” → “o bem e a conservação da república” — bonum et salvationem reipublicae; salvatio → “conservação” (Key Terms), como a mesma frase corrigida em [33]
+- Rejected: pt-BR/p8-l01.md [32] — “salvação ou conservação”, “instituir e salvar” e “a instituem e a salvam” mantêm “salvar” — o latim tem o par salvationis sive conservationis, que exige duas palavras; manter “salvar” nas ocorrências próximas preserva o par
+- Rejected: pt-BR/p7-l11.md [36] — “ultrajantes” para contumeliosos — segue a linha contumelia → “ultraje” e não altera o sentido
+- Rejected: pt-BR/translation-journal.md — a linha potentia exibida não traz o texto novo descrito na alteração — não é verificável a partir do journal fornecido; as linhas mercenarii e vir aparecem atualizadas
+
+### Part terms 13 of 14, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente os seis parágrafos apresentados e as quatro notas do tradutor; as três alterações estão corretas, sem novos defeitos.
+- Rejected: pt-BR/p7-l10.md [48] — Os servos segundo a natureza aparecem como sempre governantes. — A tradução reproduz literalmente principantes semper, puta servos secundum naturam; o diário registra expressamente essa incongruência da fonte.
+
+### Part terms 14 of 14, Round 1 (codex, terms read)
+Verdict: 2 meaning-level, 15 minor. 52 parágrafos sinalizados lidos; 14 apresentam deriva, com 17 correções.
+- `pt-BR/p8-l01.md` [44]: “Ambas as coisas são elegíveis:” → “Ambas as coisas são dignas de escolha:” — *eligibilis* → “digno de escolha” (Key Terms); estava “elegíveis”.
+- `pt-BR/p8-l01.md` [44]: “tem mais razão de elegível e de bem” → “tem mais razão de algo digno de escolha e de bem” — *eligibilis* → “digno de escolha” (Key Terms); estava “elegível”.
+- `pt-BR/p8-l01.md` [45]: “pelo movimento dos membros contra a natureza” → “pelo movimento dos membros contrário à natureza” — *praeter naturam* → “contrário à natureza” (Key Terms); estava “contra a natureza”.
+- `pt-BR/p8-l01.md` [48]: “as obras dos artífices” → “as obras dos artesãos” — *artifices* → “artesãos” (Key Terms); estava “artífices”.
+- `pt-BR/p8-l02.md` [4]: “que potência ela tem” → “que poder ela tem” — *potentia* → “poder” (Key Terms); aqui designa a eficácia da música, não uma faculdade da alma ou a potência contraposta ao ato.
+- `pt-BR/p8-l02.md` [14]: “o fim não é elegível” → “o fim não é digno de escolha” — *eligibilis* → “digno de escolha” (Key Terms); estava “elegível”.
+- `pt-BR/p8-l02.md` [28]: “sejam bons juízes” → “sejam excelentes juízes” — *studiosus* → “excelente” (Key Terms); estava “bons”.
+- `pt-BR/p8-l02.md` [31]: “em vista do julgamento” → “em vista do juízo” — *iudicium* → “juízo” (Key Terms); estava “julgamento”.
+- `pt-BR/p8-l02.md` [49]: “razão de bem e de elegível” → “razão de bem e de algo digno de escolha” — *eligibilis* → “digno de escolha” (Key Terms); estava “elegível”.
+- `pt-BR/p8-l02.md` [51]: “o fim último não é elegível” → “o fim último não é digno de escolha” — *eligibilis* → “digno de escolha” (Key Terms); estava “elegível”.
+- `pt-BR/p8-l02.md` [68]: “O juízo apurado das coisas morais” → “O juízo excelente das coisas morais” — *studiosus* → “excelente” (Key Terms); estava “apurado”.
+- `pt-BR/p8-l02.md` [68]: “julga de modo mais apurado” → “julga de modo mais excelente” — *studiosius* é o comparativo correspondente a *studiosus* → “excelente” (Key Terms); estava “mais apurado”.
+- `pt-BR/p8-l02.md` [68]: “O juízo apurado se faz” → “O juízo excelente se faz” — *studiosus* → “excelente” (Key Terms); estava “apurado”.
+- `pt-BR/p8-l02.md` [77]: “a instrução e o uso da flauta em nada contribuem” → “a instrução e a prática de tocar flauta em nada contribuem” — *fistulatio* → “tocar flauta” (Key Terms); estava parafraseado como uso do instrumento.
+- `pt-BR/p8-l03.md` [9]: “composto de artesãos, mercenários e outros tais” → “composto de artesãos, assalariados e outros tais” — *mercenarii* → “assalariados” (Key Terms); “mercenários” sugere soldados contratados, em lugar de trabalhadores remunerados. *(meaning)*
+- `pt-BR/p8-l03.md` [23]: “composto de vis, de mercenários e de outros tais” → “composto de vis, de assalariados e de outros tais” — *mercenarii* → “assalariados” (Key Terms); “mercenários” sugere soldados contratados, em lugar de trabalhadores remunerados. *(meaning)*
+- `pt-BR/p8-l03.md` [29]: “segundo a potência da embriaguez” → “segundo o poder da embriaguez” — *potentia* → “poder” (Key Terms); aqui designa o efeito da embriaguez, não uma faculdade ou a potência contraposta ao ato.
+
+### Part terms 14 of 14, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta read of the 17 round-1 changes in p8-l01–l03 and their neighbouring paragraphs: all changes are correct; two minor fixes (a lemma cue in p8-l02 [68] and the stale journal row for *studiosum iudicium*).
+- `pt-BR/p8-l02.md` [68]: “quando diz “Não é obscuro”, resolve” → “quando diz “Não é imanifesto”, resolve” — o lema *non immanifestum* está traduzido em [28] como “Não é imanifesto”; pelas Decisões, as remissões seguem o início do lema traduzido
+- `pt-BR/translation-journal.md`: “| studiosum iudicium | juízo apurado | [1757]. |” → “| studiosum iudicium | juízo excelente | [1757]. |” — depois da correção da rodada 1, p8-l02 [68] diz “juízo excelente”; a linha afirmava uma forma que já não ocorre
+- Rejected: pt-BR/p8-l02.md [4] — *studiosorum* vertido “virtuosas”, não “excelente” — a tabela tem também a linha *studiosus* → “virtuoso” (Moerbeke, *spoudaios*); escolha defensável no lema
+- Rejected: pt-BR/p8-l02.md [78] — *artifices* vertido “artífices”, não “artesãos” — ali designa os autores do jogo segundo a arte, não os trabalhadores manuais; o sentido diferente justifica o termo
+- Rejected: pt-BR/p8-l01.md [45] — “previne um erro” sem verbo correspondente no latim — a fonte é elíptica (*cum dicit si enim quia forte…*), e o verbo suprido explicita a função do trecho sem alterar o sentido
+
+### Part terms 14 of 14, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Conferidas as duas alterações e lidos integralmente os parágrafos [67]–[69] e as notas [53]–[57] apresentados; nenhum defeito objetivo encontrado.
