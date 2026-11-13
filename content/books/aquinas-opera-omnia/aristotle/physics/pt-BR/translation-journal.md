@@ -54,7 +54,7 @@ Destino: pt-BR.
 | quod vere est | o que verdadeiramente é | g1-c006. |
 | quidquid est praeter ens est non ens | tudo o que é além do ente é não ente | Proposição de Parmênides. |
 | susceptibile | o que o recebe | O sujeito do branco, g1-c006. |
-| congregatio et segregatio | reunião e separação | *segregare*: separar. |
+| congregatio et segregatio | agregação e separação | *segregare*: separar. |
 | raritas / densitas | raridade / densidade | |
 | excellentia et defectus | o excesso e a falta | |
 | magnum et parvum | o grande e o pequeno | Platão. |
@@ -89,7 +89,7 @@ Destino: pt-BR.
 | disputative / rationes disputativae | dialeticamente / razões dialéticas | *per modum disputationis*: “à maneira de disputa”. |
 | ex probabilibus | a partir de proposições prováveis | |
 | epilogando | como que à maneira de epílogo | |
-| grossities | crassidão | |
+| grossities | espessura | |
 | Pythagorici | os pitagóricos | |
 | *De generatione* | *Sobre a geração* | |
 | defectus | dificuldade | Tomás glosa *idest dubitatio*: “isto é, dúvida”. |
@@ -106,7 +106,7 @@ Destino: pt-BR.
 | in tertio huius | no terceiro livro desta obra | Idem para *in quinto huius*. |
 | IX *Metaphys*. | livro IX da *Metafísica* | |
 | natura (ablativo) / a natura | por natureza / pela natureza | |
-| status / quies | repouso | |
+| status / quies | repouso | Em g8-c017 [71], *status*: “parada”, indicando um termo na série dos meios em ato. |
 | inchoatio formae | incoação da forma | |
 | lectus / lectulus | leito | |
 | lignum | madeira | |
@@ -145,7 +145,7 @@ Destino: pt-BR.
 | consilians | quem aconselha | |
 | perficiens / praeparans / adiuvans | a que aperfeiçoa / prepara / ajuda | Causa eficiente quádrupla. |
 | ambulatio / macies / purgatio / potio | caminhada / emagrecimento / purgação / poção | |
-| fere | quase | |
+| fere | quase | No sentido aproximativo: “aproximadamente”. |
 | statuifica / statuam faciens | arte estatuária / o que faz a estátua | |
 | laborare / bona habitudo | trabalhar / boa compleição | |
 | submersio | naufrágio | |
@@ -175,7 +175,7 @@ Destino: pt-BR.
 | tripes / tripoda | trípode | |
 | Protarchus | Protarco | |
 | prosequitur / exequitur / ostendit / probat propositum | desenvolve / executa / mostra / prova o que se propôs | |
-| simpliciter | absolutamente | |
+| simpliciter | absolutamente | Em g8-c003, no sentido de uniformidade: “simplesmente”, isto é, “do mesmo modo”. |
 | bovigena viriprora / vitigena oleoprora | bovígenos de proa humana / vitígenos de proa de oliveira | Nota em g2-c012 [^2]; *substantiae bovigenae*: substâncias bovígenas. |
 | peccatum (naturae, artis) | falha | Os monstros são “falhas da natureza” (g2-c014). |
 | sub cane / dies caniculares | sob o Cão / dias caniculares | Nota em g2-c013 [^1]. |
@@ -208,7 +208,7 @@ Destino: pt-BR.
 | activum mobilis | ativo do móvel | g3-c004 [11], [47]. |
 | spatium | intervalo | g3-c004 [12]; g3-c005 [14], [49]. |
 | actio / passio | ação / paixão | |
-| doctio / doctrina; docere / addiscere | o ensino / a aprendizagem; ensinar / aprender | g3-c005. |
+| doctio / doctrina; docere / addiscere | o ensino / a aprendizagem; ensinar / aprender | g3-c005. Fora da oposição técnica entre ensino e aprendizagem, doctrina pode significar “ensino”, como transmissão aos ouvintes, ou “doutrina”, como exposição sistemática de uma ciência. |
 | defectus rationabilis | deficiência racional | Tomás: *idest dubitationem… idest logicam*. |
 | quod quid est esse | quididade | g3-c005 [12]. |
 | ut ab hoc / ut in hoc | como por este / como neste | g3-c005 [50]–[51], [76]. |
@@ -219,7 +219,7 @@ Destino: pt-BR.
 | infinitum / finitum / infinitas | infinito / finito / infinidade | |
 | transire / transibile / intransibile; transitus | percorrer / percorrível / impercorrível; percurso | g3-c007; Tomás: *infinitum idem est quod intransibile*. |
 | appositio | adição | g3-c007 [16], [60]. |
-| magnitudo / multitudo | grandeza / multidão | |
+| magnitudo / multitudo | grandeza / multidão | *multitudine*, em expressões de contagem: “em número”. |
 | passio (punctum et passio) | paixão | Tomás: *idest passibilis qualitas*, “qualidade passível”. |
 | gnomon | gnômon | Nota em g3-c006 [^1]. |
 | par / impar | par / ímpar | |
@@ -232,9 +232,9 @@ Destino: pt-BR.
 | gleba / scintilla | torrão / centelha | |
 | fulcire | apoiar | Tomás: *idest sustentat*. |
 | medium (cosmológico) | centro | g3-c009; *medium* como metade: “metade”. |
-| sursum / deorsum; ultimum | em cima / embaixo; extremo | |
+| sursum / deorsum; ultimum | em cima / embaixo; extremo | Ultimum: também “último”, quando indica o termo final de uma sequência ou de um processo; adverbialmente, “por último”, “por fim” ou “em último lugar”. |
 | spatium (fora do céu) | espaço | g3-c007; “intervalo” continua para o *spatium* do movimento. |
-| rationabiliter | razoavelmente (g3-c006); racionalmente (g3-c008) | Em g3-c008 Tomás glosa *logice*. |
+| rationabiliter | razoavelmente (g3-c006); racionalmente (g3-c008) | Em g3-c008 Tomás glosa *logice*. Em g1-c010, ao afirmar que a posição dos contrários como princípios tem justificação: “com razão”. |
 | transcendentia | transcendentais | Nota em g3-c008 [^1]. |
 | bicubitum / tricubitum | de dois côvados / de três côvados | |
 | contingere et esse (in perpetuis) | poder ser e ser | |
@@ -313,11 +313,11 @@ Destino: pt-BR.
 | impassibile | impassível | |
 | secundum rem | na realidade | Oposto a *secundum rationem*, “segundo a razão”. |
 | Commentator | Comentador | Averróis. |
-| nunc | agora (pl. agoras) | Substantivo; “por ora” para o advérbio *nunc*, para evitar ambiguidade. |
+| nunc | agora (pl. agoras) | Substantivo; “por ora” para o advérbio *nunc*, para evitar ambiguidade. Ao situar opiniões no presente (*nunc quidam enim*, g2-c015): “hoje”. |
 | prius et posterius | o anterior e o posterior | Também na definição do tempo: “número do movimento segundo o anterior e o posterior”. |
 | numerus numeratus / numerus quo numeramus | número numerado / número com que numeramos | |
 | fieri tempus | dar-se tempo | |
-| circulatio | revolução (g4-c016); circunferência (g4-c014, do círculo) | |
+| circulatio | revolução (g4-c016); circunferência (g4-c014, do círculo) | Em g1-c008, na alternância cosmológica de mistura e separação de Empédocles: “ciclo”. |
 | ambitus | contorno | Tomás glosa *circularitas*. |
 | conductio | ajuntamento | Tomás glosa *contractio*. |
 | ex subiectis | dos supostos | |
@@ -377,12 +377,12 @@ Destino: pt-BR.
 | consequenter | consecutivo | *consequenter se habens*: o que se tem consecutivamente. |
 | habitum | contíguo | Também em g5-c003 [19], [91], com a glosa de Tomás. |
 | tangere / contactus / tactus | tocar / contato | *contactum*: o que está em contato. |
-| continuum / continuatio | contínuo / continuação | *continuitas*: continuidade. |
+| continuum / continuatio | contínuo / continuação | *continuitas*: continuidade. Continuatio também se verte por “continuidade” quando designa a unidade ou conexão de um contínuo. |
 | insertus / consertus / adnatus | inserção / junção / adnato | *adnascentia*: crescimento conjunto; *conclavatio*: pregagem. |
 | hypate | hípate | Nota em g5-c005 [^1]. |
 | doctrina (g5-c003) | aprendizagem | |
 | Commentator | o Comentador | Averróis; nota em g5-c003 [^1]. |
-| praedicamentum | categoria | *figurae praedicamenti*: figuras da categoria; *coordinatio praedicamenti*: coordenação da categoria. |
+| praedicamentum | predicamento | *figurae praedicamenti*: figuras do predicamento; *coordinatio praedicamenti*: coordenação do predicamento. |
 | doctrinatio | instrução | g5-c006; distinto de *doctrina* (aprendizagem) em g5-c003. |
 | existimatio | juízo | g5-c006 [7], [41]. |
 | volutatio | rolar | Em oposição a *ambulatio*, andar. |
@@ -408,7 +408,7 @@ Destino: pt-BR.
 | ultimum (continui) | extremo | *simul*: juntos. |
 | medium | intermédio | |
 | situs | sítio | |
-| longitudo | comprimento | |
+| longitudo | comprimento | No sentido temporal: “extensão do tempo” ou “longa duração do tempo”. |
 | momentum (g6-c002) | momento | Grego *kínēma*; nota em g6-c002 [^1]. |
 | moveri / motum esse | ser movido / ter sido movido | Conforme o título de g6-c008. |
 | velocius / tardius / aeque velox | mais veloz / mais lento / igualmente veloz | |
@@ -441,7 +441,7 @@ Destino: pt-BR.
 | corrumpi / corruptum esse | corromper-se / ter-se corrompido | |
 | stare / statio | parar / parada | Tomás glosa *tendit ad quietem*; o título de g6-c010 diz “vir ao repouso”. |
 | quiescere / quiescens | repousar / o que repousa | |
-| atomum | insecável | Distinto de *indivisibile* (indivisível) e *impartibile* (impartível). |
+| atomum | átomo | Distinto de *indivisibile* (indivisível) e *impartibile* (impartível). |
 | aeque velociter / aeque velox | com igual velocidade / igualmente veloz | |
 | regulariter | regularmente | |
 | aliquota pars | parte alíquota | |
@@ -508,7 +508,7 @@ Destino: pt-BR.
 | praeopere | de grande proveito | g8-c001: Tomás glosa *pernecessarium*, “muitíssimo necessário”. |
 | saeculum | século | g8-c001: medida da duração, nos versos de Empédocles. |
 | amicitia / discordia | amizade / discórdia | g8-c001: princípios de Empédocles. |
-| disgregatio / segregatio / congregatio | desagregação / segregação / congregação | g8-c001. |
+| disgregatio / segregatio / congregatio | desagregação / segregação / agregação | g8-c001. |
 | Commentator (Averroes) | o Comentador (Averróis) | g8-c001. |
 | sempiternitas / sempiternus | sempiternidade / sempiterno | g8-c001. |
 | ibi: | onde diz: | Remissão aos lemas nas divisões do texto. |
@@ -553,7 +553,7 @@ Destino: pt-BR.
 | movens seipsum | o que move a si mesmo / motor de si mesmo | g8-c010, g8-c011. |
 | imperare | comandar | g8-c009 [31], [116]: o intelecto de Anaxágoras. |
 | instantia | objeção | g8-c009 [115], [131]. |
-| impartibile / partibile | sem partes / que tem partes | g8-c012 [6], [43], [45]; Tomás glosa “não composto de matéria e forma”. |
+| impartibile / partibile | sem partes / que tem partes | g8-c012 [6], [43], [45]; Tomás glosa “não composto de matéria e forma”. No sentido de indivisibilidade ou divisibilidade, em g3-c007 e g3-c010: “impartível” / “partível”. |
 | perpetuum / sempiternum | perpétuo / sempiterno | g8-c012 a g8-c015. |
 | per accidens / secundum accidens | por acidente | g8-c012, g8-c013: ambos vertidos do mesmo modo. |
 | consequenter (esse) | consecutivo | g8-c012 [17]–[18], g8-c014 [13], [65]. |
@@ -578,23 +578,23 @@ Destino: pt-BR.
 | atoma tempora | tempos átomos | g8-c017 [32], [35]; nota do tradutor. |
 | rationabiliter | racionavelmente | g8-c018 [3], [25]; Tomás glosa *logice*, “logicamente”. |
 | dubitatio | dificuldade | g8-c016 [30]; g8-c017. |
-| medium / media; medietas | meio / meios; metade | g8-c017: *in duo media* = “em duas metades”. |
+| medium / media; medietas | meio / meios; metade | g8-c017: *in duo media* = “em duas metades”. Nos silogismos: “termo médio / termos médios”; entre extremos ou entre ciências: “intermediário / intermediários”, com flexão de gênero; como centro espacial: “centro”. |
 | ferri circulo / ferri circulum / secundum circulum | ser levado em círculo / ser levado sobre o círculo / ao longo de um círculo | g8-c016 [12]–[13], [47]–[48]. |
 | latio / lationes | translação / translações | g8-c019 [18], [30], [57]. |
 | congregatio / disgregatio; congregare / disgregare | agregação / desagregação; agregar / desagregar | g8-c020 [17]–[20], [40]–[43]. |
 | amicitia et lis (Empédocles); concordia et discordia (Aristóteles) | a amizade e a discórdia; a concórdia e a discórdia | g8-c020 [17], [40]. |
-| physiologi; antiqui naturales | fisiólogos; antigos naturalistas | g8-c019 [16], [53]; g8-c020 [43]. |
+| physiologi; antiqui naturales | fisiólogos; antigos naturalistas | g8-c019 [16], [53]; g8-c020 [43]. Distinto de *physici*, “os físicos”. |
 | regularis / irregularis | regular / irregular | g8-c020 [13]–[14], [35]–[38]. |
 | conversim; propositio convertibilis | reciprocamente; proposição conversível | g8-c020 [12], [34]. |
 | aptum natum est esse / natum est esse | tem aptidão natural para estar / está por natureza | g8-c020 [15], [37]. |
 | intenditur / remittitur (motus) | intensifica-se / afrouxa-se | g8-c020 [36]–[37]. |
 | atoma corpora; indivisibilia corpora | corpos átomos; corpos indivisíveis | g8-c020 [20], [42]; como “tempos átomos” em g8-c017. |
 | in eisdem (esse); eadem (moveri, pertransire) | nas mesmas coisas; pelas mesmas coisas | g8-c019 [9]–[15], [40]–[45]. |
-| circulatio | circulação | g8-c019 [11]; g8-c020 [10], [12], [31], [37]. |
+| circulatio | circulação | g8-c019 [11]; g8-c020 [10], [12], [31], [37]. Em g8-c019 [11], designa uma parte do círculo: “porção de círculo”, conforme a glosa *circuli portione*. |
 | medium (syllogismi) | termo médio | g8-c020 [33]. |
 | impartibile | sem partes | g8-c021 [3]; g8-c023 [6], [21], [30]; distinto de *indivisibile*, “indivisível”. |
 | habitum / habita ad invicem; in habito | adjacente / adjacentes uns aos outros; no adjacente | g8-c022 [9]–[10], [13], [33], [38]; g8-c023 [7], [19], [60]. |
-| consequenter se habere; consequenter entia | estar em sequência; coisas consecutivas | g8-c022 [13], [37]; g8-c023 [16], [30], [57]. |
+| consequenter se habere; consequenter entia | ter-se consecutivamente; coisas consecutivas | g8-c022 [13], [37]–[38]; g8-c023 [16], [30], [60]. Em g8-c023 [57], dito das moções e impulsos: “estar em sequência de”. |
 | motus proiectionis; proiectum; proiiciens | movimento de projeção; projétil, corpo lançado; o que lança, lançador | g8-c022; g8-c023 [22], [58]. |
 | antiperistasis (*antiperistasim*) | *antiperistasis* (*antiperistasim*), em itálico | g8-c022 [14]–[15], [39]–[40]. |
 | in non tempore | em não tempo | g8-c021 [62]–[84]; grafia como “não ente”. |
@@ -699,7 +699,7 @@ Destino: pt-BR.
 - g4-c017 [22]: *ex definitione motus assignata* traduzido à letra (“definição do movimento”), sem emendar para *temporis*.
 - g4-c016 [36]: mantido “Sardo” como na fonte; nota sobre a leitura de Tomás (Sardes) e a dos comentadores (Sardenha).
 - Notas do tradutor: g4-c014 [^1] (Xuto); g4-c016 [^1] (segunda figura do silogismo com duas afirmativas), [^2] (Sardo); g4-c017 [^1] (*intentio*).
-- Lemas fixados: g4-c018 ***o agora, porém***, ***pois o movimento acompanha, como foi dito***, ***e o mais conhecido***, ***é manifesto, porém***, ***e o tempo já é contínuo***, ***também isto acompanha***, ***e é ainda manifesto (que nenhuma parte)***; g4-c019 ***é manifesto, porém(, por que)***, ***e é, porém, o mesmo (em toda parte)***, ***além disso, assim como sucede***, ***não só, porém, medimos o movimento (pelo tempo)***, ***e isto acontece com razão***; g4-c020 ***é manifesto, porém, que***, ***uma vez que, porém, assim como (se está no número)***, ***e padecer algo sob o tempo***, ***por isso, é manifesto***, ***sinal disto, porém***, ***uma vez que, porém, o tempo***, ***pois não, como***, ***pois nem todo imóvel***, ***medirá, porém, o tempo***, ***por isso, as coisas que nem se movem***, ***é manifesto, pois(, que)***; g4-c021 ***o agora, porém***, ***divide, porém, em potência***, ***é, porém, o mesmo***, ***outro, porém***, ***o então, porém***, ***se, porém, não há tempo***, ***o já, porém***, ***o há pouco, porém, próximo***.
+- Lemas fixados: g4-c018 ***o agora, porém***, ***pois o movimento acompanha, como foi dito***, ***e o mais conhecido***, ***é manifesto, porém***, ***e o tempo já é contínuo***, ***também isto acompanha***, ***e é ainda manifesto (que nenhuma parte)***; g4-c019 ***é manifesto, porém(, por que)***, ***e é, porém, o mesmo (em toda parte)***, ***além disso, assim como sucede***, ***não só, porém, medimos o movimento (pelo tempo)***, ***e isto acontece razoavelmente***; g4-c020 ***é manifesto, porém, que***, ***uma vez que, porém, assim como (se está no número)***, ***e padecer algo sob o tempo***, ***por isso, é manifesto***, ***sinal disto, porém***, ***uma vez que, porém, o tempo***, ***pois não, como***, ***pois nem todo imóvel***, ***medirá, porém, o tempo***, ***por isso, as coisas que nem se movem***, ***é manifesto, pois(, que)***; g4-c021 ***o agora, porém***, ***divide, porém, em potência***, ***é, porém, o mesmo***, ***outro, porém***, ***o então, porém***, ***se, porém, não há tempo***, ***o já, porém***, ***o há pouco, porém, próximo***.
 - g4-c020 [76]: ***symmetrum*** mantido em latim, como lema, seguido da glosa de Tomás.
 - g4-c021 [6]: o latim da versão aristotélica está corrompido (*sic dicitur autem non idem ipsorum nunc*); traduzido segundo o sentido que Tomás lhe dá em [27] e a transição para [7].
 - g4-c021 [28]: *veniet nunc, quia venit hodie* traduzido “veio agora, porque veio hoje”, corrigindo o lapso evidente da edição à luz de [7].
@@ -715,7 +715,7 @@ Destino: pt-BR.
 - Mantido como na fonte: o primeiro parágrafo do comentário dentro do bloco de citação (`> **660**.`, `> **678**.`, `> **684**.`); o salto de numeração de 690 para 692 em g5-c005; títulos de lição sem negrito.
 - *Secundae* (g5-c005 [11], [59]) traduzido por “do segundo dia”, com nota [^2] sobre *noumēnía* e *deutéra*.
 - Notas do tradutor: g5-c003 [^1] (o Comentador); g5-c004 [^1] (*alteratio*/*alter*), [^2] (*latio*/*ferri*); g5-c005 [^1] (hípate), [^2] (lua nova).
-- *Deinde cum dicit* traduzido por “Em seguida, quando diz:”; *ibi* por “aí:”.
+- *Deinde cum dicit* traduzido por “Em seguida, quando diz:”; *ibi* por “onde diz:”.
 - Lemas fixados: g5-c006 ***uno em espécie, porém, é***, ***mas alguém duvidará***, ***absolutamente uno, porém(, é o movimento)***, ***indivisível***, ***como uno em espécie***, ***em número***, ***absolutamente***, ***paixão***, ***contíguo***, ***e sem falha***, ***do próprio quando***, ***daquilo em que***, ***que Sócrates, porém***, ***há, porém, uma dúvida***, ***a razão, com efeito, é a mesma***, ***hábito***; g5-c007 ***uma vez, porém, que é contínuo***, ***equívocos***, ***contíguos***, ***na difusão da lâmpada***, ***difusão***, ***lâmpada***, ***além disso, diz-se uno também o perfeito***, ***além disso, de outro modo(, além dos ditos)***, ***regular***, ***irregular***, ***há, porém, também em todo movimento***, ***ser levado***, ***a diferença da irregularidade, porém***, ***uno, pois,( é o irregular)***, ***donde nem espécies (do movimento)***, ***naquilo para o qual, naquilo em que***, ***em que***, ***no como***, ***para ela mesma***, ***para ele mesmo***, ***se, porém, todo (movimento uno)***; g5-c008 ***além disso, deve-se determinar***, ***acerca da permanência***, ***ora, o que parte (do contrário)***, ***o ser não é o mesmo para eles***, ***nem o que parte do contrário***, ***pois acontece ao mesmo tempo mudar-se***, ***mas mudar-se para o contrário***, ***e cada um, além disso, diz-se***, ***diz-se***, ***restam, pois***, ***para os quais***, ***o que vai para os contrários***, ***e o que vai para os contrários a partir dos contrários***, ***uma vez, porém, que difere***, ***é manifesto, porém***, ***não por si mesmo***, ***o que, porém, vai para o contrário***, ***naquelas, porém, em que não há contrário***, ***os que, porém, são movimentos para o meio***; g5-c009 ***uma vez, porém, que ao movimento***, ***qual, porém(, a qual)***, ***absolutamente***, ***permanência***, ***é manifesto, pois***, ***sujeitos***, ***ao mesmo tempo, porém***, ***ao movimento, porém, àquele (que vai)***, ***para aquilo mesmo***, ***aquietação***, ***naquelas, porém, em que não há contrários***, ***que parte do ser***, ***que vai para o ser***, ***repouso, por certo, delas***, ***e, se por certo houver algum***, ***não é algo o que não é***, ***se, porém, assim é(, ou nem todo)***, ***algo semelhante, porém, é***.
 - Em g5-c007 [15] o texto de Aristóteles diz *neque in eo ad quod, neque in quo*, e o lema de Tomás traz *in quod quo*; o lema traduz-se por ***naquilo para o qual, naquilo em que***, para acompanhar o texto.
 - *Albedini autem non amplius* (g5-c006 [6]) traduzido literalmente (“Da brancura, porém, já não há mais”); Tomás explica em [40] que se trata de espécies.
@@ -742,7 +742,7 @@ Destino: pt-BR.
 - Em g6-c006 [57], *hoc signum f prius pertransibit bc quam ab* traduzido segundo o sentido: “bc passará por este sinal f antes que ab”.
 - O § 819 falta na numeração da fonte (g6-c007 [50]); mantido sem número.
 - Nota do tradutor: g6-c007 [^1] (intensão e remissão).
-- Lemas fixados: g6-c008 ***mostrado isto, porém***, ***segundo outro***, ***primeiro***, ***por isso, é necessário***, ***não só, porém, o que muda***, ***além disso, também se em todo***, ***delimita***, ***divisão***, ***além disso, se o que muda continuamente***, ***nem interrompe a mudança***, ***além disso, na grandeza***, ***pois tudo o que de algo***, ***uma vez, pois, que (no tempo)***, ***pois a mesma demonstração (vale)***, ***é manifesto, pois***; g6-c009 ***demonstradas, porém, estas coisas***, ***uma vez, porém, que nem o finito***, ***a mesma razão, porém (vale)***, ***que, pois, se algo se move***, ***mas, se não for***, ***mas tampouco o infinito***, ***além disso, também tomado o tempo***, ***uma vez, porém, que o finito***, ***regularmente***; g6-c010 ***nem, pois, o que repousa***, ***demonstrado isto, porém***, ***no tempo, porém, em que***, ***assim como, porém, o que se move***, ***uma vez, porém, que tudo o que se move***, ***pois repousar é***, ***parar mais depressa e mais devagar***, ***que primeiro se move***, ***segundo algo***, ***segundo o tempo primeiro***, ***segundo o termo do tempo***, ***permanecendo***.
+- Lemas fixados: g6-c008 ***mostrado isto, porém***, ***segundo outro***, ***primeiro***, ***por isso, é necessário***, ***não só, porém, o que muda***, ***além disso, também se em todo***, ***delimita***, ***divisão***, ***além disso, se o que muda continuamente***, ***nem cessa de mudar***, ***além disso, na grandeza***, ***pois tudo o que de algo***, ***uma vez, pois, que (no tempo)***, ***pois a mesma demonstração (vale)***, ***é manifesto, pois***; g6-c009 ***demonstradas, porém, estas coisas***, ***uma vez, porém, que nem o finito***, ***a mesma razão, porém (vale)***, ***que, pois, se algo se move***, ***mas, se não for***, ***mas tampouco o infinito***, ***além disso, também tomado o tempo***, ***uma vez, porém, que o finito***, ***regularmente***; g6-c010 ***nem, pois, o que repousa***, ***demonstrado isto, porém***, ***no tempo, porém, em que***, ***assim como, porém, o que se move***, ***uma vez, porém, que tudo o que se move***, ***pois repousar é***, ***parar mais depressa e mais devagar***, ***que primeiro se move***, ***segundo algo***, ***segundo o tempo primeiro***, ***segundo o termo do tempo***, ***permanecendo***.
 - Em g6-c010 [3], *quantio* da fonte lido como *quando*.
 - Letra *o* da figura de g6-c010 [74] (coincide com o artigo): “um corpo o”; o segmento *de* vai como “o lugar de”.
 - Notas do tradutor: g6-c008 [^1] (o Comentador = Averróis); g6-c010 [^1] (o latim *quiescere* verte dois verbos gregos, vir ao repouso e estar em repouso).
@@ -1117,3 +1117,622 @@ Verdict: 0 meaning-level, 1 minor. Full read of g8-c009 to g8-c023, journal and 
 
 ### Part 7 of 7, Round 4 (codex, delta read)
 Verdict: 0 meaning-level, 0 minor. Verificados g8-c017 [25]–[27], a nota do tradutor e os metadados pertinentes: a correção para “não é” corresponde ao latim; nenhum novo defeito encontrado.
+
+### Part terms 1 of 7, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 44 minor. 265 flags lidos; 38 correções textuais de desvio e 6 ajustes de glossário.
+- `pt-BR/translation-journal.md`: “| medium / media; medietas | meio / meios; metade | g8-c017: *in duo media* = “em duas metades”. Em posição intermediária entre coisas ou estados: “intermediário”; como ponto central espacial: “centro”; *media pars*: “metade”. |” → “| medium / media; medietas | meio / meios; metade | g8-c017: *in duo media* = “em duas metades”. Nos silogismos: “termo médio / termos médios”; entre extremos ou entre ciências: “intermediário / intermediários”, com flexão de gênero; como centro espacial: “centro”. |” — A linha não contempla os sentidos lógico, intermediário e espacial de medium, corretamente distinguidos na tradução.
+- `pt-BR/translation-journal.md`: “| sursum / deorsum; ultimum | em cima / embaixo; extremo | No sentido ordinal ou temporal: “último”. |” → “| sursum / deorsum; ultimum | em cima / embaixo; extremo | Ultimum: também “último”, quando indica o termo final de uma sequência ou de um processo; adverbialmente, “por último”, “por fim” ou “em último lugar”. |” — Ultimum não designa sempre um extremo espacial; a tradução distingue corretamente os usos sequenciais e adverbiais.
+- `pt-BR/translation-journal.md`: “| doctio / doctrina; docere / addiscere | o ensino / a aprendizagem; ensinar / aprender | g3-c005. |” → “| doctio / doctrina; docere / addiscere | o ensino / a aprendizagem; ensinar / aprender | g3-c005. Fora da oposição técnica entre ensino e aprendizagem, doctrina pode significar “ensino”, como transmissão aos ouvintes, ou “doutrina”, como exposição sistemática de uma ciência. |” — A equivalência técnica de g3-c005 não abrange os outros sentidos de doctrina presentes nos trechos.
+- `pt-BR/translation-journal.md`: “| continuum / continuatio | contínuo / continuação | *continuitas*: continuidade. |” → “| continuum / continuatio | contínuo / continuação | *continuitas*: continuidade. Continuatio também se verte por “continuidade” quando designa a unidade ou conexão de um contínuo. |” — Nos argumentos sobre a unidade do contínuo, continuidade traduz corretamente continuatione.
+- `pt-BR/translation-journal.md`: “| circulatio | revolução (g4-c016); circunferência (g4-c014, do círculo) | Da forma circular dos anéis, em g3-c011: “circularidade”. |” → “| circulatio | revolução (g4-c016); circunferência (g4-c014, do círculo) | Em g1-c008, na alternância cosmológica de mistura e separação de Empédocles: “ciclo”. |” — Ciclo distingue corretamente a alternância cosmológica do movimento circular e da circunferência.
+- `pt-BR/translation-journal.md`: “| rationabiliter | razoavelmente (g3-c006); racionalmente (g3-c008) | Em g3-c008 Tomás glosa *logice*. Em g8-c009, indicando que uma afirmação tem fundamento: “com razão”. |” → “| rationabiliter | razoavelmente (g3-c006); racionalmente (g3-c008) | Em g3-c008 Tomás glosa *logice*. Em g1-c010, ao afirmar que a posição dos contrários como princípios tem justificação: “com razão”. |” — Com razão expressa corretamente a justificação da tese, sem o sentido técnico de procedimento lógico.
+- `pt-BR/g1-c001.md` [46]: “Diz que ali, onde se lê” → “Diz que onde diz” — ibi, em remissão ao lema, → “onde diz” (Key Terms); estava “ali, onde se lê”.
+- `pt-BR/g1-c001.md` [56]: “os princípios que o definem” → “os princípios definientes” — definientia → “definientes” (Key Terms); estava parafraseado como “que o definem”.
+- `pt-BR/g1-c002.md` [20]: “expõe as opiniões” → “desenvolve as opiniões” — prosequitur → “desenvolve” (Key Terms); estava “expõe”.
+- `pt-BR/g1-c002.md` [25]: “examina as opiniões” → “desenvolve as opiniões” — prosequitur → “desenvolve” (Key Terms); estava “examina”.
+- `pt-BR/g1-c002.md` [32]: “por causa da sua densidade” → “por causa da sua espessura” — grossitiem é o substantivo correspondente a grossum → “espesso” (Key Terms); estava “densidade”.
+- `pt-BR/g1-c002.md` [34]: “por causa da sua densidade” → “por causa da sua espessura” — grossitiem corresponde a grossum → “espesso” (Key Terms); estava “densidade”.
+- `pt-BR/g1-c002.md` [38]: “acima e abaixo” → “em cima e embaixo” — sursum / deorsum → “em cima / embaixo” (Key Terms); estava “acima e abaixo”.
+- `pt-BR/g1-c005.md` [27]: “segundo a reunião” → “segundo a agregação” — congregationem → “agregação” (Key Terms); estava “reunião”.
+- `pt-BR/g1-c005.md` [27]: “e a separação das partes” → “e a desagregação das partes” — disgregationem → “desagregação” (Key Terms); estava “separação”.
+- `pt-BR/g1-c006.md` [45]: “pela multiplicidade das partes” → “pela multidão das partes” — multitudinem → “multidão” (Key Terms); estava “multiplicidade”.
+- `pt-BR/g1-c006.md` [49]: “pela multiplicidade das partes” → “pela multidão das partes” — multitudinem → “multidão” (Key Terms); estava “multiplicidade”.
+- `pt-BR/g1-c006.md` [58]: “por causa da multiplicidade das partes” → “por causa da multidão das partes” — multitudinem → “multidão” (Key Terms); estava “multiplicidade”.
+- `pt-BR/g1-c006.md` [75]: “e do conjunto delas” → “e do agregado delas” — congregato corresponde a congregare → “agregar” (Key Terms); estava “conjunto”.
+- `pt-BR/g1-c009.md` [4]: “que é reunião e separação” → “que é agregação e separação” — congregationem → “agregação” (Key Terms); estava “reunião”.
+- `pt-BR/g1-c009.md` [35]: “senão reunião e separação” → “senão agregação e separação” — congregatio → “agregação” (Key Terms); estava “reunião”.
+- `pt-BR/g1-c009.md` [42]: “pela reunião dessas partes” → “pela agregação dessas partes” — congregationem → “agregação” (Key Terms); estava “reunião”.
+- `pt-BR/g1-c009.md` [82]: “pela reunião de muitas partes” → “pela agregação de muitas partes” — congregatione → “agregação” (Key Terms); estava “reunião”.
+- `pt-BR/g1-c010.md` [4]: “o acima e o abaixo” → “o alto e o baixo” — sursum / deorsum, como posições, → “o alto / o baixo” (Key Terms); estava “o acima e o abaixo”.
+- `pt-BR/g1-c010.md` [34]: “do pleno e do vazio” → “do cheio e do vazio” — pleno → “cheio” (Key Terms); estava “pleno”.
+- `pt-BR/g1-c010.md` [34]: “que o pleno e o vazio” → “que o cheio e o vazio” — plenum → “cheio” (Key Terms); estava “pleno”.
+- `pt-BR/g1-c010.md` [34]: “atribuía o pleno ao ente” → “atribuía o cheio ao ente” — plenum → “cheio” (Key Terms); estava “pleno”.
+- `pt-BR/g1-c010.md` [34]: “o acima e o abaixo” → “o alto e o baixo” — sursum / deorsum, como posições, → “o alto / o baixo” (Key Terms); estava “o acima e o abaixo”.
+- `pt-BR/g1-c010.md` [35]: “por reunião e separação” → “por agregação e separação” — congregatione → “agregação” (Key Terms); estava “reunião”.
+- `pt-BR/g1-c010.md` [76]: “a concórdia, o pleno ou o quente” → “a concórdia, o cheio ou o quente” — plenum → “cheio” (Key Terms); estava “pleno”.
+- `pt-BR/g1-c011.md` [23]: “prossegue a questão” → “desenvolve a questão” — prosequitur → “desenvolve” (Key Terms); estava “prossegue”.
+- `pt-BR/g1-c011.md` [38]: “prossegue o que estava em questão” → “desenvolve o que estava em questão” — prosequitur → “desenvolve” (Key Terms); estava “prossegue”.
+- `pt-BR/g1-c011.md` [63]: “por causa de sua crassidão” → “por causa de sua espessura” — grossitiem corresponde a grossum → “espesso” (Key Terms); estava “crassidão”.
+- `pt-BR/g1-c012.md` [3]: “é conforme à natureza dizer” → “é segundo a natureza dizer” — secundum naturam → “segundo a natureza” (Key Terms); estava “conforme à natureza”.
+- `pt-BR/g1-c012.md` [15]: “como as que crescem” → “como as que aumentam” — augmentantur corresponde a augmentum → “aumento” (Key Terms); estava “crescem”.
+- `pt-BR/g1-c012.md` [17]: “e que é sujeito o homem” → “e que subjaz o homem” — subiici → “subjazer” (Key Terms); estava parafraseado como “é sujeito”.
+- `pt-BR/g1-c012.md` [27]: “prossegue o que intenta” → “desenvolve o que intenta” — prosequitur → “desenvolve” (Key Terms); estava “prossegue”.
+- `pt-BR/g1-c012.md` [30]: “prossegue o que se propôs” → “desenvolve o que se propôs” — prosequitur propositum → “desenvolve o que se propôs” (Key Terms); estava “prossegue”.
+- `pt-BR/g1-c012.md` [66]: “todas as coisas que crescem” → “todas as coisas que aumentam” — augmentatis corresponde a augmentum → “aumento” (Key Terms); estava “crescem”.
+- `pt-BR/g1-c015.md` [23]: “tudo o que está fora do ente é não ente” → “tudo o que é além do ente é não ente” — Restabelece a formulação da proposição de Parmênides fixada nos Key Terms.
+- `pt-BR/g1-c015.md` [44]: “tudo o que está fora do ente é não ente” → “tudo o que é além do ente é não ente” — Restabelece a formulação da proposição de Parmênides fixada nos Key Terms.
+- `pt-BR/g2-c001.md` [51]: “tentou sem razão impugnar” → “tentou sem razão refutar” — improbare → “refutar” (Key Terms); estava “impugnar”.
+- `pt-BR/g2-c004.md` [9]: “umas simplesmente, outras operosamente” → “umas absolutamente, outras operosamente” — simpliciter → “absolutamente” (Key Terms): as primeiras artes produzem a matéria, em oposição às que apenas a preparam.
+- `pt-BR/g2-c004.md` [48]: “algumas fazem-na simplesmente” → “algumas fazem-na absolutamente” — simpliciter → “absolutamente” (Key Terms); estava “simplesmente”.
+
+### Part terms 1 of 7, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 4 minor. Delta read: verified 44 fixes from round 1 (all correct against the source); updated two stale Key Terms rows (congregatio, grossities), made the praeter ens premise in g1-c015 [23] consistent, and added a missing comma in g1-c001 [46].
+- `pt-BR/translation-journal.md`: “| congregatio et segregatio | reunião e separação | *segregare*: separar. |” → “| congregatio et segregatio | agregação e separação | *segregare*: separar. |” — Após as correções em g1-c009 e g1-c010, *congregatio* é “agregação” em todo o texto; “reunião e separação” não ocorre mais (auditoria: ×0).
+- `pt-BR/translation-journal.md`: “| grossities | crassidão | |” → “| grossities | espessura | |” — Após as correções em g1-c002 e g1-c011, *grossities* é “espessura”; “crassidão” não ocorre mais (auditoria: ×0).
+- `pt-BR/g1-c015.md` [23]: “como a matéria está fora do ente” → “como a matéria é além do ente” — O latim repete *praeter ens* na premissa (*materia sit praeter ens*); com a proposição agora em “é além do ente”, a premissa deve usar o mesmo termo para que o argumento se feche.
+- `pt-BR/g1-c001.md` [46]: “Diz que onde diz” → “Diz que, onde diz” — A oração intercalada “onde diz … etc.” fecha com vírgula antes de “o Filósofo”; falta a vírgula de abertura.
+- Rejected: pt-BR/g1-c001.md [46] — repetição de “diz” em “Diz que, onde diz” — Os sujeitos são distintos (o Comentador; o Filósofo) e “onde diz” é a fórmula fixada para *ibi*; com a vírgula, a frase lê-se sem ambiguidade.
+- Rejected: pt-BR/g2-c004.md [9], [48] — *simpliciter* → “absolutamente” em vez de “simplesmente” — O diário reserva “simplesmente” só para g2-c015, onde Tomás glosa *idest absolute*; aqui vale a regra geral, “absolutamente”.
+- Rejected: pt-BR/g1-c002.md [31] — *medium* → “intermédio”, e não “intermediário” como na nova linha do diário — A linha *medium (inter contraria)* → “intermédio” cobre este uso; não altera o sentido.
+
+### Part terms 1 of 7, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as quatro alterações, os seis parágrafos apresentados e as três notas do tradutor; nenhum defeito objetivo encontrado. Os demais alertas mecânicos dependem de trechos não apresentados.
+- Rejected: pt-BR/g1-c001.md [21] — Diferença no número de marcadores de ênfase. — O diário registra a tradução de De mobilibus sem itálico, pois a expressão não designa um título.
+
+### Part terms 2 of 7, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 54 minor. 239 parágrafos sinalizados lidos; 48 com deriva; 5 linhas do glossário completadas.
+- `pt-BR/translation-journal.md`: “| magnitudo / multitudo | grandeza / multidão | |” → “| magnitudo / multitudo | grandeza / multidão | *multitudine*, em expressões de contagem: “em número”. |” — Registra o sentido de contagem, corretamente traduzido em g2-c006 [10] e g2-c009 [8].
+- `pt-BR/translation-journal.md`: “| medium / media; medietas | meio / meios; metade | g8-c017: *in duo media* = “em duas metades”. Para o que está entre extremos: “intermédio” ou “intermediário”; na demonstração: “termo médio”. |” → “| medium / media; medietas | meio / meios; metade | g8-c017: *in duo media* = “em duas metades”. Em posição intermediária entre coisas ou estados: “intermediário”; como ponto central espacial: “centro”; *media pars*: “metade”. |” — Registra sentidos usados correta e consistentemente nos trechos sinalizados.
+- `pt-BR/translation-journal.md`: “| impartibile / partibile | sem partes / que tem partes | g8-c012 [6], [43], [45]; Tomás glosa “não composto de matéria e forma”. |” → “| impartibile / partibile | sem partes / que tem partes | g8-c012 [6], [43], [45]; Tomás glosa “não composto de matéria e forma”. No sentido de indivisibilidade ou divisibilidade, em g3-c007 e g3-c010: “impartível” / “partível”. |” — Distingue a divisibilidade tratada nestes trechos da composição tratada na nota original.
+- `pt-BR/translation-journal.md`: “| circulatio | revolução (g4-c016); circunferência (g4-c014, do círculo) | Em g4-c010, das ondas produzidas na água: “círculos”. |” → “| circulatio | revolução (g4-c016); circunferência (g4-c014, do círculo) | Da forma circular dos anéis, em g3-c011: “circularidade”. |” — Registra o sentido corretamente traduzido em g3-c011 [4] e [31].
+- `pt-BR/translation-journal.md`: “| nunc | agora (pl. agoras) | Substantivo; “por ora” para o advérbio *nunc*, para evitar ambiguidade. |” → “| nunc | agora (pl. agoras) | Substantivo; “por ora” para o advérbio *nunc*, para evitar ambiguidade. Ao situar opiniões no presente (*nunc quidam enim*, g2-c015): “hoje”. |” — Registra o sentido temporal corretamente mantido no lema e nas suas remissões.
+- `pt-BR/g2-c007.md` [9]: “o ar não se congrega sempre em cima” → “o ar não se agrega sempre em cima” — *congregari* → “agregar-se” (Key Terms); estava “congregar-se”.
+- `pt-BR/g2-c014.md` [11]: “aquilo em vista de que se faz” → “aquilo por causa do qual se faz” — *cuius causa fit* → “aquilo por causa do qual se faz” (Key Terms).
+- `pt-BR/g2-c014.md` [34]: “aquilo em vista de que algo se faz” → “aquilo por causa do qual algo se faz” — *cuius causa fit* → “aquilo por causa do qual se faz” (Key Terms).
+- `pt-BR/g3-c005.md` [22]: “prossegue a dúvida” → “desenvolve a dúvida” — *prosequitur* → “desenvolve” (Key Terms); estava “prossegue”.
+- `pt-BR/g3-c005.md` [24]: “prossegue a dúvida” → “desenvolve a dúvida” — *prosequitur* → “desenvolve” (Key Terms); estava “prossegue”.
+- `pt-BR/g3-c005.md` [27]: “prossegue primeiro o segundo” → “desenvolve primeiro o segundo” — *prosequitur* → “desenvolve” (Key Terms); estava “prossegue”.
+- `pt-BR/g3-c005.md` [28]: “prossegue o outro membro” → “desenvolve o outro membro” — *prosequitur* → “desenvolve” (Key Terms); estava “prossegue”.
+- `pt-BR/g3-c005.md` [31]: “prossegue o outro membro” → “desenvolve o outro membro” — *prosequitur* → “desenvolve” (Key Terms); estava “prossegue”.
+- `pt-BR/g3-c005.md` [69]: “à delicadeza da sua compleição” → “à sutileza da sua compleição” — *subtilitati* → “sutileza”, derivado de “sutil” (Key Terms); estava “delicadeza”.
+- `pt-BR/g3-c006.md` [11]: “todos sempre submetem ao infinito alguma outra natureza” → “todos sempre fazem subjazer ao infinito alguma outra natureza” — *subiiciunt* designa pôr uma natureza como sujeito subjacente ao infinito; “submetem” sugere subordinação. *(meaning)*
+- `pt-BR/g3-c006.md` [63]: “distinguir e congregar” → “distinguir e agregar” — *congregare* → “agregar” (Key Terms); estava “congregar”.
+- `pt-BR/g3-c007.md` [73]: “os antigos naturais” → “os antigos filósofos naturais” — *antiqui naturales* → “os antigos filósofos naturais” (Key Terms).
+- `pt-BR/g3-c009.md` [12]: “fala do repouso do infinito” → “fala da permanência do infinito” — *mansione* → “permanência” (Key Terms); estava “repouso”.
+- `pt-BR/g3-c009.md` [16]: “o grave permanece no centro” → “o pesado permanece no centro” — *grave* → “pesado” (Key Terms); estava “grave”.
+- `pt-BR/g3-c009.md` [20]: “se é grave, tem por natureza” → “se é pesado, tem por natureza” — *grave* → “pesado” (Key Terms); estava “grave”.
+- `pt-BR/g3-c009.md` [49]: “reprova o que foi dito” → “refuta o que foi dito” — *improbat* → “refuta” (Key Terms); estava “reprova”.
+- `pt-BR/g3-c009.md` [56]: “se for corpo grave, é preciso” → “se for corpo pesado, é preciso” — *grave* → “pesado” (Key Terms); estava “grave”.
+- `pt-BR/g3-c009.md` [57]: “movimento dos graves e dos leves” → “movimento dos pesados e dos leves” — *gravium* → “pesados” (Key Terms); estava “graves”.
+- `pt-BR/g3-c010.md` [35]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c010.md` [36]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c010.md` [42]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c010.md` [49]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c010.md` [61]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c010.md` [62]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c010.md` [66]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c011.md` [28]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c011.md` [33]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c011.md` [35]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c011.md` [38]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c011.md` [46]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c012.md` [23]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c012.md` [25]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c012.md` [32]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c012.md` [36]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c012.md` [39]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c012.md` [40]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c013.md` [15]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c013.md` [17]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c013.md` [21]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c013.md` [23]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c013.md` [24]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g4-c001.md` [22]: “prossegue o proposto” → “desenvolve o que se propôs” — *prosequitur propositum* → “desenvolve o que se propôs” (Key Terms).
+- `pt-BR/g4-c001.md` [31]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g4-c001.md` [34]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g4-c001.md` [48]: “os outros graves e leves semelhantes” → “os outros pesados e leves semelhantes” — *gravium* → “pesados” (Key Terms); estava “graves”.
+- `pt-BR/g4-c001.md` [48]: “o grave para baixo” → “o pesado para baixo” — *grave* → “pesado” (Key Terms); estava “grave”.
+- `pt-BR/g4-c001.md` [49]: “movimento dos graves e dos leves” → “movimento dos pesados e dos leves” — *gravium* → “pesados” (Key Terms); estava “graves”.
+- `pt-BR/g4-c001.md` [49]: “aonde são levados os graves” → “aonde são levados os pesados” — *gravia* → “pesados” (Key Terms); estava “graves”.
+- `pt-BR/g4-c001.md` [51]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g4-c003.md` [17]: “razões disputativas” → “razões dialéticas” — *rationes disputativae* → “razões dialéticas” (Key Terms).
+
+### Part terms 2 of 7, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Leitura delta da parte 2: as 55 correções da rodada anterior (fórmula *Deinde cum dicit*, *prosequitur*, *grave*, *congregare*, *subiiciunt*, linhas do diário) estão certas e não quebraram o entorno; os parágrafos mostrados estão limpos.
+- Rejected: pt-BR/g2-c014.md [11] — Dois sujeitos (“aquilo por causa do qual se faz e o ‘por causa disto’”) com o verbo no singular “poderá”. — O latim também tem o singular *fiet*, e os dois termos designam a mesma coisa; a concordância com o núcleo mais próximo é admissível.
+- Rejected: pt-BR/g3-c011.md [34] — A auditoria aponta menos marcadores de ênfase do que na fonte (42 contra 48). — *cuius scilicet nihil est extra* virou um só lema contínuo, com “a saber” fora do negrito-itálico; nada se perdeu do texto nem do realce.
+- Rejected: pt-BR/g3-c013.md [18] — A auditoria aponta a palavra repetida “toca toca”. — Verte *omne enim tangens tangit aliquid*: é sujeito mais verbo, não um erro.
+- Rejected: pt-BR/g4-c003.md [16]–[17] — *disputative* foi vertido “de modo disputativo”, e *rationes disputativae* “razões dialéticas”. — Ambas as formas estão registradas na tabela de termos; a diferença é coerente com ela.
+- Rejected: pt-BR/g3-c009.md [^1] — A nota afirma que, em *Sobre o céu* II, o sul é o “em cima”. — Está certo: em *De caelo* II, 2, Aristóteles põe em cima o polo invisível para nós, o do sul.
+
+### Part terms 3 of 7, Round 1 (codex, terms read)
+Verdict: 3 meaning-level, 57 minor. 243 sinalizações lidas; 50 parágrafos com desvio terminológico; quatro complementos ao glossário.
+- `pt-BR/translation-journal.md`: “| fere | quase | |” → “| fere | quase | No sentido aproximativo: “aproximadamente”. |” — Completa a linha para o sentido aproximativo de *fere*, recorrente nestas passagens.
+- `pt-BR/translation-journal.md`: “| medium / media; medietas | meio / meios; metade | g8-c017: *in duo media* = “em duas metades”. Como intermediário entre extremos, substantivo ou adjetivo: “intermédio”; *medium* como uma de duas partes iguais: “metade”. |” → “| medium / media; medietas | meio / meios; metade | g8-c017: *in duo media* = “em duas metades”. Para o que está entre extremos: “intermédio” ou “intermediário”; na demonstração: “termo médio”. |” — Registra sentidos e renderizações corretos usados consistentemente nas ocorrências.
+- `pt-BR/translation-journal.md`: “| circulatio | revolução (g4-c016); circunferência (g4-c014, do círculo) | |” → “| circulatio | revolução (g4-c016); circunferência (g4-c014, do círculo) | Em g4-c010, das ondas produzidas na água: “círculos”. |” — *circulationes* designa aqui os círculos formados na água, não revoluções de um corpo.
+- `pt-BR/translation-journal.md`: “| longitudo | comprimento | |” → “| longitudo | comprimento | No sentido temporal: “extensão do tempo” ou “longa duração do tempo”. |” — Completa a linha para o sentido temporal, distinto do comprimento espacial.
+- `pt-BR/g4-c004.md` [41]: “nele tem quietude e fixidez” → “nele tem repouso e fixidez” — *quietem* → “repouso” (Key Terms); estava “quietude”.
+- `pt-BR/g4-c004.md` [56]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g4-c006.md` [15]: “donde dizemos que a matéria é algo” → “donde dizemos que algo é matéria” — *dicimus aliquid esse materiam* tem “algo” como sujeito e “matéria” como predicativo; a tradução os inverte. *(meaning)*
+- `pt-BR/g4-c006.md` [52]: “trata do espaço” → “desenvolve a discussão do espaço” — *prosequitur* → “desenvolve” (Key Terms); estava “trata”.
+- `pt-BR/g4-c006.md` [70]: “trata da matéria” → “desenvolve a discussão da matéria” — *prosequitur* → “desenvolve” (Key Terms); estava “trata”.
+- `pt-BR/g4-c006.md` [90]: “a superfície da esfera da lua” → “a superfície do orbe da lua” — *orbis* → “orbe” (Key Terms); estava “esfera”.
+- `pt-BR/g4-c007.md` [33]: “e concorda mais com a opinião” → “e é mais consonante com a opinião” — *consonat* conserva a terminologia de “consonante” (Key Terms); estava “concorda”.
+- `pt-BR/g4-c007.md` [46]: “como no último continente” → “como no continente extremo” — *ultimo* designa o continente espacial extremo; segue “extremo” (Key Terms).
+- `pt-BR/g4-c007.md` [47]: “certa superfície última dele” → “certa superfície extrema dele” — *ultima* designa a superfície extrema, não uma ordem temporal; segue “extremo” (Key Terms).
+- `pt-BR/g4-c008.md` [9]: “Pois aquilo a que se segue imediatamente” → “Pois aquilo em relação ao qual se tem consecutivamente” — *consequenter* → “ter-se consecutivamente” (Key Terms); estava “segue imediatamente”.
+- `pt-BR/g4-c008.md` [23]: “ao qual o corpo contido e localizado se segue imediatamente, e pelo qual é tocado” → “em relação ao qual o corpo contido e localizado se tem consecutivamente, e que é tocado por ele” — Restabelece *consequenter se habet* e corrige *quod ab eo tangitur*: o continente é tocado pelo corpo contido. *(meaning)*
+- `pt-BR/g4-c008.md` [23]: “que se segue imediatamente, segundo a situação, ao corpo superior” → “que se tem consecutivamente, segundo a situação, em relação ao corpo superior” — *se habet consequenter* → “se tem consecutivamente” (Key Terms).
+- `pt-BR/g4-c008.md` [24]: “que se seguem na ordem natural de situação” → “que se têm consecutivamente na ordem natural de situação” — *se consequentia* conserva a terminologia de “ter-se consecutivamente” (Key Terms).
+- `pt-BR/g4-c009.md` [17]: “das coisas que se seguem umas às outras” → “das coisas consecutivas” — *eorum quae sunt consequenter* → “das coisas consecutivas” (Key Terms).
+- `pt-BR/g4-c009.md` [63]: “adiante não trata desta opinião” → “adiante não desenvolve a discussão desta opinião” — *prosequitur* → “desenvolve” (Key Terms); estava “trata”.
+- `pt-BR/g4-c010.md` [18]: “de ter tratado duas delas” → “de ter desenvolvido duas delas” — *prosecutus est* conserva “desenvolve” (Key Terms); estava “tratado”.
+- `pt-BR/g4-c010.md` [18]: “trata aqui da terceira” → “desenvolve aqui a terceira” — *prosequitur* → “desenvolve” (Key Terms); estava “trata”.
+- `pt-BR/g4-c010.md` [27]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g4-c010.md` [35]: “está fora da natureza dos quatro elementos” → “está além da natureza dos quatro elementos” — *praeter naturam* → “além da natureza”; a linha distingue expressamente de *extra naturam*, “fora da natureza”.
+- `pt-BR/g4-c010.md` [41]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g4-c010.md` [42]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g4-c010.md` [43]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g4-c010.md` [44]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g4-c010.md` [48]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g4-c010.md` [49]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g4-c010.md` [55]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g4-c011.md` [13]: “que o deslocamento do corpo impelido” → “que a translação do corpo impelido” — *latio* → “translação” (Key Terms); estava “deslocamento”.
+- `pt-BR/g4-c012.md` [4]: “se a extensão de B é igual à de D” → “se o comprimento de B é igual ao de D” — *longitudo* espacial → “comprimento” (Key Terms); estava “extensão”.
+- `pt-BR/g4-c012.md` [23]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g4-c012.md` [37]: “de extensão igual a b” → “de comprimento igual ao de b” — *aequalis longitudinis* → “de comprimento igual” (Key Terms).
+- `pt-BR/g4-c012.md` [38]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g4-c012.md` [42]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g4-c012.md` [43]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g4-c012.md` [46]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g4-c012.md` [76]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g4-c014.md` [12]: “o que se tem por último” → “o que se tem por extremo” — *ultimum* designa o corpo no extremo do universo; segue “extremo” (Key Terms).
+- `pt-BR/g4-c014.md` [54]: “o corpo que se tem por último segundo a opinião comum” → “o corpo que se tem por extremo segundo a opinião comum” — *ultimum* designa o corpo no extremo do universo; segue “extremo” (Key Terms).
+- `pt-BR/g4-c015.md` [15]: “prossegue o propósito” → “desenvolve o que se propôs” — *prosequitur propositum* → “desenvolve o que se propôs” (Key Terms).
+- `pt-BR/g4-c015.md` [17]: “prossegue acerca do tempo” → “desenvolve a discussão acerca do tempo” — *prosequitur* → “desenvolve” (Key Terms); estava “prossegue”.
+- `pt-BR/g4-c019.md` [9]: “isto acontece com razão” → “isto acontece razoavelmente” — *rationabiliter* → “razoavelmente” (Key Terms); estava “com razão”.
+- `pt-BR/g4-c019.md` [30]: “isto acontece com razão” → “isto acontece razoavelmente” — *rationabiliter* → “razoavelmente” (Key Terms); estava “com razão”.
+- `pt-BR/g4-c019.md` [32]: “isto acontece com razão” → “isto acontece razoavelmente” — *rationabiliter* no lema → “razoavelmente” (Key Terms).
+- `pt-BR/g4-c019.md` [32]: “acontece com razão o que se disse” → “acontece razoavelmente o que se disse” — *rationabiliter* na exposição → “razoavelmente” (Key Terms).
+- `pt-BR/g4-c023.md` [61]: “reprova-a reduzindo-a” → “refuta-a reduzindo-a” — *improbat* → “refuta” (Key Terms); estava “reprova”.
+- `pt-BR/g4-c023.md` [64]: “reprova a solução dita” → “refuta a solução dita” — *improbat* → “refuta” (Key Terms); estava “reprova”.
+- `pt-BR/g5-c003.md` [19]: “Logo, não é possível que nada se faça, nem se mova, nem mude.” → “Logo, nada pode fazer-se, nem mover-se, nem mudar.” — A conclusão latina nega a possibilidade de qualquer geração, movimento ou mudança; a construção portuguesa invertia o alcance da negação. *(meaning)*
+- `pt-BR/g5-c003.md` [29]: “se diz imóvel, aí:” → “se diz imóvel, onde diz:” — *ibi:* em remissão ao lema → “onde diz:” (Key Terms).
+- `pt-BR/g5-c003.md` [32]: “a condicional premissa, aí:” → “a condicional premissa, onde diz:” — *ibi:* em remissão ao lema → “onde diz:” (Key Terms).
+- `pt-BR/g5-c003.md` [39]: “nesses três gêneros, aí:” → “nesses três gêneros, onde diz:” — *ibi:* em remissão ao lema → “onde diz:” (Key Terms).
+- `pt-BR/g5-c003.md` [42]: “do ***relativo***, aí:” → “do ***relativo***, onde diz:” — *ibi:* em remissão ao lema → “onde diz:” (Key Terms).
+- `pt-BR/g5-c003.md` [43]: “da ação e da paixão, aí:” → “da ação e da paixão, onde diz:” — *ibi:* em remissão ao lema → “onde diz:” (Key Terms).
+- `pt-BR/g5-c003.md` [55]: “a atenuação de uma forma” → “a remissão de uma forma” — *remissionem* → “remissão” (Key Terms); estava “atenuação”.
+- `pt-BR/g5-c003.md` [55]: “a intensificação de outra” → “a intensão de outra” — *intensionem* → “intensão” (Key Terms); estava “intensificação”.
+- `pt-BR/g5-c003.md` [62]: “Esta relação, pois, é só de razão” → “Esta relação, pois, é só segundo a razão” — *secundum rationem* → “segundo a razão” (Key Terms); estava “de razão”.
+- `pt-BR/g5-c003.md` [70]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g5-c003.md` [85]: “Põe a segunda razão aí:” → “Põe a segunda razão onde diz:” — *ibi:* em remissão ao lema → “onde diz:” (Key Terms).
+
+### Part terms 3 of 7, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 3 minor. Delta read of round 1's fixes: one wrong fix reverted (g4-c006 [15], meaning), two leftover “aí:” in g5-c003 aligned, one stale lemma in the journal fixed; the other changes are correct.
+- `pt-BR/g4-c006.md` [15]: “donde dizemos que algo é matéria” → “donde dizemos que a matéria é algo” — *unde dicimus aliquid esse materiam* = grego τὴν ὕλην φαμὲν εἶναί τι: a matéria é sujeito, “algo” é predicativo (a matéria existe); o paralelo seguinte (*sic et locus … videtur esse*) o confirma. A correção da rodada anterior invertia o sentido. *(meaning)*
+- `pt-BR/g5-c003.md` [70]: “prova o que se propôs, aí:” → “prova o que se propôs, onde diz:” — *ibi:* → “onde diz:” (Key Terms), como nos demais lugares deste arquivo após a rodada anterior.
+- `pt-BR/g5-c003.md` [71]: “para manifestar o proposto, aí:” → “para manifestar o proposto, onde diz:” — *ibi:* → “onde diz:” (Key Terms), como nos demais lugares deste arquivo.
+- `pt-BR/translation-journal.md`: “***e isto acontece com razão***” → “***e isto acontece razoavelmente***” — O lema de g4-c019 [30], [32] e o texto em [9] passaram a “razoavelmente”; a lista de lemas fixados ficou desatualizada.
+- Rejected: pt-BR/g5-c003.md [55] — “remissão/intensão” contraria a linha do glossário “intensificação e atenuação” registrada junto às lições do livro 5 — O glossário tem duas linhas em conflito, e a outra (intensão/remissão, para qualidades) também cobre o caso. Nenhuma das escolhas altera o sentido.
+- Rejected: pt-BR/g4-c008.md [23] — “que é tocado por ele”: sujeito e agente — *quod ab eo tangitur*: *quod* retoma o corpo continente e *eo* o contido, de modo que a correção está certa.
+
+### Part terms 3 of 7, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as quatro alterações, todos os parágrafos apresentados e a nota do tradutor; nenhum defeito encontrado. As sinalizações mecânicas relativas a passagens não reproduzidas não puderam ser verificadas.
+- Rejected: pt-BR/g4-c006.md [15] — “a matéria é algo” inverteria sujeito e predicativo de aliquid esse materiam. — Os dois termos estão no acusativo na oração infinitiva; sua ordem não determina essas funções. O contexto da inferência da existência da matéria e o paralelo com a existência do lugar sustentam a tradução atual.
+
+### Part terms 4 of 7, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 140 minor. 282 parágrafos sinalizados lidos; 139 ocorrências de deriva corrigidas e 1 linha de glossário completada.
+- `pt-BR/translation-journal.md`: “| medium / media; medietas | meio / meios; metade | g8-c017: *in duo media* = “em duas metades”. |” → “| medium / media; medietas | meio / meios; metade | g8-c017: *in duo media* = “em duas metades”. Como intermediário entre extremos, substantivo ou adjetivo: “intermédio”; *medium* como uma de duas partes iguais: “metade”. |” — A linha precisa registrar os sentidos em que se usam consistentemente “intermédio” e “metade”.
+- `pt-BR/g5-c003.md` [93]: “terceira razão aí:” → “terceira razão onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c003.md` [97]: “um isto demonstrado ou determinado” → “este algo demonstrado ou determinado” — *hoc aliquid* → “este algo” (Key Terms); estava “um isto”.
+- `pt-BR/g5-c003.md` [98]: “quinta razão aí:” → “quinta razão onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c003.md` [99]: “sexta razão aí:” → “sexta razão onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c004.md` [22]: “uma dúvida, aí:” → “uma dúvida, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c004.md` [27]: “na quantidade, aí:” → “na quantidade, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c004.md` [28]: “no onde, aí:” → “no onde, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c004.md` [40]: “Ulteriormente, aí:” → “Ulteriormente, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c004.md` [45]: “Por último, aí:” → “Por último, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c005.md` [5]: “pois o último da mudança” → “pois o extremo da mudança” — *ultimum* → “extremo” (Key Terms); designa o termo da mudança.
+- `pt-BR/g5-c005.md` [23]: “prossegue o propósito principal” → “desenvolve o propósito principal” — *prosequitur* → “desenvolve” (Key Terms).
+- `pt-BR/g5-c005.md` [23]: “principal, aí:” → “principal, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c005.md` [26]: “o propósito, aí:” → “o propósito, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c005.md` [27]: “terceiro, recapitula, aí:” → “terceiro, recapitula, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c005.md` [31]: “entre si, aí:” → “entre si, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c005.md` [34]: “ser consecutivo, aí:” → “ser consecutivo, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c005.md` [35]: “ao contínuo, aí:” → “ao contínuo, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c005.md` [42]: “o consecutivo, aí:” → “o consecutivo, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c005.md` [43]: “foi dito, aí:” → “foi dito, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c005.md` [44]: “ao último termo do movimento” → “ao termo extremo do movimento” — *ultimum* → “extremo” (Key Terms).
+- `pt-BR/g5-c005.md` [53]: “movimento dos graves e dos leves” → “movimento dos pesados e dos leves” — *grave* → “pesado” (Key Terms); aqui se trata dos corpos pesados.
+- `pt-BR/g5-c005.md` [61]: “algo muda para o último” → “algo muda para o extremo” — *ultimum* → “extremo” (Key Terms).
+- `pt-BR/g5-c005.md` [69]: “foi dito, aí:” → “foi dito, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c005.md` [78]: “Por último, aí:” → “Por último, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c006.md` [28]: “de diversidade, aí:” → “de diversidade, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c006.md` [31]: “um deles, aí:” → “um deles, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c006.md` [36]: “figuras da categoria” → “figuras do predicamento” — *praedicamentum* → “predicamento” (Key Terms).
+- `pt-BR/g5-c006.md` [36]: “coordenação da categoria” → “coordenação do predicamento” — *praedicamentum* → “predicamento” (Key Terms).
+- `pt-BR/g5-c006.md` [36]: “numa só categoria, a do onde” → “num só predicamento, o do onde” — *praedicamentum* → “predicamento” (Key Terms).
+- `pt-BR/g5-c006.md` [36]: “na categoria da qualidade” → “no predicamento da qualidade” — *praedicamentum* → “predicamento” (Key Terms).
+- `pt-BR/g5-c006.md` [39]: “uma dúvida, aí:” → “uma dúvida, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c006.md` [52]: “algumas dúvidas, aí:” → “algumas dúvidas, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c006.md` [71]: “acerca disto, aí:” → “acerca disto, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c006.md` [72]: “a verdade, aí:” → “a verdade, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c006.md` [77]: “Aristóteles reprova no livro IV” → “Aristóteles refuta no livro IV” — *improbare* → “refutar” (Key Terms).
+- `pt-BR/g5-c007.md` [38]: “apresenta-o aí:” → “apresenta-o onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c007.md` [45]: “da irregularidade, aí:” → “da irregularidade, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c007.md` [51]: “dissera acima, aí:” → “dissera acima, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c007.md` [54]: “foi dito, aí:” → “foi dito, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c007.md` [62]: “foi dito, aí:” → “foi dito, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c007.md` [64]: “tem algo de multiplicidade” → “tem algo de multidão” — *multitudo* → “multidão” (Key Terms).
+- `pt-BR/g5-c008.md` [29]: “contrariedade dita, aí:” → “contrariedade dita, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [32]: “do repouso, aí:” → “do repouso, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [35]: “alguns deles, aí:” → “alguns deles, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [36]: “na mudança, aí:” → “na mudança, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [48]: “o movimento, aí:” → “o movimento, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [49]: “entre si, aí:” → “entre si, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [56]: “apresenta-a aí:” → “apresenta-a onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [63]: “o meio, aí:” → “o meio, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [66]: “nas mudanças, aí:” → “nas mudanças, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [69]: “por indução, aí:” → “por indução, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [22]: “qual a qual, aí:” → “qual a qual, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [27]: “a verdade, aí:” → “a verdade, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [28]: “terceiro, prova-a, aí:” → “terceiro, prova-a, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [32]: “entre si, aí:” → “entre si, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [39]: “não mudança, aí:” → “não mudança, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [40]: “à mudança, aí:” → “à mudança, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [45]: “uma dúvida, aí:” → “uma dúvida, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [46]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g5-c009.md` [46]: “aí: ***se, porém, assim é***” → “onde diz: ***se, porém, assim é***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [58]: “acima foi reprovado” → “acima foi refutado” — *improbare* → “refutar” (Key Terms).
+- `pt-BR/g5-c010.md` [32]: “naquelas dúvidas, aí:” → “naquelas dúvidas, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c010.md` [36]: “segundo, resolve-a, aí:” → “segundo, resolve-a, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c010.md` [38]: “livro II *Do céu*” → “livro II *Sobre o céu*” — *De caelo* → “Sobre o céu” (Key Terms).
+- `pt-BR/g5-c010.md` [46]: “uma objeção, aí:” → “uma objeção, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c010.md` [64]: “segunda razão aí:” → “segunda razão onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c010.md` [75]: “defeito da força produtora” → “defeito da virtude produtora” — *virtus* como força ativa → “virtude” (Key Terms).
+- `pt-BR/g6-c001.md` [18]: “se divide, aí:” → “se divide, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c001.md` [21]: “é indivisível, aí:” → “é indivisível, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c001.md` [24]: “e o tempo, aí:” → “e o tempo, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c001.md` [27]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g6-c001.md` [27]: “aí: ***pois nem são um***” → “onde diz: ***pois nem são um***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c001.md` [31]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g6-c001.md` [32]: “provar o proposto” → “provar o que se propôs” — *probandum propositum* segue a fórmula “prova o que se propôs” (Key Terms).
+- `pt-BR/g6-c001.md` [36]: “têm consecutivamente, aí:” → “têm consecutivamente, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c001.md` [40]: “segunda razão aí:” → “segunda razão onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c002.md` [20]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g6-c002.md` [20]: “aí: ***é manifesto, porém, por isto***” → “onde diz: ***é manifesto, porém, por isto***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c002.md` [22]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g6-c002.md` [24]: “à grandeza, aí:” → “à grandeza, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c002.md` [27]: “segundo, exemplifica, aí:” → “segundo, exemplifica, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c002.md` [28]: “terceiro, prova, aí:” → “terceiro, prova, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c002.md` [31]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g6-c002.md` [34]: “de momentos, aí:” → “de momentos, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c002.md` [35]: “de momentos, aí:” → “de momentos, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c002.md` [38]: “a segunda aí:” → “a segunda onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c002.md` [41]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g6-c002.md` [50]: “segundo inconveniente, aí:” → “segundo inconveniente, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c002.md` [53]: “terceiro inconveniente aí:” → “terceiro inconveniente onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c003.md` [25]: “do outro, aí:” → “do outro, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c003.md` [28]: “segundo, demonstra-o, aí:” → “segundo, demonstra-o, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c003.md` [30]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g6-c003.md` [32]: “mais lento, aí:” → “mais lento, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c003.md` [33]: “mesmo móvel, aí:” → “mesmo móvel, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c003.md` [37]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g6-c003.md` [37]: “aí: ***uma vez, porém, que todo movimento***” → “onde diz: ***uma vez, porém, que todo movimento***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c003.md` [40]: “grandeza igual, aí:” → “grandeza igual, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c003.md` [43]: “o proposto, aí:” → “o proposto, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c003.md` [55]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g6-c003.md` [55]: “aí: ***pois, uma vez que***” → “onde diz: ***pois, uma vez que***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c003.md` [57]: “Em segundo lugar, aí:” → “Em segundo lugar, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c003.md` [57]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g6-c003.md` [65]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g6-c003.md` [68]: “o proposto, aí:” → “o proposto, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c003.md` [69]: “terceiro, prova-o, aí:” → “terceiro, prova-o, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c003.md` [73]: “pelas forças determinadas” → “pelas virtudes determinadas” — *virtutes* → “virtudes” no sentido das capacidades ativas (Key Terms).
+- `pt-BR/g6-c004.md` [22]: “uma dúvida, ali:” → “uma dúvida, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c004.md` [23]: “prova o propósito” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g6-c004.md` [23]: “ali: ***e tampouco o infinito***” → “onde diz: ***e tampouco o infinito***” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c004.md` [37]: “segundo, prova-o, ali:” → “segundo, prova-o, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c004.md` [39]: “prova o propósito” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g6-c004.md` [41]: “ser finito, ali:” → “ser finito, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c005.md` [27]: “do movimento, ali:” → “do movimento, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c005.md` [30]: “pode mover-se, ali:” → “pode mover-se, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c005.md` [33]: “ou repousa, ali:” → “ou repousa, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c005.md` [36]: “o propósito, ali:” → “o propósito, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c005.md` [37]: “se segue, ali:” → “se segue, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c005.md` [41]: “prova o propósito” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g6-c005.md` [45]: “seja indivisível, ali:” → “seja indivisível, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c005.md` [48]: “Segundo, ali:” → “Segundo, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c005.md` [55]: “segunda razão ali:” → “segunda razão onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c005.md` [56]: “terceira razão ali:” → “terceira razão onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c005.md` [62]: “do repouso, ali:” → “do repouso, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c005.md` [70]: “terceira razão ali:” → “terceira razão onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c005.md` [108]: “o lugar igual contíguo a ele” → “o lugar igual em contato com ele” — *contactus* → “em contato” (Key Terms).
+- `pt-BR/g6-c006.md` [16]: “de todo o que é partível” → “de tudo o que tem partes” — *partibile* → “que tem partes” (Key Terms).
+- `pt-BR/g6-c006.md` [34]: “do movimento, ali:” → “do movimento, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c006.md` [37]: “do repouso, ali:” → “do repouso, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c006.md` [40]: “e o infinito), ali:” → “e o infinito), onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c006.md` [43]: “do movimento, ali:” → “do movimento, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c006.md` [49]: “segundo, expõe-nos, ali:” → “segundo, expõe-nos, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c006.md` [60]: “do tempo, ali:” → “do tempo, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c006.md` [66]: “segunda razão ali:” → “segunda razão onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c006.md` [71]: “terceira razão ali:” → “terceira razão onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c006.md` [77]: “tudo o que se move é partível” → “tudo o que se move tem partes” — *partibile* → “que tem partes” (Key Terms).
+- `pt-BR/g6-c006.md` [86]: “o proposto, ali:” → “o proposto, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c006.md` [92]: “dividem juntamente, ali:” → “dividem juntamente, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c006.md` [96]: “o tempo, ali:” → “o tempo, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c006.md` [104]: “ser movido, ali:” → “ser movido, onde diz:” — *ibi* → “onde diz” (Key Terms).
+
+### Part terms 4 of 7, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 12 minor. Delta read dos 140 ajustes de g5-c003 a g6-c006: todos corretos; corrigidas 7 remissões *ibi* restantes, 3 ocorrências de *ultimum* em g5-c005, 1 preposição faltante e 2 entradas do diário.
+- `pt-BR/g5-c003.md` [96]: “Põe a quarta razão aí:” → “Põe a quarta razão onde diz:” — *ibi* → “onde diz”, como em [93], [98] e [99] do mesmo arquivo.
+- `pt-BR/g5-c004.md` [21]: “três gêneros, aí:” → “três gêneros, onde diz:” — *ibi* → “onde diz”, como em [22], [27] e [28].
+- `pt-BR/g5-c005.md` [68]: “com o contínuo, aí:” → “com o contínuo, onde diz:” — *ibi* → “onde diz”, como em [69].
+- `pt-BR/g5-c006.md` [35]: “uno em número, aí:” → “uno em número, onde diz:” — *ibi* → “onde diz”, como no resto do arquivo.
+- `pt-BR/g5-c007.md` [44]: “a irregularidade, aí:” → “a irregularidade, onde diz:” — *ibi* → “onde diz”, como em [45].
+- `pt-BR/g6-c001.md` [33]: “em suas provas, aí:” → “em suas provas, onde diz:” — *ibi* → “onde diz”, como no resto do arquivo.
+- `pt-BR/g6-c006.md` [93]: “está o movimento, ali:” → “está o movimento, onde diz:” — *ibi* → “onde diz”, como em [92] e [96].
+- `pt-BR/g5-c005.md` [45]: “se chega ao último; mas o último da mudança é o contrário” → “se chega ao extremo; mas o extremo da mudança é o contrário” — *ultimum mutationis* já vertido “extremo” em [5], [44] e [61] do mesmo arquivo.
+- `pt-BR/g5-c005.md` [53]: “como o último no movimento local é contrário” → “como o extremo no movimento local é contrário” — *ultimum* como termo da mudança; mesma forma de [5], [45] e [61].
+- `pt-BR/g5-c010.md` [38]: “no livro II *Sobre o céu*” → “no livro II de *Sobre o céu*” — Falta a preposição antes do título; o diário fixa a construção “no livro I de *Sobre a geração*”.
+- `pt-BR/translation-journal.md`: “| praedicamentum | categoria | *figurae praedicamenti*: figuras da categoria; *coordinatio praedicamenti*: coordenação da categoria. |” → “| praedicamentum | predicamento | *figurae praedicamenti*: figuras do predicamento; *coordinatio praedicamenti*: coordenação do predicamento. |” — g5-c006 [36] diz agora “predicamento”; a linha descrevia formas que não ocorrem mais.
+- `pt-BR/translation-journal.md`: “- *Deinde cum dicit* traduzido por “Em seguida, quando diz:”; *ibi* por “aí:”.” → “- *Deinde cum dicit* traduzido por “Em seguida, quando diz:”; *ibi* por “onde diz:”.” — Os capítulos g5 e g6 usam agora “onde diz:”; a decisão registrada estava errada.
+- Rejected: pt-BR/g6-c006.md [43] — Auditoria: palavra repetida “muda muda”. — “tudo o que muda muda de algo” traduz *omne quod mutatur, ex quodam*; a repetição é gramatical.
+- Rejected: pt-BR/g5-c005.md [5] — “por último” em “àquilo para que muda por último”. — É o advérbio *ultimum mutatur*; a tabela admite “por último” para o uso adverbial.
+- Rejected: pt-BR/g6-c004.md [21], [36]; g6-c005.md [36] — “o propósito” para *propositum* fora da fórmula *probat propositum*. — Nesses lugares não há a fórmula “prova o que se propôs”; a escolha se defende e não muda o sentido.
+
+### Part terms 4 of 7, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 2 minor. Verificados os 12 ajustes e lidos integralmente os 30 parágrafos apresentados e suas notas: ajustes corretos; encontrados 2 defeitos menores.
+- `pt-BR/g5-c006.md` [34]: “uno em espécie, aí:” → “uno em espécie, onde diz:” — Resta uma ocorrência de ibi fora da fórmula “onde diz:” fixada no diário.
+- `pt-BR/g5-c005.md` [52]: “faz soar a última, aguda” → “fizesse soar a última, aguda” — A construção hipotética “como se alguém” exige o subjuntivo; o latim também emprega sonet.
+- Rejected: pt-BR/g5-c010.md [38] — A auditoria aponta marcadores de ênfase adicionais. — Os marcadores adicionais põem o título Sobre o céu em itálico, conforme a convenção registrada no diário.
+
+### Part terms 4 of 7, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of g5-c005 [51]–[53] and g5-c006 [33]–[35] with their footnotes: both previous fixes (“onde diz:” in [34], the subjunctive “fizesse soar” in [52]) are correct; no new defects.
+- Rejected: pt-BR/g5-c005.md [53] — The audit says the journal's “pesado e leve” does not occur. — The text has the plural “dos pesados e dos leves”, which renders *gravium et levium*. That matches the Key Terms row, so there is no drift.
+- Rejected: pt-BR/g5-c005.md [^1] — Whether it is right that the hípate is the lowest-sounding string and the nḗtē the highest. — It is right. Hypátē was the lowest-pitched string and nḗtē the highest-pitched one.
+
+### Part terms 5 of 7, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 67 minor. 272 parágrafos sinalizados lidos; 66 desvios de vocabulário corrigidos e 1 complemento ao glossário.
+- `pt-BR/translation-journal.md`: “| sursum / deorsum; ultimum | em cima / embaixo; extremo | Em sentido ordinal, inclusive na série de motores e movidos: “último”, “última”; como advérbio de discurso: “por último”, “por fim”. |” → “| sursum / deorsum; ultimum | em cima / embaixo; extremo | No sentido ordinal ou temporal: “último”. |” — As ocorrências de *ultimum* também empregam corretamente “último” para indicar ordem ou término temporal.
+- `pt-BR/g6-c007.md` [40]: “às outras, ali:” → “às outras, onde diz:” — *ibi* na remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g6-c007.md` [49]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g6-c007.md` [49]: “, ali:” → “, onde diz:” — *ibi* na remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g6-c007.md` [51]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g6-c007.md` [57]: “isto é, que se seguem um ao outro” → “isto é, que se têm consecutivamente” — *consequenter se habentia* → “que se têm consecutivamente” (Key Terms).
+- `pt-BR/g6-c007.md` [57]: “um sinal não se segue imediatamente a outro” → “um sinal não se tem consecutivamente a outro” — *consequenter se habens* → “ter-se consecutivamente” (Key Terms).
+- `pt-BR/g6-c007.md` [70]: “prova-a, ali:” → “prova-a, onde diz:” — *ibi* na remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g6-c007.md` [78]: “do móvel, ali:” → “do móvel, onde diz:” — *ibi* na remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g6-c008.md` [15]: “nem interrompe a mudança” → “nem cessa de mudar” — *pausat a mutatione* → “cessa de mudar”, conforme *pausare* → “cessar” (Key Terms).
+- `pt-BR/g6-c008.md` [47]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g6-c008.md` [62]: “***nem interrompe a mudança***” → “***nem cessa de mudar***” — *pausat a mutatione* → “cessa de mudar”, conforme *pausare* → “cessar” (Key Terms).
+- `pt-BR/g6-c008.md` [65]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g6-c008.md` [70]: “para provar o proposto” → “para provar o que se propôs” — *probandum propositum* → “provar o que se propôs” (Key Terms).
+- `pt-BR/g6-c008.md` [73]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g6-c008.md` [82]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g6-c008.md` [83]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g6-c008.md` [87]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g6-c008.md` [89]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g6-c008.md` [95]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g6-c009.md` [40]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g6-c009.md` [45]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g6-c009.md` [45]: “prova o proposto:” → “prova o que se propôs:” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g6-c009.md` [55]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g6-c009.md` [56]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g6-c009.md` [64]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g6-c009.md` [65]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g6-c009.md` [66]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g6-c010.md` [16]: “não é insecável” → “não é átomo” — *atomum* → “átomo” (Key Terms); estava “insecável”.
+- `pt-BR/g6-c010.md` [37]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g6-c010.md` [40]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g6-c010.md` [48]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g6-c010.md` [52]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g6-c010.md` [62]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g6-c010.md` [70]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g6-c010.md` [70]: “prova o proposto.” → “prova o que se propôs.” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g6-c011.md` [7]: “o da divisão em dois” → “o do corte em dois” — *in decidendo in duo* mantém o vocabulário de *decidi* → “ser cortado” (Key Terms).
+- `pt-BR/g6-c011.md` [45]: “quanto à força do termo médio” → “quanto ao poder do termo médio” — *virtus* → “poder” (Key Terms), aqui aplicado ao termo médio do argumento.
+- `pt-BR/g6-c012.md` [20]: “que impugnava o movimento” → “que refutava o movimento” — *improbantis* → “refutava”, conforme *improbare* → “refutar” (Key Terms).
+- `pt-BR/g6-c012.md` [23]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g6-c012.md` [38]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g6-c012.md` [45]: “uma extensão maior do que ele” → “um comprimento maior do que ele” — *longitudinem* → “comprimento” (Key Terms); estava “extensão”.
+- `pt-BR/g6-c013.md` [27]: “dos graves e dos leves” → “dos pesados e dos leves” — *gravium* → “pesados” (Key Terms); estava “graves”.
+- `pt-BR/g7-c002.md` [24]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g7-c002.md` [24]: “, ali:” → “, onde diz:” — *ibi* na remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c002.md` [31]: “é insuficiente, ali:” → “é insuficiente, onde diz:” — *ibi* na remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c002.md` [32]: “se fortalece, ali:” → “se fortalece, onde diz:” — *ibi* na remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c002.md` [50]: “por uma certa continuidade” → “por uma certa continuação” — *continuationem* → “continuação”; “continuidade” corresponde a *continuitas* (Key Terms).
+- `pt-BR/g7-c003.md` [16]: “nesta prova, ali:” → “nesta prova, onde diz:” — *ibi* na remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c003.md` [19]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g7-c003.md` [19]: “, ali:” → “, onde diz:” — *ibi* na remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c003.md` [28]: “prova o proposto.” → “prova o que se propôs.” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g7-c003.md` [31]: “prova o proposto em cada uma” → “prova o que se propôs em cada uma” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g7-c003.md` [36]: “de se provar o proposto na alteração” → “de se provar o que se propôs na alteração” — *probatur propositum* mantém “provar o que se propôs” (Key Terms).
+- `pt-BR/g7-c003.md` [40]: “de alteração, ali:” → “de alteração, onde diz:” — *ibi* na remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c003.md` [41]: “de diminuição, ali:” → “de diminuição, onde diz:” — *ibi* na remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c003.md` [53]: “a dois, ali:” → “a dois, onde diz:” — *ibi* na remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c003.md` [54]: “prova o proposto nesses dois” → “prova o que se propôs nesses dois” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g7-c003.md` [54]: “, ali:” → “, onde diz:” — *ibi* na remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c003.md` [57]: “Segundo, ali:” → “Segundo, onde diz:” — *ibi* na remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c003.md` [62]: “Terceiro, ali:” → “Terceiro, onde diz:” — *ibi* na remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c003.md` [81]: “prova o proposto nestes dois movimentos” → “prova o que se propôs nestes dois movimentos” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g7-c003.md` [83]: “uma objeção, ali:” → “uma objeção, onde diz:” — *ibi* na remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c004.md` [4]: “e os intermediários destes” → “e os intermédios destes” — *media* entre qualidades contrárias → “intermédios” (Key Terms).
+- `pt-BR/g7-c004.md` [15]: “e para os seus intermediários” → “e para os seus intermédios” — *mediis* entre contrários → “intermédios” (Key Terms).
+- `pt-BR/g7-c004.md` [26]: “a própria quantidade acrescentada ou subtraída” → “a própria quantidade adicionada ou subtraída” — *appositum* mantém o vocabulário de *appositio* → “adição” (Key Terms).
+- `pt-BR/g7-c004.md` [26]: “não se pode acrescentar ou subtrair algo” → “não se pode adicionar ou subtrair algo” — *apponi* mantém o vocabulário de *appositio* → “adição” (Key Terms).
+
+### Part terms 5 of 7, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 9 minor. Delta read das correções da rodada 1 em g6-c007–g7-c004: uma reversão (virtus medii), duas linhas do journal atualizadas e cinco remissões e termos vizinhos uniformizados.
+- `pt-BR/g6-c011.md` [45]: “quanto ao poder do termo médio” → “quanto à força do termo médio” — Key Terms tem linha específica “virtus medii | força do termo médio | g6-c011 [45]”; a correção anterior contrariou-a
+- `pt-BR/g6-c011.md` [45]: “procedia da divisão do espaço” → “procedia do corte do espaço” — *ex decisione spatii*; *decisio* → “corte” (Key Terms), como em [7]
+- `pt-BR/g6-c011.md` [8]: “que na divisão em dois” → “que no corte em dois” — *in duo decisioni*; mesmo termo de [7], agora “corte em dois”
+- `pt-BR/g6-c007.md` [57]: “Põe a segunda razão, geral, ali:” → “Põe a segunda razão, geral, onde diz:” — *ibi* na remissão ao lema → “onde diz” (Key Terms), como nos parágrafos vizinhos
+- `pt-BR/g6-c007.md` [79]: “em que está o movimento, ali:” → “em que está o movimento, onde diz:” — *ibi* → “onde diz” (Key Terms), como em [78]
+- `pt-BR/g7-c003.md` [31]: “em cada uma, ali:” → “em cada uma, onde diz:” — *ibi* → “onde diz” (Key Terms); a correção anterior deixou “ali” neste parágrafo
+- `pt-BR/g7-c003.md` [61]: “Segundo, ali:” → “Segundo, onde diz:” — *ibi* → “onde diz” (Key Terms), como em [57] e [62]
+- `pt-BR/translation-journal.md`: “***além disso, se o que muda continuamente***, ***nem interrompe a mudança***” → “***além disso, se o que muda continuamente***, ***nem cessa de mudar***” — o lema de g6-c008 [62] agora é “nem cessa de mudar”
+- `pt-BR/translation-journal.md`: “| atomum | insecável |” → “| atomum | átomo |” — g6-c010 [16] passou a “átomo”; a linha ficou falsa e contradizia *atomus* → átomo
+- Rejected: pt-BR/g6-c008.md [70]–[71], g6-c009 [40] — “em:” em vez de “onde diz:” para *ibi* — o próprio journal admite “em:” como fórmula de remissão; escolha defensável, não alterada na rodada anterior
+- Rejected: pt-BR/g6-c007.md [57] — “tem-se o proposto” para *habetur propositum* — não é *probat propositum*; tradução correta
+
+### Part terms 5 of 7, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as nove alterações, os 18 parágrafos apresentados e as cinco notas do tradutor; nenhum defeito encontrado. Os demais locais sinalizados pela auditoria não foram reproduzidos neste delta.
+- Rejected: pt-BR/g6-c011.md [45] — “força do termo médio” poderia contrariar virtus → “poder”. — A linha específica virtus medii → “força do termo médio” prevalece sobre a entrada geral e traduz corretamente a expressão.
+
+### Part terms 6 of 7, Round 1 (codex, terms read)
+Verdict: 31 meaning-level, 40 minor. 259 flags lidos; 66 ocorrências com deriva vocabular, além de 3 correções de sentido e 3 complementos de glossário.
+- `pt-BR/translation-journal.md`: “| sursum / deorsum; ultimum | em cima / embaixo; extremo | |” → “| sursum / deorsum; ultimum | em cima / embaixo; extremo | Em sentido ordinal, inclusive na série de motores e movidos: “último”, “última”; como advérbio de discurso: “por último”, “por fim”. |” — A linha não contempla o sentido ordinal de ultimum, corretamente traduzido de modo recorrente por “último”.
+- `pt-BR/translation-journal.md`: “| simpliciter | absolutamente | |” → “| simpliciter | absolutamente | Em g8-c003, no sentido de uniformidade: “simplesmente”, isto é, “do mesmo modo”. |” — Tomás glosa expressamente simpliciter como eodem modo; aqui não significa “absolutamente”.
+- `pt-BR/translation-journal.md`: “| rationabiliter | razoavelmente (g3-c006); racionalmente (g3-c008) | Em g3-c008 Tomás glosa *logice*. |” → “| rationabiliter | razoavelmente (g3-c006); racionalmente (g3-c008) | Em g3-c008 Tomás glosa *logice*. Em g8-c009, indicando que uma afirmação tem fundamento: “com razão”. |” — “Com razão” traduz corretamente o sentido justificativo recorrente em g8-c009, distinto da glosa técnica logice.
+- `pt-BR/g7-c005.md` [5]: “e o que se fez,” → “e o que foi feito,” — quod factum est → “o que foi feito” (Key Terms); estava “o que se fez”.
+- `pt-BR/g7-c005.md` [10]: “prova o proposto,” → “prova o que se propôs,” — probat propositum → “prova o que se propôs” (Key Terms).
+- `pt-BR/g7-c005.md` [10]: “ali: ***das outras” → “onde diz: ***das outras” — ibi, em remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c005.md` [12]: “prova o proposto argumentando” → “prova o que se propôs argumentando” — probat propositum → “prova o que se propôs” (Key Terms).
+- `pt-BR/g7-c005.md` [14]: “ali: ***aquilo,” → “onde diz: ***aquilo,” — ibi, em remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c005.md` [20]: “ali: ***tampouco,” → “onde diz: ***tampouco,” — ibi, em remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c005.md` [23]: “segunda razão ali:” → “segunda razão onde diz:” — ibi, em remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c005.md` [27]: “ali: ***nem,” → “onde diz: ***nem,” — ibi, em remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c006.md` [15]: “ali: ***dá-se,” → “onde diz: ***dá-se,” — ibi, em remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c006.md` [42]: “por causa do crescimento,” → “por causa do aumento,” — augmentum → “aumento” (Key Terms); a exceção “crescimento do trigo” não se aplica.
+- `pt-BR/g7-c007.md` [33]: “ali: ***uma vez,” → “onde diz: ***uma vez,” — ibi, em remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c007.md` [37]: “ali: ***mas quaisquer” → “onde diz: ***mas quaisquer” — ibi, em remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c007.md` [43]: “ali: ***no círculo,” → “onde diz: ***no círculo,” — ibi, em remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c007.md` [45]: “prossegue quanto à outra parte” → “desenvolve a outra parte” — prosequitur → “desenvolve” (Key Terms).
+- `pt-BR/g7-c007.md` [59]: “ali: ***assim também” → “onde diz: ***assim também” — ibi, em remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c007.md` [63]: “ali: ***assim, pois,” → “onde diz: ***assim, pois,” — ibi, em remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c007.md` [67]: “ali: ***ou também” → “onde diz: ***ou também” — ibi, em remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c007.md` [76]: “ali: ***pois por” → “onde diz: ***pois por” — ibi, em remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c007.md` [85]: “ali: ***ou é manifesto” → “onde diz: ***ou é manifesto” — ibi, em remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c008.md` [35]: “ali: ***se, porém,” → “onde diz: ***se, porém,” — ibi, em remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c008.md` [41]: “ali: ***acerca da alteração,” → “onde diz: ***acerca da alteração,” — ibi, em remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c008.md` [42]: “ali: ***e também” → “onde diz: ***e também” — ibi, em remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c008.md` [50]: “ali: ***será, pois,” → “onde diz: ***será, pois,” — ibi, em remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c008.md` [63]: “ali: ***e esta razão” → “onde diz: ***e esta razão” — ibi, em remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c008.md` [64]: “ali: ***quando, pois,” → “onde diz: ***quando, pois,” — ibi, em remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c008.md` [65]: “diferença segundo o acidente,” → “diferença por acidente,” — secundum accidens → “por acidente” (Key Terms).
+- `pt-BR/g7-c008.md` [88]: “ali: ***mas o que” → “onde diz: ***mas o que” — ibi, em remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c008.md` [102]: “ali: ***e, se” → “onde diz: ***e, se” — ibi, em remissão ao lema → “onde diz” (Key Terms).
+- `pt-BR/g7-c009.md` [38]: “segundo a reunião oposta,” → “segundo a agregação oposta,” — congregatio → “agregação” (Key Terms).
+- `pt-BR/g7-c009.md` [59]: “mover o peso inteiro,” → “mover o corpo pesado inteiro,” — pondus → “corpo pesado” na linha específica de g7-c009 (Key Terms).
+- `pt-BR/g8-c001.md` [55]: “por congregação ou segregação.” → “por agregação ou segregação.” — congregatio → “agregação” (Key Terms); o termo latino é congregationem.
+- `pt-BR/g8-c003.md` [10]: “pela qual seja agora antes que antes,” → “pela qual seja agora e não antes,” — quare nunc magis quam prius contrapõe o momento atual ao anterior; “agora antes que antes” não exprime essa comparação. *(meaning)*
+- `pt-BR/g8-c003.md` [11]: “ou o que não é simples tem uma razão.” → “ou o que não se comporta do mesmo modo tem uma razão.” — non est simpliciter trata da ausência de comportamento uniforme, não da falta de simplicidade da coisa. *(meaning)*
+- `pt-BR/g8-c003.md` [15]: “o da primeira é congregar,” → “o da primeira é agregar,” — congregare → “agregar” (Key Terms).
+- `pt-BR/g8-c003.md` [16]: “algo que congrega os homens,” → “algo que agrega os homens,” — congregare → “agregar” (Key Terms).
+- `pt-BR/g8-c005.md` [64]: “como com os que arrastam um navio.” → “como com os que puxam um navio.” — trahere, no movimento corporal → “puxar” (Key Terms).
+- `pt-BR/g8-c005.md` [64]: “cem homens arrastam um navio” → “cem homens puxam um navio” — trahere, no movimento corporal → “puxar” (Key Terms).
+- `pt-BR/g8-c006.md` [5]: “se não se mover contra a natureza” → “se não se mover fora da natureza” — extra naturam → “fora da natureza”; o glossário exige distingui-lo de contra naturam. *(meaning)*
+- `pt-BR/g8-c006.md` [6]: “parece a todos, por assim dizer,” → “parece a quase todos” — fere qualifica omnibus: “quase todos”, não “todos, por assim dizer”. *(meaning)*
+- `pt-BR/g8-c006.md` [22]: “algo que se mova contra a natureza” → “algo que se mova fora da natureza” — extra naturam → “fora da natureza”; o glossário distingue contra naturam. *(meaning)*
+- `pt-BR/g8-c007.md` [5]: “por violência e contra a natureza.” → “por violência e fora da natureza.” — extra naturam → “fora da natureza”; o glossário distingue contra naturam. *(meaning)*
+- `pt-BR/g8-c007.md` [7]: “como contra a natureza:” → “como fora da natureza:” — extra naturam → “fora da natureza”; o glossário distingue contra naturam. *(meaning)*
+- `pt-BR/g8-c007.md` [8]: “outras contra a natureza:” → “outras fora da natureza:” — extra naturam → “fora da natureza”; o glossário distingue contra naturam. *(meaning)*
+- `pt-BR/g8-c007.md` [8]: “contra a natureza, como a terra” → “fora da natureza, como a terra” — A segunda ocorrência de extra naturam também exige “fora da natureza”. *(meaning)*
+- `pt-BR/g8-c007.md` [9]: “são movidas contra a natureza,” → “são movidas fora da natureza,” — extra naturam → “fora da natureza”; o glossário distingue contra naturam. *(meaning)*
+- `pt-BR/g8-c007.md` [10]: “nas coisas que se movem contra a natureza,” → “nas coisas que se movem fora da natureza,” — extra naturam → “fora da natureza”; o glossário distingue contra naturam. *(meaning)*
+- `pt-BR/g8-c007.md` [10]: “que o que se move é movido por algo,” → “que o que se move é movido por algo que também se move,” — Omissão de quod movetur, que qualifica a causa motora no próprio enunciado sinalizado. *(meaning)*
+- `pt-BR/g8-c007.md` [11]: “Depois das que se movem contra a natureza,” → “Depois das que se movem fora da natureza,” — extra naturam → “fora da natureza”; o glossário distingue contra naturam. *(meaning)*
+- `pt-BR/g8-c007.md` [15]: “afirmamos que se movem contra a natureza;” → “afirmamos que se movem fora da natureza;” — extra naturam → “fora da natureza”; o glossário distingue contra naturam. *(meaning)*
+- `pt-BR/g8-c007.md` [18]: “quando se movem contra a natureza.” → “quando se movem fora da natureza.” — extra naturam → “fora da natureza”; o glossário distingue contra naturam. *(meaning)*
+- `pt-BR/g8-c007.md` [52]: “outras contra a natureza.” → “outras fora da natureza.” — extra naturam → “fora da natureza”; o glossário distingue contra naturam. *(meaning)*
+- `pt-BR/g8-c007.md` [53]: “o segundo a natureza e o contra a natureza” → “o segundo a natureza e o fora da natureza” — extra naturam → “fora da natureza”; o glossário distingue contra naturam. *(meaning)*
+- `pt-BR/g8-c007.md` [54]: “tanto natural como contra a natureza:” → “tanto natural como fora da natureza:” — extra naturam → “fora da natureza”; o glossário distingue contra naturam. *(meaning)*
+- `pt-BR/g8-c007.md` [55]: “outras, contra a natureza,” → “outras, fora da natureza,” — extra naturam → “fora da natureza”; o glossário distingue contra naturam. *(meaning)*
+- `pt-BR/g8-c007.md` [56]: “as partes dos animais são movidas contra a natureza,” → “as partes dos animais são movidas fora da natureza,” — extra naturam → “fora da natureza”; o glossário distingue contra naturam. *(meaning)*
+- `pt-BR/g8-c007.md` [56]: “movimento violento e contra a natureza.” → “movimento violento e fora da natureza.” — A segunda ocorrência de extra naturam também exige “fora da natureza”. *(meaning)*
+- `pt-BR/g8-c007.md` [60]: “por violência e contra a natureza,” → “por violência e fora da natureza,” — extra naturam → “fora da natureza”; o glossário distingue contra naturam. *(meaning)*
+- `pt-BR/g8-c007.md` [69]: “umas são movidas contra a natureza,” → “umas são movidas fora da natureza,” — extra naturam → “fora da natureza”; o glossário distingue contra naturam. *(meaning)*
+- `pt-BR/g8-c007.md` [69]: “quando se movem contra a natureza.” → “quando se movem fora da natureza.” — A segunda ocorrência de extra naturam também exige “fora da natureza”. *(meaning)*
+- `pt-BR/g8-c007.md` [77]: “do que uma continuidade perfeita:” → “do que uma continuação perfeita:” — continuatio → “continuação” (Key Terms), distinguida de continuitas, “continuidade”.
+- `pt-BR/g8-c008.md` [5]: “mover contra a natureza deles,” → “mover fora da natureza deles,” — extra naturam → “fora da natureza”; o glossário distingue contra naturam. *(meaning)*
+- `pt-BR/g8-c008.md` [9]: “quando contra a natureza;” → “quando fora da natureza;” — extra naturam → “fora da natureza”; o glossário distingue contra naturam. *(meaning)*
+- `pt-BR/g8-c008.md` [27]: “ou contra a natureza e por violência;” → “ou fora da natureza e por violência;” — extra naturam → “fora da natureza”; o glossário distingue contra naturam. *(meaning)*
+- `pt-BR/g8-c008.md` [28]: “à força e contra a natureza,” → “à força e fora da natureza,” — extra naturam → “fora da natureza”; o glossário distingue contra naturam. *(meaning)*
+- `pt-BR/g8-c008.md` [38]: “outras contra a natureza,” → “outras fora da natureza,” — extra naturam → “fora da natureza”; o glossário distingue contra naturam. *(meaning)*
+- `pt-BR/g8-c008.md` [38]: “nos motores uns movem contra a natureza,” → “nos motores uns movem fora da natureza,” — A segunda ocorrência de extra naturam também exige “fora da natureza”. *(meaning)*
+- `pt-BR/g8-c008.md` [70]: “ou contra a natureza e por violência;” → “ou fora da natureza e por violência;” — extra naturam → “fora da natureza”; o glossário distingue contra naturam. *(meaning)*
+- `pt-BR/g8-c009.md` [117]: “prossegue com a outra parte da divisão,” → “desenvolve a outra parte da divisão,” — prosequitur → “desenvolve” (Key Terms).
+
+### Part terms 6 of 7, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 5 minor. Delta da parte 6 lido: a correção de g8-c007 [10] inverteu o sentido e é desfeita; quatro “ali:” restantes uniformizados para “onde diz:”; a linha do diário para g8-c001 alinhada a “agregação”.
+- `pt-BR/g8-c007.md` [10]: “que o que se move é movido por algo que também se move,” → “que o que se move é movido por algo,” — Em moveri a quodam quod movetur, quod movetur é o sujeito (o que se move), não qualifica quodam. Tomás glosa em [57] e [60]: id quod movetur, ab alio movetur. A correção anterior atribui ao motor um movimento que o texto não afirma e que contraria o motor imóvel. *(meaning)*
+- `pt-BR/g7-c007.md` [36]: “partes da dúvida, ali:” → “partes da dúvida, onde diz:” — ibi, em remissão ao lema → “onde diz:” (Key Terms), como nos parágrafos vizinhos já corrigidos.
+- `pt-BR/g7-c007.md` [62]: “a segunda, ali:” → “a segunda, onde diz:” — ibi → “onde diz:” (Key Terms).
+- `pt-BR/g7-c007.md` [66]: “em contrário, ali:” → “em contrário, onde diz:” — ibi → “onde diz:” (Key Terms).
+- `pt-BR/g7-c008.md` [36]: “de um só gênero, ali:” → “de um só gênero, onde diz:” — ibi → “onde diz:” (Key Terms).
+- `pt-BR/translation-journal.md`: “| disgregatio / segregatio / congregatio | desagregação / segregação / congregação | g8-c001. |” → “| disgregatio / segregatio / congregatio | desagregação / segregação / agregação | g8-c001. |” — g8-c001 [55] passou a trazer “agregação”, como as demais linhas de congregatio; a linha específica ainda indicava “congregação”.
+- Rejected: pt-BR/g8-c006.md [6] — fere ligado a omnibus (“quase todos”) em vez de qualificar a afirmação — As duas leituras do latim são defensáveis; a correção anterior não é erro objetivo.
+- Rejected: pt-BR/g8-c003.md [11] — simpliciter traduzido como “simplesmente” e depois como “do mesmo modo” na mesma frase — Responde à glosa de Tomás (eodem modo), e o lema fixado ***simplesmente*** continua a corresponder ao texto.
+- Rejected: pt-BR/g8-c007.md [77] — “continuação” em lugar de “continuidade” — O Key Terms admite ambas para continuatio; nenhuma das duas é defeito.
+- Rejected: pt-BR/g8-c003.md [10] — “pela qual seja agora e não antes” sem sujeito expresso — O sujeito (ser movido) é retomado da oração anterior; o latim também é elíptico.
+
+### Part terms 6 of 7, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as seis alterações e lidos integralmente os parágrafos e as notas apresentados; nenhum defeito objetivo encontrado. Os alertas mecânicos cujas passagens não foram fornecidas não puderam ser verificados.
+- Rejected: pt-BR/g8-c007.md [10] — Possível omissão de que o motor também se move. — Quod movetur pode funcionar como sujeito de moveri: o que se move é movido por algo. A redação corrigida preserva essa leitura e não omite uma afirmação sobre o movimento do motor.
+
+### Part terms 7 of 7, Round 1 (codex, terms read)
+Verdict: 4 meaning-level, 38 minor. 217 parágrafos sinalizados lidos; 39 apresentavam deriva terminológica; 1 exigiu complemento do glossário.
+- `pt-BR/g8-c010.md` [33]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g8-c010.md` [37]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g8-c010.md` [40]: “um e o mesmo objeto de ciência” → “um e o mesmo cognoscível” — *scibile* → “o cognoscível” (Key Terms); estava “objeto de ciência”.
+- `pt-BR/g8-c010.md` [52]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g8-c010.md` [54]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g8-c010.md` [77]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g8-c010.md` [79]: “prova o proposto” → “prova o que se propôs” — *probat propositum* → “prova o que se propôs” (Key Terms).
+- `pt-BR/g8-c011.md` [41]: “Não, porém, por continuidade” → “Não, porém, por continuação” — *continuatio* → “continuação”; o glossário reserva “continuidade” para *continuitas*.
+- `pt-BR/g8-c012.md` [7]: “dos princípios imóveis, mas que movem” → “dos princípios imóveis, mas que podem mover” — *motivorum* indica capacidade de mover, distinguida de *movens* (Key Terms). *(meaning)*
+- `pt-BR/g8-c016.md` [58]: “no último sinal, que é c” → “no sinal extremo, que é c” — *ultimum* → “extremo” (Key Terms), aqui como extremidade da grandeza.
+- `pt-BR/g8-c017.md` [6]: “a partir de Z, o último” → “a partir de Z, o extremo” — *ultimum* → “extremo” (Key Terms), aqui como extremidade da grandeza.
+- `pt-BR/g8-c017.md` [35]: “no último sinal” → “no sinal extremo” — *ultimum* → “extremo” (Key Terms), aqui como sinal terminal.
+- `pt-BR/g8-c017.md` [71]: “neles haverá uma parada” → “neles haverá repouso” — *status* → “repouso” (Key Terms); estava “parada”.
+- `pt-BR/g8-c018.md` [11]: “distinto por uma parada” → “distinto por um repouso” — *status* → “repouso” (Key Terms); estava “parada”.
+- `pt-BR/translation-journal.md`: “| circulatio | circulação | g8-c019 [11]; g8-c020 [10], [12], [31], [37]. |” → “| circulatio | circulação | g8-c019 [11]; g8-c020 [10], [12], [31], [37]. Em g8-c019 [11], designa uma parte do círculo: “porção de círculo”, conforme a glosa *circuli portione*. |” — A linha precisa registrar o sentido geométrico de *circulatio*, confirmado pela explicação de Tomás fornecida em g8-c019 [46].
+- `pt-BR/g8-c019.md` [16]: “os fisiólogos falam bem” → “os físicos falam bem” — *physiologi* designa aqui os filósofos naturais pré-socráticos, chamados “os físicos” no glossário; “fisiólogos” sugere outra disciplina. *(meaning)*
+- `pt-BR/g8-c019.md` [24]: “que se dê uma parada” → “que se dê um repouso” — *status* → “repouso” (Key Terms).
+- `pt-BR/g8-c019.md` [24]: “se há parada” → “se há repouso” — *status* → “repouso” (Key Terms).
+- `pt-BR/g8-c020.md` [28]: “ou no de onde ou no para onde” → “ou no termo de que ou no termo para o qual” — *terminus a quo / ad quem* → “termo de que / termo para o qual” (Key Terms).
+- `pt-BR/g8-c021.md` [27]: “ali: ***destas, porém, uma***” → “onde diz: ***destas, porém, uma***” — *ibi:* é fórmula de remissão ao lema: “onde diz:” (Key Terms).
+- `pt-BR/g8-c021.md` [31]: “ali: ***determinadas, porém, estas coisas***” → “onde diz: ***determinadas, porém, estas coisas***” — *ibi:* → “onde diz:” nas remissões ao lema (Key Terms).
+- `pt-BR/g8-c021.md` [34]: “ali: ***que, porém, de modo algum numa grandeza finita***” → “onde diz: ***que, porém, de modo algum numa grandeza finita***” — *ibi:* → “onde diz:” nas remissões ao lema (Key Terms).
+- `pt-BR/g8-c021.md` [35]: “ali: ***acerca, porém, das coisas que são levadas***” → “onde diz: ***acerca, porém, das coisas que são levadas***” — *ibi:* → “onde diz:” nas remissões ao lema (Key Terms).
+- `pt-BR/g8-c021.md` [58]: “ali: ***nada finito, portanto***” → “onde diz: ***nada finito, portanto***” — *ibi:* → “onde diz:” nas remissões ao lema (Key Terms).
+- `pt-BR/g8-c021.md` [86]: “esforça-se por reprová-la” → “esforça-se por refutá-la” — *improbare* → “refutar” (Key Terms); trata-se de refutação argumentativa, não de reprovação. *(meaning)*
+- `pt-BR/g8-c021.md` [94]: “A sua reprovação seria” → “A sua refutação seria” — *improbatio*, derivado de *improbare*, designa a refutação da solução de Alexandre. *(meaning)*
+- `pt-BR/g8-c021.md` [98]: “E nisto concordam também os ditos de Aristóteles” → “E nisto são consonantes também os ditos de Aristóteles” — *consonant* → “são consonantes”, conforme “consonante” (Key Terms).
+- `pt-BR/g8-c021.md` [105]: “Segundo, ali: ***e, contudo, acontece***” → “Segundo, onde diz: ***e, contudo, acontece***” — *ibi:* → “onde diz:” nas remissões ao lema (Key Terms).
+- `pt-BR/g8-c022.md` [20]: “ali: ***visto, porém, que nas coisas***” → “onde diz: ***visto, porém, que nas coisas***” — *ibi:* → “onde diz:” nas remissões ao lema (Key Terms).
+- `pt-BR/g8-c022.md` [23]: “ali: ***é necessário, porém***” → “onde diz: ***é necessário, porém***” — *ibi:* → “onde diz:” nas remissões ao lema (Key Terms).
+- `pt-BR/g8-c022.md` [24]: “ali: ***este movimento, pois***” → “onde diz: ***este movimento, pois***” — *ibi:* → “onde diz:” nas remissões ao lema (Key Terms).
+- `pt-BR/g8-c022.md` [27]: “ali: ***se, porém, ao mesmo tempo***” → “onde diz: ***se, porém, ao mesmo tempo***” — *ibi:* → “onde diz:” nas remissões ao lema (Key Terms).
+- `pt-BR/g8-c022.md` [37]: “vários motores que estão em sequência” → “vários motores que se têm consecutivamente” — *consequenter se habentibus* → “que se têm consecutivamente” (Key Terms).
+- `pt-BR/g8-c022.md` [37]: “diferem estar em sequência e tocar-se” → “diferem ter-se consecutivamente e tocar-se” — *consequenter se habere* → “ter-se consecutivamente” (Key Terms).
+- `pt-BR/g8-c022.md` [38]: “que estão em sequência e em contato” → “que se têm consecutivamente e estão em contato” — *consequenter se habentia* → “que se têm consecutivamente” (Key Terms).
+- `pt-BR/g8-c023.md` [25]: “ali: ***oferece, porém, dificuldade***” → “onde diz: ***oferece, porém, dificuldade***” — *ibi:* → “onde diz:” nas remissões ao lema (Key Terms).
+- `pt-BR/g8-c023.md` [28]: “ali: ***se, pois, move estando movido***” → “onde diz: ***se, pois, move estando movido***” — *ibi:* → “onde diz:” nas remissões ao lema (Key Terms).
+- `pt-BR/g8-c023.md` [29]: “ali: ***é necessário, porém***” → “onde diz: ***é necessário, porém***” — *ibi:* → “onde diz:” nas remissões ao lema (Key Terms).
+- `pt-BR/g8-c023.md` [30]: “movimentos que estão em sequência” → “movimentos que se têm consecutivamente” — *consequenter se habentes* → “que se têm consecutivamente” (Key Terms).
+- `pt-BR/g8-c023.md` [34]: “ali: ***e regular***” → “onde diz: ***e regular***” — *ibi:* → “onde diz:” nas remissões ao lema (Key Terms).
+- `pt-BR/g8-c023.md` [56]: “ali: ***pois é preciso ou que ele mesmo***” → “onde diz: ***pois é preciso ou que ele mesmo***” — *ibi:* → “onde diz:” nas remissões ao lema (Key Terms).
+- `pt-BR/g8-c023.md` [60]: “isto é, que esteja em sequência” → “isto é, que se tenha consecutivamente” — *consequenter se habens* → “que se tenha consecutivamente” (Key Terms).
+
+### Part terms 7 of 7, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 4 minor. Delta da rodada 1 (g8-c010 a g8-c023 e o diário) conferido com o latim. Revertidos *status* → “parada” em g8-c017 [71] e *physiologi* → “fisiólogos” em g8-c019 [16]. Corrigidos um *ibi* restante (g8-c021 [106]) e as linhas do glossário de *consequenter se habere* e *physiologi*.
+- `pt-BR/g8-c017.md` [71]: “mas neles haverá repouso” → “mas neles haverá uma parada” — *in eis erit status* glosa ***stabit*** (“parará”): a série dos meios em ato deixa de ser infinita e chega a um termo. “Repouso” dá a entender que os meios repousam, o que não é o sentido. *(meaning)*
+- `pt-BR/g8-c019.md` [16]: “tampouco os físicos falam bem” → “tampouco os fisiólogos falam bem” — O glossário fixa *physiologi* → “fisiólogos” em g8-c019 [16] e [53], e “físicos” verte *physici*. “Fisiólogos” é o termo usual para os pré-socráticos; a mudança da rodada anterior desfez a concordância com [53].
+- `pt-BR/g8-c021.md` [106]: “Terceiro, ali:” → “Terceiro, onde diz:” — *ibi:* → “onde diz:”, como nos parágrafos vizinhos já corrigidos ([105]).
+- `pt-BR/translation-journal.md`: “| consequenter se habere; consequenter entia | estar em sequência; coisas consecutivas | g8-c022 [13], [37]; g8-c023 [16], [30], [57]. |” → “| consequenter se habere; consequenter entia | ter-se consecutivamente; coisas consecutivas | g8-c022 [13], [37]–[38]; g8-c023 [16], [30], [60]. Em g8-c023 [57], dito das moções e impulsos: “estar em sequência de”. |” — Depois das correções da rodada anterior, “estar em sequência” já não ocorre em g8-c022 [37]–[38] nem em g8-c023 [30] e [60] (a auditoria marca ×0). A linha precisa dizer a forma atual.
+- `pt-BR/translation-journal.md`: “| physiologi; antiqui naturales | fisiólogos; antigos naturalistas | g8-c019 [16], [53]; g8-c020 [43]. |” → “| physiologi; antiqui naturales | fisiólogos; antigos naturalistas | g8-c019 [16], [53]; g8-c020 [43]. Distinto de *physici*, “os físicos”. |” — Registra a distinção que motivou a reversão em g8-c019 [16], para que a troca não seja refeita.
+- Rejected: pt-BR/g8-c018.md [11]; g8-c019.md [24] — *status* → “repouso” poderia ser “parada”, como em g8-c017 [71] — Aqui *status* é a parada do próprio móvel, que repousa em C ou no termo. “Repouso” está correto e segue o glossário.
+- Rejected: pt-BR/g8-c012.md [7] — “que podem mover” para *motivorum* — Segue a linha *motivum* do glossário para g8 (“o que pode mover”), em oposição a *movens*.
+- Rejected: pt-BR/g8-c023.md [57] — “está em sequência da outra” diverge de “ter-se consecutivamente” — O sentido e a regência estão corretos. Forçar “se tem consecutivamente à outra” piora a frase; a variante fica registrada no glossário.
+- Rejected: pt-BR/translation-journal.md, linha circulatio — A nota “porção de círculo” para g8-c019 [11] não pôde ser conferida — Esse parágrafo não foi mostrado nesta leitura; a nota cita a glosa de Tomás e é plausível.
+
+### Part terms 7 of 7, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 1 minor. Conferidos os cinco ajustes, os nove parágrafos mostrados e as duas notas do tradutor; falta apenas registrar no glossário a exceção de status.
+- `pt-BR/translation-journal.md`: “| status / quies | repouso | |” → “| status / quies | repouso | Em g8-c017 [71], *status*: “parada”, indicando um termo na série dos meios em ato. |” — Registra a exceção contextual corretamente restabelecida em g8-c017 [71], evitando que a regra geral do glossário volte a motivar a troca por “repouso”.
+
+### Part terms 7 of 7, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Leitura delta: conferida a única alteração (nota de exceção de *status* no glossário); correta, sem defeitos.
+- Rejected: pt-BR/translation-journal.md, linha status / quies — A nova nota de exceção poderia conflitar com a regra geral “repouso” ou com a linha *stare / statio* — A nota corresponde à correção da rodada 2 em g8-c017 [71], onde *status* glosa *stabit* e indica o termo da série dos meios. Também é coerente com a linha *stare / statio* → “parar / parada”. G8-c018 [11] e g8-c019 [24] continuam com “repouso”, como a rodada 2 decidiu.
