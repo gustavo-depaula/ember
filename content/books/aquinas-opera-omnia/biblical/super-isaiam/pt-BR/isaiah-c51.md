@@ -54,11 +54,11 @@
 
 > **896.** ***Ouvi, ilhas*** etc. Nesta parte, expõe mais particularmente a ordem da libertação. E, a esse respeito, faz duas coisas:
 
-primeiro, o povo reconhece os benefícios recebidos;
+primeiro, o povo confessa os benefícios recebidos;
 
 segundo, recebe a promessa dos futuros, onde diz: ***Eu disse: trabalhei em vão*** etc.
 
-Quanto ao primeiro ponto, reconhecem quatro benefícios.
+Quanto ao primeiro ponto, confessam quatro benefícios.
 
 Primeiro, o privilégio da eleição divina; e isso dá continuidade ao motivo pelo qual o profeta ordenara acima ao povo que anunciasse; por isso, logo se acrescenta a voz do povo que anuncia e diz: ***Ouvi***; ***desde o útero***, escolhendo-me nos próprios pais. Salmo: *Desde o ventre de minha mãe, Deus* etc.
 

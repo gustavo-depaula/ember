@@ -50,7 +50,7 @@
 
 > ^44:25^ que torna vãos os sinais dos adivinhos e enlouquece os agoureiros, que faz os sábios retrocederem e torna insensata sua ciência,
 
-> ^44:26^ que faz surgir a palavra de seu servo e cumpre o desígnio de seus mensageiros; que digo a Jerusalém: “Serás habitada”, e às cidades de Judá: “Sereis edificadas”, e reerguerei seus lugares desertos;
+> ^44:26^ que faz surgir a palavra de seu servo e cumpre o conselho de seus mensageiros; que digo a Jerusalém: “Serás habitada”, e às cidades de Judá: “Sereis edificadas”, e reerguerei seus lugares desertos;
 
 > ^44:27^ que digo ao abismo: “Fica desolado”, e secarei teus rios;
 
@@ -142,7 +142,7 @@ Segundo, promete a libertação,
 
 primeiro, quanto à reedificação das cidades: ***Que digo a Jerusalém*** etc. Salmo: *Serão edificadas as cidades* etc.;
 
-segundo, quanto à destruição dos inimigos: ***Que digo ao abismo***, isto é, ao mar, a saber, à Babilônia; daí, acima, 21: ***Oráculo do deserto do mar***; acima, 19: ***Secará a água do mar*** etc.;
+segundo, quanto à destruição dos inimigos: ***Que digo ao abismo***, isto é, ao mar, a saber, à Babilônia; daí, acima, 21: ***Fardo do deserto do mar***; acima, 19: ***Secará a água do mar*** etc.;
 
 terceiro, quanto à exaltação do libertador: ***Que digo a Ciro: Pastor***, que apascenta minhas ovelhas. Ezequiel 34: *E as apascentará e será para elas* etc.;
 

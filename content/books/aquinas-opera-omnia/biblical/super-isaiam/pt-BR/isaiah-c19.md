@@ -18,9 +18,9 @@
 
 > ^17:9^ Naquele dia, suas cidades fortificadas ficarão abandonadas como os arados e as searas que foram deixados diante dos filhos de Israel; e ficarás deserta,
 
-> ^17:10^ porque te esqueceste de Deus, teu salvador, e não te lembraste do teu forte auxiliador. Por isso, plantarás uma plantação infiel e semearás um rebento alheio;
+> ^17:10^ porque te esqueceste de Deus, teu salvador, e não te lembraste do teu forte auxiliador. Por isso, plantarás uma plantação infiel e semearás um broto alheio;
 
-> ^17:11^ no dia da tua plantação haverá uva brava, e pela manhã tua semente florescerá; a colheita foi retirada no dia da herança; e ele sofrerá gravemente.
+> ^17:11^ no dia da tua plantação haverá uva silvestre, e pela manhã tua semente florescerá; a colheita foi retirada no dia da herança; e ele sofrerá gravemente.
 
 > ^17:12^ Ai da multidão de muitos povos, como a imensidão do mar que ressoa, e do tumulto das multidões, como o ruído de muitas águas.
 
@@ -70,11 +70,11 @@ terceiro, quanto à esterilidade dos campos: ***Por isso, plantarás***.
 
 Quanto ao primeiro ponto, faz duas coisas:
 
-primeiro, ameaça o castigo;
+primeiro, ameaça a pena;
 
-segundo, mostra o fruto do castigo: ***Naquele dia, se inclinará***.
+segundo, mostra o fruto da pena: ***Naquele dia, se inclinará***.
 
-Ameaça o castigo nos homens,
+Ameaça a pena nos homens,
 
 primeiro, contra a glória da exaltação: ***Será reduzida***, isto é, a ***glória*** será reduzida a pouco e quase a nada, tendo sido destruído aquilo de que se gloriavam.
 
@@ -96,7 +96,7 @@ segundo, por causa de seu caráter de vento. 1 Timóteo, último capítulo: *Ord
 
 terceiro, por causa da inutilidade. Ezequiel 16:49: *Esta foi a iniquidade de Sodoma*, etc. Eclesiastes 5:12: *Riquezas conservadas para o mal do seu senhor*.
 
-**467.** ***Naquele dia***. Aqui apresenta o fruto do castigo: ***Se inclinará***, prestando o devido culto de serviço; ***o homem***, qualquer um das dez tribos que tenha ido para junto de Ezequias; ***olharão***, esperando algum auxílio; ***templos***, templos nos quais havia fontes, como que para se lavar.[^24] Adiante, em Isaías 31:7: ***Naquele dia***, etc.
+**467.** ***Naquele dia***. Aqui apresenta o fruto da pena: ***Se inclinará***, prestando o devido culto de serviço; ***o homem***, qualquer um das dez tribos que tenha ido para junto de Ezequias; ***olharão***, esperando algum auxílio; ***templos***, templos nos quais havia fontes, como que para se lavar.[^24] Adiante, em Isaías 31:7: ***Naquele dia***, etc.
 
 [^24]: *Nota do tradutor:* A explicação aproxima o nome latino dos templos, *delubra*, da ideia de lavar, expressa por *abluere*.
 
@@ -108,7 +108,7 @@ Segundo, apresenta a razão da desolação: ***E ficarás deserta***. Deuteronô
 
 **469.** ***Por isso, plantarás***. Aqui ameaça a esterilidade dos frutos e, a esse respeito, faz três coisas.
 
-Primeiro, mostra o trabalho inútil do cultivo, quanto às vinhas: ***Uma plantação infiel***, porque não dará fruto correspondente ao trabalho; ou ***fiel***, ironicamente, como se dissesse: acaso, pelos males que fizeste, tua plantação será fiel? Quanto aos campos: ***Um rebento alheio***, que outros colherão. Acima, em Isaías 5:10: ***Dez jeiras de vinha produzirão uma pequena vasilha***.
+Primeiro, mostra o trabalho inútil do cultivo, quanto às vinhas: ***Uma plantação infiel***, porque não dará fruto correspondente ao trabalho; ou ***fiel***, ironicamente, como se dissesse: acaso, pelos males que fizeste, tua plantação será fiel? Quanto aos campos: ***Um broto alheio***, que outros colherão. Acima, em Isaías 5:10: ***Dez jeiras de vinha produzirão uma pequena vasilha***.
 
 Segundo, quanto à perda dos frutos: ***No dia da tua plantação***, isto é, quando devias receber o fruto da plantação, e isso quanto às vinhas; quanto aos campos: ***Pela manhã tua semente florescerá***, isto é, primeiro será bela, para que sofras mais, ou porque florescerá antes do tempo e será inútil. Provérbios 20:21: *A herança para a qual se corre no princípio, no fim carecerá de bênção*. ***Foi retirada*** pelos inimigos, ***no dia da herança***, quando devia ser guardada no celeiro como fruto da herança. Jeremias 12:13: *Semearam trigo e colheram espinhos*.
 

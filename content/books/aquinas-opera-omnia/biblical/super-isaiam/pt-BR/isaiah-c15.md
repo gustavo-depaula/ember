@@ -60,7 +60,7 @@ E divide-se em três partes:
 
 na primeira, apresenta a convocação do exército devastador, a saber, dos medos e persas sob Ciro e Dario, que tomaram a Babilônia, como se lê em Daniel 5:30–31;
 
-na segunda, mostra a aflição do castigo: ***Uivai***;
+na segunda, mostra a aflição da pena: ***Uivai***;
 
 na terceira, a desolação que se seguirá: ***E será***.
 
@@ -90,7 +90,7 @@ Primeiro, apresenta a ordem divina: ***O Senhor deu ordens***;
 
 segundo, o auxílio divino para cumpri-la: ***Do extremo do céu***, como que para ajudar; ***e os instrumentos***, armas de toda espécie.
 
-**399.** ***Uivai***. Aqui descreve a aflição do castigo. E, a esse respeito, apresenta três coisas:
+**399.** ***Uivai***. Aqui descreve a aflição da pena. E, a esse respeito, apresenta três coisas:
 
 primeiro, o temor dos que serão castigados;
 
@@ -110,11 +110,11 @@ Segundo, perturba-se quanto à falta de auxílio: ***Ficará estupefato diante d
 
 Quanto ao sinal exterior: ***Faces queimadas***, por causa da palidez do temor; ou, literalmente, porque foram mortos dessa maneira. Lamentações 10: *Seu rosto se tornou mais negro que os carvões*. Naum 2:10: *O rosto de todos*, etc.
 
-**400.** ***Eis o dia***. Aqui descreve o castigo dos aflitos. E, a esse respeito, apresenta três coisas:
+**400.** ***Eis o dia***. Aqui descreve a pena dos aflitos. E, a esse respeito, apresenta três coisas:
 
-primeiro, a grandeza do castigo: ***De indignação***, quanto à retirada da misericórdia; ***de ira***, quanto ao prazer no castigo. O Filósofo: *Os irados se entristecem, mas, ao castigar, se alegram*. ***De furor***, quanto à vingança impetuosa, porque o furor é a ira inflamada, como diz Gregório; adiante, em Isaías 30:27: ***Seu furor é ardente e pesado de suportar***. Também se exprime na retirada da consolação: ***Pois as estrelas***, ou literalmente, quanto à apreciação que fazem delas, porque aos aflitos tudo parece tenebroso; ou ***as estrelas*** são os príncipes; ***o sol ao nascer***, o rei; ***a lua***, a rainha. Apocalipse 6:12: *O sol se tornou como um saco de crina*.
+primeiro, a grandeza da pena: ***De indignação***, quanto à retirada da misericórdia; ***de ira***, quanto ao prazer na pena. O Filósofo: *Os irados se entristecem, mas, ao castigar, se alegram*. ***De furor***, quanto à vingança impetuosa, porque o furor é a ira inflamada, como diz Gregório; adiante, em Isaías 30:27: ***Seu furor é ardente e pesado de suportar***. Também se exprime na retirada da consolação: ***Pois as estrelas***, ou literalmente, quanto à apreciação que fazem delas, porque aos aflitos tudo parece tenebroso; ou ***as estrelas*** são os príncipes; ***o sol ao nascer***, o rei; ***a lua***, a rainha. Apocalipse 6:12: *O sol se tornou como um saco de crina*.
 
-**401.** Segundo, apresenta a equidade, ordenando o castigo contra a culpa que cometiam em si mesmos: ***Castigarei***, vingarei, ***os males do mundo***, isto é, da Babilônia, porque nela estava a monarquia, ou por causa da multidão dos que para lá acorriam de toda parte; e quanto à culpa que cometiam contra os súditos pela opressão dos maus: ***E nos ímpios***; ou pela violação dos pactos: ***Dos infiéis***; pela perseguição dos melhores: ***A arrogância***, pela qual presumiam subjugar a todos. Acima, em Isaías 2:12: ***O dia do Senhor contra todo***, etc.
+**401.** Segundo, apresenta a equidade, ordenando a pena contra a culpa que cometiam em si mesmos: ***Castigarei***, vingarei, ***os males do mundo***, isto é, da Babilônia, porque nela estava a monarquia, ou por causa da multidão dos que para lá acorriam de toda parte; e quanto à culpa que cometiam contra os súditos pela opressão dos maus: ***E nos ímpios***; ou pela violação dos pactos: ***Dos infiéis***; pela perseguição dos melhores: ***A arrogância***, pela qual presumiam subjugar a todos. Acima, em Isaías 2:12: ***O dia do Senhor contra todo***, etc.
 
 **402.** Terceiro, apresenta a moderação do castigo. E apresenta quatro coisas:
 
@@ -150,6 +150,6 @@ primeiro, as da ignorância. Lamentações 2:1: *Como o Senhor, em seu furor, co
 
 segundo, as da culpa. Salmos: *Trevas sob seus pés*;
 
-terceiro, as do castigo presente. Lamentações 4:1: *Como o ouro se obscureceu, como mudou sua belíssima cor!*;
+terceiro, as da pena presente. Lamentações 4:1: *Como o ouro se obscureceu, como mudou sua belíssima cor!*;
 
 quarto, as da miséria futura. Mateus 22:13: *Atai-lhe as mãos e os pés e lançai-o nas trevas exteriores*; e Lucas: *Entre nós e vós está firmado um grande abismo, para que os que querem passar daqui para junto de vós não possam*.

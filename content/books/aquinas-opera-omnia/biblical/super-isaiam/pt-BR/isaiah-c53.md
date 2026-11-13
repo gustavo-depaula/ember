@@ -136,7 +136,7 @@ Primeiro, apresenta sua súplica, na qual invoca o braço do poder divino: ***E 
 
 E primeiro promete a consolação: ***Consolarei***. 2 Coríntios 1:3: *Bendito seja Deus e Pai de nosso Senhor*; e, adiante: *E Deus de toda consolação, que nos consola em toda a nossa tribulação*.
 
-**933.** Segundo, afasta o temor dos inimigos, apresentando sua fragilidade: ***Quem és tu, como a erva***. Acima, Isaías 40:6: ***Toda carne é erva, e toda a sua glória, como a flor do campo***. E o poder de Deus que protege: ***E te esqueceste***. Deuteronômio 32:18: *Abandonaste o Deus que te gerou e te esqueceste do Senhor, teu criador*. E a zombaria contra o inimigo: ***Onde está, daquele que te atribulava***, Nabucodonosor ou Senaquerib. Jó 20:6: *Se tua soberba subir até o céu*.
+**933.** Segundo, afasta o temor dos inimigos, apresentando sua fragilidade: ***Quem és tu, como a erva***. Acima, Isaías 40:6: ***Toda carne é erva, e toda a sua glória, como a flor do campo***. E o poder de Deus que protege: ***E te esqueceste***. Deuteronômio 32:18: *Abandonaste o Deus que te gerou e te esqueceste do Senhor, teu criador*. E o escárnio contra o inimigo: ***Onde está, daquele que te atribulava***, Nabucodonosor ou Senaquerib. Jó 20:6: *Se tua soberba subir até o céu*.
 
 **934.** Terceiro, mostra a ordem da consolação: ***Logo virá***, a saber, Ciro, ***para abrir*** a prisão aos cativos; ***não matará*** a vós, como os outros reis dos caldeus; ***nem faltará*** a vós o ***pão*** com que ele vos sustenta. Acima, Isaías 33:16: ***Foi-lhe dado pão***; acima, Isaías 42:6: ***Eu te dei como aliança de meu povo***.
 

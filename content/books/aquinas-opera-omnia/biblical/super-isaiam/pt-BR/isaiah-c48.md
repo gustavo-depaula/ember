@@ -18,7 +18,7 @@
 
 > ^46:9^ recordai-vos do tempo antigo, porque eu sou Deus, e não há deus além de mim, nem há semelhante a mim,
 
-> ^46:10^ que anuncia desde o começo o que será por último e desde o princípio as coisas que ainda não foram feitas; que diz: “Meu desígnio permanecerá, e toda a minha vontade será feita”;
+> ^46:10^ que anuncia desde o começo o que será por último e desde o princípio as coisas que ainda não foram feitas; que diz: “Meu conselho permanecerá, e toda a minha vontade será feita”;
 
 > ^46:11^ que chama do oriente uma ave e de uma terra longínqua o homem de minha vontade; eu falei e farei que aconteça, criei e o farei.
 
@@ -52,7 +52,7 @@ Terceiro, conclui o chamado ao retorno: ***Lembrai-vos disso***, do que foi dito
 
 **874.** ***Que anuncia desde o começo*** etc. Aqui promete aos que se voltam para ele a libertação do cativeiro. E, a esse respeito, faz duas coisas.
 
-Primeiro, promete a libertação, apresentando o poder de anunciar de antemão: ***Que anuncia o que será por último***, tudo o que acontecerá nos últimos tempos. Eclesiástico 42: *Anunciando as coisas que passaram* etc.; apresenta também a firmeza do anúncio: ***Que diz***: ***Permanecerá***, será cumprido; ***a vontade*** de beneplácito. Eclesiástico 21: *Seu desígnio, como fonte de vida* etc. Salmo: *Tudo quanto quis* etc.; e apresenta a ordem da libertação: ***Que chama do oriente uma ave***, Ciro, pela rapidez da vitória, ou Cristo. Acima, 41: ***Quem suscitou do oriente*** etc.
+Primeiro, promete a libertação, apresentando o poder de anunciar de antemão: ***Que anuncia o que será por último***, tudo o que acontecerá nos últimos tempos. Eclesiástico 42: *Anunciando as coisas que passaram* etc.; apresenta também a firmeza do anúncio: ***Que diz***: ***Permanecerá***, será cumprido; ***a vontade*** de beneplácito. Eclesiástico 21: *Seu conselho, como fonte de vida* etc. Salmo: *Tudo quanto quis* etc.; e apresenta a ordem da libertação: ***Que chama do oriente uma ave***, Ciro, pela rapidez da vitória, ou Cristo. Acima, 41: ***Quem suscitou do oriente*** etc.
 
 **875.** Segundo, ali: ***Ouvi-me***, promete a proximidade da libertação,
 
@@ -68,7 +68,7 @@ pela inquietação ao planejá-lo. Provérbios 4: *Pois não dormem* etc.;
 
 pelo esforço ao executá-lo. Sabedoria: *Cansamo-nos no caminho* etc.;
 
-pela vergonha ao recordá-lo. Romanos 5: *Que fruto, pois* etc.;
+pela confusão ao recordá-lo. Romanos 5: *Que fruto, pois* etc.;
 
 pela frustração ao esperar. Provérbios 11: *A expectativa dos justos* etc.
 

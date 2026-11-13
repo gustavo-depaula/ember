@@ -42,9 +42,9 @@
 
 > **699.** ***Eis que na justiça***. Esta é a terceira parte da ameaça, na qual desenvolve a libertação dos inimigos que então os ameaçavam.
 
-Primeiro, prediz essa libertação em forma de profecia;
+Primeiro, prediz essa libertação ao modo de profecia;
 
-na segunda parte, narra-a em forma de história. Capítulo 36: ***E aconteceu***.
+na segunda parte, narra-a ao modo de história. Capítulo 36: ***E aconteceu***.
 
 A primeira se divide em duas:
 

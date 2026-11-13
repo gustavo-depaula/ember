@@ -60,9 +60,9 @@ Terceiro, o modo da santificação: ***Se o Senhor lavar***, isto é, contanto q
 
 **139.** ***E o Senhor criou***. Aqui mostra a segurança contra os inimigos e conserva a metáfora: porque comparara a tribulação ao ardor, compara a segurança à nuvem e ao tabernáculo, pelos quais alguém se protege do ardor. E divide-se em duas partes.
 
-Primeiro, promete a proteção divina sob a imagem da nuvem;
+Primeiro, promete a proteção divina pela comparação com a nuvem;
 
-na segunda, sob a imagem do tabernáculo, ali: ***E haverá um tabernáculo***.
+na segunda, pela comparação com o tabernáculo, ali: ***E haverá um tabernáculo***.
 
 **140.** A respeito do primeiro ponto, faz três coisas.
 

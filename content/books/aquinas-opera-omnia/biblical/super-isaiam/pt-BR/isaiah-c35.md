@@ -16,7 +16,7 @@
 
 > ^33:8^ Os caminhos foram devastados, cessou quem passava pela vereda, o pacto foi invalidado, rejeitou as cidades, não deu valor aos homens.
 
-> ^33:9^ A terra chorou e definhou, o Líbano foi envergonhado e se cobriu de sujeira; Saron tornou-se como um deserto, e Basã e o Carmelo foram abalados.
+> ^33:9^ A terra chorou e definhou, o Líbano foi confundido e se cobriu de sujeira; Saron tornou-se como um deserto, e Basã e o Carmelo foram abalados.
 
 > ^33:10^ Agora me levantarei, diz o Senhor; agora serei exaltado, agora me erguerei.
 

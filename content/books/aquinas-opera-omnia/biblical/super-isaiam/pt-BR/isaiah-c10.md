@@ -8,7 +8,7 @@
 
 > ^8:3^ E aproximei-me da profetisa, e ela concebeu e deu à luz um filho. E o Senhor me disse: Dá-lhe este nome: Apressa-te, tira os despojos, corre a saquear.
 
-> **263.** ***E o Senhor me disse: Toma para ti um livro***. Aqui prediz a destruição das dez tribos enquanto diz respeito ao castigo delas. Essa destruição foi realizada pelos assírios: primeiro, por Teglat-Falasar, durante o reinado de Faceia, que levou cativas as duas tribos e meia que estavam além do Jordão e muitíssimos das tribos de Zabulon e Neftali, 1 Reis 15; e depois por Salmanasar, que reduziu as restantes ao cativeiro, 2 Reis 18:9–12. Também as duas tribos participaram dessa tribulação, pois foram afligidas por Teglat-Falasar, como se diz em 2 Crônicas 29, e por Senaqueribe, como se diz abaixo, no capítulo 36, sem, contudo, serem inteiramente subjugadas. E divide-se em duas partes:
+> **263.** ***E o Senhor me disse: Toma para ti um livro***. Aqui prediz a destruição das dez tribos enquanto diz respeito à pena delas. Essa destruição foi realizada pelos assírios: primeiro, por Teglat-Falasar, durante o reinado de Faceia, que levou cativas as duas tribos e meia que estavam além do Jordão e muitíssimos das tribos de Zabulon e Neftali, 1 Reis 15; e depois por Salmanasar, que reduziu as restantes ao cativeiro, 2 Reis 18:9–12. Também as duas tribos participaram dessa tribulação, pois foram afligidas por Teglat-Falasar, como se diz em 2 Crônicas 29, e por Senaqueribe, como se diz abaixo, no capítulo 36, sem, contudo, serem inteiramente subjugadas. E divide-se em duas partes:
 
 na primeira, prediz a tribulação;
 
@@ -106,7 +106,7 @@ Quarto, ***amargo***, pelo esforço do estudo. Apocalipse 10:10: *E tomei o livr
 
 Quinto, ***doce*** quanto ao efeito. Ezequiel 3:1,3: *Come este rolo; e eu o comi, e em minha boca ele se tornou doce como mel*.
 
-Sexto, ***voador*** quanto à inteligência. Zacarias 5:1: *Vi, e eis um rolo voador*. Jó 39:27: *Acaso por tua ordem a águia se elevará e fará seu ninho nas alturas?*
+Sexto, ***voador*** quanto ao intelecto. Zacarias 5:1: *Vi, e eis um rolo voador*. Jó 39:27: *Acaso por tua ordem a águia se elevará e fará seu ninho nas alturas?*
 
 Sétimo, ***vivificante*** quanto ao fruto. Eclesiástico 24:32: *Tudo isso é o livro da vida, a aliança do Altíssimo e o conhecimento da verdade*. Provérbios 8:35: *Quem me encontrar encontrará a vida*.
 
@@ -124,7 +124,7 @@ Lição 2
 
 > ^8:9^ Reuni-vos, povos, e sede vencidos; ouvi, todas as terras distantes: fortalecei-vos e sede vencidos, cingi-vos e sede vencidos;
 
-> ^8:10^ tomai uma decisão, e ela será desfeita; proferi uma palavra, e ela não se cumprirá, porque Deus está conosco.
+> ^8:10^ tomai conselho, e ele será desfeito; proferi uma palavra, e ela não se cumprirá, porque Deus está conosco.
 
 > ^8:11^ Pois estas coisas me disse o Senhor, como me instruiu com mão forte para que eu não andasse no caminho deste povo, dizendo:
 

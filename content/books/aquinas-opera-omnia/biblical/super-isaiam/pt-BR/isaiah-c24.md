@@ -144,9 +144,9 @@ Primeiro, descreve a pessoa por seu ofício: ***Aquele que habita no tabernácul
 
 **540.** Terceiro, ameaça com uma tríplice pena: ***Eis que o Senhor***.
 
-Primeiro, a do cativeiro: ***Como se leva***, atado e sem esforço; ***um galo***, que cria os pintinhos à maneira de uma galinha, por ser castrado, chamado capão; ***e como uma veste***, facilmente levantada sobre o ombro. Jeremias 20:6: *Tu, Fassur, e todos os habitantes de tua casa ireis para o cativeiro; irás a Babilônia, ali morrerás e ali serás sepultado, tu e todos os teus amigos*.
+Primeiro, a do cativeiro: ***Como se leva***, atado e sem esforço; ***um galo***, que cria os pintinhos ao modo de uma galinha, por ser castrado, chamado capão; ***e como uma veste***, facilmente levantada sobre o ombro. Jeremias 20:6: *Tu, Fassur, e todos os habitantes de tua casa ireis para o cativeiro; irás a Babilônia, ali morrerás e ali serás sepultado, tu e todos os teus amigos*.
 
-Segundo, a da vergonha: ***Coroando***, isto é, em lugar da coroa que usavas no culto pontifical, terás tribulação; ***como uma bola***, que não encontra um lugar elevado onde parar; ***o carro de tua glória***, no qual eras conduzido gloriosamente, convertido em tua vergonha; ***e ignomínia da casa do Senhor***, isto é, a glória que tiveste na casa do Senhor será convertida em ignomínia para ti. Oseias 4:7: *Transformarei sua glória em ignomínia*.
+Segundo, a da confusão: ***Coroando***, isto é, em lugar da coroa que usavas no culto pontifical, terás tribulação; ***como uma bola***, que não encontra um lugar elevado onde parar; ***o carro de tua glória***, no qual eras conduzido gloriosamente, convertido em tua confusão; ***e ignomínia da casa do Senhor***, isto é, a glória que tiveste na casa do Senhor será convertida em ignomínia para ti. Oseias 4:7: *Transformarei sua glória em ignomínia*.
 
 Terceiro, a pena da deposição: ***Eu te expulsarei***. 1 Reis 2:27: *Salomão, portanto, expulsou Abiatar, para que não fosse sacerdote do Senhor*.
 

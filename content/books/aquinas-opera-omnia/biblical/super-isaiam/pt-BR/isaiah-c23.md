@@ -64,7 +64,7 @@ Primeiro, a gravidade da tribulação, apresentando uma comparação: ***Como os
 
 **510.** Segundo, indica o devastador.
 
-Primeiro, quanto à condição do chefe: na infidelidade. Ciro, ***quem é infiel***, isto é, infiel a seu senhor Baltasar, revoltando-se e sitiando Babilônia, confiado no efeminamento deste, ***age com infidelidade***, isto é, agirá, vendo que a cidade não pode ser tomada pela força, fazendo fraudulentamente a paz e jurando vassalagem ao rei de Babilônia; convidado por ele para um banquete — do qual trata Daniel 5 —, matou-o e tomou a cidade, introduzindo os soldados pela abertura do muro por onde entrava o rio, depois de dividir suas águas em muitas partes. Na crueldade: ***Quem é saqueador***; por isso, como castigo da crueldade, foi sufocado em sangue, e lhe foi dito: tiveste sede de sangue, bebe sangue. Habacuc 2:4: *Eis que aquele que é infiel não terá a alma reta em si mesmo*.
+Primeiro, quanto à condição do chefe: na infidelidade. Ciro, ***quem é infiel***, isto é, infiel a seu senhor Baltasar, revoltando-se e sitiando Babilônia, confiado no efeminamento deste, ***age com infidelidade***, isto é, agirá, vendo que a cidade não pode ser tomada pela força, fazendo fraudulentamente a paz e jurando vassalagem ao rei de Babilônia; convidado por ele para um banquete — do qual trata Daniel 5 —, matou-o e tomou a cidade, introduzindo os soldados pela abertura do muro por onde entrava o rio, depois de dividir suas águas em muitas partes. Na crueldade: ***Quem é saqueador***; por isso, como pena da crueldade, foi sufocado em sangue, e lhe foi dito: tiveste sede de sangue, bebe sangue. Habacuc 2:4: *Eis que aquele que é infiel não terá a alma reta em si mesmo*.
 
 Segundo, quanto à região de onde parte: ***Sobe, Elam***, cidade e província da Pérsia; ***Medaba***, cidade da Média, ***sitia*** Babilônia: voz do Senhor. Jeremias 51: *Subi contra ela, todas as nações*.
 
@@ -74,7 +74,7 @@ Terceiro, o poder do inimigo: ***Todo o seu gemido***, isto é, de Babilônia, d
 
 Segundo, quanto ao afeto: ***Meu coração definhou***, isto é, o afeto, pela tristeza. Jeremias 4:19: *Meu ventre dói*.
 
-Terceiro, quanto ao entendimento atônito: ***As trevas***, isto é, as perturbações previstas, como se eu estivesse em trevas. Jeremias 50:13: *Todo aquele que passar por Babilônia ficará atônito e se calará diante de todas as suas pragas*. ***Babilônia, minha amada***, naquele tempo, embora depois fosse inimiga; ***motivo de espanto***, isto é, de admiração. Apocalipse 17:6: *Ao vê-la, fiquei tomado de grande admiração*.
+Terceiro, quanto ao intelecto atônito: ***As trevas***, isto é, as perturbações previstas, como se eu estivesse em trevas. Jeremias 50:13: *Todo aquele que passar por Babilônia ficará atônito e se calará diante de todas as suas pragas*. ***Babilônia, minha amada***, naquele tempo, embora depois fosse inimiga; ***motivo de espanto***, isto é, de admiração. Apocalipse 17:6: *Ao vê-la, fiquei tomado de grande admiração*.
 
 **512.** Quarto, indica o modo e a condição da destruição, dizendo: ó Babilônia, ***prepara a mesa***, convidando Ciro e Dario para o banquete; ***contempla***, isto é, vê, ***na atalaia***, isto é, na escrita da mão que escreve ***Mane***, à clara luz do Senhor; ***príncipes***, isto é, ó Ciro, ó Dario, ***que comeis e bebeis*** com ele, ***levantai-vos***, fortalecidos pela visão, ***tomai o escudo*** e matai-o. 46:3: *Preparai o escudo e o broquel*.
 

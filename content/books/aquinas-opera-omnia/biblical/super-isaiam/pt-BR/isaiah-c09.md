@@ -42,9 +42,9 @@ A primeira divide-se em três:
 
 na primeira, contra os inimigos que perseguem corporalmente;
 
-na segunda, contra os inimigos que fornecem poder, no capítulo 17: ***Oráculo contra Damasco***;
+na segunda, contra os inimigos que fornecem poder, no capítulo 17: ***Fardo de Damasco***;
 
-na terceira, contra os inimigos que oprimem quanto aos bens, no capítulo 21: ***Oráculo do deserto do mar***.
+na terceira, contra os inimigos que oprimem quanto aos bens, no capítulo 21: ***Fardo do deserto do mar***.
 
 A primeira divide-se em duas:
 
@@ -84,7 +84,7 @@ segundo, a própria promessa: ***E lhe dirás***.
 
 O modo se apresenta
 
-primeiro, quanto à pessoa que anuncia: ***O Senhor disse a Isaías***, inspirando-o interiormente ou falando por uma criatura que lhe está sujeita: ***Sai ao encontro de Acaz***, que talvez, por medo dos inimigos, tivesse saído para se preparar a resistir.
+primeiro, quanto à pessoa que anuncia: ***O Senhor disse a Isaías***, inspirando-o interiormente ou falando por uma criatura que lhe está sujeita: ***Sai ao encontro de Acaz***, que talvez, por temor dos inimigos, tivesse saído para se preparar a resistir.
 
 Segundo, quanto à testemunha: ***E Jasub, que ficou*** contigo, tendo o outro irmão, isto é, Rabsaces, nascido de mãe mais nobre, fugido para o rei dos assírios, porque não foi bem recebido por Acaz; dele se fala abaixo, em Isaías 36:2. Deuteronômio 19:15: *Pela boca de dois ou três ficará estabelecida toda palavra*.
 
@@ -200,7 +200,7 @@ Primeiro, apresenta-se a concepção miraculosa: ***Eis que a virgem***, permane
 
 Segundo, a admirável denominação daquele que é gerado; primeiro, quanto à divindade: ***Chamará***, isto é, a virgem; ou ***chamarás*** tu, Judá, nos perigos; ***seu nome Emanuel***, que se traduz por “Deus conosco”; Mateus 1:23: *Chamarás seu nome Emanuel*. E tudo isso não tem semelhante em outros casos, porque é novo; Jeremias 31:22: *O Senhor criou uma coisa nova sobre a terra: uma mulher* — *ou uma fêmea* — *envolverá um homem*; portanto, um homem perfeito já na própria concepção, embora não segundo a dimensão perfeita, como diz Santo Agostinho sobre a passagem de João \<2:20\>: *Em quarenta e seis anos foi edificado*, etc. Por isso, está acima do homem, porque *nada há de novo debaixo do sol*, Eclesiastes 1:10. Assim, não se pode encontrar outra correspondência para essa profecia senão a própria história: Lucas 1:31: *Eis que conceberás e darás à luz um filho*; isso é significado em Ezequiel 44:2: *Esta porta permanecerá fechada e não se abrirá, e nenhum homem passará por ela, porque o Senhor Deus de Israel entrou por ela*.
 
-**254.** Segundo, quanto à humanidade: ***Comerá manteiga e mel***, literalmente, alimentos humanos, porque desde a infância se comportou à maneira dos outros; Sabedoria 7:3: *E eu, ao nascer, recebi o ar comum, caí sobre a terra feita igualmente para todos e, chorando, emiti minha primeira voz, semelhante à de todos*.
+**254.** Segundo, quanto à humanidade: ***Comerá manteiga e mel***, literalmente, alimentos humanos, porque desde a infância se comportou ao modo dos outros; Sabedoria 7:3: *E eu, ao nascer, recebi o ar comum, caí sobre a terra feita igualmente para todos e, chorando, emiti minha primeira voz, semelhante à de todos*.
 
 Ou da parte para o todo, segundo a quarta regra de Ticônio: por esses alimentos entende todos os alimentos humanos. ***Para que saiba***: a conjunção latina ***ut*** tem valor consecutivo, pois, alimentando-se dessas coisas ainda menino, ele ***sabe rejeitar o mal***, sem experiência, ***e escolher o bem***, sem deliberação, possuindo o conhecimento perfeito de todas as coisas. O diabo prometera isso, mas não cumpriu, em Gênesis 3:5; Deus, porém, o deu gratuitamente, Sabedoria 7:17: *Pois ele me deu o conhecimento verdadeiro das coisas que existem, para que eu conheça a disposição do mundo e a força dos elementos*.
 

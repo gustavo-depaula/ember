@@ -16,7 +16,7 @@
 
 > ^27:8^ Medida por medida, quando for rejeitada, ele a julgará; meditou em seu espírito severo durante o dia do calor.
 
-> ^27:9^ Por isso, mediante isso será perdoada a iniquidade à casa de Jacó, e este será todo o fruto: que seu pecado seja retirado, quando reduzir todas as pedras do altar a pedras de cinza despedaçadas; não subsistirão os bosques sagrados nem os santuários.
+> ^27:9^ Por isso, mediante isso será perdoada a iniquidade à casa de Jacó, e este será todo o fruto: que seu pecado seja retirado, quando reduzir todas as pedras do altar a pedras de cinza despedaçadas; não subsistirão os bosques sagrados nem os templos.
 
 > ^27:10^ Pois a cidade fortificada ficará desolada, a bela será abandonada e deixada como um deserto; ali pastará o bezerro, ali se deitará e consumirá seus cimos.
 
@@ -72,7 +72,7 @@ Primeiro, propõe um juízo severo, apresentando a ira de quem se enfurece: ***N
 
 **625.** Terceiro, explica o motivo para moderar a pena, a fim de não os destruir então por completo: porque daquela nação ainda deviam descender Cristo e os apóstolos, por cuja pregação o culto dos ídolos seria abandonado; e é isso que diz: ***Quando reduzir***. Acima, em Isaías 17:7: ***O homem se inclinará para seu criador, e seus olhos olharão para o Santo de Israel***.
 
-**626.** ***A cidade***, isto é, Jerusalém. Lamentações 1:1: *Como está sentada solitária a cidade cheia de povo*. Quanto ao poder dos inimigos: ***Ali pastará***, como que repousará sem medo; ***o bezerro***, o exército dos inimigos; ***os cimos***, metaforicamente, isto é, as espigas, pelas quais se significam os príncipes. Acima, em Isaías 13:21: ***Ali repousarão as feras***. Ou, em sentido literal, para que seja sinal da desolação. 1 Macabeus 4:38: *Viram destruídas as dependências do templo*. E a destruição dos homens: ***Na seca***, é uma metáfora, isto é, como as espigas são trituradas na seca do verão; ***mulheres que ensinam***, pelas quais o povo era precipitado sobretudo nos pecados. Acima, em Isaías 3:12: ***Seus opressores despojaram meu povo***. Ou porque as próprias mulheres os ensinavam, como Débora, em Juízes 4, e Hulda, em 2 Reis 22:14.
+**626.** ***A cidade***, isto é, Jerusalém. Lamentações 1:1: *Como está sentada solitária a cidade cheia de povo*. Quanto ao poder dos inimigos: ***Ali pastará***, como que repousará sem temor; ***o bezerro***, o exército dos inimigos; ***os cimos***, metaforicamente, isto é, as espigas, pelas quais se significam os príncipes. Acima, em Isaías 13:21: ***Ali repousarão as feras***. Ou, em sentido literal, para que seja sinal da desolação. 1 Macabeus 4:38: *Viram destruídas as dependências do templo*. E a destruição dos homens: ***Na seca***, é uma metáfora, isto é, como as espigas são trituradas na seca do verão; ***mulheres que ensinam***, pelas quais o povo era precipitado sobretudo nos pecados. Acima, em Isaías 3:12: ***Seus opressores despojaram meu povo***. Ou porque as próprias mulheres os ensinavam, como Débora, em Juízes 4, e Hulda, em 2 Reis 22:14.
 
 **627.** Segundo, apresenta a equidade da pena por comparação com a culpa: ***Pois não é um povo***. Acima, em Isaías 5:13: ***Por isso meu povo foi levado cativo, porque não teve conhecimento***.
 

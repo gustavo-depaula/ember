@@ -40,7 +40,7 @@
 
 > ^60:20^ Teu sol não mais se porá, e tua lua não diminuirá, porque o Senhor será luz eterna, e se completarão os dias do teu luto.
 
-> ^60:21^ Teu povo, porém, será todo de justos; herdarão a terra para sempre, rebento da minha plantação, obra da minha mão para me glorificar.
+> ^60:21^ Teu povo, porém, será todo de justos; herdarão a terra para sempre, broto da minha plantação, obra da minha mão para me glorificar.
 
 > ^60:22^ O menor se tornará mil, e o pequenino, uma nação fortíssima. Eu, o Senhor, farei isto subitamente, a seu tempo.
 
@@ -78,7 +78,7 @@ Acerca do primeiro ponto, faz três coisas.
 
 **1056.** Terceiro, quanto à abundância das riquezas.
 
-E primeiro, quanto às mercadorias, apresenta os animais de carga: ***Uma inundação***, isto é, abundância à semelhança da água, ***de camelos***, nos quais se transportavam as mercadorias; neles, misticamente, são significados os ricos convertidos à fé, que carregam o peso das riquezas e a corcova do pecado, como acima, em 30:6: ***Carregando sobre os ombros***; ***dromedários***, animal menor que o camelo, mas mais veloz, no qual são significadas as nações rapidamente convertidas à fé; ***Madiã e Efa***, regiões além-mar que abundam nesses animais. Apresenta também as mercadorias preciosas: ***Todos de Sabá***, cidade nos confins da Etiópia. Isso também se cumpriu no tempo de Cristo, em Mateus 2. Salmo: *Os reis de Társis e as ilhas oferecerão presentes*.
+E primeiro, quanto às mercadorias, apresenta os animais de carga: ***Uma inundação***, isto é, abundância à semelhança da água, ***de camelos***, nos quais se transportavam as mercadorias; neles, misticamente, são significados os ricos convertidos à fé, que carregam o fardo das riquezas e a corcova do pecado, como acima, em 30:6: ***Carregando sobre os ombros***; ***dromedários***, animal menor que o camelo, mas mais veloz, no qual são significadas as nações rapidamente convertidas à fé; ***Madiã e Efa***, regiões além-mar que abundam nesses animais. Apresenta também as mercadorias preciosas: ***Todos de Sabá***, cidade nos confins da Etiópia. Isso também se cumpriu no tempo de Cristo, em Mateus 2. Salmo: *Os reis de Társis e as ilhas oferecerão presentes*.
 
 **1057.** Segundo, quanto aos animais puros, enquanto serviam de alimento: ***Todo o rebanho de Cedar***, filho de Ismael, de quem recebe o nome a terra, abundante em rebanhos; ***Nabaiot***, outro filho; ***servirão***, destinados ao teu uso, vendidos ao povo que está em ti; e enquanto serviam para os sacrifícios: ***Serão oferecidos sobre meu altar propiciatório***, isto é, no qual eu seja aplacado. Pelo ***altar*** é significada a fé; pelos ***carneiros***, os guias do rebanho, os apóstolos e os prelados das igrejas; pelo ***rebanho***, os simples. Ageu 2:8: *Encherei esta casa*.
 

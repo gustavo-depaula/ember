@@ -140,7 +140,7 @@ Primeiro, quanto aos adivinhos e áugures que tinham; por isso diz: ***Tiveram �
 
 **82.** Mas parece que o augúrio não é pecado. Pois as aves têm melhor estimativa do que os peixes, que são mais aquosos; ora, os marinheiros tiram do movimento de certos peixes conjecturas sobre uma tempestade futura; portanto, também pelas aves se pode prognosticar algo sobre o futuro.
 
-E deve-se dizer que Deus proveu cada coisa daquilo pelo qual pudesse conservar-se no ser, segundo a capacidade de sua natureza; por isso deu ao homem a razão, pela qual, comparando, pode descobrir para si remédios contra o que lhe é nocivo. E, como nos animais irracionais falta a razão, ordenou que a natureza suprisse o que lhes falta de razão; por isso lhes foram dadas naturalmente armas e coberturas que o homem adquire para si pela arte. De modo semelhante, também foi criada neles certa potência natural de estimativa, que os impele a realizar as operações de sua espécie; por isso são antes movidos a agir do que agem, como diz Damasceno. E, como a natureza inferior é regida e movida pela natureza superior, permanecem neles impressões dos movimentos superiores, que estimulam esse movimento pelo qual são movidos a prover a si mesmos o necessário. E, nessas coisas, tirar conjecturas das aves, dos movimentos das aves ou de outros animais não é pecado; só o é a respeito daquelas coisas que têm sua causa no livre-arbítrio, que não age pela necessidade dos astros.
+E deve-se dizer que Deus proveu cada coisa daquilo pelo qual pudesse conservar-se no ser, segundo a capacidade de sua natureza; por isso deu ao homem a razão, pela qual, comparando, pode encontrar para si remédios contra o que lhe é nocivo. E, como nos animais irracionais falta a razão, ordenou que a natureza suprisse o que lhes falta de razão; por isso lhes foram dadas naturalmente armas e coberturas que o homem adquire para si pela arte. De modo semelhante, também foi criada neles certa potência natural de estimativa, que os impele a realizar as operações de sua espécie; por isso são antes movidos a agir do que agem, como diz Damasceno. E, como a natureza inferior é regida e movida pela natureza superior, permanecem neles impressões dos movimentos superiores, que estimulam esse movimento pelo qual são movidos a prover a si mesmos o necessário. E, nessas coisas, tirar conjecturas das aves, dos movimentos das aves ou de outros animais não é pecado; só o é a respeito daquelas coisas que têm sua causa no livre-arbítrio, que não age pela necessidade dos astros.
 
 **83.** Segundo, quanto às paixões contrárias à natureza às quais se sujeitavam; por isso diz: ***Aderiram a jovens estrangeiros***, isto é, de outra nação ou alheios a Deus, por um abuso vergonhoso; Romanos 1:27: *Homens praticando a torpeza com homens*. Em 2 Macabeus 4:13, diz-se desse vício: *Isso era certo crescimento e progresso do modo de vida gentio e estrangeiro, por causa do crime nefando e inaudito de Jasão, ímpio e não sacerdote*.
 
@@ -162,7 +162,7 @@ Lição 3
 
 ***^2:9b^ Portanto, não lhes perdoeis.***
 
-> ^2:10^ Entra na rocha, esconde-te na terra escavada, diante do terror do Senhor e da glória de sua majestade.
+> ^2:10^ Entra na rocha, esconde-te na terra escavada, diante do temor do Senhor e da glória de sua majestade.
 
 > ^2:11^ Os olhos altivos do homem foram humilhados, e a altura dos varões será abatida; somente o Senhor será exaltado naquele dia.
 
@@ -172,7 +172,7 @@ Lição 3
 
 > ^2:14^ e sobre todos os montes altos e sobre todas as colinas elevadas,
 
-> ^2:15^ e sobre toda torre alta e sobre toda muralha fortificada,
+> ^2:15^ e sobre toda torre alta e sobre todo muro fortificado,
 
 > ^2:16^ e sobre todos os navios de Társis e sobre tudo o que é belo de se ver.
 
@@ -206,7 +206,7 @@ E, como a misericórdia divina não tem medida, mas sempre *se eleva acima do ju
 
 Primeiro, apresenta a imprecação, dizendo: Já que fazem males tão vergonhosos, ***portanto, não lhes perdoeis***; como se dissesse: Seria justo que em nada tivésseis misericórdia deles; Jeremias 5:9: *Acaso não julgarei essas coisas, diz o Senhor, e minha alma não se vingará de uma nação como esta?*
 
-**87.** Segundo, apresenta ironicamente um conselho para escapar, dizendo: ***Entra***; como se dissesse: Já que ele não perdoa, resta que vos escondais de sua face. ***Entra na rocha***, literalmente, nas fendas das rochas, para ali permanecer; ***esconde-te na terra escavada***, isto é, nas cavernas da terra, ***diante do terror do Senhor***, isto é, diante daqueles pelos quais Deus demonstra que deve ser temido e glorificado; Jeremias 18: *Abandonai as cidades*. Mas isso não lhes valerá; por isso, nos Salmos: *Para onde irei, longe de vosso espírito, e para onde fugirei de vossa face?*
+**87.** Segundo, apresenta ironicamente um conselho para escapar, dizendo: ***Entra***; como se dissesse: Já que ele não perdoa, resta que vos escondais de sua face. ***Entra na rocha***, literalmente, nas fendas das rochas, para ali permanecer; ***esconde-te na terra escavada***, isto é, nas cavernas da terra, ***diante do temor do Senhor***, isto é, diante daqueles pelos quais Deus demonstra que deve ser temido e glorificado; Jeremias 18: *Abandonai as cidades*. Mas isso não lhes valerá; por isso, nos Salmos: *Para onde irei, longe de vosso espírito, e para onde fugirei de vossa face?*
 
 **88.** Bernardo explica isso a respeito de Cristo. *Pois a rocha era Cristo*, 1 Coríntios 10:4; nele se deve entrar pelo afeto da devoção. Diz, portanto: *Eu tomo confiantemente das entranhas de Jesus Cristo aquilo que me falta. Pois suas entranhas de misericórdia transbordaram, e não faltam aberturas pelas quais ela possa fluir: pois cavaram suas mãos e perfuraram seus pés*; Cântico dos Cânticos 2:13: *Levanta-te, apressa-te, minha amiga, e vem às fendas da rocha*.
 
@@ -248,7 +248,7 @@ Terceiro, quanto às coisas que servem à abundância de víveres; assim diz: **
 
 ***E sobre tudo o que é belo de se ver***: isso serve para aplacar os inimigos ou aumentar o número dos combatentes; Judite 10:18: *Quem desprezará o povo dos hebreus, que tem mulheres tão belas?*
 
-**92.** ***E será abatida***. Aqui como que conclui o que propôs; é inteiramente o mesmo que foi dito antes, exceto pelo acréscimo sobre a destruição dos ídolos, para que se mostre que somente ele é elevado, quando diz: ***E os ídolos***; Ezequiel 6:6: *Vossos ídolos serão quebrados e deixarão de existir, e vossos santuários serão destruídos*.
+**92.** ***E será abatida***. Aqui como que conclui o que propôs; é inteiramente o mesmo que foi dito antes, exceto pelo acréscimo sobre a destruição dos ídolos, para que se mostre que somente ele é elevado, quando diz: ***E os ídolos***; Ezequiel 6:6: *Vossos ídolos serão quebrados e deixarão de existir, e vossos templos serão destruídos*.
 
 **93.** ***E entrarão nas cavernas***. Aqui apresenta a precaução de esconder-se; é o mesmo que antes, exceto por ser aqui predito como futuro, porque também havia exposto a queda do poder por uma predição, e não por uma imprecação; Salmos: *Entrarão nas profundezas da terra, serão entregues às mãos da espada, serão a porção das raposas*.
 

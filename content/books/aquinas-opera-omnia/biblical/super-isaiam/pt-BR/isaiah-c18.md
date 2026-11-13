@@ -28,13 +28,13 @@
 
 > ^16:14^ E agora o Senhor falou, dizendo: Em três anos, como anos de um assalariado, será retirada a glória de Moab, sobre toda a sua numerosa população, e nele restará algo como um cacho pequeno e reduzido, de modo algum numeroso.
 
-> **444.** ***Enviai o cordeiro***. Aqui descreve a condição do castigo e apresenta duas condições:
+> **444.** ***Enviai o cordeiro***. Aqui descreve a condição da pena e apresenta duas condições:
 
 primeiro, a equidade da parte de quem julga;
 
 segundo, a decepção da parte de quem sofre: ***E acontecerá que, quando se manifestar***.
 
-A equidade do castigo se estabelece a partir da culpa precedente; por isso, ordena a exposição da culpa. Apresenta uma dupla culpa:
+A equidade da pena se estabelece a partir da culpa precedente; por isso, ordena a exposição da culpa. Apresenta uma dupla culpa:
 
 primeiro, quanto ao desprezo do benefício prometido;
 
@@ -44,17 +44,17 @@ segundo, quanto ao desprezo do conselho salutar que foi dado: ***Toma conselho**
 
 Na primeira, promete o benefício de Cristo, que nasceria do seu povo, para que disso recebam alguma consolação. Pois Rute, a moabita, casou-se com Booz, de quem concebeu Obed, pai de Jessé, pai de Davi, do qual nasceu Cristo, como se diz em Rute, último capítulo. Por isso diz: ***Ó Senhor***, Pai; ***o cordeiro***, Cristo, João 1; ***da pedra do deserto***, de Rute, a gentia, cujo povo é de pedra, por adorar deuses de pedra, e por isso abandonado por Deus; ***ao monte***, Jerusalém, no qual foi morto e ressuscitou, ou à Igreja; ***dominador***. Apocalipse 5: *Àquele que está sentado sobre o trono*.
 
-Segundo, apresenta o castigo dos que desprezam: ***Será como a ave que foge***, de onde fugiram ou eram levados cativos. Acima, em Isaías 10:14: ***Minha mão encontrou, como um ninho, a força dos povos***.
+Segundo, apresenta a pena dos que desprezam: ***Será como a ave que foge***, de onde fugiram ou eram levados cativos. Acima, em Isaías 10:14: ***Minha mão encontrou, como um ninho, a força dos povos***.
 
 **446.** Outros querem interpretar aqui, ainda que de modo forçado, no sentido literal, o tributo de cordeiros que o rei de Moab deixara de pagar ao rei de Israel, como se diz em 2 Reis 15, e que o profeta anuncia que deverá ser restituído ao rei de Jerusalém: ***Dominador***, em sinal de domínio; ***da Pedra do deserto***, lugar onde se criavam ovelhas.
 
-**447.** ***Toma conselho***. Aqui ordena o castigo contra o desprezo do conselho dado. E divide-se em três partes:
+**447.** ***Toma conselho***. Aqui ordena a pena contra o desprezo do conselho dado. E divide-se em três partes:
 
 na primeira, apresenta o conselho;
 
 na segunda, o desprezo do conselho: ***Ouvimos***;
 
-na terceira, o castigo dos que desprezam: ***Por isso***.
+na terceira, a pena dos que desprezam: ***Por isso***.
 
 Quanto ao primeiro ponto, apresenta três coisas.
 
@@ -70,7 +70,7 @@ Exorta também a sustentar amigavelmente os que foram acolhidos: ***Habitarão**
 
 **449.** Terceiro, apresenta a razão: ***Acabou***.
 
-Primeiro, quanto à destruição dos inimigos, para que não os despeçam por medo deles: ***A poeira acabou***, a multidão do exército de Senaquerib; ***foi consumido***, isto é, morto pelos filhos, ***o miserável***, Senaquerib, adiante, em Isaías 38; ***desapareceu***, quanto ao poder, acima, em Isaías 14.
+Primeiro, quanto à destruição dos inimigos, para que não os despeçam por temor deles: ***A poeira acabou***, a multidão do exército de Senaquerib; ***foi consumido***, isto é, morto pelos filhos, ***o miserável***, Senaquerib, adiante, em Isaías 38; ***desapareceu***, quanto ao poder, acima, em Isaías 14.
 
 Segundo, quanto à restauração dos judeus, para que o façam de melhor vontade; quanto à preparação do reino: ***Será preparado na misericórdia*** de Deus ou do rei misericordioso ***um trono***, o dos reis de Judá; quanto ao poder do rei: ***Se sentará***, como quem reinará tranquilamente; quanto à equidade do juízo: ***Na verdade***; ***que julga***, quanto à prolação da sentença; ***busca***, quanto ao exame das causas; ***dá***, quanto à execução da sentença. E isso pode ser interpretado a respeito de Ezequias ou de Cristo. Acima, em Isaías 10: ***Sobre o trono de Davi e sobre o seu reino se sentará***.
 
@@ -114,15 +114,15 @@ quanto à grandeza: ***Ele é muito soberbo***;
 
 quanto ao fato de exceder sua dignidade: ***Sua soberba***, pela qual se exalta pelos bens que possui; ***arrogância***, pela qual ostenta o que não possui; ***indignação***, pela qual se propõe presunçosamente a vingar-se; ***maiores que***, etc.
 
-**454.** ***Por isso***. Aqui apresenta o castigo dos que desprezam.
+**454.** ***Por isso***. Aqui apresenta a pena dos que desprezam.
 
 Primeiro, o pranto dos que serão castigados: ***Moab para Moab***, isto é, uns para os outros, do qual já se falou suficientemente acima, em Isaías 15.
 
-Segundo, descreve o modo do castigo: ***Aos que se alegram***; e apresentam-se três coisas.
+Segundo, descreve o modo da pena: ***Aos que se alegram***; e apresentam-se três coisas.
 
-Primeiro, ordena-se aos profetas ou mensageiros que anunciem o castigo: ***Os que se alegram***, que se gloriam e confiam nas fortificações de muros de tijolos. Ezequiel 36: *Se o vigia vir*, etc.
+Primeiro, ordena-se aos profetas ou mensageiros que anunciem a pena: ***Os que se alegram***, que se gloriam e confiam nas fortificações de muros de tijolos. Ezequiel 36: *Se o vigia vir*, etc.
 
-**455.** Segundo, apresenta-se a descrição do castigo quanto à destruição das terras: ***Hesebon***, cidade em cujas terras abundava o trigo; ***Sabama***, cidade vizinha na qual abundava o vinho. Quanto à força dos inimigos: ***Os senhores das nações***, isto é, os assírios ou caldeus, que dominavam muitas nações; ***os sarmentos***, isto é, os ramos que estão no alto da videira, pelos quais se significam metaforicamente os príncipes e os elevados; ***até Jazer***, destruindo — cidade que fica nos confins mais distantes —; quanto à aflição dos homens, ***os senhores das nações vaguearam***. Salmos: *Vaguearam na solidão, em lugar sem água*. A condição desprezível dos que ficaram: ***Os ramos***, que permanecem na vinha depois de cortados os sarmentos, sem fruto nem beleza. Daniel 4:12: *Deixai na terra o broto de suas raízes*. O afastamento dos cativos: ***Atravessaram o mar*** de Moab, levados cativos para a Babilônia. Ou ***o mar***, isto é, o Eufrates, segundo o costume dos hebreus. Joel 3:8: *Eles os venderão aos sabeus, nação distante*. Ou se interpreta a respeito dos assírios que atravessam o mar e vêm para destruir.
+**455.** Segundo, apresenta-se a descrição da pena quanto à destruição das terras: ***Hesebon***, cidade em cujas terras abundava o trigo; ***Sabama***, cidade vizinha na qual abundava o vinho. Quanto à força dos inimigos: ***Os senhores das nações***, isto é, os assírios ou caldeus, que dominavam muitas nações; ***os sarmentos***, isto é, os ramos que estão no alto da videira, pelos quais se significam metaforicamente os príncipes e os elevados; ***até Jazer***, destruindo — cidade que fica nos confins mais distantes —; quanto à aflição dos homens, ***os senhores das nações vaguearam***. Salmos: *Vaguearam na solidão, em lugar sem água*. A condição desprezível dos que ficaram: ***Os ramos***, que permanecem na vinha depois de cortados os sarmentos, sem fruto nem beleza. Daniel 4:12: *Deixai na terra o broto de suas raízes*. O afastamento dos cativos: ***Atravessaram o mar*** de Moab, levados cativos para a Babilônia. Ou ***o mar***, isto é, o Eufrates, segundo o costume dos hebreus. Joel 3:8: *Eles os venderão aos sabeus, nação distante*. Ou se interpreta a respeito dos assírios que atravessam o mar e vêm para destruir.
 
 **456.** Terceiro, apresenta-se a compaixão do profeta.
 
@@ -130,9 +130,9 @@ Primeiro, apresenta-se a compaixão: ***Por isso***, a saber, o mal de Moab, ***
 
 Segundo, apresenta-se a razão da compaixão quanto ao ímpeto dos inimigos: ***Dos que pisam***, isto é, dos assírios que devastam; e quanto à alegria que lhes foi retirada, a qual tinham pela abundância de trigo: ***Do Carmelo***, isto é, da fertilidade — pois o Carmelo não fica em Moab, mas os judeus empregam nomes próprios como nomes comuns —; e à alegria que tinham pela abundância de vinho: ***Nas vinhas***. Jeremias 48:33.
 
-Terceiro, infere-se a conclusão como a partir de uma razão: ***Por este*** infortúnio, ***meu ventre***, isto é, minha sensibilidade, ***como uma cítara*** que produz um som de lamento; ou porque a cítara aumenta a alegria dos alegres e a tristeza dos tristes; ou por causa da harmonia das virtudes do profeta.
+Terceiro, infere-se a conclusão como a partir de uma razão: ***Por este*** infortúnio, ***meu ventre***, isto é, minha sensibilidade, ***como uma cítara*** que produz um som de pranto; ou porque a cítara aumenta a alegria dos alegres e a tristeza dos tristes; ou por causa da harmonia das virtudes do profeta.
 
-**457.** ***E acontecerá***. Aqui mostra a frustração deles, tanto a respeito dos ídolos aos quais sacrificavam nos lugares altos como daqueles aos quais sacrificavam nos templos quando estavam com medo. Deuteronômio 32:37: *Onde estão seus deuses, nos quais confiavam?*
+**457.** ***E acontecerá***. Aqui mostra a frustração deles, tanto a respeito dos ídolos aos quais sacrificavam nos lugares altos como daqueles aos quais sacrificavam nos templos quando estavam com temor. Deuteronômio 32:37: *Onde estão seus deuses, nos quais confiavam?*
 
 **458.** ***Esta é a palavra***. Aqui está o epílogo. ***Desde então***, desde a morte do rei Acaz.
 

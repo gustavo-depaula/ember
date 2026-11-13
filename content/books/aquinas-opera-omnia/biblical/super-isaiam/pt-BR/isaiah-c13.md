@@ -38,7 +38,7 @@ a procedência da mãe da linhagem ou estirpe real: ***Sairá uma vara***, vara 
 
 quanto à procedência do filho da mãe virgem: ***E uma flor***, Cristo. Cântico dos Cânticos 2:1: *Eu sou a flor do campo e o lírio dos vales*. ***Subirá***, porque *aquele que vem do céu está acima de todos*, João 3:31. Por isso, abaixo, 19:1: ***Eis que o Senhor subirá sobre uma nuvem leve e entrará no Egito, e as imagens do Egito serão abaladas***.
 
-**354.** ***Da raiz de Jessé***. Jeremias 23:5: *Suscitarei a Davi um rebento justo; um rei reinará, será sábio e praticará o juízo e a justiça na terra*. Quando deveria dizer *da vara*, diz ***da raiz***, para excluir duas heresias:
+**354.** ***Da raiz de Jessé***. Jeremias 23:5: *Suscitarei a Davi um broto justo; um rei reinará, será sábio e praticará o juízo e a justiça na terra*. Quando deveria dizer *da vara*, diz ***da raiz***, para excluir duas heresias:
 
 uma delas disse que Cristo não teve verdadeira carne;
 

@@ -20,7 +20,7 @@ Destino: pt-BR.
 | Paula / Eustochium | Paula / Eustóquio | Destinatárias do prefácio de São Jerônimo. |
 | Scriptura sacra / Spiritus Sanctus | Sagrada Escritura / Espírito Santo | Terminologia teológica. |
 | visio / apparitio / prophetia | visão / manifestação / profecia | Distinção mantida na exposição sobre o conhecimento profético. |
-| modus / materia / sententia | modo / matéria / pensamento | “Pensamento” para o conteúdo expresso por palavras e orações. |
+| modus / materia / sententia | modo / matéria / pensamento | “Pensamento” para o conteúdo expresso por palavras e orações. “Sentença” quando sententia designa uma decisão judicial; “forma” quando modus designa configuração física; “medida” quando designa quantidade ou limite; “fórmula” em modus juramenti. |
 | similitudo | comparação / semelhança | Comparação literária ou semelhança cognoscitiva, conforme o contexto. |
 | species | espécie | Forma cognoscitiva; explicação na nota [^2]. |
 | visio corporalis / spiritualis / intellectualis | visão corporal / espiritual / intelectual | “Imaginária” quando o latim emprega *imaginaria*. |
@@ -34,7 +34,7 @@ Destino: pt-BR.
 | superscribere | escrever sobre | Conforme Comentário à Epístola aos Hebreus; conserva a imagem da escrita sobre as tábuas. |
 | aversio / conversio | afastamento / adesão | Na análise do pecado: afastamento de Deus e da justiça, adesão aos bens desordenadamente buscados. |
 | culpa / poena | culpa / pena | Distinção constante na estrutura do comentário. |
-| judicium / justitia | juízo / justiça | “Julgamento” quando se trata mais diretamente do ato de julgar. |
+| judicium / justitia | juízo / justiça | “Julgamento” quando se trata mais diretamente do ato de julgar. “Causa” quando judicium designa a questão submetida a julgamento, como em Isaías 40:27 e 41:21. |
 | semen | semente / descendência | “Semente” nas séries exegéticas; “descendência” nas designações coletivas. |
 | vocatio gentium | vocação dos gentios | Tema principal da obra. |
 | coma / colon / periodus | inciso / membro / período | Unidades retóricas; nota [^1]. |
@@ -67,7 +67,7 @@ Destino: pt-BR.
 | visio imaginaria / visio intellectualis | visão imaginária / visão intelectual | “Imaginária” designa a faculdade da imaginação; esclarecimento na nota [^12]. |
 | species intelligibiles / speculum aeternitatis | espécies inteligíveis / espelho da eternidade | Terminologia do conhecimento profético. |
 | obduratio | endurecimento | Pena descrita no capítulo 6. |
-| calculus / forceps / carbunculus | pedra em brasa / tenaz / carbúnculo | Preservada a pedra do latim, conforme o precedente de *Super Ephesios*; o contexto explicita seu aquecimento. |
+| calculus / forceps / carbunculus | pedra em brasa / tenaz / carbúnculo | Preservada a pedra do latim, conforme o precedente de *Super Ephesios*; o contexto explicita seu aquecimento. “Pedrinha” nas citações de Apocalipse 2:17, onde não se trata de uma pedra aquecida. |
 | Ecclesia triumphans | Igreja triunfante | Em correspondência com “Igreja militante”. |
 | Dionysius / Caelestis hierarchia / De divinis nominibus | Dionísio / Hierarquia celeste / Nomes divinos | Formas em continuidade com os comentários de Santo Tomás no corpus. |
 | Ozias / Azarias / Joathan / Achaz | Ozias / Azarias / Joatão / Acaz | Nomes dos reis. |
@@ -85,7 +85,7 @@ Destino: pt-BR.
 | exactor / principatus | cobrador de tributos / principado | O primeiro termo acompanha a explicação sobre tributos; o segundo conserva a relação entre autoridade e cruz. |
 | gratia gratum faciens / gratia gratis data | graça que torna grato / graça grátis dada | Convenção do diário de *Comentário a Efésios*. |
 | donum sapientiae / intellectus | dom da sabedoria / do intelecto | Convenção de *Comentário a Efésios*; “intelecto” também designa a potência. |
-| habitus / beatitudo / fructus | hábito / bem-aventurança / fruto | Distinções técnicas desenvolvidas nos nn. 360–363; “hábito” segue as obras irmãs de Tomás. |
+| habitus / beatitudo / fructus | hábito / bem-aventurança / fruto | Distinções técnicas desenvolvidas nos nn. 360–363; “hábito” segue as obras irmãs de Tomás. “Veste” quando *habitus* designa o vestuário, inclusive figuradamente. |
 | consilium / fortitudo / scientia / pietas | conselho / fortaleza / ciência / piedade | Nomes dos dons do Espírito Santo. |
 | timor servilis / filialis / castus | temor servil / filial / casto | Distinções do n. 364. |
 | Jesse / Aaron | Jessé / Aarão | Formas atestadas nas obras irmãs do corpus. |
@@ -98,9 +98,9 @@ Destino: pt-BR.
 | Nabuchodonosor / Senacherib | Nabucodonosor / Senaquerib | “Nabucodonosor” segue os diários de *Comentário a Gálatas* e *Comentário a 1 Timóteo*. |
 | insultatio / improperium | escárnio / censura | Distinção mantida na exposição do capítulo 14. |
 | Lucifer | Lúcifer | Conservada a designação astral na interpretação literal; nota [^21]. |
-| consilium / concilium | conselho / assembleia | Distinção lexical explicitada no n. 447 e na nota [^22]. |
+| consilium / concilium | conselho / assembleia | Distinção lexical explicitada no n. 447 e na nota [^22]. “Deliberação” quando consilium designa o ato de ponderar antes da escolha; “deliberar” para consiliari nesse sentido. |
 | flagella / propagines | sarmentos / ramos | Distinção vegetal conservada no capítulo 16. |
-| olea / oliva | oliveira / azeitona | No n. 465, conservado *olea* como termo latino discutido; nota [^23]. |
+| olea / oliva | oliveira / azeitona | No n. 465, conservado *olea* como termo latino discutido; nota [^23]. “Oliveira” também para oliva quando designa a árvore, como nas citações de Oseias e em Isaías 41:19. |
 | delubra | templos | A explicação etimológica do n. 467 é esclarecida na nota [^24]. |
 | papyrus / pyr | papiro / *pyr* | Conservada a explicação etimológica do n. 476; nota [^25]. |
 | Afer / Africus | áfrico | Em Isaías 21:1 e no n. 509, nome do vento, vertido por “vento áfrico”. |
@@ -145,7 +145,7 @@ Destino: pt-BR.
 | voluntas beneplaciti | vontade de beneplácito | Conforme o diário de *Comentário à Primeira Carta a Timóteo*; n. 874. |
 | nunc aeternitatis | agora da eternidade | Termo filosófico do n. 891; nota [^45]. |
 | Bel / Nabo / Samos | Bel / Nebo / Samos | Nomes dos ídolos e da cidade. |
-| plasta / plastes | modelador | Nos lemas dos capítulos 44–45, com “fabricante” para *factor* na explicação. |
+| plasta / plastes | modelador | Nos lemas dos capítulos 44–45, com “fabricante” para *factor* na explicação. “Oleiro” quando plastes designa concretamente o trabalhador do barro, em Isaías 41:25 e na explicação correspondente. |
 | vilitas idolorum | vileza dos ídolos | Expressão recorrente na refutação da idolatria. |
 | Hieronymus / Gregorius / Damascenus | Jerônimo / Gregório / Damasceno | Formas dos diários das obras irmãs, sem acrescentar título ausente da fonte. |
 | liberatio / redemptio | libertação / redenção, resgate | Preservada a distinção conforme o contexto; *redimere* geralmente “resgatar”. |
@@ -167,7 +167,7 @@ Destino: pt-BR.
 | formosus / forma | formoso / forma | Mantida a proximidade vocabular na explicação etimológica do n. 1098. |
 | fortes justitiae | fortes da justiça | Designa os constantes na prática da justiça, conforme o n. 1077. |
 | visitatio | visitação | Em Isaías 60:17, explicada como os visitadores e os que corrigem. |
-| delubrum | santuário | No n. 1125, a associação com “lavar” é esclarecida na nota [^55]. |
+| delubrum | santuário | No n. 1125, a associação com “lavar” é esclarecida na nota [^55]. “Templo” nos locais de culto idolátrico ou de prazer mencionados em Isaías 13:22 e 17:8 e na exposição correspondente, conforme a entrada delubra. |
 | discretio | separação | Nos capítulos 65–66, separação dos maus em relação aos bons no juízo e na recepção da salvação. |
 | Fortuna | Fortuna | Nome da divindade mencionada em Isaías 65:11 e no n. 1128. |
 | Achor | Acor | Nome do vale em Isaías 65:10 e no n. 1127. |
@@ -506,3 +506,173 @@ Verdict: 1 meaning-level, 1 minor. Full read of c47–c68 against the Latin with
 ### Part 4 of 4, Round 4 (codex, delta read)
 Verdict: 0 meaning-level, 0 minor. As duas correções estão corretas. Lidos os seis parágrafos exibidos, as três notas, o diário e book.json, sem novos defeitos. O parágrafo c47 [73], sinalizado pela auditoria, não foi fornecido neste delta.
 - Rejected: pt-BR/isaiah-c47.md [15]–[16] — Aspas desequilibradas apontadas pela auditoria. — A citação abre em [15] e fecha em [16]; o conjunto está equilibrado.
+
+### Part terms 1 of 2, Round 1 (codex, terms read)
+Verdict: 2 meaning-level, 120 minor. 350 parágrafos sinalizados lidos; 110 apresentam deriva; 6 linhas do glossário foram complementadas.
+- `pt-BR/translation-journal.md`: “| modus / materia / sententia | modo / matéria / pensamento | “Pensamento” para o conteúdo expresso por palavras e orações. “Sentença” quando *sententia* designa uma decisão judicial; “sentenciar” para o verbo correspondente. |” → “| modus / materia / sententia | modo / matéria / pensamento | “Pensamento” para o conteúdo expresso por palavras e orações. “Sentença” quando sententia designa uma decisão judicial; “forma” quando modus designa configuração física; “medida” quando designa quantidade ou limite; “fórmula” em modus juramenti. |” — Acrescenta sentidos distintos e corretamente empregados nos trechos sinalizados.
+- `pt-BR/translation-journal.md`: “| consilium / concilium | conselho / assembleia | Distinção lexical explicitada no n. 447 e na nota [^22]. |” → “| consilium / concilium | conselho / assembleia | Distinção lexical explicitada no n. 447 e na nota [^22]. “Deliberação” quando consilium designa o ato de ponderar antes da escolha; “deliberar” para consiliari nesse sentido. |” — Registra o sentido deliberativo, distinto do conselho formulado ou comunicado.
+- `pt-BR/translation-journal.md`: “| olea / oliva | oliveira / azeitona | No n. 465, conservado *olea* como termo latino discutido; nota [^23]. |” → “| olea / oliva | oliveira / azeitona | No n. 465, conservado *olea* como termo latino discutido; nota [^23]. “Oliveira” também para oliva quando designa a árvore, como nas citações de Oseias e em Isaías 41:19. |” — Oliva também designa a árvore; substituir por “azeitona” nesses contextos seria incorreto.
+- `pt-BR/translation-journal.md`: “| plasta / plastes | modelador | Nos lemas dos capítulos 44–45, com “fabricante” para *factor* na explicação. |” → “| plasta / plastes | modelador | Nos lemas dos capítulos 44–45, com “fabricante” para *factor* na explicação. “Oleiro” quando plastes designa concretamente o trabalhador do barro, em Isaías 41:25 e na explicação correspondente. |” — Registra a designação concreta do ofício, explicitada pelo latim figulus.
+- `pt-BR/translation-journal.md`: “| judicium / justitia | juízo / justiça | “Julgamento” quando se trata mais diretamente do ato de julgar. |” → “| judicium / justitia | juízo / justiça | “Julgamento” quando se trata mais diretamente do ato de julgar. “Causa” quando judicium designa a questão submetida a julgamento, como em Isaías 40:27 e 41:21. |” — Registra o sentido processual corretamente traduzido por “causa”.
+- `pt-BR/translation-journal.md`: “| delubrum | santuário | No n. 1125, a associação com “lavar” é esclarecida na nota [^55]. |” → “| delubrum | santuário | No n. 1125, a associação com “lavar” é esclarecida na nota [^55]. “Templo” nos locais de culto idolátrico ou de prazer mencionados em Isaías 13:22 e 17:8 e na exposição correspondente, conforme a entrada delubra. |” — Harmoniza os usos recorrentes de “templo” com a outra entrada do mesmo substantivo.
+- `pt-BR/isaiah-c04.md` [72]: “pode descobrir para si remédios” → “pode encontrar para si remédios” — Adinvenire → “encontrar” (Key Terms); estava “descobrir”.
+- `pt-BR/isaiah-c04.md` [83]: “diante do terror do Senhor” → “diante do temor do Senhor” — Timor → “temor” (Key Terms); estava “terror”.
+- `pt-BR/isaiah-c04.md` [88]: “toda muralha fortificada” → “todo muro fortificado” — Murus → “muro” (Key Terms); estava “muralha”.
+- `pt-BR/isaiah-c04.md` [105]: “diante do terror do Senhor” → “diante do temor do Senhor” — Timor → “temor” (Key Terms); estava “terror”.
+- `pt-BR/isaiah-c04.md` [126]: “vossos santuários serão destruídos” → “vossos templos serão destruídos” — Delubra → “templos” (Key Terms); estava “santuários”.
+- `pt-BR/isaiah-c05.md` [84]: “que terão no entendimento” → “que terão no intelecto” — Intellectus como potência → “intelecto” (Key Terms).
+- `pt-BR/isaiah-c05.md` [196]: “quanto ao entendimento” → “quanto ao intelecto” — Intellectus como potência → “intelecto” (Key Terms).
+- `pt-BR/isaiah-c06.md` [32]: “sob a imagem da nuvem” → “pela comparação com a nuvem” — Similitudo literária → “comparação” (Key Terms); estava “imagem”.
+- `pt-BR/isaiah-c06.md` [33]: “sob a imagem do tabernáculo” → “pela comparação com o tabernáculo” — Similitudo literária → “comparação” (Key Terms); estava “imagem”.
+- `pt-BR/isaiah-c07.md` [37]: “é como um espinheiro” → “é como um paliúro” — Paliurus → “paliúro” (Key Terms); estava “espinheiro”.
+- `pt-BR/isaiah-c08.md` [10]: “à maneira de uma sentença” → “ao modo de uma sentença” — Modus → “modo” (Key Terms); estava “maneira”.
+- `pt-BR/isaiah-c09.md` [23]: “***Oráculo contra Damasco***” → “***Fardo de Damasco***” — Onus → “fardo”, também nos títulos dos oráculos (Key Terms).
+- `pt-BR/isaiah-c09.md` [24]: “***Oráculo do deserto do mar***” → “***Fardo do deserto do mar***” — Onus → “fardo”, também nos títulos dos oráculos (Key Terms).
+- `pt-BR/isaiah-c09.md` [44]: “por medo dos inimigos” → “por temor dos inimigos” — Timor → “temor” (Key Terms); estava “medo”.
+- `pt-BR/isaiah-c09.md` [101]: “à maneira dos outros” → “ao modo dos outros” — Modus → “modo” (Key Terms); estava “maneira”.
+- `pt-BR/isaiah-c10.md` [6]: “ao castigo delas” → “à pena delas” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c10.md` [53]: “quanto à inteligência” → “quanto ao intelecto” — Intellectus como potência → “intelecto” (Key Terms).
+- `pt-BR/isaiah-c10.md` [62]: “tomai uma decisão, e ela será desfeita” → “tomai conselho, e ele será desfeito” — Consilium → “conselho”; “decisão” antecipa a escolha, que o comentário distingue do conselho. *(meaning)*
+- `pt-BR/isaiah-c11.md` [59]: “terceiro, como sentinela” → “terceiro, como vigia” — Speculator → “vigia” (Key Terms); estava “sentinela”.
+- `pt-BR/isaiah-c11.md` [59]: “dei como sentinela à casa” → “dei como vigia à casa” — Speculator → “vigia” (Key Terms); estava “sentinela”.
+- `pt-BR/isaiah-c13.md` [21]: “um rebento justo” → “um broto justo” — Germen → “broto” (Key Terms); estava “rebento”.
+- `pt-BR/isaiah-c15.md` [32]: “a aflição do castigo” → “a aflição da pena” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c15.md` [47]: “a aflição do castigo” → “a aflição da pena” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c15.md` [57]: “o castigo dos aflitos” → “a pena dos aflitos” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c15.md` [58]: “a grandeza do castigo” → “a grandeza da pena” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c15.md` [58]: “quanto ao prazer no castigo” → “quanto ao prazer na pena” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c15.md` [59]: “ordenando o castigo contra a culpa” → “ordenando a pena contra a culpa” — Poena → “pena” (Key Terms); preserva o par culpa/pena.
+- `pt-BR/isaiah-c15.md` [76]: “as do castigo presente” → “as da pena presente” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c16.md` [23]: “o rebento e a descendência” → “o broto e a descendência” — Germen → “broto” (Key Terms); estava “rebento”.
+- `pt-BR/isaiah-c16.md` [27]: “Este é o desígnio que concebi” → “Este é o conselho que concebi” — Consilium → “conselho” (Key Terms); estava “desígnio”.
+- `pt-BR/isaiah-c16.md` [53]: “à culpa e ao castigo” → “à culpa e à pena” — Poena → “pena” (Key Terms); preserva o par culpa/pena.
+- `pt-BR/isaiah-c16.md` [65]: “aos ministros dos castigos” → “aos ministros das penas” — Poenae → “penas” (Key Terms); estava “castigos”.
+- `pt-BR/isaiah-c16.md` [69]: “o castigo que encontrou” → “a pena que encontrou” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c16.md` [69]: “todos os castigos do inferno” → “todas as penas do inferno” — Poenae → “penas” (Key Terms); estava “castigos”.
+- `pt-BR/isaiah-c16.md` [77]: “aos castigos mais duros” → “às penas mais duras” — Poenae → “penas” (Key Terms); estava “castigos”.
+- `pt-BR/isaiah-c16.md` [79]: “nos castigos ***se inclinarão” → “nas penas ***se inclinarão” — Poenae → “penas” (Key Terms); estava “castigos”.
+- `pt-BR/isaiah-c16.md` [84]: “ministro do castigo e instigador da culpa” → “ministro da pena e instigador da culpa” — Poena → “pena” (Key Terms); preserva o par culpa/pena.
+- `pt-BR/isaiah-c16.md` [106]: “o fruto do castigo” → “o fruto da pena” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c16.md` [107]: “Este é o desígnio que concebi” → “Este é o conselho que concebi” — Consilium → “conselho” (Key Terms); estava “desígnio”.
+- `pt-BR/isaiah-c16.md` [107]: “fruto do castigo em todas” → “fruto da pena em todas” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c16.md` [119]: “o aumento do castigo” → “o aumento da pena” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c16.md` [120]: “o efeito do castigo” → “o efeito da pena” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c17.md` [3]: “aos lugares altos para lamentar” → “aos lugares altos para o pranto” — Planctus → “pranto” (Key Terms); estava parafraseado por “lamentar”.
+- `pt-BR/isaiah-c17.md` [18]: “a grandeza do castigo” → “a grandeza da pena” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c17.md` [19]: “o modo e a ordem do castigo” → “o modo e a ordem da pena” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c17.md` [26]: “a grandeza do castigo” → “a grandeza da pena” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c17.md` [42]: “a grandeza do castigo” → “a grandeza da pena” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c17.md` [43]: “o modo e a ordem do castigo” → “o modo e a ordem da pena” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c17.md` [47]: “a razão da grandeza do castigo” → “a razão da grandeza da pena” — Poena → “pena” (Key Terms); o outro “castigo” traduz visitatio e fica mantido.
+- `pt-BR/isaiah-c17.md` [48]: “***acréscimos*** de castigos” → “***acréscimos*** de penas” — Poenae → “penas” (Key Terms); estava “castigos”.
+- `pt-BR/isaiah-c18.md` [16]: “a condição do castigo” → “a condição da pena” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c18.md` [19]: “A equidade do castigo” → “A equidade da pena” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c18.md` [24]: “o castigo dos que desprezam” → “a pena dos que desprezam” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c18.md` [26]: “ordena o castigo contra o desprezo” → “ordena a pena contra o desprezo” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c18.md` [29]: “o castigo dos que desprezam” → “a pena dos que desprezam” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c18.md` [36]: “por medo deles” → “por temor deles” — Timor → “temor” (Key Terms); estava “medo”.
+- `pt-BR/isaiah-c18.md` [58]: “o castigo dos que desprezam” → “a pena dos que desprezam” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c18.md` [60]: “o modo do castigo” → “o modo da pena” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c18.md` [61]: “que anunciem o castigo” → “que anunciem a pena” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c18.md` [62]: “a descrição do castigo” → “a descrição da pena” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c18.md` [66]: “um som de lamento” → “um som de pranto” — Planctus → “pranto” (Key Terms); estava “lamento”.
+- `pt-BR/isaiah-c18.md` [67]: “quando estavam com medo” → “quando estavam com temor” — Timor → “temor” (Key Terms); estava “medo”.
+- `pt-BR/isaiah-c19.md` [11]: “semearás um rebento alheio” → “semearás um broto alheio” — Germen → “broto” (Key Terms); estava “rebento”.
+- `pt-BR/isaiah-c19.md` [12]: “haverá uva brava” → “haverá uva silvestre” — Labrusca → “uva silvestre” (Key Terms), no singular do original.
+- `pt-BR/isaiah-c19.md` [37]: “ameaça o castigo” → “ameaça a pena” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c19.md` [38]: “o fruto do castigo” → “o fruto da pena” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c19.md` [39]: “Ameaça o castigo nos homens” → “Ameaça a pena nos homens” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c19.md` [49]: “o fruto do castigo” → “o fruto da pena” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c19.md` [54]: “***Um rebento alheio***” → “***Um broto alheio***” — Germen → “broto” (Key Terms); estava “rebento”.
+- `pt-BR/isaiah-c21.md` [4]: “seus pitões” → “seus pítons” — Python → “píton” (Key Terms); conserva o plural da forma adotada.
+- `pt-BR/isaiah-c21.md` [35]: “consultai os pitões” → “consultai os pítons” — Python → “píton” (Key Terms); conserva o plural da forma adotada.
+- `pt-BR/isaiah-c21.md` [74]: “à maneira de quem sofre de vertigem” → “ao modo de quem sofre de vertigem” — Modus → “modo” (Key Terms); estava “maneira”.
+- `pt-BR/isaiah-c22.md` [22]: “a vergonha: ***E ficarão envergonhados***” → “a confusão: ***E ficarão confundidos***” — Confusio/confundi → “confusão/confundidos”; preserva a distinção de erubescentia.
+- `pt-BR/isaiah-c22.md` [24]: “se exprime a vergonha” → “se exprime a confusão” — Confusio → “confusão” (Key Terms); estava “vergonha”.
+- `pt-BR/isaiah-c22.md` [25]: “motivo de vergonha” → “motivo de confusão” — Confusio → “confusão” (Key Terms); estava “vergonha”.
+- `pt-BR/isaiah-c23.md` [34]: “como castigo da crueldade” → “como pena da crueldade” — Poena → “pena” (Key Terms); estava “castigo”.
+- `pt-BR/isaiah-c23.md` [39]: “quanto ao entendimento atônito” → “quanto ao intelecto atônito” — Intellectus como potência → “intelecto” (Key Terms).
+- `pt-BR/isaiah-c24.md` [74]: “à maneira de uma galinha” → “ao modo de uma galinha” — Modus → “modo” (Key Terms); estava “maneira”.
+- `pt-BR/isaiah-c24.md` [75]: “Segundo, a da vergonha” → “Segundo, a da confusão” — Confusio → “confusão” (Key Terms); estava “vergonha”.
+- `pt-BR/isaiah-c24.md` [75]: “convertido em tua vergonha” → “convertido em tua confusão” — Confusio → “confusão” (Key Terms); estava “vergonha”.
+- `pt-BR/isaiah-c25.md` [33]: “a vergonha dos vizinhos” → “a confusão dos vizinhos” — Confusio → “confusão” (Key Terms); estava “vergonha”.
+- `pt-BR/isaiah-c26.md` [25]: “Este é o desígnio que concebi” → “Este é o conselho que concebi” — Consilium → “conselho” (Key Terms); estava “desígnio”.
+- `pt-BR/isaiah-c26.md` [60]: “por medo, fogem” → “por temor, fogem” — Timor → “temor” (Key Terms); estava “medo”.
+- `pt-BR/isaiah-c27.md` [41]: “A ignomínia da vergonha” → “A ignomínia da confusão” — Confusio → “confusão” (Key Terms); estava “vergonha”.
+- `pt-BR/isaiah-c29.md` [10]: “nem os santuários” → “nem os templos” — Delubra → “templos” (Key Terms); estava “santuários”.
+- `pt-BR/isaiah-c29.md` [37]: “repousará sem medo” → “repousará sem temor” — Timor → “temor” (Key Terms); estava “medo”.
+- `pt-BR/isaiah-c30.md` [30]: “tornar admirável seu desígnio” → “tornar admirável seu conselho” — Consilium → “conselho” (Key Terms); estava “desígnio”.
+- `pt-BR/isaiah-c31.md` [15]: “a inteligência de seus prudentes” → “o intelecto de seus prudentes” — Intellectus como potência → “intelecto” (Key Terms).
+- `pt-BR/isaiah-c31.md` [77]: “que ficará envergonhado***, com uma boa vergonha” → “que ficará confundido***, com uma boa confusão” — Confundi/confusio → “confundido/confusão” (Key Terms).
+- `pt-BR/isaiah-c31.md` [77]: “Há uma vergonha que conduz” → “Há uma confusão que conduz” — Confusio → “confusão” (Key Terms); estava “vergonha”.
+- `pt-BR/isaiah-c32.md` [7]: “Oráculo de peso sobre os animais de carga do sul” → “Fardo dos animais de carga do sul” — Onus → “fardo”, também nos títulos dos oráculos (Key Terms).
+- `pt-BR/isaiah-c32.md` [49]: “***Todos ficaram envergonhados***” → “***Todos ficaram confundidos***” — Confundi → “ser confundido”, preservando o vínculo com confusio.
+- `pt-BR/isaiah-c32.md` [50]: “***Oráculo de peso sobre os animais de carga***” → “***Fardo dos animais de carga***” — Onus → “fardo” (Key Terms); estava “oráculo de peso”.
+- `pt-BR/isaiah-c32.md` [51]: “***Oráculo de peso***, sobre os filhos de Judá” → “***Fardo*** dos filhos de Judá” — Onus → “fardo” (Key Terms); filiorum Juda explica de quem é o fardo.
+- `pt-BR/isaiah-c32.md` [74]: “do entendimento presunçoso” → “do intelecto presunçoso” — Intellectus como potência → “intelecto” (Key Terms).
+- `pt-BR/isaiah-c34.md` [23]: “em forma de profecia” → “ao modo de profecia” — Modus de apresentação → “modo” (Key Terms); estava “forma”.
+- `pt-BR/isaiah-c34.md` [24]: “em forma de história” → “ao modo de história” — Modus de apresentação → “modo” (Key Terms); estava “forma”.
+- `pt-BR/isaiah-c35.md` [10]: “o Líbano foi envergonhado” → “o Líbano foi confundido” — Confundi → “ser confundido”, preservando o vínculo com confusio.
+- `pt-BR/isaiah-c38.md` [12]: “sobre a muralha” → “sobre o muro” — Murus → “muro” (Key Terms); estava “muralha”.
+- `pt-BR/isaiah-c38.md` [24]: “em forma de história” → “ao modo de história” — Modus de apresentação → “modo” (Key Terms); estava “forma”.
+- `pt-BR/isaiah-c39.md` [43]: “os planos concebidos” → “os conselhos concebidos” — Consilia → “conselhos” (Key Terms); estava “planos”.
+- `pt-BR/isaiah-c45.md` [45]: “à maneira de um julgamento” → “ao modo de um julgamento” — Modus → “modo” (Key Terms); estava “maneira”.
+- `pt-BR/isaiah-c45.md` [68]: “mostra a culpa deles” → “mostra a culpabilidade deles” — Reatus → “culpabilidade” (Key Terms); “culpa” apaga a distinção expressamente adotada. *(meaning)*
+- `pt-BR/isaiah-c46.md` [27]: “cumpre o desígnio de seus mensageiros” → “cumpre o conselho de seus mensageiros” — Consilium → “conselho” (Key Terms); estava “desígnio”.
+- `pt-BR/isaiah-c46.md` [73]: “***Oráculo do deserto do mar***” → “***Fardo do deserto do mar***” — Onus → “fardo”, também nos títulos dos oráculos (Key Terms).
+- `pt-BR/isaiah-c47.md` [33]: “Que documento é este” → “Que carta de repúdio é esta” — Libellus, na referência a Isaías 50:1, → “carta de repúdio” (Key Terms).
+- `pt-BR/isaiah-c47.md` [85]: “ordena aos judeus que chamem os gentios” → “incumbe os judeus da vocação dos gentios” — Gentium vocatio → “vocação dos gentios” (Key Terms); estava parafraseado.
+- `pt-BR/isaiah-c48.md` [11]: “Meu desígnio permanecerá” → “Meu conselho permanecerá” — Consilium → “conselho” (Key Terms); estava “desígnio”.
+- `pt-BR/isaiah-c48.md` [28]: “Seu desígnio, como fonte de vida” → “Seu conselho, como fonte de vida” — Consilium → “conselho” (Key Terms); estava “desígnio”.
+- `pt-BR/isaiah-c48.md` [36]: “pela vergonha ao recordá-lo” → “pela confusão ao recordá-lo” — Confusio → “confusão” (Key Terms); estava “vergonha”.
+- `pt-BR/isaiah-c49.md` [14]: “os adivinhos do céu” → “os áugures do céu” — Augures → “áugures” (Key Terms); estava “adivinhos”.
+- `pt-BR/isaiah-c51.md` [29]: “o povo reconhece os benefícios recebidos” → “o povo confessa os benefícios recebidos” — Confiteri → “confessar”; ambas as entradas preservam sua amplitude de ação de graças.
+- `pt-BR/isaiah-c51.md` [31]: “reconhecem quatro benefícios” → “confessam quatro benefícios” — Confiteri → “confessar”; ambas as entradas preservam sua amplitude de ação de graças.
+- `pt-BR/isaiah-c52.md` [42]: “pelo medo ou pela vergonha” → “pelo temor ou pela vergonha” — Timor → “temor” (Key Terms); estava “medo”.
+- `pt-BR/isaiah-c53.md` [70]: “a zombaria contra o inimigo” → “o escárnio contra o inimigo” — Insultatio → “escárnio” (Key Terms); estava “zombaria”.
+- `pt-BR/isaiah-c54.md` [60]: “O rebento do Senhor” → “O broto do Senhor” — Germen → “broto” (Key Terms); estava “rebento”.
+
+### Part terms 1 of 2, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 5 minor. Delta read das 120 alterações do round 1 e dos parágrafos vizinhos: alterações corretas; corrigidas uma concordância rompida e quatro inconsistências entre versículo e lema (confundidos, muro, pranto).
+- `pt-BR/isaiah-c31.md` [15]: “o intelecto de seus prudentes ficará oculta”” → “o intelecto de seus prudentes ficará oculto”” — intellectus … abscondetur; após a troca de “inteligência” por “intelecto”, o particípio deve concordar no masculino
+- `pt-BR/isaiah-c32.md` [6]: “Todos ficaram envergonhados por causa” → “Todos ficaram confundidos por causa” — omnes confusi sunt; o lema no n. 669 foi alinhado para “confundidos”, e o versículo deve acompanhar (confusio → confusão)
+- `pt-BR/isaiah-c26.md` [24]: “o sol ficará envergonhado” → “o sol ficará confundido” — confundetur sol; o par erubescet/confundetur segue a distinção confusão/vergonha do glossário
+- `pt-BR/isaiah-c38.md` [13]: “sentados na muralha” → “sentados no muro” — in muro; o versículo anterior foi corrigido para “muro” (murus → muro)
+- `pt-BR/isaiah-c17.md` [27]: “***para lamentar***, isto é, para chorar” → “***para o pranto***, isto é, para chorar” — lema in planctum; o versículo 15:2 foi corrigido para “para o pranto” e o lema deve coincidir com ele
+- Rejected: pt-BR/isaiah-c19.md [49] — “***templos***, templos” repete a palavra — reproduz o lema delubra glosado por templa; a nota [^24] explica a relação
+- Rejected: pt-BR/isaiah-c47.md [85] — “incumbe os judeus da vocação” como regência duvidosa — incumbir alguém de algo é regência correta e corresponde a injungit Judaeis gentium vocationem
+- Rejected: pt-BR/isaiah-c22.md [21] — “Terão medo” para timebunt ao lado de “o temor” — a forma verbal é aceitável; o substantivo segue o glossário
+
+### Part terms 1 of 2, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as cinco alterações e lidos integralmente os 15 parágrafos exibidos e as quatro notas do tradutor; nenhum defeito adicional encontrado.
+- Rejected: pt-BR/isaiah-c17.md [28] — Quantidade de marcadores de ênfase diferente da fonte. — A fonte mistura os delimitadores da citação e do lema seguinte; a tradução regulariza as fronteiras e preserva os trechos destacados.
+- Rejected: pt-BR/isaiah-c31.md [14–15] — Aspas desbalanceadas em cada parágrafo. — A fala começa no versículo 29:13 e termina no versículo 29:14; as aspas estão equilibradas no conjunto.
+
+### Part terms 2 of 2, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 15 minor. Lidas 51 sinalizações em 50 parágrafos; encontrados 12 desvios e feitas 3 complementações de linhas do glossário.
+- `pt-BR/isaiah-c56.md` [24]: “à maneira de um cavalo” → “ao modo de um cavalo” — *modus* → “modo” (Key Terms); estava “maneira”.
+- `pt-BR/isaiah-c60.md` [17]: “sem o abatimento do medo” → “sem o abatimento do temor” — *timor* → “temor” (Key Terms); estava “medo”.
+- `pt-BR/isaiah-c61.md` [48]: “a dificuldade das deliberações” → “a dificuldade dos conselhos” — *consilium* → “conselho” (Key Terms); estava “deliberações”.
+- `pt-BR/isaiah-c62.md` [22]: “rebento da minha plantação” → “broto da minha plantação” — *germen* → “broto” (Key Terms); estava “rebento”.
+- `pt-BR/isaiah-c62.md` [41]: “carregam o peso das riquezas” → “carregam o fardo das riquezas” — *onus* → “fardo” (Key Terms); estava “peso”, reservado a *pondus*.
+- `pt-BR/isaiah-c63.md` [10]: “e seus rebentos, no meio dos povos” → “e seus brotos, no meio dos povos” — *germen* → “broto” (Key Terms); estava “rebentos”.
+- `pt-BR/isaiah-c63.md` [11]: “ornada com suas joias” → “ornada com seus adornos peitorais” — *monilia* → “adornos peitorais” (Key Terms); estava “joias”.
+- `pt-BR/isaiah-c63.md` [12]: “a terra produz seu rebento” → “a terra produz seu broto” — *germen* → “broto” (Key Terms); estava “rebento”.
+- `pt-BR/isaiah-c65.md` [45]: “tinge à maneira do sangue” → “tinge do mesmo modo que o sangue” — *modus* → “modo” (Key Terms); estava “maneira”.
+- `pt-BR/isaiah-c67.md` [5]: “nos santuários dos ídolos” → “nos templos dos ídolos” — *delubra* → “templos” (Key Terms); estava “santuários”.
+- `pt-BR/isaiah-c67.md` [70]: “Esquecerás a vergonha de tua juventude” → “Esquecerás a confusão de tua juventude” — *confusio* → “confusão” (Key Terms); estava “vergonha”, reservado a *erubescentia*.
+- `pt-BR/isaiah-c68.md` [81]: “termina a doutrina e a exposição literal” → “termina o pensamento e a exposição literal” — *sententia* → “pensamento” para o conteúdo expresso (Key Terms); estava “doutrina”.
+- `pt-BR/translation-journal.md`: “| calculus / forceps / carbunculus | pedra em brasa / tenaz / carbúnculo | Preservada a pedra do latim, conforme o precedente de *Super Ephesios*; o contexto explicita seu aquecimento. |” → “| calculus / forceps / carbunculus | pedra em brasa / tenaz / carbúnculo | Preservada a pedra do latim, conforme o precedente de *Super Ephesios*; o contexto explicita seu aquecimento. “Pedrinha” nas citações de Apocalipse 2:17, onde não se trata de uma pedra aquecida. |” — As duas ocorrências citam a pedrinha de Apocalipse 2:17; acrescenta-se esse sentido, distinto da pedra em brasa de Isaías 6.
+- `pt-BR/translation-journal.md`: “| habitus / beatitudo / fructus | hábito / bem-aventurança / fruto | Distinções técnicas desenvolvidas nos nn. 360–363; “hábito” segue as obras irmãs de Tomás. |” → “| habitus / beatitudo / fructus | hábito / bem-aventurança / fruto | Distinções técnicas desenvolvidas nos nn. 360–363; “hábito” segue as obras irmãs de Tomás. “Veste” quando *habitus* designa o vestuário, inclusive figuradamente. |” — As ocorrências sobre a veste de Cristo empregam corretamente o sentido de vestuário, distinto do hábito técnico.
+- `pt-BR/translation-journal.md`: “| modus / materia / sententia | modo / matéria / pensamento | “Pensamento” para o conteúdo expresso por palavras e orações. |” → “| modus / materia / sententia | modo / matéria / pensamento | “Pensamento” para o conteúdo expresso por palavras e orações. “Sentença” quando *sententia* designa uma decisão judicial; “sentenciar” para o verbo correspondente. |” — As ocorrências relativas ao julgamento divino usam corretamente “sentença” e “sentenciar”; acrescenta-se esse sentido judicial.
+
+### Part terms 2 of 2, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Checked the 12 text changes and 3 journal changes of round 1, with their neighbouring paragraphs. Ten changes are correct; two (c61 [48], c67 [5]) contradicted more specific Key Terms rows and are reverted.
+- `pt-BR/isaiah-c61.md` [48]: “e a dificuldade dos conselhos: ***Apalpamos***” → “e a dificuldade das deliberações: ***Apalpamos***” — consiliorum difficultatem is glossed by quasi nescientes quid facere, the act of pondering before a choice. The consilium/concilium row of Key Terms prescribes “deliberação” for this sense, so the earlier rendering followed the table and the change broke it.
+- `pt-BR/isaiah-c67.md` [5]: “dorme nos templos dos ídolos” → “dorme nos santuários dos ídolos” — Key Terms row delubrum sets “santuário” for the verse explained in n. 1125, and note [^55] glosses delubrum as “santuário”. “Templo” is limited there to Isaías 13:22 and 17:8, so “templos” here breaks the link between verse 65:4 and its etymological explanation.
+- Rejected: pt-BR/isaiah-c68.md [81] — “termina o pensamento” for sententia in the colophon, where sententia means the commentary itself — Defensible under the Key Terms row; the previous “doutrina” was no more exact. A style choice, not an objective defect.
+- Rejected: pt-BR/isaiah-c63.md [10] — plural “brotos” for singular germen — Collective sense; the earlier rendering was also plural, and the meaning is unchanged.
+- Rejected: journal, row evangelizare — audit reports “anunciar a boa-nova” ×0 — Inflected forms occur, e.g. “tu que anuncias a boa-nova” in isaiah-c60 [17]. The count is an artifact of exact-string matching.
+
+### Part terms 2 of 2, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos os seis parágrafos apresentados e a nota [^55]; as duas alterações estão corretas e não foram encontrados novos defeitos. A sinalização de ênfase em c61 [36] não pôde ser conferida, pois o parágrafo não foi apresentado.

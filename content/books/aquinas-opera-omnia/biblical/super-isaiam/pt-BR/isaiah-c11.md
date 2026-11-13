@@ -114,7 +114,7 @@ primeiro, como irmão. Cântico dos Cânticos 8:1: *Quem me dera que fosses meu 
 
 segundo, como mestre. Joel 2:23: *Filhos de Sião, exultai e alegrai-vos no Senhor vosso Deus, porque vos deu o mestre da justiça*;
 
-terceiro, como sentinela. Ezequiel 3: *Filho do homem, eu te dei como sentinela à casa de Israel*;
+terceiro, como vigia. Ezequiel 3: *Filho do homem, eu te dei como vigia à casa de Israel*;
 
 quarto, como defensor. Isaías 19:20: ***Enviar-lhes-á um salvador e defensor que os liberte***;
 

@@ -86,7 +86,7 @@ terceiro, promulga o preceito da libertação: ***Faze sair***, ó Ciro, ***para
 
 **834.** ***Todas as nações***. Aqui exclui que alguém compartilhe a divindade.
 
-Primeiro, mostra a falsidade dos outros deuses à maneira de um julgamento, apresentando o consenso das nações na idolatria: ***Reuniram-se*** num único erro. Salmo: *Todos se desviaram* etc. Pede um sinal da divindade: ***Quem dentre vós***, isto é, qual dos vossos deuses; ou fala aos ídolos e pede testemunho: ***Apresentem testemunhas e sejam justificados***, isto é, sejam justamente chamados deuses, e as testemunhas ***ouçam*** deles as coisas futuras ***e digam*** um testemunho a vosso favor. Acima, em 41: ***Não há quem anuncie nem quem prediga*** etc.
+Primeiro, mostra a falsidade dos outros deuses ao modo de um julgamento, apresentando o consenso das nações na idolatria: ***Reuniram-se*** num único erro. Salmo: *Todos se desviaram* etc. Pede um sinal da divindade: ***Quem dentre vós***, isto é, qual dos vossos deuses; ou fala aos ídolos e pede testemunho: ***Apresentem testemunhas e sejam justificados***, isto é, sejam justamente chamados deuses, e as testemunhas ***ouçam*** deles as coisas futuras ***e digam*** um testemunho a vosso favor. Acima, em 41: ***Não há quem anuncie nem quem prediga*** etc.
 
 Segundo, mostra a verdade de sua divindade,
 
@@ -132,7 +132,7 @@ Quanto ao primeiro ponto, faz três coisas.
 
 Primeiro, exclui o mérito: ***Não me invocaste***; e tudo isso se diz porque não ofereciam essas coisas a Deus de todo o coração, mas em parte a Deus, em parte aos ídolos; ou porque nada acrescentavam a Deus; ou porque o faziam na esperança de uma retribuição temporal; ou porque, depois da vinda de Cristo, não foram aceitas. Malaquias 3: *Quem há entre vós que feche as portas* etc.; Salmo: *Acaso comerei* etc.
 
-Segundo, mostra a culpa deles: ***Contudo, fizeste servir***, como se dissesse: apresentastes-me como um servo, pois me ofendíeis e eu não vos punia. Acima, em 1: ***Tornaram-se um peso para mim*** etc.; fala à maneira humana.
+Segundo, mostra a culpabilidade deles: ***Contudo, fizeste servir***, como se dissesse: apresentastes-me como um servo, pois me ofendíeis e eu não vos punia. Acima, em 1: ***Tornaram-se um peso para mim*** etc.; fala à maneira humana.
 
 Terceiro, mostra o benefício dado gratuitamente: ***Eu sou*** etc. Salmo: *Por causa de vosso nome perdoareis* etc.; Ezequiel 36: *Não é por vós que eu farei* etc.
 

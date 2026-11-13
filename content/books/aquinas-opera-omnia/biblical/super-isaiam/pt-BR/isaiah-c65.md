@@ -90,7 +90,7 @@ quarto, porque está revestido da honestidade da conduta. Jó 40:5: *Sê glorios
 
 **1101.** ***Por que, então, é vermelha?*** Aqui apresenta a segunda pergunta, sobre a veste.
 
-E primeiro, apresenta a pergunta: ***Por que, então?***, como se dissesse: marcas de sangue desse tipo costumam ser trazidas pelos iníquos, e não pelos justos; pelos que matam, e não pelos salvadores; ***como as dos que pisam***: pois há vinho tinto naquelas regiões, que tinge à maneira do sangue. Zacarias 3:3: *Estava vestido*.
+E primeiro, apresenta a pergunta: ***Por que, então?***, como se dissesse: marcas de sangue desse tipo costumam ser trazidas pelos iníquos, e não pelos justos; pelos que matam, e não pelos salvadores; ***como as dos que pisam***: pois há vinho tinto naquelas regiões, que tinge do mesmo modo que o sangue. Zacarias 3:3: *Estava vestido*.
 
 Segundo, apresenta a resposta: ***O lagar***.
 

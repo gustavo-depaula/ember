@@ -16,11 +16,11 @@
 
 > ^61:8^ Porque eu sou o Senhor, que amo o juízo e odeio a rapina oferecida em holocausto; e lhes darei sua obra em verdade e firmarei com eles uma aliança perpétua.
 
-> ^61:9^ E sua descendência será conhecida entre as nações, e seus rebentos, no meio dos povos; todos os que os virem os reconhecerão, porque estes são a descendência que o Senhor abençoou.
+> ^61:9^ E sua descendência será conhecida entre as nações, e seus brotos, no meio dos povos; todos os que os virem os reconhecerão, porque estes são a descendência que o Senhor abençoou.
 
-> ^61:10^ Com alegria me alegrarei no Senhor, e minha alma exultará em meu Deus, porque me revestiu com as vestes da salvação e me envolveu com o traje da justiça, como um esposo adornado com uma coroa e como uma esposa ornada com suas joias.
+> ^61:10^ Com alegria me alegrarei no Senhor, e minha alma exultará em meu Deus, porque me revestiu com as vestes da salvação e me envolveu com o traje da justiça, como um esposo adornado com uma coroa e como uma esposa ornada com seus adornos peitorais.
 
-> ^61:11^ Pois, assim como a terra produz seu rebento e como o jardim faz germinar sua semente, assim o Senhor Deus fará germinar a justiça e o louvor diante de todas as nações.
+> ^61:11^ Pois, assim como a terra produz seu broto e como o jardim faz germinar sua semente, assim o Senhor Deus fará germinar a justiça e o louvor diante de todas as nações.
 
 > **1073.** ***O espírito do Senhor está sobre***. Aqui promete alegria ao povo. E divide-se em duas partes:
 

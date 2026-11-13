@@ -4,7 +4,7 @@
 
 > ^19:2^ Farei os egípcios se lançarem contra os egípcios; o homem combaterá contra seu irmão, e o homem contra seu amigo, cidade contra cidade, reino contra reino.
 
-> ^19:3^ O espírito do Egito será despedaçado em suas entranhas, e precipitarei seu conselho; consultarão seus ídolos, seus adivinhos, seus pitões e seus agoureiros.
+> ^19:3^ O espírito do Egito será despedaçado em suas entranhas, e precipitarei seu conselho; consultarão seus ídolos, seus adivinhos, seus pítons e seus agoureiros.
 
 > ^19:4^ Entregarei o Egito nas mãos de senhores cruéis, e um rei forte os dominará, diz o Senhor Deus dos exércitos.
 
@@ -66,7 +66,7 @@ Primeiro, quanto à disposição dos inimigos: ***Subirá***, por sua inspiraç�
 
 **487.** Terceiro, quanto à dissensão dos que resistem — quanto ao confronto exterior —: ***Farei se lançarem***, quanto aos estranhos: ***Os egípcios***; quanto aos parentes de sangue: ***O homem combaterá***; quanto aos conhecidos e amigos: ***E o homem contra seu amigo***; quanto aos diversos povos: ***Cidade***. Apresenta a diversidade das vontades: ***Será despedaçado***, isto é, dividido, ***o espírito***, isto é, a vontade, ***em suas entranhas***, isto é, nos habitantes da terra. Mateus 12:25: *Todo reino dividido contra si mesmo ficará desolado*.
 
-**488.** Quarto, quanto ao erro dos homens que dão conselho: ***E seu conselho***. Jó 5:13: *Apanha os sábios em sua astúcia e dissipa o conselho dos perversos*; e dos demônios: ***Consultarão*** em vão. Acima, em Isaías 8:19: ***E quando vos disserem: consultai os pitões e os adivinhos que estridem em seus encantamentos***, etc.
+**488.** Quarto, quanto ao erro dos homens que dão conselho: ***E seu conselho***. Jó 5:13: *Apanha os sábios em sua astúcia e dissipa o conselho dos perversos*; e dos demônios: ***Consultarão*** em vão. Acima, em Isaías 8:19: ***E quando vos disserem: consultai os pítons e os adivinhos que estridem em seus encantamentos***, etc.
 
 **489.** Nota, sobre aquelas palavras, ***sobre uma nuvem***, que há várias espécies de nuvem:
 
@@ -144,7 +144,7 @@ segundo, a resposta: ***Insensatos, definharam***, isto é, desfaleceram, como a
 
 Primeiro, apresenta o engano dos sábios: ***Enganaram o ângulo***, isto é, o reino, no qual muitos se unem como paredes num ângulo. Abaixo, em Isaías 47:10: ***Tua sabedoria e tua ciência te enganaram***.
 
-Segundo, a permissão de Deus: ***O Senhor misturou***, expressão frequentemente usada em sentido metafórico, ***um espírito de vertigem***, isto é, de erro, à maneira de quem sofre de vertigem. 1 Reis, último capítulo: *O Senhor pôs um espírito de mentira na boca de todos os teus profetas*.
+Segundo, a permissão de Deus: ***O Senhor misturou***, expressão frequentemente usada em sentido metafórico, ***um espírito de vertigem***, isto é, de erro, ao modo de quem sofre de vertigem. 1 Reis, último capítulo: *O Senhor pôs um espírito de mentira na boca de todos os teus profetas*.
 
 Terceiro, o erro do próprio povo: ***Fizeram errar***. ***Cabeça***, isto é, nem quanto ao princípio; ***cauda***, nem quanto ao fim; ***quem se curva***, quanto ao ancião; ***quem refreia***, quanto ao jovem, que precisa ser refreado, ou ao lascivo. 2 Timóteo 3:13: *Os homens maus e os sedutores irão de mal a pior*.
 

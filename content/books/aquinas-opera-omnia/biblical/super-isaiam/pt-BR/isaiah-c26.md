@@ -44,9 +44,9 @@
 
 > ^24:22^ E serão reunidos num só feixe na cova, ali serão encerrados na prisão e, depois de muitos dias, serão visitados.
 
-> ^24:23^ E a lua enrubescerá e o sol ficará envergonhado, quando o Senhor dos exércitos reinar no monte Sião e em Jerusalém e for glorificado diante de seus anciãos.
+> ^24:23^ E a lua enrubescerá e o sol ficará confundido, quando o Senhor dos exércitos reinar no monte Sião e em Jerusalém e for glorificado diante de seus anciãos.
 
-> **565.** ***Eis que o Senhor***. Nesta parte, ameaça com a destruição de toda a terra, seja a que ocorreu em cada reino e nas diversas regiões, seja a que acontecerá no dia do juízo, conforme foi dito acima, em Isaías 14:26: ***Este é o desígnio que concebi***; embora alguns exponham isso a respeito da terra dos judeus, da terra de Babilônia ou da terra dos idumeus. Divide-se em duas partes:
+> **565.** ***Eis que o Senhor***. Nesta parte, ameaça com a destruição de toda a terra, seja a que ocorreu em cada reino e nas diversas regiões, seja a que acontecerá no dia do juízo, conforme foi dito acima, em Isaías 14:26: ***Este é o conselho que concebi***; embora alguns exponham isso a respeito da terra dos judeus, da terra de Babilônia ou da terra dos idumeus. Divide-se em duas partes:
 
 primeiro, ameaça os habitantes da terra;
 
@@ -116,7 +116,7 @@ Primeiro, censura a diversidade dos pecados: ***Prevaricadores*** por omissão, 
 
 Segundo, ameaça com a multidão dos perigos.
 
-E, primeiro, apresenta essa multidão: ***Terror***. Fala à semelhança dos que, por medo, fogem de seus perseguidores. Acima, em Isaías 8:15: ***Cairão e serão enredados***. Jeremias 3: *Voz de terror*.
+E, primeiro, apresenta essa multidão: ***Terror***. Fala à semelhança dos que, por temor, fogem de seus perseguidores. Acima, em Isaías 8:15: ***Cairão e serão enredados***. Jeremias 3: *Voz de terror*.
 
 **576.** Segundo, a impossibilidade de escapar: ***E acontecerá que aquele que fugir***, como se dissesse: cairá em Cila querendo evitar Caríbdis.[^29] Joel 1:4: *O que restou da lagarta, o gafanhoto devorou*. E indica a causa: porque a tribulação lhes virá tanto do céu como da terra, e é isto: ***As comportas***, isto é, canais ocultos pelos quais passa a água. Gênesis 7:11: *As comportas do céu foram abertas*.
 

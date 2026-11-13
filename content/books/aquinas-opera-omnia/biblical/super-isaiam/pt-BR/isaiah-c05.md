@@ -166,7 +166,7 @@ Segundo, pela novidade do pecado; por isso diz: ***Suas invenções são contra 
 
 Terceiro, pela divulgação do pecado; por isso diz: ***O que se reconhece em seu semblante***, e o fato de que fizeram seu pecado conhecido dos outros pelo semblante ***lhes responderá*** como pena, quanto aos gestos; e, quanto ao elogio do pecado, diz: ***E proclamaram seu pecado como Sodoma***, isto é, louvaram-no; Jeremias 2: *Tua fronte tornou-se fronte de prostituta, e não quiseste envergonhar-te*.
 
-**111.** A Glosa explica de outro modo: ***O que se reconhece em seu semblante***, isto é, o conhecimento de seus pecados que terão no entendimento, porque no semblante estão os sentidos, ***lhes responderá***, quando perguntarem por que são punidos.
+**111.** A Glosa explica de outro modo: ***O que se reconhece em seu semblante***, isto é, o conhecimento de seus pecados que terão no intelecto, porque no semblante estão os sentidos, ***lhes responderá***, quando perguntarem por que são punidos.
 
 Ou, de outro modo: ***O que se reconhece em seu semblante***, isto é, o remorso da consciência, ***lhes responderá*** como pena. E, misticamente, isso se refere ao pecado pelo qual, vendo Cristo, não quiseram reconhecê-lo, pecado do qual a consciência os acusará, segundo o que diz a Glosa. E, porque a justiça de Deus não permite que males tão graves fiquem impunes, por isso: ***Ai de sua alma***, não apenas do corpo, ***porque lhes foram retribuídos males***, na presciência de Deus; ou emprega-se o passado pelo futuro.
 
@@ -392,7 +392,7 @@ Pois, segundo isso, parece lícito indagar aos adivinhos sobre o futuro: retirar
 
 Além disso, o mesmo parece decorrer da Glosa, segundo a qual às vezes dizem coisas verdadeiras; ora, a verdade deve ser recebida de qualquer pessoa; portanto, também deles.
 
-Além disso, como os demônios são espelhos claríssimos quanto ao entendimento, como diz Dionísio, parece que, ao menos nas coisas que pertencem ao conhecimento, não é mau receber deles; assim, será lícito dedicar-se às adivinhações, sobretudo porque nenhum conhecimento é um mal, e a adivinhação designa um conhecimento.
+Além disso, como os demônios são espelhos claríssimos quanto ao intelecto, como diz Dionísio, parece que, ao menos nas coisas que pertencem ao conhecimento, não é mau receber deles; assim, será lícito dedicar-se às adivinhações, sobretudo porque nenhum conhecimento é um mal, e a adivinhação designa um conhecimento.
 
 **129.** A isso se deve dizer que a adivinhação, por seu nome, designa a usurpação de um ato divino, sobretudo no conhecimento prévio das coisas futuras que não podem ser conhecidas naturalmente.
 

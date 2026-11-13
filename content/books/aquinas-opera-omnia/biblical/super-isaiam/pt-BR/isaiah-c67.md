@@ -138,7 +138,7 @@ Terceiro, na diferença do nome; e primeiro apresenta qual será o nome dos ímp
 
 **1130.** ***Porque foram entregues ao esquecimento***. Aqui promete as recompensas vistas.
 
-E primeiro, em geral, quanto à remoção dos males: ***Porque foram entregues ao esquecimento***, não por falta de conhecimento, mas porque os bens lhes sucedem; acima, em 54:4: ***Esquecerás a vergonha de tua juventude***; e quanto à restauração dos bens: ***Pois eis que eu crio novos céus***, novos auxílios do céu, ***uma nova terra***, novos benefícios da terra; ou refere-se ao dia do juízo, quando o mundo será renovado para a glória dos santos, Apocalipse 21:4: ***As coisas anteriores passaram***.
+E primeiro, em geral, quanto à remoção dos males: ***Porque foram entregues ao esquecimento***, não por falta de conhecimento, mas porque os bens lhes sucedem; acima, em 54:4: ***Esquecerás a confusão de tua juventude***; e quanto à restauração dos bens: ***Pois eis que eu crio novos céus***, novos auxílios do céu, ***uma nova terra***, novos benefícios da terra; ou refere-se ao dia do juízo, quando o mundo será renovado para a glória dos santos, Apocalipse 21:4: ***As coisas anteriores passaram***.
 
 **1131.** Segundo, em particular: ***Porque eis que eu crio Jerusalém***.
 

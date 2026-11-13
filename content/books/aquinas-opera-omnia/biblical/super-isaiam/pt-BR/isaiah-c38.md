@@ -20,9 +20,9 @@
 
 > ^36:10^ acaso subi agora sem o Senhor contra esta terra, para destruí-la? O Senhor me disse: “Sobe contra esta terra e destrói-a”’”.
 
-> ^36:11^ E Eliacim, Sobna e Joá disseram a Rabsaqué: “Fala aos teus servos em língua síria, pois a entendemos; não nos fales em língua judaica aos ouvidos do povo que está sobre a muralha”.
+> ^36:11^ E Eliacim, Sobna e Joá disseram a Rabsaqué: “Fala aos teus servos em língua síria, pois a entendemos; não nos fales em língua judaica aos ouvidos do povo que está sobre o muro”.
 
-> ^36:12^ E Rabsaqué lhes disse: “Acaso meu senhor me enviou ao teu senhor e a ti para dizer todas estas palavras, e não antes aos homens que estão sentados na muralha, para que comam seus próprios excrementos e bebam a urina de seus pés convosco?”.
+> ^36:12^ E Rabsaqué lhes disse: “Acaso meu senhor me enviou ao teu senhor e a ti para dizer todas estas palavras, e não antes aos homens que estão sentados no muro, para que comam seus próprios excrementos e bebam a urina de seus pés convosco?”.
 
 > ^36:13^ E Rabsaqué se pôs de pé, gritou em alta voz em língua judaica e disse: “Ouvi as palavras do grande rei, o rei dos assírios.
 
@@ -44,7 +44,7 @@
 
 > ^36:22^ E Eliacim, filho de Helcias, que estava à frente da casa, Sobna, o escriba, e Joá, filho de Asaf, o cronista, entraram na presença de Ezequias com as vestes rasgadas e lhe anunciaram as palavras de Rabsaqué.
 
-> **750.** ***E aconteceu, no ano*** etc. Aqui narra, em forma de história, a destruição dos assírios.
+> **750.** ***E aconteceu, no ano*** etc. Aqui narra, ao modo de história, a destruição dos assírios.
 
 Primeiro, apresenta os acontecimentos da história;
 

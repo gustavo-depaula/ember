@@ -8,9 +8,9 @@
 
 > ^30:4^ Pois teus príncipes estavam em Tânis, e teus mensageiros chegaram até Hanes.
 
-> ^30:5^ Todos ficaram envergonhados por causa de um povo que não lhes pôde ser útil; não lhes serviram de auxílio nem de proveito algum, mas de confusão e de opróbrio.
+> ^30:5^ Todos ficaram confundidos por causa de um povo que não lhes pôde ser útil; não lhes serviram de auxílio nem de proveito algum, mas de confusão e de opróbrio.
 
-> ^30:6^ Oráculo de peso sobre os animais de carga do sul. Numa terra de tribulação e angústia, de onde vêm a leoa e o leão, a víbora e o basilisco voador, levam suas riquezas sobre os ombros dos animais de carga e seus tesouros sobre as corcovas dos camelos, a um povo que não lhes poderá ser útil;
+> ^30:6^ Fardo dos animais de carga do sul. Numa terra de tribulação e angústia, de onde vêm a leoa e o leão, a víbora e o basilisco voador, levam suas riquezas sobre os ombros dos animais de carga e seus tesouros sobre as corcovas dos camelos, a um povo que não lhes poderá ser útil;
 
 > ^30:7^ pois o Egito auxiliará em vão e inutilmente. Por isso clamei a esse respeito: “É apenas soberba; fica em repouso”.
 
@@ -94,11 +94,11 @@ na segunda, o desprezo do preceito divino: ***Por isso clamei***.
 
 Primeiro, a organização da viagem, apresentando o propósito: ***Que tomais conselho***; ***uma teia***, uma maquinação perversa; e o efeito que se segue: ***Para acrescentardes***. 2 Crônicas 28:13: *Por que quereis acrescentar pecados sobre pecados?*
 
-**669.** Segundo, apresenta a execução do conselho quanto ao percurso do caminho: ***Vós, que caminhais***, que se torna mau pelo desprezo do conselho divino; ***minha boca***, o profeta. Jeremias 15:19: *Se separares o precioso do vil, serás como minha boca*, porque não quisestes fazer o que ele disse. E pela confiança no auxílio humano: ***Pondo vossa confiança***. Jeremias 17:5: *Maldito o homem que confia no homem e faz da carne seu braço*. E apresenta o efeito: ***E será para vós***. Oseias 4:7: *Transformarei sua glória em ignomínia*. Daí, quanto ao término do caminho: ***Pois tinham ido a Tafnes***, que fica somente na outra parte do Egito, como se temessem permanecer nas primeiras fronteiras. Jeremias 2:18: *Que pretendes no caminho do Egito, para beberes água turva?* E mostra o fracasso da esperança: ***Todos ficaram envergonhados***. Salmos: *Não confieis nos príncipes*.
+**669.** Segundo, apresenta a execução do conselho quanto ao percurso do caminho: ***Vós, que caminhais***, que se torna mau pelo desprezo do conselho divino; ***minha boca***, o profeta. Jeremias 15:19: *Se separares o precioso do vil, serás como minha boca*, porque não quisestes fazer o que ele disse. E pela confiança no auxílio humano: ***Pondo vossa confiança***. Jeremias 17:5: *Maldito o homem que confia no homem e faz da carne seu braço*. E apresenta o efeito: ***E será para vós***. Oseias 4:7: *Transformarei sua glória em ignomínia*. Daí, quanto ao término do caminho: ***Pois tinham ido a Tafnes***, que fica somente na outra parte do Egito, como se temessem permanecer nas primeiras fronteiras. Jeremias 2:18: *Que pretendes no caminho do Egito, para beberes água turva?* E mostra o fracasso da esperança: ***Todos ficaram confundidos***. Salmos: *Não confieis nos príncipes*.
 
-**670.** Terceiro, descreve o transporte dos bens: ***Oráculo de peso sobre os animais de carga***,
+**670.** Terceiro, descreve o transporte dos bens: ***Fardo dos animais de carga***,
 
-ameaçando primeiro com a destruição do Egito. ***Oráculo de peso***, sobre os filhos de Judá; ***os animais de carga***, por sua estupidez, ou porque carregavam seus bens como animais de carga; ***do sul***, porque fugiram para o sul, ou porque sua morada estava na região meridional. ***Numa terra de tribulação***, no Egito, que em hebraico se chama *Meyrey*, que se interpreta como tribulação ou angústia. Jeremias 42:16: *A espada que temeis*.
+ameaçando primeiro com a destruição do Egito. ***Fardo*** dos filhos de Judá; ***os animais de carga***, por sua estupidez, ou porque carregavam seus bens como animais de carga; ***do sul***, porque fugiram para o sul, ou porque sua morada estava na região meridional. ***Numa terra de tribulação***, no Egito, que em hebraico se chama *Meyrey*, que se interpreta como tribulação ou angústia. Jeremias 42:16: *A espada que temeis*.
 
 Segundo, apresenta a condição dos que transportam: ***A leoa***, pela ferocidade; ***o leão***, pela presunção da audácia; ***a víbora***, pela crueldade; ***o basilisco voador***, não porque tenha asas, mas porque salta ao rosto do homem, pela rapidez em fazer o mal. Sofonias 3:3: *Seus príncipes são como leões*.
 
@@ -144,7 +144,7 @@ segundo, do andar errante. Jeremias 14:10: *Assim dirás a este povo, que gostou
 
 terceiro, do apetite imoderado. Abaixo, no capítulo 47: ***O coração do ímpio é como um mar agitado que não pode repousar***;
 
-quarto, do entendimento presunçoso. Eclesiástico 8: *Quando o homem tiver terminado, então começará*.
+quarto, do intelecto presunçoso. Eclesiástico 8: *Quando o homem tiver terminado, então começará*.
 
 **676.** ***Porque assim diz o Senhor***. Aqui censura neles o desprezo do conselho divino, e, quanto a isso, apresenta três coisas.
 

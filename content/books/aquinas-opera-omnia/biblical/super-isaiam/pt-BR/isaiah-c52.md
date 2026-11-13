@@ -80,7 +80,7 @@ E primeiro quanto à graça do benefício recebido, tanto no que diz respeito à
 
 apresentando primeiro a defesa pronta: ***O Senhor Deus é meu auxiliador***. Jeremias 20:11: *O Senhor está comigo como um guerreiro forte*;
 
-segundo, a segurança da confiança: e ***fiz***, para não ser abalado pelo medo ou pela vergonha. Ezequiel 3:9: *Fiz de ti como diamante e sílex*;
+segundo, a segurança da confiança: e ***fiz***, para não ser abalado pelo temor ou pela vergonha. Ezequiel 3:9: *Fiz de ti como diamante e sílex*;
 
 terceiro, indica a razão da segurança a partir do poder daquele que auxilia: ***Está perto aquele que justifica***, a saber, Deus; ***quem contradirá?***, por palavras; ***apresentemo-nos juntos***. Jó 18: *Colocai-me, Senhor, junto de vós, e lute contra mim a mão de quem quer que seja*. ***Adversário***, por atos; ***condene***, por julgamentos falsos. Romanos 8:33: *Deus é quem justifica; quem é que condenará?*;
 

@@ -160,6 +160,6 @@ Terceiro, a satisfação com as penas por parte dos que as veem: ***E serão at�
 
 Dessas penas nos livre aquele que nos concedeu começar e consumar.
 
-**1151.** E assim termina a doutrina e a exposição literal de Isaías segundo frei Tomás de Aquino, que frei Jacobino de Asti, da província da Lombardia, então estudante no estudo geral de Nápoles, transcreveu em letra legível, completando as citações das autoridades. Também dispôs as colações em lugares determinados, relativas a cada lição, e fez isso para a utilidade dos irmãos de nossa Ordem e para que houvesse uma cópia dos referidos escritos. Seja, pois, louvado aquele que concedeu começar e fez consumar. Amém.
+**1151.** E assim termina o pensamento e a exposição literal de Isaías segundo frei Tomás de Aquino, que frei Jacobino de Asti, da província da Lombardia, então estudante no estudo geral de Nápoles, transcreveu em letra legível, completando as citações das autoridades. Também dispôs as colações em lugares determinados, relativas a cada lição, e fez isso para a utilidade dos irmãos de nossa Ordem e para que houvesse uma cópia dos referidos escritos. Seja, pois, louvado aquele que concedeu começar e fez consumar. Amém.
 
 **1152.** Termina o escrito sobre o sentido literal de Isaías, de frei Tomás de Aquino, da Ordem dos Frades Pregadores, com as citações das autoridades completadas. Graças a Deus.

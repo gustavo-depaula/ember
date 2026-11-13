@@ -28,7 +28,7 @@
 
 > ^29:13^ E disse o Senhor: “Porque este povo se aproxima com sua boca e me glorifica com seus lábios, mas seu coração está longe de mim, e me temeram por mandamento e doutrinas de homens,
 
-> ^29:14^ por isso, eis que continuarei a causar espanto a este povo com um milagre grande e assombroso; pois perecerá a sabedoria de seus sábios, e a inteligência de seus prudentes ficará oculta”.
+> ^29:14^ por isso, eis que continuarei a causar espanto a este povo com um milagre grande e assombroso; pois perecerá a sabedoria de seus sábios, e o intelecto de seus prudentes ficará oculto”.
 
 > ^29:15^ Ai de vós, que sois profundos de coração, para esconder do Senhor vosso conselho, cujas obras estão nas trevas, e que dizeis: “Quem nos vê e quem nos conhece?”
 
@@ -152,6 +152,6 @@ Primeiro, prediz a conversão à graça: ***Líbano***, um povo gentio, porque o
 
 **664.** Segundo, indica a ocasião ou a razão da conversão, proveniente da queda do diabo: ***Porque desfaleceu aquele que prevalecia***, pelo poder; ***o escarnecedor***, o enganador pela astúcia. Acima, em 16:4: ***Foi consumido o miserável***. E proveniente da cegueira do povo judeu: *Porque a cegueira aconteceu em parte*, Romanos 11:25. ***Foram cortados os que vigiavam***: a aplicação ao mal. Provérbios 4:16: *Pois não dormem se não tiverem feito o mal*. ***Que faziam pecar***, por maus exemplos e doutrinas; ***quem os repreendia***, quanto ao desprezo da disciplina. Amós 5:10: *Odiaram quem os corrigia à porta*. ***Desviaram-se***, quanto à vaidade do pecado, porque é vão aquilo que não alcança seu fim. Sabedoria 5:8: *De que nos aproveitou a soberba, ou que nos trouxe a ostentação das riquezas?*
 
-**665.** Terceiro, apresenta o retorno dos judeus no fim do mundo, ao dizer: ***Por isso, assim diz aquele que remiu***, Gênesis 11; ***não será agora***, isto é, neste tempo, ***que ficará envergonhado***, com uma boa vergonha. Eclesiástico 4:25: *Há uma vergonha que conduz à glória*. ***Os filhos***, os apóstolos; ***os murmuradores***, isto é, os que antes murmuravam. Acima, em 27:6: ***Os que sairão impetuosamente de Jacó, e Israel florescerá e germinará***.
+**665.** Terceiro, apresenta o retorno dos judeus no fim do mundo, ao dizer: ***Por isso, assim diz aquele que remiu***, Gênesis 11; ***não será agora***, isto é, neste tempo, ***que ficará confundido***, com uma boa confusão. Eclesiástico 4:25: *Há uma confusão que conduz à glória*. ***Os filhos***, os apóstolos; ***os murmuradores***, isto é, os que antes murmuravam. Acima, em 27:6: ***Os que sairão impetuosamente de Jacó, e Israel florescerá e germinará***.
 
 **666.** Ou pode ser explicado de outro modo, acerca da prosperidade que lhes é prometida depois da destruição de Senaquerib ou de Nabucodonosor. ***O Carmelo em bosque***, isto é, tão grande será a fertilidade da terra da promessa que a fertilidade do Carmelo será considerada esterilidade em comparação com ela; ***o escarnecedor***, Senaquerib ou Nabucodonosor; ***seus filhos***, os três jovens na fornalha de fogo. Ou porque os filhos deles louvarão meu nome, o que eles mesmos não fizeram em sua juventude.
