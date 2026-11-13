@@ -70,7 +70,7 @@ Quanto ao custo da construção, que diz respeito à defesa, diz: ***Construiu u
 
 Quanto à colheita do fruto, diz: ***Lagar***; Provérbios 3:10: *Teus celeiros se encherão de abundância e teus lagares transbordarão de vinho*; nisso se indica o altar dos holocaustos, por causa do derramamento de sangue.
 
-**158.** ***E esperei que produzisse***. Aqui se apresenta a maldade do fruto. Por isso, diz: ***E esperei***, segundo a ordem dos benefícios, ***que produzisse uvas***, o fruto das boas obras, ***mas ela produziu uvas silvestres***, isto é, uvas bravas, assim chamadas porque nascem nas bordas dos caminhos, a saber, nas cercas; nisso se indica a amargura dos vícios; Jeremias 2:21: *Como te tornaste para mim uma vinha estranha e degenerada?*; Miqueias 7:4: *O melhor entre eles é como um paliúro, e o justo, como um espinho da cerca*.[^10]
+**158.** ***E esperei que produzisse***. Aqui se apresenta a maldade do fruto. Por isso, diz: ***E esperei***, segundo a ordem dos benefícios, ***que produzisse uvas***, o fruto das boas obras, ***mas ela produziu uvas silvestres***, isto é, uvas bravas, assim chamadas porque nascem nas bordas dos caminhos, a saber, nas cercas; nisso se indica a amargura dos vícios; Jeremias 2:21: *Como te tornaste para mim uma vinha estranha e degenerada?*; Miqueias 7:4: *O melhor entre eles é como um espinheiro, e o justo, como um espinho da cerca*.[^10]
 
 [^10]: *Nota do tradutor:* O autor aproxima *labruscae*, “uvas silvestres”, de *labra*, “bordas”, para explicar o nome pelo lugar onde crescem.
 

@@ -40,10 +40,10 @@ Terceiro, quanto à condição da destruição, em sua universalidade: ***Jovem 
 
 Primeiro, o temor: ***Terão medo***;
 
-segundo, a confusão: ***E ficarão confundidos***;
+segundo, a vergonha: ***E ficarão envergonhados***;
 
 terceiro, a expressão de ambos: ***O habitante desta ilha dirá***, isto é, de Jerusalém, que era incessantemente golpeada pelas ondas da perseguição, como uma ilha pelas ondas do mar.
 
-***Era esta***, no que se exprime a confusão;
+***Era esta***, no que se exprime a vergonha;
 
-***e como***, no que se exprime o temor. Abaixo, em Isaías 30:3: ***A força do faraó será para vós motivo de confusão***.
+***e como***, no que se exprime o temor. Abaixo, em Isaías 30:3: ***A força do faraó será para vós motivo de vergonha***.

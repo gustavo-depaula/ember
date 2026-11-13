@@ -24,7 +24,7 @@
 
 > ^47:12^ Permanece com teus encantadores e com a multidão de tuas feitiçarias, nas quais trabalhaste desde tua juventude, para ver se algo te aproveita ou se podes tornar-te mais forte;
 
-> ^47:13^ desfaleceste na multidão de teus conselhos. Levantem-se e te salvem os áugures do céu, que contemplavam os astros e calculavam os meses, para por eles te anunciarem as coisas futuras.
+> ^47:13^ desfaleceste na multidão de teus conselhos. Levantem-se e te salvem os adivinhos do céu, que contemplavam os astros e calculavam os meses, para por eles te anunciarem as coisas futuras.
 
 > ^47:14^ Eis que se tornaram como palha, o fogo os queimou; não libertarão sua alma da mão da chama; não há brasas com que se aqueçam nem fogo junto ao qual se sentem.
 

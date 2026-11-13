@@ -70,7 +70,7 @@ Exorta também a sustentar amigavelmente os que foram acolhidos: ***Habitarão**
 
 **449.** Terceiro, apresenta a razão: ***Acabou***.
 
-Primeiro, quanto à destruição dos inimigos, para que não os despeçam por temor deles: ***A poeira acabou***, a multidão do exército de Senaquerib; ***foi consumido***, isto é, morto pelos filhos, ***o miserável***, Senaquerib, adiante, em Isaías 38; ***desapareceu***, quanto ao poder, acima, em Isaías 14.
+Primeiro, quanto à destruição dos inimigos, para que não os despeçam por medo deles: ***A poeira acabou***, a multidão do exército de Senaquerib; ***foi consumido***, isto é, morto pelos filhos, ***o miserável***, Senaquerib, adiante, em Isaías 38; ***desapareceu***, quanto ao poder, acima, em Isaías 14.
 
 Segundo, quanto à restauração dos judeus, para que o façam de melhor vontade; quanto à preparação do reino: ***Será preparado na misericórdia*** de Deus ou do rei misericordioso ***um trono***, o dos reis de Judá; quanto ao poder do rei: ***Se sentará***, como quem reinará tranquilamente; quanto à equidade do juízo: ***Na verdade***; ***que julga***, quanto à prolação da sentença; ***busca***, quanto ao exame das causas; ***dá***, quanto à execução da sentença. E isso pode ser interpretado a respeito de Ezequias ou de Cristo. Acima, em Isaías 10: ***Sobre o trono de Davi e sobre o seu reino se sentará***.
 
@@ -130,9 +130,9 @@ Primeiro, apresenta-se a compaixão: ***Por isso***, a saber, o mal de Moab, ***
 
 Segundo, apresenta-se a razão da compaixão quanto ao ímpeto dos inimigos: ***Dos que pisam***, isto é, dos assírios que devastam; e quanto à alegria que lhes foi retirada, a qual tinham pela abundância de trigo: ***Do Carmelo***, isto é, da fertilidade — pois o Carmelo não fica em Moab, mas os judeus empregam nomes próprios como nomes comuns —; e à alegria que tinham pela abundância de vinho: ***Nas vinhas***. Jeremias 48:33.
 
-Terceiro, infere-se a conclusão como a partir de uma razão: ***Por este*** infortúnio, ***meu ventre***, isto é, minha sensibilidade, ***como uma cítara*** que produz um som de pranto; ou porque a cítara aumenta a alegria dos alegres e a tristeza dos tristes; ou por causa da harmonia das virtudes do profeta.
+Terceiro, infere-se a conclusão como a partir de uma razão: ***Por este*** infortúnio, ***meu ventre***, isto é, minha sensibilidade, ***como uma cítara*** que produz um som de lamento; ou porque a cítara aumenta a alegria dos alegres e a tristeza dos tristes; ou por causa da harmonia das virtudes do profeta.
 
-**457.** ***E acontecerá***. Aqui mostra a frustração deles, tanto a respeito dos ídolos aos quais sacrificavam nos lugares altos como daqueles aos quais sacrificavam nos templos quando estavam com temor. Deuteronômio 32:37: *Onde estão seus deuses, nos quais confiavam?*
+**457.** ***E acontecerá***. Aqui mostra a frustração deles, tanto a respeito dos ídolos aos quais sacrificavam nos lugares altos como daqueles aos quais sacrificavam nos templos quando estavam com medo. Deuteronômio 32:37: *Onde estão seus deuses, nos quais confiavam?*
 
 **458.** ***Esta é a palavra***. Aqui está o epílogo. ***Desde então***, desde a morte do rei Acaz.
 

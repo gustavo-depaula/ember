@@ -142,7 +142,7 @@ Segundo, promete a libertação,
 
 primeiro, quanto à reedificação das cidades: ***Que digo a Jerusalém*** etc. Salmo: *Serão edificadas as cidades* etc.;
 
-segundo, quanto à destruição dos inimigos: ***Que digo ao abismo***, isto é, ao mar, a saber, à Babilônia; daí, acima, 21: ***Fardo do deserto do mar***; acima, 19: ***Secará a água do mar*** etc.;
+segundo, quanto à destruição dos inimigos: ***Que digo ao abismo***, isto é, ao mar, a saber, à Babilônia; daí, acima, 21: ***Oráculo do deserto do mar***; acima, 19: ***Secará a água do mar*** etc.;
 
 terceiro, quanto à exaltação do libertador: ***Que digo a Ciro: Pastor***, que apascenta minhas ovelhas. Ezequiel 34: *E as apascentará e será para elas* etc.;
 

@@ -50,7 +50,7 @@
 
 > ^14:25^ assim acontecerá: esmagarei o assírio em minha terra e o pisarei em meus montes; e seu jugo lhes será retirado, e seu fardo será tirado dos seus ombros.
 
-> ^14:26^ Este é o conselho que concebi sobre toda a terra, e esta é a mão estendida sobre todas as nações.
+> ^14:26^ Este é o desígnio que concebi sobre toda a terra, e esta é a mão estendida sobre todas as nações.
 
 > ^14:27^ Pois o Senhor dos exércitos decretou, e quem poderá invalidar? Sua mão está estendida, e quem a afastará?
 
@@ -212,7 +212,7 @@ Segundo, o lugar da destruição: ***Em minha terra***, porque o exército de Se
 
 Terceiro, descreve o fruto da pena: ***Será retirado***. Acima, em Isaías 9:4: ***Pois o jugo do seu fardo, a vara do seu ombro e o cetro do seu opressor, vós os vencestes***.
 
-**426.** Terceiro, apresenta o propósito relativo à destruição de todos os povos: ***Este é o conselho que concebi sobre toda a terra***, para destruí-la, quanto à deliberação; ***sua mão***, isto é, seu poder, quanto à execução. Jeremias 25:15: *Toma de minha mão o cálice do vinho deste furor*. Ou ***toda a terra***, para protegê-la dos assírios; ***e esta mão estendida***, que foi destruída. E assim haverá fruto da pena em todas as nações.
+**426.** Terceiro, apresenta o propósito relativo à destruição de todos os povos: ***Este é o desígnio que concebi sobre toda a terra***, para destruí-la, quanto à deliberação; ***sua mão***, isto é, seu poder, quanto à execução. Jeremias 25:15: *Toma de minha mão o cálice do vinho deste furor*. Ou ***toda a terra***, para protegê-la dos assírios; ***e esta mão estendida***, que foi destruída. E assim haverá fruto da pena em todas as nações.
 
 **427.** ***O Senhor dos exércitos***. Aqui mostra a firmeza do propósito divino, tanto quanto ao decreto da sabedoria: ***Decretei***, como quanto ao cumprimento do poder: ***E sua mão***. Jó 23:13: *Ele é único, e ninguém pode desviar seu pensamento; e tudo o que sua alma quis, ele o fez*.
 

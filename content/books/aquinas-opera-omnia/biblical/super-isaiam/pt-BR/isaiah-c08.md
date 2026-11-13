@@ -16,7 +16,7 @@
 
 > ^6:7^ e tocou minha boca e disse: Eis que toquei teus lábios com isto, e tua iniquidade será retirada, e teu pecado será purificado.
 
-> **204.** ***No ano em que morreu o rei***. Depois de repreender a culpa nas duas tribos, acrescentando a pena que corrige, aqui ameaça com a pena que condena definitivamente, isto é, a pena do endurecimento; por isso, essa pena é anunciada ao modo de uma sentença e com a solenidade de um julgamento. Este capítulo, portanto, divide-se em três partes:
+> **204.** ***No ano em que morreu o rei***. Depois de repreender a culpa nas duas tribos, acrescentando a pena que corrige, aqui ameaça com a pena que condena definitivamente, isto é, a pena do endurecimento; por isso, essa pena é anunciada à maneira de uma sentença e com a solenidade de um julgamento. Este capítulo, portanto, divide-se em três partes:
 
 na primeira, descreve-se o autor da sentença, isto é, o juiz;
 

@@ -62,7 +62,7 @@ da abundância do comércio: ***Comércio***, isto é, no qual comerciam; ***enc
 
 da abundância de trigo: ***A semente do rio Nilo*** é ***a colheita*** e ***seus frutos***, isto é, de Tiro, porque lhes vinha do Egito muito trigo, ***e*** por isso ***ela se tornou o comércio***. Ezequiel 37: *Dirás a Tiro*.
 
-**550.** Terceiro, apresenta a confusão dos vizinhos.
+**550.** Terceiro, apresenta a vergonha dos vizinhos.
 
 Primeiro, dos sidônios, dos quais Tiro era colônia: ***O mar***, isto é, os comerciantes marítimos, ***diz: ó Sidon, envergonha-te***, porque não defendeste Tiro, pois minha ***fortaleza***, isto é, Tiro, está ***dizendo: não tive dores de parto***, isto é, de nada me valeu ter dado à luz, porque fui capturada. Ou, de outro modo: ***O mar***, isto é, ***a fortaleza do mar***, isto é, os comerciantes que são fortes no mar, ***diz: envergonha-te, Sidon, dizendo: não tive dores de parto*** para a defesa de Tiro. Ou, de outro modo: ***Sidon diz: ó mar, fortaleza do mar***, isto é, Tiro, ***envergonha-te***, tu, Tiro, ***dizendo*** o que se segue. Ou ***Sidon dizendo***: embora tenhais nascido de mim, ó tírios, fostes capturados como se eu não tivesse tido dores de parto. Abaixo, em Isaías 29:14: ***Eu***, etc.
 

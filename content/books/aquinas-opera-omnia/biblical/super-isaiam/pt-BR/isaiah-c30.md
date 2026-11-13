@@ -56,7 +56,7 @@
 
 > ^28:28^ o pão, porém, será triturado. Mas o debulhador não o debulhará para sempre, nem a roda do carro o maltratará, nem com seus cascos o esmagará.
 
-> ^28:29^ E isso veio do Senhor Deus dos exércitos, para tornar admirável seu conselho e engrandecer a justiça.
+> ^28:29^ E isso veio do Senhor Deus dos exércitos, para tornar admirável seu desígnio e engrandecer a justiça.
 
 > **633.** ***Ai da coroa***. Nesta parte, ameaça aqueles que desprezavam as predições dos profetas,
 

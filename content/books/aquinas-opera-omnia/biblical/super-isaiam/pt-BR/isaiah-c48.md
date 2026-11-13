@@ -18,7 +18,7 @@
 
 > ^46:9^ recordai-vos do tempo antigo, porque eu sou Deus, e não há deus além de mim, nem há semelhante a mim,
 
-> ^46:10^ que anuncia desde o começo o que será por último e desde o princípio as coisas que ainda não foram feitas; que diz: “Meu conselho permanecerá, e toda a minha vontade será feita”;
+> ^46:10^ que anuncia desde o começo o que será por último e desde o princípio as coisas que ainda não foram feitas; que diz: “Meu desígnio permanecerá, e toda a minha vontade será feita”;
 
 > ^46:11^ que chama do oriente uma ave e de uma terra longínqua o homem de minha vontade; eu falei e farei que aconteça, criei e o farei.
 
@@ -68,7 +68,7 @@ pela inquietação ao planejá-lo. Provérbios 4: *Pois não dormem* etc.;
 
 pelo esforço ao executá-lo. Sabedoria: *Cansamo-nos no caminho* etc.;
 
-pela confusão ao recordá-lo. Romanos 5: *Que fruto, pois* etc.;
+pela vergonha ao recordá-lo. Romanos 5: *Que fruto, pois* etc.;
 
 pela frustração ao esperar. Provérbios 11: *A expectativa dos justos* etc.
 

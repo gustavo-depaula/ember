@@ -30,7 +30,7 @@
 
 > **1022.** ***Clama, não cesses***. Aqui exclui o remédio inútil pelo qual queriam preparar-se para a salvação.
 
-E primeiro impõe o ofício da denúncia, apresentando o modo de denunciar: em voz alta, sem o abatimento do temor: ***Clama***. Acima, 40:9: ***Eleva tua voz com força, tu que anuncias a boa-nova a Sião***; continuamente: ***Não cesses***. Abaixo, <62:6>: ***Sobre teus muros, Jerusalém, estabeleci guardas; durante todo o dia e toda a noite não se calarão***; de modo claro e aberto: ***Como uma trombeta***. Oseias 8:1: *Haja uma trombeta em tua garganta*. E a palavra da denúncia: ***Anuncia os crimes***, quanto aos maiores; ***os pecados***, quanto aos comuns. Acima, 16:7: ***Aos que se alegram sobre os muros de tijolo cozido, falai de suas chagas***.
+E primeiro impõe o ofício da denúncia, apresentando o modo de denunciar: em voz alta, sem o abatimento do medo: ***Clama***. Acima, 40:9: ***Eleva tua voz com força, tu que anuncias a boa-nova a Sião***; continuamente: ***Não cesses***. Abaixo, <62:6>: ***Sobre teus muros, Jerusalém, estabeleci guardas; durante todo o dia e toda a noite não se calarão***; de modo claro e aberto: ***Como uma trombeta***. Oseias 8:1: *Haja uma trombeta em tua garganta*. E a palavra da denúncia: ***Anuncia os crimes***, quanto aos maiores; ***os pecados***, quanto aos comuns. Acima, 16:7: ***Aos que se alegram sobre os muros de tijolo cozido, falai de suas chagas***.
 
 **1023.** Segundo, o profeta, na pessoa do Senhor, exclui o remédio inútil: ***Pois me***. E acerca disso faz duas coisas:
 

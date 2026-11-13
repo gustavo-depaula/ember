@@ -2,7 +2,7 @@
 
 ^15:1^ Fardo de Moab. Porque Ar de Moab foi devastada de noite, calou-se; porque o muro de Moab foi devastado de noite, calou-se.
 
-> ^15:2^ A casa e Dibon subiram aos lugares altos para o pranto; por Nebo e por Medaba, Moab uivou. Em todas as suas cabeças haverá calvície, e toda barba será raspada.
+> ^15:2^ A casa e Dibon subiram aos lugares altos para lamentar; por Nebo e por Medaba, Moab uivou. Em todas as suas cabeças haverá calvície, e toda barba será raspada.
 
 > ^15:3^ Nas suas encruzilhadas, cingiram-se de saco; sobre seus terraços e em suas praças, todo uivo desce em pranto.
 

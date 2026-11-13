@@ -18,7 +18,7 @@
 
 > ^61:9^ E sua descendência será conhecida entre as nações, e seus brotos, no meio dos povos; todos os que os virem os reconhecerão, porque estes são a descendência que o Senhor abençoou.
 
-> ^61:10^ Com alegria me alegrarei no Senhor, e minha alma exultará em meu Deus, porque me revestiu com as vestes da salvação e me envolveu com o traje da justiça, como um esposo adornado com uma coroa e como uma esposa ornada com seus adornos peitorais.
+> ^61:10^ Com alegria me alegrarei no Senhor, e minha alma exultará em meu Deus, porque me revestiu com as vestes da salvação e me envolveu com o traje da justiça, como um esposo adornado com uma coroa e como uma esposa ornada com suas joias.
 
 > ^61:11^ Pois, assim como a terra produz seu broto e como o jardim faz germinar sua semente, assim o Senhor Deus fará germinar a justiça e o louvor diante de todas as nações.
 

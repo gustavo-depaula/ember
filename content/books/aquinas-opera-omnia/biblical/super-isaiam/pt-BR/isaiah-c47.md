@@ -170,7 +170,7 @@ a quarta, da utilidade dos preceitos: ***Não disse à descendência*** etc. Sal
 
 a quinta, da equidade dos preceitos: ***Eu sou o Senhor*** etc. Abaixo, 53: ***Eu, que falo a justiça*** etc.
 
-**867.** Segundo, ali: ***Reuni-vos***, incumbe os judeus da vocação dos gentios, recordando sua salvação. ***Reuni-vos***, como para ouvir meu preceito; ***vós que fostes salvos***, libertados do cativeiro das nações. Abaixo, no último capítulo: ***Enviarei dentre eles os que foram salvos*** etc.; apresenta também a necessidade de chamá-los, a saber, o erro dos gentios: ***Nada sabem os que erguem***. Baruc, último capítulo: *Vereis na Babilônia deuses* etc.
+**867.** Segundo, ali: ***Reuni-vos***, ordena aos judeus que chamem os gentios, recordando sua salvação. ***Reuni-vos***, como para ouvir meu preceito; ***vós que fostes salvos***, libertados do cativeiro das nações. Abaixo, no último capítulo: ***Enviarei dentre eles os que foram salvos*** etc.; apresenta também a necessidade de chamá-los, a saber, o erro dos gentios: ***Nada sabem os que erguem***. Baruc, último capítulo: *Vereis na Babilônia deuses* etc.
 
 Ordena o anúncio de seu louvor: ***Anunciai***, no que impõe o ofício; ***deliberai*** sobre como deveis converter os outros. Salmo: *Anunciai entre as nações* etc.; ***quem fez ouvir***, no que lhes ensina o argumento de sua divindade para converter os outros, a saber, a partir do conhecimento prévio das coisas futuras. E apresenta o raciocínio e a conclusão, ali: ***Acaso não***, portanto etc. Eclesiástico 42: *Anunciando as coisas que passaram* etc.
 

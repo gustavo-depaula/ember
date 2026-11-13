@@ -44,7 +44,7 @@
 
 > ^36:22^ E Eliacim, filho de Helcias, que estava à frente da casa, Sobna, o escriba, e Joá, filho de Asaf, o cronista, entraram na presença de Ezequias com as vestes rasgadas e lhe anunciaram as palavras de Rabsaqué.
 
-> **750.** ***E aconteceu, no ano*** etc. Aqui narra, ao modo de história, a destruição dos assírios.
+> **750.** ***E aconteceu, no ano*** etc. Aqui narra, em forma de história, a destruição dos assírios.
 
 Primeiro, apresenta os acontecimentos da história;
 

@@ -144,7 +144,7 @@ segundo, a resposta: ***Insensatos, definharam***, isto é, desfaleceram, como a
 
 Primeiro, apresenta o engano dos sábios: ***Enganaram o ângulo***, isto é, o reino, no qual muitos se unem como paredes num ângulo. Abaixo, em Isaías 47:10: ***Tua sabedoria e tua ciência te enganaram***.
 
-Segundo, a permissão de Deus: ***O Senhor misturou***, expressão frequentemente usada em sentido metafórico, ***um espírito de vertigem***, isto é, de erro, ao modo de quem sofre de vertigem. 1 Reis, último capítulo: *O Senhor pôs um espírito de mentira na boca de todos os teus profetas*.
+Segundo, a permissão de Deus: ***O Senhor misturou***, expressão frequentemente usada em sentido metafórico, ***um espírito de vertigem***, isto é, de erro, à maneira de quem sofre de vertigem. 1 Reis, último capítulo: *O Senhor pôs um espírito de mentira na boca de todos os teus profetas*.
 
 Terceiro, o erro do próprio povo: ***Fizeram errar***. ***Cabeça***, isto é, nem quanto ao princípio; ***cauda***, nem quanto ao fim; ***quem se curva***, quanto ao ancião; ***quem refreia***, quanto ao jovem, que precisa ser refreado, ou ao lascivo. 2 Timóteo 3:13: *Os homens maus e os sedutores irão de mal a pior*.
 
