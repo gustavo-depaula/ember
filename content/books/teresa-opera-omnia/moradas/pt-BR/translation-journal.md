@@ -54,7 +54,7 @@ Destino: pt-BR.
 | sequedad(es) | secura(s) | |
 | mancebo (del Evangelio) | moço (do Evangelho) | |
 | Santo Tomás (o apóstolo) | São Tomé | `m3-c1` ¶5, João 11:16 |
-| plega a Dios / al Señor | queira Deus / o Senhor | |
+| plega a Dios / al Señor | queira Deus / o Senhor | também “praza a Deus” na fórmula de desejo |
 | pensamiento / imaginación | pensamento / imaginação | distintos do entendimento |
 | suspensión | suspensão | |
 | arrabal del castillo | arrabalde do castelo | |
@@ -333,3 +333,16 @@ Verdict: 0 meaning-level, 0 minor. Delta read of the three round-2 fixes (m6-c2 
 - Rejected: pt-BR/m6-c4.md [22] — Check of the round-2 fix 'o omitiu por descuido' — It correctly renders 'se le pasó por alto' and keeps the contrast with Fr. Luís, who printed the addition.
 - Rejected: pt-BR/m6-c4.md [22], [23] — The audit flags italics absent from the source — In [22] the italics set off the quoted marginal addition. In [23] they mark the Spanish word forms, which the journal's decision on spelling notes requires.
 - Rejected: pt-BR/m6-c7.md [^28] — Check of the round-2 cut of the Stanbrook claim — The remaining note keeps only the inference from the sense, and its sentence is complete.
+
+### Part terms 1 of 1, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 2 minor. 68 parágrafos sinalizados lidos; 2 desvios no texto e 1 complemento de glossário.
+- `pt-BR/translation-journal.md`: “| plega a Dios / al Señor | queira Deus / o Senhor | |” → “| plega a Dios / al Señor | queira Deus / o Senhor | também “praza a Deus” na fórmula de desejo |” — As ocorrências usam reiteradamente “praza a Deus” com o mesmo sentido; a variante legítima deve constar da linha.
+- `pt-BR/m6-c7.md` [11]: “como o fazia a Esposa nos Cânticos[^19]” → “como o fazia a Esposa nos Cantares[^19]” — *los Cantares* → “os Cantares” (Key Terms); uniformiza o título da obra.
+- `pt-BR/m7-c1.md` [6]: “atadas de pés e mãos para fazer algum bem que lhes aproveite para merecer[^3]” → “atadas de pés e mãos, sem poder fazer nenhum bem que lhes aproveite para merecer[^3]” — *para hacer ningún bien* expressa incapacidade de fazer bem meritório; “para fazer algum bem” perde a negação. *(meaning)*
+
+### Part terms 1 of 1, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read: checked the 3 fixes from round 1 and read m6-c7 [10–12] and m7-c1 [5–7] in full against the source; all fixes are correct and no new defects were found.
+- Rejected: pt-BR/m7-c1.md [6] — Fix check: “sem poder fazer nenhum bem” — It renders *para hacer ningún bien* (inability to do any meritorious good). The comma and the clause fit the sentence.
+- Rejected: pt-BR/m6-c7.md [11] — Fix check: “nos Cantares” — Matches the Key Terms row for *los Cantares*; concord is intact.
+- Rejected: pt-BR/translation-journal.md — Key Terms row “estar en un ser”: the audit counts “permanecer constante” ×0 in pt-BR — The row also lists “estar sempre no mesmo estado”. The paragraphs it cites (`m6-c6` ¶7, `m6-c7` ¶15) were not shown in this delta, so the row cannot be judged false from this text.
+- Rejected: pt-BR/m6-c7.md [12] — Two markers, “f[^21][^28]” — [^21] is Silverio's note and [^28] is the translator's note recorded in the journal. They are distinct and each has one definition.
