@@ -181,3 +181,13 @@ Verdict: 0 meaning-level, 0 minor. Delta read of c2 [45]–[47] and the translat
 - Rejected: pt-BR/c2.md [46] — Latin reads *planctum meum*, *gaudium*, *saccum*, *et*, *laetitia* and *ego illi*, where the source has 'nteam', 'guadium', 'sacatín', 'ct', 'laeütia' and 'Mi' — Unmistakable OCR slips, read correctly against the Vulgate.
 - Rejected: pt-BR/c2.md [45] — 'seus seios acima do vinho' for the source's 'sus pedios sobre el vino' — 'pedios' is OCR for 'pechos' (Cant 1:3, *uberum tuorum super vinum*), so the rendering is correct.
 - Rejected: pt-BR/c2.md [46] — Emphasis audit: source 0, pt-BR 10 — Italics mark the retained Latin, as the house rule requires.
+
+### Part terms 1 of 1, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 1 minor. 44 parágrafos sinalizados lidos; 1 desvio encontrado.
+- `pt-BR/c3.md` [53]: “esse ofício é só do Pai das luzes” → “esse ofício é só do Pai dos lumes” — *Padre de las lumbres* → “Pai dos lumes” (Key Terms); uniformiza a denominação divina com a usada em c1.
+
+### Part terms 1 of 1, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of c3 [52]–[54] and footnotes 230–231: the “Pai dos lumes” fix is correct and the paragraphs are clean.
+- Rejected: pt-BR/c3.md [54] — “tudo o que nele podia caber” renders *caer* with the same verb as the following *caber* (“Deus não pode caber nele”) — Same sense in context (what could enter the understanding); a defensible choice, not a mistranslation.
+- Rejected: pt-BR/c3.md [52] — The source's stray quotation mark before “de toda criatura” was dropped — OCR noise; the journal records that stray marks are discarded.
+- Rejected: pt-BR/c3.md [53] — “se tu lha dispuseres” for *si tú se la dispusieres* — lha = lhe (Deus) + a (alma), the source's construction rendered exactly.
