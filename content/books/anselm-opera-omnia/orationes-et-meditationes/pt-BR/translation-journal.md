@@ -55,7 +55,7 @@ Destino: pt-BR.
 | homo Deus | homem-Deus | m11 ¶5 |
 | exhonorare | desonrar | m11 ¶5 |
 | dilectio | dileção / amor | m11 ¶9 "dileção" junto de *amor*; em m12 "amor" |
-| praesumptio / praesumere | presunção / presumir | m12 ¶4, em sentido positivo de confiança segura |
+| praesumptio / praesumere | presunção / presumir | m12 ¶4, em sentido positivo de confiança segura; “ousadia” / “ousar” no sentido de atrevimento diante da própria indignidade ou de transgressão do que é proibido (o23, o25) |
 | dignatio | condescendência | m09 ¶5 |
 | virgo (a destinatária) | virgem | m15–m16: a irmã reclusa de Aelredo, em *tu* e no feminino |
 | soror | irmã | m16 |
@@ -65,7 +65,7 @@ Destino: pt-BR.
 | Zabulus | diabo | m15 ¶15 |
 | Rabboni | Rabôni | m15 ¶18 |
 | nutritius | pai adotivo | m15 ¶6, São José |
-| vacare / vacatio / otium | estar livre para / disponibilidade / ócio | m18 ¶14, nota do tradutor |
+| vacare / vacatio / otium | estar livre para / disponibilidade / ócio | m18 ¶14, nota do tradutor; vacare com dativo de atividade: “dedicar-se a” (m01 ¶9) |
 | idiota | iletrado | m18 ¶11 |
 | maxillae (freno) | queixadas | m18 ¶16–17, imagem do animal de montaria |
 | stola duplex | dupla estola | m17 ¶2, corpo e alma |
@@ -101,7 +101,7 @@ Destino: pt-BR.
 | vulnus / vulnerare | ferida / ferir | o19 ¶7; mantém o jogo *vulnera* (chagas) / *vulnera* (fere) |
 | dilectio / amor / charitas | dileção, amor / amor / caridade | o23 ¶4, onde o autor joga com os três |
 | limus | barro | o26 |
-| hospitium | hospedaria | o27 ¶4 |
+| hospitium | hospedaria | o27 ¶4; no sentido de alojamento oferecido ao peregrino, “hospedagem” (m15 ¶11) |
 | caenodoxia | vanglória | o29 ¶2 |
 | peripsema | escória | o30 |
 | libramen | balança | o30 |
@@ -228,7 +228,7 @@ Destino: pt-BR.
 - Notas do tradutor: m21 [^1] (o *Proslogion* como fonte da meditação e a fórmula "creio para entender"), marcador posto no título; m21 [^2] (lacuna do ¶4); o01 [^1] (o hino *O lux beata Trinitas*).
 - Referências erradas da fonte espelhadas sem correção: o10 ¶10 "Ibid., 14" (é Salmo 49:4); o12 ¶6 "Salmo 62:25" (é 72:25); o15 ¶5 "Salmo 31:1" (é 34:1-2); o18 ¶5 "Salmo 4:2" (é 4:9).
 - Erros do OCR lidos pelo sentido: o07 ¶3 *pertinanaciam*; o10 ¶6 *animam me* = *animant me*; ¶8 *deinum* = *denuo*, e *acta mea, formidinem* com o verbo *ingerit* subentendido; ¶10 *seu* = *ceu* ("como se"), *con futat*; ¶11 *illumatio*; ¶12 *non quia abscondisti* lido como *abstulisti* ("não porque a tirastes"), e o seguinte *Abstulisti* vertido "Retirastes-na da vista"; *tementibus*; ¶13 *consummantum*, e *qui autem exspectant te, confundentur* lido com o *non* do Salmo 24:3 ("não serão confundidos"); o12 ¶3 *cogitationem* = *cognitionem*, *benedicamus* = *benedicam* (Salmo 62:5); o15 ¶5 *conae* = *bonae*; o16 ¶5 *stetu* = *fletu*; ¶7 *tu reminiscor* = *tui*; o17 ¶5 *ditectio*; o18 ¶6 *sedura*.
-- o17 ¶6 *discernis hoc rectum et justum esse, ut filii hujus saeculi…*: a letra diz o contrário do argumento; vertido "discernis se é reto e justo que…", como pergunta implícita.
+- o17 ¶6 *discernis hoc rectum et justum esse, ut filii hujus saeculi…*: vertido literalmente, "discernis que é reto e justo que…".
 - o15 ¶4: as variantes do editor `[ *al*. possum]` e `[ *al*. subita]` mantidas como estão, junto da palavra a que se referem.
 - Tratamentos: as "filhas de Jerusalém" em *vós* plural (o12 ¶4); Cristo a Madalena em *tu* ("Vai, dize", o16 ¶6); o amor apostrofado em o17 ¶7 (*amor qui semper ardes*) em *vós* ("amor que sempre ardeis e nunca vos extinguis"), porque é o próprio Deus, como a luz e a verdade em m21 ¶9.
 - Notas do tradutor: o10 [^1] (Cedar); o12 [^1] (trocadilho *mane*, "ficai"/"de manhã", e eco de Lucas 24:29); o16 [^1] (o regadio de cima e de baixo de Axa e as duas compunções em São Gregório Magno); o17 [^1] (hino *Iesu, nostra redemptio*); o17 [^2] (eco das *Confissões*, livro X).
@@ -432,3 +432,98 @@ Verdict: 0 meaning-level, 1 minor. Full read of o29–o75 and the prologus, sour
 
 ### Part 3 of 3, Round 4 (codex, delta read)
 Verdict: 0 meaning-level, 0 minor. Verificada a correção de «cujo» e lidos integralmente os dois parágrafos apresentados de o30.md contra o latim; nenhum defeito encontrado.
+
+### Part terms 1 of 3, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 21 minor. 63 parágrafos sinalizados conferidos; 17 com deriva, corrigida em 20 ocorrências; 2 linhas do glossário ampliadas.
+- `pt-BR/translation-journal.md`: “| vacare / vacatio / otium | estar livre para / disponibilidade / ócio | m18 ¶14, nota do tradutor |” → “| vacare / vacatio / otium | estar livre para / disponibilidade / ócio | m18 ¶14, nota do tradutor; vacare com dativo de atividade: “dedicar-se a” (m01 ¶9) |” — Em orationibus vacat, vacare significa dedicar-se à oração; a tradução emprega corretamente esse sentido.
+- `pt-BR/m01.md` [9]: “atende às misericórdias do teu Redentor” → “atende às compaixões do teu Redentor” — *miserationes* → “compaixões” (Key Terms); estava “misericórdias”.
+- `pt-BR/m01.md` [14]: “o juiz rigoroso para julgar” → “o juiz severo para julgar” — *districtus* aplicado ao juiz → “severo” (Key Terms); estava “rigoroso”.
+- `pt-BR/m02.md` [4]: “oxalá o juiz rigoroso julgasse” → “oxalá o juiz severo julgasse” — *districtus* aplicado ao juiz → “severo” (Key Terms); estava “rigoroso”.
+- `pt-BR/m03.md` [4]: “Precipita-te, mísero homúnculo,” → “Precipita-te, mísero homenzinho,” — *homuncio* → “homenzinho” (Key Terms); estava “homúnculo”.
+- `pt-BR/m09.md` [3]: “Proclamamos, ó Cristo, as vossas misericórdias;” → “Proclamamos, ó Cristo, as vossas compaixões;” — *miserationes* → “compaixões” (Key Terms); estava “misericórdias”.
+- `pt-BR/m09.md` [9]: “nem a bondade do benefício” → “nem a piedade do benefício” — *pietas* → “piedade” (Key Terms); “bondade” corresponde a bonitas, atributo que o glossário distingue. *(meaning)*
+- `pt-BR/m09.md` [16]: “pó e cinza e vil obra de barro” → “pó e cinza e vil feitura” — *figmentum* → “feitura” (Key Terms); estava “obra de barro”.
+- `pt-BR/m13.md` [2]: “aquele lugar de deleite deífico” → “aquele lugar de prazer deífico” — *voluptas* → “prazer” (Key Terms); estava “deleite”.
+- `pt-BR/m14.md` [7]: “com a abundância das vossas delícias” → “com a abundância do vosso prazer” — *voluptas* → “prazer” (Key Terms); estava “delícias”.
+- `pt-BR/m14.md` [8]: “da torrente das vossas delícias” → “da torrente do vosso prazer” — *voluptas* → “prazer” (Key Terms); estava “delícias”.
+- `pt-BR/translation-journal.md`: “| hospitium | hospedaria | o27 ¶4 |” → “| hospitium | hospedaria | o27 ¶4; no sentido de alojamento oferecido ao peregrino, “hospedagem” (m15 ¶11) |” — Em paret hospitium peregrino, hospitium designa a hospedagem oferecida, sem necessariamente designar uma hospedaria.
+- `pt-BR/m16.md` [3]: “que riquezas das suas misericórdias te mostrou” → “que riquezas das suas compaixões te mostrou” — *miserationum* → “compaixões” (Key Terms); estava “misericórdias”.
+- `pt-BR/m16.md` [3]: “chamado de volta só pela sua misericórdia” → “chamado de volta só pela sua compaixão” — *miseratione* → “compaixão” (Key Terms); estava “misericórdia”.
+- `pt-BR/m18.md` [10]: “que pela caridade opere em mim” → “que pelo amor opere em mim” — *dilectionem* → “amor” (Key Terms); estava “caridade”, reservada a charitas.
+- `pt-BR/m18.md` [13]: “Rogo-vos, por todas as vossas misericórdias,” → “Rogo-vos, por todas as vossas compaixões,” — *miserationes* → “compaixões” (Key Terms); estava “misericórdias”.
+- `pt-BR/m18.md` [17]: “indigno de tão numerosas misericórdias” → “indigno de tão numerosas compaixões” — *miserationibus* → “compaixões” (Key Terms); estava “misericórdias”.
+- `pt-BR/m19.md` [4]: “dá algum bem neste mundo” → “dá algum bem neste século” — *in hoc saeculo*, no sentido da vida terrena → “neste século” (Key Terms); estava “neste mundo”.
+- `pt-BR/m19.md` [4]: “possa ter neste mundo” → “possa ter neste século” — *in hoc saeculo*, no sentido da vida terrena → “neste século” (Key Terms); estava “neste mundo”.
+- `pt-BR/m19.md` [5]: “o que Deus dá ao homem neste mundo” → “o que Deus dá ao homem neste século” — *in hoc saeculo*, no sentido da vida terrena → “neste século” (Key Terms); estava “neste mundo”.
+- `pt-BR/m19.md` [5]: “ao homem, neste mundo, viver” → “ao homem, neste século, viver” — *in hoc saeculo*, no sentido da vida terrena → “neste século” (Key Terms); estava “neste mundo”.
+- `pt-BR/m19.md` [12]: “operando a misericórdia divina” → “operando a compaixão divina” — *miseratione* → “compaixão” (Key Terms); estava “misericórdia”.
+
+### Part terms 1 of 3, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read of round 1's 22 changes (Key Terms alignment): all correct against the source and their sentences; the shown paragraphs read whole; one concord fix in m01 [13].
+- `pt-BR/m01.md` [13]: “Estreitar-se-á a garganta, e o ventre, que tantas vezes se dilataram com variados manjares, se fartará de vermes.” → “Estreitar-se-á a garganta, e o ventre se fartará de vermes, eles que tantas vezes se dilataram com variados manjares.” — source: guttur et venter … qui … distenti sunt (plural, both organs); the relative clause in the plural hung on “o ventre” alone breaks the concord
+- Rejected: pt-BR/m14.md [6] — audit: repeated word “ama ama” — “nem vos ama ama o mundo”: the first verb ends the subject clause and the second is the main verb. It follows the Latin (non … diligit, mundum diligit) and is grammatical
+- Rejected: pt-BR/m09.md [17], pt-BR/m16.md [3] — audit: fewer emphasis markers than the source — adjacent italic spans of one quotation (*calix* iste *Babylonis…*; *Verba* enim *iniquorum…*) were joined into a single span. The quotation is complete, and *mortem peccatoris, sed* antes *ut…* and *Ubi est…* sit… keep the source's split
+- Rejected: pt-BR/m02.md [5] — districtissimus → “rigorosíssimo”, not “severo” — the Key Terms row covers districtus judex. Here it is a superlative predicate paired with patientissimus, so “rigorosíssimo” is a defensible rendering
+
+### Part terms 1 of 3, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificada a alteração e lidos integralmente m01 [12–14] e as notas apresentadas; nenhum defeito objetivo encontrado.
+- Rejected: pt-BR/m01.md [13] — Possível problema de concordância em “eles que tantas vezes se dilataram”. — “Eles” retoma conjuntamente garganta e ventre; o masculino plural está correto e preserva o referente plural de “qui … distenti sunt”.
+- Rejected: Auditoria mecânica — linha “Soter, ousion, eleyson” — Ausência de “mantidos em grego” no texto pt-BR. — A expressão descreve uma decisão do glossário e não precisa ocorrer na tradução. A contagem apresentada não demonstra defeito; o trecho de o40 não foi incluído neste delta.
+
+### Part terms 2 of 3, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 17 minor. 78 parágrafos sinalizados lidos; 16 ocorrências com desvio de vocabulário, 1 complemento de glossário e 1 correção adicional de sentido.
+- `pt-BR/o01.md` [8]: “Lembrai-vos das vossas misericórdias” → “Lembrai-vos das vossas compaixões” — *miserationum* → “compaixões” (Key Terms); estava “misericórdias”.
+- `pt-BR/o01.md` [9]: “a luz das vossas misericórdias” → “a luz das vossas compaixões” — *miserationum* → “compaixões” (Key Terms); estava “misericórdias”.
+- `pt-BR/o02.md` [3]: “o amor da sua prole querida” → “a caridade da sua prole querida” — *charitatem* → “caridade”; a nota do glossário determina “caridade” onde o latim tem *charitas*.
+- `pt-BR/o02.md` [3]: “pelo amor do vosso Filho onipotente” → “pela caridade do vosso Filho onipotente” — *charitatem* → “caridade” (Key Terms); estava “amor”.
+- `pt-BR/o14.md` [2]: “da torrente das vossas delícias” → “da torrente do vosso prazer” — *voluptatis* → “prazer” (Key Terms); estava “delícias”.
+- `pt-BR/o17.md` [6]: “discernis se é reto e justo” → “discernis que é reto e justo” — *discernis hoc rectum et justum esse* enuncia o que se discerne; “se” transforma a afirmação em dúvida. *(meaning)*
+- `pt-BR/o17.md` [7]: “com o vosso deleite e o vosso desejo” → “com o vosso prazer e o vosso desejo” — *voluptate* → “prazer” (Key Terms); estava “deleite”.
+- `pt-BR/o18.md` [3]: “da torrente das vossas delícias” → “da torrente do vosso prazer” — *voluptatis* → “prazer” (Key Terms); estava “delícias”.
+- `pt-BR/o19.md` [5]: “da torrente das vossas delícias” → “da torrente do vosso prazer” — *voluptatis* → “prazer” (Key Terms); estava “delícias”.
+- `pt-BR/o20.md` [7]: “da torrente das vossas delícias” → “da torrente do vosso prazer” — *voluptatis* → “prazer” (Key Terms); estava “delícias”.
+- `pt-BR/o22.md` [4]: “da torrente das vossas delícias” → “da torrente do vosso prazer” — *voluptatis* → “prazer” (Key Terms); estava “delícias”.
+- `pt-BR/translation-journal.md`: “| praesumptio / praesumere | presunção / presumir | m12 ¶4, em sentido positivo de confiança segura |” → “| praesumptio / praesumere | presunção / presumir | m12 ¶4, em sentido positivo de confiança segura; “ousadia” / “ousar” no sentido de atrevimento diante da própria indignidade ou de transgressão do que é proibido (o23, o25) |” — A tradução usa consistentemente “ousadia” / “ousar” para o atrevimento, sentido distinto da confiança segura explicitada na nota.
+- `pt-BR/o24.md` [5]: “como poderoso e misericordioso” → “como poderoso e compassivo” — *miserator* é a forma pessoal correspondente a *miseratio*, “compaixão”; mantém a distinção de *misericordia*.
+- `pt-BR/o28.md` [3]: “segundo a multidão das vossas comiserações” → “segundo a multidão das vossas compaixões” — *miserationum* → “compaixões” (Key Terms); estava “comiserações”.
+- `pt-BR/o39.md` [3]: “fazei-me recordar as misericórdias” → “fazei-me recordar as compaixões” — *miserationes* → “compaixões” (Key Terms); estava “misericórdias”.
+- `pt-BR/o41.md` [2]: “o mesmo nosso Senhor misericordioso” → “o mesmo nosso Senhor compassivo” — *miseratorem* corresponde a *miseratio*, “compaixão”; mantém a distinção de *misericordia*.
+- `pt-BR/o51.md` [5]: “vos afastais do pobre homem” → “vos afastais do homenzinho” — *homunculum* → “homenzinho” (Key Terms); estava “pobre homem”.
+- `pt-BR/o52.md` [10]: “o que, arrependidos, pedimos” → “o que, penitentes, pedimos” — *poenitentes* → “penitentes”, forma correspondente a *poenitentia*, “penitência” (Key Terms).
+
+### Part terms 2 of 3, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read of 18 changes in o01–o52 and the journal: all correct; one fix to the journal, whose o17 ¶6 entry still described the old reading "se".
+- `pt-BR/translation-journal.md`: “a letra diz o contrário do argumento; vertido "discernis se é reto e justo que…", como pergunta implícita.” → “vertido literalmente, "discernis que é reto e justo que…".” — O texto agora traz "discernis que é reto e justo"; a decisão registrada descreve a versão anterior com "se".
+- Rejected: pt-BR/o28.md [3] — Auditoria: palavra repetida "nos nos" — "amando-nos nos criastes": pronome enclítico seguido de próclise; correto.
+- Rejected: pt-BR/o28.md [3] — Auditoria: parênteses a mais — Parênteses acrescentados por decisão registrada no diário (confissão incidental).
+- Rejected: pt-BR/o20.md [7], o22.md [4] — "de que tenho sede" após a troca para "do vosso prazer" — O relativo retoma "prazer" (*voluptatis… quam sitio*); concordância e sentido corretos.
+- Rejected: pt-BR/o24.md [5], o41.md [2] — *miserator* → "compassivo" — Coerente com a linha *misericors et miserator* → "misericordioso e compassivo" dos Key Terms.
+
+### Part terms 2 of 3, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Revisada a única alteração desta rodada, no diário: a decisão sobre o17 ¶6 corresponde ao latim citado e à tradução registrada; nenhum defeito encontrado.
+
+### Part terms 3 of 3, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 5 minor. 57 sinalizações lidas em 29 parágrafos; 5 sinalizações com desvio, em 4 parágrafos.
+- `pt-BR/o64.md` [8]: “a multidão das vossas misericórdias” → “a multidão das vossas compaixões” — *miserationum* → “compaixões” (Key Terms); estava “misericórdias”.
+- `pt-BR/o67.md` [4]: “fazendo-se amiga deste mundo” → “fazendo-se amiga deste século” — *hujus saeculi* → “deste século” (Key Terms); estava “deste mundo”.
+- `pt-BR/o69.md` [12]: “bebeis da torrente da sua delícia” → “bebeis da torrente do seu prazer” — *voluptatis* → “prazer” (Key Terms); estava “delícia”.
+- `pt-BR/o71.md` [12]: “move a minha alma ao arrependimento” → “move a minha alma à penitência” — *ad poenitendum* → “à penitência”, conforme o termo “penitência” (Key Terms); estava “ao arrependimento”.
+- `pt-BR/o71.md` [12]: “vós a fizestes arrepender-se daquilo com que se alegrava” → “vós a fizestes penitente daquilo com que se alegrava” — *poenitentem* → “penitente”, forma derivada de “penitência” (Key Terms); estava “arrepender-se”.
+
+### Part terms 3 of 3, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta da parte 3: as cinco alterações estão corretas; uma delas quebrou o paralelo em o71 [12] (corrigido com 'dolente'), e há uma próclise errada em o67 [5].
+- `pt-BR/o71.md` [12]: “e doer-se daquilo em que se deleitava” → “e dolente daquilo em que se deleitava” — A fonte tem *poenitentem unde jucundabatur, et dolentem unde delectabatur*. A troca de 'arrepender-se' por 'penitente' deixou um adjetivo coordenado a um infinitivo. 'dolente' restaura o paralelo do latim.
+- `pt-BR/o67.md` [5]: “não defendendo-o, mas intercedendo” → “não o defendendo, mas intercedendo” — Com o advérbio 'não' antes do gerúndio, a próclise é obrigatória.
+- Rejected: pt-BR/o67.md [3] — *quamvis tepido* concorda com *affectu*, mas foi vertido como 'embora tíbio', referido ao orante — A diferença é mínima: o afeto tíbio é o do próprio orante. O sentido não se altera.
+- Rejected: pt-BR/o64.md [8] — Ponto de exclamação depois de 'tudo o que pequei' e interrogação depois de 'Amargura do desespero' — Os sinais vêm da fonte e foram mantidos por decisão registrada no diário.
+- Rejected: pt-BR/o69.md [12] — 'torrente do seu prazer' em vez de 'delícia' — Está conforme o Key Terms (*voluptas* = prazer) e é fiel ao latim.
+
+### Part terms 3 of 3, Round 3 (codex, delta read)
+Verdict: 1 meaning-level, 0 minor. Lidos os seis parágrafos apresentados; as duas correções anteriores estão corretas. Encontrada uma omissão de sentido em o67 [6].
+- `pt-BR/o67.md` [6]: “para ele foge, aterrado, o vosso réu” → “para ele foge de vós, aterrado, o vosso réu” — Em «ad ipsum te fugit», o réu foge de Jesus para João, cujo nome interpõe à sentença; a tradução omite «te», objeto de «fugit». *(meaning)*
+
+### Part terms 3 of 3, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of o67 [5]–[7]: the fix adding “de vós” for *te fugit* is correct; no new defects.
+- Rejected: pt-BR/o67.md [6] — Check of the round 3 fix: “para ele foge de vós, aterrado, o vosso réu” — In *ad ipsum te fugit* the *te* is the object of *fugit*: the culprit flees from Jesus to John. “foge de vós” renders it, and the sentence and its concord stay intact.
+- Rejected: pt-BR/o67.md [6] — *sub quo tegmine protegitur* (present) rendered “se protegerá” (future) — The future of conjecture fits the rhetorical question and keeps the sense. It is a style choice.
+- Rejected: Key Terms, row Soter/ousion/eleyson — Audit: “mantidos em grego” ×0 in pt-BR — That cell describes how the words are treated; it is not a rendering expected in the text. The row concerns o40 and has nothing to do with the paragraphs under review.
