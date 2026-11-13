@@ -100,7 +100,7 @@ Destino: pt-BR.
 | Demiurge | Demiurgo | |
 | animal | psíquico | Quando designa a natureza da alma em oposição à espiritual; não se aplica às referências a alimentos. |
 | the Word / Holy Ghost / Holy Spirit | o Verbo / Espírito Santo | Convenções do diário de *Fragmentos das obras perdidas de Irineu*. |
-| dispensation / repentance / type | economia / penitência / figura | Convenções de *Fragmentos das obras perdidas de Irineu*; permanece a escolha já registrada “dispensação especial” para a fórmula particular de Marcos. |
+| dispensation / repentance / type | economia / penitência / figura | Convenções de *Fragmentos das obras perdidas de Irineu*; permanece a escolha já registrada “dispensação especial” para a fórmula particular de Marcos. Quando repentance é atribuído hipoteticamente ao Pai no argumento contra os gnósticos, “arrependimento”. |
 | Simon Magus / Simonians / Menander | Simão Mago / simonianos / Menandro | |
 | Helena / Helen / Stesichorus | Helena / Helena / Estesícoro | A mesma forma portuguesa para as duas mulheres chamadas Helena. |
 | Saturninus / Basilides / Carpocrates | Saturnino / Basílides / Carpócrates | |
@@ -449,7 +449,7 @@ Destino: pt-BR.
 - Em ch129, §§1 e 3, adotado “vós” na interpelação coletiva aos adversários; nas citações dirigidas a Deus ou a Cristo, mantido o tratamento reverente por “vós”.
 - Em ch129, §4, mantidas as imagens agrícolas de “semeadura”, “relha de arado” e “foice”; acrescentada a nota do tradutor `[^1]` para explicar a relha e a passagem da imagem do arado à da crucifixão.
 - Em ch128, §9, conservada a comparação da Igreja com a mulher de Ló transformada em coluna de sal, sem reformular a particularidade da fonte.
-- Em ch131, §8, conservada a afirmação de que o filho se arrependeu “quando o arrependimento de nada lhe aproveitava”, conforme a fonte, sem harmonização com a parábola evangélica.
+- Em ch131, §8, conservada a afirmação de que o filho se arrependeu “quando a penitência de nada lhe aproveitava”, conforme a fonte, sem harmonização com a parábola evangélica.
 - Conservadas as referências bíblicas e as composições de citações da fonte, inclusive Lucas 13:6 em ch131, §8, e Efésios 4:29 e 1 Coríntios 6:11 em ch132, §4.
 - Nas interpelações a Jerusalém e Cafarnaum, mantido “tu” para a cidade; preservadas as mudanças para “vós” presentes nas citações. Em ch134, §§2–3, empregado “tu” na exortação ao leitor individual.
 - Em ch132, §7, acrescentada a nota do tradutor `[^1]` para esclarecer a coroa vegetal dos vencedores das competições antigas, pressuposta na imagem da “coroa corruptível”.
@@ -723,3 +723,139 @@ Verdict: 0 meaning-level, 0 minor. Delta read of ch152 [3]–[5] and the journal
 - Rejected: pt-BR/ch152.md [3] — imperative “diz ao sopro” instead of “dize” — Both forms are accepted for the second-person imperative of “dizer”. This is a style choice, not an error.
 - Rejected: pt-BR/ch152.md [5], note [^1] — translator's note identifying “banho da regeneração” as baptism — The identification is correct (cf. Tito 3:5). It explains a term the text does not explain, so it is not a restatement.
 - Rejected: pt-BR/ch152.md [3]–[6] — audit: emphasis markers and parentheses differ — The extra emphasis markers come from the bold paragraph numbers and the italicised footnote marker text. The parenthesis around Isaías 65:22 is rendered with dashes. No content is lost.
+
+### Part terms 1 of 4, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 28 minor. 67 parágrafos sinalizados lidos; 27 ocorrências com desvio terminológico, em 24 parágrafos; 1 complemento de glossário.
+- `pt-BR/ch008.md` [4]: “conservando o tipo da Tétrade” → “conservando a figura da Tétrade” — type → “figura” (Key Terms); estava “tipo”.
+- `pt-BR/ch008.md` [4]: “um tipo do Cristo do alto” → “uma figura do Cristo do alto” — type → “figura” (Key Terms); estava “tipo”.
+- `pt-BR/ch009.md` [4]: “era um tipo de Acamot” → “era uma figura de Acamot” — type → “figura” (Key Terms); estava “tipo”.
+- `pt-BR/ch009.md` [6]: “era um tipo do Demiurgo” → “era uma figura do Demiurgo” — type → “figura” (Key Terms); estava “tipo”.
+- `pt-BR/ch010.md` [5]: “assumiu um corpo psíquico” → “assumiu um corpo animal” — animal body → “corpo animal” (Key Terms), no sentido de corpo animado pela alma; estava “corpo psíquico”.
+- `pt-BR/ch015.md` [3]: “não tem substância material e é ingênito” → “não tem substância material e é não gerado” — unbegotten → “não gerado” (Key Terms); estava “ingênito”.
+- `pt-BR/ch015.md` [9]: “formada por sua livre vontade” → “formada por seu livre-arbítrio” — free will → “livre-arbítrio” (Key Terms); estava “livre vontade”.
+- `pt-BR/ch015.md` [9]: “tornou-se o Formador e o Genitor” → “tornou-se o Artífice e o Genitor” — Framer → “Artífice” (Key Terms); estava “Formador”.
+- `pt-BR/ch016.md` [7]: “o Fundador, Formador e Criador” → “o Fundador, Artífice e Criador” — Framer → “Artífice” (Key Terms); estava “Formador”.
+- `pt-BR/ch017.md` [5]: “as dispensações de Deus” → “as economias de Deus” — dispensations → “economias” (Key Terms); estava “dispensações”.
+- `pt-BR/ch021.md` [5]: “o Criador e Formador [do mundo]” → “o Criador e Artífice [do mundo]” — Framer → “Artífice” (Key Terms); estava “Formador”.
+- `pt-BR/ch023.md` [3]: “desprezam a obra de Deus” → “desprezam a obra das mãos de Deus” — workmanship → “obra das mãos” (Key Terms); estava “obra”, sem a imagem registrada no glossário.
+- `pt-BR/ch025.md` [3]: “o homem foi obra dos anjos” → “o homem foi obra das mãos dos anjos” — workmanship → “obra das mãos” (Key Terms); estava “obra”, na mesma referência à formação do homem.
+- `pt-BR/ch030.md` [3]: “Assim se formarão as conjunções” → “Assim se formarão as uniões” — conjunctions → “uniões” (Key Terms), para os pares de Éons; estava “conjunções”.
+- `pt-BR/ch030.md` [4]: “formou-se uma conjunção entre” → “formou-se uma união entre” — conjunction → “união” (Key Terms), para o par de Éons; estava “conjunção”.
+- `pt-BR/ch031.md` [9]: “de sua própria *enthymesis*” → “de sua própria *entímese*” — enthymesis → “entímese” (Key Terms); o termo permanecia na grafia da fonte.
+- `pt-BR/ch033.md` [2]: “refutação de suas conjunções” → “refutação de suas uniões” — conjunctions → “uniões” (Key Terms), para os pares de Éons; estava “conjunções”.
+- `pt-BR/ch034.md` [3]: “por sua própria livre vontade criou” → “por seu próprio livre-arbítrio criou” — free will → “livre-arbítrio” (Key Terms); estava “livre vontade”.
+- `pt-BR/ch037.md` [3]: “a causa de tal disposição da parte de Deus” → “a causa de tal economia da parte de Deus” — dispensation → “economia” (Key Terms); estava “disposição”.
+- `pt-BR/ch043.md` [3]: “quanto às disposições do [verdadeiro] Deus” → “quanto às economias do [verdadeiro] Deus” — dispensations → “economias” (Key Terms); estava “disposições”.
+- `pt-BR/ch045.md` [4]: “dessa conjunção unida e inseparável” → “dessa união unida e inseparável” — conjunction → “união” (Key Terms), para o par de Éons; estava “conjunção”. Os qualificativos reproduzem a fonte.
+- `pt-BR/ch045.md` [4]: “todas as demais conjunções dos Éons produzidos” → “todas as demais uniões dos Éons produzidos” — conjunctions → “uniões” (Key Terms), para os pares de Éons; estava “conjunções”.
+- `pt-BR/ch047.md` [8]: “aquelas conjunções que procedem da unidade” → “aquelas uniões que procedem da unidade” — conjunctions → “uniões” (Key Terms), no argumento sobre os pares do Pleroma; estava “conjunções”.
+- `pt-BR/ch052.md` [4]: “a natureza animal precisava ser instruída” → “a natureza psíquica precisava ser instruída” — animal nature → “natureza psíquica” (Key Terms), categoria gnóstica relativa à alma; estava “natureza animal”.
+- `pt-BR/ch052.md` [5]: “tenha permanecido de natureza animal” → “tenha permanecido de natureza psíquica” — animal nature → “natureza psíquica” (Key Terms), categoria gnóstica relativa à alma; estava “natureza animal”.
+- `pt-BR/ch053.md` [7]: “segundo [o princípio da] conjunção” → “segundo [o princípio da] união” — conjunction → “união” (Key Terms), na união da Entímese com o Salvador; estava “conjunção”.
+- `pt-BR/ch054.md` [3]: “Antropo, em conjunção com Eclésia” → “Antropo, em união com Eclésia” — conjunction → “união” (Key Terms), para o par de Éons; estava “conjunção”.
+- `pt-BR/translation-journal.md`: “| dispensation / repentance / type | economia / penitência / figura | Convenções de *Fragmentos das obras perdidas de Irineu*; permanece a escolha já registrada “dispensação especial” para a fórmula particular de Marcos. |” → “| dispensation / repentance / type | economia / penitência / figura | Convenções de *Fragmentos das obras perdidas de Irineu*; permanece a escolha já registrada “dispensação especial” para a fórmula particular de Marcos. Quando repentance é atribuído hipoteticamente ao Pai no argumento contra os gnósticos, “arrependimento”. |” — Em ch038 e ch050, repentance indica uma suposta mudança de disposição do Pai, corretamente traduzida por “arrependimento”; o sentido não é o de penitência.
+
+### Part terms 1 of 4, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 4 minor. Delta read of the 28 changes in ch008–ch054 and the journal row: 24 are correct; the corpo animal change in ch010 [5] is reverted, footnote 18 in ch052 is brought into line with the new text, a stray italic is removed in ch031 [9], and one leftover 'conjunções' in ch045 [5] is aligned.
+- `pt-BR/ch010.md` [5]: “assumiu um corpo animal” → “assumiu um corpo psíquico” — Here the Valentinian Saviour's body is described (Greek σῶμα ψυχικόν), so the gnostic category applies: 'animal' → 'psíquico' (Key Terms; journal decision on ch008/ch067). 'Corpo animal' is kept only for the Pauline use outside the gnostic system. Also matches 'o Cristo psíquico' in ch008 [4].
+- `pt-BR/ch031.md` [9]: “de sua própria *entímese*” → “de sua própria entímese” — Italics mark only retained Latin or Greek; 'entímese' is now a Portuguese rendering (Key Terms).
+- `pt-BR/ch045.md` [5]: “as outras conjunções também admitem” → “as outras uniões também admitem” — 'Conjunctions' of the pairs of Éons → 'uniões' (Key Terms), as in the same argument in [4].
+- `pt-BR/ch052.md` [4]: “*Nota do tradutor:* “Animal”, nesta classificação gnóstica, significa “relativo à alma”, também chamado “psíquico”; não se refere aqui aos animais.” → “*Nota do tradutor:* “Psíquico”, nesta classificação gnóstica, significa “relativo à alma”; traduz o termo “animal” da edição inglesa, que não se refere aqui aos animais.” — Footnote 18 explained the word 'animal', which no longer occurs in [4] after the change to 'natureza psíquica'. The note is rewritten for the current text.
+- Rejected: pt-BR/ch045.md [4] — 'dessa união unida e inseparável' is pleonastic — It reproduces the source 'united and inseparable conjunction', and the term is required by Key Terms. Awkward, but not wrong.
+- Rejected: pt-BR/ch025.md [3] — 'obra das mãos dos anjos' applies the image of God's creation to the angels — The source uses 'workmanship', the same term the glossary covers, and the image also fits the angels as makers. Not a defect.
+- Rejected: pt-BR/ch031.md [8] — '*enthymesis* (pensamento)' keeps the Greek form while [9] translates it — Here the source glosses the term together with *nous*; keeping both Greek terms with their glosses is a defensible choice.
+
+### Part terms 1 of 4, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 4 minor. Lidos os 12 parágrafos apresentados e as duas notas; as quatro alterações anteriores estão corretas. Encontrados quatro desvios terminológicos menores, sem defeitos de sentido.
+- `pt-BR/ch010.md` [4]: “este o Artífice de todas as coisas” → “este o Formador de todas as coisas” — A fonte diz “Former”, registrado como “Formador” no glossário; “Artífice” corresponde a “Framer”.
+- `pt-BR/ch045.md` [6]: “as demais conjunções também foram” → “as demais uniões também foram” — “Conjunctions” designa os pares de Éons; o glossário estabelece “uniões”.
+- `pt-BR/ch045.md` [6]: “por causa dessa última conjunção” → “por causa dessa última união” — “Conjunction” designa o par de Éons; o glossário estabelece “união”.
+- `pt-BR/ch045.md` [6]: “se essas mesmas conjunções, que estão” → “se essas mesmas uniões, que estão” — “Conjunctions” designa os pares de Éons; o glossário estabelece “uniões”.
+
+### Part terms 1 of 4, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of ch010 [3]–[5] and ch045 [5]–[7] with footnote 15: the four changes (Formador for 'Former'; uniões/união for 'conjunction(s)') are correct and kept agreement intact; no defects found.
+- Rejected: pt-BR/ch045.md [6] — 'uniões' followed by 'sem união umas com as outras' repeats the word — The source repeats it too ('conjunctions … without union one with another'), so this is not a defect.
+- Rejected: audit: Key Terms row 'ploughshare / relha de arado' — The row's form has 0 occurrences in pt-BR — The row refers to ch129, which this delta read did not show, so I cannot check what text is there. Leave it to a full read of ch129.
+- Rejected: ch010 [3]–[5], ch045 [3]–[10] emphasis flags — Different counts of emphasis markers — The extra markers are the bold paragraph numbers and the italics on retained Latin forms (*Christus*), as the journal decides.
+
+### Part terms 2 of 4, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 23 minor. 55 parágrafos sinalizados examinados; 18 apresentavam desvio terminológico, com 23 correções.
+- `pt-BR/ch063.md` [5]: “são obra e criaturas desse [Criador]” → “são obra das mãos desse [Criador] e criaturas suas” — workmanship → “obra das mãos” (Key Terms); preservar a imagem da ação criadora.
+- `pt-BR/ch065.md` [3]: “mediante o arrependimento” → “mediante a penitência” — repentance → “penitência” (Key Terms); estava “arrependimento”.
+- `pt-BR/ch074.md` [4]: “chegarão os pecadores ao arrependimento?” → “chegarão os pecadores à penitência?” — repentance → “penitência” (Key Terms); ajustar a contração.
+- `pt-BR/ch078.md` [3]: “pregando aquele arrependimento que deveria” → “pregando aquela penitência que deveria” — repentance → “penitência” (Key Terms); ajustar a concordância.
+- `pt-BR/ch078.md` [3]: “fruto digno do arrependimento” → “fruto digno da penitência” — repentance → “penitência” (Key Terms); ajustar o artigo.
+- `pt-BR/ch078.md` [3]: “Ele lhes pregava, portanto, o arrependimento da maldade” → “Ele lhes pregava, portanto, a penitência para se afastarem da maldade” — repentance → “penitência” (Key Terms); preservar o sentido de abandono da maldade.
+- `pt-BR/ch079.md` [3]: “pregando-lhes o arrependimento” → “pregando-lhes a penitência” — repentance → “penitência” (Key Terms); estava “arrependimento”.
+- `pt-BR/ch079.md` [5]: “provém do formador do mundo” → “provém do artífice do mundo” — framer → “Artífice” (Key Terms); estava “formador”.
+- `pt-BR/ch079.md` [5]: “o Formador [Demiurgo] do universo inteiro” → “o Artífice [Demiurgo] do universo inteiro” — Framer → “Artífice” (Key Terms); estava “Formador”.
+- `pt-BR/ch080.md` [9]: “para ilustrar suas conjunções” → “para ilustrar suas uniões” — conjunction → “união” nos pares de Éons (Key Terms); estava “conjunções”.
+- `pt-BR/ch081.md` [7]: “para dar a Israel arrependimento e perdão” → “para dar a Israel penitência e perdão” — repentance → “penitência” (Key Terms); estava “arrependimento”.
+- `pt-BR/ch081.md` [11]: “que se voltem para ele com arrependimento” → “que se voltem para ele com penitência” — repentance → “penitência” (Key Terms); estava “arrependimento”.
+- `pt-BR/ch085.md` [7]: “o arrependimento para a remissão dos pecados” → “a penitência para a remissão dos pecados” — repentance → “penitência” (Key Terms); ajustar o artigo.
+- `pt-BR/ch089.md` [3]: “a um arrependimento duradouro” → “a uma penitência duradoura” — repentance → “penitência” (Key Terms); ajustar a concordância.
+- `pt-BR/ch092.md` [5]: “sem arrependimento e sem voltar atrás” → “sem penitência e sem voltar atrás” — repentance → “penitência” (Key Terms); estava “arrependimento”.
+- `pt-BR/ch092.md` [7]: “a consciência do pecado leva ao arrependimento” → “a consciência do pecado leva à penitência” — repentance → “penitência” (Key Terms); ajustar a contração.
+- `pt-BR/ch092.md` [7]: “[Adão] mostrou seu arrependimento por sua conduta” → “[Adão] mostrou sua penitência por sua conduta” — repentance → “penitência” (Key Terms); ajustar a concordância.
+- `pt-BR/ch093.md` [3]: “nosso Criador e Formador” → “nosso Criador e Artífice” — Framer → “Artífice” (Key Terms); estava “Formador”.
+- `pt-BR/ch094.md` [7]: “o Criador e Formador do universo” → “o Criador e Artífice do universo” — Framer → “Artífice” (Key Terms); estava “Formador”.
+- `pt-BR/ch094.md` [8]: “sua sabedoria (*Sophia*)” → “sua sabedoria (*Sofia*)” — Sophia → “Sofia” (Key Terms); o nome do Éon permaneceu na grafia da fonte.
+- `pt-BR/ch094.md` [9]: “o Formador e Criador deste universo” → “o Artífice e Criador deste universo” — Framer → “Artífice” (Key Terms); estava “Formador”.
+- `pt-BR/ch095.md` [4]: “representam o Criador e Formador” → “representam o Criador e Artífice” — Framer → “Artífice” (Key Terms); estava “Formador”.
+- NOT APPLIED (old text not found exactly once (2)): - `pt-BR/ch074.md` [4]: “os pecadores ao arrependimento” → “os pecadores à penitência” — repentance → “penitência” (Key Terms); ajustar a contração.
+
+### Part terms 2 of 4, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read: checked the 22 changes from round 1 and their neighbouring paragraphs in ch063–ch095; all are correct; one minor fix makes the Luke 5:32 quotation in ch074 [4] match the “penitência” now used in the question that follows it.
+- `pt-BR/ch074.md` [4]: “mas os pecadores ao arrependimento”” → “mas os pecadores à penitência”” — source repeats “sinners to repentance” in the quotation of Luke 5:32 and in the question that follows; after the round 1 fix the question reads “à penitência” but the quotation still reads “arrependimento”, so the repetition is lost; repentance → “penitência” (Key Terms)
+- Rejected: pt-BR/ch079.md [5] — “artífice do mundo” in lower case, against “Artífice” in the Key Terms table — the source has lower-case “framer” here and capital “Framer” later in the same paragraph; the translation follows the source
+- Rejected: pt-BR/ch078.md [3] — “a penitência para se afastarem da maldade” paraphrases “the repentance from wickedness” — the meaning is kept and the sentence is grammatical; the subject of “afastarem” is “lhes”
+- Rejected: pt-BR/ch092.md [7]; pt-BR/ch079.md [4]; pt-BR/ch089.md [3] — verb forms “se arrependem”, “se arrependiam”, “Deus se arrependerá” kept beside the noun “penitência” — the Key Terms row governs the noun; the verb “arrepender-se” is correct, and in Jonah 3:9 it is God who repents
+
+### Part terms 2 of 4, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificada a alteração da rodada 2 e lidos integralmente os parágrafos ch074 [3–5]: a correção está correta e não foram encontrados novos defeitos.
+- Rejected: pt-BR/ch074.md [3–5] — A auditoria aponta diferenças nos marcadores de ênfase. — Os marcadores apresentam os números autorais em negrito, conforme a convenção expressa no diário.
+- Rejected: pt-BR/translation-journal.md — ploughshare — A auditoria indica ausência de “relha de arado” na tradução. — As ocorrências pertinentes não foram mostradas neste delta; a contagem indicativa não permite confirmar um defeito nem determinar uma correção.
+
+### Part terms 3 of 4, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 11 minor. 53 parágrafos sinalizados examinados; 9 apresentam desvios terminológicos, com 11 correções.
+- `pt-BR/ch104.md` [5]: “convertido pelo arrependimento” → “convertido pela penitência” — repentance → “penitência” (Key Terms); estava “arrependimento”.
+- `pt-BR/ch106.md` [5]: “a dispensação do Antigo Testamento” → “a economia do Antigo Testamento” — dispensation → “economia” (Key Terms), inclusive na referência à lei mosaica.
+- `pt-BR/ch106.md` [5]: “a dispensação de Deus” → “a economia de Deus” — dispensation → “economia” (Key Terms); estava “dispensação”.
+- `pt-BR/ch115.md` [14]: “será do agrado de Deus tirar” → “será do beneplácito de Deus tirar” — good pleasure → “beneplácito” (Key Terms); estava “agrado”.
+- `pt-BR/ch115.md` [14]: “a oliveira silvestre é enxertada” → “a oliveira brava é enxertada” — wild olive-tree → “oliveira brava” (Key Terms); estava “oliveira silvestre”.
+- `pt-BR/ch128.md` [5]: “segundo sua conjunção peculiar” → “segundo sua união peculiar” — conjunction → “união” nos pares de Éons (Key Terms); estava “conjunção”.
+- `pt-BR/ch131.md` [8]: “enquanto homem, é obra sua” → “enquanto homem, é obra de suas mãos” — workmanship → “obra de suas mãos” (Key Terms); estava “obra sua”.
+- `pt-BR/ch131.md` [10]: “quando o arrependimento de nada lhe aproveitava” → “quando a penitência de nada lhe aproveitava” — repentance → “penitência” (Key Terms); estava “arrependimento”.
+- `pt-BR/ch132.md` [3]: “Deus te conduz ao arrependimento” → “Deus te conduz à penitência” — repentance → “penitência” (Key Terms); estava “arrependimento”.
+- `pt-BR/ch134.md` [3]: “por meio do arrependimento, a desobediência” → “por meio da penitência, a desobediência” — repentance → “penitência” (Key Terms); estava “arrependimento”.
+- `pt-BR/ch136.md` [5]: “chegassem ao arrependimento e cessassem” → “chegassem à penitência e cessassem” — repentance → “penitência” (Key Terms); estava “arrependimento”.
+
+### Part terms 3 of 4, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read of the 11 terminology changes and their neighbours in ch104–ch136: all correct; one minor fix to the journal, which still quoted the old ch131 §8 wording.
+- `pt-BR/translation-journal.md`: “se arrependeu “quando o arrependimento de nada lhe aproveitava”” → “se arrependeu “quando a penitência de nada lhe aproveitava”” — A rodada anterior trocou “arrependimento” por “penitência” em ch131 [10]; a decisão no diário cita uma forma que já não ocorre no texto.
+- Rejected: pt-BR/ch115.md [14] — “será do beneplácito de Deus tirar” soa pouco usual — A construção é gramatical e segue a linha “good pleasure → beneplácito” da tabela de termos.
+- Rejected: pt-BR/ch131.md [10] — “se arrependeu, quando a penitência de nada lhe aproveitava” alterna verbo e substantivo — O verbo “arrepender-se” é natural; o substantivo segue a tabela de termos. Não há defeito de sentido.
+- Rejected: pt-BR/ch136.md [5] — “o mesmo profeta” para “the same person” — O referente é Isaías, nomeado logo antes; a explicitação não altera o sentido.
+
+### Part terms 3 of 4, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Revisada a única alteração desta rodada, no diário: a citação agora corresponde à forma corrigida registrada para ch131; nenhum defeito encontrado. Nenhum parágrafo de capítulo foi fornecido nesta leitura delta.
+
+### Part terms 4 of 4, Round 1 (codex, terms read)
+Verdict: 5 meaning-level, 5 minor. 42 parágrafos sinalizados lidos; 6 apresentavam desvios terminológicos, corrigidos em 10 substituições.
+- `pt-BR/ch142.md` [3]: “sustentar a obra que ele próprio fizera” → “sustentar a obra de suas próprias mãos” — *workmanship* → “obra de suas mãos” (Key Terms); preservar a imagem da ação criadora de Deus.
+- `pt-BR/ch143.md` [3]: “é de natureza animal” → “é de natureza psíquica” — *animal nature* → “natureza psíquica” (Key Terms), aqui contraposta à condição espiritual e relacionada à alma.
+- `pt-BR/ch149.md` [5]: “por sermos de natureza animal” → “por sermos de natureza psíquica” — *animal nature* → “natureza psíquica” (Key Terms); manter o vocabulário da oposição entre psíquico e espiritual.
+- `pt-BR/ch154.md` [6]: “a palavra segura de Deus, que por negligência havíamos perdido por meio de uma árvore, sem termos como encontrá-la novamente, nós a receberíamos” → “o Verbo seguro de Deus, que por negligência havíamos perdido por meio de uma árvore, sem termos como encontrá-lo novamente, nós o receberíamos” — *word of God* → “Verbo de Deus” (Key Terms); a tipologia culmina no Filho manifestado no madeiro, com as mãos estendidas, e não apenas numa mensagem. *(meaning)*
+- `pt-BR/ch154.md` [6]: “a palavra de Deus é comparada” → “o Verbo de Deus é comparado” — *word of God* → “Verbo de Deus” (Key Terms); prossegue a mesma identificação tipológica. *(meaning)*
+- `pt-BR/ch154.md` [6]: “A palavra de Deus fende a rocha” → “O Verbo de Deus fende a rocha” — *word of God* → “Verbo de Deus” (Key Terms); a citação integra a comparação do Verbo com o machado. *(meaning)*
+- `pt-BR/ch154.md` [6]: “Essa palavra, portanto, que nos estava oculta, a economia do madeiro tornou manifesta” → “Esse Verbo, portanto, que nos estava oculto, a economia do madeiro tornou manifesto” — *word* retoma o Verbo de Deus manifestado pela cruz; ajustar também a concordância. *(meaning)*
+- `pt-BR/ch154.md` [6]: “a perdemos por meio de uma árvore, por meio de um madeiro ela foi novamente manifestada a todos, mostrando em si mesma” → “o perdemos por meio de uma árvore, por meio de um madeiro ele foi novamente manifestado a todos, mostrando em si mesmo” — Os pronomes retomam o Verbo; ajustar a concordância à correção do termo. *(meaning)*
+- `pt-BR/ch163.md` [4]: “por ter apostatado de Deus por sua própria vontade” → “por ter apostatado de Deus por seu próprio livre-arbítrio” — *free-will* → “livre-arbítrio” (Key Terms); era “própria vontade”.
+- `pt-BR/ch166.md` [3]: “aquilo que [possui] vontade própria e poder próprio” → “aquilo que [possui] seu próprio livre-arbítrio e poder próprio” — *free will* → “livre-arbítrio” (Key Terms); era “vontade própria”.
+
+### Part terms 4 of 4, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of 10 changes in ch142, ch143, ch149, ch154, ch163 and ch166 plus their neighbours: all changes correct, no new defects.
+- Rejected: pt-BR/ch154.md [6] — Jeremiah 23:29 quotation turned to “O Verbo de Deus fende a rocha”, though in Jeremiah it is a spoken word — Irenaeus cites it to prove the Word is likened to an axe and then says this Word was made manifest by the tree; capitalizing it keeps his identification and matches the Key Terms row
+- Rejected: pt-BR/ch143.md [4] — ““nosso corpo”, isto é, a carne […], são “os membros de Cristo”” has a singular subject with a plural verb — The verb ser may agree with a plural predicate noun; this is accepted Portuguese usage, not a concord error
+- Rejected: pt-BR/ch142.md [3] — “as mãos de Deus […] sustentar a obra de suas próprias mãos” repeats “mãos” — The repetition is a style choice; the sense and the Key Terms rendering are correct
+- Rejected: pt-BR/ch149.md [4] — “primeiro é o que é animal” keeps “animal” beside the new “natureza psíquica” in [5] — This is the Pauline quotation (1 Coríntios 15:46); the journal keeps “animal” for the Pauline animal/spiritual-body pair
