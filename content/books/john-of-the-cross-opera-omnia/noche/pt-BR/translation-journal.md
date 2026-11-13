@@ -10,8 +10,8 @@ Destino: pt-BR.
 | noche oscura | noite escura | |
 | noche del sentido / noche sensitiva / noche del espíritu / noche espiritual | noite do sentido / noite sensitiva / noite do espírito / noite espiritual | |
 | purgación | purgação | |
-| principiantes / aprovechantes / aprovechados / perfectos | principiantes / aproveitantes / aproveitados / perfeitos | Mantida a distinção *aprovechantes*/*aprovechados*, que as notas críticas contrapõem. |
-| contemplación infusa / oscura / secreta | contemplação infusa / escura / secreta | “Escura”, em harmonia com “noite escura”. |
+| principiantes / aprovechantes / aprovechados / perfectos | principiantes / estes que vão aproveitando / aproveitados / perfeitos | Mantida a distinção *aprovechantes*/*aprovechados*, que as notas críticas contrapõem. |
+| contemplación infusa / oscura / secreta | contemplação infusa / obscura / secreta | “Obscura” para a contemplação; “escura” para a noite. |
 | sequedad / sequedades | secura / securas | |
 | arrimo / desarrimo / desarrimado | arrimo / desarrimo / desarrimado | Termo conservado. |
 | gusto / sabor / sinsabor | gosto / sabor / dissabor | |
@@ -51,7 +51,7 @@ Destino: pt-BR.
 | Apocalipsis | Apocalipse | |
 | salir de mantillas / desarrimar del pecho | sair dos cueiros / desarrimar do peito | |
 | aprovechados / principiantes / perfectos | aproveitados / principiantes / perfeitos | Os três estados. *Aprovechantes* (l2-c1) → “estes que vão aproveitando”. |
-| sequedad / sinsabor | secura / dessabor | |
+| sequedad / sinsabor | secura / dissabor | |
 | noticia | notícia | Conhecimento; nota do tradutor em l1-c9. |
 | arrimo / desarrimar | arrimo / desarrimar | |
 | aprietos | apertos | |
@@ -63,7 +63,7 @@ Destino: pt-BR.
 | madero / labor / hornaza | madeiro / lavor / fornalha | Comparação do fogo (l2-c10). |
 | arrobamientos / traspasos | arroubamentos / transes | |
 | el Sabio | o Sábio | |
-| ratos | momentos | |
+| ratos | momentos | Também “espaços”, no sentido de períodos de tempo. |
 | refección | refeição | |
 | David | Davi | |
 | A oscuras y segura / Por la secreta escala disfrazada / A oscuras y en celada | Às escuras e segura / Pela secreta escada disfarçada / Às escuras e em celada | Canção segunda (l2-c15). |
@@ -81,7 +81,7 @@ Destino: pt-BR.
 | desfallecer / desfallecimiento | desfalecer / desfalecimento | |
 | arrimo / desarrimo | arrimo / desarrimo | |
 | estribar | apoiar-se, estribar | Deus no alto da escada. |
-| salud (salvación) | salvação | “sua amada salvação”, “elmo de salvação”. |
+| salud (salvación) | salvação | “sua amada salvação”, “elmo de salvação”. Na metáfora da cura espiritual, também “saúde”. |
 | almilla | gibão | Segunda veste da libré. |
 | blanco, verde, colorado | branco, verde, vermelho | As três cores da libré; *toga colorada* → “toga vermelha”. |
 | Hispalense | Hispalense | O códice H. |
@@ -305,3 +305,23 @@ Verdict: 0 meaning-level, 0 minor. Delta read of the round-3 fix in l2-c7 [8], w
 - Rejected: pt-BR/l2-c7.md [8] — Round-3 fix: 'no qual também pensava' may misattach the relative — Source 'el bien pasado que gozó…, en que también pensaba' attaches the relative to the good enjoyed. 'no qual' after 'um bem' says the same. 'Também' now goes with 'pensava', the article is restored, and the next sentence ('Mas essa experiência…') still follows.
 - Rejected: pt-BR/l2-c7.md [8] — 'um inimigo seu, que, embora esteja… ela receia que tornará a reviver' has a dangling relative — It copies the source's own construction ('un enemigo suyo, que aunque está… se recela que volverá'). The sense is clear.
 - Rejected: pt-BR/l2-c7.md [7]–[9] — audit: emphasis markers differ — The bold paragraph numbers are the house format. Earlier rounds already rejected this flag.
+
+### Part terms 1 of 1, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 7 minor. 118 parágrafos sinalizados examinados; 2 desvios no texto e 5 ajustes no glossário.
+- `pt-BR/translation-journal.md`: “| contemplación infusa / oscura / secreta | contemplação infusa / escura / secreta | “Escura”, em harmonia com “noite escura”. |” → “| contemplación infusa / oscura / secreta | contemplação infusa / obscura / secreta | “Obscura” para a contemplação; “escura” para a noite. |” — As ocorrências traduzidas usam consistentemente “contemplação obscura”, conforme as outras duas linhas do glossário.
+- `pt-BR/translation-journal.md`: “| principiantes / aprovechantes / aprovechados / perfectos | principiantes / aproveitantes / aproveitados / perfeitos | Mantida a distinção *aprovechantes*/*aprovechados*, que as notas críticas contrapõem. |” → “| principiantes / aprovechantes / aprovechados / perfectos | principiantes / estes que vão aproveitando / aproveitados / perfeitos | Mantida a distinção *aprovechantes*/*aprovechados*, que as notas críticas contrapõem. |” — Em l2-c1, “aprovechantes” é “estes que vão aproveitando”, conforme a outra linha do glossário; a distinção de “aproveitados” permanece.
+- `pt-BR/translation-journal.md`: “| sequedad / sinsabor | secura / dessabor | |” → “| sequedad / sinsabor | secura / dissabor | |” — A ocorrência traduzida usa “dissabor”, conforme a linha “gusto / sabor / sinsabor”; harmonizam-se as duas linhas.
+- `pt-BR/translation-journal.md`: “| ratos | momentos | |” → “| ratos | momentos | Também “espaços”, no sentido de períodos de tempo. |” — Em l1-c1 e l1-c14, “espaços” traduz corretamente períodos de tempo; acrescenta-se a variante usada.
+- `pt-BR/translation-journal.md`: “| salud (salvación) | salvação | “sua amada salvação”, “elmo de salvação”. |” → “| salud (salvación) | salvação | “sua amada salvação”, “elmo de salvação”. Na metáfora da cura espiritual, também “saúde”. |” — Em l2-c7 e l2-c16, “saúde” conserva corretamente a metáfora da purgação como tratamento e cura.
+- `pt-BR/l1-c9.md` [10]: “à Esposa nos Cantares, a saber:” → “à Esposa no Cântico dos Cânticos, a saber:” — “los Cantares” → “Cântico dos Cânticos” (Key Terms); uniformiza-se o título da obra.
+- `pt-BR/l2-c17.md` [4]: “como diz a Esposa nos Cantares,” → “como diz a Esposa no Cântico dos Cânticos,” — “los Cantares” → “Cântico dos Cânticos” (Key Terms); uniformiza-se o título da obra.
+
+### Part terms 1 of 1, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 0 minor. Delta: as 7 correções da rodada 1 conferem com a fonte; corrigida a referência da homilia de São Gregório na nota do tradutor [^39] de l2-c17.
+- `pt-BR/l2-c17.md`: ““Por isso Gregório (Hom. II sobre Ezequiel)” → ““Por isso Gregório (Hom. 14 sobre Ezequiel)” — A n. 5 da fonte lê “Hom. 14” (correção registrada no diário); na numeração contínua é a Hom. 2 do livro II sobre Ezequiel, lugar citado em II-II q. 180 a. 1. “Hom. II” sozinho indica outra homilia. *(meaning)*
+- Rejected: pt-BR/l1-c9.md [10] — “o terceiro” para *la tercera* — O referente é *señal* → “sinal”, masculino em português.
+- Rejected: pt-BR/l2-c17.md [5] — “por ser muito íntima” para *por ser él muy íntimo* — *Él* retoma *lenguaje* → “linguagem”, feminino; a concordância está certa.
+- Rejected: pt-BR/translation-journal.md (barrunto, estribar) — Linhas do glossário com 0 ocorrências no pt-BR segundo o audit — O audit conta a célula inteira (inclusive o erro “pressentimiento →” já registrado nas Decisões); os capítulos com essas palavras não foram mostrados nesta leitura delta.
+
+### Part terms 1 of 1, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Conferida a alteração de Hom. II para Hom. 14 com os registros fornecidos, sem novo defeito identificado; a nota completa e os parágrafos vizinhos não foram apresentados.
