@@ -30,7 +30,7 @@ Destino: pt-BR.
 | quiditas / quod quid est | quididade / o “que é” | |
 | ratio (veri, veritatis, entis) | razão (do verdadeiro, de verdade, de ente) | *Ratione differre* → “diferir pela razão”; *re* → “na realidade”, “realmente”. |
 | supposita | supósitos | |
-| adaequatio rei et intellectus / adaequari | adequação da coisa e do intelecto / ser adequado, adequar-se | Evitam-se as formas finitas do presente de “adequar” (“é adequado”, “adequar-se”). |
+| adaequatio rei et intellectus / adaequari | adequação da coisa e do intelecto / ser adequado, adequar-se | Evitam-se as formas finitas do presente de “adequar” (“é adequado”, “adequar-se”). No sentido de igualdade de extensão, adaequare / adaequari → “igualar / equiparar-se” (g2-c005 [30], g2-c009 [23]). |
 | commensuratio | comensuração | |
 | conformitas / concordia / convenientia | conformidade / concordância / conveniência | *Convenientia* no sentido escolástico de acordo, correspondência. |
 | comparatio (entis ad intellectum) | relação (do ente com o intelecto) | |
@@ -40,10 +40,10 @@ Destino: pt-BR.
 | intellectus componens et dividens | intelecto que compõe e divide | |
 | intellectus practicus / speculativus | intelecto prático / especulativo | |
 | intellectus agens / possibilis | intelecto agente / possível | |
-| intelligere / intellectus (= conceito) | inteligir / intelecção | *Intellectus quos significant* → “as intelecções que significam” (g1-c003 [9]). |
+| intelligere / intellectus (= conceito) | inteligir / intelecção | *Intellectus quos significant* → “as intelecções que significam” (g1-c003 [9]). No sentido de interpretar palavras ou enunciados, “entender” / “entendimento”; quando significa comunicar um sentido, “dar a entender”. |
 | vis / virtus cognitiva | faculdade / virtude cognoscitiva | Convenção dos irmãos: *vis* → faculdade; *virtus* → virtude. |
 | aestimatio | apreciação | Evita confusão com a potência estimativa. |
-| species / similitudo | espécie / semelhança | |
+| species / similitudo | espécie / semelhança | No sentido de aspecto sob o qual alguém aparece, *species* → “aparência”; referida à própria realidade divina contemplada, “forma”; na oposição bíblica *per fidem / per speciem*, “pela fé / pela visão”. |
 | mensura / mensurare / mensuratum | medida / medir / medido | |
 | exemplar / exemplari / exemplariter | exemplar / ser modelado (pelo exemplar) / à maneira de exemplar | |
 | lumen / lux | lume / luz | |
@@ -76,7 +76,7 @@ Destino: pt-BR.
 | dictum | dito | Oração infinitiva (*istum fornicari* → “que este fornica”); nota do tradutor em g1-c008 [^1]. |
 | habitudo | relação | |
 | aequatio / aequalitas / inaequalitas | equiparação / igualdade / desigualdade | Distinto de *adaequatio* (adequação). |
-| notio / notitia | noção / conhecimento | Na tríade agostiniana *mens, notitia, amor* → “mente, conhecimento, amor”; *nosse* → “conhecer”. |
+| notio / notitia | noção / conhecimento | Na tríade agostiniana *mens, notitia, amor* → “mente, conhecimento, amor”; *nosse* → “conhecer”. “Fora da tríade, notitia também admite notícia, especialmente nas expressões notícia habitual e notícia atual.” |
 | mens / memoria / intelligentia / voluntas | mente / memória / inteligência / vontade | Tríade agostiniana da imagem. |
 | imago Trinitatis | imagem da Trindade | *ad imaginem* → “à imagem”. |
 | assignatio / assignare (imaginem) | assinalação / assinalar | g10-c001. |
@@ -132,7 +132,7 @@ Destino: pt-BR.
 | Ethica | *Ética* | |
 | Metaphysica | *Metafísica* | Também a de Avicena. |
 | De animalibus | *Sobre os animais* | Nota do tradutor em g10-c007 [^2]. |
-| 6 De naturalibus (Avicena) | livro 6 dos *Naturais* | Nota do tradutor em g10-c002 [^2]. |
+| 6 De naturalibus (Avicena) | livro 6 de *Sobre as coisas naturais* | Nota do tradutor em g10-c002 [^2]. |
 | De duabus naturis (Boécio) | *Sobre as duas naturezas* | |
 | De Trinitate (Boécio) | *A Trindade* | |
 | De divinis nominibus | *Os nomes divinos* | Dionísio. |
@@ -157,7 +157,7 @@ Destino: pt-BR.
 | in vi orationis / in vi nominis | com valor de proposição / com valor de nome | Nota do tradutor em g10-c010 [^2]. |
 | oculus rationis lippus | olho da razão turvo | Hugo de São Vítor. |
 | via inveniendi / via iudicandi | via da descoberta / via do juízo | |
-| actio situalis | ação ligada à posição | |
+| actio situalis | ação sujeita a posição | |
 | Commentator | o Comentador | Averróis. |
 | Hugo de Sancto Victore | Hugo de São Vítor | |
 | De Trinitate (Agostinho) | *A Trindade* | “livro 9 de *A Trindade*”; *in libro De Trinitate* → “na obra *A Trindade*”. |
@@ -189,7 +189,7 @@ Destino: pt-BR.
 | De hebdomadibus (Boécio) | *De hebdomadibus* | Título latino mantido, como é corrente. |
 | magister / doctor | mestre / doutor | *doctor* sempre “doutor”, no sentido de quem ensina, para distinguir de *magister* (g11-c002 [12]: “doutor ou mestre”). |
 | magisterium | magistério | |
-| doctrina / disciplina | ensino / aprendizagem | *doctrina salutis* → “doutrina da salvação”; *doctrina Aristotilis* → “doutrina de Aristóteles”. |
+| doctrina / disciplina | ensino / aprendizagem | *doctrina salutis* → “doutrina da salvação”; *doctrina Aristotilis* → “doutrina de Aristóteles”; no sentido de corpo doutrinal, também *doctrina Dionysii* → “doutrina de Dionísio” e *doctrina veritatis* → “doutrina da verdade”. |
 | inventio | descoberta | |
 | docens / addiscens | quem ensina / aprendiz (quem aprende) | |
 | rationes seminales / seminaria | razões seminais / sementeiras | |
@@ -213,7 +213,7 @@ Destino: pt-BR.
 | Caelestis hierarchia | *A hierarquia celeste* | |
 | Super Ezechielem | *Homilias sobre Ezequiel* | |
 | Physica / Ethica / Meteora | *Física* / *Ética* / *Meteorológicos* | |
-| 6 De naturalibus (Avicena) | livro 6 *Dos naturais* | |
+| 6 De naturalibus (Avicena) | livro 6 de *Sobre as coisas naturais* | |
 | prophetia / prophetabilia | profecia / coisas profetizáveis | |
 | lumen propheticum | lume profético | *lumen* intelectual ou profético → “lume”; a luz física (do sol, das estrelas, no ar) → “luz”. |
 | habilitas / habilior | aptidão / mais apto | |
@@ -224,7 +224,7 @@ Destino: pt-BR.
 | potentia obedientiae | potência obediencial | Nota do tradutor em g12-c003 [^1]. |
 | gratia signorum | graça dos sinais | |
 | ligare (somno) | tolher | |
-| virtus imaginativa / cognoscitiva | força imaginativa / cognoscitiva | *virtus divina* → “poder divino”. |
+| virtus imaginativa / cognoscitiva | força imaginativa / cognoscitiva | *virtus divina* → “virtude divina”. |
 | futura contingentia | futuros contingentes | |
 | Rabbi Moyses | Rabi Moisés | Maimônides; nota do tradutor em g12-c002 [^1]. |
 | Damascenus | o Damasceno | |
@@ -241,7 +241,7 @@ Destino: pt-BR.
 | resultare (in speculo, in mente) | refletir-se | g12-c006 [25] joga com o sentido de “resultar de”: “refletida a partir da própria coisa”. |
 | acceptio / iudicium | recepção / juízo | Os dois elementos do conhecimento profético (g12-c007, g12-c009). |
 | visio corporalis / imaginaria / intellectualis | visão corporal / imaginária / intelectual | |
-| species | espécie(s) | |
+| species | espécie(s) | No sentido de aparência: “sub specie boni” → “sob a aparência de bem”; “sub aliqua specie apparentis boni” → “sob a aparência de algum bem aparente”. |
 | a sensibus abstrahi / alienari | ser abstraído / ficar alienado dos sentidos | |
 | causa animalis / naturalis | causa anímica / natural | g12-c009 [15]. |
 | denuntiatio / denuntiare | anúncio / anunciar | Ato secundário da profecia. |
@@ -261,7 +261,7 @@ Destino: pt-BR.
 | Moralia (Gregório) | *Morais* | |
 | comminatio / comminari | cominação / cominar | Profecia de predestinação, de presciência e de cominação (g12-c010). |
 | praescire / praecognoscere | conhecer de antemão / conhecer previamente | Evita “prescito”, que tem sentido teológico próprio. |
-| exitus / eventus (ordinis) | desfecho / evento | Contrapostos à *ordo causarum*, “ordem das causas”. |
+| exitus / eventus (ordinis) | desfecho / evento | Contrapostos à *ordo causarum*, “ordem das causas”. Fora dessa contraposição, *eventus rerum* → “desfechos das coisas”. |
 | immobilis / mobilis veritas | verdade imutável / mutável | Como no título de g12-c011; *moveri* → “mudar” em g12-c011 [7]. |
 | consilium / sententia (Dei) | conselho / sentença | g12-c011 [19]: “causa” mantém em português o duplo sentido judicial. |
 | agyographae | hagiógrafos | Nota do tradutor em g12-c012. |
@@ -278,7 +278,7 @@ Destino: pt-BR.
 | raptus / rapi | arrebatamento / ser arrebatado | |
 | excessus mentis / extasis | excesso da mente / êxtase | Três nomes distintos para *excessus mentis*, *extasis* e *raptus* (g13-c002 [23]). |
 | videre Deum per essentiam | ver Deus por sua essência | Como nos títulos do sumário. |
-| viator / status viae / status patriae | viandante / estado de via / estado de pátria | “visão da pátria”, “caridade da pátria”. |
+| viator / status viae / status patriae | viador / estado de via / estado de pátria | “visão da pátria”, “caridade da pátria”. |
 | praestitutio divina | preordenação divina | g13-c001 [12], [13], [27]. |
 | lux / lumen gloriae | luz / lume da glória | |
 | dos gloriae / claritas / agilitas | dote da glória / claridade / agilidade | |
@@ -299,7 +299,7 @@ Destino: pt-BR.
 | cogitare / cogitatio / vis cogitativa | cogitar / cogitação / potência (força) cogitativa | “crer é cogitar com assentimento”. Mantido “cogitar” pela etimologia *coagitare* (g14-c001 [4]) e pelo vínculo com a cogitativa. |
 | assensus, assensio / assentire | assentimento / assentir | |
 | consensus / consentire | consentimento / consentir | “consentimento não inquirido” (Damasceno). |
-| collatio / conferre / cognitio collativa | comparação / comparar / conhecimento por comparação | |
+| collatio / conferre / cognitio collativa | conferência / conferir / conhecimento colativo | |
 | inquisitio | inquirição | |
 | quidditas / quod quid est | quididade | |
 | intellectus possibilis | intelecto possível | |
@@ -349,9 +349,9 @@ Destino: pt-BR.
 | maiores / minores | os maiores / os menores | Os que têm ofício de ensinar a fé / os simples. |
 | praelati / habentes curam animarum | prelados / os que têm cura de almas | |
 | compositio | composição | A proposição como composição de sujeito e predicado. |
-| intellectus / ratio / intelligentia / mens | intelecto / razão / inteligência / mente | |
-| intelligere | inteligir | Nota em g15-c001. |
-| conferre / collativa / comparare | conferir / colativa / comparar | *conferre* e *comparare* distintos em g15-c001 [27]. |
+| intellectus / ratio / intelligentia / mens | intelecto / razão / inteligência / mente | “Intelligentia”, quando designa um ato ou conteúdo de intelecção comunicado, admite “intelecção”, como em “intelligentias” → “intelecções” (g9-c004 [20]). |
+| intelligere | inteligir | Nota em g15-c001. No sentido de interpretar uma afirmação, *intelligendum est* / *intelligatur* → “deve-se entender” / “se entenda”. |
+| conferre / collativa / comparare | conferir / colativa / comparar | *conferre* e *comparare* distintos em g15-c001 [27]. Quando expressa uma relação entre coisas, “comparare” → “relacionar”, “referir”; nesse sentido, “comparatio” → “relação”. |
 | accipere / acceptio (simplex, absolute) | captar / captação | “Recepção” para a fé: g14-c011 [17], g14-c012 [9]. |
 | discursus / discurrere / ratiocinatio | discurso / discorrer / raciocínio | |
 | resolvere / resolutio / ars resolutoria | resolver / resolução / arte resolutória | |
@@ -433,7 +433,7 @@ Destino: pt-BR.
 | motivum (intellectus) | motivo | Sentido escolástico de “o que move”. |
 | collativus | comparativo | Coerente com *cognitio collativa*. |
 | Avempace / Themistius / Alexander | Avempace / Temístio / Alexandre | Nota em g18-c005. |
-| *De causis* / *Liber sextus de naturalibus* | *Livro das causas* / *Dos naturais* (livro 6) | Notas em g18-c004. |
+| *De causis* / *Liber sextus de naturalibus* | *Livro das causas* / livro 6 de *Sobre as coisas naturais* | Notas em g18-c004. |
 | *De civitate Dei* / *Dialogi* / *Caelestis* e *Ecclesiastica hierarchia* | *A cidade de Deus* / *Diálogos* / *Hierarquia celeste* e *eclesiástica* | |
 | *De divinatione daemonum* / *De duabus naturis* / *De vera religione* / *Ethica* / *Metaphysica* / *De anima* | *Da adivinhação dos demônios* / *Das duas naturezas* / *Da verdadeira religião* / *Ética* / *Metafísica* / *Sobre a alma* | |
 | *Sed contra* (instância dentro de uma objeção, em itálico) / *Sed contra* (argumentos em contrário) | *Mas, em contrário* / Em sentido contrário | *contra:* após “Se se disser…” → “em contrário:”. |
@@ -531,7 +531,7 @@ Destino: pt-BR.
 | virtus divina / potentia | virtude divina / potência | Mantém a distinção. |
 | Eunomius / Apollinaris / Maximus / Isidorus / Ambrosius / Damascenus | Eunômio / Apolinário / Máximo / Isidoro / Ambrósio / o Damasceno | |
 | *Metaphysica* / *Ethica* / *Caelestis hierarchia* / *De divinis nominibus* / *Confessiones* / *Super Genesim ad litteram* / *De Trinitate* | *Metafísica* / *Ética* / *Hierarquia celeste* / *Dos nomes divinos* / *Confissões* / *Sobre o Gênesis ao pé da letra* / *Sobre a Trindade* | Citação “in 8 *Metaphysicae*” → “no livro 8 da *Metafísica*”. |
-| bonum / bonitas | bem / bondade | Q. 21. |
+| bonum / bonitas | bem / bondade | Q. 21. Referida ao bom funcionamento de uma faculdade, *bonitas* → “boa qualidade”, como em *bonitas imaginationis*. |
 | ens / esse | ente / ser | |
 | verum / veritas | verdadeiro / verdade | |
 | ratio (boni, entis, speciei) | razão (de bem, de ente, da espécie) | *Ratio* como argumento → “argumento”. |
@@ -545,7 +545,7 @@ Destino: pt-BR.
 | contrahere / contractio | contrair / contração | |
 | scibile | cognoscível | |
 | informatio | informação | |
-| non nugatorie | não ociosamente | g21-c001 [22]. |
+| non nugatorie | não com redundância | g21-c001 [22]; cf. *nugatio* → “redundância”. |
 | potest in esse | tem poder para o ser | g21-c004 [11], [37]. |
 | Avicenna / Algazel / Anselmus / Hilarius / Dionysius / Boetius | Avicena / Algazel / Anselmo / Hilário / Dionísio / Boécio | |
 | David de Dinando / Porretani / Platonici | Davi de Dinant / os porretanos / os platônicos | |
@@ -578,7 +578,7 @@ Destino: pt-BR.
 | beatitudo / beati / viatores | bem-aventurança / bem-aventurados / viadores | |
 | mereri / demereri; meritorium / demeritorium | merecer / desmerecer; meritório / demeritório | |
 | immutare (voluntatem) | mudar | Não “imutar”. |
-| intelligere | inteligir | *Cognoscere* → conhecer. |
+| intelligere | inteligir | *Cognoscere* → conhecer. “Em fórmulas explicativas, *intelligendum est* → “deve-se entender”; *dare intelligere* → “dar a entender”.” |
 | imperium / imperare | império / imperar | g22-c012. |
 | comparari ad / habitudo | referir-se a / relação | |
 | incontinens; cholericus; complexio | incontinente; colérico; compleição | |
@@ -589,7 +589,7 @@ Destino: pt-BR.
 | Tullius / Avicenna / Hugo de Sancto Victore / Anselmus | Túlio / Avicena / Hugo de São Vítor / Anselmo | |
 | *Moralia* / *De causis* / *Caelestis* e *Ecclesiastica hierarchia* | *Morais* / *Sobre as causas* / *Sobre a hierarquia celeste* e *eclesiástica* | |
 | *De similitudinibus* / *Epistola ad Titum* / *Super Ezechielem* | *Sobre as semelhanças* / *Carta a Tito* / *Sobre Ezequiel* | |
-| intentio / intendere | intenção / intentar | *Non intendit* (Dionísio) → “não pretende”. |
+| intentio / intendere | intenção / intentar | *Non intendit* (Dionísio) → “não pretende”. Quando designam a aplicação da atenção, “atenção” / “atender”, “estar atento”. |
 | electio / eligere | eleição / eleger | |
 | prosequi / prosecutio; fuga | buscar / busca; fuga | Não “perseguir”. |
 | volitum | o querido / a coisa querida | |
@@ -701,7 +701,7 @@ Destino: pt-BR.
 | passio animalis / passio corporalis | paixão animal / paixão corporal | *animalis* = “da alma”; nota em g26-c002 [^1]. |
 | agens / patiens | agente / paciente | |
 | abicere / abiectio | rejeitar / rejeição | |
-| transmutatio / alteratio / immutatio | mudança / alteração / mudança | |
+| transmutatio / alteratio / immutatio | mudança / alteração / mudança | Na recepção sensitiva, *immutatio* / *immutare* → “imutação” / “imutar” (g26-c003 [43]). |
 | transumptive | por translação | |
 | appetitiva / apprehensiva sensitiva | apetitiva / apreensiva sensitiva | Femininos, subentendida “potência”, como a irascível. |
 | intellectus possibilis / passibilis / agens | intelecto possível / passível / agente | |
@@ -733,7 +733,7 @@ Destino: pt-BR.
 | dilectio | dileção | |
 | virtutes purgati animi | virtudes do ânimo purgado | Nota em g26-c007 [^1]. |
 | Responsio | Resposta | |
-| Sed dicebat | Mas poder-se-ia dizer | |
+| Sed dicebat | Mas dizia-se que | |
 | Damascenus / Gregorius Nyssenus / Hugo de Sancto Victore / Macrobius / Salustius / Tullius / Lucia / Magister / Glossa | Damasceno / Gregório de Nissa / Hugo de São Vítor / Macróbio / Salústio / Túlio / Luzia / o Mestre / a Glosa | |
 | *De civitate Dei* / *De spiritu et anima* / *De consolatione* / *Super somnium Scipionis* / *Regula* / *De officiis* / *Catilinarius* / *Sufficientia* | *Cidade de Deus* / *Sobre o espírito e a alma* / *Sobre a consolação* / *Sobre o sonho de Cipião* / *Regra* / *Sobre os deveres* / *Conjuração de Catilina* / *Sufficientia* | Avicena: título latino mantido; nota em g26-c007 [^2]. |
 | Sed contra (est quod) / *Sed contra* (réplica a “Sed dicebat”) | Mas, em sentido contrário, (está o que) / *Mas em sentido contrário* | |
@@ -753,7 +753,7 @@ Destino: pt-BR.
 | praedicamentum / quidditas | predicamento / quididade | |
 | Plotinus / Hilarius / Chrysostomus / Anselmus / Stoici / Peripatetici | Plotino / Hilário / Crisóstomo / Anselmo / estoicos / peripatéticos | |
 | *De Trinitate* / *Super Genesim ad litteram* / *Ad Dioscorum* / *De somno et vigilia* / *Praedicamenta* / *Liber sex principiorum* | *Sobre a Trindade* / *Sobre o Gênesis ao pé da letra* / *A Dióscoro* / *Sobre o sono e a vigília* / *Categorias* / *Livro dos seis princípios* | Nota sobre o último em g26-c010 [^1]. |
-| Sed dicebat (quod) | Mas dir-se-ia que | Réplica do objetante, seguida de *Mas em sentido contrário*. |
+| Sed dicebat (quod) | Mas dizia-se que | Réplica do objetante, seguida de *Mas em sentido contrário*. |
 | carus / habere Deum carum | caro / ter Deus por caro | Conserva o jogo *caritas*/*carus* (caridade/caro). |
 | dilectio / diligere | amor / amar | |
 | gratia praeveniens / praevenire | graça preveniente / prevenir | |
@@ -761,7 +761,7 @@ Destino: pt-BR.
 | effective / per modum ministerii / auctoritate | efetivamente / a modo de ministério / com autoridade | *Effective* = como causa eficiente. |
 | per se agens / instrumentaliter / dispositive | agente por si / instrumentalmente / dispositivamente | |
 | educere (de potentia materiae) / eductio / concreari | eduzir / edução / ser concriado | |
-| virtus (poder) / potentia / potestas | virtude / potência / poder | |
+| virtus (poder) / potentia / potestas | virtude / potência / poder | “Potestas como autoridade constituída → potestade.” |
 | suppositum | supósito | |
 | in fieri / in facto esse | no fazer-se / no ser já feito | |
 | per modum intentionis | a modo de intenção | Nota em g27-c004 [^2]. |
@@ -772,7 +772,7 @@ Destino: pt-BR.
 | illabi (menti) | penetrar (na mente) | Nota em g27-c003 [^1]. |
 | conciliare (gratiam regis) | granjear (a graça do rei) | |
 | Dionysius / Damascenus / Gregorius / Ambrosius / Bernardus / Hugo de Sancto Victore / Avicenna / Glossa / Magister / Philosophus | Dionísio / o Damasceno / Gregório / Ambrósio / Bernardo / Hugo de São Vítor / Avicena / a Glosa / o Mestre / o Filósofo | |
-| *Ecclesiastica hierarchia* / *Caelestis hierarchia* / *De praedestinatione sanctorum* / *Cur Deus homo* / *Meteora* / *De cena Domini* / *83 quaestiones* / *Sententiae* | *Hierarquia eclesiástica* / *Hierarquia celeste* / *Sobre a predestinação dos santos* / *Por que Deus se fez homem* / *Meteorológicos* / *Sobre a ceia do Senhor* / *83 questões* / *Sentenças* | |
+| *Ecclesiastica hierarchia* / *Caelestis hierarchia* / *De praedestinatione sanctorum* / *Cur Deus homo* / *Meteora* / *De cena Domini* / *83 quaestiones* / *Sententiae* | *Hierarquia eclesiástica* / *Hierarquia celeste* / *Sobre a predestinação dos santos* / *Por que Deus se fez homem* / *Meteorológicos* / *Sobre a ceia do Senhor* / *Oitenta e três questões* / *Sentenças* | |
 | gratia gratum faciens / gratia gratis data | graça santificante / graça gratuitamente dada | Nota em g27-c005 [^1]; onde o argumento joga com *gratus*, “tornar grato”. |
 | gratia operans / cooperans; praeveniens / subsequens | graça operante / cooperante; preveniente / subsequente | |
 | acceptatio / acceptare | aceitação / aceitar | |
@@ -805,7 +805,7 @@ Destino: pt-BR.
 | res naturae / res rationis | coisa da natureza / coisa de razão | |
 | secundum rem / secundum rationem | na realidade / segundo a razão | |
 | esse mundum / esse gratum | ser puro / ser grato | Nota em g28-c007 [^1]. |
-| agens infinitae virtutis | agente de poder infinito | |
+| agens infinitae virtutis | agente de virtude infinita | |
 | facere quod in se est | fazer o que está em si | |
 | res sacramenti | realidade do sacramento | |
 | deletio (maculae, peccati) | apagamento | |
@@ -850,7 +850,7 @@ Destino: pt-BR.
 | passiones (rei) | propriedades | g3-c003. |
 | simus; simitas | camuso; camusidade | Nota em g3-c007 [^1]. |
 | signum (ovelhas, g3-c004 [9]) | marca | |
-| verbum; Verbum | verbo; Verbo | Questão 4. Nota em g4-c001 [^1]. Em sentido não técnico, “afirmação” (g4-c002 [20]) ou “palavra” (g4-c003 [11]). |
+| verbum; Verbum | verbo; Verbo | Questão 4. Nota em g4-c001 [^1]. Em sentido não técnico, “afirmação” (g4-c002 [20]) ou “palavra” (g4-c003 [11]). Também “dito”, quando designa uma expressão citada (g2-c003 [56], g2-c004 [18]). |
 | verbum cordis / interius / exterius / vocis (vocale) | verbo do coração / interior / exterior / da voz (vocal) | “verbum quod habet imaginem vocis”: verbo que tem a imagem da voz. |
 | dicere; dicens; dictum; dictio | dizer; o que diz; dito; dicção | |
 | sermo (Damasceno) / discursus | palavra / discurso | g4-c001 [3]. |
@@ -894,7 +894,7 @@ Destino: pt-BR.
 | praescientia; praescire | presciência; conhecer de antemão | |
 | electio; dilectio; propositum | eleição; dileção; propósito | g6-c001. |
 | appositio gratiae; collatio auxilii | concessão da graça; outorga do auxílio | g6-c001 [21], [26]. |
-| exitus vel eventus (ordinis) | êxito ou desfecho (da ordem) | g6-c001 [25]. |
+| exitus vel eventus (ordinis) | desfecho ou evento (da ordem) | g6-c001 [25]. |
 | debitum; liberalitas; simplex voluntas | devido; liberalidade; simples vontade | g6-c002 [22]–[25]. |
 | certitudo cognitionis / ordinis | certeza do conhecimento / da ordem | g6-c003 [19]. |
 | adminicula; adminiculari | amparos; amparar | g6-c003 [22]. |
@@ -921,8 +921,8 @@ Destino: pt-BR.
 | *De correptione et gratia*; *Enchiridion*; *Dialogi*; *Moralia*; *De civitate Dei*; *De divinis nominibus*; *De sensu et sensato*; *Metaphysica*; *De causis* | *Sobre a correção e a graça*; *Enquirídio*; *Diálogos*; *Morais*; *A Cidade de Deus*; *Sobre os nomes divinos*; *Sobre o sentido e o sensível*; *Metafísica*; *Livro das causas* | |
 | Eccli. | Eclesiástico | g7-c001 [11]. |
 | liber mortis | livro da morte | g7-c008. |
-| deleri; deletio; delebiliter / indelebiliter | ser riscado; ato de riscar; de modo que podem ser riscados / indelevelmente | g7-c009, conforme o título do artigo. |
-| scientia simplicis notitiae / approbationis | ciência de simples conhecimento / de aprovação | g7-c008 [7]. |
+| deleri; deletio; delebiliter / indelebiliter | ser riscado; ato de riscar; de modo que podem ser riscados / indelevelmente | g7-c009, conforme o título do artigo. “Deletio, quando se trata da remissão dos pecados, → apagar” (g28-c005 [17], g29-c005 [6]). |
+| scientia simplicis notitiae / approbationis | ciência de simples notícia / de aprovação | g7-c008 [7]. |
 | notitia (privilegiata) | conhecimento (privilegiado) | g7-c008. |
 | reprobatio; reprobi | reprovação; réprobos | g7-c008. |
 | secundum praesentem iustitiam | segundo a justiça presente | g7-c009. |
@@ -1005,7 +1005,7 @@ Destino: pt-BR.
 | nutus et signa | acenos e sinais | g9-c004 [14], [35]. |
 | nescientia; ignorantia | nesciência; ignorância | g9-c001 [36]; g9-c003. |
 | terminus a quo / ad quem | termo de partida / termo de chegada | g9-c003. |
-| status viae; patria | estado de viador; pátria | g9-c001 [16], [39]; g9-c004 [3]. |
+| status viae; patria | estado de via; pátria | g9-c001 [16], [39]. |
 | philosophus primus; naturalis | filósofo primeiro; filósofo natural | g9-c001 [28]; nota do tradutor. |
 | situalis; situs | sujeito a posição; posição | g9-c006 [9], [11]. |
 | intellectus agens / possibilis; phantasmata | intelecto agente / possível; fantasmas | g9-c001. |
@@ -1061,7 +1061,7 @@ Destino: pt-BR.
 - g10-c013 [8]: nota do tradutor [^1] advertindo que a sentença atribuída a Boécio é de Sêneca (carta 6 a Lucílio); [10]: mantidos os dois trechos em itálico como estão no latim.
 - g10-c013 [4]: traduzido o argumento inteiro do latim (a referência inglesa omite a primeira metade). As respostas de g10-c013 [17]–[26] respondem às objeções (*Ad primum ergo*), não ao *sed contra*, como rotula a referência inglesa.
 - Cabeçalho *Prooemium* vertido “Prólogo”, como no sumário.
-- g11-c001 [27]: nota do tradutor [^1] identificando o “livro 6 *Dos naturais*” com o tratado *Sobre a alma* de Avicena e explicando o “doador das formas”.
+- g11-c001 [27]: nota do tradutor [^1] identificando o “livro 6 de *Sobre as coisas naturais*” com o tratado *Sobre a alma* de Avicena e explicando o “doador das formas”.
 - g11-c003 [32]: nota do tradutor [^1] sobre o duplo sentido de *intentio*/*intendere* (intenção e atenção), de que depende a resposta.
 - g11-c004 [11]: nota do tradutor [^1] sobre o duplo acusativo de *docere*.
 - g11-c003 [21]: *angeli primum docuere* traduzido na voz ativa, como está no latim (“os anjos foram os primeiros a ensinar”); a referência inglesa traz a passiva.
@@ -1187,7 +1187,7 @@ Destino: pt-BR.
 - Notas do tradutor: g18-c008 [^1] os *phrenetici*; g19-c001 [^1] as duas faces da alma; [^2] o *De spiritu et anima* e sua atribuição; g2-c001 [^1] a diagonal incomensurável com o lado.
 - *li* + palavra (*li finite*, *li plus*, *li aliter*, *li secundum quod*, *li indistincte*): traduzido como “o termo *X*”, com a palavra portuguesa em itálico, porque o argumento recai sobre o termo traduzido. O caso de g19-c001 [6], que manteve o latim, era uma nota do editor.
 - g2-c002 [2]–[3]: *cognoscat vel sciat* → “conhece ou tem ciência de si mesmo”. O título do toc (“conhece ou intelige”) foi mantido no cabeçalho, conforme a decisão sobre títulos.
-- g2-c002 [9]: *Probatio mediae* → “Prova da premissa menor”.
+- g2-c002 [9]: *Probatio mediae* → “Prova da menor”.
 - g2-c002 [29]: *si fiat vis in verbo* → “se se insiste no rigor da palavra”.
 - g2-c003 [20]: Eclesiástico 34:2 traduzido conforme a forma citada (*sequitur aestum* → “persegue o calor”), sem ajustar à Vulgata.
 - Suplementos do editor mantidos: g2-c003 [10] “(é)”, [26] “(logo,)”, [45] “(da coisa)”; g2-c004 [10] “(desta)”, [16] “(senão)”.
@@ -1202,13 +1202,13 @@ Destino: pt-BR.
 - g2-c012 [12], [34]: *hoc (esse/est) scitum a Deo* tomado como pretérito (“isto foi sabido por Deus”), porque o argumento o trata como dito acerca do passado; *omne scitum a Deo* segue “tudo o que é sabido por Deus”.
 - g2-c012 [27]: *in aeternitatis specula* → “na atalaia da eternidade” (*specula*, atalaia), e não “espelho” como na referência inglesa.
 - g2-c012 [13]: a nota editorial inglesa sobre a divisão da Leonina foi traduzida e mantida no lugar.
-- g2-c012 [37]: *intelligo* na 1ª pessoa → “entendo”, para evitar “intelijo”; a 3ª pessoa segue “intelige”.
+- g2-c012 [37]: *intelligo* na 1ª pessoa → “intelijo”, e *quod intelligitur* / *intellectum* → “o inteligido” / “é inteligido”, porque o exemplo trata da intelecção; a 3ª pessoa segue “intelige”.
 - g2-c012 [34]: *futurum esse / fuisse futurum* mantidos como “ser futuro / ter sido futuro”, para preservar o argumento.
 - g2-c015: *mala* → “os males”; *malum* → “o mal”.
 - Escritura: Isaías 40:18, Gênesis 1:26, Tiago 1:17 com o nome por extenso; *in Psal.* sem número → “no Salmo”, sem acrescentar referência; tratamento “vós” na apóstrofe a Deus (g2-c011 [17]).
 - Títulos dos artigos: “# Artigo N”; a linha do *quaeritur* em negrito e itálico: “Em undécimo lugar, pergunta-se se…”.
 - Notas do tradutor: g2-c011 [^1] o nome “cão” (exemplo de Boécio), [^2] o Comentador (Averróis); g2-c012 [^1] *providentia* e *specula* em Boécio, [^2] *de dicto* / *de re*.
-- Q. 20: o *Sed contra* principal → “Em sentido contrário, está…” / “Em sentido contrário,”; o de dentro da objeção segue “*Mas, em sentido contrário*”. *Ratio non sequitur* → “o argumento não conclui”; *non procedit* → “não procede”.
+- Q. 20: o *Sed contra* principal → “Mas, em sentido contrário, está o que…”; o de dentro da objeção segue “*Mas, em sentido contrário*”. *Ratio non sequitur* e *non procedit* → “o argumento não procede”, conforme a tabela de termos.
 - Q. 20: os suplementos editoriais entre parênteses do texto latino (*posuerunt*, *sua*, *intellectus*, *anima Christi*, *quantum*, *dicendum*, *unde non procedit*) foram mantidos entre parênteses, traduzidos.
 - g20-c003 [9]: a citação de Agostinho a Deus em “vós”.
 - Notas do tradutor: g20-c001 [^1] visão especular / da espécie, [^2] Eunômio e Apolinário; g20-c002 [^1] os escólios atribuídos a Máximo; g20-c003 [^1] a passagem das *Confissões* está no livro 5, não no 4, [^2] compreensor / viador; g20-c005 [^1] a frase de *Sobre a Trindade* está no livro 15, não no 14.
@@ -1224,7 +1224,7 @@ Destino: pt-BR.
 - g21-c006 [13]: segue-se o latim (*non est in numero…*), e não a referência inglesa, que inverte o sentido.
 - g22-c001 [23]: omitido o `**` solto no fim do parágrafo da fonte, resto de marcação sem par.
 - g22-c001 [32]: *cuius obiectum est quid* → “cujo objeto é o ‘que é’ (*quid*)”.
-- g22-c004 [10]: *non agunt, sed magis aguntur* → “não agem, mas antes são levados a agir”.
+- g22-c004 [10]: *non agunt, sed magis aguntur* → “não agem, mas antes são conduzidos”.
 - g22-c005 [9]: *in 25 dist. 1 libri* mantido como “distinção 25 do livro 1”, como na fonte.
 - Notas do tradutor: g21-c006 [^1] o *modus sine modo* de São Bernardo, [^2] *speciosa*/*species*; g22-c001 [^1] *appetere* = *ad* + *petere*; g22-c004 [^1] a imagem das esferas celestes; g22-c005 [^1] o Mestre, Pedro Lombardo.
 - g22-c006 [21]: *aliquam speciem boni* → “alguma aparência de bem” (*species* no sentido de aparência).
@@ -1246,7 +1246,7 @@ Destino: pt-BR.
 - g23-c003 [20]: parênteses da fonte mantidos.
 - Notas do tradutor: g22-c013 [^1] etimologia de *intentio* (*in-tendere*); g22-c013 [^2] o primeiro móvel; g23-c001 [^1] *causa sui* em Aristóteles (*Metafísica* 1, 2); g23-c001 [^2] a arca do artífice, exemplo de Santo Agostinho (*Tratados sobre o Evangelho de São João*, 1, 17), e a passagem sem transição ao exemplo da casa.
 - g23-c006 [3]: *quod vis* (Anselmo, em oração a Deus) → “aquilo que quereis”, tratamento reverente.
-- g23-c007 [5]: *semper obliget, non tamen obligat ad semper* → “obrigue sempre, não obriga para sempre”.
+- g23-c007 [5]: *semper obliget, non tamen obligat ad semper* → “obrigue sempre, não obriga a todo momento”.
 - g23-c008 [6]: *Pater, si fieri potest* → “Pai, se pode ser”, segundo a letra da fonte.
 - g23-c007 [24]: *propter quid* → o “para quê”, como em g22-c014.
 - Notas do tradutor: g23-c006 [^1] a frase de Anselmo está no *Proslógio*, cap. 11, não no *Monológio*; g23-c006 [^2] a máxima de Ulpiano (*Digesto* 1, 4, 1; *Instituições* 1, 2, 6); g23-c007 [^1] relação de equiparância e de disquiparância; g23-c008 [^1] a sentença atribuída a Túlio é de Salústio (*Catilina*, 20).
@@ -1261,7 +1261,7 @@ Destino: pt-BR.
 - Notas do tradutor: g24-c006 [^1] caso oblíquo; g24-c009 [^1] viador e compreensor; g24-c010 [^1] o *De fide ad Petrum* é de Fulgêncio de Ruspe; g24-c010 [^2] Túlio é Cícero, definição de virtude do *De inventione*.
 - g24-c011 [18]: *edeo* lido *adeo*.
 - g24-c012 [17]: mantida a referência da fonte, 1 João 1:4, embora a citação seja de 1 João 5:4.
-- g24-c012 [55]: *Deest solutio ad decimum* traduzido literalmente (“Falta a solução do décimo”). A referência inglesa supre uma resposta que o latim não traz.
+- g24-c012 [55]: *Deest solutio ad decimum* traduzido literalmente (“Falta a solução ao décimo”). A referência inglesa supre uma resposta que o latim não traz.
 - g24-c012 [58]: *non potest contingere quin diu maneat* traduzido pelo sentido exigido pelo argumento (“não pode acontecer que permaneça por muito tempo sem nada fazer segundo o hábito”).
 - g24-c013 [9]: o verbo ausente em *quam cito ei aliquid sub ratione peccati mortalis* suprido como “se lhe apresenta”.
 - g24-c014 [14]: o *sine* de *nisi sine gratia Dei suum velle addiderit* tratado como erro de cópia (“a não ser que acrescente ao seu querer a graça de Deus”).
@@ -1311,7 +1311,7 @@ Destino: pt-BR.
 - g28-c002 [28]: traduzido o latim (*ad quam nos dirigit*; *et hoc est gratia*), que difere da tradução inglesa.
 - g28-c002 [40]: *Et sic in circumcisione aliqua dabatur gratia* lido como *Et si*. Erros de digitação do espelho corrigidos tacitamente: g28-c002 [11] *ab ab*, [22] *himini*, g27-c005 [48] *decimun*.
 - Notas do tradutor: g27-c005 [^1], *gratia gratum faciens*; g27-c007 [^1], bens máximos e médios em Agostinho; g28-c001 [^1], mérito de condigno e de côngruo; g28-c002 [^1], Eclesiástico 21:1; [^2], o cão que abre os olhos depois do nascimento; [^3], o “sinal” e o movimento reflexo em Aristóteles.
-- *Sed dicebat quod* (réplica antecipada dentro das objeções) = “Mas dir-se-ia que”.
+- *Sed dicebat quod* (réplica antecipada dentro das objeções) = “Mas dizia-se que”.
 - *3 Regum* 3:5 dado como 1 Reis 3:5, nomenclatura atual dos livros dos Reis.
 - g28-c003 [16]: mantém-se “livro 11” do *Comentário literal ao Gênesis*, como na fonte; *arcam* = arca (a tradução inglesa traz “bow”).
 - g28-c003 [43]: *aures vivorum* (Jó 33:16) lido como *virorum*, conforme a Vulgata.
@@ -1405,7 +1405,7 @@ Destino: pt-BR.
 - g8-c009 [23]: *a quibus* referido às razões eternas (“das quais emanam as formas”), como pede a conclusão do parágrafo.
 - Notas do tradutor: g8-c012 [^1], os contingentes *ad utrumlibet*. g8-c014 [^1], o diáfano e o úmido. g8-c015 [^1], os escólios atribuídos a Máximo, o Confessor; [^2], a autoria de *Sobre o espírito e a alma*. g8-c016 [^1], a criação simultânea em Santo Agostinho (Eclesiástico 18:1 na Vulgata).
 - *Commentator Maximus* (g8-c015 [14]) → “o comentador Máximo”, com minúscula, para não confundir com “o Comentador” (Averróis).
-- g8-c016 [12]: o *Sed contra* que replica, dentro da série de objeções, à resposta suposta em [11] → “*Mas contra isso*”, para não se confundir com o “em sentido contrário” do artigo.
+- g8-c016 [12]: o *Sed contra* que replica, dentro da série de objeções, à resposta suposta em [11] → “*Mas em sentido contrário*”, em itálico como na fonte.
 - g8-c014 [31]: o latim *cognoscit multa et unum, et ex dictis patet* vertido segundo o sentido exigido pelo corpo do artigo e por [45]: “conhece muitas coisas como uma, como é patente pelo que foi dito”.
 - g8-c013 [8]: *disputationes* (lição do latim, onde a citação de Agostinho tem *dispositiones*) → “raciocínios”, seguindo o latim.
 - Suplementos editoriais mantidos: g8-c012 [19] “(no)”, [20] “(se)”; g8-c014 [12] “(ao mesmo tempo)”, [14] “(contra)”.
@@ -1414,7 +1414,7 @@ Destino: pt-BR.
 - Citações bíblicas sem referência no latim (Romanos 1:20 e Isaías 6:1 em g8-c015 [20]; o Salmo em g8-c013 [12]) ficam sem referência, como na fonte.
 - Notas do tradutor: g9-c001 [^1], “filósofo primeiro” e “filósofo natural”. g9-c002 [^1], a etimologia de “serafim” (hebraico *saraf*; Isidoro, *Etimologias*). g9-c003 [^1], os energúmenos na Igreja antiga.
 - g9-c001 [25]: na citação de Dionísio, o latim não traz a negação que o original grego e o argumento exigem; suprida entre colchetes, “[não] contempladoras de símbolos”, como na edição inglesa.
-- g9-c003 [5], [8]: *Sed contra* que replica dentro das objeções → “*Mas contra isso*”, conforme a decisão de g8-c016 [12].
+- g9-c003 [5], [8]: *Sed contra* que replica dentro das objeções → “*Mas em sentido contrário*”, conforme a decisão de g8-c016 [12].
 - g8-c017 [13]: *li fiendum* → “a expressão ‘por fazer’”; *fiendae* → “por fazer” também em [5].
 - g8-c017 [10]: a última frase (*sed solummodo cognitio gratuita…*) vertida com o verbo subentendido: “mas somente o é o conhecimento gratuito”.
 - g9-c004 [6]: *1 dist. 4 Sententiarum* lido como distinção 1 do livro 4 das *Sentenças* (Pedro Lombardo, livro 4, distinção 1).
@@ -1839,3 +1839,1069 @@ Verdict: 0 meaning-level, 0 minor. Full read of the 25 files of part 11 (g8-c002
 - Rejected: pt-BR/g8-c007.md [^2] — Note puts Saturn's sphere 'logo abaixo' the first sphere — In the Aristotelian-Averroist scheme Thomas refers to, the first sphere is the outermost (fixed stars) and Saturn's comes next; the claim is accurate for that cosmology.
 - Rejected: pt-BR/g8-c005.md [15] — 'o conhecimento pelo qual as conhecer' for qua cognoscet — The future subjunctive in the relative clause is grammatical Portuguese for the hypothetical future; the sense is kept.
 - Rejected: pt-BR/translation-journal.md Termos — Key Terms rows for g9-c007 (conversio, intueri, fieri in actu) — Each form occurs at the stated places ([3], [5], [8]–[11]); the rows are accurate.
+
+### Part terms 1 of 20, Round 1 (codex, terms read)
+Verdict: 2 meaning-level, 53 minor. 145 parágrafos sinalizados lidos; 31 com deriva terminológica, corrigida em 54 trechos; 1 linha de glossário ampliada.
+- `pt-BR/g1-c001.md` [20]: “há uma faculdade cognoscitiva e uma apetitiva” → “há uma potência cognoscitiva e uma apetitiva” — *vis cognitiva* → “potência cognoscitiva” (Key Terms); estava “faculdade cognoscitiva”.
+- `pt-BR/translation-journal.md`: “| conferre / collativa / comparare | conferir / colativa / comparar | *conferre* e *comparare* distintos em g15-c001 [27]. *Comparari ad*, em sentido relacional → “estar para”, “referir-se a”. |” → “| conferre / collativa / comparare | conferir / colativa / comparar | *conferre* e *comparare* distintos em g15-c001 [27]. Quando expressa uma relação entre coisas, “comparare” → “relacionar”, “referir”; nesse sentido, “comparatio” → “relação”. |” — A linha não contempla o sentido relacional de *comparare*, corretamente traduzido de modo recorrente como “relacionar” ou “referir”.
+- `pt-BR/g1-c001.md` [30]: “nem diferem pela essência” → “nem diferem por essência” — *per essentiam* → “por essência” (Key Terms).
+- `pt-BR/g1-c001.md` [39]: “como a sabedoria e o poder” → “como a sabedoria e a potência” — *potentia* → “potência” (Key Terms), preservando a distinção de *potestas*, “poder”. *(meaning)*
+- `pt-BR/g1-c002.md` [5]: “segundo a apreciação da alma” → “segundo a estimação da alma” — *aestimationem* → “estimação” (Key Terms); estava “apreciação”.
+- `pt-BR/g1-c002.md` [12]: “uma apreciação verdadeira” → “uma estimação verdadeira” — *aestimationem* → “estimação” (Key Terms); estava “apreciação”.
+- `pt-BR/g1-c002.md` [16]: “não segue a apreciação da alma” → “não segue a estimação da alma” — *aestimationem* → “estimação” (Key Terms); estava “apreciação”.
+- `pt-BR/g1-c003.md` [9]: “porque escolhe o que é verdadeiro” → “porque elege o que é verdadeiro” — *electivus* pertence à família de *electio/eligere* → “eleição/eleger” (Key Terms).
+- `pt-BR/g1-c003.md` [9]: “produz uma apreciação verdadeira ou falsa” → “produz uma estimação verdadeira ou falsa” — *aestimationem* → “estimação” (Key Terms); estava “apreciação”.
+- `pt-BR/g1-c004.md` [15]: “segundo a propriedade da linguagem” → “segundo a propriedade da locução” — *locutionis* → “locução” (Key Terms); estava “linguagem”.
+- `pt-BR/g1-c004.md` [15]: “por nenhum modo de falar” → “por nenhum modo de locução” — *modo locutionis* → “modo de locução” (Key Terms).
+- `pt-BR/g1-c004.md` [29]: “seja modelado pelo lume divino” → “seja exemplado pelo lume divino” — *exempletur* → “seja exemplado”, mantendo a família terminológica de “exemplar/exemplado”.
+- `pt-BR/g1-c004.md` [29]: “das coisas modeladas pelo intelecto divino” → “das coisas exempladas pelo intelecto divino” — *rebus exemplatis* → “coisas exempladas” (Key Terms).
+- `pt-BR/g1-c004.md` [32]: “sejam modeladas desigualmente pela verdade divina” → “sejam modeladas de modo não uniforme pela verdade divina” — *difformiter* → “de modo não uniforme”, conforme *difformis* → “não uniforme” (Key Terms).
+- `pt-BR/g1-c004.md` [34]: “da verdade que é modelada pela própria mente divina” → “da verdade que é exemplada pela própria mente divina” — *exemplata* → “exemplada” (Key Terms); estava “modelada”.
+- `pt-BR/g1-c005.md` [19]: “a verdade, falando por si, é perpétua” → “a verdade, propriamente falando, é perpétua” — *per se loquendo* → “propriamente falando” (Key Terms); “falando por si” atribui indevidamente o falar à verdade. *(meaning)*
+- `pt-BR/g1-c005.md` [20]: “e assim, o mesmo que antes.” → “e assim conclui-se o mesmo que antes.” — *et sic idem quod prius* → “e assim conclui-se o mesmo que antes” (Key Terms).
+- `pt-BR/g1-c005.md` [32]: “*podes entender como provei” → “*podes inteligir como provei” — *intelligere* → “inteligir” (Key Terms).
+- `pt-BR/g1-c005.md` [35]: “assim como a obra de arte à arte” → “assim como o artefato à arte” — *artificiatum* → “artefato” (Key Terms); estava “obra de arte”.
+- `pt-BR/g1-c005.md` [51]: “ambos são pela essência divina” → “ambos são por essência divina” — *per essentiam* → “por essência” (Key Terms).
+- `pt-BR/g1-c006.md` [4]: “com a mudança da coisa” → “com a mutação da coisa” — *mutationem* → “mutação” (Key Terms); estava “mudança”.
+- `pt-BR/g1-c006.md` [6]: “com a mudança das coisas verdadeiras” → “com a mutação das coisas verdadeiras” — *mutationem* → “mutação” (Key Terms).
+- `pt-BR/g1-c006.md` [9]: “consumada qualquer mudança” → “consumada qualquer mutação” — *mutatione* → “mutação” (Key Terms).
+- `pt-BR/g1-c006.md` [9]: “seja qual for a mudança de cores” → “seja qual for a mutação de cores” — *mutatione colorum* → “mutação de cores” (Key Terms).
+- `pt-BR/g1-c006.md` [9]: “seja qual for a mudança que nela se faça” → “seja qual for a mutação que nela se faça” — *rei mutatione* → “mutação” (Key Terms).
+- `pt-BR/g1-c006.md` [12]: “é sujeito da mudança” → “é sujeito da mutação” — *subiectum mutationis* → “sujeito da mutação” (Key Terms).
+- `pt-BR/g1-c006.md` [12]: “segundo ele se dá a mudança” → “segundo ele se dá a mutação” — *fit mutatio* → “se dá a mutação” (Key Terms).
+- `pt-BR/g1-c006.md` [13]: “aquilo segundo o qual se dá a mudança às vezes” → “aquilo segundo o qual se dá a mutação às vezes” — *mutatio* → “mutação” (Key Terms).
+- `pt-BR/g1-c006.md` [13]: “elas mesmas, nessa mudança, se sucedem” → “elas mesmas, nessa mutação, se sucedem” — *hanc mutationem* → “mutação” (Key Terms).
+- `pt-BR/g1-c006.md` [13]: “aquilo segundo o qual se dá a mudança é extrínseco” → “aquilo segundo o qual se dá a mutação é extrínseco” — *mutatio* → “mutação” (Key Terms).
+- `pt-BR/g1-c006.md` [13]: “não se move naquela mudança” → “não se move naquela mutação” — *in illa mutatione* → “naquela mutação” (Key Terms).
+- `pt-BR/g1-c006.md` [13]: “com a mudança do sujeito” → “com a mutação do sujeito” — *mutationem subiecti* → “mutação do sujeito” (Key Terms).
+- `pt-BR/g1-c006.md` [13]: “há dois modos de mudança” → “há dois modos de mutação” — *duplex est mutationis modus* → “há dois modos de mutação” (Key Terms).
+- `pt-BR/g1-c006.md` [13]: “a forma especial, depois da mudança” → “a forma especial, depois da mutação” — *post mutationem* → “depois da mutação” (Key Terms).
+- `pt-BR/g1-c006.md` [13]: “a forma geral, feita a mudança, permanece” → “a forma geral, feita a mutação, permanece” — *facta mutatione* → “feita a mutação” (Key Terms).
+- `pt-BR/g1-c006.md` [13]: “feita a mudança de branco em preto” → “feita a mutação de branco em preto” — *facta mutatione* → “feita a mutação” (Key Terms).
+- `pt-BR/g1-c006.md` [15]: “feita qualquer mudança, a coisa permanece” → “feita qualquer mutação, a coisa permanece” — *facta qualibet mutatione* → “feita qualquer mutação” (Key Terms).
+- `pt-BR/g1-c006.md` [15]: “que adquira pela mudança” → “que adquira pela mutação” — *per mutationem* → “pela mutação” (Key Terms).
+- `pt-BR/g1-c006.md` [15]: “às vezes se dá a mudança da verdade em falsidade” → “às vezes se dá a mutação da verdade em falsidade” — *fit mutatio* → “se dá a mutação” (Key Terms).
+- `pt-BR/g1-c006.md` [16]: “haverá mudança da verdade em falsidade” → “haverá mutação da verdade em falsidade” — *erit mutatio* → “haverá mutação” (Key Terms).
+- `pt-BR/g1-c006.md` [20]: “não pode dar-se nela mudança” → “não pode dar-se nela mutação” — *mutatio* → “mutação” (Key Terms).
+- `pt-BR/g1-c006.md` [20]: “todavia, ocorre mudança pela corrupção” → “todavia, ocorre mutação pela corrupção” — *accidit mutatio* → “ocorre mutação” (Key Terms).
+- `pt-BR/g1-c006.md` [20]: “pode ocorrer mudança mesmo permanecendo” → “pode ocorrer mutação mesmo permanecendo” — *mutatio potest accidere* → “pode ocorrer mutação” (Key Terms).
+- `pt-BR/g1-c006.md` [20]: “pode dar-se mudança da verdade da coisa” → “pode dar-se mutação da verdade da coisa” — *mutatio veritatis rei* → “mutação da verdade da coisa” (Key Terms).
+- `pt-BR/g1-c006.md` [21]: “feita qualquer mudança, permanece a verdade” → “feita qualquer mutação, permanece a verdade” — *facta omni mutatione* → “feita qualquer mutação” (Key Terms).
+- `pt-BR/g1-c008.md` [6]: “se não se entendesse a composição do ato” → “se não se inteligisse a composição do ato” — *intelligeretur* → “se inteligisse” (Key Terms).
+- `pt-BR/g1-c010.md` [20]: “uma apreciação falsa” → “uma estimação falsa” — *aestimationem* → “estimação” (Key Terms).
+- `pt-BR/g1-c010.md` [21]: “uma apreciação falsa” → “uma estimação falsa” — *aestimationem* → “estimação” (Key Terms).
+- `pt-BR/g1-c010.md` [21]: “produzir de si apreciação alguma” → “produzir de si estimação alguma” — *aliquam aestimationem* → “estimação alguma” (Key Terms).
+- `pt-BR/g1-c010.md` [24]: “alguns julgaram que Deus é corpo” → “alguns estimaram que Deus é corpo” — *aestimaverunt* → “estimaram” (Key Terms).
+- `pt-BR/g1-c010.md` [24]: “julgaram, por consequência, que o corpo” → “estimaram, por consequência, que o corpo” — *aestimaverunt* → “estimaram” (Key Terms).
+- `pt-BR/g1-c011.md` [10]: “uma apreciação verdadeira ou falsa” → “uma estimação verdadeira ou falsa” — *aestimationem* → “estimação” (Key Terms).
+- `pt-BR/g10-c001.md` [19]: “pelo último grau de sua potência” → “pelo máximo de sua potência” — *ultimum potentiae* → “o máximo da potência” (Key Terms).
+- `pt-BR/g10-c002.md` [16]: “no livro 6 dos *Naturais*” → “no livro 6 de *Sobre as coisas naturais*” — *De naturalibus* → “Sobre as coisas naturais” (Key Terms).
+- `pt-BR/g10-c005.md` [10]: “sobre o que se há de fazer” → “sobre as coisas operáveis” — *de operabilibus* → “sobre as coisas operáveis” (Key Terms).
+
+### Part terms 1 of 20, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 8 minor. Delta read of 56 changes: 2 inconsistent reversions (exemplar; vis → potência), 1 per-se link restored, 1 article restored, 2 intelligere drifts and 1 stale journal row fixed; rest confirmed.
+- `pt-BR/g1-c001.md` [20]: “há uma potência cognoscitiva e uma apetitiva” → “há uma faculdade cognoscitiva e uma apetitiva” — *vis cognitiva*: a linha da tabela para esta parte dá “faculdade cognoscitiva” (*vis* → faculdade; *potentia* → potência); a correção anterior confundia *vis* com *potentia*.
+- `pt-BR/g1-c004.md` [29]: “seja exemplado pelo lume divino” → “seja modelado pelo lume divino” — A linha *exemplari* → “ser modelado” rege esta questão, e [16] e [32] do mesmo capítulo usam “modelado”; a correção anterior deixou o arquivo inconsistente.
+- `pt-BR/g1-c004.md` [29]: “das coisas exempladas pelo intelecto divino” → “das coisas modeladas pelo intelecto divino” — Mesma razão: coerência com [16] e [32] (“coisas modeladas”) e com a linha da tabela.
+- `pt-BR/g1-c004.md` [34]: “da verdade que é exemplada pela própria mente divina” → “da verdade que é modelada pela própria mente divina” — Mesma razão: coerência interna do capítulo com “modelado”.
+- `pt-BR/g1-c005.md` [19]: “a verdade, propriamente falando, é perpétua” → “a verdade, considerada por si, é perpétua” — *per se loquendo* retoma o *per se* da premissa (“o que lhe convém por si… por acidente”). “Propriamente falando” rompe esse elo do argumento. *(meaning)*
+- `pt-BR/g1-c005.md` [51]: “ambos são por essência divina, que é una” → “ambos são pela essência divina, que é una” — *per essentiam divinam quae est una* designa uma essência determinada, especificada pela relativa; “por essência divina, que é una” fica sem artigo e soa agramatical.
+- `pt-BR/g1-c005.md` [34]: “não se pode entender quando o enunciado existiria” → “não se pode inteligir quando o enunciado existiria” — *intelligi* → “inteligir” (Key Terms), como na correção de [32].
+- `pt-BR/g1-c002.md` [13]: “se entendesse que um e outro intelecto fossem suprimidos” → “se inteligisse que um e outro intelecto fossem suprimidos” — *intelligeretur* → “se inteligisse” (Key Terms), como na correção de g1-c008 [6].
+- `pt-BR/translation-journal.md`: “| 6 De naturalibus (Avicena) | livro 6 dos *Naturais* | Nota do tradutor em g10-c002 [^2]. |” → “| 6 De naturalibus (Avicena) | livro 6 de *Sobre as coisas naturais* | Nota do tradutor em g10-c002 [^2]. |” — g10-c002 [16] passou a “livro 6 de *Sobre as coisas naturais*”; a linha descrevia a forma antiga.
+- Rejected: pt-BR/g1-c001.md [39] — *potentia* → “potência” em vez de “poder” — Correto: preserva a distinção de *potestas* e segue a tabela.
+- Rejected: pt-BR/g1-c002.md, g1-c003.md, g1-c010.md, g1-c011.md — *aestimatio* → “estimação”, contra a linha “aestimatio | apreciação” — A tabela tem as duas formas (as linhas posteriores dão “estimação”), e todos os casos mostrados ficaram uniformes. A decisão sobre g1-c011 [12] não foi mostrada nesta rodada, por isso não foi alterada.
+- Rejected: pt-BR/g1-c006.md — “mutação” junto ao verbo “mudar” — Segue a linha *mutatio* → “mutação”; o verbo “mudar” para *mutari* não é defeito.
+
+### Part terms 1 of 20, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as nove alterações; lidos integralmente os 20 parágrafos mostrados e as quatro notas do tradutor. Nenhum defeito objetivo encontrado; os demais locais sinalizados pela auditoria não foram exibidos nesta rodada.
+- Rejected: pt-BR/g1-c001.md [20] — Itálicos e parênteses adicionais em relação à fonte. — Acréscimos conservam os termos latinos do jogo etimológico aliquid/aliud quid, conforme a decisão registrada no diário.
+- Rejected: pt-BR/g1-c004.md [34] — “Resulta no espelho” em vez de “reflete-se no espelho”. — “Resulta” pode designar aqui o surgimento da semelhança no espelho; a convenção posterior para resultare pertence à questão 12 e não torna esta tradução defeituosa.
+
+### Part terms 2 of 20, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 35 minor. 171 parágrafos sinalizados examinados; 34 ocorrências de drift corrigidas e 1 ajuste no glossário.
+- `pt-BR/g10-c007.md` [30]: “poderia induzir à apreciação de que” → “poderia induzir à estimação de que” — aestimationem → “estimação” (Key Terms).
+- `pt-BR/g10-c008.md` [7]: “*Mas contra isso*:” → “*Mas em contrário*:” — Sed contra → “Mas em contrário” (Key Terms).
+- `pt-BR/g10-c008.md` [35]: “Isso se vê considerando o modo” → “Isso se vê contemplando o modo” — intuendo → “contemplando” (Key Terms).
+- `pt-BR/g10-c008.md` [39]: “esta parte das objeções conclui a verdade” → “esta parte das objeções conclui o verdadeiro” — verum → “o verdadeiro”; distingue-se de veritas (Key Terms).
+- `pt-BR/g10-c008.md` [45]: “uma ação ligada à posição” → “uma ação sujeita a posição” — situalis → “sujeito a posição” (Key Terms), com concordância.
+- `pt-BR/g10-c011.md` [22]: “só se fazem pelo poder divino” → “só se fazem pela virtude divina” — virtute divina → “virtude divina” (Key Terms).
+- `pt-BR/g10-c011.md` [23]: “e assim já não está na via.” → “e assim já não está na vida presente.” — in via → “na vida presente” (Key Terms).
+- `pt-BR/g10-c011.md` [39]: “da qual se julga tanto mais longe” → “da qual se estima tanto mais longe” — aestimat → “estima” (Key Terms).
+- `pt-BR/g10-c012.md` [11]: “no desenvolvimento deste argumento” → “no processo deste argumento” — processu → “processo” (Key Terms).
+- `pt-BR/g10-c012.md` [12]: “*Mas contra isso*:” → “*Mas em contrário*:” — Sed contra → “Mas em contrário” (Key Terms).
+- `pt-BR/g10-c012.md` [16]: “não se pode julgar o contrário” → “não se pode estimar o contrário” — aestimari → “estimar”, ajustado à construção portuguesa (Key Terms).
+- `pt-BR/g10-c012.md` [16]: “ser julgado em ato” → “ser estimado em ato” — aestimari → “ser estimado” (Key Terms).
+- `pt-BR/g10-c012.md` [37]: “por isso, a razão não procede.” → “por isso, o argumento não procede.” — ratio non sequitur → “o argumento não procede” (Key Terms).
+- `pt-BR/g10-c013.md` [3]: “o poder sempiterno à pessoa do Filho” → “a virtude sempiterna à pessoa do Filho” — sempiternam virtutem → “virtude sempiterna” (Key Terms).
+- `pt-BR/g10-c013.md` [8]: “em Deus há suma alegria” → “em Deus há suma jucundidade” — iocunditas → “jucundidade” (Key Terms).
+- `pt-BR/g10-c013.md` [10]: “no livro 1 de *O céu e o mundo*” → “no livro 1 de *Sobre o céu e o mundo*” — Caeli et mundi → “Sobre o céu e o mundo” (Key Terms).
+- `pt-BR/g10-c013.md` [19]: “e por isso a razão não procede.” → “e por isso o argumento não procede.” — ratio non sequitur → “o argumento não procede” (Key Terms).
+- `pt-BR/g10-c013.md` [22]: “por isso a alegria não se completa” → “por isso a jucundidade não se completa” — iocunditas → “jucundidade” (Key Terms).
+- `pt-BR/g10-c013.md` [22]: “para a sua plena alegria” → “para a sua plena jucundidade” — iocunditatem → “jucundidade” (Key Terms).
+- `pt-BR/g11-c001.md` [9]: “*a fé vem da audição*” → “*a fé vem do ouvir*” — auditu → “ouvir” (Key Terms).
+- `pt-BR/g11-c001.md` [19]: “daquele cuja fala lhe dá certeza” → “daquele cuja locução lhe dá certeza” — locutionem → “locução” (Key Terms).
+- `pt-BR/g11-c001.md` [20]: “ninguém aprende pela fala de outro” → “ninguém aprende pela locução de outro” — per locutionem → “pela locução” (Key Terms).
+- `pt-BR/g11-c001.md` [20]: “mesmo antes dessa fala” → “mesmo antes dessa locução” — ante locutionem → “antes dessa locução” (Key Terms).
+- `pt-BR/g11-c001.md` [20]: “ensinado pela fala do mestre” → “ensinado pela locução do mestre” — ex locutione magistri → “pela locução do mestre” (Key Terms).
+- `pt-BR/g11-c001.md` [20]: “ensinado pela fala de outro homem” → “ensinado pela locução de outro homem” — per locutionem → “pela locução” (Key Terms).
+- `pt-BR/g11-c001.md` [27]: “no livro 6 *Dos naturais*” → “no livro 6 de *Sobre as coisas naturais*” — De naturalibus → “Sobre as coisas naturais” (Key Terms).
+- `pt-BR/g11-c001.md` [30]: “como que incoações das virtudes” → “como que começos das virtudes” — inchoationes → “começos” (Key Terms).
+- `pt-BR/g11-c001.md` [36]: “é preciso que saibamos de antemão algo dele” → “é preciso que conheçamos de antemão algo dele” — praesciamus → “conheçamos de antemão” (Key Terms).
+- `pt-BR/g11-c001.md` [36]: “é preciso saber de antemão o que são” → “é preciso conhecer de antemão o que são” — praescire → “conhecer de antemão” (Key Terms).
+- `pt-BR/g11-c001.md` [45]: “está para olhar todas as coisas visíveis” → “está para contemplar todas as coisas visíveis” — intuenda → “contemplar” (Key Terms).
+- `pt-BR/g11-c001.md` [51]: “interrogado antes da fala do mestre” → “interrogado antes da locução do mestre” — ante locutionem magistri → “antes da locução do mestre” (Key Terms).
+- `pt-BR/g11-c002.md` [3]: “por causa da fala exterior” → “por causa da locução exterior” — locutionem exteriorem → “locução exterior” (Key Terms).
+- `pt-BR/g11-c003.md` [27]: “o instrui por uma fala sensível” → “o instrui por uma locução sensível” — locutionem sensibilem → “locução sensível” (Key Terms).
+- `pt-BR/g11-c003.md` [27]: “o intento desta questão” → “a intenção desta questão” — intentio → “intenção” (Key Terms).
+- `pt-BR/translation-journal.md`: “| notio / notitia | noção / conhecimento | Na tríade agostiniana *mens, notitia, amor* → “mente, conhecimento, amor”; *nosse* → “conhecer”. |” → “| notio / notitia | noção / conhecimento | Na tríade agostiniana *mens, notitia, amor* → “mente, conhecimento, amor”; *nosse* → “conhecer”. “Fora da tríade, notitia também admite notícia, especialmente nas expressões notícia habitual e notícia atual.” |” — Os trechos empregam consistentemente “notícia” para notitia fora da tríade; a nota deve registrar esse uso técnico.
+
+### Part terms 2 of 20, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 7 minor. Delta read of 35 changes: reverted “vida presente” (meaning) and two *Sed contra* replies to the Key Terms form, and fixed the iocunda link, the g11-c001 footnote and two journal rows; the remaining changes are correct.
+- `pt-BR/g10-c011.md` [23]: “e assim já não está na vida presente.” → “e assim já não está na via.” — source says “et sic non est in via”. The reply argues from the image of the way: whoever reaches its end is no longer on the way (journal decision and footnote [^1]). “Já não está na vida presente” says the person has left this life, which is false here: the rapt person is still alive. *(meaning)*
+- `pt-BR/g10-c008.md` [7]: “*Mas em contrário*:” → “*Mas contra isso*:” — Key Terms renders a *Sed contra* that replies inside the objections as *Mas contra isso*, and the journal decision for g10-c008 [6] names [7] explicitly. The previous change contradicted both.
+- `pt-BR/g10-c012.md` [12]: “*Mas em contrário*:” → “*Mas contra isso*:” — This is the same reply-inside-objection *Sed contra* (Key Terms: *Mas contra isso*). The previous change also made the file inconsistent, since [16] still reads *Mas contra isso*.
+- `pt-BR/g10-c013.md` [8]: “*de nenhum bem é alegre a posse sem companheiro*” → “*de nenhum bem é jucunda a posse sem companheiro*” — iocunditas is now “jucundidade”. The argument runs from iocunditas to iocunda possessio, so “jucunda” keeps the word link the change broke.
+- `pt-BR/g10-c013.md` [8]: “provém nelas a alegre posse da bondade” → “provém nelas a jucunda posse da bondade” — iocunda possessio. This keeps the same word link with “jucundidade”.
+- `pt-BR/g11-c001.md` [27]: “O “livro 6 *Dos naturais*” é o tratado” → “O “livro 6 de *Sobre as coisas naturais*” é o tratado” — The text of [27] now reads “livro 6 de *Sobre as coisas naturais*”, so the footnote quoted a phrase that no longer occurs.
+- `pt-BR/translation-journal.md`: “| actio situalis | ação ligada à posição | |” → “| actio situalis | ação sujeita a posição | |” — g10-c008 [45] now reads “ação sujeita a posição”. The row stated a form that occurs nowhere (audit: ×0).
+- NOT APPLIED (old text not found exactly once (2)): - `pt-BR/translation-journal.md`: “*nosse* → “conhecer”. “Fora da tríade, notitia também admite notícia, especialmente nas expressões notícia habitual e notícia atual.” |” → “*nosse* → “conhecer”. Fora da tríade, *notitia* também admite “notícia”, especialmente em “notícia habitual” e “notícia atual”. |” — The note added last round wraps the whole note in quotation marks and leaves the Latin term unitalicized, unlike every other row. This fixes the formatting only.
+- Rejected: pt-BR/g10-c007.md [30] — “estimação” against the row aestimatio → “apreciação” — The table has rows for both renderings. “Induzir à estimação de que” is correct Portuguese, so this is a defensible choice, not a defect.
+- Rejected: pt-BR/g10-c011.md [22] — “virtude divina” against the row *virtus divina* → “poder divino” — The table also has the row virtus divina → “virtude divina”. Both renderings are defensible.
+- Rejected: pt-BR/g11-c001.md [30] — “começos” against “incoações” — Key Terms has inchoatio → “começo”. The sense is unchanged.
+
+### Part terms 2 of 20, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 2 minor. Verificadas as sete alterações e lidos integralmente os 15 parágrafos e as cinco notas apresentados; encontrados dois registros desatualizados no diário.
+- `pt-BR/translation-journal.md`: “| 6 De naturalibus (Avicena) | livro 6 *Dos naturais* | |” → “| 6 De naturalibus (Avicena) | livro 6 de *Sobre as coisas naturais* | |” — A entrada referente à seção de g11 ainda registra o título anterior; o parágrafo e sua nota agora empregam “Sobre as coisas naturais”.
+- `pt-BR/translation-journal.md`: “g11-c001 [27]: nota do tradutor [^1] identificando o “livro 6 *Dos naturais*”” → “g11-c001 [27]: nota do tradutor [^1] identificando o “livro 6 de *Sobre as coisas naturais*”” — O registro da decisão ainda cita a redação substituída no parágrafo e na nota.
+
+### Part terms 2 of 20, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read: checked the two journal changes (the Key Terms row and the decision entry for g11-c001 [27]). Both now match the paragraph and its note; nothing to fix.
+- Rejected: pt-BR/translation-journal.md (Key Terms) — The table now has two rows “6 De naturalibus (Avicena) | livro 6 de *Sobre as coisas naturais*”, and the row for g18-c004 still reads “*Dos naturais* (livro 6)”. — The duplicate row is harmless and now agrees with g11-c001 [27] and its note. The g18-c004 row concerns chapters this delta did not show, so I cannot check it against their text.
+
+### Part terms 3 of 20, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 21 minor. 199 flags lidas; 17 com desvio, corrigidas em 18 substituições; 3 linhas de glossário completadas.
+- `pt-BR/g11-c003.md` [41]: “coagido a assentir à conclusão” → “coagido a consentir na conclusão” — *consentire* → “consentir” (Key Terms); estava “assentir”.
+- `pt-BR/g12-c001.md` [24]: “como quem dá crédito a quem ensina” → “como quem crê em quem ensina” — *credens* → “crê” (Key Terms); estava “dá crédito”.
+- `pt-BR/g12-c001.md` [26]: “no livro 6 *Dos naturais*” → “no livro 6 *Sobre as coisas naturais*” — *De naturalibus* → “Sobre as coisas naturais” (Key Terms).
+- `pt-BR/g12-c001.md` [42]: “a fé se assemelha à audição” → “a fé se assemelha ao ouvir” — *auditus* → “ouvir” (Key Terms); estava “audição”.
+- `pt-BR/g12-c002.md` [17]: “o poder divino, sendo infinito” → “a virtude divina, sendo infinita” — *virtus divina* → “virtude divina” (Key Terms); estava “poder divino”.
+- `pt-BR/g12-c003.md` [12]: “no livro 6 *Dos naturais*” → “no livro 6 *Sobre as coisas naturais*” — *De naturalibus* → “Sobre as coisas naturais” (Key Terms).
+- `pt-BR/g12-c003.md` [13]: “no livro 6 *Dos naturais*” → “no livro 6 *Sobre as coisas naturais*” — *De naturalibus* → “Sobre as coisas naturais” (Key Terms).
+- `pt-BR/g12-c003.md` [32]: “milagrosamente só pelo poder divino” → “milagrosamente só pela virtude divina” — *divina virtute* → “virtude divina” (Key Terms); estava “poder divino”.
+- `pt-BR/g12-c004.md` [14]: “tiradas do profeta pelo poder divino” → “tiradas do profeta pela virtude divina” — *divina virtute* → “virtude divina” (Key Terms); estava “poder divino”.
+- `pt-BR/g12-c004.md` [16]: “curada pelo poder divino” → “curada pela virtude divina” — *divina virtute* → “virtude divina” (Key Terms); estava “poder divino”.
+- `pt-BR/g12-c004.md` [19]: “atribuído ao poder divino” → “atribuído à virtude divina” — *divinae virtuti* → “virtude divina” (Key Terms); estava “poder divino”.
+- `pt-BR/g12-c005.md` [13]: “para cumprir o seu desígnio” → “para cumprir o seu propósito” — *propositum* → “propósito” (Key Terms); estava “desígnio”.
+- `pt-BR/g12-c006.md` [24]: “seja em certo aspecto” → “seja sob certo aspecto” — *secundum quid* → “sob certo aspecto” (Key Terms).
+- `pt-BR/g12-c006.md` [33]: “só se chega na pátria, não na via” → “só se chega na pátria, não na vida presente” — *in via* → “na vida presente” (Key Terms); estava “na via”.
+- `pt-BR/g12-c007.md` [13]: “a quem considera os escritos de todos os profetas” → “a quem contempla os escritos de todos os profetas” — *intuenti* → “contempla” (Key Terms); estava “considera”.
+- `pt-BR/g12-c010.md` [12]: “*Põe em ordem a tua casa, porque morrerás*” → “*Dispõe a tua casa, porque morrerás*” — *dispone* → “dispõe” (Key Terms); estava “põe em ordem”.
+- `pt-BR/g12-c010.md` [15]: “ou olhando as causas superiores” → “ou contemplando as causas superiores” — *intuendo* → “contemplando” (Key Terms); estava “olhando”.
+- `pt-BR/g12-c010.md` [15]: “ou olhando as causas inferiores” → “ou contemplando as causas inferiores” — *intuendo* → “contemplando” (Key Terms); estava “olhando”.
+- `pt-BR/translation-journal.md`: “| intelligere | inteligir | Nota em g15-c001. |” → “| intelligere | inteligir | Nota em g15-c001. No sentido de interpretar uma afirmação, *intelligendum est* / *intelligatur* → “deve-se entender” / “se entenda”. |” — Completa a linha com o uso interpretativo corretamente traduzido por “entender”, distinto da intelecção como ato técnico.
+- `pt-BR/translation-journal.md`: “| exitus / eventus (ordinis) | desfecho / evento | Contrapostos à *ordo causarum*, “ordem das causas”. |” → “| exitus / eventus (ordinis) | desfecho / evento | Contrapostos à *ordo causarum*, “ordem das causas”. Fora dessa contraposição, *eventus rerum* → “desfechos das coisas”. |” — Registra a tradução consistente e adequada de *eventus rerum* nas definições de profecia.
+- `pt-BR/translation-journal.md`: “| bonum / bonitas | bem / bondade | Q. 21. |” → “| bonum / bonitas | bem / bondade | Q. 21. Referida ao bom funcionamento de uma faculdade, *bonitas* → “boa qualidade”, como em *bonitas imaginationis*. |” — Registra o sentido funcional corretamente traduzido por “boa qualidade” em g12-c004 [4] e [15].
+
+### Part terms 3 of 20, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read das 18 substituições e 3 linhas do diário, com os parágrafos vizinhos: todas corretas e sem quebra; corrigida a linha de Q. 12 da tabela, que ainda dava “poder divino” para *virtus divina*.
+- `pt-BR/translation-journal.md`: “*virtus divina* → “poder divino”.” → “*virtus divina* → “virtude divina”.” — A linha de Q. 12 ainda dá “poder divino”, mas g12-c002 [17], g12-c003 [32] e g12-c004 [14], [16], [19] passaram a “virtude divina”, como na linha de g20 (*virtus divina / potentia*). A tabela deve refletir o texto.
+- Rejected: pt-BR/g12-c001.md [26]; g12-c003.md [12], [13] — “no livro 6 *Sobre as coisas naturais*” não traz o “de” da linha da tabela (“livro 6 de *Sobre as coisas naturais*”). — O título começa por preposição e a frase lê-se bem; a mesma construção é aceita em outros lugares (“livro 8 *Sobre os animais*”). Não há defeito objetivo.
+- Rejected: pt-BR/g12-c001.md [24] — *credens docenti* (dativo) vertido “crê em quem ensina”, quando a tabela reserva “crer em” para *credere in*. — Ali a tríade *credere Deo / Deum / in Deum* não está em jogo; “crer em quem ensina” é o português natural e o sentido não muda.
+- Rejected: pt-BR/g12-c010.md [12] — “*Dispõe a tua casa*” em vez da forma bíblica corrente “Põe em ordem”. — Segue a letra da fonte (*dispone*) e a tabela; é português correto e a decisão de não puxar citações para a redação familiar o apoia.
+
+### Part terms 3 of 20, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificada a alteração de «virtus divina» para «virtude divina» na linha de Q. 12 do diário: coerente com as correções registradas e com a linha de Q. 20; nenhum defeito encontrado. Nenhum parágrafo de capítulo foi apresentado nesta rodada.
+
+### Part terms 4 of 20, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 49 minor. 151 parágrafos sinalizados lidos; 46 ocorrências com desvio e 3 ajustes de glossário.
+- `pt-BR/g12-c010.md` [19]: “conhecer verdadeiramente os futuros” → “saber verdadeiramente os futuros” — *scire* → “saber” (Key Terms); estava “conhecer”.
+- `pt-BR/g12-c010.md` [32]: “conhecem-se os eventos das coisas” → “conhecem-se os desfechos das coisas” — *eventus rerum* → “os desfechos das coisas” (Key Terms).
+- `pt-BR/g12-c010.md` [34]: “não teve o entendimento de coisa alguma” → “não teve a intelecção de coisa alguma” — *intellectum* designa aqui a intelecção, não a faculdade intelectual.
+- `pt-BR/g12-c011.md` [12]: “Em sentido contrário, há o que” → “Em sentido contrário, está o que” — *Sed contra est quod*; a fórmula estabelecida usa “está”, não “há”.
+- `pt-BR/g12-c011.md` [12]: “anuncia os eventos das coisas” → “anuncia os desfechos das coisas” — *rerum eventus* → “os desfechos das coisas”, na definição abrangida pela nota do glossário.
+- `pt-BR/g12-c011.md` [18]: “não versa sobre os eventos das coisas” → “não versa sobre os desfechos das coisas” — *eventibus rerum* → “desfechos das coisas” (Key Terms).
+- `pt-BR/g12-c012.md` [7]: “dotado só do entendimento delas” → “dotado só da intelecção delas” — *intellectu* designa aqui a intelecção das coisas significadas.
+- `pt-BR/g12-c012.md` [15]: “Em sentido contrário, há o que” → “Em sentido contrário, está o que” — *Sed contra est quod*; a fórmula estabelecida usa “está”.
+- `pt-BR/g12-c012.md` [23]: “já percebe algum entendimento das coisas cridas” → “já percebe alguma intelecção das coisas cridas” — *aliquem intellectum* → “alguma intelecção” (Key Terms).
+- `pt-BR/g12-c012.md` [23]: “lâmpada que brilha em lugar tenebroso” → “lâmpada que luz em lugar tenebroso” — *lucenti* → forma de “luzir” (Key Terms); estava “brilha”.
+- `pt-BR/g12-c013.md` [16]: “mostra eminência relativa, e não absoluta” → “mostra eminência sob certo aspecto, e não absoluta” — *eminentiam secundum quid* → “eminência sob certo aspecto” (Key Terms).
+- `pt-BR/g12-c013.md` [16]: “torna o mérito maior em certo aspecto” → “torna o mérito maior sob certo aspecto” — *secundum quid* → “sob certo aspecto” (Key Terms).
+- `pt-BR/g12-c013.md` [16]: “mais eminente em certo aspecto” → “mais eminente sob certo aspecto” — *secundum quid* → “sob certo aspecto” (Key Terms).
+- `pt-BR/g12-c013.md` [17]: “não se aterrorize de dizer a verdade” → “não se aterrorize de falar a verdade” — *loqui* → “falar” (Key Terms).
+- `pt-BR/g12-c013.md` [17]: “não os temas nem te assustes diante deles” → “não os temas nem tenhas medo diante deles” — *metuas* → “tenhas medo”, mantendo a distinção de *timeas* → “temas”.
+- `pt-BR/g12-c013.md` [17]: “para que lhe dessem crédito” → “para que cressem nele” — *crederetur* → forma de “crer” (Key Terms); estava “dessem crédito”.
+- `pt-BR/g12-c014.md` [8]: “Em sentido contrário, há o que” → “Em sentido contrário, está o que” — *Sed contra est quod*; a fórmula estabelecida usa “está”.
+- `pt-BR/g12-pr.md` [4]: “conclusões que se podem saber” → “conclusões cognoscíveis” — *conclusionibus scibilibus* → “conclusões cognoscíveis” (Key Terms).
+- `pt-BR/g13-c001.md` [9]: “mas os inteligíveis excessivos não corrompem o intelecto” → “mas os excessos dos inteligíveis não corrompem o intelecto” — *excellentiae intelligibilium* é expressão substantiva: “os excessos dos inteligíveis”, conforme o glossário.
+- `pt-BR/g13-c001.md` [23]: “quem sofre a violência em nada contribui” → “o paciente em nada contribui” — *patiens* → “paciente” (Key Terms).
+- `pt-BR/g13-c002.md` [11]: “não pode ser vista sem gozo” → “não pode ser vista sem alegria” — *gaudio* → “alegria” (Key Terms); estava “gozo”.
+- `pt-BR/g13-c002.md` [16]: “a luz do sol é recebida como uma afecção passageira” → “a luz do sol é recebida como uma paixão passageira” — *passio transiens* → “paixão passageira”; trata-se da afecção recebida abrangida pela nota do glossário.
+- `pt-BR/g13-c002.md` [16]: “toca a mente humana como uma afecção passageira” → “toca a mente humana como uma paixão passageira” — *passio transiens* → “paixão passageira” (Key Terms).
+- `pt-BR/g13-c003.md` [2]: “intelecto de algum viandante” → “intelecto de algum viador” — *viatoris* → “viador” (Key Terms).
+- `pt-BR/g13-c003.md` [3]: “também nos viandantes” → “também nos viadores” — *viatoribus* → “viadores” (Key Terms).
+- `pt-BR/g13-c003.md` [4]: “o corpo do viandante” → “o corpo do viador” — *viatoris* → “viador” (Key Terms).
+- `pt-BR/g13-c003.md` [7]: “não é lícito ao homem pronunciar” → “não é lícito ao homem falar” — *loqui* → “falar” (Key Terms).
+- `pt-BR/g13-c003.md` [20]: “*deve-se julgar que elas*” → “*deve-se estimar que elas*” — *aestimandum est* → “deve-se estimar” (Key Terms).
+- `pt-BR/g13-c004.md` [10]: “Em sentido contrário, sobre Êxodo 33:20, *não me verá o homem e viverá*, diz a Glosa de Gregório:” → “Em sentido contrário, está o que diz a Glosa de Gregório sobre Êxodo 33:20, *não me verá o homem e viverá*:” — Restitui a fórmula *Sed contra est quod*, mantendo a referência e sua atribuição.
+- `pt-BR/g13-c004.md` [14]: “nada é intermediário entre a forma e a matéria” → “não há meio algum entre a forma e a matéria” — *nihil sit medium* → “não há meio algum” (Key Terms).
+- `pt-BR/g13-c004.md` [14]: “Donde, falando por si, para a operação” → “Donde, propriamente falando, para a operação” — *per se loquendo* → “propriamente falando” (Key Terms).
+- `pt-BR/g13-c004.md` [14]: “Donde fica claro que, falando por si, a operação” → “Donde fica claro que, propriamente falando, a operação” — *per se loquendo* → “propriamente falando” (Key Terms).
+- `pt-BR/g13-pr.md` [4]: “intelecto de algum viandante” → “intelecto de algum viador” — *viatoris* → “viador” (Key Terms).
+- `pt-BR/g14-c001.md` [3]: “mas parece que isto se diz inadequadamente” → “parece, porém, que isto se diz inadequadamente” — *videtur autem quod* → “parece, porém, que” (Key Terms).
+- `pt-BR/g14-c001.md` [7]: “significa conhecimento por comparação” → “significa conhecimento colativo” — *cognitionem collativam* → “conhecimento colativo” (Key Terms).
+- `pt-BR/g14-c001.md` [8]: “quem assente a algo comparando” → “quem assente a algo conferindo” — *conferendo* → “conferindo”; o glossário distingue *conferre* de *comparare*.
+- `pt-BR/g14-c001.md` [8]: “outro com o qual o compara” → “outro com o qual o confere” — *ad quod confert* → “com o qual o confere”, mantendo *conferre* → “conferir”.
+- `pt-BR/g14-c001.md` [8]: “no crer não há comparação alguma” → “no crer não há conferência alguma” — *collatio* → “conferência”, substantivo correspondente a *conferre* → “conferir”.
+- `pt-BR/g14-c001.md` [9]: “sem cogitação nem comparação” → “sem cogitação nem conferência” — *collatione* → “conferência”, preservando a distinção entre *conferre* e *comparare*.
+- `pt-BR/g14-c001.md` [10]: “sem comparação nem cogitação alguma” → “sem conferência nem cogitação alguma” — *collatione* → “conferência”, conforme *conferre* → “conferir”.
+- `pt-BR/g14-c001.md` [15]: “se determina a uma só sem comparação alguma” → “se determina a uma só sem conferência alguma” — *sine aliqua collatione* → “sem conferência alguma”, conforme a distinção do glossário.
+- `pt-BR/g14-c001.md` [15]: “Pela própria comparação dos princípios com as conclusões” → “Pela própria conferência dos princípios com as conclusões” — *collatione principiorum ad conclusiones* → “conferência dos princípios com as conclusões”.
+- `pt-BR/g14-c001.md` [18]: “alguma cogitação ou comparação” → “alguma cogitação ou conferência” — *collatio* → “conferência”, conforme *conferre* → “conferir”.
+- `pt-BR/g13-c005.md` [15]: “dizem-no mais por probabilidade que por certeza” → “falam disso mais por probabilidade que por certeza” — *loquuntur* → “falam” (Key Terms).
+- `pt-BR/g14-c002.md` [19]: “segundo a doutrina da arte” → “segundo o ensino da arte” — *doctrinam* → “ensino”; esta ocorrência não pertence às exceções doutrinais registradas.
+- `pt-BR/g14-c002.md` [23]: “é uma explicação do que dissera” → “é uma explicitação do que dissera” — *explicatio* → “explicitação” (Key Terms).
+- `pt-BR/translation-journal.md`: “| intelligere / intellectus (= conceito) | inteligir / intelecção | *Intellectus quos significant* → “as intelecções que significam” (g1-c003 [9]). “Intellectus, no sentido de interpretação de palavras ou de um texto, → entendimento” (g29-c003). |” → “| intelligere / intellectus (= conceito) | inteligir / intelecção | *Intellectus quos significant* → “as intelecções que significam” (g1-c003 [9]). No sentido de interpretar palavras ou enunciados, “entender” / “entendimento”; quando significa comunicar um sentido, “dar a entender”. |” — Registra os usos interpretativos corretamente traduzidos por “entender”, “entendimento” e “dar a entender”, distintos da intelecção técnica.
+- `pt-BR/translation-journal.md`: “| species / similitudo | espécie / semelhança | |” → “| species / similitudo | espécie / semelhança | No sentido de aspecto sob o qual alguém aparece, *species* → “aparência”; referida à própria realidade divina contemplada, “forma”; na oposição bíblica *per fidem / per speciem*, “pela fé / pela visão”. |” — Registra sentidos de *species* corretamente traduzidos nas ocorrências sinalizadas, distintos da espécie cognoscitiva ou lógica.
+- `pt-BR/translation-journal.md`: “| intentio / intendere | intenção / intentar | *Non intendit* (Dionísio) → “não pretende”. |” → “| intentio / intendere | intenção / intentar | *Non intendit* (Dionísio) → “não pretende”. Quando designam a aplicação da atenção, “atenção” / “atender”, “estar atento”. |” — Registra o sentido atencional corretamente usado em g13-c003 [13]–[14], distinto de intentar um fim.
+
+### Part terms 4 of 20, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 6 minor. Delta da parte 4: 49 alterações verificadas; revertidas 2 que contrariavam a tabela ou criavam inconsistência, corrigida uma sintaxe quebrada, alinhado g14-c001 [4] e atualizadas 2 linhas do glossário.
+- `pt-BR/g12-c011.md` [18]: “não versa sobre os desfechos das coisas” → “não versa sobre os eventos das coisas” — Fonte: *eventibus rerum* … *ad eventus* … *eventus*, a mesma palavra três vezes, em contraste com a *ordo causarum*. A linha “exitus / eventus (ordinis)” dá “evento” nessa contraposição. A correção anterior criou “desfechos … eventos … evento” para o mesmo termo na mesma frase.
+- `pt-BR/g13-c001.md` [9]: “mas os excessos dos inteligíveis não corrompem o intelecto” → “mas os inteligíveis excessivos não corrompem o intelecto” — A linha da Questão 13 “excellentia sensibilium / intelligibilium → sensíveis / inteligíveis excessivos” (g13-c001 [9], [24]) fixa esta forma. A correção anterior a contradiz e quebra o paralelo com “os sensíveis excessivos” na mesma frase.
+- `pt-BR/g13-c005.md` [15]: “E o que os posteriores determinam a esse respeito, falam disso mais por probabilidade que por certeza” → “E, quanto ao que os posteriores determinam a esse respeito, falam mais por probabilidade que por certeza” — Depois da troca de “dizem-no” por “falam disso”, a oração “o que … determinam” ficou sem função. *Quod autem posteriores … determinant, magis loquuntur* pede uma construção com “quanto ao que”.
+- `pt-BR/g14-c001.md` [4]: “isto é, discutir e comparar uma coisa com outra” → “isto é, discutir e conferir uma coisa com outra” — *conferre unum cum altero*. Os parágrafos [8]–[18] agora vertem *conferre* / *collatio* como “conferir” / “conferência”, e o argumento retoma esta definição de *cogitare*. O mesmo verbo latino deve ter a mesma forma no artigo.
+- `pt-BR/translation-journal.md`: “| viator / status viae / status patriae | viandante / estado de via / estado de pátria |” → “| viator / status viae / status patriae | viador / estado de via / estado de pátria |” — A Questão 13 agora usa “viador” (g13-c003, g13-pr); “viandante” não ocorre mais, como mostra a auditoria.
+- `pt-BR/translation-journal.md`: “| collatio / conferre / cognitio collativa | comparação / comparar / conhecimento por comparação |” → “| collatio / conferre / cognitio collativa | conferência / conferir / conhecimento colativo |” — g14-c001 [4], [7]–[18] usam agora “conferência” / “conferir” / “conhecimento colativo”. A linha descrevia formas que não ocorrem mais.
+- Rejected: pt-BR/g12-c013.md [17] — “para que cressem nele” usa “crer em”, que o diário reserva para *credere in* — A distinção *credere Deo / in Deum* é técnica e própria da Questão 14. Aqui “crer nele” tem o sentido corrente de dar crédito e reproduz *ut ei crederetur* sem erro.
+- Rejected: pt-BR/g13-c004.md [14] — “propriamente falando” afrouxa o elo com o “Por si” que abre o parágrafo — A forma consta da tabela (*per se loquendo* → “propriamente falando”) e o sentido se mantém. É escolha defensável.
+- Rejected: pt-BR/g13-c001.md [23] — “o paciente em nada contribui” omite *vim* — É a fórmula aristotélica usual (o paciente nada contribui). O sentido se preserva, e a omissão é anterior a esta correção.
+
+### Part terms 4 of 20, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as 6 alterações e lidos integralmente os 12 parágrafos apresentados e as 3 notas do tradutor; nenhum defeito objetivo encontrado.
+- Rejected: pt-BR/g14-c001.md [4] — Itálicos e parênteses adicionais em relação à fonte. — Marcam os termos latinos conservados na explicação etimológica e a glosa portuguesa de cogitare; não alteram nem omitem o conteúdo.
+
+### Part terms 5 of 20, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 19 minor. 157 parágrafos sinalizados examinados; 19 ocorrências com desvio terminológico.
+- `pt-BR/g14-c002.md` [24]: “*gozo da verdade*” → “*alegria da verdade*” — *gaudium* → “alegria” (Key Terms); estava “gozo”.
+- `pt-BR/g14-c004.md` [17]: “não parecem entender o que é” → “não parecem inteligir o que é” — *intelligere* → “inteligir” (Key Terms); estava “entender”.
+- `pt-BR/g14-c004.md` [23]: “boa disposição da imaginação” → “boa disposição da fantasia” — *phantasia* → “fantasia” (Key Terms); estava “imaginação”.
+- `pt-BR/g14-c005.md` [23]: “deve ser entendido assim” → “deve ser inteligido assim” — *intelligendum* → “inteligido” (Key Terms: *intelligere*); estava “entendido”.
+- `pt-BR/g14-c006.md` [7]: “um hábito que aperfeiçoa alguma potência” → “um hábito perfectivo de alguma potência” — *perfectivus* → “perfectivo” (Key Terms); estava parafraseado como “que aperfeiçoa”.
+- `pt-BR/g14-c006.md` [14]: “à habilidade natural para o bem” → “à aptidão natural para o bem” — *habilitas* → “aptidão” (Key Terms); estava “habilidade”.
+- `pt-BR/g14-c008.md` [11]: “incluído no conceito do outro” → “incluído na intelecção do outro” — *intellectus* no sentido de conceito → “intelecção” (Key Terms); estava “conceito”.
+- `pt-BR/g14-c009.md` [6]: “o proceder a partir de coisas necessárias” → “o processo a partir de coisas necessárias” — *processus* → “processo” (Key Terms); estava “proceder”.
+- `pt-BR/g14-c009.md` [21]: “mas forçados pela evidência dos sinais” → “mas coagidos pela evidência dos sinais” — *coacti*, particípio de *cogere* → “coagidos” (Key Terms); estava “forçados”.
+- `pt-BR/g14-c011.md` [13]: “e assim chega-se ao mesmo que antes.” → “e assim conclui-se o mesmo que antes.” — *et sic idem quod prius* → “e assim conclui-se o mesmo que antes” (Key Terms); estava “chega-se”.
+- `pt-BR/g14-c011.md` [16]: “aderimos a elas pensando-as em ato” → “aderimos a elas cogitando-as em ato” — *cogitatis* → “cogitando-as”, conforme “cogitar / cogitação” fixado para a questão 14.
+- `pt-BR/g14-c012.md` [9]: “o hábito recebe multiplicidade ou unidade” → “o hábito recebe multidão ou unidade” — *multitudo* → “multidão” (Key Terms); estava “multiplicidade”.
+- `pt-BR/g15-c001.md` [14]: “e assim chega-se ao mesmo que antes.” → “e assim conclui-se o mesmo que antes.” — *et sic idem quod prius* → “e assim conclui-se o mesmo que antes” (Key Terms); estava “chega-se”.
+- `pt-BR/g15-c001.md` [16]: “e assim chega-se ao mesmo que antes.” → “e assim conclui-se o mesmo que antes.” — *et sic idem quod prius* → “e assim conclui-se o mesmo que antes” (Key Terms); estava “chega-se”.
+- `pt-BR/g15-c001.md` [33]: “pela convolução de muitas coisas em uma” → “pelo enrolamento de muitas coisas em uma” — *convolutio* → “enrolamento” (Key Terms); estava “convolução”.
+- `pt-BR/g15-c001.md` [33]: “segundo certa estimação natural” → “segundo certa estimativa natural” — *naturalis aestimatio* dos animais → “estimativa natural” (Key Terms); estava “estimação natural”.
+- `pt-BR/g15-c001.md` [33]: “pelo qual intui por si mesmo o verdadeiro” → “pelo qual contempla por si mesmo o verdadeiro” — *intuetur* → “contempla” (Key Terms: *intueri*); estava “intui”.
+- `pt-BR/g15-c001.md` [34]: “no livro VI de *Sobre as coisas naturais*” → “no livro VI dos *Naturais*” — *6 De naturalibus* → “livro 6 dos Naturais” (Key Terms); estava “Sobre as coisas naturais”.
+- `pt-BR/g15-c001.md` [46]: “amar a Deus e escolher as virtudes” → “amar a Deus e eleger as virtudes” — *eligere* → “eleger” (Key Terms); estava “escolher”.
+
+### Part terms 5 of 20, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 4 minor. Verifiquei as 19 alterações da rodada anterior e os parágrafos vizinhos. 15 estão corretas. Corrigi a concordância em g14-c002 [24], reverti duas alterações que contrariavam o Key Terms (g14-c005 [23], g15-c001 [34]) e alinhei “eleger” na objeção g15-c001 [15].
+- `pt-BR/g14-c002.md` [24]: “senão o *alegria da verdade*” → “senão a *alegria da verdade*” — A troca de “gozo” por “alegria” deixou o artigo masculino; “alegria” é feminino.
+- `pt-BR/g14-c005.md` [23]: “deve ser inteligido assim” → “deve ser entendido assim” — *Quomodo … sic intelligendum est* indica como interpretar uma afirmação. A linha *intelligere* do Key Terms prescreve “entender” nesse sentido; a correção anterior contrariou a tabela.
+- `pt-BR/g15-c001.md` [34]: “no livro VI dos *Naturais*” → “no livro VI de *Sobre as coisas naturais*” — A linha *De naturalibus* da questão 15 fixa *Sobre as coisas naturais*, assim como as linhas “6 De naturalibus (Avicena)”. A tabela não registra a forma “dos Naturais” que a correção anterior alegou.
+- `pt-BR/g15-c001.md` [15]: “escolhe as virtudes” → “elege as virtudes” — *virtutes eligit*: a resposta em [46] retoma o mesmo verbo, agora como “eleger as virtudes”, e o Key Terms fixa *eligere* → “eleger”. A objeção ficou com outro verbo.
+- Rejected: pt-BR/g14-c004.md [23] — “fantasia” contradiz a linha da questão 14 “phantasia | imaginação” — A tabela tem duas linhas em conflito (“phantasma / phantasia | fantasma / fantasia” e “phantasia | imaginação”). Ambas as formas são defensáveis, e não vejo as demais ocorrências da questão 14 para decidir qual linha está errada.
+- Rejected: pt-BR/g14-c004.md [17] — “inteligir” em vez de “entender” — *intelligere quid sit intellectus practicus* é apreender um conceito, não interpretar palavras; “inteligir” segue a tabela.
+- Rejected: pt-BR/g15-c001.md [17] — “logo, chega-se ao mesmo que antes” difere de [14] e [16] — A fonte tem *ergo idem quod prius*, sem *et sic*; a fórmula fixada (“e assim conclui-se…”) não se aplica literalmente, e a forma atual não é erro.
+
+### Part terms 5 of 20, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as quatro alterações e lidos integralmente os 12 parágrafos e as cinco notas apresentados; nenhum defeito encontrado.
+- Rejected: pt-BR/g14-c002.md [24] — A auditoria aponta dois marcadores de ênfase adicionais. — A tradução separa em dois trechos itálicos o título da obra e a citação, unidos no itálico latino; ambos permanecem completos.
+
+### Part terms 6 of 20, Round 1 (codex, terms read)
+Verdict: 2 meaning-level, 38 minor. 165 parágrafos sinalizados lidos; deriva em 27 parágrafos; 1 linha de glossário complementada.
+- `pt-BR/g15-c002.md` [22]: “segundo as diversas noções dos objetos” → “segundo as diversas razões dos objetos” — *rationes obiectorum* → “razões dos objetos” (Key Terms); estava “noções”.
+- `pt-BR/g15-c002.md` [22]: “segundo a diversa noção do objeto” → “segundo a diversa razão do objeto” — *ratio obiecti* → “razão do objeto” (Key Terms); estava “noção”.
+- `pt-BR/g15-c002.md` [22]: “na noção de quantidade” → “na razão de quantidade” — *ratio quantitatis* → “razão de quantidade” (Key Terms); estava “noção”.
+- `pt-BR/g15-c002.md` [23]: “segundo a diversa noção do objeto” → “segundo a diversa razão do objeto” — *ratio obiecti* → “razão do objeto” (Key Terms); estava “noção”.
+- `pt-BR/g15-c002.md` [23]: “segundo noções diversas” → “segundo razões diversas” — *secundum diversam rationem* → “segundo razões diversas” (Key Terms); estava “noções”.
+- `pt-BR/g15-c002.md` [23]: “não é sob a mesma noção que o fim e a forma aperfeiçoam” → “não é sob a mesma razão que o fim e a forma aperfeiçoam” — *non eadem ratione* → “não ... sob a mesma razão” (Key Terms); estava “noção”.
+- `pt-BR/g15-c002.md` [23]: “não têm a mesma noção de objeto” → “não têm a mesma razão de objeto” — *rationem obiecti* → “razão de objeto” (Key Terms); estava “noção”.
+- `pt-BR/g15-c002.md` [23]: “algo não é objeto sob a mesma noção” → “algo não é objeto sob a mesma razão” — *non eadem ratione est obiectum aliquid* → “algo não é objeto sob a mesma razão” (Key Terms); estava “noção”.
+- `pt-BR/g15-c002.md` [28]: “segundo noções de gênero diverso” → “segundo razões de gênero diverso” — *secundum rationem diversam genere* → “segundo razões de gênero diverso” (Key Terms); estava “noções”.
+- `pt-BR/g15-c002.md` [28]: “quanto à noção de cognoscível” → “quanto à razão de cognoscível” — *rationem cognoscibilis* → “razão de cognoscível” (Key Terms); estava “noção”.
+- `pt-BR/g15-c002.md` [32]: “segundo uma única noção de imaterialidade” → “segundo uma única razão de imaterialidade” — *rationem immaterialitatis* → “razão de imaterialidade” (Key Terms); estava “noção”.
+- `pt-BR/g15-c002.md` [35]: “depois de completa a noção da potência” → “depois de completa a razão da potência” — *potentiae rationem* → “razão da potência” (Key Terms); estava “noção”.
+- `pt-BR/g15-c002.md` [36]: “no livro VI do *Sobre as coisas naturais*” → “no livro 6 dos *Naturais*” — *6 De naturalibus* → “livro 6 dos Naturais” (Key Terms); estava “livro VI do Sobre as coisas naturais”.
+- `pt-BR/g15-c003.md` [12]: “tanto nas coisas especulativas quanto nas operáveis” → “tanto nas coisas especuláveis quanto nas operáveis” — *speculabilia* → “coisas especuláveis” (Key Terms); estava “coisas especulativas”.
+- `pt-BR/g15-c003.md` [15]: “das coisas a fazer ou das que se podem saber” → “das coisas a fazer ou das cognoscíveis” — *scibilibus* → “cognoscíveis” (Key Terms); estava parafraseado como “que se podem saber”.
+- `pt-BR/g15-c004.md` [21]: “por tal consentimento ameaça o homem com a condenação” → “por tal consentimento comina ao homem a condenação” — *comminatur* → “comina” (Key Terms); estava “ameaça”.
+- `pt-BR/g15-c004.md` [23]: “concedemos sem restrição” → “concedemos sem mais” — *concedere simpliciter* → “conceder sem mais”, variante expressamente prevista nas notas do glossário.
+- `pt-BR/g15-c004.md` [25]: “se completa a noção de pecado mortal” → “se completa a razão de pecado mortal” — *ratio peccati mortalis* → “razão de pecado mortal” (Key Terms); estava “noção”.
+- `pt-BR/g15-c004.md` [25]: “o corpo fosse manchado pela violência” → “o corpo fosse contaminado pela violência” — *inquinaretur* → “fosse contaminado”, mantendo o vínculo com *inquinatio*, “contaminação” (Key Terms).
+- `pt-BR/g15-c004.md` [25]: “ser manchado com a mancha do pecado” → “ser contaminado com a contaminação do pecado” — *inquinari ... inquinatione peccati* → “ser contaminado com a contaminação do pecado” (Key Terms); estavam “manchado” e “mancha”.
+- `pt-BR/g15-c004.md` [35]: “basta para a noção de pecado mortal” → “basta para a razão de pecado mortal” — *rationem peccati mortalis* → “razão de pecado mortal” (Key Terms); estava “noção”.
+- `pt-BR/g15-c005.md` [11]: “a não ser talvez que julgasse ser esse pecado” → “a não ser talvez que estimasse ser esse pecado” — *aestimaret* → “estimasse” (Key Terms); estava “julgasse”.
+- `pt-BR/g16-c001.md` [11]: “a noção que o nome significa” → “a razão que o nome significa” — *ratio quam significat nomen* → “a razão que o nome significa” (Key Terms); estava “noção”.
+- `pt-BR/g16-c001.md` [23]: “se comporta à maneira de hábito” → “se comporta a modo de hábito” — *per modum habitus* → “a modo de hábito” (Key Terms); estava “à maneira de hábito”.
+- `pt-BR/g16-c001.md` [28]: “intui a própria verdade das coisas simples e absolutamente” → “contempla a própria verdade das coisas simplesmente e absolutamente” — *intuetur* → “contempla” (Key Terms); além disso, *simpliciter* modifica o contemplar, não qualifica as coisas como simples. *(meaning)*
+- `pt-BR/g16-c001.md` [31]: “ao gênero das coisas naturais” → “ao gênero da natureza” — *genus naturae* → “gênero da natureza” (Key Terms); estava “gênero das coisas naturais”.
+- `pt-BR/g16-c002.md` [4]: “por aquele parecer com que julgavam” → “por aquele arbítrio com que julgavam” — *arbitrio* → “arbítrio” (Key Terms); estava “parecer”.
+- `pt-BR/g16-c002.md` [15]: “naquele parecer pelo qual os assassinos” → “naquele arbítrio pelo qual os assassinos” — *arbitrio* → “arbítrio” (Key Terms); estava “parecer”.
+- `pt-BR/g17-c001.md` [43]: “Quanto ao primeiro que se objeta em contrário” → “Quanto ao primeiro dos argumentos em contrário” — *Ad primum vero quod in contrarium obiicitur* → “Quanto ao primeiro dos argumentos em contrário” (Key Terms).
+- `pt-BR/g17-c001.md` [46]: “algum hábito da mesma noção” → “algum hábito da mesma razão” — *habitus eiusdem rationis* → “hábito da mesma razão” (Key Terms); estava “noção”.
+- `pt-BR/g17-c002.md` [4]: “nada diminui da noção de ciência” → “nada diminui da razão de ciência” — *ratio scientiae* → “razão de ciência” (Key Terms); estava “noção de ciência”.
+- `pt-BR/g17-c002.md` [14]: “quando alguém julga ser conforme à lei de Deus” → “quando alguém estima ser conforme à lei de Deus” — *aestimat* → “estima” (Key Terms); estava “julga”.
+- `pt-BR/g17-c003.md` [4]: “à maneira de quem aconselha” → “à maneira de quem se aconselha” — *consiliantis* designa quem toma conselho ou delibera, não quem dá conselho; “aconselhar-se” é a forma do glossário. *(meaning)*
+- `pt-BR/g17-c003.md` [6]: “cabe ao mesmo ligar e desligar” → “cabe ao mesmo obrigar e desobrigar” — *ligare* no contexto da consciência → “obrigar” (Key Terms), ajustando também o verbo contraposto *solvere*.
+- `pt-BR/g17-c003.md` [6]: “nem tampouco para ligá-lo” → “nem tampouco para obrigá-lo” — *ligandum* no contexto da consciência → “obrigar” (Key Terms); estava “ligá-lo”.
+- `pt-BR/g17-c003.md` [11]: “o comando de quem manda” → “o comando de quem impera” — *imperantis* → “de quem impera” (Key Terms); estava “de quem manda”.
+- `pt-BR/g17-c003.md` [11]: “aquele a quem se manda” → “aquele a quem se impera” — *cui imperatur* → “a quem se impera” (Key Terms); estava “a quem se manda”.
+- `pt-BR/g17-c004.md` [26]: “para aquele que julga que esta obra” → “para aquele que estima que esta obra” — *aestimat* → “estima” (Key Terms); estava “julga”.
+- `pt-BR/g17-c004.md` [26]: “por causa da sua apreciação” → “por causa da sua estimação” — *aestimationem* → “estimação” (Key Terms); estava “apreciação”.
+- `pt-BR/translation-journal.md`: “| virtus (poder) / potentia / potestas | virtude / potência / poder | No sentido de faculdade operativa, *potestas* → “potência”, como em *potestates rationales* → “potências racionais”. |” → “| virtus (poder) / potentia / potestas | virtude / potência / poder | “Potestas como autoridade constituída → potestade.” |” — Em g17-c004 [4] e g17-c005 [5], *potestas* designa autoridades constituídas e é consistentemente traduzido por “potestade”; acrescenta-se esse sentido à linha.
+
+### Part terms 6 of 20, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 17 minor. Delta read of 40 changes: 17 reverted because they contradict the journal's decisions (ratio → noção in Q15, Avicenna's title and Roman book numbers, ligar/desligar in g17-c003 [6]); the rest are correct.
+- `pt-BR/g15-c002.md` [22]: “segundo as diversas razões dos objetos” → “segundo as diversas noções dos objetos” — Decisões do diário: em Q15, ratio + genitivo → “noção”, reservando “razão” à potência; reverte a mudança da rodada 1, que citou uma linha de Key Terms inexistente
+- `pt-BR/g15-c002.md` [22]: “segundo a diversa razão do objeto” → “segundo a diversa noção do objeto” — ratio obiecti → “noção” conforme a decisão de Q15 do diário; reverte a rodada 1
+- `pt-BR/g15-c002.md` [22]: “na razão de quantidade” → “na noção de quantidade” — ratio quantitatis → “noção” conforme a decisão de Q15; reverte a rodada 1
+- `pt-BR/g15-c002.md` [23]: “segundo a diversa razão do objeto” → “segundo a diversa noção do objeto” — decisão de Q15 (ratio + genitivo → noção); o mesmo capítulo mantém “noção de objeto” em [27] e [37]
+- `pt-BR/g15-c002.md` [23]: “segundo razões diversas” → “segundo noções diversas” — decisão de Q15; reverte a rodada 1
+- `pt-BR/g15-c002.md` [23]: “não é sob a mesma razão que” → “não é sob a mesma noção que” — decisão de Q15; reverte a rodada 1
+- `pt-BR/g15-c002.md` [23]: “não têm a mesma razão de objeto” → “não têm a mesma noção de objeto” — decisão de Q15; coerente com “noção de objeto” em [27] e [37]
+- `pt-BR/g15-c002.md` [23]: “algo não é objeto sob a mesma razão” → “algo não é objeto sob a mesma noção” — decisão de Q15; reverte a rodada 1
+- `pt-BR/g15-c002.md` [28]: “segundo razões de gênero diverso” → “segundo noções de gênero diverso” — decisão de Q15; reverte a rodada 1
+- `pt-BR/g15-c002.md` [28]: “quanto à razão de cognoscível” → “quanto à noção de cognoscível” — decisão de Q15; coerente com “noção de inteligível” em [24] e [27]
+- `pt-BR/g15-c002.md` [32]: “uma única razão de imaterialidade” → “uma única noção de imaterialidade” — decisão de Q15; reverte a rodada 1
+- `pt-BR/g15-c002.md` [35]: “completa a razão da potência” → “completa a noção da potência” — decisão de Q15; num artigo sobre a razão como potência, “razão da potência” é ambíguo
+- `pt-BR/g15-c002.md` [36]: “no livro 6 dos *Naturais*” → “no livro VI do *Sobre as coisas naturais*” — Key Terms de Q15 (De naturalibus → *Sobre as coisas naturais*) e decisão de Q15 de livro em algarismos romanos; reverte a rodada 1
+- `pt-BR/g15-c004.md` [25]: “se completa a razão de pecado mortal” → “se completa a noção de pecado mortal” — decisão de Q15 cita expressamente ratio peccati mortalis → “noção”; coerente com [20]
+- `pt-BR/g15-c004.md` [35]: “basta para a razão de pecado mortal” → “basta para a noção de pecado mortal” — decisão de Q15 (ratio peccati mortalis → noção); reverte a rodada 1
+- `pt-BR/g17-c003.md` [6]: “cabe ao mesmo obrigar e desobrigar” → “cabe ao mesmo ligar e desligar” — decisão do diário: em g17-c003 [6]–[11] ligare/solvere → “ligar”/“desligar” onde a metáfora está em jogo; nota [^2]; reverte a rodada 1
+- `pt-BR/g17-c003.md` [6]: “nem tampouco para obrigá-lo” → “nem tampouco para ligá-lo” — mesma decisão do diário para g17-c003 [6]; reverte a rodada 1
+- Rejected: pt-BR/g16-c001.md [11], g17-c001 [46], g17-c002 [4] — mudanças de “noção” para “razão” fora de Q15 — a decisão “ratio + genitivo → noção” está registrada para Q15; fora dela vale a linha geral ratio → razão
+- Rejected: pt-BR/g17-c003.md [4] — “quem se aconselha” para consiliantis — correto: a consciência precede a eleição como a deliberação, e Key Terms dá consiliari → aconselhar-se
+- Rejected: pt-BR/g17-c003.md [11] — “a quem se impera” — imperare → imperar (Key Terms); a regência indireta é aceitável
+- Rejected: pt-BR/g16-c001.md [28] — “simplesmente e absolutamente” — fiel a simpliciter et absolute; a correção de sentido da rodada 1 procede
+
+### Part terms 6 of 20, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Conferidas as 17 alterações e lidos integralmente os 23 parágrafos e as cinco notas apresentados; nenhum defeito objetivo encontrado.
+- Rejected: pt-BR/g15-c002.md [22–35]; pt-BR/g15-c004.md [25], [35] — Uso de “noção” para ratio. — As alterações são fiéis ao latim e seguem a decisão específica de Q15 registrada no diário.
+- Rejected: pt-BR/g15-c002.md [23], [27] — Itálicos e parênteses adicionais apontados pela auditoria. — Correspondem às glosas terminológicas em latim previstas no diário; os suplementos editoriais também foram preservados.
+- Rejected: pt-BR/g17-c003.md [6] — Uso de “ligar” e “desligar” no contexto da consciência. — Preserva a metáfora de ligare e solvere, conforme a decisão específica do diário e a nota explicativa.
+
+### Part terms 7 of 20, Round 1 (codex, terms read)
+Verdict: 4 meaning-level, 33 minor. 139 parágrafos sinalizados examinados; 27 com deriva terminológica, além de uma linha de glossário ampliada e três correções de sentido.
+- `pt-BR/translation-journal.md`: “| conferre / collativa / comparare | conferir / colativa / comparar | *conferre* e *comparare* distintos em g15-c001 [27]. “Comparare/comparatio, ao expressar a relação de uma coisa com outra, → estar para, relação” (g28-c008 [18], g29-c006 [4]). |” → “| conferre / collativa / comparare | conferir / colativa / comparar | *conferre* e *comparare* distintos em g15-c001 [27]. *Comparari ad*, em sentido relacional → “estar para”, “referir-se a”. |” — A construção relacional *comparari ad* aparece consistentemente como “estar para” ou “referir-se a”; explicitar esse sentido na linha.
+- `pt-BR/g18-c001.md` [8]: “na distinção 1 do livro 2 das *Sentenças*” → “na distinção 2 do livro 1 das *Sentenças*” — A referência *in 1 dist. 2 Sententiarum* indica o livro 1, distinção 2; os números foram invertidos. *(meaning)*
+- `pt-BR/g18-c001.md` [9]: “pela suma verdade” → “pelo sumo verdadeiro” — *summum verum* → “sumo verdadeiro” (Key Terms); o substantivo técnico *verum* foi substituído por “verdade”. *(meaning)*
+- `pt-BR/g18-c001.md` [24]: “mas também na via, embora não tão perfeitamente na via como na pátria” → “mas também na vida presente, embora não tão perfeitamente na vida presente como na pátria” — *in via* → “na vida presente” (Key Terms); ambas as ocorrências designam o estado presente, em oposição à pátria.
+- `pt-BR/g18-c001.md` [25]: “tanto mais excelente é a sua intelecção” → “tanto mais excelente é a sua inteligência” — *intelligentia* → “inteligência” (Key Terms); estava “intelecção”.
+- `pt-BR/g18-c003.md` [13]: “não basta para fazer cessar a fé” → “não basta para abolir a fé” — *evacuare* → “abolir” (Key Terms); estava “fazer cessar”.
+- `pt-BR/g18-c004.md` [4]: “no livro 6 *Dos naturais*[^1]” → “no livro 6 de *Sobre as coisas naturais*[^1]” — *De naturalibus* → “Sobre as coisas naturais” (Key Terms); estava “Dos naturais”.
+- `pt-BR/g18-c004.md` [16]: “a razão humana de certo modo conversa com a natureza das coisas” → “a razão humana de certo modo fala com a natureza das coisas” — *loquitur* → “fala” (Key Terms); estava “conversa”.
+- `pt-BR/g18-c004.md` [39]: “de tal modo que desejasse ter a seu tempo” → “de tal modo que apetecesse ter a seu tempo” — *appeteret* → “apetecesse” (Key Terms); estava “desejasse”.
+- `pt-BR/g18-c005.md` [3]: “pela pureza do coração” → “pela limpeza do coração” — *munditia* → “limpeza” (Key Terms); estava “pureza”.
+- `pt-BR/g18-c005.md` [4]: “e entendesse as coisas últimas” → “e inteligisse as coisas últimas” — *intelligeret* → “inteligisse” (Key Terms); aqui designa o ato cognoscitivo, não a interpretação de uma expressão.
+- `pt-BR/g18-c005.md` [9]: “não é corrompido pelo inteligível excelente” → “não é corrompido pelo inteligível excessivo” — *excellenti intelligibili* → “inteligível excessivo” (Key Terms); trata-se do objeto que excede a capacidade cognoscitiva.
+- `pt-BR/g18-c005.md` [9]: “a excelência de nenhum inteligível o impedia” → “o excesso de nenhum inteligível o impedia” — *excellentia intelligibilis* → “excesso do inteligível” (Key Terms); estava “excelência”.
+- `pt-BR/g18-c005.md` [9]: “senão a excelência do próprio inteligível” → “senão o excesso do próprio inteligível” — *intelligibilis excellentia* → “excesso do inteligível” (Key Terms); estava “excelência”.
+- `pt-BR/g18-c005.md` [19]: “chegar a intuir a essência” → “chegar a contemplar a essência” — *intuendam* → “contemplar” (Key Terms); estava “intuir”.
+- `pt-BR/g18-c005.md` [20]: “mesmo sem mudança de estado” → “mesmo sem mutação de estado” — *mutatione* → “mutação” (Key Terms); estava “mudança”.
+- `pt-BR/g18-c005.md` [20]: “o raio divino brilhe para nós” → “o raio divino luza para nós” — *lucere* → “luzir” (Key Terms); estava “brilhe”.
+- `pt-BR/g18-c005.md` [23]: “ministros de sua salvação na via” → “ministros de sua salvação na vida presente” — *in via* → “na vida presente” (Key Terms); estava “na via”.
+- `pt-BR/g18-c005.md` [27]: “não seja corrompido pelo inteligível excelente” → “não seja corrompido pelo inteligível excessivo” — *intelligibili excellenti* → “inteligível excessivo” (Key Terms); estava “inteligível excelente”.
+- `pt-BR/g18-c005.md` [30]: “um efeito proporcionado à virtude da qual procede e que a iguala” → “um efeito proporcionado à virtude da qual procede e que lhe é adequado” — *adaequans* → “é adequado” (Key Terms); estava “iguala”.
+- `pt-BR/g18-c005.md` [30]: “esse ato de inteligir não iguala a virtude do intelecto” → “esse ato de inteligir não é adequado à virtude do intelecto” — *non adaequet* → “não é adequado” (Key Terms); estava “não iguala”.
+- `pt-BR/g18-c006.md` [19]: “*aprovar o falso como verdadeiro não é natureza” → “*aprovar o verdadeiro como falso não é natureza” — *vera pro falsis* significa tomar o verdadeiro como falso; a tradução inverteu os termos. *(meaning)*
+- `pt-BR/g18-c006.md` [19]: “o que é aprovar o falso como verdadeiro.” → “o que é aprovar o verdadeiro como falso.” — A segunda ocorrência de *vera pro falsis approbare* também teve verdadeiro e falso invertidos. *(meaning)*
+- `pt-BR/g18-c006.md` [28]: “O mesmo é patente pelo fato de que” → “Isso igualmente é patente pelo fato de que” — *item* → “igualmente” (Key Terms); estava incorporado à paráfrase “O mesmo”.
+- `pt-BR/g18-c008.md` [13]: “não teria mandado senão o que o corpo pudesse executar” → “não teria imperado senão o que o corpo pudesse executar” — *imperasset* → “teria imperado” (Key Terms); estava “teria mandado”.
+- `pt-BR/g19-c001.md` [5]: “o raio divino brilhe para nós” → “o raio divino luza para nós” — *lucere* → “luzir” (Key Terms); estava “brilhe”.
+- `pt-BR/g19-c001.md` [43]: “naquelas palavras, pretende mostrar” → “naquelas palavras, intenta mostrar” — *intendit* → “intenta” (Key Terms); a exceção “não pretende”, referente a Dionísio, não se aplica aqui.
+- `pt-BR/g19-c001.md` [43]: “Diz-se que as revolve enquanto” → “Diz-se que as enrola enquanto” — *convolvere* → “enrolar” (Key Terms); estava “revolve”.
+- `pt-BR/g19-c002.md` [9]: “Em sentido (contrário) está o que” → “Mas, em sentido (contrário), está o que” — *Sed (contra) est quod* → “Mas, em sentido (contrário), está o que” (Key Terms); faltava o correspondente de *Sed*.
+- `pt-BR/g2-c001.md` [9]: “do que é sabido no intelecto” → “do cognoscível no intelecto” — *scibilis* → “cognoscível” (Key Terms); estava “do que é sabido”.
+- `pt-BR/g2-c001.md` [17]: “Em sentido contrário está o que” → “Mas, em sentido contrário, está o que” — *Sed contra est quod* → “Mas, em sentido contrário, está o que” (Key Terms); faltava o correspondente de *Sed*.
+- `pt-BR/g2-c001.md` [34]: “podemos ter no estado de viador” → “podemos ter no estado de via” — *in statu viae* → “no estado de via” (Key Terms); estava “no estado de viador”.
+- `pt-BR/g2-c002.md` [9]: “*Prova da premissa menor*” → “*Prova da menor*” — *Probatio mediae* → “Prova da menor” (Key Terms); estava “Prova da premissa menor”.
+- `pt-BR/g2-c002.md` [17]: “Em sentido contrário, Dionísio diz,” → “Mas, em sentido contrário, está o que Dionísio diz,” — Restituir a fórmula *Sed contra est quod* conforme os Key Terms.
+- `pt-BR/g2-c002.md` [27]: “em qualquer intelecto criado a virtude cognoscitiva é finita” → “em qualquer intelecto criado a força cognoscitiva é finita” — *vis cognoscitiva* → “força cognoscitiva” (Key Terms); estava “virtude cognoscitiva”.
+- `pt-BR/g2-c002.md` [27]: “como a sua virtude cognoscitiva é infinita” → “como a sua força cognoscitiva é infinita” — *vis cognoscitiva* → “força cognoscitiva” (Key Terms); estava “virtude cognoscitiva”.
+- `pt-BR/g2-c002.md` [28]: “por isso o argumento não conclui” → “por isso o argumento não procede” — *ratio non sequitur* → “o argumento não procede” (Key Terms); estava “o argumento não conclui”.
+
+### Part terms 7 of 20, Round 2 (claude, delta read)
+Verdict: 3 meaning-level, 3 minor. Checked the 37 round-1 changes and their neighbours. Reverted the *Sentenças* reference in g18-c001 [8] and the falso/verdadeiro inversion in g18-c006 [19]. Fixed the g18-c004 footnote and two journal lines left stale by round 1.
+- `pt-BR/g18-c001.md` [8]: “na distinção 2 do livro 1 das *Sentenças*” → “na distinção 1 do livro 2 das *Sentenças*” — In Aquinas's abbreviation *in 1 dist. 2* the first number is the distinction and the second is the book; compare *in 1 dist. 2 libri* in g18-c005 [5]. The quoted text is Lombard, *Sentences* II, d. 1. The journal decision for g18-c001 [8] already records this; round 1 inverted it. *(meaning)*
+- `pt-BR/g18-c006.md` [19]: “*aprovar o verdadeiro como falso não é natureza” → “*aprovar o falso como verdadeiro não é natureza” — Augustine (*De libero arbitrio* III, 18) reads *approbare falsa pro veris*, and deception is approving the false as true. [27] states the same idea as *falsa pro veris*. The journal decision for g18-c006 [19] and [27] already fixed this rendering; round 1 brought no new argument. *(meaning)*
+- `pt-BR/g18-c006.md` [19]: “o que é aprovar o verdadeiro como falso.” → “o que é aprovar o falso como verdadeiro.” — Same correction for the second occurrence. *Decipi* means taking the false for true, as in [27] ("assentimento categórico ao que é falso"). *(meaning)*
+- `pt-BR/g18-c004.md` [4]: “o “livro 6 *Dos naturais*” (*Liber sextus de naturalibus*)” → “o “livro 6 de *Sobre as coisas naturais*” (*Liber sextus de naturalibus*)” — The text now reads "livro 6 de *Sobre as coisas naturais*"; the footnote [^1] still quoted the old title.
+- `pt-BR/translation-journal.md`: “| *De causis* / *Liber sextus de naturalibus* | *Livro das causas* / *Dos naturais* (livro 6) | Notas em g18-c004. |” → “| *De causis* / *Liber sextus de naturalibus* | *Livro das causas* / livro 6 de *Sobre as coisas naturais* | Notas em g18-c004. |” — This row states the form that g18-c004 [4] no longer uses.
+- `pt-BR/translation-journal.md`: “- g2-c002 [9]: *Probatio mediae* → “Prova da premissa menor”.” → “- g2-c002 [9]: *Probatio mediae* → “Prova da menor”.” — The text now reads "*Prova da menor*"; the decision describes the old rendering.
+- Rejected: pt-BR/g18-c001.md [24] — "na vida presente" for *in via* breaks the link with "na via para a bem-aventurança" in the same paragraph. — The Key Terms row *in via* → "na vida presente" supports the change, and the meaning is intact. It is a style matter.
+- Rejected: pt-BR/g2-c002.md [28] — "procede o argumento … o argumento não procede" sounds contradictory. — The Latin has *procedit … non sequitur*, and both renderings are in the Key Terms. The sense is clear: the argument holds for our intellect and does not follow for God's.
+- Rejected: pt-BR/g18-c005.md [30] — Agreement in "efeito … que lhe é adequado". — "Adequado" is masculine and agrees with "efeito"; the sense of *adaequans* is kept.
+
+### Part terms 7 of 20, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as seis alterações, os nove parágrafos apresentados e suas notas; nenhum novo defeito encontrado. Os locais dos demais alertas mecânicos não foram apresentados nesta leitura delta.
+- Rejected: pt-BR/g18-c006.md [19] — “aprovar o falso como verdadeiro” diverge literalmente de vera pro falsis. — A leitura corrigida já está fundamentada no diário pela citação de Agostinho e pelo paralelo com [27]; não há argumento novo para revertê-la.
+
+### Part terms 8 of 20, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 26 minor. 156 parágrafos sinalizados examinados; 15 com deriva terminológica; 2 linhas do glossário ampliadas.
+- `pt-BR/translation-journal.md`: “| verbum; Verbum | verbo; Verbo | Questão 4. Nota em g4-c001 [^1]. Em sentido não técnico, “afirmação” (g4-c002 [20]) ou “palavra” (g4-c003 [11]). |” → “| verbum; Verbum | verbo; Verbo | Questão 4. Nota em g4-c001 [^1]. Em sentido não técnico, “afirmação” (g4-c002 [20]) ou “palavra” (g4-c003 [11]). Também “dito”, quando designa uma expressão citada (g2-c003 [56], g2-c004 [18]). |” — As duas ocorrências usam corretamente “dito” para uma expressão citada; acrescenta-se esse uso não técnico.
+- `pt-BR/translation-journal.md`: “| adaequatio rei et intellectus / adaequari | adequação da coisa e do intelecto / ser adequado, adequar-se | Evitam-se as formas finitas do presente de “adequar” (“é adequado”, “adequar-se”). “Adaequari, no sentido de igualdade de grandeza ou perfeição, → igualar-se, igualar” (g29-c003 [13], [29]). |” → “| adaequatio rei et intellectus / adaequari | adequação da coisa e do intelecto / ser adequado, adequar-se | Evitam-se as formas finitas do presente de “adequar” (“é adequado”, “adequar-se”). No sentido de igualdade de extensão, adaequare / adaequari → “igualar / equiparar-se” (g2-c005 [30], g2-c009 [23]). |” — A igualdade de extensão entre potência e sabedoria, ou entre conhecido e intelecto, admite corretamente “equiparar-se” e “igualar”; distingue-se esse sentido da adequação constitutiva da verdade.
+- `pt-BR/g2-c003.md` [40]: “que abarque todas as coisas existentes” → “que compreenda todas as coisas existentes” — *comprehendentem* → “compreenda” (Key Terms); trata-se de conhecimento que abarca inteiramente.
+- `pt-BR/g2-c003.md` [57]: “que infunde o ser nas coisas” → “que influi o ser nas coisas” — *influens* → “influi” (Key Terms); estava “infunde”.
+- `pt-BR/g2-c004.md` [6]: “por uma espécie que a excedesse, como a do branco” → “por uma espécie superexcedente, como a do branco” — *superexcedentem* → “superexcedente” (Key Terms); estava parafraseado como “que a excedesse”.
+- `pt-BR/g2-c005.md` [27]: “Em sentido contrário está o que se diz” → “Mas, em sentido contrário, está o que se diz” — *Sed contra est quod* → “Mas, em sentido contrário, está o que” (Key Terms); faltava “Mas”.
+- `pt-BR/g2-c005.md` [33]: “como a arte o é das obras de arte” → “como a arte o é dos artefatos” — *artificiatorum* → “artefatos” (Key Terms); estava “obras de arte”.
+- `pt-BR/g2-c005.md` [33]: “o artífice conhece a obra pela forma da arte que tem consigo, na medida em que a produz” → “o artífice conhece o artefato pela forma da arte que tem consigo, na medida em que o produz” — *artificiatum* → “artefato” (Key Terms); ajusta-se também o pronome.
+- `pt-BR/g2-c005.md` [33]: “não conhece as obras senão em razão da forma” → “não conhece os artefatos senão em razão da forma” — *artificiata* → “artefatos” (Key Terms); estava “obras”.
+- `pt-BR/g2-c005.md` [33]: “o artífice conheceria a obra tanto” → “o artífice conheceria o artefato tanto” — *artificiatum* → “artefato” (Key Terms); estava “obra”.
+- `pt-BR/g2-c005.md` [33]: “não só a conheceria segundo a natureza universal” → “não só o conheceria segundo a natureza universal” — Concordância do pronome com “artefato”, introduzido na correção de *artificiatum*.
+- `pt-BR/g2-c005.md` [49]: “ação de uma potência cognoscitiva” → “ação de uma virtude cognoscitiva” — *cognitivae virtutis* → “virtude cognoscitiva” (Key Terms); estava “potência cognoscitiva”.
+- `pt-BR/g2-c006.md` [4]: “não dirigiria nas coisas a realizar” → “não dirigiria nas coisas operáveis” — *operabilibus* → “coisas operáveis” (Key Terms); estava “coisas a realizar”.
+- `pt-BR/g2-c006.md` [8]: “Em sentido contrário está o que diz Boécio” → “Mas, em sentido contrário, está o que diz Boécio” — *Sed contra est quod* → “Mas, em sentido contrário, está o que” (Key Terms); faltava “Mas”.
+- `pt-BR/g2-c006.md` [9]: “o nosso intelecto, por si, não conhece” → “o nosso intelecto, propriamente falando, não conhece” — *per se loquendo* → “propriamente falando” (Key Terms); estava “por si”.
+- `pt-BR/g2-c006.md` [13]: “se aplica ao particular a realizar” → “se aplica ao operável particular” — *particulare operabile* → “o operável particular” (Key Terms); estava “particular a realizar”.
+- `pt-BR/g2-c008.md` [9]: “o artífice conhece as obras” → “o artífice conhece os artefatos” — *artificiata* → “artefatos” (Key Terms); estava “obras”.
+- `pt-BR/g2-c008.md` [9]: “conhecimento que é causa das obras” → “conhecimento que é causa dos artefatos” — *artificiatorum* → “artefatos” (Key Terms); estava “obras”.
+- `pt-BR/g2-c008.md` [9]: “o do artífice acerca das obras” → “o do artífice acerca dos artefatos” — *artificiatis* → “artefatos” (Key Terms); estava “obras”.
+- `pt-BR/g2-c008.md` [10]: “o artífice tem daquilo que pode ser feito um duplo conhecimento” → “o artífice tem do operável um duplo conhecimento” — *operabili* → “operável” (Key Terms); estava parafraseado como “aquilo que pode ser feito”.
+- `pt-BR/g2-c008.md` [10]: “os fins, nas coisas a realizar,” → “os fins, nas coisas operáveis,” — *operabilibus* → “coisas operáveis” (Key Terms); estava “coisas a realizar”.
+- `pt-BR/g2-c010.md` [6]: “Em sentido contrário está o que diz Sêneca” → “Mas, em sentido contrário, está o que diz Sêneca” — *Sed contra est quod* → “Mas, em sentido contrário, está o que” (Key Terms); faltava “Mas”.
+- `pt-BR/g2-c012.md` [37]: “se eu entendo algo, isso é imaterial” → “se eu intelijo algo, isso é imaterial” — *intelligo* → “intelijo” (Key Terms); o exemplo trata tecnicamente da intelecção.
+- `pt-BR/g2-c012.md` [37]: “que o entendido seja imaterial” → “que o inteligido seja imaterial” — *quod intelligitur* → “o inteligido”, mantendo “inteligir” (Key Terms).
+- `pt-BR/g2-c012.md` [37]: “senão enquanto é entendido” → “senão enquanto é inteligido” — *secundum quod est intellectum* → “enquanto é inteligido”, mantendo “inteligir” (Key Terms).
+- `pt-BR/g2-c013.md` [21]: “Ora, a mudança, como requer dois termos,” → “Ora, a mutação, como requer dois termos,” — *Mutatio* → “mutação” (Key Terms); estava “mudança”.
+
+### Part terms 8 of 20, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 4 minor. Delta read das 26 mudanças da rodada 1. As alterações conferem com o latim, com quatro defeitos menores: a decisão do diário sobre “intelijo” ficou contraditória, *virtutes naturales* destoa de “virtude cognoscitiva” na mesma frase, e restam dois *artificiat-* traduzidos por “obra” em g2-c008 [10].
+- `pt-BR/translation-journal.md`: “- g2-c012 [37]: *intelligo* na 1ª pessoa → “entendo”, para evitar “intelijo”; a 3ª pessoa segue “intelige”.” → “- g2-c012 [37]: *intelligo* na 1ª pessoa → “intelijo”, e *quod intelligitur* / *intellectum* → “o inteligido” / “é inteligido”, porque o exemplo trata da intelecção; a 3ª pessoa segue “intelige”.” — A decisão registrada contradiz o texto atual, que a rodada anterior passou a “intelijo” e “inteligido”.
+- `pt-BR/g2-c005.md` [49]: “como se diz dos atos das potências naturais” → “como se diz dos atos das virtudes naturais” — *virtutum naturalium*: a mesma frase passou a verter *cognitivae virtutis* por “virtude cognoscitiva”, e o par *virtus cognitiva / virtutes naturales* deve ficar paralelo (Key Terms: *virtus* → “virtude”).
+- `pt-BR/g2-c008.md` [10]: “conhecimento de alguma obra, às vezes de uma que se dispõe a fazer, às vezes de uma que nunca se dispõe a fazer” → “conhecimento de algum artefato, às vezes de um que se dispõe a fazer, às vezes de um que nunca se dispõe a fazer” — *alicuius artificiati* → “artefato” (Key Terms), como nas correções de [9] e no restante deste parágrafo.
+- `pt-BR/g2-c008.md` [10]: “assim as obras de arte o são nos fins” → “assim os artefatos o são nos fins” — *artificiata* → “artefatos” (Key Terms); ficou sem correção no mesmo parágrafo.
+- Rejected: pt-BR/g2-c005.md [33] — “a matéria das obras de arte” não foi trocada por “artefatos”. — O latim aqui é *artificialia*, não *artificiatum*; “obras de arte” é defensável.
+- Rejected: pt-BR/g2-c004.md [5] — “infundir” para *influit*, enquanto g2-c003 [57] passou a “influi”. — Os arquivos são distintos, o sentido é o mesmo e “influir calor” soa forçado. É escolha de estilo.
+- Rejected: pt-BR/g2-c012 [37] — A forma “intelijo” pode parecer inexistente. — É a 1ª pessoa regular de “inteligir” e está alinhada ao Key Terms. Só o diário precisava ser ajustado.
+
+### Part terms 8 of 20, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Conferidas as quatro alterações, os seis parágrafos apresentados e as duas notas do tradutor; nenhum novo defeito encontrado. As flags mecânicas remetem a trechos não apresentados ou não demonstram defeito neste delta.
+- Rejected: pt-BR/g2-c008.md [10] — Permanecem ocorrências de “obra” após as correções para “artefato”. — Essas ocorrências traduzem opus, não artificiatum; não contradizem a tabela de termos.
+
+### Part terms 9 of 20, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 19 minor. 172 parágrafos sinalizados examinados; 20 ocorrências com desvio terminológico.
+- `pt-BR/g20-c001.md` [14]: “Em sentido contrário, está o que se diz” → “Mas, em sentido contrário, está o que se diz” — *Sed contra est quod* → “Mas, em sentido contrário, está o que” (Key Terms); faltava “Mas”.
+- `pt-BR/g20-c001.md` [18]: “o referido modo de entender a união” → “o referido modo de inteligir a união” — *intelligendi* → “inteligir” (Key Terms); trata-se da concepção intelectual da união das naturezas.
+- `pt-BR/g20-c001.md` [27]: “o argumento não conclui.” → “o argumento não procede.” — *ratio non sequitur* → “o argumento não procede” (Key Terms); estava “o argumento não conclui”.
+- `pt-BR/g20-c001.md` [29]: “o argumento não conclui.” → “o argumento não procede.” — *ratio non sequitur* → “o argumento não procede” (Key Terms); estava “o argumento não conclui”.
+- `pt-BR/g20-c002.md` [13]: “as espécies de todas as coisas nela impressas” → “as espécies de todas as coisas nela postas” — *species inditas* → “espécies postas (na alma)” (Key Terms); estava “impressas”.
+- `pt-BR/g20-c004.md` [21]: “Em sentido contrário, está que, sobre o que se diz em Apocalipse 5:12, *digno é o cordeiro de receber a sabedoria*, a Glosa comenta:” → “Mas, em sentido contrário, está o que a Glosa comenta sobre o que se diz em Apocalipse 5:12, *digno é o cordeiro de receber a sabedoria*:” — *Sed contra est quod* → “Mas, em sentido contrário, está o que” (Key Terms), com ajuste da ordem da oração.
+- `pt-BR/g20-c004.md` [32]: “Ademais. Deus,” → “Igualmente. Deus,” — *Item* → “Igualmente” (Key Terms); estava “Ademais”.
+- `pt-BR/g20-c004.md` [38]: “o argumento não conclui.” → “o argumento não procede.” — *ratio non sequitur* → “o argumento não procede” (Key Terms); estava “o argumento não conclui”.
+- `pt-BR/g20-c005.md` [13]: “Estes se enganaram por julgarem que” → “Estes se enganaram por estimarem que” — *aestimabant* → “estimarem” (Key Terms); estava “julgarem”.
+- `pt-BR/g20-c005.md` [19]: “o argumento não conclui.” → “o argumento não procede.” — *ratio non sequitur* → “o argumento não procede” (Key Terms); estava “o argumento não conclui”.
+- `pt-BR/g21-c001.md` [16]: “Em sentido contrário, está o que diz Agostinho:” → “Mas, em sentido contrário, está o que diz Agostinho:” — *Sed contra est quod* → “Mas, em sentido contrário, está o que” (Key Terms); faltava “Mas”.
+- `pt-BR/g21-c001.md` [22]: “já que não é ociosamente que se diz” → “já que não é com redundância que se diz” — *nugatorie* remete à “redundância” (Key Terms): o argumento nega que “ente bom” seja redundante, não apenas ocioso. *(meaning)*
+- `pt-BR/g21-c001.md` [37]: “o argumento não conclui.” → “o argumento não procede.” — *ratio non sequitur* → “o argumento não procede” (Key Terms); estava “o argumento não conclui”.
+- `pt-BR/g21-c003.md` [15]: “Quanto ao primeiro, pois, deve-se dizer que” → “Quanto ao primeiro, portanto, deve-se dizer que” — *Ad primum ergo dicendum quod* → “Quanto ao primeiro, portanto, deve-se dizer que” (Key Terms); estava “pois”.
+- `pt-BR/g21-c003.md` [16]: “o argumento não conclui.” → “o argumento não procede.” — *ratio non sequitur* → “o argumento não procede” (Key Terms); estava “o argumento não conclui”.
+- `pt-BR/g21-c004.md` [3]: “inteligíssemos que Deus é,” → “inteligíssemos que Deus existe,” — *Deum esse* → “que Deus existe” (Key Terms); aqui se supõe a existência de Deus, abstraída a bondade.
+- `pt-BR/g21-c004.md` [28]: “o argumento não conclui.” → “o argumento não procede.” — *ratio non sequitur* → “o argumento não procede” (Key Terms); estava “o argumento não conclui”.
+- `pt-BR/g21-c005.md` [23]: “o argumento não conclui.” → “o argumento não procede.” — *ratio non sequitur* → “o argumento não procede” (Key Terms); estava “o argumento não conclui”.
+- `pt-BR/g21-c005.md` [28]: “o argumento mencionado não conclui quanto à bondade.” → “o argumento mencionado não procede quanto à bondade.” — *praedicta ratio non sequitur* → “o argumento mencionado não procede” (Key Terms); estava “não conclui”.
+- `pt-BR/g21-c006.md` [24]: “o argumento não conclui.” → “o argumento não procede.” — *ratio non sequitur* → “o argumento não procede” (Key Terms); estava “o argumento não conclui”.
+
+### Part terms 9 of 20, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 3 minor. Delta read das 20 alterações da rodada 1 e dos parágrafos vizinhos: alterações corretas; corrigidos o paralelo verbal quebrado em g21-c005 [28] e duas entradas do diário que descreviam formas substituídas.
+- `pt-BR/g21-c005.md` [28]: “Conclui, porém, quanto à unidade” → “Procede, porém, quanto à unidade” — fonte: *praedicta ratio non sequitur de bonitate; sequitur autem de unitate*; com “não procede” na primeira oração, a segunda deve usar o mesmo verbo para manter o paralelo
+- `pt-BR/translation-journal.md`: “| non nugatorie | não ociosamente | g21-c001 [22]. |” → “| non nugatorie | não com redundância | g21-c001 [22]; cf. *nugatio* → “redundância”. |” — g21-c001 [22] traz agora “não é com redundância que se diz”; a linha registrava uma forma que não ocorre mais
+- `pt-BR/translation-journal.md`: “- Q. 20: o *Sed contra* principal → “Em sentido contrário, está…” / “Em sentido contrário,”; o de dentro da objeção segue “*Mas, em sentido contrário*”. *Ratio non sequitur* → “o argumento não conclui”; *non procedit* → “não procede”.” → “- Q. 20: o *Sed contra* principal → “Mas, em sentido contrário, está o que…”; o de dentro da objeção segue “*Mas, em sentido contrário*”. *Ratio non sequitur* e *non procedit* → “o argumento não procede”, conforme a tabela de termos.” — g20-c001 [14], g20-c004 [21] e as respostas com *ratio non sequitur* foram alinhadas à tabela; a decisão descrevia as formas antigas
+- Rejected: pt-BR/g21-c004.md [3] — “suponhamos que … inteligíssemos que Deus existe” pode parecer forçar o *Deum esse* de Boécio — a hipótese é a existência de Deus com a bondade abstraída; a tabela prevê “que Deus existe” para *Deum esse*
+- Rejected: pt-BR/g20-c004.md [21] — a reordenação do *Sed contra* poderia deslocar a citação da Glosa — o lema de Apocalipse 5:12 e a glosa *omnium cognitionem* continuam ligados; o sentido não mudou
+- Rejected: pt-BR/g20-c005.md [^1] — a nota situa a frase em *Sobre a Trindade* 15, 16 — correto: *non erunt volubiles cogitationes* está em *De Trinitate* XV, 16, 26
+
+### Part terms 9 of 20, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as três alterações da rodada 2 e lidos integralmente os dois parágrafos apresentados; nenhum defeito objetivo encontrado.
+- Rejected: pt-BR/translation-journal.md — non nugatorie — A auditoria registra zero ocorrências de “não com redundância”. — A forma informada é “não é com redundância que se diz”; a cópula intercalada impede a correspondência literal, mas mantém o termo registrado.
+
+### Part terms 10 of 20, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 61 minor. 195 parágrafos sinalizados examinados; 60 ocorrências com desvio vocabular corrigidas e 2 linhas do glossário ampliadas.
+- `pt-BR/g22-c004.md` [10]: “não pode deixar de cobiçá-lo” → “não pode deixar de desejá-lo” — *concupiscere* → “desejar” (Key Terms); estava “cobiçar”.
+- `pt-BR/g22-c004.md` [10]: “mas antes são levados a agir” → “mas antes são conduzidos” — *aguntur* → “são conduzidos” (Key Terms).
+- `pt-BR/g22-c005.md` [37]: “por isso o argumento não conclui” → “por isso o argumento não procede” — *ratio non sequitur* → “o argumento não procede” (Key Terms).
+- `pt-BR/translation-journal.md`: “| virtus (poder) / potentia / potestas | virtude / potência / poder | “*Potestas* também se traduz por “potência” quando designa uma faculdade da alma, como em *rationales potestates* (g26-c003 [38]).” |” → “| virtus (poder) / potentia / potestas | virtude / potência / poder | No sentido de faculdade operativa, *potestas* → “potência”, como em *potestates rationales* → “potências racionais”. |” — Em g22-c005 [22] e g23-c001 [11], *potestas* designa a mesma faculdade que *potentia*; “potência” é adequado nesse sentido.
+- `pt-BR/translation-journal.md`: “| doctrina / disciplina | ensino / aprendizagem | *doctrina salutis* → “doutrina da salvação”; *doctrina Aristotilis* → “doutrina de Aristóteles”. Também “doutrina” para o conteúdo do ensinamento: *doctrina de vita consequenda* → “doutrina acerca do modo de alcançar a vida”; *doctrina Apostoli* → “doutrina do Apóstolo”. |” → “| doctrina / disciplina | ensino / aprendizagem | *doctrina salutis* → “doutrina da salvação”; *doctrina Aristotilis* → “doutrina de Aristóteles”; no sentido de corpo doutrinal, também *doctrina Dionysii* → “doutrina de Dionísio” e *doctrina veritatis* → “doutrina da verdade”. |” — As ocorrências de g22-c009 [6] e g23-c003 [4] empregam corretamente “doutrina” no sentido já exemplificado pelas exceções da linha.
+- `pt-BR/g22-c013.md` [8]: “Ademais, o próprio nome” → “Além disso, o próprio nome” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g22-c013.md` [11]: “Ademais, assim como o primeiro motor” → “Além disso, assim como o primeiro motor” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g22-c013.md` [12]: “Ademais, a intenção” → “Além disso, a intenção” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g22-c013.md` [13]: “Ademais, das coisas” → “Além disso, das coisas” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g22-c013.md` [14]: “Ademais, a vontade” → “Além disso, a vontade” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g22-c013.md` [15]: “Ademais, a intenção” → “Além disso, a intenção” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g22-c013.md` [16]: “Ademais, assim como, na perversidade” → “Além disso, assim como, na perversidade” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g22-c013.md` [17]: “Ademais, segundo o Filósofo” → “Além disso, segundo o Filósofo” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g22-c013.md` [18]: “Ademais, o que não está” → “Além disso, o que não está” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g22-c013.md` [19]: “Ademais, ordenar” → “Além disso, ordenar” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g22-c013.md` [20]: “Ademais, a intenção” → “Além disso, a intenção” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g22-c013.md` [21]: “Ademais, todo ato” → “Além disso, todo ato” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g22-c013.md` [23]: “Ademais, intentar” → “Além disso, intentar” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g22-c013.md` [24]: “Ademais, todo mérito” → “Além disso, todo mérito” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g22-c013.md` [25]: “Ademais, Ambrósio” → “Além disso, Ambrósio” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g22-c014.md` [5]: “Ademais, segundo o Filósofo” → “Além disso, segundo o Filósofo” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g22-c014.md` [6]: “Ademais, segundo o Filósofo” → “Além disso, segundo o Filósofo” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g22-c014.md` [7]: “Ademais, os atos” → “Além disso, os atos” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g22-c014.md` [9]: “Ademais, assim como a luz” → “Além disso, assim como a luz” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g22-c015.md` [4]: “Ademais, assim como pertencem” → “Além disso, assim como pertencem” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g22-c015.md` [5]: “Ademais, segundo o Filósofo” → “Além disso, segundo o Filósofo” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g22-c015.md` [6]: “Ademais, a eleição” → “Além disso, a eleição” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g22-c015.md` [7]: “Em sentido contrário está que eleger é” → “Mas, em sentido contrário, está o que se segue: eleger é” — *Sed contra est quod* → “Mas, em sentido contrário, está o que” (Key Terms), com adaptação sintática à proposição seguinte.
+- `pt-BR/g22-c015.md` [8]: “Ademais, o Filósofo” → “Além disso, o Filósofo” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g22-c015.md` [14]: “o juízo sobre as coisas deliberadas” → “o juízo sobre as coisas acerca das quais se tomou conselho” — *consiliatis* mantém o vínculo com *consilium* → “conselho” e *consiliari* → “tomar conselho” (Key Terms).
+- `pt-BR/g23-c001.md` [4]: “Ademais, de causa contingente” → “Além disso, de causa contingente” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c001.md` [5]: “Ademais, ao que não tem” → “Além disso, ao que não tem” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c001.md` [6]: “Ademais, segundo o Filósofo” → “Além disso, segundo o Filósofo” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c001.md` [7]: “Ademais, os opostos” → “Além disso, os opostos” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c001.md` [8]: “Ademais, como se diz” → “Além disso, como se diz” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c001.md` [9]: “Ademais, Deus” → “Além disso, Deus” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c001.md` [10]: “Ademais, a vontade” → “Além disso, a vontade” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c001.md` [11]: “Ademais, nada do que” → “Além disso, nada do que” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c001.md` [12]: “Ademais, Agostinho” → “Além disso, Agostinho” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c001.md` [13]: “Ademais, a Deus” → “Além disso, a Deus” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c001.md` [14]: “Em sentido contrário está o que se diz” → “Mas, em sentido contrário, está o que se diz” — *Sed contra est quod* → “Mas, em sentido contrário, está o que” (Key Terms).
+- `pt-BR/g23-c001.md` [15]: “Ademais, a bem-aventurança” → “Além disso, a bem-aventurança” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c001.md` [16]: “Ademais, onde quer que” → “Além disso, onde quer que” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c001.md` [17]: “Ademais, a vontade” → “Além disso, a vontade” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c002.md` [6]: “Ademais, assim como a vontade” → “Além disso, assim como a vontade” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c002.md` [7]: “Ademais, aquilo que” → “Além disso, aquilo que” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c002.md` [7]: “não recebe mudança nem impedimento” → “não recebe mutação nem impedimento” — *mutatio* → “mutação” (Key Terms); estava “mudança”.
+- `pt-BR/g23-c002.md` [8]: “Ademais, no afetivo” → “Além disso, no afetivo” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c002.md` [9]: “Ademais, Boécio” → “Além disso, Boécio” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c002.md` [10]: “Ademais, Deus” → “Além disso, Deus” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c002.md` [11]: “Ademais, assim como o ser” → “Além disso, assim como o ser” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c002.md` [12]: “Em sentido contrário está o que Damasceno diz” → “Mas, em sentido contrário, está o que Damasceno diz” — *Sed contra est quod* → “Mas, em sentido contrário, está o que” (Key Terms).
+- `pt-BR/g23-c002.md` [13]: “Ademais, a Deus” → “Além disso, a Deus” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c002.md` [17]: “ele o previu desde a eternidade” → “ele o conheceu de antemão desde a eternidade” — *praescire* → “conhecer de antemão” (Key Terms); estava “prever”.
+- `pt-BR/g23-c002.md` [24]: “intui as coisas” → “contempla as coisas” — *intueri* → “contemplar” (Key Terms); “intuir” pode sugerir outro modo de conhecimento. *(meaning)*
+- `pt-BR/g23-c003.md` [4]: “Ademais, pelo fato de que” → “Além disso, pelo fato de que” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c003.md` [5]: “Ademais, toda vontade” → “Além disso, toda vontade” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c003.md` [6]: “Ademais, tudo o que” → “Além disso, tudo o que” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c003.md` [7]: “Ademais, assim como há” → “Além disso, assim como há” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c003.md` [8]: “Ademais, a vontade” → “Além disso, a vontade” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c003.md` [9]: “Ademais, de coisas” → “Além disso, de coisas” — *Praeterea* → “Além disso” (Key Terms).
+- `pt-BR/g23-c003.md` [10]: “ou proferido na linguagem” → “ou proferido em palavras” — *sermo* → “palavra” (Key Terms), com ajuste de número e preposição.
+
+### Part terms 10 of 20, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 4 minor. Delta de g22-c004 a g23-c003: correções do round 1 corretas; ajustados uma decisão e a linha de potestas no diário e duas derivas terminológicas em g22-c015 [7] e [8].
+- `pt-BR/translation-journal.md`: “- g22-c004 [10]: *non agunt, sed magis aguntur* → “não agem, mas antes são levados a agir”.” → “- g22-c004 [10]: *non agunt, sed magis aguntur* → “não agem, mas antes são conduzidos”.” — O texto passou a “são conduzidos” (Key Terms *aguntur*); a decisão ainda registra a forma antiga.
+- `pt-BR/g22-c015.md` [7]: “desejar uma de preferência à outra, como se evidencia por Damasceno; ora, desejar é ato” → “optar por uma de preferência à outra, como se evidencia por Damasceno; ora, optar é ato” — *praeoptare… optare*; a decisão do diário para g22-c015 [7] fixa “optar”. “Desejar” confunde *optare* com *desiderium* de [8].
+- `pt-BR/g22-c015.md` [8]: “o desejo do que foi previamente deliberado” → “o desejo do que antes foi objeto de conselho” — *praeconsiliati*; Key Terms *praeconsiliatum* → “o que antes foi objeto de conselho”. Também mantém o vínculo com *consilium* que a correção de [14] restabeleceu.
+- NOT APPLIED (old text not found exactly once (2)): - `pt-BR/translation-journal.md`: “| virtus (poder) / potentia / potestas | virtude / potência / poder | “Potestas como autoridade constituída → potestade.” |” → “| virtus (poder) / potentia / potestas | virtude / potência / poder | “Potestas como autoridade constituída → potestade.” No sentido de faculdade operativa, *potestas* → “potência”, como em *potestates rationales* → “potências racionais”. |” — g23-c001 [11] traz “potências racionais” para *rationales potestates*; a nota do round anterior que registra esse uso não está na linha atual.
+- Rejected: pt-BR/g22-c015.md [7] — “está o que se segue:” acrescenta palavras ao *Sed contra est quod* — Adaptação sintática que introduz a proposição citada sem alterar o sentido.
+- Rejected: pt-BR/g23-c002.md [7] — “mutação” e “mudada” no mesmo período — *mutatio* → “mutação” e *immutari* → “mudar” seguem cada um a sua linha de Key Terms.
+- Rejected: pt-BR/g22-c013.md [20], pt-BR/g23-c001.md [3] — contagem de ênfase difere da fonte — Itálico do latim mencionado (*in*) e da citação de Dionísio; ambos corretos.
+
+### Part terms 10 of 20, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as três alterações e lidos integralmente os parágrafos g22-c015 [6]–[9] contra o latim; nenhuma nova deficiência encontrada.
+
+### Part terms 11 of 20, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 32 minor. 178 parágrafos sinalizados lidos; 24 apresentam deriva vocabular, com 1 correção adicional de sentido e 1 complemento de glossário.
+- `pt-BR/g23-c004.md` [21]: “assim também o poder e a ciência” → “assim também a potência e a ciência” — *potentia* → “potência” (Key Terms); estava “poder”.
+- `pt-BR/g23-c004.md` [32]: “iguala o poder da causa” → “iguala a potência da causa” — *potentiam* → “potência” (Key Terms); estava “poder”.
+- `pt-BR/g23-c004.md` [32]: “se assemelha perfeitamente a Deus” → “se assimila perfeitamente a Deus” — *assimilatur* → “se assimila”, conforme “assimilação” nos Key Terms.
+- `pt-BR/g23-c004.md` [32]: “assemelhada a ele de algum modo” → “assimilada a ele de algum modo” — *assimilata* → “assimilada”, conforme “assimilação” nos Key Terms.
+- `pt-BR/g23-c004.md` [46]: “a ciência e o poder, embora” → “a ciência e a potência, embora” — *potentia* → “potência” (Key Terms); estava “poder”.
+- `pt-BR/g23-c006.md` [10]: “segundo o modo de entender” → “segundo o modo de inteligir” — *intelligendi* designa o ato intelectual: “inteligir” (Key Terms).
+- `pt-BR/g23-c006.md` [15]: “segundo o modo de entender” → “segundo o modo de inteligir” — *intelligendi* designa o ato intelectual: “inteligir” (Key Terms).
+- `pt-BR/g23-c006.md` [17]: “por dever ou por conveniência” → “por ser devido ou por conveniência” — *ex debito* → “por ser devido”, conforme “devido” nos Key Terms.
+- `pt-BR/g23-c007.md` [5]: “embora obrigue sempre, não obriga para sempre” → “embora obrigue sempre, não obriga a todo momento” — *Non obligat ad semper* distingue a obrigação permanente da execução contínua; não significa que a obrigação deixe de valer no futuro. *(meaning)*
+- `pt-BR/g23-c007.md` [17]: “Em sentido contrário está o que diz a Glosa” → “Mas, em sentido contrário, está o que diz a Glosa” — Restitui “Mas” na fórmula *Sed contra est quod*, conforme os Key Terms.
+- `pt-BR/g23-c007.md` [20]: “o artefato se assemelha à sua causa” → “o artefato se assimila à sua causa” — *assimilatur* → “se assimila”, conforme “assimilação” nos Key Terms.
+- `pt-BR/g23-c008.md` [16]: “tal revelação o forçaria a desesperar” → “tal revelação o coagiria a desesperar” — *cogeret* → “coagiria” (Key Terms); estava “forçaria”.
+- `pt-BR/g24-c001.md` [13]: “se tivéssemos o poder de pecar e de não pecar” → “se tivéssemos a potência de pecar e de não pecar” — *potentiam* → “potência” (Key Terms); estava “poder”.
+- `pt-BR/g24-c001.md` [13]: “Ora, o poder de pecar e de não pecar” → “Ora, a potência de pecar e de não pecar” — *potentia* → “potência” (Key Terms); estava “poder”.
+- `pt-BR/g24-c001.md` [36]: “pois deliberam sobre o que se deve fazer” → “pois comparam entre si as coisas a fazer” — *conferunt* → “comparam” (Key Terms); estava “deliberam”.
+- `pt-BR/g24-c001.md` [37]: “aos animais brutos o juízo” → “aos animais irracionais o juízo” — *brutis animalibus* → “animais irracionais” (Key Terms).
+- `pt-BR/g24-c002.md` [13]: “ninguém opera visando ao mal” → “ninguém opera intentando o mal” — *intendens* → “intentando” (Key Terms); estava “visando”.
+- `pt-BR/g24-c004.md` [12]: “e assim o mesmo que antes.” → “e assim conclui-se o mesmo que antes.” — Uniformiza a fórmula *et sic idem quod prius* conforme os Key Terms.
+- `pt-BR/g24-c004.md` [24]: “e assim o mesmo que antes.” → “e assim conclui-se o mesmo que antes.” — Uniformiza a fórmula *et sic idem quod prius* conforme os Key Terms.
+- `pt-BR/g24-c004.md` [25]: “não nomeará senão a potência pura e simplesmente” → “não nomeará senão a potência absolutamente” — *absolute* → “absolutamente” (Key Terms); estava “pura e simplesmente”.
+- `pt-BR/g24-c005.md` [8]: “e assim o mesmo que antes.” → “e assim conclui-se o mesmo que antes.” — Uniformiza a fórmula *et sic idem quod prius* conforme os Key Terms.
+- `pt-BR/g24-c006.md` [13]: “princípio da fala pura e simplesmente” → “princípio da locução pura e simplesmente” — *locutionis* → “locução” (Key Terms); estava “fala”.
+- `pt-BR/g24-c006.md` [13]: “princípio da correção na fala” → “princípio da retidão na locução” — *rectitudinis in locutione* → “retidão na locução” (Key Terms); estava “correção na fala”.
+- `pt-BR/g24-c007.md` [7]: “removido o poder de pecar” → “removida a potência de pecar” — *remota potentia peccandi* → “removida a potência de pecar” (Key Terms); preserva a distinção de *potestas* na citação anterior.
+- `pt-BR/g24-c007.md` [7]: “ainda permanecerá no homem o poder de merecer” → “ainda permanecerá no homem a potência de merecer” — *potentia merendi* → “potência de merecer” (Key Terms).
+- `pt-BR/translation-journal.md`: “| species | espécie(s) | |” → “| species | espécie(s) | No sentido de aparência: “sub specie boni” → “sob a aparência de bem”; “sub aliqua specie apparentis boni” → “sob a aparência de algum bem aparente”. |” — Completa a linha com o sentido de aparência, corretamente empregado em g24-c008 [13], [18] e g24-c010 [30], distinto das espécies cognoscitivas.
+- `pt-BR/g24-c009.md` [18]: “nada de manchado entra” → “nada de contaminado entra” — *inquinatum* → “contaminado”, conforme “contaminação” nos Key Terms.
+- `pt-BR/g24-c010.md` [4]: “ela volta ao que é conveniente” → “ela retorna ao que é conveniente” — *redit* → “retorna”, conforme “retorno” nos Key Terms.
+- `pt-BR/g24-c010.md` [4]: “volta à frieza natural” → “retorna à frieza natural” — *redit* → “retorna”, conforme “retorno” nos Key Terms.
+- `pt-BR/g24-c010.md` [4]: “algum dia voltará ao estado de justiça” → “algum dia retornará ao estado de justiça” — *redibit* → “retornará”, conforme “retorno” nos Key Terms.
+- `pt-BR/g24-c010.md` [15]: “a mudança que se dá segundo o acidental” → “a mutação que se dá segundo o acidental” — *mutatio* → “mutação” (Key Terms); estava “mudança”.
+- `pt-BR/g24-c010.md` [24]: “caminho aberto de volta do pecado ao bem” → “caminho aberto de retorno do pecado ao bem” — *reditus* → “retorno” (Key Terms); estava “volta”.
+- `pt-BR/g24-c010.md` [25]: “intui ao mesmo tempo tudo” → “contempla ao mesmo tempo tudo” — *intuetur* → “contempla” (Key Terms); estava “intui”.
+
+### Part terms 11 of 20, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta de 33 mudanças em g23-c004 a g24-c010 verificado; todas corretas; corrigidos uma decisão do diário que ficou desatualizada e um caso de *sub specie boni* contrário à linha nova de *species*.
+- `pt-BR/translation-journal.md`: “*semper obliget, non tamen obligat ad semper* → “obrigue sempre, não obriga para sempre”.” → “*semper obliget, non tamen obligat ad semper* → “obrigue sempre, não obriga a todo momento”.” — A decisão registrada ainda dá a forma que a rodada anterior corrigiu em g23-c007 [5]; o diário passou a afirmar algo falso.
+- `pt-BR/g24-c002.md` [13]: “e o elege sob a espécie de bem” → “e o elege sob a aparência de bem” — *sub specie boni*: a linha *species* dos Key Terms, completada na rodada anterior, fixa “sob a aparência de bem” nesse sentido.
+- Rejected: pt-BR/g23-c007.md [21] — *assimilari* vertido “assemelhar-se”, enquanto [20] passou a “se assimila” — Aqui *assimilari* retoma o par *similatur* (“se assemelha”) da mesma frase; “assemelhar-se” mantém o paralelo e é defensável.
+- Rejected: pt-BR/g23-c008.md [16] — *de potentia absoluta / ordinata* com “poder”, apesar da troca para “potência” noutros lugares — Os Key Terms fixam “poder absoluto / ordenado” para essa expressão.
+- Rejected: pt-BR/g24-c001.md [36] — “comparam entre si as coisas a fazer” por *conferunt de agendis* — Segue *conferre* → “comparar” dos Key Terms; o sentido está preservado.
+
+### Part terms 11 of 20, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as duas correções, os três parágrafos apresentados e a nota do tradutor; nenhum novo defeito objetivo encontrado.
+
+### Part terms 12 of 20, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 35 minor. 169 parágrafos sinalizados lidos; 35 ocorrências de desvio corrigidas.
+- `pt-BR/g24-c010.md` [35]: “da força cognoscitiva acerca do elegível particular” → “da virtude cognoscitiva acerca do elegível particular” — *virtus cognitiva* → “virtude cognoscitiva” (Key Terms).
+- `pt-BR/g24-c010.md` [35]: “não há multiplicidade de potências apetitivas” → “não há multidão de potências apetitivas” — *multitudo* → “multidão” (Key Terms); estava “multiplicidade”.
+- `pt-BR/g24-c010.md` [36]: “à conveniência da justiça divina” → “à congruência da justiça divina” — *congruitas* → “congruência” (Key Terms); “conveniência” corresponde a *decentia*.
+- `pt-BR/g24-c010.md` [54]: “de quem ainda está na via” → “de quem ainda está na vida presente” — *in via* → “na vida presente” (Key Terms).
+- `pt-BR/g24-c011.md` [8]: “falando de modo absoluto” → “falando absolutamente” — *simpliciter* → “absolutamente” (Key Terms).
+- `pt-BR/g24-c011.md` [8]: “deve-se dizer, de modo absoluto,” → “deve-se dizer, absolutamente,” — *simpliciter* → “absolutamente” (Key Terms).
+- `pt-BR/g24-c011.md` [8]: “pelo poder divino” → “pela virtude divina” — *virtus divina* → “virtude divina” (Key Terms), mantendo a distinção de poder e potência.
+- `pt-BR/g24-c011.md` [14]: “Em sentido contrário está o que Agostinho diz” → “Mas, em sentido contrário, está o que Agostinho diz” — Restabelece a fórmula de *Sed contra est quod* prevista nos Key Terms.
+- `pt-BR/g24-c011.md` [24]: “racionalmente e como que por cotejo” → “racionalmente e como que por comparação” — *collative* → “por comparação”, conforme *collatio* e *collativus* nos Key Terms.
+- `pt-BR/g24-c012.md` [26]: “Em sentido contrário está o que Jerônimo diz” → “Mas, em sentido contrário, está o que Jerônimo diz” — Restabelece a fórmula de *Sed contra est quod* prevista nos Key Terms.
+- `pt-BR/g24-c012.md` [55]: “Falta a solução do décimo.” → “Falta a solução ao décimo.” — *Deest solutio ad …* → “Falta a solução ao …” (Key Terms).
+- `pt-BR/g24-c012.md` [76]: “eleger e deliberar só versam” → “eleger e aconselhar-se só versam” — *consiliari* → “aconselhar-se” (Key Terms); estava “deliberar”.
+- `pt-BR/g24-c013.md` [7]: “Em sentido contrário está o que se diz” → “Mas, em sentido contrário, está o que se diz” — Restabelece a fórmula de *Sed contra est quod* prevista nos Key Terms.
+- `pt-BR/g24-c013.md` [9]: “o poder recai apenas sobre uma negação” → “a potência recai apenas sobre uma negação” — *potentia* → “potência” (Key Terms), distinta de *potestas*, “poder”.
+- `pt-BR/g24-c014.md` [12]: “Em sentido contrário está o que se diz” → “Mas, em sentido contrário, está o que se diz” — Restabelece a fórmula de *Sed contra est quod* prevista nos Key Terms.
+- `pt-BR/g24-c015.md` [8]: “Em sentido contrário está o que se diz” → “Mas, em sentido contrário, está o que se diz” — Restabelece a fórmula de *Sed contra est quod* prevista nos Key Terms.
+- `pt-BR/g25-c001.md` [17]: “Em sentido contrário, na definição da sensualidade se diz que” → “Mas, em sentido contrário, está o que se diz na definição da sensualidade, a saber, que” — Restabelece a fórmula de *Sed contra est quod* prevista nos Key Terms.
+- `pt-BR/g25-c001.md` [35]: “pode receber dela o nome” → “pode ser por ela denominada” — *denominari* → “ser denominada” (Key Terms); estava parafraseado.
+- `pt-BR/g25-c002.md` [9]: “e se conclui o mesmo que antes” → “e assim se conclui o mesmo que antes” — Restabelece “assim” na fórmula *et sic idem quod prius* (Key Terms).
+- `pt-BR/g25-c002.md` [13]: “Em sentido contrário, Damasceno, no livro 2, distingue” → “Mas, em sentido contrário, está o que Damasceno, no livro 2, diz ao distinguir” — Restabelece a fórmula de *Sed contra est quod* prevista nos Key Terms, ajustando a construção.
+- `pt-BR/g25-c003.md` [10]: “Em sentido contrário, Damasceno, Gregório de Nissa e o Filósofo afirmam que elas estão somente no apetite sensível.” → “Mas, em sentido contrário, está o que Damasceno, Gregório de Nissa e o Filósofo afirmam: que elas estão somente no apetite sensível.” — Restabelece a fórmula de *Sed contra est quod* prevista nos Key Terms.
+- `pt-BR/g25-c004.md` [9]: “Em sentido contrário, Damasceno diz que” → “Mas, em sentido contrário, está o que Damasceno diz: que” — Restabelece a fórmula de *Sed contra est quod* prevista nos Key Terms.
+- `pt-BR/g25-c004.md` [13]: “depende da ordem do chefe” → “depende do comando do chefe” — *imperium* do governante → “comando” (Key Terms); estava “ordem”.
+- `pt-BR/g25-c004.md` [13]: “senão sob a ordem daquilo que em nós governa” → “senão sob o comando daquilo que em nós governa” — *imperium* → “comando” (Key Terms); estava “ordem”.
+- `pt-BR/g25-c005.md` [18]: “Em sentido contrário, Agostinho diz:” → “Mas, em sentido contrário, está o que Agostinho diz:” — Restabelece a fórmula de *Sed contra est quod* prevista nos Key Terms.
+- `pt-BR/g25-c006.md` [14]: “a vingança pretendida com a injúria recebida” → “a vingança intentada com a injúria recebida” — *intentam*, de *intendere*, → “intentada” (Key Terms); estava “pretendida”.
+- `pt-BR/g26-c001.md` [31]: “o paciente se assemelha ao agente” → “o paciente é assimilado ao agente” — *assimilatur* exprime a assimilação do paciente ao agente; mantém o termo “assimilação” dos Key Terms.
+- `pt-BR/g26-c001.md` [36]: “mas antes alegria na consideração da verdade” → “mas antes jucundidade na consideração da verdade” — *iocunditas* → “jucundidade” (Key Terms); estava “alegria”.
+- `pt-BR/g26-c001.md` [40]: “por lei da natureza ou pelo poder divino” → “por lei da natureza ou pela virtude divina” — *virtus divina* → “virtude divina” (Key Terms).
+- `pt-BR/g26-c001.md` [49]: “a não ser pelo poder divino” → “a não ser pela virtude divina” — *virtus divina* → “virtude divina” (Key Terms).
+- `pt-BR/g26-c002.md` [8]: “e assim se segue o mesmo que antes” → “e assim se conclui o mesmo que antes” — *et sic idem quod prius* → “e assim conclui-se o mesmo que antes” (Key Terms).
+- `pt-BR/g26-c003.md` [4]: “desejar, temer, alegrar-se e entristecer-se” → “desejar, ter medo, alegrar-se e entristecer-se” — *metuat*, de *metus*, → “ter medo”, mantendo a distinção entre “medo” e “temor” dos Key Terms.
+- `pt-BR/g26-c003.md` [5]: “pois que são o desejo e a alegria” → “pois que são a cupidez e a alegria” — *cupiditas* → “cupidez” (Key Terms); estava “desejo”.
+- `pt-BR/g26-c003.md` [7]: “e assim se segue o mesmo que antes” → “e assim se conclui o mesmo que antes” — *et sic idem quod prius* → “e assim conclui-se o mesmo que antes” (Key Terms).
+- `pt-BR/g26-c003.md` [11]: “e assim se segue o mesmo que antes” → “e assim se conclui o mesmo que antes” — *et sic idem quod prius* → “e assim conclui-se o mesmo que antes” (Key Terms).
+
+### Part terms 12 of 20, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 4 minor. Delta read das 35 correções de terms 12: 32 conferem; revertida g24-c010 [54]; corrigidas as lacunas vizinhas em g24-c013 [10] e g25-c002 [8] e a decisão do diário sobre g24-c012 [55].
+- `pt-BR/g24-c010.md` [54]: “de quem ainda está na vida presente” → “de quem ainda está na via” — *adhuc existentis in via* contrasta com *pervenientis ad terminum* e com *existens in via caritatis* da mesma frase; a decisão do diário fixa “via” onde o argumento usa a imagem da via; a correção anterior quebrou o paralelo
+- `pt-BR/g24-c013.md` [10]: “o poder recai sobre algo afirmativo” → “a potência recai sobre algo afirmativo” — *potentia fertur ad aliquid affirmativum*; deve corresponder a “a potência recai apenas sobre uma negação” de [9] (Key Terms: *potentia* → potência)
+- `pt-BR/g25-c002.md` [8]: “e se conclui o mesmo que antes” → “e assim se conclui o mesmo que antes” — *et ita idem quod prius*: falta “assim”, como já corrigido em [9]
+- `pt-BR/translation-journal.md`: “g24-c012 [55]: *Deest solutio ad decimum* traduzido literalmente (“Falta a solução do décimo”).” → “g24-c012 [55]: *Deest solutio ad decimum* traduzido literalmente (“Falta a solução ao décimo”).” — o texto agora diz “ao décimo”, conforme os Key Terms; a decisão citava a forma antiga
+- Rejected: pt-BR/g24-c012.md [76] — “aconselhar-se” contra a linha de g24 “consiliari → tomar conselho” — a tabela admite também “aconselhar-se” (linha de g17); o sentido não muda
+- Rejected: pt-BR/g24-c010.md [36] — “força apetitiva” logo após “virtude cognoscitiva” em [35] — a tabela prevê “força apetitiva” para *virtus appetitiva* em g24
+
+### Part terms 12 of 20, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as quatro correções; lidos integralmente os nove parágrafos mostrados e as quatro notas do tradutor. Nenhum novo defeito encontrado.
+- Rejected: pt-BR/g24-c010.md [54] — “na via” diverge da entrada geral “in via → na vida presente”. — A imagem da via é necessária ao paralelo com “termo” e “via da caridade” no mesmo período; a correção está adequada.
+
+### Part terms 13 of 20, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 34 minor. 170 parágrafos sinalizados lidos; 32 desvios terminológicos, 1 correção de sentido e 2 ajustes de glossário.
+- `pt-BR/g26-c003.md` [19]: “e assim se segue o mesmo que antes” → “e assim conclui-se o mesmo que antes” — *et sic idem quod prius* → “e assim conclui-se o mesmo que antes” (Key Terms).
+- `pt-BR/translation-journal.md`: “| virtus (poder) / potentia / potestas | virtude / potência / poder | |” → “| virtus (poder) / potentia / potestas | virtude / potência / poder | “*Potestas* também se traduz por “potência” quando designa uma faculdade da alma, como em *rationales potestates* (g26-c003 [38]).” |” — Nesse contexto, *potestates* retoma as faculdades anteriormente chamadas *potentiae*; “potências” é correto.
+- `pt-BR/translation-journal.md`: “| intelligere | inteligir | *Cognoscere* → conhecer. |” → “| intelligere | inteligir | *Cognoscere* → conhecer. “Em fórmulas explicativas, *intelligendum est* → “deve-se entender”; *dare intelligere* → “dar a entender”.” |” — Os usos explicativos recorrentes de “entender” não designam tecnicamente o ato de inteligir.
+- `pt-BR/g26-c003.md` [39]: “o erro é tido por verdade” → “o erro é estimado como verdade” — *aestimatur* → “é estimado” (Key Terms); estava “é tido”.
+- `pt-BR/g26-c003.md` [43]: “a potência apreensiva sensitiva seja mudada juntamente com o órgão corporal” → “a potência apreensiva sensitiva seja imutada juntamente com o órgão corporal” — *immutare* → “imutar” na recepção sensitiva (Key Terms).
+- `pt-BR/g26-c003.md` [43]: “senão por uma mudança espiritual” → “senão por uma imutação espiritual” — *immutatio* é a forma nominal de *immutare*, aqui no sentido técnico da recepção sensitiva.
+- `pt-BR/g26-c004.md` [23]: “Quanto ao primeiro, pois, deve-se dizer que” → “Quanto ao primeiro, portanto, deve-se dizer que” — *Ad primum ergo dicendum quod* → fórmula fixada com “portanto” (Key Terms).
+- `pt-BR/g26-c005.md` [3]: “os homens desejam, temem, alegram-se” → “os homens desejam, têm medo, alegram-se” — *metus* → “medo” (Key Terms); *metuunt* conserva esse vocabulário.
+- `pt-BR/g26-c005.md` [5]: “cada coisa recebe o nome do que é mais principal” → “cada coisa é denominada pelo que é mais principal” — *denominare* → “denominar” (Key Terms).
+- `pt-BR/g26-c005.md` [5]: “a potência irascível recebe o nome da ira” → “a potência irascível é denominada pela ira” — *denominare* → “denominar” (Key Terms).
+- `pt-BR/g26-c005.md` [9]: “Mas poder-se-ia dizer que” → “Mas dizia-se que” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g26-c005.md` [12]: “já sentimos dor e tememos vir a senti-la” → “já sentimos dor e temos medo de vir a senti-la” — *metus* → “medo” (Key Terms); *metuimus* conserva esse vocabulário.
+- `pt-BR/g26-c005.md` [22]: “Quanto ao primeiro, pois, deve-se dizer que” → “Quanto ao primeiro, portanto, deve-se dizer que” — *Ad primum ergo dicendum quod* → fórmula fixada com “portanto” (Key Terms).
+- `pt-BR/g26-c005.md` [25]: “a irascível recebe o nome da ira” → “a irascível é denominada pela ira” — *denominare* → “denominar” (Key Terms).
+- `pt-BR/g26-c006.md` [6]: “Mas poder-se-ia dizer que” → “Mas dizia-se que” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g26-c006.md` [14]: “Mas poder-se-ia dizer que” → “Mas dizia-se que” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g26-c006.md` [27]: “Mas poder-se-ia dizer que” → “Mas dizia-se que” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g26-c006.md` [33]: “Quanto ao primeiro, pois, deve-se dizer que” → “Quanto ao primeiro, portanto, deve-se dizer que” — *Ad primum ergo dicendum quod* → fórmula fixada com “portanto” (Key Terms).
+- `pt-BR/g26-c006.md` [40]: “como que preferindo padecer outras aflições a padecer a morte” → “como que elegendo padecer outras aflições antes que a morte” — *eligere* → “eleger” (Key Terms); *magis* mantém a preferência entre as alternativas.
+- `pt-BR/g26-c006.md` [41]: “preferindo *uma ação boa e grande a muitas pequenas*” → “elegendo *uma ação boa e grande em vez de muitas pequenas*” — *eligere* → “eleger” (Key Terms), preservando a comparação expressa por *magis*.
+- `pt-BR/g26-c006.md` [47]: “a concepção que o intelecto tem das penas eternas” → “a concepção do intelecto acerca das penas eternas” — *conceptio intellectus* → “concepção do intelecto” (Key Terms).
+- `pt-BR/g26-c006.md` [48]: “*Falta a solução do décimo quarto.*” → “*Falta a solução ao décimo quarto.*” — *Deest solutio ad …* → “Falta a solução ao …” (Key Terms).
+- `pt-BR/g26-c007.md` [4]: “Mas poder-se-ia dizer que” → “Mas dizia-se que” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g26-c007.md` [7]: “o ânimo não prevê facilmente a verdade” → “o ânimo não prevê facilmente o verdadeiro” — *verum* substantivado → “o verdadeiro” (Key Terms); estava “a verdade”.
+- `pt-BR/g26-c007.md` [14]: “com juízo são, o repreenderia” → “com consideração sã, o repreenderia” — *consideratio* → “consideração” (Key Terms); estava “juízo”.
+- `pt-BR/g26-c007.md` [18]: “Quanto ao primeiro, pois, deve-se dizer que” → “Quanto ao primeiro, portanto, deve-se dizer que” — *Ad primum ergo dicendum quod* → fórmula fixada com “portanto” (Key Terms).
+- `pt-BR/g26-c007.md` [22]: “pelo costume da linguagem humana” → “pelo costume da locução humana” — *locutio* → “locução” (Key Terms); estava “linguagem”.
+- `pt-BR/g26-c008.md` [25]: “parecia ser mais de palavras que de coisas” → “parecia ser mais segundo as palavras que segundo a coisa” — *secundum rem* → “segundo a coisa” (Key Terms), preservando a oposição a *secundum vocem*.
+- `pt-BR/g26-c008.md` [25]: “quanto à coisa, os estoicos” → “segundo a coisa, os estoicos” — *secundum rem* → “segundo a coisa” (Key Terms).
+- `pt-BR/g26-c008.md` [28]: “e somente deste último modo houve paixão em Cristo” → “e somente desse modo houve paixão em Cristo” — *sic* retoma o modo acabado de especificar, oposto à primeira impassibilidade; “deste último modo” remete indevidamente à segunda. *(meaning)*
+- `pt-BR/g26-c009.md` [6]: “Mas poder-se-ia dizer que” → “Mas dizia-se que” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g26-c009.md` [10]: “Mas poder-se-ia dizer que” → “Mas dizia-se que” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g26-c009.md` [15]: “a razão, enquanto razão, implica” → “a razão como razão implica” — *ratio ut ratio* → “a razão como razão” (Key Terms).
+- `pt-BR/g26-c010.md` [16]: “Mas poder-se-ia dizer que” → “Mas dizia-se que” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g26-c010.md` [20]: “Mas poder-se-ia dizer que” → “Mas dizia-se que” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+
+### Part terms 13 of 20, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 4 minor. Verified the 35 round-1 changes and their neighbouring paragraphs in g26-c003 to g26-c010; all are correct against the source. Fixed two Key Terms rows that contradict the revised text and two notes cells with stray outer quotes.
+- `pt-BR/translation-journal.md`: “| Sed dicebat | Mas poder-se-ia dizer | |” → “| Sed dicebat | Mas dizia-se que | |” — Round 1 replaced every “Mas poder-se-ia dizer” in g26 with “Mas dizia-se que” (the audit finds 0 occurrences of the old form). The row now contradicts the text.
+- `pt-BR/translation-journal.md`: “| transmutatio / alteratio / immutatio | mudança / alteração / mudança | |” → “| transmutatio / alteratio / immutatio | mudança / alteração / mudança | Na recepção sensitiva, *immutatio* / *immutare* → “imutação” / “imutar” (g26-c003 [43]). |” — g26-c003 [43] now has “imutada” and “imutação espiritual” for the sensitive reception. The g26 row still gives only “mudança”.
+- NOT APPLIED (old text not found exactly once (2)): - `pt-BR/translation-journal.md`: “*Cognoscere* → conhecer. “Em fórmulas explicativas, *intelligendum est* → “deve-se entender”; *dare intelligere* → “dar a entender”.” |” → “*Cognoscere* → conhecer. Em fórmulas explicativas, *intelligendum est* → “deve-se entender”; *dare intelligere* → “dar a entender”. |” — Stray outer quotation marks wrap the whole note and nest the inner quotes.
+- NOT APPLIED (old text not found exactly once (4)): - `pt-BR/translation-journal.md`: ““Potestas como autoridade constituída → potestade.”” → “*Potestas* como autoridade constituída → “potestade”; como faculdade da alma (*rationales potestates*, g26-c003 [38]) → “potência”.” — Stray outer quotes around the note. Round 1 meant to record the “potências” rendering of g26-c003 [38], but the row does not contain it.
+- Rejected: pt-BR/g26-c006.md [40] — “elegendo padecer outras aflições antes que a morte” may read awkwardly — “antes que” as a comparative of preference is correct Portuguese. The sentence keeps both *eligere* and *magis*.
+- Rejected: pt-BR/g26-c005.md [13], g26-c007.md [14] — “e assim, o mesmo que antes” differs from “conclui-se o mesmo que antes” in g26-c003 [19] — The table has both forms (“idem quod prius | o mesmo que antes” and the g7 row). The variant is defensible and does not change the sense.
+- Rejected: pt-BR/g26-c003.md [43] — “o corpo não é mudado” for *non immutatur corpus* — This clause is about material change of bodily dispositions, not sensitive reception. “mudado” is right here.
+
+### Part terms 13 of 20, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as duas alterações aplicadas ao glossário; ambas concordam com as correções registradas. Nenhum parágrafo de capítulo foi apresentado nesta rodada. Nenhum defeito encontrado nas alterações.
+
+### Part terms 14 of 20, Round 1 (codex, terms read)
+Verdict: 2 meaning-level, 40 minor. 152 parágrafos sinalizados lidos; 33 ocorrências de termos com desvio, corrigidas em 42 substituições.
+- `pt-BR/g27-c002.md` [15]: “o ser agradável a Deus” → “o ser grato a Deus” — *esse gratum* → “ser grato” (Key Terms); estava “ser agradável”.
+- `pt-BR/g27-c003.md` [6]: “pela luz divina da graça” → “pelo lume divino da graça” — *lumen* → “lume” (Key Terms); estava “luz”.
+- `pt-BR/g27-c003.md` [6]: “pela luz da verdade” → “pelo lume da verdade” — *lumen* → “lume” (Key Terms); estava “luz”.
+- `pt-BR/g27-c003.md` [6]: “a outra a luz do intelecto” → “a outra o lume do intelecto” — *lumen* → “lume” (Key Terms); estava “luz”.
+- `pt-BR/g27-c003.md` [8]: “Mas dir-se-ia que Cristo” → “Mas dizia-se que Cristo” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g27-c003.md` [12]: “Mas dir-se-ia que a criatura” → “Mas dizia-se que a criatura” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g27-c003.md` [24]: “Mas dir-se-ia que fazem isso” → “Mas dizia-se que faz isso” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms); *facit* está no singular, não no plural. *(meaning)*
+- `pt-BR/g27-c003.md` [41]: “da transfusão da luz divina” → “da transfusão do lume divino” — *divini luminis* → “do lume divino” (Key Terms); estava “da luz divina”.
+- `pt-BR/g27-c003.md` [41]: “a modo de ensinamento” → “a modo de ensino” — *doctrina* → “ensino” (Key Terms); estava “ensinamento”.
+- `pt-BR/g27-c003.md` [49]: “por cuja mudança são eduzidas” → “por cuja mutação são eduzidas” — *mutatio* → “mutação” (Key Terms); estava “mudança”.
+- `pt-BR/g27-c003.md` [62]: “pela exortação e pela doutrina” → “pela exortação e pelo ensino” — *doctrina* designa aqui o ensino ministrado pelo sacerdote; Key Terms: “ensino”.
+- `pt-BR/g27-c003.md` [65]: “a ciência no discípulo pelo mestre” → “a ciência no discípulo pelo doutor” — *doctor* → “doutor” (Key Terms), para distingui-lo de *magister*, “mestre”. *(meaning)*
+- `pt-BR/g27-c004.md` [8]: “Mas dir-se-ia que tal virtude” → “Mas dizia-se que tal virtude” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g27-c004.md` [12]: “no livro das *83 questões*” → “no livro das *Oitenta e três questões*” — *83 quaestionum* → “Oitenta e três questões” (Key Terms).
+- `pt-BR/g27-c004.md` [20]: “o efeito pretendido pelo agente principal” → “o efeito intentado pelo agente principal” — *intendere* → “intentar” (Key Terms); estava “pretender”.
+- `pt-BR/g27-c004.md` [20]: “que Deus pretende produzir na alma” → “que Deus intenta produzir na alma” — *intendere* → “intentar” (Key Terms); estava “pretender”.
+- `pt-BR/g27-c004.md` [26]: “Mas dir-se-ia que não se acrescenta” → “Mas dizia-se que não se acrescenta” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g27-c004.md` [29]: “Mas dir-se-ia que a causa” → “Mas dizia-se que a causa” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g27-c004.md` [30]: “e assim volta-se ao mesmo de antes” → “e assim conclui-se o mesmo que antes” — *et sic idem quod prius* → “e assim conclui-se o mesmo que antes” (Key Terms).
+- `pt-BR/g27-c005.md` [4]: “Mas dir-se-ia que a graça” → “Mas dizia-se que a graça” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g27-c005.md` [7]: “Mas dir-se-ia que quem tem” → “Mas dizia-se que quem tem” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g27-c005.md` [17]: “Mas dir-se-ia que os sacramentos” → “Mas dizia-se que os sacramentos” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g27-c005.md` [19]: “Mas dir-se-ia que os sacramentos” → “Mas dizia-se que os sacramentos” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g27-c005.md` [39]: “algumas virtudes cessam na pátria” → “algumas virtudes são abolidas na pátria” — *evacuare* → “abolir” (Key Terms); estava “cessar”.
+- `pt-BR/g27-c007.md` [11]: “as semelhanças das obras de arte” → “as semelhanças dos artefatos” — *artificiata* → “artefatos” (Key Terms); estava “obras de arte”.
+- `pt-BR/g28-c001.md` [4]: “Mas dir-se-ia que a remissão” → “Mas dizia-se que a remissão” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g28-c001.md` [13]: “Mas dir-se-ia que, embora” → “Mas dizia-se que, embora” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g28-c001.md` [18]: “se deixa algo significado afirmativamente” → “se rejeita algo significado afirmativamente” — *abicere* → “rejeitar” (Key Terms); estava “deixar”.
+- `pt-BR/g28-c001.md` [18]: “se deixa o branco” → “se rejeita o branco” — *abicere* → “rejeitar” (Key Terms); estava “deixar”.
+- `pt-BR/g28-c001.md` [18]: “no deixar um termo afirmado” → “na rejeição de um termo afirmado” — *abiectio* → “rejeição” (Key Terms); estava “deixar”.
+- `pt-BR/g28-c002.md` [5]: “Mas dir-se-ia que os pecados” → “Mas dizia-se que os pecados” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g28-c003.md` [4]: “Mas dir-se-ia que isso” → “Mas dizia-se que isso” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g28-c003.md` [6]: “Mas dir-se-ia que isso” → “Mas dizia-se que isso” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g28-c003.md` [7]: “o seu poder aos sacramentos” → “a sua potência aos sacramentos” — *potentia* → “potência” (Key Terms), distinta de *potestas*, “poder”.
+- `pt-BR/g28-c003.md` [7]: “dependente de seu poder” → “dependente de sua potência” — *potentia* → “potência” (Key Terms), distinta de *potestas*, “poder”.
+- `pt-BR/g28-c003.md` [11]: “Mas dir-se-ia que Salomão” → “Mas dizia-se que Salomão” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g28-c003.md` [23]: “mas segundo a dívida” → “mas segundo o devido” — *debitum* → “devido” (Key Terms); estava “dívida”.
+- `pt-BR/g28-c003.md` [23]: “mas por dívida” → “mas por algo devido” — *debitum* → “devido” (Key Terms); estava “dívida”.
+- `pt-BR/g28-c003.md` [25]: “o agente de poder infinito não requer” → “o agente de virtude infinita não requer” — *virtus* como poder → “virtude” (Key Terms); estava “poder”.
+- `pt-BR/g28-c003.md` [25]: “quanto mais poderoso é o agente” → “quanto maior é a virtude do agente” — *virtuosius* exprime o grau da *virtus* do agente; mantém-se “virtude” (Key Terms).
+- `pt-BR/g28-c003.md` [25]: “Deus é agente de poder infinito” → “Deus é agente de virtude infinita” — *virtus* como poder → “virtude” (Key Terms); estava “poder”.
+- `pt-BR/g28-c004.md` [22]: “esse movimento recebe o nome da fé” → “esse movimento é denominado pela fé” — *denominare* → “denominar” (Key Terms); estava “receber o nome”.
+
+### Part terms 14 of 20, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 4 minor. Delta de g27–g28: 42 mudanças verificadas; revertida “ser grato a Deus” em g27-c002 [15] (meaning); quatro linhas do diário alinhadas ao texto corrigido.
+- `pt-BR/g27-c002.md` [15]: “a saber, o ser grato a Deus” → “a saber, o ser agradável a Deus” — *esse gratum Deo*: em português “ser grato a Deus” significa ter gratidão para com Deus, o inverso do sentido; o Key Terms da questão 27 (*Deo gratus* → “agradável a Deus”, “grato” evitado por ambíguo) manda “agradável”. *(meaning)*
+- `pt-BR/translation-journal.md`: “| Sed dicebat (quod) | Mas dir-se-ia que |” → “| Sed dicebat (quod) | Mas dizia-se que |” — O texto de g27–g28 usa agora “Mas dizia-se que”, como as demais linhas da tabela; a linha ficou falsa.
+- `pt-BR/translation-journal.md`: “= “Mas dir-se-ia que”” → “= “Mas dizia-se que”” — A decisão contradiz o texto corrigido de g27–g28.
+- `pt-BR/translation-journal.md`: “| agens infinitae virtutis | agente de poder infinito |” → “| agens infinitae virtutis | agente de virtude infinita |” — g28-c003 [25] usa agora “agente de virtude infinita”, conforme a linha *virtus* (poder) → “virtude”; a linha específica ficou falsa.
+- `pt-BR/translation-journal.md`: “/ *83 questões* /” → “/ *Oitenta e três questões* /” — g27-c004 [12] traz agora *Oitenta e três questões*, como as demais linhas da tabela.
+- Rejected: pt-BR/g28-c001.md [18] — “na rejeição de um termo afirmado e no adquirir outro”: nominal e infinitivo sem paralelismo — É gramatical e o sentido de *abiectione… et adeptione* fica claro; é questão de estilo.
+- Rejected: pt-BR/g28-c004.md [22] — “é denominado pela fé” poderia ler-se como agente da passiva — No contexto, “denominar-se por” é uso corrente para *denominari a*; segue o Key Terms *denominare*.
+
+### Part terms 14 of 20, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as cinco mudanças da rodada anterior, os três parágrafos apresentados e a nota do tradutor; nenhum defeito encontrado no material desta delta.
+
+### Part terms 15 of 20, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 56 minor. 165 parágrafos sinalizados lidos; 36 apresentaram desvio, com 52 correções textuais e 4 complementos de glossário.
+- `pt-BR/g28-c005.md` [14]: “é incompatível com outro bem” → “é incompossível com outro bem” — *incompossibile* → “incompossível” (Key Terms).
+- `pt-BR/g28-c005.md` [18]: “para seguir ou abraçar o pecado” → “para buscar ou abraçar o pecado” — *prosequi* → “buscar” (Key Terms).
+- `pt-BR/g28-c006.md` [6]: “Mas dir-se-ia que” → “Mas dizia-se que” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g28-c006.md` [6]: “a aptidão e o débito quanto a ter a graça” → “a aptidão para ter a graça e o fato de que ela é devida” — *debitum* → “devido” (Key Terms), com ajuste da construção.
+- `pt-BR/g28-c006.md` [12]: “segundo a razão ou segundo o modo de entender” → “segundo a razão ou segundo o modo de inteligir” — *intelligere* → “inteligir” (Key Terms).
+- `pt-BR/g28-c006.md` [12]: “a corrupção do não branco, segundo o modo de entender” → “a corrupção do não branco, segundo o modo de inteligir” — *intelligere* → “inteligir” (Key Terms).
+- `pt-BR/g28-c007.md` [4]: “na ordem da natureza entende-se o recipiente” → “na ordem da natureza intelige-se o recipiente” — *intelligere* → “inteligir” (Key Terms).
+- `pt-BR/g28-c007.md` [4]: “logo, entende-se a matéria própria” → “logo, intelige-se a matéria própria” — *intelligere* → “inteligir” (Key Terms).
+- `pt-BR/g28-c007.md` [5]: “Mas dir-se-ia que” → “Mas dizia-se que” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g28-c007.md` [7]: “Mas dir-se-ia que” → “Mas dizia-se que” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g28-c007.md` [14]: “Mas dir-se-ia que” → “Mas dizia-se que” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g28-c007.md` [15]: “o agente de poder infinito” → “o agente de virtude infinita” — *virtus* como poder ativo → “virtude” (Key Terms).
+- `pt-BR/g28-c007.md` [15]: “um agente de poder infinito” → “um agente de virtude infinita” — *virtus* como poder ativo → “virtude” (Key Terms).
+- `pt-BR/g28-c007.md` [28]: “quanto a evitar a obra má e fazer a obra boa” → “quanto ao ato de evitar a obra má e à operação da obra boa” — *operatio* → “operação” (Key Terms).
+- `pt-BR/g28-c007.md` [34]: “sem que se entenda remissão da culpa” → “sem que se intelija remissão da culpa” — *intellecta* é forma de *intelligere* → “inteligir” (Key Terms).
+- `pt-BR/g28-c008.md` [4]: “Mas dir-se-ia que” → “Mas dizia-se que” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g28-c008.md` [14]: “Mas dir-se-ia que” → “Mas dizia-se que” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g28-c008.md` [26]: “falando em sentido próprio” → “propriamente falando” — *per se loquendo* → “propriamente falando” (Key Terms).
+- `pt-BR/g28-c008.md` [30]: “deve entender-se:” → “deve inteligir-se:” — *intelligere* → “inteligir” (Key Terms).
+- `pt-BR/g28-c009.md` [5]: “Mas dir-se-ia que” → “Mas dizia-se que” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g28-c009.md` [8]: “Mas dir-se-ia que” → “Mas dizia-se que” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g28-c009.md` [14]: “como em qualquer mudança” → “como em qualquer mutação” — *mutatio* → “mutação” (Key Terms).
+- `pt-BR/g28-c009.md` [14]: “os dois termos de qualquer mudança” → “os dois termos de qualquer mutação” — *mutatio* → “mutação” (Key Terms).
+- `pt-BR/g28-c009.md` [19]: “entre os extremos de uma mudança” → “entre os extremos de uma mutação” — *mutatio* → “mutação” (Key Terms).
+- `pt-BR/g28-c009.md` [19]: “a mudança é sucessiva” → “a mutação é sucessiva” — *mutatio* → “mutação” (Key Terms).
+- `pt-BR/g28-c009.md` [19]: “é uma mudança sucessiva” → “é uma mutação sucessiva” — *mutatio* → “mutação” (Key Terms).
+- `pt-BR/g28-c009.md` [22]: “que é de poder infinito” → “que é de virtude infinita” — *virtus* como poder ativo → “virtude” (Key Terms).
+- `pt-BR/g28-c009.md` [25]: “quando se diz que uma mudança” → “quando se diz que uma mutação” — *mutatio* → “mutação” (Key Terms).
+- `pt-BR/g28-c009.md` [25]: “já que toda mudança” → “já que toda mutação” — *mutatio* → “mutação” (Key Terms).
+- `pt-BR/g28-c009.md` [26]: “quer seja distância de lugar” → “quer seja distância de posição” — *situs* → “posição” (Key Terms).
+- `pt-BR/g28-c009.md` [27]: “entre os dois termos do movimento ou da mudança” → “entre os dois termos do movimento ou da mutação” — *mutatio* → “mutação” (Key Terms).
+- `pt-BR/g28-c009.md` [27]: “os dois termos do movimento ou da mudança” → “os dois termos do movimento ou da mutação” — *mutatio* → “mutação” (Key Terms).
+- `pt-BR/g28-c009.md` [27]: “a privação, falando por si,” → “a privação, propriamente falando,” — *per se loquendo* → “propriamente falando” (Key Terms).
+- `pt-BR/g28-c009.md` [28]: “tomando tais mudanças” → “tomando tais mutações” — *mutatio* → “mutação” (Key Terms).
+- `pt-BR/g28-c009.md` [28]: “segundo os seus termos próprios, falando por si,” → “segundo os seus termos próprios, propriamente falando,” — *per se loquendo* → “propriamente falando” (Key Terms).
+- `pt-BR/g28-c009.md` [29]: “o homem, refletindo, se dispõe” → “o homem, pensando, se dispõe” — *cogitare* → “pensar” (Key Terms).
+- `pt-BR/g28-c009.md` [36]: “que a mudança se dá” → “que a mutação se dá” — *mutatio* → “mutação” (Key Terms).
+- `pt-BR/g28-c009.md` [39]: “assim se deve entender que” → “assim se deve inteligir que” — *intelligere* → “inteligir” (Key Terms).
+- `pt-BR/g29-c001.md` [6]: “o sujeito pode ser entendido” → “o sujeito pode ser inteligido” — *intelligi* → “ser inteligido” (Key Terms).
+- `pt-BR/g29-c001.md` [6]: “Cristo pode ser entendido” → “Cristo pode ser inteligido” — *intelligi* → “ser inteligido” (Key Terms).
+- `pt-BR/g29-c001.md` [6]: “Entendido desse modo” → “Inteligido desse modo” — *intellecto* é particípio de *intelligere* → “inteligir” (Key Terms).
+- `pt-BR/g29-c001.md` [9]: “o acréscimo da graça seria supérfluo” → “a concessão da graça seria supérflua” — *appositio gratiae* → “concessão da graça” (Key Terms).
+- `pt-BR/g29-c001.md` [11]: “é de poder perfeito” → “é de virtude perfeita” — *virtus* como poder ativo → “virtude” (Key Terms).
+- `pt-BR/g29-c001.md` [11]: “o poder divino é perfeitíssimo” → “a virtude divina é perfeitíssima” — *virtus divina* → “virtude divina” (Key Terms).
+- `pt-BR/g29-c002.md` [3]: “a substância deve ser entendida” → “a substância deve ser inteligida” — *intelligere* → “inteligir” (Key Terms).
+- `pt-BR/g29-c002.md` [3]: “deve ser entendida antes da graça” → “deve ser inteligida antes da graça” — *intelligere* → “inteligir” (Key Terms).
+- `pt-BR/g29-c002.md` [5]: “deve ser entendida antes da graça nela” → “deve ser inteligida antes da graça nela” — *intelligere* → “inteligir” (Key Terms).
+- `pt-BR/g29-c002.md` [8]: “é o poder de quem o faz” → “é a potência de quem o faz” — *potentia* → “potência” (Key Terms).
+- `pt-BR/g29-c002.md` [8]: “basta o poder de quem o faz” → “basta a potência de quem o faz” — *potentia* → “potência” (Key Terms).
+- `pt-BR/g29-c003.md` [5]: “Mas dir-se-ia que” → “Mas dizia-se que” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g29-c003.md` [10]: “Mas dir-se-ia que” → “Mas dizia-se que” — *Sed dicebat quod* → “Mas dizia-se que” (Key Terms).
+- `pt-BR/g29-c004.md` [22]: “no livro das *83 questões*” → “no livro das *Oitenta e três questões*” — *83 quaestionum* → “Oitenta e três questões” (Key Terms).
+- `pt-BR/translation-journal.md`: “| intelligere / intellectus (= conceito) | inteligir / intelecção | *Intellectus quos significant* → “as intelecções que significam” (g1-c003 [9]). |” → “| intelligere / intellectus (= conceito) | inteligir / intelecção | *Intellectus quos significant* → “as intelecções que significam” (g1-c003 [9]). “Intellectus, no sentido de interpretação de palavras ou de um texto, → entendimento” (g29-c003). |” — As ocorrências de *intellectus* em g29-c003 designam interpretações, não a faculdade nem o conceito; “entendimento” é empregado consistentemente nesse sentido.
+- `pt-BR/translation-journal.md`: “| adaequatio rei et intellectus / adaequari | adequação da coisa e do intelecto / ser adequado, adequar-se | Evitam-se as formas finitas do presente de “adequar” (“é adequado”, “adequar-se”). |” → “| adaequatio rei et intellectus / adaequari | adequação da coisa e do intelecto / ser adequado, adequar-se | Evitam-se as formas finitas do presente de “adequar” (“é adequado”, “adequar-se”). “Adaequari, no sentido de igualdade de grandeza ou perfeição, → igualar-se, igualar” (g29-c003 [13], [29]). |” — Nessas ocorrências trata-se de igualdade de perfeição, não da adequação entre coisa e intelecto; “igualar” é consistente e correto.
+- `pt-BR/translation-journal.md`: “| deleri; deletio; delebiliter / indelebiliter | ser riscado; ato de riscar; de modo que podem ser riscados / indelevelmente | g7-c009, conforme o título do artigo. |” → “| deleri; deletio; delebiliter / indelebiliter | ser riscado; ato de riscar; de modo que podem ser riscados / indelevelmente | g7-c009, conforme o título do artigo. “Deletio, quando se trata da remissão dos pecados, → apagar” (g28-c005 [17], g29-c005 [6]). |” — A tradução distingue corretamente o apagar dos pecados do riscar uma inscrição; acrescenta-se o sentido recorrente à nota.
+- `pt-BR/translation-journal.md`: “| conferre / collativa / comparare | conferir / colativa / comparar | *conferre* e *comparare* distintos em g15-c001 [27]. |” → “| conferre / collativa / comparare | conferir / colativa / comparar | *conferre* e *comparare* distintos em g15-c001 [27]. “Comparare/comparatio, ao expressar a relação de uma coisa com outra, → estar para, relação” (g28-c008 [18], g29-c006 [4]). |” — As ocorrências expressam relações proporcionais, corretamente traduzidas por “estar para” e “relação”, em vez de atos de comparação.
+
+### Part terms 15 of 20, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta das rodadas anteriores conferido: as mudanças estão corretas, exceto duas de “inteligir” em fórmulas explicativas (g28-c008 [30], g28-c009 [39]), revertidas para “entender” conforme o Key Terms.
+- `pt-BR/g28-c008.md` [30]: “deve inteligir-se:” → “deve entender-se:” — *intelligendum est* interpreta a citação *non iustificabit te sine te*; o Key Terms manda “deve-se entender” nesse sentido (fórmula explicativa), não “inteligir”. A mudança da rodada anterior contraria a tabela.
+- `pt-BR/g28-c009.md` [39]: “assim se deve inteligir que” → “assim se deve entender que” — *sic est intelligendum quod* é fórmula explicativa; o Key Terms dá “deve-se entender” para esse uso. Coerente com “não se entende… entende-se” em [25].
+- Rejected: pt-BR/g28-c007.md [34] — “sem que se intelija” poderia ser “entenda” — *non intellecta remissione culpae* não interpreta um texto; é o ato de inteligir. “intelija” é a forma correta do subjuntivo.
+- Rejected: pt-BR/g28-c007.md [28] — regência de “quanto ao ato… e à operação” — “quanto a” rege os dois termos; a construção está correta e traduz *vitationem… et operationem*.
+- Rejected: pt-BR/g28-c009.md [29] — “pensando” vs. “cogitando” para *cogitando* — A tabela tem a linha *cogitare* → “pensar”; ambas as escolhas são defensáveis.
+- Rejected: pt-BR/g28-c006.md [6] — “o fato de que ela é devida” por *debitum respectu gratiae habendae* — Paráfrase fiel: a mancha implica que a graça é devida. Não altera o sentido.
+
+### Part terms 15 of 20, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Conferidas as duas alterações e lidos integralmente os seis parágrafos apresentados e a nota do tradutor; nenhum defeito encontrado.
+- Rejected: pt-BR/g28-c008.md [30]; pt-BR/g28-c009.md [39] — Possível desvio de intelligere → inteligir nas duas alterações para entender. — Ambas interpretam afirmações citadas; entender traduz corretamente o latim e segue a exceção expressa no glossário.
+
+### Part terms 16 of 20, Round 1 (codex, terms read)
+Verdict: 3 meaning-level, 32 minor. 162 parágrafos sinalizados lidos; 35 ocorrências de deriva em 28 parágrafos.
+- `pt-BR/g29-c007.md` [32]: “o mérito de Cristo se relaciona com o nosso prêmio” → “o mérito de Cristo se compara com o nosso prêmio” — *comparatur* → “se compara” (Key Terms); estava “se relaciona”.
+- `pt-BR/g29-c007.md` [33]: “é dado gratuitamente por Deus” → “é conferido gratuitamente por Deus” — *confertur* no sentido de concessão → “é conferido” (Key Terms).
+- `pt-BR/g29-c007.md` [33]: “não se esvazia a razão de graça” → “não se abole a razão de graça” — *evacuatur* → “se abole” (Key Terms); “esvaziar” está autorizado somente em g14-c009 [13].
+- `pt-BR/g29-c008.md` [10]: “a saber, escolher.” → “a saber, eleger.” — *eligere* → “eleger” (Key Terms); estava “escolher”.
+- `pt-BR/g29-c008.md` [20]: “o que pertence à sua noção” → “o que pertence à sua intelecção” — *intellectus* no sentido de conceito → “intelecção” (Key Terms); estava “noção”.
+- `pt-BR/g29-c008.md` [20]: “pertence à noção do outro” → “pertence à intelecção do outro” — *intellectus* no sentido de conceito → “intelecção” (Key Terms); estava “noção”.
+- `pt-BR/g29-c008.md` [28]: “o ato da potência apreensiva” → “o ato da força apreensiva” — *apprehensivae virtutis* → “da força apreensiva” (Key Terms), mantendo a distinção entre *virtus* e *potentia*. *(meaning)*
+- `pt-BR/g3-c001.md` [26]: “*Das 83 questões*” → “*Oitenta e três questões*” — *83 quaestionum* → “Oitenta e três questões” (Key Terms).
+- `pt-BR/g3-c001.md` [33]: “*Das 83 questões*” → “*Oitenta e três questões*” — *83 quaestionum* → “Oitenta e três questões” (Key Terms).
+- `pt-BR/g3-c002.md` [5]: “a bondade, a sabedoria e o poder de Deus” → “a bondade, a sabedoria e a potência de Deus” — *potentia* → “potência” (Key Terms), distinta de *potestas*, “poder”. *(meaning)*
+- `pt-BR/g3-c002.md` [9]: “*Das 83 questões*” → “*Oitenta e três questões*” — *83 quaestionum* → “Oitenta e três questões” (Key Terms).
+- `pt-BR/g3-c002.md` [15]: “*Das 83 questões*” → “*Oitenta e três questões*” — *83 quaestionum* → “Oitenta e três questões” (Key Terms).
+- `pt-BR/g3-c002.md` [15]: “pois é absurdo pensar isso” → “pois é absurdo estimar isso” — *aestimari* → “estimar” (Key Terms); estava “pensar”.
+- `pt-BR/g3-c002.md` [22]: “nada têm em seu significado principal” → “nada têm em sua intelecção principal” — *principali intellectu* → “intelecção principal” (Key Terms, *intellectus* como conceito).
+- `pt-BR/g3-c002.md` [22]: “a ideia tem em seu significado principal” → “a ideia tem em sua intelecção principal” — *principali intellectu* → “intelecção principal” (Key Terms, *intellectus* como conceito).
+- `pt-BR/g3-c003.md` [3]: “*Das 83 questões*” → “*Oitenta e três questões*” — *83 quaestionum* → “Oitenta e três questões” (Key Terms).
+- `pt-BR/g3-c003.md` [18]: “apreender nelas, analisando-as” → “apreender nelas, resolvendo-as” — *resolvendo* → “resolvendo” (Key Terms); estava “analisando-as”.
+- `pt-BR/g3-c004.md` [18]: “é uma verdade que este princípio” → “é algo verdadeiro que este princípio” — *quoddam verum* → “algo verdadeiro” (Key Terms), preservando a distinção lexical entre *verum* e *veritas*.
+- `pt-BR/g3-c004.md` [18]: “é conhecer uma verdade” → “é conhecer algo verdadeiro” — *cognoscere quoddam verum* → “conhecer algo verdadeiro” (Key Terms).
+- `pt-BR/g3-c007.md` [9]: “*Das 83 questões*” → “*Oitenta e três questões*” — *83 quaestionum* → “Oitenta e três questões” (Key Terms).
+- `pt-BR/g3-c008.md` [6]: “pôr multiplicidade na causa” → “pôr multidão na causa” — *multitudinem* → “multidão” (Key Terms); estava “multiplicidade”.
+- `pt-BR/g3-c008.md` [10]: “Quanto ao primeiro, deve-se dizer que” → “Quanto ao primeiro, portanto, deve-se dizer que” — Restaura “portanto” na fórmula *Ad primum ergo dicendum quod* (Key Terms).
+- `pt-BR/g4-c001.md` [8]: “o que se encarnou no tempo” → “o que se encarnou temporalmente” — *ex tempore* → “temporalmente” (Key Terms); estava “no tempo”.
+- `pt-BR/g4-c001.md` [11]: “pelo fato de se intuir” → “pelo fato de se contemplar” — *intuetur* → “contempla” (Key Terms); estava “intuir”.
+- `pt-BR/g4-c001.md` [11]: “senão intuir cogitando” → “senão contemplar cogitando” — *intueri* → “contemplar” (Key Terms); estava “intuir”.
+- `pt-BR/g4-c001.md` [23]: “Quanto ao primeiro, deve-se dizer que” → “Quanto ao primeiro, portanto, deve-se dizer que” — Restaura “portanto” na fórmula *Ad primum ergo dicendum quod* (Key Terms).
+- `pt-BR/g4-c002.md` [4]: “senão intuir cogitando” → “senão contemplar cogitando” — *intueri* → “contemplar” (Key Terms); estava “intuir”.
+- `pt-BR/g4-c002.md` [18]: “*dizer é intuir cogitando*” → “*dizer é contemplar cogitando*” — *intueri* → “contemplar” (Key Terms); estava “intuir”.
+- `pt-BR/g4-c002.md` [18]: “do intuito da cogitação” → “da contemplação da cogitação” — *intuitu cogitationis* designa a contemplação, retomando *intueri*; “intuito” em português sugere intenção ou propósito. *(meaning)*
+- `pt-BR/g4-c003.md` [11]: “costumamos comandar com a palavra” → “costumamos imperar com a palavra” — *imperare* → “imperar” (Key Terms); estava “comandar”.
+- `pt-BR/g4-c004.md` [21]: “a razão não se segue” → “o argumento não procede” — *ratio non sequitur* → “o argumento não procede” (Key Terms).
+- `pt-BR/g4-c005.md` [18]: “os nomes são sinais dos conceitos” → “os nomes são sinais das intelecções” — *intellectuum* no sentido de conceitos → “intelecções” (Key Terms).
+- `pt-BR/g4-c005.md` [21]: “a razão não se segue” → “o argumento não procede” — *ratio non sequitur* → “o argumento não procede” (Key Terms).
+- `pt-BR/g4-c005.md` [23]: “a razão não se segue” → “o argumento não procede” — *ratio non sequitur* → “o argumento não procede” (Key Terms).
+- `pt-BR/g4-c007.md` [7]: “pertence ao poder de quem diz” → “pertence à virtude de quem diz” — *virtutem* no sentido de poder ativo → “virtude” (Key Terms); estava “poder”.
+
+### Part terms 16 of 20, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 3 minor. Delta read das 35 mudanças da Parte 16 e dos parágrafos vizinhos. Revertida g29-c007 [32] (contraria a tabela); corrigida g4-c002 [18] (concordância do pronome e “intuição” conforme a tabela); duas derivas antigas corrigidas em g4-c001 [24] e g3-c003 [18].
+- `pt-BR/g29-c007.md` [32]: “o mérito de Cristo se compara com o nosso prêmio” → “o mérito de Cristo se relaciona com o nosso prêmio” — *comparatur ad* indica relação entre coisas. A tabela dá “comparari ad → referir-se a” e “comparare, quando expressa relação entre coisas → relacionar”. A forma anterior, “se relaciona”, seguia a tabela; “se compara” sugere uma comparação.
+- `pt-BR/g4-c002.md` [18]: “da contemplação da cogitação enquanto por ele procede” → “da intuição da cogitação enquanto por ela procede” — *per ipsum* retoma *intuitu*. Com o substantivo feminino, “por ele” perdeu a concordância e passa a apontar para “dizer”. A tabela fixa *intuitus* → “intuição” (só o verbo *intueri* é “contemplar”), e “intuição” desfaz o sentido de propósito de “intuito”. *(meaning)*
+- `pt-BR/g4-c001.md` [24]: “e por isso a razão não procede” → “e por isso o argumento não procede” — *ratio non procedit*: a tabela dá “o argumento não procede”, como em g4-c004 [21] e g4-c005 [21], [23].
+- `pt-BR/g3-c003.md` [18]: “segundo todas as noções que” → “segundo todas as intenções que” — *intentiones* (intenções lógicas que o intelecto apreende): a tabela dá *intentio* → “intenção”. “Noção” corresponde a *notio*.
+- Rejected: pt-BR/g29-c007.md [33] — “por isso, com isso” repete o pronome. — Verte *unde per hoc* literalmente. A frase é gramatical e o sentido está correto.
+- Rejected: pt-BR/g4-c005.md [21], [23] — “aquela razão vale/procede” ao lado de “o argumento não procede”. — A tabela só fixa a fórmula *ratio non sequitur*. Para *ratio illa tenet/procedit* nesta questão, “razão” é uma escolha defensável.
+- Rejected: pt-BR/g29-c008.md [20] — *intelligit* vertido por “entende”, e não por “intelige”. — A escolha é anterior a este round e não muda o sentido. O verbo se repete ao longo do parágrafo, que é coerente consigo mesmo.
+
+### Part terms 16 of 20, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 2 minor. Conferidas as quatro alterações e lidos os 12 parágrafos e as quatro notas apresentados: alterações corretas; encontrados dois defeitos menores adicionais.
+- `pt-BR/g3-c003.md` [17]: “no livro 3 *Sobre a alma*” → “no livro 3 de *Sobre a alma*” — Falta a preposição que liga o livro à obra; a tabela registra “no livro 3 de Sobre a alma”.
+- `pt-BR/g4-c001.md` [25]: “a razão não se seguiria” → “o argumento não procederia” — Ratio non sequeretur é a forma condicional da fórmula ratio non sequitur, fixada na tabela como “o argumento não procede”.
+- Rejected: pt-BR/g4-c002.md [18] — “Intuição” poderia parecer incoerente com “contemplar” na citação anterior. — A tabela distingue expressamente o substantivo intuitus, “intuição”, do verbo intueri, “contemplar”; a alteração também corrige a concordância de “por ela”.
+
+### Part terms 16 of 20, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of the two changes in g3-c003 [17] and g4-c001 [25], with the neighbouring paragraphs [16], [18], [24], [26] and the four notes of g4-c001: both changes are correct and nothing new was found.
+- Rejected: pt-BR/g4-c001.md [25] — “pode assim chamar-se meio” after “de modo que”, where *possit* might call for the subjunctive “possa”. — The consecutive clause with the indicative is grammatical and the sense is the same, so this is not a defect.
+- Rejected: pt-BR/g4-c001.md [^4] — In “o latim transcreve-o como *ethin*”, the pronoun could be read as referring to *theós*. — The nearest antecedent is *aíthein*, and the transcription *ethin* matches it, so the note reads correctly in context.
+
+### Part terms 17 of 20, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 32 minor. 156 parágrafos sinalizados lidos; deriva em 25 deles, com 33 correções.
+- `pt-BR/g5-c001.md` [10]: “e assim se volta ao mesmo que antes” → “e assim conclui-se o mesmo que antes” — *et sic idem quod prius* → “e assim conclui-se o mesmo que antes” (Key Terms).
+- `pt-BR/g5-c002.md` [3]: “nem conhecer de antemão,” → “nem conhecer previamente,” — *praecognoscere* → “conhecer previamente” (Key Terms).
+- `pt-BR/g5-c002.md` [7]: “e assim se volta ao mesmo que antes” → “e assim conclui-se o mesmo que antes” — *et sic idem quod prius* → “e assim conclui-se o mesmo que antes” (Key Terms).
+- `pt-BR/g5-c002.md` [18]: “filósofos foram até forçados a pôr” → “filósofos foram até coagidos a pôr” — *cogere* → “coagir” (Key Terms); estava “forçar”.
+- `pt-BR/g5-c002.md` [24]: “a comparação de Dionísio” → “a semelhança de Dionísio” — *similitudo* → “semelhança” (Key Terms); estava “comparação”.
+- `pt-BR/g5-c005.md` [18]: “a quem considera a virtude da arte” → “a quem contempla a virtude da arte” — *intueri* → “contemplar” (Key Terms); estava “considerar”.
+- `pt-BR/g5-c006.md` [11]: “o profeta se espanta à ideia de que” → “o profeta se admira de que” — *admiratur* → “se admira”, mantendo o vínculo com “admiração” (Key Terms).
+- `pt-BR/g5-c008.md` [4]: “as criaturas corpóreas sem intermediário” → “as criaturas corpóreas sem meio” — *sine medio* → “sem meio” (Key Terms); estava “sem intermediário”.
+- `pt-BR/g5-c008.md` [13]: “se mostrasse mais o seu poder” → “se mostrasse mais a sua potência” — *potentia* → “potência” (Key Terms); estava “poder”.
+- `pt-BR/g5-c009.md` [23]: “ao que é intermediário da providência” → “ao que é meio da providência” — *medium* → “meio” (Key Terms); estava “intermediário”.
+- `pt-BR/g5-c009.md` [23]: “não podem ser intermediários na provisão” → “não podem ser meios na provisão” — *medium* → “meio” (Key Terms); estava “intermediários”.
+- `pt-BR/g5-c009.md` [36]: “essa posição é insensata” → “essa posição é estulta” — *stulta* → “estulta”, flexão de “estultos” (Key Terms); estava “insensata”.
+- `pt-BR/g5-c009.md` [40]: “as incoações das formas” → “os começos das formas” — *inchoatio* → “começo” (Key Terms); estava “incoações”.
+- `pt-BR/g5-c009.md` [41]: “todo agente tende a assemelhar” → “todo agente intenta assemelhar” — *intendere* → “intentar” (Key Terms); estava “tender”.
+- `pt-BR/g5-c009.md` [41]: “tende sempre a conduzir o concebido” → “intenta sempre conduzir o concebido” — *intendere* → “intentar” (Key Terms); estava “tender”.
+- `pt-BR/g5-c009.md` [41]: “alguma virtude que tendesse ao sexo feminino” → “alguma virtude que intentasse o sexo feminino” — *intendere* → “intentar” (Key Terms); estava “tender”.
+- `pt-BR/g5-c009.md` [49]: “é recebida no intermediário ao modo do intermediário” → “é recebida no meio ao modo do meio” — *medium* → “meio” (Key Terms), aqui como veículo que recebe a ação.
+- `pt-BR/g5-c009.md` [49]: “é recebida no intermediário de modo diverso” → “é recebida no meio de modo diverso” — *medium* → “meio” (Key Terms); estava “intermediário”.
+- `pt-BR/g5-c010.md` [13]: “as ações do intelecto e da vontade, falando por si,” → “as ações do intelecto e da vontade, propriamente falando,” — *per se loquendo* → “propriamente falando” (Key Terms); “falando por si” atribui outro sentido à expressão. *(meaning)*
+- `pt-BR/g5-c010.md` [17]: “pela mudança do corpo” → “pela mutação do corpo” — *mutatio* → “mutação” (Key Terms); estava “mudança”.
+- `pt-BR/g5-c010.md` [17]: “o argumento não conclui” → “o argumento não procede” — *ratio non sequitur* → “o argumento não procede” (Key Terms).
+- `pt-BR/g5-c010.md` [21]: “a multidão, na maior parte dos casos,” → “a multidão, na maioria dos casos,” — *ut in pluribus* → “na maioria dos casos” (Key Terms).
+- `pt-BR/g6-c001.md` [24]: “examina o desfecho futuro” → “examina o evento futuro” — *eventus* → “evento” (Key Terms); “desfecho” corresponde a *exitus*.
+- `pt-BR/g6-c001.md` [25]: “a própria ordem e o êxito ou desfecho da ordem” → “a própria ordem e o desfecho ou evento da ordem” — *exitus vel eventus* → “desfecho ou evento” (Key Terms).
+- `pt-BR/g6-c001.md` [25]: “a predestinação considera também o êxito ou desfecho da ordem” → “a predestinação considera também o desfecho ou evento da ordem” — *exitus vel eventus* → “desfecho ou evento” (Key Terms).
+- `pt-BR/g6-c001.md` [25]: “a predestinação está para o êxito ou desfecho da ordem” → “a predestinação está para o desfecho ou evento da ordem” — *exitus vel eventus* → “desfecho ou evento” (Key Terms).
+- `pt-BR/g6-c002.md` [5]: “o apetecível conhecido move a vontade” → “o apetecível sabido move a vontade” — *scitum* → “sabido” (Key Terms); estava “conhecido”.
+- `pt-BR/g6-c002.md` [22]: “nenhum homem pode não querer ser feliz” → “nenhum homem pode não querer ser bem-aventurado” — *beatus* → “bem-aventurado” (Key Terms), aqui acerca do fim último da vontade.
+- `pt-BR/g6-c002.md` [25]: “Deve-se, pois, escolher a via média” → “Deve-se, pois, eleger a via média” — *eligere* → “eleger” (Key Terms); estava “escolher”.
+- `pt-BR/g6-c002.md` [31]: “o argumento não conclui” → “o argumento não procede” — *ratio non sequitur* → “o argumento não procede” (Key Terms).
+- `pt-BR/g6-c003.md` [19]: “mas julga dela tal como ela é” → “mas estima dela tal como ela é” — *aestimare* → “estimar” (Key Terms); estava “julgar”.
+- `pt-BR/g6-c003.md` [19]: “o juízo certo sobre uma coisa” → “a estimação certa sobre uma coisa” — *aestimatio* → “estimação” (Key Terms); estava “juízo”.
+- `pt-BR/g6-c003.md` [22]: “da presciência do desfecho” → “da presciência do evento” — *eventus* → “evento” (Key Terms); estava “desfecho”.
+
+### Part terms 17 of 20, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 3 minor. Delta read of 33 changes in g5-c001 through g6-c003: one change reverted to the question's own Key Terms row (incoações), one regency slip fixed (estima dela), one journal row updated to the current text.
+- `pt-BR/g5-c009.md` [40]: “os começos das formas” → “as incoações das formas” — inchoationes formarum: the specific Key Terms row for this question (rationes seminales; inchoationes formarum → incoações das formas, g5-c008 [30], g5-c009 [40]) takes precedence over the general row from g14; the previous change also broke consistency with g5-c008 [30]
+- `pt-BR/g6-c003.md` [19]: “mas estima dela tal como ela é” → “mas a estima tal como ela é” — aestimat de ea sicut est; “estimar” is transitive, and “estimar de” is not standard regency
+- `pt-BR/translation-journal.md`: “| exitus vel eventus (ordinis) | êxito ou desfecho (da ordem) | g6-c001 [25]. |” → “| exitus vel eventus (ordinis) | desfecho ou evento (da ordem) | g6-c001 [25]. |” — the text of g6-c001 [25] now reads “desfecho ou evento”, matching the row exitus / eventus → desfecho / evento; this row made a false claim
+- Rejected: pt-BR/g5-c009.md [22], [48] — medium still rendered as “intermediário” beside “meio” in [23] and [49] — “por meio de um intermediário” is correct and clear Portuguese for per medium; these paragraphs were not changed, and the wording does not alter the sense
+- Rejected: pt-BR/g5-c010.md [13] — audit: emphasis markers and parentheses differ — the source's aside *—*…*—* is rendered as a parenthetical, as in g6-c002 [24] and g6-c003 [20]; nothing is lost
+- Rejected: pt-BR/g5-c001.md [10]; g5-c002.md [7] — “e assim conclui-se” with enclisis after “assim” — this is the form stated in the Key Terms row; it is a choice of register, not a defect
+
+### Part terms 17 of 20, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as três correções e lidos integralmente os seis parágrafos exibidos e as cinco notas do tradutor; nenhum novo defeito encontrado.
+
+### Part terms 18 of 20, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 38 minor. 162 parágrafos sinalizados lidos; 31 apresentam deriva terminológica; uma linha do glossário ampliada.
+- `pt-BR/g6-c003.md` [29]: “compatível com esse desfecho” → “compatível com esse evento” — *eventus* → “evento” (Key Terms); estava “desfecho”.
+- `pt-BR/g6-c004.md` [28]: “não mostra mudança alguma nele” → “não mostra mutação alguma nele” — *mutatio* → “mutação” (Key Terms).
+- `pt-BR/g6-c004.md` [29]: “procedem da potência absoluta” → “procedem do poder absoluto” — *potentia absoluta* → “poder absoluto” (Key Terms).
+- `pt-BR/g6-c006.md` [12]: “isso não pode ser verdade” → “isso não pode ser verdadeiro” — *verum* → “verdadeiro” (Key Terms); distingue-se de *veritas*.
+- `pt-BR/g7-c001.md` [8]: “certa diferença de razão” → “certa diferença segundo a razão” — *secundum rationem* → “segundo a razão” (Key Terms).
+- `pt-BR/g7-c001.md` [12]: “a escrita requer alguma variedade” → “a escrita requer alguma não uniformidade” — *difformitas* → “não uniformidade” (Key Terms).
+- `pt-BR/g7-c001.md` [13]: “onde se encontra alguma variedade” → “onde se encontra alguma não uniformidade” — *difformitas* → “não uniformidade” (Key Terms); contraposta à uniformidade da folha não escrita.
+- `pt-BR/translation-journal.md`: “| doctrina / disciplina | ensino / aprendizagem | *doctrina salutis* → “doutrina da salvação”; *doctrina Aristotilis* → “doutrina de Aristóteles”. |” → “| doctrina / disciplina | ensino / aprendizagem | *doctrina salutis* → “doutrina da salvação”; *doctrina Aristotilis* → “doutrina de Aristóteles”. Também “doutrina” para o conteúdo do ensinamento: *doctrina de vita consequenda* → “doutrina acerca do modo de alcançar a vida”; *doctrina Apostoli* → “doutrina do Apóstolo”. |” — As ocorrências em g7-c001 [22] e g7-c004 [8] empregam corretamente “doutrina” para o conteúdo ensinado; a nota só previa dois exemplos desse sentido.
+- `pt-BR/g7-c001.md` [22]: “o sentido do aprendizado” → “o sentido da aprendizagem” — *disciplinalis*, derivado de *disciplina*, conserva aqui o sentido de “aprendizagem” (Key Terms).
+- `pt-BR/g7-c001.md` [36]: “são sinais dos conceitos” → “são sinais das intelecções” — *intellectus* no sentido de conceito → “intelecção” (Key Terms).
+- `pt-BR/g7-c002.md` [16]: “mas isto não é verdade” → “mas isto não é verdadeiro” — *verum* → “verdadeiro” (Key Terms).
+- `pt-BR/g7-c002.md` [16]: “o argumento não conclui” → “o argumento não procede” — *ratio non sequitur* → “o argumento não procede” (Key Terms).
+- `pt-BR/g7-c003.md` [7]: “Cristo, poder de Deus” → “Cristo, virtude de Deus” — *virtus* no sentido de poder → “virtude” (Key Terms).
+- `pt-BR/g7-c004.md` [10]: “notas das afecções da alma” → “notas das paixões da alma” — *passiones* no sentido de afecções recebidas → “paixões” (Key Terms).
+- `pt-BR/g7-c005.md` [12]: “segundo o modo de entender” → “segundo o modo de inteligir” — *intelligere* → “inteligir” (Key Terms); trata-se do modo da operação intelectual.
+- `pt-BR/g7-c006.md` [19]: “mas acidentalmente a vida da natureza” → “mas por acidente a vida da natureza” — *per accidens* → “por acidente” (Key Terms).
+- `pt-BR/g7-c008.md` [7]: “a saber, a ciência de simples conhecimento” → “a saber, a ciência de simples notícia” — *scientia simplicis notitiae* → “ciência de simples notícia” (Key Terms).
+- `pt-BR/g7-c008.md` [7]: “A ciência de simples conhecimento é comum” → “A ciência de simples notícia é comum” — *scientia simplicis notitiae* → “ciência de simples notícia” (Key Terms).
+- `pt-BR/g7-c008.md` [8]: “Por elas, consideradas em si mesmas, alguém se ordena absolutamente à morte” → “Por elas, propriamente falando, alguém se ordena absolutamente à morte” — *per se loquendo* → “propriamente falando” (Key Terms).
+- `pt-BR/g7-c009.md` [10]: “nem mesmo os previstos” → “nem mesmo os conhecidos de antemão” — *praescire* → “conhecer de antemão” (Key Terms).
+- `pt-BR/g7-c009.md` [13]: “uma vez que Deus previu” → “uma vez que Deus conheceu de antemão” — *praescire* → “conhecer de antemão” (Key Terms).
+- `pt-BR/g7-c009.md` [15]: “à mudança da predestinação” → “à mutação da predestinação” — *mutatio* → “mutação” (Key Terms).
+- `pt-BR/g7-c009.md` [15]: “à mudança do livro da vida” → “à mutação do livro da vida” — *mutatio* → “mutação” (Key Terms).
+- `pt-BR/g7-c009.md` [29]: “ao poder humano, mas ao divino” → “à potência humana, mas à divina” — *potentia* → “potência” (Key Terms), mantendo a elipse na segunda ocorrência.
+- `pt-BR/g7-c009.md` [29]: “ao poder do homem, mas só ao divino” → “à potência do homem, mas só à divina” — *potentia* → “potência” (Key Terms), mantendo a elipse na segunda ocorrência.
+- `pt-BR/g7-c009.md` [32]: “pertencer a uma mudança do livro da vida” → “pertencer a uma mutação do livro da vida” — *mutatio* → “mutação” (Key Terms).
+- `pt-BR/g7-c009.md` [33]: “não por mudança deste, mas por mudança sua” → “não por mutação deste, mas por mutação sua” — *mutatio* → “mutação” (Key Terms); a segunda ocorrência está elíptica no latim.
+- `pt-BR/g7-c009.md` [34]: “só por sua própria mudança” → “só por sua própria mutação” — *mutatio* → “mutação” (Key Terms).
+- `pt-BR/g7-c009.md` [34]: “um homem, por sua própria mudança” → “um homem, por sua própria mutação” — *mutatio* → “mutação” (Key Terms).
+- `pt-BR/g7-c009.md` [35]: “à variação do que é sabido” → “à variação do cognoscível” — *scibile* → “cognoscível” (Key Terms); “sabido” corresponde a *scitum*.
+- `pt-BR/g7-c009.md` [35]: “Deus previu algumas coisas que agora não prevê” → “Deus conheceu de antemão algumas coisas que agora não conhece de antemão” — *praescire* → “conhecer de antemão” (Key Terms), nas duas ocorrências.
+- `pt-BR/g8-c001.md` [31]: “a que podemos chegar na via” → “a que podemos chegar na vida presente” — *in via* → “na vida presente” (Key Terms).
+- `pt-BR/g8-c003.md` [48]: “movimento da potência cognoscitiva” → “movimento da virtude cognoscitiva” — *virtus cognitiva* → “virtude cognoscitiva” (Key Terms).
+- `pt-BR/g8-c004.md` [22]: “Em sentido contrário, há o que se diz” → “Mas em sentido contrário está o que se diz” — *Sed contra est quod* → “Mas em sentido contrário está o que”, conforme as fórmulas registradas nos Key Terms.
+- `pt-BR/g8-c004.md` [30]: “com ciência de simples conhecimento” → “com ciência de simples notícia” — *scientia simplicis notitiae* → “ciência de simples notícia” (Key Terms).
+- `pt-BR/g8-c004.md` [51]: “porque concluem a verdade” → “porque concluem o verdadeiro” — *verum* → “o verdadeiro” (Key Terms); distingue-se de *veritas*.
+- `pt-BR/g8-c005.md` [7]: “não é lícito ao homem dizer” → “não é lícito ao homem falar” — *loqui* → “falar” (Key Terms).
+- `pt-BR/g8-c006.md` [12]: “por si mesmo mediante sua essência” → “por si mesmo por sua essência” — *per essentiam suam* → “por sua essência” (Key Terms).
+
+### Part terms 18 of 20, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 5 minor. Delta read das 38 mudanças da rodada 1 e dos parágrafos vizinhos. Quatro reversões (g7-c001 [12] e [13], g7-c003 [7], g8-c001 [31]), porque contradiziam linhas ou decisões do diário para esses lugares, e uma correção na linha de *scientia simplicis notitiae*.
+- `pt-BR/g7-c001.md` [12]: “a escrita requer alguma não uniformidade” → “a escrita requer alguma variedade” — A linha dos Key Terms “difformitas / uniformitas | variedade / uniformidade | g7-c001 [12], [13]” e a decisão “*difformitas* → “variedade”” fixam “variedade” aqui. A linha “não uniformidade” vale só para g8-c015. A correção anterior contradiz o diário.
+- `pt-BR/g7-c001.md` [13]: “onde se encontra alguma não uniformidade” → “onde se encontra alguma variedade” — Mesmo motivo: a linha dos Key Terms para g7-c001 [12], [13] fixa *difformitas* → “variedade”.
+- `pt-BR/g7-c003.md` [7]: “Cristo, virtude de Deus” → “Cristo, poder de Deus” — A decisão do diário fixa “*virtus* em 1 Coríntios 1:24 (g7-c003 [7]) → “poder””. A correção anterior a contradiz.
+- `pt-BR/g8-c001.md` [31]: “a que podemos chegar na vida presente” → “a que podemos chegar na via” — A linha “via; viator; patria | via; viador; pátria | g8-c001 [31]” fixa “via” neste lugar. O mesmo parágrafo diz “visão da via” e a nota [^2] explica *via*; “na vida presente” rompe essa ligação.
+- `pt-BR/translation-journal.md`: “| scientia simplicis notitiae / approbationis | ciência de simples conhecimento / de aprovação | g7-c008 [7]. |” → “| scientia simplicis notitiae / approbationis | ciência de simples notícia / de aprovação | g7-c008 [7]. |” — Após a rodada anterior, g7-c008 [7] e g8-c004 [30] trazem “ciência de simples notícia”, como as linhas de g2-c009 e g3. A forma registrada nesta linha não ocorre mais.
+- Rejected: pt-BR/g8-c004.md [22] — “Mas em sentido contrário está o que se diz” difere da linha de g8 “Em sentido contrário”. — O diário registra várias formas aceitas para *Sed contra est quod*; esta é uma delas e é a única no arquivo.
+- Rejected: pt-BR/g8-c003.md [48] — *virtus cognitiva* → “virtude cognoscitiva” em vez de “força”. — A linha “vis / virtus cognitiva | faculdade / virtude cognoscitiva” a admite. É preferível à forma anterior, “potência”, que confundia o termo com *potentia*.
+- Rejected: pt-BR/g7-c001.md [9] — “segundo a razão somente” e, depois, “somente de razão” no mesmo parágrafo. — Variação de estilo sem perda de sentido; não foi tocada pela rodada anterior.
+
+### Part terms 18 of 20, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as cinco correções da rodada 2 e lidos integralmente os dez parágrafos apresentados, com as notas do tradutor; nenhum defeito objetivo encontrado.
+
+### Part terms 19 of 20, Round 1 (codex, terms read)
+Verdict: 8 meaning-level, 30 minor. 169 parágrafos sinalizados lidos; 38 ocorrências com desvio em 34 parágrafos.
+- `pt-BR/g8-c007.md` [3]: “conheceriam a sua ordenação” → “saberiam a sua ordenação” — *scirent* → “saberiam” (Key Terms); estava “conheceriam”.
+- `pt-BR/g8-c007.md` [32]: “a quem examina as suas afirmações” → “a quem contempla as suas afirmações” — *intuenti* → “contempla” (Key Terms); estava “examina”.
+- `pt-BR/g8-c007.md` [36]: “deve-se escolher outro modo” → “deve-se eleger outro modo” — *eligendus* → “eleger” (Key Terms); estava “escolher”.
+- `pt-BR/g8-c008.md` [13]: “Em sentido contrário, está o que” → “Mas, em sentido contrário, está o que” — *Sed contra est quod* → “Mas, em sentido contrário, está o que” (Key Terms); faltava “Mas”.
+- `pt-BR/g8-c008.md` [18]: “a forma da arte procede para a obra” → “a forma da arte procede para o artefato” — *artificiatum* → “artefato” (Key Terms); estava “obra”.
+- `pt-BR/g8-c008.md` [28]: “ou naturalmente infundidas” → “ou naturalmente postas nele” — *inditae* → “postas” (Key Terms); “infundidas” corresponde a *infusae*, termo distinguido pelo glossário. *(meaning)*
+- `pt-BR/g8-c009.md` [18]: “as formas das coisas infundidas em si” → “as formas das coisas postas em si” — *inditas* → “postas” (Key Terms); estava “infundidas”, correspondente a *infusae*. *(meaning)*
+- `pt-BR/g8-c009.md` [19]: “o mistério da Encarnação foi conhecido pelos anjos” → “o mistério da Encarnação foi sabido pelos anjos” — *scitum* → “sabido” (Key Terms); estava “conhecido”.
+- `pt-BR/g8-c009.md` [20]: “sem que se faça nele mudança alguma” → “sem que se faça nele mutação alguma” — *mutatione* → “mutação” (Key Terms); estava “mudança”.
+- `pt-BR/g8-c009.md` [23]: “produzimos as obras de arte” → “produzimos os artefatos” — *artificiata* → “artefatos” (Key Terms); “obras de arte” restringe indevidamente os produtos da arte ou técnica. *(meaning)*
+- `pt-BR/g8-c011.md` [24]: “infundidas neles desde a criação” → “postas neles desde a criação” — *inditas* → “postas” (Key Terms); estava “infundidas”, correspondente a *infusae*. *(meaning)*
+- `pt-BR/g8-c011.md` [25]: “o artífice não tem da obra senão um conhecimento universal, e adquire o conhecimento dela” → “o artífice não tem do artefato senão um conhecimento universal, e adquire o conhecimento dele” — *artificiato* → “artefato” (Key Terms); estava “obra”; ajustado o pronome.
+- `pt-BR/g8-c011.md` [25]: “se conheceria a obra não só” → “se conheceria o artefato não só” — *res artificiata* → “artefato” (Key Terms); estava “obra”.
+- `pt-BR/g8-c011.md` [38]: “formas infundidas em si desde a criação” → “formas postas em si desde a criação” — *inditas* → “postas” (Key Terms); estava “infundidas”, correspondente a *infusae*. *(meaning)*
+- `pt-BR/g8-c012.md` [4]: “Deus pode prever infalivelmente” → “Deus pode conhecer de antemão infalivelmente” — *praescire* → “conhecer de antemão” (Key Terms); estava “prever”.
+- `pt-BR/g8-c012.md` [17]: “só podem prever aquelas coisas futuras” → “só podem conhecer de antemão aquelas coisas futuras” — *praescire* → “conhecer de antemão” (Key Terms); estava “prever”.
+- `pt-BR/g8-c012.md` [26]: “não podia prever os futuros contingentes” → “não podia conhecer de antemão os futuros contingentes” — *praescire* → “conhecer de antemão” (Key Terms); estava “prever”.
+- `pt-BR/g8-c013.md` [10]: “procede a intelecção atual” → “procede a inteligência atual” — *intelligentia actualis* → “inteligência atual” (Key Terms); estava “intelecção atual”.
+- `pt-BR/g8-c013.md` [12]: “que perscruta os corações” → “que escruta os corações” — *scrutans* → “escruta” (Key Terms); “perscrutar” corresponde a *perscrutari*.
+- `pt-BR/g8-c013.md` [13]: “pelas formas que lhe foram infundidas” → “pelas formas que nele foram postas” — *formas sibi inditas* → “formas nele postas” (Key Terms); estava “infundidas”, correspondente a *infusae*. *(meaning)*
+- `pt-BR/g8-c013.md` [14]: “essa mudança das disposições” → “essa mutação das disposições” — *mutationem* → “mutação” (Key Terms); estava “mudança”.
+- `pt-BR/g8-c016.md` [12]: “*Mas contra isso*,” → “*Mas em sentido contrário*,” — *Sed contra* → “Mas em sentido contrário” (Key Terms); preservado o itálico da fonte.
+- `pt-BR/g8-c016.md` [19]: “pelas formas que lhe foram infundidas” → “pelas formas que nele foram postas” — *formas sibi inditas* → “formas nele postas” (Key Terms); estava “infundidas”, correspondente a *infusae*. *(meaning)*
+- `pt-BR/g8-c016.md` [29]: “quanto à estima das coisas” → “quanto à estimação das coisas” — *aestimationem* → “estimação” (Key Terms); estava “estima”.
+- `pt-BR/g8-c017.md` [13]: “o conhecimento da obra de arte na arte é dela segundo o seu fazer-se” → “o conhecimento do artefato na arte é dele segundo o seu fazer-se” — *artificiati* → “artefato” (Key Terms); “obra de arte” restringe o sentido; ajustado o pronome. *(meaning)*
+- `pt-BR/g8-c017.md` [13]: “a própria obra já esteja feita” → “o próprio artefato já esteja feito” — *ipsum artificiatum* → “o próprio artefato” (Key Terms); estava “a própria obra”.
+- `pt-BR/g9-c001.md` [5]: “por um lume que o excede grandemente” → “por um lume superexcedente” — *lumine superexcedenti* → “lume superexcedente” (Key Terms); estava parafraseado.
+- `pt-BR/g9-c001.md` [10]: “a nossa visão, tanto a corporal como a intelectual” → “a nossa vista, tanto a corporal como a intelectual” — *visus* → “vista” (Key Terms); estava “visão”.
+- `pt-BR/g9-c001.md` [16]: “algum homem no estado de viador” → “algum homem no estado de via” — *in statu viae* → “no estado de via” (Key Terms); estava “no estado de viador”.
+- `pt-BR/g9-c001.md` [16]: “o homem existente no estado de viador” → “o homem existente no estado de via” — *in statu viae* → “no estado de via” (Key Terms); estava “no estado de viador”.
+- `pt-BR/g9-c001.md` [29]: “pelo fato de um olhar o outro” → “pelo fato de um contemplar o outro” — *intuetur* → “contemplar” (Key Terms); estava “olhar”.
+- `pt-BR/g9-c001.md` [39]: “o homem no estado de viador” → “o homem no estado de via” — *in statu viae* → “no estado de via” (Key Terms); estava “no estado de viador”.
+- `pt-BR/g9-c002.md` [11]: “Alguns, com efeito, julgam” → “Alguns, com efeito, estimam” — *aestimant* → “estimam” (Key Terms); estava “julgam”.
+- `pt-BR/g9-c002.md` [11]: “Outros, porém, julgam” → “Outros, porém, estimam” — *aestimant* → “estimam” (Key Terms); estava “julgam”.
+- `pt-BR/g9-c003.md` [5]: “*Mas contra isso*:” → “*Mas em sentido contrário*:” — *Sed contra* → “Mas em sentido contrário” (Key Terms); preservado o itálico da fonte.
+- `pt-BR/g9-c003.md` [8]: “*Mas contra isso*:” → “*Mas em sentido contrário*:” — *Sed contra* → “Mas em sentido contrário” (Key Terms); preservado o itálico da fonte.
+- `pt-BR/g9-c003.md` [12]: “Em qualquer geração ou mudança” → “Em qualquer geração ou mutação” — *mutatione* → “mutação” (Key Terms); estava “mudança”.
+- `pt-BR/g9-c003.md` [14]: “pela ciência de doutrinas luminosas” → “pela ciência de ensinos luminosos” — *doctrinarum* → “ensinos” (Key Terms); estava “doutrinas”, variante não prevista para esta ocorrência.
+
+### Part terms 19 of 20, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 3 minor. Delta da parte 19: as 38 alterações conferem com a fonte e não quebram os parágrafos vizinhos; corrigidas três afirmações do diário que elas tornaram falsas.
+- `pt-BR/translation-journal.md`: “- g8-c016 [12]: o *Sed contra* que replica, dentro da série de objeções, à resposta suposta em [11] → “*Mas contra isso*”, para não se confundir com o “em sentido contrário” do artigo.” → “- g8-c016 [12]: o *Sed contra* que replica, dentro da série de objeções, à resposta suposta em [11] → “*Mas em sentido contrário*”, em itálico como na fonte.” — O texto de g8-c016 [12] traz agora “*Mas em sentido contrário*”; a decisão registrada deixou de ser verdadeira.
+- `pt-BR/translation-journal.md`: “- g9-c003 [5], [8]: *Sed contra* que replica dentro das objeções → “*Mas contra isso*”, conforme a decisão de g8-c016 [12].” → “- g9-c003 [5], [8]: *Sed contra* que replica dentro das objeções → “*Mas em sentido contrário*”, conforme a decisão de g8-c016 [12].” — g9-c003 [5] e [8] trazem agora “*Mas em sentido contrário*”; o diário afirmava outra forma.
+- `pt-BR/translation-journal.md`: “| status viae; patria | estado de viador; pátria | g9-c001 [16], [39]; g9-c004 [3]. |” → “| status viae; patria | estado de via; pátria | g9-c001 [16], [39]. |” — g9-c001 [16] e [39] dizem agora “no estado de via”, como a linha geral *in statu viae*. A localização em g9-c004 [3] foi retirada porque esse trecho não foi mostrado e não pode ser confirmado.
+- Rejected: pt-BR/g8-c016.md [12], pt-BR/g9-c003.md [5], [8] — A mudança de “*Mas contra isso*” para “*Mas em sentido contrário*” contraria uma decisão do diário. — As duas formas são defensáveis e a nova segue as linhas de Key Terms próximas (g8–g9). Basta acertar o diário, sem reverter o texto.
+- Rejected: pt-BR/g8-c012.md [4] — “pode conhecer de antemão infalivelmente” soa pesado. — Segue a linha *praescire* → “conhecer de antemão” e está gramaticalmente correto.
+
+### Part terms 19 of 20, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Conferidas as três alterações do diário com os registros fornecidos; nenhum defeito encontrado. Nenhum parágrafo de capítulo foi apresentado nesta rodada.
+
+### Part terms 20 of 20, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 2 minor. 25 parágrafos sinalizados examinados; 1 desvio vocabular e 1 complemento de glossário.
+- `pt-BR/g9-c004.md` [20]: “suas vontades, desígnios e intelecções” → “suas vontades, conselhos e intelecções” — *consilia* → “conselhos” (Key Terms); estava “desígnios”.
+- `pt-BR/translation-journal.md`: “| intellectus / ratio / intelligentia / mens | intelecto / razão / inteligência / mente | |” → “| intellectus / ratio / intelligentia / mens | intelecto / razão / inteligência / mente | “Intelligentia”, quando designa um ato ou conteúdo de intelecção comunicado, admite “intelecção”, como em “intelligentias” → “intelecções” (g9-c004 [20]). |” — Nesse trecho, *intelligentias* designa intelecções comunicadas pelos anjos; a linha precisava distinguir esse sentido daquele de inteligência como faculdade.
+
+### Part terms 20 of 20, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read de g9-c004 [19]–[21] e da linha do diário: as duas correções conferem com o latim e os parágrafos estão íntegros.
+- Rejected: pt-BR/g9-c004.md [20] — “Damasceno” sem artigo, quando algumas linhas da tabela dão “o Damasceno” — A tabela tem as duas formas (“Damascenus / Anselmus / Isaac / Avicenna | Damasceno / …”), e a falta do artigo não muda o sentido. Não é defeito.
+- Rejected: pt-BR/g9-c004.md [20] — *consilia* → “conselhos” contra a linha “sententia; consilium (divinum) | sentença; desígnio” — Essa linha vale só para o desígnio divino (g6). Aqui se trata dos conselhos que os anjos comunicam entre si, e a linha “consilium / consiliari | conselho” se aplica. A correção está certa.

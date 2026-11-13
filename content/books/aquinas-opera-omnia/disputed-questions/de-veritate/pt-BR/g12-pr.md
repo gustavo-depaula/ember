@@ -4,7 +4,7 @@
 
 ***Primeiro, se a profecia é hábito ou ato.***
 
-- Segundo, se a profecia versa sobre conclusões que se podem saber.
+- Segundo, se a profecia versa sobre conclusões cognoscíveis.
 - Terceiro, se a profecia é natural.
 - Quarto, se para ter a profecia se requer uma disposição natural.
 - Quinto, se para a profecia se requer a bondade dos costumes.
