@@ -32,7 +32,7 @@ Destino: pt-BR.
 | Severianus | Severiano | Mantido o nome latino, embora a referência inglesa atribua o trecho a Crisólogo. |
 | Glossa | Glosa | Rótulo de atribuição, sem acrescentar qualificações da referência inglesa. |
 | Verbum Dei | Verbo de Deus | |
-| sapientia / fides / confessio | sabedoria / fé / confissão | “Confissão” também designa a profissão de fé. |
+| sapientia / fides / confessio | sabedoria / fé / confissão | “Confissão” também designa a profissão de fé. Fora do sentido de fé religiosa, *fides* também pode significar “fidelidade”, “confiança” ou “crédito”, conforme o contexto. |
 | sensus litteralis / mysticus / moraliter | sentido literal / sentido místico / no sentido moral | |
 | deitas / divinitas | deidade / divindade | Distinção adotada no Comentário ao livro Dos Nomes Divinos de Dionísio. |
 | munditia / immunditia | pureza / impureza | Convenção do Comentário ao livro Dos Nomes Divinos de Dionísio. |
@@ -42,7 +42,7 @@ Destino: pt-BR.
 | puer / servus | servo / servo | No episódio do centurião, o contexto identifica o *puer* como servo. |
 | centurio | centurião | |
 | regnum caelorum / tenebrae exteriores | reino dos céus / trevas exteriores | |
-| Abraham / Isaac / Iacob | Abraão / Isaac / Jacó | |
+| Abraham / Isaac / Iacob | Abraão / Isaac / Jacó | Quando designa o apóstolo, *Iacobus* é “Tiago”. |
 | Moyses / Isaias / Iob / Ionas | Moisés / Isaías / Jó / Jonas | |
 | Naaman Syrus / Eliseus | Naamã, o sírio / Eliseu | |
 | Capharnaum / Bethsaida / Iordanis | Cafarnaum / Betsaida / Jordão | |
@@ -75,7 +75,7 @@ Destino: pt-BR.
 | de Pastoribus | Sobre os pastores | |
 | Gregorius in Evangelia | São Gregório, Homilias sobre os Evangelhos | |
 | Marcion / Manichaeus | Marcião / Mani | |
-| Roboam / Helim / Aaron / Iesse | Roboão / Elim / Aarão / Jessé | |
+| Roboam / Helim / Aaron / Iesse | Roboão / Elim / Aarão / Jessé | “Heli” nas passagens sobre o pai legal de José, em que o latim emprega Heli. |
 | Andreas / Philippus / Bartholomaeus / Thomas | André / Filipe / Bartolomeu / Tomé | |
 | Zebedaeus / Alphaeus / Cleophas | Zebedeu / Alfeu / Cléofas | |
 | Thaddaeus / Lebbaeus / Iudas Iscariotes | Tadeu / Lebeu / Judas Iscariotes | |
@@ -100,7 +100,7 @@ Destino: pt-BR.
 | Elias Thesbites | Elias, o tesbita | |
 | Corozain / Corozaim / Bethsaida / Capharnaum | Corazim / Betsaida / Cafarnaum | |
 | Tyrus / Sidon / Phoenice | Tiro / Sidônia / Fenícia | |
-| confiteor / confessio | confesso / confissão | Conservados em g13-c008 para permitir a explicação dos sentidos de louvor e acusação de si. |
+| confiteor / confessio | confesso / confissão | Conservados em g13-c008 para permitir a explicação dos sentidos de louvor e acusação de si. No sentido de afirmar ou anunciar expressamente, *confiteor* também se traduz por “declarar”. |
 | praedestinatio / praescientia / massa perditionis | predestinação / presciência / massa da perdição | |
 | de bono perseverantiae | O bem da perseverança | Tradução do título abreviado presente no latim fornecido. |
 | contra Faustum / contra maximum | Contra Fausto / Contra Maximino | A segunda rubrica identifica a obra contra Maximino. |
@@ -279,7 +279,7 @@ Destino: pt-BR.
 | desponsata / sponsa / coniunx / uxor | desposada / desposada ou esposa / esposa / esposa | Conservada a distinção dos esponsais quando constitui o objeto do comentário. |
 | Dei genitrix / Dei mater | Mãe de Deus | Fórmula cristológica e mariana. |
 | caro peccati | carne de pecado | Conservada a formulação técnica de Agostinho. |
-| sacramentum | mistério / sacramento | “Mistério” nos contextos da encarnação e da interpretação figurativa desta chamada. |
+| sacramentum | mistério / sacramento | “Mistério” nos contextos da encarnação e da interpretação figurativa desta chamada. “Juramento” quando designa um compromisso jurado, inclusive na interpretação figurativa do juramento de Herodes. |
 | Helvidius / Nestorius / Valentinus / Eunomius | Helvídio / Nestório / Valentino / Eunômio | Formas portuguesas. |
 | Cyrillus / Theodotus / Severianus / Petrus Alphonsus | São Cirilo / Teódoto / Severiano / Pedro Afonso | Conservadas as atribuições do latim, mesmo quando o inglês apresenta outro autor. |
 | Emmanuel / Iosedech / Iasub | Emanuel / Josedec / Jasub | Formas portuguesas dos nomes. |
@@ -326,9 +326,9 @@ Destino: pt-BR.
 | concilium | conselho | Na gradação julgamento, conselho e fogo da geena. |
 | Gehenna | geena | Mantida distinta de *Infernus*, “inferno”. |
 | quadrans | quadrante | Moeda; relação com “quarta parte” explicada na nota [^91]. |
-| passio / propassio | paixão / propaixão | Distinção entre paixão consentida e movimento inicial, explicada na nota [^92]. |
+| passio / propassio | paixão / propaixão | Distinção entre paixão consentida e movimento inicial, explicada na nota [^92]. Fora dessa distinção afetiva, *passio* também pode designar “sofrimento” ou “enfermidade”, conforme o contexto. |
 | libellus repudii | carta de repúdio | Documento de separação mencionado na Lei. |
-| Faustus / Manichaeus / Nazaraei | Fausto / Manes / nazarenos | Nomes e designação heresiológica nos trechos de Contra Fausto. |
+| Faustus / Manichaeus / Nazaraei | Fausto / Manes / nazarenos | Nomes e designação heresiológica nos trechos de Contra Fausto. Quando designa um adepto ou qualifica sua doutrina, *Manichaeus* é “maniqueu”, com as flexões correspondentes. |
 | sacramenta | ritos sagrados / sacramentos | Em g7-c012, §24, “ritos sagrados” para as figuras veterotestamentárias e “sacramentos” para as celebrações cristãs ou a designação geral. |
 | iuramentum / iusiurandum / periurium | juramento / juramento / perjúrio | *Periurare* também vertido por “jurar falso”, conforme a construção. |
 | poena talionis | pena de talião | Retribuição proporcional à injúria recebida. |
@@ -415,7 +415,7 @@ Destino: pt-BR.
 - Em g13-c002, §§3 e 12, usada a forma reverente “vós” nas perguntas dirigidas a Cristo. No §20, preservadas as duas interpretações latinas dos pobres e a afirmação de que todos são iguais diante daquele que pode salvar.
 - Em g13-c003, conservadas as divisões dos §§11–12 e 24–25, mesmo quando a frase continua no parágrafo seguinte. No §19 de g13-c002, conservado “O mesmo”, correspondente ao *Idem* da fonte.
 - Em g13-c004, §4, acrescentada a nota [^13] para esclarecer que a distinção entre *mulier* e *femina* apresentada no texto pertence ao comentador. No §8, preservadas as duas divisões sintáticas propostas por Santo Agostinho.
-- Em g13-c005, §8, conservado o futuro latino *appropinquabit*: “se aproximará”. No §13, conservada em itálico a forma *metempsychosin*, seguida da explicação dada pela própria fonte.
+- Em g13-c005, §8, conservado o futuro latino *appropinquabit*: “se aproximará”. No §13, *metempsychosin* traduzido por “metempsicose”, seguido da explicação dada pela própria fonte.
 - Não foram incorporadas referências bíblicas, notas marginais ou ampliações presentes apenas na tradução inglesa.
 - Em g13-c006, §24, conservada a distribuição latina: os judeus “não são justificados pela graça e são rejeitados pela Lei”, sem seguir a inversão da referência inglesa.
 - Em g13-c007, mantidas a pergunta dirigida a Cafarnaum no §5 e a variante afirmativa comentada no §20; conservado “talvez”, objeto da explicação do §24.
@@ -624,7 +624,7 @@ Destino: pt-BR.
 - Em g29-c010, §26, conservada literalmente a formulação *matrem alterius voluisset intelligi*, “teria preferido que ela fosse entendida [...] como mãe de outro”, apesar da incongruência com o argumento. Não adotada a reconstrução explicativa da referência inglesa.
 - Em g29-c011, §18, *nullus absque eo postea inferatur* conserva “depois nenhum seja introduzido sem ele”; em g29-c012, §16, *consensi* conserva a confissão de Pilatos em primeira pessoa: “consenti na morte de um inocente”.
 - Acrescentada a nota [^70], em g3-c002, §10, sobre o caráter exegético das interpretações dos nomes; a nota [^71], em g3-c007, §5, sobre a filiação incongruente no latim fornecido; e a nota [^72], em g3-c007, §21, sobre a distinção entre *aliud* e *alius*.
-- Em g3-c001, §14, mantido “Jesus” para o antecessor de Israel posterior a Moisés, preservando a identidade do nome que sustenta o argumento. Em g3-c002, §12, *confiteor tibi* foi traduzido “eu vos louvo”, enquanto *confessor* conserva a referência à confissão do Pai.
+- Em g3-c001, §14, o sucessor de Moisés à frente de Israel foi vertido por “Josué”, com a referência a “esse nome” indicando a identidade com o nome de Jesus. Em g3-c002, §12, *confiteor tibi* foi traduzido “eu vos confesso”, conservando a ligação com *confessor*, “aquele que confessa”.
 - Em g3-c001, §25, conservada a negação de *non in unitatem personae, et in societatem inseparabilem*, sem substituir conjecturalmente *et* por *sed*.
 - Em g3-c001, §13, a pontuação foi interpretada como rejeição da resposta “ninguém” à pergunta profética, seguida da resposta “pouquíssimos”, Mateus e Lucas.
 - Conservados o “quarto livro dos Reis” em g3-c005, §6, e “Paralipômenos” em g3-c006, §9. Não incorporadas referências bíblicas, notas editoriais ou atribuições exclusivas do inglês.
@@ -1220,3 +1220,688 @@ Verdict: 1 meaning-level, 0 minor. Full read of g7-c013–g9-c011: one meaning f
 ### Part 8 of 8, Round 4 (codex, delta read)
 Verdict: 0 meaning-level, 0 minor. Verificados a alteração e os parágrafos [4]–[6], a nota [^102] e os metadados fornecidos: correção anterior confirmada, sem novos defeitos; os parágrafos [2]–[3] citados pela auditoria não foram apresentados.
 - Rejected: pt-BR/g9-c002.md [4] — A auditoria aponta marcadores de ênfase adicionais. — Os quatro asteriscos formam o negrito do número do versículo, conforme o padrão exigido.
+
+### Part terms 1 of 6, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 32 minor. 177 parágrafos sinalizados lidos; 31 ocorrências com desvio vocabular corrigidas e 1 linha do glossário ampliada.
+- `pt-BR/g1-pr.md` [6]: “do comentário de Crisóstomo a Mateus” → “do comentário de São João Crisóstomo a Mateus” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g1-pr.md` [7]: “na coleção de homilias de Crisóstomo” → “na coleção de homilias de São João Crisóstomo” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g10-c007.md` [18]: “Glosa. Crisóstomo apresenta” → “Glosa. São João Crisóstomo apresenta” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g10-c003.md` [33]: “Entre os outros povos” → “Entre as outras nações” — Gentes → “nações” no sentido coletivo (Key Terms); estava “povos”.
+- `pt-BR/g10-c008.md` [24]: “seu excessivo desejo de prejudicar os homens” → “sua excessiva concupiscência de prejudicar os homens” — Cupiditas → “concupiscência” (Key Terms); estava “desejo”.
+- `pt-BR/g10-c008.md` [33]: “na cobiça mundana” → “na concupiscência mundana” — Cupiditas → “concupiscência” (Key Terms); estava “cobiça”.
+- `pt-BR/g11-c002.md` [33]: “Também a comparação com os enfermos” → “Também a semelhança com os enfermos” — Similitudo → “semelhança” (Key Terms); estava “comparação”.
+- `pt-BR/g11-c003.md` [18]: “duas comparações, a das bodas” → “duas semelhanças, a das bodas” — Similitudines → “semelhanças” (Key Terms); estava “comparações”.
+- `pt-BR/g11-c003.md` [27]: “diversas comparações para a mesma coisa” → “diversas semelhanças para a mesma coisa” — Similitudines → “semelhanças” (Key Terms); estava “comparações”.
+- `pt-BR/g12-c001.md` [23]: “Maria, mulher de Alfeu” → “Maria, esposa de Alfeu” — Uxor → “esposa” (Key Terms); estava “mulher”.
+- `pt-BR/g12-c003.md` [18]: “uma vara de caniço” → “uma vara de cana” — Arundineus conserva a imagem da cana; uniformização com “cana” (Key Terms).
+- `pt-BR/g12-c005.md` [23]: “presente e conhecedor de antemão de todas as coisas” → “presente e presciente” — Praescientem → “presciente”, derivado de “presciência” (Key Terms); estava parafraseado.
+- `pt-BR/g12-c008.md` [6]: “pelos povos que ignoram a Deus” → “pelas nações que ignoram a Deus” — Gentes → “nações” no sentido coletivo (Key Terms); estava “povos”.
+- `pt-BR/g12-c013.md` [9]: “encontrar brandura nos fatos” → “encontrar mansidão nos fatos” — Mansuetudo → “mansidão” (Key Terms); estava “brandura”.
+- `pt-BR/g12-c013.md` [11]: “os de casa serão inimigos” → “os de sua casa serão inimigos” — Domestica → “os de sua casa” (Key Terms), conservando a relação doméstica.
+- `pt-BR/g13-c003.md` [8]: “mais firme do que a rocha” → “mais firme do que a pedra” — Petra → “pedra” (Key Terms); estava “rocha”.
+- `pt-BR/g13-c005.md` [13]: “introduzem a *metempsychosin*” → “introduzem a *metempsicose*” — Metempsychosis → “metempsicose” (Key Terms); estava conservada a forma latina flexionada.
+- `pt-BR/g13-c010.md` [22]: “aquilo que a cobiça fez” → “aquilo que a concupiscência fez” — Cupiditas → “concupiscência” (Key Terms); estava “cobiça”.
+- `pt-BR/g14-c001.md` [29]: “quando deu graças a Deus Pai pela salvação” → “quando confessou a Deus Pai sua gratidão pela salvação” — Gratiam confessus est: preserva o sentido de agradecimento e o vocabulário de confissão fixado nas Key Terms.
+- `pt-BR/g14-c002.md` [13]: “apresentou a comparação da ovelha” → “apresentou a semelhança da ovelha” — Similitudo → “semelhança” (Key Terms); estava “comparação”.
+- `pt-BR/g14-c002.md` [15]: “por uma obra de cobiça” → “por uma obra de concupiscência” — Cupiditas → “concupiscência” (Key Terms); estava “cobiça”.
+- `pt-BR/g14-c002.md` [16]: “apresentar a comparação da ovelha” → “apresentar a semelhança da ovelha” — Similitudo → “semelhança” (Key Terms); estava “comparação”.
+- `pt-BR/g14-c010.md` [12]: “demonstra sua divindade” → “demonstra sua deidade” — Deitas → “deidade” (Key Terms); estava “divindade”, reservada a divinitas.
+- `pt-BR/g14-c013.md` [2]: “Os homens de Nínive se levantarão” → “Os homens ninivitas se levantarão” — Ninivitae → “ninivitas” (Key Terms); estava “de Nínive”.
+- `pt-BR/g14-c013.md` [6]: “segundo os tradutores da Septuaginta” → “segundo os Setenta” — Septuaginta interpretes → “os Setenta” (Key Terms).
+- `pt-BR/g14-c013.md` [8]: “os homens de Nínive condenarão” → “os homens ninivitas condenarão” — Ninivitae → “ninivitas” (Key Terms); estava “de Nínive”.
+- `pt-BR/g14-c014.md` [5]: “Os homens de Nínive se levantarão” → “Os homens ninivitas se levantarão” — Ninivitae → “ninivitas” (Key Terms); estava “de Nínive”.
+- `pt-BR/g15-c004.md` [15]: “recebe diversas comparações segundo seus diferentes significados” → “recebe diversas semelhanças segundo seus diferentes significados” — Similitudines → “semelhanças” (Key Terms); estava “comparações”.
+- `pt-BR/g15-c004.md` [27]: “caso se arrependesse” → “caso se tornasse penitente” — Poenitenti → “penitente”, derivado de “penitência” (Key Terms); estava “se arrependesse”.
+- `pt-BR/g15-c012.md` [12]: “como imagem do Reino” → “como semelhança do Reino” — Similitudo → “semelhança” (Key Terms); estava “imagem”.
+- `pt-BR/g16-c003.md` [7]: “revelar abertamente sua divindade” → “revelar abertamente sua deidade” — Deitas → “deidade” (Key Terms); estava “divindade”, reservada a divinitas.
+- `pt-BR/translation-journal.md`: “| sacramentum | mistério / sacramento | “Mistério” nos contextos da encarnação e da interpretação figurativa desta chamada. |” → “| sacramentum | mistério / sacramento | “Mistério” nos contextos da encarnação e da interpretação figurativa desta chamada. “Juramento” quando designa um compromisso jurado, inclusive na interpretação figurativa do juramento de Herodes. |” — Sacramentum é corretamente traduzido por “juramento” em g16-c002, §§13 e 26; esse sentido faltava na linha.
+
+### Part terms 1 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta read of 32 changes and their neighbours: the changes are correct; two minor fixes (leftover italics on “metempsicose” and the journal decision that described it).
+- `pt-BR/g13-c005.md` [13]: “que introduzem a *metempsicose*, isto é” → “que introduzem a metempsicose, isto é” — “metempsicose” is now the Portuguese word (Key Terms), not retained Latin, so the italics reserved for Latin/Greek no longer apply
+- `pt-BR/translation-journal.md`: “No §13, conservada em itálico a forma *metempsychosin*, seguida da explicação dada pela própria fonte.” → “No §13, *metempsychosin* traduzido por “metempsicose”, seguido da explicação dada pela própria fonte.” — the decision no longer matches g13-c005 [13], where the Latin form was replaced by “metempsicose”
+- Rejected: pt-BR/g12-c013.md [11] — “os de sua casa” (masculine, persons) for neuter *domestica* — it matches the domestici row of Key Terms and keeps the echo of the Gospel verse; the sense of an internal hostility is kept
+- Rejected: pt-BR/g10-c008.md [24] — “concupiscência de prejudicar” sounds forced — it follows the cupiditas → concupiscência row; it is grammatical and the sense is clear
+- Rejected: pt-BR/g14-c002.md [17] / pt-BR/g10-c003.md [32] — *Chrysostomus in Matth* rendered once as “Comentário a Mateus” and once as “Homilias sobre Mateus” — this inconsistency spans the whole book, and the journal itself has conflicting rows; it is not a defect introduced by this round's changes and should be settled in a full read
+- Rejected: pt-BR/g14-c001.md [29] — “confessou a Deus Pai sua gratidão” as a paraphrase of *gratiam confessus est* — it is faithful to the Latin and keeps the link to the *confiteor* of Mt 11:25
+
+### Part terms 1 of 6, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as duas alterações e lidos integralmente os §§12–14 de g13-c005; correções corretas, sem novos defeitos no material apresentado.
+
+### Part terms 2 of 6, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 109 minor. 204 parágrafos sinalizados examinados; 100 com desvios, corrigidos em 109 alterações.
+- `pt-BR/g16-c005.md` [31]: “peso corporal e carga material” → “peso corporal e fardo material” — *onus* → “fardo” (Key Terms); estava “carga”.
+- `pt-BR/g16-c005.md` [32]: “concedem em toda parte o primado a Pedro” → “concedem em toda parte a primazia a Pedro” — *primatus* → “primazia” (Key Terms); estava “primado”.
+- `pt-BR/g16-c005.md` [51]: “o gemido de seu arrependimento” → “o gemido de sua penitência” — *poenitentia* → “penitência” (Key Terms); estava “arrependimento”.
+- `pt-BR/g16-c005.md` [54]: “sua própria cobiça é uma tempestade” → “sua própria concupiscência é uma tempestade” — *cupiditas* → “concupiscência” (Key Terms); estava “cobiça”.
+- `pt-BR/g16-c005.md` [54]: “teu coração se agita pela cobiça” → “teu coração se agita pela concupiscência” — *cupiditas* → “concupiscência” (Key Terms); estava “cobiça”.
+- `pt-BR/g16-c005.md` [54]: “para venceres a cobiça” → “para venceres a concupiscência” — *cupiditas* → “concupiscência” (Key Terms); estava “cobiça”.
+- `pt-BR/g17-c004.md` [11]: “por ignorar as questões da natureza” → “por ignorar as questões de física” — *physica* → “física” (Key Terms), aqui como saber sobre a natureza.
+- `pt-BR/g17-c005.md` [12]: “a ordem de deixar essa lei” → “a ordem de violar essa lei” — *solvere* → “violar” ao tratar de um preceito individual, conforme a nota dos Key Terms.
+- `pt-BR/g17-c007.md` [21]: “como por uma casca muito aderente” → “como por uma palha muito aderente” — *palea* → “palha” (Key Terms); estava “casca”.
+- `pt-BR/g17-c007.md` [23]: “removida toda cobiça carnal” → “removida toda concupiscência carnal” — *cupiditas* → “concupiscência” (Key Terms); estava “cobiça”.
+- `pt-BR/g17-c007.md` [23]: “a contenção da cobiça diante” → “a contenção da concupiscência diante” — *cupiditas* → “concupiscência” (Key Terms); estava “cobiça”.
+- `pt-BR/g18-c001.md` [15]: “as potências dos céus forem abaladas” → “as potestades dos céus forem abaladas” — *virtutes caelorum* → “potestades dos céus” (Key Terms); estava “potências dos céus”.
+- `pt-BR/g18-c001.md` [21]: “atravessou o estreito” → “atravessou o lago” — *trans fretum* → “lago”, expressamente previsto nos Key Terms.
+- `pt-BR/g18-c002.md` [2]: “ao outro lado do estreito” → “ao outro lado do lago” — *trans fretum* → “lago”, expressamente previsto nos Key Terms.
+- `pt-BR/g18-c002.md` [10]: “ao outro lado do estreito” → “ao outro lado do lago” — *trans fretum* → “lago”, expressamente previsto nos Key Terms.
+- `pt-BR/g18-c003.md` [21]: “sobre sua divindade” → “sobre sua deidade” — *deitas* → “deidade” (Key Terms), preservando a distinção lexical de *divinitas*.
+- `pt-BR/g18-c006.md` [4]: “rei, livre ou escravo” → “rei, livre ou servo” — *servus* → “servo” (Key Terms); estava “escravo”.
+- `pt-BR/g18-c007.md` [15]: “poderia encontrar um obstáculo como este” → “poderia encontrar um escândalo como este” — *scandalum* → “escândalo” (Key Terms); estava “obstáculo”.
+- `pt-BR/g19-c002.md` [12]: “no íntimo de seu coração” → “nos aposentos interiores de seu coração” — *penetralia* → “aposentos interiores” (Key Terms), conservando a imagem espacial.
+- `pt-BR/g19-c004.md` [17]: “dos prazeres ou das cobiças” → “dos prazeres ou das concupiscências” — *cupiditas* → “concupiscência” (Key Terms), aqui no plural.
+- `pt-BR/g20-c001.md` [9]: “confessar o sentimento que experimentavam” → “confessar a paixão que experimentavam” — *passio* → “paixão” (Key Terms), aqui o movimento de ciúme dos discípulos.
+- `pt-BR/g20-c001.md` [9]: “abandonaram esse sentimento” → “abandonaram essa paixão” — *passio* → “paixão” (Key Terms); estava “sentimento”.
+- `pt-BR/g20-c001.md` [27]: “a cobiça das coisas temporais” → “a concupiscência das coisas temporais” — *cupiditas* → “concupiscência” (Key Terms); estava “cobiça”.
+- `pt-BR/g20-c004.md` [7]: “que nossa cobiça ainda deseja adquirir” → “que nossa concupiscência ainda deseja adquirir” — *cupiditas* → “concupiscência” (Key Terms); estava “cobiça”.
+- `pt-BR/g20-c004.md` [7]: “ocasião de cobiça, mas prudência” → “ocasião de concupiscência, mas prudência” — *cupiditas* → “concupiscência” (Key Terms); estava “cobiça”.
+- `pt-BR/g20-c007.md` [16]: “por uma comparação e um exemplo” → “por uma semelhança e um exemplo” — *similitudo* → “semelhança” (Key Terms); estava “comparação”.
+- `pt-BR/g20-c007.md` [24]: “o prazer ou a cobiça da carne” → “o prazer ou a concupiscência da carne” — *cupiditas* → “concupiscência” (Key Terms); estava “cobiça”.
+- `pt-BR/g20-c007.md` [25]: “por sua cobiça e suas obras perversas” → “por sua concupiscência e suas obras perversas” — *cupiditas* → “concupiscência” (Key Terms); estava “cobiça”.
+- `pt-BR/g22-c001.md` [19]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c001.md` [27]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c001.md` [29]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c001.md` [32]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c001.md` [34]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c001.md` [37]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c001.md` [42]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c001.md` [45]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c001.md` [47]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c001.md` [52]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c001.md` [59]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c001.md` [61]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c001.md` [64]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c002.md` [5]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c002.md` [7]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c002.md` [8]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c002.md` [9]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c002.md` [12]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c002.md` [13]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c002.md` [16]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c003.md` [7]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c003.md` [9]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c003.md` [9]: “a primazia nesse assento” → “a primazia nessa cátedra” — *cathedra* → “cátedra” (Key Terms); estava “assento”.
+- `pt-BR/g22-c003.md` [11]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c003.md` [13]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c003.md` [15]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c003.md` [16]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c003.md` [18]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c003.md` [21]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c003.md` [22]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c003.md` [24]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c003.md` [25]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c003.md` [30]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c004.md` [7]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c004.md` [8]: “arderam em não pequena ambição” → “arderam em não pequena concupiscência” — *cupiditas* → “concupiscência” (Key Terms); estava “ambição”.
+- `pt-BR/g22-c004.md` [9]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c004.md` [10]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c004.md` [11]: “nem acusa de ambição os dois” → “nem acusa de concupiscência os dois” — *cupiditas* → “concupiscência” (Key Terms); estava “ambição”.
+- `pt-BR/g22-c004.md` [12]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c004.md` [14]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c004.md` [15]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c004.md` [18]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c005.md` [8]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c005.md` [10]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c005.md` [14]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c005.md` [18]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c005.md` [18]: “confessariam sua divindade” → “confessariam sua deidade” — *deitas* → “deidade” (Key Terms), preservando a distinção lexical de *divinitas*.
+- `pt-BR/g22-c005.md` [20]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c005.md` [21]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c005.md` [29]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g22-c005.md` [31]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c001.md` [13]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c001.md` [14]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c001.md` [15]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c001.md` [17]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c001.md` [19]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c001.md` [23]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c001.md` [31]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c001.md` [33]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c001.md` [38]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c001.md` [38]: “irracional, estúpido, fraco” → “irracional, insensato, fraco” — *stultus* → “insensato” (Key Terms); estava “estúpido”.
+- `pt-BR/g23-c001.md` [38]: “estúpidos pelo desprezo de Deus” → “insensatos pelo desprezo de Deus” — *stultus* → “insensato” (Key Terms), aqui no plural.
+- `pt-BR/g23-c001.md` [45]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c002.md` [10]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c002.md` [14]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c002.md` [20]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c002.md` [22]: “comércio nem cobiça de presentes” → “comércio nem concupiscência de presentes” — *cupiditas* → “concupiscência” (Key Terms); estava “cobiça”.
+- `pt-BR/g23-c002.md` [24]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c002.md` [28]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c002.md` [30]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c002.md` [32]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c002.md` [33]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c003.md` [8]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c003.md` [10]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c003.md` [12]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c003.md` [15]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c003.md` [18]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c003.md` [20]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c003.md` [22]: “Crisóstomo.” → “São João Crisóstomo.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c003.md` [27]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g23-c003.md` [30]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — *Chrysostomus* → “São João Crisóstomo” (Key Terms).
+
+### Part terms 2 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of 109 term changes in g16–g23: all correct against the Latin, with no broken concord or lost clauses. Name-prefix drift for other Fathers in g22–g23 and g16-c005 is deferred to a full read so whole files stay consistent.
+- Rejected: pt-BR/g22-c001.md … g23-c003.md (e.g. g22-c001 [20], [53]; g23-c002 [15]) — Gregório, Jerônimo, Agostinho and Hilário appear without São/Santo, against the Key Terms table, while Crisóstomo now carries “São João”. — Real drift, but these files have many paragraphs not shown in this delta. Fixing only the visible ones would make each file inconsistent. A full read of g22–g23 should fix all of them together.
+- Rejected: pt-BR/g16-c005.md [51], [53] — “São Hilário” instead of “Santo Hilário” (Key Terms). — Same reason: other occurrences in the chapter are not shown, so a partial fix would split the file. Defer to a full read of g16-c005.
+- Rejected: pt-BR/g17-c005.md [12] — “violar essa lei” for *hanc legem solvere* might seem to call for “abolir”. — The law in question is the single food precept Peter was told to set aside in the vision. The Key Terms note gives “violar” for an individual precept.
+- Rejected: pt-BR/g22-c003.md [9] — “a primazia nessa cátedra” for *primatum ipsius cathedrae*: no cátedra is named earlier in the paragraph. — It renders *ipsius cathedrae* (the seat implied by the thrones) and follows the Key Terms row for *cathedra* as a seat of dignity. It is defensible.
+- Rejected: pt-BR/g17-c007.md [21] — “palha muito aderente” for *tenacissima palea* sounds less natural than “casca”. — The Key Terms table fixes *palea* → “palha”, and the image of a grain wrapped in chaff survives.
+
+### Part terms 3 of 6, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 186 minor. 222 parágrafos sinalizados lidos; 186 ocorrências com desvio de vocabulário.
+- `pt-BR/g23-c003.md` [31]: “até a consumação dos tempos” → “até a consumação do mundo” — consummatio saeculi → “consumação do mundo” (Key Terms).
+- `pt-BR/g23-c003.md` [32]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c003.md` [36]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c004.md` [7]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c004.md` [8]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c004.md` [9]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c004.md` [11]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c005.md` [3]: “movido pelo arrependimento” → “movido pela penitência” — poenitentia → “penitência” (Key Terms).
+- `pt-BR/g23-c005.md` [6]: “nem depois vos arrependestes para crer nele” → “nem depois fizestes penitência para crer nele” — poenitentia → “penitência” (Key Terms).
+- `pt-BR/g23-c005.md` [8]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c005.md` [10]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c005.md` [12]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c005.md` [15]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c005.md` [18]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c005.md` [20]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c005.md` [22]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c006.md` [14]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c006.md` [16]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c006.md` [18]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c006.md` [22]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c006.md` [25]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c006.md` [27]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c006.md` [30]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c006.md` [32]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c006.md` [36]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c006.md` [37]: “Crisóstomo.” → “São João Crisóstomo.” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c006.md` [39]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c006.md` [42]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c006.md` [44]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c006.md` [49]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c006.md` [53]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c006.md` [55]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c006.md` [56]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c006.md` [58]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c006.md` [60]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c006.md` [63]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c006.md` [65]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c006.md` [67]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c006.md` [69]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c006.md` [70]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c007.md` [5]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g23-c007.md` [7]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c001.md` [16]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c001.md` [22]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c001.md` [25]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c001.md` [27]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c001.md` [32]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c001.md` [34]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c001.md` [38]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c001.md` [40]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c001.md` [41]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c001.md` [42]: “por cobiça de dinheiro” → “por concupiscência de dinheiro” — cupiditas → “concupiscência” (Key Terms).
+- `pt-BR/g24-c001.md` [43]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c001.md` [45]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c001.md` [49]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c001.md` [57]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c001.md` [65]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c001.md` [77]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c001.md` [83]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c002.md` [10]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c002.md` [13]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c002.md` [14]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c002.md` [16]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c002.md` [18]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c002.md` [19]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c002.md` [21]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c002.md` [24]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c002.md` [27]: “Podemos também entender moralmente esta passagem” → “Podemos também entender esta passagem no sentido moral” — moraliter → “no sentido moral” (Key Terms).
+- `pt-BR/g24-c003.md` [7]: “de qual dos sete ela será mulher” → “de qual dos sete ela será esposa” — uxor → “esposa” (Key Terms).
+- `pt-BR/g24-c003.md` [13]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c003.md` [14]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c003.md` [17]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c003.md` [20]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c003.md` [21]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c003.md` [24]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c003.md` [27]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c003.md` [29]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c003.md` [31]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c003.md` [32]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c003.md` [32]: “nunca introduziu a comparação com os anjos” → “nunca introduziu a semelhança com os anjos” — similitudo → “semelhança” (Key Terms).
+- `pt-BR/g24-c003.md` [39]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c003.md` [40]: “os saduceus não reconheciam anjo, espírito nem ressurreição dos corpos” → “os saduceus não confessavam anjo, espírito nem ressurreição dos corpos” — confitentes → “confessavam”, conforme confiteor no glossário.
+- `pt-BR/g24-c003.md` [41]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c003.md` [46]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c004.md` [12]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c004.md` [16]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c004.md` [18]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c004.md` [25]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c005.md` [8]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c005.md` [9]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c005.md` [12]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c005.md` [13]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c005.md` [18]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g24-c005.md` [19]: “tivesse nascido do desejo de aprender” → “tivesse nascido da vontade de aprender” — voluntas → “vontade” (Key Terms).
+- `pt-BR/g25-c001.md` [6]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c001.md` [8]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c001.md` [9]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c001.md` [11]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c001.md` [12]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c001.md` [13]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c001.md` [16]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c002.md` [10]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c002.md` [11]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c002.md` [13]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c002.md` [15]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c002.md` [18]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c002.md` [19]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c002.md` [20]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c002.md` [22]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c002.md` [24]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c002.md` [25]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c002.md` [28]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c002.md` [31]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c002.md` [33]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c002.md` [33]: “proíbe ambicionar os primeiros lugares” → “proíbe ambicionar a primazia” — primatus → “primazia” (Key Terms).
+- `pt-BR/g25-c003.md` [4]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c004.md` [3]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c004.md` [5]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c004.md` [5]: “mesmo que a intenção não seja má” → “mesmo que a vontade não seja má” — voluntas → “vontade” (Key Terms).
+- `pt-BR/g25-c004.md` [6]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c004.md` [7]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c005.md` [3]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c005.md` [8]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c005.md` [12]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c005.md` [13]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c006.md` [10]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c006.md` [11]: “por cobiça de riquezas” → “por concupiscência de riquezas” — cupiditas → “concupiscência” (Key Terms).
+- `pt-BR/g25-c007.md` [4]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c007.md` [5]: “deixemos de lado as interpretações místicas” → “deixemos de lado os sentidos místicos” — intellectus mysticos: adota “sentido místico” do glossário.
+- `pt-BR/g25-c007.md` [6]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c008.md` [5]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c008.md` [7]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c008.md` [8]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c008.md` [8]: “a limpeza exterior decorre necessariamente da interior” → “a pureza exterior decorre necessariamente da interior” — munditia → “pureza” (Key Terms); a pureza interior rege a exterior.
+- `pt-BR/g25-c009.md` [5]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c009.md` [9]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c010.md` [7]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c010.md` [8]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c010.md` [10]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c010.md` [11]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c010.md` [12]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c011.md` [7]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c011.md` [8]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c011.md` [12]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c011.md` [16]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c011.md` [22]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c011.md` [24]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c011.md` [27]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c011.md` [28]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c011.md` [29]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c012.md` [5]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c012.md` [7]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c012.md` [8]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c012.md` [8]: “pela comparação com a galinha” → “pela semelhança com a galinha” — similitudo → “semelhança” (Key Terms).
+- `pt-BR/g25-c012.md` [13]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c012.md` [14]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g25-c012.md` [17]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c001.md` [4]: “reconhecendo as obras admiráveis de Deus na formação do homem” → “confessando as obras admiráveis de Deus na formação do homem” — confitentes → “confessando” (Key Terms), aqui no sentido de louvor.
+- `pt-BR/g26-c001.md` [7]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c002.md` [6]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c002.md` [8]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c002.md` [13]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c003.md` [6]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c003.md` [8]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c003.md` [11]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c003.md` [13]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c004.md` [9]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c004.md` [11]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c004.md` [14]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c004.md` [18]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c004.md` [20]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c005.md` [10]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c005.md` [11]: “para nos incitar à compreensão mística” → “para nos incitar à compreensão do sentido místico” — intelligentiam mysticam: adota “sentido místico” do glossário.
+- `pt-BR/g26-c005.md` [13]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c005.md` [15]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c005.md` [17]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c005.md` [20]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c005.md` [22]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c005.md` [24]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c005.md` [28]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c005.md` [29]: “pelo desejo dos bens do mundo” → “pela concupiscência dos bens do mundo” — cupiditas → “concupiscência” (Key Terms).
+- `pt-BR/g26-c006.md` [8]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c006.md` [11]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c006.md` [20]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c007.md` [5]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+- `pt-BR/g26-c007.md` [11]: “Crisóstomo,” → “São João Crisóstomo,” — Chrysostomus: forma do glossário.
+
+### Part terms 3 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 3 minor. Delta lido: as trocas de rótulo para “São João Crisóstomo” e os ajustes de termos estão corretos; três citações vizinhas do mesmo versículo foram alinhadas às novas formas (penitência, esposa).
+- `pt-BR/g23-c005.md` [11]: ““Depois, movido pelo arrependimento, foi”” → ““Depois, movido pela penitência, foi”” — postea poenitentia motus abiit: Jerônimo cita o v. 29, agora traduzido em [3] como “movido pela penitência”; a citação deve coincidir e seguir o Key Terms (poenitentia → penitência).
+- `pt-BR/g23-c005.md` [20]: “nem depois vos arrependestes para crer nele” → “nem depois fizestes penitência para crer nele” — nec poenitentiam habuistis postea: cita o v. 32, alterado em [6] para “fizestes penitência”; a frase seguinte do mesmo parágrafo já diz “nem sequer fizeram penitência”.
+- `pt-BR/g24-c003.md` [22]: “de quem ela será mulher?” → “de quem ela será esposa?” — Retoma o v. 28 (cuius erit ... uxor), agora traduzido em [7] como “esposa”; a citação abreviada deve usar o mesmo termo.
+- Rejected: pt-BR/g24-c001.md [42], g25-c006.md [11], g26-c005.md [29] — “concupiscência” para cupiditas soa menos natural que “cobiça” em pecuniae/divitiarum cupiditas — A forma segue a linha voluntas/cupiditas do Key Terms e não altera o sentido; é uma escolha defensável.
+- Rejected: pt-BR/g24-c003.md [40] — “não confessavam anjo, espírito nem ressurreição” — confitentes, coerente com “confessavam” em [15]; o sentido de reconhecer a fé está correto.
+
+### Part terms 3 of 6, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 4 minor. Verificadas as três alterações, os nove parágrafos exibidos e a nota 49: alterações corretas; quatro desvios menores nas formas dos nomes, sem defeitos de sentido.
+- `pt-BR/g23-c005.md` [11]: “Jerônimo. Depois” → “São Jerônimo. Depois” — O glossário estabelece “São Jerônimo” para Hieronymus.
+- `pt-BR/g23-c005.md` [21]: “Jerônimo. Por isso” → “São Jerônimo. Por isso” — O glossário estabelece “São Jerônimo” para Hieronymus.
+- `pt-BR/g24-c003.md` [22]: “Jerônimo. Como” → “São Jerônimo. Como” — O glossário estabelece “São Jerônimo” para Hieronymus.
+- `pt-BR/g24-c003.md` [23]: “Agostinho, Questões” → “Santo Agostinho, Questões” — O glossário estabelece “Santo Agostinho” para Augustinus.
+- Rejected: Atribuições Chrysostomus super Matth / in Matth nos parágrafos exibidos — “Sobre Mateus” diverge dos títulos indicados no glossário. — O diário fornece convenções contraditórias para essas rubricas, inclusive nas decisões; não há uma correção terminológica inequívoca.
+
+### Part terms 3 of 6, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta lido: as quatro trocas para “São Jerônimo” e “Santo Agostinho” estão corretas; os parágrafos vizinhos e a nota 49 não têm defeitos.
+- Rejected: pt-BR/g24-c003.md [23] — “como os sete irmãos” acrescenta “irmãos” a *quasi septem* — O referente são os sete irmãos do parágrafo; a explicitação não altera o sentido.
+- Rejected: pt-BR/g23-c005.md [21] — “seus preceitos” pode parecer ambíguo entre João e a Lei — O antecedente imediato é “batismo de João”, o que corresponde a *eius* da fonte.
+
+### Part terms 4 of 6, Round 1 (codex, terms read)
+Verdict: 5 meaning-level, 138 minor. 230 parágrafos sinalizados examinados; 140 ocorrências com desvio terminológico, corrigidas em 143 trechos.
+- `pt-BR/g26-c007.md` [13]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g26-c008.md` [3]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g26-c009.md` [5]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g26-c009.md` [10]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g26-c010.md` [6]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g26-c010.md` [8]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g26-c010.md` [10]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g26-c010.md` [17]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g26-c010.md` [23]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g26-c011.md` [8]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g26-c011.md` [20]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g26-c011.md` [23]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g26-c012.md` [6]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g26-c012.md` [14]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g26-c013.md` [10]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g26-c013.md` [13]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g26-c013.md` [14]: “Deus escolheu as coisas loucas do mundo.” → “Deus escolheu as coisas insensatas do mundo.” — stulta → “insensatas” (Key Terms); estava “loucas”.
+- `pt-BR/g26-c013.md` [15]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g26-c013.md` [22]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g27-c001.md` [15]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g27-c001.md` [18]: “Alguns interpretam a comparação das dez virgens” → “Alguns interpretam a semelhança das dez virgens” — similitudo → “semelhança” (Key Terms); estava “comparação”.
+- `pt-BR/g27-c001.md` [20]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g27-c001.md` [26]: “diante dos desejos dos olhos, dos ouvidos” → “diante da vontade dos olhos, dos ouvidos” — voluntas → “vontade” (Key Terms); estava “desejos”.
+- `pt-BR/g27-c001.md` [31]: “parecem professar a mesma fé” → “parecem confessar a mesma fé” — confiteri → “confessar” (Key Terms); estava “professar”.
+- `pt-BR/g27-c001.md` [33]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g27-c001.md` [51]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g27-c001.md` [54]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g27-c001.md` [60]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g27-c002.md` [22]: “até a consumação dos séculos” → “até a consumação do mundo” — consummatio saeculi → “consumação do mundo” (Key Terms); estava “consumação dos séculos”.
+- `pt-BR/g27-c002.md` [24]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g27-c002.md` [39]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g27-c002.md` [45]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g27-c002.md` [50]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g27-c002.md` [52]: “mas a disposição de seu empenho.” → “mas a vontade de se empenhar.” — voluntas → “vontade” (Key Terms); estava “disposição”.
+- `pt-BR/g27-c002.md` [62]: “não reconheceu ser severo” → “não confessou ser severo” — confessus est → “confessou” (Key Terms); estava “reconheceu”.
+- `pt-BR/g27-c002.md` [68]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g27-c002.md` [72]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g27-c002.md` [76]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g27-c003.md` [18]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g27-c003.md` [24]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g27-c003.md` [29]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g27-c003.md` [32]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g27-c003.md` [35]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g27-c003.md` [39]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g27-c003.md` [46]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g27-c003.md` [50]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g27-c003.md` [52]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c002.md` [8]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c002.md` [10]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c002.md` [13]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c003.md` [18]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c003.md` [24]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c003.md` [27]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c003.md` [29]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c003.md` [33]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c003.md` [36]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c004.md` [6]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c004.md` [10]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c004.md` [13]: “pela cobiça do dinheiro” → “pela concupiscência do dinheiro” — cupiditas → “concupiscência” (Key Terms); estava “cobiça”.
+- `pt-BR/g28-c005.md` [8]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c005.md` [10]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c005.md` [12]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c005.md` [16]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c006.md` [8]: “dando-lhe ocasião de arrependimento” → “dando-lhe ocasião de penitência” — poenitentia → “penitência” (Key Terms); estava “arrependimento”.
+- `pt-BR/g28-c006.md` [13]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c006.md` [17]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c006.md` [22]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c006.md` [30]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c006.md` [31]: “lhe fosse concedida ocasião de arrependimento” → “lhe fosse concedida ocasião de penitência” — poenitentia → “penitência” (Key Terms); estava “arrependimento”.
+- `pt-BR/g28-c007.md` [10]: “com as palavras de Crisóstomo” → “com as palavras de São João Crisóstomo” — Chrysostomi → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c007.md` [19]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c008.md` [6]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c008.md` [8]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c008.md` [10]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c008.md` [12]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c008.md` [19]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c009.md` [9]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c009.md` [14]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c009.md` [18]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c009.md` [21]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c009.md` [28]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c010.md` [9]: “Crisóstomo. Diz isso” → “São João Crisóstomo. Diz isso” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c010.md` [15]: “que a divindade permaneceu impassível” → “que a deidade permaneceu impassível” — deitas → “deidade” (Key Terms); “divindade” elimina a distinção adotada entre deitas e divinitas. *(meaning)*
+- `pt-BR/g28-c011.md` [16]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c011.md` [18]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c011.md` [26]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c011.md` [33]: “a tentação da cobiça é tríplice” → “a tentação da concupiscência é tríplice” — cupiditas → “concupiscência” (Key Terms); estava “cobiça”.
+- `pt-BR/g28-c011.md` [33]: “À cobiça que existe na curiosidade” → “À concupiscência que existe na curiosidade” — cupiditas → “concupiscência” (Key Terms); estava “cobiça”.
+- `pt-BR/g28-c011.md` [33]: “À cobiça de honra ou louvor” → “À concupiscência de honra ou louvor” — cupiditas → “concupiscência” (Key Terms); estava “cobiça”.
+- `pt-BR/g28-c011.md` [33]: “À cobiça do prazer, porém” → “À concupiscência do prazer, porém” — cupiditas → “concupiscência” (Key Terms); estava “cobiça”.
+- `pt-BR/g28-c012.md` [5]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c012.md` [10]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c013.md` [9]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c014.md` [6]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c014.md` [13]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c014.md` [19]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c014.md` [20]: “tantos quantos os povos entre os quais” → “tantos quantos as nações entre as quais” — gentes → “nações” no sentido coletivo (Key Terms); estava “povos”.
+- `pt-BR/g28-c014.md` [23]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c015.md` [9]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c015.md` [12]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c015.md` [18]: “Onde Caifás é chefe dos sacerdotes” → “Onde Caifás é sumo sacerdote” — princeps sacerdotum → “sumo sacerdote” (Key Terms); trata-se do ofício individual de Caifás. *(meaning)*
+- `pt-BR/g28-c015.md` [19]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c016.md` [5]: “levantando-se, o chefe dos sacerdotes” → “levantando-se, o sumo sacerdote” — princeps sacerdotum → “sumo sacerdote” (Key Terms); designa o ofício individual. *(meaning)*
+- `pt-BR/g28-c016.md` [6]: “E o chefe dos sacerdotes lhe disse” → “E o sumo sacerdote lhe disse” — princeps sacerdotum → “sumo sacerdote” (Key Terms); designa o ofício individual. *(meaning)*
+- `pt-BR/g28-c016.md` [8]: “Então o chefe dos sacerdotes rasgou” → “Então o sumo sacerdote rasgou” — princeps sacerdotum → “sumo sacerdote” (Key Terms); designa o ofício individual. *(meaning)*
+- `pt-BR/g28-c016.md` [12]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c016.md` [15]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c016.md` [17]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c016.md` [22]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c016.md` [24]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c016.md` [26]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c016.md` [30]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c017.md` [11]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c017.md` [14]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c017.md` [16]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g28-c017.md` [24]: “Pela primeira criada é designada a cobiça” → “Pela primeira criada é designada a concupiscência” — cupiditas → “concupiscência” (Key Terms); estava “cobiça”.
+- `pt-BR/g29-c001.md` [4]: “levado pelo arrependimento” → “levado pela penitência” — poenitentia → “penitência” (Key Terms); estava “arrependimento”.
+- `pt-BR/g29-c001.md` [11]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c001.md` [12]: “levado pelo arrependimento” → “levado pela penitência” — poenitentia → “penitência” (Key Terms); estava “arrependimento”.
+- `pt-BR/g29-c001.md` [13]: “Judas pôde arrepender-se.” → “Judas pôde fazer penitência.” — poenitentiam capere → “fazer penitência” (Key Terms); estava “arrepender-se”.
+- `pt-BR/g29-c001.md` [15]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c002.md` [7]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c002.md` [12]: “no sepulcro novo escavado na rocha” → “no sepulcro novo escavado na pedra” — petra → “pedra” (Key Terms); estava “rocha”.
+- `pt-BR/g29-c003.md` [8]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c003.md` [10]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c003.md` [16]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c004.md` [6]: “sua mulher mandou dizer-lhe” → “sua esposa mandou dizer-lhe” — uxor → “esposa” (Key Terms); estava “mulher”.
+- `pt-BR/g29-c004.md` [14]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c004.md` [16]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c004.md` [18]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c004.md` [21]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c004.md` [21]: “sua mulher mandou dizer-lhe” → “sua esposa mandou dizer-lhe” — uxor → “esposa” (Key Terms); estava “mulher”.
+- `pt-BR/g29-c004.md` [22]: “a mulher de um gentio compreendeu” → “a esposa de um gentio compreendeu” — uxor → “esposa” (Key Terms); estava “mulher”.
+- `pt-BR/g29-c004.md` [24]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c004.md` [27]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c004.md` [29]: “ao que sua mulher lhe havia comunicado” → “ao que sua esposa lhe havia comunicado” — uxor → “esposa” (Key Terms); estava “mulher”.
+- `pt-BR/g29-c004.md` [36]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c005.md` [9]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c006.md` [10]: “Crisóstomo, Sermão sobre a paixão.” → “São João Crisóstomo, Sermão sobre a paixão.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c006.md` [15]: “membro da família e herdeiro de Deus.” → “um dos da casa de Deus e seu herdeiro.” — domesticus → “um dos da casa de Deus”, adaptando “os de sua casa” (Key Terms); estava “membro da família”.
+- `pt-BR/g29-c007.md` [8]: “da rocha espiritual” → “da pedra espiritual” — petra → “pedra” (Key Terms); estava “rocha”.
+- `pt-BR/g29-c007.md` [9]: “Crisóstomo, Sermão sobre a paixão.” → “São João Crisóstomo, Sermão sobre a paixão.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c007.md` [14]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+
+### Part terms 4 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 9 minor. Delta read of 143 changes in g26–g29: all correct; 9 minor fixes to neighbouring passages left inconsistent (sumo sacerdote, esposa).
+- `pt-BR/g28-c015.md` [19]: “contudo era conhecido do chefe dos sacerdotes” → “contudo era conhecido do sumo sacerdote” — principi sacerdotum designa o ofício individual (Caifás); Key Terms e §18 já trazem “sumo sacerdote”.
+- `pt-BR/g28-c016.md` [16]: ““E, levantando-se, o chefe dos sacerdotes lhe disse:” → ““E, levantando-se, o sumo sacerdote lhe disse:” — Citação do v. 62, agora vertido “sumo sacerdote” no §5; princeps sacerdotum individual (Key Terms).
+- `pt-BR/g28-c016.md` [21]: ““Então o chefe dos sacerdotes rasgou suas vestes” → ““Então o sumo sacerdote rasgou suas vestes” — Citação do v. 65, agora vertido “sumo sacerdote” no §8; princeps sacerdotum individual (Key Terms).
+- `pt-BR/g28-c014.md` [7]: “ferindo o servo do chefe dos sacerdotes, cortou” → “ferindo o servo do sumo sacerdote, cortou” — servum principis sacerdotum: servo do sumo sacerdote individual (Key Terms).
+- `pt-BR/g28-c014.md` [7]: “O servo do chefe dos sacerdotes chama-se Malco” → “O servo do sumo sacerdote chama-se Malco” — servus principis sacerdotum: ofício individual (Key Terms).
+- `pt-BR/g29-c003.md` [9]: “Ao responder ao chefe dos sacerdotes “tu o disseste”” → “Ao responder ao sumo sacerdote “tu o disseste”” — Principi sacerdotum: Caifás, ofício individual (Key Terms); cf. §11 “sumo sacerdote”.
+- `pt-BR/g29-c004.md` [23]: “que Pilatos e sua mulher, ao confessarem” → “que Pilatos e sua esposa, ao confessarem” — uxore → “esposa” (Key Terms), em linha com as correções de §§6, 21, 22, 29.
+- `pt-BR/g29-c004.md` [24]: “para que a compaixão pela mulher tornasse o marido” → “para que a compaixão pela esposa tornasse o marido” — ad uxorem → “esposa” (Key Terms); “a mulher o veja” (mulier) permanece.
+- `pt-BR/g29-c004.md` [25]: “na aflição de sua mulher” → “na aflição de sua esposa” — uxoris → “esposa” (Key Terms).
+- Rejected: touched chapters, attribution lines — “Jerônimo”, “Agostinho”, “Hilário” without “São/Santo” as in the Key Terms table — Uniform book-wide pattern outside the scope of this round's changes; a mass rename belongs to a full read or a table correction, not a delta.
+- Rejected: pt-BR/g27-c001.md [26] — “diante da vontade dos olhos” sounds awkward — Faithful to a voluntate and to the voluntas/cupiditas row; grammatical.
+- Rejected: pt-BR/g29-c001.md [13] — “arrepender-se/arrependeu-se” left beside “fazer penitência” — They render the verbs poenitere/poenituit, not the noun poenitentia; a defensible distinction.
+
+### Part terms 4 of 6, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 3 minor. Verificadas as nove alterações e lidos integralmente os vinte parágrafos e as duas notas apresentados; encontrados três desvios terminológicos menores.
+- `pt-BR/g28-c014.md` [6]: “e igualmente o alforje” → “e igualmente a sacola” — Pera está fixado como “sacola” na tabela de termos; “alforje” preserva o sentido, mas diverge da convenção.
+- `pt-BR/g28-c016.md` [20]: “O chefe dos sacerdotes, porém, pecava” → “O sumo sacerdote, porém, pecava” — Princeps sacerdotum designa o ofício individual; a tabela estabelece “sumo sacerdote”.
+- `pt-BR/g28-c016.md` [20]: “à adjuração do chefe dos sacerdotes” → “à adjuração do sumo sacerdote” — Principis sacerdotum designa o mesmo ofício individual; uniformiza com a tabela de termos.
+
+### Part terms 4 of 6, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read: as três alterações (sacola; sumo sacerdote ×2) estão corretas; uma ocorrência remanescente de “chefe dos sacerdotes” no §19 de g28-c016 corrigida.
+- `pt-BR/g28-c016.md` [19]: ““E o chefe dos sacerdotes lhe disse: Eu te adjuro” → ““E o sumo sacerdote lhe disse: Eu te adjuro” — princeps sacerdotum ait illi: ofício individual; a tabela de termos fixa “sumo sacerdote”, já usado no §6, no §20 e no início deste mesmo parágrafo (pontifex).
+- Rejected: pt-BR/g28-c014.md [5] — aspas desequilibradas (só ”) — A citação do discurso de Jesus começa em parágrafo anterior do bloco de versículos e fecha no §5.
+- Rejected: pt-BR/g28-c016.md [20] — “a imagem do homem celeste” acrescenta “homem” a imaginem caelestis — Explicita a alusão a 1 Cor 15,49 sem alterar o sentido; escolha defensável.
+
+### Part terms 4 of 6, Round 5 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificada a alteração para “sumo sacerdote” e lidos integralmente os §§18–20 e a nota [^64]; nenhum novo defeito encontrado.
+
+### Part terms 5 of 6, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 73 minor. 181 parágrafos sinalizados lidos; 68 apresentavam deriva, com 72 ocorrências corrigidas; uma linha do glossário ampliada.
+- `pt-BR/g29-c008.md` [8]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c008.md` [9]: “permaneciam sobre a rocha” → “permaneciam sobre a pedra” — petra → “pedra” (Key Terms); estava “rocha”.
+- `pt-BR/g29-c008.md` [12]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c008.md` [13]: “Crisóstomo, Sermão sobre a paixão.” → “São João Crisóstomo, Sermão sobre a paixão.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c008.md` [15]: “Crisóstomo, Sermão sobre a paixão.” → “São João Crisóstomo, Sermão sobre a paixão.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c008.md` [19]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c008.md` [22]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c008.md` [23]: “pela condição de seu sofrimento” → “pela condição de sua paixão” — passio → “paixão” (Key Terms); refere-se à paixão de Cristo.
+- `pt-BR/g29-c009.md` [8]: “Crisóstomo, Sermão sobre a paixão.” → “São João Crisóstomo, Sermão sobre a paixão.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c009.md` [11]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c009.md` [13]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c009.md` [15]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c009.md` [28]: “A divindade de Cristo experimentou” → “A deidade de Cristo experimentou” — deitas → “deidade” (Key Terms), distinguida de divinitas.
+- `pt-BR/g29-c009.md` [29]: “a divindade permaneceu inseparável” → “a deidade permaneceu inseparável” — deitas → “deidade” (Key Terms).
+- `pt-BR/g29-c009.md` [31]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c010.md` [2]: “as rochas se fenderam” → “as pedras se fenderam” — petrae → “pedras” (Key Terms).
+- `pt-BR/g29-c010.md` [12]: “as rochas se fenderam” → “as pedras se fenderam” — petrae → “pedras” (Key Terms).
+- `pt-BR/g29-c010.md` [14]: “as rochas se fendem” → “as pedras se fendem” — petrae → “pedras” (Key Terms).
+- `pt-BR/g29-c010.md` [15]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c010.md` [18]: “As rochas, que foram figura” → “As pedras, que foram figura” — petrae → “pedras” (Key Terms).
+- `pt-BR/g29-c010.md` [22]: “rompam-se as rochas das mentes” → “rompam-se as pedras das mentes” — petrae → “pedras” (Key Terms).
+- `pt-BR/g29-c010.md` [25]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c011.md` [10]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c011.md` [13]: “havia escavado na rocha” → “havia escavado na pedra” — petra → “pedra” (Key Terms).
+- `pt-BR/g29-c012.md` [15]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g29-c012.md` [17]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g3-c001.md` [6]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g3-c001.md` [9]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g3-c001.md` [12]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g3-c001.md` [14]: “consagrado com o óleo místico” → “consagrado com o unguento místico” — unguentum → “unguento” (Key Terms).
+- `pt-BR/g3-c001.md` [16]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g3-c001.md` [20]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g3-c001.md` [29]: “todos reconhecem igualmente como referentes” → “todos confessam igualmente como referentes” — confitentur → “confessam” (Key Terms); trata-se da confissão comum acerca da divindade do Filho.
+- `pt-BR/g3-c001.md` [45]: “considerar a divindade passível e mortal” → “considerar a deidade passível e mortal” — deitas → “deidade” (Key Terms); o divinitas anterior permanece “divindade”.
+- `pt-BR/g3-c002.md` [6]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g3-c002.md` [8]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g3-c002.md` [10]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g3-c002.md` [12]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g3-c002.md` [12]: “*Eu vos louvo, Pai, Senhor do céu e da terra*” → “*Eu vos confesso, Pai, Senhor do céu e da terra*” — confiteor → “confesso” (Key Terms); conserva a ligação expressa com confessor e confessar no comentário.
+- `pt-BR/g3-c003.md` [10]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g3-c003.md` [12]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g3-c003.md` [15]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g3-c003.md` [16]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g3-c003.md` [19]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g3-c003.md` [30]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g3-c003.md` [32]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g3-c004.md` [10]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g3-c005.md` [8]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g3-c005.md` [13]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g3-c006.md` [6]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g3-c006.md` [8]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/translation-journal.md`: “| Roboam / Helim / Aaron / Iesse | Roboão / Elim / Aarão / Jessé | |” → “| Roboam / Helim / Aaron / Iesse | Roboão / Elim / Aarão / Jessé | “Heli” nas passagens sobre o pai legal de José, em que o latim emprega Heli. |” — As ocorrências de Heli em g3-c007 usam consistentemente a forma portuguesa correta “Heli”; a linha não contemplava essa forma.
+- `pt-BR/g3-c007.md` [9]: “Crisóstomo, Sobre Mateus.” → “São João Crisóstomo, Sobre Mateus.” — Chrysostomus → “São João Crisóstomo” (Key Terms).
+- `pt-BR/g3-c009.md` [11]: “onde a divindade entrou em comunhão” → “onde a deidade entrou em comunhão” — deitas → “deidade” (Key Terms).
+- `pt-BR/g3-c013.md` [18]: “até aos tolos é evidente” → “até aos insensatos é evidente” — stultis → “insensatos” (Key Terms).
+- `pt-BR/g30-c002.md` [14]: “honrar toda a sua divindade” → “honrar toda a sua deidade” — deitas → “deidade” (Key Terms).
+- `pt-BR/g30-c003.md` [15]: “no dinheiro e na cobiça” → “no dinheiro e na concupiscência” — cupiditas → “concupiscência” (Key Terms).
+- `pt-BR/g30-c004.md` [6]: “até a consumação dos séculos” → “até a consumação do mundo” — consummatio saeculi → “consumação do mundo” (Key Terms).
+- `pt-BR/g30-c004.md` [25]: “todos os dias, até a consumação dos séculos” → “todos os dias, até a consumação do mundo” — consummatio saeculi → “consumação do mundo” (Key Terms).
+- `pt-BR/g30-c004.md` [25]: “não permaneceriam até a consumação dos séculos” → “não permaneceriam até a consumação do mundo” — consummatio saeculi → “consumação do mundo” (Key Terms).
+- `pt-BR/g30-c004.md` [29]: “até a consumação dos séculos” → “até a consumação do mundo” — consummatio saeculi → “consumação do mundo” (Key Terms).
+- `pt-BR/g4-c001.md` [14]: “Entre seu povo, contudo” → “Entre sua nação, contudo” — gens em sentido coletivo → “nação” (Key Terms).
+- `pt-BR/g4-c001.md` [14]: “reis e príncipes do mesmo povo” → “reis e príncipes da mesma nação” — gens em sentido coletivo → “nação” (Key Terms).
+- `pt-BR/g4-c008.md` [6]: “de vossa coroa no sofrimento por Cristo” → “de vossa coroa na paixão por Cristo” — passio → “paixão” (Key Terms); aqui designa o padecimento dos mártires.
+- `pt-BR/g4-c009.md` [5]: “nem a verdade do texto hebraico nem a Septuaginta” → “nem a verdade do texto hebraico nem os Setenta” — LXX → “os Setenta” (Key Terms), também quando designa sua versão.
+- `pt-BR/g5-c001.md` [24]: “sentado no posto de cobrança” → “sentado no posto de cobrança dos impostos” — telonium → “posto de cobrança dos impostos” (Key Terms).
+- `pt-BR/g5-c004.md` [32]: “exclui a precedência que vem da nobreza” → “exclui a primazia que vem da nobreza” — primatus → “primazia” (Key Terms); a nota inclui precedência.
+- `pt-BR/g5-c005.md` [23]: “Pelo instrumento de joeirar, isto é, a pá” → “Pela pá de joeirar, isto é, a pá” — ventilabrum → “pá de joeirar” (Key Terms); preserva a glosa latina idest palam.
+- `pt-BR/g5-c005.md` [24]: “lançados pela pá de Cristo” → “lançados pela pá de joeirar de Cristo” — ventilabrum → “pá de joeirar” (Key Terms).
+- `pt-BR/g5-c005.md` [27]: “por aquela pá do juízo final” → “por aquela pá de joeirar do juízo final” — ventilabrum → “pá de joeirar” (Key Terms).
+- `pt-BR/g5-c007.md` [15]: “nas fendas da rocha” → “nas fendas da pedra” — petra → “pedra” (Key Terms).
+- `pt-BR/g5-c007.md` [15]: “que é a rocha firme” → “que é a pedra firme” — petra → “pedra” (Key Terms).
+- `pt-BR/g5-c008.md` [8]: “Por essa comparação compreende-se” → “Por essa semelhança compreende-se” — similitudo → “semelhança” (Key Terms).
+
+### Part terms 5 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 3 minor. Delta read of 73 changes in g29–g5 and their neighbours: the changes are correct except one missed consummatio saeculi in g30-c004 [28], and two journal decisions (g3-c002 §12, g3-c001 §14) contradict the text.
+- `pt-BR/g30-c004.md` [28]: “Quanto ao que diz, “até a consumação dos séculos”” → “Quanto ao que diz, “até a consumação do mundo”” — usque ad consummationem saeculi → “consumação do mundo” (Key Terms); ocorrência deixada sem correção na rodada anterior, que uniformizou os §§6, 25 e 29.
+- `pt-BR/translation-journal.md`: “Em g3-c002, §12, *confiteor tibi* foi traduzido “eu vos louvo”, enquanto *confessor* conserva a referência à confissão do Pai.” → “Em g3-c002, §12, *confiteor tibi* foi traduzido “eu vos confesso”, conservando a ligação com *confessor*, “aquele que confessa”.” — Depois da correção da rodada anterior, o texto traz “Eu vos confesso”; a decisão do diário ficou falsa.
+- `pt-BR/translation-journal.md`: “Em g3-c001, §14, mantido “Jesus” para o antecessor de Israel posterior a Moisés, preservando a identidade do nome que sustenta o argumento.” → “Em g3-c001, §14, o sucessor de Moisés à frente de Israel foi vertido por “Josué”, com a referência a “esse nome” indicando a identidade com o nome de Jesus.” — O texto de g3-c001 [14] traz “Josué”, não “Jesus”; a decisão do diário descreve uma forma que não ocorre.
+- Rejected: pt-BR/g30-c003.md [15] — “concupiscência” para cupiditas talvez menos natural que “cobiça” junto a dinheiro — Segue a linha voluntas / cupiditas da tabela de termos; escolha defensável, sem alteração de sentido.
+- Rejected: pt-BR/g29-c008.md [21] — “rochas” mantido após a uniformização de petra → “pedra” — O latim aqui é saxis, não petrae; a regra não se aplica.
+- Rejected: pt-BR/g5-c005.md [23] — “Pela pá de joeirar, isto é, a pá” parece redundante — Reproduz a glosa latina ventilabrum, idest palam; a redundância é da fonte.
+
+### Part terms 5 of 6, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as três alterações da rodada anterior e lidos integralmente os §§27–29 de g30-c004; nenhuma falha objetiva encontrada no material mostrado.
+
+### Part terms 6 of 6, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 34 minor. 127 parágrafos sinalizados lidos; 29 ocorrências com desvio terminológico, 1 correção de sentido e 5 complementos de glossário.
+- `pt-BR/translation-journal.md`: “| Abraham / Isaac / Iacob | Abraão / Isaac / Jacó | |” → “| Abraham / Isaac / Iacob | Abraão / Isaac / Jacó | Quando designa o apóstolo, *Iacobus* é “Tiago”. |” — O apóstolo é corretamente chamado “Tiago”; “Jacó” designa o patriarca.
+- `pt-BR/translation-journal.md`: “| Faustus / Manichaeus / Nazaraei | Fausto / Manes / nazarenos | Nomes e designação heresiológica nos trechos de Contra Fausto. |” → “| Faustus / Manichaeus / Nazaraei | Fausto / Manes / nazarenos | Nomes e designação heresiológica nos trechos de Contra Fausto. Quando designa um adepto ou qualifica sua doutrina, *Manichaeus* é “maniqueu”, com as flexões correspondentes. |” — “Manes” é o nome próprio; “maniqueu” designa corretamente o adepto ou sua doutrina.
+- `pt-BR/translation-journal.md`: “| passio / propassio | paixão / propaixão | Distinção entre paixão consentida e movimento inicial, explicada na nota [^92]. |” → “| passio / propassio | paixão / propaixão | Distinção entre paixão consentida e movimento inicial, explicada na nota [^92]. Fora dessa distinção afetiva, *passio* também pode designar “sofrimento” ou “enfermidade”, conforme o contexto. |” — As ocorrências relativas aos males do povo e aos padecimentos alheios não designam paixão consentida.
+- `pt-BR/translation-journal.md`: “| confiteor / confessio | confesso / confissão | Conservados em g13-c008 para permitir a explicação dos sentidos de louvor e acusação de si. |” → “| confiteor / confessio | confesso / confissão | Conservados em g13-c008 para permitir a explicação dos sentidos de louvor e acusação de si. No sentido de afirmar ou anunciar expressamente, *confiteor* também se traduz por “declarar”. |” — “Declarar” é empregado corretamente e reiteradamente no sentido de afirmação expressa, inclusive no anúncio do juízo.
+- `pt-BR/translation-journal.md`: “| sapientia / fides / confessio | sabedoria / fé / confissão | “Confissão” também designa a profissão de fé. |” → “| sapientia / fides / confessio | sabedoria / fé / confissão | “Confissão” também designa a profissão de fé. Fora do sentido de fé religiosa, *fides* também pode significar “fidelidade”, “confiança” ou “crédito”, conforme o contexto. |” — As ocorrências de lealdade conjugal, confiança no sustento e crédito dado a alguém exigem esses sentidos distintos.
+- `pt-BR/g7-c012.md` [13]: “sentado na coletoria de impostos” → “sentado no posto de cobrança dos impostos” — *telonium* → “posto de cobrança dos impostos” (Key Terms); estava “coletoria de impostos”.
+- `pt-BR/g7-c016.md` [8]: “parece que o desejo se sacia e se extingue” → “parece que a concupiscência se sacia e se extingue” — *cupiditas* → “concupiscência” (Key Terms); estava “desejo”.
+- `pt-BR/g7-c016.md` [10]: “a chama do desejo” → “a chama da concupiscência” — *cupiditas* → “concupiscência” (Key Terms); estava “desejo”.
+- `pt-BR/g7-c018.md` [18]: “pelo desejo de mudar de matrimônio” → “pela concupiscência de mudar de matrimônio” — *cupiditas* → “concupiscência” (Key Terms); estava “desejo”.
+- `pt-BR/g7-c020.md` [16]: “com a disposição de um pai para com o filho pequeno” → “com a vontade de um pai para com o filho pequeno” — *voluntas* → “vontade” (Key Terms); estava “disposição”.
+- `pt-BR/g7-c020.md` [20]: “também a respeito dos escravos” → “também a respeito dos servos” — *servus* → “servo” (Key Terms); estava “escravo”.
+- `pt-BR/g7-c020.md` [20]: “um cristão possua um escravo” → “um cristão possua um servo” — *servus* → “servo” (Key Terms); estava “escravo”.
+- `pt-BR/g7-c020.md` [20]: “um cavalo valha mais do que um escravo” → “um cavalo valha mais do que um servo” — *servus* → “servo” (Key Terms); estava “escravo”.
+- `pt-BR/g7-c020.md` [20]: “Mas, se o escravo é governado” → “Mas, se o servo é governado” — *servus* → “servo” (Key Terms); estava “escravo”.
+- `pt-BR/g7-c021.md` [14]: “conservar um exame criterioso” → “conservar um exame de discernimento” — *discretio* → “discernimento” (Key Terms); estava parafraseado em “criterioso”.
+- `pt-BR/g8-c010.md` [9]: “mas a cobiça o venceu” → “mas a concupiscência o venceu” — *cupiditas* → “concupiscência” (Key Terms); estava “cobiça”.
+- `pt-BR/g8-c010.md` [9]: “desse mal da cobiça” → “desse mal da concupiscência” — *cupiditas* → “concupiscência” (Key Terms); estava “cobiça”.
+- `pt-BR/g8-c014.md` [6]: “com a cobiça das coisas terrenas” → “com a concupiscência das coisas terrenas” — *cupiditas* → “concupiscência” (Key Terms); estava “cobiça”.
+- `pt-BR/g8-c014.md` [15]: “tornando-te escravo delas” → “tornando-te servo delas” — *servus* → “servo” (Key Terms); estava “escravo”.
+- `pt-BR/g8-c021.md` [5]: “não tem uma carga suficiente” → “não tem um fardo suficiente” — *onus* → “fardo” (Key Terms); estava “carga”.
+- `pt-BR/g9-c002.md` [10]: “o peso do pecado de duvidarem” → “o fardo do pecado de duvidarem” — *onus* → “fardo” (Key Terms); estava “peso”.
+- `pt-BR/g9-c005.md` [6]: “não desesperasse de obter e nem sequer começasse a pedir” → “não deixasse sequer de começar a pedir por desesperar de obter” — O latim diz que a comparação impede que o desespero leve alguém a nem começar a pedir; a tradução invertia essa finalidade. *(meaning)*
+- `pt-BR/g9-c005.md` [6]: “introduziu a comparação entre pais e filhos” → “introduziu a semelhança entre pais e filhos” — *similitudo* → “semelhança” (Key Terms); estava “comparação”.
+- `pt-BR/g9-c005.md` [8]: “pela comparação com o pão e o peixe” → “pela semelhança com o pão e o peixe” — *similitudo* → “semelhança” (Key Terms); estava “comparação”.
+- `pt-BR/g9-c005.md` [8]: “uma ocasião de tropeço para a alma” → “um escândalo que faz a alma tropeçar” — *scandalum* → “escândalo” (Key Terms), conservando também a referência ao tropeço em *offensionis*.
+- `pt-BR/g9-c008.md` [19]: “sob a comparação do figo e da videira” → “sob a semelhança do figo e da videira” — *similitudo* → “semelhança” (Key Terms); estava “comparação”.
+- `pt-BR/g9-c008.md` [28]: “A partir da comparação precedente” → “A partir da semelhança precedente” — *similitudo* → “semelhança” (Key Terms); estava “comparação”.
+- `pt-BR/g9-c010.md` [2]: “sua casa sobre a rocha” → “sua casa sobre a pedra” — *petra* → “pedra” (Key Terms); estava “rocha”.
+- `pt-BR/g9-c010.md` [3]: “fundada sobre a rocha” → “fundada sobre a pedra” — *petra* → “pedra” (Key Terms); estava “rocha”.
+- `pt-BR/g9-c010.md` [7]: “a Igreja, sobre a rocha” → “a Igreja, sobre a pedra” — *petra* → “pedra” (Key Terms); estava “rocha”.
+- `pt-BR/g9-c010.md` [7]: “ele constrói sobre a rocha” → “ele constrói sobre a pedra” — *petra* → “pedra” (Key Terms); estava “rocha”.
+- `pt-BR/g9-c010.md` [10]: “os movimentos de desejos mais fortes” → “os movimentos de concupiscências mais fortes” — *cupiditas* → “concupiscência” (Key Terms); estava “desejos”.
+- `pt-BR/g9-c010.md` [11]: “sua casa fundada sobre a rocha” → “sua casa fundada sobre a pedra” — *petra* → “pedra” (Key Terms); estava “rocha”.
+- `pt-BR/g9-c010.md` [11]: “a quem constrói sobre a rocha” → “a quem constrói sobre a pedra” — *petra* → “pedra” (Key Terms); estava “rocha”.
+- `pt-BR/g9-c011.md` [12]: “se queremos construir sobre a rocha” → “se queremos construir sobre a pedra” — *petra* → “pedra” (Key Terms); estava “rocha”.
+
+### Part terms 6 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read: checked the 35 changes from round 1 (5 Key Terms rows, 29 terminology alignments, 1 sense fix in g9-c005 [6]) and all paragraphs shown with their neighbours; all changes are correct and I found no new defects.
+- Rejected: pt-BR/g9-c005.md [6] — In “não deixasse sequer de começar a pedir por desesperar de obter”, *sequer* seems to fall on “deixar” rather than on “começar”. — The sentence correctly renders *dum desperat impetrare, nec incipiat petere* (despair must not keep him from even beginning to ask). The placement of *sequer* is acceptable and the sense is clear; the reversed meaning of the earlier rendering was fixed.
+- Rejected: pt-BR/g8-c010.md [9] — “por cobiça dessas coisas” and “os desejos do ventre” were not brought in line with “concupiscência”. — The Latin there is *concupiscentiam* and *concupiscentias*, not *cupiditas*, so the Key Terms row for *cupiditas* does not apply. In [5] of g8-c014, *gloriae cupido* is also outside that row.
+- Rejected: pt-BR/g7-c020.md [16] — “com que disposição foram aplicados” in the same paragraph as the corrected “vontade”. — The Latin is *quo animo*, not *voluntas*. “Disposição” is correct there.
