@@ -14,17 +14,23 @@
   "description": {
     "fr-FR": "Les cinquante-quatre poésies de Thérèse (PN 1–54), écrites de 1893 à 1897 pour les fêtes de la communauté, pour ses sœurs et pour ses frères spirituels, de « Vivre d’Amour ! » à « Pourquoi je t’aime, ô Marie ! », suivies des huit poésies supplémentaires (PS 1–8). Texte authentique de l’édition du Centenaire, d’après les archives du Carmel de Lisieux.",
     "en-US": "The fifty-four poems of Thérèse (PN 1–54), written between 1893 and 1897 for community feasts, for her sisters and for her spiritual brothers, from “Living on Love” to “Why I Love You, O Mary”, followed by the eight supplementary poems (PS 1–8). The authentic text of the Centenary edition, from the archives of the Carmel of Lisieux.",
-    "pt-BR": "Os cinquenta e quatro poemas de Teresinha (PN 1–54), escritos de 1893 a 1897 para as festas da comunidade, para as irmãs e para os irmãos espirituais, de «Viver de Amor!» a «Por que te amo, ó Maria!», seguidos dos oito poemas suplementares (PS 1–8). Texto autêntico da edição do Centenário."
+    "pt-BR": "Os cinquenta e quatro poemas de Teresinha (PN 1–54), escritos de 1893 a 1897 para as festas da comunidade, para as irmãs e para os irmãos espirituais, de «Viver de Amor!» a «Por que te amo, ó Maria!», seguidos dos oito poemas suplementares (PS 1–8). Texto autêntico da edição do Centenário, segundo os arquivos do Carmelo de Lisieux."
   },
   "composed": "1893–1897",
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "therese-of-lisieux/poesies",
   "editions": {
     "fr-FR": {
       "editor": "Carmel de Lisieux (Nouvelle Édition du Centenaire)",
       "year": 1992
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,337 +47,393 @@
     {
       "id": "pn",
       "title": {
-        "fr-FR": "Poésies (PN 1–54)"
+        "fr-FR": "Poésies (PN 1–54)",
+        "pt-BR": "Poesias (PN 1–54)"
       },
       "children": [
         {
           "id": "pn-1",
           "title": {
-            "fr-FR": "PN 1. La Rosée Divine ou le Lait Virginal de Marie"
+            "fr-FR": "PN 1. La Rosée Divine ou le Lait Virginal de Marie",
+            "pt-BR": "PN 1. O Orvalho Divino ou o Leite Virginal de Maria"
           }
         },
         {
           "id": "pn-2",
           "title": {
-            "fr-FR": "PN 2. À Notre Maîtresse et Mère chérie pour fêter ses 60 ans"
+            "fr-FR": "PN 2. À Notre Maîtresse et Mère chérie pour fêter ses 60 ans",
+            "pt-BR": "PN 2. À Nossa Mestra e Mãe querida, para festejar os seus 60 anos"
           }
         },
         {
           "id": "pn-3",
           "title": {
-            "fr-FR": "PN 3. Sainte Cécile"
+            "fr-FR": "PN 3. Sainte Cécile",
+            "pt-BR": "PN 3. Santa Cecília"
           }
         },
         {
           "id": "pn-4",
           "title": {
-            "fr-FR": "PN 4. Cantique pour obtenir la Canonisation de la Vénérable Jeanne d'Arc"
+            "fr-FR": "PN 4. Cantique pour obtenir la Canonisation de la Vénérable Jeanne d'Arc",
+            "pt-BR": "PN 4. Cântico para obter a Canonização da Venerável Joana d'Arc"
           }
         },
         {
           "id": "pn-5",
           "title": {
-            "fr-FR": "PN 5. Mon chant d'aujourd'hui"
+            "fr-FR": "PN 5. Mon chant d'aujourd'hui",
+            "pt-BR": "PN 5. Meu canto de hoje"
           }
         },
         {
           "id": "pn-6",
           "title": {
-            "fr-FR": "PN 6. Le Portrait d'une Ame que j'Aime"
+            "fr-FR": "PN 6. Le Portrait d'une Ame que j'Aime",
+            "pt-BR": "PN 6. O Retrato de uma Alma que eu Amo"
           }
         },
         {
           "id": "pn-7",
           "title": {
-            "fr-FR": "PN 7. Chant de reconnaissance à Notre-Dame du Mont-Carmel"
+            "fr-FR": "PN 7. Chant de reconnaissance à Notre-Dame du Mont-Carmel",
+            "pt-BR": "PN 7. Canto de gratidão a Nossa Senhora do Monte Carmelo"
           }
         },
         {
           "id": "pn-8",
           "title": {
-            "fr-FR": "PN 8. Prière de l'Enfant d'un Saint"
+            "fr-FR": "PN 8. Prière de l'Enfant d'un Saint",
+            "pt-BR": "PN 8. Oração da Filha de um Santo"
           }
         },
         {
           "id": "pn-9",
           "title": {
-            "fr-FR": "PN 9. Prière d'une enfant exilée"
+            "fr-FR": "PN 9. Prière d'une enfant exilée",
+            "pt-BR": "PN 9. Oração de uma criança exilada"
           }
         },
         {
           "id": "pn-10",
           "title": {
-            "fr-FR": "PN 10. Histoire d'une Bergère devenue Reine"
+            "fr-FR": "PN 10. Histoire d'une Bergère devenue Reine",
+            "pt-BR": "PN 10. História de uma Pastora que se tornou Rainha"
           }
         },
         {
           "id": "pn-11",
           "title": {
-            "fr-FR": "PN 11. Pour la prise d'habit de Marie-Agnès de la Sainte Face"
+            "fr-FR": "PN 11. Pour la prise d'habit de Marie-Agnès de la Sainte Face",
+            "pt-BR": "PN 11. Para a tomada de hábito de Maria Inês da Sagrada Face"
           }
         },
         {
           "id": "pn-12",
           "title": {
-            "fr-FR": "PN 12. C'est près de vous, Vierge Marie"
+            "fr-FR": "PN 12. C'est près de vous, Vierge Marie",
+            "pt-BR": "PN 12. É junto de vós, Virgem Maria"
           }
         },
         {
           "id": "pn-13",
           "title": {
-            "fr-FR": "PN 13. La Reine du Ciel à son enfant bien-aimée Marie de la Ste Face"
+            "fr-FR": "PN 13. La Reine du Ciel à son enfant bien-aimée Marie de la Ste Face",
+            "pt-BR": "PN 13. A Rainha do Céu à sua filha muito amada Maria da Sagrada Face"
           }
         },
         {
           "id": "pn-14",
           "title": {
-            "fr-FR": "PN 14. A Notre Père Saint Joseph"
+            "fr-FR": "PN 14. A Notre Père Saint Joseph",
+            "pt-BR": "PN 14. A Nosso Pai São José"
           }
         },
         {
           "id": "pn-15",
           "title": {
-            "fr-FR": "PN 15. L'atome du Sacré-Coeur"
+            "fr-FR": "PN 15. L'atome du Sacré-Coeur",
+            "pt-BR": "PN 15. O átomo do Sagrado Coração"
           }
         },
         {
           "id": "pn-16",
           "title": {
-            "fr-FR": "PN 16. Chant de reconnaissance de la Fiancée de Jésus"
+            "fr-FR": "PN 16. Chant de reconnaissance de la Fiancée de Jésus",
+            "pt-BR": "PN 16. Canto de gratidão da Noiva de Jesus"
           }
         },
         {
           "id": "pn-17",
           "title": {
-            "fr-FR": "PN 17. Vivre d'amour !..."
+            "fr-FR": "PN 17. Vivre d'amour !...",
+            "pt-BR": "PN 17. Viver de amor!..."
           }
         },
         {
           "id": "pn-18",
           "title": {
-            "fr-FR": "PN 18. Le Cantique de Céline"
+            "fr-FR": "PN 18. Le Cantique de Céline",
+            "pt-BR": "PN 18. O Cântico de Celina"
           }
         },
         {
           "id": "pn-18bis",
           "title": {
-            "fr-FR": "PN 18 bis. Qui a Jésus a Tout"
+            "fr-FR": "PN 18 bis. Qui a Jésus a Tout",
+            "pt-BR": "PN 18 bis. Quem tem Jesus tem Tudo"
           }
         },
         {
           "id": "pn-19",
           "title": {
-            "fr-FR": "PN 19. L'atome de Jésus-Hostie"
+            "fr-FR": "PN 19. L'atome de Jésus-Hostie",
+            "pt-BR": "PN 19. O átomo de Jesus-Hóstia"
           }
         },
         {
           "id": "pn-20",
           "title": {
-            "fr-FR": "PN 20. Mon Ciel ici-bas !..."
+            "fr-FR": "PN 20. Mon Ciel ici-bas !...",
+            "pt-BR": "PN 20. Meu Céu na terra!..."
           }
         },
         {
           "id": "pn-21",
           "title": {
-            "fr-FR": "PN 21. Cantique d'une âme ayant trouvé le lieu de son repos !..."
+            "fr-FR": "PN 21. Cantique d'une âme ayant trouvé le lieu de son repos !...",
+            "pt-BR": "PN 21. Cântico de uma alma que encontrou o lugar do seu repouso!..."
           }
         },
         {
           "id": "pn-22",
           "title": {
-            "fr-FR": "PN 22. A ma Mère Chérie le Bel Ange de mon enfance"
+            "fr-FR": "PN 22. A ma Mère Chérie le Bel Ange de mon enfance",
+            "pt-BR": "PN 22. À minha Mãe Querida, o Belo Anjo da minha infância"
           }
         },
         {
           "id": "pn-23",
           "title": {
-            "fr-FR": "PN 23. Au Sacré-Coeur de Jésus"
+            "fr-FR": "PN 23. Au Sacré-Coeur de Jésus",
+            "pt-BR": "PN 23. Ao Sagrado Coração de Jesus"
           }
         },
         {
           "id": "pn-24",
           "title": {
-            "fr-FR": "PN 24. Jésus, mon Bien-Aimé, rappelle-toi !..."
+            "fr-FR": "PN 24. Jésus, mon Bien-Aimé, rappelle-toi !...",
+            "pt-BR": "PN 24. Jesus, meu Bem-Amado, lembra-te!..."
           }
         },
         {
           "id": "pn-25",
           "title": {
-            "fr-FR": "PN 25. Mes Désirs auprès de Jésus caché dans sa Prison d'Amour"
+            "fr-FR": "PN 25. Mes Désirs auprès de Jésus caché dans sa Prison d'Amour",
+            "pt-BR": "PN 25. Meus Desejos junto de Jesus escondido na sua Prisão de Amor"
           }
         },
         {
           "id": "pn-26",
           "title": {
-            "fr-FR": "PN 26. Les Répons de Ste Agnès"
+            "fr-FR": "PN 26. Les Répons de Ste Agnès",
+            "pt-BR": "PN 26. Os Responsórios de Santa Inês"
           }
         },
         {
           "id": "pn-27",
           "title": {
-            "fr-FR": "PN 27. Souvenir du 24 Février 1896"
+            "fr-FR": "PN 27. Souvenir du 24 Février 1896",
+            "pt-BR": "PN 27. Lembrança de 24 de fevereiro de 1896"
           }
         },
         {
           "id": "pn-28",
           "title": {
-            "fr-FR": "PN 28. Le Cantique Éternel chanté dès l'exil"
+            "fr-FR": "PN 28. Le Cantique Éternel chanté dès l'exil",
+            "pt-BR": "PN 28. O Cântico Eterno cantado desde o exílio"
           }
         },
         {
           "id": "pn-29",
           "title": {
-            "fr-FR": "PN 29. « Qu'il nous est doux... »"
+            "fr-FR": "PN 29. « Qu'il nous est doux... »",
+            "pt-BR": "PN 29. “Como nos é doce...”"
           }
         },
         {
           "id": "pn-30",
           "title": {
-            "fr-FR": "PN 30. Glose sur le Divin"
+            "fr-FR": "PN 30. Glose sur le Divin",
+            "pt-BR": "PN 30. Glosa sobre o Divino"
           }
         },
         {
           "id": "pn-31",
           "title": {
-            "fr-FR": "PN 31. Le Cantique de Soeur Marie de la Trinité et de la Ste Face"
+            "fr-FR": "PN 31. Le Cantique de Soeur Marie de la Trinité et de la Ste Face",
+            "pt-BR": "PN 31. O Cântico de Irmã Maria da Trindade e da Sagrada Face"
           }
         },
         {
           "id": "pn-32",
           "title": {
-            "fr-FR": "PN 32. Mon Ciel à Moi !..."
+            "fr-FR": "PN 32. Mon Ciel à Moi !...",
+            "pt-BR": "PN 32. O meu Céu!..."
           }
         },
         {
-          "id": "pn-33 ",
+          "id": "pn-33",
           "title": {
-            "fr-FR": "PN 33 . Ce que je verrai bientôt pour la Première fois !..."
+            "fr-FR": "PN 33 . Ce que je verrai bientôt pour la Première fois !...",
+            "pt-BR": "PN 33 . O que verei em breve pela Primeira vez!..."
           }
         },
         {
           "id": "pn-34",
           "title": {
-            "fr-FR": "PN 34. Jeter des fleurs"
+            "fr-FR": "PN 34. Jeter des fleurs",
+            "pt-BR": "PN 34. Lançar flores"
           }
         },
         {
           "id": "pn-35",
           "title": {
-            "fr-FR": "PN 35. À Notre Dame des Victoires Reine des Vierges, des Apôtres et des Martyrs"
+            "fr-FR": "PN 35. À Notre Dame des Victoires Reine des Vierges, des Apôtres et des Martyrs",
+            "pt-BR": "PN 35. A Nossa Senhora das Vitórias, Rainha das Virgens, dos Apóstolos e dos Mártires"
           }
         },
         {
           "id": "pn-36",
           "title": {
-            "fr-FR": "PN 36. Jésus seul"
+            "fr-FR": "PN 36. Jésus seul",
+            "pt-BR": "PN 36. Só Jesus"
           }
         },
         {
           "id": "pn-37",
           "title": {
-            "fr-FR": "PN 37. C'est un triste bouquet de fête"
+            "fr-FR": "PN 37. C'est un triste bouquet de fête",
+            "pt-BR": "PN 37. É um triste ramalhete de festa"
           }
         },
         {
           "id": "pn-38",
           "title": {
-            "fr-FR": "PN 38. Confidence de Jésus à Thérèse"
+            "fr-FR": "PN 38. Confidence de Jésus à Thérèse",
+            "pt-BR": "PN 38. Confidência de Jesus a Teresa"
           }
         },
         {
           "id": "pn-39",
           "title": {
-            "fr-FR": "PN 39. Un Docteur Saint et Célèbre"
+            "fr-FR": "PN 39. Un Docteur Saint et Célèbre",
+            "pt-BR": "PN 39. Um Doutor Santo e Célebre"
           }
         },
         {
           "id": "pn-40",
           "title": {
-            "fr-FR": "PN 40. Les Sacristines du Carmel"
+            "fr-FR": "PN 40. Les Sacristines du Carmel",
+            "pt-BR": "PN 40. As Sacristãs do Carmelo"
           }
         },
         {
           "id": "pn-41",
           "title": {
-            "fr-FR": "PN 41. Comment je veux aimer"
+            "fr-FR": "PN 41. Comment je veux aimer",
+            "pt-BR": "PN 41. Como eu quero amar"
           }
         },
         {
           "id": "pn-42",
           "title": {
-            "fr-FR": "PN 42. Enfant, tu connais mon nom"
+            "fr-FR": "PN 42. Enfant, tu connais mon nom",
+            "pt-BR": "PN 42. Menino, tu conheces o meu nome"
           }
         },
         {
           "id": "pn-43",
           "title": {
-            "fr-FR": "PN 43. La Volière de l'Enfant Jésus"
+            "fr-FR": "PN 43. La Volière de l'Enfant Jésus",
+            "pt-BR": "PN 43. O Viveiro do Menino Jesus"
           }
         },
         {
           "id": "pn-44",
           "title": {
-            "fr-FR": "PN 44. A mes Petits Frères du Ciel"
+            "fr-FR": "PN 44. A mes Petits Frères du Ciel",
+            "pt-BR": "PN 44. Aos meus Irmãozinhos do Céu"
           }
         },
         {
           "id": "pn-45",
           "title": {
-            "fr-FR": "PN 45. Ma joie !"
+            "fr-FR": "PN 45. Ma joie !",
+            "pt-BR": "PN 45. Minha alegria!"
           }
         },
         {
           "id": "pn-46",
           "title": {
-            "fr-FR": "PN 46. A mon ange gardien"
+            "fr-FR": "PN 46. A mon ange gardien",
+            "pt-BR": "PN 46. Ao meu anjo da guarda"
           }
         },
         {
           "id": "pn-47",
           "title": {
-            "fr-FR": "PN 47. A Théophane Vénard"
+            "fr-FR": "PN 47. A Théophane Vénard",
+            "pt-BR": "PN 47. A Teófano Vénard"
           }
         },
         {
           "id": "pn-48",
           "title": {
-            "fr-FR": "PN 48. Mes Armes"
+            "fr-FR": "PN 48. Mes Armes",
+            "pt-BR": "PN 48. Minhas Armas"
           }
         },
         {
           "id": "pn-49",
           "title": {
-            "fr-FR": "PN 49. A Notre Dame du Perpétuel Secours"
+            "fr-FR": "PN 49. A Notre Dame du Perpétuel Secours",
+            "pt-BR": "PN 49. A Nossa Senhora do Perpétuo Socorro"
           }
         },
         {
           "id": "pn-50",
           "title": {
-            "fr-FR": "PN 50. A Jeanne d'Arc"
+            "fr-FR": "PN 50. A Jeanne d'Arc",
+            "pt-BR": "PN 50. A Joana d'Arc"
           }
         },
         {
           "id": "pn-51",
           "title": {
-            "fr-FR": "PN 51. Une rose effeuillée"
+            "fr-FR": "PN 51. Une rose effeuillée",
+            "pt-BR": "PN 51. Uma rosa desfolhada"
           }
         },
         {
           "id": "pn-52",
           "title": {
-            "fr-FR": "PN 52. L'abandon est le fruit délicieux de l'amour"
+            "fr-FR": "PN 52. L'abandon est le fruit délicieux de l'amour",
+            "pt-BR": "PN 52. O abandono é o fruto delicioso do amor"
           }
         },
         {
           "id": "pn-53",
           "title": {
-            "fr-FR": "PN 53. Pour Sr Marie de la Trinité"
+            "fr-FR": "PN 53. Pour Sr Marie de la Trinité",
+            "pt-BR": "PN 53. Para Ir. Maria da Trindade"
           }
         },
         {
           "id": "pn-54",
           "title": {
-            "fr-FR": "PN 54. Pourquoi je t'aime, ô Marie !"
+            "fr-FR": "PN 54. Pourquoi je t'aime, ô Marie !",
+            "pt-BR": "PN 54. Por que te amo, ó Maria!"
           }
         }
       ]
@@ -379,55 +441,64 @@
     {
       "id": "ps",
       "title": {
-        "fr-FR": "Poésies supplémentaires (PS 1–8)"
+        "fr-FR": "Poésies supplémentaires (PS 1–8)",
+        "pt-BR": "Poesias suplementares (PS 1–8)"
       },
       "children": [
         {
           "id": "ps-1",
           "title": {
-            "fr-FR": "PS 1. O Dieu caché"
+            "fr-FR": "PS 1. O Dieu caché",
+            "pt-BR": "PS 1. Ó Deus escondido"
           }
         },
         {
           "id": "ps-2",
           "title": {
-            "fr-FR": "PS 2. En Orient"
+            "fr-FR": "PS 2. En Orient",
+            "pt-BR": "PS 2. No Oriente"
           }
         },
         {
           "id": "ps-3",
           "title": {
-            "fr-FR": "PS 3. Depuis cinquante ans"
+            "fr-FR": "PS 3. Depuis cinquante ans",
+            "pt-BR": "PS 3. Há cinquenta anos"
           }
         },
         {
           "id": "ps-4",
           "title": {
-            "fr-FR": "PS 4. Le Ciel en est le prix"
+            "fr-FR": "PS 4. Le Ciel en est le prix",
+            "pt-BR": "PS 4. O Céu é o seu prêmio"
           }
         },
         {
           "id": "ps-5",
           "title": {
-            "fr-FR": "PS 5. Pour une Sainte-Marthe"
+            "fr-FR": "PS 5. Pour une Sainte-Marthe",
+            "pt-BR": "PS 5. Para uma festa de Santa Marta"
           }
         },
         {
           "id": "ps-6",
           "title": {
-            "fr-FR": "PS 6. Moi aussi, Mère bien-aimée"
+            "fr-FR": "PS 6. Moi aussi, Mère bien-aimée",
+            "pt-BR": "PS 6. Eu também, Mãe muito amada"
           }
         },
         {
           "id": "ps-7",
           "title": {
-            "fr-FR": "PS 7. Le silence est le doux langage"
+            "fr-FR": "PS 7. Le silence est le doux langage",
+            "pt-BR": "PS 7. O silêncio é a doce linguagem"
           }
         },
         {
           "id": "ps-8",
           "title": {
-            "fr-FR": "PS 8. Toi qui connais ma petitesse extrême"
+            "fr-FR": "PS 8. Toi qui connais ma petitesse extrême",
+            "pt-BR": "PS 8. Tu que conheces a minha extrema pequenez"
           }
         }
       ]
