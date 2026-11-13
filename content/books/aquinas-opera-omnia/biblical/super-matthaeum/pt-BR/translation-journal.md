@@ -57,7 +57,7 @@ Destino: pt-BR.
 | supererogatio | supererrogação | Bem realizado além do obrigatório; nota [^7]. |
 | sumptus / victualia | sustento, provisões / alimentos | Tradução conforme se trata da manutenção ou dos recursos levados em viagem. |
 | pera / virga / baculus | alforje / bastão / bastão | Na citação do Salmo 22:4, “vara / bastão” conserva a distinção entre os dois últimos termos. |
-| hospes / hospitium | anfitrião ou hóspede / hospedagem | *Hospes* traduzido conforme a função da pessoa no contexto. |
+| hospes / hospitium | anfitrião ou hóspede / hospedagem | *Hospes* traduzido conforme a função da pessoa no contexto. “Estrangeiro” em Mateus 25, para quem necessita de acolhimento. |
 | Manichaeus / Epistola fundamenti | Mani / Carta do fundamento | Autor e título citados no n. 812. |
 | Apostolici | apostólicos | Nome do grupo mencionado no n. 821. |
 | Cephas / Alphaeus / Thadaeus / Issachar | Cefas / Alfeu / Tadeu / Issacar | |
@@ -87,7 +87,7 @@ Destino: pt-BR.
 | puer | menino / servo | “Menino” no lema de Isaías e “servo” na explicação do segundo sentido; nota [^13]. |
 | appropriari | atribuir-se por apropriação | Conforme o Compêndio de teologia; preserva a distinção entre apropriação e propriedade pessoal. |
 | peccatum in Spiritum Sanctum / ex certa malitia | pecado contra o Espírito Santo / por malícia deliberada | Terminologia da discussão dos nn. 1023–1033. |
-| desperatio / praesumptio / impoenitentia / obstinatio | desespero / presunção / impenitência / obstinação | Espécies de pecado contra o Espírito Santo. |
+| desperatio / praesumptio / impoenitentia / obstinatio | desespero / presunção / impenitência / obstinação | Espécies de pecado contra o Espírito Santo. Nos nn. 267 e 271, “desperatio (de) iudicio” traduz-se por “descrença no juízo”, conforme a explicação de que não creem que haja juízo. |
 | impugnatio veritatis agnitae / invidia fraternae gratiae | impugnação da verdade conhecida / inveja da graça fraterna | Conservadas as expressões da enumeração do n. 1033. |
 | intentio / voluntas / meritum / praemium essentiale / praemium accidentale | intenção / vontade / mérito / recompensa essencial / recompensa acidental | Distinções dos nn. 1040–1042; *praemium substantiale* permanece “recompensa substancial”. |
 | verbum otiosum / verbum perniciosum | palavra ociosa / palavra perniciosa | Conservada a distinção entre ausência de utilidade e produção de dano. |
@@ -194,7 +194,7 @@ Destino: pt-BR.
 | cathedra Moysi | cátedra de Moisés | Conservada a imagem da sede de ensino e autoridade. |
 | phylacteria / fimbriae | filactérios / franjas | Objetos e elementos do vestuário explicados no n. 1844. |
 | Rabbi | Rabi | Título explicado pelo próprio comentário como “mestre”. |
-| minister / ministerium | servidor, ministro / ministério | “Servidor” na exortação à humildade; “ministro” nas fórmulas apostólicas. |
+| minister / ministerium | servidor, ministro / ministério | “Servidor” na exortação à humildade; “ministro” nas fórmulas apostólicas. “Serviço” para *ministerium* enquanto assistência concreta prestada a alguém, inclusive pelos discípulos e pelas multidões. |
 | proselytus / gehenna | prosélito / geena | Conservadas as designações da passagem evangélica. |
 | mentha / anethum / cyminum | hortelã / endro / cominho | Plantas mencionadas a propósito dos dízimos. |
 | calix / paropsis | cálice / prato | Na comparação entre pureza exterior e interior. |
@@ -216,7 +216,7 @@ Destino: pt-BR.
 | Avicenna / Rabanus / Remigius | Avicena / Rabano / Remígio | Formas portuguesas dos autores citados. |
 | subsolanus / Favonius / Boreas / Auster | Subsolano / Favônio / Bóreas / Austro | Nomes dos ventos, com as direções explicadas pelo próprio texto. |
 | virgines prudentes / fatuae | virgens prudentes / insensatas | Mantida “sábias” quando a fonte emprega *sapientes*. |
-| lampades / oleum | lâmpadas / óleo | Preservadas as diversas interpretações alegóricas apresentadas pelo autor. |
+| lampades / oleum | lâmpadas / óleo | Preservadas as diversas interpretações alegóricas apresentadas pelo autor. “Azeite” quando se trata especificamente do óleo de oliva, inclusive nas aplicações alegóricas. |
 | talenta / nummularii | talentos / banqueiros | O próprio comentário explica o talento como peso de metal e o duplo ofício dos banqueiros. |
 | bona naturalia / bona gratuita | bens naturais / bens gratuitos | Distinção entre os bens da natureza e os dons da graça. |
 | conatus / nixus | esforço / empenho | Conforme o contexto da disposição para a graça e do exercício da caridade. |
@@ -364,7 +364,7 @@ Destino: pt-BR.
 | oratio meritoria / impetratoria | oração meritória / impetratória | Distinção entre merecer e alcançar o que se pede. |
 | festuca / trabs | cisco / trave | Imagens da comparação entre pecados leves e graves. |
 | De opere monachorum / De operibus monachorum | Sobre o trabalho dos monges | Uniformizadas as duas formas do título da obra de Agostinho presentes no latim. |
-| pastor / lupus / mercenarius | pastor / lobo / mercenário | Distinção entre quem governa, quem pretende a perdição e quem busca proveito próprio. |
+| pastor / lupus / mercenarius | pastor / lobo / mercenário | Distinção entre quem governa, quem pretende a perdição e quem busca proveito próprio. “Assalariado” para o trabalhador contratado que aguarda sua remuneração, sem implicar busca desordenada de proveito próprio, no n. 1625. |
 | principium naturae / principium moris | princípio da natureza / princípio da moralidade | Distinção do n. 661 entre a alma e a vontade como princípios. |
 | intellectus / affectus | intelecto / afeto | Mantida a distinção na análise do fundamento da vida moral, nos nn. 674–675. |
 | donum intelligentiae | dom do entendimento | Um dos sete dons relacionados às bem-aventuranças no n. 679. |
@@ -635,7 +635,7 @@ Destino: pt-BR.
 - Notas [^74]–[^76]: esclarecem, respectivamente, a designação “sarracenos” e a alusão ao jejum do Ramadã; o significado do nome Deuteronômio; e os sentidos de leveza e peso explorados em *alleviata* e *aggravata*.
 - Conservadas as referências bíblicas da fonte, inclusive Isaías 41:23 no n. 329, Jeremias 1:15 no n. 335, Deuteronômio 6:16 no n. 343 e João 1:28 no n. 382; “último capítulo” de 2 Pedro foi expandido para 2 Pedro 3.
 - Preservadas sem harmonização a conta dos dias de jejum no n. 313, a cronologia dos anos de pregação nos nn. 349–350, a localização da outra parte da Galileia na tribo de Judá no n. 356 e a afirmação de que o verbo exprime a voz no n. 360.
-- Conservadas as formulações difíceis sobre a filiação divina no n. 330 e sobre a dignidade e seu esplendor no n. 370, sem substituir o latim por uma reconstrução conjectural.
+- Conservadas as formulações difíceis sobre a filiação divina no n. 330 e sobre a dignidade e sua claridade no n. 370, sem substituir o latim por uma reconstrução conjectural.
 - As interpretações tradicionais dos nomes foram traduzidas como apresentadas pelo autor, inclusive Pedro como “aquele que conhece”; *satan*, *latria* e *dulia* foram conservados em itálico quando tratados como vocábulos.
 - No n. 386, a construção elíptica foi vertida distinguindo a perfeição proveniente da graça da perfeição política proveniente do hábito.
 - Conservadas as referências e formulações da fonte sem harmonização, inclusive Lucas 6:1 no n. 391, Gênesis 15:7 no n. 412, a citação associada a Josué 15:19 no n. 422 e o capítulo 19 do último livro de *A cidade de Deus* no n. 434.
@@ -658,7 +658,7 @@ Destino: pt-BR.
 - Mantidas as 38, 66 e 23 unidades dos três arquivos, além das definições das notas acrescentadas; conservados os níveis dos títulos e os blocos de citação. Preservado o marcador incompleto “[n.” de Mateus 6:10.
 - Traduzido o Pai-Nosso conforme o latim recebido, inclusive “assim no céu como na terra”, “pão nosso supersubstancial” e “não nos conduzais à tentação”. Não acrescentado “Amém” ao texto de Mateus 6:13, onde o latim não o traz; conservada sua exposição no n. 600.
 - Preservadas as referências divergentes ou incompletas, sem substituí-las pelas da tradução inglesa: entre outras, 2 Samuel 14, 1 Samuel 16:1, Eclesiastes 7:9, Eclesiástico 5:1, Gálatas 2:3, Deuteronômio 33:4, Lucas 4, Êxodo 9:9, Sabedoria 12, Mateus 10 na exposição da paternidade divina, Jeremias 7, Isaías 4, Mateus 26:34, João na citação “Foi-me dado o poder”, 1 Timóteo 4 e Tessalonicenses, 1 Coríntios 9, Sabedoria 9, João 6, 1 Timóteo 5, Eclesiástico 28, Salmos 51:12, Provérbios 7, Eclesiástico 18, Mateus 10:42 e Provérbios 20:11. As referências a Reis na numeração da Vulgata foram vertidas pelos nomes correspondentes de Samuel e Reis; não se alteraram os capítulos recebidos.
-- Conservadas sem reconstrução as irregularidades dos nn. 572–578: alternância entre singular e plural em “quando orares, não sereis”; descrição abreviada da disposição e do lugar; formulação sobre proibir o modo de oração pelo qual se elimina a vanglória; “e isso é todo o efeito”; o fragmento “da igreja” após Eclesiastes 7:9; e “ninguém ora senão àquele que vê”.
+- Conservadas sem reconstrução as irregularidades dos nn. 572–578: alternância entre singular e plural em “quando orares, não sereis”; descrição abreviada do afeto e do lugar; formulação sobre proibir o modo de oração pelo qual se elimina a vanglória; “e isso é todo o efeito”; o fragmento “da igreja” após Eclesiastes 7:9; e “ninguém ora senão àquele que vê”.
 - Preservadas as passagens truncadas ou irregulares dos nn. 592–600, incluindo “Bem-aventurado, tu que comerás o pão”, a conclusão “pela santificação” na comparação do pão oferecido ao sacerdote, a citação “Se dissermos que os pecados” e “por isso ninguém pode” na explicação da doxologia. Mantida a atribuição dessa doxologia ao hebraico.
 - No n. 605, conservadas a frase “E não é, porque...” e a oração sem sujeito expresso “tanto mais se enfraquece”; nos nn. 606, 608 e 609, mantidos “esta é a oração”, “coisas comuns aos hipócritas” e “assim também nossa consciência”, sem completar ou inverter o sentido recebido.
 - Nota [^90]: esclarece o sentido litúrgico de “Horas”. Nota [^91]: traduz os equivalentes latinos *praecipuum* e *egregium*, conservados como dados lexicais ao lado de *epiousion*. Nota [^92]: explica a formação de *exterminare* e sua relação com a interpretação de “desfigurar”.
@@ -938,3 +938,215 @@ Verdict: 0 meaning-level, 0 minor. Delta read of g8-c003 [24]–[26] and note [^
 - Rejected: pt-BR/g8-c003.md [26] — Emphasis markers differ (source 34, pt-BR 28). — The source marks «***adveniat*** ergo ***regnum tuum***» as two spans; the translation joins them in one span, «***venha o vosso reino***», because it is a single phrase in Portuguese. No content is lost.
 - Rejected: pt-BR/g8-c003.md [25] — «abaixo, no capítulo 26:34» cites «Vinde, benditos», which is Matthew 25:34. — The source reads «infra XXVI, 34». Under the journal decision, divergent received references are conserved.
 - Rejected: pt-BR/g8-c003.md [26] — «João: Foi-me dado o poder» is Matthew 28:18. — The source reads «Ioh.». This is a divergent received reference and is conserved.
+
+### Part terms 1 of 4, Round 1 (codex, terms read)
+Verdict: 2 meaning-level, 46 minor. 219 parágrafos sinalizados lidos; 44 apresentaram desvio, com 48 correções, incluindo uma correção adicional de sentido.
+- `pt-BR/g10-c001.md` [20]: “manifesta-se a solicitude” → “manifesta-se a preocupação” — *sollicitudo* → “preocupação” (Key Terms); estava “solicitude”
+- `pt-BR/g10-c001.md` [24]: “Segue-se a solicitude” → “Segue-se a preocupação” — *sollicitudo* → “preocupação” (Key Terms); estava “solicitude”
+- `pt-BR/g10-c001.md` [32]: “parece transgredir a lei” → “parece violar a lei” — *solvere legem*, no sentido de transgressão, → “violar a lei”, conforme as notas da linha
+- `pt-BR/g10-c001.md` [32]: “não a transgride” → “não a viola” — *non solvit* retoma a violação da lei; a linha prescreve “violar” nessa acepção
+- `pt-BR/g10-c003.md` [63]: “não reconheça o pai carnal” → “não reconheça o pai segundo a carne” — *patrem carnalem* → “pai segundo a carne” (Key Terms); estava “pai carnal”
+- `pt-BR/g10-c004.md` [32]: “era solícito em cuidar dos homens” → “estava preocupado em cuidar dos homens” — *sollicitum* → “preocupado”, conservando o vocabulário de *sollicitudo*
+- `pt-BR/g11-c004.md` [38]: “um exemplo de solicitude, para que prontamente se empenhem em remediar os pecados” → “um exemplo de preocupação, para que prontamente se preocupem em remediar os pecados” — *sollicitudine* e *solliciti* → “preocupação” e “preocupem” (Key Terms)
+- `pt-BR/g12-c001.md` [43]: “da raiz e da seiva da oliveira” → “da raiz e da abundância da oliveira” — *pinguedinis* → “abundância” na aplicação espiritual à fé dos patriarcas, conforme a linha
+- `pt-BR/g12-c002.md` [141]: “por um pequeno prazer” → “por uma pequena deleitação” — *modica delectatione* → “pequena deleitação” (Key Terms); estava “pequeno prazer”
+- `pt-BR/g13-c001.md` [53]: “mas a disposição de quem as usa” → “mas o afeto de quem as usa” — *affectus* → “afeto” (Key Terms); designa aqui o movimento interior de quem usa as vestes
+- `pt-BR/g13-c002.md` [17]: “buscar prazeres, e sempre os busca” → “buscar deleitações, e sempre as busca” — *delectationes* → “deleitações” (Key Terms), com ajuste do pronome
+- `pt-BR/g13-c002.md` [17]: “se precipita em prazeres maus” → “se precipita em deleitações más” — *malas delectationes* → “deleitações más” (Key Terms)
+- `pt-BR/g13-c002.md` [18]: “se compraz na convivência” → “se deleita na convivência” — *delectatur* → “se deleita”, conservando o vocabulário de *delectatio*
+- `pt-BR/g13-c002.md` [19]: “sentir prazer em alguma representação” → “sentir deleitação em alguma representação” — *delectatio* → “deleitação” (Key Terms); estava “prazer”
+- `pt-BR/g13-c003.md` [17]: “a bondade de Deus te conduz” → “a benignidade de Deus te conduz” — *benignitas* → “benignidade” (Key Terms); estava “bondade”
+- `pt-BR/g14-c001.md` [78]: “cuja mão e capacidade de agir secaram” → “cuja mão e virtude operativa secaram” — *virtus operativa* → “virtude operativa”; a linha determina “virtude” para a eficácia operativa
+- `pt-BR/g14-c001.md` [117]: “O clamor procede da paixão.” → “O clamor procede do afeto.” — *affectione* corresponde ao afeto; “paixão” introduz outro termo técnico, distinguido no glossário *(meaning)*
+- `pt-BR/g14-c003.md` [62]: “mostra sua diligência” → “mostra sua preocupação” — *sollicitudinem* → “preocupação” (Key Terms); estava “diligência”
+- `pt-BR/g15-c001.md` [68]: “é necessário o cuidado” → “é necessária a preocupação” — *sollicitudo* → “preocupação” (Key Terms); estava “cuidado”
+- `pt-BR/g15-c001.md` [69]: “o cuidado, pelo germinar dos vícios” → “a preocupação, pelo germinar dos vícios” — *sollicitudo* → “preocupação” (Key Terms); estava “cuidado”
+- `pt-BR/g15-c001.md` [78]: “O Senhor dará sua bondade” → “O Senhor dará sua benignidade” — *benignitatem* → “benignidade” (Key Terms); estava “bondade”
+- `pt-BR/g15-c001.md` [93]: “pelo empenho da mente” → “pela preocupação da mente” — *sollicitudinem mentis* → “preocupação da mente” (Key Terms); estava “empenho da mente”
+- `pt-BR/g15-c001.md` [124]: “por malícia determinada” → “por malícia deliberada” — *ex certa malitia* → “por malícia deliberada” (Key Terms); estava “por malícia determinada”
+- `pt-BR/g15-c002.md` [72]: “a consumação do mundo” → “a consumação do século” — *consummatio saeculi* → “consumação do século”, conforme a linha relativa aos lemas deste capítulo; “mundo” não consta de nenhuma das duas linhas
+- `pt-BR/g15-c003.md` [34]: “Agarrarão a orla da veste” → “Agarrarão a franja da veste” — *fimbriam* → “franja” (Key Terms); estava “orla”
+- `pt-BR/g15-c003.md` [38]: “equivale a um módio e meio” → “equivale a um alqueire e meio” — *modium* → “alqueire” (Key Terms); estava “módio”
+- `pt-BR/g15-c003.md` [77]: “ao corpo de sua glória” → “ao corpo de sua claridade” — *claritatis* → “claridade” (Key Terms), aqui referente ao fulgor corporal
+- `pt-BR/g15-c004.md` [7]: “para seus recipientes” → “para seus vasos” — *vasa* → “vasos” no sentido de recipientes, conforme a linha
+- `pt-BR/g15-c004.md` [47]: “Escolheram os bons para os recipientes” → “Escolheram os bons para os vasos” — *vasa* → “vasos” no sentido de recipientes, conforme a linha
+- `pt-BR/g15-c004.md` [47]: “E diz ***recipientes*** no plural” → “E diz ***vasos*** no plural” — *vasa* → “vasos”, conservando a palavra cuja forma plural é explicada
+- `pt-BR/g16-c001.md` [59]: “todos pediam em favor da jovem” → “todos suplicavam em favor da jovem” — *rogabant* → “suplicavam” (Key Terms); estava “pediam”
+- `pt-BR/g16-c002.md` [10]: “a precedê-lo na travessia” → “a precedê-lo na travessia do lago” — *trans fretum* → travessia do “lago” (Key Terms); o nome do corpo de água havia ficado implícito
+- `pt-BR/g16-c002.md` [24]: “e lhe pediam que pudessem” → “e lhe suplicavam que pudessem” — *rogabant* → “suplicavam” (Key Terms); estava “pediam”
+- `pt-BR/g16-c002.md` [76]: “foi a ordem de Cristo” → “foi o preceito de Cristo” — *praeceptum* → “preceito” (Key Terms); estava “ordem”
+- `pt-BR/g16-c002.md` [136]: “***lhe pediam que pudessem” → “***lhe suplicavam que pudessem” — *rogabant* → “suplicavam” (Key Terms); estava “pediam”
+- `pt-BR/g17-c001.md` [35]: “estavam de tal modo ocupados com a palavra de Deus que nem sequer tinham tempo; assim, por sua solicitude pelas coisas espirituais” → “estavam de tal modo preocupados com a palavra de Deus que nem sequer tinham tempo; assim, por sua preocupação com as coisas espirituais” — *solliciti* e *sollicitudine* → “preocupados” e “preocupação” (Key Terms)
+- `pt-BR/g17-c001.md` [124]: “para responder ao propósito principal” → “para responder à intenção principal” — *principali intentioni* → “intenção principal” (Key Terms); estava “propósito principal”
+- `pt-BR/g17-c002.md` [5]: “aproximando-se, pediam-lhe, dizendo” → “aproximando-se, suplicavam-lhe, dizendo” — *rogabant* → “suplicavam” (Key Terms); estava “pediam”
+- `pt-BR/g17-c002.md` [29]: “aproximando-se, pediam-lhe” → “aproximando-se, suplicavam-lhe” — *rogabant* → “suplicavam” (Key Terms); estava “pediam”
+- `pt-BR/g17-c002.md` [42]: “aproximando-se, pediam-lhe” → “aproximando-se, suplicavam-lhe” — *rogabant* → “suplicavam” (Key Terms); estava “pediam”
+- `pt-BR/g17-c003.md` [28]: “a orla de seu manto” → “a franja de seu manto” — *fimbriam* → “franja” (Key Terms); estava “orla”
+- `pt-BR/g18-c001.md` [7]: “para o outro lado do mar” → “para o outro lado do lago” — *fretum* → “lago” (Key Terms); “mar” corresponde a *mare*
+- `pt-BR/g18-c001.md` [22]: “para o outro lado do mar” → “para o outro lado do lago” — *fretum* → “lago” (Key Terms); “mar” corresponde a *mare*
+- `pt-BR/g18-c001.md` [51]: “para o outro lado do mar” → “para o outro lado do lago” — *fretum* → “lago” (Key Terms); “mar” corresponde a *mare*
+- `pt-BR/g18-c003.md` [41]: “por um sentimento de piedade” → “por um afeto de piedade” — *pietatis affectu* → “afeto de piedade” (Key Terms); estava “sentimento de piedade”
+- `pt-BR/g18-c003.md` [64]: “seja renunciando aos prazeres” → “seja renunciando às deleitações” — *delectationes* → “deleitações” (Key Terms); estava “prazeres”
+- `pt-BR/g18-c003.md` [64]: “ou não se compadeça” → “ou não participe do sofrimento” — *non compatiatur* significa não padecer juntamente, no contexto da cruz; “compadecer-se” desloca o sentido para a compaixão *(meaning)*
+- `pt-BR/g19-c002.md` [111]: “ao corpo da sua glória” → “ao corpo da sua claridade” — *claritatis* → “claridade” (Key Terms), aqui referente à conformidade corporal com Cristo
+
+### Part terms 1 of 4, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta read das 48 correções da rodada 1 e dos parágrafos vizinhos; 2 defeitos introduzidos (concordância em g13-c002 [17], repetição em g15-c001 [124]).
+- `pt-BR/g13-c002.md` [17]: “se não for afastado deles pelas preocupações” → “se não for afastado delas pelas preocupações” — o pronome retomava “prazeres”; com a troca para “deleitações” (feminino), a concordância exige “delas”
+- `pt-BR/g15-c001.md` [124]: “outros deliberadamente, ou por malícia deliberada” → “outros de propósito, ou por malícia deliberada” — *ex industria, sive ex certa malitia*; a correção para “malícia deliberada” criou a repetição “deliberadamente… deliberada”; *ex industria* = “de propósito”
+- Rejected: pt-BR/g16-c001.md [58] — *praeceptum* vertido por “ordem”, como em [76] antes da correção — designa a ordem de Herodes, fora da distinção preceito/conselho/permissão da linha do glossário; não é desvio objetivo
+- Rejected: pt-BR/g11-c004.md [38] — repetição “preocupação… se preocupem” — reflete *sollicitudine… solliciti* do latim
+
+### Part terms 1 of 4, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos os seis parágrafos apresentados e as três notas do tradutor; as duas correções estão corretas, sem novos defeitos objetivos no trecho mostrado.
+
+### Part terms 2 of 4, Round 1 (codex, terms read)
+Verdict: 7 meaning-level, 44 minor. 220 parágrafos sinalizados lidos; 47 correções de deriva e 4 ajustes de glossário.
+- `pt-BR/translation-journal.md`: “| lampades / oleum | lâmpadas / óleo | Preservadas as diversas interpretações alegóricas apresentadas pelo autor. |” → “| lampades / oleum | lâmpadas / óleo | Preservadas as diversas interpretações alegóricas apresentadas pelo autor. “Azeite” quando se trata especificamente do óleo de oliva, inclusive nas aplicações alegóricas. |” — A tradução usa consistentemente “azeite” para o óleo de oliva; a linha não registra essa acepção.
+- `pt-BR/translation-journal.md`: “| pastor / lupus / mercenarius | pastor / lobo / mercenário | Distinção entre quem governa, quem pretende a perdição e quem busca proveito próprio. |” → “| pastor / lupus / mercenarius | pastor / lobo / mercenário | Distinção entre quem governa, quem pretende a perdição e quem busca proveito próprio. “Assalariado” para o trabalhador contratado que aguarda sua remuneração, sem implicar busca desordenada de proveito próprio, no n. 1625. |” — No n. 1625, *mercenarius* designa literalmente o trabalhador remunerado, inclusive o bom trabalhador.
+- `pt-BR/translation-journal.md`: “| minister / ministerium | servidor, ministro / ministério | “Servidor” na exortação à humildade; “ministro” nas fórmulas apostólicas. |” → “| minister / ministerium | servidor, ministro / ministério | “Servidor” na exortação à humildade; “ministro” nas fórmulas apostólicas. “Serviço” para *ministerium* enquanto assistência concreta prestada a alguém, inclusive pelos discípulos e pelas multidões. |” — As ocorrências distinguem o serviço concreto de um ministério eclesial.
+- `pt-BR/translation-journal.md`: “| hospes / hospitium | anfitrião ou hóspede / hospedagem | *Hospes* traduzido conforme a função da pessoa no contexto. |” → “| hospes / hospitium | anfitrião ou hóspede / hospedagem | *Hospes* traduzido conforme a função da pessoa no contexto. “Estrangeiro” em Mateus 25, para quem necessita de acolhimento. |” — Em Mateus 25, “estrangeiro” exprime corretamente a condição anterior ao acolhimento.
+- `pt-BR/g2-pr.md` [13]: “com o número quatorze” → “com o grupo de catorze gerações” — *quaterdenarius* → “grupo de catorze gerações” (Key Terms); estava “número quatorze”.
+- `pt-BR/g20-c001.md` [71]: “imputado para sua punição” → “imputado para sua pena” — *poena* → “pena” (Key Terms); estava “punição”.
+- `pt-BR/g20-c002.md` [37]: “à perfeita solicitude e correção” → “à perfeita preocupação e correção” — *sollicitudo* → “preocupação” (Key Terms); estava “solicitude”.
+- `pt-BR/g21-c001.md` [146]: “conhecendo sua disposição” → “conhecendo seu afeto” — *affectus* → “afeto” (Key Terms); estava “disposição”.
+- `pt-BR/g21-c001.md` [192]: “na solicitude em pregar” → “na preocupação em pregar” — *sollicitudo* → “preocupação” (Key Terms); estava “solicitude”.
+- `pt-BR/g21-c001.md` [193]: “Mostra-se sua disposição” → “Mostra-se seu afeto” — *affectus* → “afeto” (Key Terms); estava “disposição”.
+- `pt-BR/g21-c001.md` [202]: “se aliviar do apego às riquezas” → “se aliviar do afeto às riquezas” — *affectus* → “afeto” (Key Terms); estava “apego”.
+- `pt-BR/g21-c001.md` [202]: “abandonar esse apego” → “abandonar esse afeto” — *affectus* → “afeto” (Key Terms); estava “apego”.
+- `pt-BR/g21-c001.md` [210]: “assumido a solicitude por todo o mundo” → “assumido a preocupação por todo o mundo” — *solliciti* é desenvolvido como substantivo; mantém-se “preocupação” (Key Terms).
+- `pt-BR/g21-c001.md` [210]: “sobrevinha-lhes aquela solicitude” → “sobrevinha-lhes aquela preocupação” — *sollicitudo* → “preocupação” (Key Terms); estava “solicitude”.
+- `pt-BR/g21-c001.md` [216]: “mais por sua disposição” → “mais por seu afeto” — *affectus* → “afeto” (Key Terms); estava “disposição”.
+- `pt-BR/g21-c001.md` [225]: “conforme ao corpo de sua glória” → “conforme ao corpo de sua claridade” — *claritas* → “claridade” (Key Terms), propriedade do corpo glorificado; “glória” apaga essa especificação. *(meaning)*
+- `pt-BR/g21-c001.md` [229]: “entrou na seiva da oliveira” → “entrou na abundância da oliveira” — *pinguedo* → “abundância” na aplicação espiritual (Key Terms); “seiva” introduz outra imagem concreta. *(meaning)*
+- `pt-BR/g21-c001.md` [241]: “têm apego aos bens temporais” → “têm afeto aos bens temporais” — *affectus* → “afeto” (Key Terms); estava “apego”.
+- `pt-BR/g22-c002.md` [57]: “pelo desejo de alcançar” → “pela cobiça de alcançar” — *cupiditas* → “cobiça” (Key Terms); o desejo desordenado de obter honras foi neutralizado como simples desejo. *(meaning)*
+- `pt-BR/g22-c002.md` [57]: “movidos por esse desejo” → “movidos por essa cobiça” — *cupiditas* → “cobiça” (Key Terms); conserva-se o caráter desordenado da motivação. *(meaning)*
+- `pt-BR/g22-c002.md` [59]: “sofreu muitos tormentos” → “sofreu muitas penas” — *poenae* → “penas” (Key Terms); estava “tormentos”.
+- `pt-BR/g22-c002.md` [95]: “motivo de solicitude para quem a recolhe” → “motivo de preocupação para quem a recolhe” — *sollicitudo* → “preocupação” (Key Terms); estava “solicitude”.
+- `pt-BR/g23-c001.md` [128]: “a solicitude que tinha” → “a preocupação que tinha” — *sollicitudo* → “preocupação” (Key Terms); estava “solicitude”.
+- `pt-BR/g24-c001.md` [44]: “o aumento da bondade” → “o aumento da benignidade” — *benignitas* → “benignidade” (Key Terms); estava “bondade”.
+- `pt-BR/g24-c001.md` [53]: “parece referir-se à bondade” → “parece referir-se à piedade” — *pietas* → “piedade” (Key Terms); aqui não se trata de piedade filial nem do dom do Espírito Santo.
+- `pt-BR/g24-c001.md` [53]: “com sua solicitude” → “com sua preocupação” — *sollicitudo* → “preocupação” (Key Terms); estava “solicitude”.
+- `pt-BR/g24-c001.md` [71]: “em seus recipientes” → “em seus vasos” — *vasa* → “vasos” quando designa recipientes (Key Terms); estava “recipientes”.
+- `pt-BR/g24-c004.md` [69]: “conformando-o ao corpo de sua glória” → “conformando-o ao corpo de sua claridade” — *claritas* → “claridade” (Key Terms), propriedade do corpo glorificado; estava “glória”. *(meaning)*
+- `pt-BR/g25-c002.md` [38]: “uma disposição mais inclinada” → “um afeto mais inclinado” — *affectus* → “afeto” (Key Terms); estava “disposição”.
+- `pt-BR/g25-c002.md` [51]: “lucrarem com as penalidades” → “lucrarem com as penas” — *poenae* → “penas” (Key Terms); estava “penalidades”.
+- `pt-BR/g25-c002.md` [86]: “dedicais grande solicitude a limpar” → “dedicais grande preocupação a limpar” — *sollicitudo* → “preocupação” (Key Terms); estava “solicitude”.
+- `pt-BR/g25-c002.md` [88]: “no prazer da carne” → “na deleitação da carne” — *delectatio* → “deleitação” (Key Terms); estava “prazer”.
+- `pt-BR/g25-c002.md` [88]: “no prazer do espírito” → “na deleitação do espírito” — *delectatio* → “deleitação” (Key Terms); estava “prazer”.
+- `pt-BR/g25-c002.md` [88]: “no prazer da mente” → “na deleitação da mente” — *delectatio* → “deleitação” (Key Terms); estava “prazer”.
+- `pt-BR/g25-c002.md` [88]: “no desejo do dinheiro” → “na cobiça do dinheiro” — *cupiditas* → “cobiça” (Key Terms); “desejo” neutraliza a caracterização viciosa da avareza. *(meaning)*
+- `pt-BR/g26-c002.md` [35]: “rogavam pelo povo” → “suplicavam pelo povo” — *rogabant* → “suplicavam” (Key Terms); estava “rogavam”.
+- `pt-BR/g27-c001.md` [40]: “são recipientes de luz” → “são vasos de luz” — *vasa* → “vasos” na explicação dos recipientes (Key Terms); estava “recipientes”.
+- `pt-BR/g27-c001.md` [43]: “na solicitude exterior” → “na preocupação exterior” — *sollicitudo* → “preocupação” (Key Terms); estava “solicitude”.
+- `pt-BR/g27-c001.md` [45]: “quanto à solicitude exterior” → “quanto à preocupação exterior” — *sollicitudo* → “preocupação” (Key Terms); estava “solicitude”.
+- `pt-BR/g27-c002.md` [79]: “a diligência, ou solicitude” → “a diligência, ou preocupação” — *sollicitudo* → “preocupação” (Key Terms); estava “solicitude”.
+- `pt-BR/g27-c002.md` [83]: “a diligência, ou solicitude” → “a diligência, ou preocupação” — *sollicitudo* → “preocupação” (Key Terms); estava “solicitude”.
+- `pt-BR/g27-c003.md` [67]: “conforme ao corpo de sua glória” → “conforme ao corpo de sua claridade” — *claritas* → “claridade” (Key Terms), propriedade do corpo glorificado; estava “glória”. *(meaning)*
+- `pt-BR/g28-c001.md` [42]: “no átrio do sumo sacerdote” → “no átrio do chefe dos sacerdotes” — *principis sacerdotum* → “do chefe dos sacerdotes” (Key Terms), conservando o singular da fonte.
+- `pt-BR/g28-c001.md` [97]: “terceiro, sua solicitude” → “terceiro, sua preocupação” — *sollicitudo* → “preocupação” (Key Terms); estava “solicitude”.
+- `pt-BR/g28-c001.md` [116]: “Aqui se apresenta sua solicitude” → “Aqui se apresenta sua preocupação” — *sollicitudo* → “preocupação” (Key Terms); estava “solicitude”.
+- `pt-BR/g28-c002.md` [27]: “Segue-se a solicitude dos discípulos” → “Segue-se a preocupação dos discípulos” — *sollicitudo* → “preocupação” (Key Terms); estava “solicitude”.
+- `pt-BR/g28-c002.md` [66]: “a existir em sofrimento” → “a existir sujeito à pena” — *poenale esse* refere-se à existência sujeita à pena; mantém-se “pena” (Key Terms).
+- `pt-BR/g28-c005.md` [25]: “toda luminosidade estará presente” → “toda claridade estará presente” — *claritas* → “claridade” na glória celeste (Key Terms); estava “luminosidade”.
+- `pt-BR/g28-c005.md` [90]: “primeiro indica a solicitude” → “primeiro indica a preocupação” — *sollicitudo* → “preocupação” (Key Terms); estava “solicitude”.
+- `pt-BR/g28-c005.md` [91]: “A solicitude, porque” → “A preocupação, porque” — *sollicitudo* → “preocupação” (Key Terms); estava “solicitude”.
+- `pt-BR/g28-c007.md` [29]: “por curiosidade ou por afeição” → “por curiosidade ou por piedade” — *pietas* → “piedade” (Key Terms); estava “afeição”.
+
+### Part terms 2 of 4, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read: verifiquei as 51 alterações da rodada 1 e os parágrafos vizinhos; uma correção de consistência em g28-c005 [25] (luminosidade → claridade), o restante está correto.
+- `pt-BR/g28-c005.md` [25]: “alimenta o fogo e lhe dá luminosidade” → “alimenta o fogo e lhe dá claridade” — fonte: igni pabulum et claritatem praestat … omnis aderit claritas; a correção anterior trocou só a segunda ocorrência, e o paralelo entre o que o óleo dá e o que haverá na glória depende do mesmo termo nas duas
+- Rejected: pt-BR/g24-c001.md [53], pt-BR/g27-c002.md [79], [83], pt-BR/g28-c005.md [90]-[91] — “preocupação” para *sollicitudo* no sentido de zelo ou diligência soa menos natural que “solicitude” — segue a linha da tabela de termos (aplicação intensa do espírito); o sentido continua compreensível, então é escolha de estilo
+- Rejected: pt-BR/g25-c002.md [51] — “lucrarem com as penas” é menos claro que “penalidades” — “pena” inclui a pena pecuniária, e o contexto de pagamento por juramento deixa o sentido claro
+- Rejected: pt-BR/g21-c001.md [210] — “preocupação” repetido duas vezes na mesma frase — acompanha a repetição de *solliciti / sollicitudo* na fonte
+
+### Part terms 2 of 4, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verifiquei a alteração e li integralmente os parágrafos 24–26 de g28-c005.md: correção adequada, sem novos defeitos. Os demais locais sinalizados pela auditoria não foram exibidos nesta leitura delta.
+
+### Part terms 3 of 4, Round 1 (codex, terms read)
+Verdict: 2 meaning-level, 48 minor. 205 parágrafos sinalizados lidos; 38 apresentavam drift; 49 correções de tradução e 1 complemento de glossário.
+- `pt-BR/g29-c001.md` [42]: “Primeiro, pelo empenho” → “Primeiro, pela preocupação” — sollicitudo → “preocupação” (Key Terms); estava “empenho”.
+- `pt-BR/g29-c001.md` [42]: “toda a noite se tivessem empenhado em zombar dele” → “toda a noite estivessem preocupados em zombar dele” — solliciti → “preocupados”, preservando o vocabulário de sollicitudo.
+- `pt-BR/g29-c001.md` [42]: “estavam bem empenhados” → “estavam bem preocupados” — solliciti → “preocupados”, conforme sollicitudo → “preocupação”.
+- `pt-BR/g29-c001.md` [92]: “porque os gentios o confessavam” → “porque a gentilidade o confessava” — gentilitas → “gentilidade” (Key Terms); estava “os gentios”.
+- `pt-BR/g29-c001.md` [129]: “a tentativa pela qual Pilatos procurava soltá-lo” → “o esforço com que Pilatos procurava soltá-lo” — conatus → “esforço” (Key Terms); estava “tentativa”.
+- `pt-BR/g29-c001.md` [130]: “Tentou libertá-lo de três modos” → “Esforçou-se por libertá-lo de três modos” — conatus est → “esforçou-se”, conforme conatus → “esforço”.
+- `pt-BR/g29-c001.md` [137]: “fossem movidos à compaixão” → “fossem movidos à piedade” — pietas → “piedade” (Key Terms); aqui significa compaixão, sem o sentido filial ou de dom.
+- `pt-BR/g3-c002.md` [18]: “Com efeito, a lei ordenava que” → “Com efeito, havia na lei o preceito de que” — praeceptum → “preceito” (Key Terms); estava parafraseado por “a lei ordenava”.
+- `pt-BR/g3-c002.md` [38]: “por ordem do Senhor” → “por preceito do Senhor” — praeceptum → “preceito” (Key Terms); estava “ordem”.
+- `pt-BR/g3-c003.md` [12]: “pais por descendência carnal” → “pais segundo a carne por descendência” — patres carnales → “pais segundo a carne” (Key Terms).
+- `pt-BR/g3-c004.md` [14]: “se chamou *Ioakim*” → “se chamou *Joaquim*” — Ioakim → “Joaquim” (Key Terms); o nome permanecia em latim.
+- `pt-BR/g3-c004.md` [14]: “se chamou *Ioachim*” → “se chamou *Joaquin*” — Ioachim → “Joaquin” (Key Terms), preservando a distinção entre os nomes.
+- `pt-BR/g30-c001.md` [38]: “terceiro, sua dedicação” → “terceiro, seu empenho” — studium → “empenho” (Key Terms); estava “dedicação”.
+- `pt-BR/g30-c001.md` [62]: “Também a luminosidade da vida” → “Também a claridade da vida” — claritas → “claridade” (Key Terms); estava “luminosidade”.
+- `pt-BR/g30-c001.md` [67]: “elogia sua dedicação” → “elogia seu empenho” — studium → “empenho” (Key Terms); estava “dedicação”.
+- `pt-BR/g30-c001.md` [71]: “elogia sua dedicação” → “elogia seu empenho” — studium → “empenho” (Key Terms); estava “dedicação”.
+- `pt-BR/g4-c002.md` [22]: “Herodes estava empenhado em investigar” → “Herodes estava preocupado em investigar” — sollicitus → “preocupado”, conforme sollicitudo → “preocupação”.
+- `pt-BR/g4-c002.md` [47]: “a diligência dos Magos” → “o empenho dos Magos” — studium → “empenho” (Key Terms); estava “diligência”.
+- `pt-BR/g4-c002.md` [57]: “apresenta-se a diligência dos Magos” → “apresenta-se o empenho dos Magos” — studium → “empenho” (Key Terms); estava “diligência”.
+- `pt-BR/g4-c004.md` [96]: “mas para o serviço e a guarda” → “mas para o ministério e a guarda” — ministerium → “ministério” (Key Terms); estava “serviço”.
+- `pt-BR/g5-c001.md` [102]: “uma disposição da mente” → “um afeto da mente” — affectus → “afeto” (Key Terms); estava “disposição”.
+- `pt-BR/translation-journal.md`: “| desperatio / praesumptio / impoenitentia / obstinatio | desespero / presunção / impenitência / obstinação | Espécies de pecado contra o Espírito Santo. |” → “| desperatio / praesumptio / impoenitentia / obstinatio | desespero / presunção / impenitência / obstinação | Espécies de pecado contra o Espírito Santo. Nos nn. 267 e 271, “desperatio (de) iudicio” traduz-se por “descrença no juízo”, conforme a explicação de que não creem que haja juízo. |” — O n. 271 explicita outro sentido de desperatio: não acreditar na existência do juízo. A tradução consistente por “descrença” é correta nesse contexto.
+- `pt-BR/g6-c001.md` [60]: “conduzi-lo ao desejo das coisas carnais” → “conduzi-lo ao afeto pelas coisas carnais” — affectus → “afeto” (Key Terms); estava “desejo”.
+- `pt-BR/g6-c001.md` [60]: “o atrai ao desejo das coisas carnais” → “o atrai ao afeto pelas coisas carnais” — affectus → “afeto” (Key Terms); estava “desejo”.
+- `pt-BR/g6-c001.md` [60]: “se volta ao desejo das coisas espirituais” → “se volta ao afeto pelas coisas espirituais” — affectus → “afeto” (Key Terms); estava “desejo”.
+- `pt-BR/g6-c001.md` [66]: “o ataque ou a tentativa de tentar” → “o ataque ou o esforço da tentação” — conatus → “esforço” (Key Terms); estava “tentativa”.
+- `pt-BR/g6-c001.md` [126]: “prestavam-lhe serviço nas coisas exteriores” → “exerciam seu ministério nas coisas exteriores” — ministerium → “ministério” (Key Terms); estava “serviço”.
+- `pt-BR/g6-c001.md` [127]: “merecem o serviço dos anjos” → “merecem o ministério dos anjos” — ministerium → “ministério” (Key Terms); estava “serviço”.
+- `pt-BR/g6-c002.md` [77]: “consiste somente em seu esplendor” → “consiste somente em sua claridade” — claritas → “claridade” (Key Terms); estava “esplendor”.
+- `pt-BR/g6-c002.md` [80]: “mas a disposição do coração” → “mas o afeto” — affectus → “afeto” (Key Terms); estava parafraseado como “disposição do coração”.
+- `pt-BR/g6-c002.md` [81]: “diminuem a solicitude pelas coisas eternas” → “diminuem a preocupação pelas coisas eternas” — sollicitudo → “preocupação” (Key Terms); estava “solicitude”.
+- `pt-BR/g6-c003.md` [10]: “a solicitude daquele que ensina” → “a preocupação daquele que ensina” — sollicitudo → “preocupação” (Key Terms); estava “solicitude”.
+- `pt-BR/g6-c003.md` [11]: “E a solicitude se mostra” → “E a preocupação se mostra” — sollicitudo → “preocupação” (Key Terms); estava “solicitude”.
+- `pt-BR/g6-c003.md` [11]: “Não sejais preguiçosos na solicitude” → “Não sejais preguiçosos na preocupação” — sollicitudo → “preocupação” (Key Terms); estava “solicitude”.
+- `pt-BR/g7-c001.md` [25]: “tem prazer em trabalhar” → “deleita-se em trabalhar” — delectatur → “deleita-se”, conforme delectatio → “deleitação”.
+- `pt-BR/g7-c001.md` [25]: “tem prazer em pregar” → “deleita-se em pregar” — delectatur → “deleita-se”, conforme delectatio → “deleitação”.
+- `pt-BR/g7-c002.md` [32]: “ou de modo inicial e imperfeito, e assim nesta vida” → “ou de modo inicial e imperfeito, e assim no caminho” — in via → “no caminho” (Key Terms); estava parafraseado como “nesta vida”.
+- `pt-BR/g7-c002.md` [52]: “àquela glória” → “àquela claridade” — claritas → “claridade” (Key Terms); aqui designa a claridade do corpo glorificado, um dote específico. *(meaning)*
+- `pt-BR/g7-c002.md` [52]: “ao corpo de sua glória” → “ao corpo de sua claridade” — claritas → “claridade” (Key Terms), mantendo na citação o dote corporal ao qual a explicação se refere. *(meaning)*
+- `pt-BR/g7-c002.md` [83]: “em algum resplendor de sua glória” → “em algum resplendor de sua claridade” — claritas → “claridade” (Key Terms); estava “glória”.
+- `pt-BR/g7-c008.md` [13]: “outro no prazer” → “outro na deleitação” — delectatio → “deleitação” (Key Terms); estava “prazer”.
+- `pt-BR/g7-c008.md` [13]: “desperta em si prazeres torpes” → “desperta em si deleitações torpes” — delectationes → “deleitações” (Key Terms); estava “prazeres”.
+- `pt-BR/g7-c010.md` [24]: “por seu apego às coisas terrenas” → “por seu afeto pelas coisas terrenas” — affectus → “afeto” (Key Terms); estava “apego”.
+- `pt-BR/g7-c011.md` [29]: “mas não os de seus parentes” → “mas não os de seus consanguíneos” — consanguinei → “consanguíneos” (Key Terms); estava “parentes”.
+- `pt-BR/g7-c012.md` [14]: “a pessoa íntima ou o parente” → “a pessoa íntima ou o consanguíneo” — consanguineus → “consanguíneo” (Key Terms); estava “parente”.
+- `pt-BR/g8-c002.md` [20]: “quanto à disposição e ao lugar” → “quanto ao afeto e ao lugar” — affectus → “afeto” (Key Terms); estava “disposição”.
+- `pt-BR/g8-c002.md` [36]: “têm uma disposição mutável” → “têm um afeto mutável” — affectus → “afeto” (Key Terms); estava “disposição”.
+- `pt-BR/g8-c005.md` [45]: “quer desfrutar de qualquer pecado” → “quer fruir de qualquer pecado” — frui → “fruir” (Key Terms); estava “desfrutar”.
+- `pt-BR/g8-c005.md` [45]: “para desfrutá-lo suporta” → “para fruí-lo suporta” — fruatur → “fruí-lo”, conforme frui → “fruir”.
+- `pt-BR/g8-c005.md` [57]: “segundo a estima ou o prazer” → “segundo a estima ou a deleitação” — delectatio → “deleitação” (Key Terms); estava “prazer”.
+
+### Part terms 3 of 4, Round 2 (claude, delta read)
+Verdict: 6 meaning-level, 4 minor. Delta read das 50 alterações: revertidas as 6 em que sollicitudo como zelo virou “preocupação” (g29 [42], g6-c003), os nomes latinos de g3-c004 [14] e “no caminho” de g7-c002 [32]; corrigidas 2 linhas do diário; demais alterações conferidas e corretas.
+- `pt-BR/g29-c001.md` [42]: “Primeiro, pela preocupação” → “Primeiro, pelo empenho” — sollicitudo aqui é o zelo diligente dos chefes, que agrava o pecado; “preocupação” em pt-BR sugere inquietação. A linha de Key Terms sollicitudo → “preocupação” refere-se ao n. 623 (ansiedade temporal), não a este contexto *(meaning)*
+- `pt-BR/g29-c001.md` [42]: “toda a noite estivessem preocupados em zombar dele” → “toda a noite se tivessem empenhado em zombar dele” — solliciti in illusione: ocupados com afinco em zombar, não “preocupados” (inquietos) em zombar *(meaning)*
+- `pt-BR/g29-c001.md` [42]: “estavam bem preocupados” → “estavam bem empenhados” — bene solliciti erant: estavam muito diligentes (Jó 24:14, o homicida madruga), não inquietos *(meaning)*
+- `pt-BR/g6-c003.md` [10]: “a preocupação daquele que ensina” → “a solicitude daquele que ensina” — sollicitudo docentis: diligência de Cristo, mostrada a seguir em não buscar repouso; “preocupação” sugere inquietação. A linha de Key Terms é restrita ao n. 623 *(meaning)*
+- `pt-BR/g6-c003.md` [11]: “E a preocupação se mostra” → “E a solicitude se mostra” — Mesmo sentido de sollicitudo (diligência) do parágrafo anterior *(meaning)*
+- `pt-BR/g6-c003.md` [11]: “Não sejais preguiçosos na preocupação” → “Não sejais preguiçosos na solicitude” — Rm 12:11 sollicitudine non pigri: diligência; “preguiçosos na preocupação” não faz sentido em português *(meaning)*
+- `pt-BR/g3-c004.md` [14]: “se chamou *Joaquim*; outro, porém, foi o que se chamou *Joaquin*” → “se chamou *Ioakim*; outro, porém, foi o que se chamou *Ioachim*” — A distinção entre os dois Jeconias é feita pela grafia latina; o diário (Decisões) determina que *Ioakim* e *Ioachim* permaneçam em latim no n. 80. “Joaquin” não é forma portuguesa
+- `pt-BR/g7-c002.md` [32]: “e assim no caminho” → “e assim nesta vida” — Key Terms: in via / in patria → “nesta vida / na pátria celeste”; a alteração anterior divergia da tabela
+- `pt-BR/translation-journal.md`: “sobre a dignidade e seu esplendor no n. 370” → “sobre a dignidade e sua claridade no n. 370” — O n. 370 (g6-c002 [77]) agora traz “claridade”; a decisão citava a forma antiga
+- `pt-BR/translation-journal.md`: “descrição abreviada da disposição e do lugar” → “descrição abreviada do afeto e do lugar” — O n. 572 (g8-c002 [20]) agora traz “quanto ao afeto e ao lugar”; a decisão citava a forma antiga
+- Rejected: pt-BR/g4-c002.md [22], pt-BR/g6-c002.md [81] — sollicitus/sollicitudo → “preocupado/preocupação” — Aqui o sentido de inquietação ou cuidado cabe: Herodes temia pelo reino; as riquezas diminuem o cuidado pelas coisas eternas
+
+### Part terms 3 of 4, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Conferidas as 10 alterações, os 13 parágrafos exibidos, as sete notas e as linhas alteradas do diário; nenhum defeito encontrado. Os alertas referentes a trechos não exibidos não puderam ser verificados.
+- Rejected: pt-BR/g29-c001.md [42]; pt-BR/g6-c003.md [10–11] — “Empenho” e “solicitude” divergem da tradução tabelada “preocupação”. — O contexto exige diligência; a linha do glossário trata da preocupação temporal no n. 623.
+- Rejected: pt-BR/g3-c004.md [14] — Os nomes Ioakim e Ioachim permaneceram em latim. — A conservação mantém a distinção gráfica da fonte e segue a decisão específica para o n. 80.
+- Rejected: pt-BR/g7-c002.md [32] — “Nesta vida” traduz in via sem conservar a imagem do caminho. — A expressão transmite corretamente a condição presente, corresponde ao glossário e mantém a oposição à pátria celeste.
+
+### Part terms 4 of 4, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 3 minor. 15 flags lidos em 13 parágrafos; 3 eram desvios de glossário.
+- `pt-BR/g8-c005.md` [61]: “conformado ao corpo da glória” → “conformado ao corpo da claridade” — *claritas* → “claridade” (Key Terms); era “glória”, no contexto do corpo ressuscitado.
+- `pt-BR/g8-c005.md` [66]: “como destinados ao castigo” → “como destinados à pena” — *poena* → “pena” (Key Terms); era “castigo”.
+- `pt-BR/g9-c001.md` [72]: “o caminho da carne é o prazer, e este está à mão” → “o caminho da carne é a deleitação, e esta está à mão” — *delectatio* → “deleitação” (Key Terms); era “prazer”.
+
+### Part terms 4 of 4, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of g8-c005 [60–62, 65–67] and g9-c001 [71–72]: the three terminology fixes (claridade, pena, deleitação) are correct and the paragraphs read clean.
+- Rejected: pt-BR/g8-c005.md [61] — “corpo da claridade” in Filipenses 3:21 might read as a deviation from the usual “glória” — The source has *claritatis*, and the Key Terms table fixes *claritas* → “claridade”. The change is correct and the sentence's concord holds.
+- Rejected: pt-BR/g8-c005.md [61] — *subtrahitur* (present) is rendered with a future, “será tirado” — The context is the future resurrection and the parallel with *non peribit*. The sense is the same, so this is not an objective defect.
+- Rejected: pt-BR/g8-c005.md [65] — “Isaías 10, 50” looks like a malformed reference — It reproduces the source's *Is. X, L*, which the journal deliberately keeps unchanged.
+- Rejected: pt-BR/g9-c001.md [72] — concord after “deleitação” — “a deleitação, e esta está à mão” agrees in gender. *delectatio* → “deleitação” matches Key Terms.
+- Rejected: pt-BR/g8-c005.md [38], pt-BR/g9-c001.md [17] — the audit flags a difference in emphasis markers — These paragraphs are not shown in this delta read, so they cannot be assessed here.

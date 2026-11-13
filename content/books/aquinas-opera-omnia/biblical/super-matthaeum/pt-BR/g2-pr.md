@@ -22,7 +22,7 @@ No início do Evangelho, porém, mencionam-se duas coisas. Primeiro se apresenta
 
 Primeiro, portanto, apresenta os mistérios do título, ou aqueles que são mencionados no título;
 
-em segundo lugar, os mistérios da geração, em *e assim, com o número quatorze*.
+em segundo lugar, os mistérios da geração, em *e assim, com o grupo de catorze gerações*.
 
 **4.** No título, porém, diz-se: ***Livro da geração de Jesus Cristo***; aí se mencionam dois princípios, isto é, Davi e Abraão. Isso porque a Abraão foi dado primeiro o preceito da circuncisão; Romanos 4:11: *Recebeu o sinal da circuncisão, selo da justiça da fé que existe na incircuncisão, para que ele fosse o pai de todos os que creem*. Davi, por sua vez, foi escolhido pelo Senhor; 1 Samuel 13:14: *Encontrei um homem segundo meu coração*. Por isso, esses dois são mencionados, para indicar que Cristo teve origem em pais circuncidados e eleitos. E isso é o que significa *de dois*, homens, ou de dois princípios, isto é, dois princípios: Davi e Abraão.
 
