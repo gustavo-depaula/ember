@@ -13,14 +13,14 @@
   },
   "description": {
     "la": "Enarratio in tertiam regulam S. Francisci.",
-    "en-US": "One of Denis the Carthusian's minor works. Uncorrected OCR text: not yet proofread against the scans.",
-    "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+    "en-US": "One of Denis the Carthusian's minor works.",
+    "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo."
   },
   "sources": [
     {
       "language": "la",
       "url": "https://archive.org/details/operaomnia38deni",
-      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXVIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXVIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
     }
   ],
   "languages": [
@@ -318,13 +318,21 @@
     {
       "id": "c037",
       "title": {
+        "la": "Articulus 36",
+        "en-US": "Article 36",
+        "pt-BR": "Artigo 36"
+      }
+    },
+    {
+      "id": "c038",
+      "title": {
         "la": "Articulus 37",
         "en-US": "Article 37",
         "pt-BR": "Artigo 37"
       }
     },
     {
-      "id": "c038",
+      "id": "c039",
       "title": {
         "la": "Articulus 38",
         "en-US": "Article 38",
@@ -332,7 +340,7 @@
       }
     },
     {
-      "id": "c039",
+      "id": "c040",
       "title": {
         "la": "Articulus 39",
         "en-US": "Article 39",
@@ -340,7 +348,7 @@
       }
     },
     {
-      "id": "c040",
+      "id": "c041",
       "title": {
         "la": "Articulus 40",
         "en-US": "Article 40",
@@ -348,7 +356,7 @@
       }
     },
     {
-      "id": "c041",
+      "id": "c042",
       "title": {
         "la": "Articulus 41",
         "en-US": "Article 41",
@@ -356,7 +364,7 @@
       }
     },
     {
-      "id": "c042",
+      "id": "c043",
       "title": {
         "la": "Articulus 42",
         "en-US": "Article 42",
@@ -364,7 +372,7 @@
       }
     },
     {
-      "id": "c043",
+      "id": "c044",
       "title": {
         "la": "Articulus 43",
         "en-US": "Article 43",
@@ -372,15 +380,12 @@
       }
     },
     {
-      "id": "c044",
+      "id": "c045",
       "title": {
         "la": "Articulus 44",
         "en-US": "Article 44",
         "pt-BR": "Artigo 44"
       }
     }
-  ],
-  "arrived": {
-    "la": "2026-10-21"
-  }
+  ]
 }
