@@ -8,7 +8,7 @@ Heroica, e mais que heroica, a indiferença do incomparável São Paulo: Estou a
 
 Vossos pavilhões tão anelados, ó Deus dos exércitos temíveis, ah, com justa razão são amados!
 
-A minha alma funde-se de ardor extremo, e os meus sentidos desfalecem do mesmo modo pelos vossos átrios tão clamados;
+A minha alma funde-se de ardor extremo, e os meus sentidos desmaiam do mesmo modo pelos vossos átrios tão clamados;
 
 o meu coração salta, a minha carne enlevada salta por vós, ó Deus da vida!
 

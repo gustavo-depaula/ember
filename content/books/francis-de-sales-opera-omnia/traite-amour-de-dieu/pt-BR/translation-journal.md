@@ -9,7 +9,7 @@ Destino: pt-BR.
 |---|---|---|
 | Theotime | Teótimo | tratado por *tu* (ver Decisões) |
 | volonté / entendement / mémoire / fantasie | vontade / entendimento / memória / fantasia | |
-| facultés / puissances | faculdades / potências | distintas, como na fonte |
+| facultés / puissances | faculdades / potências | distintas, como na fonte; “puissance” → “poder” quando significa autoridade ou capacidade de agir, fora da enumeração das faculdades da alma |
 | appetit sensuel / sensible / sensitif | apetite sensual / sensível / sensitivo | |
 | appetit raysonnable / intellectuel | apetite racional / intelectual | |
 | convoitise / concupiscence | concupiscência | “cobiça” na enumeração “appetit, convoitise ou cupidité” (I, 7) |
@@ -131,7 +131,7 @@ Destino: pt-BR.
 | souspir / souspirer / souspirans | suspiro / suspirar / os que suspiram | *spiratio*; nota em III, 13 |
 | abeston | asbesto | nota em III, 8 |
 | chicheron (de son tetin) | bico (do seio) | |
-| aymable / amiable | amável / amigável | III, 13 |
+| aymable / amiable | amável / amigável | III, 13; “amiable” também → “amável” no sentido de “agradável, afável ou digno de amor”, sem referência específica à amizade. |
 | Chastillon sur Seine | Châtillon-sur-Seine | |
 | Evesque d’Ephese | Bispo de Éfeso | Apocalipse 2:4 |
 | teston / pistole / chevance | testão / pistola / haveres | nota em IV, 2 |
@@ -256,7 +256,7 @@ Destino: pt-BR.
 | Philippe Nerius / Stanislas Koska | Filipe Néri / Estanislau Kostka | VI, 15 |
 | saint Grégoire, Evesque de Nisse | São Gregório, Bispo de Nissa | VI, 15 |
 | joindre / unir / conjonction | juntar / unir / conjunção | VII, 1-2 |
-| serrer / serrement | estreitar / estreitamento | VII, 1-3 |
+| serrer / serrement | estreitar / estreitamento | VII, 1-3; “serrer” → “apertar” no sentido físico de comprimir ou manter muito juntos, como o bico do seio e os grãos da romã |
 | presser / pressement | apertar / aperto | VII, 1-3; “il me presse” → “aperta comigo” |
 | recharges d’union | investidas renovadas de união | VII, 1 |
 | eau imperiale | água imperial | VII, 1 |
@@ -327,7 +327,7 @@ Destino: pt-BR.
 | mandragores | mandrágoras | nota em X, 9 |
 | Ruben / Urie | Rúben / Urias | X, 9 |
 | heretiques / heresie | hereges / heresia | nota em X, 9 |
-| choix / élection | escolha / eleição | X, 9 |
+| choix / élection | escolha / eleição | X, 9; “élection” também → “escolha” no sentido corrente de escolher entre alternativas |
 | Hester / Assuerus / Simon le Lepreux | Ester / Assuero / Simão, o Leproso | X, 5 |
 | corneilles | gralhas | X, 5 |
 | chatons / guy | amentilhos / visco | X, 5 |
@@ -342,7 +342,7 @@ Destino: pt-BR.
 | Agripine / Caton / Lucrèce | Agripina / Catão / Lucrécia | nota em X, 8 |
 | bigearre | caprichoso | X, 8; X, 13 |
 | Raguel / Anne / Sara / Nephtali / saint Leon | Raguel / Ana / Sara / Neftali / São Leão | X, 11 |
-| zele / jalousie / jaloux / envie | zelo / ciúme / ciumento / inveja | X, 12-13 |
+| zele / jalousie / jaloux / envie | zelo / ciúme / ciumento / inveja | X, 12-13; “jaloux de” → “cioso de” quando significa zeloso da conservação de algo, como o sono ou o repouso |
 | jalousie de convoytise | ciúme de concupiscência | X, 13 |
 | Phinees / Madianite / Moabite | Fineias / madianita / moabita | X, 14; X, 16 (a fonte diz “Moabite” em X, 16 ¶3) |
 | Mathathias / Ochosias / Joab | Matatias / Ocozias / Joabe | X, 15-16 |
@@ -389,7 +389,7 @@ Destino: pt-BR.
 | trespasser en la grâce | trespassar na graça | XI, 12; ver *trespas* |
 | esprit principal | espírito principal | Salmo 50:14 |
 | changeurs | cambistas | nota em XI, 13 |
-| tendre / prétendre / jetter / projetter | tender / pretender / lançar / projetar | XI, 13 |
+| tendre / prétendre / jetter / projetter | tender / pretender / lançar / projetar | XI, 13; “jetter” → “soltar” ao emitir bramidos ou gemidos; “jetter des souspirs” → “exalar suspiros” |
 | Caïn | Caim | XI, 13 |
 | pauvres de Lyon / belitres | pobres de Lyon / vadios | nota em XI, 14 |
 | Enthousiastes / Messaliens / Euchites | entusiastas / messalianos / euquitas | nota em XI, 14 |
@@ -571,11 +571,11 @@ Destino: pt-BR.
 - **Erros de OCR lidos pelo sentido.** “ht” → fit; “douleur/tourmens inferieurs” → intérieurs (VI, 15); “demeurer en son inferieur” → intérieur (VII, 3); “longueent” → longuement; “se retirait” → retiroit; “pourrait” → pourroit; “ne bandonner ay -point” → ne l’abandonneray point; “affitgé” → affigé; “siégé” → siège; “f’entrer ay” → j’entreray; “■pressèrent” → pressèrent.
 - **Notas do tradutor**: VI, 15 Francesco Panigarola; VII, 2 a antífona *Senex puerum portabat*; VII, 3 *aymant*/*amant* e *tire-cœur*; VII, 9 a morte de Beda (Marulić e Cuteberto) e Santa Eusébia, a Estrangeira.
 - **VII, 6 ¶8-9.** A nota dos editores sobre “Rhodiens” vazou para o meio da frase e partiu-a entre os dois parágrafos (“et cet / amour est tout caché”). A nota foi omitida; o seu dado passou à nota do tradutor. O ¶8 fecha em “com Jesus Cristo” e o ¶9 começa em “Porque, como dizem as sagradas letras”, mantendo a contagem.
-- **Restos da extração omitidos (VII, 5 a VII, 12).** As notas dos editores sobre *kállos* e *hḗlios* (VII, 5 ¶2-3), cujo dado passou à nota do tradutor; “c'IV’ IV’ vn‘” (VII, 5); “. , , . ,, 7 ,”, “4.”, “b)”, “3.”, “nat.,”, “I‘ugc.‘,u ’51’ c ’’” (VII, 6); o cabeço “32 Traitté de l’Amour de Dieu” (VII, 7); “inloco,ÿÿ. 14,15.”, “ii 3” (VII, 8); “Vers. ult.” (VII, 11); “^xn^vn?!’ î”, “l1)”, “e”, “»” e a descrição bibliográfica do *Speculum Spiritualium* (VII, 12), cujo dado passou à nota do tradutor.
+- **Restos da extração omitidos (VII, 5 a VII, 12).** As notas dos editores sobre *kállos* e *hḗlios* (VII, 5 ¶2-3), cujo dado passou à nota do tradutor; “c'IV’ IV’ vn‘” (VII, 5); “. , , . ,, 7 ,”, “4.”, “b)”, “3.”, “nat.,”, “I‘ugc.‘,u ’51’ c ’’” (VII, 6); o cabeço “32 Traitté de l’Amour de Dieu” (VII, 7); “inloco,ÿÿ. 14,15.”, “ii 3” (VII, 8); “Vers. ult.” (VII, 11); “^xn^vn?!’ î”, “l1)”, “e”, “»” (VII, 12). A descrição bibliográfica do *Speculum Spiritualium* (VII, 12) fica traduzida na nota de rodapé.
 - **Erros de OCR lidos pelo sentido.** “en lin il faut onclure” → en fin il faut conclure; “Yhomme” → l’homme; “inferieure douceur” → intérieure (VII, 7); “011” → on; “1’excedent” → l’excedent; “Jaroistre” → paroistre; “pe^e aigie)” → petite aigle; “Pleures” → Heures; “a meilleure part” → la meilleure part; “us ne fussies” → vous ne fussies; “recette” → receue; “les deux encor ouvertz” → les cieux.
 - **Tratamento.** O médico e São Basílio tratam-se por *tu* (fala singular); Basílio e São Francisco falam a Deus com *vós*. O peregrino fala a Jesus com *vós*. Os versos de VII, 8 ¶5 (“Tes doigtz m’ayans tissu…”), dirigidos a Deus, ficam *vós*, com rima “tecido/recebido”. Os “vous” de São Paulo aos ródios e aos romanos ficam *vós*.
 - **VII, 8** “presser” segue a decisão de VII, 1: “nos aperta”, “vê-se apertado a amar”; “estimans ceci” → “estimando isto”, para manter o eco com “estimamos, consideramos, pesamos”.
-- **Notas do tradutor**: VII, 5 as etimologias de *kalón* e *hḗlios* (Dionísio); VII, 6 “ródios” por “colossenses”; VII, 8 a águia de Sestos (Plínio); VII, 12 o *Speculum spiritualium* (Paris, 1510).
+- **Notas do tradutor**: VII, 5 as etimologias de *kalón* e *hḗlios* (Dionísio); VII, 6 “ródios” por “colossenses”; VII, 8 a águia de Sestos (Plínio).
 - **Numeração do autor (VII, 14 ¶7).** As listas “i.” a “5.” ficam **1.** a **5.**, como em VI, 13 e IX, 1-2.
 - **Tratamento (VII, 13 a VIII, 9).** José fala ao Pai e ao Menino Jesus com *vós*; Maria e Jesus tratam-se mutuamente por *vós* (VII, 13 ¶3). A Bondade divina fica *vós* (VIII, 4 ¶5). Os “vous” dirigidos a Teótimo (VII, 14 ¶3; VIII, 9 ¶2 e ¶5) ficam *tu*.
 - **VIII, 1 ¶6.** “il me plait et me paist… je luy plais et le repais” → “me apraz e me apascenta… lhe aprazo e o apascento por minha vez”, conservando o eco de V, 2 (“o que apraz, apascenta”). Fora deste parágrafo, *plaire* continua “agradar” ou “comprazer”.
@@ -868,3 +868,166 @@ Verdict: 0 meaning-level, 0 minor. Delta read: the three corrections (proclisis 
 - Rejected: pt-BR/dedication.md [3] — The source's “embrasé” agrees with São José (masculine), so “abrasada” might seem to shift the referent. — In the Portuguese sentence the participle comes before “a vossa alma” and must agree with it. The sense (José's soul inflamed) is unchanged.
 - Rejected: pt-BR/preface.md [17] — “se desviam de bom grado” renders “se destournent aysement” (easily), not “willingly”. — The nuance is close, and the sense of the comparison (a small detour readily taken) is preserved. This is a style choice.
 - Rejected: pt-BR/book-xi-chapter-x.md [^1], [^3], [^4] — The translator's notes on Cato of Utica, Fabricius and Arria were checked as claims of fact. — The dates, Thapsus, Utica, City of God I, Fabricius's consulship in the 3rd century BC, and Pliny the Younger, Letters III, 16 (“Paete, non dolet”) are all correct.
+
+### Part terms 1 of 6, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 14 minor. 104 sinalizações lidas; 14 com desvio vocabular, corrigidas em 13 trechos; 1 linha do glossário ampliada.
+- `pt-BR/book-i-chapter-ii.md` [4]: “quem o quer aquietar” → “quem o quer sossegar” — *accoiser* → “sossegar” (Key Terms); estava “aquietar”
+- `pt-BR/book-i-chapter-ix.md` [2]: “faz-lhe dar logo este arroubo” → “faz-lhe dar logo este arremesso” — *eslancement* → “arremesso” (Key Terms); estava “arroubo”
+- `pt-BR/book-i-chapter-ix.md` [4]: “pronunciando as suas orações” → “pronunciando as suas preces” — *prières* → “preces” (Key Terms); estava “orações”
+- `pt-BR/book-i-chapter-vii.md` [6]: “a faz parar e aquietar-se” → “a faz parar e sossegar” — *accoiser* → “sossegar” (Key Terms); estava “aquietar-se”
+- `pt-BR/book-i-chapter-x.md` [1]: “a união a que o amor aspira” → “a união que o amor pretende” — *prétendre*, no sentido de visar, → “pretender” (Key Terms); estava “aspirar”
+- `pt-BR/book-i-chapter-x.md` [3]: “a união a que o seu amor aspira” → “a união que o seu amor pretende” — *prétendre*, no sentido de visar, → “pretender” (Key Terms); estava “aspirar”
+- `pt-BR/book-i-chapter-x.md` [5]: “aplicam as suas almas ao gozo deles” → “aplicam as suas almas à fruição deles” — *jouissance* → “fruição” (Key Terms); estava “gozo”
+- `pt-BR/book-i-chapter-x.md` [11]: “depois do gozo do seu mais ardente” → “depois da fruição do seu mais ardente” — *jouissance* → “fruição” (Key Terms); estava “gozo”
+- `pt-BR/book-i-chapter-xi.md` [8]: “fez a oração para que o cálice” → “fez a prece para que o cálice” — *priere* → “prece” (Key Terms); estava “oração”
+- `pt-BR/book-i-chapter-xi.md` [8]: “fazer pedido algum nem oração” → “fazer pedido algum nem prece” — *priere* → “prece” (Key Terms); estava “oração”
+- `pt-BR/book-ii-chapter-iii.md` [5]: “a unir a tua vontade à providência divina” → “a juntar a tua vontade à providência divina” — *joindre* → “juntar” (Key Terms); estava “unir”
+- `pt-BR/book-ii-chapter-iv.md` [3]: “como unir-se a alguma natureza criada” → “como juntar-se a alguma natureza criada” — *joindre* → “juntar” (Key Terms); estava “unir”
+- `pt-BR/book-ii-chapter-xx.md` [6]: “o amor perfeito o segura e o aperta” → “o amor perfeito o segura e o estreita” — *serrer* → “estreitar” (Key Terms); estava “apertar”
+- `pt-BR/translation-journal.md`: “| aymable / amiable | amável / amigável | III, 13; “amiable” também → “amável” no sentido de agradável ou encantador, sem referência ao trato amistoso, como em seios, gosto e inclinação |” → “| aymable / amiable | amável / amigável | III, 13; “amiable” também → “amável” no sentido de “agradável, afável ou digno de amor”, sem referência específica à amizade. |” — O francês antigo *amiable* admite o sentido de “amável”, corretamente empregado para a mão de Deus, a aurora e os cristãos acolhedores; a linha não contemplava esse sentido.
+
+### Part terms 1 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta da parte 1: as 14 mudanças conferem com a fonte e com o glossário; nos parágrafos mostrados, uma *repentance* ainda estava “penitência” em II, 20 [7]
+- `pt-BR/book-ii-chapter-xx.md` [7]: “Assim, a perfeita penitência, tocada pelo motivo” → “Assim, o perfeito arrependimento, tocado pelo motivo” — a fonte diz “la parfaite repentance, touchée”; *repentance* → “arrependimento” (Key Terms), como no resto do parágrafo, que distingue arrependimento de *pœnitence*
+- Rejected: pt-BR/book-ii-chapter-iv.md [4] — “fut jointe a la Personne de Dieu le Filz” → “foi unida”, apesar de *joindre* → “juntar” no glossário — a linha do glossário vale para o par *joindre/unir* de VII, 1-2; aqui “unida à Pessoa” é a forma teológica corrente e não há par a conservar
+- Rejected: pt-BR/book-i-chapter-ix.md [2] — “dar este arremesso” soa forçado — segue a linha *eslancement* → “arremesso” do glossário e é gramatical; é escolha de estilo
+- Rejected: pt-BR/book-ii-chapter-iii.md [5]; pt-BR/book-ii-chapter-xx.md [6] — a auditoria acusa parênteses diferentes — “b)” e “(al. xxv).” são restos de extração omitidos, conforme o diário
+- Rejected: pt-BR/book-ii-chapter-iii.md [^2] — verificar as datas e os dados da nota — Luís de Granada (1504-1588, dominicano) e Louis Richeome (1544-1625, jesuíta) estão corretos
+
+### Part terms 1 of 6, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Conferidos a alteração em II, 20 [7], os parágrafos [6–8], as duas notas do tradutor e os alertas aplicáveis da auditoria; nenhum novo defeito encontrado.
+
+### Part terms 2 of 6, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 22 minor. 86 parágrafos sinalizados lidos; 23 ocorrências com desvio.
+- `pt-BR/book-ii-chapter-xxi.md` [3]: “com os seus laços amáveis” → “com os seus laços amigáveis” — “amiables” → “amigáveis” (Key Terms).
+- `pt-BR/book-iii-chapter-iii.md` [13]: “esta exclamação e oração” → “esta exclamação e prece” — “priere” → “prece” (Key Terms).
+- `pt-BR/book-iii-chapter-iv.md` [4]: “ao oficial que, vendo a constância” → “ao meirinho que, vendo a constância” — “sergent” → “meirinho” (Key Terms).
+- `pt-BR/book-iii-chapter-ix.md` [2]: “uma violência poderosa, mas amável” → “uma violência poderosa, mas amigável” — “amiable” → “amigável” (Key Terms).
+- `pt-BR/book-iii-chapter-ix.md` [5]: “quão belas e amáveis são as verdades” → “quão belas e amigáveis são as verdades” — “amiables” → “amigáveis” (Key Terms).
+- `pt-BR/book-iii-chapter-v.md` [6]: “uma das suas orações solenes” → “uma das suas preces solenes” — “prières” → “preces” (Key Terms).
+- `pt-BR/book-iii-chapter-vi.md` [2]: “com as quais ela o aperta e abraça” → “com as quais ela o estreita e abraça” — “serre” → “estreita” (Key Terms).
+- `pt-BR/book-iii-chapter-x.md` [3]: “se aperta e se encerra nesse elemento” → “se aperta e se estreita nesse elemento” — “serre” → “estreita” (Key Terms).
+- `pt-BR/book-iii-chapter-xii.md` [4]: “o coração amável do pequeno Bernardo” → “o coração amigável do pequeno Bernardo” — “amiable” → “amigável” (Key Terms).
+- `pt-BR/book-iii-chapter-xiii.md` [7]: “Pois esta doçura amável” → “Pois esta doçura amigável” — “amiable” → “amigável” (Key Terms).
+- `pt-BR/book-iv-chapter-i.md` [2]: “lhes faz fazer esta oração” → “lhes faz fazer esta prece” — “priere” → “prece” (Key Terms).
+- `pt-BR/book-iv-chapter-i.md` [5]: “nos ligará tão apertado à sua bondade” → “nos ligará tão estreitamente à sua bondade” — “serré” → “estreitamente”, ajustado à construção (Key Terms).
+- `pt-BR/book-iv-chapter-ii.md` [3]: “por causa do temor e do tédio” → “por causa do temor e da angústia” — “ennuy” designa angústia que oprime os corações, não tédio (Key Terms). *(meaning)*
+- `pt-BR/book-iv-chapter-ix.md` [2]: “pregar ou de dizer a Missa por escolha” → “pregar ou de dizer a Missa por eleição” — “élection” → “eleição” (Key Terms).
+- `pt-BR/book-iv-chapter-ix.md` [2]: “o hábito adquiridos por escolha e virtude” → “o hábito adquiridos por eleição e virtude” — “élection” → “eleição” (Key Terms).
+- `pt-BR/book-iv-chapter-ix.md` [2]: “praticados depois sem escolha e sem virtude” → “praticados depois sem eleição e sem virtude” — “élection” → “eleição” (Key Terms).
+- `pt-BR/book-iv-chapter-vii.md` [3]: “sobretudo, somos extravagantes” → “sobretudo, somos caprichosos” — “bigearres” → “caprichosos” (Key Terms).
+- `pt-BR/book-iv-chapter-vii.md` [9]: “não era expediente para a nossa salvação” → “não convinha à nossa salvação” — “expedient” → “o que convém”, ajustado à construção (Key Terms).
+- `pt-BR/book-iv-chapter-vii.md` [9]: “das riquezas da sabedoria e da ciência de Deus” → “das riquezas da sapiência e da ciência de Deus” — “sapience” → “sapiência” (Key Terms).
+- `pt-BR/book-iv-chapter-viii.md` [5]: “que abarca e abraça toda a máquina” → “que estreita e abraça toda a máquina” — “serre” → “estreita” (Key Terms).
+- `pt-BR/book-ix-chapter-iv.md` [6]: “os meus sentidos desfalecem do mesmo modo” → “os meus sentidos desmaiam do mesmo modo” — “se pasment” → “desmaiam” (Key Terms).
+- `pt-BR/book-ix-chapter-vi.md` [9]: “a vontade de Deus que impede o êxito” → “a vontade de Deus que impede o desfecho” — “evenement” de uma empresa → “desfecho” (Key Terms).
+- `pt-BR/book-ix-chapter-x.md` [6]: “e depois atiram fora o pão” → “e depois lançam fora o pão” — “jettent” → “lançam” (Key Terms).
+
+### Part terms 2 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 6 minor. Delta read of 23 changes and their neighbouring paragraphs: 17 hold; 5 changes are reverted (4 “amigável” where the Key Terms allow “amável”, 1 “meirinho” against the specific row “oficial”), and one “oração” for “prière” is corrected to “prece”.
+- `pt-BR/book-ii-chapter-xxi.md` [3]: “com os seus laços amigáveis” → “com os seus laços amáveis” — “amiables liens” = laços agradáveis, sem referência à amizade; a linha aymable/amiable dos Termos admite “amável” nesse sentido. Reverte a correção anterior.
+- `pt-BR/book-iii-chapter-ix.md` [2]: “uma violência poderosa, mas amigável,” → “uma violência poderosa, mas amável,” — “amiable violence” = violência agradável; “amigável” dá sentido impróprio. Os Termos admitem “amável” fora do sentido de amizade. Reverte a correção anterior.
+- `pt-BR/book-iii-chapter-ix.md` [5]: “quão belas e amigáveis são as verdades” → “quão belas e amáveis são as verdades” — “belles et amiables” dito de verdades = dignas de amor, não “amigáveis”. Os Termos admitem “amável”. Reverte a correção anterior.
+- `pt-BR/book-iii-chapter-xii.md` [4]: “o coração amigável do pequeno Bernardo” → “o coração amável do pequeno Bernardo” — “cœur amiable” = coração afável, digno de amor; não há referência à amizade. Os Termos admitem “amável”. Reverte a correção anterior.
+- `pt-BR/book-iii-chapter-iv.md` [4]: “ao meirinho que, vendo a constância” → “ao oficial que, vendo a constância” — Os Termos têm a linha específica “sergent (São Tiago) | oficial”; “meirinhos” é a linha de VIII, 1 (prevostz/sergens). Reverte a correção anterior.
+- `pt-BR/book-ix-chapter-vi.md` [8]: “O grande Salmista faz esta oração ao Salvador” → “O grande Salmista faz esta prece ao Salvador” — “fait cette prière” → “prece”, conforme a linha orayson/priere dos Termos e as correções da rodada anterior.
+- Rejected: pt-BR/book-iii-chapter-xiii.md [7] — “doçura amigável” poderia voltar a “amável” — A paráfrase do Salmo 132 trata da concórdia fraterna e o ¶8 joga com “amável e amigável” aplicado à amizade; “amigável” está correto e é a referência da própria linha dos Termos (III, 13).
+- Rejected: pt-BR/book-iv-chapter-ix.md [2] — “por eleição” para “par élection” soa estranho — Segue a linha choix/élection → escolha/eleição; “eleição” no sentido de escolha deliberada é português correto.
+- Rejected: pt-BR/book-iv-chapter-vii.md [2] — auditoria: “nos nos” — É “desvanecemo-nos nos nossos pensamentos”: pronome seguido de contração, não repetição.
+- Rejected: pt-BR/book-ii-chapter-xxi.md [2] — auditoria: extensão de 173% da fonte — É a reconstituição do começo perdido do capítulo, registrada nas Decisões do diário (II, 21 ¶2).
+- Rejected: pt-BR/book-ii-chapter-xxi.md [3]-[5], book-iv-chapter-ii.md [5], book-ix-chapter-x.md [4] — auditoria: parênteses diferentes — Os parênteses da fonte são marcadores de OCR do aparato, “(>”, “0)”, “(°)”; o diário registra a sua omissão.
+
+### Part terms 2 of 6, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as 6 alterações e lidos integralmente os 16 parágrafos apresentados e as 3 notas do tradutor; nenhum defeito objetivo encontrado.
+
+### Part terms 3 of 6, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 15 minor. Lidos 109 flags em 74 parágrafos: 11 desvios corrigidos e 4 linhas do glossário ampliadas.
+- `pt-BR/translation-journal.md`: “| aymable / amiable | amável / amigável | III, 13; “amiable” também → “amável” no sentido de “digno de amor” ou “que inspira amor”, inclusive em imagens afetivas; “amigável” no sentido de “afável” ou “benevolente” |” → “| aymable / amiable | amável / amigável | III, 13; “amiable” também → “amável” no sentido de agradável ou encantador, sem referência ao trato amistoso, como em seios, gosto e inclinação |” — As ocorrências usam corretamente “amável” para qualidades atraentes ou agradáveis; a linha precisa contemplar esse sentido de “amiable”.
+- `pt-BR/translation-journal.md`: “| serrer / serrement | estreitar / estreitamento | VII, 1-3 |” → “| serrer / serrement | estreitar / estreitamento | VII, 1-3; “serrer” → “apertar” no sentido físico de comprimir ou manter muito juntos, como o bico do seio e os grãos da romã |” — “Apertar” traduz corretamente os dois usos físicos, distintos do estreitamento da união espiritual.
+- `pt-BR/translation-journal.md`: “| zele / jalousie / jaloux / envie | zelo / ciúme / ciumento / inveja | X, 12-13 |” → “| zele / jalousie / jaloux / envie | zelo / ciúme / ciumento / inveja | X, 12-13; “jaloux de” → “cioso de” quando significa zeloso da conservação de algo, como o sono ou o repouso |” — Nas duas ocorrências, “cioso” exprime corretamente o cuidado em preservar o repouso.
+- `pt-BR/translation-journal.md`: “| tendre / prétendre / jetter / projetter | tender / pretender / lançar / projetar | XI, 13; como adjetivo, “tendre” → “terno” para a afeição e “tenro” para juventude, delicadeza ou desenvolvimento incipiente |” → “| tendre / prétendre / jetter / projetter | tender / pretender / lançar / projetar | XI, 13; “jetter” → “soltar” ao emitir bramidos ou gemidos; “jetter des souspirs” → “exalar suspiros” |” — As traduções distinguem corretamente a emissão de sons e suspiros do ato de lançar.
+- `pt-BR/book-ix-chapter-xvi.md` [6]: “não por escolha sua” → “não por eleição sua” — “élection” → “eleição” (Key Terms); estava “escolha”.
+- `pt-BR/book-v-chapter-ii.md` [4]: “regozijar-me no vosso gozo” → “regozijar-me na vossa fruição” — “jouissance” → “fruição” (Key Terms); estava “gozo”.
+- `pt-BR/book-v-chapter-iv.md` [5]: “vemos o amigo no gozo dele” → “vemos o amigo na fruição dele” — “jouissance” → “fruição” (Key Terms); estava “gozo”.
+- `pt-BR/book-v-chapter-v.md` [3]: “me faz desfalecer de angústia” → “me faz desmaiar de angústia” — “pasmer” → “desmaiar” (Key Terms); estava “desfalecer”.
+- `pt-BR/book-v-chapter-x.md` [4]: “a alma toda langorosa e doente de amor” → “a alma toda enlanguescida e doente de amor” — “alangourie” → “enlanguescida” (Key Terms); estava “langorosa”.
+- `pt-BR/book-vi-chapter-v.md` [3]: “depois de terem discorrido sobre a multidão” → “depois de terem raciocinado sobre a multidão” — “discouru” designa o exercício do raciocínio que precede a contemplação; aplicar “raciocínio” (Key Terms) na forma verbal.
+- `pt-BR/book-vi-chapter-viii.md` [3]: “sem discorrer consigo mesmos” → “sem raciocinar consigo mesmos” — “discourir” designa a atividade interior do raciocínio, não uma exposição; aplicar o termo do glossário na forma verbal.
+- `pt-BR/book-vi-chapter-viii.md` [5]: “embora não se aperceba desse gozo” → “embora não se aperceba dessa fruição” — “jouissance” → “fruição” (Key Terms); estava “gozo”.
+- `pt-BR/book-vi-chapter-x.md` [3]: “empregam o entendimento em discorrer sobre os sentimentos” → “empregam o entendimento em raciocinar sobre os sentimentos” — “discourir” é aqui a atividade do entendimento; aplicar “raciocínio” (Key Terms) na forma verbal.
+- `pt-BR/book-vi-chapter-xi.md` [5]: “que pudesse discorrer e falar” → “que pudesse raciocinar e falar” — “discourir” designa a faculdade de raciocinar da estátua imaginada; aplicar o termo do glossário na forma verbal.
+- `pt-BR/book-vi-chapter-xi.md` [6]: “quem nos põe ali nas nossas camas” → “quem nos lança ali nas nossas camas” — “jette” → “lança” (Key Terms); estava “põe”.
+
+### Part terms 3 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta de 15 mudanças: 13 corretas. Revertidas 2 trocas de “gozo” por “fruição” (V, 2 e V, 4), que contrariam a Decisão do diário sobre o par jouissance/res-jouissance. Os parágrafos vizinhos estão sem defeitos.
+- `pt-BR/book-v-chapter-ii.md` [4]: “regozijar-me na vossa fruição” → “regozijar-me no vosso gozo” — A fonte opõe “res-jouir de vostre jouissance” a “jouir de ma res-jouissance”. A Decisão do diário para V, 1-4 manda “gozar/regozijar-se” e “gozo/regozijo” quando o autor opõe *jouir* a *se res-jouir*. “Fruição” vale só para *jouissance* isolada. Reverte a correção anterior.
+- `pt-BR/book-v-chapter-iv.md` [5]: “vemos o amigo na fruição dele, o nosso regozijo” → “vemos o amigo no gozo dele, o nosso regozijo” — A fonte opõe “la jouissance d’iceluy” a “nostre res-jouissance”, o par previsto na Decisão do diário para V, 1-4 (“gozo/regozijo”). Reverte a correção anterior.
+- Rejected: pt-BR/book-vi-chapter-viii.md [5] — “dessa fruição” para *jouissance*, ao lado de “goza” — Aqui *jouissance* não se opõe a *res-jouir*. Pela regra do diário, *jouissance* isolada fica “fruição”, então a correção está certa.
+- Rejected: pt-BR/book-vi-chapter-x.md [3] — O audit acusa parênteses diferentes (2 na fonte, 0 na tradução) — Os parênteses da fonte são restos de extração (“(d”, “(ai. xxxn)”), omitidos conforme o diário.
+
+### Part terms 3 of 6, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 1 minor. Lidos os seis parágrafos e as duas notas apresentados; confirmadas ambas as alterações e encontrada uma afirmação não confirmada em nota.
+- `pt-BR/book-v-chapter-ii.md`: “hena. O autor segue a primeira leitura.” → “hena.” — A fonte explica «cyprin» pelo odor excelente, mas não estabelece que o autor entenda a expressão geograficamente. Retira-se essa identificação não confirmada.
+- Rejected: pt-BR/book-v-chapter-ii.md [4]; pt-BR/book-v-chapter-iv.md [5] — «Gozo» diverge da linha geral «jouissance → fruição». — As duas passagens contrapõem jouissance a res-jouissance; aplica-se a decisão específica «gozo/regozijo». As reversões estão corretas.
+
+### Part terms 3 of 6, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of 1 change (note in V, 2): correct; no paragraphs touched, no new defects.
+- Rejected: pt-BR/book-v-chapter-ii.md (nota do tradutor) — Removing “O autor segue a primeira leitura.” could leave the note without a conclusion about the reading of “raysin cyprin”. — The source glosses “cyprin” only by its excellent scent and does not show the author choosing the geographic reading. Cutting the unconfirmed claim back to what is certain follows the house rule. The note still ends cleanly at “hena.”
+
+### Part terms 4 of 6, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 10 minor. 77 parágrafos sinalizados lidos; 9 desvios terminológicos corrigidos e 1 linha do glossário ampliada.
+- `pt-BR/translation-journal.md`: “| aymable / amiable | amável / amigável | III, 13; “amiable” também → “amável” quando exprime doçura, agrado ou benevolência |” → “| aymable / amiable | amável / amigável | III, 13; “amiable” também → “amável” no sentido de “digno de amor” ou “que inspira amor”, inclusive em imagens afetivas; “amigável” no sentido de “afável” ou “benevolente” |” — A fonte também emprega “amiable” no sentido de amável, como nas imagens do seio materno e do fardo amado; a tradução usa legitimamente esse segundo sentido.
+- `pt-BR/book-vii-chapter-ii.md` [8]: “a sua alma e o seu afeto” → “a sua alma e a sua afeição” — *affection* → “afeição” (Key Terms); estava “afeto”.
+- `pt-BR/book-vii-chapter-iii.md` [8]: “os seus afetos, ainda que de certa forma adormecidos, estão de tal modo empenhados e presos” → “as suas afeições, ainda que de certa forma adormecidas, estão de tal modo empenhadas e presas” — *affections* → “afeições” (Key Terms), com ajuste da concordância; estava “afetos”.
+- `pt-BR/book-vii-chapter-xii.md` [3]: “a primeira infância do divino Menino” → “a primeira infância do divino Pequenino” — *Poupon* → “Pequenino”, forma masculina de “pequenina” (Key Terms); estava “Menino”.
+- `pt-BR/book-vii-chapter-xii.md` [5]: “de um natural todo doce, amável, devoto” → “de um natural todo doce, amigável, devoto” — *amiable* → “amigável” (Key Terms), aqui descrevendo o temperamento afável; estava “amável”.
+- `pt-BR/book-viii-chapter-iv.md` [3]: “é chamada boa porque é amável, propícia” → “é chamada boa porque é amigável, propícia” — *amiable* → “amigável” (Key Terms), aqui no sentido de benevolente para com os homens; estava “amável”.
+- `pt-BR/book-viii-chapter-ix.md` [2]: “atirá-lo-ás por isso na lama?” → “lançá-lo-ás por isso na lama?” — *jetteres* → “lançá-lo-ás” (Key Terms); estava “atirá-lo-ás”.
+- `pt-BR/book-viii-chapter-ix.md` [5]: “Não te é conveniente, por causa da tua condição, guardar” → “Não te convém, por causa da tua condição, guardar” — *expedient* → “convém”, ajustado à construção da frase (Key Terms); estava “conveniente”, reservado a *convenable*.
+- `pt-BR/book-viii-chapter-vii.md` [5]: “a viuvez, o jejum, a oração habitual.” → “a viuvez, o jejum, a prece habitual.” — *priere* → “prece” (Key Terms); estava “oração”.
+- `pt-BR/book-viii-chapter-xi.md` [4]: “é de opinião que não é conveniente consultar muito” → “é de opinião que não convém consultar muito” — *expedient* → “convém”, ajustado à construção da frase (Key Terms); estava “conveniente”, reservado a *convenable*.
+
+### Part terms 4 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 4 minor. Delta read das 10 mudanças da rodada 1 e dos parágrafos vizinhos: 8 corretas; 2 trocas amiable → amigável revertidas por contradizerem o Key Terms; corrigidos uma crase e bienséance → decoro.
+- `pt-BR/book-vii-chapter-xii.md` [5]: “de um natural todo doce, amigável, devoto” → “de um natural todo doce, amável, devoto” — O Key Terms, como está, dá *amiable* → “amável” no sentido de “agradável, afável ou digno de amor”. É o caso aqui, o temperamento do cavaleiro. A troca da rodada anterior para “amigável” contradiz o glossário e piora o português.
+- `pt-BR/book-vii-chapter-xii.md` [5]: “devoto a maravilha” → “devoto à maravilha” — A locução adverbial “à maravilha” leva crase.
+- `pt-BR/book-viii-chapter-iv.md` [3]: “é chamada boa porque é amigável, propícia” → “é chamada boa porque é amável, propícia” — *amiable*, na série “propice, favorable, aggreable, délicieuse”, descreve a vontade divina como digna de amor e agradável. Pelo Key Terms atual, isso é “amável”. “Amigável” dito da vontade de Deus soa impróprio e contradiz o glossário.
+- `pt-BR/book-viii-chapter-ix.md` [5]: “dentro dos termos da conveniência” → “dentro dos termos do decoro” — A fonte diz “dans les termes de la bienséance”. O Key Terms dá *bienséance* → “decoro”, distinto de *convenance* → “conveniência” (termo escolástico).
+- Rejected: pt-BR/book-viii-chapter-xi.md [3] — auditoria: palavra repetida “nos nos” — Não há “nos nos” contíguo no texto. “só nos faz regozijar-nos” é construção aceitável.
+- Rejected: pt-BR/translation-journal.md (linha aymable / amiable) — o texto da linha difere do que a rodada 1 declarou ter escrito — A linha atual (“amável” no sentido de agradável, afável ou digno de amor) é coerente e foi mantida. Os dois parágrafos que a contradiziam foram corrigidos.
+- Rejected: pt-BR/book-vii-chapter-xii.md [3] — *Poupon* → “Pequenino” — É a forma masculina coerente com “pouponne → pequenina” do Key Terms.
+- Rejected: pt-BR/book-vii-chapter-xii.md [6]; book-viii-chapter-xi.md [3] — auditoria: marcadores de ênfase a mais — Os itálicos marcam títulos de obras (*Espelho dos espirituais*, *Introdução*), o que é legítimo.
+
+### Part terms 4 of 6, Round 3 (codex, delta read)
+Verdict: 1 meaning-level, 0 minor. Conferidas as quatro alterações e lidos integralmente os nove parágrafos apresentados e suas três notas: alterações corretas; encontrada uma omissão na nota bibliográfica.
+- `pt-BR/book-vii-chapter-xii.md`: “*Nota do tradutor:* O *Speculum spiritualium*, compilação anônima de doutrina espiritual e de exemplos, impressa em Paris em 1510.” → “*Speculum Spiritualium, in quo non solum de vita activa et contemplativa, verum etiam de vitiis... et virtutibus... cum variis exemplis* [Espelho dos espirituais, no qual se trata não só da vida ativa e contemplativa, mas também dos vícios... e das virtudes... com vários exemplos]. Na Academia de Paris, por Wolfgang Hopyl, 1510. À custa de Guilherme Bretton, cidadão de Londres.” — A nota bibliográfica da fonte foi substituída por um resumo que omite o subtítulo, o impressor e o responsável pelo custeio. A regra desta revisão exige conservar e traduzir também as notas dos editores; restaura-se o conteúdo na definição já existente. *(meaning)*
+
+### Part terms 4 of 6, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Checked the one footnote change in VII, 12 against the source description: it is correct. Fixed two journal lines left stale by it.
+- `pt-BR/translation-journal.md`: ““»” e a descrição bibliográfica do *Speculum Spiritualium* (VII, 12), cujo dado passou à nota do tradutor.” → ““»” (VII, 12). A descrição bibliográfica do *Speculum Spiritualium* (VII, 12) fica traduzida na nota de rodapé.” — The previous round restored the bibliographic description in the footnote, so the journal's claim that it was omitted is now false.
+- `pt-BR/translation-journal.md`: “; VII, 8 a águia de Sestos (Plínio); VII, 12 o *Speculum spiritualium* (Paris, 1510).” → “; VII, 8 a águia de Sestos (Plínio).” — The VII, 12 footnote is no longer a translator's note. It now holds the source's bibliographic description, so it does not belong in the list of translator's notes.
+- Rejected: pt-BR/book-vii-chapter-xii.md (nota do Speculum) — “Guilherme Bretton” for William Bretton — The book consistently gives personal names in Portuguese form (Luís Richeome, João Gerson). This is a defensible choice, not a defect.
+- Rejected: pt-BR/book-vii-chapter-xii.md (nota do Speculum) — The “*Nota do tradutor:*” label was dropped — The content is now the source's bibliographic description, not a note by the translator, so the label would be wrong.
+
+### Part terms 4 of 6, Round 5 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Conferidas as duas alterações do diário: ambas refletem corretamente a restauração da nota bibliográfica de VII, 12. Nenhum defeito encontrado; não foram apresentados parágrafos de capítulos nesta rodada.
+
+### Part terms 5 of 6, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 4 minor. 81 parágrafos sinalizados examinados; nenhuma deriva na tradução; 4 complementos de sentido nas notas do glossário.
+- `pt-BR/translation-journal.md`: “| facultés / puissances | faculdades / potências | distintas, como na fonte |” → “| facultés / puissances | faculdades / potências | distintas, como na fonte; “puissance” → “poder” quando significa autoridade ou capacidade de agir, fora da enumeração das faculdades da alma |” — Em X, 7 e X, 17, “poder” traduz corretamente autoridade e capacidade de agir; a nota distingue esses usos das potências da alma.
+- `pt-BR/translation-journal.md`: “| aymable / amiable | amável / amigável | III, 13; “amiable” também → “amável”, quando significa digno de amor ou que desperta amor |” → “| aymable / amiable | amável / amigável | III, 13; “amiable” também → “amável” quando exprime doçura, agrado ou benevolência |” — “Amável” traduz corretamente “amiable” em X, 15; X, 16; XI, 3. A nota registra esse uso recorrente.
+- `pt-BR/translation-journal.md`: “| choix / élection | escolha / eleição | X, 9 |” → “| choix / élection | escolha / eleição | X, 9; “élection” também → “escolha” no sentido corrente de escolher entre alternativas |” — Em VIII, 14 e X, 9, “escolha” traduz corretamente “élection”, sem comprometer a formulação técnica de X, 6.
+- `pt-BR/translation-journal.md`: “| tendre / prétendre / jetter / projetter | tender / pretender / lançar / projetar | XI, 13 |” → “| tendre / prétendre / jetter / projetter | tender / pretender / lançar / projetar | XI, 13; como adjetivo, “tendre” → “terno” para a afeição e “tenro” para juventude, delicadeza ou desenvolvimento incipiente |” — As ocorrências adjetivais são traduzidas reiterada e corretamente por “terno” e “tenro”; não correspondem ao verbo “tender”.
+
+### Part terms 5 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Leitura delta: as quatro notas acrescentadas ao glossário estão corretas e coerentes com as Decisões; nenhum parágrafo foi alterado; nenhum defeito encontrado.
+- Rejected: pt-BR/translation-journal.md, linhas “aymable / amiable” e “tendre / prétendre / jetter / projetter” — O texto atual dessas linhas difere do “new” anunciado nas alterações da rodada 1. A linha de “amiable” traz outra redação. A linha de “tendre” não contém a nota sobre o adjetivo. — O diário é do livro inteiro e pode ter sido editado por rodadas de outras partes. As notas atuais são verdadeiras e compatíveis com as decisões (V, 5 ¶3; XI, 13). Sem o texto dos capítulos neste delta, não há uma afirmação falsa demonstrável.
+- Rejected: auditoria mecânica, linhas de Termos “teston”, “escouler”, “horvaris”, “tourner et pousser” — Contagem zero da forma portuguesa no pt-BR. — As contagens são indicativas e procuram só a forma de citação. O plural “testões” e as formas flexionadas de “escoar-se” (“escoa”, “escoou-se”) não entram nelas. Os parágrafos não fazem parte deste delta, e nenhuma alteração da rodada tocou essas linhas.
+
+### Part terms 6 of 6, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 1 minor. 87 flags lidos; nenhum desvio na tradução; 1 complemento ao glossário.
+- `pt-BR/translation-journal.md`: “| aymable / amiable | amável / amigável | III, 13 |” → “| aymable / amiable | amável / amigável | III, 13; “amiable” também → “amável”, quando significa digno de amor ou que desperta amor |” — “Amiable” aparece reiteradamente como “amável”, com sentido adequado ao contexto; a nota registra esse uso consistente.
+
+### Part terms 6 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read: checked the journal change to the amiable row against the Decisões entries; it is correct, and no paragraphs were touched.
+- Rejected: pt-BR/translation-journal.md, row “aymable / amiable” — The added note could contradict XII, 8 ¶7 (“escravo amoroso”) and Prefácio ¶35 (“amigável”) — The note limits “amável” to the sense of agreeable or worthy of love; the other renderings have their own entries in Decisões. It makes no false claim.

@@ -26,6 +26,6 @@ não posso, assim governado, senão ver que em tudo a gosto abundo:
 
 quando vê minha alma em langor e que algum mal a danifica, ele a repõe em seu vigor e o ânimo me fortifica.
 
-De modo que devemos repetir muitas vezes esta exclamação e oração:
+De modo que devemos repetir muitas vezes esta exclamação e prece:
 
 Vossa bondade me siga em todo lugar, vosso favor me guarde a toda hora, a fim de que no vosso Céu, ó meu Deus, eu faça para sempre a minha morada.
