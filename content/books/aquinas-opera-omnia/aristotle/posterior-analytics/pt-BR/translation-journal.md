@@ -25,7 +25,7 @@ Destino: pt-BR.
 | syllogismus demonstrativus / scientialis | silogismo demonstrativo / científico | “Científico” significa que produz ciência. |
 | pars iudicativa / inventiva | parte judicativa / inventiva | Divisões da lógica. |
 | resolutio / analectica | resolução / analítica | Redução aos primeiros princípios. |
-| fides / opinio / suspicio | crença / opinião / suspeita | *Fides* tem sentido epistemológico nestas lições. |
+| fides / opinio / suspicio | crença / opinião / suspeita | *Fides* tem sentido epistemológico nestas lições. Nas expressões em que proposições recebem dos princípios sua confirmação (*fidem sumere*, *fidem accipere*), também “credibilidade” ou “certeza”. |
 | probabilis | provável | Qualificação das proposições dialéticas. |
 | estimatio | estimativa | Faculdade ou apreensão estimativa, no contexto da poética. |
 | enthymema / inductio | entimema / indução | Formas de argumentação. |
@@ -41,7 +41,7 @@ Destino: pt-BR.
 | propositio / enunciatio / contradictio | proposição / enunciação / contradição | Mantidas as distinções explicadas pelo comentário. |
 | positio / suppositio | posição / suposição | Classes dos princípios imediatos. |
 | dignitas / maxima propositio | dignidade / proposição máxima | Denominações do princípio comum e necessariamente admitido. |
-| dualitas | díade | Unidade numérica constituída de dois. |
+| dualitas | díade | Unidade numérica constituída de dois. Em g2-c013 e g2-c014, “dois” quando designa o número na série aritmética, ao lado de “ternário”. |
 | diametrum / symmetrum | diagonal / comensurável | No exemplo da diagonal e do lado do quadrado. |
 | virtus | virtude | Potência ou capacidade causal; não necessariamente virtude moral. |
 | demonstratio quia / propter quid | demonstração do fato / da razão do fato | Convenção adotada nos títulos do sumário. |
@@ -135,13 +135,13 @@ Destino: pt-BR.
 | passio | propriedade | Aquilo cuja atribuição ao sujeito é demonstrada; esclarecido em [^19]. |
 | diameter | diagonal | No exemplo do quadrado, a linha que une vértices opostos. |
 | commensurabilis / incommensurabilis | comensurável / incomensurável | Relação entre grandezas quanto à possibilidade de uma medida comum. |
-| agibilia / factibilia | coisas que se devem praticar / coisas que se devem produzir | Distinção entre o domínio da prudência e o da arte. |
+| agibilia / factibilia | coisas que se devem praticar / coisas que se devem produzir | Distinção entre o domínio da prudência e o da arte. *Factibilia* também admite “coisas que se podem produzir” quando designa o domínio da produção possível pela arte, sem indicar obrigação. |
 | quod quid erat esse | o que a coisa é | Fórmula de essência, vertida segundo o mesmo critério de “quod quid est”; ocasionalmente “essência” para evitar repetição opaca. |
 | quidditas | quididade | Essência significada pela definição. |
 | in quid / in eo quod quid est | na ordem do que é | Predicação que responde ao que a coisa é; pode caber ao gênero sem exprimir a essência inteira. |
 | convertibilis / converti | conversível / ser conversível | Termos reciprocamente predicáveis, com a mesma extensão. |
 | petitio principii | petição de princípio | Tomar como premissa aquilo que se deveria provar. |
-| ratio | enunciado / noção / argumento | “Enunciado” no contexto da expressão definitória; “noção” para seu conteúdo conceitual; “argumento” no raciocínio probatório. |
+| ratio | enunciado / noção / argumento | “Enunciado” no contexto da expressão definitória; “noção” para seu conteúdo conceitual; “argumento” no raciocínio probatório. Também “raciocínio” para o procedimento discursivo, contraposto à apreensão simples dos princípios, e para a aplicação do mesmo encadeamento explicativo a outros casos. |
 | gressibile | pedestre | Animal que anda; conservada a oposição a “aquático”. |
 | individuum | indivisível | Em g2-c004, enunciado que dispensa divisão ulterior para se tornar próprio da coisa, não indivíduo singular. |
 | tragelaphus / yrcocervus | *tragelaphus* / *yrcocervus*; hircocervo | Preservados os nomes quando examinados como palavras; “hircocervo” para o animal fictício composto de bode e cervo. |
@@ -397,3 +397,102 @@ Verdict: 0 meaning-level, 0 minor. Full read of g2-c001–g2-c020 against the La
 Verdict: 0 meaning-level, 0 minor. Leitura integral dos 20 capítulos g2-c001–g2-c020, da nota, do diário e dos campos pertinentes de book.json, com conferência da auditoria: nenhum defeito objetivo confirmado.
 - Rejected: pt-BR/g2-c013.md [6] — “Cada um dos outros pertence a todos os ímpares” poderia incluir indevidamente a primalidade. — O último elemento pode designar conjuntamente “primo em ambos os sentidos”, conforme a explicação de Tomás em [34]; os demais são número e ímpar. A leitura é defensável.
 - Rejected: pt-BR/g2-c016.md [16] — Identificação de Alcibíades com Hércules. — A identificação está expressamente no latim: “Alcibiades, idest Hercules”. A tradução preserva a edição; não cabe corrigir essa afirmação do texto-fonte.
+
+### Part terms 1 of 2, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 35 minor. 168 parágrafos sinalizados lidos; 28 com desvios, além de 2 ocorrências corretas que motivaram a complementação de uma linha do glossário.
+- `pt-BR/translation-journal.md`: “| fides / opinio / suspicio | crença / opinião / suspeita | *Fides* tem sentido epistemológico nestas lições. |” → “| fides / opinio / suspicio | crença / opinião / suspeita | *Fides* tem sentido epistemológico nestas lições. Nas expressões em que proposições recebem dos princípios sua confirmação (*fidem sumere*, *fidem accipere*), também “credibilidade” ou “certeza”. |” — As ocorrências em g1-c004.md [71] e g1-c027.md [52] designam a confirmação recebida pelas proposições, e não diretamente a crença de quem conhece.
+- `pt-BR/g1-c006.md` [8]: “silogismo do erro contrário” → “silogismo do engano contrário” — *deceptio* → “engano” (Key Terms); estava “erro”.
+- `pt-BR/g1-c010.md` [9]: “nas coisas cognoscíveis sem mais” → “nas coisas cognoscíveis cientificamente sem mais” — *scibile* → “cognoscível cientificamente” (Key Terms).
+- `pt-BR/g1-c010.md` [31]: “chamam-se propriamente cognoscíveis as conclusões” → “chamam-se propriamente cognoscíveis cientificamente as conclusões” — *scibile* → “cognoscível cientificamente” (Key Terms).
+- `pt-BR/g1-c010.md` [32]: “***nas coisas cognoscíveis sem mais***” → “***nas coisas cognoscíveis cientificamente sem mais***” — *scibile* → “cognoscível cientificamente” (Key Terms).
+- `pt-BR/g1-c010.md` [33]: “essas coisas cognoscíveis são necessárias” → “essas coisas cognoscíveis cientificamente são necessárias” — *scibile* → “cognoscível cientificamente” (Key Terms).
+- `pt-BR/g1-c016.md` [12]: “trata das coisas que ocorrem frequentemente” → “trata das coisas que ocorrem na maioria das vezes” — *ut frequenter* → “na maioria das vezes” (Key Terms); a citação seguinte traduz *saepe*.
+- `pt-BR/g1-c016.md` [27]: “demonstração das coisas que ocorrem frequentemente” → “demonstração das coisas que ocorrem na maioria das vezes” — *ut frequenter* → “na maioria das vezes” (Key Terms).
+- `pt-BR/g1-c017.md` [8]: “às ciências mecânicas, ou construtivas, ou especulativas” → “às ciências mecânicas, ou das máquinas, ou especulativas” — *machinativa* → “ciência das máquinas” (Key Terms); estava “construtivas”.
+- `pt-BR/g1-c021.md` [11]: “há também erros próprios” → “há também enganos próprios” — *deceptiones* → “enganos” (Key Terms); estava “erros”.
+- `pt-BR/g1-c022.md` [2]: “***Em cada ciência há erros e ignorâncias próprios***” → “***Em cada ciência há enganos e ignorâncias próprios***” — *deceptiones* → “enganos” (Key Terms); estava “erros”.
+- `pt-BR/g1-c022.md` [15]: “em cada ciência há erros e ignorâncias próprios” → “em cada ciência há enganos e ignorâncias próprios” — *deceptiones* → “enganos” (Key Terms); estava “erros”.
+- `pt-BR/g1-c025.md` [7]: “seja absolutamente, seja segundo” → “seja sem mais, seja segundo” — *simpliciter* → “sem mais” (Key Terms); estava “absolutamente”.
+- `pt-BR/g1-c025.md` [23]: “da linha tomada absolutamente” → “da linha tomada sem mais” — *simpliciter* → “sem mais” (Key Terms); estava “absolutamente”.
+- `pt-BR/g1-c025.md` [23]: “dos corpos tomados absolutamente” → “dos corpos tomados sem mais” — *simpliciter* → “sem mais” (Key Terms); estava “absolutamente”.
+- `pt-BR/g1-c025.md` [32]: “os princípios que a óptica apresenta em termos absolutos” → “os princípios que a óptica apresenta sem mais” — *simpliciter* → “sem mais” (Key Terms); estava “em termos absolutos”.
+- `pt-BR/g1-c027.md` [20]: “por algum raciocínio silogístico” → “por algum argumento silogístico” — *ratio* no raciocínio probatório → “argumento” (Key Terms); estava “raciocínio”.
+- `pt-BR/g1-c033.md` [4]: “mas não pura e simplesmente, e sim por acidente” → “mas não sem mais, e sim por acidente” — *simpliciter* → “sem mais” (Key Terms).
+- `pt-BR/g1-c033.md` [4]: “sempre se predique pura e simplesmente” → “sempre se predique sem mais” — *simpliciter* → “sem mais” (Key Terms).
+- `pt-BR/g1-c033.md` [21]: “***predicar pura e simplesmente, mas por acidente***” → “***predicar sem mais, mas por acidente***” — *simpliciter* → “sem mais” (Key Terms).
+- `pt-BR/g1-c033.md` [21]: “***pura e simplesmente***, e ***não por acidente***” → “***sem mais***, e ***não por acidente***” — *simpliciter* → “sem mais” (Key Terms).
+- `pt-BR/g1-c033.md` [24]: “o predicado é pura e simplesmente uma essência” → “o predicado é sem mais uma essência” — *simpliciter* → “sem mais” (Key Terms).
+- `pt-BR/g1-c034.md` [11]: “conhecer algo cientificamente pela demonstração, pura e simplesmente” → “conhecer algo cientificamente pela demonstração, sem mais” — *simpliciter* → “sem mais” (Key Terms).
+- `pt-BR/g1-c034.md` [11]: “conhecer coisa alguma cientificamente pela demonstração, pura e simplesmente” → “conhecer coisa alguma cientificamente pela demonstração, sem mais” — *simpliciter* → “sem mais” (Key Terms).
+- `pt-BR/g1-c034.md` [35]: “algumas coisas se predicam pura e simplesmente” → “algumas coisas se predicam sem mais” — *simpliciter* → “sem mais” (Key Terms).
+- `pt-BR/g1-c034.md` [35]: “nada se predica delas, falando pura e simplesmente” → “nada se predica delas, falando sem mais” — *simpliciter* → “sem mais” (Key Terms).
+- `pt-BR/g1-c034.md` [39]: “pela demonstração, pura e simplesmente, e não” → “pela demonstração, sem mais, e não” — *simpliciter* → “sem mais” (Key Terms).
+- `pt-BR/g1-c034.md` [40]: ““pura e simplesmente, e não a partir de certas concessões”” → ““sem mais, e não a partir de certas concessões”” — *simpliciter* → “sem mais” (Key Terms).
+- `pt-BR/g1-c034.md` [40]: “pela demonstração, pura e simplesmente, ocorre” → “pela demonstração, sem mais, ocorre” — *simpliciter* → “sem mais” (Key Terms).
+- `pt-BR/g1-c034.md` [41]: “conhecido cientificamente pela demonstração, pura e simplesmente” → “conhecido cientificamente pela demonstração, sem mais” — *simpliciter* → “sem mais” (Key Terms).
+- `pt-BR/g1-c035.md` [5]: “aquilo em cuja essência as próprias coisas estão” → “aquilo em que as próprias coisas estão como parte do que a coisa é” — *quod quid est* → “o que a coisa é” (Key Terms); estava “essência”.
+- `pt-BR/g1-c036.md` [9]: “uma só proposição pura e simplesmente” → “uma só proposição sem mais” — *simpliciter* → “sem mais” (Key Terms).
+- `pt-BR/g1-c036.md` [40]: “são, pura e simplesmente, princípios” → “são, sem mais, princípios” — *simpliciter* → “sem mais” (Key Terms).
+- `pt-BR/g1-c037.md` [8]: “o universal é uma definição una” → “o universal é uma noção una” — *ratio* como conteúdo conceitual → “noção” (Key Terms); estava “definição”.
+- `pt-BR/g1-c037.md` [30]: “esta proposição é verdadeira sem restrição” → “esta proposição é verdadeira sem mais” — *simpliciter* → “sem mais” (Key Terms); estava “sem restrição”.
+
+### Part terms 1 of 2, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta read das 36 correções da rodada 1: todas conferem com o latim; restam 2 desvios minor nos parágrafos mostrados (g1-c027 [19], g1-c035 [5]).
+- `pt-BR/g1-c027.md` [19]: “de um modo, ***simplesmente***, quando” → “de um modo, ***sem mais***, quando” — *simpliciter* → “sem mais” (Key Terms), como nas correções da rodada anterior; *absolute* segue como “de maneira absoluta”.
+- `pt-BR/g1-c035.md` [5]: “estão como parte do que a coisa é” → “estão como parte do que aquilo é” — *in quibus ipsa in eo quod quid est insunt ipsis*: o número está no que o ímpar é; “a coisa” pode ser lida como “as próprias coisas” (o número), e “aquilo” retoma o antecedente correto.
+- Rejected: pt-BR/g1-c036.md [40] — “todo todo”, sinalizado pela auditoria como palavra repetida — Tradução literal e gramatical de *omne totum* (“cada todo”); não é repetição acidental.
+- Rejected: pt-BR/g1-c025.md [24] — *simpliciter* traduzido como “em sentido absoluto” — A linha “in parte / simpliciter” do Key Terms admite “em sentido absoluto”; neste ponto opõe as matemáticas puras às aplicadas, e a escolha é defensável.
+- Rejected: pt-BR/g1-c016.md [27] — “essas coisas que ocorrem frequentemente” para *haec autem quae sunt frequenter* — Retoma o lema *saepe fiunt*, não a fórmula *ut frequenter*; não contradiz o Key Terms.
+
+### Part terms 1 of 2, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Conferidas as duas correções e lidos integralmente os seis parágrafos apresentados; nenhum defeito encontrado. Os demais locais sinalizados pela auditoria não foram fornecidos nesta leitura delta.
+- Rejected: pt-BR/g1-c035.md [5] — “do que aquilo é” diverge da fórmula “o que a coisa é” do glossário. — A adaptação preserva o sentido de quod quid est e explicita corretamente que o número entra na definição do ímpar.
+
+### Part terms 2 of 2, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 34 minor. 130 parágrafos sinalizados examinados; 23 apresentaram deriva terminológica; 2 linhas do glossário complementadas.
+- `pt-BR/g1-c040.md` [30]: “a demonstração negativa procede, para produzir convicção,” → “a demonstração negativa procede, para produzir crença,” — *fides* → “crença” (Key Terms); estava “convicção”.
+- `pt-BR/g1-c040.md` [30]: “a demonstração que conduz ao impossível, porém, procede, para produzir convicção,” → “a demonstração que conduz ao impossível, porém, procede, para produzir crença,” — *fides* → “crença” (Key Terms); estava “convicção”.
+- `pt-BR/g1-c041.md` [21]: “a forma da superfície, o número três,” → “a forma da superfície, o ternário,” — *ternarius* → “ternário” (Key Terms).
+- `pt-BR/g1-c044.md` [30]: “quer sejam atualmente verdadeiras, quer atualmente falsas” → “quer sejam em ato verdadeiras, quer em ato falsas” — *actu* → “em ato” (Key Terms), preservando a distinção entre atualidade e possibilidade.
+- `pt-BR/g1-c044.md` [47]: “<mas não> absolutamente,” → “<mas não> sem mais,” — *simpliciter* → “sem mais” (Key Terms).
+- `pt-BR/g1-c044.md` [47]: “são acerca da mesma coisa absolutamente.” → “são acerca da mesma coisa sem mais.” — *simpliciter* → “sem mais” (Key Terms).
+- `pt-BR/g2-c002.md` [7]: “A indução oferece confirmação suficiente” → “A indução proporciona crença suficiente” — *fides* → “crença” (Key Terms); estava “confirmação”.
+- `pt-BR/g2-c002.md` [48]: “***a indução oferece confirmação suficiente***” → “***a indução proporciona crença suficiente***” — *fides* → “crença” (Key Terms), acompanhando a passagem citada.
+- `pt-BR/g2-c002.md` [48]: “da qual se pode obter confirmação suficiente da conclusão precedente” → “da qual se pode obter crença suficiente na conclusão precedente” — *fides* → “crença” (Key Terms); estava “confirmação”.
+- `pt-BR/g2-c003.md` [60]: “segue-se simplesmente que A pertence a C” → “segue-se sem mais que A pertence a C” — *simpliciter* → “sem mais” (Key Terms).
+- `pt-BR/g2-c003.md` [60]: “idêntico ao médio” → “idêntico ao termo médio” — *medium* → “termo médio” na análise do silogismo (Key Terms).
+- `pt-BR/g2-c003.md` [60]: “e o médio, ao último” → “e o termo médio, ao último” — *medium* → “termo médio” na análise do silogismo (Key Terms).
+- `pt-BR/g2-c004.md` [3]: “como foi dito na análise acerca das figuras” → “como foi dito na resolução acerca das figuras” — *resolutio* → “resolução” (Key Terms).
+- `pt-BR/g2-c004.md` [15]: “***como foi dito na análise acerca das figuras***” → “***como foi dito na resolução acerca das figuras***” — *resolutio* → “resolução” (Key Terms).
+- `pt-BR/g2-c004.md` [15]: “se ensina a análise que remonta aos primeiros princípios” → “se ensina a resolução que remonta aos primeiros princípios” — *resolutio* → “resolução” (Key Terms).
+- `pt-BR/g2-c004.md` [15]: “se faz a análise até certos elementos primeiros e simples” → “se faz a resolução até certos elementos primeiros e simples” — *resolutio* → “resolução” (Key Terms).
+- `pt-BR/g2-c008.md` [13]: “como aquilo que, simples e absolutamente, não tem causa de seu ser” → “como aquilo que, sem mais e absolutamente, não tem causa de seu ser” — *simpliciter et absolute* → “sem mais e absolutamente”; mantém distintos os dois advérbios.
+- `pt-BR/g2-c008.md` [26]: “significa, de modo simples, uma coisa acerca de uma coisa” → “significa, sem mais, uma coisa acerca de uma coisa” — *simpliciter* → “sem mais” (Key Terms).
+- `pt-BR/g2-c010.md` [57]: “nem simplesmente e de modo indeterminado” → “nem sem mais e de modo indeterminado” — *simpliciter* → “sem mais” (Key Terms).
+- `pt-BR/g2-c011.md` [35]: “C, que está no meio entre D e A” → “C, que é o termo médio entre D e A” — *medium* → “termo médio”; C exerce essa função no encadeamento demonstrativo.
+- `pt-BR/g2-c012.md` [24]: “não fazem saber de modo absoluto que é verdadeiro” → “não fazem saber sem mais que é verdadeiro” — *simpliciter* → “sem mais”, em oposição a “sob certo aspecto” (Key Terms).
+- `pt-BR/g2-c013.md` [8]: “que possa pertencer a mais coisas” → “que pertença em potência a mais coisas” — *secundum potentiam* → “em potência” (Key Terms), indicando a extensão potencial do gênero.
+- `pt-BR/g2-c013.md` [33]: “pois se compõe de três e quatro;” → “pois se compõe do ternário e de quatro;” — *ternarius* → “ternário” (Key Terms).
+- `pt-BR/g2-c014.md` [3]: “como o número no três e no dois” → “como o número no ternário e no dois” — *trinitas* → “ternário” no contexto numérico (Key Terms).
+- `pt-BR/g2-c014.md` [4]: “examinar as propriedades por meio das coisas comuns” → “examinar as propriedades próprias por meio das coisas comuns” — *proprias passiones* → “propriedades próprias” (Key Terms).
+- `pt-BR/g2-c014.md` [25]: “o ***número*** no dois e no três” → “o ***número*** no dois e no ternário” — *ternarius* → “ternário” (Key Terms).
+- `pt-BR/g2-c015.md` [39]: “o homem é um animal que anda, bípede” → “o homem é um animal pedestre, bípede” — *gressibile* → “pedestre” (Key Terms).
+- `pt-BR/g2-c015.md` [39]: “pois, se anda e é bípede, é animal” → “pois, se é pedestre e bípede, é animal” — *gressibile* → “pedestre” (Key Terms).
+- `pt-BR/g2-c015.md` [39]: “segundo o critério exposto” → “segundo o argumento exposto” — *ratio* retoma a justificativa anterior; “argumento” é a tradução prevista para o raciocínio probatório.
+- `pt-BR/g2-c016.md` [26]: “o define de modo absolutamente universal, em relação a todos” → “o define universalmente sem mais, em relação a todos” — *simpliciter* → “sem mais” (Key Terms).
+- `pt-BR/g2-c017.md` [28]: “não absolutamente, mas ***em gênero***” → “não sem mais, mas ***em gênero***” — *simpliciter* → “sem mais” (Key Terms).
+- `pt-BR/g2-c020.md` [55]: “cura quem tem febre, de modo absoluto” → “cura quem tem febre, sem mais” — *simpliciter* → “sem mais” (Key Terms).
+- `pt-BR/translation-journal.md`: “| ratio | enunciado / noção / argumento | “Enunciado” no contexto da expressão definitória; “noção” para seu conteúdo conceitual; “argumento” no raciocínio probatório. |” → “| ratio | enunciado / noção / argumento | “Enunciado” no contexto da expressão definitória; “noção” para seu conteúdo conceitual; “argumento” no raciocínio probatório. Também “raciocínio” para o procedimento discursivo, contraposto à apreensão simples dos princípios, e para a aplicação do mesmo encadeamento explicativo a outros casos. |” — Completa a linha com um sentido distinto e recorrente: o procedimento discursivo e a retomada analógica de uma explicação são corretamente traduzidos por “raciocínio”.
+- `pt-BR/translation-journal.md`: “| agibilia / factibilia | coisas que se devem praticar / coisas que se devem produzir | Distinção entre o domínio da prudência e o da arte. |” → “| agibilia / factibilia | coisas que se devem praticar / coisas que se devem produzir | Distinção entre o domínio da prudência e o da arte. *Factibilia* também admite “coisas que se podem produzir” quando designa o domínio da produção possível pela arte, sem indicar obrigação. |” — Em g2-c020 [60], “coisas que se podem produzir” exprime corretamente o objeto da arte; a linha precisava explicitar esse sentido.
+
+### Part terms 2 of 2, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta read das 34 mudanças da rodada 1 e dos parágrafos vizinhos: as mudanças estão corretas; corrigido o paralelo “do ternário e do quatro” em g2-c013 [33] e completada a linha *dualitas* do diário.
+- `pt-BR/g2-c013.md` [33]: “pois se compõe do ternário e de quatro;” → “pois se compõe do ternário e do quatro;” — Fonte: “ex ternario et quaternario”, dois números em paralelo. A correção anterior deixou “de quatro” sem artigo, o que quebra o paralelo e permite ler “de quatro coisas”; [32] usa “o quatro”.
+- `pt-BR/translation-journal.md`: “| dualitas | díade | Unidade numérica constituída de dois. |” → “| dualitas | díade | Unidade numérica constituída de dois. Em g2-c013 e g2-c014, “dois” quando designa o número na série aritmética, ao lado de “ternário”. |” — A linha só registra “díade”, mas g2-c013 [32], [34] e g2-c014 [3] traduzem *dualitas* por “dois”; a tabela deve descrever o uso efetivo.
+- Rejected: pt-BR/g1-c040.md [29] — *simpliciter* vertido por “em sentido absoluto”, não “sem mais” — O diário tem também a linha “in parte / simpliciter | sob certo aspecto / em sentido absoluto”; as duas formas estão previstas.
+- Rejected: pt-BR/g1-c041.md [21] — “o número dois” e “o número quatro” ao lado de “o ternário” — Só *ternarius* tem forma fixa na tabela; *binarium* e *quaternarium* em “número dois/quatro” estão corretos.
+- Rejected: pt-BR/g2-c011.md [35] — “cadit medium inter D et A” vertido por “é o termo médio” — C funciona como termo médio no encadeamento causal; o sentido se mantém.
+- Rejected: pt-BR/g2-c003.md [60] — “segue-se sem mais que A pertence a C” — *Simpliciter* opõe o simples pertencer ao pertencer como “o que é”; “sem mais” exprime isso.
+
+### Part terms 2 of 2, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as duas mudanças da rodada 2 e lidos integralmente os parágrafos [32]–[34]: nenhum defeito encontrado. As passagens apontadas pelo audit mecânico não foram fornecidas neste delta.
