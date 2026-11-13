@@ -18,7 +18,7 @@ Destino: pt-BR.
 | materia prima | matéria primeira | Convenção do comentário ao Sobre o céu e o mundo. |
 | qualitates primae tangibiles | qualidades primeiras tangíveis | Convenção do comentário ao Sobre o céu e o mundo: calor, frieza, umidade e secura. |
 | calidum / frigidum / humidum / siccum | quente / frio / úmido / seco | Qualidades substantivadas. |
-| caliditas / frigiditas / humiditas / siccitas | calor / frieza / umidade / secura | |
+| caliditas / frigiditas / humiditas / siccitas | calor / frieza / umidade / secura | “Siccitas”: também “seca” nos períodos sem chuva e “secagem” quando designa o processo de secar. |
 | potentia / actus | potência / ato | |
 | simpliciter / secundum quid | em sentido absoluto / sob certo aspecto | |
 | virtus | virtude | Capacidade ou eficácia natural, sem sentido moral nesses contextos. |
@@ -31,7 +31,7 @@ Destino: pt-BR.
 | corpus mixtum / mixtum | corpo misto / misto | |
 | latio | translação | Deslocamento local, especialmente dos corpos celestes. |
 | motus circularis / motus rectus | movimento circular / movimento retilíneo | |
-| medium | centro; meio | “Centro” nas indicações cosmológicas; “meio” quando contraposto a “extremo”. |
+| medium | centro; meio | “Centro” nas indicações cosmológicas; “meio” quando contraposto a “extremo”. “Intermediário” quando designa uma posição entre corpos ou uma etapa entre estados de uma transformação. |
 | continuum / contiguum | contínuo / contíguo | Conservada a distinção e a explicação do próprio comentário. |
 | primum elementum / primum corpus | primeiro elemento / primeiro corpo | Corpo celeste. |
 | quinta essentia | quinta essência | |
@@ -121,7 +121,7 @@ Destino: pt-BR.
 | Auster / Boreas / Notus | austro / bóreas / noto | Nomes dos ventos; conservada a identificação entre austros e notos feita pelo comentário. |
 | Etesiae / prodromi / leuconoti / Ornithiae | etésios / pródromos / leuconotos / orníthias | Conservadas as explicações etimológicas e sazonais do texto. |
 | tranquillitas | calmaria | No contexto da ausência de ventos. |
-| tropica / versiones / solstitium | trópicos / retornos / solstício | “Retorno” conservado quando integra a explicação do movimento solar e a glosa dos trópicos. |
+| tropica / versiones / solstitium | trópicos / retornos / solstício | “Retorno” conservado quando integra a explicação do movimento solar e a glosa dos trópicos. “Tropica” e “versiones”: também “solstício” nas referências às épocas do ano. |
 | Orion / Canis / canicula | Órion / Cão / Canícula | Referências astronômicas. |
 | Hercules / Chaonia / Lybia / Scythia | Hércules / Caônia / Líbia / Cítia | |
 | stypteria / calx / cinis | alúmen / cal / cinza | |
@@ -235,7 +235,7 @@ Destino: pt-BR.
 - Em g2-c006, conservada a diferença entre o texto comentado, que afirma haver a mesma explicação para os corpos em transformação, e a exposição do § 170, que diz ser provável não haver a mesma explicação.
 - Em g2-c006, conservada a imagem literal “por uma língua de cera” de *per linguam cerae*, sem substituir a expressão por uma explicação conjectural.
 - Em g2-c006, § 175, conservada a leitura *vaporis*: “seja qual for seu vapor”, sem emendá-la para “sabor”.
-- Em g2-c007, *antiperistasim pati* foi vertido por “sofrer uma ação contrária recíproca”, conforme a oposição entre regiões secas e úmidas explicada na exposição.
+- Em g2-c007, *antiperistasim pati* foi vertido por “sofrer antiperístase”, conforme o termo técnico registrado nos Termos.
 - Em g2-c009, conservada a diferença entre o texto comentado, que nega a exalação ao que não contém matéria seca, e a exposição do § 196, que a nega ao seco sem umidade.
 - Acrescentada em g2-c009 a nota [^7], para identificar a Canícula com Sírius e explicar o sentido astronômico de seu “nascimento”.
 - Conservadas as referências sazonais e espaciais do observador situado no hemisfério norte, inclusive “para nós”, sem adaptação ao hemisfério sul.
@@ -427,3 +427,310 @@ Verdict: 0 meaning-level, 10 minor. Read all of g3-pr.md and g4-pr.md against th
 
 ### Part 3 of 3, Round 4 (codex, delta read)
 Verdict: 0 meaning-level, 0 minor. Verificadas as dez alterações e lidos integralmente os parágrafos exibidos, as notas, o journal e book.json; nenhum defeito objetivo encontrado no material desta rodada.
+
+### Part terms 1 of 3, Round 1 (codex, terms read)
+Verdict: 22 meaning-level, 48 minor. 138 parágrafos sinalizados lidos; desvios em 54 deles, além de uma ampliação da nota de medium.
+- `pt-BR/translation-journal.md`: “| medium | centro; meio | “Centro” nas indicações cosmológicas; “meio” quando contraposto a “extremo”. |” → “| medium | centro; meio | “Centro” nas indicações cosmológicas; “meio” quando contraposto a “extremo”. “Intermediário” quando designa uma posição entre corpos ou uma etapa entre estados de uma transformação. |” — A nota não contempla o uso recorrente e adequado de “intermediário” para a posição ou o estado entre outros dois.
+- `pt-BR/g1-c004.md` [5]: “nem dos raios refletidos pela terra” → “nem dos raios refratados pela terra” — *refractos* → “refratados” (Key Terms); conservar a distinção terminológica do original. *(meaning)*
+- `pt-BR/g1-c004.md` [18]: “a condensação das nuvens se dá pelo frio” → “a condensação das nuvens se dá pela frieza” — *frigiditate* → “frieza” (Key Terms); estava “frio”.
+- `pt-BR/g1-c004.md` [20]: “dos raios ***rebatidos***, isto é, refletidos pela terra” → “dos raios ***refratados***, isto é, refletidos pela terra” — *refractos* → “refratados” (Key Terms), preservando também a glosa *reverberatos* como “refletidos”.
+- `pt-BR/g1-c005.md` [35]: “os rastros das estrelas que parecem cair” → “os rastros das estrelas cadentes” — *discursus astrorum quae videntur cadentia* → “rastros das estrelas cadentes” (Key Terms); estava parafraseado.
+- `pt-BR/g1-c008.md` [4]: “o ar que recebe uma reflexão” → “o ar que recebe uma refração” — *refractionem* → “refração” (Key Terms); estava “reflexão”. *(meaning)*
+- `pt-BR/g1-c008.md` [4]: “Pela reflexão, porém, produzirá” → “Pela refração, porém, produzirá” — *Refractione* → “refração” (Key Terms); estava “reflexão”. *(meaning)*
+- `pt-BR/g1-c008.md` [18]: “a saber, pela reflexão, quando” → “a saber, pela refração, quando” — *per refractionem* → “pela refração” (Key Terms); estava “pela reflexão”. *(meaning)*
+- `pt-BR/g1-c008.md` [18]: “se dá a reflexão da luz” → “se dá a refração da luz” — *refractio luminis* → “refração da luz” (Key Terms); estava “reflexão da luz”. *(meaning)*
+- `pt-BR/g1-c009.md` [6]: “nossa visão é refletida em direção ao sol” → “nossa visão é refratada em direção ao sol” — *refracto nostro visu* → “nossa visão é refratada” (Key Terms), inclusive na teoria antiga da visão. *(meaning)*
+- `pt-BR/g1-c009.md` [6]: “a visão dos homens não pode ser refletida em direção ao sol” → “a visão dos homens não pode ser refratada em direção ao sol” — *visus hominum fractus* pertence à mesma terminologia de refração; estava “refletida”. *(meaning)*
+- `pt-BR/g1-c009.md` [6]: “quando se encontra nos solstícios de verão” → “quando se encontra nos retornos de verão” — *in aestivis versionibus* → “nos retornos de verão” (Key Terms); estava “nos solstícios de verão”.
+- `pt-BR/g1-c009.md` [21]: “quando retorna ao ponto de onde começou a se afastar” → “quando retorna ao termo de onde começou a se afastar” — *terminum* → “termo” (Key Terms), na exposição do movimento; estava “ponto”.
+- `pt-BR/g1-c009.md` [22]: “nem se estiver ***nos solstícios de verão***” → “nem se estiver ***nos retornos de verão***” — *in aestivis versionibus* → “nos retornos de verão” (Key Terms), conservando o termo explicado pela glosa dos trópicos.
+- `pt-BR/g1-c009.md` [22]: “a visão refletida dos homens pode alcançar” → “a visão refratada dos homens pode alcançar” — *visus hominum refractus* → “visão refratada dos homens” (Key Terms); estava “refletida”. *(meaning)*
+- `pt-BR/g1-c010.md` [5]: “em razão da reflexão, como diz Hipócrates” → “em razão da refração, como diz Hipócrates” — *propter refractionem* → “em razão da refração” (Key Terms); estava “reflexão”. *(meaning)*
+- `pt-BR/g1-c010.md` [7]: “uma reflexão de tal extensão” → “uma refração de tal extensão” — *tantam refractionem* → “uma refração de tal extensão” (Key Terms); estava “reflexão”. *(meaning)*
+- `pt-BR/g1-c010.md` [24]: “em razão da reflexão da visão” → “em razão da refração da visão” — *propter refractionem visus* → “em razão da refração da visão” (Key Terms); estava “reflexão”. *(meaning)*
+- `pt-BR/g1-c010.md` [26]: “uma reflexão tão grande de nossa visão” → “uma refração tão grande de nossa visão” — *tanta refractio visus nostri* → “uma refração tão grande de nossa visão” (Key Terms); estava “reflexão”. *(meaning)*
+- `pt-BR/g1-c011.md` [6]: “tem em si mesmo seu fim e seu princípio” → “tem em si mesmo seu termo e seu princípio” — *terminum et principium* → “termo e princípio” (Key Terms); estava “fim e princípio”.
+- `pt-BR/g1-c011.md` [7]: “o halo se produz pela reflexão” → “o halo se produz pela refração” — *propter refractionem* → “pela refração” (Key Terms); estava “pela reflexão”. *(meaning)*
+- `pt-BR/g1-c011.md` [8]: “o cometa não é certa reflexão” → “o cometa não é certa refração” — *non esse refractionem quandam cometam* exige “refração” (Key Terms); estava “reflexão”. *(meaning)*
+- `pt-BR/g1-c011.md` [29]: “como acontece no princípio e no fim do percurso” → “como acontece no princípio e no termo do percurso” — *in principio discursus et in termino* → “no princípio e no termo do percurso” (Key Terms). A ocorrência posterior de “fim” corresponde a *fine*.
+- `pt-BR/g1-c012.md` [9]: “o leite é uma reflexão de nossa visão” → “o leite é uma refração de nossa visão” — *refractionem nostri visus* → “refração de nossa visão” (Key Terms); estava “reflexão”. *(meaning)*
+- `pt-BR/g1-c012.md` [10]: “em direção ao qual se dá a reflexão” → “em direção ao qual se dá a refração” — *ad quem refractio* → “em direção ao qual se dá a refração” (Key Terms); estava “reflexão”. *(meaning)*
+- `pt-BR/g1-c012.md` [12]: “nem uma reflexão.” → “nem uma refração.” — *neque refractio* → “nem uma refração” (Key Terms); estava “reflexão”. *(meaning)*
+- `pt-BR/g1-c012.md` [23]: “todas as estrelas errantes se movem pelo zodíaco” → “todos os astros errantes se movem pelo zodíaco” — *stellae errantes* → “astros errantes” (Key Terms); estava “estrelas errantes”.
+- `pt-BR/g1-c013.md` [4]: “que, por reflexão, aparece o halo” → “que, por refração, aparece o halo” — *propter refractionem* → “por refração” (Key Terms); estava “por reflexão”. *(meaning)*
+- `pt-BR/g1-c013.md` [9]: “na região contígua aos movimentos celestes” → “na região contínua aos movimentos celestes” — *continuo* → “contínua” (Key Terms); preservar o termo original, cuja acepção de contiguidade o comentário explica.
+- `pt-BR/g1-c013.md` [27]: “a saber, do percurso dos astros” → “a saber, dos rastros das estrelas cadentes” — *discursu astrorum* → “rastros das estrelas cadentes” (Key Terms); estava “percurso dos astros”.
+- `pt-BR/g1-c014.md` [9]: “elevada pela virtude do calor” → “elevada pela virtude do quente” — *calidi* → “quente” (Key Terms), qualidade substantivada; estava “calor”.
+- `pt-BR/g1-c014.md` [11]: “solidificá-lo exige um frio maior” → “solidificá-lo exige uma frieza maior” — *amplioris frigiditatis* → “uma frieza maior” (Key Terms); estava “um frio maior”.
+- `pt-BR/g1-c014.md` [12]: “com tempo sereno e tranquilo” → “com tempo sereno e calmaria” — *tranquillitate* → “calmaria” (Key Terms), no contexto da ausência de ventos.
+- `pt-BR/g1-c014.md` [16]: “produz uma antiperístase e concentra o calor” → “produz uma antiperístase e concentra o quente” — *calidum congregat* → “concentra o quente” (Key Terms); estava “calor”.
+- `pt-BR/g1-c014.md` [27]: “levada para cima pela virtude do calor” → “levada para cima pela virtude do quente” — *per virtutem calidi* → “pela virtude do quente” (Key Terms); estava “calor”.
+- `pt-BR/g1-c014.md` [36]: “a umidade aquosa se eleva pela virtude do calor” → “a umidade aquosa se eleva pela virtude do quente” — *ex virtute calidi* → “pela virtude do quente” (Key Terms); estava “calor”.
+- `pt-BR/g1-c014.md` [46]: “não houver tranquilidade e o vento soprar” → “não houver calmaria e o vento soprar” — *tranquillitas* → “calmaria” (Key Terms); estava “tranquilidade”.
+- `pt-BR/g1-c014.md` [53]: “concentra o calor existente nos lugares úmidos” → “concentra o quente existente nos lugares úmidos” — *congregat calidum* → “concentra o quente” (Key Terms); estava “calor”.
+- `pt-BR/g1-c014.md` [53]: “circundando o calor com certa contrariedade” → “circundando o quente com certa contrariedade” — *circumstans calidum* → “circundando o quente” (Key Terms); estava “calor”.
+- `pt-BR/g1-c014.md` [53]: “quando o frio circunda o calor” → “quando o frio circunda o quente” — *frigidum circumstat calidum* → “o frio circunda o quente” (Key Terms); estava “calor”.
+- `pt-BR/g1-c014.md` [53]: “pela concentração do calor, seu efeito se fortalece” → “pela concentração do quente, seu efeito se fortalece” — *ex congregatione calidi* → “pela concentração do quente” (Key Terms); estava “calor”.
+- `pt-BR/g1-c014.md` [53]: “muito calor fica encerrado no interior da terra” → “grande quantidade do quente fica encerrada no interior da terra” — *multum de calido includitur intra terram* exige “quente” (Key Terms), com ajuste de concordância.
+- `pt-BR/g1-c015.md` [3]: “ainda há na nuvem muito calor, remanescente do fogo” → “ainda há na nuvem grande quantidade do quente, remanescente do fogo” — *multum calidum residuum ignis* exige “quente” (Key Terms); a ocorrência anterior de “calor” corresponde a *caliditate*.
+- `pt-BR/g1-c015.md` [8]: “ali cessam as reflexões dos raios” → “ali cessam as refrações dos raios” — *refractiones radiorum* → “refrações dos raios” (Key Terms); estava “reflexões”. *(meaning)*
+- `pt-BR/g1-c015.md` [8]: “o calor mais intenso impele as nuvens” → “o quente mais intenso impele as nuvens” — *amplius calidum* → “quente mais intenso” (Key Terms); estava “calor”.
+- `pt-BR/g1-c015.md` [13]: “mas o frio intenso a congela” → “mas a frieza intensa a congela” — *frigiditas vehemens* → “frieza intensa” (Key Terms); estava “frio intenso”.
+- `pt-BR/g1-c015.md` [35]: “ali cessam os raios refletidos pela terra” → “ali cessam os raios refratados pela terra” — *radii refracti a terra* → “raios refratados pela terra” (Key Terms); estava “refletidos”. *(meaning)*
+- `pt-BR/g1-c015.md` [49]: “ora, pode acontecer que o frio, em razão de sua intensidade” → “ora, pode acontecer que a frieza, em razão de sua intensidade” — *frigiditas* → “frieza” (Key Terms); as demais ocorrências de “frio” correspondem a *frigus* ou *frigidum*.
+- `pt-BR/g1-c015.md` [50]: “porque o calor é mais forte perto da terra” → “porque o quente é mais forte perto da terra” — *calido existente fortiori prope terram* exige “quente” (Key Terms); estava “calor”.
+- `pt-BR/g1-c016.md` [7]: “por causa do frio, devemos julgar” → “por causa da frieza, devemos julgar” — *propter frigiditatem* → “por causa da frieza” (Key Terms); estava “frio”.
+- `pt-BR/g1-c016.md` [7]: “pelo frio que há na terra” → “pela frieza que há na terra” — *ab ea quae in terra frigiditate* exige “frieza” (Key Terms); estava “frio”.
+- `pt-BR/g1-c016.md` [25]: “por causa do frio, é necessário julgar” → “por causa da frieza, é necessário julgar” — *propter frigiditatem* → “por causa da frieza” (Key Terms); estava “frio”.
+- `pt-BR/g1-c016.md` [25]: “o mesmo também se dá pelo frio da terra” → “o mesmo também se dá pela frieza da terra” — *a frigiditate terrae* → “pela frieza da terra” (Key Terms); estava “pelo frio da terra”.
+- `pt-BR/g1-c016.md` [27]: “a produzem em seu interior, em razão do frio” → “a produzem em seu interior, em razão da frieza” — *propter frigiditatem* → “em razão da frieza” (Key Terms); estava “frio”.
+- `pt-BR/g1-c016.md` [27]: “Pois o frio da terra, dentro dela, condensa” → “Pois a frieza da terra, dentro dela, condensa” — *frigiditas terrae* → “frieza da terra” (Key Terms); estava “frio da terra”.
+- `pt-BR/g1-c017.md` [8]: “sua densidade e seu frio” → “sua densidade e sua frieza” — *frigiditatem ipsorum* → “sua frieza” (Key Terms); estava “seu frio”.
+- `pt-BR/g1-c017.md` [10]: “sua obra tem um limite” → “sua obra tem um termo” — *terminum* → “termo” (Key Terms), na exposição do ciclo das águas; estava “limite”.
+- `pt-BR/g1-c017.md` [22]: “passaram de pantanosas a secas” → “passaram do estado pantanoso à secura” — *ex paludosis in siccitatem* exige “secura” (Key Terms); estava parafraseado com “secas”.
+- `pt-BR/g1-c017.md` [26]: “a grandeza, a densidade e o frio dos lugares elevados” → “a grandeza, a densidade e a frieza dos lugares elevados” — *frigiditas altorum locorum* → “frieza dos lugares elevados” (Key Terms); estava “frio”.
+- `pt-BR/g1-c017.md` [33]: “seu fluxo, tem um limite” → “seu fluxo, tem um termo” — *habet terminum* → “tem um termo” (Key Terms), na exposição do ciclo das águas; estava “limite”.
+- `pt-BR/g2-c002.md` [7]: “por essa razão realiza suas revoluções” → “por essa razão realiza seus retornos” — *versiones* → “retornos” (Key Terms); “revoluções” sugere voltas completas em lugar dos retornos solares. *(meaning)*
+- `pt-BR/g2-c002.md` [12]: “produz os ventos e causa suas revoluções” → “produz os ventos e causa seus retornos” — *versiones ipsius* → “seus retornos” (Key Terms); estava “suas revoluções”. *(meaning)*
+- `pt-BR/g2-c004.md` [17]: “ela caia por causa do frio” → “ela caia por causa da frieza” — *propter frigiditatem* → “por causa da frieza” (Key Terms); estava “frio”.
+- `pt-BR/g2-c005.md` [5]: “se torna assim por falta de digestão” → “se torna assim por indigestão” — *propter indigestionem* → “por indigestão” (Key Terms); estava “por falta de digestão”.
+- `pt-BR/g2-c006.md` [4]: “aquilo sobre o qual o calor não conseguiu prevalecer” → “aquilo sobre o qual o quente não conseguiu prevalecer” — *calidum* → “quente” (Key Terms), qualidade substantivada; estava “calor”.
+- `pt-BR/g2-c006.md` [50]: “quando o calor e a umidade evaporam” → “quando o quente e o úmido evaporam” — *evaporante calido et humido* exige “quente” e “úmido” (Key Terms), conservando as qualidades substantivadas e sua coordenação.
+- `pt-BR/g2-c007.md` [9]: “as exalações sofrem uma ação contrária recíproca” → “as exalações sofrem antiperístase” — *antiperistasim pati* → “sofrem antiperístase” (Key Terms); o termo técnico estava parafraseado.
+- `pt-BR/g2-c007.md` [10]: “a terra, seca pelo calor que está nela” → “a terra, seca pelo quente que está nela” — *ab eo quod in ipsa calido* exige “quente” (Key Terms); estava “calor”.
+- `pt-BR/g2-c007.md` [10]: “como o calor continua a separar-se” → “como o quente continua a separar-se” — *segregatur calidum semper* exige “quente” (Key Terms); estava “calor”.
+- `pt-BR/g2-c007.md` [10]: “o frio as envolve por todos os lados” → “a frieza as envolve por todos os lados” — *circumsteterit ad ipsas frigiditas* exige “frieza” (Key Terms); estava “frio”.
+
+### Part terms 1 of 3, Round 2 (claude, delta read)
+Verdict: 2 meaning-level, 5 minor. Delta round 2: as 70 alterações conferem; corrigidos refrangi→refrate (g1-c012 [11]) e o referente de “seus retornos” (g2-c002 [12]), além de quatro desvios residuais de Key Terms e uma decisão desatualizada no diário.
+- `pt-BR/g1-c012.md` [11]: “como é possível que a visão se reflita em direção ao sol?” → “como é possível que a visão se refrate em direção ao sol?” — *visum refrangi* pertence à terminologia de refração (Key Terms), como nos parágrafos [9], [10] e [12] já corrigidos *(meaning)*
+- `pt-BR/g2-c002.md` [12]: “produz os ventos e causa seus retornos” → “produz os ventos e causa os retornos do sol” — *versiones ipsius* refere-se ao sol; “seus” remete gramaticalmente a “ventos” e desinforma o leitor *(meaning)*
+- `pt-BR/g1-c013.md` [9]: “do percurso dos astros, da chama ardente” → “dos rastros das estrelas cadentes, da chama ardente” — *discursu astrorum* → “rastros das estrelas cadentes” (Key Terms), como na retomada do § 93 [27]
+- `pt-BR/g1-c014.md` [53]: “ali, em razão do frio intenso, o Austro” → “ali, em razão da grande frieza, o Austro” — *propter magnam frigiditatem* → “frieza” (Key Terms), como nas demais ocorrências do parágrafo
+- `pt-BR/g1-c015.md` [12]: “como vemos que o calor e o frio produzem reciprocamente” → “como vemos que o quente e o frio produzem reciprocamente” — *calido et frigido* são qualidades substantivadas → “quente / frio” (Key Terms)
+- `pt-BR/g1-c015.md` [12]: “pela ação do calor exterior” → “pela ação do quente exterior” — *ab exteriori calido* → “quente” (Key Terms)
+- `pt-BR/translation-journal.md`: “- Em g2-c007, *antiperistasim pati* foi vertido por “sofrer uma ação contrária recíproca”, conforme a oposição entre regiões secas e úmidas explicada na exposição.” → “- Em g2-c007, *antiperistasim pati* foi vertido por “sofrer antiperístase”, conforme o termo técnico registrado nos Termos.” — o texto agora diz “sofrem antiperístase”; a decisão registrada no diário ficou falsa
+- Rejected: pt-BR/g1-c004.md [20] — “raios refletidos pela terra” na segunda frase — corresponde a *radii repercussi* (repercussio → reflexão), não a *refracti*
+- Rejected: pt-BR/g1-c009.md [22] — “não pode ser refletida da umidade até o sol” — traduz *repercuti*, que o Key Terms verte por reflexão
+- Rejected: pt-BR/g1-c014.md [16] — “extinguem o calor” acrescenta objeto — explicita o objeto elíptico de *extinguunt*, retomado do § anterior, sem alterar o sentido
+
+### Part terms 1 of 3, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 3 minor. Conferidas as sete alterações e lidos integralmente os 14 parágrafos apresentados e suas notas: alterações corretas; três desvios terminológicos menores de latio.
+- `pt-BR/g1-c013.md` [9]: “na região contínua aos movimentos celestes” → “na região contínua às translações celestes” — Lationibus corresponde a “translações”, conforme a entrada latio dos Termos.
+- `pt-BR/g1-c015.md` [13]: “mais rápido que o movimento da água para baixo” → “mais rápido que a translação da água para baixo” — Aquae latio deorsum corresponde a “translação da água para baixo”, conforme os Termos.
+- `pt-BR/g1-c015.md` [13]: “em menos tempo que o movimento para baixo” → “em menos tempo que a translação para baixo” — Deorsum latio retoma a translação descendente da água; uniformização com a entrada latio dos Termos.
+- Rejected: pt-BR/g1-c015.md [12]; pt-BR/g2-c002.md [13] — Ausência dos parênteses sinalizados pela auditoria. — O conteúdo dos dois apartes foi preservado entre travessões.
+- Rejected: pt-BR/g1-c012.md [10]; pt-BR/g1-c015.md [12] — Itálicos adicionais sinalizados pela auditoria. — Destacam Delphis e labroterae, formas estrangeiras conservadas conforme o diário.
+
+### Part terms 1 of 3, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta round 4: as três alterações de latio→translação conferem com a fonte; lidos os seis parágrafos apresentados; um desvio menor de Key Terms (labroterae parafraseado em g1-c015 [13]).
+- `pt-BR/g1-c015.md` [13]: “tanto mais impetuosas serão as chuvas e maiores” → “tanto mais *labroterae* serão as chuvas e maiores” — a fonte diz aquae labroterae fiunt; os Termos conservam *labroterae* transliterado, como no parágrafo [12]; “impetuosas” é paráfrase
+- Rejected: pt-BR/g1-c013.md [9] — “translações celestes” acrescenta “celestes” a lationibus — o qualificativo já estava presente antes da alteração e explicita o referente das translações (as dos corpos celestes), sem mudar o sentido
+- Rejected: pt-BR/g1-c015.md [12]-[13] — coagulatio vertido por “congelamento”/“condensação”, quando o diário registra “solidificação” para a formação do granizo — o sentido é preservado e “solidificação” aparece em outros lugares, como g1-c014 [11]; a alternância segue a decisão sobre congelatio para chuva e gelo, e não há erro objetivo nestes trechos
+- Rejected: pt-BR/g1-c015.md [12] — parênteses da fonte ausentes (auditoria) — o aparte foi preservado entre travessões; a rodada 3 já rejeitou este ponto
+
+### Part terms 1 of 3, Round 5 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Conferida a alteração e lidos integralmente os parágrafos [12]–[14]; nenhum defeito encontrado.
+- Rejected: pt-BR/g1-c015.md [13] — Itálico adicional sinalizado pela auditoria. — Destaca a forma estrangeira labroterae, conservada conforme a tabela de Termos.
+
+### Part terms 2 of 3, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 59 minor. 125 parágrafos sinalizados examinados; 40 flags com desvio; 2 linhas do glossário complementadas.
+- `pt-BR/translation-journal.md`: “| caliditas / frigiditas / humiditas / siccitas | calor / frieza / umidade / secura | |” → “| caliditas / frigiditas / humiditas / siccitas | calor / frieza / umidade / secura | “Siccitas”: também “seca” nos períodos sem chuva e “secagem” quando designa o processo de secar. |” — Explicita os sentidos meteorológico e processual de siccitas, corretamente traduzidos nos trechos.
+- `pt-BR/translation-journal.md`: “| tropica / versiones / solstitium | trópicos / retornos / solstício | “Retorno” conservado quando integra a explicação do movimento solar e a glosa dos trópicos. |” → “| tropica / versiones / solstitium | trópicos / retornos / solstício | “Retorno” conservado quando integra a explicação do movimento solar e a glosa dos trópicos. “Tropica” e “versiones”: também “solstício” nas referências às épocas do ano. |” — Explicita o emprego temporal de tropica e versiones, consistentemente traduzidos como solstício.
+- `pt-BR/g2-c007.md` [28]: “em água por causa do frio” → “em água por causa da frieza” — frigiditatem → “frieza” (Key Terms); estava “frio”.
+- `pt-BR/g2-c007.md` [41]: “onde se condensa por causa do frio” → “onde se condensa por causa da frieza” — frigiditatem → “frieza” (Key Terms); estava “frio”.
+- `pt-BR/g2-c007.md` [41]: “o frio que as cerca as condensa” → “a frieza que as cerca as condensa” — frigiditas → “frieza” (Key Terms); estava “frio”.
+- `pt-BR/g2-c008.md` [10]: “a condição fria da que já se condensou” → “a frieza da que já se condensou” — frigiditatis → “frieza” (Key Terms); estava “condição fria”.
+- `pt-BR/g2-c008.md` [15]: “há tranquilidade no inverno” → “há calmaria no inverno” — tranquillitas → “calmaria” (Key Terms); estava “tranquilidade”.
+- `pt-BR/g2-c009.md` [3]: “com seu calor maior” → “com o quente maior que possui” — calido → “quente” (Key Terms); estava “calor”.
+- `pt-BR/g2-c009.md` [3]: “dissipa o calor menor presente na exalação” → “dissipa o quente menor presente na exalação” — O segundo membro retoma elipticamente calido; conserva-se “quente” (Key Terms).
+- `pt-BR/g2-c009.md` [8]: “por causa do frio noturno” → “por causa da frieza noturna” — frigiditatem → “frieza” (Key Terms); estava “frio”.
+- `pt-BR/g2-c009.md` [31]: “porque o frio noturno congela” → “porque a frieza noturna congela” — frigiditas → “frieza” (Key Terms); estava “frio”.
+- `pt-BR/g2-c010.md` [24]: “acerca da origem do austro” → “acerca do princípio do austro” — principio → “princípio” (Key Terms), na explicação da causa do vento; estava “origem”.
+- `pt-BR/g2-c010.md` [66]: “seu frio diminui” → “sua frieza diminui” — frigiditas → “frieza” (Key Terms); estava “frio”.
+- `pt-BR/g2-c010.md` [66]: “seu frio aumenta” → “sua frieza aumenta” — frigiditas → “frieza” (Key Terms); estava “frio”.
+- `pt-BR/g2-c010.md` [91]: “com seu frio, adensam” → “com sua frieza, adensam” — frigiditate → “frieza” (Key Terms); estava “frio”.
+- `pt-BR/g2-c010.md` [96]: “concentrando o calor:” → “concentrando o quente:” — calidum → “quente” (Key Terms); estava “calor”.
+- `pt-BR/g2-c010.md` [96]: “obriga o calor a concentrar-se” → “obriga o quente a concentrar-se” — calidum → “quente” (Key Terms); estava “calor”.
+- `pt-BR/g2-c010.md` [97]: “por causa do frio intenso, ao qual pertence congelar” → “por causa da frieza intensa, à qual pertence congelar” — frigiditatem → “frieza” (Key Terms), com ajuste de concordância.
+- `pt-BR/g2-c010.md` [97]: “por causa do frio da região” → “por causa da frieza da região” — frigiditatem → “frieza” (Key Terms); estava “frio”.
+- `pt-BR/g2-c010.md` [97]: “por seu frio, congelam” → “por sua frieza, congelam” — frigiditate → “frieza” (Key Terms); estava “frio”.
+- `pt-BR/g2-c010.md` [164]: “a luz e o calor provenientes do sol” → “a luz e o quente provenientes do sol” — calidum → “quente” (Key Terms); estava “calor”.
+- `pt-BR/g2-c010.md` [164]: “o calor proveniente da lua se enfraquece” → “o quente proveniente da lua se enfraquece” — calidum → “quente” (Key Terms); estava “calor”.
+- `pt-BR/g2-c010.md` [195]: “***por causa*** do frio e do ***gelo***” → “***por causa*** da frieza e do ***gelo***” — frigiditatem → “frieza” (Key Terms); estava “frio”.
+- `pt-BR/g2-c010.md` [195]: “porque o frio impede” → “porque a frieza impede” — frigiditas → “frieza” (Key Terms); estava “frio”.
+- `pt-BR/g2-c010.md` [205]: “o frio desse vapor se faz sentir” → “a frieza desse vapor se faz sentir” — frigiditas → “frieza” (Key Terms); estava “frio”.
+- `pt-BR/g2-c010.md` [208]: “***a luz e o calor provenientes do sol ainda não***” → “***a luz e o quente provenientes do sol ainda não***” — calidum → “quente” (Key Terms); estava “calor”.
+- `pt-BR/g2-c010.md` [208]: “a luz e o calor que a lua recebe do sol” → “a luz e o quente que a lua recebe do sol” — calido → “quente” (Key Terms); estava “calor”.
+- `pt-BR/g2-c010.md` [209]: “pela falta de calor” → “pela falta do quente” — calido → “quente” (Key Terms); estava “calor”.
+- `pt-BR/g2-c010.md` [209]: “diminuído seu calor” → “diminuído o quente que dela provém” — eius calido → “quente” (Key Terms); estava “seu calor”.
+- `pt-BR/g2-c010.md` [210]: “a diminuição do calor proveniente da lua” → “a diminuição do quente proveniente da lua” — calidi → “quente” (Key Terms); estava “calor”.
+- `pt-BR/g2-c010.md` [256]: “em nuvem por causa do frio” → “em nuvem por causa da frieza” — frigiditatem → “frieza” (Key Terms); estava “frio”.
+- `pt-BR/g2-c010.md` [262]: “separada pelo frio das partes da nuvem” → “separada pela frieza das partes da nuvem” — frigiditate → “frieza” (Key Terms); estava “frio”.
+- `pt-BR/g2-c010.md` [262]: “por causa do frio da nuvem” → “por causa da frieza da nuvem” — frigiditatem → “frieza” (Key Terms); estava “frio”.
+- `pt-BR/g2-c010.md` [263]: “pelo calor que o incendeia” → “pelo quente que o incendeia” — calido → “quente” (Key Terms); estava “calor”.
+- `pt-BR/g2-c010.md` [280]: “os diversos modos de sofrer a ação” → “os diversos modos de padecer” — patiendi → “padecer” (Key Terms); estava “sofrer a ação”.
+- `pt-BR/g2-c010.md` [280]: “pelo calor que a inflama” → “pelo quente que a inflama” — calido → “quente” (Key Terms); estava “calor”.
+- `pt-BR/g2-c010.md` [280]: “conforme sofrem de modos diversos a ação do calor” → “conforme padecem de modos diversos por ação do quente” — patiuntur → “padecer” e calido → “quente” (Key Terms).
+- `pt-BR/g3-pr.md` [6]: “como um ecnéfias não elaborado” → “como um ecnéfias indigesto” — indigestus → “indigesto”, derivado de “indigestão” (Key Terms), no sentido físico amplo.
+- `pt-BR/g3-pr.md` [6]: “isso ocorre quando o frio predomina” → “isso ocorre quando a frieza predomina” — frigiditate → “frieza” (Key Terms); estava “frio”.
+- `pt-BR/g3-pr.md` [19]: “a saber, um frio intenso:” → “a saber, uma frieza intensa:” — frigiditate → “frieza” (Key Terms), com ajuste de concordância.
+- `pt-BR/g3-pr.md` [19]: “o mesmo frio do lugar e da nuvem” → “a mesma frieza do lugar e da nuvem” — frigiditas → “frieza” (Key Terms), com ajuste de concordância.
+- `pt-BR/g3-pr.md` [30]: “é expulso pelo frio do lugar” → “é expulso pela frieza do lugar” — frigiditate → “frieza” (Key Terms); estava “frio”.
+- `pt-BR/g3-pr.md` [32]: “nem está inflamado pelo calor” → “nem está inflamado pelo quente” — calido → “quente” (Key Terms); estava “calor”.
+- `pt-BR/g3-pr.md` [32]: “esse sopro não foi elaborado” → “esse sopro é indigesto” — indigestus → “indigesto”, derivado de “indigestão” (Key Terms), no sentido físico amplo.
+- `pt-BR/g3-pr.md` [39]: “do movimento violento do calor” → “do movimento violento do quente” — calidi → “quente” (Key Terms); estava “calor”.
+- `pt-BR/g3-pr.md` [89]: “engrossado pela umidade e pelo frio” → “engrossado pela umidade e pela frieza” — frigiditatem → “frieza” (Key Terms); estava “frio”.
+- `pt-BR/g3-pr.md` [98]: “de modo que domine o calor nele encerrado” → “de modo que o quente nele encerrado prevaleça” — calidum → “quente” (Key Terms), mantendo-o como sujeito de obtineret.
+- `pt-BR/g3-pr.md` [117]: “pelo calor que dispersa” → “pelo quente que dispersa” — calido → “quente” (Key Terms); estava “calor”.
+- `pt-BR/g3-pr.md` [117]: “em razão desse calor” → “em razão desse quente” — calidum → “quente” (Key Terms); estava “calor”.
+- `pt-BR/g3-pr.md` [146]: “pela umidade e pelo frio do mar” → “pela umidade e pela frieza do mar” — frigiditate → “frieza” (Key Terms); estava “frio”.
+- `pt-BR/g3-pr.md` [150]: “Essa reverberação das cores” → “Essa reflexão das cores” — reverberatio → “reflexão” (Key Terms); estava “reverberação”.
+- `pt-BR/g3-pr.md` [165]: “no ar adensado pelo frio” → “no ar adensado pela frieza” — frigiditatem → “frieza” (Key Terms); estava “frio”.
+- `pt-BR/g3-pr.md` [165]: “nas pequenas gotas contíguas” → “nas pequenas gotas contínuas” — continuis → “contínuas” (Key Terms); “contíguas” corresponde a contiguis e troca a distinção técnica. *(meaning)*
+- `pt-BR/g3-pr.md` [283]: “por seu calor moderado” → “pelo quente moderado que possui” — calidum temperatum → “quente moderado” (Key Terms); estava “calor moderado”.
+- `pt-BR/g3-pr.md` [297]: “é inflamada pelo calor” → “é inflamada pelo quente” — calido → “quente” (Key Terms); estava “calor”.
+- `pt-BR/g3-pr.md` [297]: “Mas o calor que inflama” → “Mas o quente que inflama” — calidum → “quente” (Key Terms); estava “calor”.
+- `pt-BR/g3-pr.md` [297]: “pelo calor que desseca a exalação” → “pelo quente que desseca a exalação” — calido → “quente” (Key Terms); estava “calor”.
+- `pt-BR/g3-pr.md` [297]: “pelo calor que consome intensamente” → “pelo quente que consome intensamente” — calido → “quente” (Key Terms); estava “calor”.
+- `pt-BR/g3-pr.md` [297]: “pelo calor que faz exalar” → “pelo quente que faz exalar” — calido → “quente” (Key Terms); estava “calor”.
+- `pt-BR/g3-pr.md` [303]: “produzida pelo calor que queima” → “produzida pelo quente que queima” — calido → “quente” (Key Terms); estava “calor”.
+
+### Part terms 2 of 3, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 1 minor. Delta read of the 62 round-1 changes and their neighbours: the g3-pr [98] fix inverted subject and object (meaning) and g2-c010 [209] was left with an unclear pronoun; the rest is correct.
+- `pt-BR/g3-pr.md` [98]: “de modo que o quente nele encerrado prevaleça” → “de modo que prevaleça sobre o quente nele encerrado” — ut [aer] obtineret interceptum calidum: o sujeito é o ar, que prevalece sobre o quente encerrado (Aristóteles: κρατεῖν τοῦ ἐναπολαμβανομένου θερμοῦ); a correção anterior invertia sujeito e objeto *(meaning)*
+- `pt-BR/g2-c010.md` [209]: “diminuído o quente que dela provém” → “diminuído o quente da lua” — eius calido = o quente da lua; “dela” não tem antecedente feminino expresso (só o adjetivo “lunares”)
+- Rejected: pt-BR/g2-c010.md [210] — “quente” e “calor” alternam no mesmo parágrafo — a fonte alterna calidi e calor/caliditas; a tradução acompanha
+- Rejected: pt-BR/g2-c010.md [211] — “meia noite antes” sem hífen — per mediam noctem ante = metade de uma noite antes; sem hífen é correto
+- Rejected: pt-BR/g2-c010.md [97] — “é próprio do frio” após a troca para “frieza” — a fonte diz frigidi (qualidade substantivada) = “frio”, conforme Key Terms
+
+### Part terms 2 of 3, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Conferidas as duas correções e lidos integralmente os seis parágrafos e as três notas apresentados; nenhum novo defeito encontrado.
+- Rejected: pt-BR/g3-pr.md [99] — Extensão da tradução sinalizada pela auditoria. — As explicitações portuguesas recuperam elementos implícitos da construção latina, sem acrescentar conteúdo alheio à fonte.
+- Rejected: pt-BR/g2-c010.md [208] — Diferença na quantidade de marcadores de ênfase. — A tradução reúne destaques contíguos da mesma citação; o conteúdo destacado foi preservado.
+
+### Part terms 3 of 3, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 102 minor. Lidos os 90 parágrafos sinalizados; 50 sinalizações de termos apresentavam desvio.
+- `pt-BR/g4-pr.md` [5]: “o calor e o frio mostram-se” → “o calor e a frieza mostram-se” — *frigiditas* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [5]: “sofre as outras afecções mencionadas” → “padece as outras afecções mencionadas” — *patientia* → “padecer”, conforme a construção (Key Terms).
+- `pt-BR/g4-pr.md` [5]: “como algo que sofre uma ação” → “como algo que padece uma ação” — *pati* → “padecer” (Key Terms).
+- `pt-BR/g4-pr.md` [18]: “por deficiência de calor” → “por deficiência do quente” — *calidi* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [35]: “se putrefaz pelo calor extrínseco porque” → “se putrefaz pelo quente extrínseco porque” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [35]: “como o frio intrínseco são causas” → “como a frieza intrínseca são causas” — *frigiditas* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [35]: “e o frio é a causa secundária” → “e a frieza é a causa secundária” — *frigiditas* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [35]: “sofre a ação do calor extrínseco” → “sofre a ação do quente extrínseco” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [35]: “a abundância do frio contrário” → “a abundância da frieza contrária” — *frigiditatem* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [36]: “pois o calor extrínseco, ao extrair” → “pois o quente extrínseco, ao extrair” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [36]: “pelo calor que dissipa inteiramente” → “pelo quente que dissipa inteiramente” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [42]: “e também mais frio, mantidas” → “e também mais frieza, mantidas” — *frigiditatem* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [46]: “Ao frio pertence a indigestão” → “À frieza pertence a indigestão” — *frigiditatis* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [47]: “a deficiência de calor é o frio” → “a deficiência de calor é a frieza” — *frigiditas* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [57]: “A operação do frio, porém” → “A operação da frieza, porém” — *frigiditatis* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [58]: “uma por si, que é o frio” → “uma por si, que é a frieza” — *frigiditas* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [58]: “o frio será causa da indigestão” → “a frieza será causa da indigestão” — *frigiditas* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [58]: “a remoção do calor implica o frio” → “a remoção do calor implica a frieza” — *frigiditatem* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [58]: “a causa da indigestão é o frio” → “a causa da indigestão é a frieza” — *frigiditas* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [59]: “causada eficientemente pelo calor próprio e natural” → “causada eficientemente pelo quente próprio e natural” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [59]: “se realiza principalmente pelo calor próprio e natural” → “se realiza principalmente pelo quente próprio e natural” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [59]: “favorecem o calor intrínseco e natural” → “favorecem o quente intrínseco e natural” — *calidi* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [59]: “como que endurecido pelo calor” → “como que endurecido pelo quente” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [59]: “delimitados pelo calor que prevalece” → “delimitados pelo quente que prevalece” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [59]: “delimitado pelo calor e espessado” → “delimitado pelo quente e espessado” — *calidum* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [61]: “essa deficiência de calor é frio” → “essa deficiência de calor é frieza” — *frigiditas* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [61]: “isto é, implica o frio” → “isto é, implica a frieza” — *frigiditatem* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [61]: “a causa por si da indigestão é o frio” → “a causa por si da indigestão é a frieza” — *frigiditas* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [61]: “como causa eficiente o frio que impede” → “como causa eficiente a frieza que impede” — *frigiditas* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [64]: “pelo calor e pelo frio naturais” → “pelo calor e pela frieza naturais” — *frigiditate* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [64]: “a digestão, pelo calor natural, do úmido” → “a digestão, pelo quente natural, do úmido” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [72]: “principalmente do calor natural” → “principalmente do quente natural” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [74]: “na qual primeiro o calor separa” → “na qual primeiro o quente separa” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [79]: “sofrem a ação do calor extrínseco” → “sofrem a ação do quente extrínseco” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [80]: “a deficiência acompanha o frio” → “a deficiência acompanha a frieza” — *frigiditate* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [80]: “pela quantidade de frio no líquido” → “pela quantidade de frieza no líquido” — *frigiditatis* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [80]: “naquilo que sofre *hepsesis*” → “naquilo que padece *hepsesis*” — *patiente* → “padecer”, conforme a construção (Key Terms).
+- `pt-BR/g4-pr.md` [81]: “a ação do calor seco do fogo” → “a ação do quente seco do fogo” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [81]: “à ação do calor que está no líquido extrínseco” → “à ação do quente que está no líquido extrínseco” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [83]: “Essa deficiência de calor, porém, é o frio” → “Essa deficiência de calor, porém, é a frieza” — *frigiditas* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [91]: “a saber, do calor natural, proveniente” → “a saber, do quente natural, proveniente” — *calidi* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [112]: “e aquilo que sofre ação sofre por duas afecções” → “e o paciente padece por duas afecções” — Conserva “paciente” e “padecer” na exposição de *patitur* (Key Terms).
+- `pt-BR/g4-pr.md` [112]: “Aquilo que sofre ação é úmido” → “O paciente é úmido” — *patiens* → “paciente” (Key Terms).
+- `pt-BR/g4-pr.md` [127]: “que o frio é por si corruptivo” → “que a frieza é por si corruptiva” — *frigiditas* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [127]: “primeiro modo, o frio é gerador por si” → “primeiro modo, a frieza é geradora por si” — *frigiditas* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [127]: “porque o frio corrompe o fogo e o ar” → “porque a frieza corrompe o fogo e o ar” — *frigiditas* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [128]: “pelo calor exterior, que extrai” → “pelo quente exterior, que extrai” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [128]: “pelo calor interior e pelo frio circundante” → “pelo quente interior e pelo frio circundante” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [128]: “fortalece o calor interior pela antiperístase” → “fortalece o quente interior pela antiperístase” — *calidum* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [128]: “ou pelo calor por si” → “ou pelo quente por si” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [129]: “ocorre pelo calor que dissolve” → “ocorre pelo quente que dissolve” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [133]: “Pelo calor, enquanto este extrai” → “Pelo quente, enquanto este extrai” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [133]: “expulsa o calor, com o qual” → “expulsa o quente, com o qual” — *calidum* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [134]: “com a saída do calor” → “com a saída do quente” — *calidum* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [134]: “se liquefazem pelo calor, quando ele” → “se liquefazem pelo quente, quando ele” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [134]: “extração simultânea de todo o calor” → “extração simultânea de todo o quente” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [136]: “enfraquecendo-se o calor, o ar” → “enfraquecendo-se o quente, o ar” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [141]: “não se coagulam pelo calor no início” → “não se coagulam pelo quente no início” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [142]: “se liquefazem pelo calor” → “se liquefazem pelo quente” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [142]: “sem que este extraia todo o úmido supérfluo juntamente com o calor intrínseco” → “sem que este extraia todo o úmido supérfluo juntamente com o quente intrínseco” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [142]: “elas se dissolvem facilmente pelo calor” → “elas se dissolvem facilmente pelo quente” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [142]: “frio que extrai todo o úmido supérfluo juntamente com o calor intrínseco” → “frio que extrai todo o úmido supérfluo juntamente com o quente intrínseco” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [147]: “o elemento transparente se torna mais sutil” → “o elemento diáfano se torna mais sutil” — *perspicuo* → “diáfano” (Key Terms).
+- `pt-BR/g4-pr.md` [148]: “se espessam somente pelo calor ou somente pelo frio” → “se espessam somente pelo quente ou somente pelo frio” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [148]: “se coagulam somente pelo calor se dissolvem” → “se coagulam somente pelo quente se dissolvem” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [148]: “podem amolecer pelo calor” → “podem amolecer pelo quente” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [148]: “isto é, pelo calor e pelo frio” → “isto é, pelo quente e pelo frio” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [148]: “ressecados pelo calor mediante” → “ressecados pelo quente mediante” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [148]: “coagulado tanto pelo calor como pelo frio” → “coagulado tanto pelo quente como pelo frio” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [148]: “primeiro se liquefaz pelo calor” → “primeiro se liquefaz pelo quente” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [148]: “se liquefaça por um calor intenso” → “se liquefaça por um quente intenso” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [151]: “adquirem consistência pelo calor e pelo frio” → “adquirem consistência pelo quente e pelo frio” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [151]: “em alguns também há frio” → “em alguns também há frieza” — *frigiditas* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [153]: “contêm mais calor e terra” → “contêm maior quantidade do quente e de terra” — *calidi* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [155]: “ou ao menos há neles frio” → “ou ao menos há neles frieza” — *frigiditas* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [155]: “como o frio em relação ao calor” → “como a frieza em relação ao calor” — *frigiditas* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [169]: “foram coaguladas pelo calor mediante” → “foram coaguladas pelo quente mediante” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [187]: “pelo calor que move e une” → “pelo quente que move e une” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [191]: “a separação, pela ação de um calor capaz de queimar, de ar e sopro” → “a separação, pela ação do quente capaz de queimar, de ar e sopro” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [191]: “úmido aéreo pela ação de um calor capaz de queimar” → “úmido aéreo pela ação do quente capaz de queimar” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [192]: “coaguladas pelo calor ou por ambos” → “coaguladas pelo quente ou por ambos” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [192]: “frio e calor, pois elas” → “frio e quente, pois elas” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [196]: “coaguladas somente pelo calor” → “coaguladas somente pelo quente” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [196]: “isto é, pelo calor e pelo frio” → “isto é, pelo quente e pelo frio” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [200]: “se coagulam pelo calor são compostos” → “se coagulam pelo quente são compostos” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [200]: “espessa-se sobretudo pelo calor” → “espessa-se sobretudo pelo quente” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [200]: “contém muito calor e muita terra” → “contém grande quantidade do quente e de terra” — *calidum* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [201]: “coagulados pelo calor são de terra” → “coagulados pelo quente são de terra” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [201]: “de ambos, do calor e do úmido” → “de ambos, do quente e do úmido” — *calidi* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [201]: “úmido que sai juntamente com o calor” → “úmido que sai juntamente com o quente” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [201]: “privação somente do calor” → “privação somente do quente” — *calidi* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [201]: “Quando o calor sai por ação do rio” → “Quando o quente sai por ação do rio” — *calidum* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [201]: “pois, ao sair o calor” → “pois, ao sair o quente” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [201]: “o úmido sai juntamente com o calor que delas se retira” → “o úmido sai juntamente com o quente que delas se retira” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [203]: “esses corpos se fundem pelo calor” → “esses corpos se fundem pelo quente” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [203]: “saindo o úmido juntamente com o calor” → “saindo o úmido juntamente com o quente” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [218]: “estas são determinadas pelo frio” → “estas são determinadas pela frieza” — *frigiditate* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [224]: “produzidas pelo calor, pelo frio e pelos movimentos” → “produzidas pelo calor, pela frieza e pelos movimentos” — *frigiditate* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [224]: “sendo coaguladas pelo calor e pelo frio” → “sendo coaguladas pelo quente e pelo frio” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [224]: “Estas se produzem pelo calor, pelo frio” → “Estas se produzem pelo quente, pelo frio” — *calido* → “quente” (Key Terms).
+- `pt-BR/g4-pr.md` [224]: “assim como o calor, o frio e o movimento” → “assim como o calor, a frieza e o movimento” — *frigiditas* → “frieza” (Key Terms).
+- `pt-BR/g4-pr.md` [231]: “são feitos pelo calor e pelo frio como por um agente” → “são feitos pelo calor e pela frieza como por um agente” — *frigiditate* → “frieza” (Key Terms).
+
+### Part terms 3 of 3, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta read of g4-pr.md: the previous round's changes are correct; fixed one concord error those changes left in [127] and one leftover frigiditas → frieza in [18].
+- `pt-BR/g4-pr.md` [127]: “é por si corruptiva e por acidente gerador,” → “é por si corruptiva e por acidente geradora,” — frigiditas … per accidens generativa; the previous fix made the subject feminine (“a frieza”), so “gerador” must agree as “geradora”
+- `pt-BR/g4-pr.md` [18]: “comum ao frio próprio e ao calor alheio” → “comum à frieza própria e ao calor alheio” — source frigiditatisque propriae; Key Terms: frigiditas → frieza, as in the other fixes in this chapter
+- Rejected: pt-BR/g4-pr.md [196] — audit flag: repeated word “chama chama” — “fumaça, que, quando acesa, se chama chama” is correct: verb “chamar-se” followed by the noun “chama”
+- Rejected: pt-BR/g4-pr.md [148] — “por um quente intenso” reads awkwardly — This is the substantivized quality required by Key Terms (a forti calido); it is grammatical and the sense is intact
+- Rejected: pt-BR/g4-pr.md [132], [140], [146], [152], [156] — Several substantivized calidum are still rendered “calor” — The previous round chose not to change these paragraphs, and the sense is unchanged. They are left unchanged here so this round does not reopen that selection piecemeal
+- Rejected: pt-BR/g4-pr.md [112] — “o paciente” added as the subject of patitur — The source has an implicit subject paired with faciens; making it explicit follows the agens/patiens row in Key Terms and adds no content
+
+### Part terms 3 of 3, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 2 minor. Lidos os seis parágrafos apresentados e as duas notas; confirmadas as duas correções anteriores e encontrados dois desvios menores da tabela de termos.
+- `pt-BR/g4-pr.md` [19]: “quando sai o calor próprio” → “quando sai o quente próprio” — O latim traz proprio calido; a tabela de termos distingue calidum, “quente”, de caliditas, “calor”.
+- `pt-BR/g4-pr.md` [19]: “há pouco calor no ar e na água circundantes” → “há pouco do quente no ar e na água circundantes” — O latim traz paucum ... calidum; conforme a tabela de termos, a qualidade substantivada é “quente”.
+- Rejected: pt-BR/g4-pr.md [17] — A auditoria aponta marcadores de ênfase adicionais. — Os itálicos marcam os termos estrangeiros molynsis e auansis, conforme as decisões do diário.
+
+### Part terms 3 of 3, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of g4-pr.md [18]–[20] and its notes: the two calidum → “quente” changes in [19] are correct and broke nothing; no defects found.
+- Rejected: pt-BR/g4-pr.md [19] — “há pouco do quente” followed by “ele nada pode fazer”: check that the pronoun still resolves after the change — “ele” now refers to “o quente”, matching paucum … calidum; quare nihil potest. Grammatical and faithful.
+- Rejected: pt-BR/g4-pr.md [20] — The lemma ***determinatis autem his*** is translated, while the journal says lemmas after “quando diz” are kept in Latin — Another journal decision says quotations that take up the commented text are translated with their emphasis. The translation is faithful and keeps the bold italics. Harmonizing would need the whole chapter, which this delta read does not show.
+- Rejected: pt-BR/g4-pr.md [19] — “Neque fervens quam calidum” rendered “aquilo que ferve ou está muito quente” — This is a defensible reading of the elliptical comparative (very hot), and the sense is kept.
