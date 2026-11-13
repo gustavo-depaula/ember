@@ -4,7 +4,7 @@ São Gregório Magno, administrador tão hábil e apóstolo tão zeloso quanto g
 
 É bem o contrário que se deve dizer da grande maioria dos nossos contemporâneos. Viver consigo, em si, querer governar-se a si mesmo e não se deixar governar pelo exterior, reduzir a imaginação[^1][^2][^3], a sensibilidade e até a inteligência e a memória ao papel de servas da vontade, e conformar sem cessar essa vontade à de Deus é um programa que se aceita cada vez menos, neste século de agitação que viu nascer um ideal novo: o amor da ação pela ação.
 
-Para esquivar essa disciplina das faculdades, todos os pretextos são julgados bons: negócios, cuidados de família, higiene, boa reputação, amor da pátria, prestígio da corporação, pretensa glória de Deus disputam entre si para nos impedir de viver em nós mesmos. Essa espécie de delírio da vida fora de si chega até a exercer sobre nós uma atração irresistível.
+Para esquivar essa disciplina das faculdades, todos os pretextos são julgados bons: negócios, solicitudes de família, higiene, boa reputação, amor da pátria, prestígio da corporação, pretensa glória de Deus disputam entre si para nos impedir de viver em nós mesmos. Essa espécie de delírio da vida fora de si chega até a exercer sobre nós uma atração irresistível.
 
 Deve espantar, então, que a vida interior seja desconhecida?
 

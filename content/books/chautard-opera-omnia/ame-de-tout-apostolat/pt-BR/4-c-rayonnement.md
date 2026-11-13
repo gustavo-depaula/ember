@@ -136,7 +136,7 @@ Trata-se do emprego dos meios? Se vê que a causa dos princípios não está em 
 
 Nada substituirá a vida interior para obter esse espírito impessoal que caracteriza o zelo de todos os Santos.
 
-No Chablais, todos os esforços fracassam antes da chegada de São Francisco de Sales. Os chefes do protestantismo preparam-se para uma luta encarniçada. A seita não quer nada menos que matar o bispo de Genebra. Este se apresenta radiante de doçura e de humildade. Vê-se nele um homem em quem o apagamento do Eu faz resplandecer o amor
+No Chablais, todos os esforços fracassam antes da chegada de São Francisco de Sales. Os chefes do protestantismo preparam-se para uma luta encarniçada. A seita não quer nada menos que matar o bispo de Genebra. Este se apresenta irradiando doçura e humildade. Vê-se nele um homem em quem o apagamento do Eu faz resplandecer o amor
 
 de Deus e do próximo. A história nos ensina os resultados rápidos, quase inverossímeis, produzidos por esse apostolado.
 

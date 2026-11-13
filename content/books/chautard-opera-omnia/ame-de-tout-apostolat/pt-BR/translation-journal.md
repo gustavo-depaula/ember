@@ -308,3 +308,24 @@ Verdict: 0 meaning-level, 0 minor. Delta read of 5-3 ¶7-9, 21-23 and 173-175 an
 - Rejected: pt-BR/5-3-vie-liturgique.md [173]-[175] — Sentence runs across a page break; the source's ">" is dropped — The text runs "o espírito fundamental que viestes / ensinar pelos vossos exemplos", which matches "que vous êtes / venu enseigner". Round 1 already rejected the blockquote flag.
 - Rejected: pt-BR/5-3-vie-liturgique.md [^65], [^66] — Translator's notes checked as claims of fact — Both are correct. Perboyre was a Lazarist, 1802-1840, martyred in China, beatified in 1889 and canonized in 1996. The *Aperi, Domine* asks to say the Office "digne, attente ac devote".
 - Rejected: audit: emphasis, blockquote, Key Terms "age quod agis" — Count and blockquote flags — These come from italics on retained Latin, the asterism in ¶21 and the stray ">". Round 1 already rejected them, and there is no new argument.
+
+### Part terms 1 of 1, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 7 minor. 85 parágrafos sinalizados lidos; 7 ocorrências com desvio terminológico.
+- `pt-BR/1-4-meconnue.md` [4]: “negócios, cuidados de família, higiene” → “negócios, solicitudes de família, higiene” — *sollicitudes* → “solicitudes” (Key Terms); estava “cuidados”
+- `pt-BR/3-3-saintete-ouvrier.md` [37]: “seiva que desce da cepa para os sarmentos” → “seiva que desce da Videira para os sarmentos” — *cep* → “Videira” (Key Terms); estava “cepa” na imagem de João 15
+- `pt-BR/4-c-rayonnement.md` [69]: “Este se apresenta radiante de doçura e de humildade.” → “Este se apresenta irradiando doçura e humildade.” — *rayonnant de* → “irradiando” (Key Terms); estava “radiante de”
+- `pt-BR/5-2-oraison.md` [68]: “com este Modelo perfeito” → “com este Exemplar perfeito” — *Exemplaire* → “Exemplar” (Key Terms); estava “Modelo”
+- `pt-BR/5-2-oraison.md` [68]: “os móveis secretos dos menores atos” → “os motivos secretos dos menores atos” — *mobiles* → “motivos” (Key Terms); estava “móveis”
+- `pt-BR/5-2-oraison.md` [140]: “com vossa mão muito suave e” → “com vossa mão muito doce e” — *douce* → “doce”, correspondente a “doçura” (Key Terms); estava “suave”
+- `pt-BR/prologue.md` [17]: “os ditosos que fizeram o retiro do Cenáculo” → “os ditosos retirantes do Cenáculo” — *retraitants* → “retirantes” (Key Terms); estava parafraseado como “que fizeram o retiro”
+
+### Part terms 1 of 1, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read of 7 changes and their neighbours: 6 are correct; the prologue [17] change goes against the journal's decision for that place and is reverted.
+- `pt-BR/prologue.md` [17]: “os ditosos retirantes do Cenáculo” → “os ditosos que fizeram o retiro do Cenáculo” — source: les heureux retraitants du Cénacle; the Key Terms row for this exact place gives “os ditosos que fizeram o retiro do Cenáculo”, because in pt-BR “retirantes” usually means migrants fleeing drought; the previous change contradicts that decision and leaves the journal row false
+- Rejected: pt-BR/3-3-saintete-ouvrier.md [37] — “Videira” is capitalized for a lowercase “cep” in a simile, and “desce” occurs twice — The Key Terms row Cep → Videira applies to the John 15 image. The repeated “desce” was already in the sentence before the change and is not a defect.
+- Rejected: pt-BR/3-3-saintete-ouvrier.md [^24] — Facts in the note on Sonis — The dates 1825-1887, the wound at Loigny in 1870 and the amputated leg are correct.
+- Rejected: pt-BR/5-2-oraison.md [^19], [^20] — Identification of Lehodey and Rigoleuc — Both are correct: Lehodey was abbot of Bricquebec; Rigoleuc was a Jesuit, a missionary in Brittany and a disciple of Lallemant.
+
+### Part terms 1 of 1, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos os parágrafos 16–18 do prólogo e verificada a alteração da rodada anterior; nenhum defeito encontrado.
+- Rejected: pt-BR/prologue.md [17] — “que fizeram o retiro do Cenáculo” parafraseia “retraitants du Cénacle”. — A expressão preserva o sentido da fonte, corresponde à decisão específica do diário e se integra corretamente à frase.

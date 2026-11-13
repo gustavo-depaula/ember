@@ -70,7 +70,7 @@ Enquanto o homem exterior conta com suas forças naturais, o homem interior só 
 
 Sem vida interior, diz Pio X, faltarão as forças para suportar com perseverança os aborrecimentos que todo apostolado traz consigo, a frieza e o pouco concurso dos próprios homens de bem, as calúnias dos adversários, às vezes até os ciúmes dos amigos, dos companheiros de armas... Só uma virtude paciente, firmada no bem e ao mesmo tempo suave e delicada, é capaz de afastar ou diminuir essas dificuldades (3).
 
-Pela vida de oração, semelhante à seiva que desce da cepa para os sarmentos, a força divina desce ao apóstolo para firmar nele a inteligência, estabelecendo-a mais na fé. Ele progride, porque essa virtude ilumina o seu caminho com as mais vivas luzes. Avança resolutamente, porque sabe aonde quer ir e como deve atingir o seu fim.
+Pela vida de oração, semelhante à seiva que desce da Videira para os sarmentos, a força divina desce ao apóstolo para firmar nele a inteligência, estabelecendo-a mais na fé. Ele progride, porque essa virtude ilumina o seu caminho com as mais vivas luzes. Avança resolutamente, porque sabe aonde quer ir e como deve atingir o seu fim.
 
 Essa iluminação vem acompanhada de tal[^15] energia sobrenatural de vontade que até o caráter fraco e volúvel se torna capaz de atos heroicos.
 

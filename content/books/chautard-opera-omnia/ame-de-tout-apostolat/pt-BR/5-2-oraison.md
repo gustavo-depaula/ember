@@ -132,7 +132,7 @@ Se a minha sensibilidade me oferece o seu concurso, aceito-o. Pode ser útil, ma
 
 Embora o meu esforço tenha sido leal, pode acontecer que o meu coração permaneça frio e só exprima frouxamente as suas afeições. Dir-Vos-ei então ingenuamente, ó Jesus, a minha humilhação e o meu desejo. Prolongarei de bom grado as minhas queixas, persuadido de que, gemendo assim diante de Vós por esta esterilidade, adquiro um direito especial de unir-me de modo muito eficaz, embora árida, cega e friamente, às afeições do vosso divino Coração.
 
-Como é belo, ó Jesus, o Ideal que avisto em Vós! Mas a minha vida está em harmonia com este Modelo perfeito? Faço esta busca sob o vosso olhar profundo, ó Interlocutor divino que, agora todo Misericórdia, sereis todo justiça no face a face do juízo particular, quando, com um só olhar, perscrutareis os móveis secretos dos menores atos de minha existência. Vivo deste Ideal? Se eu morresse neste momento, ó Jesus, não acharíeis que a minha conduta é a sua contradição?
+Como é belo, ó Jesus, o Ideal que avisto em Vós! Mas a minha vida está em harmonia com este Exemplar perfeito? Faço esta busca sob o vosso olhar profundo, ó Interlocutor divino que, agora todo Misericórdia, sereis todo justiça no face a face do juízo particular, quando, com um só olhar, perscrutareis os motivos secretos dos menores atos de minha existência. Vivo deste Ideal? Se eu morresse neste momento, ó Jesus, não acharíeis que a minha conduta é a sua contradição?
 
 Em que pontos desejais, Bom Mestre, que eu me corrija? Ajudai-me a descobrir os obstáculos que me impedem de Vos imitar, depois as causas internas ou externas e as ocasiões próximas ou remotas das minhas quedas.
 
@@ -282,7 +282,7 @@ A análise da alma pelo exame particular, para verificar se houve progresso, rec
 
 [^5]: Bela expressão de Álvarez de Paz sobre o fim da oração.
 
-[^6]: Vós, Senhor Jesus, Vós mesmo, com vossa mão muito suave e
+[^6]: Vós, Senhor Jesus, Vós mesmo, com vossa mão muito doce e
 
 [^7]: Um livro de meditação é quase sempre indispensável para impedir que o espírito fique no vago.
 
