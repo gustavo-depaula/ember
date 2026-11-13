@@ -787,7 +787,7 @@
   ],
   "path": "denis-opera-omnia/theology/summa-fidei-orthodoxae",
   "slug": "summa-fidei-orthodoxae",
-  "draft": true,
+  "draft": false,
   "meta": {
     "id": "denis-summa-fidei-orthodoxae",
     "cover": "label",
@@ -803,14 +803,14 @@
     },
     "description": {
       "la": "Summa fidei orthodoxæ.",
-      "en-US": "A theological work of Denis the Carthusian. Uncorrected OCR text: not yet proofread against the scans.",
-      "pt-BR": "Uma obra teológica de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+      "en-US": "A theological work of Denis the Carthusian.",
+      "pt-BR": "Uma obra teológica de Dionísio, o Cartuxo."
     },
     "sources": [
       {
         "language": "la",
         "url": "https://archive.org/details/operaomniainunu17deni",
-        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XVII, XVIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XVII, XVIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
       }
     ]
   }
